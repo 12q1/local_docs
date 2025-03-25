@@ -16,7 +16,7 @@
 	- _Example: I can run further than you._
 - **([[c/_comparative|comparative]] [[f/_form|form]] of [[f/_far|far]]) To a [[g/_greater|greater]] [[e/_extent|extent]] or [[d/_degree|degree]].**
 	- _Example: Of the two civilisations, this one was further advanced._
-- **[[b/_beyond|Beyond]] what is [[a/_already|already]] stated or is [[a/_already|already]] the [[c/_case|case]].**
+- **[[b/_beyond|Beyond]] what is [[a/_already|already]] [[s/_stated|stated]] or is [[a/_already|already]] the [[c/_case|case]].**
 	- _Example: Chapter 10 further explains the ideas introduced in Chapter 9._
 - **[[a/_also|Also]]; in [[a/_addition|addition]]; [[f/_furthermore|furthermore]]; [[m/_moreover|moreover]].**
 	- _Example: It is overlong, and further, it makes no sense._

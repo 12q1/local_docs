@@ -1,7 +1,7 @@
 # Indifference
 ---
 #noun
-- **The state of [[b/_being|being]] [[i/_indifferent|indifferent]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[i/_indifferent|indifferent]].**
 - **Unbiased [[i/_impartiality|impartiality]].**
 - **Unemotional [[a/_apathy|apathy]].**
 	- _Example: His daughter's indifference towards the sexist group made him wonder if she was even human._

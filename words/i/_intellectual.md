@@ -15,7 +15,7 @@
 	- _Example: intellectual employments_
 - **[[r/_relating|Relating]] to the understanding; treating of the [[m/_mind|mind]].**
 	- _Example: intellectual philosophy, sometimes called "mental" philosophy_
-- **Spiritual.**
+- **[[s/_spiritual|Spiritual]].**
 ---
 ### Antonyms
 - [[n/_nonintellectual|nonintellectual]]

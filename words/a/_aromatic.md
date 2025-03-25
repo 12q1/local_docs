@@ -1,11 +1,11 @@
 # Aromatic
 ---
 #noun
-- **A [[f/_fragrant|fragrant]] [[p/_plant|plant]] or spice [[a/_added|added]] to a [[d/_dish|dish]] to [[f/_flavour|flavour]] it.**
+- **A [[f/_fragrant|fragrant]] [[p/_plant|plant]] or [[s/_spice|spice]] [[a/_added|added]] to a [[d/_dish|dish]] to [[f/_flavour|flavour]] it.**
 - **[[a/_any|Any]] [[a/_aromatic|aromatic]] [[c/_compound|compound]].**
 ---
 #adjective
-- **[[f/_fragrant|Fragrant]] or spicy.**
+- **[[f/_fragrant|Fragrant]] or [[s/_spicy|spicy]].**
 - **[[h/_having|Having]] a [[c/_closed|closed]] [[r/_ring|ring]] of [[a/_alternate|alternate]] [[s/_single|single]] and [[d/_double|double]] [[b/_bonds|bonds]] with [[d/_delocalized|delocalized]] [[e/_electrons|electrons]].**
 - **[[d/_derived|Derived]] from [[b/_benzene|benzene]].**
 ---

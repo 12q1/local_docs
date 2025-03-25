@@ -12,7 +12,7 @@
 	- _Example: Can you shed any light on this problem?_
 - **To [[p/_pour|pour]] [[f/_forth|forth]], [[g/_give|give]] [[o/_off|off]], [[i/_impart|impart]].**
 - **To [[f/_fall|fall]] in [[d/_drops|drops]]; to [[p/_pour|pour]].**
-- **To sprinkle; to [[i/_intersperse|intersperse]]; to [[c/_cover|cover]].**
+- **To [[s/_sprinkle|sprinkle]]; to [[i/_intersperse|intersperse]]; to [[c/_cover|cover]].**
 - **To [[d/_divide|divide]], as the warp threads, [[s/_so|so]] as to [[f/_form|form]] a [[s/_shed|shed]], or [[p/_passageway|passageway]], for the [[s/_shuttle|shuttle]].**
 ---
 #noun
@@ -23,9 +23,9 @@
 - **An [[a/_area|area]] of [[l/_land|land]] as [[d/_distinguished|distinguished]] from those [[a/_around|around]] it.**
 ---
 #noun
-- **A [[s/_slight|slight]] or temporary structure [[b/_built|built]] to [[s/_shade|shade]] or [[s/_shelter|shelter]] [[s/_something|something]]; a structure usually [[o/_open|open]] in [[f/_front|front]]; an [[o/_outbuilding|outbuilding]]; a [[h/_hut|hut]].**
+- **A [[s/_slight|slight]] or temporary [[s/_structure|structure]] [[b/_built|built]] to [[s/_shade|shade]] or [[s/_shelter|shelter]] [[s/_something|something]]; a [[s/_structure|structure]] usually [[o/_open|open]] in [[f/_front|front]]; an [[o/_outbuilding|outbuilding]]; a [[h/_hut|hut]].**
 	- _Example: a wagon shed; a wood shed; a garden shed_
-- **A [[l/_large|large]] temporary [[o/_open|open]] structure for [[r/_reception|reception]] of [[g/_goods|goods]].**
+- **A [[l/_large|large]] temporary [[o/_open|open]] [[s/_structure|structure]] for [[r/_reception|reception]] of [[g/_goods|goods]].**
 - **An [[a/_automobile|automobile]] which is [[o/_old|old]], worn-[[o/_out|out]], [[s/_slow|slow]], or [[o/_otherwise|otherwise]] of [[p/_poor|poor]] [[q/_quality|quality]].**
 - **([[r/_rail|rail]] transportation) A [[b/_british|British]] [[r/_rail|Rail]] [[c/_class|Class]] 66 [[l/_locomotive|locomotive]].**
 ---

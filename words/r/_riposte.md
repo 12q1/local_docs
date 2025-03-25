@@ -2,7 +2,7 @@
 ---
 #noun
 - **A thrust [[g/_given|given]] in [[r/_return|return]] [[a/_after|after]] [[p/_parrying|parrying]] an [[a/_attack|attack]].**
-- **A [[c/_counter|counter]]-[[a/_attack|attack]] in [[a/_any|any]] [[c/_combat|combat]] or [[a/_any|any]] sport**
+- **A [[c/_counter|counter]]-[[a/_attack|attack]] in [[a/_any|any]] [[c/_combat|combat]] or [[a/_any|any]] [[s/_sport|sport]]**
 - **A [[q/_quick|quick]] and usually witty [[r/_response|response]] to a taunt, a [[r/_retort|retort]]**
 - **An [[a/_answer|answer]] or [[r/_reply|reply]], [[r/_rapidly|rapidly]] uttered, in [[r/_response|response]] to a [[q/_question|question]] or [[p/_problem|problem]]**
 ---

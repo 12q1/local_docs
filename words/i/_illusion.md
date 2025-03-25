@@ -6,7 +6,7 @@
 - **A [[m/_misapprehension|misapprehension]]; a [[b/_belief|belief]] in [[s/_something|something]] that is in [[f/_fact|fact]] not true.**
 	- _Example: Jane has this illusion that John is in love with her._
 - **A [[m/_magician|magician]]’[[s/_s|s]] trick.**
-- **The state of [[b/_being|being]] [[d/_deceived|deceived]] or [[m/_misled|misled]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[d/_deceived|deceived]] or [[m/_misled|misled]].**
 ---
 ### Synonyms
 - [[m/_misapprehension|misapprehension]]

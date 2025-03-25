@@ -25,6 +25,6 @@
 ### Synonyms
 - [[d/_dit|dit]], [[h/_hartley|hartley]]
 #noun
-- **A title used in [[s/_several|several]] states in [[c/_central|central]] and [[s/_south|south]]-[[e/_eastern|eastern]] [[e/_europe|Europe]] [[b/_between|between]] the 7th [[c/_century|century]] and the 20th [[c/_century|century]].**
+- **A title used in [[s/_several|several]] [[s/_states|states]] in [[c/_central|central]] and [[s/_south|south]]-[[e/_eastern|eastern]] [[e/_europe|Europe]] [[b/_between|between]] the 7th [[c/_century|century]] and the 20th [[c/_century|century]].**
 ---
 ---

@@ -7,11 +7,11 @@
 - **In [[l/_linear|linear]] [[m/_measurement|measurement]]:**
 - **A [[s/_side|side]]; [[p/_part|part]], [[c/_camp|camp]]; [[d/_direction|direction]], [[e/_either|either]] [[r/_right|right]] or [[l/_left|left]].**
 - **[[p/_power|Power]] of [[p/_performance|performance]]; [[m/_means|means]] of [[e/_execution|execution]]; [[a/_ability|ability]]; [[s/_skill|skill]]; [[d/_dexterity|dexterity]].**
-- **An [[a/_agent|agent]]; a [[s/_servant|servant]], or [[m/_manual|manual]] [[l/_laborer|laborer]], [[e/_especially|especially]] in [[c/_compounds|compounds]]; a workman, trained or [[c/_competent|competent]] for special [[s/_service|service]] or [[d/_duty|duty]]; a [[p/_performer|performer]] [[m/_more|more]] or [[l/_less|less]] [[s/_skillful|skillful]].**
+- **An [[a/_agent|agent]]; a [[s/_servant|servant]], or [[m/_manual|manual]] [[l/_laborer|laborer]], [[e/_especially|especially]] in [[c/_compounds|compounds]]; a workman, trained or [[c/_competent|competent]] for [[s/_special|special]] [[s/_service|service]] or [[d/_duty|duty]]; a [[p/_performer|performer]] [[m/_more|more]] or [[l/_less|less]] [[s/_skillful|skillful]].**
 	- _Example: an old hand at speaking;  large farms need many farm hands_
 - **An [[i/_instance|instance]] of [[h/_helping|helping]].**
 	- _Example: Bob gave Alice a hand to move the furniture._
-- **[[h/_handwriting|Handwriting]]; style of [[p/_penmanship|penmanship]].**
+- **[[h/_handwriting|Handwriting]]; [[s/_style|style]] of [[p/_penmanship|penmanship]].**
 	- _Example: a good hand_
 - **A [[p/_person|person]]'[[s/_s|s]] [[a/_autograph|autograph]] or [[s/_signature|signature]].**
 	- _Example: Given under my Hand and Seal of the State this 1st Day of January, 2010._

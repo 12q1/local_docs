@@ -1,12 +1,12 @@
 # By
 ---
 #noun
-- **A [[f/_flying|flying]] [[i/_insect|insect]], of the [[c/_clade|clade]] [[a/_anthophila|Anthophila]] within the [[h/_hymenopteran|hymenopteran]] superfamily [[a/_apoidea|Apoidea]], [[k/_known|known]] for [[i/_its|its]] [[o/_organised|organised]] [[s/_societies|societies]] (though [[o/_only|only]] a [[m/_minority|minority]] [[h/_have|have]] them), for [[c/_collecting|collecting]] [[p/_pollen|pollen]] and (in [[s/_some|some]] species) [[p/_producing|producing]] wax and [[h/_honey|honey]].**
+- **A [[f/_flying|flying]] [[i/_insect|insect]], of the [[c/_clade|clade]] [[a/_anthophila|Anthophila]] within the [[h/_hymenopteran|hymenopteran]] superfamily [[a/_apoidea|Apoidea]], [[k/_known|known]] for [[i/_its|its]] [[o/_organised|organised]] [[s/_societies|societies]] (though [[o/_only|only]] a [[m/_minority|minority]] [[h/_have|have]] them), for [[c/_collecting|collecting]] [[p/_pollen|pollen]] and (in [[s/_some|some]] [[s/_species|species]]) [[p/_producing|producing]] wax and [[h/_honey|honey]].**
 ---
 ### Synonyms
 - 
 #noun
-- **A [[c/_contest|contest]], [[e/_especially|especially]] for spelling; [[s/_see|see]] spelling [[b/_bee|bee]].**
+- **A [[c/_contest|contest]], [[e/_especially|especially]] for [[s/_spelling|spelling]]; [[s/_see|see]] [[s/_spelling|spelling]] [[b/_bee|bee]].**
 	- _Example: geography bee_
 - **A [[c/_community|community]] [[g/_gathering|gathering]] to [[s/_share|share]] [[l/_labour|labour]], [[e/_e|e]].[[g/_g|g]]. a [[s/_sewing|sewing]] [[b/_bee|bee]] or a [[q/_quilting|quilting]] [[b/_bee|bee]].**
 ---
@@ -17,7 +17,7 @@
 - **The [[n/_name|name]] of the [[l/_latin|Latin]]-[[s/_script|script]] [[l/_letter|letter]] [[b/_b|B]].**
 ---
 #noun
-- **(usually in the [[p/_plural|plural]]) [[a/_any|Any]] of the [[p/_pieces|pieces]] of [[h/_hard|hard]] wood [[b/_bolted|bolted]] to the [[s/_sides|sides]] of the [[b/_bowsprit|bowsprit]], to [[r/_reeve|reeve]] the [[f/_fore|fore]]-topmast stays through.**
+- **(usually in the [[p/_plural|plural]]) [[a/_any|Any]] of the [[p/_pieces|pieces]] of [[h/_hard|hard]] wood [[b/_bolted|bolted]] to the [[s/_sides|sides]] of the [[b/_bowsprit|bowsprit]], to [[r/_reeve|reeve]] the [[f/_fore|fore]]-topmast [[s/_stays|stays]] through.**
 ---
 ### Synonyms
 - 
@@ -54,7 +54,7 @@
 	- _Example: I sorted the items by category._
 - **[[i/_indicates|Indicates]] the [[a/_amount|amount]] of [[c/_change|change]], [[d/_difference|difference]] or [[d/_discrepancy|discrepancy]]**
 	- _Example: His date of birth was wrong by ten years._
-- **In the [[f/_formulae|formulae]] X by X and by Xs, [[i/_indicates|indicates]] a steady [[p/_progression|progression]], [[o/_one|one]] X [[a/_after|after]] [[a/_another|another]].**
+- **In the [[f/_formulae|formulae]] X by X and by Xs, [[i/_indicates|indicates]] a [[s/_steady|steady]] [[p/_progression|progression]], [[o/_one|one]] X [[a/_after|after]] [[a/_another|another]].**
 	- _Example: We crawled forward by inches._
 - **[[i/_indicates|Indicates]] a [[r/_referenced|referenced]] [[s/_source|source]]: [[a/_according|According]] to.**
 	- _Example: By my reckoning, we should be nearly there._
@@ -66,7 +66,7 @@
 #noun
 - **The [[p/_position|position]] of a [[p/_person|person]] or team in a tournament or [[c/_competition|competition]] who [[d/_draws|draws]] [[n/_no|no]] [[o/_opponent|opponent]] in a [[p/_particular|particular]] [[r/_round|round]] [[s/_so|so]] [[a/_advances|advances]] to the [[n/_next|next]] [[r/_round|round]] unopposed, or is [[a/_awarded|awarded]] [[p/_points|points]] for a win in a [[l/_league|league]] table; [[a/_also|also]] the [[p/_phantom|phantom]] [[o/_opponent|opponent]] of such a [[p/_person|person]] or team.**
 	- _Example: Craig's Crew plays the bye next week._
-- **An [[e/_extra|extra]] [[s/_scored|scored]] when the [[b/_batsmen|batsmen]] take [[r/_runs|runs]] [[a/_after|after]] the [[b/_ball|ball]] [[h/_has|has]] [[p/_passed|passed]] the striker without [[h/_hitting|hitting]] [[e/_either|either]] the [[b/_bat|bat]] or the [[b/_batsman|batsman]].**
+- **An [[e/_extra|extra]] [[s/_scored|scored]] when the [[b/_batsmen|batsmen]] take [[r/_runs|runs]] [[a/_after|after]] the [[b/_ball|ball]] [[h/_has|has]] [[p/_passed|passed]] the [[s/_striker|striker]] without [[h/_hitting|hitting]] [[e/_either|either]] the [[b/_bat|bat]] or the [[b/_batsman|batsman]].**
 - **A [[d/_dwelling|dwelling]].**
 - **A thing not [[d/_directly|directly]] [[a/_aimed|aimed]] at; [[s/_something|something]] which is a [[s/_secondary|secondary]] [[o/_object|object]] of [[r/_regard|regard]]; an [[o/_object|object]] by the way, [[e/_etc|etc]].**
 - **A [[p/_pass|pass]].**

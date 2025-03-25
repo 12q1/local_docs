@@ -1,7 +1,7 @@
 # Geminate
 ---
 #noun
-- **A [[d/_doubled|doubled]] or [[r/_repeated|repeated]] [[l/_letter|letter]] or speech [[s/_sound|sound]].**
+- **A [[d/_doubled|doubled]] or [[r/_repeated|repeated]] [[l/_letter|letter]] or [[s/_speech|speech]] [[s/_sound|sound]].**
 ---
 #verb
 - **To [[a/_arrange|arrange]] in [[p/_pairs|pairs]].**

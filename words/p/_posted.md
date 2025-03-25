@@ -22,7 +22,7 @@
 ---
 #verb
 - **To [[e/_enter|enter]] (a [[n/_name|name]]) on a [[l/_list|list]], as for [[s/_service|service]], [[p/_promotion|promotion]], [[e/_etc|etc]].**
-- **To [[a/_assign|assign]] to a station; to [[s/_set|set]]; to [[p/_place|place]].**
+- **To [[a/_assign|assign]] to a [[s/_station|station]]; to [[s/_set|set]]; to [[p/_place|place]].**
 	- _Example: Post a sentinel in front of the door._
 ---
 ---

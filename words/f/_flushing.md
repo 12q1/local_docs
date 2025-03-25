@@ -19,7 +19,7 @@
 - **(of a toilet) To be [[c/_cleansed|cleansed]] by [[b/_being|being]] [[f/_flooded|flooded]] with [[g/_generous|generous]] [[q/_quantities|quantities]] of water.**
 	- _Example: There must be somebody home: I just heard the toilet flushing._
 - **To [[c/_clear|clear]] (a [[b/_buffer|buffer]]) of [[i/_its|its]] [[c/_contents|contents]].**
-- **To [[f/_flow|flow]] and spread suddenly; to [[r/_rush|rush]].**
+- **To [[f/_flow|flow]] and [[s/_spread|spread]] suddenly; to [[r/_rush|rush]].**
 	- _Example: Blood flushes into the face._
 - **To [[s/_show|show]] [[r/_red|red]]; to [[s/_shine|shine]] suddenly; to [[g/_glow|glow]].**
 - **To [[f/_fill|fill]] in ([[j/_joints|joints]]); to [[p/_point|point]] the [[l/_level|level]]; to [[m/_make|make]] them [[f/_flush|flush]].**

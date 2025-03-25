@@ -29,12 +29,12 @@
 ### Antonyms
 - [[c/_child|child]], [[d/_daughter|daughter]], [[o/_offspring|offspring]], [[s/_son|son]], [[f/_father|father]]
 #noun
-- **A stringy, [[m/_mucilaginous|mucilaginous]] or [[f/_film|film]]- or [[m/_membrane|membrane]]-[[l/_like|like]] substance ([[c/_consisting|consisting]] of acetobacters) which [[d/_develops|develops]] in [[f/_fermenting|fermenting]] [[a/_alcoholic|alcoholic]] [[l/_liquids|liquids]] (such as wine, or [[c/_cider|cider]]), and turns the [[a/_alcohol|alcohol]] [[i/_into|into]] [[a/_acetic|acetic]] [[a/_acid|acid]] with the [[h/_help|help]] of [[o/_oxygen|oxygen]] from the [[a/_air|air]].**
+- **A [[s/_stringy|stringy]], [[m/_mucilaginous|mucilaginous]] or [[f/_film|film]]- or [[m/_membrane|membrane]]-[[l/_like|like]] substance ([[c/_consisting|consisting]] of acetobacters) which [[d/_develops|develops]] in [[f/_fermenting|fermenting]] [[a/_alcoholic|alcoholic]] [[l/_liquids|liquids]] (such as wine, or [[c/_cider|cider]]), and turns the [[a/_alcohol|alcohol]] [[i/_into|into]] [[a/_acetic|acetic]] [[a/_acid|acid]] with the [[h/_help|help]] of [[o/_oxygen|oxygen]] from the [[a/_air|air]].**
 	- _Example: pieces of mother, adding mother to vinegar_
 ---
 #noun
 - **[[m/_motherfucker|Motherfucker]].**
-- **A striking [[e/_example|example]].**
+- **A [[s/_striking|striking]] [[e/_example|example]].**
 ---
 ### Synonyms
 - [[M/_MF|MF]], [[m/_mofo|mofo]], [[m/_motherfucker|motherfucker]], [[m/_mutha|mutha]]

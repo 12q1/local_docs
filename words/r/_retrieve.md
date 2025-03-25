@@ -4,7 +4,7 @@
 - **A [[r/_retrieval|retrieval]]**
 - **The [[r/_return|return]] of a [[d/_difficult|difficult]] [[b/_ball|ball]]**
 - **A [[s/_seeking|seeking]] [[a/_again|again]]; a [[d/_discovery|discovery]].**
-- **The [[r/_recovery|recovery]] of [[g/_game|game]] [[o/_once|once]] sprung.**
+- **The [[r/_recovery|recovery]] of [[g/_game|game]] [[o/_once|once]] [[s/_sprung|sprung]].**
 ---
 #verb
 - **To [[r/_regain|regain]] or [[g/_get|get]] [[b/_back|back]] [[s/_something|something]].**

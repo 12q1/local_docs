@@ -18,7 +18,7 @@
 	- _Example: All the window seats were occupied, so she took an inside seat._
 - **[[o/_originating|Originating]] from, [[a/_arranged|arranged]] by, or [[b/_being|being]] [[s/_someone|someone]] [[i/_inside|inside]] an [[o/_organisation|organisation]].**
 	- _Example: The reporter had received inside information about the forthcoming takeover._
-- **(of a [[p/_person|person]]) [[l/_legally|Legally]] [[m/_married|married]] to or [[r/_related|related]] to ([[e/_e|e]].[[g/_g|g]]. [[b/_born|born]] in wedlock to), and/or [[r/_residing|residing]] with, a specified [[o/_other|other]] [[p/_person|person]] ([[p/_parent|parent]], [[c/_child|child]], or [[p/_partner|partner]]); (of a [[m/_marriage|marriage]], [[r/_relationship|relationship]], [[e/_etc|etc]]) [[e/_existing|existing]] [[b/_between|between]] two such [[p/_people|people]].**
+- **(of a [[p/_person|person]]) [[l/_legally|Legally]] [[m/_married|married]] to or [[r/_related|related]] to ([[e/_e|e]].[[g/_g|g]]. [[b/_born|born]] in wedlock to), and/or [[r/_residing|residing]] with, a [[s/_specified|specified]] [[o/_other|other]] [[p/_person|person]] ([[p/_parent|parent]], [[c/_child|child]], or [[p/_partner|partner]]); (of a [[m/_marriage|marriage]], [[r/_relationship|relationship]], [[e/_etc|etc]]) [[e/_existing|existing]] [[b/_between|between]] two such [[p/_people|people]].**
 - **(of a [[p/_pitch|pitch]]) Toward the [[b/_batter|batter]] as it [[c/_crosses|crosses]] [[h/_home|home]] [[p/_plate|plate]].**
 	- _Example: The first pitch is ... just a bit inside._
 - **At or towards or the [[l/_left|left]]-[[h/_hand|hand]] [[s/_side|side]] of the [[r/_road|road]] [[i/_if|if]] [[o/_one|one]] [[d/_drives|drives]] on the [[l/_left|left]], or [[r/_right|right]]-[[h/_hand|hand]] [[s/_side|side]] [[i/_if|if]] [[o/_one|one]] [[d/_drives|drives]] on the [[r/_right|right]].**
@@ -35,7 +35,7 @@
 	- _Example: Are you laughing at us inside?_
 ---
 #preposition
-- **Within the [[i/_interior|interior]] of [[s/_something|something]], [[c/_closest|closest]] to the [[c/_center|center]] or to a specific [[p/_point|point]] of [[r/_reference|reference]].**
+- **Within the [[i/_interior|interior]] of [[s/_something|something]], [[c/_closest|closest]] to the [[c/_center|center]] or to a [[s/_specific|specific]] [[p/_point|point]] of [[r/_reference|reference]].**
 	- _Example: He placed the letter inside the envelope._
 - **Within a [[p/_period|period]] of time.**
 	- _Example: The job was finished inside two weeks._

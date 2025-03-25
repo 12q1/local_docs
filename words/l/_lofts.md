@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[e/_except|except]] in [[d/_derivatives|derivatives]]) [[a/_air|air]], the [[a/_air|air]]; the [[s/_sky|sky]], the [[h/_heavens|heavens]].**
-- **An [[a/_attic|attic]] or [[s/_similar|similar]] [[s/_space|space]] ([[o/_often|often]] used for storage) in the [[r/_roof|roof]] of a [[h/_house|house]] or [[o/_other|other]] [[b/_building|building]].**
+- **An [[a/_attic|attic]] or [[s/_similar|similar]] [[s/_space|space]] ([[o/_often|often]] used for [[s/_storage|storage]]) in the [[r/_roof|roof]] of a [[h/_house|house]] or [[o/_other|other]] [[b/_building|building]].**
 - **The thickness of a [[s/_soft|soft]] [[o/_object|object]] when not under [[p/_pressure|pressure]].**
 - **A [[g/_gallery|gallery]] or [[r/_raised|raised]] [[a/_apartment|apartment]] in a [[c/_church|church]], [[h/_hall|hall]], [[e/_etc|etc]].**
 	- _Example: an organ loft_

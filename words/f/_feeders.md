@@ -6,7 +6,7 @@
 - **[[o/_one|One]] who, or that which, [[f/_feeds|feeds]] [[m/_material|material]] [[i/_into|into]] [[s/_something|something]].**
 - **That which is used to [[f/_feed|feed]].**
 	- _Example: a bird feeder_
-- **A tributary stream, [[e/_especially|especially]] of a [[c/_canal|canal]].**
+- **A tributary [[s/_stream|stream]], [[e/_especially|especially]] of a [[c/_canal|canal]].**
 - **A [[b/_branch|branch]] [[l/_line|line]] of a [[r/_railway|railway]].**
 - **A transmission [[l/_line|line]] that [[f/_feeds|feeds]] the [[e/_electricity|electricity]] for an [[e/_electricity|electricity]] substation, or for a transmitter.**
 - **A [[f/_feeder|feeder]] [[s/_school|school]].**

@@ -7,7 +7,7 @@
 - **Without [[l/_limit|limit]]; [[f/_forever|forever]], or until [[f/_further|further]] [[n/_notice|notice]]; not [[d/_definite|definite]].**
 - **Vague or unclear.**
 - **Undecided or uncertain.**
-- **[[b/_being|Being]] an [[i/_integral|integral]] without specified [[l/_limits|limits]].**
+- **[[b/_being|Being]] an [[i/_integral|integral]] without [[s/_specified|specified]] [[l/_limits|limits]].**
 - **[[d/_designating|Designating]] an unspecified or unidentified [[p/_person|person]] or thing or [[g/_group|group]] of [[p/_persons|persons]] or things**
 	- _Example: the indefinite article_
 ---

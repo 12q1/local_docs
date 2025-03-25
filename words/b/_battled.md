@@ -3,7 +3,7 @@
 #verb
 - **To [[j/_join|join]] in [[b/_battle|battle]]; to [[c/_contend|contend]] in [[f/_fight|fight]]**
 	- _Example: Scientists always battle over theories._
-- **To [[f/_fight|fight]] or struggle; to [[e/_enter|enter]] [[i/_into|into]] a [[b/_battle|battle]] with.**
+- **To [[f/_fight|fight]] or [[s/_struggle|struggle]]; to [[e/_enter|enter]] [[i/_into|into]] a [[b/_battle|battle]] with.**
 	- _Example: She has been battling cancer for years._
 ---
 #verb

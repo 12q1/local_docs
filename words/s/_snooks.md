@@ -5,6 +5,6 @@
 - **[[a/_any|Any]] of various [[o/_other|other]] [[r/_ray|ray]]-[[f/_finned|finned]] [[f/_fishes|fishes]] in [[s/_several|several]] [[f/_families|families]].**
 ---
 #noun
-- **(as a [[g/_gesture|gesture]]) A [[d/_disrespectful|disrespectful]] [[g/_gesture|gesture]], [[p/_performed|performed]] by [[p/_placing|placing]] the tip of a thumb on [[o/_one|one]]'[[s/_s|s]] [[n/_nose|nose]] with the [[f/_fingers|fingers]] spread, and typically while wiggling the [[f/_fingers|fingers]] [[b/_back|back]] and [[f/_forth|forth]].**
+- **(as a [[g/_gesture|gesture]]) A [[d/_disrespectful|disrespectful]] [[g/_gesture|gesture]], [[p/_performed|performed]] by [[p/_placing|placing]] the tip of a thumb on [[o/_one|one]]'[[s/_s|s]] [[n/_nose|nose]] with the [[f/_fingers|fingers]] [[s/_spread|spread]], and typically while wiggling the [[f/_fingers|fingers]] [[b/_back|back]] and [[f/_forth|forth]].**
 ---
 ---

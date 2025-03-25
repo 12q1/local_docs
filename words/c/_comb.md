@@ -4,10 +4,10 @@
 - **A toothed [[i/_implement|implement]] for [[g/_grooming|grooming]] the [[h/_hair|hair]] or ([[f/_formerly|formerly]]) for [[k/_keeping|keeping]] it in [[p/_place|place]].**
 - **A [[m/_machine|machine]] used in [[s/_separating|separating]] [[c/_choice|choice]] [[c/_cotton|cotton]] [[f/_fibers|fibers]] from worsted [[c/_cloth|cloth]] [[f/_fibers|fibers]].**
 - **A [[f/_fleshy|fleshy]] [[g/_growth|growth]] on the top of the [[h/_head|head]] of [[s/_some|some]] [[b/_birds|birds]] and [[r/_reptiles|reptiles]]; [[c/_crest|crest]].**
-- **A structure of [[h/_hexagon|hexagon]] [[c/_cells|cells]] [[m/_made|made]] by [[b/_bees|bees]] for storing [[h/_honey|honey]]; [[h/_honeycomb|honeycomb]].**
+- **A [[s/_structure|structure]] of [[h/_hexagon|hexagon]] [[c/_cells|cells]] [[m/_made|made]] by [[b/_bees|bees]] for [[s/_storing|storing]] [[h/_honey|honey]]; [[h/_honeycomb|honeycomb]].**
 - **An [[o/_old|old]] [[e/_english|English]] [[m/_measure|measure]] of [[c/_corn|corn]] [[e/_equal|equal]] to the [[h/_half|half]] [[q/_quarter|quarter]].**
-- **The top [[p/_part|part]] of a [[g/_gun|gun]]’[[s/_s|s]] stock.**
-- **The toothed [[p/_plate|plate]] at the top and [[b/_bottom|bottom]] of an [[e/_escalator|escalator]] that [[p/_prevents|prevents]] [[o/_objects|objects]] [[g/_getting|getting]] trapped [[b/_between|between]] the [[m/_moving|moving]] stairs and [[f/_fixed|fixed]] [[l/_landings|landings]].**
+- **The top [[p/_part|part]] of a [[g/_gun|gun]]’[[s/_s|s]] [[s/_stock|stock]].**
+- **The toothed [[p/_plate|plate]] at the top and [[b/_bottom|bottom]] of an [[e/_escalator|escalator]] that [[p/_prevents|prevents]] [[o/_objects|objects]] [[g/_getting|getting]] trapped [[b/_between|between]] the [[m/_moving|moving]] [[s/_stairs|stairs]] and [[f/_fixed|fixed]] [[l/_landings|landings]].**
 - **The [[m/_main|main]] [[b/_body|body]] of a [[h/_harmonica|harmonica]] [[c/_containing|containing]] the [[a/_air|air]] [[c/_chambers|chambers]] and to which the [[r/_reed|reed]] [[p/_plates|plates]] are [[a/_attached|attached]].**
 - **A [[f/_former|former]], [[c/_commonly|commonly]] [[c/_cone|cone]]-[[s/_shaped|shaped]], used in [[h/_hat|hat]] [[m/_manufacturing|manufacturing]] for [[h/_hardening|hardening]] [[s/_soft|soft]] [[f/_fibre|fibre]].**
 - **A toothed tool used for [[c/_chasing|chasing]] [[s/_screws|screws]] on work in a [[l/_lathe|lathe]]; a [[c/_chaser|chaser]].**

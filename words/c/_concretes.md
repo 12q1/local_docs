@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_solid|solid]] [[m/_mass|mass]] [[f/_formed|formed]] by the [[c/_coalescence|coalescence]] of [[s/_separate|separate]] [[p/_particles|particles]]; a [[c/_compound|compound]] substance, a [[c/_concretion|concretion]].**
-- **Specifically, a [[b/_building|building]] [[m/_material|material]] [[c/_created|created]] by [[m/_mixing|mixing]] [[c/_cement|cement]], water, and [[a/_aggregate|aggregate]] such as [[g/_gravel|gravel]] and [[s/_sand|sand]].**
+- **[[s/_specifically|Specifically]], a [[b/_building|building]] [[m/_material|material]] [[c/_created|created]] by [[m/_mixing|mixing]] [[c/_cement|cement]], water, and [[a/_aggregate|aggregate]] such as [[g/_gravel|gravel]] and [[s/_sand|sand]].**
 	- _Example: The road was made of concrete that had been poured in large slabs._
 - **A term [[d/_designating|designating]] [[b/_both|both]] a [[q/_quality|quality]] and the subject in which it [[e/_exists|exists]]; a [[c/_concrete|concrete]] term.**
 - **Sugar [[b/_boiled|boiled]] [[d/_down|down]] from [[c/_cane|cane]] [[j/_juice|juice]] to a [[s/_solid|solid]] [[m/_mass|mass]].**

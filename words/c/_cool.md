@@ -1,7 +1,7 @@
 # Cool
 ---
 #noun
-- **A [[m/_moderate|moderate]] or [[r/_refreshing|refreshing]] state of [[c/_cold|cold]]; [[m/_moderate|moderate]] temperature of the [[a/_air|air]] [[b/_between|between]] [[h/_hot|hot]] and [[c/_cold|cold]]; [[c/_coolness|coolness]].**
+- **A [[m/_moderate|moderate]] or [[r/_refreshing|refreshing]] [[s/_state|state]] of [[c/_cold|cold]]; [[m/_moderate|moderate]] temperature of the [[a/_air|air]] [[b/_between|between]] [[h/_hot|hot]] and [[c/_cold|cold]]; [[c/_coolness|coolness]].**
 	- _Example: in the cool of the morning_
 - **A [[c/_calm|calm]] temperament.**
 - **The [[p/_property|property]] of [[b/_being|being]] [[c/_cool|cool]], [[p/_popular|popular]] or in [[f/_fashion|fashion]].**

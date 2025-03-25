@@ -6,7 +6,7 @@
 - **[[i/_impudence|Impudence]].**
 	- _Example: You’ve got some cheek, asking me for money!_
 - **[[o/_one|One]] of the [[g/_genae|genae]], [[f/_flat|flat]] [[a/_areas|areas]] on the [[s/_sides|sides]] of a trilobite'[[s/_s|s]] [[c/_cephalon|cephalon]].**
-- **[[o/_one|One]] of the [[p/_pieces|pieces]] of a [[m/_machine|machine]], or of timber or stonework, that [[f/_form|form]] [[c/_corresponding|corresponding]] [[s/_sides|sides]] or a [[s/_similar|similar]] [[p/_pair|pair]].**
+- **[[o/_one|One]] of the [[p/_pieces|pieces]] of a [[m/_machine|machine]], or of timber or [[s/_stonework|stonework]], that [[f/_form|form]] [[c/_corresponding|corresponding]] [[s/_sides|sides]] or a [[s/_similar|similar]] [[p/_pair|pair]].**
 	- _Example: the cheeks of a vice; the cheeks of a gun carriage_
 - **(in [[p/_plural|plural]]) The [[b/_branches|branches]] of a [[b/_bridle|bridle]] [[b/_bit|bit]].**
 - **[[e/_either|Either]] [[s/_side|side]] of an axehead.**
@@ -17,6 +17,6 @@
 #verb
 - **To be [[i/_impudent|impudent]] towards.**
 	- _Example: Don't cheek me, you little rascal!_
-- **To [[p/_pull|pull]] a [[h/_horse|horse]]'[[s/_s|s]] [[h/_head|head]] [[b/_back|back]] toward the [[s/_saddle|saddle]] using the [[c/_cheek|cheek]] strap of the [[b/_bridle|bridle]].**
+- **To [[p/_pull|pull]] a [[h/_horse|horse]]'[[s/_s|s]] [[h/_head|head]] [[b/_back|back]] toward the [[s/_saddle|saddle]] using the [[c/_cheek|cheek]] [[s/_strap|strap]] of the [[b/_bridle|bridle]].**
 ---
 ---

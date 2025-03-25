@@ -9,7 +9,7 @@
 ### Synonyms
 - [[m/_measure|measure]]
 #verb
-- **([[a/_aerospace|aerospace]], [[s/_systems|systems]] [[e/_engineering|engineering]]) To [[m/_measure|measure]] or [[a/_analyse|analyse]] statistical [[d/_data|data]] [[c/_concerning|concerning]] the [[q/_quality|quality]] or [[e/_effectiveness|effectiveness]] of a [[p/_process|process]].**
+- **([[a/_aerospace|aerospace]], [[s/_systems|systems]] [[e/_engineering|engineering]]) To [[m/_measure|measure]] or [[a/_analyse|analyse]] [[s/_statistical|statistical]] [[d/_data|data]] [[c/_concerning|concerning]] the [[q/_quality|quality]] or [[e/_effectiveness|effectiveness]] of a [[p/_process|process]].**
 	- _Example: Customer satisfaction was metricked by the marketing department._
 ---
 #noun
@@ -20,8 +20,8 @@
 ### Synonyms
 - [[S/_SI|SI]], [[m/_metric|metric]]
 #noun
-- **The study of [[m/_metrical|metrical]] verse.**
-- **The statistical [[a/_analysis|analysis]] of [[d/_data|data]] [[s/_sets|sets]] or [[b/_big|big]] [[d/_data|data]].**
+- **The [[s/_study|study]] of [[m/_metrical|metrical]] verse.**
+- **The [[s/_statistical|statistical]] [[a/_analysis|analysis]] of [[d/_data|data]] [[s/_sets|sets]] or [[b/_big|big]] [[d/_data|data]].**
 - **The theory of [[m/_measurement|measurement]].**
 ---
 ---

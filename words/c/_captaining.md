@@ -2,6 +2,6 @@
 ---
 #verb
 - **To [[a/_act|act]] as [[c/_captain|captain]]**
-- **To [[e/_exercise|exercise]] [[c/_command|command]] of a [[s/_ship|ship]], [[a/_aircraft|aircraft]] or sports team.**
+- **To [[e/_exercise|exercise]] [[c/_command|command]] of a [[s/_ship|ship]], [[a/_aircraft|aircraft]] or [[s/_sports|sports]] team.**
 ---
 ---

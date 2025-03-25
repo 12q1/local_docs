@@ -1,6 +1,6 @@
 # Panicky
 ---
 #adjective
-- **In a state of [[p/_panic|panic]].**
+- **In a [[s/_state|state]] of [[p/_panic|panic]].**
 ---
 ---

@@ -11,7 +11,7 @@
 - **To turn [[o/_over|over]] [[s/_soil|soil]] with a [[s/_spade|spade]] to [[l/_loosen|loosen]] the [[g/_ground|ground]] for [[p/_planting|planting]].**
 ---
 #noun
-- **A [[h/_hart|hart]] or stag three [[y/_years|years]] [[o/_old|old]].**
+- **A [[h/_hart|hart]] or [[s/_stag|stag]] three [[y/_years|years]] [[o/_old|old]].**
 - **A [[c/_castrated|castrated]] [[m/_man|man]] or [[a/_animal|animal]].**
 ---
 #noun

@@ -1,7 +1,7 @@
 # Bustle
 ---
 #noun
-- **An [[e/_excited|excited]] [[a/_activity|activity]]; a stir.**
+- **An [[e/_excited|excited]] [[a/_activity|activity]]; a [[s/_stir|stir]].**
 - **A [[c/_cover|cover]] to [[p/_protect|protect]] and [[h/_hide|hide]] the [[b/_back|back]] [[p/_panel|panel]] of a [[c/_computer|computer]] or [[o/_other|other]] [[o/_office|office]] [[m/_machine|machine]].**
 - **A [[f/_frame|frame]] worn underneath a woman'[[s/_s|s]] [[s/_skirt|skirt]], typically [[o/_only|only]] [[p/_protruding|protruding]] from the [[r/_rear|rear]] as [[o/_opposed|opposed]] to the [[e/_earlier|earlier]] [[m/_more|more]] [[c/_circular|circular]] [[h/_hoops|hoops]].**
 ---

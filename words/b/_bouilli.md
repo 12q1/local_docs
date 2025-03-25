@@ -1,6 +1,6 @@
 # Bouilli
 ---
 #noun
-- **[[m/_meat|Meat]] stewed with [[j/_juice|juice]]**
+- **[[m/_meat|Meat]] [[s/_stewed|stewed]] with [[j/_juice|juice]]**
 ---
 ---

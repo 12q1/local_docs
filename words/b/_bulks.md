@@ -1,8 +1,8 @@
 # Bulks
 ---
 #noun
-- **[[s/_size|Size]], specifically, volume.**
-- **[[a/_any|Any]] [[h/_huge|huge]] [[b/_body|body]] or structure.**
+- **[[s/_size|Size]], [[s/_specifically|specifically]], volume.**
+- **[[a/_any|Any]] [[h/_huge|huge]] [[b/_body|body]] or [[s/_structure|structure]].**
 - **The [[m/_major|major]] [[p/_part|part]] of [[s/_something|something]].**
 	- _Example: I understood the bulk of what you were saying, just one of two points I need to hear again._
 - **[[d/_dietary|Dietary]] [[f/_fibre|fibre]].**

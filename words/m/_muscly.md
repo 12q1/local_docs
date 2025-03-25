@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Thewy, [[m/_muscled|muscled]]**
-- **Strong, [[p/_powerful|powerful]]**
+- **[[s/_strong|Strong]], [[p/_powerful|powerful]]**
 ---
 ---

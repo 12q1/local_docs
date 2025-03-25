@@ -9,7 +9,7 @@
 - **To [[f/_flatter|flatter]].**
 ---
 #adjective
-- **[[h/_having|Having]] (a specified [[k/_kind|kind]] or [[n/_number|number]] of) [[p/_paws|paws]].**
+- **[[h/_having|Having]] (a [[s/_specified|specified]] [[k/_kind|kind]] or [[n/_number|number]] of) [[p/_paws|paws]].**
 	- _Example: a muddy-pawed puppy_
 ---
 ---

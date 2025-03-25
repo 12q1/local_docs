@@ -17,7 +17,7 @@
 - **The [[m/_mould|mould]] used to [[m/_make|make]] [[c/_cast|cast]] [[o/_objects|objects]].**
 	- _Example: A plaster cast was made from his face._
 - **([[h/_hawking|hawking]]) The [[n/_number|number]] of [[h/_hawks|hawks]] (or [[o/_occasionally|occasionally]] [[o/_other|other]] [[b/_birds|birds]]) [[c/_cast|cast]] [[o/_off|off]] at [[o/_one|one]] time; a [[p/_pair|pair]].**
-- **A squint.**
+- **A [[s/_squint|squint]].**
 - **Visual [[a/_appearance|appearance]].**
 	- _Example: Her features had a delicate cast to them._
 - **The [[f/_form|form]] of [[o/_one|one]]'[[s/_s|s]] thoughts, [[m/_mind|mind]] [[e/_etc|etc]].**
@@ -32,7 +32,7 @@
 - **To [[d/_direct|direct]] ([[o/_one|one]]'[[s/_s|s]] [[e/_eyes|eyes]], [[g/_gaze|gaze]] [[e/_etc|etc]].).**
 - **To [[a/_add|add]] up (a [[c/_column|column]] of [[f/_figures|figures]], [[a/_accounts|accounts]] [[e/_etc|etc]].); [[c/_cross|cross]]-[[c/_cast|cast]] [[r/_refers|refers]] to [[a/_adding|adding]] up a [[r/_row|row]] of [[f/_figures|figures]].**
 - **([[s/_social|social]]) To [[p/_predict|predict]], to [[d/_decide|decide]], to [[p/_plan|plan]].**
-- **To [[p/_perform|perform]], [[b/_bring|bring]] [[f/_forth|forth]] (a [[m/_magical|magical]] spell or [[e/_enchantment|enchantment]]).**
+- **To [[p/_perform|perform]], [[b/_bring|bring]] [[f/_forth|forth]] (a [[m/_magical|magical]] [[s/_spell|spell]] or [[e/_enchantment|enchantment]]).**
 - **To throw ([[l/_light|light]] [[e/_etc|etc]].) on or upon [[s/_something|something]], or in a [[g/_given|given]] [[d/_direction|direction]].**
 - **To [[g/_give|give]] [[b/_birth|birth]] to (a [[c/_child|child]]) [[p/_prematurely|prematurely]]; to [[m/_miscarry|miscarry]].**
 - **To [[s/_shape|shape]] ([[m/_molten|molten]] [[m/_metal|metal]] [[e/_etc|etc]].) by [[p/_pouring|pouring]] [[i/_into|into]] a [[m/_mould|mould]]; to [[m/_make|make]] (an [[o/_object|object]]) in such a way.**
@@ -41,9 +41,9 @@
 - **To [[d/_deposit|deposit]] (a [[b/_ballot|ballot]] or voting [[p/_paper|paper]]); to [[f/_formally|formally]] [[r/_register|register]] ([[o/_one|one]]'[[s/_s|s]] vote).**
 - **To [[c/_change|change]] a variable type from, for [[e/_example|example]], [[i/_integer|integer]] to [[r/_real|real]], or [[i/_integer|integer]] to text.**
 	- _Example: Casting is generally an indication of bad design._
-- **Of [[d/_dogs|dogs]], [[h/_hunters|hunters]]: to spread [[o/_out|out]] and [[s/_search|search]] for a [[s/_scent|scent]].**
+- **Of [[d/_dogs|dogs]], [[h/_hunters|hunters]]: to [[s/_spread|spread]] [[o/_out|out]] and [[s/_search|search]] for a [[s/_scent|scent]].**
 - **To [[s/_set|set]] (a [[b/_bone|bone]] [[e/_etc|etc]].) in a [[c/_cast|cast]].**
-- **To [[o/_open|open]] a [[c/_circle|circle]] in [[o/_order|order]] to [[b/_begin|begin]] a spell or [[m/_meeting|meeting]] of witches.**
+- **To [[o/_open|open]] a [[c/_circle|circle]] in [[o/_order|order]] to [[b/_begin|begin]] a [[s/_spell|spell]] or [[m/_meeting|meeting]] of witches.**
 - **To [[b/_broadcast|broadcast]].**
 	- _Example: The streamer was the first to cast footage of the new game._
 ---

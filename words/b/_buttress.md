@@ -1,11 +1,11 @@
 # Buttress
 ---
 #noun
-- **A [[b/_brick|brick]] or stone structure [[b/_built|built]] [[a/_against|against]] [[a/_another|another]] structure to support it.**
+- **A [[b/_brick|brick]] or [[s/_stone|stone]] [[s/_structure|structure]] [[b/_built|built]] [[a/_against|against]] [[a/_another|another]] [[s/_structure|structure]] to support it.**
 - **[[a/_anything|Anything]] that [[s/_serves|serves]] to support [[s/_something|something]]; a [[p/_prop|prop]].**
 - **A [[b/_buttress|buttress]]-[[r/_root|root]].**
 - **A [[f/_feature|feature]] [[j/_jutting|jutting]] [[p/_prominently|prominently]] [[o/_out|out]] from a [[m/_mountain|mountain]] or [[r/_rock|rock]]; a [[c/_crag|crag]], a [[b/_bluff|bluff]].**
-- **[[a/_anything|Anything]] that supports or strengthens.**
+- **[[a/_anything|Anything]] that supports or [[s/_strengthens|strengthens]].**
 ---
 ### Synonyms
 - [[b/_brace|brace]], [[c/_counterfort|counterfort]]

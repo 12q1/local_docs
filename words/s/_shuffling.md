@@ -20,7 +20,7 @@
 - **Trickery**
 ---
 #adjective
-- **[[m/_moving|Moving]] with a [[d/_dragging|dragging]], [[s/_scraping|scraping]] step.**
+- **[[m/_moving|Moving]] with a [[d/_dragging|dragging]], [[s/_scraping|scraping]] [[s/_step|step]].**
 - **[[e/_evasive|Evasive]]**
 ---
 ---

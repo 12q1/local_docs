@@ -3,7 +3,7 @@
 #verb
 - **To [[b/_become|become]] [[l/_larger|larger]], to [[i/_increase|increase]] in [[m/_magnitude|magnitude]].**
 	- _Example: Children grow quickly._
-- **To [[a/_appear|appear]] or sprout.**
+- **To [[a/_appear|appear]] or [[s/_sprout|sprout]].**
 	- _Example: A long tail began to grow from his backside._
 - **To [[d/_develop|develop]], to [[m/_mature|mature]].**
 	- _Example: As I grew throughout adolescence, I came to appreciate many things about human nature._

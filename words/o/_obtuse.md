@@ -1,7 +1,7 @@
 # Obtuse
 ---
 #verb
-- **To [[d/_dull|dull]] or [[r/_reduce|reduce]] an [[e/_emotion|emotion]] or a [[p/_physical|physical]] state.**
+- **To [[d/_dull|dull]] or [[r/_reduce|reduce]] an [[e/_emotion|emotion]] or a [[p/_physical|physical]] [[s/_state|state]].**
 ---
 #adjective
 - **[[b/_blunt|Blunt]]; not [[s/_sharp|sharp]], [[p/_pointed|pointed]], or [[a/_acute|acute]] in [[f/_form|form]].**

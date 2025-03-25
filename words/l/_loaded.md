@@ -1,15 +1,15 @@
 # Loaded
 ---
 #verb
-- **To [[p/_put|put]] a [[l/_load|load]] on or in (a [[m/_means|means]] of [[c/_conveyance|conveyance]] or a [[p/_place|place]] of storage).**
+- **To [[p/_put|put]] a [[l/_load|load]] on or in (a [[m/_means|means]] of [[c/_conveyance|conveyance]] or a [[p/_place|place]] of [[s/_storage|storage]]).**
 	- _Example: The dock workers refused to load the ship._
-- **To [[p/_place|place]] in or on a [[c/_conveyance|conveyance]] or a [[p/_place|place]] of storage.**
+- **To [[p/_place|place]] in or on a [[c/_conveyance|conveyance]] or a [[p/_place|place]] of [[s/_storage|storage]].**
 	- _Example: He loaded his stuff into his storage locker._
 - **To [[p/_put|put]] a [[l/_load|load]] on [[s/_something|something]].**
 	- _Example: The truck was supposed to leave at dawn, but in fact we spent all morning loading._
 - **To [[r/_receive|receive]] a [[l/_load|load]].**
 	- _Example: The truck is designed to load easily._
-- **To be [[p/_placed|placed]] [[i/_into|into]] storage or [[c/_conveyance|conveyance]].**
+- **To be [[p/_placed|placed]] [[i/_into|into]] [[s/_storage|storage]] or [[c/_conveyance|conveyance]].**
 	- _Example: The containers load quickly and easily._
 - **To [[f/_fill|fill]] (a [[f/_firearm|firearm]] or [[a/_artillery|artillery]]) with [[m/_munition|munition]].**
 	- _Example: I pulled the trigger, but nothing happened. I had forgotten to load the gun._
@@ -19,9 +19,9 @@
 	- _Example: The workers loaded the blast furnace with coke and ore._
 - **To be [[p/_put|put]] [[i/_into|into]] use in an [[a/_apparatus|apparatus]].**
 	- _Example: The cartridge was designed to load easily._
-- **To [[r/_read|read]] ([[d/_data|data]] or a [[p/_program|program]]) from a storage [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
+- **To [[r/_read|read]] ([[d/_data|data]] or a [[p/_program|program]]) from a [[s/_storage|storage]] [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
 	- _Example: Click OK to load the selected data._
-- **To transfer from a storage [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
+- **To transfer from a [[s/_storage|storage]] [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
 	- _Example: This program takes an age to load._
 - **To [[p/_put|put]] [[r/_runners|runners]] on [[f/_first|first]], [[s/_second|second]] and third [[b/_bases|bases]]**
 	- _Example: He walks to load the bases._
@@ -52,7 +52,7 @@
 	- _Example: He was playing with loaded dice and won a fortune._
 - **(of a [[q/_question|question]]) [[d/_designed|Designed]] to [[p/_produce|produce]] a [[p/_predictable|predictable]] [[a/_answer|answer]], or to [[l/_lay|lay]] a trap.**
 	- _Example: That interviewer is tricky; he asks loaded questions._
-- **(of a word or [[p/_phrase|phrase]]) [[h/_having|Having]] strong [[c/_connotations|connotations]] that [[c/_colour|colour]] the [[l/_literal|literal]] [[m/_meaning|meaning]] and are [[l/_likely|likely]] to [[p/_provoke|provoke]] an [[e/_emotional|emotional]] [[r/_response|response]]. [[s/_sometimes|Sometimes]] used [[l/_loosely|loosely]] to [[d/_describe|describe]] a word that [[s/_simply|simply]] [[h/_has|has]] [[m/_many|many]] [[d/_different|different]] [[m/_meanings|meanings]].**
+- **(of a word or [[p/_phrase|phrase]]) [[h/_having|Having]] [[s/_strong|strong]] [[c/_connotations|connotations]] that [[c/_colour|colour]] the [[l/_literal|literal]] [[m/_meaning|meaning]] and are [[l/_likely|likely]] to [[p/_provoke|provoke]] an [[e/_emotional|emotional]] [[r/_response|response]]. [[s/_sometimes|Sometimes]] used [[l/_loosely|loosely]] to [[d/_describe|describe]] a word that [[s/_simply|simply]] [[h/_has|has]] [[m/_many|many]] [[d/_different|different]] [[m/_meanings|meanings]].**
 	- _Example: "Ignorant" is a loaded word, often implying lack of intelligence rather than just lack of knowledge._
 - **(of an [[i/_item|item]] [[o/_offered|offered]] for [[s/_sale|sale]], [[e/_especially|especially]] an [[a/_automobile|automobile]]) [[e/_equipped|Equipped]] with [[n/_numerous|numerous]] [[o/_options|options]].**
 	- _Example: She went all out; her new car is loaded._

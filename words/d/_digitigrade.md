@@ -6,6 +6,6 @@
 #adjective
 - **Of an [[a/_animal|animal]]: walking on the toes, [[p/_putting|putting]] the weight of the [[b/_body|body]] [[m/_mainly|mainly]] on the [[b/_ball|ball]] of the [[f/_foot|foot]], with the [[b/_back|back]] of the [[f/_foot|foot]], or [[h/_heel|heel]], [[r/_raised|raised]].**
 - **Of [[f/_feet|feet]] or a [[m/_manner|manner]] of walking: of, [[r/_resembling|resembling]], or [[p/_pertaining|pertaining]] to that of a [[d/_digitigrade|digitigrade]] [[a/_animal|animal]].**
-- **(specifically) [[b/_belonging|Belonging]] to the [[d/_digitigrada|Digitigrada]] of the taxonomic [[o/_order|order]] [[c/_carnivora|Carnivora]].**
+- **([[s/_specifically|specifically]]) [[b/_belonging|Belonging]] to the [[d/_digitigrada|Digitigrada]] of the taxonomic [[o/_order|order]] [[c/_carnivora|Carnivora]].**
 ---
 ---

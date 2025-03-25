@@ -7,7 +7,7 @@
 ---
 #verb
 - **To [[p/_put|put]] [[o/_off|off]] until a [[l/_later|later]] time; to [[d/_defer|defer]].**
-- **To [[r/_retard|retard]]; to stop, [[d/_detain|detain]], or [[h/_hinder|hinder]], for a time.**
+- **To [[r/_retard|retard]]; to [[s/_stop|stop]], [[d/_detain|detain]], or [[h/_hinder|hinder]], for a time.**
 	- _Example: The mail is delayed by a heavy fall of snow._
 - **To [[a/_allay|allay]]; to temper.**
 ---

@@ -1,8 +1,8 @@
 # Jab
 ---
 #noun
-- **A [[q/_quick|quick]] stab or [[b/_blow|blow]]; a [[p/_poking|poking]] or thrusting [[m/_motion|motion]].**
-- **A [[s/_short|short]] straight [[p/_punch|punch]].**
+- **A [[q/_quick|quick]] [[s/_stab|stab]] or [[b/_blow|blow]]; a [[p/_poking|poking]] or thrusting [[m/_motion|motion]].**
+- **A [[s/_short|short]] [[s/_straight|straight]] [[p/_punch|punch]].**
 - **A [[m/_medical|medical]] [[i/_injection|injection]].**
 	- _Example: Our dog was exposed to rabies, so the whole family went to a clinic to get our jabs._
 - **A vaccination, whether or not [[d/_delivered|delivered]] via [[c/_conventional|conventional]] [[i/_injection|injection]].**

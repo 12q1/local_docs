@@ -1,7 +1,7 @@
 # Horrified
 ---
 #adjective
-- **Struck with [[h/_horror|horror]].**
+- **[[s/_struck|Struck]] with [[h/_horror|horror]].**
 ---
 #verb
 - **To [[c/_cause|cause]] to [[f/_feel|feel]] [[e/_extreme|extreme]] [[a/_apprehension|apprehension]] or unease; to [[c/_cause|cause]] to [[e/_experience|experience]] [[h/_horror|horror]].**

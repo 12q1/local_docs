@@ -6,6 +6,6 @@
 ---
 #adjective
 - **Of or [[r/_relating|relating]] to an [[a/_artery|artery]].**
-- **(of a [[r/_route|route]], [[r/_road|road]] or street) [[m/_major|Major]], [[i/_important|important]].**
+- **(of a [[r/_route|route]], [[r/_road|road]] or [[s/_street|street]]) [[m/_major|Major]], [[i/_important|important]].**
 ---
 ---

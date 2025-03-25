@@ -3,7 +3,7 @@
 #adjective
 - **([[h/_heading|heading]]) [[e/_emotionally|Emotionally]] [[n/_negative|negative]].**
 - **[[s/_sated|Sated]], [[h/_having|having]] [[h/_had|had]] [[o/_one|one]]'[[s/_s|s]] [[f/_fill|fill]]; [[s/_satisfied|satisfied]], weary.**
-- **Steadfast, valiant.**
+- **[[s/_steadfast|Steadfast]], valiant.**
 - **[[d/_dignified|Dignified]], [[s/_serious|serious]], [[g/_grave|grave]].**
 - **[[n/_naughty|Naughty]]; troublesome; wicked.**
 - **Unfashionable; [[s/_socially|socially]] [[i/_inadequate|inadequate]] or undesirable.**

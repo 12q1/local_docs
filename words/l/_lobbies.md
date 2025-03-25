@@ -9,10 +9,10 @@
 - **A virtual [[a/_area|area]] where [[p/_players|players]] [[c/_can|can]] [[c/_chat|chat]] and [[f/_find|find]] [[o/_opponents|opponents]] for a [[g/_game|game]].**
 - **An [[a/_apartment|apartment]] or [[p/_passageway|passageway]] in the [[f/_fore|fore]] [[p/_part|part]] of an [[o/_old|old]]-[[f/_fashioned|fashioned]] [[c/_cabin|cabin]] under the [[q/_quarter|quarter]]-[[d/_deck|deck]].**
 - **A [[c/_confined|confined]] [[p/_place|place]] for [[c/_cattle|cattle]], [[f/_formed|formed]] by [[h/_hedges|hedges]], trees, or [[o/_other|other]] [[f/_fencing|fencing]], [[n/_near|near]] the [[f/_farmyard|farmyard]].**
-- **A [[m/_margin|margin]] [[a/_along|along]] [[e/_either|either]] [[s/_side|side]] of the [[p/_playing|playing]] [[f/_field|field]] in the sport of kabaddi.**
+- **A [[m/_margin|margin]] [[a/_along|along]] [[e/_either|either]] [[s/_side|side]] of the [[p/_playing|playing]] [[f/_field|field]] in the [[s/_sport|sport]] of kabaddi.**
 ---
 #verb
-- **To [[a/_attempt|attempt]] to [[i/_influence|influence]] (a [[p/_public|public]] [[o/_official|official]] or [[d/_decision|decision]]-[[m/_maker|maker]]) in [[f/_favor|favor]] of a specific [[o/_opinion|opinion]] or [[c/_cause|cause]].**
+- **To [[a/_attempt|attempt]] to [[i/_influence|influence]] (a [[p/_public|public]] [[o/_official|official]] or [[d/_decision|decision]]-[[m/_maker|maker]]) in [[f/_favor|favor]] of a [[s/_specific|specific]] [[o/_opinion|opinion]] or [[c/_cause|cause]].**
 	- _Example: For years, pro-life groups have continued to lobby hard for restrictions on abortion._
 ---
 ---

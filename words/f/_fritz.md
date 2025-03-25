@@ -1,7 +1,7 @@
 # Fritz
 ---
 #noun
-- **The state of [[b/_being|being]] [[d/_defective|defective]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[d/_defective|defective]].**
 - **([[c/_chiefly|chiefly]] [[s/_south|South]] [[a/_australia|Australia]]) A type of [[p/_processed|processed]] [[m/_meat|meat]] [[s/_sausage|sausage]]; [[d/_devon|devon]]**
 ---
 #verb

@@ -1,7 +1,7 @@
 # Congeals
 ---
 #verb
-- **To [[c/_change|change]] from a [[l/_liquid|liquid]] to [[s/_solid|solid]] state [[p/_perhaps|perhaps]] by [[c/_cold|cold]]**
+- **To [[c/_change|change]] from a [[l/_liquid|liquid]] to [[s/_solid|solid]] [[s/_state|state]] [[p/_perhaps|perhaps]] by [[c/_cold|cold]]**
 - **To [[c/_coagulate|coagulate]], [[m/_make|make]] [[c/_curdled|curdled]] or [[s/_semi|semi]]-[[s/_solid|solid]] as [[g/_gel|gel]] or [[j/_jelly|jelly]]**
 - **To [[m/_make|make]] [[r/_rigid|rigid]] or [[i/_immobile|immobile]]**
 	- _Example: We must act before opposition to our plans congeals._

@@ -18,7 +18,7 @@
 	- _Example: I felt something touch my shoulder; it was gentle and a little slimy._
 - **[[d/_docile|Docile]] and [[e/_easily|easily]] [[m/_managed|managed]].**
 	- _Example: We had a gentle swim in the lake._
-- **[[g/_gradual|Gradual]] [[r/_rather|rather]] than steep or sudden.**
+- **[[g/_gradual|Gradual]] [[r/_rather|rather]] than [[s/_steep|steep]] or sudden.**
 	- _Example: The walks in this area have a gentle incline._
 - **[[p/_polite|Polite]] and [[r/_respectful|respectful]] [[r/_rather|rather]] than [[r/_rude|rude]].**
 	- _Example: He gave me a gentle reminder that we had to hurry up._

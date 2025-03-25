@@ -1,20 +1,20 @@
 # Characters
 ---
 #noun
-- **A [[b/_being|being]] [[i/_involved|involved]] in the [[a/_action|action]] of a story.**
+- **A [[b/_being|being]] [[i/_involved|involved]] in the [[a/_action|action]] of a [[s/_story|story]].**
 - **A [[d/_distinguishing|distinguishing]] [[f/_feature|feature]]; [[c/_characteristic|characteristic]]; trait; [[p/_phene|phene]].**
 	- _Example: A single locus governing the petal colour character was detected on the linkage group A2._
 - **A [[c/_complex|complex]] of traits [[m/_marking|marking]] a [[p/_person|person]], [[g/_group|group]], [[b/_breed|breed]], or type.**
 	- _Example: A study of the suspect's character and his cast iron alibi ruled him out._
-- **Strength of [[m/_mind|mind]]; [[r/_resolution|resolution]]; [[i/_independence|independence]]; [[i/_individuality|individuality]]; [[m/_moral|moral]] strength.**
+- **[[s/_strength|Strength]] of [[m/_mind|mind]]; [[r/_resolution|resolution]]; [[i/_independence|independence]]; [[i/_individuality|individuality]]; [[m/_moral|moral]] [[s/_strength|strength]].**
 	- _Example: "You may not like to eat liver," said Calvin's father, "but it builds character."_
 - **A unique or [[e/_extraordinary|extraordinary]] [[i/_individual|individual]]; a [[p/_person|person]] [[c/_characterized|characterized]] by [[p/_peculiar|peculiar]] or [[n/_notable|notable]] traits, [[e/_especially|especially]] [[c/_charisma|charisma]].**
 	- _Example: Julius Caesar is a great historical character._
 - **A written or [[p/_printed|printed]] [[s/_symbol|symbol]], or [[l/_letter|letter]].**
-- **Style of writing or [[p/_printing|printing]]; [[h/_handwriting|handwriting]]; the [[p/_particular|particular]] [[f/_form|form]] of [[l/_letters|letters]] used by a [[p/_person|person]] or [[p/_people|people]].**
+- **[[s/_style|Style]] of writing or [[p/_printing|printing]]; [[h/_handwriting|handwriting]]; the [[p/_particular|particular]] [[f/_form|form]] of [[l/_letters|letters]] used by a [[p/_person|person]] or [[p/_people|people]].**
 	- _Example: an inscription in the Runic character_
 - **A [[s/_secret|secret]] [[c/_cipher|cipher]]; a way of writing in [[c/_code|code]].**
-- **[[o/_one|One]] of the [[b/_basic|basic]] [[e/_elements|elements]] [[m/_making|making]] up a text [[f/_file|file]] or string: a [[c/_code|code]] [[r/_representing|representing]] a [[p/_printing|printing]] [[c/_character|character]] or a [[c/_control|control]] [[c/_character|character]].**
+- **[[o/_one|One]] of the [[b/_basic|basic]] [[e/_elements|elements]] [[m/_making|making]] up a text [[f/_file|file]] or [[s/_string|string]]: a [[c/_code|code]] [[r/_representing|representing]] a [[p/_printing|printing]] [[c/_character|character]] or a [[c/_control|control]] [[c/_character|character]].**
 - **A [[p/_person|person]] or [[i/_individual|individual]], [[e/_especially|especially]] [[o/_one|one]] who is unknown or [[r/_raises|raises]] suspicions.**
 	- _Example: That old guy is a real character._
 - **A [[c/_complex|complex]] [[n/_number|number]] [[r/_representing|representing]] an [[e/_element|element]] of a [[f/_finite|finite]] [[a/_abelian|Abelian]] [[g/_group|group]].**

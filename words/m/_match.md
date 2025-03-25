@@ -1,15 +1,15 @@
 # Match
 ---
 #noun
-- **A [[c/_competitive|competitive]] sporting [[e/_event|event]] such as a [[b/_boxing|boxing]] [[m/_meet|meet]], a [[b/_baseball|baseball]] [[g/_game|game]], or a [[c/_cricket|cricket]] [[m/_match|match]].**
+- **A [[c/_competitive|competitive]] [[s/_sporting|sporting]] [[e/_event|event]] such as a [[b/_boxing|boxing]] [[m/_meet|meet]], a [[b/_baseball|baseball]] [[g/_game|game]], or a [[c/_cricket|cricket]] [[m/_match|match]].**
 	- _Example: My local team are playing in a match against their arch-rivals today._
-- **[[a/_any|Any]] [[c/_contest|contest]] or trial of strength or [[s/_skill|skill]], or to [[d/_determine|determine]] superiority.**
+- **[[a/_any|Any]] [[c/_contest|contest]] or trial of [[s/_strength|strength]] or [[s/_skill|skill]], or to [[d/_determine|determine]] superiority.**
 - **[[s/_someone|Someone]] with a [[m/_measure|measure]] of an [[a/_attribute|attribute]] [[e/_equaling|equaling]] or [[e/_exceeding|exceeding]] the [[o/_object|object]] of [[c/_comparison|comparison]].**
 	- _Example: He knew he had met his match._
 - **A [[m/_marriage|marriage]].**
 - **A [[c/_candidate|candidate]] for [[m/_matrimony|matrimony]]; [[o/_one|one]] to be [[g/_gained|gained]] in [[m/_marriage|marriage]].**
 - **Suitability.**
-- **[[e/_equivalence|Equivalence]]; a state of [[c/_correspondence|correspondence]].**
+- **[[e/_equivalence|Equivalence]]; a [[s/_state|state]] of [[c/_correspondence|correspondence]].**
 - **[[e/_equality|Equality]] of [[c/_conditions|conditions]] in [[c/_contest|contest]] or [[c/_competition|competition]].**
 - **A [[p/_pair|pair]] of [[i/_items|items]] or [[e/_entities|entities]] with [[m/_mutually|mutually]] suitable [[c/_characteristics|characteristics]].**
 	- _Example: The carpet and curtains are a match._
@@ -26,7 +26,7 @@
 - **To [[e/_equal|equal]] or [[e/_exceed|exceed]] in [[a/_achievement|achievement]].**
 	- _Example: She matched him at every turn: anything he could do, she could do as well or better._
 - **To unite in [[m/_marriage|marriage]], to [[m/_mate|mate]].**
-- **To [[f/_fit|fit]] together, or [[m/_make|make]] suitable for [[f/_fitting|fitting]] together; specifically, to [[f/_furnish|furnish]] with a tongue and [[g/_groove|groove]] at the [[e/_edges|edges]].**
+- **To [[f/_fit|fit]] together, or [[m/_make|make]] suitable for [[f/_fitting|fitting]] together; [[s/_specifically|specifically]], to [[f/_furnish|furnish]] with a tongue and [[g/_groove|groove]] at the [[e/_edges|edges]].**
 	- _Example: to match boards_
 ---
 ---

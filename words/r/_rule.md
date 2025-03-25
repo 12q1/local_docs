@@ -3,11 +3,11 @@
 #noun
 - **A [[r/_regulation|regulation]], [[l/_law|law]], [[g/_guideline|guideline]].**
 	- _Example: All participants must adhere to the rules._
-- **A [[r/_ruler|ruler]]; [[d/_device|device]] for [[m/_measuring|measuring]], a straightedge, a [[m/_measure|measure]].**
-- **A straight [[l/_line|line]] ([[c/_continuous|continuous]] [[m/_mark|mark]], as [[m/_made|made]] by a [[p/_pen|pen]] or the [[l/_like|like]]), [[e/_especially|especially]] [[o/_one|one]] [[l/_lying|lying]] [[a/_across|across]] a [[p/_paper|paper]] as a [[g/_guide|guide]] for writing.**
+- **A [[r/_ruler|ruler]]; [[d/_device|device]] for [[m/_measuring|measuring]], a [[s/_straightedge|straightedge]], a [[m/_measure|measure]].**
+- **A [[s/_straight|straight]] [[l/_line|line]] ([[c/_continuous|continuous]] [[m/_mark|mark]], as [[m/_made|made]] by a [[p/_pen|pen]] or the [[l/_like|like]]), [[e/_especially|especially]] [[o/_one|one]] [[l/_lying|lying]] [[a/_across|across]] a [[p/_paper|paper]] as a [[g/_guide|guide]] for writing.**
 - **A [[r/_regulating|regulating]] [[p/_principle|principle]].**
 - **The [[a/_act|act]] of [[r/_ruling|ruling]]; [[a/_administration|administration]] of [[l/_law|law]]; [[g/_government|government]]; [[e/_empire|empire]]; [[a/_authority|authority]]; [[c/_control|control]].**
-- **A [[n/_normal|normal]] [[c/_condition|condition]] or state of [[a/_affairs|affairs]].**
+- **A [[n/_normal|normal]] [[c/_condition|condition]] or [[s/_state|state]] of [[a/_affairs|affairs]].**
 	- _Example: As a rule, our senior editors are serious-minded._
 - **[[c/_conduct|Conduct]]; [[b/_behaviour|behaviour]].**
 - **An [[o/_order|order]] [[r/_regulating|regulating]] the [[p/_practice|practice]] of the [[c/_courts|courts]], or an [[o/_order|order]] [[m/_made|made]] [[b/_between|between]] [[p/_parties|parties]] to an [[a/_action|action]] or a suit.**

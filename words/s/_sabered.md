@@ -1,6 +1,6 @@
 # Sabered
 ---
 #verb
-- **To strike or [[k/_kill|kill]] with a [[s/_sabre|sabre]].**
+- **To [[s/_strike|strike]] or [[k/_kill|kill]] with a [[s/_sabre|sabre]].**
 ---
 ---

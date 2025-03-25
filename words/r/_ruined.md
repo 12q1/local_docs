@@ -11,9 +11,9 @@
 	- _Example: My car breaking down just as I was on the road ruined my vacation._
 - **To [[m/_make|make]] [[s/_something|something]] [[l/_less|less]] [[e/_enjoyable|enjoyable]] or [[l/_likeable|likeable]].**
 	- _Example: I used to love that song, but being assaulted when that song was playing ruined the song for me._
-- **To [[r/_reveal|reveal]] the [[e/_ending|ending]] of (a story); to spoil.**
-- **To [[f/_fall|fall]] [[i/_into|into]] a state of [[d/_decay|decay]].**
-- **To [[s/_seduce|seduce]] or [[d/_debauch|debauch]], and thus [[h/_harm|harm]] the [[s/_social|social]] standing of.**
+- **To [[r/_reveal|reveal]] the [[e/_ending|ending]] of (a [[s/_story|story]]); to [[s/_spoil|spoil]].**
+- **To [[f/_fall|fall]] [[i/_into|into]] a [[s/_state|state]] of [[d/_decay|decay]].**
+- **To [[s/_seduce|seduce]] or [[d/_debauch|debauch]], and thus [[h/_harm|harm]] the [[s/_social|social]] [[s/_standing|standing]] of.**
 	- _Example: The young libertine was notorious for ruining local girls._
 ---
 ### Synonyms

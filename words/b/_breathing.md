@@ -22,8 +22,8 @@
 	- _Example: The wind breathes through the trees._
 - **To [[e/_exchange|exchange]] [[g/_gases|gases]] with the [[e/_environment|environment]].**
 	- _Example: Garments made of certain new materials breathe well and keep the skin relatively dry during exercise._
-- **To [[r/_rest|rest]]; to stop and [[c/_catch|catch]] [[o/_one|one]]'[[s/_s|s]] [[b/_breath|breath]].**
-- **To stop, to [[g/_give|give]] (a [[h/_horse|horse]]) an [[o/_opportunity|opportunity]] to [[c/_catch|catch]] [[i/_its|its]] [[b/_breath|breath]].**
+- **To [[r/_rest|rest]]; to [[s/_stop|stop]] and [[c/_catch|catch]] [[o/_one|one]]'[[s/_s|s]] [[b/_breath|breath]].**
+- **To [[s/_stop|stop]], to [[g/_give|give]] (a [[h/_horse|horse]]) an [[o/_opportunity|opportunity]] to [[c/_catch|catch]] [[i/_its|its]] [[b/_breath|breath]].**
 	- _Example: At higher altitudes you need to breathe your horse more often._
 - **To [[e/_exercise|exercise]]; to tire by [[b/_brisk|brisk]] [[e/_exercise|exercise]].**
 - **To [[p/_passionately|passionately]] [[d/_devote|devote]] [[m/_much|much]] of [[o/_one|one]]'[[s/_s|s]] [[l/_life|life]] to (an [[a/_activity|activity]], [[e/_etc|etc]].).**
@@ -34,7 +34,7 @@
 #noun
 - **The [[a/_act|act]] of [[r/_respiration|respiration]]; a [[s/_single|single]] [[i/_instance|instance]] of this.**
 - **A [[d/_diacritical|diacritical]] [[m/_mark|mark]] [[i/_indicating|indicating]] [[a/_aspiration|aspiration]] or [[l/_lack|lack]] thereof.**
-- **Time to [[r/_recover|recover]] [[o/_one|one]]'[[s/_s|s]] [[b/_breath|breath]]; [[h/_hence|hence]], a [[d/_delay|delay]], a spell of time.**
+- **Time to [[r/_recover|recover]] [[o/_one|one]]'[[s/_s|s]] [[b/_breath|breath]]; [[h/_hence|hence]], a [[d/_delay|delay]], a [[s/_spell|spell]] of time.**
 - **[[a/_any|Any]] [[g/_gentle|gentle]] [[i/_influence|influence]] or [[o/_operation|operation]]; [[i/_inspiration|inspiration]].**
 	- _Example: the breathings of the Holy Spirit_
 - **[[a/_aspiration|Aspiration]]; [[s/_secret|secret]] [[p/_prayer|prayer]].**

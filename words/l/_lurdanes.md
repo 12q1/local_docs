@@ -1,6 +1,6 @@
 # Lurdanes
 ---
 #noun
-- **A [[l/_lazy|lazy]], stupid [[p/_person|person]]; a [[s/_sluggard|sluggard]].**
+- **A [[l/_lazy|lazy]], [[s/_stupid|stupid]] [[p/_person|person]]; a [[s/_sluggard|sluggard]].**
 ---
 ---

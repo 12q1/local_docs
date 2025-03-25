@@ -1,7 +1,7 @@
 # Privacy
 ---
 #noun
-- **The state of [[b/_being|being]] [[s/_secluded|secluded]] from the [[p/_presence|presence]], [[s/_sight|sight]], or [[k/_knowledge|knowledge]] of [[o/_others|others]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[s/_secluded|secluded]] from the [[p/_presence|presence]], [[s/_sight|sight]], or [[k/_knowledge|knowledge]] of [[o/_others|others]].**
 	- _Example: I need my privacy, so please stay out of my room._
 - **[[f/_freedom|Freedom]] from unwanted or undue [[d/_disturbance|disturbance]] of [[o/_one|one]] [[p/_private|private]] [[l/_life|life]].**
 	- _Example: It takes a village to rob one of a sense of privacy._

@@ -13,7 +13,7 @@
 - **To [[i/_indicate|indicate]] a [[p/_probability|probability]] of [[s/_something|something]].**
 - **To [[r/_repair|repair]] [[m/_mortar|mortar]].**
 - **To [[f/_fill|fill]] up and [[f/_finish|finish]] the [[j/_joints|joints]] of (a wall), by [[i/_introducing|introducing]] [[a/_additional|additional]] [[c/_cement|cement]] or [[m/_mortar|mortar]], and [[b/_bringing|bringing]] it to a [[s/_smooth|smooth]] surface.**
-- **(stone-[[c/_cutting|cutting]]) To [[c/_cut|cut]], as a surface, with a [[p/_pointed|pointed]] tool.**
+- **([[s/_stone|stone]]-[[c/_cutting|cutting]]) To [[c/_cut|cut]], as a surface, with a [[p/_pointed|pointed]] tool.**
 - **To [[d/_direct|direct]] or [[e/_encourage|encourage]] ([[s/_someone|someone]]) in a [[p/_particular|particular]] [[d/_direction|direction]].**
 	- _Example: If he asks for food, point him toward the refrigerator._
 - **To [[s/_separate|separate]] an [[i/_integer|integer]] from a [[d/_decimal|decimal]] with a [[d/_decimal|decimal]] [[p/_point|point]].**
@@ -24,7 +24,7 @@
 - **To [[d/_direct|direct]] [[r/_requests|requests]] [[s/_sent|sent]] to a [[d/_domain|domain]] [[n/_name|name]] to the IP [[a/_address|address]] [[c/_corresponding|corresponding]] to that [[d/_domain|domain]] [[n/_name|name]].**
 - **To [[s/_sail|sail]] [[c/_close|close]] to the wind.**
 	- _Example: Bear off a little, we're pointing._
-- **To [[i/_indicate|indicate]] the [[p/_presence|presence]] of [[g/_game|game]] by a [[f/_fixed|fixed]] and steady [[l/_look|look]], as [[c/_certain|certain]] [[h/_hunting|hunting]] [[d/_dogs|dogs]] [[d/_do|do]].**
+- **To [[i/_indicate|indicate]] the [[p/_presence|presence]] of [[g/_game|game]] by a [[f/_fixed|fixed]] and [[s/_steady|steady]] [[l/_look|look]], as [[c/_certain|certain]] [[h/_hunting|hunting]] [[d/_dogs|dogs]] [[d/_do|do]].**
 - **(of an [[a/_abscess|abscess]]) To [[a/_approximate|approximate]] to the surface; to [[h/_head|head]].**
 - **To [[g/_give|give]] [[p/_point|point]] to ([[s/_something|something]] [[s/_said|said]] or [[d/_done|done]]); to [[g/_give|give]] [[p/_particular|particular]] [[p/_prominence|prominence]] or [[f/_force|force]] to.**
 ---
@@ -36,6 +36,6 @@
 - **(usually [[s/_singular|singular]] or [[c/_collective|collective]], [[s/_sometimes|sometimes]] [[p/_proscribed|proscribed]]) [[m/_mortar|Mortar]] that [[h/_has|has]] [[b/_been|been]] [[p/_placed|placed]] [[b/_between|between]] [[b/_bricks|bricks]] to [[h/_hold|hold]] them together.**
 - **The [[a/_act|act]] or [[a/_art|art]] of [[p/_punctuating|punctuating]]; [[p/_punctuation|punctuation]].**
 - **The [[r/_rubbing|rubbing]] [[o/_off|off]] of the [[p/_point|point]] of the wheat [[g/_grain|grain]] in the [[f/_first|first]] [[p/_process|process]] of [[h/_high|high]] [[m/_milling|milling]].**
-- **The [[a/_act|act]] or [[p/_process|process]] of [[m/_measuring|measuring]], at the various [[d/_distances|distances]] from the surface of a [[b/_block|block]] of [[m/_marble|marble]], the surface of a [[f/_future|future]] [[p/_piece|piece]] of statuary; [[a/_also|also]], a [[p/_process|process]] used in [[c/_cutting|cutting]] the statue from the [[a/_artist|artist]]'[[s/_s|s]] [[m/_model|model]].**
+- **The [[a/_act|act]] or [[p/_process|process]] of [[m/_measuring|measuring]], at the various [[d/_distances|distances]] from the surface of a [[b/_block|block]] of [[m/_marble|marble]], the surface of a [[f/_future|future]] [[p/_piece|piece]] of [[s/_statuary|statuary]]; [[a/_also|also]], a [[p/_process|process]] used in [[c/_cutting|cutting]] the [[s/_statue|statue]] from the [[a/_artist|artist]]'[[s/_s|s]] [[m/_model|model]].**
 ---
 ---

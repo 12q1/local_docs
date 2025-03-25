@@ -1,7 +1,7 @@
 # Shrub
 ---
 #noun
-- **A woody [[p/_plant|plant]] [[s/_smaller|smaller]] than a tree, and usually with [[s/_several|several]] stems from the [[s/_same|same]] [[b/_base|base]].**
+- **A woody [[p/_plant|plant]] [[s/_smaller|smaller]] than a tree, and usually with [[s/_several|several]] [[s/_stems|stems]] from the [[s/_same|same]] [[b/_base|base]].**
 ---
 ### Synonyms
 - [[b/_bush|bush]]

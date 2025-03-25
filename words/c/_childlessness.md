@@ -1,6 +1,6 @@
 # Childlessness
 ---
 #noun
-- **The state of [[b/_being|being]] [[c/_childless|childless]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[c/_childless|childless]].**
 ---
 ---

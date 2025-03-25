@@ -27,7 +27,7 @@
 - **An [[i/_image|image]] or [[c/_copy|copy]].**
 - **An [[i/_illustration|illustration]] in a [[b/_book|book]], [[e/_either|either]] [[b/_black|black]] and white, or [[c/_colour|colour]], usually on a [[p/_page|page]] of [[p/_paper|paper]] of [[d/_different|different]] [[q/_quality|quality]] from the text [[p/_pages|pages]].**
 - **A [[s/_shaped|shaped]] and [[f/_fitted|fitted]] surface, usually [[c/_ceramic|ceramic]] or [[m/_metal|metal]] that [[f/_fits|fits]] [[i/_into|into]] the [[m/_mouth|mouth]] and in which teeth are [[i/_implanted|implanted]]; a [[d/_dental|dental]] [[p/_plate|plate]].**
-- **A [[h/_horizontal|horizontal]] [[f/_framing|framing]] [[m/_member|member]] at the top or [[b/_bottom|bottom]] of a [[g/_group|group]] of vertical studs.**
+- **A [[h/_horizontal|horizontal]] [[f/_framing|framing]] [[m/_member|member]] at the top or [[b/_bottom|bottom]] of a [[g/_group|group]] of vertical [[s/_studs|studs]].**
 - **A [[f/_foot|foot]], from "[[p/_plates|plates]] of [[m/_meat|meat]]".**
 	- _Example: Sit down and give your plates a rest._
 - **[[h/_home|Home]] [[p/_plate|plate]].**
@@ -47,7 +47,7 @@
 - **(travel [[i/_industry|industry]], by [[e/_extension|extension]]) The [[a/_ability|ability]] of a travel [[a/_agent|agent]] to [[i/_issue|issue]] tickets on [[b/_behalf|behalf]] of a [[p/_particular|particular]] [[a/_airline|airline]].**
 - **A VIN [[p/_plate|plate]], [[p/_particularly|particularly]] with [[r/_regard|regard]] to the [[c/_car|car]]'[[s/_s|s]] [[y/_year|year]] of [[m/_manufacture|manufacture]].**
 - **[[o/_one|One]] of the thin [[p/_parts|parts]] of the [[b/_brisket|brisket]] of an [[a/_animal|animal]].**
-- **A very [[l/_light|light]] steel [[h/_horseshoe|horseshoe]] for [[r/_racehorses|racehorses]].**
+- **A very [[l/_light|light]] [[s/_steel|steel]] [[h/_horseshoe|horseshoe]] for [[r/_racehorses|racehorses]].**
 - **([[f/_furriers|furriers]]' [[s/_slang|slang]]) [[s/_skins|Skins]] for [[f/_fur|fur]] [[l/_linings|linings]] of [[g/_garments|garments]], [[s/_sewn|sewn]] together and [[r/_roughly|roughly]] [[s/_shaped|shaped]], but not [[f/_finally|finally]] [[c/_cut|cut]] or [[f/_fitted|fitted]].**
 - **([[h/_hat|hat]]-[[m/_making|making]]) The [[f/_fine|fine]] [[n/_nap|nap]] (as of [[b/_beaver|beaver]], [[m/_musquash|musquash]], [[e/_etc|etc]].) on a [[h/_hat|hat]] whose [[b/_body|body]] is [[m/_made|made]] from [[i/_inferior|inferior]] [[m/_material|material]].**
 - **A [[r/_record|record]], usually vinyl.**
@@ -61,9 +61,9 @@
 	- _Example: The single plated the runner from second base._
 - **To [[a/_arm|arm]] or [[d/_defend|defend]] with [[m/_metal|metal]] [[p/_plates|plates]].**
 - **To [[b/_beat|beat]] [[i/_into|into]] thin [[p/_plates|plates]].**
-- **(travel [[i/_industry|industry]]) To specify which [[a/_airline|airline]] a ticket will be [[i/_issued|issued]] on [[b/_behalf|behalf]] of.**
+- **(travel [[i/_industry|industry]]) To [[s/_specify|specify]] which [[a/_airline|airline]] a ticket will be [[i/_issued|issued]] on [[b/_behalf|behalf]] of.**
 	- _Example: Tickets are normally plated on an itinerary's first international airline._
-- **To [[c/_categorise|categorise]] stamps [[b/_based|based]] on their [[p/_position|position]] on the [[o/_original|original]] [[s/_sheet|sheet]], in [[o/_order|order]] to [[r/_reconstruct|reconstruct]] an [[e/_entire|entire]] [[s/_sheet|sheet]].**
-- **([[p/_particularly|particularly]] with [[e/_early|early]] [[b/_british|British]] stamps) to [[i/_identify|identify]] the [[p/_printing|printing]] [[p/_plate|plate]] used.**
+- **To [[c/_categorise|categorise]] [[s/_stamps|stamps]] [[b/_based|based]] on their [[p/_position|position]] on the [[o/_original|original]] [[s/_sheet|sheet]], in [[o/_order|order]] to [[r/_reconstruct|reconstruct]] an [[e/_entire|entire]] [[s/_sheet|sheet]].**
+- **([[p/_particularly|particularly]] with [[e/_early|early]] [[b/_british|British]] [[s/_stamps|stamps]]) to [[i/_identify|identify]] the [[p/_printing|printing]] [[p/_plate|plate]] used.**
 ---
 ---

@@ -3,7 +3,7 @@
 #noun
 - **(with the, [[i/_invariable|invariable]] [[p/_plural|plural]] [[o/_only|only]]) [[p/_people|People]] who are [[o/_old|old]]; [[o/_old|old]] [[b/_beings|beings]]; the [[o/_older|older]] [[g/_generation|generation]], taken as a [[g/_group|group]].**
 	- _Example: A civilised society should always look after the old in the community._
-- **(in [[c/_combination|combination]]) [[o/_one|One]] of a specified [[a/_age|age]].**
+- **(in [[c/_combination|combination]]) [[o/_one|One]] of a [[s/_specified|specified]] [[a/_age|age]].**
 	- _Example: when he was an eight-year-old ; a 62-year-old should_
 - **A [[p/_person|person]] [[o/_older|older]] than [[o/_oneself|oneself]], [[e/_especially|especially]] an [[a/_adult|adult]] in [[r/_relation|relation]] to a teenager.**
 - **([[m/_most|most]] [[o/_often|often]] [[p/_plural|plural]]) [[o/_one|One]]'[[s/_s|s]] [[p/_parents|parents]].**
@@ -14,7 +14,7 @@
 	- _Example: an old abandoned building;  an old friend_
 - **[[h/_having|Having]] [[b/_been|been]] used and thus [[n/_no|no]] [[l/_longer|longer]] [[n/_new|new]] or unused.**
 	- _Example: I find that an old toothbrush is good to clean the keyboard with._
-- **[[h/_having|Having]] [[e/_existed|existed]] or [[l/_lived|lived]] for the specified time.**
+- **[[h/_having|Having]] [[e/_existed|existed]] or [[l/_lived|lived]] for the [[s/_specified|specified]] time.**
 	- _Example: How old are they? She’s five years old and he's seven. We also have a young teen and a two-year-old child._
 - **([[h/_heading|heading]]) Of an [[e/_earlier|earlier]] time.**
 - **Tiresome [[a/_after|after]] [[p/_prolonged|prolonged]] [[r/_repetition|repetition]].**

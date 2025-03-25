@@ -14,7 +14,7 @@
 	- _Example: puff of smoke_
 - **A sudden [[g/_gust|gust]].**
 - **An [[a/_act|act]] of [[i/_inhaling|inhaling]] [[s/_smoke|smoke]] from a [[c/_cigarette|cigarette]], [[c/_cigar|cigar]] or [[p/_pipe|pipe]].**
-- **A [[f/_flamboyant|flamboyant]] or [[a/_alluring|alluring]] statement of [[p/_praise|praise]].**
+- **A [[f/_flamboyant|flamboyant]] or [[a/_alluring|alluring]] [[s/_statement|statement]] of [[p/_praise|praise]].**
 - **A [[p/_puffer|puffer]], [[o/_one|one]] who is [[e/_employed|employed]] by the [[o/_owner|owner]] or [[s/_seller|seller]] of [[g/_goods|goods]] [[s/_sold|sold]] at [[a/_auction|auction]] to [[b/_bid|bid]] up the [[p/_price|price]]; an [[a/_act|act]] or [[s/_scam|scam]] of that type.**
 - **A [[p/_puffball|puffball]].**
 - **A [[p/_powder|powder]] [[p/_puff|puff]].**

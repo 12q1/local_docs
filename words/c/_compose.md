@@ -12,8 +12,8 @@
 	- _Example: The defendant couldn't compose herself and was found in contempt._
 - **To [[a/_arrange|arrange]] the [[e/_elements|elements]] of a [[p/_photograph|photograph]] or [[o/_other|other]] [[p/_picture|picture]].**
 - **To [[s/_settle|settle]] (an [[a/_argument|argument]], [[d/_dispute|dispute]] [[e/_etc|etc]].); to [[c/_come|come]] to a [[s/_settlement|settlement]].**
-- **To [[a/_arrange|arrange]] in [[p/_proper|proper]] [[f/_form|form]]; to [[r/_reduce|reduce]] to [[o/_order|order]]; to [[p/_put|put]] in [[p/_proper|proper]] state or [[c/_condition|condition]].**
-- **To [[a/_arrange|arrange]] (types) in a [[c/_composing|composing]] stick for [[p/_printing|printing]]; to typeset.**
+- **To [[a/_arrange|arrange]] in [[p/_proper|proper]] [[f/_form|form]]; to [[r/_reduce|reduce]] to [[o/_order|order]]; to [[p/_put|put]] in [[p/_proper|proper]] [[s/_state|state]] or [[c/_condition|condition]].**
+- **To [[a/_arrange|arrange]] (types) in a [[c/_composing|composing]] [[s/_stick|stick]] for [[p/_printing|printing]]; to typeset.**
 ---
 ### Synonyms
 - [[c/_constitute|constitute]], [[f/_form|form]]

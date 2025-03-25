@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_large|large]] [[p/_post|post]], [[o/_often|often]] used as supporting [[a/_architecture|architecture]].**
-- **[[s/_something|Something]] [[r/_resembling|resembling]] such a structure.**
+- **[[s/_something|Something]] [[r/_resembling|resembling]] such a [[s/_structure|structure]].**
 	- _Example: a pillar of smoke_
 - **An [[e/_essential|essential]] [[p/_part|part]] of [[s/_something|something]] that [[p/_provides|provides]] support.**
 	- _Example: He's a pillar of the community._

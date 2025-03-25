@@ -5,7 +5,7 @@
 - **To [[h/_have|have]] [[d/_debt|debt]]; to be in [[d/_debt|debt]].**
 ---
 #adjective
-- **Still to be [[p/_paid|paid]]; [[o/_owed|owed]] as a [[d/_debt|debt]].**
+- **[[s/_still|Still]] to be [[p/_paid|paid]]; [[o/_owed|owed]] as a [[d/_debt|debt]].**
 	- _Example: These seven subscriptions remain owing._
 ---
 ---

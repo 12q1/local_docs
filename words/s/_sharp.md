@@ -1,7 +1,7 @@
 # Sharp
 ---
 #noun
-- **The [[s/_symbol|symbol]] ♯, [[p/_placed|placed]] [[a/_after|after]] the [[n/_name|name]] of a [[n/_note|note]] in the [[k/_key|key]] [[s/_signature|signature]] or [[b/_before|before]] a [[n/_note|note]] on the staff to [[i/_indicate|indicate]] that the [[n/_note|note]] is to be [[p/_played|played]] a [[s/_semitone|semitone]] [[h/_higher|higher]].**
+- **The [[s/_symbol|symbol]] ♯, [[p/_placed|placed]] [[a/_after|after]] the [[n/_name|name]] of a [[n/_note|note]] in the [[k/_key|key]] [[s/_signature|signature]] or [[b/_before|before]] a [[n/_note|note]] on the [[s/_staff|staff]] to [[i/_indicate|indicate]] that the [[n/_note|note]] is to be [[p/_played|played]] a [[s/_semitone|semitone]] [[h/_higher|higher]].**
 	- _Example: The pitch pipe sounded out a perfect F♯ (F sharp)._
 - **A [[n/_note|note]] that is [[p/_played|played]] a [[s/_semitone|semitone]] [[h/_higher|higher]] than usual; [[d/_denoted|denoted]] by the [[n/_name|name]] of the [[n/_note|note]] that is [[f/_followed|followed]] by the [[s/_symbol|symbol]] ♯.**
 - **A [[n/_note|note]] that is [[s/_sharp|sharp]] in a [[p/_particular|particular]] [[k/_key|key]].**
@@ -12,14 +12,14 @@
 	- _Example: Place sharps in the specially marked red container for safe disposal._
 - **A [[d/_dishonest|dishonest]] [[p/_person|person]]; a [[c/_cheater|cheater]].**
 	- _Example: The casino kept in the break room a set of pictures of known sharps for the bouncers to see._
-- **[[p/_part|Part]] of a stream where the water [[r/_runs|runs]] very [[r/_rapidly|rapidly]].**
+- **[[p/_part|Part]] of a [[s/_stream|stream]] where the water [[r/_runs|runs]] very [[r/_rapidly|rapidly]].**
 - **A [[s/_sewing|sewing]] [[n/_needle|needle]] with a very [[s/_slender|slender]] [[p/_point|point]], [[m/_more|more]] [[p/_pointed|pointed]] than a [[b/_blunt|blunt]] or a [[b/_between|between]].**
 - **(in the [[p/_plural|plural]]) [[f/_fine|Fine]] [[p/_particles|particles]] of [[h/_husk|husk]] [[m/_mixed|mixed]] with [[c/_coarse|coarse]] [[p/_particle|particle]] of [[f/_flour|flour]] of [[c/_cereals|cereals]]; [[m/_middlings|middlings]].**
 - **An [[e/_expert|expert]].**
 - **A [[s/_sharpie|sharpie]] ([[m/_member|member]] of [[a/_australian|Australian]] [[g/_gangs|gangs]] of the 1960s and 1970s).**
 ---
 #verb
-- **To [[r/_raise|raise]] the [[p/_pitch|pitch]] of a [[n/_note|note]] [[h/_half|half]] a step [[m/_making|making]] a [[n/_natural|natural]] [[n/_note|note]] a [[s/_sharp|sharp]].**
+- **To [[r/_raise|raise]] the [[p/_pitch|pitch]] of a [[n/_note|note]] [[h/_half|half]] a [[s/_step|step]] [[m/_making|making]] a [[n/_natural|natural]] [[n/_note|note]] a [[s/_sharp|sharp]].**
 	- _Example: That new musician must be tone deaf: he sharped half the notes of the song!_
 - **To [[p/_play|play]] tricks in [[b/_bargaining|bargaining]]; to [[a/_act|act]] the [[s/_sharper|sharper]].**
 - **To [[s/_sharpen|sharpen]].**
@@ -44,15 +44,15 @@
 	- _Example: You'll need sharp aim to make that shot._
 - **[[o/_offensive|Offensive]], [[c/_critical|critical]], or [[a/_acrimonious|acrimonious]].**
 	- _Example: When the two rivals met, first there were sharp words, and then a fight broke out._
-- **Stylish or [[a/_attractive|attractive]].**
+- **[[s/_stylish|Stylish]] or [[a/_attractive|attractive]].**
 	- _Example: You look so sharp in that tuxedo!_
 - **[[o/_observant|Observant]]; [[a/_alert|alert]]; [[a/_acute|acute]].**
 	- _Example: Keep a sharp watch on the prisoners. I don't want them to escape!_
 - **[[f/_forming|Forming]] a [[s/_small|small]] [[a/_angle|angle]]; [[e/_especially|especially]], [[f/_forming|forming]] an [[a/_angle|angle]] of [[l/_less|less]] than [[n/_ninety|ninety]] [[d/_degrees|degrees]].**
 	- _Example: Drive down Main for three quarters of a mile, then make a sharp right turn onto Pine._
-- **Steep; [[p/_precipitous|precipitous]]; [[a/_abrupt|abrupt]].**
+- **[[s/_steep|Steep]]; [[p/_precipitous|precipitous]]; [[a/_abrupt|abrupt]].**
 	- _Example: a sharp ascent or descent; a sharp turn or curve_
-- **(of a statement) [[s/_said|Said]] of as [[e/_extreme|extreme]] a value as [[p/_possible|possible]].**
+- **(of a [[s/_statement|statement]]) [[s/_said|Said]] of as [[e/_extreme|extreme]] a value as [[p/_possible|possible]].**
 	- _Example: Sure, any planar graph can be five-colored. But that result is not sharp: in fact, any planar graph can be four-colored. That is sharp: the same can't be said for any lower number._
 - **Tactical; [[r/_risky|risky]].**
 - **[[p/_piercing|Piercing]]; [[k/_keen|keen]]; [[s/_severe|severe]]; [[p/_painful|painful]].**

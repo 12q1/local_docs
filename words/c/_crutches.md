@@ -8,7 +8,7 @@
 - **A [[c/_crotch|crotch]]; the [[a/_area|area]] of [[b/_body|body]] where the [[l/_legs|legs]] [[f/_fork|fork]] from the trunk.**
 - **A [[f/_form|form]] of [[p/_pommel|pommel]] for a woman'[[s/_s|s]] [[s/_saddle|saddle]], [[c/_consisting|consisting]] of a [[f/_forked|forked]] [[r/_rest|rest]] to [[h/_hold|hold]] the [[l/_leg|leg]] of the [[r/_rider|rider]].**
 - **A [[k/_knee|knee]], or [[p/_piece|piece]] of [[k/_knee|knee]] timber.**
-- **A [[f/_forked|forked]] stanchion or [[p/_post|post]]; a [[c/_crotch|crotch]].**
+- **A [[f/_forked|forked]] [[s/_stanchion|stanchion]] or [[p/_post|post]]; a [[c/_crotch|crotch]].**
 - **A type of [[c/_cross|cross]] [[f/_formed|formed]] from two [[c/_c|C]]-[[s/_shapes|shapes]] [[j/_joined|joined]] [[b/_back|back]] to [[b/_back|back]].**
 ---
 ---

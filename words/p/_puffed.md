@@ -19,6 +19,6 @@
 - **[[c/_consisting|Consisting]] of a [[p/_puff|puff]].**
 - **[[g/_gathered|Gathered]] up [[i/_into|into]] [[r/_rounded|rounded]] [[r/_ridges|ridges]].**
 	- _Example: The dress had puffed sleeves._
-- **(of [[c/_cereals|cereals]]) [[e/_expanded|Expanded]] by the use of steam.**
+- **(of [[c/_cereals|cereals]]) [[e/_expanded|Expanded]] by the use of [[s/_steam|steam]].**
 ---
 ---

@@ -4,7 +4,7 @@
 - **[[o/_one|One]] who, or that which, [[r/_reverts|reverts]].**
 - **[[o/_one|One]] who [[r/_reverts|reverts]] to that [[r/_religion|religion]] which [[h/_he|he]] [[h/_had|had]] [[a/_adhered|adhered]] to [[b/_before|before]] [[h/_having|having]] [[c/_converted|converted]] to [[a/_another|another]]**
 - **([[d/_due|due]] to the [[b/_belief|belief]] that [[a/_all|all]] [[p/_people|people]] are [[b/_born|born]] [[m/_muslim|Muslim]]) A [[c/_convert|convert]] to [[i/_islam|Islam]].**
-- **The [[a/_act|act]] of [[r/_reversion|reversion]] (of [[e/_e|e]].[[g/_g|g]]. a [[d/_database|database]] transaction or [[s/_source|source]] [[c/_control|control]] [[r/_repository|repository]]) to an [[e/_earlier|earlier]] state.**
+- **The [[a/_act|act]] of [[r/_reversion|reversion]] (of [[e/_e|e]].[[g/_g|g]]. a [[d/_database|database]] transaction or [[s/_source|source]] [[c/_control|control]] [[r/_repository|repository]]) to an [[e/_earlier|earlier]] [[s/_state|state]].**
 	- _Example: We've found that git reverts are at least an order of magnitude faster than SVN reverse merges._
 ---
 #verb
@@ -18,8 +18,8 @@
 - **To [[c/_cause|cause]] (a [[p/_property|property]] or [[r/_rights|rights]]) to [[r/_return|return]] to the [[p/_previous|previous]] [[o/_owner|owner]].**
 	- _Example: Sometimes a publisher will automatically revert rights back to an author once a book has gone out of print._
 - **To [[r/_return|return]] to a [[f/_former|former]] [[p/_practice|practice]], [[c/_condition|condition]], [[b/_belief|belief]], [[e/_etc|etc]].**
-- **To [[r/_return|return]] to an [[e/_earlier|earlier]] or [[p/_primitive|primitive]] type or state; to take on the traits or [[c/_characters|characters]] of an [[a/_ancestral|ancestral]] type.**
-- **To [[c/_change|change]] [[b/_back|back]], as from a [[s/_soluble|soluble]] to an [[i/_insoluble|insoluble]] state or the [[r/_reverse|reverse]].**
+- **To [[r/_return|return]] to an [[e/_earlier|earlier]] or [[p/_primitive|primitive]] type or [[s/_state|state]]; to take on the traits or [[c/_characters|characters]] of an [[a/_ancestral|ancestral]] type.**
+- **To [[c/_change|change]] [[b/_back|back]], as from a [[s/_soluble|soluble]] to an [[i/_insoluble|insoluble]] [[s/_state|state]] or the [[r/_reverse|reverse]].**
 	- _Example: Phosphoric acid in certain fertilizers reverts._
 - **To take up [[a/_again|again]] or [[r/_return|return]] to a [[p/_previous|previous]] topic.**
 - **(in [[m/_muslim|Muslim]] usage, [[d/_due|due]] to the [[b/_belief|belief]] that [[a/_all|all]] [[p/_people|people]] are [[b/_born|born]] [[m/_muslim|Muslim]]) To [[c/_convert|convert]] to [[i/_islam|Islam]].**

@@ -3,7 +3,7 @@
 #noun
 - **A [[f/_fuel|fuel]] [[d/_derived|derived]] from [[p/_petroleum|petroleum]] (or [[o/_other|other]] [[o/_oils|oils]]) but [[h/_heavier|heavier]] than [[g/_gasoline|gasoline]]/[[p/_petrol|petrol]]. Used to [[p/_power|power]] [[d/_diesel|diesel]] [[e/_engines|engines]] which [[b/_burn|burn]] this [[f/_fuel|fuel]] using the [[h/_heat|heat]] [[p/_produced|produced]] when [[a/_air|air]] is [[c/_compressed|compressed]].**
 - **A vehicle [[p/_powered|powered]] by a [[d/_diesel|diesel]] [[e/_engine|engine]].**
-- **A [[r/_rider|rider]] who [[h/_has|has]] an [[e/_even|even]] [[e/_energy|energy]] [[o/_output|output]], without [[b/_bursts|bursts]] of speed.**
+- **A [[r/_rider|rider]] who [[h/_has|has]] an [[e/_even|even]] [[e/_energy|energy]] [[o/_output|output]], without [[b/_bursts|bursts]] of [[s/_speed|speed]].**
 - **[[s/_snakebite|Snakebite]] and [[b/_black|black]] (a [[d/_drink|drink]]).**
 - **A [[p/_particular|particular]] [[c/_cannabis|cannabis]] [[h/_hybrid|hybrid]].**
 ---

@@ -10,9 +10,9 @@
 ### Synonyms
 - [[e/_earn|earn]], [[o/_obtain|obtain]], [[g/_groove|groove]], [[n/_notch|notch]], [[p/_pull|pull]], [[s/_soundtrack|soundtrack]], [[k/_keep|keep]], [[s/_score|score]], [[t/_tally|tally]]
 #noun
-- **The [[p/_process|process]] of [[k/_keeping|keeping]] [[s/_score|score]] in a sport or [[c/_contest|contest]].**
+- **The [[p/_process|process]] of [[k/_keeping|keeping]] [[s/_score|score]] in a [[s/_sport|sport]] or [[c/_contest|contest]].**
 	- _Example: The scoring of a tennis match is overseen by a single referee._
-- **The [[p/_process|process]] of winning [[p/_points|points]] in a sport or [[c/_contest|contest]].**
+- **The [[p/_process|process]] of winning [[p/_points|points]] in a [[s/_sport|sport]] or [[c/_contest|contest]].**
 	- _Example: Scoring a basket in basketball is worth two or three points._
 - **The [[a/_action|action]] of [[s/_scratching|scratching]] [[p/_paper|paper]] or [[o/_other|other]] [[m/_material|material]] to [[m/_make|make]] it [[e/_easier|easier]] to [[f/_fold|fold]].**
 - **A [[d/_deep|deep]] [[g/_groove|groove]] [[m/_made|made]] by [[g/_glacial|glacial]] [[a/_action|action]] or [[s/_similar|similar]].**

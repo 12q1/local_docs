@@ -1,7 +1,7 @@
 # Curfews
 ---
 #noun
-- **[[a/_any|Any]] [[r/_regulation|regulation]] [[r/_requiring|requiring]] [[p/_people|people]] to be [[o/_off|off]] the streets and in their [[h/_homes|homes]] by a [[c/_certain|certain]] time.**
+- **[[a/_any|Any]] [[r/_regulation|regulation]] [[r/_requiring|requiring]] [[p/_people|people]] to be [[o/_off|off]] the [[s/_streets|streets]] and in their [[h/_homes|homes]] by a [[c/_certain|certain]] time.**
 - **The time when such [[r/_restriction|restriction]] [[b/_begins|begins]].**
 - **A [[s/_signal|signal]] [[i/_indicating|indicating]] this time.**
 - **A [[f/_fireplace|fireplace]] [[a/_accessory|accessory]] [[d/_designed|designed]] to [[b/_bank|bank]] a [[f/_fire|fire]] by [[c/_completely|completely]] [[c/_covering|covering]] the [[e/_embers|embers]].**

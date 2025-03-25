@@ -32,7 +32,7 @@
 #adjective
 - **[[c/_coming|Coming]] [[n/_next|next]], [[e/_either|either]] in [[s/_sequence|sequence]] or in time.**
 	- _Example: See the following section._
-- **[[a/_about|About]] to be specified.**
+- **[[a/_about|About]] to be [[s/_specified|specified]].**
 	- _Example: The following words have no definition [...]_
 - **(of a wind) [[b/_blowing|Blowing]] in the [[d/_direction|direction]] of travel.**
 	- _Example: The following wind sped us on our way._

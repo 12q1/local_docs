@@ -1,7 +1,7 @@
 # Chest
 ---
 #noun
-- **A [[b/_box|box]], [[n/_now|now]] usually a [[l/_large|large]] strong [[b/_box|box]] with a [[s/_secure|secure]] [[c/_convex|convex]] [[l/_lid|lid]].**
+- **A [[b/_box|box]], [[n/_now|now]] usually a [[l/_large|large]] [[s/_strong|strong]] [[b/_box|box]] with a [[s/_secure|secure]] [[c/_convex|convex]] [[l/_lid|lid]].**
 	- _Example: The clothes are kept in a chest._
 - **A [[c/_coffin|coffin]].**
 - **The [[p/_place|place]] in which [[p/_public|public]] [[m/_money|money]] is [[k/_kept|kept]]; a treasury.**

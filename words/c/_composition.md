@@ -5,7 +5,7 @@
 - **A [[m/_mixture|mixture]] or [[c/_compound|compound]]; the [[r/_result|result]] of [[c/_composing|composing]].**
 - **The [[p/_proportion|proportion]] of [[d/_different|different]] [[p/_parts|parts]] to [[m/_make|make]] a whole.**
 - **The [[g/_general|general]] [[m/_makeup|makeup]] of a thing or [[p/_person|person]].**
-- **An [[a/_agreement|agreement]] or treaty used to [[s/_settle|settle]] [[d/_differences|differences]]; [[l/_later|later]] [[e/_especially|especially]], an [[a/_agreement|agreement]] to stop [[h/_hostilities|hostilities]]; a truce.**
+- **An [[a/_agreement|agreement]] or treaty used to [[s/_settle|settle]] [[d/_differences|differences]]; [[l/_later|later]] [[e/_especially|especially]], an [[a/_agreement|agreement]] to [[s/_stop|stop]] [[h/_hostilities|hostilities]]; a truce.**
 - **A [[p/_payment|payment]] of [[m/_money|money]] in [[o/_order|order]] to [[c/_clear|clear]] a [[l/_liability|liability]] or [[o/_obligation|obligation]]; a [[s/_settling|settling]] or [[f/_fine|fine]].**
 - **An [[a/_agreement|agreement]] or [[c/_compromise|compromise]] by which a [[c/_creditor|creditor]] or [[g/_group|group]] of [[c/_creditors|creditors]] [[a/_accepts|accepts]] [[p/_partial|partial]] [[p/_payment|payment]] from a [[d/_debtor|debtor]].**
 - **An [[e/_essay|essay]].**

@@ -5,8 +5,8 @@
 	- _Example: A chair is furniture. Sofas are also furniture._
 - **The [[h/_harness|harness]], trappings [[e/_etc|etc]]. of a [[h/_horse|horse]], [[h/_hawk|hawk]], or [[o/_other|other]] [[a/_animal|animal]].**
 - **[[f/_fittings|Fittings]], such as [[h/_handles|handles]], of a [[d/_door|door]], [[c/_coffin|coffin]], or [[o/_other|other]] wooden [[i/_item|item]].**
-- **The stock and [[f/_forearm|forearm]] of a weapon.**
+- **The [[s/_stock|stock]] and [[f/_forearm|forearm]] of a weapon.**
 - **The [[p/_pieces|pieces]] of wood or [[m/_metal|metal]] [[p/_put|put]] [[r/_round|round]] [[p/_pages|pages]] of type to [[m/_make|make]] [[p/_proper|proper]] [[m/_margins|margins]] and [[f/_fill|fill]] the [[s/_spaces|spaces]] [[b/_between|between]] the [[p/_pages|pages]] and the [[c/_chase|chase]].**
-- **[[a/_any|Any]] [[m/_material|material]] on the [[p/_page|page]] [[o/_other|other]] than the text and [[p/_pictures|pictures]] of stories.**
+- **[[a/_any|Any]] [[m/_material|material]] on the [[p/_page|page]] [[o/_other|other]] than the text and [[p/_pictures|pictures]] of [[s/_stories|stories]].**
 ---
 ---

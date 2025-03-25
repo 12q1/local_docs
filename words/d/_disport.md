@@ -1,7 +1,7 @@
 # Disport
 ---
 #noun
-- **[[a/_anything|Anything]] which [[d/_diverts|diverts]] [[o/_one|one]] from [[s/_serious|serious]] [[m/_matters|matters]]; a [[g/_game|game]], a [[p/_pastime|pastime]], a sport.**
+- **[[a/_anything|Anything]] which [[d/_diverts|diverts]] [[o/_one|one]] from [[s/_serious|serious]] [[m/_matters|matters]]; a [[g/_game|game]], a [[p/_pastime|pastime]], a [[s/_sport|sport]].**
 - **[[a/_amusement|Amusement]], [[e/_entertainment|entertainment]], [[r/_recreation|recreation]], [[r/_relaxation|relaxation]].**
 - **The way [[o/_one|one]] [[c/_carries|carries]] [[o/_oneself|oneself]]; [[b/_bearing|bearing]], [[c/_carriage|carriage]], [[d/_deportment|deportment]].**
 - **[[b/_bearing|Bearing]], [[e/_elevation|elevation]], [[o/_orientation|orientation]].**

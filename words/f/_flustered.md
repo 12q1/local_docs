@@ -7,7 +7,7 @@
 - **To be in a [[h/_heat|heat]] or [[b/_bustle|bustle]]; to be [[a/_agitated|agitated]] and [[c/_confused|confused]].**
 ---
 #adjective
-- **[[c/_confused|Confused]], [[b/_befuddled|befuddled]], in a state of [[p/_panic|panic]] by [[h/_having|having]] [[b/_become|become]] [[o/_overwrought|overwrought]] with [[c/_confusion|confusion]].**
+- **[[c/_confused|Confused]], [[b/_befuddled|befuddled]], in a [[s/_state|state]] of [[p/_panic|panic]] by [[h/_having|having]] [[b/_become|become]] [[o/_overwrought|overwrought]] with [[c/_confusion|confusion]].**
 	- _Example: The speaker became quite flustered when she dropped all her notes._
 ---
 ---

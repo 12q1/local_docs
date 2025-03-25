@@ -1,7 +1,7 @@
 # Joke
 ---
 #noun
-- **An [[a/_amusing|amusing]] story.**
+- **An [[a/_amusing|amusing]] [[s/_story|story]].**
 - **[[s/_something|Something]] [[s/_said|said]] or [[d/_done|done]] for [[a/_amusement|amusement]], not in [[s/_seriousness|seriousness]].**
 	- _Example: It was a joke!_
 - **The [[r/_root|root]] [[c/_cause|cause]] or [[m/_main|main]] [[i/_issue|issue]], [[e/_especially|especially]] an unexpected [[o/_one|one]]**

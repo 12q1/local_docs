@@ -7,6 +7,6 @@
 - **Unit of [[m/_measure|measure]] used to [[e/_express|express]] the [[l/_length|length]] of the [[b/_bore|bore]] of a weapon. The [[n/_number|number]] of [[c/_calibres|calibres]] is [[d/_determined|determined]] by [[d/_dividing|dividing]] the [[l/_length|length]] of the [[b/_bore|bore]] of the weapon, from the [[b/_breech|breech]] [[f/_face|face]] of the tube to the [[m/_muzzle|muzzle]], by the [[d/_diameter|diameter]] of [[i/_its|its]] [[b/_bore|bore]]. A [[g/_gun|gun]] tube the [[b/_bore|bore]] of which is 40 [[f/_feet|feet]] (480 [[i/_inches|inches]]) [[l/_long|long]] and 12 [[i/_inches|inches]] in [[d/_diameter|diameter]] is [[s/_said|said]] to be 40 [[c/_calibers|calibers]] [[l/_long|long]].**
 - **[[r/_relative|Relative]] [[s/_size|size]], [[i/_importance|importance]], [[m/_magnitude|magnitude]].**
 - **[[c/_capacity|Capacity]] or [[c/_compass|compass]] of [[m/_mind|mind]].**
-- **[[d/_degree|Degree]] of [[i/_importance|importance]] or station in [[s/_society|society]].**
+- **[[d/_degree|Degree]] of [[i/_importance|importance]] or [[s/_station|station]] in [[s/_society|society]].**
 ---
 ---

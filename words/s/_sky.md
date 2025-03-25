@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_atmosphere|atmosphere]] [[a/_above|above]] a [[g/_given|given]] [[p/_point|point]], [[e/_especially|especially]] as visible from the [[g/_ground|ground]] [[d/_during|during]] the [[d/_day|day]].**
 	- _Example: That year, a meteor fell from the sky._
-- **The [[p/_part|part]] of the [[s/_sky|sky]] which [[c/_can|can]] be [[s/_seen|seen]] from a specific [[p/_place|place]] or at a specific time; [[i/_its|its]] [[c/_condition|condition]], [[c/_climate|climate]] [[e/_etc|etc]].**
+- **The [[p/_part|part]] of the [[s/_sky|sky]] which [[c/_can|can]] be [[s/_seen|seen]] from a [[s/_specific|specific]] [[p/_place|place]] or at a [[s/_specific|specific]] time; [[i/_its|its]] [[c/_condition|condition]], [[c/_climate|climate]] [[e/_etc|etc]].**
 	- _Example: I lay back under a warm Texas sky._
 - **[[h/_heaven|Heaven]].**
 	- _Example: This mortal has incurred the wrath of the skies._

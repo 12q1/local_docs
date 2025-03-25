@@ -20,7 +20,7 @@
 	- _Example: The pyramids of Egypt have been around for a long time._
 - **[[s/_seemingly|Seemingly]] [[l/_lasting|lasting]] a [[l/_lot|lot]] of time, [[b/_because|because]] it is [[b/_boring|boring]] or tedious or tiring.**
 - **Not [[s/_short|short]]; tall.**
-- **[[p/_possessing|Possessing]] or [[o/_owning|owning]] stocks, [[b/_bonds|bonds]], [[c/_commodities|commodities]] or [[o/_other|other]] [[f/_financial|financial]] [[i/_instruments|instruments]] with the [[a/_aim|aim]] of [[b/_benefiting|benefiting]] of the [[e/_expected|expected]] [[r/_rise|rise]] in their value.**
+- **[[p/_possessing|Possessing]] or [[o/_owning|owning]] [[s/_stocks|stocks]], [[b/_bonds|bonds]], [[c/_commodities|commodities]] or [[o/_other|other]] [[f/_financial|financial]] [[i/_instruments|instruments]] with the [[a/_aim|aim]] of [[b/_benefiting|benefiting]] of the [[e/_expected|expected]] [[r/_rise|rise]] in their value.**
 	- _Example: I'm long in DuPont;  I have a long position in DuPont._
 - **Of a [[f/_fielding|fielding]] [[p/_position|position]], [[c/_close|close]] to the [[b/_boundary|boundary]] (or [[c/_closer|closer]] to the [[b/_boundary|boundary]] than the [[e/_equivalent|equivalent]] [[s/_short|short]] [[p/_position|position]]).**
 - **(of a [[b/_ball|ball]] or a [[s/_shot|shot]]) [[l/_landing|Landing]] [[b/_beyond|beyond]] the [[b/_baseline|baseline]], and therefore [[d/_deemed|deemed]] to be [[o/_out|out]].**

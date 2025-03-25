@@ -1,6 +1,6 @@
 # Respell
 ---
 #verb
-- **To spell [[a/_again|again]].**
+- **To [[s/_spell|spell]] [[a/_again|again]].**
 ---
 ---

@@ -16,7 +16,7 @@
 - **To [[j/_jump|jump]] [[i/_into|into]] water [[h/_head|head]]-[[f/_first|first]].**
 - **To [[j/_jump|jump]] [[h/_headfirst|headfirst]] toward the [[g/_ground|ground]] or [[i/_into|into]] [[a/_another|another]] substance.**
 	- _Example: to dive into home plate_
-- **To [[d/_descend|descend]] [[s/_sharply|sharply]] or steeply.**
+- **To [[d/_descend|descend]] [[s/_sharply|sharply]] or [[s/_steeply|steeply]].**
 - **([[e/_especially|especially]] with in) To undertake with [[e/_enthusiasm|enthusiasm]].**
 	- _Example: She dove right in and started making improvements._
 - **To [[d/_deliberately|deliberately]] [[f/_fall|fall]] [[d/_down|down]] [[a/_after|after]] a [[c/_challenge|challenge]], [[i/_imitating|imitating]] [[b/_being|being]] [[f/_fouled|fouled]], in the [[h/_hope|hope]] of [[g/_getting|getting]] [[o/_one|one]]'[[s/_s|s]] [[o/_opponent|opponent]] [[p/_penalised|penalised]].**

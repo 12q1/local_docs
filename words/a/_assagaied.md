@@ -1,6 +1,6 @@
 # Assagaied
 ---
 #verb
-- **To spear with an [[a/_assegai|assegai]].**
+- **To [[s/_spear|spear]] with an [[a/_assegai|assegai]].**
 ---
 ---

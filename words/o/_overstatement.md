@@ -1,7 +1,7 @@
 # Overstatement
 ---
 #noun
-- **An [[e/_exaggeration|exaggeration]]; a statement in [[e/_excess|excess]] of what is [[r/_reasonable|reasonable]].**
+- **An [[e/_exaggeration|exaggeration]]; a [[s/_statement|statement]] in [[e/_excess|excess]] of what is [[r/_reasonable|reasonable]].**
 	- _Example: The story he gave was something of an overstatement of the facts._
 - **The tendency to [[o/_overstate|overstate]].**
 	- _Example: She had a knack for overstatement._

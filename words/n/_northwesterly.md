@@ -1,7 +1,7 @@
 # Northwesterly
 ---
 #noun
-- **A strong wind or storm from the [[n/_northwest|northwest]].**
+- **A [[s/_strong|strong]] wind or [[s/_storm|storm]] from the [[n/_northwest|northwest]].**
 ---
 #adjective
 - **[[s/_situated|Situated]] in, or [[p/_pointing|pointing]] to, the [[n/_northwest|northwest]]**

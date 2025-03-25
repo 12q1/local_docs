@@ -9,8 +9,8 @@
 - **[[c/_contraction|Contraction]] of [[h/_hitchhike|hitchhike]], to thumb a [[r/_ride|ride]].**
 	- _Example: to hitch a ride_
 - **To [[b/_become|become]] [[e/_entangled|entangled]] or [[c/_caught|caught]]; to be [[l/_linked|linked]] or [[y/_yoked|yoked]]; to unite; to [[c/_cling|cling]].**
-- **To [[m/_move|move]] [[i/_interruptedly|interruptedly]] or with [[h/_halts|halts]], [[j/_jerks|jerks]], or steps; [[s/_said|said]] of [[s/_something|something]] [[o/_obstructed|obstructed]] or [[i/_impeded|impeded]].**
-- **To strike the [[l/_legs|legs]] together in [[g/_going|going]], as [[h/_horses|horses]]; to [[i/_interfere|interfere]].**
+- **To [[m/_move|move]] [[i/_interruptedly|interruptedly]] or with [[h/_halts|halts]], [[j/_jerks|jerks]], or [[s/_steps|steps]]; [[s/_said|said]] of [[s/_something|something]] [[o/_obstructed|obstructed]] or [[i/_impeded|impeded]].**
+- **To [[s/_strike|strike]] the [[l/_legs|legs]] together in [[g/_going|going]], as [[h/_horses|horses]]; to [[i/_interfere|interfere]].**
 ---
 ### Synonyms
 - [[a/_affix|affix]], [[j/_join|join]], [[s/_splice|splice]], [[w/_wed|wed]]

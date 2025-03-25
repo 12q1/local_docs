@@ -6,7 +6,7 @@
 - **[[a/_anything|Anything]] that [[c/_can|can]] be used as a threat to [[f/_force|force]] [[o/_one|one]]'[[s/_s|s]] will on [[a/_another|another]].**
 ---
 #verb
-- **To strike with a [[c/_cudgel|cudgel]].**
+- **To [[s/_strike|strike]] with a [[c/_cudgel|cudgel]].**
 	- _Example: The officer was violently cudgeled down in the midst of the rioters._
 - **To [[e/_exercise|exercise]] ([[o/_one|one]]'[[s/_s|s]] wits or [[b/_brains|brains]]).**
 ---

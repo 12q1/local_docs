@@ -13,6 +13,6 @@
 - **The [[p/_practice|practice]] of [[i/_imitating|imitating]] woodgrain on a surface.**
 - **[[i/_indentation|Indentation]]; [[r/_roughening|roughening]]; [[m/_milling|milling]], as on [[e/_edges|edges]] of [[c/_coins|coins]].**
 - **A [[p/_process|process]] in [[d/_dressing|dressing]] [[l/_leather|leather]], by which the [[s/_skin|skin]] is [[s/_softened|softened]] and the [[g/_grain|grain]] [[r/_raised|raised]].**
-- **([[s/_soap|soap]] [[m/_manufacture|manufacture]]) The [[p/_process|process]] of [[s/_separating|separating]] [[s/_soap|soap]] from spent [[l/_lye|lye]], as with [[s/_salt|salt]].**
+- **([[s/_soap|soap]] [[m/_manufacture|manufacture]]) The [[p/_process|process]] of [[s/_separating|separating]] [[s/_soap|soap]] from [[s/_spent|spent]] [[l/_lye|lye]], as with [[s/_salt|salt]].**
 ---
 ---

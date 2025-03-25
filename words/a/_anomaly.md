@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[d/_deviation|deviation]] from a [[r/_rule|rule]] or from what is [[r/_regarded|regarded]] as [[n/_normal|normal]]; an [[o/_outlier|outlier]].**
-- **[[s/_something|Something]] or [[s/_someone|someone]] that is strange or unusual.**
+- **[[s/_something|Something]] or [[s/_someone|someone]] that is [[s/_strange|strange]] or unusual.**
 	- _Example: He is an anomaly among his friends in that he's the only one who's unmarried._
 - **[[a/_any|Any]] [[e/_event|event]] or [[m/_measurement|measurement]] that is [[o/_out|out]] of the [[o/_ordinary|ordinary]] [[r/_regardless|regardless]] of whether it is [[e/_exceptional|exceptional]] or not.**
 	- _Example: She disregarded some of the anamolies in the experiment, putting them down to miscalculation._

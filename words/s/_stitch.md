@@ -1,0 +1,22 @@
+# Stitch
+---
+#noun
+- **A [[s/_single|single]] [[p/_pass|pass]] of a [[n/_needle|needle]] in [[s/_sewing|sewing]]; the [[l/_loop|loop]] or turn of the thread thus [[m/_made|made]].**
+- **An [[a/_arrangement|arrangement]] of [[s/_stitches|stitches]] in [[s/_sewing|sewing]], or [[m/_method|method]] of [[s/_stitching|stitching]] in [[s/_some|some]] [[p/_particular|particular]] way or [[s/_style|style]].**
+	- _Example: cross stitch_
+- **An [[i/_intense|intense]] [[s/_stabbing|stabbing]] [[p/_pain|pain]] under the [[l/_lower|lower]] [[e/_edge|edge]] of the ribcage, [[b/_brought|brought]] on by [[e/_exercise|exercise]].**
+- **A [[s/_single|single]] turn of the thread [[r/_round|round]] a [[n/_needle|needle]] in [[k/_knitting|knitting]]; a [[l/_link|link]], or [[l/_loop|loop]], of [[y/_yarn|yarn]]**
+	- _Example: drop a stitch_
+- **An [[a/_arrangement|arrangement]] of [[s/_stitches|stitches]] in [[k/_knitting|knitting]], or [[m/_method|method]] of [[k/_knitting|knitting]] in [[s/_some|some]] [[p/_particular|particular]] way or [[s/_style|style]].**
+- **A [[s/_space|space]] of work taken up, or [[g/_gone|gone]] [[o/_over|over]], in a [[s/_single|single]] [[p/_pass|pass]] of the [[n/_needle|needle]].**
+- **A [[f/_fastening|fastening]], as of thread or wire, through the [[b/_back|back]] of a [[b/_book|book]] to [[c/_connect|connect]] the [[p/_pages|pages]].**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[s/_space|space]] [[p/_passed|passed]] [[o/_over|over]]; [[d/_distance|distance]].**
+- **A [[l/_local|local]] [[s/_sharp|sharp]] [[p/_pain|pain]]; an [[a/_acute|acute]] [[p/_pain|pain]], [[l/_like|like]] the [[p/_piercing|piercing]] of a [[n/_needle|needle]].**
+	- _Example: a stitch in the side_
+- **A [[c/_contortion|contortion]], or twist.**
+- **[[a/_any|Any]] [[l/_least|least]] [[p/_part|part]] of a [[f/_fabric|fabric]] or [[d/_dress|dress]].**
+	- _Example: She didn't have a stitch on._
+- **A [[f/_furrow|furrow]].**
+- **The [[s/_space|space]] [[b/_between|between]] two [[d/_double|double]] [[f/_furrows|furrows]].**
+---
+---

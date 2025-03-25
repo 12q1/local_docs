@@ -1,13 +1,13 @@
 # Broach
 ---
 #noun
-- **A [[s/_series|series]] of [[c/_chisel|chisel]] [[p/_points|points]] [[m/_mounted|mounted]] on [[o/_one|one]] [[p/_piece|piece]] of steel. For [[e/_example|example]], the toothed stone [[c/_chisel|chisel]] [[s/_shown|shown]] [[h/_here|here]].**
-- **A [[b/_broad|broad]] [[c/_chisel|chisel]] for stone-[[c/_cutting|cutting]].**
-- **A spit for [[c/_cooking|cooking]] [[f/_food|food]].**
+- **A [[s/_series|series]] of [[c/_chisel|chisel]] [[p/_points|points]] [[m/_mounted|mounted]] on [[o/_one|one]] [[p/_piece|piece]] of [[s/_steel|steel]]. For [[e/_example|example]], the toothed [[s/_stone|stone]] [[c/_chisel|chisel]] [[s/_shown|shown]] [[h/_here|here]].**
+- **A [[b/_broad|broad]] [[c/_chisel|chisel]] for [[s/_stone|stone]]-[[c/_cutting|cutting]].**
+- **A [[s/_spit|spit]] for [[c/_cooking|cooking]] [[f/_food|food]].**
 - **An [[a/_awl|awl]]; a [[b/_bodkin|bodkin]]; [[a/_also|also]], a wooden [[r/_rod|rod]] or [[p/_pin|pin]], [[s/_sharpened|sharpened]] at [[e/_each|each]] [[e/_end|end]], used by thatchers.**
-- **A spire [[r/_rising|rising]] from a tower.**
-- **A spit-[[l/_like|like]] start on the [[h/_head|head]] of a [[y/_young|young]] stag.**
-- **The stick from which [[c/_candle|candle]] wicks are suspended for [[d/_dipping|dipping]].**
+- **A [[s/_spire|spire]] [[r/_rising|rising]] from a tower.**
+- **A [[s/_spit|spit]]-[[l/_like|like]] [[s/_start|start]] on the [[h/_head|head]] of a [[y/_young|young]] [[s/_stag|stag]].**
+- **The [[s/_stick|stick]] from which [[c/_candle|candle]] wicks are suspended for [[d/_dipping|dipping]].**
 - **The [[p/_pin|pin]] in a [[l/_lock|lock]] which [[e/_enters|enters]] the [[b/_barrel|barrel]] of the [[k/_key|key]].**
 ---
 #verb

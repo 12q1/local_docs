@@ -1,7 +1,7 @@
 # Confluent
 ---
 #noun
-- **A stream uniting and [[f/_flowing|flowing]] with [[a/_another|another]].**
+- **A [[s/_stream|stream]] uniting and [[f/_flowing|flowing]] with [[a/_another|another]].**
 ---
 #adjective
 - **(of two or [[m/_more|more]] [[o/_objects|objects]] or [[s/_shapes|shapes]]) [[c/_converging|converging]] or [[m/_merging|merging]] [[i/_into|into]] a [[c/_continuous|continuous]] [[s/_shape|shape]].**

@@ -4,7 +4,7 @@
 - **A [[s/_slope|slope]]; an [[i/_incline|incline]], [[i/_inclination|inclination]].**
 	- _Example: The house was built on a bit of a slant and was never quite level._
 - **A [[s/_sloped|sloped]] surface or [[l/_line|line]].**
-- **A [[r/_run|run]]: a [[h/_heading|heading]] [[d/_driven|driven]] [[d/_diagonally|diagonally]] [[b/_between|between]] the [[d/_dip|dip]] and strike of a [[c/_coal|coal]] [[s/_seam|seam]].**
+- **A [[r/_run|run]]: a [[h/_heading|heading]] [[d/_driven|driven]] [[d/_diagonally|diagonally]] [[b/_between|between]] the [[d/_dip|dip]] and [[s/_strike|strike]] of a [[c/_coal|coal]] [[s/_seam|seam]].**
 - **An [[o/_oblique|oblique]] [[m/_movement|movement]] or [[c/_course|course]].**
 - **A [[s/_sloping|sloping]] surface in a [[c/_culture|culture]] [[m/_medium|medium]].**
 - **A [[p/_pan|pan]] with a [[s/_sloped|sloped]] [[b/_bottom|bottom]] used for [[h/_holding|holding]] [[p/_paintbrushes|paintbrushes]].**
@@ -12,7 +12,7 @@
 - **A [[s/_sarcastic|sarcastic]] [[r/_remark|remark]]; [[s/_shade|shade]], an [[i/_indirect|indirect]] [[m/_mocking|mocking]] [[i/_insult|insult]].**
 - **An [[o/_opportunity|opportunity]], [[p/_particularly|particularly]] to [[g/_go|go]] [[s/_somewhere|somewhere]].**
 - **A [[c/_crime|crime]] [[c/_committed|committed]] for the [[p/_purpose|purpose]] of [[b/_being|being]] [[a/_apprehended|apprehended]] and transported to a [[m/_major|major]] [[s/_settlement|settlement]].**
-- **([[o/_originally|originally]] United States) A [[p/_point|point]] of view, an [[a/_angle|angle]]; a [[b/_bias|bias]].**
+- **([[o/_originally|originally]] United [[s/_states|States]]) A [[p/_point|point]] of view, an [[a/_angle|angle]]; a [[b/_bias|bias]].**
 	- _Example: It was a well written article, but it had a bit of a leftist slant._
 - **A [[l/_look|look]], a [[g/_glance|glance]].**
 - **A [[p/_person|person]] with [[s/_slanting|slanting]] [[e/_eyes|eyes]], [[p/_particularly|particularly]] an [[e/_east|East]] [[a/_asian|Asian]].**

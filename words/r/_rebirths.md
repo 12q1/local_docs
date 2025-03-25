@@ -3,6 +3,6 @@
 #noun
 - **[[r/_reincarnation|Reincarnation]]; [[n/_new|new]] [[b/_birth|birth]] subsequent to [[o/_one|one]]'[[s/_s|s]] [[f/_first|first]].**
 - **[[r/_revival|Revival]], [[r/_reinvigoration|reinvigoration]].**
-- **Spiritual [[r/_renewal|renewal]].**
+- **[[s/_spiritual|Spiritual]] [[r/_renewal|renewal]].**
 ---
 ---

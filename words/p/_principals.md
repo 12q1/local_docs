@@ -9,8 +9,8 @@
 	- _Example: My principal sells metal shims._
 - **The [[p/_primary|primary]] [[p/_participant|participant]] in a [[c/_crime|crime]].**
 - **A [[p/_partner|partner]] or [[o/_owner|owner]] of a [[b/_business|business]].**
-- **A [[d/_diapason|diapason]], a type of [[o/_organ|organ]] stop on a [[p/_pipe|pipe]] [[o/_organ|organ]].**
-- **The [[c/_construction|construction]] that [[g/_gives|gives]] [[s/_shape|shape]] and strength to a [[r/_roof|roof]], [[g/_generally|generally]] a truss of timber or [[i/_iron|iron]]; or, [[l/_loosely|loosely]], the [[m/_most|most]] [[i/_important|important]] [[m/_member|member]] of a [[p/_piece|piece]] of [[f/_framing|framing]].**
+- **A [[d/_diapason|diapason]], a type of [[o/_organ|organ]] [[s/_stop|stop]] on a [[p/_pipe|pipe]] [[o/_organ|organ]].**
+- **The [[c/_construction|construction]] that [[g/_gives|gives]] [[s/_shape|shape]] and [[s/_strength|strength]] to a [[r/_roof|roof]], [[g/_generally|generally]] a truss of timber or [[i/_iron|iron]]; or, [[l/_loosely|loosely]], the [[m/_most|most]] [[i/_important|important]] [[m/_member|member]] of a [[p/_piece|piece]] of [[f/_framing|framing]].**
 - **The [[f/_first|first]] two [[l/_long|long]] [[f/_feathers|feathers]] of a [[h/_hawk|hawk]]'[[s/_s|s]] wing.**
 - **[[o/_one|One]] of the turrets or [[p/_pinnacles|pinnacles]] of waxwork and tapers with which the [[p/_posts|posts]] and [[c/_centre|centre]] of a [[f/_funeral|funeral]] [[h/_hearse|hearse]] were [[f/_formerly|formerly]] [[c/_crowned|crowned]].**
 - **An [[e/_essential|essential]] [[p/_point|point]] or [[r/_rule|rule]]; a [[p/_principle|principle]].**

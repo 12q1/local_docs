@@ -5,7 +5,7 @@
 	- _Example: Do you think it's OK to stay here for the night?_
 - **[[s/_satisfactory|Satisfactory]], [[r/_reasonably|reasonably]] [[g/_good|good]]; not [[e/_exceptional|exceptional]].**
 	- _Example: The soup was OK, but the dessert was excellent._
-- **In [[g/_good|good]] [[h/_health|health]] or a [[g/_good|good]] [[e/_emotional|emotional]] state.**
+- **In [[g/_good|good]] [[h/_health|health]] or a [[g/_good|good]] [[e/_emotional|emotional]] [[s/_state|state]].**
 	- _Example: He's not feeling well now, but he should be OK after some rest._
 ---
 ### Synonyms

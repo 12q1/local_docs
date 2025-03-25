@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[m/_male|male]] [[d/_donkey|donkey]]**
-- **A [[f/_foolish|foolish]] or stupid [[p/_person|person]]**
+- **A [[f/_foolish|foolish]] or [[s/_stupid|stupid]] [[p/_person|person]]**
 - **An [[i/_inappropriately|inappropriately]] [[r/_rude|rude]] or [[o/_obnoxious|obnoxious]] [[p/_person|person]]**
 ---
 ### Synonyms

@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[e/_electronic|electronic]] [[d/_device|device]] which uses a [[p/_piezoelectric|piezoelectric]] transducer to [[m/_make|make]] [[c/_chirping|chirping]] [[n/_noise|noise]], [[o/_often|often]] [[d/_designed|designed]] to be [[h/_hidden|hidden]] and [[f/_function|function]] as an [[a/_annoyance|annoyance]]**
-- **Specifically, a version of the [[a/_above|above]] [[d/_designed|designed]] to be thrown for [[p/_placement|placement]]. [[s/_similar|Similar]] to a throwie.**
+- **[[s/_specifically|Specifically]], a version of the [[a/_above|above]] [[d/_designed|designed]] to be thrown for [[p/_placement|placement]]. [[s/_similar|Similar]] to a throwie.**
 ---
 #adjective
 - **In a [[g/_good|good]] [[m/_mood|mood]]; [[h/_happy|happy]] and [[e/_energetic|energetic]].**

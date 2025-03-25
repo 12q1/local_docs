@@ -1,7 +1,7 @@
 # Obstinate
 ---
 #adjective
-- **Stubbornly [[a/_adhering|adhering]] to an [[o/_opinion|opinion]], [[p/_purpose|purpose]], or [[c/_course|course]], usually with [[i/_implied|implied]] unreasonableness; [[p/_persistent|persistent]].**
+- **[[s/_stubbornly|Stubbornly]] [[a/_adhering|adhering]] to an [[o/_opinion|opinion]], [[p/_purpose|purpose]], or [[c/_course|course]], usually with [[i/_implied|implied]] unreasonableness; [[p/_persistent|persistent]].**
 - **[[s/_said|Said]] of [[i/_inanimate|inanimate]] things not [[e/_easily|easily]] subdued or [[r/_removed|removed]].**
 ---
 ### Synonyms

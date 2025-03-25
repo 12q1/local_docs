@@ -5,7 +5,7 @@
 	- _Example: I have a house and a car._
 - **To [[h/_hold|hold]], as [[s/_something|something]] at [[s/_someone|someone]]'[[s/_s|s]] [[d/_disposal|disposal]].**
 	- _Example: Do you have the key? (not necessarily one's own key)_
-- **Used to state the [[e/_existence|existence]] or [[p/_presence|presence]] of [[s/_someone|someone]] in a specified [[r/_relationship|relationship]] with the subject.**
+- **Used to [[s/_state|state]] the [[e/_existence|existence]] or [[p/_presence|presence]] of [[s/_someone|someone]] in a [[s/_specified|specified]] [[r/_relationship|relationship]] with the subject.**
 	- _Example: I have a really mean boss._
 - **To [[p/_partake|partake]] of (a [[p/_particular|particular]] substance, [[e/_especially|especially]] [[f/_food|food]] or [[d/_drink|drink]], or [[a/_action|action]] or [[a/_activity|activity]]).**
 	- _Example: Can I have a look at that?_
@@ -53,7 +53,7 @@
 	- _Example: I have two contacts on my scope._
 - **(of a [[j/_jury|jury]]) To [[c/_consider|consider]] a [[c/_court|court]] [[p/_proceeding|proceeding]] that [[h/_has|has]] [[b/_been|been]] [[c/_completed|completed]]; to [[b/_begin|begin]] [[d/_deliberations|deliberations]] on a [[c/_case|case]].**
 	- _Example: We'll schedule closing arguments for Thursday, and the jury will have the case by that afternoon._
-- **To [[m/_make|make]] an [[o/_observation|observation]] of (a [[b/_bird|bird]] species).**
+- **To [[m/_make|make]] an [[o/_observation|observation]] of (a [[b/_bird|bird]] [[s/_species|species]]).**
 ---
 ### Synonyms
 - [[t/_take|take]]

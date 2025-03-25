@@ -7,6 +7,6 @@
 ### Synonyms
 - 
 #verb
-- **To walk while wearing, or as [[i/_if|if]] wearing, [[g/_galoshes|galoshes]]; to splash [[a/_about|about]].**
+- **To walk while wearing, or as [[i/_if|if]] wearing, [[g/_galoshes|galoshes]]; to [[s/_splash|splash]] [[a/_about|about]].**
 ---
 ---

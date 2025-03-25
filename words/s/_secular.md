@@ -6,7 +6,7 @@
 - **A [[l/_layman|layman]], as [[d/_distinguished|distinguished]] from a [[c/_clergyman|clergyman]].**
 ---
 #adjective
-- **Not specifically [[r/_religious|religious]]; [[l/_lay|lay]] or [[c/_civil|civil]], as [[o/_opposed|opposed]] to [[c/_clerical|clerical]].**
+- **Not [[s/_specifically|specifically]] [[r/_religious|religious]]; [[l/_lay|lay]] or [[c/_civil|civil]], as [[o/_opposed|opposed]] to [[c/_clerical|clerical]].**
 - **Temporal; worldly, or [[o/_otherwise|otherwise]] not [[b/_based|based]] on [[s/_something|something]] timeless.**
 - **Not [[b/_bound|bound]] by the vows of a [[m/_monastic|monastic]] [[o/_order|order]].**
 	- _Example: secular clergy in Catholicism_

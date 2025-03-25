@@ -5,7 +5,7 @@
 	- _Example: This furnace puts out 5000 BTUs of heat.   That engine is really throwing off some heat.   Removal of heat from the liquid caused it to turn into a solid._
 - **The [[c/_condition|condition]] or [[q/_quality|quality]] of [[b/_being|being]] [[h/_hot|hot]].**
 	- _Example: Stay out of the heat of the sun!_
-- **An [[a/_attribute|attribute]] of a spice that [[c/_causes|causes]] a [[b/_burning|burning]] [[s/_sensation|sensation]] in the [[m/_mouth|mouth]].**
+- **An [[a/_attribute|attribute]] of a [[s/_spice|spice]] that [[c/_causes|causes]] a [[b/_burning|burning]] [[s/_sensation|sensation]] in the [[m/_mouth|mouth]].**
 	- _Example: The chili sauce gave the dish heat._
 - **A [[p/_period|period]] of [[i/_intensity|intensity]], [[p/_particularly|particularly]] of [[e/_emotion|emotion]].**
 	- _Example: It's easy to make bad decisions in the heat of the moment._
@@ -22,7 +22,7 @@
 	- _Example: The runner had high hopes, but was out of contention after the first heat._
 - **[[o/_one|One]] [[c/_cycle|cycle]] of [[b/_bringing|bringing]] [[m/_metal|metal]] to [[m/_maximum|maximum]] temperature and working it until it is too [[c/_cool|cool]] to work [[f/_further|further]].**
 	- _Example: I can make a scroll like that in a single heat._
-- **A [[h/_hot|hot]] spell.**
+- **A [[h/_hot|hot]] [[s/_spell|spell]].**
 	- _Example: The children stayed indoors during this year's summer heat._
 - **[[h/_heating|Heating]] [[s/_system|system]]; a [[s/_system|system]] that [[r/_raises|raises]] the temperature of a [[r/_room|room]] or [[b/_building|building]].**
 	- _Example: I'm freezing; could you turn on the heat?_

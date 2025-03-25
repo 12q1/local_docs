@@ -4,7 +4,7 @@
 - **Utter; [[c/_complete|complete]] (with a [[n/_negative|negative]] [[s/_sense|sense]]).**
 ---
 #adjective
-- **Straying from the [[p/_proper|proper]] [[c/_course|course]] or standard, or [[o/_outside|outside]] [[e/_established|established]] [[l/_limits|limits]].**
+- **[[s/_straying|Straying]] from the [[p/_proper|proper]] [[c/_course|course]] or [[s/_standard|standard]], or [[o/_outside|outside]] [[e/_established|established]] [[l/_limits|limits]].**
 - **Wandering; [[r/_roving|roving]] [[a/_around|around]].**
 - **[[p/_prone|Prone]] to [[m/_making|making]] [[e/_errors|errors]]; [[m/_misbehaved|misbehaved]].**
 	- _Example: We ran down the street in pursuit of the errant dog._

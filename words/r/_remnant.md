@@ -8,6 +8,6 @@
 ### Synonyms
 - [[l/_lave|lave]], [[r/_relic|relic]], [[r/_remainder|remainder]], [[r/_residue|residue]], [[r/_remains|remains]]
 #adjective
-- **[[r/_remaining|Remaining]]; still [[l/_left|left]].**
+- **[[r/_remaining|Remaining]]; [[s/_still|still]] [[l/_left|left]].**
 ---
 ---

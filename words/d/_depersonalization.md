@@ -1,7 +1,7 @@
 # Depersonalization
 ---
 #noun
-- **The [[a/_act|act]] of [[d/_depersonalizing|depersonalizing]] or the state of [[b/_being|being]] [[d/_depersonalized|depersonalized]]**
+- **The [[a/_act|act]] of [[d/_depersonalizing|depersonalizing]] or the [[s/_state|state]] of [[b/_being|being]] [[d/_depersonalized|depersonalized]]**
 	- _Example: He was in a critical state of depersonalization._
 - **The [[l/_loss|loss]] of [[o/_one|one]]'[[s/_s|s]] [[s/_sense|sense]] of [[p/_personal|personal]] [[i/_identity|identity]]**
 	- _Example: His depersonalization causes a great deal of stress as he searches for an authentic personal identity._

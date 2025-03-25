@@ -1,6 +1,6 @@
 # Comprehensiveness
 ---
 #noun
-- **The state of [[b/_being|being]] [[c/_comprehensive|comprehensive]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[c/_comprehensive|comprehensive]].**
 ---
 ---

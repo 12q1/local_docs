@@ -7,18 +7,18 @@
 ### Synonyms
 - [[d/_deceased|deceased]]
 #noun
-- **([[o/_often|often]] with "the") Time when [[c/_coldness|coldness]], [[d/_darkness|darkness]], or stillness is [[m/_most|most]] [[i/_intense|intense]].**
+- **([[o/_often|often]] with "the") Time when [[c/_coldness|coldness]], [[d/_darkness|darkness]], or [[s/_stillness|stillness]] is [[m/_most|most]] [[i/_intense|intense]].**
 	- _Example: The dead of night. The dead of winter._
 ---
 ### Synonyms
 - [[d/_deceased|deceased]]
 #noun
-- **(usually [[p/_plural|plural]]) Sterile [[m/_mining|mining]] waste, [[o/_often|often]] [[p/_present|present]] as [[m/_many|many]] [[l/_large|large]] [[r/_rocks|rocks]] stacked [[i/_inside|inside]] the workings.**
+- **(usually [[p/_plural|plural]]) [[s/_sterile|Sterile]] [[m/_mining|mining]] waste, [[o/_often|often]] [[p/_present|present]] as [[m/_many|many]] [[l/_large|large]] [[r/_rocks|rocks]] [[s/_stacked|stacked]] [[i/_inside|inside]] the workings.**
 ---
 ### Synonyms
 - [[d/_deceased|deceased]]
 #verb
-- **To [[p/_prevent|prevent]] by [[d/_disabling|disabling]]; stop.**
+- **To [[p/_prevent|prevent]] by [[d/_disabling|disabling]]; [[s/_stop|stop]].**
 - **To [[m/_make|make]] [[d/_dead|dead]]; to [[d/_deaden|deaden]]; to [[d/_deprive|deprive]] of [[l/_life|life]], [[f/_force|force]], or vigour.**
 - **To [[k/_kill|kill]].**
 ---
@@ -32,7 +32,7 @@
 	- _Example: "You come back here this instant! Oh, you're dead, mister!"_
 - **Without [[e/_emotion|emotion]].**
 	- _Example: She stood with dead face and limp arms, unresponsive to my plea._
-- **Stationary; static.**
+- **[[s/_stationary|Stationary]]; [[s/_static|static]].**
 	- _Example: a dead lift_
 - **Without [[i/_interest|interest]] to [[o/_one|one]] of the [[s/_senses|senses]]; [[d/_dull|dull]]; [[f/_flat|flat]].**
 	- _Example: a dead glass of soda._
@@ -49,7 +49,7 @@
 	- _Example: A dead axle, also called a lazy axle, is not part of the drivetrain, but is instead free-rotating._
 - **Not in [[p/_play|play]].**
 	- _Example: Once the ball crosses the foul line, it's dead._
-- **(of a [[g/_golf|golf]] [[b/_ball|ball]]) [[l/_lying|Lying]] [[s/_so|so]] [[n/_near|near]] the [[h/_hole|hole]] that the [[p/_player|player]] is [[c/_certain|certain]] to [[h/_hole|hole]] it in the [[n/_next|next]] stroke.**
+- **(of a [[g/_golf|golf]] [[b/_ball|ball]]) [[l/_lying|Lying]] [[s/_so|so]] [[n/_near|near]] the [[h/_hole|hole]] that the [[p/_player|player]] is [[c/_certain|certain]] to [[h/_hole|hole]] it in the [[n/_next|next]] [[s/_stroke|stroke]].**
 - **(1800s) Tagged [[o/_out|out]].**
 - **[[f/_full|Full]] and [[c/_complete|complete]].**
 	- _Example: dead giveaway_

@@ -3,7 +3,7 @@
 #noun
 - **A two-[[h/_handed|handed]], [[s/_single|single]]-[[b/_bladed|bladed]] [[o/_oar|oar]] used to [[p/_propel|propel]] a [[c/_canoe|canoe]] or a [[s/_small|small]] [[b/_boat|boat]].**
 - **A [[d/_double|double]]-[[b/_bladed|bladed]] [[o/_oar|oar]] used for kayaking.**
-- **Time spent on [[p/_paddling|paddling]].**
+- **Time [[s/_spent|spent]] on [[p/_paddling|paddling]].**
 	- _Example: We had a nice paddle this morning._
 - **A [[s/_slat|slat]] of a [[p/_paddleboat|paddleboat]]'[[s/_s|s]] wheel.**
 - **A paddlewheel.**
@@ -20,13 +20,13 @@
 - **A [[g/_group|group]] of [[i/_inerts|inerts]]**
 - **A handheld [[d/_defibrillation|defibrillation]]/cardioversion [[e/_electrode|electrode]]**
 - **[[h/_hand|Hand]]**
-- **Padel (sport)**
+- **Padel ([[s/_sport|sport]])**
 ---
 #verb
 - **To [[p/_propel|propel]] [[s/_something|something]] through water with a [[p/_paddle|paddle]], [[o/_oar|oar]], [[h/_hands|hands]], [[e/_etc|etc]].**
 - **To [[r/_row|row]] a [[b/_boat|boat]] with [[l/_less|less]] than [[o/_one|one]]'[[s/_s|s]] [[f/_full|full]] [[c/_capacity|capacity]].**
 - **To [[s/_spank|spank]] with a [[p/_paddle|paddle]].**
-- **To [[p/_pat|pat]] or stroke [[a/_amorously|amorously]] or [[g/_gently|gently]].**
+- **To [[p/_pat|pat]] or [[s/_stroke|stroke]] [[a/_amorously|amorously]] or [[g/_gently|gently]].**
 - **To tread upon; to trample.**
 ---
 #verb

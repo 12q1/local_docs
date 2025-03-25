@@ -5,11 +5,11 @@
 - **A [[h/_harmony|harmony]] in [[s/_sound|sound]], [[p/_pitch|pitch]] and tone; [[c/_concord|concord]].**
 - **[[a/_agreement|Agreement]] or [[h/_harmony|harmony]] of things in [[g/_general|general]].**
 	- _Example: the accord of light and shade in painting_
-- **An [[a/_agreement|agreement]] [[b/_between|between]] [[p/_parties|parties]] in [[c/_controversy|controversy]], by which [[s/_satisfaction|satisfaction]] for an [[i/_injury|injury]] is stipulated, and which, when [[e/_executed|executed]], [[p/_prevents|prevents]] a [[l/_lawsuit|lawsuit]].**
+- **An [[a/_agreement|agreement]] [[b/_between|between]] [[p/_parties|parties]] in [[c/_controversy|controversy]], by which [[s/_satisfaction|satisfaction]] for an [[i/_injury|injury]] is [[s/_stipulated|stipulated]], and which, when [[e/_executed|executed]], [[p/_prevents|prevents]] a [[l/_lawsuit|lawsuit]].**
 - **An [[i/_international|international]] [[a/_agreement|agreement]].**
 	- _Example: The Geneva Accord of 1954 ended the French-Indochinese War._
 - **[[a/_assent|Assent]]**
-- **Voluntary or spontaneous [[i/_impulse|impulse]] to [[a/_act|act]].**
+- **Voluntary or [[s/_spontaneous|spontaneous]] [[i/_impulse|impulse]] to [[a/_act|act]].**
 	- _Example: Nobody told me to do it. I did it of my own accord._
 ---
 ### Synonyms

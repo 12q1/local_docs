@@ -1,15 +1,15 @@
 # Cork
 ---
 #noun
-- **The [[b/_bark|bark]] of the [[c/_cork|cork]] [[o/_oak|oak]], which is very [[l/_light|light]] and [[p/_porous|porous]] and used for [[m/_making|making]] [[b/_bottle|bottle]] stoppers, [[f/_flotation|flotation]] [[d/_devices|devices]], and [[i/_insulation|insulation]] [[m/_material|material]].**
-- **A [[b/_bottle|bottle]] stopper [[m/_made|made]] from this or [[a/_any|any]] [[o/_other|other]] [[m/_material|material]].**
+- **The [[b/_bark|bark]] of the [[c/_cork|cork]] [[o/_oak|oak]], which is very [[l/_light|light]] and [[p/_porous|porous]] and used for [[m/_making|making]] [[b/_bottle|bottle]] [[s/_stoppers|stoppers]], [[f/_flotation|flotation]] [[d/_devices|devices]], and [[i/_insulation|insulation]] [[m/_material|material]].**
+- **A [[b/_bottle|bottle]] [[s/_stopper|stopper]] [[m/_made|made]] from this or [[a/_any|any]] [[o/_other|other]] [[m/_material|material]].**
 	- _Example: Snobs feel it's hard to call it wine with a straight face when the cork is made of plastic._
 - **An [[a/_angling|angling]] [[f/_float|float]], [[a/_also|also]] traditionally [[m/_made|made]] of [[o/_oak|oak]] [[c/_cork|cork]].**
 - **The [[c/_cork|cork]] [[o/_oak|oak]], [[q/_quercus|Quercus]] suber.**
 - **The [[d/_dead|dead]] [[p/_protective|protective]] tissue [[b/_between|between]] the [[b/_bark|bark]] and [[c/_cambium|cambium]] in woody [[p/_plants|plants]], with suberin [[d/_deposits|deposits]] [[m/_making|making]] it [[i/_impervious|impervious]] to [[g/_gasses|gasses]] and water.**
 ---
 #verb
-- **To [[s/_seal|seal]] or stop up, [[e/_especially|especially]] with a [[c/_cork|cork]] stopper.**
+- **To [[s/_seal|seal]] or [[s/_stop|stop]] up, [[e/_especially|especially]] with a [[c/_cork|cork]] [[s/_stopper|stopper]].**
 - **To [[b/_blacken|blacken]] (as) with a [[b/_burnt|burnt]] [[c/_cork|cork]]**
 - **To [[l/_leave|leave]] the [[c/_cork|cork]] in a [[b/_bottle|bottle]] [[a/_after|after]] [[a/_attempting|attempting]] to uncork it.**
 - **To [[f/_fill|fill]] with [[c/_cork|cork]], as the [[c/_center|center]] of a [[b/_baseball|baseball]] [[b/_bat|bat]].**

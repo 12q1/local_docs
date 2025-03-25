@@ -10,12 +10,12 @@
 - **[[r/_rumour|Rumour]] or [[c/_complaint|complaint]].**
 	- _Example: The problems with the new computer system are causing a lot of noise at Head Office._
 - **[[m/_music|Music]], in [[g/_general|general]]; a [[c/_concert|concert]]; [[a/_also|also]], a [[c/_company|company]] of [[m/_musicians|musicians]]; a [[b/_band|band]].**
-- **A [[g/_genre|genre]] of [[r/_rock|rock]] [[m/_music|music]] that uses static and [[o/_other|other]] [[n/_non|non]]-[[m/_musical|musical]] [[s/_sounds|sounds]], [[a/_also|also]] [[i/_influenced|influenced]] by [[a/_art|art]] [[r/_rock|rock]].**
+- **A [[g/_genre|genre]] of [[r/_rock|rock]] [[m/_music|music]] that uses [[s/_static|static]] and [[o/_other|other]] [[n/_non|non]]-[[m/_musical|musical]] [[s/_sounds|sounds]], [[a/_also|also]] [[i/_influenced|influenced]] by [[a/_art|art]] [[r/_rock|rock]].**
 ---
 ### Synonyms
 - [[s/_sound|sound]]
 #verb
 - **To [[m/_make|make]] a [[n/_noise|noise]]; to [[s/_sound|sound]].**
-- **To spread [[n/_news|news]] of; to spread as [[r/_rumor|rumor]] or [[g/_gossip|gossip]].**
+- **To [[s/_spread|spread]] [[n/_news|news]] of; to [[s/_spread|spread]] as [[r/_rumor|rumor]] or [[g/_gossip|gossip]].**
 ---
 ---

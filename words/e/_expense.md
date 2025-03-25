@@ -1,7 +1,7 @@
 # Expense
 ---
 #noun
-- **A spending or [[c/_consuming|consuming]], [[o/_often|often]] a [[d/_disbursement|disbursement]] of [[f/_funds|funds]].**
+- **A [[s/_spending|spending]] or [[c/_consuming|consuming]], [[o/_often|often]] a [[d/_disbursement|disbursement]] of [[f/_funds|funds]].**
 	- _Example: Buying the car was a big expense, but will be worth it in the long run._
 - **The [[e/_elimination|elimination]] or [[c/_consumption|consumption]] of [[s/_something|something]], [[s/_sometimes|sometimes]] with the [[n/_notion|notion]] of [[l/_loss|loss]] or [[d/_damage|damage]] to the thing [[e/_eliminated|eliminated]].**
 	- _Example: Jones reached the final at the expense of Smith, who couldn't beat him._

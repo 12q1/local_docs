@@ -8,6 +8,6 @@
 ---
 #adjective
 - **[[f/_frayed|Frayed]] at the [[e/_edges|edges]]**
-- **Stressed and [[e/_exhausted|exhausted]] [[e/_either|either]] [[p/_physically|physically]] or [[e/_emotionally|emotionally]]**
+- **[[s/_stressed|Stressed]] and [[e/_exhausted|exhausted]] [[e/_either|either]] [[p/_physically|physically]] or [[e/_emotionally|emotionally]]**
 ---
 ---

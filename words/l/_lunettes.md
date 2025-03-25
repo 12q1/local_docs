@@ -9,12 +9,12 @@
 - **A type of [[f/_flattened|flattened]] [[g/_glass|glass]] used in watch-[[m/_making|making]].**
 - **The [[c/_circular|circular]] [[h/_hole|hole]] in the [[g/_guillotine|guillotine]] in which the victim'[[s/_s|s]] [[n/_neck|neck]] is [[p/_placed|placed]].**
 - **A type of [[c/_crescent|crescent]]-[[s/_shaped|shaped]] [[d/_dune|dune]] [[b/_blown|blown]] up [[a/_along|along]] a [[l/_lake|lake]] [[b/_basin|basin]], [[e/_especially|especially]] in [[d/_dry|dry]] [[a/_areas|areas]] of [[a/_australia|Australia]].**
-- **A [[h/_half|half]] [[h/_horseshoe|horseshoe]], [[l/_lacking|lacking]] the sponge.**
+- **A [[h/_half|half]] [[h/_horseshoe|horseshoe]], [[l/_lacking|lacking]] the [[s/_sponge|sponge]].**
 - **A [[p/_piece|piece]] of [[f/_felt|felt]] to [[c/_cover|cover]] the [[e/_eye|eye]] of a vicious [[h/_horse|horse]].**
-- **An [[i/_iron|iron]] [[s/_shoe|shoe]] at the [[e/_end|end]] of the stock of a [[g/_gun|gun]] [[c/_carriage|carriage]].**
+- **An [[i/_iron|iron]] [[s/_shoe|shoe]] at the [[e/_end|end]] of the [[s/_stock|stock]] of a [[g/_gun|gun]] [[c/_carriage|carriage]].**
 - **(in the [[p/_plural|plural]]) [[s/_see|See]] [[l/_lunettes|lunettes]].**
 ---
 #noun
-- **A [[p/_particular|particular]] [[k/_kind|kind]] of spectacles/[[g/_glasses|glasses]], [[c/_consisting|consisting]] of two [[c/_circles|circles]] [[l/_lenses|lenses]] [[c/_connected|connected]] by a [[h/_half|half]]-[[c/_circle|circle]] [[b/_bridge|bridge]] [[o/_over|over]] the [[n/_nose|nose]].**
+- **A [[p/_particular|particular]] [[k/_kind|kind]] of [[s/_spectacles|spectacles]]/[[g/_glasses|glasses]], [[c/_consisting|consisting]] of two [[c/_circles|circles]] [[l/_lenses|lenses]] [[c/_connected|connected]] by a [[h/_half|half]]-[[c/_circle|circle]] [[b/_bridge|bridge]] [[o/_over|over]] the [[n/_nose|nose]].**
 ---
 ---

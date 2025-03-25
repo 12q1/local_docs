@@ -1,6 +1,6 @@
 # Cop
 ---
 #noun
-- **A spider.**
+- **A [[s/_spider|spider]].**
 ---
 ---

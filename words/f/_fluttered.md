@@ -7,7 +7,7 @@
 - **To [[c/_cause|cause]] [[s/_something|something]] to [[f/_flap|flap]].**
 	- _Example: A bird flutters its wings._
 - **To [[d/_drive|drive]] [[i/_into|into]] [[d/_disorder|disorder]]; to throw [[i/_into|into]] [[c/_confusion|confusion]].**
-- **To be in a state of [[a/_agitation|agitation]] or uncertainty.**
+- **To be in a [[s/_state|state]] of [[a/_agitation|agitation]] or uncertainty.**
 - **To be [[f/_frivolous|frivolous]].**
 ---
 ---

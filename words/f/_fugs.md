@@ -13,7 +13,7 @@
 - **To [[h/_have|have]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]], to [[c/_copulate|copulate]].**
 	- _Example: Fighting for peace is like fucking for virginity._
 - **To [[h/_have|have]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]] with.**
-- **To [[i/_insert|insert]] [[o/_one|one]]’[[s/_s|s]] [[p/_penis|penis]], a [[d/_dildo|dildo]] or [[o/_other|other]] [[p/_phallic|phallic]] [[o/_object|object]], [[i/_into|into]] a specified [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
+- **To [[i/_insert|insert]] [[o/_one|one]]’[[s/_s|s]] [[p/_penis|penis]], a [[d/_dildo|dildo]] or [[o/_other|other]] [[p/_phallic|phallic]] [[o/_object|object]], [[i/_into|into]] a [[s/_specified|specified]] [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
 - **To [[p/_put|put]] in an [[e/_extremely|extremely]] [[d/_difficult|difficult]] or [[i/_impossible|impossible]] [[s/_situation|situation]].**
 	- _Example: I'm afraid they're gonna fuck you on this one._
 - **To [[d/_defraud|defraud]], [[d/_deface|deface]] or [[o/_otherwise|otherwise]] treat [[b/_badly|badly]].**
@@ -31,8 +31,8 @@
 - [[a/_annihilate|annihilate]], [[o/_obliterate|obliterate]], [[r/_ruin|ruin]], [[b/_bang|bang]], [[e/_eff|eff]], [[h/_hump|hump]], [[s/_screw|screw]], [[s/_shag|shag]], [[b/_bang|bang]], [[e/_eff|eff]], [[h/_hump|hump]], [[r/_ream|ream]], [[s/_screw|screw]], [[s/_shag|shag]], [[b/_bugger|bugger]], [[e/_eff|eff]], [[f/_feck|feck]]
 #noun
 - **A [[h/_heavy|heavy]], [[m/_musty|musty]], and unpleasant [[a/_atmosphere|atmosphere]], usually in a [[p/_poorly|poorly]]-ventilated [[a/_area|area]].**
-- **A state of [[l/_lethargy|lethargy]] and [[c/_confusion|confusion]]; [[d/_daze|daze]].**
-- **A state of [[c/_chaos|chaos]] or [[c/_confusion|confusion]].**
+- **A [[s/_state|state]] of [[l/_lethargy|lethargy]] and [[c/_confusion|confusion]]; [[d/_daze|daze]].**
+- **A [[s/_state|state]] of [[c/_chaos|chaos]] or [[c/_confusion|confusion]].**
 ---
 #verb
 - **To [[c/_create|create]] a [[f/_fug|fug]] ([[h/_heavy|heavy]] unpleasant [[a/_atmosphere|atmosphere]]).**

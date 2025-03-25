@@ -7,7 +7,7 @@
 - **A [[c/_casing|casing]] or [[c/_crust|crust]], or a [[m/_mold|mold]], of [[p/_pastry|pastry]], as for a [[p/_pie|pie]].**
 - **A [[c/_conical|conical]] [[p/_paper|paper]] [[b/_bag|bag]], used by [[g/_grocers|grocers]].**
 - **The [[h/_hollow|hollow]] [[c/_crust|crust]] or [[h/_hoof|hoof]] of a [[h/_horse|horse]]'[[s/_s|s]] [[f/_foot|foot]], [[b/_below|below]] the [[c/_coronet|coronet]], in which is the [[c/_coffin|coffin]] [[b/_bone|bone]].**
-- **A storage [[c/_container|container]] for [[n/_nuclear|nuclear]] waste.**
+- **A [[s/_storage|storage]] [[c/_container|container]] for [[n/_nuclear|nuclear]] waste.**
 ---
 ### Synonyms
 - [[c/_casket|casket]]

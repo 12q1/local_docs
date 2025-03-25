@@ -7,6 +7,6 @@
 - **[[r/_rest|Rest]]; [[p/_peace|peace]]**
 ---
 #noun
-- **A [[l/_large|large]] or [[d/_dangerous|dangerous]] [[s/_shark|shark]], specifically, a [[m/_member|member]] of the [[f/_family|family]] Carcharhinidae.**
+- **A [[l/_large|large]] or [[d/_dangerous|dangerous]] [[s/_shark|shark]], [[s/_specifically|specifically]], a [[m/_member|member]] of the [[f/_family|family]] Carcharhinidae.**
 ---
 ---

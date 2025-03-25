@@ -10,6 +10,6 @@
 - **To be [[p/_presumptuous|presumptuous]]; with on, upon, to take [[a/_advantage|advantage]] (of), to take [[l/_liberties|liberties]] (with).**
 ---
 #adjective
-- **[[a/_appearing|Appearing]] to be the [[m/_most|most]] [[p/_probable|probable]], [[o/_often|often]] with [[s/_some|some]] [[p/_preparations|preparations]] starting to be [[m/_made|made]] for it.**
+- **[[a/_appearing|Appearing]] to be the [[m/_most|most]] [[p/_probable|probable]], [[o/_often|often]] with [[s/_some|some]] [[p/_preparations|preparations]] [[s/_starting|starting]] to be [[m/_made|made]] for it.**
 ---
 ---

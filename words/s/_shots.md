@@ -15,7 +15,7 @@
 	- _Example: I'd like just one more shot at winning this game._
 - **A [[r/_remark|remark]] or [[c/_comment|comment]], [[e/_especially|especially]] [[o/_one|one]] which is [[c/_critical|critical]] or [[i/_insulting|insulting]].**
 - **A [[p/_punch|punch]] or [[o/_other|other]] [[p/_physical|physical]] [[b/_blow|blow]].**
-- **A [[m/_measure|measure]] of [[a/_alcohol|alcohol]], usually spirits, as taken [[e/_either|either]] from a [[s/_shot|shot]]-[[g/_glass|glass]] or [[d/_directly|directly]] from the [[b/_bottle|bottle]], [[e/_equivalent|equivalent]] to [[a/_about|about]] 44 [[m/_milliliters|milliliters]]; 1.5 [[o/_ounces|ounces]]. ("[[p/_pony|pony]] [[s/_shot|shot]]"= 30 [[m/_milliliters|milliliters]]; 1 [[f/_fluid|fluid]] [[o/_ounce|ounce]])**
+- **A [[m/_measure|measure]] of [[a/_alcohol|alcohol]], usually [[s/_spirits|spirits]], as taken [[e/_either|either]] from a [[s/_shot|shot]]-[[g/_glass|glass]] or [[d/_directly|directly]] from the [[b/_bottle|bottle]], [[e/_equivalent|equivalent]] to [[a/_about|about]] 44 [[m/_milliliters|milliliters]]; 1.5 [[o/_ounces|ounces]]. ("[[p/_pony|pony]] [[s/_shot|shot]]"= 30 [[m/_milliliters|milliliters]]; 1 [[f/_fluid|fluid]] [[o/_ounce|ounce]])**
 	- _Example: I'd like a shot of whisky in my coffee._
 - **A [[s/_single|single]] [[s/_serving|serving]] of [[e/_espresso|espresso]].**
 - **A [[r/_reckoning|reckoning]], a [[s/_share|share]] of a tavern [[b/_bill|bill]], [[e/_etc|etc]].**
@@ -27,7 +27,7 @@
 	- _Example: His solo shot in the seventh inning ended up winning the game._
 - **(US [[f/_federal|federal]] [[p/_prison|prison]] [[s/_system|system]]) Written [[d/_documentation|documentation]] of a [[b/_behavior|behavior]] [[i/_infraction|infraction]].**
 - **([[f/_fisheries|fisheries]]) A [[c/_cast|cast]] of [[o/_one|one]] or [[m/_more|more]] [[n/_nets|nets]].**
-- **([[f/_fisheries|fisheries]]) A [[p/_place|place]] or spot for [[s/_setting|setting]] [[n/_nets|nets]].**
+- **([[f/_fisheries|fisheries]]) A [[p/_place|place]] or [[s/_spot|spot]] for [[s/_setting|setting]] [[n/_nets|nets]].**
 - **([[f/_fisheries|fisheries]]) A [[s/_single|single]] [[d/_draft|draft]] or [[c/_catch|catch]] of [[f/_fish|fish]] [[m/_made|made]].**
 ---
 #verb

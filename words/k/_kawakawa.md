@@ -5,6 +5,6 @@
 - **[[p/_piper|Piper]] excelsum ([[s/_syn|syn]]. Macropiper excelsum), a [[s/_shrub|shrub]] [[e/_endemic|endemic]] to [[n/_new|New]] Zealand.**
 ---
 #noun
-- **[[b/_blechnum|Blechnum]] [[f/_fluviatile|fluviatile]], the star [[f/_fern|fern]] or [[c/_creek|creek]] [[f/_fern|fern]].**
+- **[[b/_blechnum|Blechnum]] [[f/_fluviatile|fluviatile]], the [[s/_star|star]] [[f/_fern|fern]] or [[c/_creek|creek]] [[f/_fern|fern]].**
 ---
 ---

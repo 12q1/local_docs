@@ -1,7 +1,7 @@
 # Listers
 ---
 #noun
-- **A spear [[a/_armed|armed]] with three or [[m/_more|more]] [[p/_prongs|prongs]], for striking [[f/_fish|fish]].**
+- **A [[s/_spear|spear]] [[a/_armed|armed]] with three or [[m/_more|more]] [[p/_prongs|prongs]], for [[s/_striking|striking]] [[f/_fish|fish]].**
 ---
 #noun
 - **[[o/_one|One]] who, or that which, [[l/_lists|lists]] or [[p/_produces|produces]] a [[l/_listing|listing]].**

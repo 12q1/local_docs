@@ -18,7 +18,7 @@
 	- _Example: Did he tell you any embarrassing stories about when she was little?_
 - **(of a [[s/_sibling|sibling]]) [[y/_younger|Younger]].**
 	- _Example: This is my little sister._
-- **([[a/_also|also]] [[l/_little|Little]]) Used with the [[n/_name|name]] of a [[p/_place|place]], [[e/_especially|especially]] of a [[c/_country|country]] or [[i/_its|its]] [[c/_capital|capital]], to [[d/_denote|denote]] a [[n/_neighborhood|neighborhood]] whose [[r/_residents|residents]] or storekeepers are from that [[p/_place|place]].**
+- **([[a/_also|also]] [[l/_little|Little]]) Used with the [[n/_name|name]] of a [[p/_place|place]], [[e/_especially|especially]] of a [[c/_country|country]] or [[i/_its|its]] [[c/_capital|capital]], to [[d/_denote|denote]] a [[n/_neighborhood|neighborhood]] whose [[r/_residents|residents]] or [[s/_storekeepers|storekeepers]] are from that [[p/_place|place]].**
 - **[[s/_small|Small]] in [[a/_amount|amount]] or [[n/_number|number]], [[h/_having|having]] [[f/_few|few]] [[m/_members|members]].**
 	- _Example: little money;  little herd_
 - **[[s/_short|Short]] in [[d/_duration|duration]]; [[b/_brief|brief]].**

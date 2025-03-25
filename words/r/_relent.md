@@ -1,7 +1,7 @@
 # Relent
 ---
 #noun
-- **Stay; stop; [[d/_delay|delay]].**
+- **[[s/_stay|Stay]]; [[s/_stop|stop]]; [[d/_delay|delay]].**
 - **A [[r/_relenting|relenting]].**
 ---
 #verb

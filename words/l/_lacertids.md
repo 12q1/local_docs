@@ -6,7 +6,7 @@
 ### Synonyms
 - [[l/_lacerta|lacerta]], [[l/_lizard|lizard]]
 #noun
-- **A type of blazar ([[h/_highly|highly]] variable [[a/_active|active]] [[g/_galactic|galactic]] [[n/_nucleus|nucleus]]) that [[l/_lacks|lacks]] spectral [[e/_emission|emission]] [[l/_lines|lines]] [[c/_characteristic|characteristic]] of [[q/_quasars|quasars]].**
+- **A type of blazar ([[h/_highly|highly]] variable [[a/_active|active]] [[g/_galactic|galactic]] [[n/_nucleus|nucleus]]) that [[l/_lacks|lacks]] [[s/_spectral|spectral]] [[e/_emission|emission]] [[l/_lines|lines]] [[c/_characteristic|characteristic]] of [[q/_quasars|quasars]].**
 ---
 ### Synonyms
 - [[b/_blazar|blazar]]

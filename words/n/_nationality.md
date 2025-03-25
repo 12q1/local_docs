@@ -1,9 +1,9 @@
 # Nationality
 ---
 #noun
-- **[[m/_membership|Membership]] of a [[p/_particular|particular]] [[n/_nation|nation]] or state, by [[o/_origin|origin]], [[b/_birth|birth]], [[n/_naturalization|naturalization]], [[o/_ownership|ownership]], [[a/_allegiance|allegiance]] or [[o/_otherwise|otherwise]].**
+- **[[m/_membership|Membership]] of a [[p/_particular|particular]] [[n/_nation|nation]] or [[s/_state|state]], by [[o/_origin|origin]], [[b/_birth|birth]], [[n/_naturalization|naturalization]], [[o/_ownership|ownership]], [[a/_allegiance|allegiance]] or [[o/_otherwise|otherwise]].**
 - **[[n/_national|National]], [[i/_i|i]].[[e/_e|e]]. [[e/_ethnic|ethnic]] and/or [[c/_cultural|cultural]], [[c/_character|character]] or [[i/_identity|identity]].**
-- **A [[p/_people|people]] [[s/_sharing|sharing]] a [[c/_common|common]] [[o/_origin|origin]], [[c/_culture|culture]] and/or [[l/_language|language]], and [[p/_possibly|possibly]] [[c/_constituting|constituting]] a [[n/_nation|nation]]-state.**
+- **A [[p/_people|people]] [[s/_sharing|sharing]] a [[c/_common|common]] [[o/_origin|origin]], [[c/_culture|culture]] and/or [[l/_language|language]], and [[p/_possibly|possibly]] [[c/_constituting|constituting]] a [[n/_nation|nation]]-[[s/_state|state]].**
 - **[[p/_political|Political]] [[e/_existence|existence]], [[i/_independence|independence]] or unity as a [[n/_national|national]] [[e/_entity|entity]].**
 - **[[n/_nationalism|Nationalism]] or [[p/_patriotism|patriotism]].**
 ---

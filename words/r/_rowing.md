@@ -17,7 +17,7 @@
 #noun
 - **The [[a/_action|action]] of the verb to [[r/_row|row]].**
 - **The [[a/_action|action]] of [[p/_propelling|propelling]] a [[b/_boat|boat]] with [[o/_oars|oars]].**
-- **The [[r/_rowing|rowing]] of [[b/_boats|boats]] as a [[c/_competitive|competitive]] sport.**
+- **The [[r/_rowing|rowing]] of [[b/_boats|boats]] as a [[c/_competitive|competitive]] [[s/_sport|sport]].**
 - **The [[a/_act|act]] of [[h/_having|having]] a [[r/_row|row]], or [[a/_argument|argument]].**
 ---
 ### Synonyms

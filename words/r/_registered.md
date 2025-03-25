@@ -7,7 +7,7 @@
 - **To [[b/_buy|buy]] the [[f/_full|full]] version of trial [[s/_software|software]] by [[p/_providing|providing]] [[o/_one|one]]'[[s/_s|s]] [[d/_details|details]] and [[p/_payment|payment]].**
 	- _Example: This is a trial version, and will expire in 30 days. Please register!_
 - **To [[e/_express|express]] [[o/_outward|outward]] [[s/_signs|signs]].**
-- **([[m/_mail|mail]]) To [[r/_record|record]] [[o/_officially|officially]] and [[h/_handle|handle]] specially.**
+- **([[m/_mail|mail]]) To [[r/_record|record]] [[o/_officially|officially]] and [[h/_handle|handle]] [[s/_specially|specially]].**
 - **To [[m/_make|make]] or [[a/_adjust|adjust]] [[s/_so|so]] as to be [[p/_properly|properly]] or [[p/_precisely|precisely]] [[a/_aligned|aligned]].**
 - **To [[p/_place|place]] [[o/_one|one]]'[[s/_s|s]] [[n/_name|name]], or [[h/_have|have]] [[o/_one|one]]'[[s/_s|s]] [[n/_name|name]] [[p/_placed|placed]] in a [[r/_register|register]].**
 	- _Example: They registered for school._

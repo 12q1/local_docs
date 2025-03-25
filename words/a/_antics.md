@@ -12,6 +12,6 @@
 - **To [[p/_perform|perform]] (an [[a/_action|action]]) as an [[a/_antic|antic]]; to [[m/_mimic|mimic]] [[r/_ridiculously|ridiculously]].**
 ---
 #noun
-- **A [[p/_pose|pose]], [[o/_often|often]] [[e/_exaggerated|exaggerated]], in [[a/_anticipation|anticipation]] of an [[a/_action|action]]; for [[e/_example|example]], a [[b/_brief|brief]] squat [[b/_before|before]] [[j/_jumping|jumping]]**
+- **A [[p/_pose|pose]], [[o/_often|often]] [[e/_exaggerated|exaggerated]], in [[a/_anticipation|anticipation]] of an [[a/_action|action]]; for [[e/_example|example]], a [[b/_brief|brief]] [[s/_squat|squat]] [[b/_before|before]] [[j/_jumping|jumping]]**
 ---
 ---

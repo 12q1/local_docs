@@ -10,7 +10,7 @@
 - **To [[d/_deprive|deprive]] of [[p/_pulp|pulp]]; to [[s/_separate|separate]] the [[p/_pulp|pulp]] from.**
 ---
 #adjective
-- **Of or [[p/_pertaining|pertaining]] to [[p/_pulp|pulp]] [[m/_magazines|magazines]]; in the style of a [[p/_pulp|pulp]] [[m/_magazine|magazine]] or the [[m/_material|material]] [[p/_printed|printed]] within such a [[p/_publication|publication]].**
+- **Of or [[p/_pertaining|pertaining]] to [[p/_pulp|pulp]] [[m/_magazines|magazines]]; in the [[s/_style|style]] of a [[p/_pulp|pulp]] [[m/_magazine|magazine]] or the [[m/_material|material]] [[p/_printed|printed]] within such a [[p/_publication|publication]].**
 ---
 ### Synonyms
 - [[p/_pulpish|pulpish]], [[p/_pulpy|pulpy]]

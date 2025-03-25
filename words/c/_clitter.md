@@ -1,7 +1,7 @@
 # Clitter
 ---
 #noun
-- **[[l/_loose|Loose]] stones on [[h/_hillsides|hillsides]] [[d/_deposited|deposited]] by weathering.**
+- **[[l/_loose|Loose]] [[s/_stones|stones]] on [[h/_hillsides|hillsides]] [[d/_deposited|deposited]] by weathering.**
 ---
 ### Synonyms
 - [[s/_scree|scree]]

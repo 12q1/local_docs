@@ -6,7 +6,7 @@
 	- _Example: A prism can refract light._
 ---
 #adjective
-- **Turned [[o/_out|out]] of [[i/_its|its]] straight [[c/_course|course]].**
+- **Turned [[o/_out|out]] of [[i/_its|its]] [[s/_straight|straight]] [[c/_course|course]].**
 	- _Example: a refracted a ray of light_
 - **[[b/_bent|Bent]] [[b/_back|back]] at an [[a/_acute|acute]] [[a/_angle|angle]].**
 ---

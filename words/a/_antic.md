@@ -19,7 +19,7 @@
 #adjective
 - **[[h/_having|Having]] [[e/_existed|existed]] in [[a/_ancient|ancient]] times, [[d/_descended|descended]] from [[a/_antiquity|antiquity]]; used [[e/_especially|especially]] in [[r/_reference|reference]] to [[g/_greece|Greece]] and [[r/_rome|Rome]].**
 - **[[b/_belonging|Belonging]] to [[f/_former|former]] times, not [[m/_modern|modern]], [[o/_out|out]] of [[d/_date|date]], [[o/_old|old]]-[[f/_fashioned|fashioned]].**
-- **[[d/_designating|Designating]] a style of type.**
+- **[[d/_designating|Designating]] a [[s/_style|style]] of type.**
 - **[[e/_embossed|Embossed]] without [[g/_gilt|gilt]].**
 ---
 ### Synonyms

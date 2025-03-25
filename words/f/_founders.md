@@ -1,7 +1,7 @@
 # Founders
 ---
 #noun
-- **[[o/_one|One]] who [[f/_founds|founds]] or [[e/_establishes|establishes]] ([[e/_especially|especially]] [[s/_said|said]] of a [[c/_company|company]], [[p/_project|project]], [[o/_organisation|organisation]], state)**
+- **[[o/_one|One]] who [[f/_founds|founds]] or [[e/_establishes|establishes]] ([[e/_especially|especially]] [[s/_said|said]] of a [[c/_company|company]], [[p/_project|project]], [[o/_organisation|organisation]], [[s/_state|state]])**
 	- _Example: the founder of Facebook, Mark Zuckerberg_
 - **[[s/_someone|Someone]] for whose [[p/_parents|parents]] [[o/_one|one]] [[h/_has|has]] [[n/_no|no]] [[d/_data|data]].**
 ---
@@ -17,7 +17,7 @@
 ---
 #verb
 - **Of a [[s/_ship|ship]], to [[f/_fill|fill]] with water and [[s/_sink|sink]].**
-- **To [[f/_fall|fall]]; to stumble and [[g/_go|go]] [[l/_lame|lame]], as a [[h/_horse|horse]].**
+- **To [[f/_fall|fall]]; to [[s/_stumble|stumble]] and [[g/_go|go]] [[l/_lame|lame]], as a [[h/_horse|horse]].**
 - **To [[f/_fail|fail]]; to [[m/_miscarry|miscarry]].**
 - **To [[c/_cause|cause]] to [[f/_fill|fill]] and [[s/_sink|sink]], as a [[s/_ship|ship]].**
 - **To [[d/_disable|disable]] or [[l/_lame|lame]] (a [[h/_horse|horse]]) by [[c/_causing|causing]] [[i/_internal|internal]] [[i/_inflammation|inflammation]] and [[s/_soreness|soreness]] in the [[f/_feet|feet]] or [[l/_limbs|limbs]].**

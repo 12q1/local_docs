@@ -15,14 +15,14 @@
 - **The [[p/_privilege|privilege]], [[f/_formerly|formerly]] [[e/_enjoyed|enjoyed]] by the [[l/_lord|lord]] of a [[m/_manor|manor]], of [[h/_holding|holding]] [[c/_courts|courts]], trying [[c/_causes|causes]], and [[i/_imposing|imposing]] [[f/_fines|fines]].**
 ---
 #noun
-- **A [[b/_bag|bag]]; [[e/_especially|especially]] a [[l/_large|large]] [[b/_bag|bag]] of strong, [[c/_coarse|coarse]] [[m/_material|material]] for storage and [[h/_handling|handling]] of various [[c/_commodities|commodities]], such as [[p/_potatoes|potatoes]], [[c/_coal|coal]], [[c/_coffee|coffee]]; or, a [[b/_bag|bag]] with [[h/_handles|handles]] used at a supermarket, a [[g/_grocery|grocery]] [[s/_sack|sack]]; or, a [[s/_small|small]] [[b/_bag|bag]] for [[s/_small|small]] [[i/_items|items]], a [[s/_satchel|satchel]].**
-- **The [[a/_amount|amount]] a [[s/_sack|sack]] [[h/_holds|holds]]; [[a/_also|also]], an [[a/_archaic|archaic]] or [[h/_historical|historical]] [[m/_measure|measure]] of varying [[c/_capacity|capacity]], [[d/_depending|depending]] on [[c/_commodity|commodity]] type and [[a/_according|according]] to [[l/_local|local]] usage; an [[o/_old|old]] [[e/_english|English]] [[m/_measure|measure]] of weight, usually of wool, [[e/_equal|equal]] to 13 stone (182 [[p/_pounds|pounds]]), or in [[o/_other|other]] [[s/_sources|sources]], 26 stone (364 [[p/_pounds|pounds]]).**
+- **A [[b/_bag|bag]]; [[e/_especially|especially]] a [[l/_large|large]] [[b/_bag|bag]] of [[s/_strong|strong]], [[c/_coarse|coarse]] [[m/_material|material]] for [[s/_storage|storage]] and [[h/_handling|handling]] of various [[c/_commodities|commodities]], such as [[p/_potatoes|potatoes]], [[c/_coal|coal]], [[c/_coffee|coffee]]; or, a [[b/_bag|bag]] with [[h/_handles|handles]] used at a supermarket, a [[g/_grocery|grocery]] [[s/_sack|sack]]; or, a [[s/_small|small]] [[b/_bag|bag]] for [[s/_small|small]] [[i/_items|items]], a [[s/_satchel|satchel]].**
+- **The [[a/_amount|amount]] a [[s/_sack|sack]] [[h/_holds|holds]]; [[a/_also|also]], an [[a/_archaic|archaic]] or [[h/_historical|historical]] [[m/_measure|measure]] of varying [[c/_capacity|capacity]], [[d/_depending|depending]] on [[c/_commodity|commodity]] type and [[a/_according|according]] to [[l/_local|local]] usage; an [[o/_old|old]] [[e/_english|English]] [[m/_measure|measure]] of weight, usually of wool, [[e/_equal|equal]] to 13 [[s/_stone|stone]] (182 [[p/_pounds|pounds]]), or in [[o/_other|other]] [[s/_sources|sources]], 26 [[s/_stone|stone]] (364 [[p/_pounds|pounds]]).**
 	- _Example: The American sack of salt is 215 pounds; the sack of wheat, two bushels. — McElrath._
 - **The [[p/_plunder|plunder]] and [[p/_pillaging|pillaging]] of a [[c/_captured|captured]] town or [[c/_city|city]].**
 	- _Example: The sack of Rome._
 - **[[l/_loot|Loot]] or [[b/_booty|booty]] [[o/_obtained|obtained]] by [[p/_pillage|pillage]].**
 - **A successful tackle of the [[q/_quarterback|quarterback]] [[b/_behind|behind]] the [[l/_line|line]] of [[s/_scrimmage|scrimmage]]. [[s/_see|See]] verb sense4 [[b/_below|below]].**
-- **[[o/_one|One]] of the square [[b/_bases|bases]] [[a/_anchored|anchored]] at [[f/_first|first]] [[b/_base|base]], [[s/_second|second]] [[b/_base|base]], or third [[b/_base|base]].**
+- **[[o/_one|One]] of the [[s/_square|square]] [[b/_bases|bases]] [[a/_anchored|anchored]] at [[f/_first|first]] [[b/_base|base]], [[s/_second|second]] [[b/_base|base]], or third [[b/_base|base]].**
 	- _Example: He twisted his ankle sliding into the sack at second._
 - **[[d/_dismissal|Dismissal]] from [[e/_employment|employment]], or [[d/_discharge|discharge]] from a [[p/_position|position]], usually as [[g/_give|give]] ([[s/_someone|someone]]) the [[s/_sack|sack]] or [[g/_get|get]] the [[s/_sack|sack]]. [[s/_see|See]] verb sense5 [[b/_below|below]].**
 	- _Example: He got the sack for being late all the time._
@@ -38,7 +38,7 @@
 - **To [[p/_put|put]] in a [[s/_sack|sack]] or [[s/_sacks|sacks]].**
 	- _Example: Help me sack the groceries._
 - **To [[b/_bear|bear]] or [[c/_carry|carry]] in a [[s/_sack|sack]] upon the [[b/_back|back]] or the [[s/_shoulders|shoulders]].**
-- **To [[p/_plunder|plunder]] or [[p/_pillage|pillage]], [[e/_especially|especially]] [[a/_after|after]] [[c/_capture|capture]]; to [[o/_obtain|obtain]] spoils of war from.**
+- **To [[p/_plunder|plunder]] or [[p/_pillage|pillage]], [[e/_especially|especially]] [[a/_after|after]] [[c/_capture|capture]]; to [[o/_obtain|obtain]] [[s/_spoils|spoils]] of war from.**
 	- _Example: The barbarians sacked Rome._
 - **To tackle the [[q/_quarterback|quarterback]] [[b/_behind|behind]] the [[l/_line|line]] of [[s/_scrimmage|scrimmage]], [[e/_especially|especially]] [[b/_before|before]] [[h/_he|he]] is [[a/_able|able]] to throw a [[p/_pass|pass]].**
 - **To [[d/_discharge|discharge]] from a [[j/_job|job]] or [[p/_position|position]]; to [[f/_fire|fire]].**
@@ -49,6 +49,6 @@
 ### Synonyms
 - [[l/_loot|loot]], [[r/_ransack|ransack]], [[r/_rack|rack]], [[a/_axe|axe]], [[c/_can|can]], [[d/_dismiss|dismiss]], [[f/_fire|fire]], [[r/_redundant|redundant]], [[t/_terminate|terminate]]
 #noun
-- **A variety of [[l/_light|light]]-[[c/_colored|colored]] [[d/_dry|dry]] wine from [[s/_spain|Spain]] or the [[c/_canary|Canary]] [[i/_islands|Islands]]; [[a/_also|also]], [[a/_any|any]] strong white wine from [[s/_southern|southern]] [[e/_europe|Europe]]; [[s/_sherry|sherry]].**
+- **A variety of [[l/_light|light]]-[[c/_colored|colored]] [[d/_dry|dry]] wine from [[s/_spain|Spain]] or the [[c/_canary|Canary]] [[i/_islands|Islands]]; [[a/_also|also]], [[a/_any|any]] [[s/_strong|strong]] white wine from [[s/_southern|southern]] [[e/_europe|Europe]]; [[s/_sherry|sherry]].**
 ---
 ---

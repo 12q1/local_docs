@@ -3,8 +3,8 @@
 #noun
 - **A [[p/_person|person]] [[c/_convicted|convicted]] of a [[c/_crime|crime]] by a [[j/_judicial|judicial]] [[b/_body|body]].**
 - **A [[p/_person|person]] [[d/_deported|deported]] to a [[p/_penal|penal]] [[c/_colony|colony]].**
-- **The [[c/_convict|convict]] [[c/_cichlid|cichlid]] (Amatitlania nigrofasciata), [[a/_also|also]] [[k/_known|known]] as the zebra [[c/_cichlid|cichlid]], a [[p/_popular|popular]] [[a/_aquarium|aquarium]] [[f/_fish|fish]], with stripes that [[r/_resemble|resemble]] a [[p/_prison|prison]] uniform.**
-- **A [[c/_common|common]] [[n/_name|name]] for the [[s/_sheepshead|sheepshead]] (Archosargus probatocephalus), [[o/_owing|owing]] to [[i/_its|its]] [[b/_black|black]] and [[g/_gray|gray]] stripes.**
+- **The [[c/_convict|convict]] [[c/_cichlid|cichlid]] (Amatitlania nigrofasciata), [[a/_also|also]] [[k/_known|known]] as the zebra [[c/_cichlid|cichlid]], a [[p/_popular|popular]] [[a/_aquarium|aquarium]] [[f/_fish|fish]], with [[s/_stripes|stripes]] that [[r/_resemble|resemble]] a [[p/_prison|prison]] uniform.**
+- **A [[c/_common|common]] [[n/_name|name]] for the [[s/_sheepshead|sheepshead]] (Archosargus probatocephalus), [[o/_owing|owing]] to [[i/_its|its]] [[b/_black|black]] and [[g/_gray|gray]] [[s/_stripes|stripes]].**
 ---
 ### Synonyms
 - [[c/_con|con]]

@@ -9,7 +9,7 @@
 - **A [[k/_kettle|kettle]] [[h/_hole|hole]], [[s/_sometimes|sometimes]] [[a/_any|any]] [[p/_pothole|pothole]].**
 - **([[c/_collective|collective]]) A [[g/_group|group]] of [[r/_raptors|raptors]] [[r/_riding|riding]] a thermal, [[e/_especially|especially]] when [[m/_migrating|migrating]].**
 	- _Example: a kettle of hawks_
-- **A steam [[l/_locomotive|locomotive]]**
+- **A [[s/_steam|steam]] [[l/_locomotive|locomotive]]**
 - **A [[k/_kettledrum|kettledrum]].**
 - **An [[i/_instance|instance]] of kettling; a [[g/_group|group]] of [[p/_protesters|protesters]] or [[r/_rioters|rioters]] [[c/_confined|confined]] in a [[l/_limited|limited]] [[a/_area|area]].**
 ---

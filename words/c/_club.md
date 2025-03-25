@@ -1,10 +1,10 @@
 # Club
 ---
 #noun
-- **An [[a/_association|association]] of [[m/_members|members]] [[j/_joining|joining]] together for [[s/_some|some]] [[c/_common|common]] [[p/_purpose|purpose]], [[e/_especially|especially]] sports or [[r/_recreation|recreation]].**
-- **A [[h/_heavy|heavy]] stick [[i/_intended|intended]] for use as a weapon or [[p/_plaything|plaything]].**
+- **An [[a/_association|association]] of [[m/_members|members]] [[j/_joining|joining]] together for [[s/_some|some]] [[c/_common|common]] [[p/_purpose|purpose]], [[e/_especially|especially]] [[s/_sports|sports]] or [[r/_recreation|recreation]].**
+- **A [[h/_heavy|heavy]] [[s/_stick|stick]] [[i/_intended|intended]] for use as a weapon or [[p/_plaything|plaything]].**
 - **A [[j/_joint|joint]] [[c/_charge|charge]] of [[e/_expense|expense]], or [[a/_any|any]] [[p/_person|person]]'[[s/_s|s]] [[s/_share|share]] of it; a [[c/_contribution|contribution]] to a [[c/_common|common]] [[f/_fund|fund]].**
-- **An [[e/_establishment|establishment]] that [[p/_provides|provides]] staged [[e/_entertainment|entertainment]], [[o/_often|often]] with [[f/_food|food]] and [[d/_drink|drink]], such as a [[n/_nightclub|nightclub]].**
+- **An [[e/_establishment|establishment]] that [[p/_provides|provides]] [[s/_staged|staged]] [[e/_entertainment|entertainment]], [[o/_often|often]] with [[f/_food|food]] and [[d/_drink|drink]], such as a [[n/_nightclub|nightclub]].**
 	- _Example: She was sitting in a jazz club, sipping wine and listening to a bass player's solo._
 - **A [[b/_black|black]] [[c/_clover|clover]] [[s/_shape|shape]] (♣), [[o/_one|one]] of the [[f/_four|four]] [[s/_symbols|symbols]] used to [[m/_mark|mark]] the suits of [[p/_playing|playing]] [[c/_cards|cards]].**
 - **[[a/_any|Any]] [[s/_set|set]] of [[p/_people|people]] with a [[s/_shared|shared]] [[c/_characteristic|characteristic]].**

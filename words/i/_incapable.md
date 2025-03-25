@@ -6,7 +6,7 @@
 #adjective
 - **Not [[c/_capable|capable]] (of [[d/_doing|doing]] [[s/_something|something]]); unable.**
 	- _Example: A pint glass is incapable of holding more than a pint of liquid._
-- **Not in a state to [[r/_receive|receive]]; not [[r/_receptive|receptive]]; not susceptible; not [[a/_able|able]] to [[a/_admit|admit]].**
+- **Not in a [[s/_state|state]] to [[r/_receive|receive]]; not [[r/_receptive|receptive]]; not susceptible; not [[a/_able|able]] to [[a/_admit|admit]].**
 	- _Example: incapable of pain, or pleasure; incapable of stain or injury_
 ---
 ### Synonyms

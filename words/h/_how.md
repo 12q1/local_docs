@@ -9,9 +9,9 @@
 	- _Example: How often do you practice?_
 - **In what [[m/_manner|manner]].**
 	- _Example: How do you solve this puzzle?_
-- **In what state.**
+- **In what [[s/_state|state]].**
 	- _Example: How are you?_
-- **Used as a [[m/_modifier|modifier]] to [[i/_indicate|indicate]] surprise, [[d/_delight|delight]], or [[o/_other|other]] strong [[f/_feelings|feelings]] in an [[e/_exclamation|exclamation]].**
+- **Used as a [[m/_modifier|modifier]] to [[i/_indicate|indicate]] surprise, [[d/_delight|delight]], or [[o/_other|other]] [[s/_strong|strong]] [[f/_feelings|feelings]] in an [[e/_exclamation|exclamation]].**
 	- _Example: How very interesting!_
 ---
 #conjunction

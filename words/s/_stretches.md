@@ -1,0 +1,46 @@
+# Stretches
+---
+#noun
+- **An [[a/_act|act]] of [[s/_stretching|stretching]].**
+	- _Example: I was right in the middle of a stretch when the phone rang._
+- **The [[a/_ability|ability]] to [[l/_lengthen|lengthen]] when [[p/_pulled|pulled]].**
+	- _Example: That rubber band has quite a bit of stretch._
+- **A [[c/_course|course]] of thought which [[d/_diverts|diverts]] from [[s/_straightforward|straightforward]] [[l/_logic|logic]], or [[r/_requires|requires]] [[e/_extraordinary|extraordinary]] [[b/_belief|belief]] or [[e/_exaggeration|exaggeration]].**
+	- _Example: It's a bit of a stretch to call Boris Karloff a comedian._
+- **A [[s/_segment|segment]] of a [[j/_journey|journey]] or [[r/_route|route]].**
+	- _Example: It was an easy trip except for the last stretch, which took forever._
+- **A [[s/_segment|segment]] or [[l/_length|length]] of [[m/_material|material]].**
+	- _Example: a stretch of cloth_
+- **A [[q/_quick|quick]] [[p/_pitching|pitching]] [[d/_delivery|delivery]] used when [[r/_runners|runners]] are on [[b/_base|base]] where the [[p/_pitcher|pitcher]] [[s/_slides|slides]] [[h/_his|his]] [[l/_leg|leg]] [[i/_instead|instead]] of [[l/_lifting|lifting]] it.**
+- **A [[l/_long|long]] [[r/_reach|reach]] in the [[d/_direction|direction]] of the [[b/_ball|ball]] with a [[f/_foot|foot]] [[r/_remaining|remaining]] on the [[b/_base|base]] by a [[f/_first|first]] [[b/_baseman|baseman]] in [[o/_order|order]] to [[c/_catch|catch]] the [[b/_ball|ball]] [[s/_sooner|sooner]].**
+- **Term of [[a/_address|address]] for a tall [[p/_person|person]].**
+- **The [[h/_homestretch|homestretch]], the [[f/_final|final]] [[s/_straight|straight]] [[s/_section|section]] of the track [[l/_leading|leading]] to the [[f/_finish|finish]].**
+- **A [[l/_length|length]] of time.**
+- **A [[s/_stretch|stretch]] [[l/_limousine|limousine]].**
+---
+#verb
+- **To [[l/_lengthen|lengthen]] by [[p/_pulling|pulling]].**
+	- _Example: I stretched the rubber band until it almost broke._
+- **To [[l/_lengthen|lengthen]] when [[p/_pulled|pulled]].**
+	- _Example: The rubber band stretched almost to the breaking point._
+- **To [[p/_pull|pull]] tight.**
+	- _Example: First, stretch the skin over the frame of the drum._
+- **To [[g/_get|get]] [[m/_more|more]] use than [[e/_expected|expected]] from a [[l/_limited|limited]] [[r/_resource|resource]].**
+	- _Example: I managed to stretch my coffee supply a few more days._
+- **To [[m/_make|make]] [[i/_inaccurate|inaccurate]] by [[e/_exaggeration|exaggeration]].**
+	- _Example: To say crossing the street was brave is stretching the meaning of "brave" considerably._
+- **To [[e/_extend|extend]] [[p/_physically|physically]], [[e/_especially|especially]] from [[l/_limit|limit]] [[p/_point|point]] to [[l/_limit|limit]] [[p/_point|point]].**
+	- _Example: The beach stretches from Cresswell to Amble._
+- **To [[e/_extend|extend]] [[o/_one|one]]’[[s/_s|s]] [[l/_limbs|limbs]] or [[a/_another|another]] [[p/_part|part]] of the [[b/_body|body]] in [[o/_order|order]] to [[i/_improve|improve]] the [[e/_elasticity|elasticity]] of [[o/_one|one]]'[[s/_s|s]] [[m/_muscles|muscles]]**
+	- _Example: Cats stretch with equal ease and agility beyond the point that breaks a man on the rack._
+- **To [[e/_extend|extend]] to a [[l/_limit|limit]] [[p/_point|point]]**
+	- _Example: His mustache stretched all the way to his sideburns._
+- **To [[i/_increase|increase]].**
+- **To [[s/_stretch|stretch]] the truth; to [[e/_exaggerate|exaggerate]].**
+	- _Example: a man apt to stretch in his report of facts_
+- **To [[s/_sail|sail]] by the wind under [[p/_press|press]] of [[c/_canvas|canvas]].**
+	- _Example: The ship stretched to the eastward._
+- **To [[e/_execute|execute]] by [[h/_hanging|hanging]].**
+- **To [[m/_make|make]] [[g/_great|great]] [[d/_demands|demands]] on the [[c/_capacity|capacity]] or [[r/_resources|resources]] of [[s/_something|something]].**
+---
+---

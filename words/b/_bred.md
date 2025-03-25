@@ -6,7 +6,7 @@
 	- _Example: a pond breeds fish; a northern country breeds stout men_
 - **Of [[a/_animals|animals]], to [[m/_mate|mate]].**
 - **To [[k/_keep|keep]] [[a/_animals|animals]] and [[h/_have|have]] them [[r/_reproduce|reproduce]] in a way that [[i/_improves|improves]] the [[n/_next|next]] [[g/_generation|generation]]’[[s/_s|s]] [[q/_qualities|qualities]].**
-- **To [[a/_arrange|arrange]] the [[m/_mating|mating]] of specific [[a/_animals|animals]].**
+- **To [[a/_arrange|arrange]] the [[m/_mating|mating]] of [[s/_specific|specific]] [[a/_animals|animals]].**
 	- _Example: She wanted to breed her cow to the neighbor's registered bull._
 - **To [[p/_propagate|propagate]] or [[g/_grow|grow]] [[p/_plants|plants]] trying to [[g/_give|give]] them [[c/_certain|certain]] [[q/_qualities|qualities]].**
 	- _Example: He tries to breed blue roses._

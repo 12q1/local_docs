@@ -22,7 +22,7 @@
 - **To [[m/_manage|manage]] [[i/_insolently|insolently]] at will; to [[d/_domineer|domineer]] [[o/_over|over]].**
 - **To [[o/_overlap|overlap]] ([[e/_each|each]] [[o/_other|other]]); [[s/_said|said]] of [[b/_bones|bones]] or [[f/_fractured|fractured]] [[f/_fragments|fragments]].**
 - **To [[m/_monitor|monitor]] ([[s/_some|some]] [[c/_component|component]] of an [[a/_audiovisual|audiovisual]] [[s/_signal|signal]]) in [[o/_order|order]] to [[k/_keep|keep]] it within [[a/_acceptable|acceptable]] [[b/_bounds|bounds]].**
-- **In [[j/_jazz|jazz]], a steady [[r/_rhythmical|rhythmical]] style.**
+- **In [[j/_jazz|jazz]], a [[s/_steady|steady]] [[r/_rhythmical|rhythmical]] [[s/_style|style]].**
 ---
 ### Synonyms
 - 

@@ -9,10 +9,10 @@
 	- _Example: a limiting friar_
 ---
 #noun
-- **An [[e/_express|express]] train that [[o/_only|only]] [[h/_halts|halts]] at a [[l/_limited|limited]] [[n/_number|number]] of stops.**
+- **An [[e/_express|express]] train that [[o/_only|only]] [[h/_halts|halts]] at a [[l/_limited|limited]] [[n/_number|number]] of [[s/_stops|stops]].**
 ---
 #adjective
-- **With [[c/_certain|certain]] ([[o/_often|often]] specified) [[l/_limits|limits]] [[p/_placed|placed]] upon it.**
+- **With [[c/_certain|certain]] ([[o/_often|often]] [[s/_specified|specified]]) [[l/_limits|limits]] [[p/_placed|placed]] upon it.**
 - **Of [[n/_numbers|numbers]], [[a/_amounts|amounts]], [[d/_data|data]]: [[p/_poor|poor]], [[s/_small|small]], [[f/_felt|felt]] to be [[i/_insufficient|insufficient]].**
 	- _Example: I have a limited understanding of quantum physics._
 ---

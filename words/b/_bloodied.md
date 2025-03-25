@@ -1,7 +1,7 @@
 # Bloodied
 ---
 #adjective
-- **[[c/_covered|Covered]] or stained with [[b/_blood|blood]]**
+- **[[c/_covered|Covered]] or [[s/_stained|stained]] with [[b/_blood|blood]]**
 ---
 ### Synonyms
 - [[a/_ablood|ablood]]

@@ -10,7 +10,7 @@
 	- _Example: "You come back here this instant! Oh, you're dead, mister!"_
 - **Without [[e/_emotion|emotion]].**
 	- _Example: She stood with dead face and limp arms, unresponsive to my plea._
-- **Stationary; static.**
+- **[[s/_stationary|Stationary]]; [[s/_static|static]].**
 	- _Example: a dead lift_
 - **Without [[i/_interest|interest]] to [[o/_one|one]] of the [[s/_senses|senses]]; [[d/_dull|dull]]; [[f/_flat|flat]].**
 	- _Example: a dead glass of soda._
@@ -27,7 +27,7 @@
 	- _Example: A dead axle, also called a lazy axle, is not part of the drivetrain, but is instead free-rotating._
 - **Not in [[p/_play|play]].**
 	- _Example: Once the ball crosses the foul line, it's dead._
-- **(of a [[g/_golf|golf]] [[b/_ball|ball]]) [[l/_lying|Lying]] [[s/_so|so]] [[n/_near|near]] the [[h/_hole|hole]] that the [[p/_player|player]] is [[c/_certain|certain]] to [[h/_hole|hole]] it in the [[n/_next|next]] stroke.**
+- **(of a [[g/_golf|golf]] [[b/_ball|ball]]) [[l/_lying|Lying]] [[s/_so|so]] [[n/_near|near]] the [[h/_hole|hole]] that the [[p/_player|player]] is [[c/_certain|certain]] to [[h/_hole|hole]] it in the [[n/_next|next]] [[s/_stroke|stroke]].**
 - **(1800s) Tagged [[o/_out|out]].**
 - **[[f/_full|Full]] and [[c/_complete|complete]].**
 	- _Example: dead giveaway_

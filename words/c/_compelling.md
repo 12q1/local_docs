@@ -14,7 +14,7 @@
 - **An [[a/_act|act]] of [[c/_compulsion|compulsion]]; an [[o/_obliging|obliging]] [[s/_somebody|somebody]] to [[d/_do|do]] [[s/_something|something]].**
 ---
 #adjective
-- **Strongly or [[i/_irresistibly|irresistibly]] [[e/_evoking|evoking]] [[i/_interest|interest]] or [[a/_attention|attention]].**
+- **[[s/_strongly|Strongly]] or [[i/_irresistibly|irresistibly]] [[e/_evoking|evoking]] [[i/_interest|interest]] or [[a/_attention|attention]].**
 	- _Example: There are compelling reasons why a manager should have previous experience._
 - **[[f/_forceful|Forceful]].**
 	- _Example: The politician had compelling ambition._

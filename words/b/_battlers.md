@@ -1,7 +1,7 @@
 # Battlers
 ---
 #noun
-- **([[o/_oxford|Oxford]] University) A student who is supplied with [[p/_provisions|provisions]] from the [[b/_buttery|buttery]]; [[f/_formerly|formerly]], [[o/_one|one]] who [[p/_paid|paid]] for [[n/_nothing|nothing]] but what [[h/_he|he]] [[c/_called|called]] for.**
+- **([[o/_oxford|Oxford]] University) A [[s/_student|student]] who is supplied with [[p/_provisions|provisions]] from the [[b/_buttery|buttery]]; [[f/_formerly|formerly]], [[o/_one|one]] who [[p/_paid|paid]] for [[n/_nothing|nothing]] but what [[h/_he|he]] [[c/_called|called]] for.**
 ---
 ### Synonyms
 - [[s/_sizar|sizar]]

@@ -1,7 +1,7 @@
 # Obtrusive
 ---
 #adjective
-- **Sticking [[o/_out|out]]; [[p/_protruding|protruding]].**
+- **[[s/_sticking|Sticking]] [[o/_out|out]]; [[p/_protruding|protruding]].**
 	- _Example: The facade of the building was ornamented with obtrusive sculpted designs._
 - **[[n/_noticeable|Noticeable]]; [[p/_prominent|prominent]], [[e/_especially|especially]] in a [[d/_displeasing|displeasing]] way.**
 	- _Example: He has an obtrusive forehead._

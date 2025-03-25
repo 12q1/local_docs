@@ -1,7 +1,7 @@
 # Schusses
 ---
 #noun
-- **A straight [[r/_run|run]] [[d/_downhill|downhill]]**
+- **A [[s/_straight|straight]] [[r/_run|run]] [[d/_downhill|downhill]]**
 ---
 #verb
 - **To [[s/_ski|ski]] a [[s/_schuss|schuss]].**

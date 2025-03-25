@@ -6,6 +6,6 @@
 - **A [[h/_highway|highway]] or [[f/_freeway|freeway]] [[r/_road|road]] which [[c/_connects|connects]] to [[a/_another|another]] [[h/_highway|highway]] or [[f/_freeway|freeway]]. It [[c/_can|can]] be [[p/_part|part]] of an [[i/_interchange|interchange]] or a [[l/_longer|longer]] [[r/_roadway|roadway]] such as the 1.5 [[m/_mile|mile]] (2.5 [[k/_kilometer|kilometer]]) U.[[s/_s|S]]. [[r/_route|Route]] 24 [[c/_connector|Connector]].**
 - **A [[l/_line|line]] [[c/_connecting|connecting]] two [[s/_shapes|shapes]] in [[p/_presentation|presentation]] [[s/_software|software]].**
 - **A [[s/_software|software]] [[c/_component|component]] that [[p/_provides|provides]] [[a/_access|access]] from an [[a/_application|application]] [[p/_program|program]] to an [[e/_external|external]] [[d/_database|database]] or [[d/_data|data]] [[s/_source|source]], such as a JDBC [[c/_connector|connector]].**
-- **[[a/_any|Any]] of a [[g/_group|group]] of [[c/_cards|cards]] of [[c/_consecutive|consecutive]] [[f/_face|face]] value, useful in [[f/_forming|forming]] straights [[e/_etc|etc]].**
+- **[[a/_any|Any]] of a [[g/_group|group]] of [[c/_cards|cards]] of [[c/_consecutive|consecutive]] [[f/_face|face]] value, useful in [[f/_forming|forming]] [[s/_straights|straights]] [[e/_etc|etc]].**
 ---
 ---

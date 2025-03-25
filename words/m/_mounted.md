@@ -31,7 +31,7 @@
 #adjective
 - **On [[h/_horseback|horseback]]**
 	- _Example: The mounted cavalry rode into town._
-- **[[r/_raised|Raised]] on steps, [[g/_generally|generally]] three, as a [[c/_cross|cross]]**
+- **[[r/_raised|Raised]] on [[s/_steps|steps]], [[g/_generally|generally]] three, as a [[c/_cross|cross]]**
 - **[[f/_furnished|Furnished]]; supplied**
 ---
 ---

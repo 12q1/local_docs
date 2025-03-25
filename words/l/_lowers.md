@@ -17,7 +17,7 @@
 	- _Example: lower the aim of a gun_
 - **To [[m/_make|make]] [[l/_less|less]] [[e/_elevated|elevated]]**
 	- _Example: to lower one's ambition, aspirations, or hopes_
-- **To [[r/_reduce|reduce]] the [[d/_degree|degree]], [[i/_intensity|intensity]], strength, [[e/_etc|etc]]., of**
+- **To [[r/_reduce|reduce]] the [[d/_degree|degree]], [[i/_intensity|intensity]], [[s/_strength|strength]], [[e/_etc|etc]]., of**
 	- _Example: lower distilled liquors_
 - **To [[b/_bring|bring]] [[d/_down|down]]; to [[h/_humble|humble]]**
 	- _Example: lower one's pride_

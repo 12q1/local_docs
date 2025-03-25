@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Written in [[m/_minuscules|minuscules]], [[l/_lowercase|lowercase]].**
-- **Written in [[m/_minuscule|minuscule]] [[h/_handwriting|handwriting]] style.**
+- **Written in [[m/_minuscule|minuscule]] [[h/_handwriting|handwriting]] [[s/_style|style]].**
 - **Very [[s/_small|small]], tiny.**
 	- _Example: a minuscule dot_
 ---

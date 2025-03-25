@@ -1,7 +1,7 @@
 # Honey
 ---
 #noun
-- **A viscous, sweet [[f/_fluid|fluid]] [[p/_produced|produced]] from [[p/_plant|plant]] [[n/_nectar|nectar]] by [[b/_bees|bees]]. [[o/_often|Often]] used to sweeten tea or to spread on [[b/_baked|baked]] [[g/_goods|goods]].**
+- **A viscous, sweet [[f/_fluid|fluid]] [[p/_produced|produced]] from [[p/_plant|plant]] [[n/_nectar|nectar]] by [[b/_bees|bees]]. [[o/_often|Often]] used to sweeten tea or to [[s/_spread|spread]] on [[b/_baked|baked]] [[g/_goods|goods]].**
 - **A variety of this substance.**
 - **[[n/_nectar|Nectar]].**
 - **[[s/_something|Something]] sweet or [[d/_desirable|desirable]].**
@@ -9,7 +9,7 @@
 	- _Example: Honey, I'm home._
 - **A woman, [[e/_especially|especially]] an [[a/_attractive|attractive]] [[o/_one|one]].**
 	- _Example: Man, there are some fine honeys here tonight!_
-- **A spectrum of [[p/_pale|pale]] [[y/_yellow|yellow]] to [[b/_brownish|brownish]]-[[y/_yellow|yellow]] [[c/_colour|colour]], [[l/_like|like]] that of [[m/_most|most]] types of (the sweet substance) [[h/_honey|honey]].**
+- **A [[s/_spectrum|spectrum]] of [[p/_pale|pale]] [[y/_yellow|yellow]] to [[b/_brownish|brownish]]-[[y/_yellow|yellow]] [[c/_colour|colour]], [[l/_like|like]] that of [[m/_most|most]] types of (the sweet substance) [[h/_honey|honey]].**
 ---
 ### Synonyms
 - [[m/_mel|mel]], [[d/_darling|darling]], [[s/_sweetie|sweetie]]

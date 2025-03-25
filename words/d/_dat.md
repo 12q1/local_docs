@@ -15,7 +15,7 @@
 	- _Example: He went home, and after that I never saw him again._
 - **The [[k/_known|known]] (thing); used to [[r/_refer|refer]] to [[s/_something|something]] [[j/_just|just]] [[s/_said|said]].**
 	- _Example: They're getting divorced. What do you think about that?_
-- **([[d/_demonstrative|demonstrative]]) The [[a/_aforementioned|aforementioned]] [[q/_quality|quality]] or [[p/_proposition|proposition]]; used to [[e/_emphatically|emphatically]] [[a/_affirm|affirm]] or [[d/_deny|deny]] a [[p/_previous|previous]] statement or [[q/_question|question]].**
+- **([[d/_demonstrative|demonstrative]]) The [[a/_aforementioned|aforementioned]] [[q/_quality|quality]] or [[p/_proposition|proposition]]; used to [[e/_emphatically|emphatically]] [[a/_affirm|affirm]] or [[d/_deny|deny]] a [[p/_previous|previous]] [[s/_statement|statement]] or [[q/_question|question]].**
 	- _Example: The water is so cold! — That it is._
 - **([[r/_relative|relative]]) ([[p/_plural|plural]] that) Which, who; [[r/_representing|representing]] a subject, [[d/_direct|direct]] [[o/_object|object]], [[i/_indirect|indirect]] [[o/_object|object]], or [[o/_object|object]] of a [[p/_preposition|preposition]].**
 	- _Example: The CPR course that she took really came in handy._
@@ -25,7 +25,7 @@
 ### Antonyms
 - [[h/_here|here]], [[t/_there|there]], [[t/_this|this]], [[y/_yon|yon]], [[y/_yonder|yonder]]
 #conjunction
-- **[[i/_introducing|Introducing]] a [[c/_clause|clause]] which is the subject or [[o/_object|object]] of a verb (such as [[o/_one|one]] [[i/_involving|involving]] [[r/_reported|reported]] speech), or which is a [[c/_complement|complement]] to a [[p/_previous|previous]] statement.**
+- **[[i/_introducing|Introducing]] a [[c/_clause|clause]] which is the subject or [[o/_object|object]] of a verb (such as [[o/_one|one]] [[i/_involving|involving]] [[r/_reported|reported]] [[s/_speech|speech]]), or which is a [[c/_complement|complement]] to a [[p/_previous|previous]] [[s/_statement|statement]].**
 	- _Example: He told me that the book is a good read._
 - **[[i/_introducing|Introducing]] a subordinate [[c/_clause|clause]] [[e/_expressing|expressing]] a [[r/_reason|reason]] or [[c/_cause|cause]]: [[b/_because|because]], in that.**
 	- _Example: Be glad that you have enough to eat._
@@ -37,6 +37,6 @@
 	- _Example: How often did she visit him? — Twice that I saw._
 - **[[i/_introducing|Introducing]] an [[e/_exclamation|exclamation]] [[e/_expressing|expressing]] a [[d/_desire|desire]] or wish.**
 	- _Example: Oh that spring would come!_
-- **[[i/_introducing|Introducing]] an [[e/_exclamation|exclamation]] [[e/_expressing|expressing]] a strong [[e/_emotion|emotion]] such as [[s/_sadness|sadness]] or surprise.**
+- **[[i/_introducing|Introducing]] an [[e/_exclamation|exclamation]] [[e/_expressing|expressing]] a [[s/_strong|strong]] [[e/_emotion|emotion]] such as [[s/_sadness|sadness]] or surprise.**
 ---
 ---

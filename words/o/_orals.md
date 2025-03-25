@@ -1,7 +1,7 @@
 # Orals
 ---
 #noun
-- **A spoken test or [[e/_examination|examination]], [[p/_particularly|particularly]] in a [[l/_language|language]] [[c/_class|class]].**
+- **A [[s/_spoken|spoken]] test or [[e/_examination|examination]], [[p/_particularly|particularly]] in a [[l/_language|language]] [[c/_class|class]].**
 	- _Example: We've got our Spanish oral tomorrow._
 - **A [[p/_physical|physical]] [[e/_examination|examination]] of the [[m/_mouth|mouth]].**
 - **[[o/_oral|Oral]] [[s/_sex|sex]].**

@@ -1,7 +1,7 @@
 # Nondescript
 ---
 #noun
-- **A species or [[o/_other|other]] type of [[c/_creature|creature]] that [[h/_has|has]] not [[b/_been|been]] [[p/_previously|previously]] [[d/_described|described]] or [[i/_identified|identified]].**
+- **A [[s/_species|species]] or [[o/_other|other]] type of [[c/_creature|creature]] that [[h/_has|has]] not [[b/_been|been]] [[p/_previously|previously]] [[d/_described|described]] or [[i/_identified|identified]].**
 - **An undistinguished, unexceptional [[p/_person|person]] or thing.**
 - **An unmarked [[p/_police|police]] [[c/_car|car]].**
 ---

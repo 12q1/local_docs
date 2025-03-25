@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[j/_join|join]] in or [[f/_form|form]] a [[l/_league|league]], union, or [[a/_association|association]].**
-- **To spend time [[s/_socially|socially]]; [[k/_keep|keep]] [[c/_company|company]].**
+- **To [[s/_spend|spend]] time [[s/_socially|socially]]; [[k/_keep|keep]] [[c/_company|company]].**
 	- _Example: She associates with her coworkers on weekends._
 - **(with with) To [[j/_join|join]] as a [[p/_partner|partner]], [[a/_ally|ally]], or [[f/_friend|friend]].**
 	- _Example: He associated his name with many environmental causes._

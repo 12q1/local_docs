@@ -8,9 +8,9 @@
 - **A [[p/_parking|parking]] [[e/_enforcement|enforcement]] [[d/_device|device]] used to [[i/_immobilize|immobilize]] a [[c/_car|car]] until it [[c/_can|can]] be towed or a [[f/_fine|fine]] is [[p/_paid|paid]]; a wheel [[c/_clamp|clamp]].**
 - **A [[r/_rubber|rubber]] [[b/_bladder|bladder]] on the [[l/_leading|leading]] [[e/_edge|edge]] of an [[a/_aircraft|aircraft]]’[[s/_s|s]] wing, which is [[i/_inflated|inflated]] [[p/_periodically|periodically]] to [[r/_remove|remove]] [[i/_ice|ice]] [[b/_buildup|buildup]]. A [[d/_deicing|deicing]] [[b/_boot|boot]].**
 - **A [[p/_place|place]] at the [[s/_side|side]] of a [[c/_coach|coach]], where [[a/_attendants|attendants]] [[r/_rode|rode]]; [[a/_also|also]], a [[l/_low|low]] [[o/_outside|outside]] [[p/_place|place]] [[b/_before|before]] and [[b/_behind|behind]] the [[b/_body|body]] of the [[c/_coach|coach]].**
-- **A [[p/_place|place]] for [[b/_baggage|baggage]] at [[e/_either|either]] [[e/_end|end]] of an [[o/_old|old]]-[[f/_fashioned|fashioned]] stagecoach.**
+- **A [[p/_place|place]] for [[b/_baggage|baggage]] at [[e/_either|either]] [[e/_end|end]] of an [[o/_old|old]]-[[f/_fashioned|fashioned]] [[s/_stagecoach|stagecoach]].**
 - **([[p/_police|police]]) A [[r/_recently|recently]] [[a/_arrived|arrived]] [[r/_recruit|recruit]]; a [[r/_rookie|rookie]].**
-- **The [[l/_luggage|luggage]] storage [[c/_compartment|compartment]] of a [[s/_sedan|sedan]] or [[s/_saloon|saloon]] [[c/_car|car]].**
+- **The [[l/_luggage|luggage]] [[s/_storage|storage]] [[c/_compartment|compartment]] of a [[s/_sedan|sedan]] or [[s/_saloon|saloon]] [[c/_car|car]].**
 - **The [[a/_act|act]] or [[p/_process|process]] of [[r/_removing|removing]] or [[f/_firing|firing]] [[s/_someone|someone]] ([[g/_give|give]] [[s/_someone|someone]] the [[b/_boot|boot]]).**
 - **Unattractive [[p/_person|person]], ugly woman (usually as "[[o/_old|old]] [[b/_boot|boot]]")**
 - **A [[h/_hard|hard]] [[p/_plastic|plastic]] [[c/_case|case]] for a [[l/_long|long]] [[f/_firearm|firearm]], typically [[m/_moulded|moulded]] to the [[s/_shape|shape]] of the [[g/_gun|gun]] and [[i/_intended|intended]] for use in a vehicle.**

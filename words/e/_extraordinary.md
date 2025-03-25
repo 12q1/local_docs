@@ -7,7 +7,7 @@
 - **Not [[o/_ordinary|ordinary]]; [[e/_exceptional|exceptional]]; unusual.**
 - **[[r/_remarkably|Remarkably]] [[g/_good|good]].**
 	- _Example: an extraordinary poet_
-- **Special or supernumerary.**
+- **[[s/_special|Special]] or supernumerary.**
 	- _Example: an extraordinary professor in a German university_
 ---
 ### Synonyms

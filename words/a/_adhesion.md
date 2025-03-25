@@ -1,7 +1,7 @@
 # Adhesion
 ---
 #noun
-- **The [[a/_ability|ability]] of a substance to stick to an unlike substance.**
+- **The [[a/_ability|ability]] of a substance to [[s/_stick|stick]] to an unlike substance.**
 - **[[p/_persistent|Persistent]] [[a/_attachment|attachment]] or [[l/_loyalty|loyalty]].**
 - **An [[a/_agreement|agreement]] to [[a/_adhere|adhere]].**
 - **An [[a/_abnormal|abnormal]] union of surface by the [[f/_formation|formation]] of [[n/_new|new]] tissue [[r/_resulting|resulting]] from an [[i/_inflammatory|inflammatory]] [[p/_process|process]].**

@@ -5,6 +5,6 @@
 - **A [[m/_musical|musical]] [[p/_piece|piece]] or [[m/_movement|movement]] in such a tempo**
 ---
 #adjective
-- **Strong and stately**
+- **[[s/_strong|Strong]] and [[s/_stately|stately]]**
 ---
 ---

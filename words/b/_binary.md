@@ -4,16 +4,16 @@
 - **A thing which [[c/_can|can]] [[h/_have|have]] [[o/_only|only]] ([[o/_one|one]] or the [[o/_other|other]] of) two values.**
 - **The [[b/_bijective|bijective]] [[b/_base|base]]-2 [[n/_numeral|numeral]] [[s/_system|system]], which uses [[o/_only|only]] the [[d/_digits|digits]] 0 and 1.**
 - **An [[e/_executable|executable]] [[c/_computer|computer]] [[f/_file|file]].**
-- **A [[s/_satellite|satellite]] [[s/_system|system]] [[c/_consisting|consisting]] of two stars or [[o/_other|other]] [[b/_bodies|bodies]] [[o/_orbiting|orbiting]] [[e/_each|each]] [[o/_other|other]].**
+- **A [[s/_satellite|satellite]] [[s/_system|system]] [[c/_consisting|consisting]] of two [[s/_stars|stars]] or [[o/_other|other]] [[b/_bodies|bodies]] [[o/_orbiting|orbiting]] [[e/_each|each]] [[o/_other|other]].**
 ---
 ### Synonyms
 - 
 ### Antonyms
 - [[n/_non-binary|non-binary]]
 #adjective
-- **[[b/_being|Being]] in a state of [[o/_one|one]] of two [[m/_mutually|mutually]] [[e/_exclusive|exclusive]] [[c/_conditions|conditions]] such as on or [[o/_off|off]], true or [[f/_false|false]], [[m/_molten|molten]] or [[f/_frozen|frozen]], [[p/_presence|presence]] or [[a/_absence|absence]] of a [[s/_signal|signal]].**
+- **[[b/_being|Being]] in a [[s/_state|state]] of [[o/_one|one]] of two [[m/_mutually|mutually]] [[e/_exclusive|exclusive]] [[c/_conditions|conditions]] such as on or [[o/_off|off]], true or [[f/_false|false]], [[m/_molten|molten]] or [[f/_frozen|frozen]], [[p/_presence|presence]] or [[a/_absence|absence]] of a [[s/_signal|signal]].**
 	- _Example: Binary states are often represented as 1 and 0 in computer science._
-- **[[c/_concerning|Concerning]] [[l/_logic|logic]] whose subject [[m/_matter|matter]] [[c/_concerns|concerns]] [[b/_binary|binary]] states.**
+- **[[c/_concerning|Concerning]] [[l/_logic|logic]] whose subject [[m/_matter|matter]] [[c/_concerns|concerns]] [[b/_binary|binary]] [[s/_states|states]].**
 - **[[c/_concerning|Concerning]] [[n/_numbers|numbers]] and [[c/_calculations|calculations]] using the [[b/_binary|binary]] [[n/_number|number]] [[s/_system|system]].**
 - **[[h/_having|Having]] two [[e/_equally|equally]] [[i/_important|important]] [[p/_parts|parts]]; [[r/_related|related]] to [[s/_something|something]] with two [[p/_parts|parts]].**
 	- _Example: A binary statistical distribution has only two categories._

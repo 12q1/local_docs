@@ -1,7 +1,7 @@
 # Comment
 ---
 #noun
-- **A spoken or written [[r/_remark|remark]].**
+- **A [[s/_spoken|spoken]] or written [[r/_remark|remark]].**
 	- _Example: I have no comment on that._
 - **A [[r/_remark|remark]] [[e/_embedded|embedded]] in [[s/_source|source]] [[c/_code|code]] in such a way that it will be [[i/_ignored|ignored]] by the [[c/_compiler|compiler]] or [[i/_interpreter|interpreter]], typically to [[h/_help|help]] [[p/_people|people]] to understand the [[c/_code|code]].**
 ---

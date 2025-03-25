@@ -2,7 +2,7 @@
 ---
 #verb
 - **To tire, weary or [[f/_fatigue|fatigue]]**
-- **To treat [[l/_like|like]] a [[j/_jade|jade]]; to spurn.**
+- **To treat [[l/_like|like]] a [[j/_jade|jade]]; to [[s/_spurn|spurn]].**
 - **To [[m/_make|make]] [[r/_ridiculous|ridiculous]] and [[c/_contemptible|contemptible]].**
 ---
 #adjective

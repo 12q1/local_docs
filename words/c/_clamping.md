@@ -3,7 +3,7 @@
 #verb
 - **To [[f/_fasten|fasten]] in [[p/_place|place]] or together with (or as [[i/_if|if]] with) a [[c/_clamp|clamp]].**
 - **To [[h/_hold|hold]] or [[g/_grip|grip]] tightly.**
-- **To [[m/_modify|modify]] (a [[n/_numeric|numeric]] value) [[s/_so|so]] it [[l/_lies|lies]] within a specific [[r/_range|range]].**
+- **To [[m/_modify|modify]] (a [[n/_numeric|numeric]] value) [[s/_so|so]] it [[l/_lies|lies]] within a [[s/_specific|specific]] [[r/_range|range]].**
 - **To [[c/_cover|cover]] (vegetables, [[e/_etc|etc]].) with [[e/_earth|earth]].**
 ---
 #verb

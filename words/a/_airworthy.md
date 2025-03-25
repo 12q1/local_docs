@@ -1,7 +1,7 @@
 # Airworthy
 ---
 #adjective
-- **[[m/_meeting|Meeting]] standards for [[s/_safe|safe]] [[f/_flight|flight]]**
+- **[[m/_meeting|Meeting]] [[s/_standards|standards]] for [[s/_safe|safe]] [[f/_flight|flight]]**
 	- _Example: Doc Savage doubted that he would carry out the threat, and thought the plane was still airworthy._
 ---
 ### Synonyms

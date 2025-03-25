@@ -12,12 +12,12 @@
 	- _Example: Your sign is Taurus? That's no surprise._
 - **[[p/_positive|Positive]] or [[n/_negative|negative]] [[p/_polarity|polarity]], as [[d/_denoted|denoted]] by the + or - [[s/_sign|sign]].**
 	- _Example: I got the magnitude right, but the sign was wrong._
-- **A specific [[g/_gesture|gesture]] or [[m/_motion|motion]] used to [[c/_communicate|communicate]] by those with [[s/_speaking|speaking]] or [[h/_hearing|hearing]] [[d/_difficulties|difficulties]]; [[n/_now|now]] specifically, a [[l/_linguistic|linguistic]] unit in [[s/_sign|sign]] [[l/_language|language]] [[e/_equivalent|equivalent]] to word in spoken [[l/_languages|languages]].**
+- **A [[s/_specific|specific]] [[g/_gesture|gesture]] or [[m/_motion|motion]] used to [[c/_communicate|communicate]] by those with [[s/_speaking|speaking]] or [[h/_hearing|hearing]] [[d/_difficulties|difficulties]]; [[n/_now|now]] [[s/_specifically|specifically]], a [[l/_linguistic|linguistic]] unit in [[s/_sign|sign]] [[l/_language|language]] [[e/_equivalent|equivalent]] to word in [[s/_spoken|spoken]] [[l/_languages|languages]].**
 - **[[s/_sign|Sign]] [[l/_language|language]] in [[g/_general|general]].**
 	- _Example: Sorry, I don't know sign very well._
 - **An [[o/_omen|omen]].**
 	- _Example: "It's a sign of the end of the world," the doom prophet said._
 - **A [[p/_property|property]] of the [[b/_body|body]] that [[i/_indicates|indicates]] a [[d/_disease|disease]] and, unlike a [[s/_symptom|symptom]], is unlikely to be [[n/_noticed|noticed]] by the [[p/_patient|patient]].**
-- **A [[m/_military|military]] [[e/_emblem|emblem]] [[c/_carried|carried]] on a [[b/_banner|banner]] or standard.**
+- **A [[m/_military|military]] [[e/_emblem|emblem]] [[c/_carried|carried]] on a [[b/_banner|banner]] or [[s/_standard|standard]].**
 ---
 ---

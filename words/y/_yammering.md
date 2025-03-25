@@ -9,6 +9,6 @@
 ### Synonyms
 - [[g/_grumble|grumble]], [[w/_whine|whine]], [[b/_babble|babble]], [[p/_prattle|prattle]], [[y/_yak|yak]]
 #noun
-- **[[l/_loud|Loud]], [[i/_incoherent|incoherent]], [[r/_repetitive|repetitive]] speech.**
+- **[[l/_loud|Loud]], [[i/_incoherent|incoherent]], [[r/_repetitive|repetitive]] [[s/_speech|speech]].**
 ---
 ---

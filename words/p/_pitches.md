@@ -1,9 +1,9 @@
 # Pitches
 ---
 #noun
-- **A sticky, [[g/_gummy|gummy]] substance [[s/_secreted|secreted]] by trees; [[s/_sap|sap]].**
+- **A [[s/_sticky|sticky]], [[g/_gummy|gummy]] substance [[s/_secreted|secreted]] by trees; [[s/_sap|sap]].**
 	- _Example: It is hard to get this pitch off my hand._
-- **A [[d/_dark|dark]], [[e/_extremely|extremely]] viscous [[m/_material|material]] [[r/_remaining|remaining]] in still [[a/_after|after]] [[d/_distilling|distilling]] [[c/_crude|crude]] [[o/_oil|oil]] and tar.**
+- **A [[d/_dark|dark]], [[e/_extremely|extremely]] viscous [[m/_material|material]] [[r/_remaining|remaining]] in [[s/_still|still]] [[a/_after|after]] [[d/_distilling|distilling]] [[c/_crude|crude]] [[o/_oil|oil]] and tar.**
 	- _Example: It was pitch black because there was no moon._
 - **[[p/_pitchstone|Pitchstone]].**
 ---
@@ -31,7 +31,7 @@
 - **An [[a/_area|area]] on a [[c/_campsite|campsite]] [[i/_intended|intended]] for [[o/_occupation|occupation]] by a [[s/_single|single]] tent, [[c/_caravan|caravan]] or [[s/_similar|similar]].**
 - **A [[p/_point|point]] or [[p/_peak|peak]]; the [[e/_extreme|extreme]] [[p/_point|point]] of [[e/_elevation|elevation]] or [[d/_depression|depression]].**
 - **[[p/_prominence|Prominence]]; [[i/_importance|importance]].**
-- **A [[s/_section|section]] of a [[c/_climb|climb]] or [[r/_rock|rock]] [[f/_face|face]]; specifically, the [[c/_climbing|climbing]] [[d/_distance|distance]] [[b/_between|between]] [[b/_belays|belays]] or stances.**
+- **A [[s/_section|section]] of a [[c/_climb|climb]] or [[r/_rock|rock]] [[f/_face|face]]; [[s/_specifically|specifically]], the [[c/_climbing|climbing]] [[d/_distance|distance]] [[b/_between|between]] [[b/_belays|belays]] or [[s/_stances|stances]].**
 - **A vertical [[c/_cave|cave]] [[p/_passage|passage]], [[o/_only|only]] [[n/_negotiable|negotiable]] by using [[r/_rope|rope]] or [[l/_ladders|ladders]].**
 	- _Example: The entrance pitch requires 30 metres of rope._
 - **A [[p/_person|person]]'[[s/_s|s]] or [[a/_animal|animal]]'[[s/_s|s]] [[h/_height|height]].**
@@ -51,7 +51,7 @@
 	- _Example: He pitched the candy wrapper._
 - **To [[p/_promote|promote]], [[a/_advertise|advertise]], or [[a/_attempt|attempt]] to [[s/_sell|sell]].**
 	- _Example: He pitched the idea for months with no takers._
-- **To [[d/_deliver|deliver]] in a [[c/_certain|certain]] tone or style, or with a [[c/_certain|certain]] [[a/_audience|audience]] in [[m/_mind|mind]].**
+- **To [[d/_deliver|deliver]] in a [[c/_certain|certain]] tone or [[s/_style|style]], or with a [[c/_certain|certain]] [[a/_audience|audience]] in [[m/_mind|mind]].**
 	- _Example: At which level should I pitch my presentation?_
 - **To [[a/_assemble|assemble]] or [[e/_erect|erect]] (a tent).**
 	- _Example: Pitch the tent over there._
@@ -66,7 +66,7 @@
 - **(with on or upon) To [[f/_fix|fix]] [[o/_one|one]]'[[s/_s|s]] [[c/_choice|choice]].**
 - **To [[p/_plunge|plunge]] or [[f/_fall|fall]]; [[e/_especially|especially]], to [[f/_fall|fall]] [[f/_forward|forward]]; to [[d/_decline|decline]] or [[s/_slope|slope]].**
 	- _Example: The field pitches toward the east._
-- **(of an [[e/_embankment|embankment]], [[r/_roadway|roadway]]) To [[s/_set|set]], [[f/_face|face]], or [[p/_pave|pave]] with [[r/_rubble|rubble]] or undressed stones.**
+- **(of an [[e/_embankment|embankment]], [[r/_roadway|roadway]]) To [[s/_set|set]], [[f/_face|face]], or [[p/_pave|pave]] with [[r/_rubble|rubble]] or undressed [[s/_stones|stones]].**
 - **(of a [[p/_price|price]], value) To [[s/_set|set]] or [[f/_fix|fix]].**
 - **(of a [[c/_card|card]]) To [[d/_discard|discard]] for [[s/_some|some]] [[g/_gain|gain]].**
 ---

@@ -11,11 +11,11 @@
 - **[[o/_one|One]] who [[b/_breaks|breaks]] in or [[m/_manages|manages]] a [[h/_horse|horse]].**
 - **The [[f/_first|first]] Lenormand [[c/_card|card]], [[a/_also|also]] [[k/_known|known]] as [[e/_either|either]] the [[h/_horseman|horseman]] or the [[c/_cavalier|cavalier]].**
 - **A [[p/_problem|problem]] of [[e/_extra|extra]] [[d/_difficulty|difficulty]] [[a/_added|added]] to [[a/_another|another]] on an [[e/_examination|examination]] [[p/_paper|paper]].**
-- **An [[o/_old|old]] [[d/_dutch|Dutch]] [[g/_gold|gold]] [[c/_coin|coin]] with the [[f/_figure|figure]] of a [[m/_man|man]] on [[h/_horseback|horseback]] stamped upon it.**
+- **An [[o/_old|old]] [[d/_dutch|Dutch]] [[g/_gold|gold]] [[c/_coin|coin]] with the [[f/_figure|figure]] of a [[m/_man|man]] on [[h/_horseback|horseback]] [[s/_stamped|stamped]] upon it.**
 - **[[r/_rock|Rock]] [[m/_material|material]] in a vein of [[o/_ore|ore]], [[d/_dividing|dividing]] it.**
-- **An [[i/_interior|interior]] [[r/_rib|rib]] [[o/_occasionally|occasionally]] [[f/_fixed|fixed]] in a [[s/_ship|ship]]'[[s/_s|s]] [[h/_hold|hold]], [[r/_reaching|reaching]] from the [[k/_keelson|keelson]] to the [[b/_beams|beams]] of the [[l/_lower|lower]] [[d/_deck|deck]], to strengthen the [[f/_frame|frame]].**
+- **An [[i/_interior|interior]] [[r/_rib|rib]] [[o/_occasionally|occasionally]] [[f/_fixed|fixed]] in a [[s/_ship|ship]]'[[s/_s|s]] [[h/_hold|hold]], [[r/_reaching|reaching]] from the [[k/_keelson|keelson]] to the [[b/_beams|beams]] of the [[l/_lower|lower]] [[d/_deck|deck]], to [[s/_strengthen|strengthen]] the [[f/_frame|frame]].**
 - **The [[s/_second|second]] tier of [[c/_casks|casks]] in a vessel'[[s/_s|s]] [[h/_hold|hold]].**
-- **A [[s/_small|small]] [[f/_forked|forked]] weight which straddles the [[b/_beam|beam]] of a [[b/_balance|balance]], [[a/_along|along]] which it [[c/_can|can]] be [[m/_moved|moved]] in the [[m/_manner|manner]] of the weight on a steelyard.**
+- **A [[s/_small|small]] [[f/_forked|forked]] weight which [[s/_straddles|straddles]] the [[b/_beam|beam]] of a [[b/_balance|balance]], [[a/_along|along]] which it [[c/_can|can]] be [[m/_moved|moved]] in the [[m/_manner|manner]] of the weight on a [[s/_steelyard|steelyard]].**
 - **A [[r/_robber|robber]].**
 - **A [[p/_piece|piece]], such as the [[r/_rook|rook]] or [[b/_bishop|bishop]], which [[m/_moves|moves]] [[a/_any|any]] [[d/_distance|distance]] in [[o/_one|one]] [[d/_direction|direction]], as [[l/_long|long]] as [[n/_no|no]] [[o/_other|other]] [[p/_piece|piece]] is in the way.**
 ---

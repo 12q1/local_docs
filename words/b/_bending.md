@@ -9,7 +9,7 @@
 - **To [[c/_change|change]] [[d/_direction|direction]].**
 	- _Example: The road bends to the right_
 - **To be [[i/_inclined|inclined]]; to [[d/_direct|direct]] [[i/_itself|itself]].**
-- **(usually with "[[d/_down|down]]") To stoop.**
+- **(usually with "[[d/_down|down]]") To [[s/_stoop|stoop]].**
 	- _Example: He bent down to pick up the pieces._
 - **To [[b/_bow|bow]] in [[p/_prayer|prayer]], or in token of submission.**
 - **To [[f/_force|force]] to submit.**

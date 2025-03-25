@@ -1,6 +1,6 @@
 # Gawp
 ---
 #verb
-- **To stare stupidly or [[r/_rudely|rudely]]; to [[g/_gawk|gawk]].**
+- **To [[s/_stare|stare]] [[s/_stupidly|stupidly]] or [[r/_rudely|rudely]]; to [[g/_gawk|gawk]].**
 ---
 ---

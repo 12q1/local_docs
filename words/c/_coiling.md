@@ -5,7 +5,7 @@
 	- _Example: A simple transformer can be made by coiling two pieces of insulated copper wire around an iron heart._
 - **To wind [[i/_into|into]] [[l/_loops|loops]] ([[r/_roughly|roughly]]) [[a/_around|around]] a [[c/_common|common]] [[c/_center|center]].**
 	- _Example: The sailor coiled the free end of the hawser on the pier._
-- **To wind [[c/_cylindrically|cylindrically]] or spirally.**
+- **To wind [[c/_cylindrically|cylindrically]] or [[s/_spirally|spirally]].**
 	- _Example: The snake coiled itself before springing._
 - **To [[e/_encircle|encircle]] and [[h/_hold|hold]] with, or as [[i/_if|if]] with, [[c/_coils|coils]].**
 ---

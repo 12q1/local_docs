@@ -1,21 +1,21 @@
 # Claps
 ---
 #noun
-- **The [[a/_act|act]] of striking the [[p/_palms|palms]] of the [[h/_hands|hands]], or [[a/_any|any]] two surfaces, together.**
+- **The [[a/_act|act]] of [[s/_striking|striking]] the [[p/_palms|palms]] of the [[h/_hands|hands]], or [[a/_any|any]] two surfaces, together.**
 	- _Example: He summoned the waiter with a clap._
 - **The [[e/_explosive|explosive]] [[s/_sound|sound]] of thunder.**
-- **[[a/_any|Any]] [[l/_loud|loud]], sudden, [[e/_explosive|explosive]] [[s/_sound|sound]] [[m/_made|made]] by striking [[h/_hard|hard]] surfaces together, or [[r/_resembling|resembling]] such a [[s/_sound|sound]].**
+- **[[a/_any|Any]] [[l/_loud|loud]], sudden, [[e/_explosive|explosive]] [[s/_sound|sound]] [[m/_made|made]] by [[s/_striking|striking]] [[h/_hard|hard]] surfaces together, or [[r/_resembling|resembling]] such a [[s/_sound|sound]].**
 	- _Example: Off in the distance, he heard the clap of thunder._
 - **A [[s/_slap|slap]] with the [[h/_hand|hand]], usually in a [[j/_jovial|jovial]] [[m/_manner|manner]].**
 	- _Example: His father's affection never went further than a handshake or a clap on the shoulder._
-- **A [[s/_single|single]], sudden [[a/_act|act]] or [[m/_motion|motion]]; a stroke; a [[b/_blow|blow]].**
+- **A [[s/_single|single]], sudden [[a/_act|act]] or [[m/_motion|motion]]; a [[s/_stroke|stroke]]; a [[b/_blow|blow]].**
 - **The [[n/_nether|nether]] [[p/_part|part]] of the [[b/_beak|beak]] of a [[h/_hawk|hawk]].**
 - **A [[d/_dropping|dropping]] of [[c/_cow|cow]] [[d/_dung|dung]] ([[p/_presumably|presumably]] from the [[s/_sound|sound]] [[m/_made|made]] as it [[h/_hits|hits]] the [[g/_ground|ground]])**
 ---
 ### Synonyms
 - [[t/_thunderclap|thunderclap]]
 #verb
-- **To strike the [[p/_palms|palms]] of the [[h/_hands|hands]] together, [[c/_creating|creating]] a [[s/_sharp|sharp]] [[s/_sound|sound]].**
+- **To [[s/_strike|strike]] the [[p/_palms|palms]] of the [[h/_hands|hands]] together, [[c/_creating|creating]] a [[s/_sharp|sharp]] [[s/_sound|sound]].**
 	- _Example: The children began to clap in time with the music._
 - **To [[a/_applaud|applaud]].**
 	- _Example: It isn’t the singers they are clapping; it's the composer._

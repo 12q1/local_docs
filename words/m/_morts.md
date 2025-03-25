@@ -8,7 +8,7 @@
 - **The [[e/_exposed|exposed]] or [[d/_dummy|dummy]] [[h/_hand|hand]] of [[c/_cards|cards]] in the [[g/_game|game]] of [[m/_mort|mort]].**
 ---
 #noun
-- **A [[p/_player|player]] in a [[m/_multi|multi]]-user [[d/_dungeon|dungeon]] who [[d/_does|does]] not [[h/_have|have]] special [[a/_administrator|administrator]] [[p/_privileges|privileges]] and whose [[c/_character|character]] [[c/_can|can]] be [[k/_killed|killed]].**
+- **A [[p/_player|player]] in a [[m/_multi|multi]]-user [[d/_dungeon|dungeon]] who [[d/_does|does]] not [[h/_have|have]] [[s/_special|special]] [[a/_administrator|administrator]] [[p/_privileges|privileges]] and whose [[c/_character|character]] [[c/_can|can]] be [[k/_killed|killed]].**
 ---
 ### Antonyms
 - [[i/_immort|immort]]

@@ -8,7 +8,7 @@
 ### Synonyms
 - [[c/_circulate|circulate]], [[p/_propagate|propagate]], [[s/_spread|spread]]
 #adjective
-- **Spread [[a/_around|around]]; widespread**
-- **Spread [[o/_over|over]] a wide [[a/_area|area]] of the [[b/_body|body]] or of an [[o/_organ|organ]]**
+- **[[s/_spread|Spread]] [[a/_around|around]]; widespread**
+- **[[s/_spread|Spread]] [[o/_over|over]] a wide [[a/_area|area]] of the [[b/_body|body]] or of an [[o/_organ|organ]]**
 ---
 ---

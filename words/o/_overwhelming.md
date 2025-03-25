@@ -17,7 +17,7 @@
 - **A [[s/_situation|situation]] of [[b/_being|being]] [[o/_overwhelmed|overwhelmed]].**
 ---
 #adjective
-- **[[o/_overpowering|Overpowering]], staggering, or [[i/_irresistibly|irresistibly]] strong.**
+- **[[o/_overpowering|Overpowering]], [[s/_staggering|staggering]], or [[i/_irresistibly|irresistibly]] [[s/_strong|strong]].**
 - **Very [[g/_great|great]] or [[i/_intense|intense]].**
 - **[[e/_extreme|Extreme]].**
 ---

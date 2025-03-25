@@ -3,13 +3,13 @@
 #noun
 - **[[s/_something|Something]] that is [[l/_low|low]]; a [[l/_low|low]] [[p/_point|point]].**
 	- _Example: Economic growth has hit a new low._
-- **The [[m/_minimum|minimum]] value [[a/_attained|attained]] by [[s/_some|some]] [[q/_quantity|quantity]] within a specified [[p/_period|period]].**
+- **The [[m/_minimum|minimum]] value [[a/_attained|attained]] by [[s/_some|some]] [[q/_quantity|quantity]] within a [[s/_specified|specified]] [[p/_period|period]].**
 	- _Example: Unemployment has reached a ten-year low._
 - **A [[d/_depressed|depressed]] [[m/_mood|mood]] or [[s/_situation|situation]].**
 	- _Example: He is in a low right now_
 - **An [[a/_area|area]] of [[l/_low|low]] [[p/_pressure|pressure]]; a [[d/_depression|depression]].**
 	- _Example: A deep low is centred over the British Isles._
-- **The [[l/_lowest|lowest]]-speed [[g/_gearing|gearing]] of a [[p/_power|power]]-transmission [[s/_system|system]], [[e/_especially|especially]] of an [[a/_automotive|automotive]] vehicle.**
+- **The [[l/_lowest|lowest]]-[[s/_speed|speed]] [[g/_gearing|gearing]] of a [[p/_power|power]]-transmission [[s/_system|system]], [[e/_especially|especially]] of an [[a/_automotive|automotive]] vehicle.**
 	- _Example: Shift out of low before the car gets to eight miles per hour._
 - **The [[l/_lowest|lowest]] trump, usually the [[d/_deuce|deuce]]; the [[l/_lowest|lowest]] trump [[d/_dealt|dealt]] or [[d/_drawn|drawn]].**
 - **([[s/_slang|slang]]) (usually [[a/_accompanied|accompanied]] by "the") a [[c/_cheap|cheap]], [[c/_cost|cost]]-[[e/_efficient|efficient]], or [[a/_advantageous|advantageous]] [[p/_payment|payment]] or [[e/_expense|expense]].**
@@ -23,7 +23,7 @@
 	- _Example: a low wall  a low shelf_
 - **Of [[l/_less|less]] than [[n/_normal|normal]] [[h/_height|height]]; [[b/_below|below]] the [[a/_average|average]] or [[n/_normal|normal]] [[l/_level|level]] from which [[e/_elevation|elevation]] is [[m/_measured|measured]].**
 	- _Example: a low bow_
-- **Not [[h/_high|high]] in status, [[e/_esteem|esteem]] or [[r/_rank|rank]], [[d/_dignity|dignity]], or [[q/_quality|quality]]. ([[c/_compare|Compare]] vulgar.)**
+- **Not [[h/_high|high]] in [[s/_status|status]], [[e/_esteem|esteem]] or [[r/_rank|rank]], [[d/_dignity|dignity]], or [[q/_quality|quality]]. ([[c/_compare|Compare]] vulgar.)**
 	- _Example: Now that was low even for you!_
 - **[[h/_humble|Humble]], [[m/_meek|meek]], not [[h/_haughty|haughty]].**
 - **[[d/_disparaging|Disparaging]]; [[a/_assigning|assigning]] [[l/_little|little]] value or [[e/_excellence|excellence]].**
@@ -32,7 +32,7 @@
 	- _Example: the low point in her career_
 - **[[d/_depressed|Depressed]] in [[m/_mood|mood]], [[d/_dejected|dejected]], [[s/_sad|sad]].**
 	- _Example: low spirits_
-- **[[l/_lacking|Lacking]] [[h/_health|health]] or vitality, strength or vivacity; [[f/_feeble|feeble]]; weak.**
+- **[[l/_lacking|Lacking]] [[h/_health|health]] or vitality, [[s/_strength|strength]] or vivacity; [[f/_feeble|feeble]]; weak.**
 	- _Example: a low pulse_
 - **[[s/_small|Small]], not [[h/_high|high]] (in [[a/_amount|amount]] or [[q/_quantity|quantity]], value, [[f/_force|force]], [[e/_energy|energy]], [[e/_etc|etc]]).**
 	- _Example: My credit union charges a low interest rate.   Jogging during a whiteout, with such low temperatures and low visibility, is dangerous.   The store sold bread at low prices, and milk at even lower prices.   The contractors gave a low estimate of the costs.   low cholesterol   a low voltage wire   a low number_
@@ -48,7 +48,7 @@
 - **[[l/_lesser|Lesser]] in value than [[o/_other|other]] [[c/_cards|cards]], [[d/_denominations|denominations]], suits, [[e/_etc|etc]].**
 	- _Example: a low card_
 - **Not [[r/_rich|rich]] or [[s/_seasoned|seasoned]]; [[o/_offering|offering]] the [[m/_minimum|minimum]] of [[n/_nutritional|nutritional]] [[r/_requirements|requirements]]; [[p/_plain|plain]], [[s/_simple|simple]].**
-- **(of an [[a/_automobile|automobile]], [[g/_gear|gear]], [[e/_etc|etc]]) [[d/_designed|Designed]] for a [[s/_slow|slow]] (or the [[s/_slowest|slowest]]) speed.**
+- **(of an [[a/_automobile|automobile]], [[g/_gear|gear]], [[e/_etc|etc]]) [[d/_designed|Designed]] for a [[s/_slow|slow]] (or the [[s/_slowest|slowest]]) [[s/_speed|speed]].**
 	- _Example: low gear_
 ---
 ### Synonyms

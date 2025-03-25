@@ -8,11 +8,11 @@
 	- _Example: My coworkers have pretty good English for non-native speakers._
 - **The [[e/_english|English]]-[[l/_language|language]] term or [[e/_expression|expression]] for [[s/_something|something]].**
 	- _Example: What's the English for ‘à peu près’?_
-- **Specific [[l/_language|language]] or wording in [[e/_english|English]]; [[e/_english|English]] text or statements in speech, whether in translation or [[o/_otherwise|otherwise]].**
+- **[[s/_specific|Specific]] [[l/_language|language]] or wording in [[e/_english|English]]; [[e/_english|English]] text or [[s/_statements|statements]] in [[s/_speech|speech]], whether in translation or [[o/_otherwise|otherwise]].**
 	- _Example: The technical details are correct, but much of the English is not very clear._
-- **A [[s/_size|size]] of type [[b/_between|between]] [[p/_pica|pica]] (12 [[p/_point|point]]) and [[g/_great|great]] [[p/_primer|primer]] (18 [[p/_point|point]]), standardized as 14-[[p/_point|point]].**
+- **A [[s/_size|size]] of type [[b/_between|between]] [[p/_pica|pica]] (12 [[p/_point|point]]) and [[g/_great|great]] [[p/_primer|primer]] (18 [[p/_point|point]]), [[s/_standardized|standardized]] as 14-[[p/_point|point]].**
 - **[[p/_plain|Plain]] or [[r/_readily|readily]] understandable [[e/_english|English]] [[l/_language|language]].**
-- **Spin or [[s/_sidespin|sidespin]] [[g/_given|given]] to a [[b/_ball|ball]], [[e/_especially|especially]] in [[p/_pool|pool]] or [[b/_billiards|billiards]].**
+- **[[s/_spin|Spin]] or [[s/_sidespin|sidespin]] [[g/_given|given]] to a [[b/_ball|ball]], [[e/_especially|especially]] in [[p/_pool|pool]] or [[b/_billiards|billiards]].**
 	- _Example: You are trying to put too much English on the ball._
 ---
 ### Synonyms

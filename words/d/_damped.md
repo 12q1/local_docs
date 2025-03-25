@@ -9,7 +9,7 @@
 ### Synonyms
 - [[m/_moisten|moisten]]
 #adjective
-- **(of an [[e/_extinguished|extinguished]] [[f/_fire|fire]]) stopped from [[s/_smouldering|smouldering]] and [[r/_reigniting|reigniting]] by the [[a/_application|application]] of water**
+- **(of an [[e/_extinguished|extinguished]] [[f/_fire|fire]]) [[s/_stopped|stopped]] from [[s/_smouldering|smouldering]] and [[r/_reigniting|reigniting]] by the [[a/_application|application]] of water**
 - **(of a [[l/_linear|linear]] [[d/_dynamic|dynamic]] [[s/_system|system]]) [[p/_possessing|Possessing]] a [[n/_nonzero|nonzero]] [[d/_damping|damping]] [[r/_ratio|ratio]].**
 ---
 ### Antonyms

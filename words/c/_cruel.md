@@ -1,7 +1,7 @@
 # Cruel
 ---
 #verb
-- **To spoil or [[r/_ruin|ruin]] ([[o/_one|one]]'[[s/_s|s]] [[c/_chance|chance]] of success)**
+- **To [[s/_spoil|spoil]] or [[r/_ruin|ruin]] ([[o/_one|one]]'[[s/_s|s]] [[c/_chance|chance]] of success)**
 - **To violently [[p/_provoke|provoke]] (a [[c/_child|child]]) in the [[b/_belief|belief]] that this will [[m/_make|make]] them [[m/_more|more]] [[a/_assertive|assertive]].**
 ---
 #adjective

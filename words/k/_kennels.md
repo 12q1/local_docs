@@ -16,7 +16,7 @@
 - **To [[d/_drive|drive]] (a [[f/_fox|fox]]) to [[c/_covert|covert]] in [[i/_its|its]] [[h/_hole|hole]].**
 ---
 #noun
-- **The [[g/_gutter|gutter]] at the [[e/_edge|edge]] of a street; a surface [[d/_drain|drain]].**
+- **The [[g/_gutter|gutter]] at the [[e/_edge|edge]] of a [[s/_street|street]]; a surface [[d/_drain|drain]].**
 - **A [[p/_puddle|puddle]].**
 ---
 ---

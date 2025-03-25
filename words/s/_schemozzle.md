@@ -1,7 +1,7 @@
 # Schemozzle
 ---
 #noun
-- **A state of [[c/_chaos|chaos]] or [[c/_confusion|confusion]].**
+- **A [[s/_state|state]] of [[c/_chaos|chaos]] or [[c/_confusion|confusion]].**
 - **A [[q/_quarrel|quarrel]] or [[r/_rumpus|rumpus]].**
 ---
 ### Synonyms

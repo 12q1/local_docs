@@ -17,7 +17,7 @@
 	- _Example: His extreme love of model trains showed in the rails that criscrossed his entire home._
 - **[[d/_drastic|Drastic]], or of [[g/_great|great]] [[s/_severity|severity]].**
 	- _Example: I think the new laws are extreme, but many believe them necessary for national security._
-- **Of sports, [[d/_difficult|difficult]] or [[d/_dangerous|dangerous]]; [[p/_performed|performed]] in a [[h/_hazardous|hazardous]] [[e/_environment|environment]].**
+- **Of [[s/_sports|sports]], [[d/_difficult|difficult]] or [[d/_dangerous|dangerous]]; [[p/_performed|performed]] in a [[h/_hazardous|hazardous]] [[e/_environment|environment]].**
 	- _Example: Television has begun to reflect the growing popularity of extreme sports such as bungee jumping and skateboarding._
 - **Ultimate, [[f/_final|final]] or [[l/_last|last]].**
 	- _Example: the extreme hour of life_

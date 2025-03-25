@@ -5,6 +5,6 @@
 	- _Example: It was a sappy love song, but it reminded them of their first dance._
 - **[[h/_having|Having]] (a [[p/_particularly|particularly]] [[l/_large|large]] [[a/_amount|amount]] of) [[s/_sap|sap]].**
 - **[[j/_juicy|Juicy]].**
-- **(of wood) Spongy; [[h/_having|Having]] [[s/_spaces|spaces]] in which [[l/_large|large]] [[q/_quantities|quantities]] of [[s/_sap|sap]] [[c/_can|can]] [[f/_flow|flow]].**
+- **(of wood) [[s/_spongy|Spongy]]; [[h/_having|Having]] [[s/_spaces|spaces]] in which [[l/_large|large]] [[q/_quantities|quantities]] of [[s/_sap|sap]] [[c/_can|can]] [[f/_flow|flow]].**
 ---
 ---

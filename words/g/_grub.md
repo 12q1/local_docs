@@ -1,7 +1,7 @@
 # Grub
 ---
 #noun
-- **An [[i/_immature|immature]] stage in the [[l/_life|life]] [[c/_cycle|cycle]] of an [[i/_insect|insect]]; a [[l/_larva|larva]].**
+- **An [[i/_immature|immature]] [[s/_stage|stage]] in the [[l/_life|life]] [[c/_cycle|cycle]] of an [[i/_insect|insect]]; a [[l/_larva|larva]].**
 - **[[f/_food|Food]].**
 - **A [[s/_short|short]], thick [[m/_man|man]]; a [[d/_dwarf|dwarf]].**
 - **A [[d/_dirty|dirty]] [[p/_person|person]].**

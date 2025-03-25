@@ -5,7 +5,7 @@
 	- _Example: They will laicise each of the schools in the district._
 - **To [[r/_reduce|reduce]] from [[c/_clergy|clergy]] to [[l/_layman|layman]].**
 	- _Example: Due to his controversial views the Vatican decided to laicise the priest._
-- **To [[c/_convert|convert]] to [[l/_lay|lay]] status.**
+- **To [[c/_convert|convert]] to [[l/_lay|lay]] [[s/_status|status]].**
 	- _Example: The soup kitchen laicised, it moved out of the church and registered as an independent non-profit._
 ---
 ---

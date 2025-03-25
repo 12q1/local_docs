@@ -8,7 +8,7 @@
 - **A [[h/_hook|hook]]-[[l/_like|like]] tool used to tear [[a/_away|away]] [[o/_ore|ore]], [[r/_rock|rock]], [[e/_etc|etc]].**
 - **A [[p/_person|person]] [[e/_employed|employed]] to tear [[a/_away|away]] [[o/_ore|ore]], [[r/_rock|rock]], [[e/_etc|etc]]. to [[m/_make|make]] a [[p/_passage|passage]] for [[m/_material|material]] to be [[c/_carried|carried]] to the surface.**
 - **[[s/_something|Something]] that is an [[e/_excellent|excellent]] [[e/_example|example]] of [[i/_its|its]] [[k/_kind|kind]].**
-- **[[s/_software|Software]] that [[e/_extracts|extracts]] [[c/_content|content]] from [[f/_files|files]] or storage [[m/_media|media]].**
+- **[[s/_software|Software]] that [[e/_extracts|extracts]] [[c/_content|content]] from [[f/_files|files]] or [[s/_storage|storage]] [[m/_media|media]].**
 - **A tool or [[p/_plant|plant]] used to [[r/_reduce|reduce]] [[s/_soil|soil]] [[c/_compaction|compaction]].**
 - **A [[h/_hot|hot]] [[d/_dog|dog]] [[d/_deep|deep]]-[[f/_fried|fried]] in [[o/_oil|oil]] until the [[c/_casing|casing]] [[b/_bursts|bursts]].**
 - **A [[f/_foghorn|foghorn]].**

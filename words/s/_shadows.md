@@ -20,7 +20,7 @@
 - **An [[i/_inseparable|inseparable]] [[c/_companion|companion]].**
 - **A [[d/_drop|drop]] [[s/_shadow|shadow]] [[e/_effect|effect]] [[a/_applied|applied]] to [[l/_lettering|lettering]] in word [[p/_processors|processors]] [[e/_etc|etc]].**
 - **An [[i/_influence|influence]], [[e/_especially|especially]] a [[p/_pervasive|pervasive]] or a [[n/_negative|negative]] [[o/_one|one]].**
-- **A spirit; a [[g/_ghost|ghost]]; a [[s/_shade|shade]].**
+- **A [[s/_spirit|spirit]]; a [[g/_ghost|ghost]]; a [[s/_shade|shade]].**
 - **([[l/_latinism|Latinism]]) An uninvited [[g/_guest|guest]] [[a/_accompanying|accompanying]] [[o/_one|one]] who was [[i/_invited|invited]].**
 - **In [[j/_jungian|Jungian]] [[p/_psychology|psychology]], an unconscious [[a/_aspect|aspect]] of the [[p/_personality|personality]].**
 ---

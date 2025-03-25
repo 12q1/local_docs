@@ -9,7 +9,7 @@
 - **To transfer [[l/_legal|legal]] [[r/_rights|rights]] (to).**
 	- _Example: He conveyed ownership of the company to his daughter._
 - **To [[m/_manage|manage]] with [[p/_privacy|privacy]]; to [[c/_carry|carry]] [[o/_out|out]].**
-- **To [[c/_carry|carry]] or take [[a/_away|away]] [[s/_secretly|secretly]]; to steal; to thieve.**
+- **To [[c/_carry|carry]] or take [[a/_away|away]] [[s/_secretly|secretly]]; to [[s/_steal|steal]]; to thieve.**
 ---
 ### Synonyms
 - [[e/_express|express]], [[r/_relay|relay]], [[s/_send|send]], [[c/_carry|carry]], [[t/_transport|transport]], [[a/_accompany|accompany]], [[c/_conduct|conduct]], [[e/_escort|escort]]

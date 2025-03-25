@@ -5,7 +5,7 @@
 	- _Example: Termites will honeycomb a porch made of untreated pine._
 ---
 #adjective
-- **[[h/_having|Having]] a [[p/_perforated|perforated]] structure, [[r/_resembling|resembling]] a [[h/_honeycomb|honeycomb]].**
+- **[[h/_having|Having]] a [[p/_perforated|perforated]] [[s/_structure|structure]], [[r/_resembling|resembling]] a [[h/_honeycomb|honeycomb]].**
 ---
 ### Antonyms
 - [[n/_nonhoneycombed|nonhoneycombed]]

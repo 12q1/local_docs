@@ -1,6 +1,6 @@
 # Marled
 ---
 #adjective
-- **[[m/_mottled|Mottled]], streaked, [[m/_multicoloured|multicoloured]].**
+- **[[m/_mottled|Mottled]], [[s/_streaked|streaked]], [[m/_multicoloured|multicoloured]].**
 ---
 ---

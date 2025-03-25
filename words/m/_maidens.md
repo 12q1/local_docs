@@ -14,7 +14,7 @@
 - **A [[c/_clothes|clothes]] [[m/_maiden|maiden]].**
 - **An unmarried woman, [[e/_especially|especially]] an [[o/_older|older]] woman.**
 - **A [[r/_racehorse|racehorse]] without [[a/_any|any]] victory, [[i/_i|i]].[[e/_e|e]]. [[o/_one|one]] [[h/_having|having]] a "virgin [[r/_record|record]]".**
-- **A [[h/_horse|horse]] [[r/_race|race]] in which [[a/_all|all]] starters are [[m/_maidens|maidens]].**
+- **A [[h/_horse|horse]] [[r/_race|race]] in which [[a/_all|all]] [[s/_starters|starters]] are [[m/_maidens|maidens]].**
 - **A [[s/_scottish|Scottish]] [[c/_counterpart|counterpart]] of the [[g/_guillotine|guillotine]].**
 - **A [[m/_maiden|maiden]] [[o/_over|over]].**
 - **A [[m/_machine|machine]] for washing [[l/_linen|linen]].**

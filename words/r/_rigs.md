@@ -2,11 +2,11 @@
 ---
 #noun
 - **The [[r/_rigging|rigging]] of a [[s/_sailing|sailing]] [[s/_ship|ship]] or [[o/_other|other]] such [[c/_craft|craft]].**
-- **Special [[e/_equipment|equipment]] or [[g/_gear|gear]] used for a [[p/_particular|particular]] [[p/_purpose|purpose]].**
+- **[[s/_special|Special]] [[e/_equipment|equipment]] or [[g/_gear|gear]] used for a [[p/_particular|particular]] [[p/_purpose|purpose]].**
 	- _Example: The climbers each had a different rig for climbing that particular rockface._
 - **A [[l/_large|large]] truck such as a [[s/_semi|semi]]-tractor.**
 	- _Example: Every rig at the truckstop had custom-made mud-flaps._
-- **The special [[a/_apparatus|apparatus]] used for [[d/_drilling|drilling]] wells.**
+- **The [[s/_special|special]] [[a/_apparatus|apparatus]] used for [[d/_drilling|drilling]] wells.**
 - **A [[c/_costume|costume]] or an [[o/_outfit|outfit]].**
 	- _Example: My sister and I always made our own rigs for Halloween._
 - **A [[c/_computer|computer]] [[c/_case|case]], [[o/_often|often]] [[m/_modified|modified]] for [[l/_looks|looks]].**
@@ -22,7 +22,7 @@
 	- _Example: rig up a makeshift shelter_
 - **To [[m/_manipulate|manipulate]] [[s/_something|something]] [[d/_dishonestly|dishonestly]] for [[p/_personal|personal]] [[g/_gain|gain]] or [[d/_discriminatory|discriminatory]] [[p/_purposes|purposes]].**
 	- _Example: to rig an election_
-- **To [[m/_make|make]] [[f/_free|free]] with; [[h/_hence|hence]], to steal; to [[p/_pilfer|pilfer]].**
+- **To [[m/_make|make]] [[f/_free|free]] with; [[h/_hence|hence]], to [[s/_steal|steal]]; to [[p/_pilfer|pilfer]].**
 - **To [[o/_outfit|outfit]] a [[m/_model|model]] with [[c/_controls|controls]] for [[a/_animation|animation]].**
 ---
 #noun
@@ -31,14 +31,14 @@
 #noun
 - **A wanton; [[o/_one|one]] [[g/_given|given]] to unbecoming [[c/_conduct|conduct]].**
 - **A [[p/_promiscuous|promiscuous]] woman.**
-- **A sportive or unbecoming trick; a [[f/_frolic|frolic]].**
+- **A [[s/_sportive|sportive]] or unbecoming trick; a [[f/_frolic|frolic]].**
 - **A [[b/_blast|blast]] of wind.**
 ---
 #verb
 - **To [[p/_play|play]] the wanton; to [[a/_act|act]] in an unbecoming [[m/_manner|manner]]; to [[p/_play|play]] tricks.**
 ---
 #noun
-- **An [[a/_algebraic|algebraic]] structure [[s/_similar|similar]] to a [[r/_ring|ring]], but without the [[r/_requirement|requirement]] that [[e/_every|every]] [[e/_element|element]] [[h/_have|have]] an [[a/_additive|additive]] [[i/_inverse|inverse]].**
+- **An [[a/_algebraic|algebraic]] [[s/_structure|structure]] [[s/_similar|similar]] to a [[r/_ring|ring]], but without the [[r/_requirement|requirement]] that [[e/_every|every]] [[e/_element|element]] [[h/_have|have]] an [[a/_additive|additive]] [[i/_inverse|inverse]].**
 ---
 ### Synonyms
 - [[s/_semiring|semiring]]

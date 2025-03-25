@@ -9,7 +9,7 @@
 - **[[a/_anything|Anything]] that [[a/_acts|acts]] by [[c/_contrast|contrast]] to [[e/_emphasise|emphasise]] the [[c/_characteristics|characteristics]] of [[s/_something|something]].**
 - **A very thin sword with a [[b/_blunted|blunted]] (or [[f/_foiled|foiled]]) tip**
 - **A thin, transparent [[p/_plastic|plastic]] [[m/_material|material]] on which [[m/_marks|marks]] are [[m/_made|made]] and [[p/_projected|projected]] for the [[p/_purposes|purposes]] of [[p/_presentation|presentation]]. [[s/_see|See]] transparency.**
-- **A stylized [[f/_flower|flower]] or [[l/_leaf|leaf]].**
+- **A [[s/_stylized|stylized]] [[f/_flower|flower]] or [[l/_leaf|leaf]].**
 - **A [[h/_hydrofoil|hydrofoil]].**
 - **An [[a/_aerofoil|aerofoil]]/[[a/_airfoil|airfoil]].**
 ---
@@ -27,7 +27,7 @@
 	- _Example: I was foiled by my superior_
 - **To [[p/_prevent|prevent]] ([[s/_someone|someone]]) from [[a/_accomplishing|accomplishing]] [[s/_something|something]].**
 	- _Example: They foiled my plans._
-- **To [[b/_blunt|blunt]]; to [[d/_dull|dull]]; to spoil.**
+- **To [[b/_blunt|blunt]]; to [[d/_dull|dull]]; to [[s/_spoil|spoil]].**
 	- _Example: to foil the scent in hunting_
 - **To tread underfoot; to trample.**
 ---

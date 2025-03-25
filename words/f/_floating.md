@@ -28,9 +28,9 @@
 	- _Example: Increased pressure on Thailand’s currency, the baht, in 1997 led to a crisis that forced the government to float the currency._
 - **To [[e/_extend|extend]] a [[s/_short|short]]-term [[l/_loan|loan]] to.**
 	- _Example: Could you float me $50 until payday?_
-- **To [[i/_issue|issue]] or [[s/_sell|sell]] [[s/_shares|shares]] in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the [[p/_public|public]], [[f/_followed|followed]] by [[l/_listing|listing]] on a stock [[e/_exchange|exchange]].**
+- **To [[i/_issue|issue]] or [[s/_sell|sell]] [[s/_shares|shares]] in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the [[p/_public|public]], [[f/_followed|followed]] by [[l/_listing|listing]] on a [[s/_stock|stock]] [[e/_exchange|exchange]].**
 	- _Example: 2007, Jonathan Reuvid, Floating Your Company: The Essential Guide to Going Public._
-- **To spread [[p/_plaster|plaster]] [[o/_over|over]] (a surface), using the tool [[c/_called|called]] a [[f/_float|float]].**
+- **To [[s/_spread|spread]] [[p/_plaster|plaster]] [[o/_over|over]] (a surface), using the tool [[c/_called|called]] a [[f/_float|float]].**
 - **To use a [[f/_float|float]] ([[r/_rasp|rasp]]-[[l/_like|like]] tool) upon.**
 	- _Example: It is time to float this horse's teeth._
 - **To transport by [[f/_float|float]] (vehicular trailer).**
@@ -40,7 +40,7 @@
 #noun
 - **The [[m/_motion|motion]] of [[s/_something|something]] that [[f/_floats|floats]].**
 - **(in the [[p/_plural|plural]]) [[m/_material|Material]] that [[f/_floats|floats]] in a [[l/_liquid|liquid]].**
-- **The spreading of [[p/_plaster|plaster]] on the surface of walls.**
+- **The [[s/_spreading|spreading]] of [[p/_plaster|plaster]] on the surface of walls.**
 ---
 #adjective
 - **That [[f/_floats|floats]] or [[f/_float|float]].**

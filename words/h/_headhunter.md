@@ -6,7 +6,7 @@
 	- _Example: She was the best headhunter they had ever seen._
 - **A [[p/_pitcher|pitcher]] who throws at the [[b/_batter|batter]]'[[s/_s|s]] [[h/_head|head]].**
 	- _Example: Thankfully, there aren't many headhunters in the modern game._
-- **A [[p/_player|player]] who uses a [[h/_hockey|hockey]] stick to [[a/_attempt|attempt]] to strike an [[o/_opponent|opponent]]'[[s/_s|s]] [[h/_head|head]].**
+- **A [[p/_player|player]] who uses a [[h/_hockey|hockey]] [[s/_stick|stick]] to [[a/_attempt|attempt]] to [[s/_strike|strike]] an [[o/_opponent|opponent]]'[[s/_s|s]] [[h/_head|head]].**
 	- _Example: He is known as a goon and a headhunter._
 ---
 ---

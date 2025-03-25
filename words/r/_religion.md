@@ -1,7 +1,7 @@
 # Religion
 ---
 #noun
-- **[[b/_belief|Belief]] in a spiritual or [[m/_metaphysical|metaphysical]] [[r/_reality|reality]] ([[o/_often|often]] [[i/_including|including]] at [[l/_least|least]] [[o/_one|one]] [[d/_deity|deity]]), [[a/_accompanied|accompanied]] by [[p/_practices|practices]] or [[r/_rituals|rituals]] [[p/_pertaining|pertaining]] to the [[b/_belief|belief]].**
+- **[[b/_belief|Belief]] in a [[s/_spiritual|spiritual]] or [[m/_metaphysical|metaphysical]] [[r/_reality|reality]] ([[o/_often|often]] [[i/_including|including]] at [[l/_least|least]] [[o/_one|one]] [[d/_deity|deity]]), [[a/_accompanied|accompanied]] by [[p/_practices|practices]] or [[r/_rituals|rituals]] [[p/_pertaining|pertaining]] to the [[b/_belief|belief]].**
 	- _Example: My brother tends to value religion, but my sister not as much._
 - **A [[p/_particular|particular]] [[s/_system|system]] of such [[b/_belief|belief]], and the [[r/_rituals|rituals]] and [[p/_practices|practices]] [[p/_proper|proper]] to it.**
 	- _Example: Eckankar is a new religion but Zoroastrianism is an old religion._
@@ -17,7 +17,7 @@
 - [[f/_faith|faith]], [[f/_faith|faith]], [[s/_superstition|superstition]]
 #verb
 - **[[e/_engage|Engage]] in [[r/_religious|religious]] [[p/_practice|practice]].**
-- **[[i/_indoctrinate|Indoctrinate]] [[i/_into|into]] a specific [[r/_religion|religion]].**
+- **[[i/_indoctrinate|Indoctrinate]] [[i/_into|into]] a [[s/_specific|specific]] [[r/_religion|religion]].**
 - **To [[m/_make|make]] [[s/_sacred|sacred]] or [[s/_symbolic|symbolic]]; [[s/_sanctify|sanctify]].**
 ---
 ---

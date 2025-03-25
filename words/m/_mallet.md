@@ -6,9 +6,9 @@
 - **A weapon [[r/_resembling|resembling]] the tool, but typically [[m/_much|much]] [[l/_larger|larger]].**
 - **A [[s/_small|small]] [[h/_hammer|hammer]]-[[l/_like|like]] tool used for [[p/_playing|playing]] [[c/_certain|certain]] [[m/_musical|musical]] [[i/_instruments|instruments]].**
 - **A [[l/_light|light]] [[b/_beetle|beetle]] with a [[l/_long|long]] [[h/_handle|handle]] used in [[p/_playing|playing]] [[c/_croquet|croquet]].**
-- **The stick used to strike the [[b/_ball|ball]] in the sport of [[p/_polo|polo]].**
+- **The [[s/_stick|stick]] used to [[s/_strike|strike]] the [[b/_ball|ball]] in the [[s/_sport|sport]] of [[p/_polo|polo]].**
 ---
 #verb
-- **To [[b/_beat|beat]] or strike with a [[m/_mallet|mallet]].**
+- **To [[b/_beat|beat]] or [[s/_strike|strike]] with a [[m/_mallet|mallet]].**
 ---
 ---

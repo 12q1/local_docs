@@ -1,7 +1,7 @@
 # Persisting
 ---
 #verb
-- **To [[g/_go|go]] on stubbornly or [[r/_resolutely|resolutely]].**
+- **To [[g/_go|go]] on [[s/_stubbornly|stubbornly]] or [[r/_resolutely|resolutely]].**
 - **To [[r/_repeat|repeat]] an utterance.**
 - **To [[c/_continue|continue]] to [[e/_exist|exist]].**
 - **To [[c/_continue|continue]] to be; to [[r/_remain|remain]].**

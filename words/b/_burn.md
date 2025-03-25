@@ -7,12 +7,12 @@
 	- _Example: chili burn from eating hot peppers_
 - **The [[a/_act|act]] of [[b/_burning|burning]] [[s/_something|something]] with [[f/_fire|fire]].**
 	- _Example: They're doing a controlled burn of the fields._
-- **An [[i/_intense|intense]] [[n/_non|non]]-[[p/_physical|physical]] sting, as [[l/_left|left]] by [[s/_shame|shame]] or an [[e/_effective|effective]] [[i/_insult|insult]].**
+- **An [[i/_intense|intense]] [[n/_non|non]]-[[p/_physical|physical]] [[s/_sting|sting]], as [[l/_left|left]] by [[s/_shame|shame]] or an [[e/_effective|effective]] [[i/_insult|insult]].**
 - **An [[e/_effective|effective]] [[i/_insult|insult]], [[o/_often|often]] in the [[e/_expression|expression]] [[s/_sick|sick]] [[b/_burn|burn]] ([[e/_excellent|excellent]] or [[b/_badass|badass]] [[i/_insult|insult]]).**
-- **[[p/_physical|Physical]] [[s/_sensation|sensation]] in the [[m/_muscles|muscles]] [[f/_following|following]] strenuous [[e/_exercise|exercise]], [[c/_caused|caused]] by [[b/_build|build]]-up of [[l/_lactic|lactic]] [[a/_acid|acid]].**
+- **[[p/_physical|Physical]] [[s/_sensation|sensation]] in the [[m/_muscles|muscles]] [[f/_following|following]] [[s/_strenuous|strenuous]] [[e/_exercise|exercise]], [[c/_caused|caused]] by [[b/_build|build]]-up of [[l/_lactic|lactic]] [[a/_acid|acid]].**
 	- _Example: One and, two and, keep moving; feel the burn!_
 - **Tobacco.**
-- **The writing of [[d/_data|data]] to a [[p/_permanent|permanent]] storage [[m/_medium|medium]] [[l/_like|like]] a [[c/_compact|compact]] [[d/_disc|disc]] or a [[r/_rom|ROM]] [[c/_chip|chip]].**
+- **The writing of [[d/_data|data]] to a [[p/_permanent|permanent]] [[s/_storage|storage]] [[m/_medium|medium]] [[l/_like|like]] a [[c/_compact|compact]] [[d/_disc|disc]] or a [[r/_rom|ROM]] [[c/_chip|chip]].**
 - **The [[o/_operation|operation]] or [[r/_result|result]] of [[b/_burning|burning]] or [[b/_baking|baking]], as in [[b/_brickmaking|brickmaking]].**
 	- _Example: They have a good burn._
 - **A [[d/_disease|disease]] in vegetables; [[b/_brand|brand]].**
@@ -41,7 +41,7 @@
 	- _Example: A human being burns a certain amount of carbon at each respiration.  to burn iron in oxygen_
 - **To [[c/_combine|combine]] [[e/_energetically|energetically]], with [[e/_evolution|evolution]] of [[h/_heat|heat]].**
 	- _Example: Copper burns in chlorine._
-- **To write [[d/_data|data]] to a [[p/_permanent|permanent]] storage [[m/_medium|medium]] [[l/_like|like]] a [[c/_compact|compact]] [[d/_disc|disc]] or a [[r/_rom|ROM]] [[c/_chip|chip]].**
+- **To write [[d/_data|data]] to a [[p/_permanent|permanent]] [[s/_storage|storage]] [[m/_medium|medium]] [[l/_like|like]] a [[c/_compact|compact]] [[d/_disc|disc]] or a [[r/_rom|ROM]] [[c/_chip|chip]].**
 	- _Example: We’ll burn this program onto an EEPROM one hour before the demo begins._
 - **To [[b/_betray|betray]].**
 	- _Example: The informant burned him._
@@ -51,10 +51,10 @@
 	- _Example: The company has burned more than a million dollars a month this year._
 - **In [[c/_certain|certain]] [[g/_games|games]], to [[a/_approach|approach]] [[n/_near|near]] to a [[c/_concealed|concealed]] [[o/_object|object]] which is [[s/_sought|sought]].**
 	- _Example: You're cold... warm... hot... you're burning!_
-- **To [[a/_accidentally|accidentally]] touch a [[m/_moving|moving]] stone.**
+- **To [[a/_accidentally|accidentally]] touch a [[m/_moving|moving]] [[s/_stone|stone]].**
 - **In [[p/_pontoon|pontoon]], to swap a [[p/_pair|pair]] of [[c/_cards|cards]] for [[a/_another|another]] [[p/_pair|pair]], or to [[d/_deal|deal]] a [[d/_dead|dead]] [[c/_card|card]].**
 - **To [[i/_increase|increase]] the [[e/_exposure|exposure]] for [[c/_certain|certain]] [[a/_areas|areas]] of a [[p/_print|print]] in [[o/_order|order]] to [[m/_make|make]] them [[l/_lighter|lighter]] ([[c/_compare|compare]] [[d/_dodge|dodge]]).**
-- **(of an [[e/_element|element]]) To be [[c/_converted|converted]] to [[a/_another|another]] [[e/_element|element]] in a [[n/_nuclear|nuclear]] [[f/_fusion|fusion]] [[r/_reaction|reaction]], [[e/_especially|especially]] in a star**
+- **(of an [[e/_element|element]]) To be [[c/_converted|converted]] to [[a/_another|another]] [[e/_element|element]] in a [[n/_nuclear|nuclear]] [[f/_fusion|fusion]] [[r/_reaction|reaction]], [[e/_especially|especially]] in a [[s/_star|star]]**
 - **To [[d/_discard|discard]].**
 - **To [[s/_shoot|shoot]] [[s/_someone|someone]] with a [[f/_firearm|firearm]].**
 ---

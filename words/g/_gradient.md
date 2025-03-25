@@ -11,7 +11,7 @@
 ### Synonyms
 - [[a/_angular|angular]], [[c/_coefficient|coefficient]], [[s/_slope|slope]], [[h/_hill|hill]], [[i/_incline|incline]], [[r/_ramp|ramp]], [[s/_slope|slope]]
 #adjective
-- **[[m/_moving|Moving]] by steps; walking.**
+- **[[m/_moving|Moving]] by [[s/_steps|steps]]; walking.**
 	- _Example: gradient automata_
 - **[[r/_rising|Rising]] or [[d/_descending|descending]] by [[r/_regular|regular]] [[d/_degrees|degrees]] of [[i/_inclination|inclination]].**
 	- _Example: the gradient line of a railroad_

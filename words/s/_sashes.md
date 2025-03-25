@@ -9,7 +9,7 @@
 #noun
 - **The [[o/_opening|opening]] [[p/_part|part]] ([[c/_casement|casement]]) of a window usually [[c/_containing|containing]] the [[g/_glass|glass]] [[p/_panes|panes]], [[h/_hinged|hinged]] to the [[j/_jamb|jamb]], or [[s/_sliding|sliding]] up and [[d/_down|down]] as in a [[s/_sash|sash]] window.**
 - **A draggable vertical or [[h/_horizontal|horizontal]] [[b/_bar|bar]] used to [[a/_adjust|adjust]] the [[r/_relative|relative]] [[s/_sizes|sizes]] of two [[a/_adjacent|adjacent]] windows.**
-- **In a [[s/_sawmill|sawmill]], the [[r/_rectangular|rectangular]] [[f/_frame|frame]] in which the [[s/_saw|saw]] is strained and by which it is [[c/_carried|carried]] up and [[d/_down|down]] with a [[r/_reciprocating|reciprocating]] [[m/_motion|motion]]; the [[g/_gate|gate]].**
+- **In a [[s/_sawmill|sawmill]], the [[r/_rectangular|rectangular]] [[f/_frame|frame]] in which the [[s/_saw|saw]] is [[s/_strained|strained]] and by which it is [[c/_carried|carried]] up and [[d/_down|down]] with a [[r/_reciprocating|reciprocating]] [[m/_motion|motion]]; the [[g/_gate|gate]].**
 ---
 ### Synonyms
 - [[s/_splitter|splitter]]

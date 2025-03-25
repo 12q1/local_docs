@@ -10,8 +10,8 @@
 #verb
 - **To wrench ([[s/_something|something]]) [[o/_out|out]].**
 - **To wake up.**
-- **To spring, start, [[m/_make|make]] a sudden [[m/_movement|movement]].**
+- **To [[s/_spring|spring]], [[s/_start|start]], [[m/_make|make]] a sudden [[m/_movement|movement]].**
 - **To [[s/_shout|shout]] [[o/_out|out]].**
-- **To [[r/_rise|rise]] in the stomach with [[n/_nausea|nausea]].**
+- **To [[r/_rise|rise]] in the [[s/_stomach|stomach]] with [[n/_nausea|nausea]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_any|Any]] [[f/_flight|flight]] [[f/_feather|feather]] [[a/_attached|attached]] to the ulna ([[f/_forearm|forearm]]) of a [[b/_bird|bird]].**
-- **An [[a/_act|act]] of [[i/_issuing|issuing]] [[m/_more|more]] stock by an [[a/_already|already]] [[p/_publicly|publicly]] traded [[c/_corporation|corporation]].**
+- **An [[a/_act|act]] of [[i/_issuing|issuing]] [[m/_more|more]] [[s/_stock|stock]] by an [[a/_already|already]] [[p/_publicly|publicly]] traded [[c/_corporation|corporation]].**
 - **The [[d/_defensive|defensive]] [[b/_backs|backs]].**
 - **An [[i/_inductive|inductive]] [[c/_coil|coil]] or [[l/_loop|loop]] that is [[m/_magnetically|magnetically]] [[p/_powered|powered]] by a [[p/_primary|primary]] in a transformer or [[s/_similar|similar]]**
 - **[[o/_one|One]] who [[o/_occupies|occupies]] a subordinate or [[a/_auxiliary|auxiliary]] [[p/_place|place]]; a [[d/_delegate|delegate]] [[d/_deputy|deputy]].**
@@ -22,7 +22,7 @@
 - **[[d/_developed|Developed]] by [[p/_pressure|pressure]] or [[o/_other|other]] [[c/_causes|causes]].**
 	- _Example: secondary cleavage_
 - **[[p/_pertaining|Pertaining]] to the [[s/_second|second]] [[j/_joint|joint]] of the wing of a [[b/_bird|bird]].**
-- **[[d/_dependent|Dependent]] or [[c/_consequent|consequent]] upon [[a/_another|another]] [[d/_disease|disease]], or [[o/_occurring|occurring]] in the [[s/_second|second]] stage of a [[d/_disease|disease]].**
+- **[[d/_dependent|Dependent]] or [[c/_consequent|consequent]] upon [[a/_another|another]] [[d/_disease|disease]], or [[o/_occurring|occurring]] in the [[s/_second|second]] [[s/_stage|stage]] of a [[d/_disease|disease]].**
 	- _Example: Bright's disease is often secondary to scarlet fever._
 - **Of [[l/_less|less]] than [[p/_primary|primary]] [[i/_importance|importance]].**
 	- _Example: a secondary issue_
@@ -30,6 +30,6 @@
 - **[[r/_relating|Relating]] to the [[m/_manufacture|manufacture]] of [[g/_goods|goods]] from [[r/_raw|raw]] [[m/_materials|materials]].**
 - **(of a [[c/_color|color]]) [[f/_formed|Formed]] by [[m/_mixing|mixing]] [[p/_primary|primary]] [[c/_colors|colors]].**
 	- _Example: Yellow is a secondary light color, though a primary CMYK color._
-- **[[r/_representing|Representing]] a [[r/_reversion|reversion]] to an [[a/_ancestral|ancestral]] state.**
+- **[[r/_representing|Representing]] a [[r/_reversion|reversion]] to an [[a/_ancestral|ancestral]] [[s/_state|state]].**
 ---
 ---

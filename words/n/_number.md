@@ -14,13 +14,13 @@
 - **A [[s/_sequence|sequence]] of [[d/_digits|digits]] and [[l/_letters|letters]] used to [[r/_register|register]] [[p/_people|people]], [[a/_automobiles|automobiles]], and various [[o/_other|other]] [[i/_items|items]].**
 	- _Example: Her passport number is C01X864TN._
 - **A telephone [[n/_number|number]].**
-- **([[g/_grammar|grammar]]) Of a word or [[p/_phrase|phrase]], the state of [[b/_being|being]] [[s/_singular|singular]], [[d/_dual|dual]] or [[p/_plural|plural]], [[s/_shown|shown]] by [[i/_inflection|inflection]].**
+- **([[g/_grammar|grammar]]) Of a word or [[p/_phrase|phrase]], the [[s/_state|state]] of [[b/_being|being]] [[s/_singular|singular]], [[d/_dual|dual]] or [[p/_plural|plural]], [[s/_shown|shown]] by [[i/_inflection|inflection]].**
 	- _Example: Adjectives and nouns should agree in gender, number, and case._
 - **(in the [[p/_plural|plural]]) [[p/_poetic|Poetic]] [[m/_metres|metres]]; verses, [[r/_rhymes|rhymes]].**
 - **A [[p/_performance|performance]]; [[e/_especially|especially]], a [[s/_single|single]] [[s/_song|song]] or [[s/_song|song]] and [[d/_dance|dance]] [[r/_routine|routine]] within a [[l/_larger|larger]] [[s/_show|show]].**
 	- _Example: For his second number, he sang "The Moon Shines Bright"._
 - **A [[p/_person|person]].**
-- **An [[i/_item|item]] of [[c/_clothing|clothing]], [[p/_particularly|particularly]] a stylish [[o/_one|one]].**
+- **An [[i/_item|item]] of [[c/_clothing|clothing]], [[p/_particularly|particularly]] a [[s/_stylish|stylish]] [[o/_one|one]].**
 - **A [[m/_marijuana|marijuana]] [[c/_cigarette|cigarette]], or [[j/_joint|joint]]; [[a/_also|also]], a [[q/_quantity|quantity]] of [[m/_marijuana|marijuana]] [[b/_bought|bought]] [[f/_form|form]] a [[d/_dealer|dealer]].**
 - **An [[i/_issue|issue]] of a [[p/_periodical|periodical]] [[p/_publication|publication]].**
 	- _Example: the latest number of a magazine_

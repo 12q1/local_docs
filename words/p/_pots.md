@@ -7,7 +7,7 @@
 - **[[r/_ruin|Ruin]] or [[d/_deterioration|deterioration]].**
 	- _Example: After his arrest, his prospects went to pot._
 - **An [[i/_iron|iron]] [[h/_hat|hat]] with a [[b/_broad|broad]] [[b/_brim|brim]] worn as a [[h/_helmet|helmet]].**
-- **A [[p/_pot|pot]]-[[s/_shaped|shaped]] [[n/_non|non]]-[[c/_conducting|conducting]] (usually [[c/_ceramic|ceramic]]) stand that supports an [[e/_electrified|electrified]] [[r/_rail|rail]] while [[i/_insulating|insulating]] it from the [[g/_ground|ground]].**
+- **A [[p/_pot|pot]]-[[s/_shaped|shaped]] [[n/_non|non]]-[[c/_conducting|conducting]] (usually [[c/_ceramic|ceramic]]) [[s/_stand|stand]] that supports an [[e/_electrified|electrified]] [[r/_rail|rail]] while [[i/_insulating|insulating]] it from the [[g/_ground|ground]].**
 - **The [[m/_money|money]] [[a/_available|available]] to be won in a [[h/_hand|hand]] of [[p/_poker|poker]] or a [[r/_round|round]] of [[o/_other|other]] [[g/_games|games]] of [[c/_chance|chance]]; [[a/_any|any]] sum of [[m/_money|money]] [[b/_being|being]] used as an [[e/_enticement|enticement]].**
 - **A [[f/_favorite|favorite]]: a [[h/_heavily|heavily]]-[[b/_backed|backed]] [[h/_horse|horse]].**
 - **A [[p/_plaster|plaster]] [[c/_cast|cast]].**
@@ -39,7 +39,7 @@
 ---
 #noun
 - **A [[l/_large|large]], swollen, or [[p/_protruding|protruding]] [[a/_abdomen|abdomen]]; a [[p/_paunch|paunch]].**
-- **A [[p/_potbelly|potbelly]] stove.**
+- **A [[p/_potbelly|potbelly]] [[s/_stove|stove]].**
 - **A Vietnamese [[p/_pot|Pot]]-[[b/_bellied|bellied]] [[p/_pig|pig]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Immature
 ---
 #noun
-- **An [[i/_immature|immature]] [[m/_member|member]] of a species.**
+- **An [[i/_immature|immature]] [[m/_member|member]] of a [[s/_species|species]].**
 ---
 #adjective
 - **[[o/_occurring|Occurring]] [[b/_before|before]] the [[p/_proper|proper]] time; untimely, [[p/_premature|premature]] ([[e/_especially|especially]] of [[d/_death|death]]).**

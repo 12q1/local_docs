@@ -1,6 +1,6 @@
 # Yarning
 ---
 #verb
-- **To tell a story or stories.**
+- **To tell a [[s/_story|story]] or [[s/_stories|stories]].**
 ---
 ---

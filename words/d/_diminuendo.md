@@ -11,6 +11,6 @@
 ### Antonyms
 - [[c/_crescendo|crescendo]]
 #adverb
-- **[[p/_played|Played]] in this style**
+- **[[p/_played|Played]] in this [[s/_style|style]]**
 ---
 ---

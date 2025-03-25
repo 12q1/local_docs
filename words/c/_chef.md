@@ -12,6 +12,6 @@
 - [[m/_magirist|magirist]], [[m/_magirologist|magirologist]]
 #verb
 - **To work as a [[c/_chef|chef]]; to [[p/_prepare|prepare]] and [[c/_cook|cook]] [[f/_food|food]] [[p/_professionally|professionally]].**
-- **To stab with a [[k/_knife|knife]], to [[s/_shank|shank]], to [[l/_lacerate|lacerate]] with a [[r/_rambo|rambo]].**
+- **To [[s/_stab|stab]] with a [[k/_knife|knife]], to [[s/_shank|shank]], to [[l/_lacerate|lacerate]] with a [[r/_rambo|rambo]].**
 ---
 ---

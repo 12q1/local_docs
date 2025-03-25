@@ -9,7 +9,7 @@
 - **To [[e/_enclose|enclose]] with [[p/_pales|pales]], or as [[i/_if|if]] with [[p/_pales|pales]]; to [[e/_encircle|encircle]] or [[e/_encompass|encompass]]; to [[f/_fence|fence]] [[o/_off|off]].**
 ---
 #noun
-- **A [[p/_pointed|pointed]] stick used to [[m/_make|make]] a [[f/_fence|fence]].**
+- **A [[p/_pointed|pointed]] [[s/_stick|stick]] used to [[m/_make|make]] a [[f/_fence|fence]].**
 - **A [[f/_fence|fence]] [[m/_made|made]] of [[p/_palings|palings]].**
 - **A [[f/_fence|fence]] [[m/_made|made]] of [[g/_galvanized|galvanized]] [[s/_sheeting|sheeting]].**
 ---

@@ -8,17 +8,17 @@
 - **A [[r/_room|room]] in a [[p/_prison|prison]] or [[j/_jail|jail]] for [[o/_one|one]] or [[m/_more|more]] [[i/_inmates|inmates]].**
 	- _Example: The combatants spent the night in separate cells._
 - **[[e/_each|Each]] of the [[s/_small|small]] [[h/_hexagonal|hexagonal]] [[c/_compartments|compartments]] in a [[h/_honeycomb|honeycomb]].**
-- **[[a/_any|Any]] of various [[c/_chambers|chambers]] in a tissue or [[o/_organism|organism]] [[h/_having|having]] specific [[f/_functions|functions]].**
+- **[[a/_any|Any]] of various [[c/_chambers|chambers]] in a tissue or [[o/_organism|organism]] [[h/_having|having]] [[s/_specific|specific]] [[f/_functions|functions]].**
 - **The [[d/_discal|discal]] [[c/_cell|cell]] of the wing of a [[l/_lepidopteran|lepidopteran]] [[i/_insect|insect]].**
-- **Specifically, [[a/_any|any]] of the supposed [[c/_compartments|compartments]] of the [[b/_brain|brain]], [[f/_formerly|formerly]] thought to be the [[s/_source|source]] of specific [[m/_mental|mental]] [[c/_capacities|capacities]], [[k/_knowledge|knowledge]], or [[m/_memories|memories]].**
-- **A [[s/_section|section]] or [[c/_compartment|compartment]] of a [[l/_larger|larger]] structure.**
+- **[[s/_specifically|Specifically]], [[a/_any|any]] of the supposed [[c/_compartments|compartments]] of the [[b/_brain|brain]], [[f/_formerly|formerly]] thought to be the [[s/_source|source]] of [[s/_specific|specific]] [[m/_mental|mental]] [[c/_capacities|capacities]], [[k/_knowledge|knowledge]], or [[m/_memories|memories]].**
+- **A [[s/_section|section]] or [[c/_compartment|compartment]] of a [[l/_larger|larger]] [[s/_structure|structure]].**
 - **[[a/_any|Any]] [[s/_small|small]] [[d/_dwelling|dwelling]]; a [[r/_remote|remote]] [[n/_nook|nook]], a [[d/_den|den]].**
-- **A [[d/_device|device]] which stores [[e/_electrical|electrical]] [[p/_power|power]]; used [[e/_either|either]] [[s/_singly|singly]] or together in [[b/_batteries|batteries]]; the [[b/_basic|basic]] unit of a [[b/_battery|battery]].**
+- **A [[d/_device|device]] which [[s/_stores|stores]] [[e/_electrical|electrical]] [[p/_power|power]]; used [[e/_either|either]] [[s/_singly|singly]] or together in [[b/_batteries|batteries]]; the [[b/_basic|basic]] unit of a [[b/_battery|battery]].**
 	- _Example: This MP3 player runs on 2 AAA cells._
 - **The [[b/_basic|basic]] unit of a [[l/_living|living]] [[o/_organism|organism]], [[c/_consisting|consisting]] of a [[q/_quantity|quantity]] of [[p/_protoplasm|protoplasm]] surrounded by a [[c/_cell|cell]] [[m/_membrane|membrane]], which is [[a/_able|able]] to [[s/_synthesize|synthesize]] [[p/_proteins|proteins]] and [[r/_replicate|replicate]] [[i/_itself|itself]].**
-- **A [[s/_small|small]] thunderstorm, [[c/_caused|caused]] by [[c/_convection|convection]], that [[f/_forms|forms]] [[a/_ahead|ahead]] of a storm [[f/_front|front]].**
+- **A [[s/_small|small]] thunderstorm, [[c/_caused|caused]] by [[c/_convection|convection]], that [[f/_forms|forms]] [[a/_ahead|ahead]] of a [[s/_storm|storm]] [[f/_front|front]].**
 	- _Example: There is a powerful storm cell headed our way._
-- **The [[m/_minimal|minimal]] unit of a [[c/_cellular|cellular]] [[a/_automaton|automaton]] that [[c/_can|can]] [[c/_change|change]] state and [[h/_has|has]] an [[a/_associated|associated]] [[b/_behavior|behavior]].**
+- **The [[m/_minimal|minimal]] unit of a [[c/_cellular|cellular]] [[a/_automaton|automaton]] that [[c/_can|can]] [[c/_change|change]] [[s/_state|state]] and [[h/_has|has]] an [[a/_associated|associated]] [[b/_behavior|behavior]].**
 	- _Example: The upper right cell always starts with the color green._
 - **In FreeCell-type [[g/_games|games]], a [[s/_space|space]] where [[o/_one|one]] [[c/_card|card]] [[c/_can|can]] be [[p/_placed|placed]].**
 - **A [[s/_small|small]] [[g/_group|group]] of [[p/_people|people]] [[f/_forming|forming]] [[p/_part|part]] of a [[l/_larger|larger]] [[o/_organization|organization]], [[o/_often|often]] an [[o/_outlawed|outlawed]] [[o/_one|one]].**
@@ -28,7 +28,7 @@
 - **([[c/_communication|communication]]) A [[r/_region|region]] of [[r/_radio|radio]] [[r/_reception|reception]] that is a [[p/_part|part]] of a [[l/_larger|larger]] [[r/_radio|radio]] [[n/_network|network]].**
 	- _Example: I get good reception in my home because it is near a cell tower._
 - **A three-[[d/_dimensional|dimensional]] [[f/_facet|facet]] of a [[p/_polytope|polytope]].**
-- **The unit in a statistical [[a/_array|array]] (a spreadsheet, for [[e/_example|example]]) where a [[r/_row|row]] and a [[c/_column|column]] [[i/_intersect|intersect]].**
+- **The unit in a [[s/_statistical|statistical]] [[a/_array|array]] (a [[s/_spreadsheet|spreadsheet]], for [[e/_example|example]]) where a [[r/_row|row]] and a [[c/_column|column]] [[i/_intersect|intersect]].**
 - **The [[s/_space|space]] [[b/_between|between]] the [[r/_ribs|ribs]] of a vaulted [[r/_roof|roof]].**
 - **A [[c/_cella|cella]].**
 - **An [[a/_area|area]] of an [[i/_insect|insect]] wing [[b/_bounded|bounded]] by veins**

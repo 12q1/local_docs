@@ -1,15 +1,15 @@
 # Loading
 ---
 #verb
-- **To [[p/_put|put]] a [[l/_load|load]] on or in (a [[m/_means|means]] of [[c/_conveyance|conveyance]] or a [[p/_place|place]] of storage).**
+- **To [[p/_put|put]] a [[l/_load|load]] on or in (a [[m/_means|means]] of [[c/_conveyance|conveyance]] or a [[p/_place|place]] of [[s/_storage|storage]]).**
 	- _Example: The dock workers refused to load the ship._
-- **To [[p/_place|place]] in or on a [[c/_conveyance|conveyance]] or a [[p/_place|place]] of storage.**
+- **To [[p/_place|place]] in or on a [[c/_conveyance|conveyance]] or a [[p/_place|place]] of [[s/_storage|storage]].**
 	- _Example: He loaded his stuff into his storage locker._
 - **To [[p/_put|put]] a [[l/_load|load]] on [[s/_something|something]].**
 	- _Example: The truck was supposed to leave at dawn, but in fact we spent all morning loading._
 - **To [[r/_receive|receive]] a [[l/_load|load]].**
 	- _Example: The truck is designed to load easily._
-- **To be [[p/_placed|placed]] [[i/_into|into]] storage or [[c/_conveyance|conveyance]].**
+- **To be [[p/_placed|placed]] [[i/_into|into]] [[s/_storage|storage]] or [[c/_conveyance|conveyance]].**
 	- _Example: The containers load quickly and easily._
 - **To [[f/_fill|fill]] (a [[f/_firearm|firearm]] or [[a/_artillery|artillery]]) with [[m/_munition|munition]].**
 	- _Example: I pulled the trigger, but nothing happened. I had forgotten to load the gun._
@@ -19,9 +19,9 @@
 	- _Example: The workers loaded the blast furnace with coke and ore._
 - **To be [[p/_put|put]] [[i/_into|into]] use in an [[a/_apparatus|apparatus]].**
 	- _Example: The cartridge was designed to load easily._
-- **To [[r/_read|read]] ([[d/_data|data]] or a [[p/_program|program]]) from a storage [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
+- **To [[r/_read|read]] ([[d/_data|data]] or a [[p/_program|program]]) from a [[s/_storage|storage]] [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
 	- _Example: Click OK to load the selected data._
-- **To transfer from a storage [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
+- **To transfer from a [[s/_storage|storage]] [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
 	- _Example: This program takes an age to load._
 - **To [[p/_put|put]] [[r/_runners|runners]] on [[f/_first|first]], [[s/_second|second]] and third [[b/_bases|bases]]**
 	- _Example: He walks to load the bases._

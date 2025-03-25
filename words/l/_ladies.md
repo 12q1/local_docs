@@ -31,7 +31,7 @@
 - **A [[q/_queen|queen]] (the [[p/_playing|playing]] [[c/_card|card]]).**
 - **(with a [[p/_professional|professional]] title) Who is a woman.**
 	- _Example: A lady doctor._
-- **The triturating [[a/_apparatus|apparatus]] in the stomach of a [[l/_lobster|lobster]], [[c/_consisting|consisting]] of [[c/_calcareous|calcareous]] [[p/_plates|plates]]; [[s/_so|so]] [[c/_called|called]] from a [[f/_fancied|fancied]] [[r/_resemblance|resemblance]] to a [[s/_seated|seated]] [[f/_female|female]] [[f/_figure|figure]].**
+- **The triturating [[a/_apparatus|apparatus]] in the [[s/_stomach|stomach]] of a [[l/_lobster|lobster]], [[c/_consisting|consisting]] of [[c/_calcareous|calcareous]] [[p/_plates|plates]]; [[s/_so|so]] [[c/_called|called]] from a [[f/_fancied|fancied]] [[r/_resemblance|resemblance]] to a [[s/_seated|seated]] [[f/_female|female]] [[f/_figure|figure]].**
 - **A [[f/_five|five]]-[[p/_pound|pound]] [[n/_note|note]]. ([[r/_rhyming|Rhyming]] [[s/_slang|slang]], [[l/_lady|Lady]] [[g/_godiva|Godiva]] for [[f/_fiver|fiver]].)**
 - **A woman’[[s/_s|s]] [[b/_breast|breast]].**
 ---

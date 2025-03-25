@@ -1,7 +1,7 @@
 # Protesting
 ---
 #verb
-- **To [[m/_make|make]] a strong [[o/_objection|objection]].**
+- **To [[m/_make|make]] a [[s/_strong|strong]] [[o/_objection|objection]].**
 	- _Example: How dare you, I protest!_
 - **To [[a/_affirm|affirm]] ([[s/_something|something]]).**
 	- _Example: I do protest and declare …_

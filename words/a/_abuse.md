@@ -5,7 +5,7 @@
 	- _Example: All abuse, whether physical, verbal, psychological or sexual, is bad._
 - **[[m/_misuse|Misuse]]; [[i/_improper|improper]] use; [[p/_perversion|perversion]].**
 - **A [[d/_delusion|delusion]]; an [[i/_imposture|imposture]]; [[m/_misrepresentation|misrepresentation]]; [[d/_deception|deception]].**
-- **[[c/_coarse|Coarse]], [[i/_insulting|insulting]] speech; [[a/_abusive|abusive]] [[l/_language|language]]; [[l/_language|language]] that unjustly or [[a/_angrily|angrily]] vilifies.**
+- **[[c/_coarse|Coarse]], [[i/_insulting|insulting]] [[s/_speech|speech]]; [[a/_abusive|abusive]] [[l/_language|language]]; [[l/_language|language]] that unjustly or [[a/_angrily|angrily]] vilifies.**
 - **[[c/_catachresis|Catachresis]].**
 - **[[p/_physical|Physical]] [[m/_maltreatment|maltreatment]]; [[i/_injury|injury]]; [[c/_cruel|cruel]] treatment.**
 - **Violation; [[d/_defilement|defilement]]; [[r/_rape|rape]]; [[f/_forcing|forcing]] of undesired [[s/_sexual|sexual]] [[a/_activity|activity]] by [[o/_one|one]] [[p/_person|person]] on [[a/_another|another]], [[o/_often|often]] on a [[r/_repeated|repeated]] [[b/_basis|basis]].**

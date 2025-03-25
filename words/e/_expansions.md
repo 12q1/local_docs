@@ -9,7 +9,7 @@
 - **A [[p/_product|product]] to be used with a [[p/_previous|previous]] [[p/_product|product]].**
 	- _Example: This expansion requires the original game board._
 - **That which is [[e/_expanded|expanded]]; [[e/_expanse|expanse]]; [[e/_extended|extended]] surface.**
-- **(steam [[e/_engines|engines]]) The [[o/_operation|operation]] of steam in a [[c/_cylinder|cylinder]] [[a/_after|after]] [[i/_its|its]] [[c/_communication|communication]] with the [[b/_boiler|boiler]] [[h/_has|has]] [[b/_been|been]] [[c/_cut|cut]] [[o/_off|off]], by which it [[c/_continues|continues]] to [[e/_exert|exert]] [[p/_pressure|pressure]] upon the [[m/_moving|moving]] [[p/_piston|piston]].**
+- **([[s/_steam|steam]] [[e/_engines|engines]]) The [[o/_operation|operation]] of [[s/_steam|steam]] in a [[c/_cylinder|cylinder]] [[a/_after|after]] [[i/_its|its]] [[c/_communication|communication]] with the [[b/_boiler|boiler]] [[h/_has|has]] [[b/_been|been]] [[c/_cut|cut]] [[o/_off|off]], by which it [[c/_continues|continues]] to [[e/_exert|exert]] [[p/_pressure|pressure]] upon the [[m/_moving|moving]] [[p/_piston|piston]].**
 ---
 ### Antonyms
 - [[c/_contraction|contraction]], [[s/_shrinkage|shrinkage]]

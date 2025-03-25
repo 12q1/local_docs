@@ -12,18 +12,18 @@
 	- _Example: Bob's a real video-game freak. He owns every games console of the last ten years._
 - **([[s/_sometimes|sometimes]] [[a/_affectionate|affectionate]]) A very [[s/_sexually|sexually]] [[p/_perverse|perverse]] [[i/_individual|individual]].**
 	- _Example: She's a freak in the sack!_
-- **A streak of [[c/_colour|colour]]; variegation.**
+- **A [[s/_streak|streak]] of [[c/_colour|colour]]; variegation.**
 ---
 ### Synonyms
 - [[d/_druggie|druggie]], [[u/_user|user]], [[f/_fanatic|fanatic]], [[g/_geek|geek]], [[l/_longhair|longhair]], [[t/_treehugger|treehugger]], [[a/_anomaly|anomaly]], [[o/_outlier|outlier]], [[w/_weirdo|weirdo]], [[h/_hypersexual|hypersexual]], [[p/_pervert|pervert]], [[s/_superciliary|superciliary]], [[v/_vein|vein]], [[c/_caprice|caprice]], [[f/_fancy|fancy]], [[c/_caprice|caprice]], [[v/_vagary|vagary]], [[w/_whim|whim]]
 #verb
 - **To [[m/_make|make]] [[g/_greatly|greatly]] [[d/_distressed|distressed]] and/or a [[d/_discomposed|discomposed]] [[a/_appearance|appearance]]**
 - **To be [[p/_placed|placed]] or [[p/_place|place]] [[s/_someone|someone]] under the [[i/_influence|influence]] of a [[p/_psychedelic|psychedelic]] [[d/_drug|drug]]**
-- **To streak; to variegate**
+- **To [[s/_streak|streak]]; to variegate**
 - **To [[e/_experience|experience]] [[r/_reality|reality]] withdrawal, or [[h/_hallucinations|hallucinations]] ([[n/_nightmarish|nightmarish]]), to [[b/_behave|behave]] [[i/_irrational|irrational]] or unconventional [[d/_due|due]] to [[d/_drug|drug]] use.**
 - **To [[r/_react|react]] [[e/_extremely|extremely]] or [[i/_irrationally|irrationally]], usually under [[d/_distress|distress]] or [[d/_discomposure|discomposure]]**
 ---
 #adjective
-- **Strange, weird, unexpected**
+- **[[s/_strange|Strange]], weird, unexpected**
 ---
 ---

@@ -1,14 +1,14 @@
 # Slower
 ---
 #adjective
-- **Taking a [[l/_long|long]] time to [[m/_move|move]] or [[g/_go|go]] a [[s/_short|short]] [[d/_distance|distance]], or to [[p/_perform|perform]] an [[a/_action|action]]; not [[q/_quick|quick]] in [[m/_motion|motion]]; [[p/_proceeding|proceeding]] at a [[l/_low|low]] speed.**
+- **Taking a [[l/_long|long]] time to [[m/_move|move]] or [[g/_go|go]] a [[s/_short|short]] [[d/_distance|distance]], or to [[p/_perform|perform]] an [[a/_action|action]]; not [[q/_quick|quick]] in [[m/_motion|motion]]; [[p/_proceeding|proceeding]] at a [[l/_low|low]] [[s/_speed|speed]].**
 	- _Example: a slow train;  a slow computer_
-- **Not [[h/_happening|happening]] in a [[s/_short|short]] time; spread [[o/_over|over]] a [[c/_comparatively|comparatively]] [[l/_long|long]] time.**
+- **Not [[h/_happening|happening]] in a [[s/_short|short]] time; [[s/_spread|spread]] [[o/_over|over]] a [[c/_comparatively|comparatively]] [[l/_long|long]] time.**
 - **Of [[r/_reduced|reduced]] [[i/_intellectual|intellectual]] [[c/_capacity|capacity]]; not [[q/_quick|quick]] to [[c/_comprehend|comprehend]].**
 - **Not [[h/_hasty|hasty]]; not tending to [[h/_hurry|hurry]]; [[a/_acting|acting]] with [[d/_deliberation|deliberation]] or [[c/_caution|caution]].**
 - **(of a [[c/_clock|clock]] or the [[l/_like|like]]) [[b/_behind|Behind]] in time; [[i/_indicating|indicating]] a time [[e/_earlier|earlier]] than the true time.**
 	- _Example: That clock is slow._
-- **[[l/_lacking|Lacking]] spirit; [[d/_deficient|deficient]] in [[l/_liveliness|liveliness]] or [[b/_briskness|briskness]].**
+- **[[l/_lacking|Lacking]] [[s/_spirit|spirit]]; [[d/_deficient|deficient]] in [[l/_liveliness|liveliness]] or [[b/_briskness|briskness]].**
 - **(of a [[p/_period|period]] of time) Not [[b/_busy|busy]]; [[l/_lacking|lacking]] [[a/_activity|activity]].**
 	- _Example: I'm just sitting here with a desk of cards, enjoying a slow afternoon._
 ---

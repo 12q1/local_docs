@@ -14,7 +14,7 @@
 	- _Example: I am indifferent between the two plans._
 - **Not [[m/_making|making]] a [[d/_difference|difference]]; without [[s/_significance|significance]] or [[i/_importance|importance]].**
 	- _Example: Even if one appliance consumes an indifferent amount of energy when left on stand-by overnight, together they can represent 10% of the electricity demand of a household._
-- **[[b/_being|Being]] in the state of [[n/_neutral|neutral]] [[e/_equilibrium|equilibrium]].**
+- **[[b/_being|Being]] in the [[s/_state|state]] of [[n/_neutral|neutral]] [[e/_equilibrium|equilibrium]].**
 - **Not [[d/_different|different]], [[m/_matching|matching]].**
 ---
 #adverb

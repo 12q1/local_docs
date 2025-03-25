@@ -1,7 +1,7 @@
 # Pasties
 ---
 #noun
-- **An [[i/_item|item]] worn ([[o/_often|often]] by strippers) to [[c/_conceal|conceal]] [[o/_one|one]]'[[s/_s|s]] [[n/_nipples|nipples]].**
+- **An [[i/_item|item]] worn ([[o/_often|often]] by [[s/_strippers|strippers]]) to [[c/_conceal|conceal]] [[o/_one|one]]'[[s/_s|s]] [[n/_nipples|nipples]].**
 ---
 #noun
 - **A type of [[s/_seasoned|seasoned]] [[m/_meat|meat]] [[p/_pie|pie]], usually of a [[s/_semicircular|semicircular]] or [[d/_distinctive|distinctive]] [[s/_shape|shape]].**

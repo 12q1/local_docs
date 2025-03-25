@@ -2,9 +2,9 @@
 ---
 #noun
 - **[[s/_something|Something]] that is [[n/_number|number]] two in a [[s/_series|series]].**
-- **[[s/_something|Something]] that is [[n/_next|next]] in [[r/_rank|rank]], [[q/_quality|quality]], [[p/_precedence|precedence]], [[p/_position|position]], status, or [[a/_authority|authority]].**
+- **[[s/_something|Something]] that is [[n/_next|next]] in [[r/_rank|rank]], [[q/_quality|quality]], [[p/_precedence|precedence]], [[p/_position|position]], [[s/_status|status]], or [[a/_authority|authority]].**
 - **The [[p/_place|place]] that is [[n/_next|next]] [[b/_below|below]] or [[a/_after|after]] [[f/_first|first]] in a [[r/_race|race]] or [[c/_contest|contest]].**
-- **(usually in the [[p/_plural|plural]]) A [[m/_manufactured|manufactured]] [[i/_item|item]] that, though still usable, [[f/_fails|fails]] to [[m/_meet|meet]] [[q/_quality|quality]] [[c/_control|control]] standards.**
+- **(usually in the [[p/_plural|plural]]) A [[m/_manufactured|manufactured]] [[i/_item|item]] that, though [[s/_still|still]] usable, [[f/_fails|fails]] to [[m/_meet|meet]] [[q/_quality|quality]] [[c/_control|control]] [[s/_standards|standards]].**
 	- _Example: They were discounted because they contained blemishes, nicks or were otherwise factory seconds._
 - **(usually in the [[p/_plural|plural]]) An [[a/_additional|additional]] [[h/_helping|helping]] of [[f/_food|food]].**
 	- _Example: That was good barbecue. I hope I can get seconds._

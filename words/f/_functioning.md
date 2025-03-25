@@ -14,7 +14,7 @@
 ---
 #adjective
 - **[[f/_functional|Functional]], working**
-- **(of a [[p/_person|person]]) [[m/_mentally|Mentally]] [[d/_disabled|disabled]] but still [[a/_able|able]] to survive in wider [[s/_society|society]].**
+- **(of a [[p/_person|person]]) [[m/_mentally|Mentally]] [[d/_disabled|disabled]] but [[s/_still|still]] [[a/_able|able]] to survive in wider [[s/_society|society]].**
 	- _Example: Oh, he looked pretty functioning to me._
 ---
 ### Synonyms

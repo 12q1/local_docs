@@ -4,7 +4,7 @@
 - **To [[r/_roll|roll]] or [[f/_fold|fold]] up; to wind [[r/_round|round]]; to [[e/_entwine|entwine]].**
 - **To [[e/_envelop|envelop]] [[c/_completely|completely]]; to surround; to [[c/_cover|cover]]; to [[h/_hide|hide]].**
 	- _Example: to involve in darkness or obscurity_
-- **To [[c/_complicate|complicate]] or [[m/_make|make]] [[i/_intricate|intricate]], as in [[g/_grammatical|grammatical]] structure.**
+- **To [[c/_complicate|complicate]] or [[m/_make|make]] [[i/_intricate|intricate]], as in [[g/_grammatical|grammatical]] [[s/_structure|structure]].**
 - **To [[c/_connect|connect]] with [[s/_something|something]] as a [[n/_natural|natural]] or [[l/_logical|logical]] [[c/_consequence|consequence]] or [[e/_effect|effect]]; to [[i/_include|include]] [[n/_necessarily|necessarily]]; to [[i/_imply|imply]].**
 - **To take in; to [[g/_gather|gather]] in; to [[m/_mingle|mingle]] [[c/_confusedly|confusedly]]; to [[b/_blend|blend]] or [[m/_merge|merge]].**
 - **To [[e/_envelop|envelop]], [[e/_enfold|enfold]], [[e/_entangle|entangle]].**

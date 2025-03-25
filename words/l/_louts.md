@@ -8,6 +8,6 @@
 - **To treat as a [[l/_lout|lout]] or [[f/_fool|fool]]; to [[n/_neglect|neglect]]; to [[d/_disappoint|disappoint]].**
 ---
 #verb
-- **To [[b/_bend|bend]], [[b/_bow|bow]], stoop.**
+- **To [[b/_bend|bend]], [[b/_bow|bow]], [[s/_stoop|stoop]].**
 ---
 ---

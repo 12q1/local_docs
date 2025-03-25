@@ -3,7 +3,7 @@
 #noun
 - **A type, [[r/_race|race]] or [[c/_category|category]]; a [[g/_group|group]] of [[e/_entities|entities]] that [[h/_have|have]] [[c/_common|common]] [[c/_characteristics|characteristics]] such that they [[m/_may|may]] be [[g/_grouped|grouped]] together.**
 	- _Example: This is a strange kind of tobacco._
-- **A [[m/_makeshift|makeshift]] or [[o/_otherwise|otherwise]] [[a/_atypical|atypical]] specimen.**
+- **A [[m/_makeshift|makeshift]] or [[o/_otherwise|otherwise]] [[a/_atypical|atypical]] [[s/_specimen|specimen]].**
 	- _Example: The opening served as a kind of window._
 - **[[o/_one|One]]'[[s/_s|s]] [[i/_inherent|inherent]] [[n/_nature|nature]]; [[c/_character|character]], [[n/_natural|natural]] [[d/_disposition|disposition]].**
 - **[[f/_family|Family]], [[l/_lineage|lineage]].**

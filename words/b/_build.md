@@ -1,17 +1,17 @@
 # Build
 ---
 #noun
-- **The [[p/_physique|physique]] of a [[h/_human|human]] [[b/_body|body]]; [[c/_constitution|constitution]] or structure of a [[h/_human|human]] [[b/_body|body]].**
+- **The [[p/_physique|physique]] of a [[h/_human|human]] [[b/_body|body]]; [[c/_constitution|constitution]] or [[s/_structure|structure]] of a [[h/_human|human]] [[b/_body|body]].**
 	- _Example: Rugby players are of sturdy build._
 - **[[a/_any|Any]] of various versions of a [[s/_software|software]] [[p/_product|product]] as it is [[b/_being|being]] [[d/_developed|developed]] for [[r/_release|release]] to users.**
 	- _Example: The computer company has introduced a new prototype build to beta testers._
-- **[[a/_any|Any]] structure, such as a [[b/_building|building]], statue, [[p/_pool|pool]] or [[f/_forest|forest]], [[c/_created|created]] by the [[p/_player|player]].**
+- **[[a/_any|Any]] [[s/_structure|structure]], such as a [[b/_building|building]], [[s/_statue|statue]], [[p/_pool|pool]] or [[f/_forest|forest]], [[c/_created|created]] by the [[p/_player|player]].**
 	- _Example: I made a build that looked like the Parthenon in that game._
 ---
 #verb
 - **To [[f/_form|form]] ([[s/_something|something]]) by [[c/_combining|combining]] [[m/_materials|materials]] or [[p/_parts|parts]].**
 - **To [[d/_develop|develop]] or [[g/_give|give]] [[f/_form|form]] to ([[s/_something|something]]) [[a/_according|according]] to a [[p/_plan|plan]] or [[p/_process|process]].**
-- **To [[i/_increase|increase]] or strengthen ([[s/_something|something]]) by [[a/_adding|adding]] [[g/_gradually|gradually]] to.**
+- **To [[i/_increase|increase]] or [[s/_strengthen|strengthen]] ([[s/_something|something]]) by [[a/_adding|adding]] [[g/_gradually|gradually]] to.**
 - **To [[e/_establish|establish]] a [[b/_basis|basis]] for ([[s/_something|something]]).**
 - **To [[f/_form|form]] by [[c/_combining|combining]] [[m/_materials|materials]] or [[p/_parts|parts]].**
 - **To [[d/_develop|develop]] in [[m/_magnitude|magnitude]] or [[e/_extent|extent]].**

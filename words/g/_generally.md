@@ -5,7 +5,7 @@
 	- _Example: It is generally known that the Earth is round._
 - **As a [[r/_rule|rule]]; usually.**
 	- _Example: I generally have a walk in the afternoon._
-- **Without [[r/_reference|reference]] to specific [[d/_details|details]].**
+- **Without [[r/_reference|reference]] to [[s/_specific|specific]] [[d/_details|details]].**
 	- _Example: Generally speaking …_
 - **[[c/_collectively|Collectively]]; as a whole; without [[o/_omissions|omissions]].**
 ---

@@ -1,7 +1,7 @@
 # Jurisprudence
 ---
 #noun
-- **The theoretical study of [[l/_law|law]].**
+- **The theoretical [[s/_study|study]] of [[l/_law|law]].**
 ---
 ### Synonyms
 - 

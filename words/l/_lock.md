@@ -8,7 +8,7 @@
 - **[[c/_complete|Complete]] [[c/_control|control]] [[o/_over|over]] a [[s/_situation|situation]].**
 - **[[s/_something|Something]] sure to be a success.**
 - **A [[p/_player|player]] in the [[s/_scrum|scrum]] [[b/_behind|behind]] the [[f/_front|front]] [[r/_row|row]], usually the tallest [[m/_members|members]] of the team.**
-- **A [[f/_fastening|fastening]] together or [[i/_interlacing|interlacing]]; a [[c/_closing|closing]] of [[o/_one|one]] thing upon [[a/_another|another]]; a state of [[b/_being|being]] [[f/_fixed|fixed]] or [[i/_immovable|immovable]].**
+- **A [[f/_fastening|fastening]] together or [[i/_interlacing|interlacing]]; a [[c/_closing|closing]] of [[o/_one|one]] thing upon [[a/_another|another]]; a [[s/_state|state]] of [[b/_being|being]] [[f/_fixed|fixed]] or [[i/_immovable|immovable]].**
 - **A [[p/_place|place]] from which [[e/_egress|egress]] is [[p/_prevented|prevented]], as by a [[l/_lock|lock]].**
 - **A [[d/_device|device]] for [[k/_keeping|keeping]] a wheel from turning.**
 - **A [[g/_grapple|grapple]] in wrestling.**

@@ -12,7 +12,7 @@
 - **[[d/_distinctly|Distinctly]] [[m/_marked|marked]] [[o/_off|off]].**
 	- _Example: an articulate period in history_
 - **[[e/_expressed|Expressed]] in [[a/_articles|articles]] or in [[s/_separate|separate]] [[i/_items|items]] or [[p/_particulars|particulars]].**
-- **(of [[s/_sound|sound]]) [[r/_related|Related]] to [[h/_human|human]] speech, as [[d/_distinct|distinct]] from the vocalisation of [[a/_animals|animals]].**
+- **(of [[s/_sound|sound]]) [[r/_related|Related]] to [[h/_human|human]] [[s/_speech|speech]], as [[d/_distinct|distinct]] from the vocalisation of [[a/_animals|animals]].**
 ---
 ### Synonyms
 - [[e/_eloquent|eloquent]], [[w/_well-spoken|well-spoken]]

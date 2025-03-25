@@ -8,7 +8,7 @@
 - **A [[n/_narrow|narrow]] [[b/_boat|boat]].**
 ---
 #noun
-- **A stab.**
+- **A [[s/_stab|stab]].**
 ---
 #noun
 - **[[a/_any|Any]] of various [[f/_flowers|flowers]] in the [[g/_genus|genus]] [[d/_dianthus|Dianthus]], [[s/_sometimes|sometimes]] [[c/_called|called]] [[c/_carnations|carnations]].**

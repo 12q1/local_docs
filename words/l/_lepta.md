@@ -5,6 +5,6 @@
 - **A [[s/_small|small]], [[b/_bronze|bronze]] [[j/_judean|Judean]] [[c/_coin|coin]] from the 1st [[c/_century|century]] [[b/_b|B]].[[c/_c|C]].[[e/_e|E]]., [[c/_considered|considered]] by [[s/_some|some]] to be the widow'[[s/_s|s]] [[m/_mite|mite]].**
 ---
 #noun
-- **An [[e/_elementary|elementary]] [[p/_particle|particle]] that [[h/_has|has]] a spin of 1/2 ([[i/_i|i]].[[e/_e|e]]., is a [[f/_fermion|fermion]]) and [[d/_does|does]] not [[i/_interact|interact]] via the strong [[n/_nuclear|nuclear]] [[f/_force|force]]; [[e/_examples|examples]] [[i/_include|include]] the [[e/_electron|electron]], the [[m/_muon|muon]], the [[n/_neutrino|neutrino]] and the tauon.**
+- **An [[e/_elementary|elementary]] [[p/_particle|particle]] that [[h/_has|has]] a [[s/_spin|spin]] of 1/2 ([[i/_i|i]].[[e/_e|e]]., is a [[f/_fermion|fermion]]) and [[d/_does|does]] not [[i/_interact|interact]] via the [[s/_strong|strong]] [[n/_nuclear|nuclear]] [[f/_force|force]]; [[e/_examples|examples]] [[i/_include|include]] the [[e/_electron|electron]], the [[m/_muon|muon]], the [[n/_neutrino|neutrino]] and the tauon.**
 ---
 ---

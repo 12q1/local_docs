@@ -1,8 +1,8 @@
 # Roundhouses
 ---
 #noun
-- **A [[c/_circular|circular]] [[p/_prison|prison]], [[e/_especially|especially]] a [[s/_small|small]] [[l/_local|local]] [[l/_lockup|lockup]] or station [[h/_house|house]].**
-- **The uppermost [[r/_room|room]] or [[c/_cabin|cabin]] of [[a/_any|any]] [[n/_note|note]] upon the stern of a [[s/_ship|ship]].**
+- **A [[c/_circular|circular]] [[p/_prison|prison]], [[e/_especially|especially]] a [[s/_small|small]] [[l/_local|local]] [[l/_lockup|lockup]] or [[s/_station|station]] [[h/_house|house]].**
+- **The uppermost [[r/_room|room]] or [[c/_cabin|cabin]] of [[a/_any|any]] [[n/_note|note]] upon the [[s/_stern|stern]] of a [[s/_ship|ship]].**
 - **A [[p/_privy|privy]] [[n/_near|near]] the [[b/_bow|bow]] of a vessel, [[e/_especially|especially]] as [[r/_reserved|reserved]] for [[o/_officers|officers]].**
 - **A [[c/_circular|circular]] [[b/_building|building]] in which [[l/_locomotives|locomotives]] are [[h/_housed|housed]].**
 - **A [[p/_prehistoric|prehistoric]] [[d/_dwelling|dwelling]] typical of [[n/_northwest|northwest]] [[e/_europe|Europe]] in the [[i/_iron|Iron]] [[a/_age|Age]] and [[b/_bronze|Bronze]] [[a/_age|Age]].**

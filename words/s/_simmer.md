@@ -1,7 +1,7 @@
 # Simmer
 ---
 #noun
-- **The state or [[p/_process|process]] of [[s/_simmering|simmering]].**
+- **The [[s/_state|state]] or [[p/_process|process]] of [[s/_simmering|simmering]].**
 	- _Example: The kettle was kept on the simmer._
 ---
 #verb

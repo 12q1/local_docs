@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[o/_one|One]] who or that which [[h/_hops|hops]].**
-- **A temporary storage [[b/_bin|bin]], [[f/_filled|filled]] from the top and [[e/_emptied|emptied]] from the [[b/_bottom|bottom]], [[o/_often|often]] [[f/_funnel|funnel]]-[[s/_shaped|shaped]].**
+- **A temporary [[s/_storage|storage]] [[b/_bin|bin]], [[f/_filled|filled]] from the top and [[e/_emptied|emptied]] from the [[b/_bottom|bottom]], [[o/_often|often]] [[f/_funnel|funnel]]-[[s/_shaped|shaped]].**
 - **A [[f/_funnel|funnel]]-[[s/_shaped|shaped]] [[s/_section|section]] at the top of a [[d/_drainpipe|drainpipe]] used to [[c/_collect|collect]] water, from [[a/_above|above]], from [[o/_one|one]] or [[m/_more|more]] [[s/_smaller|smaller]] [[d/_drainpipes|drainpipes]].**
 - **A [[d/_device|device]] that [[f/_feeds|feeds]] [[m/_material|material]] [[i/_into|into]] a [[m/_machine|machine]].**
 - **Various [[i/_insects|insects]]**
@@ -17,6 +17,6 @@
 - **A [[p/_person|person]] or [[m/_machine|machine]] that [[p/_picks|picks]] [[h/_hops|hops]].**
 ---
 #noun
-- **A Sri Lankan [[f/_food|food]] [[m/_made|made]] from a [[f/_fermented|fermented]] [[b/_batter|batter]] of [[r/_rice|rice]] [[f/_flour|flour]], [[c/_coconut|coconut]] [[m/_milk|milk]], and [[p/_palm|palm]] toddy or [[y/_yeast|yeast]].**
+- **A [[s/_sri|Sri]] Lankan [[f/_food|food]] [[m/_made|made]] from a [[f/_fermented|fermented]] [[b/_batter|batter]] of [[r/_rice|rice]] [[f/_flour|flour]], [[c/_coconut|coconut]] [[m/_milk|milk]], and [[p/_palm|palm]] toddy or [[y/_yeast|yeast]].**
 ---
 ---

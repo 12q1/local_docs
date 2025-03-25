@@ -4,9 +4,9 @@
 - **A [[m/_moving|moving]] [[d/_disturbance|disturbance]], or undulation, in the surface of a [[f/_fluid|fluid]].**
 	- _Example: I dropped a small stone into the pond and watched the ripples spread._
 - **A [[s/_sound|sound]] [[s/_similar|similar]] to that of undulating water.**
-- **A style of [[i/_ice|ice]] [[c/_cream|cream]] in which [[f/_flavors|flavors]] [[h/_have|have]] [[b/_been|been]] [[c/_coarsely|coarsely]] [[b/_blended|blended]] together.**
+- **A [[s/_style|style]] of [[i/_ice|ice]] [[c/_cream|cream]] in which [[f/_flavors|flavors]] [[h/_have|have]] [[b/_been|been]] [[c/_coarsely|coarsely]] [[b/_blended|blended]] together.**
 	- _Example: I enjoy fudge ripple ice cream, but I especially like to dig through the carton to get at the ripple part and eat only that._
-- **A [[s/_small|small]] [[o/_oscillation|oscillation]] of an [[o/_otherwise|otherwise]] steady [[s/_signal|signal]].**
+- **A [[s/_small|small]] [[o/_oscillation|oscillation]] of an [[o/_otherwise|otherwise]] [[s/_steady|steady]] [[s/_signal|signal]].**
 ---
 #verb
 - **To [[m/_move|move]] [[l/_like|like]] the undulating surface of a [[b/_body|body]] of water; to undulate.**

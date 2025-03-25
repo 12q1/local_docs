@@ -7,7 +7,7 @@
 - **([[g/_grammar|grammar]]) To vary the [[f/_form|form]] of a word to [[e/_express|express]] tense, [[g/_gender|gender]], [[n/_number|number]], [[m/_mood|mood]], [[e/_etc|etc]].**
 - **([[g/_grammar|grammar]], of a word) To be varied in the [[f/_form|form]] to [[e/_express|express]] tense, [[g/_gender|gender]], [[n/_number|number]], [[m/_mood|mood]], [[e/_etc|etc]].**
 	- _Example: In Latin, adjectives and nouns inflect a lot, but inflection is minimally found in Modern English._
-- **To [[i/_influence|influence]] in style.**
+- **To [[i/_influence|influence]] in [[s/_style|style]].**
 	- _Example: No other poet has inflected me in style as much as Milton._
 ---
 ### Synonyms

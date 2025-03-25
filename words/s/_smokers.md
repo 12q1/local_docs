@@ -9,8 +9,8 @@
 - **An [[i/_illicit|illicit]] [[b/_boxing|boxing]] [[m/_match|match]]; [[s/_see|see]] Wikipedia:[[b/_battle|Battle]] [[r/_royal|Royal]] ([[b/_boxing|boxing]]).**
 - **A [[d/_device|device]] that [[r/_releases|releases]] [[s/_smoke|smoke]] [[i/_intended|intended]] to [[d/_distract|distract]] [[b/_bees|bees]]; a [[b/_bee|bee]] [[s/_smoker|smoker]].**
 - **A [[p/_person|person]] or an [[a/_apparatus|apparatus]] that [[s/_smokes|smokes]] [[f/_food|food]].**
-- **A two-stroke [[e/_engine|engine]].**
-- **(by [[e/_extension|extension]]) [[a/_any|Any]] vehicle with a two-stroke [[e/_engine|engine]], [[e/_especially|especially]] a [[m/_motorcycle|motorcycle]], as [[o/_opposed|opposed]] to a [[f/_four|four]]-stroke [[m/_motorcycle|motorcycle]] or stroker.**
+- **A two-[[s/_stroke|stroke]] [[e/_engine|engine]].**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] vehicle with a two-[[s/_stroke|stroke]] [[e/_engine|engine]], [[e/_especially|especially]] a [[m/_motorcycle|motorcycle]], as [[o/_opposed|opposed]] to a [[f/_four|four]]-[[s/_stroke|stroke]] [[m/_motorcycle|motorcycle]] or [[s/_stroker|stroker]].**
 - **A [[f/_fastball|fastball]].**
 ---
 ### Antonyms

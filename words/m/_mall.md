@@ -1,7 +1,7 @@
 # Mall
 ---
 #noun
-- **A [[p/_pedestrianised|pedestrianised]] street, [[e/_especially|especially]] a [[s/_shopping|shopping]] [[p/_precinct|precinct]].**
+- **A [[p/_pedestrianised|pedestrianised]] [[s/_street|street]], [[e/_especially|especially]] a [[s/_shopping|shopping]] [[p/_precinct|precinct]].**
 - **An [[e/_enclosed|enclosed]] [[s/_shopping|shopping]] [[c/_centre|centre]].**
 - **An [[a/_alley|alley]] where the [[g/_game|game]] of [[p/_pall|pall]] [[m/_mall|mall]] was [[p/_played|played]].**
 - **A [[p/_public|public]] walk; a [[l/_level|level]] [[s/_shaded|shaded]] walk, a [[p/_promenade|promenade]].**

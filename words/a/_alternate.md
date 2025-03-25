@@ -22,7 +22,7 @@
 	- _Example: the alternate members 1, 3, 5, 7, etc._
 - **[[o/_other|Other]]; [[a/_alternative|alternative]].**
 	- _Example: He lives in an alternate universe and an alternate reality._
-- **(of [[l/_leaves|leaves]]) [[d/_distributed|Distributed]] [[s/_singly|singly]] at [[d/_different|different]] [[h/_heights|heights]] of the stem, and at [[e/_equal|equal]] [[i/_intervals|intervals]] as [[r/_respects|respects]] [[a/_angular|angular]] [[d/_divergence|divergence]].**
+- **(of [[l/_leaves|leaves]]) [[d/_distributed|Distributed]] [[s/_singly|singly]] at [[d/_different|different]] [[h/_heights|heights]] of the [[s/_stem|stem]], and at [[e/_equal|equal]] [[i/_intervals|intervals]] as [[r/_respects|respects]] [[a/_angular|angular]] [[d/_divergence|divergence]].**
 	- _Example: Many trees have alternate leaf arrangement (e.g. birch, oak and mulberry)._
 ---
 ---

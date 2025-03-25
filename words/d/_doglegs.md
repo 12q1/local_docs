@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_sharp|sharp]] [[b/_bend|bend]] in the [[f/_fairway|fairway]] ([[b/_before|before]] the [[h/_hole|hole]])**
-- **A [[c/_configuration|configuration]] of stairs where a [[f/_flight|flight]] [[a/_ascends|ascends]] to a [[h/_half|half]] [[l/_landing|landing]] [[b/_before|before]] turning 180 [[d/_degrees|degrees]] and [[c/_continuing|continuing]] upwards.**
+- **A [[c/_configuration|configuration]] of [[s/_stairs|stairs]] where a [[f/_flight|flight]] [[a/_ascends|ascends]] to a [[h/_half|half]] [[l/_landing|landing]] [[b/_before|before]] turning 180 [[d/_degrees|degrees]] and [[c/_continuing|continuing]] upwards.**
 - **A [[s/_sharp|sharp]] [[b/_bend|bend]] in a [[c/_canyon|canyon]] or [[r/_ravine|ravine]].**
 ---
 #verb

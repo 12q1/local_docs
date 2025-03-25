@@ -14,7 +14,7 @@
 - **To [[c/_cause|cause]] to [[m/_make|make]] [[s/_sound|sound]] by [[b/_blowing|blowing]], as a [[m/_musical|musical]] [[i/_instrument|instrument]].**
 - **To [[m/_make|make]] a [[s/_sound|sound]] as the [[r/_result|result]] of [[b/_being|being]] [[b/_blown|blown]].**
 	- _Example: In the harbor, the ships' horns blew._
-- **(of a [[c/_cetacean|cetacean]]) To [[e/_exhale|exhale]] visibly through the spout the [[s/_seawater|seawater]] which it [[h/_has|has]] taken in while [[f/_feeding|feeding]].**
+- **(of a [[c/_cetacean|cetacean]]) To [[e/_exhale|exhale]] visibly through the [[s/_spout|spout]] the [[s/_seawater|seawater]] which it [[h/_has|has]] taken in while [[f/_feeding|feeding]].**
 	- _Example: There she blows! (i.e. "I see a whale spouting!")_
 - **To [[e/_explode|explode]].**
 	- _Example: Get away from that burning gas tank! It's about to blow!_
@@ -27,19 +27,19 @@
 - **(used to [[e/_express|express]] [[d/_displeasure|displeasure]] or [[f/_frustration|frustration]]) [[d/_damn|Damn]].**
 - **To be very undesirable. ([[s/_see|See]] [[a/_also|also]] suck.)**
 	- _Example: This blows!_
-- **To [[r/_recklessly|recklessly]] squander.**
+- **To [[r/_recklessly|recklessly]] [[s/_squander|squander]].**
 	- _Example: I blew $35 thou on a car._
 - **To [[f/_fellate|fellate]]; to [[p/_perform|perform]] [[o/_oral|oral]] [[s/_sex|sex]] on (usually a [[m/_man|man]])**
 	- _Example: Who did you have to blow to get those backstage passes?_
 - **To [[l/_leave|leave]], [[e/_especially|especially]] suddenly or in a [[h/_hurry|hurry]].**
 	- _Example: Let's blow this joint._
 - **To [[m/_make|make]] [[f/_flyblown|flyblown]], to [[d/_defile|defile]], [[e/_especially|especially]] with [[f/_fly|fly]] [[e/_eggs|eggs]].**
-- **To spread by [[r/_report|report]]; to [[p/_publish|publish]]; to [[d/_disclose|disclose]].**
+- **To [[s/_spread|spread]] by [[r/_report|report]]; to [[p/_publish|publish]]; to [[d/_disclose|disclose]].**
 - **To [[i/_inflate|inflate]], as with [[p/_pride|pride]]; to [[p/_puff|puff]] up.**
 - **To [[b/_breathe|breathe]] [[h/_hard|hard]] or [[q/_quick|quick]]; to [[p/_pant|pant]]; to [[p/_puff|puff]].**
 - **To [[p/_put|put]] [[o/_out|out]] of [[b/_breath|breath]]; to [[c/_cause|cause]] to [[b/_blow|blow]] from [[f/_fatigue|fatigue]].**
 	- _Example: to blow a horse_
-- **To talk [[l/_loudly|loudly]]; to [[b/_boast|boast]]; to storm.**
+- **To talk [[l/_loudly|loudly]]; to [[b/_boast|boast]]; to [[s/_storm|storm]].**
 - **To [[s/_sing|sing]].**
 	- _Example: That girl has a wonderful voice; just listen to her blow!_
 - **To [[l/_leave|leave]] the [[c/_church|Church]] of [[s/_scientology|Scientology]] in an unauthorized [[m/_manner|manner]].**
@@ -48,7 +48,7 @@
 - **To [[b/_blossom|blossom]]; to [[c/_cause|cause]] to [[b/_bloom|bloom]] or [[b/_blossom|blossom]].**
 ---
 #noun
-- **The [[c/_colour|colour]] of the [[c/_clear|clear]] [[s/_sky|sky]] or the [[d/_deep|deep]] [[s/_sea|sea]], [[b/_between|between]] [[g/_green|green]] and violet in the visible spectrum, and [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colours|colours]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting [[r/_red|red]] and [[g/_green|green]] from white [[l/_light|light]] using [[m/_magenta|magenta]] and [[c/_cyan|cyan]] [[f/_filters|filters]]; or [[a/_any|any]] [[c/_colour|colour]] [[r/_resembling|resembling]] this.**
+- **The [[c/_colour|colour]] of the [[c/_clear|clear]] [[s/_sky|sky]] or the [[d/_deep|deep]] [[s/_sea|sea]], [[b/_between|between]] [[g/_green|green]] and violet in the visible [[s/_spectrum|spectrum]], and [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colours|colours]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting [[r/_red|red]] and [[g/_green|green]] from white [[l/_light|light]] using [[m/_magenta|magenta]] and [[c/_cyan|cyan]] [[f/_filters|filters]]; or [[a/_any|any]] [[c/_colour|colour]] [[r/_resembling|resembling]] this.**
 - **A [[b/_blue|blue]] [[d/_dye|dye]] or [[p/_pigment|pigment]].**
 - **[[a/_any|Any]] of [[s/_several|several]] [[p/_processes|processes]] to [[p/_protect|protect]] [[m/_metal|metal]] [[a/_against|against]] [[r/_rust|rust]].**
 - **[[b/_blue|Blue]] [[c/_clothing|clothing]]**
@@ -77,10 +77,10 @@
 - **[[p/_pale|Pale]], without [[r/_redness|redness]] or [[g/_glare|glare]]; [[s/_said|said]] of a [[f/_flame|flame]].**
 	- _Example: The candle burns blue._
 - **Supportive of, [[r/_run|run]] by (a [[m/_member|member]] of), [[p/_pertaining|pertaining]] to, or [[d/_dominated|dominated]] by a [[p/_political|political]] [[p/_party|party]] [[r/_represented|represented]] by the [[c/_colour|colour]] [[b/_blue|blue]].**
-- **Of the [[h/_higher|higher]]-[[f/_frequency|frequency]] [[r/_region|region]] of the [[p/_part|part]] of the [[e/_electromagnetic|electromagnetic]] spectrum which is [[r/_relevant|relevant]] in the specific [[o/_observation|observation]].**
-- **(of steak) [[e/_extra|Extra]] [[r/_rare|rare]]; [[l/_left|left]] very [[r/_raw|raw]] and [[c/_cold|cold]].**
+- **Of the [[h/_higher|higher]]-[[f/_frequency|frequency]] [[r/_region|region]] of the [[p/_part|part]] of the [[e/_electromagnetic|electromagnetic]] [[s/_spectrum|spectrum]] which is [[r/_relevant|relevant]] in the [[s/_specific|specific]] [[o/_observation|observation]].**
+- **(of [[s/_steak|steak]]) [[e/_extra|Extra]] [[r/_rare|rare]]; [[l/_left|left]] very [[r/_raw|raw]] and [[c/_cold|cold]].**
 - **(of a [[d/_dog|dog]] or [[c/_cat|cat]]) [[h/_having|Having]] a [[c/_coat|coat]] of [[f/_fur|fur]] of a [[s/_slaty|slaty]] [[g/_gray|gray]] [[s/_shade|shade]].**
-- **[[s/_severe|Severe]] or [[o/_overly|overly]] strict in [[m/_morals|morals]]; [[g/_gloomy|gloomy]].**
+- **[[s/_severe|Severe]] or [[o/_overly|overly]] [[s/_strict|strict]] in [[m/_morals|morals]]; [[g/_gloomy|gloomy]].**
 	- _Example: blue and sour religionists;  blue laws_
 - **(of women) [[l/_literary|literary]]; bluestockinged.**
 - **[[h/_having|Having]] a [[c/_color|color]] [[c/_charge|charge]] of [[b/_blue|blue]].**

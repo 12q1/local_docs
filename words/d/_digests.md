@@ -18,7 +18,7 @@
 - [[a/_arrange|arrange]], [[s/_sort|sort]]
 #noun
 - **That which is [[d/_digested|digested]]; [[e/_especially|especially]], that which is worked [[o/_over|over]], [[c/_classified|classified]], and [[a/_arranged|arranged]] under [[p/_proper|proper]] [[h/_heads|heads]] or titles**
-- **A [[c/_compilation|compilation]] of statutes or [[d/_decisions|decisions]] [[a/_analytically|analytically]] [[a/_arranged|arranged]]; a summary of [[l/_laws|laws]].**
+- **A [[c/_compilation|compilation]] of [[s/_statutes|statutes]] or [[d/_decisions|decisions]] [[a/_analytically|analytically]] [[a/_arranged|arranged]]; a summary of [[l/_laws|laws]].**
 	- _Example: Comyn's Digest_
 - **[[a/_any|Any]] [[c/_collection|collection]] of [[a/_articles|articles]], as an [[i/_internet|Internet]] [[m/_mailing|mailing]] [[l/_list|list]] [[i/_including|including]] a week'[[s/_s|s]] [[p/_postings|postings]], or a [[m/_magazine|magazine]] [[a/_arranging|arranging]] a [[c/_collection|collection]] of writings.**
 	- _Example: Reader's Digest is published monthly._

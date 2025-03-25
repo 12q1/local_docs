@@ -11,7 +11,7 @@
 - **[[b/_being|Being]] in the [[b/_basic|basic]] [[f/_form|form]]; [[s/_showing|showing]] [[i/_its|its]] [[e/_essence|essence]].**
 	- _Example: Don’t mind him being grumpy. That’s the essential Fred._
 - **[[r/_really|Really]] [[e/_existing|existing]]; [[e/_existent|existent]].**
-- **Such that [[e/_each|each]] [[c/_complementary|complementary]] [[r/_region|region]] is [[i/_irreducible|irreducible]], the [[b/_boundary|boundary]] of [[e/_each|each]] [[c/_complementary|complementary]] [[r/_region|region]] is [[i/_incompressible|incompressible]] by [[d/_disks|disks]] and monogons in the [[c/_complementary|complementary]] [[r/_region|region]], and [[n/_no|no]] [[l/_leaf|leaf]] is a sphere or a torus [[b/_bounding|bounding]] a [[s/_solid|solid]] torus in the [[m/_manifold|manifold]].**
+- **Such that [[e/_each|each]] [[c/_complementary|complementary]] [[r/_region|region]] is [[i/_irreducible|irreducible]], the [[b/_boundary|boundary]] of [[e/_each|each]] [[c/_complementary|complementary]] [[r/_region|region]] is [[i/_incompressible|incompressible]] by [[d/_disks|disks]] and monogons in the [[c/_complementary|complementary]] [[r/_region|region]], and [[n/_no|no]] [[l/_leaf|leaf]] is a [[s/_sphere|sphere]] or a torus [[b/_bounding|bounding]] a [[s/_solid|solid]] torus in the [[m/_manifold|manifold]].**
 - **[[i/_idiopathic|Idiopathic]].**
 ---
 ### Synonyms

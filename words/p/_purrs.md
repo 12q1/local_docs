@@ -3,7 +3,7 @@
 #noun
 - **The vibrating [[s/_sound|sound]] [[m/_made|made]] by a [[c/_cat|cat]] in [[i/_its|its]] throat when [[c/_contented|contented]].**
 - **A throaty, [[s/_seductive|seductive]] [[s/_sound|sound]] of [[p/_pleasure|pleasure]] [[m/_made|made]] by a [[p/_person|person]].**
-- **The [[l/_low|low]] [[c/_consistent|consistent]] [[r/_rumble|rumble]] [[m/_made|made]] by an [[e/_engine|engine]] at [[s/_slow|slow]] speed**
+- **The [[l/_low|low]] [[c/_consistent|consistent]] [[r/_rumble|rumble]] [[m/_made|made]] by an [[e/_engine|engine]] at [[s/_slow|slow]] [[s/_speed|speed]]**
 ---
 #verb
 - **Of a [[c/_cat|cat]], to [[m/_make|make]] a vibrating [[s/_sound|sound]] in [[i/_its|its]] throat when [[c/_contented|contented]].**

@@ -1,7 +1,7 @@
 # Cheddar
 ---
 #noun
-- **A [[c/_cheese|cheese]] styled [[a/_after|after]] the [[c/_cheddar|Cheddar]] [[c/_cheese|cheese]] [[m/_made|made]] in [[c/_cheddar|Cheddar]].**
+- **A [[c/_cheese|cheese]] [[s/_styled|styled]] [[a/_after|after]] the [[c/_cheddar|Cheddar]] [[c/_cheese|cheese]] [[m/_made|made]] in [[c/_cheddar|Cheddar]].**
 - **[[m/_money|Money]], [[c/_cash|cash]], [[c/_currency|currency]].**
 ---
 #verb

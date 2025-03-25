@@ -10,13 +10,13 @@
 - **To [[o/_owe|owe]].**
 ---
 #noun
-- **A statement of what [[o/_ought|ought]] to be the [[c/_case|case]] as [[o/_opposed|opposed]] to what is the [[c/_case|case]].**
+- **A [[s/_statement|statement]] of what [[o/_ought|ought]] to be the [[c/_case|case]] as [[o/_opposed|opposed]] to what is the [[c/_case|case]].**
 ---
 #verb
-- **To [[m/_make|make]] a statement of what [[o/_ought|ought]] to be true, as [[o/_opposed|opposed]] to [[r/_reality|reality]].**
+- **To [[m/_make|make]] a [[s/_statement|statement]] of what [[o/_ought|ought]] to be true, as [[o/_opposed|opposed]] to [[r/_reality|reality]].**
 ---
 #verb
-- **([[a/_auxiliary|auxiliary]]) Be [[o/_obliged|obliged]] to; [[h/_have|have]] an [[o/_obligation|obligation]] to; [[i/_indicates|indicates]] that the subject of the [[s/_sentence|sentence]] [[h/_has|has]] [[s/_some|some]] [[o/_obligation|obligation]] to [[e/_execute|execute]] the [[s/_sentence|sentence]] [[p/_predicate|predicate]] or that the [[s/_speaker|speaker]] [[h/_has|has]] [[s/_some|some]] strong [[a/_advice|advice]] but [[h/_has|has]] [[n/_no|no]] [[a/_authority|authority]] to [[e/_enforce|enforce]] it.**
+- **([[a/_auxiliary|auxiliary]]) Be [[o/_obliged|obliged]] to; [[h/_have|have]] an [[o/_obligation|obligation]] to; [[i/_indicates|indicates]] that the subject of the [[s/_sentence|sentence]] [[h/_has|has]] [[s/_some|some]] [[o/_obligation|obligation]] to [[e/_execute|execute]] the [[s/_sentence|sentence]] [[p/_predicate|predicate]] or that the [[s/_speaker|speaker]] [[h/_has|has]] [[s/_some|some]] [[s/_strong|strong]] [[a/_advice|advice]] but [[h/_has|has]] [[n/_no|no]] [[a/_authority|authority]] to [[e/_enforce|enforce]] it.**
 	- _Example: What do I think? What should I do?_
 - **([[a/_auxiliary|auxiliary]]) [[o/_ought|ought]] to; [[s/_speaker|speaker]]'[[s/_s|s]] [[o/_opinion|opinion]], or [[a/_advice|advice]] that an [[a/_action|action]] is [[c/_correct|correct]], [[b/_beneficial|beneficial]], or [[d/_desirable|desirable]].**
 	- _Example: I should exercise more often, but I'm too lazy._

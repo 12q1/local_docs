@@ -17,12 +17,12 @@
 - **To [[p/_polish|polish]], [[e/_e|e]].[[g/_g|g]]., a surface, until [[s/_smooth|smooth]].**
 - **To be turned or [[f/_folded|folded]]; to [[l/_lie|lie]] [[p/_partly|partly]] on or [[o/_over|over]] [[s/_something|something]]; to [[o/_overlap|overlap]].**
 	- _Example: The boats lap; the edges lap._
-- **To [[o/_overtake|overtake]] a straggler in a [[r/_race|race]] by [[c/_completing|completing]] [[o/_one|one]] [[m/_more|more]] whole [[l/_lap|lap]] than the straggler.**
+- **To [[o/_overtake|overtake]] a [[s/_straggler|straggler]] in a [[r/_race|race]] by [[c/_completing|completing]] [[o/_one|one]] [[m/_more|more]] whole [[l/_lap|lap]] than the [[s/_straggler|straggler]].**
 - **To [[c/_cut|cut]] or [[p/_polish|polish]] with a [[l/_lap|lap]], as [[g/_glass|glass]], [[g/_gems|gems]], [[c/_cutlery|cutlery]], [[e/_etc|etc]].**
 ---
 #verb
 - **To take ([[l/_liquid|liquid]]) [[i/_into|into]] the [[m/_mouth|mouth]] with the tongue; to [[l/_lick|lick]] up with a [[q/_quick|quick]] [[m/_motion|motion]] of the tongue.**
 	- _Example: Don't lap your soup like that, you look like a dog._
-- **(of water) To wash [[a/_against|against]] a surface with a splashing [[s/_sound|sound]]; to swash.**
+- **(of water) To wash [[a/_against|against]] a surface with a [[s/_splashing|splashing]] [[s/_sound|sound]]; to swash.**
 ---
 ---

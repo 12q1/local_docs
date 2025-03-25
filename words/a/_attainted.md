@@ -6,7 +6,7 @@
 - **To taint; to [[c/_corrupt|corrupt]], sully.**
 ---
 #adjective
-- **Subject to [[a/_attainder|attainder]]; [[c/_condemned|condemned]] to [[d/_death|death]] or [[o/_outlawry|outlawry]], [[h/_hence|hence]] stripped of [[o/_one|one]]'[[s/_s|s]] titles, [[h/_hereditary|hereditary]] [[r/_rights|rights]], or [[p/_possessions|possessions]].**
+- **Subject to [[a/_attainder|attainder]]; [[c/_condemned|condemned]] to [[d/_death|death]] or [[o/_outlawry|outlawry]], [[h/_hence|hence]] [[s/_stripped|stripped]] of [[o/_one|one]]'[[s/_s|s]] titles, [[h/_hereditary|hereditary]] [[r/_rights|rights]], or [[p/_possessions|possessions]].**
 - **Tainted, [[c/_corrupted|corrupted]].**
 ---
 ---

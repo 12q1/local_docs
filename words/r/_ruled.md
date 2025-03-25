@@ -14,6 +14,6 @@
 #adjective
 - **[[h/_having|Having]] [[p/_printed|printed]] [[l/_lines|lines]].**
 	- _Example: a letter on ruled paper_
-- **(of a surface) [[b/_being|Being]] a [[s/_scroll|scroll]]; [[b/_being|being]] such that through [[e/_every|every]] [[p/_point|point]] of [[s/_s|S]] there is a straight [[l/_line|line]] that [[l/_lies|lies]] on [[s/_s|S]].**
+- **(of a surface) [[b/_being|Being]] a [[s/_scroll|scroll]]; [[b/_being|being]] such that through [[e/_every|every]] [[p/_point|point]] of [[s/_s|S]] there is a [[s/_straight|straight]] [[l/_line|line]] that [[l/_lies|lies]] on [[s/_s|S]].**
 ---
 ---

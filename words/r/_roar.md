@@ -6,10 +6,10 @@
 - **The [[d/_deep|deep]] [[c/_cry|cry]] of the [[b/_bull|bull]].**
 - **A [[l/_loud|loud]] [[r/_resounding|resounding]] [[n/_noise|noise]].**
 	- _Example: the roar of a motorbike_
-- **A [[s/_show|show]] of strength or [[c/_character|character]].**
+- **A [[s/_show|show]] of [[s/_strength|strength]] or [[c/_character|character]].**
 ---
 #verb
-- **To [[m/_make|make]] a [[l/_loud|loud]], [[d/_deep|deep]] [[c/_cry|cry]], [[e/_especially|especially]] from [[p/_pain|pain]], [[a/_anger|anger]], or [[o/_other|other]] strong [[e/_emotion|emotion]].**
+- **To [[m/_make|make]] a [[l/_loud|loud]], [[d/_deep|deep]] [[c/_cry|cry]], [[e/_especially|especially]] from [[p/_pain|pain]], [[a/_anger|anger]], or [[o/_other|other]] [[s/_strong|strong]] [[e/_emotion|emotion]].**
 - **To [[l/_laugh|laugh]] in a [[p/_particularly|particularly]] [[l/_loud|loud]] [[m/_manner|manner]].**
 	- _Example: The audience roared at his jokes._
 - **Of [[a/_animals|animals]] ([[e/_especially|especially]] the [[l/_lion|lion]]), to [[m/_make|make]] a [[l/_loud|loud]] [[d/_deep|deep]] [[n/_noise|noise]].**

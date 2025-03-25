@@ -1,7 +1,7 @@
 # Follow
 ---
 #noun
-- **([[s/_sometimes|sometimes]] [[a/_attributive|attributive]]) In [[b/_billiards|billiards]] and [[s/_similar|similar]] [[g/_games|games]], a stroke [[c/_causing|causing]] a [[b/_ball|ball]] to [[f/_follow|follow]] [[a/_another|another]] [[b/_ball|ball]] [[a/_after|after]] [[h/_hitting|hitting]] it.**
+- **([[s/_sometimes|sometimes]] [[a/_attributive|attributive]]) In [[b/_billiards|billiards]] and [[s/_similar|similar]] [[g/_games|games]], a [[s/_stroke|stroke]] [[c/_causing|causing]] a [[b/_ball|ball]] to [[f/_follow|follow]] [[a/_another|another]] [[b/_ball|ball]] [[a/_after|after]] [[h/_hitting|hitting]] it.**
 	- _Example: a follow shot_
 - **The [[a/_act|act]] of [[f/_following|following]] [[a/_another|another]] user'[[s/_s|s]] [[o/_online|online]] [[a/_activity|activity]].**
 ---

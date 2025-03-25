@@ -5,7 +5,7 @@
 	- _Example: I heard a small fragment of the conversation._
 - **([[g/_grammar|grammar]]) A [[s/_sentence|sentence]] not [[c/_containing|containing]] a subject or a [[p/_predicate|predicate]].**
 - **An [[i/_incomplete|incomplete]] [[p/_portion|portion]] of [[c/_code|code]].**
-- **A [[p/_portion|portion]] of a URL [[r/_referring|referring]] to a subordinate [[r/_resource|resource]] (such as a specific [[p/_point|point]] on a web [[p/_page|page]]), [[i/_introduced|introduced]] by the # [[s/_sign|sign]].**
+- **A [[p/_portion|portion]] of a URL [[r/_referring|referring]] to a subordinate [[r/_resource|resource]] (such as a [[s/_specific|specific]] [[p/_point|point]] on a web [[p/_page|page]]), [[i/_introduced|introduced]] by the # [[s/_sign|sign]].**
 ---
 #verb
 - **To [[b/_break|break]] [[a/_apart|apart]].**

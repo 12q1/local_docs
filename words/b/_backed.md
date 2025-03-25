@@ -6,9 +6,9 @@
 - **To support.**
 	- _Example: I back you all the way;  which horse are you backing in this race?_
 - **(of the wind) To [[c/_change|change]] [[d/_direction|direction]] [[c/_contrary|contrary]] to the [[n/_normal|normal]] [[p/_pattern|pattern]]; that is, to [[s/_shift|shift]] [[a/_anticlockwise|anticlockwise]] in the [[n/_northern|northern]] [[h/_hemisphere|hemisphere]], or [[c/_clockwise|clockwise]] in the [[s/_southern|southern]] [[h/_hemisphere|hemisphere]].**
-- **(of a square [[s/_sail|sail]]) To [[b/_brace|brace]] the [[y/_yards|yards]] [[s/_so|so]] that the wind [[p/_presses|presses]] on the [[f/_front|front]] of the [[s/_sail|sail]], to [[s/_slow|slow]] the [[s/_ship|ship]].**
+- **(of a [[s/_square|square]] [[s/_sail|sail]]) To [[b/_brace|brace]] the [[y/_yards|yards]] [[s/_so|so]] that the wind [[p/_presses|presses]] on the [[f/_front|front]] of the [[s/_sail|sail]], to [[s/_slow|slow]] the [[s/_ship|ship]].**
 - **(of an [[a/_anchor|anchor]]) To [[l/_lay|lay]] [[o/_out|out]] a [[s/_second|second]], [[s/_smaller|smaller]] [[a/_anchor|anchor]] to [[p/_provide|provide]] [[a/_additional|additional]] [[h/_holding|holding]] [[p/_power|power]].**
-- **(of a [[h/_hunting|hunting]] [[d/_dog|dog]]) To stand still [[b/_behind|behind]] [[a/_another|another]] [[d/_dog|dog]] which [[h/_has|has]] [[p/_pointed|pointed]].**
+- **(of a [[h/_hunting|hunting]] [[d/_dog|dog]]) To [[s/_stand|stand]] [[s/_still|still]] [[b/_behind|behind]] [[a/_another|another]] [[d/_dog|dog]] which [[h/_has|has]] [[p/_pointed|pointed]].**
 - **To [[p/_push|push]] or [[f/_force|force]] [[b/_backwards|backwards]].**
 	- _Example: The mugger backed her into a corner and demanded her wallet._
 - **To [[g/_get|get]] upon the [[b/_back|back]] of; to [[m/_mount|mount]].**

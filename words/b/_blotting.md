@@ -1,19 +1,19 @@
 # Blotting
 ---
 #verb
-- **To [[c/_cause|cause]] a [[b/_blot|blot]] (on [[s/_something|something]]) by spilling a [[c/_coloured|coloured]] substance.**
+- **To [[c/_cause|cause]] a [[b/_blot|blot]] (on [[s/_something|something]]) by [[s/_spilling|spilling]] a [[c/_coloured|coloured]] substance.**
 - **To [[s/_soak|soak]] up or [[a/_absorb|absorb]] [[l/_liquid|liquid]].**
 	- _Example: This paper blots easily._
 - **To [[d/_dry|dry]] (writing, [[e/_etc|etc]].) with [[b/_blotting|blotting]] [[p/_paper|paper]].**
-- **To spot, stain, or [[b/_bespatter|bespatter]], as with [[i/_ink|ink]].**
+- **To [[s/_spot|spot]], [[s/_stain|stain]], or [[b/_bespatter|bespatter]], as with [[i/_ink|ink]].**
 - **To [[i/_impair|impair]]; to [[d/_damage|damage]]; to [[m/_mar|mar]]; to [[s/_soil|soil]].**
-- **To stain with [[i/_infamy|infamy]]; to [[d/_disgrace|disgrace]].**
+- **To [[s/_stain|stain]] with [[i/_infamy|infamy]]; to [[d/_disgrace|disgrace]].**
 - **To [[o/_obliterate|obliterate]], as writing with [[i/_ink|ink]]; to [[c/_cancel|cancel]]; to [[e/_efface|efface]]; [[g/_generally|generally]] with [[o/_out|out]].**
 	- _Example: to blot out a word or a sentence_
 - **To [[o/_obscure|obscure]]; to [[e/_eclipse|eclipse]]; to [[s/_shadow|shadow]].**
 ---
 #noun
-- **A [[b/_blot|blot]]; a stain.**
+- **A [[b/_blot|blot]]; a [[s/_stain|stain]].**
 - **The [[p/_process|process]] by which [[s/_something|something]] is [[b/_blotted|blotted]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Pegtops
 ---
 #noun
-- **A spinning top.**
+- **A [[s/_spinning|spinning]] top.**
 ---
 ---

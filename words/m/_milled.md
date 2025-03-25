@@ -13,7 +13,7 @@
 - **(of a whale) To swim suddenly in a [[n/_new|new]] [[d/_direction|direction]].**
 - **To [[b/_beat|beat]]; to [[p/_pound|pound]].**
 - **To [[p/_pass|pass]] through a [[f/_fulling|fulling]] [[m/_mill|mill]]; to [[f/_full|full]], as [[c/_cloth|cloth]].**
-- **To [[r/_roll|roll]] (steel, [[e/_etc|etc]].) [[i/_into|into]] [[b/_bars|bars]].**
+- **To [[r/_roll|roll]] ([[s/_steel|steel]], [[e/_etc|etc]].) [[i/_into|into]] [[b/_bars|bars]].**
 - **To [[m/_make|make]] ([[d/_drinking|drinking]] [[c/_chocolate|chocolate]]) [[f/_frothy|frothy]], as by [[c/_churning|churning]].**
 - **To undergo [[h/_hulling|hulling]].**
 	- _Example: This maize mills well._

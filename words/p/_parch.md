@@ -11,7 +11,7 @@
 	- _Example: The patient's mouth is parched from fever._
 - **To [[m/_make|make]] thirsty.**
 	- _Example: We're parched, hon. Could you send up an ale from the cooler?_
-- **To [[b/_boil|boil]] [[s/_something|something]] [[s/_slowly|slowly]] (Still used in [[l/_lancashire|Lancashire]] in [[p/_parched|parched]] [[p/_peas|peas]], a type of [[m/_mushy|mushy]] [[p/_peas|peas]]).**
+- **To [[b/_boil|boil]] [[s/_something|something]] [[s/_slowly|slowly]] ([[s/_still|Still]] used in [[l/_lancashire|Lancashire]] in [[p/_parched|parched]] [[p/_peas|peas]], a type of [[m/_mushy|mushy]] [[p/_peas|peas]]).**
 - **To [[b/_become|become]] superficially [[b/_burnt|burnt]]; be [[b/_become|become]] sunburned.**
 	- _Example: The locals watched, amused, as the tourists parched in the sun, having neglected to apply sunscreen or bring water._
 ---

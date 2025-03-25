@@ -20,7 +20,7 @@
 - [[d/_daughter|daughter]], [[g/_girlie|girlie]], [[l/_lass|lass]], [[l/_lassie|lassie]], [[c/_char|char]], [[c/_charlady|charlady]], [[c/_charwoman|charwoman]], [[m/_maid|maid]], [[m/_maiden|maiden]], [[m/_maidservant|maidservant]], [[w/_womanservant|womanservant]], [[J/_Jessie|Jessie]], [[s/_sissy|sissy]], [[w/_wimp|wimp]]
 #verb
 - **To [[f/_feminize|feminize]] or girlify; to [[g/_gender|gender]] as a [[g/_girl|girl]] or as for [[g/_girls|girls]].**
-- **([[s/_somewhat|somewhat]] [[i/_informal|informal]]) To staff with or as a [[g/_girl|girl]] or [[g/_girls|girls]].**
+- **([[s/_somewhat|somewhat]] [[i/_informal|informal]]) To [[s/_staff|staff]] with or as a [[g/_girl|girl]] or [[g/_girls|girls]].**
 ---
 #noun
 - **A woman'[[s/_s|s]] [[b/_breasts|breasts]].**

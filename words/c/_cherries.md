@@ -4,7 +4,7 @@
 - **([[b/_british|British]]) A [[r/_rail|rail]]-[[g/_gap|gap]] [[i/_indicator|indicator]]**
 ---
 #noun
-- **A [[s/_small|small]] [[f/_fruit|fruit]], usually [[r/_red|red]], [[b/_black|black]] or [[y/_yellow|yellow]], with a [[s/_smooth|smooth]] [[h/_hard|hard]] [[s/_seed|seed]] and a [[s/_short|short]] [[h/_hard|hard]] stem.**
+- **A [[s/_small|small]] [[f/_fruit|fruit]], usually [[r/_red|red]], [[b/_black|black]] or [[y/_yellow|yellow]], with a [[s/_smooth|smooth]] [[h/_hard|hard]] [[s/_seed|seed]] and a [[s/_short|short]] [[h/_hard|hard]] [[s/_stem|stem]].**
 - **[[p/_prunus|Prunus]] subg. [[c/_cerasus|Cerasus]], trees or [[s/_shrubs|shrubs]] that [[b/_bear|bear]] [[c/_cherries|cherries]].**
 - **The wood of a [[c/_cherry|cherry]] tree.**
 - **([[c/_color|color]]) [[c/_cherry|Cherry]] [[r/_red|red]].**

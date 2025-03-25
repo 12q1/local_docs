@@ -14,12 +14,12 @@
 	- _Example: Please scale that fish for dinner._
 - **To [[b/_become|become]] [[s/_scaly|scaly]]; to [[p/_produce|produce]] or [[d/_develop|develop]] [[s/_scales|scales]].**
 	- _Example: The dry weather is making my skin scale._
-- **To strip or [[c/_clear|clear]] of [[s/_scale|scale]]; to [[d/_descale|descale]].**
+- **To [[s/_strip|strip]] or [[c/_clear|clear]] of [[s/_scale|scale]]; to [[d/_descale|descale]].**
 	- _Example: to scale the inside of a boiler_
 - **To take [[o/_off|off]] in thin [[l/_layers|layers]] or [[s/_scales|scales]], as tartar from the teeth; to [[p/_pare|pare]] [[o/_off|off]], as a surface.**
 - **To [[s/_separate|separate]] and [[c/_come|come]] [[o/_off|off]] in thin [[l/_layers|layers]] or [[l/_laminae|laminae]].**
 	- _Example: Some sandstone scales by exposure._
-- **To [[s/_scatter|scatter]]; to spread.**
+- **To [[s/_scatter|scatter]]; to [[s/_spread|spread]].**
 - **To [[c/_clean|clean]], as the [[i/_inside|inside]] of a [[c/_cannon|cannon]], by the [[e/_explosion|explosion]] of a [[s/_small|small]] [[q/_quantity|quantity]] of [[p/_powder|powder]].**
 ---
 ### Synonyms

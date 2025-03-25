@@ -1,7 +1,7 @@
 # Airspace
 ---
 #noun
-- **A specified [[p/_portion|portion]] of the [[a/_atmosphere|atmosphere]], [[e/_especially|especially]] that under the technical [[a/_aviation|aviation]] [[c/_control|control]] and/or [[j/_jurisdiction|jurisdiction]] of a [[p/_particular|particular]] state [[o/_over|over]] which territory (and territorial waters) it [[l/_lies|lies]].**
+- **A [[s/_specified|specified]] [[p/_portion|portion]] of the [[a/_atmosphere|atmosphere]], [[e/_especially|especially]] that under the technical [[a/_aviation|aviation]] [[c/_control|control]] and/or [[j/_jurisdiction|jurisdiction]] of a [[p/_particular|particular]] [[s/_state|state]] [[o/_over|over]] which territory (and territorial waters) it [[l/_lies|lies]].**
 	- _Example: Various European countries transferred the aviation control of their adjoining airspace to Eurocontrol, while each retaining legal jurisdiction._
 - **That [[p/_part|part]] of the [[s/_sky|sky]] [[d/_designated|designated]] for the [[s/_sole|sole]] use of [[a/_aircraft|aircraft]].**
 - **[[s/_space|Space]] ([[i/_i|i]].[[e/_e|e]]. a [[f/_few|few]] [[n/_neighboring|neighboring]] [[f/_frequencies|frequencies]]) [[a/_available|available]] for [[b/_broadcasting|broadcasting]] within a [[p/_particular|particular]] [[f/_frequency|frequency]] [[b/_band|band]].**

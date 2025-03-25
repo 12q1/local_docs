@@ -9,7 +9,7 @@
 - **A [[n/_name|name]], [[n/_nickname|nickname]] or [[p/_pseudonym|pseudonym]].**
 - **A title [[a/_attached|attached]] to [[o/_one|one]]'[[s/_s|s]] [[n/_name|name]], such as [[d/_doctor|Doctor]] or [[c/_colonel|Colonel]].**
 	- _Example: The successful businessman was knighted and acquired a handle to his name._
-- **A [[r/_reference|reference]] to an [[o/_object|object]] or structure that [[c/_can|can]] be stored in a variable.**
+- **A [[r/_reference|reference]] to an [[o/_object|object]] or [[s/_structure|structure]] that [[c/_can|can]] be [[s/_stored|stored]] in a variable.**
 	- _Example: This article describes how to find the module name from the window handle._
 - **A 10 [[f/_fl|fl]] [[o/_oz|oz]] (285 [[m/_ml|ml]]) [[g/_glass|glass]] of [[b/_beer|beer]] in the [[n/_northern|Northern]] Territory. ([[s/_see|See]] [[a/_also|also]] [[p/_pot|pot]] and [[m/_middy|middy]] for [[o/_other|other]] [[r/_regional|regional]] variations.)**
 - **A [[h/_half|half]]-[[g/_gallon|gallon]] (1.75-[[l/_liter|liter]]) [[b/_bottle|bottle]] of [[a/_alcohol|alcohol]]. ([[c/_called|Called]] a [[s/_sixty|sixty]] in [[c/_canada|Canada]].)**
@@ -23,7 +23,7 @@
 - **To [[a/_accustom|accustom]] to the [[h/_hand|hand]]; to take [[c/_care|care]] of with the [[h/_hands|hands]].**
 - **To [[m/_manage|manage]], use, or wield with the [[h/_hands|hands]].**
 - **To [[m/_manage|manage]], [[c/_control|control]], or [[d/_direct|direct]].**
-- **To treat, to [[d/_deal|deal]] with (in a specified way).**
+- **To treat, to [[d/_deal|deal]] with (in a [[s/_specified|specified]] way).**
 	- _Example: she handled the news with grace, the Persians handled the French ambassador shamefully_
 - **To [[d/_deal|deal]] with (a subject, [[a/_argument|argument]], topic, or theme) in [[s/_speaking|speaking]], in writing, or in [[a/_art|art]].**
 - **To [[r/_receive|receive]] and transfer; to [[h/_have|have]] [[p/_pass|pass]] through [[o/_one|one]]'[[s/_s|s]] [[h/_hands|hands]]; [[h/_hence|hence]], to [[b/_buy|buy]] and [[s/_sell|sell]].**

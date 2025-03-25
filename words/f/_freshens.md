@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[b/_become|become]] [[f/_fresh|fresh]].**
-- **(of wind) To [[b/_become|become]] stronger.**
+- **(of wind) To [[b/_become|become]] [[s/_stronger|stronger]].**
 - **(of a [[c/_cow|cow]]) To [[b/_begin|begin]] or [[r/_resume|resume]] [[g/_giving|giving]] [[m/_milk|milk]], [[e/_especially|especially]] [[a/_after|after]] [[c/_calving|calving]]; to [[c/_cause|cause]] to [[r/_resume|resume]] [[g/_giving|giving]] [[m/_milk|milk]].**
 - **To [[m/_make|make]] [[f/_fresh|fresh]].**
 - **To [[g/_give|give]] [[r/_redness|redness]] to (the [[f/_face|face]] or [[c/_cheeks|cheeks]] of a [[p/_person|person]] with [[l/_light|light]] [[s/_skin|skin]]).**

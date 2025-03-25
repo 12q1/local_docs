@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[d/_derision|Derision]]; [[m/_mocking|mocking]] or [[h/_humiliating|humiliating]] words or [[b/_behaviour|behaviour]]**
-- **An [[o/_object|object]] of sport or [[l/_laughter|laughter]]; a [[l/_laughing|laughing]] stock.**
+- **An [[o/_object|object]] of [[s/_sport|sport]] or [[l/_laughter|laughter]]; a [[l/_laughing|laughing]] [[s/_stock|stock]].**
 - **The [[q/_quality|quality]] of [[b/_being|being]] [[r/_ridiculous|ridiculous]]; [[r/_ridiculousness|ridiculousness]].**
 ---
 #verb

@@ -10,7 +10,7 @@
 - **([[e/_eton|Eton]] [[c/_college|College]]) A [[s/_small|small]] [[a/_allowance|allowance]] of [[f/_food|food]] [[c/_collegers|collegers]] [[r/_receive|receive]] from their [[d/_dames|dames]] ([[m/_matrons|matrons]]) in [[a/_addition|addition]] to their [[c/_college|college]] [[a/_allowance|allowance]]**
 ---
 #noun
-- **A [[c/_contest|contest]], a struggle.**
+- **A [[c/_contest|contest]], a [[s/_struggle|struggle]].**
 	- _Example: the battle of life_
 - **A [[g/_general|general]] [[a/_action|action]], [[f/_fight|fight]], or [[e/_encounter|encounter]], in which [[a/_all|all]] the [[d/_divisions|divisions]] of an [[a/_army|army]] are or [[m/_may|may]] be [[e/_engaged|engaged]]; a [[c/_combat|combat]], an [[e/_engagement|engagement]].**
 - **A [[d/_division|division]] of an [[a/_army|army]]; a [[b/_battalion|battalion]].**

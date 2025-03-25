@@ -1,9 +1,9 @@
 # Garble
 ---
 #noun
-- **[[c/_confused|Confused]] or unintelligible speech.**
+- **[[c/_confused|Confused]] or unintelligible [[s/_speech|speech]].**
 - **[[r/_refuse|Refuse]]; [[r/_rubbish|rubbish]].**
-- **[[i/_impurities|Impurities]] [[s/_separated|separated]] from spices, [[d/_drugs|drugs]], [[e/_etc|etc]].; [[g/_garblings|garblings]].**
+- **[[i/_impurities|Impurities]] [[s/_separated|separated]] from [[s/_spices|spices]], [[d/_drugs|drugs]], [[e/_etc|etc]].; [[g/_garblings|garblings]].**
 ---
 #verb
 - **To [[p/_pick|pick]] [[o/_out|out]] such [[p/_parts|parts]] (of a text) as [[m/_may|may]] [[s/_serve|serve]] a [[p/_purpose|purpose]]; to [[m/_mutilate|mutilate]]; to [[p/_pervert|pervert]]**

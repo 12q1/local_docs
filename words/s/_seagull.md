@@ -10,6 +10,6 @@
 #verb
 - **(of a [[f/_forward|forward]]) To [[r/_run|run]] in the [[b/_back|back]] [[l/_line|line]] [[r/_rather|rather]] than [[c/_concentrate|concentrate]] on [[p/_primary|primary]] [[p/_positional|positional]] [[d/_duties|duties]] in [[o/_open|open]] [[p/_play|play]].**
 - **To use a [[b/_british|British]] [[s/_seagull|Seagull]] [[o/_outboard|outboard]].**
-- **To work as a [[n/_non|non]]-union [[c/_casual|casual]] stevedore.**
+- **To work as a [[n/_non|non]]-union [[c/_casual|casual]] [[s/_stevedore|stevedore]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Romanticism
 ---
 #noun
-- **A [[r/_romantic|romantic]] [[q/_quality|quality]], spirit or [[a/_action|action]].**
+- **A [[r/_romantic|romantic]] [[q/_quality|quality]], [[s/_spirit|spirit]] or [[a/_action|action]].**
 ---
 ---

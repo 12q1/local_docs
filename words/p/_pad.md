@@ -7,13 +7,13 @@
 - **A [[c/_cushion|cushion]]-[[l/_like|like]] thickening of the [[s/_skin|skin]] on the under [[s/_side|side]] of the toes of [[a/_animals|animals]].**
 - **The [[m/_mostly|mostly]] [[h/_hairless|hairless]] [[f/_flesh|flesh]] [[l/_located|located]] on the [[b/_bottom|bottom]] of an [[a/_animal|animal]]'[[s/_s|s]] [[f/_foot|foot]] or [[p/_paw|paw]].**
 - **[[a/_any|Any]] [[c/_cushion|cushion]]-[[l/_like|like]] [[p/_part|part]] of the [[h/_human|human]] [[b/_body|body]], [[e/_especially|especially]] the [[e/_ends|ends]] of the [[f/_fingers|fingers]].**
-- **A stuffed [[g/_guard|guard]] or [[p/_protection|protection]], [[e/_especially|especially]] [[o/_one|one]] worn on the [[l/_legs|legs]] of [[h/_horses|horses]] to [[p/_prevent|prevent]] [[b/_bruising|bruising]].**
+- **A [[s/_stuffed|stuffed]] [[g/_guard|guard]] or [[p/_protection|protection]], [[e/_especially|especially]] [[o/_one|one]] worn on the [[l/_legs|legs]] of [[h/_horses|horses]] to [[p/_prevent|prevent]] [[b/_bruising|bruising]].**
 - **A [[s/_soft|soft]] [[b/_bag|bag]] or [[c/_cushion|cushion]] to [[r/_relieve|relieve]] [[p/_pressure|pressure]], support a [[p/_part|part]], [[e/_etc|etc]].**
 - **A [[s/_sanitary|sanitary]] [[n/_napkin|napkin]].**
 - **A [[f/_floating|floating]] [[l/_leaf|leaf]] of a water [[l/_lily|lily]] or [[s/_similar|similar]] [[p/_plant|plant]].**
 - **A [[s/_soft|soft]] [[c/_cover|cover]] for a [[b/_batsman|batsman]]'[[s/_s|s]] [[l/_leg|leg]] that [[p/_protects|protects]] it from [[d/_damage|damage]] when [[h/_hit|hit]] by the [[b/_ball|ball]].**
 - **A [[k/_kind|kind]] of [[c/_cushion|cushion]] for writing upon, or for [[b/_blotting|blotting]], [[e/_especially|especially]] [[o/_one|one]] [[f/_formed|formed]] of [[m/_many|many]] [[f/_flat|flat]] [[s/_sheets|sheets]] of writing [[p/_paper|paper]]; [[n/_now|now]] [[e/_especially|especially]] such a [[b/_block|block]] of [[p/_paper|paper]] [[s/_sheets|sheets]] as used to write on.**
-- **A [[p/_panel|panel]] or strip of [[m/_material|material]] [[d/_designed|designed]] to be [[s/_sensitive|sensitive]] to [[p/_pressure|pressure]] or touch.**
+- **A [[p/_panel|panel]] or [[s/_strip|strip]] of [[m/_material|material]] [[d/_designed|designed]] to be [[s/_sensitive|sensitive]] to [[p/_pressure|pressure]] or touch.**
 - **A [[k/_keypad|keypad]].**
 - **A [[f/_flat|flat]] surface or [[a/_area|area]] from which a [[h/_helicopter|helicopter]] or [[o/_other|other]] [[a/_aircraft|aircraft]] [[m/_may|may]] [[l/_land|land]] or be [[l/_launched|launched]].**
 - **An [[e/_electrical|electrical]] [[e/_extension|extension]] [[c/_cord|cord]] with a [[m/_multi|multi]]-[[p/_port|port]] [[s/_socket|socket]] [[o/_one|one]] [[e/_end|end]]: "trip [[c/_cord|cord]]"**
@@ -30,7 +30,7 @@
 ### Synonyms
 - 
 #verb
-- **To stuff.**
+- **To [[s/_stuff|stuff]].**
 - **To [[f/_furnish|furnish]] with a [[p/_pad|pad]] or [[p/_padding|padding]].**
 - **To [[i/_increase|increase]] the [[s/_size|size]] of, [[e/_especially|especially]] by [[a/_adding|adding]] undesirable [[f/_filler|filler]].**
 	- _Example: May 21, 2008, Austin American-Statesman_

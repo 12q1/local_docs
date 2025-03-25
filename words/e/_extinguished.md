@@ -8,7 +8,7 @@
 	- _Example: The rays of the sun were extinguished by the thunder clouds._
 - **To [[b/_bring|bring]] [[a/_about|about]] the [[e/_extinction|extinction]] of a [[c/_conditioned|conditioned]] [[r/_reflex|reflex]]**
 	- _Example: Many patients can extinguish their phobias after a few months of treatment._
-- **To [[h/_hunt|hunt]] [[d/_down|down]] (a species) to [[e/_extinction|extinction]]**
+- **To [[h/_hunt|hunt]] [[d/_down|down]] (a [[s/_species|species]]) to [[e/_extinction|extinction]]**
 - **To [[d/_die|die]] [[o/_out|out]].**
 ---
 ### Synonyms

@@ -7,12 +7,12 @@
 	- _Example: We piled the camel with our loads._
 - **To [[a/_add|add]] [[s/_something|something]] to a [[g/_great|great]] [[n/_number|number]].**
 - **(of vehicles) To [[c/_create|create]] a [[h/_hold|hold]]-up.**
-- **To [[p/_place|place]] ([[g/_guns|guns]], [[m/_muskets|muskets]], [[e/_etc|etc]].) together in threes [[s/_so|so]] that they [[c/_can|can]] stand upright, supporting [[e/_each|each]] [[o/_other|other]].**
+- **To [[p/_place|place]] ([[g/_guns|guns]], [[m/_muskets|muskets]], [[e/_etc|etc]].) together in threes [[s/_so|so]] that they [[c/_can|can]] [[s/_stand|stand]] upright, supporting [[e/_each|each]] [[o/_other|other]].**
 ---
 ### Synonyms
 - [[h/_heap|heap]]
 #verb
-- **To [[d/_drive|drive]] [[p/_piles|piles]] [[i/_into|into]]; to [[f/_fill|fill]] with [[p/_piles|piles]]; to strengthen with [[p/_piles|piles]].**
+- **To [[d/_drive|drive]] [[p/_piles|piles]] [[i/_into|into]]; to [[f/_fill|fill]] with [[p/_piles|piles]]; to [[s/_strengthen|strengthen]] with [[p/_piles|piles]].**
 ---
 #verb
 - **To [[g/_give|give]] a [[p/_pile|pile]] to; to [[m/_make|make]] [[s/_shaggy|shaggy]].**

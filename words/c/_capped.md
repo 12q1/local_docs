@@ -9,7 +9,7 @@
 	- _Example: cap wages._
 - **To [[m/_make|make]] [[s/_something|something]] [[e/_even|even]] [[m/_more|more]] wonderful at the [[e/_end|end]].**
 	- _Example: That really capped my day._
-- **To [[s/_select|select]] a [[p/_player|player]] to [[p/_play|play]] for a specified [[s/_side|side]].**
+- **To [[s/_select|select]] a [[p/_player|player]] to [[p/_play|play]] for a [[s/_specified|specified]] [[s/_side|side]].**
 - **To [[s/_shoot|shoot]] ([[s/_someone|someone]]) with a [[f/_firearm|firearm]].**
 	- _Example: In a school shooting, where some kid caps a bunch of other kids, where did he get the weapon? From a family member, probably their gun cabinet._
 - **To [[s/_select|select]] to [[p/_play|play]] for the [[n/_national|national]] team.**

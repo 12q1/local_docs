@@ -1,7 +1,7 @@
 # Imp
 ---
 #noun
-- **A [[s/_small|small]], [[m/_mischievous|mischievous]] sprite, or a [[m/_malevolent|malevolent]] supernatural [[c/_creature|creature]], [[s/_somewhat|somewhat]] [[c/_comparable|comparable]] to a [[d/_demon|demon]] but [[s/_smaller|smaller]] and [[l/_less|less]] [[p/_powerful|powerful]].**
+- **A [[s/_small|small]], [[m/_mischievous|mischievous]] [[s/_sprite|sprite]], or a [[m/_malevolent|malevolent]] supernatural [[c/_creature|creature]], [[s/_somewhat|somewhat]] [[c/_comparable|comparable]] to a [[d/_demon|demon]] but [[s/_smaller|smaller]] and [[l/_less|less]] [[p/_powerful|powerful]].**
 - **A [[m/_mischievous|mischievous]] [[c/_child|child]].**
 - **A [[b/_baby|baby]] Tasmanian [[d/_devil|devil]].**
 - **A [[y/_young|young]] [[s/_shoot|shoot]] of a [[p/_plant|plant]], tree [[e/_etc|etc]].**
@@ -14,6 +14,6 @@
 - **To [[p/_plant|plant]] or [[e/_engraft|engraft]].**
 - **To [[g/_graft|graft]], [[i/_implant|implant]]; to [[s/_set|set]] or [[f/_fix|fix]].**
 - **To [[e/_engraft|engraft]] ([[f/_feathers|feathers]]) [[i/_into|into]] a [[b/_bird|bird]]'[[s/_s|s]] wing.**
-- **To [[e/_eke|eke]] [[o/_out|out]], strengthen, [[e/_enlarge|enlarge]].**
+- **To [[e/_eke|eke]] [[o/_out|out]], [[s/_strengthen|strengthen]], [[e/_enlarge|enlarge]].**
 ---
 ---

@@ -5,7 +5,7 @@
 	- _Example: The Icelandic epic took all night to recite._
 - **A [[s/_series|series]] of [[e/_events|events]] [[c/_considered|considered]] [[a/_appropriate|appropriate]] to an [[e/_epic|epic]].**
 	- _Example: The book was an epic in four volumes._
-- **In [[s/_software|software]] [[d/_development|development]], a [[l/_large|large]] or [[e/_extended|extended]] user story.**
+- **In [[s/_software|software]] [[d/_development|development]], a [[l/_large|large]] or [[e/_extended|extended]] user [[s/_story|story]].**
 ---
 ### Synonyms
 - [[e/_epos|epos]], [[é/_épopée|épopée]]

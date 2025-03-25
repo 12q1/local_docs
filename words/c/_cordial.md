@@ -11,7 +11,7 @@
 #adjective
 - **[[h/_hearty|Hearty]]; [[s/_sincere|sincere]]; warm; [[a/_affectionate|affectionate]].**
 - **[[r/_radiating|Radiating]] warmth and [[f/_friendliness|friendliness]]; [[g/_genial|genial]].**
-- **Tending to [[r/_revive|revive]], [[c/_cheer|cheer]], or [[i/_invigorate|invigorate]]; [[g/_giving|giving]] strength or spirits.**
+- **Tending to [[r/_revive|revive]], [[c/_cheer|cheer]], or [[i/_invigorate|invigorate]]; [[g/_giving|giving]] [[s/_strength|strength]] or [[s/_spirits|spirits]].**
 - **[[p/_proceeding|Proceeding]] from the [[h/_heart|heart]].**
 ---
 ### Synonyms

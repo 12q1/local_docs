@@ -2,7 +2,7 @@
 ---
 #noun
 - **A washerwoman or washerman.**
-- **A trough used by [[m/_miners|miners]] to [[r/_receive|receive]] [[p/_powdered|powdered]] [[o/_ore|ore]] from the [[b/_box|box]] where it is [[b/_beaten|beaten]], or for [[c/_carrying|carrying]] water to the stamps, or [[o/_other|other]] [[a/_apparatus|apparatus]] for [[c/_comminuting|comminuting]] ([[s/_sorting|sorting]]) the [[o/_ore|ore]].**
+- **A trough used by [[m/_miners|miners]] to [[r/_receive|receive]] [[p/_powdered|powdered]] [[o/_ore|ore]] from the [[b/_box|box]] where it is [[b/_beaten|beaten]], or for [[c/_carrying|carrying]] water to the [[s/_stamps|stamps]], or [[o/_other|other]] [[a/_apparatus|apparatus]] for [[c/_comminuting|comminuting]] ([[s/_sorting|sorting]]) the [[o/_ore|ore]].**
 - **A trough or [[c/_channel|channel]] [[c/_carrying|carrying]] water to the wheel of a watermill.**
 - **A [[g/_gutter|gutter]] (for [[r/_rainwater|rainwater]]).**
 ---

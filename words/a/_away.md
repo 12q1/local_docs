@@ -7,7 +7,7 @@
 #adjective
 - **Not [[h/_here|here]], [[g/_gone|gone]], [[a/_absent|absent]], unavailable, traveling; on vacation.**
 	- _Example: The master is away from home._
-- **At a specified [[d/_distance|distance]] in [[s/_space|space]], time, or [[f/_figuratively|figuratively]].**
+- **At a [[s/_specified|specified]] [[d/_distance|distance]] in [[s/_space|space]], time, or [[f/_figuratively|figuratively]].**
 	- _Example: He's miles away by now._
 - **Not on [[o/_one|one]]'[[s/_s|s]] [[h/_home|home]] territory.**
 	- _Example: Next, they are playing away in Dallas._
@@ -21,13 +21,13 @@
 	- _Example: I tried to approach him, but he turned away._
 - **[[a/_aside|Aside]], [[s/_so|so]] as to [[d/_discard|discard]] [[s/_something|something]].**
 	- _Example: throw away, chuck away, toss away_
-- **At a stated [[d/_distance|distance]] in time or [[s/_space|space]].**
+- **At a [[s/_stated|stated]] [[d/_distance|distance]] in time or [[s/_space|space]].**
 	- _Example: Christmas is only two weeks away._
-- **In or to [[s/_something|something]]'[[s/_s|s]] usual or [[p/_proper|proper]] storage [[p/_place|place]].**
+- **In or to [[s/_something|something]]'[[s/_s|s]] usual or [[p/_proper|proper]] [[s/_storage|storage]] [[p/_place|place]].**
 	- _Example: I'll dry the dishes and you put them away._
 - **In or to a [[s/_secure|secure]] or [[o/_out|out]]-of-the-way [[p/_place|place]].**
 	- _Example: He was shut away in the castle tower for six months._
-- **From a state or [[c/_condition|condition]] of [[b/_being|being]]; [[o/_out|out]] of [[e/_existence|existence]].**
+- **From a [[s/_state|state]] or [[c/_condition|condition]] of [[b/_being|being]]; [[o/_out|out]] of [[e/_existence|existence]].**
 	- _Example: fade away, die away_
 - **[[s/_so|So]] as to [[r/_remove|remove]] or use up [[s/_something|something]].**
 	- _Example: Please wipe away this spilled drink._

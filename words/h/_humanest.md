@@ -1,7 +1,7 @@
 # Humanest
 ---
 #adjective
-- **(notcomp) Of or [[b/_belonging|belonging]] to the species [[h/_homo|Homo]] [[s/_sapiens|sapiens]] or [[i/_its|its]] [[c/_closest|closest]] [[r/_relatives|relatives]].**
+- **(notcomp) Of or [[b/_belonging|belonging]] to the [[s/_species|species]] [[h/_homo|Homo]] [[s/_sapiens|sapiens]] or [[i/_its|its]] [[c/_closest|closest]] [[r/_relatives|relatives]].**
 - **[[h/_having|Having]] the [[n/_nature|nature]] or [[a/_attributes|attributes]] of a [[h/_human|human]] [[b/_being|being]].**
 	- _Example: To err is human; to forgive, divine._
 ---

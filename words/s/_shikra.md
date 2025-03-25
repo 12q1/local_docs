@@ -1,6 +1,6 @@
 # Shikra
 ---
 #noun
-- **A species of [[h/_hawk|hawk]], [[a/_accipiter|Accipiter]] badius.**
+- **A [[s/_species|species]] of [[h/_hawk|hawk]], [[a/_accipiter|Accipiter]] badius.**
 ---
 ---

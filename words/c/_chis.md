@@ -8,9 +8,9 @@
 ---
 #noun
 - **The [[c/_chinese|Chinese]] [[f/_foot|foot]], a traditional [[c/_chinese|Chinese]] unit of [[l/_length|length]] [[b/_based|based]] on the [[h/_human|human]] [[f/_forearm|forearm]].**
-- **([[m/_mainland|Mainland]] [[c/_china|China]]) The [[c/_chinese|Chinese]] unit of [[l/_length|length]] standardized in 1984 as 1/3 of a [[m/_meter|meter]].**
-- **(Taiwan) The Taiwanese unit of [[l/_length|length]] standardized as 10/33 of a [[m/_meter|meter]], [[i/_identical|identical]] to the [[j/_japanese|Japanese]] [[s/_shaku|shaku]].**
-- **([[h/_hong|Hong]] [[k/_kong|Kong]]) The chek or [[h/_hong|Hong]] [[k/_kong|Kong]] [[f/_foot|foot]], a unit of [[l/_length|length]] standardized as 0.371475 [[m/_meters|meters]].**
+- **([[m/_mainland|Mainland]] [[c/_china|China]]) The [[c/_chinese|Chinese]] unit of [[l/_length|length]] [[s/_standardized|standardized]] in 1984 as 1/3 of a [[m/_meter|meter]].**
+- **(Taiwan) The Taiwanese unit of [[l/_length|length]] [[s/_standardized|standardized]] as 10/33 of a [[m/_meter|meter]], [[i/_identical|identical]] to the [[j/_japanese|Japanese]] [[s/_shaku|shaku]].**
+- **([[h/_hong|Hong]] [[k/_kong|Kong]]) The chek or [[h/_hong|Hong]] [[k/_kong|Kong]] [[f/_foot|foot]], a unit of [[l/_length|length]] [[s/_standardized|standardized]] as 0.371475 [[m/_meters|meters]].**
 ---
 ### Synonyms
 - [[c/_chek|chek]]

@@ -1,7 +1,7 @@
 # Foolishness
 ---
 #noun
-- **The state of [[b/_being|being]] [[f/_foolish|foolish]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[f/_foolish|foolish]].**
 - **A thing or [[e/_event|event]] that is [[f/_foolish|foolish]], or an [[a/_absurdity|absurdity]].**
 ---
 ### Synonyms

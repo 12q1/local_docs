@@ -5,11 +5,11 @@
 	- _Example: You need to flip the pancake onto the other side._
 - **To [[p/_put|put]] [[i/_into|into]] a [[q/_quick|quick]] [[r/_revolving|revolving]] [[m/_motion|motion]] through a [[s/_snap|snap]] of the thumb and [[i/_index|index]] [[f/_finger|finger]].**
 	- _Example: If you can't decide which option to go for, flip a coin._
-- **To win a state (or [[c/_county|county]]) won by [[a/_another|another]] [[p/_party|party]] in the [[p/_preceding|preceding]] [[e/_elections|elections]]**
+- **To win a [[s/_state|state]] (or [[c/_county|county]]) won by [[a/_another|another]] [[p/_party|party]] in the [[p/_preceding|preceding]] [[e/_elections|elections]]**
 	- _Example: Wisconsin had been Democratic for decades, but the Republicans flipped it in 2016._
-- **To turn state'[[s/_s|s]] [[e/_evidence|evidence]]; to [[a/_agree|agree]] to testify [[a/_against|against]] [[o/_one|one]]'[[s/_s|s]] [[c/_co|co]]-[[c/_conspirators|conspirators]] in [[e/_exchange|exchange]] for [[c/_concessions|concessions]] from [[p/_prosecutors|prosecutors]].**
+- **To turn [[s/_state|state]]'[[s/_s|s]] [[e/_evidence|evidence]]; to [[a/_agree|agree]] to testify [[a/_against|against]] [[o/_one|one]]'[[s/_s|s]] [[c/_co|co]]-[[c/_conspirators|conspirators]] in [[e/_exchange|exchange]] for [[c/_concessions|concessions]] from [[p/_prosecutors|prosecutors]].**
 	- _Example: The mafioso flipped on his superiors to get a lighter sentence._
-- **To [[i/_induce|induce]] [[s/_someone|someone]] to turn state'[[s/_s|s]] [[e/_evidence|evidence]]; to [[g/_get|get]] [[s/_someone|someone]] to [[a/_agree|agree]] to testify [[a/_against|against]] their [[c/_co|co]]-[[c/_conspirators|conspirators]] in [[e/_exchange|exchange]] for [[c/_concessions|concessions]].**
+- **To [[i/_induce|induce]] [[s/_someone|someone]] to turn [[s/_state|state]]'[[s/_s|s]] [[e/_evidence|evidence]]; to [[g/_get|get]] [[s/_someone|someone]] to [[a/_agree|agree]] to testify [[a/_against|against]] their [[c/_co|co]]-[[c/_conspirators|conspirators]] in [[e/_exchange|exchange]] for [[c/_concessions|concessions]].**
 	- _Example: The district attorney was able to strengthen his case against the bank robber by flipping the getaway driver._
 - **To [[g/_go|go]] [[b/_berserk|berserk]] or [[c/_crazy|crazy]].**
 	- _Example: I'd flip if anyone broke my phone._

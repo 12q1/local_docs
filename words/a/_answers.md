@@ -1,7 +1,7 @@
 # Answers
 ---
 #noun
-- **A [[r/_response|response]] or [[r/_reply|reply]]; [[s/_something|something]] [[s/_said|said]] or [[d/_done|done]] in [[r/_reaction|reaction]] to a statement or [[q/_question|question]].**
+- **A [[r/_response|response]] or [[r/_reply|reply]]; [[s/_something|something]] [[s/_said|said]] or [[d/_done|done]] in [[r/_reaction|reaction]] to a [[s/_statement|statement]] or [[q/_question|question]].**
 	- _Example: Her answer to his proposal was a slap in the face._
 - **A [[s/_solution|solution]] to a [[p/_problem|problem]].**
 	- _Example: There is no simple answer to corruption._

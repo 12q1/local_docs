@@ -1,9 +1,9 @@
 # Counterstain
 ---
 #noun
-- **A stain [[c/_contrasting|contrasting]] with the [[p/_principal|principal]] stain in [[c/_color|color]], thus [[m/_making|making]] the stained structure [[e/_easier|easier]] to [[s/_see|see]]**
+- **A [[s/_stain|stain]] [[c/_contrasting|contrasting]] with the [[p/_principal|principal]] [[s/_stain|stain]] in [[c/_color|color]], thus [[m/_making|making]] the [[s/_stained|stained]] [[s/_structure|structure]] [[e/_easier|easier]] to [[s/_see|see]]**
 ---
 #verb
-- **To stain with a [[c/_counterstain|counterstain]]**
+- **To [[s/_stain|stain]] with a [[c/_counterstain|counterstain]]**
 ---
 ---

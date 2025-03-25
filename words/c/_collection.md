@@ -12,7 +12,7 @@
 - **[[d/_debt|Debt]] [[c/_collection|collection]].**
 - **The [[a/_act|act]] of [[i/_inferring|inferring]] or [[c/_concluding|concluding]] from [[p/_premises|premises]] or [[o/_observed|observed]] [[f/_facts|facts]]; [[a/_also|also]], that which is [[i/_inferred|inferred]].**
 - **The [[j/_jurisdiction|jurisdiction]] of a [[c/_collector|collector]] of [[e/_excise|excise]].**
-- **(in the [[p/_plural|plural]], [[o/_oxford|Oxford]] University) A [[s/_set|set]] of [[c/_college|college]] [[e/_exams|exams]] [[g/_generally|generally]] taken at the start of the term.**
+- **(in the [[p/_plural|plural]], [[o/_oxford|Oxford]] University) A [[s/_set|set]] of [[c/_college|college]] [[e/_exams|exams]] [[g/_generally|generally]] taken at the [[s/_start|start]] of the term.**
 - **The [[q/_quality|quality]] of [[b/_being|being]] [[c/_collected|collected]]; [[c/_calm|calm]] [[c/_composure|composure]].**
 ---
 ---

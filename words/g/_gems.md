@@ -1,7 +1,7 @@
 # Gems
 ---
 #noun
-- **A [[p/_precious|precious]] stone, usually of substantial [[m/_monetary|monetary]] value or [[p/_prized|prized]] for [[i/_its|its]] [[b/_beauty|beauty]] or [[s/_shine|shine]].**
+- **A [[p/_precious|precious]] [[s/_stone|stone]], usually of substantial [[m/_monetary|monetary]] value or [[p/_prized|prized]] for [[i/_its|its]] [[b/_beauty|beauty]] or [[s/_shine|shine]].**
 - **[[a/_any|Any]] [[p/_precious|precious]] or [[h/_highly|highly]] valued thing or [[p/_person|person]].**
 	- _Example: She's an absolute gem._
 - **[[a/_anything|Anything]] of [[s/_small|small]] [[s/_size|size]], or [[e/_expressed|expressed]] within [[b/_brief|brief]] [[l/_limits|limits]], which is [[r/_regarded|regarded]] as a [[g/_gem|gem]] on [[a/_account|account]] of [[i/_its|its]] [[b/_beauty|beauty]] or value, such as a [[s/_small|small]] [[p/_picture|picture]], a verse of [[p/_poetry|poetry]], or an [[e/_epigram|epigram]].**

@@ -1,7 +1,7 @@
 # Sloshing
 ---
 #verb
-- **(of a [[l/_liquid|liquid]]) To [[s/_shift|shift]] [[c/_chaotically|chaotically]]; to splash [[n/_noisily|noisily]].**
+- **(of a [[l/_liquid|liquid]]) To [[s/_shift|shift]] [[c/_chaotically|chaotically]]; to [[s/_splash|splash]] [[n/_noisily|noisily]].**
 	- _Example: The water in his bottle sloshed back and forth as he ran._
 - **(of a [[l/_liquid|liquid]]) To [[c/_cause|cause]] to [[s/_slosh|slosh]]**
 	- _Example: The boy sloshed water over the edge of the bath._

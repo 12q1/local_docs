@@ -1,12 +1,12 @@
 # Renders
 ---
 #noun
-- **Stucco or [[p/_plaster|plaster]] [[a/_applied|applied]] to walls ([[m/_mostly|mostly]] to [[o/_outside|outside]] [[m/_masonry|masonry]] walls).**
+- **[[s/_stucco|Stucco]] or [[p/_plaster|plaster]] [[a/_applied|applied]] to walls ([[m/_mostly|mostly]] to [[o/_outside|outside]] [[m/_masonry|masonry]] walls).**
 - **A [[d/_digital|digital]] [[i/_image|image]] [[p/_produced|produced]] by [[r/_rendering|rendering]] a [[m/_model|model]].**
 	- _Example: A low-resolution render might look blocky._
 - **A surrender.**
 - **A [[r/_return|return]]; a [[p/_payment|payment]] of [[r/_rent|rent]].**
-- **An [[a/_account|account]] [[g/_given|given]]; a statement.**
+- **An [[a/_account|account]] [[g/_given|given]]; a [[s/_statement|statement]].**
 ---
 #verb
 - **(ditransitive) To [[c/_cause|cause]] to [[b/_become|become]].**

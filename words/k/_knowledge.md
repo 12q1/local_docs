@@ -3,8 +3,8 @@
 #noun
 - **The [[f/_fact|fact]] of [[k/_knowing|knowing]] [[a/_about|about]] [[s/_something|something]]; [[g/_general|general]] understanding or [[f/_familiarity|familiarity]] with a subject, [[p/_place|place]], [[s/_situation|situation]] [[e/_etc|etc]].**
 	- _Example: His knowledge of Iceland was limited to what he'd seen on the Travel Channel._
-- **[[a/_awareness|Awareness]] of a [[p/_particular|particular]] [[f/_fact|fact]] or [[s/_situation|situation]]; a state of [[h/_having|having]] [[b/_been|been]] [[i/_informed|informed]] or [[m/_made|made]] [[a/_aware|aware]] of [[s/_something|something]].**
-- **[[i/_intellectual|Intellectual]] understanding; the state of [[a/_appreciating|appreciating]] truth or [[i/_information|information]].**
+- **[[a/_awareness|Awareness]] of a [[p/_particular|particular]] [[f/_fact|fact]] or [[s/_situation|situation]]; a [[s/_state|state]] of [[h/_having|having]] [[b/_been|been]] [[i/_informed|informed]] or [[m/_made|made]] [[a/_aware|aware]] of [[s/_something|something]].**
+- **[[i/_intellectual|Intellectual]] understanding; the [[s/_state|state]] of [[a/_appreciating|appreciating]] truth or [[i/_information|information]].**
 	- _Example: Knowledge consists in recognizing the difference between good and bad decisions._
 - **[[f/_familiarity|Familiarity]] or understanding of a [[p/_particular|particular]] [[s/_skill|skill]], [[b/_branch|branch]] of [[l/_learning|learning]] [[e/_etc|etc]].**
 	- _Example: A secretary should have a good knowledge of shorthand._

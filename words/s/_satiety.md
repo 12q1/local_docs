@@ -1,7 +1,7 @@
 # Satiety
 ---
 #noun
-- **The state of [[b/_being|being]] [[s/_satiated|satiated]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[s/_satiated|satiated]].**
 	- _Example: Eating half of that loaf of bread has left me in a state of utter satiety._
 ---
 ### Synonyms

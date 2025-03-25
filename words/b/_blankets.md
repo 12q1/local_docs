@@ -7,7 +7,7 @@
 	- _Example: The city woke under a thick blanket of fog._
 - **A thick [[r/_rubber|rubber]] [[m/_mat|mat]] used in the [[o/_offset|offset]] [[p/_printing|printing]] [[p/_process|process]] to transfer [[i/_ink|ink]] from the [[p/_plate|plate]] to the [[p/_paper|paper]] [[b/_being|being]] [[p/_printed|printed]].**
 	- _Example: A press operator must carefully wash the blanket whenever changing a plate._
-- **A streak or [[l/_layer|layer]] of [[b/_blubber|blubber]] in whales.**
+- **A [[s/_streak|streak]] or [[l/_layer|layer]] of [[b/_blubber|blubber]] in whales.**
 ---
 #verb
 - **To [[c/_cover|cover]] with, or as [[i/_if|if]] with, a [[b/_blanket|blanket]].**

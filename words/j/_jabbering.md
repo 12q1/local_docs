@@ -5,6 +5,6 @@
 - **To utter [[r/_rapidly|rapidly]] or [[i/_indistinctly|indistinctly]]; to [[g/_gabble|gabble]].**
 ---
 #noun
-- **Speech that [[j/_jabbers|jabbers]]; [[g/_gibberish|gibberish]].**
+- **[[s/_speech|Speech]] that [[j/_jabbers|jabbers]]; [[g/_gibberish|gibberish]].**
 ---
 ---

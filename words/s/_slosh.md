@@ -1,13 +1,13 @@
 # Slosh
 ---
 #noun
-- **A [[q/_quantity|quantity]] of a [[l/_liquid|liquid]]; [[m/_more|more]] than a splash.**
+- **A [[q/_quantity|quantity]] of a [[l/_liquid|liquid]]; [[m/_more|more]] than a [[s/_splash|splash]].**
 	- _Example: We added a slosh of white wine to the sauce._
 - **A [[s/_sloshing|sloshing]] [[s/_sound|sound]] or [[m/_motion|motion]].**
 - **[[s/_slush|Slush]].**
 ---
 #verb
-- **(of a [[l/_liquid|liquid]]) To [[s/_shift|shift]] [[c/_chaotically|chaotically]]; to splash [[n/_noisily|noisily]].**
+- **(of a [[l/_liquid|liquid]]) To [[s/_shift|shift]] [[c/_chaotically|chaotically]]; to [[s/_splash|splash]] [[n/_noisily|noisily]].**
 	- _Example: The water in his bottle sloshed back and forth as he ran._
 - **(of a [[l/_liquid|liquid]]) To [[c/_cause|cause]] to [[s/_slosh|slosh]]**
 	- _Example: The boy sloshed water over the edge of the bath._

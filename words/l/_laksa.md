@@ -1,6 +1,6 @@
 # Laksa
 ---
 #noun
-- **A spicy [[n/_noodle|noodle]] stew from [[i/_indonesia|Indonesia]] or [[m/_malaysia|Malaysia]].**
+- **A [[s/_spicy|spicy]] [[n/_noodle|noodle]] [[s/_stew|stew]] from [[i/_indonesia|Indonesia]] or [[m/_malaysia|Malaysia]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Cartoon
 ---
 #noun
-- **A [[h/_humorous|humorous]] [[d/_drawing|drawing]], [[o/_often|often]] with a [[c/_caption|caption]], or a strip of such [[d/_drawings|drawings]].**
+- **A [[h/_humorous|humorous]] [[d/_drawing|drawing]], [[o/_often|often]] with a [[c/_caption|caption]], or a [[s/_strip|strip]] of such [[d/_drawings|drawings]].**
 - **A [[d/_drawing|drawing]] [[s/_satirising|satirising]] [[c/_current|current]] [[p/_public|public]] [[f/_figures|figures]].**
 - **An [[a/_artist|artist]]'[[s/_s|s]] [[p/_preliminary|preliminary]] [[s/_sketch|sketch]].**
 - **An [[a/_animated|animated]] [[p/_piece|piece]] of [[f/_film|film]] which is [[o/_often|often]] but not [[e/_exclusively|exclusively]] [[h/_humorous|humorous]].**

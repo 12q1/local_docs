@@ -11,13 +11,13 @@
 - **An [[e/_electric|electric]] [[c/_charge|charge]].**
 - **The [[s/_scope|scope]] of [[s/_someone|someone]]'[[s/_s|s]] [[r/_responsibility|responsibility]].**
 	- _Example: The child was in the nanny's charge._
-- **[[s/_someone|Someone]] or [[s/_something|something]] [[e/_entrusted|entrusted]] to [[o/_one|one]]'[[s/_s|s]] [[c/_care|care]], such as a [[c/_child|child]] to a [[b/_babysitter|babysitter]] or a student to a teacher.**
+- **[[s/_someone|Someone]] or [[s/_something|something]] [[e/_entrusted|entrusted]] to [[o/_one|one]]'[[s/_s|s]] [[c/_care|care]], such as a [[c/_child|child]] to a [[b/_babysitter|babysitter]] or a [[s/_student|student]] to a teacher.**
 	- _Example: The child was a charge of the nanny._
 - **A [[l/_load|load]] or [[b/_burden|burden]]; [[c/_cargo|cargo]].**
 	- _Example: The ship had a charge of colonists and their belongings._
 - **An [[i/_instruction|instruction]].**
 	- _Example: I gave him the charge to get the deal closed by the end of the month._
-- **An [[o/_offensive|offensive]] [[f/_foul|foul]] in which the [[p/_player|player]] with the [[b/_ball|ball]] [[m/_moves|moves]] [[i/_into|into]] a stationary [[d/_defender|defender]].**
+- **An [[o/_offensive|offensive]] [[f/_foul|foul]] in which the [[p/_player|player]] with the [[b/_ball|ball]] [[m/_moves|moves]] [[i/_into|into]] a [[s/_stationary|stationary]] [[d/_defender|defender]].**
 - **A [[m/_measured|measured]] [[a/_amount|amount]] of [[p/_powder|powder]] and/or [[s/_shot|shot]] in a [[f/_firearm|firearm]] [[c/_cartridge|cartridge]].**
 - **An [[i/_image|image]] [[d/_displayed|displayed]] on an [[e/_escutcheon|escutcheon]].**
 - **A [[p/_position|position]] (of a weapon) [[f/_fitted|fitted]] for [[a/_attack|attack]].**
@@ -47,6 +47,6 @@
 - **To [[l/_load|load]] [[e/_equipment|equipment]] with [[m/_material|material]] [[r/_required|required]] for [[i/_its|its]] use, as a [[f/_firearm|firearm]] with [[p/_powder|powder]], a [[f/_fire|fire]] [[h/_hose|hose]] with water, a [[c/_chemical|chemical]] [[r/_reactor|reactor]] with [[r/_raw|raw]] [[m/_materials|materials]]**
 	- _Example: Charge your weapons; we're moving up._
 - **To [[m/_move|move]] [[f/_forward|forward]] [[q/_quickly|quickly]] and [[f/_forcefully|forcefully]], [[p/_particularly|particularly]] in [[c/_combat|combat]] and/or on [[h/_horseback|horseback]]**
-- **(of a [[h/_hunting|hunting]] [[d/_dog|dog]]) to [[l/_lie|lie]] on the [[b/_belly|belly]] and be still (A [[c/_command|command]] [[g/_given|given]] by a [[h/_hunter|hunter]] to a [[d/_dog|dog]])**
+- **(of a [[h/_hunting|hunting]] [[d/_dog|dog]]) to [[l/_lie|lie]] on the [[b/_belly|belly]] and be [[s/_still|still]] (A [[c/_command|command]] [[g/_given|given]] by a [[h/_hunter|hunter]] to a [[d/_dog|dog]])**
 ---
 ---

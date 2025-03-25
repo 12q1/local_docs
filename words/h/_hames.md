@@ -11,8 +11,8 @@
 	- _Example: You've made a right hames of it, you eejit!_
 ---
 #noun
-- **The stems of various [[c/_cultivated|cultivated]] [[p/_plants|plants]], [[l/_left|left]] [[a/_after|after]] [[h/_harvesting|harvesting]] the [[c/_crop|crop]] to be used as [[a/_animal|animal]] [[l/_litter|litter]] or for thatching.**
-- **An [[i/_individual|individual]] [[p/_plant|plant]] stem.**
+- **The [[s/_stems|stems]] of various [[c/_cultivated|cultivated]] [[p/_plants|plants]], [[l/_left|left]] [[a/_after|after]] [[h/_harvesting|harvesting]] the [[c/_crop|crop]] to be used as [[a/_animal|animal]] [[l/_litter|litter]] or for thatching.**
+- **An [[i/_individual|individual]] [[p/_plant|plant]] [[s/_stem|stem]].**
 - **[[p/_part|Part]] of a [[h/_harness|harness]]; a [[h/_hame|hame]].**
 ---
 ### Synonyms

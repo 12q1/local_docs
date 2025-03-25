@@ -13,6 +13,6 @@
 - **A [[g/_gravitational|gravitational]] [[k/_keyhole|keyhole]].**
 ---
 #verb
-- **([[o/_ordnance|ordnance]]) To strike a target [[a/_after|after]] wobbling in [[f/_flight|flight]] [[s/_so|so]] that the [[l/_long|long]] [[a/_axis|axis]] of the [[b/_bullet|bullet]] [[d/_does|does]] not [[f/_follow|follow]] the [[l/_line|line]] of [[f/_flight|flight]]; typically [[d/_due|due]] to [[i/_insufficient|insufficient]] spin [[r/_resulting|resulting]] from the [[r/_rifling|rifling]] in the [[b/_barrel|barrel]].**
+- **([[o/_ordnance|ordnance]]) To [[s/_strike|strike]] a target [[a/_after|after]] wobbling in [[f/_flight|flight]] [[s/_so|so]] that the [[l/_long|long]] [[a/_axis|axis]] of the [[b/_bullet|bullet]] [[d/_does|does]] not [[f/_follow|follow]] the [[l/_line|line]] of [[f/_flight|flight]]; typically [[d/_due|due]] to [[i/_insufficient|insufficient]] [[s/_spin|spin]] [[r/_resulting|resulting]] from the [[r/_rifling|rifling]] in the [[b/_barrel|barrel]].**
 ---
 ---

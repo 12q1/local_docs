@@ -1,6 +1,6 @@
 # Myrmecology
 ---
 #noun
-- **The study of [[a/_ants|ants]].**
+- **The [[s/_study|study]] of [[a/_ants|ants]].**
 ---
 ---

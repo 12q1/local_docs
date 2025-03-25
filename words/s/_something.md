@@ -8,7 +8,7 @@
 - **[[a/_applied|Applied]] to an [[a/_action|action]] whose [[n/_name|name]] is [[f/_forgotten|forgotten]] by, unknown or unimportant to the user, [[e/_e|e]].[[g/_g|g]]. from words of a [[s/_song|song]].**
 ---
 #adjective
-- **[[h/_having|Having]] a [[c/_characteristic|characteristic]] that the [[s/_speaker|speaker]] [[c/_cannot|cannot]] specify.**
+- **[[h/_having|Having]] a [[c/_characteristic|characteristic]] that the [[s/_speaker|speaker]] [[c/_cannot|cannot]] [[s/_specify|specify]].**
 ---
 #adverb
 - **([[d/_degree|degree]]) [[s/_somewhat|Somewhat]]; to a [[d/_degree|degree]].**
@@ -20,7 +20,7 @@
 	- _Example: I have a feeling something good is going to happen today._
 - **(of [[s/_someone|someone]] or [[s/_something|something]]) A [[q/_quality|quality]] to a [[m/_moderate|moderate]] [[d/_degree|degree]].**
 	- _Example: That child is something of a genius._
-- **(of a [[p/_person|person]]) A talent or [[q/_quality|quality]] that is [[d/_difficult|difficult]] to specify.**
+- **(of a [[p/_person|person]]) A talent or [[q/_quality|quality]] that is [[d/_difficult|difficult]] to [[s/_specify|specify]].**
 	- _Example: She has a certain something._
 - **([[o/_often|often]] with [[r/_really|really]] or [[q/_quite|quite]]) [[s/_somebody|Somebody]] who or [[s/_something|something]] that is superlative or [[n/_notable|notable]] in [[s/_some|some]] way.**
 	- _Example: - Some marmosets are less than six inches tall.

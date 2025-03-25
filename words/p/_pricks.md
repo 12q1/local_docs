@@ -31,9 +31,9 @@
 - **To [[m/_make|make]] or [[b/_become|become]] [[s/_sharp|sharp]]; to [[e/_erect|erect]] [[i/_into|into]] a [[p/_point|point]]; to [[r/_raise|raise]], as [[s/_something|something]] [[p/_pointed|pointed]]; [[s/_said|said]] [[e/_especially|especially]] of the [[e/_ears|ears]] of an [[a/_animal|animal]], such as a [[h/_horse|horse]] or [[d/_dog|dog]]; and usually [[f/_followed|followed]] by up.**
 	- _Example: The dog's ears pricked up at the sound of a whistle._
 - **Usually in the [[f/_form|form]] [[p/_prick|prick]] [[o/_out|out]]: to [[p/_plant|plant]] ([[s/_seeds|seeds]] or [[s/_seedlings|seedlings]]) in [[h/_holes|holes]] [[m/_made|made]] in [[s/_soil|soil]] at [[r/_regular|regular]] [[i/_intervals|intervals]].**
-- **To [[i/_incite|incite]], stimulate, [[g/_goad|goad]].**
+- **To [[i/_incite|incite]], [[s/_stimulate|stimulate]], [[g/_goad|goad]].**
 - **To urge [[o/_one|one]]'[[s/_s|s]] [[h/_horse|horse]] on; to [[r/_ride|ride]] [[q/_quickly|quickly]].**
-- **To [[a/_affect|affect]] with [[s/_sharp|sharp]] [[p/_pain|pain]]; to sting, as with [[r/_remorse|remorse]].**
+- **To [[a/_affect|affect]] with [[s/_sharp|sharp]] [[p/_pain|pain]]; to [[s/_sting|sting]], as with [[r/_remorse|remorse]].**
 - **To [[m/_make|make]] [[a/_acidic|acidic]] or [[p/_pungent|pungent]].**
 - **To [[b/_become|become]] [[s/_sharp|sharp]] or [[a/_acid|acid]]; to turn [[s/_sour|sour]], as wine.**
 - **To [[a/_aim|aim]] at a [[p/_point|point]] or [[m/_mark|mark]].**

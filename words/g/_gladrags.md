@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[f/_formal|Formal]] [[a/_attire|attire]], [[d/_dress|dress]] [[c/_clothes|clothes]].**
-- **Stylish [[c/_clothing|clothing]].**
+- **[[s/_stylish|Stylish]] [[c/_clothing|clothing]].**
 ---
 ### Synonyms
 - 

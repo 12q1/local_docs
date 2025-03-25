@@ -1,7 +1,7 @@
 # Cohesion
 ---
 #noun
-- **State of [[c/_cohering|cohering]], or of working together.**
+- **[[s/_state|State]] of [[c/_cohering|cohering]], or of working together.**
 	- _Example: Unit cohesion is important in the military._
 - **Various [[i/_intermolecular|intermolecular]] [[f/_forces|forces]] that [[h/_hold|hold]] [[s/_solids|solids]] and [[l/_liquids|liquids]] together.**
 - **[[g/_growing|Growing]] together of [[n/_normally|normally]] [[d/_distinct|distinct]] [[p/_parts|parts]] of a [[p/_plant|plant]].**

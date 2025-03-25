@@ -1,7 +1,7 @@
 # Rigours
 ---
 #noun
-- **[[s/_severity|Severity]] or strictness.**
+- **[[s/_severity|Severity]] or [[s/_strictness|strictness]].**
 - **[[h/_harshness|Harshness]], as of [[c/_climate|climate]].**
 - **A trembling or [[s/_shivering|shivering]] [[r/_response|response]].**
 - **[[c/_character|Character]] of [[b/_being|being]] unyielding or [[i/_inflexible|inflexible]].**

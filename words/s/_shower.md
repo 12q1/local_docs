@@ -1,7 +1,7 @@
 # Shower
 ---
 #noun
-- **A [[b/_brief|brief]] [[f/_fall|fall]] of [[p/_precipitation|precipitation]] (spell of [[r/_rain|rain]], or a [[s/_similar|similar]] [[f/_fall|fall]] of [[s/_snow|snow]], [[s/_sleet|sleet]], or [[c/_cascade|cascade]]).**
+- **A [[b/_brief|brief]] [[f/_fall|fall]] of [[p/_precipitation|precipitation]] ([[s/_spell|spell]] of [[r/_rain|rain]], or a [[s/_similar|similar]] [[f/_fall|fall]] of [[s/_snow|snow]], [[s/_sleet|sleet]], or [[c/_cascade|cascade]]).**
 	- _Example: Today there will be frequent showers and some sunny spells._
 - **A [[d/_device|device]] for [[b/_bathing|bathing]] by which water is [[m/_made|made]] to [[f/_fall|fall]] on the [[b/_body|body]] from a [[h/_height|height]], [[e/_either|either]] from a tank or by the [[a/_action|action]] of a [[p/_pump|pump]].**
 - **An [[i/_instance|instance]] of using of this [[d/_device|device]] in [[o/_order|order]] to [[b/_bathe|bathe]] [[o/_oneself|oneself]].**
@@ -17,7 +17,7 @@
 ### Synonyms
 - 
 #verb
-- **([[f/_followed|followed]] by with) To spray with (a specified [[l/_liquid|liquid]]).**
+- **([[f/_followed|followed]] by with) To [[s/_spray|spray]] with (a [[s/_specified|specified]] [[l/_liquid|liquid]]).**
 - **To [[b/_bathe|bathe]] using a [[s/_shower|shower]].**
 - **To [[b/_bestow|bestow]] [[l/_liberally|liberally]], to [[g/_give|give]] or [[d/_distribute|distribute]] in [[a/_abundance|abundance]]**
 - **To [[r/_rain|rain]] in a [[s/_shower|shower]]; to [[c/_cascade|cascade]] [[d/_down|down]].**

@@ -1,7 +1,7 @@
 # Clapping
 ---
 #verb
-- **To strike the [[p/_palms|palms]] of the [[h/_hands|hands]] together, [[c/_creating|creating]] a [[s/_sharp|sharp]] [[s/_sound|sound]].**
+- **To [[s/_strike|strike]] the [[p/_palms|palms]] of the [[h/_hands|hands]] together, [[c/_creating|creating]] a [[s/_sharp|sharp]] [[s/_sound|sound]].**
 	- _Example: The children began to clap in time with the music._
 - **To [[a/_applaud|applaud]].**
 	- _Example: It isn’t the singers they are clapping; it's the composer._

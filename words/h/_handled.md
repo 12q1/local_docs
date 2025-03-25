@@ -5,7 +5,7 @@
 - **To [[a/_accustom|accustom]] to the [[h/_hand|hand]]; to take [[c/_care|care]] of with the [[h/_hands|hands]].**
 - **To [[m/_manage|manage]], use, or wield with the [[h/_hands|hands]].**
 - **To [[m/_manage|manage]], [[c/_control|control]], or [[d/_direct|direct]].**
-- **To treat, to [[d/_deal|deal]] with (in a specified way).**
+- **To treat, to [[d/_deal|deal]] with (in a [[s/_specified|specified]] way).**
 	- _Example: she handled the news with grace, the Persians handled the French ambassador shamefully_
 - **To [[d/_deal|deal]] with (a subject, [[a/_argument|argument]], topic, or theme) in [[s/_speaking|speaking]], in writing, or in [[a/_art|art]].**
 - **To [[r/_receive|receive]] and transfer; to [[h/_have|have]] [[p/_pass|pass]] through [[o/_one|one]]'[[s/_s|s]] [[h/_hands|hands]]; [[h/_hence|hence]], to [[b/_buy|buy]] and [[s/_sell|sell]].**
@@ -21,7 +21,7 @@
 ### Synonyms
 - [[d/_deal|deal]], [[f/_feel|feel]], [[f/_finger|finger]], [[m/_manage|manage]], [[t/_touch|touch]], [[t/_treat|treat]]
 #adjective
-- **[[h/_having|Having]] a specified [[n/_number|number]] or [[k/_kind|kind]] of [[h/_handles|handles]].**
+- **[[h/_having|Having]] a [[s/_specified|specified]] [[n/_number|number]] or [[k/_kind|kind]] of [[h/_handles|handles]].**
 	- _Example: a two-handled drinking cup_
 ---
 ---

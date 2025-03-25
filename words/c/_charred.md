@@ -10,7 +10,7 @@
 - **To turn, [[e/_especially|especially]] [[a/_away|away]] or [[a/_aside|aside]].**
 - **To work, [[e/_especially|especially]] to [[d/_do|do]] [[h/_housework|housework]]; to work by the [[d/_day|day]], without [[b/_being|being]] a [[r/_regularly|regularly]] [[h/_hired|hired]] [[s/_servant|servant]].**
 - **To [[p/_perform|perform]]; to [[d/_do|do]]; to [[f/_finish|finish]].**
-- **To work or [[h/_hew|hew]] (stone, [[e/_etc|etc]].).**
+- **To work or [[h/_hew|hew]] ([[s/_stone|stone]], [[e/_etc|etc]].).**
 ---
 #adjective
 - **[[b/_burnt|Burnt]], [[c/_carbonized|carbonized]].**

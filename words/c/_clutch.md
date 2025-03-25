@@ -6,7 +6,7 @@
 - **A [[d/_device|device]] to [[i/_interrupt|interrupt]] [[p/_power|power]] transmission, [[c/_commonly|commonly]] used to [[s/_separate|separate]] the [[e/_engine|engine]] and [[g/_gearbox|gearbox]] in a [[c/_car|car]].**
 - **The [[p/_pedal|pedal]] in a [[c/_car|car]] that [[d/_disengages|disengages]] [[p/_power|power]] and torque transmission from the [[e/_engine|engine]] (through the drivetrain) to the [[d/_drive|drive]] wheels.**
 - **[[a/_any|Any]] [[d/_device|device]] for [[g/_gripping|gripping]] an [[o/_object|object]], as at the [[e/_end|end]] of a [[c/_chain|chain]] or tackle.**
-- **A [[s/_small|small]] [[h/_handbag|handbag]] or [[p/_purse|purse]] with [[n/_no|no]] straps or [[h/_handle|handle]].**
+- **A [[s/_small|small]] [[h/_handbag|handbag]] or [[p/_purse|purse]] with [[n/_no|no]] [[s/_straps|straps]] or [[h/_handle|handle]].**
 ---
 ### Synonyms
 - 

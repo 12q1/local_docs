@@ -9,7 +9,7 @@
 #adjective
 - **Unchanged through time or [[s/_space|space]]; [[p/_permanent|permanent]].**
 - **[[c/_consistently|Consistently]] [[r/_recurring|recurring]] [[o/_over|over]] time; [[p/_persistent|persistent]].**
-- **Steady in [[p/_purpose|purpose]], [[a/_action|action]], [[f/_feeling|feeling]], [[e/_etc|etc]].**
+- **[[s/_steady|Steady]] in [[p/_purpose|purpose]], [[a/_action|action]], [[f/_feeling|feeling]], [[e/_etc|etc]].**
 - **[[f/_firm|Firm]]; [[s/_solid|solid]]; not [[f/_fluid|fluid]].**
 - **[[c/_consistent|Consistent]]; [[l/_logical|logical]].**
 - **([[c/_complexity|complexity]] theory) [[b/_bounded|Bounded]] [[a/_above|above]] by a [[c/_constant|constant]].**

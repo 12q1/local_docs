@@ -6,7 +6,7 @@
 - **[[c/_causing|Causing]] [[s/_someone|someone]] to [[f/_fall|fall]] [[s/_sleep|sleep]] or [[f/_feel|feel]] [[s/_sleepy|sleepy]]; [[l/_lulling|lulling]]; [[s/_soporific|soporific]].**
 	- _Example: It was a warm, drowsy summer afternoon._
 - **[[b/_boring|Boring]].**
-- **[[d/_dull|Dull]]; stupid.**
+- **[[d/_dull|Dull]]; [[s/_stupid|stupid]].**
 ---
 ### Synonyms
 - [[d/_dozy|dozy]], [[l/_lethargic|lethargic]]

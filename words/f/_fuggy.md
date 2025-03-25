@@ -1,6 +1,6 @@
 # Fuggy
 ---
 #adjective
-- **[[m/_muggy|Muggy]], stuffy, with [[b/_bad|bad]] ventilation**
+- **[[m/_muggy|Muggy]], [[s/_stuffy|stuffy]], with [[b/_bad|bad]] ventilation**
 ---
 ---

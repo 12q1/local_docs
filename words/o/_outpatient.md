@@ -6,7 +6,7 @@
 ### Antonyms
 - [[i/_inpatient|inpatient]]
 #adjective
-- **[[p/_provided|Provided]] without [[r/_requiring|requiring]] an [[o/_overnight|overnight]] stay by the [[p/_patient|patient]].**
+- **[[p/_provided|Provided]] without [[r/_requiring|requiring]] an [[o/_overnight|overnight]] [[s/_stay|stay]] by the [[p/_patient|patient]].**
 ---
 ### Synonyms
 - [[a/_ambulatory|ambulatory]]

@@ -4,7 +4,7 @@
 - **The [[a/_act|act]] of [[b/_biting|biting]].**
 - **The wound [[l/_left|left]] [[b/_behind|behind]] [[a/_after|after]] [[h/_having|having]] [[b/_been|been]] [[b/_bitten|bitten]].**
 	- _Example: That snake bite really hurts!_
-- **The swelling of [[o/_one|one]]'[[s/_s|s]] [[s/_skin|skin]] [[c/_caused|caused]] by an [[i/_insect|insect]]'[[s/_s|s]] [[m/_mouthparts|mouthparts]] or sting.**
+- **The swelling of [[o/_one|one]]'[[s/_s|s]] [[s/_skin|skin]] [[c/_caused|caused]] by an [[i/_insect|insect]]'[[s/_s|s]] [[m/_mouthparts|mouthparts]] or [[s/_sting|sting]].**
 	- _Example: After just one night in the jungle I was covered with mosquito bites._
 - **A [[p/_piece|piece]] of [[f/_food|food]] of a [[s/_size|size]] that would be [[p/_produced|produced]] by [[b/_biting|biting]]; a [[m/_mouthful|mouthful]].**
 	- _Example: There were only a few bites left on the plate._
@@ -25,8 +25,8 @@
 - [[m/_mouthful|mouthful]], [[s/_snack|snack]], [[s/_sting|sting]]
 #noun
 - **A [[f/_fish|fish]] that tends to take [[b/_bait|bait]].**
-- **A stone that [[b/_barely|barely]] touches the [[o/_outside|outside]] of the [[h/_house|house]].**
-- **[[o/_one|One]] who [[c/_copies|copies]] [[s/_someone|someone]] [[e/_else|else]]'[[s/_s|s]] work, style or techniques, [[e/_especially|especially]] in [[h/_hip|hip]]-[[h/_hop|hop]].**
+- **A [[s/_stone|stone]] that [[b/_barely|barely]] touches the [[o/_outside|outside]] of the [[h/_house|house]].**
+- **[[o/_one|One]] who [[c/_copies|copies]] [[s/_someone|someone]] [[e/_else|else]]'[[s/_s|s]] work, [[s/_style|style]] or techniques, [[e/_especially|especially]] in [[h/_hip|hip]]-[[h/_hop|hop]].**
 - **A [[c/_cheat|cheat]] or fraudster.**
 - **A zombie.**
 ---

@@ -42,6 +42,6 @@
 ---
 #verb
 - **To [[f/_finish|finish]]; to [[c/_cease|cease]].**
-- **To [[c/_cause|cause]] to [[c/_cease|cease]]; to stop.**
+- **To [[c/_cause|cause]] to [[c/_cease|cease]]; to [[s/_stop|stop]].**
 ---
 ---

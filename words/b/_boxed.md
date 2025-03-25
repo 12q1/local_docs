@@ -15,7 +15,7 @@
 ### Antonyms
 - [[u/_unbox|unbox]], [[u/_uncase|uncase]], [[u/_unpack|unpack]]
 #verb
-- **To strike with the [[f/_fists|fists]]; to [[p/_punch|punch]].**
+- **To [[s/_strike|strike]] with the [[f/_fists|fists]]; to [[p/_punch|punch]].**
 	- _Example: Leave this place before I box you!_
 - **To [[f/_fight|fight]] [[a/_against|against]] (a [[p/_person|person]]) in a [[b/_boxing|boxing]] [[m/_match|match]].**
 - **To [[p/_participate|participate]] in [[b/_boxing|boxing]]; to be a [[b/_boxer|boxer]].**

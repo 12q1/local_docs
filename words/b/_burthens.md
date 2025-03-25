@@ -6,7 +6,7 @@
 - **A [[c/_cause|cause]] of worry; that which is [[g/_grievous|grievous]], wearisome, or [[o/_oppressive|oppressive]].**
 - **The [[c/_capacity|capacity]] of a vessel, or the weight of [[c/_cargo|cargo]] that [[s/_she|she]] will [[c/_carry|carry]].**
 	- _Example: a ship of a hundred tons burden_
-- **The tops or [[h/_heads|heads]] of stream-work which [[l/_lie|lie]] [[o/_over|over]] the stream of tin.**
+- **The tops or [[h/_heads|heads]] of [[s/_stream|stream]]-work which [[l/_lie|lie]] [[o/_over|over]] the [[s/_stream|stream]] of tin.**
 - **The [[p/_proportion|proportion]] of [[o/_ore|ore]] and [[f/_flux|flux]] to [[f/_fuel|fuel]], in the [[c/_charge|charge]] of a [[b/_blast|blast]] [[f/_furnace|furnace]].**
 - **A [[f/_fixed|fixed]] [[q/_quantity|quantity]] of [[c/_certain|certain]] [[c/_commodities|commodities]].**
 	- _Example: A burden of gad steel is 120 pounds._

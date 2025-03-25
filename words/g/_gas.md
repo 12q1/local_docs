@@ -1,9 +1,9 @@
 # Gas
 ---
 #noun
-- **[[m/_matter|Matter]] in a state [[i/_intermediate|intermediate]] [[b/_between|between]] [[l/_liquid|liquid]] and [[p/_plasma|plasma]] that [[c/_can|can]] be [[c/_contained|contained]] [[o/_only|only]] [[i/_if|if]] it is [[f/_fully|fully]] surrounded by a [[s/_solid|solid]] (or in a [[b/_bubble|bubble]] of [[l/_liquid|liquid]]) (or [[h/_held|held]] together by [[g/_gravitational|gravitational]] [[p/_pull|pull]]); it [[c/_can|can]] [[c/_condense|condense]] [[i/_into|into]] a [[l/_liquid|liquid]], or [[c/_can|can]] ([[r/_rarely|rarely]]) [[b/_become|become]] a [[s/_solid|solid]] [[d/_directly|directly]].**
+- **[[m/_matter|Matter]] in a [[s/_state|state]] [[i/_intermediate|intermediate]] [[b/_between|between]] [[l/_liquid|liquid]] and [[p/_plasma|plasma]] that [[c/_can|can]] be [[c/_contained|contained]] [[o/_only|only]] [[i/_if|if]] it is [[f/_fully|fully]] surrounded by a [[s/_solid|solid]] (or in a [[b/_bubble|bubble]] of [[l/_liquid|liquid]]) (or [[h/_held|held]] together by [[g/_gravitational|gravitational]] [[p/_pull|pull]]); it [[c/_can|can]] [[c/_condense|condense]] [[i/_into|into]] a [[l/_liquid|liquid]], or [[c/_can|can]] ([[r/_rarely|rarely]]) [[b/_become|become]] a [[s/_solid|solid]] [[d/_directly|directly]].**
 	- _Example: A lot of gas had escaped from the cylinder._
-- **A [[c/_chemical|chemical]] [[e/_element|element]] or [[c/_compound|compound]] in such a state.**
+- **A [[c/_chemical|chemical]] [[e/_element|element]] or [[c/_compound|compound]] in such a [[s/_state|state]].**
 	- _Example: The atmosphere is made up of a number of different gases._
 - **A [[f/_flammable|flammable]] [[g/_gaseous|gaseous]] [[h/_hydrocarbon|hydrocarbon]] or [[h/_hydrocarbon|hydrocarbon]] [[m/_mixture|mixture]] (typically [[p/_predominantly|predominantly]] [[m/_methane|methane]]) used as a [[f/_fuel|fuel]], [[e/_e|e]].[[g/_g|g]]. for [[c/_cooking|cooking]], [[h/_heating|heating]], [[e/_electricity|electricity]] [[g/_generation|generation]] or as a [[f/_fuel|fuel]] in [[i/_internal|internal]] [[c/_combustion|combustion]] [[e/_engines|engines]] in vehicles.**
 	- _Example: Gas-fired power stations have largely replaced coal-burning ones._

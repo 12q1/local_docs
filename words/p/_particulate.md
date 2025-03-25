@@ -1,7 +1,7 @@
 # Particulate
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in [[p/_plural|plural]]) [[a/_any|Any]] [[s/_solid|solid]] or [[l/_liquid|liquid]] in a subdivided state, [[e/_especially|especially]] [[o/_one|one]] that [[e/_exhibits|exhibits]] special [[c/_characteristics|characteristics]] which are [[n/_negligible|negligible]] in the [[b/_bulk|bulk]] [[m/_material|material]].**
+- **([[c/_chiefly|chiefly]] in [[p/_plural|plural]]) [[a/_any|Any]] [[s/_solid|solid]] or [[l/_liquid|liquid]] in a subdivided [[s/_state|state]], [[e/_especially|especially]] [[o/_one|one]] that [[e/_exhibits|exhibits]] [[s/_special|special]] [[c/_characteristics|characteristics]] which are [[n/_negligible|negligible]] in the [[b/_bulk|bulk]] [[m/_material|material]].**
 	- _Example: Particulates in engine oil can abrade moving parts._
 ---
 ### Synonyms

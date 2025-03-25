@@ -4,7 +4,7 @@
 - **[[s/_section|Section]]**
 - **Zone ([[d/_designated|designated]] [[a/_area|area]]).**
 - **[[p/_part|Part]] of a [[c/_circle|circle]], [[e/_extending|extending]] to the [[c/_center|center]]**
-- **[[f/_fixed|Fixed]]-[[s/_sized|sized]] unit (traditionally 512 [[b/_bytes|bytes]]) of [[s/_sequential|sequential]] [[d/_data|data]] stored on a track of a [[d/_digital|digital]] [[m/_medium|medium]] ([[c/_compare|compare]] to [[b/_block|block]])**
+- **[[f/_fixed|Fixed]]-[[s/_sized|sized]] unit (traditionally 512 [[b/_bytes|bytes]]) of [[s/_sequential|sequential]] [[d/_data|data]] [[s/_stored|stored]] on a track of a [[d/_digital|digital]] [[m/_medium|medium]] ([[c/_compare|compare]] to [[b/_block|block]])**
 - **An [[a/_area|area]] [[d/_designated|designated]] by [[b/_boundaries|boundaries]] within which a unit [[o/_operates|operates]], and for which it is [[r/_responsible|responsible]]**
 - **[[o/_one|One]] of the subdivisions of a [[c/_coastal|coastal]] [[f/_frontier|frontier]]**
 - **A [[f/_fictional|fictional]] [[r/_region|region]] of [[s/_space|space]] [[d/_designated|designated]] for [[n/_navigational|navigational]] or [[g/_governance|governance]] [[p/_purposes|purposes]].**

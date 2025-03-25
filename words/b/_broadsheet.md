@@ -1,7 +1,7 @@
 # Broadsheet
 ---
 #noun
-- **A [[n/_newspaper|newspaper]] [[h/_having|having]] [[p/_pages|pages]] of standard [[d/_dimensions|dimensions]] (as [[o/_opposed|opposed]] to a tabloid), [[e/_especially|especially]] [[o/_one|one]] that [[c/_carries|carries]] [[s/_serious|serious]] treatment of [[n/_news|news]].**
+- **A [[n/_newspaper|newspaper]] [[h/_having|having]] [[p/_pages|pages]] of [[s/_standard|standard]] [[d/_dimensions|dimensions]] (as [[o/_opposed|opposed]] to a tabloid), [[e/_especially|especially]] [[o/_one|one]] that [[c/_carries|carries]] [[s/_serious|serious]] treatment of [[n/_news|news]].**
 ---
 ### Synonyms
 - 

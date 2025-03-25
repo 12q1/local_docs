@@ -1,7 +1,7 @@
 # Shapes
 ---
 #noun
-- **The status or [[c/_condition|condition]] of [[s/_something|something]]**
+- **The [[s/_status|status]] or [[c/_condition|condition]] of [[s/_something|something]]**
 	- _Example: The used bookshop wouldn't offer much due to the poor shape of the book._
 - **[[c/_condition|Condition]] of [[p/_personal|personal]] [[h/_health|health]], [[e/_especially|especially]] [[m/_muscular|muscular]] [[h/_health|health]].**
 	- _Example: The vet checked to see what kind of shape the animal was in._

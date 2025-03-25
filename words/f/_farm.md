@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_place|place]] where [[a/_agricultural|agricultural]] and [[s/_similar|similar]] [[a/_activities|activities]] take [[p/_place|place]], [[e/_especially|especially]] the [[g/_growing|growing]] of [[c/_crops|crops]] or the [[r/_raising|raising]] of [[l/_livestock|livestock]].**
 - **A tract of [[l/_land|land]] [[h/_held|held]] on [[l/_lease|lease]] for the [[p/_purpose|purpose]] of [[c/_cultivation|cultivation]].**
-- **(usually in [[c/_combination|combination]]) A [[l/_location|location]] used for an [[i/_industrial|industrial]] [[p/_purpose|purpose]], [[h/_having|having]] [[m/_many|many]] [[s/_similar|similar]] structures**
+- **(usually in [[c/_combination|combination]]) A [[l/_location|location]] used for an [[i/_industrial|industrial]] [[p/_purpose|purpose]], [[h/_having|having]] [[m/_many|many]] [[s/_similar|similar]] [[s/_structures|structures]]**
 	- _Example: antenna farm_
 - **A [[g/_group|group]] of [[c/_coordinated|coordinated]] [[s/_servers|servers]].**
 	- _Example: a render farm_
@@ -23,6 +23,6 @@
 	- _Example: to farm the taxes_
 - **To [[l/_lease|lease]] or [[l/_let|let]] for an [[e/_equivalent|equivalent]], [[e/_e|e]].[[g/_g|g]]. [[l/_land|land]] for a [[r/_rent|rent]]; to [[y/_yield|yield]] the use of to [[p/_proceeds|proceeds]].**
 - **To take at a [[c/_certain|certain]] [[r/_rent|rent]] or [[r/_rate|rate]].**
-- **To [[e/_engage|engage]] in [[g/_grinding|grinding]] ([[r/_repetitive|repetitive]] [[a/_activity|activity]]) in a [[p/_particular|particular]] [[a/_area|area]] or [[a/_against|against]] specific [[e/_enemies|enemies]] for a [[p/_particular|particular]] [[d/_drop|drop]] or [[i/_item|item]].**
+- **To [[e/_engage|engage]] in [[g/_grinding|grinding]] ([[r/_repetitive|repetitive]] [[a/_activity|activity]]) in a [[p/_particular|particular]] [[a/_area|area]] or [[a/_against|against]] [[s/_specific|specific]] [[e/_enemies|enemies]] for a [[p/_particular|particular]] [[d/_drop|drop]] or [[i/_item|item]].**
 ---
 ---

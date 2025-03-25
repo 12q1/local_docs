@@ -1,14 +1,14 @@
 # Drills
 ---
 #noun
-- **A tool used to [[r/_remove|remove]] [[m/_material|material]] [[s/_so|so]] as to [[c/_create|create]] a [[h/_hole|hole]], typically by [[p/_plunging|plunging]] a [[r/_rotating|rotating]] [[c/_cutting|cutting]] [[b/_bit|bit]] [[i/_into|into]] a stationary workpiece.**
+- **A tool used to [[r/_remove|remove]] [[m/_material|material]] [[s/_so|so]] as to [[c/_create|create]] a [[h/_hole|hole]], typically by [[p/_plunging|plunging]] a [[r/_rotating|rotating]] [[c/_cutting|cutting]] [[b/_bit|bit]] [[i/_into|into]] a [[s/_stationary|stationary]] workpiece.**
 	- _Example: Wear safety glasses when operating an electric drill._
 - **The [[p/_portion|portion]] of a [[d/_drilling|drilling]] tool that [[d/_drives|drives]] the [[b/_bit|bit]].**
 	- _Example: Use a drill with a wire brush to remove any rust or buildup._
 - **An [[a/_activity|activity]] [[d/_done|done]] as an [[e/_exercise|exercise]] or [[p/_practice|practice]] ([[e/_especially|especially]] a [[m/_military|military]] [[e/_exercise|exercise]]), [[p/_particularly|particularly]] in [[p/_preparation|preparation]] for [[s/_some|some]] [[p/_possible|possible]] [[f/_future|future]] [[e/_event|event]] or [[o/_occurrence|occurrence]].**
 	- _Example: Regular fire drills can ensure that everyone knows how to exit safely in an emergency._
 - **[[a/_any|Any]] of [[s/_several|several]] [[m/_molluscs|molluscs]], of the [[g/_genus|genus]] Urosalpinx, [[e/_especially|especially]] the [[o/_oyster|oyster]] [[d/_drill|drill]] (Urosalpinx [[c/_cinerea|cinerea]]), that [[d/_drill|drill]] [[h/_holes|holes]] in the [[s/_shells|shells]] of [[o/_other|other]] [[a/_animals|animals]].**
-- **A style of trap [[m/_music|music]] with [[g/_gritty|gritty]], violent [[l/_lyrics|lyrics]], [[o/_originating|originating]] on the [[s/_south|South]] [[s/_side|Side]] of [[c/_chicago|Chicago]].**
+- **A [[s/_style|style]] of trap [[m/_music|music]] with [[g/_gritty|gritty]], violent [[l/_lyrics|lyrics]], [[o/_originating|originating]] on the [[s/_south|South]] [[s/_side|Side]] of [[c/_chicago|Chicago]].**
 ---
 #verb
 - **To [[c/_create|create]] (a [[h/_hole|hole]]) by [[r/_removing|removing]] [[m/_material|material]] with a [[d/_drill|drill]] (tool).**
@@ -36,7 +36,7 @@
 - **To [[s/_sow|sow]] ([[s/_seeds|seeds]]) by [[d/_dribbling|dribbling]] them [[a/_along|along]] a [[f/_furrow|furrow]] or in a [[r/_row|row]].**
 ---
 #noun
-- **A [[s/_small|small]] trickling stream; a [[r/_rill|rill]].**
+- **A [[s/_small|small]] trickling [[s/_stream|stream]]; a [[r/_rill|rill]].**
 ---
 #verb
 - **To [[c/_cause|cause]] to [[f/_flow|flow]] in [[d/_drills|drills]] or [[r/_rills|rills]] or by trickling; to [[d/_drain|drain]] by trickling.**
@@ -52,7 +52,7 @@
 - **An [[o/_old|Old]] World [[m/_monkey|monkey]] of West [[a/_africa|Africa]], Mandrillus leucophaeus, [[s/_similar|similar]] in [[a/_appearance|appearance]] to the [[m/_mandrill|mandrill]], but [[l/_lacking|lacking]] the [[c/_colorful|colorful]] [[f/_face|face]].**
 ---
 #noun
-- **A strong, [[d/_durable|durable]] [[c/_cotton|cotton]] [[f/_fabric|fabric]] with a strong [[b/_bias|bias]] ([[d/_diagonal|diagonal]]) in the weave.**
+- **A [[s/_strong|strong]], [[d/_durable|durable]] [[c/_cotton|cotton]] [[f/_fabric|fabric]] with a [[s/_strong|strong]] [[b/_bias|bias]] ([[d/_diagonal|diagonal]]) in the weave.**
 ---
 ### Synonyms
 - [[c/_chino|chino]]

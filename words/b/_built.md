@@ -3,7 +3,7 @@
 #verb
 - **To [[f/_form|form]] ([[s/_something|something]]) by [[c/_combining|combining]] [[m/_materials|materials]] or [[p/_parts|parts]].**
 - **To [[d/_develop|develop]] or [[g/_give|give]] [[f/_form|form]] to ([[s/_something|something]]) [[a/_according|according]] to a [[p/_plan|plan]] or [[p/_process|process]].**
-- **To [[i/_increase|increase]] or strengthen ([[s/_something|something]]) by [[a/_adding|adding]] [[g/_gradually|gradually]] to.**
+- **To [[i/_increase|increase]] or [[s/_strengthen|strengthen]] ([[s/_something|something]]) by [[a/_adding|adding]] [[g/_gradually|gradually]] to.**
 - **To [[e/_establish|establish]] a [[b/_basis|basis]] for ([[s/_something|something]]).**
 - **To [[f/_form|form]] by [[c/_combining|combining]] [[m/_materials|materials]] or [[p/_parts|parts]].**
 - **To [[d/_develop|develop]] in [[m/_magnitude|magnitude]] or [[e/_extent|extent]].**
@@ -16,7 +16,7 @@
 ### Antonyms
 - [[d/_demolish|demolish]], [[d/_destroy|destroy]], [[r/_ruin|ruin]], [[w/_wreck|wreck]], [[d/_decrease|decrease]], [[d/_dissipate|dissipate]], [[w/_weaken|weaken]]
 #noun
-- **[[s/_shape|Shape]]; [[b/_build|build]]; [[f/_form|form]] of structure.**
+- **[[s/_shape|Shape]]; [[b/_build|build]]; [[f/_form|form]] of [[s/_structure|structure]].**
 	- _Example: the built of a ship_
 ---
 #adjective

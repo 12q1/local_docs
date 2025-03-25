@@ -1,6 +1,6 @@
 # Phoneticize
 ---
 #verb
-- **To spell by [[p/_phonetic|phonetic]] [[s/_script|script]].**
+- **To [[s/_spell|spell]] by [[p/_phonetic|phonetic]] [[s/_script|script]].**
 ---
 ---

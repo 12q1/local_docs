@@ -1,7 +1,7 @@
 # Intrigue
 ---
 #noun
-- **A [[c/_complicated|complicated]] or [[c/_clandestine|clandestine]] [[p/_plot|plot]] or [[s/_scheme|scheme]] [[i/_intended|intended]] to [[e/_effect|effect]] [[s/_some|some]] [[p/_purpose|purpose]] by [[s/_secret|secret]] [[a/_artifice|artifice]]; [[c/_conspiracy|conspiracy]]; stratagem.**
+- **A [[c/_complicated|complicated]] or [[c/_clandestine|clandestine]] [[p/_plot|plot]] or [[s/_scheme|scheme]] [[i/_intended|intended]] to [[e/_effect|effect]] [[s/_some|some]] [[p/_purpose|purpose]] by [[s/_secret|secret]] [[a/_artifice|artifice]]; [[c/_conspiracy|conspiracy]]; [[s/_stratagem|stratagem]].**
 - **The [[p/_plot|plot]] of a [[p/_play|play]], [[p/_poem|poem]] or [[r/_romance|romance]]; the [[s/_series|series]] of [[c/_complications|complications]] in which a writer [[i/_involves|involves]] their [[i/_imaginary|imaginary]] [[c/_characters|characters]].**
 - **[[c/_clandestine|Clandestine]] [[i/_intercourse|intercourse]] [[b/_between|between]] [[p/_persons|persons]]; [[i/_illicit|illicit]] [[i/_intimacy|intimacy]]; a [[l/_liaison|liaison]] or [[a/_affair|affair]].**
 ---

@@ -7,7 +7,7 @@
 - **A [[p/_process|process]] that [[r/_returns|returns]] to [[i/_its|its]] [[b/_beginning|beginning]] and then [[r/_repeats|repeats]] [[i/_itself|itself]] in the [[s/_same|same]] [[s/_sequence|sequence]].**
 	- _Example: electoral cycle_
 - **The [[m/_members|members]] of the [[s/_sequence|sequence]] [[f/_formed|formed]] by such a [[p/_process|process]].**
-- **In [[m/_musical|musical]] [[s/_set|set]] theory, an [[i/_interval|interval]] [[c/_cycle|cycle]] is the [[s/_set|set]] of [[p/_pitch|pitch]] [[c/_classes|classes]] [[r/_resulting|resulting]] from [[r/_repeatedly|repeatedly]] [[a/_applying|applying]] the [[s/_same|same]] [[i/_interval|interval]] [[c/_class|class]] to the starting [[p/_pitch|pitch]] [[c/_class|class]].**
+- **In [[m/_musical|musical]] [[s/_set|set]] theory, an [[i/_interval|interval]] [[c/_cycle|cycle]] is the [[s/_set|set]] of [[p/_pitch|pitch]] [[c/_classes|classes]] [[r/_resulting|resulting]] from [[r/_repeatedly|repeatedly]] [[a/_applying|applying]] the [[s/_same|same]] [[i/_interval|interval]] [[c/_class|class]] to the [[s/_starting|starting]] [[p/_pitch|pitch]] [[c/_class|class]].**
 	- _Example: The interval cycle C4 consists of the pitch classes 0, 4 and 8; when starting on E, it is realised as the pitches E, G# and C._
 - **A [[s/_series|series]] of [[p/_poems|poems]], [[s/_songs|songs]] or [[o/_other|other]] works of [[a/_art|art]].**
 	- _Example: The "Ring of the Nibelung" is a cycle of four operas by Richard Wagner._
@@ -18,10 +18,10 @@
 	- _Example: Jones hit for the cycle in the game._
 - **A [[c/_closed|closed]] walk or [[p/_path|path]], with or without [[r/_repeated|repeated]] vertices [[a/_allowed|allowed]].**
 - **([[a/_algebraic|algebraic]] topology) A [[c/_chain|chain]] whose [[b/_boundary|boundary]] is zero.**
-- **An [[i/_imaginary|imaginary]] [[c/_circle|circle]] or [[o/_orbit|orbit]] in the [[h/_heavens|heavens]]; [[o/_one|one]] of the [[c/_celestial|celestial]] spheres.**
+- **An [[i/_imaginary|imaginary]] [[c/_circle|circle]] or [[o/_orbit|orbit]] in the [[h/_heavens|heavens]]; [[o/_one|one]] of the [[c/_celestial|celestial]] [[s/_spheres|spheres]].**
 - **An [[a/_age|age]]; a [[l/_long|long]] [[p/_period|period]] of time.**
 - **An [[o/_orderly|orderly]] [[l/_list|list]] for a [[g/_given|given]] time; a [[c/_calendar|calendar]].**
-- **[[o/_one|One]] [[e/_entire|entire]] [[r/_round|round]] in a [[c/_circle|circle]] or a spire.**
+- **[[o/_one|One]] [[e/_entire|entire]] [[r/_round|round]] in a [[c/_circle|circle]] or a [[s/_spire|spire]].**
 	- _Example: a cycle or set of leaves_
 - **A [[d/_discharge|discharge]] of a taser.**
 ---

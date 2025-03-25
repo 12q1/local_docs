@@ -4,10 +4,10 @@
 - **([[a/_animal|animal]] [[a/_anatomy|anatomy]]) a [[b/_breathing|breathing]] [[o/_organ|organ]] of [[f/_fish|fish]] and [[o/_other|other]] [[a/_aquatic|aquatic]] [[a/_animals|animals]]**
 - **(of a [[f/_fish|fish]]) a [[g/_gill|gill]] [[s/_slit|slit]] or [[g/_gill|gill]] [[c/_cover|cover]]**
 	- _Example: Gill nets are designed to catch a fish by the gills._
-- **[[o/_one|One]] of the [[r/_radial|radial]] [[f/_folds|folds]] on the underside of the [[c/_cap|cap]] of a [[m/_mushroom|mushroom]], on the surface of which the spore-[[p/_producing|producing]] [[o/_organs|organs]] are [[b/_borne|borne]]**
+- **[[o/_one|One]] of the [[r/_radial|radial]] [[f/_folds|folds]] on the underside of the [[c/_cap|cap]] of a [[m/_mushroom|mushroom]], on the surface of which the [[s/_spore|spore]]-[[p/_producing|producing]] [[o/_organs|organs]] are [[b/_borne|borne]]**
 - **([[a/_animal|animal]] [[a/_anatomy|anatomy]]) the [[f/_fleshy|fleshy]] [[f/_flap|flap]] that [[h/_hangs|hangs]] [[b/_below|below]] the [[b/_beak|beak]] of a [[f/_fowl|fowl]]; a wattle**
 - **The [[f/_flesh|flesh]] under or [[a/_about|about]] the [[c/_chin|chin]]; a wattle**
-- **(spinning) [[o/_one|one]] of the [[c/_combs|combs]] of [[c/_closely|closely]] [[r/_ranged|ranged]] steel [[p/_pins|pins]] which [[d/_divide|divide]] the [[r/_ribbons|ribbons]] of [[f/_flax|flax]] [[f/_fiber|fiber]] or wool [[i/_into|into]] [[f/_fewer|fewer]] [[p/_parallel|parallel]] [[f/_filaments|filaments]]**
+- **([[s/_spinning|spinning]]) [[o/_one|one]] of the [[c/_combs|combs]] of [[c/_closely|closely]] [[r/_ranged|ranged]] [[s/_steel|steel]] [[p/_pins|pins]] which [[d/_divide|divide]] the [[r/_ribbons|ribbons]] of [[f/_flax|flax]] [[f/_fiber|fiber]] or wool [[i/_into|into]] [[f/_fewer|fewer]] [[p/_parallel|parallel]] [[f/_filaments|filaments]]**
 ---
 ### Synonyms
 - [[l/_lamella|lamella]]

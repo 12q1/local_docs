@@ -8,7 +8,7 @@
 - [[a/_abase|abase]], [[d/_degrade|degrade]], [[d/_depress|depress]], [[d/_disgrace|disgrace]], [[h/_humiliate|humiliate]], [[l/_lower|lower]], [[m/_mortify|mortify]]
 #adjective
 - **(usually [[q/_qualifying|qualifying]] a [[f/_first|first]]-[[p/_person|person]] [[p/_pronoun|pronoun]]) [[g/_grateful|Grateful]] for the support of [[o/_others|others]], touched; [[h/_honored|honored]], [[f/_flattered|flattered]].**
-- **[[o/_overcome|Overcome]] with [[h/_humility|humility]]; in [[a/_awe|awe]] of the strength of [[a/_another|another]] or [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] weakness**
+- **[[o/_overcome|Overcome]] with [[h/_humility|humility]]; in [[a/_awe|awe]] of the [[s/_strength|strength]] of [[a/_another|another]] or [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] weakness**
 ---
 #verb
 - **Of an [[a/_animal|animal]]: to [[r/_remove|remove]] the [[h/_horns|horns]]; to [[p/_poll|poll]].**

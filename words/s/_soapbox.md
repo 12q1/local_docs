@@ -9,6 +9,6 @@
 - **A [[s/_soapbox|soapbox]] [[c/_car|car]].**
 ---
 #verb
-- **To [[g/_give|give]] a speech from (or as [[i/_if|if]] from) a [[s/_soapbox|soapbox]].**
+- **To [[g/_give|give]] a [[s/_speech|speech]] from (or as [[i/_if|if]] from) a [[s/_soapbox|soapbox]].**
 ---
 ---

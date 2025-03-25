@@ -19,7 +19,7 @@
 - **[[h/_holed|Holed]] [[p/_pattern|pattern]] of [[c/_circuitry|circuitry]] to [[d/_decrease|decrease]] [[p/_pattern|pattern]] [[d/_density|density]].**
 - **A [[m/_mass|mass]] of [[p/_pomace|pomace]], or [[g/_ground|ground]] [[a/_apples|apples]], [[p/_pressed|pressed]] together in the [[s/_shape|shape]] of a [[c/_cheese|cheese]].**
 - **The [[f/_flat|flat]], [[c/_circular|circular]], [[m/_mucilaginous|mucilaginous]] [[f/_fruit|fruit]] of the [[d/_dwarf|dwarf]] [[m/_mallow|mallow]] ([[m/_malva|Malva]] rotundifolia) or [[m/_marshmallow|marshmallow]] ([[a/_althaea|Althaea]] officinalis).**
-- **A [[l/_low|low]] [[c/_curtsey|curtsey]]; [[s/_so|so]] [[c/_called|called]] on [[a/_account|account]] of the [[c/_cheese|cheese]] [[s/_shape|shape]] [[a/_assumed|assumed]] by a woman'[[s/_s|s]] [[d/_dress|dress]] when [[s/_she|she]] stoops [[a/_after|after]] [[e/_extending|extending]] the [[s/_skirts|skirts]] by a [[r/_rapid|rapid]] [[g/_gyration|gyration]].**
+- **A [[l/_low|low]] [[c/_curtsey|curtsey]]; [[s/_so|so]] [[c/_called|called]] on [[a/_account|account]] of the [[c/_cheese|cheese]] [[s/_shape|shape]] [[a/_assumed|assumed]] by a woman'[[s/_s|s]] [[d/_dress|dress]] when [[s/_she|she]] [[s/_stoops|stoops]] [[a/_after|after]] [[e/_extending|extending]] the [[s/_skirts|skirts]] by a [[r/_rapid|rapid]] [[g/_gyration|gyration]].**
 ---
 ### Antonyms
 - [[f/_fill|fill]]
@@ -29,7 +29,7 @@
 - **To [[s/_smile|smile]] [[e/_excessively|excessively]], as for a [[c/_camera|camera]].**
 ---
 #verb
-- **To stop; to [[r/_refrain|refrain]] from.**
+- **To [[s/_stop|stop]]; to [[r/_refrain|refrain]] from.**
 	- _Example: Cheese it, the cops!_
 - **To [[a/_anger|anger]] or [[i/_irritate|irritate]] [[s/_someone|someone]], usually in [[c/_combination|combination]] with "[[o/_off|off]]".**
 	- _Example: All this waiting around is really cheesing me off._
@@ -37,7 +37,7 @@
 #verb
 - **To use an unsporting tactic; to [[r/_repeatedly|repeatedly]] use an [[a/_attack|attack]] which is [[o/_overpowered|overpowered]] or [[d/_difficult|difficult]] to [[c/_counter|counter]].**
 	- _Example: You can cheese most of the game using certain exploits._
-- **To use an unconventional, [[a/_all|all]]-in strategy to take [[o/_one|one]]'[[s/_s|s]] [[o/_opponent|opponent]] by surprise [[e/_early|early]] in the [[g/_game|game]] ([[e/_especially|especially]] for [[r/_real|real]]-time strategy [[g/_games|games]]).**
+- **To use an unconventional, [[a/_all|all]]-in [[s/_strategy|strategy]] to take [[o/_one|one]]'[[s/_s|s]] [[o/_opponent|opponent]] by surprise [[e/_early|early]] in the [[g/_game|game]] ([[e/_especially|especially]] for [[r/_real|real]]-time [[s/_strategy|strategy]] [[g/_games|games]]).**
 ---
 ### Synonyms
 - [[r/_rush|rush]], [[z/_zerg|zerg]]

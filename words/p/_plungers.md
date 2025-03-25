@@ -10,7 +10,7 @@
 - **A [[c/_cavalryman|cavalryman]].**
 - **A [[d/_device|device]] [[s/_similar|similar]] to a [[p/_piston|piston]] but without a [[m/_mechanism|mechanism]]; a [[l/_long|long]] [[s/_solid|solid]] [[c/_cylinder|cylinder]] used, [[i/_instead|instead]] of a [[p/_piston|piston]] or [[b/_bucket|bucket]], as a [[f/_forcer|forcer]] in [[p/_pumps|pumps]].**
 - **The [[m/_moving|moving]] [[p/_portion|portion]] of a [[s/_solenoid|solenoid]].**
-- **The spring-[[l/_loaded|loaded]] [[a/_assembly|assembly]] that [[p/_propels|propels]] the [[b/_ball|ball]] [[o/_onto|onto]] the table.**
+- **The [[s/_spring|spring]]-[[l/_loaded|loaded]] [[a/_assembly|assembly]] that [[p/_propels|propels]] the [[b/_ball|ball]] [[o/_onto|onto]] the table.**
 - **A [[r/_reckless|reckless]] [[g/_gambler|gambler]].**
 - **A [[b/_boiler|boiler]] in which [[c/_clay|clay]] is [[b/_beaten|beaten]] by a wheel to a [[c/_creamy|creamy]] [[c/_consistency|consistency]].**
 - **The [[f/_firing|firing]] [[p/_pin|pin]] of a [[b/_breechloader|breechloader]].**

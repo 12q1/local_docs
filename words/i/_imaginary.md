@@ -8,7 +8,7 @@
 #adjective
 - **[[e/_existing|Existing]] [[o/_only|only]] in the [[i/_imagination|imagination]].**
 	- _Example: Santa Claus is imaginary._
-- **(of a [[n/_number|number]]) [[h/_having|Having]] [[n/_no|no]] [[r/_real|real]] [[p/_part|part]]; that [[p/_part|part]] of a [[c/_complex|complex]] [[n/_number|number]] which is a [[m/_multiple|multiple]] of the square [[r/_root|root]] of -1.**
+- **(of a [[n/_number|number]]) [[h/_having|Having]] [[n/_no|no]] [[r/_real|real]] [[p/_part|part]]; that [[p/_part|part]] of a [[c/_complex|complex]] [[n/_number|number]] which is a [[m/_multiple|multiple]] of the [[s/_square|square]] [[r/_root|root]] of -1.**
 ---
 ### Synonyms
 - 

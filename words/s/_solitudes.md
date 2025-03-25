@@ -1,7 +1,7 @@
 # Solitudes
 ---
 #noun
-- **[[a/_aloneness|Aloneness]]; state of [[b/_being|being]] [[a/_alone|alone]] or [[s/_solitary|solitary]], by [[o/_oneself|oneself]].**
+- **[[a/_aloneness|Aloneness]]; [[s/_state|state]] of [[b/_being|being]] [[a/_alone|alone]] or [[s/_solitary|solitary]], by [[o/_oneself|oneself]].**
 - **A [[l/_lonely|lonely]] or [[d/_deserted|deserted]] [[p/_place|place]].**
 ---
 ### Synonyms

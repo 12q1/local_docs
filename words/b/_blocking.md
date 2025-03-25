@@ -9,7 +9,7 @@
 	- _Example: His plan to take over the business was blocked by the boss._
 - **To [[i/_impede|impede]] an [[o/_opponent|opponent]].**
 	- _Example: He blocked the basketball player's shot._
-- **To specify the [[p/_positions|positions]] and [[m/_movements|movements]] of the [[a/_actors|actors]].**
+- **To [[s/_specify|specify]] the [[p/_positions|positions]] and [[m/_movements|movements]] of the [[a/_actors|actors]].**
 	- _Example: It was very difficult to block this scene convincingly._
 - **To [[h/_hit|hit]] with a [[b/_block|block]].**
 - **To [[p/_play|play]] a [[b/_block|block]] [[s/_shot|shot]].**
@@ -17,14 +17,14 @@
 	- _Example: I tried to send you a message, but you've blocked me!_
 - **To wait.**
 	- _Example: When the condition expression is false, the thread blocks on the condition variable._
-- **To stretch or [[m/_mould|mould]] (a [[k/_knitted|knitted]] [[i/_item|item]], a [[h/_hat|hat]], [[e/_etc|etc]].) [[i/_into|into]] the [[d/_desired|desired]] [[s/_shape|shape]].**
+- **To [[s/_stretch|stretch]] or [[m/_mould|mould]] (a [[k/_knitted|knitted]] [[i/_item|item]], a [[h/_hat|hat]], [[e/_etc|etc]].) [[i/_into|into]] the [[d/_desired|desired]] [[s/_shape|shape]].**
 	- _Example: I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard._
 - **To [[s/_shape|shape]] or [[s/_sketch|sketch]] [[o/_out|out]] [[r/_roughly|roughly]].**
 ---
 #noun
 - **The [[a/_act|act]] by which [[s/_something|something]] is [[b/_blocked|blocked]]; an [[o/_obstruction|obstruction]].**
 	- _Example: blocking of major opposition sites_
-- **The [[p/_precise|precise]] [[m/_movement|movement]] and [[p/_positioning|positioning]] of [[a/_actors|actors]] on a stage in [[o/_order|order]] to [[f/_facilitate|facilitate]] the [[p/_performance|performance]] of a [[p/_play|play]], [[b/_ballet|ballet]], [[f/_film|film]] or [[o/_opera|opera]] ([[o/_originally|originally]] [[p/_planned|planned]] using [[m/_miniature|miniature]] [[b/_blocks|blocks]]).**
+- **The [[p/_precise|precise]] [[m/_movement|movement]] and [[p/_positioning|positioning]] of [[a/_actors|actors]] on a [[s/_stage|stage]] in [[o/_order|order]] to [[f/_facilitate|facilitate]] the [[p/_performance|performance]] of a [[p/_play|play]], [[b/_ballet|ballet]], [[f/_film|film]] or [[o/_opera|opera]] ([[o/_originally|originally]] [[p/_planned|planned]] using [[m/_miniature|miniature]] [[b/_blocks|blocks]]).**
 - **[[b/_blocks|Blocks]] used to support (a [[b/_building|building]], [[e/_etc|etc]].) temporarily.**
 - **A [[f/_feature|feature]] that [[p/_prevents|prevents]] a [[k/_keyboard|keyboard]] from [[r/_registering|registering]] [[m/_multiple|multiple]] [[s/_simultaneous|simultaneous]] [[k/_keypresses|keypresses]] that would [[c/_cause|cause]] [[g/_ghosting|ghosting]].**
 ---

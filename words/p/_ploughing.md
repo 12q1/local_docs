@@ -12,7 +12,7 @@
 - **To [[r/_run|run]] through, as in [[s/_sailing|sailing]].**
 - **To trim, or [[s/_shave|shave]] [[o/_off|off]] the [[e/_edges|edges]] of, as a [[b/_book|book]] or [[p/_paper|paper]], with a [[p/_plough|plough]].**
 - **([[j/_joinery|joinery]]) To [[c/_cut|cut]] a [[g/_groove|groove]] in, as in a [[p/_plank|plank]], or the [[e/_edge|edge]] of a [[b/_board|board]]; [[e/_especially|especially]], a [[r/_rectangular|rectangular]] [[g/_groove|groove]] to [[r/_receive|receive]] the [[e/_end|end]] of a [[s/_shelf|shelf]] or tread, the [[e/_edge|edge]] of a [[p/_panel|panel]], a tongue, [[e/_etc|etc]].**
-- **(university [[s/_slang|slang]]) To [[f/_fail|fail]] (a student).**
+- **(university [[s/_slang|slang]]) To [[f/_fail|fail]] (a [[s/_student|student]]).**
 ---
 ### Synonyms
 - [[f/_flunk|flunk]], [[p/_pound|pound]], [[c/_chamfer|chamfer]], [[g/_groove|groove]], [[r/_rut|rut]]

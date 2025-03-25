@@ -4,7 +4,7 @@
 - **A sudden, [[o/_often|often]] uncontrolled [[m/_movement|movement]], [[e/_especially|especially]] of the [[b/_body|body]].**
 - **A [[q/_quick|quick]], [[o/_often|often]] unpleasant tug or [[s/_shake|shake]].**
 	- _Example: When I yell "OK," give the mooring line a good jerk!_
-- **A [[d/_dull|dull]] or stupid [[p/_person|person]].**
+- **A [[d/_dull|dull]] or [[s/_stupid|stupid]] [[p/_person|person]].**
 - **A [[p/_person|person]] with unlikable or [[o/_obnoxious|obnoxious]] [[q/_qualities|qualities]] and [[b/_behavior|behavior]], typically [[m/_mean|mean]], [[s/_self|self]]-[[c/_centered|centered]] or [[d/_disagreeable|disagreeable]].**
 	- _Example: I finally fired him, because he was being a real jerk to his customers, even to some of the staff._
 - **The [[r/_rate|rate]] of [[c/_change|change]] in [[a/_acceleration|acceleration]] with [[r/_respect|respect]] to time.**
@@ -24,6 +24,6 @@
 - **To [[f/_flout|flout]] with [[c/_contempt|contempt]].**
 ---
 #verb
-- **To [[c/_cure|cure]] ([[m/_meat|meat]]) by [[c/_cutting|cutting]] it [[i/_into|into]] strips and [[d/_drying|drying]] it, [[o/_originally|originally]] in the sun.**
+- **To [[c/_cure|cure]] ([[m/_meat|meat]]) by [[c/_cutting|cutting]] it [[i/_into|into]] [[s/_strips|strips]] and [[d/_drying|drying]] it, [[o/_originally|originally]] in the sun.**
 ---
 ---

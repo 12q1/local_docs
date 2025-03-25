@@ -10,7 +10,7 @@
 - [[d/_deplete|deplete]]
 #adjective
 - **[[i/_imbued|Imbued]], [[f/_fully|fully]] [[i/_infused|infused]] (with) [[s/_some|some]] [[q/_quality|quality]].**
-- **[[f/_full|Full]], [[f/_fully|fully]] stocked (with), [[c/_containing|containing]] an [[a/_abundance|abundance]] (of).**
+- **[[f/_full|Full]], [[f/_fully|fully]] [[s/_stocked|stocked]] (with), [[c/_containing|containing]] an [[a/_abundance|abundance]] (of).**
 - **That [[h/_has|has]] [[b/_been|been]] [[r/_refilled|refilled]]; [[r/_restored|restored]] to [[c/_capacity|capacity]] or [[f/_fullness|fullness]], [[f/_full|full]].**
 ---
 ---

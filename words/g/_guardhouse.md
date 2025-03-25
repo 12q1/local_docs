@@ -1,7 +1,7 @@
 # Guardhouse
 ---
 #noun
-- **A station for [[g/_guards|guards]], [[e/_especially|especially]] at the [[e/_entrance|entrance]] of a town, [[c/_castle|castle]], [[e/_etc|etc]].**
+- **A [[s/_station|station]] for [[g/_guards|guards]], [[e/_especially|especially]] at the [[e/_entrance|entrance]] of a town, [[c/_castle|castle]], [[e/_etc|etc]].**
 ---
 ### Synonyms
 - [[b/_barbican|barbican]]

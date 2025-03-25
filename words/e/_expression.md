@@ -10,8 +10,8 @@
 - **An [[a/_arrangement|arrangement]] of [[s/_symbols|symbols]] [[d/_denoting|denoting]] values, [[o/_operations|operations]] [[p/_performed|performed]] on them, and [[g/_grouping|grouping]] [[s/_symbols|symbols]].**
 - **The [[p/_process|process]] of translating a [[g/_gene|gene]] [[i/_into|into]] a [[p/_protein|protein]].**
 - **A [[p/_piece|piece]] of [[c/_code|code]] in a [[h/_high|high]]-[[l/_level|level]] [[l/_language|language]] that [[r/_returns|returns]] a value.**
-- **A specific [[b/_blend|blend]] of whisky.**
-- **The [[a/_act|act]] of [[p/_pressing|pressing]] or squeezing [[o/_out|out]].**
+- **A [[s/_specific|specific]] [[b/_blend|blend]] of whisky.**
+- **The [[a/_act|act]] of [[p/_pressing|pressing]] or [[s/_squeezing|squeezing]] [[o/_out|out]].**
 	- _Example: expression from a gland_
 - **The tone of voice or [[s/_sound|sound]] in [[m/_music|music]].**
 ---

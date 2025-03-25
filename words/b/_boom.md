@@ -10,7 +10,7 @@
 #verb
 - **To [[m/_make|make]] a [[l/_loud|loud]], [[h/_hollow|hollow]], [[r/_resonant|resonant]] [[s/_sound|sound]].**
 	- _Example: I can hear the organ slowly booming from the chapel._
-- **(of speech) To [[e/_exclaim|exclaim]] with [[f/_force|force]], to [[s/_shout|shout]], to thunder.**
+- **(of [[s/_speech|speech]]) To [[e/_exclaim|exclaim]] with [[f/_force|force]], to [[s/_shout|shout]], to thunder.**
 - **To [[m/_make|make]] [[s/_something|something]] [[b/_boom|boom]].**
 	- _Example: Men in grey robes slowly boom the drums of death._
 - **To [[p/_publicly|publicly]] [[p/_praise|praise]].**

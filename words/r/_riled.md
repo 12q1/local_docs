@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[m/_make|make]] [[a/_angry|angry]]**
-- **To stir or [[m/_move|move]] from a state of [[c/_calm|calm]] or [[o/_order|order]]**
+- **To [[s/_stir|stir]] or [[m/_move|move]] from a [[s/_state|state]] of [[c/_calm|calm]] or [[o/_order|order]]**
 	- _Example: It riles me that she never closes the door after she leaves._
 ---
 ### Synonyms

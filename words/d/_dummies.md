@@ -7,7 +7,7 @@
 - **A [[f/_figure|figure]] of a [[p/_person|person]] or [[a/_animal|animal]] used by a ventriloquist; a [[p/_puppet|puppet]].**
 - **[[s/_something|Something]] [[c/_constructed|constructed]] with the [[s/_size|size]] and [[f/_form|form]] of a [[h/_human|human]], to be used in [[p/_place|place]] of a [[p/_person|person]].**
 	- _Example: To understand the effects of the accident, we dropped a dummy from the rooftop._
-- **A [[p/_person|person]] who is the [[m/_mere|mere]] tool of [[a/_another|another]]; a [[m/_man|man]] of straw.**
+- **A [[p/_person|person]] who is the [[m/_mere|mere]] tool of [[a/_another|another]]; a [[m/_man|man]] of [[s/_straw|straw]].**
 - **A [[d/_deliberately|deliberately]] [[n/_nonfunctional|nonfunctional]] [[d/_device|device]] or tool used in [[p/_place|place]] of a [[f/_functional|functional]] [[o/_one|one]].**
 	- _Example: The hammer and drill in the display are dummies._
 - **A "[[d/_dummy|dummy]] teat"; a [[p/_plastic|plastic]] or [[r/_rubber|rubber]] teat used to [[s/_soothe|soothe]] or [[c/_comfort|comfort]] a [[b/_baby|baby]]; a [[p/_pacifier|pacifier]].**

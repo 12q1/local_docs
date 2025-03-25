@@ -24,7 +24,7 @@
 - **To treat in a [[c/_certain|certain]] way.**
 - **To work for or on, by way of [[c/_caring|caring]] for, [[l/_looking|looking]] [[a/_after|after]], [[p/_preparing|preparing]], [[c/_cleaning|cleaning]], [[k/_keeping|keeping]] in [[o/_order|order]], [[e/_etc|etc]].**
 - **To [[a/_act|act]] or [[b/_behave|behave]] in a [[c/_certain|certain]] [[m/_manner|manner]]; to [[c/_conduct|conduct]] [[o/_oneself|oneself]].**
-- **To spend (time) in [[j/_jail|jail]]. ([[s/_see|See]] [[a/_also|also]] [[d/_do|do]] time)**
+- **To [[s/_spend|spend]] (time) in [[j/_jail|jail]]. ([[s/_see|See]] [[a/_also|also]] [[d/_do|do]] time)**
 	- _Example: I did five years for armed robbery._
 - **To [[i/_impersonate|impersonate]] or [[d/_depict|depict]].**
 	- _Example: They really laughed when he did Clinton, with a perfect accent and a leer._

@@ -10,13 +10,13 @@
 #adjective
 - **Not [[n/_negative|negative]] or [[n/_neutral|neutral]].**
 - **[[f/_formally|Formally]] [[l/_laid|laid]] [[d/_down|down]].**
-- **Stated [[d/_definitively|definitively]] and without [[q/_qualification|qualification]].**
+- **[[s/_stated|Stated]] [[d/_definitively|definitively]] and without [[q/_qualification|qualification]].**
 - **[[f/_fully|Fully]] [[a/_assured|assured]] in [[o/_opinion|opinion]].**
 	- _Example: I’m absolutely positive you've spelt that wrong._
 - **Of [[n/_number|number]], [[g/_greater|greater]] than zero.**
 - **[[c/_characterized|Characterized]] by [[c/_constructiveness|constructiveness]] or [[i/_influence|influence]] for the [[b/_better|better]].**
 - **[[o/_overconfident|Overconfident]], [[d/_dogmatic|dogmatic]].**
-- **[[a/_actual|Actual]], [[r/_real|real]], [[c/_concrete|concrete]], not theoretical or speculative.**
+- **[[a/_actual|Actual]], [[r/_real|real]], [[c/_concrete|concrete]], not theoretical or [[s/_speculative|speculative]].**
 - **[[h/_having|Having]] [[m/_more|more]] [[p/_protons|protons]] than [[e/_electrons|electrons]].**
 - **([[g/_grammar|grammar]]) [[d/_describing|Describing]] the [[p/_primary|primary]] [[s/_sense|sense]] of an [[a/_adjective|adjective]], [[a/_adverb|adverb]] or [[n/_noun|noun]]; not [[c/_comparative|comparative]], superlative, [[a/_augmentative|augmentative]] [[n/_nor|nor]] [[d/_diminutive|diminutive]].**
 	- _Example: ‘Better’ is an irregular comparative of the positive form ‘good’._

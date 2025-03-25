@@ -4,7 +4,7 @@
 - **[[d/_drink|Drink]]; [[i/_intoxicating|intoxicating]] [[l/_liquor|liquor]].**
 - **A [[d/_drinking|drinking]] [[b/_bout|bout]]; a [[d/_debauch|debauch]].**
 - **An [[i/_insatiable|insatiable]] thing or [[p/_person|person]].**
-- **([[p/_provincial|provincial]]) A [[d/_drain|drain]] or [[d/_ditch|ditch]]; a [[g/_gutter|gutter]]; [[s/_sometimes|sometimes]], a [[s/_small|small]] stream. [[a/_also|Also]] [[c/_called|called]] guzzen.**
+- **([[p/_provincial|provincial]]) A [[d/_drain|drain]] or [[d/_ditch|ditch]]; a [[g/_gutter|gutter]]; [[s/_sometimes|sometimes]], a [[s/_small|small]] [[s/_stream|stream]]. [[a/_also|Also]] [[c/_called|called]] guzzen.**
 - **The throat**
 ---
 #verb

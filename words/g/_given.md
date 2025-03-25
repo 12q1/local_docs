@@ -42,7 +42,7 @@
 #adjective
 - **[[a/_already|Already]] [[a/_arranged|arranged]].**
 - **[[c/_currently|Currently]] [[d/_discussed|discussed]].**
-- **[[p/_particular|Particular]], specific.**
+- **[[p/_particular|Particular]], [[s/_specific|specific]].**
 	- _Example: No more than three people can be in that space at a given time._
 - **[[a/_assumed|Assumed]] as [[f/_fact|fact]] or [[h/_hypothesis|hypothesis]].**
 	- _Example: Given that we will get the resources, what do we want to achieve?_

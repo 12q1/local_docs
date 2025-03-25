@@ -14,19 +14,19 @@
 - **The [[d/_distance|distance]] a [[s/_sailing|sailing]] vessel [[r/_runs|runs]] [[b/_between|between]] tacks when working to windward.**
 - **The wall that surrounds an [[i/_ice|ice]] [[h/_hockey|hockey]] [[r/_rink|rink]], [[o/_often|often]] in [[p/_plural|plural]].**
 - **A [[l/_long|long]], [[n/_narrow|narrow]] table, [[l/_like|like]] that used in a [[m/_medieval|medieval]] [[d/_dining|dining]] [[h/_hall|hall]].**
-- **[[p/_paper|Paper]] [[m/_made|made]] thick and stiff [[l/_like|like]] a [[b/_board|board]], for [[b/_book|book]] [[c/_covers|covers]], [[e/_etc|etc]].; [[p/_pasteboard|pasteboard]].**
+- **[[p/_paper|Paper]] [[m/_made|made]] thick and [[s/_stiff|stiff]] [[l/_like|like]] a [[b/_board|board]], for [[b/_book|book]] [[c/_covers|covers]], [[e/_etc|etc]].; [[p/_pasteboard|pasteboard]].**
 	- _Example: to bind a book in boards_
-- **A [[l/_level|level]] or stage [[h/_having|having]] a [[p/_particular|particular]] [[l/_layout|layout]].**
+- **A [[l/_level|level]] or [[s/_stage|stage]] [[h/_having|having]] a [[p/_particular|particular]] [[l/_layout|layout]].**
 - **A [[c/_container|container]] for [[h/_holding|holding]] [[p/_pre|pre]]-[[d/_dealt|dealt]] [[c/_cards|cards]] that is used to [[a/_allow|allow]] [[m/_multiple|multiple]] [[s/_sets|sets]] of [[p/_players|players]] to [[p/_play|play]] the [[s/_same|same]] [[c/_cards|cards]].**
 ---
 #verb
-- **To step or [[c/_climb|climb]] [[o/_onto|onto]] or [[o/_otherwise|otherwise]] [[e/_enter|enter]] a [[s/_ship|ship]], [[a/_aircraft|aircraft]], train or [[o/_other|other]] [[c/_conveyance|conveyance]].**
+- **To [[s/_step|step]] or [[c/_climb|climb]] [[o/_onto|onto]] or [[o/_otherwise|otherwise]] [[e/_enter|enter]] a [[s/_ship|ship]], [[a/_aircraft|aircraft]], train or [[o/_other|other]] [[c/_conveyance|conveyance]].**
 	- _Example: It is time to board the aircraft._
 - **To [[p/_provide|provide]] [[s/_someone|someone]] with [[m/_meals|meals]] and [[l/_lodging|lodging]], usually in [[e/_exchange|exchange]] for [[m/_money|money]].**
 	- _Example: to board one's horse at a livery stable_
 - **To [[r/_receive|receive]] [[m/_meals|meals]] and [[l/_lodging|lodging]] in [[e/_exchange|exchange]] for [[m/_money|money]].**
 - **To [[c/_capture|capture]] an [[e/_enemy|enemy]] [[s/_ship|ship]] by [[g/_going|going]] [[a/_alongside|alongside]] and [[g/_grappling|grappling]] [[h/_her|her]], then [[i/_invading|invading]] [[h/_her|her]] with a [[b/_boarding|boarding]] [[p/_party|party]]**
-- **To [[o/_obtain|obtain]] [[m/_meals|meals]], or [[m/_meals|meals]] and [[l/_lodgings|lodgings]], statedly for [[c/_compensation|compensation]]**
+- **To [[o/_obtain|obtain]] [[m/_meals|meals]], or [[m/_meals|meals]] and [[l/_lodgings|lodgings]], [[s/_statedly|statedly]] for [[c/_compensation|compensation]]**
 - **To [[a/_approach|approach]] ([[s/_someone|someone]]); to [[m/_make|make]] [[a/_advances|advances]] to, [[a/_accost|accost]].**
 - **To [[c/_cover|cover]] with [[b/_boards|boards]] or [[b/_boarding|boarding]].**
 	- _Example: to board a house_

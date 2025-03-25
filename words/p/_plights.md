@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[d/_dire|dire]] or unfortunate [[s/_situation|situation]].**
-- **A ([[n/_neutral|neutral]]) [[c/_condition|condition]] or state.**
+- **A ([[n/_neutral|neutral]]) [[c/_condition|condition]] or [[s/_state|state]].**
 - **[[g/_good|Good]] [[h/_health|health]].**
 ---
 #noun
@@ -14,7 +14,7 @@
 ---
 #verb
 - **To [[e/_expose|expose]] to [[r/_risk|risk]]; to [[p/_pledge|pledge]].**
-- **Specifically, to [[p/_pledge|pledge]] ([[o/_one|one]]'[[s/_s|s]] troth [[e/_etc|etc]].) as [[p/_part|part]] of a [[m/_marriage|marriage]] [[c/_ceremony|ceremony]].**
+- **[[s/_specifically|Specifically]], to [[p/_pledge|pledge]] ([[o/_one|one]]'[[s/_s|s]] troth [[e/_etc|etc]].) as [[p/_part|part]] of a [[m/_marriage|marriage]] [[c/_ceremony|ceremony]].**
 - **To [[p/_promise|promise]] ([[o/_oneself|oneself]]) to [[s/_someone|someone]], or to [[d/_do|do]] [[s/_something|something]].**
 ---
 #verb

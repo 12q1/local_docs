@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_loud|loud]], [[e/_emphatic|emphatic]], [[e/_exclamation|exclamation]] of [[e/_extreme|extreme]] [[e/_emotion|emotion]], [[e/_especially|especially]] [[h/_horror|horror]], [[f/_fear|fear]], [[e/_excitement|excitement]], or [[a/_anger|anger]]; it [[m/_may|may]] [[c/_comprise|comprise]] a word or a sustained, [[h/_high|high]]-[[p/_pitched|pitched]] vowel [[s/_sound|sound]].**
-- **A [[f/_form|form]] of [[s/_singing|singing]] [[a/_associated|associated]] with the [[m/_metal|metal]] and screamo styles of [[m/_music|music]]. It is a [[l/_loud|loud]], [[r/_rough|rough]], [[d/_distorted|distorted]] version of the voice; [[r/_rather|rather]] than the [[n/_normal|normal]] voice of the [[s/_singer|singer]].**
+- **A [[f/_form|form]] of [[s/_singing|singing]] [[a/_associated|associated]] with the [[m/_metal|metal]] and screamo [[s/_styles|styles]] of [[m/_music|music]]. It is a [[l/_loud|loud]], [[r/_rough|rough]], [[d/_distorted|distorted]] version of the voice; [[r/_rather|rather]] than the [[n/_normal|normal]] voice of the [[s/_singer|singer]].**
 - **Used as an [[i/_intensifier|intensifier]]**
 	- _Example: We had a real scream of a time at the beach._
 - **([[p/_printers|printers]]' [[s/_slang|slang]]) [[e/_exclamation|exclamation]] [[m/_mark|mark]]**

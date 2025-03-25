@@ -5,7 +5,7 @@
 - **To [[d/_deprive|deprive]] (a [[p/_person|person]]) of [[s/_something|something]] through theft or violence.**
 ---
 #verb
-- **To split, tear, [[b/_break|break]] [[a/_apart|apart]].**
+- **To [[s/_split|split]], tear, [[b/_break|break]] [[a/_apart|apart]].**
 ---
 #noun
 - **A [[c/_chink|chink]]; a [[r/_rift|rift]].**

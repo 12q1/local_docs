@@ -3,7 +3,7 @@
 #noun
 - **A [[b/_beaten|beaten]] or [[p/_pulverized|pulverized]] [[m/_mass|mass]].**
 	- _Example: The steamroller left her pie an unrecognizable smush._
-- **An [[a/_act|act]] of [[c/_crushing|crushing]] or squeezing.**
+- **An [[a/_act|act]] of [[c/_crushing|crushing]] or [[s/_squeezing|squeezing]].**
 ---
 #verb
 - **To [[m/_mash|mash]]; or [[p/_push|push]]; [[e/_especially|especially]] to [[p/_push|push]] [[d/_down|down]] or in; [[c/_compress|compress]]**

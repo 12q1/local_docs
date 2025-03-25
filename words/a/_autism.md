@@ -8,7 +8,7 @@
 ### Synonyms
 - 
 #noun
-- **The [[r/_range|range]] of [[c/_conditions|conditions]] [[c/_classified|classified]] as [[p/_pervasive|pervasive]] [[d/_developmental|developmental]] [[d/_disorders|disorders]], [[g/_generally|generally]] [[h/_held|held]] to [[i/_include|include]] [[a/_autistic|autistic]] [[d/_disorder|disorder]], [[a/_asperger|Asperger]] [[s/_syndrome|syndrome]], and [[p/_pervasive|pervasive]] [[d/_developmental|developmental]] [[d/_disorder|disorder]] - not [[o/_otherwise|otherwise]] specified (PDD-[[n/_nos|NOS]]). [[a/_also|Also]] [[i/_includes|includes]] [[c/_childhood|childhood]] [[d/_disintegrative|disintegrative]] [[d/_disorder|disorder]] and Rett [[s/_syndrome|syndrome]].**
+- **The [[r/_range|range]] of [[c/_conditions|conditions]] [[c/_classified|classified]] as [[p/_pervasive|pervasive]] [[d/_developmental|developmental]] [[d/_disorders|disorders]], [[g/_generally|generally]] [[h/_held|held]] to [[i/_include|include]] [[a/_autistic|autistic]] [[d/_disorder|disorder]], [[a/_asperger|Asperger]] [[s/_syndrome|syndrome]], and [[p/_pervasive|pervasive]] [[d/_developmental|developmental]] [[d/_disorder|disorder]] - not [[o/_otherwise|otherwise]] [[s/_specified|specified]] (PDD-[[n/_nos|NOS]]). [[a/_also|Also]] [[i/_includes|includes]] [[c/_childhood|childhood]] [[d/_disintegrative|disintegrative]] [[d/_disorder|disorder]] and Rett [[s/_syndrome|syndrome]].**
 ---
 ### Synonyms
 - 

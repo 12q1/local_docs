@@ -6,7 +6,7 @@
 ---
 #noun
 - **A [[l/_layer|layer]] or [[l/_layers|layers]] of [[q/_quilted|quilted]] [[p/_padding|padding]].**
-- **A [[c/_coating|coating]] of strands of [[r/_rope|rope]] for a water vessel.**
+- **A [[c/_coating|coating]] of [[s/_strands|strands]] of [[r/_rope|rope]] for a water vessel.**
 - **The [[p/_practice|practice]] of [[c/_creating|creating]] [[q/_quilts|quilts]]**
 ---
 ---

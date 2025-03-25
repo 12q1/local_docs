@@ -1,7 +1,7 @@
 # Dependencies
 ---
 #noun
-- **A state of [[d/_dependence|dependence]]; a [[r/_refusal|refusal]] to [[e/_exercise|exercise]] [[i/_initiative|initiative]].**
+- **A [[s/_state|state]] of [[d/_dependence|dependence]]; a [[r/_refusal|refusal]] to [[e/_exercise|exercise]] [[i/_initiative|initiative]].**
 - **[[s/_something|Something]] [[d/_dependent|dependent]] on, or subordinate to, [[s/_something|something]] [[e/_else|else]]:**
 - **A [[c/_colony|colony]], or a territory subject to [[r/_rule|rule]] by an [[e/_external|external]] [[p/_power|power]].**
 - **A [[d/_dependence|dependence]] on a [[h/_habit|habit]]-[[f/_forming|forming]] substance such as a [[d/_drug|drug]] or [[a/_alcohol|alcohol]]; [[a/_addiction|addiction]].**

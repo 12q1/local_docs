@@ -1,7 +1,7 @@
 # Preparing
 ---
 #verb
-- **To [[m/_make|make]] [[r/_ready|ready]] for a specific [[f/_future|future]] [[p/_purpose|purpose]]; to [[s/_set|set]] up; to [[a/_assemble|assemble]] or [[e/_equip|equip]].**
+- **To [[m/_make|make]] [[r/_ready|ready]] for a [[s/_specific|specific]] [[f/_future|future]] [[p/_purpose|purpose]]; to [[s/_set|set]] up; to [[a/_assemble|assemble]] or [[e/_equip|equip]].**
 	- _Example: We prepared the spacecraft for takeoff._
 - **To [[m/_make|make]] [[r/_ready|ready]] for [[e/_eating|eating]] or [[d/_drinking|drinking]]; to [[c/_cook|cook]].**
 	- _Example: We prepared a fish for dinner._

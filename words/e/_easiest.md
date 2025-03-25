@@ -12,7 +12,7 @@
 - **(of a woman) [[c/_consenting|Consenting]] [[r/_readily|readily]] to [[s/_sex|sex]].**
 	- _Example: She has a reputation for being easy; they say she slept with half the senior class._
 - **Not [[m/_making|making]] [[r/_resistance|resistance]] or [[s/_showing|showing]] unwillingness; tractable; [[y/_yielding|yielding]]; [[c/_compliant|compliant]].**
-- **Not straitened as to [[m/_money|money]] [[m/_matters|matters]]; [[o/_opposed|opposed]] to tight.**
+- **Not [[s/_straitened|straitened]] as to [[m/_money|money]] [[m/_matters|matters]]; [[o/_opposed|opposed]] to tight.**
 	- _Example: The market is easy._
 ---
 ### Synonyms

@@ -16,7 +16,7 @@
 - **[[n/_non|Non]]-[[l/_linear|linear]] or unconventional, as in, [[l/_lateral|lateral]] thinking.**
 - **[[p/_pertaining|Pertaining]] to the [[l/_left|left]] or [[r/_right|right]] of the [[b/_body|body]]; [[f/_further|further]] from the [[m/_midline|midline]].**
 	- _Example: A fish senses changes in hydrodynamic pressure with its lateral line._
-- **At [[r/_right|right]] [[a/_angles|angles]] to a [[l/_line|line]] of [[m/_motion|motion]] or strain.**
+- **At [[r/_right|right]] [[a/_angles|angles]] to a [[l/_line|line]] of [[m/_motion|motion]] or [[s/_strain|strain]].**
 - **[[p/_pertaining|Pertaining]] to [[s/_sounds|sounds]] [[g/_generated|generated]] by [[p/_partially|partially]] [[b/_blocking|blocking]] the [[e/_egress|egress]] of the [[a/_airstream|airstream]] with the tip of the tongue touching the [[a/_alveolar|alveolar]] [[r/_ridge|ridge]], [[l/_leaving|leaving]] [[s/_space|space]] on [[o/_one|one]] or [[b/_both|both]] [[s/_sides|sides]] of the [[o/_occlusion|occlusion]] for [[a/_air|air]] [[p/_passage|passage]].**
 ---
 ### Synonyms

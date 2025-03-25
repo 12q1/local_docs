@@ -5,7 +5,7 @@
 ---
 #adverb
 - **On [[f/_foot|foot]]. ([[m/_means|means]] of [[l/_locomotion|locomotion]], walking)**
-- **On [[f/_foot|foot]]. (support of the [[b/_body|body]], standing)**
-- **In [[m/_motion|motion]]; in [[a/_action|action]]; [[a/_astir|astir]]; stirring; in [[p/_progress|progress]].**
+- **On [[f/_foot|foot]]. (support of the [[b/_body|body]], [[s/_standing|standing]])**
+- **In [[m/_motion|motion]]; in [[a/_action|action]]; [[a/_astir|astir]]; [[s/_stirring|stirring]]; in [[p/_progress|progress]].**
 ---
 ---

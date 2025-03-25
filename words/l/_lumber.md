@@ -1,9 +1,9 @@
 # Lumber
 ---
 #noun
-- **[[o/_old|Old]] [[f/_furniture|furniture]] or [[o/_other|other]] [[i/_items|items]] that take up [[r/_room|room]], or are stored [[a/_away|away]].**
+- **[[o/_old|Old]] [[f/_furniture|furniture]] or [[o/_other|other]] [[i/_items|items]] that take up [[r/_room|room]], or are [[s/_stored|stored]] [[a/_away|away]].**
 - **Useless or [[c/_cumbrous|cumbrous]] [[m/_material|material]].**
-- **A [[p/_pawnbroker|pawnbroker]]'[[s/_s|s]] [[s/_shop|shop]], or [[r/_room|room]] for storing [[a/_articles|articles]] [[p/_put|put]] in [[p/_pawn|pawn]]; [[h/_hence|hence]], a [[p/_pledge|pledge]], or [[p/_pawn|pawn]].**
+- **A [[p/_pawnbroker|pawnbroker]]'[[s/_s|s]] [[s/_shop|shop]], or [[r/_room|room]] for [[s/_storing|storing]] [[a/_articles|articles]] [[p/_put|put]] in [[p/_pawn|pawn]]; [[h/_hence|hence]], a [[p/_pledge|pledge]], or [[p/_pawn|pawn]].**
 - **Wood [[s/_sawn|sawn]] [[i/_into|into]] [[p/_planks|planks]] or [[o/_otherwise|otherwise]] [[p/_prepared|prepared]] for [[s/_sale|sale]] or use, [[e/_especially|especially]] as a [[b/_building|building]] [[m/_material|material]].**
 - **A [[b/_baseball|baseball]] [[b/_bat|bat]].**
 ---

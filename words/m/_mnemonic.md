@@ -8,7 +8,7 @@
 ### Synonyms
 - [[a/_aide-mémoire|aide-mémoire]]
 #adjective
-- **Of or [[r/_relating|relating]] to [[m/_mnemonics|mnemonics]]: the study of techniques for [[r/_remembering|remembering]] [[a/_anything|anything]] [[m/_more|more]] [[e/_easily|easily]].**
+- **Of or [[r/_relating|relating]] to [[m/_mnemonics|mnemonics]]: the [[s/_study|study]] of techniques for [[r/_remembering|remembering]] [[a/_anything|anything]] [[m/_more|more]] [[e/_easily|easily]].**
 - **Of or [[r/_relating|relating]] to [[m/_memory|memory]].**
 ---
 ---

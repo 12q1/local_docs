@@ -1,7 +1,7 @@
 # Narrow
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[n/_narrow|narrow]] [[p/_passage|passage]], [[e/_especially|especially]] a [[c/_contracted|contracted]] [[p/_part|part]] of a stream, [[l/_lake|lake]], or [[s/_sea|sea]]; a strait [[c/_connecting|connecting]] two [[b/_bodies|bodies]] of water.**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[n/_narrow|narrow]] [[p/_passage|passage]], [[e/_especially|especially]] a [[c/_contracted|contracted]] [[p/_part|part]] of a [[s/_stream|stream]], [[l/_lake|lake]], or [[s/_sea|sea]]; a [[s/_strait|strait]] [[c/_connecting|connecting]] two [[b/_bodies|bodies]] of water.**
 	- _Example: the narrows of New York harbor_
 ---
 #adjective
@@ -14,7 +14,7 @@
 	- _Example: a narrow mind_
 - **[[h/_having|Having]] a [[s/_small|small]] [[m/_margin|margin]] or [[d/_degree|degree]].**
 	- _Example: The Republicans won by a narrow majority._
-- **[[l/_limited|Limited]] as to [[m/_means|means]]; straitened**
+- **[[l/_limited|Limited]] as to [[m/_means|means]]; [[s/_straitened|straitened]]**
 	- _Example: narrow circumstances_
 - **[[p/_parsimonious|Parsimonious]]; [[n/_niggardly|niggardly]]; [[c/_covetous|covetous]]; [[s/_selfish|selfish]].**
 - **[[s/_scrutinizing|Scrutinizing]] in [[d/_detail|detail]]; [[c/_close|close]]; [[a/_accurate|accurate]]; [[e/_exact|exact]].**

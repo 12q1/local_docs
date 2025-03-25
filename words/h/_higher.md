@@ -4,9 +4,9 @@
 - **Very [[e/_elevated|elevated]]; [[e/_extending|extending]] or [[b/_being|being]] [[f/_far|far]] [[a/_above|above]] a [[b/_base|base]]; tall; [[l/_lofty|lofty]].**
 	- _Example: The balloon rose high in the sky.   The wall was high.   a high mountain_
 - **[[r/_relatively|Relatively]] [[e/_elevated|elevated]]; [[r/_rising|rising]] or [[r/_raised|raised]] [[a/_above|above]] the [[a/_average|average]] or [[n/_normal|normal]] [[l/_level|level]] from which [[e/_elevation|elevation]] is [[m/_measured|measured]].**
-- **[[h/_having|Having]] a specified [[e/_elevation|elevation]] or [[h/_height|height]]; tall.**
+- **[[h/_having|Having]] a [[s/_specified|specified]] [[e/_elevation|elevation]] or [[h/_height|height]]; tall.**
 	- _Example: three feet high   three Mount Everests high_
-- **[[e/_elevated|Elevated]] in status, [[e/_esteem|esteem]], [[p/_prestige|prestige]]; [[e/_exalted|exalted]] in [[r/_rank|rank]], station, or [[c/_character|character]].**
+- **[[e/_elevated|Elevated]] in [[s/_status|status]], [[e/_esteem|esteem]], [[p/_prestige|prestige]]; [[e/_exalted|exalted]] in [[r/_rank|rank]], [[s/_station|station]], or [[c/_character|character]].**
 	- _Example: The oldest of the elves' royal family still conversed in High Elvish._
 - **Of [[g/_great|great]] [[i/_importance|importance]] and [[c/_consequence|consequence]]: [[g/_grave|grave]] ([[i/_if|if]] [[n/_negative|negative]]) or [[s/_solemn|solemn]] ([[i/_if|if]] [[p/_positive|positive]]).**
 	- _Example: high crimes, the high festival of the sun_
@@ -29,7 +29,7 @@
 	- _Example: The note was too high for her to sing._
 - **[[m/_made|Made]] with [[s/_some|some]] [[p/_part|part]] of the tongue [[p/_positioned|positioned]] [[h/_high|high]] in the [[m/_mouth|mouth]], [[r/_relatively|relatively]] [[c/_close|close]] to the [[p/_palate|palate]].**
 - **[[g/_greater|Greater]] in value than [[o/_other|other]] [[c/_cards|cards]], [[d/_denominations|denominations]], suits, [[e/_etc|etc]].**
-- **(of [[m/_meat|meat]], [[e/_especially|especially]] venison) Strong-[[s/_scented|scented]]; [[s/_slightly|slightly]] tainted/spoiled; [[b/_beginning|beginning]] to [[d/_decompose|decompose]].**
+- **(of [[m/_meat|meat]], [[e/_especially|especially]] venison) [[s/_strong|Strong]]-[[s/_scented|scented]]; [[s/_slightly|slightly]] tainted/[[s/_spoiled|spoiled]]; [[b/_beginning|beginning]] to [[d/_decompose|decompose]].**
 	- _Example: Epicures do not cook game before it is high._
 - **[[i/_intoxicated|Intoxicated]]; under the [[i/_influence|influence]] of a [[m/_mood|mood]]-[[a/_altering|altering]] [[d/_drug|drug]], [[f/_formerly|formerly]] usually [[a/_alcohol|alcohol]], but [[n/_now|now]] (from the [[m/_mid|mid]]-20th [[c/_century|century]]) usually not [[a/_alcohol|alcohol]] but [[r/_rather|rather]] [[m/_marijuana|marijuana]], [[c/_cocaine|cocaine]], [[h/_heroin|heroin]], [[e/_etc|etc]].**
 - **(of a [[s/_sailing|sailing]] [[s/_ship|ship]]) [[n/_near|Near]], in [[i/_its|its]] [[d/_direction|direction]] of travel, to the ([[d/_direction|direction]] of the) wind.**

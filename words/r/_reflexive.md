@@ -19,7 +19,7 @@
 	- _Example: "Equals" is a reflexive relation._
 - **Of or [[r/_resulting|resulting]] from a [[r/_reflex|reflex]].**
 	- _Example: The electric shock elicited an automatic and reflexive response from him._
-- **[[p/_producing|Producing]] [[i/_immediate|immediate]] [[r/_response|response]], spontaneous.**
+- **[[p/_producing|Producing]] [[i/_immediate|immediate]] [[r/_response|response]], [[s/_spontaneous|spontaneous]].**
 	- _Example: a reflexive dislike_
 ---
 ### Antonyms

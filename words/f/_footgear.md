@@ -1,6 +1,6 @@
 # Footgear
 ---
 #noun
-- **Sturdy [[f/_footwear|footwear]]**
+- **[[s/_sturdy|Sturdy]] [[f/_footwear|footwear]]**
 ---
 ---

@@ -12,11 +12,11 @@
 	- _Example: That explanation doesn’t jibe with the facts._
 ---
 #verb
-- **[[a/_alternative|Alternative]] spelling of [[g/_gybe|gybe]]**
+- **[[a/_alternative|Alternative]] [[s/_spelling|spelling]] of [[g/_gybe|gybe]]**
 ---
 #noun
-- **A [[d/_dance|dance]] style [[p/_popular|popular]] in the 1940–50s.**
-- **Swing, a style of [[j/_jazz|jazz]] [[m/_music|music]].**
+- **A [[d/_dance|dance]] [[s/_style|style]] [[p/_popular|popular]] in the 1940–50s.**
+- **Swing, a [[s/_style|style]] of [[j/_jazz|jazz]] [[m/_music|music]].**
 - **A [[s/_slang|slang]] [[a/_associated|associated]] with [[j/_jazz|jazz]] [[m/_musicians|musicians]]; [[h/_hepcat|hepcat]] [[p/_patois|patois]] or [[h/_hipster|hipster]] [[j/_jargon|jargon]].**
 - **[[n/_nonsense|Nonsense]]; transparently [[d/_deceptive|deceptive]] talk.**
 	- _Example: Don’t give me that jive. I know where you were last night._

@@ -16,6 +16,6 @@
 #verb
 - **To [[r/_ring|ring]] a [[b/_bell|bell]] by [[p/_pulling|pulling]] a [[r/_rope|rope]] [[a/_attached|attached]] to the [[c/_clapper|clapper]].**
 - **To [[m/_make|make]] a [[r/_repetitive|repetitive]] [[c/_clapping|clapping]] [[s/_sound|sound]]; to [[c/_clatter|clatter]].**
-- **Of [[b/_birds|birds]], to [[r/_repeatedly|repeatedly]] strike the [[m/_mandibles|mandibles]] together.**
+- **Of [[b/_birds|birds]], to [[r/_repeatedly|repeatedly]] [[s/_strike|strike]] the [[m/_mandibles|mandibles]] together.**
 ---
 ---

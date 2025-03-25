@@ -20,7 +20,7 @@
 	- _Example: The native peoples of Australia are called aborigines._
 - **[[b/_born|Born]] or [[g/_grown|grown]] in the [[r/_region|region]] in which it [[l/_lives|lives]] or is [[f/_found|found]]; not [[f/_foreign|foreign]] or [[i/_imported|imported]].**
 	- _Example: Many native artists studied abroad._
-- **(of a species) Which [[o/_occurs|occurs]] of [[i/_its|its]] [[o/_own|own]] [[a/_accord|accord]] in a [[g/_given|given]] [[l/_locality|locality]], to be [[c/_contrasted|contrasted]] with a species [[i/_introduced|introduced]] by [[m/_man|man]].**
+- **(of a [[s/_species|species]]) Which [[o/_occurs|occurs]] of [[i/_its|its]] [[o/_own|own]] [[a/_accord|accord]] in a [[g/_given|given]] [[l/_locality|locality]], to be [[c/_contrasted|contrasted]] with a [[s/_species|species]] [[i/_introduced|introduced]] by [[m/_man|man]].**
 	- _Example: The naturalized Norway maple often outcompetes the native North American sugar maple._
 - **(of [[s/_software|software]]) [[p/_pertaining|Pertaining]] to the [[s/_system|system]] or [[a/_architecture|architecture]] in [[q/_question|question]].**
 	- _Example: The native integer size is sixteen bits._

@@ -6,6 +6,6 @@
 - **A [[p/_person|person]] who [[d/_does|does]] not [[s/_seem|seem]] to [[h/_have|have]] [[a/_any|any]] [[e/_emotions|emotions]].**
 - **A traffic [[l/_light|light]] (from [[e/_earlier|earlier]] [[r/_robot|robot]] [[p/_policeman|policeman]]).**
 - **A theodolite which [[f/_follows|follows]] the [[m/_movements|movements]] of a [[p/_prism|prism]] and [[c/_can|can]] be used by a [[o/_one|one]]-[[m/_man|man]] [[c/_crew|crew]].**
-- **A style of [[d/_dance|dance]] [[p/_popular|popular]] in [[d/_disco|disco]] in which the [[d/_dancer|dancer]] [[i/_imitates|imitates]] the stiff [[m/_movements|movements]] of a stereotypical [[a/_android|android]] [[r/_robot|robot]].**
+- **A [[s/_style|style]] of [[d/_dance|dance]] [[p/_popular|popular]] in [[d/_disco|disco]] in which the [[d/_dancer|dancer]] [[i/_imitates|imitates]] the [[s/_stiff|stiff]] [[m/_movements|movements]] of a [[s/_stereotypical|stereotypical]] [[a/_android|android]] [[r/_robot|robot]].**
 ---
 ---

@@ -7,6 +7,6 @@
 ---
 #adjective
 - **[[c/_covered|Covered]] with a [[f/_film|film]].**
-- **(in [[c/_compounds|compounds]]) [[c/_covered|Covered]] with a [[f/_film|film]] of (a specified type or substance).**
+- **(in [[c/_compounds|compounds]]) [[c/_covered|Covered]] with a [[f/_film|film]] of (a [[s/_specified|specified]] type or substance).**
 ---
 ---

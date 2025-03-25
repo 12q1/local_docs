@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[m/_main|main]] [[c/_cereal|cereal]] [[p/_plant|plant]] [[g/_grown|grown]] for [[i/_its|its]] [[g/_grain|grain]] in a [[g/_given|given]] [[r/_region|region]], such as [[o/_oats|oats]] in [[p/_parts|parts]] of [[s/_scotland|Scotland]] and [[i/_ireland|Ireland]], and wheat or [[b/_barley|barley]] in [[e/_england|England]] and Wales.**
-- **[[m/_maize|Maize]], a [[g/_grain|grain]] [[c/_crop|crop]] of the species Zea [[m/_mays|mays]].**
+- **[[m/_maize|Maize]], a [[g/_grain|grain]] [[c/_crop|crop]] of the [[s/_species|species]] Zea [[m/_mays|mays]].**
 - **A [[g/_grain|grain]] or [[s/_seed|seed]], [[e/_especially|especially]] of a [[c/_cereal|cereal]] [[c/_crop|crop]].**
 	- _Example: He paid her the nominal fee of two corns of barley._
 - **A [[s/_small|small]], [[h/_hard|hard]] [[p/_particle|particle]].**

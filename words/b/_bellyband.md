@@ -1,9 +1,9 @@
 # Bellyband
 ---
 #noun
-- **A strap [[a/_around|around]] the [[b/_belly|belly]] of a [[h/_horse|horse]] or [[o/_other|other]] [[d/_draft|draft]] [[a/_animal|animal]] used to [[s/_secure|secure]] a [[s/_saddle|saddle]] or the [[s/_shafts|shafts]] of a [[c/_cart|cart]].**
+- **A [[s/_strap|strap]] [[a/_around|around]] the [[b/_belly|belly]] of a [[h/_horse|horse]] or [[o/_other|other]] [[d/_draft|draft]] [[a/_animal|animal]] used to [[s/_secure|secure]] a [[s/_saddle|saddle]] or the [[s/_shafts|shafts]] of a [[c/_cart|cart]].**
 - **Various [[c/_constrictive|constrictive]] [[b/_bands|bands]] worn [[a/_around|around]] the [[b/_belly|belly]], [[p/_particularly|particularly]]:**
-- **A [[b/_band|band]] of [[c/_canvas|canvas]] used to strengthen a [[s/_sail|sail]].**
+- **A [[b/_band|band]] of [[c/_canvas|canvas]] used to [[s/_strengthen|strengthen]] a [[s/_sail|sail]].**
 - **A type of [[d/_dust|dust]] [[j/_jacket|jacket]] that [[c/_covers|covers]] [[o/_only|only]] a [[p/_portion|portion]] of a [[b/_book|book]].**
 ---
 ---

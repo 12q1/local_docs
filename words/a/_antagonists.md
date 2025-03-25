@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[o/_opponent|opponent]] or [[e/_enemy|enemy]].**
-- **[[o/_one|One]] who [[a/_antagonizes|antagonizes]] or stirs.**
+- **[[o/_one|One]] who [[a/_antagonizes|antagonizes]] or [[s/_stirs|stirs]].**
 - **A [[c/_chemical|chemical]] that [[b/_binds|binds]] to a [[r/_receptor|receptor]] but [[d/_does|does]] not [[p/_produce|produce]] a [[p/_physiological|physiological]] [[r/_response|response]], [[b/_blocking|blocking]] the [[a/_action|action]] of [[a/_agonist|agonist]] [[c/_chemicals|chemicals]].**
 	- _Example: 2001: The calcium antagonists represent one of the top ten classes of prescription drugs in terms of commercial value, with worldwide sales of nearly $10 billion in 1999. — Leslie Iversen, Drugs: A Very Short Introduction (Oxford 2001, p. 41)_
 - **([[a/_authorship|authorship]]) The [[m/_main|main]] [[c/_character|character]] or [[f/_force|force]] [[o/_opposing|opposing]] the [[p/_protagonist|protagonist]] in a [[l/_literary|literary]] work or [[d/_drama|drama]].**

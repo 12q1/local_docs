@@ -5,7 +5,7 @@
 ---
 #noun
 - **A [[m/_member|member]] of a [[g/_group|group]] of subatomic [[p/_particles|particles]] [[h/_having|having]] a [[m/_mass|mass]] [[i/_intermediate|intermediate]] [[b/_between|between]] [[e/_electrons|electrons]] and [[p/_protons|protons]]. (The [[m/_most|most]] [[e/_easily|easily]] [[d/_detected|detected]] [[m/_mesons|mesons]] [[f/_fit|fit]] this [[d/_definition|definition]].)**
-- **([[n/_now|now]] specifically) An [[e/_elementary|elementary]] [[p/_particle|particle]] that is [[c/_composed|composed]] of a [[q/_quark|quark]] and an antiquark, such as a [[k/_kaon|kaon]] or [[p/_pion|pion]]. ([[m/_mesons|Mesons]] [[c/_composed|composed]] of [[r/_rarer|rarer]] [[q/_quarks|quarks]] are [[m/_much|much]] [[h/_heavier|heavier]].)**
+- **([[n/_now|now]] [[s/_specifically|specifically]]) An [[e/_elementary|elementary]] [[p/_particle|particle]] that is [[c/_composed|composed]] of a [[q/_quark|quark]] and an antiquark, such as a [[k/_kaon|kaon]] or [[p/_pion|pion]]. ([[m/_mesons|Mesons]] [[c/_composed|composed]] of [[r/_rarer|rarer]] [[q/_quarks|quarks]] are [[m/_much|much]] [[h/_heavier|heavier]].)**
 ---
 ### Synonyms
 - [[m/_mesotron|mesotron]]

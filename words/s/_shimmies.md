@@ -6,7 +6,7 @@
 	- _Example: He shimmied up the flagpole._
 - **To vibrate [[a/_abnormally|abnormally]], as a [[b/_broken|broken]] wheel.**
 - **To [[s/_shake|shake]] the [[b/_body|body]] as [[i/_if|if]] [[d/_dancing|dancing]] the [[s/_shimmy|shimmy]].**
-- **To [[m/_move|move]] [[a/_across|across]] a [[n/_narrow|narrow]] [[l/_ledge|ledge]], [[e/_either|either]] by [[h/_hanging|hanging]] from it or by strafing on it [[a/_along|along]] the wall.**
+- **To [[m/_move|move]] [[a/_across|across]] a [[n/_narrow|narrow]] [[l/_ledge|ledge]], [[e/_either|either]] by [[h/_hanging|hanging]] from it or by [[s/_strafing|strafing]] on it [[a/_along|along]] the wall.**
 ---
 ### Synonyms
 - [[s/_shin|shin]], [[s/_shinny|shinny]]

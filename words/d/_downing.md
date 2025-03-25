@@ -8,7 +8,7 @@
 - **To [[d/_defeat|defeat]]; to [[o/_overpower|overpower]].**
 - **To [[d/_disparage|disparage]], to [[p/_put|put]] [[d/_down|down]].**
 - **To [[g/_go|go]] or [[c/_come|come]] [[d/_down|down]]; to [[d/_descend|descend]].**
-- **To [[d/_drink|drink]] or swallow, [[e/_especially|especially]] without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the [[l/_liquid|liquid]] is [[e/_empty|empty]].**
+- **To [[d/_drink|drink]] or swallow, [[e/_especially|especially]] without [[s/_stopping|stopping]] [[b/_before|before]] the vessel [[c/_containing|containing]] the [[l/_liquid|liquid]] is [[e/_empty|empty]].**
 	- _Example: He downed an ale and ordered another._
 - **To [[r/_render|render]] (the [[b/_ball|ball]]) [[d/_dead|dead]], typically by touching the [[g/_ground|ground]] while in [[p/_possession|possession]].**
 	- _Example: He downed it at the seven-yard line._
@@ -16,7 +16,7 @@
 	- _Example: He downed two balls on the break._
 ---
 #verb
-- **To [[c/_cover|cover]], [[o/_ornament|ornament]], [[l/_line|line]], or stuff with [[d/_down|down]].**
+- **To [[c/_cover|cover]], [[o/_ornament|ornament]], [[l/_line|line]], or [[s/_stuff|stuff]] with [[d/_down|down]].**
 ---
 #noun
 - **An [[o/_occasion|occasion]] on which [[s/_something|something]] is [[d/_downed|downed]].**

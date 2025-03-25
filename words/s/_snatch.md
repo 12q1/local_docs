@@ -21,7 +21,7 @@
 	- _Example: to snatch at a rope_
 - **To take or [[s/_seize|seize]] [[h/_hastily|hastily]], [[a/_abruptly|abruptly]], or without [[p/_permission|permission]] or [[c/_ceremony|ceremony]].**
 	- _Example: to snatch a kiss_
-- **To steal.**
+- **To [[s/_steal|steal]].**
 	- _Example: Someone has just snatched my purse!_
 - **(by [[e/_extension|extension]]) To take (a victory) at the [[l/_last|last]] [[m/_moment|moment]].**
 - **To [[d/_do|do]] [[s/_something|something]] [[q/_quickly|quickly]] in the [[l/_limited|limited]] time [[a/_available|available]].**

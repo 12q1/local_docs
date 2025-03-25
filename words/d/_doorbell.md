@@ -5,8 +5,8 @@
 - **A [[b/_button|button]] that [[a/_actives|actives]] an [[e/_electric|electric]] [[d/_doorbell|doorbell]].**
 ---
 #verb
-- **To [[r/_ring|ring]] [[m/_many|many]] [[d/_doorbells|doorbells]] in an [[e/_effort|effort]] to [[c/_contact|contact]] [[p/_people|people]] and thereby spread [[i/_information|information]] or [[s/_solicit|solicit]].**
-- **To [[r/_ring|ring]] [[m/_many|many]] [[d/_doorbells|doorbells]] of (target [[p/_people|people]] or an [[a/_area|area]]) in an [[e/_effort|effort]] to [[c/_contact|contact]] [[p/_people|people]] and thereby spread [[i/_information|information]] or [[s/_solicit|solicit]].**
+- **To [[r/_ring|ring]] [[m/_many|many]] [[d/_doorbells|doorbells]] in an [[e/_effort|effort]] to [[c/_contact|contact]] [[p/_people|people]] and thereby [[s/_spread|spread]] [[i/_information|information]] or [[s/_solicit|solicit]].**
+- **To [[r/_ring|ring]] [[m/_many|many]] [[d/_doorbells|doorbells]] of (target [[p/_people|people]] or an [[a/_area|area]]) in an [[e/_effort|effort]] to [[c/_contact|contact]] [[p/_people|people]] and thereby [[s/_spread|spread]] [[i/_information|information]] or [[s/_solicit|solicit]].**
 	- _Example: We doorbelled the whole district in an effort to get out the vote._
 ---
 ---

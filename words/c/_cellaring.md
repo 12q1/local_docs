@@ -1,6 +1,6 @@
 # Cellaring
 ---
 #verb
-- **To store in a [[c/_cellar|cellar]].**
+- **To [[s/_store|store]] in a [[c/_cellar|cellar]].**
 ---
 ---

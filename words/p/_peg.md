@@ -9,14 +9,14 @@
 	- _Example: a peg to hang a claim upon_
 - **A [[p/_peg|peg]] [[m/_moved|moved]] on a [[c/_crib|crib]] [[b/_board|board]] to [[k/_keep|keep]] [[s/_score|score]].**
 - **A [[f/_fixed|fixed]] [[e/_exchange|exchange]] [[r/_rate|rate]], where a [[c/_currency|currency]]'[[s/_s|s]] value is [[m/_matched|matched]] to the value of [[a/_another|another]] [[c/_currency|currency]] or [[m/_measure|measure]] such as [[g/_gold|gold]]**
-- **A [[s/_small|small]] [[q/_quantity|quantity]] of a strong [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]].**
+- **A [[s/_small|small]] [[q/_quantity|quantity]] of a [[s/_strong|strong]] [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]].**
 - **A [[p/_place|place]] [[f/_formally|formally]] [[a/_allotted|allotted]] for [[f/_fishing|fishing]]**
 - **A [[l/_leg|leg]] or [[f/_foot|foot]].**
-- **[[o/_one|One]] of the [[p/_pins|pins]] of a [[m/_musical|musical]] [[i/_instrument|instrument]], on which the strings are strained.**
-- **A step; a [[d/_degree|degree]].**
+- **[[o/_one|One]] of the [[p/_pins|pins]] of a [[m/_musical|musical]] [[i/_instrument|instrument]], on which the [[s/_strings|strings]] are [[s/_strained|strained]].**
+- **A [[s/_step|step]]; a [[d/_degree|degree]].**
 - **[[s/_short|Short]] for [[c/_clothes|clothes]] [[p/_peg|peg]].**
 - **A topic of [[i/_interest|interest]], such as an [[o/_ongoing|ongoing]] [[e/_event|event]] or an [[a/_anniversary|anniversary]], [[a/_around|around]] which various [[f/_features|features]] [[c/_can|can]] be [[d/_developed|developed]].**
-- **A stump.**
+- **A [[s/_stump|stump]].**
 - **The [[p/_penetration|penetration]] of [[o/_one|one]]'[[s/_s|s]] ([[m/_male|male]]) [[p/_partner|partner]] in the [[a/_anus|anus]] using a [[d/_dildo|dildo]].**
 	- _Example: Get your strap-on out and give me a nice peg!_
 ---

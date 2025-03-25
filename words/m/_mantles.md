@@ -1,12 +1,12 @@
 # Mantles
 ---
 #noun
-- **The [[s/_shelf|shelf]] [[a/_above|above]] a [[f/_fireplace|fireplace]] which [[m/_may|may]] be [[a/_also|also]] a structural support for the [[m/_masonry|masonry]] of the [[c/_chimney|chimney]].**
+- **The [[s/_shelf|shelf]] [[a/_above|above]] a [[f/_fireplace|fireplace]] which [[m/_may|may]] be [[a/_also|also]] a [[s/_structural|structural]] support for the [[m/_masonry|masonry]] of the [[c/_chimney|chimney]].**
 - **A [[m/_maneuver|maneuver]] to surmount a [[l/_ledge|ledge]], [[i/_involving|involving]] [[p/_pushing|pushing]] [[d/_down|down]] on the [[l/_ledge|ledge]] to [[b/_bring|bring]] up the [[b/_body|body]]. [[a/_also|Also]] [[c/_called|called]] a [[m/_mantelshelf|mantelshelf]].**
 ---
 #noun
 - **A [[p/_piece|piece]] of [[c/_clothing|clothing]] [[s/_somewhat|somewhat]] [[l/_like|like]] an [[o/_open|open]] [[r/_robe|robe]] or [[c/_cloak|cloak]], [[e/_especially|especially]] that worn by [[o/_orthodox|Orthodox]] [[b/_bishops|bishops]]. ([[c/_compare|Compare]] mantum.)**
-- **A [[f/_figurative|figurative]] [[g/_garment|garment]] [[r/_representing|representing]] [[a/_authority|authority]] or status, [[c/_capable|capable]] of [[a/_affording|affording]] [[p/_protection|protection]].**
+- **A [[f/_figurative|figurative]] [[g/_garment|garment]] [[r/_representing|representing]] [[a/_authority|authority]] or [[s/_status|status]], [[c/_capable|capable]] of [[a/_affording|affording]] [[p/_protection|protection]].**
 	- _Example: At the meeting, she finally assumed the mantle of leadership of the party._
 - **[[a/_anything|Anything]] that [[c/_covers|covers]] or [[c/_conceals|conceals]] [[s/_something|something]] [[e/_else|else]]; a [[c/_cloak|cloak]].**
 - **The [[b/_body|body]] wall of a [[m/_mollusc|mollusc]], from which the [[s/_shell|shell]] is [[s/_secreted|secreted]].**

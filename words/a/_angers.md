@@ -1,9 +1,9 @@
 # Angers
 ---
 #noun
-- **A strong [[f/_feeling|feeling]] of [[d/_displeasure|displeasure]], [[h/_hostility|hostility]] or [[a/_antagonism|antagonism]] towards [[s/_someone|someone]] or [[s/_something|something]], usually [[c/_combined|combined]] with an urge to [[h/_harm|harm]].**
+- **A [[s/_strong|strong]] [[f/_feeling|feeling]] of [[d/_displeasure|displeasure]], [[h/_hostility|hostility]] or [[a/_antagonism|antagonism]] towards [[s/_someone|someone]] or [[s/_something|something]], usually [[c/_combined|combined]] with an urge to [[h/_harm|harm]].**
 	- _Example: You need to control your anger._
-- **[[p/_pain|Pain]] or stinging.**
+- **[[p/_pain|Pain]] or [[s/_stinging|stinging]].**
 ---
 #verb
 - **To [[c/_cause|cause]] such a [[f/_feeling|feeling]] of [[a/_antagonism|antagonism]] in.**

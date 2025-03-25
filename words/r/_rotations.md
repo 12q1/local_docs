@@ -9,9 +9,9 @@
 	- _Example: In rotation, each member of the group would be responsible for the beacon fire._
 - **An [[o/_operation|operation]] on a [[m/_metric|metric]] [[s/_space|space]] that is a [[c/_continuous|continuous]] [[i/_isometry|isometry]] and [[f/_fixes|fixes]] at [[l/_least|least]] [[o/_one|one]] [[p/_point|point]].**
 	- _Example: The function mapping (x,y) to (−y,x) is a rotation._
-- **The [[s/_set|set]] of starting [[p/_pitchers|pitchers]] of a team.**
-- **The step [[d/_during|during]] takeoff when the [[p/_pilot|pilot]] [[c/_commands|commands]] the vehicle to [[l/_lift|lift]] the [[n/_nose|nose]] wheel [[o/_off|off]] the [[g/_ground|ground]] [[d/_during|during]] the takeoff [[r/_roll|roll]]. ([[s/_see|see]] [[a/_also|also]]: V2)**
-- **[[r/_repeated|Repeated]] [[p/_play|play]] on a [[r/_radio|radio]] station, [[e/_etc|etc]].**
+- **The [[s/_set|set]] of [[s/_starting|starting]] [[p/_pitchers|pitchers]] of a team.**
+- **The [[s/_step|step]] [[d/_during|during]] takeoff when the [[p/_pilot|pilot]] [[c/_commands|commands]] the vehicle to [[l/_lift|lift]] the [[n/_nose|nose]] wheel [[o/_off|off]] the [[g/_ground|ground]] [[d/_during|during]] the takeoff [[r/_roll|roll]]. ([[s/_see|see]] [[a/_also|also]]: V2)**
+- **[[r/_repeated|Repeated]] [[p/_play|play]] on a [[r/_radio|radio]] [[s/_station|station]], [[e/_etc|etc]].**
 	- _Example: The new single enjoyed heavy rotation on MTV._
 ---
 ### Synonyms

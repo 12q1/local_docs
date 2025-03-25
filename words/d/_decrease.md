@@ -3,7 +3,7 @@
 #noun
 - **An [[a/_amount|amount]] by which a [[q/_quantity|quantity]] is [[d/_decreased|decreased]].**
 	- _Example: One research team has recorded Baishui’s decrease at about 27 meters per year over the last 10 years._
-- **A [[r/_reduction|reduction]] in the [[n/_number|number]] of stitches, usually [[a/_accomplished|accomplished]] by suspending the stitch to be [[d/_decreased|decreased]] from [[a/_another|another]] [[e/_existing|existing]] stitch or by [[k/_knitting|knitting]] it together with [[a/_another|another]] stitch. [[s/_see|See]] [[d/_decrease|Decrease]] ([[k/_knitting|knitting]]).**
+- **A [[r/_reduction|reduction]] in the [[n/_number|number]] of [[s/_stitches|stitches]], usually [[a/_accomplished|accomplished]] by suspending the [[s/_stitch|stitch]] to be [[d/_decreased|decreased]] from [[a/_another|another]] [[e/_existing|existing]] [[s/_stitch|stitch]] or by [[k/_knitting|knitting]] it together with [[a/_another|another]] [[s/_stitch|stitch]]. [[s/_see|See]] [[d/_decrease|Decrease]] ([[k/_knitting|knitting]]).**
 ---
 ### Synonyms
 - [[c/_cut|cut]], [[d/_decrement|decrement]], [[d/_drop|drop]], [[f/_fall|fall]], [[l/_loss|loss]], [[l/_lowering|lowering]], [[r/_reduction|reduction]], [[s/_shrinkage|shrinkage]]

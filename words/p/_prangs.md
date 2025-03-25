@@ -14,6 +14,6 @@
 - **To [[d/_damage|damage]] (the vehicle [[o/_one|one]] is [[d/_driving|driving]]) in an [[a/_accident|accident]]; to [[h/_have|have]] a [[m/_minor|minor]] [[c/_collision|collision]] with ([[a/_another|another]] [[m/_motor|motor]] vehicle).**
 ---
 #noun
-- **A type of tower or spire [[f/_featured|featured]] in [[s/_some|some]] [[b/_buddhist|Buddhist]] temples of Thailand and [[c/_cambodia|Cambodia]].**
+- **A type of tower or [[s/_spire|spire]] [[f/_featured|featured]] in [[s/_some|some]] [[b/_buddhist|Buddhist]] temples of Thailand and [[c/_cambodia|Cambodia]].**
 ---
 ---

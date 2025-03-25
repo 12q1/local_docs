@@ -6,6 +6,6 @@
 - **The typical [[c/_chequered|chequered]] [[p/_pattern|pattern]] of a [[p/_plaid|plaid]]; tartan.**
 ---
 #adjective
-- **[[h/_having|Having]] a [[p/_pattern|pattern]] or [[c/_colors|colors]] which [[r/_resemble|resemble]] a [[s/_scottish|Scottish]] tartan; [[c/_checkered|checkered]] or [[m/_marked|marked]] with [[b/_bars|bars]] or stripes at [[r/_right|right]] [[a/_angles|angles]] to [[o/_one|one]] [[a/_another|another]].**
+- **[[h/_having|Having]] a [[p/_pattern|pattern]] or [[c/_colors|colors]] which [[r/_resemble|resemble]] a [[s/_scottish|Scottish]] tartan; [[c/_checkered|checkered]] or [[m/_marked|marked]] with [[b/_bars|bars]] or [[s/_stripes|stripes]] at [[r/_right|right]] [[a/_angles|angles]] to [[o/_one|one]] [[a/_another|another]].**
 ---
 ---

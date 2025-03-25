@@ -1,7 +1,7 @@
 # Clinical
 ---
 #noun
-- **A [[m/_medical|medical]] student'[[s/_s|s]] [[s/_session|session]] spent in a [[r/_real|real]]-world [[n/_nursing|nursing]] [[e/_environment|environment]].**
+- **A [[m/_medical|medical]] [[s/_student|student]]'[[s/_s|s]] [[s/_session|session]] [[s/_spent|spent]] in a [[r/_real|real]]-world [[n/_nursing|nursing]] [[e/_environment|environment]].**
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to a [[m/_medical|medical]] [[c/_clinic|clinic]] or [[f/_facility|facility]].**

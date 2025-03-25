@@ -10,7 +10,7 @@
 - **To [[f/_form|form]] a [[r/_recess|recess]] or [[i/_indentation|indentation]] for the [[r/_reception|reception]] of a [[c/_center|center]].**
 ---
 #noun
-- **A type of [[f/_formwork|formwork]] which [[s/_serves|serves]] as a temporary structure [[d/_during|during]] the [[c/_construction|construction]] of [[a/_arches|arches]] and [[b/_bridges|bridges]].**
+- **A type of [[f/_formwork|formwork]] which [[s/_serves|serves]] as a temporary [[s/_structure|structure]] [[d/_during|during]] the [[c/_construction|construction]] of [[a/_arches|arches]] and [[b/_bridges|bridges]].**
 - **The [[p/_process|process]] of [[m/_moving|moving]] [[s/_something|something]] to a [[c/_centre|centre]], [[n/_normally|normally]] [[b/_before|before]] [[s/_some|some]] [[o/_other|other]] [[p/_process|process]].**
 ---
 ---

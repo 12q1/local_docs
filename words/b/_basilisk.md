@@ -8,6 +8,6 @@
 - **A type of [[l/_large|large]] [[b/_brass|brass]] [[c/_cannon|cannon]].**
 ---
 #adjective
-- **Suggesting a [[b/_basilisk|basilisk]] ([[s/_snake|snake]]-[[l/_like|like]] [[d/_dragon|dragon]]): [[b/_baleful|baleful]], spellbinding.**
+- **Suggesting a [[b/_basilisk|basilisk]] ([[s/_snake|snake]]-[[l/_like|like]] [[d/_dragon|dragon]]): [[b/_baleful|baleful]], [[s/_spellbinding|spellbinding]].**
 ---
 ---

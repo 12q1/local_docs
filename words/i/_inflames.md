@@ -5,7 +5,7 @@
 - **To [[k/_kindle|kindle]] or [[i/_intensify|intensify]] (a [[f/_feeling|feeling]], as [[p/_passion|passion]] or [[a/_appetite|appetite]]); to [[e/_excite|excite]] to an [[e/_excessive|excessive]] or unnatural [[a/_action|action]] or [[h/_heat|heat]].**
 	- _Example: to inflame desire_
 - **To [[p/_provoke|provoke]] (a [[p/_person|person]]) to [[a/_anger|anger]] or [[r/_rage|rage]]; to [[e/_exasperate|exasperate]]; to [[i/_irritate|irritate]]; to [[i/_incense|incense]]; to [[e/_enrage|enrage]].**
-- **To [[p/_put|put]] in a state of [[i/_inflammation|inflammation]]; to [[p/_produce|produce]] [[m/_morbid|morbid]] [[h/_heat|heat]], [[c/_congestion|congestion]], or swelling, of.**
+- **To [[p/_put|put]] in a [[s/_state|state]] of [[i/_inflammation|inflammation]]; to [[p/_produce|produce]] [[m/_morbid|morbid]] [[h/_heat|heat]], [[c/_congestion|congestion]], or swelling, of.**
 	- _Example: to inflame the eyes by overwork_
 - **To [[e/_exaggerate|exaggerate]]; to [[e/_enlarge|enlarge]] upon.**
 - **To [[g/_grow|grow]] [[m/_morbidly|morbidly]] [[h/_hot|hot]], [[c/_congested|congested]], or [[p/_painful|painful]]; to [[b/_become|become]] [[a/_angry|angry]] or [[i/_incensed|incensed]].**

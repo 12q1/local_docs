@@ -12,7 +12,7 @@
 - **[[c/_characteristic|Characteristic]], typical.**
 	- _Example: his distinctive bass voice_
 - **[[d/_distinguished|Distinguished]], [[b/_being|being]] [[d/_distinct|distinct]] in [[c/_character|character]] or [[p/_position|position]].**
-- **([[h/_hebrew|Hebrew]] [[g/_grammar|grammar]], of [[a/_accents|accents]]) Used to [[s/_separate|separate]] [[c/_clauses|clauses]] in [[p/_place|place]] of stops.**
+- **([[h/_hebrew|Hebrew]] [[g/_grammar|grammar]], of [[a/_accents|accents]]) Used to [[s/_separate|separate]] [[c/_clauses|clauses]] in [[p/_place|place]] of [[s/_stops|stops]].**
 - **(of [[s/_sounds|sounds]]) [[d/_distinguishing|Distinguishing]] a [[p/_particular|particular]] [[s/_sense|sense]] of word.**
 ---
 ---

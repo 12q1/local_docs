@@ -13,7 +13,7 @@
 ### Synonyms
 - [[S/_SD|SD]]
 #noun
-- **A [[m/_measure|measure]] of [[h/_how|how]] spread [[o/_out|out]] [[d/_data|data]] values are [[a/_around|around]] the [[m/_mean|mean]], [[d/_defined|defined]] as the square [[r/_root|root]] of the variance. [[r/_represented|Represented]] with the [[g/_greek|Greek]] [[l/_letter|letter]] σ.**
+- **A [[m/_measure|measure]] of [[h/_how|how]] [[s/_spread|spread]] [[o/_out|out]] [[d/_data|data]] values are [[a/_around|around]] the [[m/_mean|mean]], [[d/_defined|defined]] as the [[s/_square|square]] [[r/_root|root]] of the variance. [[r/_represented|Represented]] with the [[g/_greek|Greek]] [[l/_letter|letter]] σ.**
 ---
 ### Synonyms
 - [[s/_sigma|sigma]]

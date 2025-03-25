@@ -42,11 +42,11 @@
 	- _Example: a short supply of provisions_
 - **[[i/_insufficiently|Insufficiently]] [[p/_provided|provided]]; [[i/_inadequately|inadequately]] supplied, [[e/_especially|especially]] with [[m/_money|money]]; [[s/_scantily|scantily]] [[f/_furnished|furnished]]; [[l/_lacking|lacking]].**
 	- _Example: I'd lend you the cash but I'm a little short at present._
-- **[[d/_deficient|Deficient]]; [[l/_less|less]]; not [[c/_coming|coming]] up to a [[m/_measure|measure]] or standard.**
+- **[[d/_deficient|Deficient]]; [[l/_less|less]]; not [[c/_coming|coming]] up to a [[m/_measure|measure]] or [[s/_standard|standard]].**
 	- _Example: an account which is short of the truth_
 - **Undiluted; [[n/_neat|neat]].**
 - **Not [[d/_distant|distant]] in time; [[n/_near|near]] at [[h/_hand|hand]].**
-- **[[b/_being|Being]] in a [[f/_financial|financial]] [[i/_investment|investment]] [[p/_position|position]] that is structured to be [[p/_profitable|profitable]] [[i/_if|if]] the [[p/_price|price]] of the underlying [[s/_security|security]] [[d/_declines|declines]] in the [[f/_future|future]].**
+- **[[b/_being|Being]] in a [[f/_financial|financial]] [[i/_investment|investment]] [[p/_position|position]] that is [[s/_structured|structured]] to be [[p/_profitable|profitable]] [[i/_if|if]] the [[p/_price|price]] of the underlying [[s/_security|security]] [[d/_declines|declines]] in the [[f/_future|future]].**
 	- _Example: I'm short General Motors because I think their sales are plunging._
 ---
 ### Synonyms

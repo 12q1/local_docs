@@ -3,7 +3,7 @@
 #verb
 - **To [[p/_place|place]] ([[o/_objects|objects]]) [[i/_into|into]] a [[l/_line|line]] (usually used with "up"); to [[f/_form|form]] [[i/_into|into]] a [[l/_line|line]]; to [[a/_align|align]].**
 	- _Example: to line troops_
-- **To [[p/_place|place]] [[p/_persons|persons]] or things [[a/_along|along]] the [[s/_side|side]] of for [[s/_security|security]] or [[d/_defense|defense]]; to strengthen by [[a/_adding|adding]]; to [[f/_fortify|fortify]].**
+- **To [[p/_place|place]] [[p/_persons|persons]] or things [[a/_along|along]] the [[s/_side|side]] of for [[s/_security|security]] or [[d/_defense|defense]]; to [[s/_strengthen|strengthen]] by [[a/_adding|adding]]; to [[f/_fortify|fortify]].**
 	- _Example: to line works with soldiers_
 - **To [[f/_form|form]] a [[l/_line|line]] [[a/_along|along]].**
 - **To [[m/_mark|mark]] with a [[l/_line|line]] or [[l/_lines|lines]], to [[c/_cover|cover]] with [[l/_lines|lines]].**

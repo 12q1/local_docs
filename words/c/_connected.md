@@ -23,7 +23,7 @@
 #adjective
 - **(usually with "well-"): [[h/_having|Having]] [[f/_favorable|favorable]] [[r/_rapport|rapport]] with a [[p/_powerful|powerful]] [[e/_entity|entity]].**
 - **[[h/_having|Having]] [[r/_relationships|relationships]]; [[i/_involved|involved]] with [[o/_others|others]].**
-- **[[i/_involved|Involved]] with [[o/_organized|organized]] [[c/_crime|crime]], specifically [[s/_someone|someone]] not ([[y/_yet|yet]]) working for a [[c/_crime|crime]] [[o/_organization|organization]], but [[r/_referred|referred]] to as a "[[f/_friend|friend]]" by [[m/_made|made]] [[g/_guys|guys]]/wise [[g/_guys|guys]] [[i/_inside|inside]] the [[o/_organization|organization]].**
+- **[[i/_involved|Involved]] with [[o/_organized|organized]] [[c/_crime|crime]], [[s/_specifically|specifically]] [[s/_someone|someone]] not ([[y/_yet|yet]]) working for a [[c/_crime|crime]] [[o/_organization|organization]], but [[r/_referred|referred]] to as a "[[f/_friend|friend]]" by [[m/_made|made]] [[g/_guys|guys]]/wise [[g/_guys|guys]] [[i/_inside|inside]] the [[o/_organization|organization]].**
 - **[[i/_intimate|Intimate]]; [[h/_having|Having]] [[b/_bonds|bonds]] of [[a/_affection|affection]].**
 - **(of a topological [[s/_space|space]]) That [[c/_cannot|cannot]] be [[p/_partitioned|partitioned]] [[i/_into|into]] two [[n/_nonempty|nonempty]] [[o/_open|open]] [[s/_sets|sets]].**
 - **(of a [[g/_graph|graph]]) [[h/_having|Having]] a [[p/_path|path]], [[e/_either|either]] [[d/_directed|directed]] or undirected, [[c/_connecting|connecting]] [[e/_every|every]] [[p/_pair|pair]] of vertices.**

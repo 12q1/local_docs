@@ -8,6 +8,6 @@
 - **To [[e/_expose|expose]] in a [[c/_cart|cart]] by way of [[p/_punishment|punishment]].**
 ---
 #noun
-- **The transporting of [[s/_someone|someone]] in a [[c/_cart|cart]] through the streets as [[p/_part|part]] of a [[p/_public|public]] [[p/_punishment|punishment]] or [[h/_humiliation|humiliation]].**
+- **The transporting of [[s/_someone|someone]] in a [[c/_cart|cart]] through the [[s/_streets|streets]] as [[p/_part|part]] of a [[p/_public|public]] [[p/_punishment|punishment]] or [[h/_humiliation|humiliation]].**
 ---
 ---

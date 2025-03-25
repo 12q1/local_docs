@@ -8,7 +8,7 @@
 - **(by [[e/_extension|extension]]) A (usually temporary) [[l/_landing|landing]] [[a/_area|area]] for [[a/_aircraft|aircraft]] for supplying a [[n/_non|non]]-[[m/_military|military]] [[o/_operation|operation]].**
 ---
 #noun
-- **([[o/_originally|originally]] United States) A [[f/_foolish|foolish]], [[s/_silly|silly]], or unintelligent [[p/_person|person]].**
+- **([[o/_originally|originally]] United [[s/_states|States]]) A [[f/_foolish|foolish]], [[s/_silly|silly]], or unintelligent [[p/_person|person]].**
 ---
 ### Synonyms
 - [[b/_bimbo|bimbo]], [[b/_bubblehead|bubblehead]]

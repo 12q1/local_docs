@@ -5,7 +5,7 @@
 	- _Example: England prospered under Elizabeth I's reign._
 - **The [[p/_period|period]] [[d/_during|during]] which a [[m/_monarch|monarch]] [[r/_rules|rules]].**
 	- _Example: The reign of Victoria was a long one._
-- **The territory or sphere [[o/_over|over]] which a [[k/_kingdom|kingdom]]; [[e/_empire|empire]]; [[r/_realm|realm]]; [[d/_dominion|dominion]], [[e/_etc|etc]]. is [[r/_ruled|ruled]].**
+- **The territory or [[s/_sphere|sphere]] [[o/_over|over]] which a [[k/_kingdom|kingdom]]; [[e/_empire|empire]]; [[r/_realm|realm]]; [[d/_dominion|dominion]], [[e/_etc|etc]]. is [[r/_ruled|ruled]].**
 ---
 #verb
 - **To [[e/_exercise|exercise]] [[s/_sovereign|sovereign]] [[p/_power|power]], to [[r/_rule|rule]] as a [[m/_monarch|monarch]].**

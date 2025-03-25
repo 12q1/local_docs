@@ -8,7 +8,7 @@
 	- _Example: rig up a makeshift shelter_
 - **To [[m/_manipulate|manipulate]] [[s/_something|something]] [[d/_dishonestly|dishonestly]] for [[p/_personal|personal]] [[g/_gain|gain]] or [[d/_discriminatory|discriminatory]] [[p/_purposes|purposes]].**
 	- _Example: to rig an election_
-- **To [[m/_make|make]] [[f/_free|free]] with; [[h/_hence|hence]], to steal; to [[p/_pilfer|pilfer]].**
+- **To [[m/_make|make]] [[f/_free|free]] with; [[h/_hence|hence]], to [[s/_steal|steal]]; to [[p/_pilfer|pilfer]].**
 - **To [[o/_outfit|outfit]] a [[m/_model|model]] with [[c/_controls|controls]] for [[a/_animation|animation]].**
 ---
 #verb

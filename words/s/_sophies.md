@@ -7,6 +7,6 @@
 - **A wise [[m/_man|man]]; a [[s/_sage|sage]] or wite.**
 ---
 #noun
-- **[[a/_any|Any]] [[o/_one|one]] of the various [[f/_fields|fields]] of study whose [[n/_names|names]] [[e/_end|end]] in -[[s/_sophy|sophy]].**
+- **[[a/_any|Any]] [[o/_one|one]] of the various [[f/_fields|fields]] of [[s/_study|study]] whose [[n/_names|names]] [[e/_end|end]] in -[[s/_sophy|sophy]].**
 ---
 ---

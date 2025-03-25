@@ -1,7 +1,7 @@
 # Gawks
 ---
 #verb
-- **To stare or [[g/_gape|gape]] stupidly.**
-- **To stare [[c/_conspicuously|conspicuously]].**
+- **To [[s/_stare|stare]] or [[g/_gape|gape]] [[s/_stupidly|stupidly]].**
+- **To [[s/_stare|stare]] [[c/_conspicuously|conspicuously]].**
 ---
 ---

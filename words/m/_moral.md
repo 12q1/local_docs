@@ -16,7 +16,7 @@
 #adjective
 - **Of or [[r/_relating|relating]] to [[p/_principles|principles]] of [[r/_right|right]] and wrong in [[b/_behaviour|behaviour]], [[e/_especially|especially]] for teaching [[r/_right|right]] [[b/_behaviour|behaviour]].**
 	- _Example: moral judgments;  a moral poem_
-- **[[c/_conforming|Conforming]] to a standard of [[r/_right|right]] [[b/_behaviour|behaviour]]; [[s/_sanctioned|sanctioned]] by or [[o/_operative|operative]] on [[o/_one|one]]'[[s/_s|s]] [[c/_conscience|conscience]] or [[e/_ethical|ethical]] [[j/_judgment|judgment]].**
+- **[[c/_conforming|Conforming]] to a [[s/_standard|standard]] of [[r/_right|right]] [[b/_behaviour|behaviour]]; [[s/_sanctioned|sanctioned]] by or [[o/_operative|operative]] on [[o/_one|one]]'[[s/_s|s]] [[c/_conscience|conscience]] or [[e/_ethical|ethical]] [[j/_judgment|judgment]].**
 	- _Example: a moral obligation_
 - **[[c/_capable|Capable]] of [[r/_right|right]] and wrong [[a/_action|action]].**
 	- _Example: a moral agent_

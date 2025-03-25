@@ -10,7 +10,7 @@
 - **To [[s/_say|say]] or utter vaguely, not [[d/_directly|directly]] or [[f/_frankly|frankly]]**
 	- _Example: a minced oath_
 - **To [[a/_affect|affect]]; to [[p/_pronounce|pronounce]] [[a/_affectedly|affectedly]] or with an [[a/_accent|accent]].**
-- **To walk with [[s/_short|short]] steps; to walk in a [[p/_prim|prim]], [[a/_affected|affected]] [[m/_manner|manner]].**
+- **To walk with [[s/_short|short]] [[s/_steps|steps]]; to walk in a [[p/_prim|prim]], [[a/_affected|affected]] [[m/_manner|manner]].**
 - **To [[a/_act|act]] or talk with [[a/_affected|affected]] [[n/_nicety|nicety]]; to [[a/_affect|affect]] [[d/_delicacy|delicacy]] in [[m/_manner|manner]].**
 	- _Example: I love going to gay bars and seeing drag queens mince around on stage._
 ---

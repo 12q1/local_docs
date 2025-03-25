@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[c/_change|change]] [[p/_place|place]].**
-- **To [[c/_change|change]] in state or status**
+- **To [[c/_change|change]] in [[s/_state|state]] or [[s/_status|status]]**
 - **To [[m/_move|move]] through time.**
 - **To be [[a/_accepted|accepted]].**
 - **In [[a/_any|any]] [[g/_game|game]], to [[d/_decline|decline]] to [[p/_play|play]] in [[o/_one|one]]'[[s/_s|s]] turn.**
@@ -13,7 +13,7 @@
 - [[s/_spend|spend]], [[p/_pledge|pledge]], [[p/_promise|promise]], [[v/_vow|vow]]
 #noun
 - **[[d/_death|Death]], [[d/_dying|dying]]; the [[e/_end|end]] of [[s/_something|something]].**
-- **The [[f/_fact|fact]] of [[g/_going|going]] [[p/_past|past]]; a [[m/_movement|movement]] from [[o/_one|one]] [[p/_place|place]] to [[a/_another|another]] or a [[c/_change|change]] from [[o/_one|one]] state to [[a/_another|another]].**
+- **The [[f/_fact|fact]] of [[g/_going|going]] [[p/_past|past]]; a [[m/_movement|movement]] from [[o/_one|one]] [[p/_place|place]] to [[a/_another|another]] or a [[c/_change|change]] from [[o/_one|one]] [[s/_state|state]] to [[a/_another|another]].**
 - **The [[a/_act|act]] of [[a/_approving|approving]] a [[b/_bill|bill]] [[e/_etc|etc]].**
 - **The [[a/_act|act]] of [[p/_passing|passing]] a [[b/_ball|ball]] [[e/_etc|etc]]. to [[a/_another|another]] [[p/_player|player]].**
 - **A [[f/_form|form]] of [[j/_juggling|juggling]] where [[s/_several|several]] [[p/_people|people]] [[p/_pass|pass]] [[p/_props|props]] [[b/_between|between]] [[e/_each|each]] [[o/_other|other]], usually [[c/_clubs|clubs]] or [[r/_rings|rings]].**

@@ -20,14 +20,14 @@
 ### Synonyms
 - [[h/_healer|healer]], [[b/_barber|barber]], [[d/_doctor|doctor]], [[p/_physician|physician]]
 #noun
-- **The vertical [[e/_edge|edge]] of a square [[s/_sail|sail]].**
+- **The vertical [[e/_edge|edge]] of a [[s/_square|square]] [[s/_sail|sail]].**
 - **The [[a/_aft|aft]] [[e/_edge|edge]] of a triangular [[s/_sail|sail]].**
 ---
 #noun
-- **Strong [[d/_desire|desire]]; [[p/_passion|passion]].**
+- **[[s/_strong|Strong]] [[d/_desire|desire]]; [[p/_passion|passion]].**
 - **A [[l/_lecher|lecher]].**
 ---
 #noun
-- **A stream or [[p/_pool|pool]] in [[b/_boggy|boggy]] [[l/_land|land]].**
+- **A [[s/_stream|stream]] or [[p/_pool|pool]] in [[b/_boggy|boggy]] [[l/_land|land]].**
 ---
 ---

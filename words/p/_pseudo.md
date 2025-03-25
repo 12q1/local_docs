@@ -7,7 +7,7 @@
 - **([[c/_clipping|clipping]]) A [[p/_pseudonym|pseudonym]]; a [[f/_false|false]] [[n/_name|name]] used for [[o/_online|online]] [[a/_anonymity|anonymity]].**
 ---
 #adjective
-- **[[o/_other|Other]] than what is [[a/_apparent|apparent]]; spurious; [[s/_sham|sham]].**
+- **[[o/_other|Other]] than what is [[a/_apparent|apparent]]; [[s/_spurious|spurious]]; [[s/_sham|sham]].**
 - **[[i/_insincere|Insincere]].**
 ---
 #noun

@@ -12,8 +12,8 @@
 	- _Example: Bankruptcy is the certain outcome of your constant gambling and lending._
 - **Unfailing; [[i/_infallible|infallible]].**
 - **[[i/_i|I]] [[h/_have|have]] [[o/_often|often]] wished , that [[i/_i|I]] [[k/_knew|knew]] [[s/_so|so]] [[c/_certain|certain]] a [[r/_remedy|remedy]] in [[a/_any|any]] [[o/_other|other]] [[d/_disease|disease]]**
-- **[[f/_fixed|Fixed]] or stated; [[r/_regular|regular]]; [[d/_determinate|determinate]].**
-- **[[k/_known|Known]] but not specifically [[n/_named|named]]; [[i/_indeterminate|indeterminate]]; [[i/_indefinite|indefinite]]; [[o/_one|one]] or [[s/_some|some]]; [[s/_sometimes|sometimes]] used [[i/_independently|independently]] as a [[n/_noun|noun]], and [[m/_meaning|meaning]] [[c/_certain|certain]] [[p/_persons|persons]]; [[s/_see|see]] [[a/_also|also]] "[[o/_one|one]]".**
+- **[[f/_fixed|Fixed]] or [[s/_stated|stated]]; [[r/_regular|regular]]; [[d/_determinate|determinate]].**
+- **[[k/_known|Known]] but not [[s/_specifically|specifically]] [[n/_named|named]]; [[i/_indeterminate|indeterminate]]; [[i/_indefinite|indefinite]]; [[o/_one|one]] or [[s/_some|some]]; [[s/_sometimes|sometimes]] used [[i/_independently|independently]] as a [[n/_noun|noun]], and [[m/_meaning|meaning]] [[c/_certain|certain]] [[p/_persons|persons]]; [[s/_see|see]] [[a/_also|also]] "[[o/_one|one]]".**
 ---
 ### Synonyms
 - [[u/_unavoidable|unavoidable]]

@@ -3,8 +3,8 @@
 #noun
 - **An [[a/_artificial|artificial]] [[h/_hill|hill]] or [[e/_elevation|elevation]] of [[e/_earth|earth]]; a [[r/_raised|raised]] [[b/_bank|bank]]; an [[e/_embankment|embankment]] thrown up for [[d/_defense|defense]]**
 - **A [[n/_natural|natural]] [[e/_elevation|elevation]] [[a/_appearing|appearing]] as [[i/_if|if]] thrown up [[a/_artificially|artificially]]; a [[r/_regular|regular]] and [[i/_isolated|isolated]] [[h/_hill|hill]], [[h/_hillock|hillock]], or [[k/_knoll|knoll]].**
-- **[[e/_elevated|Elevated]] [[a/_area|area]] of [[d/_dirt|dirt]] upon which the [[p/_pitcher|pitcher]] stands to [[p/_pitch|pitch]].**
-- **A [[b/_ball|ball]] or [[g/_globe|globe]] [[f/_forming|forming]] [[p/_part|part]] of the [[r/_regalia|regalia]] of an [[e/_emperor|emperor]] or [[o/_other|other]] [[s/_sovereign|sovereign]]. It is [[e/_encircled|encircled]] with [[b/_bands|bands]], [[e/_enriched|enriched]] with [[p/_precious|precious]] stones, and surmounted with a [[c/_cross|cross]].**
+- **[[e/_elevated|Elevated]] [[a/_area|area]] of [[d/_dirt|dirt]] upon which the [[p/_pitcher|pitcher]] [[s/_stands|stands]] to [[p/_pitch|pitch]].**
+- **A [[b/_ball|ball]] or [[g/_globe|globe]] [[f/_forming|forming]] [[p/_part|part]] of the [[r/_regalia|regalia]] of an [[e/_emperor|emperor]] or [[o/_other|other]] [[s/_sovereign|sovereign]]. It is [[e/_encircled|encircled]] with [[b/_bands|bands]], [[e/_enriched|enriched]] with [[p/_precious|precious]] [[s/_stones|stones]], and surmounted with a [[c/_cross|cross]].**
 - **The [[m/_mons|mons]] veneris.**
 - **([[m/_measurement|measurement]]) A [[h/_hand|hand]].**
 - **A [[p/_protection|protection]]; [[r/_restraint|restraint]]; [[c/_curb|curb]].**

@@ -5,7 +5,7 @@
 	- _Example: Kate is dating a boy named Jim._
 - **([[d/_diminutive|diminutive]]) A [[m/_male|male]] [[c/_child|child]]: a [[s/_son|son]] of [[a/_any|any]] [[a/_age|age]].**
 - **([[d/_diminutive|diminutive]]) A [[m/_male|male]] of [[a/_any|any]] [[a/_age|age]], [[p/_particularly|particularly]] [[o/_one|one]] [[r/_rather|rather]] [[y/_younger|younger]] than the [[s/_speaker|speaker]].**
-- **A [[m/_male|male]] of [[l/_low|low]] station, ([[e/_especially|especially]] as [[p/_pejorative|pejorative]]) a worthless [[m/_male|male]], a wretch; a [[m/_mean|mean]] and [[d/_dishonest|dishonest]] [[m/_male|male]], a [[k/_knave|knave]].**
+- **A [[m/_male|male]] of [[l/_low|low]] [[s/_station|station]], ([[e/_especially|especially]] as [[p/_pejorative|pejorative]]) a worthless [[m/_male|male]], a wretch; a [[m/_mean|mean]] and [[d/_dishonest|dishonest]] [[m/_male|male]], a [[k/_knave|knave]].**
 - **([[n/_now|now]] [[r/_rare|rare]] and usually [[o/_offensive|offensive]] [[o/_outside|outside]] [[s/_some|some]] [[c/_commonwealth|Commonwealth]] [[n/_nations|nations]]) A [[m/_male|male]] [[s/_servant|servant]], [[s/_slave|slave]], [[a/_assistant|assistant]], or [[e/_employee|employee]], [[p/_particularly|particularly]]:**
 - **[[a/_any|Any]] [[n/_non|non]]-white [[m/_male|male]], [[r/_regardless|regardless]] of [[a/_age|age]].**
 - **A [[m/_male|male]] [[a/_animal|animal]], [[e/_especially|especially]], in [[a/_affectionate|affectionate]] [[a/_address|address]], a [[m/_male|male]] [[d/_dog|dog]].**

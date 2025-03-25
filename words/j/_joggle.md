@@ -1,7 +1,7 @@
 # Joggle
 ---
 #noun
-- **A step [[f/_formed|formed]] in [[m/_material|material]] by two [[a/_adjacent|adjacent]] [[r/_reverse|reverse]] [[b/_bends|bends]].**
+- **A [[s/_step|step]] [[f/_formed|formed]] in [[m/_material|material]] by two [[a/_adjacent|adjacent]] [[r/_reverse|reverse]] [[b/_bends|bends]].**
 - **A [[n/_notch|notch]] or tooth in the [[j/_joining|joining]] surface of [[a/_any|any]] [[p/_piece|piece]] of [[b/_building|building]] [[m/_material|material]] to [[p/_prevent|prevent]] [[s/_slipping|slipping]].**
 ---
 #verb

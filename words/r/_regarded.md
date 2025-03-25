@@ -9,7 +9,7 @@
 - **To [[f/_face|face]] toward.**
 - **To [[h/_have|have]] to [[d/_do|do]] with, to [[c/_concern|concern]].**
 	- _Example: That argument does not regard the question._
-- **To [[s/_set|set]] store by ([[s/_something|something]]), to [[h/_hold|hold]] ([[s/_someone|someone]]) in [[e/_esteem|esteem]]; to [[c/_consider|consider]] to [[h/_have|have]] value, to [[r/_respect|respect]].**
+- **To [[s/_set|set]] [[s/_store|store]] by ([[s/_something|something]]), to [[h/_hold|hold]] ([[s/_someone|someone]]) in [[e/_esteem|esteem]]; to [[c/_consider|consider]] to [[h/_have|have]] value, to [[r/_respect|respect]].**
 ---
 ### Antonyms
 - [[i/_ignore|ignore]], [[n/_neglect|neglect]]

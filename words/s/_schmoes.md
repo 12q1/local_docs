@@ -1,6 +1,6 @@
 # Schmoes
 ---
 #noun
-- **A stupid or [[o/_obnoxious|obnoxious]] [[p/_person|person]]**
+- **A [[s/_stupid|stupid]] or [[o/_obnoxious|obnoxious]] [[p/_person|person]]**
 ---
 ---

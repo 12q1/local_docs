@@ -8,6 +8,6 @@
 	- _Example: to slacken lime_
 ---
 #noun
-- **The [[a/_act|act]] by which [[s/_something|something]] [[s/_slackens|slackens]]; [[l/_loss|loss]] of speed, tautness, [[e/_etc|etc]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] [[s/_slackens|slackens]]; [[l/_loss|loss]] of [[s/_speed|speed]], tautness, [[e/_etc|etc]].**
 ---
 ---

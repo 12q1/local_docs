@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_place|place]] in which things are [[i/_impounded|impounded]]**
-- **A state of [[b/_being|being]] [[i/_impounded|impounded]]**
+- **A [[s/_state|state]] of [[b/_being|being]] [[i/_impounded|impounded]]**
 - **That which [[h/_has|has]] [[b/_been|been]] [[i/_impounded|impounded]]**
 - **[[a/_amounts|Amounts]] [[c/_collected|collected]] from a [[d/_debtor|debtor]] and [[h/_held|held]] by [[o/_one|one]] with a [[s/_security|security]] [[i/_interest|interest]] in [[p/_property|property]] for [[p/_payment|payment]] of [[p/_property|property]] taxes and [[i/_insurance|insurance]]**
 ---

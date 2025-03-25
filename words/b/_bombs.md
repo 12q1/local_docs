@@ -13,19 +13,19 @@
 - **A woman’[[s/_s|s]] [[b/_breast|breast]].**
 - **A [[p/_professional|professional]] wrestling throw in which an [[o/_opponent|opponent]] is [[l/_lifted|lifted]] and then [[s/_slammed|slammed]] [[b/_back|back]]-[[f/_first|first]] [[d/_down|down]] to the [[m/_mat|mat]].**
 - **A [[r/_recreational|recreational]] [[d/_drug|drug]] [[g/_ground|ground]] up, wrapped, and swallowed.**
-- **An [[a/_act|act]] of [[j/_jumping|jumping]] [[i/_into|into]] water while [[k/_keeping|keeping]] [[o/_one|one]]'[[s/_s|s]] [[a/_arms|arms]] and [[l/_legs|legs]] tucked [[i/_into|into]] the [[b/_body|body]], as in a squatting [[p/_position|position]], to [[m/_maximize|maximize]] splashing.**
+- **An [[a/_act|act]] of [[j/_jumping|jumping]] [[i/_into|into]] water while [[k/_keeping|keeping]] [[o/_one|one]]'[[s/_s|s]] [[a/_arms|arms]] and [[l/_legs|legs]] tucked [[i/_into|into]] the [[b/_body|body]], as in a [[s/_squatting|squatting]] [[p/_position|position]], to [[m/_maximize|maximize]] [[s/_splashing|splashing]].**
 ---
 ### Synonyms
 - [[c/_cannonball|cannonball]], [[f/_fortune|fortune]], [[p/_packet|packet]]
 #verb
 - **To [[a/_attack|attack]] using [[o/_one|one]] or [[m/_more|more]] [[b/_bombs|bombs]]; to [[b/_bombard|bombard]].**
 - **To [[f/_fail|fail]] [[d/_dismally|dismally]].**
-- **To [[j/_jump|jump]] [[i/_into|into]] water in a squatting [[p/_position|position]], with the [[a/_arms|arms]] wrapped [[a/_around|around]] the [[l/_legs|legs]].**
+- **To [[j/_jump|jump]] [[i/_into|into]] water in a [[s/_squatting|squatting]] [[p/_position|position]], with the [[a/_arms|arms]] wrapped [[a/_around|around]] the [[l/_legs|legs]].**
 - **To [[s/_sound|sound]]; to [[b/_boom|boom]]; to [[m/_make|make]] a [[h/_humming|humming]] or [[b/_buzzing|buzzing]] [[s/_sound|sound]].**
 - **To [[c/_cover|cover]] an [[a/_area|area]] in [[m/_many|many]] [[g/_graffiti|graffiti]] tags.**
 - **To [[a/_add|add]] an [[e/_excessive|excessive]] [[a/_amount|amount]] of [[c/_chlorine|chlorine]] to a [[p/_pool|pool]] when it [[h/_has|has]] not [[b/_been|been]] [[m/_maintained|maintained]] [[p/_properly|properly]].**
 - **To [[m/_make|make]] [[o/_oneself|oneself]] [[d/_drunk|drunk]].**
-- **([[e/_especially|especially]] with [[a/_along|along]], [[d/_down|down]], up [[e/_etc|etc]].) To [[m/_move|move]] at [[h/_high|high]] speed.**
+- **([[e/_especially|especially]] with [[a/_along|along]], [[d/_down|down]], up [[e/_etc|etc]].) To [[m/_move|move]] at [[h/_high|high]] [[s/_speed|speed]].**
 	- _Example: I was bombing down the road on my motorbike._
 ---
 ---

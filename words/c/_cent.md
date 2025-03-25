@@ -6,13 +6,13 @@
 	- _Example: He blew every last cent._
 - **([[m/_money|money]]) A subunit of [[c/_currency|currency]] [[e/_equal|equal]] to [[o/_one|one]]-[[h/_hundredth|hundredth]] of the [[e/_euro|euro]].**
 - **([[m/_money|money]]) A [[c/_coin|coin]] [[h/_having|having]] [[f/_face|face]] value of [[o/_one|one]] [[c/_cent|cent]] (in [[e/_either|either]] of the [[a/_above|above]] [[s/_senses|senses]]).**
-- **A [[h/_hundredth|hundredth]] of a [[s/_semitone|semitone]] or [[h/_half|half]] step.**
+- **A [[h/_hundredth|hundredth]] of a [[s/_semitone|semitone]] or [[h/_half|half]] [[s/_step|step]].**
 ---
 ### Synonyms
 - [[p/_penny|penny]], [[d/_dollarcent|dollarcent]], [[e/_eurocent|eurocent]]
 #noun
 - **The [[p/_point|point]] in the [[i/_interior|interior]] of a [[c/_circle|circle]] that is [[e/_equidistant|equidistant]] from [[a/_all|all]] [[p/_points|points]] on the [[c/_circumference|circumference]].**
-- **The [[p/_point|point]] in the [[i/_interior|interior]] of a sphere that is [[e/_equidistant|equidistant]] from [[a/_all|all]] [[p/_points|points]] on the [[c/_circumference|circumference]].**
+- **The [[p/_point|point]] in the [[i/_interior|interior]] of a [[s/_sphere|sphere]] that is [[e/_equidistant|equidistant]] from [[a/_all|all]] [[p/_points|points]] on the [[c/_circumference|circumference]].**
 - **The [[m/_middle|middle]] [[p/_portion|portion]] of [[s/_something|something]]; the [[p/_part|part]] well [[a/_away|away]] from the [[e/_edges|edges]].**
 - **The [[p/_point|point]] on a [[l/_line|line]] that is [[m/_midway|midway]] [[b/_between|between]] the [[e/_ends|ends]].**
 - **The [[p/_point|point]] in the [[i/_interior|interior]] of [[a/_any|any]] [[f/_figure|figure]] of [[a/_any|any]] [[n/_number|number]] of [[d/_dimensions|dimensions]] that [[h/_has|has]] as [[i/_its|its]] [[c/_coordinates|coordinates]] the [[a/_arithmetic|arithmetic]] [[m/_mean|mean]] of the [[c/_coordinates|coordinates]] of [[a/_all|all]] [[p/_points|points]] on the [[p/_perimeter|perimeter]] of the [[f/_figure|figure]] (or of [[a/_all|all]] [[p/_points|points]] in the [[i/_interior|interior]] for a [[c/_center|center]] of volume).**
@@ -25,8 +25,8 @@
 - **A [[p/_player|player]] who [[c/_can|can]] [[g/_go|go]] [[a/_all|all]] [[o/_over|over]] the [[c/_court|court]], [[e/_except|except]] the [[s/_shooting|shooting]] [[c/_circles|circles]].**
 - **A [[p/_pass|pass]] [[p/_played|played]] [[i/_into|into]] the [[c/_centre|centre]] of the [[p/_pitch|pitch]].**
 - **[[o/_one|One]] of the [[b/_backs|backs]] [[o/_operating|operating]] in a [[c/_central|central]] [[a/_area|area]] of the [[p/_pitch|pitch]], [[e/_either|either]] the [[i/_inside|inside]] [[c/_centre|centre]] or [[o/_outside|outside]] [[c/_centre|centre]].**
-- **A temporary structure upon which the [[m/_materials|materials]] of a vault or [[a/_arch|arch]] are supported in [[p/_position|position]] until the work [[b/_becomes|becomes]] [[s/_self|self]]-supporting.**
-- **[[o/_one|One]] of the two [[c/_conical|conical]] steel [[p/_pins|pins]] in a [[l/_lathe|lathe]], [[e/_etc|etc]]., upon which the work is [[h/_held|held]], and [[a/_about|about]] which it [[r/_revolves|revolves]].**
+- **A temporary [[s/_structure|structure]] upon which the [[m/_materials|materials]] of a vault or [[a/_arch|arch]] are supported in [[p/_position|position]] until the work [[b/_becomes|becomes]] [[s/_self|self]]-supporting.**
+- **[[o/_one|One]] of the two [[c/_conical|conical]] [[s/_steel|steel]] [[p/_pins|pins]] in a [[l/_lathe|lathe]], [[e/_etc|etc]]., upon which the work is [[h/_held|held]], and [[a/_about|about]] which it [[r/_revolves|revolves]].**
 - **A [[c/_conical|conical]] [[r/_recess|recess]] or [[i/_indentation|indentation]] in the [[e/_end|end]] of a [[s/_shaft|shaft]] or [[o/_other|other]] work, to [[r/_receive|receive]] the [[p/_point|point]] of a [[c/_center|center]], on which the work [[c/_can|can]] turn, as in a [[l/_lathe|lathe]].**
 - **The [[e/_ensemble|ensemble]] of [[m/_moderate|moderate]] or [[c/_centrist|centrist]] [[p/_political|political]] [[p/_parties|parties]].**
 ---
@@ -35,7 +35,7 @@
 ### Antonyms
 - [[p/_periphery|periphery]]
 #noun
-- **A [[c/_centigrade|centigrade]] temperature [[s/_scale|scale]] [[h/_having|having]] the [[f/_freezing|freezing]] [[p/_point|point]] of water [[d/_defined|defined]] as 0° and [[i/_its|its]] [[b/_boiling|boiling]] [[p/_point|point]] [[d/_defined|defined]] as 100° at standard [[a/_atmospheric|atmospheric]] [[p/_pressure|pressure]]. [[k/_known|Known]] as the [[c/_celsius|Celsius]] [[s/_scale|scale]] [[s/_since|since]] 1948.**
+- **A [[c/_centigrade|centigrade]] temperature [[s/_scale|scale]] [[h/_having|having]] the [[f/_freezing|freezing]] [[p/_point|point]] of water [[d/_defined|defined]] as 0° and [[i/_its|its]] [[b/_boiling|boiling]] [[p/_point|point]] [[d/_defined|defined]] as 100° at [[s/_standard|standard]] [[a/_atmospheric|atmospheric]] [[p/_pressure|pressure]]. [[k/_known|Known]] as the [[c/_celsius|Celsius]] [[s/_scale|scale]] [[s/_since|since]] 1948.**
 - **A [[s/_single|single]] [[d/_degree|degree]] on this [[s/_scale|scale]].**
 	- _Example: a temperature of 34 centigrades_
 - **A unit of [[a/_angle|angle]] [[e/_equal|equal]] to the [[h/_hundredth|hundredth]] [[p/_part|part]] of a [[q/_quadrant|quadrant]]. [[i/_its|Its]] [[s/_symbol|symbol]] is [[g/_gon|gon]].**
@@ -45,7 +45,7 @@
 - **[[p/_perfect|Perfect]] [[s/_score|score]] on a [[b/_board|board]] [[e/_exam|exam]]**
 ---
 #noun
-- **A [[p/_period|period]] of 100 [[c/_consecutive|consecutive]] [[y/_years|years]]; [[o/_often|often]] specifically a [[n/_numbered|numbered]] [[p/_period|period]] with [[c/_conventional|conventional]] start and [[e/_end|end]] [[d/_dates|dates]], [[e/_e|e]].[[g/_g|g]]., the twentieth [[c/_century|century]], which stretches from (strictly) 1901 through 2000, or ([[i/_informally|informally]]) 1900 through 1999. The [[f/_first|first]] [[c/_century|century]] [[a/_ad|AD]] was from 1 to 100.**
+- **A [[p/_period|period]] of 100 [[c/_consecutive|consecutive]] [[y/_years|years]]; [[o/_often|often]] [[s/_specifically|specifically]] a [[n/_numbered|numbered]] [[p/_period|period]] with [[c/_conventional|conventional]] [[s/_start|start]] and [[e/_end|end]] [[d/_dates|dates]], [[e/_e|e]].[[g/_g|g]]., the twentieth [[c/_century|century]], which [[s/_stretches|stretches]] from ([[s/_strictly|strictly]]) 1901 through 2000, or ([[i/_informally|informally]]) 1900 through 1999. The [[f/_first|first]] [[c/_century|century]] [[a/_ad|AD]] was from 1 to 100.**
 - **A unit in [[a/_ancient|ancient]] [[r/_roman|Roman]] [[a/_army|army]], [[o/_originally|originally]] of 100 [[a/_army|army]] [[s/_soldiers|soldiers]] as [[p/_part|part]] of a [[c/_cohort|cohort]], [[l/_later|later]] of [[m/_more|more]] varied [[s/_sizes|sizes]] (but typically [[c/_containing|containing]] 60 to 70 or 80) [[s/_soldiers|soldiers]] or [[o/_other|other]] [[m/_men|men]] ([[g/_guards|guards]], [[p/_police|police]], [[f/_firemen|firemen]]), [[c/_commanded|commanded]] by a [[c/_centurion|centurion]].**
 - **A [[p/_political|political]] [[d/_division|division]] of [[a/_ancient|ancient]] [[r/_rome|Rome]], [[m/_meeting|meeting]] in the [[c/_centuriate|Centuriate]] [[a/_assembly|Assembly]].**
 - **A [[h/_hundred|hundred]] things of the [[s/_same|same]] [[k/_kind|kind]]; a [[h/_hundred|hundred]].**

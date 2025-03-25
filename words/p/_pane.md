@@ -4,8 +4,8 @@
 - **An [[i/_individual|individual]] [[s/_sheet|sheet]] of [[g/_glass|glass]] in a window, [[d/_door|door]], [[e/_etc|etc]].**
 - **A [[l/_layer|layer]] in the [[b/_build|build]]-up of a GUI.**
 - **A [[d/_division|division]]; a [[d/_distinct|distinct]] [[p/_piece|piece]] or [[c/_compartment|compartment]] of [[a/_any|any]] surface.**
-- **A square of a [[c/_checkered|checkered]] or [[p/_plaid|plaid]] [[p/_pattern|pattern]].**
-- **[[o/_one|One]] of the [[o/_openings|openings]] in a [[s/_slashed|slashed]] [[g/_garment|garment]], [[s/_showing|showing]] the [[b/_bright|bright]] [[c/_colored|colored]] [[s/_silk|silk]], or the [[l/_like|like]], within; [[h/_hence|hence]], the [[p/_piece|piece]] of [[c/_colored|colored]] or [[o/_other|other]] stuff [[s/_so|so]] [[s/_shown|shown]].**
+- **A [[s/_square|square]] of a [[c/_checkered|checkered]] or [[p/_plaid|plaid]] [[p/_pattern|pattern]].**
+- **[[o/_one|One]] of the [[o/_openings|openings]] in a [[s/_slashed|slashed]] [[g/_garment|garment]], [[s/_showing|showing]] the [[b/_bright|bright]] [[c/_colored|colored]] [[s/_silk|silk]], or the [[l/_like|like]], within; [[h/_hence|hence]], the [[p/_piece|piece]] of [[c/_colored|colored]] or [[o/_other|other]] [[s/_stuff|stuff]] [[s/_so|so]] [[s/_shown|shown]].**
 - **A [[c/_compartment|compartment]] of a surface, or a [[f/_flat|flat]] [[s/_space|space]]; [[h/_hence|hence]], [[o/_one|one]] [[s/_side|side]] or [[f/_face|face]] of a [[b/_building|building]].**
 	- _Example: An octagonal tower is said to have eight panes._
 - **A subdivision of an [[i/_irrigated|irrigated]] surface [[b/_between|between]] a [[f/_feeder|feeder]] and an [[o/_outlet|outlet]] [[d/_drain|drain]].**
@@ -16,6 +16,6 @@
 - **To [[f/_fit|fit]] with [[p/_panes|panes]].**
 ---
 #noun
-- **The ([[o/_often|often]] spherical) [[e/_end|end]] of the [[h/_head|head]] of a [[h/_hammer|hammer]] [[o/_opposite|opposite]] the [[m/_main|main]] [[h/_hammering|hammering]] [[e/_end|end]].**
+- **The ([[o/_often|often]] [[s/_spherical|spherical]]) [[e/_end|end]] of the [[h/_head|head]] of a [[h/_hammer|hammer]] [[o/_opposite|opposite]] the [[m/_main|main]] [[h/_hammering|hammering]] [[e/_end|end]].**
 ---
 ---

@@ -8,7 +8,7 @@
 	- _Example: The palomino had a white blaze on its face._
 - **A [[h/_high|high]]-visibility [[o/_orange|orange]] [[c/_colour|colour]], typically used in warning [[s/_signs|signs]] and [[h/_hunters|hunters]]' [[c/_clothing|clothing]].**
 - **A [[b/_bursting|bursting]] [[o/_out|out]], or [[a/_active|active]] [[d/_display|display]] of [[a/_any|any]] [[q/_quality|quality]]; an [[o/_outburst|outburst]].**
-- **A spot [[m/_made|made]] on trees by [[c/_chipping|chipping]] [[o/_off|off]] a [[p/_piece|piece]] of the [[b/_bark|bark]], usually as a surveyor'[[s/_s|s]] [[m/_mark|mark]].**
+- **A [[s/_spot|spot]] [[m/_made|made]] on trees by [[c/_chipping|chipping]] [[o/_off|off]] a [[p/_piece|piece]] of the [[b/_bark|bark]], usually as a surveyor'[[s/_s|s]] [[m/_mark|mark]].**
 - **A [[h/_hand|hand]] [[c/_consisting|consisting]] of [[f/_five|five]] [[f/_face|face]] [[c/_cards|cards]].**
 ---
 #verb
@@ -18,7 +18,7 @@
 - **To be [[c/_conspicuous|conspicuous]]; [[s/_shine|shine]] [[b/_brightly|brightly]] a [[b/_brilliancy|brilliancy]] (of talents, [[d/_deeds|deeds]], [[e/_etc|etc]].).**
 - **To [[s/_set|set]] in a [[b/_blaze|blaze]]; [[b/_burn|burn]].**
 - **To [[c/_cause|cause]] to [[s/_shine|shine]] [[f/_forth|forth]]; [[e/_exhibit|exhibit]] vividly; be [[r/_resplendent|resplendent]] with.**
-- **([[o/_only|only]] in the [[p/_past|past]] [[p/_participle|participle]]) To [[m/_mark|mark]] with a white spot on the [[f/_face|face]] (as a [[h/_horse|horse]]).**
+- **([[o/_only|only]] in the [[p/_past|past]] [[p/_participle|participle]]) To [[m/_mark|mark]] with a white [[s/_spot|spot]] on the [[f/_face|face]] (as a [[h/_horse|horse]]).**
 - **To [[s/_set|set]] a [[m/_mark|mark]] on (as a tree, usually by [[c/_cutting|cutting]] [[o/_off|off]] a [[p/_piece|piece]] of [[i/_its|its]] [[b/_bark|bark]]).**
 - **To [[i/_indicate|indicate]] or [[m/_mark|mark]] [[o/_out|out]] (a trail, [[e/_especially|especially]] through vegetation) by a [[s/_series|series]] of [[b/_blazes|blazes]].**
 	- _Example: The guide blazed his way through the undergrowth._
@@ -28,7 +28,7 @@
 - **To [[s/_smoke|smoke]] [[m/_marijuana|marijuana]].**
 ---
 #noun
-- **[[p/_publication|Publication]]; the [[a/_act|act]] of spreading widely by [[r/_report|report]]**
+- **[[p/_publication|Publication]]; the [[a/_act|act]] of [[s/_spreading|spreading]] widely by [[r/_report|report]]**
 ---
 #verb
 - **To [[b/_blow|blow]], as from a trumpet**

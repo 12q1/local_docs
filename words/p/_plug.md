@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_pronged|pronged]] [[c/_connecting|connecting]] [[d/_device|device]] which [[f/_fits|fits]] [[i/_into|into]] a [[m/_mating|mating]] [[s/_socket|socket]], [[e/_especially|especially]] an [[e/_electrical|electrical]] [[o/_one|one]].**
 	- _Example: I pushed the plug back into the electrical socket and the lamp began to glow again._
-- **[[a/_any|Any]] [[p/_piece|piece]] of wood, [[m/_metal|metal]], or [[o/_other|other]] substance used to stop or [[f/_fill|fill]] a [[h/_hole|hole]].**
+- **[[a/_any|Any]] [[p/_piece|piece]] of wood, [[m/_metal|metal]], or [[o/_other|other]] substance used to [[s/_stop|stop]] or [[f/_fill|fill]] a [[h/_hole|hole]].**
 	- _Example: Pull the plug out of the tub so it can drain._
 - **A [[f/_flat|flat]] [[o/_oblong|oblong]] [[c/_cake|cake]] of [[p/_pressed|pressed]] tobacco.**
 	- _Example: He preferred a plug of tobacco to loose chaw._
@@ -26,7 +26,7 @@
 ### Synonyms
 - [[b/_bum|bum]], [[d/_dobbin|dobbin]], [[h/_hack|hack]], [[j/_jade|jade]], [[n/_nag|nag]], [[b/_bung|bung]], [[d/_dowel|dowel]], [[s/_stopper|stopper]], [[s/_stopple|stopple]]
 #verb
-- **To stop with a [[p/_plug|plug]]; to [[m/_make|make]] tight by stopping a [[h/_hole|hole]].**
+- **To [[s/_stop|stop]] with a [[p/_plug|plug]]; to [[m/_make|make]] tight by [[s/_stopping|stopping]] a [[h/_hole|hole]].**
 	- _Example: He attempted to plug the leaks with some caulk._
 - **To [[b/_blatantly|blatantly]] [[m/_mention|mention]] a [[p/_particular|particular]] [[p/_product|product]] or [[s/_service|service]] as [[i/_if|if]] [[a/_advertising|advertising]] it.**
 	- _Example: The main guest on the show just kept plugging his latest movie: it got so tiresome._

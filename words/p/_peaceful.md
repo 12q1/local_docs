@@ -1,7 +1,7 @@
 # Peaceful
 ---
 #adjective
-- **Not at war or [[d/_disturbed|disturbed]] by strife or turmoil.**
+- **Not at war or [[d/_disturbed|disturbed]] by [[s/_strife|strife]] or turmoil.**
 	- _Example: peaceful protest_
 - **[[i/_inclined|Inclined]] to [[p/_peace|peace]].**
 - **[[m/_motionless|Motionless]] and [[c/_calm|calm]].**

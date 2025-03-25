@@ -4,13 +4,13 @@
 - **An [[i/_institution|institution]] where [[o/_one|one]] [[c/_can|can]] [[p/_place|place]] and [[b/_borrow|borrow]] [[m/_money|money]] and take [[c/_care|care]] of [[f/_financial|financial]] [[a/_affairs|affairs]].**
 - **A [[b/_branch|branch]] [[o/_office|office]] of such an [[i/_institution|institution]].**
 - **An underwriter or [[c/_controller|controller]] of a [[c/_card|card]] [[g/_game|game]]; [[a/_also|also]] [[b/_banque|banque]].**
-- **A [[f/_fund|fund]] from [[d/_deposits|deposits]] or [[c/_contributions|contributions]], to be used in transacting [[b/_business|business]]; a [[j/_joint|joint]] stock or [[c/_capital|capital]].**
-- **The sum of [[m/_money|money]] [[e/_etc|etc]]. which the [[d/_dealer|dealer]] or [[b/_banker|banker]] [[h/_has|has]] as a [[f/_fund|fund]] from which to [[d/_draw|draw]] stakes and [[p/_pay|pay]] [[l/_losses|losses]].**
+- **A [[f/_fund|fund]] from [[d/_deposits|deposits]] or [[c/_contributions|contributions]], to be used in transacting [[b/_business|business]]; a [[j/_joint|joint]] [[s/_stock|stock]] or [[c/_capital|capital]].**
+- **The sum of [[m/_money|money]] [[e/_etc|etc]]. which the [[d/_dealer|dealer]] or [[b/_banker|banker]] [[h/_has|has]] as a [[f/_fund|fund]] from which to [[d/_draw|draw]] [[s/_stakes|stakes]] and [[p/_pay|pay]] [[l/_losses|losses]].**
 - **[[m/_money|Money]]; [[p/_profit|profit]]**
 - **In [[c/_certain|certain]] [[g/_games|games]], such as [[d/_dominos|dominos]], a [[f/_fund|fund]] of [[p/_pieces|pieces]] from which the [[p/_players|players]] are [[a/_allowed|allowed]] to [[d/_draw|draw]].**
-- **A [[s/_safe|safe]] and [[g/_guaranteed|guaranteed]] [[p/_place|place]] of storage for and [[r/_retrieval|retrieval]] of [[i/_important|important]] [[i/_items|items]] or [[g/_goods|goods]].**
+- **A [[s/_safe|safe]] and [[g/_guaranteed|guaranteed]] [[p/_place|place]] of [[s/_storage|storage]] for and [[r/_retrieval|retrieval]] of [[i/_important|important]] [[i/_items|items]] or [[g/_goods|goods]].**
 	- _Example: blood bank; sperm bank; data bank_
-- **A [[d/_device|device]] used to store [[c/_coins|coins]] or [[c/_currency|currency]].**
+- **A [[d/_device|device]] used to [[s/_store|store]] [[c/_coins|coins]] or [[c/_currency|currency]].**
 	- _Example: If you want to buy a bicycle, you need to put the money in your piggy bank._
 ---
 ### Synonyms
@@ -48,7 +48,7 @@
 - **To [[p/_provide|provide]] [[a/_additional|additional]] [[p/_power|power]] for a train [[a/_ascending|ascending]] a [[b/_bank|bank]] ([[i/_incline|incline]]) by [[a/_attaching|attaching]] [[a/_another|another]] [[l/_locomotive|locomotive]].**
 ---
 #noun
-- **A [[r/_row|row]] or [[p/_panel|panel]] of [[i/_items|items]] stored or [[g/_grouped|grouped]] together.**
+- **A [[r/_row|row]] or [[p/_panel|panel]] of [[i/_items|items]] [[s/_stored|stored]] or [[g/_grouped|grouped]] together.**
 	- _Example: a bank of pay phones_
 - **A [[r/_row|row]] of [[k/_keys|keys]] on a [[m/_musical|musical]] [[k/_keyboard|keyboard]] or the [[e/_equivalent|equivalent]] on a typewriter [[k/_keyboard|keyboard]].**
 - **A [[c/_contiguous|contiguous]] [[b/_block|block]] of [[m/_memory|memory]] that is of [[f/_fixed|fixed]], [[h/_hardware|hardware]]-[[d/_dependent|dependent]] [[s/_size|size]], but [[o/_often|often]] [[l/_larger|larger]] than a [[p/_page|page]] and [[p/_partitioning|partitioning]] the [[m/_memory|memory]] such that two [[d/_distinct|distinct]] [[b/_banks|banks]] [[d/_do|do]] not [[o/_overlap|overlap]].**

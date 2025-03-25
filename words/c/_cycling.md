@@ -9,7 +9,7 @@
 	- _Example: They have their cycling game going tonight._
 ---
 #noun
-- **The sport of [[r/_riding|riding]] and [[r/_racing|racing]] [[c/_cycles|cycles]], [[e/_especially|especially]] [[b/_bicycles|bicycles]].**
+- **The [[s/_sport|sport]] of [[r/_riding|riding]] and [[r/_racing|racing]] [[c/_cycles|cycles]], [[e/_especially|especially]] [[b/_bicycles|bicycles]].**
 	- _Example: In all my years as a cycling fan, I've never seen a breakaway like this._
 - **[[a/_any|Any]] [[c/_cyclic|cyclic]] [[a/_action|action]] or [[p/_process|process]]**
 ---

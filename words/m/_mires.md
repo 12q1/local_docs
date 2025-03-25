@@ -1,13 +1,13 @@
 # Mires
 ---
 #noun
-- **[[d/_deep|Deep]] [[m/_mud|mud]]; [[m/_moist|moist]], spongy [[e/_earth|earth]].**
+- **[[d/_deep|Deep]] [[m/_mud|mud]]; [[m/_moist|moist]], [[s/_spongy|spongy]] [[e/_earth|earth]].**
 - **An undesirable [[s/_situation|situation]], a [[p/_predicament|predicament]].**
 ---
 ### Synonyms
 - [[p/_peatland|peatland]], [[q/_quag|quag]]
 #verb
-- **To [[c/_cause|cause]] or [[p/_permit|permit]] to [[b/_become|become]] stuck in [[m/_mud|mud]]; to [[p/_plunge|plunge]] or [[f/_fix|fix]] in [[m/_mud|mud]].**
+- **To [[c/_cause|cause]] or [[p/_permit|permit]] to [[b/_become|become]] [[s/_stuck|stuck]] in [[m/_mud|mud]]; to [[p/_plunge|plunge]] or [[f/_fix|fix]] in [[m/_mud|mud]].**
 	- _Example: to mire a horse or wagon_
 - **To [[s/_sink|sink]] [[i/_into|into]] [[m/_mud|mud]].**
 - **To weigh [[d/_down|down]].**

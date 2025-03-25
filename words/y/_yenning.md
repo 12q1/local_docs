@@ -1,6 +1,6 @@
 # Yenning
 ---
 #verb
-- **To [[h/_have|have]] a strong [[d/_desire|desire]] for.**
+- **To [[h/_have|have]] a [[s/_strong|strong]] [[d/_desire|desire]] for.**
 ---
 ---

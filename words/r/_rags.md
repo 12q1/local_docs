@@ -23,7 +23,7 @@
 ---
 #noun
 - **A [[p/_prank|prank]] or [[p/_practical|practical]] [[j/_joke|joke]].**
-- **A [[s/_society|society]] [[r/_run|run]] by university students for the [[p/_purpose|purpose]] of [[c/_charitable|charitable]] [[f/_fundraising|fundraising]].**
+- **A [[s/_society|society]] [[r/_run|run]] by university [[s/_students|students]] for the [[p/_purpose|purpose]] of [[c/_charitable|charitable]] [[f/_fundraising|fundraising]].**
 ---
 #verb
 - **To [[s/_scold|scold]] or tell [[o/_off|off]]; to torment; to [[b/_banter|banter]].**
@@ -31,7 +31,7 @@
 - **To tease or torment, [[e/_especially|especially]] at a university; to [[b/_bully|bully]], to [[h/_haze|haze]].**
 ---
 #noun
-- **An [[i/_informal|informal]] [[d/_dance|dance]] [[p/_party|party]] [[f/_featuring|featuring]] [[m/_music|music]] [[p/_played|played]] by [[a/_african|African]]-[[a/_american|American]] string [[b/_bands|bands]].**
+- **An [[i/_informal|informal]] [[d/_dance|dance]] [[p/_party|party]] [[f/_featuring|featuring]] [[m/_music|music]] [[p/_played|played]] by [[a/_african|African]]-[[a/_american|American]] [[s/_string|string]] [[b/_bands|bands]].**
 - **A [[r/_ragtime|ragtime]] [[s/_song|song]], [[d/_dance|dance]] or [[p/_piece|piece]] of [[m/_music|music]].**
 ---
 #verb

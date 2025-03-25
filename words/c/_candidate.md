@@ -8,7 +8,7 @@
 - **A [[g/_gene|gene]] which [[m/_may|may]] [[p/_play|play]] a [[r/_role|role]] in a [[g/_given|given]] [[d/_disease|disease]].**
 ---
 #verb
-- **To stand as a [[c/_candidate|candidate]] for an [[o/_office|office]], [[e/_especially|especially]] a [[r/_religious|religious]] [[o/_one|one]].**
-- **([[c/_chiefly|chiefly]] in [[j/_jargon|jargon]] and NNES) To [[m/_make|make]] or [[n/_name|name]] ([[s/_something|something]]) a [[c/_candidate|candidate]] (for use, for study as a [[n/_next|next]] [[p/_project|project]], for [[i/_investigation|investigation]] as a [[p/_possible|possible]] [[c/_cause|cause]] of [[s/_something|something]], [[e/_etc|etc]]).**
+- **To [[s/_stand|stand]] as a [[c/_candidate|candidate]] for an [[o/_office|office]], [[e/_especially|especially]] a [[r/_religious|religious]] [[o/_one|one]].**
+- **([[c/_chiefly|chiefly]] in [[j/_jargon|jargon]] and NNES) To [[m/_make|make]] or [[n/_name|name]] ([[s/_something|something]]) a [[c/_candidate|candidate]] (for use, for [[s/_study|study]] as a [[n/_next|next]] [[p/_project|project]], for [[i/_investigation|investigation]] as a [[p/_possible|possible]] [[c/_cause|cause]] of [[s/_something|something]], [[e/_etc|etc]]).**
 ---
 ---

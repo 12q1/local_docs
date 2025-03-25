@@ -11,6 +11,6 @@
 - **To [[f/_flout|flout]] with [[c/_contempt|contempt]].**
 ---
 #verb
-- **To [[c/_cure|cure]] ([[m/_meat|meat]]) by [[c/_cutting|cutting]] it [[i/_into|into]] strips and [[d/_drying|drying]] it, [[o/_originally|originally]] in the sun.**
+- **To [[c/_cure|cure]] ([[m/_meat|meat]]) by [[c/_cutting|cutting]] it [[i/_into|into]] [[s/_strips|strips]] and [[d/_drying|drying]] it, [[o/_originally|originally]] in the sun.**
 ---
 ---

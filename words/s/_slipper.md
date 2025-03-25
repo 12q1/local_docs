@@ -9,7 +9,7 @@
 - **A [[k/_kind|kind]] of [[a/_apron|apron]] or [[p/_pinafore|pinafore]] for [[c/_children|children]].**
 - **A [[k/_kind|kind]] of [[b/_brake|brake]] or [[s/_shoe|shoe]] for a wagon wheel.**
 - **A [[p/_piece|piece]], usually a [[p/_plate|plate]], [[a/_applied|applied]] to a [[s/_sliding|sliding]] [[p/_piece|piece]], to [[r/_receive|receive]] wear and [[p/_permit|permit]] [[a/_adjustment|adjustment]]; a [[g/_gib|gib]].**
-- **A [[f/_form|form]] of [[c/_corporal|corporal]] [[p/_punishment|punishment]] where the [[b/_buttocks|buttocks]] are [[r/_repeatedly|repeatedly]] struck with a [[p/_plimsoll|plimsoll]]; "the [[s/_slipper|slipper]]".**
+- **A [[f/_form|form]] of [[c/_corporal|corporal]] [[p/_punishment|punishment]] where the [[b/_buttocks|buttocks]] are [[r/_repeatedly|repeatedly]] [[s/_struck|struck]] with a [[p/_plimsoll|plimsoll]]; "the [[s/_slipper|slipper]]".**
 - **The [[p/_plimsoll|plimsoll]] or [[g/_gym|gym]] [[s/_shoe|shoe]] used in this [[f/_form|form]] of [[p/_punishment|punishment]].**
 ---
 ### Synonyms

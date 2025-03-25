@@ -20,15 +20,15 @@
 	- _Example: You'll need sharp aim to make that shot._
 - **[[o/_offensive|Offensive]], [[c/_critical|critical]], or [[a/_acrimonious|acrimonious]].**
 	- _Example: When the two rivals met, first there were sharp words, and then a fight broke out._
-- **Stylish or [[a/_attractive|attractive]].**
+- **[[s/_stylish|Stylish]] or [[a/_attractive|attractive]].**
 	- _Example: You look so sharp in that tuxedo!_
 - **[[o/_observant|Observant]]; [[a/_alert|alert]]; [[a/_acute|acute]].**
 	- _Example: Keep a sharp watch on the prisoners. I don't want them to escape!_
 - **[[f/_forming|Forming]] a [[s/_small|small]] [[a/_angle|angle]]; [[e/_especially|especially]], [[f/_forming|forming]] an [[a/_angle|angle]] of [[l/_less|less]] than [[n/_ninety|ninety]] [[d/_degrees|degrees]].**
 	- _Example: Drive down Main for three quarters of a mile, then make a sharp right turn onto Pine._
-- **Steep; [[p/_precipitous|precipitous]]; [[a/_abrupt|abrupt]].**
+- **[[s/_steep|Steep]]; [[p/_precipitous|precipitous]]; [[a/_abrupt|abrupt]].**
 	- _Example: a sharp ascent or descent; a sharp turn or curve_
-- **(of a statement) [[s/_said|Said]] of as [[e/_extreme|extreme]] a value as [[p/_possible|possible]].**
+- **(of a [[s/_statement|statement]]) [[s/_said|Said]] of as [[e/_extreme|extreme]] a value as [[p/_possible|possible]].**
 	- _Example: Sure, any planar graph can be five-colored. But that result is not sharp: in fact, any planar graph can be four-colored. That is sharp: the same can't be said for any lower number._
 - **Tactical; [[r/_risky|risky]].**
 - **[[p/_piercing|Piercing]]; [[k/_keen|keen]]; [[s/_severe|severe]]; [[p/_painful|painful]].**

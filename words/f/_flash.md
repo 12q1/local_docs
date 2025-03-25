@@ -9,10 +9,10 @@
 - **A [[f/_flashlight|flashlight]]; an [[e/_electric|electric]] torch.**
 - **A sudden and [[b/_brilliant|brilliant]] [[b/_burst|burst]], as of [[g/_genius|genius]] or wit.**
 - **[[m/_material|Material]] [[l/_left|left]] [[a/_around|around]] the [[e/_edge|edge]] of a [[m/_moulded|moulded]] [[p/_part|part]] at the [[p/_parting|parting]] [[l/_line|line]] of the [[m/_mould|mould]].**
-- **([[c/_cockney|Cockney]]) The strips of [[b/_bright|bright]] [[c/_cloth|cloth]] or [[b/_buttons|buttons]] worn [[a/_around|around]] the [[c/_collars|collars]] of [[m/_market|market]] traders.**
+- **([[c/_cockney|Cockney]]) The [[s/_strips|strips]] of [[b/_bright|bright]] [[c/_cloth|cloth]] or [[b/_buttons|buttons]] worn [[a/_around|around]] the [[c/_collars|collars]] of [[m/_market|market]] traders.**
 - **A [[p/_pattern|pattern]] where [[e/_each|each]] [[p/_prop|prop]] is thrown and [[c/_caught|caught]] [[o/_only|only]] [[o/_once|once]].**
 - **A [[l/_language|language]], [[c/_created|created]] by a [[m/_minority|minority]] to [[m/_maintain|maintain]] [[c/_cultural|cultural]] [[i/_identity|identity]], that [[c/_cannot|cannot]] be understood by the [[r/_ruling|ruling]] [[c/_class|class]].**
-- **A [[p/_preparation|preparation]] of [[c/_capsicum|capsicum]], [[b/_burnt|burnt]] sugar, [[e/_etc|etc]]., for [[c/_colouring|colouring]] [[l/_liquor|liquor]] to [[m/_make|make]] it [[l/_look|look]] stronger.**
+- **A [[p/_preparation|preparation]] of [[c/_capsicum|capsicum]], [[b/_burnt|burnt]] sugar, [[e/_etc|etc]]., for [[c/_colouring|colouring]] [[l/_liquor|liquor]] to [[m/_make|make]] it [[l/_look|look]] [[s/_stronger|stronger]].**
 - **A [[f/_form|form]] of [[m/_military|military]] [[i/_insignia|insignia]].**
 	- _Example: I just got my first commando flash._
 - **[[a/_any|Any]] of various [[l/_lycaenid|lycaenid]] [[b/_butterflies|butterflies]] of the [[g/_genera|genera]] Artipe, Deudorix and Rapala.**
@@ -33,7 +33,7 @@
 	- _Example: The scenery flashed by quickly._
 - **To [[m/_make|make]] visible [[b/_briefly|briefly]].**
 	- _Example: A number will be flashed on the screen._
-- **To [[b/_briefly|briefly]], and [[o/_often|often]] unintentionally, [[e/_expose|expose]] [[o/_one|one]]'[[s/_s|s]] [[n/_naked|naked]] [[b/_body|body]] or underwear, or [[p/_part|part]] of it, in [[p/_public|public]]. ([[c/_contrast|Contrast]] streak.)**
+- **To [[b/_briefly|briefly]], and [[o/_often|often]] unintentionally, [[e/_expose|expose]] [[o/_one|one]]'[[s/_s|s]] [[n/_naked|naked]] [[b/_body|body]] or underwear, or [[p/_part|part]] of it, in [[p/_public|public]]. ([[c/_contrast|Contrast]] [[s/_streak|streak]].)**
 	- _Example: Her skirt was so short that she flashed her underpants as she was getting out of her car._
 - **To [[s/_show|show]] or [[e/_expose|expose]] an "[[i/_inappropriate|inappropriate]]" [[p/_part|part]] of the [[b/_body|body]] to [[s/_someone|someone]] for [[h/_humorous|humorous]] [[r/_reasons|reasons]] or as an [[a/_act|act]] of [[c/_contempt|contempt]].**
 - **To [[b/_break|break]] [[f/_forth|forth]] [[l/_like|like]] a sudden [[f/_flood|flood]] of [[l/_light|light]]; to [[s/_show|show]] a [[m/_momentary|momentary]] [[b/_brilliance|brilliance]].**
@@ -50,17 +50,17 @@
 - **To write to the [[m/_memory|memory]] of (an updatable [[c/_component|component]] such as a [[b/_bios|BIOS]] [[c/_chip|chip]] or [[g/_games|games]] [[c/_cartridge|cartridge]]).**
 - **([[g/_glassmaking|glassmaking]]) To [[c/_cover|cover]] with a thin [[l/_layer|layer]], as [[o/_objects|objects]] of [[g/_glass|glass]] with [[g/_glass|glass]] of a [[d/_different|different]] [[c/_colour|colour]].**
 - **([[g/_glassmaking|glassmaking]]) To [[e/_expand|expand]] ([[b/_blown|blown]] [[g/_glass|glass]]) [[i/_into|into]] a [[d/_disc|disc]].**
-- **To [[s/_send|send]] by [[s/_some|some]] startling or sudden [[m/_means|means]].**
+- **To [[s/_send|send]] by [[s/_some|some]] [[s/_startling|startling]] or sudden [[m/_means|means]].**
 - **To [[b/_burst|burst]] [[o/_out|out]] [[i/_into|into]] violence.**
 - **To [[p/_perform|perform]] a [[f/_flash|flash]].**
 - **To [[r/_release|release]] the [[p/_pressure|pressure]] from a [[p/_pressurized|pressurized]] vessel.**
 - **To trick up in a [[s/_showy|showy]] [[m/_manner|manner]].**
-- **To strike and throw up [[l/_large|large]] [[b/_bodies|bodies]] of water from the surface; to splash.**
+- **To [[s/_strike|strike]] and throw up [[l/_large|large]] [[b/_bodies|bodies]] of water from the surface; to [[s/_splash|splash]].**
 ---
 ### Synonyms
 - [[b/_beep|beep]], [[g/_glint|glint]]
 #adjective
-- **[[e/_expensive|Expensive]]-[[l/_looking|looking]] and [[d/_demanding|demanding]] [[a/_attention|attention]]; stylish; [[s/_showy|showy]].**
+- **[[e/_expensive|Expensive]]-[[l/_looking|looking]] and [[d/_demanding|demanding]] [[a/_attention|attention]]; [[s/_stylish|stylish]]; [[s/_showy|showy]].**
 - **(of a [[p/_person|person]]) [[h/_having|Having]] [[p/_plenty|plenty]] of [[r/_ready|ready]] [[m/_money|money]].**
 - **(of a [[p/_person|person]]) [[l/_liable|Liable]] to [[s/_show|show]] [[o/_off|off]] [[e/_expensive|expensive]] [[p/_possessions|possessions]] or [[m/_money|money]].**
 - **[[o/_occurring|Occurring]] very [[r/_rapidly|rapidly]], [[a/_almost|almost]] [[i/_instantaneously|instantaneously]].**

@@ -1,7 +1,7 @@
 # Pigeon
 ---
 #noun
-- **[[o/_one|One]] of [[s/_several|several]] [[b/_birds|birds]] of the [[f/_family|family]] [[c/_columbidae|Columbidae]], which [[c/_consists|consists]] of [[m/_more|more]] than 300 species.**
+- **[[o/_one|One]] of [[s/_several|several]] [[b/_birds|birds]] of the [[f/_family|family]] [[c/_columbidae|Columbidae]], which [[c/_consists|consists]] of [[m/_more|more]] than 300 [[s/_species|species]].**
 - **The [[m/_meat|meat]] from this [[b/_bird|bird]].**
 - **A [[p/_person|person]] who is a target or victim of a [[c/_confidence|confidence]] [[g/_game|game]].**
 - **[[c/_concern|Concern]] or [[r/_responsibility|responsibility]].**

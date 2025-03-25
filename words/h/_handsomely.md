@@ -6,6 +6,6 @@
 - **[[g/_generously|Generously]].**
 	- _Example: I was handsomely rewarded for my part in tracking down the thief._
 - **[[i/_impressively|Impressively]], thoroughly.**
-- **[[c/_carefully|Carefully]]; in [[s/_shipshape|shipshape]] style; without undue [[h/_haste|haste]].**
+- **[[c/_carefully|Carefully]]; in [[s/_shipshape|shipshape]] [[s/_style|style]]; without undue [[h/_haste|haste]].**
 ---
 ---

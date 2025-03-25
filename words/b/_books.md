@@ -34,7 +34,7 @@
 - **To travel very [[f/_fast|fast]].**
 	- _Example: He was really booking, until he passed the speed trap._
 - **To [[r/_record|record]] [[b/_bets|bets]] as [[b/_bookmaker|bookmaker]].**
-- **([[l/_law|law]] student [[s/_slang|slang]]) To [[r/_receive|receive]] the [[h/_highest|highest]] [[g/_grade|grade]] in a [[c/_class|class]].**
+- **([[l/_law|law]] [[s/_student|student]] [[s/_slang|slang]]) To [[r/_receive|receive]] the [[h/_highest|highest]] [[g/_grade|grade]] in a [[c/_class|class]].**
 	- _Example: The top three students had a bet on which one was going to book their intellectual property class._
 - **To [[l/_leave|leave]].**
 	- _Example: He was here earlier, but he booked._

@@ -1,7 +1,7 @@
 # Ebullient
 ---
 #adjective
-- **[[e/_enthusiastic|Enthusiastic]]; [[h/_high|high]]-spirited.**
+- **[[e/_enthusiastic|Enthusiastic]]; [[h/_high|high]]-[[s/_spirited|spirited]].**
 - **(of a [[l/_liquid|liquid]]) [[b/_boiling|Boiling]] or [[a/_agitated|agitated]] as [[i/_if|if]] [[b/_boiling|boiling]].**
 ---
 ### Synonyms

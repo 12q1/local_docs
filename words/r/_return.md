@@ -9,11 +9,11 @@
 	- _Example: Last year there were 250 returns of this product, an improvement on the 500 returns the year before._
 - **An [[a/_answer|answer]].**
 	- _Example: a return to one's question_
-- **An [[a/_account|account]], or [[f/_formal|formal]] [[r/_report|report]], of an [[a/_action|action]] [[p/_performed|performed]], of a [[d/_duty|duty]] [[d/_discharged|discharged]], of [[f/_facts|facts]] or statistics, [[e/_etc|etc]].; [[e/_especially|especially]], in the [[p/_plural|plural]], a [[s/_set|set]] of tabulated statistics [[p/_prepared|prepared]] for [[g/_general|general]] [[i/_information|information]].**
+- **An [[a/_account|account]], or [[f/_formal|formal]] [[r/_report|report]], of an [[a/_action|action]] [[p/_performed|performed]], of a [[d/_duty|duty]] [[d/_discharged|discharged]], of [[f/_facts|facts]] or [[s/_statistics|statistics]], [[e/_etc|etc]].; [[e/_especially|especially]], in the [[p/_plural|plural]], a [[s/_set|set]] of tabulated [[s/_statistics|statistics]] [[p/_prepared|prepared]] for [[g/_general|general]] [[i/_information|information]].**
 	- _Example: election returns; a return of the amount of goods produced or sold_
 - **[[g/_gain|Gain]] or [[l/_loss|loss]] from an [[i/_investment|investment]].**
 	- _Example: It yielded a return of 5%._
-- **: A [[r/_report|report]] of [[i/_income|income]] submitted to a [[g/_government|government]] for [[p/_purposes|purposes]] of specifying [[e/_exact|exact]] tax [[p/_payment|payment]] [[a/_amounts|amounts]]. A tax [[r/_return|return]].**
+- **: A [[r/_report|report]] of [[i/_income|income]] submitted to a [[g/_government|government]] for [[p/_purposes|purposes]] of [[s/_specifying|specifying]] [[e/_exact|exact]] tax [[p/_payment|payment]] [[a/_amounts|amounts]]. A tax [[r/_return|return]].**
 	- _Example: Hand in your return by the end of the tax year._
 - **A [[c/_carriage|carriage]] [[r/_return|return]] [[c/_character|character]].**
 - **The [[a/_act|act]] of [[r/_relinquishing|relinquishing]] [[c/_control|control]] to the [[c/_calling|calling]] [[p/_procedure|procedure]].**

@@ -7,7 +7,7 @@
 	- _Example: to rescue a prisoner from the enemy._
 - **To [[r/_recover|recover]] [[f/_forcibly|forcibly]].**
 - **To [[d/_deliver|deliver]] by [[a/_arms|arms]], [[n/_notably|notably]] from a [[s/_siege|siege]].**
-- **To [[r/_remove|remove]] or withdraw from a state of [[e/_exposure|exposure]] to [[e/_evil|evil]] and [[s/_sin|sin]].**
+- **To [[r/_remove|remove]] or withdraw from a [[s/_state|state]] of [[e/_exposure|exposure]] to [[e/_evil|evil]] and [[s/_sin|sin]].**
 	- _Example: Traditionally missionaries aim to rescue many ignorant heathen souls._
 - **To [[a/_achieve|achieve]] [[s/_something|something]] [[p/_positive|positive]] under [[d/_difficult|difficult]] [[c/_conditions|conditions]].**
 ---

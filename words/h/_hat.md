@@ -8,7 +8,7 @@
 - **The [[h/_h|h]]áček [[s/_symbol|symbol]].**
 - **The [[c/_caret|caret]] [[s/_symbol|symbol]] ^.**
 - **User [[r/_rights|rights]] on a website, such as the [[r/_right|right]] to [[e/_edit|edit]] [[p/_pages|pages]] [[o/_others|others]] [[c/_cannot|cannot]].**
-- **([[c/_cambridge|Cambridge]] University [[s/_slang|slang]]) A student who is [[a/_also|also]] the [[s/_son|son]] of a [[n/_nobleman|nobleman]] (and [[s/_so|so]] [[a/_allowed|allowed]] to wear a [[h/_hat|hat]] [[i/_instead|instead]] of a [[m/_mortarboard|mortarboard]]).**
+- **([[c/_cambridge|Cambridge]] University [[s/_slang|slang]]) A [[s/_student|student]] who is [[a/_also|also]] the [[s/_son|son]] of a [[n/_nobleman|nobleman]] (and [[s/_so|so]] [[a/_allowed|allowed]] to wear a [[h/_hat|hat]] [[i/_instead|instead]] of a [[m/_mortarboard|mortarboard]]).**
 ---
 ### Synonyms
 - [[t/_tuft|tuft]]

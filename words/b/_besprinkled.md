@@ -1,6 +1,6 @@
 # Besprinkled
 ---
 #adjective
-- **Sprinkled.**
+- **[[s/_sprinkled|Sprinkled]].**
 ---
 ---

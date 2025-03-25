@@ -13,7 +13,7 @@
 	- _Example: to remit the performance of an obligation_
 - **To [[g/_give|give]] up; [[o/_omit|omit]]; [[c/_cease|cease]] [[d/_doing|doing]].**
 - **To [[a/_allow|allow]] ([[s/_something|something]]) to [[s/_slacken|slacken]], to [[r/_relax|relax]] ([[o/_one|one]]'[[s/_s|s]] [[a/_attention|attention]] [[e/_etc|etc]].).**
-- **To [[s/_show|show]] a [[l/_lessening|lessening]] or [[a/_abatement|abatement]] (of a specified [[q/_quality|quality]]).**
+- **To [[s/_show|show]] a [[l/_lessening|lessening]] or [[a/_abatement|abatement]] (of a [[s/_specified|specified]] [[q/_quality|quality]]).**
 - **To [[d/_diminish|diminish]], [[a/_abate|abate]].**
 - **To [[r/_refer|refer]] ([[s/_something|something]] or [[s/_someone|someone]]) for [[d/_deliberation|deliberation]], [[j/_judgment|judgment]], [[e/_etc|etc]]. (to a [[p/_particular|particular]] [[b/_body|body]] or [[p/_person|person]]).**
 - **To [[s/_send|send]] [[b/_back|back]].**

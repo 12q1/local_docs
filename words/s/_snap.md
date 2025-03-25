@@ -81,7 +81,7 @@
 - **By [[e/_extension|extension]] from the [[c/_card|card]] [[g/_game|game]], "[[i/_i|I]]'ve [[g/_got|got]] [[o/_one|one]] the [[s/_same|same]]!", "[[m/_me|Me]] too!"**
 	- _Example: Snap! We've both got pink buckets and spades._
 - **[[r/_ritual|Ritual]] utterance of [[a/_agreement|agreement]] ([[a/_after|after]] the [[c/_cry|cry]] in the [[c/_card|card]] [[g/_game|game]] [[s/_snap|snap]]).**
-- **Used in [[p/_place|place]] of [[e/_expletive|expletive]] to [[e/_express|express]] surprise, usually in [[r/_response|response]] to a [[n/_negative|negative]] statement or [[n/_news|news]]; [[o/_often|often]] used [[f/_facetiously|facetiously]].**
+- **Used in [[p/_place|place]] of [[e/_expletive|expletive]] to [[e/_express|express]] surprise, usually in [[r/_response|response]] to a [[n/_negative|negative]] [[s/_statement|statement]] or [[n/_news|news]]; [[o/_often|often]] used [[f/_facetiously|facetiously]].**
 	- _Example: "I just ran over your phone with my car." "Oh, snap!"_
 - **[[r/_ritual|Ritual]] utterance used [[a/_after|after]] [[s/_something|something]] is [[s/_said|said]] by two [[p/_people|people]] at [[e/_exactly|exactly]] the [[s/_same|same]] time.**
 	- _Example: "Wasn't that John?" "Wasn't that John?" "Snap!"_

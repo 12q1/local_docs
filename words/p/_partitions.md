@@ -6,7 +6,7 @@
 - **An [[a/_approach|approach]] to [[d/_division|division]] in which [[o/_one|one]] [[a/_asks|asks]] what the [[s/_size|size]] of [[e/_each|each]] [[p/_part|part]] is, [[r/_rather|rather]] than (as in quotition) [[h/_how|how]] [[m/_many|many]] [[p/_parts|parts]] there are.**
 - **The [[d/_division|division]] of a territory [[i/_into|into]] two or [[m/_more|more]] [[a/_autonomous|autonomous]] [[o/_ones|ones]].**
 	- _Example: Monarchies where partition isn't prohibited risk weakening trough parcellation and civil wars between the heirs_
-- **A vertical structure that [[d/_divides|divides]] a [[r/_room|room]].**
+- **A vertical [[s/_structure|structure]] that [[d/_divides|divides]] a [[r/_room|room]].**
 	- _Example: a brick partition; lath and plaster partitions_
 - **That which [[d/_divides|divides]] or [[s/_separates|separates]]; that by which [[d/_different|different]] things, or [[d/_distinct|distinct]] [[p/_parts|parts]] of the [[s/_same|same]] thing, are [[s/_separated|separated]]; [[b/_boundary|boundary]]; [[d/_dividing|dividing]] [[l/_line|line]] or [[s/_space|space]].**
 - **A [[p/_part|part]] [[d/_divided|divided]] [[o/_off|off]] by walls; an [[a/_apartment|apartment]]; a [[c/_compartment|compartment]].**
@@ -20,7 +20,7 @@
 - [[d/_dismemberment|dismemberment]]
 #verb
 - **To [[d/_divide|divide]] [[s/_something|something]] [[i/_into|into]] [[p/_parts|parts]], [[s/_sections|sections]] or [[s/_shares|shares]]**
-- **To [[d/_divide|divide]] a [[r/_region|region]] or [[c/_country|country]] [[i/_into|into]] two or [[m/_more|more]] territories with [[s/_separate|separate]] [[p/_political|political]] status**
+- **To [[d/_divide|divide]] a [[r/_region|region]] or [[c/_country|country]] [[i/_into|into]] two or [[m/_more|more]] territories with [[s/_separate|separate]] [[p/_political|political]] [[s/_status|status]]**
 - **To [[s/_separate|separate]] or [[d/_divide|divide]] a [[r/_room|room]] by a [[p/_partition|partition]] ([[e/_ex|ex]]. a wall), [[o/_often|often]] use with [[o/_off|off]]**
 ---
 ### Synonyms

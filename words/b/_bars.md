@@ -3,11 +3,11 @@
 #noun
 - **A [[s/_solid|solid]], [[m/_more|more]] or [[l/_less|less]] [[r/_rigid|rigid]] [[o/_object|object]] of [[m/_metal|metal]] or wood with a uniform [[c/_cross|cross]]-[[s/_section|section]] [[s/_smaller|smaller]] than [[i/_its|its]] [[l/_length|length]].**
 	- _Example: The window was protected by steel bars._
-- **A [[s/_solid|solid]] [[m/_metal|metal]] [[o/_object|object]] with uniform ([[r/_round|round]], square, [[h/_hexagonal|hexagonal]], [[o/_octagonal|octagonal]] or [[r/_rectangular|rectangular]]) [[c/_cross|cross]]-[[s/_section|section]]; in the US [[i/_its|its]] [[s/_smallest|smallest]] [[d/_dimension|dimension]] is 1/4 [[i/_inch|inch]] or [[g/_greater|greater]], a [[p/_piece|piece]] of thinner [[m/_material|material]] [[b/_being|being]] [[c/_called|called]] a strip.**
+- **A [[s/_solid|solid]] [[m/_metal|metal]] [[o/_object|object]] with uniform ([[r/_round|round]], [[s/_square|square]], [[h/_hexagonal|hexagonal]], [[o/_octagonal|octagonal]] or [[r/_rectangular|rectangular]]) [[c/_cross|cross]]-[[s/_section|section]]; in the US [[i/_its|its]] [[s/_smallest|smallest]] [[d/_dimension|dimension]] is 1/4 [[i/_inch|inch]] or [[g/_greater|greater]], a [[p/_piece|piece]] of thinner [[m/_material|material]] [[b/_being|being]] [[c/_called|called]] a [[s/_strip|strip]].**
 	- _Example: Ancient Sparta used iron bars instead of handy coins in more valuable alloy, to physically discourage the use of money._
 - **A [[c/_cuboid|cuboid]] [[p/_piece|piece]] of [[a/_any|any]] [[s/_solid|solid]] [[c/_commodity|commodity]].**
 	- _Example: bar of chocolate_
-- **A [[b/_broad|broad]] [[s/_shaft|shaft]], or [[b/_band|band]], or stripe.**
+- **A [[b/_broad|broad]] [[s/_shaft|shaft]], or [[b/_band|band]], or [[s/_stripe|stripe]].**
 	- _Example: a bar of colour_
 - **A [[l/_long|long]], [[n/_narrow|narrow]] [[d/_drawn|drawn]] or [[p/_printed|printed]] [[r/_rectangle|rectangle]], [[c/_cuboid|cuboid]] or [[c/_cylinder|cylinder]], [[e/_especially|especially]] as used in a [[b/_bar|bar]] [[c/_code|code]] or a [[b/_bar|bar]] [[c/_chart|chart]].**
 - **[[a/_any|Any]] of various [[l/_lines|lines]] used as [[p/_punctuation|punctuation]] or [[d/_diacritics|diacritics]], such as the [[p/_pipe|pipe]] ⟨|⟩, [[f/_fraction|fraction]] [[b/_bar|bar]] (as in 12), and strikethrough (as in Ⱥ), [[f/_formerly|formerly]] [[i/_including|including]] [[o/_oblique|oblique]] [[m/_marks|marks]] such as the [[s/_slash|slash]].**
@@ -30,19 +30,19 @@
 - **(whimsical, [[d/_derived|derived]] from fubar) A [[m/_metasyntactic|metasyntactic]] variable [[r/_representing|representing]] an unspecified [[e/_entity|entity]], [[o/_often|often]] the [[s/_second|second]] in a [[s/_series|series]], [[f/_following|following]] [[f/_foo|foo]].**
 	- _Example: Suppose we have two objects, foo and bar._
 - **([[p/_parliament|Parliament]]) A [[d/_dividing|dividing]] [[l/_line|line]] ([[p/_physical|physical]] or [[n/_notional|notional]]) in the [[c/_chamber|chamber]] of a [[l/_legislature|legislature]] [[b/_beyond|beyond]] which [[o/_only|only]] [[m/_members|members]] and [[o/_officials|officials]] [[m/_may|may]] [[p/_pass|pass]].**
-- **The [[r/_railing|railing]] surrounding the [[p/_part|part]] of a [[c/_courtroom|courtroom]] in which the [[j/_judges|judges]], [[l/_lawyers|lawyers]], [[d/_defendants|defendants]] and witnesses stay**
+- **The [[r/_railing|railing]] surrounding the [[p/_part|part]] of a [[c/_courtroom|courtroom]] in which the [[j/_judges|judges]], [[l/_lawyers|lawyers]], [[d/_defendants|defendants]] and witnesses [[s/_stay|stay]]**
 - **"the [[b/_bar|Bar]]" or "the [[b/_bar|bar]]" The [[b/_bar|bar]] [[e/_exam|exam]], the [[l/_legal|legal]] [[l/_licensing|licensing]] [[e/_exam|exam]].**
 	- _Example: He's studying hard to pass the Bar this time; he's failed it twice before._
-- **([[m/_metonym|metonym]], "the [[b/_bar|Bar]]", "the [[b/_bar|bar]]") [[c/_collectively|Collectively]], [[l/_lawyers|lawyers]] or the [[l/_legal|legal]] [[p/_profession|profession]]; specifically [[a/_applied|applied]] to [[b/_barristers|barristers]] in [[s/_some|some]] [[c/_countries|countries]] but [[i/_including|including]] [[a/_all|all]] [[l/_lawyers|lawyers]] in [[o/_others|others]].**
+- **([[m/_metonym|metonym]], "the [[b/_bar|Bar]]", "the [[b/_bar|bar]]") [[c/_collectively|Collectively]], [[l/_lawyers|lawyers]] or the [[l/_legal|legal]] [[p/_profession|profession]]; [[s/_specifically|specifically]] [[a/_applied|applied]] to [[b/_barristers|barristers]] in [[s/_some|some]] [[c/_countries|countries]] but [[i/_including|including]] [[a/_all|all]] [[l/_lawyers|lawyers]] in [[o/_others|others]].**
 	- _Example: He was called to the bar, he became a barrister._
-- **[[o/_one|One]] of an [[a/_array|array]] of [[b/_bar|bar]]-[[s/_shaped|shaped]] [[s/_symbols|symbols]] that [[d/_display|display]] the [[l/_level|level]] of [[s/_something|something]], such as wireless [[s/_signal|signal]] strength or [[b/_battery|battery]] [[l/_life|life]] [[r/_remaining|remaining]].**
+- **[[o/_one|One]] of an [[a/_array|array]] of [[b/_bar|bar]]-[[s/_shaped|shaped]] [[s/_symbols|symbols]] that [[d/_display|display]] the [[l/_level|level]] of [[s/_something|something]], such as wireless [[s/_signal|signal]] [[s/_strength|strength]] or [[b/_battery|battery]] [[l/_life|life]] [[r/_remaining|remaining]].**
 	- _Example: I don't have any bars in the middle of this desert._
-- **A vertical [[l/_line|line]] [[a/_across|across]] a [[m/_musical|musical]] staff [[d/_dividing|dividing]] written [[m/_music|music]] [[i/_into|into]] [[s/_sections|sections]], typically of [[e/_equal|equal]] [[d/_durational|durational]] value.**
+- **A vertical [[l/_line|line]] [[a/_across|across]] a [[m/_musical|musical]] [[s/_staff|staff]] [[d/_dividing|dividing]] written [[m/_music|music]] [[i/_into|into]] [[s/_sections|sections]], typically of [[e/_equal|equal]] [[d/_durational|durational]] value.**
 - **[[o/_one|One]] of those [[m/_musical|musical]] [[s/_sections|sections]].**
 - **A [[h/_horizontal|horizontal]] [[p/_pole|pole]] that [[m/_must|must]] be [[c/_crossed|crossed]] in [[h/_high|high]] [[j/_jump|jump]] and [[p/_pole|pole]] vault**
 - **[[a/_any|Any]] [[l/_level|level]] of [[a/_achievement|achievement]] [[r/_regarded|regarded]] as a [[c/_challenge|challenge]] to be [[o/_overcome|overcome]].**
 - **([[m/_most|most]] [[c/_codes|codes]]) The [[c/_crossbar|crossbar]].**
-- **The [[c/_central|central]] [[d/_divider|divider]] [[b/_between|between]] the [[i/_inner|inner]] and [[o/_outer|outer]] table of a [[b/_backgammon|backgammon]] [[b/_board|board]], where stones are [[p/_placed|placed]] [[i/_if|if]] they are [[h/_hit|hit]].**
+- **The [[c/_central|central]] [[d/_divider|divider]] [[b/_between|between]] the [[i/_inner|inner]] and [[o/_outer|outer]] table of a [[b/_backgammon|backgammon]] [[b/_board|board]], where [[s/_stones|stones]] are [[p/_placed|placed]] [[i/_if|if]] they are [[h/_hit|hit]].**
 - **An [[a/_addition|addition]] to a [[m/_military|military]] [[m/_medal|medal]], on [[a/_account|account]] of a subsequent [[a/_act|act]]**
 - **A [[l/_linear|linear]] [[s/_shoaling|shoaling]] [[l/_landform|landform]] [[f/_feature|feature]] within a [[b/_body|body]] of water.**
 - **A [[r/_ridge|ridge]] or succession of [[r/_ridges|ridges]] of [[s/_sand|sand]] or [[o/_other|other]] substance, [[e/_especially|especially]] a [[f/_formation|formation]] [[e/_extending|extending]] [[a/_across|across]] the [[m/_mouth|mouth]] of a [[r/_river|river]] or [[h/_harbor|harbor]] or [[o/_off|off]] a [[b/_beach|beach]], and which [[m/_may|may]] [[o/_obstruct|obstruct]] [[n/_navigation|navigation]]. ([[f/_fm|FM]] 55-501).**
@@ -64,7 +64,7 @@
 	- _Example: I couldn't get into the nightclub because I had been barred._
 - **To [[l/_lock|lock]] or [[b/_bolt|bolt]] with a [[b/_bar|bar]].**
 	- _Example: bar the door_
-- **To [[i/_imprint|imprint]] or [[p/_paint|paint]] with [[b/_bars|bars]], to stripe.**
+- **To [[i/_imprint|imprint]] or [[p/_paint|paint]] with [[b/_bars|bars]], to [[s/_stripe|stripe]].**
 ---
 ### Synonyms
 - [[b/_block|block]], [[h/_hinder|hinder]], [[o/_obstruct|obstruct]], [[b/_ban|ban]], [[i/_interdict|interdict]], [[p/_prohibit|prohibit]]

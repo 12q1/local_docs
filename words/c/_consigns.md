@@ -6,6 +6,6 @@
 - **To [[s/_send|send]] to a [[f/_final|final]] [[d/_destination|destination]].**
 	- _Example: to consign the body to the grave_
 - **To [[a/_assign|assign]]; to [[d/_devote|devote]]; to [[s/_set|set]] [[a/_apart|apart]].**
-- **To stamp or [[i/_impress|impress]]; to [[a/_affect|affect]].**
+- **To [[s/_stamp|stamp]] or [[i/_impress|impress]]; to [[a/_affect|affect]].**
 ---
 ---

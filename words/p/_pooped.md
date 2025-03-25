@@ -15,11 +15,11 @@
 #verb
 - **To [[b/_break|break]] [[s/_seawater|seawater]] with the [[p/_poop|poop]] of a vessel, [[e/_especially|especially]] the [[p/_poop|poop]] [[d/_deck|deck]].**
 	- _Example: We were pooped within hailing of the quay and were nearly sunk._
-- **To [[e/_embark|embark]] a [[s/_ship|ship]] [[o/_over|over]] the stern.**
+- **To [[e/_embark|embark]] a [[s/_ship|ship]] [[o/_over|over]] the [[s/_stern|stern]].**
 ---
 #adjective
 - **Tired; [[e/_exhausted|exhausted]].**
 - **[[f/_fitted|Fitted]] or [[f/_furnished|furnished]] with a [[p/_poop|poop]].**
-- **[[h/_having|Having]] [[h/_had|had]] a wave [[c/_come|come]] [[o/_over|over]] the stern from [[a/_abaft|abaft]].**
+- **[[h/_having|Having]] [[h/_had|had]] a wave [[c/_come|come]] [[o/_over|over]] the [[s/_stern|stern]] from [[a/_abaft|abaft]].**
 ---
 ---

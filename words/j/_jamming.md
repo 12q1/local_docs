@@ -1,9 +1,9 @@
 # Jamming
 ---
 #verb
-- **To [[g/_get|get]] [[s/_something|something]] stuck in a [[c/_confined|confined]] [[s/_space|space]].**
+- **To [[g/_get|get]] [[s/_something|something]] [[s/_stuck|stuck]] in a [[c/_confined|confined]] [[s/_space|space]].**
 	- _Example: Her poor little baby toe got jammed in the door._
-- **To [[b/_brusquely|brusquely]] [[f/_force|force]] [[s/_something|something]] [[i/_into|into]] a [[s/_space|space]]; [[c/_cram|cram]], squeeze.**
+- **To [[b/_brusquely|brusquely]] [[f/_force|force]] [[s/_something|something]] [[i/_into|into]] a [[s/_space|space]]; [[c/_cram|cram]], [[s/_squeeze|squeeze]].**
 	- _Example: The rush-hour train was jammed with commuters._
 - **To [[c/_cause|cause]] [[c/_congestion|congestion]] or [[b/_blockage|blockage]]. [[o/_often|Often]] used with "up"**
 	- _Example: A single accident can jam the roads for hours._
@@ -16,7 +16,7 @@
 - **To [[a/_attempt|attempt]] to [[s/_score|score]] [[p/_points|points]].**
 	- _Example: Toughie jammed four times in the second period._
 - **To [[b/_bring|bring]] (a vessel) [[s/_so|so]] [[c/_close|close]] to the wind that [[h/_half|half]] [[h/_her|her]] upper [[s/_sails|sails]] are [[l/_laid|laid]] [[a/_aback|aback]].**
-- **To [[g/_give|give]] up on a [[d/_date|date]] or [[s/_some|some]] [[j/_joint|joint]] [[e/_endeavour|endeavour]]; stand up, [[c/_chicken|chicken]] [[o/_out|out]], [[j/_jam|jam]] [[o/_out|out]].**
+- **To [[g/_give|give]] up on a [[d/_date|date]] or [[s/_some|some]] [[j/_joint|joint]] [[e/_endeavour|endeavour]]; [[s/_stand|stand]] up, [[c/_chicken|chicken]] [[o/_out|out]], [[j/_jam|jam]] [[o/_out|out]].**
 ---
 ### Synonyms
 - [[r/_ram|ram]]

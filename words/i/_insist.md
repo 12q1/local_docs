@@ -5,6 +5,6 @@
 	- _Example: I insist that my secretary dresses nicely._
 - **([[s/_sometimes|sometimes]] with on or upon or (that + subjunctive)) To [[d/_demand|demand]] [[c/_continually|continually]] that [[s/_something|something]] [[h/_happen|happen]] or be [[d/_done|done]].**
 	- _Example: I insist that my secretary dress nicely._
-- **To stand (on); to [[r/_rest|rest]] (upon); to [[l/_lean|lean]] (upon).**
+- **To [[s/_stand|stand]] (on); to [[r/_rest|rest]] (upon); to [[l/_lean|lean]] (upon).**
 ---
 ---

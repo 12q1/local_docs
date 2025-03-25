@@ -10,7 +10,7 @@
 ---
 #adjective
 - **[[h/_having|Having]] to [[d/_do|do]] with [[d/_digits|digits]] ([[f/_fingers|fingers]] or toes); [[p/_performed|performed]] with a [[f/_finger|finger]].**
-- **[[p/_property|Property]] of [[r/_representing|representing]] values as [[d/_discrete|discrete]], usually [[b/_binary|binary]], [[n/_numbers|numbers]] [[r/_rather|rather]] than a [[c/_continuous|continuous]] spectrum.**
+- **[[p/_property|Property]] of [[r/_representing|representing]] values as [[d/_discrete|discrete]], usually [[b/_binary|binary]], [[n/_numbers|numbers]] [[r/_rather|rather]] than a [[c/_continuous|continuous]] [[s/_spectrum|spectrum]].**
 	- _Example: digital computer;  digital clock_
 - **Of or [[r/_relating|relating]] to [[c/_computers|computers]] or the [[i/_information|Information]] [[a/_age|Age]].**
 	- _Example: Digital payment systems are replacing cash transactions._

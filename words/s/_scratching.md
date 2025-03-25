@@ -7,7 +7,7 @@
 	- _Example: I don't like that new scarf because it scratches my neck._
 - **To [[m/_mark|mark]] a surface with a [[s/_sharp|sharp]] [[o/_object|object]], thereby [[l/_leaving|leaving]] a [[s/_scratch|scratch]] ([[n/_noun|noun]]).**
 	- _Example: A real diamond can easily scratch a pane of glass._
-- **To [[c/_cross|cross]] [[o/_out|out]], strike [[o/_out|out]], strike through [[s/_some|some]] text on a [[p/_page|page]].**
+- **To [[c/_cross|cross]] [[o/_out|out]], [[s/_strike|strike]] [[o/_out|out]], [[s/_strike|strike]] through [[s/_some|some]] text on a [[p/_page|page]].**
 - **To [[p/_produce|produce]] a [[d/_distinctive|distinctive]] [[s/_sound|sound]] on a turntable by [[m/_moving|moving]] a vinyl [[r/_record|record]] [[b/_back|back]] and [[f/_forth|forth]] while [[m/_manipulating|manipulating]] the crossfader ([[s/_see|see]] [[a/_also|also]] [[s/_scratching|scratching]]).**
 - **To [[c/_commit|commit]] a [[f/_foul|foul]] in [[p/_pool|pool]], as where the [[c/_cue|cue]] [[b/_ball|ball]] is [[p/_put|put]] [[i/_into|into]] a [[p/_pocket|pocket]] or [[j/_jumps|jumps]] [[o/_off|off]] the table.**
 	- _Example: Embarrassingly, he scratched on the break, popping the cue completely off the table._
@@ -24,6 +24,6 @@
 - **The [[a/_act|act]] or [[s/_sound|sound]] of [[s/_something|something]] [[b/_being|being]] [[s/_scratched|scratched]].**
 	- _Example: We heard further scratchings at the door as the dog whined to be let in._
 - **A [[p/_pork|pork]] [[s/_scratching|scratching]].**
-- **[[r/_record|Record]] [[s/_scratching|scratching]], a technique of starting and stopping a vinyl [[r/_record|record]] from [[p/_playing|playing]] to [[p/_produce|produce]] [[m/_music|music]] in [[h/_hip|hip]] [[h/_hop|hop]].**
+- **[[r/_record|Record]] [[s/_scratching|scratching]], a technique of [[s/_starting|starting]] and [[s/_stopping|stopping]] a vinyl [[r/_record|record]] from [[p/_playing|playing]] to [[p/_produce|produce]] [[m/_music|music]] in [[h/_hip|hip]] [[h/_hop|hop]].**
 ---
 ---

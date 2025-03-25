@@ -1,7 +1,7 @@
 # Distressing
 ---
 #verb
-- **To [[c/_cause|cause]] strain or [[a/_anxiety|anxiety]] to [[s/_someone|someone]].**
+- **To [[c/_cause|cause]] [[s/_strain|strain]] or [[a/_anxiety|anxiety]] to [[s/_someone|someone]].**
 - **To [[r/_retain|retain]] [[s/_someone|someone]]’[[s/_s|s]] [[p/_property|property]] [[a/_against|against]] the [[p/_payment|payment]] of a [[d/_debt|debt]]; to [[d/_distrain|distrain]].**
 - **To treat a [[n/_new|new]] [[o/_object|object]] to [[g/_give|give]] it an [[a/_appearance|appearance]] of [[a/_age|age]].**
 	- _Example: She distressed the new media cabinet so that it fit with the other furniture in the room._

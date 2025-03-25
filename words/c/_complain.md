@@ -5,7 +5,7 @@
 	- _Example: Joe was always complaining about the noise made by his neighbours._
 - **To [[m/_make|make]] a [[f/_formal|formal]] [[a/_accusation|accusation]] or [[b/_bring|bring]] a [[f/_formal|formal]] [[c/_charge|charge]].**
 	- _Example: They've complained about me to the police again._
-- **To [[c/_creak|creak]] or squeak, as a timber or wheel.**
+- **To [[c/_creak|creak]] or [[s/_squeak|squeak]], as a timber or wheel.**
 	- _Example: the complaining bed-springs_
 ---
 ### Synonyms

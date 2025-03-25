@@ -4,7 +4,7 @@
 - **An [[a/_act|act]] of throwing.**
 - **A [[p/_place|place]] for throwing.**
 	- _Example: coconut shy_
-- **A sudden start [[a/_aside|aside]], as by a [[h/_horse|horse]].**
+- **A sudden [[s/_start|start]] [[a/_aside|aside]], as by a [[h/_horse|horse]].**
 - **In the [[e/_eton|Eton]] [[c/_college|College]] wall [[g/_game|game]], a [[p/_point|point]] [[s/_scored|scored]] by [[l/_lifting|lifting]] the [[b/_ball|ball]] [[a/_against|against]] the wall in the [[c/_calx|calx]].**
 ---
 #verb

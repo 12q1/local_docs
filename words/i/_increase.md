@@ -4,7 +4,7 @@
 - **An [[a/_amount|amount]] by which a [[q/_quantity|quantity]] is [[i/_increased|increased]].**
 - **For a [[q/_quantity|quantity]], the [[a/_act|act]] or [[p/_process|process]] of [[b/_becoming|becoming]] [[l/_larger|larger]]**
 - **[[o/_offspring|Offspring]], [[p/_progeny|progeny]]**
-- **The [[c/_creation|creation]] of [[o/_one|one]] or [[m/_more|more]] [[n/_new|new]] stitches; [[s/_see|see]] [[i/_increase|Increase]] ([[k/_knitting|knitting]]).**
+- **The [[c/_creation|creation]] of [[o/_one|one]] or [[m/_more|more]] [[n/_new|new]] [[s/_stitches|stitches]]; [[s/_see|see]] [[i/_increase|Increase]] ([[k/_knitting|knitting]]).**
 ---
 ### Synonyms
 - [[e/_enlargement|enlargement]], [[e/_expansion|expansion]], [[g/_gain|gain]], [[i/_increment|increment]], [[r/_raise|raise]], [[r/_rise|rise]]

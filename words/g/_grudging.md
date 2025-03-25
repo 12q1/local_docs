@@ -7,7 +7,7 @@
 - **To [[f/_feel|feel]] [[c/_compunction|compunction]] or [[g/_grief|grief]].**
 ---
 #noun
-- **The state of [[b/_bearing|bearing]] a [[g/_grudge|grudge]].**
+- **The [[s/_state|state]] of [[b/_bearing|bearing]] a [[g/_grudge|grudge]].**
 ---
 #adjective
 - **Unwilling or with [[r/_reluctance|reluctance]].**

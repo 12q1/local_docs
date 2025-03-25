@@ -1,7 +1,7 @@
 # Rabi
 ---
 #noun
-- **Spring.**
-- **The spring [[h/_harvest|harvest]].**
+- **[[s/_spring|Spring]].**
+- **The [[s/_spring|spring]] [[h/_harvest|harvest]].**
 ---
 ---

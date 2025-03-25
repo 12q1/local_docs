@@ -1,9 +1,9 @@
 # Plashes
 ---
 #verb
-- **To splash.**
-- **To [[c/_cause|cause]] a splash.**
-- **To splash or sprinkle with [[c/_colouring|colouring]] [[m/_matter|matter]].**
+- **To [[s/_splash|splash]].**
+- **To [[c/_cause|cause]] a [[s/_splash|splash]].**
+- **To [[s/_splash|splash]] or [[s/_sprinkle|sprinkle]] with [[c/_colouring|colouring]] [[m/_matter|matter]].**
 	- _Example: to plash a wall in imitation of granite_
 ---
 #verb

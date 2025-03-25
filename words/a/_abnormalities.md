@@ -1,7 +1,7 @@
 # Abnormalities
 ---
 #noun
-- **The state or [[q/_quality|quality]] of [[b/_being|being]] [[a/_abnormal|abnormal]]; variation; [[i/_irregularity|irregularity]].**
+- **The [[s/_state|state]] or [[q/_quality|quality]] of [[b/_being|being]] [[a/_abnormal|abnormal]]; variation; [[i/_irregularity|irregularity]].**
 - **[[s/_something|Something]] [[a/_abnormal|abnormal]]; an [[a/_aberration|aberration]]; an [[a/_abnormal|abnormal]] [[o/_occurrence|occurrence]] or [[f/_feature|feature]].**
 ---
 ### Synonyms

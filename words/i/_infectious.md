@@ -5,7 +5,7 @@
 	- _Example: Cancer is not infectious._
 - **(of a [[p/_person|person]]) [[a/_able|Able]] to [[i/_infect|infect]] [[o/_others|others]].**
 	- _Example: Despite feeling better, the patient is still infectious._
-- **(of [[f/_feelings|feelings]] and [[b/_behaviour|behaviour]]) Spreading [[q/_quickly|quickly]] from [[o/_one|one]] [[p/_person|person]] to [[a/_another|another]].**
+- **(of [[f/_feelings|feelings]] and [[b/_behaviour|behaviour]]) [[s/_spreading|Spreading]] [[q/_quickly|quickly]] from [[o/_one|one]] [[p/_person|person]] to [[a/_another|another]].**
 	- _Example: Her enthusiasm for work can be really infectious._
 - **[[m/_memorable|Memorable]] and [[i/_invoking|invoking]] [[e/_excitement|excitement]] or [[i/_interest|interest]].**
 	- _Example: Pop music is more infectious than elevator music._

@@ -1,7 +1,7 @@
 # Horizontal
 ---
 #noun
-- **A [[h/_horizontal|horizontal]] [[c/_component|component]] of a structure**
+- **A [[h/_horizontal|horizontal]] [[c/_component|component]] of a [[s/_structure|structure]]**
 - **[[h/_horizon|Horizon]]**
 - **A Tasmanian [[s/_shrub|shrub]] or [[s/_small|small]] tree whose [[m/_main|main]] trunk tends to [[l/_lean|lean]] [[o/_over|over]] and [[g/_grow|grow]] [[h/_horizontally|horizontally]], Anodopetalum biglandulosum**
 ---

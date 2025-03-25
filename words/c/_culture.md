@@ -11,7 +11,7 @@
 	- _Example: I'm headed to the lab to make sure my cell culture hasn't died._
 - **A [[g/_group|group]] of [[b/_bacteria|bacteria]].**
 - **The [[d/_details|details]] on a [[m/_map|map]] that [[d/_do|do]] not [[r/_represent|represent]] [[n/_natural|natural]] [[f/_features|features]] of the [[a/_area|area]] [[d/_delineated|delineated]], such as [[n/_names|names]] and the [[s/_symbols|symbols]] for towns, [[r/_roads|roads]], [[m/_meridians|meridians]], and [[p/_parallels|parallels]].**
-- **A [[r/_recurring|recurring]] [[a/_assemblage|assemblage]] of [[a/_artifacts|artifacts]] from a specific time and [[p/_place|place]] that [[m/_may|may]] [[c/_constitute|constitute]] the [[m/_material|material]] [[c/_culture|culture]] [[r/_remains|remains]] of a [[p/_particular|particular]] [[p/_past|past]] [[h/_human|human]] [[s/_society|society]].**
+- **A [[r/_recurring|recurring]] [[a/_assemblage|assemblage]] of [[a/_artifacts|artifacts]] from a [[s/_specific|specific]] time and [[p/_place|place]] that [[m/_may|may]] [[c/_constitute|constitute]] the [[m/_material|material]] [[c/_culture|culture]] [[r/_remains|remains]] of a [[p/_particular|particular]] [[p/_past|past]] [[h/_human|human]] [[s/_society|society]].**
 ---
 #verb
 - **To [[m/_maintain|maintain]] in an [[e/_environment|environment]] suitable for [[g/_growth|growth]] ([[e/_especially|especially]] of [[b/_bacteria|bacteria]]) ([[c/_compare|compare]] [[c/_cultivate|cultivate]])**

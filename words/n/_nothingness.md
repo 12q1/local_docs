@@ -1,7 +1,7 @@
 # Nothingness
 ---
 #noun
-- **State of [[n/_nonexistence|nonexistence]]; the [[c/_condition|condition]] of [[b/_being|being]] [[n/_nothing|nothing]].**
+- **[[s/_state|State]] of [[n/_nonexistence|nonexistence]]; the [[c/_condition|condition]] of [[b/_being|being]] [[n/_nothing|nothing]].**
 - **Void; [[e/_emptiness|emptiness]].**
 - **[[q/_quality|Quality]] of [[i/_inconsequentiality|inconsequentiality]]; [[l/_lacking|lacking]] in [[s/_significance|significance]].**
 ---

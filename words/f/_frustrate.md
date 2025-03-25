@@ -5,7 +5,7 @@
 	- _Example: It frustrates me to do all this work and then lose it all._
 - **To [[h/_hinder|hinder]] or thwart.**
 	- _Example: My clumsy fingers frustrate my typing efforts._
-- **To [[c/_cause|cause]] stress or [[a/_annoyance|annoyance]].**
+- **To [[c/_cause|cause]] [[s/_stress|stress]] or [[a/_annoyance|annoyance]].**
 	- _Example: This test frustrates me because if I fail, it'll destroy my grade._
 ---
 #adjective

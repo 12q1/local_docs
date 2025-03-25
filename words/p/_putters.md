@@ -9,7 +9,7 @@
 - **[[o/_one|One]] who [[p/_pushes|pushes]] the [[s/_small|small]] wagons in a [[c/_coal|coal]] [[m/_mine|mine]].**
 ---
 #noun
-- **A [[g/_golf|golf]] [[c/_club|club]] specifically [[i/_intended|intended]] for a [[p/_putt|putt]].**
+- **A [[g/_golf|golf]] [[c/_club|club]] [[s/_specifically|specifically]] [[i/_intended|intended]] for a [[p/_putt|putt]].**
 - **A [[p/_person|person]] who is taking a [[p/_putt|putt]] or [[p/_putting|putting]].**
 ---
 #verb

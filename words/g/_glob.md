@@ -7,7 +7,7 @@
 - **A [[m/_millimeter|millimeter]]-[[s/_sized|sized]] [[c/_colour|colour]] [[m/_module|module]] [[f/_found|found]] [[b/_beyond|beyond]] the visual [[a/_area|area]] V2 in the [[b/_brain|brain]]'[[s/_s|s]] parvocellular [[p/_pathway|pathway]].**
 ---
 #verb
-- **To stick in [[g/_globs|globs]] or [[l/_lumps|lumps]].**
+- **To [[s/_stick|stick]] in [[g/_globs|globs]] or [[l/_lumps|lumps]].**
 - **To [[c/_carry|carry]] [[o/_out|out]] [[p/_pattern|pattern]] [[m/_matching|matching]] using a [[g/_glob|glob]].**
 ---
 ---

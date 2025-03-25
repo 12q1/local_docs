@@ -1,7 +1,7 @@
 # Flange
 ---
 #noun
-- **An [[e/_external|external]] or [[i/_internal|internal]] [[r/_rib|rib]] or [[r/_rim|rim]], used [[e/_either|either]] to [[a/_add|add]] strength or to [[h/_hold|hold]] [[s/_something|something]] in [[p/_place|place]].**
+- **An [[e/_external|external]] or [[i/_internal|internal]] [[r/_rib|rib]] or [[r/_rim|rim]], used [[e/_either|either]] to [[a/_add|add]] [[s/_strength|strength]] or to [[h/_hold|hold]] [[s/_something|something]] in [[p/_place|place]].**
 - **The [[p/_projecting|projecting]] [[e/_edge|edge]] of a [[r/_rigid|rigid]] or [[s/_semi|semi]]-[[r/_rigid|rigid]] [[c/_component|component]].**
 - **An [[a/_ability|ability]] in a [[r/_role|role]]-[[p/_playing|playing]] [[g/_game|game]] which is not [[c/_commonly|commonly]] [[a/_available|available]], [[o/_overpowered|overpowered]] or [[a/_arbitrarily|arbitrarily]] [[i/_imposed|imposed]] by the [[r/_referees|referees]].**
 	- _Example: 1998: Mr MI Pennington, Can the Players be Trusted? on rec.games.frp.live-action http//groups.google.co.uk/group/rec.games.frp.live-action/browse_thread/thread/13742e3a1c45df34/f9662af9a11a42d3?lnk=st&q=flange+roleplay&rnum=1#f9662af9a11a42d3 [The] enduring problem with the Gathering is that [players] can't affect anything that happens ... whatever they do, the LT just flange it back to the original plot line._

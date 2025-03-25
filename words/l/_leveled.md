@@ -7,7 +7,7 @@
 	- _Example: The hurricane leveled the forest._
 - **To [[p/_progress|progress]] to the [[n/_next|next]] [[l/_level|level]].**
 	- _Example: I levelled after defeating the dragon._
-- **To [[a/_aim|aim]] or [[d/_direct|direct]] (a weapon, a stare, an [[a/_accusation|accusation]], [[e/_etc|etc]]).**
+- **To [[a/_aim|aim]] or [[d/_direct|direct]] (a weapon, a [[s/_stare|stare]], an [[a/_accusation|accusation]], [[e/_etc|etc]]).**
 	- _Example: He levelled an accusation of fraud at the directors.  The hunter levels the gun before taking a shot._
 - **To [[d/_direct|direct]] or [[i/_impose|impose]] (a [[p/_penalty|penalty]], [[f/_fine|fine]], [[e/_etc|etc]]) at or upon ([[s/_someone|someone]]).**
 - **To [[m/_make|make]] the [[s/_score|score]] of a [[g/_game|game]] [[e/_equal|equal]].**

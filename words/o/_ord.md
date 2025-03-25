@@ -3,7 +3,7 @@
 #noun
 - **[[a/_arrangement|Arrangement]], [[d/_disposition|disposition]], or [[s/_sequence|sequence]].**
 - **A [[p/_position|position]] in an [[a/_arrangement|arrangement]], [[d/_disposition|disposition]], or [[s/_sequence|sequence]].**
-- **The state of [[b/_being|being]] well [[a/_arranged|arranged]].**
+- **The [[s/_state|state]] of [[b/_being|being]] well [[a/_arranged|arranged]].**
 	- _Example: The house is in order; the machinery is out of order._
 - **[[c/_conformity|Conformity]] with [[l/_law|law]] or [[d/_decorum|decorum]]; [[f/_freedom|freedom]] from [[d/_disturbance|disturbance]]; [[g/_general|general]] tranquillity; [[p/_public|public]] [[q/_quiet|quiet]].**
 	- _Example: to preserve order in a community or an assembly_
@@ -21,12 +21,12 @@
 	- _Example: talent of a high order_
 - **([[c/_chiefly|chiefly]] [[p/_plural|plural]]) An [[e/_ecclesiastical|ecclesiastical]] [[g/_grade|grade]] or [[r/_rank|rank]], as of [[d/_deacon|deacon]], [[p/_priest|priest]], or [[b/_bishop|bishop]]; the [[o/_office|office]] of the [[c/_christian|Christian]] [[m/_ministry|ministry]].**
 	- _Example: to take orders, or to take holy orders, that is, to enter some grade of the ministry_
-- **The [[d/_disposition|disposition]] of a [[c/_column|column]] and [[i/_its|its]] [[c/_component|component]] [[p/_parts|parts]], and of the [[e/_entablature|entablature]] [[r/_resting|resting]] upon it, in [[c/_classical|classical]] [[a/_architecture|architecture]]; [[h/_hence|hence]] ([[s/_since|since]] the [[c/_column|column]] and [[e/_entablature|entablature]] are the [[c/_characteristic|characteristic]] [[f/_features|features]] of [[c/_classical|classical]] [[a/_architecture|architecture]]) a style or [[m/_manner|manner]] of [[a/_architectural|architectural]] [[d/_design|design]].**
+- **The [[d/_disposition|disposition]] of a [[c/_column|column]] and [[i/_its|its]] [[c/_component|component]] [[p/_parts|parts]], and of the [[e/_entablature|entablature]] [[r/_resting|resting]] upon it, in [[c/_classical|classical]] [[a/_architecture|architecture]]; [[h/_hence|hence]] ([[s/_since|since]] the [[c/_column|column]] and [[e/_entablature|entablature]] are the [[c/_characteristic|characteristic]] [[f/_features|features]] of [[c/_classical|classical]] [[a/_architecture|architecture]]) a [[s/_style|style]] or [[m/_manner|manner]] of [[a/_architectural|architectural]] [[d/_design|design]].**
 - **The [[s/_sequence|sequence]] in which a [[s/_side|side]]’[[s/_s|s]] [[b/_batsmen|batsmen]] [[b/_bat|bat]]; the [[b/_batting|batting]] [[o/_order|order]].**
 - **A [[p/_power|power]] of [[p/_polynomial|polynomial]] [[f/_function|function]] in an [[e/_electronic|electronic]] [[c/_circuit|circuit]]’[[s/_s|s]] [[b/_block|block]], such as a [[f/_filter|filter]], an [[a/_amplifier|amplifier]], [[e/_etc|etc]].**
 	- _Example: a 3-stage cascade of a 2nd-order bandpass Butterworth filter_
 - **The [[o/_overall|overall]] [[p/_power|power]] of the [[r/_rate|rate]] [[l/_law|law]] of a [[c/_chemical|chemical]] [[r/_reaction|reaction]], [[e/_expressed|expressed]] as a [[p/_polynomial|polynomial]] [[f/_function|function]] of [[c/_concentrations|concentrations]] of [[r/_reactants|reactants]] and [[p/_products|products]].**
-- **The [[c/_cardinality|cardinality]], or [[n/_number|number]] of [[e/_elements|elements]] in a [[s/_set|set]], [[g/_group|group]], or [[o/_other|other]] structure [[r/_regardable|regardable]] as a [[s/_set|set]].**
+- **The [[c/_cardinality|cardinality]], or [[n/_number|number]] of [[e/_elements|elements]] in a [[s/_set|set]], [[g/_group|group]], or [[o/_other|other]] [[s/_structure|structure]] [[r/_regardable|regardable]] as a [[s/_set|set]].**
 - **(of an [[e/_element|element]] of a [[g/_group|group]]) For [[g/_given|given]] [[g/_group|group]] [[g/_g|G]] and [[e/_element|element]] [[g/_g|g]] ∈ [[g/_g|G]], the [[s/_smallest|smallest]] [[p/_positive|positive]] [[n/_natural|natural]] [[n/_number|number]] [[n/_n|n]], [[i/_if|if]] it [[e/_exists|exists]], such that (using [[m/_multiplicative|multiplicative]] [[n/_notation|notation]]), [[g/_gn|gn]] = [[e/_e|e]], where [[e/_e|e]] is the [[i/_identity|identity]] [[e/_element|element]] of [[g/_g|G]]; [[i/_if|if]] [[n/_no|no]] such [[n/_number|number]] [[e/_exists|exists]], the [[e/_element|element]] is [[s/_said|said]] to be of [[i/_infinite|infinite]] [[o/_order|order]] (or [[s/_sometimes|sometimes]] zero [[o/_order|order]]).**
 - **The [[n/_number|number]] of vertices in a [[g/_graph|graph]].**
 - **A [[p/_partially|partially]] [[o/_ordered|ordered]] [[s/_set|set]].**

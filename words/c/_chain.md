@@ -5,7 +5,7 @@
 	- _Example: He wore a gold chain around the neck._
 - **A [[s/_series|series]] of [[i/_interconnected|interconnected]] things.**
 	- _Example: This led to an unfortunate chain of events._
-- **A [[s/_series|series]] of stores or [[b/_businesses|businesses]] with the [[s/_same|same]] [[b/_brand|brand]] [[n/_name|name]].**
+- **A [[s/_series|series]] of [[s/_stores|stores]] or [[b/_businesses|businesses]] with the [[s/_same|same]] [[b/_brand|brand]] [[n/_name|name]].**
 	- _Example: That chain of restaurants is expanding into our town._
 - **A [[n/_number|number]] of [[a/_atoms|atoms]] in a [[s/_series|series]], which [[c/_combine|combine]] to [[f/_form|form]] a [[m/_molecule|molecule]].**
 	- _Example: When examined, the molecular chain included oxygen and hydrogen._

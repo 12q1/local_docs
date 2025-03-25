@@ -5,7 +5,7 @@
 	- _Example: I blanked out my previous entry._
 - **To [[i/_ignore|ignore]] (a [[p/_person|person]]) [[d/_deliberately|deliberately]].**
 	- _Example: She blanked me for no reason._
-- **To [[p/_prevent|prevent]] from [[s/_scoring|scoring]], for [[e/_example|example]] in a sporting [[e/_event|event]].**
+- **To [[p/_prevent|prevent]] from [[s/_scoring|scoring]], for [[e/_example|example]] in a [[s/_sporting|sporting]] [[e/_event|event]].**
 	- _Example: England blanks Wales to advance to the final._
 - **To [[b/_become|become]] [[b/_blank|blank]].**
 - **To be temporarily unable to [[r/_remember|remember]].**

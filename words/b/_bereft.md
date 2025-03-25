@@ -1,8 +1,8 @@
 # Bereft
 ---
 #verb
-- **To [[d/_deprive|deprive]] by or as [[i/_if|if]] by violence; to [[r/_rob|rob]]; to strip; to [[b/_benim|benim]].**
-- **To take [[a/_away|away]] by [[d/_destroying|destroying]], [[i/_impairing|impairing]], or spoiling; take [[a/_away|away]] by violence.**
+- **To [[d/_deprive|deprive]] by or as [[i/_if|if]] by violence; to [[r/_rob|rob]]; to [[s/_strip|strip]]; to [[b/_benim|benim]].**
+- **To take [[a/_away|away]] by [[d/_destroying|destroying]], [[i/_impairing|impairing]], or [[s/_spoiling|spoiling]]; take [[a/_away|away]] by violence.**
 - **To [[d/_deprive|deprive]] of [[p/_power|power]]; [[p/_prevent|prevent]].**
 - **To take [[a/_away|away]] [[s/_someone|someone]] or [[s/_something|something]] that is [[i/_important|important]] or [[c/_close|close]]; [[d/_deprive|deprive]].**
 	- _Example: Death bereaved him of his wife._
@@ -10,6 +10,6 @@
 ---
 #adjective
 - **(of a [[p/_person|person]]) [[p/_pained|Pained]] by the [[l/_loss|loss]] of [[s/_someone|someone]].**
-- **[[d/_deprived|Deprived]] of, [[l/_lacking|lacking]], stripped of, [[r/_robbed|robbed]] of.**
+- **[[d/_deprived|Deprived]] of, [[l/_lacking|lacking]], [[s/_stripped|stripped]] of, [[r/_robbed|robbed]] of.**
 ---
 ---

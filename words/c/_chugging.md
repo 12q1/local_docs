@@ -8,7 +8,7 @@
 	- _Example: Chug! Chug! Chug!_
 ---
 #verb
-- **To [[s/_solicit|solicit]] [[c/_charitable|charitable]] [[d/_donations|donations]] on the street, [[p/_particularly|particularly]] in a [[p/_persistent|persistent]] [[m/_manner|manner]].**
+- **To [[s/_solicit|solicit]] [[c/_charitable|charitable]] [[d/_donations|donations]] on the [[s/_street|street]], [[p/_particularly|particularly]] in a [[p/_persistent|persistent]] [[m/_manner|manner]].**
 	- _Example: I got chugged in the town centre today._
 ---
 #noun

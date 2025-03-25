@@ -8,6 +8,6 @@
 ### Synonyms
 - [[a/_avocation|avocation]], [[p/_pastime|pastime]]
 #noun
-- **[[a/_any|Any]] of [[f/_four|four]] species of [[s/_small|small]] [[f/_falcons|falcons]] in the [[g/_genus|genus]] [[f/_falco|Falco]], [[e/_especially|especially]] [[f/_falco|Falco]] subbuteo.**
+- **[[a/_any|Any]] of [[f/_four|four]] [[s/_species|species]] of [[s/_small|small]] [[f/_falcons|falcons]] in the [[g/_genus|genus]] [[f/_falco|Falco]], [[e/_especially|especially]] [[f/_falco|Falco]] subbuteo.**
 ---
 ---

@@ -5,7 +5,7 @@
 ---
 #verb
 - **To [[p/_peck|peck]]**
-- **To stroke [[b/_bill|bill]] [[a/_against|against]] [[b/_bill|bill]], with [[r/_reference|reference]] to [[d/_doves|doves]]; to [[c/_caress|caress]] in [[f/_fondness|fondness]]**
+- **To [[s/_stroke|stroke]] [[b/_bill|bill]] [[a/_against|against]] [[b/_bill|bill]], with [[r/_reference|reference]] to [[d/_doves|doves]]; to [[c/_caress|caress]] in [[f/_fondness|fondness]]**
 ---
 #verb
 - **To [[a/_advertise|advertise]] by a [[b/_bill|bill]] or [[p/_public|public]] [[n/_notice|notice]].**

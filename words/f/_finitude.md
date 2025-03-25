@@ -1,7 +1,7 @@
 # Finitude
 ---
 #noun
-- **The state or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[f/_finite|finite]]; [[l/_limitedness|limitedness]].**
+- **The [[s/_state|state]] or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[f/_finite|finite]]; [[l/_limitedness|limitedness]].**
 ---
 ### Synonyms
 - [[f/_finiteness|finiteness]], [[f/_finity|finity]], [[l/_limitedness|limitedness]]

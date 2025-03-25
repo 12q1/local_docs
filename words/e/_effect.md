@@ -5,7 +5,7 @@
 	- _Example: The effect of the hurricane was a devastated landscape._
 - **[[i/_impression|Impression]] [[l/_left|left]] on the [[m/_mind|mind]]; [[s/_sensation|sensation]] [[p/_produced|produced]].**
 - **[[e/_execution|Execution]]; [[p/_performance|performance]]; [[r/_realization|realization]]; [[o/_operation|operation]].**
-- **An [[i/_illusion|illusion]] [[p/_produced|produced]] by technical [[m/_means|means]] (as in "special [[e/_effect|effect]]")**
+- **An [[i/_illusion|illusion]] [[p/_produced|produced]] by technical [[m/_means|means]] (as in "[[s/_special|special]] [[e/_effect|effect]]")**
 	- _Example: The effect of flying was most convincing._
 - **([[s/_sound|sound]] [[e/_engineering|engineering]]) An [[a/_alteration|alteration]], or [[d/_device|device]] for [[p/_producing|producing]] an [[a/_alteration|alteration]], in [[s/_sound|sound]] [[a/_after|after]] it [[h/_has|has]] [[b/_been|been]] [[p/_produced|produced]] by an [[i/_instrument|instrument]].**
 	- _Example: I just bought a couple of great effects._

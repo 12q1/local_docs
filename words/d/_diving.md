@@ -5,7 +5,7 @@
 - **To [[j/_jump|jump]] [[i/_into|into]] water [[h/_head|head]]-[[f/_first|first]].**
 - **To [[j/_jump|jump]] [[h/_headfirst|headfirst]] toward the [[g/_ground|ground]] or [[i/_into|into]] [[a/_another|another]] substance.**
 	- _Example: to dive into home plate_
-- **To [[d/_descend|descend]] [[s/_sharply|sharply]] or steeply.**
+- **To [[d/_descend|descend]] [[s/_sharply|sharply]] or [[s/_steeply|steeply]].**
 - **([[e/_especially|especially]] with in) To undertake with [[e/_enthusiasm|enthusiasm]].**
 	- _Example: She dove right in and started making improvements._
 - **To [[d/_deliberately|deliberately]] [[f/_fall|fall]] [[d/_down|down]] [[a/_after|after]] a [[c/_challenge|challenge]], [[i/_imitating|imitating]] [[b/_being|being]] [[f/_fouled|fouled]], in the [[h/_hope|hope]] of [[g/_getting|getting]] [[o/_one|one]]'[[s/_s|s]] [[o/_opponent|opponent]] [[p/_penalised|penalised]].**
@@ -15,7 +15,7 @@
 ---
 #noun
 - **The [[a/_action|action]] of the verb to [[d/_dive|dive]] in [[a/_any|any]] [[s/_sense|sense]].**
-- **The sport of [[j/_jumping|jumping]] [[i/_into|into]] water, [[o/_often|often]] [[a/_acrobatically|acrobatically]].**
+- **The [[s/_sport|sport]] of [[j/_jumping|jumping]] [[i/_into|into]] water, [[o/_often|often]] [[a/_acrobatically|acrobatically]].**
 - **[[d/_descending|Descending]] [[b/_below|below]] the surface of the water to [[i/_interact|interact]] with the [[e/_environment|environment]].**
 - **The [[a/_act|act]] of [[p/_pretending|pretending]] to be tripped or [[b/_brought|brought]] to the [[g/_ground|ground]] by an [[o/_opposition|opposition]] [[p/_player|player]] in [[o/_order|order]] to [[s/_secure|secure]] a undeserved [[p/_penalty|penalty]].**
 ---

@@ -1,7 +1,7 @@
 # Mountaineering
 ---
 #noun
-- **The sport of [[c/_climbing|climbing]] [[m/_mountains|mountains]].**
+- **The [[s/_sport|sport]] of [[c/_climbing|climbing]] [[m/_mountains|mountains]].**
 ---
 ### Synonyms
 - [[a/_alpinism|alpinism]]

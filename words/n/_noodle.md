@@ -1,7 +1,7 @@
 # Noodle
 ---
 #noun
-- **(usually in the [[p/_plural|plural]]) a string or strip of [[p/_pasta|pasta]]**
+- **(usually in the [[p/_plural|plural]]) a [[s/_string|string]] or [[s/_strip|strip]] of [[p/_pasta|pasta]]**
 	- _Example: She slurped a long noodle up out of her soup._
 - **A [[p/_person|person]] with [[p/_poor|poor]] [[j/_judgement|judgement]]; a [[f/_fool|fool]]**
 - **The [[b/_brain|brain]], the [[h/_head|head]]**

@@ -11,8 +11,8 @@
 - **To [[c/_cause|cause]] (a [[p/_property|property]] or [[r/_rights|rights]]) to [[r/_return|return]] to the [[p/_previous|previous]] [[o/_owner|owner]].**
 	- _Example: Sometimes a publisher will automatically revert rights back to an author once a book has gone out of print._
 - **To [[r/_return|return]] to a [[f/_former|former]] [[p/_practice|practice]], [[c/_condition|condition]], [[b/_belief|belief]], [[e/_etc|etc]].**
-- **To [[r/_return|return]] to an [[e/_earlier|earlier]] or [[p/_primitive|primitive]] type or state; to take on the traits or [[c/_characters|characters]] of an [[a/_ancestral|ancestral]] type.**
-- **To [[c/_change|change]] [[b/_back|back]], as from a [[s/_soluble|soluble]] to an [[i/_insoluble|insoluble]] state or the [[r/_reverse|reverse]].**
+- **To [[r/_return|return]] to an [[e/_earlier|earlier]] or [[p/_primitive|primitive]] type or [[s/_state|state]]; to take on the traits or [[c/_characters|characters]] of an [[a/_ancestral|ancestral]] type.**
+- **To [[c/_change|change]] [[b/_back|back]], as from a [[s/_soluble|soluble]] to an [[i/_insoluble|insoluble]] [[s/_state|state]] or the [[r/_reverse|reverse]].**
 	- _Example: Phosphoric acid in certain fertilizers reverts._
 - **To take up [[a/_again|again]] or [[r/_return|return]] to a [[p/_previous|previous]] topic.**
 - **(in [[m/_muslim|Muslim]] usage, [[d/_due|due]] to the [[b/_belief|belief]] that [[a/_all|all]] [[p/_people|people]] are [[b/_born|born]] [[m/_muslim|Muslim]]) To [[c/_convert|convert]] to [[i/_islam|Islam]].**
@@ -21,7 +21,7 @@
 - **To treat (a [[s/_series|series]], such as [[y/_y|y]] = a + [[b/_bx|bx]] + cx2 + ..., where [[o/_one|one]] variable [[y/_y|y]] is [[e/_expressed|expressed]] in [[p/_powers|powers]] of a [[s/_second|second]] variable x), [[s/_so|so]] as to [[f/_find|find]] the [[s/_second|second]] variable x [[e/_expressed|expressed]] in a [[s/_series|series]] [[a/_arranged|arranged]] in [[p/_powers|powers]] of [[y/_y|y]].**
 ---
 #adjective
-- **That [[h/_has|has]] [[g/_gone|gone]] [[b/_back|back]] (to an [[e/_earlier|earlier]] [[p/_place|place]], state [[e/_etc|etc]].).**
+- **That [[h/_has|has]] [[g/_gone|gone]] [[b/_back|back]] (to an [[e/_earlier|earlier]] [[p/_place|place]], [[s/_state|state]] [[e/_etc|etc]].).**
 - **[[b/_bent|Bent]] [[b/_back|back]], [[r/_reversed|reversed]].**
 - **[[d/_directed|Directed]] [[b/_backwards|backwards]].**
 ---

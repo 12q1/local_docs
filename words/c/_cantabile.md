@@ -8,6 +8,6 @@
 - **[[d/_describing|Describing]] a [[p/_passage|passage]] [[h/_having|having]] this [[m/_mark|mark]]; [[s/_singable|singable]], [[l/_lyrical|lyrical]]**
 ---
 #adverb
-- **[[p/_played|Played]] in this style; [[s/_singingly|singingly]], [[l/_lyrically|lyrically]]**
+- **[[p/_played|Played]] in this [[s/_style|style]]; [[s/_singingly|singingly]], [[l/_lyrically|lyrically]]**
 ---
 ---

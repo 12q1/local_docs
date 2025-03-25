@@ -7,8 +7,8 @@
 - **A wheel with [[g/_grooves|grooves]] (teeth) [[e/_engraved|engraved]] on the [[o/_outer|outer]] [[c/_circumference|circumference]], such that two such [[d/_devices|devices]] [[c/_can|can]] [[i/_interlock|interlock]] and [[c/_convey|convey]] [[m/_motion|motion]] from [[o/_one|one]] to the [[o/_other|other]]; a [[g/_gear|gear]] wheel.**
 - **A [[p/_particular|particular]] [[c/_combination|combination]] or [[c/_choice|choice]] of [[i/_interlocking|interlocking]] [[g/_gears|gears]], such that a [[p/_particular|particular]] [[g/_gear|gear]] [[r/_ratio|ratio]] is [[a/_achieved|achieved]].**
 - **A [[c/_configuration|configuration]] of the transmission of a [[m/_motor|motor]] [[c/_car|car]] [[s/_so|so]] as to [[a/_achieve|achieve]] a [[p/_particular|particular]] [[r/_ratio|ratio]] of [[e/_engine|engine]] to [[a/_axle|axle]] torque.**
-- **[[r/_recreational|Recreational]] [[d/_drugs|drugs]], [[i/_including|including]] steroids.**
-- **Stuff.**
+- **[[r/_recreational|Recreational]] [[d/_drugs|drugs]], [[i/_including|including]] [[s/_steroids|steroids]].**
+- **[[s/_stuff|Stuff]].**
 - **[[b/_business|Business]] [[m/_matters|matters]]; [[a/_affairs|affairs]]; [[c/_concern|concern]].**
 - **[[a/_anything|Anything]] worthless; [[n/_nonsense|nonsense]]; [[r/_rubbish|rubbish]].**
 ---

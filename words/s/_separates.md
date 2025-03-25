@@ -11,7 +11,7 @@
 	- _Example: If the kids get too noisy, separate them for a few minutes._
 - **To [[d/_divide|divide]] [[i/_itself|itself]] [[i/_into|into]] [[s/_separate|separate]] [[p/_pieces|pieces]] or substances.**
 	- _Example: The sauce will separate if you don't keep stirring._
-- **To [[s/_set|set]] [[a/_apart|apart]]; to [[s/_select|select]] from [[a/_among|among]] [[o/_others|others]], as for a special use or [[s/_service|service]].**
+- **To [[s/_set|set]] [[a/_apart|apart]]; to [[s/_select|select]] from [[a/_among|among]] [[o/_others|others]], as for a [[s/_special|special]] use or [[s/_service|service]].**
 ---
 ### Synonyms
 - [[p/_partition|partition]], [[s/_split|split]], [[d/_disintegrate|disintegrate]], [[e/_earmark|earmark]], [[s/_sepose|sepose]]

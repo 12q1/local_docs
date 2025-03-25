@@ -7,6 +7,6 @@
 ### Synonyms
 - 
 #verb
-- **To steep in, or [[o/_otherwise|otherwise]] [[i/_impregnate|impregnate]] with, a [[s/_solution|solution]] of [[a/_alum|alum]]; to treat with [[a/_alum|alum]].**
+- **To [[s/_steep|steep]] in, or [[o/_otherwise|otherwise]] [[i/_impregnate|impregnate]] with, a [[s/_solution|solution]] of [[a/_alum|alum]]; to treat with [[a/_alum|alum]].**
 ---
 ---

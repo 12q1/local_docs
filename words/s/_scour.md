@@ -3,7 +3,7 @@
 #noun
 - **The [[r/_removal|removal]] of [[s/_sediment|sediment]] [[c/_caused|caused]] by swiftly [[m/_moving|moving]] water.**
 	- _Example: Bridge scour may scoop out scour holes and compromise the integrity of the structure._
-- **A [[p/_place|place]] [[s/_scoured|scoured]] [[o/_out|out]] by [[r/_running|running]] water, as in the [[b/_bed|bed]] of a stream [[b/_below|below]] a waterfall.**
+- **A [[p/_place|place]] [[s/_scoured|scoured]] [[o/_out|out]] by [[r/_running|running]] water, as in the [[b/_bed|bed]] of a [[s/_stream|stream]] [[b/_below|below]] a waterfall.**
 - **A [[p/_place|place]] where wool is washed to [[r/_remove|remove]] [[g/_grease|grease]] and [[i/_impurities|impurities]] [[p/_prior|prior]] to [[p/_processing|processing]].**
 ---
 #verb

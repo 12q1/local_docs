@@ -1,7 +1,7 @@
 # Constantly
 ---
 #adverb
-- **With steadfastness; with [[r/_resolve|resolve]]; in [[l/_loyalty|loyalty]], [[f/_faithfully|faithfully]].**
+- **With [[s/_steadfastness|steadfastness]]; with [[r/_resolve|resolve]]; in [[l/_loyalty|loyalty]], [[f/_faithfully|faithfully]].**
 - **In a [[c/_constant|constant]] [[m/_manner|manner]]; [[o/_occurring|occurring]] [[c/_continuously|continuously]]; [[p/_persistently|persistently]].**
 - **([[f/_frequency|frequency]]) [[r/_recurring|Recurring]] [[r/_regularly|regularly]].**
 	- _Example: I find that I am constantly reminding you to feed your pets._

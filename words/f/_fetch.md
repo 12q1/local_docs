@@ -3,7 +3,7 @@
 #noun
 - **An [[a/_act|act]] of [[f/_fetching|fetching]], of [[b/_bringing|bringing]] [[s/_something|something]] from a [[d/_distance|distance]].**
 - **The [[o/_object|object]] of [[f/_fetching|fetching]]; the [[s/_source|source]] of an [[a/_attraction|attraction]]; a [[f/_force|force]], [[p/_propensity|propensity]], or [[q/_quality|quality]] which [[a/_attracts|attracts]].**
-- **A stratagem or trick; an [[a/_artifice|artifice]].**
+- **A [[s/_stratagem|stratagem]] or trick; an [[a/_artifice|artifice]].**
 ---
 ### Synonyms
 - [[c/_contrivance|contrivance]], [[d/_dodge|dodge]]
@@ -15,7 +15,7 @@
 	- _Example: to fetch headway or sternway_
 - **To [[b/_bring|bring]] [[o/_oneself|oneself]]; to [[m/_make|make]] [[h/_headway|headway]]; to veer; as, to [[f/_fetch|fetch]] [[a/_about|about]]; to [[f/_fetch|fetch]] to windward.**
 - **To take (a [[b/_breath|breath]]), to [[h/_heave|heave]] (a [[s/_sigh|sigh]])**
-- **To [[c/_cause|cause]] to [[c/_come|come]]; to [[b/_bring|bring]] to a [[p/_particular|particular]] state.**
+- **To [[c/_cause|cause]] to [[c/_come|come]]; to [[b/_bring|bring]] to a [[p/_particular|particular]] [[s/_state|state]].**
 - **To [[r/_recall|recall]] from a swoon; to [[r/_revive|revive]]; [[s/_sometimes|sometimes]] with to.**
 	- _Example: to fetch a man to_
 - **To [[r/_reduce|reduce]]; to throw.**

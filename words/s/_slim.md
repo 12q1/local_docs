@@ -4,7 +4,7 @@
 - **A type of [[c/_cigarette|cigarette]] substantially [[l/_longer|longer]] and thinner than [[n/_normal|normal]] [[c/_cigarettes|cigarettes]].**
 	- _Example: I only smoke slims._
 - **A [[p/_potato|potato]] [[f/_farl|farl]].**
-- **[[a/_aids|AIDS]], or the [[c/_chronic|chronic]] wasting [[a/_associated|associated]] with [[i/_its|its]] [[l/_later|later]] stages.**
+- **[[a/_aids|AIDS]], or the [[c/_chronic|chronic]] wasting [[a/_associated|associated]] with [[i/_its|its]] [[l/_later|later]] [[s/_stages|stages]].**
 - **[[c/_cocaine|Cocaine]].**
 ---
 #verb
@@ -15,7 +15,7 @@
 - **[[s/_slender|Slender]], thin.**
 - **(of [[s/_something|something]] [[a/_abstract|abstract]] [[l/_like|like]] a [[c/_chance|chance]] or [[m/_margin|margin]]) Very [[s/_small|small]], tiny.**
 	- _Example: I'm afraid your chances are quite slim._
-- **([[r/_rural|rural]]) [[b/_bad|Bad]], of [[q/_questionable|questionable]] [[q/_quality|quality]]; not strongly [[b/_built|built]], [[f/_flimsy|flimsy]].**
+- **([[r/_rural|rural]]) [[b/_bad|Bad]], of [[q/_questionable|questionable]] [[q/_quality|quality]]; not [[s/_strongly|strongly]] [[b/_built|built]], [[f/_flimsy|flimsy]].**
 	- _Example: A slimly-shod lad;_
 - **[[s/_sly|Sly]], [[c/_crafty|crafty]].**
 ---

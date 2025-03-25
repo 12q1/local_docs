@@ -7,6 +7,6 @@
 	- _Example: 3D images are rendered using the graphics pipeline._
 - **A [[s/_system|system]] or [[p/_process|process]] through which [[s/_something|something]] is [[c/_conducted|conducted]].**
 	- _Example: A new version of the software is in the pipeline, but has not been rolled out._
-- **The [[i/_inside|inside]] of a wave that a surfer is [[r/_riding|riding]], when the wave [[h/_has|has]] started [[c/_closing|closing]] [[o/_over|over]] it.**
+- **The [[i/_inside|inside]] of a wave that a surfer is [[r/_riding|riding]], when the wave [[h/_has|has]] [[s/_started|started]] [[c/_closing|closing]] [[o/_over|over]] it.**
 ---
 ---

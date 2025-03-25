@@ -7,7 +7,7 @@
 	- _Example: The mayor is situated between probable censure and possible recall._
 ---
 #adjective
-- **[[l/_located|Located]] in a specific [[p/_place|place]].**
+- **[[l/_located|Located]] in a [[s/_specific|specific]] [[p/_place|place]].**
 - **Supplied with [[m/_money|money]] or [[m/_means|means]].**
 ---
 ---

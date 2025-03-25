@@ -1,7 +1,7 @@
 # Lightest
 ---
 #verb
-- **To start (a [[f/_fire|fire]]).**
+- **To [[s/_start|start]] (a [[f/_fire|fire]]).**
 	- _Example: We lit the fire to get some heat._
 - **To [[s/_set|set]] [[f/_fire|fire]] to; to [[s/_set|set]] [[b/_burning|burning]].**
 	- _Example: She lit her last match._
@@ -34,12 +34,12 @@
 #adjective
 - **[[h/_having|Having]] [[l/_little|little]] or [[r/_relatively|relatively]] [[l/_little|little]] [[a/_actual|actual]] weight; not [[c/_cumbrous|cumbrous]] or unwieldy.**
 	- _Example: a light load ; a lighter backpack after having removed the books ; light weapons_
-- **[[h/_having|Having]] [[l/_little|little]] weight as [[c/_compared|compared]] with [[b/_bulk|bulk]]; of [[l/_little|little]] [[d/_density|density]] or specific [[g/_gravity|gravity]].**
+- **[[h/_having|Having]] [[l/_little|little]] weight as [[c/_compared|compared]] with [[b/_bulk|bulk]]; of [[l/_little|little]] [[d/_density|density]] or [[s/_specific|specific]] [[g/_gravity|gravity]].**
 	- _Example: feathers and cork are light ; oil is lighter than water_
-- **Of [[s/_short|short]] or [[i/_insufficient|insufficient]] weight; weighing [[l/_less|less]] than the [[l/_legal|legal]], standard or [[p/_proper|proper]] [[a/_amount|amount]]; [[c/_clipped|clipped]] or [[d/_diminished|diminished]].**
+- **Of [[s/_short|short]] or [[i/_insufficient|insufficient]] weight; weighing [[l/_less|less]] than the [[l/_legal|legal]], [[s/_standard|standard]] or [[p/_proper|proper]] [[a/_amount|amount]]; [[c/_clipped|clipped]] or [[d/_diminished|diminished]].**
 	- _Example: to issue light coin_
 - **[[l/_lacking|Lacking]] that which [[b/_burdens|burdens]] or [[m/_makes|makes]] [[h/_heavy|heavy]].**
-- **Not [[h/_heavy|heavy]] or [[s/_soggy|soggy]]; spongy; well [[r/_raised|raised]].**
+- **Not [[h/_heavy|heavy]] or [[s/_soggy|soggy]]; [[s/_spongy|spongy]]; well [[r/_raised|raised]].**
 	- _Example: a light bread ; sponge cake is a light cake_
 - **[[g/_gentle|Gentle]]; [[h/_having|having]] [[l/_little|little]] [[f/_force|force]] or [[m/_momentum|momentum]].**
 	- _Example: This artist clearly had a light, flowing touch._
@@ -56,7 +56,7 @@
 - **[[i/_indulging|Indulging]] in, or [[i/_inclined|inclined]] to, [[l/_levity|levity]]; [[l/_lacking|lacking]] [[d/_dignity|dignity]] or [[s/_solemnity|solemnity]]; [[f/_frivolous|frivolous]]; [[a/_airy|airy]].**
 	- _Example: Ogden Nash was a writer of light verse._
 - **Not [[q/_quite|quite]] [[s/_sound|sound]] or [[n/_normal|normal]]; [[s/_somewhat|somewhat]] [[i/_impaired|impaired]] or [[d/_deranged|deranged]]; [[d/_dizzy|dizzy]]; [[g/_giddy|giddy]].**
-- **[[e/_easily|Easily]] [[i/_interrupted|interrupted]] by stimulation.**
+- **[[e/_easily|Easily]] [[i/_interrupted|interrupted]] by [[s/_stimulation|stimulation]].**
 	- _Example: light sleep; light anesthesia_
 ---
 ### Synonyms
@@ -66,7 +66,7 @@
 #verb
 - **To [[f/_find|find]] by [[c/_chance|chance]].**
 	- _Example: I lit upon a rare book in a second-hand bookseller's._
-- **To stop upon (of [[e/_eyes|eyes]] or a [[g/_glance|glance]]); to [[n/_notice|notice]]**
+- **To [[s/_stop|stop]] upon (of [[e/_eyes|eyes]] or a [[g/_glance|glance]]); to [[n/_notice|notice]]**
 - **To [[a/_alight|alight]]; to [[l/_land|land]] or [[c/_come|come]] [[d/_down|down]].**
 	- _Example: She fell out of the window but luckily lit on her feet._
 ---

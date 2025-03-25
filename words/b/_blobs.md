@@ -1,7 +1,7 @@
 # Blobs
 ---
 #noun
-- **[[a/_acronym|Acronym]] of [[b/_binary|binary]] [[l/_large|large]] [[o/_object|object]]. (a [[d/_data|data]] type that [[a/_allows|allows]] storage of [[b/_binary|binary]] [[d/_data|data]] [[o/_often|often]] of [[i/_indeterminate|indeterminate]] [[l/_length|length]]).**
+- **[[a/_acronym|Acronym]] of [[b/_binary|binary]] [[l/_large|large]] [[o/_object|object]]. (a [[d/_data|data]] type that [[a/_allows|allows]] [[s/_storage|storage]] of [[b/_binary|binary]] [[d/_data|data]] [[o/_often|often]] of [[i/_indeterminate|indeterminate]] [[l/_length|length]]).**
 	- _Example: I've added a BLOB so that we can store pictures._
 ---
 #noun
@@ -9,7 +9,7 @@
 - **In [[a/_astronomy|astronomy]], a [[l/_large|large]] [[c/_cloud|cloud]] of [[g/_gas|gas]]. In [[p/_particular|particular]], an [[e/_extended|extended]] Lyman-[[a/_alpha|Alpha]] [[b/_blob|blob]] is a [[h/_huge|huge]] [[b/_body|body]] of [[g/_gas|gas]] that [[m/_may|may]] be the [[p/_precursor|precursor]] to a [[g/_galaxy|galaxy]].**
 - **A [[b/_bubble|bubble]]; a [[b/_bleb|bleb]].**
 - **A [[s/_small|small]] [[f/_freshwater|freshwater]] [[f/_fish|fish]] ([[c/_cottus|Cottus]] bairdii); the [[m/_miller|miller]]'[[s/_s|s]] thumb.**
-- **The [[p/_partially|partially]] [[i/_inflated|inflated]] [[a/_air|air]] [[b/_bag|bag]] used in the sport of [[b/_blobbing|blobbing]].**
+- **The [[p/_partially|partially]] [[i/_inflated|inflated]] [[a/_air|air]] [[b/_bag|bag]] used in the [[s/_sport|sport]] of [[b/_blobbing|blobbing]].**
 - **A [[s/_score|score]] of zero.**
 ---
 #verb

@@ -8,7 +8,7 @@
 - **To transport by [[b/_bicycle|bicycle]]**
 ---
 #noun
-- **The sport of [[r/_riding|riding]] a [[b/_bicycle|bicycle]].**
+- **The [[s/_sport|sport]] of [[r/_riding|riding]] a [[b/_bicycle|bicycle]].**
 	- _Example: Professional biking is plagued with controversies over drug use._
 - **The [[p/_practice|practice]] of [[r/_riding|riding]] a [[m/_motorcycle|motorcycle]].**
 ---

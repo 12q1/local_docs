@@ -8,7 +8,7 @@
 - **Suited for [[e/_everyday|everyday]] use.**
 	- _Example: informal clothes_
 - **(of [[l/_language|language]]) [[r/_reflecting|Reflecting]] [[e/_everyday|everyday]], [[n/_non|non]]-[[c/_ceremonious|ceremonious]] usage.**
-- **Not [[o/_organized|organized]]; not structured or [[p/_planned|planned]].**
+- **Not [[o/_organized|organized]]; not [[s/_structured|structured]] or [[p/_planned|planned]].**
 ---
 ### Synonyms
 - [[c/_colloquial|colloquial]], [[c/_casual|casual]], [[u/_unofficial|unofficial]], [[c/_casual|casual]]

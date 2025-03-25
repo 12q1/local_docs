@@ -3,7 +3,7 @@
 #noun
 - **The [[p/_person|person]], [[p/_place|place]] or thing from which [[s/_something|something]] ([[i/_information|information]], [[g/_goods|goods]], [[e/_etc|etc]].) [[c/_comes|comes]] or is [[a/_acquired|acquired]].**
 	- _Example: The accused refused to reveal the source of the illegal drugs she was selling._
-- **Spring; [[f/_fountainhead|fountainhead]]; wellhead; [[a/_any|any]] [[c/_collection|collection]] of water on or under the surface of the [[g/_ground|ground]] in which a stream [[o/_originates|originates]].**
+- **[[s/_spring|Spring]]; [[f/_fountainhead|fountainhead]]; wellhead; [[a/_any|any]] [[c/_collection|collection]] of water on or under the surface of the [[g/_ground|ground]] in which a [[s/_stream|stream]] [[o/_originates|originates]].**
 	- _Example: The main sources of the Euphrates River are the Karasu and Murat Rivers._
 - **A [[r/_reporter|reporter]]'[[s/_s|s]] [[i/_informant|informant]].**
 - **[[s/_source|Source]] [[c/_code|code]].**

@@ -6,7 +6,7 @@
 ### Synonyms
 - [[p/_polonaise|polonaise]]
 #noun
-- **A stately [[p/_polish|Polish]] [[d/_dance|dance]] in triple time and [[m/_moderate|moderate]] tempo.**
+- **A [[s/_stately|stately]] [[p/_polish|Polish]] [[d/_dance|dance]] in triple time and [[m/_moderate|moderate]] tempo.**
 - **[[m/_music|Music]] for this [[d/_dance|dance]].**
 - **A woman'[[s/_s|s]] [[d/_dress|dress]] [[h/_having|having]] a tight [[b/_bodice|bodice]] and a [[s/_skirt|skirt]] [[d/_divided|divided]] to [[s/_show|show]] a [[c/_coloured|coloured]] underskirt.**
 - **A [[s/_short|short]] [[o/_overcoat|overcoat]] [[b/_bordered|bordered]] with [[f/_fur|fur]].**

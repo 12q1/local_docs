@@ -14,6 +14,6 @@
 ### Antonyms
 - [[d/_drop|drop]], [[r/_release|release]]
 #adjective
-- **Of the [[m/_method|method]] of [[b/_being|being]] [[o/_out|out]] in which the striker [[h/_hits|hits]] the [[b/_ball|ball]] and a [[f/_fielder|fielder]] [[c/_catches|catches]] it.**
+- **Of the [[m/_method|method]] of [[b/_being|being]] [[o/_out|out]] in which the [[s/_striker|striker]] [[h/_hits|hits]] the [[b/_ball|ball]] and a [[f/_fielder|fielder]] [[c/_catches|catches]] it.**
 ---
 ---

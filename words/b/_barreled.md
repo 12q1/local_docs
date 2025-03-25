@@ -6,7 +6,7 @@
 	- _Example: He came barrelling around the corner and I almost hit him._
 ---
 #adjective
-- **[[h/_having|Having]] the specified [[n/_number|number]] of [[b/_barrels|barrels]]**
+- **[[h/_having|Having]] the [[s/_specified|specified]] [[n/_number|number]] of [[b/_barrels|barrels]]**
 	- _Example: a four-barreled shotgun_
 ---
 ---

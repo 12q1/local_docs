@@ -3,7 +3,7 @@
 #verb
 - **(of an [[a/_animal|animal]]) To [[p/_pierce|pierce]] with the [[h/_horn|horn]].**
 	- _Example: The bull gored the matador._
-- **To [[p/_pierce|pierce]] with [[a/_anything|anything]] [[p/_pointed|pointed]], such as a spear.**
+- **To [[p/_pierce|pierce]] with [[a/_anything|anything]] [[p/_pointed|pointed]], such as a [[s/_spear|spear]].**
 ---
 #noun
 - **A triangular [[p/_piece|piece]] of [[l/_land|land]] where [[r/_roads|roads]] [[m/_meet|meet]].**

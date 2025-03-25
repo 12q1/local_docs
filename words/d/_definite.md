@@ -1,7 +1,7 @@
 # Definite
 ---
 #noun
-- **([[g/_grammar|grammar]]) A word or [[p/_phrase|phrase]] that [[d/_designates|designates]] a specified or [[i/_identified|identified]] [[p/_person|person]] or [[e/_entity|entity]].**
+- **([[g/_grammar|grammar]]) A word or [[p/_phrase|phrase]] that [[d/_designates|designates]] a [[s/_specified|specified]] or [[i/_identified|identified]] [[p/_person|person]] or [[e/_entity|entity]].**
 - **[[a/_anything|Anything]] that is [[d/_defined|defined]] or [[d/_determined|determined]].**
 ---
 #adjective

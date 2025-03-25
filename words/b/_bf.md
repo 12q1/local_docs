@@ -9,7 +9,7 @@
 ### Antonyms
 - 
 #noun
-- **A [[f/_font|font]] that is [[d/_dark|dark]], [[h/_having|having]] a [[h/_high|high]] [[r/_ratio|ratio]] of [[i/_ink|ink]] to white [[s/_space|space]], written or [[d/_drawn|drawn]] with thick strong [[l/_lines|lines]].**
+- **A [[f/_font|font]] that is [[d/_dark|dark]], [[h/_having|having]] a [[h/_high|high]] [[r/_ratio|ratio]] of [[i/_ink|ink]] to white [[s/_space|space]], written or [[d/_drawn|drawn]] with thick [[s/_strong|strong]] [[l/_lines|lines]].**
 ---
 #noun
 - **A [[m/_male|male]] [[p/_partner|partner]] in an unmarried [[r/_romantic|romantic]] [[r/_relationship|relationship]].**

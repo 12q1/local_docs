@@ -15,7 +15,7 @@
 	- _Example: Adding 3 and 4 yields a result of 7._
 - **To [[p/_produce|produce]] a [[p/_particular|particular]] [[s/_sound|sound]] as the [[r/_result|result]] of a [[s/_sound|sound]] [[l/_law|law]].**
 	- _Example: Indo-European p- yields Germanic f-._
-- **(of a [[m/_material|material]] specimen) To [[p/_pass|pass]] the [[m/_material|material]]'[[s/_s|s]] [[y/_yield|yield]] [[p/_point|point]] and undergo [[p/_plastic|plastic]] [[d/_deformation|deformation]].**
+- **(of a [[m/_material|material]] [[s/_specimen|specimen]]) To [[p/_pass|pass]] the [[m/_material|material]]'[[s/_s|s]] [[y/_yield|yield]] [[p/_point|point]] and undergo [[p/_plastic|plastic]] [[d/_deformation|deformation]].**
 - **To [[a/_admit|admit]] to be true; to [[c/_concede|concede]]; to [[a/_allow|allow]].**
 ---
 ### Synonyms
@@ -24,7 +24,7 @@
 - **[[p/_payment|Payment]]; tribute.**
 - **A [[p/_product|product]]; the [[q/_quantity|quantity]] of [[s/_something|something]] [[p/_produced|produced]].**
 	- _Example: Zucchini plants always seem to produce a high yield of fruit._
-- **The [[c/_current|current]] [[r/_return|return]] as a [[p/_percentage|percentage]] of the [[p/_price|price]] of a stock or [[b/_bond|bond]].**
+- **The [[c/_current|current]] [[r/_return|return]] as a [[p/_percentage|percentage]] of the [[p/_price|price]] of a [[s/_stock|stock]] or [[b/_bond|bond]].**
 - **[[p/_profit|Profit]] [[e/_earned|earned]] from an [[i/_investment|investment]]; [[r/_return|return]] on [[i/_investment|investment]].**
 ---
 ### Synonyms

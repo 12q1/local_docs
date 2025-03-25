@@ -11,6 +11,6 @@
 - [[s/_struggle|struggle]]
 #verb
 - **To [[m/_make|make]] an [[e/_effort|effort]].**
-- **To strengthen, [[f/_fortify|fortify]] or stimulate**
+- **To [[s/_strengthen|strengthen]], [[f/_fortify|fortify]] or [[s/_stimulate|stimulate]]**
 ---
 ---

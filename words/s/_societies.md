@@ -1,7 +1,7 @@
 # Societies
 ---
 #noun
-- **A [[l/_long|long]]-standing [[g/_group|group]] of [[p/_people|people]] [[s/_sharing|sharing]] [[c/_cultural|cultural]] [[a/_aspects|aspects]] such as [[l/_language|language]], [[d/_dress|dress]], [[n/_norms|norms]] of [[b/_behavior|behavior]] and [[a/_artistic|artistic]] [[f/_forms|forms]].**
+- **A [[l/_long|long]]-[[s/_standing|standing]] [[g/_group|group]] of [[p/_people|people]] [[s/_sharing|sharing]] [[c/_cultural|cultural]] [[a/_aspects|aspects]] such as [[l/_language|language]], [[d/_dress|dress]], [[n/_norms|norms]] of [[b/_behavior|behavior]] and [[a/_artistic|artistic]] [[f/_forms|forms]].**
 	- _Example: This society has been known for centuries for its colorful clothing and tight-knit family structure._
 - **A [[g/_group|group]] of [[p/_people|people]] who [[m/_meet|meet]] from time to time to [[e/_engage|engage]] in a [[c/_common|common]] [[i/_interest|interest]]; an [[a/_association|association]] or [[o/_organization|organization]].**
 	- _Example: It was then that they decided to found a society of didgeridoo-playing unicyclists._

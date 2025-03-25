@@ -6,9 +6,9 @@
 - **[[e/_energetic|Energetic]], [[a/_active|active]] or [[e/_eager|eager]].**
 - **[[c/_cheerful|Cheerful]], vivacious.**
 	- _Example: a hearty man_
-- **[[e/_exhibiting|Exhibiting]] strength; [[f/_firm|firm]]**
+- **[[e/_exhibiting|Exhibiting]] [[s/_strength|strength]]; [[f/_firm|firm]]**
 	- _Example: a hearty handshake;  a hearty timber_
-- **[[p/_promoting|Promoting]] strength; [[n/_nourishing|nourishing]].**
+- **[[p/_promoting|Promoting]] [[s/_strength|strength]]; [[n/_nourishing|nourishing]].**
 	- _Example: hearty food_
 ---
 ### Synonyms

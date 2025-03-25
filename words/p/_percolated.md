@@ -6,7 +6,7 @@
 	- _Example: Water percolates through sand._
 - **To [[m/_make|make]] ([[c/_coffee|coffee]]) in a [[p/_percolator|percolator]].**
 	- _Example: I'll percolate some coffee._
-- **To spread [[s/_slowly|slowly]] or [[g/_gradually|gradually]]; to [[s/_slowly|slowly]] [[b/_become|become]] [[n/_noticed|noticed]] or [[r/_realised|realised]].**
+- **To [[s/_spread|spread]] [[s/_slowly|slowly]] or [[g/_gradually|gradually]]; to [[s/_slowly|slowly]] [[b/_become|become]] [[n/_noticed|noticed]] or [[r/_realised|realised]].**
 	- _Example: Reports on the pitiful state of many prisons have finally percolated through to the Home Office, which has promised to look into the situation._
 ---
 ---

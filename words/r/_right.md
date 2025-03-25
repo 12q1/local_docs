@@ -1,7 +1,7 @@
 # Right
 ---
 #adjective
-- **Straight, not [[b/_bent|bent]].**
+- **[[s/_straight|Straight]], not [[b/_bent|bent]].**
 	- _Example: a right line_
 - **Of an [[a/_angle|angle]], [[h/_having|having]] a [[s/_size|size]] of 90 [[d/_degrees|degrees]], or [[o/_one|one]] [[q/_quarter|quarter]] of a [[c/_complete|complete]] [[r/_rotation|rotation]]; the [[a/_angle|angle]] [[b/_between|between]] two [[p/_perpendicular|perpendicular]] [[l/_lines|lines]].**
 	- _Example: The kitchen counter formed a right angle with the back wall._

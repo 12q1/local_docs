@@ -8,6 +8,6 @@
 ---
 #noun
 - **The [[a/_act|act]] by which [[s/_something|something]] [[c/_crumples|crumples]].**
-- **A [[c/_crumpled|crumpled]] [[s/_shape|shape]] or structure.**
+- **A [[c/_crumpled|crumpled]] [[s/_shape|shape]] or [[s/_structure|structure]].**
 ---
 ---

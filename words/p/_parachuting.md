@@ -7,6 +7,6 @@
 - **To [[p/_place|place]] ([[s/_somebody|somebody]]) in an [[o/_organisation|organisation]] in a [[p/_position|position]] of [[a/_authority|authority]] without their [[h/_having|having]] [[p/_previous|previous]] [[e/_experience|experience]] there; used with in or [[i/_into|into]].**
 ---
 #noun
-- **The sport of [[j/_jumping|jumping]] with a [[p/_parachute|parachute]].**
+- **The [[s/_sport|sport]] of [[j/_jumping|jumping]] with a [[p/_parachute|parachute]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Symbiotic
 ---
 #noun
-- **[[s/_symbiotic|Symbiotic]] star**
+- **[[s/_symbiotic|Symbiotic]] [[s/_star|star]]**
 ---
 #adjective
 - **Of, or [[r/_relating|relating]] to [[s/_symbiosis|symbiosis]]; [[l/_living|living]] together.**

@@ -8,7 +8,7 @@
 	- _Example: The thug pumped two rounds from his heater into her._
 - **A [[f/_fastball|fastball]], [[e/_especially|especially]] [[o/_one|one]] thrown at [[h/_high|high]] velocity.**
 	- _Example: Jones threw a heater under his chin._
-- **An [[e/_extended|extended]] winning streak.**
+- **An [[e/_extended|extended]] winning [[s/_streak|streak]].**
 	- _Example: Emmy went on a heater in Las Vegas and came back six thousand dollars richer._
 - **A [[m/_medieval|medieval]] [[e/_european|European]] [[s/_shield|shield]] [[h/_having|having]] a [[r/_rounded|rounded]] triangle [[s/_shape|shape]] [[l/_like|like]] a [[c/_clothes|clothes]] [[i/_iron|iron]].**
 ---

@@ -16,7 +16,7 @@
 ### Synonyms
 - [[g/_given|given]]
 #adverb
-- **Used to [[c/_concede|concede]] a [[p/_point|point]], [[o/_often|often]] [[b/_before|before]] stating [[s/_some|some]] [[c/_contrasting|contrasting]] [[i/_information|information]].**
+- **Used to [[c/_concede|concede]] a [[p/_point|point]], [[o/_often|often]] [[b/_before|before]] [[s/_stating|stating]] [[s/_some|some]] [[c/_contrasting|contrasting]] [[i/_information|information]].**
 	- _Example: "You haven't been a very good father." "Granted."_
 ---
 ### Synonyms

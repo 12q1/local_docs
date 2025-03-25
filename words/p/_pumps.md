@@ -3,7 +3,7 @@
 #noun
 - **A [[d/_device|device]] for [[m/_moving|moving]] or [[c/_compressing|compressing]] a [[l/_liquid|liquid]] or [[g/_gas|gas]].**
 	- _Example: This pump can deliver 100 gallons of water per minute._
-- **An [[i/_instance|instance]] of the [[a/_action|action]] of a [[p/_pump|pump]]; [[o/_one|one]] stroke of a [[p/_pump|pump]]; [[a/_any|any]] [[a/_action|action]] [[s/_similar|similar]] to [[p/_pumping|pumping]]**
+- **An [[i/_instance|instance]] of the [[a/_action|action]] of a [[p/_pump|pump]]; [[o/_one|one]] [[s/_stroke|stroke]] of a [[p/_pump|pump]]; [[a/_any|any]] [[a/_action|action]] [[s/_similar|similar]] to [[p/_pumping|pumping]]**
 	- _Example: It takes thirty pumps to get 10 litres; he did 50 pumps of the weights._
 - **A [[d/_device|device]] for [[d/_dispensing|dispensing]] [[l/_liquid|liquid]] or [[g/_gas|gas]] to be [[s/_sold|sold]], [[p/_particularly|particularly]] [[f/_fuel|fuel]].**
 	- _Example: This pump is out of order, but you can gas up at the next one._
@@ -36,7 +36,7 @@
 - [[b/_bang|bang]], [[l/_lift|lift]], [[g/_grill|grill]], [[i/_interrogate|interrogate]], [[h/_handshake|handshake]], [[t/_trump|trump]]
 #noun
 - **A type of [[s/_shoe|shoe]], a trainer or [[s/_sneaker|sneaker]].**
-- **A type of women'[[s/_s|s]] [[s/_shoe|shoe]] which [[l/_leaves|leaves]] the [[i/_instep|instep]] uncovered and [[h/_has|has]] a [[r/_relatively|relatively]] [[h/_high|high]] [[h/_heel|heel]], [[e/_especially|especially]] a stiletto (with a very [[h/_high|high]] and thin [[h/_heel|heel]])**
+- **A type of women'[[s/_s|s]] [[s/_shoe|shoe]] which [[l/_leaves|leaves]] the [[i/_instep|instep]] uncovered and [[h/_has|has]] a [[r/_relatively|relatively]] [[h/_high|high]] [[h/_heel|heel]], [[e/_especially|especially]] a [[s/_stiletto|stiletto]] (with a very [[h/_high|high]] and thin [[h/_heel|heel]])**
 	- _Example: She was wearing a lovely new pair of pumps._
 - **A [[d/_dancing|dancing]] [[s/_shoe|shoe]].**
 - **A type of [[s/_shoe|shoe]] without a [[h/_heel|heel]].**

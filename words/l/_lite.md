@@ -5,12 +5,12 @@
 	- _Example: As you can see, this spacious dining-room gets a lot of light in the mornings._
 - **A [[s/_source|source]] of [[i/_illumination|illumination]].**
 	- _Example: Put that light out!_
-- **Spiritual or [[m/_mental|mental]] [[i/_illumination|illumination]]; [[e/_enlightenment|enlightenment]], useful [[i/_information|information]].**
+- **[[s/_spiritual|Spiritual]] or [[m/_mental|mental]] [[i/_illumination|illumination]]; [[e/_enlightenment|enlightenment]], useful [[i/_information|information]].**
 	- _Example: Can you throw any light on this problem?_
 - **(in the [[p/_plural|plural]]) [[f/_facts|Facts]]; [[p/_pieces|pieces]] of [[i/_information|information]]; [[i/_ideas|ideas]], [[c/_concepts|concepts]].**
-- **A [[n/_notable|notable]] [[p/_person|person]] within a specific [[f/_field|field]] or [[d/_discipline|discipline]].**
+- **A [[n/_notable|notable]] [[p/_person|person]] within a [[s/_specific|specific]] [[f/_field|field]] or [[d/_discipline|discipline]].**
 	- _Example: Picasso was one of the leading lights of the cubist movement._
-- **The [[m/_manner|manner]] in which the [[l/_light|light]] strikes a [[p/_picture|picture]]; that [[p/_part|part]] of a [[p/_picture|picture]] which [[r/_represents|represents]] those [[o/_objects|objects]] upon which the [[l/_light|light]] is supposed to [[f/_fall|fall]]; the [[m/_more|more]] [[i/_illuminated|illuminated]] [[p/_part|part]] of a [[l/_landscape|landscape]] or [[o/_other|other]] [[s/_scene|scene]]; [[o/_opposed|opposed]] to [[s/_shade|shade]].**
+- **The [[m/_manner|manner]] in which the [[l/_light|light]] [[s/_strikes|strikes]] a [[p/_picture|picture]]; that [[p/_part|part]] of a [[p/_picture|picture]] which [[r/_represents|represents]] those [[o/_objects|objects]] upon which the [[l/_light|light]] is supposed to [[f/_fall|fall]]; the [[m/_more|more]] [[i/_illuminated|illuminated]] [[p/_part|part]] of a [[l/_landscape|landscape]] or [[o/_other|other]] [[s/_scene|scene]]; [[o/_opposed|opposed]] to [[s/_shade|shade]].**
 - **A [[p/_point|point]] of view, or [[a/_aspect|aspect]] from which a [[c/_concept|concept]], [[p/_person|person]] or thing is [[r/_regarded|regarded]].**
 	- _Example: I'm really seeing you in a different light today._
 - **A [[f/_flame|flame]] or [[s/_something|something]] used to [[c/_create|create]] [[f/_fire|fire]].**
@@ -19,10 +19,10 @@
 	- _Example: a Bengal light_
 - **A window, or [[s/_space|space]] for a window in [[a/_architecture|architecture]].**
 	- _Example: This facade has eight south-facing lights._
-- **The [[s/_series|series]] of squares [[r/_reserved|reserved]] for the [[a/_answer|answer]] to a [[c/_crossword|crossword]] [[c/_clue|clue]].**
+- **The [[s/_series|series]] of [[s/_squares|squares]] [[r/_reserved|reserved]] for the [[a/_answer|answer]] to a [[c/_crossword|crossword]] [[c/_clue|clue]].**
 	- _Example: The average length of a light on a 15×15 grid is 7 or 8._
 - **A [[c/_cross|cross]]-[[l/_light|light]] in a [[d/_double|double]] [[a/_acrostic|acrostic]] or triple [[a/_acrostic|acrostic]].**
-- **[[o/_open|Open]] view; a visible state or [[c/_condition|condition]]; [[p/_public|public]] [[o/_observation|observation]]; [[p/_publicity|publicity]].**
+- **[[o/_open|Open]] view; a visible [[s/_state|state]] or [[c/_condition|condition]]; [[p/_public|public]] [[o/_observation|observation]]; [[p/_publicity|publicity]].**
 - **The [[p/_power|power]] of [[p/_perception|perception]] by vision.**
 - **The [[b/_brightness|brightness]] of the [[e/_eye|eye]] or [[e/_eyes|eyes]].**
 - **A traffic [[l/_light|light]], or, by [[e/_extension|extension]], an [[i/_intersection|intersection]] [[c/_controlled|controlled]] by [[o/_one|one]] or [[m/_more|more]] that will [[f/_face|face]] a traveler who is [[r/_receiving|receiving]] [[i/_instructions|instructions]].**
@@ -41,18 +41,18 @@
 ### Synonyms
 - [[b/_bright|bright]], [[l/_lightful|lightful]], [[p/_pale|pale]], [[c/_cream|cream]], [[m/_milk|milk]], [[w/_white|white]]
 #noun
-- **A stone that is not thrown [[h/_hard|hard]] [[e/_enough|enough]].**
+- **A [[s/_stone|stone]] that is not thrown [[h/_hard|hard]] [[e/_enough|enough]].**
 - **[[s/_see|See]] [[l/_lights|lights]].**
 ---
 #adjective
 - **[[h/_having|Having]] [[l/_little|little]] or [[r/_relatively|relatively]] [[l/_little|little]] [[a/_actual|actual]] weight; not [[c/_cumbrous|cumbrous]] or unwieldy.**
 	- _Example: a light load ; a lighter backpack after having removed the books ; light weapons_
-- **[[h/_having|Having]] [[l/_little|little]] weight as [[c/_compared|compared]] with [[b/_bulk|bulk]]; of [[l/_little|little]] [[d/_density|density]] or specific [[g/_gravity|gravity]].**
+- **[[h/_having|Having]] [[l/_little|little]] weight as [[c/_compared|compared]] with [[b/_bulk|bulk]]; of [[l/_little|little]] [[d/_density|density]] or [[s/_specific|specific]] [[g/_gravity|gravity]].**
 	- _Example: feathers and cork are light ; oil is lighter than water_
-- **Of [[s/_short|short]] or [[i/_insufficient|insufficient]] weight; weighing [[l/_less|less]] than the [[l/_legal|legal]], standard or [[p/_proper|proper]] [[a/_amount|amount]]; [[c/_clipped|clipped]] or [[d/_diminished|diminished]].**
+- **Of [[s/_short|short]] or [[i/_insufficient|insufficient]] weight; weighing [[l/_less|less]] than the [[l/_legal|legal]], [[s/_standard|standard]] or [[p/_proper|proper]] [[a/_amount|amount]]; [[c/_clipped|clipped]] or [[d/_diminished|diminished]].**
 	- _Example: to issue light coin_
 - **[[l/_lacking|Lacking]] that which [[b/_burdens|burdens]] or [[m/_makes|makes]] [[h/_heavy|heavy]].**
-- **Not [[h/_heavy|heavy]] or [[s/_soggy|soggy]]; spongy; well [[r/_raised|raised]].**
+- **Not [[h/_heavy|heavy]] or [[s/_soggy|soggy]]; [[s/_spongy|spongy]]; well [[r/_raised|raised]].**
 	- _Example: a light bread ; sponge cake is a light cake_
 - **[[g/_gentle|Gentle]]; [[h/_having|having]] [[l/_little|little]] [[f/_force|force]] or [[m/_momentum|momentum]].**
 	- _Example: This artist clearly had a light, flowing touch._
@@ -69,7 +69,7 @@
 - **[[i/_indulging|Indulging]] in, or [[i/_inclined|inclined]] to, [[l/_levity|levity]]; [[l/_lacking|lacking]] [[d/_dignity|dignity]] or [[s/_solemnity|solemnity]]; [[f/_frivolous|frivolous]]; [[a/_airy|airy]].**
 	- _Example: Ogden Nash was a writer of light verse._
 - **Not [[q/_quite|quite]] [[s/_sound|sound]] or [[n/_normal|normal]]; [[s/_somewhat|somewhat]] [[i/_impaired|impaired]] or [[d/_deranged|deranged]]; [[d/_dizzy|dizzy]]; [[g/_giddy|giddy]].**
-- **[[e/_easily|Easily]] [[i/_interrupted|interrupted]] by stimulation.**
+- **[[e/_easily|Easily]] [[i/_interrupted|interrupted]] by [[s/_stimulation|stimulation]].**
 	- _Example: light sleep; light anesthesia_
 ---
 ### Synonyms

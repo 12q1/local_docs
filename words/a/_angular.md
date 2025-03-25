@@ -12,7 +12,7 @@
 	- _Example: angular distance_
 - **[[l/_lean|Lean]], [[l/_lank|lank]].**
 - **Ungraceful; [[l/_lacking|lacking]] [[g/_grace|grace]].**
-- **[[s/_sharp|Sharp]] and stiff in [[c/_character|character]].**
+- **[[s/_sharp|Sharp]] and [[s/_stiff|stiff]] in [[c/_character|character]].**
 	- _Example: He's remarkably angular in his habits and appearance._
 - **[[c/_composed|Composed]] of three or [[m/_more|more]] [[r/_rings|rings]] [[a/_attached|attached]] to a [[s/_single|single]] [[c/_carbon|carbon]] [[a/_atom|atom]] (the [[r/_rings|rings]] not [[a/_all|all]] [[b/_being|being]] in the [[s/_same|same]] [[p/_plane|plane]]).**
 ---

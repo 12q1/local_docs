@@ -1,7 +1,7 @@
 # Cost
 ---
 #verb
-- **To [[i/_incur|incur]] a [[c/_charge|charge]] of; to [[r/_require|require]] [[p/_payment|payment]] of a (specified) [[p/_price|price]].**
+- **To [[i/_incur|incur]] a [[c/_charge|charge]] of; to [[r/_require|require]] [[p/_payment|payment]] of a ([[s/_specified|specified]]) [[p/_price|price]].**
 	- _Example: It will cost you a lot of money to take a trip around the world._
 - **To [[c/_cause|cause]] [[s/_something|something]] to be [[l/_lost|lost]]; to [[c/_cause|cause]] the [[e/_expenditure|expenditure]] or [[r/_relinquishment|relinquishment]] of.**
 	- _Example: Trying to rescue the man from the burning building cost them their lives._

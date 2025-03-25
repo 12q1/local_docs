@@ -1,8 +1,8 @@
 # Skelp
 ---
 #noun
-- **A [[b/_blow|blow]]; a [[s/_smart|smart]] stroke.**
-- **A squall; a [[h/_heavy|heavy]] [[f/_fall|fall]] of [[r/_rain|rain]].**
+- **A [[b/_blow|blow]]; a [[s/_smart|smart]] [[s/_stroke|stroke]].**
+- **A [[s/_squall|squall]]; a [[h/_heavy|heavy]] [[f/_fall|fall]] of [[r/_rain|rain]].**
 - **A [[l/_large|large]] [[p/_portion|portion]].**
 ---
 #verb

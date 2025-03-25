@@ -7,6 +7,6 @@
 - **(by [[e/_extension|extension]]) To [[a/_absorb|absorb]] and [[p/_process|process]] as [[i/_if|if]] by [[m/_metabolism|metabolism]].**
 ---
 #adjective
-- **That [[s/_serves|serves]] to [[m/_metabolize|metabolize]] a specific [[c/_class|class]] of [[c/_compound|compound]]**
+- **That [[s/_serves|serves]] to [[m/_metabolize|metabolize]] a [[s/_specific|specific]] [[c/_class|class]] of [[c/_compound|compound]]**
 ---
 ---

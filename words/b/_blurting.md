@@ -5,6 +5,6 @@
 	- _Example: Please think about your reply and don't just blurt out the first thing that comes to mind._
 ---
 #noun
-- **[[s/_something|Something]] that is [[b/_blurted|blurted]], or spoken [[h/_hastily|hastily]] without thinking.**
+- **[[s/_something|Something]] that is [[b/_blurted|blurted]], or [[s/_spoken|spoken]] [[h/_hastily|hastily]] without thinking.**
 ---
 ---

@@ -4,7 +4,7 @@
 - **The [[r/_region|region]] which the [[e/_eye|eye]] [[o/_overlooks|overlooks]] at [[o/_one|one]] time; view; [[s/_scene|scene]]; [[o/_outlook|outlook]].**
 - **A [[p/_picturesque|picturesque]] or [[p/_panoramic|panoramic]] view; a [[l/_landscape|landscape]]; [[h/_hence|hence]], a [[s/_sketch|sketch]] of a [[l/_landscape|landscape]].**
 - **A [[p/_position|position]] [[a/_affording|affording]] a [[f/_fine|fine]] view; a [[l/_lookout|lookout]].**
-- **[[r/_relative|Relative]] [[p/_position|position]] of the [[f/_front|front]] of a [[b/_building|building]] or [[o/_other|other]] structure; [[f/_face|face]]; [[r/_relative|relative]] [[a/_aspect|aspect]].**
+- **[[r/_relative|Relative]] [[p/_position|position]] of the [[f/_front|front]] of a [[b/_building|building]] or [[o/_other|other]] [[s/_structure|structure]]; [[f/_face|face]]; [[r/_relative|relative]] [[a/_aspect|aspect]].**
 - **The [[a/_act|act]] of [[l/_looking|looking]] [[f/_forward|forward]]; [[f/_foresight|foresight]]; [[a/_anticipation|anticipation]].**
 - **The [[p/_potential|potential]] things that [[m/_may|may]] [[c/_come|come]] to [[p/_pass|pass]], [[o/_often|often]] [[f/_favorable|favorable]].**
 - **A [[h/_hope|hope]]; a [[h/_hopeful|hopeful]].**

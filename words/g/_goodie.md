@@ -1,7 +1,7 @@
 # Goodie
 ---
 #noun
-- **A [[g/_good|good]] [[c/_character|character]] in a story, [[o/_often|often]] a [[h/_hero|hero]].**
+- **A [[g/_good|good]] [[c/_character|character]] in a [[s/_story|story]], [[o/_often|often]] a [[h/_hero|hero]].**
 ---
 ### Antonyms
 - [[b/_baddie|baddie]]

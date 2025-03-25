@@ -4,7 +4,7 @@
 - **A [[m/_message|message]] reposted or [[f/_forwarded|forwarded]] in this way.**
 ---
 #adjective
-- **Straight, not [[b/_bent|bent]].**
+- **[[s/_straight|Straight]], not [[b/_bent|bent]].**
 	- _Example: a right line_
 - **Of an [[a/_angle|angle]], [[h/_having|having]] a [[s/_size|size]] of 90 [[d/_degrees|degrees]], or [[o/_one|one]] [[q/_quarter|quarter]] of a [[c/_complete|complete]] [[r/_rotation|rotation]]; the [[a/_angle|angle]] [[b/_between|between]] two [[p/_perpendicular|perpendicular]] [[l/_lines|lines]].**
 	- _Example: The kitchen counter formed a right angle with the back wall._
@@ -33,13 +33,13 @@
 #noun
 - **A [[c/_course|course]] or way which is traveled or [[p/_passed|passed]].**
 	- _Example: The route was used so much that it formed a rut._
-- **A [[r/_regular|regular]] [[i/_itinerary|itinerary]] of stops, or the [[p/_path|path]] [[f/_followed|followed]] [[b/_between|between]] these stops, such as for [[d/_delivery|delivery]] or [[p/_passenger|passenger]] transportation.**
+- **A [[r/_regular|regular]] [[i/_itinerary|itinerary]] of [[s/_stops|stops]], or the [[p/_path|path]] [[f/_followed|followed]] [[b/_between|between]] these [[s/_stops|stops]], such as for [[d/_delivery|delivery]] or [[p/_passenger|passenger]] transportation.**
 	- _Example: Here is a map of our delivery routes._
-- **A [[r/_road|road]] or [[p/_path|path]]; [[o/_often|often]] specifically a [[h/_highway|highway]].**
+- **A [[r/_road|road]] or [[p/_path|path]]; [[o/_often|often]] [[s/_specifically|specifically]] a [[h/_highway|highway]].**
 	- _Example: Follow Route 49 out of town._
 - **[[o/_one|One]] of [[m/_multiple|multiple]] [[m/_methods|methods]] or [[a/_approaches|approaches]] to [[d/_doing|doing]] [[s/_something|something]].**
 - **[[o/_one|One]] of the [[m/_major|major]] [[p/_provinces|provinces]] of [[i/_imperial|imperial]] [[c/_china|China]] from the [[l/_later|Later]] [[j/_jin|Jin]] to the [[s/_song|Song]], [[c/_corresponding|corresponding]] to the Tang and [[e/_early|early]] [[y/_yuan|Yuan]] [[c/_circuits|circuits]].**
-- **A specific [[e/_entry|entry]] in a [[r/_router|router]] that tells the [[r/_router|router]] [[h/_how|how]] to transmit the [[d/_data|data]] it [[r/_receives|receives]].**
+- **A [[s/_specific|specific]] [[e/_entry|entry]] in a [[r/_router|router]] that tells the [[r/_router|router]] [[h/_how|how]] to transmit the [[d/_data|data]] it [[r/_receives|receives]].**
 ---
 ### Synonyms
 - [[c/_circuit|circuit]], [[l/_lu|lu]], [[p/_province|province]]

@@ -22,7 +22,7 @@
 - **The [[a/_act|act]] of [[f/_fastening|fastening]] with a [[p/_peg|peg]].**
 - **[[p/_pegs|Pegs]] [[c/_collectively|collectively]].**
 - **The [[a/_activity|activity]] of [[a/_artificial|artificial]] [[c/_climbing|climbing]] on [[c/_crags|crags]] and in [[q/_quarries|quarries]] [[o/_outside|outside]] the [[m/_main|main]] [[m/_mountain|mountain]] [[a/_areas|areas]].**
-- **([[s/_sex|sex]]) The [[a/_act|act]] of [[a/_anal|anal]] [[p/_penetration|penetration]] of a [[m/_man|man]] by a woman wearing a strap-on [[d/_dildo|dildo]].**
+- **([[s/_sex|sex]]) The [[a/_act|act]] of [[a/_anal|anal]] [[p/_penetration|penetration]] of a [[m/_man|man]] by a woman wearing a [[s/_strap|strap]]-on [[d/_dildo|dildo]].**
 - **[[d/_determined|Determined]] [[p/_perseverance|perseverance]] in work; [[p/_pegging|pegging]] [[a/_away|away]].**
 - **A thrashing.**
 ---

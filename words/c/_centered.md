@@ -11,6 +11,6 @@
 ---
 #adjective
 - **[[m/_middlemost|Middlemost]]; [[l/_located|located]] at the [[c/_center|center]]**
-- **[[e/_emotionally|Emotionally]] stable, [[c/_calm|calm]], [[s/_serene|serene]]; [[h/_having|having]] a [[b/_balanced|balanced]] [[m/_mind|mind]]**
+- **[[e/_emotionally|Emotionally]] [[s/_stable|stable]], [[c/_calm|calm]], [[s/_serene|serene]]; [[h/_having|having]] a [[b/_balanced|balanced]] [[m/_mind|mind]]**
 ---
 ---

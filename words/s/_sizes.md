@@ -3,11 +3,11 @@
 #noun
 - **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[d/_dialectal|dialectal]]) An [[a/_assize|assize]].**
 - **A [[r/_regulation|regulation]] [[d/_determining|determining]] the [[a/_amount|amount]] of [[m/_money|money]] [[p/_paid|paid]] in [[f/_fees|fees]], taxes [[e/_etc|etc]].**
-- **A [[f/_fixed|fixed]] standard for the [[m/_magnitude|magnitude]], [[q/_quality|quality]], [[q/_quantity|quantity]] [[e/_etc|etc]]. of [[g/_goods|goods]], [[e/_especially|especially]] [[f/_food|food]] and [[d/_drink|drink]].**
+- **A [[f/_fixed|fixed]] [[s/_standard|standard]] for the [[m/_magnitude|magnitude]], [[q/_quality|quality]], [[q/_quantity|quantity]] [[e/_etc|etc]]. of [[g/_goods|goods]], [[e/_especially|especially]] [[f/_food|food]] and [[d/_drink|drink]].**
 - **The [[d/_dimensions|dimensions]] or [[m/_magnitude|magnitude]] of a thing; [[h/_how|how]] [[b/_big|big]] [[s/_something|something]] is.**
 	- _Example: The size of the building seemed to have increased since I was last there._
 - **A [[r/_regulation|regulation]], [[p/_piece|piece]] of [[o/_ordinance|ordinance]].**
-- **A specific [[s/_set|set]] of [[d/_dimensions|dimensions]] for a [[m/_manufactured|manufactured]] [[a/_article|article]], [[e/_especially|especially]] [[c/_clothing|clothing]].**
+- **A [[s/_specific|specific]] [[s/_set|set]] of [[d/_dimensions|dimensions]] for a [[m/_manufactured|manufactured]] [[a/_article|article]], [[e/_especially|especially]] [[c/_clothing|clothing]].**
 	- _Example: I don't think we have the red one in your size._
 - **A [[n/_number|number]] of [[e/_edges|edges]] in a [[g/_graph|graph]].**
 - **[[d/_degree|Degree]] of [[r/_rank|rank]], [[a/_ability|ability]], [[c/_character|character]], [[e/_etc|etc]].**

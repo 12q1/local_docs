@@ -1,7 +1,7 @@
 # Flusters
 ---
 #noun
-- **A state of [[b/_being|being]] [[f/_flustered|flustered]]; [[o/_overwrought|overwrought]] [[c/_confusion|confusion]].**
+- **A [[s/_state|state]] of [[b/_being|being]] [[f/_flustered|flustered]]; [[o/_overwrought|overwrought]] [[c/_confusion|confusion]].**
 ---
 #verb
 - **To [[m/_make|make]] [[h/_hot|hot]] and [[r/_rosy|rosy]], as with [[d/_drinking|drinking]].**

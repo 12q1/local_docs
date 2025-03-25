@@ -21,7 +21,7 @@
 	- _Example: She took the baby and held it in her arms._
 - **Used to [[r/_refer|refer]] to [[s/_someone|someone]] [[b/_being|being]] [[i/_identified|identified]], [[o/_often|often]] on the [[p/_phone|phone]], but not [[l/_limited|limited]] to this [[s/_situation|situation]].**
 	- _Example: Is it her?_
-- **The [[i/_impersonal|impersonal]] [[p/_pronoun|pronoun]], used without [[r/_referent|referent]] as the subject of an [[i/_impersonal|impersonal]] verb or statement. ([[k/_known|known]] as the [[d/_dummy|dummy]] [[p/_pronoun|pronoun]] or weather it)**
+- **The [[i/_impersonal|impersonal]] [[p/_pronoun|pronoun]], used without [[r/_referent|referent]] as the subject of an [[i/_impersonal|impersonal]] verb or [[s/_statement|statement]]. ([[k/_known|known]] as the [[d/_dummy|dummy]] [[p/_pronoun|pronoun]] or weather it)**
 	- _Example: It is nearly 10 o’clock._
 - **The [[i/_impersonal|impersonal]] [[p/_pronoun|pronoun]], used without [[r/_referent|referent]] in various [[s/_short|short]] [[i/_idioms|idioms]].**
 - **The [[i/_impersonal|impersonal]] [[p/_pronoun|pronoun]], used as a [[p/_placeholder|placeholder]] for a [[d/_delayed|delayed]] subject, or [[l/_less|less]] [[c/_commonly|commonly]], [[o/_object|object]]; [[k/_known|known]] as the [[d/_dummy|dummy]] [[p/_pronoun|pronoun]] or, [[m/_more|more]] [[f/_formally|formally]] in [[l/_linguistics|linguistics]], a [[s/_syntactic|syntactic]] [[e/_expletive|expletive]]. The [[d/_delayed|delayed]] subject is [[c/_commonly|commonly]] a to-[[i/_infinitive|infinitive]], a [[g/_gerund|gerund]], or a [[n/_noun|noun]] [[c/_clause|clause]] [[i/_introduced|introduced]] by a .**

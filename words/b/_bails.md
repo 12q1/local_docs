@@ -26,11 +26,11 @@
 ---
 #noun
 - **A [[h/_hoop|hoop]], [[r/_ring|ring]] or [[h/_handle|handle]] ([[e/_especially|especially]] of a [[k/_kettle|kettle]] or [[b/_bucket|bucket]]).**
-- **A stall for a [[c/_cow|cow]] (or [[o/_other|other]] [[a/_animal|animal]]) (usually tethered with a [[s/_semi|semi]]-[[c/_circular|circular]] [[h/_hoop|hoop]]).**
+- **A [[s/_stall|stall]] for a [[c/_cow|cow]] (or [[o/_other|other]] [[a/_animal|animal]]) (usually tethered with a [[s/_semi|semi]]-[[c/_circular|circular]] [[h/_hoop|hoop]]).**
 - **A [[h/_hinged|hinged]] [[b/_bar|bar]] as a [[r/_restraint|restraint]] for [[a/_animals|animals]], or on a typewriter.**
 - **A [[f/_frame|frame]] to [[r/_restrain|restrain]] a [[c/_cow|cow]] [[d/_during|during]] [[m/_milking|milking]] or [[f/_feeding|feeding]].**
 - **A [[h/_hoop|hoop]], [[r/_ring|ring]], or [[o/_other|other]] [[o/_object|object]] used to [[c/_connect|connect]] a [[p/_pendant|pendant]] to a [[n/_necklace|necklace]].**
-- **[[o/_one|One]] of the two wooden [[c/_crosspieces|crosspieces]] that [[r/_rest|rest]] on top of the stumps to [[f/_form|form]] a wicket.**
+- **[[o/_one|One]] of the two wooden [[c/_crosspieces|crosspieces]] that [[r/_rest|rest]] on top of the [[s/_stumps|stumps]] to [[f/_form|form]] a wicket.**
 - **([[f/_furniture|furniture]]) [[n/_normally|Normally]] [[c/_curved|curved]] [[h/_handle|handle]] suspended [[b/_between|between]] [[s/_sockets|sockets]] as a [[d/_drawer|drawer]] [[p/_pull|pull]]. This [[m/_may|may]] [[a/_also|also]] be on a [[k/_kettle|kettle]] or [[p/_pail|pail]].**
 ---
 #verb

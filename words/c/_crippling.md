@@ -12,7 +12,7 @@
 ### Synonyms
 - [[l/_limit|limit]], [[r/_restrict|restrict]]
 #noun
-- **State of [[b/_being|being]] [[c/_crippled|crippled]]; [[l/_lameness|lameness]].**
+- **[[s/_state|State]] of [[b/_being|being]] [[c/_crippled|crippled]]; [[l/_lameness|lameness]].**
 - **[[s/_spars|Spars]] or timbers [[s/_set|set]] up as a support [[a/_against|against]] the [[s/_side|side]] of a [[b/_building|building]].**
 ---
 #adjective

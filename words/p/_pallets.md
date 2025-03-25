@@ -4,12 +4,12 @@
 - **[[p/_paleness|Paleness]]; [[p/_pallor|pallor]].**
 ---
 #noun
-- **A wooden stake; a [[p/_picket|picket]].**
-- **[[f/_fence|Fence]] [[m/_made|made]] from wooden stake; [[p/_palisade|palisade]].**
+- **A wooden [[s/_stake|stake]]; a [[p/_picket|picket]].**
+- **[[f/_fence|Fence]] [[m/_made|made]] from wooden [[s/_stake|stake]]; [[p/_palisade|palisade]].**
 - **(by [[e/_extension|extension]]) [[l/_limits|Limits]], [[b/_bounds|bounds]] ([[e/_especially|especially]] [[b/_before|before]] of).**
 - **The [[b/_bounds|bounds]] of [[m/_morality|morality]], [[g/_good|good]] [[b/_behaviour|behaviour]] or [[j/_judgment|judgment]] in [[c/_civilized|civilized]] [[c/_company|company]], in the [[p/_phrase|phrase]] [[b/_beyond|beyond]] the [[p/_pale|pale]].**
 - **A vertical [[b/_band|band]] [[d/_down|down]] the [[m/_middle|middle]] of a [[s/_shield|shield]].**
-- **A territory or [[d/_defensive|defensive]] [[a/_area|area]] within a specific [[b/_boundary|boundary]] or under a [[g/_given|given]] [[j/_jurisdiction|jurisdiction]].**
+- **A territory or [[d/_defensive|defensive]] [[a/_area|area]] within a [[s/_specific|specific]] [[b/_boundary|boundary]] or under a [[g/_given|given]] [[j/_jurisdiction|jurisdiction]].**
 - **The [[j/_jurisdiction|jurisdiction]] (territorial or [[o/_otherwise|otherwise]]) of an [[a/_authority|authority]].**
 - **A [[c/_cheese|cheese]] [[s/_scoop|scoop]].**
 - **A [[s/_shore|shore]] for [[b/_bracing|bracing]] a timber [[b/_before|before]] it is [[f/_fastened|fastened]].**
@@ -22,12 +22,12 @@
 - **A [[p/_plate|plate]] [[a/_against|against]] which a [[p/_person|person]] [[p/_presses|presses]] their [[b/_breast|breast]] to [[g/_give|give]] [[f/_force|force]] to a [[h/_hand|hand]]-[[o/_operated|operated]] [[d/_drill|drill]].**
 ---
 #noun
-- **A [[p/_portable|portable]] [[p/_platform|platform]], usually [[d/_designed|designed]] to be [[e/_easily|easily]] [[m/_moved|moved]] by a [[f/_forklift|forklift]], on which [[g/_goods|goods]] [[c/_can|can]] be stacked, for transport or storage.**
-- **A [[f/_flat|flat]] [[b/_base|base]] for [[c/_combining|combining]] stores or [[c/_carrying|carrying]] a [[s/_single|single]] [[i/_item|item]] to [[f/_form|form]] a unit [[l/_load|load]] for [[h/_handling|handling]], transportation, and storage by [[m/_materials|materials]] [[h/_handling|handling]] [[e/_equipment|equipment]].**
+- **A [[p/_portable|portable]] [[p/_platform|platform]], usually [[d/_designed|designed]] to be [[e/_easily|easily]] [[m/_moved|moved]] by a [[f/_forklift|forklift]], on which [[g/_goods|goods]] [[c/_can|can]] be [[s/_stacked|stacked]], for transport or [[s/_storage|storage]].**
+- **A [[f/_flat|flat]] [[b/_base|base]] for [[c/_combining|combining]] [[s/_stores|stores]] or [[c/_carrying|carrying]] a [[s/_single|single]] [[i/_item|item]] to [[f/_form|form]] a unit [[l/_load|load]] for [[h/_handling|handling]], transportation, and [[s/_storage|storage]] by [[m/_materials|materials]] [[h/_handling|handling]] [[e/_equipment|equipment]].**
 - **([[d/_dod|DOD]] [[o/_only|only]]) 463L [[p/_pallet|pallet]] – An 88” x 108” [[a/_aluminum|aluminum]] [[f/_flat|flat]] [[b/_base|base]] used to [[f/_facilitate|facilitate]] the upload and [[d/_download|download]] of [[a/_aircraft|aircraft]].**
 ---
 #noun
-- **A straw [[b/_bed|bed]].**
+- **A [[s/_straw|straw]] [[b/_bed|bed]].**
 - **(by [[e/_extension|extension]]) A [[m/_makeshift|makeshift]] [[b/_bed|bed]].**
 ---
 #noun

@@ -9,7 +9,7 @@
 #noun
 - **The [[p/_process|process]] or [[a/_act|act]] of [[c/_calculation|calculation]].**
 - **The use of a [[c/_computer|computer]] or [[c/_computers|computers]].**
-- **The study of [[c/_computers|computers]] and [[c/_computer|computer]] [[p/_programming|programming]].**
+- **The [[s/_study|study]] of [[c/_computers|computers]] and [[c/_computer|computer]] [[p/_programming|programming]].**
 	- _Example: This course will cover several major fields of computing._
 ---
 ### Synonyms

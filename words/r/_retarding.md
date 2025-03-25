@@ -7,7 +7,7 @@
 	- _Example: to retard a rupture between nations_
 - **To be [[s/_slow|slow]] or [[d/_dilatory|dilatory]] to [[p/_perform|perform]] ([[s/_something|something]]).**
 - **To [[d/_decelerate|decelerate]]; to [[s/_slow|slow]] [[d/_down|down]].**
-- **To stay [[b/_back|back]].**
+- **To [[s/_stay|stay]] [[b/_back|back]].**
 ---
 ### Synonyms
 - [[d/_decelerate|decelerate]], [[s/_slow|slow]], [[d/_decelerate|decelerate]], [[h/_hinder|hinder]], [[s/_slow|slow]], [[p/_postpone|postpone]], [[r/_reluctant|reluctant]], [[h/_hinder|hinder]], [[i/_impede|impede]]

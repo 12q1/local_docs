@@ -34,7 +34,7 @@
 - **Well, [[n/_nicely|nicely]], in a [[p/_positive|positive]] way.**
 	- _Example: Everything worked out fine._
 - **[[f/_finely|Finely]]; [[e/_elegantly|elegantly]]; [[d/_delicately|delicately]].**
-- **In a [[m/_manner|manner]] [[s/_so|so]] that the [[d/_driven|driven]] [[b/_ball|ball]] strikes the [[o/_object|object]] [[b/_ball|ball]] [[s/_so|so]] [[f/_far|far]] to [[o/_one|one]] [[s/_side|side]] as to be [[b/_barely|barely]] [[d/_deflected|deflected]], the [[o/_object|object]] [[b/_ball|ball]] [[b/_being|being]] [[d/_driven|driven]] to [[o/_one|one]] [[s/_side|side]].**
+- **In a [[m/_manner|manner]] [[s/_so|so]] that the [[d/_driven|driven]] [[b/_ball|ball]] [[s/_strikes|strikes]] the [[o/_object|object]] [[b/_ball|ball]] [[s/_so|so]] [[f/_far|far]] to [[o/_one|one]] [[s/_side|side]] as to be [[b/_barely|barely]] [[d/_deflected|deflected]], the [[o/_object|object]] [[b/_ball|ball]] [[b/_being|being]] [[d/_driven|driven]] to [[o/_one|one]] [[s/_side|side]].**
 ---
 ### Synonyms
 - [[O/_OK|OK]], [[a/_alright|alright]]

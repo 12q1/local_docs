@@ -8,7 +8,7 @@
 - **The [[a/_audit|audit]] trail [[l/_left|left]] by a [[c/_crashed|crashed]] [[p/_program|program]].**
 - **[[p/_profession|Profession]] or [[l/_lifestyle|lifestyle]].**
 	- _Example: He is following in his father's footprints._
-- **The surface [[s/_space|space]] [[o/_occupied|occupied]] by a structure.**
+- **The surface [[s/_space|space]] [[o/_occupied|occupied]] by a [[s/_structure|structure]].**
 	- _Example: the footprint of a building_
 - **A [[c/_company|company]]'[[s/_s|s]] [[g/_geographic|geographic]] [[m/_market|market]] [[p/_presence|presence]].**
 	- _Example: The store, which is slated to open next month, increases the company's footprint in the market to 14 locations._

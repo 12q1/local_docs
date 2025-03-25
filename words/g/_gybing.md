@@ -7,6 +7,6 @@
 - **(by [[e/_extension|extension]]) [[o/_often|Often]] as [[g/_gybe|gybe]] at: to [[b/_balk|balk]], [[h/_hesitate|hesitate]], or vacillate when [[f/_faced|faced]] with a [[c/_course|course]] of [[a/_action|action]], [[p/_plan|plan]], or [[p/_proposal|proposal]].**
 ---
 #verb
-- **[[a/_alternative|Alternative]] spelling of [[j/_jibe|jibe]]**
+- **[[a/_alternative|Alternative]] [[s/_spelling|spelling]] of [[j/_jibe|jibe]]**
 ---
 ---

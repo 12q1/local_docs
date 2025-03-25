@@ -8,13 +8,13 @@
 - **To [[g/_give|give]] the [[a/_appearance|appearance]] of [[b/_beams|beams]] to.**
 - **To transmit [[m/_matter|matter]] or [[i/_information|information]] via a [[h/_high|high]]-tech wireless [[m/_mechanism|mechanism]].**
 	- _Example: Beam me up, Scotty; there's no intelligent life down here._
-- **([[c/_currying|currying]]) To stretch [[s/_something|something]] (for [[e/_example|example]] an [[a/_animal|animal]] [[h/_hide|hide]]) on a [[b/_beam|beam]].**
+- **([[c/_currying|currying]]) To [[s/_stretch|stretch]] [[s/_something|something]] (for [[e/_example|example]] an [[a/_animal|animal]] [[h/_hide|hide]]) on a [[b/_beam|beam]].**
 - **To [[p/_put|put]] ([[s/_something|something]]) on a [[b/_beam|beam]]**
 - **To [[c/_connect|connect]] ([[m/_musical|musical]] [[n/_notes|notes]]) with a [[b/_beam|beam]], or thick [[l/_line|line]], in [[m/_music|music]] [[n/_notation|notation]].**
 ---
 #adjective
 - **[[f/_furnished|Furnished]] with [[b/_beams|beams]] or timbers.**
 	- _Example: a beamed ceiling_
-- **[[f/_furnished|Furnished]] with [[b/_beams|beams]], as the [[h/_head|head]] of a stag.**
+- **[[f/_furnished|Furnished]] with [[b/_beams|beams]], as the [[h/_head|head]] of a [[s/_stag|stag]].**
 ---
 ---

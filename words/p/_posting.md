@@ -22,14 +22,14 @@
 ---
 #verb
 - **To [[e/_enter|enter]] (a [[n/_name|name]]) on a [[l/_list|list]], as for [[s/_service|service]], [[p/_promotion|promotion]], [[e/_etc|etc]].**
-- **To [[a/_assign|assign]] to a station; to [[s/_set|set]]; to [[p/_place|place]].**
+- **To [[a/_assign|assign]] to a [[s/_station|station]]; to [[s/_set|set]]; to [[p/_place|place]].**
 	- _Example: Post a sentinel in front of the door._
 ---
 #noun
 - **The [[a/_action|action]] of the verb to [[p/_post|post]].**
 - **An [[i/_item|item]] [[i/_inserted|inserted]] [[i/_into|into]] a [[r/_register|register]], [[l/_ledger|ledger]] or [[d/_diary|diary]].**
 - **A [[m/_message|message]] [[p/_posted|posted]] to a [[c/_computerized|computerized]] [[b/_bulletin|bulletin]] [[b/_board|board]], a [[n/_newsgroup|newsgroup]], a blog, [[e/_etc|etc]].**
-- **The [[p/_place|place]] where a [[s/_soldier|soldier]] or [[a/_airman|airman]] is [[p/_posted|posted]] for [[d/_duty|duty]]; the time spent there.**
+- **The [[p/_place|place]] where a [[s/_soldier|soldier]] or [[a/_airman|airman]] is [[p/_posted|posted]] for [[d/_duty|duty]]; the time [[s/_spent|spent]] there.**
 ---
 ### Synonyms
 - [[p/_post|post]]

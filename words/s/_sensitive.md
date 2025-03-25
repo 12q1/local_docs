@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[h/_having|Having]] the [[f/_faculty|faculty]] of [[s/_sensation|sensation]]; [[p/_pertaining|pertaining]] to the [[s/_senses|senses]].**
-- **[[r/_responsive|Responsive]] to stimuli.**
+- **[[r/_responsive|Responsive]] to [[s/_stimuli|stimuli]].**
 - **(of a [[p/_person|person]]) [[e/_easily|Easily]] [[o/_offended|offended]], upset or [[h/_hurt|hurt]].**
 	- _Example: Max is very sensitive; he cried today because of the bad news._
 - **(of an [[i/_issue|issue]], topic, [[e/_etc|etc]].) [[c/_capable|Capable]] of [[o/_offending|offending]], upsetting or [[h/_hurting|hurting]].**

@@ -4,7 +4,7 @@
 - **To [[e/_encounter|encounter]] or [[d/_discover|discover]] by [[a/_accident|accident]]; to [[h/_happen|happen]] upon.**
 - **To [[e/_encounter|encounter]] or [[d/_discover|discover]] [[s/_something|something]] [[b/_being|being]] [[s/_searched|searched]] for; to [[l/_locate|locate]].**
 	- _Example: I found my car keys. They were under the couch._
-- **(ditransitive) To [[d/_discover|discover]] by study or [[e/_experiment|experiment]] [[d/_direct|direct]] to an [[o/_object|object]] or [[e/_end|end]].**
+- **(ditransitive) To [[d/_discover|discover]] by [[s/_study|study]] or [[e/_experiment|experiment]] [[d/_direct|direct]] to an [[o/_object|object]] or [[e/_end|end]].**
 	- _Example: Water is found to be a compound substance._
 - **To [[g/_gain|gain]], as the [[o/_object|object]] of [[d/_desire|desire]] or [[e/_effort|effort]].**
 	- _Example: to find leisure; to find means_

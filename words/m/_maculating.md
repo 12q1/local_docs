@@ -1,6 +1,6 @@
 # Maculating
 ---
 #verb
-- **To spot; to stain; to [[b/_blur|blur]].**
+- **To [[s/_spot|spot]]; to [[s/_stain|stain]]; to [[b/_blur|blur]].**
 ---
 ---

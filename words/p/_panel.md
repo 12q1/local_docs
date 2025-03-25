@@ -15,13 +15,13 @@
 - **A [[s/_soft|soft]] [[p/_pad|pad]] [[b/_beneath|beneath]] a [[s/_saddletree|saddletree]] to [[p/_prevent|prevent]] [[c/_chafing|chafing]].**
 - **([[j/_joinery|joinery]]) A [[b/_board|board]] [[h/_having|having]] [[i/_its|its]] [[e/_edges|edges]] [[i/_inserted|inserted]] in the [[g/_groove|groove]] of a surrounding [[f/_frame|frame]].**
 	- _Example: the panel of a door_
-- **[[o/_one|One]] of the [[f/_faces|faces]] of a [[h/_hewn|hewn]] stone.**
+- **[[o/_one|One]] of the [[f/_faces|faces]] of a [[h/_hewn|hewn]] [[s/_stone|stone]].**
 - **A [[s/_slab|slab]] or [[p/_plank|plank]] of wood used [[i/_instead|instead]] of a [[c/_canvas|canvas]] for [[p/_painting|painting]] on.**
 - **A [[h/_heap|heap]] of [[d/_dressed|dressed]] [[o/_ore|ore]].**
 - **[[o/_one|One]] of the [[d/_districts|districts]] [[d/_divided|divided]] by [[p/_pillars|pillars]] of [[e/_extra|extra]] [[s/_size|size]], [[i/_into|into]] which a [[m/_mine|mine]] is [[l/_laid|laid]] [[o/_off|off]] in [[o/_one|one]] [[s/_system|system]] of [[e/_extracting|extracting]] [[c/_coal|coal]].**
 - **A [[f/_frame|frame]] for [[c/_carrying|carrying]] a [[m/_mortar|mortar]].**
-- **A [[p/_plain|plain]] strip or [[b/_band|band]], as of velvet or [[p/_plush|plush]], [[p/_placed|placed]] at [[i/_intervals|intervals]] [[l/_lengthwise|lengthwise]] on the [[s/_skirt|skirt]] of a [[d/_dress|dress]], for [[o/_ornament|ornament]].**
-- **A [[p/_portion|portion]] of a [[f/_framed|framed]] structure [[b/_between|between]] [[a/_adjacent|adjacent]] [[p/_posts|posts]] or struts, as in a [[b/_bridge|bridge]] truss.**
+- **A [[p/_plain|plain]] [[s/_strip|strip]] or [[b/_band|band]], as of velvet or [[p/_plush|plush]], [[p/_placed|placed]] at [[i/_intervals|intervals]] [[l/_lengthwise|lengthwise]] on the [[s/_skirt|skirt]] of a [[d/_dress|dress]], for [[o/_ornament|ornament]].**
+- **A [[p/_portion|portion]] of a [[f/_framed|framed]] [[s/_structure|structure]] [[b/_between|between]] [[a/_adjacent|adjacent]] [[p/_posts|posts]] or [[s/_struts|struts]], as in a [[b/_bridge|bridge]] truss.**
 - **A [[l/_list|list]] of [[d/_doctors|doctors]] who [[c/_could|could]] [[p/_provide|provide]] [[l/_limited|limited]] [[f/_free|free]] [[h/_healthcare|healthcare]] [[p/_prior|prior]] to the [[i/_introduction|introduction]] of the NHS.**
 - **A [[g/_group|group]] of tests or [[a/_assays|assays]], a [[b/_battery|battery]].**
 ---

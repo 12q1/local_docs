@@ -1,18 +1,18 @@
 # Bubbles
 ---
 #noun
-- **A spherically [[c/_contained|contained]] volume of [[a/_air|air]] or [[o/_other|other]] [[g/_gas|gas]], [[e/_especially|especially]] [[o/_one|one]] [[m/_made|made]] from [[s/_soapy|soapy]] [[l/_liquid|liquid]].**
-- **A [[s/_small|small]] spherical [[c/_cavity|cavity]] in a [[s/_solid|solid]] [[m/_material|material]].**
+- **A [[s/_spherically|spherically]] [[c/_contained|contained]] volume of [[a/_air|air]] or [[o/_other|other]] [[g/_gas|gas]], [[e/_especially|especially]] [[o/_one|one]] [[m/_made|made]] from [[s/_soapy|soapy]] [[l/_liquid|liquid]].**
+- **A [[s/_small|small]] [[s/_spherical|spherical]] [[c/_cavity|cavity]] in a [[s/_solid|solid]] [[m/_material|material]].**
 	- _Example: bubbles in window glass, or in a lens_
-- **(by [[e/_extension|extension]]) [[a/_anything|Anything]] [[r/_resembling|resembling]] a [[h/_hollow|hollow]] sphere.**
+- **(by [[e/_extension|extension]]) [[a/_anything|Anything]] [[r/_resembling|resembling]] a [[h/_hollow|hollow]] [[s/_sphere|sphere]].**
 - **[[a/_anything|Anything]] [[l/_lacking|lacking]] [[f/_firmness|firmness]] or [[s/_solidity|solidity]]; a [[c/_cheat|cheat]] or [[f/_fraud|fraud]]; an [[e/_empty|empty]] [[p/_project|project]].**
-- **A [[p/_period|period]] of [[i/_intense|intense]] speculation in a [[m/_market|market]], [[c/_causing|causing]] [[p/_prices|prices]] to [[r/_rise|rise]] [[q/_quickly|quickly]] to [[i/_irrational|irrational]] [[l/_levels|levels]] as the [[m/_metaphorical|metaphorical]] [[b/_bubble|bubble]] [[e/_expands|expands]], and then [[f/_fall|fall]] [[e/_even|even]] [[m/_more|more]] [[q/_quickly|quickly]] as the [[b/_bubble|bubble]] [[b/_bursts|bursts]].**
+- **A [[p/_period|period]] of [[i/_intense|intense]] [[s/_speculation|speculation]] in a [[m/_market|market]], [[c/_causing|causing]] [[p/_prices|prices]] to [[r/_rise|rise]] [[q/_quickly|quickly]] to [[i/_irrational|irrational]] [[l/_levels|levels]] as the [[m/_metaphorical|metaphorical]] [[b/_bubble|bubble]] [[e/_expands|expands]], and then [[f/_fall|fall]] [[e/_even|even]] [[m/_more|more]] [[q/_quickly|quickly]] as the [[b/_bubble|bubble]] [[b/_bursts|bursts]].**
 	- _Example: dot-com bubble_
 - **The [[e/_emotional|emotional]] and/or [[p/_physical|physical]] [[a/_atmosphere|atmosphere]] in which the subject is [[i/_immersed|immersed]].**
-- **An [[o/_officer|officer]]'[[s/_s|s]] station in a [[p/_prison|prison]] [[d/_dormitory|dormitory]], [[a/_affording|affording]] views on [[a/_all|all]] [[s/_sides|sides]].**
+- **An [[o/_officer|officer]]'[[s/_s|s]] [[s/_station|station]] in a [[p/_prison|prison]] [[d/_dormitory|dormitory]], [[a/_affording|affording]] views on [[a/_all|all]] [[s/_sides|sides]].**
 - **[[s/_someone|Someone]] who [[h/_has|has]] [[b/_been|been]] ‘[[b/_bubbled|bubbled]]’ or [[f/_fooled|fooled]]; a [[d/_dupe|dupe]].**
-- **A [[s/_small|small]], [[h/_hollow|hollow]], [[f/_floating|floating]] [[b/_bead|bead]] or [[g/_globe|globe]], [[f/_formerly|formerly]] used for testing the strength of spirits.**
-- **The [[g/_globule|globule]] of [[a/_air|air]] in the [[c/_chamber|chamber]] of a spirit [[l/_level|level]].**
+- **A [[s/_small|small]], [[h/_hollow|hollow]], [[f/_floating|floating]] [[b/_bead|bead]] or [[g/_globe|globe]], [[f/_formerly|formerly]] used for testing the [[s/_strength|strength]] of [[s/_spirits|spirits]].**
+- **The [[g/_globule|globule]] of [[a/_air|air]] in the [[c/_chamber|chamber]] of a [[s/_spirit|spirit]] [[l/_level|level]].**
 - **A [[l/_laugh|laugh]].**
 	- _Example: Are you having a bubble?!_
 - **A [[g/_greek|Greek]].**

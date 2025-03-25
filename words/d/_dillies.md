@@ -7,6 +7,6 @@
 - **A [[d/_dilly|dilly]] [[b/_bag|bag]].**
 ---
 #noun
-- **A [[k/_kind|kind]] of stagecoach.**
+- **A [[k/_kind|kind]] of [[s/_stagecoach|stagecoach]].**
 ---
 ---

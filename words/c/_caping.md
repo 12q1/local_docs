@@ -10,7 +10,7 @@
 #verb
 - **To [[l/_look|look]] for, [[s/_search|search]] [[a/_after|after]].**
 	- _Example: Long may they search ere that they find that they after cape._
-- **To [[g/_gaze|gaze]] or stare.**
+- **To [[g/_gaze|gaze]] or [[s/_stare|stare]].**
 	- _Example: The captain just caped mindlessly into the distance as his ship was hit by volley after volley._
 ---
 ---

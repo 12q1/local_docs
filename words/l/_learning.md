@@ -5,7 +5,7 @@
 - **To [[a/_attend|attend]] a [[c/_course|course]] or [[o/_other|other]] [[e/_educational|educational]] [[a/_activity|activity]].**
 - **To [[g/_gain|gain]] [[k/_knowledge|knowledge]] from a [[b/_bad|bad]] [[e/_experience|experience]] [[s/_so|so]] as to [[i/_improve|improve]].**
 	- _Example: learn from one's mistakes_
-- **To study.**
+- **To [[s/_study|study]].**
 	- _Example: I learn medicine._
 - **To [[c/_come|come]] to [[k/_know|know]]; to [[b/_become|become]] [[i/_informed|informed]] of; to [[f/_find|find]] [[o/_out|out]].**
 	- _Example: He just learned that he will be sacked._

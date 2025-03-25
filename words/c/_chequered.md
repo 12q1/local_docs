@@ -5,7 +5,7 @@
 - **To [[d/_develop|develop]] [[m/_markings|markings]] in a [[p/_pattern|pattern]] of [[a/_alternating|alternating]] [[l/_light|light]] and [[d/_dark|dark]] [[p/_positions|positions]], [[l/_like|like]] a [[c/_checkerboard|checkerboard]].**
 ---
 #adjective
-- **[[d/_divided|Divided]] [[i/_into|into]] squares, or [[i/_into|into]] [[l/_light|light]] and [[d/_dark|dark]] [[p/_patches|patches]].**
+- **[[d/_divided|Divided]] [[i/_into|into]] [[s/_squares|squares]], or [[i/_into|into]] [[l/_light|light]] and [[d/_dark|dark]] [[p/_patches|patches]].**
 	- _Example: That is a checkered tablecloth._
 - **[[c/_changeable|Changeable]]; [[i/_inconsistent|inconsistent]]; [[h/_having|having]] variations or uncertainty.**
 	- _Example: I have a checkered past._

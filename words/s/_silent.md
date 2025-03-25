@@ -5,8 +5,8 @@
 - **A [[s/_silent|silent]] [[m/_movie|movie]]**
 ---
 #adjective
-- **[[f/_free|Free]] from [[s/_sound|sound]] or [[n/_noise|noise]]; [[a/_absolutely|absolutely]] still; [[p/_perfectly|perfectly]] [[q/_quiet|quiet]].**
-- **Not [[s/_speaking|speaking]]; [[i/_indisposed|indisposed]] to talk; speechless; [[m/_mute|mute]]; taciturn; not [[l/_loquacious|loquacious]]; not talkative.**
+- **[[f/_free|Free]] from [[s/_sound|sound]] or [[n/_noise|noise]]; [[a/_absolutely|absolutely]] [[s/_still|still]]; [[p/_perfectly|perfectly]] [[q/_quiet|quiet]].**
+- **Not [[s/_speaking|speaking]]; [[i/_indisposed|indisposed]] to talk; [[s/_speechless|speechless]]; [[m/_mute|mute]]; taciturn; not [[l/_loquacious|loquacious]]; not talkative.**
 - **[[k/_keeping|Keeping]] at [[r/_rest|rest]]; [[i/_inactive|inactive]]; [[c/_calm|calm]]; undisturbed.**
 	- _Example: The wind is silent._
 - **([[p/_pronunciation|pronunciation]]) Not [[p/_pronounced|pronounced]]; [[h/_having|having]] [[n/_no|no]] [[s/_sound|sound]]; [[q/_quiescent|quiescent]].**
@@ -22,7 +22,7 @@
 	- _Example: silent revisions; a silent emendation_
 - **Not [[i/_implying|implying]] [[s/_significant|significant]] [[m/_modifications|modifications]] which would [[a/_affect|affect]] a [[p/_peptide|peptide]] [[s/_sequence|sequence]].**
 - **Undiagnosed or undetected [[b/_because|because]] of an [[a/_absence|absence]] of [[s/_symptoms|symptoms]].**
-- **Of [[d/_distilled|distilled]] spirit: [[h/_having|having]] [[n/_no|no]] [[f/_flavour|flavour]] or [[o/_odour|odour]].**
+- **Of [[d/_distilled|distilled]] [[s/_spirit|spirit]]: [[h/_having|having]] [[n/_no|no]] [[f/_flavour|flavour]] or [[o/_odour|odour]].**
 ---
 ### Synonyms
 - [[q/_quiet|quiet]], [[c/_concealed|concealed]], [[i/_invisible|invisible]], [[o/_occluded|occluded]], [[d/_dormant|dormant]], [[s/_still|still]], [[m/_mute|mute]], [[q/_quiescent|quiescent]], [[s/_servile|servile]], [[s/_speechless|speechless]], [[t/_taciturn|taciturn]], [[d/_dumb|dumb]], [[m/_mute|mute]]

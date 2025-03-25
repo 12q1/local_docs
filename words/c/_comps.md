@@ -30,9 +30,9 @@
 - **[[s/_something|Something]] which is [[r/_regarded|regarded]] as an [[e/_equivalent|equivalent]]; [[s/_something|something]] which [[c/_compensates|compensates]] for [[l/_loss|loss]].**
 - **The [[e/_extinction|extinction]] of [[d/_debts|debts]] of which two [[p/_persons|persons]] are [[r/_reciprocally|reciprocally]] [[d/_debtors|debtors]] by the [[c/_credits|credits]] of which they are [[r/_reciprocally|reciprocally]] [[c/_creditors|creditors]]; the [[p/_payment|payment]] of a [[d/_debt|debt]] by a [[c/_credit|credit]] of [[e/_equal|equal]] [[a/_amount|amount]].**
 - **A [[r/_recompense|recompense]] or [[r/_reward|reward]] for [[s/_service|service]].**
-- **An [[e/_equivalent|equivalent]] stipulated for in [[c/_contracts|contracts]] for the [[s/_sale|sale]] of [[r/_real|real]] [[e/_estate|estate]], in which it is [[c/_customary|customary]] to [[p/_provide|provide]] that [[e/_errors|errors]] in [[d/_description|description]], [[e/_etc|etc]]., [[s/_shall|shall]] not [[a/_avoid|avoid]], but [[s/_shall|shall]] be the subject of [[c/_compensation|compensation]].**
+- **An [[e/_equivalent|equivalent]] [[s/_stipulated|stipulated]] for in [[c/_contracts|contracts]] for the [[s/_sale|sale]] of [[r/_real|real]] [[e/_estate|estate]], in which it is [[c/_customary|customary]] to [[p/_provide|provide]] that [[e/_errors|errors]] in [[d/_description|description]], [[e/_etc|etc]]., [[s/_shall|shall]] not [[a/_avoid|avoid]], but [[s/_shall|shall]] be the subject of [[c/_compensation|compensation]].**
 - **The [[r/_relationship|relationship]] [[b/_between|between]] [[a/_air|air]] temperature [[o/_outside|outside]] a [[b/_building|building]] and a [[c/_calculated|calculated]] target temperature for [[p/_provision|provision]] of [[a/_air|air]] or water to [[c/_contained|contained]] [[r/_rooms|rooms]] or [[s/_spaces|spaces]] for the [[p/_purpose|purpose]] of [[e/_efficient|efficient]] [[h/_heating|heating]]. In [[b/_building|building]] [[c/_control|control]] [[s/_systems|systems]] the [[c/_compensation|compensation]] [[c/_curve|curve]] is [[d/_defined|defined]] to a [[c/_compensator|compensator]] for this [[p/_purpose|purpose]].**
-- **The [[a/_ability|ability]] of [[o/_one|one]] [[p/_part|part]] of the [[b/_brain|brain]] to overfunction in [[o/_order|order]] to take [[o/_over|over]] the [[f/_function|function]] of a [[d/_damaged|damaged]] [[p/_part|part]] ([[e/_e|e]].[[g/_g|g]]. [[f/_following|following]] a stroke).**
+- **The [[a/_ability|ability]] of [[o/_one|one]] [[p/_part|part]] of the [[b/_brain|brain]] to overfunction in [[o/_order|order]] to take [[o/_over|over]] the [[f/_function|function]] of a [[d/_damaged|damaged]] [[p/_part|part]] ([[e/_e|e]].[[g/_g|g]]. [[f/_following|following]] a [[s/_stroke|stroke]]).**
 ---
 ### Synonyms
 - [[r/_restitution|restitution]], [[r/_restitution|restitution]], [[a/_amends|amends]], [[r/_recompense|recompense]], [[r/_remuneration|remuneration]], [[s/_set-off|set-off]]
@@ -60,7 +60,7 @@
 ---
 #noun
 - **A [[m/_mixture|mixture]] of [[d/_different|different]] [[c/_components|components]].**
-- **A structural [[m/_material|material]] that [[g/_gains|gains]] [[i/_its|its]] strength from a [[c/_combination|combination]] of [[c/_complementary|complementary]] [[m/_materials|materials]].**
+- **A [[s/_structural|structural]] [[m/_material|material]] that [[g/_gains|gains]] [[i/_its|its]] [[s/_strength|strength]] from a [[c/_combination|combination]] of [[c/_complementary|complementary]] [[m/_materials|materials]].**
 - **A [[p/_plant|plant]] [[b/_belonging|belonging]] to the [[f/_family|family]] [[a/_asteraceae|Asteraceae]], [[s/_syn|syn]]. [[c/_compositae|Compositae]].**
 - **A [[f/_function|function]] of a [[f/_function|function]].**
 - **([[c/_chiefly|chiefly]] [[l/_law|law]] [[e/_enforcement|enforcement]]) A [[d/_drawing|drawing]], [[p/_photograph|photograph]], [[e/_etc|etc]]. that [[c/_combines|combines]] [[s/_several|several]] [[s/_separate|separate]] [[p/_pictures|pictures]] or [[i/_images|images]].**
@@ -75,7 +75,7 @@
 - **A [[m/_mixture|mixture]] or [[c/_compound|compound]]; the [[r/_result|result]] of [[c/_composing|composing]].**
 - **The [[p/_proportion|proportion]] of [[d/_different|different]] [[p/_parts|parts]] to [[m/_make|make]] a whole.**
 - **The [[g/_general|general]] [[m/_makeup|makeup]] of a thing or [[p/_person|person]].**
-- **An [[a/_agreement|agreement]] or treaty used to [[s/_settle|settle]] [[d/_differences|differences]]; [[l/_later|later]] [[e/_especially|especially]], an [[a/_agreement|agreement]] to stop [[h/_hostilities|hostilities]]; a truce.**
+- **An [[a/_agreement|agreement]] or treaty used to [[s/_settle|settle]] [[d/_differences|differences]]; [[l/_later|later]] [[e/_especially|especially]], an [[a/_agreement|agreement]] to [[s/_stop|stop]] [[h/_hostilities|hostilities]]; a truce.**
 - **A [[p/_payment|payment]] of [[m/_money|money]] in [[o/_order|order]] to [[c/_clear|clear]] a [[l/_liability|liability]] or [[o/_obligation|obligation]]; a [[s/_settling|settling]] or [[f/_fine|fine]].**
 - **An [[a/_agreement|agreement]] or [[c/_compromise|compromise]] by which a [[c/_creditor|creditor]] or [[g/_group|group]] of [[c/_creditors|creditors]] [[a/_accepts|accepts]] [[p/_partial|partial]] [[p/_payment|payment]] from a [[d/_debtor|debtor]].**
 - **An [[e/_essay|essay]].**
@@ -105,12 +105,12 @@
 #noun
 - **A [[p/_person|person]] [[e/_employed|employed]] to [[p/_perform|perform]] [[c/_computations|computations]]; [[o/_one|one]] who [[c/_computes|computes]].**
 - **(by [[r/_restriction|restriction]]) A [[m/_male|male]] [[c/_computer|computer]], where the [[f/_female|female]] [[c/_computer|computer]] is [[c/_called|called]] a computress.**
-- **A [[p/_programmable|programmable]] [[e/_electronic|electronic]] [[d/_device|device]] that [[p/_performs|performs]] [[m/_mathematical|mathematical]] [[c/_calculations|calculations]] and [[l/_logical|logical]] [[o/_operations|operations]], [[e/_especially|especially]] [[o/_one|one]] that [[c/_can|can]] [[p/_process|process]], store and [[r/_retrieve|retrieve]] [[l/_large|large]] [[a/_amounts|amounts]] of [[d/_data|data]] very [[q/_quickly|quickly]]; [[n/_now|now]] [[e/_especially|especially]], a [[s/_small|small]] [[o/_one|one]] for [[p/_personal|personal]] or [[h/_home|home]] use [[e/_employed|employed]] for [[m/_manipulating|manipulating]] text or [[g/_graphics|graphics]], [[a/_accessing|accessing]] the [[i/_internet|Internet]], or [[p/_playing|playing]] [[g/_games|games]] or [[m/_media|media]].**
+- **A [[p/_programmable|programmable]] [[e/_electronic|electronic]] [[d/_device|device]] that [[p/_performs|performs]] [[m/_mathematical|mathematical]] [[c/_calculations|calculations]] and [[l/_logical|logical]] [[o/_operations|operations]], [[e/_especially|especially]] [[o/_one|one]] that [[c/_can|can]] [[p/_process|process]], [[s/_store|store]] and [[r/_retrieve|retrieve]] [[l/_large|large]] [[a/_amounts|amounts]] of [[d/_data|data]] very [[q/_quickly|quickly]]; [[n/_now|now]] [[e/_especially|especially]], a [[s/_small|small]] [[o/_one|one]] for [[p/_personal|personal]] or [[h/_home|home]] use [[e/_employed|employed]] for [[m/_manipulating|manipulating]] text or [[g/_graphics|graphics]], [[a/_accessing|accessing]] the [[i/_internet|Internet]], or [[p/_playing|playing]] [[g/_games|games]] or [[m/_media|media]].**
 ---
 ### Synonyms
 - [['/_'puter|'puter]], [[b/_box|box]], [[c/_calculator|calculator]], [[m/_machine|machine]], [[p/_processor|processor]]
 #noun
-- **The study of [[c/_computers|computers]] and their [[a/_architecture|architecture]], [[l/_languages|languages]], and [[a/_applications|applications]], in [[a/_all|all]] [[a/_aspects|aspects]], as well as the [[m/_mathematical|mathematical]] structures that [[r/_relate|relate]] to [[c/_computers|computers]] and [[c/_computation|computation]].**
+- **The [[s/_study|study]] of [[c/_computers|computers]] and their [[a/_architecture|architecture]], [[l/_languages|languages]], and [[a/_applications|applications]], in [[a/_all|all]] [[a/_aspects|aspects]], as well as the [[m/_mathematical|mathematical]] [[s/_structures|structures]] that [[r/_relate|relate]] to [[c/_computers|computers]] and [[c/_computation|computation]].**
 ---
 ### Synonyms
 - [[C/_CS|CS]], [[c/_computing|computing]], [[d/_datalogy|datalogy]]

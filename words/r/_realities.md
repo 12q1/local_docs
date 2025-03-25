@@ -1,7 +1,7 @@
 # Realities
 ---
 #noun
-- **The state of [[b/_being|being]] [[a/_actual|actual]] or [[r/_real|real]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[a/_actual|actual]] or [[r/_real|real]].**
 	- _Example: The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend._
 - **A [[r/_real|real]] [[e/_entity|entity]], [[e/_event|event]] or [[o/_other|other]] [[f/_fact|fact]].**
 	- _Example: The ultimate reality of life is that it ends in death._

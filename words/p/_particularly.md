@@ -4,7 +4,7 @@
 - **([[f/_focus|focus]]) [[e/_especially|Especially]], [[e/_extremely|extremely]].**
 	- _Example: The apéritifs were particularly stimulating._
 - **([[d/_degree|degree]]) To a [[g/_great|great]] [[e/_extent|extent]].**
-- **Specifically, uniquely or [[i/_individually|individually]].**
+- **[[s/_specifically|Specifically]], uniquely or [[i/_individually|individually]].**
 - **In [[d/_detail|detail]]; with [[r/_regard|regard]] to [[p/_particulars|particulars]].**
 - **In a [[p/_particular|particular]] [[m/_manner|manner]]; [[f/_fussily|fussily]].**
 ---

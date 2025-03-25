@@ -5,7 +5,7 @@
 	- _Example: The bursts of the bombs could be heard miles away._
 - **A sudden, [[o/_often|often]] [[i/_intense|intense]], [[e/_expression|expression]], [[m/_manifestation|manifestation]] or [[d/_display|display]].**
 - **A [[s/_series|series]] of [[s/_shots|shots]] [[f/_fired|fired]] from an [[a/_automatic|automatic]] [[f/_firearm|firearm]].**
-- **A [[d/_drinking|drinking]] spree.**
+- **A [[d/_drinking|drinking]] [[s/_spree|spree]].**
 ---
 ### Synonyms
 - [[s/_spurt|spurt]]
@@ -18,7 +18,7 @@
 - **To [[s/_separate|separate]] ([[p/_printer|printer]] [[p/_paper|paper]]) at [[p/_perforation|perforation]] [[l/_lines|lines]].**
 	- _Example: I printed the report on form-feed paper, then burst the sheets._
 - **To [[e/_enter|enter]] or [[e/_exit|exit]] [[h/_hurriedly|hurriedly]] and unexpectedly.**
-- **To [[e/_erupt|erupt]]; to [[c/_change|change]] state suddenly as [[i/_if|if]] [[b/_bursting|bursting]].**
+- **To [[e/_erupt|erupt]]; to [[c/_change|change]] [[s/_state|state]] suddenly as [[i/_if|if]] [[b/_bursting|bursting]].**
 	- _Example: The flowers burst into bloom on the first day of spring._
 - **To [[p/_produce|produce]] as an [[e/_effect|effect]] of [[b/_bursting|bursting]].**
 	- _Example: to burst a hole through the wall_

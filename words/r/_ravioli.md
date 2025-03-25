@@ -1,7 +1,7 @@
 # Ravioli
 ---
 #noun
-- **[[s/_small|Small]] square [[p/_parcels|parcels]] of [[p/_pasta|pasta]] [[f/_filled|filled]] with [[m/_meat|meat]], [[c/_cheese|cheese]], spinach [[e/_etc|etc]].**
+- **[[s/_small|Small]] [[s/_square|square]] [[p/_parcels|parcels]] of [[p/_pasta|pasta]] [[f/_filled|filled]] with [[m/_meat|meat]], [[c/_cheese|cheese]], [[s/_spinach|spinach]] [[e/_etc|etc]].**
 - **A [[d/_dish|dish]] [[m/_made|made]] with [[r/_ravioli|ravioli]].**
 - **By [[a/_analogy|analogy]], [[s/_similar|similar]] [[d/_dishes|dishes]]/[[p/_pastas|pastas]] from [[n/_non|non]]-[[i/_italian|Italian]] [[c/_cuisines|cuisines]].**
 ---

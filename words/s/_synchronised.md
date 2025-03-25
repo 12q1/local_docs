@@ -1,7 +1,7 @@
 # Synchronised
 ---
 #adjective
-- **[[o/_operating|Operating]] in unison, in a state of [[s/_synchronisation|synchronisation]].**
+- **[[o/_operating|Operating]] in unison, in a [[s/_state|state]] of [[s/_synchronisation|synchronisation]].**
 ---
 #verb
 - **To [[c/_cause|cause]] two or [[m/_more|more]] [[e/_events|events]] or [[a/_actions|actions]] to [[h/_happen|happen]] at [[e/_exactly|exactly]] the [[s/_same|same]] time or [[s/_same|same]] [[r/_rate|rate]], or in a time-[[c/_coordinated|coordinated]] way.**

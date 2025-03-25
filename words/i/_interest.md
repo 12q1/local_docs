@@ -7,7 +7,7 @@
 - **A [[g/_great|great]] [[a/_attention|attention]] and [[c/_concern|concern]] from [[s/_someone|someone]] or [[s/_something|something]]; [[i/_intellectual|intellectual]] [[c/_curiosity|curiosity]].**
 	- _Example: He has a lot of interest in vintage cars._
 - **[[a/_attention|Attention]] that is [[g/_given|given]] to or [[r/_received|received]] from [[s/_someone|someone]] or [[s/_something|something]].**
-- **An [[i/_involvement|involvement]], [[c/_claim|claim]], [[r/_right|right]], [[s/_share|share]], stake in or [[l/_link|link]] with a [[f/_financial|financial]], [[b/_business|business]], or [[o/_other|other]] undertaking or [[e/_endeavor|endeavor]].**
+- **An [[i/_involvement|involvement]], [[c/_claim|claim]], [[r/_right|right]], [[s/_share|share]], [[s/_stake|stake]] in or [[l/_link|link]] with a [[f/_financial|financial]], [[b/_business|business]], or [[o/_other|other]] undertaking or [[e/_endeavor|endeavor]].**
 	- _Example: I have business interests in South Africa._
 - **[[s/_something|Something]] or [[s/_someone|someone]] [[o/_one|one]] is [[i/_interested|interested]] in.**
 	- _Example: Lexicography is one of my interests._

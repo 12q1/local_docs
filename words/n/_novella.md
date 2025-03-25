@@ -11,7 +11,7 @@
 - **A [[n/_new|new]] [[l/_legal|legal]] [[c/_constitution|constitution]] in [[a/_ancient|ancient]] [[r/_rome|Rome]].**
 ---
 #noun
-- **A [[s/_short|short]] [[n/_novel|novel]] or [[l/_long|long]] [[s/_short|short]] story.**
+- **A [[s/_short|short]] [[n/_novel|novel]] or [[l/_long|long]] [[s/_short|short]] [[s/_story|story]].**
 ---
 ### Synonyms
 - [[n/_novelette|novelette]]

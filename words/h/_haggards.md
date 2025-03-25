@@ -7,7 +7,7 @@
 - **A [[h/_hag|hag]].**
 ---
 #noun
-- **([[i/_isle|Isle]] of [[m/_man|Man]]) A stackyard, an [[e/_enclosure|enclosure]] on a [[f/_farm|farm]] for stacking [[g/_grain|grain]], [[h/_hay|hay]], [[e/_etc|etc]].**
+- **([[i/_isle|Isle]] of [[m/_man|Man]]) A [[s/_stackyard|stackyard]], an [[e/_enclosure|enclosure]] on a [[f/_farm|farm]] for [[s/_stacking|stacking]] [[g/_grain|grain]], [[h/_hay|hay]], [[e/_etc|etc]].**
 	- _Example: He tuk a slew [swerve] round the haggard http//www.isle-of-man.com/manxnotebook/fulltext/am1924/pt_s.htm_
 ---
 ---

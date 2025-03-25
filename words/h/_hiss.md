@@ -1,7 +1,7 @@
 # Hiss
 ---
 #noun
-- **A [[s/_sibilant|sibilant]] [[s/_sound|sound]], such as that [[m/_made|made]] by a [[s/_snake|snake]] or [[e/_escaping|escaping]] steam; an unvoiced [[f/_fricative|fricative]].**
+- **A [[s/_sibilant|sibilant]] [[s/_sound|sound]], such as that [[m/_made|made]] by a [[s/_snake|snake]] or [[e/_escaping|escaping]] [[s/_steam|steam]]; an unvoiced [[f/_fricative|fricative]].**
 - **An [[e/_expression|expression]] of [[d/_disapproval|disapproval]] [[m/_made|made]] using such a [[s/_sound|sound]].**
 ---
 #verb

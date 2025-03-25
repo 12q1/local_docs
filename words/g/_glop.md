@@ -1,6 +1,6 @@
 # Glop
 ---
 #verb
-- **To stare in [[a/_amazement|amazement]].**
+- **To [[s/_stare|stare]] in [[a/_amazement|amazement]].**
 ---
 ---

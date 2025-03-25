@@ -11,9 +11,9 @@
 - **To [[a/_administer|administer]] [[m/_medicine|medicine]] to, [[e/_especially|especially]] a [[p/_purgative|purgative]].**
 ---
 #noun
-- **The [[b/_branch|branch]] of [[s/_science|science]] [[c/_concerned|concerned]] with the study of the [[p/_properties|properties]] and [[i/_interactions|interactions]] of [[s/_space|space]], time, [[m/_matter|matter]] and [[e/_energy|energy]].**
+- **The [[b/_branch|branch]] of [[s/_science|science]] [[c/_concerned|concerned]] with the [[s/_study|study]] of the [[p/_properties|properties]] and [[i/_interactions|interactions]] of [[s/_space|space]], time, [[m/_matter|matter]] and [[e/_energy|energy]].**
 	- _Example: Newtonian physics was extended by Einstein to explain the effects of travelling near the speed of light; quantum physics extends it to account for the behaviour of atoms._
-- **The [[p/_physical|physical]] [[a/_aspects|aspects]] of a [[p/_phenomenon|phenomenon]] or a [[s/_system|system]], [[e/_especially|especially]] those studied [[s/_scientifically|scientifically]].**
+- **The [[p/_physical|physical]] [[a/_aspects|aspects]] of a [[p/_phenomenon|phenomenon]] or a [[s/_system|system]], [[e/_especially|especially]] those [[s/_studied|studied]] [[s/_scientifically|scientifically]].**
 	- _Example: The physics of car crashes would not let Tom Cruise walk away like that._
 ---
 ### Antonyms

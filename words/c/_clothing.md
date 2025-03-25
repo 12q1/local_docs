@@ -13,7 +13,7 @@
 - **An [[a/_act|act]] or [[i/_instance|instance]] of [[p/_putting|putting]] [[c/_clothes|clothes]] on.**
 	- _Example: The clothing and unclothing of the idols was of special significance._
 - **The [[a/_art|art]] or [[p/_process|process]] of [[m/_making|making]] [[c/_cloth|cloth]].**
-- **A [[c/_covering|covering]] of [[n/_non|non]]-[[c/_conducting|conducting]] [[m/_material|material]] on the [[o/_outside|outside]] of a [[b/_boiler|boiler]], or steam [[c/_chamber|chamber]], to [[p/_prevent|prevent]] [[r/_radiation|radiation]] of [[h/_heat|heat]].**
+- **A [[c/_covering|covering]] of [[n/_non|non]]-[[c/_conducting|conducting]] [[m/_material|material]] on the [[o/_outside|outside]] of a [[b/_boiler|boiler]], or [[s/_steam|steam]] [[c/_chamber|chamber]], to [[p/_prevent|prevent]] [[r/_radiation|radiation]] of [[h/_heat|heat]].**
 ---
 ### Synonyms
 - [[a/_apparel|apparel]], [[a/_attire|attire]], [[c/_clothes|clothes]]

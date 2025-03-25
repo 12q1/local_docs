@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[r/_refuse|refuse]] [[m/_matter|matter]] that [[r/_remains|remains]] [[a/_after|after]] [[f/_fruit|fruit]], [[p/_particularly|particularly]] [[g/_grapes|grapes]], [[h/_has|has]] [[b/_been|been]] [[p/_pressed|pressed]].**
-- **An [[a/_alcoholic|alcoholic]] spirit [[d/_distilled|distilled]] from the [[m/_marc|marc]] of [[g/_grapes|grapes]].**
+- **An [[a/_alcoholic|alcoholic]] [[s/_spirit|spirit]] [[d/_distilled|distilled]] from the [[m/_marc|marc]] of [[g/_grapes|grapes]].**
 ---
 #noun
 - **A weight of various [[c/_commodities|commodities]], [[e/_especially|especially]] of [[g/_gold|gold]] and [[s/_silver|silver]], used in [[d/_different|different]] [[e/_european|European]] [[c/_countries|countries]]. In [[f/_france|France]] and [[h/_holland|Holland]] it was [[e/_equal|equal]] to [[e/_eight|eight]] [[o/_ounces|ounces]].**

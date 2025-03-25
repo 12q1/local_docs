@@ -9,7 +9,7 @@
 ### Antonyms
 - [[d/_disincentive|disincentive]]
 #adjective
-- **[[i/_inciting|Inciting]]; [[e/_encouraging|encouraging]] or [[m/_moving|moving]]; [[r/_rousing|rousing]] to [[a/_action|action]]; stimulating.**
+- **[[i/_inciting|Inciting]]; [[e/_encouraging|encouraging]] or [[m/_moving|moving]]; [[r/_rousing|rousing]] to [[a/_action|action]]; [[s/_stimulating|stimulating]].**
 - **[[s/_serving|Serving]] to [[k/_kindle|kindle]] or [[s/_set|set]] on [[f/_fire|fire]].**
 ---
 ---

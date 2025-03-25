@@ -3,7 +3,7 @@
 #noun
 - **([[o/_often|often]] with of, typically of [[a/_adverse|adverse]] [[r/_results|results]]) The [[s/_source|source]] of, or [[r/_reason|reason]] for, an [[e/_event|event]] or [[a/_action|action]]; that which [[p/_produces|produces]] or [[e/_effects|effects]] a [[r/_result|result]].**
 	- _Example: They identified a burst pipe as the cause of the flooding._
-- **([[e/_especially|especially]] with for and a [[b/_bare|bare]] [[n/_noun|noun]]) Sufficient [[r/_reason|reason]] for a state, as of [[e/_emotion|emotion]].**
+- **([[e/_especially|especially]] with for and a [[b/_bare|bare]] [[n/_noun|noun]]) Sufficient [[r/_reason|reason]] for a [[s/_state|state]], as of [[e/_emotion|emotion]].**
 	- _Example: The end of the war was a cause for celebration._
 - **A [[g/_goal|goal]], [[a/_aim|aim]] or [[p/_principle|principle]], [[e/_especially|especially]] [[o/_one|one]] which transcends [[p/_purely|purely]] [[s/_selfish|selfish]] [[e/_ends|ends]].**
 - **[[s/_sake|Sake]]; [[i/_interest|interest]]; [[a/_advantage|advantage]].**

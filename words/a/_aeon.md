@@ -1,7 +1,7 @@
 # Aeon
 ---
 #noun
-- **([[p/_preferred|preferred]] spelling, with æon) A spirit [[b/_being|being]] [[e/_emanating|emanating]] from the [[g/_godhead|Godhead]].**
+- **([[p/_preferred|preferred]] [[s/_spelling|spelling]], with æon) A [[s/_spirit|spirit]] [[b/_being|being]] [[e/_emanating|emanating]] from the [[g/_godhead|Godhead]].**
 - **([[c/_cosmology|Cosmology]]) [[e/_each|Each]] universe in a [[s/_series|series]] of universes, [[a/_according|according]] to [[c/_conformal|conformal]] [[c/_cyclic|cyclic]] [[c/_cosmology|cosmology]].**
 ---
 #noun
@@ -10,6 +10,6 @@
 - **The [[l/_longest|longest]] time [[p/_period|period]] used in [[g/_geology|geology]].**
 - **A [[l/_long|long]] [[p/_period|period]] of time.**
 	- _Example: It's been eons since we last saw each other._
-- **(usually spelled [[a/_aeon|aeon]] or æon) A spirit [[b/_being|being]] [[e/_emanating|emanating]] from the [[g/_godhead|Godhead]].**
+- **(usually [[s/_spelled|spelled]] [[a/_aeon|aeon]] or æon) A [[s/_spirit|spirit]] [[b/_being|being]] [[e/_emanating|emanating]] from the [[g/_godhead|Godhead]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Jots
 ---
 #noun
-- **[[i/_iota|Iota]]; the [[s/_smallest|smallest]] [[l/_letter|letter]] or stroke of [[a/_any|any]] writing.**
+- **[[i/_iota|Iota]]; the [[s/_smallest|smallest]] [[l/_letter|letter]] or [[s/_stroke|stroke]] of [[a/_any|any]] writing.**
 - **A [[s/_small|small]] [[a/_amount|amount]], [[b/_bit|bit]]; the [[s/_smallest|smallest]] [[a/_amount|amount]].**
 	- _Example: He didn't care a jot for his work._
 - **[[m/_moment|Moment]], [[i/_instant|instant]].**

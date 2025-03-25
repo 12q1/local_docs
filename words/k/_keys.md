@@ -3,20 +3,20 @@
 #noun
 - **An [[o/_object|object]] [[d/_designed|designed]] to [[o/_open|open]] and [[c/_close|close]] a [[l/_lock|lock]].**
 - **An [[o/_object|object]] [[d/_designed|designed]] to [[f/_fit|fit]] [[b/_between|between]] two [[o/_other|other]] [[o/_objects|objects]] (such as a [[s/_shaft|shaft]] and a wheel) in a [[m/_mechanism|mechanism]] and [[m/_maintain|maintain]] their [[r/_relative|relative]] [[o/_orientation|orientation]].**
-- **A [[c/_crucial|crucial]] step or [[r/_requirement|requirement]].**
+- **A [[c/_crucial|crucial]] [[s/_step|step]] or [[r/_requirement|requirement]].**
 	- _Example: The key to solving this problem is persistence._
 - **A [[g/_guide|guide]] [[e/_explaining|explaining]] the [[s/_symbols|symbols]] or terminology of a [[m/_map|map]] or [[c/_chart|chart]]; a [[l/_legend|legend]].**
 	- _Example: The key says that A stands for the accounting department._
 - **A [[g/_guide|guide]] to the [[c/_correct|correct]] [[a/_answers|answers]] of a worksheet or test.**
 	- _Example: Some students cheated by using the answer key._
-- **[[o/_one|One]] of [[s/_several|several]] [[s/_small|small]], usually square [[b/_buttons|buttons]] on a typewriter or [[c/_computer|computer]] [[k/_keyboard|keyboard]], [[m/_mostly|mostly]] [[c/_corresponding|corresponding]] to text [[c/_characters|characters]].**
+- **[[o/_one|One]] of [[s/_several|several]] [[s/_small|small]], usually [[s/_square|square]] [[b/_buttons|buttons]] on a typewriter or [[c/_computer|computer]] [[k/_keyboard|keyboard]], [[m/_mostly|mostly]] [[c/_corresponding|corresponding]] to text [[c/_characters|characters]].**
 	- _Example: Press the Escape key._
 - **In [[m/_musical|musical]] [[i/_instruments|instruments]], [[o/_one|one]] of the valve [[l/_levers|levers]] used to [[s/_select|select]] [[n/_notes|notes]], such as a [[l/_lever|lever]] [[o/_opening|opening]] a [[h/_hole|hole]] on a woodwind.**
 - **In [[i/_instruments|instruments]] with a [[k/_keyboard|keyboard]] such as an [[o/_organ|organ]] or [[p/_piano|piano]], [[o/_one|one]] of the [[l/_levers|levers]], or [[e/_especially|especially]] the [[e/_exposed|exposed]] [[f/_front|front]] [[e/_end|end]] of it, which are [[d/_depressed|depressed]] to [[c/_cause|cause]] a [[p/_particular|particular]] [[s/_sound|sound]] or [[n/_note|note]] to be [[p/_produced|produced]].**
 - **The [[l/_lowest|lowest]] [[n/_note|note]] of a [[s/_scale|scale]]; [[k/_keynote|keynote]].**
 - **In [[m/_musical|musical]] theory, the total [[m/_melodic|melodic]] and [[h/_harmonic|harmonic]] [[r/_relations|relations]], which [[e/_exist|exist]] [[b/_between|between]] the tones of an [[i/_ideal|ideal]] [[s/_scale|scale]], [[m/_major|major]] or [[m/_minor|minor]]; tonality.**
 - **In [[m/_musical|musical]] theory and [[n/_notation|notation]], the tonality [[c/_centering|centering]] in a [[g/_given|given]] tone, or the [[s/_several|several]] tones taken [[c/_collectively|collectively]], of a [[g/_given|given]] [[s/_scale|scale]], [[m/_major|major]] or [[m/_minor|minor]].**
-- **In [[m/_musical|musical]] [[n/_notation|notation]], a [[s/_sign|sign]] at the [[h/_head|head]] of a staff [[i/_indicating|indicating]] the [[m/_musical|musical]] [[k/_key|key]].**
+- **In [[m/_musical|musical]] [[n/_notation|notation]], a [[s/_sign|sign]] at the [[h/_head|head]] of a [[s/_staff|staff]] [[i/_indicating|indicating]] the [[m/_musical|musical]] [[k/_key|key]].**
 - **The [[g/_general|general]] [[p/_pitch|pitch]] or tone of a [[s/_sentence|sentence]] or utterance.**
 - **A [[m/_modification|modification]] of an [[a/_advertisement|advertisement]] [[s/_so|so]] as to target a [[p/_particular|particular]] [[g/_group|group]] or [[d/_demographic|demographic]].**
 - **An [[i/_indehiscent|indehiscent]], [[o/_one|one]]-[[s/_seeded|seeded]] [[f/_fruit|fruit]] [[f/_furnished|furnished]] with a wing, such as the [[f/_fruit|fruit]] of the [[a/_ash|ash]] and [[m/_maple|maple]]; a [[s/_samara|samara]].**
@@ -56,7 +56,7 @@
 - **To [[f/_fasten|fasten]] or [[s/_secure|secure]] [[f/_firmly|firmly]]; to [[f/_fasten|fasten]] or tighten with [[k/_keys|keys]] or wedges.**
 ---
 #noun
-- **[[o/_one|One]] of a string of [[s/_small|small]] [[i/_islands|islands]].**
+- **[[o/_one|One]] of a [[s/_string|string]] of [[s/_small|small]] [[i/_islands|islands]].**
 	- _Example: the Florida Keys_
 ---
 #noun
@@ -66,6 +66,6 @@
 ### Synonyms
 - [[k/_kg|kg]], [[k/_kilo|kilo]]
 #noun
-- **A stone or [[c/_concrete|concrete]] structure on [[n/_navigable|navigable]] water used for [[l/_loading|loading]] and unloading vessels; a wharf.**
+- **A [[s/_stone|stone]] or [[c/_concrete|concrete]] [[s/_structure|structure]] on [[n/_navigable|navigable]] water used for [[l/_loading|loading]] and unloading vessels; a wharf.**
 ---
 ---

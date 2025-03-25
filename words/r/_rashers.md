@@ -1,7 +1,7 @@
 # Rashers
 ---
 #noun
-- **A strip of [[b/_bacon|bacon]].**
+- **A [[s/_strip|strip]] of [[b/_bacon|bacon]].**
 ---
 ### Synonyms
 - [[c/_collop|collop]], [[s/_slice|slice]], [[s/_strip|strip]]

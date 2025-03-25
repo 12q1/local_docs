@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[l/_later|Later]]; [[s/_second|second]] (of two); [[n/_next|next]], [[f/_following|following]], subsequent**
-- **(where the [[f/_frame|frame]] of [[r/_reference|reference]] is within the [[s/_ship|ship]]) At or towards the stern of a [[s/_ship|ship]].**
+- **(where the [[f/_frame|frame]] of [[r/_reference|reference]] is within the [[s/_ship|ship]]) At or towards the [[s/_stern|stern]] of a [[s/_ship|ship]].**
 	- _Example: The after gun is abaft the forward gun._
 ---
 #adverb
@@ -22,7 +22,7 @@
 	- _Example: The princess is next in line to the throne after the prince._
 - **As a [[r/_result|result]] of.**
 	- _Example: After your bad behaviour, you will be punished._
-- **In spite of.**
+- **In [[s/_spite|spite]] of.**
 	- _Example: After all that has happened, he is still my friend._
 - **(usually [[p/_preceded|preceded]] by a [[f/_form|form]] of be, [[f/_followed|followed]] by an -[[i/_ing|ing]] [[f/_form|form]] of a verb) Used to [[i/_indicate|indicate]] [[r/_recent|recent]] [[c/_completion|completion]] of an [[a/_activity|activity]]**
 	- _Example: I was after finishing my dinner when there was a knock on the door._
@@ -34,7 +34,7 @@
 ### Synonyms
 - [[p/_post|post]]
 #conjunction
-- **[[s/_signifies|Signifies]] that the [[a/_action|action]] of the [[c/_clause|clause]] it starts takes [[p/_place|place]] [[b/_before|before]] the [[a/_action|action]] of the [[o/_other|other]] [[c/_clause|clause]].**
+- **[[s/_signifies|Signifies]] that the [[a/_action|action]] of the [[c/_clause|clause]] it [[s/_starts|starts]] takes [[p/_place|place]] [[b/_before|before]] the [[a/_action|action]] of the [[o/_other|other]] [[c/_clause|clause]].**
 	- _Example: I went home after we had decided to call it a day._
 ---
 ---

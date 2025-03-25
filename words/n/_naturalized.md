@@ -8,7 +8,7 @@
 - **To [[l/_limit|limit]] [[e/_explanations|explanations]] of a [[p/_phenomenon|phenomenon]] to [[n/_naturalistic|naturalistic]] [[o/_ones|ones]] and [[e/_exclude|exclude]] supernatural [[o/_ones|ones]]**
 - **To [[m/_make|make]] (a word) a [[n/_natural|natural]] [[p/_part|part]] of the [[l/_language|language]].**
 	- _Example: English speakers have naturalized the French word "café"._
-- **To study [[n/_nature|nature]].**
+- **To [[s/_study|study]] [[n/_nature|nature]].**
 ---
 ### Antonyms
 - [[s/_supernaturalize|supernaturalize]]

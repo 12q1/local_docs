@@ -6,6 +6,6 @@
 ### Antonyms
 - [[t/_trochaic|trochaic]]
 #adjective
-- **[[c/_consisting|Consisting]] of [[i/_iambs|iambs]] ([[m/_metrical|metrical]] [[f/_feet|feet]] with an unstressed-stressed [[p/_pattern|pattern]]) or [[c/_characterized|characterized]] by their [[p/_predominance|predominance]].**
+- **[[c/_consisting|Consisting]] of [[i/_iambs|iambs]] ([[m/_metrical|metrical]] [[f/_feet|feet]] with an unstressed-[[s/_stressed|stressed]] [[p/_pattern|pattern]]) or [[c/_characterized|characterized]] by their [[p/_predominance|predominance]].**
 ---
 ---

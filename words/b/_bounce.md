@@ -28,7 +28,7 @@
 	- _Example: He bounced the child on his knee._
 - **To suggest or [[i/_introduce|introduce]] (an [[i/_idea|idea]], [[e/_etc|etc]].) to ([[o/_off|off]] or by) [[s/_somebody|somebody]], in [[o/_order|order]] to [[g/_gain|gain]] [[f/_feedback|feedback]].**
 	- _Example: I'm meeting Bob later to bounce some ideas off him about the new product range._
-- **To [[l/_leap|leap]] or spring suddenly or unceremoniously; to [[b/_bound|bound]].**
+- **To [[l/_leap|leap]] or [[s/_spring|spring]] suddenly or unceremoniously; to [[b/_bound|bound]].**
 	- _Example: She bounced happily into the room._
 - **To [[m/_move|move]] [[r/_rapidly|rapidly]] ([[b/_between|between]]).**
 - **(of a [[c/_cheque|cheque]]/[[c/_check|check]]) To be [[r/_refused|refused]] by a [[b/_bank|bank]] [[b/_because|because]] it is [[d/_drawn|drawn]] on [[i/_insufficient|insufficient]] [[f/_funds|funds]].**
@@ -52,7 +52,7 @@
 - **([[s/_sound|sound]] [[r/_recording|recording]]) To [[m/_mix|mix]] (two or [[m/_more|more]] tracks of a [[m/_multi|multi]]-track [[a/_audio|audio]] tape [[r/_recording|recording]]) and [[r/_record|record]] the [[r/_result|result]] [[o/_onto|onto]] a [[s/_single|single]] track, in [[o/_order|order]] to [[f/_free|free]] up tracks for [[f/_further|further]] [[m/_material|material]] to be [[a/_added|added]].**
 	- _Example: Bounce tracks two and three to track four, then record the cowbell on track two._
 - **To [[b/_bully|bully]]; to [[s/_scold|scold]].**
-- **To strike or thump, [[s/_so|so]] as to [[r/_rebound|rebound]], or to [[m/_make|make]] a sudden [[n/_noise|noise]]; to [[k/_knock|knock]] [[l/_loudly|loudly]].**
+- **To [[s/_strike|strike]] or thump, [[s/_so|so]] as to [[r/_rebound|rebound]], or to [[m/_make|make]] a sudden [[n/_noise|noise]]; to [[k/_knock|knock]] [[l/_loudly|loudly]].**
 - **To [[b/_boast|boast]]; to [[b/_bluster|bluster]].**
 ---
 ### Synonyms

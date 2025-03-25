@@ -1,7 +1,7 @@
 # Sho
 ---
 #adverb
-- **To the ([[e/_explicitly|explicitly]] stated) [[e/_extent|extent]] that.**
+- **To the ([[e/_explicitly|explicitly]] [[s/_stated|stated]]) [[e/_extent|extent]] that.**
 	- _Example: It was so hot outside that all the plants died.  He was so good, they hired him on the spot._
 - **To the ([[i/_implied|implied]]) [[e/_extent|extent]].**
 	- _Example: I need a piece of cloth so long. [= this long]_

@@ -3,7 +3,7 @@
 #adjective
 - **Willing to [[c/_comply|comply]]; submissive; willing to [[d/_do|do]] what [[s/_someone|someone]] wants.**
 	- _Example: Tendon is compliant compared to bone._
-- **[[c/_compatible|Compatible]] with or [[f/_following|following]] [[g/_guidelines|guidelines]], specifications, [[r/_rules|rules]], or [[l/_laws|laws]].**
+- **[[c/_compatible|Compatible]] with or [[f/_following|following]] [[g/_guidelines|guidelines]], [[s/_specifications|specifications]], [[r/_rules|rules]], or [[l/_laws|laws]].**
 	- _Example: The browser is standards-compliant._
 ---
 ### Synonyms

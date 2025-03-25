@@ -15,7 +15,7 @@
 	- _Example: The disposition of the case will be announced tomorrow._
 - **The [[d/_destination|destination]] of a [[p/_patient|patient]] [[a/_after|after]] [[m/_medical|medical]] treatment such as surgery.**
 	- _Example: The patient was given a disposition for outpatient care._
-- **The [[s/_set|set]] of [[c/_choirs|choirs]] of strings on a [[h/_harpsichord|harpsichord]].**
+- **The [[s/_set|set]] of [[c/_choirs|choirs]] of [[s/_strings|strings]] on a [[h/_harpsichord|harpsichord]].**
 	- _Example: This small harpsichord has a 1 x 4' disposition._
 ---
 ### Synonyms

@@ -7,7 +7,7 @@
 	- _Example: The ranch hands had to brand every new calf by lunchtime._
 - **To [[m/_make|make]] an [[i/_indelible|indelible]] [[i/_impression|impression]] on the [[m/_memory|memory]] or [[s/_senses|senses]].**
 	- _Example: Her face is branded upon my memory._
-- **To stigmatize, [[l/_label|label]] ([[s/_someone|someone]]).**
+- **To [[s/_stigmatize|stigmatize]], [[l/_label|label]] ([[s/_someone|someone]]).**
 	- _Example: He was branded a fool by everyone that heard his story._
 - **To [[a/_associate|associate]] a [[p/_product|product]] or [[s/_service|service]] with a trademark or [[o/_other|other]] [[n/_name|name]] and [[r/_related|related]] [[i/_images|images]].**
 	- _Example: They branded the new detergent "Suds-O", with a nature scene inside a green O on the muted-colored recycled-cardboard box._

@@ -7,6 +7,6 @@
 - **To [[c/_cause|cause]] a [[p/_player|player]] to [[l/_lose|lose]] [[a/_all|all]] their [[c/_chips|chips]].**
 ---
 #adjective
-- **[[c/_covered|Covered]] with (a specified [[k/_kind|kind]] of) [[f/_felt|felt]].**
+- **[[c/_covered|Covered]] with (a [[s/_specified|specified]] [[k/_kind|kind]] of) [[f/_felt|felt]].**
 ---
 ---

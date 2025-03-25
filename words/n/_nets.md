@@ -1,7 +1,7 @@
 # Nets
 ---
 #noun
-- **A [[m/_mesh|mesh]] of string, [[c/_cord|cord]] or [[r/_rope|rope]].**
+- **A [[m/_mesh|mesh]] of [[s/_string|string]], [[c/_cord|cord]] or [[r/_rope|rope]].**
 	- _Example: a net for the hair; a mosquito net; a tennis net_
 - **A [[d/_device|device]] [[m/_made|made]] from such [[m/_mesh|mesh]], used for [[c/_catching|catching]] [[f/_fish|fish]], [[b/_butterflies|butterflies]], [[e/_etc|etc]].**
 - **A [[d/_device|device]] [[m/_made|made]] from such [[m/_mesh|mesh]], [[g/_generally|generally]] used for trapping [[s/_something|something]].**
@@ -14,14 +14,14 @@
 	- _Example: a computer network; a road network; an electricity distribution network_
 - **A [[f/_framework|framework]] [[b/_backed|backed]] by a [[m/_mesh|mesh]], [[s/_serving|serving]] as the [[g/_goal|goal]] in [[h/_hockey|hockey]], [[s/_soccer|soccer]], [[l/_lacrosse|lacrosse]], [[e/_etc|etc]].**
 	- _Example: The striker headed the ball into the net to make it 1-0._
-- **A [[m/_mesh|mesh]] stretched to [[d/_divide|divide]] the [[c/_court|court]] in tennis, [[b/_badminton|badminton]], volleyball, [[e/_etc|etc]].**
-- **(by [[e/_extension|extension]]) The [[a/_area|area]] of the [[c/_court|court]] [[c/_close|close]] to the [[n/_net|net]] ([[m/_mesh|mesh]] stretched to [[d/_divide|divide]] the [[c/_court|court]]).**
+- **A [[m/_mesh|mesh]] [[s/_stretched|stretched]] to [[d/_divide|divide]] the [[c/_court|court]] in tennis, [[b/_badminton|badminton]], volleyball, [[e/_etc|etc]].**
+- **(by [[e/_extension|extension]]) The [[a/_area|area]] of the [[c/_court|court]] [[c/_close|close]] to the [[n/_net|net]] ([[m/_mesh|mesh]] [[s/_stretched|stretched]] to [[d/_divide|divide]] the [[c/_court|court]]).**
 ---
 ### Synonyms
 - [[r/_reticulation|reticulation]], [[s/_snare|snare]], [[t/_trap|trap]], [[n/_network|network]], [[d/_development|development]], [[m/_mesh|mesh]], [[n/_network|network]]
 #verb
 - **To [[c/_catch|catch]] by [[m/_means|means]] of a [[n/_net|net]].**
-- **To [[c/_catch|catch]] in a trap, or by stratagem.**
+- **To [[c/_catch|catch]] in a trap, or by [[s/_stratagem|stratagem]].**
 - **To [[e/_enclose|enclose]] or [[c/_cover|cover]] with a [[n/_net|net]].**
 	- _Example: to net a tree_
 - **To [[s/_score|score]] (a [[g/_goal|goal]]).**

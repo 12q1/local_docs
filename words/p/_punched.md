@@ -1,7 +1,7 @@
 # Punched
 ---
 #verb
-- **To strike with [[o/_one|one]]'[[s/_s|s]] [[f/_fist|fist]].**
+- **To [[s/_strike|strike]] with [[o/_one|one]]'[[s/_s|s]] [[f/_fist|fist]].**
 	- _Example: If she punches me, I'm gonna break her nose._
 - **(of [[c/_cattle|cattle]]) To [[h/_herd|herd]].**
 - **To [[o/_operate|operate]] (a [[d/_device|device]] or [[s/_system|system]]) by [[d/_depressing|depressing]] a [[b/_button|button]], [[k/_key|key]], [[b/_bar|bar]], or [[p/_pedal|pedal]], or by [[s/_similar|similar]] [[m/_means|means]].**
@@ -15,7 +15,7 @@
 ### Synonyms
 - [[b/_box|box]], [[s/_slug|slug]]
 #verb
-- **To [[e/_employ|employ]] a [[p/_punch|punch]] to [[c/_create|create]] a [[h/_hole|hole]] in or stamp or [[e/_emboss|emboss]] a [[m/_mark|mark]] on [[s/_something|something]].**
+- **To [[e/_employ|employ]] a [[p/_punch|punch]] to [[c/_create|create]] a [[h/_hole|hole]] in or [[s/_stamp|stamp]] or [[e/_emboss|emboss]] a [[m/_mark|mark]] on [[s/_something|something]].**
 - **To [[m/_mark|mark]] a ticket.**
 ---
 ---

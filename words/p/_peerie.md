@@ -7,6 +7,6 @@
 - **[[s/_small|Small]], tiny.**
 ---
 #noun
-- **Spinning top**
+- **[[s/_spinning|Spinning]] top**
 ---
 ---

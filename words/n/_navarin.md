@@ -1,6 +1,6 @@
 # Navarin
 ---
 #noun
-- **A stew of [[m/_mutton|mutton]] and vegetables.**
+- **A [[s/_stew|stew]] of [[m/_mutton|mutton]] and vegetables.**
 ---
 ---

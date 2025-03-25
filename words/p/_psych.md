@@ -16,7 +16,7 @@
 - **[[p/_psychiatric|Psychiatric]].**
 ---
 #interjection
-- **[[i/_indicating|Indicating]] that [[o/_one|one]]'[[s/_s|s]] [[p/_preceding|preceding]] statement was [[f/_false|false]] and that [[o/_one|one]] [[h/_has|has]] successfully [[f/_fooled|fooled]] [[o/_one|one]]'[[s/_s|s]] [[i/_interlocutor|interlocutor]]. [[a/_also|Also]] [[s/_sike|sike]].**
+- **[[i/_indicating|Indicating]] that [[o/_one|one]]'[[s/_s|s]] [[p/_preceding|preceding]] [[s/_statement|statement]] was [[f/_false|false]] and that [[o/_one|one]] [[h/_has|has]] successfully [[f/_fooled|fooled]] [[o/_one|one]]'[[s/_s|s]] [[i/_interlocutor|interlocutor]]. [[a/_also|Also]] [[s/_sike|sike]].**
 - **An [[i/_interjection|interjection]] of surprised [[h/_happiness|happiness]].**
 	- _Example: Psych! I just found my missing bracelet!_
 ---

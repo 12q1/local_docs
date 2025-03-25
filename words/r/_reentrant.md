@@ -13,6 +13,6 @@
 	- _Example: Global variables must not be altered by reentrant code._
 - **(of a [[p/_part|part]] of a [[r/_rocket|rocket]]) [[d/_designed|Designed]] to [[r/_return|return]] to the [[e/_earth|Earth]]'[[s/_s|s]] [[a/_atmosphere|atmosphere]].**
 - **Of or [[p/_pertaining|pertaining]] to [[r/_reentry|reentry]] (in the [[h/_heart|heart]])**
-- **(of a ukulele or [[s/_similar|similar]] [[i/_instrument|instrument]]) [[h/_having|Having]] the strings not [[o/_ordered|ordered]] [[a/_according|according]] to [[p/_pitch|pitch]] ([[h/_having|having]] a [[r/_re|re]]-[[e/_entry|entry]])**
+- **(of a ukulele or [[s/_similar|similar]] [[i/_instrument|instrument]]) [[h/_having|Having]] the [[s/_strings|strings]] not [[o/_ordered|ordered]] [[a/_according|according]] to [[p/_pitch|pitch]] ([[h/_having|having]] a [[r/_re|re]]-[[e/_entry|entry]])**
 ---
 ---

@@ -12,7 +12,7 @@
 - **[[f/_free|Free]]; unrestrained; unconfined.**
 - **[[g/_gross|Gross]]; [[c/_coarse|coarse]]; [[i/_indelicate|indelicate]].**
 	- _Example: a broad compliment; a broad joke; broad humour_
-- **(of an [[a/_accent|accent]]) Strongly [[r/_regional|regional]].**
+- **(of an [[a/_accent|accent]]) [[s/_strongly|Strongly]] [[r/_regional|regional]].**
 - **([[g/_gaelic|Gaelic]] [[l/_languages|languages]]) Velarized, [[i/_i|i]].[[e/_e|e]]. not [[p/_palatalized|palatalized]].**
 ---
 ### Antonyms

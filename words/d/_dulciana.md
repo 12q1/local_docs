@@ -1,6 +1,6 @@
 # Dulciana
 ---
 #noun
-- **An [[o/_organ|organ]] stop with a sweet tone.**
+- **An [[o/_organ|organ]] [[s/_stop|stop]] with a sweet tone.**
 ---
 ---

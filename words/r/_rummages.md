@@ -5,8 +5,8 @@
 	- _Example: Have a rummage through the attic and see if you can find anything worth selling._
 - **[[c/_commotion|Commotion]]; [[d/_disturbance|disturbance]].**
 - **A [[d/_disorganized|disorganized]] [[c/_collection|collection]] of [[m/_miscellaneous|miscellaneous]] [[o/_objects|objects]]; a [[j/_jumble|jumble]].**
-- **A [[p/_place|place]] or [[r/_room|room]] for the stowage of [[c/_cargo|cargo]] in a [[s/_ship|ship]].**
-- **The [[a/_act|act]] of stowing [[c/_cargo|cargo]]; the [[p/_pulling|pulling]] and [[m/_moving|moving]] [[a/_about|about]] of [[p/_packages|packages]] [[i/_incident|incident]] to [[c/_close|close]] stowage.**
+- **A [[p/_place|place]] or [[r/_room|room]] for the [[s/_stowage|stowage]] of [[c/_cargo|cargo]] in a [[s/_ship|ship]].**
+- **The [[a/_act|act]] of [[s/_stowing|stowing]] [[c/_cargo|cargo]]; the [[p/_pulling|pulling]] and [[m/_moving|moving]] [[a/_about|about]] of [[p/_packages|packages]] [[i/_incident|incident]] to [[c/_close|close]] [[s/_stowage|stowage]].**
 ---
 ### Synonyms
 - [[r/_romage|romage]]

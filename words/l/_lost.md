@@ -34,7 +34,7 @@
 	- _Example: an island lost in a fog; a person lost in a crowd_
 - **[[p/_parted|Parted]] with; [[n/_no|no]] [[l/_longer|longer]] [[h/_held|held]] or [[p/_possessed|possessed]].**
 	- _Example: a lost limb; lost honour_
-- **Not [[e/_employed|employed]] or [[e/_enjoyed|enjoyed]]; thrown [[a/_away|away]]; [[e/_employed|employed]] [[i/_ineffectually|ineffectually]]; wasted; squandered.**
+- **Not [[e/_employed|employed]] or [[e/_enjoyed|enjoyed]]; thrown [[a/_away|away]]; [[e/_employed|employed]] [[i/_ineffectually|ineffectually]]; wasted; [[s/_squandered|squandered]].**
 	- _Example: a lost day; a lost opportunity or benefit_
 - **[[r/_ruined|Ruined]] or [[d/_destroyed|destroyed]], [[e/_either|either]] [[p/_physically|physically]] or [[m/_morally|morally]]; [[p/_past|past]] [[h/_help|help]] or [[h/_hope|hope]].**
 	- _Example: a ship lost at sea; a woman lost to virtue; a lost soul_

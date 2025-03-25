@@ -1,7 +1,7 @@
 # Bashing
 ---
 #verb
-- **To strike [[h/_heavily|heavily]].**
+- **To [[s/_strike|strike]] [[h/_heavily|heavily]].**
 	- _Example: He bashed himself against the door._
 - **To [[c/_collide|collide]].**
 	- _Example: Don't bash into me with that shopping trolley._

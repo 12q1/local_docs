@@ -1,6 +1,6 @@
 # Flinders
 ---
 #noun
-- **[[f/_fragments|Fragments]], splinters**
+- **[[f/_fragments|Fragments]], [[s/_splinters|splinters]]**
 ---
 ---

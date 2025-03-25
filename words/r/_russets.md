@@ -9,6 +9,6 @@
 ### Synonyms
 - [[r/_russeting|russeting]]
 #verb
-- **(of [[a/_apples|apples]], [[p/_pears|pears]], [[e/_etc|etc]].) To [[d/_develop|develop]] [[r/_reddish|reddish]]-[[b/_brown|brown]] spots; to [[c/_cause|cause]] [[r/_russeting|russeting]].**
+- **(of [[a/_apples|apples]], [[p/_pears|pears]], [[e/_etc|etc]].) To [[d/_develop|develop]] [[r/_reddish|reddish]]-[[b/_brown|brown]] [[s/_spots|spots]]; to [[c/_cause|cause]] [[r/_russeting|russeting]].**
 ---
 ---

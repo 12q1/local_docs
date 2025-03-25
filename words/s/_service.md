@@ -8,13 +8,13 @@
 - **A [[d/_department|department]] in a [[c/_company|company]], an [[o/_organization|organization]], a [[g/_government|government]] [[d/_department|department]], [[e/_etc|etc]].**
 - **A [[f/_function|function]] that is [[p/_provided|provided]] by [[o/_one|one]] [[p/_program|program]] or [[m/_machine|machine]] for [[a/_another|another]].**
 	- _Example: This machine provides the name service for the LAN._
-- **The state of [[b/_being|being]] subordinate to or [[e/_employed|employed]] by an [[i/_individual|individual]] or [[g/_group|group]]**
+- **The [[s/_state|state]] of [[b/_being|being]] subordinate to or [[e/_employed|employed]] by an [[i/_individual|individual]] or [[g/_group|group]]**
 	- _Example: Lancelot was at the service of King Arthur._
 - **The [[m/_military|military]].**
 	- _Example: I did three years in the service before coming here._
 - **A [[s/_set|set]] of [[d/_dishes|dishes]] or utensils.**
 	- _Example: She brought out the silver tea service._
-- **The [[a/_act|act]] of [[i/_initially|initially]] starting, or [[s/_serving|serving]], the [[b/_ball|ball]] in [[p/_play|play]] in tennis, volleyball, and [[o/_other|other]] [[g/_games|games]].**
+- **The [[a/_act|act]] of [[i/_initially|initially]] [[s/_starting|starting]], or [[s/_serving|serving]], the [[b/_ball|ball]] in [[p/_play|play]] in tennis, volleyball, and [[o/_other|other]] [[g/_games|games]].**
 	- _Example: The player had four service faults in the set._
 - **A [[r/_religious|religious]] [[r/_rite|rite]] or [[r/_ritual|ritual]].**
 	- _Example: The funeral service was touching._
@@ -23,7 +23,7 @@
 - **([[i/_israel|Israel]], West [[b/_bank|Bank]], [[a/_also|also]] in [[j/_jordan|Jordan]], [[l/_lebanon|Lebanon]] and [[s/_syria|Syria]]) A taxi [[s/_shared|shared]] [[a/_among|among]] unrelated [[p/_passengers|passengers]], [[e/_each|each]] of whom [[p/_pays|pays]] [[p/_part|part]] of the [[f/_fare|fare]]; [[o/_often|often]], it [[h/_has|has]] a [[f/_fixed|fixed]] [[r/_route|route]] [[b/_between|between]] [[c/_cities|cities]].**
 - **A [[m/_musical|musical]] [[c/_composition|composition]] for use in [[c/_churches|churches]].**
 - **[[p/_profession|Profession]] of [[r/_respect|respect]]; [[a/_acknowledgment|acknowledgment]] of [[d/_duty|duty]] [[o/_owed|owed]].**
-- **The [[m/_materials|materials]] used for [[s/_serving|serving]] a [[r/_rope|rope]], [[e/_etc|etc]]., such as spun [[y/_yarn|yarn]] and [[s/_small|small]] [[l/_lines|lines]].**
+- **The [[m/_materials|materials]] used for [[s/_serving|serving]] a [[r/_rope|rope]], [[e/_etc|etc]]., such as [[s/_spun|spun]] [[y/_yarn|yarn]] and [[s/_small|small]] [[l/_lines|lines]].**
 ---
 ### Antonyms
 - [[g/_good|good]], [[c/_capital|capital]]

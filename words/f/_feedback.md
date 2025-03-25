@@ -13,7 +13,7 @@
 	- _Example: The show ended with a riot of feedbacking guitars._
 - **To [[p/_provide|provide]] [[i/_informational|informational]] [[f/_feedback|feedback]] to.**
 	- _Example: His employees feedbacked him a lot more than he wanted._
-- **To [[c/_convey|convey]] by [[m/_means|means]] of specialized [[c/_communications|communications]] [[c/_channel|channel]].**
+- **To [[c/_convey|convey]] by [[m/_means|means]] of [[s/_specialized|specialized]] [[c/_communications|communications]] [[c/_channel|channel]].**
 	- _Example: Customers feedbacked their complaints and some praise._
 ---
 ---

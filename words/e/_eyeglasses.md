@@ -7,6 +7,6 @@
 - **The [[l/_lens|lens]] of the [[e/_eye|eye]].**
 ---
 #noun
-- **Spectacles, [[g/_glasses|glasses]].**
+- **[[s/_spectacles|Spectacles]], [[g/_glasses|glasses]].**
 ---
 ---

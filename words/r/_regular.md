@@ -7,7 +7,7 @@
 - **A [[f/_frequent|frequent]] [[c/_customer|customer]], [[c/_client|client]] or [[b/_business|business]] [[p/_partner|partner]].**
 	- _Example: This gentleman was one of the architect's regulars._
 - **A [[c/_coffee|coffee]] with [[o/_one|one]] [[c/_cream|cream]] and [[o/_one|one]] sugar.**
-- **[[a/_anything|Anything]] that is [[n/_normal|normal]] or standard.**
+- **[[a/_anything|Anything]] that is [[n/_normal|normal]] or [[s/_standard|standard]].**
 - **A [[m/_member|member]] of a [[r/_religious|religious]] [[o/_order|order]] who [[h/_has|has]] taken the three [[o/_ordinary|ordinary]] vows.**
 - **A [[n/_number|number]] for [[e/_each|each]] [[y/_year|year]], [[g/_giving|giving]], [[a/_added|added]] to the concurrents, the [[n/_number|number]] of the [[d/_day|day]] of the week on which the [[p/_paschal|Paschal]] [[f/_full|full]] [[m/_moon|moon]] [[f/_falls|falls]].**
 - **A [[f/_fixed|fixed]] [[n/_number|number]] for [[e/_each|each]] [[m/_month|month]] [[s/_serving|serving]] to [[a/_ascertain|ascertain]] the [[d/_day|day]] of the week, or the [[a/_age|age]] of the [[m/_moon|moon]], on the [[f/_first|first]] [[d/_day|day]] of [[a/_any|any]] [[m/_month|month]].**
@@ -28,7 +28,7 @@
 	- _Example: He made regular visits to go see his mother._
 - **([[g/_grammar|grammar]], of a verb, [[p/_plural|plural]], [[e/_etc|etc]]) [[f/_following|Following]] a [[s/_set|set]] or [[c/_common|common]] [[p/_pattern|pattern]]; [[a/_according|according]] to the [[n/_normal|normal]] [[r/_rules|rules]] of a [[g/_given|given]] [[l/_language|language]].**
 	- _Example: "Walked" is the past tense of the regular verb "to walk"._
-- **[[h/_having|Having]] the [[e/_expected|expected]] [[c/_characteristics|characteristics]] or [[a/_appearances|appearances]]; [[n/_normal|normal]], [[o/_ordinary|ordinary]], standard.**
+- **[[h/_having|Having]] the [[e/_expected|expected]] [[c/_characteristics|characteristics]] or [[a/_appearances|appearances]]; [[n/_normal|normal]], [[o/_ordinary|ordinary]], [[s/_standard|standard]].**
 - **[[p/_permanently|Permanently]] [[o/_organised|organised]]; [[b/_being|being]] [[p/_part|part]] of a [[s/_set|set]] [[p/_professional|professional]] [[b/_body|body]] of troops.**
 - **[[h/_having|Having]] [[b/_bowel|bowel]] [[m/_movements|movements]] or [[m/_menstrual|menstrual]] [[p/_periods|periods]] at [[c/_constant|constant]] [[i/_intervals|intervals]] in the [[e/_expected|expected]] way.**
 	- _Example: Maintaining a high-fibre diet keeps you regular._

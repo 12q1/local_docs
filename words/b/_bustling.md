@@ -9,7 +9,7 @@
 ### Synonyms
 - [[a/_abound|abound]], [[b/_brim|brim]], [[b/_bristle|bristle]], [[b/_burst|burst]], [[c/_crawl|crawl]], [[s/_swell|swell]], [[t/_teem|teem]], [[f/_flit|flit]], [[h/_hustle|hustle]], [[s/_scamper|scamper]], [[s/_scurry|scurry]]
 #noun
-- **A [[b/_bustle|bustle]]; a [[b/_busy|busy]] stir.**
+- **A [[b/_bustle|bustle]]; a [[b/_busy|busy]] [[s/_stir|stir]].**
 	- _Example: the bustlings of waiters in the crowded restaurant_
 ---
 #adjective

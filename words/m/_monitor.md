@@ -6,10 +6,10 @@
 - **A [[d/_device|device]] that [[d/_detects|detects]] and [[i/_informs|informs]] on the [[p/_presence|presence]], [[q/_quantity|quantity]], [[e/_etc|etc]]., of [[s/_something|something]].**
 - **A [[d/_device|device]] [[s/_similar|similar]] to a television [[s/_set|set]] used as to [[g/_give|give]] a [[g/_graphical|graphical]] [[d/_display|display]] of the [[o/_output|output]] from a [[c/_computer|computer]].**
 	- _Example: The information flashed up on the monitor._
-- **A studio [[m/_monitor|monitor]] or [[l/_loudspeaker|loudspeaker]].**
+- **A [[s/_studio|studio]] [[m/_monitor|monitor]] or [[l/_loudspeaker|loudspeaker]].**
 - **A [[p/_program|program]] for viewing and [[e/_editing|editing]].**
 	- _Example: a machine code monitor_
-- **A student [[l/_leader|leader]] in a [[c/_class|class]].**
+- **A [[s/_student|student]] [[l/_leader|leader]] in a [[c/_class|class]].**
 - **[[o/_one|One]] of a [[c/_class|class]] of [[r/_relatively|relatively]] [[s/_small|small]] [[a/_armored|armored]] warships [[d/_designed|designed]] for [[s/_shore|shore]] [[b/_bombardment|bombardment]] or [[r/_riverine|riverine]] warfare [[r/_rather|rather]] than [[c/_combat|combat]] with [[o/_other|other]] [[s/_ships|ships]].**
 - **An [[i/_ironclad|ironclad]].**
 - **A [[m/_monitor|monitor]] [[l/_lizard|lizard]].**

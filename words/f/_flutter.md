@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] of [[f/_fluttering|fluttering]]; [[q/_quick|quick]] and [[i/_irregular|irregular]] [[m/_motion|motion]].**
 	- _Example: the flutter of a fan_
-- **A state of [[a/_agitation|agitation]].**
+- **A [[s/_state|state]] of [[a/_agitation|agitation]].**
 - **An [[a/_abnormal|abnormal]] [[r/_rapid|rapid]] [[p/_pulsation|pulsation]] of the [[h/_heart|heart]].**
 - **A [[s/_small|small]] [[b/_bet|bet]] or [[r/_risky|risky]] [[i/_investment|investment]].**
 - **A [[h/_hasty|hasty]] [[g/_game|game]] of [[c/_cards|cards]] or [[s/_similar|similar]].**
@@ -16,7 +16,7 @@
 - **To [[c/_cause|cause]] [[s/_something|something]] to [[f/_flap|flap]].**
 	- _Example: A bird flutters its wings._
 - **To [[d/_drive|drive]] [[i/_into|into]] [[d/_disorder|disorder]]; to throw [[i/_into|into]] [[c/_confusion|confusion]].**
-- **To be in a state of [[a/_agitation|agitation]] or uncertainty.**
+- **To be in a [[s/_state|state]] of [[a/_agitation|agitation]] or uncertainty.**
 - **To be [[f/_frivolous|frivolous]].**
 ---
 ---

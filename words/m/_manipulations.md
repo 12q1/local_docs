@@ -1,7 +1,7 @@
 # Manipulations
 ---
 #noun
-- **The [[p/_practice|practice]] of [[m/_manipulating|manipulating]] or the state of [[b/_being|being]] [[m/_manipulated|manipulated]].**
+- **The [[p/_practice|practice]] of [[m/_manipulating|manipulating]] or the [[s/_state|state]] of [[b/_being|being]] [[m/_manipulated|manipulated]].**
 	- _Example: The dealer's manipulations could have removed cards from the deck._
 - **The [[s/_skillful|skillful]] use of the [[h/_hands|hands]] in, for [[e/_example|example]], [[c/_chiropractic|chiropractic]].**
 	- _Example: After a few minutes of manipulation each week, she obtained days of relief from her neck pain._

@@ -14,7 +14,7 @@
 	- _Example: Which letter comes before Y?   Winter comes after autumn._
 - **To [[a/_achieve|achieve]] [[o/_orgasm|orgasm]]; to [[c/_cum|cum]]; to [[e/_ejaculate|ejaculate]].**
 	- _Example: He came after a few minutes._
-- **(with [[c/_close|close]]) To [[a/_approach|approach]] a state of [[b/_being|being]] or [[a/_accomplishment|accomplishment]].**
+- **(with [[c/_close|close]]) To [[a/_approach|approach]] a [[s/_state|state]] of [[b/_being|being]] or [[a/_accomplishment|accomplishment]].**
 	- _Example: One of the screws came loose, and the skateboard fell apart._
 - **(with to) To take a [[p/_particular|particular]] [[a/_approach|approach]] or [[p/_point|point]] of view in [[r/_regard|regard]] to [[s/_something|something]].**
 	- _Example: He came to SF literature a confirmed technophile, and nothing made him happier than to read a manuscript thick with imaginary gizmos and whatzits._

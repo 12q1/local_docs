@@ -16,7 +16,7 @@
 	- _Example: The lecture was attended by many distinguished mathematicians._
 - **[[h/_having|Having]] a [[d/_dignified|dignified]] [[a/_appearance|appearance]] or [[d/_demeanor|demeanor]]**
 	- _Example: Her father was a distinguished gentleman, albeit a poor one._
-- **Specified, [[n/_noted|noted]].**
+- **[[s/_specified|Specified]], [[n/_noted|noted]].**
 	- _Example: Let X be a topological space with a distinguished point p._
 ---
 ### Synonyms

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[m/_mixture|mixture]] of [[d/_different|different]] [[c/_components|components]].**
-- **A structural [[m/_material|material]] that [[g/_gains|gains]] [[i/_its|its]] strength from a [[c/_combination|combination]] of [[c/_complementary|complementary]] [[m/_materials|materials]].**
+- **A [[s/_structural|structural]] [[m/_material|material]] that [[g/_gains|gains]] [[i/_its|its]] [[s/_strength|strength]] from a [[c/_combination|combination]] of [[c/_complementary|complementary]] [[m/_materials|materials]].**
 - **A [[p/_plant|plant]] [[b/_belonging|belonging]] to the [[f/_family|family]] [[a/_asteraceae|Asteraceae]], [[s/_syn|syn]]. [[c/_compositae|Compositae]].**
 - **A [[f/_function|function]] of a [[f/_function|function]].**
 - **([[c/_chiefly|chiefly]] [[l/_law|law]] [[e/_enforcement|enforcement]]) A [[d/_drawing|drawing]], [[p/_photograph|photograph]], [[e/_etc|etc]]. that [[c/_combines|combines]] [[s/_several|several]] [[s/_separate|separate]] [[p/_pictures|pictures]] or [[i/_images|images]].**

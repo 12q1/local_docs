@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[j/_jutting|Jutting]] [[o/_out|out]]; [[e/_extruding|extruding]].**
-- **Of [[r/_rocks|rocks]]: [[f/_forced|forced]], while in a [[p/_plastic|plastic]] or [[m/_molten|molten]] state, on to the [[e/_earth|Earth]]'[[s/_s|s]] surface to [[l/_lie|lie]] [[a/_atop|atop]] [[e/_existing|existing]] [[r/_rocks|rocks]].**
+- **Of [[r/_rocks|rocks]]: [[f/_forced|forced]], while in a [[p/_plastic|plastic]] or [[m/_molten|molten]] [[s/_state|state]], on to the [[e/_earth|Earth]]'[[s/_s|s]] surface to [[l/_lie|lie]] [[a/_atop|atop]] [[e/_existing|existing]] [[r/_rocks|rocks]].**
 ---
 ### Synonyms
 - [[e/_effusive|effusive]]

@@ -2,11 +2,11 @@
 ---
 #noun
 - **A [[c/_comedian|comedian]].**
-- **A story [[c/_composed|composed]] of [[c/_cartoon|cartoon]] [[i/_images|images]] [[a/_arranged|arranged]] in [[s/_sequence|sequence]], usually with textual [[c/_captions|captions]]; a [[g/_graphic|graphic]] [[n/_novel|novel]].**
+- **A [[s/_story|story]] [[c/_composed|composed]] of [[c/_cartoon|cartoon]] [[i/_images|images]] [[a/_arranged|arranged]] in [[s/_sequence|sequence]], usually with textual [[c/_captions|captions]]; a [[g/_graphic|graphic]] [[n/_novel|novel]].**
 - **A [[c/_children|children]]'[[s/_s|s]] [[n/_newspaper|newspaper]].**
 ---
 #noun
-- **The [[m/_medium|medium]] of [[c/_comic|comic]] [[b/_books|books]], [[c/_comic|comic]] strips, and [[o/_other|other]] [[s/_sequential|sequential]] [[a/_art|art]]**
+- **The [[m/_medium|medium]] of [[c/_comic|comic]] [[b/_books|books]], [[c/_comic|comic]] [[s/_strips|strips]], and [[o/_other|other]] [[s/_sequential|sequential]] [[a/_art|art]]**
 ---
 ### Synonyms
 - [[f/_funnies|funnies]]

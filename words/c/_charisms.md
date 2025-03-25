@@ -1,6 +1,6 @@
 # Charisms
 ---
 #noun
-- **A [[p/_power|power]] or [[a/_authority|authority]], [[g/_generally|generally]] of a spiritual [[n/_nature|nature]], [[b/_believed|believed]] to be a [[f/_freely|freely]] [[g/_given|given]] [[g/_gift|gift]] by the [[g/_grace|grace]] of [[g/_god|God]].**
+- **A [[p/_power|power]] or [[a/_authority|authority]], [[g/_generally|generally]] of a [[s/_spiritual|spiritual]] [[n/_nature|nature]], [[b/_believed|believed]] to be a [[f/_freely|freely]] [[g/_given|given]] [[g/_gift|gift]] by the [[g/_grace|grace]] of [[g/_god|God]].**
 ---
 ---

@@ -9,6 +9,6 @@
 - **[[r/_relating|Relating]] to [[b/_both|both]] [[p/_polar|polar]] [[r/_regions|regions]]**
 - **[[r/_relating|Relating]] to a bipole**
 - **[[r/_relating|Relating]] to or [[h/_having|having]] [[b/_bipolar|bipolar]] [[d/_disorder|disorder]].**
-- **Of or [[r/_relating|relating]] to an [[i/_international|international]] [[s/_system|system]] in which two states wield [[m/_most|most]] of the [[c/_cultural|cultural]], [[e/_economic|economic]], and [[p/_political|political]] [[i/_influence|influence]].**
+- **Of or [[r/_relating|relating]] to an [[i/_international|international]] [[s/_system|system]] in which two [[s/_states|states]] wield [[m/_most|most]] of the [[c/_cultural|cultural]], [[e/_economic|economic]], and [[p/_political|political]] [[i/_influence|influence]].**
 ---
 ---

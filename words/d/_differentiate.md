@@ -1,7 +1,7 @@
 # Differentiate
 ---
 #noun
-- **[[s/_something|Something]] that [[h/_has|has]] [[b/_been|been]] [[d/_differentiated|differentiated]] or stratified.**
+- **[[s/_something|Something]] that [[h/_has|has]] [[b/_been|been]] [[d/_differentiated|differentiated]] or [[s/_stratified|stratified]].**
 ---
 #verb
 - **To [[s/_show|show]], or be the [[d/_distinction|distinction]] [[b/_between|between]] two things.**
@@ -9,7 +9,7 @@
 - **To [[m/_modify|modify]], or be [[m/_modified|modified]].**
 - **To [[c/_calculate|calculate]] the [[d/_derivative|derivative]] of a [[f/_function|function]].**
 - **To [[c/_calculate|calculate]] the [[d/_differential|differential]] of a [[f/_function|function]] of [[m/_multiple|multiple]] variables.**
-- **To [[p/_produce|produce]] [[d/_distinct|distinct]] [[o/_organs|organs]] or to [[a/_achieve|achieve]] specific [[f/_functions|functions]] by a [[p/_process|process]] of [[d/_development|development]] [[c/_called|called]] [[d/_differentiation|differentiation]].**
+- **To [[p/_produce|produce]] [[d/_distinct|distinct]] [[o/_organs|organs]] or to [[a/_achieve|achieve]] [[s/_specific|specific]] [[f/_functions|functions]] by a [[p/_process|process]] of [[d/_development|development]] [[c/_called|called]] [[d/_differentiation|differentiation]].**
 ---
 ### Synonyms
 - [[c/_change|change]], [[t/_transform|transform]], [[d/_differentialize|differentialize]], [[d/_differentialize|differentialize]]

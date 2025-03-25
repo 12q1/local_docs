@@ -1,10 +1,10 @@
 # Ratite
 ---
 #noun
-- **A [[b/_bird|bird]] of the [[o/_order|order]] of Struthioniformes, a [[d/_diverse|diverse]] [[g/_group|group]] of [[l/_large|large]] [[r/_running|running]], [[f/_flightless|flightless]] [[b/_birds|birds]], [[m/_mostly|mostly]] [[e/_extinct|extinct]], but [[i/_including|including]] the [[c/_cassowary|cassowary]], [[e/_elephant|elephant]] [[b/_bird|bird]], [[e/_emu|emu]], [[k/_kiwi|kiwi]], [[m/_moa|moa]], [[o/_ostrich|ostrich]], [[r/_rhea|rhea]] and tinamou**
+- **A [[b/_bird|bird]] of the [[o/_order|order]] of [[s/_struthioniformes|Struthioniformes]], a [[d/_diverse|diverse]] [[g/_group|group]] of [[l/_large|large]] [[r/_running|running]], [[f/_flightless|flightless]] [[b/_birds|birds]], [[m/_mostly|mostly]] [[e/_extinct|extinct]], but [[i/_including|including]] the [[c/_cassowary|cassowary]], [[e/_elephant|elephant]] [[b/_bird|bird]], [[e/_emu|emu]], [[k/_kiwi|kiwi]], [[m/_moa|moa]], [[o/_ostrich|ostrich]], [[r/_rhea|rhea]] and tinamou**
 ---
 #adjective
-- **[[p/_pertaining|Pertaining]] to the [[o/_order|order]] Struthioniformes (as [[o/_opposed|opposed]] to [[c/_carinate|carinate]]).**
+- **[[p/_pertaining|Pertaining]] to the [[o/_order|order]] [[s/_struthioniformes|Struthioniformes]] (as [[o/_opposed|opposed]] to [[c/_carinate|carinate]]).**
 ---
 ### Synonyms
 - [[r/_ratitate|ratitate]]

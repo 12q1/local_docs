@@ -18,7 +18,7 @@
 - **[[c/_causing|Causing]] or [[c/_characterized|characterized]] by sudden [[a/_abrupt|abrupt]] [[m/_movements|movements]].**
 ---
 #adjective
-- **[[i/_inspiring|Inspiring]] [[s/_shock|shock]]; startling.**
+- **[[i/_inspiring|Inspiring]] [[s/_shock|shock]]; [[s/_startling|startling]].**
 - **Unusually [[o/_obscene|obscene]] or [[l/_lewd|lewd]].**
 - **[[e/_extremely|Extremely]] [[b/_bad|bad]].**
 	- _Example: What a shocking calamity!_

@@ -1,7 +1,7 @@
 # Boles
 ---
 #noun
-- **The trunk or stem of a tree.**
+- **The trunk or [[s/_stem|stem]] of a tree.**
 ---
 #noun
 - **[[a/_any|Any]] of [[s/_several|several]] varieties of [[f/_friable|friable]] [[e/_earthy|earthy]] [[c/_clay|clay]], usually [[c/_coloured|coloured]] [[r/_red|red]] by [[i/_iron|iron]] [[o/_oxide|oxide]], and [[c/_composed|composed]] [[e/_essentially|essentially]] of [[h/_hydrous|hydrous]] [[s/_silicates|silicates]] of [[a/_alumina|alumina]], or [[m/_more|more]] [[r/_rarely|rarely]] of [[m/_magnesia|magnesia]].**

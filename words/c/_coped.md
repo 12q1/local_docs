@@ -11,7 +11,7 @@
 ### Antonyms
 - 
 #verb
-- **To [[c/_cover|cover]] (a [[j/_joint|joint]] or structure) with [[c/_coping|coping]].**
+- **To [[c/_cover|cover]] (a [[j/_joint|joint]] or [[s/_structure|structure]]) with [[c/_coping|coping]].**
 - **To [[f/_form|form]] a [[c/_cope|cope]] or [[a/_arch|arch]]; to [[b/_bend|bend]] or [[a/_arch|arch]]; to [[b/_bow|bow]].**
 ---
 #verb

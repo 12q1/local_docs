@@ -14,10 +14,10 @@
 ---
 #noun
 - **The [[e/_effect|effect]] of [[b/_being|being]] [[s/_shadowed|shadowed]] (in the [[s/_sense|sense]] of [[b/_blocked|blocked]]), as from a [[l/_light|light]] [[s/_source|source]] or [[r/_radio|radio]] transmission.**
-- **The [[s/_situation|situation]] where an [[i/_individual|individual]] [[r/_repeats|repeats]] speech [[i/_immediately|immediately]] as they [[h/_hear|hear]] it (usually through [[e/_earphones|earphones]]).**
+- **The [[s/_situation|situation]] where an [[i/_individual|individual]] [[r/_repeats|repeats]] [[s/_speech|speech]] [[i/_immediately|immediately]] as they [[h/_hear|hear]] it (usually through [[e/_earphones|earphones]]).**
 - **[[s/_secretly|Secretly]] or [[d/_discreetly|discreetly]] tracking or [[f/_following|following]] [[s/_someone|someone]], [[k/_keeping|keeping]] under surveillance.**
 - **A [[f/_faint|faint]] [[r/_representation|representation]]; an [[a/_adumbration|adumbration]].**
 - **The technique of [[c/_copying|copying]] [[r/_rom|ROM]] [[c/_contents|contents]] to [[r/_ram|RAM]] to [[a/_allow|allow]] for [[s/_shorter|shorter]] [[a/_access|access]] times. The [[r/_rom|ROM]] [[c/_chip|chip]] is then [[d/_disabled|disabled]] while the [[i/_initialized|initialized]] [[m/_memory|memory]] [[l/_locations|locations]] are switched in on the [[s/_same|same]] [[b/_block|block]] of [[a/_addresses|addresses]].**
-- **A work [[e/_experience|experience]] [[o/_option|option]] where students [[l/_learn|learn]] [[a/_about|about]] a [[j/_job|job]] by walking through the work [[d/_day|day]] as a [[s/_shadow|shadow]] to a [[c/_competent|competent]] worker.**
+- **A work [[e/_experience|experience]] [[o/_option|option]] where [[s/_students|students]] [[l/_learn|learn]] [[a/_about|about]] a [[j/_job|job]] by walking through the work [[d/_day|day]] as a [[s/_shadow|shadow]] to a [[c/_competent|competent]] worker.**
 ---
 ---

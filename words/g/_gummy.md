@@ -8,6 +8,6 @@
 	- _Example: a gummy grin_
 ---
 #noun
-- **A species of [[s/_shark|shark]], [[m/_mustelus|Mustelus]] antarcticus, [[e/_endemic|endemic]] to [[s/_southern|southern]] and [[s/_south|south]]-[[e/_eastern|eastern]] [[a/_australia|Australia]], the [[m/_meat|meat]] of which is [[s/_sold|sold]] as [[f/_flake|flake]].**
+- **A [[s/_species|species]] of [[s/_shark|shark]], [[m/_mustelus|Mustelus]] antarcticus, [[e/_endemic|endemic]] to [[s/_southern|southern]] and [[s/_south|south]]-[[e/_eastern|eastern]] [[a/_australia|Australia]], the [[m/_meat|meat]] of which is [[s/_sold|sold]] as [[f/_flake|flake]].**
 ---
 ---

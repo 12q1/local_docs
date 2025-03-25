@@ -11,7 +11,7 @@
 - **[[r/_rough|Rough]]; [[s/_shaggy|shaggy]]; [[r/_rugged|rugged]].**
 - **[[f/_faulty|Faulty]]; [[l/_lacking|lacking]] in [[s/_skill|skill]], [[r/_reliability|reliability]], or [[o/_organization|organization]].**
 - **[[p/_performed|Performed]] in a [[s/_syncopated|syncopated]] [[m/_manner|manner]], [[e/_especially|especially]] in [[r/_ragtime|ragtime]].**
-- **Of a [[d/_data|data]] structure: [[h/_having|having]] uneven [[l/_levels|levels]].**
+- **Of a [[d/_data|data]] [[s/_structure|structure]]: [[h/_having|having]] uneven [[l/_levels|levels]].**
 	- _Example: a ragged hierarchy_
 ---
 ---

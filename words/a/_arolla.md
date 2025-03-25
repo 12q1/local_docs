@@ -1,6 +1,6 @@
 # Arolla
 ---
 #noun
-- **Stone [[p/_pine|pine]]**
+- **[[s/_stone|Stone]] [[p/_pine|pine]]**
 ---
 ---

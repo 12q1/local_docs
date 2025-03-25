@@ -22,7 +22,7 @@
 - [[d/_din|din]]
 #verb
 - **To [[s/_salute|salute]] [[l/_loudly|loudly]].**
-- **To stun with [[n/_noise|noise]].**
-- **To [[r/_repeat|repeat]] the strokes [[q/_quickly|quickly]] on ([[b/_bells|bells]]) [[s/_so|so]] as to [[p/_produce|produce]] a [[l/_loud|loud]] [[c/_clang|clang]].**
+- **To [[s/_stun|stun]] with [[n/_noise|noise]].**
+- **To [[r/_repeat|repeat]] the [[s/_strokes|strokes]] [[q/_quickly|quickly]] on ([[b/_bells|bells]]) [[s/_so|so]] as to [[p/_produce|produce]] a [[l/_loud|loud]] [[c/_clang|clang]].**
 ---
 ---

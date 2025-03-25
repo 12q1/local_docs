@@ -1,7 +1,7 @@
 # Reflection
 ---
 #noun
-- **The [[a/_act|act]] of [[r/_reflecting|reflecting]] or the state of [[b/_being|being]] [[r/_reflected|reflected]].**
+- **The [[a/_act|act]] of [[r/_reflecting|reflecting]] or the [[s/_state|state]] of [[b/_being|being]] [[r/_reflected|reflected]].**
 - **The [[p/_property|property]] of a [[p/_propagated|propagated]] wave [[b/_being|being]] thrown [[b/_back|back]] from a surface (such as a [[m/_mirror|mirror]]).**
 - **[[s/_something|Something]], such as an [[i/_image|image]], that is [[r/_reflected|reflected]].**
 	- _Example: The dog barked at his own reflection in the mirror._

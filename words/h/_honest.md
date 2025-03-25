@@ -6,7 +6,7 @@
 #adjective
 - **(of a [[p/_person|person]] or [[i/_institution|institution]]) [[s/_scrupulous|Scrupulous]] with [[r/_regard|regard]] to telling the truth; not [[g/_given|given]] to swindling, [[l/_lying|lying]], or [[f/_fraud|fraud]]; upright.**
 	- _Example: We’re the most honest people you will ever come across._
-- **(of a statement) True, [[e/_especially|especially]] as [[f/_far|far]] as is [[k/_known|known]] by the [[p/_person|person]] [[m/_making|making]] the statement; [[f/_fair|fair]]; unbiased.**
+- **(of a [[s/_statement|statement]]) True, [[e/_especially|especially]] as [[f/_far|far]] as is [[k/_known|known]] by the [[p/_person|person]] [[m/_making|making]] the [[s/_statement|statement]]; [[f/_fair|fair]]; unbiased.**
 	- _Example: an honest account of events_
 - **In [[g/_good|good]] [[f/_faith|faith]]; without [[m/_malice|malice]].**
 	- _Example: an honest mistake_

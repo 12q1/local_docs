@@ -6,7 +6,7 @@
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to [[d/_dialogue|dialogue]] or [[c/_conversation|conversation]].**
-- **[[i/_interjected|Interjected]] [[i/_into|into]] [[s/_something|something]] spoken.**
+- **[[i/_interjected|Interjected]] [[i/_into|into]] [[s/_something|something]] [[s/_spoken|spoken]].**
 - **[[e/_expressed|Expressed]] [[d/_during|during]] a [[l/_legal|legal]] [[a/_action|action]] that [[a/_awaits|awaits]] [[f/_final|final]] [[d/_decision|decision]].**
 - **Of or [[p/_pertaining|pertaining]] to [[l/_legal|legal]] [[a/_action|action]] that is temporary or [[p/_provisional|provisional]].**
 ---

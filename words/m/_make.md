@@ -3,7 +3,7 @@
 #noun
 - **[[b/_brand|Brand]] or [[k/_kind|kind]]; [[m/_model|model]].**
 	- _Example: What make of car do you drive?_
-- **[[m/_manner|Manner]] or style of [[c/_construction|construction]] (style of [[h/_how|how]] a thing is [[m/_made|made]]); [[f/_form|form]].**
+- **[[m/_manner|Manner]] or [[s/_style|style]] of [[c/_construction|construction]] ([[s/_style|style]] of [[h/_how|how]] a thing is [[m/_made|made]]); [[f/_form|form]].**
 - **[[o/_origin|Origin]] (of a [[m/_manufactured|manufactured]] [[a/_article|article]]); [[m/_manufacture|manufacture]]; [[p/_production|production]].**
 	- _Example: The camera was of German make._
 - **A [[p/_person|person]]'[[s/_s|s]] [[c/_character|character]] or [[d/_disposition|disposition]].**
@@ -31,30 +31,30 @@
 	- _Example: Two and four make six._
 - **([[c/_construed|construed]] with of, typically [[i/_interrogative|interrogative]]) To [[i/_interpret|interpret]].**
 	- _Example: I don’t know what to make of it._
-- **(usually stressed) To [[b/_bring|bring]] [[i/_into|into]] success.**
+- **(usually [[s/_stressed|stressed]]) To [[b/_bring|bring]] [[i/_into|into]] success.**
 	- _Example: She married into wealth and so has it made._
 - **(ditransitive, [[s/_second|second]] [[o/_object|object]] is an [[a/_adjective|adjective]] or [[p/_participle|participle]]) To [[c/_cause|cause]] to be.**
 	- _Example: Did I make myself heard?_
 - **To [[c/_cause|cause]] to [[a/_appear|appear]] to be; to [[r/_represent|represent]] as.**
 - **(ditransitive, [[s/_second|second]] [[o/_object|object]] is a verb) To [[c/_cause|cause]] (to [[d/_do|do]] [[s/_something|something]]); to [[c/_compel|compel]] (to [[d/_do|do]] [[s/_something|something]]).**
 	- _Example: I was made to feel like a criminal._
-- **(ditransitive, [[s/_second|second]] [[o/_object|object]] is a verb, [[c/_can|can]] be stressed for [[e/_emphasis|emphasis]] or [[c/_clarity|clarity]]) To [[f/_force|force]] to [[d/_do|do]].**
+- **(ditransitive, [[s/_second|second]] [[o/_object|object]] is a verb, [[c/_can|can]] be [[s/_stressed|stressed]] for [[e/_emphasis|emphasis]] or [[c/_clarity|clarity]]) To [[f/_force|force]] to [[d/_do|do]].**
 	- _Example: Don’t let them make you suffer._
 - **(ditransitive, of a [[f/_fact|fact]]) To [[i/_indicate|indicate]] or suggest to be.**
 	- _Example: His past mistakes don’t make him a bad person._
 - **(of a [[b/_bed|bed]]) To [[c/_cover|cover]] [[n/_neatly|neatly]] with [[b/_bedclothes|bedclothes]].**
-- **([[l/_law|law]] [[e/_enforcement|enforcement]]) To [[r/_recognise|recognise]], [[i/_identify|identify]], spot.**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) To [[r/_recognise|recognise]], [[i/_identify|identify]], [[s/_spot|spot]].**
 - **To [[a/_arrive|arrive]] at a [[d/_destination|destination]], usually at or by a [[c/_certain|certain]] time.**
 	- _Example: We should make Cincinnati by 7 tonight._
 - **To [[p/_proceed|proceed]] (in a [[d/_direction|direction]]).**
 	- _Example: Make for the hills! It's a wildfire!_
 - **To [[c/_cover|cover]] (a [[g/_given|given]] [[d/_distance|distance]]) by travelling.**
-- **To [[m/_move|move]] at (a speed).**
+- **To [[m/_move|move]] at (a [[s/_speed|speed]]).**
 	- _Example: The ship could make 20 knots an hour in calm seas._
 - **To [[a/_appoint|appoint]]; to [[n/_name|name]].**
 - **To [[i/_induct|induct]] [[i/_into|into]] the [[m/_mafia|Mafia]] or a [[s/_similar|similar]] [[o/_organization|organization]] (as a [[m/_made|made]] [[m/_man|man]]).**
 - **To [[d/_defecate|defecate]] or urinate.**
-- **To [[e/_earn|earn]], to [[g/_gain|gain]] ([[m/_money|money]], [[p/_points|points]], [[m/_membership|membership]] or status).**
+- **To [[e/_earn|earn]], to [[g/_gain|gain]] ([[m/_money|money]], [[p/_points|points]], [[m/_membership|membership]] or [[s/_status|status]]).**
 	- _Example: He didn't make the choir after his voice changed._
 - **To [[p/_pay|pay]], to [[c/_cover|cover]] (an [[e/_expense|expense]]); [[c/_chiefly|chiefly]] used [[a/_after|after]] [[e/_expressions|expressions]] of [[i/_inability|inability]].**
 - **To [[c/_compose|compose]] verses; to write [[p/_poetry|poetry]]; to versify.**
@@ -70,7 +70,7 @@
 - **To [[a/_act|act]] in a [[c/_certain|certain]] [[m/_manner|manner]]; to [[h/_have|have]] to [[d/_do|do]]; to [[m/_manage|manage]]; to [[i/_interfere|interfere]]; to be [[a/_active|active]]; [[o/_often|often]] in the [[p/_phrase|phrase]] to [[m/_meddle|meddle]] or [[m/_make|make]].**
 - **To [[i/_increase|increase]]; to [[a/_augment|augment]]; to [[a/_accrue|accrue]].**
 - **To be [[e/_engaged|engaged]] or [[c/_concerned|concerned]] in.**
-- **To [[c/_cause|cause]] to be (in a specified [[p/_place|place]]), used [[a/_after|after]] a subjective what.**
+- **To [[c/_cause|cause]] to be (in a [[s/_specified|specified]] [[p/_place|place]]), used [[a/_after|after]] a subjective what.**
 - **To take the virginity of.**
 - **To [[h/_have|have]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]] with.**
 ---

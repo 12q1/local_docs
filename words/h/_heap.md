@@ -5,7 +5,7 @@
 - **A [[p/_pile|pile]] or [[m/_mass|mass]]; a [[c/_collection|collection]] of things [[l/_laid|laid]] in a [[b/_body|body]], or thrown together [[s/_so|so]] as to [[f/_form|form]] an [[e/_elevation|elevation]].**
 	- _Example: a heap of earth or stones_
 - **A [[g/_great|great]] [[n/_number|number]] or [[l/_large|large]] [[q/_quantity|quantity]] of things.**
-- **A [[d/_data|data]] structure [[c/_consisting|consisting]] of trees in which [[e/_each|each]] [[n/_node|node]] is [[g/_greater|greater]] than [[a/_all|all]] [[i/_its|its]] [[c/_children|children]].**
+- **A [[d/_data|data]] [[s/_structure|structure]] [[c/_consisting|consisting]] of trees in which [[e/_each|each]] [[n/_node|node]] is [[g/_greater|greater]] than [[a/_all|all]] [[i/_its|its]] [[c/_children|children]].**
 - **[[m/_memory|Memory]] that is [[d/_dynamically|dynamically]] [[a/_allocated|allocated]].**
 	- _Example: You should move these structures from the stack to the heap to avoid a potential stack overflow._
 - **A [[d/_dilapidated|dilapidated]] [[p/_place|place]] or vehicle.**
@@ -23,6 +23,6 @@
 ### Synonyms
 - [[a/_amass|amass]]
 #adverb
-- **([[r/_representing|representing]] [[b/_broken|broken]] [[e/_english|English]] stereotypically or [[c/_comically|comically]] [[a/_attributed|attributed]] to [[n/_native|Native]] [[a/_americans|Americans]]; [[m/_may|may]] be [[o/_offensive|offensive]]) Very.**
+- **([[r/_representing|representing]] [[b/_broken|broken]] [[e/_english|English]] [[s/_stereotypically|stereotypically]] or [[c/_comically|comically]] [[a/_attributed|attributed]] to [[n/_native|Native]] [[a/_americans|Americans]]; [[m/_may|may]] be [[o/_offensive|offensive]]) Very.**
 ---
 ---

@@ -12,7 +12,7 @@
 	- _Example: We need to screen this porch. These bugs are driving me crazy._
 - **To [[e/_examine|examine]] [[p/_patients|patients]] or treat a [[s/_sample|sample]] in [[o/_order|order]] to [[d/_detect|detect]] a [[c/_chemical|chemical]] or a [[d/_disease|disease]], or to [[a/_assess|assess]] susceptibility to a [[d/_disease|disease]].**
 - **To [[s/_search|search]] [[c/_chemical|chemical]] [[l/_libraries|libraries]] by [[m/_means|means]] of a [[c/_computational|computational]] technique in [[o/_order|order]] to [[i/_identify|identify]] [[c/_chemical|chemical]] [[c/_compounds|compounds]] which would [[p/_potentially|potentially]] [[b/_bind|bind]] to a [[g/_given|given]] [[b/_biological|biological]] target such as a [[p/_protein|protein]].**
-- **To stand [[s/_so|so]] as to [[b/_block|block]] a [[d/_defender|defender]] from [[r/_reaching|reaching]] a teammate.**
+- **To [[s/_stand|stand]] [[s/_so|so]] as to [[b/_block|block]] a [[d/_defender|defender]] from [[r/_reaching|reaching]] a teammate.**
 - **To [[d/_determine|determine]] the [[s/_source|source]] or subject [[m/_matter|matter]] of a [[c/_call|call]] [[b/_before|before]] [[d/_deciding|deciding]] whether to [[a/_answer|answer]] the [[p/_phone|phone]].**
 ---
 ### Synonyms

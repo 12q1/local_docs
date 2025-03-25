@@ -5,7 +5,7 @@
 - **([[p/_physical|physical]]) A [[g/_group|group]] of [[o/_objects|objects]] [[a/_arranged|arranged]] in a [[c/_circle|circle]].**
 - **A [[p/_piece|piece]] of [[f/_food|food]] in the [[s/_shape|shape]] of a [[r/_ring|ring]].**
 	- _Example: onion rings_
-- **A [[p/_place|place]] where [[s/_some|some]] sports or [[e/_exhibitions|exhibitions]] take [[p/_place|place]]; [[n/_notably|notably]] a [[c/_circular|circular]] or [[c/_comparable|comparable]] [[a/_arena|arena]], such as a [[b/_boxing|boxing]] [[r/_ring|ring]] or a [[c/_circus|circus]] [[r/_ring|ring]]; [[h/_hence|hence]] the [[f/_field|field]] of a [[p/_political|political]] [[c/_contest|contest]].**
+- **A [[p/_place|place]] where [[s/_some|some]] [[s/_sports|sports]] or [[e/_exhibitions|exhibitions]] take [[p/_place|place]]; [[n/_notably|notably]] a [[c/_circular|circular]] or [[c/_comparable|comparable]] [[a/_arena|arena]], such as a [[b/_boxing|boxing]] [[r/_ring|ring]] or a [[c/_circus|circus]] [[r/_ring|ring]]; [[h/_hence|hence]] the [[f/_field|field]] of a [[p/_political|political]] [[c/_contest|contest]].**
 - **An [[e/_exclusive|exclusive]] [[g/_group|group]] of [[p/_people|people]], usually [[i/_involving|involving]] [[s/_some|some]] unethical or [[i/_illegal|illegal]] [[p/_practices|practices]].**
 	- _Example: a crime ring; a prostitution ring; a bidding ring (at an auction sale)_
 - **A [[g/_group|group]] of [[a/_atoms|atoms]] [[l/_linked|linked]] by [[b/_bonds|bonds]] to [[f/_form|form]] a [[c/_closed|closed]] [[c/_chain|chain]] in a [[m/_molecule|molecule]].**
@@ -26,8 +26,8 @@
 	- _Example: We managed to ring 22 birds this morning._
 - **To surround or [[f/_fit|fit]] with a [[r/_ring|ring]], or as [[i/_if|if]] with a [[r/_ring|ring]].**
 	- _Example: to ring a pig’s snout_
-- **To [[r/_rise|rise]] in the [[a/_air|air]] spirally.**
-- **To steal and [[c/_change|change]] the [[i/_identity|identity]] of ([[c/_cars|cars]]) in [[o/_order|order]] to [[r/_resell|resell]] them.**
+- **To [[r/_rise|rise]] in the [[a/_air|air]] [[s/_spirally|spirally]].**
+- **To [[s/_steal|steal]] and [[c/_change|change]] the [[i/_identity|identity]] of ([[c/_cars|cars]]) in [[o/_order|order]] to [[r/_resell|resell]] them.**
 ---
 #noun
 - **The [[r/_resonant|resonant]] [[s/_sound|sound]] of a [[b/_bell|bell]], or a [[s/_sound|sound]] [[r/_resembling|resembling]] it.**
@@ -51,7 +51,7 @@
 	- _Example: They rang a Christmas carol on their handbells._
 - **To [[p/_produce|produce]] the [[s/_sound|sound]] of a [[b/_bell|bell]] or a [[s/_similar|similar]] [[s/_sound|sound]].**
 	- _Example: Whose mobile phone is ringing?_
-- **Of [[s/_something|something]] spoken or written, to [[a/_appear|appear]] to be, to [[s/_seem|seem]], to [[s/_sound|sound]].**
+- **Of [[s/_something|something]] [[s/_spoken|spoken]] or written, to [[a/_appear|appear]] to be, to [[s/_seem|seem]], to [[s/_sound|sound]].**
 	- _Example: That does not ring true._
 - **To telephone ([[s/_someone|someone]]).**
 	- _Example: I will ring you when we arrive._
@@ -60,9 +60,9 @@
 - **To [[r/_repeat|repeat]] [[o/_often|often]], [[l/_loudly|loudly]], or [[e/_earnestly|earnestly]].**
 ---
 #noun
-- **An [[a/_algebraic|algebraic]] structure which [[c/_consists|consists]] of a [[s/_set|set]] with two [[b/_binary|binary]] [[o/_operations|operations]]: an [[a/_additive|additive]] [[o/_operation|operation]] and a [[m/_multiplicative|multiplicative]] [[o/_operation|operation]], such that the [[s/_set|set]] is an [[a/_abelian|abelian]] [[g/_group|group]] under the [[a/_additive|additive]] [[o/_operation|operation]], a [[m/_monoid|monoid]] under the [[m/_multiplicative|multiplicative]] [[o/_operation|operation]], and such that the [[m/_multiplicative|multiplicative]] [[o/_operation|operation]] is [[d/_distributive|distributive]] with [[r/_respect|respect]] to the [[a/_additive|additive]] [[o/_operation|operation]].**
+- **An [[a/_algebraic|algebraic]] [[s/_structure|structure]] which [[c/_consists|consists]] of a [[s/_set|set]] with two [[b/_binary|binary]] [[o/_operations|operations]]: an [[a/_additive|additive]] [[o/_operation|operation]] and a [[m/_multiplicative|multiplicative]] [[o/_operation|operation]], such that the [[s/_set|set]] is an [[a/_abelian|abelian]] [[g/_group|group]] under the [[a/_additive|additive]] [[o/_operation|operation]], a [[m/_monoid|monoid]] under the [[m/_multiplicative|multiplicative]] [[o/_operation|operation]], and such that the [[m/_multiplicative|multiplicative]] [[o/_operation|operation]] is [[d/_distributive|distributive]] with [[r/_respect|respect]] to the [[a/_additive|additive]] [[o/_operation|operation]].**
 	- _Example: The set of integers, \mathbb{Z}, is the prototypical ring._
-- **An [[a/_algebraic|algebraic]] structure as [[a/_above|above]], but [[o/_only|only]] [[r/_required|required]] to be a [[s/_semigroup|semigroup]] under the [[m/_multiplicative|multiplicative]] [[o/_operation|operation]], that is, there [[n/_need|need]] not be a [[m/_multiplicative|multiplicative]] [[i/_identity|identity]] [[e/_element|element]].**
+- **An [[a/_algebraic|algebraic]] [[s/_structure|structure]] as [[a/_above|above]], but [[o/_only|only]] [[r/_required|required]] to be a [[s/_semigroup|semigroup]] under the [[m/_multiplicative|multiplicative]] [[o/_operation|operation]], that is, there [[n/_need|need]] not be a [[m/_multiplicative|multiplicative]] [[i/_identity|identity]] [[e/_element|element]].**
 	- _Example: The definition of ring without unity allows, for instance, the set 2\mathbb{Z} of even integers to be a ring._
 ---
 #noun

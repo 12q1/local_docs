@@ -10,10 +10,10 @@
 	- _Example: There was a campaign to draft Smith to run for President._
 - **To [[s/_select|select]] and [[s/_separate|separate]] an [[a/_animal|animal]] or [[a/_animals|animals]] from a [[g/_group|group]].**
 	- _Example: The calves were drafted from the cows._
-- **To [[s/_select|select]] a [[r/_rookie|rookie]] [[p/_player|player]] [[o/_onto|onto]] a [[p/_professional|professional]] sports team.**
+- **To [[s/_select|select]] a [[r/_rookie|rookie]] [[p/_player|player]] [[o/_onto|onto]] a [[p/_professional|professional]] [[s/_sports|sports]] team.**
 	- _Example: After his last year of college football, he was drafted by the Miami Dolphins._
-- **To [[f/_follow|follow]] very [[c/_closely|closely]] ([[b/_behind|behind]] [[a/_another|another]] vehicle), thereby [[p/_providing|providing]] an [[a/_aerodynamic|aerodynamic]] [[a/_advantage|advantage]] to [[b/_both|both]] [[l/_lead|lead]] and [[f/_follower|follower]] and [[c/_conserving|conserving]] [[e/_energy|energy]] or [[i/_increasing|increasing]] speed.**
+- **To [[f/_follow|follow]] very [[c/_closely|closely]] ([[b/_behind|behind]] [[a/_another|another]] vehicle), thereby [[p/_providing|providing]] an [[a/_aerodynamic|aerodynamic]] [[a/_advantage|advantage]] to [[b/_both|both]] [[l/_lead|lead]] and [[f/_follower|follower]] and [[c/_conserving|conserving]] [[e/_energy|energy]] or [[i/_increasing|increasing]] [[s/_speed|speed]].**
 - **To [[d/_draw|draw]] [[o/_out|out]]; to [[c/_call|call]] [[f/_forth|forth]].**
-- **To [[d/_draw|draw]] [[f/_fibers|fibers]] [[o/_out|out]] of a [[c/_clump|clump]], for spinning in the [[p/_production|production]] of [[y/_yarn|yarn]].**
+- **To [[d/_draw|draw]] [[f/_fibers|fibers]] [[o/_out|out]] of a [[c/_clump|clump]], for [[s/_spinning|spinning]] in the [[p/_production|production]] of [[y/_yarn|yarn]].**
 ---
 ---

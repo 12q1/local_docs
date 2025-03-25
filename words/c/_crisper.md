@@ -12,14 +12,14 @@
 	- _Example: An expert, given a certain query, will often come up with a crisp answer: “yes” or “no”._
 - **(of wine) [[h/_having|having]] a [[r/_refreshing|refreshing]] [[a/_amount|amount]] of [[a/_acidity|acidity]]; [[h/_having|having]] [[l/_less|less]] [[a/_acidity|acidity]] than [[g/_green|green]] wine, but [[m/_more|more]] than a [[f/_flabby|flabby]] [[o/_one|one]].**
 - **[[l/_lively|Lively]]; [[s/_sparking|sparking]]; [[e/_effervescing|effervescing]].**
-- **[[c/_curling|Curling]] in stiff [[c/_curls|curls]] or [[r/_ringlets|ringlets]].**
+- **[[c/_curling|Curling]] in [[s/_stiff|stiff]] [[c/_curls|curls]] or [[r/_ringlets|ringlets]].**
 	- _Example: crisp hair_
 - **[[c/_curled|Curled]] by the [[r/_ripple|ripple]] of water.**
 - **Not using [[f/_fuzzy|fuzzy]] [[l/_logic|logic]]; [[b/_based|based]] on a [[b/_binary|binary]] [[d/_distinction|distinction]] [[b/_between|between]] true and [[f/_false|false]].**
 ---
 #noun
-- **A [[c/_cooled|cooled]] [[f/_food|food]] storage [[c/_container|container]], used to [[c/_cool|cool]] [[i/_items|items]] that [[d/_do|do]] not [[r/_require|require]] [[c/_complete|complete]] [[r/_refrigeration|refrigeration]].**
-- **The [[s/_section|section]] of a [[r/_refrigerator|refrigerator]] used to store [[f/_fruit|fruit]] and vegetables at a [[s/_slightly|slightly]] [[h/_higher|higher]] temperature than the [[r/_rest|rest]] of the [[r/_refrigerator|refrigerator]].**
+- **A [[c/_cooled|cooled]] [[f/_food|food]] [[s/_storage|storage]] [[c/_container|container]], used to [[c/_cool|cool]] [[i/_items|items]] that [[d/_do|do]] not [[r/_require|require]] [[c/_complete|complete]] [[r/_refrigeration|refrigeration]].**
+- **The [[s/_section|section]] of a [[r/_refrigerator|refrigerator]] used to [[s/_store|store]] [[f/_fruit|fruit]] and vegetables at a [[s/_slightly|slightly]] [[h/_higher|higher]] temperature than the [[r/_rest|rest]] of the [[r/_refrigerator|refrigerator]].**
 - **An [[i/_instrument|instrument]] for [[m/_making|making]] [[l/_little|little]] [[c/_curls|curls]] in the [[n/_nap|nap]] of [[c/_cloth|cloth]].**
 - **A [[d/_device|device]] for [[c/_crisping|crisping]] or [[c/_curling|curling]] the [[h/_hair|hair]].**
 ---

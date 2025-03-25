@@ -8,7 +8,7 @@
 	- _Example: an inland town_
 - **[[l/_limited|Limited]] to the [[l/_land|land]], or to [[i/_inland|inland]] [[r/_routes|routes]]; within the [[s/_seashore|seashore]] [[b/_boundary|boundary]]; not [[p/_passing|passing]] on, or [[o/_over|over]], the [[s/_sea|sea]]**
 	- _Example: inland commerce_
-- **[[c/_confined|Confined]] to a [[c/_country|country]] or state; [[d/_domestic|domestic]]; not [[f/_foreign|foreign]].**
+- **[[c/_confined|Confined]] to a [[c/_country|country]] or [[s/_state|state]]; [[d/_domestic|domestic]]; not [[f/_foreign|foreign]].**
 ---
 #adverb
 - **[[i/_into|Into]], or towards, the [[i/_interior|interior]] of the [[l/_land|land]], [[a/_away|away]] from the [[c/_coast|coast]].**

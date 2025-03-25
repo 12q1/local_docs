@@ -3,12 +3,12 @@
 #verb
 - **To [[p/_polish|polish]] and [[m/_make|make]] [[s/_shiny|shiny]] by [[r/_rubbing|rubbing]].**
 	- _Example: He was already buffing the car's hubs._
-- **To [[m/_make|make]] a [[c/_character|character]] or an [[i/_item|item]] stronger.**
+- **To [[m/_make|make]] a [[c/_character|character]] or an [[i/_item|item]] [[s/_stronger|stronger]].**
 	- _Example: I noticed that the pistols were buffed in the update._
 - **To [[m/_modify|modify]] a [[m/_medical|medical]] [[c/_chart|chart]], [[e/_especially|especially]] in a [[d/_dishonest|dishonest]] [[m/_manner|manner]].**
 ---
 #verb
-- **To strike.**
+- **To [[s/_strike|strike]].**
 ---
 #noun
 - **[[m/_material|Material]] [[r/_removed|removed]] by the [[a/_action|action]] of [[s/_someone|someone]] who [[b/_buffs|buffs]].**

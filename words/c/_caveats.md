@@ -9,7 +9,7 @@
 - **A [[n/_notice|notice]] [[r/_requesting|requesting]] a [[p/_postponement|postponement]] of a [[c/_court|court]] [[p/_proceeding|proceeding]].**
 ---
 #verb
-- **To [[q/_qualify|qualify]] a statement with a [[c/_caveat|caveat]] or [[p/_proviso|proviso]].**
+- **To [[q/_qualify|qualify]] a [[s/_statement|statement]] with a [[c/_caveat|caveat]] or [[p/_proviso|proviso]].**
 - **To [[f/_formally|formally]] [[o/_object|object]] to [[s/_something|something]].**
 - **To [[i/_issue|issue]] a [[n/_notice|notice]] [[r/_requesting|requesting]] that [[p/_proceedings|proceedings]] be suspended.**
 - **To warn or [[c/_caution|caution]] [[a/_against|against]] [[s/_some|some]] [[e/_event|event]].**

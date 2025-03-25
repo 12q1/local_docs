@@ -1,6 +1,6 @@
 # Nonstimulating
 ---
 #adjective
-- **Not stimulating.**
+- **Not [[s/_stimulating|stimulating]].**
 ---
 ---

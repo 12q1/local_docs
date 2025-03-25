@@ -1,7 +1,7 @@
 # Mayst
 ---
 #verb
-- **To be strong; to [[h/_have|have]] [[p/_power|power]] ([[o/_over|over]]).**
+- **To be [[s/_strong|strong]]; to [[h/_have|have]] [[p/_power|power]] ([[o/_over|over]]).**
 - **([[a/_auxiliary|auxiliary]]) To be [[a/_able|able]]; [[c/_can|can]].**
 - **To be [[a/_able|able]] to [[g/_go|go]].**
 - **([[m/_modal|modal]] [[a/_auxiliary|auxiliary]] verb, [[d/_defective|defective]]) To [[h/_have|have]] [[p/_permission|permission]] to, be [[a/_allowed|allowed]]. Used in [[g/_granting|granting]] [[p/_permission|permission]] and in [[q/_questions|questions]] to [[m/_make|make]] [[p/_polite|polite]] [[r/_requests|requests]].**

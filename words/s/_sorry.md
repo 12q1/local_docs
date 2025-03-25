@@ -18,7 +18,7 @@
 	- _Example: Sorry! I didn't see that you were on the phone._
 - **Used as a [[r/_request|request]] for [[s/_someone|someone]] to [[r/_repeat|repeat]] [[s/_something|something]] not [[h/_heard|heard]] or understood [[c/_clearly|clearly]].**
 	- _Example: Sorry? What was that? The phone cut out._
-- **Used to [[c/_correct|correct]] [[o/_oneself|oneself]] in speech.**
+- **Used to [[c/_correct|correct]] [[o/_oneself|oneself]] in [[s/_speech|speech]].**
 	- _Example: There are four — sorry, five — branches of the store locally._
 ---
 ### Synonyms

@@ -6,7 +6,7 @@
 - **To [[g/_get|get]] by [[d/_digging|digging]]; to take from the [[g/_ground|ground]]; [[o/_often|often]] with up.**
 	- _Example: to dig potatoes_
 - **To take [[o/_ore|ore]] from [[i/_its|its]] [[b/_bed|bed]], in [[d/_distinction|distinction]] from [[m/_making|making]] [[e/_excavations|excavations]] in [[s/_search|search]] of [[o/_ore|ore]].**
-- **To work [[l/_like|like]] a [[d/_digger|digger]]; to study [[p/_ploddingly|ploddingly]] and [[l/_laboriously|laboriously]].**
+- **To work [[l/_like|like]] a [[d/_digger|digger]]; to [[s/_study|study]] [[p/_ploddingly|ploddingly]] and [[l/_laboriously|laboriously]].**
 - **To [[i/_investigate|investigate]], to [[r/_research|research]], [[o/_often|often]] [[f/_followed|followed]] by [[o/_out|out]] or up.**
 	- _Example: to dig out the facts_
 - **To thrust; to [[p/_poke|poke]].**

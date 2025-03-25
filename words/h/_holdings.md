@@ -1,7 +1,7 @@
 # Holdings
 ---
 #noun
-- **[[s/_something|Something]] that [[o/_one|one]] [[o/_owns|owns]], [[e/_especially|especially]] stocks and [[b/_bonds|bonds]].**
+- **[[s/_something|Something]] that [[o/_one|one]] [[o/_owns|owns]], [[e/_especially|especially]] [[s/_stocks|stocks]] and [[b/_bonds|bonds]].**
 - **A [[d/_determination|determination]] of [[l/_law|law]] [[m/_made|made]] by a [[c/_court|court]].**
 - **A tenure; a [[f/_farm|farm]] or [[o/_other|other]] [[e/_estate|estate]] [[h/_held|held]] of [[a/_another|another]].**
 - **That which [[h/_holds|holds]], [[b/_binds|binds]], or [[i/_influences|influences]].**

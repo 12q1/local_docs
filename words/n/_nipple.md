@@ -8,7 +8,7 @@
 - **[[a/_any|Any]] [[s/_small|small]] [[p/_physical|physical]] [[p/_protrusion|protrusion]] on an [[a/_automotive|automotive]], a [[m/_machine|machine]] [[p/_part|part]] or [[a/_any|any]] [[o/_other|other]] [[p/_part|part]] that [[f/_fits|fits]] [[i/_into|into]] a [[g/_groove|groove]] on [[a/_another|another]] [[p/_part|part]].**
 - **A [[p/_perforated|perforated]] [[s/_segment|segment]] that [[f/_fits|fits]] [[i/_into|into]] [[p/_part|part]] of the [[b/_breech|breech]] of a [[m/_muzzle|muzzle]]-[[l/_loading|loading]] [[g/_gun|gun]], on which the [[p/_percussion|percussion]] [[c/_cap|cap]] is [[f/_fixed|fixed]].**
 - **A [[s/_short|short]] tube threaded at [[b/_both|both]] [[e/_ends|ends]], used as a [[c/_connector|connector]].**
-- **An [[i/_internally|internally]] threaded [[p/_piece|piece]] which [[h/_holds|holds]] a [[b/_bicycle|bicycle]] spoke in [[p/_place|place]] on the [[r/_rim|rim]].**
+- **An [[i/_internally|internally]] threaded [[p/_piece|piece]] which [[h/_holds|holds]] a [[b/_bicycle|bicycle]] [[s/_spoke|spoke]] in [[p/_place|place]] on the [[r/_rim|rim]].**
 	- _Example: Turn the nipples on to the bicycle spokes only one turn, for each spoke on the new wheel all the way around until they are all snug, then check alignment._
 ---
 ### Synonyms

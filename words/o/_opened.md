@@ -9,11 +9,11 @@
 	- _Example: I don't want to open that subject._
 - **To [[e/_enter|enter]] upon, [[b/_begin|begin]].**
 	- _Example: to open a case in court, or a meeting_
-- **To spread; to [[e/_expand|expand]] [[i/_into|into]] an [[o/_open|open]] or [[l/_loose|loose]] [[p/_position|position]].**
+- **To [[s/_spread|spread]]; to [[e/_expand|expand]] [[i/_into|into]] an [[o/_open|open]] or [[l/_loose|loose]] [[p/_position|position]].**
 	- _Example: to open a closed fist_
 - **To [[m/_make|make]] [[a/_accessible|accessible]] to [[c/_customers|customers]] or [[c/_clients|clients]].**
 	- _Example: I will open the shop an hour early tomorrow._
-- **To start (a [[c/_campaign|campaign]]).**
+- **To [[s/_start|start]] (a [[c/_campaign|campaign]]).**
 	- _Example: Vermont will open elk hunting season next week._
 - **To [[b/_become|become]] [[o/_open|open]].**
 	- _Example: The door opened all by itself._

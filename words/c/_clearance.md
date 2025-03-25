@@ -15,7 +15,7 @@
 - **The [[a/_act|act]] of [[k/_kicking|kicking]] a [[b/_ball|ball]] [[a/_away|away]] from the [[g/_goal|goal]] [[o/_one|one]] is [[d/_defending|defending]].**
 - **[[r/_removal|Removal]] of [[p/_pieces|pieces]] from a [[r/_rank|rank]], [[f/_file|file]] or [[d/_diagonal|diagonal]] [[s/_so|so]] that a [[b/_bishop|bishop]], [[r/_rook|rook]] or [[q/_queen|queen]] is [[f/_free|free]] to [[m/_move|move]] [[a/_along|along]] it.**
 - **[[c/_clear|Clear]] or [[n/_net|net]] [[p/_profit|profit]].**
-- **The [[f/_first|first]] [[d/_disposal|disposal]] in a [[c/_chain|chain]] that [[l/_leaves|leaves]] the [[a/_area|area]] of a stoppage, or a [[d/_disposal|disposal]] that [[l/_leaves|leaves]] the [[a/_area|area]] of a stoppage [[i/_itself|itself]].**
-- **The [[a/_act|act]] of [[l/_leaving|leaving]] the [[a/_area|area]] of a stoppage.**
+- **The [[f/_first|first]] [[d/_disposal|disposal]] in a [[c/_chain|chain]] that [[l/_leaves|leaves]] the [[a/_area|area]] of a [[s/_stoppage|stoppage]], or a [[d/_disposal|disposal]] that [[l/_leaves|leaves]] the [[a/_area|area]] of a [[s/_stoppage|stoppage]] [[i/_itself|itself]].**
+- **The [[a/_act|act]] of [[l/_leaving|leaving]] the [[a/_area|area]] of a [[s/_stoppage|stoppage]].**
 ---
 ---

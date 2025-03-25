@@ -15,6 +15,6 @@
 ---
 #noun
 - **(in the [[p/_plural|plural]]) [[p/_projections|Projections]] at the [[m/_masthead|masthead]], [[s/_serving|serving]] as a support for the trestletrees and top to [[r/_rest|rest]] on.**
-- **A [[s/_side|side]] [[b/_bar|bar]] used to strengthen [[p/_portions|portions]] of the [[r/_running|running]] [[g/_gear|gear]] of a vehicle.**
+- **A [[s/_side|side]] [[b/_bar|bar]] used to [[s/_strengthen|strengthen]] [[p/_portions|portions]] of the [[r/_running|running]] [[g/_gear|gear]] of a vehicle.**
 ---
 ---

@@ -16,16 +16,16 @@
 - **The [[c/_connection|connection]] [[b/_between|between]] [[b/_buses|buses]] or [[s/_systems|systems]].**
 	- _Example: A by-N-link is composed of N lanes._
 - **A [[s/_space|space]] [[c/_comprising|comprising]] [[o/_one|one]] or [[m/_more|more]] [[d/_disjoint|disjoint]] [[k/_knots|knots]].**
-- **A thin wild [[b/_bank|bank]] of [[l/_land|land]] splitting two [[c/_cultivated|cultivated]] [[p/_patches|patches]] and [[o/_often|often]] [[l/_linking|linking]] two [[h/_hills|hills]].**
+- **A thin wild [[b/_bank|bank]] of [[l/_land|land]] [[s/_splitting|splitting]] two [[c/_cultivated|cultivated]] [[p/_patches|patches]] and [[o/_often|often]] [[l/_linking|linking]] two [[h/_hills|hills]].**
 - **An [[i/_individual|individual]] [[p/_person|person]] or [[e/_element|element]] in a [[s/_system|system]]**
 - **[[a/_anything|Anything]] [[d/_doubled|doubled]] and [[c/_closed|closed]] [[l/_like|like]] a [[l/_link|link]] of a [[c/_chain|chain]].**
 	- _Example: a link of horsehair_
 - **A [[s/_sausage|sausage]] that is not a [[p/_patty|patty]].**
 - **([[k/_kinematics|kinematics]]) [[a/_any|Any]] [[o/_one|one]] of the [[s/_several|several]] [[e/_elementary|elementary]] [[p/_pieces|pieces]] of a [[m/_mechanism|mechanism]], such as the [[f/_fixed|fixed]] [[f/_frame|frame]], or a [[r/_rod|rod]], wheel, [[m/_mass|mass]] of [[c/_confined|confined]] [[l/_liquid|liquid]], [[e/_etc|etc]]., by which [[r/_relative|relative]] [[m/_motion|motion]] of [[o/_other|other]] [[p/_parts|parts]] is [[p/_produced|produced]] and [[c/_constrained|constrained]].**
-- **[[a/_any|Any]] [[i/_intermediate|intermediate]] [[r/_rod|rod]] or [[p/_piece|piece]] for transmitting [[f/_force|force]] or [[m/_motion|motion]], [[e/_especially|especially]] a [[s/_short|short]] [[c/_connecting|connecting]] [[r/_rod|rod]] with a [[b/_bearing|bearing]] at [[e/_each|each]] [[e/_end|end]]; specifically (in steam [[e/_engines|engines]]) the [[s/_slotted|slotted]] [[b/_bar|bar]], or [[c/_connecting|connecting]] [[p/_piece|piece]], to the [[o/_opposite|opposite]] [[e/_ends|ends]] of which the [[e/_eccentric|eccentric]] [[r/_rods|rods]] are [[j/_jointed|jointed]], and by [[m/_means|means]] of which the [[m/_movement|movement]] of the valve is varied, in a [[l/_link|link]] [[m/_motion|motion]].**
+- **[[a/_any|Any]] [[i/_intermediate|intermediate]] [[r/_rod|rod]] or [[p/_piece|piece]] for transmitting [[f/_force|force]] or [[m/_motion|motion]], [[e/_especially|especially]] a [[s/_short|short]] [[c/_connecting|connecting]] [[r/_rod|rod]] with a [[b/_bearing|bearing]] at [[e/_each|each]] [[e/_end|end]]; [[s/_specifically|specifically]] (in [[s/_steam|steam]] [[e/_engines|engines]]) the [[s/_slotted|slotted]] [[b/_bar|bar]], or [[c/_connecting|connecting]] [[p/_piece|piece]], to the [[o/_opposite|opposite]] [[e/_ends|ends]] of which the [[e/_eccentric|eccentric]] [[r/_rods|rods]] are [[j/_jointed|jointed]], and by [[m/_means|means]] of which the [[m/_movement|movement]] of the valve is varied, in a [[l/_link|link]] [[m/_motion|motion]].**
 - **The [[l/_length|length]] of [[o/_one|one]] [[j/_joint|joint]] of [[g/_gunter|Gunter]]'[[s/_s|s]] [[c/_chain|chain]], [[b/_being|being]] the [[h/_hundredth|hundredth]] [[p/_part|part]] of it, or 7.92 [[i/_inches|inches]], the [[c/_chain|chain]] [[b/_being|being]] 66 [[f/_feet|feet]] in [[l/_length|length]].**
 - **A [[b/_bond|bond]] of [[a/_affinity|affinity]], or a unit of valence [[b/_between|between]] [[a/_atoms|atoms]]; [[a/_applied|applied]] to a unit of [[c/_chemical|chemical]] [[f/_force|force]] or [[a/_attraction|attraction]].**
-- **([[p/_plural|plural]]) The windings of a [[r/_river|river]]; the [[l/_land|land]] [[a/_along|along]] a winding stream.**
+- **([[p/_plural|plural]]) The windings of a [[r/_river|river]]; the [[l/_land|land]] [[a/_along|along]] a winding [[s/_stream|stream]].**
 ---
 ### Synonyms
 - [[c/_connection|connection]]

@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_aggregate|aggregate]] of [[p/_past|past]] [[e/_events|events]].**
 	- _Example: History repeats itself if we don’t learn from its mistakes._
-- **The [[b/_branch|branch]] of [[k/_knowledge|knowledge]] that studies the [[p/_past|past]]; the [[a/_assessment|assessment]] of [[n/_notable|notable]] [[e/_events|events]].**
+- **The [[b/_branch|branch]] of [[k/_knowledge|knowledge]] that [[s/_studies|studies]] the [[p/_past|past]]; the [[a/_assessment|assessment]] of [[n/_notable|notable]] [[e/_events|events]].**
 	- _Example: He teaches history at the university.   History will not look kindly on these tyrants.   He dreams of an invention that will make history._
 - **A [[s/_set|set]] of [[e/_events|events]] [[i/_involving|involving]] an [[e/_entity|entity]].**
 	- _Example: What is your medical history?   The family's history includes events best forgotten._

@@ -13,7 +13,7 @@
 - **A violent [[b/_blow|blow]]; a [[p/_punch|punch]].**
 ---
 #verb
-- **To [[h/_hit|hit]] or strike violently; to [[d/_deliver|deliver]] a [[b/_blow|blow]] to.**
+- **To [[h/_hit|hit]] or [[s/_strike|strike]] violently; to [[d/_deliver|deliver]] a [[b/_blow|blow]] to.**
 - **To throw.**
 ---
 #noun
@@ -26,7 +26,7 @@
 - **[[o/_one|One]] [[e/_endpoint|endpoint]] of a two-way [[n/_named|named]] [[p/_pipe|pipe]] on Unix and Unix-[[l/_like|like]] [[s/_systems|systems]], used for [[i/_interprocess|interprocess]] [[c/_communication|communication]].**
 - **A [[h/_hollow|hollow]] tool for [[g/_grasping|grasping]] and [[l/_lifting|lifting]] tools [[d/_dropped|dropped]] in a well-[[b/_boring|boring]].**
 - **The [[h/_hollow|hollow]] of a [[c/_candlestick|candlestick]].**
-- **A steel [[a/_apparatus|apparatus]] [[a/_attached|attached]] to a [[s/_saddle|saddle]] to [[p/_protect|protect]] the thighs and [[l/_legs|legs]].**
+- **A [[s/_steel|steel]] [[a/_apparatus|apparatus]] [[a/_attached|attached]] to a [[s/_saddle|saddle]] to [[p/_protect|protect]] the thighs and [[l/_legs|legs]].**
 ---
 ### Synonyms
 - [[j/_jack|jack]]

@@ -11,7 +11,7 @@
 - **The [[c/_catcher|catcher]] and the [[p/_pitcher|pitcher]] together**
 - **Two or [[m/_more|more]] [[m/_major|major]] [[p/_pieces|pieces]] on the [[s/_same|same]] [[r/_rank|rank]], [[f/_file|file]], or [[d/_diagonal|diagonal]]**
 - **A [[m/_marching|marching]] [[p/_percussion|percussion]] [[e/_ensemble|ensemble]]; a [[d/_drumline|drumline]].**
-- **The state of a [[f/_firearm|firearm]] when it is [[p/_possible|possible]] to be [[f/_fired|fired]].**
+- **The [[s/_state|state]] of a [[f/_firearm|firearm]] when it is [[p/_possible|possible]] to be [[f/_fired|fired]].**
 - **[[a/_apparatus|Apparatus]] for [[p/_preparing|preparing]] or [[s/_serving|serving]] [[m/_meals|meals]].**
 ---
 ---

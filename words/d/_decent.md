@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[a/_appropriate|Appropriate]]; suitable for the [[c/_circumstances|circumstances]].**
-- **(of a [[p/_person|person]]) [[h/_having|Having]] a suitable [[c/_conformity|conformity]] to [[b/_basic|basic]] [[m/_moral|moral]] standards; [[s/_showing|showing]] [[i/_integrity|integrity]], [[f/_fairness|fairness]], or [[o/_other|other]] [[c/_characteristics|characteristics]] [[a/_associated|associated]] with [[m/_moral|moral]] uprightness.**
+- **(of a [[p/_person|person]]) [[h/_having|Having]] a suitable [[c/_conformity|conformity]] to [[b/_basic|basic]] [[m/_moral|moral]] [[s/_standards|standards]]; [[s/_showing|showing]] [[i/_integrity|integrity]], [[f/_fairness|fairness]], or [[o/_other|other]] [[c/_characteristics|characteristics]] [[a/_associated|associated]] with [[m/_moral|moral]] uprightness.**
 - **Sufficiently [[c/_clothed|clothed]] or [[d/_dressed|dressed]] to be [[s/_seen|seen]].**
 	- _Example: Are you decent? May I come in?_
 - **[[f/_fair|Fair]]; [[g/_good|good]] [[e/_enough|enough]]; [[o/_okay|okay]].**

@@ -1,7 +1,7 @@
 # Sieved
 ---
 #verb
-- **To strain, [[s/_sift|sift]] or [[s/_sort|sort]] using a [[s/_sieve|sieve]].**
+- **To [[s/_strain|strain]], [[s/_sift|sift]] or [[s/_sort|sort]] using a [[s/_sieve|sieve]].**
 - **To [[c/_concede|concede]]; [[l/_let|let]] in**
 ---
 #adjective

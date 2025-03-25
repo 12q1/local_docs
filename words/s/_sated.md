@@ -7,7 +7,7 @@
 ### Synonyms
 - [[s/_satiate|satiate]]
 #adjective
-- **In a state of [[c/_complete|complete]] and thorough [[s/_satisfaction|satisfaction]]; [[h/_having|having]] [[o/_ones|ones]] [[a/_appetite|appetite]] [[f/_fully|fully]] [[s/_satisfied|satisfied]], by [[h/_having|having]] [[e/_enough|enough]] of [[s/_something|something]].**
+- **In a [[s/_state|state]] of [[c/_complete|complete]] and thorough [[s/_satisfaction|satisfaction]]; [[h/_having|having]] [[o/_ones|ones]] [[a/_appetite|appetite]] [[f/_fully|fully]] [[s/_satisfied|satisfied]], by [[h/_having|having]] [[e/_enough|enough]] of [[s/_something|something]].**
 - **[[q/_quelled|Quelled]] of thirst or [[h/_hunger|hunger]].**
 ---
 ### Synonyms

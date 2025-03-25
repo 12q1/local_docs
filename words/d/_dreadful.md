@@ -1,7 +1,7 @@
 # Dreadful
 ---
 #noun
-- **A [[s/_shocker|shocker]]: a [[r/_report|report]] of a [[c/_crime|crime]] written in a [[p/_provokingly|provokingly]] [[l/_lurid|lurid]] style.**
+- **A [[s/_shocker|shocker]]: a [[r/_report|report]] of a [[c/_crime|crime]] written in a [[p/_provokingly|provokingly]] [[l/_lurid|lurid]] [[s/_style|style]].**
 - **A [[j/_journal|journal]] or [[b/_broadsheet|broadsheet]] [[p/_printing|printing]] such [[r/_reports|reports]].**
 - **A [[s/_shocking|shocking]] or [[s/_sensational|sensational]] [[c/_crime|crime]].**
 ---

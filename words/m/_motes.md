@@ -1,7 +1,7 @@
 # Motes
 ---
 #noun
-- **A [[s/_small|small]] [[p/_particle|particle]]; a speck.**
+- **A [[s/_small|small]] [[p/_particle|particle]]; a [[s/_speck|speck]].**
 ---
 #noun
 - **A [[m/_meeting|meeting]] for [[d/_discussion|discussion]].**

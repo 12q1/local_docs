@@ -6,7 +6,7 @@
 - **A [[d/_difficult|difficult]] [[s/_situation|situation]]; a [[q/_quandary|quandary]] or [[d/_dilemma|dilemma]]; a [[p/_predicament|predicament]].**
 	- _Example: It rained before we repaired the roof, and were we in a fix!_
 - **A [[s/_single|single]] [[d/_dose|dose]] of an [[a/_addictive|addictive]] [[d/_drug|drug]] [[a/_administered|administered]] to a [[d/_drug|drug]] user.**
-- **A [[p/_prearrangement|prearrangement]] of the [[o/_outcome|outcome]] of a supposedly [[c/_competitive|competitive]] [[p/_process|process]], such as a sporting [[e/_event|event]], a [[g/_game|game]], an [[e/_election|election]], a trial, or a [[b/_bid|bid]].**
+- **A [[p/_prearrangement|prearrangement]] of the [[o/_outcome|outcome]] of a supposedly [[c/_competitive|competitive]] [[p/_process|process]], such as a [[s/_sporting|sporting]] [[e/_event|event]], a [[g/_game|game]], an [[e/_election|election]], a trial, or a [[b/_bid|bid]].**
 - **A [[d/_determination|determination]] of [[l/_location|location]].**
 	- _Example: We have a fix on your position._
 - **[[f/_fettlings|Fettlings]] ([[m/_mixture|mixture]] used to [[l/_line|line]] a [[f/_furnace|furnace]])**
@@ -27,7 +27,7 @@
 - **To take [[r/_revenge|revenge]] on, to [[b/_best|best]]; to [[s/_serve|serve]] [[j/_justice|justice]] on an [[a/_assumed|assumed]] [[m/_miscreant|miscreant]].**
 	- _Example: He got caught breaking into lockers, so a couple of guys fixed him after work._
 - **To [[r/_render|render]] (a [[p/_photographic|photographic]] [[i/_impression|impression]]) [[p/_permanent|permanent]] by treating with such [[a/_applications|applications]] as will [[m/_make|make]] it [[i/_insensitive|insensitive]] to the [[a/_action|action]] of [[l/_light|light]].**
-- **To [[c/_convert|convert]] [[i/_into|into]] a stable or [[a/_available|available]] [[f/_form|form]].**
+- **To [[c/_convert|convert]] [[i/_into|into]] a [[s/_stable|stable]] or [[a/_available|available]] [[f/_form|form]].**
 	- _Example: Legumes are valued in crop rotation for their ability to fix nitrogen._
 - **To [[b/_become|become]] [[f/_fixed|fixed]]; to [[s/_settle|settle]] or [[r/_remain|remain]] [[p/_permanently|permanently]]; to [[c/_cease|cease]] from wandering; to [[r/_rest|rest]].**
 - **To [[b/_become|become]] [[f/_firm|firm]], [[s/_so|so]] as to [[r/_resist|resist]] volatilization; to [[c/_cease|cease]] to [[f/_flow|flow]] or be [[f/_fluid|fluid]]; to [[c/_congeal|congeal]]; to [[b/_become|become]] [[h/_hard|hard]] and [[m/_malleable|malleable]], as a [[m/_metallic|metallic]] substance.**

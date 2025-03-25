@@ -1,7 +1,7 @@
 # Serfdom
 ---
 #noun
-- **The state of [[b/_being|being]] a [[s/_serf|serf]].**
+- **The [[s/_state|state]] of [[b/_being|being]] a [[s/_serf|serf]].**
 - **The [[f/_feudal|feudal]] [[s/_system|system]] that [[i/_includes|includes]] [[s/_serfs|serfs]].**
 ---
 ### Synonyms

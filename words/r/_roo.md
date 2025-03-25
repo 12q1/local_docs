@@ -2,6 +2,6 @@
 ---
 #noun
 - **[[p/_peace|Peace]]; [[q/_quietness|quietness]].**
-- **[[r/_rest|Rest]]; stillness.**
+- **[[r/_rest|Rest]]; [[s/_stillness|stillness]].**
 ---
 ---

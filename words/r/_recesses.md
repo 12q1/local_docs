@@ -10,7 +10,7 @@
 - **A [[d/_decree|decree]] of the [[i/_imperial|imperial]] [[d/_diet|diet]] of the [[o/_old|old]] [[g/_german|German]] [[e/_empire|empire]].**
 - **A withdrawing or [[r/_retiring|retiring]]; a [[m/_moving|moving]] [[b/_back|back]]; [[r/_retreat|retreat]].**
 	- _Example: the recess of the tides_
-- **The state of [[b/_being|being]] withdrawn; [[s/_seclusion|seclusion]]; [[p/_privacy|privacy]].**
+- **The [[s/_state|state]] of [[b/_being|being]] withdrawn; [[s/_seclusion|seclusion]]; [[p/_privacy|privacy]].**
 - **A [[p/_place|place]] of [[r/_retirement|retirement]], [[r/_retreat|retreat]], [[s/_secrecy|secrecy]], or [[s/_seclusion|seclusion]].**
 - **A [[s/_secret|secret]] or [[a/_abstruse|abstruse]] [[p/_part|part]].**
 	- _Example: the difficulties and recesses of science_

@@ -1,7 +1,7 @@
 # Melted
 ---
 #verb
-- **To [[c/_change|change]] (or to be [[c/_changed|changed]]) from a [[s/_solid|solid]] state to a [[l/_liquid|liquid]] state, usually by a [[g/_gradual|gradual]] [[h/_heat|heat]].**
+- **To [[c/_change|change]] (or to be [[c/_changed|changed]]) from a [[s/_solid|solid]] [[s/_state|state]] to a [[l/_liquid|liquid]] [[s/_state|state]], usually by a [[g/_gradual|gradual]] [[h/_heat|heat]].**
 	- _Example: I melted butter to make a cake._
 - **To [[d/_dissolve|dissolve]], [[d/_disperse|disperse]], vanish.**
 	- _Example: His troubles melted away._
@@ -15,7 +15,7 @@
 ### Synonyms
 - [[f/_found|found]], [[t/_thaw|thaw]]
 #adjective
-- **[[b/_being|Being]] in a [[l/_liquid|liquid]] state as a [[r/_result|result]] of [[m/_melting|melting]].**
+- **[[b/_being|Being]] in a [[l/_liquid|liquid]] [[s/_state|state]] as a [[r/_result|result]] of [[m/_melting|melting]].**
 	- _Example: Melted ice cream just isn't as much fun to eat._
 ---
 ---

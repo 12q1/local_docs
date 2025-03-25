@@ -21,7 +21,7 @@
 - **[[o/_oppressive|Oppressive]]; without [[m/_motion|motion]] or ventilation; [[c/_causing|causing]] a [[f/_feeling|feeling]] of [[l/_lassitude|lassitude]].**
 - **([[i/_ireland|Ireland]], [[e/_england|England]], [[s/_scotland|Scotland]]) [[h/_hot|Hot]], [[h/_humid|humid]], with [[n/_no|no]] wind.**
 - **(of a vowel) [[a/_articulated|Articulated]] with the tongue [[b/_body|body]] [[r/_relatively|relatively]] [[c/_close|close]] to the [[h/_hard|hard]] [[p/_palate|palate]].**
-- **Strictly [[c/_confined|confined]]; [[c/_carefully|carefully]] [[g/_guarded|guarded]].**
+- **[[s/_strictly|Strictly]] [[c/_confined|confined]]; [[c/_carefully|carefully]] [[g/_guarded|guarded]].**
 	- _Example: a close prisoner_
 - **[[o/_out|Out]] of the way of [[o/_observation|observation]]; [[s/_secluded|secluded]]; [[s/_secret|secret]]; [[h/_hidden|hidden]].**
 - **[[n/_nearly|Nearly]] [[e/_equal|equal]]; [[a/_almost|almost]] [[e/_evenly|evenly]] [[b/_balanced|balanced]].**
@@ -33,10 +33,10 @@
 	- _Example: close reasoning_
 - **[[d/_difficult|Difficult]] to [[o/_obtain|obtain]].**
 	- _Example: Money is close._
-- **[[p/_parsimonious|Parsimonious]]; stingy.**
-- **[[a/_adhering|Adhering]] strictly to a standard or [[o/_original|original]]; [[e/_exact|exact]].**
+- **[[p/_parsimonious|Parsimonious]]; [[s/_stingy|stingy]].**
+- **[[a/_adhering|Adhering]] [[s/_strictly|strictly]] to a [[s/_standard|standard]] or [[o/_original|original]]; [[e/_exact|exact]].**
 	- _Example: a close translation_
-- **[[a/_accurate|Accurate]]; [[c/_careful|careful]]; [[p/_precise|precise]]; [[a/_also|also]], [[a/_attentive|attentive]]; undeviating; strict.**
+- **[[a/_accurate|Accurate]]; [[c/_careful|careful]]; [[p/_precise|precise]]; [[a/_also|also]], [[a/_attentive|attentive]]; undeviating; [[s/_strict|strict]].**
 	- _Example: The patient was kept under close observation._
 - **[[m/_marked|Marked]], [[e/_evident|evident]].**
 ---

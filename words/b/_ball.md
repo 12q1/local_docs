@@ -1,7 +1,7 @@
 # Ball
 ---
 #noun
-- **A [[s/_solid|solid]] or [[h/_hollow|hollow]] sphere, or [[r/_roughly|roughly]] spherical [[m/_mass|mass]].**
+- **A [[s/_solid|solid]] or [[h/_hollow|hollow]] [[s/_sphere|sphere]], or [[r/_roughly|roughly]] [[s/_spherical|spherical]] [[m/_mass|mass]].**
 	- _Example: a ball of spittle; a fecal ball_
 - **A [[r/_round|round]] or [[e/_ellipsoidal|ellipsoidal]] [[o/_object|object]].**
 - **([[m/_mildly|mildly]], usually in the [[p/_plural|plural]]) A testicle.**

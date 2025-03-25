@@ -7,6 +7,6 @@
 #noun
 - **An [[a/_axis|axis]] or [[s/_shaft|shaft]] supporting a [[r/_rotating|rotating]] [[p/_part|part]] on a [[l/_lathe|lathe]].**
 - **A [[b/_bar|bar]] for supporting [[c/_cutting|cutting]] tools.**
-- **A spindle of a wheel.**
+- **A [[s/_spindle|spindle]] of a wheel.**
 ---
 ---

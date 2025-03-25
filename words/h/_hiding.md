@@ -13,7 +13,7 @@
 - **To [[b/_beat|beat]] with a whip [[m/_made|made]] from [[h/_hide|hide]].**
 ---
 #noun
-- **A state of [[c/_concealment|concealment]].**
+- **A [[s/_state|state]] of [[c/_concealment|concealment]].**
 - **A [[p/_place|place]] of [[c/_concealment|concealment]].**
 ---
 ---

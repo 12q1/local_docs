@@ -1,7 +1,7 @@
 # Melting
 ---
 #verb
-- **To [[c/_change|change]] (or to be [[c/_changed|changed]]) from a [[s/_solid|solid]] state to a [[l/_liquid|liquid]] state, usually by a [[g/_gradual|gradual]] [[h/_heat|heat]].**
+- **To [[c/_change|change]] (or to be [[c/_changed|changed]]) from a [[s/_solid|solid]] [[s/_state|state]] to a [[l/_liquid|liquid]] [[s/_state|state]], usually by a [[g/_gradual|gradual]] [[h/_heat|heat]].**
 	- _Example: I melted butter to make a cake._
 - **To [[d/_dissolve|dissolve]], [[d/_disperse|disperse]], vanish.**
 	- _Example: His troubles melted away._
@@ -15,12 +15,12 @@
 ### Synonyms
 - [[f/_found|found]], [[t/_thaw|thaw]]
 #noun
-- **The [[p/_process|process]] of [[c/_changing|changing]] the state of a substance from [[s/_solid|solid]] to [[l/_liquid|liquid]] by [[h/_heating|heating]] it [[p/_past|past]] [[i/_its|its]] [[m/_melting|melting]] [[p/_point|point]].**
+- **The [[p/_process|process]] of [[c/_changing|changing]] the [[s/_state|state]] of a substance from [[s/_solid|solid]] to [[l/_liquid|liquid]] by [[h/_heating|heating]] it [[p/_past|past]] [[i/_its|its]] [[m/_melting|melting]] [[p/_point|point]].**
 - **The [[a/_act|act]] of [[s/_softening|softening]] or [[m/_mitigating|mitigating]].**
 ---
 #adjective
 - **Which is [[m/_melting|melting]], [[d/_dissolving|dissolving]] or [[l/_liquefying|liquefying]].**
-- **[[g/_given|Given]] [[o/_over|over]] to strong [[e/_emotion|emotion]]; tender; [[a/_aroused|aroused]]; [[e/_emotional|emotional]], tearful.**
+- **[[g/_given|Given]] [[o/_over|over]] to [[s/_strong|strong]] [[e/_emotion|emotion]]; tender; [[a/_aroused|aroused]]; [[e/_emotional|emotional]], tearful.**
 - **That [[c/_causes|causes]] [[o/_one|one]] to [[m/_melt|melt]] with [[e/_emotion|emotion]]; [[a/_able|able]] to [[m/_make|make]] [[o/_others|others]] [[f/_feel|feel]] tender and [[e/_emotional|emotional]].**
 ---
 ---

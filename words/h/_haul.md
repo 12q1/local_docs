@@ -17,7 +17,7 @@
 - **To [[d/_drag|drag]], to [[p/_pull|pull]], to tug.**
 - **[[f/_followed|Followed]] by up: to summon to be [[d/_disciplined|disciplined]] or [[h/_held|held]] [[a/_answerable|answerable]] for [[s/_something|something]].**
 - **To [[p/_pull|pull]] [[a/_apart|apart]], as [[o/_oxen|oxen]] [[s/_sometimes|sometimes]] [[d/_do|do]] when [[y/_yoked|yoked]].**
-- **To steer (a vessel) [[c/_closer|closer]] to the wind.**
+- **To [[s/_steer|steer]] (a vessel) [[c/_closer|closer]] to the wind.**
 - **Of the wind: to [[s/_shift|shift]] [[f/_fore|fore]] ([[m/_more|more]] towards the [[b/_bow|bow]]).**
 - **To [[h/_haul|haul]] [[a/_ass|ass]].**
 	- _Example: “How fast was he goin’?” / “I don’t know exactly, but he must’ve been haulin’, given where he landed.”_

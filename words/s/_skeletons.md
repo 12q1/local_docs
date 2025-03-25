@@ -6,10 +6,10 @@
 	- _Example: She dressed up as a skeleton for Halloween._
 - **A very thin [[p/_person|person]].**
 	- _Example: She lost so much weight while she was ill that she became a skeleton._
-- **The [[c/_central|central]] [[c/_core|core]] of [[s/_something|something]] that [[g/_gives|gives]] [[s/_shape|shape]] to the [[e/_entire|entire]] structure.**
+- **The [[c/_central|central]] [[c/_core|core]] of [[s/_something|something]] that [[g/_gives|gives]] [[s/_shape|shape]] to the [[e/_entire|entire]] [[s/_structure|structure]].**
 	- _Example: The skeleton of the organisation is essentially the same as it was ten years ago, but many new faces have come and gone._
 - **A [[f/_frame|frame]] that [[p/_provides|provides]] support to a [[b/_building|building]] or [[o/_other|other]] [[c/_construction|construction]].**
-- **A [[c/_client|client]]-[[h/_helper|helper]] [[p/_procedure|procedure]] that [[c/_communicates|communicates]] with a stub.**
+- **A [[c/_client|client]]-[[h/_helper|helper]] [[p/_procedure|procedure]] that [[c/_communicates|communicates]] with a [[s/_stub|stub]].**
 	- _Example: In remote method invocation, the client helper is a ‘stub’ and the service helper is a ‘skeleton’._
 - **The vertices and [[e/_edges|edges]] of a [[p/_polyhedron|polyhedron]], taken [[c/_collectively|collectively]].**
 - **A very thin [[f/_form|form]] of [[l/_light|light]]-[[f/_faced|faced]] type.**

@@ -12,6 +12,6 @@
 - **To throw [[o/_out|out]] words.**
 ---
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[k/_kind|kind]] of [[p/_pelt|pelt]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specified|specified]] [[k/_kind|kind]] of [[p/_pelt|pelt]].**
 ---
 ---

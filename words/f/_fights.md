@@ -5,7 +5,7 @@
 	- _Example: A wounded animal will fight like a maniac, relentless, savage and murderous._
 - **To [[c/_contend|contend]] in [[p/_physical|physical]] [[c/_conflict|conflict]] with [[e/_each|each]] [[o/_other|other]], [[e/_either|either]] [[s/_singly|singly]] or in war, [[b/_battle|battle]] [[e/_etc|etc]].**
 	- _Example: The two boxers have been fighting for more than half an hour._
-- **To strive for [[s/_something|something]]; to [[c/_campaign|campaign]] or [[c/_contend|contend]] for success.**
+- **To [[s/_strive|strive]] for [[s/_something|something]]; to [[c/_campaign|campaign]] or [[c/_contend|contend]] for success.**
 	- _Example: He fought for the Democrats in the last election._
 - **To [[c/_conduct|conduct]] or [[e/_engage|engage]] in ([[b/_battle|battle]], warfare [[e/_etc|etc]].).**
 	- _Example: The battle was fought just over that hill._
@@ -25,7 +25,7 @@
 	- _Example: Watch your language, are you looking for a fight?_
 - **A [[b/_boxing|boxing]] or [[m/_martial|martial]] [[a/_arts|arts]] [[m/_match|match]].**
 	- _Example: I'm going to Nick’s to watch the big fight tomorrow night._
-- **A [[c/_conflict|conflict]], [[p/_possibly|possibly]] [[n/_nonphysical|nonphysical]], with [[o/_opposing|opposing]] [[i/_ideas|ideas]] or [[f/_forces|forces]]; strife.**
+- **A [[c/_conflict|conflict]], [[p/_possibly|possibly]] [[n/_nonphysical|nonphysical]], with [[o/_opposing|opposing]] [[i/_ideas|ideas]] or [[f/_forces|forces]]; [[s/_strife|strife]].**
 	- _Example: I'll put up a fight to save this company._
 - **The will or [[a/_ability|ability]] to [[f/_fight|fight]].**
 	- _Example: That little guy has a bit of fight in him after all.   As soon as he saw the size of his opponent, all the fight went out of him._

@@ -1,7 +1,7 @@
 # Soups
 ---
 #noun
-- **[[a/_any|Any]] of various [[d/_dishes|dishes]] [[c/_commonly|commonly]] [[m/_made|made]] by [[c/_combining|combining]] [[l/_liquids|liquids]], such as water or stock with [[o/_other|other]] [[i/_ingredients|ingredients]], such as [[m/_meat|meat]] and vegetables, that [[c/_contribute|contribute]] [[f/_flavor|flavor]] and texture.**
+- **[[a/_any|Any]] of various [[d/_dishes|dishes]] [[c/_commonly|commonly]] [[m/_made|made]] by [[c/_combining|combining]] [[l/_liquids|liquids]], such as water or [[s/_stock|stock]] with [[o/_other|other]] [[i/_ingredients|ingredients]], such as [[m/_meat|meat]] and vegetables, that [[c/_contribute|contribute]] [[f/_flavor|flavor]] and texture.**
 	- _Example: Pho is a traditional Vietnamese soup._
 - **[[a/_any|Any]] [[m/_mixture|mixture]] or substance suggestive of [[s/_soup|soup]] [[c/_consistency|consistency]].**
 ---

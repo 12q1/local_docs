@@ -1,11 +1,11 @@
 # Backfire
 ---
 #noun
-- **A [[s/_small|small]], [[c/_controlled|controlled]] [[f/_fire|fire]] [[s/_set|set]] in the [[p/_path|path]] of a [[l/_larger|larger]] uncontrolled [[f/_fire|fire]], in [[o/_order|order]] to [[l/_limit|limit]] the spread of the [[l/_large|large]] [[f/_fire|fire]] by [[r/_removing|removing]] [[i/_its|its]] [[f/_fuel|fuel]].**
+- **A [[s/_small|small]], [[c/_controlled|controlled]] [[f/_fire|fire]] [[s/_set|set]] in the [[p/_path|path]] of a [[l/_larger|larger]] uncontrolled [[f/_fire|fire]], in [[o/_order|order]] to [[l/_limit|limit]] the [[s/_spread|spread]] of the [[l/_large|large]] [[f/_fire|fire]] by [[r/_removing|removing]] [[i/_its|its]] [[f/_fuel|fuel]].**
 - **An [[e/_explosion|explosion]] [[p/_produced|produced]] [[e/_either|either]] by a [[r/_running|running]] [[i/_internal|internal]] [[c/_combustion|combustion]] [[e/_engine|engine]] that [[o/_occurs|occurs]] in the [[a/_air|air]] [[i/_intake|intake]] or [[e/_exhaust|exhaust]] [[s/_system|system]] [[r/_rather|rather]] than [[i/_inside|inside]] the [[c/_combustion|combustion]] [[c/_chamber|chamber]] or unburned [[f/_fuel|fuel]] or [[h/_hydrocarbons|hydrocarbons]] [[i/_ignited|ignited]] [[s/_somewhere|somewhere]] in the [[e/_exhaust|exhaust]] [[s/_system|system]].**
 ---
 #noun
-- **A [[p/_premature|premature]] [[e/_explosion|explosion]] in the [[c/_cylinder|cylinder]] of a [[g/_gas|gas]] or [[o/_oil|oil]] [[e/_engine|engine]] [[d/_during|during]] the [[e/_exhaust|exhaust]] or the [[c/_compression|compression]] stroke, tending to [[d/_drive|drive]] the [[p/_piston|piston]] in the wrong [[d/_direction|direction]].**
+- **A [[p/_premature|premature]] [[e/_explosion|explosion]] in the [[c/_cylinder|cylinder]] of a [[g/_gas|gas]] or [[o/_oil|oil]] [[e/_engine|engine]] [[d/_during|during]] the [[e/_exhaust|exhaust]] or the [[c/_compression|compression]] [[s/_stroke|stroke]], tending to [[d/_drive|drive]] the [[p/_piston|piston]] in the wrong [[d/_direction|direction]].**
 - **An [[e/_explosion|explosion]] in the [[e/_exhaust|exhaust]] [[p/_passages|passages]] of an [[i/_internal|internal]] [[c/_combustion|combustion]] [[e/_engine|engine]].**
 ---
 ### Synonyms

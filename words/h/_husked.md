@@ -9,6 +9,6 @@
 ---
 #adjective
 - **[[c/_covered|Covered]] with a [[h/_husk|husk]].**
-- **Stripped of [[i/_its|its]] [[h/_husk|husk]].**
+- **[[s/_stripped|Stripped]] of [[i/_its|its]] [[h/_husk|husk]].**
 ---
 ---

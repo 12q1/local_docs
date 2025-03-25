@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[g/_grammar|grammar]]) a word, such as a [[d/_definite|definite]] [[a/_article|article]] or [[d/_demonstrative|demonstrative]] [[p/_pronoun|pronoun]], that [[d/_defines|defines]] or [[l/_limits|limits]] [[s/_something|something]]**
-- **An [[o/_ordinary|ordinary]] [[p/_postage|postage]] stamp that is [[p/_part|part]] of a [[s/_series|series]] of [[a/_all|all]] [[d/_denominations|denominations]] or is [[r/_reprinted|reprinted]] as [[n/_needed|needed]] to [[m/_meet|meet]] [[d/_demand|demand]]**
+- **An [[o/_ordinary|ordinary]] [[p/_postage|postage]] [[s/_stamp|stamp]] that is [[p/_part|part]] of a [[s/_series|series]] of [[a/_all|all]] [[d/_denominations|denominations]] or is [[r/_reprinted|reprinted]] as [[n/_needed|needed]] to [[m/_meet|meet]] [[d/_demand|demand]]**
 ---
 ### Synonyms
 - 

@@ -8,8 +8,8 @@
 #adjective
 - **Of, [[r/_related|related]] to, [[i/_intended|intended]] for or [[i/_involving|involving]] the [[a/_anus|anus]].**
 	- _Example: an anal examination_
-- **Of the stage in [[p/_psychosexual|psychosexual]] [[d/_development|development]] when the [[c/_child|child]]'[[s/_s|s]] [[i/_interest|interest]] is [[a/_alleged|alleged]] to be [[c/_concentrated|concentrated]] on the [[a/_anal|anal]] [[r/_region|region]].**
-- **Of a [[p/_person|person]], [[c/_compulsive|compulsive]] and stubborn, [[o/_obsessed|obsessed]] with [[n/_neatness|neatness]] and [[a/_accuracy|accuracy]], supposedly from not [[h/_having|having]] [[p/_progressed|progressed]] [[b/_beyond|beyond]] the [[a/_anal|anal]] stage.**
+- **Of the [[s/_stage|stage]] in [[p/_psychosexual|psychosexual]] [[d/_development|development]] when the [[c/_child|child]]'[[s/_s|s]] [[i/_interest|interest]] is [[a/_alleged|alleged]] to be [[c/_concentrated|concentrated]] on the [[a/_anal|anal]] [[r/_region|region]].**
+- **Of a [[p/_person|person]], [[c/_compulsive|compulsive]] and [[s/_stubborn|stubborn]], [[o/_obsessed|obsessed]] with [[n/_neatness|neatness]] and [[a/_accuracy|accuracy]], supposedly from not [[h/_having|having]] [[p/_progressed|progressed]] [[b/_beyond|beyond]] the [[a/_anal|anal]] [[s/_stage|stage]].**
 	- _Example: Please don't touch his furniture, as he can get very anal about things like that._
 - **(of a vein) [[p/_proximate|Proximate]] to the thorax.**
 ---

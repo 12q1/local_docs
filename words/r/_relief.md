@@ -1,15 +1,15 @@
 # Relief
 ---
 #noun
-- **The [[r/_removal|removal]] of stress or [[d/_discomfort|discomfort]].**
+- **The [[r/_removal|removal]] of [[s/_stress|stress]] or [[d/_discomfort|discomfort]].**
 	- _Example: I sighed with relief when I found out that my daughter hadn't got lost, but was waiting for me at home._
-- **The [[f/_feeling|feeling]] [[a/_associated|associated]] with the [[r/_removal|removal]] of stress or [[d/_discomfort|discomfort]].**
+- **The [[f/_feeling|feeling]] [[a/_associated|associated]] with the [[r/_removal|removal]] of [[s/_stress|stress]] or [[d/_discomfort|discomfort]].**
 - **[[r/_release|Release]] from a [[p/_post|post]] or [[d/_duty|duty]], as when [[r/_replaced|replaced]] by [[a/_another|another]].**
 - **The [[p/_person|person]] who takes [[o/_over|over]] a [[s/_shift|shift]] for [[a/_another|another]].**
 	- _Example: Officer Schmidt can finally go home because his relief has arrived._
 - **[[a/_aid|Aid]] or [[a/_assistance|assistance]] [[o/_offered|offered]] in time of [[n/_need|need]].**
 - **[[c/_court|Court]]-[[o/_ordered|ordered]] [[c/_compensation|compensation]], [[a/_aid|aid]], or [[p/_protection|protection]], a [[r/_redress|redress]].**
-- **A [[l/_lowering|lowering]] of a tax through special [[p/_provisions|provisions]]; tax [[r/_relief|relief]].**
+- **A [[l/_lowering|lowering]] of a tax through [[s/_special|special]] [[p/_provisions|provisions]]; tax [[r/_relief|relief]].**
 - **A [[c/_certain|certain]] [[f/_fine|fine]] or [[c/_composition|composition]] [[p/_paid|paid]] by the [[h/_heir|heir]] of a tenant upon the [[d/_death|death]] of the [[a/_ancestor|ancestor]].**
 ---
 ### Synonyms

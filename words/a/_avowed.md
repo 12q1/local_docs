@@ -9,7 +9,7 @@
 - [[d/_disavow|disavow]]
 #adjective
 - **[[o/_openly|Openly]] [[a/_acknowledged|acknowledged]]**
-- **[[p/_positively|Positively]] stated**
+- **[[p/_positively|Positively]] [[s/_stated|stated]]**
 - **[[a/_asserted|Asserted]] under [[o/_oath|oath]], or vow**
 ---
 ---

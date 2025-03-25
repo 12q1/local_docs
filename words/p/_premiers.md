@@ -4,7 +4,7 @@
 - **(Westminster [[s/_system|system]]) The [[h/_head|head]] of [[g/_government|government]] in [[p/_parliament|parliament]] and [[l/_leader|leader]] of the [[c/_cabinet|cabinet]].**
 - **([[n/_non|non]]-Westminster) The [[g/_government|government]] [[l/_leader|leader]] in a [[l/_legislative|legislative]] [[c/_congress|congress]] or [[l/_leader|leader]] of a [[g/_government|government]]-[[l/_level|level]] [[a/_administrative|administrative]] [[b/_body|body]]; the [[h/_head|head]] of [[g/_government|government]].**
 - **The [[f/_first|first]] [[l/_lieutenant|lieutenant]] or [[o/_other|other]] [[s/_second|second]]-in-[[c/_command|command]] [[o/_officer|officer]] of a [[s/_ship|ship]].**
-- **(sporting) The [[c/_champion|champion]] team of a [[p/_particular|particular]] [[s/_season|season]] ([[e/_especially|especially]] as used in [[a/_australian|Australian]] [[r/_rules|rules]] [[f/_football|football]]).**
+- **([[s/_sporting|sporting]]) The [[c/_champion|champion]] team of a [[p/_particular|particular]] [[s/_season|season]] ([[e/_especially|especially]] as used in [[a/_australian|Australian]] [[r/_rules|rules]] [[f/_football|football]]).**
 ---
 ### Synonyms
 - 

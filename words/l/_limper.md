@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[f/_flaccid|Flaccid]]; [[f/_flabby|flabby]], [[l/_like|like]] [[f/_flesh|flesh]].**
-- **[[l/_lacking|Lacking]] stiffness; [[f/_flimsy|flimsy]]**
+- **[[l/_lacking|Lacking]] [[s/_stiffness|stiffness]]; [[f/_flimsy|flimsy]]**
 	- _Example: a limp rope_
 - **(of a [[p/_penis|penis]]) not [[e/_erect|erect]]**
 - **(of a [[m/_man|man]]) not [[h/_having|having]] an [[e/_erect|erect]] [[p/_penis|penis]]**

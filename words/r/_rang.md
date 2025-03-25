@@ -9,7 +9,7 @@
 	- _Example: They rang a Christmas carol on their handbells._
 - **To [[p/_produce|produce]] the [[s/_sound|sound]] of a [[b/_bell|bell]] or a [[s/_similar|similar]] [[s/_sound|sound]].**
 	- _Example: Whose mobile phone is ringing?_
-- **Of [[s/_something|something]] spoken or written, to [[a/_appear|appear]] to be, to [[s/_seem|seem]], to [[s/_sound|sound]].**
+- **Of [[s/_something|something]] [[s/_spoken|spoken]] or written, to [[a/_appear|appear]] to be, to [[s/_seem|seem]], to [[s/_sound|sound]].**
 	- _Example: That does not ring true._
 - **To telephone ([[s/_someone|someone]]).**
 	- _Example: I will ring you when we arrive._

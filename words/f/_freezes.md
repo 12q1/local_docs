@@ -9,9 +9,9 @@
 	- _Example: It didn't freeze this winter, but last winter was very harsh._
 - **To be [[a/_affected|affected]] by [[e/_extreme|extreme]] [[c/_cold|cold]].**
 	- _Example: Don't go outside wearing just a t-shirt; you'll freeze!_
-- **(of [[m/_machines|machines]] and [[s/_software|software]]) To [[c/_come|come]] to a sudden [[h/_halt|halt]], stop working ([[f/_functioning|functioning]]).**
+- **(of [[m/_machines|machines]] and [[s/_software|software]]) To [[c/_come|come]] to a sudden [[h/_halt|halt]], [[s/_stop|stop]] working ([[f/_functioning|functioning]]).**
 	- _Example: Since the last update, the program freezes / freezes up after a few minutes of use._
-- **(of [[p/_people|people]] and [[o/_other|other]] [[a/_animals|animals]]) To stop ([[b/_become|become]] [[m/_motionless|motionless]]) or be stopped [[d/_due|due]] to [[a/_attentiveness|attentiveness]], [[f/_fear|fear]], surprise, [[e/_etc|etc]].**
+- **(of [[p/_people|people]] and [[o/_other|other]] [[a/_animals|animals]]) To [[s/_stop|stop]] ([[b/_become|become]] [[m/_motionless|motionless]]) or be [[s/_stopped|stopped]] [[d/_due|due]] to [[a/_attentiveness|attentiveness]], [[f/_fear|fear]], surprise, [[e/_etc|etc]].**
 	- _Example: Despite all of the rehearsals, I froze up as soon as I got on stage._
 - **To [[c/_cause|cause]] [[s/_someone|someone]] to [[b/_become|become]] [[m/_motionless|motionless]].**
 - **To [[l/_lose|lose]] or [[c/_cause|cause]] to [[l/_lose|lose]] warmth of [[f/_feeling|feeling]]; to [[s/_shut|shut]] [[o/_out|out]]; to [[o/_ostracize|ostracize]].**
@@ -19,7 +19,7 @@
 - **To [[c/_cause|cause]] [[l/_loss|loss]] of [[a/_animation|animation]] or [[l/_life|life]] in, from [[l/_lack|lack]] of [[h/_heat|heat]]; to [[g/_give|give]] the [[s/_sensation|sensation]] of [[c/_cold|cold]] to; to [[c/_chill|chill]].**
 - **To [[p/_prevent|prevent]] the [[m/_movement|movement]] or [[l/_liquidation|liquidation]] of a [[p/_person|person]]'[[s/_s|s]] [[f/_financial|financial]] [[a/_assets|assets]]**
 	- _Example: The court froze the criminal's bank account._
-- **Of [[p/_prices|prices]], spending [[e/_etc|etc]]., to [[k/_keep|keep]] at the [[s/_same|same]] [[l/_level|level]], without [[a/_any|any]] [[i/_increase|increase]].**
+- **Of [[p/_prices|prices]], [[s/_spending|spending]] [[e/_etc|etc]]., to [[k/_keep|keep]] at the [[s/_same|same]] [[l/_level|level]], without [[a/_any|any]] [[i/_increase|increase]].**
 ---
 ### Synonyms
 - [[s/_solidify|solidify]], [[h/_halt|halt]], [[i/_immobilize|immobilize]], [[h/_hang|hang]], [[s/_seize|seize]]
@@ -28,15 +28,15 @@
 #noun
 - **A [[p/_period|period]] of [[i/_intensely|intensely]] [[c/_cold|cold]] weather.**
 - **A [[h/_halt|halt]] of a [[r/_regular|regular]] [[o/_operation|operation]].**
-- **The state when [[e/_either|either]] a [[s/_single|single]] [[c/_computer|computer]] [[p/_program|program]], or the whole [[s/_system|system]] [[c/_ceases|ceases]] to [[r/_respond|respond]] to [[i/_inputs|inputs]].**
-- **A [[p/_precise|precise]] [[d/_draw|draw]] weight [[s/_shot|shot]] where a [[d/_delivered|delivered]] stone [[c/_comes|comes]] to a stand-still [[a/_against|against]] a stationary stone, [[m/_making|making]] it [[n/_nearly|nearly]] [[i/_impossible|impossible]] to [[k/_knock|knock]] [[o/_out|out]].**
+- **The [[s/_state|state]] when [[e/_either|either]] a [[s/_single|single]] [[c/_computer|computer]] [[p/_program|program]], or the whole [[s/_system|system]] [[c/_ceases|ceases]] to [[r/_respond|respond]] to [[i/_inputs|inputs]].**
+- **A [[p/_precise|precise]] [[d/_draw|draw]] weight [[s/_shot|shot]] where a [[d/_delivered|delivered]] [[s/_stone|stone]] [[c/_comes|comes]] to a [[s/_stand|stand]]-[[s/_still|still]] [[a/_against|against]] a [[s/_stationary|stationary]] [[s/_stone|stone]], [[m/_making|making]] it [[n/_nearly|nearly]] [[i/_impossible|impossible]] to [[k/_knock|knock]] [[o/_out|out]].**
 - **A [[b/_block|block]] on [[p/_pay|pay]] [[r/_rises|rises]] or on the [[h/_hiring|hiring]] of [[n/_new|new]] [[e/_employees|employees]] [[e/_etc|etc]].**
 	- _Example: a hiring freeze; a pay freeze_
 ---
 ### Synonyms
 - [[h/_hang|hang]]
 #noun
-- **A [[k/_kind|kind]] of [[c/_coarse|coarse]] woolen [[c/_cloth|cloth]] or stuff with a [[s/_shaggy|shaggy]] or tufted ([[f/_friezed|friezed]]) [[n/_nap|nap]] on [[o/_one|one]] [[s/_side|side]].**
+- **A [[k/_kind|kind]] of [[c/_coarse|coarse]] woolen [[c/_cloth|cloth]] or [[s/_stuff|stuff]] with a [[s/_shaggy|shaggy]] or tufted ([[f/_friezed|friezed]]) [[n/_nap|nap]] on [[o/_one|one]] [[s/_side|side]].**
 ---
 #noun
 - **That [[p/_part|part]] of the [[e/_entablature|entablature]] of an [[o/_order|order]] which is [[b/_between|between]] the [[a/_architrave|architrave]] and [[c/_cornice|cornice]]. It is a [[f/_flat|flat]] [[m/_member|member]] or [[f/_face|face]], [[e/_either|either]] uniform or [[b/_broken|broken]] by triglyphs, and [[o/_often|often]] [[e/_enriched|enriched]] with [[f/_figures|figures]] and [[o/_other|other]] [[o/_ornaments|ornaments]] of [[s/_sculpture|sculpture]].**

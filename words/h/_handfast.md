@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[h/_hold|hold]], [[g/_grasp|grasp]]; [[c/_custody|custody]], [[p/_power|power]] of [[c/_confining|confining]] or [[k/_keeping|keeping]].**
-- **A [[c/_contract|contract]], [[a/_agreement|agreement]], [[c/_covenant|covenant]]; specifically [[b/_betrothal|betrothal]], [[e/_espousal|espousal]].**
+- **A [[c/_contract|contract]], [[a/_agreement|agreement]], [[c/_covenant|covenant]]; [[s/_specifically|specifically]] [[b/_betrothal|betrothal]], [[e/_espousal|espousal]].**
 ---
 #verb
 - **To [[p/_pledge|pledge]]; to [[b/_bind|bind]]**

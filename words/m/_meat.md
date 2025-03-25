@@ -14,7 +14,7 @@
 - **A [[p/_penis|penis]].**
 - **The [[b/_best|best]] or [[m/_most|most]] substantial [[p/_part|part]] of [[s/_something|something]].**
 	- _Example: We recruited him right from the meat of our competitor._
-- **The sweet spot of a [[b/_bat|bat]] or [[c/_club|club]] (in [[c/_cricket|cricket]], [[g/_golf|golf]], [[b/_baseball|baseball]] [[e/_etc|etc]].).**
+- **The sweet [[s/_spot|spot]] of a [[b/_bat|bat]] or [[c/_club|club]] (in [[c/_cricket|cricket]], [[g/_golf|golf]], [[b/_baseball|baseball]] [[e/_etc|etc]].).**
 	- _Example: He hit it right on the meat of the bat._
 - **A [[m/_meathead|meathead]].**
 	- _Example: Throw it in here, meat._

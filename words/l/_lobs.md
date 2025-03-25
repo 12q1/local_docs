@@ -1,7 +1,7 @@
 # Lobs
 ---
 #noun
-- **([[b/_ball|ball]] sports) A [[p/_pass|pass]] or stroke which [[a/_arches|arches]] [[h/_high|high]] [[i/_into|into]] the [[a/_air|air]].**
+- **([[b/_ball|ball]] [[s/_sports|sports]]) A [[p/_pass|pass]] or [[s/_stroke|stroke]] which [[a/_arches|arches]] [[h/_high|high]] [[i/_into|into]] the [[a/_air|air]].**
 	- _Example: The guard launched a desperate lob over the outstretched arms of the defender._
 ---
 #noun

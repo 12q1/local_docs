@@ -15,7 +15,7 @@
 ### Synonyms
 - [[r/_ring|ring]], [[h/_holler|holler]], [[y/_yell|yell]], [[d/_designate|designate]], [[d/_dub|dub]], [[n/_name|name]], [[a/_augur|augur]], [[f/_foretell|foretell]]
 #noun
-- **A strong urge to [[b/_become|become]] [[r/_religious|religious]].**
+- **A [[s/_strong|strong]] urge to [[b/_become|become]] [[r/_religious|religious]].**
 - **A [[j/_job|job]] or [[o/_occupation|occupation]].**
 ---
 ### Synonyms

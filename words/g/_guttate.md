@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[s/_shaped|Shaped]] [[l/_like|like]], or [[r/_resembling|resembling]] [[d/_drops|drops]].**
-- **Spotted.**
+- **[[s/_spotted|Spotted]].**
 ---
 ---

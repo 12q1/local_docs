@@ -9,7 +9,7 @@
 - **[[p/_pronounced|Pronounced]] with the [[l/_lips|lips]] [[d/_drawn|drawn]] together; [[r/_rounded|rounded]].**
 - **[[o/_outspoken|Outspoken]]; [[p/_plain|plain]] and [[d/_direct|direct]]; unreserved; not [[m/_mincing|mincing]].**
 	- _Example: a round answer; a round oath_
-- **[[f/_finished|Finished]]; [[p/_polished|polished]]; not [[d/_defective|defective]] or [[a/_abrupt|abrupt]]; [[s/_said|said]] of [[a/_authors|authors]] or their writing style.**
+- **[[f/_finished|Finished]]; [[p/_polished|polished]]; not [[d/_defective|defective]] or [[a/_abrupt|abrupt]]; [[s/_said|said]] of [[a/_authors|authors]] or their writing [[s/_style|style]].**
 - **[[c/_consistent|Consistent]]; [[f/_fair|fair]]; [[j/_just|just]]; [[a/_applied|applied]] to [[c/_conduct|conduct]].**
 - **[[l/_large|Large]] in [[m/_magnitude|magnitude]].**
 	- _Example: a round sum_

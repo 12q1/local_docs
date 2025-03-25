@@ -1,6 +1,6 @@
 # Aways
 ---
 #adverb
-- **[[a/_alternative|Alternative]] spelling of a ways**
+- **[[a/_alternative|Alternative]] [[s/_spelling|spelling]] of a ways**
 ---
 ---

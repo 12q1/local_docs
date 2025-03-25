@@ -8,7 +8,7 @@
 - **A [[m/_mischievous|mischievous]] [[c/_child|child]].**
 	- _Example: She's a cheeky monkey._
 - **A [[d/_dance|dance]] [[m/_move|move]] [[p/_popular|popular]] in the 1960s.**
-- **[[f/_five|Five]] [[h/_hundred|hundred]] [[p/_pounds|pounds]] sterling; [[f/_five|five]] [[h/_hundred|hundred]] [[d/_dollars|dollars]].**
+- **[[f/_five|Five]] [[h/_hundred|hundred]] [[p/_pounds|pounds]] [[s/_sterling|sterling]]; [[f/_five|five]] [[h/_hundred|hundred]] [[d/_dollars|dollars]].**
 - **A [[p/_person|person]] or the [[r/_role|role]] of the [[p/_person|person]] on the [[s/_sidecar|sidecar]] [[p/_platform|platform]] of a [[m/_motorcycle|motorcycle]] [[i/_involved|involved]] in [[s/_sidecar|sidecar]] [[r/_racing|racing]].**
 - **A [[p/_person|person]] with [[m/_minimal|minimal]] [[i/_intelligence|intelligence]] and/or an unattractive [[a/_appearance|appearance]]**
 - **A [[f/_face|face]] [[c/_card|card]].**

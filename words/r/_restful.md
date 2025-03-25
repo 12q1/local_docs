@@ -1,7 +1,7 @@
 # Restful
 ---
 #adjective
-- **Using [[r/_rest|REST]] ([[r/_representational|representational]] state transfer).**
+- **Using [[r/_rest|REST]] ([[r/_representational|representational]] [[s/_state|state]] transfer).**
 ---
 #adjective
 - **[[p/_peaceful|Peaceful]]; [[h/_having|having]] a [[p/_peaceful|peaceful]] [[a/_aspect|aspect]]**

@@ -9,7 +9,7 @@
 	- _Example: Stop obsessing over it, will you!_
 ---
 #adjective
-- **[[i/_intensely|Intensely]] [[p/_preoccupied|preoccupied]] with or by a [[g/_given|given]] topic or [[e/_emotion|emotion]]; [[d/_driven|driven]] by a specified [[o/_obsession|obsession]].**
-- **[[i/_influenced|Influenced]] or [[c/_controlled|controlled]] by [[e/_evil|evil]] spirits, but [[l/_less|less]] than [[p/_possessed|possessed]] in that the spirits [[d/_do|do]] not [[a/_actually|actually]] [[r/_reside|reside]] in the victim.**
+- **[[i/_intensely|Intensely]] [[p/_preoccupied|preoccupied]] with or by a [[g/_given|given]] topic or [[e/_emotion|emotion]]; [[d/_driven|driven]] by a [[s/_specified|specified]] [[o/_obsession|obsession]].**
+- **[[i/_influenced|Influenced]] or [[c/_controlled|controlled]] by [[e/_evil|evil]] [[s/_spirits|spirits]], but [[l/_less|less]] than [[p/_possessed|possessed]] in that the [[s/_spirits|spirits]] [[d/_do|do]] not [[a/_actually|actually]] [[r/_reside|reside]] in the victim.**
 ---
 ---

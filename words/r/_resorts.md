@@ -18,6 +18,6 @@
 - **To [[r/_repeat|repeat]] a [[s/_sorting|sorting]] [[p/_process|process]]; [[s/_sort|sort]] [[a/_again|again]].**
 ---
 #noun
-- **[[a/_active|Active]] [[p/_power|power]] or [[m/_movement|movement]]; spring.**
+- **[[a/_active|Active]] [[p/_power|power]] or [[m/_movement|movement]]; [[s/_spring|spring]].**
 ---
 ---

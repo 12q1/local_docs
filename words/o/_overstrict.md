@@ -1,6 +1,6 @@
 # Overstrict
 ---
 #adjective
-- **[[e/_excessively|Excessively]] strict or [[s/_severe|severe]].**
+- **[[e/_excessively|Excessively]] [[s/_strict|strict]] or [[s/_severe|severe]].**
 ---
 ---

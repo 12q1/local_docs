@@ -20,6 +20,6 @@
 ### Antonyms
 - [[f/_fiction|fiction]]
 #interjection
-- **Used [[b/_before|before]] [[m/_making|making]] a statement to [[i/_introduce|introduce]] it as a trustworthy [[o/_one|one]].**
+- **Used [[b/_before|before]] [[m/_making|making]] a [[s/_statement|statement]] to [[i/_introduce|introduce]] it as a trustworthy [[o/_one|one]].**
 ---
 ---

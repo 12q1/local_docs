@@ -1,7 +1,7 @@
 # Dullness
 ---
 #noun
-- **The [[q/_quality|quality]] of [[b/_being|being]] [[s/_slow|slow]] of understanding things; stupidity.**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[s/_slow|slow]] of understanding things; [[s/_stupidity|stupidity]].**
 - **The [[q/_quality|quality]] of [[b/_being|being]] uninteresting; [[b/_boring|boring]] or [[i/_irksome|irksome]].**
 - **[[l/_lack|Lack]] of [[i/_interest|interest]] or [[e/_excitement|excitement]].**
 - **The [[l/_lack|lack]] of visual [[b/_brilliance|brilliance]]; want of [[s/_sheen|sheen]].**

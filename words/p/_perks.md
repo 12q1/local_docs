@@ -15,7 +15,7 @@
 	- _Example: The coffee is perking._
 ---
 #verb
-- **To [[m/_make|make]] trim or [[s/_smart|smart]]; to straighten up; to [[e/_erect|erect]]; to [[m/_make|make]] a [[j/_jaunty|jaunty]] or [[s/_saucy|saucy]] [[d/_display|display]] of.**
+- **To [[m/_make|make]] trim or [[s/_smart|smart]]; to [[s/_straighten|straighten]] up; to [[e/_erect|erect]]; to [[m/_make|make]] a [[j/_jaunty|jaunty]] or [[s/_saucy|saucy]] [[d/_display|display]] of.**
 - **To [[a/_appear|appear]] from [[b/_below|below]] or [[b/_behind|behind]] [[s/_something|something]], [[e/_emerge|emerge]], [[p/_pop|pop]] up, [[p/_poke|poke]] [[o/_out|out]].**
 - **To [[e/_exalt|exalt]] [[o/_oneself|oneself]]; to [[b/_bear|bear]] [[o/_oneself|oneself]] [[l/_loftily|loftily]].**
 ---

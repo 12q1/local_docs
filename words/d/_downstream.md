@@ -1,10 +1,10 @@
 # Downstream
 ---
 #verb
-- **To stream [[d/_downward|downward]].**
+- **To [[s/_stream|stream]] [[d/_downward|downward]].**
 ---
 #adjective
-- **[[l/_lower|Lower]] [[d/_down|down]], in [[r/_relation|relation]] to a [[r/_river|river]], stream or [[f/_flow|flow]] of [[f/_fluid|fluid]]**
+- **[[l/_lower|Lower]] [[d/_down|down]], in [[r/_relation|relation]] to a [[r/_river|river]], [[s/_stream|stream]] or [[f/_flow|flow]] of [[f/_fluid|fluid]]**
 	- _Example: She lives downstream from the dam._
 - **In the [[d/_direction|direction]] from the [[s/_server|server]] to the [[c/_client|client]].**
 - **Towards the 3' [[e/_end|end]] of a DNA [[m/_molecule|molecule]].**
@@ -13,7 +13,7 @@
 ### Antonyms
 - [[u/_upstream|upstream]]
 #adverb
-- **[[f/_following|Following]] the [[p/_path|path]] of a [[r/_river|river]] or stream**
+- **[[f/_following|Following]] the [[p/_path|path]] of a [[r/_river|river]] or [[s/_stream|stream]]**
 	- _Example: We spent the day paddling downstream in our canoes._
 ---
 ### Antonyms

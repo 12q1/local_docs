@@ -8,7 +8,7 @@
 - 
 #noun
 - **The [[a/_activity|activity]] of the verb [[p/_pioneer|pioneer]].**
-- **A [[s/_scoutcraft|scoutcraft]] [[s/_skill|skill]] that [[i/_involves|involves]] [[b/_building|building]] structures using staves and [[k/_knots|knots]].**
+- **A [[s/_scoutcraft|scoutcraft]] [[s/_skill|skill]] that [[i/_involves|involves]] [[b/_building|building]] [[s/_structures|structures]] using [[s/_staves|staves]] and [[k/_knots|knots]].**
 ---
 #adjective
 - **[[i/_involving|Involving]] [[a/_accomplishments|accomplishments]] or [[a/_activities|activities]] that [[h/_have|have]] not [[b/_been|been]] [[d/_done|done]] [[b/_before|before]], or [[d/_developing|developing]] or using [[n/_new|new]] [[m/_methods|methods]] or techniques.**

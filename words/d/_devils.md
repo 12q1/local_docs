@@ -6,7 +6,7 @@
 - **A [[f/_fictional|fictional]] [[i/_image|image]] of a [[m/_man|man]], usually [[r/_red|red]] or [[o/_orange|orange]] in [[s/_skin|skin]] [[c/_color|color]]; with a [[s/_set|set]] of [[h/_horns|horns]] on [[h/_his|his]] [[h/_head|head]], a [[p/_pointed|pointed]] [[g/_goatee|goatee]] and a [[l/_long|long]] tail and [[c/_carrying|carrying]] a [[p/_pitchfork|pitchfork]]; that [[r/_represents|represents]] [[e/_evil|evil]] and [[p/_portrayed|portrayed]] to [[c/_children|children]] in an [[e/_effort|effort]] to [[d/_discourage|discourage]] [[b/_bad|bad]] [[b/_behavior|behavior]].**
 - **The [[b/_bad|bad]] [[p/_part|part]] of the [[c/_conscience|conscience]]; the [[o/_opposite|opposite]] to the [[a/_angel|angel]].**
 	- _Example: The devil in me wants to let him suffer._
-- **A wicked or [[n/_naughty|naughty]] [[p/_person|person]], or [[o/_one|one]] who [[h/_harbors|harbors]] [[r/_reckless|reckless]], spirited [[e/_energy|energy]], [[e/_especially|especially]] in a [[m/_mischievous|mischievous]] way; usually [[s/_said|said]] of a [[y/_young|young]] [[c/_child|child]].**
+- **A wicked or [[n/_naughty|naughty]] [[p/_person|person]], or [[o/_one|one]] who [[h/_harbors|harbors]] [[r/_reckless|reckless]], [[s/_spirited|spirited]] [[e/_energy|energy]], [[e/_especially|especially]] in a [[m/_mischievous|mischievous]] way; usually [[s/_said|said]] of a [[y/_young|young]] [[c/_child|child]].**
 	- _Example: Those two kids are devils in a toy store._
 - **A thing that is [[a/_awkward|awkward]] or [[d/_difficult|difficult]] to understand or [[d/_do|do]].**
 	- _Example: That math problem was a devil._
@@ -30,7 +30,7 @@
 - **To [[m/_make|make]] [[l/_like|like]] a [[d/_devil|devil]]; to [[i/_invest|invest]] with the [[c/_character|character]] of a [[d/_devil|devil]].**
 - **To [[a/_annoy|annoy]] or [[b/_bother|bother]].**
 - **To work as a ‘[[d/_devil|devil]]’; to work for a [[l/_lawyer|lawyer]] or writer without [[f/_fee|fee]] or [[r/_recognition|recognition]].**
-- **To [[p/_prepare|prepare]] ([[f/_food|food]]) with spices, [[m/_making|making]] it spicy:**
+- **To [[p/_prepare|prepare]] ([[f/_food|food]]) with [[s/_spices|spices]], [[m/_making|making]] it [[s/_spicy|spicy]]:**
 ---
 ### Synonyms
 - [[b/_bedevil|bedevil]]

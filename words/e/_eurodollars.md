@@ -1,7 +1,7 @@
 # Eurodollars
 ---
 #noun
-- **A [[d/_deposit|deposit]], in US [[d/_dollars|dollars]], [[h/_held|held]] in a [[b/_bank|bank]] [[o/_outside|outside]] of the United States ([[n/_no|no]] [[l/_longer|longer]] [[n/_necessarily|necessarily]] in [[e/_europe|Europe]])**
+- **A [[d/_deposit|deposit]], in US [[d/_dollars|dollars]], [[h/_held|held]] in a [[b/_bank|bank]] [[o/_outside|outside]] of the United [[s/_states|States]] ([[n/_no|no]] [[l/_longer|longer]] [[n/_necessarily|necessarily]] in [[e/_europe|Europe]])**
 ---
 #noun
 - **[[p/_person|Person]] [[l/_living|living]] or [[o/_originating|originating]] from [[e/_europe|Europe]]**
@@ -14,6 +14,6 @@
 ### Synonyms
 - [[E/_EUR|EUR]]
 #noun
-- **[[m/_macropus|Macropus]] robustus, a wallaroo ([[m/_macropod|macropod]] species).**
+- **[[m/_macropus|Macropus]] robustus, a wallaroo ([[m/_macropod|macropod]] [[s/_species|species]]).**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[i/_informal|Informal]] [[c/_conversation|conversation]].**
-- **A [[c/_conversation|conversation]] to stop an [[a/_argument|argument]] or [[s/_settle|settle]] [[s/_situations|situations]].**
+- **A [[c/_conversation|conversation]] to [[s/_stop|stop]] an [[a/_argument|argument]] or [[s/_settle|settle]] [[s/_situations|situations]].**
 - **(totum [[p/_pro|pro]] [[p/_parte|parte]], typically with [[d/_definite|definite]] [[a/_article|article]]) The [[e/_entirety|entirety]] of users in a chatroom or a [[s/_single|single]] [[m/_member|member]] thereof.**
 	- _Example: The Chat just made a joke about my skills._
 - **An [[e/_exchange|exchange]] of text or voice [[m/_messages|messages]] in [[r/_real|real]] time through a [[c/_computer|computer]] [[n/_network|network]], [[r/_resembling|resembling]] a [[f/_face|face]]-to-[[f/_face|face]] [[c/_conversation|conversation]].**

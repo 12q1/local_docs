@@ -13,7 +13,7 @@
 - **([[s/_smoking|smoking]]) The [[f/_filter|filter]] of a [[r/_rolled|rolled]] [[c/_cigarette|cigarette]] or [[j/_joint|joint]], [[m/_made|made]] from [[c/_card|card]] or [[p/_paper|paper]].**
 ---
 #noun
-- **A [[b/_bed|bed]] or stratum of [[s/_some|some]] [[m/_mineral|mineral]].**
-- **[[g/_gritty|Gritty]] or [[c/_coarse|coarse]] [[r/_rock|rock]]; [[e/_especially|especially]] [[p/_portland|Portland]] stone or [[s/_similar|similar]] [[l/_limestone|limestone]].**
+- **A [[b/_bed|bed]] or [[s/_stratum|stratum]] of [[s/_some|some]] [[m/_mineral|mineral]].**
+- **[[g/_gritty|Gritty]] or [[c/_coarse|coarse]] [[r/_rock|rock]]; [[e/_especially|especially]] [[p/_portland|Portland]] [[s/_stone|stone]] or [[s/_similar|similar]] [[l/_limestone|limestone]].**
 ---
 ---

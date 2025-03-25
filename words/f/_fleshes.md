@@ -6,11 +6,11 @@
 - **(by [[e/_extension|extension]]) [[b/_bare|Bare]] [[a/_arms|arms]], [[b/_bare|bare]] [[l/_legs|legs]], [[b/_bare|bare]] torso.**
 - **[[a/_animal|Animal]] tissue [[r/_regarded|regarded]] as [[f/_food|food]]; [[m/_meat|meat]] (but [[s/_sometimes|sometimes]] [[e/_excluding|excluding]] [[f/_fish|fish]]).**
 - **The [[h/_human|human]] [[b/_body|body]] as a [[p/_physical|physical]] [[e/_entity|entity]].**
-- **The [[m/_mortal|mortal]] [[b/_body|body]] of a [[h/_human|human]] [[b/_being|being]], [[c/_contrasted|contrasted]] with the spirit or [[s/_soul|soul]].**
+- **The [[m/_mortal|mortal]] [[b/_body|body]] of a [[h/_human|human]] [[b/_being|being]], [[c/_contrasted|contrasted]] with the [[s/_spirit|spirit]] or [[s/_soul|soul]].**
 - **The [[e/_evil|evil]] and [[c/_corrupting|corrupting]] [[p/_principle|principle]] working in [[m/_man|man]].**
 - **The [[s/_soft|soft]], [[o/_often|often]] [[e/_edible|edible]], [[p/_parts|parts]] of [[f/_fruits|fruits]] or vegetables.**
 - **Tenderness of [[f/_feeling|feeling]]; [[g/_gentleness|gentleness]].**
-- **[[k/_kindred|Kindred]]; stock; [[r/_race|race]].**
+- **[[k/_kindred|Kindred]]; [[s/_stock|stock]]; [[r/_race|race]].**
 - **A [[y/_yellowish|yellowish]] [[p/_pink|pink]] [[c/_colour|colour]]; the [[c/_colour|colour]] of [[s/_some|some]] [[c/_caucasian|Caucasian]] [[h/_human|human]] [[s/_skin|skin]].**
 ---
 #verb

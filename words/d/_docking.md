@@ -21,6 +21,6 @@
 - **The [[s/_securing|securing]] of a vessel to the [[q/_quayside|quayside]] with [[c/_cables|cables]]**
 - **The [[p/_process|process]] of [[c/_connecting|connecting]] [[o/_one|one]] [[s/_spacecraft|spacecraft]] to [[a/_another|another]].**
 - **The [[s/_sex|sex]] [[a/_act|act]] [[i/_involving|involving]] two [[m/_men|men]] [[c/_co|co]]-[[j/_joined|joined]] by their [[p/_penises|penises]], with [[o/_overlapping|overlapping]] [[f/_foreskins|foreskins]], [[c/_coupling|coupling]] them together by their [[p/_penises|penises]].**
-- **A [[m/_method|method]] which [[p/_predicts|predicts]] the [[p/_preferred|preferred]] [[o/_orientation|orientation]] of [[o/_one|one]] [[m/_molecule|molecule]] to a [[s/_second|second]] when [[b/_bound|bound]] to [[e/_each|each]] [[o/_other|other]] to [[f/_form|form]] a stable [[c/_complex|complex]].**
+- **A [[m/_method|method]] which [[p/_predicts|predicts]] the [[p/_preferred|preferred]] [[o/_orientation|orientation]] of [[o/_one|one]] [[m/_molecule|molecule]] to a [[s/_second|second]] when [[b/_bound|bound]] to [[e/_each|each]] [[o/_other|other]] to [[f/_form|form]] a [[s/_stable|stable]] [[c/_complex|complex]].**
 ---
 ---

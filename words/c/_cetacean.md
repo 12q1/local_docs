@@ -5,7 +5,7 @@
 	- _Example: The tour promised spiritual experiences with humpback whales and other cetaceans, but all we saw were seagulls and a dead sea otter._
 ---
 #adjective
-- **[[p/_pertaining|Pertaining]] to the zoologic [[o/_order|order]] [[c/_cetacea|Cetacea]], or [[a/_associated|associated]] with species [[f/_falling|falling]] under that taxonomic [[h/_hierarchy|hierarchy]].**
+- **[[p/_pertaining|Pertaining]] to the zoologic [[o/_order|order]] [[c/_cetacea|Cetacea]], or [[a/_associated|associated]] with [[s/_species|species]] [[f/_falling|falling]] under that taxonomic [[h/_hierarchy|hierarchy]].**
 	- _Example: The poached blubber was definitely cetacean in origin, but the particular species could not be identified._
 - **(by [[e/_extension|extension]], [[s/_sometimes|sometimes]] [[f/_figurative|figurative]]) [[r/_resembling|Resembling]] or [[r/_relating|relating]] to [[l/_large|large]] [[a/_aquatic|aquatic]] [[m/_mammals|mammals]].**
 	- _Example: The obese woman, ungainly on land, moved with a kind of cetacean grace in the water._

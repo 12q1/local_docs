@@ -9,7 +9,7 @@
 - **A [[b/_brown|brown]] [[h/_horse|horse]] or [[o/_other|other]] [[a/_animal|animal]].**
 - **([[s/_sometimes|sometimes]] [[c/_capitalised|capitalised]]) A [[p/_person|person]] of [[m/_middle|Middle]] [[e/_eastern|Eastern]], [[l/_latino|Latino]] or [[s/_south|South]] [[a/_asian|Asian]] [[d/_descent|descent]]; a [[b/_brown|brown]]-[[s/_skinned|skinned]] [[p/_person|person]]; [[s/_someone|someone]] of [[m/_mulatto|mulatto]] or [[b/_biracial|biracial]] [[a/_appearance|appearance]].**
 - **[[a/_any|Any]] of various [[n/_nymphalid|nymphalid]] [[b/_butterflies|butterflies]] of subfamily [[s/_satyrinae|Satyrinae]] ([[f/_formerly|formerly]] the [[f/_family|family]] [[s/_satyridae|Satyridae]]).**
-- **[[a/_any|Any]] of [[c/_certain|certain]] species of [[n/_nymphalid|nymphalid]] [[b/_butterflies|butterflies]] of subfamily [[s/_satyrinae|Satyrinae]], such as those of the [[g/_genera|genera]] Heteronympha and Melanitis.**
+- **[[a/_any|Any]] of [[c/_certain|certain]] [[s/_species|species]] of [[n/_nymphalid|nymphalid]] [[b/_butterflies|butterflies]] of subfamily [[s/_satyrinae|Satyrinae]], such as those of the [[g/_genera|genera]] Heteronympha and Melanitis.**
 - **A [[b/_brown|brown]] trout ([[s/_salmo|Salmo]] trutta).**
 ---
 #verb

@@ -1,7 +1,7 @@
 # Proforma
 ---
 #noun
-- **A [[d/_document|document]] that [[s/_shows|shows]] the standard [[e/_entries|entries]] of a [[f/_form|form]] or [[s/_similar|similar]] [[d/_document|document]].**
+- **A [[d/_document|document]] that [[s/_shows|shows]] the [[s/_standard|standard]] [[e/_entries|entries]] of a [[f/_form|form]] or [[s/_similar|similar]] [[d/_document|document]].**
 ---
 #adjective
 - **For the [[s/_sake|sake]] of [[f/_form|form]] [[o/_only|only]].**

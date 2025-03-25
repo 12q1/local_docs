@@ -7,7 +7,7 @@
 - **A [[c/_crunching|crunching]] [[n/_noise|noise]].**
 ---
 #verb
-- **To [[c/_crumple|crumple]] and squeeze to [[m/_make|make]] [[m/_more|more]] [[c/_compact|compact]].**
+- **To [[c/_crumple|crumple]] and [[s/_squeeze|squeeze]] to [[m/_make|make]] [[m/_more|more]] [[c/_compact|compact]].**
 	- _Example: He scrunched the paper into a ball and threw it at the whistling girl._
 ---
 ---

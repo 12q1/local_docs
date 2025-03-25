@@ -6,10 +6,10 @@
 - **A [[m/_metal|metal]] utensil with a [[f/_flat|flat]] [[h/_head|head]] which is [[h/_heated|heated]] and [[p/_put|put]] [[o/_over|over]] a [[d/_dish|dish]] to [[b/_brown|brown]] the top.**
 - **A [[s/_small|small]] [[b/_broiler|broiler]] ([[n/_north|North]] [[a/_america|America]]) or [[g/_grill|grill]] ([[b/_britain|Britain]]) that [[h/_heats|heats]] the [[f/_food|food]] from [[a/_above|above]], used in [[p/_professional|professional]] [[c/_cookery|cookery]] [[p/_primarily|primarily]] for [[b/_browning|browning]].**
 	- _Example: The chef first put the steak under the salamander to sear the outside._
-- **The [[p/_pouched|pouched]] [[g/_gopher|gopher]], [[g/_geomys|Geomys]] tuza, of the [[s/_southern|southern]] United States.**
+- **The [[p/_pouched|pouched]] [[g/_gopher|gopher]], [[g/_geomys|Geomys]] tuza, of the [[s/_southern|southern]] United [[s/_states|States]].**
 - **A [[l/_large|large]] [[p/_poker|poker]].**
 - **[[s/_solidified|Solidified]] [[m/_material|material]] in a [[f/_furnace|furnace]] [[h/_hearth|hearth]].**
-- **[[p/_portable|Portable]] stove used to [[h/_heat|heat]] or [[d/_dry|dry]] [[b/_buildings|buildings]] under [[c/_construction|construction]].**
+- **[[p/_portable|Portable]] [[s/_stove|stove]] used to [[h/_heat|heat]] or [[d/_dry|dry]] [[b/_buildings|buildings]] under [[c/_construction|construction]].**
 ---
 #verb
 - **To use a [[s/_salamander|salamander]] ([[c/_cooking|cooking]] utensil) in a [[c/_cooking|cooking]] [[p/_process|process]].**

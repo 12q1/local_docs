@@ -4,7 +4,7 @@
 - **To [[m/_make|make]] [[d/_dirty|dirty]].**
 - **To [[b/_become|become]] [[d/_dirty|dirty]] or [[s/_soiled|soiled]].**
 	- _Example: Light colours soil sooner than dark ones._
-- **To stain or [[m/_mar|mar]], as with [[i/_infamy|infamy]] or [[d/_disgrace|disgrace]]; to tarnish; to sully.**
+- **To [[s/_stain|stain]] or [[m/_mar|mar]], as with [[i/_infamy|infamy]] or [[d/_disgrace|disgrace]]; to tarnish; to sully.**
 - **To [[d/_dirty|dirty]] [[o/_one|one]]'[[s/_s|s]] [[c/_clothing|clothing]] by [[a/_accidentally|accidentally]] [[d/_defecating|defecating]] while [[c/_clothed|clothed]].**
 - **To [[m/_make|make]] [[i/_invalid|invalid]], to [[r/_ruin|ruin]].**
 - **To [[e/_enrich|enrich]] with [[s/_soil|soil]] or [[m/_muck|muck]]; to [[m/_manure|manure]].**

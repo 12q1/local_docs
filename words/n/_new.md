@@ -26,7 +26,7 @@
 	- _Example: My sister has a new baby, and our mother is excited to finally have a grandchild._
 - **Of [[r/_recent|recent]] [[o/_origin|origin]]; [[h/_having|having]] taken [[p/_place|place]] [[r/_recently|recently]].**
 	- _Example: I can't see you for a while; the pain is still too new.   Did you see the new King Lear at the theatre?_
-- **Strange, unfamiliar or not [[p/_previously|previously]] [[k/_known|known]].**
+- **[[s/_strange|Strange]], unfamiliar or not [[p/_previously|previously]] [[k/_known|known]].**
 	- _Example: The idea was new to me.   I need to meet new people._
 - **[[r/_recently|Recently]] [[a/_arrived|arrived]] or [[a/_appeared|appeared]].**
 	- _Example: Have you met the new guy in town?   He is the new kid at school._

@@ -5,7 +5,7 @@
 - **A [[f/_fool|fool]], an [[i/_idiot|idiot]].**
 ---
 #adjective
-- **[[d/_destitute|Destitute]] of strength, whether of [[b/_body|body]] or [[m/_mind|mind]]; [[f/_feeble|feeble]]; [[i/_impotent|impotent]]; [[e/_especially|especially]], [[m/_mentally|mentally]] weak.**
+- **[[d/_destitute|Destitute]] of [[s/_strength|strength]], whether of [[b/_body|body]] or [[m/_mind|mind]]; [[f/_feeble|feeble]]; [[i/_impotent|impotent]]; [[e/_especially|especially]], [[m/_mentally|mentally]] weak.**
 	- _Example: hospitals for the imbecile and insane_
 ---
 ---

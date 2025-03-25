@@ -9,7 +9,7 @@
 - **A video [[g/_game|game]] [[m/_mode|mode]] where the [[a/_action|action]] is [[d/_demonstrated|demonstrated]] to [[e/_entice|entice]] [[s/_someone|someone]] to [[p/_play|play]] the [[g/_game|game]].**
 	- _Example: The barker mode of the arcade video game convinced the teenager to spend a quarter._
 - **A [[p/_pistol|pistol]].**
-- **The spotted [[r/_redshank|redshank]].**
+- **The [[s/_spotted|spotted]] [[r/_redshank|redshank]].**
 ---
 ### Synonyms
 - [[s/_spruik|spruik]], [[t/_tout|tout]]

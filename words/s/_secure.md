@@ -15,7 +15,7 @@
 - **[[f/_free|Free]] from the [[d/_danger|danger]] of theft; [[s/_safe|safe]].**
 - **[[f/_free|Free]] from the [[r/_risk|risk]] of [[e/_eavesdropping|eavesdropping]], [[i/_interception|interception]] or [[d/_discovery|discovery]]; [[s/_secret|secret]].**
 - **[[f/_free|Free]] from [[a/_anxiety|anxiety]] or [[d/_doubt|doubt]]; unafraid.**
-- **[[f/_firm|Firm]] and not [[l/_likely|likely]] to [[f/_fail|fail]]; stable.**
+- **[[f/_firm|Firm]] and not [[l/_likely|likely]] to [[f/_fail|fail]]; [[s/_stable|stable]].**
 - **[[f/_free|Free]] from the [[r/_risk|risk]] of [[f/_financial|financial]] [[l/_loss|loss]]; [[r/_reliable|reliable]].**
 - **[[c/_confident|Confident]] in [[o/_opinion|opinion]]; not [[e/_entertaining|entertaining]], or not [[h/_having|having]] [[r/_reason|reason]] to [[e/_entertain|entertain]], [[d/_doubt|doubt]]; [[c/_certain|certain]]; sure; [[c/_commonly|commonly]] used with of.**
 	- _Example: secure of a welcome_

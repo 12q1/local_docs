@@ -1,9 +1,9 @@
 # Conks
 ---
 #noun
-- **A [[m/_marine|marine]] [[g/_gastropod|gastropod]] of the [[f/_family|family]] Strombidae which [[l/_lives|lives]] in [[i/_its|its]] [[o/_own|own]] spiral [[s/_shell|shell]].**
+- **A [[m/_marine|marine]] [[g/_gastropod|gastropod]] of the [[f/_family|family]] [[s/_strombidae|Strombidae]] which [[l/_lives|lives]] in [[i/_its|its]] [[o/_own|own]] [[s/_spiral|spiral]] [[s/_shell|shell]].**
 - **The [[s/_shell|shell]] of this [[s/_sea|sea]] [[a/_animal|animal]].**
-- **A [[m/_musical|musical]] [[i/_instrument|instrument]] [[m/_made|made]] from a [[l/_large|large]] spiral [[s/_seashell|seashell]], [[s/_somewhat|somewhat]] [[l/_like|like]] a trumpet.**
+- **A [[m/_musical|musical]] [[i/_instrument|instrument]] [[m/_made|made]] from a [[l/_large|large]] [[s/_spiral|spiral]] [[s/_seashell|seashell]], [[s/_somewhat|somewhat]] [[l/_like|like]] a trumpet.**
 - **The [[s/_semidome|semidome]] of an [[a/_apse|apse]], or the [[a/_apse|apse]] [[i/_itself|itself]].**
 ---
 #noun
@@ -20,10 +20,10 @@
 - **To [[h/_hit|hit]], [[e/_especially|especially]] on the [[h/_head|head]].**
 ---
 #noun
-- **A [[h/_hairstyle|hairstyle]] [[i/_involving|involving]] the [[c/_chemical|chemical]] straightening and styling of [[k/_kinky|kinky]] [[h/_hair|hair]].**
+- **A [[h/_hairstyle|hairstyle]] [[i/_involving|involving]] the [[c/_chemical|chemical]] [[s/_straightening|straightening]] and [[s/_styling|styling]] of [[k/_kinky|kinky]] [[h/_hair|hair]].**
 ---
 #verb
-- **To [[c/_chemically|chemically]] straighten tightly [[c/_curled|curled]] [[h/_hair|hair]].**
+- **To [[c/_chemically|chemically]] [[s/_straighten|straighten]] tightly [[c/_curled|curled]] [[h/_hair|hair]].**
 ---
 #verb
 - **([[o/_often|often]] with [[o/_out|out]]) To [[f/_fail|fail]] or [[s/_show|show]] [[s/_signs|signs]] of [[f/_failing|failing]], [[c/_cease|cease]] [[o/_operating|operating]], [[b/_break|break]] [[d/_down|down]], [[b/_become|become]] unconscious.**

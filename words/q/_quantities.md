@@ -5,7 +5,7 @@
 	- _Example: You have to choose between quantity and quality._
 - **An [[i/_indefinite|indefinite]] [[a/_amount|amount]] of [[s/_something|something]].**
 	- _Example: Olive oil can be used practically in any quantity._
-- **A specific [[m/_measured|measured]] [[a/_amount|amount]].**
+- **A [[s/_specific|specific]] [[m/_measured|measured]] [[a/_amount|amount]].**
 	- _Example: Generally it should not be used in a quantity larger than 15 percent._
 - **A [[c/_considerable|considerable]] [[m/_measure|measure]] or [[a/_amount|amount]].**
 	- _Example: The Boeing P-26A was the first all-metal monoplane fighter produced in quantity for the U.S. Army Air Corps._

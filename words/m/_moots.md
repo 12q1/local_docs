@@ -28,7 +28,7 @@
 - **Vagina.**
 ---
 #noun
-- **The stump of a tree; the [[r/_roots|roots]] and [[b/_bottom|bottom]] [[e/_end|end]] of a [[f/_felled|felled]] tree.**
+- **The [[s/_stump|stump]] of a tree; the [[r/_roots|roots]] and [[b/_bottom|bottom]] [[e/_end|end]] of a [[f/_felled|felled]] tree.**
 ---
 #verb
 - **To take [[r/_root|root]] and [[b/_begin|begin]] to [[g/_grow|grow]].**

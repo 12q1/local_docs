@@ -1,7 +1,7 @@
 # Onion
 ---
 #noun
-- **A [[m/_monocotyledonous|monocotyledonous]] [[p/_plant|plant]] ([[a/_allium|Allium]] [[c/_cepa|cepa]]), [[a/_allied|allied]] to [[g/_garlic|garlic]], used as vegetable and spice.**
+- **A [[m/_monocotyledonous|monocotyledonous]] [[p/_plant|plant]] ([[a/_allium|Allium]] [[c/_cepa|cepa]]), [[a/_allied|allied]] to [[g/_garlic|garlic]], used as vegetable and [[s/_spice|spice]].**
 - **The [[b/_bulb|bulb]] of such a [[p/_plant|plant]].**
 - **The [[g/_genus|genus]] as a whole.**
 - **A [[b/_ball|ball]].**

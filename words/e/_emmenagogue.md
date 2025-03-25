@@ -1,6 +1,6 @@
 # Emmenagogue
 ---
 #noun
-- **An [[h/_herb|herb]] that stimulates [[b/_blood|blood]] [[f/_flow|flow]] in the [[p/_pelvic|pelvic]] [[a/_area|area]] and uterus, [[c/_causing|causing]] [[m/_menstruation|menstruation]].**
+- **An [[h/_herb|herb]] that [[s/_stimulates|stimulates]] [[b/_blood|blood]] [[f/_flow|flow]] in the [[p/_pelvic|pelvic]] [[a/_area|area]] and uterus, [[c/_causing|causing]] [[m/_menstruation|menstruation]].**
 ---
 ---

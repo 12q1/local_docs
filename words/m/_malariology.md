@@ -1,6 +1,6 @@
 # Malariology
 ---
 #noun
-- **The [[s/_scientific|scientific]] study of [[m/_malaria|malaria]].**
+- **The [[s/_scientific|scientific]] [[s/_study|study]] of [[m/_malaria|malaria]].**
 ---
 ---

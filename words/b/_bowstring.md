@@ -1,10 +1,10 @@
 # Bowstring
 ---
 #noun
-- **The string of an [[a/_archer|archer]]'[[s/_s|s]] [[b/_bow|bow]].**
-- **The string of an [[a/_archer|archer]]'[[s/_s|s]] [[b/_bow|bow]], as used by the Turks for strangling [[o/_offenders|offenders]].**
+- **The [[s/_string|string]] of an [[a/_archer|archer]]'[[s/_s|s]] [[b/_bow|bow]].**
+- **The [[s/_string|string]] of an [[a/_archer|archer]]'[[s/_s|s]] [[b/_bow|bow]], as used by the Turks for [[s/_strangling|strangling]] [[o/_offenders|offenders]].**
 ---
 #verb
-- **To strangle with a [[b/_bowstring|bowstring]].**
+- **To [[s/_strangle|strangle]] with a [[b/_bowstring|bowstring]].**
 ---
 ---

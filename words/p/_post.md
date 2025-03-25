@@ -3,7 +3,7 @@
 #noun
 - **A [[l/_long|long]] [[d/_dowel|dowel]] or [[p/_plank|plank]] [[p/_protruding|protruding]] from the [[g/_ground|ground]]; a [[f/_fencepost|fencepost]]; a lightpost.**
 	- _Example: ram a post into the ground_
-- **A stud; a two-by-[[f/_four|four]].**
+- **A [[s/_stud|stud]]; a two-by-[[f/_four|four]].**
 - **A [[p/_pole|pole]] in a [[b/_battery|battery]].**
 - **A [[l/_long|long]], [[n/_narrow|narrow]] [[p/_piece|piece]] [[i/_inserted|inserted]] [[i/_into|into]] a [[r/_root|root]] [[c/_canal|canal]] to [[p/_provide|provide]] [[r/_retention|retention]] for a [[c/_crown|crown]].**
 - **([[c/_chiefly|chiefly]] a [[c/_cappella|cappella]]) A [[p/_prolonged|prolonged]] [[f/_final|final]] [[m/_melody|melody]] [[n/_note|note]], [[a/_among|among]] [[m/_moving|moving]] [[h/_harmony|harmony]] [[n/_notes|notes]].**

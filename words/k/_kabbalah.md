@@ -1,6 +1,6 @@
 # Kabbalah
 ---
 #noun
-- **[[a/_alternative|Alternative]] spelling of Kabballah**
+- **[[a/_alternative|Alternative]] [[s/_spelling|spelling]] of Kabballah**
 ---
 ---

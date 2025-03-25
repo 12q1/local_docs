@@ -26,7 +26,7 @@
 #noun
 - **The [[l/_lowest|lowest]] [[p/_part|part]] of [[a/_anything|anything]].**
 	- _Example: Footers appear at the bottoms of pages._
-- **[[c/_character|Character]], [[r/_reliability|reliability]], staying [[p/_power|power]], [[d/_dignity|dignity]], [[i/_integrity|integrity]] or [[s/_sound|sound]] [[j/_judgment|judgment]].**
+- **[[c/_character|Character]], [[r/_reliability|reliability]], [[s/_staying|staying]] [[p/_power|power]], [[d/_dignity|dignity]], [[i/_integrity|integrity]] or [[s/_sound|sound]] [[j/_judgment|judgment]].**
 	- _Example: lack bottom_
 - **[[l/_low|Low]]-[[l/_lying|lying]] [[l/_land|land]]; a valley or [[h/_hollow|hollow]].**
 	- _Example: Where shall we go for a walk? How about Ashcombe Bottom?_

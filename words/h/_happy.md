@@ -18,7 +18,7 @@
 - **[[e/_experiencing|Experiencing]] the [[e/_effect|effect]] of [[f/_favourable|favourable]] [[f/_fortune|fortune]]; [[f/_favored|favored]] by [[f/_fortune|fortune]] or [[l/_luck|luck]]; [[f/_fortunate|fortunate]], [[l/_lucky|lucky]], [[p/_propitious|propitious]].**
 - **[[c/_content|Content]], [[s/_satisfied|satisfied]] (with or to [[d/_do|do]] [[s/_something|something]]); [[h/_having|having]] [[n/_no|no]] [[o/_objection|objection]] (to [[s/_something|something]]).**
 	- _Example: Are you happy to pay me back by the end of the week?_
-- **(Of [[a/_acts|acts]], speech, [[e/_etc|etc]].) [[a/_appropriate|Appropriate]], [[a/_apt|apt]], [[f/_felicitous|felicitous]].**
+- **(Of [[a/_acts|acts]], [[s/_speech|speech]], [[e/_etc|etc]].) [[a/_appropriate|Appropriate]], [[a/_apt|apt]], [[f/_felicitous|felicitous]].**
 	- _Example: a happy coincidence_
 - **(in [[c/_combination|combination]]) [[f/_favoring|Favoring]] or [[i/_inclined|inclined]] to use.**
 	- _Example: slaphappy, trigger-happy_

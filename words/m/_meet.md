@@ -1,7 +1,7 @@
 # Meet
 ---
 #noun
-- **A sports [[c/_competition|competition]], [[e/_especially|especially]] for track and [[f/_field|field]] (a track [[m/_meet|meet]]) or swimming (a swim [[m/_meet|meet]]).**
+- **A [[s/_sports|sports]] [[c/_competition|competition]], [[e/_especially|especially]] for track and [[f/_field|field]] (a track [[m/_meet|meet]]) or swimming (a swim [[m/_meet|meet]]).**
 - **A [[g/_gathering|gathering]] of [[r/_riders|riders]], [[h/_horses|horses]] and [[h/_hounds|hounds]] for foxhunting; a [[f/_field|field]] [[m/_meet|meet]] for [[h/_hunting|hunting]].**
 - **A [[m/_meeting|meeting]] of two trains in [[o/_opposite|opposite]] [[d/_directions|directions]] on a [[s/_single|single]] track, when [[o/_one|one]] is [[p/_put|put]] [[i/_into|into]] a [[s/_siding|siding]] to [[l/_let|let]] the [[o/_other|other]] [[c/_cross|cross]].**
 - **A [[m/_meeting|meeting]].**

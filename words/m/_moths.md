@@ -1,7 +1,7 @@
 # Moths
 ---
 #noun
-- **A [[s/_small|small]] [[p/_particle|particle]]; a speck.**
+- **A [[s/_small|small]] [[p/_particle|particle]]; a [[s/_speck|speck]].**
 ---
 #noun
 - **A [[m/_meeting|meeting]] for [[d/_discussion|discussion]].**
@@ -28,6 +28,6 @@
 ### Synonyms
 - [[m/_matki|matki]]
 #noun
-- **A [[l/_liver|liver]] spot, [[e/_especially|especially]] an [[i/_irregular|irregular]] or [[f/_feathery|feathery]] [[o/_one|one]].**
+- **A [[l/_liver|liver]] [[s/_spot|spot]], [[e/_especially|especially]] an [[i/_irregular|irregular]] or [[f/_feathery|feathery]] [[o/_one|one]].**
 ---
 ---

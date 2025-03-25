@@ -18,7 +18,7 @@
 #noun
 - **A [[j/_joke|joke]] or an [[i/_imitation|imitation]].**
 	- _Example: I assume it all could just be a cod._
-- **A stupid or [[f/_foolish|foolish]] [[p/_person|person]].**
+- **A [[s/_stupid|stupid]] or [[f/_foolish|foolish]] [[p/_person|person]].**
 	- _Example: He's making a right cod of himself._
 ---
 ---

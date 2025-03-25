@@ -5,7 +5,7 @@
 	- _Example: The lecturer has three speaking engagements this week._
 - **[[c/_connection|Connection]] or [[a/_attachment|attachment]].**
 	- _Example: Check the gears for full engagement before turning the handle._
-- **(by [[e/_extension|extension]], [[a/_about|about]] [[h/_human|human]] [[e/_emotional|emotional]] state) The [[f/_feeling|feeling]] of [[b/_being|being]] [[c/_compelled|compelled]], [[d/_drawn|drawn]] in, [[c/_connected|connected]] to what is [[h/_happening|happening]], [[i/_interested|interested]] in what will [[h/_happen|happen]] [[n/_next|next]].**
+- **(by [[e/_extension|extension]], [[a/_about|about]] [[h/_human|human]] [[e/_emotional|emotional]] [[s/_state|state]]) The [[f/_feeling|feeling]] of [[b/_being|being]] [[c/_compelled|compelled]], [[d/_drawn|drawn]] in, [[c/_connected|connected]] to what is [[h/_happening|happening]], [[i/_interested|interested]] in what will [[h/_happen|happen]] [[n/_next|next]].**
 - **The [[p/_period|period]] of time when [[m/_marriage|marriage]] is [[p/_planned|planned]] or [[p/_promised|promised]].**
 	- _Example: We are enjoying a long engagement, but haven't yet set a date._
 - **In [[a/_any|any]] [[s/_situation|situation]] of [[c/_conflict|conflict]], an [[a/_actual|actual]] [[i/_instance|instance]] of [[a/_active|active]] [[h/_hostilities|hostilities]].**

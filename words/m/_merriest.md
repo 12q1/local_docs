@@ -1,7 +1,7 @@
 # Merriest
 ---
 #adjective
-- **[[j/_jolly|Jolly]] and [[f/_full|full]] of [[h/_high|high]] spirits.**
+- **[[j/_jolly|Jolly]] and [[f/_full|full]] of [[h/_high|high]] [[s/_spirits|spirits]].**
 	- _Example: We had a very merry Christmas._
 - **[[f/_festive|Festive]] and [[f/_full|full]] of [[f/_fun|fun]] and [[l/_laughter|laughter]].**
 	- _Example: Everyone was merry at the party._

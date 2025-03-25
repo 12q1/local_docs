@@ -12,10 +12,10 @@
 #noun
 - **The [[s/_skin|skin]] of an [[a/_animal|animal]].**
 - **The [[h/_human|human]] [[s/_skin|skin]].**
-- **(usually United States) [[o/_one|One]]'[[s/_s|s]] [[o/_own|own]] [[l/_life|life]] or [[p/_personal|personal]] [[s/_safety|safety]], [[e/_especially|especially]] when in [[p/_peril|peril]].**
-- **([[m/_mainly|mainly]] [[b/_british|British]]) A [[c/_covered|covered]] structure from which [[h/_hunters|hunters]], birdwatchers, [[e/_etc|etc]] [[c/_can|can]] [[o/_observe|observe]] [[a/_animals|animals]] without [[s/_scaring|scaring]] them.**
+- **(usually United [[s/_states|States]]) [[o/_one|One]]'[[s/_s|s]] [[o/_own|own]] [[l/_life|life]] or [[p/_personal|personal]] [[s/_safety|safety]], [[e/_especially|especially]] when in [[p/_peril|peril]].**
+- **([[m/_mainly|mainly]] [[b/_british|British]]) A [[c/_covered|covered]] [[s/_structure|structure]] from which [[h/_hunters|hunters]], birdwatchers, [[e/_etc|etc]] [[c/_can|can]] [[o/_observe|observe]] [[a/_animals|animals]] without [[s/_scaring|scaring]] them.**
 - **A [[s/_secret|secret]] [[r/_room|room]] for [[h/_hiding|hiding]] [[o/_oneself|oneself]] or valuables; a [[h/_hideaway|hideaway]].**
-- **A [[c/_covered|covered]] structure to which a [[p/_pet|pet]] [[a/_animal|animal]] [[c/_can|can]] [[r/_retreat|retreat]], as is [[r/_recommended|recommended]] for [[s/_snakes|snakes]].**
+- **A [[c/_covered|covered]] [[s/_structure|structure]] to which a [[p/_pet|pet]] [[a/_animal|animal]] [[c/_can|can]] [[r/_retreat|retreat]], as is [[r/_recommended|recommended]] for [[s/_snakes|snakes]].**
 ---
 ### Synonyms
 - [[p/_pelt|pelt]], [[s/_skin|skin]]

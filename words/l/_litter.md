@@ -10,7 +10,7 @@
 - **[[a/_absorbent|Absorbent]] [[m/_material|material]] used in an [[a/_animal|animal]]'[[s/_s|s]] [[l/_litter|litter]] tray**
 	- _Example: the cat's litter_
 - **[[l/_layer|Layer]] of [[f/_fallen|fallen]] [[l/_leaves|leaves]] and [[s/_similar|similar]] [[o/_organic|organic]] [[m/_matter|matter]] in a [[f/_forest|forest]] [[f/_floor|floor]].**
-- **A [[c/_covering|covering]] of straw for [[p/_plants|plants]].**
+- **A [[c/_covering|covering]] of [[s/_straw|straw]] for [[p/_plants|plants]].**
 ---
 ### Synonyms
 - [[c/_cacolet|cacolet]], [[p/_palanquin|palanquin]], [[s/_stretcher|stretcher]], [[g/_garbage|garbage]], [[j/_junk|junk]], [[r/_rubbish|rubbish]], [[t/_trash|trash]], [[w/_waste|waste]]
@@ -18,10 +18,10 @@
 - **To [[d/_drop|drop]] or throw trash without [[p/_properly|properly]] [[d/_disposing|disposing]] of it (as [[d/_discarding|discarding]] in [[p/_public|public]] [[a/_areas|areas]] [[r/_rather|rather]] than trash [[r/_receptacles|receptacles]]).**
 	- _Example: By tossing the bottle out the window, he was littering._
 - **To [[s/_scatter|scatter]] [[c/_carelessly|carelessly]] [[a/_about|about]].**
-- **To strew (a [[p/_place|place]]) with [[s/_scattered|scattered]] [[a/_articles|articles]].**
+- **To [[s/_strew|strew]] (a [[p/_place|place]]) with [[s/_scattered|scattered]] [[a/_articles|articles]].**
 - **To [[g/_give|give]] [[b/_birth|birth]] to, used of [[a/_animals|animals]].**
 - **To [[p/_produce|produce]] a [[l/_litter|litter]] of [[y/_young|young]].**
-- **To supply ([[c/_cattle|cattle]] [[e/_etc|etc]].) with [[l/_litter|litter]]; to [[c/_cover|cover]] with [[l/_litter|litter]], as the [[f/_floor|floor]] of a stall.**
+- **To supply ([[c/_cattle|cattle]] [[e/_etc|etc]].) with [[l/_litter|litter]]; to [[c/_cover|cover]] with [[l/_litter|litter]], as the [[f/_floor|floor]] of a [[s/_stall|stall]].**
 - **To be supplied with [[l/_litter|litter]] as [[b/_bedding|bedding]]; to [[s/_sleep|sleep]] or [[m/_make|make]] [[o/_one|one]]'[[s/_s|s]] [[b/_bed|bed]] in [[l/_litter|litter]].**
 ---
 ---

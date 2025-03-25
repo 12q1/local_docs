@@ -12,7 +12,7 @@
 	- _Example: They buried their argument and shook hands._
 - **To [[s/_score|score]] a [[g/_goal|goal]].**
 - **To [[k/_kill|kill]] or [[m/_murder|murder]].**
-- **To [[r/_render|render]] [[i/_imperceptible|imperceptible]] by [[o/_other|other]], [[m/_more|more]] [[p/_prominent|prominent]] stimuli; [[d/_drown|drown]] [[o/_out|out]].**
+- **To [[r/_render|render]] [[i/_imperceptible|imperceptible]] by [[o/_other|other]], [[m/_more|more]] [[p/_prominent|prominent]] [[s/_stimuli|stimuli]]; [[d/_drown|drown]] [[o/_out|out]].**
 	- _Example: vocals buried in the mix_
 ---
 ---

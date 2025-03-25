@@ -8,7 +8,7 @@
 #noun
 - **A type of women'[[s/_s|s]] undergarment, a [[s/_slip|slip]].**
 	- _Example: Just last week she bought a new shift at the market._
-- **A [[c/_change|change]] of workers, [[n/_now|now]] specifically a [[s/_set|set]] [[g/_group|group]] of workers or [[p/_period|period]] of working time.**
+- **A [[c/_change|change]] of workers, [[n/_now|now]] [[s/_specifically|specifically]] a [[s/_set|set]] [[g/_group|group]] of workers or [[p/_period|period]] of working time.**
 	- _Example: We'll work three shifts a day till the job's done._
 - **An [[a/_act|act]] of [[s/_shifting|shifting]]; a [[s/_slight|slight]] [[m/_movement|movement]] or [[c/_change|change]].**
 	- _Example: There was a shift in the political atmosphere._
@@ -20,7 +20,7 @@
 - **([[o/_often|often]] with the [[d/_definite|definite]] [[a/_article|article]], usually uncountable) The [[a/_act|act]] of [[k/_kissing|kissing]] [[p/_passionately|passionately]].**
 - **A [[c/_contrivance|contrivance]], a [[d/_device|device]] to try when [[o/_other|other]] [[m/_methods|methods]] [[f/_fail|fail]].**
 - **A trick, an [[a/_artifice|artifice]].**
-- **The [[e/_extent|extent]], or [[a/_arrangement|arrangement]], of the [[o/_overlapping|overlapping]] of [[p/_plank|plank]], [[b/_brick|brick]], stones, [[e/_etc|etc]]., that are [[p/_placed|placed]] in [[c/_courses|courses]] [[s/_so|so]] as to [[b/_break|break]] [[j/_joints|joints]].**
+- **The [[e/_extent|extent]], or [[a/_arrangement|arrangement]], of the [[o/_overlapping|overlapping]] of [[p/_plank|plank]], [[b/_brick|brick]], [[s/_stones|stones]], [[e/_etc|etc]]., that are [[p/_placed|placed]] in [[c/_courses|courses]] [[s/_so|so]] as to [[b/_break|break]] [[j/_joints|joints]].**
 - **A [[b/_breaking|breaking]] [[o/_off|off]] and [[d/_dislocation|dislocation]] of a [[s/_seam|seam]]; a [[f/_fault|fault]].**
 - **A [[m/_mutation|mutation]] in which the DNA or RNA from two [[d/_different|different]] [[s/_sources|sources]] (such as viruses or [[b/_bacteria|bacteria]]) [[c/_combine|combine]].**
 - **In violin-[[p/_playing|playing]], [[a/_any|any]] [[p/_position|position]] of the [[l/_left|left]] [[h/_hand|hand]] [[e/_except|except]] that [[n/_nearest|nearest]] the [[n/_nut|nut]].**
@@ -34,11 +34,11 @@
 - **To [[c/_change|change]] [[r/_residence|residence]]; to [[l/_leave|leave]] and [[l/_live|live]] [[e/_elsewhere|elsewhere]].**
 	- _Example: We are shifting to America next month._
 - **To [[c/_change|change]] ([[c/_clothes|clothes]], [[e/_especially|especially]] underwear).**
-- **To [[c/_change|change]] ([[s/_someone|someone]]'[[s/_s|s]]) [[c/_clothes|clothes]]; [[s/_sometimes|sometimes]] specifically, to [[c/_change|change]] underwear.**
+- **To [[c/_change|change]] ([[s/_someone|someone]]'[[s/_s|s]]) [[c/_clothes|clothes]]; [[s/_sometimes|sometimes]] [[s/_specifically|specifically]], to [[c/_change|change]] underwear.**
 - **To [[c/_change|change]] [[g/_gears|gears]] (in a [[c/_car|car]]).**
 	- _Example: I crested the hill and shifted into fifth._
-- **(typewriters) To [[m/_move|move]] the [[k/_keys|keys]] of a typewriter [[o/_over|over]] in [[o/_order|order]] to type [[c/_capital|capital]] [[l/_letters|letters]] and special [[c/_characters|characters]].**
-- **([[c/_computer|computer]] [[k/_keyboards|keyboards]]) To switch to a [[c/_character|character]] [[e/_entry|entry]] [[m/_mode|mode]] for [[c/_capital|capital]] [[l/_letters|letters]] and special [[c/_characters|characters]].**
+- **(typewriters) To [[m/_move|move]] the [[k/_keys|keys]] of a typewriter [[o/_over|over]] in [[o/_order|order]] to type [[c/_capital|capital]] [[l/_letters|letters]] and [[s/_special|special]] [[c/_characters|characters]].**
+- **([[c/_computer|computer]] [[k/_keyboards|keyboards]]) To switch to a [[c/_character|character]] [[e/_entry|entry]] [[m/_mode|mode]] for [[c/_capital|capital]] [[l/_letters|letters]] and [[s/_special|special]] [[c/_characters|characters]].**
 - **To [[m/_manipulate|manipulate]] a [[b/_binary|binary]] [[n/_number|number]] by [[m/_moving|moving]] [[a/_all|all]] of [[i/_its|its]] [[d/_digits|digits]] [[l/_left|left]] or [[r/_right|right]]; [[c/_compare|compare]] [[r/_rotate|rotate]].**
 	- _Example: Shifting 1001 to the left yields 10010; shifting it right yields 100._
 - **To [[r/_remove|remove]] the [[f/_first|first]] value from an [[a/_array|array]].**

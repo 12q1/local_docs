@@ -10,7 +10,7 @@
 - **To be [[b/_bred|bred]].**
 ---
 #noun
-- **A spell of [[b/_brooding|brooding]]; the time when [[s/_someone|someone]] [[b/_broods|broods]].**
+- **A [[s/_spell|spell]] of [[b/_brooding|brooding]]; the time when [[s/_someone|someone]] [[b/_broods|broods]].**
 ---
 #adjective
 - **(of a [[b/_bird|bird]]) [[b/_broody|Broody]]; [[i/_incubating|incubating]] [[e/_eggs|eggs]] by [[s/_sitting|sitting]] on them.**

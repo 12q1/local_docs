@@ -1,7 +1,7 @@
 # Listening
 ---
 #verb
-- **To [[p/_pay|pay]] [[a/_attention|attention]] to a [[s/_sound|sound]] or speech.**
+- **To [[p/_pay|pay]] [[a/_attention|attention]] to a [[s/_sound|sound]] or [[s/_speech|speech]].**
 	- _Example: Please listen carefully as I explain.  I like to listen to music._
 - **To [[e/_expect|expect]] or wait for a [[s/_sound|sound]], such as a [[s/_signal|signal]].**
 	- _Example: You should listen for the starting gun._

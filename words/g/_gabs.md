@@ -3,7 +3,7 @@
 #noun
 - **[[i/_idle|Idle]] [[c/_chatter|chatter]].**
 - **The [[m/_mouth|mouth]] or [[g/_gob|gob]].**
-- **[[o/_one|One]] of the [[o/_open|open]]-[[f/_forked|forked]] [[e/_ends|ends]] of [[r/_rods|rods]] [[c/_controlling|controlling]] [[r/_reversing|reversing]] in [[e/_early|early]] steam [[e/_engines|engines]].**
+- **[[o/_one|One]] of the [[o/_open|open]]-[[f/_forked|forked]] [[e/_ends|ends]] of [[r/_rods|rods]] [[c/_controlling|controlling]] [[r/_reversing|reversing]] in [[e/_early|early]] [[s/_steam|steam]] [[e/_engines|engines]].**
 ---
 #verb
 - **To [[j/_jest|jest]]; to tell [[l/_lies|lies]] in [[j/_jest|jest]]; [[e/_exaggerate|exaggerate]]; [[l/_lie|lie]].**

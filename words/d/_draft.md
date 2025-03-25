@@ -16,8 +16,8 @@
 - **[[c/_conscription|Conscription]], the [[s/_system|system]] of [[f/_forcing|forcing]] [[p/_people|people]] to [[s/_serve|serve]] in the [[m/_military|military]].**
 	- _Example: He left the country to avoid the draft._
 - **A [[s/_system|system]] of [[f/_forcing|forcing]] or [[c/_convincing|convincing]] [[p/_people|people]] to take an [[e/_elected|elected]] [[p/_position|position]].**
-- **A [[s/_system|system]] of [[a/_assigning|assigning]] [[r/_rookie|rookie]] [[p/_players|players]] to [[p/_professional|professional]] sports teams.**
-- **The [[p/_pulling|pulling]] [[f/_force|force]] (tension) on [[c/_couplers|couplers]] and [[d/_draft|draft]] [[g/_gear|gear]] [[d/_during|during]] a [[s/_slack|slack]] stretched [[c/_condition|condition]].**
+- **A [[s/_system|system]] of [[a/_assigning|assigning]] [[r/_rookie|rookie]] [[p/_players|players]] to [[p/_professional|professional]] [[s/_sports|sports]] teams.**
+- **The [[p/_pulling|pulling]] [[f/_force|force]] (tension) on [[c/_couplers|couplers]] and [[d/_draft|draft]] [[g/_gear|gear]] [[d/_during|during]] a [[s/_slack|slack]] [[s/_stretched|stretched]] [[c/_condition|condition]].**
 - **The [[b/_bevel|bevel]] [[g/_given|given]] to the [[p/_pattern|pattern]] for a [[c/_casting|casting]], [[s/_so|so]] that it [[c/_can|can]] be [[d/_drawn|drawn]] from the [[s/_sand|sand]] without [[d/_damaging|damaging]] the [[m/_mould|mould]].**
 - **([[p/_possibly|possibly]] [[o/_obsolete|obsolete]]) The [[a/_action|action]] or an [[a/_act|act]] ([[e/_especially|especially]] of a [[b/_beast|beast]] of [[b/_burden|burden]] or vehicle) of [[p/_pulling|pulling]] [[s/_something|something]] [[a/_along|along]] or [[b/_back|back]].**
 	- _Example: using oxen for draft   shot forth an arrow with a mighty draft_
@@ -38,11 +38,11 @@
 	- _Example: There was a campaign to draft Smith to run for President._
 - **To [[s/_select|select]] and [[s/_separate|separate]] an [[a/_animal|animal]] or [[a/_animals|animals]] from a [[g/_group|group]].**
 	- _Example: The calves were drafted from the cows._
-- **To [[s/_select|select]] a [[r/_rookie|rookie]] [[p/_player|player]] [[o/_onto|onto]] a [[p/_professional|professional]] sports team.**
+- **To [[s/_select|select]] a [[r/_rookie|rookie]] [[p/_player|player]] [[o/_onto|onto]] a [[p/_professional|professional]] [[s/_sports|sports]] team.**
 	- _Example: After his last year of college football, he was drafted by the Miami Dolphins._
-- **To [[f/_follow|follow]] very [[c/_closely|closely]] ([[b/_behind|behind]] [[a/_another|another]] vehicle), thereby [[p/_providing|providing]] an [[a/_aerodynamic|aerodynamic]] [[a/_advantage|advantage]] to [[b/_both|both]] [[l/_lead|lead]] and [[f/_follower|follower]] and [[c/_conserving|conserving]] [[e/_energy|energy]] or [[i/_increasing|increasing]] speed.**
+- **To [[f/_follow|follow]] very [[c/_closely|closely]] ([[b/_behind|behind]] [[a/_another|another]] vehicle), thereby [[p/_providing|providing]] an [[a/_aerodynamic|aerodynamic]] [[a/_advantage|advantage]] to [[b/_both|both]] [[l/_lead|lead]] and [[f/_follower|follower]] and [[c/_conserving|conserving]] [[e/_energy|energy]] or [[i/_increasing|increasing]] [[s/_speed|speed]].**
 - **To [[d/_draw|draw]] [[o/_out|out]]; to [[c/_call|call]] [[f/_forth|forth]].**
-- **To [[d/_draw|draw]] [[f/_fibers|fibers]] [[o/_out|out]] of a [[c/_clump|clump]], for spinning in the [[p/_production|production]] of [[y/_yarn|yarn]].**
+- **To [[d/_draw|draw]] [[f/_fibers|fibers]] [[o/_out|out]] of a [[c/_clump|clump]], for [[s/_spinning|spinning]] in the [[p/_production|production]] of [[y/_yarn|yarn]].**
 ---
 #adjective
 - **[[r/_referring|Referring]] to [[d/_drinks|drinks]] on tap, in [[c/_contrast|contrast]] to [[b/_bottled|bottled]].**

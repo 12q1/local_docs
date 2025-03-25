@@ -19,7 +19,7 @@
 - **A [[s/_seizing|seizing]] or [[c/_closing|closing]] in upon; a [[p/_pinching|pinching]]**
 	- _Example: the nip of masses of ice_
 - **A [[s/_small|small]] [[c/_cut|cut]], or a [[c/_cutting|cutting]] [[o/_off|off]] the [[e/_end|end]].**
-- **A [[m/_more|more]] or [[l/_less|less]] [[g/_gradual|gradual]] thinning [[o/_out|out]] of a stratum.**
+- **A [[m/_more|more]] or [[l/_less|less]] [[g/_gradual|gradual]] thinning [[o/_out|out]] of a [[s/_stratum|stratum]].**
 - **A [[b/_blast|blast]]; a [[k/_killing|killing]] of the [[e/_ends|ends]] of [[p/_plants|plants]] by [[f/_frost|frost]].**
 - **A [[b/_biting|biting]] [[s/_sarcasm|sarcasm]]; a taunt.**
 - **A [[s/_short|short]] turn in a [[r/_rope|rope]].**
@@ -32,8 +32,8 @@
 - **To [[b/_blast|blast]], as by [[f/_frost|frost]]; to [[c/_check|check]] the [[g/_growth|growth]] or vigor of; to [[d/_destroy|destroy]].**
 - **To [[a/_annoy|annoy]], as by [[n/_nipping|nipping]].**
 - **To taunt.**
-- **To squeeze or [[p/_pinch|pinch]].**
-- **To steal; [[e/_especially|especially]] to [[c/_cut|cut]] a [[p/_purse|purse]].**
+- **To [[s/_squeeze|squeeze]] or [[p/_pinch|pinch]].**
+- **To [[s/_steal|steal]]; [[e/_especially|especially]] to [[c/_cut|cut]] a [[p/_purse|purse]].**
 ---
 #verb
 - **To [[m/_make|make]] a [[q/_quick|quick]], [[s/_short|short]] [[j/_journey|journey]] or [[e/_errand|errand]], usually a [[r/_round|round]] trip.**

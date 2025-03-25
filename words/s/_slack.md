@@ -1,7 +1,7 @@
 # Slack
 ---
 #noun
-- **The [[p/_part|part]] of [[a/_anything|anything]] that [[h/_hangs|hangs]] [[l/_loose|loose]], [[h/_having|having]] [[n/_no|no]] strain upon it.**
+- **The [[p/_part|part]] of [[a/_anything|anything]] that [[h/_hangs|hangs]] [[l/_loose|loose]], [[h/_having|having]] [[n/_no|no]] [[s/_strain|strain]] upon it.**
 	- _Example: take in the slack_
 - **A tidal [[m/_marsh|marsh]] or [[s/_shallow|shallow]] that [[p/_periodically|periodically]] [[f/_fills|fills]] and [[d/_drains|drains]].**
 ---

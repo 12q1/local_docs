@@ -7,7 +7,7 @@
 #verb
 - **To work at ([[s/_something|something]]) [[d/_diligently|diligently]].**
 	- _Example: He plied his trade as carpenter for forty-three years._
-- **To wield or use (a tool, a weapon, [[e/_etc|etc]].) steadily or vigorously.**
+- **To wield or use (a tool, a weapon, [[e/_etc|etc]].) [[s/_steadily|steadily]] or vigorously.**
 	- _Example: He plied his ax with bloody results._
 - **To [[p/_press|press]] upon; to urge [[p/_persistently|persistently]].**
 	- _Example: to ply someone with questions or solicitations_

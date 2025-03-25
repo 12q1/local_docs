@@ -1,7 +1,7 @@
 # Pawning
 ---
 #verb
-- **To [[p/_pledge|pledge]]; to stake or wager.**
+- **To [[p/_pledge|pledge]]; to [[s/_stake|stake]] or wager.**
 - **To [[g/_give|give]] as [[s/_security|security]] on a [[l/_loan|loan]] of [[m/_money|money]]; [[e/_especially|especially]], to [[d/_deposit|deposit]] ([[s/_something|something]]) at a [[p/_pawn|pawn]] [[s/_shop|shop]].**
 ---
 ### Synonyms

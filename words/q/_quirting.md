@@ -1,6 +1,6 @@
 # Quirting
 ---
 #verb
-- **To strike with a [[q/_quirt|quirt]].**
+- **To [[s/_strike|strike]] with a [[q/_quirt|quirt]].**
 ---
 ---

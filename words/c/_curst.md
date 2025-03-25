@@ -12,6 +12,6 @@
 ### Antonyms
 - [[b/_bless|bless]]
 #adjective
-- **[[a/_archaic|Archaic]] spelling of [[c/_cursed|cursed]].**
+- **[[a/_archaic|Archaic]] [[s/_spelling|spelling]] of [[c/_cursed|cursed]].**
 ---
 ---

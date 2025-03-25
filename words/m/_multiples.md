@@ -7,7 +7,7 @@
 - **[[o/_one|One]] of a [[s/_set|set]] of the [[s/_same|same]] thing; a [[d/_duplicate|duplicate]].**
 - **A [[s/_single|single]] [[i/_individual|individual]] who [[h/_has|has]] [[m/_multiple|multiple]] [[p/_personalities|personalities]].**
 - **[[o/_one|One]] of a [[s/_set|set]] of [[s/_siblings|siblings]] [[p/_produced|produced]] by a [[m/_multiple|multiple]] [[b/_birth|birth]].**
-- **A [[c/_chain|chain]] store.**
+- **A [[c/_chain|chain]] [[s/_store|store]].**
 - **A [[d/_discovery|discovery]] [[r/_resulting|resulting]] from the work of [[m/_many|many]] [[p/_people|people]] throughout [[h/_history|history]], not [[m/_merely|merely]] the work of the [[p/_person|person]] who [[m/_makes|makes]] the [[f/_final|final]] [[c/_connection|connection]].**
 ---
 ---

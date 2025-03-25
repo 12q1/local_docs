@@ -19,7 +19,7 @@
 	- _Example: Which letter comes before Y?   Winter comes after autumn._
 - **To [[a/_achieve|achieve]] [[o/_orgasm|orgasm]]; to [[c/_cum|cum]]; to [[e/_ejaculate|ejaculate]].**
 	- _Example: He came after a few minutes._
-- **(with [[c/_close|close]]) To [[a/_approach|approach]] a state of [[b/_being|being]] or [[a/_accomplishment|accomplishment]].**
+- **(with [[c/_close|close]]) To [[a/_approach|approach]] a [[s/_state|state]] of [[b/_being|being]] or [[a/_accomplishment|accomplishment]].**
 	- _Example: One of the screws came loose, and the skateboard fell apart._
 - **(with to) To take a [[p/_particular|particular]] [[a/_approach|approach]] or [[p/_point|point]] of view in [[r/_regard|regard]] to [[s/_something|something]].**
 	- _Example: He came to SF literature a confirmed technophile, and nothing made him happier than to read a manuscript thick with imaginary gizmos and whatzits._
@@ -39,7 +39,7 @@
 ### Antonyms
 - [[d/_depart|depart]], [[e/_exit|exit]], [[f/_flee|flee]], [[g/_go|go]], [[l/_leave|leave]], [[r/_retreat|retreat]], [[w/_withdraw|withdraw]]
 #preposition
-- **Used to [[i/_indicate|indicate]] a [[p/_point|point]] in time at or [[a/_after|after]] which a stated [[e/_event|event]] or [[s/_situation|situation]] [[o/_occurs|occurs]].**
+- **Used to [[i/_indicate|indicate]] a [[p/_point|point]] in time at or [[a/_after|after]] which a [[s/_stated|stated]] [[e/_event|event]] or [[s/_situation|situation]] [[o/_occurs|occurs]].**
 	- _Example: Come retirement, their Social Security may turn out to be a lot less than they counted on._
 ---
 #interjection

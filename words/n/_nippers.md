@@ -14,7 +14,7 @@
 - **A [[e/_european|European]] [[c/_crab|crab]] (Polybius henslowii).**
 - **The [[c/_claws|claws]] of a [[c/_crab|crab]] or [[l/_lobster|lobster]].**
 - **A [[y/_young|young]] [[b/_bluefish|bluefish]].**
-- **A [[m/_machine|machine]] used by a ticket [[i/_inspector|inspector]] to stamp [[p/_passengers|passengers]]' tickets.**
+- **A [[m/_machine|machine]] used by a ticket [[i/_inspector|inspector]] to [[s/_stamp|stamp]] [[p/_passengers|passengers]]' tickets.**
 - **[[o/_one|One]] of a [[p/_pair|pair]] of [[a/_automatically|automatically]] [[l/_locking|locking]] [[h/_handcuffs|handcuffs]].**
 ---
 ---

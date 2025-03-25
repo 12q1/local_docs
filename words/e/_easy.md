@@ -15,7 +15,7 @@
 - **(of a woman) [[c/_consenting|Consenting]] [[r/_readily|readily]] to [[s/_sex|sex]].**
 	- _Example: She has a reputation for being easy; they say she slept with half the senior class._
 - **Not [[m/_making|making]] [[r/_resistance|resistance]] or [[s/_showing|showing]] unwillingness; tractable; [[y/_yielding|yielding]]; [[c/_compliant|compliant]].**
-- **Not straitened as to [[m/_money|money]] [[m/_matters|matters]]; [[o/_opposed|opposed]] to tight.**
+- **Not [[s/_straitened|straitened]] as to [[m/_money|money]] [[m/_matters|matters]]; [[o/_opposed|opposed]] to tight.**
 	- _Example: The market is easy._
 ---
 ### Synonyms
@@ -25,13 +25,13 @@
 #adverb
 - **In a [[r/_relaxed|relaxed]] or [[c/_casual|casual]] [[m/_manner|manner]].**
 	- _Example: After his illness, John decided to take it easy._
-- **In a [[m/_manner|manner]] without strictness or [[h/_harshness|harshness]].**
+- **In a [[m/_manner|manner]] without [[s/_strictness|strictness]] or [[h/_harshness|harshness]].**
 	- _Example: Jane went easier on him after he broke his arm._
 - **Used an [[i/_intensifier|intensifier]] for [[l/_large|large]] [[m/_magnitudes|magnitudes]].**
 	- _Example: This project will cost 15 million dollars, easy._
 - **Not [[d/_difficult|difficult]], not [[h/_hard|hard]].**
 ---
 #verb
-- **To stop [[r/_rowing|rowing]].**
+- **To [[s/_stop|stop]] [[r/_rowing|rowing]].**
 ---
 ---

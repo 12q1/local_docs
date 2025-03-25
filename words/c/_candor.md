@@ -2,7 +2,7 @@
 ---
 #noun
 - **Whiteness; [[b/_brilliance|brilliance]]; [[p/_purity|purity]].**
-- **The state of [[b/_being|being]] [[s/_sincere|sincere]] and [[o/_open|open]] in speech; [[h/_honesty|honesty]] in [[e/_expression|expression]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[s/_sincere|sincere]] and [[o/_open|open]] in [[s/_speech|speech]]; [[h/_honesty|honesty]] in [[e/_expression|expression]].**
 - **[[i/_impartiality|Impartiality]].**
 ---
 ### Synonyms

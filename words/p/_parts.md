@@ -21,7 +21,7 @@
 - **To [[d/_divide|divide]] up; to [[s/_share|share]].**
 - **To [[h/_have|have]] a [[p/_part|part]] or [[s/_share|share]]; to [[p/_partake|partake]].**
 - **To [[s/_separate|separate]] or [[d/_disunite|disunite]]; to [[r/_remove|remove]] from [[c/_contact|contact]] or [[c/_contiguity|contiguity]]; to sunder.**
-- **To [[h/_hold|hold]] [[a/_apart|apart]]; to stand or [[i/_intervene|intervene]] [[b/_between|between]].**
+- **To [[h/_hold|hold]] [[a/_apart|apart]]; to [[s/_stand|stand]] or [[i/_intervene|intervene]] [[b/_between|between]].**
 - **To [[s/_separate|separate]] by a [[p/_process|process]] of [[e/_extraction|extraction]], [[e/_elimination|elimination]], or [[s/_secretion|secretion]].**
 	- _Example: to part gold from silver_
 - **To [[l/_leave|leave]]; to [[q/_quit|quit]].**

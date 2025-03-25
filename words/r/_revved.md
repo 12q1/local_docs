@@ -1,7 +1,7 @@
 # Revved
 ---
 #verb
-- **To [[i/_increase|increase]] the speed of a [[m/_motor|motor]], or to [[o/_operate|operate]] at a [[h/_higher|higher]] speed.**
+- **To [[i/_increase|increase]] the [[s/_speed|speed]] of a [[m/_motor|motor]], or to [[o/_operate|operate]] at a [[h/_higher|higher]] [[s/_speed|speed]].**
 	- _Example: He revved the engine in a rather macho style._
 ---
 ---

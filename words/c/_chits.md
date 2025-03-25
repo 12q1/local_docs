@@ -12,9 +12,9 @@
 ### Synonyms
 - [[s/_seedling|seedling]], [[s/_shoot|shoot]], [[s/_sprout|sprout]]
 #verb
-- **To sprout; to [[s/_shoot|shoot]], as a [[s/_seed|seed]] or [[p/_plant|plant]].**
+- **To [[s/_sprout|sprout]]; to [[s/_shoot|shoot]], as a [[s/_seed|seed]] or [[p/_plant|plant]].**
 - **To [[d/_damage|damage]] the [[o/_outer|outer]] [[l/_layers|layers]] of a [[s/_seed|seed]] such as [[l/_lupinus|Lupinus]] or [[s/_sophora|Sophora]] to [[a/_assist|assist]] [[g/_germination|germination]].**
-- **To [[i/_initiate|initiate]] sprouting of tubers, such as [[p/_potatoes|potatoes]], by [[p/_placing|placing]] them in special [[e/_environment|environment]], [[b/_before|before]] [[p/_planting|planting]] [[i/_into|into]] the [[s/_soil|soil]].**
+- **To [[i/_initiate|initiate]] [[s/_sprouting|sprouting]] of tubers, such as [[p/_potatoes|potatoes]], by [[p/_placing|placing]] them in [[s/_special|special]] [[e/_environment|environment]], [[b/_before|before]] [[p/_planting|planting]] [[i/_into|into]] the [[s/_soil|soil]].**
 ---
 #noun
 - **A [[s/_small|small]] [[s/_sheet|sheet]] or [[s/_scrap|scrap]] of [[p/_paper|paper]] with a [[h/_hand|hand]]-written [[n/_note|note]] as a [[r/_reminder|reminder]] or [[p/_personal|personal]] [[m/_message|message]].**

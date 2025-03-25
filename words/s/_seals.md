@@ -10,8 +10,8 @@
 	- _Example: They're organizing a protest against sealing._
 ---
 #noun
-- **A stamp used to [[i/_impress|impress]] a [[d/_design|design]] on a [[s/_soft|soft]] substance such as wax.**
-- **An [[i/_impression|impression]] of such stamp on wax, [[p/_paper|paper]] or [[o/_other|other]] [[m/_material|material]] used for [[s/_sealing|sealing]].**
+- **A [[s/_stamp|stamp]] used to [[i/_impress|impress]] a [[d/_design|design]] on a [[s/_soft|soft]] substance such as wax.**
+- **An [[i/_impression|impression]] of such [[s/_stamp|stamp]] on wax, [[p/_paper|paper]] or [[o/_other|other]] [[m/_material|material]] used for [[s/_sealing|sealing]].**
 - **A [[d/_design|design]] or [[i/_insignia|insignia]] usually [[a/_associated|associated]] with an [[o/_organization|organization]] or an [[o/_official|official]] [[r/_role|role]].**
 	- _Example: The front of the podium bore the presidential seal._
 - **[[a/_anything|Anything]] that [[s/_secures|secures]] or [[a/_authenticates|authenticates]].**
@@ -27,7 +27,7 @@
 ---
 #verb
 - **To [[p/_place|place]] a [[s/_seal|seal]] on (a [[d/_document|document]]).**
-- **To [[m/_mark|mark]] with a stamp, as an [[e/_evidence|evidence]] of standard [[e/_exactness|exactness]], [[l/_legal|legal]] [[s/_size|size]], or [[m/_merchantable|merchantable]] [[q/_quality|quality]].**
+- **To [[m/_mark|mark]] with a [[s/_stamp|stamp]], as an [[e/_evidence|evidence]] of [[s/_standard|standard]] [[e/_exactness|exactness]], [[l/_legal|legal]] [[s/_size|size]], or [[m/_merchantable|merchantable]] [[q/_quality|quality]].**
 	- _Example: to seal silverware_
 - **To [[f/_fasten|fasten]] ([[s/_something|something]]) [[s/_so|so]] that it [[c/_cannot|cannot]] be [[o/_opened|opened]] without visible [[d/_damage|damage]].**
 	- _Example: The cover is sealed. If anyone tries to open it, we'll know about it._
@@ -49,6 +49,6 @@
 ### Synonyms
 - [[b/_block|block]], [[c/_close|close]], [[o/_obstruct|obstruct]], [[e/_enclose|enclose]]
 #verb
-- **To tie up [[a/_animals|animals]] ([[e/_especially|especially]] [[c/_cattle|cattle]]) in their stalls.**
+- **To tie up [[a/_animals|animals]] ([[e/_especially|especially]] [[c/_cattle|cattle]]) in their [[s/_stalls|stalls]].**
 ---
 ---

@@ -8,7 +8,7 @@
 #verb
 - **To [[s/_separate|separate]] from [[a/_all|all]] [[e/_external|external]] [[i/_influence|influence]]; to [[s/_seclude|seclude]]; to withdraw.**
 	- _Example: The jury was sequestered from the press by the judge's order._
-- **To [[s/_separate|separate]] in [[o/_order|order]] to store.**
+- **To [[s/_separate|separate]] in [[o/_order|order]] to [[s/_store|store]].**
 - **To [[s/_set|set]] [[a/_apart|apart]]; to [[p/_put|put]] [[a/_aside|aside]]; to [[r/_remove|remove]]; to [[s/_separate|separate]] from [[o/_other|other]] things.**
 - **To [[p/_prevent|prevent]] an [[i/_ion|ion]] in [[s/_solution|solution]] from [[b/_behaving|behaving]] [[n/_normally|normally]] by [[f/_forming|forming]] a [[c/_coordination|coordination]] [[c/_compound|compound]]**
 - **To temporarily [[r/_remove|remove]] ([[p/_property|property]]) from the [[p/_possession|possession]] of [[i/_its|its]] [[o/_owner|owner]] and [[h/_hold|hold]] it as [[s/_security|security]] [[a/_against|against]] [[l/_legal|legal]] [[c/_claims|claims]].**

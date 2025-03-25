@@ -33,7 +33,7 @@
 - **The [[a/_act|act]] of [[o/_one|one]] who [[m/_mounts|mounts]].**
 ---
 #adjective
-- **That [[c/_continues|continues]] to [[m/_mount|mount]]; steadily [[a/_accumulating|accumulating]].**
+- **That [[c/_continues|continues]] to [[m/_mount|mount]]; [[s/_steadily|steadily]] [[a/_accumulating|accumulating]].**
 	- _Example: mounting debts_
 ---
 ---

@@ -9,13 +9,13 @@
 - **A [[m/_marked|marked]] [[p/_point|point]] in a [[d/_document|document]] that [[c/_can|can]] be the target of a hyperlink.**
 - **An [[a/_anchorman|anchorman]] or anchorwoman.**
 - **The [[f/_final|final]] [[r/_runner|runner]] in a [[r/_relay|relay]] [[r/_race|race]].**
-- **A [[p/_point|point]] that is touched by the [[d/_draw|draw]] [[h/_hand|hand]] or string when the [[b/_bow|bow]] is [[f/_fully|fully]] [[d/_drawn|drawn]] and [[r/_ready|ready]] to [[s/_shoot|shoot]].**
+- **A [[p/_point|point]] that is touched by the [[d/_draw|draw]] [[h/_hand|hand]] or [[s/_string|string]] when the [[b/_bow|bow]] is [[f/_fully|fully]] [[d/_drawn|drawn]] and [[r/_ready|ready]] to [[s/_shoot|shoot]].**
 - **A superstore or [[o/_other|other]] [[f/_facility|facility]] that [[s/_serves|serves]] as a [[f/_focus|focus]] to [[b/_bring|bring]] [[c/_customers|customers]] [[i/_into|into]] an [[a/_area|area]].**
-- **That which [[g/_gives|gives]] stability or [[s/_security|security]].**
+- **That which [[g/_gives|gives]] [[s/_stability|stability]] or [[s/_security|security]].**
 - **A [[m/_metal|metal]] tie [[h/_holding|holding]] [[a/_adjoining|adjoining]] [[p/_parts|parts]] of a [[b/_building|building]] together.**
 - **[[c/_carved|Carved]] work, [[s/_somewhat|somewhat]] [[r/_resembling|resembling]] an [[a/_anchor|anchor]] or [[a/_arrowhead|arrowhead]]; [[p/_part|part]] of the [[o/_ornaments|ornaments]] of [[c/_certain|certain]] [[m/_mouldings|mouldings]]. It is [[s/_seen|seen]] in the [[e/_echinus|echinus]], or [[e/_egg|egg]]-and-[[a/_anchor|anchor]] ([[c/_called|called]] [[a/_also|also]] [[e/_egg|egg]]-and-[[d/_dart|dart]], [[e/_egg|egg]]-and-tongue) [[o/_ornament|ornament]].**
-- **[[o/_one|One]] of the [[a/_anchor|anchor]]-[[s/_shaped|shaped]] spicules of [[c/_certain|certain]] sponges.**
-- **[[o/_one|One]] of the [[c/_calcareous|calcareous]] spinules of [[c/_certain|certain]] holothurians, as in species of Synapta.**
+- **[[o/_one|One]] of the [[a/_anchor|anchor]]-[[s/_shaped|shaped]] [[s/_spicules|spicules]] of [[c/_certain|certain]] [[s/_sponges|sponges]].**
+- **[[o/_one|One]] of the [[c/_calcareous|calcareous]] [[s/_spinules|spinules]] of [[c/_certain|certain]] holothurians, as in [[s/_species|species]] of Synapta.**
 - **The thirty-[[f/_fifth|fifth]] Lenormand [[c/_card|card]].**
 - **An [[a/_anchorite|anchorite]] or [[a/_anchoress|anchoress]].**
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[f/_free|Free]] [[p/_postage|postage]], a [[r/_right|right]] [[e/_exercised|exercised]] by [[g/_governments|governments]] (usually with [[d/_definite|definite]] [[a/_article|article]]).**
-- **The [[n/_notice|notice]] on an [[e/_envelope|envelope]] where a stamp would [[n/_normally|normally]] be [[f/_found|found]].**
+- **The [[n/_notice|notice]] on an [[e/_envelope|envelope]] where a [[s/_stamp|stamp]] would [[n/_normally|normally]] be [[f/_found|found]].**
 ---
 #verb
 - **To [[p/_place|place]] a [[f/_frank|frank]] on an [[e/_envelope|envelope]].**

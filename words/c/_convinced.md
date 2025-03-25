@@ -11,7 +11,7 @@
 ### Synonyms
 - [[a/_assure|assure]], [[c/_convert|convert]], [[p/_persuade|persuade]], [[s/_satisfy|satisfy]]
 #adjective
-- **In a state of [[b/_believing|believing]], [[e/_especially|especially]] from [[e/_evidence|evidence]] but not [[n/_necessarily|necessarily]].**
+- **In a [[s/_state|state]] of [[b/_believing|believing]], [[e/_especially|especially]] from [[e/_evidence|evidence]] but not [[n/_necessarily|necessarily]].**
 	- _Example: He was convinced he was a great singer, statements of others to the contrary._
 ---
 ---

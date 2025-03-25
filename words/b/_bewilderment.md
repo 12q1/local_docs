@@ -1,7 +1,7 @@
 # Bewilderment
 ---
 #noun
-- **The state of [[b/_being|being]] [[b/_bewildered|bewildered]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[b/_bewildered|bewildered]].**
 - **A [[c/_confusing|confusing]] or [[p/_perplexing|perplexing]] [[s/_situation|situation]].**
 ---
 ---

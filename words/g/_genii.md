@@ -6,7 +6,7 @@
 - **[[e/_extraordinary|Extraordinary]] [[m/_mental|mental]] [[c/_capacity|capacity]].**
 - **[[i/_inspiration|Inspiration]], a [[m/_mental|mental]] [[l/_leap|leap]], an [[e/_extraordinary|extraordinary]] [[c/_creative|creative]] [[p/_process|process]].**
 	- _Example: a work of genius._
-- **The tutelary [[d/_deity|deity]] or spirit of a [[p/_place|place]] or [[p/_person|person]].**
+- **The tutelary [[d/_deity|deity]] or [[s/_spirit|spirit]] of a [[p/_place|place]] or [[p/_person|person]].**
 ---
 ### Synonyms
 - 

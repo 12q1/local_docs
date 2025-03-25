@@ -24,10 +24,10 @@
 - **To [[g/_give|give]] a [[d/_downward|downward]] [[c/_cutting|cutting]] [[b/_blow|blow]] or [[m/_movement|movement]], typically with the [[s/_side|side]] of the [[h/_hand|hand]].**
 - **To [[h/_hit|hit]] the [[b/_ball|ball]] [[d/_downward|downward]] [[s/_so|so]] that it takes a [[h/_high|high]] [[b/_bounce|bounce]].**
 - **To [[d/_divide|divide]] the [[p/_pot|pot]] (or tournament [[p/_prize|prize]]) [[b/_between|between]] two or [[m/_more|more]] [[p/_players|players]].**
-- **To [[m/_make|make]] a [[q/_quick|quick]], [[h/_heavy|heavy]] stroke or a [[s/_series|series]] of strokes, with or as with an [[a/_ax|ax]].**
+- **To [[m/_make|make]] a [[q/_quick|quick]], [[h/_heavy|heavy]] [[s/_stroke|stroke]] or a [[s/_series|series]] of [[s/_strokes|strokes]], with or as with an [[a/_ax|ax]].**
 - **To [[d/_do|do]] [[s/_something|something]] suddenly with an unexpected [[m/_motion|motion]]; to [[c/_catch|catch]] or [[a/_attempt|attempt]] to [[s/_seize|seize]].**
 - **To [[i/_interrupt|interrupt]]; with in or [[o/_out|out]].**
-- **(Perl) To [[r/_remove|remove]] the [[f/_final|final]] [[c/_character|character]] from (a text string).**
+- **(Perl) To [[r/_remove|remove]] the [[f/_final|final]] [[c/_character|character]] from (a text [[s/_string|string]]).**
 ---
 #noun
 - **A turn of [[f/_fortune|fortune]]; [[c/_change|change]]; a vicissitude.**
@@ -47,7 +47,7 @@
 	- _Example: East Chop; West Chop_
 ---
 #noun
-- **An [[o/_official|official]] stamp or [[s/_seal|seal]], as in [[c/_china|China]] and [[i/_india|India]].**
+- **An [[o/_official|official]] [[s/_stamp|stamp]] or [[s/_seal|seal]], as in [[c/_china|China]] and [[i/_india|India]].**
 - **A [[m/_mark|mark]] [[i/_indicating|indicating]] [[n/_nature|nature]], [[q/_quality|quality]], or [[b/_brand|brand]].**
 	- _Example: silk of the first chop_
 - **A [[l/_license|license]] or [[p/_passport|passport]] that [[h/_has|has]] [[b/_been|been]] [[s/_sealed|sealed]].**

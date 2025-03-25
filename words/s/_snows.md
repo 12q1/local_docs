@@ -1,7 +1,7 @@
 # Snows
 ---
 #noun
-- **The [[f/_frozen|frozen]], [[c/_crystalline|crystalline]] state of water that [[f/_falls|falls]] as [[p/_precipitation|precipitation]].**
+- **The [[f/_frozen|frozen]], [[c/_crystalline|crystalline]] [[s/_state|state]] of water that [[f/_falls|falls]] as [[p/_precipitation|precipitation]].**
 - **[[a/_any|Any]] [[s/_similar|similar]] [[f/_frozen|frozen]] [[f/_form|form]] of a [[g/_gas|gas]] or [[l/_liquid|liquid]].**
 - **A [[s/_snowfall|snowfall]]; a [[b/_blanket|blanket]] of [[f/_frozen|frozen]], [[c/_crystalline|crystalline]] water.**
 	- _Example: We have had several heavy snows this year._
@@ -18,6 +18,6 @@
 - **To [[b/_bluff|bluff]] in [[d/_draw|draw]] [[p/_poker|poker]] by [[r/_refusing|refusing]] to [[d/_draw|draw]] [[a/_any|any]] [[c/_cards|cards]].**
 ---
 #noun
-- **A square-[[r/_rigged|rigged]] vessel, [[d/_differing|differing]] from a [[b/_brig|brig]] [[o/_only|only]] in that [[s/_she|she]] [[h/_has|has]] a trysail [[m/_mast|mast]] [[c/_close|close]] [[a/_abaft|abaft]] the [[m/_mainmast|mainmast]], on which a [[l/_large|large]] trysail is [[h/_hoisted|hoisted]].**
+- **A [[s/_square|square]]-[[r/_rigged|rigged]] vessel, [[d/_differing|differing]] from a [[b/_brig|brig]] [[o/_only|only]] in that [[s/_she|she]] [[h/_has|has]] a trysail [[m/_mast|mast]] [[c/_close|close]] [[a/_abaft|abaft]] the [[m/_mainmast|mainmast]], on which a [[l/_large|large]] trysail is [[h/_hoisted|hoisted]].**
 ---
 ---

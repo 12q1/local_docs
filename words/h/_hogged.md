@@ -13,6 +13,6 @@
 - **To [[p/_process|process]] ([[b/_bark|bark]], [[e/_etc|etc]].) [[i/_into|into]] [[h/_hog|hog]] [[f/_fuel|fuel]].**
 ---
 #adjective
-- **[[b/_broken|Broken]] or strained [[s/_so|so]] as to [[h/_have|have]] an upward [[c/_curve|curve]] [[b/_between|between]] the [[e/_ends|ends]].**
+- **[[b/_broken|Broken]] or [[s/_strained|strained]] [[s/_so|so]] as to [[h/_have|have]] an upward [[c/_curve|curve]] [[b/_between|between]] the [[e/_ends|ends]].**
 ---
 ---

@@ -9,6 +9,6 @@
 - **To [[f/_form|form]] troops [[i/_into|into]] an [[e/_echelon|echelon]].**
 ---
 #adjective
-- **Of a [[m/_matrix|matrix]]: [[h/_having|having]] undergone [[g/_gaussian|Gaussian]] [[e/_elimination|elimination]] with the [[r/_result|result]] that the [[l/_leading|leading]] [[c/_coefficient|coefficient]] or [[p/_pivot|pivot]] (that is, the [[f/_first|first]] [[n/_nonzero|nonzero]] [[n/_number|number]] from the [[l/_left|left]]) of a [[n/_nonzero|nonzero]] [[r/_row|row]] is to the [[r/_right|right]] of the [[p/_pivot|pivot]] of the [[r/_row|row]] [[a/_above|above]] it, [[g/_giving|giving]] [[r/_rise|rise]] to a stepped [[a/_appearance|appearance]] in the [[m/_matrix|matrix]].**
+- **Of a [[m/_matrix|matrix]]: [[h/_having|having]] undergone [[g/_gaussian|Gaussian]] [[e/_elimination|elimination]] with the [[r/_result|result]] that the [[l/_leading|leading]] [[c/_coefficient|coefficient]] or [[p/_pivot|pivot]] (that is, the [[f/_first|first]] [[n/_nonzero|nonzero]] [[n/_number|number]] from the [[l/_left|left]]) of a [[n/_nonzero|nonzero]] [[r/_row|row]] is to the [[r/_right|right]] of the [[p/_pivot|pivot]] of the [[r/_row|row]] [[a/_above|above]] it, [[g/_giving|giving]] [[r/_rise|rise]] to a [[s/_stepped|stepped]] [[a/_appearance|appearance]] in the [[m/_matrix|matrix]].**
 ---
 ---

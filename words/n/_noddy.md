@@ -1,6 +1,6 @@
 # Noddy
 ---
 #noun
-- **A stupid or [[s/_silly|silly]] [[p/_person|person]].**
+- **A [[s/_stupid|stupid]] or [[s/_silly|silly]] [[p/_person|person]].**
 ---
 ---

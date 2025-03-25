@@ -1,7 +1,7 @@
 # Rebar
 ---
 #noun
-- **A steel [[r/_reinforcing|reinforcing]] [[b/_bar|bar]] in a [[r/_reinforced|reinforced]] [[c/_concrete|concrete]] structure.**
+- **A [[s/_steel|steel]] [[r/_reinforcing|reinforcing]] [[b/_bar|bar]] in a [[r/_reinforced|reinforced]] [[c/_concrete|concrete]] [[s/_structure|structure]].**
 - **A [[g/_grid|grid]]-[[s/_shaped|shaped]] [[s/_system|system]] of such [[b/_bars|bars]].**
 ---
 #verb

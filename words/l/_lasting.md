@@ -16,7 +16,7 @@
 	- _Example: to last a boot_
 ---
 #noun
-- **The [[a/_action|action]] or state of [[p/_persisting|persisting]]; the time [[d/_during|during]] which [[s/_something|something]] or [[s/_someone|someone]] [[p/_persists|persists]].**
+- **The [[a/_action|action]] or [[s/_state|state]] of [[p/_persisting|persisting]]; the time [[d/_during|during]] which [[s/_something|something]] or [[s/_someone|someone]] [[p/_persists|persists]].**
 - **A [[d/_durable|durable]] woollen [[m/_material|material]] [[f/_formerly|formerly]] used for women'[[s/_s|s]] [[s/_shoes|shoes]].**
 - **The [[a/_act|act]] or [[p/_process|process]] of [[s/_shaping|shaping]] [[f/_footwear|footwear]] on a [[l/_last|last]].**
 ---

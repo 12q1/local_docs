@@ -1,7 +1,7 @@
 # Chairs
 ---
 #noun
-- **An [[i/_item|item]] of [[f/_furniture|furniture]] used to [[s/_sit|sit]] on or in, [[c/_comprising|comprising]] a [[s/_seat|seat]], [[l/_legs|legs]], [[b/_back|back]], and [[s/_sometimes|sometimes]] [[a/_arm|arm]] [[r/_rests|rests]], for use by [[o/_one|one]] [[p/_person|person]]. [[c/_compare|Compare]] stool, [[c/_couch|couch]], [[s/_sofa|sofa]], [[s/_settee|settee]], loveseat and [[b/_bench|bench]].**
+- **An [[i/_item|item]] of [[f/_furniture|furniture]] used to [[s/_sit|sit]] on or in, [[c/_comprising|comprising]] a [[s/_seat|seat]], [[l/_legs|legs]], [[b/_back|back]], and [[s/_sometimes|sometimes]] [[a/_arm|arm]] [[r/_rests|rests]], for use by [[o/_one|one]] [[p/_person|person]]. [[c/_compare|Compare]] [[s/_stool|stool]], [[c/_couch|couch]], [[s/_sofa|sofa]], [[s/_settee|settee]], loveseat and [[b/_bench|bench]].**
 	- _Example: All I need to weather a snowstorm is hot coffee, a warm fire, a good book and a comfortable chair._
 - **The [[s/_seating|seating]] [[p/_position|position]] of a [[p/_particular|particular]] [[m/_musician|musician]] in an [[o/_orchestra|orchestra]].**
 	- _Example: My violin teacher used to play first chair with the Boston Pops._

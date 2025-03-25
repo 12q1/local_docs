@@ -1,8 +1,8 @@
 # Mods
 ---
 #noun
-- **An unconventionally [[m/_modern|modern]] style of [[f/_fashionable|fashionable]] [[d/_dress|dress]] [[o/_originating|originating]] in [[e/_england|England]] in the 1960s, [[c/_characterized|characterized]] by [[a/_ankle|ankle]]-[[l/_length|length]] [[b/_black|black]] trenchcoats and sunglasses.**
-- **A 1960s [[b/_british|British]] [[p/_person|person]] who [[d/_dressed|dressed]] in such a style and was [[i/_interested|interested]] in [[m/_modernism|modernism]] and the [[m/_modern|modern]] [[m/_music|music]] of the time; the [[o/_opposite|opposite]] of a [[r/_rocker|rocker]].**
+- **An unconventionally [[m/_modern|modern]] [[s/_style|style]] of [[f/_fashionable|fashionable]] [[d/_dress|dress]] [[o/_originating|originating]] in [[e/_england|England]] in the 1960s, [[c/_characterized|characterized]] by [[a/_ankle|ankle]]-[[l/_length|length]] [[b/_black|black]] trenchcoats and sunglasses.**
+- **A 1960s [[b/_british|British]] [[p/_person|person]] who [[d/_dressed|dressed]] in such a [[s/_style|style]] and was [[i/_interested|interested]] in [[m/_modernism|modernism]] and the [[m/_modern|modern]] [[m/_music|music]] of the time; the [[o/_opposite|opposite]] of a [[r/_rocker|rocker]].**
 - **A [[m/_modification|modification]].**
 - **An [[e/_end|end]] user-[[c/_created|created]] [[p/_package|package]] [[c/_containing|containing]] [[m/_modifications|modifications]] to the [[l/_look|look]] or [[b/_behaviour|behaviour]] of a video [[g/_game|game]].**
 - **A [[m/_moderator|moderator]], for [[e/_example|example]] on a [[d/_discussion|discussion]] [[f/_forum|forum]].**
@@ -26,13 +26,13 @@
 - **[[o/_one|One]] of [[s/_several|several]] [[c/_common|common]] [[s/_scales|scales]] in [[m/_modern|modern]] Western [[m/_music|music]], [[o/_one|one]] of which [[c/_corresponds|corresponds]] to the [[m/_modern|modern]] [[m/_major|major]] [[s/_scale|scale]] and [[o/_one|one]] to the [[n/_natural|natural]] [[m/_minor|minor]] [[s/_scale|scale]].**
 - **A [[p/_particular|particular]] [[m/_means|means]] of [[a/_accomplishing|accomplishing]] [[s/_something|something]].**
 	- _Example: What was the mode of entry?_
-- **A [[p/_particular|particular]] state of [[b/_being|being]], or [[f/_frame|frame]] of [[m/_mind|mind]].**
+- **A [[p/_particular|particular]] [[s/_state|state]] of [[b/_being|being]], or [[f/_frame|frame]] of [[m/_mind|mind]].**
 	- _Example: After a series of early setbacks, her political campaign is in crisis mode._
 - **The [[m/_most|most]] [[f/_frequently|frequently]] [[o/_occurring|occurring]] value in a [[d/_distribution|distribution]]**
-- **A state of a [[s/_system|system]] that is [[r/_represented|represented]] by an [[e/_eigenfunction|eigenfunction]] of that [[s/_system|system]].**
-- **[[o/_one|One]] of various [[r/_related|related]] [[s/_sets|sets]] of [[r/_rules|rules]] for [[p/_processing|processing]] [[d/_data|data]]; [[m/_more|more]] [[g/_generally|generally]], [[a/_any|any]] state of the [[s/_system|system]] [[a/_associated|associated]] with [[c/_certain|certain]] [[b/_behaviours|behaviours]].**
+- **A [[s/_state|state]] of a [[s/_system|system]] that is [[r/_represented|represented]] by an [[e/_eigenfunction|eigenfunction]] of that [[s/_system|system]].**
+- **[[o/_one|One]] of various [[r/_related|related]] [[s/_sets|sets]] of [[r/_rules|rules]] for [[p/_processing|processing]] [[d/_data|data]]; [[m/_more|more]] [[g/_generally|generally]], [[a/_any|any]] [[s/_state|state]] of the [[s/_system|system]] [[a/_associated|associated]] with [[c/_certain|certain]] [[b/_behaviours|behaviours]].**
 	- _Example: In insert mode, characters typed are directly inserted into the buffer._
-- **A [[s/_series|series]] of [[s/_settings|settings]] on a [[d/_device|device]] used for a specific [[p/_purpose|purpose]].**
+- **A [[s/_series|series]] of [[s/_settings|settings]] on a [[d/_device|device]] used for a [[s/_specific|specific]] [[p/_purpose|purpose]].**
 	- _Example: airplane mode; night mode_
 - **A variation in gameplay, such as a [[d/_difficulty|difficulty]] [[l/_level|level]].**
 - **([[g/_grammar|grammar]]) A verb [[f/_form|form]] that [[d/_depends|depends]] on [[h/_how|how]] [[i/_its|its]] [[c/_containing|containing]] [[c/_clause|clause]] [[r/_relates|relates]] to the [[s/_speaker|speaker]]’[[s/_s|s]] or writer’[[s/_s|s]] wish, [[i/_intent|intent]], or [[a/_assertion|assertion]] [[a/_about|about]] [[r/_reality|reality]].**
@@ -44,7 +44,7 @@
 ### Synonyms
 - [[m/_mood|mood]]
 #noun
-- **Style or [[f/_fashion|fashion]]; [[p/_popular|popular]] trend.**
+- **[[s/_style|Style]] or [[f/_fashion|fashion]]; [[p/_popular|popular]] trend.**
 	- _Example: Her wardrobe is always in mode._
 ---
 #noun

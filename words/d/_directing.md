@@ -1,7 +1,7 @@
 # Directing
 ---
 #verb
-- **To [[m/_manage|manage]], [[c/_control|control]], steer.**
+- **To [[m/_manage|manage]], [[c/_control|control]], [[s/_steer|steer]].**
 	- _Example: to direct the affairs of a nation or the movements of an army_
 - **To [[a/_aim|aim]] ([[s/_something|something]]) at ([[s/_something|something]] [[e/_else|else]]).**
 	- _Example: He directed his question to the room in general._

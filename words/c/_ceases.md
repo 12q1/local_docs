@@ -1,9 +1,9 @@
 # Ceases
 ---
 #verb
-- **To stop.**
+- **To [[s/_stop|stop]].**
 	- _Example: And with that, his twitching ceased._
-- **To stop [[d/_doing|doing]] ([[s/_something|something]]).**
+- **To [[s/_stop|stop]] [[d/_doing|doing]] ([[s/_something|something]]).**
 	- _Example: And with that, he ceased twitching._
 - **To be wanting; to [[f/_fail|fail]]; to [[p/_pass|pass]] [[a/_away|away]].**
 ---

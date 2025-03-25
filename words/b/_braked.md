@@ -7,7 +7,7 @@
 ---
 #verb
 - **To [[o/_operate|operate]] (a) [[b/_brake|brake]]([[s/_s|s]]).**
-- **To be stopped or [[s/_slowed|slowed]] (as [[i/_if|if]]) by [[b/_braking|braking]].**
+- **To be [[s/_stopped|stopped]] or [[s/_slowed|slowed]] (as [[i/_if|if]]) by [[b/_braking|braking]].**
 ---
 ### Antonyms
 - [[a/_accelerate|accelerate]], [[r/_redline|redline]]

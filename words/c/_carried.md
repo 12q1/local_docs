@@ -8,7 +8,7 @@
 	- _Example: The builders are going to carry the chimney through the roof.  They would have carried the road ten miles further, but ran out of materials._
 - **To [[m/_move|move]]; to [[c/_convey|convey]] using [[f/_force|force]]**
 - **To [[l/_lead|lead]] or [[g/_guide|guide]].**
-- **To stock or supply ([[s/_something|something]]); to [[h/_have|have]] in store.**
+- **To [[s/_stock|stock]] or supply ([[s/_something|something]]); to [[h/_have|have]] in [[s/_store|store]].**
 	- _Example: The corner drugstore doesn't carry his favorite brand of aspirin._
 - **To [[a/_adopt|adopt]] ([[s/_something|something]]); take ([[s/_something|something]]) [[o/_over|over]].**
 	- _Example: I think I can carry Smith's work while she is out._
@@ -31,14 +31,14 @@
 	- _Example: A gun or mortar carries well._
 - **To [[h/_hold|hold]] the [[h/_head|head]]; [[s/_said|said]] of a [[h/_horse|horse]].**
 	- _Example: to carry well, i.e. to hold the head high, with arching neck_
-- **To [[h/_have|have]] [[e/_earth|earth]] or [[f/_frost|frost]] stick to the [[f/_feet|feet]] when [[r/_running|running]], as a [[h/_hare|hare]].**
+- **To [[h/_have|have]] [[e/_earth|earth]] or [[f/_frost|frost]] [[s/_stick|stick]] to the [[f/_feet|feet]] when [[r/_running|running]], as a [[h/_hare|hare]].**
 - **To [[b/_bear|bear]] or uphold successfully through [[c/_conflict|conflict]], for [[e/_example|example]] a [[l/_leader|leader]] or [[p/_principle|principle]]**
 - **To succeed in ([[e/_e|e]].[[g/_g|g]]. a [[c/_contest|contest]]); to succeed in; to win.**
 	- _Example: The Tories carried the election._
 - **To [[g/_get|get]] [[p/_possession|possession]] of by [[f/_force|force]]; to [[c/_capture|capture]].**
 - **To [[c/_contain|contain]]; to [[c/_comprise|comprise]]; [[h/_have|have]] a [[p/_particular|particular]] [[a/_aspect|aspect]]; to [[s/_show|show]] or [[e/_exhibit|exhibit]]**
 - **To [[b/_bear|bear]] ([[o/_oneself|oneself]]); to [[b/_behave|behave]] or [[c/_conduct|conduct]].**
-- **To [[b/_bear|bear]] the [[c/_charges|charges]] or [[b/_burden|burden]] of [[h/_holding|holding]] or [[h/_having|having]], as stocks, [[m/_merchandise|merchandise]], [[e/_etc|etc]]., from [[o/_one|one]] time to [[a/_another|another]].**
+- **To [[b/_bear|bear]] the [[c/_charges|charges]] or [[b/_burden|burden]] of [[h/_holding|holding]] or [[h/_having|having]], as [[s/_stocks|stocks]], [[m/_merchandise|merchandise]], [[e/_etc|etc]]., from [[o/_one|one]] time to [[a/_another|another]].**
 	- _Example: A merchant is carrying a large stock;  a farm carries a mortgage;  a broker carries stock for a customer;  to carry a life insurance._
 - **To [[h/_have|have]] a weapon on [[o/_one|one]]'[[s/_s|s]] [[p/_person|person]]; to be [[a/_armed|armed]].**
 - **To be [[d/_disproportionately|disproportionately]] [[r/_responsible|responsible]] for a team'[[s/_s|s]] success.**

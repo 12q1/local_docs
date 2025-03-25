@@ -18,7 +18,7 @@
 - **To [[b/_break|break]].**
 	- _Example: I busted my cooker while trying to fix it._
 - **To [[a/_arrest|arrest]] ([[s/_someone|someone]]) for a [[c/_crime|crime]].**
-- **To [[c/_catch|catch]] ([[s/_someone|someone]]) in the [[a/_act|act]] of [[d/_doing|doing]] [[s/_something|something]] wrong, [[s/_socially|socially]] and [[m/_morally|morally]] [[i/_inappropriate|inappropriate]], or [[i/_illegal|illegal]], [[e/_especially|especially]] when [[b/_being|being]] [[d/_done|done]] in a [[s/_sneaky|sneaky]] or [[s/_secretive|secretive]] state.**
+- **To [[c/_catch|catch]] ([[s/_someone|someone]]) in the [[a/_act|act]] of [[d/_doing|doing]] [[s/_something|something]] wrong, [[s/_socially|socially]] and [[m/_morally|morally]] [[i/_inappropriate|inappropriate]], or [[i/_illegal|illegal]], [[e/_especially|especially]] when [[b/_being|being]] [[d/_done|done]] in a [[s/_sneaky|sneaky]] or [[s/_secretive|secretive]] [[s/_state|state]].**
 - **An [[e/_emphatic|emphatic]] [[s/_synonym|synonym]] of [[d/_do|do]] or [[g/_get|get]].**
 	- _Example: He busted huge air off that jump!_
 - **To [[r/_reduce|reduce]] in [[r/_rank|rank]].**

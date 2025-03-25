@@ -7,6 +7,6 @@
 - **To [[g/_go|go]] from [[p/_place|place]] to [[p/_place|place]]; to wander.**
 ---
 #noun
-- **A [[p/_process|process]] of studying [[s/_something|something]] [[c/_carefully|carefully]].**
+- **A [[p/_process|process]] of [[s/_studying|studying]] [[s/_something|something]] [[c/_carefully|carefully]].**
 ---
 ---

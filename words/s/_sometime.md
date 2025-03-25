@@ -9,7 +9,7 @@
 ### Synonyms
 - [[e/_earlier|earlier]], [[e/_erstwhile|erstwhile]], [[e/_ex-|ex-]], [[p/_previous|previous]]
 #adverb
-- **At an [[i/_indefinite|indefinite]] but stated time in the [[p/_past|past]] or [[f/_future|future]].**
+- **At an [[i/_indefinite|indefinite]] but [[s/_stated|stated]] time in the [[p/_past|past]] or [[f/_future|future]].**
 	- _Example: I'll see you at the pub sometime this evening._
 - **[[s/_sometimes|Sometimes]].**
 - **At an unstated [[p/_past|past]] or [[f/_future|future]] time; [[o/_once|once]]; [[f/_formerly|formerly]].**

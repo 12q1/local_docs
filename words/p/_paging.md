@@ -16,6 +16,6 @@
 ---
 #noun
 - **The [[a/_arrangement|arrangement]] of [[p/_pages|pages]] in a [[b/_book|book]] or [[o/_other|other]] [[p/_publication|publication]].**
-- **A transfer of [[p/_pages|pages]] [[b/_between|between]] [[m/_main|main]] [[m/_memory|memory]] and an [[a/_auxiliary|auxiliary]] store, such as [[h/_hard|hard]] [[d/_disk|disk]] [[d/_drive|drive]].**
+- **A transfer of [[p/_pages|pages]] [[b/_between|between]] [[m/_main|main]] [[m/_memory|memory]] and an [[a/_auxiliary|auxiliary]] [[s/_store|store]], such as [[h/_hard|hard]] [[d/_disk|disk]] [[d/_drive|drive]].**
 ---
 ---

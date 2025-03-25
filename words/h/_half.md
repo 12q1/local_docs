@@ -3,7 +3,7 @@
 #noun
 - **[[o/_one|One]] of two usually [[r/_roughly|roughly]] [[e/_equal|equal]] [[p/_parts|parts]] [[i/_into|into]] which [[a/_anything|anything]] [[m/_may|may]] be [[d/_divided|divided]], or [[c/_considered|considered]] as [[d/_divided|divided]].**
 	- _Example: I ate the slightly smaller half of the apple._
-- **[[h/_half|Half]] of a standard [[m/_measure|measure]]; [[f/_frequently|frequently]] used for [[h/_half|half]] a [[p/_pint|pint]] of [[b/_beer|beer]] or [[c/_cider|cider]].**
+- **[[h/_half|Half]] of a [[s/_standard|standard]] [[m/_measure|measure]]; [[f/_frequently|frequently]] used for [[h/_half|half]] a [[p/_pint|pint]] of [[b/_beer|beer]] or [[c/_cider|cider]].**
 - **([[p/_preceded|preceded]] by “a” or a [[n/_number|number]]) The [[f/_fraction|fraction]] [[o/_obtained|obtained]] by [[d/_dividing|dividing]] 1 by 2.**
 	- _Example: Three-quarters minus a quarter is a half._
 - **[[p/_part|Part]]; [[s/_side|side]]; [[b/_behalf|behalf]].**

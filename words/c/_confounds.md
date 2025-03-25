@@ -17,7 +17,7 @@
 - **To [[d/_damn|damn]] (a [[m/_mild|mild]] [[o/_oath|oath]]).**
 	- _Example: Confound the lady!_
 - **To [[b/_bring|bring]] to [[r/_ruination|ruination]].**
-- **To stun, [[a/_amaze|amaze]]**
+- **To [[s/_stun|stun]], [[a/_amaze|amaze]]**
 ---
 ### Synonyms
 - [[c/_confuse|confuse]], [[p/_puzzle|puzzle]]

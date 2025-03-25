@@ -30,7 +30,7 @@
 	- _Example: The complement of −123 is 123._
 - **A [[n/_nucleotide|nucleotide]] [[s/_sequence|sequence]] in which [[e/_each|each]] [[b/_base|base]] is [[r/_replaced|replaced]] by the [[c/_complementary|complementary]] [[b/_base|base]] of the [[g/_given|given]] [[s/_sequence|sequence]]: [[a/_adenine|adenine]] (A) by thymine (T) or uracil (U), [[c/_cytosine|cytosine]] ([[c/_c|C]]) by [[g/_guanine|guanine]] ([[g/_g|G]]), and vice versa.**
 	- _Example: A DNA molecule is formed from two strands, each of which is the complement of the other._
-- **[[o/_old|Old]] spelling of [[c/_compliment|compliment]]**
+- **[[o/_old|Old]] [[s/_spelling|spelling]] of [[c/_compliment|compliment]]**
 ---
 #verb
 - **To [[c/_complete|complete]], to [[b/_bring|bring]] to [[p/_perfection|perfection]], to [[m/_make|make]] whole.**

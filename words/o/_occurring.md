@@ -15,7 +15,7 @@
 - **An [[i/_instance|instance]] of [[s/_something|something]] [[o/_occurring|occurring]]; an [[e/_event|event]] or [[h/_happening|happening]].**
 ---
 #adjective
-- **(in [[c/_combination|combination]]) That [[o/_occurs|occurs]] in a specified [[m/_manner|manner]].**
+- **(in [[c/_combination|combination]]) That [[o/_occurs|occurs]] in a [[s/_specified|specified]] [[m/_manner|manner]].**
 	- _Example: naturally occurring macromolecules_
 ---
 ---

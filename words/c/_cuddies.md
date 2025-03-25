@@ -6,7 +6,7 @@
 - **A [[d/_donkey|donkey]], [[e/_especially|especially]] [[o/_one|one]] [[d/_driven|driven]] by a [[h/_huckster|huckster]] or [[g/_greengrocer|greengrocer]].**
 - **A [[p/_pony|pony]] that works in a [[m/_mine|mine]].**
 - **A [[b/_blockhead|blockhead]]; a [[l/_lout|lout]].**
-- **A [[l/_lever|lever]] [[m/_mounted|mounted]] on a tripod for [[l/_lifting|lifting]] stones, [[l/_leveling|leveling]] up [[r/_railroad|railroad]] ties, [[e/_etc|etc]].**
+- **A [[l/_lever|lever]] [[m/_mounted|mounted]] on a tripod for [[l/_lifting|lifting]] [[s/_stones|stones]], [[l/_leveling|leveling]] up [[r/_railroad|railroad]] ties, [[e/_etc|etc]].**
 ---
 #noun
 - **The [[c/_coalfish|coalfish]] (Pollachius carbonarius).**

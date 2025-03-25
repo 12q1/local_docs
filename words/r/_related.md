@@ -15,7 +15,7 @@
 ### Synonyms
 - [[c/_chronicle|chronicle]], [[d/_describe|describe]], [[d/_divulge|divulge]], [[r/_recount|recount]], [[s/_state|state]]
 #adjective
-- **Standing in [[r/_relation|relation]] or [[c/_connection|connection]].**
+- **[[s/_standing|Standing]] in [[r/_relation|relation]] or [[c/_connection|connection]].**
 	- _Example: Electric and magnetic forces are closely related._
 - **[[b/_being|Being]] a [[r/_relative|relative]] of.**
 	- _Example: Everyone is related to their parents._

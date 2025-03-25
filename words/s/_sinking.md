@@ -9,7 +9,7 @@
 	- _Example: I have sunk thousands of pounds into this project._
 - **To [[r/_reduce|reduce]] or [[e/_extinguish|extinguish]] by [[p/_payment|payment]].**
 	- _Example: to sink the national debt_
-- **To be [[o/_overwhelmed|overwhelmed]] or [[d/_depressed|depressed]]; to [[f/_fail|fail]] in strength.**
+- **To be [[o/_overwhelmed|overwhelmed]] or [[d/_depressed|depressed]]; to [[f/_fail|fail]] in [[s/_strength|strength]].**
 - **To [[d/_decrease|decrease]] in volume, as a [[r/_river|river]]; to subside; to [[b/_become|become]] [[d/_diminished|diminished]] in volume or in [[a/_apparent|apparent]] [[h/_height|height]].**
 ---
 ### Synonyms

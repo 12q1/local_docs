@@ -10,15 +10,15 @@
 - **([[p/_plural|plural]] "[[s/_sail|sail]]") A [[s/_sailing|sailing]] vessel; a vessel of [[a/_any|any]] [[k/_kind|kind]]; a [[c/_craft|craft]].**
 	- _Example: Twenty sail were in sight._
 - **The [[b/_blade|blade]] of a windmill.**
-- **A tower-[[l/_like|like]] structure [[f/_found|found]] on the [[d/_dorsal|dorsal]] (topside) surface of submarines.**
+- **A tower-[[l/_like|like]] [[s/_structure|structure]] [[f/_found|found]] on the [[d/_dorsal|dorsal]] (topside) surface of submarines.**
 - **The [[f/_floating|floating]] [[o/_organ|organ]] of siphonophores, such as the [[p/_portuguese|Portuguese]] [[m/_man|man]]-of-war.**
 - **A [[s/_sailfish|sailfish]].**
 	- _Example: We caught three sails today._
-- **An [[o/_outward|outward]] [[p/_projection|projection]] of the spine, [[o/_occurring|occurring]] in [[c/_certain|certain]] [[d/_dinosaurs|dinosaurs]] and synapsids**
+- **An [[o/_outward|outward]] [[p/_projection|projection]] of the [[s/_spine|spine]], [[o/_occurring|occurring]] in [[c/_certain|certain]] [[d/_dinosaurs|dinosaurs]] and synapsids**
 - **[[a/_anything|Anything]] [[r/_resembling|resembling]] a [[s/_sail|sail]], such as a wing.**
 ---
 #verb
-- **To be [[i/_impelled|impelled]] or [[d/_driven|driven]] [[f/_forward|forward]] by the [[a/_action|action]] of wind upon [[s/_sails|sails]], as a [[s/_ship|ship]] on water; to be [[i/_impelled|impelled]] on a [[b/_body|body]] of water by steam or [[o/_other|other]] [[p/_power|power]].**
+- **To be [[i/_impelled|impelled]] or [[d/_driven|driven]] [[f/_forward|forward]] by the [[a/_action|action]] of wind upon [[s/_sails|sails]], as a [[s/_ship|ship]] on water; to be [[i/_impelled|impelled]] on a [[b/_body|body]] of water by [[s/_steam|steam]] or [[o/_other|other]] [[p/_power|power]].**
 - **To [[m/_move|move]] through or on the water; to swim, as a [[f/_fish|fish]] or a waterfowl.**
 - **To [[r/_ride|ride]] in a [[b/_boat|boat]], [[e/_especially|especially]] a [[s/_sailboat|sailboat]].**
 - **To [[s/_set|set]] [[s/_sail|sail]]; to [[b/_begin|begin]] a voyage.**

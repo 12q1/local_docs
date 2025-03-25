@@ -1,7 +1,7 @@
 # Between
 ---
 #noun
-- **A [[k/_kind|kind]] of [[n/_needle|needle]], [[s/_shorter|shorter]] than a [[s/_sharp|sharp]], with a [[s/_small|small]] [[r/_rounded|rounded]] [[e/_eye|eye]], used for [[m/_making|making]] [[f/_fine|fine]] stitches on [[h/_heavy|heavy]] [[f/_fabrics|fabrics]].**
+- **A [[k/_kind|kind]] of [[n/_needle|needle]], [[s/_shorter|shorter]] than a [[s/_sharp|sharp]], with a [[s/_small|small]] [[r/_rounded|rounded]] [[e/_eye|eye]], used for [[m/_making|making]] [[f/_fine|fine]] [[s/_stitches|stitches]] on [[h/_heavy|heavy]] [[f/_fabrics|fabrics]].**
 ---
 #preposition
 - **In the [[p/_position|position]] or [[i/_interval|interval]] that [[s/_separates|separates]] (two things), or [[i/_intermediate|intermediate]] in [[q/_quantity|quantity]] or [[d/_degree|degree]]. ([[s/_see|See]] Usage [[n/_notes|notes]] [[b/_below|below]].)**

@@ -1,7 +1,7 @@
 # Efferent
 ---
 #noun
-- **A [[d/_duct|duct]] or stream that [[c/_carries|carries]] [[a/_away|away]].**
+- **A [[d/_duct|duct]] or [[s/_stream|stream]] that [[c/_carries|carries]] [[a/_away|away]].**
 ---
 #adjective
 - **[[c/_carrying|Carrying]] [[a/_away|away]] from.**

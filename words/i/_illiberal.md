@@ -6,7 +6,7 @@
 #adjective
 - **[[r/_restrictive|Restrictive]] of [[i/_individual|individual]] [[c/_choice|choice]] and [[f/_freedom|freedom]].**
 - **[[n/_narrow|Narrow]]-[[m/_minded|minded]]; [[b/_bigoted|bigoted]].**
-- **Ungenerous, stingy.**
+- **Ungenerous, [[s/_stingy|stingy]].**
 - **Not [[a/_adhering|adhering]] to [[e/_either|either]] [[l/_liberalism|liberalism]] or neoliberalism.**
 ---
 ### Synonyms

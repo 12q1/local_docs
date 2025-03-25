@@ -1,7 +1,7 @@
 # Patches
 ---
 #noun
-- **A [[p/_piece|piece]] of [[c/_cloth|cloth]], or [[o/_other|other]] suitable [[m/_material|material]], [[s/_sewed|sewed]] or [[o/_otherwise|otherwise]] [[f/_fixed|fixed]] upon a [[g/_garment|garment]] to [[r/_repair|repair]] or strengthen it, [[e/_especially|especially]] upon an [[o/_old|old]] [[g/_garment|garment]] to [[c/_cover|cover]] a [[h/_hole|hole]].**
+- **A [[p/_piece|piece]] of [[c/_cloth|cloth]], or [[o/_other|other]] suitable [[m/_material|material]], [[s/_sewed|sewed]] or [[o/_otherwise|otherwise]] [[f/_fixed|fixed]] upon a [[g/_garment|garment]] to [[r/_repair|repair]] or [[s/_strengthen|strengthen]] it, [[e/_especially|especially]] upon an [[o/_old|old]] [[g/_garment|garment]] to [[c/_cover|cover]] a [[h/_hole|hole]].**
 	- _Example: His sleeves had patches on the elbows where different fabric had been sewn on to replace material that had worn away._
 - **A [[s/_small|small]] [[p/_piece|piece]] of [[a/_anything|anything]] used to [[r/_repair|repair]] [[d/_damage|damage]] or a [[b/_breach|breach]]; as, a [[p/_patch|patch]] on a [[k/_kettle|kettle]], a [[r/_roof|roof]], [[e/_etc|etc]].**
 	- _Example: I can't afford to replace the roof, which is what it really needs. I'll have the roofer apply a patch._
@@ -9,10 +9,10 @@
 	- _Example: "This patch should hold until you reach the city," the mechanic said as he patted the car's hood._
 - **A [[s/_small|small]], usually [[c/_contrasting|contrasting]] but [[a/_always|always]] [[s/_somehow|somehow]] [[d/_different|different]] or [[d/_distinct|distinct]], [[p/_part|part]] of [[s/_something|something]] [[e/_else|else]] ([[l/_location|location]], time, [[s/_size|size]])**
 	- _Example: Doesn't that patch of clouds looks like a bunny?_
-- **(specifically) A [[s/_small|small]] [[a/_area|area]], a [[s/_small|small]] [[p/_plot|plot]] of [[l/_land|land]] or [[p/_piece|piece]] of [[g/_ground|ground]].**
+- **([[s/_specifically|specifically]]) A [[s/_small|small]] [[a/_area|area]], a [[s/_small|small]] [[p/_plot|plot]] of [[l/_land|land]] or [[p/_piece|piece]] of [[g/_ground|ground]].**
 	- _Example: Scattered patches of trees or growing corn._
 - **A [[l/_local|local]] [[r/_region|region]] of [[p/_professional|professional]] [[r/_responsibility|responsibility]].**
-- **A [[s/_small|small]] [[p/_piece|piece]] of [[b/_black|black]] [[s/_silk|silk]] stuck on the [[f/_face|face]] or [[n/_neck|neck]] to [[h/_heighten|heighten]] [[b/_beauty|beauty]] by [[c/_contrast|contrast]], worn by [[l/_ladies|ladies]] in the 17th and 18th [[c/_centuries|centuries]]; an [[i/_imitation|imitation]] [[b/_beauty|beauty]] [[m/_mark|mark]].**
+- **A [[s/_small|small]] [[p/_piece|piece]] of [[b/_black|black]] [[s/_silk|silk]] [[s/_stuck|stuck]] on the [[f/_face|face]] or [[n/_neck|neck]] to [[h/_heighten|heighten]] [[b/_beauty|beauty]] by [[c/_contrast|contrast]], worn by [[l/_ladies|ladies]] in the 17th and 18th [[c/_centuries|centuries]]; an [[i/_imitation|imitation]] [[b/_beauty|beauty]] [[m/_mark|mark]].**
 - **A [[p/_piece|piece]] of [[m/_material|material]] used to [[c/_cover|cover]] a wound.**
 - **An [[a/_adhesive|adhesive]] [[p/_piece|piece]] of [[m/_material|material]], [[i/_impregnated|impregnated]] with a [[d/_drug|drug]], which is worn on the [[s/_skin|skin]], the [[d/_drug|drug]] [[b/_being|being]] [[s/_slowly|slowly]] [[a/_absorbed|absorbed]] [[o/_over|over]] a [[p/_period|period]] of time.**
 	- _Example: Many people use a nicotine patch to wean themselves off of nicotine._
@@ -24,7 +24,7 @@
 - **A [[p/_piece|piece]] of [[g/_greased|greased]] [[c/_cloth|cloth]] or [[l/_leather|leather]] used as wrapping for a [[r/_rifle|rifle]] [[b/_ball|ball]], to [[m/_make|make]] it [[f/_fit|fit]] the [[b/_bore|bore]].**
 - **([[o/_often|often]] [[p/_patch|patch]] [[c/_cable|cable]], [[p/_patch|patch]] [[c/_cord|cord]] [[e/_etc|etc]].; [[s/_see|see]] [[a/_also|also]] [[p/_patch|patch]] [[p/_panel|panel]]) A [[c/_cable|cable]] [[c/_connecting|connecting]] two [[p/_pieces|pieces]] of [[e/_electrical|electrical]] [[e/_equipment|equipment]].**
 - **A [[s/_sound|sound]] [[s/_setting|setting]] for a [[m/_musical|musical]] [[s/_synthesizer|synthesizer]] ([[o/_originally|originally]] [[s/_selected|selected]] by [[m/_means|means]] of a [[p/_patch|patch]] [[c/_cable|cable]]).**
-- **An [[o/_overlay|overlay]] used to [[o/_obtain|obtain]] a stronger [[i/_impression|impression]].**
+- **An [[o/_overlay|overlay]] used to [[o/_obtain|obtain]] a [[s/_stronger|stronger]] [[i/_impression|impression]].**
 ---
 ### Synonyms
 - [[t/_tract|tract]], [[a/_area|area]], [[b/_blotch|blotch]], [[p/_period|period]], [[s/_section|section]], [[s/_spell|spell]], [[s/_spot|spot]], [[s/_stretch|stretch]]

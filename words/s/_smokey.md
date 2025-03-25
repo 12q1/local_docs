@@ -1,7 +1,7 @@
 # Smokey
 ---
 #noun
-- **A state trooper.**
+- **A [[s/_state|state]] trooper.**
 ---
 #adjective
 - **[[f/_filled|Filled]] with [[s/_smoke|smoke]].**
@@ -17,7 +17,7 @@
 - **[[a/_attractive|Attractive]] in a [[s/_sensual|sensual]] way; sultry.**
 - **[[h/_having|Having]] a [[d/_dark|dark]], thick, [[b/_bass|bass]] [[s/_sound|sound]].**
 	- _Example: a few smoky jazz notes_
-- **[[g/_giving|Giving]] [[o/_off|off]] steam or vapour.**
+- **[[g/_giving|Giving]] [[o/_off|off]] [[s/_steam|steam]] or vapour.**
 - **[[o/_obscuring|Obscuring]] or [[i/_insubstantial|insubstantial]] [[l/_like|like]] [[s/_smoke|smoke]].**
 - **Suspicious; [[o/_open|open]] to suspicion; [[j/_jealous|jealous]].**
 ---

@@ -1,7 +1,7 @@
 # Formalist
 ---
 #noun
-- **An [[o/_overly|overly]] [[f/_formal|formal]] [[p/_person|person]], [[e/_especially|especially]] [[o/_one|one]] who [[a/_adheres|adheres]] to [[c/_current|current]] [[f/_forms|forms]]; a stickler**
+- **An [[o/_overly|overly]] [[f/_formal|formal]] [[p/_person|person]], [[e/_especially|especially]] [[o/_one|one]] who [[a/_adheres|adheres]] to [[c/_current|current]] [[f/_forms|forms]]; a [[s/_stickler|stickler]]**
 - **An [[a/_advocate|advocate]] of [[f/_formalism|formalism]]**
 ---
 #adjective

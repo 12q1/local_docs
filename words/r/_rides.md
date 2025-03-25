@@ -11,7 +11,7 @@
 - **A [[r/_road|road]] or [[a/_avenue|avenue]] [[c/_cut|cut]] in a wood, for [[r/_riding|riding]]; a bridleway or [[o/_other|other]] wide [[c/_country|country]] [[p/_path|path]].**
 - **A [[s/_saddle|saddle]] [[h/_horse|horse]].**
 - **A [[p/_person|person]] (or [[s/_sometimes|sometimes]] a thing or a [[p/_place|place]]) that is visually [[a/_attractive|attractive]].**
-- **In [[j/_jazz|jazz]], to [[p/_play|play]] in a steady [[r/_rhythmical|rhythmical]] style.**
+- **In [[j/_jazz|jazz]], to [[p/_play|play]] in a [[s/_steady|steady]] [[r/_rhythmical|rhythmical]] [[s/_style|style]].**
 ---
 #verb
 - **To transport [[o/_oneself|oneself]] by [[s/_sitting|sitting]] on and [[d/_directing|directing]] a [[h/_horse|horse]], [[l/_later|later]] [[a/_also|also]] a [[b/_bicycle|bicycle]] [[e/_etc|etc]].**
@@ -35,7 +35,7 @@
 - **To [[m/_manage|manage]] [[i/_insolently|insolently]] at will; to [[d/_domineer|domineer]] [[o/_over|over]].**
 - **To [[o/_overlap|overlap]] ([[e/_each|each]] [[o/_other|other]]); [[s/_said|said]] of [[b/_bones|bones]] or [[f/_fractured|fractured]] [[f/_fragments|fragments]].**
 - **To [[m/_monitor|monitor]] ([[s/_some|some]] [[c/_component|component]] of an [[a/_audiovisual|audiovisual]] [[s/_signal|signal]]) in [[o/_order|order]] to [[k/_keep|keep]] it within [[a/_acceptable|acceptable]] [[b/_bounds|bounds]].**
-- **In [[j/_jazz|jazz]], a steady [[r/_rhythmical|rhythmical]] style.**
+- **In [[j/_jazz|jazz]], a [[s/_steady|steady]] [[r/_rhythmical|rhythmical]] [[s/_style|style]].**
 ---
 ### Synonyms
 - 

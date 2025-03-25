@@ -9,7 +9,7 @@
 ---
 #adjective
 - **[[f/_fitted|Fitted]] with a [[s/_shaft|shaft]]**
-- **(of a spear) [[h/_having|Having]] a [[s/_shaft|shaft]] and [[h/_head|head]] of [[d/_different|different]] tinctures.**
+- **(of a [[s/_spear|spear]]) [[h/_having|Having]] a [[s/_shaft|shaft]] and [[h/_head|head]] of [[d/_different|different]] tinctures.**
 - **[[c/_cheated|Cheated]]; [[s/_screwed|screwed]]; [[r/_ripped|ripped]] [[o/_off|off]]**
 ---
 ---

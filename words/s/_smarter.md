@@ -10,13 +10,13 @@
 - **[[c/_cleverly|Cleverly]] [[s/_shrewd|shrewd]] and [[h/_humorous|humorous]] in a way that [[m/_may|may]] be [[r/_rude|rude]] and [[d/_disrespectful|disrespectful]].**
 	- _Example: Don't get smart with me!_
 - **Sudden and [[i/_intense|intense]].**
-- **[[c/_causing|Causing]] [[s/_sharp|sharp]] [[p/_pain|pain]]; stinging.**
+- **[[c/_causing|Causing]] [[s/_sharp|sharp]] [[p/_pain|pain]]; [[s/_stinging|stinging]].**
 - **[[s/_sharp|Sharp]]; [[k/_keen|keen]]; [[p/_poignant|poignant]].**
 	- _Example: a smart pain_
 - **([[s/_southern|Southern]]) [[i/_intense|Intense]] in [[f/_feeling|feeling]]; [[p/_painful|painful]]. Used usually with the [[a/_adverb|adverb]] [[i/_intensifier|intensifier]] [[r/_right|right]].**
 	- _Example: He raised his voice, and it hurt her feelings right smart._
 - **[[e/_efficient|Efficient]]; vigorous; [[b/_brilliant|brilliant]].**
-- **[[p/_pretentious|Pretentious]]; [[s/_showy|showy]]; spruce.**
+- **[[p/_pretentious|Pretentious]]; [[s/_showy|showy]]; [[s/_spruce|spruce]].**
 	- _Example: a smart gown_
 - **[[b/_brisk|Brisk]]; [[f/_fresh|fresh]].**
 	- _Example: a smart breeze_

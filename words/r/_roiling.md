@@ -1,7 +1,7 @@
 # Roiling
 ---
 #verb
-- **To [[r/_render|render]] turbid by stirring up the [[d/_dregs|dregs]] or [[s/_sediment|sediment]] of.**
+- **To [[r/_render|render]] turbid by [[s/_stirring|stirring]] up the [[d/_dregs|dregs]] or [[s/_sediment|sediment]] of.**
 	- _Example: To roil a spring._
 - **To [[a/_annoy|annoy]]; to [[m/_make|make]] [[s/_someone|someone]] [[a/_angry|angry]].**
 - **To [[b/_bubble|bubble]], [[s/_seethe|seethe]].**

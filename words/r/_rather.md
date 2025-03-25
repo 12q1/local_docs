@@ -8,7 +8,7 @@
 ---
 #adverb
 - **[[m/_more|More]] [[q/_quickly|quickly]]; [[s/_sooner|sooner]], [[e/_earlier|earlier]].**
-- **Used to specify a [[c/_choice|choice]] or [[p/_preference|preference]]; [[p/_preferably|preferably]], in [[p/_preference|preference]] to. ([[n/_now|Now]] usually [[f/_followed|followed]] by than)**
+- **Used to [[s/_specify|specify]] a [[c/_choice|choice]] or [[p/_preference|preference]]; [[p/_preferably|preferably]], in [[p/_preference|preference]] to. ([[n/_now|Now]] usually [[f/_followed|followed]] by than)**
 	- _Example: I'd like this one rather than the other one._
 - **Used to [[i/_introduce|introduce]] a [[c/_contradiction|contradiction]]; on the [[c/_contrary|contrary]].**
 	- _Example: It wasn't supposed to be popular; rather, it was supposed to get the job done._

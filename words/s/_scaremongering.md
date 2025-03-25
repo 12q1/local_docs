@@ -1,6 +1,6 @@
 # Scaremongering
 ---
 #verb
-- **To spread worrying [[r/_rumours|rumours]].**
+- **To [[s/_spread|spread]] worrying [[r/_rumours|rumours]].**
 ---
 ---

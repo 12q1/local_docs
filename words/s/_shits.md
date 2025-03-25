@@ -12,7 +12,7 @@
 	- _Example: Can't a guy take a shit in peace?_
 - **[[r/_rubbish|Rubbish]]; worthless [[m/_matter|matter]].**
 	- _Example: Throw that shit out!_
-- **Stuff, things.**
+- **[[s/_stuff|Stuff]], things.**
 	- _Example: Fuck it. I don't feel like doing this shit._
 - **([[d/_definite|definite]]) (the [[s/_shit|shit]]) The [[b/_best|best]] of [[i/_its|its]] [[k/_kind|kind]].**
 	- _Example: These grapes are the shit!_
@@ -24,7 +24,7 @@
 	- _Example: John can't sing for shit. = John can't sing for anything. = John can't sing at all._
 - **A [[p/_problem|problem]] or [[d/_difficult|difficult]] [[s/_situation|situation]].**
 	- _Example: I'm in some serious shit._
-- **A strong [[r/_rebuke|rebuke]].**
+- **A [[s/_strong|strong]] [[r/_rebuke|rebuke]].**
 	- _Example: I gave him shit for being three hours late twice in one week._
 - **[[a/_any|Any]] [[r/_recreational|recreational]] [[d/_drug|drug]], usually [[c/_cannabis|cannabis]].**
 ---

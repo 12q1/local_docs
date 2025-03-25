@@ -1,7 +1,7 @@
 # Boomer
 ---
 #noun
-- **A [[p/_person|person]] [[b/_born|born]] in the [[p/_postwar|postwar]] [[y/_years|years]] ([[g/_generally|generally]] [[c/_considered|considered]] in the United States and [[o/_other|other]] [[a/_allied|Allied]] [[c/_countries|countries]] as [[b/_between|between]] 1946 and the [[e/_early|early]] 1960s), when there was a [[m/_marked|marked]] [[i/_increase|increase]] in [[b/_birthrates|birthrates]] throughout the Western world [[f/_following|following]] the [[r/_return|return]] of [[s/_servicemen|servicemen]] at the [[e/_end|end]] of World War [[i/_ii|II]].**
+- **A [[p/_person|person]] [[b/_born|born]] in the [[p/_postwar|postwar]] [[y/_years|years]] ([[g/_generally|generally]] [[c/_considered|considered]] in the United [[s/_states|States]] and [[o/_other|other]] [[a/_allied|Allied]] [[c/_countries|countries]] as [[b/_between|between]] 1946 and the [[e/_early|early]] 1960s), when there was a [[m/_marked|marked]] [[i/_increase|increase]] in [[b/_birthrates|birthrates]] throughout the Western world [[f/_following|following]] the [[r/_return|return]] of [[s/_servicemen|servicemen]] at the [[e/_end|end]] of World War [[i/_ii|II]].**
 ---
 ### Synonyms
 - [[b/_boomer|boomer]]
@@ -14,7 +14,7 @@
 - **A [[d/_device|device]] used to [[b/_bind|bind]] or tighten [[c/_chain|chain]].**
 - **A [[n/_nuclear|nuclear]] [[b/_ballistic|ballistic]] [[m/_missile|missile]] submarine, SSBN.**
 - **A [[b/_bittern|bittern]] (subfamily [[b/_botaurinae|Botaurinae]]).**
-- **A [[r/_red|red]] squirrel (Tamiasciurus hudsonicus).**
+- **A [[r/_red|red]] [[s/_squirrel|squirrel]] (Tamiasciurus hudsonicus).**
 - **A [[m/_mountain|mountain]] [[b/_beaver|beaver]] ([[a/_aplodontia|Aplodontia]] rufa).**
 ---
 ### Synonyms

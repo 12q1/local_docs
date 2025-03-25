@@ -1,13 +1,13 @@
 # Nonsenses
 ---
 #noun
-- **[[l/_letters|Letters]] or words, in writing or speech, that [[h/_have|have]] [[n/_no|no]] [[m/_meaning|meaning]] or [[p/_pattern|pattern]] or [[s/_seem|seem]] to [[h/_have|have]] [[n/_no|no]] [[m/_meaning|meaning]].**
+- **[[l/_letters|Letters]] or words, in writing or [[s/_speech|speech]], that [[h/_have|have]] [[n/_no|no]] [[m/_meaning|meaning]] or [[p/_pattern|pattern]] or [[s/_seem|seem]] to [[h/_have|have]] [[n/_no|no]] [[m/_meaning|meaning]].**
 	- _Example: After my father had a stroke, every time he tried to talk, it sounded like nonsense._
-- **An untrue statement.**
+- **An untrue [[s/_statement|statement]].**
 	- _Example: He says that I stole his computer, but that's just nonsense._
 - **That which is [[s/_silly|silly]], [[i/_illogical|illogical]] and [[l/_lacks|lacks]] [[a/_any|any]] [[m/_meaning|meaning]], [[r/_reason|reason]] or value; that which [[d/_does|does]] not [[m/_make|make]] [[s/_sense|sense]].**
 - **[[s/_something|Something]] [[f/_foolish|foolish]].**
-- **A type of [[p/_poetry|poetry]] that [[c/_contains|contains]] strange or surreal [[i/_ideas|ideas]], as, for [[e/_example|example]], that written by [[e/_edward|Edward]] [[l/_lear|Lear]].**
+- **A type of [[p/_poetry|poetry]] that [[c/_contains|contains]] [[s/_strange|strange]] or surreal [[i/_ideas|ideas]], as, for [[e/_example|example]], that written by [[e/_edward|Edward]] [[l/_lear|Lear]].**
 - **A [[d/_damaged|damaged]] DNA [[s/_sequence|sequence]] whose [[p/_products|products]] are not [[b/_biologically|biologically]] [[a/_active|active]], that is, that [[d/_does|does]] [[n/_nothing|nothing]].**
 ---
 ### Synonyms

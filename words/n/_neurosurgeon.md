@@ -1,6 +1,6 @@
 # Neurosurgeon
 ---
 #noun
-- **A surgeon specializing in [[b/_brain|brain]] surgery.**
+- **A surgeon [[s/_specializing|specializing]] in [[b/_brain|brain]] surgery.**
 ---
 ---

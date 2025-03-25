@@ -16,10 +16,10 @@
 - **A [[p/_place|place]] where [[a/_assembly|assembly]] or [[h/_hand|hand]] work is [[p/_performed|performed]]; a workbench.**
 	- _Example: She placed the workpiece on the bench, inspected it closely, and opened the cover._
 - **A [[h/_horizontal|horizontal]] [[p/_padded|padded]] surface, usually [[a/_adjustable|adjustable]] in [[h/_height|height]] and [[i/_inclination|inclination]] and [[o/_often|often]] with [[a/_attached|attached]] weight [[r/_rack|rack]], used for [[p/_proper|proper]] [[p/_posture|posture]] [[d/_during|during]] [[e/_exercise|exercise]].**
-- **A [[b/_bracket|bracket]] used to [[m/_mount|mount]] [[l/_land|land]] surveying [[e/_equipment|equipment]] [[o/_onto|onto]] a stone or a wall.**
+- **A [[b/_bracket|bracket]] used to [[m/_mount|mount]] [[l/_land|land]] surveying [[e/_equipment|equipment]] [[o/_onto|onto]] a [[s/_stone|stone]] or a wall.**
 	- _Example: After removing the bench, we can use the mark left on the wall as a reference point._
 - **A [[f/_flat|flat]] [[l/_ledge|ledge]] in the [[s/_slope|slope]] of an [[e/_earthwork|earthwork]], work of [[m/_masonry|masonry]], or [[s/_similar|similar]].**
-- **A thin strip of [[r/_relatively|relatively]] [[f/_flat|flat]] [[l/_land|land]] [[b/_bounded|bounded]] by steeper [[s/_slopes|slopes]] [[a/_above|above]] and [[b/_below|below]].**
+- **A thin [[s/_strip|strip]] of [[r/_relatively|relatively]] [[f/_flat|flat]] [[l/_land|land]] [[b/_bounded|bounded]] by [[s/_steeper|steeper]] [[s/_slopes|slopes]] [[a/_above|above]] and [[b/_below|below]].**
 - **A [[k/_kitchen|kitchen]] surface on which to [[p/_prepare|prepare]] [[f/_food|food]], a [[c/_counter|counter]].**
 - **A [[b/_bathroom|bathroom]] surface which [[h/_holds|holds]] the washbasin, a vanity.**
 - **A [[c/_collection|collection]] or [[g/_group|group]] of [[d/_dogs|dogs]] [[e/_exhibited|exhibited]] to the [[p/_public|public]], traditionally on [[b/_benches|benches]] or [[r/_raised|raised]] [[p/_platforms|platforms]].**

@@ -10,7 +10,7 @@
 #adjective
 - **[[l/_located|Located]] [[d/_directly|directly]] [[a/_across|across]] from [[s/_something|something]] [[e/_else|else]], or from [[e/_each|each]] [[o/_other|other]].**
 	- _Example: She saw him walking on the opposite side of the road._
-- **Of [[l/_leaves|leaves]] and [[f/_flowers|flowers]], [[p/_positioned|positioned]] [[d/_directly|directly]] [[a/_across|across]] from [[e/_each|each]] [[o/_other|other]] on a stem.**
+- **Of [[l/_leaves|leaves]] and [[f/_flowers|flowers]], [[p/_positioned|positioned]] [[d/_directly|directly]] [[a/_across|across]] from [[e/_each|each]] [[o/_other|other]] on a [[s/_stem|stem]].**
 - **[[f/_facing|Facing]] in the [[o/_other|other]] [[d/_direction|direction]].**
 	- _Example: They were moving in opposite directions._
 - **Of [[e/_either|either]] of two [[c/_complementary|complementary]] or [[m/_mutually|mutually]] [[e/_exclusive|exclusive]] things.**

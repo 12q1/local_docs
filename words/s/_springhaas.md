@@ -1,0 +1,6 @@
+# Springhaas
+---
+#noun
+- **A springhare.**
+---
+---

@@ -2,7 +2,7 @@
 ---
 #verb
 - **To transport via a [[m/_motor|motor]] [[b/_bus|bus]].**
-- **To transport students to [[s/_school|school]], [[o/_often|often]] to a [[m/_more|more]] [[d/_distant|distant]] [[s/_school|school]] for the [[p/_purposes|purposes]] of [[a/_achieving|achieving]] [[r/_racial|racial]] [[i/_integration|integration]].**
+- **To transport [[s/_students|students]] to [[s/_school|school]], [[o/_often|often]] to a [[m/_more|more]] [[d/_distant|distant]] [[s/_school|school]] for the [[p/_purposes|purposes]] of [[a/_achieving|achieving]] [[r/_racial|racial]] [[i/_integration|integration]].**
 - **To travel by [[b/_bus|bus]].**
 - **([[f/_food|food]] [[s/_service|service]]) To [[c/_clear|clear]] [[m/_meal|meal]] [[r/_remains|remains]] from.**
 	- _Example: He bussed tables as the restaurant emptied out._

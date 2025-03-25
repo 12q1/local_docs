@@ -10,7 +10,7 @@
 - **(used [[o/_only|only]] in the [[p/_plural|plural]], [[f/_fortification|fortification]]) The [[a/_advanced|advanced]] works, trenches, or [[c/_covered|covered]] [[r/_roads|roads]] [[m/_made|made]] by [[b/_besiegers|besiegers]] in their [[a/_advances|advances]] toward a [[f/_fortress|fortress]] or [[m/_military|military]] [[p/_post|post]].**
 - **An [[a/_approach|approach]] [[s/_shot|shot]].**
 - **The way an [[a/_aircraft|aircraft]] [[c/_comes|comes]] in to [[l/_land|land]] at an [[a/_airport|airport]].**
-- **The [[a/_area|area]] [[b/_before|before]] the [[l/_lane|lane]], in which a [[p/_player|player]] [[m/_may|may]] stand or [[r/_run|run]] up [[b/_before|before]] [[b/_bowling|bowling]] the [[b/_ball|ball]].**
+- **The [[a/_area|area]] [[b/_before|before]] the [[l/_lane|lane]], in which a [[p/_player|player]] [[m/_may|may]] [[s/_stand|stand]] or [[r/_run|run]] up [[b/_before|before]] [[b/_bowling|bowling]] the [[b/_ball|ball]].**
 ---
 #verb
 - **To [[c/_come|come]] or [[g/_go|go]] [[n/_near|near]], in [[p/_place|place]] or time; to [[d/_draw|draw]] [[n/_nigh|nigh]]; to [[a/_advance|advance]] [[n/_nearer|nearer]].**

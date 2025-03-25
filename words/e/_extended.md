@@ -6,7 +6,7 @@
 	- _Example: The desert extended for miles in all directions._
 - **To [[c/_cause|cause]] to [[i/_increase|increase]] in [[e/_extent|extent]].**
 - **To [[c/_cause|cause]] to [[l/_last|last]] for a [[l/_longer|longer]] [[p/_period|period]] of time.**
-- **To straighten (a [[l/_limb|limb]]).**
+- **To [[s/_straighten|straighten]] (a [[l/_limb|limb]]).**
 - **To [[b/_bestow|bestow]]; to [[o/_offer|offer]]; to [[i/_impart|impart]]; to [[a/_apply|apply]].**
 	- _Example: to extend credit to a valued customer_
 - **To [[i/_increase|increase]] in [[q/_quantity|quantity]] by weakening or [[a/_adulterating|adulterating]] [[a/_additions|additions]].**
@@ -19,7 +19,7 @@
 - [[e/_enlarge|enlarge]], [[e/_expand|expand]], [[i/_increase|increase]], [[i/_inherit|inherit]], [[l/_lengthen|lengthen]], [[s/_stretch|stretch]], [[w/_widen|widen]]
 #adjective
 - **[[l/_longer|Longer]] in [[l/_length|length]] or [[e/_extension|extension]]; [[e/_elongated|elongated]].**
-- **Stretched [[o/_out|out]] or [[p/_pulled|pulled]] [[o/_out|out]]; [[e/_expanded|expanded]].**
+- **[[s/_stretched|Stretched]] [[o/_out|out]] or [[p/_pulled|pulled]] [[o/_out|out]]; [[e/_expanded|expanded]].**
 - **[[l/_lasting|Lasting]] [[l/_longer|longer]]; [[p/_protracted|protracted]].**
 - **[[h/_having|Having]] a [[l/_large|large]] [[s/_scope|scope]] or [[r/_range|range]]; [[e/_extensive|extensive]].**
 - **(of a typeface) Wider than usual.**

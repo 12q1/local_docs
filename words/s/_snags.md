@@ -1,8 +1,8 @@
 # Snags
 ---
 #noun
-- **A stump or [[b/_base|base]] of a [[b/_branch|branch]] that [[h/_has|has]] [[b/_been|been]] [[l/_lopped|lopped]] [[o/_off|off]]; a [[s/_short|short]] [[b/_branch|branch]], or a [[s/_sharp|sharp]] or [[r/_rough|rough]] [[b/_branch|branch]].**
-- **A [[d/_dead|dead]] tree that [[r/_remains|remains]] standing.**
+- **A [[s/_stump|stump]] or [[b/_base|base]] of a [[b/_branch|branch]] that [[h/_has|has]] [[b/_been|been]] [[l/_lopped|lopped]] [[o/_off|off]]; a [[s/_short|short]] [[b/_branch|branch]], or a [[s/_sharp|sharp]] or [[r/_rough|rough]] [[b/_branch|branch]].**
+- **A [[d/_dead|dead]] tree that [[r/_remains|remains]] [[s/_standing|standing]].**
 - **A tree, or a [[b/_branch|branch]] of a tree, [[f/_fixed|fixed]] in the [[b/_bottom|bottom]] of a [[r/_river|river]] or [[o/_other|other]] [[n/_navigable|navigable]] water, and [[r/_rising|rising]] [[n/_nearly|nearly]] or [[q/_quite|quite]] to the surface, by which [[b/_boats|boats]] are [[s/_sometimes|sometimes]] [[p/_pierced|pierced]] and sunk.**
 - **(by [[e/_extension|extension]]) [[a/_any|Any]] [[s/_sharp|sharp]] [[p/_protuberant|protuberant]] [[p/_part|part]] of an [[o/_object|object]], which [[m/_may|may]] [[c/_catch|catch]], [[s/_scratch|scratch]], or tear [[o/_other|other]] [[o/_objects|objects]] [[b/_brought|brought]] [[i/_into|into]] [[c/_contact|contact]] with it.**
 - **A tooth [[p/_projecting|projecting]] [[b/_beyond|beyond]] the [[o/_others|others]]; a [[b/_broken|broken]] or [[d/_decayed|decayed]] tooth.**
@@ -21,9 +21,9 @@
 	- _Example: We snagged for spoonbill from the eastern shore of the Mississippi River._
 - **To [[o/_obtain|obtain]] or [[p/_pick|pick]] up ([[s/_something|something]]).**
 	- _Example: Ella snagged a bottle of water from the fridge before leaving for her jog._
-- **To stealthily steal with [[l/_legerdemain|legerdemain]] [[p/_prowess|prowess]] ([[s/_something|something]]).**
+- **To [[s/_stealthily|stealthily]] [[s/_steal|steal]] with [[l/_legerdemain|legerdemain]] [[p/_prowess|prowess]] ([[s/_something|something]]).**
 	- _Example: The smiling little girl snagged her phone while performing a dance; but now was far-off among the crowd._
-- **To [[c/_cut|cut]] the [[s/_snags|snags]] or [[b/_branches|branches]] from, as the stem of a tree; to [[h/_hew|hew]] [[r/_roughly|roughly]].**
+- **To [[c/_cut|cut]] the [[s/_snags|snags]] or [[b/_branches|branches]] from, as the [[s/_stem|stem]] of a tree; to [[h/_hew|hew]] [[r/_roughly|roughly]].**
 ---
 #noun
 - **A [[l/_light|light]] [[m/_meal|meal]].**

@@ -1,7 +1,7 @@
 # Presto
 ---
 #noun
-- **A [[p/_pair|pair]] of [[f/_fives|fives]] as a starting [[h/_hand|hand]] in Texas [[h/_hold|hold]] '[[e/_em|em]].**
+- **A [[p/_pair|pair]] of [[f/_fives|fives]] as a [[s/_starting|starting]] [[h/_hand|hand]] in Texas [[h/_hold|hold]] '[[e/_em|em]].**
 ---
 #adverb
 - **Very [[f/_fast|fast]] or [[q/_quickly|quickly]]; a [[d/_directive|directive]] for the [[m/_musician|musician]]([[s/_s|s]]) to [[p/_play|play]] in a very [[q/_quick|quick]] tempo.**

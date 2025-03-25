@@ -1,7 +1,7 @@
 # Haste
 ---
 #noun
-- **Speed; swiftness; [[d/_dispatch|dispatch]].**
+- **[[s/_speed|Speed]]; swiftness; [[d/_dispatch|dispatch]].**
 	- _Example: We were running late so we finished our meal in haste._
 - **Urgency; sudden [[e/_excitement|excitement]] of [[f/_feeling|feeling]] or [[p/_passion|passion]]; [[p/_precipitance|precipitance]]; vehemence.**
 ---

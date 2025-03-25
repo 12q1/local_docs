@@ -1,7 +1,7 @@
 # Force
 ---
 #noun
-- **Strength or [[e/_energy|energy]] of [[b/_body|body]] or [[m/_mind|mind]]; [[a/_active|active]] [[p/_power|power]]; vigour; [[m/_might|might]]; [[c/_capacity|capacity]] of [[e/_exercising|exercising]] an [[i/_influence|influence]] or [[p/_producing|producing]] an [[e/_effect|effect]].**
+- **[[s/_strength|Strength]] or [[e/_energy|energy]] of [[b/_body|body]] or [[m/_mind|mind]]; [[a/_active|active]] [[p/_power|power]]; vigour; [[m/_might|might]]; [[c/_capacity|capacity]] of [[e/_exercising|exercising]] an [[i/_influence|influence]] or [[p/_producing|producing]] an [[e/_effect|effect]].**
 	- _Example: the force of an appeal, an argument, or a contract_
 - **[[p/_power|Power]] [[e/_exerted|exerted]] [[a/_against|against]] will or [[c/_consent|consent]]; [[c/_compulsory|compulsory]] [[p/_power|power]]; violence; [[c/_coercion|coercion]].**
 - **[[a/_anything|Anything]] that is [[a/_able|able]] to [[m/_make|make]] a substantial [[c/_change|change]] in a [[p/_person|person]] or thing.**
@@ -16,7 +16,7 @@
 	- _Example: The law will come into force in January._
 - **[[e/_either|Either]] unlawful violence, as in a "[[f/_forced|forced]] [[e/_entry|entry]]", or [[l/_lawful|lawful]] [[c/_compulsion|compulsion]].**
 - **[[a/_ability|Ability]] of an utterance or [[i/_its|its]] [[e/_element|element]] (word, [[f/_form|form]], [[p/_prosody|prosody]], ...) to [[e/_effect|effect]] a [[g/_given|given]] [[m/_meaning|meaning]].**
-- **(with the, [[o/_often|often]] [[c/_capitalized|capitalized]]) A [[m/_metaphysical|metaphysical]] and ubiquitous [[p/_power|power]] from the [[f/_fictional|fictional]] Star Wars universe [[c/_created|created]] by [[g/_george|George]] Lucas. [[s/_see|See]] usage [[n/_note|note]].**
+- **(with the, [[o/_often|often]] [[c/_capitalized|capitalized]]) A [[m/_metaphysical|metaphysical]] and ubiquitous [[p/_power|power]] from the [[f/_fictional|fictional]] [[s/_star|Star]] Wars universe [[c/_created|created]] by [[g/_george|George]] Lucas. [[s/_see|See]] usage [[n/_note|note]].**
 ---
 #verb
 - **To violate (a woman); to [[r/_rape|rape]].**
@@ -28,12 +28,12 @@
 	- _Example: The comedian's jokes weren't funny, but I forced a laugh now and then._
 - **To [[f/_forcibly|forcibly]] [[o/_open|open]] (a [[d/_door|door]], [[l/_lock|lock]] [[e/_etc|etc]].).**
 	- _Example: To force a lock._
-- **To [[o/_obtain|obtain]] or win by strength; to take by violence or struggle; specifically, to [[c/_capture|capture]] by [[a/_assault|assault]]; to storm, as a [[f/_fortress|fortress]].**
+- **To [[o/_obtain|obtain]] or win by [[s/_strength|strength]]; to take by violence or [[s/_struggle|struggle]]; [[s/_specifically|specifically]], to [[c/_capture|capture]] by [[a/_assault|assault]]; to [[s/_storm|storm]], as a [[f/_fortress|fortress]].**
 - **To [[c/_create|create]] an [[o/_out|out]] by touching a [[b/_base|base]] in [[a/_advance|advance]] of a [[r/_runner|runner]] who [[h/_has|has]] [[n/_no|no]] [[b/_base|base]] to [[r/_return|return]] to while in [[p/_possession|possession]] of a [[b/_ball|ball]] which [[h/_has|has]] [[a/_already|already]] touched the [[g/_ground|ground]].**
 	- _Example: Jones forced the runner at second by stepping on the bag._
 - **(whist) To [[c/_compel|compel]] (an [[a/_adversary|adversary]] or [[p/_partner|partner]]) to trump a trick by [[l/_leading|leading]] a suit that [[h/_he|he]]/[[s/_she|she]] [[d/_does|does]] not [[h/_hold|hold]].**
 - **To [[p/_put|put]] in [[f/_force|force]]; to [[c/_cause|cause]] to be [[e/_executed|executed]]; to [[m/_make|make]] [[b/_binding|binding]]; to [[e/_enforce|enforce]].**
-- **To [[p/_provide|provide]] with [[f/_forces|forces]]; to [[r/_reinforce|reinforce]]; to strengthen by [[s/_soldiers|soldiers]]; to [[m/_man|man]]; to [[g/_garrison|garrison]].**
+- **To [[p/_provide|provide]] with [[f/_forces|forces]]; to [[r/_reinforce|reinforce]]; to [[s/_strengthen|strengthen]] by [[s/_soldiers|soldiers]]; to [[m/_man|man]]; to [[g/_garrison|garrison]].**
 - **To [[a/_allow|allow]] the [[f/_force|force]] of; to value; to [[c/_care|care]] for.**
 ---
 #noun

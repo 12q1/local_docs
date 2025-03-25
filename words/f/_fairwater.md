@@ -1,6 +1,6 @@
 # Fairwater
 ---
 #noun
-- **A [[d/_device|device]] that [[i/_improves|improves]] the streamlining of a vessel.**
+- **A [[d/_device|device]] that [[i/_improves|improves]] the [[s/_streamlining|streamlining]] of a vessel.**
 ---
 ---

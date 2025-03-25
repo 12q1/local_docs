@@ -8,7 +8,7 @@
 - **A [[f/_fetter|fetter]]-[[l/_like|like]] [[b/_band|band]] worn as an [[o/_ornament|ornament]].**
 - **A [[l/_link|link]] for [[c/_connecting|connecting]] [[r/_railroad|railroad]] [[c/_cars|cars]]; a [[d/_drawlink|drawlink]] or draglink.**
 - **A [[l/_length|length]] of [[c/_cable|cable]] or [[c/_chain|chain]] [[e/_equal|equal]] to 12 1/2 [[f/_fathoms|fathoms]] or 75 [[f/_feet|feet]], or [[l/_later|later]] to 15 [[f/_fathoms|fathoms]].**
-- **Stubble.**
+- **[[s/_stubble|Stubble]].**
 ---
 ### Synonyms
 - [[h/_hobble|hobble]]

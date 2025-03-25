@@ -1,8 +1,8 @@
 # Curries
 ---
 #noun
-- **[[o/_one|One]] of a [[f/_family|family]] of [[d/_dishes|dishes]] [[o/_originating|originating]] from [[s/_south|South]] [[a/_asian|Asian]] [[c/_cuisine|cuisine]], [[f/_flavoured|flavoured]] by a spiced [[s/_sauce|sauce]].**
-- **A spiced [[s/_sauce|sauce]] or [[r/_relish|relish]], [[e/_especially|especially]] [[o/_one|one]] [[f/_flavoured|flavoured]] with [[c/_curry|curry]] [[p/_powder|powder]].**
+- **[[o/_one|One]] of a [[f/_family|family]] of [[d/_dishes|dishes]] [[o/_originating|originating]] from [[s/_south|South]] [[a/_asian|Asian]] [[c/_cuisine|cuisine]], [[f/_flavoured|flavoured]] by a [[s/_spiced|spiced]] [[s/_sauce|sauce]].**
+- **A [[s/_spiced|spiced]] [[s/_sauce|sauce]] or [[r/_relish|relish]], [[e/_especially|especially]] [[o/_one|one]] [[f/_flavoured|flavoured]] with [[c/_curry|curry]] [[p/_powder|powder]].**
 - **[[c/_curry|Curry]] [[p/_powder|powder]].**
 ---
 ### Synonyms
@@ -25,7 +25,7 @@
 - **To [[h/_hurry|hurry]].**
 ---
 #noun
-- **A [[s/_site|site]] for [[m/_mining|mining]] stone, [[l/_limestone|limestone]], or [[s/_slate|slate]].**
+- **A [[s/_site|site]] for [[m/_mining|mining]] [[s/_stone|stone]], [[l/_limestone|limestone]], or [[s/_slate|slate]].**
 	- _Example: Michelangelo personally quarried marble from the world-famous quarry at Carrara._
 ---
 ### Synonyms
@@ -38,6 +38,6 @@
 ### Synonyms
 - [[m/_mark|mark]], [[p/_prey|prey]], [[t/_target|target]]
 #noun
-- **A [[d/_diamond|diamond]]-[[s/_shaped|shaped]] tile or [[p/_pane|pane]], [[o/_often|often]] of [[g/_glass|glass]] or stone.**
+- **A [[d/_diamond|diamond]]-[[s/_shaped|shaped]] tile or [[p/_pane|pane]], [[o/_often|often]] of [[g/_glass|glass]] or [[s/_stone|stone]].**
 ---
 ---

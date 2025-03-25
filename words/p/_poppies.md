@@ -6,7 +6,7 @@
 - **A [[s/_simple|simple]] [[a/_artificial|artificial]] [[p/_poppy|poppy]] [[f/_flower|flower]] worn in a [[b/_buttonhole|buttonhole]] or [[d/_displayed|displayed]] in [[o/_other|other]] [[c/_contexts|contexts]] to [[r/_remember|remember]] those who [[d/_died|died]] in the two World Wars and [[o/_other|other]] [[a/_armed|armed]] [[c/_conflicts|conflicts]], [[e/_especially|especially]] [[a/_around|around]] [[r/_remembrance|Remembrance]] Sunday.**
 ---
 #noun
-- **[[o/_one|One]]'[[s/_s|s]] [[f/_father|father]] or [[g/_grandfather|grandfather]], or a [[m/_male|male]] [[a/_authority|authority]] [[f/_figure|figure]] [[h/_having|having]] [[s/_similar|similar]] standing.**
+- **[[o/_one|One]]'[[s/_s|s]] [[f/_father|father]] or [[g/_grandfather|grandfather]], or a [[m/_male|male]] [[a/_authority|authority]] [[f/_figure|figure]] [[h/_having|having]] [[s/_similar|similar]] [[s/_standing|standing]].**
 ---
 ### Synonyms
 - [[p/_pappy|pappy]], [[p/_pop|pop]], [[p/_pop-pop|pop-pop]], [[p/_poppa|poppa]], [[p/_pops|pops]]

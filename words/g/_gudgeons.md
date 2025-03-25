@@ -10,7 +10,7 @@
 - [[g/_goby|goby]], [[w/_wapper|wapper]]
 #noun
 - **A [[c/_circular|circular]] or [[c/_cylindrical|cylindrical]] [[f/_fitting|fitting]], [[o/_often|often]] [[m/_made|made]] of [[m/_metal|metal]], [[i/_into|into]] which a [[p/_pin|pin]] or [[p/_pintle|pintle]] [[f/_fits|fits]] to [[c/_create|create]] a [[h/_hinge|hinge]] or [[p/_pivoting|pivoting]] [[j/_joint|joint]].**
-- **(specifically) In a vessel with a stern-[[m/_mounted|mounted]] [[r/_rudder|rudder]]: the [[f/_fitting|fitting]] [[i/_into|into]] which the [[p/_pintle|pintle]] of the [[r/_rudder|rudder]] [[f/_fits|fits]], [[a/_allowing|allowing]] the [[r/_rudder|rudder]] to swing [[f/_freely|freely]].**
+- **([[s/_specifically|specifically]]) In a vessel with a [[s/_stern|stern]]-[[m/_mounted|mounted]] [[r/_rudder|rudder]]: the [[f/_fitting|fitting]] [[i/_into|into]] which the [[p/_pintle|pintle]] of the [[r/_rudder|rudder]] [[f/_fits|fits]], [[a/_allowing|allowing]] the [[r/_rudder|rudder]] to swing [[f/_freely|freely]].**
 ---
 ### Synonyms
 - [[b/_brace|brace]]

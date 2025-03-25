@@ -1,7 +1,7 @@
 # Glamour
 ---
 #noun
-- **[[o/_originally|Originally]], [[e/_enchantment|enchantment]]; [[m/_magic|magic]] [[c/_charm|charm]]; [[e/_especially|especially]], the [[e/_effect|effect]] of a spell that [[c/_causes|causes]] [[o/_one|one]] to [[s/_see|see]] [[o/_objects|objects]] in a [[f/_form|form]] that [[d/_differs|differs]] from [[r/_reality|reality]], typically to [[m/_make|make]] [[f/_filthy|filthy]], ugly, or [[r/_repulsive|repulsive]] things [[s/_seems|seems]] [[b/_beauteous|beauteous]].**
+- **[[o/_originally|Originally]], [[e/_enchantment|enchantment]]; [[m/_magic|magic]] [[c/_charm|charm]]; [[e/_especially|especially]], the [[e/_effect|effect]] of a [[s/_spell|spell]] that [[c/_causes|causes]] [[o/_one|one]] to [[s/_see|see]] [[o/_objects|objects]] in a [[f/_form|form]] that [[d/_differs|differs]] from [[r/_reality|reality]], typically to [[m/_make|make]] [[f/_filthy|filthy]], ugly, or [[r/_repulsive|repulsive]] things [[s/_seems|seems]] [[b/_beauteous|beauteous]].**
 - **[[a/_alluring|Alluring]] [[b/_beauty|beauty]] or [[c/_charm|charm]] ([[o/_often|often]] with [[s/_sex|sex]] [[a/_appeal|appeal]]).**
 	- _Example: glamour magazines; a glamour model_
 - **[[a/_any|Any]] [[e/_excitement|excitement]], [[a/_appeal|appeal]], or [[a/_attractiveness|attractiveness]] [[a/_associated|associated]] with a [[p/_person|person]], [[p/_place|place]], or thing; that which [[m/_makes|makes]] [[s/_something|something]] [[a/_appealing|appealing]].**

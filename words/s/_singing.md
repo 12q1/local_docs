@@ -10,7 +10,7 @@
 - **To [[m/_make|make]] a [[s/_small|small]], [[s/_shrill|shrill]] [[s/_sound|sound]].**
 	- _Example: The air sings in passing through a crevice._
 - **To [[r/_relate|relate]] in verse; to [[c/_celebrate|celebrate]] in [[p/_poetry|poetry]].**
-- **To [[d/_display|display]] [[f/_fine|fine]] [[q/_qualities|qualities]]; to stand [[o/_out|out]] as [[e/_excellent|excellent]].**
+- **To [[d/_display|display]] [[f/_fine|fine]] [[q/_qualities|qualities]]; to [[s/_stand|stand]] [[o/_out|out]] as [[e/_excellent|excellent]].**
 	- _Example: The sauce really makes this lamb sing._
 - **To be [[c/_capable|capable]] of [[b/_being|being]] sung; to [[p/_produce|produce]] a [[c/_certain|certain]] [[e/_effect|effect]] by [[b/_being|being]] sung.**
 ---
@@ -21,6 +21,6 @@
 ---
 #adjective
 - **[[s/_smooth|Smooth]] and [[f/_flowing|flowing]].**
-- **(of a [[k/_kettle|kettle]] [[e/_etc|etc]].) [[p/_producing|Producing]] a whistling [[s/_sound|sound]] [[d/_due|due]] to the [[e/_escape|escape]] of steam.**
+- **(of a [[k/_kettle|kettle]] [[e/_etc|etc]].) [[p/_producing|Producing]] a whistling [[s/_sound|sound]] [[d/_due|due]] to the [[e/_escape|escape]] of [[s/_steam|steam]].**
 ---
 ---

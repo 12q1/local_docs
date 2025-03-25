@@ -1,7 +1,7 @@
 # Healthiest
 ---
 #adjective
-- **[[e/_enjoying|Enjoying]] [[h/_health|health]] and vigor of [[b/_body|body]], [[m/_mind|mind]], or spirit: well.**
+- **[[e/_enjoying|Enjoying]] [[h/_health|health]] and vigor of [[b/_body|body]], [[m/_mind|mind]], or [[s/_spirit|spirit]]: well.**
 	- _Example: He was father to three healthy kids._
 - **[[c/_conducive|Conducive]] to [[h/_health|health]].**
 	- _Example: A healthy diet and exercise can help to maintain proper weight._

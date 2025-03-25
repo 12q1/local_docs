@@ -12,6 +12,6 @@
 #adjective
 - **[[i/_inhibited|Inhibited]] or [[r/_restrained|restrained]] in [[o/_one|one]]'[[s/_s|s]] words and [[a/_actions|actions]].**
 - **[[r/_resulting|Resulting]] from a [[c/_comparison|comparison]] with [[c/_control|control]] [[s/_samples|samples]].**
-- **(in [[c/_combination|combination]]) Under the [[c/_control|control]] of the specified [[e/_entity|entity]].**
+- **(in [[c/_combination|combination]]) Under the [[c/_control|control]] of the [[s/_specified|specified]] [[e/_entity|entity]].**
 ---
 ---

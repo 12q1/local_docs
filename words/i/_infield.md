@@ -9,7 +9,7 @@
 	- _Example: They covered the infield with a tarp when it started to rain._
 - **(as a [[m/_modifier|modifier]], [[f/_functioning|functioning]] as an [[a/_adjective|adjective]]) Of an [[e/_event|event]], [[h/_happening|happening]] in the [[i/_infield|infield]].**
 	- _Example: Jones ran out an infield single._
-- **The [[r/_region|region]] of the [[f/_field|field]] [[r/_roughly|roughly]] [[b/_bounded|bounded]] by the wicket [[k/_keeper|keeper]], [[s/_slips|slips]], [[g/_gully|gully]], [[p/_point|point]], [[c/_cover|cover]], [[m/_mid|mid]] [[o/_off|off]], [[m/_mid|mid]] on, midwicket and square [[l/_leg|leg]].**
+- **The [[r/_region|region]] of the [[f/_field|field]] [[r/_roughly|roughly]] [[b/_bounded|bounded]] by the wicket [[k/_keeper|keeper]], [[s/_slips|slips]], [[g/_gully|gully]], [[p/_point|point]], [[c/_cover|cover]], [[m/_mid|mid]] [[o/_off|off]], [[m/_mid|mid]] on, midwicket and [[s/_square|square]] [[l/_leg|leg]].**
 ---
 ### Antonyms
 - [[o/_outfield|outfield]]

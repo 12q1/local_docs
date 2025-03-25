@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[o/_often|often]] used with the, [[s/_sometimes|sometimes]] [[c/_capitalized|capitalized]]: the [[p/_plague|Plague]]) The [[b/_bubonic|bubonic]] [[p/_plague|plague]], the [[p/_pestilent|pestilent]] [[d/_disease|disease]] [[c/_caused|caused]] by the virulent [[b/_bacterium|bacterium]] Yersinia [[p/_pestis|pestis]].**
-- **An [[e/_epidemic|epidemic]] or [[p/_pandemic|pandemic]] [[c/_caused|caused]] by [[a/_any|any]] [[p/_pestilence|pestilence]], but specifically by the [[a/_above|above]] [[d/_disease|disease]].**
+- **An [[e/_epidemic|epidemic]] or [[p/_pandemic|pandemic]] [[c/_caused|caused]] by [[a/_any|any]] [[p/_pestilence|pestilence]], but [[s/_specifically|specifically]] by the [[a/_above|above]] [[d/_disease|disease]].**
 - **A widespread [[a/_affliction|affliction]], [[c/_calamity|calamity]] or [[d/_destructive|destructive]] [[i/_influx|influx]], [[e/_especially|especially]] when [[s/_seen|seen]] as [[d/_divine|divine]] [[r/_retribution|retribution]].**
 	- _Example: Ten Biblical plagues over Egypt, ranging from locusts to the death of the crown prince, finally forced Pharaoh to let Moses's people go._
 - **A [[g/_grave|grave]] [[n/_nuisance|nuisance]], whatever [[g/_greatly|greatly]] [[i/_irritates|irritates]].**

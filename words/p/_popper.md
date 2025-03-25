@@ -3,12 +3,12 @@
 #noun
 - **[[o/_one|One]] who or that which [[p/_pops|pops]].**
 - **A [[d/_dagger|dagger]].**
-- **A [[s/_short|short]] [[p/_piece|piece]] of twisted string tied to the [[e/_end|end]] of a whip that [[c/_creates|creates]] the [[d/_distinctive|distinctive]] [[s/_sound|sound]] when the whip is thrown or [[c/_cracked|cracked]].**
-- **A [[c/_capsule|capsule]] of [[a/_amyl|amyl]] [[n/_nitrite|nitrite]] for [[r/_recreational|recreational]] use as a [[s/_sexual|sexual]] stimulant.**
-- **A [[f/_floating|floating]] [[l/_lure|lure]] [[d/_designed|designed]] to splash when the [[f/_fishing|fishing]] [[l/_line|line]] is twitched.**
+- **A [[s/_short|short]] [[p/_piece|piece]] of twisted [[s/_string|string]] tied to the [[e/_end|end]] of a whip that [[c/_creates|creates]] the [[d/_distinctive|distinctive]] [[s/_sound|sound]] when the whip is thrown or [[c/_cracked|cracked]].**
+- **A [[c/_capsule|capsule]] of [[a/_amyl|amyl]] [[n/_nitrite|nitrite]] for [[r/_recreational|recreational]] use as a [[s/_sexual|sexual]] [[s/_stimulant|stimulant]].**
+- **A [[f/_floating|floating]] [[l/_lure|lure]] [[d/_designed|designed]] to [[s/_splash|splash]] when the [[f/_fishing|fishing]] [[l/_line|line]] is twitched.**
 - **[[e/_either|Either]] of a [[p/_pair|pair]] of [[i/_interlocking|interlocking]] [[d/_discs|discs]] [[c/_commonly|commonly]] used in [[p/_place|place]] of [[b/_buttons|buttons]] to [[f/_fasten|fasten]] [[c/_clothing|clothing]], a [[s/_snap|snap]] [[f/_fastener|fastener]].**
 - **A [[d/_device|device]] that [[p/_pops|pops]] [[k/_kernels|kernels]] of [[c/_corn|corn]] to [[p/_produce|produce]] [[p/_popcorn|popcorn]].**
-- **A stuffed and usually [[b/_breaded|breaded]] jalapeñ[[o/_o|o]].**
+- **A [[s/_stuffed|stuffed]] and usually [[b/_breaded|breaded]] jalapeñ[[o/_o|o]].**
 - **A looner ([[b/_balloon|balloon]] [[f/_fetishist|fetishist]]) who [[p/_prefers|prefers]] to [[b/_burst|burst]] [[b/_balloons|balloons]].**
 ---
 ### Synonyms

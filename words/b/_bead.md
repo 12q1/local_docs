@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[p/_prayer|Prayer]], [[l/_later|later]] [[e/_especially|especially]] with a [[r/_rosary|rosary]].**
-- **[[e/_each|Each]] in a string of [[s/_small|small]] [[b/_balls|balls]] [[m/_making|making]] up the [[r/_rosary|rosary]] or [[p/_paternoster|paternoster]].**
+- **[[e/_each|Each]] in a [[s/_string|string]] of [[s/_small|small]] [[b/_balls|balls]] [[m/_making|making]] up the [[r/_rosary|rosary]] or [[p/_paternoster|paternoster]].**
 - **A [[s/_small|small]], [[r/_round|round]] [[o/_object|object]].**
 - **([[h/_heading|heading]]) A [[r/_ridge|ridge]], [[b/_band|band]], or [[m/_molding|molding]].**
 - **[[k/_knowledge|Knowledge]] sufficient to [[d/_direct|direct]] [[o/_one|one]]'[[s/_s|s]] [[a/_activities|activities]] to a [[p/_purpose|purpose]].**

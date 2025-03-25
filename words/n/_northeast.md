@@ -1,7 +1,7 @@
 # Northeast
 ---
 #noun
-- **The [[c/_compass|compass]] [[p/_point|point]] [[h/_halfway|halfway]] [[b/_between|between]] [[n/_north|north]] and [[e/_east|east]], specifically 45°, [[a/_abbreviated|abbreviated]] as [[n/_ne|NE]].**
+- **The [[c/_compass|compass]] [[p/_point|point]] [[h/_halfway|halfway]] [[b/_between|between]] [[n/_north|north]] and [[e/_east|east]], [[s/_specifically|specifically]] 45°, [[a/_abbreviated|abbreviated]] as [[n/_ne|NE]].**
 ---
 ### Antonyms
 - [[s/_southwest|southwest]]

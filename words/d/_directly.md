@@ -1,15 +1,15 @@
 # Directly
 ---
 #adverb
-- **In a [[d/_direct|direct]] [[m/_manner|manner]]; in a straight [[l/_line|line]] or [[c/_course|course]].**
+- **In a [[d/_direct|direct]] [[m/_manner|manner]]; in a [[s/_straight|straight]] [[l/_line|line]] or [[c/_course|course]].**
 	- _Example: He drove directly to the office, and didn't stop off at the petrol station._
-- **In a straightforward way; without [[a/_anything|anything]] [[i/_intervening|intervening]]; not by [[s/_secondary|secondary]], but by [[d/_direct|direct]] [[m/_means|means]].**
+- **In a [[s/_straightforward|straightforward]] way; without [[a/_anything|anything]] [[i/_intervening|intervening]]; not by [[s/_secondary|secondary]], but by [[d/_direct|direct]] [[m/_means|means]].**
 	- _Example: I'm sick of asking you to fire him, I'll just do it directly._
 - **[[p/_plainly|Plainly]], without [[c/_circumlocution|circumlocution]] or [[a/_ambiguity|ambiguity]]; [[a/_absolutely|absolutely]]; in [[e/_express|express]] terms.**
 	- _Example: I'm going to tell Natalie directly that I love her._
 - **[[e/_exactly|Exactly]]; [[j/_just|just]].**
 	- _Example: It's directly across the street._
-- **Straightforwardly; [[h/_honestly|honestly]].**
+- **[[s/_straightforwardly|Straightforwardly]]; [[h/_honestly|honestly]].**
 	- _Example: He told me directly that he'd cheated on me, and how sorry he was for it._
 - **[[i/_immediately|Immediately]].**
 - **[[s/_soon|Soon]]; [[n/_next|next]]; when it [[b/_becomes|becomes]] [[c/_convenient|convenient]].**

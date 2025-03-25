@@ -6,7 +6,7 @@
 	- _Example: a face deformed by bitterness_
 - **To [[m/_mar|mar]] the [[c/_character|character]] of.**
 	- _Example: a marriage deformed by jealousy_
-- **To [[a/_alter|alter]] the [[s/_shape|shape]] of by stress.**
+- **To [[a/_alter|alter]] the [[s/_shape|shape]] of by [[s/_stress|stress]].**
 - **To [[b/_become|become]] [[m/_misshapen|misshapen]] or [[c/_changed|changed]] in [[s/_shape|shape]].**
 ---
 ### Synonyms

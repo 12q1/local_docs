@@ -1,7 +1,7 @@
 # Introspections
 ---
 #noun
-- **A [[l/_looking|looking]] [[i/_inward|inward]]; specifically, the [[a/_act|act]] or [[p/_process|process]] of [[s/_self|self]]-[[e/_examination|examination]], or [[i/_inspection|inspection]] of [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] thoughts and [[f/_feelings|feelings]]; the [[c/_cognition|cognition]] which the [[m/_mind|mind]] [[h/_has|has]] of [[i/_its|its]] [[o/_own|own]] [[a/_acts|acts]] and states**
+- **A [[l/_looking|looking]] [[i/_inward|inward]]; [[s/_specifically|specifically]], the [[a/_act|act]] or [[p/_process|process]] of [[s/_self|self]]-[[e/_examination|examination]], or [[i/_inspection|inspection]] of [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] thoughts and [[f/_feelings|feelings]]; the [[c/_cognition|cognition]] which the [[m/_mind|mind]] [[h/_has|has]] of [[i/_its|its]] [[o/_own|own]] [[a/_acts|acts]] and [[s/_states|states]]**
 ---
 ### Synonyms
 - [[i/_inlook|inlook]], [[r/_reflection|reflection]], [[s/_self-consciousness|self-consciousness]]

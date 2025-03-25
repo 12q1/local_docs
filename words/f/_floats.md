@@ -3,7 +3,7 @@
 #noun
 - **A [[b/_buoyant|buoyant]] [[d/_device|device]] used to support [[s/_something|something]] in water or [[a/_another|another]] [[l/_liquid|liquid]].**
 	- _Example: Attach the float and the weight to the fishing line, above the hook._
-- **A [[m/_mass|mass]] of timber or [[b/_boards|boards]] [[f/_fastened|fastened]] together, and [[c/_conveyed|conveyed]] [[d/_down|down]] a stream by the [[c/_current|current]]; a [[r/_raft|raft]].**
+- **A [[m/_mass|mass]] of timber or [[b/_boards|boards]] [[f/_fastened|fastened]] together, and [[c/_conveyed|conveyed]] [[d/_down|down]] a [[s/_stream|stream]] by the [[c/_current|current]]; a [[r/_raft|raft]].**
 - **A [[f/_float|float]] [[b/_board|board]].**
 - **A tool [[s/_similar|similar]] to a [[r/_rasp|rasp]], used in various trades.**
 - **A [[s/_sort|sort]] of trowel used for [[f/_finishing|finishing]] [[c/_concrete|concrete]] surfaces or [[s/_smoothing|smoothing]] [[p/_plaster|plaster]].**
@@ -13,7 +13,7 @@
 - **A [[s/_small|small]] vehicle used for [[l/_local|local]] [[d/_deliveries|deliveries]], [[e/_especially|especially]] in the term [[m/_milk|milk]] [[f/_float|float]].**
 - **[[f/_funds|Funds]] [[c/_committed|committed]] to be [[p/_paid|paid]] but not [[y/_yet|yet]] [[p/_paid|paid]].**
 	- _Example: Our bank does a nightly sweep of accounts, to adjust the float so we stay within our reserves limit._
-- **(and [[o/_other|other]] [[c/_commonwealth|Commonwealth]] [[c/_countries|countries]]?) An [[o/_offering|offering]] of [[s/_shares|shares]] in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the [[p/_public|public]], [[n/_normally|normally]] [[f/_followed|followed]] by a [[l/_listing|listing]] on a stock [[e/_exchange|exchange]].**
+- **(and [[o/_other|other]] [[c/_commonwealth|Commonwealth]] [[c/_countries|countries]]?) An [[o/_offering|offering]] of [[s/_shares|shares]] in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the [[p/_public|public]], [[n/_normally|normally]] [[f/_followed|followed]] by a [[l/_listing|listing]] on a [[s/_stock|stock]] [[e/_exchange|exchange]].**
 - **The total [[a/_amount|amount]] of [[c/_checks|checks]]/[[c/_cheques|cheques]] or [[o/_other|other]] [[d/_drafts|drafts]] written [[a/_against|against]] a [[b/_bank|bank]] [[a/_account|account]] but not [[y/_yet|yet]] [[c/_cleared|cleared]] and [[c/_charged|charged]] [[a/_against|against]] the [[a/_account|account]].**
 	- _Example: No sir, your current float is not taken into account, when assets are legally garnished._
 - **[[p/_premiums|Premiums]] taken in but not [[y/_yet|yet]] [[p/_paid|paid]] [[o/_out|out]].**
@@ -22,18 +22,18 @@
 	- _Example: That routine should not have used an int; it should be a float._
 - **A [[s/_soft|soft]] [[b/_beverage|beverage]] with a [[s/_scoop|scoop]] of [[i/_ice|ice]]-[[c/_cream|cream]] [[f/_floating|floating]] in it.**
 	- _Example: It's true - I don't consider anything other than root-beer with vanilla ice-cream to be a "real" float._
-- **A [[s/_small|small]] sum of [[m/_money|money]] [[p/_put|put]] in a [[c/_cashier|cashier]]'[[s/_s|s]] till at the start of [[b/_business|business]] to [[e/_enable|enable]] [[c/_change|change]] to be [[m/_made|made]].**
+- **A [[s/_small|small]] sum of [[m/_money|money]] [[p/_put|put]] in a [[c/_cashier|cashier]]'[[s/_s|s]] till at the [[s/_start|start]] of [[b/_business|business]] to [[e/_enable|enable]] [[c/_change|change]] to be [[m/_made|made]].**
 - **A [[m/_maneuver|maneuver]] where a [[p/_player|player]] [[c/_calls|calls]] on the [[f/_flop|flop]] or turn with a weak [[h/_hand|hand]], with the [[i/_intention|intention]] of [[b/_bluffing|bluffing]] [[a/_after|after]] a subsequent [[c/_community|community]] [[c/_card|card]].**
 - **[[o/_one|One]] of the [[l/_loose|loose]] [[e/_ends|ends]] of [[y/_yarn|yarn]] on an unfinished work.**
 - **A [[c/_car|car]] [[c/_carrier|carrier]] or [[c/_car|car]] transporter truck or truck-and-trailer [[c/_combination|combination]]**
 - **A [[l/_lowboy|lowboy]] trailer**
-- **(tempering) A [[d/_device|device]] [[s/_sending|sending]] a [[c/_copious|copious]] stream of water to the [[h/_heated|heated]] surface of a [[b/_bulky|bulky]] [[o/_object|object]], such as an [[a/_anvil|anvil]] or [[d/_die|die]].**
+- **(tempering) A [[d/_device|device]] [[s/_sending|sending]] a [[c/_copious|copious]] [[s/_stream|stream]] of water to the [[h/_heated|heated]] surface of a [[b/_bulky|bulky]] [[o/_object|object]], such as an [[a/_anvil|anvil]] or [[d/_die|die]].**
 - **The [[a/_act|act]] of [[f/_flowing|flowing]]; [[f/_flux|flux]]; [[f/_flow|flow]].**
-- **A [[q/_quantity|quantity]] of [[e/_earth|earth]], [[e/_eighteen|eighteen]] [[f/_feet|feet]] square and [[o/_one|one]] [[f/_foot|foot]] [[d/_deep|deep]].**
+- **A [[q/_quantity|quantity]] of [[e/_earth|earth]], [[e/_eighteen|eighteen]] [[f/_feet|feet]] [[s/_square|square]] and [[o/_one|one]] [[f/_foot|foot]] [[d/_deep|deep]].**
 - **A [[p/_polishing|polishing]] [[b/_block|block]] used in [[m/_marble|marble]] working; a [[r/_runner|runner]].**
 - **A [[c/_coal|coal]] [[c/_cart|cart]].**
 - **A breakdancing [[m/_move|move]] in which the [[b/_body|body]] is [[h/_held|held]] [[p/_parallel|parallel]] to the [[f/_floor|floor]] while [[b/_balancing|balancing]] on [[o/_one|one]] or [[b/_both|both]] [[h/_hands|hands]].**
-- **A visual style on a web [[p/_page|page]] that [[c/_causes|causes]] the styled [[e/_elements|elements]] to [[f/_float|float]] [[a/_above|above]] or [[b/_beside|beside]] [[o/_others|others]].**
+- **A visual [[s/_style|style]] on a web [[p/_page|page]] that [[c/_causes|causes]] the [[s/_styled|styled]] [[e/_elements|elements]] to [[f/_float|float]] [[a/_above|above]] or [[b/_beside|beside]] [[o/_others|others]].**
 ---
 ### Synonyms
 - 
@@ -65,9 +65,9 @@
 	- _Example: Increased pressure on Thailand’s currency, the baht, in 1997 led to a crisis that forced the government to float the currency._
 - **To [[e/_extend|extend]] a [[s/_short|short]]-term [[l/_loan|loan]] to.**
 	- _Example: Could you float me $50 until payday?_
-- **To [[i/_issue|issue]] or [[s/_sell|sell]] [[s/_shares|shares]] in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the [[p/_public|public]], [[f/_followed|followed]] by [[l/_listing|listing]] on a stock [[e/_exchange|exchange]].**
+- **To [[i/_issue|issue]] or [[s/_sell|sell]] [[s/_shares|shares]] in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the [[p/_public|public]], [[f/_followed|followed]] by [[l/_listing|listing]] on a [[s/_stock|stock]] [[e/_exchange|exchange]].**
 	- _Example: 2007, Jonathan Reuvid, Floating Your Company: The Essential Guide to Going Public._
-- **To spread [[p/_plaster|plaster]] [[o/_over|over]] (a surface), using the tool [[c/_called|called]] a [[f/_float|float]].**
+- **To [[s/_spread|spread]] [[p/_plaster|plaster]] [[o/_over|over]] (a surface), using the tool [[c/_called|called]] a [[f/_float|float]].**
 - **To use a [[f/_float|float]] ([[r/_rasp|rasp]]-[[l/_like|like]] tool) upon.**
 	- _Example: It is time to float this horse's teeth._
 - **To transport by [[f/_float|float]] (vehicular trailer).**

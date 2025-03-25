@@ -11,18 +11,18 @@
 	- _Example: He popped his head around the door._
 - **([[o/_often|often]] with [[o/_over|over]], [[r/_round|round]], [[a/_along|along]], [[e/_etc|etc]].) To [[m/_make|make]] a [[s/_short|short]] trip or visit.**
 	- _Example: I'll pop by your place later today._
-- **To stand [[o/_out|out]]; to be [[d/_distinctive|distinctive]] to the [[s/_senses|senses]].**
+- **To [[s/_stand|stand]] [[o/_out|out]]; to be [[d/_distinctive|distinctive]] to the [[s/_senses|senses]].**
 	- _Example: This colour really pops._
 - **To [[h/_hit|hit]] ([[s/_something|something]] or [[s/_someone|someone]]).**
 	- _Example: He popped me on the nose._
 - **To [[s/_shoot|shoot]] (usually [[s/_somebody|somebody]]) with a [[f/_firearm|firearm]].**
 - **To [[e/_ejaculate|ejaculate]].**
-- **To [[r/_remove|remove]] (a [[d/_data|data]] [[i/_item|item]]) from the top of a stack.**
-- **To [[r/_remove|remove]] a [[d/_data|data]] [[i/_item|item]] from the top of (a stack).**
+- **To [[r/_remove|remove]] (a [[d/_data|data]] [[i/_item|item]]) from the top of a [[s/_stack|stack]].**
+- **To [[r/_remove|remove]] a [[d/_data|data]] [[i/_item|item]] from the top of (a [[s/_stack|stack]]).**
 - **To [[p/_pawn|pawn]] ([[s/_something|something]]) (to [[r/_raise|raise]] [[m/_money|money]]).**
 	- _Example: I had to pop my watch to see me through until pay-day._
 - **To swallow or [[c/_consume|consume]] ([[e/_especially|especially]] a tablet of a [[d/_drug|drug]], [[s/_sometimes|sometimes]] [[e/_extended|extended]] to [[o/_other|other]] [[s/_small|small]] [[i/_items|items]] such as sweets or [[c/_candy|candy]]).**
-- **To [[p/_perform|perform]] (a [[m/_move|move]] or stunt) while [[r/_riding|riding]] a [[b/_board|board]] or vehicle.**
+- **To [[p/_perform|perform]] (a [[m/_move|move]] or [[s/_stunt|stunt]]) while [[r/_riding|riding]] a [[b/_board|board]] or vehicle.**
 - **(of the [[e/_ears|ears]]) To undergo [[e/_equalization|equalization]] of [[p/_pressure|pressure]] when the [[e/_eustachian|Eustachian]] tubes [[o/_open|open]].**
 	- _Example: My ears popped as the aeroplane began to ascend._
 ---

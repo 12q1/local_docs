@@ -1,7 +1,7 @@
 # Diddle
 ---
 #noun
-- **In [[p/_percussion|percussion]], two [[c/_consecutive|consecutive]] [[n/_notes|notes]] [[p/_played|played]] by the [[s/_same|same]] [[h/_hand|hand]] ([[e/_either|either]] RR or [[l/_ll|LL]]), [[s/_similar|similar]] to the [[d/_drag|drag]], [[e/_except|except]] that by [[c/_convention|convention]] [[d/_diddles|diddles]] are [[p/_played|played]] the [[s/_same|same]] speed as the [[c/_context|context]] in which they are [[p/_placed|placed]].**
+- **In [[p/_percussion|percussion]], two [[c/_consecutive|consecutive]] [[n/_notes|notes]] [[p/_played|played]] by the [[s/_same|same]] [[h/_hand|hand]] ([[e/_either|either]] RR or [[l/_ll|LL]]), [[s/_similar|similar]] to the [[d/_drag|drag]], [[e/_except|except]] that by [[c/_convention|convention]] [[d/_diddles|diddles]] are [[p/_played|played]] the [[s/_same|same]] [[s/_speed|speed]] as the [[c/_context|context]] in which they are [[p/_placed|placed]].**
 - **The [[p/_penis|penis]].**
 ---
 #verb

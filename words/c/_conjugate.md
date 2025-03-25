@@ -7,7 +7,7 @@
 - **(of an [[e/_element|element]] of an [[e/_extension|extension]] [[f/_field|field]]) [[g/_given|Given]] a [[f/_field|field]] [[e/_extension|extension]] [[l/_l|L]] / [[k/_k|K]] and an [[e/_element|element]] α ∈ [[l/_l|L]], [[a/_any|any]] [[o/_other|other]] [[e/_element|element]] β ∈ [[l/_l|L]] that is [[a/_another|another]] [[r/_root|root]] of the [[m/_minimal|minimal]] [[p/_polynomial|polynomial]] of α [[o/_over|over]] [[k/_k|K]].**
 - **An [[e/_explementary|explementary]] [[a/_angle|angle]].**
 - **([[g/_grammar|grammar]]) A word [[a/_agreeing|agreeing]] in [[d/_derivation|derivation]] with [[a/_another|another]] word, and therefore [[g/_generally|generally]] [[r/_resembling|resembling]] it in [[m/_meaning|meaning]].**
-- **A weak and a strong [[a/_antigen|antigen]] [[c/_covalently|covalently]] [[l/_linked|linked]] together**
+- **A weak and a [[s/_strong|strong]] [[a/_antigen|antigen]] [[c/_covalently|covalently]] [[l/_linked|linked]] together**
 ---
 #verb
 - **([[g/_grammar|grammar]]) To [[i/_inflect|inflect]] (a verb) for [[e/_each|each]] [[p/_person|person]], in [[o/_order|order]], for [[o/_one|one]] or [[m/_more|more]] tenses.**

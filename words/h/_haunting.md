@@ -5,12 +5,12 @@
 	- _Example: A couple of ghosts haunt the old, burnt-down house._
 - **To [[m/_make|make]] uneasy, [[r/_restless|restless]].**
 	- _Example: The memory of his past failures haunted him._
-- **To stalk, to [[f/_follow|follow]]**
+- **To [[s/_stalk|stalk]], to [[f/_follow|follow]]**
 	- _Example: The policeman haunted him, following him everywhere._
-- **To [[l/_live|live]] [[h/_habitually|habitually]]; to stay, to [[r/_remain|remain]].**
+- **To [[l/_live|live]] [[h/_habitually|habitually]]; to [[s/_stay|stay]], to [[r/_remain|remain]].**
 - **To [[a/_accustom|accustom]]; [[h/_habituate|habituate]]; [[m/_make|make]] [[a/_accustomed|accustomed]] to.**
 - **To [[p/_practise|practise]]; to [[d/_devote|devote]] [[o/_oneself|oneself]] to.**
-- **To [[p/_persist|persist]] in staying or visiting.**
+- **To [[p/_persist|persist]] in [[s/_staying|staying]] or visiting.**
 ---
 ### Synonyms
 - [[d/_dwell|dwell]], [[l/_live|live]], [[n/_nag|nag]]

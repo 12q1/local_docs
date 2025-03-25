@@ -6,8 +6,8 @@
 - **To [[b/_blast|blast]], as by [[f/_frost|frost]]; to [[c/_check|check]] the [[g/_growth|growth]] or vigor of; to [[d/_destroy|destroy]].**
 - **To [[a/_annoy|annoy]], as by [[n/_nipping|nipping]].**
 - **To taunt.**
-- **To squeeze or [[p/_pinch|pinch]].**
-- **To steal; [[e/_especially|especially]] to [[c/_cut|cut]] a [[p/_purse|purse]].**
+- **To [[s/_squeeze|squeeze]] or [[p/_pinch|pinch]].**
+- **To [[s/_steal|steal]]; [[e/_especially|especially]] to [[c/_cut|cut]] a [[p/_purse|purse]].**
 ---
 #verb
 - **To [[m/_make|make]] a [[q/_quick|quick]], [[s/_short|short]] [[j/_journey|journey]] or [[e/_errand|errand]], usually a [[r/_round|round]] trip.**

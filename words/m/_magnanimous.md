@@ -1,7 +1,7 @@
 # Magnanimous
 ---
 #adjective
-- **[[n/_noble|Noble]] and [[g/_generous|generous]] in spirit.**
+- **[[n/_noble|Noble]] and [[g/_generous|generous]] in [[s/_spirit|spirit]].**
 	- _Example: He thinks himself ardent, impulsive, passionate, magnanimous — capable of boundless enthusiasm for an idea or a sentiment._
 ---
 ### Synonyms

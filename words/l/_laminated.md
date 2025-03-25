@@ -11,7 +11,7 @@
 - **[[m/_made|Made]] by [[l/_lamination|lamination]].**
 - **[[c/_consisting|Consisting]] of [[m/_many|many]] thin [[l/_layers|layers]].**
 	- _Example: A laminated arch is a timber arch made of layers of bent planks secured by treenails._
-- **(of [[r/_rocks|rocks]]) Splitting [[i/_into|into]] thin [[l/_layers|layers]] [[p/_parallel|parallel]] to [[b/_bedding|bedding]].**
+- **(of [[r/_rocks|rocks]]) [[s/_splitting|Splitting]] [[i/_into|into]] thin [[l/_layers|layers]] [[p/_parallel|parallel]] to [[b/_bedding|bedding]].**
 	- _Example: Shale is laminated._
 ---
 ---

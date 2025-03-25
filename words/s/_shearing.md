@@ -17,7 +17,7 @@
 - **The [[a/_act|act]] or [[o/_operation|operation]] of [[r/_reaping|reaping]].**
 - **The [[a/_act|act]] or [[o/_operation|operation]] of [[d/_dividing|dividing]] with [[s/_shears|shears]].**
 	- _Example: the shearing of metal plates_
-- **The [[p/_process|process]] of [[p/_preparing|preparing]] [[s/_shear|shear]] steel; tilting.**
+- **The [[p/_process|process]] of [[p/_preparing|preparing]] [[s/_shear|shear]] [[s/_steel|steel]]; tilting.**
 - **The [[p/_process|process]] of [[m/_making|making]] a vertical [[s/_side|side]] [[c/_cutting|cutting]] in working [[i/_into|into]] a [[f/_face|face]] of [[c/_coal|coal]].**
 ---
 #adjective

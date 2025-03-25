@@ -1,7 +1,7 @@
 # Headier
 ---
 #adjective
-- **[[i/_intoxicating|Intoxicating]] or stupefying.**
+- **[[i/_intoxicating|Intoxicating]] or [[s/_stupefying|stupefying]].**
 	- _Example: The cocktail was a heady mixture of spirits._
 - **Tending to upset the [[m/_mind|mind]] or [[s/_senses|senses]].**
 	- _Example: We looked out from a heady outcrop of rock._

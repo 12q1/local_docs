@@ -6,6 +6,6 @@
 - **To [[l/_lift|lift]] [[s/_someone|someone]] up to be [[f/_flogged|flogged]].**
 - **To be [[l/_lifted|lifted]] up.**
 - **To [[e/_extract|extract]] ([[c/_code|code]]) from a [[l/_loop|loop]] [[c/_construct|construct]] as [[p/_part|part]] of [[o/_optimization|optimization]].**
-- **To steal, to [[r/_rob|rob]].**
+- **To [[s/_steal|steal]], to [[r/_rob|rob]].**
 ---
 ---

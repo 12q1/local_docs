@@ -4,9 +4,9 @@
 - **The worth of [[s/_something|something]]; value.**
 - **The [[p/_proportional|proportional]] [[r/_relationship|relationship]] [[b/_between|between]] [[o/_one|one]] [[a/_amount|amount]], value [[e/_etc|etc]]. and [[a/_another|another]].**
 	- _Example: At the height of his powers, he was producing pictures at the rate of four a year._
-- **Speed.**
+- **[[s/_speed|Speed]].**
 	- _Example: The car was speeding down here at a hell of a rate._
-- **The [[r/_relative|relative]] speed of [[c/_change|change]] or [[p/_progress|progress]].**
+- **The [[r/_relative|relative]] [[s/_speed|speed]] of [[c/_change|change]] or [[p/_progress|progress]].**
 	- _Example: The rate of production at the factory is skyrocketing._
 - **The [[p/_price|price]] of (an [[i/_individual|individual]]) thing; [[c/_cost|cost]].**
 	- _Example: He asked quite a rate to take me to the airport._
@@ -40,7 +40,7 @@
 	- _Example: The customers don't rate the new burgers._
 - **To [[h/_have|have]] [[p/_position|position]] (in a [[c/_certain|certain]] [[c/_class|class]]).**
 	- _Example: He rates as the best cyclist in the country._
-- **To [[h/_have|have]] value or standing.**
+- **To [[h/_have|have]] value or [[s/_standing|standing]].**
 	- _Example: This last performance of hers didn't rate very high with the judges._
 - **To [[r/_ratify|ratify]].**
 - **To [[a/_ascertain|ascertain]] the [[e/_exact|exact]] [[r/_rate|rate]] of the [[g/_gain|gain]] or [[l/_loss|loss]] of (a [[c/_chronometer|chronometer]]) as [[c/_compared|compared]] with true time.**

@@ -1,7 +1,7 @@
 # Offline
 ---
 #verb
-- **To take (a [[s/_system|system]], [[e/_etc|etc]].) [[o/_offline|offline]]; to [[d/_demote|demote]] from an [[a/_active|active]] or [[o/_online|online]] state.**
+- **To take (a [[s/_system|system]], [[e/_etc|etc]].) [[o/_offline|offline]]; to [[d/_demote|demote]] from an [[a/_active|active]] or [[o/_online|online]] [[s/_state|state]].**
 ---
 #adjective
 - **Of a [[s/_system|system]], [[c/_currently|currently]] not [[c/_connected|connected]] ([[g/_generally|generally]] [[e/_electrically|electrically]]) to a [[l/_larger|larger]] [[n/_network|network]]. For [[e/_example|example]], a [[p/_power|power]] [[p/_plant|plant]] which is not [[c/_connected|connected]] to the [[g/_grid|grid]], or a [[c/_computer|computer]] which is not [[c/_connected|connected]] to the [[i/_internet|Internet]] or to [[a/_any|any]] [[o/_other|other]] [[c/_communications|communications]] [[s/_service|service]].**

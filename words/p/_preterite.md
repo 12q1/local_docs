@@ -1,7 +1,7 @@
 # Preterite
 ---
 #noun
-- **([[g/_grammar|grammar]]) The [[p/_preterite|preterite]] tense, [[s/_simple|simple]] [[p/_past|past]] tense: the [[g/_grammatical|grammatical]] tense that [[d/_determines|determines]] the specific [[i/_initiation|initiation]] or termination of an [[a/_action|action]] in the [[p/_past|past]].**
+- **([[g/_grammar|grammar]]) The [[p/_preterite|preterite]] tense, [[s/_simple|simple]] [[p/_past|past]] tense: the [[g/_grammatical|grammatical]] tense that [[d/_determines|determines]] the [[s/_specific|specific]] [[i/_initiation|initiation]] or termination of an [[a/_action|action]] in the [[p/_past|past]].**
 ---
 #adjective
 - **([[g/_grammar|grammar]], of a tense) [[s/_showing|showing]] an [[a/_action|action]] at a [[d/_determined|determined]] [[m/_moment|moment]] in the [[p/_past|past]].**

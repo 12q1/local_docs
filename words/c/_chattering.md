@@ -11,6 +11,6 @@
 - [[c/_clatter|clatter]], [[k/_knock|knock]], [[p/_pink|pink]], [[c/_chat|chat]], [[n/_natter|natter]]
 #noun
 - **A [[n/_noise|noise]] that [[c/_chatters|chatters]].**
-- **[[o/_output|Output]] [[f/_fluctuation|fluctuation]] [[b/_before|before]] [[r/_reaching|reaching]] a stable [[c/_condition|condition]].**
+- **[[o/_output|Output]] [[f/_fluctuation|fluctuation]] [[b/_before|before]] [[r/_reaching|reaching]] a [[s/_stable|stable]] [[c/_condition|condition]].**
 ---
 ---

@@ -5,7 +5,7 @@
 	- _Example: I overdid the sweets during the holidays and put on some weight._
 - **To [[c/_cook|cook]] for too [[l/_long|long]].**
 	- _Example: to overdo the meat_
-- **To [[g/_give|give]] ([[s/_someone|someone]] or [[s/_something|something]]) too [[m/_much|much]] work; to [[r/_require|require]] too [[m/_much|much]] [[e/_effort|effort]] or strength of ([[s/_someone|someone]]); to use up too [[m/_much|much]] of ([[s/_something|something]]).**
+- **To [[g/_give|give]] ([[s/_someone|someone]] or [[s/_something|something]]) too [[m/_much|much]] work; to [[r/_require|require]] too [[m/_much|much]] [[e/_effort|effort]] or [[s/_strength|strength]] of ([[s/_someone|someone]]); to use up too [[m/_much|much]] of ([[s/_something|something]]).**
 	- _Example: to overdo one’s strength_
 - **To [[d/_do|do]] [[m/_more|more]] than ([[s/_someone|someone]]); to [[d/_do|do]] ([[s/_something|something]]) to a [[g/_greater|greater]] [[e/_extent|extent]].**
 ---

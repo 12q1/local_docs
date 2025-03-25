@@ -1,7 +1,7 @@
 # Pointless
 ---
 #adjective
-- **[[h/_having|Having]] [[n/_no|no]] [[p/_point|point]] or [[s/_sharp|sharp]] tip; terminating squarely or in a [[r/_rounded|rounded]] [[e/_end|end]].**
+- **[[h/_having|Having]] [[n/_no|no]] [[p/_point|point]] or [[s/_sharp|sharp]] tip; terminating [[s/_squarely|squarely]] or in a [[r/_rounded|rounded]] [[e/_end|end]].**
 	- _Example: a pointless knife_
 - **[[h/_having|Having]] [[n/_no|no]] [[p/_prominent|prominent]] or [[i/_important|important]] [[f/_feature|feature]], as of an [[a/_argument|argument]], [[d/_discourse|discourse]], [[e/_etc|etc]].**
 	- _Example: a pointless remark_

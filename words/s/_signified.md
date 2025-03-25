@@ -1,7 +1,7 @@
 # Signified
 ---
 #noun
-- **(structuralism) The [[c/_concept|concept]] or [[i/_idea|idea]] [[e/_evoked|evoked]] by a [[s/_sign|sign]].**
+- **([[s/_structuralism|structuralism]]) The [[c/_concept|concept]] or [[i/_idea|idea]] [[e/_evoked|evoked]] by a [[s/_sign|sign]].**
 ---
 #verb
 - **To [[c/_create|create]] a [[s/_sign|sign]] [[o/_out|out]] of [[s/_something|something]].**

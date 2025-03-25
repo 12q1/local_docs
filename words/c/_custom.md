@@ -18,9 +18,9 @@
 - **To [[h/_have|have]] a [[c/_custom|custom]].**
 ---
 #adjective
-- **[[c/_created|Created]] under [[p/_particular|particular]] specifications, specially to [[f/_fit|fit]] [[o/_one|one]]'[[s/_s|s]] [[n/_needs|needs]]: specialized, unique, [[c/_custom|custom]]-[[m/_made|made]]**
+- **[[c/_created|Created]] under [[p/_particular|particular]] [[s/_specifications|specifications]], [[s/_specially|specially]] to [[f/_fit|fit]] [[o/_one|one]]'[[s/_s|s]] [[n/_needs|needs]]: [[s/_specialized|specialized]], unique, [[c/_custom|custom]]-[[m/_made|made]]**
 	- _Example: My feet are very large, so I need custom shoes._
-- **[[o/_own|Own]], [[p/_personal|personal]], not standard or [[p/_premade|premade]]**
+- **[[o/_own|Own]], [[p/_personal|personal]], not [[s/_standard|standard]] or [[p/_premade|premade]]**
 	- _Example: We can embroider a wide range of ready designs or a custom logo._
 - **[[a/_accustomed|Accustomed]]; usual**
 ---

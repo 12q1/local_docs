@@ -1,9 +1,9 @@
 # Rumbles
 ---
 #noun
-- **A [[l/_low|low]], [[h/_heavy|heavy]], [[c/_continuous|continuous]] [[s/_sound|sound]], such as that of thunder or a [[h/_hungry|hungry]] stomach.**
+- **A [[l/_low|low]], [[h/_heavy|heavy]], [[c/_continuous|continuous]] [[s/_sound|sound]], such as that of thunder or a [[h/_hungry|hungry]] [[s/_stomach|stomach]].**
 	- _Example: The rumble from passing trucks made it hard to sleep at night._
-- **A street [[f/_fight|fight]] or [[b/_brawl|brawl]].**
+- **A [[s/_street|street]] [[f/_fight|fight]] or [[b/_brawl|brawl]].**
 - **A [[r/_rotating|rotating]] [[c/_cask|cask]] or [[b/_box|box]] in which [[s/_small|small]] [[a/_articles|articles]] are [[s/_smoothed|smoothed]] or [[p/_polished|polished]] by [[f/_friction|friction]] [[a/_against|against]] [[e/_each|each]] [[o/_other|other]].**
 - **A [[s/_seat|seat]] for [[s/_servants|servants]], [[b/_behind|behind]] the [[b/_body|body]] of a [[c/_carriage|carriage]].**
 ---

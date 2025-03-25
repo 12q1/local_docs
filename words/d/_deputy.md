@@ -7,7 +7,7 @@
 - **([[f/_france|France]]): A [[m/_member|member]] of the [[c/_chamber|Chamber]] of [[d/_deputies|Deputies]], [[f/_formerly|formerly]] [[c/_called|called]] [[c/_corps|Corps]] [[l/_l|L]]égislatif**
 - **([[i/_ireland|Ireland]]): a [[m/_member|member]] of [[d/_d|D]]á[[i/_il|il]] Éireann, or the title of a [[m/_member|member]] of [[d/_d|D]]á[[i/_il|il]] Éireann. ([[n/_normally|Normally]] [[c/_capitalised|capitalised]] in [[b/_both|both]] [[c/_cases|cases]])**
 	- _Example: At today's meeting, Deputy Ryan will speak on local issues._
-- **(United States): a [[l/_law|law]] [[e/_enforcement|enforcement]] [[o/_officer|officer]] who works for the [[c/_county|county]] [[s/_sheriff|sheriff]]'[[s/_s|s]] [[o/_office|office]]; a [[d/_deputy|deputy]] [[s/_sheriff|sheriff]] or [[s/_sheriff|sheriff]]'[[s/_s|s]] [[d/_deputy|deputy]]; the [[e/_entry|entry]] [[l/_level|level]] [[r/_rank|rank]] in such an [[a/_agency|agency]]**
+- **(United [[s/_states|States]]): a [[l/_law|law]] [[e/_enforcement|enforcement]] [[o/_officer|officer]] who works for the [[c/_county|county]] [[s/_sheriff|sheriff]]'[[s/_s|s]] [[o/_office|office]]; a [[d/_deputy|deputy]] [[s/_sheriff|sheriff]] or [[s/_sheriff|sheriff]]'[[s/_s|s]] [[d/_deputy|deputy]]; the [[e/_entry|entry]] [[l/_level|level]] [[r/_rank|rank]] in such an [[a/_agency|agency]]**
 	- _Example: The sheriff's deputies took the suspect into custody._
 ---
 ### Synonyms

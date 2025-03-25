@@ -7,6 +7,6 @@
 - **To [[b/_behave|behave]] in a [[h/_hoydenish|hoydenish]] [[m/_manner|manner]].**
 ---
 #adjective
-- **[[l/_like|Like]] a [[h/_hoyden|hoyden]]: [[h/_high|high]]-spirited and [[b/_boisterous|boisterous]]; [[s/_saucy|saucy]], tomboyish.**
+- **[[l/_like|Like]] a [[h/_hoyden|hoyden]]: [[h/_high|high]]-[[s/_spirited|spirited]] and [[b/_boisterous|boisterous]]; [[s/_saucy|saucy]], tomboyish.**
 ---
 ---

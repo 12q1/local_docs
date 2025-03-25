@@ -7,6 +7,6 @@
 - **To [[l/_lull|lull]] to [[s/_sleep|sleep]] by [[s/_saying|saying]] "[[h/_hushaby|hushaby]]".**
 ---
 #interjection
-- **[[h/_hush|Hush]] and be still. A [[l/_lull|lull]] to [[s/_sleep|sleep]].**
+- **[[h/_hush|Hush]] and be [[s/_still|still]]. A [[l/_lull|lull]] to [[s/_sleep|sleep]].**
 ---
 ---

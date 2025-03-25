@@ -8,7 +8,7 @@
 - **Very [[i/_important|important]]; [[n/_noteworthy|noteworthy]]: [[h/_having|having]] [[i/_importance|importance]] or [[s/_significance|significance]] in [[h/_history|history]].**
 	- _Example: A historic opportunity_
 - **[[o/_old|Old]]-[[f/_fashioned|fashioned]], untouched by [[m/_modernity|modernity]].**
-- **([[g/_grammar|grammar]]) Various [[g/_grammatical|grammatical]] tenses and [[m/_moods|moods]] specially used in [[r/_retelling|retelling]] [[p/_past|past]] [[e/_events|events]].**
+- **([[g/_grammar|grammar]]) Various [[g/_grammatical|grammatical]] tenses and [[m/_moods|moods]] [[s/_specially|specially]] used in [[r/_retelling|retelling]] [[p/_past|past]] [[e/_events|events]].**
 	- _Example: The historic tenses include the imperfect, the pluperfect, and the future perfect._
 ---
 ### Synonyms

@@ -8,7 +8,7 @@
 - **[[o/_open|Open]] to a [[f/_free|free]] [[c/_current|current]] of [[a/_air|air]]; [[e/_exposed|exposed]] to the [[a/_air|air]]; [[b/_breezy|breezy]].**
 	- _Example: an airy situation_
 - **[[r/_resembling|Resembling]] [[a/_air|air]]; thin; unsubstantial; not [[m/_material|material]]; [[a/_airlike|airlike]].**
-- **[[r/_relating|Relating]] to the spirit or [[s/_soul|soul]]; [[d/_delicate|delicate]]; [[g/_graceful|graceful]].**
+- **[[r/_relating|Relating]] to the [[s/_spirit|spirit]] or [[s/_soul|soul]]; [[d/_delicate|delicate]]; [[g/_graceful|graceful]].**
 	- _Example: airy music_
 - **Not [[b/_based|based]] on [[r/_reality|reality]]; [[h/_having|having]] [[n/_no|no]] [[s/_solid|solid]] [[f/_foundation|foundation]]**
 - **[[l/_light|Light]]-[[h/_hearted|hearted]]; vivacious**

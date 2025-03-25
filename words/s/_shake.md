@@ -7,13 +7,13 @@
 - **A [[b/_beverage|beverage]] [[m/_made|made]] by [[a/_adding|adding]] [[i/_ice|ice]] [[c/_cream|cream]] to a (usually [[c/_carbonated|carbonated]]) [[d/_drink|drink]]; a [[f/_float|float]].**
 - **[[s/_shake|Shake]] [[c/_cannabis|cannabis]], [[s/_small|small]], [[l/_leafy|leafy]] [[f/_fragments|fragments]] of [[c/_cannabis|cannabis]] that [[g/_gather|gather]] at the [[b/_bottom|bottom]] of a [[b/_bag|bag]] of [[m/_marijuana|marijuana]].**
 - **([[b/_building|building]] [[m/_material|material]]) A thin [[s/_shingle|shingle]].**
-- **A [[c/_crack|crack]] or split [[b/_between|between]] the [[g/_growth|growth]] [[r/_rings|rings]] in wood.**
+- **A [[c/_crack|crack]] or [[s/_split|split]] [[b/_between|between]] the [[g/_growth|growth]] [[r/_rings|rings]] in wood.**
 - **A [[f/_fissure|fissure]] in [[r/_rock|rock]] or [[e/_earth|earth]].**
-- **A [[b/_basic|basic]] wooden [[s/_shingle|shingle]] [[m/_made|made]] from split [[l/_logs|logs]], traditionally used for [[r/_roofing|roofing]] [[e/_etc|etc]].**
+- **A [[b/_basic|basic]] wooden [[s/_shingle|shingle]] [[m/_made|made]] from [[s/_split|split]] [[l/_logs|logs]], traditionally used for [[r/_roofing|roofing]] [[e/_etc|etc]].**
 - **[[i/_instant|Instant]], [[s/_second|second]]. ([[e/_especially|Especially]] in two [[s/_shakes|shakes]].)**
-- **[[o/_one|One]] of the staves of a [[h/_hogshead|hogshead]] or [[b/_barrel|barrel]] taken [[a/_apart|apart]].**
-- **A [[r/_rapid|rapid]] [[a/_alternation|alternation]] of a [[p/_principal|principal]] tone with [[a/_another|another]] [[r/_represented|represented]] on the [[n/_next|next]] [[d/_degree|degree]] of the staff [[a/_above|above]] or [[b/_below|below]] it; a trill.**
-- **A [[s/_shook|shook]] of staves and [[h/_headings|headings]].**
+- **[[o/_one|One]] of the [[s/_staves|staves]] of a [[h/_hogshead|hogshead]] or [[b/_barrel|barrel]] taken [[a/_apart|apart]].**
+- **A [[r/_rapid|rapid]] [[a/_alternation|alternation]] of a [[p/_principal|principal]] tone with [[a/_another|another]] [[r/_represented|represented]] on the [[n/_next|next]] [[d/_degree|degree]] of the [[s/_staff|staff]] [[a/_above|above]] or [[b/_below|below]] it; a trill.**
+- **A [[s/_shook|shook]] of [[s/_staves|staves]] and [[h/_headings|headings]].**
 - **The [[r/_redshank|redshank]], [[s/_so|so]] [[c/_called|called]] from the [[n/_nodding|nodding]] of [[i/_its|its]] [[h/_head|head]] while on the [[g/_ground|ground]].**
 ---
 #verb

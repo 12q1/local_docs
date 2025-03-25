@@ -1,7 +1,7 @@
 # Sobriety
 ---
 #noun
-- **The [[q/_quality|quality]] or state of [[b/_being|being]] [[s/_sober|sober]].**
+- **The [[q/_quality|quality]] or [[s/_state|state]] of [[b/_being|being]] [[s/_sober|sober]].**
 - **[[s/_soundness|Soundness]] of [[j/_judgement|judgement]].**
 ---
 ### Synonyms

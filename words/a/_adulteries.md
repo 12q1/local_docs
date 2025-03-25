@@ -1,7 +1,7 @@
 # Adulteries
 ---
 #noun
-- **[[s/_sexual|Sexual]] [[i/_intercourse|intercourse]] by a [[m/_married|married]] [[p/_person|person]] with [[s/_someone|someone]] [[o/_other|other]] than their spouse.**
+- **[[s/_sexual|Sexual]] [[i/_intercourse|intercourse]] by a [[m/_married|married]] [[p/_person|person]] with [[s/_someone|someone]] [[o/_other|other]] than their [[s/_spouse|spouse]].**
 	- _Example: She engaged in adultery because her spouse has a low libido, while hers is very high._
 - **[[l/_lewdness|Lewdness]] or unchastity of thought as well as [[a/_act|act]], as [[f/_forbidden|forbidden]] by the [[s/_seventh|seventh]] [[c/_commandment|commandment]].**
 - **[[f/_faithlessness|Faithlessness]] in [[r/_religion|religion]].**

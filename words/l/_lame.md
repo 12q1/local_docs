@@ -1,7 +1,7 @@
 # Lame
 ---
 #noun
-- **A stupid or undesirable [[p/_person|person]].**
+- **A [[s/_stupid|stupid]] or undesirable [[p/_person|person]].**
 ---
 #verb
 - **To [[c/_cause|cause]] (a [[p/_person|person]] or [[a/_animal|animal]]) to [[b/_become|become]] [[l/_lame|lame]].**

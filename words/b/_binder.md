@@ -6,7 +6,7 @@
 - **[[s/_something|Something]] that is used to [[b/_bind|bind]] things together, [[o/_often|often]] [[r/_referring|referring]] to the [[m/_mechanism|mechanism]] that [[a/_accomplishes|accomplishes]] this for a [[b/_book|book]].**
 - **A [[s/_software|software]] [[m/_mechanism|mechanism]] that [[p/_performs|performs]] [[b/_binding|binding]].**
 - **A [[d/_dossier|dossier]].**
-- **A [[m/_machine|machine]] used in [[h/_harvesting|harvesting]] that ties [[c/_cut|cut]] stalks of [[g/_grain|grain]] [[i/_into|into]] a [[b/_bundle|bundle]].**
+- **A [[m/_machine|machine]] used in [[h/_harvesting|harvesting]] that ties [[c/_cut|cut]] [[s/_stalks|stalks]] of [[g/_grain|grain]] [[i/_into|into]] a [[b/_bundle|bundle]].**
 - **A [[c/_chemical|chemical]] or [[o/_other|other]] substance that [[c/_causes|causes]] two [[o/_other|other]] substances to [[f/_form|form]] [[i/_into|into]] [[o/_one|one]].**
 - **A [[d/_down|down]] [[p/_payment|payment]] on a [[p/_piece|piece]] of [[r/_real|real]] [[p/_property|property]] that [[s/_secures|secures]] the [[p/_payor|payor]] the [[r/_right|right]] to [[p/_purchase|purchase]] the [[p/_property|property]] from the [[p/_payee|payee]] upon an [[a/_agreement|agreement]] of terms.**
 - **([[c/_chiefly|chiefly]] [[m/_minnesota|Minnesota]]) A [[r/_rubber|rubber]] [[b/_band|band]].**

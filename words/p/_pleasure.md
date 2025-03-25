@@ -1,7 +1,7 @@
 # Pleasure
 ---
 #noun
-- **A state of [[b/_being|being]] [[p/_pleased|pleased]] or [[c/_contented|contented]]; [[g/_gratification|gratification]].**
+- **A [[s/_state|state]] of [[b/_being|being]] [[p/_pleased|pleased]] or [[c/_contented|contented]]; [[g/_gratification|gratification]].**
 	- _Example: He remembered with pleasure his home and family._
 - **A [[p/_person|person]], thing or [[a/_action|action]] that [[c/_causes|causes]] [[e/_enjoyment|enjoyment]].**
 	- _Example: Having a good night's sleep is one of life's little pleasures._

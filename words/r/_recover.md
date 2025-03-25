@@ -3,14 +3,14 @@
 #noun
 - **[[r/_recovery|Recovery]].**
 - **A [[p/_position|position]] of [[h/_holding|holding]] a [[f/_firearm|firearm]] [[d/_during|during]] [[e/_exercises|exercises]], whereby the [[l/_lock|lock]] is at [[s/_shoulder|shoulder]] [[h/_height|height]] and the [[s/_sling|sling]] [[f/_facing|facing]] [[o/_out|out]].**
-- **The [[f/_forward|forward]] [[m/_movement|movement]] in [[r/_rowing|rowing]], [[a/_after|after]] [[o/_one|one]] stroke to take [[a/_another|another]] ([[r/_recovery|recovery]])**
+- **The [[f/_forward|forward]] [[m/_movement|movement]] in [[r/_rowing|rowing]], [[a/_after|after]] [[o/_one|one]] [[s/_stroke|stroke]] to take [[a/_another|another]] ([[r/_recovery|recovery]])**
 ---
 #verb
 - **To [[g/_get|get]] [[b/_back|back]], to [[r/_regain|regain]] (a [[p/_physical|physical]] thing; in [[a/_astronomy|astronomy]] and [[n/_navigation|navigation]], [[s/_sight|sight]] of a thing or a [[s/_signal|signal]]).**
 	- _Example: After days of inquiries, he finally recovered his lost wallet._
 - **To [[s/_salvage|salvage]], to [[e/_extricate|extricate]], to [[r/_rescue|rescue]] (a thing or [[p/_person|person]])**
 	- _Example: They recovered three of the explorers very much alive, then another, wracked with severe hypothermia, who was taken to hospital._
-- **To [[r/_replenish|replenish]] to, [[r/_resume|resume]] (a [[g/_good|good]] state of [[m/_mind|mind]] or [[b/_body|body]]).**
+- **To [[r/_replenish|replenish]] to, [[r/_resume|resume]] (a [[g/_good|good]] [[s/_state|state]] of [[m/_mind|mind]] or [[b/_body|body]]).**
 	- _Example: At the top of the hill I asked to stop for a few minutes to recover my strength._
 - **To [[o/_obtain|obtain]] a [[p/_positive|positive]] [[j/_judgement|judgement]]; to win in a [[l/_lawsuit|lawsuit]].**
 	- _Example: The plaintiff recovered in his suit, being awarded declaratory relief and a clearing of his name._

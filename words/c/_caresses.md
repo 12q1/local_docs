@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_act|act]] of [[e/_endearment|endearment]]; [[a/_any|any]] [[a/_act|act]] or [[e/_expression|expression]] of [[a/_affection|affection]]; an [[e/_embracing|embracing]], or touching, with tenderness.**
-- **A [[g/_gentle|gentle]] stroking or [[r/_rubbing|rubbing]].**
+- **A [[g/_gentle|gentle]] [[s/_stroking|stroking]] or [[r/_rubbing|rubbing]].**
 ---
 #verb
 - **To touch or [[k/_kiss|kiss]] [[l/_lovingly|lovingly]]; to [[f/_fondle|fondle]].**

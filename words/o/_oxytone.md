@@ -1,9 +1,9 @@
 # Oxytone
 ---
 #noun
-- **A word with the stress or an [[a/_acute|acute]] [[a/_accent|accent]] on the [[l/_last|last]] [[s/_syllable|syllable]].**
+- **A word with the [[s/_stress|stress]] or an [[a/_acute|acute]] [[a/_accent|accent]] on the [[l/_last|last]] [[s/_syllable|syllable]].**
 ---
 #adjective
-- **(of a word) [[h/_having|Having]] the stress or an [[a/_acute|acute]] [[a/_accent|accent]] on the [[l/_last|last]] [[s/_syllable|syllable]].**
+- **(of a word) [[h/_having|Having]] the [[s/_stress|stress]] or an [[a/_acute|acute]] [[a/_accent|accent]] on the [[l/_last|last]] [[s/_syllable|syllable]].**
 ---
 ---

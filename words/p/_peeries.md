@@ -4,6 +4,6 @@
 - **A [[s/_shetland|Shetland]] [[s/_sheepdog|sheepdog]].**
 ---
 #noun
-- **Spinning top**
+- **[[s/_spinning|Spinning]] top**
 ---
 ---

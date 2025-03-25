@@ -1,7 +1,7 @@
 # Narrowness
 ---
 #noun
-- **The state of [[b/_being|being]] [[n/_narrow|narrow]]**
+- **The [[s/_state|state]] of [[b/_being|being]] [[n/_narrow|narrow]]**
 - **A [[c/_constriction|constriction]]**
 ---
 ### Antonyms

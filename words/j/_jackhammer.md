@@ -11,6 +11,6 @@
 - **To [[f/_form|form]] ([[s/_something|something]]) using a [[j/_jackhammer|jackhammer]].**
 - **To [[m/_move|move]] [[l/_like|like]] a [[j/_jackhammer|jackhammer]].**
 - **To [[m/_move|move]] ([[s/_something|something]]) [[l/_like|like]] a [[j/_jackhammer|jackhammer]].**
-- **To strike ([[s/_something|something]]) [[r/_repeatedly|repeatedly]] with [[f/_force|force]], to [[p/_pound|pound]].**
+- **To [[s/_strike|strike]] ([[s/_something|something]]) [[r/_repeatedly|repeatedly]] with [[f/_force|force]], to [[p/_pound|pound]].**
 ---
 ---

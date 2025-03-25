@@ -9,7 +9,7 @@
 #adjective
 - **[[e/_easily|Easily]] [[d/_damaged|damaged]] or [[r/_requiring|requiring]] [[c/_careful|careful]] [[h/_handling|handling]].**
 	- _Example: The negotiations were very delicate._
-- **[[c/_characterized|Characterized]] by a [[f/_fine|fine]] structure or thin [[l/_lines|lines]].**
+- **[[c/_characterized|Characterized]] by a [[f/_fine|fine]] [[s/_structure|structure]] or thin [[l/_lines|lines]].**
 	- _Example: Her face was delicate._
 - **[[i/_intended|Intended]] for use with [[f/_fragile|fragile]] [[i/_items|items]].**
 	- _Example: Set the washing machine to the delicate cycle._

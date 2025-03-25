@@ -16,9 +16,9 @@
 	- _Example: That explanation doesn’t jibe with the facts._
 ---
 #noun
-- **[[a/_alternative|Alternative]] spelling of [[g/_gybe|gybe]]**
+- **[[a/_alternative|Alternative]] [[s/_spelling|spelling]] of [[g/_gybe|gybe]]**
 ---
 #verb
-- **[[a/_alternative|Alternative]] spelling of [[g/_gybe|gybe]]**
+- **[[a/_alternative|Alternative]] [[s/_spelling|spelling]] of [[g/_gybe|gybe]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Guttered
 ---
 #verb
-- **To [[f/_flow|flow]] or stream; to [[f/_form|form]] [[g/_gutters|gutters]].**
+- **To [[f/_flow|flow]] or [[s/_stream|stream]]; to [[f/_form|form]] [[g/_gutters|gutters]].**
 - **(of a [[c/_candle|candle]]) To [[m/_melt|melt]] [[a/_away|away]] by [[h/_having|having]] the [[m/_molten|molten]] wax [[r/_run|run]] [[d/_down|down]] [[a/_along|along]] the [[s/_side|side]] of the [[c/_candle|candle]].**
 - **(of a [[s/_small|small]] [[f/_flame|flame]]) To [[f/_flicker|flicker]] as [[i/_if|if]] [[a/_about|about]] to be [[e/_extinguished|extinguished]].**
 - **To [[s/_send|send]] (a [[b/_bowling|bowling]] [[b/_ball|ball]]) [[i/_into|into]] the [[g/_gutter|gutter]], not [[h/_hitting|hitting]] [[a/_any|any]] [[p/_pins|pins]].**

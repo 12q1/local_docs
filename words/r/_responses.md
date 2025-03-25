@@ -8,7 +8,7 @@
 - **([[l/_liturgics|liturgics]]) A versicle or [[a/_anthem|anthem]] [[s/_said|said]] or sung [[d/_during|during]] or [[a/_after|after]] a [[l/_lection|lection]]; a [[r/_respond|respond]] or [[r/_responsory|responsory]].**
 - **A [[r/_reply|reply]] to an [[o/_objection|objection]] in [[f/_formal|formal]] [[d/_disputation|disputation]].**
 - **An [[o/_online|online]] [[a/_advertising|advertising]] [[p/_performance|performance]] [[m/_metric|metric]] [[r/_representing|representing]] [[o/_one|one]] [[c/_click|click]]-through from an [[o/_online|online]] [[a/_ad|ad]] to [[i/_its|its]] [[d/_destination|destination]] URL.**
-- **A [[r/_reaction|reaction]] to a stimulus or [[p/_provocation|provocation]].**
+- **A [[r/_reaction|reaction]] to a [[s/_stimulus|stimulus]] or [[p/_provocation|provocation]].**
 ---
 ### Synonyms
 - [[r/_reaction|reaction]]

@@ -7,7 +7,7 @@
 - **([[a/_also|also]] with [[c/_capital|capital]] [[i/_initial|initial]]) The [[f/_festival|festival]] [[c/_celebrating|celebrating]] the [[b/_birth|birth]] of [[j/_jesus|Jesus]], [[c/_christmas|Christmas]] [[d/_day|Day]]; the [[f/_festival|festival]] [[c/_celebrating|celebrating]] the [[b/_birth|birth]] of the Virgin [[m/_mary|Mary]] or the [[b/_birth|birth]] of [[s/_saint|Saint]] [[j/_john|John]] the [[b/_baptist|Baptist]].**
 - **([[a/_also|also]] with [[c/_capital|capital]] [[i/_initial|initial]]) A [[s/_set|set]] of [[f/_figurines|figurines]] used to [[c/_create|create]] a [[n/_nativity|nativity]] [[s/_scene|scene]].**
 - **[[o/_origin|Origin]]; [[f/_founding|founding]].**
-- **[[p/_place|Place]] of [[o/_origin|origin]]; [[p/_place|place]] to which a species is [[n/_native|native]].**
+- **[[p/_place|Place]] of [[o/_origin|origin]]; [[p/_place|place]] to which a [[s/_species|species]] is [[n/_native|native]].**
 - **The [[q/_quality|quality]] of [[b/_being|being]] [[n/_native|native]] or [[i/_innate|innate]].**
 ---
 ---

@@ -5,7 +5,7 @@
 	- _Example: Use sheers to maximize natural light._
 ---
 #noun
-- **The [[c/_curve|curve]] of the [[m/_main|main]] [[d/_deck|deck]] or [[g/_gunwale|gunwale]] from [[b/_bow|bow]] to stern.**
+- **The [[c/_curve|curve]] of the [[m/_main|main]] [[d/_deck|deck]] or [[g/_gunwale|gunwale]] from [[b/_bow|bow]] to [[s/_stern|stern]].**
 - **An [[a/_abrupt|abrupt]] swerve from the [[c/_course|course]] of a [[s/_ship|ship]].**
 ---
 #verb

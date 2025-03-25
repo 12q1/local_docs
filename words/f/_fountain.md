@@ -1,9 +1,9 @@
 # Fountain
 ---
 #noun
-- **A [[n/_natural|natural]] [[s/_source|source]] of water; a spring.**
-- **An [[a/_artificial|artificial]], usually [[o/_ornamental|ornamental]], water [[f/_feature|feature]] (usually in a [[g/_garden|garden]] or [[p/_public|public]] [[p/_place|place]]) [[c/_consisting|consisting]] of [[o/_one|one]] or [[m/_more|more]] streams of water [[o/_originating|originating]] from a statue or [[o/_other|other]] structure.**
-- **The structure from which an [[a/_artificial|artificial]] [[f/_fountain|fountain]] [[c/_can|can]] [[i/_issue|issue]].**
+- **A [[n/_natural|natural]] [[s/_source|source]] of water; a [[s/_spring|spring]].**
+- **An [[a/_artificial|artificial]], usually [[o/_ornamental|ornamental]], water [[f/_feature|feature]] (usually in a [[g/_garden|garden]] or [[p/_public|public]] [[p/_place|place]]) [[c/_consisting|consisting]] of [[o/_one|one]] or [[m/_more|more]] [[s/_streams|streams]] of water [[o/_originating|originating]] from a [[s/_statue|statue]] or [[o/_other|other]] [[s/_structure|structure]].**
+- **The [[s/_structure|structure]] from which an [[a/_artificial|artificial]] [[f/_fountain|fountain]] [[c/_can|can]] [[i/_issue|issue]].**
 - **A [[r/_reservoir|reservoir]] from which [[l/_liquid|liquid]] [[c/_can|can]] be [[d/_drawn|drawn]].**
 - **A [[s/_source|source]] or [[o/_origin|origin]] of a [[f/_flow|flow]] ([[e/_e|e]].[[g/_g|g]]., of [[f/_favors|favors]] or [[k/_knowledge|knowledge]]).**
 - **A [[r/_roundel|roundel]] [[b/_barry|barry]] wavy [[a/_argent|argent]] and [[a/_azure|azure]].**

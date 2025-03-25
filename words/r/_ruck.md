@@ -7,7 +7,7 @@
 - **The [[c/_common|common]] [[m/_mass|mass]] of [[p/_people|people]] or things; the [[o/_ordinary|ordinary]] [[r/_ranks|ranks]].**
 ---
 #verb
-- **To [[a/_act|act]] as a [[r/_ruck|ruck]] in a stoppage in [[a/_australian|Australian]] [[r/_rules|rules]] [[f/_football|football]].**
+- **To [[a/_act|act]] as a [[r/_ruck|ruck]] in a [[s/_stoppage|stoppage]] in [[a/_australian|Australian]] [[r/_rules|rules]] [[f/_football|football]].**
 - **To [[c/_contest|contest]] the [[p/_possession|possession]] of the [[b/_ball|ball]] in a [[r/_ruck|ruck]].**
 ---
 ---

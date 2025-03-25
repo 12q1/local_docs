@@ -14,17 +14,17 @@
 	- _Example: Did dinosaurs lay their eggs in a nest?_
 - **To [[b/_bet|bet]] (that [[s/_something|something]] is or is not the [[c/_case|case]]).**
 	- _Example: I'll lay that he doesn't turn up on Monday._
-- **To [[d/_deposit|deposit]] (a stake) as a wager; to stake; to [[r/_risk|risk]].**
+- **To [[d/_deposit|deposit]] (a [[s/_stake|stake]]) as a wager; to [[s/_stake|stake]]; to [[r/_risk|risk]].**
 - **To [[h/_have|have]] [[s/_sex|sex]] with.**
 - **To take a [[p/_position|position]]; to [[c/_come|come]] or [[g/_go|go]].**
 	- _Example: to lay forward;  to lay aloft_
-- **To state; to [[a/_allege|allege]].**
+- **To [[s/_state|state]]; to [[a/_allege|allege]].**
 	- _Example: to lay the venue_
 - **To [[p/_point|point]]; to [[a/_aim|aim]].**
 	- _Example: to lay a gun_
-- **([[r/_ropemaking|ropemaking]]) To [[p/_put|put]] the strands of (a [[r/_rope|rope]], a [[c/_cable|cable]], [[e/_etc|etc]].) in their [[p/_proper|proper]] [[p/_places|places]] and twist or unite them.**
+- **([[r/_ropemaking|ropemaking]]) To [[p/_put|put]] the [[s/_strands|strands]] of (a [[r/_rope|rope]], a [[c/_cable|cable]], [[e/_etc|etc]].) in their [[p/_proper|proper]] [[p/_places|places]] and twist or unite them.**
 	- _Example: to lay a cable or rope_
-- **To [[p/_place|place]] and [[a/_arrange|arrange]] ([[p/_pages|pages]]) for a [[f/_form|form]] upon the [[i/_imposing|imposing]] stone.**
+- **To [[p/_place|place]] and [[a/_arrange|arrange]] ([[p/_pages|pages]]) for a [[f/_form|form]] upon the [[i/_imposing|imposing]] [[s/_stone|stone]].**
 - **To [[p/_place|place]] ([[n/_new|new]] type) [[p/_properly|properly]] in the [[c/_cases|cases]].**
 - **To [[a/_apply|apply]]; to [[p/_put|put]].**
 - **To [[i/_impose|impose]] (a [[b/_burden|burden]], [[p/_punishment|punishment]], [[c/_command|command]], tax, [[e/_etc|etc]].).**

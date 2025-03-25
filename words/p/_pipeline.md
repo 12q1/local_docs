@@ -7,10 +7,10 @@
 	- _Example: 3D images are rendered using the graphics pipeline._
 - **A [[s/_system|system]] or [[p/_process|process]] through which [[s/_something|something]] is [[c/_conducted|conducted]].**
 	- _Example: A new version of the software is in the pipeline, but has not been rolled out._
-- **The [[i/_inside|inside]] of a wave that a surfer is [[r/_riding|riding]], when the wave [[h/_has|has]] started [[c/_closing|closing]] [[o/_over|over]] it.**
+- **The [[i/_inside|inside]] of a wave that a surfer is [[r/_riding|riding]], when the wave [[h/_has|has]] [[s/_started|started]] [[c/_closing|closing]] [[o/_over|over]] it.**
 ---
 #verb
-- **To [[d/_design|design]] (a [[m/_microchip|microchip]] [[e/_etc|etc]].) [[s/_so|so]] that [[p/_processing|processing]] takes [[p/_place|place]] in [[e/_efficient|efficient]] stages, the [[o/_output|output]] of [[e/_each|each]] stage [[b/_being|being]] [[f/_fed|fed]] as [[i/_input|input]] to the [[n/_next|next]].**
+- **To [[d/_design|design]] (a [[m/_microchip|microchip]] [[e/_etc|etc]].) [[s/_so|so]] that [[p/_processing|processing]] takes [[p/_place|place]] in [[e/_efficient|efficient]] [[s/_stages|stages]], the [[o/_output|output]] of [[e/_each|each]] [[s/_stage|stage]] [[b/_being|being]] [[f/_fed|fed]] as [[i/_input|input]] to the [[n/_next|next]].**
 - **To [[c/_convey|convey]] [[s/_something|something]] by a [[s/_system|system]] of [[p/_pipes|pipes]]**
 - **To [[l/_lay|lay]] a [[s/_system|system]] of [[p/_pipes|pipes]] through [[s/_something|something]]**
 ---

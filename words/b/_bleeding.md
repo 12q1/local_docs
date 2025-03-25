@@ -5,9 +5,9 @@
 	- _Example: If her nose bleeds, try to use ice._
 - **To [[l/_let|let]] or [[d/_draw|draw]] [[b/_blood|blood]] from.**
 - **To take [[l/_large|large]] [[a/_amounts|amounts]] of [[m/_money|money]] from.**
-- **To steadily [[l/_lose|lose]] ([[s/_something|something]] vital).**
+- **To [[s/_steadily|steadily]] [[l/_lose|lose]] ([[s/_something|something]] vital).**
 	- _Example: The company was bleeding talent._
-- **(of an [[i/_ink|ink]] or [[d/_dye|dye]]) To spread from the [[i/_intended|intended]] [[l/_location|location]] and stain the surrounding [[c/_cloth|cloth]] or [[p/_paper|paper]].**
+- **(of an [[i/_ink|ink]] or [[d/_dye|dye]]) To [[s/_spread|spread]] from the [[i/_intended|intended]] [[l/_location|location]] and [[s/_stain|stain]] the surrounding [[c/_cloth|cloth]] or [[p/_paper|paper]].**
 	- _Example: Ink traps counteract bleeding._
 - **To [[r/_remove|remove]] [[a/_air|air]] [[b/_bubbles|bubbles]] from a [[p/_pipe|pipe]] [[c/_containing|containing]] [[o/_other|other]] [[f/_fluids|fluids]].**
 - **To [[b/_bleed|bleed]] on; to [[m/_make|make]] [[b/_bloody|bloody]].**

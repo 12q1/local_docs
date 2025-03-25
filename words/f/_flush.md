@@ -1,7 +1,7 @@
 # Flush
 ---
 #noun
-- **A [[g/_group|group]] of [[b/_birds|birds]] that [[h/_have|have]] suddenly started up from undergrowth, trees [[e/_etc|etc]].**
+- **A [[g/_group|group]] of [[b/_birds|birds]] that [[h/_have|have]] suddenly [[s/_started|started]] up from undergrowth, trees [[e/_etc|etc]].**
 ---
 #verb
 - **To [[c/_cause|cause]] to take [[f/_flight|flight]] from [[c/_concealment|concealment]].**

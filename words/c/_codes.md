@@ -3,7 +3,7 @@
 #noun
 - **A [[s/_short|short]] [[s/_symbol|symbol]], [[o/_often|often]] with [[l/_little|little]] [[r/_relation|relation]] to the [[i/_item|item]] it [[r/_represents|represents]].**
 	- _Example: This flavour of soup has been assigned the code WRT-9._
-- **A [[b/_body|body]] of [[l/_law|law]], [[s/_sanctioned|sanctioned]] by [[l/_legislation|legislation]], in which the [[r/_rules|rules]] of [[l/_law|law]] to be specifically [[a/_applied|applied]] by the [[c/_courts|courts]] are [[s/_set|set]] [[f/_forth|forth]] in [[s/_systematic|systematic]] [[f/_form|form]]; a [[c/_compilation|compilation]] of [[l/_laws|laws]] by [[p/_public|public]] [[a/_authority|authority]]; a [[d/_digest|digest]].**
+- **A [[b/_body|body]] of [[l/_law|law]], [[s/_sanctioned|sanctioned]] by [[l/_legislation|legislation]], in which the [[r/_rules|rules]] of [[l/_law|law]] to be [[s/_specifically|specifically]] [[a/_applied|applied]] by the [[c/_courts|courts]] are [[s/_set|set]] [[f/_forth|forth]] in [[s/_systematic|systematic]] [[f/_form|form]]; a [[c/_compilation|compilation]] of [[l/_laws|laws]] by [[p/_public|public]] [[a/_authority|authority]]; a [[d/_digest|digest]].**
 - **[[a/_any|Any]] [[s/_system|system]] of [[p/_principles|principles]], [[r/_rules|rules]] or [[r/_regulations|regulations]] [[r/_relating|relating]] to [[o/_one|one]] subject.**
 	- _Example: The medical code is a system of rules for the regulation of the professional conduct of physicians._
 - **A [[s/_set|set]] of [[r/_rules|rules]] for [[c/_converting|converting]] [[i/_information|information]] [[i/_into|into]] [[a/_another|another]] [[f/_form|form]] or [[r/_representation|representation]].**
@@ -13,7 +13,7 @@
 	- _Example: I wrote some code to reformat text documents._
 - **([[s/_scientific|scientific]] [[p/_programming|programming]]) A [[p/_program|program]].**
 - **A [[p/_particular|particular]] [[l/_lect|lect]] or [[l/_language|language]] variety.**
-- **An [[e/_emergency|emergency]] [[r/_requiring|requiring]] [[s/_situation|situation]]-trained [[m/_members|members]] of the staff.**
+- **An [[e/_emergency|emergency]] [[r/_requiring|requiring]] [[s/_situation|situation]]-trained [[m/_members|members]] of the [[s/_staff|staff]].**
 ---
 #verb
 - **To write [[s/_software|software]] [[p/_programs|programs]].**

@@ -1,7 +1,7 @@
 # Funking
 ---
 #verb
-- **To [[e/_emit|emit]] an [[o/_offensive|offensive]] [[s/_smell|smell]]; to stink.**
+- **To [[e/_emit|emit]] an [[o/_offensive|offensive]] [[s/_smell|smell]]; to [[s/_stink|stink]].**
 - **To [[e/_envelop|envelop]] with an [[o/_offensive|offensive]] [[s/_smell|smell]] or [[s/_smoke|smoke]].**
 ---
 #verb

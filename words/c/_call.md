@@ -17,12 +17,12 @@
 	- _Example: I had to yield to the call of the wild._
 - **The [[r/_right|right]] to [[s/_speak|speak]] at a [[g/_given|given]] time [[d/_during|during]] a [[d/_debate|debate]] or [[o/_other|other]] [[p/_public|public]] [[e/_event|event]]; the [[f/_floor|floor]].**
 	- _Example: I give the call to the Manager of Opposition Business._
-- **An [[o/_option|option]] to [[b/_buy|buy]] stock at a specified [[p/_price|price]] [[d/_during|during]] or at a specified time.**
+- **An [[o/_option|option]] to [[b/_buy|buy]] [[s/_stock|stock]] at a [[s/_specified|specified]] [[p/_price|price]] [[d/_during|during]] or at a [[s/_specified|specified]] time.**
 - **The [[a/_act|act]] of [[c/_calling|calling]] to the [[o/_other|other]] [[b/_batsman|batsman]].**
-- **The state of [[b/_being|being]] the [[b/_batsman|batsman]] whose [[r/_role|role]] it is to [[c/_call|call]] ([[d/_depends|depends]] on where the [[b/_ball|ball]] [[g/_goes|goes]].)**
+- **The [[s/_state|state]] of [[b/_being|being]] the [[b/_batsman|batsman]] whose [[r/_role|role]] it is to [[c/_call|call]] ([[d/_depends|depends]] on where the [[b/_ball|ball]] [[g/_goes|goes]].)**
 - **A work [[s/_shift|shift]] which [[r/_requires|requires]] [[o/_one|one]] to be [[a/_available|available]] when [[r/_requested|requested]] ([[s/_see|see]] on [[c/_call|call]]).**
 - **The [[a/_act|act]] of [[j/_jumping|jumping]] to a subprogram, [[s/_saving|saving]] the [[m/_means|means]] to [[r/_return|return]] to the [[o/_original|original]] [[p/_point|point]].**
-- **A statement of a [[p/_particular|particular]] state, or [[r/_rule|rule]], [[m/_made|made]] in [[m/_many|many]] [[g/_games|games]] such as [[b/_bridge|bridge]], [[c/_craps|craps]], [[j/_jacks|jacks]], and [[s/_so|so]] on.**
+- **A [[s/_statement|statement]] of a [[p/_particular|particular]] [[s/_state|state]], or [[r/_rule|rule]], [[m/_made|made]] in [[m/_many|many]] [[g/_games|games]] such as [[b/_bridge|bridge]], [[c/_craps|craps]], [[j/_jacks|jacks]], and [[s/_so|so]] on.**
 	- _Example: There was a 20 dollar bet on the table, and my call was 9._
 - **The [[a/_act|act]] of [[m/_matching|matching]] a [[b/_bet|bet]] [[m/_made|made]] by a [[p/_player|player]] who [[h/_has|has]] [[p/_previously|previously]] [[b/_bet|bet]] in the [[s/_same|same]] [[r/_round|round]] of [[b/_betting|betting]].**
 - **A [[n/_note|note]] [[b/_blown|blown]] on the [[h/_horn|horn]] to [[e/_encourage|encourage]] the [[d/_dogs|dogs]] in a [[h/_hunt|hunt]].**
@@ -30,7 +30,7 @@
 - **A [[p/_pipe|pipe]] or [[o/_other|other]] [[i/_instrument|instrument]] to [[c/_call|call]] [[b/_birds|birds]] or [[a/_animals|animals]] by [[i/_imitating|imitating]] their [[n/_note|note]] or [[c/_cry|cry]]. A [[g/_game|game]] [[c/_call|call]].**
 - **An [[i/_invitation|invitation]] to take [[c/_charge|charge]] of or [[s/_serve|serve]] a [[c/_church|church]] as [[i/_its|its]] [[p/_pastor|pastor]].**
 - **Vocation; [[e/_employment|employment]]; [[c/_calling|calling]].**
-- **A [[r/_reference|reference]] to, or statement of, an [[o/_object|object]], [[c/_course|course]], [[d/_distance|distance]], or [[o/_other|other]] [[m/_matter|matter]] of [[d/_description|description]] in a survey or [[g/_grant|grant]] [[r/_requiring|requiring]] or [[c/_calling|calling]] for a [[c/_corresponding|corresponding]] [[o/_object|object]], [[e/_etc|etc]]., on the [[l/_land|land]].**
+- **A [[r/_reference|reference]] to, or [[s/_statement|statement]] of, an [[o/_object|object]], [[c/_course|course]], [[d/_distance|distance]], or [[o/_other|other]] [[m/_matter|matter]] of [[d/_description|description]] in a survey or [[g/_grant|grant]] [[r/_requiring|requiring]] or [[c/_calling|calling]] for a [[c/_corresponding|corresponding]] [[o/_object|object]], [[e/_etc|etc]]., on the [[l/_land|land]].**
 - **([[p/_prostitution|prostitution]]) A [[m/_meeting|meeting]] with a [[c/_client|client]] for [[p/_paid|paid]] [[s/_sex|sex]]; [[h/_hookup|hookup]]; [[j/_job|job]].**
 ---
 #verb

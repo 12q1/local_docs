@@ -3,7 +3,7 @@
 #noun
 - **A [[f/_fourth|fourth]] [[p/_part|part]] of [[s/_something|something]].**
 - **[[p/_place|Place]] or [[p/_position|position]].**
-- **Technical or specialized [[s/_senses|senses]].**
+- **Technical or [[s/_specialized|specialized]] [[s/_senses|senses]].**
 - **[[s/_short|Short]] [[f/_forms|forms]].**
 ---
 ### Synonyms

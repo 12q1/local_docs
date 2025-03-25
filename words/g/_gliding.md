@@ -10,7 +10,7 @@
 - [[c/_coast|coast]], [[s/_slide|slide]]
 #noun
 - **The [[a/_action|action]] or [[m/_motion|motion]] of [[s/_something|something]] that [[g/_glides|glides]].**
-- **The [[h/_hobby|hobby]], sport or [[a/_act|act]] of [[f/_flying|flying]] a [[g/_glider|glider]].**
+- **The [[h/_hobby|hobby]], [[s/_sport|sport]] or [[a/_act|act]] of [[f/_flying|flying]] a [[g/_glider|glider]].**
 ---
 #adjective
 - **That [[m/_moves|moves]] or [[c/_changes|changes]] with a [[g/_glide|glide]].**

@@ -12,9 +12,9 @@
 - **An [[a/_aspect|aspect]] that is [[r/_reminiscent|reminiscent]] of [[s/_something|something]].**
 	- _Example: shades of Groucho_
 - **A very [[s/_small|small]] [[d/_degree|degree]] of a [[q/_quantity|quantity]], or variety of [[m/_meaning|meaning]]**
-- **A [[g/_ghost|ghost]] or specter; a spirit.**
+- **A [[g/_ghost|ghost]] or [[s/_specter|specter]]; a [[s/_spirit|spirit]].**
 	- _Example: The adventurer was attacked by a shade._
-- **A [[p/_postage|postage]] stamp [[s/_showing|showing]] an [[o/_obvious|obvious]] [[d/_difference|difference]] in [[c/_colour|colour]]/[[c/_color|color]] to the [[o/_original|original]] [[p/_printing|printing]] and [[n/_needing|needing]] a [[s/_separate|separate]] [[c/_catalogue|catalogue]]/[[c/_catalog|catalog]] [[e/_entry|entry]].**
+- **A [[p/_postage|postage]] [[s/_stamp|stamp]] [[s/_showing|showing]] an [[o/_obvious|obvious]] [[d/_difference|difference]] in [[c/_colour|colour]]/[[c/_color|color]] to the [[o/_original|original]] [[p/_printing|printing]] and [[n/_needing|needing]] a [[s/_separate|separate]] [[c/_catalogue|catalogue]]/[[c/_catalog|catalog]] [[e/_entry|entry]].**
 - **([[o/_originally|originally]] [[g/_gay|gay]] [[s/_slang|slang]]) Subtle [[i/_insults|insults]].**
 	- _Example: Why did you paint your room chartreuse? No shade; I'm genuinely curious._
 ---

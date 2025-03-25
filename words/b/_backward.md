@@ -1,7 +1,7 @@
 # Backward
 ---
 #noun
-- **The state [[b/_behind|behind]] or [[p/_past|past]].**
+- **The [[s/_state|state]] [[b/_behind|behind]] or [[p/_past|past]].**
 ---
 #adjective
 - **(of [[m/_motion|motion]]) In the [[d/_direction|direction]] towards the [[b/_back|back]].**
@@ -29,7 +29,7 @@
 	- _Example: to throw the arms backward_
 - **Toward, or in, [[p/_past|past]] time or [[e/_events|events]]; [[a/_ago|ago]].**
 - **By way of [[r/_reflection|reflection]]; [[r/_reflexively|reflexively]].**
-- **From a [[b/_better|better]] to a worse state, as from [[h/_honor|honor]] to [[s/_shame|shame]], from [[r/_religion|religion]] to [[s/_sin|sin]].**
+- **From a [[b/_better|better]] to a worse [[s/_state|state]], as from [[h/_honor|honor]] to [[s/_shame|shame]], from [[r/_religion|religion]] to [[s/_sin|sin]].**
 ---
 ### Synonyms
 - [[b/_backwards|backwards]]

@@ -20,7 +20,7 @@
 	- _Example: When the horn sounds, take cover._
 - **To [[c/_convey|convey]] an [[i/_impression|impression]] by [[o/_one|one]]'[[s/_s|s]] [[s/_sound|sound]].**
 	- _Example: He sounded good when we last spoke._
-- **To be [[c/_conveyed|conveyed]] in [[s/_sound|sound]]; to be spread or [[p/_published|published]]; to [[c/_convey|convey]] [[i/_intelligence|intelligence]] by [[s/_sound|sound]].**
+- **To be [[c/_conveyed|conveyed]] in [[s/_sound|sound]]; to be [[s/_spread|spread]] or [[p/_published|published]]; to [[c/_convey|convey]] [[i/_intelligence|intelligence]] by [[s/_sound|sound]].**
 - **To [[r/_resound|resound]].**
 - **([[o/_often|often]] with in) To [[a/_arise|arise]] or to be [[r/_recognizable|recognizable]] as [[a/_arising|arising]] in or from a [[p/_particular|particular]] [[a/_area|area]] of [[l/_law|law]].**
 - **To [[c/_cause|cause]] to [[p/_produce|produce]] a [[s/_sound|sound]].**

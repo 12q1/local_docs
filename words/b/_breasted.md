@@ -8,6 +8,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] a [[b/_breast|breast]], or [[b/_breasts|breasts]].**
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[k/_kind|kind]] of [[b/_breast|breast]] or [[c/_covering|covering]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specified|specified]] [[k/_kind|kind]] of [[b/_breast|breast]] or [[c/_covering|covering]].**
 ---
 ---

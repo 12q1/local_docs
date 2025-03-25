@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[o/_organized|organized]] [[r/_rebellion|rebellion]] [[a/_against|against]] a [[l/_legally|legally]] [[c/_constituted|constituted]] [[a/_authority|authority]], [[e/_especially|especially]] by [[s/_seamen|seamen]] [[a/_against|against]] their [[o/_officers|officers]].**
-- **Violent [[c/_commotion|commotion]]; tumult; strife.**
+- **Violent [[c/_commotion|commotion]]; tumult; [[s/_strife|strife]].**
 ---
 #verb
 - **To [[c/_commit|commit]] [[m/_mutiny|mutiny]].**

@@ -8,7 +8,7 @@
 	- _Example: to farm the taxes_
 - **To [[l/_lease|lease]] or [[l/_let|let]] for an [[e/_equivalent|equivalent]], [[e/_e|e]].[[g/_g|g]]. [[l/_land|land]] for a [[r/_rent|rent]]; to [[y/_yield|yield]] the use of to [[p/_proceeds|proceeds]].**
 - **To take at a [[c/_certain|certain]] [[r/_rent|rent]] or [[r/_rate|rate]].**
-- **To [[e/_engage|engage]] in [[g/_grinding|grinding]] ([[r/_repetitive|repetitive]] [[a/_activity|activity]]) in a [[p/_particular|particular]] [[a/_area|area]] or [[a/_against|against]] specific [[e/_enemies|enemies]] for a [[p/_particular|particular]] [[d/_drop|drop]] or [[i/_item|item]].**
+- **To [[e/_engage|engage]] in [[g/_grinding|grinding]] ([[r/_repetitive|repetitive]] [[a/_activity|activity]]) in a [[p/_particular|particular]] [[a/_area|area]] or [[a/_against|against]] [[s/_specific|specific]] [[e/_enemies|enemies]] for a [[p/_particular|particular]] [[d/_drop|drop]] or [[i/_item|item]].**
 ---
 #verb
 - **To [[c/_cleanse|cleanse]]; [[c/_clean|clean]] [[o/_out|out]]; [[p/_put|put]] in [[o/_order|order]]; [[e/_empty|empty]]; [[e/_empty|empty]] [[o/_out|out]]**

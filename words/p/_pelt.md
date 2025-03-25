@@ -1,7 +1,7 @@
 # Pelt
 ---
 #noun
-- **A [[b/_blow|blow]] or stroke from [[s/_something|something]] thrown.**
+- **A [[b/_blow|blow]] or [[s/_stroke|stroke]] from [[s/_something|something]] thrown.**
 ---
 #verb
 - **To [[b/_bombard|bombard]], as with [[m/_missiles|missiles]].**

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[a/_announce|announce]], [[f/_forereckon|forereckon]], [[f/_foreshadow|foreshadow]], [[p/_portend|portend]], [[p/_presage|presage]]
 #noun
-- **([[g/_gerund|gerund]] of [[p/_prefigure|prefigure]]) A specific [[i/_instance|instance]] in which [[s/_something|something]] is [[p/_prefigured|prefigured]]**
+- **([[g/_gerund|gerund]] of [[p/_prefigure|prefigure]]) A [[s/_specific|specific]] [[i/_instance|instance]] in which [[s/_something|something]] is [[p/_prefigured|prefigured]]**
 ---
 ---

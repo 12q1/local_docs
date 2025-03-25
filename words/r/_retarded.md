@@ -7,7 +7,7 @@
 	- _Example: to retard a rupture between nations_
 - **To be [[s/_slow|slow]] or [[d/_dilatory|dilatory]] to [[p/_perform|perform]] ([[s/_something|something]]).**
 - **To [[d/_decelerate|decelerate]]; to [[s/_slow|slow]] [[d/_down|down]].**
-- **To stay [[b/_back|back]].**
+- **To [[s/_stay|stay]] [[b/_back|back]].**
 ---
 ### Synonyms
 - [[d/_decelerate|decelerate]], [[s/_slow|slow]], [[d/_decelerate|decelerate]], [[h/_hinder|hinder]], [[s/_slow|slow]], [[p/_postpone|postpone]], [[r/_reluctant|reluctant]], [[h/_hinder|hinder]], [[i/_impede|impede]]
@@ -16,8 +16,8 @@
 #adjective
 - **[[d/_delayed|Delayed]]; [[d/_delayed|delayed]] in [[d/_development|development]], [[h/_hindered|hindered]]; [[i/_impeded|impeded]].**
 - **[[h/_having|Having]] [[m/_mental|mental]] [[r/_retardation|retardation]]; [[m/_mentally|mentally]] [[d/_deficient|deficient]] or underdeveloped.**
-- **Specifically, [[h/_having|having]] an [[i/_iq|IQ]] [[b/_below|below]] 70.**
-- **[[e/_extremely|Extremely]] stupid.**
-- **[[d/_designating|Designating]] a [[p/_parameter|parameter]] of an [[e/_electromagnetic|electromagnetic]] [[f/_field|field]] which is [[a/_adjusted|adjusted]] to [[a/_account|account]] for the [[f/_finite|finite]] speed of [[r/_radiation|radiation]].**
+- **[[s/_specifically|Specifically]], [[h/_having|having]] an [[i/_iq|IQ]] [[b/_below|below]] 70.**
+- **[[e/_extremely|Extremely]] [[s/_stupid|stupid]].**
+- **[[d/_designating|Designating]] a [[p/_parameter|parameter]] of an [[e/_electromagnetic|electromagnetic]] [[f/_field|field]] which is [[a/_adjusted|adjusted]] to [[a/_account|account]] for the [[f/_finite|finite]] [[s/_speed|speed]] of [[r/_radiation|radiation]].**
 ---
 ---

@@ -6,7 +6,7 @@
 - **The troops [[p/_posted|posted]] in a [[c/_concealed|concealed]] [[p/_place|place]], for [[a/_attacking|attacking]] by surprise; those who [[l/_lie|lie]] in wait.**
 ---
 #verb
-- **To station in [[a/_ambush|ambush]] with a view to surprise an [[e/_enemy|enemy]].**
+- **To [[s/_station|station]] in [[a/_ambush|ambush]] with a view to surprise an [[e/_enemy|enemy]].**
 - **To [[a/_attack|attack]] by [[a/_ambush|ambush]]; to waylay.**
 ---
 ---

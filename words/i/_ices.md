@@ -20,7 +20,7 @@
 - **To [[c/_cover|cover]] with [[i/_icing|icing]] ([[f/_frosting|frosting]] [[m/_made|made]] of sugar and [[m/_milk|milk]] or white of [[e/_egg|egg]]); to [[f/_frost|frost]]; as [[c/_cakes|cakes]], tarts, [[e/_etc|etc]].**
 - **To [[p/_put|put]] [[o/_out|out]] a team for a [[m/_match|match]].**
 	- _Example: Milton Keynes have yet to ice a team this season_
-- **To [[s/_shoot|shoot]] the [[p/_puck|puck]] the [[l/_length|length]] of the [[p/_playing|playing]] surface, [[c/_causing|causing]] a stoppage in [[p/_play|play]] [[c/_called|called]] [[i/_icing|icing]].**
+- **To [[s/_shoot|shoot]] the [[p/_puck|puck]] the [[l/_length|length]] of the [[p/_playing|playing]] surface, [[c/_causing|causing]] a [[s/_stoppage|stoppage]] in [[p/_play|play]] [[c/_called|called]] [[i/_icing|icing]].**
 	- _Example: If the Bruins ice the puck, the faceoff will be in their own zone._
 ---
 ---

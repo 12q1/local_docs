@@ -12,7 +12,7 @@
 ### Synonyms
 - [[b/_blacken|blacken]], [[s/_scorch|scorch]], [[s/_sear|sear]], [[s/_singe|singe]], [[c/_coal|coal]]
 #noun
-- **[[o/_one|One]] of the [[s/_several|several]] species of [[f/_fishes|fishes]] of the [[g/_genus|genus]] [[s/_salvelinus|Salvelinus]].**
+- **[[o/_one|One]] of the [[s/_several|several]] [[s/_species|species]] of [[f/_fishes|fishes]] of the [[g/_genus|genus]] [[s/_salvelinus|Salvelinus]].**
 	- _Example: Among other native delicacies, they give you fresh char._
 ---
 #noun
@@ -28,7 +28,7 @@
 - **To turn, [[e/_especially|especially]] [[a/_away|away]] or [[a/_aside|aside]].**
 - **To work, [[e/_especially|especially]] to [[d/_do|do]] [[h/_housework|housework]]; to work by the [[d/_day|day]], without [[b/_being|being]] a [[r/_regularly|regularly]] [[h/_hired|hired]] [[s/_servant|servant]].**
 - **To [[p/_perform|perform]]; to [[d/_do|do]]; to [[f/_finish|finish]].**
-- **To work or [[h/_hew|hew]] (stone, [[e/_etc|etc]].).**
+- **To work or [[h/_hew|hew]] ([[s/_stone|stone]], [[e/_etc|etc]].).**
 ---
 #noun
 - **A [[c/_character|character]] (text [[e/_element|element]] such as a [[l/_letter|letter]] or [[s/_symbol|symbol]]).**

@@ -1,7 +1,7 @@
 # Confront
 ---
 #verb
-- **To stand or [[m/_meet|meet]] [[f/_facing|facing]], [[e/_especially|especially]] in [[c/_competition|competition]], [[h/_hostility|hostility]] or [[d/_defiance|defiance]]; to [[c/_come|come]] [[f/_face|face]] to [[f/_face|face]] with**
+- **To [[s/_stand|stand]] or [[m/_meet|meet]] [[f/_facing|facing]], [[e/_especially|especially]] in [[c/_competition|competition]], [[h/_hostility|hostility]] or [[d/_defiance|defiance]]; to [[c/_come|come]] [[f/_face|face]] to [[f/_face|face]] with**
 	- _Example: We should confront him about the missing money._
 - **To [[d/_deal|deal]] with.**
 - **To [[s/_something|something]] [[b/_bring|bring]] [[f/_face|face]] to [[f/_face|face]] with.**

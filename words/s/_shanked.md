@@ -2,7 +2,7 @@
 ---
 #verb
 - **To travel on [[f/_foot|foot]].**
-- **To stab, [[e/_especially|especially]] with an [[i/_improvised|improvised]] [[b/_blade|blade]].**
+- **To [[s/_stab|stab]], [[e/_especially|especially]] with an [[i/_improvised|improvised]] [[b/_blade|blade]].**
 - **To [[r/_remove|remove]] [[a/_another|another]]'[[s/_s|s]] trousers, [[e/_especially|especially]] in [[j/_jest|jest]]; to depants.**
 - **To misstrike the [[b/_ball|ball]] with the [[p/_part|part]] of the [[c/_club|club]] [[h/_head|head]] that [[c/_connects|connects]] to the [[s/_shaft|shaft]].**
 - **To [[h/_hit|hit]] or [[k/_kick|kick]] the [[b/_ball|ball]] in an unintended [[d/_direction|direction]].**

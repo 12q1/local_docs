@@ -1,10 +1,10 @@
 # Fettle
 ---
 #noun
-- **A state of [[p/_proper|proper]] [[p/_physical|physical]] [[c/_condition|condition]]; [[k/_kilter|kilter]] or trim.**
-- **[[o/_one|One]]'[[s/_s|s]] [[m/_mental|mental]] state; spirits.**
+- **A [[s/_state|state]] of [[p/_proper|proper]] [[p/_physical|physical]] [[c/_condition|condition]]; [[k/_kilter|kilter]] or trim.**
+- **[[o/_one|One]]'[[s/_s|s]] [[m/_mental|mental]] [[s/_state|state]]; [[s/_spirits|spirits]].**
 - **[[s/_sand|Sand]] used to [[l/_line|line]] a [[f/_furnace|furnace]].**
-- **A [[p/_person|person]]'[[s/_s|s]] [[m/_mood|mood]] or state, [[o/_often|often]] [[a/_assuming|assuming]] the worst.**
+- **A [[p/_person|person]]'[[s/_s|s]] [[m/_mood|mood]] or [[s/_state|state]], [[o/_often|often]] [[a/_assuming|assuming]] the worst.**
 	- _Example: What's yer fettle marra?_
 - **A [[s/_seam|seam]] [[l/_line|line]] [[l/_left|left]] by the [[m/_meeting|meeting]] of [[m/_mold|mold]] [[p/_pieces|pieces]].**
 - **The [[a/_act|act]] of [[f/_fettling|fettling]].**

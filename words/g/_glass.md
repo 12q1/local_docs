@@ -20,7 +20,7 @@
 - **A [[m/_magnifying|magnifying]] [[g/_glass|glass]] or telescope.**
 - **A [[b/_barrier|barrier]] [[m/_made|made]] of [[s/_solid|solid]], transparent [[m/_material|material]].**
 - **A [[b/_barometer|barometer]].**
-- **(in [[n/_names|names]] of species) Transparent or translucent.**
+- **(in [[n/_names|names]] of [[s/_species|species]]) Transparent or translucent.**
 	- _Example: glass frog;  glass shrimp;  glass worm_
 - **An [[h/_hourglass|hourglass]].**
 - **[[l/_lenses|Lenses]], [[c/_considered|considered]] [[c/_collectively|collectively]].**
@@ -29,7 +29,7 @@
 #verb
 - **To [[f/_fit|fit]] with [[g/_glass|glass]]; to [[g/_glaze|glaze]].**
 - **To [[e/_enclose|enclose]] in [[g/_glass|glass]].**
-- **To strike ([[s/_someone|someone]]), [[p/_particularly|particularly]] in the [[f/_face|face]], with a [[d/_drinking|drinking]] [[g/_glass|glass]] with the [[i/_intent|intent]] of [[c/_causing|causing]] [[i/_injury|injury]].**
+- **To [[s/_strike|strike]] ([[s/_someone|someone]]), [[p/_particularly|particularly]] in the [[f/_face|face]], with a [[d/_drinking|drinking]] [[g/_glass|glass]] with the [[i/_intent|intent]] of [[c/_causing|causing]] [[i/_injury|injury]].**
 - **To [[b/_bombard|bombard]] an [[a/_area|area]] with such [[i/_intensity|intensity]] ([[n/_nuclear|nuclear]] [[b/_bomb|bomb]], [[f/_fusion|fusion]] [[b/_bomb|bomb]], [[e/_etc|etc]]) as to [[m/_melt|melt]] the [[l/_landscape|landscape]] [[i/_into|into]] [[g/_glass|glass]].**
 - **To view through an [[o/_optical|optical]] [[i/_instrument|instrument]] such as [[b/_binoculars|binoculars]].**
 - **To [[s/_smooth|smooth]] or [[p/_polish|polish]] ([[l/_leather|leather]], [[e/_etc|etc]].), by [[r/_rubbing|rubbing]] it with a [[g/_glass|glass]] [[b/_burnisher|burnisher]].**

@@ -27,9 +27,9 @@
 	- _Example: Does my policy cover accidental loss?_
 - **To [[c/_copulate|copulate]] with ([[s/_said|said]] of [[c/_certain|certain]] [[m/_male|male]] [[a/_animals|animals]] such as [[d/_dogs|dogs]] and [[h/_horses|horses]]).**
 	- _Example: I would like to have my bitch covered next spring._
-- **To [[p/_protect|protect]] or [[c/_control|control]] (a [[p/_piece|piece]] or square).**
+- **To [[p/_protect|protect]] or [[c/_control|control]] (a [[p/_piece|piece]] or [[s/_square|square]]).**
 	- _Example: In order to checkmate a king on the side of the board, the five squares adjacent to the king must all be covered._
-- **To [[e/_extend|extend]] [[o/_over|over]] a [[g/_given|given]] [[p/_period|period]] of time or [[r/_range|range]], to [[o/_occupy|occupy]], to stretch [[o/_over|over]] a [[g/_given|given]] [[a/_area|area]].**
+- **To [[e/_extend|extend]] [[o/_over|over]] a [[g/_given|given]] [[p/_period|period]] of time or [[r/_range|range]], to [[o/_occupy|occupy]], to [[s/_stretch|stretch]] [[o/_over|over]] a [[g/_given|given]] [[a/_area|area]].**
 - **To [[d/_defend|defend]] a [[p/_particular|particular]] [[p/_player|player]] or [[a/_area|area]].**
 ---
 ### Synonyms

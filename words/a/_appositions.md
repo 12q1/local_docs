@@ -8,7 +8,7 @@
 - **In [[b/_biology|biology]], the [[g/_growth|growth]] of successive [[l/_layers|layers]] of a [[c/_cell|cell]] wall.**
 - **Appositio**
 - **A [[p/_public|public]] [[d/_disputation|disputation]] by [[s/_scholars|scholars]].**
-- **A ([[n/_now|now]] [[p/_purely|purely]] [[c/_ceremonial|ceremonial]]) speech [[d/_day|day]] at St [[p/_paul|Paul]]'[[s/_s|s]] [[s/_school|School]], [[l/_london|London]].**
+- **A ([[n/_now|now]] [[p/_purely|purely]] [[c/_ceremonial|ceremonial]]) [[s/_speech|speech]] [[d/_day|day]] at [[s/_st|St]] [[p/_paul|Paul]]'[[s/_s|s]] [[s/_school|School]], [[l/_london|London]].**
 ---
 ### Synonyms
 - [[p/_parathesis|parathesis]]

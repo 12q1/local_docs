@@ -3,7 +3,7 @@
 #noun
 - **The third [[s/_season|season]] of the [[y/_year|year]]; [[a/_autumn|autumn]]; [[f/_fall|fall]].**
 	- _Example: Harvest is usually very damp and rainy._
-- **The [[s/_season|season]] of [[g/_gathering|gathering]] [[r/_ripened|ripened]] [[c/_crops|crops]]; specifically, the time of [[r/_reaping|reaping]] and [[g/_gathering|gathering]] [[g/_grain|grain]].**
+- **The [[s/_season|season]] of [[g/_gathering|gathering]] [[r/_ripened|ripened]] [[c/_crops|crops]]; [[s/_specifically|specifically]], the time of [[r/_reaping|reaping]] and [[g/_gathering|gathering]] [[g/_grain|grain]].**
 - **The [[p/_process|process]] of [[g/_gathering|gathering]] the [[r/_ripened|ripened]] [[c/_crop|crop]]; [[h/_harvesting|harvesting]].**
 - **The [[y/_yield|yield]] of [[h/_harvesting|harvesting]], [[i/_i|i]].[[e/_e|e]]., the [[g/_gathered|gathered]] [[c/_crops|crops]] or [[f/_fruits|fruits]].**
 	- _Example: This year's cotton harvest was great but the corn harvest was disastrous._

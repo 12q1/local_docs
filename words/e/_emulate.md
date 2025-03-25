@@ -7,6 +7,6 @@
 - **Of a [[p/_program|program]] or [[d/_device|device]]: to [[i/_imitate|imitate]] [[a/_another|another]] [[p/_program|program]] or [[d/_device|device]]**
 ---
 #adjective
-- **Striving to [[e/_excel|excel]]; [[a/_ambitious|ambitious]]; [[e/_emulous|emulous]].**
+- **[[s/_striving|Striving]] to [[e/_excel|excel]]; [[a/_ambitious|ambitious]]; [[e/_emulous|emulous]].**
 ---
 ---

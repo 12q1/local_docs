@@ -5,6 +5,6 @@
 - **To [[s/_scrape|scrape]] as [[i/_if|if]] with a [[r/_razor|razor]].**
 ---
 #adjective
-- **[[s/_slashed|Slashed]] or striped in [[p/_patterns|patterns]].**
+- **[[s/_slashed|Slashed]] or [[s/_striped|striped]] in [[p/_patterns|patterns]].**
 ---
 ---

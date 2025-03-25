@@ -1,6 +1,6 @@
 # Overspecializing
 ---
 #verb
-- **To specialize to an [[e/_excessive|excessive]] [[d/_degree|degree]].**
+- **To [[s/_specialize|specialize]] to an [[e/_excessive|excessive]] [[d/_degree|degree]].**
 ---
 ---

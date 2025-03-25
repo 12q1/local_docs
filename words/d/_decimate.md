@@ -6,7 +6,7 @@
 - **A [[s/_set|set]] of ten [[i/_items|items]].**
 ---
 #verb
-- **To [[k/_kill|kill]] [[o/_one|one]]-tenth of a [[g/_group|group]], (specifically) as a [[m/_military|military]] [[p/_punishment|punishment]] in the [[r/_roman|Roman]] [[a/_army|army]] [[s/_selected|selected]] by [[l/_lot|lot]], usually [[c/_carried|carried]] [[o/_out|out]] by the surviving [[s/_soldiers|soldiers]].**
+- **To [[k/_kill|kill]] [[o/_one|one]]-tenth of a [[g/_group|group]], ([[s/_specifically|specifically]]) as a [[m/_military|military]] [[p/_punishment|punishment]] in the [[r/_roman|Roman]] [[a/_army|army]] [[s/_selected|selected]] by [[l/_lot|lot]], usually [[c/_carried|carried]] [[o/_out|out]] by the surviving [[s/_soldiers|soldiers]].**
 - **To [[d/_destroy|destroy]] or [[r/_remove|remove]] [[o/_one|one]]-tenth of [[a/_anything|anything]].**
 - **To [[d/_devastate|devastate]]: to [[r/_reduce|reduce]] or [[d/_destroy|destroy]] [[s/_significantly|significantly]] but not [[c/_completely|completely]].**
 - **To [[e/_exact|exact]] a tithe or [[o/_other|other]] 10% tax**

@@ -9,10 +9,10 @@
 	- _Example: The single plated the runner from second base._
 - **To [[a/_arm|arm]] or [[d/_defend|defend]] with [[m/_metal|metal]] [[p/_plates|plates]].**
 - **To [[b/_beat|beat]] [[i/_into|into]] thin [[p/_plates|plates]].**
-- **(travel [[i/_industry|industry]]) To specify which [[a/_airline|airline]] a ticket will be [[i/_issued|issued]] on [[b/_behalf|behalf]] of.**
+- **(travel [[i/_industry|industry]]) To [[s/_specify|specify]] which [[a/_airline|airline]] a ticket will be [[i/_issued|issued]] on [[b/_behalf|behalf]] of.**
 	- _Example: Tickets are normally plated on an itinerary's first international airline._
-- **To [[c/_categorise|categorise]] stamps [[b/_based|based]] on their [[p/_position|position]] on the [[o/_original|original]] [[s/_sheet|sheet]], in [[o/_order|order]] to [[r/_reconstruct|reconstruct]] an [[e/_entire|entire]] [[s/_sheet|sheet]].**
-- **([[p/_particularly|particularly]] with [[e/_early|early]] [[b/_british|British]] stamps) to [[i/_identify|identify]] the [[p/_printing|printing]] [[p/_plate|plate]] used.**
+- **To [[c/_categorise|categorise]] [[s/_stamps|stamps]] [[b/_based|based]] on their [[p/_position|position]] on the [[o/_original|original]] [[s/_sheet|sheet]], in [[o/_order|order]] to [[r/_reconstruct|reconstruct]] an [[e/_entire|entire]] [[s/_sheet|sheet]].**
+- **([[p/_particularly|particularly]] with [[e/_early|early]] [[b/_british|British]] [[s/_stamps|stamps]]) to [[i/_identify|identify]] the [[p/_printing|printing]] [[p/_plate|plate]] used.**
 ---
 #adjective
 - **[[c/_covered|Covered]] with [[p/_plates|plates]] or [[s/_scales|scales]].**

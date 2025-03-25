@@ -1,7 +1,7 @@
 # Invisible
 ---
 #noun
-- **An [[i/_invisible|invisible]] [[p/_person|person]] or thing; specifically, [[g/_god|God]], the Supreme [[b/_being|Being]].**
+- **An [[i/_invisible|invisible]] [[p/_person|person]] or thing; [[s/_specifically|specifically]], [[g/_god|God]], the Supreme [[b/_being|Being]].**
 - **A [[r/_rosicrucian|Rosicrucian]]; [[s/_so|so]] [[c/_called|called]] [[b/_because|because]] [[a/_avoiding|avoiding]] [[d/_declaration|declaration]] of [[h/_his|his]] [[c/_craft|craft]].**
 - **[[o/_one|One]] of those (as in the 16th [[c/_century|century]]) who [[d/_denied|denied]] the visibility of the [[c/_church|church]].**
 ---

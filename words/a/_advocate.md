@@ -3,7 +3,7 @@
 #noun
 - **[[s/_someone|Someone]] whose [[j/_job|job]] is to [[s/_speak|speak]] for [[s/_someone|someone]]'[[s/_s|s]] [[c/_case|case]] in a [[c/_court|court]] of [[l/_law|law]]; a [[c/_counsel|counsel]].**
 - **[[a/_anyone|Anyone]] who [[a/_argues|argues]] the [[c/_case|case]] of [[a/_another|another]]; an [[i/_intercessor|intercessor]].**
-- **A [[p/_person|person]] who speaks in support of [[s/_something|something]].**
+- **A [[p/_person|person]] who [[s/_speaks|speaks]] in support of [[s/_something|something]].**
 - **A [[p/_person|person]] who supports [[o/_others|others]] to [[m/_make|make]] their voices [[h/_heard|heard]], or [[i/_ideally|ideally]] for them to [[s/_speak|speak]] up for themselves.**
 	- _Example: Since she started working with her advocate, she has become much more confident._
 ---

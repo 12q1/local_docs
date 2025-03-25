@@ -1,7 +1,7 @@
 # Off
 ---
 #noun
-- **(usually in [[p/_phrases|phrases]] such as 'from the [[o/_off|off]]', 'at the [[o/_off|off]]', [[e/_etc|etc]].) [[b/_beginning|Beginning]]; starting [[p/_point|point]].**
+- **(usually in [[p/_phrases|phrases]] such as 'from the [[o/_off|off]]', 'at the [[o/_off|off]]', [[e/_etc|etc]].) [[b/_beginning|Beginning]]; [[s/_starting|starting]] [[p/_point|point]].**
 	- _Example: He has been very obviously an untrustworthy narrator right from the off._
 ---
 #verb
@@ -24,11 +24,11 @@
 - **[[i/_inappropriate|Inappropriate]]; untoward.**
 	- _Example: I felt that his comments were a bit off._
 - **(in [[p/_phrases|phrases]] such as 'well [[o/_off|off]]', '[[b/_better|better]] [[o/_off|off]]', '[[p/_poorly|poorly]] [[o/_off|off]]') [[c/_circumstanced|Circumstanced]].**
-- **Started on the way.**
+- **[[s/_started|Started]] on the way.**
 	- _Example: And they're off! Whatsmyname takes an early lead, with Remember The Mane behind by a nose._
 - **[[f/_far|Far]]; [[o/_off|off]] to the [[s/_side|side]].**
 	- _Example: He took me down the corridor and into an off room._
-- **[[d/_designating|Designating]] a time when [[o/_one|one]] is not strictly [[a/_attentive|attentive]] to [[b/_business|business]] or [[a/_affairs|affairs]], or is [[a/_absent|absent]] from a [[p/_post|post]], and, [[h/_hence|hence]], a time when [[a/_affairs|affairs]] are not urgent.**
+- **[[d/_designating|Designating]] a time when [[o/_one|one]] is not [[s/_strictly|strictly]] [[a/_attentive|attentive]] to [[b/_business|business]] or [[a/_affairs|affairs]], or is [[a/_absent|absent]] from a [[p/_post|post]], and, [[h/_hence|hence]], a time when [[a/_affairs|affairs]] are not urgent.**
 	- _Example: He took an off day for fishing.  an off year in politics; the off season_
 - **(in [[p/_phrases|phrases]] such as '[[o/_off|off]] [[d/_day|day]]') [[d/_designating|Designating]] a time when [[o/_one|one]] is not [[p/_performing|performing]] to the [[b/_best|best]] of [[o/_one|one]]'[[s/_s|s]] [[a/_abilities|abilities]].**
 - **(of a [[d/_dish|dish]] on a [[m/_menu|menu]]) [[p/_presently|Presently]] unavailable.**
@@ -42,11 +42,11 @@
 #adverb
 - **In a [[d/_direction|direction]] [[a/_away|away]] from the [[s/_speaker|speaker]] or [[o/_object|object]].**
 	- _Example: He drove off in a cloud of smoke._
-- **[[i/_into|Into]] a state of [[n/_non|non]]-[[o/_operation|operation]] or [[n/_non|non]]-[[e/_existence|existence]].**
+- **[[i/_into|Into]] a [[s/_state|state]] of [[n/_non|non]]-[[o/_operation|operation]] or [[n/_non|non]]-[[e/_existence|existence]].**
 	- _Example: Please switch off the light when you leave._
 - **[[s/_so|So]] as to [[r/_remove|remove]] or [[s/_separate|separate]], or be [[r/_removed|removed]] or [[s/_separated|separated]].**
 	- _Example: He bit off the end of the carrot._
-- **Used in various [[o/_other|other]] ways specific to [[i/_individual|individual]] [[i/_idiomatic|idiomatic]] [[p/_phrases|phrases]], [[e/_e|e]].[[g/_g|g]]. [[b/_bring|bring]] [[o/_off|off]], [[s/_show|show]] [[o/_off|off]], [[p/_put|put]] [[o/_off|off]], tell [[o/_off|off]], [[e/_etc|etc]]. [[s/_see|See]] the [[e/_entry|entry]] for the [[i/_individual|individual]] [[p/_phrase|phrase]].**
+- **Used in various [[o/_other|other]] ways [[s/_specific|specific]] to [[i/_individual|individual]] [[i/_idiomatic|idiomatic]] [[p/_phrases|phrases]], [[e/_e|e]].[[g/_g|g]]. [[b/_bring|bring]] [[o/_off|off]], [[s/_show|show]] [[o/_off|off]], [[p/_put|put]] [[o/_off|off]], tell [[o/_off|off]], [[e/_etc|etc]]. [[s/_see|See]] the [[e/_entry|entry]] for the [[i/_individual|individual]] [[p/_phrase|phrase]].**
 ---
 #preposition
 - **Not [[p/_positioned|positioned]] upon; [[a/_away|away]] from a [[p/_position|position]] upon.**

@@ -7,16 +7,16 @@
 - **A [[c/_choice|choice]]; [[a/_ability|ability]] to [[c/_choose|choose]].**
 - **That which would be [[p/_picked|picked]] or [[c/_chosen|chosen]] [[f/_first|first]]; the [[b/_best|best]].**
 - **A [[s/_screen|screen]].**
-- **An [[o/_offensive|offensive]] tactic in which a [[p/_player|player]] stands [[s/_so|so]] as to [[b/_block|block]] a [[d/_defender|defender]] from [[r/_reaching|reaching]] a teammate.**
+- **An [[o/_offensive|offensive]] tactic in which a [[p/_player|player]] [[s/_stands|stands]] [[s/_so|so]] as to [[b/_block|block]] a [[d/_defender|defender]] from [[r/_reaching|reaching]] a teammate.**
 - **An [[i/_interception|interception]].**
 - **A [[g/_good|good]] [[d/_defensive|defensive]] [[p/_play|play]] by an [[i/_infielder|infielder]].**
 - **A [[p/_pickoff|pickoff]].**
-- **A tool used for strumming the strings of a [[g/_guitar|guitar]]; a [[p/_plectrum|plectrum]].**
+- **A tool used for [[s/_strumming|strumming]] the [[s/_strings|strings]] of a [[g/_guitar|guitar]]; a [[p/_plectrum|plectrum]].**
 - **A [[p/_pointed|pointed]] [[h/_hammer|hammer]] used for [[d/_dressing|dressing]] [[m/_millstones|millstones]].**
-- **A [[p/_pike|pike]] or spike; the [[s/_sharp|sharp]] [[p/_point|point]] [[f/_fixed|fixed]] in the [[c/_center|center]] of a [[b/_buckler|buckler]].**
-- **A [[p/_particle|particle]] of [[i/_ink|ink]] or [[p/_paper|paper]] [[e/_embedded|embedded]] in the [[h/_hollow|hollow]] of a [[l/_letter|letter]], [[f/_filling|filling]] up [[i/_its|its]] [[f/_face|face]], and [[c/_causing|causing]] a spot on a [[p/_printed|printed]] [[s/_sheet|sheet]].**
+- **A [[p/_pike|pike]] or [[s/_spike|spike]]; the [[s/_sharp|sharp]] [[p/_point|point]] [[f/_fixed|fixed]] in the [[c/_center|center]] of a [[b/_buckler|buckler]].**
+- **A [[p/_particle|particle]] of [[i/_ink|ink]] or [[p/_paper|paper]] [[e/_embedded|embedded]] in the [[h/_hollow|hollow]] of a [[l/_letter|letter]], [[f/_filling|filling]] up [[i/_its|its]] [[f/_face|face]], and [[c/_causing|causing]] a [[s/_spot|spot]] on a [[p/_printed|printed]] [[s/_sheet|sheet]].**
 - **That which is [[p/_picked|picked]] in, as with a [[p/_pointed|pointed]] [[p/_pencil|pencil]], to [[c/_correct|correct]] an unevenness in a [[p/_picture|picture]].**
-- **The [[b/_blow|blow]] that [[d/_drives|drives]] the [[s/_shuttle|shuttle]], used in [[c/_calculating|calculating]] the speed of a [[l/_loom|loom]] (in [[p/_picks|picks]] [[p/_per|per]] [[m/_minute|minute]]); [[h/_hence|hence]], in [[d/_describing|describing]] the [[f/_fineness|fineness]] of a [[f/_fabric|fabric]], a weft thread.**
+- **The [[b/_blow|blow]] that [[d/_drives|drives]] the [[s/_shuttle|shuttle]], used in [[c/_calculating|calculating]] the [[s/_speed|speed]] of a [[l/_loom|loom]] (in [[p/_picks|picks]] [[p/_per|per]] [[m/_minute|minute]]); [[h/_hence|hence]], in [[d/_describing|describing]] the [[f/_fineness|fineness]] of a [[f/_fabric|fabric]], a weft thread.**
 	- _Example: so many picks to an inch_
 ---
 #verb
@@ -33,17 +33,17 @@
 - **To [[d/_decide|decide]] upon, from a [[s/_set|set]] of [[o/_options|options]]; to [[s/_select|select]].**
 	- _Example: I'll pick the one with the nicest name._
 - **To [[s/_seek|seek]] (a [[f/_fight|fight]] or [[q/_quarrel|quarrel]]) where the [[o/_opportunity|opportunity]] [[a/_arises|arises]].**
-- **To [[r/_recognise|recognise]] the type of [[b/_ball|ball]] [[b/_being|being]] [[b/_bowled|bowled]] by a [[b/_bowler|bowler]] by studying the [[p/_position|position]] of the [[h/_hand|hand]] and [[a/_arm|arm]] as the [[b/_ball|ball]] is [[r/_released|released]].**
+- **To [[r/_recognise|recognise]] the type of [[b/_ball|ball]] [[b/_being|being]] [[b/_bowled|bowled]] by a [[b/_bowler|bowler]] by [[s/_studying|studying]] the [[p/_position|position]] of the [[h/_hand|hand]] and [[a/_arm|arm]] as the [[b/_ball|ball]] is [[r/_released|released]].**
 	- _Example: He didn't pick the googly, and was bowled._
-- **To [[p/_pluck|pluck]] the [[i/_individual|individual]] strings of a [[m/_musical|musical]] [[i/_instrument|instrument]] or to [[p/_play|play]] such an [[i/_instrument|instrument]].**
+- **To [[p/_pluck|pluck]] the [[i/_individual|individual]] [[s/_strings|strings]] of a [[m/_musical|musical]] [[i/_instrument|instrument]] or to [[p/_play|play]] such an [[i/_instrument|instrument]].**
 	- _Example: He picked a tune on his banjo._
 - **To [[o/_open|open]] (a [[l/_lock|lock]]) with a wire, [[l/_lock|lock]] [[p/_pick|pick]], [[e/_etc|etc]].**
 - **To [[e/_eat|eat]] [[s/_slowly|slowly]], [[s/_sparingly|sparingly]], or by [[m/_morsels|morsels]]; to [[n/_nibble|nibble]].**
 - **To [[d/_do|do]] [[a/_anything|anything]] [[f/_fastidiously|fastidiously]] or [[c/_carefully|carefully]], or by [[a/_attending|attending]] to [[s/_small|small]] things; to [[s/_select|select]] [[s/_something|something]] with [[c/_care|care]].**
 	- _Example: I gingerly picked my way between the thorny shrubs._
-- **To steal; to [[p/_pilfer|pilfer]].**
+- **To [[s/_steal|steal]]; to [[p/_pilfer|pilfer]].**
 - **To throw; to [[p/_pitch|pitch]].**
-- **To [[p/_peck|peck]] at, as a [[b/_bird|bird]] with [[i/_its|its]] [[b/_beak|beak]]; to strike at with [[a/_anything|anything]] [[p/_pointed|pointed]]; to [[a/_act|act]] upon with a [[p/_pointed|pointed]] [[i/_instrument|instrument]]; to [[p/_pierce|pierce]]; to [[p/_prick|prick]], as with a [[p/_pin|pin]].**
+- **To [[p/_peck|peck]] at, as a [[b/_bird|bird]] with [[i/_its|its]] [[b/_beak|beak]]; to [[s/_strike|strike]] at with [[a/_anything|anything]] [[p/_pointed|pointed]]; to [[a/_act|act]] upon with a [[p/_pointed|pointed]] [[i/_instrument|instrument]]; to [[p/_pierce|pierce]]; to [[p/_prick|prick]], as with a [[p/_pin|pin]].**
 - **To [[s/_separate|separate]] or [[o/_open|open]] by [[m/_means|means]] of a [[s/_sharp|sharp]] [[p/_point|point]] or [[p/_points|points]].**
 	- _Example: to pick matted wool, cotton, oakum, etc._
 - **To [[s/_screen|screen]].**

@@ -9,7 +9,7 @@
 - **A [[s/_sortie|sortie]] of troops from a [[b/_besieged|besieged]] [[p/_place|place]] [[a/_against|against]] an [[e/_enemy|enemy]].**
 - **A sudden [[r/_rushing|rushing]] [[f/_forth|forth]].**
 	- _Example: Flocks of these birds stir up flying insects, which can then be picked off in quick sallies._
-- **A witty statement or [[q/_quip|quip]], usually at the [[e/_expense|expense]] of [[o/_one|one]]'[[s/_s|s]] [[i/_interlocutor|interlocutor]].**
+- **A witty [[s/_statement|statement]] or [[q/_quip|quip]], usually at the [[e/_expense|expense]] of [[o/_one|one]]'[[s/_s|s]] [[i/_interlocutor|interlocutor]].**
 - **An [[e/_excursion|excursion]] or [[s/_side|side]] trip.**
 - **A tufted woollen [[p/_part|part]] of a bellrope, used to [[p/_provide|provide]] [[g/_grip|grip]] when [[r/_ringing|ringing]] a [[b/_bell|bell]].**
 ---
@@ -26,7 +26,7 @@
 ### Synonyms
 - [[S/_Salvo|Salvo]]
 #noun
-- **A [[k/_kind|kind]] of stonefly.**
+- **A [[k/_kind|kind]] of [[s/_stonefly|stonefly]].**
 - **A wren.**
 ---
 ---

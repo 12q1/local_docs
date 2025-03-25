@@ -10,8 +10,8 @@
 	- _Example: Prices have flattened out._
 - **To be [[k/_knocked|knocked]] [[d/_down|down]] or [[l/_laid|laid]] [[l/_low|low]].**
 - **To [[l/_lower|lower]] by a [[s/_semitone|semitone]].**
-- **To [[m/_make|make]] vapid or [[i/_insipid|insipid]]; to [[r/_render|render]] stale.**
-- **To [[r/_reduce|reduce]] (a [[d/_data|data]] structure) to [[o/_one|one]] that [[h/_has|has]] [[f/_fewer|fewer]] [[d/_dimensions|dimensions]], [[e/_e|e]].[[g/_g|g]]. a 2×2 [[a/_array|array]] [[i/_into|into]] a [[l/_list|list]] of [[f/_four|four]] [[e/_elements|elements]].**
+- **To [[m/_make|make]] vapid or [[i/_insipid|insipid]]; to [[r/_render|render]] [[s/_stale|stale]].**
+- **To [[r/_reduce|reduce]] (a [[d/_data|data]] [[s/_structure|structure]]) to [[o/_one|one]] that [[h/_has|has]] [[f/_fewer|fewer]] [[d/_dimensions|dimensions]], [[e/_e|e]].[[g/_g|g]]. a 2×2 [[a/_array|array]] [[i/_into|into]] a [[l/_list|list]] of [[f/_four|four]] [[e/_elements|elements]].**
 - **To [[c/_combine|combine]] ([[s/_separate|separate]] [[l/_layers|layers]]) [[i/_into|into]] a [[s/_single|single]] [[i/_image|image]].**
 ---
 #adjective

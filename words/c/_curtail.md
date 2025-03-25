@@ -1,7 +1,7 @@
 # Curtail
 ---
 #noun
-- **A [[s/_scroll|scroll]] termination, as of a step, [[e/_etc|etc]].**
+- **A [[s/_scroll|scroll]] termination, as of a [[s/_step|step]], [[e/_etc|etc]].**
 ---
 #verb
 - **To [[c/_cut|cut]] [[s/_short|short]] the tail of an [[a/_animal|animal]]**

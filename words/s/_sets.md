@@ -5,9 +5,9 @@
 	- _Example: Set the tray there._
 - **To [[a/_attach|attach]] or [[a/_affix|affix]] ([[s/_something|something]]) to [[s/_something|something]] [[e/_else|else]], or in or upon a [[c/_certain|certain]] [[p/_place|place]].**
 	- _Example: I have set my heart on running the marathon._
-- **To [[p/_put|put]] in a specified [[c/_condition|condition]] or state; to [[c/_cause|cause]] to be.**
-- **To start (a [[f/_fire|fire]]).**
-- **To [[c/_cause|cause]] to stop or stick; to [[o/_obstruct|obstruct]]; to [[f/_fasten|fasten]] to a spot.**
+- **To [[p/_put|put]] in a [[s/_specified|specified]] [[c/_condition|condition]] or [[s/_state|state]]; to [[c/_cause|cause]] to be.**
+- **To [[s/_start|start]] (a [[f/_fire|fire]]).**
+- **To [[c/_cause|cause]] to [[s/_stop|stop]] or [[s/_stick|stick]]; to [[o/_obstruct|obstruct]]; to [[f/_fasten|fasten]] to a [[s/_spot|spot]].**
 	- _Example: to set a coach in the mud_
 - **To [[d/_determine|determine]] or [[s/_settle|settle]].**
 	- _Example: to set the rent_
@@ -22,7 +22,7 @@
 	- _Example: He says he will set his next film in France._
 - **To [[c/_compile|compile]], to [[m/_make|make]] (a [[p/_puzzle|puzzle]] or [[c/_challenge|challenge]]).**
 	- _Example: This crossword was set by Araucaria._
-- **To [[p/_prepare|prepare]] (a stage or [[f/_film|film]] [[s/_set|set]]).**
+- **To [[p/_prepare|prepare]] (a [[s/_stage|stage]] or [[f/_film|film]] [[s/_set|set]]).**
 - **To [[f/_fit|fit]] ([[s/_someone|someone]]) up in a [[s/_situation|situation]].**
 - **To [[a/_arrange|arrange]] (type).**
 	- _Example: It was a complex page, but he set it quickly._
@@ -31,7 +31,7 @@
 - **To [[d/_direct|direct]] (the [[b/_ball|ball]]) to a teammate for an [[a/_attack|attack]].**
 - **To [[s/_solidify|solidify]].**
 	- _Example: The glue sets in four minutes._
-- **To [[r/_render|render]] stiff or [[s/_solid|solid]]; [[e/_especially|especially]], to [[c/_convert|convert]] [[i/_into|into]] [[c/_curd|curd]]; to [[c/_curdle|curdle]].**
+- **To [[r/_render|render]] [[s/_stiff|stiff]] or [[s/_solid|solid]]; [[e/_especially|especially]], to [[c/_convert|convert]] [[i/_into|into]] [[c/_curd|curd]]; to [[c/_curdle|curdle]].**
 	- _Example: to set milk for cheese_
 - **Of a [[h/_heavenly|heavenly]] [[b/_body|body]], to [[d/_disappear|disappear]] [[b/_below|below]] the [[h/_horizon|horizon]] of a [[p/_planet|planet]], [[e/_etc|etc]], as the [[l/_latter|latter]] [[r/_rotates|rotates]].**
 	- _Example: The moon sets at eight o'clock tonight._
@@ -39,7 +39,7 @@
 - **([[n/_now|now]] [[f/_followed|followed]] by "[[o/_out|out]]", as in [[s/_set|set]] [[o/_out|out]]) To [[b/_begin|begin]] to [[m/_move|move]]; to [[g/_go|go]] [[f/_forth|forth]].**
 - **To [[p/_produce|produce]] [[a/_after|after]] [[p/_pollination|pollination]].**
 	- _Example: to set seed_
-- **(of [[f/_fruit|fruit]]) To be [[f/_fixed|fixed]] for [[g/_growth|growth]]; to strike [[r/_root|root]]; to [[b/_begin|begin]] to [[g/_germinate|germinate]] or [[f/_form|form]].**
+- **(of [[f/_fruit|fruit]]) To be [[f/_fixed|fixed]] for [[g/_growth|growth]]; to [[s/_strike|strike]] [[r/_root|root]]; to [[b/_begin|begin]] to [[g/_germinate|germinate]] or [[f/_form|form]].**
 - **([[m/_midwestern|Midwestern]] US) To [[s/_sit|sit]] (be in a [[s/_seated|seated]] [[p/_position|position]]).**
 	- _Example: He sets in that chair all day._
 - **To [[h/_hunt|hunt]] [[g/_game|game]] with the [[a/_aid|aid]] of a [[s/_setter|setter]].**
@@ -58,15 +58,15 @@
 	- _Example: to set a precious stone in a border of metal_
 - **To [[p/_put|put]] in [[o/_order|order]] in a [[p/_particular|particular]] [[m/_manner|manner]]; to [[p/_prepare|prepare]].**
 	- _Example: to set (that is, to hone) a razor_
-- **To [[e/_extend|extend]] and [[b/_bring|bring]] [[i/_into|into]] [[p/_position|position]]; to spread.**
+- **To [[e/_extend|extend]] and [[b/_bring|bring]] [[i/_into|into]] [[p/_position|position]]; to [[s/_spread|spread]].**
 	- _Example: to set the sails of a ship_
-- **To [[g/_give|give]] a [[p/_pitch|pitch]] to, as a tune; to start by [[f/_fixing|fixing]] the [[k/_keynote|keynote]].**
+- **To [[g/_give|give]] a [[p/_pitch|pitch]] to, as a tune; to [[s/_start|start]] by [[f/_fixing|fixing]] the [[k/_keynote|keynote]].**
 	- _Example: to set a psalm_
-- **To [[r/_reduce|reduce]] from a [[d/_dislocated|dislocated]] or [[f/_fractured|fractured]] state.**
+- **To [[r/_reduce|reduce]] from a [[d/_dislocated|dislocated]] or [[f/_fractured|fractured]] [[s/_state|state]].**
 	- _Example: to set a broken bone_
-- **To [[l/_lower|lower]] [[i/_into|into]] [[p/_place|place]] and [[f/_fix|fix]] [[s/_solidly|solidly]], as the [[b/_blocks|blocks]] of [[c/_cut|cut]] stone in a structure.**
+- **To [[l/_lower|lower]] [[i/_into|into]] [[p/_place|place]] and [[f/_fix|fix]] [[s/_solidly|solidly]], as the [[b/_blocks|blocks]] of [[c/_cut|cut]] [[s/_stone|stone]] in a [[s/_structure|structure]].**
 - **To wager in [[g/_gambling|gambling]]; to [[r/_risk|risk]].**
-- **To [[a/_adorn|adorn]] with [[s/_something|something]] [[i/_infixed|infixed]] or [[a/_affixed|affixed]]; to stud; to variegate with [[o/_objects|objects]] [[p/_placed|placed]] [[h/_here|here]] and there.**
+- **To [[a/_adorn|adorn]] with [[s/_something|something]] [[i/_infixed|infixed]] or [[a/_affixed|affixed]]; to [[s/_stud|stud]]; to variegate with [[o/_objects|objects]] [[p/_placed|placed]] [[h/_here|here]] and there.**
 - **To value; to [[r/_rate|rate]]; used with at.**
 - **To [[e/_establish|establish]] as a [[r/_rule|rule]]; to [[f/_furnish|furnish]]; to [[p/_prescribe|prescribe]]; to [[a/_assign|assign]].**
 	- _Example: to set a good example_
@@ -84,8 +84,8 @@
 	- _Example: television set_
 - **A [[s/_small|small]] tuber or [[b/_bulb|bulb]] used [[i/_instead|instead]] of [[s/_seed|seed]], [[p/_particularly|particularly]] [[o/_onion|onion]] [[s/_sets|sets]] and [[p/_potato|potato]] [[s/_sets|sets]].**
 - **The [[a/_amount|amount]] the teeth of a [[s/_saw|saw]] [[p/_protrude|protrude]] to the [[s/_side|side]] in [[o/_order|order]] to [[c/_create|create]] the [[k/_kerf|kerf]].**
-- **That which is staked; a wager; [[h/_hence|hence]], a [[g/_gambling|gambling]] [[g/_game|game]].**
-- **[[p/_permanent|Permanent]] [[c/_change|change]] of [[s/_shape|shape]] [[c/_caused|caused]] by [[e/_excessive|excessive]] strain, as from [[c/_compression|compression]], tension, [[b/_bending|bending]], twisting, [[e/_etc|etc]].**
+- **That which is [[s/_staked|staked]]; a wager; [[h/_hence|hence]], a [[g/_gambling|gambling]] [[g/_game|game]].**
+- **[[p/_permanent|Permanent]] [[c/_change|change]] of [[s/_shape|shape]] [[c/_caused|caused]] by [[e/_excessive|excessive]] [[s/_strain|strain]], as from [[c/_compression|compression]], tension, [[b/_bending|bending]], twisting, [[e/_etc|etc]].**
 	- _Example: the set of a spring_
 - **A [[b/_bias|bias]] of [[m/_mind|mind]]; an [[a/_attitude|attitude]] or [[p/_pattern|pattern]] of [[b/_behaviour|behaviour]].**
 - **(piledriving) A [[p/_piece|piece]] [[p/_placed|placed]] temporarily upon the [[h/_head|head]] of a [[p/_pile|pile]] when the [[l/_latter|latter]] [[c/_cannot|cannot]] [[o/_otherwise|otherwise]] be [[r/_reached|reached]] by the weight, or [[h/_hammer|hammer]].**
@@ -93,7 +93,7 @@
 - **A [[y/_young|young]] [[o/_oyster|oyster]] when [[f/_first|first]] [[a/_attached|attached]].**
 - **[[c/_collectively|Collectively]], the [[c/_crop|crop]] of [[y/_young|young]] [[o/_oysters|oysters]] in [[a/_any|any]] [[l/_locality|locality]].**
 - **A [[s/_series|series]] or [[g/_group|group]] of [[s/_something|something]]. ([[n/_note|Note]] the [[s/_similar|similar]] [[m/_meaning|meaning]] in [[e/_etymology|Etymology]] 4, [[n/_noun|Noun]])**
-- **The [[m/_manner|manner]], state, or [[q/_quality|quality]] of [[s/_setting|setting]] or [[f/_fitting|fitting]]; [[f/_fit|fit]].**
+- **The [[m/_manner|manner]], [[s/_state|state]], or [[q/_quality|quality]] of [[s/_setting|setting]] or [[f/_fitting|fitting]]; [[f/_fit|fit]].**
 	- _Example: the set of a coat_
 - **The [[p/_pattern|pattern]] of a tartan, [[e/_etc|etc]].**
 - **The [[c/_camber|camber]] of a [[c/_curved|curved]] [[r/_roofing|roofing]] tile.**
@@ -134,7 +134,7 @@
 #noun
 - **The [[s/_system|system]] of tunnels that is the [[h/_home|home]] of a [[b/_badger|badger]].**
 - **The [[p/_pattern|pattern]] of [[d/_distinctive|distinctive]] threads and [[y/_yarns|yarns]] that [[m/_make|make]] up the [[p/_plaid|plaid]] of a [[s/_scottish|Scottish]] tartan.**
-- **A [[s/_small|small]], square-[[c/_cut|cut]] [[p/_piece|piece]] of [[q/_quarried|quarried]] stone used for [[p/_paving|paving]] and [[e/_edging|edging]].**
+- **A [[s/_small|small]], [[s/_square|square]]-[[c/_cut|cut]] [[p/_piece|piece]] of [[q/_quarried|quarried]] [[s/_stone|stone]] used for [[p/_paving|paving]] and [[e/_edging|edging]].**
 ---
 ### Synonyms
 - 

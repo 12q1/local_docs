@@ -7,9 +7,9 @@
 	- _Example: Bolt the door._
 - **To [[f/_flee|flee]], to [[d/_depart|depart]], to [[a/_accelerate|accelerate]] suddenly.**
 	- _Example: Seeing the snake, the horse bolted._
-- **To [[c/_cause|cause]] to start or spring [[f/_forth|forth]]; to [[d/_dislodge|dislodge]] (an [[a/_animal|animal]] [[b/_being|being]] [[h/_hunted|hunted]]).**
+- **To [[c/_cause|cause]] to [[s/_start|start]] or [[s/_spring|spring]] [[f/_forth|forth]]; to [[d/_dislodge|dislodge]] (an [[a/_animal|animal]] [[b/_being|being]] [[h/_hunted|hunted]]).**
 	- _Example: to bolt a rabbit_
-- **To strike or [[f/_fall|fall]] suddenly [[l/_like|like]] a [[b/_bolt|bolt]].**
+- **To [[s/_strike|strike]] or [[f/_fall|fall]] suddenly [[l/_like|like]] a [[b/_bolt|bolt]].**
 - **To [[e/_escape|escape]].**
 - **Of a [[p/_plant|plant]], to [[g/_grow|grow]] [[q/_quickly|quickly]]; to [[g/_go|go]] to [[s/_seed|seed]].**
 	- _Example: Lettuce and spinach will bolt as the weather warms up._

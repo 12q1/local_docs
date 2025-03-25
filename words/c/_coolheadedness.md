@@ -1,6 +1,6 @@
 # Coolheadedness
 ---
 #noun
-- **The state or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[c/_coolheaded|coolheaded]].**
+- **The [[s/_state|state]] or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[c/_coolheaded|coolheaded]].**
 ---
 ---

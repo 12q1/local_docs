@@ -13,6 +13,6 @@
 ### Synonyms
 - [[a/_aftercome|aftercome]], [[d/_distinction|distinction]], [[i/_implication|implication]], [[m/_moment|moment]], [[r/_rank|rank]], [[r/_repercussion|repercussion]], [[v/_value|value]]
 #noun
-- **An [[o/_old|old]]-[[f/_fashioned|fashioned]] [[p/_parlour|parlour]] [[g/_game|game]] [[d/_describing|describing]] the [[m/_meeting|meeting]] of a [[l/_lady|lady]] and [[g/_gentleman|gentleman]] and the [[e/_ensuing|ensuing]] [[e/_events|events]], [[e/_each|each]] [[p/_player|player]] in turn writing a [[p/_part|part]] of the story, not [[k/_knowing|knowing]] what the [[o/_others|others]] [[h/_have|have]] written.**
+- **An [[o/_old|old]]-[[f/_fashioned|fashioned]] [[p/_parlour|parlour]] [[g/_game|game]] [[d/_describing|describing]] the [[m/_meeting|meeting]] of a [[l/_lady|lady]] and [[g/_gentleman|gentleman]] and the [[e/_ensuing|ensuing]] [[e/_events|events]], [[e/_each|each]] [[p/_player|player]] in turn writing a [[p/_part|part]] of the [[s/_story|story]], not [[k/_knowing|knowing]] what the [[o/_others|others]] [[h/_have|have]] written.**
 ---
 ---

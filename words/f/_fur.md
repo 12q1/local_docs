@@ -1,7 +1,7 @@
 # Fur
 ---
 #noun
-- **The [[h/_hairy|hairy]] [[c/_coat|coat]] of various [[m/_mammal|mammal]] species, [[e/_especially|especially]] when [[f/_fine|fine]], [[s/_soft|soft]] and thick.**
+- **The [[h/_hairy|hairy]] [[c/_coat|coat]] of various [[m/_mammal|mammal]] [[s/_species|species]], [[e/_especially|especially]] when [[f/_fine|fine]], [[s/_soft|soft]] and thick.**
 - **The [[h/_hairy|hairy]] [[s/_skin|skin]] of an [[a/_animal|animal]] [[p/_processed|processed]] [[i/_into|into]] [[c/_clothing|clothing]] for [[h/_humans|humans]].**
 - **A [[p/_pelt|pelt]] used to [[m/_make|make]], trim or [[l/_line|line]] [[c/_clothing|clothing]] [[a/_apparel|apparel]].**
 - **A [[c/_coating|coating]], [[l/_lining|lining]] [[r/_resembling|resembling]] [[f/_fur|fur]] in [[f/_function|function]] and/or [[a/_appearance|appearance]].**

@@ -1,7 +1,7 @@
 # Oh
 ---
 #noun
-- **An utterance of [[o/_oh|oh]]; a spoken [[e/_expression|expression]] of surprise, [[a/_acknowledgement|acknowledgement]], [[e/_etc|etc]].**
+- **An utterance of [[o/_oh|oh]]; a [[s/_spoken|spoken]] [[e/_expression|expression]] of surprise, [[a/_acknowledgement|acknowledgement]], [[e/_etc|etc]].**
 ---
 #verb
 - **To utter the [[i/_interjection|interjection]] [[o/_oh|oh]]; to [[e/_express|express]] surprise, [[e/_etc|etc]].**
@@ -25,7 +25,7 @@
 - **[[s/_space|Space]] [[f/_filler|filler]] or [[e/_extra|extra]] [[s/_syllable|syllable]], [[e/_especially|especially]] in ([[p/_popular|popular]]) [[m/_music|music]].**
 - **([[i/_interrogative|interrogative]]) [[e/_expression|Expression]] of [[m/_mild|mild]] [[s/_scepticism|scepticism]].**
 	- _Example: "You should watch where you're going!" "Oh?"_
-- **A word to [[m/_mark|mark]] a spoken [[p/_phrase|phrase]] as [[i/_imaginary|imaginary]].**
+- **A word to [[m/_mark|mark]] a [[s/_spoken|spoken]] [[p/_phrase|phrase]] as [[i/_imaginary|imaginary]].**
 	- _Example: What if he says "Oh, I need to see your ID"?_
 ---
 ---

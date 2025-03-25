@@ -1,7 +1,7 @@
 # Massage
 ---
 #noun
-- **The [[a/_action|action]] of [[r/_rubbing|rubbing]], [[k/_kneading|kneading]] or [[h/_hitting|hitting]] [[s/_someone|someone]]'[[s/_s|s]] [[b/_body|body]], to [[h/_help|help]] the [[p/_person|person]] [[r/_relax|relax]], [[p/_prepare|prepare]] for [[m/_muscular|muscular]] [[a/_action|action]] (as in [[c/_contact|contact]] sports) or to [[r/_relieve|relieve]] [[a/_aches|aches]].**
+- **The [[a/_action|action]] of [[r/_rubbing|rubbing]], [[k/_kneading|kneading]] or [[h/_hitting|hitting]] [[s/_someone|someone]]'[[s/_s|s]] [[b/_body|body]], to [[h/_help|help]] the [[p/_person|person]] [[r/_relax|relax]], [[p/_prepare|prepare]] for [[m/_muscular|muscular]] [[a/_action|action]] (as in [[c/_contact|contact]] [[s/_sports|sports]]) or to [[r/_relieve|relieve]] [[a/_aches|aches]].**
 	- _Example: Having a massage can have many beneficial effects._
 ---
 #verb

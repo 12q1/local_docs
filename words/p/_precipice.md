@@ -1,7 +1,7 @@
 # Precipice
 ---
 #noun
-- **A very steep [[c/_cliff|cliff]].**
+- **A very [[s/_steep|steep]] [[c/_cliff|cliff]].**
 - **The [[b/_brink|brink]] of a [[d/_dangerous|dangerous]] [[s/_situation|situation]].**
 	- _Example: to stand on a precipice_
 - **A [[h/_headlong|headlong]] [[f/_fall|fall]] or [[d/_descent|descent]].**

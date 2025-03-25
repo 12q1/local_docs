@@ -13,7 +13,7 @@
 ### Synonyms
 - [[b/_ban|ban]], [[d/_disallow|disallow]], [[p/_prohibit|prohibit]], [[v/_veto|veto]]
 #adjective
-- **Not [[a/_allowed|allowed]]; specifically [[d/_disallowed|disallowed]].**
+- **Not [[a/_allowed|allowed]]; [[s/_specifically|specifically]] [[d/_disallowed|disallowed]].**
 ---
 ### Synonyms
 - [[p/_prohibited|prohibited]], [[v/_verboten|verboten]]

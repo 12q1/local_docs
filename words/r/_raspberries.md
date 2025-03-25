@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[p/_plant|plant]] [[r/_rubus|Rubus]] idaeus.**
-- **[[a/_any|Any]] of [[m/_many|many]] [[o/_other|other]] (but not [[a/_all|all]]) species in the [[g/_genus|genus]] [[r/_rubus|Rubus]].**
+- **[[a/_any|Any]] of [[m/_many|many]] [[o/_other|other]] (but not [[a/_all|all]]) [[s/_species|species]] in the [[g/_genus|genus]] [[r/_rubus|Rubus]].**
 - **The [[j/_juicy|juicy]] [[a/_aggregate|aggregate]] [[f/_fruit|fruit]] of these [[p/_plants|plants]].**
 - **A [[r/_red|red]] [[c/_colour|colour]], the [[c/_colour|colour]] of a [[r/_ripe|ripe]] [[r/_raspberry|raspberry]].**
 ---

@@ -10,7 +10,7 @@
 	- _Example: He was resolved by an unexpected event._
 - **To [[c/_come|come]] to an [[a/_agreement|agreement]] or [[m/_make|make]] [[p/_peace|peace]]; [[p/_patch|patch]] up [[r/_relationship|relationship]], [[s/_settle|settle]] [[d/_differences|differences]], [[b/_bury|bury]] the [[h/_hatchet|hatchet]].**
 	- _Example: After two weeks of bickering, they finally resolved their differences._
-- **To [[b/_break|break]] [[d/_down|down]] [[i/_into|into]] [[c/_constituent|constituent]] [[p/_parts|parts]]; to [[d/_decompose|decompose]]; to [[d/_disintegrate|disintegrate]]; to [[r/_return|return]] to a [[s/_simpler|simpler]] [[c/_constitution|constitution]] or a [[p/_primeval|primeval]] state.**
+- **To [[b/_break|break]] [[d/_down|down]] [[i/_into|into]] [[c/_constituent|constituent]] [[p/_parts|parts]]; to [[d/_decompose|decompose]]; to [[d/_disintegrate|disintegrate]]; to [[r/_return|return]] to a [[s/_simpler|simpler]] [[c/_constitution|constitution]] or a [[p/_primeval|primeval]] [[s/_state|state]].**
 - **To [[c/_cause|cause]] to [[p/_perceive|perceive]] or understand; to [[a/_acquaint|acquaint]]; to [[i/_inform|inform]]; to [[c/_convince|convince]]; to [[a/_assure|assure]]; to [[m/_make|make]] [[c/_certain|certain]].**
 - **To [[c/_cause|cause]] a [[c/_chord|chord]] to [[g/_go|go]] from [[d/_dissonance|dissonance]] to [[c/_consonance|consonance]].**
 - **To [[r/_render|render]] visible or [[d/_distinguishable|distinguishable]] the [[p/_parts|parts]] of [[s/_something|something]].**

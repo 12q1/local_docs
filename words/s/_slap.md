@@ -8,9 +8,9 @@
 #verb
 - **To [[g/_give|give]] a [[s/_slap|slap]] to.**
 	- _Example: She slapped him in response to the insult._
-- **To [[c/_cause|cause]] [[s/_something|something]] to strike [[s/_soundly|soundly]].**
+- **To [[c/_cause|cause]] [[s/_something|something]] to [[s/_strike|strike]] [[s/_soundly|soundly]].**
 	- _Example: He slapped the reins against the horse's back._
-- **To strike [[s/_soundly|soundly]] [[a/_against|against]] [[s/_something|something]].**
+- **To [[s/_strike|strike]] [[s/_soundly|soundly]] [[a/_against|against]] [[s/_something|something]].**
 	- _Example: The rain slapped against the window-panes._
 - **To be [[e/_excellent|excellent]].**
 	- _Example: The band's new single slaps._

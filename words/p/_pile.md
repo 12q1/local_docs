@@ -23,7 +23,7 @@
 	- _Example: We piled the camel with our loads._
 - **To [[a/_add|add]] [[s/_something|something]] to a [[g/_great|great]] [[n/_number|number]].**
 - **(of vehicles) To [[c/_create|create]] a [[h/_hold|hold]]-up.**
-- **To [[p/_place|place]] ([[g/_guns|guns]], [[m/_muskets|muskets]], [[e/_etc|etc]].) together in threes [[s/_so|so]] that they [[c/_can|can]] stand upright, supporting [[e/_each|each]] [[o/_other|other]].**
+- **To [[p/_place|place]] ([[g/_guns|guns]], [[m/_muskets|muskets]], [[e/_etc|etc]].) together in threes [[s/_so|so]] that they [[c/_can|can]] [[s/_stand|stand]] upright, supporting [[e/_each|each]] [[o/_other|other]].**
 ---
 ### Synonyms
 - [[h/_heap|heap]]

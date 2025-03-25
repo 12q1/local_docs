@@ -1,7 +1,7 @@
 # Solids
 ---
 #noun
-- **A substance in the [[f/_fundamental|fundamental]] state of [[m/_matter|matter]] that [[r/_retains|retains]] [[i/_its|its]] [[s/_size|size]] and [[s/_shape|shape]] without [[n/_need|need]] of a [[c/_container|container]] (as [[o/_opposed|opposed]] to a [[l/_liquid|liquid]] or [[g/_gas|gas]]).**
+- **A substance in the [[f/_fundamental|fundamental]] [[s/_state|state]] of [[m/_matter|matter]] that [[r/_retains|retains]] [[i/_its|its]] [[s/_size|size]] and [[s/_shape|shape]] without [[n/_need|need]] of a [[c/_container|container]] (as [[o/_opposed|opposed]] to a [[l/_liquid|liquid]] or [[g/_gas|gas]]).**
 - **A three-[[d/_dimensional|dimensional]] [[f/_figure|figure]] (as [[o/_opposed|opposed]] to a surface, an [[a/_area|area]], or a [[c/_curve|curve]]).**
 - **A [[f/_favor|favor]].**
 	- _Example: I owe him; he did me a solid last year._

@@ -12,7 +12,7 @@
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to the [[i/_inhabitants|inhabitants]] of a [[l/_land|land]], their [[c/_culture|culture]], tradition, or [[h/_history|history]].**
 - **Of or [[p/_pertaining|pertaining]] to [[c/_common|common]] [[p/_people|people]] as [[o/_opposed|opposed]] to [[r/_ruling|ruling]] [[c/_classes|classes]] or [[e/_elites|elites]].**
-- **Of or [[r/_related|related]] to [[l/_local|local]] [[b/_building|building]] [[m/_materials|materials]] and styles.**
+- **Of or [[r/_related|related]] to [[l/_local|local]] [[b/_building|building]] [[m/_materials|materials]] and [[s/_styles|styles]].**
 - **[[b/_believed|Believed]] or transmitted by the [[c/_common|common]] [[p/_people|people]]; not [[a/_academically|academically]] [[c/_correct|correct]] or [[r/_rigorous|rigorous]].**
 	- _Example: folk psychology; folk linguistics_
 ---

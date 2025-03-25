@@ -14,7 +14,7 @@
 - **([[c/_causal|causal]] [[a/_analysis|analysis]]) [[i/_influence|Influence]]; a [[p/_phenomenon|phenomenon]] that [[a/_affects|affects]] the [[n/_nature|nature]], the [[m/_magnitude|magnitude]], and/or the timing of a [[c/_consequence|consequence]].**
 	- _Example: The launch temperature was a factor of the Challenger disaster._
 - **A [[r/_resource|resource]] used in the [[p/_production|production]] of [[g/_goods|goods]] or [[s/_services|services]], a [[f/_factor|factor]] of [[p/_production|production]].**
-- **A steward or [[b/_bailiff|bailiff]] of an [[e/_estate|estate]].**
+- **A [[s/_steward|steward]] or [[b/_bailiff|bailiff]] of an [[e/_estate|estate]].**
 ---
 #verb
 - **To [[f/_find|find]] [[a/_all|all]] the [[f/_factors|factors]] of (a [[n/_number|number]] or [[o/_other|other]] [[m/_mathematical|mathematical]] [[o/_object|object]]) (the [[o/_objects|objects]] that [[d/_divide|divide]] it [[e/_evenly|evenly]]).**

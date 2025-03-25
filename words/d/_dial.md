@@ -1,7 +1,7 @@
 # Dial
 ---
 #noun
-- **A [[g/_graduated|graduated]], [[c/_circular|circular]] [[s/_scale|scale]] [[o/_over|over]] which a [[n/_needle|needle]] [[m/_moves|moves]] to [[s/_show|show]] a [[m/_measurement|measurement]] (such as speed).**
+- **A [[g/_graduated|graduated]], [[c/_circular|circular]] [[s/_scale|scale]] [[o/_over|over]] which a [[n/_needle|needle]] [[m/_moves|moves]] to [[s/_show|show]] a [[m/_measurement|measurement]] (such as [[s/_speed|speed]]).**
 - **A [[c/_clock|clock]] [[f/_face|face]].**
 - **A sundial.**
 - **A [[p/_panel|panel]] on a [[r/_radio|radio]] [[e/_etc|etc]] [[s/_showing|showing]] wavelengths or [[c/_channels|channels]]; a [[k/_knob|knob]] that is turned to [[c/_change|change]] the wavelength [[e/_etc|etc]].**

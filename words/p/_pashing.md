@@ -5,6 +5,6 @@
 ---
 #verb
 - **To throw (or be thrown) and [[b/_break|break]].**
-- **To strike; to [[c/_crush|crush]]; to [[s/_smash|smash]]; to [[d/_dash|dash]] [[i/_into|into]] [[p/_pieces|pieces]].**
+- **To [[s/_strike|strike]]; to [[c/_crush|crush]]; to [[s/_smash|smash]]; to [[d/_dash|dash]] [[i/_into|into]] [[p/_pieces|pieces]].**
 ---
 ---

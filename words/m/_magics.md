@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_application|application]] of [[r/_rituals|rituals]] or [[a/_actions|actions]], [[e/_especially|especially]] those [[b/_based|based]] on [[o/_occult|occult]] [[k/_knowledge|knowledge]], to subdue or [[m/_manipulate|manipulate]] [[n/_natural|natural]] or supernatural [[b/_beings|beings]] and [[f/_forces|forces]] in [[o/_order|order]] to [[h/_have|have]] [[s/_some|some]] [[b/_benefit|benefit]] from them**
-- **A specific [[r/_ritual|ritual]] or [[p/_procedure|procedure]] [[a/_associated|associated]] with such [[m/_magic|magic]]; a spell.**
+- **A [[s/_specific|specific]] [[r/_ritual|ritual]] or [[p/_procedure|procedure]] [[a/_associated|associated]] with such [[m/_magic|magic]]; a [[s/_spell|spell]].**
 - **The supernatural [[f/_forces|forces]] which are [[d/_drawn|drawn]] on in such a [[r/_ritual|ritual]]**
 - **[[s/_something|Something]] [[p/_producing|producing]] successful and [[r/_remarkable|remarkable]] [[r/_results|results]], [[e/_especially|especially]] when not [[f/_fully|fully]] understood; an [[e/_enchanting|enchanting]] [[q/_quality|quality]]; [[e/_exceptional|exceptional]] [[s/_skill|skill]].**
 - **A [[c/_conjuring|conjuring]] trick or [[i/_illusion|illusion]] [[p/_performed|performed]] to [[g/_give|give]] the [[a/_appearance|appearance]] of supernatural [[p/_phenomena|phenomena]] or [[p/_powers|powers]].**

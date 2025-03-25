@@ -6,7 +6,7 @@
 ---
 #verb
 - **To [[p/_place|place]] a [[s/_seal|seal]] on (a [[d/_document|document]]).**
-- **To [[m/_mark|mark]] with a stamp, as an [[e/_evidence|evidence]] of standard [[e/_exactness|exactness]], [[l/_legal|legal]] [[s/_size|size]], or [[m/_merchantable|merchantable]] [[q/_quality|quality]].**
+- **To [[m/_mark|mark]] with a [[s/_stamp|stamp]], as an [[e/_evidence|evidence]] of [[s/_standard|standard]] [[e/_exactness|exactness]], [[l/_legal|legal]] [[s/_size|size]], or [[m/_merchantable|merchantable]] [[q/_quality|quality]].**
 	- _Example: to seal silverware_
 - **To [[f/_fasten|fasten]] ([[s/_something|something]]) [[s/_so|so]] that it [[c/_cannot|cannot]] be [[o/_opened|opened]] without visible [[d/_damage|damage]].**
 	- _Example: The cover is sealed. If anyone tries to open it, we'll know about it._
@@ -28,7 +28,7 @@
 ### Synonyms
 - [[b/_block|block]], [[c/_close|close]], [[o/_obstruct|obstruct]], [[e/_enclose|enclose]]
 #verb
-- **To tie up [[a/_animals|animals]] ([[e/_especially|especially]] [[c/_cattle|cattle]]) in their stalls.**
+- **To tie up [[a/_animals|animals]] ([[e/_especially|especially]] [[c/_cattle|cattle]]) in their [[s/_stalls|stalls]].**
 ---
 #noun
 - **[[a/_action|Action]] of the verb to [[s/_seal|seal]] in [[a/_any|any]] [[s/_sense|sense]].**

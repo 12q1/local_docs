@@ -9,7 +9,7 @@
 ---
 #adjective
 - **Vowed; [[d/_dedicated|dedicated]]; [[c/_consecrated|consecrated]].**
-- **Strongly [[e/_emotionally|emotionally]] [[a/_attached|attached]]; very [[f/_fond|fond]] of [[s/_someone|someone]] or [[s/_something|something]].**
+- **[[s/_strongly|Strongly]] [[e/_emotionally|emotionally]] [[a/_attached|attached]]; very [[f/_fond|fond]] of [[s/_someone|someone]] or [[s/_something|something]].**
 	- _Example: Bob and Sara are devoted to their children._
 - **Zealous; [[c/_characterized|characterized]] by [[d/_devotion|devotion]].**
 - **[[c/_cursed|Cursed]]; [[d/_doomed|doomed]].**

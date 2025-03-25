@@ -1,7 +1,7 @@
 # Locos
 ---
 #noun
-- **A [[c/_certain|certain]] species of [[a/_astragalus|Astragalus]] or [[o/_oxytropis|Oxytropis]], [[c/_capable|capable]] of [[c/_causing|causing]] [[l/_locoism|locoism]].**
+- **A [[c/_certain|certain]] [[s/_species|species]] of [[a/_astragalus|Astragalus]] or [[o/_oxytropis|Oxytropis]], [[c/_capable|capable]] of [[c/_causing|causing]] [[l/_locoism|locoism]].**
 ---
 ### Synonyms
 - [[l/_locoweed|locoweed]]

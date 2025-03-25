@@ -1,7 +1,7 @@
 # Oxidising
 ---
 #adjective
-- **[[a/_alternative|Alternative]] spelling of [[o/_oxidizing|oxidizing]]**
+- **[[a/_alternative|Alternative]] [[s/_spelling|spelling]] of [[o/_oxidizing|oxidizing]]**
 ---
 #verb
 - **To [[c/_combine|combine]] with [[o/_oxygen|oxygen]] or [[o/_otherwise|otherwise]] [[m/_make|make]] an [[o/_oxide|oxide]].**

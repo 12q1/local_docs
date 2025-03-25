@@ -5,7 +5,7 @@
 	- _Example: John is rumored to be next in line for a promotion._
 ---
 #adjective
-- **Widely [[r/_reported|reported]] without strong [[e/_evidence|evidence]].**
+- **Widely [[r/_reported|reported]] without [[s/_strong|strong]] [[e/_evidence|evidence]].**
 	- _Example: The company's rumored losses led to a sharp decline in share price._
 ---
 ---

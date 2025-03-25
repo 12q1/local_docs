@@ -4,7 +4,7 @@
 - **A [[p/_penalty|penalty]] for or [[c/_consequence|consequence]] of a [[m/_misdemeanor|misdemeanor]].**
 - **A thing [[f/_forfeited|forfeited]]; that which is taken from [[s/_somebody|somebody]] in [[r/_requital|requital]] of a [[m/_misdeed|misdeed]] [[c/_committed|committed]]; that which is [[l/_lost|lost]], or the [[r/_right|right]] to which is [[a/_alienated|alienated]], by a [[c/_crime|crime]], [[b/_breach|breach]] of [[c/_contract|contract]], [[e/_etc|etc]].**
 	- _Example: He who murders pays the forfeit of his own life._
-- **[[s/_something|Something]] [[d/_deposited|deposited]] and [[r/_redeemable|redeemable]] by a sportive [[f/_fine|fine]] as [[p/_part|part]] of a [[g/_game|game]].**
+- **[[s/_something|Something]] [[d/_deposited|deposited]] and [[r/_redeemable|redeemable]] by a [[s/_sportive|sportive]] [[f/_fine|fine]] as [[p/_part|part]] of a [[g/_game|game]].**
 - **[[i/_injury|Injury]]; wrong; [[m/_mischief|mischief]].**
 ---
 #verb

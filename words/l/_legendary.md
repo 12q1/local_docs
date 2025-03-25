@@ -8,7 +8,7 @@
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to a [[l/_legend|legend]] or to [[l/_legends|legends]].**
 - **[[a/_appearing|Appearing]] ([[s/_solely|solely]]) in [[l/_legends|legends]].**
-- **[[h/_having|Having]] the splendor of a [[l/_legend|legend]]; [[f/_fabled|fabled]].**
-- **[[h/_having|Having]] unimaginable [[g/_greatness|greatness]]; [[e/_excellent|excellent]] to such an [[e/_extent|extent]] to [[e/_evoke|evoke]] stories**
+- **[[h/_having|Having]] the [[s/_splendor|splendor]] of a [[l/_legend|legend]]; [[f/_fabled|fabled]].**
+- **[[h/_having|Having]] unimaginable [[g/_greatness|greatness]]; [[e/_excellent|excellent]] to such an [[e/_extent|extent]] to [[e/_evoke|evoke]] [[s/_stories|stories]]**
 ---
 ---

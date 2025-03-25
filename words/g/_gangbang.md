@@ -3,7 +3,7 @@
 #noun
 - **[[s/_sexual|Sexual]] [[i/_intercourse|intercourse]] [[i/_involving|involving]] [[m/_more|more]] than two [[p/_persons|persons]], [[e/_especially|especially]] with a [[h/_high|high]] [[p/_proportion|proportion]] of [[m/_men|men]].**
 - **[[g/_gang|Gang]] [[r/_rape|rape]].**
-- **The [[a/_act|act]] of a street [[g/_gang|gang]] [[a/_attacking|attacking]] [[r/_random|random]] [[p/_people|people]] on the streets and/or [[c/_committing|committing]] [[g/_gang|gang]] [[c/_crimes|crimes]].**
+- **The [[a/_act|act]] of a [[s/_street|street]] [[g/_gang|gang]] [[a/_attacking|attacking]] [[r/_random|random]] [[p/_people|people]] on the [[s/_streets|streets]] and/or [[c/_committing|committing]] [[g/_gang|gang]] [[c/_crimes|crimes]].**
 ---
 ### Synonyms
 - [[o/_orgy|orgy]]

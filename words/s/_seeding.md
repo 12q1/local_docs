@@ -4,7 +4,7 @@
 - **To [[p/_plant|plant]] or [[s/_sow|sow]] an [[a/_area|area]] with [[s/_seeds|seeds]].**
 	- _Example: I seeded my lawn with bluegrass._
 - **To [[c/_cover|cover]] thinly with [[s/_something|something]] [[s/_scattered|scattered]]; to [[o/_ornament|ornament]] with [[s/_seedlike|seedlike]] [[d/_decorations|decorations]].**
-- **To start; to [[p/_provide|provide]], [[a/_assign|assign]] or [[d/_determine|determine]] the [[i/_initial|initial]] [[r/_resources|resources]] for, [[p/_position|position]] of, state of.**
+- **To [[s/_start|start]]; to [[p/_provide|provide]], [[a/_assign|assign]] or [[d/_determine|determine]] the [[i/_initial|initial]] [[r/_resources|resources]] for, [[p/_position|position]] of, [[s/_state|state]] of.**
 	- _Example: A venture capitalist seeds young companies._
 - **To [[a/_allocate|allocate]] a [[s/_seeding|seeding]] to a [[c/_competitor|competitor]].**
 - **To [[l/_leave|leave]] ([[f/_files|files]]) [[a/_available|available]] for [[o/_others|others]] to [[d/_download|download]] through [[p/_peer|peer]]-to-[[p/_peer|peer]] [[f/_file|file]] [[s/_sharing|sharing]] [[p/_protocols|protocols]] ([[e/_e|e]].[[g/_g|g]]. BitTorrent).**

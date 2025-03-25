@@ -12,7 +12,7 @@
 	- _Example: We have a hold here for you._
 - **[[p/_power|Power]] [[o/_over|over]] [[s/_someone|someone]] or [[s/_something|something]].**
 - **The [[a/_ability|ability]] to [[p/_persist|persist]].**
-- **The [[p/_property|property]] of [[m/_maintaining|maintaining]] the [[s/_shape|shape]] of styled [[h/_hair|hair]].**
+- **The [[p/_property|property]] of [[m/_maintaining|maintaining]] the [[s/_shape|shape]] of [[s/_styled|styled]] [[h/_hair|hair]].**
 - **A [[p/_position|position]] or [[g/_grip|grip]] used to [[c/_control|control]] the [[o/_opponent|opponent]].**
 	- _Example: He got him in a tight hold and pinned him to the mat._
 - **([[e/_exercise|exercise]]) An [[e/_exercise|exercise]] [[i/_involving|involving]] [[h/_holding|holding]] a [[p/_position|position]] for a [[s/_set|set]] time**
@@ -22,18 +22,18 @@
 	- _Example: As of Monday night the total Melbourne Cup hold was $848,015_
 - **An [[i/_instance|instance]] of [[h/_holding|holding]] [[o/_one|one]]'[[s/_s|s]] [[s/_service|service]] [[g/_game|game]], as [[o/_opposed|opposed]] to [[b/_being|being]] [[b/_broken|broken]].**
 - **The [[p/_part|part]] of an [[o/_object|object]] [[o/_one|one]] is [[i/_intended|intended]] to [[g/_grasp|grasp]], or [[a/_anything|anything]] [[o/_one|one]] [[c/_can|can]] use for [[g/_grasping|grasping]] with [[h/_hands|hands]] or [[f/_feet|feet]].**
-- **A [[f/_fruit|fruit]] [[m/_machine|machine]] [[f/_feature|feature]] [[a/_allowing|allowing]] [[o/_one|one]] or [[m/_more|more]] of the [[r/_reels|reels]] to [[r/_remain|remain]] [[f/_fixed|fixed]] while the [[o/_others|others]] spin.**
+- **A [[f/_fruit|fruit]] [[m/_machine|machine]] [[f/_feature|feature]] [[a/_allowing|allowing]] [[o/_one|one]] or [[m/_more|more]] of the [[r/_reels|reels]] to [[r/_remain|remain]] [[f/_fixed|fixed]] while the [[o/_others|others]] [[s/_spin|spin]].**
 - **A [[p/_pause|pause]] [[f/_facility|facility]].**
 - **The [[q/_queueing|queueing]] [[s/_system|system]] on telephones and [[s/_similar|similar]] [[c/_communication|communication]] [[s/_systems|systems]] which [[m/_maintains|maintains]] a [[c/_connection|connection]] when [[a/_all|all]] [[l/_lines|lines]] are [[b/_busy|busy]].**
-- **A statistic [[a/_awarded|awarded]] to a [[r/_relief|relief]] [[p/_pitcher|pitcher]] who is not still [[p/_pitching|pitching]] at the [[e/_end|end]] of the [[g/_game|game]] and who [[r/_records|records]] at [[l/_least|least]] [[o/_one|one]] [[o/_out|out]] and [[m/_maintains|maintains]] a [[l/_lead|lead]] for [[h/_his|his]] team.**
+- **A [[s/_statistic|statistic]] [[a/_awarded|awarded]] to a [[r/_relief|relief]] [[p/_pitcher|pitcher]] who is not [[s/_still|still]] [[p/_pitching|pitching]] at the [[e/_end|end]] of the [[g/_game|game]] and who [[r/_records|records]] at [[l/_least|least]] [[o/_one|one]] [[o/_out|out]] and [[m/_maintains|maintains]] a [[l/_lead|lead]] for [[h/_his|his]] team.**
 - **A [[r/_region|region]] of [[a/_airspace|airspace]] [[r/_reserved|reserved]] for [[a/_aircraft|aircraft]] [[b/_being|being]] [[k/_kept|kept]] in a [[h/_holding|holding]] [[p/_pattern|pattern]].**
 ---
 #verb
 - **To [[g/_grasp|grasp]] or [[g/_grip|grip]].**
 	- _Example: Hold the pencil like this._
-- **To [[c/_contain|contain]] or store.**
+- **To [[c/_contain|contain]] or [[s/_store|store]].**
 	- _Example: This package holds six bottles._
-- **([[h/_heading|heading]]) To [[m/_maintain|maintain]] or [[k/_keep|keep]] to a [[p/_position|position]] or state.**
+- **([[h/_heading|heading]]) To [[m/_maintain|maintain]] or [[k/_keep|keep]] to a [[p/_position|position]] or [[s/_state|state]].**
 - **([[h/_heading|heading]]) To [[m/_maintain|maintain]] or [[k/_keep|keep]] to [[p/_particular|particular]] [[o/_opinions|opinions]], [[p/_promises|promises]], [[a/_actions|actions]].**
 - **To win [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[s/_service|service]] [[g/_game|game]].**
 - **To take [[p/_place|place]], to [[o/_occur|occur]].**

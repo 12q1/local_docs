@@ -56,7 +56,7 @@
 #noun
 - **[[f/_feet|Feet]], from [[r/_rhyming|rhyming]] [[s/_slang|slang]] [[d/_dog|dog]]'[[s/_s|s]] [[m/_meat|meat]].**
 	- _Example: My dogs are tired. Let's get a taxi._
-- **(usually with the) A [[g/_greyhound|greyhound]] [[r/_racing|racing]] [[e/_event|event]]; the sport of [[g/_greyhound|greyhound]] [[r/_racing|racing]].**
+- **(usually with the) A [[g/_greyhound|greyhound]] [[r/_racing|racing]] [[e/_event|event]]; the [[s/_sport|sport]] of [[g/_greyhound|greyhound]] [[r/_racing|racing]].**
 	- _Example: I lost money at the dogs last night._
 - **[[f/_fasteners|Fasteners]] [[s/_securing|securing]] a watertight [[h/_hatch|hatch]].**
 ---

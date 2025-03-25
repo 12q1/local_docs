@@ -8,9 +8,9 @@
 - **A wide [[r/_receptacle|receptacle]] in which [[g/_gold|gold]] [[g/_grains|grains]] are [[s/_separated|separated]] from [[g/_gravel|gravel]] by washing the [[c/_contents|contents]] with water.**
 - **An [[e/_expanse|expanse]] of [[l/_level|level]] [[l/_land|land]] [[l/_located|located]] in a [[d/_depression|depression]], [[e/_especially|especially]]**
 - **[[s/_short|Short]] for [[h/_hardpan|hardpan]]: a [[h/_hard|hard]] substrate such as is [[f/_formed|formed]] in [[p/_pans|pans]].**
-- **Strong [[a/_adverse|adverse]] [[c/_criticism|criticism]].**
+- **[[s/_strong|Strong]] [[a/_adverse|adverse]] [[c/_criticism|criticism]].**
 - **A [[l/_loaf|loaf]] of [[b/_bread|bread]].**
-- **The [[c/_chamber|chamber]] [[p/_pot|pot]] in a [[c/_close|close]] stool; the [[b/_base|base]] of a toilet, [[c/_consisting|consisting]] of the [[b/_bowl|bowl]] and [[i/_its|its]] support.**
+- **The [[c/_chamber|chamber]] [[p/_pot|pot]] in a [[c/_close|close]] [[s/_stool|stool]]; the [[b/_base|base]] of a toilet, [[c/_consisting|consisting]] of the [[b/_bowl|bowl]] and [[i/_its|its]] support.**
 - **A [[h/_human|human]] [[f/_face|face]], a [[m/_mug|mug]].**
 - **([[r/_roofing|roofing]]) The [[b/_bottom|bottom]] [[f/_flat|flat]] [[p/_part|part]] of a [[r/_roofing|roofing]] [[p/_panel|panel]] that is [[b/_between|between]] the [[r/_ribs|ribs]] of the [[p/_panel|panel]].**
 - **A [[c/_closed|closed]] vessel for [[b/_boiling|boiling]] or [[e/_evaporating|evaporating]] as [[p/_part|part]] of [[m/_manufacture|manufacture]]; a vacuum [[p/_pan|pan]].**
@@ -30,8 +30,8 @@
 ---
 #verb
 - **Of a [[c/_camera|camera]], [[e/_etc|etc]].: to turn [[h/_horizontally|horizontally]].**
-- **To [[m/_move|move]] the [[c/_camera|camera]] [[l/_lens|lens]] [[a/_angle|angle]] while [[c/_continuing|continuing]] to [[e/_expose|expose]] the [[f/_film|film]], [[e/_enabling|enabling]] a [[c/_contiguous|contiguous]] view and [[e/_enrichment|enrichment]] of [[c/_context|context]]. In still-[[p/_photography|photography]] [[l/_large|large]]-[[g/_group|group]] [[p/_portraits|portraits]] the [[f/_film|film]] usually [[r/_remains|remains]] on a [[h/_horizontal|horizontal]] [[f/_fixed|fixed]] [[p/_plane|plane]] as the [[l/_lens|lens]] and/or the [[f/_film|film]] [[h/_holder|holder]] [[m/_moves|moves]] to [[e/_expose|expose]] the [[f/_film|film]] [[l/_laterally|laterally]]. The [[r/_resulting|resulting]] [[i/_image|image]] [[m/_may|may]] [[e/_extend|extend]] a [[s/_short|short]] [[d/_distance|distance]] [[l/_laterally|laterally]] or as [[g/_great|great]] as 360 [[d/_degrees|degrees]] from the [[p/_point|point]] where the [[f/_film|film]] [[f/_first|first]] [[b/_began|began]] to be [[e/_exposed|exposed]].**
-- **([[a/_audio|audio]]) To spread a [[s/_sound|sound]] [[s/_signal|signal]] [[i/_into|into]] a [[n/_new|new]] stereo or [[m/_multichannel|multichannel]] [[s/_sound|sound]] [[f/_field|field]], typically [[g/_giving|giving]] the [[i/_impression|impression]] that it is [[m/_moving|moving]] [[a/_across|across]] the [[s/_sound|sound]] stage.**
+- **To [[m/_move|move]] the [[c/_camera|camera]] [[l/_lens|lens]] [[a/_angle|angle]] while [[c/_continuing|continuing]] to [[e/_expose|expose]] the [[f/_film|film]], [[e/_enabling|enabling]] a [[c/_contiguous|contiguous]] view and [[e/_enrichment|enrichment]] of [[c/_context|context]]. In [[s/_still|still]]-[[p/_photography|photography]] [[l/_large|large]]-[[g/_group|group]] [[p/_portraits|portraits]] the [[f/_film|film]] usually [[r/_remains|remains]] on a [[h/_horizontal|horizontal]] [[f/_fixed|fixed]] [[p/_plane|plane]] as the [[l/_lens|lens]] and/or the [[f/_film|film]] [[h/_holder|holder]] [[m/_moves|moves]] to [[e/_expose|expose]] the [[f/_film|film]] [[l/_laterally|laterally]]. The [[r/_resulting|resulting]] [[i/_image|image]] [[m/_may|may]] [[e/_extend|extend]] a [[s/_short|short]] [[d/_distance|distance]] [[l/_laterally|laterally]] or as [[g/_great|great]] as 360 [[d/_degrees|degrees]] from the [[p/_point|point]] where the [[f/_film|film]] [[f/_first|first]] [[b/_began|began]] to be [[e/_exposed|exposed]].**
+- **([[a/_audio|audio]]) To [[s/_spread|spread]] a [[s/_sound|sound]] [[s/_signal|signal]] [[i/_into|into]] a [[n/_new|new]] [[s/_stereo|stereo]] or [[m/_multichannel|multichannel]] [[s/_sound|sound]] [[f/_field|field]], typically [[g/_giving|giving]] the [[i/_impression|impression]] that it is [[m/_moving|moving]] [[a/_across|across]] the [[s/_sound|sound]] [[s/_stage|stage]].**
 ---
 #verb
 - **To [[j/_join|join]] or [[f/_fit|fit]] together; to unite.**

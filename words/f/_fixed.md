@@ -16,7 +16,7 @@
 - **To take [[r/_revenge|revenge]] on, to [[b/_best|best]]; to [[s/_serve|serve]] [[j/_justice|justice]] on an [[a/_assumed|assumed]] [[m/_miscreant|miscreant]].**
 	- _Example: He got caught breaking into lockers, so a couple of guys fixed him after work._
 - **To [[r/_render|render]] (a [[p/_photographic|photographic]] [[i/_impression|impression]]) [[p/_permanent|permanent]] by treating with such [[a/_applications|applications]] as will [[m/_make|make]] it [[i/_insensitive|insensitive]] to the [[a/_action|action]] of [[l/_light|light]].**
-- **To [[c/_convert|convert]] [[i/_into|into]] a stable or [[a/_available|available]] [[f/_form|form]].**
+- **To [[c/_convert|convert]] [[i/_into|into]] a [[s/_stable|stable]] or [[a/_available|available]] [[f/_form|form]].**
 	- _Example: Legumes are valued in crop rotation for their ability to fix nitrogen._
 - **To [[b/_become|become]] [[f/_fixed|fixed]]; to [[s/_settle|settle]] or [[r/_remain|remain]] [[p/_permanently|permanently]]; to [[c/_cease|cease]] from wandering; to [[r/_rest|rest]].**
 - **To [[b/_become|become]] [[f/_firm|firm]], [[s/_so|so]] as to [[r/_resist|resist]] volatilization; to [[c/_cease|cease]] to [[f/_flow|flow]] or be [[f/_fluid|fluid]]; to [[c/_congeal|congeal]]; to [[b/_become|become]] [[h/_hard|hard]] and [[m/_malleable|malleable]], as a [[m/_metallic|metallic]] substance.**
@@ -26,11 +26,11 @@
 ### Antonyms
 - [[c/_change|change]], [[m/_move|move]]
 #adjective
-- **Not [[c/_changing|changing]], not [[a/_able|able]] to be [[c/_changed|changed]], staying the [[s/_same|same]].**
+- **Not [[c/_changing|changing]], not [[a/_able|able]] to be [[c/_changed|changed]], [[s/_staying|staying]] the [[s/_same|same]].**
 	- _Example: Every religion has its own fixed ideas._
-- **Stationary.**
+- **[[s/_stationary|Stationary]].**
 - **[[a/_attached|Attached]]; [[a/_affixed|affixed]].**
-- **[[c/_chemically|Chemically]] stable.**
+- **[[c/_chemically|Chemically]] [[s/_stable|stable]].**
 - **Supplied with what [[o/_one|one]] [[n/_needs|needs]].**
 	- _Example: She's nicely fixed after two divorce settlements._
 - **Of [[s/_sound|sound]], [[r/_recorded|recorded]] on a [[p/_permanent|permanent]] [[m/_medium|medium]].**

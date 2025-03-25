@@ -1,7 +1,7 @@
 # Coaled
 ---
 #verb
-- **To take on a supply of [[c/_coal|coal]] (usually of steam [[s/_ships|ships]]).**
+- **To take on a supply of [[c/_coal|coal]] (usually of [[s/_steam|steam]] [[s/_ships|ships]]).**
 - **To supply with [[c/_coal|coal]].**
 	- _Example: to coal a steamer_
 - **To be [[c/_converted|converted]] to [[c/_charcoal|charcoal]].**

@@ -17,7 +17,7 @@
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to [[o/_one|one]]’[[s/_s|s]] [[d/_dwelling|dwelling]] or [[c/_country|country]]; [[d/_domestic|domestic]]; not [[f/_foreign|foreign]]; as [[h/_home|home]] [[m/_manufactures|manufactures]]; [[h/_home|home]] [[c/_comforts|comforts]].**
-- **([[e/_except|except]] in [[p/_phrases|phrases]]) That strikes [[h/_home|home]]; [[d/_direct|direct]], [[p/_pointed|pointed]].**
+- **([[e/_except|except]] in [[p/_phrases|phrases]]) That [[s/_strikes|strikes]] [[h/_home|home]]; [[d/_direct|direct]], [[p/_pointed|pointed]].**
 - **[[p/_personal|Personal]], [[i/_intimate|intimate]].**
 - **[[r/_relating|Relating]] to the [[h/_home|home]] team (the team at whose venue a [[g/_game|game]] is [[p/_played|played]]).**
 	- _Example: the home end, home advantage, home supporters_
@@ -30,7 +30,7 @@
 	- _Example: Everyone's gone to watch the game; there's nobody home._
 - **To a [[f/_full|full]] and [[i/_intimate|intimate]] [[d/_degree|degree]]; to the [[h/_heart|heart]] of the [[m/_matter|matter]]; [[f/_fully|fully]], [[d/_directly|directly]].**
 - **[[i/_into|Into]] the [[g/_goal|goal]]**
-- **[[i/_into|Into]] the [[r/_right|right]], [[p/_proper|proper]] or stowed [[p/_position|position]]**
+- **[[i/_into|Into]] the [[r/_right|right]], [[p/_proper|proper]] or [[s/_stowed|stowed]] [[p/_position|position]]**
 	- _Example: sails sheeted home_
 ---
 ### Synonyms

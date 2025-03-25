@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[n/_neglecting|neglecting]].**
-- **The state of [[b/_being|being]] [[n/_neglected|neglected]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[n/_neglected|neglected]].**
 - **[[h/_habitual|Habitual]] [[l/_lack|lack]] of [[c/_care|care]].**
 ---
 ### Synonyms

@@ -5,7 +5,7 @@
 - **To [[e/_exhaust|exhaust]] the vitality of.**
 ---
 #verb
-- **To strike with a [[s/_sap|sap]] (with a [[b/_blackjack|blackjack]]).**
+- **To [[s/_strike|strike]] with a [[s/_sap|sap]] (with a [[b/_blackjack|blackjack]]).**
 ---
 #verb
 - **To subvert by [[d/_digging|digging]] or wearing [[a/_away|away]]; to [[m/_mine|mine]]; to undermine; to [[d/_destroy|destroy]] the [[f/_foundation|foundation]] of.**

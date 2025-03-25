@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_controlled|controlled]] [[b/_behaviour|behaviour]]; [[s/_self|self]]-[[c/_control|control]].**
-- **A specific [[b/_branch|branch]] of [[k/_knowledge|knowledge]] or [[l/_learning|learning]].**
+- **A [[s/_specific|specific]] [[b/_branch|branch]] of [[k/_knowledge|knowledge]] or [[l/_learning|learning]].**
 ---
 ### Synonyms
 - [[f/_field|field]], [[s/_sphere|sphere]], [[p/_penalty|penalty]], [[s/_sanction|sanction]]

@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[g/_grammar|grammar]]) The [[p/_perfect|perfect]] tense, or a [[f/_form|form]] in that tense.**
-- **A [[p/_perfect|perfect]] [[s/_score|score]]; the [[a/_achievement|achievement]] of [[f/_finishing|finishing]] a stage or task with [[n/_no|no]] [[m/_mistakes|mistakes]].**
+- **A [[p/_perfect|perfect]] [[s/_score|score]]; the [[a/_achievement|achievement]] of [[f/_finishing|finishing]] a [[s/_stage|stage]] or task with [[n/_no|no]] [[m/_mistakes|mistakes]].**
 ---
 #adjective
 - **[[f/_fitting|Fitting]] [[i/_its|its]] [[d/_definition|definition]] [[p/_precisely|precisely]].**
@@ -17,7 +17,7 @@
 	- _Example: 6 is perfect because the sum of its proper divisors, 1, 2, and 3, which is 6, is equal to the number itself._
 - **([[g/_grammar|grammar]], of a tense or verb [[f/_form|form]]) [[r/_representing|Representing]] a [[c/_completed|completed]] [[a/_action|action]].**
 - **[[s/_sexually|Sexually]] [[m/_mature|mature]] and [[f/_fully|fully]] [[d/_differentiated|differentiated]].**
-- **Of [[f/_flowers|flowers]], [[h/_having|having]] [[b/_both|both]] [[m/_male|male]] [[p/_parts|parts]] (stamens) and [[f/_female|female]] [[p/_parts|parts]] ([[c/_carpels|carpels]]).**
+- **Of [[f/_flowers|flowers]], [[h/_having|having]] [[b/_both|both]] [[m/_male|male]] [[p/_parts|parts]] ([[s/_stamens|stamens]]) and [[f/_female|female]] [[p/_parts|parts]] ([[c/_carpels|carpels]]).**
 - **Of a [[s/_set|set]]: [[e/_equal|equal]] to [[i/_its|its]] [[s/_set|set]] of [[l/_limit|limit]] [[p/_points|points]], [[i/_i|i]].[[e/_e|e]]. [[s/_set|set]] A is [[p/_perfect|perfect]] [[i/_if|if]] A=A'.**
 - **[[d/_describing|Describing]] an [[i/_interval|interval]] or [[a/_any|any]] [[c/_compound|compound]] [[i/_interval|interval]] of a unison, [[o/_octave|octave]], or [[f/_fourths|fourths]] and [[f/_fifths|fifths]] that are not tritones.**
 - **(of a [[c/_cocktail|cocktail]]) [[m/_made|Made]] with [[e/_equal|equal]] [[p/_parts|parts]] of sweet and [[d/_dry|dry]] vermouth.**

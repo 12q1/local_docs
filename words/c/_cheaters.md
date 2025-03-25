@@ -10,6 +10,6 @@
 - **An escheater.**
 ---
 #noun
-- **[[n/_non|Non]]-[[p/_prescription|prescription]] spectacles that [[m/_magnify|magnify]].**
+- **[[n/_non|Non]]-[[p/_prescription|prescription]] [[s/_spectacles|spectacles]] that [[m/_magnify|magnify]].**
 ---
 ---

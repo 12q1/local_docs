@@ -6,6 +6,6 @@
 - **[[a/_any|Any]] substance [[a/_added|added]] to [[f/_food|food]] to [[b/_bulk|bulk]] it [[o/_out|out]], with a [[h/_higher|higher]] [[p/_protein|protein]] [[c/_content|content]] than a [[f/_filler|filler]].**
 	- _Example: Soy protein is used as a meat extender._
 - **A [[r/_runner|runner]], or [[q/_quick|quick]]-[[d/_draw|draw]]. (from [[s/_sense|sense]] #2)**
-- **A [[p/_phrase|phrase]] that [[e/_extends|extends]] an [[e/_expression|expression]] to [[i/_include|include]] [[f/_further|further]] [[m/_members|members]] of a [[s/_set|set]], [[e/_e|e]].[[g/_g|g]]. "and stuff", "or [[s/_something|something]]".**
+- **A [[p/_phrase|phrase]] that [[e/_extends|extends]] an [[e/_expression|expression]] to [[i/_include|include]] [[f/_further|further]] [[m/_members|members]] of a [[s/_set|set]], [[e/_e|e]].[[g/_g|g]]. "and [[s/_stuff|stuff]]", "or [[s/_something|something]]".**
 ---
 ---

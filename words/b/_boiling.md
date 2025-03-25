@@ -14,7 +14,7 @@
 	- _Example: I’m boiling in here – could you open the window?_
 - **To [[f/_form|form]], or [[s/_separate|separate]], by [[b/_boiling|boiling]] or [[e/_evaporation|evaporation]].**
 	- _Example: to boil sugar or salt_
-- **To steep or [[s/_soak|soak]] in warm water.**
+- **To [[s/_steep|steep]] or [[s/_soak|soak]] in warm water.**
 - **To be [[a/_agitated|agitated]] [[l/_like|like]] [[b/_boiling|boiling]] water; to [[b/_bubble|bubble]]; to [[e/_effervesce|effervesce]].**
 	- _Example: the boiling waves of the sea_
 - **To be [[m/_moved|moved]] or [[e/_excited|excited]] with [[p/_passion|passion]]; to be [[h/_hot|hot]] or [[f/_fervid|fervid]].**
@@ -25,8 +25,8 @@
 ### Antonyms
 - [[c/_condense|condense]]
 #noun
-- **The [[p/_process|process]] of [[c/_changing|changing]] the state of a substance from [[l/_liquid|liquid]] to [[g/_gas|gas]] by [[h/_heating|heating]] it to [[i/_its|its]] [[b/_boiling|boiling]] [[p/_point|point]].**
-- **An [[a/_animation|animation]] style with [[c/_constantly|constantly]] [[c/_changing|changing]] wavy [[o/_outlines|outlines]], [[g/_giving|giving]] a [[s/_shimmering|shimmering]] or wobbling [[a/_appearance|appearance]].**
+- **The [[p/_process|process]] of [[c/_changing|changing]] the [[s/_state|state]] of a substance from [[l/_liquid|liquid]] to [[g/_gas|gas]] by [[h/_heating|heating]] it to [[i/_its|its]] [[b/_boiling|boiling]] [[p/_point|point]].**
+- **An [[a/_animation|animation]] [[s/_style|style]] with [[c/_constantly|constantly]] [[c/_changing|changing]] wavy [[o/_outlines|outlines]], [[g/_giving|giving]] a [[s/_shimmering|shimmering]] or wobbling [[a/_appearance|appearance]].**
 ---
 #adjective
 - **That [[b/_boils|boils]] or [[b/_boil|boil]].**

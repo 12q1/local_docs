@@ -7,6 +7,6 @@
 - **To transform [[a/_according|according]] to a [[h/_hash|hash]] [[f/_function|function]].**
 ---
 #noun
-- **A [[s/_social|social]], [[n/_non|non]]-[[c/_competitive|competitive]] sport in which [[p/_participants|participants]] of a [[h/_hash|hash]] [[r/_run|run]] use [[c/_clues|clues]] to [[f/_follow|follow]] a [[h/_hash|hash]] trail.**
+- **A [[s/_social|social]], [[n/_non|non]]-[[c/_competitive|competitive]] [[s/_sport|sport]] in which [[p/_participants|participants]] of a [[h/_hash|hash]] [[r/_run|run]] use [[c/_clues|clues]] to [[f/_follow|follow]] a [[h/_hash|hash]] trail.**
 ---
 ---

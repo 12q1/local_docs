@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[g/_grasp|Grasp]], [[e/_envelopment|envelopment]], [[c/_control|control]].**
-- **([[n/_now|now]] usually [[n/_nautical|nautical]]) An [[e/_english|English]] unit of [[l/_length|length]] for water [[d/_depth|depth]] [[n/_notionally|notionally]] [[b/_based|based]] upon the width of [[g/_grown|grown]] [[m/_man|man]]'[[s/_s|s]] [[o/_outstretched|outstretched]] [[a/_arms|arms]] but standardized as 6 [[f/_feet|feet]] ([[a/_about|about]] 1.8 [[m/_m|m]]).**
+- **([[n/_now|now]] usually [[n/_nautical|nautical]]) An [[e/_english|English]] unit of [[l/_length|length]] for water [[d/_depth|depth]] [[n/_notionally|notionally]] [[b/_based|based]] upon the width of [[g/_grown|grown]] [[m/_man|man]]'[[s/_s|s]] [[o/_outstretched|outstretched]] [[a/_arms|arms]] but [[s/_standardized|standardized]] as 6 [[f/_feet|feet]] ([[a/_about|about]] 1.8 [[m/_m|m]]).**
 - **Various [[s/_similar|similar]] units in [[o/_other|other]] [[s/_systems|systems]].**
 - **[[d/_depth|Depth]] of [[i/_insight|insight]], [[m/_mental|mental]] [[r/_reach|reach]] or [[s/_scope|scope]].**
 ---

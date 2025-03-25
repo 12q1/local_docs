@@ -1,10 +1,10 @@
 # Bonked
 ---
 #verb
-- **To strike or [[c/_collide|collide]] with [[s/_something|something]].**
+- **To [[s/_strike|strike]] or [[c/_collide|collide]] with [[s/_something|something]].**
 - **To [[h/_have|have]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]].**
 - **To [[h/_hit|hit]] [[s/_something|something]] with the [[f/_front|front]] of the [[b/_board|board]], [[e/_especially|especially]] in [[m/_midair|midair]].**
-- **To [[e/_experience|experience]] sudden and [[s/_severe|severe]] [[f/_fatigue|fatigue]] in an [[e/_endurance|endurance]] sports [[e/_event|event]] [[d/_due|due]] to [[g/_glycogen|glycogen]] [[d/_depletion|depletion]].**
+- **To [[e/_experience|experience]] sudden and [[s/_severe|severe]] [[f/_fatigue|fatigue]] in an [[e/_endurance|endurance]] [[s/_sports|sports]] [[e/_event|event]] [[d/_due|due]] to [[g/_glycogen|glycogen]] [[d/_depletion|depletion]].**
 ---
 ### Synonyms
 - [[b/_boink|boink]]

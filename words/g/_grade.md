@@ -10,7 +10,7 @@
 	- _Example: The grade of this hill is more than 5 percent._
 - **A [[l/_level|level]] of [[p/_primary|primary]] and [[s/_secondary|secondary]] [[e/_education|education]].**
 	- _Example: Clancy is entering the fifth grade this year._
-- **A student of a [[p/_particular|particular]] [[g/_grade|grade]] (used with the [[g/_grade|grade]] [[l/_level|level]]).**
+- **A [[s/_student|student]] of a [[p/_particular|particular]] [[g/_grade|grade]] (used with the [[g/_grade|grade]] [[l/_level|level]]).**
 	- _Example: The grade fives are on a field trip._
 - **An [[a/_area|area]] that [[h/_has|has]] [[b/_been|been]] [[f/_flattened|flattened]] by a [[g/_grader|grader]] ([[c/_construction|construction]] [[m/_machine|machine]]).**
 - **The [[l/_level|level]] of the [[g/_ground|ground]].**

@@ -1,7 +1,7 @@
 # Absence
 ---
 #noun
-- **A state of [[b/_being|being]] [[a/_away|away]] or withdrawn from a [[p/_place|place]] or from [[c/_companionship|companionship]]; the [[p/_period|period]] of [[b/_being|being]] [[a/_away|away]].**
+- **A [[s/_state|state]] of [[b/_being|being]] [[a/_away|away]] or withdrawn from a [[p/_place|place]] or from [[c/_companionship|companionship]]; the [[p/_period|period]] of [[b/_being|being]] [[a/_away|away]].**
 	- _Example: Absence makes the heart grow fonder._
 - **[[f/_failure|Failure]] to be [[p/_present|present]] where [[o/_one|one]] is [[e/_expected|expected]], wanted, or [[n/_needed|needed]]; [[n/_nonattendance|nonattendance]]; [[d/_deficiency|deficiency]].**
 - **[[l/_lack|Lack]]; [[d/_deficiency|deficiency]]; [[n/_nonexistence|nonexistence]].**

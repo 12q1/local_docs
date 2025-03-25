@@ -2,10 +2,10 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[s/_saturating|saturating]] or the [[p/_process|process]] of [[b/_being|being]] [[s/_saturated|saturated]]**
-- **The [[c/_condition|condition]] in which, [[a/_after|after]] a sufficient [[i/_increase|increase]] in a [[c/_causal|causal]] [[f/_force|force]], [[n/_no|no]] [[f/_further|further]] [[i/_increase|increase]] in the [[r/_resultant|resultant]] [[e/_effect|effect]] is [[p/_possible|possible]]; [[e/_e|e]].[[g/_g|g]]. the state of a [[f/_ferromagnetic|ferromagnetic]] [[m/_material|material]] that [[c/_cannot|cannot]] be [[f/_further|further]] [[m/_magnetized|magnetized]]**
-- **The state of a [[s/_saturated|saturated]] [[s/_solution|solution]]**
-- **The state of an [[o/_organic|organic]] [[c/_compound|compound]] that [[h/_has|has]] [[n/_no|no]] [[d/_double|double]] or triple [[b/_bonds|bonds]]**
-- **The state of the [[a/_atmosphere|atmosphere]] when it is [[s/_saturated|saturated]] with water vapour; 100% [[h/_humidity|humidity]]**
+- **The [[c/_condition|condition]] in which, [[a/_after|after]] a sufficient [[i/_increase|increase]] in a [[c/_causal|causal]] [[f/_force|force]], [[n/_no|no]] [[f/_further|further]] [[i/_increase|increase]] in the [[r/_resultant|resultant]] [[e/_effect|effect]] is [[p/_possible|possible]]; [[e/_e|e]].[[g/_g|g]]. the [[s/_state|state]] of a [[f/_ferromagnetic|ferromagnetic]] [[m/_material|material]] that [[c/_cannot|cannot]] be [[f/_further|further]] [[m/_magnetized|magnetized]]**
+- **The [[s/_state|state]] of a [[s/_saturated|saturated]] [[s/_solution|solution]]**
+- **The [[s/_state|state]] of an [[o/_organic|organic]] [[c/_compound|compound]] that [[h/_has|has]] [[n/_no|no]] [[d/_double|double]] or triple [[b/_bonds|bonds]]**
+- **The [[s/_state|state]] of the [[a/_atmosphere|atmosphere]] when it is [[s/_saturated|saturated]] with water vapour; 100% [[h/_humidity|humidity]]**
 - **The [[i/_intensity|intensity]] or vividness of a [[c/_colour|colour]].**
 - **([[c/_color|color]]) [[c/_chromatic|Chromatic]] [[p/_purity|purity]]; [[f/_freedom|freedom]] from [[d/_dilution|dilution]] with white.**
 - **[[i/_intense|Intense]] [[b/_bombing|bombing]] of a [[m/_military|military]] target with the [[a/_aim|aim]] of [[d/_destroying|destroying]] it**

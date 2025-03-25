@@ -7,6 +7,6 @@
 ---
 #adjective
 - **Very [[a/_accurate|accurate]] in [[s/_shooting|shooting]] or throwing.**
-- **([[c/_concerning|concerning]] a stare) [[c/_cold|Cold]]; unfriendly.**
+- **([[c/_concerning|concerning]] a [[s/_stare|stare]]) [[c/_cold|Cold]]; unfriendly.**
 ---
 ---

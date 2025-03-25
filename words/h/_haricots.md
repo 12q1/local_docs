@@ -6,6 +6,6 @@
 ### Synonyms
 - 
 #noun
-- **A stew of [[l/_lamb|lamb]] and vegetables.**
+- **A [[s/_stew|stew]] of [[l/_lamb|lamb]] and vegetables.**
 ---
 ---

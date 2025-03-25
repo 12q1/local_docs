@@ -1,7 +1,7 @@
 # Shopping
 ---
 #verb
-- **To visit stores or [[s/_shops|shops]] to [[b/_browse|browse]] or [[e/_explore|explore]] [[m/_merchandise|merchandise]], [[e/_especially|especially]] with the [[i/_intention|intention]] of [[b/_buying|buying]] such [[m/_merchandise|merchandise]].**
+- **To visit [[s/_stores|stores]] or [[s/_shops|shops]] to [[b/_browse|browse]] or [[e/_explore|explore]] [[m/_merchandise|merchandise]], [[e/_especially|especially]] with the [[i/_intention|intention]] of [[b/_buying|buying]] such [[m/_merchandise|merchandise]].**
 	- _Example: He’s shopping for clothes._
 - **To [[p/_purchase|purchase]] [[p/_products|products]] from (a [[r/_range|range]] or [[c/_catalogue|catalogue]], [[e/_etc|etc]].).**
 	- _Example: Shop our new arrivals._
@@ -15,7 +15,7 @@
 	- _Example: On Saturdays we usually do the shopping._
 - **[[r/_recently|Recently]] [[b/_bought|bought]] [[g/_goods|goods]].**
 	- _Example: I carried three heavy bags of shopping up the stairs._
-- **An [[a/_area|area]]'[[s/_s|s]] [[c/_combination|combination]] of stores and [[o/_other|other]] [[i/_infrastructure|infrastructure]] and [[p/_products|products]] [[a/_available|available]] for [[p/_people|people]] who want to [[s/_shop|shop]].**
+- **An [[a/_area|area]]'[[s/_s|s]] [[c/_combination|combination]] of [[s/_stores|stores]] and [[o/_other|other]] [[i/_infrastructure|infrastructure]] and [[p/_products|products]] [[a/_available|available]] for [[p/_people|people]] who want to [[s/_shop|shop]].**
 	- _Example: Boston has good shopping._
 ---
 ---

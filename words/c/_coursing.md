@@ -9,6 +9,6 @@
 	- _Example: to course greyhounds after deer_
 ---
 #noun
-- **The sport of [[c/_chasing|chasing]] wild [[a/_animals|animals]], [[e/_especially|especially]] [[h/_hares|hares]], with [[d/_dogs|dogs]] by [[s/_sight|sight]] [[r/_rather|rather]] than by [[s/_scent|scent]]**
+- **The [[s/_sport|sport]] of [[c/_chasing|chasing]] wild [[a/_animals|animals]], [[e/_especially|especially]] [[h/_hares|hares]], with [[d/_dogs|dogs]] by [[s/_sight|sight]] [[r/_rather|rather]] than by [[s/_scent|scent]]**
 ---
 ---

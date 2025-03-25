@@ -10,7 +10,7 @@
 ### Synonyms
 - [[a/_abase|abase]], [[d/_degrade|degrade]], [[d/_depress|depress]], [[d/_disgrace|disgrace]], [[h/_humiliate|humiliate]], [[l/_lower|lower]], [[m/_mortify|mortify]]
 #noun
-- **A stag that [[h/_has|has]] [[f/_failed|failed]] to [[g/_grow|grow]] [[a/_antlers|antlers]]; a [[c/_cow|cow]] that [[h/_has|has]] not [[d/_developed|developed]] [[h/_horns|horns]].**
+- **A [[s/_stag|stag]] that [[h/_has|has]] [[f/_failed|failed]] to [[g/_grow|grow]] [[a/_antlers|antlers]]; a [[c/_cow|cow]] that [[h/_has|has]] not [[d/_developed|developed]] [[h/_horns|horns]].**
 - **[[e/_especially|Especially]] in [[h/_hummel|hummel]] [[c/_corn|corn]]: [[g/_grain|grain]] that [[l/_lacks|lacks]] [[a/_awns|awns]] ([[b/_beards|beards]] or [[b/_bristles|bristles]]), or [[h/_has|has]] [[h/_had|had]] [[i/_its|its]] [[a/_awns|awns]] [[r/_removed|removed]] ([[b/_barley|barley]], [[o/_oats|oats]], [[e/_etc|etc]].).**
 ---
 #verb

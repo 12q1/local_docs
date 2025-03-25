@@ -14,7 +14,7 @@
 ---
 #adverb
 - **[[m/_modifies|Modifies]] a verb, [[i/_indicating|indicating]] a [[l/_lack|lack]] of [[c/_certainty|certainty]]: it [[m/_may|may]] be that...**
-- **(as a [[p/_pro|pro]]-[[s/_sentence|sentence]]) [[p/_perhaps|Perhaps]] that is true ([[e/_expressing|expressing]] [[n/_no|no]] [[c/_commitment|commitment]] to a [[d/_decision|decision]] or a [[n/_neutral|neutral]] viewpoint to a statement).**
+- **(as a [[p/_pro|pro]]-[[s/_sentence|sentence]]) [[p/_perhaps|Perhaps]] that is true ([[e/_expressing|expressing]] [[n/_no|no]] [[c/_commitment|commitment]] to a [[d/_decision|decision]] or a [[n/_neutral|neutral]] viewpoint to a [[s/_statement|statement]]).**
 ---
 ### Synonyms
 - [[m/_mayhaps|mayhaps]], [[p/_perhaps|perhaps]], [[p/_possible|possible]], [[p/_possibly|possibly]], [[m/_mayhaps|mayhaps]], [[p/_peradventure|peradventure]], [[p/_perhaps|perhaps]], [[p/_possibly|possibly]]

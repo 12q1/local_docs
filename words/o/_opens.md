@@ -9,11 +9,11 @@
 	- _Example: I don't want to open that subject._
 - **To [[e/_enter|enter]] upon, [[b/_begin|begin]].**
 	- _Example: to open a case in court, or a meeting_
-- **To spread; to [[e/_expand|expand]] [[i/_into|into]] an [[o/_open|open]] or [[l/_loose|loose]] [[p/_position|position]].**
+- **To [[s/_spread|spread]]; to [[e/_expand|expand]] [[i/_into|into]] an [[o/_open|open]] or [[l/_loose|loose]] [[p/_position|position]].**
 	- _Example: to open a closed fist_
 - **To [[m/_make|make]] [[a/_accessible|accessible]] to [[c/_customers|customers]] or [[c/_clients|clients]].**
 	- _Example: I will open the shop an hour early tomorrow._
-- **To start (a [[c/_campaign|campaign]]).**
+- **To [[s/_start|start]] (a [[c/_campaign|campaign]]).**
 	- _Example: Vermont will open elk hunting season next week._
 - **To [[b/_become|become]] [[o/_open|open]].**
 	- _Example: The door opened all by itself._
@@ -38,7 +38,7 @@
 	- _Example: We have got to bring this company's corrupt business practices into the open._
 - **A [[d/_defect|defect]] in an [[e/_electrical|electrical]] [[c/_circuit|circuit]] [[p/_preventing|preventing]] [[c/_current|current]] from [[f/_flowing|flowing]].**
 	- _Example: The electrician found the open in the circuit after a few minutes of testing._
-- **A sports [[e/_event|event]] in which [[a/_anybody|anybody]] [[c/_can|can]] [[c/_compete|compete]]**
+- **A [[s/_sports|sports]] [[e/_event|event]] in which [[a/_anybody|anybody]] [[c/_can|can]] [[c/_compete|compete]]**
 	- _Example: the Australian Open_
 ---
 ---

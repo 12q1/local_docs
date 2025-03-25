@@ -1,7 +1,7 @@
 # Locker
 ---
 #noun
-- **A type of storage [[c/_compartment|compartment]] with a [[l/_lock|lock]], usually used to store [[c/_clothing|clothing]], [[e/_equipment|equipment]], or [[b/_books|books]].**
+- **A type of [[s/_storage|storage]] [[c/_compartment|compartment]] with a [[l/_lock|lock]], usually used to [[s/_store|store]] [[c/_clothing|clothing]], [[e/_equipment|equipment]], or [[b/_books|books]].**
 	- _Example: The student placed her books in her locker when she arrived at school._
 - **[[o/_one|One]] who [[l/_locks|locks]] [[s/_something|something]].**
 	- _Example: The locker of the trapped chest must be careful, so as not to spring the trap._

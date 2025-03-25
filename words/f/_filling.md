@@ -35,7 +35,7 @@
 ### Synonyms
 - [[e/_enduement|enduement]]
 #adjective
-- **Of [[f/_food|food]], that [[s/_satisfies|satisfies]] the [[a/_appetite|appetite]] by [[f/_filling|filling]] the stomach.**
+- **Of [[f/_food|food]], that [[s/_satisfies|satisfies]] the [[a/_appetite|appetite]] by [[f/_filling|filling]] the [[s/_stomach|stomach]].**
 	- _Example: a filling meal_
 ---
 ---

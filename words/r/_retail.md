@@ -1,7 +1,7 @@
 # Retail
 ---
 #noun
-- **The [[s/_sale|sale]] of [[g/_goods|goods]] [[d/_directly|directly]] to the [[c/_consumer|consumer]], [[e/_encompassing|encompassing]] the storefronts, [[m/_mail|mail]]-[[o/_order|order]], websites, [[e/_etc|etc]]., and the [[c/_corporate|corporate]] [[m/_mechanisms|mechanisms]], [[b/_branding|branding]], [[a/_advertising|advertising]], [[e/_etc|etc]]. that support them.**
+- **The [[s/_sale|sale]] of [[g/_goods|goods]] [[d/_directly|directly]] to the [[c/_consumer|consumer]], [[e/_encompassing|encompassing]] the [[s/_storefronts|storefronts]], [[m/_mail|mail]]-[[o/_order|order]], websites, [[e/_etc|etc]]., and the [[c/_corporate|corporate]] [[m/_mechanisms|mechanisms]], [[b/_branding|branding]], [[a/_advertising|advertising]], [[e/_etc|etc]]. that support them.**
 	- _Example: She works in retail._
 - **[[r/_retail|Retail]] [[p/_price|price]]; [[f/_full|full]] [[p/_price|price]]; an [[a/_abbreviated|abbreviated]] [[e/_expression|expression]], [[m/_meaning|meaning]] the [[f/_full|full]] suggested [[p/_price|price]] of a [[p/_particular|particular]] [[g/_good|good]] or [[s/_service|service]], [[b/_before|before]] [[a/_any|any]] [[s/_sale|sale]], [[d/_discount|discount]], or [[o/_other|other]] [[d/_deal|deal]].**
 	- _Example: I never pay retail for clothes._

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[k/_kill-time|kill-time]]
 #verb
-- **To sport; to [[a/_amuse|amuse]] [[o/_oneself|oneself]]**
+- **To [[s/_sport|sport]]; to [[a/_amuse|amuse]] [[o/_oneself|oneself]]**
 ---
 ---

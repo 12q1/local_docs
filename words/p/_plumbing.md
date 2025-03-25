@@ -1,7 +1,7 @@
 # Plumbing
 ---
 #noun
-- **The [[p/_pipes|pipes]], together with the [[j/_joints|joints]], tanks, stopcocks, taps and [[o/_other|other]] [[f/_fixtures|fixtures]] of a water, [[g/_gas|gas]] or [[s/_sewage|sewage]] [[s/_system|system]] in a [[h/_house|house]] or [[o/_other|other]] [[b/_building|building]].**
+- **The [[p/_pipes|pipes]], together with the [[j/_joints|joints]], tanks, [[s/_stopcocks|stopcocks]], taps and [[o/_other|other]] [[f/_fixtures|fixtures]] of a water, [[g/_gas|gas]] or [[s/_sewage|sewage]] [[s/_system|system]] in a [[h/_house|house]] or [[o/_other|other]] [[b/_building|building]].**
 - **The trade or [[o/_occupation|occupation]] of a [[p/_plumber|plumber]].**
 - **A [[s/_system|system]] of vessels or [[d/_ducts|ducts]] in the [[h/_human|human]] [[b/_body|body]], [[e/_especially|especially]] the [[g/_genitourinary|genitourinary]] [[s/_system|system]].**
 	- _Example: My plumbing was playing up, so I had to see the doctor._

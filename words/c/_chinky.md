@@ -9,6 +9,6 @@
 - [[c/_chink|chink]]
 #adjective
 - **[[f/_full|Full]] of [[c/_chinks|chinks]], [[l/_laden|laden]] with [[s/_small|small]] [[c/_cracks|cracks]] or [[o/_openings|openings]].**
-- **[[p/_possessing|Possessing]] [[a/_attributes|attributes]] of, or [[s/_similar|similar]] to, a [[c/_chinese|Chinese]] [[p/_person|person]] or [[c/_chinese|Chinese]] style or [[c/_culture|culture]].**
+- **[[p/_possessing|Possessing]] [[a/_attributes|attributes]] of, or [[s/_similar|similar]] to, a [[c/_chinese|Chinese]] [[p/_person|person]] or [[c/_chinese|Chinese]] [[s/_style|style]] or [[c/_culture|culture]].**
 ---
 ---

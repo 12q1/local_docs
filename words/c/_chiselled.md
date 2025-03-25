@@ -7,6 +7,6 @@
 - **To [[c/_cheat|cheat]], to [[g/_get|get]] [[s/_something|something]] by [[c/_cheating|cheating]].**
 ---
 #adjective
-- **[[h/_having|Having]] strongly [[d/_defined|defined]] [[f/_facial|facial]] [[f/_features|features]].**
+- **[[h/_having|Having]] [[s/_strongly|strongly]] [[d/_defined|defined]] [[f/_facial|facial]] [[f/_features|features]].**
 ---
 ---

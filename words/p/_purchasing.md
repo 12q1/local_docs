@@ -9,7 +9,7 @@
 - **To [[e/_expiate|expiate]] by a [[f/_fine|fine]] or [[f/_forfeit|forfeit]].**
 - **To [[a/_apply|apply]] to ([[a/_anything|anything]]) a [[d/_device|device]] for [[o/_obtaining|obtaining]] a [[m/_mechanical|mechanical]] [[a/_advantage|advantage]]; to [[g/_get|get]] a [[p/_purchase|purchase]] upon, or [[a/_apply|apply]] a [[p/_purchase|purchase]] to; to [[r/_raise|raise]] or [[m/_move|move]] by [[m/_mechanical|mechanical]] [[m/_means|means]].**
 	- _Example: to purchase a cannon_
-- **To [[p/_put|put]] [[f/_forth|forth]] [[e/_effort|effort]] to [[o/_obtain|obtain]] [[a/_anything|anything]]; to strive; to [[e/_exert|exert]] [[o/_oneself|oneself]].**
+- **To [[p/_put|put]] [[f/_forth|forth]] [[e/_effort|effort]] to [[o/_obtain|obtain]] [[a/_anything|anything]]; to [[s/_strive|strive]]; to [[e/_exert|exert]] [[o/_oneself|oneself]].**
 - **To [[c/_constitute|constitute]] the [[b/_buying|buying]] [[p/_power|power]] for a [[p/_purchase|purchase]], [[h/_have|have]] a trading value.**
 	- _Example: Many aristocratic refugees' portable treasures purchased their safe passage and comfortable exile during the revolution_
 ---

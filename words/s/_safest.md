@@ -11,7 +11,7 @@
 	- _Example: The pitcher attempted to pick off the runner at first, but he was safe._
 - **[[p/_properly|Properly]] [[s/_secured|secured]].**
 	- _Example: The documents are safe._
-- **(used [[a/_after|after]] a [[n/_noun|noun]], [[o/_often|often]] [[f/_forming|forming]] a [[c/_compound|compound]]) Not susceptible to a specified [[s/_source|source]] of [[h/_harm|harm]].**
+- **(used [[a/_after|after]] a [[n/_noun|noun]], [[o/_often|often]] [[f/_forming|forming]] a [[c/_compound|compound]]) Not susceptible to a [[s/_specified|specified]] [[s/_source|source]] of [[h/_harm|harm]].**
 	- _Example: dishwasher-safe_
 - **[[g/_great|Great]], [[c/_cool|cool]], [[a/_awesome|awesome]], [[r/_respectable|respectable]]; a term of [[a/_approbation|approbation]], [[o/_often|often]] as [[i/_interjection|interjection]].**
 - **[[l/_lenient|Lenient]], usually [[d/_describing|describing]] a teacher that is [[e/_easy|easy]]-[[g/_going|going]].**

@@ -12,8 +12,8 @@
 	- _Example: a letter of advice_
 - **A [[c/_communication|communication]] [[p/_providing|providing]] [[i/_information|information]], such as [[h/_how|how]] an uncertain [[a/_area|area]] of [[l/_law|law]] [[m/_might|might]] [[a/_apply|apply]] to [[p/_possible|possible]] [[f/_future|future]] [[a/_actions|actions]]**
 	- _Example: An advice issued by a Monitoring Committee could be applicable in a Dutch court_
-- **[[c/_counseling|Counseling]] to [[p/_perform|perform]] a specific [[l/_legal|legal]] [[a/_act|act]].**
-- **[[c/_counseling|Counseling]] to [[p/_perform|perform]] a specific [[i/_illegal|illegal]] [[a/_act|act]].**
+- **[[c/_counseling|Counseling]] to [[p/_perform|perform]] a [[s/_specific|specific]] [[l/_legal|legal]] [[a/_act|act]].**
+- **[[c/_counseling|Counseling]] to [[p/_perform|perform]] a [[s/_specific|specific]] [[i/_illegal|illegal]] [[a/_act|act]].**
 - **In [[a/_aspect|aspect]]-[[o/_oriented|oriented]] [[p/_programming|programming]], the [[c/_code|code]] whose [[e/_execution|execution]] is triggered when a [[j/_join|join]] [[p/_point|point]] is [[r/_reached|reached]].**
 ---
 ### Synonyms

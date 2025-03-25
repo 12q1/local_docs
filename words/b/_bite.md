@@ -4,7 +4,7 @@
 - **The [[a/_act|act]] of [[b/_biting|biting]].**
 - **The wound [[l/_left|left]] [[b/_behind|behind]] [[a/_after|after]] [[h/_having|having]] [[b/_been|been]] [[b/_bitten|bitten]].**
 	- _Example: That snake bite really hurts!_
-- **The swelling of [[o/_one|one]]'[[s/_s|s]] [[s/_skin|skin]] [[c/_caused|caused]] by an [[i/_insect|insect]]'[[s/_s|s]] [[m/_mouthparts|mouthparts]] or sting.**
+- **The swelling of [[o/_one|one]]'[[s/_s|s]] [[s/_skin|skin]] [[c/_caused|caused]] by an [[i/_insect|insect]]'[[s/_s|s]] [[m/_mouthparts|mouthparts]] or [[s/_sting|sting]].**
 	- _Example: After just one night in the jungle I was covered with mosquito bites._
 - **A [[p/_piece|piece]] of [[f/_food|food]] of a [[s/_size|size]] that would be [[p/_produced|produced]] by [[b/_biting|biting]]; a [[m/_mouthful|mouthful]].**
 	- _Example: There were only a few bites left on the plate._
@@ -39,7 +39,7 @@
 	- _Example: Are the fish biting today?_
 - **To [[a/_accept|accept]] [[s/_something|something]] [[o/_offered|offered]], [[o/_often|often]] [[s/_secretly|secretly]] or [[d/_deceptively|deceptively]], to [[c/_cause|cause]] [[s/_some|some]] [[a/_action|action]] by the [[a/_acceptor|acceptor]].**
 	- _Example: I've planted the story. Do you think they'll bite?_
-- **(of an [[i/_insect|insect]]) To sting.**
+- **(of an [[i/_insect|insect]]) To [[s/_sting|sting]].**
 	- _Example: These mosquitoes are really biting today!_
 - **To [[c/_cause|cause]] a [[s/_smarting|smarting]] [[s/_sensation|sensation]]; to [[h/_have|have]] a [[p/_property|property]] which [[c/_causes|causes]] such a [[s/_sensation|sensation]]; to be [[p/_pungent|pungent]].**
 	- _Example: It bites like pepper or mustard._

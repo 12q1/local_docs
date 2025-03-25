@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[s/_sign|sign]] [[a/_again|again]]; to [[p/_provide|provide]] [[o/_one|one]]'[[s/_s|s]] [[s/_signature|signature]] [[a/_again|again]].**
-- **(by [[e/_extension|extension]]) To [[s/_sign|sign]] a [[c/_contract|contract]] [[r/_renewing|renewing]] or [[r/_restarting|restarting]] a [[p/_professional|professional]] [[r/_relationship|relationship]], such as that of a [[p/_professional|professional]] [[a/_athlete|athlete]] with a sports team.**
+- **(by [[e/_extension|extension]]) To [[s/_sign|sign]] a [[c/_contract|contract]] [[r/_renewing|renewing]] or [[r/_restarting|restarting]] a [[p/_professional|professional]] [[r/_relationship|relationship]], such as that of a [[p/_professional|professional]] [[a/_athlete|athlete]] with a [[s/_sports|sports]] team.**
 ---
 #verb
 - **To [[g/_give|give]] up; to [[r/_relinquish|relinquish]] [[o/_ownership|ownership]] of.**

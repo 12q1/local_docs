@@ -8,6 +8,6 @@
 - **The [[o/_outermost|outermost]] [[l/_layer|layer]] of a [[m/_mushroom|mushroom]], [[o/_often|often]] used [[o/_only|only]] for a surface that is viscid and [[e/_easily|easily]] [[p/_peels|peels]] [[o/_off|off]].**
 - **The [[g/_growth|growth]] on the surface of a [[l/_liquid|liquid]] [[c/_culture|culture]].**
 - **The [[p/_photosensitive|photosensitive]] [[e/_emulsion|emulsion]] of [[p/_photographic|photographic]] [[f/_film|film]].**
-- **A thin [[p/_plastic|plastic]] [[m/_membrane|membrane]] used as a [[b/_beam|beam]] splitter or [[p/_protective|protective]] [[c/_cover|cover]].**
+- **A thin [[p/_plastic|plastic]] [[m/_membrane|membrane]] used as a [[b/_beam|beam]] [[s/_splitter|splitter]] or [[p/_protective|protective]] [[c/_cover|cover]].**
 ---
 ---

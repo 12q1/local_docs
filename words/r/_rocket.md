@@ -9,7 +9,7 @@
 - **An [[a/_angry|angry]] [[c/_communication|communication]] (such as a [[l/_letter|letter]] or telegram) to a subordinate.**
 - **A [[b/_blunt|blunt]] [[l/_lance|lance]] [[h/_head|head]] used in [[j/_jousting|jousting]].**
 - **[[s/_something|Something]] that [[s/_shoots|shoots]] [[h/_high|high]] in the [[a/_air|air]].**
-- **A stupid or [[c/_crazy|crazy]] [[p/_person|person]].**
+- **A [[s/_stupid|stupid]] or [[c/_crazy|crazy]] [[p/_person|person]].**
 ---
 #verb
 - **To [[a/_accelerate|accelerate]] swiftly and [[p/_powerfully|powerfully]]**

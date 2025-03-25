@@ -7,7 +7,7 @@
 ### Synonyms
 - 
 #adjective
-- **In the state of [[b/_being|being]] [[a/_active|active]], [[f/_functioning|functioning]] or [[o/_operating|operating]].**
+- **In the [[s/_state|state]] of [[b/_being|being]] [[a/_active|active]], [[f/_functioning|functioning]] or [[o/_operating|operating]].**
 	- _Example: All the lights are on, so they must be home._
 - **[[p/_performing|Performing]] [[a/_according|according]] to [[s/_schedule|schedule]]; taking [[p/_place|place]].**
 	- _Example: Are we still on for tonight?_
@@ -27,7 +27,7 @@
 ### Antonyms
 - [[o/_off|off]], [[o/_off|off]]
 #adverb
-- **To an [[o/_operating|operating]] state.**
+- **To an [[o/_operating|operating]] [[s/_state|state]].**
 	- _Example: turn the television on_
 - **[[s/_so|So]] as to [[c/_cover|cover]] or be [[f/_fitted|fitted]].**
 	- _Example: Put on your hat and gloves._
@@ -55,7 +55,7 @@
 	- _Example: The lighthouse that you can see is on the mainland._
 - **[[n/_near|Near]]; [[a/_adjacent|adjacent]] to; [[a/_alongside|alongside]].**
 	- _Example: Croton-on-Hudson, Rostov-on-Don, Southend-on-Sea_
-- **Supported by (the specified [[p/_part|part]] of [[i/_itself|itself]]).**
+- **Supported by (the [[s/_specified|specified]] [[p/_part|part]] of [[i/_itself|itself]]).**
 	- _Example: A table can't stand on two legs._
 - **[[s/_so|So]] as to [[i/_impart|impart]] [[f/_force|force]] to.**
 	- _Example: tug on the rope; push hard on the door_
@@ -69,7 +69,7 @@
 	- _Example: Born on the 4th of July._
 - **[[s/_some|Some]] time [[d/_during|during]] the [[d/_day|day]] of.**
 	- _Example: Can I see you on a different day?_
-- **At a [[g/_given|given]] time [[a/_after|after]] the start of [[s/_something|something]]; at.**
+- **At a [[g/_given|given]] time [[a/_after|after]] the [[s/_start|start]] of [[s/_something|something]]; at.**
 	- _Example: Smith scored again on twelve minutes, doubling Mudchester Rovers' lead._
 - **[[d/_dealing|Dealing]] with the subject of; [[a/_about|about]]; [[c/_concerning|concerning]].**
 	- _Example: I have no opinion on this subject._
@@ -113,7 +113,7 @@
 	- _Example: He affirmed or promised on his word, or on his honour._
 - **To the [[a/_account|account]] or [[d/_detriment|detriment]] of; [[d/_denoting|denoting]] [[i/_imprecation|imprecation]] or [[i/_invocation|invocation]], or [[c/_coming|coming]] to, [[f/_falling|falling]], or [[r/_resting|resting]] upon.**
 	- _Example: A curse on him!_
-- **([[e/_especially|especially]] when [[n/_numbers|numbers]] of [[c/_combatants|combatants]] or [[c/_competitors|competitors]] are specified) [[a/_against|Against]]; in [[o/_opposition|opposition]] to.**
+- **([[e/_especially|especially]] when [[n/_numbers|numbers]] of [[c/_combatants|combatants]] or [[c/_competitors|competitors]] are [[s/_specified|specified]]) [[a/_against|Against]]; in [[o/_opposition|opposition]] to.**
 	- _Example: The fight was three on one, and he never stood a chance._
 ---
 ### Synonyms

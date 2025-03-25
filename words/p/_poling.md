@@ -9,8 +9,8 @@
 	- _Example: to pole beans or hops_
 - **To [[c/_convey|convey]] on [[p/_poles|poles]].**
 	- _Example: to pole hay into a barn_
-- **To stir, as [[m/_molten|molten]] [[g/_glass|glass]], with a [[p/_pole|pole]].**
-- **To strike (the [[b/_ball|ball]]) very [[h/_hard|hard]].**
+- **To [[s/_stir|stir]], as [[m/_molten|molten]] [[g/_glass|glass]], with a [[p/_pole|pole]].**
+- **To [[s/_strike|strike]] (the [[b/_ball|ball]]) very [[h/_hard|hard]].**
 ---
 #verb
 - **To [[i/_induce|induce]] [[p/_piezoelectricity|piezoelectricity]] in (a substance) by [[a/_aligning|aligning]] the [[d/_dipoles|dipoles]].**

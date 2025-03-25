@@ -1,7 +1,7 @@
 # Life
 ---
 #noun
-- **The state of [[o/_organisms|organisms]] [[p/_preceding|preceding]] their [[d/_death|death]], [[c/_characterized|characterized]] by [[b/_biological|biological]] [[p/_processes|processes]] such as [[m/_metabolism|metabolism]] and [[r/_reproduction|reproduction]] and [[d/_distinguishing|distinguishing]] them from [[i/_inanimate|inanimate]] [[o/_objects|objects]]; the state of [[b/_being|being]] [[a/_alive|alive]] and [[l/_living|living]].**
+- **The [[s/_state|state]] of [[o/_organisms|organisms]] [[p/_preceding|preceding]] their [[d/_death|death]], [[c/_characterized|characterized]] by [[b/_biological|biological]] [[p/_processes|processes]] such as [[m/_metabolism|metabolism]] and [[r/_reproduction|reproduction]] and [[d/_distinguishing|distinguishing]] them from [[i/_inanimate|inanimate]] [[o/_objects|objects]]; the [[s/_state|state]] of [[b/_being|being]] [[a/_alive|alive]] and [[l/_living|living]].**
 	- _Example: Having experienced both, the vampire decided that he preferred (un)death to life.  He gave up on life._
 - **The [[a/_animating|animating]] [[p/_principle|principle]] or [[f/_force|force]] that [[k/_keeps|keeps]] an [[i/_inorganic|inorganic]] thing or [[c/_concept|concept]] [[m/_metaphorically|metaphorically]] [[a/_alive|alive]] ([[d/_dynamic|dynamic]], [[r/_relevant|relevant]], [[e/_etc|etc]]) and [[m/_makes|makes]] it a "[[l/_living|living]] [[d/_document|document]]", "[[l/_living|living]] [[c/_constitution|constitution]]", [[e/_etc|etc]].**
 - **Lifeforms, [[g/_generally|generally]] or [[c/_collectively|collectively]].**
@@ -11,7 +11,7 @@
 - **[[e/_existence|Existence]].**
 	- _Example: Man's life on this planet has been marked by continual conflict.   the eternal life of the soul_
 - **A [[p/_period|period]] of time [[d/_during|during]] which [[s/_something|something]] [[h/_has|has]] [[e/_existence|existence]].**
-- **[[a/_animation|Animation]]; spirit; vivacity.**
+- **[[a/_animation|Animation]]; [[s/_spirit|spirit]]; vivacity.**
 - **A [[b/_biography|biography]].**
 	- _Example: His life of the founder is finished, except for the title._
 - **[[n/_nature|Nature]], [[r/_reality|reality]], and the [[f/_forms|forms]] that [[e/_exist|exist]] in it.**

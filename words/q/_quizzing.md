@@ -1,7 +1,7 @@
 # Quizzing
 ---
 #verb
-- **To [[h/_hoax|hoax]]; to [[c/_chaff|chaff]] or [[m/_mock|mock]] with [[p/_pretended|pretended]] [[s/_seriousness|seriousness]] of [[d/_discourse|discourse]]; to [[m/_make|make]] sport of, as by [[o/_obscure|obscure]] [[q/_questions|questions]].**
+- **To [[h/_hoax|hoax]]; to [[c/_chaff|chaff]] or [[m/_mock|mock]] with [[p/_pretended|pretended]] [[s/_seriousness|seriousness]] of [[d/_discourse|discourse]]; to [[m/_make|make]] [[s/_sport|sport]] of, as by [[o/_obscure|obscure]] [[q/_questions|questions]].**
 - **To [[p/_peer|peer]] at; to [[e/_eye|eye]] suspiciously or [[m/_mockingly|mockingly]].**
 - **To [[q/_question|question]] [[c/_closely|closely]], to [[i/_interrogate|interrogate]].**
 - **To [[i/_instruct|instruct]] by [[m/_means|means]] of a [[q/_quiz|quiz]].**

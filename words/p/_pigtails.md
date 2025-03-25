@@ -7,6 +7,6 @@
 - **A [[c/_cable|cable]] that [[h/_has|has]] a [[c/_connector|connector]] at [[o/_one|one]] [[e/_end|end]], and [[l/_loose|loose]] wires on the [[o/_other|other]].**
 - **The [[f/_flamingo|flamingo]] [[f/_flower|flower]].**
 - **The tail of a [[p/_pig|pig]].**
-- **Twisted stent terminal; Stent-[[e/_end|end]], usually but not [[n/_necessarily|necessarily]] a [[d/_different|different]] [[f/_fastened|fastened]] [[p/_part|part]].**
+- **Twisted [[s/_stent|stent]] terminal; [[s/_stent|Stent]]-[[e/_end|end]], usually but not [[n/_necessarily|necessarily]] a [[d/_different|different]] [[f/_fastened|fastened]] [[p/_part|part]].**
 ---
 ---

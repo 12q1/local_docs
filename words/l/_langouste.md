@@ -1,6 +1,6 @@
 # Langouste
 ---
 #noun
-- **The spiny [[l/_lobster|lobster]]**
+- **The [[s/_spiny|spiny]] [[l/_lobster|lobster]]**
 ---
 ---

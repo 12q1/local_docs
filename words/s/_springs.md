@@ -1,0 +1,79 @@
+# Springs
+---
+#verb
+- **To weaken, as a [[j/_joint|joint]], [[l/_ligament|ligament]], or [[m/_muscle|muscle]], by sudden and [[e/_excessive|excessive]] [[e/_exertion|exertion]], as by wrenching; to [[o/_overstrain|overstrain]], or [[s/_stretch|stretch]] [[i/_injuriously|injuriously]], but without [[l/_luxation|luxation]]**
+	- _Example: to sprain one's ankle_
+---
+#noun
+- **An [[a/_act|act]] of [[s/_springing|springing]]: a [[l/_leap|leap]], a [[j/_jump|jump]].**
+- **The [[s/_season|season]] of the [[y/_year|year]] in temperate [[r/_regions|regions]] in which [[p/_plants|plants]] [[s/_spring|spring]] from the [[g/_ground|ground]] and [[i/_into|into]] [[b/_bloom|bloom]] and [[d/_dormant|dormant]] [[a/_animals|animals]] [[s/_spring|spring]] to [[l/_life|life]], variously [[r/_reckoned|reckoned]] as**
+	- _Example: Spring is the time of the year most species reproduce._
+- **The time of [[s/_something|something]]'[[s/_s|s]] [[g/_growth|growth]]; the [[e/_early|early]] [[s/_stages|stages]] of [[s/_some|some]] [[p/_process|process]].**
+- **[[s/_someone|Someone]] with [[i/_ivory|ivory]] or [[p/_peach|peach]] [[s/_skin|skin]] tone and [[e/_eyes|eyes]] and [[h/_hair|hair]] that are not [[e/_extremely|extremely]] [[d/_dark|dark]], [[s/_seen|seen]] as [[b/_best|best]] suited to [[c/_certain|certain]] [[c/_colors|colors]] of [[c/_clothing|clothing]].**
+- **[[s/_something|Something]] which [[s/_springs|springs]], [[s/_springs|springs]] [[f/_forth|forth]], [[s/_springs|springs]] up, or [[s/_springs|springs]] [[b/_back|back]], [[p/_particularly|particularly]]**
+- **An [[e/_erection|erection]] of the [[p/_penis|penis]].**
+- **A [[c/_crack|crack]] which [[h/_has|has]] [[s/_sprung|sprung]] up in a [[m/_mast|mast]], [[s/_spar|spar]], or a [[p/_plank|plank]] or [[s/_seam|seam]].**
+- **[[s/_springiness|Springiness]]: an [[a/_attribute|attribute]] or [[q/_quality|quality]] of [[s/_springing|springing]], [[s/_springing|springing]] up, or [[s/_springing|springing]] [[b/_back|back]], [[p/_particularly|particularly]]**
+- **The [[s/_source|source]] from which an [[a/_action|action]] or supply of [[s/_something|something]] [[s/_springs|springs]].**
+- **[[s/_something|Something]] which [[c/_causes|causes]] [[o/_others|others]] or [[a/_another|another]] to [[s/_spring|spring]] [[f/_forth|forth]] or [[s/_spring|spring]] [[i/_into|into]] [[a/_action|action]], [[p/_particularly|particularly]]**
+---
+### Synonyms
+- [[i/_impetus|impetus]], [[i/_impulse|impulse]], [[s/_springtime|springtime]]
+#verb
+- **To [[b/_burst|burst]] [[f/_forth|forth]].**
+- **(of [[b/_beards|beards]]) To [[g/_grow|grow]].**
+- **To [[c/_cause|cause]] to [[b/_burst|burst]] [[f/_forth|forth]].**
+- **To [[m/_make|make]] wet, to [[m/_moisten|moisten]].**
+- **(usually with "to" or "up") To [[r/_rise|rise]] suddenly, (of tears) to well up.**
+	- _Example: The documentary made tears spring to their eyes._
+- **([[n/_now|now]] usually with "[[a/_apart|apart]]" or "[[o/_open|open]]") To [[b/_burst|burst]] [[i/_into|into]] [[p/_pieces|pieces]], to [[e/_explode|explode]], to [[s/_shatter|shatter]].**
+- **To [[g/_go|go]] [[o/_off|off]].**
+- **To [[c/_cause|cause]] to [[e/_explode|explode]], to [[s/_set|set]] [[o/_off|off]], to [[d/_detonate|detonate]].**
+- **(usually [[p/_perfective|perfective]]) To [[c/_crack|crack]].**
+- **To [[h/_have|have]] [[s/_something|something]] [[c/_crack|crack]].**
+- **To [[c/_cause|cause]] to [[c/_crack|crack]].**
+- **To surprise by sudden or [[d/_deft|deft]] [[a/_action|action]].**
+- **(of [[a/_arches|arches]]) To [[b/_build|build]], to [[f/_form|form]] the [[i/_initial|initial]] [[c/_curve|curve]] of.**
+	- _Example: They sprung an arch over the lintel._
+- **(of [[a/_arches|arches]], with "from") To [[e/_extend|extend]], to [[c/_curve|curve]].**
+	- _Example: The arches spring from the front posts._
+- **To turn a vessel using a [[s/_spring|spring]] [[a/_attached|attached]] to [[i/_its|its]] [[a/_anchor|anchor]] [[c/_cable|cable]].**
+- **To [[r/_raise|raise]] a vessel'[[s/_s|s]] [[s/_sheer|sheer]].**
+- **([[c/_cobblery|cobblery]]) To [[r/_raise|raise]] a [[l/_last|last]]'[[s/_s|s]] toe.**
+- **To [[p/_pay|pay]] or [[s/_spend|spend]] a [[c/_certain|certain]] sum, to [[c/_cough|cough]] up.**
+- **To [[r/_raise|raise]] an [[o/_offered|offered]] [[p/_price|price]].**
+- **To [[a/_act|act]] as a [[s/_spring|spring]]: to [[s/_strongly|strongly]] [[r/_rebound|rebound]].**
+- **To [[e/_equip|equip]] with [[s/_springs|springs]], [[e/_especially|especially]] (of vehicles) to [[e/_equip|equip]] with a suspension.**
+- **To [[p/_provide|provide]] [[s/_spring|spring]] or [[e/_elasticity|elasticity]]**
+- **To [[i/_inspire|inspire]], to [[m/_motivate|motivate]].**
+- **To [[d/_deform|deform]] [[o/_owing|owing]] to [[e/_excessive|excessive]] [[p/_pressure|pressure]], to [[b/_become|become]] warped; to [[i/_intentionally|intentionally]] [[d/_deform|deform]] in [[o/_order|order]] to [[p/_position|position]] and then [[s/_straighten|straighten]] in [[p/_place|place]].**
+	- _Example: A piece of timber sometimes springs in seasoning._
+- **([[n/_now|now]] [[r/_rare|rare]]) To [[r/_reach|reach]] [[m/_maturity|maturity]], to be [[f/_fully|fully]] [[g/_grown|grown]].**
+- **([[c/_chiefly|chiefly]] of [[c/_cows|cows]]) To swell with [[m/_milk|milk]] or [[p/_pregnancy|pregnancy]].**
+- **(of [[r/_rattles|rattles]]) To [[s/_sound|sound]], to [[p/_play|play]].**
+- **To [[s/_spend|spend]] the [[s/_springtime|springtime]] [[s/_somewhere|somewhere]]**
+---
+#verb
+- **To [[h/_hold|hold]] tightly, to [[c/_clasp|clasp]].**
+- **To [[a/_apply|apply]] a [[f/_force|force]] or [[f/_forces|forces]] to by [[s/_stretching|stretching]] [[o/_out|out]].**
+	- _Example: Relations between the United States and Guatemala traditionally have been close, although at times strained by human rights and civil/military issues._
+- **To [[d/_damage|damage]] by [[d/_drawing|drawing]], [[s/_stretching|stretching]], or the [[e/_exertion|exertion]] of [[f/_force|force]].**
+	- _Example: The gale strained the timbers of the ship._
+- **To [[a/_act|act]] upon, in [[a/_any|any]] way, [[s/_so|so]] as to [[c/_cause|cause]] [[c/_change|change]] of [[f/_form|form]] or volume, as when [[b/_bending|bending]] a [[b/_beam|beam]].**
+- **To [[e/_exert|exert]] or [[s/_struggle|struggle]] (to [[d/_do|do]] [[s/_something|something]]), [[e/_especially|especially]] to [[s/_stretch|stretch]] ([[o/_one|one]]'[[s/_s|s]] [[s/_senses|senses]], [[f/_faculties|faculties]] [[e/_etc|etc]].) [[b/_beyond|beyond]] what is [[n/_normal|normal]] or [[c/_comfortable|comfortable]].**
+	- _Example: Sitting in back, I strained to hear the speaker._
+- **To [[s/_stretch|stretch]] [[b/_beyond|beyond]] [[i/_its|its]] [[p/_proper|proper]] [[l/_limit|limit]]; to [[d/_do|do]] violence to, in terms of [[i/_intent|intent]] or [[m/_meaning|meaning]].**
+	- _Example: to strain the law in order to convict an accused person_
+- **To [[s/_separate|separate]] [[s/_solid|solid]] from [[l/_liquid|liquid]] by [[p/_passing|passing]] through a [[s/_strainer|strainer]] or [[c/_colander|colander]]**
+- **To [[p/_percolate|percolate]]; to be [[f/_filtered|filtered]].**
+	- _Example: water straining through a sandy soil_
+- **To [[m/_make|make]] uneasy or unnatural; to [[p/_produce|produce]] with [[a/_apparent|apparent]] [[e/_effort|effort]]; to [[f/_force|force]]; to [[c/_constrain|constrain]].**
+- **To urge with [[i/_importunity|importunity]]; to [[p/_press|press]].**
+	- _Example: to strain a petition or invitation_
+- **[[h/_hug|Hug]] [[s/_somebody|somebody]]; to [[h/_hold|hold]] [[s/_somebody|somebody]] tightly.**
+---
+#verb
+- **To [[b/_beget|beget]], [[g/_generate|generate]] (of [[l/_light|light]]), [[e/_engender|engender]], [[c/_copulate|copulate]] ([[b/_both|both]] of [[a/_animals|animals]] and [[h/_humans|humans]]), [[l/_lie|lie]] with, be [[b/_born|born]], [[c/_come|come]] [[i/_into|into]] the world.**
+	- _Example: A man straineth, liveth, then dieth._
+---
+---

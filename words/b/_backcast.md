@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_cast|cast]] or throw [[b/_back|back]].**
-- **A [[b/_backward|backward]] stroke, or a stroke [[d/_driving|driving]] [[o/_one|one]] [[b/_back|back]].**
+- **A [[b/_backward|backward]] [[s/_stroke|stroke]], or a [[s/_stroke|stroke]] [[d/_driving|driving]] [[o/_one|one]] [[b/_back|back]].**
 - **[[a/_any|Any]] [[d/_discouragement|discouragement]] or [[c/_cause|cause]] of [[r/_relapse|relapse]] or [[f/_failure|failure]].**
 - **[[m/_misfortune|Misfortune]]; [[r/_reverse|reverse]]; [[r/_reversal|reversal]]; a [[r/_relapse|relapse]] in [[h/_health|health]] or [[i/_illness|illness]]; [[m/_moral|moral]] [[b/_backsliding|backsliding]].**
 - **[[r/_retrospect|Retrospect]]; [[h/_hindsight|hindsight]].**

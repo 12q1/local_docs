@@ -1,7 +1,7 @@
 # Sloping
 ---
 #verb
-- **To tend steadily upward or [[d/_downward|downward]].**
+- **To tend [[s/_steadily|steadily]] upward or [[d/_downward|downward]].**
 	- _Example: The road slopes sharply down at that point._
 - **To [[f/_form|form]] with a [[s/_slope|slope]]; to [[g/_give|give]] an [[o/_oblique|oblique]] or [[s/_slanting|slanting]] [[d/_direction|direction]] to; to [[i/_incline|incline]] or [[s/_slant|slant]].**
 	- _Example: to slope the ground in a garden;   to slope a piece of cloth in cutting a garment_

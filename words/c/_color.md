@@ -1,7 +1,7 @@
 # Color
 ---
 #noun
-- **The spectral [[c/_composition|composition]] of visible [[l/_light|light]]**
+- **The [[s/_spectral|spectral]] [[c/_composition|composition]] of visible [[l/_light|light]]**
 	- _Example: Humans and birds can perceive color._
 - **A subset thereof:**
 - **A [[p/_paint|paint]].**
@@ -12,8 +12,8 @@
 - **A [[f/_flushed|flushed]] [[a/_appearance|appearance]] of [[b/_blood|blood]] in the [[f/_face|face]]; [[r/_redness|redness]] of [[c/_complexion|complexion]].**
 - **[[r/_richness|Richness]] of [[e/_expression|expression]]; [[d/_detail|detail]] or [[f/_flavour|flavour]] that is [[l/_likely|likely]] to [[g/_generate|generate]] [[i/_interest|interest]] or [[e/_enjoyment|enjoyment]].**
 	- _Example: Could you give me some color with regards to which products made up the mix of revenue for this quarter?_
-- **A standard, [[f/_flag|flag]], or [[i/_insignia|insignia]]:**
-- **(in the [[p/_plural|plural]]) An [[a/_award|award]] for sporting [[a/_achievement|achievement]], [[p/_particularly|particularly]] within a [[s/_school|school]] or university.**
+- **A [[s/_standard|standard]], [[f/_flag|flag]], or [[i/_insignia|insignia]]:**
+- **(in the [[p/_plural|plural]]) An [[a/_award|award]] for [[s/_sporting|sporting]] [[a/_achievement|achievement]], [[p/_particularly|particularly]] within a [[s/_school|school]] or university.**
 	- _Example: He was awarded colors for his football._
 - **(in the [[p/_plural|plural]]) The [[m/_morning|morning]] [[c/_ceremony|ceremony]] of [[r/_raising|raising]] the [[f/_flag|flag]].**
 - **A [[p/_property|property]] of [[q/_quarks|quarks]], with three values [[c/_called|called]] [[r/_red|red]], [[g/_green|green]], and [[b/_blue|blue]], which they [[c/_can|can]] [[e/_exchange|exchange]] by [[p/_passing|passing]] gluons.**

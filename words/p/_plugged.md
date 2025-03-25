@@ -1,7 +1,7 @@
 # Plugged
 ---
 #verb
-- **To stop with a [[p/_plug|plug]]; to [[m/_make|make]] tight by stopping a [[h/_hole|hole]].**
+- **To [[s/_stop|stop]] with a [[p/_plug|plug]]; to [[m/_make|make]] tight by [[s/_stopping|stopping]] a [[h/_hole|hole]].**
 	- _Example: He attempted to plug the leaks with some caulk._
 - **To [[b/_blatantly|blatantly]] [[m/_mention|mention]] a [[p/_particular|particular]] [[p/_product|product]] or [[s/_service|service]] as [[i/_if|if]] [[a/_advertising|advertising]] it.**
 	- _Example: The main guest on the show just kept plugging his latest movie: it got so tiresome._

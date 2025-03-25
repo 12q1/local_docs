@@ -8,6 +8,6 @@
 ### Synonyms
 - [[a/_aide-mémoire|aide-mémoire]]
 #noun
-- **The study of techniques for [[r/_remembering|remembering]] [[a/_anything|anything]] [[m/_more|more]] [[e/_easily|easily]].**
+- **The [[s/_study|study]] of techniques for [[r/_remembering|remembering]] [[a/_anything|anything]] [[m/_more|more]] [[e/_easily|easily]].**
 ---
 ---

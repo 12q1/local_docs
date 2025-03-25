@@ -1,7 +1,7 @@
 # Greens
 ---
 #noun
-- **The [[c/_colour|colour]] of [[g/_growing|growing]] [[f/_foliage|foliage]], as well as [[o/_other|other]] [[p/_plant|plant]] [[c/_cells|cells]] [[c/_containing|containing]] [[c/_chlorophyll|chlorophyll]]; the [[c/_colour|colour]] [[b/_between|between]] [[y/_yellow|yellow]] and [[b/_blue|blue]] in the visible spectrum; [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colour|colour]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting [[r/_red|red]] and [[b/_blue|blue]] from white [[l/_light|light]] using [[c/_cyan|cyan]] and [[y/_yellow|yellow]] [[f/_filters|filters]].**
+- **The [[c/_colour|colour]] of [[g/_growing|growing]] [[f/_foliage|foliage]], as well as [[o/_other|other]] [[p/_plant|plant]] [[c/_cells|cells]] [[c/_containing|containing]] [[c/_chlorophyll|chlorophyll]]; the [[c/_colour|colour]] [[b/_between|between]] [[y/_yellow|yellow]] and [[b/_blue|blue]] in the visible [[s/_spectrum|spectrum]]; [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colour|colour]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting [[r/_red|red]] and [[b/_blue|blue]] from white [[l/_light|light]] using [[c/_cyan|cyan]] and [[y/_yellow|yellow]] [[f/_filters|filters]].**
 - **([[s/_sometimes|sometimes]] [[c/_capitalised|capitalised]]) A [[m/_member|member]] of a [[g/_green|green]] [[p/_party|party]]; an [[e/_environmentalist|environmentalist]].**
 - **A [[p/_putting|putting]] [[g/_green|green]], the [[p/_part|part]] of a [[g/_golf|golf]] [[c/_course|course]] [[n/_near|near]] the [[h/_hole|hole]].**
 - **([[b/_bowls|bowls]]) The surface upon which [[b/_bowls|bowls]] is [[p/_played|played]].**
@@ -20,6 +20,6 @@
 - **[[l/_leaves|Leaves]] and [[l/_leaf|leaf]]-[[l/_like|like]] [[p/_parts|parts]] of [[e/_edible|edible]] [[p/_plants|plants]] when [[e/_eaten|eaten]] as vegetables or in [[s/_salads|salads]].**
 - **[[g/_green|Green]] vegetables; [[e/_edible|edible]] [[p/_plants|plants]] or [[p/_plant|plant]] [[p/_parts|parts]] that [[c/_contain|contain]] [[c/_chlorophyll|chlorophyll]].**
 - **[[l/_leafy|Leafy]] [[p/_plants|plants]] that are used for [[d/_decoration|decoration]].**
-- **The [[g/_green|green]] uniform of the United States [[m/_marine|Marine]] [[c/_corps|Corps]].**
+- **The [[g/_green|green]] uniform of the United [[s/_states|States]] [[m/_marine|Marine]] [[c/_corps|Corps]].**
 ---
 ---

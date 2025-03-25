@@ -9,7 +9,7 @@
 - **The [[d/_delivery|delivery]] of [[p/_property|property]] from [[o/_one|one]] [[o/_owner|owner]] to the [[n/_next|next]].**
 - **The writ by which [[p/_property|property]] is [[o/_obtained|obtained]].**
 - **The [[r/_rental|rental]] of [[h/_horses|horses]] or [[c/_carriages|carriages]]; the [[r/_rental|rental]] of [[c/_canoes|canoes]]; the [[c/_care|care]] and/or [[b/_boarding|boarding]] of [[h/_horses|horses]] for [[m/_money|money]].**
-- **A stable that [[k/_keeps|keeps]] [[h/_horses|horses]] or [[c/_carriages|carriages]] for [[r/_rental|rental]].**
+- **A [[s/_stable|stable]] that [[k/_keeps|keeps]] [[h/_horses|horses]] or [[c/_carriages|carriages]] for [[r/_rental|rental]].**
 - **An [[a/_allowance|allowance]] of [[f/_food|food]]; a [[r/_ration|ration]], as [[g/_given|given]] [[o/_out|out]] to a [[f/_family|family]], to [[s/_servants|servants]], to [[h/_horses|horses]], [[e/_etc|etc]].**
 - **[[r/_release|Release]] from wardship; [[d/_deliverance|deliverance]].**
 - **A [[l/_low|low]] [[g/_grade|grade]] of wool.**

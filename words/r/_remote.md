@@ -1,7 +1,7 @@
 # Remote
 ---
 #noun
-- **An [[e/_element|element]] of [[b/_broadcast|broadcast]] [[p/_programming|programming]] [[o/_originating|originating]] [[a/_away|away]] from the station'[[s/_s|s]] or [[s/_show|show]]'[[s/_s|s]] [[c/_control|control]] [[r/_room|room]].**
+- **An [[e/_element|element]] of [[b/_broadcast|broadcast]] [[p/_programming|programming]] [[o/_originating|originating]] [[a/_away|away]] from the [[s/_station|station]]'[[s/_s|s]] or [[s/_show|show]]'[[s/_s|s]] [[c/_control|control]] [[r/_room|room]].**
 ---
 ### Synonyms
 - [[c/_clicker|clicker]]

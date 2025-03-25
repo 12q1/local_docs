@@ -6,7 +6,7 @@
 - **A [[o/_one|one]]-[[d/_dollar|dollar]] [[b/_bill|bill]].**
 - **[[o/_one|One]] [[r/_run|run]] [[s/_scored|scored]] by [[h/_hitting|hitting]] the [[b/_ball|ball]] and [[r/_running|running]] [[b/_between|between]] the wickets; a [[s/_single|single]].**
 - **A [[j/_joke|joke]] or [[a/_amusing|amusing]] [[a/_anecdote|anecdote]].**
-- **A [[p/_particularly|particularly]] special or [[c/_compatible|compatible]] [[p/_person|person]] or thing.**
+- **A [[p/_particularly|particularly]] [[s/_special|special]] or [[c/_compatible|compatible]] [[p/_person|person]] or thing.**
 	- _Example: I knew as soon I met him that John was the one for me and we were married within a month._
 - **([[l/_leet|leet]]) Used [[i/_instead|instead]] of ! to [[a/_amplify|amplify]] an [[e/_exclamation|exclamation]], [[p/_parodying|parodying]] unskilled typists who [[f/_forget|forget]] to [[p/_press|press]] the [[s/_shift|shift]] [[k/_key|key]] while typing [[e/_exclamation|exclamation]] [[p/_points|points]], thus typing "1".**
 	- _Example: 2003 September 26, "DEAL WITH IT!!!!11one!!", in alt.games.video.nintendo.gamecube, Usenet_
@@ -31,7 +31,7 @@
 	- _Example: The two types look very different, but are one species._
 - **[[b/_being|Being]] a [[p/_preeminent|preeminent]] [[e/_example|example]].**
 	- _Example: He is one hell of a guy._
-- **[[b/_being|Being]] an unknown [[p/_person|person]] with the specified [[n/_name|name]]; [[s/_see|see]] [[a/_also|also]] "a [[c/_certain|certain]]".**
+- **[[b/_being|Being]] an unknown [[p/_person|person]] with the [[s/_specified|specified]] [[n/_name|name]]; [[s/_see|see]] [[a/_also|also]] "a [[c/_certain|certain]]".**
 	- _Example: The town records from 1843 showed the overnight incarceration of one “A. Lincoln”._
 ---
 #numeral

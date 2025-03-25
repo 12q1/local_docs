@@ -8,6 +8,6 @@
 	- _Example: After failing to win the leadership election, he flounced dramatically._
 ---
 #noun
-- **A [[f/_flounce|flounce]] (strip of [[d/_decorative|decorative]] [[m/_material|material]]).**
+- **A [[f/_flounce|flounce]] ([[s/_strip|strip]] of [[d/_decorative|decorative]] [[m/_material|material]]).**
 ---
 ---

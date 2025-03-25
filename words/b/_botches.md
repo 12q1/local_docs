@@ -3,7 +3,7 @@
 #noun
 - **An [[a/_action|action]], [[j/_job|job]], or task that [[h/_has|has]] [[b/_been|been]] [[p/_performed|performed]] very [[b/_badly|badly]]; a [[r/_ruined|ruined]], [[d/_defective|defective]], or [[c/_clumsy|clumsy]] [[p/_piece|piece]] of work.**
 - **A [[p/_patch|patch]] [[p/_put|put]] on, or a [[p/_part|part]] of a [[g/_garment|garment]] [[p/_patched|patched]] or [[m/_mended|mended]] in a [[c/_clumsy|clumsy]] [[m/_manner|manner]].**
-- **A [[m/_mistake|mistake]] that is very stupid or [[e/_embarrassing|embarrassing]].**
+- **A [[m/_mistake|mistake]] that is very [[s/_stupid|stupid]] or [[e/_embarrassing|embarrassing]].**
 - **A [[m/_messy|messy]], [[d/_disorderly|disorderly]] or [[c/_confusing|confusing]] [[c/_combination|combination]]; [[c/_conglomeration|conglomeration]]; [[h/_hodgepodge|hodgepodge]].**
 - **[[o/_one|One]] who [[m/_makes|makes]] a [[m/_mess|mess]] of [[s/_something|something]]; a [[b/_bungler|bungler]].**
 ---

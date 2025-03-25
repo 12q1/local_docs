@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_self|self]]-[[c/_contained|contained]] [[c/_component|component]] of a [[s/_system|system]], [[o/_often|often]] [[i/_interchangeable|interchangeable]], which [[h/_has|has]] a well-[[d/_defined|defined]] [[i/_interface|interface]] to the [[o/_other|other]] [[c/_components|components]].**
-- **A standard unit of [[m/_measure|measure]] used for [[d/_determining|determining]] the [[p/_proportions|proportions]] of a [[b/_building|building]].**
+- **A [[s/_standard|standard]] unit of [[m/_measure|measure]] used for [[d/_determining|determining]] the [[p/_proportions|proportions]] of a [[b/_building|building]].**
 - **A [[s/_section|section]] of a [[p/_program|program]]; a subroutine or [[g/_group|group]] of subroutines.**
 - **A unit of [[e/_education|education]] [[c/_covering|covering]] a [[s/_single|single]] topic.**
 	- _Example: Which modules are you studying next year?_

@@ -7,8 +7,8 @@
 - **To [[d/_determine|determine]] the [[a/_age|age]] of [[s/_something|something]].**
 	- _Example: to date the building of the pyramids_
 - **To take ([[s/_someone|someone]]) on a [[d/_date|date]], or a [[s/_series|series]] of [[d/_dates|dates]].**
-- **(by [[e/_extension|extension]]) To [[h/_have|have]] a steady [[r/_relationship|relationship]] with; to be [[r/_romantically|romantically]] [[i/_involved|involved]] with.**
-- **(by [[e/_extension|extension]]) To [[h/_have|have]] a steady [[r/_relationship|relationship]] with [[e/_each|each]] [[o/_other|other]]; to be [[r/_romantically|romantically]] [[i/_involved|involved]] with [[e/_each|each]] [[o/_other|other]].**
+- **(by [[e/_extension|extension]]) To [[h/_have|have]] a [[s/_steady|steady]] [[r/_relationship|relationship]] with; to be [[r/_romantically|romantically]] [[i/_involved|involved]] with.**
+- **(by [[e/_extension|extension]]) To [[h/_have|have]] a [[s/_steady|steady]] [[r/_relationship|relationship]] with [[e/_each|each]] [[o/_other|other]]; to be [[r/_romantically|romantically]] [[i/_involved|involved]] with [[e/_each|each]] [[o/_other|other]].**
 	- _Example: They met a couple of years ago, but have been dating for about five months._
 - **To [[m/_make|make]] or [[b/_become|become]] [[o/_old|old]], [[e/_especially|especially]] in such a way as to [[f/_fall|fall]] [[o/_out|out]] of [[f/_fashion|fashion]], [[b/_become|become]] [[l/_less|less]] [[a/_appealing|appealing]] or [[a/_attractive|attractive]], [[e/_etc|etc]].**
 	- _Example: The comedian dated himself by making quips about bands from the 1960s._

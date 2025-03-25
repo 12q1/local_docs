@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Unrelenting or unyielding in [[s/_severity|severity]].**
-- **Unremitting, steady and [[p/_persistent|persistent]].**
+- **Unremitting, [[s/_steady|steady]] and [[p/_persistent|persistent]].**
 ---
 ---

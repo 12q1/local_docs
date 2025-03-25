@@ -3,7 +3,7 @@
 #verb
 - **To [[b/_bend|bend]]; to [[c/_crook|crook]].**
 	- _Example: to curve a line_
-- **To [[c/_cause|cause]] to swerve from a straight [[c/_course|course]].**
+- **To [[c/_cause|cause]] to swerve from a [[s/_straight|straight]] [[c/_course|course]].**
 	- _Example: to curve a ball in pitching it_
 - **To [[b/_bend|bend]] or turn [[g/_gradually|gradually]] from a [[g/_given|given]] [[d/_direction|direction]].**
 	- _Example: the road curves to the right_

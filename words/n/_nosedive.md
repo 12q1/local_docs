@@ -5,7 +5,7 @@
 - **A [[r/_rapid|rapid]] [[f/_fall|fall]] in [[p/_price|price]] or value.**
 ---
 #verb
-- **(of [[a/_aircraft|aircraft]]) To [[d/_dive|dive]] [[d/_down|down]] in a steep [[a/_angle|angle]].**
+- **(of [[a/_aircraft|aircraft]]) To [[d/_dive|dive]] [[d/_down|down]] in a [[s/_steep|steep]] [[a/_angle|angle]].**
 - **To [[p/_perform|perform]] a [[r/_rapid|rapid]] [[f/_fall|fall]] in [[p/_price|price]] or value.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Youth
 ---
 #noun
-- **The [[q/_quality|quality]] or state of [[b/_being|being]] [[y/_young|young]].**
+- **The [[q/_quality|quality]] or [[s/_state|state]] of [[b/_being|being]] [[y/_young|young]].**
 	- _Example: Her youth and beauty attracted him to her._
 - **The [[p/_part|part]] of [[l/_life|life]] [[f/_following|following]] [[c/_childhood|childhood]]; the [[p/_period|period]] of [[e/_existence|existence]] [[p/_preceding|preceding]] [[m/_maturity|maturity]] or [[a/_age|age]]; the whole [[e/_early|early]] [[p/_part|part]] of [[l/_life|life]], from [[c/_childhood|childhood]], or, [[s/_sometimes|sometimes]], from [[i/_infancy|infancy]], to [[a/_adulthood|adulthood]].**
 	- _Example: I made many mistakes in my youth, but learned from them all._

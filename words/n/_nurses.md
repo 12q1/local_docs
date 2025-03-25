@@ -26,7 +26,7 @@
 - **To [[f/_foster|foster]], to [[n/_nourish|nourish]]**
 - **To [[h/_hold|hold]] [[c/_closely|closely]] to [[o/_one|one]]'[[s/_s|s]] [[c/_chest|chest]]**
 	- _Example: Would you like to nurse the puppy?_
-- **To strike ([[b/_billiard|billiard]] [[b/_balls|balls]]) [[g/_gently|gently]], [[s/_so|so]] as to [[k/_keep|keep]] them in [[g/_good|good]] [[p/_position|position]] [[d/_during|during]] a [[s/_series|series]] of [[s/_shots|shots]].**
+- **To [[s/_strike|strike]] ([[b/_billiard|billiard]] [[b/_balls|balls]]) [[g/_gently|gently]], [[s/_so|so]] as to [[k/_keep|keep]] them in [[g/_good|good]] [[p/_position|position]] [[d/_during|during]] a [[s/_series|series]] of [[s/_shots|shots]].**
 ---
 ### Synonyms
 - [[s/_sip|sip]], [[h/_husband|husband]]

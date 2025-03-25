@@ -1,7 +1,7 @@
 # Bacteria
 ---
 #noun
-- **A type, species, or strain of [[b/_bacterium|bacterium]].**
+- **A type, [[s/_species|species]], or [[s/_strain|strain]] of [[b/_bacterium|bacterium]].**
 - **A [[d/_derisive|derisive]] term for a [[l/_lowlife|lowlife]] or a [[s/_slob|slob]] ([[c/_could|could]] be treated as [[p/_plural|plural]] or [[s/_singular|singular]]).**
 ---
 #noun

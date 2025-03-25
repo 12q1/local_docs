@@ -1,7 +1,7 @@
 # Lav
 ---
 #noun
-- **An [[i/_item|item]] of [[j/_jewellery|jewellery]] [[c/_consisting|consisting]] of a [[p/_pendant|pendant]], [[s/_sometimes|sometimes]] with [[o/_one|one]] stone, suspended from a [[n/_necklace|necklace]].**
+- **An [[i/_item|item]] of [[j/_jewellery|jewellery]] [[c/_consisting|consisting]] of a [[p/_pendant|pendant]], [[s/_sometimes|sometimes]] with [[o/_one|one]] [[s/_stone|stone]], suspended from a [[n/_necklace|necklace]].**
 - **A [[k/_kind|kind]] of [[m/_microphone|microphone]] [[i/_intended|intended]] to [[c/_clip|clip]] [[o/_onto|onto]] the [[l/_lapel|lapel]] at [[a/_about|about]] the [[l/_level|level]] of the [[p/_pendant|pendant]] on a [[l/_lavalier|lavalier]].**
 ---
 #noun

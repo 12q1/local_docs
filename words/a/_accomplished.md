@@ -14,7 +14,7 @@
 #adjective
 - **[[c/_completed|Completed]]; [[e/_effected|effected]]; [[e/_established|established]].**
 	- _Example: an accomplished fact_
-- **[[h/_having|Having]] [[m/_many|many]] [[a/_accomplishments|accomplishments]], [[o/_often|often]] as a [[r/_result|result]] of study or training.**
+- **[[h/_having|Having]] [[m/_many|many]] [[a/_accomplishments|accomplishments]], [[o/_often|often]] as a [[r/_result|result]] of [[s/_study|study]] or training.**
 	- _Example: an accomplished scholar, an accomplished villain_
 - **[[s/_showing|Showing]] [[s/_skill|skill]] and [[a/_artistry|artistry]].**
 	- _Example: an accomplished first novel_

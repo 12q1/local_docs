@@ -15,7 +15,7 @@
 #verb
 - **To [[m/_mash|mash]].**
 - **To [[m/_mix|mix]] [[m/_malt|malt]] with [[h/_hot|hot]] water to [[y/_yield|yield]] wort.**
-- **To be [[i/_infused|infused]] or steeped.**
+- **To be [[i/_infused|infused]] or [[s/_steeped|steeped]].**
 - **To [[p/_prepare|prepare]] tea in a teapot; [[a/_alternative|alternative]] to [[b/_brew|brew]].**
 ---
 #verb

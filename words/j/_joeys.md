@@ -15,6 +15,6 @@
 - [[j/_jolly|jolly]]
 #noun
 - **A [[p/_person|person]] with cerebal [[p/_palsy|palsy]].**
-- **A stupid [[p/_person|person]].**
+- **A [[s/_stupid|stupid]] [[p/_person|person]].**
 ---
 ---

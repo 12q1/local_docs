@@ -1,7 +1,7 @@
 # Landmark
 ---
 #noun
-- **An [[o/_object|object]] that [[m/_marks|marks]] the [[b/_boundary|boundary]] of a [[p/_piece|piece]] of [[l/_land|land]] (usually a stone, or a tree).**
+- **An [[o/_object|object]] that [[m/_marks|marks]] the [[b/_boundary|boundary]] of a [[p/_piece|piece]] of [[l/_land|land]] (usually a [[s/_stone|stone]], or a tree).**
 - **A [[r/_recognizable|recognizable]] [[n/_natural|natural]] or [[m/_man|man]]-[[m/_made|made]] [[f/_feature|feature]] used for [[n/_navigation|navigation]].**
 - **A [[n/_notable|notable]] [[l/_location|location]] with [[h/_historical|historical]], [[c/_cultural|cultural]], or [[g/_geographical|geographical]] [[s/_significance|significance]].**
 - **A [[m/_major|major]] [[e/_event|event]] or [[d/_discovery|discovery]].**

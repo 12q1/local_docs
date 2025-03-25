@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_any|Any]] [[l/_low|low]], [[i/_indistinct|indistinct]] [[s/_sound|sound]], [[l/_like|like]] that of [[r/_running|running]] water.**
-- **[[s/_soft|Soft]] [[i/_indistinct|indistinct]] speech.**
+- **[[s/_soft|Soft]] [[i/_indistinct|indistinct]] [[s/_speech|speech]].**
 	- _Example: A murmur arose from the audience._
 - **The [[s/_sound|sound]] [[m/_made|made]] by [[a/_any|any]] [[c/_condition|condition]] which [[p/_produces|produces]] [[n/_noisy|noisy]], or turbulent, [[f/_flow|flow]] of [[b/_blood|blood]] through the [[h/_heart|heart]].**
 - **A [[m/_muttered|muttered]] [[c/_complaint|complaint]] or [[p/_protest|protest]]; the [[e/_expression|expression]] of [[d/_dissatisfaction|dissatisfaction]] in a [[l/_low|low]] [[m/_muttering|muttering]] voice; [[a/_any|any]] [[e/_expression|expression]] of [[c/_complaint|complaint]] or [[d/_discontent|discontent]]**

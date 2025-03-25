@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_person|person]] who takes a [[n/_nap|nap]]**
-- **A [[s/_sheep|sheep]] stealer**
+- **A [[s/_sheep|sheep]] [[s/_stealer|stealer]]**
 - **The [[h/_head|head]]**
 - **A [[m/_machine|machine]] used to [[r/_raise|raise]] the [[n/_nap|nap]] on [[c/_cloth|cloth]]**
 ---

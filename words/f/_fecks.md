@@ -2,7 +2,7 @@
 ---
 #verb
 - **To throw.**
-- **To steal.**
+- **To [[s/_steal|steal]].**
 - **To [[l/_leave|leave]] [[h/_hastily|hastily]].**
 ---
 #verb

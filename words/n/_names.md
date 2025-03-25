@@ -8,7 +8,7 @@
 	- _Example: Stop calling me names!_
 - **A [[p/_person|person]] (or [[l/_legal|legal]] [[p/_person|person]]).**
 - **Those of a [[c/_certain|certain]] [[n/_name|name]]; a [[r/_race|race]]; a [[f/_family|family]].**
-- **A unique [[i/_identifier|identifier]], [[g/_generally|generally]] a string of [[c/_characters|characters]].**
+- **A unique [[i/_identifier|identifier]], [[g/_generally|generally]] a [[s/_string|string]] of [[c/_characters|characters]].**
 - **An [[i/_investor|investor]] in Lloyds of [[l/_london|London]] [[b/_bearing|bearing]] unlimited [[l/_liability|liability]].**
 - **[[a/_authority|Authority]].**
 	- _Example: Halt in the name of the law!_
@@ -18,7 +18,7 @@
 #verb
 - **(ditransitive) To [[g/_give|give]] a [[n/_name|name]] to.**
 	- _Example: One visitor named Hou Yugang said he was not too concerned about climate change and Baishui’s melting._
-- **To [[m/_mention|mention]], specify.**
+- **To [[m/_mention|mention]], [[s/_specify|specify]].**
 	- _Example: He named his demands._
 - **To [[i/_identify|identify]] as [[r/_relevant|relevant]] or [[i/_important|important]]**
 	- _Example: naming the problem_

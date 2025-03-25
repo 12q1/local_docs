@@ -1,10 +1,10 @@
 # Coffers
 ---
 #noun
-- **A strong [[c/_chest|chest]] or [[b/_box|box]] used for [[k/_keeping|keeping]] [[m/_money|money]] or valuables [[s/_safe|safe]].**
+- **A [[s/_strong|strong]] [[c/_chest|chest]] or [[b/_box|box]] used for [[k/_keeping|keeping]] [[m/_money|money]] or valuables [[s/_safe|safe]].**
 - **An [[o/_ornamental|ornamental]] sunken [[p/_panel|panel]] in a [[c/_ceiling|ceiling]] or [[d/_dome|dome]].**
 - **A [[c/_cofferdam|cofferdam]].**
-- **A supply or store of [[m/_money|money]], [[o/_often|often]] [[b/_belonging|belonging]] to an [[o/_organization|organization]].**
+- **A supply or [[s/_store|store]] of [[m/_money|money]], [[o/_often|often]] [[b/_belonging|belonging]] to an [[o/_organization|organization]].**
 - **A trench [[d/_dug|dug]] in the [[b/_bottom|bottom]] of a [[d/_dry|dry]] [[m/_moat|moat]], and [[e/_extending|extending]] [[a/_across|across]] it, to [[e/_enable|enable]] the [[b/_besieged|besieged]] to [[d/_defend|defend]] it with [[r/_raking|raking]] [[f/_fire|fire]].**
 ---
 ### Synonyms

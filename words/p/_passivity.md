@@ -1,7 +1,7 @@
 # Passivity
 ---
 #noun
-- **The state of [[b/_being|being]] [[p/_passive|passive]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[p/_passive|passive]].**
 - **Submissiveness.**
 - **A [[l/_lack|lack]] of [[i/_initiative|initiative]].**
 ---

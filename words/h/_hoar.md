@@ -12,6 +12,6 @@
 #adjective
 - **Of a white or [[g/_greyish|greyish]]-white [[c/_colour|colour]].**
 - **[[h/_hoarily|Hoarily]] [[b/_bearded|bearded]].**
-- **[[m/_musty|Musty]]; [[m/_mouldy|mouldy]]; stale.**
+- **[[m/_musty|Musty]]; [[m/_mouldy|mouldy]]; [[s/_stale|stale]].**
 ---
 ---

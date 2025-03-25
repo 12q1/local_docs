@@ -10,7 +10,7 @@
 - [[a/_agitator|agitator]], [[a/_arsonist|arsonist]]
 #adjective
 - **[[c/_capable|Capable]] of, or used for, or [[a/_actually|actually]] [[c/_causing|causing]] [[f/_fire|fire]].**
-- **[[i/_intentionally|Intentionally]] stirring up strife, [[r/_riot|riot]], [[r/_rebellion|rebellion]].**
+- **[[i/_intentionally|Intentionally]] [[s/_stirring|stirring]] up [[s/_strife|strife]], [[r/_riot|riot]], [[r/_rebellion|rebellion]].**
 - **[[i/_inflammatory|Inflammatory]], [[e/_emotionally|emotionally]] [[c/_charged|charged]].**
 	- _Example: Politics is an incendiary topic; it tends to cause fights to break out._
 ---

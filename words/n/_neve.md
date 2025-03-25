@@ -4,6 +4,6 @@
 - **[[n/_nephew|Nephew]].**
 - **A [[m/_male|male]] [[c/_cousin|cousin]].**
 - **A [[g/_grandson|grandson]].**
-- **A spendthrift.**
+- **A [[s/_spendthrift|spendthrift]].**
 ---
 ---

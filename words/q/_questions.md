@@ -10,7 +10,7 @@
 - **A [[p/_proposal|proposal]] to a [[m/_meeting|meeting]] as a topic for [[d/_deliberation|deliberation]].**
 	- _Example: I move that the question be put to a vote._
 - **([[c/_chiefly|chiefly]] with [[d/_definite|definite]] [[a/_article|article]]) [[i/_interrogation|Interrogation]] by torture.**
-- **Talk; [[c/_conversation|conversation]]; speech.**
+- **Talk; [[c/_conversation|conversation]]; [[s/_speech|speech]].**
 ---
 ### Synonyms
 - [[d/_doubt|doubt]], [[i/_issue|issue]], [[e/_enquiry|enquiry]], [[i/_inquiry|inquiry]], [[i/_interrogation|interrogation]], [[q/_query|query]], [[p/_proposal|proposal]], [[c/_consideration|consideration]], [[p/_problem|problem]], [[p/_proposition|proposition]], [[s/_subject|subject]], [[t/_topic|topic]]

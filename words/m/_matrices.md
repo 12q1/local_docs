@@ -2,13 +2,13 @@
 ---
 #noun
 - **The womb.**
-- **The [[m/_material|material]] or tissue in which [[m/_more|more]] specialized structures are [[e/_embedded|embedded]].**
+- **The [[m/_material|material]] or tissue in which [[m/_more|more]] [[s/_specialized|specialized]] [[s/_structures|structures]] are [[e/_embedded|embedded]].**
 - **An [[e/_extracellular|extracellular]] [[m/_matrix|matrix]], the [[m/_material|material]] or tissue [[b/_between|between]] the [[c/_cells|cells]] of [[a/_animals|animals]] or [[p/_plants|plants]].**
 - **[[p/_part|Part]] of the [[m/_mitochondrion|mitochondrion]].**
 - **The [[m/_medium|medium]] in which [[b/_bacteria|bacteria]] are [[c/_cultured|cultured]].**
 - **A [[r/_rectangular|rectangular]] [[a/_arrangement|arrangement]] of [[n/_numbers|numbers]] or terms [[h/_having|having]] various uses such as transforming [[c/_coordinates|coordinates]] in [[g/_geometry|geometry]], [[s/_solving|solving]] [[s/_systems|systems]] of [[l/_linear|linear]] [[e/_equations|equations]] in [[l/_linear|linear]] [[a/_algebra|algebra]] and [[r/_representing|representing]] [[g/_graphs|graphs]] in [[g/_graph|graph]] theory.**
 - **A two-[[d/_dimensional|dimensional]] [[a/_array|array]].**
-- **A [[g/_grid|grid]]-[[l/_like|like]] [[a/_arrangement|arrangement]] of [[e/_electronic|electronic]] [[c/_components|components]], [[e/_especially|especially]] [[o/_one|one]] [[i/_intended|intended]] for [[i/_information|information]] [[c/_coding|coding]], [[d/_decoding|decoding]] or storage.**
+- **A [[g/_grid|grid]]-[[l/_like|like]] [[a/_arrangement|arrangement]] of [[e/_electronic|electronic]] [[c/_components|components]], [[e/_especially|especially]] [[o/_one|one]] [[i/_intended|intended]] for [[i/_information|information]] [[c/_coding|coding]], [[d/_decoding|decoding]] or [[s/_storage|storage]].**
 - **A table of [[d/_data|data]].**
 - **A [[g/_geological|geological]] [[m/_matrix|matrix]].**
 - **([[a/_archaeology|archaeology]] and [[p/_paleontology|paleontology]]) The [[s/_sediment|sediment]] surrounding and [[i/_including|including]] the [[a/_artifacts|artifacts]], [[f/_features|features]], and [[o/_other|other]] [[m/_materials|materials]] at a [[s/_site|site]].**

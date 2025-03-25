@@ -1,6 +1,6 @@
 # Flinder
 ---
 #noun
-- **A [[s/_small|small]] [[p/_piece|piece]] or [[f/_fragment|fragment]]; a thin [[s/_slice|slice]]; splinter**
+- **A [[s/_small|small]] [[p/_piece|piece]] or [[f/_fragment|fragment]]; a thin [[s/_slice|slice]]; [[s/_splinter|splinter]]**
 ---
 ---

@@ -6,6 +6,6 @@
 ### Synonyms
 - [[d/_dell|dell]], [[d/_dells|dells]], [[v/_vale|vale]]
 #noun
-- **A trough or spout to [[c/_carry|carry]] [[o/_off|off]] water, as from a [[p/_pump|pump]].**
+- **A trough or [[s/_spout|spout]] to [[c/_carry|carry]] [[o/_off|off]] water, as from a [[p/_pump|pump]].**
 ---
 ---

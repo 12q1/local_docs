@@ -1,7 +1,7 @@
 # Lollipop
 ---
 #noun
-- **An [[i/_item|item]] of [[c/_confectionery|confectionery]] [[c/_consisting|consisting]] of a [[p/_piece|piece]] of [[c/_candy|candy]]/sweet [[a/_attached|attached]] to a stick.**
+- **An [[i/_item|item]] of [[c/_confectionery|confectionery]] [[c/_consisting|consisting]] of a [[p/_piece|piece]] of [[c/_candy|candy]]/sweet [[a/_attached|attached]] to a [[s/_stick|stick]].**
 ---
 ### Synonyms
 - [[l/_lolly|lolly]], [[s/_sucker|sucker]]

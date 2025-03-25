@@ -24,7 +24,7 @@
 	- _Example: real estate;  real property_
 - **[[a/_absolute|Absolute]], [[c/_complete|complete]], utter.**
 	- _Example: This is a real problem._
-- **[[s/_signifying|Signifying]] [[m/_meritorious|meritorious]] [[q/_qualities|qualities]] or [[a/_actions|actions]] [[e/_especially|especially]] as [[r/_regard|regard]] the [[e/_enjoyment|enjoyment]] of [[l/_life|life]], [[p/_prowess|prowess]] at sports, or success wooing [[p/_potential|potential]] [[p/_partners|partners]].**
+- **[[s/_signifying|Signifying]] [[m/_meritorious|meritorious]] [[q/_qualities|qualities]] or [[a/_actions|actions]] [[e/_especially|especially]] as [[r/_regard|regard]] the [[e/_enjoyment|enjoyment]] of [[l/_life|life]], [[p/_prowess|prowess]] at [[s/_sports|sports]], or success wooing [[p/_potential|potential]] [[p/_partners|partners]].**
 	- _Example: I'm keeping it real._
 ---
 ### Synonyms

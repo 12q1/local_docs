@@ -14,7 +14,7 @@
 ### Synonyms
 - [[g/_garage|garage]], [[b/_boutique|boutique]], [[o/_outlet|outlet]], [[r/_retail|retail]], [[s/_store|store]], [[m/_metalwork|metalwork]], [[a/_atelier|atelier]], [[s/_studio|studio]], [[w/_workshop|workshop]], [[c/_carpentry|carpentry]], [[w/_woodwork|woodwork]], [[o/_office|office]], [[w/_workplace|workplace]]
 #verb
-- **To visit stores or [[s/_shops|shops]] to [[b/_browse|browse]] or [[e/_explore|explore]] [[m/_merchandise|merchandise]], [[e/_especially|especially]] with the [[i/_intention|intention]] of [[b/_buying|buying]] such [[m/_merchandise|merchandise]].**
+- **To visit [[s/_stores|stores]] or [[s/_shops|shops]] to [[b/_browse|browse]] or [[e/_explore|explore]] [[m/_merchandise|merchandise]], [[e/_especially|especially]] with the [[i/_intention|intention]] of [[b/_buying|buying]] such [[m/_merchandise|merchandise]].**
 	- _Example: He’s shopping for clothes._
 - **To [[p/_purchase|purchase]] [[p/_products|products]] from (a [[r/_range|range]] or [[c/_catalogue|catalogue]], [[e/_etc|etc]].).**
 	- _Example: Shop our new arrivals._

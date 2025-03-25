@@ -7,7 +7,7 @@
 - **To [[h/_hurl|hurl]] or throw.**
 - **To [[m/_move|move]] [[o/_obliquely|obliquely]]; to [[m/_move|move]] [[s/_sideways|sideways]], to [[s/_sidle|sidle]]; to [[l/_lie|lie]] [[o/_obliquely|obliquely]].**
 - **To [[j/_jump|jump]] [[b/_back|back]] or [[s/_sideways|sideways]] in [[f/_fear|fear]] or surprise; to [[s/_shy|shy]], as a [[h/_horse|horse]].**
-- **To [[l/_look|look]] at [[o/_obliquely|obliquely]]; to squint; [[h/_hence|hence]], to [[l/_look|look]] [[s/_slightingly|slightingly]] or suspiciously.**
+- **To [[l/_look|look]] at [[o/_obliquely|obliquely]]; to [[s/_squint|squint]]; [[h/_hence|hence]], to [[l/_look|look]] [[s/_slightingly|slightingly]] or suspiciously.**
 ---
 ### Antonyms
 - [[u/_unskew|unskew]]

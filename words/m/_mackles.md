@@ -1,7 +1,7 @@
 # Mackles
 ---
 #noun
-- **A spot.**
+- **A [[s/_spot|spot]].**
 - **A [[b/_blur|blur]] or an [[a/_appearance|appearance]] of a [[d/_double|double]] [[i/_impression|impression]], as when the [[p/_paper|paper]] [[s/_slips|slips]] a [[l/_little|little]] [[d/_during|during]] [[p/_printing|printing]].**
 ---
 #verb

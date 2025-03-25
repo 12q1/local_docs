@@ -3,15 +3,15 @@
 #noun
 - **That which [[b/_binds|binds]] or ties.**
 - **A troublesome [[s/_situation|situation]]; a [[p/_problem|problem]]; a [[p/_predicament|predicament]] or [[q/_quandary|quandary]].**
-- **[[a/_any|Any]] twining or [[c/_climbing|climbing]] [[p/_plant|plant]] or stem, [[e/_especially|especially]] a [[h/_hop|hop]] vine; a [[b/_bine|bine]].**
+- **[[a/_any|Any]] twining or [[c/_climbing|climbing]] [[p/_plant|plant]] or [[s/_stem|stem]], [[e/_especially|especially]] a [[h/_hop|hop]] vine; a [[b/_bine|bine]].**
 - **A [[l/_ligature|ligature]] or tie for [[g/_grouping|grouping]] [[n/_notes|notes]].**
-- **A strong [[g/_grip|grip]] or stranglehold on a [[p/_position|position]] that is [[d/_difficult|difficult]] for the [[o/_opponent|opponent]] to [[b/_break|break]].**
+- **A [[s/_strong|strong]] [[g/_grip|grip]] or [[s/_stranglehold|stranglehold]] on a [[p/_position|position]] that is [[d/_difficult|difficult]] for the [[o/_opponent|opponent]] to [[b/_break|break]].**
 	- _Example: the Maróczy Bind_
 - **The [[i/_indurated|indurated]] [[c/_clay|clay]] of [[c/_coal|coal]] [[m/_mines|mines]].**
 ---
 #verb
 - **To tie; to [[c/_confine|confine]] by [[a/_any|any]] [[l/_ligature|ligature]].**
-- **To [[c/_cohere|cohere]] or stick together in a [[m/_mass|mass]].**
+- **To [[c/_cohere|cohere]] or [[s/_stick|stick]] together in a [[m/_mass|mass]].**
 	- _Example: Just to make the cheese more binding_
 - **To be [[r/_restrained|restrained]] from [[m/_motion|motion]], or from [[c/_customary|customary]] or [[n/_natural|natural]] [[a/_action|action]], as by [[f/_friction|friction]].**
 	- _Example: I wish I knew why the sewing machine binds up after I use it for a while._
@@ -27,7 +27,7 @@
 - **To [[p/_put|put]] (a [[p/_person|person]]) under [[d/_definite|definite]] [[l/_legal|legal]] [[o/_obligations|obligations]], [[e/_especially|especially]], under the [[o/_obligation|obligation]] of a [[b/_bond|bond]] or [[c/_covenant|covenant]].**
 - **To [[p/_place|place]] under [[l/_legal|legal]] [[o/_obligation|obligation]] to [[s/_serve|serve]].**
 	- _Example: to bind an apprentice  bound out to service_
-- **To [[p/_protect|protect]] or strengthen by [[a/_applying|applying]] a [[b/_band|band]] or [[b/_binding|binding]], as the [[e/_edge|edge]] of a [[c/_carpet|carpet]] or [[g/_garment|garment]].**
+- **To [[p/_protect|protect]] or [[s/_strengthen|strengthen]] by [[a/_applying|applying]] a [[b/_band|band]] or [[b/_binding|binding]], as the [[e/_edge|edge]] of a [[c/_carpet|carpet]] or [[g/_garment|garment]].**
 - **To [[m/_make|make]] [[f/_fast|fast]] (a thing) [[a/_about|about]] or upon [[s/_something|something]], as by tying; to [[e/_encircle|encircle]] with [[s/_something|something]].**
 	- _Example: to bind a belt about one  to bind a compress upon a wound_
 - **To [[c/_cover|cover]], as with a [[b/_bandage|bandage]].**
@@ -36,8 +36,8 @@
 	- _Example: Certain drugs bind the bowels._
 - **To [[p/_put|put]] together in a [[c/_cover|cover]], as of [[b/_books|books]].**
 	- _Example: The three novels were bound together._
-- **To [[m/_make|make]] two or [[m/_more|more]] [[e/_elements|elements]] stick together.**
-- **To [[a/_associate|associate]] an [[i/_identifier|identifier]] with a value; to [[a/_associate|associate]] a variable [[n/_name|name]], [[m/_method|method]] [[n/_name|name]], [[e/_etc|etc]]. with the [[c/_content|content]] of a storage [[l/_location|location]].**
+- **To [[m/_make|make]] two or [[m/_more|more]] [[e/_elements|elements]] [[s/_stick|stick]] together.**
+- **To [[a/_associate|associate]] an [[i/_identifier|identifier]] with a value; to [[a/_associate|associate]] a variable [[n/_name|name]], [[m/_method|method]] [[n/_name|name]], [[e/_etc|etc]]. with the [[c/_content|content]] of a [[s/_storage|storage]] [[l/_location|location]].**
 - **To [[c/_complain|complain]]; to whine [[a/_about|about]] [[s/_something|something]].**
 ---
 ### Synonyms

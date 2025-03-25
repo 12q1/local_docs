@@ -23,9 +23,9 @@
 	- _Example: I can't get it to work._
 - **To [[c/_cause|cause]] to [[c/_come|come]] or [[g/_go|go]] or [[m/_move|move]].**
 	- _Example: I got him to his room._
-- **To [[c/_cause|cause]] to be in a [[c/_certain|certain]] status or [[p/_position|position]].**
+- **To [[c/_cause|cause]] to be in a [[c/_certain|certain]] [[s/_status|status]] or [[p/_position|position]].**
 	- _Example: Get him here at once._
-- **(with various [[p/_prepositions|prepositions]], such as [[i/_into|into]], [[o/_over|over]], or [[b/_behind|behind]]; for specific [[i/_idiomatic|idiomatic]] [[s/_senses|senses]] [[s/_see|see]] [[i/_individual|individual]] [[e/_entries|entries]] [[g/_get|get]] [[i/_into|into]], [[g/_get|get]] [[o/_over|over]], [[e/_etc|etc]].) To [[a/_adopt|adopt]], [[a/_assume|assume]], [[a/_arrive|arrive]] at, or [[p/_progress|progress]] towards (a [[c/_certain|certain]] [[p/_position|position]], [[l/_location|location]], state).**
+- **(with various [[p/_prepositions|prepositions]], such as [[i/_into|into]], [[o/_over|over]], or [[b/_behind|behind]]; for [[s/_specific|specific]] [[i/_idiomatic|idiomatic]] [[s/_senses|senses]] [[s/_see|see]] [[i/_individual|individual]] [[e/_entries|entries]] [[g/_get|get]] [[i/_into|into]], [[g/_get|get]] [[o/_over|over]], [[e/_etc|etc]].) To [[a/_adopt|adopt]], [[a/_assume|assume]], [[a/_arrive|arrive]] at, or [[p/_progress|progress]] towards (a [[c/_certain|certain]] [[p/_position|position]], [[l/_location|location]], [[s/_state|state]]).**
 	- _Example: I'm getting into a muddle._
 - **To [[c/_cover|cover]] (a [[c/_certain|certain]] [[d/_distance|distance]]) while travelling.**
 	- _Example: to get a mile_
@@ -47,7 +47,7 @@
 	- _Example: I went on holiday and got malaria._
 - **To [[c/_catch|catch]] [[o/_out|out]], trick successfully.**
 	- _Example: He keeps calling pretending to be my boss—it gets me every time._
-- **To [[p/_perplex|perplex]], stump.**
+- **To [[p/_perplex|perplex]], [[s/_stump|stump]].**
 	- _Example: That question's really got me._
 - **To [[f/_find|find]] as an [[a/_answer|answer]].**
 	- _Example: What did you get for question four?_

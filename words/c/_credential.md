@@ -1,7 +1,7 @@
 # Credential
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[d/_documentary|documentary]] or [[e/_electronic|electronic]] [[e/_evidence|evidence]] that a [[p/_person|person]] [[h/_has|has]] [[c/_certain|certain]] status or [[p/_privileges|privileges]]**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[d/_documentary|documentary]] or [[e/_electronic|electronic]] [[e/_evidence|evidence]] that a [[p/_person|person]] [[h/_has|has]] [[c/_certain|certain]] [[s/_status|status]] or [[p/_privileges|privileges]]**
 	- _Example: May I see your credentials, please?_
 ---
 #verb

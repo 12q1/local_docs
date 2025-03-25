@@ -27,7 +27,7 @@
 - **A [[c/_contrivance|contrivance]], as a [[b/_band|band]], [[p/_pin|pin]], [[s/_snap|snap]], or the [[l/_like|like]], to [[h/_hold|hold]] the [[s/_skirt|skirt]] of a woman’[[s/_s|s]] [[d/_dress|dress]] from the [[g/_ground|ground]].**
 - **A track [[a/_along|along]] which [[p/_pallets|pallets]] [[c/_carrying|carrying]] [[n/_newly|newly]] [[m/_molded|molded]] [[b/_bricks|bricks]] are [[c/_conveyed|conveyed]] to the [[h/_hack|hack]].**
 - **A [[m/_message|message]] [[s/_sent|sent]] to [[s/_someone|someone]]'[[s/_s|s]] [[p/_pager|pager]].**
-- **[[a/_any|Any]] [[o/_one|one]] of [[s/_several|several]] species of [[c/_colorful|colorful]] [[s/_south|South]] [[a/_american|American]] [[m/_moths|moths]] of the [[g/_genus|genus]] Urania.**
+- **[[a/_any|Any]] [[o/_one|one]] of [[s/_several|several]] [[s/_species|species]] of [[c/_colorful|colorful]] [[s/_south|South]] [[a/_american|American]] [[m/_moths|moths]] of the [[g/_genus|genus]] Urania.**
 ---
 ### Synonyms
 - [[b/_boy|boy]]

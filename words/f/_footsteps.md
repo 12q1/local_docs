@@ -7,11 +7,11 @@
 	- _Example: To walk the footsteps of greatness requires that you start at the bottom of a long stair._
 - **The [[s/_sound|sound]] [[m/_made|made]] by walking, [[r/_running|running]] [[e/_etc|etc]].**
 	- _Example: The footsteps of the students echoed in the empty hall._
-- **A step, as in a stair.**
+- **A [[s/_step|step]], as in a [[s/_stair|stair]].**
 	- _Example: The garden path had a small footstep down to the main walkway._
 - **The [[d/_distance|distance]] [[b/_between|between]] [[o/_one|one]] [[f/_foot|foot]] and the [[n/_next|next]] when walking; a [[p/_pace|pace]].**
 	- _Example: Mere footsteps away from the victim lay the murder weapon._
-- **The [[a/_act|act]] of taking a step.**
+- **The [[a/_act|act]] of taking a [[s/_step|step]].**
 	- _Example: Take one more footstep towards me, and I'll make you sorry!_
 - **An [[i/_inclined|inclined]] [[p/_plane|plane]] under a [[h/_hand|hand]] [[p/_printing|printing]] [[p/_press|press]].**
 ---

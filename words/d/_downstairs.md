@@ -12,7 +12,7 @@
 	- _Example: The kids sleep in the downstairs bedroom, we sleep in the upstairs one._
 ---
 #adverb
-- **[[l/_living|Living]], stepping, or [[c/_coming|coming]] [[d/_down|down]] the stairs**
+- **[[l/_living|Living]], [[s/_stepping|stepping]], or [[c/_coming|coming]] [[d/_down|down]] the [[s/_stairs|stairs]]**
 	- _Example: walk downstairs_
 ---
 ---

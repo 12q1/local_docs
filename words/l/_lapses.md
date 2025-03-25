@@ -2,7 +2,7 @@
 ---
 #noun
 - **A temporary [[f/_failure|failure]]; a [[s/_slip|slip]].**
-- **A [[d/_decline|decline]] or [[f/_fall|fall]] in standards.**
+- **A [[d/_decline|decline]] or [[f/_fall|fall]] in [[s/_standards|standards]].**
 - **A [[p/_pause|pause]] in [[c/_continuity|continuity]].**
 - **An [[i/_interval|interval]] of time [[b/_between|between]] [[e/_events|events]].**
 - **A termination of a [[r/_right|right]] [[e/_etc|etc]]., through [[d/_disuse|disuse]] or [[n/_neglect|neglect]].**

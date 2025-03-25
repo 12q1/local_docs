@@ -5,6 +5,6 @@
 ---
 #noun
 - **[[b/_breath|Breath]].**
-- **[[s/_sea|Sea]] [[s/_smoke|smoke]]; steam [[f/_fog|fog]].**
+- **[[s/_sea|Sea]] [[s/_smoke|smoke]]; [[s/_steam|steam]] [[f/_fog|fog]].**
 ---
 ---

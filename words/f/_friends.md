@@ -1,7 +1,7 @@
 # Friends
 ---
 #noun
-- **A [[p/_person|person]] [[o/_other|other]] than a [[f/_family|family]] [[m/_member|member]], spouse or [[l/_lover|lover]] whose [[c/_company|company]] [[o/_one|one]] [[e/_enjoys|enjoys]] and towards whom [[o/_one|one]] [[f/_feels|feels]] [[a/_affection|affection]].**
+- **A [[p/_person|person]] [[o/_other|other]] than a [[f/_family|family]] [[m/_member|member]], [[s/_spouse|spouse]] or [[l/_lover|lover]] whose [[c/_company|company]] [[o/_one|one]] [[e/_enjoys|enjoys]] and towards whom [[o/_one|one]] [[f/_feels|feels]] [[a/_affection|affection]].**
 	- _Example: John and I have been friends ever since we were roommates at college.   Trust is important between friends.   I used to find it hard to make friends when I was shy._
 - **An [[a/_associate|associate]] who [[p/_provides|provides]] [[a/_assistance|assistance]].**
 	- _Example: The Automobile Association is every motorist's friend.   The police is every law-abiding citizen's friend._
@@ -13,8 +13,8 @@
 	- _Example: Wiktionary is your friend._
 - **(used [[o/_only|only]] in the vocative) Used as a [[f/_form|form]] of [[a/_address|address]] when warning [[s/_someone|someone]].**
 	- _Example: You’d better watch it, friend._
-- **A [[f/_function|function]] or [[c/_class|class]] [[g/_granted|granted]] special [[a/_access|access]] to the [[p/_private|private]] and [[p/_protected|protected]] [[m/_members|members]] of [[a/_another|another]] [[c/_class|class]].**
-- **A spring-[[l/_loaded|loaded]] camming [[d/_device|device]].**
+- **A [[f/_function|function]] or [[c/_class|class]] [[g/_granted|granted]] [[s/_special|special]] [[a/_access|access]] to the [[p/_private|private]] and [[p/_protected|protected]] [[m/_members|members]] of [[a/_another|another]] [[c/_class|class]].**
+- **A [[s/_spring|spring]]-[[l/_loaded|loaded]] camming [[d/_device|device]].**
 - **A [[l/_lover|lover]]; a [[b/_boyfriend|boyfriend]] or [[g/_girlfriend|girlfriend]].**
 - **A [[r/_relative|relative]], a [[r/_relation|relation]] by [[b/_blood|blood]] or [[m/_marriage|marriage]].**
 	- _Example: Friends agree best at a distance._

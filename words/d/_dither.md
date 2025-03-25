@@ -1,7 +1,7 @@
 # Dither
 ---
 #noun
-- **The state of [[b/_being|being]] undecided.**
+- **The [[s/_state|state]] of [[b/_being|being]] undecided.**
 ---
 #verb
 - **To tremble, [[s/_shake|shake]], or [[s/_shiver|shiver]] with [[c/_cold|cold]].**

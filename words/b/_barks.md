@@ -23,7 +23,7 @@
 ### Synonyms
 - [[r/_rind|rind]]
 #verb
-- **To strip the [[b/_bark|bark]] from; to [[p/_peel|peel]].**
+- **To [[s/_strip|strip]] the [[b/_bark|bark]] from; to [[p/_peel|peel]].**
 - **To [[a/_abrade|abrade]] or [[r/_rub|rub]] [[o/_off|off]] [[a/_any|any]] [[o/_outer|outer]] [[c/_covering|covering]] from.**
 	- _Example: to bark one’s heel_
 - **To [[g/_girdle|girdle]].**
@@ -33,6 +33,6 @@
 #noun
 - **A [[s/_small|small]] [[s/_sailing|sailing]] vessel, [[e/_e|e]].[[g/_g|g]]. a [[p/_pinnace|pinnace]] or a [[f/_fishing|fishing]] [[s/_smack|smack]]; a [[r/_rowing|rowing]] [[b/_boat|boat]] or [[b/_barge|barge]].**
 - **A [[s/_sailing|sailing]] vessel or [[b/_boat|boat]] of [[a/_any|any]] [[k/_kind|kind]].**
-- **A vessel, typically with three (or [[m/_more|more]]) [[m/_masts|masts]], with the [[f/_foremasts|foremasts]] (or [[f/_fore|fore]]- and [[m/_mainmasts|mainmasts]]) square-[[r/_rigged|rigged]], and [[m/_mizzenmast|mizzenmast]] [[s/_schooner|schooner]]-[[r/_rigged|rigged]].**
+- **A vessel, typically with three (or [[m/_more|more]]) [[m/_masts|masts]], with the [[f/_foremasts|foremasts]] (or [[f/_fore|fore]]- and [[m/_mainmasts|mainmasts]]) [[s/_square|square]]-[[r/_rigged|rigged]], and [[m/_mizzenmast|mizzenmast]] [[s/_schooner|schooner]]-[[r/_rigged|rigged]].**
 ---
 ---

@@ -7,7 +7,7 @@
 	- _Example: Based on this data, it is our belief that X does not occur._
 - **[[s/_something|Something]] [[b/_believed|believed]].**
 	- _Example: The ancient people have a belief in many deities._
-- **The [[q/_quality|quality]] or state of [[b/_believing|believing]].**
+- **The [[q/_quality|quality]] or [[s/_state|state]] of [[b/_believing|believing]].**
 	- _Example: My belief that it will rain tomorrow is strong._
 - **[[r/_religious|Religious]] [[f/_faith|faith]].**
 	- _Example: She often said it was her belief that carried her through the hard times._

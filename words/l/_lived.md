@@ -9,9 +9,9 @@
 	- _Example: Her memory lives in that song._
 - **To [[c/_cope|cope]].**
 	- _Example: You'll just have to live with it!  I can't live in a world without you._
-- **To [[p/_pass|pass]] [[l/_life|life]] in a specified [[m/_manner|manner]].**
+- **To [[p/_pass|pass]] [[l/_life|life]] in a [[s/_specified|specified]] [[m/_manner|manner]].**
 	- _Example: It is difficult to live in poverty.   And they lived happily ever after._
-- **To spend, as [[o/_one|one]]'[[s/_s|s]] [[l/_life|life]]; to [[p/_pass|pass]]; to [[m/_maintain|maintain]]; to [[c/_continue|continue]] in, [[c/_constantly|constantly]] or [[h/_habitually|habitually]].**
+- **To [[s/_spend|spend]], as [[o/_one|one]]'[[s/_s|s]] [[l/_life|life]]; to [[p/_pass|pass]]; to [[m/_maintain|maintain]]; to [[c/_continue|continue]] in, [[c/_constantly|constantly]] or [[h/_habitually|habitually]].**
 	- _Example: To live an idle or a useful life._
 - **To [[a/_act|act]] [[h/_habitually|habitually]] in [[c/_conformity|conformity]] with; to [[p/_practice|practice]]; to [[e/_exemplify|exemplify]] in [[o/_one|one]]'[[s/_s|s]] way of [[l/_life|life]].**
 - **To [[o/_outlast|outlast]] [[d/_danger|danger]]; to [[f/_float|float]] ([[s/_said|said]] of a [[s/_ship|ship]], [[b/_boat|boat]], [[e/_etc|etc]]).**
@@ -24,7 +24,7 @@
 ### Synonyms
 - [[d/_dwell|dwell]], [[l/_last|last]], [[r/_remain|remain]]
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[d/_duration|duration]] of [[l/_life|life]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specified|specified]] [[d/_duration|duration]] of [[l/_life|life]].**
 	- _Example: a short-lived recycling scheme_
 ---
 ---

@@ -15,7 +15,7 @@
 	- _Example: The rock will skip across the pond._
 - **To throw ([[s/_something|something]]), [[m/_making|making]] it [[s/_skim|skim]], [[r/_ricochet|ricochet]], or [[b/_bounce|bounce]] [[o/_over|over]] a surface.**
 	- _Example: I bet I can skip this rock to the other side of the pond._
-- **To [[d/_disregard|disregard]], [[m/_miss|miss]] or [[o/_omit|omit]] [[p/_part|part]] of a [[c/_continuation|continuation]] ([[s/_some|some]] [[i/_item|item]] or stage).**
+- **To [[d/_disregard|disregard]], [[m/_miss|miss]] or [[o/_omit|omit]] [[p/_part|part]] of a [[c/_continuation|continuation]] ([[s/_some|some]] [[i/_item|item]] or [[s/_stage|stage]]).**
 	- _Example: I will read most of the book, but skip the first chapter because the video covered it._
 - **To [[p/_place|place]] an [[i/_item|item]] in a [[s/_skip|skip]].**
 - **Not to [[a/_attend|attend]] ([[s/_some|some]] [[e/_event|event]], [[e/_especially|especially]] a [[c/_class|class]] or a [[m/_meeting|meeting]]).**
@@ -26,7 +26,7 @@
 	- _Example: to skip the rope_
 - **To [[j/_jump|jump]] [[r/_rope|rope]].**
 	- _Example: The girls were skipping in the playground._
-- **([[c/_crocheting|crocheting]]) To [[p/_pass|pass]] by a stitch as [[i/_if|if]] it were not there, [[c/_continuing|continuing]] with the [[n/_next|next]] stitch.**
+- **([[c/_crocheting|crocheting]]) To [[p/_pass|pass]] by a [[s/_stitch|stitch]] as [[i/_if|if]] it were not there, [[c/_continuing|continuing]] with the [[n/_next|next]] [[s/_stitch|stitch]].**
 ---
 ### Synonyms
 - 
@@ -42,7 +42,7 @@
 - [[d/_dumpster|dumpster]]
 #noun
 - **[[s/_short|Short]] for [[s/_skipper|skipper]], the [[m/_master|master]] or [[c/_captain|captain]] of a [[s/_ship|ship]], or [[o/_other|other]] [[p/_person|person]] in [[a/_authority|authority]].**
-- **(specially) The [[c/_captain|captain]] of a sports team. [[a/_also|Also]], a [[f/_form|form]] of [[a/_address|address]] by the team to the [[c/_captain|captain]].**
+- **([[s/_specially|specially]]) The [[c/_captain|captain]] of a [[s/_sports|sports]] team. [[a/_also|Also]], a [[f/_form|form]] of [[a/_address|address]] by the team to the [[c/_captain|captain]].**
 - **The [[p/_player|player]] who [[c/_calls|calls]] the [[s/_shots|shots]] and traditionally throws the [[l/_last|last]] two [[r/_rocks|rocks]].**
 - **([[b/_bowls|bowls]]) The [[c/_captain|captain]] of a [[b/_bowls|bowls]] team, who [[d/_directs|directs]] the team'[[s/_s|s]] tactics and [[r/_rolls|rolls]] the [[s/_side|side]]'[[s/_s|s]] [[l/_last|last]] wood, [[s/_so|so]] as to be [[a/_able|able]] to [[r/_retrieve|retrieve]] a [[d/_difficult|difficult]] [[s/_situation|situation]] [[i/_if|if]] [[n/_necessary|necessary]].**
 - **The [[s/_scoutmaster|scoutmaster]] of a troop of [[s/_scouts|scouts]] ([[y/_youth|youth]] [[o/_organization|organization]]) and their [[f/_form|form]] of [[a/_address|address]] to [[h/_him|him]].**

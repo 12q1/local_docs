@@ -1,7 +1,7 @@
 # Punchy
 ---
 #adjective
-- **[[h/_having|Having]] a [[p/_punch|punch]]; [[e/_effective|effective]]; [[f/_forceful|forceful]]; spirited; vigorous.**
+- **[[h/_having|Having]] a [[p/_punch|punch]]; [[e/_effective|effective]]; [[f/_forceful|forceful]]; [[s/_spirited|spirited]]; vigorous.**
 - **[[b/_behaving|Behaving]] or [[a/_appearing|appearing]] [[p/_punch|punch]] [[d/_drunk|drunk]].**
 - **(of a [[p/_person|person]]) [[b/_being|Being]] [[o/_over|over]]-[[r/_reactive|reactive]] to [[r/_routine|routine]] [[e/_events|events]].**
 	- _Example: I was so sleep deprived I was starting to get punchy._

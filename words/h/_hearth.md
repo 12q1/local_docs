@@ -1,7 +1,7 @@
 # Hearth
 ---
 #noun
-- **A [[b/_brick|brick]], stone or [[c/_cement|cement]] [[f/_floor|floor]] to a [[f/_fireplace|fireplace]] or [[o/_oven|oven]].**
+- **A [[b/_brick|brick]], [[s/_stone|stone]] or [[c/_cement|cement]] [[f/_floor|floor]] to a [[f/_fireplace|fireplace]] or [[o/_oven|oven]].**
 - **An [[o/_open|open]] [[r/_recess|recess]] in a wall at the [[b/_base|base]] of a [[c/_chimney|chimney]] where a [[f/_fire|fire]] [[m/_may|may]] be [[b/_built|built]].**
 - **The [[l/_lowest|lowest]] [[p/_part|part]] of a [[m/_metallurgical|metallurgical]] [[f/_furnace|furnace]].**
 - **A [[b/_brazier|brazier]], [[c/_chafing|chafing]] [[d/_dish|dish]], or [[f/_firebox|firebox]].**

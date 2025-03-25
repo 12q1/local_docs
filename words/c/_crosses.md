@@ -1,7 +1,7 @@
 # Crosses
 ---
 #noun
-- **A [[g/_geometrical|geometrical]] [[f/_figure|figure]] [[c/_consisting|consisting]] of two straight [[l/_lines|lines]] or [[b/_bars|bars]] [[i/_intersecting|intersecting]] [[e/_each|each]] [[o/_other|other]] such that at [[l/_least|least]] [[o/_one|one]] of them is [[b/_bisected|bisected]] by the [[o/_other|other]].**
+- **A [[g/_geometrical|geometrical]] [[f/_figure|figure]] [[c/_consisting|consisting]] of two [[s/_straight|straight]] [[l/_lines|lines]] or [[b/_bars|bars]] [[i/_intersecting|intersecting]] [[e/_each|each]] [[o/_other|other]] such that at [[l/_least|least]] [[o/_one|one]] of them is [[b/_bisected|bisected]] by the [[o/_other|other]].**
 	- _Example: Put a cross for a wrong answer and a tick for a right one._
 - **[[a/_any|Any]] [[g/_geometric|geometric]] [[f/_figure|figure]] [[h/_having|having]] this or a [[s/_similar|similar]] [[s/_shape|shape]], such as a [[c/_cross|cross]] of [[l/_lorraine|Lorraine]] or a [[m/_maltese|Maltese]] [[c/_cross|cross]].**
 - **A wooden [[p/_post|post]] with a [[p/_perpendicular|perpendicular]] [[b/_beam|beam]] [[a/_attached|attached]] and used ([[e/_especially|especially]] in the [[r/_roman|Roman]] [[e/_empire|Empire]]) to [[e/_execute|execute]] [[c/_criminals|criminals]] (by [[c/_crucifixion|crucifixion]]).**
@@ -9,7 +9,7 @@
 - **(usually with the) The [[c/_cross|cross]] on which [[c/_christ|Christ]] was [[c/_crucified|crucified]].**
 - **A [[h/_hand|hand]] [[g/_gesture|gesture]] [[m/_made|made]] in [[i/_imitation|imitation]] of the [[s/_shape|shape]] of the [[c/_cross|Cross]].**
 	- _Example: She made the cross after swearing._
-- **A [[m/_modified|modified]] [[r/_representation|representation]] of the [[c/_crucifixion|crucifixion]] stake, worn as [[j/_jewellery|jewellery]] or [[d/_displayed|displayed]] as a [[s/_symbol|symbol]] of [[r/_religious|religious]] [[d/_devotion|devotion]].**
+- **A [[m/_modified|modified]] [[r/_representation|representation]] of the [[c/_crucifixion|crucifixion]] [[s/_stake|stake]], worn as [[j/_jewellery|jewellery]] or [[d/_displayed|displayed]] as a [[s/_symbol|symbol]] of [[r/_religious|religious]] [[d/_devotion|devotion]].**
 	- _Example: She was wearing a cross on her necklace._
 - **([[f/_figurative|figurative]], from [[c/_christ|Christ]]'[[s/_s|s]] [[b/_bearing|bearing]] of the [[c/_cross|cross]]) A [[d/_difficult|difficult]] [[s/_situation|situation]] that [[m/_must|must]] be [[e/_endured|endured]].**
 	- _Example: It's a cross I must bear._
@@ -21,7 +21,7 @@
 - **A [[p/_pass|pass]] in which the [[b/_ball|ball]] travels from by [[o/_one|one]] touchline [[a/_across|across]] the [[p/_pitch|pitch]].**
 - **A [[p/_place|place]] where [[r/_roads|roads]] [[i/_intersect|intersect]] and [[l/_lead|lead]] [[o/_off|off]] in [[f/_four|four]] [[d/_directions|directions]]; a [[c/_crossroad|crossroad]] ([[c/_common|common]] in UK and [[i/_irish|Irish]] [[p/_place|place]] [[n/_names|names]] such as Gerrards [[c/_cross|Cross]]).**
 - **A [[m/_monument|monument]] that [[m/_marks|marks]] such a [[p/_place|place]]. ([[a/_also|Also]] [[c/_common|common]] in UK or [[i/_irish|Irish]] [[p/_place|place]] [[n/_names|names]] such as [[c/_charing|Charing]] [[c/_cross|Cross]])**
-- **A [[c/_coin|coin]] stamped with the [[f/_figure|figure]] of a [[c/_cross|cross]], or that [[s/_side|side]] of such a [[p/_piece|piece]] on which the [[c/_cross|cross]] is stamped; [[h/_hence|hence]], [[m/_money|money]] in [[g/_general|general]].**
+- **A [[c/_coin|coin]] [[s/_stamped|stamped]] with the [[f/_figure|figure]] of a [[c/_cross|cross]], or that [[s/_side|side]] of such a [[p/_piece|piece]] on which the [[c/_cross|cross]] is [[s/_stamped|stamped]]; [[h/_hence|hence]], [[m/_money|money]] in [[g/_general|general]].**
 - **[[c/_church|Church]] [[l/_lands|lands]].**
 - **A [[l/_line|line]] [[d/_drawn|drawn]] [[a/_across|across]] or through [[a/_another|another]] [[l/_line|line]].**
 - **An [[i/_instrument|instrument]] for [[l/_laying|laying]] of [[o/_offsets|offsets]] [[p/_perpendicular|perpendicular]] to the [[m/_main|main]] [[c/_course|course]].**
@@ -38,11 +38,11 @@
 - **([[s/_social|social]]) To [[o/_oppose|oppose]].**
 - **To [[c/_cross|cross]]-[[f/_fertilize|fertilize]] or [[c/_crossbreed|crossbreed]].**
 	- _Example: They managed to cross a sheep with a goat._
-- **To stamp or [[m/_mark|mark]] (a [[c/_cheque|cheque]]) in such a way as to [[p/_prevent|prevent]] it [[b/_being|being]] [[c/_cashed|cashed]], thus [[r/_requiring|requiring]] it to be [[d/_deposited|deposited]] [[i/_into|into]] a [[b/_bank|bank]] [[a/_account|account]].**
+- **To [[s/_stamp|stamp]] or [[m/_mark|mark]] (a [[c/_cheque|cheque]]) in such a way as to [[p/_prevent|prevent]] it [[b/_being|being]] [[c/_cashed|cashed]], thus [[r/_requiring|requiring]] it to be [[d/_deposited|deposited]] [[i/_into|into]] a [[b/_bank|bank]] [[a/_account|account]].**
 ---
 ### Synonyms
 - [[c/_cross-fertilize|cross-fertilize]], [[c/_crossbreed|crossbreed]]
 #noun
-- **A [[l/_lacrosse|lacrosse]] stick.**
+- **A [[l/_lacrosse|lacrosse]] [[s/_stick|stick]].**
 ---
 ---

@@ -3,11 +3,11 @@
 #noun
 - **A [[l/_layer|layer]] of [[m/_material|material]].**
 	- _Example: two-ply toilet paper_
-- **A strand that, twisted together with [[o/_other|other]] strands, [[m/_makes|makes]] up [[r/_rope|rope]] or [[y/_yarn|yarn]].**
+- **A [[s/_strand|strand]] that, twisted together with [[o/_other|other]] [[s/_strands|strands]], [[m/_makes|makes]] up [[r/_rope|rope]] or [[y/_yarn|yarn]].**
 - **[[s/_short|Short]] for [[p/_plywood|plywood]].**
 - **In two-[[p/_player|player]] [[s/_sequential|sequential]] [[g/_games|games]], a "[[h/_half|half]]-turn" or a [[m/_move|move]] [[m/_made|made]] by [[o/_one|one]] of the [[p/_players|players]].**
 	- _Example: He proposed to build Deep Purple, a super-computer capable of 24-ply look-ahead for chess._
-- **A [[c/_condition|condition]], a state.**
+- **A [[c/_condition|condition]], a [[s/_state|state]].**
 ---
 #verb
 - **To [[b/_bend|bend]]; to [[f/_fold|fold]]; to [[m/_mould|mould]]; to [[a/_adapt|adapt]], to [[m/_modify|modify]]; to [[c/_change|change]] (a [[p/_person|person]]'[[s/_s|s]]) [[m/_mind|mind]], to [[c/_cause|cause]] (a [[p/_person|person]]) to submit.**
@@ -16,7 +16,7 @@
 #verb
 - **To work at ([[s/_something|something]]) [[d/_diligently|diligently]].**
 	- _Example: He plied his trade as carpenter for forty-three years._
-- **To wield or use (a tool, a weapon, [[e/_etc|etc]].) steadily or vigorously.**
+- **To wield or use (a tool, a weapon, [[e/_etc|etc]].) [[s/_steadily|steadily]] or vigorously.**
 	- _Example: He plied his ax with bloody results._
 - **To [[p/_press|press]] upon; to urge [[p/_persistently|persistently]].**
 	- _Example: to ply someone with questions or solicitations_

@@ -8,7 +8,7 @@
 - **To [[c/_clear|clear]], [[r/_release|release]] from [[d/_debt|debt]] or [[b/_blame|blame]]**
 - **To [[e/_expiate|expiate]], [[a/_atone|atone]] (for)**
 - **To [[c/_convert|convert]] ([[s/_some|some]] [[b/_bond|bond]] or [[s/_security|security]]) [[i/_into|into]] [[c/_cash|cash]]**
-- **To [[s/_save|save]] from a state of [[s/_sin|sin]] (and from [[i/_its|its]] [[c/_consequences|consequences]]).**
+- **To [[s/_save|save]] from a [[s/_state|state]] of [[s/_sin|sin]] (and from [[i/_its|its]] [[c/_consequences|consequences]]).**
 - **To [[r/_repair|repair]], [[r/_restore|restore]]**
 - **To [[r/_reform|reform]], [[c/_change|change]] (for the [[b/_better|better]])**
 - **To [[r/_restore|restore]] the [[h/_honour|honour]], worth, or [[r/_reputation|reputation]] of [[o/_oneself|oneself]] or [[s/_something|something]].**
@@ -20,7 +20,7 @@
 - [[a/_abandon|abandon]]
 #adjective
 - **(of a [[p/_person|person]]) [[g/_granted|Granted]] [[r/_redemption|redemption]] or [[s/_salvation|salvation]].**
-- **(of a [[c/_coupon|coupon]] or [[o/_offer|offer]]) Spent; used in a [[p/_purchase|purchase]], and thus [[n/_no|no]] [[l/_longer|longer]] usable.**
+- **(of a [[c/_coupon|coupon]] or [[o/_offer|offer]]) [[s/_spent|Spent]]; used in a [[p/_purchase|purchase]], and thus [[n/_no|no]] [[l/_longer|longer]] usable.**
 ---
 ### Antonyms
 - [[u/_unredeemed|unredeemed]]

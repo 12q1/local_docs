@@ -1,7 +1,7 @@
 # Lightweights
 ---
 #noun
-- **A [[p/_particular|particular]] weight [[c/_class|class]], or [[m/_member|member]] of such, as [[p/_prescribed|prescribed]] by the [[r/_rules|rules]], [[b/_between|between]] that of the [[h/_heavier|heavier]] welterweight and the [[l/_lighter|lighter]] [[f/_featherweight|featherweight]]. [[s/_see|See]] Wikipedia for the specifics of [[e/_each|each]] sport.**
+- **A [[p/_particular|particular]] weight [[c/_class|class]], or [[m/_member|member]] of such, as [[p/_prescribed|prescribed]] by the [[r/_rules|rules]], [[b/_between|between]] that of the [[h/_heavier|heavier]] welterweight and the [[l/_lighter|lighter]] [[f/_featherweight|featherweight]]. [[s/_see|See]] Wikipedia for the [[s/_specifics|specifics]] of [[e/_each|each]] [[s/_sport|sport]].**
 - **A [[p/_particular|particular]] weight [[c/_category|category]] as [[p/_prescribed|prescribed]] by the [[r/_rules|rules]], [[s/_separate|separate]] from an [[o/_open|open]] or [[h/_heavyweight|heavyweight]] [[c/_class|class]].**
 - **A [[c/_competitive|competitive]] weight [[d/_division|division]] as [[p/_prescribed|prescribed]] by the [[r/_rules|rules]], [[b/_between|between]] the [[h/_heavier|heavier]] [[m/_middleweight|middleweight]] and the [[l/_lighter|lighter]] [[f/_featherweight|featherweight]].**
 - **[[o/_one|One]] of [[l/_little|little]] [[c/_consequence|consequence]] or [[a/_ability|ability]].**

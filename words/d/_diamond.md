@@ -16,7 +16,7 @@
 	- _Example: The teams met on the diamond._
 - **A [[c/_card|card]] of the [[d/_diamonds|diamonds]] suit.**
 	- _Example: I have only one diamond in my hand._
-- **A [[s/_size|size]] of type, standardised as 4 1/2 [[p/_point|point]].**
+- **A [[s/_size|size]] of type, [[s/_standardised|standardised]] as 4 1/2 [[p/_point|point]].**
 ---
 ### Synonyms
 - [[i/_infield|infield]], [[s/_sparkler|sparkler]], [[2/_2-iamond|2-iamond]], [[l/_lozenge|lozenge]], [[r/_rhomb|rhomb]], [[r/_rhombus|rhombus]], [[a/_adamant|adamant]]

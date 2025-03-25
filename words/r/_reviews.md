@@ -7,7 +7,7 @@
 	- _Example: The newspaper review was full of praise for the play._
 - **A [[j/_judicial|judicial]] [[r/_reassessment|reassessment]] of a [[c/_case|case]] or an [[e/_event|event]].**
 	- _Example: The victims demanded a full judicial review of the case._
-- **A stage [[s/_show|show]] [[m/_made|made]] up of topical [[s/_sketches|sketches]] [[e/_etc|etc]].**
+- **A [[s/_stage|stage]] [[s/_show|show]] [[m/_made|made]] up of topical [[s/_sketches|sketches]] [[e/_etc|etc]].**
 	- _Example: The Cambridge Footlights Review launched many Monty Python faces._
 - **A survey of the [[a/_available|available]] [[i/_items|items]] or [[m/_material|material]].**
 	- _Example: The magazine contained a review of Paris restaurants._

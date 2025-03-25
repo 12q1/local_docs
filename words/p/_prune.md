@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_plum|plum]].**
-- **The [[d/_dried|dried]], wrinkled [[f/_fruit|fruit]] of [[c/_certain|certain]] species of [[p/_plum|plum]].**
+- **The [[d/_dried|dried]], wrinkled [[f/_fruit|fruit]] of [[c/_certain|certain]] [[s/_species|species]] of [[p/_plum|plum]].**
 - **An [[o/_old|old]] woman, [[e/_especially|especially]] a wrinkly [[o/_one|one]].**
 ---
 #verb

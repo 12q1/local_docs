@@ -6,7 +6,7 @@
 - **The [[r/_result|result]] of a tally that [[r/_reveals|reveals]] the [[n/_number|number]] of [[i/_items|items]] in a [[s/_set|set]]; a [[q/_quantity|quantity]] [[c/_counted|counted]].**
 - **A [[c/_countdown|countdown]].**
 - **A [[c/_charge|charge]] of [[m/_misconduct|misconduct]] [[b/_brought|brought]] in a [[l/_legal|legal]] [[p/_proceeding|proceeding]].**
-- **The [[n/_number|number]] of [[b/_balls|balls]] and strikes, [[r/_respectively|respectively]], on a [[b/_batter|batter]]'[[s/_s|s]] in-[[p/_progress|progress]] [[p/_plate|plate]] [[a/_appearance|appearance]].**
+- **The [[n/_number|number]] of [[b/_balls|balls]] and [[s/_strikes|strikes]], [[r/_respectively|respectively]], on a [[b/_batter|batter]]'[[s/_s|s]] in-[[p/_progress|progress]] [[p/_plate|plate]] [[a/_appearance|appearance]].**
 	- _Example: He has a 3–2 count with the bases loaded._
 - **An [[o/_object|object]] of [[i/_interest|interest]] or [[a/_account|account]]; value; [[e/_estimation|estimation]].**
 ---

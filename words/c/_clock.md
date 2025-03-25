@@ -8,13 +8,13 @@
 - **The [[s/_seed|seed]] [[h/_head|head]] of a [[d/_dandelion|dandelion]].**
 - **A time [[c/_clock|clock]].**
 	- _Example: I can't go off to lunch yet: I'm still on the clock._
-- **A [[c/_cpu|CPU]] [[c/_clock|clock]] [[c/_cycle|cycle]], or T-state.**
+- **A [[c/_cpu|CPU]] [[c/_clock|clock]] [[c/_cycle|cycle]], or T-[[s/_state|state]].**
 ---
 ### Synonyms
 - [[t/_timepiece|timepiece]], [[o/_odometer|odometer]]
 #verb
 - **To [[m/_measure|measure]] the [[d/_duration|duration]] of.**
-- **To [[m/_measure|measure]] the speed of.**
+- **To [[m/_measure|measure]] the [[s/_speed|speed]] of.**
 	- _Example: He was clocked at 155 miles per hour._
 - **To [[h/_hit|hit]] ([[s/_someone|someone]]) [[h/_heavily|heavily]].**
 	- _Example: When the boxer let down his guard, his opponent clocked him._

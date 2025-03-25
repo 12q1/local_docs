@@ -10,7 +10,7 @@
 	- _Example: We built a small atomic bomb in the garage._
 - **[[i/_infinitesimally|Infinitesimally]] [[s/_small|small]].**
 	- _Example: The hairs on a bedbug are almost atomic._
-- **Unable to be split or [[m/_made|made]] [[a/_any|any]] [[s/_smaller|smaller]].**
+- **Unable to be [[s/_split|split]] or [[m/_made|made]] [[a/_any|any]] [[s/_smaller|smaller]].**
 	- _Example: A bit is an atomic item of data._
 - **Of an [[o/_operation|operation]]: [[g/_guaranteed|guaranteed]] to [[c/_complete|complete]] [[e/_either|either]] [[f/_fully|fully]] or not at [[a/_all|all]] while waiting in a [[p/_pause|pause]], and [[r/_running|running]] [[s/_synchronously|synchronously]] when [[c/_called|called]] by [[m/_multiple|multiple]] [[a/_asynchronous|asynchronous]] threads.**
 	- _Example: In order to avoid race conditions, this operation has to be atomic._

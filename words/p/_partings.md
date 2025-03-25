@@ -1,7 +1,7 @@
 # Partings
 ---
 #noun
-- **The [[a/_act|act]] of [[p/_parting|parting]] or [[d/_dividing|dividing]]; the state of [[b/_being|being]] [[p/_parted|parted]]; [[d/_division|division]]; [[s/_separation|separation]].**
+- **The [[a/_act|act]] of [[p/_parting|parting]] or [[d/_dividing|dividing]]; the [[s/_state|state]] of [[b/_being|being]] [[p/_parted|parted]]; [[d/_division|division]]; [[s/_separation|separation]].**
 - **A [[f/_farewell|farewell]], the [[a/_act|act]] of [[d/_departing|departing]] [[p/_politely|politely]].**
 - **The [[d/_dividing|dividing]] [[l/_line|line]] [[f/_formed|formed]] by [[c/_combing|combing]] the [[h/_hair|hair]] in [[d/_different|different]] [[d/_directions|directions]]; [[p/_part|part]] (US)**
 - **([[f/_founding|founding]]) The surface of the [[s/_sand|sand]] of [[o/_one|one]] [[s/_section|section]] of a [[m/_mould|mould]] where it [[m/_meets|meets]] that of [[a/_another|another]] [[s/_section|section]].**

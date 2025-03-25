@@ -1,7 +1,7 @@
 # Racketed
 ---
 #verb
-- **To strike with, or as [[i/_if|if]] with, a [[r/_racket|racket]].**
+- **To [[s/_strike|strike]] with, or as [[i/_if|if]] with, a [[r/_racket|racket]].**
 ---
 #verb
 - **To [[m/_make|make]] a [[c/_clattering|clattering]] [[n/_noise|noise]].**

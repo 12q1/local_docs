@@ -1,7 +1,7 @@
 # Confluences
 ---
 #noun
-- **The [[p/_place|place]] where two [[r/_rivers|rivers]], streams, or [[o/_other|other]] [[c/_continuously|continuously]] [[f/_flowing|flowing]] [[b/_bodies|bodies]] of water [[m/_meet|meet]] and [[b/_become|become]] [[o/_one|one]], [[e/_especially|especially]] where a tributary [[j/_joins|joins]] a [[r/_river|river]].**
+- **The [[p/_place|place]] where two [[r/_rivers|rivers]], [[s/_streams|streams]], or [[o/_other|other]] [[c/_continuously|continuously]] [[f/_flowing|flowing]] [[b/_bodies|bodies]] of water [[m/_meet|meet]] and [[b/_become|become]] [[o/_one|one]], [[e/_especially|especially]] where a tributary [[j/_joins|joins]] a [[r/_river|river]].**
 	- _Example: We encountered an abandoned boat at the confluence of the Mississippi and Ohio Rivers._
 - **The [[a/_act|act]] of [[c/_combining|combining]] which [[o/_occurs|occurs]] at the [[p/_place|place]] where [[r/_rivers|rivers]] and the [[l/_lake|lake]] [[m/_meet|meet]].**
 	- _Example: The confluence of the rivers produced a great rush of water._

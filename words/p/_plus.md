@@ -18,7 +18,7 @@
 - **([[s/_sales|sales]]) To [[s/_sell|sell]] [[a/_additional|additional]] [[r/_related|related]] [[i/_items|items]] with an [[o/_original|original]] [[p/_purchase|purchase]].**
 - **To [[f/_frame|frame]] in a [[p/_positive|positive]] [[l/_light|light]]; to [[p/_provide|provide]] a [[s/_sympathetic|sympathetic]] [[i/_interpretation|interpretation]].**
 - **([[s/_social|social]] [[m/_media|media]]) To [[g/_give|give]] a [[m/_mark|mark]] of [[a/_approval|approval]] on Google+.**
-- **To [[i/_increase|increase]] the [[p/_potency|potency]] of a [[r/_remedy|remedy]] by [[d/_diluting|diluting]] it in water and stirring.**
+- **To [[i/_increase|increase]] the [[p/_potency|potency]] of a [[r/_remedy|remedy]] by [[d/_diluting|diluting]] it in water and [[s/_stirring|stirring]].**
 - **([[o/_optometry|optometry]]) To [[i/_increase|increase]] a [[c/_correction|correction]].**
 ---
 #adjective

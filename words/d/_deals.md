@@ -13,7 +13,7 @@
 	- _Example: I believe it's your deal._
 - **A [[p/_particular|particular]] [[i/_instance|instance]] of [[b/_buying|buying]] or [[s/_selling|selling]]; a transaction**
 	- _Example: We need to finalise the deal with Henderson by midnight._
-- **Specifically, a transaction [[o/_offered|offered]] which is [[f/_financially|financially]] [[b/_beneficial|beneficial]]; a [[b/_bargain|bargain]].**
+- **[[s/_specifically|Specifically]], a transaction [[o/_offered|offered]] which is [[f/_financially|financially]] [[b/_beneficial|beneficial]]; a [[b/_bargain|bargain]].**
 - **An [[a/_agreement|agreement]] [[b/_between|between]] [[p/_parties|parties]]; an [[a/_arrangement|arrangement]]**
 	- _Example: He made a deal with the devil._
 - **A [[s/_situation|situation]], [[o/_occasion|occasion]], or [[e/_event|event]].**

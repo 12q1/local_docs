@@ -8,6 +8,6 @@
 ---
 #verb
 - **(of [[b/_birds|birds]] or [[b/_bats|bats]]) To [[s/_settle|settle]] on a [[p/_perch|perch]] in [[o/_order|order]] to [[s/_sleep|sleep]] or [[r/_rest|rest]]**
-- **To spend the [[n/_night|night]]**
+- **To [[s/_spend|spend]] the [[n/_night|night]]**
 ---
 ---

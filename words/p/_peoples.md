@@ -8,12 +8,12 @@
 - **[[o/_one|One]]'[[s/_s|s]] [[c/_colleagues|colleagues]] or [[e/_employees|employees]].**
 - **A [[p/_person|person]]'[[s/_s|s]] [[a/_ancestors|ancestors]], [[r/_relatives|relatives]] or [[f/_family|family]].**
 	- _Example: My people lived through the Black Plague and the Thirty Years War._
-- **The [[m/_mass|mass]] of a [[c/_community|community]] as [[d/_distinguished|distinguished]] from a special [[c/_class|class]] ([[e/_elite|elite]]); the [[c/_commonalty|commonalty]]; the [[p/_populace|populace]]; the vulgar; the [[c/_common|common]] [[c/_crowd|crowd]]; the [[c/_citizens|citizens]].**
+- **The [[m/_mass|mass]] of a [[c/_community|community]] as [[d/_distinguished|distinguished]] from a [[s/_special|special]] [[c/_class|class]] ([[e/_elite|elite]]); the [[c/_commonalty|commonalty]]; the [[p/_populace|populace]]; the vulgar; the [[c/_common|common]] [[c/_crowd|crowd]]; the [[c/_citizens|citizens]].**
 ---
 ### Synonyms
 - [[c/_citizenry|citizenry]], [[c/_commoners|commoners]], [[p/_populace|populace]], [[c/_collective|collective]], [[c/_community|community]], [[c/_congregation|congregation]], [[f/_folk|folk]], [[f/_fans|fans]], [[g/_groupies|groupies]], [[s/_supporters|supporters]], [[f/_folks|folks]], [[k/_kin|kin]], [[k/_kith|kith]], [[l/_lede|lede]], [[l/_leod|leod]], [[p/_peeps|peeps]]
 #verb
-- **To stock with [[p/_people|people]] or [[i/_inhabitants|inhabitants]]; to [[f/_fill|fill]] as with [[p/_people|people]]; to [[p/_populate|populate]].**
+- **To [[s/_stock|stock]] with [[p/_people|people]] or [[i/_inhabitants|inhabitants]]; to [[f/_fill|fill]] as with [[p/_people|people]]; to [[p/_populate|populate]].**
 - **To [[b/_become|become]] [[p/_populous|populous]] or [[p/_populated|populated]].**
 - **To [[i/_inhabit|inhabit]]; to [[o/_occupy|occupy]]; to [[p/_populate|populate]].**
 - **To [[i/_interact|interact]] with [[p/_people|people]]; to [[s/_socialize|socialize]].**

@@ -9,7 +9,7 @@
 	- _Example: I got two red queens, and he got one of the black queens._
 - **([[o/_often|often]] [[c/_capitalized|capitalized]]) Supportive of, [[r/_related|related]] to, or [[d/_dominated|dominated]] by a [[p/_political|political]] [[p/_party|party]] or [[m/_movement|movement]] [[r/_represented|represented]] by the [[c/_color|color]] [[r/_red|red]]:**
 - **[[a/_amerind|Amerind]]; [[r/_relating|relating]] to [[a/_amerindians|Amerindians]] or [[f/_first|First]] [[n/_nations|Nations]]**
-- **Of the [[l/_lower|lower]]-[[f/_frequency|frequency]] [[r/_region|region]] of the (typically visible) [[p/_part|part]] of the [[e/_electromagnetic|electromagnetic]] spectrum which is [[r/_relevant|relevant]] in the specific [[o/_observation|observation]].**
+- **Of the [[l/_lower|lower]]-[[f/_frequency|frequency]] [[r/_region|region]] of the (typically visible) [[p/_part|part]] of the [[e/_electromagnetic|electromagnetic]] [[s/_spectrum|spectrum]] which is [[r/_relevant|relevant]] in the [[s/_specific|specific]] [[o/_observation|observation]].**
 - **[[h/_having|Having]] a [[c/_color|color]] [[c/_charge|charge]] of [[r/_red|red]].**
 ---
 ### Synonyms

@@ -6,6 +6,6 @@
 - **(of a [[p/_person|person]]) [[h/_having|Having]] [[b/_blond|blond]] [[h/_hair|hair]].**
 ---
 #adjective
-- **([[e/_especially|especially]] of a woman) Stupid, [[i/_ignorant|ignorant]], [[n/_naive|naive]].**
+- **([[e/_especially|especially]] of a woman) [[s/_stupid|Stupid]], [[i/_ignorant|ignorant]], [[n/_naive|naive]].**
 ---
 ---

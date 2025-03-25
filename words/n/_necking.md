@@ -1,7 +1,7 @@
 # Necking
 ---
 #verb
-- **To [[h/_hang|hang]] by the [[n/_neck|neck]]; strangle; [[k/_kill|kill]], [[e/_eliminate|eliminate]]**
+- **To [[h/_hang|hang]] by the [[n/_neck|neck]]; [[s/_strangle|strangle]]; [[k/_kill|kill]], [[e/_eliminate|eliminate]]**
 	- _Example: Go neck yourself._
 - **To [[m/_make|make]] [[l/_love|love]]; to [[i/_intently|intently]] [[k/_kiss|kiss]] or [[c/_cuddle|cuddle]]; to [[c/_canoodle|canoodle]].**
 	- _Example: Alan and Betty were necking in the back of a car when Betty's dad caught them._

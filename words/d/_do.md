@@ -7,7 +7,7 @@
 	- _Example: Nice do!_
 - **[[s/_something|Something]] that [[c/_can|can]] or [[s/_should|should]] be [[d/_done|done]] (usually in the [[p/_phrase|phrase]] [[d/_dos|dos]] and [[d/_don|don]]'ts).**
 - **A [[d/_deed|deed]]; an [[a/_act|act]].**
-- **[[a/_ado|Ado]]; [[b/_bustle|bustle]]; stir; to-[[d/_do|do]]; A [[p/_period|period]] of [[c/_confusion|confusion]] or [[a/_argument|argument]].**
+- **[[a/_ado|Ado]]; [[b/_bustle|bustle]]; [[s/_stir|stir]]; to-[[d/_do|do]]; A [[p/_period|period]] of [[c/_confusion|confusion]] or [[a/_argument|argument]].**
 - **A [[c/_cheat|cheat]]; a swindler.**
 - **An [[a/_act|act]] of swindling; a [[f/_fraud|fraud]] or [[d/_deception|deception]].**
 ---
@@ -37,7 +37,7 @@
 - **To treat in a [[c/_certain|certain]] way.**
 - **To work for or on, by way of [[c/_caring|caring]] for, [[l/_looking|looking]] [[a/_after|after]], [[p/_preparing|preparing]], [[c/_cleaning|cleaning]], [[k/_keeping|keeping]] in [[o/_order|order]], [[e/_etc|etc]].**
 - **To [[a/_act|act]] or [[b/_behave|behave]] in a [[c/_certain|certain]] [[m/_manner|manner]]; to [[c/_conduct|conduct]] [[o/_oneself|oneself]].**
-- **To spend (time) in [[j/_jail|jail]]. ([[s/_see|See]] [[a/_also|also]] [[d/_do|do]] time)**
+- **To [[s/_spend|spend]] (time) in [[j/_jail|jail]]. ([[s/_see|See]] [[a/_also|also]] [[d/_do|do]] time)**
 	- _Example: I did five years for armed robbery._
 - **To [[i/_impersonate|impersonate]] or [[d/_depict|depict]].**
 	- _Example: They really laughed when he did Clinton, with a perfect accent and a leer._

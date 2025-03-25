@@ -1,6 +1,6 @@
 # Orthognathous
 ---
 #adjective
-- **Straight-[[j/_jawed|jawed]]**
+- **[[s/_straight|Straight]]-[[j/_jawed|jawed]]**
 ---
 ---

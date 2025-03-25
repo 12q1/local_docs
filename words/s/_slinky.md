@@ -1,10 +1,10 @@
 # Slinky
 ---
 #noun
-- **A three-[[d/_dimensional|dimensional]] [[c/_curve|curve]] — a spiral wound [[a/_around|around]] a [[h/_helix|helix]].**
+- **A three-[[d/_dimensional|dimensional]] [[c/_curve|curve]] — a [[s/_spiral|spiral]] wound [[a/_around|around]] a [[h/_helix|helix]].**
 ---
 #adjective
-- **[[f/_furtive|Furtive]], stealthy or [[c/_catlike|catlike]].**
+- **[[f/_furtive|Furtive]], [[s/_stealthy|stealthy]] or [[c/_catlike|catlike]].**
 - **Thin; [[l/_lank|lank]]; [[l/_lean|lean]].**
 - **Of a [[g/_garment|garment]]: [[c/_close|close]]-[[f/_fitting|fitting]]; [[c/_clingy|clingy]].**
 ---

@@ -14,7 +14,7 @@
 - **Of a [[b/_bowling|bowling]] or [[f/_fielding|fielding]] tactic [[d/_designed|designed]] to [[p/_prevent|prevent]] the [[o/_other|other]] [[s/_side|side]] from [[s/_scoring|scoring]] [[r/_runs|runs]]; of a [[b/_batting|batting]] tactic [[d/_designed|designed]] to [[p/_prevent|prevent]] [[b/_being|being]] [[o/_out|out]].**
 - **[[p/_pertaining|Pertaining]] to [[d/_defense|defense]], as [[o/_opposed|opposed]] to [[a/_attack|attack]].**
 	- _Example: The victim held up his hand to repel the attacker and received a defensive knife wound._
-- **In a state or [[p/_posture|posture]] of [[d/_defense|defense]].**
+- **In a [[s/_state|state]] or [[p/_posture|posture]] of [[d/_defense|defense]].**
 ---
 ### Antonyms
 - [[o/_offensive|offensive]]

@@ -21,17 +21,17 @@
 	- _Example: a man of mean parentage / a mean abode_
 - **[[l/_low|Low]] in [[q/_quality|quality]] or [[d/_degree|degree]]; [[i/_inferior|inferior]]; [[p/_poor|poor]]; [[s/_shabby|shabby]].**
 	- _Example: a mean appearance / mean dress_
-- **Without [[d/_dignity|dignity]] of [[m/_mind|mind]]; [[d/_destitute|destitute]] of [[h/_honour|honour]]; [[l/_low|low]]-[[m/_minded|minded]]; spiritless; [[b/_base|base]].**
+- **Without [[d/_dignity|dignity]] of [[m/_mind|mind]]; [[d/_destitute|destitute]] of [[h/_honour|honour]]; [[l/_low|low]]-[[m/_minded|minded]]; [[s/_spiritless|spiritless]]; [[b/_base|base]].**
 	- _Example: a mean motive_
 - **Of [[l/_little|little]] value or worth; worthy of [[l/_little|little]] or [[n/_no|no]] [[r/_regard|regard]]; [[c/_contemptible|contemptible]]; [[d/_despicable|despicable]].**
-- **Ungenerous; stingy; tight-[[f/_fisted|fisted]].**
+- **Ungenerous; [[s/_stingy|stingy]]; tight-[[f/_fisted|fisted]].**
 	- _Example: He's so mean. I've never seen him spend so much as five pounds on presents for his children._
 - **[[d/_disobliging|Disobliging]]; [[p/_pettily|pettily]] [[o/_offensive|offensive]] or unaccommodating**
 - **[[s/_selfish|Selfish]]; [[a/_acting|acting]] without [[c/_consideration|consideration]] of [[o/_others|others]]; unkind.**
 	- _Example: It was mean to steal the girl's piggy bank, but he just had to get uptown and he had no cash of his own._
 - **[[i/_intending|Intending]] to [[c/_cause|cause]] [[h/_harm|harm]], successfully or [[o/_otherwise|otherwise]]; [[b/_bearing|bearing]] [[i/_ill|ill]] will towards [[a/_another|another]]**
 	- _Example: Watch out for her, she's mean. I said good morning to her, and she punched me in the nose._
-- **[[p/_powerful|Powerful]]; [[f/_fierce|fierce]]; strong**
+- **[[p/_powerful|Powerful]]; [[f/_fierce|fierce]]; [[s/_strong|strong]]**
 	- _Example: It must have been a mean typhoon that levelled this town._
 - **[[a/_accomplished|Accomplished]] with [[g/_great|great]] [[s/_skill|skill]]; [[d/_deft|deft]]; [[h/_hard|hard]] to [[c/_compete|compete]] with.**
 	- _Example: He hits a mean backhand._

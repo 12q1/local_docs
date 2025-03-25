@@ -1,7 +1,7 @@
 # Aesthetic
 ---
 #noun
-- **The study of [[a/_art|art]] or [[b/_beauty|beauty]].**
+- **The [[s/_study|study]] of [[a/_art|art]] or [[b/_beauty|beauty]].**
 - **That which [[a/_appeals|appeals]] to the [[s/_senses|senses]].**
 - **The [[a/_artistic|artistic]] [[m/_motifs|motifs]] [[d/_defining|defining]] a [[c/_collection|collection]] of things, [[e/_especially|especially]] works of [[a/_art|art]]; [[m/_more|more]] [[b/_broadly|broadly]], their vibe.**
 	- _Example: Her most recent works have this quirky, half-serious 90's teen culture-inspired aesthetic._

@@ -1,6 +1,6 @@
 # Overstocked
 ---
 #verb
-- **To stock to an [[e/_excessive|excessive]] [[d/_degree|degree]].**
+- **To [[s/_stock|stock]] to an [[e/_excessive|excessive]] [[d/_degree|degree]].**
 ---
 ---

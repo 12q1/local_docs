@@ -14,14 +14,14 @@
 ---
 #noun
 - **A [[s/_sieve|sieve]] with [[c/_coarse|coarse]] [[m/_meshes|meshes]], usually of wire, for [[s/_separating|separating]] [[c/_coarser|coarser]] [[m/_materials|materials]] from [[f/_finer|finer]], as [[c/_chaff|chaff]] from [[g/_grain|grain]], [[c/_cinders|cinders]] from [[a/_ashes|ashes]], or [[g/_gravel|gravel]] from [[s/_sand|sand]].**
-- **A [[b/_board|board]] with a [[r/_row|row]] of [[p/_pins|pins]], [[s/_set|set]] zigzag, [[b/_between|between]] which wire is [[d/_drawn|drawn]] to straighten it.**
+- **A [[b/_board|board]] with a [[r/_row|row]] of [[p/_pins|pins]], [[s/_set|set]] zigzag, [[b/_between|between]] which wire is [[d/_drawn|drawn]] to [[s/_straighten|straighten]] it.**
 ---
 #verb
 - **To [[p/_put|put]] [[s/_something|something]] through a [[r/_riddle|riddle]] or [[s/_sieve|sieve]], to [[s/_sieve|sieve]], to [[s/_sift|sift]].**
 	- _Example: You have to riddle the gravel before you lay it on the road._
 - **To [[f/_fill|fill]] with [[h/_holes|holes]] [[l/_like|like]] a [[r/_riddle|riddle]].**
 	- _Example: The shots from his gun began to riddle the targets._
-- **To [[f/_fill|fill]] or spread throughout; to [[p/_pervade|pervade]].**
+- **To [[f/_fill|fill]] or [[s/_spread|spread]] throughout; to [[p/_pervade|pervade]].**
 	- _Example: Your argument is riddled with errors._
 ---
 #noun

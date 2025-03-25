@@ -8,7 +8,7 @@
 	- _Example: You are expected to get the task done by the end of next week._
 - **([[c/_continuous|continuous]] [[a/_aspect|aspect]] [[o/_only|only]], of a woman or [[c/_couple|couple]]) To be [[p/_pregnant|pregnant]], to [[c/_consider|consider]] a [[b/_baby|baby]] [[d/_due|due]].**
 - **To wait for; to [[a/_await|await]].**
-- **To wait; to stay.**
+- **To wait; to [[s/_stay|stay]].**
 ---
 ### Synonyms
 - [[a/_anticipate|anticipate]], [[h/_hope|hope]], [[a/_await|await]], [[d/_demand|demand]], [[h/_hope|hope]], [[w/_want|want]], [[w/_wish|wish]], [[w/_wait|wait]]

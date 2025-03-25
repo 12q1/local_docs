@@ -1,10 +1,10 @@
 # Craft
 ---
 #noun
-- **Strength; [[p/_power|power]]; [[m/_might|might]]; [[f/_force|force]] .**
+- **[[s/_strength|Strength]]; [[p/_power|power]]; [[m/_might|might]]; [[f/_force|force]] .**
 - **[[i/_intellectual|Intellectual]] [[p/_power|power]]; [[s/_skill|skill]]; [[a/_art|art]].**
 - **([[o/_obsolete|obsolete]] in the [[g/_general|general]] [[s/_sense|sense]]) A work or [[p/_product|product]] of [[a/_art|art]] .**
-- **A [[d/_device|device]], a [[m/_means|means]]; a [[m/_magical|magical]] [[d/_device|device]], spell or [[e/_enchantment|enchantment]] .**
+- **A [[d/_device|device]], a [[m/_means|means]]; a [[m/_magical|magical]] [[d/_device|device]], [[s/_spell|spell]] or [[e/_enchantment|enchantment]] .**
 - **[[l/_learning|Learning]] of the [[s/_schools|schools]], [[s/_scholarship|scholarship]]; a [[b/_branch|branch]] of [[l/_learning|learning]] or [[k/_knowledge|knowledge]], a [[s/_science|science]], [[e/_especially|especially]] [[o/_one|one]] of the ‘[[s/_seven|seven]] [[l/_liberal|liberal]] [[a/_arts|arts]]’ of the [[m/_medieval|medieval]] universities .**
 - **[[s/_skill|Skill]], [[s/_skilfulness|skilfulness]], [[a/_art|art]], [[e/_especially|especially]] the [[s/_skill|skill]] [[n/_needed|needed]] for a [[p/_particular|particular]] [[p/_profession|profession]] .**
 	- _Example: The craft of writing plays._

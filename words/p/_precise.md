@@ -1,7 +1,7 @@
 # Precise
 ---
 #verb
-- **(NNES or [[e/_european|European]] Union [[d/_documents|documents]]) To [[m/_make|make]] or [[r/_render|render]] [[p/_precise|precise]]; to specify.**
+- **(NNES or [[e/_european|European]] Union [[d/_documents|documents]]) To [[m/_make|make]] or [[r/_render|render]] [[p/_precise|precise]]; to [[s/_specify|specify]].**
 ---
 #adjective
 - **[[e/_exact|Exact]], [[a/_accurate|accurate]]**

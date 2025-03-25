@@ -16,7 +16,7 @@
 	- _Example: A: I've just been reading Shakespeare - he's one of the best authors like, ever!_
 - **[[i/_indicating|Indicating]] [[a/_affirmation|affirmation]], [[a/_agreement|agreement]].**
 	- _Example: A: That girl talks about herself way too much._
-- **[[i/_indicating|Indicating]] [[d/_displeasure|displeasure]] at [[a/_another|another]] [[p/_person|person]]'[[s/_s|s]] [[b/_behaviour|behaviour]] or statement.**
+- **[[i/_indicating|Indicating]] [[d/_displeasure|displeasure]] at [[a/_another|another]] [[p/_person|person]]'[[s/_s|s]] [[b/_behaviour|behaviour]] or [[s/_statement|statement]].**
 	- _Example: Well, really! How rude._
 ---
 ### Synonyms

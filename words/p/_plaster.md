@@ -2,8 +2,8 @@
 ---
 #noun
 - **A [[p/_paste|paste]] [[a/_applied|applied]] to the [[s/_skin|skin]] for [[h/_healing|healing]] or [[c/_cosmetic|cosmetic]] [[p/_purposes|purposes]].**
-- **A [[s/_small|small]] [[a/_adhesive|adhesive]] [[b/_bandage|bandage]] to [[c/_cover|cover]] a [[m/_minor|minor]] wound; a sticking [[p/_plaster|plaster]].**
-- **A [[m/_mixture|mixture]] of [[l/_lime|lime]] or [[g/_gypsum|gypsum]], [[s/_sand|sand]], and water, [[s/_sometimes|sometimes]] with the [[a/_addition|addition]] of [[f/_fibres|fibres]], that [[h/_hardens|hardens]] to a [[s/_smooth|smooth]] [[s/_solid|solid]] and is used for [[c/_coating|coating]] walls and [[c/_ceilings|ceilings]]; [[r/_render|render]], stucco.**
+- **A [[s/_small|small]] [[a/_adhesive|adhesive]] [[b/_bandage|bandage]] to [[c/_cover|cover]] a [[m/_minor|minor]] wound; a [[s/_sticking|sticking]] [[p/_plaster|plaster]].**
+- **A [[m/_mixture|mixture]] of [[l/_lime|lime]] or [[g/_gypsum|gypsum]], [[s/_sand|sand]], and water, [[s/_sometimes|sometimes]] with the [[a/_addition|addition]] of [[f/_fibres|fibres]], that [[h/_hardens|hardens]] to a [[s/_smooth|smooth]] [[s/_solid|solid]] and is used for [[c/_coating|coating]] walls and [[c/_ceilings|ceilings]]; [[r/_render|render]], [[s/_stucco|stucco]].**
 - **A [[c/_cast|cast]] [[m/_made|made]] of [[p/_plaster|plaster]] of [[p/_paris|Paris]] and [[g/_gauze|gauze]]; [[p/_plaster|plaster]] [[c/_cast|cast]].**
 - **[[p/_plaster|Plaster]] of [[p/_paris|Paris]].**
 ---

@@ -27,7 +27,7 @@
 - [[p/_perpendicular|perpendicular]]
 #adverb
 - **In a vertical [[d/_direction|direction]]; [[p/_perpendicularly|perpendicularly]].**
-- **Squarely, [[d/_directly|directly]]; [[c/_completely|completely]].**
+- **[[s/_squarely|Squarely]], [[d/_directly|directly]]; [[c/_completely|completely]].**
 	- _Example: It hit him plumb in the middle of his face._
 ---
 ---

@@ -1,7 +1,7 @@
 # Seasons
 ---
 #noun
-- **[[e/_each|Each]] of the [[f/_four|four]] [[d/_divisions|divisions]] of a [[y/_year|year]]: spring, summer, [[a/_autumn|autumn]] ([[f/_fall|fall]]) and winter**
+- **[[e/_each|Each]] of the [[f/_four|four]] [[d/_divisions|divisions]] of a [[y/_year|year]]: [[s/_spring|spring]], summer, [[a/_autumn|autumn]] ([[f/_fall|fall]]) and winter**
 - **A [[p/_part|part]] of a [[y/_year|year]] when [[s/_something|something]] [[p/_particular|particular]] [[h/_happens|happens]]**
 	- _Example: mating season_
 - **That which [[g/_gives|gives]] [[r/_relish|relish]]; [[s/_seasoning|seasoning]].**
@@ -28,6 +28,6 @@
 ### Synonyms
 - [[d/_desiccate|desiccate]], [[f/_fordry|fordry]], [[a/_age|age]], [[m/_mature|mature]], [[c/_coitize|coitize]], [[w/_wont|wont]], [[a/_admix|admix]], [[a/_alloy|alloy]], [[i/_intermingle|intermingle]], [[d/_dehydrate|dehydrate]], [[d/_desiccate|desiccate]], [[e/_exiccate|exiccate]], [[f/_fordry|fordry]]
 #verb
-- **To [[f/_flavour|flavour]] [[f/_food|food]] with spices, [[h/_herbs|herbs]] or [[s/_salt|salt]].**
+- **To [[f/_flavour|flavour]] [[f/_food|food]] with [[s/_spices|spices]], [[h/_herbs|herbs]] or [[s/_salt|salt]].**
 ---
 ---

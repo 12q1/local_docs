@@ -1,7 +1,7 @@
 # Mauls
 ---
 #noun
-- **A [[h/_heavy|heavy]] [[l/_long|long]]-[[h/_handled|handled]] [[h/_hammer|hammer]], used for splitting [[l/_logs|logs]] by [[d/_driving|driving]] a wedge [[i/_into|into]] them, or in [[c/_combat|combat]].**
+- **A [[h/_heavy|heavy]] [[l/_long|long]]-[[h/_handled|handled]] [[h/_hammer|hammer]], used for [[s/_splitting|splitting]] [[l/_logs|logs]] by [[d/_driving|driving]] a wedge [[i/_into|into]] them, or in [[c/_combat|combat]].**
 - **A [[s/_situation|situation]] where the [[p/_player|player]] [[c/_carrying|carrying]] the [[b/_ball|ball]], who [[m/_must|must]] be on [[h/_his|his]] [[f/_feet|feet]], is [[h/_held|held]] by [[o/_one|one]] or [[m/_more|more]] [[o/_opponents|opponents]], and [[o/_one|one]] or [[m/_more|more]] of the [[b/_ball|ball]] [[c/_carrier|carrier]]'[[s/_s|s]] team [[m/_mates|mates]] [[b/_bind|bind]] [[o/_onto|onto]] the [[b/_ball|ball]] [[c/_carrier|carrier]].**
 ---
 ### Synonyms

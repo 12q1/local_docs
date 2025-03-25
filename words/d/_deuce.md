@@ -1,8 +1,8 @@
 # Deuce
 ---
 #noun
-- **A [[c/_card|card]] with two [[p/_pips|pips]], [[o/_one|one]] of [[f/_four|four]] in a standard [[d/_deck|deck]] of [[p/_playing|playing]] [[c/_cards|cards]].**
-- **A [[s/_side|side]] of a [[d/_die|die]] with two spots.**
+- **A [[c/_card|card]] with two [[p/_pips|pips]], [[o/_one|one]] of [[f/_four|four]] in a [[s/_standard|standard]] [[d/_deck|deck]] of [[p/_playing|playing]] [[c/_cards|cards]].**
+- **A [[s/_side|side]] of a [[d/_die|die]] with two [[s/_spots|spots]].**
 - **A [[c/_cast|cast]] of [[d/_dice|dice]] totalling two.**
 - **The [[n/_number|number]] two.**
 - **A tied [[g/_game|game]] where [[e/_either|either]] [[p/_player|player]] [[c/_can|can]] win by [[s/_scoring|scoring]] two [[c/_consecutive|consecutive]] [[p/_points|points]].**

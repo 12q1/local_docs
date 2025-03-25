@@ -15,9 +15,9 @@
 #adjective
 - **In the [[e/_early|early]] [[p/_part|part]] of [[g/_growth|growth]] or [[l/_life|life]]; [[b/_born|born]] not [[l/_long|long]] [[a/_ago|ago]].**
 	- _Example: a lamb is a young sheep;  these picture books are for young readers_
-- **At an [[e/_early|early]] stage of [[e/_existence|existence]] or [[d/_development|development]]; [[h/_having|having]] [[r/_recently|recently]] [[c/_come|come]] [[i/_into|into]] [[e/_existence|existence]].**
+- **At an [[e/_early|early]] [[s/_stage|stage]] of [[e/_existence|existence]] or [[d/_development|development]]; [[h/_having|having]] [[r/_recently|recently]] [[c/_come|come]] [[i/_into|into]] [[e/_existence|existence]].**
 	- _Example: the age of space travel is still young;   a young business_
-- **(Not) [[a/_advanced|advanced]] in [[a/_age|age]]; ([[f/_far|far]] towards or) at a specified stage of [[e/_existence|existence]] or [[a/_age|age]].**
+- **(Not) [[a/_advanced|advanced]] in [[a/_age|age]]; ([[f/_far|far]] towards or) at a [[s/_specified|specified]] [[s/_stage|stage]] of [[e/_existence|existence]] or [[a/_age|age]].**
 	- _Example: How young is your dog?   Her grandmother turned 70 years young last month._
 - **[[j/_junior|Junior]] (of two [[r/_related|related]] [[p/_people|people]] with the [[s/_same|same]] [[n/_name|name]]).**
 - **(of a [[d/_decade|decade]] of [[l/_life|life]]) [[e/_early|Early]].**

@@ -15,7 +15,7 @@
 #adjective
 - **[[d/_devoid|Devoid]] of [[c/_content|content]]; [[c/_containing|containing]] [[n/_nothing|nothing]] or [[n/_nobody|nobody]]; vacant.**
 	- _Example: an empty purse; an empty jug; an empty stomach_
-- **[[c/_containing|Containing]] [[n/_no|no]] [[e/_elements|elements]] (as of a string, [[a/_array|array]], or [[s/_set|set]]), [[o/_opposed|opposed]] to [[b/_being|being]] [[n/_null|null]] ([[h/_having|having]] [[n/_no|no]] valid value).**
+- **[[c/_containing|Containing]] [[n/_no|no]] [[e/_elements|elements]] (as of a [[s/_string|string]], [[a/_array|array]], or [[s/_set|set]]), [[o/_opposed|opposed]] to [[b/_being|being]] [[n/_null|null]] ([[h/_having|having]] [[n/_no|no]] valid value).**
 - **[[f/_free|Free]]; [[c/_clear|clear]]; [[d/_devoid|devoid]]; [[o/_often|often]] with of.**
 - **[[h/_having|Having]] [[n/_nothing|nothing]] to [[c/_carry|carry]], emptyhanded; unburdened.**
 - **[[d/_destitute|Destitute]] of [[e/_effect|effect]], [[s/_sincerity|sincerity]], or [[s/_sense|sense]]; [[s/_said|said]] of [[l/_language|language]].**

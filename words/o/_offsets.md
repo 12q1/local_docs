@@ -16,7 +16,7 @@
 - **A [[s/_short|short]] [[d/_distance|distance]] [[m/_measured|measured]] at [[r/_right|right]] [[a/_angles|angles]] from a [[l/_line|line]] [[a/_actually|actually]] [[r/_run|run]] to [[s/_some|some]] [[p/_point|point]] in an [[i/_irregular|irregular]] [[b/_boundary|boundary]], or to [[s/_some|some]] [[o/_object|object]].**
 - **An [[a/_abrupt|abrupt]] [[b/_bend|bend]] in an [[o/_object|object]], such as a [[r/_rod|rod]], by which [[o/_one|one]] [[p/_part|part]] is turned [[a/_aside|aside]] [[o/_out|out]] of [[l/_line|line]], but [[n/_nearly|nearly]] [[p/_parallel|parallel]], with the [[r/_rest|rest]]; the [[p/_part|part]] thus [[b/_bent|bent]] [[a/_aside|aside]].**
 - **A [[s/_short|short]] [[p/_prostrate|prostrate]] [[s/_shoot|shoot]] that takes [[r/_root|root]] and [[p/_produces|produces]] a tuft of [[l/_leaves|leaves]], [[e/_etc|etc]].**
-- **A spur from a [[r/_range|range]] of [[h/_hills|hills]] or [[m/_mountains|mountains]].**
+- **A [[s/_spur|spur]] from a [[r/_range|range]] of [[h/_hills|hills]] or [[m/_mountains|mountains]].**
 - **A [[h/_horizontal|horizontal]] [[l/_ledge|ledge]] on the [[f/_face|face]] of a wall, [[f/_formed|formed]] by a [[d/_diminution|diminution]] of [[i/_its|its]] thickness, or by the weathering or upper surface of a [[p/_part|part]] [[b/_built|built]] [[o/_out|out]] from it; a [[s/_set|set]]-[[o/_off|off]].**
 - **A terrace on a [[h/_hillside|hillside]].**
 ---

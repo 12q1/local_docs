@@ -15,6 +15,6 @@
 - **[[f/_faeces|Faeces]]**
 ---
 #adjective
-- **An [[i/_intensifier|intensifier]], [[o/_often|often]] [[a/_applying|applying]] [[m/_more|more]] to the whole utterance than to the specific word it [[g/_grammatically|grammatically]] [[m/_modifies|modifies]]; [[s/_same|same]] as [[f/_fucking|fucking]].**
+- **An [[i/_intensifier|intensifier]], [[o/_often|often]] [[a/_applying|applying]] [[m/_more|more]] to the whole utterance than to the [[s/_specific|specific]] word it [[g/_grammatically|grammatically]] [[m/_modifies|modifies]]; [[s/_same|same]] as [[f/_fucking|fucking]].**
 ---
 ---

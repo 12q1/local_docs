@@ -1,7 +1,7 @@
 # Cuecas
 ---
 #noun
-- **A [[f/_family|family]] of [[m/_musical|musical]] styles from [[p/_parts|parts]] of [[s/_south|South]] [[a/_america|America]].**
-- **[[a/_any|Any]] of the [[d/_dances|dances]] [[a/_associated|associated]] with the [[c/_cueca|cueca]] [[m/_musical|musical]] style.**
+- **A [[f/_family|family]] of [[m/_musical|musical]] [[s/_styles|styles]] from [[p/_parts|parts]] of [[s/_south|South]] [[a/_america|America]].**
+- **[[a/_any|Any]] of the [[d/_dances|dances]] [[a/_associated|associated]] with the [[c/_cueca|cueca]] [[m/_musical|musical]] [[s/_style|style]].**
 ---
 ---

@@ -5,9 +5,9 @@
 	- _Example: Set the tray there._
 - **To [[a/_attach|attach]] or [[a/_affix|affix]] ([[s/_something|something]]) to [[s/_something|something]] [[e/_else|else]], or in or upon a [[c/_certain|certain]] [[p/_place|place]].**
 	- _Example: I have set my heart on running the marathon._
-- **To [[p/_put|put]] in a specified [[c/_condition|condition]] or state; to [[c/_cause|cause]] to be.**
-- **To start (a [[f/_fire|fire]]).**
-- **To [[c/_cause|cause]] to stop or stick; to [[o/_obstruct|obstruct]]; to [[f/_fasten|fasten]] to a spot.**
+- **To [[p/_put|put]] in a [[s/_specified|specified]] [[c/_condition|condition]] or [[s/_state|state]]; to [[c/_cause|cause]] to be.**
+- **To [[s/_start|start]] (a [[f/_fire|fire]]).**
+- **To [[c/_cause|cause]] to [[s/_stop|stop]] or [[s/_stick|stick]]; to [[o/_obstruct|obstruct]]; to [[f/_fasten|fasten]] to a [[s/_spot|spot]].**
 	- _Example: to set a coach in the mud_
 - **To [[d/_determine|determine]] or [[s/_settle|settle]].**
 	- _Example: to set the rent_
@@ -22,7 +22,7 @@
 	- _Example: He says he will set his next film in France._
 - **To [[c/_compile|compile]], to [[m/_make|make]] (a [[p/_puzzle|puzzle]] or [[c/_challenge|challenge]]).**
 	- _Example: This crossword was set by Araucaria._
-- **To [[p/_prepare|prepare]] (a stage or [[f/_film|film]] [[s/_set|set]]).**
+- **To [[p/_prepare|prepare]] (a [[s/_stage|stage]] or [[f/_film|film]] [[s/_set|set]]).**
 - **To [[f/_fit|fit]] ([[s/_someone|someone]]) up in a [[s/_situation|situation]].**
 - **To [[a/_arrange|arrange]] (type).**
 	- _Example: It was a complex page, but he set it quickly._
@@ -31,7 +31,7 @@
 - **To [[d/_direct|direct]] (the [[b/_ball|ball]]) to a teammate for an [[a/_attack|attack]].**
 - **To [[s/_solidify|solidify]].**
 	- _Example: The glue sets in four minutes._
-- **To [[r/_render|render]] stiff or [[s/_solid|solid]]; [[e/_especially|especially]], to [[c/_convert|convert]] [[i/_into|into]] [[c/_curd|curd]]; to [[c/_curdle|curdle]].**
+- **To [[r/_render|render]] [[s/_stiff|stiff]] or [[s/_solid|solid]]; [[e/_especially|especially]], to [[c/_convert|convert]] [[i/_into|into]] [[c/_curd|curd]]; to [[c/_curdle|curdle]].**
 	- _Example: to set milk for cheese_
 - **Of a [[h/_heavenly|heavenly]] [[b/_body|body]], to [[d/_disappear|disappear]] [[b/_below|below]] the [[h/_horizon|horizon]] of a [[p/_planet|planet]], [[e/_etc|etc]], as the [[l/_latter|latter]] [[r/_rotates|rotates]].**
 	- _Example: The moon sets at eight o'clock tonight._
@@ -39,7 +39,7 @@
 - **([[n/_now|now]] [[f/_followed|followed]] by "[[o/_out|out]]", as in [[s/_set|set]] [[o/_out|out]]) To [[b/_begin|begin]] to [[m/_move|move]]; to [[g/_go|go]] [[f/_forth|forth]].**
 - **To [[p/_produce|produce]] [[a/_after|after]] [[p/_pollination|pollination]].**
 	- _Example: to set seed_
-- **(of [[f/_fruit|fruit]]) To be [[f/_fixed|fixed]] for [[g/_growth|growth]]; to strike [[r/_root|root]]; to [[b/_begin|begin]] to [[g/_germinate|germinate]] or [[f/_form|form]].**
+- **(of [[f/_fruit|fruit]]) To be [[f/_fixed|fixed]] for [[g/_growth|growth]]; to [[s/_strike|strike]] [[r/_root|root]]; to [[b/_begin|begin]] to [[g/_germinate|germinate]] or [[f/_form|form]].**
 - **([[m/_midwestern|Midwestern]] US) To [[s/_sit|sit]] (be in a [[s/_seated|seated]] [[p/_position|position]]).**
 	- _Example: He sets in that chair all day._
 - **To [[h/_hunt|hunt]] [[g/_game|game]] with the [[a/_aid|aid]] of a [[s/_setter|setter]].**
@@ -58,15 +58,15 @@
 	- _Example: to set a precious stone in a border of metal_
 - **To [[p/_put|put]] in [[o/_order|order]] in a [[p/_particular|particular]] [[m/_manner|manner]]; to [[p/_prepare|prepare]].**
 	- _Example: to set (that is, to hone) a razor_
-- **To [[e/_extend|extend]] and [[b/_bring|bring]] [[i/_into|into]] [[p/_position|position]]; to spread.**
+- **To [[e/_extend|extend]] and [[b/_bring|bring]] [[i/_into|into]] [[p/_position|position]]; to [[s/_spread|spread]].**
 	- _Example: to set the sails of a ship_
-- **To [[g/_give|give]] a [[p/_pitch|pitch]] to, as a tune; to start by [[f/_fixing|fixing]] the [[k/_keynote|keynote]].**
+- **To [[g/_give|give]] a [[p/_pitch|pitch]] to, as a tune; to [[s/_start|start]] by [[f/_fixing|fixing]] the [[k/_keynote|keynote]].**
 	- _Example: to set a psalm_
-- **To [[r/_reduce|reduce]] from a [[d/_dislocated|dislocated]] or [[f/_fractured|fractured]] state.**
+- **To [[r/_reduce|reduce]] from a [[d/_dislocated|dislocated]] or [[f/_fractured|fractured]] [[s/_state|state]].**
 	- _Example: to set a broken bone_
-- **To [[l/_lower|lower]] [[i/_into|into]] [[p/_place|place]] and [[f/_fix|fix]] [[s/_solidly|solidly]], as the [[b/_blocks|blocks]] of [[c/_cut|cut]] stone in a structure.**
+- **To [[l/_lower|lower]] [[i/_into|into]] [[p/_place|place]] and [[f/_fix|fix]] [[s/_solidly|solidly]], as the [[b/_blocks|blocks]] of [[c/_cut|cut]] [[s/_stone|stone]] in a [[s/_structure|structure]].**
 - **To wager in [[g/_gambling|gambling]]; to [[r/_risk|risk]].**
-- **To [[a/_adorn|adorn]] with [[s/_something|something]] [[i/_infixed|infixed]] or [[a/_affixed|affixed]]; to stud; to variegate with [[o/_objects|objects]] [[p/_placed|placed]] [[h/_here|here]] and there.**
+- **To [[a/_adorn|adorn]] with [[s/_something|something]] [[i/_infixed|infixed]] or [[a/_affixed|affixed]]; to [[s/_stud|stud]]; to variegate with [[o/_objects|objects]] [[p/_placed|placed]] [[h/_here|here]] and there.**
 - **To value; to [[r/_rate|rate]]; used with at.**
 - **To [[e/_establish|establish]] as a [[r/_rule|rule]]; to [[f/_furnish|furnish]]; to [[p/_prescribe|prescribe]]; to [[a/_assign|assign]].**
 	- _Example: to set a good example_
@@ -81,10 +81,10 @@
 - **To [[d/_divide|divide]] a [[c/_class|class]] [[g/_group|group]] in a subject [[a/_according|according]] to [[a/_ability|ability]]**
 ---
 #noun
-- **The time, [[p/_place|place]] and [[c/_circumstance|circumstance]] in which [[s/_something|something]] (such as a story or [[p/_picture|picture]]) is [[s/_set|set]]; [[c/_context|context]]; [[s/_scenario|scenario]].**
+- **The time, [[p/_place|place]] and [[c/_circumstance|circumstance]] in which [[s/_something|something]] (such as a [[s/_story|story]] or [[p/_picture|picture]]) is [[s/_set|set]]; [[c/_context|context]]; [[s/_scenario|scenario]].**
 - **The [[a/_act|act]] of [[s/_setting|setting]].**
 	- _Example: the setting of the sun_
-- **A [[p/_piece|piece]] of [[m/_metal|metal]] in which a [[p/_precious|precious]] stone or [[g/_gem|gem]] is [[f/_fixed|fixed]] to [[f/_form|form]] a [[p/_piece|piece]] of [[j/_jewelry|jewelry]].**
+- **A [[p/_piece|piece]] of [[m/_metal|metal]] in which a [[p/_precious|precious]] [[s/_stone|stone]] or [[g/_gem|gem]] is [[f/_fixed|fixed]] to [[f/_form|form]] a [[p/_piece|piece]] of [[j/_jewelry|jewelry]].**
 - **A [[l/_level|level]] or [[p/_placement|placement]] that a [[k/_knob|knob]] or [[c/_control|control]] is [[s/_set|set]] to.**
 	- _Example: the volume setting on a television_
 - **The [[a/_act|act]] of [[m/_marking|marking]] the [[p/_position|position]] of [[g/_game|game]], as a [[s/_setter|setter]] [[d/_does|does]].**
@@ -92,7 +92,7 @@
 - **[[s/_something|Something]] [[s/_set|set]] in, or [[i/_inserted|inserted]].**
 - **A [[p/_piece|piece]] of vocal or [[c/_choral|choral]] [[m/_music|music]] [[c/_composed|composed]] for [[p/_particular|particular]] words ([[s/_set|set]] to [[m/_music|music]]).**
 	- _Example: Bach's setting of the Magnificat_
-- **The [[m/_mounting|mounting]] of a [[p/_play|play]], [[e/_etc|etc]]., for the stage.**
+- **The [[m/_mounting|mounting]] of a [[p/_play|play]], [[e/_etc|etc]]., for the [[s/_stage|stage]].**
 - **The [[d/_direction|direction]] of a [[c/_current|current]] of wind.**
 ---
 #adjective

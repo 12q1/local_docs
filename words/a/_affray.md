@@ -10,7 +10,7 @@
 ### Synonyms
 - [[a/_alarm|alarm]], [[f/_fright|fright]], [[t/_terror|terror]], [[b/_brawl|brawl]], [[f/_fray|fray]]
 #verb
-- **To startle from [[q/_quiet|quiet]]; to [[a/_alarm|alarm]].**
+- **To [[s/_startle|startle]] from [[q/_quiet|quiet]]; to [[a/_alarm|alarm]].**
 - **To [[f/_frighten|frighten]]; to [[s/_scare|scare]]; to [[f/_frighten|frighten]] [[a/_away|away]].**
 ---
 ---

@@ -1,22 +1,22 @@
 # Rounds
 ---
 #noun
-- **A [[c/_circular|circular]] or spherical [[o/_object|object]] or [[p/_part|part]] of an [[o/_object|object]].**
+- **A [[c/_circular|circular]] or [[s/_spherical|spherical]] [[o/_object|object]] or [[p/_part|part]] of an [[o/_object|object]].**
 - **A [[c/_circular|circular]] or [[r/_repetitious|repetitious]] [[r/_route|route]].**
 	- _Example: The guards have started their rounds; the prisoner should be caught soon._
 - **A [[g/_general|general]] [[o/_outburst|outburst]] from a [[g/_group|group]] of [[p/_people|people]] at an [[e/_event|event]].**
 	- _Example: The candidate got a round of applause after every sentence or two._
-- **A [[s/_song|song]] that is sung by [[g/_groups|groups]] of [[p/_people|people]] with [[e/_each|each]] subset of [[p/_people|people]] starting at a [[d/_different|different]] time.**
+- **A [[s/_song|song]] that is sung by [[g/_groups|groups]] of [[p/_people|people]] with [[e/_each|each]] subset of [[p/_people|people]] [[s/_starting|starting]] at a [[d/_different|different]] time.**
 - **A [[s/_serving|serving]] of [[s/_something|something]]; a [[p/_portion|portion]] of [[s/_something|something]] to [[e/_each|each]] [[p/_person|person]] in a [[g/_group|group]].**
 	- _Example: They brought us a round of drinks about every thirty minutes._
 - **A [[s/_single|single]] [[i/_individual|individual]] [[p/_portion|portion]] or [[d/_dose|dose]] of [[m/_medicine|medicine]].**
 - **[[o/_one|One]] [[s/_sandwich|sandwich]] (two [[f/_full|full]] [[s/_slices|slices]] of [[b/_bread|bread]] with [[f/_filling|filling]]).**
 - **A [[l/_long|long]]-[[b/_bristled|bristled]], [[c/_circular|circular]]-[[h/_headed|headed]] [[p/_paintbrush|paintbrush]] used in [[o/_oil|oil]] and [[a/_acrylic|acrylic]] [[p/_painting|painting]].**
-- **A [[f/_firearm|firearm]] [[c/_cartridge|cartridge]], [[b/_bullet|bullet]], or [[a/_any|any]] [[i/_individual|individual]] [[a/_ammunition|ammunition]] [[p/_projectile|projectile]]. [[o/_originally|Originally]] [[r/_referring|referring]] to the spherical [[p/_projectile|projectile]] [[b/_ball|ball]] of a [[s/_smoothbore|smoothbore]] [[f/_firearm|firearm]]. [[c/_compare|Compare]] [[r/_round|round]] [[s/_shot|shot]] and [[s/_solid|solid]] [[s/_shot|shot]].**
-- **[[o/_one|One]] of the specified [[p/_pre|pre]]-[[d/_determined|determined]] [[s/_segments|segments]] of the total time of a sport [[e/_event|event]], such as a [[b/_boxing|boxing]] or wrestling [[m/_match|match]], [[d/_during|during]] which [[c/_contestants|contestants]] [[c/_compete|compete]] [[b/_before|before]] [[b/_being|being]] [[s/_signaled|signaled]] to stop.**
-- **A stage, [[l/_level|level]], [[s/_set|set]] of [[e/_events|events]] in a [[g/_game|game]]**
+- **A [[f/_firearm|firearm]] [[c/_cartridge|cartridge]], [[b/_bullet|bullet]], or [[a/_any|any]] [[i/_individual|individual]] [[a/_ammunition|ammunition]] [[p/_projectile|projectile]]. [[o/_originally|Originally]] [[r/_referring|referring]] to the [[s/_spherical|spherical]] [[p/_projectile|projectile]] [[b/_ball|ball]] of a [[s/_smoothbore|smoothbore]] [[f/_firearm|firearm]]. [[c/_compare|Compare]] [[r/_round|round]] [[s/_shot|shot]] and [[s/_solid|solid]] [[s/_shot|shot]].**
+- **[[o/_one|One]] of the [[s/_specified|specified]] [[p/_pre|pre]]-[[d/_determined|determined]] [[s/_segments|segments]] of the total time of a [[s/_sport|sport]] [[e/_event|event]], such as a [[b/_boxing|boxing]] or wrestling [[m/_match|match]], [[d/_during|during]] which [[c/_contestants|contestants]] [[c/_compete|compete]] [[b/_before|before]] [[b/_being|being]] [[s/_signaled|signaled]] to [[s/_stop|stop]].**
+- **A [[s/_stage|stage]], [[l/_level|level]], [[s/_set|set]] of [[e/_events|events]] in a [[g/_game|game]]**
 - **([[d/_drafting|drafting]], [[c/_cad|CAD]]) A [[r/_rounded|rounded]] [[r/_relief|relief]] or [[c/_cut|cut]] at an [[e/_edge|edge]], [[e/_especially|especially]] an [[o/_outside|outside]] [[e/_edge|edge]], [[a/_added|added]] for a [[f/_finished|finished]] [[a/_appearance|appearance]] and to [[s/_soften|soften]] [[s/_sharp|sharp]] [[e/_edges|edges]].**
-- **A strip of [[m/_material|material]] with a [[c/_circular|circular]] [[f/_face|face]] that [[c/_covers|covers]] an [[e/_edge|edge]], [[g/_gap|gap]], or [[c/_crevice|crevice]] for [[d/_decorative|decorative]], [[s/_sanitary|sanitary]], or [[s/_security|security]] [[p/_purposes|purposes]].**
+- **A [[s/_strip|strip]] of [[m/_material|material]] with a [[c/_circular|circular]] [[f/_face|face]] that [[c/_covers|covers]] an [[e/_edge|edge]], [[g/_gap|gap]], or [[c/_crevice|crevice]] for [[d/_decorative|decorative]], [[s/_sanitary|sanitary]], or [[s/_security|security]] [[p/_purposes|purposes]].**
 	- _Example: All furniture in the nursery had rounds on the edges and in the crevices._
 - **([[b/_butchery|butchery]]) The [[h/_hindquarters|hindquarters]] of a [[b/_bovine|bovine]].**
 - **A [[r/_rung|rung]], as of a [[l/_ladder|ladder]].**

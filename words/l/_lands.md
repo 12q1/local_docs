@@ -19,7 +19,7 @@
 - **(travel) The [[n/_non|non]]-[[a/_airline|airline]] [[p/_portion|portion]] of an [[i/_itinerary|itinerary]]. [[h/_hotel|Hotel]], tours, [[c/_cruises|cruises]], [[e/_etc|etc]].**
 	- _Example: Our city offices sell a lot more land than our suburban offices._
 - **The [[g/_ground|ground]] or [[f/_floor|floor]].**
-- **The [[l/_lap|lap]] of the strakes in a [[c/_clinker|clinker]]-[[b/_built|built]] [[b/_boat|boat]]; the [[l/_lap|lap]] of [[p/_plates|plates]] in an [[i/_iron|iron]] vessel; [[c/_called|called]] [[a/_also|also]] [[l/_landing|landing]].**
+- **The [[l/_lap|lap]] of the [[s/_strakes|strakes]] in a [[c/_clinker|clinker]]-[[b/_built|built]] [[b/_boat|boat]]; the [[l/_lap|lap]] of [[p/_plates|plates]] in an [[i/_iron|iron]] vessel; [[c/_called|called]] [[a/_also|also]] [[l/_landing|landing]].**
 - **In [[a/_any|any]] surface [[p/_prepared|prepared]] with [[i/_indentations|indentations]], [[p/_perforations|perforations]], or [[g/_grooves|grooves]], that [[p/_part|part]] of the surface which is not [[s/_so|so]] treated, such as the [[l/_level|level]] [[p/_part|part]] of a [[m/_millstone|millstone]] [[b/_between|between]] the [[f/_furrows|furrows]].**
 - **A [[g/_group|group]] of [[d/_dwellings|dwellings]] or tenements under [[o/_one|one]] [[r/_roof|roof]] and [[h/_having|having]] a [[c/_common|common]] [[e/_entry|entry]].**
 ---

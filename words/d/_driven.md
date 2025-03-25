@@ -3,7 +3,7 @@
 #verb
 - **To [[p/_provide|provide]] an [[i/_impetus|impetus]] for [[m/_motion|motion]] or [[o/_other|other]] [[p/_physical|physical]] [[c/_change|change]], to [[m/_move|move]] an [[o/_object|object]] by [[m/_means|means]] of the [[p/_provision|provision]] of [[f/_force|force]] thereto.**
 	- _Example: You drive nails into wood with a hammer._
-- **To [[p/_provide|provide]] an [[i/_impetus|impetus]] for a [[n/_non|non]]-[[p/_physical|physical]] [[c/_change|change]], [[e/_especially|especially]] a [[c/_change|change]] in [[o/_one|one]]'[[s/_s|s]] state of [[m/_mind|mind]].**
+- **To [[p/_provide|provide]] an [[i/_impetus|impetus]] for a [[n/_non|non]]-[[p/_physical|physical]] [[c/_change|change]], [[e/_especially|especially]] a [[c/_change|change]] in [[o/_one|one]]'[[s/_s|s]] [[s/_state|state]] of [[m/_mind|mind]].**
 	- _Example: My wife's constant harping about the condition of the house threatens to drive me to distraction._
 - **To [[d/_displace|displace]] [[e/_either|either]] [[p/_physically|physically]] or [[n/_non|non]]-[[p/_physically|physically]], through the [[a/_application|application]] of [[f/_force|force]].**
 - **To [[c/_cause|cause]] [[i/_intrinsic|intrinsic]] [[m/_motivation|motivation]] through the [[a/_application|application]] or [[d/_demonstration|demonstration]] of [[f/_force|force]]: to [[i/_impel|impel]] or urge [[o/_onward|onward]] thusly, to [[c/_compel|compel]] to [[m/_move|move]] on, to [[c/_coerce|coerce]], [[i/_intimidate|intimidate]] or threaten.**
@@ -31,11 +31,11 @@
 	- _Example: My wife drove me to the airport._
 - **To [[m/_move|move]] [[f/_forcefully|forcefully]].**
 - **To be [[m/_moved|moved]] or [[p/_propelled|propelled]] [[f/_forcefully|forcefully]] ([[e/_especially|especially]] of a [[s/_ship|ship]]).**
-- **To urge, [[p/_press|press]], or [[b/_bring|bring]] to a [[p/_point|point]] or state.**
+- **To urge, [[p/_press|press]], or [[b/_bring|bring]] to a [[p/_point|point]] or [[s/_state|state]].**
 - **To [[c/_carry|carry]] or to [[k/_keep|keep]] in [[m/_motion|motion]]; to [[c/_conduct|conduct]]; to [[p/_prosecute|prosecute]].**
 - **To [[c/_clear|clear]], by [[f/_forcing|forcing]] [[a/_away|away]] what is [[c/_contained|contained]].**
 - **To [[d/_dig|dig]] [[h/_horizontally|horizontally]]; to [[c/_cut|cut]] a [[h/_horizontal|horizontal]] [[g/_gallery|gallery]] or tunnel.**
-- **To [[p/_put|put]] together a [[d/_drive|drive]] ([[n/_n|n]].): to string together [[o/_offensive|offensive]] [[p/_plays|plays]] and [[a/_advance|advance]] the [[b/_ball|ball]] [[d/_down|down]] the [[f/_field|field]].**
+- **To [[p/_put|put]] together a [[d/_drive|drive]] ([[n/_n|n]].): to [[s/_string|string]] together [[o/_offensive|offensive]] [[p/_plays|plays]] and [[a/_advance|advance]] the [[b/_ball|ball]] [[d/_down|down]] the [[f/_field|field]].**
 - **To [[d/_distrain|distrain]] for [[r/_rent|rent]].**
 - **To [[s/_separate|separate]] the [[l/_lighter|lighter]] ([[f/_feathers|feathers]] or [[d/_down|down]]) from the [[h/_heavier|heavier]], by [[e/_exposing|exposing]] them to a [[c/_current|current]] of [[a/_air|air]].**
 - **To be the [[d/_dominant|dominant]] [[p/_party|party]] in a [[s/_sex|sex]] [[a/_act|act]].**

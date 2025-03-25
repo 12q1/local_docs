@@ -19,9 +19,9 @@
 	- _Example: "I would too, with a face like that," she cracked._
 - **To [[m/_make|make]] a [[c/_crack|crack]] or [[c/_cracks|cracks]] in.**
 	- _Example: The ball cracked the window._
-- **To [[b/_break|break]] [[o/_open|open]] or [[c/_crush|crush]] to [[s/_small|small]] [[p/_pieces|pieces]] by [[i/_impact|impact]] or stress.**
+- **To [[b/_break|break]] [[o/_open|open]] or [[c/_crush|crush]] to [[s/_small|small]] [[p/_pieces|pieces]] by [[i/_impact|impact]] or [[s/_stress|stress]].**
 	- _Example: You'll need a hammer to crack a black walnut._
-- **To strike [[f/_forcefully|forcefully]].**
+- **To [[s/_strike|strike]] [[f/_forcefully|forcefully]].**
 	- _Example: She cracked him over the head with her handbag._
 - **To [[o/_open|open]] [[s/_slightly|slightly]].**
 	- _Example: Could you please crack the window?_

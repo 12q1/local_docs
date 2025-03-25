@@ -7,7 +7,7 @@
 	- _Example: She is quite the humble servant, the poor in this city owe much to her but she expects nothing._
 - **A [[p/_person|person]] who [[d/_dedicates|dedicates]] themselves to [[g/_god|God]].**
 - **A [[p/_professed|professed]] [[l/_lover|lover]].**
-- **A [[p/_person|person]] of [[l/_low|low]] [[c/_condition|condition]] or spirit.**
+- **A [[p/_person|person]] of [[l/_low|low]] [[c/_condition|condition]] or [[s/_spirit|spirit]].**
 ---
 #verb
 - **To subject.**

@@ -1,7 +1,7 @@
 # Adheres
 ---
 #verb
-- **To stick [[f/_fast|fast]] or [[c/_cleave|cleave]], as a [[g/_glutinous|glutinous]] substance [[d/_does|does]]; to [[b/_become|become]] [[j/_joined|joined]] or united.**
+- **To [[s/_stick|stick]] [[f/_fast|fast]] or [[c/_cleave|cleave]], as a [[g/_glutinous|glutinous]] substance [[d/_does|does]]; to [[b/_become|become]] [[j/_joined|joined]] or united.**
 	- _Example: wax adhered to his finger_
 - **To be [[a/_attached|attached]] or [[d/_devoted|devoted]] by [[p/_personal|personal]] union, in [[b/_belief|belief]], on [[p/_principle|principle]], [[e/_etc|etc]].**
 - **To be [[c/_consistent|consistent]] or [[c/_coherent|coherent]]; to be in [[a/_accordance|accordance]]; to [[a/_agree|agree]].**

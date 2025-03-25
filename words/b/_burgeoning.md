@@ -9,7 +9,7 @@
 ### Synonyms
 - [[b/_blossom|blossom]], [[b/_bud|bud]], [[g/_green|green]], [[s/_sprout|sprout]], [[b/_blossom|blossom]], [[e/_expand|expand]], [[g/_grow|grow]], [[s/_sprout|sprout]]
 #noun
-- **The [[a/_act|act]] of [[b/_budding|budding]] or sprouting.**
+- **The [[a/_act|act]] of [[b/_budding|budding]] or [[s/_sprouting|sprouting]].**
 - **A [[b/_bud|bud]] or [[b/_branch|branch]].**
 - **(by [[e/_extension|extension]]) A [[n/_new|new]] [[g/_growth|growth]] or [[e/_expansion|expansion]] of [[s/_something|something]].**
 ---

@@ -1,7 +1,7 @@
 # Smashes
 ---
 #noun
-- **The [[s/_sound|sound]] of a violent [[i/_impact|impact]]; a violent striking together.**
+- **The [[s/_sound|sound]] of a violent [[i/_impact|impact]]; a violent [[s/_striking|striking]] together.**
 	- _Example: I could hear the screech of the brakes, then the horrible smash of cars colliding._
 - **A traffic [[c/_collision|collision]].**
 	- _Example: The driver and two passengers were badly injured in the smash._

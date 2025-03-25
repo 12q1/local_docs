@@ -10,7 +10,7 @@
 - **To [[p/_provide|provide]] with [[s/_something|something]] [[d/_desired|desired]], [[n/_needed|needed]], or [[c/_convenient|convenient]].**
 	- _Example: to accommodate a friend with a loan_
 - **To [[d/_do|do]] a [[f/_favor|favor]] or [[s/_service|service]] for; to [[o/_oblige|oblige]].**
-- **To [[s/_show|show]] the [[c/_correspondence|correspondence]] of; to [[a/_apply|apply]] or [[m/_make|make]] suit by [[a/_analogy|analogy]]; to [[a/_adapt|adapt]] or [[f/_fit|fit]], as teachings to [[a/_accidental|accidental]] [[c/_circumstances|circumstances]], statements to [[f/_facts|facts]], [[e/_etc|etc]].**
+- **To [[s/_show|show]] the [[c/_correspondence|correspondence]] of; to [[a/_apply|apply]] or [[m/_make|make]] suit by [[a/_analogy|analogy]]; to [[a/_adapt|adapt]] or [[f/_fit|fit]], as teachings to [[a/_accidental|accidental]] [[c/_circumstances|circumstances]], [[s/_statements|statements]] to [[f/_facts|facts]], [[e/_etc|etc]].**
 	- _Example: to accommodate prophecy to events_
 - **To [[g/_give|give]] [[c/_consideration|consideration]] to; to [[a/_allow|allow]] for.**
 - **To [[c/_contain|contain]] [[c/_comfortably|comfortably]]; to [[h/_have|have]] [[s/_space|space]] for.**

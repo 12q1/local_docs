@@ -3,8 +3,8 @@
 #verb
 - **To [[h/_hit|hit]] with a [[b/_bat|bat]] or ([[f/_figuratively|figuratively]]) as [[i/_if|if]] with a [[b/_bat|bat]].**
 	- _Example: He batted the ball away with a satisfying thwack._
-- **To take a turn at [[h/_hitting|hitting]] a [[b/_ball|ball]] with a [[b/_bat|bat]] in sports [[l/_like|like]] [[c/_cricket|cricket]], [[b/_baseball|baseball]] and [[s/_softball|softball]], as [[o/_opposed|opposed]] to [[f/_fielding|fielding]].**
-- **To strike or swipe as though with a [[b/_bat|bat]].**
+- **To take a turn at [[h/_hitting|hitting]] a [[b/_ball|ball]] with a [[b/_bat|bat]] in [[s/_sports|sports]] [[l/_like|like]] [[c/_cricket|cricket]], [[b/_baseball|baseball]] and [[s/_softball|softball]], as [[o/_opposed|opposed]] to [[f/_fielding|fielding]].**
+- **To [[s/_strike|strike]] or swipe as though with a [[b/_bat|bat]].**
 	- _Example: The cat batted at the toy._
 ---
 #verb

@@ -8,7 +8,7 @@
 - **A topic.**
 - **A [[f/_frame|frame]] of [[m/_mind|mind]].**
 	- _Example: I'm in a strange place at the moment._
-- **A [[c/_chess|chess]] [[p/_position|position]]; a square of the [[c/_chessboard|chessboard]].**
+- **A [[c/_chess|chess]] [[p/_position|position]]; a [[s/_square|square]] of the [[c/_chessboard|chessboard]].**
 - **([[s/_social|social]]) A [[r/_responsibility|responsibility]] or [[p/_position|position]] in an [[o/_organization|organization]].**
 - **A [[f/_fortified|fortified]] [[p/_position|position]]: a [[f/_fortress|fortress]], [[c/_citadel|citadel]], or walled town.**
 - **[[n/_numerically|Numerically]], the [[c/_column|column]] [[c/_counting|counting]] a [[c/_certain|certain]] [[q/_quantity|quantity]].**
@@ -20,9 +20,9 @@
 ### Synonyms
 - [[m/_mindset|mindset]], [[m/_mood|mood]], [[l/_location|location]], [[p/_position|position]], [[s/_situation|situation]], [[s/_spot|spot]], [[s/_stead|stead]], [[s/_stell|stell]], [[c/_courtyard|courtyard]], [[p/_piazza|piazza]], [[p/_plaza|plaza]], [[s/_square|square]], [[s/_seat|seat]]
 #verb
-- **To [[p/_put|put]] (an [[o/_object|object]] or [[p/_person|person]]) in a specific [[l/_location|location]].**
+- **To [[p/_put|put]] (an [[o/_object|object]] or [[p/_person|person]]) in a [[s/_specific|specific]] [[l/_location|location]].**
 	- _Example: He placed the glass on the table._
-- **To [[e/_earn|earn]] a [[g/_given|given]] spot in a [[c/_competition|competition]].**
+- **To [[e/_earn|earn]] a [[g/_given|given]] [[s/_spot|spot]] in a [[c/_competition|competition]].**
 	- _Example: The Cowboys placed third in the league._
 - **To [[r/_remember|remember]] where and when (an [[o/_object|object]] or [[p/_person|person]]) [[h/_has|has]] [[b/_been|been]] [[p/_previously|previously]] [[e/_encountered|encountered]].**
 	- _Example: I've seen him before, but I can't quite place where._

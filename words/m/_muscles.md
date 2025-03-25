@@ -5,8 +5,8 @@
 	- _Example: Muscle consists largely of actin and myosin filaments._
 - **An [[o/_organ|organ]] [[c/_composed|composed]] of [[m/_muscle|muscle]] tissue.**
 - **(usually in the [[p/_plural|plural]]) A well-[[d/_developed|developed]] [[p/_physique|physique]], in which the [[m/_muscles|muscles]] are [[e/_enlarged|enlarged]] from [[e/_exercise|exercise]].**
-- **Strength, [[f/_force|force]].**
-- **[[h/_hired|Hired]] strongmen or [[b/_bodyguards|bodyguards]].**
+- **[[s/_strength|Strength]], [[f/_force|force]].**
+- **[[h/_hired|Hired]] [[s/_strongmen|strongmen]] or [[b/_bodyguards|bodyguards]].**
 ---
 ### Synonyms
 - [[t/_thew|thew]]

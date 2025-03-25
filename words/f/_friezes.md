@@ -1,7 +1,7 @@
 # Friezes
 ---
 #noun
-- **A [[k/_kind|kind]] of [[c/_coarse|coarse]] woolen [[c/_cloth|cloth]] or stuff with a [[s/_shaggy|shaggy]] or tufted ([[f/_friezed|friezed]]) [[n/_nap|nap]] on [[o/_one|one]] [[s/_side|side]].**
+- **A [[k/_kind|kind]] of [[c/_coarse|coarse]] woolen [[c/_cloth|cloth]] or [[s/_stuff|stuff]] with a [[s/_shaggy|shaggy]] or tufted ([[f/_friezed|friezed]]) [[n/_nap|nap]] on [[o/_one|one]] [[s/_side|side]].**
 ---
 #noun
 - **That [[p/_part|part]] of the [[e/_entablature|entablature]] of an [[o/_order|order]] which is [[b/_between|between]] the [[a/_architrave|architrave]] and [[c/_cornice|cornice]]. It is a [[f/_flat|flat]] [[m/_member|member]] or [[f/_face|face]], [[e/_either|either]] uniform or [[b/_broken|broken]] by triglyphs, and [[o/_often|often]] [[e/_enriched|enriched]] with [[f/_figures|figures]] and [[o/_other|other]] [[o/_ornaments|ornaments]] of [[s/_sculpture|sculpture]].**

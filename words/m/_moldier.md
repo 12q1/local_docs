@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[c/_covered|Covered]] with [[m/_mold|mold]].**
-- **Stale or [[m/_musty|musty]].**
+- **[[s/_stale|Stale]] or [[m/_musty|musty]].**
 ---
 ---

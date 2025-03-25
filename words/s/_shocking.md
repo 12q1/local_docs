@@ -7,14 +7,14 @@
 - **To [[m/_meet|meet]] with a [[s/_shock|shock]]; to [[c/_collide|collide]] in a violent [[e/_encounter|encounter]].**
 ---
 #verb
-- **To [[c/_collect|collect]], or [[m/_make|make]] up, [[i/_into|into]] a [[s/_shock|shock]] or [[s/_shocks|shocks]]; to stook.**
+- **To [[c/_collect|collect]], or [[m/_make|make]] up, [[i/_into|into]] a [[s/_shock|shock]] or [[s/_shocks|shocks]]; to [[s/_stook|stook]].**
 	- _Example: to shock rye_
 ---
 #noun
 - **The [[a/_application|application]] of an [[e/_electric|electric]] [[s/_shock|shock]].**
 ---
 #adjective
-- **[[i/_inspiring|Inspiring]] [[s/_shock|shock]]; startling.**
+- **[[i/_inspiring|Inspiring]] [[s/_shock|shock]]; [[s/_startling|startling]].**
 - **Unusually [[o/_obscene|obscene]] or [[l/_lewd|lewd]].**
 - **[[e/_extremely|Extremely]] [[b/_bad|bad]].**
 	- _Example: What a shocking calamity!_

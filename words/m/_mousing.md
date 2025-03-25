@@ -10,7 +10,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[h/_hunting|hunting]] [[m/_mice|mice]] (or [[s/_similar|similar]] [[p/_prey|prey]]), [[e/_especially|especially]] by [[p/_pouncing|pouncing]] on them from [[a/_above|above]].**
-- **A turn or [[l/_lashing|lashing]] of spun [[y/_yarn|yarn]] or [[s/_small|small]] stuff, or a [[m/_metallic|metallic]] [[c/_clasp|clasp]] or [[f/_fastening|fastening]], uniting the [[p/_point|point]] and [[s/_shank|shank]] of a [[h/_hook|hook]] to [[p/_prevent|prevent]] [[i/_its|its]] unhooking or straightening [[o/_out|out]].**
+- **A turn or [[l/_lashing|lashing]] of [[s/_spun|spun]] [[y/_yarn|yarn]] or [[s/_small|small]] [[s/_stuff|stuff]], or a [[m/_metallic|metallic]] [[c/_clasp|clasp]] or [[f/_fastening|fastening]], uniting the [[p/_point|point]] and [[s/_shank|shank]] of a [[h/_hook|hook]] to [[p/_prevent|prevent]] [[i/_its|its]] unhooking or [[s/_straightening|straightening]] [[o/_out|out]].**
 - **A [[r/_ratchet|ratchet]] [[m/_movement|movement]] in a [[l/_loom|loom]].**
 ---
 #adjective

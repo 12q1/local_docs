@@ -1,9 +1,9 @@
 # Pool
 ---
 #noun
-- **A [[s/_small|small]] and [[r/_rather|rather]] [[d/_deep|deep]] [[c/_collection|collection]] of (usually) [[f/_fresh|fresh]] water, as [[o/_one|one]] supplied by a spring, or [[o/_occurring|occurring]] in the [[c/_course|course]] of a stream; a [[r/_reservoir|reservoir]] for water.**
+- **A [[s/_small|small]] and [[r/_rather|rather]] [[d/_deep|deep]] [[c/_collection|collection]] of (usually) [[f/_fresh|fresh]] water, as [[o/_one|one]] supplied by a [[s/_spring|spring]], or [[o/_occurring|occurring]] in the [[c/_course|course]] of a [[s/_stream|stream]]; a [[r/_reservoir|reservoir]] for water.**
 	- _Example: the pools of Solomon_
-- **A [[s/_small|small]] [[b/_body|body]] of standing or stagnant water; a [[p/_puddle|puddle]].**
+- **A [[s/_small|small]] [[b/_body|body]] of [[s/_standing|standing]] or [[s/_stagnant|stagnant]] water; a [[p/_puddle|puddle]].**
 - **A supply of [[r/_resources|resources]].**
 	- _Example: There is a limited pool of candidates from which to choose the new manager._
 - **(by [[e/_extension|extension]]) A [[s/_set|set]] of [[r/_resources|resources]] that are [[k/_kept|kept]] [[r/_ready|ready]] to use.**

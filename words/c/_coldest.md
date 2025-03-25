@@ -27,7 +27,7 @@
 - **[[d/_distant|Distant]]; [[s/_said|said]], in the [[g/_game|game]] of [[h/_hunting|hunting]] for [[s/_some|some]] [[o/_object|object]], of a [[s/_seeker|seeker]] [[r/_remote|remote]] from the thing [[c/_concealed|concealed]]. [[c/_compare|Compare]] warm and [[h/_hot|hot]].**
 	- _Example: You're cold … getting warmer … hot! You've found it!_
 - **[[h/_having|Having]] a [[b/_bluish|bluish]] [[e/_effect|effect]]; not warm in [[c/_colour|colour]].**
-- **[[r/_rarely|Rarely]] used or [[a/_accessed|accessed]], and thus [[a/_able|able]] to be [[r/_relegated|relegated]] to [[s/_slower|slower]] storage.**
+- **[[r/_rarely|Rarely]] used or [[a/_accessed|accessed]], and thus [[a/_able|able]] to be [[r/_relegated|relegated]] to [[s/_slower|slower]] [[s/_storage|storage]].**
 - **Without [[c/_compassion|compassion]]; [[h/_heartless|heartless]]; [[r/_ruthless|ruthless]]**
 	- _Example: I can't believe she said that...that was cold!_
 ---

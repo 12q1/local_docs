@@ -1,7 +1,7 @@
 # Consort
 ---
 #noun
-- **The spouse of a [[m/_monarch|monarch]].**
+- **The [[s/_spouse|spouse]] of a [[m/_monarch|monarch]].**
 - **A [[h/_husband|husband]], wife, [[c/_companion|companion]] or [[p/_partner|partner]].**
 - **A [[s/_ship|ship]] [[a/_accompanying|accompanying]] [[a/_another|another]].**
 - **[[a/_association|Association]] or [[p/_partnership|partnership]].**

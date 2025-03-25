@@ -1,7 +1,7 @@
 # Lack
 ---
 #noun
-- **A [[d/_defect|defect]] or [[f/_failing|failing]]; [[m/_moral|moral]] or spiritual [[d/_degeneracy|degeneracy]].**
+- **A [[d/_defect|defect]] or [[f/_failing|failing]]; [[m/_moral|moral]] or [[s/_spiritual|spiritual]] [[d/_degeneracy|degeneracy]].**
 - **A [[d/_deficiency|deficiency]] or [[n/_need|need]] (of [[s/_something|something]] [[d/_desirable|desirable]] or [[n/_necessary|necessary]]); an [[a/_absence|absence]], want.**
 ---
 ### Antonyms

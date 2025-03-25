@@ -1,9 +1,9 @@
 # Distribution
 ---
 #noun
-- **An [[a/_act|act]] of [[d/_distributing|distributing]] or state of [[b/_being|being]] [[d/_distributed|distributed]].**
+- **An [[a/_act|act]] of [[d/_distributing|distributing]] or [[s/_state|state]] of [[b/_being|being]] [[d/_distributed|distributed]].**
 - **An [[a/_apportionment|apportionment]] by [[l/_law|law]] (of [[f/_funds|funds]], [[p/_property|property]]).**
-- **The [[p/_process|process]] by which [[g/_goods|goods]] [[g/_get|get]] to [[f/_final|final]] [[c/_consumers|consumers]] [[o/_over|over]] a [[g/_geographical|geographical]] [[m/_market|market]], [[i/_including|including]] storing, [[s/_selling|selling]], [[s/_shipping|shipping]] and [[a/_advertising|advertising]].**
+- **The [[p/_process|process]] by which [[g/_goods|goods]] [[g/_get|get]] to [[f/_final|final]] [[c/_consumers|consumers]] [[o/_over|over]] a [[g/_geographical|geographical]] [[m/_market|market]], [[i/_including|including]] [[s/_storing|storing]], [[s/_selling|selling]], [[s/_shipping|shipping]] and [[a/_advertising|advertising]].**
 - **[[a/_anything|Anything]] [[d/_distributed|distributed]]; [[p/_portion|portion]]; [[s/_share|share]].**
 - **The [[r/_result|result]] of [[d/_distributing|distributing]]; [[a/_arrangement|arrangement]].**
 - **The total [[n/_number|number]] of [[s/_something|something]] [[s/_sold|sold]] or [[d/_delivered|delivered]] to the [[c/_clients|clients]].**
@@ -16,10 +16,10 @@
 - **A [[p/_probability|probability]] [[d/_distribution|distribution]]; the [[s/_set|set]] of [[r/_relative|relative]] [[l/_likelihoods|likelihoods]] that a variable will [[h/_have|have]] a value in a [[g/_given|given]] [[i/_interval|interval]].**
 - **A subset of the tangent [[b/_bundle|bundle]] of a [[m/_manifold|manifold]] that [[s/_satisfies|satisfies]] [[c/_certain|certain]] [[p/_properties|properties]]; used to [[c/_construct|construct]] the [[n/_notions|notions]] of [[i/_integrability|integrability]] and [[f/_foliation|foliation]] of a [[m/_manifold|manifold]].**
 - **A [[s/_set|set]] of [[b/_bundled|bundled]] [[s/_software|software]] [[c/_components|components]]; distro.**
-- **The [[p/_process|process]] or [[r/_result|result]] of the [[s/_sale|sale]] of [[s/_securities|securities]], [[e/_especially|especially]] their [[p/_placement|placement]] [[a/_among|among]] [[i/_investors|investors]] with [[l/_long|long]]-term [[i/_investment|investment]] strategies.**
+- **The [[p/_process|process]] or [[r/_result|result]] of the [[s/_sale|sale]] of [[s/_securities|securities]], [[e/_especially|especially]] their [[p/_placement|placement]] [[a/_among|among]] [[i/_investors|investors]] with [[l/_long|long]]-term [[i/_investment|investment]] [[s/_strategies|strategies]].**
 - **The [[r/_resolution|resolution]] of a whole [[i/_into|into]] [[i/_its|its]] [[p/_parts|parts]].**
 - **The [[p/_process|process]] of [[s/_sorting|sorting]] the types and [[p/_placing|placing]] them in their [[p/_proper|proper]] [[b/_boxes|boxes]] in the [[c/_cases|cases]].**
-- **(steam [[e/_engines|engines]]) The steps or [[o/_operations|operations]] by which steam is supplied to and withdrawn from the [[c/_cylinder|cylinder]] at [[e/_each|each]] stroke of the [[p/_piston|piston]]: [[a/_admission|admission]], suppression or [[c/_cutting|cutting]] [[o/_off|off]], [[r/_release|release]] or [[e/_exhaust|exhaust]], and [[c/_compression|compression]] of [[e/_exhaust|exhaust]] steam [[p/_prior|prior]] to the [[n/_next|next]] [[a/_admission|admission]].**
+- **([[s/_steam|steam]] [[e/_engines|engines]]) The [[s/_steps|steps]] or [[o/_operations|operations]] by which [[s/_steam|steam]] is supplied to and withdrawn from the [[c/_cylinder|cylinder]] at [[e/_each|each]] [[s/_stroke|stroke]] of the [[p/_piston|piston]]: [[a/_admission|admission]], suppression or [[c/_cutting|cutting]] [[o/_off|off]], [[r/_release|release]] or [[e/_exhaust|exhaust]], and [[c/_compression|compression]] of [[e/_exhaust|exhaust]] [[s/_steam|steam]] [[p/_prior|prior]] to the [[n/_next|next]] [[a/_admission|admission]].**
 - **A [[r/_rhetorical|rhetorical]] technique in which a subject is [[d/_divided|divided]] [[i/_into|into]] [[m/_multiple|multiple]] [[c/_cases|cases]] [[b/_based|based]] on [[s/_some|some]] [[p/_property|property]] or [[p/_properties|properties]], and [[e/_each|each]] [[c/_case|case]] is [[a/_addressed|addressed]] [[i/_individually|individually]].**
 ---
 ---

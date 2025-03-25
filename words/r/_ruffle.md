@@ -1,12 +1,12 @@
 # Ruffle
 ---
 #noun
-- **[[a/_any|Any]] [[g/_gathered|gathered]] or [[c/_curled|curled]] strip of [[f/_fabric|fabric]] [[a/_added|added]] as trim or [[d/_decoration|decoration]].**
+- **[[a/_any|Any]] [[g/_gathered|gathered]] or [[c/_curled|curled]] [[s/_strip|strip]] of [[f/_fabric|fabric]] [[a/_added|added]] as trim or [[d/_decoration|decoration]].**
 	- _Example: She loved the dress with the lace ruffle at the hem._
 - **[[d/_disturbance|Disturbance]]; [[a/_agitation|agitation]]; [[c/_commotion|commotion]].**
 	- _Example: to put the mind in a ruffle_
 - **A [[l/_low|low]], vibrating [[b/_beat|beat]] of a [[d/_drum|drum]], [[q/_quieter|quieter]] than a [[r/_roll|roll]]; a [[r/_ruff|ruff]].**
-- **The [[c/_connected|connected]] [[s/_series|series]] of [[l/_large|large]] [[e/_egg|egg]] [[c/_capsules|capsules]], or [[o/_oothecae|oothecae]], of [[s/_several|several]] species of [[a/_american|American]] [[m/_marine|marine]] [[g/_gastropods|gastropods]] of the [[g/_genus|genus]] [[f/_fulgur|Fulgur]].**
+- **The [[c/_connected|connected]] [[s/_series|series]] of [[l/_large|large]] [[e/_egg|egg]] [[c/_capsules|capsules]], or [[o/_oothecae|oothecae]], of [[s/_several|several]] [[s/_species|species]] of [[a/_american|American]] [[m/_marine|marine]] [[g/_gastropods|gastropods]] of the [[g/_genus|genus]] [[f/_fulgur|Fulgur]].**
 ---
 ### Synonyms
 - [[f/_frill|frill]], [[f/_furbelow|furbelow]]

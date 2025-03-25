@@ -5,12 +5,12 @@
 	- _Example: Who heads the board of trustees?_
 - **To [[c/_come|come]] at the [[b/_beginning|beginning]] of; to [[c/_commence|commence]].**
 	- _Example: A group of clowns headed the procession._
-- **To strike with the [[h/_head|head]]; as in [[s/_soccer|soccer]], to [[h/_head|head]] the [[b/_ball|ball]]**
-- **To [[m/_move|move]] in a specified [[d/_direction|direction]].**
+- **To [[s/_strike|strike]] with the [[h/_head|head]]; as in [[s/_soccer|soccer]], to [[h/_head|head]] the [[b/_ball|ball]]**
+- **To [[m/_move|move]] in a [[s/_specified|specified]] [[d/_direction|direction]].**
 	- _Example: How does the ship head?_
 - **To [[r/_remove|remove]] the [[h/_head|head]] from a [[f/_fish|fish]].**
 	- _Example: The salmon are first headed and then scaled._
-- **To [[o/_originate|originate]]; to spring; to [[h/_have|have]] [[i/_its|its]] [[c/_course|course]], as a [[r/_river|river]].**
+- **To [[o/_originate|originate]]; to [[s/_spring|spring]]; to [[h/_have|have]] [[i/_its|its]] [[c/_course|course]], as a [[r/_river|river]].**
 - **To [[f/_form|form]] a [[h/_head|head]].**
 	- _Example: This kind of cabbage heads early._
 - **To [[f/_form|form]] a [[h/_head|head]] to; to [[f/_fit|fit]] or [[f/_furnish|furnish]] with a [[h/_head|head]].**
@@ -20,7 +20,7 @@
 - **To [[b/_behead|behead]]; to [[d/_decapitate|decapitate]].**
 - **To [[g/_go|go]] in [[f/_front|front]] of.**
 	- _Example: to head a drove of cattle_
-- **To [[g/_get|get]] in the [[f/_front|front]] of, [[s/_so|so]] as to [[h/_hinder|hinder]] or stop; to [[o/_oppose|oppose]].**
+- **To [[g/_get|get]] in the [[f/_front|front]] of, [[s/_so|so]] as to [[h/_hinder|hinder]] or [[s/_stop|stop]]; to [[o/_oppose|oppose]].**
 	- _Example: The wind headed the ship and made progress difficult._
 - **(by [[e/_extension|extension]]) To [[c/_check|check]] or [[r/_restrain|restrain]].**
 - **To [[s/_set|set]] on the [[h/_head|head]].**
@@ -31,8 +31,8 @@
 - **The [[d/_direction|direction]] [[i/_into|into]] which a [[s/_seagoing|seagoing]] or [[a/_airborne|airborne]] vessel'[[s/_s|s]] [[b/_bow|bow]] is [[p/_pointing|pointing]] ([[a/_apparent|apparent]] [[h/_heading|heading]]) and/or the [[d/_direction|direction]] [[i/_into|into]] which it is [[a/_actually|actually]] [[m/_moving|moving]] [[r/_relative|relative]] to the [[g/_ground|ground]] (true [[h/_heading|heading]])**
 - **[[m/_material|Material]] for the [[h/_heads|heads]] of [[c/_casks|casks]], [[b/_barrels|barrels]], [[e/_etc|etc]].**
 - **A [[g/_gallery|gallery]], [[d/_drift|drift]], or [[a/_adit|adit]] in a [[m/_mine|mine]]; [[a/_also|also]], the [[e/_end|end]] of a [[d/_drift|drift]] or [[g/_gallery|gallery]]; the vein [[a/_above|above]] a [[d/_drift|drift]].**
-- **The [[e/_extension|extension]] of a [[l/_line|line]] [[r/_ruffling|ruffling]] [[a/_above|above]] the [[l/_line|line]] of stitch.**
-- **The [[e/_end|end]] of a stone or [[b/_brick|brick]] which is [[p/_presented|presented]] [[o/_outward|outward]].**
-- **([[f/_flags|flags]]) A strip of [[m/_material|material]] at the [[h/_hoist|hoist]] [[e/_end|end]] of a [[f/_flag|flag]], used for [[a/_attaching|attaching]] the [[f/_flag|flag]] to [[i/_its|its]] [[h/_halyard|halyard]].**
+- **The [[e/_extension|extension]] of a [[l/_line|line]] [[r/_ruffling|ruffling]] [[a/_above|above]] the [[l/_line|line]] of [[s/_stitch|stitch]].**
+- **The [[e/_end|end]] of a [[s/_stone|stone]] or [[b/_brick|brick]] which is [[p/_presented|presented]] [[o/_outward|outward]].**
+- **([[f/_flags|flags]]) A [[s/_strip|strip]] of [[m/_material|material]] at the [[h/_hoist|hoist]] [[e/_end|end]] of a [[f/_flag|flag]], used for [[a/_attaching|attaching]] the [[f/_flag|flag]] to [[i/_its|its]] [[h/_halyard|halyard]].**
 ---
 ---

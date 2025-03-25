@@ -3,7 +3,7 @@
 #noun
 - **A [[h/_heavy|heavy]], [[p/_pliable|pliable]], [[i/_inelastic|inelastic]] [[m/_metal|metal]] [[e/_element|element]], [[h/_having|having]] a [[b/_bright|bright]], [[b/_bluish|bluish]] [[c/_color|color]], but [[e/_easily|easily]] tarnished; [[b/_both|both]] [[m/_malleable|malleable]] and [[d/_ductile|ductile]], though with [[l/_little|little]] tenacity. It is [[e/_easily|easily]] [[f/_fusible|fusible]], [[f/_forms|forms]] [[a/_alloys|alloys]] with [[o/_other|other]] [[m/_metals|metals]], and is an [[i/_ingredient|ingredient]] of [[s/_solder|solder]] and type [[m/_metal|metal]]. [[a/_atomic|Atomic]] [[n/_number|number]] 82, [[s/_symbol|symbol]] Pb (from [[l/_latin|Latin]] [[p/_plumbum|plumbum]]).**
 - **A [[p/_plummet|plummet]] or [[m/_mass|mass]] of [[l/_lead|lead]] [[a/_attached|attached]] to a [[l/_line|line]], used in [[s/_sounding|sounding]] [[d/_depth|depth]] at [[s/_sea|sea]] or to [[e/_estimate|estimate]] velocity in [[k/_knots|knots]].**
-- **A thin strip of type [[m/_metal|metal]], used to [[s/_separate|separate]] [[l/_lines|lines]] of type in [[p/_printing|printing]].**
+- **A thin [[s/_strip|strip]] of type [[m/_metal|metal]], used to [[s/_separate|separate]] [[l/_lines|lines]] of type in [[p/_printing|printing]].**
 - **Vertical [[s/_space|space]] in [[a/_advance|advance]] of a [[r/_row|row]] or [[b/_between|between]] [[r/_rows|rows]] of text. [[a/_also|Also]] [[k/_known|known]] as [[l/_leading|leading]].**
 	- _Example: This copy has too much lead; I prefer less space between the lines._
 - **[[s/_sheets|Sheets]] or [[p/_plates|plates]] of [[l/_lead|lead]] used as a [[c/_covering|covering]] for [[r/_roofs|roofs]].**
@@ -21,10 +21,10 @@
 #noun
 - **The [[a/_act|act]] of [[l/_leading|leading]] or [[c/_conducting|conducting]]; [[g/_guidance|guidance]]; [[d/_direction|direction]], [[c/_course|course]]**
 	- _Example: to be under the lead of another_
-- **[[p/_precedence|Precedence]]; [[a/_advance|advance]] [[p/_position|position]]; [[a/_also|also]], the [[m/_measure|measure]] of [[p/_precedence|precedence]]; the state of [[b/_being|being]] [[a/_ahead|ahead]] in a [[r/_race|race]]; the [[h/_highest|highest]] [[s/_score|score]] in a [[g/_game|game]] in an [[i/_incomplete|incomplete]] [[g/_game|game]].**
+- **[[p/_precedence|Precedence]]; [[a/_advance|advance]] [[p/_position|position]]; [[a/_also|also]], the [[m/_measure|measure]] of [[p/_precedence|precedence]]; the [[s/_state|state]] of [[b/_being|being]] [[a/_ahead|ahead]] in a [[r/_race|race]]; the [[h/_highest|highest]] [[s/_score|score]] in a [[g/_game|game]] in an [[i/_incomplete|incomplete]] [[g/_game|game]].**
 	- _Example: She lost the lead._
 - **An [[i/_insulated|insulated]] [[m/_metallic|metallic]] wire for [[e/_electrical|electrical]] [[d/_devices|devices]] and [[e/_equipment|equipment]].**
-- **The [[s/_situation|situation]] where a [[r/_runner|runner]] steps [[a/_away|away]] from a [[b/_base|base]] while waiting for the [[p/_pitch|pitch]] to be thrown.**
+- **The [[s/_situation|situation]] where a [[r/_runner|runner]] [[s/_steps|steps]] [[a/_away|away]] from a [[b/_base|base]] while waiting for the [[p/_pitch|pitch]] to be thrown.**
 	- _Example: The runner took his lead from first._
 - **The [[a/_act|act]] or [[r/_right|right]] of [[p/_playing|playing]] [[f/_first|first]] in a [[g/_game|game]] or [[r/_round|round]]; the [[c/_card|card]] suit, or [[p/_piece|piece]], [[s/_so|so]] [[p/_played|played]]**
 	- _Example: your partner has the lead_
@@ -33,8 +33,8 @@
 - **A [[c/_channel|channel]] of [[o/_open|open]] water in an [[i/_ice|ice]] [[f/_field|field]].**
 - **A [[l/_lode|lode]].**
 - **The [[c/_course|course]] of a [[r/_rope|rope]] from [[e/_end|end]] to [[e/_end|end]].**
-- **A [[r/_rope|rope]], [[l/_leather|leather]] strap, or [[s/_similar|similar]] [[d/_device|device]] with which to [[l/_lead|lead]] an [[a/_animal|animal]]; a [[l/_leash|leash]]**
-- **In a steam [[e/_engine|engine]], the width of [[p/_port|port]] [[o/_opening|opening]] which is uncovered by the valve, for the [[a/_admission|admission]] or [[r/_release|release]] of steam, at the [[i/_instant|instant]] when the [[p/_piston|piston]] is at [[e/_end|end]] of [[i/_its|its]] stroke.**
+- **A [[r/_rope|rope]], [[l/_leather|leather]] [[s/_strap|strap]], or [[s/_similar|similar]] [[d/_device|device]] with which to [[l/_lead|lead]] an [[a/_animal|animal]]; a [[l/_leash|leash]]**
+- **In a [[s/_steam|steam]] [[e/_engine|engine]], the width of [[p/_port|port]] [[o/_opening|opening]] which is uncovered by the valve, for the [[a/_admission|admission]] or [[r/_release|release]] of [[s/_steam|steam]], at the [[i/_instant|instant]] when the [[p/_piston|piston]] is at [[e/_end|end]] of [[i/_its|its]] [[s/_stroke|stroke]].**
 	- _Example: Usage note: When used alone it means outside lead, or lead for the admission of steam. Inside lead refers to the release or exhaust._
 - **[[c/_charging|Charging]] [[l/_lead|lead]].**
 - **The [[d/_distance|distance]] of [[h/_haul|haul]], as from a [[c/_cutting|cutting]] to an [[e/_embankment|embankment]].**
@@ -47,9 +47,9 @@
 	- _Example: Joe is a great addition to our sales team, he has numerous leads in the paper industry._
 - **[[i/_information|Information]] [[o/_obtained|obtained]] by a [[n/_news|news]] [[r/_reporter|reporter]] [[a/_about|about]] an [[i/_issue|issue]] or subject that [[a/_allows|allows]] [[h/_him|him]] or [[h/_her|her]] to [[d/_discover|discover]] [[m/_more|more]] [[d/_details|details]].**
 - **The [[p/_player|player]] who throws the [[f/_first|first]] two [[r/_rocks|rocks]] for a team.**
-- **([[n/_newspapers|newspapers]]) A teaser; a [[l/_lead|lead]]-in; the start of a [[n/_newspaper|newspaper]] [[c/_column|column]], telling who, what, when, where, why and [[h/_how|how]]. ([[s/_sometimes|Sometimes]] spelled as [[l/_lede|lede]] for this usage to [[a/_avoid|avoid]] [[a/_ambiguity|ambiguity]].)**
-- **An [[i/_important|important]] [[n/_news|news]] story that [[a/_appears|appears]] on the [[f/_front|front]] [[p/_page|page]] of a [[n/_newspaper|newspaper]] or at the [[b/_beginning|beginning]] of a [[n/_news|news]] [[b/_broadcast|broadcast]]**
-- **The [[a/_axial|axial]] [[d/_distance|distance]] a [[s/_screw|screw]] thread travels in [[o/_one|one]] [[r/_revolution|revolution]]. It is [[e/_equal|equal]] to the [[p/_pitch|pitch]] times the [[n/_number|number]] of starts.**
+- **([[n/_newspapers|newspapers]]) A teaser; a [[l/_lead|lead]]-in; the [[s/_start|start]] of a [[n/_newspaper|newspaper]] [[c/_column|column]], telling who, what, when, where, why and [[h/_how|how]]. ([[s/_sometimes|Sometimes]] [[s/_spelled|spelled]] as [[l/_lede|lede]] for this usage to [[a/_avoid|avoid]] [[a/_ambiguity|ambiguity]].)**
+- **An [[i/_important|important]] [[n/_news|news]] [[s/_story|story]] that [[a/_appears|appears]] on the [[f/_front|front]] [[p/_page|page]] of a [[n/_newspaper|newspaper]] or at the [[b/_beginning|beginning]] of a [[n/_news|news]] [[b/_broadcast|broadcast]]**
+- **The [[a/_axial|axial]] [[d/_distance|distance]] a [[s/_screw|screw]] thread travels in [[o/_one|one]] [[r/_revolution|revolution]]. It is [[e/_equal|equal]] to the [[p/_pitch|pitch]] times the [[n/_number|number]] of [[s/_starts|starts]].**
 - **In a [[b/_barbershop|barbershop]] [[q/_quartet|quartet]], the [[p/_person|person]] who [[s/_sings|sings]] the [[m/_melody|melody]], usually the [[s/_second|second]] tenor**
 - **The [[a/_announcement|announcement]] by [[o/_one|one]] voice [[p/_part|part]] of a theme to be [[r/_repeated|repeated]] by the [[o/_other|other]] [[p/_parts|parts]].**
 - **A [[m/_mark|mark]] or a [[s/_short|short]] [[p/_passage|passage]] in [[o/_one|one]] voice [[p/_part|part]], as of a [[c/_canon|canon]], [[s/_serving|serving]] as a [[c/_cue|cue]] for the [[e/_entrance|entrance]] of [[o/_others|others]].**

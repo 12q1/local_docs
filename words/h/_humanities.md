@@ -1,12 +1,12 @@
 # Humanities
 ---
 #noun
-- **The study of [[a/_ancient|Ancient]] [[g/_greek|Greek]] and [[l/_latin|Latin]], their [[l/_literature|literature]], [[h/_history|history]], [[e/_etc|etc]]., [[s/_sometimes|sometimes]] [[i/_inclusive|inclusive]] of the study of the [[a/_ancient|ancient]] [[m/_mediterranean|Mediterranean]] [[g/_generally|generally]].**
+- **The [[s/_study|study]] of [[a/_ancient|Ancient]] [[g/_greek|Greek]] and [[l/_latin|Latin]], their [[l/_literature|literature]], [[h/_history|history]], [[e/_etc|etc]]., [[s/_sometimes|sometimes]] [[i/_inclusive|inclusive]] of the [[s/_study|study]] of the [[a/_ancient|ancient]] [[m/_mediterranean|Mediterranean]] [[g/_generally|generally]].**
 ---
 ### Synonyms
 - [[c/_classics|classics]], [[h/_humanities|humanities]]
 #noun
-- **The study of [[l/_language|language]], [[l/_literature|literature]], the [[a/_arts|arts]], and [[p/_philosophy|philosophy]], [[s/_sometimes|sometimes]] [[i/_including|including]] [[r/_religion|religion]]**
+- **The [[s/_study|study]] of [[l/_language|language]], [[l/_literature|literature]], the [[a/_arts|arts]], and [[p/_philosophy|philosophy]], [[s/_sometimes|sometimes]] [[i/_including|including]] [[r/_religion|religion]]**
 ---
 ### Synonyms
 - [[b/_belles-lettres|belles-lettres]]

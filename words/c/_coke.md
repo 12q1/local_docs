@@ -1,7 +1,7 @@
 # Coke
 ---
 #noun
-- **[[s/_solid|Solid]] [[r/_residue|residue]] from [[r/_roasting|roasting]] [[c/_coal|coal]] in a [[c/_coke|coke]] [[o/_oven|oven]]; used [[p/_principally|principally]] as a [[f/_fuel|fuel]] and in the [[p/_production|production]] of steel and [[f/_formerly|formerly]] as a [[d/_domestic|domestic]] [[f/_fuel|fuel]].**
+- **[[s/_solid|Solid]] [[r/_residue|residue]] from [[r/_roasting|roasting]] [[c/_coal|coal]] in a [[c/_coke|coke]] [[o/_oven|oven]]; used [[p/_principally|principally]] as a [[f/_fuel|fuel]] and in the [[p/_production|production]] of [[s/_steel|steel]] and [[f/_formerly|formerly]] as a [[d/_domestic|domestic]] [[f/_fuel|fuel]].**
 	- _Example: The plant should produce approximately 550,000 tons of screened blast furnace coke per year._
 ---
 #verb

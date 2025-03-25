@@ -10,7 +10,7 @@
 - **[[a/_any|Any]] swimming [[a/_amphipod|amphipod]].**
 - **A swift [[r/_runner|runner]].**
 - **A [[f/_form|form]] of [[g/_garden|garden]] [[h/_hoe|hoe]].**
-- **A [[s/_slap|slap]]; a [[s/_sharp|sharp]] stroke.**
+- **A [[s/_slap|slap]]; a [[s/_sharp|sharp]] [[s/_stroke|stroke]].**
 - **[[p/_pornography|Pornography]].**
 - **The [[d/_drink|drink]] Irn-Bru.**
 	- _Example: a bottle of scud_
@@ -21,8 +21,8 @@
 - **To [[r/_race|race]] [[a/_along|along]] swiftly ([[e/_especially|especially]] used of [[c/_clouds|clouds]]).**
 - **To [[r/_run|run]], or be [[d/_driven|driven]], [[b/_before|before]] a [[h/_high|high]] wind with [[n/_no|no]] [[s/_sails|sails]] [[s/_set|set]].**
 - **To [[h/_hit|hit]] or [[s/_slap|slap]].**
-- **To speed.**
-- **To [[s/_skim|skim]] [[f/_flat|flat]] stones [[s/_so|so]] they [[s/_skip|skip]] [[a/_along|along]] the water.**
+- **To [[s/_speed|speed]].**
+- **To [[s/_skim|skim]] [[f/_flat|flat]] [[s/_stones|stones]] [[s/_so|so]] they [[s/_skip|skip]] [[a/_along|along]] the water.**
 ---
 #adjective
 - **[[n/_naked|Naked]].**

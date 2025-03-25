@@ -9,7 +9,7 @@
 	- _Example: gross anatomy_
 - **[[c/_causing|Causing]] [[d/_disgust|disgust]].**
 	- _Example: I threw up all over the bed. It was totally gross._
-- **[[l/_lacking|Lacking]] [[r/_refinement|refinement]] in [[b/_behaviour|behaviour]] or [[m/_manner|manner]]; [[o/_offending|offending]] a standard of [[m/_morality|morality]].**
+- **[[l/_lacking|Lacking]] [[r/_refinement|refinement]] in [[b/_behaviour|behaviour]] or [[m/_manner|manner]]; [[o/_offending|offending]] a [[s/_standard|standard]] of [[m/_morality|morality]].**
 - **(of a [[p/_product|product]]) [[l/_lacking|Lacking]] [[r/_refinement|refinement]]; not of [[h/_high|high]] [[q/_quality|quality]].**
 - **(of a [[p/_person|person]]) [[h/_heavy|Heavy]] in [[p/_proportion|proportion]] to [[o/_one|one]]'[[s/_s|s]] [[h/_height|height]]; [[h/_having|having]] a [[l/_lot|lot]] of [[e/_excess|excess]] [[f/_flesh|flesh]].**
 - **Not [[s/_sensitive|sensitive]] in [[p/_perception|perception]] or [[f/_feeling|feeling]].**

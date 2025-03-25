@@ -1,8 +1,8 @@
 # Hobbles
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[o/_one|One]] of the [[s/_short|short]] straps tied [[b/_between|between]] the [[l/_legs|legs]] of unfenced [[h/_horses|horses]], [[a/_allowing|allowing]] them to wander [[s/_short|short]] [[d/_distances|distances]] but [[p/_preventing|preventing]] them from [[r/_running|running]] [[o/_off|off]].**
-- **An unsteady, [[o/_off|off]]-[[b/_balance|balance]] step.**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[o/_one|One]] of the [[s/_short|short]] [[s/_straps|straps]] tied [[b/_between|between]] the [[l/_legs|legs]] of unfenced [[h/_horses|horses]], [[a/_allowing|allowing]] them to wander [[s/_short|short]] [[d/_distances|distances]] but [[p/_preventing|preventing]] them from [[r/_running|running]] [[o/_off|off]].**
+- **An unsteady, [[o/_off|off]]-[[b/_balance|balance]] [[s/_step|step]].**
 - **A [[d/_difficult|difficult]] [[s/_situation|situation]]; a [[s/_scrape|scrape]].**
 - **An [[o/_odd|odd]] [[j/_job|job]]; a [[p/_piece|piece]] of [[c/_casual|casual]] work.**
 ---

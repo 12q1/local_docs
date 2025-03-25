@@ -1,6 +1,6 @@
 # Firehall
 ---
 #noun
-- **A [[f/_fire|fire]] station.**
+- **A [[f/_fire|fire]] [[s/_station|station]].**
 ---
 ---

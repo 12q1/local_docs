@@ -18,6 +18,6 @@
 - **To [[a/_affix|affix]] or [[c/_cover|cover]] with [[g/_gaffer|gaffer]] tape.**
 ---
 #noun
-- **A sturdy [[a/_adhesive|adhesive]] tape, [[m/_made|made]] of [[p/_plastic|plastic]] [[r/_reinforced|reinforced]] with [[c/_cross|cross]]-[[l/_linked|linked]] [[f/_fibre|fibre]], [[o/_often|often]] used by [[l/_lighting|lighting]] [[e/_electricians|electricians]].**
+- **A [[s/_sturdy|sturdy]] [[a/_adhesive|adhesive]] tape, [[m/_made|made]] of [[p/_plastic|plastic]] [[r/_reinforced|reinforced]] with [[c/_cross|cross]]-[[l/_linked|linked]] [[f/_fibre|fibre]], [[o/_often|often]] used by [[l/_lighting|lighting]] [[e/_electricians|electricians]].**
 ---
 ---

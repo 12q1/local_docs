@@ -1,7 +1,7 @@
 # Clique
 ---
 #noun
-- **A [[s/_small|small]], [[e/_exclusive|exclusive]] [[g/_group|group]] of [[i/_individuals|individuals]], usually [[a/_according|according]] to [[l/_lifestyle|lifestyle]] or [[s/_social|social]] status; a [[c/_cabal|cabal]].**
+- **A [[s/_small|small]], [[e/_exclusive|exclusive]] [[g/_group|group]] of [[i/_individuals|individuals]], usually [[a/_according|according]] to [[l/_lifestyle|lifestyle]] or [[s/_social|social]] [[s/_status|status]]; a [[c/_cabal|cabal]].**
 	- _Example: This school used to be really friendly, but now everyone keeps to their own cliques._
 - **A subgraph [[i/_isomorphic|isomorphic]] to a [[c/_complete|complete]] [[g/_graph|graph]].**
 	- _Example: The problem of finding the largest clique in an arbitrary graph is NP-complete._

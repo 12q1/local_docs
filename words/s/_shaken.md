@@ -26,7 +26,7 @@
 ### Synonyms
 - [[s/_shiver|shiver]], [[t/_tremble|tremble]], [[t/_traumatize|traumatize]]
 #adjective
-- **In a state of [[s/_shock|shock]] or trauma.**
+- **In a [[s/_state|state]] of [[s/_shock|shock]] or trauma.**
 	- _Example: We were left shaken by the revelations of abuse._
 ---
 ---

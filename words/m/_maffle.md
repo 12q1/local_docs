@@ -1,6 +1,6 @@
 # Maffle
 ---
 #verb
-- **To stammer.**
+- **To [[s/_stammer|stammer]].**
 ---
 ---

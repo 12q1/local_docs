@@ -17,7 +17,7 @@
 ### Synonyms
 - [[s/_spelunk|spelunk]]
 #noun
-- **The [[r/_recreational|recreational]] sport of [[e/_exploring|exploring]] [[c/_caves|caves]].**
+- **The [[r/_recreational|recreational]] [[s/_sport|sport]] of [[e/_exploring|exploring]] [[c/_caves|caves]].**
 - **An [[a/_act|act]] of [[c/_collapsing|collapsing]] or [[c/_caving|caving]] in.**
 ---
 ---

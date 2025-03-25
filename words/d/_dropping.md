@@ -4,21 +4,21 @@
 - **To [[f/_fall|fall]] in [[d/_droplets|droplets]] (of a [[l/_liquid|liquid]]).**
 - **To [[d/_drip|drip]] (a [[l/_liquid|liquid]]).**
 	- _Example: The equipment shows how much the glacier has moved and the amount it dropped in height over the summer._
-- **[[g/_generally|Generally]], to [[f/_fall|fall]] (straight [[d/_down|down]]).**
+- **[[g/_generally|Generally]], to [[f/_fall|fall]] ([[s/_straight|straight]] [[d/_down|down]]).**
 	- _Example: A single shot was fired and the bird dropped from the sky._
 - **To [[l/_let|let]] [[f/_fall|fall]]; to [[a/_allow|allow]] to [[f/_fall|fall]] ([[e/_either|either]] by [[r/_releasing|releasing]] [[h/_hold|hold]] of, or [[l/_losing|losing]] [[o/_one|one]]'[[s/_s|s]] [[g/_grip|grip]] on).**
 	- _Example: Don't drop that plate!   The police ordered the men to drop their weapons._
 - **To [[l/_let|let]] [[d/_drops|drops]] [[f/_fall|fall]]; to [[d/_discharge|discharge]] [[i/_itself|itself]] in [[d/_drops|drops]].**
 - **To [[l/_lower|lower]]; to [[m/_move|move]] to a [[l/_lower|lower]] [[p/_position|position]].**
-- **To [[s/_set|set]] [[d/_down|down]] from a vehicle; to [[d/_deliver|deliver]] or [[d/_deposit|deposit]] by stopping.**
+- **To [[s/_set|set]] [[d/_down|down]] from a vehicle; to [[d/_deliver|deliver]] or [[d/_deposit|deposit]] by [[s/_stopping|stopping]].**
 	- _Example: Could you drop me at the airport on your way to work tomorrow?_
 - **To [[s/_sink|sink]] [[q/_quickly|quickly]] to the [[g/_ground|ground]].**
 	- _Example: Drop and give me thirty push-ups, private!_
 - **To [[f/_fall|fall]] [[d/_dead|dead]], or to [[f/_fall|fall]] in [[d/_death|death]].**
-- **To [[c/_come|come]] to an [[e/_end|end]] (by not [[b/_being|being]] [[k/_kept|kept]] up); to stop.**
+- **To [[c/_come|come]] to an [[e/_end|end]] (by not [[b/_being|being]] [[k/_kept|kept]] up); to [[s/_stop|stop]].**
 - **To [[m/_mention|mention]] [[c/_casually|casually]] or [[i/_incidentally|incidentally]], usually in [[c/_conversation|conversation]].**
 	- _Example: The moderator would drop hints whenever the students struggled._
-- **To [[p/_part|part]] with or spend ([[m/_money|money]]).**
+- **To [[p/_part|part]] with or [[s/_spend|spend]] ([[m/_money|money]]).**
 - **To [[c/_cease|cease]] [[c/_concerning|concerning]] [[o/_oneself|oneself]] [[o/_over|over]]; to [[h/_have|have]] [[n/_nothing|nothing]] [[m/_more|more]] to [[d/_do|do]] with (a subject, [[d/_discussion|discussion]] [[e/_etc|etc]].).**
 	- _Example: I'm tired of this subject. Will you just drop it?_
 - **To [[l/_lessen|lessen]], [[d/_decrease|decrease]], or [[d/_diminish|diminish]] in value, [[c/_condition|condition]], [[d/_degree|degree]], [[e/_etc|etc]].**
@@ -47,7 +47,7 @@
 	- _Example: I love it when he drops his funky beats._
 - **To [[e/_enter|enter]] [[p/_public|public]] [[d/_distribution|distribution]].**
 	- _Example: "Hip-Hop Xmas" dropped in time for the holidays._
-- **To tune (a [[g/_guitar|guitar]] string, [[e/_etc|etc]].) to a [[l/_lower|lower]] [[n/_note|note]].**
+- **To tune (a [[g/_guitar|guitar]] [[s/_string|string]], [[e/_etc|etc]].) to a [[l/_lower|lower]] [[n/_note|note]].**
 - **To [[c/_cancel|cancel]] or [[e/_end|end]] a [[s/_scheduled|scheduled]] [[e/_event|event]], [[p/_project|project]] or [[c/_course|course]].**
 	- _Example: I had to drop calculus because it was taking up too much of my time and I couldn't go anymore._
 - **([[f/_fast|fast]] [[f/_food|food]]) To [[c/_cook|cook]], [[e/_especially|especially]] by [[d/_deep|deep]]-[[f/_frying|frying]] or [[g/_grilling|grilling]].**
@@ -61,7 +61,7 @@
 - **To [[g/_give|give]] [[b/_birth|birth]] to.**
 	- _Example: to drop a lamb_
 - **To [[c/_cover|cover]] with [[d/_drops|drops]]; to variegate; to [[b/_bedrop|bedrop]].**
-- **(of the testicles) To [[h/_hang|hang]] [[l/_lower|lower]] and [[b/_begin|begin]] [[p/_producing|producing]] sperm [[d/_due|due]] to [[p/_puberty|puberty]].**
+- **(of the testicles) To [[h/_hang|hang]] [[l/_lower|lower]] and [[b/_begin|begin]] [[p/_producing|producing]] [[s/_sperm|sperm]] [[d/_due|due]] to [[p/_puberty|puberty]].**
 ---
 ### Synonyms
 - 

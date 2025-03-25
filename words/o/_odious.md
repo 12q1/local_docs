@@ -1,7 +1,7 @@
 # Odious
 ---
 #adjective
-- **[[a/_arousing|Arousing]] or [[m/_meriting|meriting]] strong [[d/_dislike|dislike]], [[a/_aversion|aversion]], or [[i/_intense|intense]] [[d/_displeasure|displeasure]].**
+- **[[a/_arousing|Arousing]] or [[m/_meriting|meriting]] [[s/_strong|strong]] [[d/_dislike|dislike]], [[a/_aversion|aversion]], or [[i/_intense|intense]] [[d/_displeasure|displeasure]].**
 	- _Example: Scrubbing the toilet is an odious task._
 ---
 ### Synonyms

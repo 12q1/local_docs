@@ -8,7 +8,7 @@
 #adjective
 - **[[n/_near|Near]] the [[e/_end|end]] of a [[p/_period|period]] of time.**
 	- _Example: It was late in the evening when we finally arrived._
-- **Specifically, [[n/_near|near]] the [[e/_end|end]] of the [[d/_day|day]].**
+- **[[s/_specifically|Specifically]], [[n/_near|near]] the [[e/_end|end]] of the [[d/_day|day]].**
 	- _Example: It was getting late and I was tired._
 - **(usually not [[c/_comparable|comparable]]) [[a/_associated|Associated]] with the [[e/_end|end]] of a [[p/_period|period]].**
 	- _Example: Late Latin is less fully inflected than classical Latin._
@@ -21,7 +21,7 @@
 - **[[e/_existing|Existing]] or [[h/_holding|holding]] [[s/_some|some]] [[p/_position|position]] not [[l/_long|long]] [[a/_ago|ago]], but not [[n/_now|now]]; [[d/_departed|departed]], or [[g/_gone|gone]] [[o/_out|out]] of [[o/_office|office]].**
 	- _Example: the late administration_
 - **[[r/_recent|Recent]] — [[r/_relative|relative]] to the [[n/_noun|noun]] it [[m/_modifies|modifies]].**
-- **Of a star or [[c/_class|class]] of stars, [[c/_cooler|cooler]] than the sun.**
+- **Of a [[s/_star|star]] or [[c/_class|class]] of [[s/_stars|stars]], [[c/_cooler|cooler]] than the sun.**
 ---
 #adverb
 - **[[a/_after|After]] a [[d/_deadline|deadline]] [[h/_has|has]] [[p/_passed|passed]], [[p/_past|past]] a [[d/_designated|designated]] time.**

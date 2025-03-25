@@ -7,7 +7,7 @@
 - **A [[r/_rose|rose]] [[b/_burner|burner]].**
 - **[[o/_one|One]] or [[m/_more|more]] whorls of [[l/_leaves|leaves]], [[c/_clustered|clustered]] tightly at the [[b/_base|base]] of a [[p/_plant|plant]].**
 - **A [[p/_plant|plant]] [[g/_growth|growth]] [[f/_form|form]] in which the [[p/_plant|plant]] [[g/_grows|grows]] [[o/_outward|outward]] in [[a/_all|all]] [[d/_directions|directions]] for a [[s/_short|short]] [[d/_distance|distance]], [[p/_producing|producing]] a [[s/_small|small]] [[r/_round|round]] [[s/_shape|shape]].**
-- **[[a/_any|Any]] structure [[h/_having|having]] a [[f/_flowerlike|flowerlike]] [[f/_form|form]]; [[e/_especially|especially]], the [[g/_group|group]] of [[f/_five|five]] [[b/_broad|broad]] [[a/_ambulacra|ambulacra]] on the upper [[s/_side|side]] of the [[s/_spatangoid|spatangoid]] and [[c/_clypeastroid|clypeastroid]] [[s/_sea|sea]] urchins.**
+- **[[a/_any|Any]] [[s/_structure|structure]] [[h/_having|having]] a [[f/_flowerlike|flowerlike]] [[f/_form|form]]; [[e/_especially|especially]], the [[g/_group|group]] of [[f/_five|five]] [[b/_broad|broad]] [[a/_ambulacra|ambulacra]] on the upper [[s/_side|side]] of the [[s/_spatangoid|spatangoid]] and [[c/_clypeastroid|clypeastroid]] [[s/_sea|sea]] urchins.**
 - **A [[f/_flowerlike|flowerlike]] [[c/_color|color]] [[m/_marking|marking]], as on the [[l/_leopard|leopard]].**
 - **A [[f/_floral|floral]] [[p/_pattern|pattern]] in latte [[a/_art|art]].**
 - **A [[c/_clustered|clustered]] [[f/_formation|formation]] of tumor [[c/_cells|cells]].**

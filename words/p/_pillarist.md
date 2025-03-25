@@ -1,6 +1,6 @@
 # Pillarist
 ---
 #noun
-- **A stylite.**
+- **A [[s/_stylite|stylite]].**
 ---
 ---

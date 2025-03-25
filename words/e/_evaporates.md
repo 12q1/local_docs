@@ -1,7 +1,7 @@
 # Evaporates
 ---
 #verb
-- **To transition from a [[l/_liquid|liquid]] state [[i/_into|into]] a [[g/_gaseous|gaseous]] state**
+- **To transition from a [[l/_liquid|liquid]] [[s/_state|state]] [[i/_into|into]] a [[g/_gaseous|gaseous]] [[s/_state|state]]**
 - **To [[e/_expel|expel]] [[m/_moisture|moisture]] from (usually by [[m/_means|means]] of [[a/_artificial|artificial]] [[h/_heat|heat]]), [[l/_leaving|leaving]] the [[s/_solid|solid]] [[p/_portion|portion]]**
 	- _Example: to evaporate apples_
 - **To [[g/_give|give]] vent to; to [[d/_dissipate|dissipate]]**

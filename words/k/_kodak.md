@@ -1,8 +1,8 @@
 # Kodak
 ---
 #noun
-- **A [[c/_camera|camera]]: a [[d/_device|device]] for taking still [[p/_photographs|photographs]].**
-- **A still [[p/_photograph|photograph]].**
+- **A [[c/_camera|camera]]: a [[d/_device|device]] for taking [[s/_still|still]] [[p/_photographs|photographs]].**
+- **A [[s/_still|still]] [[p/_photograph|photograph]].**
 ---
 #verb
 - **To [[p/_photograph|photograph]].**

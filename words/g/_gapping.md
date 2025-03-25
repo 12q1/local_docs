@@ -8,7 +8,7 @@
 - **To [[l/_leave|leave]] suddenly.**
 ---
 #noun
-- **A type of [[e/_ellipsis|ellipsis]] that [[o/_occurs|occurs]] in the [[n/_non|non]]-[[i/_initial|initial]] [[c/_conjuncts|conjuncts]] of [[c/_coordinate|coordinate]] structures, and usually [[e/_elides|elides]] [[m/_minimally|minimally]] a [[f/_finite|finite]] verb and [[f/_further|further]] [[a/_any|any]] [[n/_non|non]]-[[f/_finite|finite]] verbs that are [[p/_present|present]]. [[e/_example|Example]]: "[[s/_some|Some]] [[a/_ate|ate]] [[b/_bread|bread]], and [[o/_others|others]] [[r/_rice|rice]]."**
+- **A type of [[e/_ellipsis|ellipsis]] that [[o/_occurs|occurs]] in the [[n/_non|non]]-[[i/_initial|initial]] [[c/_conjuncts|conjuncts]] of [[c/_coordinate|coordinate]] [[s/_structures|structures]], and usually [[e/_elides|elides]] [[m/_minimally|minimally]] a [[f/_finite|finite]] verb and [[f/_further|further]] [[a/_any|any]] [[n/_non|non]]-[[f/_finite|finite]] verbs that are [[p/_present|present]]. [[e/_example|Example]]: "[[s/_some|Some]] [[a/_ate|ate]] [[b/_bread|bread]], and [[o/_others|others]] [[r/_rice|rice]]."**
 - **The [[f/_formation|formation]] of a [[g/_gap|gap]].**
 ---
 ---

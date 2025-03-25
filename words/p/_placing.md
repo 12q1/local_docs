@@ -1,9 +1,9 @@
 # Placing
 ---
 #verb
-- **To [[p/_put|put]] (an [[o/_object|object]] or [[p/_person|person]]) in a specific [[l/_location|location]].**
+- **To [[p/_put|put]] (an [[o/_object|object]] or [[p/_person|person]]) in a [[s/_specific|specific]] [[l/_location|location]].**
 	- _Example: He placed the glass on the table._
-- **To [[e/_earn|earn]] a [[g/_given|given]] spot in a [[c/_competition|competition]].**
+- **To [[e/_earn|earn]] a [[g/_given|given]] [[s/_spot|spot]] in a [[c/_competition|competition]].**
 	- _Example: The Cowboys placed third in the league._
 - **To [[r/_remember|remember]] where and when (an [[o/_object|object]] or [[p/_person|person]]) [[h/_has|has]] [[b/_been|been]] [[p/_previously|previously]] [[e/_encountered|encountered]].**
 	- _Example: I've seen him before, but I can't quite place where._

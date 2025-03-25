@@ -1,7 +1,7 @@
 # Grapples
 ---
 #noun
-- **A [[c/_close|close]] [[h/_hand|hand]]-to-[[h/_hand|hand]] struggle; the [[a/_act|act]] of [[g/_grappling|grappling]].**
+- **A [[c/_close|close]] [[h/_hand|hand]]-to-[[h/_hand|hand]] [[s/_struggle|struggle]]; the [[a/_act|act]] of [[g/_grappling|grappling]].**
 ---
 #verb
 - **To [[s/_seize|seize]] [[s/_something|something]] and [[h/_hold|hold]] it [[f/_firmly|firmly]].**

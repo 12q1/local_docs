@@ -3,7 +3,7 @@
 #noun
 - **[[f/_full|Full]] [[e/_extent|extent]]; [[d/_distance|distance]] [[b/_between|between]] [[e/_extreme|extreme]] [[l/_limits|limits]]; [[e/_especially|especially]]; the [[d/_distance|distance]] [[b/_between|between]] the [[n/_nearest|nearest]] surfaces of two [[b/_bodies|bodies]], or the [[s/_space|space]] [[b/_between|between]] walls.**
 	- _Example: a room ten feet square in the clear_
-- **The [[c/_completion|completion]] of a stage or [[c/_challenge|challenge]], or of the whole [[g/_game|game]].**
+- **The [[c/_completion|completion]] of a [[s/_stage|stage]] or [[c/_challenge|challenge]], or of the whole [[g/_game|game]].**
 - **A [[p/_person|person]] who is [[f/_free|free]] from the [[i/_influence|influence]] of [[e/_engrams|engrams]].**
 ---
 #verb
@@ -19,9 +19,9 @@
 	- _Example: The court cleared the man of murder._
 - **To [[p/_pass|pass]] without [[i/_interference|interference]]; to [[m/_miss|miss]].**
 	- _Example: The door just barely clears the table as it closes._
-- **([[a/_activities|activities]] such as [[j/_jumping|jumping]] or throwing) To [[e/_exceed|exceed]] a stated [[m/_mark|mark]].**
+- **([[a/_activities|activities]] such as [[j/_jumping|jumping]] or throwing) To [[e/_exceed|exceed]] a [[s/_stated|stated]] [[m/_mark|mark]].**
 	- _Example: She was the first female high jumper to clear two metres._
-- **To [[f/_finish|finish]] or [[c/_complete|complete]] (a stage, [[c/_challenge|challenge]], or [[g/_game|game]]).**
+- **To [[f/_finish|finish]] or [[c/_complete|complete]] (a [[s/_stage|stage]], [[c/_challenge|challenge]], or [[g/_game|game]]).**
 	- _Example: I cleared the first level in 36 seconds._
 - **Of a [[c/_check|check]] or [[f/_financial|financial]] transaction, to [[g/_go|go]] through as [[p/_payment|payment]]; to be [[p/_processed|processed]] [[s/_so|so]] that the [[m/_money|money]] is transferred.**
 	- _Example: The check might not clear for a couple of days._
@@ -37,9 +37,9 @@
 - **To [[d/_disengage|disengage]] [[o/_oneself|oneself]] from [[i/_incumbrances|incumbrances]], [[d/_distress|distress]], or [[e/_entanglements|entanglements]]; to [[b/_become|become]] [[f/_free|free]].**
 - **To [[h/_hit|hit]], [[k/_kick|kick]], [[h/_head|head]], [[p/_punch|punch]] [[e/_etc|etc]]. (a [[b/_ball|ball]], [[p/_puck|puck]]) [[a/_away|away]] in [[o/_order|order]] to [[d/_defend|defend]] [[o/_one|one]]'[[s/_s|s]] [[g/_goal|goal]].**
 	- _Example: A low cross came in, and Smith cleared._
-- **To [[r/_reset|reset]] or unset; to [[r/_return|return]] to an [[e/_empty|empty]] state or to zero.**
+- **To [[r/_reset|reset]] or unset; to [[r/_return|return]] to an [[e/_empty|empty]] [[s/_state|state]] or to zero.**
 	- _Example: to clear an array;  to clear a single bit (binary digit) in a value_
-- **To style (an [[e/_element|element]] within a [[d/_document|document]]) [[s/_so|so]] that it is not [[p/_permitted|permitted]] to [[f/_float|float]] at a [[g/_given|given]] [[p/_position|position]].**
+- **To [[s/_style|style]] (an [[e/_element|element]] within a [[d/_document|document]]) [[s/_so|so]] that it is not [[p/_permitted|permitted]] to [[f/_float|float]] at a [[g/_given|given]] [[p/_position|position]].**
 ---
 ### Synonyms
 - [[s/_stub|stub]]
@@ -59,7 +59,7 @@
 - **[[f/_free|Free]] of [[g/_guilt|guilt]], or suspicion.**
 	- _Example: a clear conscience_
 - **(of a [[s/_soup|soup]]) Without a thickening [[i/_ingredient|ingredient]].**
-- **[[p/_possessing|Possessing]] [[l/_little|little]] or [[n/_no|no]] [[p/_perceptible|perceptible]] stimulus.**
+- **[[p/_possessing|Possessing]] [[l/_little|little]] or [[n/_no|no]] [[p/_perceptible|perceptible]] [[s/_stimulus|stimulus]].**
 	- _Example: clear of texture;  clear of odor_
 - **[[f/_free|Free]] from the [[i/_influence|influence]] of [[e/_engrams|engrams]]; [[s/_see|see]] [[c/_clear|Clear]] ([[s/_scientology|Scientology]]).**
 - **[[a/_able|Able]] to [[p/_perceive|perceive]] [[c/_clearly|clearly]]; [[k/_keen|keen]]; [[a/_acute|acute]]; [[p/_penetrating|penetrating]]; [[d/_discriminating|discriminating]].**

@@ -25,6 +25,6 @@
 ### Antonyms
 - [[p/_point|point]], [[s/_sharp|sharp]], [[t/_tip|tip]], [[s/_subordinate|subordinate]], [[u/_underling|underling]], [[b/_base|base]], [[b/_bottom|bottom]], [[f/_foot|foot]], [[t/_tail|tail]], [[u/_underside|underside]]
 #noun
-- **The [[h/_headline|headline]] of a [[n/_news|news]] story.**
+- **The [[h/_headline|headline]] of a [[n/_news|news]] [[s/_story|story]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Egg
 ---
 #noun
-- **An [[a/_approximately|approximately]] spherical or [[e/_ellipsoidal|ellipsoidal]] [[b/_body|body]] [[p/_produced|produced]] by [[b/_birds|birds]], [[r/_reptiles|reptiles]], [[i/_insects|insects]] and [[o/_other|other]] [[a/_animals|animals]], [[h/_housing|housing]] the [[e/_embryo|embryo]] [[d/_during|during]] [[i/_its|its]] [[d/_development|development]].**
+- **An [[a/_approximately|approximately]] [[s/_spherical|spherical]] or [[e/_ellipsoidal|ellipsoidal]] [[b/_body|body]] [[p/_produced|produced]] by [[b/_birds|birds]], [[r/_reptiles|reptiles]], [[i/_insects|insects]] and [[o/_other|other]] [[a/_animals|animals]], [[h/_housing|housing]] the [[e/_embryo|embryo]] [[d/_during|during]] [[i/_its|its]] [[d/_development|development]].**
 - **The [[e/_egg|egg]] of a [[d/_domestic|domestic]] [[f/_fowl|fowl]] ([[e/_especially|especially]] a [[h/_hen|hen]]) or [[i/_its|its]] [[c/_contents|contents]], used as [[f/_food|food]].**
 	- _Example: I also determine the minimal amount of egg required to make good mayonnaise._
 - **The [[f/_female|female]] [[p/_primary|primary]] [[c/_cell|cell]], the [[o/_ovum|ovum]].**
@@ -12,7 +12,7 @@
 	- _Example: Shut up, you egg!_
 - **A [[p/_person|person]], [[f/_fellow|fellow]].**
 	- _Example: bad egg_
-- **A [[p/_person|person]] who is [[r/_regarded|regarded]] as [[h/_having|having]] not [[y/_yet|yet]] [[r/_realized|realized]] they are transgender, [[h/_has|has]] not [[y/_yet|yet]] [[c/_come|come]] [[o/_out|out]], or is in the [[e/_early|early]] stages of transitioning.**
+- **A [[p/_person|person]] who is [[r/_regarded|regarded]] as [[h/_having|having]] not [[y/_yet|yet]] [[r/_realized|realized]] they are transgender, [[h/_has|has]] not [[y/_yet|yet]] [[c/_come|come]] [[o/_out|out]], or is in the [[e/_early|early]] [[s/_stages|stages]] of transitioning.**
 - **[[o/_one|One]] of the [[b/_blocks|blocks]] of [[d/_data|data]] [[i/_injected|injected]] [[i/_into|into]] a [[p/_program|program]]'[[s/_s|s]] [[a/_address|address]] [[s/_space|space]] for use by [[c/_certain|certain]] [[f/_forms|forms]] of shellcode, such as "[[o/_omelettes|omelettes]]".**
 ---
 #verb

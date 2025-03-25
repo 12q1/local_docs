@@ -6,10 +6,10 @@
 - **To [[e/_enter|enter]] [[m/_mentally|mentally]]; to [[r/_retire|retire]].**
 - **(with on or upon) To [[m/_make|make]] an [[a/_attack|attack]], or [[i/_incursion|incursion]], as [[i/_if|if]] from a vantage [[g/_ground|ground]]; to [[c/_come|come]] suddenly and with violence.**
 	- _Example: And on the suitors let thy wrath descend._
-- **To [[c/_come|come]] [[d/_down|down]] to a [[l/_lower|lower]], [[l/_less|less]] [[f/_fortunate|fortunate]], [[h/_humbler|humbler]], [[l/_less|less]] virtuous, or worse, state or [[r/_rank|rank]]; to [[l/_lower|lower]] or [[a/_abase|abase]] [[o/_oneself|oneself]]**
+- **To [[c/_come|come]] [[d/_down|down]] to a [[l/_lower|lower]], [[l/_less|less]] [[f/_fortunate|fortunate]], [[h/_humbler|humbler]], [[l/_less|less]] virtuous, or worse, [[s/_state|state]] or [[r/_rank|rank]]; to [[l/_lower|lower]] or [[a/_abase|abase]] [[o/_oneself|oneself]]**
 	- _Example: he descended from his high estate_
-- **To [[p/_pass|pass]] from the [[m/_more|more]] [[g/_general|general]] or [[i/_important|important]] to the specific or [[l/_less|less]] [[i/_important|important]] [[m/_matters|matters]] to be [[c/_considered|considered]].**
-- **To [[c/_come|come]] [[d/_down|down]], as from a [[s/_source|source]], [[o/_original|original]], or stock**
+- **To [[p/_pass|pass]] from the [[m/_more|more]] [[g/_general|general]] or [[i/_important|important]] to the [[s/_specific|specific]] or [[l/_less|less]] [[i/_important|important]] [[m/_matters|matters]] to be [[c/_considered|considered]].**
+- **To [[c/_come|come]] [[d/_down|down]], as from a [[s/_source|source]], [[o/_original|original]], or [[s/_stock|stock]]**
 - **To be [[d/_derived|derived]] (from)**
 - **To [[p/_proceed|proceed]] by [[g/_generation|generation]] or by transmission; to [[h/_happen|happen]] by [[i/_inheritance|inheritance]].**
 	- _Example: A crown descends to the heir._

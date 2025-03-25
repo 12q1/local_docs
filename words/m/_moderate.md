@@ -19,7 +19,7 @@
 - **Not [[e/_excessive|excessive]]; [[a/_acting|acting]] in [[m/_moderation|moderation]]**
 	- _Example: a moderate Calvinist_
 - **[[m/_mediocre|Mediocre]]**
-- **[[a/_average|Average]] [[p/_priced|priced]]; standard-[[d/_deal|deal]]**
+- **[[a/_average|Average]] [[p/_priced|priced]]; [[s/_standard|standard]]-[[d/_deal|deal]]**
 - **Not violent or [[r/_rigorous|rigorous]]; temperate; [[m/_mild|mild]]; [[g/_gentle|gentle]].**
 	- _Example: a moderate winter_
 - **[[h/_having|Having]] an [[i/_intermediate|intermediate]] [[p/_position|position]] [[b/_between|between]] [[l/_liberal|liberal]] and [[c/_conservative|conservative]].**

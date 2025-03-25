@@ -10,7 +10,7 @@
 - **The [[a/_act|act]] of [[r/_riding|riding]] on [[h/_horseback|horseback]].**
 - **A [[h/_hostile|hostile]] [[r/_ride|ride]] [[a/_against|against]] a [[p/_particular|particular]] [[a/_area|area]]; a [[r/_raid|raid]].**
 - **([[o/_often|often]] in the [[p/_plural|plural]]) A [[p/_partly|partly]] [[s/_sheltered|sheltered]] [[a/_area|area]] of water [[n/_near|near]] a [[s/_shore|shore]] in which vessels [[m/_may|may]] [[r/_ride|ride]] at [[a/_anchor|anchor]]; a [[r/_roadstead|roadstead]].**
-- **A [[j/_journey|journey]], or stage of a [[j/_journey|journey]].**
+- **A [[j/_journey|journey]], or [[s/_stage|stage]] of a [[j/_journey|journey]].**
 - **A way or [[r/_route|route]].**
 ---
 #adjective

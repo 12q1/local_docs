@@ -8,7 +8,7 @@
 ### Synonyms
 - [[l/_leave|leave]]
 #adjective
-- **([[c/_chiefly|chiefly]] in [[c/_combination|combination]]) [[h/_having|Having]] a [[l/_leaf|leaf]] or [[l/_leaves|leaves]] (of the specified [[k/_kind|kind]]).**
+- **([[c/_chiefly|chiefly]] in [[c/_combination|combination]]) [[h/_having|Having]] a [[l/_leaf|leaf]] or [[l/_leaves|leaves]] (of the [[s/_specified|specified]] [[k/_kind|kind]]).**
 ---
 ### Synonyms
 - [[l/_leaved|leaved]]

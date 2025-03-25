@@ -15,6 +15,6 @@
 ### Synonyms
 - [[a/_aggroup|aggroup]], [[t/_togetherize|togetherize]]
 #adjective
-- **[[f/_focused|Focused]], [[c/_centered|centered]], [[a/_achieving|achieving]] a state of [[s/_shared|shared]] [[m/_mysticism|mysticism]].**
+- **[[f/_focused|Focused]], [[c/_centered|centered]], [[a/_achieving|achieving]] a [[s/_state|state]] of [[s/_shared|shared]] [[m/_mysticism|mysticism]].**
 ---
 ---

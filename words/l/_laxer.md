@@ -1,7 +1,7 @@
 # Laxer
 ---
 #adjective
-- **[[l/_lenient|Lenient]] and [[a/_allowing|allowing]] for [[d/_deviation|deviation]]; not strict.**
+- **[[l/_lenient|Lenient]] and [[a/_allowing|allowing]] for [[d/_deviation|deviation]]; not [[s/_strict|strict]].**
 	- _Example: The rules are fairly lax, but you have to know which ones you can bend._
 - **[[l/_loose|Loose]]; not tight or taut.**
 	- _Example: The rope fell lax._

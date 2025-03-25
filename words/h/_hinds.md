@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[f/_female|female]] [[d/_deer|deer]], [[e/_especially|especially]] a [[r/_red|red]] [[d/_deer|deer]] at [[l/_least|least]] two [[y/_years|years]] [[o/_old|old]].**
-- **A spotted [[f/_food|food]] [[f/_fish|fish]] of the [[g/_genus|genus]] [[e/_epinephelus|Epinephelus]].**
+- **A [[s/_spotted|spotted]] [[f/_food|food]] [[f/_fish|fish]] of the [[g/_genus|genus]] [[e/_epinephelus|Epinephelus]].**
 ---
 ### Synonyms
 - [[d/_doe|doe]]

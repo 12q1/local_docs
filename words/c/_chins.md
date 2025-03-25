@@ -1,7 +1,7 @@
 # Chins
 ---
 #noun
-- **The [[b/_bottom|bottom]] of a [[f/_face|face]], (specifically) the typically [[j/_jutting|jutting]] [[j/_jawline|jawline]] [[b/_below|below]] the [[m/_mouth|mouth]].**
+- **The [[b/_bottom|bottom]] of a [[f/_face|face]], ([[s/_specifically|specifically]]) the typically [[j/_jutting|jutting]] [[j/_jawline|jawline]] [[b/_below|below]] the [[m/_mouth|mouth]].**
 - **Talk.**
 - **A [[l/_lie|lie]], a [[f/_falsehood|falsehood]].**
 - **The [[a/_ability|ability]] to withstand [[b/_being|being]] [[p/_punched|punched]] in the [[c/_chin|chin]] without [[b/_being|being]] [[k/_knocked|knocked]] [[o/_out|out]].**

@@ -1,6 +1,6 @@
 # Napalmed
 ---
 #verb
-- **To spray or [[a/_attack|attack]] with this substance.**
+- **To [[s/_spray|spray]] or [[a/_attack|attack]] with this substance.**
 ---
 ---

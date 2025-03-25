@@ -14,7 +14,7 @@
 #noun
 - **A [[g/_gelatinous|gelatinous]] [[g/_glue|glue]] for [[g/_glazing|glazing]] or [[s/_sizing|sizing]] [[c/_canvas|canvas]], [[p/_paper|paper]], [[p/_plaster|plaster]] or wood; [[o/_often|often]] [[m/_made|made]] from [[a/_animal|animal]] [[s/_skins|skins]].**
 - **[[p/_paste|Paste]]**
-- **([[c/_cambridge|Cambridge]] University) [[f/_food|food]] and [[d/_drink|drink]] [[o/_ordered|ordered]] from the [[b/_buttery|buttery]] by a student**
+- **([[c/_cambridge|Cambridge]] University) [[f/_food|food]] and [[d/_drink|drink]] [[o/_ordered|ordered]] from the [[b/_buttery|buttery]] by a [[s/_student|student]]**
 - **A weak [[g/_glue|glue]] used in various trades; [[s/_size|size]].**
 ---
 ---

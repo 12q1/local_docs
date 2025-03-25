@@ -7,7 +7,7 @@
 - **[[c/_clothes|Clothes]]; [[g/_garments|garments]], [[e/_especially|especially]] when [[s/_showy|showy]] or [[d/_decorative|decorative]].**
 - **[[s/_something|Something]] [[s/_set|set]] [[r/_round|round]] or upon a [[d/_dish|dish]] as an [[e/_embellishment|embellishment]].**
 - **[[f/_fetters|Fetters]].**
-- **A [[f/_fee|fee]]; specifically, in [[e/_english|English]] [[j/_jails|jails]], [[f/_formerly|formerly]] an unauthorized [[f/_fee|fee]] [[d/_demanded|demanded]] from a [[n/_newcomer|newcomer]] by the [[o/_older|older]] [[p/_prisoners|prisoners]].**
+- **A [[f/_fee|fee]]; [[s/_specifically|specifically]], in [[e/_english|English]] [[j/_jails|jails]], [[f/_formerly|formerly]] an unauthorized [[f/_fee|fee]] [[d/_demanded|demanded]] from a [[n/_newcomer|newcomer]] by the [[o/_older|older]] [[p/_prisoners|prisoners]].**
 - **[[c/_cash|Cash]].**
 ---
 ### Synonyms

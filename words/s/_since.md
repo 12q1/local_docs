@@ -1,11 +1,11 @@
 # Since
 ---
 #adverb
-- **From a specified time in the [[p/_past|past]].**
+- **From a [[s/_specified|specified]] time in the [[p/_past|past]].**
 	- _Example: A short/long time since_
 ---
 #preposition
-- **From: [[r/_referring|referring]] to a [[p/_period|period]] of time [[e/_ending|ending]] in the [[p/_present|present]] and [[d/_defining|defining]] it by the [[p/_point|point]] in time at which it started, or the [[p/_period|period]] in which [[i/_its|its]] starting [[p/_point|point]] [[o/_occurred|occurred]].**
+- **From: [[r/_referring|referring]] to a [[p/_period|period]] of time [[e/_ending|ending]] in the [[p/_present|present]] and [[d/_defining|defining]] it by the [[p/_point|point]] in time at which it [[s/_started|started]], or the [[p/_period|period]] in which [[i/_its|its]] [[s/_starting|starting]] [[p/_point|point]] [[o/_occurred|occurred]].**
 ---
 ### Antonyms
 - [[u/_until|until]]

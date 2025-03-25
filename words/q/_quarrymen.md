@@ -1,6 +1,6 @@
 # Quarrymen
 ---
 #noun
-- **A [[m/_man|man]] [[i/_involved|involved]] in [[q/_quarrying|quarrying]] ([[m/_mining|mining]] for stone).**
+- **A [[m/_man|man]] [[i/_involved|involved]] in [[q/_quarrying|quarrying]] ([[m/_mining|mining]] for [[s/_stone|stone]]).**
 ---
 ---

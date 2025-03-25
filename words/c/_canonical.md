@@ -8,7 +8,7 @@
 - **[[p/_present|Present]] in a [[c/_canon|canon]], [[r/_religious|religious]] or [[o/_otherwise|otherwise]].**
 - **[[a/_according|According]] to [[r/_recognised|recognised]] or [[o/_orthodox|orthodox]] [[r/_rules|rules]].**
 	- _Example: The men played golf in the most canonical way, with no local rules._
-- **Stated or used in the [[m/_most|most]] [[b/_basic|basic]] and straightforwardly [[a/_applicable|applicable]] [[m/_manner|manner]].**
+- **[[s/_stated|Stated]] or used in the [[m/_most|most]] [[b/_basic|basic]] and [[s/_straightforwardly|straightforwardly]] [[a/_applicable|applicable]] [[m/_manner|manner]].**
 	- _Example: the reduction of a linear substitution to its canonical form_
 - **[[p/_prototypical|Prototypical]].**
 - **In [[c/_conformity|conformity]] with [[c/_canon|canon]] [[l/_law|law]].**

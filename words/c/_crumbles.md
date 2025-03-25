@@ -1,7 +1,7 @@
 # Crumbles
 ---
 #noun
-- **A [[d/_dessert|dessert]] of [[b/_british|British]] [[o/_origin|origin]] [[c/_containing|containing]] stewed [[f/_fruit|fruit]] topped with a [[c/_crumbly|crumbly]] [[m/_mixture|mixture]] of [[f/_fat|fat]], [[f/_flour|flour]], and sugar.**
+- **A [[d/_dessert|dessert]] of [[b/_british|British]] [[o/_origin|origin]] [[c/_containing|containing]] [[s/_stewed|stewed]] [[f/_fruit|fruit]] topped with a [[c/_crumbly|crumbly]] [[m/_mixture|mixture]] of [[f/_fat|fat]], [[f/_flour|flour]], and sugar.**
 	- _Example: blackberry and apple crumble_
 ---
 ### Synonyms

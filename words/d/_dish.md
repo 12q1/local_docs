@@ -4,14 +4,14 @@
 - **A vessel such as a [[p/_plate|plate]] for [[h/_holding|holding]] or [[s/_serving|serving]] [[f/_food|food]], [[o/_often|often]] [[f/_flat|flat]] with a [[d/_depressed|depressed]] [[r/_region|region]] in the [[m/_middle|middle]].**
 - **The [[c/_contents|contents]] of such a vessel.**
 	- _Example: a dish of stew_
-- **([[m/_metonym|metonym]]) A specific type of [[p/_prepared|prepared]] [[f/_food|food]].**
+- **([[m/_metonym|metonym]]) A [[s/_specific|specific]] type of [[p/_prepared|prepared]] [[f/_food|food]].**
 	- _Example: a vegetable dish_
 - **(in the [[p/_plural|plural]]) Tableware ([[i/_including|including]] [[c/_cutlery|cutlery]], [[e/_etc|etc]], as well as [[c/_crockery|crockery]]) that is to be or is [[b/_being|being]] washed [[a/_after|after]] [[b/_being|being]] used to [[p/_prepare|prepare]], [[s/_serve|serve]] and [[e/_eat|eat]] a [[m/_meal|meal]].**
 	- _Example: It's your turn to wash the dishes._
 - **A type of [[a/_antenna|antenna]] with a [[s/_similar|similar]] [[s/_shape|shape]] to a [[p/_plate|plate]] or [[b/_bowl|bowl]].**
 	- _Example: radar dish_
 - **A [[s/_sexually|sexually]] [[a/_attractive|attractive]] [[p/_person|person]].**
-- **The state of [[b/_being|being]] [[c/_concave|concave]], [[l/_like|like]] a [[d/_dish|dish]], or the [[d/_degree|degree]] of such [[c/_concavity|concavity]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[c/_concave|concave]], [[l/_like|like]] a [[d/_dish|dish]], or the [[d/_degree|degree]] of such [[c/_concavity|concavity]].**
 	- _Example: the dish of a wheel_
 - **A [[h/_hollow|hollow]] [[p/_place|place]], as in a [[f/_field|field]].**
 - **A trough in which [[o/_ore|ore]] is [[m/_measured|measured]].**

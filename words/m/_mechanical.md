@@ -6,7 +6,7 @@
 - **A [[r/_robot|robot]] or [[m/_mechanical|mechanical]] [[c/_creature|creature]].**
 - **A [[m/_mechanical|mechanical]] [[e/_engineer|engineer]].**
 - **An [[i/_instance|instance]] of [[e/_equipment|equipment]] [[f/_failure|failure]].**
-- **A stop on an [[o/_organ|organ]] that is [[o/_operated|operated]] by a [[h/_hand|hand]] or [[f/_foot|foot]] [[c/_control|control]] [[r/_rather|rather]] than [[h/_having|having]] to be [[m/_manually|manually]] [[s/_set|set]] up in [[a/_advance|advance]].**
+- **A [[s/_stop|stop]] on an [[o/_organ|organ]] that is [[o/_operated|operated]] by a [[h/_hand|hand]] or [[f/_foot|foot]] [[c/_control|control]] [[r/_rather|rather]] than [[h/_having|having]] to be [[m/_manually|manually]] [[s/_set|set]] up in [[a/_advance|advance]].**
 - **A [[m/_machine|machine]] that [[p/_performs|performs]] a [[j/_job|job]] typically [[a/_accomplished|accomplished]] using an [[a/_animal|animal]] or [[m/_manual|manual]] [[l/_labor|labor]].**
 ---
 ### Synonyms

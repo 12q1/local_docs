@@ -11,7 +11,7 @@
 ### Synonyms
 - [[j/_join|join]], [[u/_unite|unite]]
 #adjective
-- **[[e/_enduringly|Enduringly]] stuck to, or [[a/_attached|attached]] to, [[s/_something|something]].**
+- **[[e/_enduringly|Enduringly]] [[s/_stuck|stuck]] to, or [[a/_attached|attached]] to, [[s/_something|something]].**
 - **With an [[a/_affix|affix]].**
 ---
 ---

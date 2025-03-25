@@ -6,6 +6,6 @@
 - **A [[s/_small|small]], unendowed [[c/_college|college]] in [[o/_oxford|Oxford]] or [[c/_cambridge|Cambridge]].**
 ---
 #verb
-- **To stay in a [[h/_hostel|hostel]] as [[p/_part|part]] of a travel**
+- **To [[s/_stay|stay]] in a [[h/_hostel|hostel]] as [[p/_part|part]] of a travel**
 ---
 ---

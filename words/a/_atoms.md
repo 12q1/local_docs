@@ -1,7 +1,7 @@
 # Atoms
 ---
 #noun
-- **The [[s/_smallest|smallest]] [[p/_possible|possible]] [[a/_amount|amount]] of [[m/_matter|matter]] which still [[r/_retains|retains]] [[i/_its|its]] [[i/_identity|identity]] as a [[c/_chemical|chemical]] [[e/_element|element]], [[n/_now|now]] [[k/_known|known]] to [[c/_consist|consist]] of a [[n/_nucleus|nucleus]] surrounded by [[e/_electrons|electrons]].**
+- **The [[s/_smallest|smallest]] [[p/_possible|possible]] [[a/_amount|amount]] of [[m/_matter|matter]] which [[s/_still|still]] [[r/_retains|retains]] [[i/_its|its]] [[i/_identity|identity]] as a [[c/_chemical|chemical]] [[e/_element|element]], [[n/_now|now]] [[k/_known|known]] to [[c/_consist|consist]] of a [[n/_nucleus|nucleus]] surrounded by [[e/_electrons|electrons]].**
 - **([[h/_history|history]] of [[s/_science|science]]) A [[h/_hypothetical|hypothetical]] [[p/_particle|particle]] [[p/_posited|posited]] by [[g/_greek|Greek]] [[p/_philosophers|philosophers]] as an ultimate and [[i/_indivisible|indivisible]] [[c/_component|component]] of [[m/_matter|matter]].**
 - **The [[s/_smallest|smallest]], [[i/_indivisible|indivisible]] [[c/_constituent|constituent]] [[p/_part|part]] or unit of [[s/_something|something]].**
 - **In [[l/_logical|logical]] [[a/_atomism|atomism]], a [[f/_fundamental|fundamental]] [[f/_fact|fact]] that [[c/_cannot|cannot]] be [[f/_further|further]] [[b/_broken|broken]] [[d/_down|down]].**

@@ -1,9 +1,9 @@
 # Shutting
 ---
 #verb
-- **To [[c/_close|close]], to stop from [[b/_being|being]] [[o/_open|open]].**
+- **To [[c/_close|close]], to [[s/_stop|stop]] from [[b/_being|being]] [[o/_open|open]].**
 	- _Example: Please shut the door._
-- **To [[c/_close|close]], to stop [[b/_being|being]] [[o/_open|open]].**
+- **To [[c/_close|close]], to [[s/_stop|stop]] [[b/_being|being]] [[o/_open|open]].**
 	- _Example: If you wait too long, the automatic door will shut._
 - **To [[c/_close|close]] a [[b/_business|business]] temporarily, or (of a [[b/_business|business]]) to be [[c/_closed|closed]].**
 	- _Example: The pharmacy is shut on Sunday._

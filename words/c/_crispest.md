@@ -12,7 +12,7 @@
 	- _Example: An expert, given a certain query, will often come up with a crisp answer: “yes” or “no”._
 - **(of wine) [[h/_having|having]] a [[r/_refreshing|refreshing]] [[a/_amount|amount]] of [[a/_acidity|acidity]]; [[h/_having|having]] [[l/_less|less]] [[a/_acidity|acidity]] than [[g/_green|green]] wine, but [[m/_more|more]] than a [[f/_flabby|flabby]] [[o/_one|one]].**
 - **[[l/_lively|Lively]]; [[s/_sparking|sparking]]; [[e/_effervescing|effervescing]].**
-- **[[c/_curling|Curling]] in stiff [[c/_curls|curls]] or [[r/_ringlets|ringlets]].**
+- **[[c/_curling|Curling]] in [[s/_stiff|stiff]] [[c/_curls|curls]] or [[r/_ringlets|ringlets]].**
 	- _Example: crisp hair_
 - **[[c/_curled|Curled]] by the [[r/_ripple|ripple]] of water.**
 - **Not using [[f/_fuzzy|fuzzy]] [[l/_logic|logic]]; [[b/_based|based]] on a [[b/_binary|binary]] [[d/_distinction|distinction]] [[b/_between|between]] true and [[f/_false|false]].**

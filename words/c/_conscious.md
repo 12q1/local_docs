@@ -8,7 +8,7 @@
 	- _Example: The noise woke me, but it was another few minutes before I was fully conscious._
 - **[[a/_aware|Aware]] of [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[e/_existence|existence]]; [[a/_aware|aware]] of [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[a/_awareness|awareness]].**
 	- _Example: Only highly intelligent beings can be fully conscious._
-- **[[a/_aware|Aware]] of, [[s/_sensitive|sensitive]] to; [[o/_observing|observing]] and [[n/_noticing|noticing]], or [[b/_being|being]] strongly [[i/_interested|interested]] in or [[c/_concerned|concerned]] [[a/_about|about]].**
+- **[[a/_aware|Aware]] of, [[s/_sensitive|sensitive]] to; [[o/_observing|observing]] and [[n/_noticing|noticing]], or [[b/_being|being]] [[s/_strongly|strongly]] [[i/_interested|interested]] in or [[c/_concerned|concerned]] [[a/_about|about]].**
 	- _Example: I was conscious of a noise behind me.   a very class-conscious analysis_
 - **[[d/_deliberate|Deliberate]], [[i/_intentional|intentional]], [[d/_done|done]] with [[a/_awareness|awareness]] of what [[o/_one|one]] is [[d/_doing|doing]].**
 - **[[k/_known|Known]] or [[f/_felt|felt]] [[p/_personally|personally]], [[i/_internally|internally]] by a [[p/_person|person]].**

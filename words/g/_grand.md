@@ -11,7 +11,7 @@
 	- _Example: His simple vision has transformed into something far more grand._
 - **[[h/_having|Having]] [[h/_higher|higher]] [[r/_rank|rank]] or [[m/_more|more]] [[d/_dignity|dignity]], [[s/_size|size]], or [[i/_importance|importance]] than [[o/_other|other]] [[p/_persons|persons]] or things of the [[s/_same|same]] [[n/_name|name]].**
 	- _Example: The Grand Viziers of the Ottoman Empire._
-- **(usually in [[c/_compound|compound]] [[f/_forms|forms]]) Standing in the [[s/_second|second]] or [[s/_some|some]] [[m/_more|more]] [[r/_remote|remote]] [[d/_degree|degree]] of [[p/_parentage|parentage]] or [[d/_descent|descent]].**
+- **(usually in [[c/_compound|compound]] [[f/_forms|forms]]) [[s/_standing|Standing]] in the [[s/_second|second]] or [[s/_some|some]] [[m/_more|more]] [[r/_remote|remote]] [[d/_degree|degree]] of [[p/_parentage|parentage]] or [[d/_descent|descent]].**
 	- _Example: grandfather, grandson, grand-child_
 - **[[f/_fine|Fine]]; [[l/_lovely|lovely]].**
 	- _Example: A cup of tea? That'd be grand._

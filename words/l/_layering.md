@@ -6,7 +6,7 @@
 	- _Example: Layer the ribbons on top of one another to make an attractive pattern._
 ---
 #noun
-- **A structure [[m/_made|made]] up of [[l/_layers|layers]].**
+- **A [[s/_structure|structure]] [[m/_made|made]] up of [[l/_layers|layers]].**
 	- _Example: intricate layerings of harmony_
 - **A [[m/_method|method]] of [[p/_plant|plant]] [[p/_propagation|propagation]] by [[r/_rooting|rooting]] [[c/_cuttings|cuttings]].**
 ---

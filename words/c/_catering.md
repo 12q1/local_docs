@@ -8,7 +8,7 @@
 ---
 #noun
 - **The [[b/_business|business]] of [[p/_providing|providing]] [[f/_food|food]] and [[r/_related|related]] [[s/_services|services]]; foodservice.**
-- **The [[b/_business|business]] of [[p/_providing|providing]] such [[s/_services|services]] for special [[o/_occasions|occasions]].**
+- **The [[b/_business|business]] of [[p/_providing|providing]] such [[s/_services|services]] for [[s/_special|special]] [[o/_occasions|occasions]].**
 - **The [[a/_act|act]] of [[o/_one|one]] who [[c/_caters|caters]] (to [[s/_something|something]]).**
 ---
 ---

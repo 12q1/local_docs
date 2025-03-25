@@ -7,6 +7,6 @@
 ### Synonyms
 - 
 #adverb
-- **In a state of [[h/_high|high]] [[a/_anticipation|anticipation]], [[e/_excitement|excitement]], or [[i/_interest|interest]].**
+- **In a [[s/_state|state]] of [[h/_high|high]] [[a/_anticipation|anticipation]], [[e/_excitement|excitement]], or [[i/_interest|interest]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[c/_complain|complain]].**
-- **To [[a/_add|add]] weight or strength to; to [[b/_beef|beef]] up.**
+- **To [[a/_add|add]] weight or [[s/_strength|strength]] to; to [[b/_beef|beef]] up.**
 - **To [[f/_fart|fart]]; [[b/_break|break]] wind.**
 	- _Example: Ugh, who just beefed in here?_
 - **To [[f/_feud|feud]] or [[h/_hold|hold]] a [[g/_grudge|grudge]] [[a/_against|against]].**

@@ -1,10 +1,10 @@
 # Jimmies
 ---
 #noun
-- **([[e/_especially|especially]] [[n/_new|New]] [[e/_england|England]] and [[p/_philadelphia|Philadelphia]]) [[c/_chocolate|Chocolate]] sprinkles used as a topping for [[i/_ice|ice]] [[c/_cream|cream]], [[c/_cookies|cookies]], or [[c/_cupcakes|cupcakes]].**
+- **([[e/_especially|especially]] [[n/_new|New]] [[e/_england|England]] and [[p/_philadelphia|Philadelphia]]) [[c/_chocolate|Chocolate]] [[s/_sprinkles|sprinkles]] used as a topping for [[i/_ice|ice]] [[c/_cream|cream]], [[c/_cookies|cookies]], or [[c/_cupcakes|cupcakes]].**
 ---
 #noun
-- **([[e/_especially|especially]] [[n/_new|New]] [[e/_england|England]] and [[p/_philadelphia|Philadelphia]]) [[c/_chocolate|Chocolate]] sprinkles used as a topping for [[i/_ice|ice]] [[c/_cream|cream]], [[c/_cookies|cookies]], or [[c/_cupcakes|cupcakes]].**
+- **([[e/_especially|especially]] [[n/_new|New]] [[e/_england|England]] and [[p/_philadelphia|Philadelphia]]) [[c/_chocolate|Chocolate]] [[s/_sprinkles|sprinkles]] used as a topping for [[i/_ice|ice]] [[c/_cream|cream]], [[c/_cookies|cookies]], or [[c/_cupcakes|cupcakes]].**
 - **A [[m/_marijuana|marijuana]] [[c/_cigarette|cigarette]].**
 - **A [[d/_device|device]] used to [[c/_circumvent|circumvent]] a [[l/_locking|locking]] [[m/_mechanism|mechanism]]; a [[s/_slim|slim]] [[j/_jim|jim]].**
 - **([[r/_royal|Royal]] [[n/_navy|Navy]]) [[f/_first|First]] [[l/_lieutenant|Lieutenant]] ([[e/_executive|Executive]] [[o/_officer|Officer]])**

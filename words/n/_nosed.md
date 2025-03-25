@@ -15,7 +15,7 @@
 - **To [[c/_confront|confront]]; be [[c/_closely|closely]] [[f/_face|face]] to [[f/_face|face]] or [[o/_opposite|opposite]] to.**
 ---
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] [[s/_some|some]] specific type of [[n/_nose|nose]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] [[s/_some|some]] [[s/_specific|specific]] type of [[n/_nose|nose]].**
 	- _Example: Rudolph the red-nosed reindeer_
 ---
 ---

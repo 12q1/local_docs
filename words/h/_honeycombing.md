@@ -5,6 +5,6 @@
 	- _Example: Termites will honeycomb a porch made of untreated pine._
 ---
 #noun
-- **A [[h/_honeycomb|honeycomb]] [[p/_pattern|pattern]] or structure.**
+- **A [[h/_honeycomb|honeycomb]] [[p/_pattern|pattern]] or [[s/_structure|structure]].**
 ---
 ---

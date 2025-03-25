@@ -6,7 +6,7 @@
 - **To [[a/_alter|alter]] for the [[b/_better|better]]; to [[s/_set|set]] [[r/_right|right]]; to [[r/_reform|reform]]; [[h/_hence|hence]], to [[q/_quicken|quicken]]; as, to [[m/_mend|mend]] [[o/_one|one]]'[[s/_s|s]] [[m/_manners|manners]] or [[p/_pace|pace]].**
 	- _Example: Her stutter was mended by a speech therapist._
 - **To [[h/_help|help]], to [[a/_advance|advance]], to [[f/_further|further]]; to [[a/_add|add]] to.**
-- **To [[g/_grow|grow]] [[b/_better|better]]; to [[a/_advance|advance]] to a [[b/_better|better]] state; to [[b/_become|become]] [[i/_improved|improved]].**
+- **To [[g/_grow|grow]] [[b/_better|better]]; to [[a/_advance|advance]] to a [[b/_better|better]] [[s/_state|state]]; to [[b/_become|become]] [[i/_improved|improved]].**
 ---
 #noun
 - **The [[a/_act|act]] by which [[s/_something|something]] is [[m/_mended|mended]] or [[r/_repaired|repaired]].**

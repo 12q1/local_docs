@@ -9,14 +9,14 @@
 - **[[l/_love|Love]] or [[a/_amorous|amorous]] [[a/_attachment|attachment]].**
 	- _Example: He took a fancy to her._
 - **The [[o/_object|object]] of [[i/_inclination|inclination]] or [[l/_liking|liking]].**
-- **[[a/_any|Any]] sport or [[h/_hobby|hobby]] [[p/_pursued|pursued]] by a [[g/_group|group]].**
+- **[[a/_any|Any]] [[s/_sport|sport]] or [[h/_hobby|hobby]] [[p/_pursued|pursued]] by a [[g/_group|group]].**
 	- _Example: Trainspotting is the fancy of a special lot._
 - **The [[e/_enthusiasts|enthusiasts]] of such a [[p/_pursuit|pursuit]].**
 	- _Example: He fell out of favor with the boxing fancy after the incident._
 - **A [[d/_diamond|diamond]] with a [[d/_distinctive|distinctive]] [[c/_colour|colour]].**
 - **That which [[p/_pleases|pleases]] or [[e/_entertains|entertains]] the taste or [[c/_caprice|caprice]] without [[m/_much|much]] use or value.**
 - **A [[s/_sort|sort]] of [[l/_love|love]] [[s/_song|song]] or [[l/_light|light]] [[i/_impromptu|impromptu]] [[b/_ballad|ballad]].**
-- **In the [[g/_game|game]] of [[j/_jacks|jacks]], a style of [[p/_play|play]] [[i/_involving|involving]] [[a/_additional|additional]] [[a/_actions|actions]] ([[c/_contrasted|contrasted]] with plainsies).**
+- **In the [[g/_game|game]] of [[j/_jacks|jacks]], a [[s/_style|style]] of [[p/_play|play]] [[i/_involving|involving]] [[a/_additional|additional]] [[a/_actions|actions]] ([[c/_contrasted|contrasted]] with plainsies).**
 ---
 ### Synonyms
 - [[c/_conception|conception]], [[i/_idea|idea]], [[t/_thought|thought]], [[h/_hobby|hobby]], [[i/_impression|impression]]

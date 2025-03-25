@@ -3,7 +3,7 @@
 #verb
 - **To [[h/_have|have]] an [[a/_absolute|absolute]] [[r/_requirement|requirement]] for.**
 	- _Example: Living things need water to survive._
-- **To want strongly; to [[f/_feel|feel]] that [[o/_one|one]] [[m/_must|must]] [[h/_have|have]] [[s/_something|something]].**
+- **To want [[s/_strongly|strongly]]; to [[f/_feel|feel]] that [[o/_one|one]] [[m/_must|must]] [[h/_have|have]] [[s/_something|something]].**
 	- _Example: After ten days of hiking, I needed a shower and a shave._
 - **([[m/_modal|modal]] verb) To be [[o/_obliged|obliged]] or [[r/_required|required]] (to [[d/_do|do]] [[s/_something|something]]).**
 	- _Example: You need not go if you don't want to._

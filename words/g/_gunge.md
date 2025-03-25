@@ -1,7 +1,7 @@
 # Gunge
 ---
 #noun
-- **A [[p/_percussion|percussion]] [[i/_instrument|instrument]] [[c/_consisting|consisting]] of a [[m/_metal|metal]] [[d/_disk|disk]] that [[e/_emits|emits]] a [[s/_sonorous|sonorous]] [[s/_sound|sound]] when struck with a [[s/_soft|soft]] [[h/_hammer|hammer]].**
+- **A [[p/_percussion|percussion]] [[i/_instrument|instrument]] [[c/_consisting|consisting]] of a [[m/_metal|metal]] [[d/_disk|disk]] that [[e/_emits|emits]] a [[s/_sonorous|sonorous]] [[s/_sound|sound]] when [[s/_struck|struck]] with a [[s/_soft|soft]] [[h/_hammer|hammer]].**
 - **A [[m/_medal|medal]] or [[a/_award|award]], [[p/_particularly|particularly]] [[k/_knight|Knight]] [[b/_bachelor|Bachelor]].**
 ---
 #noun

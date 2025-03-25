@@ -14,7 +14,7 @@
 	- _Example: The seats in the carriage faced backwards._
 - **To [[h/_have|have]] as an [[o/_opponent|opponent]].**
 	- _Example: Puddletown United face Mudchester Rovers in the quarter-finals._
-- **To be the [[b/_batsman|batsman]] on strike.**
+- **To be the [[b/_batsman|batsman]] on [[s/_strike|strike]].**
 	- _Example: Willoughby comes in to bowl, and it's Hobson facing._
 - **To [[c/_confront|confront]] [[i/_impudently|impudently]]; to [[b/_bully|bully]].**
 - **To [[c/_cover|cover]] in [[f/_front|front]], for [[o/_ornament|ornament]], [[p/_protection|protection]], [[e/_etc|etc]].; to [[p/_put|put]] a [[f/_facing|facing]] upon.**
@@ -22,8 +22,8 @@
 - **To [[l/_line|line]] [[n/_near|near]] the [[e/_edge|edge]], [[e/_especially|especially]] with a [[d/_different|different]] [[m/_material|material]].**
 	- _Example: to face the front of a coat, or the bottom of a dress_
 - **To [[c/_cover|cover]] with [[b/_better|better]], or [[b/_better|better]] [[a/_appearing|appearing]], [[m/_material|material]] than the [[m/_mass|mass]] [[c/_consists|consists]] of, for [[p/_purpose|purpose]] of [[d/_deception|deception]], as the surface of a [[b/_box|box]] of tea, a [[b/_barrel|barrel]] of sugar, [[e/_etc|etc]].**
-- **To [[m/_make|make]] the surface of ([[a/_anything|anything]]) [[f/_flat|flat]] or [[s/_smooth|smooth]]; to [[d/_dress|dress]] the [[f/_face|face]] of (a stone, a [[c/_casting|casting]], [[e/_etc|etc]].); [[e/_especially|especially]], in turning, to [[s/_shape|shape]] or [[s/_smooth|smooth]] the [[f/_flat|flat]] surface of, as [[d/_distinguished|distinguished]] from the [[c/_cylindrical|cylindrical]] surface.**
-- **([[r/_retail|retail]]) To [[a/_arrange|arrange]] the [[p/_products|products]] in (a store) [[s/_so|so]] that they are tidy and [[a/_attractive|attractive]].**
+- **To [[m/_make|make]] the surface of ([[a/_anything|anything]]) [[f/_flat|flat]] or [[s/_smooth|smooth]]; to [[d/_dress|dress]] the [[f/_face|face]] of (a [[s/_stone|stone]], a [[c/_casting|casting]], [[e/_etc|etc]].); [[e/_especially|especially]], in turning, to [[s/_shape|shape]] or [[s/_smooth|smooth]] the [[f/_flat|flat]] surface of, as [[d/_distinguished|distinguished]] from the [[c/_cylindrical|cylindrical]] surface.**
+- **([[r/_retail|retail]]) To [[a/_arrange|arrange]] the [[p/_products|products]] in (a [[s/_store|store]]) [[s/_so|so]] that they are tidy and [[a/_attractive|attractive]].**
 	- _Example: In my first job, I learned how to operate a till and to face the store to high standards._
 ---
 ### Synonyms

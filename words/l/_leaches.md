@@ -25,7 +25,7 @@
 ### Synonyms
 - [[h/_healer|healer]], [[b/_barber|barber]], [[d/_doctor|doctor]], [[p/_physician|physician]]
 #noun
-- **The vertical [[e/_edge|edge]] of a square [[s/_sail|sail]].**
+- **The vertical [[e/_edge|edge]] of a [[s/_square|square]] [[s/_sail|sail]].**
 - **The [[a/_aft|aft]] [[e/_edge|edge]] of a triangular [[s/_sail|sail]].**
 ---
 ---

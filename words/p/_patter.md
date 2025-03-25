@@ -7,6 +7,6 @@
 #verb
 - **To [[m/_make|make]] [[i/_irregularly|irregularly]] [[r/_repeated|repeated]] [[s/_sounds|sounds]] of [[l/_low|low]]-to-[[m/_moderate|moderate]] [[m/_magnitude|magnitude]] and [[l/_lower|lower]]-than-[[a/_average|average]] [[p/_pitch|pitch]].**
 	- _Example: The bullets pattered into the log-cabin walls._
-- **To [[s/_spatter|spatter]]; to sprinkle.**
+- **To [[s/_spatter|spatter]]; to [[s/_sprinkle|sprinkle]].**
 ---
 ---

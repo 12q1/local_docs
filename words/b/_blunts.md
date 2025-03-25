@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[f/_fencer|fencer]]'[[s/_s|s]] [[p/_practice|practice]] [[f/_foil|foil]] with a [[s/_soft|soft]] tip.**
-- **A [[s/_short|short]] [[n/_needle|needle]] with a strong [[p/_point|point]].**
+- **A [[s/_short|short]] [[n/_needle|needle]] with a [[s/_strong|strong]] [[p/_point|point]].**
 - **([[s/_smoking|smoking]]) A [[m/_marijuana|marijuana]] [[c/_cigar|cigar]].**
 	- _Example: 2005: to make his point, lead rapper B-Real fired up a blunt in front of the cameras and several hundred thousand people and announced, “I'm taking a hit for every one of y'all!” — Martin Torgoff, Can't Find My Way Home (Simon & Schuster 2005, p. 461)_
 - **[[m/_money|Money]]**

@@ -1,7 +1,7 @@
 # Knows
 ---
 #noun
-- **[[k/_knowledge|Knowledge]]; the state of [[k/_knowing|knowing]].**
+- **[[k/_knowledge|Knowledge]]; the [[s/_state|state]] of [[k/_knowing|knowing]].**
 ---
 #verb
 - **To [[p/_perceive|perceive]] the truth or [[f/_factuality|factuality]] of; to be [[c/_certain|certain]] of or that.**
@@ -15,9 +15,9 @@
 - **To be [[a/_able|able]] to [[d/_distinguish|distinguish]], to [[d/_discern|discern]], [[p/_particularly|particularly]] by [[c/_contrast|contrast]] or [[c/_comparison|comparison]]; to [[r/_recognize|recognize]] the [[n/_nature|nature]] of.**
 	- _Example: I wouldn't know one from the other._
 - **To [[r/_recognize|recognize]] as the [[s/_same|same]] (as [[s/_someone|someone]] or [[s/_something|something]] [[p/_previously|previously]] [[e/_encountered|encountered]]) [[a/_after|after]] an [[a/_absence|absence]] or [[c/_change|change]].**
-- **To understand or [[h/_have|have]] a [[g/_grasp|grasp]] of through [[e/_experience|experience]] or study.**
+- **To understand or [[h/_have|have]] a [[g/_grasp|grasp]] of through [[e/_experience|experience]] or [[s/_study|study]].**
 	- _Example: His mother tongue is Italian, but he also knows French and English._
-- **To [[h/_have|have]] [[s/_sexual|sexual]] [[r/_relations|relations]] with. This [[m/_meaning|meaning]] [[n/_normally|normally]] specified in [[m/_modern|modern]] [[e/_english|English]] as [[e/_e|e]].[[g/_g|g]]. to ’[[k/_know|know]] [[s/_someone|someone]] in the [[b/_biblical|biblical]] [[s/_sense|sense]]’ or to ‘[[k/_know|know]] [[b/_biblically|Biblically]].’**
+- **To [[h/_have|have]] [[s/_sexual|sexual]] [[r/_relations|relations]] with. This [[m/_meaning|meaning]] [[n/_normally|normally]] [[s/_specified|specified]] in [[m/_modern|modern]] [[e/_english|English]] as [[e/_e|e]].[[g/_g|g]]. to ’[[k/_know|know]] [[s/_someone|someone]] in the [[b/_biblical|biblical]] [[s/_sense|sense]]’ or to ‘[[k/_know|know]] [[b/_biblically|Biblically]].’**
 - **To [[h/_have|have]] [[k/_knowledge|knowledge]]; to [[h/_have|have]] [[i/_information|information]], be [[i/_informed|informed]].**
 	- _Example: He knows about 19th century politics._
 - **To be or [[b/_become|become]] [[a/_aware|aware]] or [[c/_cognizant|cognizant]].**

@@ -4,7 +4,7 @@
 - **A [[p/_pilgrim|pilgrim]] who [[h/_had|had]] [[b/_been|been]] to the [[h/_holy|Holy]] [[l/_land|Land]] and who [[b/_brought|brought]] [[b/_back|back]] a [[p/_palm|palm]] [[b/_branch|branch]] in [[s/_signification|signification]]; a wandering [[r/_religious|religious]] votary.**
 ---
 #noun
-- **A [[f/_ferule|ferule]] used to [[p/_punish|punish]] [[s/_schoolboys|schoolboys]] by striking their [[p/_palms|palms]].**
+- **A [[f/_ferule|ferule]] used to [[p/_punish|punish]] [[s/_schoolboys|schoolboys]] by [[s/_striking|striking]] their [[p/_palms|palms]].**
 ---
 #noun
 - **[[o/_one|One]] who [[p/_palms|palms]] or [[c/_cheats|cheats]], as at [[c/_cards|cards]] or [[d/_dice|dice]].**

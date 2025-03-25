@@ -3,7 +3,7 @@
 #noun
 - **The unmowed [[p/_part|part]] of a [[g/_golf|golf]] [[c/_course|course]].**
 - **A [[r/_rude|rude]] [[f/_fellow|fellow]]; a [[c/_coarse|coarse]] [[b/_bully|bully]]; a [[r/_rowdy|rowdy]].**
-- **A [[s/_scuffed|scuffed]] and [[r/_roughened|roughened]] [[a/_area|area]] of the [[p/_pitch|pitch]], where the [[b/_bowler|bowler]]'[[s/_s|s]] [[f/_feet|feet]] [[f/_fall|fall]], used as a target by spin [[b/_bowlers|bowlers]] [[b/_because|because]] of [[i/_its|its]] unpredictable [[b/_bounce|bounce]].**
+- **A [[s/_scuffed|scuffed]] and [[r/_roughened|roughened]] [[a/_area|area]] of the [[p/_pitch|pitch]], where the [[b/_bowler|bowler]]'[[s/_s|s]] [[f/_feet|feet]] [[f/_fall|fall]], used as a target by [[s/_spin|spin]] [[b/_bowlers|bowlers]] [[b/_because|because]] of [[i/_its|its]] unpredictable [[b/_bounce|bounce]].**
 - **The [[r/_raw|raw]] [[m/_material|material]] from which [[f/_faceted|faceted]] or [[c/_cabochon|cabochon]] [[g/_gems|gems]] are [[c/_created|created]].**
 - **A [[q/_quick|quick]] [[s/_sketch|sketch]], [[s/_similar|similar]] to a thumbnail but [[l/_larger|larger]] and [[m/_more|more]] [[d/_detailed|detailed]], used for [[a/_artistic|artistic]] [[b/_brainstorming|brainstorming]].**
 - **[[b/_boisterous|Boisterous]] weather.**

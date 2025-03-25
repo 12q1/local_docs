@@ -20,7 +20,7 @@
 	- _Example: I'm so horny even the crack of dawn isn't safe!_
 - **The [[s/_space|space]] [[b/_between|between]] the [[b/_buttocks|buttocks]].**
 	- _Example: Pull up your pants! Your crack is showing._
-- **[[c/_conviviality|Conviviality]]; [[f/_fun|fun]]; [[g/_good|good]] [[c/_conversation|conversation]], [[c/_chat|chat]], [[g/_gossip|gossip]], or [[h/_humorous|humorous]] storytelling; [[g/_good|good]] [[c/_company|company]].**
+- **[[c/_conviviality|Conviviality]]; [[f/_fun|fun]]; [[g/_good|good]] [[c/_conversation|conversation]], [[c/_chat|chat]], [[g/_gossip|gossip]], or [[h/_humorous|humorous]] [[s/_storytelling|storytelling]]; [[g/_good|good]] [[c/_company|company]].**
 	- _Example: He/she is quare good crack._
 - **[[b/_business|Business]]; [[e/_events|events]]; [[n/_news|news]].**
 	- _Example: What's the crack?_
@@ -59,9 +59,9 @@
 	- _Example: "I would too, with a face like that," she cracked._
 - **To [[m/_make|make]] a [[c/_crack|crack]] or [[c/_cracks|cracks]] in.**
 	- _Example: The ball cracked the window._
-- **To [[b/_break|break]] [[o/_open|open]] or [[c/_crush|crush]] to [[s/_small|small]] [[p/_pieces|pieces]] by [[i/_impact|impact]] or stress.**
+- **To [[b/_break|break]] [[o/_open|open]] or [[c/_crush|crush]] to [[s/_small|small]] [[p/_pieces|pieces]] by [[i/_impact|impact]] or [[s/_stress|stress]].**
 	- _Example: You'll need a hammer to crack a black walnut._
-- **To strike [[f/_forcefully|forcefully]].**
+- **To [[s/_strike|strike]] [[f/_forcefully|forcefully]].**
 	- _Example: She cracked him over the head with her handbag._
 - **To [[o/_open|open]] [[s/_slightly|slightly]].**
 	- _Example: Could you please crack the window?_

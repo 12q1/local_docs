@@ -9,8 +9,8 @@
 - **A [[c/_cone|cone]]-[[s/_shaped|shaped]] [[f/_flower|flower]] [[h/_head|head]] of various [[p/_plants|plants]], such as [[b/_banksias|banksias]] and [[p/_proteas|proteas]].**
 - **An [[i/_ice|ice]] [[c/_cream|cream]] [[c/_cone|cone]].**
 - **A traffic [[c/_cone|cone]]**
-- **A unit of volume, [[a/_applied|applied]] [[s/_solely|solely]] to [[m/_marijuana|marijuana]] and [[o/_only|only]] while it is in a [[s/_smokable|smokable]] state; [[r/_roughly|roughly]] 1.5 [[c/_cubic|cubic]] [[c/_centimetres|centimetres]], [[d/_depending|depending]] on use.**
-- **[[a/_any|Any]] of the [[s/_small|small]] [[c/_cone|cone]]-[[s/_shaped|shaped]] structures in the [[r/_retina|retina]].**
+- **A unit of volume, [[a/_applied|applied]] [[s/_solely|solely]] to [[m/_marijuana|marijuana]] and [[o/_only|only]] while it is in a [[s/_smokable|smokable]] [[s/_state|state]]; [[r/_roughly|roughly]] 1.5 [[c/_cubic|cubic]] [[c/_centimetres|centimetres]], [[d/_depending|depending]] on use.**
+- **[[a/_any|Any]] of the [[s/_small|small]] [[c/_cone|cone]]-[[s/_shaped|shaped]] [[s/_structures|structures]] in the [[r/_retina|retina]].**
 - **The [[b/_bowl|bowl]] [[p/_piece|piece]] on a [[b/_bong|bong]].**
 - **The [[p/_process|process]] of [[s/_smoking|smoking]] [[c/_cannabis|cannabis]] in a [[b/_bong|bong]].**
 - **A [[c/_cone|cone]]-[[s/_shaped|shaped]] [[c/_cannabis|cannabis]] [[j/_joint|joint]].**

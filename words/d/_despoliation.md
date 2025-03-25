@@ -1,6 +1,6 @@
 # Despoliation
 ---
 #noun
-- **A stripping or [[p/_plundering|plundering]]; spoliation.**
+- **A [[s/_stripping|stripping]] or [[p/_plundering|plundering]]; [[s/_spoliation|spoliation]].**
 ---
 ---

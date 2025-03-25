@@ -7,7 +7,7 @@
 - **The [[s/_small|small]] [[f/_forward|forward]] or [[p/_power|power]] [[f/_forward|forward]] [[p/_position|position]]; two [[f/_frontcourt|frontcourt]] [[p/_positions|positions]] that are taller than [[g/_guards|guards]] but [[s/_shorter|shorter]] than [[c/_centers|centers]].**
 - **The [[f/_front|front]] [[p/_part|part]] of a vessel.**
 - **An [[e/_e|e]]-[[m/_mail|mail]] [[m/_message|message]] that is [[f/_forwarded|forwarded]] to [[a/_another|another]] [[r/_recipient|recipient]] or [[r/_recipients|recipients]]; an [[e/_electronic|electronic]] [[c/_chain|chain]] [[l/_letter|letter]].**
-- **A [[d/_direct|direct]] [[a/_agreement|agreement]] [[b/_between|between]] two [[p/_parties|parties]] to [[b/_buy|buy]] or [[s/_sell|sell]] an [[a/_asset|asset]] at a specific [[p/_point|point]] in the [[f/_future|future]]; [[d/_distinguished|distinguished]] from a [[f/_futures|futures]] [[c/_contract|contract]] in that the [[l/_latter|latter]] is standardized and traded on an [[e/_exchange|exchange]].**
+- **A [[d/_direct|direct]] [[a/_agreement|agreement]] [[b/_between|between]] two [[p/_parties|parties]] to [[b/_buy|buy]] or [[s/_sell|sell]] an [[a/_asset|asset]] at a [[s/_specific|specific]] [[p/_point|point]] in the [[f/_future|future]]; [[d/_distinguished|distinguished]] from a [[f/_futures|futures]] [[c/_contract|contract]] in that the [[l/_latter|latter]] is [[s/_standardized|standardized]] and traded on an [[e/_exchange|exchange]].**
 ---
 ### Synonyms
 - [[a/_attacker|attacker]], [[s/_striker|striker]]

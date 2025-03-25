@@ -13,7 +13,7 @@
 - **To [[f/_foster|foster]], to [[n/_nourish|nourish]]**
 - **To [[h/_hold|hold]] [[c/_closely|closely]] to [[o/_one|one]]'[[s/_s|s]] [[c/_chest|chest]]**
 	- _Example: Would you like to nurse the puppy?_
-- **To strike ([[b/_billiard|billiard]] [[b/_balls|balls]]) [[g/_gently|gently]], [[s/_so|so]] as to [[k/_keep|keep]] them in [[g/_good|good]] [[p/_position|position]] [[d/_during|during]] a [[s/_series|series]] of [[s/_shots|shots]].**
+- **To [[s/_strike|strike]] ([[b/_billiard|billiard]] [[b/_balls|balls]]) [[g/_gently|gently]], [[s/_so|so]] as to [[k/_keep|keep]] them in [[g/_good|good]] [[p/_position|position]] [[d/_during|during]] a [[s/_series|series]] of [[s/_shots|shots]].**
 ---
 ### Synonyms
 - [[s/_sip|sip]], [[h/_husband|husband]]
@@ -23,7 +23,7 @@
 	- _Example: She went into nursing as a career._
 ---
 #adjective
-- **In the state of suckling [[y/_young|young]], [[l/_lactating|lactating]].**
+- **In the [[s/_state|state]] of suckling [[y/_young|young]], [[l/_lactating|lactating]].**
 	- _Example: The nursing bear wouldn't move far until her cubs were older._
 - **[[r/_referring|Referring]] to [[n/_nurses|nurses]].**
 	- _Example: The nursing staff worked overtime at the hospital._

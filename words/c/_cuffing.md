@@ -10,7 +10,7 @@
 - **To [[b/_buffet|buffet]].**
 ---
 #noun
-- **The [[a/_act|act]] by which [[s/_somebody|somebody]] is [[c/_cuffed|cuffed]] or struck.**
+- **The [[a/_act|act]] by which [[s/_somebody|somebody]] is [[c/_cuffed|cuffed]] or [[s/_struck|struck]].**
 - **The [[a/_act|act]] or [[p/_process|process]] of [[p/_placing|placing]] [[h/_handcuffs|handcuffs]] on a [[p/_person|person]].**
 ---
 ---

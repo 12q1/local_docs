@@ -1,16 +1,16 @@
 # Resting
 ---
 #verb
-- **To [[c/_cease|cease]] from [[a/_action|action]], [[m/_motion|motion]], work, or [[p/_performance|performance]] of [[a/_any|any]] [[k/_kind|kind]]; stop; [[d/_desist|desist]]; be without [[m/_motion|motion]].**
+- **To [[c/_cease|cease]] from [[a/_action|action]], [[m/_motion|motion]], work, or [[p/_performance|performance]] of [[a/_any|any]] [[k/_kind|kind]]; [[s/_stop|stop]]; [[d/_desist|desist]]; be without [[m/_motion|motion]].**
 - **To [[c/_come|come]] to a [[p/_pause|pause]] or an [[e/_end|end]]; [[e/_end|end]].**
-- **To be [[f/_free|free]] from that which [[h/_harasses|harasses]] or [[d/_disturbs|disturbs]]; be [[q/_quiet|quiet]] or still; be undisturbed.**
-- **To be or to [[p/_put|put]] [[i/_into|into]] a state of [[r/_rest|rest]].**
+- **To be [[f/_free|free]] from that which [[h/_harasses|harasses]] or [[d/_disturbs|disturbs]]; be [[q/_quiet|quiet]] or [[s/_still|still]]; be undisturbed.**
+- **To be or to [[p/_put|put]] [[i/_into|into]] a [[s/_state|state]] of [[r/_rest|rest]].**
 	- _Example: I shall not rest until I have uncovered the truth._
-- **To stay, [[r/_remain|remain]], be [[s/_situated|situated]].**
+- **To [[s/_stay|stay]], [[r/_remain|remain]], be [[s/_situated|situated]].**
 	- _Example: The blame seems to rest with your father._
 - **To [[l/_lean|lean]], [[l/_lie|lie]], or [[l/_lay|lay]].**
 	- _Example: A column rests on its pedestal._
-- **To [[c/_complete|complete]] [[o/_one|one]]'[[s/_s|s]] [[a/_active|active]] [[a/_advocacy|advocacy]] in a trial or [[o/_other|other]] [[p/_proceeding|proceeding]], and thus to wait for the [[o/_outcome|outcome]] ([[h/_however|however]], [[o/_one|one]] is still [[g/_generally|generally]] [[a/_available|available]] to [[a/_answer|answer]] [[q/_questions|questions]], [[e/_etc|etc]].)**
+- **To [[c/_complete|complete]] [[o/_one|one]]'[[s/_s|s]] [[a/_active|active]] [[a/_advocacy|advocacy]] in a trial or [[o/_other|other]] [[p/_proceeding|proceeding]], and thus to wait for the [[o/_outcome|outcome]] ([[h/_however|however]], [[o/_one|one]] is [[s/_still|still]] [[g/_generally|generally]] [[a/_available|available]] to [[a/_answer|answer]] [[q/_questions|questions]], [[e/_etc|etc]].)**
 	- _Example: I rest my case._
 - **To [[s/_sleep|sleep]]; [[s/_slumber|slumber]].**
 - **To [[l/_lie|lie]] [[d/_dormant|dormant]].**
@@ -37,6 +37,6 @@
 #adjective
 - **That [[r/_rests|rests]]; that is not in [[a/_action|action]] or in the [[p/_process|process]] of [[g/_growth|growth]].**
 - **Unemployed; [[o/_out|out]] of work.**
-- **[[r/_remaining|Remaining]]; stationary.**
+- **[[r/_remaining|Remaining]]; [[s/_stationary|stationary]].**
 ---
 ---

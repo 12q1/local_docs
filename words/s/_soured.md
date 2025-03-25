@@ -4,7 +4,7 @@
 - **To [[m/_make|make]] [[s/_sour|sour]].**
 	- _Example: Too much lemon juice will sour the recipe._
 - **To [[b/_become|become]] [[s/_sour|sour]].**
-- **To spoil or [[m/_mar|mar]]; to [[m/_make|make]] [[d/_disenchanted|disenchanted]].**
+- **To [[s/_spoil|spoil]] or [[m/_mar|mar]]; to [[m/_make|make]] [[d/_disenchanted|disenchanted]].**
 - **To [[b/_become|become]] [[d/_disenchanted|disenchanted]].**
 	- _Example: We broke up after our relationship soured._
 - **To [[m/_make|make]] ([[s/_soil|soil]]) [[c/_cold|cold]] and unproductive.**

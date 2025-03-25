@@ -13,7 +13,7 @@
 #noun
 - **A [[s/_sizeable|sizeable]] [[j/_jump|jump]], [[g/_great|great]] [[l/_leap|leap]].**
 	- _Example: The deer crossed the stream in a single bound._
-- **A spring from [[o/_one|one]] [[f/_foot|foot]] to the [[o/_other|other]] in [[d/_dancing|dancing]].**
+- **A [[s/_spring|spring]] from [[o/_one|one]] [[f/_foot|foot]] to the [[o/_other|other]] in [[d/_dancing|dancing]].**
 - **A [[b/_bounce|bounce]]; a [[r/_rebound|rebound]].**
 	- _Example: the bound of a ball_
 ---

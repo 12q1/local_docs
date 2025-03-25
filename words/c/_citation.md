@@ -10,7 +10,7 @@
 - **[[e/_enumeration|Enumeration]]; [[m/_mention|mention]].**
 	- _Example: It's a simple citation of facts._
 - **A [[r/_reference|reference]] to [[d/_decided|decided]] [[c/_cases|cases]], or [[b/_books|books]] of [[a/_authority|authority]], to [[p/_prove|prove]] a [[p/_point|point]] in [[l/_law|law]].**
-- **A [[c/_commendation|commendation]] in [[r/_recognition|recognition]] of [[s/_some|some]] [[a/_achievement|achievement]], or a [[f/_formal|formal]] statement of an [[a/_achievement|achievement]].**
+- **A [[c/_commendation|commendation]] in [[r/_recognition|recognition]] of [[s/_some|some]] [[a/_achievement|achievement]], or a [[f/_formal|formal]] [[s/_statement|statement]] of an [[a/_achievement|achievement]].**
 ---
 ### Synonyms
 - [[q/_quotation|quotation]], [[q/_quote|quote]]

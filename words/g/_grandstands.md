@@ -1,7 +1,7 @@
 # Grandstands
 ---
 #noun
-- **The [[s/_seating|seating]] [[a/_area|area]] at a stadium or [[a/_arena|arena]]; the [[b/_bleachers|bleachers]].**
+- **The [[s/_seating|seating]] [[a/_area|area]] at a [[s/_stadium|stadium]] or [[a/_arena|arena]]; the [[b/_bleachers|bleachers]].**
 - **The [[a/_audience|audience]] at a [[p/_public|public]] [[e/_event|event]].**
 ---
 #verb

@@ -23,25 +23,25 @@
 	- _Example: We piled the camel with our loads._
 - **To [[a/_add|add]] [[s/_something|something]] to a [[g/_great|great]] [[n/_number|number]].**
 - **(of vehicles) To [[c/_create|create]] a [[h/_hold|hold]]-up.**
-- **To [[p/_place|place]] ([[g/_guns|guns]], [[m/_muskets|muskets]], [[e/_etc|etc]].) together in threes [[s/_so|so]] that they [[c/_can|can]] stand upright, supporting [[e/_each|each]] [[o/_other|other]].**
+- **To [[p/_place|place]] ([[g/_guns|guns]], [[m/_muskets|muskets]], [[e/_etc|etc]].) together in threes [[s/_so|so]] that they [[c/_can|can]] [[s/_stand|stand]] upright, supporting [[e/_each|each]] [[o/_other|other]].**
 ---
 ### Synonyms
 - [[h/_heap|heap]]
 #noun
 - **A [[d/_dart|dart]]; an [[a/_arrow|arrow]].**
-- **The [[h/_head|head]] of an [[a/_arrow|arrow]] or spear.**
-- **A [[l/_large|large]] stake, or [[p/_piece|piece]] of [[p/_pointed|pointed]] timber, steel [[e/_etc|etc]]., [[d/_driven|driven]] [[i/_into|into]] the [[e/_earth|earth]] or [[s/_sea|sea]]-[[b/_bed|bed]] for the support of a [[b/_building|building]], a [[p/_pier|pier]], or [[o/_other|other]] superstructure, or to [[f/_form|form]] a [[c/_cofferdam|cofferdam]], [[e/_etc|etc]].**
+- **The [[h/_head|head]] of an [[a/_arrow|arrow]] or [[s/_spear|spear]].**
+- **A [[l/_large|large]] [[s/_stake|stake]], or [[p/_piece|piece]] of [[p/_pointed|pointed]] timber, [[s/_steel|steel]] [[e/_etc|etc]]., [[d/_driven|driven]] [[i/_into|into]] the [[e/_earth|earth]] or [[s/_sea|sea]]-[[b/_bed|bed]] for the support of a [[b/_building|building]], a [[p/_pier|pier]], or [[o/_other|other]] superstructure, or to [[f/_form|form]] a [[c/_cofferdam|cofferdam]], [[e/_etc|etc]].**
 - **[[o/_one|One]] of the [[o/_ordinaries|ordinaries]] or subordinaries [[h/_having|having]] the [[f/_form|form]] of a wedge, usually [[p/_placed|placed]] [[p/_palewise|palewise]], with the [[b/_broadest|broadest]] [[e/_end|end]] uppermost.**
 ---
 #verb
-- **To [[d/_drive|drive]] [[p/_piles|piles]] [[i/_into|into]]; to [[f/_fill|fill]] with [[p/_piles|piles]]; to strengthen with [[p/_piles|piles]].**
+- **To [[d/_drive|drive]] [[p/_piles|piles]] [[i/_into|into]]; to [[f/_fill|fill]] with [[p/_piles|piles]]; to [[s/_strengthen|strengthen]] with [[p/_piles|piles]].**
 ---
 #noun
 - **(usually in the [[p/_plural|plural]]) A [[h/_hemorrhoid|hemorrhoid]].**
 ---
 #noun
 - **[[h/_hair|Hair]], [[e/_especially|especially]] when very [[f/_fine|fine]] or [[s/_short|short]]; the [[f/_fine|fine]] underfur of [[c/_certain|certain]] [[a/_animals|animals]]. ([[f/_formerly|Formerly]] [[c/_countable|countable]], [[n/_now|now]] treated as a [[c/_collective|collective]] [[s/_singular|singular]].)**
-- **The [[r/_raised|raised]] [[h/_hairs|hairs]], [[l/_loops|loops]] or strands of a [[f/_fabric|fabric]]; the [[n/_nap|nap]] of a [[c/_cloth|cloth]].**
+- **The [[r/_raised|raised]] [[h/_hairs|hairs]], [[l/_loops|loops]] or [[s/_strands|strands]] of a [[f/_fabric|fabric]]; the [[n/_nap|nap]] of a [[c/_cloth|cloth]].**
 ---
 #verb
 - **To [[g/_give|give]] a [[p/_pile|pile]] to; to [[m/_make|make]] [[s/_shaggy|shaggy]].**

@@ -13,7 +13,7 @@
 	- _Example: Two raised to the fifth power equals 32._
 - **(of a verb) To [[e/_extract|extract]] (a subject or [[o/_other|other]] verb [[a/_argument|argument]]) [[o/_out|out]] of an [[i/_inner|inner]] [[c/_clause|clause]].**
 - **(of a vowel) To [[p/_produce|produce]] a vowel with the tongue [[p/_positioned|positioned]] [[c/_closer|closer]] to the [[r/_roof|roof]] of the [[m/_mouth|mouth]].**
-- **To [[i/_increase|increase]] the [[n/_nominal|nominal]] value of (a [[c/_cheque|cheque]], [[m/_money|money]] [[o/_order|order]], [[e/_etc|etc]].) by [[f/_fraudulently|fraudulently]] [[c/_changing|changing]] the writing or [[p/_printing|printing]] in which the sum [[p/_payable|payable]] is specified.**
+- **To [[i/_increase|increase]] the [[n/_nominal|nominal]] value of (a [[c/_cheque|cheque]], [[m/_money|money]] [[o/_order|order]], [[e/_etc|etc]].) by [[f/_fraudulently|fraudulently]] [[c/_changing|changing]] the writing or [[p/_printing|printing]] in which the sum [[p/_payable|payable]] is [[s/_specified|specified]].**
 - **To throw (an [[e/_exception|exception]]).**
 	- _Example: A division by zero will raise an exception._
 ---

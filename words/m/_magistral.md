@@ -8,6 +8,6 @@
 #adjective
 - **[[p/_pertaining|Pertaining]] to or [[b/_befitting|befitting]] a [[m/_master|master]]; [[a/_authoritative|authoritative]].**
 - **([[p/_pharmaceutical|pharmaceutical]] [[e/_effect|effect]]) [[s/_sovereign|Sovereign]] (of a [[r/_remedy|remedy]]); [[e/_extremely|extremely]] [[e/_effective|effective]].**
-- **[[f/_formulated|Formulated]] [[e/_extemporaneously|extemporaneously]], or for a special [[c/_case|case]]; [[o/_opposed|opposed]] to [[o/_officinal|officinal]], and [[s/_said|said]] of [[p/_prescriptions|prescriptions]] and [[m/_medicines|medicines]].**
+- **[[f/_formulated|Formulated]] [[e/_extemporaneously|extemporaneously]], or for a [[s/_special|special]] [[c/_case|case]]; [[o/_opposed|opposed]] to [[o/_officinal|officinal]], and [[s/_said|said]] of [[p/_prescriptions|prescriptions]] and [[m/_medicines|medicines]].**
 ---
 ---

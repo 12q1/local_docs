@@ -1,8 +1,8 @@
 # Buntings
 ---
 #noun
-- **Strips of [[m/_material|material]] used as [[f/_festive|festive]] [[d/_decoration|decoration]], [[e/_especially|especially]] in the [[c/_colours|colours]] of the [[n/_national|national]] [[f/_flag|flag]].**
-- **A thin [[c/_cloth|cloth]] of woven wool from which [[f/_flags|flags]] are [[m/_made|made]]; it is [[l/_light|light]] [[e/_enough|enough]] to spread in a [[g/_gentle|gentle]] wind but [[r/_resistant|resistant]] to [[f/_fraying|fraying]] in a strong wind.**
+- **[[s/_strips|Strips]] of [[m/_material|material]] used as [[f/_festive|festive]] [[d/_decoration|decoration]], [[e/_especially|especially]] in the [[c/_colours|colours]] of the [[n/_national|national]] [[f/_flag|flag]].**
+- **A thin [[c/_cloth|cloth]] of woven wool from which [[f/_flags|flags]] are [[m/_made|made]]; it is [[l/_light|light]] [[e/_enough|enough]] to [[s/_spread|spread]] in a [[g/_gentle|gentle]] wind but [[r/_resistant|resistant]] to [[f/_fraying|fraying]] in a [[s/_strong|strong]] wind.**
 - **[[f/_flags|Flags]] [[c/_considered|considered]] as a [[g/_group|group]].**
 ---
 #noun
@@ -13,7 +13,7 @@
 ---
 #noun
 - **A [[p/_pushing|pushing]] [[a/_action|action]].**
-- **A strong timber; a stout [[p/_prop|prop]].**
-- **An [[o/_old|old]] [[b/_boys|boys]]' [[g/_game|game]], [[p/_played|played]] with sticks and a [[s/_small|small]] [[p/_piece|piece]] of wood.**
+- **A [[s/_strong|strong]] timber; a [[s/_stout|stout]] [[p/_prop|prop]].**
+- **An [[o/_old|old]] [[b/_boys|boys]]' [[g/_game|game]], [[p/_played|played]] with [[s/_sticks|sticks]] and a [[s/_small|small]] [[p/_piece|piece]] of wood.**
 ---
 ---

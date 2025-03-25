@@ -10,9 +10,9 @@
 - **An [[a/_appendix|appendix]] or [[a/_addition|addition]], as to a [[b/_book|book]].**
 - **(in the [[p/_plural|plural]]) Testicles.**
 - **A [[p/_pendulum|pendulum]].**
-- **The stem and [[r/_ring|ring]] of a watch, by which it is suspended.**
+- **The [[s/_stem|stem]] and [[r/_ring|ring]] of a watch, by which it is suspended.**
 - **A [[l/_lamp|lamp]] [[h/_hanging|hanging]] from the [[r/_roof|roof]].**
-- **An [[o/_ornament|ornament]] of wood or of stone [[h/_hanging|hanging]] [[d/_downwards|downwards]] from a [[r/_roof|roof]].**
+- **An [[o/_ornament|ornament]] of wood or of [[s/_stone|stone]] [[h/_hanging|hanging]] [[d/_downwards|downwards]] from a [[r/_roof|roof]].**
 - **A [[l/_long|long]] [[n/_narrow|narrow]] [[f/_flag|flag]] at the [[h/_head|head]] of the [[p/_principal|principal]] [[m/_mast|mast]] in a [[r/_royal|royal]] [[s/_ship|ship]].**
 ---
 ---

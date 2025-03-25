@@ -9,7 +9,7 @@
 - [[c/_ciggy|ciggy]], [[s/_smoke|smoke]]
 #noun
 - **A [[c/_chore|chore]]: an [[a/_arduous|arduous]] and tiresome task.**
-- **A [[y/_younger|younger]] student [[a/_acting|acting]] as a [[s/_servant|servant]] for [[s/_senior|senior]] students.**
+- **A [[y/_younger|younger]] [[s/_student|student]] [[a/_acting|acting]] as a [[s/_servant|servant]] for [[s/_senior|senior]] [[s/_students|students]].**
 ---
 #noun
 - **(usually [[o/_offensive|offensive]], [[s/_sometimes|sometimes]] [[a/_affectionate|affectionate]]) A [[h/_homosexual|homosexual]] [[m/_man|man]], [[e/_especially|especially]] (usually [[d/_derogatory|derogatory]]) an [[e/_especially|especially]] [[e/_effeminate|effeminate]] or unusual [[o/_one|one]].**

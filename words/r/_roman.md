@@ -1,7 +1,7 @@
 # Roman
 ---
 #noun
-- **[[o/_one|One]] of the [[m/_main|main]] three types used for the [[l/_latin|Latin]] [[a/_alphabet|alphabet]] (the [[o/_others|others]] [[b/_being|being]] [[i/_italics|italics]] and blackletter), in which the [[a/_ascenders|ascenders]] are [[m/_mostly|mostly]] straight.**
+- **[[o/_one|One]] of the [[m/_main|main]] three types used for the [[l/_latin|Latin]] [[a/_alphabet|alphabet]] (the [[o/_others|others]] [[b/_being|being]] [[i/_italics|italics]] and blackletter), in which the [[a/_ascenders|ascenders]] are [[m/_mostly|mostly]] [[s/_straight|straight]].**
 - **A [[n/_novel|novel]].**
 ---
 #adjective

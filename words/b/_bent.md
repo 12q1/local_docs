@@ -9,7 +9,7 @@
 - **To [[c/_change|change]] [[d/_direction|direction]].**
 	- _Example: The road bends to the right_
 - **To be [[i/_inclined|inclined]]; to [[d/_direct|direct]] [[i/_itself|itself]].**
-- **(usually with "[[d/_down|down]]") To stoop.**
+- **(usually with "[[d/_down|down]]") To [[s/_stoop|stoop]].**
 	- _Example: He bent down to pick up the pieces._
 - **To [[b/_bow|bow]] in [[p/_prayer|prayer]], or in token of submission.**
 - **To [[f/_force|force]] to submit.**
@@ -32,17 +32,17 @@
 	- _Example: He had a natural bent for painting._
 - **A [[p/_predisposition|predisposition]] to [[a/_act|act]] or [[r/_react|react]] in a [[p/_particular|particular]] way.**
 	- _Example: His mind was of a technical bent._
-- **The state of [[b/_being|being]] [[c/_curved|curved]], [[c/_crooked|crooked]], or [[i/_inclined|inclined]] from a straight [[l/_line|line]]; [[f/_flexure|flexure]]; [[c/_curvity|curvity]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[c/_curved|curved]], [[c/_crooked|crooked]], or [[i/_inclined|inclined]] from a [[s/_straight|straight]] [[l/_line|line]]; [[f/_flexure|flexure]]; [[c/_curvity|curvity]].**
 	- _Example: the bent of a bow_
 - **A [[d/_declivity|declivity]] or [[s/_slope|slope]], as of a [[h/_hill|hill]].**
 - **[[p/_particular|Particular]] [[d/_direction|direction]] or tendency; [[f/_flexion|flexion]]; [[c/_course|course]].**
-- **A transverse [[f/_frame|frame]] of a [[f/_framed|framed]] structure; a subunit of [[f/_framing|framing]].**
+- **A transverse [[f/_frame|frame]] of a [[f/_framed|framed]] [[s/_structure|structure]]; a subunit of [[f/_framing|framing]].**
 - **Tension; [[f/_force|force]] of [[a/_acting|acting]]; [[e/_energy|energy]]; [[i/_impetus|impetus]].**
 ---
 ### Synonyms
 - [[d/_disposition|disposition]], [[p/_predilection|predilection]], [[p/_proclivity|proclivity]], [[p/_propensity|propensity]]
 #adjective
-- **(Of [[s/_something|something]] that is usually straight) [[f/_folded|folded]], [[d/_dented|dented]]**
+- **(Of [[s/_something|something]] that is usually [[s/_straight|straight]]) [[f/_folded|folded]], [[d/_dented|dented]]**
 - **[[c/_corrupt|Corrupt]], [[d/_dishonest|dishonest]]**
 - **[[h/_homosexual|Homosexual]].**
 - **[[d/_determined|Determined]] or [[i/_insistent|insistent]].**

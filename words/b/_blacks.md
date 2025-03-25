@@ -14,7 +14,7 @@
 - **(in [[c/_chess|chess]] and [[s/_similar|similar]] [[g/_games|games]]) The [[p/_person|person]] [[p/_playing|playing]] with the [[b/_black|black]] [[s/_set|set]] of [[p/_pieces|pieces]].**
 	- _Example: At this point black makes a disastrous move._
 - **[[s/_something|Something]], or a [[p/_part|part]] of a thing, which is [[b/_black|black]].**
-- **A stain; a spot.**
+- **A [[s/_stain|stain]]; a [[s/_spot|spot]].**
 - **A [[d/_dark|dark]] [[s/_smut|smut]] [[f/_fungus|fungus]], [[h/_harmful|harmful]] to wheat.**
 - **[[m/_marijuana|Marijuana]].**
 ---

@@ -8,7 +8,7 @@
 ---
 #verb
 - **To [[r/_remove|remove]] or [[c/_conjure|conjure]] [[a/_away|away]], as [[i/_if|if]] by a [[h/_harlequin|harlequin]]'[[s/_s|s]] trick.**
-- **To [[m/_make|make]] sport by [[p/_playing|playing]] [[l/_ludicrous|ludicrous]] tricks.**
+- **To [[m/_make|make]] [[s/_sport|sport]] by [[p/_playing|playing]] [[l/_ludicrous|ludicrous]] tricks.**
 ---
 #adjective
 - **[[b/_brightly|Brightly]] [[c/_colored|colored]], [[e/_especially|especially]] in a [[p/_pattern|pattern]] [[l/_like|like]] that of a [[h/_harlequin|harlequin]] [[c/_clown|clown]]'[[s/_s|s]] [[c/_clothes|clothes]].**

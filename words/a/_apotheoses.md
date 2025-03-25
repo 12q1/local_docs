@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[f/_fact|fact]] or [[a/_action|action]] of [[b/_becoming|becoming]] or [[m/_making|making]] [[i/_into|into]] a [[g/_god|god]]; [[d/_deification|deification]].**
-- **[[g/_glorification|Glorification]], [[e/_exaltation|exaltation]]; [[c/_crediting|crediting]] [[s/_someone|someone]] or [[s/_something|something]] with [[e/_extraordinary|extraordinary]] [[p/_power|power]] or status.**
+- **[[g/_glorification|Glorification]], [[e/_exaltation|exaltation]]; [[c/_crediting|crediting]] [[s/_someone|someone]] or [[s/_something|something]] with [[e/_extraordinary|extraordinary]] [[p/_power|power]] or [[s/_status|status]].**
 	- _Example: The turn of the century saw the apotheosis of digital technology._
 - **A [[g/_glorified|glorified]] [[e/_example|example]] or [[i/_ideal|ideal]]; the [[a/_apex|apex]] or [[p/_pinnacle|pinnacle]] (of a [[c/_concept|concept]] or [[b/_belief|belief]]).**
 - **The [[b/_best|best]] [[m/_moment|moment]] or [[h/_highest|highest]] [[p/_point|point]] in the [[d/_development|development]] of [[s/_something|something]], for [[e/_example|example]] of a [[l/_life|life]] or [[c/_career|career]]; the [[a/_apex|apex]], [[c/_culmination|culmination]], or [[c/_climax|climax]] (of a [[d/_development|development]]).**

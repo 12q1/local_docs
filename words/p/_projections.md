@@ -1,7 +1,7 @@
 # Projections
 ---
 #noun
-- **[[s/_something|Something]] which [[p/_projects|projects]], [[p/_protrudes|protrudes]], [[j/_juts|juts]] [[o/_out|out]], sticks [[o/_out|out]], or stands [[o/_out|out]].**
+- **[[s/_something|Something]] which [[p/_projects|projects]], [[p/_protrudes|protrudes]], [[j/_juts|juts]] [[o/_out|out]], [[s/_sticks|sticks]] [[o/_out|out]], or [[s/_stands|stands]] [[o/_out|out]].**
 	- _Example: The face of the cliff had many projections that were big enough for birds to nest on._
 - **The [[a/_action|action]] of [[p/_projecting|projecting]] or throwing or [[p/_propelling|propelling]] [[s/_something|something]].**
 - **The [[c/_crisis|crisis]] or [[d/_decisive|decisive]] [[p/_point|point]] of [[a/_any|any]] [[p/_process|process]], [[e/_especially|especially]] a [[c/_culinary|culinary]] [[p/_process|process]].**

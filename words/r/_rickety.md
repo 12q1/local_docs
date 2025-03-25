@@ -1,7 +1,7 @@
 # Rickety
 ---
 #adjective
-- **Of an [[o/_object|object]]: not strong or sturdy, as [[b/_because|because]] of [[p/_poor|poor]] [[c/_construction|construction]] or upkeep; not [[s/_safe|safe]] or [[s/_secure|secure]].**
+- **Of an [[o/_object|object]]: not [[s/_strong|strong]] or [[s/_sturdy|sturdy]], as [[b/_because|because]] of [[p/_poor|poor]] [[c/_construction|construction]] or upkeep; not [[s/_safe|safe]] or [[s/_secure|secure]].**
 	- _Example: He hesitated about climbing such a small, rickety ladder._
 - **Of a [[p/_person|person]]: [[f/_feeble|feeble]] in the [[j/_joints|joints]]; tottering.**
 	- _Example: The rickety old man hardly managed to climb the stairs._

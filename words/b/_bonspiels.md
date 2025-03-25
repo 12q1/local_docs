@@ -1,6 +1,6 @@
 # Bonspiels
 ---
 #noun
-- **A tournament in the sport of [[c/_curling|curling]].**
+- **A tournament in the [[s/_sport|sport]] of [[c/_curling|curling]].**
 ---
 ---

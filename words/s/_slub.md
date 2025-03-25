@@ -5,6 +5,6 @@
 - **[[f/_fabric|Fabric]] [[f/_fiber|fiber]] [[p/_produced|produced]] by [[s/_slubbing|slubbing]].**
 ---
 #verb
-- **To [[d/_draw|draw]] and twist [[f/_fibers|fibers]] in [[o/_order|order]] to [[p/_prepare|prepare]] them for spinning.**
+- **To [[d/_draw|draw]] and twist [[f/_fibers|fibers]] in [[o/_order|order]] to [[p/_prepare|prepare]] them for [[s/_spinning|spinning]].**
 ---
 ---

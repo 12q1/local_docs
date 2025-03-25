@@ -4,7 +4,7 @@
 - **To train.**
 - **To [[i/_instruct|instruct]]; to train.**
 	- _Example: She has coached many opera stars._
-- **To study under a tutor.**
+- **To [[s/_study|study]] under a tutor.**
 - **To travel in a [[c/_coach|coach]] ([[s/_sometimes|sometimes]] [[c/_coach|coach]] it).**
 - **To [[c/_convey|convey]] in a [[c/_coach|coach]].**
 ---

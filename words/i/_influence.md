@@ -7,7 +7,7 @@
 	- _Example: I'm not able to exercise influence over him._
 - **A [[p/_person|person]] or thing [[e/_exerting|exerting]] such [[p/_power|power]] or [[a/_action|action]].**
 	- _Example: He has been a great influence on the voters during the elections._
-- **An [[e/_element|element]] [[b/_believed|believed]] to [[d/_determine|determine]] [[s/_someone|someone]]'[[s/_s|s]] [[c/_character|character]] or [[i/_individual|individual]] tendencies, [[c/_caused|caused]] by the [[p/_position|position]] of the stars and [[p/_planets|planets]] at the time of [[o/_one|one]]'[[s/_s|s]] [[b/_birth|birth]].**
+- **An [[e/_element|element]] [[b/_believed|believed]] to [[d/_determine|determine]] [[s/_someone|someone]]'[[s/_s|s]] [[c/_character|character]] or [[i/_individual|individual]] tendencies, [[c/_caused|caused]] by the [[p/_position|position]] of the [[s/_stars|stars]] and [[p/_planets|planets]] at the time of [[o/_one|one]]'[[s/_s|s]] [[b/_birth|birth]].**
 - **The [[a/_action|action]] of [[f/_flowing|flowing]] in; [[i/_influx|influx]].**
 - **[[e/_electrostatic|Electrostatic]] [[i/_induction|induction]].**
 ---

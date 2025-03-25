@@ -10,6 +10,6 @@
 ### Synonyms
 - [[c/_cheater|cheater]], [[c/_criminal|criminal]], [[f/_fugitive|fugitive]], [[o/_outlaw|outlaw]]
 #verb
-- **To [[r/_rob|rob]], or steal from, in the [[m/_manner|manner]] of a [[b/_bandit|bandit]].**
+- **To [[r/_rob|rob]], or [[s/_steal|steal]] from, in the [[m/_manner|manner]] of a [[b/_bandit|bandit]].**
 ---
 ---

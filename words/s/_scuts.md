@@ -9,6 +9,6 @@
 - **A [[c/_contemptible|contemptible]] [[p/_person|person]].**
 ---
 #noun
-- **[[d/_distasteful|Distasteful]] work; [[d/_drudgery|drudgery]]; specifically [[s/_some|some]] [[m/_menial|menial]] [[p/_procedure|procedure]] [[l/_left|left]] for a [[d/_doctor|doctor]] or [[m/_medical|medical]] student to [[c/_complete|complete]], [[s/_sometimes|sometimes]] for training [[p/_purposes|purposes]].**
+- **[[d/_distasteful|Distasteful]] work; [[d/_drudgery|drudgery]]; [[s/_specifically|specifically]] [[s/_some|some]] [[m/_menial|menial]] [[p/_procedure|procedure]] [[l/_left|left]] for a [[d/_doctor|doctor]] or [[m/_medical|medical]] [[s/_student|student]] to [[c/_complete|complete]], [[s/_sometimes|sometimes]] for training [[p/_purposes|purposes]].**
 ---
 ---

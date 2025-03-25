@@ -6,7 +6,7 @@
 ### Synonyms
 - [[d/_dull|dull]]
 #adjective
-- **Strong; [[b/_bold|bold]]; [[d/_doughty|doughty]].**
+- **[[s/_strong|Strong]]; [[b/_bold|bold]]; [[d/_doughty|doughty]].**
 ---
 #noun
 - **A [[d/_device|device]] used to [[c/_control|control]] [[s/_sound|sound]] volume.**

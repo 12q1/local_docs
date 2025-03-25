@@ -1,9 +1,9 @@
 # Definition
 ---
 #noun
-- **A statement of the [[m/_meaning|meaning]] of a word or word [[g/_group|group]] or a [[s/_sign|sign]] or [[s/_symbol|symbol]] ([[d/_dictionary|dictionary]] [[d/_definitions|definitions]]).**
+- **A [[s/_statement|statement]] of the [[m/_meaning|meaning]] of a word or word [[g/_group|group]] or a [[s/_sign|sign]] or [[s/_symbol|symbol]] ([[d/_dictionary|dictionary]] [[d/_definitions|definitions]]).**
 - **(usually with the [[d/_definite|definite]] [[a/_article|article]] the) A [[c/_clear|clear]] [[i/_instance|instance]] [[c/_conforming|conforming]] to the [[d/_dictionary|dictionary]] or textbook [[d/_definition|definition]].**
-- **A statement [[e/_expressing|expressing]] the [[e/_essential|essential]] [[n/_nature|nature]] of [[s/_something|something]]; [[f/_formulation|formulation]]**
+- **A [[s/_statement|statement]] [[e/_expressing|expressing]] the [[e/_essential|essential]] [[n/_nature|nature]] of [[s/_something|something]]; [[f/_formulation|formulation]]**
 - **The [[a/_action|action]] or [[p/_process|process]] of [[d/_defining|defining]].**
 - **The [[a/_act|act]] of [[d/_defining|defining]]; [[d/_determination|determination]] of the [[l/_limits|limits]].**
 - **A [[p/_product|product]] of [[d/_defining|defining]].**
@@ -15,7 +15,7 @@
 - **[[s/_sharp|Sharp]] [[d/_demarcation|demarcation]] of [[o/_outlines|outlines]] or [[l/_limits|limits]].**
 	- _Example: A jacket with distinct waist definition._
 - **The [[d/_degree|degree]] to which [[i/_individual|individual]] [[m/_muscles|muscles]] are [[d/_distinct|distinct]] on the [[b/_body|body]].**
-- **A statement which [[p/_provides|provides]] a [[p/_previous|previous]] [[d/_declaration|declaration]] with a value or [[b/_body|body]] of a subroutine (in the [[c/_case|case]] of [[f/_function|function]]).**
-- **A statement that [[e/_establishes|establishes]] the [[r/_referent|referent]] of a term or [[n/_notation|notation]].**
+- **A [[s/_statement|statement]] which [[p/_provides|provides]] a [[p/_previous|previous]] [[d/_declaration|declaration]] with a value or [[b/_body|body]] of a subroutine (in the [[c/_case|case]] of [[f/_function|function]]).**
+- **A [[s/_statement|statement]] that [[e/_establishes|establishes]] the [[r/_referent|referent]] of a term or [[n/_notation|notation]].**
 ---
 ---

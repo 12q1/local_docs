@@ -12,11 +12,11 @@
 	- _Example: For third and short, they're going to bring in their jumbo package._
 - **The [[m/_male|male]] [[g/_genitalia|genitalia]].**
 - **A [[c/_charge|charge]] [[m/_made|made]] for [[p/_packing|packing]] [[g/_goods|goods]].**
-- **A [[g/_group|group]] of [[r/_related|related]] stories spread [[o/_over|over]] [[s/_several|several]] [[p/_pages|pages]].**
+- **A [[g/_group|group]] of [[r/_related|related]] [[s/_stories|stories]] [[s/_spread|spread]] [[o/_over|over]] [[s/_several|several]] [[p/_pages|pages]].**
 ---
 #verb
 - **To [[p/_pack|pack]] or [[b/_bundle|bundle]] [[s/_something|something]].**
 - **To travel on a [[p/_package|package]] [[h/_holiday|holiday]].**
-- **To [[p/_prepare|prepare]] (a [[b/_book|book]], a television [[s/_series|series]], [[e/_etc|etc]].), [[i/_including|including]] [[a/_all|all]] stages from [[r/_research|research]] to [[p/_production|production]], in [[o/_order|order]] to [[s/_sell|sell]] the [[r/_result|result]] to a [[p/_publisher|publisher]] or [[b/_broadcaster|broadcaster]].**
+- **To [[p/_prepare|prepare]] (a [[b/_book|book]], a television [[s/_series|series]], [[e/_etc|etc]].), [[i/_including|including]] [[a/_all|all]] [[s/_stages|stages]] from [[r/_research|research]] to [[p/_production|production]], in [[o/_order|order]] to [[s/_sell|sell]] the [[r/_result|result]] to a [[p/_publisher|publisher]] or [[b/_broadcaster|broadcaster]].**
 ---
 ---

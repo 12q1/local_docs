@@ -24,6 +24,6 @@
 	- _Example: She has excellent motor skills._
 - **[[r/_relating|Relating]] to [[m/_motor|motor]] [[c/_cars|cars]]**
 	- _Example: Motor insurance is expensive for youngsters._
-- **[[p/_propelled|Propelled]] by an [[i/_internal|internal]] [[c/_combustion|combustion]] [[e/_engine|engine]] (as [[o/_opposed|opposed]] to a steam [[e/_engine|engine]] or turbine).**
+- **[[p/_propelled|Propelled]] by an [[i/_internal|internal]] [[c/_combustion|combustion]] [[e/_engine|engine]] (as [[o/_opposed|opposed]] to a [[s/_steam|steam]] [[e/_engine|engine]] or turbine).**
 ---
 ---

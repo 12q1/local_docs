@@ -1,7 +1,7 @@
 # Altered
 ---
 #verb
-- **To [[c/_change|change]] the [[f/_form|form]] or structure of.**
+- **To [[c/_change|change]] the [[f/_form|form]] or [[s/_structure|structure]] of.**
 - **To [[b/_become|become]] [[d/_different|different]].**
 - **To tailor [[c/_clothes|clothes]] to [[m/_make|make]] them [[f/_fit|fit]].**
 - **To [[c/_castrate|castrate]], [[n/_neuter|neuter]] or [[s/_spay|spay]] (a [[d/_dog|dog]] or [[o/_other|other]] [[a/_animal|animal]]).**

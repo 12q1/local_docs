@@ -1,7 +1,7 @@
 # Problematic
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[p/_problem|problem]] or [[d/_difficulty|difficulty]] in a [[p/_particular|particular]] [[f/_field|field]] of study.**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[p/_problem|problem]] or [[d/_difficulty|difficulty]] in a [[p/_particular|particular]] [[f/_field|field]] of [[s/_study|study]].**
 ---
 #adjective
 - **[[p/_posing|Posing]] a [[p/_problem|problem]]; [[h/_having|having]] or suffering from [[p/_problem|problem]]([[s/_s|s]]):**

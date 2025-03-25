@@ -19,7 +19,7 @@
 	- _Example: He performed before the troops in North Africa._
 - **Under [[c/_consideration|consideration]], [[j/_judgment|judgment]], [[a/_authority|authority]] of ([[s/_someone|someone]]).**
 	- _Example: The case laid before the panel aroused nothing but ridicule._
-- **In store for, in the [[f/_future|future]] of ([[s/_someone|someone]]).**
+- **In [[s/_store|store]] for, in the [[f/_future|future]] of ([[s/_someone|someone]]).**
 - **In [[f/_front|front]] of, [[a/_according|according]] to a [[f/_formal|formal]] [[s/_system|system]] of [[o/_ordering|ordering]] [[i/_items|items]].**
 	- _Example: In alphabetical order, "cat" comes before "dog", "canine" before feline"._
 - **At a [[h/_higher|higher]] or [[g/_greater|greater]] [[p/_position|position]] than, in a [[r/_ranking|ranking]].**

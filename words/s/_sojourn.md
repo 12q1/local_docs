@@ -1,7 +1,7 @@
 # Sojourn
 ---
 #noun
-- **A [[s/_short|short]] stay [[s/_somewhere|somewhere]].**
+- **A [[s/_short|short]] [[s/_stay|stay]] [[s/_somewhere|somewhere]].**
 - **A temporary [[r/_residence|residence]].**
 ---
 ### Synonyms

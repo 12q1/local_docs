@@ -1,7 +1,7 @@
 # Aiming
 ---
 #verb
-- **To [[p/_point|point]] or [[d/_direct|direct]] a [[m/_missile|missile]], or a weapon which [[p/_propels|propels]] as [[m/_missile|missile]], towards an [[o/_object|object]] or spot with the [[i/_intent|intent]] of [[h/_hitting|hitting]] it**
+- **To [[p/_point|point]] or [[d/_direct|direct]] a [[m/_missile|missile]], or a weapon which [[p/_propels|propels]] as [[m/_missile|missile]], towards an [[o/_object|object]] or [[s/_spot|spot]] with the [[i/_intent|intent]] of [[h/_hitting|hitting]] it**
 	- _Example: He aimed at the target, but the arrow flew straight over it._
 - **To [[d/_direct|direct]] the [[i/_intention|intention]] or [[p/_purpose|purpose]]; to [[a/_attempt|attempt]] the [[a/_accomplishment|accomplishment]] of a [[p/_purpose|purpose]]; to try to [[g/_gain|gain]]; to [[e/_endeavor|endeavor]];—[[f/_followed|followed]] by at, or by an [[i/_infinitive|infinitive]]**
 	- _Example: to aim at a pass_

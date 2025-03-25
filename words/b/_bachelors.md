@@ -6,9 +6,9 @@
 - **[[s/_someone|Someone]] who [[h/_has|has]] [[a/_achieved|achieved]] a [[b/_bachelor|bachelor]]'[[s/_s|s]] [[d/_degree|degree]].**
 - **A [[b/_bachelor|bachelor]] [[a/_apartment|apartment]].**
 - **An unmarried woman.**
-- **A [[k/_knight|knight]] who [[h/_had|had]] [[n/_no|no]] standard of [[h/_his|his]] [[o/_own|own]], but [[f/_fought|fought]] under the standard of [[a/_another|another]] in the [[f/_field|field]].**
+- **A [[k/_knight|knight]] who [[h/_had|had]] [[n/_no|no]] [[s/_standard|standard]] of [[h/_his|his]] [[o/_own|own]], but [[f/_fought|fought]] under the [[s/_standard|standard]] of [[a/_another|another]] in the [[f/_field|field]].**
 - **[[a/_among|Among]] [[l/_london|London]] tradesmen, a [[j/_junior|junior]] [[m/_member|member]] not [[y/_yet|yet]] [[a/_admitted|admitted]] to wear the [[l/_livery|livery]].**
-- **A [[k/_kind|kind]] of [[b/_bass|bass]], an [[e/_edible|edible]] [[f/_freshwater|freshwater]] [[f/_fish|fish]] (Pomoxis annularis) of the [[s/_southern|southern]] United States.**
+- **A [[k/_kind|kind]] of [[b/_bass|bass]], an [[e/_edible|edible]] [[f/_freshwater|freshwater]] [[f/_fish|fish]] (Pomoxis annularis) of the [[s/_southern|southern]] United [[s/_states|States]].**
 ---
 ### Synonyms
 - [[b/_baccalaureate|baccalaureate]]

@@ -25,6 +25,6 @@
 - **(of a [[c/_clock|clock]] or watch) To [[r/_run|run]] [[f/_fast|fast]].**
 ---
 #noun
-- **A square or [[b/_bevelled|bevelled]] [[n/_notch|notch]] [[c/_cut|cut]] [[o/_out|out]] of a [[g/_girder|girder]], [[b/_binding|binding]] [[j/_joist|joist]], or [[o/_other|other]] timber which supports a [[f/_floor|floor]] [[b/_beam|beam]], [[s/_so|so]] as to [[r/_receive|receive]] the [[e/_end|end]] of the [[f/_floor|floor]] [[b/_beam|beam]].**
+- **A [[s/_square|square]] or [[b/_bevelled|bevelled]] [[n/_notch|notch]] [[c/_cut|cut]] [[o/_out|out]] of a [[g/_girder|girder]], [[b/_binding|binding]] [[j/_joist|joist]], or [[o/_other|other]] timber which supports a [[f/_floor|floor]] [[b/_beam|beam]], [[s/_so|so]] as to [[r/_receive|receive]] the [[e/_end|end]] of the [[f/_floor|floor]] [[b/_beam|beam]].**
 ---
 ---

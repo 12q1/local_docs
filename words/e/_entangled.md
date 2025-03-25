@@ -14,6 +14,6 @@
 #adjective
 - **Tangled or twisted together**
 - **[[c/_confused|Confused]] or [[c/_complicated|complicated]]**
-- **(of two [[q/_quantum|quantum]] states) [[c/_correlated|correlated]], [[e/_even|even]] though [[p/_physically|physically]] [[s/_separated|separated]]; ([[r/_referring|referring]] to a state of a [[c/_composite|composite]] [[s/_system|system]]) not [[s/_separable|separable]]**
+- **(of two [[q/_quantum|quantum]] [[s/_states|states]]) [[c/_correlated|correlated]], [[e/_even|even]] though [[p/_physically|physically]] [[s/_separated|separated]]; ([[r/_referring|referring]] to a [[s/_state|state]] of a [[c/_composite|composite]] [[s/_system|system]]) not [[s/_separable|separable]]**
 ---
 ---

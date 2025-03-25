@@ -19,13 +19,13 @@
 	- _Example: There are three differences between these two pictures._
 - **A [[d/_disagreement|disagreement]] or [[a/_argument|argument]].**
 	- _Example: We have our little differences, but we are firm friends._
-- **[[s/_significant|Significant]] [[c/_change|change]] in or [[e/_effect|effect]] on a [[s/_situation|situation]] or state.**
+- **[[s/_significant|Significant]] [[c/_change|change]] in or [[e/_effect|effect]] on a [[s/_situation|situation]] or [[s/_state|state]].**
 	- _Example: It just won't make much difference to me._
 - **The [[r/_result|result]] of a subtraction; [[s/_sometimes|sometimes]] the [[a/_absolute|absolute]] value of this [[r/_result|result]].**
 	- _Example: The difference between 3 and 21 is 18._
 - **[[c/_choice|Choice]]; [[p/_preference|preference]].**
 - **An [[a/_addition|addition]] to a [[c/_coat|coat]] of [[a/_arms|arms]] to [[d/_distinguish|distinguish]] two [[p/_people|people]]'[[s/_s|s]] [[b/_bearings|bearings]] which would [[o/_otherwise|otherwise]] be the [[s/_same|same]]. [[s/_see|See]] [[a/_augmentation|augmentation]] and [[c/_cadency|cadency]].**
-- **The [[q/_quality|quality]] or [[a/_attribute|attribute]] which is [[a/_added|added]] to those of the [[g/_genus|genus]] to [[c/_constitute|constitute]] a species; a [[d/_differentia|differentia]].**
+- **The [[q/_quality|quality]] or [[a/_attribute|attribute]] which is [[a/_added|added]] to those of the [[g/_genus|genus]] to [[c/_constitute|constitute]] a [[s/_species|species]]; a [[d/_differentia|differentia]].**
 - **([[l/_logic|logic]] [[c/_circuits|circuits]]) A [[b/_boolean|Boolean]] [[o/_operation|operation]] which is TRUE when the two [[i/_input|input]] variables are [[d/_different|different]] but is [[o/_otherwise|otherwise]] [[f/_false|FALSE]]; the XOR [[o/_operation|operation]] (\scriptstyle A \[[o/_overline|overline]] [[b/_b|B]] + \[[o/_overline|overline]] A [[b/_b|B]]).**
 - **([[r/_relational|relational]] [[a/_algebra|algebra]]) the [[s/_set|set]] of [[e/_elements|elements]] that are in [[o/_one|one]] [[s/_set|set]] but not [[a/_another|another]] (\scriptstyle A \[[o/_overline|overline]] [[b/_b|B]]).**
 ---

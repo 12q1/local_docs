@@ -5,6 +5,6 @@
 - **To [[a/_apply|apply]] [[s/_smocking|smocking]].**
 ---
 #noun
-- **An [[e/_embroidery|embroidery]] technique in which the [[f/_fabric|fabric]] is [[g/_gathered|gathered]] and then [[e/_embroidered|embroidered]] with [[d/_decorative|decorative]] stitches to [[h/_hold|hold]] the [[g/_gathers|gathers]] in [[p/_place|place]]; the [[p/_product|product]] of the use of this [[e/_embroidery|embroidery]] technique.**
+- **An [[e/_embroidery|embroidery]] technique in which the [[f/_fabric|fabric]] is [[g/_gathered|gathered]] and then [[e/_embroidered|embroidered]] with [[d/_decorative|decorative]] [[s/_stitches|stitches]] to [[h/_hold|hold]] the [[g/_gathers|gathers]] in [[p/_place|place]]; the [[p/_product|product]] of the use of this [[e/_embroidery|embroidery]] technique.**
 ---
 ---

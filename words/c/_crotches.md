@@ -8,6 +8,6 @@
 - **[[e/_either|Either]] the [[m/_male|male]] or [[f/_female|female]] [[g/_genitalia|genitalia]].**
 	- _Example: He cringed at being kicked in the crotch._
 - **In the three-[[b/_ball|ball]] [[c/_carom|carom]] [[g/_game|game]], a [[s/_small|small]] [[s/_space|space]] at [[e/_each|each]] [[c/_corner|corner]] of the table.**
-- **The [[o/_open|open]] [[c/_counter|counter]] ([[n/_negative|negative]] [[s/_space|space]]) [[f/_formed|formed]] by two [[d/_downward|downward]] strokes that [[m/_meet|meet]] at an [[i/_internal|internal]] [[a/_acute|acute]] [[a/_angle|angle]], [[p/_potentially|potentially]] [[a/_above|above]] a vertex, as in the [[l/_letters|letters]] "V" and "[[y/_y|Y]]".**
+- **The [[o/_open|open]] [[c/_counter|counter]] ([[n/_negative|negative]] [[s/_space|space]]) [[f/_formed|formed]] by two [[d/_downward|downward]] [[s/_strokes|strokes]] that [[m/_meet|meet]] at an [[i/_internal|internal]] [[a/_acute|acute]] [[a/_angle|angle]], [[p/_potentially|potentially]] [[a/_above|above]] a vertex, as in the [[l/_letters|letters]] "V" and "[[y/_y|Y]]".**
 ---
 ---

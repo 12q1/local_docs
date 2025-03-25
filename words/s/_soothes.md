@@ -10,7 +10,7 @@
 - **To [[b/_bring|bring]] [[c/_comfort|comfort]] or [[r/_relief|relief]].**
 - **To [[k/_keep|keep]] in [[g/_good|good]] [[h/_humour|humour]]; wheedle; [[c/_cajole|cajole]]; [[f/_flatter|flatter]].**
 - **To [[p/_prove|prove]] true; verify; [[c/_confirm|confirm]] as true.**
-- **To [[c/_confirm|confirm]] the statements of; [[m/_maintain|maintain]] the truthfulness of (a [[p/_person|person]]); [[b/_bear|bear]] [[o/_out|out]].**
+- **To [[c/_confirm|confirm]] the [[s/_statements|statements]] of; [[m/_maintain|maintain]] the truthfulness of (a [[p/_person|person]]); [[b/_bear|bear]] [[o/_out|out]].**
 - **To [[a/_assent|assent]] to; [[y/_yield|yield]] to; [[h/_humour|humour]] by [[a/_agreement|agreement]] or [[c/_concession|concession]].**
 ---
 ### Synonyms

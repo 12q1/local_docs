@@ -1,7 +1,7 @@
 # Sloosh
 ---
 #noun
-- **A splash or [[r/_rush|rush]] of water**
+- **A [[s/_splash|splash]] or [[r/_rush|rush]] of water**
 ---
 #verb
 - **(of water) To [[f/_flow|flow]] with a [[r/_rush|rush]].**

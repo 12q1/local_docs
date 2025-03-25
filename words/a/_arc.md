@@ -6,7 +6,7 @@
 - **A [[c/_curve|curve]], in [[g/_general|general]].**
 - **A [[b/_band|band]] [[c/_contained|contained]] within [[p/_parallel|parallel]] [[c/_curves|curves]], or [[s/_something|something]] of that [[s/_shape|shape]].**
 - **([[e/_electrics|electrics]]) A [[f/_flow|flow]] of [[c/_current|current]] [[a/_across|across]] an [[i/_insulating|insulating]] [[m/_medium|medium]]; [[e/_especially|especially]] a [[h/_hot|hot]], [[l/_luminous|luminous]] [[d/_discharge|discharge]] [[b/_between|between]] [[e/_either|either]] two [[e/_electrodes|electrodes]] or as [[l/_lightning|lightning]].**
-- **A story [[a/_arc|arc]].**
+- **A [[s/_story|story]] [[a/_arc|arc]].**
 - **A [[c/_continuous|continuous]] [[m/_mapping|mapping]] from a [[r/_real|real]] [[i/_interval|interval]] (typically [0, 1]) [[i/_into|into]] a [[s/_space|space]].**
 - **A [[d/_directed|directed]] [[e/_edge|edge]].**
 - **The three-[[p/_point|point]] [[l/_line|line]].**

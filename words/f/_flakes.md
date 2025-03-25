@@ -14,10 +14,10 @@
 - **A [[l/_loose|loose]] [[f/_filmy|filmy]] [[m/_mass|mass]] or a thin chiplike [[l/_layer|layer]] of [[a/_anything|anything]]**
 	- _Example: There were a few flakes of paint on the floor from when we were painting the walls._
 - **A [[s/_scale|scale]] of a [[f/_fish|fish]] or [[s/_similar|similar]] [[a/_animal|animal]]**
-- **A [[p/_prehistoric|prehistoric]] tool [[c/_chipped|chipped]] [[o/_out|out]] of stone.**
+- **A [[p/_prehistoric|prehistoric]] tool [[c/_chipped|chipped]] [[o/_out|out]] of [[s/_stone|stone]].**
 - **A [[p/_person|person]] who is [[i/_impractical|impractical]], [[f/_flighty|flighty]], unreliable, or [[i/_inconsistent|inconsistent]]; [[e/_especially|especially]] with [[m/_maintaining|maintaining]] a [[l/_living|living]].**
 	- _Example: She makes pleasant conversation, but she's kind of a flake when it comes time for action._
-- **A [[c/_carnation|carnation]] with [[o/_only|only]] two [[c/_colours|colours]] in the [[f/_flower|flower]], the [[p/_petals|petals]] [[h/_having|having]] [[l/_large|large]] stripes.**
+- **A [[c/_carnation|carnation]] with [[o/_only|only]] two [[c/_colours|colours]] in the [[f/_flower|flower]], the [[p/_petals|petals]] [[h/_having|having]] [[l/_large|large]] [[s/_stripes|stripes]].**
 - **A [[f/_flat|flat]] turn or tier of [[r/_rope|rope]].**
 ---
 #verb
@@ -25,13 +25,13 @@
 	- _Example: The paint flaked off after only a year._
 - **To [[p/_prove|prove]] unreliable or [[i/_impractical|impractical]]; to [[a/_abandon|abandon]] or [[d/_desert|desert]], to [[f/_fail|fail]] to [[f/_follow|follow]] through.**
 	- _Example: He said he'd come and help, but he flaked._
-- **To store an [[i/_item|item]] such as [[r/_rope|rope]] or [[s/_sail|sail]] in [[l/_layers|layers]]**
+- **To [[s/_store|store]] an [[i/_item|item]] such as [[r/_rope|rope]] or [[s/_sail|sail]] in [[l/_layers|layers]]**
 	- _Example: The line is flaked into the container for easy attachment and deployment._
 - **To [[h/_hit|hit]] ([[a/_another|another]] [[p/_person|person]]).**
 ---
 #noun
 - **A [[p/_paling|paling]]; a [[h/_hurdle|hurdle]].**
-- **A [[p/_platform|platform]] of [[h/_hurdles|hurdles]], or [[s/_small|small]] sticks [[m/_made|made]] [[f/_fast|fast]] or [[i/_interwoven|interwoven]], supported by stanchions, for [[d/_drying|drying]] [[c/_codfish|codfish]] and [[o/_other|other]] things.**
-- **A [[s/_small|small]] stage [[h/_hung|hung]] [[o/_over|over]] a vessel'[[s/_s|s]] [[s/_side|side]], for workmen to stand on while [[c/_calking|calking]], [[e/_etc|etc]].**
+- **A [[p/_platform|platform]] of [[h/_hurdles|hurdles]], or [[s/_small|small]] [[s/_sticks|sticks]] [[m/_made|made]] [[f/_fast|fast]] or [[i/_interwoven|interwoven]], supported by [[s/_stanchions|stanchions]], for [[d/_drying|drying]] [[c/_codfish|codfish]] and [[o/_other|other]] things.**
+- **A [[s/_small|small]] [[s/_stage|stage]] [[h/_hung|hung]] [[o/_over|over]] a vessel'[[s/_s|s]] [[s/_side|side]], for workmen to [[s/_stand|stand]] on while [[c/_calking|calking]], [[e/_etc|etc]].**
 ---
 ---

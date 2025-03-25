@@ -4,10 +4,10 @@
 - **An [[a/_argot|argot]], the [[j/_jargon|jargon]] of a [[p/_particular|particular]] [[c/_class|class]] or subgroup.**
 	- _Example: He had the look of a prince, but the cant of a fishmonger._
 - **A [[p/_private|private]] or [[s/_secret|secret]] [[l/_language|language]] used by a [[r/_religious|religious]] [[s/_sect|sect]], [[g/_gang|gang]], or [[o/_other|other]] [[g/_group|group]].**
-- **A [[l/_language|language]] spoken by [[s/_some|some]] [[i/_irish|Irish]] Travellers; [[s/_shelta|Shelta]].**
+- **A [[l/_language|language]] [[s/_spoken|spoken]] by [[s/_some|some]] [[i/_irish|Irish]] Travellers; [[s/_shelta|Shelta]].**
 - **[[e/_empty|Empty]], [[h/_hypocritical|hypocritical]] talk.**
 	- _Example: People claim to care about the poor of Africa, but it is largely cant._
-- **Whining speech, such as that used by [[b/_beggars|beggars]].**
+- **Whining [[s/_speech|speech]], such as that used by [[b/_beggars|beggars]].**
 - **A [[b/_blazon|blazon]] of a [[c/_coat|coat]] of [[a/_arms|arms]] that [[m/_makes|makes]] a [[p/_pun|pun]] upon the [[n/_name|name]] (or, [[l/_less|less]] [[o/_often|often]], [[s/_some|some]] [[a/_attribute|attribute]] or [[f/_function|function]]) of the [[b/_bearer|bearer]], [[c/_canting|canting]] [[a/_arms|arms]].**
 - **A [[c/_call|call]] for [[b/_bidders|bidders]] at a [[p/_public|public]] [[f/_fair|fair]]; an [[a/_auction|auction]].**
 ---

@@ -6,7 +6,7 @@
 - **[[o/_one|One]] who is [[s/_sent|sent]]; a [[m/_messenger|messenger]].**
 ---
 #adjective
-- **Specially [[s/_sent|sent]]; [[i/_intended|intended]] or [[p/_prepared|prepared]] to be [[s/_sent|sent]].**
+- **[[s/_specially|Specially]] [[s/_sent|sent]]; [[i/_intended|intended]] or [[p/_prepared|prepared]] to be [[s/_sent|sent]].**
 	- _Example: a letter missive_
 - **[[s/_serving|Serving]] as a [[m/_missile|missile]]; [[i/_intended|intended]] to be thrown.**
 ---

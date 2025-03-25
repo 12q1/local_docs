@@ -13,7 +13,7 @@
 #verb
 - **To [[s/_search|search]] an [[a/_area|area]] thoroughly.**
 	- _Example: They scoured the scene of the crime for clues._
-- **To [[r/_run|run]] with speed; to [[s/_scurry|scurry]].**
+- **To [[r/_run|run]] with [[s/_speed|speed]]; to [[s/_scurry|scurry]].**
 - **To [[m/_move|move]] swiftly [[o/_over|over]]; to [[b/_brush|brush]] [[a/_along|along]].**
 ---
 ---

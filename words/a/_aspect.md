@@ -1,7 +1,7 @@
 # Aspect
 ---
 #noun
-- **[[a/_any|Any]] specific [[f/_feature|feature]], [[p/_part|part]], or [[e/_element|element]] of [[s/_something|something]].**
+- **[[a/_any|Any]] [[s/_specific|specific]] [[f/_feature|feature]], [[p/_part|part]], or [[e/_element|element]] of [[s/_something|something]].**
 	- _Example: Japan's aging population is an important aspect of its economy._
 - **The way [[s/_something|something]] [[a/_appears|appears]] when viewed from a [[c/_certain|certain]] [[d/_direction|direction]] or [[p/_perspective|perspective]].**
 - **The way [[s/_something|something]] [[a/_appears|appears]] when [[c/_considered|considered]] from a [[c/_certain|certain]] [[p/_point|point]] of view.**

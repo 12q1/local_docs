@@ -6,13 +6,13 @@
 - **The [[a/_amount|amount]] or volume of [[l/_loose|loose]] or [[s/_solid|solid]] [[m/_material|material]] [[h/_held|held]] by a [[p/_particular|particular]] [[s/_scoop|scoop]].**
 	- _Example: I'll have one scoop of chocolate ice-cream._
 - **The [[a/_act|act]] of [[s/_scooping|scooping]], or taking with a [[s/_scoop|scoop]] or [[l/_ladle|ladle]]; a [[m/_motion|motion]] with a [[s/_scoop|scoop]], as in [[d/_dipping|dipping]] or [[s/_shovelling|shovelling]].**
-- **A story or [[f/_fact|fact]]; [[e/_especially|especially]], [[n/_news|news]] [[l/_learned|learned]] and [[r/_reported|reported]] [[b/_before|before]] [[a/_anyone|anyone]] [[e/_else|else]].**
+- **A [[s/_story|story]] or [[f/_fact|fact]]; [[e/_especially|especially]], [[n/_news|news]] [[l/_learned|learned]] and [[r/_reported|reported]] [[b/_before|before]] [[a/_anyone|anyone]] [[e/_else|else]].**
 - **An [[o/_opening|opening]] in a [[h/_hood|hood]]/[[b/_bonnet|bonnet]] or [[o/_other|other]] [[b/_body|body]] [[p/_panel|panel]] to [[a/_admit|admit]] [[a/_air|air]], usually for [[c/_cooling|cooling]] the [[e/_engine|engine]].**
 - **The [[d/_digging|digging]] [[a/_attachment|attachment]] on a [[f/_front|front]]-[[e/_end|end]] [[l/_loader|loader]].**
 - **A [[p/_place|place]] [[h/_hollowed|hollowed]] [[o/_out|out]]; a [[b/_basinlike|basinlike]] [[c/_cavity|cavity]]; a [[h/_hollow|hollow]].**
-- **A spoon-[[s/_shaped|shaped]] surgical [[i/_instrument|instrument]], used in [[e/_extracting|extracting]] [[c/_certain|certain]] substances or [[f/_foreign|foreign]] [[b/_bodies|bodies]].**
-- **A special spinal [[b/_board|board]] used by [[e/_emergency|emergency]] [[m/_medical|medical]] [[s/_service|service]] staff that [[d/_divides|divides]] [[l/_laterally|laterally]] to [[s/_scoop|scoop]] up [[p/_patients|patients]].**
-- **A sweep; a stroke; a swoop.**
+- **A [[s/_spoon|spoon]]-[[s/_shaped|shaped]] surgical [[i/_instrument|instrument]], used in [[e/_extracting|extracting]] [[c/_certain|certain]] substances or [[f/_foreign|foreign]] [[b/_bodies|bodies]].**
+- **A [[s/_special|special]] [[s/_spinal|spinal]] [[b/_board|board]] used by [[e/_emergency|emergency]] [[m/_medical|medical]] [[s/_service|service]] [[s/_staff|staff]] that [[d/_divides|divides]] [[l/_laterally|laterally]] to [[s/_scoop|scoop]] up [[p/_patients|patients]].**
+- **A sweep; a [[s/_stroke|stroke]]; a swoop.**
 - **The [[p/_peak|peak]] of a [[c/_cap|cap]].**
 - **A [[h/_hole|hole]] on the [[p/_playfield|playfield]] that [[c/_catches|catches]] a [[b/_ball|ball]], but [[e/_eventually|eventually]] [[r/_returns|returns]] it to [[p/_play|play]] in [[o/_one|one]] way or [[a/_another|another]].**
 ---

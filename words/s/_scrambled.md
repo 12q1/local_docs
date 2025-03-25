@@ -12,7 +12,7 @@
 - **To [[a/_ascend|ascend]] [[r/_rocky|rocky]] terrain as a [[l/_leisure|leisure]] [[a/_activity|activity]].**
 - **To [[g/_gather|gather]] or [[c/_collect|collect]] by [[s/_scrambling|scrambling]].**
 	- _Example: to scramble up wealth_
-- **To struggle [[e/_eagerly|eagerly]] with [[o/_others|others]] for [[s/_something|something]] thrown upon the [[g/_ground|ground]]; to [[g/_go|go]] [[d/_down|down]] upon [[a/_all|all]] [[f/_fours|fours]] to [[s/_seize|seize]] [[s/_something|something]]; to [[c/_catch|catch]] [[r/_rudely|rudely]] at what is [[d/_desired|desired]].**
+- **To [[s/_struggle|struggle]] [[e/_eagerly|eagerly]] with [[o/_others|others]] for [[s/_something|something]] thrown upon the [[g/_ground|ground]]; to [[g/_go|go]] [[d/_down|down]] upon [[a/_all|all]] [[f/_fours|fours]] to [[s/_seize|seize]] [[s/_something|something]]; to [[c/_catch|catch]] [[r/_rudely|rudely]] at what is [[d/_desired|desired]].**
 - **To throw [[s/_something|something]] [[d/_down|down]] for [[o/_others|others]] to [[c/_compete|compete]] for in this [[m/_manner|manner]].**
 ---
 #adjective

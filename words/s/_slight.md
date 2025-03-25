@@ -27,7 +27,7 @@
 	- _Example: a slight but graceful woman_
 - **[[e/_even|Even]], [[s/_smooth|smooth]] or [[l/_level|level]]**
 	- _Example: A slight stone_
-- **([[e/_especially|especially]] [[s/_said|said]] of the swa) still; with [[l/_little|little]] or [[n/_no|no]] [[m/_movement|movement]] on the surface**
+- **([[e/_especially|especially]] [[s/_said|said]] of the swa) [[s/_still|still]]; with [[l/_little|little]] or [[n/_no|no]] [[m/_movement|movement]] on the surface**
 	- _Example: The sea was slight and calm_
 - **[[f/_foolish|Foolish]]; [[s/_silly|silly]]; not [[i/_intellectual|intellectual]].**
 - **[[b/_bad|Bad]], of [[p/_poor|poor]] [[q/_quality|quality]].**

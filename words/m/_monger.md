@@ -1,7 +1,7 @@
 # Monger
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in [[c/_combination|combination]]) A [[d/_dealer|dealer]] in a specific [[c/_commodity|commodity]].**
+- **([[c/_chiefly|chiefly]] in [[c/_combination|combination]]) A [[d/_dealer|dealer]] in a [[s/_specific|specific]] [[c/_commodity|commodity]].**
 	- _Example: costermonger, fishmonger, ironmonger_
 - **(in [[c/_combination|combination]]) A [[p/_person|person]] [[p/_promoting|promoting]] [[s/_something|something]] undesirable.**
 	- _Example: warmonger, sleazemonger, scaremonger_

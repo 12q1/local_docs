@@ -7,12 +7,12 @@
 - **A [[s/_sign|sign]] that [[g/_guides|guides]] [[p/_people|people]]; [[g/_guidepost|guidepost]].**
 - **[[a/_any|Any]] [[m/_marking|marking]] or [[o/_object|object]] that [[c/_catches|catches]] the [[e/_eye|eye]] to [[p/_provide|provide]] [[q/_quick|quick]] [[r/_reference|reference]].**
 - **A [[d/_device|device]] that [[g/_guides|guides]] [[p/_part|part]] of a [[m/_machine|machine]], or [[g/_guides|guides]] [[m/_motion|motion]] or [[a/_action|action]].**
-- **A spirit [[b/_believed|believed]] to [[s/_speak|speak]] through a [[m/_medium|medium]].**
+- **A [[s/_spirit|spirit]] [[b/_believed|believed]] to [[s/_speak|speak]] through a [[m/_medium|medium]].**
 - **A [[m/_member|member]] of a [[g/_group|group]] [[m/_marching|marching]] in [[f/_formation|formation]] who [[s/_sets|sets]] the [[p/_pattern|pattern]] of [[m/_movement|movement]] or [[a/_alignment|alignment]] for the [[r/_rest|rest]].**
 ---
 #verb
 - **To [[s/_serve|serve]] as a [[g/_guide|guide]] for [[s/_someone|someone]] or [[s/_something|something]]; to [[l/_lead|lead]] or [[d/_direct|direct]] in a way; to [[c/_conduct|conduct]] in a [[c/_course|course]] or [[p/_path|path]].**
-- **To steer or [[n/_navigate|navigate]], [[e/_especially|especially]] a [[s/_ship|ship]] or as a [[p/_pilot|pilot]].**
+- **To [[s/_steer|steer]] or [[n/_navigate|navigate]], [[e/_especially|especially]] a [[s/_ship|ship]] or as a [[p/_pilot|pilot]].**
 - **To [[e/_exert|exert]] [[c/_control|control]] or [[i/_influence|influence]] [[o/_over|over]] [[s/_someone|someone]] or [[s/_something|something]].**
 - **To supervise the [[e/_education|education]] or training of [[s/_someone|someone]].**
 - **To [[a/_act|act]] as a [[g/_guide|guide]].**

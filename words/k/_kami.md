@@ -1,7 +1,7 @@
 # Kami
 ---
 #noun
-- **An [[a/_animistic|animistic]] [[g/_god|God]] or spirit in the [[s/_shinto|Shinto]] [[r/_religion|religion]] of [[j/_japan|Japan]].**
+- **An [[a/_animistic|animistic]] [[g/_god|God]] or [[s/_spirit|spirit]] in the [[s/_shinto|Shinto]] [[r/_religion|religion]] of [[j/_japan|Japan]].**
 - **The [[m/_metaphysical|metaphysical]] [[c/_causal|causal]] [[g/_generator|generator]] of [[m/_motion|motion]], [[l/_life|life]], or divinish [[a/_aura|aura]].**
 ---
 #noun

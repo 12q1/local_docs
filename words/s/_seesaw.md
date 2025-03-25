@@ -1,7 +1,7 @@
 # Seesaw
 ---
 #noun
-- **A structure [[c/_composed|composed]] of a [[p/_plank|plank]], [[b/_balanced|balanced]] in the [[m/_middle|middle]], used as a [[g/_game|game]] in which [[o/_one|one]] [[p/_person|person]] [[g/_goes|goes]] up as the [[o/_other|other]] [[g/_goes|goes]] [[d/_down|down]].**
+- **A [[s/_structure|structure]] [[c/_composed|composed]] of a [[p/_plank|plank]], [[b/_balanced|balanced]] in the [[m/_middle|middle]], used as a [[g/_game|game]] in which [[o/_one|one]] [[p/_person|person]] [[g/_goes|goes]] up as the [[o/_other|other]] [[g/_goes|goes]] [[d/_down|down]].**
 - **A [[s/_series|series]] of up-and-[[d/_down|down]] [[m/_movements|movements]].**
 - **A [[s/_series|series]] of [[a/_alternating|alternating]] [[m/_movements|movements]] or [[f/_feelings|feelings]].**
 ---

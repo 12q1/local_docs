@@ -16,7 +16,7 @@
 - **To [[d/_derive|derive]] [[p/_pleasure|pleasure]] of, by or with [[s/_someone|someone]] or [[s/_something|something]].**
 - **To [[p/_prefer|prefer]] and [[m/_maintain|maintain]] (an [[a/_action|action]]) as a [[r/_regular|regular]] [[h/_habit|habit]] or [[a/_activity|activity]].**
 	- _Example: I like to go to the dentist every six months._
-- **To [[h/_have|have]] an [[a/_appearance|appearance]] or [[e/_expression|expression]]; to [[l/_look|look]]; to [[s/_seem|seem]] to be (in a specified [[c/_condition|condition]]).**
+- **To [[h/_have|have]] an [[a/_appearance|appearance]] or [[e/_expression|expression]]; to [[l/_look|look]]; to [[s/_seem|seem]] to be (in a [[s/_specified|specified]] [[c/_condition|condition]]).**
 - **To [[c/_come|come]] [[n/_near|near]]; to [[a/_avoid|avoid]] with [[d/_difficulty|difficulty]]; to [[e/_escape|escape]] [[n/_narrowly|narrowly]].**
 	- _Example: He liked to have been too late._
 - **To [[f/_find|find]] [[a/_attractive|attractive]]; to [[p/_prefer|prefer]] the [[c/_company|company]] of; to [[h/_have|have]] [[m/_mild|mild]] [[r/_romantic|romantic]] [[f/_feelings|feelings]] for.**
@@ -34,7 +34,7 @@
 #noun
 - **([[s/_sometimes|sometimes]] as the [[l/_likes|likes]] of') [[s/_someone|Someone]] [[s/_similar|similar]] to a [[g/_given|given]] [[p/_person|person]], or [[s/_something|something]] [[s/_similar|similar]] to a [[g/_given|given]] [[o/_object|object]]; a [[c/_comparative|comparative]]; a type; a [[s/_sort|sort]].**
 	- _Example: It was something the likes of which I had never seen before._
-- **The stroke that [[e/_equalizes|equalizes]] the [[n/_number|number]] of strokes [[p/_played|played]] by the [[o/_opposing|opposing]] [[p/_player|player]] or [[s/_side|side]].**
+- **The [[s/_stroke|stroke]] that [[e/_equalizes|equalizes]] the [[n/_number|number]] of [[s/_strokes|strokes]] [[p/_played|played]] by the [[o/_opposing|opposing]] [[p/_player|player]] or [[s/_side|side]].**
 	- _Example: to play the like_
 ---
 ### Synonyms

@@ -13,9 +13,9 @@
 	- _Example: It is good practice to check each door and window before leaving._
 - **[[a/_actual|Actual]] [[o/_operation|operation]] or [[e/_experiment|experiment]], in [[c/_contrast|contrast]] to theory.**
 	- _Example: That may work in theory, but will it work in practice?_
-- **The [[f/_form|form]], [[m/_manner|manner]], and [[o/_order|order]] of [[c/_conducting|conducting]] and [[c/_carrying|carrying]] on suits and [[p/_prosecutions|prosecutions]] through their various stages, [[a/_according|according]] to the [[p/_principles|principles]] of [[l/_law|law]] and the [[r/_rules|rules]] [[l/_laid|laid]] [[d/_down|down]] by the [[c/_courts|courts]].**
+- **The [[f/_form|form]], [[m/_manner|manner]], and [[o/_order|order]] of [[c/_conducting|conducting]] and [[c/_carrying|carrying]] on suits and [[p/_prosecutions|prosecutions]] through their various [[s/_stages|stages]], [[a/_according|according]] to the [[p/_principles|principles]] of [[l/_law|law]] and the [[r/_rules|rules]] [[l/_laid|laid]] [[d/_down|down]] by the [[c/_courts|courts]].**
 	- _Example: This firm of solicitors is involved in family law practice._
-- **[[s/_skilful|Skilful]] or [[a/_artful|artful]] [[m/_management|management]]; [[d/_dexterity|dexterity]] in [[c/_contrivance|contrivance]] or the use of [[m/_means|means]]; stratagem; [[a/_artifice|artifice]].**
+- **[[s/_skilful|Skilful]] or [[a/_artful|artful]] [[m/_management|management]]; [[d/_dexterity|dexterity]] in [[c/_contrivance|contrivance]] or the use of [[m/_means|means]]; [[s/_stratagem|stratagem]]; [[a/_artifice|artifice]].**
 - **A [[e/_easy|easy]] and [[c/_concise|concise]] [[m/_method|method]] of [[a/_applying|applying]] the [[r/_rules|rules]] of [[a/_arithmetic|arithmetic]] to [[q/_questions|questions]] which [[o/_occur|occur]] in trade and [[b/_business|business]].**
 ---
 ### Synonyms

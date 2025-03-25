@@ -4,8 +4,8 @@
 - **A [[r/_rafter|rafter]] of a [[r/_roof|roof]].**
 - **A thick [[p/_pole|pole]] or [[p/_piece|piece]] of wood.**
 - **A [[b/_bar|bar]] of wood used to [[f/_fasten|fasten]] a [[d/_door|door]].**
-- **[[a/_any|Any]] [[l/_linear|linear]] [[o/_object|object]] used as a [[m/_mast|mast]], sprit, [[y/_yard|yard]], [[b/_boom|boom]], [[p/_pole|pole]] or [[g/_gaff|gaff]].**
-- **A [[b/_beam|beam]]-[[l/_like|like]] structural [[m/_member|member]] that supports [[r/_ribs|ribs]] in an [[a/_aircraft|aircraft]] wing or [[o/_other|other]] [[a/_airfoil|airfoil]].**
+- **[[a/_any|Any]] [[l/_linear|linear]] [[o/_object|object]] used as a [[m/_mast|mast]], [[s/_sprit|sprit]], [[y/_yard|yard]], [[b/_boom|boom]], [[p/_pole|pole]] or [[g/_gaff|gaff]].**
+- **A [[b/_beam|beam]]-[[l/_like|like]] [[s/_structural|structural]] [[m/_member|member]] that supports [[r/_ribs|ribs]] in an [[a/_aircraft|aircraft]] wing or [[o/_other|other]] [[a/_airfoil|airfoil]].**
 ---
 #verb
 - **To [[b/_bolt|bolt]], [[b/_bar|bar]].**
@@ -16,7 +16,7 @@
 ---
 #verb
 - **To [[f/_fight|fight]], [[e/_especially|especially]] as [[p/_practice|practice]] for [[m/_martial|martial]] [[a/_arts|arts]] or [[h/_hand|hand]]-to-[[h/_hand|hand]] [[c/_combat|combat]].**
-- **To strike with the [[f/_feet|feet]] or spurs, as [[c/_cocks|cocks]] [[d/_do|do]].**
+- **To [[s/_strike|strike]] with the [[f/_feet|feet]] or [[s/_spurs|spurs]], as [[c/_cocks|cocks]] [[d/_do|do]].**
 - **To [[c/_contest|contest]] in words; to wrangle.**
 ---
 #noun

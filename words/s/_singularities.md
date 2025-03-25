@@ -1,7 +1,7 @@
 # Singularities
 ---
 #noun
-- **The state of [[b/_being|being]] [[s/_singular|singular]], [[d/_distinct|distinct]], [[p/_peculiar|peculiar]], uncommon or unusual**
+- **The [[s/_state|state]] of [[b/_being|being]] [[s/_singular|singular]], [[d/_distinct|distinct]], [[p/_peculiar|peculiar]], uncommon or unusual**
 - **A [[p/_point|point]] where [[a/_all|all]] [[p/_parallel|parallel]] [[l/_lines|lines]] [[m/_meet|meet]]**
 - **A [[p/_point|point]] where a [[m/_measured|measured]] variable [[r/_reaches|reaches]] unmeasurable or [[i/_infinite|infinite]] value**
 - **The value or [[r/_range|range]] of values of a [[f/_function|function]] for which a [[d/_derivative|derivative]] [[d/_does|does]] not [[e/_exist|exist]]**

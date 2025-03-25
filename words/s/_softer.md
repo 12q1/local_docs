@@ -16,12 +16,12 @@
 - **[[r/_requiring|Requiring]] [[l/_little|little]] or [[n/_no|no]] [[e/_effort|effort]]; [[e/_easy|easy]].**
 - **Not [[b/_bright|bright]] or [[i/_intense|intense]].**
 	- _Example: soft lighting_
-- **[[h/_having|Having]] a [[s/_slight|slight]] [[a/_angle|angle]] from straight.**
+- **[[h/_having|Having]] a [[s/_slight|slight]] [[a/_angle|angle]] from [[s/_straight|straight]].**
 	- _Example: At the intersection with two roads going left, take the soft left._
 - **Voiced; [[s/_sonant|sonant]].**
 - **Voiceless**
 - **([[s/_slavic|Slavic]] [[l/_languages|languages]]) [[p/_palatalized|palatalized]]**
-- **[[l/_lacking|Lacking]] strength or [[r/_resolve|resolve]]; not tough, wimpy.**
+- **[[l/_lacking|Lacking]] [[s/_strength|strength]] or [[r/_resolve|resolve]]; not tough, wimpy.**
 	- _Example: When it comes to drinking, he is as soft as they come._
 - **(of water) [[l/_low|Low]] in [[d/_dissolved|dissolved]] [[c/_calcium|calcium]] [[c/_compounds|compounds]].**
 	- _Example: You won't need as much soap, as the water here is very soft._

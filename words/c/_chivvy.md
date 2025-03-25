@@ -1,7 +1,7 @@
 # Chivvy
 ---
 #noun
-- **[[s/_something|Something]] that [[e/_encourages|encourages]] [[o/_one|one]] to [[a/_act|act]]; a [[g/_goad|goad]], a spur.**
+- **[[s/_something|Something]] that [[e/_encourages|encourages]] [[o/_one|one]] to [[a/_act|act]]; a [[g/_goad|goad]], a [[s/_spur|spur]].**
 ---
 #verb
 - **To [[c/_coerce|coerce]] or [[h/_hurry|hurry]] [[a/_along|along]], as by [[p/_persistent|persistent]] [[r/_request|request]].**

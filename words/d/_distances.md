@@ -1,7 +1,7 @@
 # Distances
 ---
 #noun
-- **The [[a/_amount|amount]] of [[s/_space|space]] [[b/_between|between]] two [[p/_points|points]], usually [[g/_geographical|geographical]] [[p/_points|points]], usually (but not [[n/_necessarily|necessarily]]) [[m/_measured|measured]] [[a/_along|along]] a straight [[l/_line|line]].**
+- **The [[a/_amount|amount]] of [[s/_space|space]] [[b/_between|between]] two [[p/_points|points]], usually [[g/_geographical|geographical]] [[p/_points|points]], usually (but not [[n/_necessarily|necessarily]]) [[m/_measured|measured]] [[a/_along|along]] a [[s/_straight|straight]] [[l/_line|line]].**
 	- _Example: From Moscow, the distance is relatively short to Saint Petersburg, relatively long to Novosibirsk, but even greater to Vladivostok._
 - **[[l/_length|Length]] or [[i/_interval|interval]] of time.**
 - **The [[d/_difference|difference]]; the subjective [[m/_measure|measure]] [[b/_between|between]] two [[q/_quantities|quantities]].**

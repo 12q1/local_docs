@@ -3,9 +3,9 @@
 #noun
 - **A [[s/_small|small]] [[c/_cut|cut]] in a surface.**
 - **[[s/_senses|Senses]] [[c/_connoting|connoting]] [[s/_something|something]] [[s/_small|small]].**
-- **[[o/_often|Often]] in the [[e/_expressions|expressions]] in [[b/_bad|bad]] [[n/_nick|nick]] and in [[g/_good|good]] [[n/_nick|nick]]: [[c/_condition|condition]], state.**
+- **[[o/_often|Often]] in the [[e/_expressions|expressions]] in [[b/_bad|bad]] [[n/_nick|nick]] and in [[g/_good|good]] [[n/_nick|nick]]: [[c/_condition|condition]], [[s/_state|state]].**
 	- _Example: The car I bought was cheap and in good nick._
-- **([[l/_law|law]] [[e/_enforcement|enforcement]]) A [[p/_police|police]] station or [[p/_prison|prison]].**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) A [[p/_police|police]] [[s/_station|station]] or [[p/_prison|prison]].**
 	- _Example: He was arrested and taken down to Sun Hill nick [police station] to be charged._
 ---
 #verb
@@ -13,13 +13,13 @@
 	- _Example: I nicked myself while I was shaving._
 - **To [[f/_fit|fit]] [[i/_into|into]] or suit, as by a [[c/_correspondence|correspondence]] of [[n/_nicks|nicks]]; to tally with.**
 - **To [[m/_make|make]] a [[c/_cut|cut]] at the [[s/_side|side]] of the [[f/_face|face]].**
-- **To steal.**
+- **To [[s/_steal|steal]].**
 	- _Example: Someone’s nicked my bike!_
 - **([[l/_law|law]] [[e/_enforcement|enforcement]]) To [[a/_arrest|arrest]].**
 	- _Example: The police nicked him climbing over the fence of the house he’d broken into._
 ---
 #verb
-- **To [[g/_give|give]] or [[c/_call|call]] ([[s/_someone|someone]]) by a [[n/_nickname|nickname]]; to style.**
+- **To [[g/_give|give]] or [[c/_call|call]] ([[s/_someone|someone]]) by a [[n/_nickname|nickname]]; to [[s/_style|style]].**
 ---
 #noun
 - **A [[n/_nix|nix]] or [[n/_nixie|nixie]].**

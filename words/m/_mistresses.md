@@ -1,7 +1,7 @@
 # Mistresses
 ---
 #noun
-- **A woman, specifically [[o/_one|one]] with [[g/_great|great]] [[c/_control|control]], [[a/_authority|authority]] or [[o/_ownership|ownership]]**
+- **A woman, [[s/_specifically|specifically]] [[o/_one|one]] with [[g/_great|great]] [[c/_control|control]], [[a/_authority|authority]] or [[o/_ownership|ownership]]**
 	- _Example: (male equivalent) master_
 - **A [[f/_female|female]] teacher**
 	- _Example: (male equivalent) master_

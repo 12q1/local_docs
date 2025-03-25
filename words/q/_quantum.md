@@ -9,7 +9,7 @@
 - **The [[a/_amount|amount]] of time [[a/_allocated|allocated]] for a thread to [[p/_perform|perform]] [[i/_its|its]] work in a [[m/_multithreaded|multithreaded]] [[e/_environment|environment]].**
 ---
 #adjective
-- **Of a [[c/_change|change]], sudden or [[d/_discrete|discrete]], without [[i/_intermediate|intermediate]] stages.**
+- **Of a [[c/_change|change]], sudden or [[d/_discrete|discrete]], without [[i/_intermediate|intermediate]] [[s/_stages|stages]].**
 - **Of a [[c/_change|change]], [[s/_significant|significant]].**
 - **[[i/_involving|Involving]] [[q/_quanta|quanta]], [[q/_quantum|quantum]] [[m/_mechanics|mechanics]] or [[o/_other|other]] [[a/_aspects|aspects]] of [[q/_quantum|quantum]] [[p/_physics|physics]].**
 - **[[r/_relating|Relating]] to a [[q/_quantum|quantum]] [[c/_computer|computer]].**

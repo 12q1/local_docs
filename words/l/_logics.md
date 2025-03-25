@@ -1,9 +1,9 @@
 # Logics
 ---
 #noun
-- **A [[m/_method|method]] of [[h/_human|human]] thought that [[i/_involves|involves]] thinking in a [[l/_linear|linear]], step-by-step [[m/_manner|manner]] [[a/_about|about]] [[h/_how|how]] a [[p/_problem|problem]] [[c/_can|can]] be [[s/_solved|solved]]. [[l/_logic|Logic]] is the [[b/_basis|basis]] of [[m/_many|many]] [[p/_principles|principles]] [[i/_including|including]] the [[s/_scientific|scientific]] [[m/_method|method]].**
-- **The study of the [[p/_principles|principles]] and [[c/_criteria|criteria]] of valid [[i/_inference|inference]] and [[d/_demonstration|demonstration]].**
-- **The [[m/_mathematical|mathematical]] study of [[r/_relationships|relationships]] [[b/_between|between]] [[r/_rigorously|rigorously]] [[d/_defined|defined]] [[c/_concepts|concepts]] and of [[m/_mathematical|mathematical]] [[p/_proof|proof]] of statements.**
+- **A [[m/_method|method]] of [[h/_human|human]] thought that [[i/_involves|involves]] thinking in a [[l/_linear|linear]], [[s/_step|step]]-by-[[s/_step|step]] [[m/_manner|manner]] [[a/_about|about]] [[h/_how|how]] a [[p/_problem|problem]] [[c/_can|can]] be [[s/_solved|solved]]. [[l/_logic|Logic]] is the [[b/_basis|basis]] of [[m/_many|many]] [[p/_principles|principles]] [[i/_including|including]] the [[s/_scientific|scientific]] [[m/_method|method]].**
+- **The [[s/_study|study]] of the [[p/_principles|principles]] and [[c/_criteria|criteria]] of valid [[i/_inference|inference]] and [[d/_demonstration|demonstration]].**
+- **The [[m/_mathematical|mathematical]] [[s/_study|study]] of [[r/_relationships|relationships]] [[b/_between|between]] [[r/_rigorously|rigorously]] [[d/_defined|defined]] [[c/_concepts|concepts]] and of [[m/_mathematical|mathematical]] [[p/_proof|proof]] of [[s/_statements|statements]].**
 - **A [[f/_formal|formal]] or [[i/_informal|informal]] [[l/_language|language]] together with a [[d/_deductive|deductive]] [[s/_system|system]] or a [[m/_model|model]]-theoretic [[s/_semantics|semantics]].**
 - **[[a/_any|Any]] [[s/_system|system]] of thought, whether [[r/_rigorous|rigorous]] and [[p/_productive|productive]] or not, [[e/_especially|especially]] [[o/_one|one]] [[a/_associated|associated]] with a [[p/_particular|particular]] [[p/_person|person]].**
 	- _Example: It's hard to work out his system of logic._

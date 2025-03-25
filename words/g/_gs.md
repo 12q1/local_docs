@@ -2,13 +2,13 @@
 ---
 #noun
 - **A [[g/_gangster|gangster]], gangsta.**
-- **[[a/_abbreviation|Abbreviation]] for [[g/_government|Government]] Spending.**
+- **[[a/_abbreviation|Abbreviation]] for [[g/_government|Government]] [[s/_spending|Spending]].**
 ---
 #noun
-- **[[g/_games|Games]] (the statistic [[r/_reporting|reporting]] the [[n/_number|number]] of [[g/_games|games]] that a [[p/_player|player]] [[h/_has|has]] [[p/_participated|participated]] in).**
+- **[[g/_games|Games]] (the [[s/_statistic|statistic]] [[r/_reporting|reporting]] the [[n/_number|number]] of [[g/_games|games]] that a [[p/_player|player]] [[h/_has|has]] [[p/_participated|participated]] in).**
 - **[[g/_green|Green]].**
 - **(of a [[m/_movie|movie]]) [[g/_general|General]] (suitable for a [[g/_general|general]] [[a/_audience|audience]]).**
-- **[[g/_goals|Goals]] (a sports statistic).**
+- **[[g/_goals|Goals]] (a [[s/_sports|sports]] [[s/_statistic|statistic]]).**
 - **[[g/_ground|Ground]] [[f/_floor|floor]] (of a [[b/_building|building]]).**
 - **A [[g/_galaxy|galaxy]].**
 - **[[g/_gravity|Gravity]]**

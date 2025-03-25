@@ -24,7 +24,7 @@
 - **[[s/_sign|Sign]], token, or [[i/_indication|indication]].**
 - **[[s/_semblance|Semblance]]; [[l/_likeness|likeness]]; [[a/_appearance|appearance]].**
 - **[[p/_plausibility|Plausibility]].**
-- **A [[d/_discharge|discharge]], from the vagina, of [[m/_mucus|mucus]] streaked with [[b/_blood|blood]], [[o/_occurring|occurring]] a [[s/_short|short]] time [[b/_before|before]] [[l/_labor|labor]].**
+- **A [[d/_discharge|discharge]], from the vagina, of [[m/_mucus|mucus]] [[s/_streaked|streaked]] with [[b/_blood|blood]], [[o/_occurring|occurring]] a [[s/_short|short]] time [[b/_before|before]] [[l/_labor|labor]].**
 ---
 ### Synonyms
 - [[p/_program(me)|program(me)]], [[d/_demonstration|demonstration]], [[i/_illustration|illustration]], [[p/_proof|proof]], [[e/_exhibition|exhibition]], [[e/_exposition|exposition]], [[f/_façade|façade]], [[f/_front|front]], [[s/_superficiality|superficiality]]

@@ -12,7 +12,7 @@
 #verb
 - **To [[j/_jump|jump]] a [[s/_short|short]] [[d/_distance|distance]].**
 - **To [[j/_jump|jump]] on [[o/_one|one]] [[f/_foot|foot]].**
-- **To be in state of [[e/_energetic|energetic]] [[a/_activity|activity]].**
+- **To be in [[s/_state|state]] of [[e/_energetic|energetic]] [[a/_activity|activity]].**
 	- _Example: Sorry, can't chat. Got to hop._
 - **To suddenly take a [[m/_mode|mode]] of transportation that [[o/_one|one]] [[d/_does|does]] not [[d/_drive|drive]] [[o/_oneself|oneself]], [[o/_often|often]] surreptitiously.**
 	- _Example: He hopped a train to California._

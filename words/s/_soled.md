@@ -7,7 +7,7 @@
 - **To [[p/_put|put]] a [[s/_sole|sole]] on (a [[s/_shoe|shoe]] or [[b/_boot|boot]])**
 ---
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[k/_kind|kind]] of [[s/_sole|sole]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specified|specified]] [[k/_kind|kind]] of [[s/_sole|sole]].**
 	- _Example: a rubber-soled shoe_
 ---
 ---

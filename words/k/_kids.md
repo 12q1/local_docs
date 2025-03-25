@@ -3,7 +3,7 @@
 #noun
 - **A [[y/_young|young]] [[g/_goat|goat]].**
 	- _Example: He treated the oxen like they didn't exist, but he treated the goat kid like a puppy._
-- **Of a [[f/_female|female]] [[g/_goat|goat]], the state of [[b/_being|being]] [[p/_pregnant|pregnant]]: in [[k/_kid|kid]].**
+- **Of a [[f/_female|female]] [[g/_goat|goat]], the [[s/_state|state]] of [[b/_being|being]] [[p/_pregnant|pregnant]]: in [[k/_kid|kid]].**
 - **[[k/_kidskin|Kidskin]].**
 - **The [[m/_meat|meat]] of a [[y/_young|young]] [[g/_goat|goat]].**
 - **A [[y/_young|young]] [[a/_antelope|antelope]].**

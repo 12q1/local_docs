@@ -17,6 +17,6 @@
 	- _Example: The truck veered across the central reservation and collected a car that was travelling in the opposite direction._
 ---
 #noun
-- **A [[h/_hobby|hobby]] [[i/_including|including]] [[s/_seeking|seeking]], [[l/_locating|locating]], [[a/_acquiring|acquiring]], [[o/_organizing|organizing]], [[c/_cataloging|cataloging]], [[d/_displaying|displaying]], storing, and [[m/_maintaining|maintaining]] whatever [[i/_items|items]] are of [[i/_interest|interest]] to the [[i/_individual|individual]] [[c/_collector|collector]].**
+- **A [[h/_hobby|hobby]] [[i/_including|including]] [[s/_seeking|seeking]], [[l/_locating|locating]], [[a/_acquiring|acquiring]], [[o/_organizing|organizing]], [[c/_cataloging|cataloging]], [[d/_displaying|displaying]], [[s/_storing|storing]], and [[m/_maintaining|maintaining]] whatever [[i/_items|items]] are of [[i/_interest|interest]] to the [[i/_individual|individual]] [[c/_collector|collector]].**
 ---
 ---

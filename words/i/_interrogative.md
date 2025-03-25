@@ -15,7 +15,7 @@
 - [[e/_examining|examining]], [[i/_inquiring|inquiring]], [[i/_investigative|investigative]]
 #noun
 - **The [[p/_punctuation|punctuation]] [[m/_mark|mark]] "?", used at the [[e/_end|end]] of a [[s/_sentence|sentence]] to [[i/_indicate|indicate]] a [[q/_question|question]].**
-- **A state of [[d/_doubt|doubt]] or uncertainty.**
+- **A [[s/_state|state]] of [[d/_doubt|doubt]] or uncertainty.**
 	- _Example: There’s a question mark over whether or not he’ll be fit for the next game._
 - **An [[e/_enigmatic|enigmatic]], [[i/_inscrutable|inscrutable]], or [[m/_mysterious|mysterious]] [[p/_person|person]] or thing; an [[e/_enigma|enigma]], a [[r/_riddle|riddle]].**
 - **[[p/_polygonia|Polygonia]] interrogationis, a [[n/_north|North]] [[a/_american|American]] [[n/_nymphalid|nymphalid]] [[b/_butterfly|butterfly]] with a [[s/_silver|silver]] [[m/_mark|mark]] on the underside of [[i/_its|its]] hindwing [[r/_resembling|resembling]] a [[q/_question|question]] [[m/_mark|mark]] ([[s/_sense|sense]] 1).**

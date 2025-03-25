@@ -13,6 +13,6 @@
 - **To [[m/_move|move]] ([[s/_something|something]]) as though it were [[b/_bobbing|bobbing]] in water.**
 	- _Example: I bobbed my head under water and saw the goldfish._
 - **To [[c/_curtsy|curtsy]].**
-- **To strike with a [[q/_quick|quick]], [[l/_light|light]] [[b/_blow|blow]]; to tap.**
+- **To [[s/_strike|strike]] with a [[q/_quick|quick]], [[l/_light|light]] [[b/_blow|blow]]; to tap.**
 ---
 ---

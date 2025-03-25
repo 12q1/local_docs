@@ -5,7 +5,7 @@
 - **(by [[e/_extension|extension]]) The [[l/_longer|longer]] of the two [[s/_symbols|symbols]] of [[m/_morse|Morse]] [[c/_code|code]].**
 - **A [[s/_short|short]] [[r/_run|run]], [[f/_flight|flight]].**
 - **A [[r/_rushing|rushing]] or violent [[o/_onset|onset]].**
-- **Violent strike; a whack.**
+- **Violent [[s/_strike|strike]]; a whack.**
 - **A [[s/_small|small]] [[q/_quantity|quantity]] of a [[l/_liquid|liquid]] substance [[e/_etc|etc]].; [[l/_less|less]] than 1/8 of a teaspoon.**
 	- _Example: Add a dash of vinegar._
 - **(by [[e/_extension|extension]]) A [[s/_slight|slight]] [[a/_admixture|admixture]].**
@@ -14,18 +14,18 @@
 	- _Example: Aren't we full of dash this morning?_
 - **A [[d/_dashboard|dashboard]].**
 - **([[l/_liberia|Liberia]]) A [[b/_bribe|bribe]] or [[g/_gratuity|gratuity]]; a [[g/_gift|gift]].**
-- **A stand-in for a [[c/_censored|censored]] word, [[l/_like|like]] "[[d/_devil|Devil]]" or "[[d/_damn|damn]]". ([[c/_compare|Compare]] [[d/_deuce|deuce]].)**
+- **A [[s/_stand|stand]]-in for a [[c/_censored|censored]] word, [[l/_like|like]] "[[d/_devil|Devil]]" or "[[d/_damn|damn]]". ([[c/_compare|Compare]] [[d/_deuce|deuce]].)**
 ---
 #verb
 - **To [[r/_run|run]] [[q/_quickly|quickly]] or for a [[s/_short|short]] [[d/_distance|distance]].**
 	- _Example: He dashed across the field._
 - **To [[l/_leave|leave]] or [[d/_depart|depart]].**
 	- _Example: I have to dash now. See you soon._
-- **To [[d/_destroy|destroy]] by striking ([[a/_against|against]]).**
+- **To [[d/_destroy|destroy]] by [[s/_striking|striking]] ([[a/_against|against]]).**
 	- _Example: He dashed the bottle against the bar and turned about to fight._
 - **To throw violently.**
 	- _Example: The man was dashed from the vehicle during the accident._
-- **([[s/_sometimes|sometimes]] [[f/_figurative|figurative]]) To sprinkle; to splatter.**
+- **([[s/_sometimes|sometimes]] [[f/_figurative|figurative]]) To [[s/_sprinkle|sprinkle]]; to [[s/_splatter|splatter]].**
 - **To [[m/_mix|mix]], [[r/_reduce|reduce]], or [[a/_adulterate|adulterate]], by throwing in [[s/_something|something]] of an [[i/_inferior|inferior]] [[q/_quality|quality]].**
 	- _Example: to dash wine with water_
 - **(of [[h/_hopes|hopes]] or [[d/_dreams|dreams]]) To [[r/_ruin|ruin]]; to [[d/_destroy|destroy]].**

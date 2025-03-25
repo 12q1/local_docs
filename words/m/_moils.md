@@ -3,7 +3,7 @@
 #noun
 - **[[h/_hard|Hard]] work.**
 - **[[c/_confusion|Confusion]], turmoil.**
-- **A spot; a [[d/_defilement|defilement]].**
+- **A [[s/_spot|spot]]; a [[d/_defilement|defilement]].**
 ---
 ### Synonyms
 - [[l/_labor|labor]], [[l/_labour|labour]], [[t/_toil|toil]], [[w/_work|work]]

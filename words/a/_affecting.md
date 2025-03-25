@@ -23,6 +23,6 @@
 ### Synonyms
 - [[f/_fake|fake]], [[f/_feign|feign]], [[s/_simulate|simulate]]
 #adjective
-- **[[p/_producing|Producing]] or [[c/_causing|causing]] strong [[f/_feelings|feelings]] and [[e/_emotions|emotions]].**
+- **[[p/_producing|Producing]] or [[c/_causing|causing]] [[s/_strong|strong]] [[f/_feelings|feelings]] and [[e/_emotions|emotions]].**
 ---
 ---

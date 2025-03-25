@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_person|person]] who was [[b/_born|born]] [[o/_out|out]] of wedlock, and [[h/_hence|hence]] [[o/_often|often]] [[c/_considered|considered]] an [[i/_illegitimate|illegitimate]] [[d/_descendant|descendant]].**
 - **A [[m/_mongrel|mongrel]] ([[b/_biological|biological]] [[c/_cross|cross]] [[b/_between|between]] [[d/_different|different]] [[b/_breeds|breeds]], [[g/_groups|groups]] or varieties).**
-- **(typically [[r/_referring|referring]] to a [[m/_man|man]]) A [[c/_contemptible|contemptible]], [[i/_inconsiderate|inconsiderate]], [[o/_overly|overly]] or [[a/_arrogantly|arrogantly]] [[r/_rude|rude]] or spiteful [[p/_person|person]].**
+- **(typically [[r/_referring|referring]] to a [[m/_man|man]]) A [[c/_contemptible|contemptible]], [[i/_inconsiderate|inconsiderate]], [[o/_overly|overly]] or [[a/_arrogantly|arrogantly]] [[r/_rude|rude]] or [[s/_spiteful|spiteful]] [[p/_person|person]].**
 	- _Example: Some bastard stole my car while I was helping an injured person._
 - **A [[m/_man|man]], a [[f/_fellow|fellow]], a [[m/_male|male]] [[f/_friend|friend]].**
 	- _Example: Get over here, you old bastard!_
@@ -18,7 +18,7 @@
 - **A sweet wine.**
 - **A sword that is [[m/_midway|midway]] in [[l/_length|length]] [[b/_between|between]] a [[s/_short|short]]-sword and a [[l/_long|long]] sword; [[a/_also|also]] [[b/_bastard|bastard]] sword.**
 - **An [[i/_inferior|inferior]] [[q/_quality|quality]] of [[s/_soft|soft]] [[b/_brown|brown]] sugar, [[o/_obtained|obtained]] from [[s/_syrups|syrups]] that [[h/_have|have]] [[b/_been|been]] [[b/_boiled|boiled]] [[s/_several|several]] times.**
-- **A [[l/_large|large]] [[m/_mould|mould]] for straining sugar.**
+- **A [[l/_large|large]] [[m/_mould|mould]] for [[s/_straining|straining]] sugar.**
 - **A writing [[p/_paper|paper]] of a [[p/_particular|particular]] [[s/_size|size]].**
 - **A Eurosceptic [[c/_conservative|Conservative]] [[m/_mp|MP]], [[e/_especially|especially]] in the [[g/_government|government]] of [[j/_john|John]] [[m/_major|Major]].**
 ---
@@ -35,8 +35,8 @@
 - **Of or [[l/_like|like]] a [[m/_mongrel|mongrel]], [[b/_bastardized|bastardized]] [[c/_creature|creature]]/[[c/_cross|cross]].**
 - **Of [[a/_abnormal|abnormal]], [[i/_irregular|irregular]] or [[o/_otherwise|otherwise]] [[i/_inferior|inferior]] [[q/_qualities|qualities]] ([[s/_size|size]], [[s/_shape|shape]] [[e/_etc|etc]]).**
 	- _Example: a bastard culverin_
-- **Spurious, [[l/_lacking|lacking]] [[a/_authenticity|authenticity]]: [[c/_counterfeit|counterfeit]], [[f/_fake|fake]].**
-- **Used in the vernacular [[n/_name|name]] of a species to [[i/_indicate|indicate]] that it is [[s/_similar|similar]] in [[s/_some|some]] way to [[a/_another|another]] species, [[o/_often|often]] (but not [[a/_always|always]]) [[o/_one|one]] of [[a/_another|another]] [[g/_genus|genus]].**
+- **[[s/_spurious|Spurious]], [[l/_lacking|lacking]] [[a/_authenticity|authenticity]]: [[c/_counterfeit|counterfeit]], [[f/_fake|fake]].**
+- **Used in the vernacular [[n/_name|name]] of a [[s/_species|species]] to [[i/_indicate|indicate]] that it is [[s/_similar|similar]] in [[s/_some|some]] way to [[a/_another|another]] [[s/_species|species]], [[o/_often|often]] (but not [[a/_always|always]]) [[o/_one|one]] of [[a/_another|another]] [[g/_genus|genus]].**
 	- _Example: bastard gemsbok_
 - **Very unpleasant.**
 	- _Example: I've got a bastard headache._
@@ -45,6 +45,6 @@
 	- _Example: A bastard orange gel produces predominantly orange light with undertones of blue._
 ---
 #interjection
-- **[[e/_exclamation|Exclamation]] of strong [[d/_dismay|dismay]] or strong [[s/_sense|sense]] of [[b/_being|being]] upset.**
+- **[[e/_exclamation|Exclamation]] of [[s/_strong|strong]] [[d/_dismay|dismay]] or [[s/_strong|strong]] [[s/_sense|sense]] of [[b/_being|being]] upset.**
 ---
 ---

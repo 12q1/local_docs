@@ -1,7 +1,7 @@
 # Clarity
 ---
 #noun
-- **The state or [[m/_measure|measure]] of [[b/_being|being]] [[c/_clear|clear]], [[e/_either|either]] in [[a/_appearance|appearance]], thought or style; [[l/_lucidity|lucidity]].**
+- **The [[s/_state|state]] or [[m/_measure|measure]] of [[b/_being|being]] [[c/_clear|clear]], [[e/_either|either]] in [[a/_appearance|appearance]], thought or [[s/_style|style]]; [[l/_lucidity|lucidity]].**
 	- _Example: Lack of clarity on the part of the teacher will cause confusion among the students._
 ---
 ### Synonyms

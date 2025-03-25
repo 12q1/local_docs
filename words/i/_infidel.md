@@ -8,7 +8,7 @@
 ### Synonyms
 - [[a/_atheist|atheist]], [[d/_disbeliever|disbeliever]], [[n/_non-believer|non-believer]], [[n/_nonbeliever|nonbeliever]], [[u/_unbeliever|unbeliever]]
 #adjective
-- **[[r/_rejecting|Rejecting]] a specific [[r/_religion|religion]].**
+- **[[r/_rejecting|Rejecting]] a [[s/_specific|specific]] [[r/_religion|religion]].**
 - **Of, [[c/_characteristic|characteristic]] of, or [[r/_relating|relating]] to unbelievers or unbelief.**
 ---
 ---

@@ -10,6 +10,6 @@
 #adjective
 - **[[r/_running|Running]]; [[f/_flowing|flowing]].**
 - **(of writing) [[h/_having|Having]] successive [[l/_letters|letters]] [[j/_joined|joined]] together.**
-- **([[g/_grammar|grammar]]) Of or [[r/_relating|relating]] to a [[g/_grammatical|grammatical]] [[a/_aspect|aspect]] [[r/_relating|relating]] to an [[a/_action|action]] that [[o/_occurs|occurs]] in a straight [[l/_line|line]] (in [[s/_space|space]] or time).**
+- **([[g/_grammar|grammar]]) Of or [[r/_relating|relating]] to a [[g/_grammatical|grammatical]] [[a/_aspect|aspect]] [[r/_relating|relating]] to an [[a/_action|action]] that [[o/_occurs|occurs]] in a [[s/_straight|straight]] [[l/_line|line]] (in [[s/_space|space]] or time).**
 ---
 ---

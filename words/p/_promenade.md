@@ -2,14 +2,14 @@
 ---
 #noun
 - **A [[p/_prom|prom]] ([[d/_dance|dance]]).**
-- **A walk taken for [[p/_pleasure|pleasure]], [[d/_display|display]], or [[e/_exercise|exercise]]; a stroll.**
+- **A walk taken for [[p/_pleasure|pleasure]], [[d/_display|display]], or [[e/_exercise|exercise]]; a [[s/_stroll|stroll]].**
 - **A [[p/_place|place]] where [[o/_one|one]] takes a walk for [[l/_leisurely|leisurely]] [[p/_pleasure|pleasure]], or for [[e/_exercise|exercise]], [[e/_especially|especially]] a terrace by the [[s/_seaside|seaside]].**
-- **A [[d/_dance|dance]] [[m/_motion|motion]] [[c/_consisting|consisting]] of a walk, [[d/_done|done]] while square [[d/_dancing|dancing]].**
+- **A [[d/_dance|dance]] [[m/_motion|motion]] [[c/_consisting|consisting]] of a walk, [[d/_done|done]] while [[s/_square|square]] [[d/_dancing|dancing]].**
 ---
 ### Synonyms
 - [[e/_esplanade|esplanade]]
 #verb
 - **To walk for [[a/_amusement|amusement]], [[s/_show|show]], or [[e/_exercise|exercise]].**
-- **To [[p/_perform|perform]] the stylized walk of a square [[d/_dance|dance]].**
+- **To [[p/_perform|perform]] the [[s/_stylized|stylized]] walk of a [[s/_square|square]] [[d/_dance|dance]].**
 ---
 ---

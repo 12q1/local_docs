@@ -20,7 +20,7 @@
 - **To [[d/_do|do]] [[n/_nothing|nothing]]; to [[i/_idle|idle]]; veg [[o/_out|out]].**
 ---
 #verb
-- **To [[p/_purloin|purloin]] or [[e/_embezzle|embezzle]]; to [[p/_pilfer|pilfer]], to steal.**
+- **To [[p/_purloin|purloin]] or [[e/_embezzle|embezzle]]; to [[p/_pilfer|pilfer]], to [[s/_steal|steal]].**
 ---
 ### Synonyms
 - [[e/_embezzle|embezzle]], [[p/_pilfer|pilfer]], [[p/_purloin|purloin]], [[s/_steal|steal]]

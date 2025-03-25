@@ -7,12 +7,12 @@
 	- _Example: He waited minutes for a break in the traffic to cross the highway._
 - **A [[r/_rest|rest]] or [[p/_pause|pause]], usually from work.**
 	- _Example: Let’s take a five-minute break._
-- **A time for students to talk or [[p/_play|play]].**
+- **A time for [[s/_students|students]] to talk or [[p/_play|play]].**
 - **A [[s/_short|short]] [[h/_holiday|holiday]].**
 	- _Example: a weekend break on the Isle of Wight_
-- **A temporary split with a [[r/_romantic|romantic]] [[p/_partner|partner]].**
+- **A temporary [[s/_split|split]] with a [[r/_romantic|romantic]] [[p/_partner|partner]].**
 	- _Example: I think we need a break._
-- **An [[i/_interval|interval]] or [[i/_intermission|intermission]] [[b/_between|between]] two [[p/_parts|parts]] of a [[p/_performance|performance]], for [[e/_example|example]] a theatre [[s/_show|show]], [[b/_broadcast|broadcast]], or sports [[g/_game|game]].**
+- **An [[i/_interval|interval]] or [[i/_intermission|intermission]] [[b/_between|between]] two [[p/_parts|parts]] of a [[p/_performance|performance]], for [[e/_example|example]] a theatre [[s/_show|show]], [[b/_broadcast|broadcast]], or [[s/_sports|sports]] [[g/_game|game]].**
 - **A [[s/_significant|significant]] [[c/_change|change]] in [[c/_circumstance|circumstance]], [[a/_attitude|attitude]], [[p/_perception|perception]], or [[f/_focus|focus]] of [[a/_attention|attention]].**
 	- _Example: big break_
 - **The [[b/_beginning|beginning]] (of the [[m/_morning|morning]]).**
@@ -21,16 +21,16 @@
 	- _Example: It was a clean break._
 - **The [[s/_separation|separation]] [[b/_between|between]] [[l/_lines|lines]], [[p/_paragraphs|paragraphs]] or [[p/_pages|pages]] of a written text.**
 - **A [[k/_keystroke|keystroke]] or [[o/_other|other]] [[s/_signal|signal]] that [[c/_causes|causes]] a [[p/_program|program]] to terminate or suspend [[e/_execution|execution]].**
-- **A [[p/_point|point]] or [[c/_condition|condition]] in a [[p/_program|program]] at which [[o/_operation|operation]] [[m/_may|may]] be suspended [[d/_during|during]] [[d/_debugging|debugging]] [[s/_so|so]] that the state of the [[p/_program|program]] at that [[p/_point|point]] [[c/_can|can]] be [[i/_investigated|investigated]]. A [[b/_breakpoint|breakpoint]].**
-- **A [[c/_change|change]], [[p/_particularly|particularly]] the [[e/_end|end]] of a spell of [[p/_persistent|persistent]] [[g/_good|good]] or [[b/_bad|bad]] weather.**
+- **A [[p/_point|point]] or [[c/_condition|condition]] in a [[p/_program|program]] at which [[o/_operation|operation]] [[m/_may|may]] be suspended [[d/_during|during]] [[d/_debugging|debugging]] [[s/_so|so]] that the [[s/_state|state]] of the [[p/_program|program]] at that [[p/_point|point]] [[c/_can|can]] be [[i/_investigated|investigated]]. A [[b/_breakpoint|breakpoint]].**
+- **A [[c/_change|change]], [[p/_particularly|particularly]] the [[e/_end|end]] of a [[s/_spell|spell]] of [[p/_persistent|persistent]] [[g/_good|good]] or [[b/_bad|bad]] weather.**
 - **:**
-- **A [[l/_large|large]] [[f/_four|four]]-wheeled [[c/_carriage|carriage]], [[h/_having|having]] a straight [[b/_body|body]] and [[c/_calash|calash]] top, with the [[d/_driver|driver]]'[[s/_s|s]] [[s/_seat|seat]] in [[f/_front|front]] and the [[f/_footman|footman]]'[[s/_s|s]] [[b/_behind|behind]].**
+- **A [[l/_large|large]] [[f/_four|four]]-wheeled [[c/_carriage|carriage]], [[h/_having|having]] a [[s/_straight|straight]] [[b/_body|body]] and [[c/_calash|calash]] top, with the [[d/_driver|driver]]'[[s/_s|s]] [[s/_seat|seat]] in [[f/_front|front]] and the [[f/_footman|footman]]'[[s/_s|s]] [[b/_behind|behind]].**
 - **([[e/_equitation|equitation]]) A [[s/_sharp|sharp]] [[b/_bit|bit]] or [[s/_snaffle|snaffle]].**
-- **A [[s/_short|short]] [[s/_section|section]] of [[m/_music|music]], [[o/_often|often]] [[b/_between|between]] verses, in which [[s/_some|some]] [[p/_performers|performers]] stop while [[o/_others|others]] [[c/_continue|continue]].**
+- **A [[s/_short|short]] [[s/_section|section]] of [[m/_music|music]], [[o/_often|often]] [[b/_between|between]] verses, in which [[s/_some|some]] [[p/_performers|performers]] [[s/_stop|stop]] while [[o/_others|others]] [[c/_continue|continue]].**
 	- _Example: The fiddle break was amazing; it was a pity the singer came back in on the wrong note._
 - **The [[p/_point|point]] in the [[m/_musical|musical]] [[s/_scale|scale]] at which a woodwind [[i/_instrument|instrument]] is [[d/_designed|designed]] to [[o/_overblow|overblow]], that is, to [[m/_move|move]] from [[i/_its|its]] [[l/_lower|lower]] to [[i/_its|its]] upper [[r/_register|register]].**
 	- _Example: Crossing the break smoothly is one of the first lessons the young clarinettist needs to master._
-- **Usu. [[p/_plural|plural]] An [[a/_area|area]] [[a/_along|along]] a [[r/_river|river]] that [[f/_features|features]] steep [[b/_banks|banks]], [[b/_bluffs|bluffs]], or [[g/_gorges|gorges]] ([[e/_e|e]].[[g/_g|g]]., Upper [[m/_missouri|Missouri]] [[r/_river|River]] [[b/_breaks|Breaks]] [[n/_national|National]] [[m/_monument|Monument]], US).**
+- **Usu. [[p/_plural|plural]] An [[a/_area|area]] [[a/_along|along]] a [[r/_river|river]] that [[f/_features|features]] [[s/_steep|steep]] [[b/_banks|banks]], [[b/_bluffs|bluffs]], or [[g/_gorges|gorges]] ([[e/_e|e]].[[g/_g|g]]., Upper [[m/_missouri|Missouri]] [[r/_river|River]] [[b/_breaks|Breaks]] [[n/_national|National]] [[m/_monument|Monument]], US).**
 ---
 ### Synonyms
 - [[s/_split|split]], [[b/_breach|breach]], [[g/_gap|gap]], [[s/_space|space]], [[t/_time-out|time-out]], [[p/_playtime|playtime]], [[r/_recess|recess]]
@@ -39,7 +39,7 @@
 	- _Example: If the vase falls to the floor, it might break._
 - **To [[d/_divide|divide]] ([[s/_something|something]], [[o/_often|often]] [[m/_money|money]]) [[i/_into|into]] [[s/_smaller|smaller]] units.**
 	- _Example: Can you break a hundred-dollar bill for me?_
-- **To [[c/_cause|cause]] (a [[p/_person|person]] or [[a/_animal|animal]]) to [[l/_lose|lose]] spirit or will; to [[c/_crush|crush]] the spirits of.**
+- **To [[c/_cause|cause]] (a [[p/_person|person]] or [[a/_animal|animal]]) to [[l/_lose|lose]] [[s/_spirit|spirit]] or will; to [[c/_crush|crush]] the [[s/_spirits|spirits]] of.**
 	- _Example: Her child's death broke Angela._
 - **To be [[c/_crushed|crushed]], or [[o/_overwhelmed|overwhelmed]] with [[s/_sorrow|sorrow]] or [[g/_grief|grief]].**
 	- _Example: My heart is breaking._
@@ -51,15 +51,15 @@
 	- _Example: He broke his vows by cheating on his wife._
 - **(of a [[f/_fever|fever]]) To [[p/_pass|pass]] the [[m/_most|most]] [[d/_dangerous|dangerous]] [[p/_part|part]] of the [[i/_illness|illness]]; to [[g/_go|go]] [[d/_down|down]], in terms of temperature.**
 	- _Example: Susan's fever broke at about 3 AM, and the doctor said the worst was over._
-- **(of a spell of [[s/_settled|settled]] weather) To [[e/_end|end]].**
+- **(of a [[s/_spell|spell]] of [[s/_settled|settled]] weather) To [[e/_end|end]].**
 	- _Example: The forecast says the hot weather will break by midweek._
-- **(of a storm) To [[b/_begin|begin]]; to [[e/_end|end]].**
+- **(of a [[s/_storm|storm]]) To [[b/_begin|begin]]; to [[e/_end|end]].**
 	- _Example: Around midday the storm broke, and the afternoon was calm and sunny._
 - **(of [[m/_morning|morning]], [[d/_dawn|dawn]], [[d/_day|day]] [[e/_etc|etc]].) To [[a/_arrive|arrive]].**
 	- _Example: Morning has broken._
 - **To [[r/_render|render]] (a [[g/_game|game]]) unchallenging by [[a/_altering|altering]] [[i/_its|its]] [[r/_rules|rules]] or [[e/_exploiting|exploiting]] [[l/_loopholes|loopholes]] or weaknesses in them in a way that [[g/_gives|gives]] a [[p/_player|player]] an unfair [[a/_advantage|advantage]].**
 	- _Example: Changing the rules to let white have three extra queens would break chess._
-- **To stop, or to [[c/_cause|cause]] to stop, [[f/_functioning|functioning]] [[p/_properly|properly]] or [[a/_altogether|altogether]].**
+- **To [[s/_stop|stop]], or to [[c/_cause|cause]] to [[s/_stop|stop]], [[f/_functioning|functioning]] [[p/_properly|properly]] or [[a/_altogether|altogether]].**
 	- _Example: Did you two break the trolley by racing with it?_
 - **To [[c/_cause|cause]] (a [[b/_barrier|barrier]]) to [[n/_no|no]] [[l/_longer|longer]] [[b/_bar|bar]].**
 	- _Example: break a seal_
@@ -74,14 +74,14 @@
 - **To [[d/_disclose|disclose]] or [[m/_make|make]] [[k/_known|known]] an [[i/_item|item]] of [[n/_news|news]], [[e/_etc|etc]].**
 	- _Example: I don't know how to break this to you, but your cat is not coming back._
 - **(of a [[s/_sound|sound]]) To [[b/_become|become]] [[a/_audible|audible]] suddenly.**
-- **To [[c/_change|change]] a steady state [[a/_abruptly|abruptly]].**
+- **To [[c/_change|change]] a [[s/_steady|steady]] [[s/_state|state]] [[a/_abruptly|abruptly]].**
 	- _Example: His coughing broke the silence._
 - **To suddenly [[b/_become|become]].**
 	- _Example: The arrest was standard, when suddenly the suspect broke ugly._
 - **Of a [[m/_male|male]] voice, to [[b/_become|become]] [[d/_deeper|deeper]] at [[p/_puberty|puberty]].**
-- **Of a voice, to [[a/_alter|alter]] in type [[d/_due|due]] to [[e/_emotion|emotion]] or strain: in [[m/_men|men]] [[g/_generally|generally]] to [[g/_go|go]] up, in women [[s/_sometimes|sometimes]] to [[g/_go|go]] [[d/_down|down]]; to [[c/_crack|crack]].**
+- **Of a voice, to [[a/_alter|alter]] in type [[d/_due|due]] to [[e/_emotion|emotion]] or [[s/_strain|strain]]: in [[m/_men|men]] [[g/_generally|generally]] to [[g/_go|go]] up, in women [[s/_sometimes|sometimes]] to [[g/_go|go]] [[d/_down|down]]; to [[c/_crack|crack]].**
 	- _Example: His voice breaks when he gets emotional._
-- **To surpass or [[d/_do|do]] [[b/_better|better]] than (a specific [[n/_number|number]]), to [[d/_do|do]] [[b/_better|better]] than (a [[r/_record|record]]), [[s/_setting|setting]] a [[n/_new|new]] [[r/_record|record]].**
+- **To surpass or [[d/_do|do]] [[b/_better|better]] than (a [[s/_specific|specific]] [[n/_number|number]]), to [[d/_do|do]] [[b/_better|better]] than (a [[r/_record|record]]), [[s/_setting|setting]] a [[n/_new|new]] [[r/_record|record]].**
 	- _Example: He broke the men's 100-meter record._
 - **:**
 - **([[m/_most|most]] [[o/_often|often]] in the [[p/_passive|passive]] tense) To [[d/_demote|demote]], to [[r/_reduce|reduce]] the [[m/_military|military]] [[r/_rank|rank]] of.**
@@ -90,16 +90,16 @@
 - **(of an [[e/_emulsion|emulsion]]) To [[d/_demulsify|demulsify]].**
 - **To [[c/_counter|counter]]-[[a/_attack|attack]]**
 - **To [[l/_lay|lay]] [[o/_open|open]], as a [[p/_purpose|purpose]]; to [[d/_disclose|disclose]], [[d/_divulge|divulge]], or [[c/_communicate|communicate]].**
-- **To [[b/_become|become]] weakened in [[c/_constitution|constitution]] or [[f/_faculties|faculties]]; to [[l/_lose|lose]] [[h/_health|health]] or strength.**
+- **To [[b/_become|become]] weakened in [[c/_constitution|constitution]] or [[f/_faculties|faculties]]; to [[l/_lose|lose]] [[h/_health|health]] or [[s/_strength|strength]].**
 - **To [[f/_fail|fail]] in [[b/_business|business]]; to [[b/_become|become]] [[b/_bankrupt|bankrupt]].**
-- **To [[d/_destroy|destroy]] the strength, [[f/_firmness|firmness]], or [[c/_consistency|consistency]] of.**
+- **To [[d/_destroy|destroy]] the [[s/_strength|strength]], [[f/_firmness|firmness]], or [[c/_consistency|consistency]] of.**
 	- _Example: to break flax_
-- **To [[d/_destroy|destroy]] the [[o/_official|official]] [[c/_character|character]] and standing of; to [[c/_cashier|cashier]]; to [[d/_dismiss|dismiss]].**
+- **To [[d/_destroy|destroy]] the [[o/_official|official]] [[c/_character|character]] and [[s/_standing|standing]] of; to [[c/_cashier|cashier]]; to [[d/_dismiss|dismiss]].**
 - **To [[m/_make|make]] an [[a/_abrupt|abrupt]] or sudden [[c/_change|change]]; to [[c/_change|change]] the [[g/_gait|gait]].**
 	- _Example: to break into a run or gallop_
 - **To [[f/_fall|fall]] [[o/_out|out]]; to terminate [[f/_friendship|friendship]].**
 - **To terminate the [[e/_execution|execution]] of a [[p/_program|program]] [[b/_before|before]] [[n/_normal|normal]] [[c/_completion|completion]].**
-- **To suspend the [[e/_execution|execution]] of a [[p/_program|program]] [[d/_during|during]] [[d/_debugging|debugging]] [[s/_so|so]] that the state of the [[p/_program|program]] [[c/_can|can]] be [[i/_investigated|investigated]].**
+- **To suspend the [[e/_execution|execution]] of a [[p/_program|program]] [[d/_during|during]] [[d/_debugging|debugging]] [[s/_so|so]] that the [[s/_state|state]] of the [[p/_program|program]] [[c/_can|can]] be [[i/_investigated|investigated]].**
 ---
 ### Synonyms
 - [[c/_crack|crack]], [[f/_fracture|fracture]], [[b/_burst|burst]], [[b/_bust|bust]], [[s/_shatter|shatter]], [[s/_shear|shear]], [[s/_smash|smash]], [[s/_split|split]], [[b/_bust|bust]], [[f/_fail|fail]], [[c/_contravene|contravene]], [[v/_violate|violate]], [[s/_subject|subject]], [[t/_tame|tame]]

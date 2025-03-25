@@ -9,8 +9,8 @@
 	- _Example: We managed to ring 22 birds this morning._
 - **To surround or [[f/_fit|fit]] with a [[r/_ring|ring]], or as [[i/_if|if]] with a [[r/_ring|ring]].**
 	- _Example: to ring a pig’s snout_
-- **To [[r/_rise|rise]] in the [[a/_air|air]] spirally.**
-- **To steal and [[c/_change|change]] the [[i/_identity|identity]] of ([[c/_cars|cars]]) in [[o/_order|order]] to [[r/_resell|resell]] them.**
+- **To [[r/_rise|rise]] in the [[a/_air|air]] [[s/_spirally|spirally]].**
+- **To [[s/_steal|steal]] and [[c/_change|change]] the [[i/_identity|identity]] of ([[c/_cars|cars]]) in [[o/_order|order]] to [[r/_resell|resell]] them.**
 ---
 #verb
 - **Of a [[b/_bell|bell]], [[e/_etc|etc]]., to [[p/_produce|produce]] a [[r/_resonant|resonant]] [[s/_sound|sound]].**
@@ -21,7 +21,7 @@
 	- _Example: They rang a Christmas carol on their handbells._
 - **To [[p/_produce|produce]] the [[s/_sound|sound]] of a [[b/_bell|bell]] or a [[s/_similar|similar]] [[s/_sound|sound]].**
 	- _Example: Whose mobile phone is ringing?_
-- **Of [[s/_something|something]] spoken or written, to [[a/_appear|appear]] to be, to [[s/_seem|seem]], to [[s/_sound|sound]].**
+- **Of [[s/_something|something]] [[s/_spoken|spoken]] or written, to [[a/_appear|appear]] to be, to [[s/_seem|seem]], to [[s/_sound|sound]].**
 	- _Example: That does not ring true._
 - **To telephone ([[s/_someone|someone]]).**
 	- _Example: I will ring you when we arrive._
@@ -32,7 +32,7 @@
 #noun
 - **The [[s/_sound|sound]] of [[s/_something|something]] that [[r/_rings|rings]].**
 - **The [[q/_quality|quality]] of [[b/_being|being]] [[r/_resonant|resonant]].**
-- **A technique used in the study of wild [[b/_birds|birds]], by [[a/_attaching|attaching]] a [[s/_small|small]], [[i/_individually|individually]] [[n/_numbered|numbered]], [[m/_metal|metal]] or [[p/_plastic|plastic]] tag to their [[l/_legs|legs]] or wings.**
+- **A technique used in the [[s/_study|study]] of wild [[b/_birds|birds]], by [[a/_attaching|attaching]] a [[s/_small|small]], [[i/_individually|individually]] [[n/_numbered|numbered]], [[m/_metal|metal]] or [[p/_plastic|plastic]] tag to their [[l/_legs|legs]] or wings.**
 - **The theft of [[c/_cars|cars]] and [[i/_illegally|illegally]] [[c/_changing|changing]] their [[i/_identities|identities]] for [[r/_resale|resale]].**
 ---
 ### Synonyms

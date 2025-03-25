@@ -1,9 +1,9 @@
 # Motherfucker
 ---
 #noun
-- **(strongly vulgar) An [[e/_extremely|extremely]] [[c/_contemptible|contemptible]] or [[m/_mean|mean]] [[p/_person|person]].**
+- **([[s/_strongly|strongly]] vulgar) An [[e/_extremely|extremely]] [[c/_contemptible|contemptible]] or [[m/_mean|mean]] [[p/_person|person]].**
 	- _Example: Up against the wall, motherfucker._
-- **(strongly vulgar) [[a/_any|Any]] [[p/_person|person]], [[o/_often|often]] but not [[a/_always|always]] with the [[c/_connotation|connotation]] that the [[p/_person|person]] is [[d/_disliked|disliked]] or is threatening.**
+- **([[s/_strongly|strongly]] vulgar) [[a/_any|Any]] [[p/_person|person]], [[o/_often|often]] but not [[a/_always|always]] with the [[c/_connotation|connotation]] that the [[p/_person|person]] is [[d/_disliked|disliked]] or is threatening.**
 	- _Example: Check out this motherfucker._
 - **([[m/_markedly|markedly]] vulgar) An [[e/_extremely|extremely]] [[i/_intense|intense]] [[e/_experience|experience]], [[o/_often|often]] but not [[a/_always|always]] [[n/_negative|negative]].**
 	- _Example: I jammed my finger in the door yesterday. It hurt like a motherfucker._

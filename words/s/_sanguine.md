@@ -8,7 +8,7 @@
 - **[[r/_red|Red]] [[c/_crayon|crayon]].**
 ---
 #verb
-- **To stain with [[b/_blood|blood]]; to [[i/_impart|impart]] the [[c/_colour|colour]] of [[b/_blood|blood]] to; to [[e/_ensanguine|ensanguine]].**
+- **To [[s/_stain|stain]] with [[b/_blood|blood]]; to [[i/_impart|impart]] the [[c/_colour|colour]] of [[b/_blood|blood]] to; to [[e/_ensanguine|ensanguine]].**
 ---
 #adjective
 - **[[h/_having|Having]] the [[c/_colour|colour]] of [[b/_blood|blood]]; [[b/_blood|blood]] [[r/_red|red]].**

@@ -1,6 +1,6 @@
 # Emblematized
 ---
 #verb
-- **To stand as an [[e/_emblem|emblem]] for; to [[r/_represent|represent]].**
+- **To [[s/_stand|stand]] as an [[e/_emblem|emblem]] for; to [[r/_represent|represent]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[l/_literal|literal]] wheel of a [[c/_cart|cart]].**
-- **A [[g/_gymnastic|gymnastic]] [[m/_maneuver|maneuver]] whereby the [[g/_gymnast|gymnast]] [[r/_rotates|rotates]] to [[o/_one|one]] [[s/_side|side]] or the [[o/_other|other]] while [[k/_keeping|keeping]] [[a/_arms|arms]] and [[l/_legs|legs]] [[o/_outstretched|outstretched]], spinning for [[o/_one|one]] or [[m/_more|more]] [[r/_revolutions|revolutions]].**
+- **A [[g/_gymnastic|gymnastic]] [[m/_maneuver|maneuver]] whereby the [[g/_gymnast|gymnast]] [[r/_rotates|rotates]] to [[o/_one|one]] [[s/_side|side]] or the [[o/_other|other]] while [[k/_keeping|keeping]] [[a/_arms|arms]] and [[l/_legs|legs]] [[o/_outstretched|outstretched]], [[s/_spinning|spinning]] for [[o/_one|one]] or [[m/_more|more]] [[r/_revolutions|revolutions]].**
 - **A [[c/_crown|crown]] [[c/_coin|coin]]; [[i/_its|its]] value, 5 [[s/_shillings|shillings]].**
 - **A [[s/_silver|silver]] [[d/_dollar|dollar]] of the [[l/_larger|larger]] [[s/_size|size]] [[p/_produced|produced]] [[b/_before|before]] 1979.**
 ---

@@ -1,0 +1,54 @@
+# Stuff
+---
+#noun
+- **[[m/_miscellaneous|Miscellaneous]] [[i/_items|items]] or [[o/_objects|objects]]; (with [[p/_possessive|possessive]]) [[p/_personal|personal]] [[e/_effects|effects]].**
+	- _Example: What is all that stuff on your bedroom floor?  He didn't want his pockets to bulge so he was walking around with all his stuff in his hands._
+- **Unspecified things or [[m/_matters|matters]].**
+	- _Example: I had to do some stuff._
+- **The tangible substance that [[g/_goes|goes]] [[i/_into|into]] the [[m/_makeup|makeup]] of a [[p/_physical|physical]] [[o/_object|object]].**
+- **A [[m/_material|material]] for [[m/_making|making]] [[c/_clothing|clothing]]; [[a/_any|any]] woven textile, but [[e/_especially|especially]] a woollen [[f/_fabric|fabric]].**
+- **[[b/_boards|Boards]] used for [[b/_building|building]].**
+- **[[a/_abstract|Abstract]] substance or [[c/_character|character]].**
+- **Used as [[p/_placeholder|placeholder]], usually for [[m/_material|material]] of unknown type or [[n/_name|name]].**
+	- _Example: Can I have some of that stuff on my ice-cream sundae?_
+- **[[n/_narcotic|Narcotic]] [[d/_drugs|drugs]], [[e/_especially|especially]] [[h/_heroin|heroin]].**
+- **[[f/_furniture|Furniture]]; [[g/_goods|goods]]; [[d/_domestic|domestic]] vessels or utensils.**
+- **A [[m/_medicine|medicine]] or [[m/_mixture|mixture]]; a [[p/_potion|potion]].**
+- **[[r/_refuse|Refuse]] or worthless [[m/_matter|matter]]; [[h/_hence|hence]], [[a/_also|also]], [[f/_foolish|foolish]] or [[i/_irrational|irrational]] [[l/_language|language]]; [[n/_nonsense|nonsense]]; trash.**
+- **A [[m/_melted|melted]] [[m/_mass|mass]] of turpentine, tallow, [[e/_etc|etc]]., with which the [[m/_masts|masts]], [[s/_sides|sides]], and [[b/_bottom|bottom]] of a [[s/_ship|ship]] are [[s/_smeared|smeared]] for [[l/_lubrication|lubrication]].**
+- **[[p/_paper|Paper]] [[s/_stock|stock]] [[g/_ground|ground]] [[r/_ready|ready]] for use. When [[p/_partly|partly]] [[g/_ground|ground]], it is [[c/_called|called]] [[h/_half|half]] [[s/_stuff|stuff]].**
+- **[[m/_money|Money]].**
+---
+### Synonyms
+- [[d/_doodad|doodad]], [[t/_thingamabob|thingamabob]], [[d/_dope|dope]], [[g/_gear|gear]], [[g/_garbage|garbage]], [[r/_rubbish|rubbish]], [[m/_matter|matter]]
+#verb
+- **To [[f/_fill|fill]] by [[p/_packing|packing]] or [[c/_crowding|crowding]] [[s/_something|something]] [[i/_into|into]]; to [[c/_cram|cram]] with [[s/_something|something]]; to [[l/_load|load]] to [[e/_excess|excess]].**
+	- _Example: I'm going to stuff this pillow with feathers._
+- **To [[f/_fill|fill]] a [[s/_space|space]] with ([[s/_something|something]]) in a [[c/_compressed|compressed]] [[m/_manner|manner]].**
+	- _Example: He stuffed his clothes into the closet and shut the door._
+- **To [[f/_fill|fill]] with [[s/_seasoning|seasoning]].**
+	- _Example: She stuffed the turkey for Thanksgiving using her secret recipe._
+- **To [[l/_load|load]] [[g/_goods|goods]] [[i/_into|into]] (a [[c/_container|container]]) for transport.**
+- **(used in the [[p/_passive|passive]]) To [[s/_sate|sate]].**
+	- _Example: I’m stuffed after having eaten all that turkey, mashed potatoes and delicious stuffing._
+- **([[p/_pronominal|pronominal]]) To [[e/_eat|eat]], [[e/_especially|especially]] in a [[h/_hearty|hearty]] or [[g/_greedy|greedy]] [[m/_manner|manner]].**
+	- _Example: She sits on the sofa all day, watching TV and stuffing herself with cream buns._
+- **To [[b/_break|break]]; to [[d/_destroy|destroy]].**
+	- _Example: He skidded off the road and totally stuffed his brand new car._
+- **To [[s/_sexually|sexually]] [[p/_penetrate|penetrate]].**
+	- _Example: His wife came home early and found him on the couch stuffing the maid._
+- **([[m/_mildly|mildly]] vulgar, [[o/_often|often]] [[i/_imperative|imperative]]) Used to [[c/_contemptuously|contemptuously]] [[d/_dismiss|dismiss]] or [[r/_reject|reject]] [[s/_something|something]]. [[s/_see|See]] [[a/_also|also]] [[s/_stuff|stuff]] it.**
+	- _Example: Stuff your stupid rules, I'll do what I like._
+- **To [[h/_heavily|heavily]] [[d/_defeat|defeat]] or [[g/_get|get]] the [[b/_better|better]] of.**
+	- _Example: Mudchester Rovers were stuffed 7-0 in the semi-final._
+- **To [[c/_cut|cut]] [[o/_off|off]] [[a/_another|another]] [[c/_competitor|competitor]] in a [[r/_race|race]] by [[d/_disturbing|disturbing]] [[h/_his|his]] [[p/_projected|projected]] and [[c/_committed|committed]] [[r/_racing|racing]] [[l/_line|line]] (trajectory) by an [[a/_abrupt|abrupt]] [[m/_manoeuvre|manoeuvre]].**
+	- _Example: I got stuffed by that guy on the supermoto going into that turn, almost causing us to crash._
+- **To [[p/_preserve|preserve]] a [[d/_dead|dead]] [[b/_bird|bird]] or [[o/_other|other]] [[a/_animal|animal]] by [[f/_filling|filling]] [[i/_its|its]] [[s/_skin|skin]].**
+- **To [[o/_obstruct|obstruct]], as [[a/_any|any]] of the [[o/_organs|organs]]; to [[a/_affect|affect]] with [[s/_some|some]] [[o/_obstruction|obstruction]] in the [[o/_organs|organs]] of [[s/_sense|sense]] or [[r/_respiration|respiration]].**
+- **To [[f/_form|form]] or [[f/_fashion|fashion]] by [[p/_packing|packing]] with the [[n/_necessary|necessary]] [[m/_material|material]].**
+- **To [[c/_crowd|crowd]] with [[f/_facts|facts]]; to [[c/_cram|cram]] the [[m/_mind|mind]] of; [[s/_sometimes|sometimes]], to [[c/_crowd|crowd]] or [[f/_fill|fill]] with [[f/_false|false]] or [[i/_idle|idle]] tales or [[f/_fancies|fancies]].**
+- **To [[c/_compress|compress]] (a [[f/_file|file]] or [[f/_files|files]]) in the StuffIt [[f/_format|format]], to be unstuffed [[l/_later|later]].**
+---
+### Synonyms
+- [[f/_fuck|fuck]], [[r/_root|root]], [[s/_screw|screw]]
+---

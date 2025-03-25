@@ -10,7 +10,7 @@
 - **[[h/_having|Having]] [[n/_no|no]] [[s/_sensation|sensation]] or [[c/_consciousness|consciousness]]; unconscious; [[i/_inanimate|inanimate]].**
 - **[[s/_senseless|Senseless]]; [[f/_foolish|foolish]]; [[i/_irrational|irrational]].**
 - **Unfeeling, [[h/_heartless|heartless]], [[c/_cruel|cruel]], [[i/_insensitive|insensitive]].**
-- **Not [[r/_responsive|responsive]] to [[s/_sensory|sensory]] stimuli.**
+- **Not [[r/_responsive|responsive]] to [[s/_sensory|sensory]] [[s/_stimuli|stimuli]].**
 ---
 ### Antonyms
 - [[s/_sentient|sentient]]

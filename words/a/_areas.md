@@ -1,7 +1,7 @@
 # Areas
 ---
 #noun
-- **A [[m/_measure|measure]] of the [[e/_extent|extent]] of a surface; it is [[m/_measured|measured]] in square units.**
+- **A [[m/_measure|measure]] of the [[e/_extent|extent]] of a surface; it is [[m/_measured|measured]] in [[s/_square|square]] units.**
 - **A [[p/_particular|particular]] [[g/_geographic|geographic]] [[r/_region|region]].**
 - **[[a/_any|Any]] [[p/_particular|particular]] [[e/_extent|extent]] of surface, [[e/_especially|especially]] an [[e/_empty|empty]] or unused [[e/_extent|extent]].**
 	- _Example: The photo is a little dark in that area._

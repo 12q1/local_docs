@@ -1,7 +1,7 @@
 # Harness
 ---
 #noun
-- **A [[r/_restraint|restraint]] or support, [[e/_especially|especially]] [[o/_one|one]] [[c/_consisting|consisting]] of a [[l/_loop|loop]] or [[n/_network|network]] of [[r/_rope|rope]] or straps.**
+- **A [[r/_restraint|restraint]] or support, [[e/_especially|especially]] [[o/_one|one]] [[c/_consisting|consisting]] of a [[l/_loop|loop]] or [[n/_network|network]] of [[r/_rope|rope]] or [[s/_straps|straps]].**
 - **A [[c/_collection|collection]] of wires or [[c/_cables|cables]] [[b/_bundled|bundled]] and [[r/_routed|routed]] [[a/_according|according]] to their [[f/_function|function]].**
 - **The [[c/_complete|complete]] [[d/_dress|dress]], [[e/_especially|especially]] in a [[m/_military|military]] [[s/_sense|sense]], of a [[m/_man|man]] or a [[h/_horse|horse]]; [[a/_armour|armour]] in [[g/_general|general]].**
 - **The [[p/_part|part]] of a [[l/_loom|loom]] [[c/_comprising|comprising]] the [[h/_heddles|heddles]], with their [[m/_means|means]] of support and [[m/_motion|motion]], by which the threads of the warp are [[a/_alternately|alternately]] [[r/_raised|raised]] and [[d/_depressed|depressed]] for the [[p/_passage|passage]] of the [[s/_shuttle|shuttle]].**

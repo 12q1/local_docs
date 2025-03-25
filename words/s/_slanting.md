@@ -8,7 +8,7 @@
 - **To [[l/_lie|lie]] or [[e/_exaggerate|exaggerate]].**
 ---
 #noun
-- **The state or [[q/_quality|quality]] of [[b/_being|being]] [[s/_slanted|slanted]].**
+- **The [[s/_state|state]] or [[q/_quality|quality]] of [[b/_being|being]] [[s/_slanted|slanted]].**
 	- _Example: The slanting of the hill was too steep for safe skiing._
 ---
 #adjective

@@ -1,9 +1,9 @@
 # Hulk
 ---
 #noun
-- **A [[n/_non|non]]-[[f/_functional|functional]] but [[f/_floating|floating]] [[s/_ship|ship]], usually stripped of [[r/_rigging|rigging]] and [[e/_equipment|equipment]], and [[o/_often|often]] [[p/_put|put]] to [[o/_other|other]] uses such as storage or [[a/_accommodation|accommodation]].**
+- **A [[n/_non|non]]-[[f/_functional|functional]] but [[f/_floating|floating]] [[s/_ship|ship]], usually [[s/_stripped|stripped]] of [[r/_rigging|rigging]] and [[e/_equipment|equipment]], and [[o/_often|often]] [[p/_put|put]] to [[o/_other|other]] uses such as [[s/_storage|storage]] or [[a/_accommodation|accommodation]].**
 - **[[a/_any|Any]] [[l/_large|large]] [[s/_ship|ship]] that is [[d/_difficult|difficult]] to [[m/_maneuver|maneuver]].**
-- **A [[l/_large|large]] structure with a [[d/_dominating|dominating]] [[p/_presence|presence]].**
+- **A [[l/_large|large]] [[s/_structure|structure]] with a [[d/_dominating|dominating]] [[p/_presence|presence]].**
 - **A [[b/_big|big]] (and [[p/_possibly|possibly]] [[c/_clumsy|clumsy]]) [[p/_person|person]].**
 - **An [[e/_excessively|excessively]] [[m/_muscled|muscled]] [[p/_person|person]].**
 ---

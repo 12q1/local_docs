@@ -5,7 +5,7 @@
 	- _Example: My kids go to bed hungry every night because I haven't got any money._
 - **[[c/_causing|Causing]] [[h/_hunger|hunger]]**
 - **[[e/_eager|Eager]], [[h/_having|having]] an [[a/_avid|avid]] [[d/_desire|desire]] (‘[[a/_appetite|appetite]]’) for [[s/_something|something]].**
-- **Not [[r/_rich|rich]] or [[f/_fertile|fertile]]; [[p/_poor|poor]]; [[b/_barren|barren]]; starved.**
+- **Not [[r/_rich|rich]] or [[f/_fertile|fertile]]; [[p/_poor|poor]]; [[b/_barren|barren]]; [[s/_starved|starved]].**
 	- _Example: a hungry soil_
 ---
 ### Synonyms

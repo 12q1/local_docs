@@ -9,7 +9,7 @@
 - **[[a/_appearance|Appearance]]; a [[p/_perceptible|perceptible]] [[a/_aspect|aspect]] of [[s/_something|something]] that is [[m/_mutable|mutable]].**
 - **A [[f/_fact|fact]] or [[e/_event|event]] [[c/_considered|considered]] very unusual, [[c/_curious|curious]], or [[a/_astonishing|astonishing]] by those who witness it.**
 - **A wonderful or very [[r/_remarkable|remarkable]] [[p/_person|person]] or thing.**
-- **([[c/_chiefly|chiefly]] [[k/_kantian|Kantian]] [[i/_idealism|idealism]]) An [[e/_experienced|experienced]] [[o/_object|object]] whose [[c/_constitution|constitution]] [[r/_reflects|reflects]] the [[o/_order|order]] and [[c/_conceptual|conceptual]] structure [[i/_imposed|imposed]] upon it by the [[h/_human|human]] [[m/_mind|mind]] ([[e/_especially|especially]] by the [[p/_powers|powers]] of [[p/_perception|perception]] and understanding).**
+- **([[c/_chiefly|chiefly]] [[k/_kantian|Kantian]] [[i/_idealism|idealism]]) An [[e/_experienced|experienced]] [[o/_object|object]] whose [[c/_constitution|constitution]] [[r/_reflects|reflects]] the [[o/_order|order]] and [[c/_conceptual|conceptual]] [[s/_structure|structure]] [[i/_imposed|imposed]] upon it by the [[h/_human|human]] [[m/_mind|mind]] ([[e/_especially|especially]] by the [[p/_powers|powers]] of [[p/_perception|perception]] and understanding).**
 ---
 ### Synonyms
 - [[e/_event|event]], [[l/_legend|legend]], [[m/_marvel|marvel]], [[m/_miracle|miracle]], [[o/_oddity|oddity]], [[w/_wonder|wonder]], [[l/_legend|legend]], [[m/_marvel|marvel]], [[m/_miracle|miracle]], [[p/_phenom|phenom]], [[p/_prodigy|prodigy]], [[w/_wonder|wonder]]

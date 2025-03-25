@@ -1,7 +1,7 @@
 # Sectional
 ---
 #noun
-- **An [[i/_item|item]] of [[f/_furniture|furniture]] [[c/_composed|composed]] of [[m/_modular|modular]] [[s/_sections|sections]]; usually specifically a [[s/_sectional|sectional]] [[s/_sofa|sofa]]**
+- **An [[i/_item|item]] of [[f/_furniture|furniture]] [[c/_composed|composed]] of [[m/_modular|modular]] [[s/_sections|sections]]; usually [[s/_specifically|specifically]] a [[s/_sectional|sectional]] [[s/_sofa|sofa]]**
 - **A tournament or [[m/_match|match]] [[h/_held|held]] at the [[s/_section|section]] [[l/_level|level]], typically [[b/_between|between]] the [[r/_regionals|regionals]] and the [[c/_championships|championships]]**
 - **A [[b/_band|band]] [[s/_sectional|sectional]], in which [[o/_one|one]] [[s/_section|section]] of a [[b/_band|band]] or [[o/_orchestra|orchestra]] [[p/_practices|practices]] [[s/_separately|separately]]**
 ---

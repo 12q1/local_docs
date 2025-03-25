@@ -1,7 +1,7 @@
 # Condemn
 ---
 #verb
-- **To strongly [[c/_criticise|criticise]] or [[d/_denounce|denounce]]; to [[e/_excoriate|excoriate]] the [[p/_perpetrators|perpetrators]] of.**
+- **To [[s/_strongly|strongly]] [[c/_criticise|criticise]] or [[d/_denounce|denounce]]; to [[e/_excoriate|excoriate]] the [[p/_perpetrators|perpetrators]] of.**
 	- _Example: The president condemned the terrorists._
 - **To [[j/_judicially|judicially]] [[p/_pronounce|pronounce]] ([[s/_someone|someone]]) [[g/_guilty|guilty]].**
 - **To [[c/_confer|confer]] [[e/_eternal|eternal]] [[d/_divine|divine]] [[p/_punishment|punishment]] upon.**

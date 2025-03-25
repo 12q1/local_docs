@@ -7,7 +7,7 @@
 - **A [[f/_festive|festive]] [[e/_entertainment|entertainment]] of [[d/_dancing|dancing]] or [[o/_other|other]] [[d/_diversions|diversions]], where [[a/_all|all]] wear [[m/_masks|masks]]; a [[m/_masquerade|masquerade]]**
 - **A [[p/_person|person]] wearing a [[m/_mask|mask]].**
 - **A [[d/_dramatic|dramatic]] [[p/_performance|performance]], [[f/_formerly|formerly]] in vogue, in which the [[a/_actors|actors]] wore [[m/_masks|masks]] and [[r/_represented|represented]] [[m/_mythical|mythical]] or [[a/_allegorical|allegorical]] [[c/_characters|characters]].**
-- **A [[g/_grotesque|grotesque]] [[h/_head|head]] or [[f/_face|face]], used to [[a/_adorn|adorn]] [[k/_keystones|keystones]] and [[o/_other|other]] [[p/_prominent|prominent]] [[p/_parts|parts]], to spout water in [[f/_fountains|fountains]], and the [[l/_like|like]]**
+- **A [[g/_grotesque|grotesque]] [[h/_head|head]] or [[f/_face|face]], used to [[a/_adorn|adorn]] [[k/_keystones|keystones]] and [[o/_other|other]] [[p/_prominent|prominent]] [[p/_parts|parts]], to [[s/_spout|spout]] water in [[f/_fountains|fountains]], and the [[l/_like|like]]**
 - **([[f/_fortification|fortification]]) In a [[p/_permanent|permanent]] [[f/_fortification|fortification]], a [[r/_redoubt|redoubt]] which [[p/_protects|protects]] the [[c/_caponiere|caponiere]].**
 - **([[f/_fortification|fortification]]) A [[s/_screen|screen]] for a [[b/_battery|battery]]**
 - **The [[l/_lower|lower]] [[l/_lip|lip]] of the [[l/_larva|larva]] of a [[d/_dragonfly|dragonfly]], [[m/_modified|modified]] [[s/_so|so]] as to [[f/_form|form]] a [[p/_prehensile|prehensile]] [[o/_organ|organ]].**
@@ -40,7 +40,7 @@
 #verb
 - **To [[m/_mash|mash]].**
 - **To [[m/_mix|mix]] [[m/_malt|malt]] with [[h/_hot|hot]] water to [[y/_yield|yield]] wort.**
-- **To be [[i/_infused|infused]] or steeped.**
+- **To be [[i/_infused|infused]] or [[s/_steeped|steeped]].**
 - **To [[p/_prepare|prepare]] tea in a teapot; [[a/_alternative|alternative]] to [[b/_brew|brew]].**
 ---
 #verb

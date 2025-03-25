@@ -23,7 +23,7 @@
 - **A [[m/_method|method]] of [[s/_skating|skating]] with [[o/_one|one]] [[f/_foot|foot]] [[s/_significantly|significantly]] in [[f/_front|front]] of the [[o/_other|other]].**
 - **An [[e/_exercise|exercise]] in which the [[l/_legs|legs]] are switched [[b/_back|back]] and [[f/_forth|forth]], suggesting the [[m/_motion|motion]] of [[s/_scissors|scissors]].**
 - **A [[s/_scissors|scissors]] [[h/_hold|hold]].**
-- **([[r/_rock|rock]] [[p/_paper|paper]] [[s/_scissors|scissors]]) A [[h/_hand|hand]] with the [[i/_index|index]] and [[m/_middle|middle]] [[f/_fingers|fingers]] [[o/_open|open]] (a handshape [[r/_resembling|resembling]] [[s/_scissors|scissors]]), that [[b/_beats|beats]] [[p/_paper|paper]] and is [[l/_loses|loses]] to [[r/_rock|rock]]. It [[b/_beats|beats]] [[l/_lizard|lizard]] and [[l/_loses|loses]] to Spock in [[r/_rock|rock]]-[[p/_paper|paper]]-[[s/_scissors|scissors]]-[[l/_lizard|lizard]]-Spock.**
+- **([[r/_rock|rock]] [[p/_paper|paper]] [[s/_scissors|scissors]]) A [[h/_hand|hand]] with the [[i/_index|index]] and [[m/_middle|middle]] [[f/_fingers|fingers]] [[o/_open|open]] (a handshape [[r/_resembling|resembling]] [[s/_scissors|scissors]]), that [[b/_beats|beats]] [[p/_paper|paper]] and is [[l/_loses|loses]] to [[r/_rock|rock]]. It [[b/_beats|beats]] [[l/_lizard|lizard]] and [[l/_loses|loses]] to [[s/_spock|Spock]] in [[r/_rock|rock]]-[[p/_paper|paper]]-[[s/_scissors|scissors]]-[[l/_lizard|lizard]]-[[s/_spock|Spock]].**
 ---
 ### Synonyms
 - [[s/_switch|switch]], [[s/_shears|shears]]

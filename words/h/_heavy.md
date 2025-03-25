@@ -28,7 +28,7 @@
 - **[[l/_louder|Louder]], [[m/_more|more]] [[d/_distorted|distorted]].**
 	- _Example: Metal is heavier than swing._
 - **(of weather) [[h/_hot|Hot]] and [[h/_humid|humid]].**
-- **(of a [[p/_person|person]]) [[d/_doing|Doing]] the specified [[a/_activity|activity]] [[m/_more|more]] [[i/_intensely|intensely]] than [[m/_most|most]] [[o/_other|other]] [[p/_people|people]].**
+- **(of a [[p/_person|person]]) [[d/_doing|Doing]] the [[s/_specified|specified]] [[a/_activity|activity]] [[m/_more|more]] [[i/_intensely|intensely]] than [[m/_most|most]] [[o/_other|other]] [[p/_people|people]].**
 	- _Example: He was a heavy sleeper, a heavy eater and a heavy smoker – certainly not an ideal husband._
 - **(of [[f/_food|food]]) [[h/_high|High]] in [[f/_fat|fat]] or [[p/_protein|protein]]; [[d/_difficult|difficult]] to [[d/_digest|digest]].**
 	- _Example: Cheese-stuffed sausage is too heavy to eat before exercising._
@@ -37,13 +37,13 @@
 - **[[l/_laden|Laden]] to a [[g/_great|great]] [[e/_extent|extent]].**
 	- _Example: his eyes were heavy with sleep;  she was heavy with child_
 - **[[l/_laden|Laden]] with that which is weighty; [[e/_encumbered|encumbered]]; [[b/_burdened|burdened]]; [[b/_bowed|bowed]] [[d/_down|down]], [[e/_either|either]] with an [[a/_actual|actual]] [[b/_burden|burden]], or with [[g/_grief|grief]], [[p/_pain|pain]], [[d/_disappointment|disappointment]], [[e/_etc|etc]].**
-- **[[s/_slow|Slow]]; [[s/_sluggish|sluggish]]; [[i/_inactive|inactive]]; or [[l/_lifeless|lifeless]], [[d/_dull|dull]], [[i/_inanimate|inanimate]], stupid.**
+- **[[s/_slow|Slow]]; [[s/_sluggish|sluggish]]; [[i/_inactive|inactive]]; or [[l/_lifeless|lifeless]], [[d/_dull|dull]], [[i/_inanimate|inanimate]], [[s/_stupid|stupid]].**
 	- _Example: a heavy gait, looks, manners, style, etc._
 - **[[i/_impeding|Impeding]] [[m/_motion|motion]]; [[c/_cloggy|cloggy]]; [[c/_clayey|clayey]].**
 	- _Example: a heavy road; a heavy soil_
 - **Not [[r/_raised|raised]] or [[l/_leavened|leavened]].**
 	- _Example: heavy bread_
-- **(of wines or spirits) [[h/_having|Having]] [[m/_much|much]] [[b/_body|body]] or strength.**
+- **(of wines or [[s/_spirits|spirits]]) [[h/_having|Having]] [[m/_much|much]] [[b/_body|body]] or [[s/_strength|strength]].**
 - **With [[c/_child|child]]; [[p/_pregnant|pregnant]].**
 - **[[c/_containing|Containing]] [[o/_one|one]] or [[m/_more|more]] [[i/_isotopes|isotopes]] that are [[h/_heavier|heavier]] than the [[n/_normal|normal]] [[o/_one|one]]**
 - **([[p/_petroleum|petroleum]]) with [[h/_high|high]] viscosity**

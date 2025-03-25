@@ -5,6 +5,6 @@
 - **A [[m/_moro|Moro]] sword with an [[a/_asymmetrical|asymmetrical]] [[b/_blade|blade]].**
 ---
 #verb
-- **To stab with a [[k/_kris|kris]].**
+- **To [[s/_stab|stab]] with a [[k/_kris|kris]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Hallmarked
 ---
 #verb
-- **To [[p/_provide|provide]] or stamp with a [[h/_hallmark|hallmark]].**
+- **To [[p/_provide|provide]] or [[s/_stamp|stamp]] with a [[h/_hallmark|hallmark]].**
 ---
 #adjective
-- **Stamped with a [[h/_hallmark|hallmark]]**
+- **[[s/_stamped|Stamped]] with a [[h/_hallmark|hallmark]]**
 ---
 ---

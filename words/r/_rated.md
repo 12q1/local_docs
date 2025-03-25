@@ -16,7 +16,7 @@
 	- _Example: The customers don't rate the new burgers._
 - **To [[h/_have|have]] [[p/_position|position]] (in a [[c/_certain|certain]] [[c/_class|class]]).**
 	- _Example: He rates as the best cyclist in the country._
-- **To [[h/_have|have]] value or standing.**
+- **To [[h/_have|have]] value or [[s/_standing|standing]].**
 	- _Example: This last performance of hers didn't rate very high with the judges._
 - **To [[r/_ratify|ratify]].**
 - **To [[a/_ascertain|ascertain]] the [[e/_exact|exact]] [[r/_rate|rate]] of the [[g/_gain|gain]] or [[l/_loss|loss]] of (a [[c/_chronometer|chronometer]]) as [[c/_compared|compared]] with true time.**

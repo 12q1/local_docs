@@ -1,7 +1,7 @@
 # Dorsal
 ---
 #noun
-- **A [[h/_hanging|hanging]], usually of [[r/_rich|rich]] stuff, at the [[b/_back|back]] of a throne, [[a/_altar|altar]], [[e/_etc|etc]].**
+- **A [[h/_hanging|hanging]], usually of [[r/_rich|rich]] [[s/_stuff|stuff]], at the [[b/_back|back]] of a throne, [[a/_altar|altar]], [[e/_etc|etc]].**
 ---
 #adjective
 - **With [[r/_respect|respect]] to, or [[c/_concerning|concerning]] the [[s/_side|side]] in which the [[b/_backbone|backbone]] is [[l/_located|located]], or the [[a/_analogous|analogous]] [[s/_side|side]] of an [[i/_invertebrate|invertebrate]].**

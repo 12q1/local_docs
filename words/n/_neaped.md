@@ -5,7 +5,7 @@
 - **To [[o/_ooze|ooze]], to [[s/_sink|sink]], to subside, to tail**
 ---
 #adjective
-- **[[l/_left|Left]] [[a/_aground|aground]] on the [[h/_height|height]] of a spring tide, [[p/_preventing|preventing]] [[f/_floating|floating]] till the [[n/_next|next]] spring tide.**
+- **[[l/_left|Left]] [[a/_aground|aground]] on the [[h/_height|height]] of a [[s/_spring|spring]] tide, [[p/_preventing|preventing]] [[f/_floating|floating]] till the [[n/_next|next]] [[s/_spring|spring]] tide.**
 ---
 ### Synonyms
 - [[b/_beneaped|beneaped]]

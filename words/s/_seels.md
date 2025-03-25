@@ -5,6 +5,6 @@
 - **(by [[e/_extension|extension]]) To [[b/_blind|blind]].**
 ---
 #verb
-- **(of a [[s/_ship|ship]]) To [[r/_roll|roll]] on the waves in a storm.**
+- **(of a [[s/_ship|ship]]) To [[r/_roll|roll]] on the waves in a [[s/_storm|storm]].**
 ---
 ---

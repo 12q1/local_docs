@@ -1,6 +1,6 @@
 # Demographers
 ---
 #noun
-- **A [[p/_person|person]] who studies [[d/_demography|demography]]**
+- **A [[p/_person|person]] who [[s/_studies|studies]] [[d/_demography|demography]]**
 ---
 ---

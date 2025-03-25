@@ -10,7 +10,7 @@
 ### Antonyms
 - [[d/_destroyer|destroyer]], [[w/_wrecker|wrecker]]
 #noun
-- **[[b/_black|Black]] tea, [[b/_brewed|brewed]] strong and [[s/_served|served]] in a [[l/_large|large]] [[m/_mug|mug]] with [[m/_milk|milk]] and sugar.**
+- **[[b/_black|Black]] tea, [[b/_brewed|brewed]] [[s/_strong|strong]] and [[s/_served|served]] in a [[l/_large|large]] [[m/_mug|mug]] with [[m/_milk|milk]] and sugar.**
 ---
 ### Synonyms
 - [[b/_builder's|builder's]], [[b/_builders'|builders']]

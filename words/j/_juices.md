@@ -13,7 +13,7 @@
 - **[[p/_petrol|Petrol]]; [[g/_gasoline|gasoline]].**
 - **Vitality.**
 - **The [[a/_amount|amount]] [[c/_charged|charged]] by a [[b/_bookmaker|bookmaker]] for [[b/_betting|betting]] [[s/_services|services]].**
-- **Steroids.**
+- **[[s/_steroids|Steroids]].**
 - **[[s/_semen|Semen]].**
 - **The vaginal [[l/_lubrication|lubrication]] that a woman [[n/_naturally|naturally]] [[p/_produces|produces]] when [[s/_sexually|sexually]] [[a/_aroused|aroused]].**
 - **[[m/_musical|Musical]] [[a/_agreement|agreement]] [[b/_between|between]] [[i/_instrumentalists|instrumentalists]].**
@@ -22,6 +22,6 @@
 - [[c/_cut|cut]], [[t/_take|take]], [[v/_vig|vig]], [[v/_vigorish|vigorish]]
 #verb
 - **To [[e/_extract|extract]] the [[j/_juice|juice]] from [[s/_something|something]].**
-- **To [[e/_energize|energize]] or stimulate [[s/_something|something]].**
+- **To [[e/_energize|energize]] or [[s/_stimulate|stimulate]] [[s/_something|something]].**
 ---
 ---

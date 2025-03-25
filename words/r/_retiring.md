@@ -1,18 +1,18 @@
 # Retiring
 ---
 #verb
-- **To stop working on a [[p/_permanent|permanent]] [[b/_basis|basis]], usually [[b/_because|because]] of [[o/_old|old]] [[a/_age|age]] or [[i/_illness|illness]].**
+- **To [[s/_stop|stop]] working on a [[p/_permanent|permanent]] [[b/_basis|basis]], usually [[b/_because|because]] of [[o/_old|old]] [[a/_age|age]] or [[i/_illness|illness]].**
 	- _Example: Having made a large fortune, he retired._
 - **([[s/_sometimes|sometimes]] [[r/_reflexive|reflexive]]) To withdraw; to take [[a/_away|away]].**
 - **To [[c/_cease|cease]] use or [[p/_production|production]] of [[s/_something|something]].**
 	- _Example: The steamship made thousands of trips over several decades before it was retired by the shipping company._
 - **To withdraw from [[c/_circulation|circulation]], or from the [[m/_market|market]]; to take up and [[p/_pay|pay]].**
 	- _Example: The central bank retired those notes five years ago._
-- **To [[c/_cause|cause]] to [[r/_retire|retire]]; specifically, to [[d/_designate|designate]] as [[n/_no|no]] [[l/_longer|longer]] [[q/_qualified|qualified]] for [[a/_active|active]] [[s/_service|service]]; to [[p/_place|place]] on the [[r/_retired|retired]] [[l/_list|list]].**
+- **To [[c/_cause|cause]] to [[r/_retire|retire]]; [[s/_specifically|specifically]], to [[d/_designate|designate]] as [[n/_no|no]] [[l/_longer|longer]] [[q/_qualified|qualified]] for [[a/_active|active]] [[s/_service|service]]; to [[p/_place|place]] on the [[r/_retired|retired]] [[l/_list|list]].**
 	- _Example: The board retired the old major._
-- **(of a [[b/_batsman|batsman]]) To voluntarily stop [[b/_batting|batting]] [[b/_before|before]] [[b/_being|being]] [[d/_dismissed|dismissed]] [[s/_so|so]] that the [[n/_next|next]] [[b/_batsman|batsman]] [[c/_can|can]] [[b/_bat|bat]].**
+- **(of a [[b/_batsman|batsman]]) To voluntarily [[s/_stop|stop]] [[b/_batting|batting]] [[b/_before|before]] [[b/_being|being]] [[d/_dismissed|dismissed]] [[s/_so|so]] that the [[n/_next|next]] [[b/_batsman|batsman]] [[c/_can|can]] [[b/_bat|bat]].**
 	- _Example: Jones retired in favour of Smith._
-- **(of a [[f/_fielder|fielder]]) To [[m/_make|make]] a [[p/_play|play]] which [[r/_results|results]] in a [[r/_runner|runner]] or the [[b/_batter|batter]] [[b/_being|being]] [[o/_out|out]], [[e/_either|either]] by [[m/_means|means]] of a [[p/_put|put]] [[o/_out|out]], [[f/_fly|fly]] [[o/_out|out]] or strikeout.**
+- **(of a [[f/_fielder|fielder]]) To [[m/_make|make]] a [[p/_play|play]] which [[r/_results|results]] in a [[r/_runner|runner]] or the [[b/_batter|batter]] [[b/_being|being]] [[o/_out|out]], [[e/_either|either]] by [[m/_means|means]] of a [[p/_put|put]] [[o/_out|out]], [[f/_fly|fly]] [[o/_out|out]] or [[s/_strikeout|strikeout]].**
 	- _Example: Jones retired Smith 6-3._
 - **To [[g/_go|go]] [[b/_back|back]] or [[r/_return|return]]; to withdraw or [[r/_retreat|retreat]], [[e/_especially|especially]] from [[p/_public|public]] view; to [[g/_go|go]] [[i/_into|into]] [[p/_privacy|privacy]].**
 	- _Example: I will retire to the study._

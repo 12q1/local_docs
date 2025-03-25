@@ -7,7 +7,7 @@
 	- _Example: The writer quoted the president's speech._
 - **To [[p/_prepare|prepare]] a summary of work to be [[d/_done|done]] and [[s/_set|set]] a [[p/_price|price]].**
 - **([[c/_commerce|Commerce]]) To [[n/_name|name]] the [[c/_current|current]] [[p/_price|price]], [[n/_notably|notably]] of a [[f/_financial|financial]] [[s/_security|security]].**
-- **To [[i/_indicate|indicate]] verbally or by [[e/_equivalent|equivalent]] [[m/_means|means]] the start of a [[q/_quotation|quotation]].**
+- **To [[i/_indicate|indicate]] verbally or by [[e/_equivalent|equivalent]] [[m/_means|means]] the [[s/_start|start]] of a [[q/_quotation|quotation]].**
 - **To [[o/_observe|observe]], to take [[a/_account|account]] of.**
 ---
 ### Synonyms
@@ -15,6 +15,6 @@
 ### Antonyms
 - [[u/_unquote|unquote]]
 #noun
-- **A [[q/_quoted|quoted]] statement; a [[q/_quote|quote]].**
+- **A [[q/_quoted|quoted]] [[s/_statement|statement]]; a [[q/_quote|quote]].**
 ---
 ---

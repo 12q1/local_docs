@@ -7,11 +7,11 @@
 - **[[o/_one|One]]'[[s/_s|s]] [[c/_customary|customary]] [[m/_method|method]] of [[a/_acting|acting]]; [[h/_habit|habit]].**
 	- _Example: These people have strange manners._
 - **[[g/_good|Good]], [[p/_polite|polite]] [[b/_behaviour|behaviour]]**
-- **The style of writing or thought of an [[a/_author|author]]; the [[c/_characteristic|characteristic]] [[p/_peculiarity|peculiarity]] of an [[a/_artist|artist]].**
+- **The [[s/_style|style]] of writing or thought of an [[a/_author|author]]; the [[c/_characteristic|characteristic]] [[p/_peculiarity|peculiarity]] of an [[a/_artist|artist]].**
 - **A [[c/_certain|certain]] [[d/_degree|degree]] or [[m/_measure|measure]].**
 	- _Example: It is in a manner done already._
-- **[[s/_sort|Sort]]; [[k/_kind|kind]]; style.**
+- **[[s/_sort|Sort]]; [[k/_kind|kind]]; [[s/_style|style]].**
 	- _Example: All manner of persons participate._
-- **Standards of [[c/_conduct|conduct]] [[c/_cultured|cultured]] and [[p/_product|product]] of [[m/_mind|mind]].**
+- **[[s/_standards|Standards]] of [[c/_conduct|conduct]] [[c/_cultured|cultured]] and [[p/_product|product]] of [[m/_mind|mind]].**
 ---
 ---

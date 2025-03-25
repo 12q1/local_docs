@@ -9,7 +9,7 @@
 	- _Example: Please use polyester fiber for this shirt._
 - **[[d/_dietary|Dietary]] [[f/_fiber|fiber]].**
 	- _Example: Fresh vegetables are a good source of fiber_
-- **[[m/_moral|Moral]] strength and [[r/_resolve|resolve]].**
+- **[[m/_moral|Moral]] [[s/_strength|strength]] and [[r/_resolve|resolve]].**
 	- _Example: The ordeal was a test of everyone's fiber._
 - **The [[p/_preimage|preimage]] of a [[g/_given|given]] [[p/_point|point]] in the [[r/_range|range]] of a [[m/_map|map]].**
 	- _Example: Under this map, any two values in the fiber of a given point on the circle differ by 2π_

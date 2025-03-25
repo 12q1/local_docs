@@ -11,6 +11,6 @@
 - **A [[l/_layer|layer]] of tiles [[f/_forming|forming]] a [[c/_corona|corona]] for a wall.**
 ---
 #verb
-- **To stab with a [[k/_kris|kris]].**
+- **To [[s/_stab|stab]] with a [[k/_kris|kris]].**
 ---
 ---

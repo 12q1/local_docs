@@ -6,7 +6,7 @@
 ### Synonyms
 - [[r/_rent|rent]], [[r/_rift|rift]]
 #verb
-- **To tear [[a/_apart|apart]] by [[f/_force|force]]; to [[r/_rend|rend]]; to split; to [[c/_cleave|cleave]].**
+- **To tear [[a/_apart|apart]] by [[f/_force|force]]; to [[r/_rend|rend]]; to [[s/_split|split]]; to [[c/_cleave|cleave]].**
 - **To [[p/_pierce|pierce]] or [[c/_cleave|cleave]] with a weapon.**
 ---
 ### Synonyms

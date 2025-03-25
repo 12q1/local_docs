@@ -16,7 +16,7 @@
 - **(of [[s/_search|search]] [[r/_results|results]]) [[g/_generated|Generated]] [[a/_according|according]] to the [[r/_ranking|ranking]] [[a/_algorithms|algorithms]] of a [[s/_search|search]] [[e/_engine|engine]], as [[o/_opposed|opposed]] to [[p/_paid|paid]] [[p/_placement|placement]] by [[a/_advertisers|advertisers]].**
 - **[[d/_developing|Developing]] in a [[g/_gradual|gradual]] or [[n/_natural|natural]] [[f/_fashion|fashion]].**
 	- _Example: The writing of the script was an organic process._
-- **[[h/_harmonious|Harmonious]]; [[c/_coherent|coherent]]; structured.**
+- **[[h/_harmonious|Harmonious]]; [[c/_coherent|coherent]]; [[s/_structured|structured]].**
 	- _Example: The production came together in an organic whole._
 ---
 ---

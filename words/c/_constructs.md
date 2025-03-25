@@ -14,7 +14,7 @@
 	- _Example: We constructed the radio from spares._
 - **To [[b/_build|build]] (a [[s/_sentence|sentence]], an [[a/_argument|argument]], [[e/_etc|etc]].) by [[a/_arranging|arranging]] words or [[i/_ideas|ideas]].**
 	- _Example: A sentence may be constructed with a subject, verb and object._
-- **To [[d/_draw|draw]] (a [[g/_geometric|geometric]] [[f/_figure|figure]]) by [[f/_following|following]] [[p/_precise|precise]] specifications and using [[g/_geometric|geometric]] tools and techniques.**
+- **To [[d/_draw|draw]] (a [[g/_geometric|geometric]] [[f/_figure|figure]]) by [[f/_following|following]] [[p/_precise|precise]] [[s/_specifications|specifications]] and using [[g/_geometric|geometric]] tools and techniques.**
 	- _Example: Construct a circle that touches each vertex of the given triangle._
 ---
 ### Synonyms

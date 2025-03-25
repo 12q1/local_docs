@@ -9,7 +9,7 @@
 	- _Example: I wasn't careful, and walked into a wall_
 - **[[i/_indicates|Indicates]] transition [[i/_into|into]] [[a/_another|another]] [[f/_form|form]] or substance.**
 	- _Example: I carved the piece of driftwood into a sculpture of a whale._
-- **[[a/_after|After]] the start of.**
+- **[[a/_after|After]] the [[s/_start|start]] of.**
 	- _Example: About 20 minutes into the flight, the pilot reported a fire on board._
 - **[[i/_interested|Interested]] in or [[a/_attracted|attracted]] to.**
 	- _Example: My date for tonight has black hair, and I'm into that._

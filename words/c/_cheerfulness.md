@@ -1,6 +1,6 @@
 # Cheerfulness
 ---
 #noun
-- **The state of [[b/_being|being]] [[c/_cheerful|cheerful]]; [[j/_joy|joy]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[c/_cheerful|cheerful]]; [[j/_joy|joy]].**
 ---
 ---

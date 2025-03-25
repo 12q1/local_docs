@@ -12,9 +12,9 @@
 - **Without [[n/_notice|notice]] to [[p/_prepare|prepare]] the [[m/_mind|mind]] for the [[e/_event|event]]; sudden; [[h/_hasty|hasty]]; unceremonious.**
 	- _Example: The party came to an abrupt end when the parents of our host arrived._
 - **[[c/_curt|Curt]] in [[m/_manner|manner]].**
-- **[[h/_having|Having]] sudden transitions from [[o/_one|one]] subject or state to [[a/_another|another]]; unconnected; [[d/_disjointed|disjointed]].**
+- **[[h/_having|Having]] sudden transitions from [[o/_one|one]] subject or [[s/_state|state]] to [[a/_another|another]]; unconnected; [[d/_disjointed|disjointed]].**
 - **[[b/_broken|Broken]] [[o/_off|off]].**
-- **[[e/_extremely|Extremely]] steep or [[c/_craggy|craggy]] as [[i/_if|if]] [[b/_broken|broken]] up; [[p/_precipitous|precipitous]].**
+- **[[e/_extremely|Extremely]] [[s/_steep|steep]] or [[c/_craggy|craggy]] as [[i/_if|if]] [[b/_broken|broken]] up; [[p/_precipitous|precipitous]].**
 - **Suddenly terminating, as [[i/_if|if]] [[c/_cut|cut]] [[o/_off|off]]; truncate.**
 ---
 ### Synonyms

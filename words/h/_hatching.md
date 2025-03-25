@@ -11,7 +11,7 @@
 ---
 #verb
 - **To [[s/_shade|shade]] an [[a/_area|area]] of (a [[d/_drawing|drawing]], [[d/_diagram|diagram]], [[e/_etc|etc]].) with [[f/_fine|fine]] [[p/_parallel|parallel]] [[l/_lines|lines]], or with [[l/_lines|lines]] which [[c/_cross|cross]] [[e/_each|each]] [[o/_other|other]] ([[c/_cross|cross]]-[[h/_hatch|hatch]]).**
-- **To [[c/_cross|cross]]; to spot; to stain; to steep.**
+- **To [[c/_cross|cross]]; to [[s/_spot|spot]]; to [[s/_stain|stain]]; to [[s/_steep|steep]].**
 ---
 #noun
 - **A [[m/_method|method]] of [[s/_shading|shading]] [[a/_areas|areas]] of a [[d/_drawing|drawing]] or [[d/_diagram|diagram]] with [[f/_fine|fine]] [[p/_parallel|parallel]] [[l/_lines|lines]].**

@@ -1,7 +1,7 @@
 # Harp
 ---
 #noun
-- **A [[m/_musical|musical]] [[i/_instrument|instrument]] [[c/_consisting|consisting]] of a [[b/_body|body]] and a [[c/_curved|curved]] [[n/_neck|neck]], strung with strings of varying [[l/_length|length]] that are stroked or [[p/_plucked|plucked]] with the [[f/_fingers|fingers]] and are vertical to the [[s/_soundboard|soundboard]] when viewed from the [[e/_end|end]] of the [[b/_body|body]]**
+- **A [[m/_musical|musical]] [[i/_instrument|instrument]] [[c/_consisting|consisting]] of a [[b/_body|body]] and a [[c/_curved|curved]] [[n/_neck|neck]], [[s/_strung|strung]] with [[s/_strings|strings]] of varying [[l/_length|length]] that are [[s/_stroked|stroked]] or [[p/_plucked|plucked]] with the [[f/_fingers|fingers]] and are vertical to the [[s/_soundboard|soundboard]] when viewed from the [[e/_end|end]] of the [[b/_body|body]]**
 - **A [[h/_harmonica|harmonica]].**
 - **A [[g/_grain|grain]] [[s/_sieve|sieve]].**
 ---

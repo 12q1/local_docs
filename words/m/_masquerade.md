@@ -8,7 +8,7 @@
 - **An [[a/_assembly|assembly]] of varied, [[o/_often|often]] [[f/_fanciful|fanciful]], things.**
 - **A cosplay [[e/_event|event]] at which [[c/_costumed|costumed]] [[a/_attendees|attendees]] [[p/_perform|perform]] [[s/_skits|skits]].**
 - **A [[d/_dramatic|dramatic]] [[p/_performance|performance]] by [[a/_actors|actors]] in [[m/_masks|masks]]; a [[m/_mask|mask]] or [[m/_masque|masque]].**
-- **A [[s/_spanish|Spanish]] [[e/_entertainment|entertainment]] or [[m/_military|military]] [[e/_exercise|exercise]] in which squadrons of [[h/_horses|horses]] [[c/_charge|charge]] at [[e/_each|each]] [[o/_other|other]], the [[r/_riders|riders]] [[f/_fighting|fighting]] with [[b/_bucklers|bucklers]] and [[c/_canes|canes]].**
+- **A [[s/_spanish|Spanish]] [[e/_entertainment|entertainment]] or [[m/_military|military]] [[e/_exercise|exercise]] in which [[s/_squadrons|squadrons]] of [[h/_horses|horses]] [[c/_charge|charge]] at [[e/_each|each]] [[o/_other|other]], the [[r/_riders|riders]] [[f/_fighting|fighting]] with [[b/_bucklers|bucklers]] and [[c/_canes|canes]].**
 ---
 ### Synonyms
 - [[m/_masque|masque]]

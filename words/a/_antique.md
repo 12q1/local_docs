@@ -12,11 +12,11 @@
 - **[[g/_grotesque|Grotesque]], [[b/_bizarre|bizarre]]**
 ---
 #noun
-- **A [[p/_pose|pose]], [[o/_often|often]] [[e/_exaggerated|exaggerated]], in [[a/_anticipation|anticipation]] of an [[a/_action|action]]; for [[e/_example|example]], a [[b/_brief|brief]] squat [[b/_before|before]] [[j/_jumping|jumping]]**
+- **A [[p/_pose|pose]], [[o/_often|often]] [[e/_exaggerated|exaggerated]], in [[a/_anticipation|anticipation]] of an [[a/_action|action]]; for [[e/_example|example]], a [[b/_brief|brief]] [[s/_squat|squat]] [[b/_before|before]] [[j/_jumping|jumping]]**
 ---
 #noun
-- **In [[g/_general|general]], [[a/_anything|anything]] very [[o/_old|old]]; specifically:**
-- **A style of type of thick and [[b/_bold|bold]] [[f/_face|face]] in which [[a/_all|all]] [[l/_lines|lines]] are of [[e/_equal|equal]] or [[n/_nearly|nearly]] [[e/_equal|equal]] thickness.**
+- **In [[g/_general|general]], [[a/_anything|anything]] very [[o/_old|old]]; [[s/_specifically|specifically]]:**
+- **A [[s/_style|style]] of type of thick and [[b/_bold|bold]] [[f/_face|face]] in which [[a/_all|all]] [[l/_lines|lines]] are of [[e/_equal|equal]] or [[n/_nearly|nearly]] [[e/_equal|equal]] thickness.**
 ---
 ### Synonyms
 - [[a/_ancient|ancient]], [[g/_geriatric|geriatric]], [[o/_oldster|oldster]]
@@ -28,7 +28,7 @@
 #adjective
 - **[[h/_having|Having]] [[e/_existed|existed]] in [[a/_ancient|ancient]] times, [[d/_descended|descended]] from [[a/_antiquity|antiquity]]; used [[e/_especially|especially]] in [[r/_reference|reference]] to [[g/_greece|Greece]] and [[r/_rome|Rome]].**
 - **[[b/_belonging|Belonging]] to [[f/_former|former]] times, not [[m/_modern|modern]], [[o/_out|out]] of [[d/_date|date]], [[o/_old|old]]-[[f/_fashioned|fashioned]].**
-- **[[d/_designating|Designating]] a style of type.**
+- **[[d/_designating|Designating]] a [[s/_style|style]] of type.**
 - **[[e/_embossed|Embossed]] without [[g/_gilt|gilt]].**
 ---
 ### Synonyms

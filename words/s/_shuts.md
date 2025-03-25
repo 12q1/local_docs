@@ -7,9 +7,9 @@
 - **The [[l/_line|line]] or [[p/_place|place]] where two [[p/_pieces|pieces]] of [[m/_metal|metal]] are welded together.**
 ---
 #verb
-- **To [[c/_close|close]], to stop from [[b/_being|being]] [[o/_open|open]].**
+- **To [[c/_close|close]], to [[s/_stop|stop]] from [[b/_being|being]] [[o/_open|open]].**
 	- _Example: Please shut the door._
-- **To [[c/_close|close]], to stop [[b/_being|being]] [[o/_open|open]].**
+- **To [[c/_close|close]], to [[s/_stop|stop]] [[b/_being|being]] [[o/_open|open]].**
 	- _Example: If you wait too long, the automatic door will shut._
 - **To [[c/_close|close]] a [[b/_business|business]] temporarily, or (of a [[b/_business|business]]) to be [[c/_closed|closed]].**
 	- _Example: The pharmacy is shut on Sunday._
@@ -20,6 +20,6 @@
 - **To [[p/_preclude|preclude]]; to [[e/_exclude|exclude]]; to [[b/_bar|bar]] [[o/_out|out]].**
 ---
 #noun
-- **A [[n/_narrow|narrow]] [[a/_alley|alley]] or [[p/_passage|passage]] [[a/_acting|acting]] as a [[s/_short|short]] [[c/_cut|cut]] through the [[b/_buildings|buildings]] [[b/_between|between]] two streets.**
+- **A [[n/_narrow|narrow]] [[a/_alley|alley]] or [[p/_passage|passage]] [[a/_acting|acting]] as a [[s/_short|short]] [[c/_cut|cut]] through the [[b/_buildings|buildings]] [[b/_between|between]] two [[s/_streets|streets]].**
 ---
 ---

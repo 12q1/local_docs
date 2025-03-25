@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[s/_smarmy|Smarmy]] [[l/_language|language]] or [[b/_behavior|behavior]].**
-- **A style of [[f/_fan|fan]] [[f/_fiction|fiction]] in which [[c/_characters|characters]] are warm and [[c/_caring|caring]] toward [[e/_each|each]] [[o/_other|other]] but without [[s/_sexual|sexual]] [[o/_overtones|overtones]].**
+- **A [[s/_style|style]] of [[f/_fan|fan]] [[f/_fiction|fiction]] in which [[c/_characters|characters]] are warm and [[c/_caring|caring]] toward [[e/_each|each]] [[o/_other|other]] but without [[s/_sexual|sexual]] [[o/_overtones|overtones]].**
 ---
 #verb
 - **To [[f/_fawn|fawn]], to be unctuous.**

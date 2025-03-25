@@ -7,11 +7,11 @@
 - **A [[g/_grotesque|grotesque]] [[p/_performer|performer]] or [[c/_clown|clown]], [[b/_buffoon|buffoon]].**
 ---
 #noun
-- **A [[p/_pose|pose]], [[o/_often|often]] [[e/_exaggerated|exaggerated]], in [[a/_anticipation|anticipation]] of an [[a/_action|action]]; for [[e/_example|example]], a [[b/_brief|brief]] squat [[b/_before|before]] [[j/_jumping|jumping]]**
+- **A [[p/_pose|pose]], [[o/_often|often]] [[e/_exaggerated|exaggerated]], in [[a/_anticipation|anticipation]] of an [[a/_action|action]]; for [[e/_example|example]], a [[b/_brief|brief]] [[s/_squat|squat]] [[b/_before|before]] [[j/_jumping|jumping]]**
 ---
 #noun
-- **In [[g/_general|general]], [[a/_anything|anything]] very [[o/_old|old]]; specifically:**
-- **A style of type of thick and [[b/_bold|bold]] [[f/_face|face]] in which [[a/_all|all]] [[l/_lines|lines]] are of [[e/_equal|equal]] or [[n/_nearly|nearly]] [[e/_equal|equal]] thickness.**
+- **In [[g/_general|general]], [[a/_anything|anything]] very [[o/_old|old]]; [[s/_specifically|specifically]]:**
+- **A [[s/_style|style]] of type of thick and [[b/_bold|bold]] [[f/_face|face]] in which [[a/_all|all]] [[l/_lines|lines]] are of [[e/_equal|equal]] or [[n/_nearly|nearly]] [[e/_equal|equal]] thickness.**
 ---
 ### Synonyms
 - [[a/_ancient|ancient]], [[g/_geriatric|geriatric]], [[o/_oldster|oldster]]

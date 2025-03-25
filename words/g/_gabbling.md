@@ -8,7 +8,7 @@
 ### Synonyms
 - [[b/_babble|babble]]
 #noun
-- **[[r/_rapid|Rapid]], [[c/_confused|confused]] speech.**
+- **[[r/_rapid|Rapid]], [[c/_confused|confused]] [[s/_speech|speech]].**
 	- _Example: the gabblings of a madman_
 ---
 ---

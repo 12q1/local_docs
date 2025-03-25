@@ -1,7 +1,7 @@
 # Salute
 ---
 #noun
-- **An utterance or [[g/_gesture|gesture]] [[e/_expressing|expressing]] [[g/_greeting|greeting]] or [[h/_honor|honor]] towards [[s/_someone|someone]], [[n/_now|now]] [[e/_especially|especially]] a [[f/_formal|formal]], [[n/_non|non]]-verbal [[g/_gesture|gesture]] [[m/_made|made]] with the [[a/_arms|arms]] or [[h/_hands|hands]] in [[a/_any|any]] of various specific [[p/_positions|positions]].**
+- **An utterance or [[g/_gesture|gesture]] [[e/_expressing|expressing]] [[g/_greeting|greeting]] or [[h/_honor|honor]] towards [[s/_someone|someone]], [[n/_now|now]] [[e/_especially|especially]] a [[f/_formal|formal]], [[n/_non|non]]-verbal [[g/_gesture|gesture]] [[m/_made|made]] with the [[a/_arms|arms]] or [[h/_hands|hands]] in [[a/_any|any]] of various [[s/_specific|specific]] [[p/_positions|positions]].**
 	- _Example: The soldiers greeted the dignitaries with a crisp salute._
 - **A [[k/_kiss|kiss]], [[o/_offered|offered]] in [[s/_salutation|salutation]].**
 - **A [[d/_discharge|discharge]] of [[c/_cannon|cannon]] or [[s/_similar|similar]] [[a/_arms|arms]], as a [[m/_mark|mark]] of [[h/_honour|honour]] or [[r/_respect|respect]].**

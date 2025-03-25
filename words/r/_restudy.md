@@ -1,6 +1,6 @@
 # Restudy
 ---
 #verb
-- **To study [[a/_again|again]].**
+- **To [[s/_study|study]] [[a/_again|again]].**
 ---
 ---

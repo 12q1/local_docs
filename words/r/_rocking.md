@@ -25,7 +25,7 @@
 	- _Example: Let's rock this joint!_
 - **To [[d/_do|do]] [[s/_something|something]] with [[e/_excitement|excitement]] [[y/_yet|yet]] [[s/_skillfully|skillfully]]**
 	- _Example: I need to rock a piss._
-- **To wear (a [[p/_piece|piece]] of [[c/_clothing|clothing]], [[o/_outfit|outfit]] [[e/_etc|etc]].) successfully or with style; to [[c/_carry|carry]] [[o/_off|off]] (a [[p/_particular|particular]] [[l/_look|look]], style).**
+- **To wear (a [[p/_piece|piece]] of [[c/_clothing|clothing]], [[o/_outfit|outfit]] [[e/_etc|etc]].) successfully or with [[s/_style|style]]; to [[c/_carry|carry]] [[o/_off|off]] (a [[p/_particular|particular]] [[l/_look|look]], [[s/_style|style]]).**
 ---
 ### Synonyms
 - [[r/_rule|rule]]
@@ -34,7 +34,7 @@
 #noun
 - **The [[m/_motion|motion]] of [[s/_something|something]] that [[r/_rocks|rocks]].**
 - **The [[a/_abrading|abrading]] of a [[c/_copper|copper]] [[p/_plate|plate]] with a [[r/_rocker|rocker]], [[p/_preparatory|preparatory]] to [[m/_mezzotinting|mezzotinting]].**
-- **The [[m/_motion|motion]] by which the [[d/_design|design]] on a steel [[m/_mill|mill]] is transferred to a [[c/_copper|copper]] [[c/_cylinder|cylinder]].**
+- **The [[m/_motion|motion]] by which the [[d/_design|design]] on a [[s/_steel|steel]] [[m/_mill|mill]] is transferred to a [[c/_copper|copper]] [[c/_cylinder|cylinder]].**
 ---
 #adjective
 - **[[s/_shaking|Shaking]], swaying or [[m/_moving|moving]] [[b/_back|back]] and [[f/_forth|forth]].**

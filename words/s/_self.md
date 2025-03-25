@@ -15,7 +15,7 @@
 - [[n/_nonself|nonself]]
 #verb
 - **To [[f/_fertilise|fertilise]] by the [[s/_same|same]] [[i/_individual|individual]]; to [[s/_self|self]]-[[f/_fertilise|fertilise]] or [[s/_self|self]]-[[p/_pollinate|pollinate]].**
-- **To [[f/_fertilise|fertilise]] by the [[s/_same|same]] strain; to [[i/_inbreed|inbreed]].**
+- **To [[f/_fertilise|fertilise]] by the [[s/_same|same]] [[s/_strain|strain]]; to [[i/_inbreed|inbreed]].**
 ---
 ### Antonyms
 - [[o/_outcross|outcross]]
@@ -29,7 +29,7 @@
 ### Antonyms
 - [[n/_nonself|nonself]]
 #pronoun
-- **[[h/_himself|Himself]], [[h/_herself|herself]], [[i/_itself|itself]], themselves; that specific ([[p/_person|person]] [[m/_mentioned|mentioned]]).**
+- **[[h/_himself|Himself]], [[h/_herself|herself]], [[i/_itself|itself]], themselves; that [[s/_specific|specific]] ([[p/_person|person]] [[m/_mentioned|mentioned]]).**
 	- _Example: This argument was put forward by the defendant self._
 - **[[m/_myself|Myself]].**
 	- _Example: I made out a cheque, payable to self, which cheered me up somewhat._

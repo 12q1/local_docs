@@ -1,6 +1,6 @@
 # Misspell
 ---
 #verb
-- **To spell [[i/_incorrectly|incorrectly]].**
+- **To [[s/_spell|spell]] [[i/_incorrectly|incorrectly]].**
 ---
 ---

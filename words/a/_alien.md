@@ -15,7 +15,7 @@
 #adjective
 - **Not [[b/_belonging|belonging]] to the [[s/_same|same]] [[c/_country|country]], [[l/_land|land]], or [[g/_government|government]], or to the [[c/_citizens|citizens]] or subjects thereof; [[f/_foreign|foreign]].**
 	- _Example: alien subjects, enemies, property, or shores_
-- **Very unfamiliar, strange, or [[r/_removed|removed]].**
+- **Very unfamiliar, [[s/_strange|strange]], or [[r/_removed|removed]].**
 	- _Example: principles alien to our religion_
 - **[[p/_pertaining|Pertaining]] to [[e/_extraterrestrial|extraterrestrial]] [[l/_life|life]].**
 ---

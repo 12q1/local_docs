@@ -19,7 +19,7 @@
 - **A [[l/_list|list]] of [[i/_items|items]] on which user [[o/_operations|operations]] will take [[p/_place|place]]. Wp**
 - **A unary [[o/_operation|operation]] that [[d/_denotes|denotes]] a subset of a [[r/_relation|relation]].**
 - **The [[f/_free|free]] [[s/_selection|selection]] [[b/_before|before]] survey of [[c/_crown|crown]] [[l/_land|land]] in [[s/_some|some]] [[a/_australian|Australian]] [[c/_colonies|colonies]] under [[l/_land|land]] [[l/_legislation|legislation]] [[i/_introduced|introduced]] in the 1860s. Wp**
-- **The stage of a [[g/_genetic|genetic]] [[a/_algorithm|algorithm]] in which [[i/_individual|individual]] [[g/_genomes|genomes]] are [[c/_chosen|chosen]] from a [[p/_population|population]] for [[l/_later|later]] [[b/_breeding|breeding]]. Wp**
+- **The [[s/_stage|stage]] of a [[g/_genetic|genetic]] [[a/_algorithm|algorithm]] in which [[i/_individual|individual]] [[g/_genomes|genomes]] are [[c/_chosen|chosen]] from a [[p/_population|population]] for [[l/_later|later]] [[b/_breeding|breeding]]. Wp**
 ---
 ### Synonyms
 - [[n/_number|number]], [[p/_piece|piece]], [[o/_option|option]], [[s/_subset|subset]], [[c/_choice|choice]]

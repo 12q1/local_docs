@@ -11,14 +11,14 @@
 	- _Example: When she is on her period, she prefers not to go swimming._
 - **A [[s/_section|section]] of an [[a/_artist|artist]]'[[s/_s|s]], writer'[[s/_s|s]] ([[e/_etc|etc]].) [[c/_career|career]] [[d/_distinguished|distinguished]] by a [[g/_given|given]] [[q/_quality|quality]], [[p/_preoccupation|preoccupation]] [[e/_etc|etc]].**
 	- _Example: This is one of the last paintings Picasso created during his Blue Period._
-- **[[e/_each|Each]] of the [[d/_divisions|divisions]] [[i/_into|into]] which a [[s/_school|school]] [[d/_day|day]] is split, [[a/_allocated|allocated]] to a [[g/_given|given]] subject or [[a/_activity|activity]].**
+- **[[e/_each|Each]] of the [[d/_divisions|divisions]] [[i/_into|into]] which a [[s/_school|school]] [[d/_day|day]] is [[s/_split|split]], [[a/_allocated|allocated]] to a [[g/_given|given]] subject or [[a/_activity|activity]].**
 	- _Example: I have math class in second period._
-- **[[e/_each|Each]] of the [[i/_intervals|intervals]] [[i/_into|into]] which various sporting [[e/_events|events]] are [[d/_divided|divided]].**
+- **[[e/_each|Each]] of the [[i/_intervals|intervals]] [[i/_into|into]] which various [[s/_sporting|sporting]] [[e/_events|events]] are [[d/_divided|divided]].**
 	- _Example: Gretzky scored in the last minute of the second period._
 - **The [[l/_length|length]] of time for a [[d/_disease|disease]] to [[r/_run|run]] [[i/_its|its]] [[c/_course|course]].**
 - **An [[e/_end|end]] or [[c/_conclusion|conclusion]]; the [[f/_final|final]] [[p/_point|point]] of a [[p/_process|process]] [[e/_etc|etc]].**
 - **A [[c/_complete|complete]] [[s/_sentence|sentence]], [[e/_especially|especially]] [[o/_one|one]] [[e/_expressing|expressing]] a [[s/_single|single]] thought or [[m/_making|making]] a [[b/_balanced|balanced]], [[r/_rhythmic|rhythmic]] whole.**
-- **A specific [[m/_moment|moment]] [[d/_during|during]] a [[g/_given|given]] [[p/_process|process]]; a [[p/_point|point]], a stage.**
+- **A [[s/_specific|specific]] [[m/_moment|moment]] [[d/_during|during]] a [[g/_given|given]] [[p/_process|process]]; a [[p/_point|point]], a [[s/_stage|stage]].**
 - **A [[r/_row|row]] in the [[p/_periodic|periodic]] table of the [[e/_elements|elements]].**
 - **A subdivision of an [[e/_era|era]], typically [[l/_lasting|lasting]] from tens to [[h/_hundreds|hundreds]] of [[m/_millions|millions]] of [[y/_years|years]], [[s/_see|see]] [[a/_appendix|Appendix]]: [[g/_geologic|Geologic]] timescale.**
 - **A [[d/_drosophila|Drosophila]] [[g/_gene|gene]], the [[g/_gene|gene]] [[p/_product|product]] of which is [[i/_involved|involved]] in [[r/_regulation|regulation]] of the [[c/_circadian|circadian]] [[r/_rhythm|rhythm]].**

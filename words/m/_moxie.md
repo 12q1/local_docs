@@ -1,7 +1,7 @@
 # Moxie
 ---
 #noun
-- **[[n/_nerve|Nerve]], spunk, strength of [[c/_character|character]].**
+- **[[n/_nerve|Nerve]], [[s/_spunk|spunk]], [[s/_strength|strength]] of [[c/_character|character]].**
 - **Verve.**
 - **Wit, [[s/_smarts|smarts]], [[s/_skill|skill]].**
 ---

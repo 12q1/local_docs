@@ -29,7 +29,7 @@
 - **To [[f/_furnish|furnish]] with an [[a/_axle|axle]].**
 ---
 #adjective
-- **[[h/_having|Having]] a specified [[n/_number|number]] of type of [[a/_axis|axis]].**
+- **[[h/_having|Having]] a [[s/_specified|specified]] [[n/_number|number]] of type of [[a/_axis|axis]].**
 	- _Example: a two-axed crystal_
 ---
 ---

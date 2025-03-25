@@ -6,6 +6,6 @@
 ### Synonyms
 - [[d/_doss-house|doss-house]], [[f/_flop|flop]]
 #verb
-- **To stay in a [[f/_flophouse|flophouse]].**
+- **To [[s/_stay|stay]] in a [[f/_flophouse|flophouse]].**
 ---
 ---

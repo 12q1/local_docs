@@ -1,17 +1,17 @@
 # Ropes
 ---
 #noun
-- **Thick strings, [[y/_yarn|yarn]], monofilaments, [[m/_metal|metal]] wires, or strands of [[o/_other|other]] [[c/_cordage|cordage]] that are twisted together to [[f/_form|form]] a stronger [[l/_line|line]].**
+- **Thick [[s/_strings|strings]], [[y/_yarn|yarn]], monofilaments, [[m/_metal|metal]] wires, or [[s/_strands|strands]] of [[o/_other|other]] [[c/_cordage|cordage]] that are twisted together to [[f/_form|form]] a [[s/_stronger|stronger]] [[l/_line|line]].**
 	- _Example: Nylon rope is usually stronger than similar rope made of plant fibers._
 - **An [[i/_individual|individual]] [[l/_length|length]] of such [[m/_material|material]].**
 	- _Example: The swinging bridge is constructed of 40 logs and 30 ropes._
-- **A [[c/_cohesive|cohesive]] strand of [[s/_something|something]].**
+- **A [[c/_cohesive|cohesive]] [[s/_strand|strand]] of [[s/_something|something]].**
 	- _Example: The duchess wore a rope of pearls to the soirée._
-- **A [[c/_continuous|continuous]] stream.**
+- **A [[c/_continuous|continuous]] [[s/_stream|stream]].**
 - **A [[h/_hard|hard]] [[l/_line|line]] [[d/_drive|drive]].**
 	- _Example: He hit a rope past third and into the corner._
 - **A [[l/_long|long]] thin [[s/_segment|segment]] of [[s/_soft|soft]] [[c/_clay|clay]], [[e/_either|either]] [[e/_extruded|extruded]] or [[f/_formed|formed]] by [[h/_hand|hand]].**
-- **A [[d/_data|data]] structure [[r/_resembling|resembling]] a string, using a [[c/_concatenation|concatenation]] tree in which [[e/_each|each]] [[l/_leaf|leaf]] [[r/_represents|represents]] a [[c/_character|character]].**
+- **A [[d/_data|data]] [[s/_structure|structure]] [[r/_resembling|resembling]] a [[s/_string|string]], using a [[c/_concatenation|concatenation]] tree in which [[e/_each|each]] [[l/_leaf|leaf]] [[r/_represents|represents]] a [[c/_character|character]].**
 - **A unit of [[d/_distance|distance]] [[e/_equivalent|equivalent]] to the [[d/_distance|distance]] [[c/_covered|covered]] in [[s/_six|six]] [[m/_months|months]] by a [[g/_god|god]] [[f/_flying|flying]] at ten [[m/_million|million]] [[m/_miles|miles]] [[p/_per|per]] [[s/_second|second]].**
 - **([[j/_jewelry|jewelry]]) A [[n/_necklace|necklace]] of at [[l/_least|least]] 1 [[m/_meter|meter]] in [[l/_length|length]].**
 - **[[c/_cordage|Cordage]] of at [[l/_least|least]] 1 [[i/_inch|inch]] in [[d/_diameter|diameter]], or a [[l/_length|length]] of such [[c/_cordage|cordage]].**

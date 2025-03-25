@@ -1,7 +1,7 @@
 # Massive
 ---
 #noun
-- **A [[h/_homogeneous|homogeneous]] [[m/_mass|mass]] of [[r/_rock|rock]], not [[l/_layered|layered]] and without an [[o/_obvious|obvious]] [[c/_crystal|crystal]] structure.**
+- **A [[h/_homogeneous|homogeneous]] [[m/_mass|mass]] of [[r/_rock|rock]], not [[l/_layered|layered]] and without an [[o/_obvious|obvious]] [[c/_crystal|crystal]] [[s/_structure|structure]].**
 	- _Example: karst massives in western Georgia_
 - **A [[g/_group|group]] of [[p/_people|people]] from a [[l/_locality|locality]], or [[s/_sharing|sharing]] a [[c/_collective|collective]] [[a/_aim|aim]], [[i/_interest|interest]], [[e/_etc|etc]].**
 	- _Example: Big up to the Croydon massive!_

@@ -1,9 +1,9 @@
 # Asprawl
 ---
 #adjective
-- **Sprawling; [[c/_covered|covered]] or [[f/_filled|filled]] (with [[s/_something|something]] sprawling).**
+- **[[s/_sprawling|Sprawling]]; [[c/_covered|covered]] or [[f/_filled|filled]] (with [[s/_something|something]] [[s/_sprawling|sprawling]]).**
 ---
 #preposition
-- **Sprawling [[o/_over|over]] or [[a/_across|across]].**
+- **[[s/_sprawling|Sprawling]] [[o/_over|over]] or [[a/_across|across]].**
 ---
 ---

@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_person|person]] who was [[b/_born|born]] [[o/_out|out]] of wedlock, and [[h/_hence|hence]] [[o/_often|often]] [[c/_considered|considered]] an [[i/_illegitimate|illegitimate]] [[d/_descendant|descendant]].**
 - **A [[m/_mongrel|mongrel]] ([[b/_biological|biological]] [[c/_cross|cross]] [[b/_between|between]] [[d/_different|different]] [[b/_breeds|breeds]], [[g/_groups|groups]] or varieties).**
-- **(typically [[r/_referring|referring]] to a [[m/_man|man]]) A [[c/_contemptible|contemptible]], [[i/_inconsiderate|inconsiderate]], [[o/_overly|overly]] or [[a/_arrogantly|arrogantly]] [[r/_rude|rude]] or spiteful [[p/_person|person]].**
+- **(typically [[r/_referring|referring]] to a [[m/_man|man]]) A [[c/_contemptible|contemptible]], [[i/_inconsiderate|inconsiderate]], [[o/_overly|overly]] or [[a/_arrogantly|arrogantly]] [[r/_rude|rude]] or [[s/_spiteful|spiteful]] [[p/_person|person]].**
 	- _Example: Some bastard stole my car while I was helping an injured person._
 - **A [[m/_man|man]], a [[f/_fellow|fellow]], a [[m/_male|male]] [[f/_friend|friend]].**
 	- _Example: Get over here, you old bastard!_
@@ -18,7 +18,7 @@
 - **A sweet wine.**
 - **A sword that is [[m/_midway|midway]] in [[l/_length|length]] [[b/_between|between]] a [[s/_short|short]]-sword and a [[l/_long|long]] sword; [[a/_also|also]] [[b/_bastard|bastard]] sword.**
 - **An [[i/_inferior|inferior]] [[q/_quality|quality]] of [[s/_soft|soft]] [[b/_brown|brown]] sugar, [[o/_obtained|obtained]] from [[s/_syrups|syrups]] that [[h/_have|have]] [[b/_been|been]] [[b/_boiled|boiled]] [[s/_several|several]] times.**
-- **A [[l/_large|large]] [[m/_mould|mould]] for straining sugar.**
+- **A [[l/_large|large]] [[m/_mould|mould]] for [[s/_straining|straining]] sugar.**
 - **A writing [[p/_paper|paper]] of a [[p/_particular|particular]] [[s/_size|size]].**
 - **A Eurosceptic [[c/_conservative|Conservative]] [[m/_mp|MP]], [[e/_especially|especially]] in the [[g/_government|government]] of [[j/_john|John]] [[m/_major|Major]].**
 ---

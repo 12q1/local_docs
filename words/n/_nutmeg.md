@@ -1,8 +1,8 @@
 # Nutmeg
 ---
 #noun
-- **An [[e/_evergreen|evergreen]] tree ([[m/_myristica|Myristica]] fragrans) [[c/_cultivated|cultivated]] in the [[e/_east|East]] [[i/_indies|Indies]] for [[i/_its|its]] spicy [[s/_seeds|seeds]].**
-- **The [[a/_aromatic|aromatic]] [[s/_seed|seed]] of this tree, used as a spice.**
+- **An [[e/_evergreen|evergreen]] tree ([[m/_myristica|Myristica]] fragrans) [[c/_cultivated|cultivated]] in the [[e/_east|East]] [[i/_indies|Indies]] for [[i/_its|its]] [[s/_spicy|spicy]] [[s/_seeds|seeds]].**
+- **The [[a/_aromatic|aromatic]] [[s/_seed|seed]] of this tree, used as a [[s/_spice|spice]].**
 - **A [[g/_grey|grey]]-[[b/_brown|brown]] [[c/_colour|colour]].**
 - **The [[p/_playing|playing]] of the [[b/_ball|ball]] [[b/_between|between]] the [[l/_legs|legs]] of an [[o/_opponent|opponent]].**
 ---

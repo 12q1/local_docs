@@ -9,7 +9,7 @@
 ### Synonyms
 - [[c/_call|call]], [[r/_ring|ring]], [[t/_telephone|telephone]]
 #noun
-- **A speech [[s/_segment|segment]] that [[p/_possesses|possesses]] [[d/_distinct|distinct]] [[p/_physical|physical]] or [[p/_perceptual|perceptual]] [[p/_properties|properties]], [[c/_considered|considered]] as a [[p/_physical|physical]] [[e/_event|event]] without [[r/_regard|regard]] to [[i/_its|its]] [[p/_place|place]] in the [[p/_phonology|phonology]] of a [[l/_language|language]].**
+- **A [[s/_speech|speech]] [[s/_segment|segment]] that [[p/_possesses|possesses]] [[d/_distinct|distinct]] [[p/_physical|physical]] or [[p/_perceptual|perceptual]] [[p/_properties|properties]], [[c/_considered|considered]] as a [[p/_physical|physical]] [[e/_event|event]] without [[r/_regard|regard]] to [[i/_its|its]] [[p/_place|place]] in the [[p/_phonology|phonology]] of a [[l/_language|language]].**
 ---
 #noun
 - **[[h/_headphones|Headphones]]**

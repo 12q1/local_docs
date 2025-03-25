@@ -7,7 +7,7 @@
 	- _Example: His heart dilates and glories in his strength._
 - **To [[s/_speak|speak]] [[l/_largely|largely]] and [[c/_copiously|copiously]]; to [[d/_dwell|dwell]] in [[n/_narration|narration]]; to [[e/_enlarge|enlarge]]; with "on" or "upon".**
 - **To use a [[d/_dilator|dilator]] to widen ([[s/_something|something]], such as a vagina).**
-- **([[d/_dismissal|dismissal]], 4chan) [[e/_expression|Expression]] of [[a/_anger|anger]] and [[c/_contempt|contempt]], specifically at transgender women.**
+- **([[d/_dismissal|dismissal]], 4chan) [[e/_expression|Expression]] of [[a/_anger|anger]] and [[c/_contempt|contempt]], [[s/_specifically|specifically]] at transgender women.**
 ---
 ### Antonyms
 - [[c/_contract|contract]]

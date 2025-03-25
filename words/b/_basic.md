@@ -1,7 +1,7 @@
 # Basic
 ---
 #noun
-- **A [[n/_necessary|necessary]] [[c/_commodity|commodity]], a staple [[r/_requirement|requirement]].**
+- **A [[n/_necessary|necessary]] [[c/_commodity|commodity]], a [[s/_staple|staple]] [[r/_requirement|requirement]].**
 	- _Example: Rice is a basic for many Asian villagers._
 - **An [[e/_elementary|elementary]] [[b/_building|building]] [[b/_block|block]], [[e/_e|e]].[[g/_g|g]]. a [[f/_fundamental|fundamental]] [[p/_piece|piece]] of [[k/_knowledge|knowledge]].**
 	- _Example: Arithmetic is a basic for the study of mathematics._

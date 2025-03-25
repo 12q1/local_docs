@@ -10,8 +10,8 @@
 - **To [[m/_make|make]] [[l/_less|less]] [[a/_acute|acute]] or [[p/_perceptive|perceptive]].**
 	- _Example: The tears began to well up and cloud my vision._
 - **To [[m/_make|make]] [[g/_gloomy|gloomy]] or sullen.**
-- **To [[b/_blacken|blacken]]; to sully; to stain; to tarnish ([[r/_reputation|reputation]] or [[c/_character|character]]).**
-- **To [[m/_mark|mark]] with, or [[d/_darken|darken]] in, veins or sports; to variegate with [[c/_colors|colors]].**
+- **To [[b/_blacken|blacken]]; to sully; to [[s/_stain|stain]]; to tarnish ([[r/_reputation|reputation]] or [[c/_character|character]]).**
+- **To [[m/_mark|mark]] with, or [[d/_darken|darken]] in, veins or [[s/_sports|sports]]; to variegate with [[c/_colors|colors]].**
 	- _Example: to cloud yarn_
 - **To [[b/_become|become]] [[m/_marked|marked]], [[d/_darkened|darkened]] or variegated in this way.**
 ---
@@ -20,7 +20,7 @@
 - **Unclear; surrounded in [[m/_mystery|mystery]].**
 - **[[m/_made|Made]] [[d/_dim|dim]] or [[b/_blurry|blurry]].**
 	- _Example: the clouded eyes of the sick man_
-- **Variegated with spots.**
+- **Variegated with [[s/_spots|spots]].**
 	- _Example: a clouded cane_
 ---
 ---

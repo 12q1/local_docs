@@ -11,12 +11,12 @@
 	- _Example: The problem's solution struck him like a bolt from the blue._
 - **A [[l/_large|large]] [[r/_roll|roll]] of [[f/_fabric|fabric]] or [[s/_similar|similar]] [[m/_material|material]], as a [[b/_bolt|bolt]] of [[c/_cloth|cloth]].**
 	- _Example: 24 March 1774 - Newspaper: Stamford Mercury - "Mr. Cole, Basket-maker...has lost near 300 boults of rods" https//www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17740324/001/0001_
-- **A sudden spring or start; a sudden [[l/_leap|leap]] [[a/_aside|aside]].**
+- **A sudden [[s/_spring|spring]] or [[s/_start|start]]; a sudden [[l/_leap|leap]] [[a/_aside|aside]].**
 	- _Example: The horse made a bolt._
 - **A sudden [[f/_flight|flight]], as to [[e/_escape|escape]] [[c/_creditors|creditors]].**
 - **A [[r/_refusal|refusal]] to support a [[n/_nomination|nomination]] [[m/_made|made]] by the [[p/_party|party]] with which [[o/_one|one]] [[h/_has|has]] [[b/_been|been]] [[c/_connected|connected]]; a [[b/_breaking|breaking]] [[a/_away|away]] from [[o/_one|one]]'[[s/_s|s]] [[p/_party|party]].**
 - **An [[i/_iron|iron]] to [[f/_fasten|fasten]] the [[l/_legs|legs]] of a [[p/_prisoner|prisoner]]; a [[s/_shackle|shackle]]; a [[f/_fetter|fetter]].**
-- **A [[b/_burst|burst]] of speed or [[e/_efficiency|efficiency]].**
+- **A [[b/_burst|burst]] of [[s/_speed|speed]] or [[e/_efficiency|efficiency]].**
 ---
 #verb
 - **To [[c/_connect|connect]] or [[a/_assemble|assemble]] [[p/_pieces|pieces]] using a [[b/_bolt|bolt]].**
@@ -25,9 +25,9 @@
 	- _Example: Bolt the door._
 - **To [[f/_flee|flee]], to [[d/_depart|depart]], to [[a/_accelerate|accelerate]] suddenly.**
 	- _Example: Seeing the snake, the horse bolted._
-- **To [[c/_cause|cause]] to start or spring [[f/_forth|forth]]; to [[d/_dislodge|dislodge]] (an [[a/_animal|animal]] [[b/_being|being]] [[h/_hunted|hunted]]).**
+- **To [[c/_cause|cause]] to [[s/_start|start]] or [[s/_spring|spring]] [[f/_forth|forth]]; to [[d/_dislodge|dislodge]] (an [[a/_animal|animal]] [[b/_being|being]] [[h/_hunted|hunted]]).**
 	- _Example: to bolt a rabbit_
-- **To strike or [[f/_fall|fall]] suddenly [[l/_like|like]] a [[b/_bolt|bolt]].**
+- **To [[s/_strike|strike]] or [[f/_fall|fall]] suddenly [[l/_like|like]] a [[b/_bolt|bolt]].**
 - **To [[e/_escape|escape]].**
 - **Of a [[p/_plant|plant]], to [[g/_grow|grow]] [[q/_quickly|quickly]]; to [[g/_go|go]] to [[s/_seed|seed]].**
 	- _Example: Lettuce and spinach will bolt as the weather warms up._

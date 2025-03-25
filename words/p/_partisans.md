@@ -7,7 +7,7 @@
 - **The [[c/_commander|commander]] of a [[b/_body|body]] of [[d/_detached|detached]] [[l/_light|light]] troops [[e/_engaged|engaged]] in [[m/_making|making]] [[f/_forays|forays]] and [[h/_harassing|harassing]] an [[e/_enemy|enemy]].**
 ---
 #noun
-- **A [[l/_long|long]]-[[h/_handled|handled]] spear with a triangular, [[d/_double|double]]-[[e/_edged|edged]] [[b/_blade|blade]] [[h/_having|having]] [[l/_lateral|lateral]] [[p/_projections|projections]], in [[s/_some|some]] [[f/_forms|forms]] [[a/_also|also]] used in [[b/_boar|boar]] [[h/_hunting|hunting]].**
+- **A [[l/_long|long]]-[[h/_handled|handled]] [[s/_spear|spear]] with a triangular, [[d/_double|double]]-[[e/_edged|edged]] [[b/_blade|blade]] [[h/_having|having]] [[l/_lateral|lateral]] [[p/_projections|projections]], in [[s/_some|some]] [[f/_forms|forms]] [[a/_also|also]] used in [[b/_boar|boar]] [[h/_hunting|hunting]].**
 - **A [[s/_soldier|soldier]] [[a/_armed|armed]] with such a weapon.**
 ---
 ---

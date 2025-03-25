@@ -1,7 +1,7 @@
 # Simpleminded
 ---
 #adjective
-- **Stupid.**
+- **[[s/_stupid|Stupid]].**
 - **Unsophisticated; [[l/_lacking|lacking]] subtlety.**
 ---
 ---

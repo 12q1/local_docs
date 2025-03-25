@@ -10,7 +10,7 @@
 - **A [[c/_connection|connection]] [[e/_electrically|electrically]] to the [[e/_earth|earth]] ((US) [[g/_ground|ground]]); on [[e/_equipment|equipment]]: a terminal [[c/_connected|connected]] in that [[m/_manner|manner]].**
 - **The [[l/_lair|lair]] (as a [[h/_hole|hole]] on the [[g/_ground|ground]]) of an [[a/_animal|animal]] such as [[f/_fox|fox]].**
 - **A [[r/_region|region]] of the [[p/_planet|planet]]; a [[l/_land|land]] or [[c/_country|country]].**
-- **Worldly things, as [[a/_against|against]] spiritual [[o/_ones|ones]].**
+- **Worldly things, as [[a/_against|against]] [[s/_spiritual|spiritual]] [[o/_ones|ones]].**
 - **The world of [[o/_our|our]] [[c/_current|current]] [[l/_life|life]] (as [[o/_opposed|opposed]] to [[h/_heaven|heaven]] or an [[a/_afterlife|afterlife]]).**
 - **The [[p/_people|people]] on the [[g/_globe|globe]].**
 - **The [[h/_human|human]] [[b/_body|body]].**

@@ -10,7 +10,7 @@
 ### Synonyms
 - [[l/_love|love]]
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]], or [[s/_shaped|shaped]] [[l/_like|like]], a specified [[f/_form|form]] of [[h/_heart|heart]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]], or [[s/_shaped|shaped]] [[l/_like|like]], a [[s/_specified|specified]] [[f/_form|form]] of [[h/_heart|heart]].**
 	- _Example: a hard-hearted woman_
 - **[[s/_seated|Seated]] or [[f/_fixed|fixed]] in the [[h/_heart|heart]].**
 ---

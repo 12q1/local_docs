@@ -11,6 +11,6 @@
 - **To [[a/_apply|apply]] [[r/_radiation|radiation]] to.**
 ---
 #adjective
-- **[[i/_illuminated|Illuminated]]; [[i/_irradiated|irradiated]]; [[m/_made|made]] [[b/_brilliant|brilliant]] or splendid.**
+- **[[i/_illuminated|Illuminated]]; [[i/_irradiated|irradiated]]; [[m/_made|made]] [[b/_brilliant|brilliant]] or [[s/_splendid|splendid]].**
 ---
 ---

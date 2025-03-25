@@ -1,6 +1,6 @@
 # Chorten
 ---
 #noun
-- **A Tibetan stupa.**
+- **A Tibetan [[s/_stupa|stupa]].**
 ---
 ---

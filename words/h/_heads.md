@@ -30,8 +30,8 @@
 ### Synonyms
 - [[h/_heads|heads]]
 #noun
-- **That [[p/_part|part]] of [[o/_older|older]] [[s/_sailing|sailing]] [[s/_ships|ships]] [[f/_forward|forward]] of the [[f/_forecastle|forecastle]] and [[a/_around|around]] the [[b/_beak|beak]], used by the [[c/_crew|crew]] as their [[l/_lavatory|lavatory]]; still used as the word for toilets on a [[s/_ship|ship]].**
-- **The [[s/_side|side]] of a [[c/_coin|coin]] that [[b/_bears|bears]] the [[p/_picture|picture]] of the [[h/_head|head]] of state or [[s/_similar|similar]].**
+- **That [[p/_part|part]] of [[o/_older|older]] [[s/_sailing|sailing]] [[s/_ships|ships]] [[f/_forward|forward]] of the [[f/_forecastle|forecastle]] and [[a/_around|around]] the [[b/_beak|beak]], used by the [[c/_crew|crew]] as their [[l/_lavatory|lavatory]]; [[s/_still|still]] used as the word for toilets on a [[s/_ship|ship]].**
+- **The [[s/_side|side]] of a [[c/_coin|coin]] that [[b/_bears|bears]] the [[p/_picture|picture]] of the [[h/_head|head]] of [[s/_state|state]] or [[s/_similar|similar]].**
 	- _Example: Heads, I win._
 - **[[d/_draft|Draft]] [[s/_scheme|scheme]] of a [[b/_bill|bill]] [[b/_before|before]] it is [[f/_formally|formally]] [[i/_introduced|introduced]] to a [[p/_parliament|parliament]].**
 - **Tiles [[l/_laid|laid]] at the [[e/_eaves|eaves]] of a [[h/_house|house]].**

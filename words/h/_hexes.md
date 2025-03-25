@@ -1,12 +1,12 @@
 # Hexes
 ---
 #noun
-- **An [[e/_evil|evil]] spell or [[c/_curse|curse]].**
+- **An [[e/_evil|evil]] [[s/_spell|spell]] or [[c/_curse|curse]].**
 - **A witch.**
-- **A spell ([[n/_now|now]] [[r/_rare|rare]] but still [[f/_found|found]] in [[c/_compounds|compounds]] such as [[h/_hex|hex]] [[s/_sign|sign]] and hexcraft).**
+- **A [[s/_spell|spell]] ([[n/_now|now]] [[r/_rare|rare]] but [[s/_still|still]] [[f/_found|found]] in [[c/_compounds|compounds]] such as [[h/_hex|hex]] [[s/_sign|sign]] and hexcraft).**
 ---
 #verb
-- **To [[c/_cast|cast]] a spell on (specifically an [[e/_evil|evil]] spell), to [[b/_bewitch|bewitch]].**
+- **To [[c/_cast|cast]] a [[s/_spell|spell]] on ([[s/_specifically|specifically]] an [[e/_evil|evil]] [[s/_spell|spell]]), to [[b/_bewitch|bewitch]].**
 ---
 #noun
 - **A [[h/_hexagonal|hexagonal]] [[s/_space|space]] on a [[g/_game|game]] [[b/_board|board]].**

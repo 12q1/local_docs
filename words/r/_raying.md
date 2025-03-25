@@ -7,6 +7,6 @@
 #verb
 - **To [[a/_arrange|arrange]].**
 - **To [[d/_dress|dress]], [[a/_array|array]] ([[s/_someone|someone]]).**
-- **To stain or [[s/_soil|soil]]; to [[d/_defile|defile]].**
+- **To [[s/_stain|stain]] or [[s/_soil|soil]]; to [[d/_defile|defile]].**
 ---
 ---

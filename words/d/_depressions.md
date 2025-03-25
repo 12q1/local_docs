@@ -1,7 +1,7 @@
 # Depressions
 ---
 #noun
-- **In [[p/_psychotherapy|psychotherapy]] and [[p/_psychiatry|psychiatry]], a state of [[m/_mind|mind]] [[p/_producing|producing]] [[s/_serious|serious]], [[l/_long|long]]-term [[l/_lowering|lowering]] of [[e/_enjoyment|enjoyment]] of [[l/_life|life]] or [[i/_inability|inability]] to visualize a [[h/_happy|happy]] [[f/_future|future]].**
+- **In [[p/_psychotherapy|psychotherapy]] and [[p/_psychiatry|psychiatry]], a [[s/_state|state]] of [[m/_mind|mind]] [[p/_producing|producing]] [[s/_serious|serious]], [[l/_long|long]]-term [[l/_lowering|lowering]] of [[e/_enjoyment|enjoyment]] of [[l/_life|life]] or [[i/_inability|inability]] to visualize a [[h/_happy|happy]] [[f/_future|future]].**
 	- _Example: I used to suffer from depression, but now I'm mostly content with my life._
 - **An [[a/_area|area]] that is [[l/_lower|lower]] in topography than [[i/_its|its]] surroundings.**
 - **In [[p/_psychotherapy|psychotherapy]] and [[p/_psychiatry|psychiatry]], a [[p/_period|period]] of unhappiness or [[l/_low|low]] [[m/_morale|morale]] which [[l/_lasts|lasts]] [[l/_longer|longer]] than [[s/_several|several]] weeks and [[m/_may|may]] [[i/_include|include]] [[i/_ideation|ideation]] of [[s/_self|self]]-[[i/_inflicted|inflicted]] [[i/_injury|injury]] or suicide.**

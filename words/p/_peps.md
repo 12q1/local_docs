@@ -1,7 +1,7 @@
 # Peps
 ---
 #noun
-- **[[e/_energy|Energy]], [[h/_high|high]] spirits.**
+- **[[e/_energy|Energy]], [[h/_high|high]] [[s/_spirits|spirits]].**
 ---
 ### Synonyms
 - [[e/_energy|energy]], [[v/_vim|vim]]

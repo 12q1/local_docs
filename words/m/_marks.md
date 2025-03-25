@@ -37,7 +37,7 @@
 - **To [[h/_hold|hold]] ([[s/_someone|someone]]) in [[o/_one|one]]'[[s/_s|s]] [[l/_line|line]] of [[s/_sight|sight]].**
 - **To [[i/_indicate|indicate]] the [[c/_correctness|correctness]] of and [[g/_give|give]] a [[s/_score|score]] to (a [[s/_school|school]] [[a/_assignment|assignment]], [[e/_exam|exam]] [[a/_answers|answers]], [[e/_etc|etc]].).**
 	- _Example: The teacher had to spend her weekend marking all the tests._
-- **To [[r/_record|record]] that ([[s/_someone|someone]]) [[h/_has|has]] a [[p/_particular|particular]] status.**
+- **To [[r/_record|record]] that ([[s/_someone|someone]]) [[h/_has|has]] a [[p/_particular|particular]] [[s/_status|status]].**
 	- _Example: to mark a student absent._
 - **To [[k/_keep|keep]] [[a/_account|account]] of; to [[e/_enumerate|enumerate]] and [[r/_register|register]]; to [[k/_keep|keep]] [[s/_score|score]].**
 	- _Example: to mark the points in a game of billiards or a card game_

@@ -9,14 +9,14 @@
 - **To [[c/_come|come]] [[f/_forward|forward]], [[a/_appear|appear]] in a [[p/_particular|particular]] [[p/_place|place]] or [[b/_before|before]] a [[p/_particular|particular]] [[p/_person|person]], [[e/_especially|especially]] [[f/_formally|formally]].**
 - **To [[p/_put|put]] ([[s/_something|something]]) [[f/_forward|forward]] in [[o/_order|order]] for it to be [[s/_seen|seen]]; to [[s/_show|show]], [[e/_exhibit|exhibit]].**
 - **To [[m/_make|make]] [[c/_clear|clear]] to [[o/_one|one]]'[[s/_s|s]] [[m/_mind|mind]] or [[i/_intelligence|intelligence]]; to [[p/_put|put]] [[f/_forward|forward]] for [[c/_consideration|consideration]].**
-- **To [[p/_put|put]] on, stage (a [[p/_play|play]] [[e/_etc|etc]].).**
+- **To [[p/_put|put]] on, [[s/_stage|stage]] (a [[p/_play|play]] [[e/_etc|etc]].).**
 	- _Example: The theater is proud to present the Fearless Fliers._
 - **To [[p/_point|point]] (a [[f/_firearm|firearm]]) at [[s/_something|something]], to [[h/_hold|hold]] (a weapon) in a [[p/_position|position]] [[r/_ready|ready]] to [[f/_fire|fire]].**
 - **To [[o/_offer|offer]] [[o/_oneself|oneself]] for [[m/_mental|mental]] [[c/_consideration|consideration]]; to [[o/_occur|occur]] to the [[m/_mind|mind]].**
 	- _Example: Well, one idea does present itself._
-- **To [[c/_come|come]] to the [[a/_attention|attention]] of [[m/_medical|medical]] staff, [[e/_especially|especially]] with a specific [[s/_symptom|symptom]].**
+- **To [[c/_come|come]] to the [[a/_attention|attention]] of [[m/_medical|medical]] [[s/_staff|staff]], [[e/_especially|especially]] with a [[s/_specific|specific]] [[s/_symptom|symptom]].**
 	- _Example: The patient presented with insomnia._
-- **To [[a/_appear|appear]] (in a specific way) for [[d/_delivery|delivery]] (of a [[f/_fetus|fetus]]); to [[a/_appear|appear]] [[f/_first|first]] at the [[m/_mouth|mouth]] of the uterus [[d/_during|during]] [[c/_childbirth|childbirth]].**
+- **To [[a/_appear|appear]] (in a [[s/_specific|specific]] way) for [[d/_delivery|delivery]] (of a [[f/_fetus|fetus]]); to [[a/_appear|appear]] [[f/_first|first]] at the [[m/_mouth|mouth]] of the uterus [[d/_during|during]] [[c/_childbirth|childbirth]].**
 - **(with "as") To [[a/_appear|appear]] or [[r/_represent|represent]] [[o/_oneself|oneself]] (as [[h/_having|having]] a [[c/_certain|certain]] [[g/_gender|gender]]).**
 - **To [[a/_act|act]] as [[p/_presenter|presenter]] on (a [[r/_radio|radio]], television [[p/_programme|programme]] [[e/_etc|etc]].).**
 - **To [[g/_give|give]] a [[g/_gift|gift]] or [[p/_presentation|presentation]] to ([[s/_someone|someone]]).**
@@ -28,6 +28,6 @@
 - **To [[d/_display|display]] [[o/_one|one]]'[[s/_s|s]] [[f/_female|female]] [[g/_genitalia|genitalia]] in a way that [[s/_signals|signals]] to [[o/_others|others]] that [[o/_one|one]] is [[r/_ready|ready]] for [[c/_copulation|copulation]]. [[a/_also|Also]] [[r/_referred|referred]] to as [[l/_lordosis|lordosis]] [[b/_behaviour|behaviour]].**
 ---
 #adjective
-- **(of a [[g/_group|group]]) [[h/_having|Having]] a specified [[p/_presentation|presentation]], or a [[p/_presentation|presentation]] with specified [[p/_properties|properties]].**
+- **(of a [[g/_group|group]]) [[h/_having|Having]] a [[s/_specified|specified]] [[p/_presentation|presentation]], or a [[p/_presentation|presentation]] with [[s/_specified|specified]] [[p/_properties|properties]].**
 ---
 ---

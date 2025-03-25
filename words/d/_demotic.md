@@ -1,7 +1,7 @@
 # Demotic
 ---
 #noun
-- **[[l/_language|Language]] as spoken or written by the [[c/_common|common]] [[p/_people|people]].**
+- **[[l/_language|Language]] as [[s/_spoken|spoken]] or written by the [[c/_common|common]] [[p/_people|people]].**
 ---
 #adjective
 - **Of or for the [[c/_common|common]] [[p/_people|people]].**

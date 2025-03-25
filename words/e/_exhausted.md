@@ -18,7 +18,7 @@
 ### Synonyms
 - [[c/_consume|consume]], [[s/_spend|spend]], [[w/_weary|weary]]
 #adjective
-- **Very tired; in a state of [[e/_exhaustion|exhaustion]].**
+- **Very tired; in a [[s/_state|state]] of [[e/_exhaustion|exhaustion]].**
 	- _Example: The exhausted man fell asleep immediately._
 - **[[d/_depleted|Depleted]] of [[r/_resources|resources]].**
 	- _Example: The exhausted mine was worthless once all the ore had been extracted._

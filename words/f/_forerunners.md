@@ -6,6 +6,6 @@
 - **A [[p/_precursor|precursor]] or [[h/_harbinger|harbinger]], a warning [[a/_ahead|ahead]].**
 - **A [[f/_forebear|forebear]], an [[a/_ancestor|ancestor]], a [[p/_predecessor|predecessor]].**
 	- _Example: Bakelite is a forerunner of today's plastics._
-- **A [[p/_postage|postage]] stamp used in the time [[b/_before|before]] a [[r/_region|region]] or [[a/_area|area]] [[i/_issues|issues]] stamps of [[i/_its|its]] [[o/_own|own]].**
+- **A [[p/_postage|postage]] [[s/_stamp|stamp]] used in the time [[b/_before|before]] a [[r/_region|region]] or [[a/_area|area]] [[i/_issues|issues]] [[s/_stamps|stamps]] of [[i/_its|its]] [[o/_own|own]].**
 ---
 ---

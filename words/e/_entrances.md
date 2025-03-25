@@ -15,7 +15,7 @@
 	- _Example: His entrance of the arrival was made the same day._
 - **The [[a/_angle|angle]] which the [[b/_bow|bow]] of a vessel [[m/_makes|makes]] with the water at the water [[l/_line|line]].**
 - **The [[b/_bow|bow]], or [[e/_entire|entire]] wedgelike [[f/_forepart|forepart]] of a vessel, [[b/_below|below]] the water [[l/_line|line]].**
-- **When a [[m/_musician|musician]] starts [[p/_playing|playing]] or [[s/_singing|singing]], [[e/_entry|entry]].**
+- **When a [[m/_musician|musician]] [[s/_starts|starts]] [[p/_playing|playing]] or [[s/_singing|singing]], [[e/_entry|entry]].**
 ---
 ### Synonyms
 - [[i/_ingang|ingang]]

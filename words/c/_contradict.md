@@ -1,9 +1,9 @@
 # Contradict
 ---
 #verb
-- **To [[d/_deny|deny]] the truth of (a statement or statements).**
+- **To [[d/_deny|deny]] the truth of (a [[s/_statement|statement]] or [[s/_statements|statements]]).**
 	- _Example: His testimony contradicts hers._
-- **To [[d/_deny|deny]] the truth of the statement([[s/_s|s]]) [[m/_made|made]] by (a [[p/_person|person]]).**
+- **To [[d/_deny|deny]] the truth of the [[s/_statement|statement]]([[s/_s|s]]) [[m/_made|made]] by (a [[p/_person|person]]).**
 	- _Example: Everything he says contradicts me._
 - **To be [[c/_contrary|contrary]] to ([[s/_something|something]]).**
 - **To [[g/_give|give]] an [[o/_order|order]] [[c/_contrary|contrary]] to ([[a/_another|another]] [[o/_order|order]] or wish), [[o/_oppose|oppose]] ([[s/_something|something]]).**

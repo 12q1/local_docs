@@ -1,7 +1,7 @@
 # Consideration
 ---
 #noun
-- **The thought [[p/_process|process]] of [[c/_considering|considering]], of taking [[m/_multiple|multiple]] or specified [[f/_factors|factors]] [[i/_into|into]] [[a/_account|account]] (with of [[b/_being|being]] the [[m/_main|main]] [[c/_corresponding|corresponding]] [[a/_adposition|adposition]]).**
+- **The thought [[p/_process|process]] of [[c/_considering|considering]], of taking [[m/_multiple|multiple]] or [[s/_specified|specified]] [[f/_factors|factors]] [[i/_into|into]] [[a/_account|account]] (with of [[b/_being|being]] the [[m/_main|main]] [[c/_corresponding|corresponding]] [[a/_adposition|adposition]]).**
 	- _Example: After much consideration, I have decided to stay._
 - **[[s/_something|Something]] [[c/_considered|considered]] as a [[r/_reason|reason]] or [[g/_ground|ground]] for a ([[p/_possible|possible]]) [[d/_decision|decision]].**
 - **The tendency to [[c/_consider|consider]] [[o/_others|others]].**

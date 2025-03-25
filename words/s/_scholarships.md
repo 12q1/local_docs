@@ -1,7 +1,7 @@
 # Scholarships
 ---
 #noun
-- **A [[g/_grant|grant]]-in-[[a/_aid|aid]] to a student.**
+- **A [[g/_grant|grant]]-in-[[a/_aid|aid]] to a [[s/_student|student]].**
 - **The [[c/_character|character]] or [[q/_qualities|qualities]] of a [[s/_scholar|scholar]].**
 - **The [[a/_activity|activity]], [[m/_methods|methods]] or [[a/_attainments|attainments]] of a [[s/_scholar|scholar]].**
 - **The sum of [[k/_knowledge|knowledge]] [[a/_accrued|accrued]] by [[s/_scholars|scholars]]; the [[r/_realm|realm]] of [[r/_refined|refined]] [[l/_learning|learning]].**

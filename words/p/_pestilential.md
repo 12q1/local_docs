@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Of or [[r/_relating|relating]] to [[p/_pestilence|pestilence]] or [[p/_plague|plague]].**
-- **[[h/_having|Having]] a [[h/_harmful|harmful]] [[m/_moral|moral]] [[e/_effect|effect]] ([[e/_especially|especially]] [[o/_one|one]] that is [[b/_believed|believed]] to spread in the [[m/_manner|manner]] of [[p/_pestilence|pestilence]]).**
+- **[[h/_having|Having]] a [[h/_harmful|harmful]] [[m/_moral|moral]] [[e/_effect|effect]] ([[e/_especially|especially]] [[o/_one|one]] that is [[b/_believed|believed]] to [[s/_spread|spread]] in the [[m/_manner|manner]] of [[p/_pestilence|pestilence]]).**
 - **[[c/_causing|Causing]] [[i/_irritation|irritation]] or [[a/_annoyance|annoyance]].**
 ---
 ### Synonyms

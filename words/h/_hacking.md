@@ -18,21 +18,21 @@
 - **To [[h/_hack|hack]] [[i/_into|into]]; to [[g/_gain|gain]] unauthorized [[a/_access|access]] to (a [[c/_computer|computer]] [[s/_system|system]], [[e/_e|e]].[[g/_g|g]]., a website, or [[n/_network|network]]) by [[m/_manipulating|manipulating]] [[c/_code|code]].**
 - **(by [[e/_extension|extension]]) To [[g/_gain|gain]] unauthorised [[a/_access|access]] to a [[c/_computer|computer]] or [[o/_online|online]] [[a/_account|account]] [[b/_belonging|belonging]] to (a [[p/_person|person]] or [[o/_organisation|organisation]]).**
 	- _Example: When I logged into the social network, I discovered I'd been hacked._
-- **To strike an [[o/_opponent|opponent]]'[[s/_s|s]] [[l/_leg|leg]] with [[o/_one|one]]'[[s/_s|s]] [[h/_hockey|hockey]] stick.**
+- **To [[s/_strike|strike]] an [[o/_opponent|opponent]]'[[s/_s|s]] [[l/_leg|leg]] with [[o/_one|one]]'[[s/_s|s]] [[h/_hockey|hockey]] [[s/_stick|stick]].**
 	- _Example: He's going to the penalty box after hacking the defender in front of the goal._
-- **To [[m/_make|make]] a [[f/_flailing|flailing]] [[a/_attempt|attempt]] to [[h/_hit|hit]] the [[p/_puck|puck]] with a [[h/_hockey|hockey]] stick.**
+- **To [[m/_make|make]] a [[f/_flailing|flailing]] [[a/_attempt|attempt]] to [[h/_hit|hit]] the [[p/_puck|puck]] with a [[h/_hockey|hockey]] [[s/_stick|stick]].**
 	- _Example: There's a scramble in front of the net as the forwards are hacking at the bouncing puck._
 - **To swing at a [[p/_pitched|pitched]] [[b/_ball|ball]].**
 	- _Example: He went to the batter's box hacking._
 - **([[s/_soccer|soccer]] and [[r/_rugby|rugby]]) To [[k/_kick|kick]] (a [[p/_player|player]]) on the [[s/_shins|shins]].**
-- **To strike in a [[f/_frantic|frantic]] [[m/_movement|movement]].**
-- **To strike [[l/_lightly|lightly]] as [[p/_part|part]] of tapotement [[m/_massage|massage]].**
+- **To [[s/_strike|strike]] in a [[f/_frantic|frantic]] [[m/_movement|movement]].**
+- **To [[s/_strike|strike]] [[l/_lightly|lightly]] as [[p/_part|part]] of tapotement [[m/_massage|massage]].**
 ---
 ### Synonyms
 - [[c/_crack|crack]], [[f/_frob|frob]], [[t/_tweak|tweak]]
 #verb
 - **To [[l/_lay|lay]] ([[b/_bricks|bricks]]) on a [[r/_rack|rack]] to [[d/_dry|dry]].**
-- **To [[k/_keep|keep]] ([[y/_young|young]] [[h/_hawks|hawks]]) in a state of [[p/_partial|partial]] [[f/_freedom|freedom]], [[b/_before|before]] they are trained.**
+- **To [[k/_keep|keep]] ([[y/_young|young]] [[h/_hawks|hawks]]) in a [[s/_state|state]] of [[p/_partial|partial]] [[f/_freedom|freedom]], [[b/_before|before]] they are trained.**
 ---
 #verb
 - **To [[m/_make|make]] [[c/_common|common]] or [[c/_cliched|cliched]]; to vulgarise.**

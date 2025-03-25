@@ -1,9 +1,9 @@
 # Developed
 ---
 #verb
-- **To [[c/_change|change]] with a specific [[d/_direction|direction]], [[p/_progress|progress]].**
+- **To [[c/_change|change]] with a [[s/_specific|specific]] [[d/_direction|direction]], [[p/_progress|progress]].**
 	- _Example: Let's see how things develop and then make our decision._
-- **To [[p/_progress|progress]] through a [[s/_sequence|sequence]] of stages.**
+- **To [[p/_progress|progress]] through a [[s/_sequence|sequence]] of [[s/_stages|stages]].**
 	- _Example: Isabel developed from a tropical depression to a tropical storm to a hurricane.   An embryo develops into a fetus and then into an infant._
 - **To [[a/_advance|advance]]; to [[f/_further|further]]; to [[p/_promote|promote]] the [[g/_growth|growth]] of.**
 - **To [[c/_create|create]].**
@@ -20,7 +20,7 @@
 #adjective
 - **([[s/_said|said]] of a [[c/_country|country]]) Not [[p/_primitive|primitive]]; not third-world.**
 - **[[m/_mature|Mature]].**
-- **[[c/_containing|Containing]] [[m/_man|man]]-[[m/_made|made]] structures such as [[r/_roads|roads]], [[s/_sewers|sewers]], [[e/_electric|electric]] [[l/_lines|lines]], [[b/_buildings|buildings]], and [[s/_so|so]] on.**
+- **[[c/_containing|Containing]] [[m/_man|man]]-[[m/_made|made]] [[s/_structures|structures]] such as [[r/_roads|roads]], [[s/_sewers|sewers]], [[e/_electric|electric]] [[l/_lines|lines]], [[b/_buildings|buildings]], and [[s/_so|so]] on.**
 - **[[h/_having|Having]] useful or [[n/_necessary|necessary]] [[i/_infrastructure|infrastructure]].**
 - **[[a/_advanced|Advanced]], [[f/_fully|fully]] [[f/_formed|formed]].**
 ---

@@ -6,7 +6,7 @@
 #noun
 - **A [[n/_number|number]] [[g/_going|going]] in [[c/_company|company]]; a [[n/_number|number]] of [[f/_friends|friends]] or [[p/_persons|persons]] [[a/_associated|associated]] for a [[p/_particular|particular]] [[p/_purpose|purpose]].**
 	- _Example: The gang from our office is going out for drinks Friday night._
-- **A [[g/_group|group]] of [[l/_laborers|laborers]] under [[o/_one|one]] [[f/_foreman|foreman]]; a squad.**
+- **A [[g/_group|group]] of [[l/_laborers|laborers]] under [[o/_one|one]] [[f/_foreman|foreman]]; a [[s/_squad|squad]].**
 	- _Example: a gang of sailors; a railroad gang_
 - **A [[c/_criminal|criminal]] [[g/_group|group]] with a [[c/_common|common]] [[c/_cultural|cultural]] [[b/_background|background]] and [[i/_identifying|identifying]] [[f/_features|features]], [[o/_often|often]] [[a/_associated|associated]] with a [[p/_particular|particular]] [[s/_section|section]] of a [[c/_city|city]].**
 	- _Example: a youth gang; a neighborhood gang; motorcycle gang._

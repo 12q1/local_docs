@@ -12,7 +12,7 @@
 - **(in [[p/_plural|plural]], [[m/_metonym|metonym]]) The [[g/_game|game]] of [[b/_basketball|basketball]].**
 - **A [[h/_hoop|hoop]] [[e/_earring|earring]].**
 - **([[m/_metonym|metonym]]) A [[j/_jockey|jockey]]; from a [[c/_common|common]] [[p/_pattern|pattern]] on the [[b/_blouse|blouse]].**
-- **(usually in the [[p/_plural|plural]]) A [[h/_horizontal|horizontal]] stripe on the [[j/_jersey|jersey]]**
+- **(usually in the [[p/_plural|plural]]) A [[h/_horizontal|horizontal]] [[s/_stripe|stripe]] on the [[j/_jersey|jersey]]**
 - **(usually in the [[p/_plural|plural]]) A [[r/_requirement|requirement]] that [[m/_must|must]] be [[m/_met|met]] in [[o/_order|order]] to [[p/_proceed|proceed]].**
 ---
 #verb

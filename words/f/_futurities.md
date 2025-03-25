@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[f/_future|future]].**
-- **The state of [[b/_being|being]] in the [[f/_future|future]].**
+- **The [[s/_state|state]] of [[b/_being|being]] in the [[f/_future|future]].**
 - **A [[f/_future|future]] [[e/_event|event]].**
 ---
 ### Synonyms

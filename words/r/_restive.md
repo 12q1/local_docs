@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[i/_impatient|Impatient]] under [[d/_delay|delay]], [[d/_duress|duress]], or [[c/_control|control]].**
-- **[[r/_resistant|Resistant]] to [[c/_control|control]]; stubborn.**
+- **[[r/_resistant|Resistant]] to [[c/_control|control]]; [[s/_stubborn|stubborn]].**
 - **[[r/_refusing|Refusing]] to [[m/_move|move]], [[e/_especially|especially]] in a [[f/_forward|forward]] [[d/_direction|direction]].**
 ---
 ### Synonyms

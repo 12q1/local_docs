@@ -15,7 +15,7 @@
 #verb
 - **(with “[[d/_down|down]]”) To [[s/_shoot|shoot]] [[s/_someone|someone]] or [[s/_something|something]], usually with a [[f/_firearm|firearm]].**
 	- _Example: He gunned down the hitmen._
-- **To speed [[s/_something|something]] up.**
+- **To [[s/_speed|speed]] [[s/_something|something]] up.**
 	- _Example: He gunned the engine._
 - **To [[o/_offer|offer]] vigorous support to a [[p/_person|person]] or [[c/_cause|cause]].**
 	- _Example: He’s gunning for you._

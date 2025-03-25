@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[m/_measure|measure]] the [[d/_duration|duration]] of.**
-- **To [[m/_measure|measure]] the speed of.**
+- **To [[m/_measure|measure]] the [[s/_speed|speed]] of.**
 	- _Example: He was clocked at 155 miles per hour._
 - **To [[h/_hit|hit]] ([[s/_someone|someone]]) [[h/_heavily|heavily]].**
 	- _Example: When the boxer let down his guard, his opponent clocked him._
@@ -16,7 +16,7 @@
 ### Synonyms
 - [[s/_slug|slug]], [[s/_smack|smack]], [[t/_thump|thump]], [[w/_whack|whack]], [[t/_time|time]]
 #verb
-- **To [[o/_ornament|ornament]] ([[e/_e|e]].[[g/_g|g]]. the [[s/_side|side]] of a stocking) with [[f/_figured|figured]] work.**
+- **To [[o/_ornament|ornament]] ([[e/_e|e]].[[g/_g|g]]. the [[s/_side|side]] of a [[s/_stocking|stocking]]) with [[f/_figured|figured]] work.**
 ---
 #verb
 - **To [[m/_make|make]] the [[s/_sound|sound]] of a [[h/_hen|hen]]; to [[c/_cluck|cluck]].**

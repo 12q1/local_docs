@@ -9,7 +9,7 @@
 	- _Example: The scenery flashed by quickly._
 - **To [[m/_make|make]] visible [[b/_briefly|briefly]].**
 	- _Example: A number will be flashed on the screen._
-- **To [[b/_briefly|briefly]], and [[o/_often|often]] unintentionally, [[e/_expose|expose]] [[o/_one|one]]'[[s/_s|s]] [[n/_naked|naked]] [[b/_body|body]] or underwear, or [[p/_part|part]] of it, in [[p/_public|public]]. ([[c/_contrast|Contrast]] streak.)**
+- **To [[b/_briefly|briefly]], and [[o/_often|often]] unintentionally, [[e/_expose|expose]] [[o/_one|one]]'[[s/_s|s]] [[n/_naked|naked]] [[b/_body|body]] or underwear, or [[p/_part|part]] of it, in [[p/_public|public]]. ([[c/_contrast|Contrast]] [[s/_streak|streak]].)**
 	- _Example: Her skirt was so short that she flashed her underpants as she was getting out of her car._
 - **To [[s/_show|show]] or [[e/_expose|expose]] an "[[i/_inappropriate|inappropriate]]" [[p/_part|part]] of the [[b/_body|body]] to [[s/_someone|someone]] for [[h/_humorous|humorous]] [[r/_reasons|reasons]] or as an [[a/_act|act]] of [[c/_contempt|contempt]].**
 - **To [[b/_break|break]] [[f/_forth|forth]] [[l/_like|like]] a sudden [[f/_flood|flood]] of [[l/_light|light]]; to [[s/_show|show]] a [[m/_momentary|momentary]] [[b/_brilliance|brilliance]].**
@@ -26,12 +26,12 @@
 - **To write to the [[m/_memory|memory]] of (an updatable [[c/_component|component]] such as a [[b/_bios|BIOS]] [[c/_chip|chip]] or [[g/_games|games]] [[c/_cartridge|cartridge]]).**
 - **([[g/_glassmaking|glassmaking]]) To [[c/_cover|cover]] with a thin [[l/_layer|layer]], as [[o/_objects|objects]] of [[g/_glass|glass]] with [[g/_glass|glass]] of a [[d/_different|different]] [[c/_colour|colour]].**
 - **([[g/_glassmaking|glassmaking]]) To [[e/_expand|expand]] ([[b/_blown|blown]] [[g/_glass|glass]]) [[i/_into|into]] a [[d/_disc|disc]].**
-- **To [[s/_send|send]] by [[s/_some|some]] startling or sudden [[m/_means|means]].**
+- **To [[s/_send|send]] by [[s/_some|some]] [[s/_startling|startling]] or sudden [[m/_means|means]].**
 - **To [[b/_burst|burst]] [[o/_out|out]] [[i/_into|into]] violence.**
 - **To [[p/_perform|perform]] a [[f/_flash|flash]].**
 - **To [[r/_release|release]] the [[p/_pressure|pressure]] from a [[p/_pressurized|pressurized]] vessel.**
 - **To trick up in a [[s/_showy|showy]] [[m/_manner|manner]].**
-- **To strike and throw up [[l/_large|large]] [[b/_bodies|bodies]] of water from the surface; to splash.**
+- **To [[s/_strike|strike]] and throw up [[l/_large|large]] [[b/_bodies|bodies]] of water from the surface; to [[s/_splash|splash]].**
 ---
 ### Synonyms
 - [[b/_beep|beep]], [[g/_glint|glint]]

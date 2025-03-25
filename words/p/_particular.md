@@ -7,12 +7,12 @@
 ---
 #adjective
 - **[[p/_pertaining|Pertaining]] [[o/_only|only]] to a [[p/_part|part]] of [[s/_something|something]]; [[p/_partial|partial]].**
-- **Specific; [[d/_discrete|discrete]]; [[c/_concrete|concrete]].**
+- **[[s/_specific|Specific]]; [[d/_discrete|discrete]]; [[c/_concrete|concrete]].**
 	- _Example: I couldn't find the particular model you asked for, but I hope this one will do._
-- **Specialised; [[c/_characteristic|characteristic]] of a specific [[p/_person|person]] or thing.**
+- **[[s/_specialised|Specialised]]; [[c/_characteristic|characteristic]] of a [[s/_specific|specific]] [[p/_person|person]] or thing.**
 	- _Example: I don't appreciate your particular brand of cynicism._
 - **[[k/_known|Known]] [[o/_only|only]] to an [[i/_individual|individual]] [[p/_person|person]] or [[g/_group|group]]; [[c/_confidential|confidential]].**
-- **[[d/_distinguished|Distinguished]] in [[s/_some|some]] way; special ([[o/_often|often]] in [[n/_negative|negative]] [[c/_constructions|constructions]]).**
+- **[[d/_distinguished|Distinguished]] in [[s/_some|some]] way; [[s/_special|special]] ([[o/_often|often]] in [[n/_negative|negative]] [[c/_constructions|constructions]]).**
 	- _Example: He brought no particular news._
 - **Of a [[p/_person|person]], [[c/_concerned|concerned]] with, or [[a/_attentive|attentive]] to, [[d/_details|details]]; [[m/_minute|minute]]; [[p/_precise|precise]]; [[f/_fastidious|fastidious]].**
 	- _Example: He is very particular about his food and if it isn't cooked to perfection he will send it back._

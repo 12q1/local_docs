@@ -1,7 +1,7 @@
 # Compassing
 ---
 #verb
-- **To surround; to [[e/_encircle|encircle]]; to [[e/_environ|environ]]; to stretch [[r/_round|round]].**
+- **To surround; to [[e/_encircle|encircle]]; to [[e/_environ|environ]]; to [[s/_stretch|stretch]] [[r/_round|round]].**
 - **To [[g/_go|go]] [[a/_about|about]] or [[r/_round|round]] [[e/_entirely|entirely]]; to traverse.**
 - **To [[a/_accomplish|accomplish]]; to [[r/_reach|reach]]; to [[a/_achieve|achieve]]; to [[o/_obtain|obtain]].**
 - **To [[p/_plot|plot]]; to [[s/_scheme|scheme]] ([[a/_against|against]] [[s/_someone|someone]]).**

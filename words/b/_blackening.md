@@ -11,6 +11,6 @@
 ### Synonyms
 - [[d/_defame|defame]], [[d/_denigrate|denigrate]], [[s/_sully|sully]], [[t/_taint|taint]], [[t/_tarnish|tarnish]], [[b/_black|black]], [[d/_denigrate|denigrate]], [[d/_dirty|dirty]], [[s/_soil|soil]]
 #noun
-- **The [[a/_act|act]] of turning [[b/_black|black]] in [[c/_colour|colour]]; a [[b/_black|black]] stain or [[m/_mark|mark]].**
+- **The [[a/_act|act]] of turning [[b/_black|black]] in [[c/_colour|colour]]; a [[b/_black|black]] [[s/_stain|stain]] or [[m/_mark|mark]].**
 ---
 ---

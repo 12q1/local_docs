@@ -10,7 +10,7 @@
 ### Synonyms
 - [[s/_s.ap.|s.ap.]]
 #noun
-- **[[e/_each|Each]] of the [[f/_four|four]] [[d/_divisions|divisions]] of a [[y/_year|year]]: spring, summer, [[a/_autumn|autumn]] ([[f/_fall|fall]]) and winter**
+- **[[e/_each|Each]] of the [[f/_four|four]] [[d/_divisions|divisions]] of a [[y/_year|year]]: [[s/_spring|spring]], summer, [[a/_autumn|autumn]] ([[f/_fall|fall]]) and winter**
 - **A [[p/_part|part]] of a [[y/_year|year]] when [[s/_something|something]] [[p/_particular|particular]] [[h/_happens|happens]]**
 	- _Example: mating season_
 - **That which [[g/_gives|gives]] [[r/_relish|relish]]; [[s/_seasoning|seasoning]].**
@@ -27,13 +27,13 @@
 - **A [[c/_coin|coin]] [[f/_formerly|formerly]] used in the United [[k/_kingdom|Kingdom]], [[i/_ireland|Ireland]], [[m/_malta|Malta]], [[a/_australia|Australia]], [[n/_new|New]] Zealand and [[m/_many|many]] [[o/_other|other]] [[c/_commonwealth|Commonwealth]] [[c/_countries|countries]].**
 	- _Example: The shilling was worth twelve old pence, or one twentieth of a pound sterling._
 - **The [[c/_currency|currency]] of [[k/_kenya|Kenya]], [[s/_somalia|Somalia]], Tanzania and Uganda.**
-- **A [[c/_currency|currency]] in the United States, [[d/_differing|differing]] in value [[b/_between|between]] states.**
-- **([[n/_new|New]] [[y/_york|York]] and [[s/_some|some]] [[o/_other|other]] states) The [[s/_spanish|Spanish]] [[r/_real|real]], [[f/_formerly|formerly]] [[h/_having|having]] the value of [[o/_one|one]] [[e/_eighth|eighth]] of a [[d/_dollar|dollar]].**
+- **A [[c/_currency|currency]] in the United [[s/_states|States]], [[d/_differing|differing]] in value [[b/_between|between]] [[s/_states|states]].**
+- **([[n/_new|New]] [[y/_york|York]] and [[s/_some|some]] [[o/_other|other]] [[s/_states|states]]) The [[s/_spanish|Spanish]] [[r/_real|real]], [[f/_formerly|formerly]] [[h/_having|having]] the value of [[o/_one|one]] [[e/_eighth|eighth]] of a [[d/_dollar|dollar]].**
 ---
 ### Synonyms
 - [[d/_deener|deener]], [[b/_bob|bob]], [[g/_gen|gen]], [[g/_generalise|generalise]], [[h/_hog|hog]]
 #noun
-- **[[o/_one|One]] of the [[f/_four|four]] [[m/_major|major]] [[c/_compass|compass]] [[p/_points|points]], specifically 180°, [[d/_directed|directed]] toward the [[s/_south|South]] [[p/_pole|Pole]], and [[c/_conventionally|conventionally]] [[d/_downwards|downwards]] on a [[m/_map|map]], [[a/_abbreviated|abbreviated]] as [[s/_s|S]].**
+- **[[o/_one|One]] of the [[f/_four|four]] [[m/_major|major]] [[c/_compass|compass]] [[p/_points|points]], [[s/_specifically|specifically]] 180°, [[d/_directed|directed]] toward the [[s/_south|South]] [[p/_pole|Pole]], and [[c/_conventionally|conventionally]] [[d/_downwards|downwards]] on a [[m/_map|map]], [[a/_abbreviated|abbreviated]] as [[s/_s|S]].**
 - **The [[s/_side|side]] of a [[c/_church|church]] on the [[r/_right|right]] [[h/_hand|hand]] of a [[p/_person|person]] [[f/_facing|facing]] the [[a/_altar|altar]].**
 ---
 #noun

@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[c/_change|change]] [[p/_place|place]].**
-- **To [[c/_change|change]] in state or status**
+- **To [[c/_change|change]] in [[s/_state|state]] or [[s/_status|status]]**
 - **To [[m/_move|move]] through time.**
 - **To be [[a/_accepted|accepted]].**
 - **In [[a/_any|any]] [[g/_game|game]], to [[d/_decline|decline]] to [[p/_play|play]] in [[o/_one|one]]'[[s/_s|s]] turn.**
@@ -24,7 +24,7 @@
 - **(postmodifier) [[f/_following|Following]] [[e/_expressions|expressions]] of time to [[i/_indicate|indicate]] [[h/_how|how]] [[l/_long|long]] [[a/_ago|ago]] [[s/_something|something]] [[h/_happened|happened]]; [[a/_ago|ago]].**
 - **Of a [[p/_period|period]] of time: [[h/_having|having]] [[j/_just|just]] [[g/_gone|gone]] by; [[p/_previous|previous]].**
 	- _Example: during the past year_
-- **([[g/_grammar|grammar]]) Of a tense, [[e/_expressing|expressing]] [[a/_action|action]] that [[h/_has|has]] [[a/_already|already]] [[h/_happened|happened]] or a [[p/_previously|previously]]-[[e/_existing|existing]] state.**
+- **([[g/_grammar|grammar]]) Of a tense, [[e/_expressing|expressing]] [[a/_action|action]] that [[h/_has|has]] [[a/_already|already]] [[h/_happened|happened]] or a [[p/_previously|previously]]-[[e/_existing|existing]] [[s/_state|state]].**
 	- _Example: past tense_
 ---
 ### Synonyms
@@ -32,7 +32,7 @@
 #adverb
 - **In a [[d/_direction|direction]] that [[p/_passes|passes]].**
 	- _Example: I watched him walk past_
-- **[[p/_passing|Passing]] by, [[e/_especially|especially]] without stopping or [[b/_being|being]] [[d/_delayed|delayed]].**
+- **[[p/_passing|Passing]] by, [[e/_especially|especially]] without [[s/_stopping|stopping]] or [[b/_being|being]] [[d/_delayed|delayed]].**
 	- _Example: Ignore them, we'll play past them._
 ---
 ### Synonyms

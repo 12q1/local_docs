@@ -1,7 +1,7 @@
 # Imperial
 ---
 #noun
-- **A [[b/_bottle|bottle]] of wine (usually [[b/_bordeaux|Bordeaux]]) [[c/_containing|containing]] 6 [[l/_liters|liters]] of [[f/_fluid|fluid]], [[e/_eight|eight]] times the volume of a standard [[b/_bottle|bottle]].**
+- **A [[b/_bottle|bottle]] of wine (usually [[b/_bordeaux|Bordeaux]]) [[c/_containing|containing]] 6 [[l/_liters|liters]] of [[f/_fluid|fluid]], [[e/_eight|eight]] times the volume of a [[s/_standard|standard]] [[b/_bottle|bottle]].**
 - **A writing [[p/_paper|paper]] [[s/_size|size]] [[m/_measuring|measuring]] 30 × 22 [[i/_inches|inches]], or [[p/_printing|printing]] [[p/_paper|paper]] [[m/_measuring|measuring]] 32 × 22 [[i/_inches|inches]].**
 - **A [[c/_card|card]] [[g/_game|game]] [[d/_differing|differing]] from [[p/_piquet|piquet]] in [[s/_some|some]] [[m/_minor|minor]] [[d/_details|details]], and in [[h/_having|having]] a trump.**
 - **[[a/_any|Any]] of [[s/_several|several]] [[c/_combinations|combinations]] of [[c/_cards|cards]] which [[s/_score|score]] in this [[g/_game|game]].**
@@ -17,7 +17,7 @@
 - **[[r/_related|Related]] to an [[e/_empire|empire]], [[e/_emperor|emperor]], or [[e/_empress|empress]].**
 - **[[r/_relating|Relating]] to the [[b/_british|British]] [[i/_imperial|imperial]] [[s/_system|system]] of [[m/_measurement|measurement]].**
 - **Very [[g/_grand|grand]] or [[f/_fine|fine]].**
-- **Of special, superior, or unusual [[s/_size|size]] or [[e/_excellence|excellence]].**
+- **Of [[s/_special|special]], superior, or unusual [[s/_size|size]] or [[e/_excellence|excellence]].**
 ---
 ### Synonyms
 - 

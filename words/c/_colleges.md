@@ -6,14 +6,14 @@
 	- _Example: College of Cardinals, College of Surgeons_
 - **An [[e/_electoral|electoral]] [[c/_college|college]].**
 - **An [[a/_academic|academic]] [[i/_institution|institution]].**
-- **A specialized [[d/_division|division]] of a university.**
+- **A [[s/_specialized|specialized]] [[d/_division|division]] of a university.**
 	- _Example: College of Engineering_
 - **An [[i/_institution|institution]] of [[h/_higher|higher]] [[e/_education|education]] teaching undergraduates.**
 - **A university.**
 - **[[a/_attendance|Attendance]] at an [[i/_institution|institution]] of [[h/_higher|higher]] [[e/_education|education]].**
 	- _Example: These should be his college years, but he joined the Army._
 - **A postsecondary [[i/_institution|institution]] that [[o/_offers|offers]] vocational training and/or [[a/_associate|associate]]'[[s/_s|s]] [[d/_degrees|degrees]].**
-- **A [[n/_non|non]]-specialized, [[s/_semi|semi]]-[[a/_autonomous|autonomous]] [[d/_division|division]] of a university, with [[i/_its|its]] [[o/_own|own]] [[f/_faculty|faculty]], [[d/_departments|departments]], [[l/_library|library]], [[e/_etc|etc]].**
+- **A [[n/_non|non]]-[[s/_specialized|specialized]], [[s/_semi|semi]]-[[a/_autonomous|autonomous]] [[d/_division|division]] of a university, with [[i/_its|its]] [[o/_own|own]] [[f/_faculty|faculty]], [[d/_departments|departments]], [[l/_library|library]], [[e/_etc|etc]].**
 	- _Example: Pembroke College, Cambridge; Balliol College, Oxford; University College, London_
 - **An [[i/_institution|institution]] of [[f/_further|further]] [[e/_education|education]] at an [[i/_intermediate|intermediate]] [[l/_level|level]]; [[s/_sixth|sixth]] [[f/_form|form]].**
 - **An [[i/_institution|institution]] for [[a/_adult|adult]] [[e/_education|education]] at a [[b/_basic|basic]] or [[i/_intermediate|intermediate]] [[l/_level|level]] (teaching those of [[a/_any|any]] [[a/_age|age]]).**

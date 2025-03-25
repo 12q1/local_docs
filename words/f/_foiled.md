@@ -8,7 +8,7 @@
 	- _Example: I was foiled by my superior_
 - **To [[p/_prevent|prevent]] ([[s/_someone|someone]]) from [[a/_accomplishing|accomplishing]] [[s/_something|something]].**
 	- _Example: They foiled my plans._
-- **To [[b/_blunt|blunt]]; to [[d/_dull|dull]]; to spoil.**
+- **To [[b/_blunt|blunt]]; to [[d/_dull|dull]]; to [[s/_spoil|spoil]].**
 	- _Example: to foil the scent in hunting_
 - **To tread underfoot; to trample.**
 ---

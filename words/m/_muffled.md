@@ -9,6 +9,6 @@
 - **To [[p/_prevent|prevent]] [[s/_seeing|seeing]], or [[h/_hearing|hearing]], or [[s/_speaking|speaking]], by wraps [[b/_bound|bound]] [[a/_about|about]] the [[h/_head|head]]; to [[b/_blindfold|blindfold]]; to [[d/_deafen|deafen]].**
 ---
 #adjective
-- **(of a [[s/_sound|sound]]) Stifled or [[c/_covered|covered]] up; [[d/_diminished|diminished]] by [[i/_interference|interference]].**
+- **(of a [[s/_sound|sound]]) [[s/_stifled|Stifled]] or [[c/_covered|covered]] up; [[d/_diminished|diminished]] by [[i/_interference|interference]].**
 ---
 ---

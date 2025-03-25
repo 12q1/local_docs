@@ -1,7 +1,7 @@
 # Guttural
 ---
 #noun
-- **A [[h/_harsh|harsh]] and throaty spoken [[s/_sound|sound]]**
+- **A [[h/_harsh|harsh]] and throaty [[s/_spoken|spoken]] [[s/_sound|sound]]**
 ---
 #adjective
 - **[[s/_sounding|Sounding]] [[h/_harsh|harsh]] and throaty.**

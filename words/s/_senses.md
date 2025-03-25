@@ -15,7 +15,7 @@
 	- _Example: The definition of sense in this context, is given in sense 7 of its definition._
 - **[[o/_one|One]] of two [[o/_opposite|opposite]] [[d/_directions|directions]] in which a vector ([[e/_especially|especially]] of [[m/_motion|motion]]) [[m/_may|may]] [[p/_point|point]]. [[s/_see|See]] [[a/_also|also]] [[p/_polarity|polarity]].**
 - **[[o/_one|One]] of two [[o/_opposite|opposite]] [[d/_directions|directions]] of [[r/_rotation|rotation]], [[c/_clockwise|clockwise]] versus [[a/_anti|anti]]-[[c/_clockwise|clockwise]].**
-- **[[r/_referring|Referring]] to the strand of a [[n/_nucleic|nucleic]] [[a/_acid|acid]] that [[d/_directly|directly]] specifies the [[p/_product|product]].**
+- **[[r/_referring|Referring]] to the [[s/_strand|strand]] of a [[n/_nucleic|nucleic]] [[a/_acid|acid]] that [[d/_directly|directly]] [[s/_specifies|specifies]] the [[p/_product|product]].**
 ---
 #verb
 - **To use [[b/_biological|biological]] [[s/_senses|senses]]: to [[e/_either|either]] [[s/_see|see]], [[h/_hear|hear]], [[s/_smell|smell]], taste, or [[f/_feel|feel]].**

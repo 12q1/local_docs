@@ -5,7 +5,7 @@
 	- _Example: Have you tried the vanilla fudge? It's delicious!_
 - **[[l/_light|Light]] or [[f/_frothy|frothy]] [[n/_nonsense|nonsense]].**
 - **A [[d/_deliberately|deliberately]] [[m/_misleading|misleading]] or vague [[a/_answer|answer]].**
-- **A [[m/_made|made]]-up story.**
+- **A [[m/_made|made]]-up [[s/_story|story]].**
 - **A [[l/_less|less]] than [[p/_perfect|perfect]] [[d/_decision|decision]] or [[s/_solution|solution]]; an [[a/_attempt|attempt]] to [[f/_fix|fix]] an [[i/_incorrect|incorrect]] [[s/_solution|solution]] [[a/_after|after]] the [[f/_fact|fact]].**
 ---
 ### Synonyms
@@ -13,7 +13,7 @@
 #verb
 - **To try to [[a/_avoid|avoid]] [[g/_giving|giving]] a [[d/_direct|direct]] [[a/_answer|answer]].**
 	- _Example: When I asked them if they had been at the party, they fudged._
-- **To [[a/_alter|alter]] [[s/_something|something]] from [[i/_its|its]] true state, as to [[h/_hide|hide]] a [[f/_flaw|flaw]] or uncertainty. [[a/_always|Always]] [[d/_deliberate|deliberate]], but not [[n/_necessarily|necessarily]] [[d/_dishonest|dishonest]] or [[i/_immoral|immoral]].**
+- **To [[a/_alter|alter]] [[s/_something|something]] from [[i/_its|its]] true [[s/_state|state]], as to [[h/_hide|hide]] a [[f/_flaw|flaw]] or uncertainty. [[a/_always|Always]] [[d/_deliberate|deliberate]], but not [[n/_necessarily|necessarily]] [[d/_dishonest|dishonest]] or [[i/_immoral|immoral]].**
 	- _Example: Do you fudge your age?_
 - **To [[b/_botch|botch]] or [[b/_bungle|bungle]] [[s/_something|something]].**
 - **To [[c/_cheat|cheat]], [[e/_especially|especially]] in the [[g/_game|game]] of [[m/_marbles|marbles]].**

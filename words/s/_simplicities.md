@@ -1,7 +1,7 @@
 # Simplicities
 ---
 #noun
-- **The state or [[q/_quality|quality]] of [[b/_being|being]] [[s/_simple|simple]]**
+- **The [[s/_state|state]] or [[q/_quality|quality]] of [[b/_being|being]] [[s/_simple|simple]]**
 - **An [[a/_act|act]] or [[i/_instance|instance]] of [[f/_foolishness|foolishness]].**
 ---
 ### Synonyms

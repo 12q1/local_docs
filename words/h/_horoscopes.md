@@ -1,7 +1,7 @@
 # Horoscopes
 ---
 #noun
-- **The [[p/_position|position]] of the [[p/_planets|planets]] and stars at the [[m/_moment|moment]] of [[s/_someone|someone]]'[[s/_s|s]] [[b/_birth|birth]]; a [[d/_diagram|diagram]] of such [[p/_positions|positions]].**
+- **The [[p/_position|position]] of the [[p/_planets|planets]] and [[s/_stars|stars]] at the [[m/_moment|moment]] of [[s/_someone|someone]]'[[s/_s|s]] [[b/_birth|birth]]; a [[d/_diagram|diagram]] of such [[p/_positions|positions]].**
 - **An [[a/_astrological|astrological]] [[f/_forecast|forecast]] of a [[p/_person|person]]'[[s/_s|s]] [[f/_future|future]] [[b/_based|based]] on such [[i/_information|information]].**
 ---
 ### Synonyms

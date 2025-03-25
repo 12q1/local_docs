@@ -1,7 +1,7 @@
 # Drug
 ---
 #noun
-- **A substance used to treat an [[i/_illness|illness]], [[r/_relieve|relieve]] a [[s/_symptom|symptom]], or [[m/_modify|modify]] a [[c/_chemical|chemical]] [[p/_process|process]] in the [[b/_body|body]] for a specific [[p/_purpose|purpose]].**
+- **A substance used to treat an [[i/_illness|illness]], [[r/_relieve|relieve]] a [[s/_symptom|symptom]], or [[m/_modify|modify]] a [[c/_chemical|chemical]] [[p/_process|process]] in the [[b/_body|body]] for a [[s/_specific|specific]] [[p/_purpose|purpose]].**
 	- _Example: Aspirin is a drug that reduces pain, acts against inflammation and lowers body temperature._
 - **A [[p/_psychoactive|psychoactive]] substance, [[e/_especially|especially]] [[o/_one|one]] which is [[i/_illegal|illegal]] and [[a/_addictive|addictive]], [[i/_ingested|ingested]] for [[r/_recreational|recreational]] use, such as [[c/_cocaine|cocaine]].**
 - **[[a/_anything|Anything]], such as a substance, [[e/_emotion|emotion]] or [[a/_action|action]], to which [[o/_one|one]] is [[a/_addicted|addicted]].**

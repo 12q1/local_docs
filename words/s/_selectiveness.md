@@ -1,6 +1,6 @@
 # Selectiveness
 ---
 #noun
-- **The state of [[b/_being|being]] [[s/_selective|selective]]; [[d/_discernment|discernment]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[s/_selective|selective]]; [[d/_discernment|discernment]].**
 ---
 ---

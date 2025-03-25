@@ -1,6 +1,6 @@
 # Clodpoles
 ---
 #noun
-- **A stupid [[p/_person|person]]; [[b/_blockhead|blockhead]]**
+- **A [[s/_stupid|stupid]] [[p/_person|person]]; [[b/_blockhead|blockhead]]**
 ---
 ---

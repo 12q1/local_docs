@@ -1,7 +1,7 @@
 # Indentation
 ---
 #noun
-- **The [[a/_act|act]] of [[i/_indenting|indenting]] or state of [[b/_being|being]] [[i/_indented|indented]].**
+- **The [[a/_act|act]] of [[i/_indenting|indenting]] or [[s/_state|state]] of [[b/_being|being]] [[i/_indented|indented]].**
 - **A [[n/_notch|notch]] or [[r/_recess|recess]], in the [[m/_margin|margin]] or [[b/_border|border]] of [[a/_anything|anything]]**
 	- _Example: indentations of the coast_
 - **A [[r/_recess|recess]] or [[s/_sharp|sharp]] [[d/_depression|depression]] in [[a/_any|any]] surface.**

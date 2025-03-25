@@ -1,7 +1,7 @@
 # Repulse
 ---
 #noun
-- **The [[a/_act|act]] of [[r/_repulsing|repulsing]] or the state of [[b/_being|being]] [[r/_repulsed|repulsed]]**
+- **The [[a/_act|act]] of [[r/_repulsing|repulsing]] or the [[s/_state|state]] of [[b/_being|being]] [[r/_repulsed|repulsed]]**
 - **[[r/_refusal|Refusal]], [[r/_rejection|rejection]] or [[r/_repulsion|repulsion]]**
 ---
 #verb

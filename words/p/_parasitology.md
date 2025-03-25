@@ -1,6 +1,6 @@
 # Parasitology
 ---
 #noun
-- **A study of [[p/_parasites|parasites]].**
+- **A [[s/_study|study]] of [[p/_parasites|parasites]].**
 ---
 ---

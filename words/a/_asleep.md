@@ -1,7 +1,7 @@
 # Asleep
 ---
 #adjective
-- **In a state of [[s/_sleep|sleep]]; [[a/_also|also]], [[b/_broadly|broadly]], [[r/_resting|resting]].**
+- **In a [[s/_state|state]] of [[s/_sleep|sleep]]; [[a/_also|also]], [[b/_broadly|broadly]], [[r/_resting|resting]].**
 	- _Example: I was asleep when you called._
 - **[[i/_inattentive|Inattentive]].**
 	- _Example: How could you miss that? Were you asleep?_

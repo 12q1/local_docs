@@ -15,10 +15,10 @@
 ---
 #verb
 - **To [[b/_bombard|bombard]] with [[c/_cannons|cannons]].**
-- **To [[p/_play|play]] the [[c/_carom|carom]] [[b/_billiard|billiard]] [[s/_shot|shot]]. To strike two [[b/_balls|balls]] with the [[c/_cue|cue]] [[b/_ball|ball]]**
+- **To [[p/_play|play]] the [[c/_carom|carom]] [[b/_billiard|billiard]] [[s/_shot|shot]]. To [[s/_strike|strike]] two [[b/_balls|balls]] with the [[c/_cue|cue]] [[b/_ball|ball]]**
 	- _Example: The white cannoned off the red onto the pink._
-- **To [[f/_fire|fire]] [[s/_something|something]], [[e/_especially|especially]] spherical, [[r/_rapidly|rapidly]].**
-- **To [[c/_collide|collide]] or strike violently, [[e/_especially|especially]] [[s/_so|so]] as to [[g/_glance|glance]] [[o/_off|off]] or [[r/_rebound|rebound]].**
+- **To [[f/_fire|fire]] [[s/_something|something]], [[e/_especially|especially]] [[s/_spherical|spherical]], [[r/_rapidly|rapidly]].**
+- **To [[c/_collide|collide]] or [[s/_strike|strike]] violently, [[e/_especially|especially]] [[s/_so|so]] as to [[g/_glance|glance]] [[o/_off|off]] or [[r/_rebound|rebound]].**
 ---
 #noun
 - **A [[g/_generally|generally]] [[a/_accepted|accepted]] [[p/_principle|principle]]; a [[r/_rule|rule]].**
@@ -34,12 +34,12 @@
 - **A [[m/_member|member]] of a [[c/_cathedral|cathedral]] [[c/_chapter|chapter]]; [[o/_one|one]] who [[p/_possesses|possesses]] a [[p/_prebend|prebend]] in a [[c/_cathedral|cathedral]] or [[c/_collegiate|collegiate]] [[c/_church|church]].**
 - **A [[p/_piece|piece]] of [[m/_music|music]] in which the [[s/_same|same]] [[m/_melody|melody]] is [[p/_played|played]] by [[d/_different|different]] voices, but [[b/_beginning|beginning]] at [[d/_different|different]] times; a [[r/_round|round]].**
 	- _Example: Pachelbel’s Canon has become very popular._
-- **([[r/_roman|Roman]] [[l/_law|law]]) A [[r/_rent|rent]] or stipend [[p/_payable|payable]] at [[s/_some|some]] [[r/_regular|regular]] time, [[g/_generally|generally]] [[a/_annual|annual]], [[e/_e|e]].[[g/_g|g]]., [[c/_canon|canon]] frumentarius**
+- **([[r/_roman|Roman]] [[l/_law|law]]) A [[r/_rent|rent]] or [[s/_stipend|stipend]] [[p/_payable|payable]] at [[s/_some|some]] [[r/_regular|regular]] time, [[g/_generally|generally]] [[a/_annual|annual]], [[e/_e|e]].[[g/_g|g]]., [[c/_canon|canon]] frumentarius**
 - **Those [[s/_sources|sources]], [[e/_especially|especially]] [[i/_including|including]] [[l/_literary|literary]] works, which are [[c/_considered|considered]] [[p/_part|part]] of the [[m/_main|main]] [[c/_continuity|continuity]] [[r/_regarding|regarding]] a [[g/_given|given]] [[f/_fictional|fictional]] universe.**
 	- _Example: A spin-off book series revealed the aliens to be originally from Earth, but it's not canon._
 - **A [[r/_rolled|rolled]] and [[f/_filleted|filleted]] [[l/_loin|loin]] of [[m/_meat|meat]]; [[a/_also|also]] [[c/_called|called]] [[c/_cannon|cannon]].**
 	- _Example: a canon of beef or lamb_
-- **A [[l/_large|large]] [[s/_size|size]] of type [[f/_formerly|formerly]] used for [[p/_printing|printing]] the [[c/_church|church]] [[c/_canons|canons]], standardized as 48-[[p/_point|point]].**
+- **A [[l/_large|large]] [[s/_size|size]] of type [[f/_formerly|formerly]] used for [[p/_printing|printing]] the [[c/_church|church]] [[c/_canons|canons]], [[s/_standardized|standardized]] as 48-[[p/_point|point]].**
 - **The [[p/_part|part]] of a [[b/_bell|bell]] by which it is suspended; the [[e/_ear|ear]] or [[s/_shank|shank]] of a [[b/_bell|bell]].**
 - **A [[c/_carom|carom]].**
 ---
@@ -50,6 +50,6 @@
 - **A [[c/_canon|canon]] [[r/_regular|regular]], a [[m/_member|member]] of [[a/_any|any]] of [[s/_several|several]] [[r/_roman|Roman]] [[c/_catholic|Catholic]] [[r/_religious|religious]] [[o/_orders|orders]].**
 ---
 #noun
-- **A [[n/_near|Near]] [[e/_eastern|Eastern]] and [[c/_caucasian|Caucasian]] [[m/_musical|musical]] [[i/_instrument|instrument]] [[r/_related|related]] to the zither, [[d/_dulcimer|dulcimer]], or [[h/_harp|harp]] [[h/_having|having]] [[e/_either|either]] 26 strings and a [[s/_single|single]] [[b/_bridge|bridge]], or twice that [[n/_number|number]] and two [[b/_bridges|bridges]].**
+- **A [[n/_near|Near]] [[e/_eastern|Eastern]] and [[c/_caucasian|Caucasian]] [[m/_musical|musical]] [[i/_instrument|instrument]] [[r/_related|related]] to the zither, [[d/_dulcimer|dulcimer]], or [[h/_harp|harp]] [[h/_having|having]] [[e/_either|either]] 26 [[s/_strings|strings]] and a [[s/_single|single]] [[b/_bridge|bridge]], or twice that [[n/_number|number]] and two [[b/_bridges|bridges]].**
 ---
 ---

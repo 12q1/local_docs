@@ -1,8 +1,8 @@
 # Coyote
 ---
 #noun
-- **[[c/_canis|Canis]] latrans, a species of [[c/_canine|canine]] [[n/_native|native]] to [[n/_north|North]] [[a/_america|America]].**
-- **A [[s/_smuggler|smuggler]] of undocumented [[i/_immigrants|immigrants]] [[a/_across|across]] the [[l/_land|land]] [[b/_border|border]] from [[l/_latin|Latin]] [[a/_america|America]] [[i/_into|into]] the United States of [[a/_america|America]].**
+- **[[c/_canis|Canis]] latrans, a [[s/_species|species]] of [[c/_canine|canine]] [[n/_native|native]] to [[n/_north|North]] [[a/_america|America]].**
+- **A [[s/_smuggler|smuggler]] of undocumented [[i/_immigrants|immigrants]] [[a/_across|across]] the [[l/_land|land]] [[b/_border|border]] from [[l/_latin|Latin]] [[a/_america|America]] [[i/_into|into]] the United [[s/_states|States]] of [[a/_america|America]].**
 ---
 ### Synonyms
 - 

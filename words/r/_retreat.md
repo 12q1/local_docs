@@ -6,7 +6,7 @@
 - **A [[p/_peaceful|peaceful]], [[q/_quiet|quiet]] [[p/_place|place]] [[a/_affording|affording]] [[p/_privacy|privacy]] or [[s/_security|security]].**
 - **A [[p/_peaceful|peaceful]], [[q/_quiet|quiet]] [[p/_place|place]] in which to urinate and [[d/_defecate|defecate]]: an [[o/_outhouse|outhouse]]; a [[l/_lavatory|lavatory]].**
 - **A [[p/_period|period]] of [[r/_retirement|retirement]], [[s/_seclusion|seclusion]], or [[s/_solitude|solitude]].**
-- **A [[p/_period|period]] of [[m/_meditation|meditation]], [[p/_prayer|prayer]] or study.**
+- **A [[p/_period|period]] of [[m/_meditation|meditation]], [[p/_prayer|prayer]] or [[s/_study|study]].**
 - **Withdrawal by [[m/_military|military]] [[f/_force|force]] from a [[d/_dangerous|dangerous]] [[p/_position|position]] or from [[e/_enemy|enemy]] [[a/_attack|attack]].**
 - **A [[s/_signal|signal]] for a [[m/_military|military]] withdrawal.**
 - **A [[b/_bugle|bugle]] [[c/_call|call]] or [[d/_drumbeat|drumbeat]] [[s/_signaling|signaling]] the [[l/_lowering|lowering]] of the [[f/_flag|flag]] at sunset, as on a [[m/_military|military]] [[b/_base|base]].**

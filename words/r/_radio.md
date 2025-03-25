@@ -5,7 +5,7 @@
 - **A [[d/_device|device]] that [[c/_can|can]] [[c/_capture|capture]] ([[r/_receive|receive]]) the [[s/_signal|signal]] [[s/_sent|sent]] [[o/_over|over]] [[r/_radio|radio]] waves and [[r/_render|render]] the [[m/_modulated|modulated]] [[s/_signal|signal]] as [[s/_sound|sound]].**
 - **On-[[b/_board|board]] [[e/_entertainment|entertainment]] [[s/_system|system]] in a [[c/_car|car]], usually [[i/_including|including]] a [[r/_radio|radio]] [[r/_receiver|receiver]] as well as the [[c/_capability|capability]] to [[p/_play|play]] [[a/_audio|audio]] from [[r/_recorded|recorded]] [[m/_media|media]].**
 - **A [[d/_device|device]] that [[c/_can|can]] transmit [[r/_radio|radio]] [[s/_signals|signals]].**
-- **The [[c/_continuous|continuous]] [[b/_broadcasting|broadcasting]] of [[s/_sound|sound]] via the [[i/_internet|Internet]] in the style of traditional [[r/_radio|radio]].**
+- **The [[c/_continuous|continuous]] [[b/_broadcasting|broadcasting]] of [[s/_sound|sound]] via the [[i/_internet|Internet]] in the [[s/_style|style]] of traditional [[r/_radio|radio]].**
 ---
 ### Synonyms
 - [[r/_receiver|receiver]], [[t/_tuner|tuner]], [[w/_wireless|wireless]]

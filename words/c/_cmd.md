@@ -12,7 +12,7 @@
 - **The [[a/_act|act]] of [[c/_commanding|commanding]]; [[e/_exercise|exercise]] or [[a/_authority|authority]] of [[i/_influence|influence]].**
 - **A [[b/_body|body]] or troops, or [[a/_any|any]] [[n/_naval|naval]] or [[m/_military|military]] [[f/_force|force]], under the [[c/_control|control]] of a [[p/_particular|particular]] [[o/_officer|officer]]; by [[e/_extension|extension]], [[a/_any|any]] [[o/_object|object]] or [[b/_body|body]] in [[s/_someone|someone]]'[[s/_s|s]] [[c/_charge|charge]].**
 - **[[d/_dominating|Dominating]] [[s/_situation|situation]]; [[r/_range|range]] or [[c/_control|control]] or [[o/_oversight|oversight]]; [[e/_extent|extent]] of view or [[o/_outlook|outlook]].**
-- **A [[d/_directive|directive]] to a [[c/_computer|computer]] [[p/_program|program]] [[a/_acting|acting]] as an [[i/_interpreter|interpreter]] of [[s/_some|some]] [[k/_kind|kind]], in [[o/_order|order]] to [[p/_perform|perform]] a specific task.**
+- **A [[d/_directive|directive]] to a [[c/_computer|computer]] [[p/_program|program]] [[a/_acting|acting]] as an [[i/_interpreter|interpreter]] of [[s/_some|some]] [[k/_kind|kind]], in [[o/_order|order]] to [[p/_perform|perform]] a [[s/_specific|specific]] task.**
 - **The [[d/_degree|degree]] of [[c/_control|control]] a [[p/_pitcher|pitcher]] [[h/_has|has]] [[o/_over|over]] [[h/_his|his]] [[p/_pitches|pitches]].**
 	- _Example: He's got good command tonight._
 - **A [[c/_command|command]] [[p/_performance|performance]].**

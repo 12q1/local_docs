@@ -5,7 +5,7 @@
 	- _Example: I got a letter from my brother._
 - **[[o/_originating|Originating]] at (a [[y/_year|year]], time, [[e/_etc|etc]].)**
 	- _Example: This manuscript is from the 1980s._
-- **Used to [[i/_indicate|indicate]] a starting [[p/_point|point]] or [[i/_initial|initial]] [[r/_reference|reference]].**
+- **Used to [[i/_indicate|indicate]] a [[s/_starting|starting]] [[p/_point|point]] or [[i/_initial|initial]] [[r/_reference|reference]].**
 	- _Example: Face away from the wall!_
 - **[[i/_indicating|Indicating]] [[r/_removal|removal]] or [[s/_separation|separation]].**
 	- _Example: After twenty minutes, remove the cake from the oven._

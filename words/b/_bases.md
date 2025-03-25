@@ -2,14 +2,14 @@
 ---
 #noun
 - **[[s/_something|Something]] from which [[o/_other|other]] things [[e/_extend|extend]]; a [[f/_foundation|foundation]].**
-- **The starting [[p/_point|point]] of a [[l/_logical|logical]] [[d/_deduction|deduction]] or thought; [[b/_basis|basis]].**
-- **A [[p/_permanent|permanent]] structure for [[h/_housing|housing]] [[m/_military|military]] [[p/_personnel|personnel]] and [[m/_material|material]].**
+- **The [[s/_starting|starting]] [[p/_point|point]] of a [[l/_logical|logical]] [[d/_deduction|deduction]] or thought; [[b/_basis|basis]].**
+- **A [[p/_permanent|permanent]] [[s/_structure|structure]] for [[h/_housing|housing]] [[m/_military|military]] [[p/_personnel|personnel]] and [[m/_material|material]].**
 - **The [[p/_place|place]] where [[d/_decisions|decisions]] for an [[o/_organization|organization]] are [[m/_made|made]]; [[h/_headquarters|headquarters]].**
 - **A [[b/_basic|basic]] but [[e/_essential|essential]] [[c/_component|component]] or [[i/_ingredient|ingredient]].**
 - **A substance used as a [[m/_mordant|mordant]] in [[d/_dyeing|dyeing]].**
 - **[[f/_foundation|Foundation]]: a [[c/_cosmetic|cosmetic]] [[c/_cream|cream]] to [[m/_make|make]] the [[f/_face|face]] [[a/_appear|appear]] uniform.**
 - **[[a/_any|Any]] of a [[c/_class|class]] of [[g/_generally|generally]] water-[[s/_soluble|soluble]] [[c/_compounds|compounds]], [[h/_having|having]] [[b/_bitter|bitter]] taste, that turn [[r/_red|red]] [[l/_litmus|litmus]] [[b/_blue|blue]], and [[r/_react|react]] with [[a/_acids|acids]] to [[f/_form|form]] [[s/_salts|salts]].**
-- **[[i/_important|Important]] [[a/_areas|areas]] in [[g/_games|games]] and sports.**
+- **[[i/_important|Important]] [[a/_areas|areas]] in [[g/_games|games]] and [[s/_sports|sports]].**
 - **The [[l/_lowermost|lowermost]] [[p/_part|part]] of a [[c/_column|column]], [[b/_between|between]] the [[s/_shaft|shaft]] and the [[p/_pedestal|pedestal]] or [[p/_pavement|pavement]].**
 - **A [[n/_nucleotide|nucleotide]]'[[s/_s|s]] nucleobase in the [[c/_context|context]] of a DNA or RNA biopolymer.**
 - **The [[e/_end|end]] of a [[l/_leaf|leaf]], [[p/_petal|petal]] or [[s/_similar|similar]] [[o/_organ|organ]] where it is [[a/_attached|attached]] to [[i/_its|its]] support.**
@@ -21,7 +21,7 @@
 	- _Example: The logarithm to base 2 of 8 is 3._
 - **The [[s/_set|set]] of [[s/_sets|sets]] from which a topology is [[g/_generated|generated]].**
 - **A topological [[s/_space|space]], [[l/_looked|looked]] at in [[r/_relation|relation]] to [[o/_one|one]] of [[i/_its|its]] [[c/_covering|covering]] [[s/_spaces|spaces]], fibrations, or [[b/_bundles|bundles]].**
-- **A [[s/_sequence|sequence]] of [[e/_elements|elements]] not [[j/_jointly|jointly]] stabilized by [[a/_any|any]] [[n/_nontrivial|nontrivial]] [[g/_group|group]] [[e/_element|element]].**
+- **A [[s/_sequence|sequence]] of [[e/_elements|elements]] not [[j/_jointly|jointly]] [[s/_stabilized|stabilized]] by [[a/_any|any]] [[n/_nontrivial|nontrivial]] [[g/_group|group]] [[e/_element|element]].**
 - **([[a/_acrobatics|acrobatics]], [[c/_cheerleading|cheerleading]]) In [[h/_hand|hand]]-to-[[h/_hand|hand]] [[b/_balance|balance]], the [[p/_person|person]] who supports the [[f/_flyer|flyer]]; the [[p/_person|person]] that [[r/_remains|remains]] in [[c/_contact|contact]] with the [[g/_ground|ground]].**
 - **A [[m/_morpheme|morpheme]] (or [[m/_morphemes|morphemes]]) that [[s/_serves|serves]] as a [[b/_basic|basic]] [[f/_foundation|foundation]] on which [[a/_affixes|affixes]] [[c/_can|can]] be [[a/_attached|attached]].**
 - **The [[s/_smallest|smallest]] [[k/_kind|kind]] of [[c/_cannon|cannon]].**
@@ -40,12 +40,12 @@
 ### Antonyms
 - [[a/_acid|acid]], [[a/_apex|apex]]
 #verb
-- **To [[g/_give|give]] as [[i/_its|its]] [[f/_foundation|foundation]] or starting [[p/_point|point]]; to [[l/_lay|lay]] the [[f/_foundation|foundation]] of.**
+- **To [[g/_give|give]] as [[i/_its|its]] [[f/_foundation|foundation]] or [[s/_starting|starting]] [[p/_point|point]]; to [[l/_lay|lay]] the [[f/_foundation|foundation]] of.**
 - **To be [[l/_located|located]] (at a [[p/_particular|particular]] [[p/_place|place]]).**
 - **([[a/_acrobatics|acrobatics]], [[c/_cheerleading|cheerleading]]) To [[a/_act|act]] as a [[b/_base|base]]; to be the [[p/_person|person]] supporting the [[f/_flyer|flyer]].**
 ---
 #noun
-- **A [[l/_low|low]] spectrum of [[s/_sound|sound]] tones.**
+- **A [[l/_low|low]] [[s/_spectrum|spectrum]] of [[s/_sound|sound]] tones.**
 	- _Example: Peter adjusted the equalizer on his audio equipment to emphasize the bass._
 - **A [[s/_section|section]] of [[m/_musical|musical]] [[g/_group|group]] that [[p/_produces|produces]] [[l/_low|low]]-[[p/_pitched|pitched]] [[s/_sound|sound]], [[l/_lower|lower]] than the [[b/_baritone|baritone]] and tenor.**
 	- _Example: The conductor preferred to situate the bass in the middle rear, rather than to one side of the orchestra._

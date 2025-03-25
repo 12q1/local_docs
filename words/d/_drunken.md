@@ -14,7 +14,7 @@
 ### Synonyms
 - [[g/_gulp|gulp]], [[i/_imbibe|imbibe]], [[q/_quaff|quaff]], [[s/_sip|sip]], [[a/_alcohol|alcohol]]
 #adjective
-- **[[d/_drunk|Drunk]], in the state of [[i/_intoxication|intoxication]] [[a/_after|after]] [[h/_having|having]] [[d/_drunk|drunk]] an [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]]**
+- **[[d/_drunk|Drunk]], in the [[s/_state|state]] of [[i/_intoxication|intoxication]] [[a/_after|after]] [[h/_having|having]] [[d/_drunk|drunk]] an [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]]**
 	- _Example: "What'll we do with the drunken sailor, ..."_
 - **[[g/_given|Given]] to [[h/_habitual|habitual]] [[e/_excessive|excessive]] use of [[a/_alcohol|alcohol]].**
 - **[[c/_characterized|Characterized]] by or [[r/_resulting|resulting]] from [[d/_drunkenness|drunkenness]].**

@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[o/_one|One]] who [[m/_makes|makes]] [[k/_knickknacks|knickknacks]], toys, [[e/_etc|etc]].**
-- **[[o/_one|One]] of two or [[m/_more|more]] [[p/_pieces|pieces]] of [[b/_bone|bone]] or wood [[h/_held|held]] [[l/_loosely|loosely]] [[b/_between|between]] the [[f/_fingers|fingers]], and struck together by [[m/_moving|moving]] the [[h/_hand|hand]]; a [[c/_clapper|clapper]].**
+- **[[o/_one|One]] of two or [[m/_more|more]] [[p/_pieces|pieces]] of [[b/_bone|bone]] or wood [[h/_held|held]] [[l/_loosely|loosely]] [[b/_between|between]] the [[f/_fingers|fingers]], and [[s/_struck|struck]] together by [[m/_moving|moving]] the [[h/_hand|hand]]; a [[c/_clapper|clapper]].**
 - **A [[h/_harness|harness]] [[m/_maker|maker]].**
 - **[[o/_one|One]] who [[s/_slaughters|slaughters]] and ([[e/_especially|especially]]) [[r/_renders|renders]] worn-[[o/_out|out]] [[l/_livestock|livestock]] ([[e/_especially|especially]] [[h/_horses|horses]]) and [[s/_sells|sells]] their [[f/_flesh|flesh]], [[b/_bones|bones]] and [[h/_hides|hides]].**
 - **[[o/_one|One]] who [[d/_dismantles|dismantles]] [[o/_old|old]] [[s/_ships|ships]], [[h/_houses|houses]], [[e/_etc|etc]]. and [[s/_sells|sells]] their [[c/_components|components]].**

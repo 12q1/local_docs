@@ -3,11 +3,11 @@
 #noun
 - **An [[a/_animal|animal]] of the [[f/_family|family]] [[f/_felidae|Felidae]]:**
 - **A [[p/_person|person]]:**
-- **A strong tackle used to [[h/_hoist|hoist]] an [[a/_anchor|anchor]] to the [[c/_cathead|cathead]] of a [[s/_ship|ship]].**
+- **A [[s/_strong|strong]] tackle used to [[h/_hoist|hoist]] an [[a/_anchor|anchor]] to the [[c/_cathead|cathead]] of a [[s/_ship|ship]].**
 - **[[s/_short|Short]] [[f/_form|form]] of [[c/_cat|cat]]-[[o/_o|o]]'-[[n/_nine|nine]]-tails.**
-- **A sturdy [[m/_merchant|merchant]] [[s/_sailing|sailing]] vessel ([[n/_now|now]] [[o/_only|only]] in "[[c/_catboat|catboat]]").**
+- **A [[s/_sturdy|sturdy]] [[m/_merchant|merchant]] [[s/_sailing|sailing]] vessel ([[n/_now|now]] [[o/_only|only]] in "[[c/_catboat|catboat]]").**
 - **The [[g/_game|game]] of "trap and [[b/_ball|ball]]" ([[a/_also|also]] [[c/_called|called]] "[[c/_cat|cat]] and [[d/_dog|dog]]").**
-- **The [[p/_pointed|pointed]] [[p/_piece|piece]] of wood that is struck in the [[g/_game|game]] of tipcat.**
+- **The [[p/_pointed|pointed]] [[p/_piece|piece]] of wood that is [[s/_struck|struck]] in the [[g/_game|game]] of tipcat.**
 - **A vagina, a vulva; the [[f/_female|female]] [[e/_external|external]] [[g/_genitalia|genitalia]].**
 - **A [[d/_double|double]] tripod (for [[h/_holding|holding]] a [[p/_plate|plate]], [[e/_etc|etc]].) with [[s/_six|six]] [[f/_feet|feet]], of which three [[r/_rest|rest]] on the [[g/_ground|ground]], in whatever [[p/_position|position]] it is [[p/_placed|placed]].**
 - **A wheeled [[s/_shelter|shelter]], used in the [[m/_middle|Middle]] [[a/_ages|Ages]] as a [[s/_siege|siege]] weapon to [[a/_allow|allow]] [[a/_assailants|assailants]] to [[a/_approach|approach]] [[e/_enemy|enemy]] [[d/_defences|defences]].**
@@ -22,7 +22,7 @@
 - **To [[g/_gossip|gossip]] in a [[c/_catty|catty]] [[m/_manner|manner]].**
 ---
 #noun
-- **A [[p/_program|program]] and [[c/_command|command]] in Unix that [[r/_reads|reads]] [[o/_one|one]] or [[m/_more|more]] [[f/_files|files]] and [[d/_directs|directs]] their [[c/_content|content]] to the standard [[o/_output|output]].**
+- **A [[p/_program|program]] and [[c/_command|command]] in Unix that [[r/_reads|reads]] [[o/_one|one]] or [[m/_more|more]] [[f/_files|files]] and [[d/_directs|directs]] their [[c/_content|content]] to the [[s/_standard|standard]] [[o/_output|output]].**
 ---
 #verb
 - **To [[a/_apply|apply]] the [[c/_cat|cat]] [[c/_command|command]] to ([[o/_one|one]] or [[m/_more|more]] [[f/_files|files]]).**
@@ -39,7 +39,7 @@
 #noun
 - **A twin-[[h/_hulled|hulled]] [[s/_ship|ship]] or [[b/_boat|boat]].**
 - **A [[q/_quarrelsome|quarrelsome]] woman; a [[s/_scold|scold]].**
-- **A [[r/_raft|raft]] of three [[p/_pieces|pieces]] of wood [[l/_lashed|lashed]] together, the [[m/_middle|middle]] [[p/_piece|piece]] [[b/_being|being]] [[l/_longer|longer]] than the [[o/_others|others]], and [[s/_serving|serving]] as a [[k/_keel|keel]] on which the [[r/_rower|rower]] squats while [[p/_paddling|paddling]].**
+- **A [[r/_raft|raft]] of three [[p/_pieces|pieces]] of wood [[l/_lashed|lashed]] together, the [[m/_middle|middle]] [[p/_piece|piece]] [[b/_being|being]] [[l/_longer|longer]] than the [[o/_others|others]], and [[s/_serving|serving]] as a [[k/_keel|keel]] on which the [[r/_rower|rower]] [[s/_squats|squats]] while [[p/_paddling|paddling]].**
 - **An [[o/_old|old]] [[k/_kind|kind]] of fireship.**
 ---
 ### Synonyms

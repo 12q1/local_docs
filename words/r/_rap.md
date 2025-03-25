@@ -8,7 +8,7 @@
 - **A [[c/_charge|charge]], whether or not it [[r/_results|results]] in a [[c/_conviction|conviction]].**
 - **A [[c/_casual|casual]] talk.**
 - **[[r/_rap|Rap]] [[m/_music|music]].**
-- **A [[s/_song|song]], verse, or [[i/_instance|instance]] of [[s/_singing|singing]] in the style of [[r/_rap|rap]] [[m/_music|music]].**
+- **A [[s/_song|song]], verse, or [[i/_instance|instance]] of [[s/_singing|singing]] in the [[s/_style|style]] of [[r/_rap|rap]] [[m/_music|music]].**
 - **An [[a/_appraisal|appraisal]].**
 	- _Example: a good/great/bad rap_
 - **A [[p/_positive|positive]] [[a/_appraisal|appraisal]]; a [[r/_recommendation|recommendation]].**

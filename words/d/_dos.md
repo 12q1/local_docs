@@ -7,7 +7,7 @@
 	- _Example: Nice do!_
 - **[[s/_something|Something]] that [[c/_can|can]] or [[s/_should|should]] be [[d/_done|done]] (usually in the [[p/_phrase|phrase]] [[d/_dos|dos]] and [[d/_don|don]]'ts).**
 - **A [[d/_deed|deed]]; an [[a/_act|act]].**
-- **[[a/_ado|Ado]]; [[b/_bustle|bustle]]; stir; to-[[d/_do|do]]; A [[p/_period|period]] of [[c/_confusion|confusion]] or [[a/_argument|argument]].**
+- **[[a/_ado|Ado]]; [[b/_bustle|bustle]]; [[s/_stir|stir]]; to-[[d/_do|do]]; A [[p/_period|period]] of [[c/_confusion|confusion]] or [[a/_argument|argument]].**
 - **A [[c/_cheat|cheat]]; a swindler.**
 - **An [[a/_act|act]] of swindling; a [[f/_fraud|fraud]] or [[d/_deception|deception]].**
 ---

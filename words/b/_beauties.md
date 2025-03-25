@@ -12,7 +12,7 @@
 	- _Example: The beauty of the deal is it costs nothing!_
 - **A [[b/_beauty|beauty]] [[q/_quark|quark]] ([[n/_now|now]] [[c/_called|called]] [[b/_bottom|bottom]] [[q/_quark|quark]]).**
 - **[[b/_beauty|Beauty]] treatment; [[c/_cosmetology|cosmetology]].**
-- **[[p/_prevailing|Prevailing]] style or taste; [[r/_rage|rage]]; [[f/_fashion|fashion]].**
+- **[[p/_prevailing|Prevailing]] [[s/_style|style]] or taste; [[r/_rage|rage]]; [[f/_fashion|fashion]].**
 - **(in the [[p/_plural|plural]]) [[b/_beautiful|Beautiful]] [[p/_passages|passages]] or [[e/_extracts|extracts]] of [[p/_poetry|poetry]].**
 ---
 ### Synonyms

@@ -1,13 +1,13 @@
 # Programs
 ---
 #noun
-- **A [[s/_set|set]] of structured [[a/_activities|activities]].**
+- **A [[s/_set|set]] of [[s/_structured|structured]] [[a/_activities|activities]].**
 	- _Example: Our program for today’s exercise class includes swimming and jogging._
 - **A [[l/_leaflet|leaflet]] [[l/_listing|listing]] [[i/_information|information]] [[a/_about|about]] a [[p/_play|play]], [[g/_game|game]] or [[o/_other|other]] [[a/_activity|activity]].**
 	- _Example: The program consisted of ads for restaurants and the credits of everyone connected with the play._
 - **A [[p/_performance|performance]] of a [[s/_show|show]] or [[o/_other|other]] [[b/_broadcast|broadcast]] on [[r/_radio|radio]] or television.**
 	- _Example: Tonight’s program was hosted by Johnny Carson._
-- **A [[s/_software|software]] [[a/_application|application]], or a [[c/_collection|collection]] of [[s/_software|software]] [[a/_applications|applications]], [[d/_designed|designed]] to [[p/_perform|perform]] a specific task.**
+- **A [[s/_software|software]] [[a/_application|application]], or a [[c/_collection|collection]] of [[s/_software|software]] [[a/_applications|applications]], [[d/_designed|designed]] to [[p/_perform|perform]] a [[s/_specific|specific]] task.**
 	- _Example: The program runs on both Linux and Microsoft Windows._
 - **([[e/_especially|especially]] in the [[p/_phrase|phrase]] "[[g/_get|get]] with the [[p/_program|program]]") A [[p/_particular|particular]] mindset or [[m/_method|method]] of [[d/_doing|doing]] things.**
 ---

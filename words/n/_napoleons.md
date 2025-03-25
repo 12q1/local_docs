@@ -23,14 +23,14 @@
 #noun
 - **The [[f/_franc|franc]] [[g/_germinal|germinal]]: a 20-[[f/_franc|franc]] [[g/_gold|gold]] [[c/_coin|coin]] [[i/_issued|issued]] under [[n/_napoleon|Napoleon]].**
 - **[[o/_other|Other]] subsequent 20-[[f/_franc|franc]] [[c/_coins|coins]], [[n/_notes|notes]], or values.**
-- **(usually [[a/_admiringly|admiringly]] [[d/_derogatory|derogatory]]) A [[p/_person|person]] [[r/_resembling|resembling]] [[n/_napoleon|Napoleon]] Bonaparte, in [[h/_having|having]] [[c/_come|come]] to [[d/_dominate|dominate]] an [[a/_area|area]] or sphere of [[a/_activity|activity]] through [[r/_ruthlessness|ruthlessness]] or [[i/_illegality|illegality]] as well as surpassing [[a/_ability|ability]].**
+- **(usually [[a/_admiringly|admiringly]] [[d/_derogatory|derogatory]]) A [[p/_person|person]] [[r/_resembling|resembling]] [[n/_napoleon|Napoleon]] Bonaparte, in [[h/_having|having]] [[c/_come|come]] to [[d/_dominate|dominate]] an [[a/_area|area]] or [[s/_sphere|sphere]] of [[a/_activity|activity]] through [[r/_ruthlessness|ruthlessness]] or [[i/_illegality|illegality]] as well as surpassing [[a/_ability|ability]].**
 - **[[c/_clipping|Clipping]] of [[n/_napoleon|Napoleon]] [[b/_boot|boot]]: a [[f/_form|form]] of topboot worn by [[o/_officers|officers]] [[d/_during|during]] the [[n/_napoleonic|Napoleonic]] Wars.**
 - **[[c/_clipping|Clipping]] of [[n/_napoleon|Napoleon]] [[g/_gun|gun]]: a 12-[[p/_pounder|pounder]] [[c/_cannon|cannon]] [[f/_first|first]] used by the [[s/_second|Second]] [[f/_french|French]] [[e/_empire|Empire]].**
 - **A 19th-[[c/_century|century]] [[f/_five|five]]-[[c/_card|card]] trick-taking [[g/_game|game]] [[s/_simplified|simplified]] from [[e/_euchre|euchre]].**
 - **[[c/_clipping|Clipping]] of [[n/_napoleon|Napoleon]] [[b/_bigarreau|bigarreau]]: a variety of the white-[[f/_fleshed|fleshed]] [[b/_bigarreau|bigarreau]] [[c/_cherry|cherry]]; a variety of [[c/_cherry|cherry]] tree [[b/_bearing|bearing]] such [[f/_fruit|fruit]].**
-- **([[o/_originally|originally]] United States [[s/_slang|slang]]) [[c/_clipping|Clipping]] of [[n/_napoleon|Napoleon]] [[c/_cake|cake]]: [[a/_another|another]] [[n/_name|name]] for a [[m/_millefeuille|millefeuille]] [[p/_pastry|pastry]].**
+- **([[o/_originally|originally]] United [[s/_states|States]] [[s/_slang|slang]]) [[c/_clipping|Clipping]] of [[n/_napoleon|Napoleon]] [[c/_cake|cake]]: [[a/_another|another]] [[n/_name|name]] for a [[m/_millefeuille|millefeuille]] [[p/_pastry|pastry]].**
 - **([[a/_alcohol|alcohol]]) [[c/_clipping|Clipping]] of [[n/_napoleon|Napoleon]] [[b/_brandy|brandy]]: [[a/_any|any]] [[e/_excellent|excellent]] [[b/_brandy|brandy]]; a [[s/_serving|serving]] of such a [[b/_brandy|brandy]].**
-- **([[p/_pastries|pastries]]) A [[m/_multi|multi]]-[[l/_layered|layered]] stacked [[p/_pastry|pastry]]**
+- **([[p/_pastries|pastries]]) A [[m/_multi|multi]]-[[l/_layered|layered]] [[s/_stacked|stacked]] [[p/_pastry|pastry]]**
 ---
 ### Synonyms
 - [[l/_louis|louis]], [[m/_mille-feuille|mille-feuille]], [[m/_millefeuille|millefeuille]]

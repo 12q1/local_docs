@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[s/_seeking|Seeking]] [[a/_advancement|advancement]].**
-- **Striving for [[r/_recognition|recognition]].**
+- **[[s/_striving|Striving]] for [[r/_recognition|recognition]].**
 ---
 ---

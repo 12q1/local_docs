@@ -10,7 +10,7 @@
 ### Synonyms
 - [[s/_seise|seise]], [[i/_inhold|inhold]]
 #adjective
-- **[[c/_controlled|Controlled]] by [[e/_evil|evil]] spirits.**
+- **[[c/_controlled|Controlled]] by [[e/_evil|evil]] [[s/_spirits|spirits]].**
 	- _Example: He was exorcised because he was thought to be possessed by the Devil._
 - **[[s/_seized|Seized]] by [[p/_powerful|powerful]] [[e/_emotions|emotions]].**
 - **([[c/_construed|construed]] with of) [[h/_having|Having]]; [[o/_owning|owning]].**

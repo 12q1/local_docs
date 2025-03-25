@@ -9,7 +9,7 @@
 ### Synonyms
 - [[g/_geriatric|geriatric]], [[o/_oldster|oldster]], [[a/_antique|antique]], [[a/_antecessor|antecessor]], [[f/_forerunner|forerunner]], [[a/_aged|aged]], [[e/_eldern|eldern]], [[h/_hoary|hoary]]
 #noun
-- **A [[f/_flag|flag]], [[b/_banner|banner]], standard or [[e/_ensign|ensign]].**
+- **A [[f/_flag|flag]], [[b/_banner|banner]], [[s/_standard|standard]] or [[e/_ensign|ensign]].**
 - **The [[b/_bearer|bearer]] of a [[f/_flag|flag]]; [[e/_ensign|ensign]]**
 ---
 #noun

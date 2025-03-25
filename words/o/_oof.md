@@ -1,10 +1,10 @@
 # Oof
 ---
 #noun
-- **A [[s/_sound|sound]] [[m/_made|made]] in [[p/_pain|pain]], as when [[e/_expelling|expelling]] [[a/_air|air]] [[a/_after|after]] [[b/_being|being]] struck.**
+- **A [[s/_sound|sound]] [[m/_made|made]] in [[p/_pain|pain]], as when [[e/_expelling|expelling]] [[a/_air|air]] [[a/_after|after]] [[b/_being|being]] [[s/_struck|struck]].**
 ---
 #interjection
-- **A [[s/_sound|sound]] [[m/_mimicking|mimicking]] the [[l/_loss|loss]] of [[a/_air|air]], as [[i/_if|if]] [[s/_someone|someone]]'[[s/_s|s]] [[s/_solar|solar]] [[p/_plexus|plexus]] [[h/_had|had]] [[j/_just|just]] [[b/_been|been]] struck.**
+- **A [[s/_sound|sound]] [[m/_mimicking|mimicking]] the [[l/_loss|loss]] of [[a/_air|air]], as [[i/_if|if]] [[s/_someone|someone]]'[[s/_s|s]] [[s/_solar|solar]] [[p/_plexus|plexus]] [[h/_had|had]] [[j/_just|just]] [[b/_been|been]] [[s/_struck|struck]].**
 ---
 #interjection
 - **An [[e/_expression|expression]] of [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[p/_physical|physical]] [[p/_pain|pain]].**

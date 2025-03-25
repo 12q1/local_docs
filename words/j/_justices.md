@@ -1,7 +1,7 @@
 # Justices
 ---
 #noun
-- **The state or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[j/_just|just]] or [[f/_fair|fair]].**
+- **The [[s/_state|state]] or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[j/_just|just]] or [[f/_fair|fair]].**
 	- _Example: the justice of a description_
 - **The [[i/_ideal|ideal]] of [[f/_fairness|fairness]], [[i/_impartiality|impartiality]], [[e/_etc|etc]]., [[e/_especially|especially]] with [[r/_regard|regard]] to the [[p/_punishment|punishment]] of wrongdoing.**
 	- _Example: Justice was served._

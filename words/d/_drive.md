@@ -5,7 +5,7 @@
 	- _Example: Crassus had wealth and wit, but Pompey had drive and Caesar as much again._
 - **Violent or [[r/_rapid|rapid]] [[m/_motion|motion]]; a [[r/_rushing|rushing]] [[o/_onward|onward]] or [[a/_away|away]]; [[e/_especially|especially]], a [[f/_forced|forced]] or [[h/_hurried|hurried]] [[d/_dispatch|dispatch]] of [[b/_business|business]].**
 - **An [[a/_act|act]] of [[d/_driving|driving]] [[a/_animals|animals]] [[f/_forward|forward]], as to be [[c/_captured|captured]], [[h/_hunted|hunted]] [[e/_etc|etc]].**
-- **A sustained [[a/_advance|advance]] in the [[f/_face|face]] of the [[e/_enemy|enemy]] to take a strategic [[o/_objective|objective]].**
+- **A sustained [[a/_advance|advance]] in the [[f/_face|face]] of the [[e/_enemy|enemy]] to take a [[s/_strategic|strategic]] [[o/_objective|objective]].**
 	- _Example: Napoleon's drive on Moscow was as determined as it was disastrous._
 - **A [[m/_mechanism|mechanism]] used to [[p/_power|power]] or [[g/_give|give]] [[m/_motion|motion]] to a vehicle or [[o/_other|other]] [[m/_machine|machine]] or [[m/_machine|machine]] [[p/_part|part]].**
 	- _Example: Some old model trains have clockwork drives._
@@ -17,12 +17,12 @@
 	- _Example: Beverly Hills’ most famous street is Rodeo Drive._
 - **A [[p/_place|place]] suitable or [[a/_agreeable|agreeable]] for [[d/_driving|driving]]; a [[r/_road|road]] [[p/_prepared|prepared]] for [[d/_driving|driving]].**
 - **[[d/_desire|Desire]] or [[i/_interest|interest]].**
-- **An [[a/_apparatus|apparatus]] for [[r/_reading|reading]] and writing [[d/_data|data]] to or from a [[m/_mass|mass]] storage [[d/_device|device]] such as a [[d/_disk|disk]], as a [[f/_floppy|floppy]] [[d/_drive|drive]].**
-- **A [[m/_mass|mass]] storage [[d/_device|device]] in which the [[m/_mechanism|mechanism]] for [[r/_reading|reading]] and writing [[d/_data|data]] is [[i/_integrated|integrated]] with the [[m/_mechanism|mechanism]] for storing [[d/_data|data]], as a [[h/_hard|hard]] [[d/_drive|drive]], a [[f/_flash|flash]] [[d/_drive|drive]].**
-- **A stroke [[m/_made|made]] with a [[d/_driver|driver]].**
-- **A [[b/_ball|ball]] struck in a [[f/_flat|flat]] trajectory.**
+- **An [[a/_apparatus|apparatus]] for [[r/_reading|reading]] and writing [[d/_data|data]] to or from a [[m/_mass|mass]] [[s/_storage|storage]] [[d/_device|device]] such as a [[d/_disk|disk]], as a [[f/_floppy|floppy]] [[d/_drive|drive]].**
+- **A [[m/_mass|mass]] [[s/_storage|storage]] [[d/_device|device]] in which the [[m/_mechanism|mechanism]] for [[r/_reading|reading]] and writing [[d/_data|data]] is [[i/_integrated|integrated]] with the [[m/_mechanism|mechanism]] for [[s/_storing|storing]] [[d/_data|data]], as a [[h/_hard|hard]] [[d/_drive|drive]], a [[f/_flash|flash]] [[d/_drive|drive]].**
+- **A [[s/_stroke|stroke]] [[m/_made|made]] with a [[d/_driver|driver]].**
+- **A [[b/_ball|ball]] [[s/_struck|struck]] in a [[f/_flat|flat]] trajectory.**
 - **A type of [[s/_shot|shot]] [[p/_played|played]] by swinging the [[b/_bat|bat]] in a vertical [[a/_arc|arc]], through the [[l/_line|line]] of the [[b/_ball|ball]], and [[h/_hitting|hitting]] it [[a/_along|along]] the [[g/_ground|ground]], [[n/_normally|normally]] [[b/_between|between]] [[c/_cover|cover]] and midwicket.**
-- **A straight [[l/_level|level]] [[s/_shot|shot]] or [[p/_pass|pass]].**
+- **A [[s/_straight|straight]] [[l/_level|level]] [[s/_shot|shot]] or [[p/_pass|pass]].**
 - **An [[o/_offensive|offensive]] [[p/_possession|possession]], [[g/_generally|generally]] [[o/_one|one]] [[c/_consisting|consisting]] of [[s/_several|several]] [[p/_plays|plays]] and/ or [[f/_first|first]] [[d/_downs|downs]], [[o/_often|often]] [[l/_leading|leading]] to a [[s/_scoring|scoring]] [[o/_opportunity|opportunity]].**
 - **A [[c/_charity|charity]] [[e/_event|event]] such as a fundraiser, [[b/_bake|bake]] [[s/_sale|sale]], or toy [[d/_drive|drive]].**
 	- _Example: a whist drive; a beetle drive_
@@ -37,7 +37,7 @@
 #verb
 - **To [[p/_provide|provide]] an [[i/_impetus|impetus]] for [[m/_motion|motion]] or [[o/_other|other]] [[p/_physical|physical]] [[c/_change|change]], to [[m/_move|move]] an [[o/_object|object]] by [[m/_means|means]] of the [[p/_provision|provision]] of [[f/_force|force]] thereto.**
 	- _Example: You drive nails into wood with a hammer._
-- **To [[p/_provide|provide]] an [[i/_impetus|impetus]] for a [[n/_non|non]]-[[p/_physical|physical]] [[c/_change|change]], [[e/_especially|especially]] a [[c/_change|change]] in [[o/_one|one]]'[[s/_s|s]] state of [[m/_mind|mind]].**
+- **To [[p/_provide|provide]] an [[i/_impetus|impetus]] for a [[n/_non|non]]-[[p/_physical|physical]] [[c/_change|change]], [[e/_especially|especially]] a [[c/_change|change]] in [[o/_one|one]]'[[s/_s|s]] [[s/_state|state]] of [[m/_mind|mind]].**
 	- _Example: My wife's constant harping about the condition of the house threatens to drive me to distraction._
 - **To [[d/_displace|displace]] [[e/_either|either]] [[p/_physically|physically]] or [[n/_non|non]]-[[p/_physically|physically]], through the [[a/_application|application]] of [[f/_force|force]].**
 - **To [[c/_cause|cause]] [[i/_intrinsic|intrinsic]] [[m/_motivation|motivation]] through the [[a/_application|application]] or [[d/_demonstration|demonstration]] of [[f/_force|force]]: to [[i/_impel|impel]] or urge [[o/_onward|onward]] thusly, to [[c/_compel|compel]] to [[m/_move|move]] on, to [[c/_coerce|coerce]], [[i/_intimidate|intimidate]] or threaten.**
@@ -65,11 +65,11 @@
 	- _Example: My wife drove me to the airport._
 - **To [[m/_move|move]] [[f/_forcefully|forcefully]].**
 - **To be [[m/_moved|moved]] or [[p/_propelled|propelled]] [[f/_forcefully|forcefully]] ([[e/_especially|especially]] of a [[s/_ship|ship]]).**
-- **To urge, [[p/_press|press]], or [[b/_bring|bring]] to a [[p/_point|point]] or state.**
+- **To urge, [[p/_press|press]], or [[b/_bring|bring]] to a [[p/_point|point]] or [[s/_state|state]].**
 - **To [[c/_carry|carry]] or to [[k/_keep|keep]] in [[m/_motion|motion]]; to [[c/_conduct|conduct]]; to [[p/_prosecute|prosecute]].**
 - **To [[c/_clear|clear]], by [[f/_forcing|forcing]] [[a/_away|away]] what is [[c/_contained|contained]].**
 - **To [[d/_dig|dig]] [[h/_horizontally|horizontally]]; to [[c/_cut|cut]] a [[h/_horizontal|horizontal]] [[g/_gallery|gallery]] or tunnel.**
-- **To [[p/_put|put]] together a [[d/_drive|drive]] ([[n/_n|n]].): to string together [[o/_offensive|offensive]] [[p/_plays|plays]] and [[a/_advance|advance]] the [[b/_ball|ball]] [[d/_down|down]] the [[f/_field|field]].**
+- **To [[p/_put|put]] together a [[d/_drive|drive]] ([[n/_n|n]].): to [[s/_string|string]] together [[o/_offensive|offensive]] [[p/_plays|plays]] and [[a/_advance|advance]] the [[b/_ball|ball]] [[d/_down|down]] the [[f/_field|field]].**
 - **To [[d/_distrain|distrain]] for [[r/_rent|rent]].**
 - **To [[s/_separate|separate]] the [[l/_lighter|lighter]] ([[f/_feathers|feathers]] or [[d/_down|down]]) from the [[h/_heavier|heavier]], by [[e/_exposing|exposing]] them to a [[c/_current|current]] of [[a/_air|air]].**
 - **To be the [[d/_dominant|dominant]] [[p/_party|party]] in a [[s/_sex|sex]] [[a/_act|act]].**

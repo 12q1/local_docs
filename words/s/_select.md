@@ -10,7 +10,7 @@
 ### Antonyms
 - [[d/_deselect|deselect]]
 #adjective
-- **[[p/_privileged|Privileged]], specially [[s/_selected|selected]].**
+- **[[p/_privileged|Privileged]], [[s/_specially|specially]] [[s/_selected|selected]].**
 	- _Example: Only a select few were allowed into the premiere._
 - **Of [[h/_high|high]] [[q/_quality|quality]]; top-[[n/_notch|notch]].**
 	- _Example: This is a select cut of beef._

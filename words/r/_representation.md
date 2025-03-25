@@ -5,7 +5,7 @@
 	- _Example: The Venus of Willendorf was an early representation of the female body._
 - **The [[a/_act|act]] of [[r/_representing|representing]].**
 	- _Example: We are no longer happy with your representation of our company at trade events._
-- **The [[l/_lawyers|lawyers]] and staff who [[a/_argue|argue]] on [[b/_behalf|behalf]] of [[a/_another|another]] in [[c/_court|court]].**
+- **The [[l/_lawyers|lawyers]] and [[s/_staff|staff]] who [[a/_argue|argue]] on [[b/_behalf|behalf]] of [[a/_another|another]] in [[c/_court|court]].**
 	- _Example: People who cannot afford representation are eligible for government assistance._
 - **The [[a/_ability|ability]] to [[e/_elect|elect]] a [[r/_representative|representative]] to [[s/_speak|speak]] on [[o/_one|one]]'[[s/_s|s]] [[b/_behalf|behalf]] in [[g/_government|government]]; the [[r/_role|role]] of this [[r/_representative|representative]] in [[g/_government|government]].**
 	- _Example: The lack of representation in the British parliament was one of the main factors behind the American Revolution._

@@ -7,7 +7,7 @@
 - **A [[b/_bird|bird]], the [[g/_glede|glede]] or [[k/_kite|kite]].**
 - **A [[k/_kind|kind]] of [[c/_cap|cap]] [[a/_affixed|affixed]] to the [[b/_base|base]] of the [[l/_legs|legs]] of [[f/_furniture|furniture]] to [[p/_prevent|prevent]] it from [[d/_damaging|damaging]] the [[f/_floor|floor]].**
 - **The [[j/_joining|joining]] of two [[s/_sounds|sounds]] without a [[b/_break|break]].**
-- **A [[s/_smooth|smooth]] and [[s/_sliding|sliding]] step in [[d/_dancing|dancing]] the waltz.**
+- **A [[s/_smooth|smooth]] and [[s/_sliding|sliding]] [[s/_step|step]] in [[d/_dancing|dancing]] the waltz.**
 ---
 ### Synonyms
 - [[s/_semiconsonant|semiconsonant]], [[s/_semivowel|semivowel]]

@@ -10,6 +10,6 @@
 ---
 #noun
 - **A [[g/_governor|governor]] of a town or [[p/_province|province]].**
-- **A [[m/_manager|manager]] or steward, [[e/_e|e]].[[g/_g|g]]. of a [[f/_farm|farm]].**
+- **A [[m/_manager|manager]] or [[s/_steward|steward]], [[e/_e|e]].[[g/_g|g]]. of a [[f/_farm|farm]].**
 ---
 ---

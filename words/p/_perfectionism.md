@@ -2,6 +2,6 @@
 ---
 #noun
 - **An unwillingness to [[s/_settle|settle]] for [[a/_anything|anything]] [[l/_less|less]] than [[p/_perfection|perfection]].**
-- **A [[b/_belief|belief]] that spiritual [[p/_perfection|perfection]] [[m/_may|may]] be [[a/_achieved|achieved]] [[d/_during|during]] [[l/_life|life]], or that it [[s/_should|should]] be striven for.**
+- **A [[b/_belief|belief]] that [[s/_spiritual|spiritual]] [[p/_perfection|perfection]] [[m/_may|may]] be [[a/_achieved|achieved]] [[d/_during|during]] [[l/_life|life]], or that it [[s/_should|should]] be [[s/_striven|striven]] for.**
 ---
 ---

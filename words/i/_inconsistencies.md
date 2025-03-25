@@ -1,7 +1,7 @@
 # Inconsistencies
 ---
 #noun
-- **The state of [[b/_being|being]] [[i/_inconsistent|inconsistent]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[i/_inconsistent|inconsistent]].**
 - **An [[i/_incompatibility|incompatibility]] [[b/_between|between]] two [[p/_propositions|propositions]] that [[c/_cannot|cannot]] [[b/_both|both]] be true.**
 ---
 ### Synonyms

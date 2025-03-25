@@ -1,7 +1,7 @@
 # Employ
 ---
 #noun
-- **The state of [[b/_being|being]] an [[e/_employee|employee]]; [[e/_employment|employment]].**
+- **The [[s/_state|state]] of [[b/_being|being]] an [[e/_employee|employee]]; [[e/_employment|employment]].**
 	- _Example: The school district has six thousand teachers in its employ._
 - **The [[a/_act|act]] of [[e/_employing|employing]] [[s/_someone|someone]] or [[m/_making|making]] use of [[s/_something|something]]; [[e/_employment|employment]].**
 ---

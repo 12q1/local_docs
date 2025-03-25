@@ -23,7 +23,7 @@
 	- _Example: to run guns; to run rum_
 - **To [[s/_sort|sort]] through a [[l/_large|large]] volume of [[p/_produce|produce]] in [[q/_quality|quality]] [[c/_control|control]].**
 	- _Example: Looks like we're gonna have to run the tomatoes again._
-- **To [[e/_extend|extend]] or [[p/_persist|persist]], statically or [[d/_dynamically|dynamically]], through [[s/_space|space]] or time.**
+- **To [[e/_extend|extend]] or [[p/_persist|persist]], [[s/_statically|statically]] or [[d/_dynamically|dynamically]], through [[s/_space|space]] or time.**
 - **To [[e/_execute|execute]] or [[c/_carry|carry]] [[o/_out|out]] a [[p/_plan|plan]], [[p/_procedure|procedure]] or [[p/_program|program]].**
 	- _Example: Don't run that software unless you have permission._
 - **To [[p/_pass|pass]] or [[g/_go|go]] [[q/_quickly|quickly]] in thought or [[c/_conversation|conversation]].**
@@ -32,7 +32,7 @@
 	- _Example: Our supplies are running low._
 - **To [[c/_cost|cost]] a [[l/_large|large]] [[a/_amount|amount]] of [[m/_money|money]].**
 	- _Example: Buying a new laptop will run you a thousand dollars._
-- **Of stitches or stitched [[c/_clothing|clothing]], to unravel.**
+- **Of [[s/_stitches|stitches]] or [[s/_stitched|stitched]] [[c/_clothing|clothing]], to unravel.**
 	- _Example: My stocking is running._
 - **To [[p/_pursue|pursue]] in thought; to [[c/_carry|carry]] in [[c/_contemplation|contemplation]].**
 - **To [[c/_cause|cause]] to [[e/_enter|enter]]; to thrust.**
@@ -44,7 +44,7 @@
 	- _Example: to run the risk of losing one's life_
 - **To [[p/_put|put]] at [[h/_hazard|hazard]]; to venture; to [[r/_risk|risk]].**
 - **To tease with [[s/_sarcasms|sarcasms]] and [[r/_ridicule|ridicule]].**
-- **To [[s/_sew|sew]] (a [[s/_seam|seam]]) by [[p/_passing|passing]] the [[n/_needle|needle]] through [[m/_material|material]] in a [[c/_continuous|continuous]] [[l/_line|line]], [[g/_generally|generally]] taking a [[s/_series|series]] of stitches on the [[n/_needle|needle]] at the [[s/_same|same]] time.**
+- **To [[s/_sew|sew]] (a [[s/_seam|seam]]) by [[p/_passing|passing]] the [[n/_needle|needle]] through [[m/_material|material]] in a [[c/_continuous|continuous]] [[l/_line|line]], [[g/_generally|generally]] taking a [[s/_series|series]] of [[s/_stitches|stitches]] on the [[n/_needle|needle]] at the [[s/_same|same]] time.**
 - **To [[c/_control|control]] or [[h/_have|have]] [[p/_precedence|precedence]] in a [[c/_card|card]] [[g/_game|game]].**
 	- _Example: Every three or four hands he would run the table._
 - **To be in [[f/_form|form]] thus, as a [[c/_combination|combination]] of words.**
@@ -55,7 +55,7 @@
 - **To [[h/_have|have]] a [[l/_legal|legal]] [[c/_course|course]]; to be [[a/_attached|attached]]; to [[c/_continue|continue]] in [[f/_force|force]], [[e/_effect|effect]], or [[o/_operation|operation]]; to [[f/_follow|follow]]; to [[g/_go|go]] in [[c/_company|company]].**
 	- _Example: Certain covenants run with the land._
 - **To [[e/_encounter|encounter]] or suffer (a [[p/_particular|particular]], usually [[b/_bad|bad]], [[f/_fate|fate]] or [[m/_misfortune|misfortune]]).**
-- **To strike (the [[b/_ball|ball]]) in such a way as to [[c/_cause|cause]] it to [[r/_run|run]] [[a/_along|along]] the [[g/_ground|ground]], as when [[a/_approaching|approaching]] a [[h/_hole|hole]].**
+- **To [[s/_strike|strike]] (the [[b/_ball|ball]]) in such a way as to [[c/_cause|cause]] it to [[r/_run|run]] [[a/_along|along]] the [[g/_ground|ground]], as when [[a/_approaching|approaching]] a [[h/_hole|hole]].**
 - **To speedrun.**
 ---
 ---

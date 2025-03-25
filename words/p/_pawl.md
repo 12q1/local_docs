@@ -5,6 +5,6 @@
 - **A [[s/_similar|similar]] [[d/_device|device]] to [[p/_prevent|prevent]] [[m/_motion|motion]] in [[o/_other|other]] [[m/_mechanisms|mechanisms]] [[b/_besides|besides]] [[r/_ratchets|ratchets]].**
 ---
 #verb
-- **To stop with a [[p/_pawl|pawl]].**
+- **To [[s/_stop|stop]] with a [[p/_pawl|pawl]].**
 ---
 ---

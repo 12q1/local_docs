@@ -7,6 +7,6 @@
 - **An [[a/_absolving|absolving]], or [[s/_setting|setting]] [[f/_free|free]] from [[g/_guilt|guilt]], [[s/_sin|sin]], or [[p/_penalty|penalty]]; [[f/_forgiveness|forgiveness]] of an [[o/_offense|offense]].**
 	- _Example: Government ... granting absolution to the nation._
 - **An [[a/_acquittal|acquittal]], or [[s/_sentence|sentence]] of a [[j/_judge|judge]] [[d/_declaring|declaring]] an [[a/_accused|accused]] [[p/_person|person]] [[i/_innocent|innocent]].**
-- **[[d/_delivery|Delivery]], in speech.**
+- **[[d/_delivery|Delivery]], in [[s/_speech|speech]].**
 ---
 ---

@@ -15,7 +15,7 @@
 ### Synonyms
 - [[b/_brightness|brightness]], [[i/_intellect|intellect]], [[w/_wit|wit]]
 #noun
-- **The [[i/_inside|inside]] of a [[b/_building|building]], [[c/_container|container]], [[c/_cavern|cavern]], or [[o/_other|other]] [[e/_enclosed|enclosed]] structure.**
+- **The [[i/_inside|inside]] of a [[b/_building|building]], [[c/_container|container]], [[c/_cavern|cavern]], or [[o/_other|other]] [[e/_enclosed|enclosed]] [[s/_structure|structure]].**
 - **The [[i/_inside|inside]] [[r/_regions|regions]] of a [[c/_country|country]], [[d/_distanced|distanced]] from the [[b/_borders|borders]] or [[c/_coasts|coasts]].**
 	- _Example: Sir Richard Burton explored far into the African interior._
 - **The [[s/_set|set]] of [[a/_all|all]] [[i/_interior|interior]] [[p/_points|points]] of a [[s/_set|set]].**
@@ -28,7 +28,7 @@
 - **[[a/_any|Any]] substance [[f/_formed|formed]] as [[p/_part|part]] of a [[s/_series|series]] of [[c/_chemical|chemical]] [[r/_reactions|reactions]] that is not the [[e/_end|end]]-[[p/_product|product]].**
 ---
 #noun
-- **[[s/_someone|Someone]] who [[h/_has|has]] [[r/_represented|represented]] their [[c/_country|country]] in a [[p/_particular|particular]] sport.**
+- **[[s/_someone|Someone]] who [[h/_has|has]] [[r/_represented|represented]] their [[c/_country|country]] in a [[p/_particular|particular]] [[s/_sport|sport]].**
 	- _Example: The United team includes five England internationals._
 - **A [[g/_game|game]] or [[c/_contest|contest]] [[b/_between|between]] two or [[m/_more|more]] [[n/_nations|nations]].**
 - **A transnational [[o/_organization|organization]] of [[p/_political|political]] [[p/_parties|parties]] of [[s/_similar|similar]] [[i/_ideology|ideology]].**

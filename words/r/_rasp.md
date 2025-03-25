@@ -1,7 +1,7 @@
 # Rasp
 ---
 #noun
-- **A [[c/_coarse|coarse]] [[f/_file|file]], on which the [[c/_cutting|cutting]] [[p/_prominences|prominences]] are [[d/_distinct|distinct]] [[p/_points|points]] [[r/_raised|raised]] by the [[o/_oblique|oblique]] stroke of a [[s/_sharp|sharp]] [[p/_punch|punch]], [[i/_instead|instead]] of [[l/_lines|lines]] [[r/_raised|raised]] by a [[c/_chisel|chisel]], as on the true [[f/_file|file]].**
+- **A [[c/_coarse|coarse]] [[f/_file|file]], on which the [[c/_cutting|cutting]] [[p/_prominences|prominences]] are [[d/_distinct|distinct]] [[p/_points|points]] [[r/_raised|raised]] by the [[o/_oblique|oblique]] [[s/_stroke|stroke]] of a [[s/_sharp|sharp]] [[p/_punch|punch]], [[i/_instead|instead]] of [[l/_lines|lines]] [[r/_raised|raised]] by a [[c/_chisel|chisel]], as on the true [[f/_file|file]].**
 - **The [[s/_sound|sound]] [[m/_made|made]] by this tool when used, or [[a/_any|any]] [[s/_similar|similar]] [[s/_sound|sound]].**
 	- _Example: the rasp of her perpetual cough_
 ---

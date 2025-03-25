@@ -9,7 +9,7 @@
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to the [[n/_nose|nose]] or to the [[n/_nasion|nasion]]**
-- **[[h/_having|Having]] a [[s/_sound|sound]] [[i/_imparted|imparted]] by [[m/_means|means]] of the [[n/_nose|nose]]; and specifically, [[m/_made|made]] by [[l/_lowering|lowering]] the [[s/_soft|soft]] [[p/_palate|palate]], in [[s/_some|some]] [[c/_cases|cases]] with [[c/_closure|closure]] of the [[o/_oral|oral]] [[p/_passage|passage]], the voice thus [[i/_issuing|issuing]] (wholly or [[p/_partially|partially]]) through the [[n/_nose|nose]], as in the [[c/_consonants|consonants]] [[m/_m|m]], [[n/_n|n]], [[n/_ng|ng]]; [[c/_characterized|characterized]] by [[r/_resonance|resonance]] in the [[n/_nasal|nasal]] [[p/_passage|passage]]**
+- **[[h/_having|Having]] a [[s/_sound|sound]] [[i/_imparted|imparted]] by [[m/_means|means]] of the [[n/_nose|nose]]; and [[s/_specifically|specifically]], [[m/_made|made]] by [[l/_lowering|lowering]] the [[s/_soft|soft]] [[p/_palate|palate]], in [[s/_some|some]] [[c/_cases|cases]] with [[c/_closure|closure]] of the [[o/_oral|oral]] [[p/_passage|passage]], the voice thus [[i/_issuing|issuing]] (wholly or [[p/_partially|partially]]) through the [[n/_nose|nose]], as in the [[c/_consonants|consonants]] [[m/_m|m]], [[n/_n|n]], [[n/_ng|ng]]; [[c/_characterized|characterized]] by [[r/_resonance|resonance]] in the [[n/_nasal|nasal]] [[p/_passage|passage]]**
 	- _Example: a nasal utterance._
 ---
 ### Synonyms

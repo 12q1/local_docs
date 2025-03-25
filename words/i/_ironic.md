@@ -5,7 +5,7 @@
 - **[[g/_given|Given]] to the use of [[i/_irony|irony]]; [[s/_sarcastic|sarcastic]].**
 - **[[c/_contrary|Contrary]] or [[o/_opposite|opposite]] to what [[m/_may|may]] be [[e/_expected|expected]].**
 	- _Example: It's ironic to have a blizzard in the middle of the summer._
-- **[[o/_odd|Odd]] or [[c/_coincidental|coincidental]]; strange.**
+- **[[o/_odd|Odd]] or [[c/_coincidental|coincidental]]; [[s/_strange|strange]].**
 	- _Example: It's ironic that we are eating a sandwich in Sandwich, Massachusetts._
 ---
 ### Synonyms

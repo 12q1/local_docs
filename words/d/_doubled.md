@@ -23,11 +23,11 @@
 - **To [[d/_double|double]] [[d/_down|down]].**
 - **To [[c/_cause|cause]] (a [[b/_ball|ball]]) to [[r/_rebound|rebound]] from a [[c/_cushion|cushion]] [[b/_before|before]] [[e/_entering|entering]] the [[p/_pocket|pocket]].**
 - **([[f/_followed|followed]] by for) To [[a/_act|act]] as substitute.**
-- **To [[g/_go|go]] or [[m/_march|march]] at twice the [[n/_normal|normal]] speed.**
-- **To [[m/_multiply|multiply]] the strength or [[e/_effect|effect]] of by two.**
+- **To [[g/_go|go]] or [[m/_march|march]] at twice the [[n/_normal|normal]] [[s/_speed|speed]].**
+- **To [[m/_multiply|multiply]] the [[s/_strength|strength]] or [[e/_effect|effect]] of by two.**
 	- _Example: Sorry, this store does not double coupons._
 - **To unite, as [[r/_ranks|ranks]] or [[f/_files|files]], [[s/_so|so]] as to [[f/_form|form]] [[o/_one|one]] from [[e/_each|each]] two.**
-- **(of a station) To transmit [[s/_simultaneously|simultaneously]] on the [[s/_same|same]] [[c/_channel|channel]] as [[a/_another|another]] station, [[e/_either|either]] unintentionally or [[d/_deliberately|deliberately]], [[c/_causing|causing]] [[i/_interference|interference]].**
+- **(of a [[s/_station|station]]) To transmit [[s/_simultaneously|simultaneously]] on the [[s/_same|same]] [[c/_channel|channel]] as [[a/_another|another]] [[s/_station|station]], [[e/_either|either]] unintentionally or [[d/_deliberately|deliberately]], [[c/_causing|causing]] [[i/_interference|interference]].**
 	- _Example: Could you please repeat your last transmission? Another station was doubling with you._
 ---
 ### Synonyms

@@ -6,6 +6,6 @@
 	- _Example: During the rainstorm, we sheltered under a tree._
 ---
 #noun
-- **A [[s/_shelter|shelter]]; a structure [[b/_beneath|beneath]] which [[o/_one|one]] [[s/_shelters|shelters]].**
+- **A [[s/_shelter|shelter]]; a [[s/_structure|structure]] [[b/_beneath|beneath]] which [[o/_one|one]] [[s/_shelters|shelters]].**
 ---
 ---

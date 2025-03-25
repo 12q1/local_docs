@@ -23,7 +23,7 @@
 - **To [[i/_inflict|inflict]] suffering upon as a [[p/_penalty|penalty]]; to [[p/_punish|punish]].**
 ---
 #noun
-- **[[a/_any|Any]] of various [[b/_breads|breads]] stuffed with a [[f/_filling|filling]].**
+- **[[a/_any|Any]] of various [[b/_breads|breads]] [[s/_stuffed|stuffed]] with a [[f/_filling|filling]].**
 	- _Example: gammon pain; Spanish pain_
 ---
 ---

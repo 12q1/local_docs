@@ -7,7 +7,7 @@
 - **A thick [[c/_crowd|crowd]] of [[s/_seabirds|seabirds]] or [[s/_sea|sea]] [[m/_mammals|mammals]], [[p/_particularly|particularly]] a [[g/_group|group]] of [[p/_penguins|penguins]] when in the water.**
 - **A [[c/_collection|collection]] of [[l/_logs|logs]], [[f/_fallen|fallen]] trees, [[e/_etc|etc]]. which [[o/_obstructs|obstructs]] [[n/_navigation|navigation]] in a [[r/_river|river]].**
 - **(when [[o/_ordering|ordering]] [[f/_food|food]]) A [[s/_slice|slice]] of toast.**
-- **A square [[a/_array|array]] of [[s/_sensors|sensors]] [[f/_forming|forming]] [[p/_part|part]] of a [[l/_large|large]] telescope.**
+- **A [[s/_square|square]] [[a/_array|array]] of [[s/_sensors|sensors]] [[f/_forming|forming]] [[p/_part|part]] of a [[l/_large|large]] telescope.**
 ---
 #verb
 - **To [[c/_convey|convey]] on a [[r/_raft|raft]].**

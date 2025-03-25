@@ -1,7 +1,7 @@
 # Completion
 ---
 #noun
-- **The [[a/_act|act]] or state of [[b/_being|being]] or [[m/_making|making]] [[s/_something|something]] [[c/_complete|complete]]; [[c/_conclusion|conclusion]], [[a/_accomplishment|accomplishment]].**
+- **The [[a/_act|act]] or [[s/_state|state]] of [[b/_being|being]] or [[m/_making|making]] [[s/_something|something]] [[c/_complete|complete]]; [[c/_conclusion|conclusion]], [[a/_accomplishment|accomplishment]].**
 - **The [[c/_conclusion|conclusion]] of an [[a/_act|act]] of [[c/_conveyancing|conveyancing]] [[c/_concerning|concerning]] the [[s/_sale|sale]] of a [[p/_property|property]].**
 - **A [[f/_forward|forward]] [[p/_pass|pass]] that is successfully [[c/_caught|caught]] by the [[i/_intended|intended]] [[r/_receiver|receiver]].**
 - **The [[a/_act|act]] of [[m/_making|making]] a [[m/_metric|metric]] [[s/_space|space]] [[c/_complete|complete]] by [[a/_adding|adding]] [[p/_points|points]].**

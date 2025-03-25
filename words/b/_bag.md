@@ -34,7 +34,7 @@
 	- _Example: We bagged three deer yesterday._
 - **To [[g/_gain|gain]] [[p/_possession|possession]] of [[s/_something|something]], or to [[m/_make|make]] [[f/_first|first]] [[c/_claim|claim]] on [[s/_something|something]].**
 - **To [[f/_furnish|furnish]] or [[l/_load|load]] with a [[b/_bag|bag]].**
-- **([[a/_african|African]] [[a/_american|American]] Vernacular) To [[b/_bring|bring]] a woman [[o/_one|one]] [[m/_met|met]] on the street with [[o/_one|one]].**
+- **([[a/_african|African]] [[a/_american|American]] Vernacular) To [[b/_bring|bring]] a woman [[o/_one|one]] [[m/_met|met]] on the [[s/_street|street]] with [[o/_one|one]].**
 - **([[a/_african|African]] [[a/_american|American]] Vernacular) To [[l/_laugh|laugh]] uncontrollably.**
 - **To [[c/_criticise|criticise]] [[s/_sarcastically|sarcastically]].**
 - **To [[p/_provide|provide]] with [[a/_artificial|artificial]] ventilation via a [[b/_bag|bag]] valve [[m/_mask|mask]] (BVM) [[r/_resuscitator|resuscitator]].**

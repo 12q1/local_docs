@@ -18,9 +18,9 @@
 - **The [[a/_act|act]] or [[p/_process|process]] of [[l/_lapping|lapping]].**
 - **That [[p/_part|part]] of [[a/_any|any]] substance or [[f/_fixture|fixture]] which [[e/_extends|extends]] [[o/_over|over]], or [[l/_lies|lies]] upon, or by the [[s/_side|side]] of, a [[p/_part|part]] of [[a/_another|another]].**
 	- _Example: the lap of a board_
-- **The state or [[c/_condition|condition]] of [[b/_being|being]] in [[p/_part|part]] [[e/_extended|extended]] [[o/_over|over]] or by the [[s/_side|side]] of [[s/_something|something]] [[e/_else|else]]; or the [[e/_extent|extent]] of the [[o/_overlapping|overlapping]].**
+- **The [[s/_state|state]] or [[c/_condition|condition]] of [[b/_being|being]] in [[p/_part|part]] [[e/_extended|extended]] [[o/_over|over]] or by the [[s/_side|side]] of [[s/_something|something]] [[e/_else|else]]; or the [[e/_extent|extent]] of the [[o/_overlapping|overlapping]].**
 	- _Example: The second boat got a lap of half its length on the leader._
-- **The [[a/_amount|amount]] by which a [[s/_slide|slide]] valve at [[i/_its|its]] [[h/_half|half]] stroke [[o/_overlaps|overlaps]] a [[p/_port|port]] in the [[s/_seat|seat]], [[b/_being|being]] [[e/_equal|equal]] to the [[d/_distance|distance]] the valve [[m/_must|must]] [[m/_move|move]] from [[i/_its|its]] [[m/_mid|mid]] stroke [[p/_position|position]] in [[o/_order|order]] to [[b/_begin|begin]] to [[o/_open|open]] the [[p/_port|port]]. Used [[a/_alone|alone]], [[l/_lap|lap]] [[r/_refers|refers]] to [[o/_outside|outside]] [[l/_lap|lap]] ([[s/_see|see]] [[b/_below|below]]).**
+- **The [[a/_amount|amount]] by which a [[s/_slide|slide]] valve at [[i/_its|its]] [[h/_half|half]] [[s/_stroke|stroke]] [[o/_overlaps|overlaps]] a [[p/_port|port]] in the [[s/_seat|seat]], [[b/_being|being]] [[e/_equal|equal]] to the [[d/_distance|distance]] the valve [[m/_must|must]] [[m/_move|move]] from [[i/_its|its]] [[m/_mid|mid]] [[s/_stroke|stroke]] [[p/_position|position]] in [[o/_order|order]] to [[b/_begin|begin]] to [[o/_open|open]] the [[p/_port|port]]. Used [[a/_alone|alone]], [[l/_lap|lap]] [[r/_refers|refers]] to [[o/_outside|outside]] [[l/_lap|lap]] ([[s/_see|see]] [[b/_below|below]]).**
 - **[[o/_one|One]] [[c/_circuit|circuit]] [[a/_around|around]] a [[r/_race|race]] track, or [[o/_one|one]] traversal [[d/_down|down]] and then [[b/_back|back]] the [[l/_length|length]] of a [[p/_pool|pool]]**
 	- _Example: swim two laps_
 - **In [[c/_card|card]] [[p/_playing|playing]] and [[o/_other|other]] [[g/_games|games]], the [[p/_points|points]] won in [[e/_excess|excess]] of the [[n/_number|number]] [[n/_necessary|necessary]] to [[c/_complete|complete]] a [[g/_game|game]]; — [[s/_so|so]] [[c/_called|called]] when they are [[c/_counted|counted]] in the [[s/_score|score]] of the [[f/_following|following]] [[g/_game|game]].**
@@ -40,16 +40,16 @@
 - **To [[p/_polish|polish]], [[e/_e|e]].[[g/_g|g]]., a surface, until [[s/_smooth|smooth]].**
 - **To be turned or [[f/_folded|folded]]; to [[l/_lie|lie]] [[p/_partly|partly]] on or [[o/_over|over]] [[s/_something|something]]; to [[o/_overlap|overlap]].**
 	- _Example: The boats lap; the edges lap._
-- **To [[o/_overtake|overtake]] a straggler in a [[r/_race|race]] by [[c/_completing|completing]] [[o/_one|one]] [[m/_more|more]] whole [[l/_lap|lap]] than the straggler.**
+- **To [[o/_overtake|overtake]] a [[s/_straggler|straggler]] in a [[r/_race|race]] by [[c/_completing|completing]] [[o/_one|one]] [[m/_more|more]] whole [[l/_lap|lap]] than the [[s/_straggler|straggler]].**
 - **To [[c/_cut|cut]] or [[p/_polish|polish]] with a [[l/_lap|lap]], as [[g/_glass|glass]], [[g/_gems|gems]], [[c/_cutlery|cutlery]], [[e/_etc|etc]].**
 ---
 #verb
 - **To take ([[l/_liquid|liquid]]) [[i/_into|into]] the [[m/_mouth|mouth]] with the tongue; to [[l/_lick|lick]] up with a [[q/_quick|quick]] [[m/_motion|motion]] of the tongue.**
 	- _Example: Don't lap your soup like that, you look like a dog._
-- **(of water) To wash [[a/_against|against]] a surface with a splashing [[s/_sound|sound]]; to swash.**
+- **(of water) To wash [[a/_against|against]] a surface with a [[s/_splashing|splashing]] [[s/_sound|sound]]; to swash.**
 ---
 #noun
-- **[[e/_examination|Examination]] of the [[l/_loins|loins]] or [[a/_abdomen|abdomen]], [[n/_now|now]] specifically [[e/_examination|examination]] or surgery on the [[p/_peritoneal|peritoneal]] [[c/_cavity|cavity]] using a [[l/_laparoscope|laparoscope]].**
+- **[[e/_examination|Examination]] of the [[l/_loins|loins]] or [[a/_abdomen|abdomen]], [[n/_now|now]] [[s/_specifically|specifically]] [[e/_examination|examination]] or surgery on the [[p/_peritoneal|peritoneal]] [[c/_cavity|cavity]] using a [[l/_laparoscope|laparoscope]].**
 ---
 ### Synonyms
 - 

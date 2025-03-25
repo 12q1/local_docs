@@ -3,7 +3,7 @@
 #noun
 - **A thick [[c/_cloud|cloud]] that [[f/_forms|forms]] [[n/_near|near]] the [[g/_ground|ground]]; the [[o/_obscurity|obscurity]] of such a [[c/_cloud|cloud]].**
 - **A [[m/_mist|mist]] or [[f/_film|film]] [[c/_clouding|clouding]] a surface.**
-- **A state of [[m/_mind|mind]] [[c/_characterized|characterized]] by [[l/_lethargy|lethargy]] and [[c/_confusion|confusion]].**
+- **A [[s/_state|state]] of [[m/_mind|mind]] [[c/_characterized|characterized]] by [[l/_lethargy|lethargy]] and [[c/_confusion|confusion]].**
 	- _Example: He did so many drugs, he was still in a fog three months after going through detox._
 - **A [[s/_silver|silver]] [[d/_deposit|deposit]] or [[o/_other|other]] [[b/_blur|blur]] on a [[n/_negative|negative]] or [[d/_developed|developed]] [[p/_photographic|photographic]] [[i/_image|image]].**
 - **[[d/_distance|Distance]] [[f/_fog|fog]].**

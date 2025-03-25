@@ -1,7 +1,7 @@
 # Overstay
 ---
 #noun
-- **The [[a/_act|act]] of staying too [[l/_long|long]].**
+- **The [[a/_act|act]] of [[s/_staying|staying]] too [[l/_long|long]].**
 ---
 #verb
 - **To [[r/_remain|remain]] [[p/_present|present]] [[a/_after|after]] the [[a/_agreed|agreed]] or [[a/_appropriate|appropriate]] [[d/_departure|departure]] time.**

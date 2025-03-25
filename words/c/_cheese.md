@@ -13,7 +13,7 @@
 - **[[h/_holed|Holed]] [[p/_pattern|pattern]] of [[c/_circuitry|circuitry]] to [[d/_decrease|decrease]] [[p/_pattern|pattern]] [[d/_density|density]].**
 - **A [[m/_mass|mass]] of [[p/_pomace|pomace]], or [[g/_ground|ground]] [[a/_apples|apples]], [[p/_pressed|pressed]] together in the [[s/_shape|shape]] of a [[c/_cheese|cheese]].**
 - **The [[f/_flat|flat]], [[c/_circular|circular]], [[m/_mucilaginous|mucilaginous]] [[f/_fruit|fruit]] of the [[d/_dwarf|dwarf]] [[m/_mallow|mallow]] ([[m/_malva|Malva]] rotundifolia) or [[m/_marshmallow|marshmallow]] ([[a/_althaea|Althaea]] officinalis).**
-- **A [[l/_low|low]] [[c/_curtsey|curtsey]]; [[s/_so|so]] [[c/_called|called]] on [[a/_account|account]] of the [[c/_cheese|cheese]] [[s/_shape|shape]] [[a/_assumed|assumed]] by a woman'[[s/_s|s]] [[d/_dress|dress]] when [[s/_she|she]] stoops [[a/_after|after]] [[e/_extending|extending]] the [[s/_skirts|skirts]] by a [[r/_rapid|rapid]] [[g/_gyration|gyration]].**
+- **A [[l/_low|low]] [[c/_curtsey|curtsey]]; [[s/_so|so]] [[c/_called|called]] on [[a/_account|account]] of the [[c/_cheese|cheese]] [[s/_shape|shape]] [[a/_assumed|assumed]] by a woman'[[s/_s|s]] [[d/_dress|dress]] when [[s/_she|she]] [[s/_stoops|stoops]] [[a/_after|after]] [[e/_extending|extending]] the [[s/_skirts|skirts]] by a [[r/_rapid|rapid]] [[g/_gyration|gyration]].**
 ---
 ### Antonyms
 - [[f/_fill|fill]]

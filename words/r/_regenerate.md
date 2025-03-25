@@ -5,10 +5,10 @@
 - **To [[r/_revitalize|revitalize]].**
 - **To [[r/_replace|replace]] [[l/_lost|lost]] or [[d/_damaged|damaged]] tissue.**
 - **To [[b/_become|become]] [[r/_reconstructed|reconstructed]].**
-- **To undergo a spiritual [[r/_rebirth|rebirth]].**
+- **To undergo a [[s/_spiritual|spiritual]] [[r/_rebirth|rebirth]].**
 ---
 #adjective
-- **Spiritually [[r/_reborn|reborn]].**
+- **[[s/_spiritually|Spiritually]] [[r/_reborn|reborn]].**
 - **[[r/_reproduced|Reproduced]].**
 ---
 ---

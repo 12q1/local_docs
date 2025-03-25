@@ -13,7 +13,7 @@
 ---
 #adjective
 - **[[f/_furnished|Furnished]] with a [[p/_pike|pike]]; [[e/_ending|ending]] in a [[p/_point|point]]**
-- **[[d/_describing|Describing]] a [[d/_dive|dive]] in which the [[k/_knees|knees]] are [[k/_kept|kept]] straight, but the [[b/_body|body]] is [[b/_bent|bent]] at a [[r/_right|right]]-[[a/_angle|angle]] at the [[h/_hips|hips]]**
+- **[[d/_describing|Describing]] a [[d/_dive|dive]] in which the [[k/_knees|knees]] are [[k/_kept|kept]] [[s/_straight|straight]], but the [[b/_body|body]] is [[b/_bent|bent]] at a [[r/_right|right]]-[[a/_angle|angle]] at the [[h/_hips|hips]]**
 ---
 ### Synonyms
 - [[p/_peaked|peaked]], [[p/_pointed|pointed]]

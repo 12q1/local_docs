@@ -4,7 +4,7 @@
 - **A [[b/_button|button]] whose [[f/_functions|functions]] are [[p/_pausing|pausing]] and [[r/_resuming|resuming]] [[s/_something|something]], such as a DVD [[p/_player|player]], a video [[g/_game|game]] or a [[c/_computer|computer]].**
 ---
 #noun
-- **A temporary stop or [[r/_rest|rest]]; an [[i/_intermission|intermission]] of [[a/_action|action]]; [[i/_interruption|interruption]]; suspension; [[c/_cessation|cessation]].**
+- **A temporary [[s/_stop|stop]] or [[r/_rest|rest]]; an [[i/_intermission|intermission]] of [[a/_action|action]]; [[i/_interruption|interruption]]; suspension; [[c/_cessation|cessation]].**
 - **A [[s/_short|short]] time for [[r/_relaxing|relaxing]] and [[d/_doing|doing]] [[s/_something|something]] [[e/_else|else]].**
 - **[[h/_hesitation|Hesitation]]; suspense; [[d/_doubt|doubt]].**
 - **In writing and [[p/_printing|printing]], a [[m/_mark|mark]] [[i/_indicating|indicating]] the [[p/_place|place]] and [[n/_nature|nature]] of an [[a/_arrest|arrest]] of voice in [[r/_reading|reading]]; a [[p/_punctuation|punctuation]] [[m/_mark|mark]].**

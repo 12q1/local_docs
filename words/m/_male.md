@@ -6,7 +6,7 @@
 ### Antonyms
 - [[f/_female|female]]
 #adjective
-- **[[b/_belonging|Belonging]] to the [[s/_sex|sex]] which typically [[p/_produces|produces]] sperm, or to the [[g/_gender|gender]] which is typically [[a/_associated|associated]] with it.**
+- **[[b/_belonging|Belonging]] to the [[s/_sex|sex]] which typically [[p/_produces|produces]] [[s/_sperm|sperm]], or to the [[g/_gender|gender]] which is typically [[a/_associated|associated]] with it.**
 	- _Example: a male bird feeding a seed to a female_
 - **[[c/_characteristic|Characteristic]] of this [[s/_sex|sex]]/[[g/_gender|gender]]. ([[c/_compare|Compare]] [[m/_masculine|masculine]], [[m/_manly|manly]].)**
 	- _Example: stereotypically male interests, an insect with typically male coloration_

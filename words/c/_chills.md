@@ -11,7 +11,7 @@
 - **The [[h/_hardened|hardened]] [[p/_part|part]] of a [[c/_casting|casting]], such as the tread of a [[c/_carriage|carriage]] wheel.**
 - **A [[l/_lack|lack]] of warmth and [[c/_cordiality|cordiality]]; unfriendliness.**
 - **[[c/_calmness|Calmness]]; [[e/_equanimity|equanimity]].**
-- **A [[s/_sense|sense]] of style; trendiness; savoir [[f/_faire|faire]].**
+- **A [[s/_sense|sense]] of [[s/_style|style]]; trendiness; savoir [[f/_faire|faire]].**
 ---
 #verb
 - **To [[l/_lower|lower]] the temperature of [[s/_something|something]]; to [[c/_cool|cool]]**
@@ -22,7 +22,7 @@
 - **To [[b/_become|become]] [[h/_hard|hard]] by [[r/_rapid|rapid]] [[c/_cooling|cooling]]**
 - **To [[r/_relax|relax]], [[l/_lie|lie]] [[b/_back|back]]**
 	- _Example: Chill, man, we've got a whole week to do it; no sense in getting worked up._
-- **To "[[h/_hang|hang]]", [[h/_hang|hang]] [[o/_out|out]]; to spend time with [[a/_another|another]] [[p/_person|person]] or [[g/_group|group]]. [[a/_also|Also]] [[c/_chill|chill]] [[o/_out|out]].**
+- **To "[[h/_hang|hang]]", [[h/_hang|hang]] [[o/_out|out]]; to [[s/_spend|spend]] time with [[a/_another|another]] [[p/_person|person]] or [[g/_group|group]]. [[a/_also|Also]] [[c/_chill|chill]] [[o/_out|out]].**
 	- _Example: Hey, we should chill this weekend._
 - **To [[s/_smoke|smoke]] [[m/_marijuana|marijuana]]**
 	- _Example: On Friday night do you wanna chill?_

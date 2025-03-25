@@ -3,9 +3,9 @@
 #noun
 - **A [[b/_blossom|blossom]]; the [[f/_flower|flower]] of a [[p/_plant|plant]]; an [[e/_expanded|expanded]] [[b/_bud|bud]].**
 - **[[f/_flowers|Flowers]], [[c/_collectively|collectively]].**
-- **The [[o/_opening|opening]] of [[f/_flowers|flowers]] in [[g/_general|general]]; the state of [[b/_blossoming|blossoming]] or of [[h/_having|having]] the [[f/_flowers|flowers]] [[o/_open|open]].**
+- **The [[o/_opening|opening]] of [[f/_flowers|flowers]] in [[g/_general|general]]; the [[s/_state|state]] of [[b/_blossoming|blossoming]] or of [[h/_having|having]] the [[f/_flowers|flowers]] [[o/_open|open]].**
 	- _Example: The cherry trees are in bloom._
-- **A state or time of [[b/_beauty|beauty]], [[f/_freshness|freshness]], and vigor; an [[o/_opening|opening]] to [[h/_higher|higher]] [[p/_perfection|perfection]], [[a/_analogous|analogous]] to that of [[b/_buds|buds]] [[i/_into|into]] [[b/_blossoms|blossoms]].**
+- **A [[s/_state|state]] or time of [[b/_beauty|beauty]], [[f/_freshness|freshness]], and vigor; an [[o/_opening|opening]] to [[h/_higher|higher]] [[p/_perfection|perfection]], [[a/_analogous|analogous]] to that of [[b/_buds|buds]] [[i/_into|into]] [[b/_blossoms|blossoms]].**
 	- _Example: the bloom of youth_
 - **[[r/_rosy|Rosy]] [[c/_colour|colour]]; the [[f/_flush|flush]] or [[g/_glow|glow]] on a [[p/_person|person]]'[[s/_s|s]] [[c/_cheek|cheek]].**
 - **The [[d/_delicate|delicate]], [[p/_powdery|powdery]] [[c/_coating|coating]] upon [[c/_certain|certain]] [[g/_growing|growing]] or [[n/_newly|newly]]-[[g/_gathered|gathered]] [[f/_fruits|fruits]] or [[l/_leaves|leaves]], as on [[g/_grapes|grapes]], [[p/_plums|plums]], [[e/_etc|etc]].**
@@ -23,12 +23,12 @@
 - **To [[c/_cause|cause]] to [[b/_blossom|blossom]]; to [[m/_make|make]] [[f/_flourish|flourish]].**
 - **To [[b/_bestow|bestow]] a [[b/_bloom|bloom]] upon; to [[m/_make|make]] [[b/_blooming|blooming]] or [[r/_radiant|radiant]].**
 - **Of a [[p/_plant|plant]], to [[p/_produce|produce]] [[b/_blooms|blooms]]; to [[o/_open|open]] [[i/_its|its]] [[b/_blooms|blooms]].**
-- **Of a [[p/_person|person]], [[b/_business|business]], [[e/_etc|etc]], to [[f/_flourish|flourish]]; to be in a state of [[h/_healthful|healthful]], [[g/_growing|growing]] [[y/_youth|youth]] and vigour; to [[s/_show|show]] [[b/_beauty|beauty]] and [[f/_freshness|freshness]].**
-- **([[c/_cooking|Cooking]]) To [[b/_bring|bring]] [[o/_out|out]] the [[f/_flavor|flavor]] of a spice by [[c/_cooking|cooking]] it in [[o/_oil|oil]].**
+- **Of a [[p/_person|person]], [[b/_business|business]], [[e/_etc|etc]], to [[f/_flourish|flourish]]; to be in a [[s/_state|state]] of [[h/_healthful|healthful]], [[g/_growing|growing]] [[y/_youth|youth]] and vigour; to [[s/_show|show]] [[b/_beauty|beauty]] and [[f/_freshness|freshness]].**
+- **([[c/_cooking|Cooking]]) To [[b/_bring|bring]] [[o/_out|out]] the [[f/_flavor|flavor]] of a [[s/_spice|spice]] by [[c/_cooking|cooking]] it in [[o/_oil|oil]].**
 ---
 ### Synonyms
 - [[b/_blossom|blossom]], [[f/_flourish|flourish]], [[t/_thrive|thrive]], [[b/_blossom|blossom]], [[f/_flower|flower]]
 #noun
-- **The spongy [[m/_mass|mass]] of [[m/_metal|metal]] [[f/_formed|formed]] in a [[f/_furnace|furnace]] by the [[s/_smelting|smelting]] [[p/_process|process]].**
+- **The [[s/_spongy|spongy]] [[m/_mass|mass]] of [[m/_metal|metal]] [[f/_formed|formed]] in a [[f/_furnace|furnace]] by the [[s/_smelting|smelting]] [[p/_process|process]].**
 ---
 ---

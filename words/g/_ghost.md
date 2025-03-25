@@ -1,8 +1,8 @@
 # Ghost
 ---
 #noun
-- **The spirit; the [[s/_soul|soul]] of [[m/_man|man]].**
-- **The [[d/_disembodied|disembodied]] [[s/_soul|soul]]; the [[s/_soul|soul]] or spirit of a [[d/_deceased|deceased]] [[p/_person|person]]; a spirit [[a/_appearing|appearing]] [[a/_after|after]] [[d/_death|death]]**
+- **The [[s/_spirit|spirit]]; the [[s/_soul|soul]] of [[m/_man|man]].**
+- **The [[d/_disembodied|disembodied]] [[s/_soul|soul]]; the [[s/_soul|soul]] or [[s/_spirit|spirit]] of a [[d/_deceased|deceased]] [[p/_person|person]]; a [[s/_spirit|spirit]] [[a/_appearing|appearing]] [[a/_after|after]] [[d/_death|death]]**
 	- _Example: Everyone believed that the ghost of an old lady haunted the crypt._
 - **[[a/_any|Any]] [[f/_faint|faint]] [[s/_shadowy|shadowy]] [[s/_semblance|semblance]]; an unsubstantial [[i/_image|image]]**
 	- _Example: not a ghost of a chance; the ghost of an idea_
@@ -15,10 +15,10 @@
 - **A [[c/_covert|covert]] (and [[d/_deniable|deniable]]) [[a/_agent|agent]].**
 - **The [[f/_faint|faint]] [[i/_image|image]] that [[r/_remains|remains]] [[a/_after|after]] an [[a/_attempt|attempt]] to [[r/_remove|remove]] [[g/_graffiti|graffiti]].**
 - **An [[o/_opponent|opponent]] in a [[r/_racing|racing]] [[g/_game|game]] that [[f/_follows|follows]] a [[p/_previously|previously]] [[r/_recorded|recorded]] [[r/_route|route]], [[a/_allowing|allowing]] [[p/_players|players]] to [[c/_compete|compete]] [[a/_against|against]] [[p/_previous|previous]] [[b/_best|best]] times.**
-- **A [[d/_dead|dead]] [[p/_person|person]] whose [[i/_identity|identity]] is stolen by [[a/_another|another]]. [[s/_see|See]] [[g/_ghosting|ghosting]].**
-- **(in [[n/_names|names]] of species) White or [[p/_pale|pale]].**
+- **A [[d/_dead|dead]] [[p/_person|person]] whose [[i/_identity|identity]] is [[s/_stolen|stolen]] by [[a/_another|another]]. [[s/_see|See]] [[g/_ghosting|ghosting]].**
+- **(in [[n/_names|names]] of [[s/_species|species]]) White or [[p/_pale|pale]].**
 	- _Example: ghost slug; ghostberry; ghostflower; ghost crab; ghost bat_
-- **(in [[n/_names|names]] of species) Transparent or translucent.**
+- **(in [[n/_names|names]] of [[s/_species|species]]) Transparent or translucent.**
 	- _Example: ghost ant; ghost catfish; ghost nipper; ghost nudibranch_
 - **[[a/_abandoned|Abandoned]].**
 	- _Example: ghost town; ghost net; ghost ramp; ghost ship_

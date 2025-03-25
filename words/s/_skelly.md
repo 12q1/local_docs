@@ -1,9 +1,9 @@
 # Skelly
 ---
 #noun
-- **A squint.**
+- **A [[s/_squint|squint]].**
 ---
 #verb
-- **To squint.**
+- **To [[s/_squint|squint]].**
 ---
 ---

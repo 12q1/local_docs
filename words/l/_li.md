@@ -1,7 +1,7 @@
 # Li
 ---
 #noun
-- **The [[c/_chinese|Chinese]] [[m/_mile|mile]], a traditional unit of [[d/_distance|distance]] [[e/_equal|equal]] to 1500 [[c/_chis|chis]] or 150 zhangs, [[n/_now|now]] standardized as a [[h/_half|half]]-[[k/_kilometer|kilometer]] (500 [[m/_meters|meters]]).**
+- **The [[c/_chinese|Chinese]] [[m/_mile|mile]], a traditional unit of [[d/_distance|distance]] [[e/_equal|equal]] to 1500 [[c/_chis|chis]] or 150 zhangs, [[n/_now|now]] [[s/_standardized|standardized]] as a [[h/_half|half]]-[[k/_kilometer|kilometer]] (500 [[m/_meters|meters]]).**
 - **The [[k/_korean|Korean]] [[m/_mile|mile]], a traditional unit of [[d/_distance|distance]] [[e/_equivalent|equivalent]] to [[a/_about|about]] 393 [[m/_m|m]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Rusted
 ---
 #verb
-- **To [[o/_oxidize|oxidize]], [[e/_especially|especially]] of [[i/_iron|iron]] or steel.**
+- **To [[o/_oxidize|oxidize]], [[e/_especially|especially]] of [[i/_iron|iron]] or [[s/_steel|steel]].**
 	- _Example: The patio furniture had rusted in the wind-driven spray._
 - **To [[c/_cause|cause]] to [[o/_oxidize|oxidize]].**
 	- _Example: The wind-driven spray had thoroughly rusted the patio furniture._

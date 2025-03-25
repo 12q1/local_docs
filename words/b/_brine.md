@@ -1,7 +1,7 @@
 # Brine
 ---
 #noun
-- **[[s/_salt|Salt]] water; water [[s/_saturated|saturated]] or strongly [[i/_impregnated|impregnated]] with [[s/_salt|salt]]; a [[s/_salt|salt]]-and-water [[s/_solution|solution]] for [[p/_pickling|pickling]].**
+- **[[s/_salt|Salt]] water; water [[s/_saturated|saturated]] or [[s/_strongly|strongly]] [[i/_impregnated|impregnated]] with [[s/_salt|salt]]; a [[s/_salt|salt]]-and-water [[s/_solution|solution]] for [[p/_pickling|pickling]].**
 	- _Example: Do you want a can of tuna in oil or in brine?_
 - **The [[s/_sea|sea]] or [[o/_ocean|ocean]]; the water of the [[s/_sea|sea]].**
 ---

@@ -1,6 +1,6 @@
 # Musicologist
 ---
 #noun
-- **[[o/_one|One]] who studies [[m/_musicology|musicology]].**
+- **[[o/_one|One]] who [[s/_studies|studies]] [[m/_musicology|musicology]].**
 ---
 ---

@@ -22,7 +22,7 @@
 	- _Example: My picture/photography blog...kindly give me your reviews on the same._
 ---
 #interjection
-- **[[i/_indicates|Indicates]] the [[s/_speaker|speaker]]'[[s/_s|s]] strong [[a/_approval|approval]] or [[a/_agreement|agreement]] with the [[p/_previous|previous]] [[m/_material|material]].**
+- **[[i/_indicates|Indicates]] the [[s/_speaker|speaker]]'[[s/_s|s]] [[s/_strong|strong]] [[a/_approval|approval]] or [[a/_agreement|agreement]] with the [[p/_previous|previous]] [[m/_material|material]].**
 ---
 ### Synonyms
 - [[+/_+1|+1]], [[l/_like|like]], [[t/_this|this]], [[I/_IAWTP|IAWTP]]

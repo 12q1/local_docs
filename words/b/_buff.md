@@ -6,13 +6,13 @@
 - **A [[b/_brownish|brownish]] [[y/_yellow|yellow]] [[c/_colour|colour]].**
 - **A [[m/_military|military]] [[c/_coat|coat]] [[m/_made|made]] of [[b/_buff|buff]] [[l/_leather|leather]].**
 - **A [[p/_person|person]] who is very [[i/_interested|interested]] in a [[p/_particular|particular]] subject; an [[e/_enthusiast|enthusiast]].**
-- **An [[e/_effect|effect]] that [[m/_makes|makes]] a [[c/_character|character]] or [[i/_item|item]] stronger.**
+- **An [[e/_effect|effect]] that [[m/_makes|makes]] a [[c/_character|character]] or [[i/_item|item]] [[s/_stronger|stronger]].**
 	- _Example: I just picked up an epic damage buff! Let's go gank the other team!_
 - **[[c/_compressive|Compressive]] [[c/_coupler|coupler]] [[f/_force|force]] that [[o/_occurs|occurs]] [[d/_during|during]] a [[s/_slack|slack]] [[b/_bunched|bunched]] [[c/_condition|condition]].**
 - **The [[b/_bare|bare]] [[s/_skin|skin]].**
 	- _Example: to strip to the buff_
 - **The [[g/_greyish|greyish]] viscid substance [[c/_constituting|constituting]] the [[b/_buffy|buffy]] [[c/_coat|coat]].**
-- **A substance used to [[d/_dilute|dilute]] (street) [[d/_drugs|drugs]] in [[o/_order|order]] to [[i/_increase|increase]] [[p/_profits|profits]].**
+- **A substance used to [[d/_dilute|dilute]] ([[s/_street|street]]) [[d/_drugs|drugs]] in [[o/_order|order]] to [[i/_increase|increase]] [[p/_profits|profits]].**
 ---
 ### Synonyms
 - [[a/_aficionado|aficionado]], [[r/_revamp|revamp]]
@@ -21,7 +21,7 @@
 #verb
 - **To [[p/_polish|polish]] and [[m/_make|make]] [[s/_shiny|shiny]] by [[r/_rubbing|rubbing]].**
 	- _Example: He was already buffing the car's hubs._
-- **To [[m/_make|make]] a [[c/_character|character]] or an [[i/_item|item]] stronger.**
+- **To [[m/_make|make]] a [[c/_character|character]] or an [[i/_item|item]] [[s/_stronger|stronger]].**
 	- _Example: I noticed that the pistols were buffed in the update._
 - **To [[m/_modify|modify]] a [[m/_medical|medical]] [[c/_chart|chart]], [[e/_especially|especially]] in a [[d/_dishonest|dishonest]] [[m/_manner|manner]].**
 ---

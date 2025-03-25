@@ -10,7 +10,7 @@
 - **[[a/_any|Any]] swimming [[a/_amphipod|amphipod]].**
 - **A swift [[r/_runner|runner]].**
 - **A [[f/_form|form]] of [[g/_garden|garden]] [[h/_hoe|hoe]].**
-- **A [[s/_slap|slap]]; a [[s/_sharp|sharp]] stroke.**
+- **A [[s/_slap|slap]]; a [[s/_sharp|sharp]] [[s/_stroke|stroke]].**
 - **[[p/_pornography|Pornography]].**
 - **The [[d/_drink|drink]] Irn-Bru.**
 	- _Example: a bottle of scud_

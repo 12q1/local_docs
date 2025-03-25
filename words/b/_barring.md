@@ -7,12 +7,12 @@
 	- _Example: I couldn't get into the nightclub because I had been barred._
 - **To [[l/_lock|lock]] or [[b/_bolt|bolt]] with a [[b/_bar|bar]].**
 	- _Example: bar the door_
-- **To [[i/_imprint|imprint]] or [[p/_paint|paint]] with [[b/_bars|bars]], to stripe.**
+- **To [[i/_imprint|imprint]] or [[p/_paint|paint]] with [[b/_bars|bars]], to [[s/_stripe|stripe]].**
 ---
 ### Synonyms
 - [[b/_block|block]], [[h/_hinder|hinder]], [[o/_obstruct|obstruct]], [[b/_ban|ban]], [[i/_interdict|interdict]], [[p/_prohibit|prohibit]]
 #noun
-- **([[c/_collective|collective]]) [[b/_bars|Bars]]; an [[a/_arrangement|arrangement]] or [[p/_pattern|pattern]] of stripes or [[b/_bars|bars]].**
+- **([[c/_collective|collective]]) [[b/_bars|Bars]]; an [[a/_arrangement|arrangement]] or [[p/_pattern|pattern]] of [[s/_stripes|stripes]] or [[b/_bars|bars]].**
 - **The [[a/_act|act]] of [[f/_fitting|fitting]] or [[c/_closing|closing]] [[s/_something|something]] with [[b/_bars|bars]].**
 - **The [[e/_exclusion|exclusion]] of [[s/_someone|someone]]; [[b/_blackballing|blackballing]].**
 - **Timber used for supporting the [[r/_roof|roof]] or [[s/_sides|sides]] of [[s/_shafts|shafts]].**

@@ -9,14 +9,14 @@
 	- _Example: Though a pawn of the gods, her departure is the precipitating cause of the Trojan War._
 ---
 #noun
-- **The state of [[b/_being|being]] [[h/_held|held]] as [[s/_security|security]] for a [[l/_loan|loan]], or as a [[p/_pledge|pledge]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[h/_held|held]] as [[s/_security|security]] for a [[l/_loan|loan]], or as a [[p/_pledge|pledge]].**
 	- _Example: All our jewellery was in pawn by this stage._
 - **An [[i/_instance|instance]] of [[p/_pawning|pawning]] [[s/_something|something]].**
 - **An [[i/_item|item]] [[g/_given|given]] as [[s/_security|security]] on a [[l/_loan|loan]], or as a [[p/_pledge|pledge]].**
 - **A [[p/_pawnshop|pawnshop]]; [[p/_pawnbroker|pawnbroker]].**
 ---
 #verb
-- **To [[p/_pledge|pledge]]; to stake or wager.**
+- **To [[p/_pledge|pledge]]; to [[s/_stake|stake]] or wager.**
 - **To [[g/_give|give]] as [[s/_security|security]] on a [[l/_loan|loan]] of [[m/_money|money]]; [[e/_especially|especially]], to [[d/_deposit|deposit]] ([[s/_something|something]]) at a [[p/_pawn|pawn]] [[s/_shop|shop]].**
 ---
 ### Synonyms

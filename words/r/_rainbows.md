@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[m/_multicoloured|multicoloured]] [[a/_arch|arch]] in the [[s/_sky|sky]], [[p/_produced|produced]] by [[p/_prismatic|prismatic]] [[r/_refraction|refraction]] of [[l/_light|light]] within [[d/_droplets|droplets]] of [[r/_rain|rain]] in the [[a/_air|air]].**
-- **[[a/_any|Any]] [[p/_prismatic|prismatic]] [[r/_refraction|refraction]] of [[l/_light|light]] [[s/_showing|showing]] a spectrum of [[c/_colours|colours]].**
+- **[[a/_any|Any]] [[p/_prismatic|prismatic]] [[r/_refraction|refraction]] of [[l/_light|light]] [[s/_showing|showing]] a [[s/_spectrum|spectrum]] of [[c/_colours|colours]].**
 - **([[o/_often|often]] used with “of”) A wide [[a/_assortment|assortment]]; a varied [[m/_multitude|multitude]].**
 	- _Example: a rainbow of possibilities_
 - **An [[i/_illusion|illusion]], [[m/_mirage|mirage]].**

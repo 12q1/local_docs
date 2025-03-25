@@ -7,6 +7,6 @@
 ### Synonyms
 - [[s/_stook|stook]]
 #verb
-- **To [[p/_pack|pack]] (staves, [[e/_etc|etc]].) in a [[s/_shook|shook]].**
+- **To [[p/_pack|pack]] ([[s/_staves|staves]], [[e/_etc|etc]].) in a [[s/_shook|shook]].**
 ---
 ---

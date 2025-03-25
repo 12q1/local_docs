@@ -1,6 +1,6 @@
 # Overstaff
 ---
 #verb
-- **To [[f/_furnish|furnish]] with too [[m/_many|many]] staff.**
+- **To [[f/_furnish|furnish]] with too [[m/_many|many]] [[s/_staff|staff]].**
 ---
 ---

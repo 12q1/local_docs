@@ -6,7 +6,7 @@
 - **[[a/_any|Any]] of various [[n/_nymphalid|nymphalid]] [[b/_butterflies|butterflies]] [[h/_having|having]] [[b/_brown|brown]] and [[o/_orange|orange]] wings, [[e/_especially|especially]] Cupha erymanthis.**
 ---
 #adjective
-- **[[c/_country|Country]]-styled or [[p/_pastoral|pastoral]]; [[r/_rural|rural]].**
+- **[[c/_country|Country]]-[[s/_styled|styled]] or [[p/_pastoral|pastoral]]; [[r/_rural|rural]].**
 - **Unfinished or [[r/_roughly|roughly]] [[f/_finished|finished]].**
 	- _Example: rustic manners_
 - **[[c/_crude|Crude]], [[r/_rough|rough]].**

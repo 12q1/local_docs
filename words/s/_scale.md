@@ -1,7 +1,7 @@
 # Scale
 ---
 #noun
-- **A [[l/_ladder|ladder]]; a [[s/_series|series]] of steps; a [[m/_means|means]] of [[a/_ascending|ascending]].**
+- **A [[l/_ladder|ladder]]; a [[s/_series|series]] of [[s/_steps|steps]]; a [[m/_means|means]] of [[a/_ascending|ascending]].**
 - **An [[o/_ordered|ordered]], usually [[n/_numerical|numerical]] [[s/_sequence|sequence]] used for [[m/_measurement|measurement]], [[m/_means|means]] of [[a/_assigning|assigning]] a [[m/_magnitude|magnitude]].**
 	- _Example: Please rate your experience on a scale from 1 to 10._
 - **[[s/_size|Size]]; [[s/_scope|scope]].**
@@ -12,8 +12,8 @@
 - **A [[s/_series|series]] of [[n/_notes|notes]] [[s/_spanning|spanning]] an [[o/_octave|octave]], tritave, or [[p/_pseudo|pseudo]]-[[o/_octave|octave]], used to [[m/_make|make]] [[m/_melodies|melodies]].**
 - **A [[m/_mathematical|mathematical]] [[b/_base|base]] for a [[n/_numeral|numeral]] [[s/_system|system]]; [[r/_radix|radix]].**
 	- _Example: the decimal scale; the binary scale_
-- **[[g/_gradation|Gradation]]; succession of [[a/_ascending|ascending]] and [[d/_descending|descending]] steps and [[d/_degrees|degrees]]; [[p/_progressive|progressive]] [[s/_series|series]]; [[s/_scheme|scheme]] of [[c/_comparative|comparative]] [[r/_rank|rank]] or [[o/_order|order]].**
-- **A standard [[a/_amount|amount]] of [[m/_money|money]] to be [[r/_received|received]] by a [[p/_performer|performer]] or writer, [[n/_negotiated|negotiated]] by a union.**
+- **[[g/_gradation|Gradation]]; succession of [[a/_ascending|ascending]] and [[d/_descending|descending]] [[s/_steps|steps]] and [[d/_degrees|degrees]]; [[p/_progressive|progressive]] [[s/_series|series]]; [[s/_scheme|scheme]] of [[c/_comparative|comparative]] [[r/_rank|rank]] or [[o/_order|order]].**
+- **A [[s/_standard|standard]] [[a/_amount|amount]] of [[m/_money|money]] to be [[r/_received|received]] by a [[p/_performer|performer]] or writer, [[n/_negotiated|negotiated]] by a union.**
 	- _Example: Sally wasn't the star of the show, so she was glad to be paid scale._
 ---
 #verb

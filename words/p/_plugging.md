@@ -1,7 +1,7 @@
 # Plugging
 ---
 #verb
-- **To stop with a [[p/_plug|plug]]; to [[m/_make|make]] tight by stopping a [[h/_hole|hole]].**
+- **To [[s/_stop|stop]] with a [[p/_plug|plug]]; to [[m/_make|make]] tight by [[s/_stopping|stopping]] a [[h/_hole|hole]].**
 	- _Example: He attempted to plug the leaks with some caulk._
 - **To [[b/_blatantly|blatantly]] [[m/_mention|mention]] a [[p/_particular|particular]] [[p/_product|product]] or [[s/_service|service]] as [[i/_if|if]] [[a/_advertising|advertising]] it.**
 	- _Example: The main guest on the show just kept plugging his latest movie: it got so tiresome._
@@ -14,8 +14,8 @@
 ### Synonyms
 - [[d/_drill|drill]], [[p/_pound|pound]], [[p/_pop|pop]], [[v/_ventilate|ventilate]]
 #noun
-- **The [[a/_act|act]] of stopping with a [[p/_plug|plug]].**
-- **The [[m/_material|material]] of which a [[p/_plug|plug]] or stopper is [[m/_made|made]].**
+- **The [[a/_act|act]] of [[s/_stopping|stopping]] with a [[p/_plug|plug]].**
+- **The [[m/_material|material]] of which a [[p/_plug|plug]] or [[s/_stopper|stopper]] is [[m/_made|made]].**
 - **An [[a/_arrangement|arrangement]] of [[p/_plugs|plugs]].**
 	- _Example: We tried a few different pluggings._
 ---

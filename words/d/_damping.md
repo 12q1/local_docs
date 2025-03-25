@@ -10,6 +10,6 @@
 - [[m/_moisten|moisten]]
 #noun
 - **The [[r/_reduction|reduction]] in the [[m/_magnitude|magnitude]] of [[o/_oscillations|oscillations]] by the [[d/_dissipation|dissipation]] of [[e/_energy|energy]]**
-- **The stabilization of a [[p/_physical|physical]] [[s/_system|system]] by [[r/_reducing|reducing]] [[o/_oscillation|oscillation]]**
+- **The [[s/_stabilization|stabilization]] of a [[p/_physical|physical]] [[s/_system|system]] by [[r/_reducing|reducing]] [[o/_oscillation|oscillation]]**
 ---
 ---

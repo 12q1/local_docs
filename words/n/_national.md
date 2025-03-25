@@ -8,7 +8,7 @@
 ---
 #adjective
 - **Of or [[h/_having|having]] to [[d/_do|do]] with a [[n/_nation|nation]].**
-- **(by [[e/_extension|extension]]) Of or [[h/_having|having]] to [[d/_do|do]] with a [[c/_country|country]] ([[s/_sovereign|sovereign]] state).**
+- **(by [[e/_extension|extension]]) Of or [[h/_having|having]] to [[d/_do|do]] with a [[c/_country|country]] ([[s/_sovereign|sovereign]] [[s/_state|state]]).**
 	- _Example: Import tariffs were raised for the national interest._
 ---
 ---

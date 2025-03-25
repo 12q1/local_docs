@@ -31,7 +31,7 @@
 - **A [[m/_medieval|medieval]] [[f/_french|French]] weight, 1/20 of the [[c/_carolingian|Carolingian]] [[p/_pound|pound]].**
 - **The [[f/_formal|formal]] [[n/_name|name]] of the [[o/_oblique|oblique]] strikethrough [[o/_overlay|overlay]] (as in A̷ and [[b/_b|B]]̸) in Unicode.**
 - **The [[d/_division|division]] [[l/_line|line]] [[b/_between|between]] the [[n/_numerator|numerator]] and the [[d/_denominator|denominator]] of a [[f/_fraction|fraction]], whether [[h/_horizontal|horizontal]] or [[o/_oblique|oblique]].**
-- **The [[l/_line|line]] in a [[p/_phase|phase]] [[d/_diagram|diagram]] [[m/_marking|marking]] the temperatures and [[p/_pressures|pressures]] [[b/_below|below]] which a [[g/_given|given]] substance is a stable [[s/_solid|solid]].**
+- **The [[l/_line|line]] in a [[p/_phase|phase]] [[d/_diagram|diagram]] [[m/_marking|marking]] the temperatures and [[p/_pressures|pressures]] [[b/_below|below]] which a [[g/_given|given]] substance is a [[s/_stable|stable]] [[s/_solid|solid]].**
 ---
 ### Synonyms
 - [[b/_bezant|bezant]], [[n/_nomisma|nomisma]], [[b/_bezant|bezant]], [[h/_hyperpyron|hyperpyron]], [[n/_nomisma|nomisma]], [[s/_slash|slash]], [[s/_strikethrough|strikethrough]]

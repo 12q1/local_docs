@@ -1,7 +1,7 @@
 # Spatulas
 ---
 #noun
-- **A [[k/_kitchen|kitchen]] utensil [[c/_consisting|consisting]] of a [[f/_flat|flat]] surface [[a/_attached|attached]] to a [[l/_long|long]] [[h/_handle|handle]], used for turning, [[l/_lifting|lifting]] or stirring [[f/_food|food]].**
+- **A [[k/_kitchen|kitchen]] utensil [[c/_consisting|consisting]] of a [[f/_flat|flat]] surface [[a/_attached|attached]] to a [[l/_long|long]] [[h/_handle|handle]], used for turning, [[l/_lifting|lifting]] or [[s/_stirring|stirring]] [[f/_food|food]].**
 - **A [[k/_kitchen|kitchen]] utensil [[c/_consisting|consisting]] of a [[f/_flexible|flexible]] surface [[a/_attached|attached]] to a [[l/_long|long]] [[h/_handle|handle]], used for [[s/_scraping|scraping]] the [[s/_sides|sides]] of [[b/_bowls|bowls]].**
 - **A [[p/_palette|palette]] [[k/_knife|knife]].**
 - **A thin [[h/_hand|hand]] tool, [[o/_often|often]] [[m/_made|made]] of [[n/_nickel|nickel]], for [[h/_handling|handling]] [[c/_chemicals|chemicals]] or [[o/_other|other]] [[m/_materials|materials]], when weighing, [[e/_etc|etc]].**

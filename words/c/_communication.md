@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] or [[f/_fact|fact]] of [[c/_communicating|communicating]] [[a/_anything|anything]]; transmission.**
 	- _Example: communication of a secret_
-- **The [[c/_concept|concept]] or state of [[e/_exchanging|exchanging]] [[d/_data|data]] or [[i/_information|information]] [[b/_between|between]] [[e/_entities|entities]].**
+- **The [[c/_concept|concept]] or [[s/_state|state]] of [[e/_exchanging|exchanging]] [[d/_data|data]] or [[i/_information|information]] [[b/_between|between]] [[e/_entities|entities]].**
 	- _Example: Some say that communication is a necessary prerequisite for sentience; others say that it is a result thereof._
 - **A [[m/_message|message]]; the [[e/_essential|essential]] [[d/_data|data]] transferred in an [[a/_act|act]] of [[c/_communication|communication]].**
 	- _Example: Surveillance was accomplished by means of intercepting the spies' communications._

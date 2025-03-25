@@ -14,7 +14,7 @@
 - **(in [[c/_chess|chess]] and [[s/_similar|similar]] [[g/_games|games]]) The [[p/_person|person]] [[p/_playing|playing]] with the [[b/_black|black]] [[s/_set|set]] of [[p/_pieces|pieces]].**
 	- _Example: At this point black makes a disastrous move._
 - **[[s/_something|Something]], or a [[p/_part|part]] of a thing, which is [[b/_black|black]].**
-- **A stain; a spot.**
+- **A [[s/_stain|stain]]; a [[s/_spot|spot]].**
 - **A [[d/_dark|dark]] [[s/_smut|smut]] [[f/_fungus|fungus]], [[h/_harmful|harmful]] to wheat.**
 - **[[m/_marijuana|Marijuana]].**
 ---
@@ -50,7 +50,7 @@
 	- _Example: 5 percent of the Defense Department funding will go to black projects._
 - **[[o/_occult|Occult]]; [[r/_relating|relating]] to [[s/_something|something]] (such as [[m/_mystical|mystical]] or [[m/_magical|magical]] [[k/_knowledge|knowledge]]) which is unknown to or [[k/_kept|kept]] [[s/_secret|secret]] from the [[g/_general|general]] [[p/_public|public]].**
 - **[[p/_protestant|Protestant]], [[o/_often|often]] with the [[i/_implication|implication]] of [[b/_being|being]] [[m/_militantly|militantly]] [[p/_pro|pro]]-[[b/_british|British]] or [[a/_anti|anti]]-[[c/_catholic|Catholic]]**
-- **[[h/_having|Having]] [[o/_one|one]] or [[m/_more|more]] [[f/_features|features]] ([[h/_hair|hair]], [[f/_fur|fur]], [[a/_armour|armour]], [[c/_clothes|clothes]], [[b/_bark|bark]], [[e/_etc|etc]]) that is [[d/_dark|dark]] (or [[b/_black|black]]); in taxonomy, [[e/_especially|especially]]: [[d/_dark|dark]] in [[c/_comparison|comparison]] to [[a/_another|another]] species with the [[s/_same|same]] [[b/_base|base]] [[n/_name|name]].**
+- **[[h/_having|Having]] [[o/_one|one]] or [[m/_more|more]] [[f/_features|features]] ([[h/_hair|hair]], [[f/_fur|fur]], [[a/_armour|armour]], [[c/_clothes|clothes]], [[b/_bark|bark]], [[e/_etc|etc]]) that is [[d/_dark|dark]] (or [[b/_black|black]]); in taxonomy, [[e/_especially|especially]]: [[d/_dark|dark]] in [[c/_comparison|comparison]] to [[a/_another|another]] [[s/_species|species]] with the [[s/_same|same]] [[b/_base|base]] [[n/_name|name]].**
 - **[[f/_foul|Foul]]; [[d/_dirty|dirty]].**
 ---
 ### Synonyms

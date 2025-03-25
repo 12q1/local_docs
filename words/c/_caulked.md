@@ -6,6 +6,6 @@
 - **[[f/_fuck|Fuck]]**
 ---
 #adjective
-- **[[h/_having|Having]] [[c/_cracks|cracks]] or [[c/_crevices|crevices]] stopped-up with a [[f/_filler|filler]].**
+- **[[h/_having|Having]] [[c/_cracks|cracks]] or [[c/_crevices|crevices]] [[s/_stopped|stopped]]-up with a [[f/_filler|filler]].**
 ---
 ---

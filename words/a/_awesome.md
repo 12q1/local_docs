@@ -1,7 +1,7 @@
 # Awesome
 ---
 #noun
-- **[[s/_short|Short]] for [[a/_awesomeness|awesomeness]]: the [[q/_quality|quality]], state, or [[e/_essence|essence]] of [[b/_being|being]] [[a/_awesome|awesome]].**
+- **[[s/_short|Short]] for [[a/_awesomeness|awesomeness]]: the [[q/_quality|quality]], [[s/_state|state]], or [[e/_essence|essence]] of [[b/_being|being]] [[a/_awesome|awesome]].**
 	- _Example: pure awesome; made of awesome_
 ---
 ### Synonyms

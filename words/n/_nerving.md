@@ -3,7 +3,7 @@
 #verb
 - **To [[g/_give|give]] [[c/_courage|courage]].**
 	- _Example: May their example nerve us to face the enemy._
-- **To [[g/_give|give]] strength; to supply [[e/_energy|energy]] or vigour.**
+- **To [[g/_give|give]] [[s/_strength|strength]]; to supply [[e/_energy|energy]] or vigour.**
 	- _Example: The liquor nerved up several of the men after their icy march._
 ---
 #noun

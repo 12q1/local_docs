@@ -1,0 +1,52 @@
+# Squares
+---
+#noun
+- **A [[p/_polygon|polygon]] with [[f/_four|four]] [[s/_sides|sides]] of [[e/_equal|equal]] [[l/_length|length]] and [[f/_four|four]] [[r/_right|right]] [[a/_angles|angles]]; an [[e/_equilateral|equilateral]] [[r/_rectangle|rectangle]]; a [[r/_regular|regular]] [[q/_quadrilateral|quadrilateral]].**
+- **[[s/_something|Something]] [[c/_characterized|characterized]] by a [[s/_square|square]], or [[n/_nearly|nearly]] [[s/_square|square]], [[f/_form|form]].**
+- **An [[l/_l|L]]- or T-[[s/_shaped|shaped]] tool used to [[p/_place|place]] [[o/_objects|objects]] or [[d/_draw|draw]] [[l/_lines|lines]] at [[r/_right|right]] [[a/_angles|angles]].**
+- **An [[o/_open|open]] [[s/_space|space]] or [[p/_park|park]], [[o/_often|often]] in the [[c/_center|center]] of a town, not [[n/_necessarily|necessarily]] [[s/_square|square]] in [[s/_shape|shape]], [[o/_often|often]] [[c/_containing|containing]] trees, [[s/_seating|seating]] and [[o/_other|other]] [[f/_features|features]] [[p/_pleasing|pleasing]] to the [[e/_eye|eye]].**
+- **The [[p/_product|product]] of a [[n/_number|number]] or [[q/_quantity|quantity]] [[m/_multiplied|multiplied]] by [[i/_itself|itself]]; the [[s/_second|second]] [[p/_power|power]] of a [[n/_number|number]], value, term or [[e/_expression|expression]].**
+	- _Example: 64 is the square of 8._
+- **A [[b/_body|body]] of troops [[d/_drawn|drawn]] up in a [[s/_square|square]] [[f/_formation|formation]].**
+- **(1950s [[s/_slang|slang]]) A [[s/_socially|socially]] [[c/_conventional|conventional]] or [[c/_conservative|conservative]] [[p/_person|person]]; a [[p/_person|person]] who [[h/_has|has]] [[l/_little|little]] or [[n/_no|no]] [[i/_interest|interest]] in the [[l/_latest|latest]] [[f/_fads|fads]] or trends: [[s/_still|still]] [[s/_sometimes|sometimes]] used in [[m/_modern|modern]] terminology.**
+	- _Example: Why do you always wear a tie? Don't be such a square!_
+- **The [[s/_symbol|symbol]] # on a telephone; [[h/_hash|hash]].**
+	- _Example: Enter your account number followed by a square._
+- **The [[c/_central|central]] [[a/_area|area]] of a [[c/_cricket|cricket]] [[f/_field|field]], with [[o/_one|one]] or [[m/_more|more]] [[p/_pitches|pitches]] of which [[o/_only|only]] [[o/_one|one]] is used at a time.**
+	- _Example: An ideal playing area is roughly circular in shape with a central area, the cricket square, measuring 27.44 metres by 27.44 metres and boundaries 45.75 metres from the sides of the square._
+- **A unit of [[m/_measurement|measurement]] of [[a/_area|area]], [[e/_equal|equal]] to a 10 [[f/_foot|foot]] by 10 [[f/_foot|foot]] [[s/_square|square]], [[i/_i|i]].[[e/_e|e]]. 100 [[s/_square|square]] [[f/_feet|feet]] or [[r/_roughly|roughly]] 9.3 [[s/_square|square]] [[m/_metres|metres]]. Used in [[r/_real|real]] [[e/_estate|estate]] for the [[s/_size|size]] of a [[h/_house|house]] or [[i/_its|its]] [[r/_rooms|rooms]], though [[p/_progressively|progressively]] [[b/_being|being]] [[r/_replaced|replaced]] by [[s/_square|square]] [[m/_metres|metres]] in [[m/_metric|metric]] [[c/_countries|countries]] such as [[a/_australia|Australia]].**
+- **([[r/_roofing|roofing]]) A unit used in [[m/_measuring|measuring]] [[r/_roof|roof]] [[a/_area|area]] [[e/_equivalent|equivalent]] to 100 [[s/_square|square]] [[f/_feet|feet]] (9.29 m2) of [[r/_roof|roof]] [[a/_area|area]].**
+- **([[a/_academia|academia]]) A [[m/_mortarboard|mortarboard]]**
+- **A [[s/_square|square]] [[m/_meal|meal]].**
+	- _Example: Even when times were tough, we got three squares a day._
+- **[[e/_exact|Exact]] [[p/_proportion|proportion]]; [[j/_justness|justness]] of workmanship and [[c/_conduct|conduct]]; [[r/_regularity|regularity]]; [[r/_rule|rule]].**
+- **The [[r/_relation|relation]] of [[h/_harmony|harmony]], or [[e/_exact|exact]] [[a/_agreement|agreement]]; [[e/_equality|equality]]; [[l/_level|level]].**
+- **The [[p/_position|position]] of [[p/_planets|planets]] [[d/_distant|distant]] [[n/_ninety|ninety]] [[d/_degrees|degrees]] from [[e/_each|each]] [[o/_other|other]]; a [[q/_quadrate|quadrate]].**
+- **The [[a/_act|act]] of [[s/_squaring|squaring]], or [[q/_quarrelling|quarrelling]]; a [[q/_quarrel|quarrel]].**
+- **[[c/_cigarette|Cigarette]].**
+- **A vat used for [[f/_fermentation|fermentation]].**
+---
+### Synonyms
+- [[h/_hash|hash]], [[s/_sharp|sharp]], [[p/_piazza|piazza]], [[p/_plaza|plaza]], [[t/_tetragon|tetragon]]
+#verb
+- **To [[a/_adjust|adjust]] [[s/_so|so]] as to [[a/_align|align]] with or [[p/_place|place]] at a [[r/_right|right]] [[a/_angle|angle]] to [[s/_something|something]] [[e/_else|else]]; in [[p/_particular|particular]]:**
+	- _Example: The casting was mounted on a milling machine so that its sides could be squared._
+- **To [[r/_resolve|resolve]] or [[r/_reconcile|reconcile]]; to suit or [[f/_fit|fit]].**
+	- _Example: John can square this question up for us._
+- **To [[a/_adjust|adjust]] or [[a/_adapt|adapt]] [[s/_so|so]] as to [[b/_bring|bring]] [[i/_into|into]] [[h/_harmony|harmony]] with [[s/_something|something]].**
+	- _Example: I cannot square the results of the experiment with my hypothesis._
+- **Of a value, term or [[e/_expression|expression]], to [[m/_multiply|multiply]] by [[i/_itself|itself]]; to [[r/_raise|raise]] to the [[s/_second|second]] [[p/_power|power]].**
+- **To [[d/_draw|draw]], with a [[p/_pair|pair]] of [[c/_compasses|compasses]] and a [[s/_straightedge|straightedge]] [[o/_only|only]], a [[s/_square|square]] with the [[s/_same|same]] [[a/_area|area]] as.**
+	- _Example: square the circle_
+- **To [[m/_make|make]] a [[s/_short|short]] [[l/_low|low]] [[p/_pass|pass]] [[s/_sideways|sideways]] [[a/_across|across]] the [[p/_pitch|pitch]]**
+- **To take [[o/_opposing|opposing]] [[s/_sides|sides]]; to [[q/_quarrel|quarrel]].**
+- **To [[a/_accord|accord]] or [[a/_agree|agree]] [[e/_exactly|exactly]]; to be [[c/_consistent|consistent]] with; to suit; to [[f/_fit|fit]].**
+- **To [[g/_go|go]] to [[o/_opposite|opposite]] [[s/_sides|sides]]; to take an [[a/_attitude|attitude]] of [[o/_offense|offense]] or [[d/_defense|defense]], or of [[d/_defiance|defiance]]; to [[q/_quarrel|quarrel]].**
+- **To take a [[b/_boxing|boxing]] [[a/_attitude|attitude]]; [[o/_often|often]] with up or [[o/_off|off]].**
+- **To [[f/_form|form]] with [[f/_four|four]] [[s/_sides|sides]] and [[f/_four|four]] [[r/_right|right]] [[a/_angles|angles]].**
+- **To [[f/_form|form]] with [[r/_right|right]] [[a/_angles|angles]] and [[s/_straight|straight]] [[l/_lines|lines]], or [[f/_flat|flat]] surfaces.**
+	- _Example: to square mason's work_
+- **To [[c/_compare|compare]] with, or [[r/_reduce|reduce]] to, [[a/_any|any]] [[g/_given|given]] [[m/_measure|measure]] or [[s/_standard|standard]].**
+- **To [[h/_hold|hold]] a [[q/_quartile|quartile]] [[p/_position|position]] [[r/_respecting|respecting]].**
+---
+---

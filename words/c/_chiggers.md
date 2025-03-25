@@ -7,6 +7,6 @@
 ### Synonyms
 - 
 #noun
-- **An [[e/_east|East]] [[a/_asian|Asian]] [[p/_person|person]] who [[b/_behaves|behaves]] in ways [[s/_similar|similar]] to a stereotypical urban [[a/_african|African]] [[a/_american|American]].**
+- **An [[e/_east|East]] [[a/_asian|Asian]] [[p/_person|person]] who [[b/_behaves|behaves]] in ways [[s/_similar|similar]] to a [[s/_stereotypical|stereotypical]] urban [[a/_african|African]] [[a/_american|American]].**
 ---
 ---

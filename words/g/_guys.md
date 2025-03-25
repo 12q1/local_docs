@@ -23,8 +23,8 @@
 ---
 #noun
 - **A [[g/_guide|guide]]; a [[l/_leader|leader]] or [[c/_conductor|conductor]].**
-- **A support [[r/_rope|rope]] or [[c/_cable|cable]] used to [[g/_guide|guide]], steady or [[s/_secure|secure]] [[s/_something|something]] which is [[b/_being|being]] [[h/_hoisted|hoisted]] or [[l/_lowered|lowered]].**
-- **A support to [[s/_secure|secure]] or steady [[s/_something|something]] [[p/_prone|prone]] to [[s/_shift|shift]] [[i/_its|its]] [[p/_position|position]] or be [[c/_carried|carried]] [[a/_away|away]] ([[e/_e|e]].[[g/_g|g]]. the [[m/_mast|mast]] of a [[s/_ship|ship]] or a suspension-[[b/_bridge|bridge]]).**
+- **A support [[r/_rope|rope]] or [[c/_cable|cable]] used to [[g/_guide|guide]], [[s/_steady|steady]] or [[s/_secure|secure]] [[s/_something|something]] which is [[b/_being|being]] [[h/_hoisted|hoisted]] or [[l/_lowered|lowered]].**
+- **A support to [[s/_secure|secure]] or [[s/_steady|steady]] [[s/_something|something]] [[p/_prone|prone]] to [[s/_shift|shift]] [[i/_its|its]] [[p/_position|position]] or be [[c/_carried|carried]] [[a/_away|away]] ([[e/_e|e]].[[g/_g|g]]. the [[m/_mast|mast]] of a [[s/_ship|ship]] or a suspension-[[b/_bridge|bridge]]).**
 ---
 #verb
 - **To [[e/_equip|equip]] with a support [[c/_cable|cable]].**

@@ -1,11 +1,11 @@
 # Yet
 ---
 #adverb
-- **(usually with [[n/_negative|negative]]) Thus [[f/_far|far]]; up to the [[p/_present|present]]; up to [[s/_some|some]] specified time; still**
+- **(usually with [[n/_negative|negative]]) Thus [[f/_far|far]]; up to the [[p/_present|present]]; up to [[s/_some|some]] [[s/_specified|specified]] time; [[s/_still|still]]**
 	- _Example: He has never yet been late for an appointment;   I’m not yet wise enough to answer that;   Have you finished yet?_
-- **[[c/_continuously|Continuously]] up to the [[c/_current|current]] time; still.**
+- **[[c/_continuously|Continuously]] up to the [[c/_current|current]] time; [[s/_still|still]].**
 	- _Example: The workers went to the factory early and are striking yet._
-- **At [[s/_some|some]] [[f/_future|future]] time; [[e/_eventually|eventually]]; still.**
+- **At [[s/_some|some]] [[f/_future|future]] time; [[e/_eventually|eventually]]; [[s/_still|still]].**
 	- _Example: The riddle will be solved yet._
 - **([[a/_after|after]] [[c/_certain|certain]] [[c/_copulative|copulative]] verbs, [[f/_followed|followed]] by an [[i/_infinitive|infinitive]]) Not as of the time [[r/_referenced|referenced]].**
 	- _Example: He seemed yet to be convinced. — He seemed not yet to have been convinced._

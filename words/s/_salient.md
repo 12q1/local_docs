@@ -11,8 +11,8 @@
 	- _Example: a lion salient_
 - **[[p/_projecting|Projecting]] [[o/_outwards|outwards]], [[p/_pointing|pointing]] [[o/_outwards|outwards]].**
 	- _Example: a salient angle_
-- **[[m/_moving|Moving]] by [[l/_leaps|leaps]] or springs; [[j/_jumping|jumping]].**
-- **[[s/_shooting|Shooting]] or springing [[o/_out|out]]; [[p/_projecting|projecting]].**
+- **[[m/_moving|Moving]] by [[l/_leaps|leaps]] or [[s/_springs|springs]]; [[j/_jumping|jumping]].**
+- **[[s/_shooting|Shooting]] or [[s/_springing|springing]] [[o/_out|out]]; [[p/_projecting|projecting]].**
 - **[[d/_denoting|Denoting]] [[a/_any|any]] [[a/_angle|angle]] [[l/_less|less]] than two [[r/_right|right]] [[a/_angles|angles]].**
 ---
 ### Synonyms

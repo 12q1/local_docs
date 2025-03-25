@@ -3,7 +3,7 @@
 #verb
 - **To [[a/_act|act]] in a [[m/_manner|manner]] such that [[o/_one|one]] [[h/_has|has]] [[f/_fun|fun]]; to [[e/_engage|engage]] in [[a/_activities|activities]] [[e/_expressly|expressly]] for the [[p/_purpose|purpose]] of [[r/_recreation|recreation]] or [[e/_entertainment|entertainment]].**
 	- _Example: They played long and hard._
-- **To [[p/_perform|perform]] in (a sport); to [[p/_participate|participate]] in (a [[g/_game|game]]).**
+- **To [[p/_perform|perform]] in (a [[s/_sport|sport]]); to [[p/_participate|participate]] in (a [[g/_game|game]]).**
 	- _Example: He plays on three teams_
 - **To take [[p/_part|part]] in [[a/_amorous|amorous]] [[a/_activity|activity]]; to [[m/_make|make]] [[l/_love|love]].**
 - **To [[a/_act|act]] as the [[i/_indicated|indicated]] [[r/_role|role]], [[e/_especially|especially]] in a [[p/_performance|performance]].**

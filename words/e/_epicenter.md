@@ -11,6 +11,6 @@
 ### Antonyms
 - [[h/_hypocentre|hypocentre]]
 #verb
-- **Of an [[e/_earthquake|earthquake]]: to [[h/_have|have]] [[i/_its|its]] [[e/_epicentre|epicentre]] (at a specified [[l/_location|location]]).**
+- **Of an [[e/_earthquake|earthquake]]: to [[h/_have|have]] [[i/_its|its]] [[e/_epicentre|epicentre]] (at a [[s/_specified|specified]] [[l/_location|location]]).**
 ---
 ---

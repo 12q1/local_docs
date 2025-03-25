@@ -1,7 +1,7 @@
 # Aloud
 ---
 #adjective
-- **Spoken [[o/_out|out]] [[l/_loud|loud]].**
+- **[[s/_spoken|Spoken]] [[o/_out|out]] [[l/_loud|loud]].**
 ---
 #adverb
 - **With a [[l/_loud|loud]] voice, or [[g/_great|great]] [[n/_noise|noise]]; [[l/_loudly|loudly]]; [[a/_audibly|audibly]].**

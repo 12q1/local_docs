@@ -1,7 +1,7 @@
 # Gigged
 ---
 #verb
-- **To [[f/_fish|fish]] or [[c/_catch|catch]] with a [[g/_gig|gig]], or [[f/_fish|fish]] spear.**
+- **To [[f/_fish|fish]] or [[c/_catch|catch]] with a [[g/_gig|gig]], or [[f/_fish|fish]] [[s/_spear|spear]].**
 - **To [[e/_engage|engage]] in [[m/_musical|musical]] [[p/_performances|performances]].**
 	- _Example: The Stones were gigging around Richmond at the time_
 - **To [[m/_make|make]] [[f/_fun|fun]] of; to [[m/_make|make]] a [[j/_joke|joke]] at [[s/_someone|someone]]'[[s/_s|s]] [[e/_expense|expense]], [[o/_often|often]] [[c/_condescending|condescending]].**

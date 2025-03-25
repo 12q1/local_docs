@@ -1,7 +1,7 @@
 # Hardly
 ---
 #adverb
-- **([[m/_manner|manner]]) [[f/_firmly|Firmly]], vigorously, with strength or [[e/_exertion|exertion]].**
+- **([[m/_manner|manner]]) [[f/_firmly|Firmly]], vigorously, with [[s/_strength|strength]] or [[e/_exertion|exertion]].**
 - **([[m/_manner|manner]]) [[h/_harshly|Harshly]], [[s/_severely|severely]]; in a [[h/_hard|hard]] [[m/_manner|manner]].**
 	- _Example: I can't really deal hardly with people._
 - **With [[d/_difficulty|difficulty]].**

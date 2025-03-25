@@ -1,7 +1,7 @@
 # Cavemen
 ---
 #noun
-- **An [[e/_early|early]] [[h/_human|human]] or [[c/_closely|closely]] [[r/_related|related]] species, [[p/_popularly|popularly]] [[h/_held|held]] to [[r/_reside|reside]] in [[c/_caves|caves]].**
+- **An [[e/_early|early]] [[h/_human|human]] or [[c/_closely|closely]] [[r/_related|related]] [[s/_species|species]], [[p/_popularly|popularly]] [[h/_held|held]] to [[r/_reside|reside]] in [[c/_caves|caves]].**
 	- _Example: The political cartoon showed the politician as a caveman, clubbing the budget depicted as a mammoth._
 - **A [[b/_brutish|brutish]] or [[s/_savage|savage]] [[p/_person|person]].**
 	- _Example: The football squad was made up of cavemen who were responsible for trashing many a locker room._

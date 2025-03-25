@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[g/_grandeur|Grandeur]], [[g/_greatness|greatness]], [[m/_magnificence|magnificence]].**
-- **Stateliness, [[d/_dignity|dignity]].**
+- **[[s/_stateliness|Stateliness]], [[d/_dignity|dignity]].**
 - **[[m/_magnanimity|Magnanimity]].**
 ---
 ---

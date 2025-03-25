@@ -5,7 +5,7 @@
 - **(by [[e/_extension|extension]]) A [[l/_large|large]] [[p/_penis|penis]].**
 ---
 #propernoun
-- **A [[p/_particular|particular]] variety of stud [[p/_poker|poker]].**
+- **A [[p/_particular|particular]] variety of [[s/_stud|stud]] [[p/_poker|poker]].**
 ---
 ### Synonyms
 - 

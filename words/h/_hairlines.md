@@ -1,7 +1,7 @@
 # Hairlines
 ---
 #noun
-- **The [[l/_line|line]] [[a/_along|along]] [[o/_one|one]]'[[s/_s|s]] [[f/_forehead|forehead]] where [[h/_hair|hair]] starts [[g/_growing|growing]].**
+- **The [[l/_line|line]] [[a/_along|along]] [[o/_one|one]]'[[s/_s|s]] [[f/_forehead|forehead]] where [[h/_hair|hair]] [[s/_starts|starts]] [[g/_growing|growing]].**
 	- _Example: It's just a receding hairline — it's not like you're going bald._
 - **A very thin [[l/_line|line]] in writing, [[d/_drawing|drawing]], or typography.**
 - **A [[f/_fishing|fishing]] [[l/_line|line]] [[m/_made|made]] from [[h/_hair|hair]].**

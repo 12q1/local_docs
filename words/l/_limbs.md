@@ -21,6 +21,6 @@
 - **The [[a/_apparent|apparent]] visual [[e/_edge|edge]] of a [[c/_celestial|celestial]] [[b/_body|body]].**
 	- _Example: solar limb_
 - **(on a [[m/_measuring|measuring]] [[i/_instrument|instrument]]) The [[g/_graduated|graduated]] [[e/_edge|edge]] of a [[c/_circle|circle]] or [[a/_arc|arc]].**
-- **The [[b/_border|border]] or upper spreading [[p/_part|part]] of a [[m/_monopetalous|monopetalous]] [[c/_corolla|corolla]], or of a [[p/_petal|petal]] or [[s/_sepal|sepal]]; [[b/_blade|blade]].**
+- **The [[b/_border|border]] or upper [[s/_spreading|spreading]] [[p/_part|part]] of a [[m/_monopetalous|monopetalous]] [[c/_corolla|corolla]], or of a [[p/_petal|petal]] or [[s/_sepal|sepal]]; [[b/_blade|blade]].**
 ---
 ---

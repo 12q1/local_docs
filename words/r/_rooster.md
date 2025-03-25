@@ -6,7 +6,7 @@
 - **An [[i/_informer|informer]].**
 - **A violent or [[d/_disorderly|disorderly]] [[p/_person|person]].**
 - **A [[p/_powerful|powerful]], [[p/_prideful|prideful]], or [[p/_pompous|pompous]] [[p/_person|person]].**
-- **([[o/_originally|originally]] United States [[s/_slang|slang]]) A [[m/_man|man]].**
+- **([[o/_originally|originally]] United [[s/_states|States]] [[s/_slang|slang]]) A [[m/_man|man]].**
 - **A wild violet, when used in a [[c/_children|children]]'[[s/_s|s]] [[g/_game|game]] [[b/_based|based]] on [[c/_cockfighting|cockfighting]].**
 - **[[l/_legislation|Legislation]] [[s/_solely|solely]] [[d/_devised|devised]] to [[b/_benefit|benefit]] the [[l/_legislators|legislators]] [[p/_proposing|proposing]] it.**
 ---

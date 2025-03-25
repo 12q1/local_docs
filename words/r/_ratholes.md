@@ -3,7 +3,7 @@
 #noun
 - **An [[e/_entrance|entrance]] to a [[l/_living|living]] [[a/_area|area]] or [[p/_passageway|passageway]] used by [[m/_mice|mice]] or [[r/_rats|rats]].**
 - **A [[l/_living|living]] [[a/_area|area]] used by [[m/_mice|mice]] or [[r/_rats|rats]].**
-- **A [[p/_particularly|particularly]] squalid [[h/_human|human]] [[r/_residence|residence]].**
+- **A [[p/_particularly|particularly]] [[s/_squalid|squalid]] [[h/_human|human]] [[r/_residence|residence]].**
 - **An [[a/_area|area]] of a [[s/_silo|silo]] that [[h/_has|has]] undergone ratholing, [[s/_so|so]] that [[m/_material|material]] [[m/_moves|moves]] [[m/_mostly|mostly]] through the [[c/_centre|centre]] and [[a/_accumulates|accumulates]] [[a/_around|around]] the [[e/_edges|edges]].**
 - **A [[p/_pigeonhole|pigeonhole]].**
 ---

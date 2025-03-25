@@ -7,7 +7,7 @@
 	- _Example: 11 divided by 2 is 5 remainder 1._
 - **The [[n/_number|number]] [[l/_left|left]] [[o/_over|over]] [[a/_after|after]] a [[s/_simple|simple]] subtraction**
 	- _Example: 10 minus 4 leaves a remainder of 6_
-- **[[e/_excess|Excess]] stock [[i/_items|items]] [[l/_left|left]] unsold and subject to [[r/_reduction|reduction]] in [[p/_price|price]].**
+- **[[e/_excess|Excess]] [[s/_stock|stock]] [[i/_items|items]] [[l/_left|left]] unsold and subject to [[r/_reduction|reduction]] in [[p/_price|price]].**
 	- _Example: I got a really good price on this shirt because it was a remainder._
 - **An [[e/_estate|estate]] in [[e/_expectancy|expectancy]] which [[o/_only|only]] [[c/_comes|comes]] in [[i/_its|its]] [[h/_heir|heir]]'[[s/_s|s]] [[p/_possession|possession]] [[a/_after|after]] an [[e/_estate|estate]] [[c/_created|created]] by the [[s/_same|same]] [[i/_instrument|instrument]] [[h/_has|has]] [[b/_been|been]] [[d/_determined|determined]]**
 ---

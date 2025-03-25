@@ -1,7 +1,7 @@
 # Highfalutin
 ---
 #noun
-- **[[p/_pompous|Pompous]] speech or writing.**
+- **[[p/_pompous|Pompous]] [[s/_speech|speech]] or writing.**
 ---
 #adjective
 - **[[s/_self|Self]]-[[i/_important|important]], [[p/_pompous|pompous]]; [[a/_arrogant|arrogant]] or [[e/_egotistical|egotistical]].**

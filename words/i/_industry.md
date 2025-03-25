@@ -9,7 +9,7 @@
 - **(in the [[s/_singular|singular]]) The [[s/_sector|sector]] of the [[e/_economy|economy]] [[c/_consisting|consisting]] of [[l/_large|large]]-[[s/_scale|scale]] [[e/_enterprises|enterprises]].**
 	- _Example: There used to be a lot of industry around here, but now the economy depends on tourism._
 - **[[a/_automated|Automated]] [[p/_production|production]] of [[m/_material|material]] [[g/_goods|goods]].**
-- **A typological [[c/_classification|classification]] of stone tools, [[a/_associated|associated]] with a technocomplex.**
+- **A typological [[c/_classification|classification]] of [[s/_stone|stone]] tools, [[a/_associated|associated]] with a technocomplex.**
 ---
 ### Synonyms
 - [[f/_field|field]], [[s/_sector|sector]], [[m/_manufacturing|manufacturing]], [[a/_application|application]], [[d/_diligence|diligence]]

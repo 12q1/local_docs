@@ -1,7 +1,7 @@
 # Gestures
 ---
 #noun
-- **A [[m/_motion|motion]] of the [[l/_limbs|limbs]] or [[b/_body|body]], [[e/_especially|especially]] [[o/_one|one]] [[m/_made|made]] to [[e/_emphasize|emphasize]] speech.**
+- **A [[m/_motion|motion]] of the [[l/_limbs|limbs]] or [[b/_body|body]], [[e/_especially|especially]] [[o/_one|one]] [[m/_made|made]] to [[e/_emphasize|emphasize]] [[s/_speech|speech]].**
 	- _Example: The middle-finger gesture is really a nonverbal swear._
 - **An [[a/_act|act]] or a [[r/_remark|remark]] [[m/_made|made]] as a [[f/_formality|formality]] or as a [[s/_sign|sign]] of [[a/_attitude|attitude]].**
 	- _Example: We took flowers as a gesture of sympathy._

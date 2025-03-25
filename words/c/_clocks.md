@@ -8,13 +8,13 @@
 - **The [[s/_seed|seed]] [[h/_head|head]] of a [[d/_dandelion|dandelion]].**
 - **A time [[c/_clock|clock]].**
 	- _Example: I can't go off to lunch yet: I'm still on the clock._
-- **A [[c/_cpu|CPU]] [[c/_clock|clock]] [[c/_cycle|cycle]], or T-state.**
+- **A [[c/_cpu|CPU]] [[c/_clock|clock]] [[c/_cycle|cycle]], or T-[[s/_state|state]].**
 ---
 ### Synonyms
 - [[t/_timepiece|timepiece]], [[o/_odometer|odometer]]
 #verb
 - **To [[m/_measure|measure]] the [[d/_duration|duration]] of.**
-- **To [[m/_measure|measure]] the speed of.**
+- **To [[m/_measure|measure]] the [[s/_speed|speed]] of.**
 	- _Example: He was clocked at 155 miles per hour._
 - **To [[h/_hit|hit]] ([[s/_someone|someone]]) [[h/_heavily|heavily]].**
 	- _Example: When the boxer let down his guard, his opponent clocked him._
@@ -28,13 +28,13 @@
 ### Synonyms
 - [[s/_slug|slug]], [[s/_smack|smack]], [[t/_thump|thump]], [[w/_whack|whack]], [[t/_time|time]]
 #noun
-- **A [[p/_pattern|pattern]] [[n/_near|near]] the [[h/_heel|heel]] of a [[s/_sock|sock]] or stocking.**
+- **A [[p/_pattern|pattern]] [[n/_near|near]] the [[h/_heel|heel]] of a [[s/_sock|sock]] or [[s/_stocking|stocking]].**
 ---
 #verb
-- **To [[o/_ornament|ornament]] ([[e/_e|e]].[[g/_g|g]]. the [[s/_side|side]] of a stocking) with [[f/_figured|figured]] work.**
+- **To [[o/_ornament|ornament]] ([[e/_e|e]].[[g/_g|g]]. the [[s/_side|side]] of a [[s/_stocking|stocking]]) with [[f/_figured|figured]] work.**
 ---
 #noun
-- **A [[l/_large|large]] [[b/_beetle|beetle]], [[e/_especially|especially]] the [[e/_european|European]] [[d/_dung|dung]] [[b/_beetle|beetle]] (Geotrupes stercorarius).**
+- **A [[l/_large|large]] [[b/_beetle|beetle]], [[e/_especially|especially]] the [[e/_european|European]] [[d/_dung|dung]] [[b/_beetle|beetle]] (Geotrupes [[s/_stercorarius|stercorarius]]).**
 ---
 #verb
 - **To [[m/_make|make]] the [[s/_sound|sound]] of a [[h/_hen|hen]]; to [[c/_cluck|cluck]].**

@@ -1,7 +1,7 @@
 # Fisher
 ---
 #noun
-- **A [[p/_person|person]] who [[c/_catches|catches]] [[f/_fish|fish]], [[e/_especially|especially]] for a [[l/_living|living]] or for sport.**
+- **A [[p/_person|person]] who [[c/_catches|catches]] [[f/_fish|fish]], [[e/_especially|especially]] for a [[l/_living|living]] or for [[s/_sport|sport]].**
 - **A [[p/_person|person]] [[a/_attempting|attempting]] to [[c/_catch|catch]] [[f/_fish|fish]].**
 ---
 ### Synonyms

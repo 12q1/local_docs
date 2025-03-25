@@ -8,18 +8,18 @@
 - [[s/_slash|slash]]
 #verb
 - **To [[d/_deviate|deviate]] from a [[p/_perpendicular|perpendicular]] [[l/_line|line]]; to [[m/_move|move]] in an [[o/_oblique|oblique]] [[d/_direction|direction]].**
-- **To [[m/_march|march]] in a [[d/_direction|direction]] [[o/_oblique|oblique]] to the [[l/_line|line]] of the [[c/_column|column]] or [[p/_platoon|platoon]]; — [[f/_formerly|formerly]] [[a/_accomplished|accomplished]] by [[o/_oblique|oblique]] steps, [[n/_now|now]] by [[d/_direct|direct]] steps, the [[m/_men|men]] [[h/_half|half]]-[[f/_facing|facing]] [[e/_either|either]] to the [[r/_right|right]] or [[l/_left|left]].**
+- **To [[m/_march|march]] in a [[d/_direction|direction]] [[o/_oblique|oblique]] to the [[l/_line|line]] of the [[c/_column|column]] or [[p/_platoon|platoon]]; — [[f/_formerly|formerly]] [[a/_accomplished|accomplished]] by [[o/_oblique|oblique]] [[s/_steps|steps]], [[n/_now|now]] by [[d/_direct|direct]] [[s/_steps|steps]], the [[m/_men|men]] [[h/_half|half]]-[[f/_facing|facing]] [[e/_either|either]] to the [[r/_right|right]] or [[l/_left|left]].**
 - **To [[s/_slant|slant]] (text, [[e/_etc|etc]].) at an [[a/_angle|angle]].**
 ---
 #adjective
 - **Not [[e/_erect|erect]] or [[p/_perpendicular|perpendicular]]; [[n/_neither|neither]] [[p/_parallel|parallel]] to, [[n/_nor|nor]] at [[r/_right|right]] [[a/_angles|angles]] from, the [[b/_base|base]]; [[s/_slanting|slanting]]; [[i/_inclined|inclined]].**
-- **Not straightforward; [[i/_indirect|indirect]]; [[o/_obscure|obscure]]; [[h/_hence|hence]], [[d/_disingenuous|disingenuous]]; underhand; [[p/_perverse|perverse]]; [[s/_sinister|sinister]].**
+- **Not [[s/_straightforward|straightforward]]; [[i/_indirect|indirect]]; [[o/_obscure|obscure]]; [[h/_hence|hence]], [[d/_disingenuous|disingenuous]]; underhand; [[p/_perverse|perverse]]; [[s/_sinister|sinister]].**
 - **Not [[d/_direct|direct]] in [[d/_descent|descent]]; not [[f/_following|following]] the [[l/_line|line]] of [[f/_father|father]] and [[s/_son|son]]; [[c/_collateral|collateral]].**
 - **Of [[l/_leaves|leaves]], [[h/_having|having]] the [[b/_base|base]] of the [[b/_blade|blade]] [[a/_asymmetrical|asymmetrical]], with [[o/_one|one]] [[s/_side|side]] [[l/_lower|lower]] than the [[o/_other|other]].**
 - **Of [[b/_branches|branches]] or [[r/_roots|roots]], [[g/_growing|growing]] at an [[a/_angle|angle]] that is [[n/_neither|neither]] vertical [[n/_nor|nor]] [[h/_horizontal|horizontal]].**
 - **([[g/_grammar|grammar]]) [[p/_pertaining|Pertaining]] to the [[o/_oblique|oblique]] [[c/_case|case]] ([[n/_non|non]]-[[n/_nominative|nominative]]).**
-- **([[g/_grammar|grammar]]) Of speech or [[n/_narration|narration]], [[i/_indirect|indirect]], [[e/_employing|employing]] the [[a/_actual|actual]] words of the [[s/_speaker|speaker]], but as [[r/_related|related]] by a third [[p/_person|person]], [[h/_having|having]] the [[f/_first|first]] [[p/_person|person]] in [[p/_pronoun|pronoun]] and verb [[c/_converted|converted]] [[i/_into|into]] the third [[p/_person|person]], [[a/_adverbs|adverbs]] of [[p/_present|present]] time [[i/_into|into]] the [[p/_past|past]], [[e/_etc|etc]].**
-- **[[e/_employing|Employing]] [[o/_oblique|oblique]] [[m/_motion|motion]], [[m/_motion|motion]] or [[p/_progression|progression]] in which [[o/_one|one]] [[p/_part|part]] (voice) stays on the [[s/_same|same]] [[n/_note|note]] while [[a/_another|another]] [[a/_ascends|ascends]] or [[d/_descends|descends]].**
+- **([[g/_grammar|grammar]]) Of [[s/_speech|speech]] or [[n/_narration|narration]], [[i/_indirect|indirect]], [[e/_employing|employing]] the [[a/_actual|actual]] words of the [[s/_speaker|speaker]], but as [[r/_related|related]] by a third [[p/_person|person]], [[h/_having|having]] the [[f/_first|first]] [[p/_person|person]] in [[p/_pronoun|pronoun]] and verb [[c/_converted|converted]] [[i/_into|into]] the third [[p/_person|person]], [[a/_adverbs|adverbs]] of [[p/_present|present]] time [[i/_into|into]] the [[p/_past|past]], [[e/_etc|etc]].**
+- **[[e/_employing|Employing]] [[o/_oblique|oblique]] [[m/_motion|motion]], [[m/_motion|motion]] or [[p/_progression|progression]] in which [[o/_one|one]] [[p/_part|part]] (voice) [[s/_stays|stays]] on the [[s/_same|same]] [[n/_note|note]] while [[a/_another|another]] [[a/_ascends|ascends]] or [[d/_descends|descends]].**
 ---
 #noun
 - **A [[s/_slashing|slashing]] [[a/_action|action]] or [[m/_motion|motion]], [[p/_particularly|particularly]]:**

@@ -1,8 +1,8 @@
 # Prills
 ---
 #noun
-- **A [[r/_rill|rill]], a [[s/_small|small]] stream**
-- **A spinning top**
+- **A [[r/_rill|rill]], a [[s/_small|small]] [[s/_stream|stream]]**
+- **A [[s/_spinning|spinning]] top**
 ---
 #noun
 - **A [[p/_pellet|pellet]], a [[g/_granule|granule]], a [[s/_small|small]] [[b/_bead|bead]]**

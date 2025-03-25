@@ -11,7 +11,7 @@
 	- _Example: Physically enjoyable frivolity can still offend the conscience_
 - **To [[s/_sin|sin]], transgress [[d/_divine|divine]] [[l/_law|law]] or [[m/_moral|moral]] [[r/_rules|rules]].**
 - **To transgress or violate a [[l/_law|law]] or [[m/_moral|moral]] [[r/_requirement|requirement]].**
-- **To [[c/_cause|cause]] to stumble; to [[c/_cause|cause]] to [[s/_sin|sin]] or to [[f/_fall|fall]].**
+- **To [[c/_cause|cause]] to [[s/_stumble|stumble]]; to [[c/_cause|cause]] to [[s/_sin|sin]] or to [[f/_fall|fall]].**
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_committing|committing]] an [[o/_offence|offence]].**

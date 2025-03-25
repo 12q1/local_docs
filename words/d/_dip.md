@@ -6,7 +6,7 @@
 - **[[i/_inclination|Inclination]] [[d/_downward|downward]]; [[d/_direction|direction]] [[b/_below|below]] a [[h/_horizontal|horizontal]] [[l/_line|line]]; [[s/_slope|slope]]; [[p/_pitch|pitch]].**
 - **The [[a/_action|action]] of [[d/_dipping|dipping]] or [[p/_plunging|plunging]] for a [[m/_moment|moment]] [[i/_into|into]] a [[l/_liquid|liquid]].**
 - **A tank or trough where [[c/_cattle|cattle]] or [[s/_sheep|sheep]] are [[i/_immersed|immersed]] in [[c/_chemicals|chemicals]] to [[k/_kill|kill]] [[p/_parasites|parasites]].**
-- **A [[d/_dip|dip]] stick.**
+- **A [[d/_dip|dip]] [[s/_stick|stick]].**
 - **A swim, usually a [[s/_short|short]] swim to [[r/_refresh|refresh]].**
 	- _Example: I'm going for a dip before breakfast._
 - **A [[p/_pickpocket|pickpocket]].**
@@ -14,8 +14,8 @@
 	- _Example: This onion dip is just scrumptious._
 - **The [[a/_angle|angle]] from [[h/_horizontal|horizontal]] of a [[p/_planar|planar]] [[g/_geologic|geologic]] surface, such as a [[f/_fault|fault]] [[l/_line|line]].**
 - **A [[d/_dipped|dipped]] [[c/_candle|candle]].**
-- **A [[m/_move|move]] in [[m/_many|many]] [[d/_different|different]] styles of [[p/_partner|partner]] [[d/_dances|dances]], [[o/_often|often]] [[p/_performed|performed]] at the [[e/_end|end]] of a [[d/_dance|dance]], in which the [[f/_follower|follower]] [[l/_leans|leans]] [[f/_far|far]] to the [[s/_side|side]] and is supported by the [[l/_leader|leader]]**
-- **A [[g/_gymnastic|gymnastic]] [[e/_exercise|exercise]] on the [[p/_parallel|parallel]] [[b/_bars|bars]] in which the [[p/_performer|performer]], [[r/_resting|resting]] on [[h/_his|his]] [[h/_hands|hands]], [[l/_lets|lets]] [[h/_his|his]] [[a/_arms|arms]] [[b/_bend|bend]] and [[h/_his|his]] [[b/_body|body]] [[s/_sink|sink]] until [[h/_his|his]] [[c/_chin|chin]] is [[l/_level|level]] with the [[b/_bars|bars]], and then [[r/_raises|raises]] [[h/_himself|himself]] by straightening [[h/_his|his]] [[a/_arms|arms]].**
+- **A [[m/_move|move]] in [[m/_many|many]] [[d/_different|different]] [[s/_styles|styles]] of [[p/_partner|partner]] [[d/_dances|dances]], [[o/_often|often]] [[p/_performed|performed]] at the [[e/_end|end]] of a [[d/_dance|dance]], in which the [[f/_follower|follower]] [[l/_leans|leans]] [[f/_far|far]] to the [[s/_side|side]] and is supported by the [[l/_leader|leader]]**
+- **A [[g/_gymnastic|gymnastic]] [[e/_exercise|exercise]] on the [[p/_parallel|parallel]] [[b/_bars|bars]] in which the [[p/_performer|performer]], [[r/_resting|resting]] on [[h/_his|his]] [[h/_hands|hands]], [[l/_lets|lets]] [[h/_his|his]] [[a/_arms|arms]] [[b/_bend|bend]] and [[h/_his|his]] [[b/_body|body]] [[s/_sink|sink]] until [[h/_his|his]] [[c/_chin|chin]] is [[l/_level|level]] with the [[b/_bars|bars]], and then [[r/_raises|raises]] [[h/_himself|himself]] by [[s/_straightening|straightening]] [[h/_his|his]] [[a/_arms|arms]].**
 - **In the turpentine [[i/_industry|industry]], the viscid [[e/_exudation|exudation]] that is [[d/_dipped|dipped]] [[o/_out|out]] from [[i/_incisions|incisions]] in the trees. Virgin [[d/_dip|dip]] is the [[r/_runnings|runnings]] of the [[f/_first|first]] [[y/_year|year]], [[y/_yellow|yellow]] [[d/_dip|dip]] the [[r/_runnings|runnings]] of subsequent [[y/_years|years]].**
 - **A sudden [[d/_drop|drop]] [[f/_followed|followed]] by a [[c/_climb|climb]], usually to [[a/_avoid|avoid]] [[o/_obstacles|obstacles]] or as the [[r/_result|result]] of [[g/_getting|getting]] [[i/_into|into]] an airhole.**
 - **The [[m/_moist|moist]] [[f/_form|form]] of [[s/_snuff|snuff]] tobacco.**
@@ -28,11 +28,11 @@
 - **(of a value or [[r/_rate|rate]]) To [[d/_decrease|decrease]] [[s/_slightly|slightly]].**
 - **To [[l/_lower|lower]] a [[l/_light|light]]'[[s/_s|s]] [[b/_beam|beam]].**
 	- _Example: Dip your lights as you meet an oncoming car._
-- **To [[l/_lower|lower]] (a [[f/_flag|flag]]), [[p/_particularly|particularly]] a [[n/_national|national]] [[e/_ensign|ensign]], to a [[p/_partially|partially]] [[h/_hoisted|hoisted]] [[p/_position|position]] in [[o/_order|order]] to [[r/_render|render]] or to [[r/_return|return]] a [[s/_salute|salute]]. While [[l/_lowered|lowered]], the [[f/_flag|flag]] is [[s/_said|said]] to be “at the [[d/_dip|dip]].” A [[f/_flag|flag]] [[b/_being|being]] [[c/_carried|carried]] on a staff [[m/_may|may]] be [[d/_dipped|dipped]] by [[l/_leaning|leaning]] it [[f/_forward|forward]] at an [[a/_approximate|approximate]] [[a/_angle|angle]] of 45 [[d/_degrees|degrees]].**
+- **To [[l/_lower|lower]] (a [[f/_flag|flag]]), [[p/_particularly|particularly]] a [[n/_national|national]] [[e/_ensign|ensign]], to a [[p/_partially|partially]] [[h/_hoisted|hoisted]] [[p/_position|position]] in [[o/_order|order]] to [[r/_render|render]] or to [[r/_return|return]] a [[s/_salute|salute]]. While [[l/_lowered|lowered]], the [[f/_flag|flag]] is [[s/_said|said]] to be “at the [[d/_dip|dip]].” A [[f/_flag|flag]] [[b/_being|being]] [[c/_carried|carried]] on a [[s/_staff|staff]] [[m/_may|may]] be [[d/_dipped|dipped]] by [[l/_leaning|leaning]] it [[f/_forward|forward]] at an [[a/_approximate|approximate]] [[a/_angle|angle]] of 45 [[d/_degrees|degrees]].**
 	- _Example: “The sailor rushed to the flag hoist to dip the flag in return.”_
 - **To treat [[c/_cattle|cattle]] or [[s/_sheep|sheep]] by [[i/_immersion|immersion]] in [[c/_chemical|chemical]] [[s/_solution|solution]].**
 	- _Example: The farmer is going to dip the cattle today._
-- **To use a [[d/_dip|dip]] stick to [[c/_check|check]] [[o/_oil|oil]] [[l/_level|level]] in an [[e/_engine|engine]].**
+- **To use a [[d/_dip|dip]] [[s/_stick|stick]] to [[c/_check|check]] [[o/_oil|oil]] [[l/_level|level]] in an [[e/_engine|engine]].**
 - **To [[c/_consume|consume]] [[s/_snuff|snuff]] by [[p/_placing|placing]] a [[p/_pinch|pinch]] [[b/_behind|behind]] the [[l/_lip|lip]] or under the tongue [[s/_so|so]] that the [[a/_active|active]] [[c/_chemical|chemical]] [[c/_constituents|constituents]] of the [[s/_snuff|snuff]] [[m/_may|may]] be [[a/_absorbed|absorbed]] [[i/_into|into]] the [[s/_system|system]] for their [[n/_narcotic|narcotic]] [[e/_effect|effect]].**
 - **To [[i/_immerse|immerse]] for [[b/_baptism|baptism]].**
 - **To wet, as [[i/_if|if]] by [[i/_immersing|immersing]]; to [[m/_moisten|moisten]].**

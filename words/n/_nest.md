@@ -1,7 +1,7 @@
 # Nest
 ---
 #noun
-- **A structure [[b/_built|built]] by a [[b/_bird|bird]] as a [[p/_place|place]] to [[i/_incubate|incubate]] [[e/_eggs|eggs]] and [[r/_rear|rear]] [[y/_young|young]].**
+- **A [[s/_structure|structure]] [[b/_built|built]] by a [[b/_bird|bird]] as a [[p/_place|place]] to [[i/_incubate|incubate]] [[e/_eggs|eggs]] and [[r/_rear|rear]] [[y/_young|young]].**
 - **A [[p/_place|place]] used by [[a/_another|another]] [[m/_mammal|mammal]], [[f/_fish|fish]], [[a/_amphibian|amphibian]] or [[i/_insect|insect]], for [[d/_depositing|depositing]] [[e/_eggs|eggs]] and [[h/_hatching|hatching]] [[y/_young|young]].**
 - **A [[s/_snug|snug]], [[c/_comfortable|comfortable]], or [[c/_cosy|cosy]] [[r/_residence|residence]] or [[j/_job|job]] [[s/_situation|situation]].**
 - **A [[r/_retreat|retreat]], or [[p/_place|place]] of [[h/_habitual|habitual]] [[r/_resort|resort]].**
@@ -12,11 +12,11 @@
 - **A [[f/_fixed|fixed]] [[n/_number|number]] of [[c/_cards|cards]] in [[s/_some|some]] [[b/_bidding|bidding]] [[g/_games|games]] [[a/_awarded|awarded]] to the [[h/_highest|highest]] [[b/_bidder|bidder]] [[a/_allowing|allowing]] [[h/_him|him]] to [[e/_exchange|exchange]] [[a/_any|any]] or [[a/_all|all]] with [[c/_cards|cards]] in [[h/_his|his]] [[h/_hand|hand]].**
 	- _Example: I was forced to change trumps when I found the ace, jack, and nine of diamonds in the nest._
 - **A [[f/_fortified|fortified]] [[p/_position|position]] for a weapon.**
-- **A structure [[c/_consisting|consisting]] of [[n/_nested|nested]] structures, such as [[n/_nested|nested]] [[l/_loops|loops]] or [[n/_nested|nested]] subroutine [[c/_calls|calls]].**
+- **A [[s/_structure|structure]] [[c/_consisting|consisting]] of [[n/_nested|nested]] [[s/_structures|structures]], such as [[n/_nested|nested]] [[l/_loops|loops]] or [[n/_nested|nested]] subroutine [[c/_calls|calls]].**
 - **A [[c/_circular|circular]] [[b/_bed|bed]] of [[p/_pasta|pasta]], [[r/_rice|rice]], [[e/_etc|etc]]. to be topped or [[f/_filled|filled]] with [[o/_other|other]] [[f/_foods|foods]].**
-- **An [[a/_aggregated|aggregated]] [[m/_mass|mass]] of [[a/_any|any]] [[o/_ore|ore]] or [[m/_mineral|mineral]], in an [[i/_isolated|isolated]] state, within a [[r/_rock|rock]].**
+- **An [[a/_aggregated|aggregated]] [[m/_mass|mass]] of [[a/_any|any]] [[o/_ore|ore]] or [[m/_mineral|mineral]], in an [[i/_isolated|isolated]] [[s/_state|state]], within a [[r/_rock|rock]].**
 - **A [[c/_collection|collection]] of [[b/_boxes|boxes]], [[c/_cases|cases]], or the [[l/_like|like]], of [[g/_graduated|graduated]] [[s/_size|size]], [[e/_each|each]] [[p/_put|put]] within the [[o/_one|one]] [[n/_next|next]] [[l/_larger|larger]].**
-- **A [[c/_compact|compact]] [[g/_group|group]] of [[p/_pulleys|pulleys]], [[g/_gears|gears]], springs, [[e/_etc|etc]]., working together or [[c/_collectively|collectively]].**
+- **A [[c/_compact|compact]] [[g/_group|group]] of [[p/_pulleys|pulleys]], [[g/_gears|gears]], [[s/_springs|springs]], [[e/_etc|etc]]., working together or [[c/_collectively|collectively]].**
 ---
 #verb
 - **(of [[a/_animals|animals]]) To [[b/_build|build]] or [[s/_settle|settle]] [[i/_into|into]] a [[n/_nest|nest]].**

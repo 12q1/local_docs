@@ -9,7 +9,7 @@
 - **A [[d/_drug|drug]] that [[g/_gives|gives]] such a [[h/_high|high]].**
 - **A [[l/_large|large]] [[a/_area|area]] of [[e/_elevated|elevated]] [[a/_atmospheric|atmospheric]] [[p/_pressure|pressure]]; an [[a/_anticyclone|anticyclone]].**
 	- _Example: A large high is centred on the Azores._
-- **The [[m/_maximum|maximum]] value [[a/_attained|attained]] by [[s/_some|some]] [[q/_quantity|quantity]] within a specified [[p/_period|period]].**
+- **The [[m/_maximum|maximum]] value [[a/_attained|attained]] by [[s/_some|some]] [[q/_quantity|quantity]] within a [[s/_specified|specified]] [[p/_period|period]].**
 	- _Example: Inflation reached a ten-year high._
 - **The [[m/_maximum|maximum]] [[a/_atmospheric|atmospheric]] temperature [[r/_recorded|recorded]] at a [[p/_particular|particular]] [[l/_location|location]], [[e/_especially|especially]] [[d/_during|during]] [[o/_one|one]] 24-[[h/_hour|hour]] [[p/_period|period]].**
 	- _Example: Today's high was 32°C._

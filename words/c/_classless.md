@@ -5,6 +5,6 @@
 	- _Example: We lived in a classless state, where all were equal._
 - **Without [[c/_class|class]] or [[c/_classes|classes]].**
 	- _Example: I arranged my timetable so that Friday would be a classless day._
-- **[[l/_lacking|Lacking]] in "[[c/_class|class]]", style, [[a/_aplomb|aplomb]], [[e/_etc|etc]].**
+- **[[l/_lacking|Lacking]] in "[[c/_class|class]]", [[s/_style|style]], [[a/_aplomb|aplomb]], [[e/_etc|etc]].**
 ---
 ---

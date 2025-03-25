@@ -1,7 +1,7 @@
 # Mayhem
 ---
 #noun
-- **A state or [[s/_situation|situation]] of [[g/_great|great]] [[c/_confusion|confusion]], [[d/_disorder|disorder]], trouble or [[d/_destruction|destruction]]; [[c/_chaos|chaos]].**
+- **A [[s/_state|state]] or [[s/_situation|situation]] of [[g/_great|great]] [[c/_confusion|confusion]], [[d/_disorder|disorder]], trouble or [[d/_destruction|destruction]]; [[c/_chaos|chaos]].**
 	- _Example: In all the mayhem, some children were separated from their partners._
 - **[[i/_infliction|Infliction]] of violent [[i/_injury|injury]] on a [[p/_person|person]] or thing.**
 	- _Example: The fighting dogs created mayhem in the flower beds._

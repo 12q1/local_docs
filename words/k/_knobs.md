@@ -11,7 +11,7 @@
 - **The [[p/_penis|penis]].**
 - **The [[h/_head|head]] of the [[p/_penis|penis]]; the [[g/_glans|glans]].**
 - **(by [[a/_analogy|analogy]] with [[a/_above|above]]) A [[c/_contemptible|contemptible]] [[p/_person|person]].**
-- **A [[d/_dollop|dollop]], an [[a/_amount|amount]] [[j/_just|just]] [[l/_larger|larger]] than a spoonful (usually [[r/_referring|referring]] to [[b/_butter|butter]]).**
+- **A [[d/_dollop|dollop]], an [[a/_amount|amount]] [[j/_just|just]] [[l/_larger|larger]] than a [[s/_spoonful|spoonful]] (usually [[r/_referring|referring]] to [[b/_butter|butter]]).**
 - **A [[c/_chunky|chunky]] [[b/_branch|branch]]-[[l/_like|like]] [[p/_piece|piece]], [[e/_especially|especially]] of a [[g/_ginger|ginger]] [[r/_rhizome|rhizome]].**
 - **A [[b/_bulb|bulb]] of the [[g/_garlic|garlic]] [[p/_plant|plant]] [[c/_consisting|consisting]] of [[m/_multiple|multiple]] [[c/_cloves|cloves]].**
 ---

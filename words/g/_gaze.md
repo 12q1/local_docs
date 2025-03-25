@@ -6,9 +6,9 @@
 - **In Lacanian [[p/_psychoanalysis|psychoanalysis]], the [[r/_relationship|relationship]] of the subject with the [[d/_desire|desire]] to [[l/_look|look]] and [[a/_awareness|awareness]] that [[o/_one|one]] [[c/_can|can]] be viewed.**
 ---
 #verb
-- **To stare [[i/_intently|intently]] or [[e/_earnestly|earnestly]].**
+- **To [[s/_stare|stare]] [[i/_intently|intently]] or [[e/_earnestly|earnestly]].**
 	- _Example: In fact, for Antonioni this gazing is probably the most fundamental of all cognitive activities ... (from Thinking in the Absence of Image)_
-- **To stare at.**
+- **To [[s/_stare|stare]] at.**
 ---
 ### Synonyms
 - [[g/_gape|gape]], [[l/_look|look]], [[s/_stare|stare]]

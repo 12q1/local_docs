@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] the wavelength in the [[i/_infrared|infrared]].**
-- **In the [[i/_infrared|infrared]] spectrum.**
+- **In the [[i/_infrared|infrared]] [[s/_spectrum|spectrum]].**
 ---
 ---

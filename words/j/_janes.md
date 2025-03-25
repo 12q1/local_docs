@@ -1,7 +1,7 @@
 # Janes
 ---
 #noun
-- **A woman, [[o/_often|often]] specifically a [[g/_girlfriend|girlfriend]].**
+- **A woman, [[o/_often|often]] [[s/_specifically|specifically]] a [[g/_girlfriend|girlfriend]].**
 	- _Example: What happened to your regular Jane?_
 ---
 #noun

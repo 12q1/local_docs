@@ -4,7 +4,7 @@
 - **[[s/_senses|Senses]] [[r/_relating|relating]] to [[c/_cutting|cutting]] tools.**
 - **A [[c/_cut|cut]] or [[g/_groove|groove]], as [[l/_left|left]] by a [[g/_gouge|gouge]] or [[s/_something|something]] [[s/_sharp|sharp]].**
 	- _Example: The nail left a deep gouge in the tire._
-- **([[o/_originally|originally]] United States) An [[a/_act|act]] of [[g/_gouging|gouging]].**
+- **([[o/_originally|originally]] United [[s/_states|States]]) An [[a/_act|act]] of [[g/_gouging|gouging]].**
 - **A [[c/_cheat|cheat]], a [[f/_fraud|fraud]]; an [[i/_imposition|imposition]].**
 - **An [[i/_impostor|impostor]].**
 - **[[s/_soft|Soft]] [[m/_material|material]] [[l/_lying|lying]] [[b/_between|between]] the wall of a vein and the [[s/_solid|solid]] vein of [[o/_ore|ore]].**

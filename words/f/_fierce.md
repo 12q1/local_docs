@@ -3,7 +3,7 @@
 #adjective
 - **[[e/_exceedingly|Exceedingly]] violent, [[s/_severe|severe]], [[f/_ferocious|ferocious]], [[c/_cruel|cruel]] or [[s/_savage|savage]].**
 	- _Example: A fierce storm battered the coast._
-- **[[r/_resolute|Resolute]] or strenuously [[a/_active|active]].**
+- **[[r/_resolute|Resolute]] or [[s/_strenuously|strenuously]] [[a/_active|active]].**
 	- _Example: We made a fierce attempt to escape._
 - **Threatening in [[a/_appearance|appearance]] or [[d/_demeanor|demeanor]].**
 	- _Example: The lion gave a fierce roar._

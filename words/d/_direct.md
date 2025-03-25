@@ -1,7 +1,7 @@
 # Direct
 ---
 #verb
-- **To [[m/_manage|manage]], [[c/_control|control]], steer.**
+- **To [[m/_manage|manage]], [[c/_control|control]], [[s/_steer|steer]].**
 	- _Example: to direct the affairs of a nation or the movements of an army_
 - **To [[a/_aim|aim]] ([[s/_something|something]]) at ([[s/_something|something]] [[e/_else|else]]).**
 	- _Example: He directed his question to the room in general._
@@ -14,9 +14,9 @@
 ---
 #adjective
 - **[[p/_proceeding|Proceeding]] without [[d/_deviation|deviation]] or [[i/_interruption|interruption]].**
-- **Straight; not [[c/_crooked|crooked]], [[o/_oblique|oblique]], or [[c/_circuitous|circuitous]]; [[l/_leading|leading]] by the [[s/_short|short]] or [[s/_shortest|shortest]] way to a [[p/_point|point]] or [[e/_end|end]].**
+- **[[s/_straight|Straight]]; not [[c/_crooked|crooked]], [[o/_oblique|oblique]], or [[c/_circuitous|circuitous]]; [[l/_leading|leading]] by the [[s/_short|short]] or [[s/_shortest|shortest]] way to a [[p/_point|point]] or [[e/_end|end]].**
 	- _Example: the most direct route between two buildings_
-- **Straightforward; [[s/_sincere|sincere]].**
+- **[[s/_straightforward|Straightforward]]; [[s/_sincere|sincere]].**
 - **[[i/_immediate|Immediate]]; [[e/_express|express]]; [[p/_plain|plain]]; unambiguous.**
 - **In the [[l/_line|line]] of [[d/_descent|descent]]; not [[c/_collateral|collateral]].**
 	- _Example: a descendant in the direct line_

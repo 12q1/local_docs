@@ -21,7 +21,7 @@
 	- _Example: I wanted to record every detail of what happened, for the benefit of future generations._
 - **To [[m/_make|make]] an [[a/_audio|audio]] or video [[r/_recording|recording]] of.**
 	- _Example: Within a week they had recorded both the song and the video for it._
-- **To [[g/_give|give]] [[l/_legal|legal]] status to by [[m/_making|making]] an [[o/_official|official]] [[p/_public|public]] [[r/_record|record]].**
+- **To [[g/_give|give]] [[l/_legal|legal]] [[s/_status|status]] to by [[m/_making|making]] an [[o/_official|official]] [[p/_public|public]] [[r/_record|record]].**
 	- _Example: When the deed was recorded, we officially owned the house._
 - **To [[f/_fix|fix]] in a [[m/_medium|medium]], usually in a tangible [[m/_medium|medium]].**
 - **To [[m/_make|make]] an [[a/_audio|audio]], video, or [[m/_multimedia|multimedia]] [[r/_recording|recording]].**

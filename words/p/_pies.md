@@ -1,7 +1,7 @@
 # Pies
 ---
 #verb
-- **To spill or [[m/_mix|mix]] [[p/_printing|printing]] type.**
+- **To [[s/_spill|spill]] or [[m/_mix|mix]] [[p/_printing|printing]] type.**
 ---
 ### Synonyms
 - [[p/_pie|pie]]
@@ -12,7 +12,7 @@
 	- _Example: Shepherd's pie is made of mince covered with mashed potato._
 - **([[n/_northeastern|Northeastern]] US) A [[p/_pizza|pizza]].**
 - **The whole of a wealth or [[r/_resource|resource]], to be [[d/_divided|divided]] in [[p/_parts|parts]].**
-- **([[l/_letterpress|letterpress]]) A [[d/_disorderly|disorderly]] [[m/_mess|mess]] of spilt type.**
+- **([[l/_letterpress|letterpress]]) A [[d/_disorderly|disorderly]] [[m/_mess|mess]] of [[s/_spilt|spilt]] type.**
 - **An [[e/_especially|especially]] [[b/_badly|badly]] [[b/_bowled|bowled]] [[b/_ball|ball]].**
 - **A [[p/_pie|pie]] [[c/_chart|chart]].**
 - **The vulva.**

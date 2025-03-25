@@ -5,7 +5,7 @@
 	- _Example: how to overcome old hurts of the past_
 - **A [[b/_bodily|bodily]] [[i/_injury|injury]] [[c/_causing|causing]] [[p/_pain|pain]]; a wound or [[b/_bruise|bruise]].**
 - **[[i/_injury|Injury]]; [[d/_damage|damage]]; [[d/_detriment|detriment]]; [[h/_harm|harm]]**
-- **A [[r/_roundel|roundel]] [[a/_azure|azure]] ([[b/_blue|blue]] [[c/_circular|circular]] spot).**
+- **A [[r/_roundel|roundel]] [[a/_azure|azure]] ([[b/_blue|blue]] [[c/_circular|circular]] [[s/_spot|spot]]).**
 - **A [[b/_band|band]] on a trip-[[h/_hammer|hammer]] [[h/_helve|helve]], [[b/_bearing|bearing]] the trunnions.**
 - **A [[h/_husk|husk]].**
 ---

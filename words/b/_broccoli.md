@@ -1,6 +1,6 @@
 # Broccoli
 ---
 #noun
-- **A [[p/_plant|plant]], [[b/_brassica|Brassica]] oleracea var. italica, of the [[c/_cabbage|cabbage]] [[f/_family|family]], [[b/_brassicaceae|Brassicaceae]]; [[e/_especially|especially]], the tree-[[s/_shaped|shaped]] [[f/_flower|flower]] and stalk that are [[e/_eaten|eaten]] as a vegetable.**
+- **A [[p/_plant|plant]], [[b/_brassica|Brassica]] oleracea var. italica, of the [[c/_cabbage|cabbage]] [[f/_family|family]], [[b/_brassicaceae|Brassicaceae]]; [[e/_especially|especially]], the tree-[[s/_shaped|shaped]] [[f/_flower|flower]] and [[s/_stalk|stalk]] that are [[e/_eaten|eaten]] as a vegetable.**
 ---
 ---

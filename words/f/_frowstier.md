@@ -1,6 +1,6 @@
 # Frowstier
 ---
 #adjective
-- **[[m/_musty|Musty]]; stuffy ([[a/_atmosphere|atmosphere]])**
+- **[[m/_musty|Musty]]; [[s/_stuffy|stuffy]] ([[a/_atmosphere|atmosphere]])**
 ---
 ---

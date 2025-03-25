@@ -2,7 +2,7 @@
 ---
 #noun
 - **A utensil for [[d/_dispensing|dispensing]] a [[s/_single|single]] [[d/_drop|drop]] of [[l/_liquid|liquid]] at a time.**
-- **[[o/_one|One]] who [[d/_drops|drops]] [[s/_something|something]], [[e/_especially|especially]] [[o/_one|one]] who [[d/_drops|drops]] a specific [[i/_item|item]] to [[c/_cause|cause]] [[m/_mischief|mischief]].**
+- **[[o/_one|One]] who [[d/_drops|drops]] [[s/_something|something]], [[e/_especially|especially]] [[o/_one|one]] who [[d/_drops|drops]] a [[s/_specific|specific]] [[i/_item|item]] to [[c/_cause|cause]] [[m/_mischief|mischief]].**
 	- _Example: The dropper left the suitcase with the bomb next to the garbage can._
 - **A [[s/_software|software]] [[c/_component|component]] [[d/_designed|designed]] to [[i/_install|install]] malware on a target [[s/_system|system]].**
 - **A [[f/_fly|fly]] that [[d/_drops|drops]] from the [[l/_leaden|leaden]] [[a/_above|above]] the [[b/_bob|bob]] or [[e/_end|end]] [[f/_fly|fly]].**

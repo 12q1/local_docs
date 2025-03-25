@@ -9,11 +9,11 @@
 - **To [[p/_put|put]] [[o/_out|out]]; to [[e/_extinguish|extinguish]].**
 ---
 #noun
-- **A [[b/_blow|blow]] or stroke, [[e/_especially|especially]] to the [[f/_face|face]].**
+- **A [[b/_blow|blow]] or [[s/_stroke|stroke]], [[e/_especially|especially]] to the [[f/_face|face]].**
 ---
 #verb
-- **To strike, [[b/_beat|beat]], or thrash.**
-- **To strike or [[l/_lower|lower]] in [[h/_haste|haste]]; to [[s/_slacken|slacken]] suddenly**
+- **To [[s/_strike|strike]], [[b/_beat|beat]], or thrash.**
+- **To [[s/_strike|strike]] or [[l/_lower|lower]] in [[h/_haste|haste]]; to [[s/_slacken|slacken]] suddenly**
 	- _Example: Douse the topsail!_
 ---
 #verb

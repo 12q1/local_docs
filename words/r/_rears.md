@@ -12,14 +12,14 @@
 	- _Example: The monster slowly reared its head._
 - **To [[c/_construct|construct]] by [[b/_building|building]]; to [[s/_set|set]] up**
 	- _Example: to rear defenses or houses_
-- **To [[r/_raise|raise]] spiritually; to [[l/_lift|lift]] up; to [[e/_elevate|elevate]] [[m/_morally|morally]].**
+- **To [[r/_raise|raise]] [[s/_spiritually|spiritually]]; to [[l/_lift|lift]] up; to [[e/_elevate|elevate]] [[m/_morally|morally]].**
 - **To [[l/_lift|lift]] and take up.**
-- **To [[r/_rouse|rouse]]; to strip up.**
+- **To [[r/_rouse|rouse]]; to [[s/_strip|strip]] up.**
 ---
 ### Synonyms
 - [[p/_prance|prance]]
 #verb
-- **To [[m/_move|move]]; stir.**
+- **To [[m/_move|move]]; [[s/_stir|stir]].**
 - **(of [[g/_geese|geese]]) To [[c/_carve|carve]].**
 	- _Example: Rere that goose!_
 - **([[r/_regional|regional]], [[o/_obsolete|obsolete]]) To [[r/_revive|revive]], [[b/_bring|bring]] to [[l/_life|life]], [[q/_quicken|quicken]]. ([[o/_only|only]] in the [[p/_phrase|phrase]], to [[r/_rear|rear]] to [[l/_life|life]])**
@@ -27,7 +27,7 @@
 ---
 #noun
 - **The [[b/_back|back]] or [[h/_hindmost|hindmost]] [[p/_part|part]]; that which is [[b/_behind|behind]], or [[l/_last|last]] on [[o/_order|order]]; - [[o/_opposed|opposed]] to [[f/_front|front]].**
-- **Specifically, the [[p/_part|part]] of an [[a/_army|army]] or [[f/_fleet|fleet]] which [[c/_comes|comes]] [[l/_last|last]], or is stationed [[b/_behind|behind]] the [[r/_rest|rest]].**
+- **[[s/_specifically|Specifically]], the [[p/_part|part]] of an [[a/_army|army]] or [[f/_fleet|fleet]] which [[c/_comes|comes]] [[l/_last|last]], or is [[s/_stationed|stationed]] [[b/_behind|behind]] the [[r/_rest|rest]].**
 - **The [[b/_buttocks|buttocks]], a [[c/_creature|creature]]'[[s/_s|s]] [[b/_bottom|bottom]]**
 ---
 ### Synonyms

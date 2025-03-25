@@ -1,7 +1,7 @@
 # Award
 ---
 #noun
-- **A [[j/_judgment|judgment]], [[s/_sentence|sentence]], or [[f/_final|final]] [[d/_decision|decision]]. Specifically: The [[d/_decision|decision]] of [[a/_arbitrators|arbitrators]] in a [[c/_case|case]] submitted.**
+- **A [[j/_judgment|judgment]], [[s/_sentence|sentence]], or [[f/_final|final]] [[d/_decision|decision]]. [[s/_specifically|Specifically]]: The [[d/_decision|decision]] of [[a/_arbitrators|arbitrators]] in a [[c/_case|case]] submitted.**
 - **The [[p/_paper|paper]] [[c/_containing|containing]] the [[d/_decision|decision]] of [[a/_arbitrators|arbitrators]]; that which is warded.**
 - **A trophy or [[m/_medal|medal]]; [[s/_something|something]] that [[d/_denotes|denotes]] an [[a/_accomplishment|accomplishment]], [[e/_especially|especially]] in a [[c/_competition|competition]]. A [[p/_prize|prize]] or [[h/_honor|honor]] [[b/_based|based]] on [[m/_merit|merit]].**
 - **([[a/_australia|Australia]], NZ, [[i/_industrial|industrial]] [[r/_relations|relations]]) A [[n/_negotiated|negotiated]] [[m/_minimum|minimum]] wage that is [[s/_set|set]] for a [[p/_particular|particular]] trade or [[i/_industry|industry]]; an [[i/_industrial|industrial]] [[a/_award|award]].**

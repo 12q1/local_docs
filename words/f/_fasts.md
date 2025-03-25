@@ -1,7 +1,7 @@
 # Fasts
 ---
 #noun
-- **A train that [[c/_calls|calls]] at [[o/_only|only]] [[s/_some|some]] stations it [[p/_passes|passes]] [[b/_between|between]] [[i/_its|its]] [[o/_origin|origin]] and [[d/_destination|destination]], typically [[j/_just|just]] the [[p/_principal|principal]] stations**
+- **A train that [[c/_calls|calls]] at [[o/_only|only]] [[s/_some|some]] [[s/_stations|stations]] it [[p/_passes|passes]] [[b/_between|between]] [[i/_its|its]] [[o/_origin|origin]] and [[d/_destination|destination]], typically [[j/_just|just]] the [[p/_principal|principal]] [[s/_stations|stations]]**
 ---
 ### Synonyms
 - [[e/_express|express]]

@@ -6,7 +6,7 @@
 - **A [[c/_cyprinid|cyprinid]] [[f/_fish|fish]] of the [[m/_mississippi|Mississippi]] valley, Pimephales promelas, the [[b/_black|black]]-[[h/_headed|headed]] [[m/_minnow|minnow]].**
 - **A [[l/_labroid|labroid]] [[f/_food|food]] [[f/_fish|fish]] of [[c/_california|California]]; the [[c/_california|California]] [[s/_sheephead|sheephead]]. Semicossyphus pulcher.**
 - **A blobfish, Psychrolutes microporos**
-- **[[a/_any|Any]] of [[s/_several|several]] species of [[f/_fish|fish]] of the [[g/_genus|genus]] Cubiceps**
+- **[[a/_any|Any]] of [[s/_several|several]] [[s/_species|species]] of [[f/_fish|fish]] of the [[g/_genus|genus]] Cubiceps**
 ---
 ### Synonyms
 - [[d/_dunce|dunce]], [[i/_imbecile|imbecile]], [[l/_lout|lout]], [[n/_nincompoop|nincompoop]]

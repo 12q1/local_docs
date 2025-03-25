@@ -1,7 +1,7 @@
 # Neurology
 ---
 #noun
-- **The [[b/_branch|branch]] of [[m/_medicine|medicine]] that [[d/_deals|deals]] with the [[d/_disorders|disorders]] of [[n/_nervous|nervous]] [[s/_system|system]] [[i/_including|including]] the [[b/_brain|brain]] and spinal [[c/_cord|cord]] of the [[c/_central|central]] [[n/_nervous|nervous]] [[s/_system|system]] and the [[n/_nerves|nerves]], [[m/_muscles|muscles]], and [[n/_neuromuscular|neuromuscular]] [[j/_junction|junction]] of the [[p/_peripheral|peripheral]] [[n/_nervous|nervous]] [[s/_system|system]].**
+- **The [[b/_branch|branch]] of [[m/_medicine|medicine]] that [[d/_deals|deals]] with the [[d/_disorders|disorders]] of [[n/_nervous|nervous]] [[s/_system|system]] [[i/_including|including]] the [[b/_brain|brain]] and [[s/_spinal|spinal]] [[c/_cord|cord]] of the [[c/_central|central]] [[n/_nervous|nervous]] [[s/_system|system]] and the [[n/_nerves|nerves]], [[m/_muscles|muscles]], and [[n/_neuromuscular|neuromuscular]] [[j/_junction|junction]] of the [[p/_peripheral|peripheral]] [[n/_nervous|nervous]] [[s/_system|system]].**
 - **[[f/_focal|Focal]] [[n/_neurologic|neurologic]] [[s/_signs|signs]]; [[f/_focal|focal]] [[n/_neurologic|neurologic]] [[d/_deficits|deficits]].**
 	- _Example: Patient had no neurology._
 - **[[n/_neurological|Neurological]] [[e/_examination|examination]].**

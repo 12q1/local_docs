@@ -10,6 +10,6 @@
 ### Synonyms
 - [[s/_simper|simper]]
 #adjective
-- **[[s/_smart|Smart]]; spruce; [[a/_affected|affected]]; [[s/_simpering|simpering]]**
+- **[[s/_smart|Smart]]; [[s/_spruce|spruce]]; [[a/_affected|affected]]; [[s/_simpering|simpering]]**
 ---
 ---

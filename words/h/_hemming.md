@@ -10,6 +10,6 @@
 	- _Example: A small yard hemmed about by a tall hedge._
 ---
 #noun
-- **The [[a/_act|act]] of [[s/_saying|saying]] "[[h/_hem|hem]]", in [[i/_intermission|intermission]] or [[h/_hesitation|hesitation]] of speech.**
+- **The [[a/_act|act]] of [[s/_saying|saying]] "[[h/_hem|hem]]", in [[i/_intermission|intermission]] or [[h/_hesitation|hesitation]] of [[s/_speech|speech]].**
 ---
 ---

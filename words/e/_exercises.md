@@ -3,7 +3,7 @@
 #noun
 - **[[a/_any|Any]] [[a/_activity|activity]] [[d/_designed|designed]] to [[d/_develop|develop]] or [[h/_hone|hone]] a [[s/_skill|skill]] or [[a/_ability|ability]].**
 	- _Example: The teacher told us that the next exercise is to write an essay._
-- **[[a/_activity|Activity]] [[i/_intended|intended]] to [[i/_improve|improve]] [[p/_physical|physical]], or [[s/_sometimes|sometimes]] [[m/_mental|mental]], strength and [[f/_fitness|fitness]].**
+- **[[a/_activity|Activity]] [[i/_intended|intended]] to [[i/_improve|improve]] [[p/_physical|physical]], or [[s/_sometimes|sometimes]] [[m/_mental|mental]], [[s/_strength|strength]] and [[f/_fitness|fitness]].**
 	- _Example: I do crosswords for mental exercise._
 - **A [[s/_setting|setting]] in [[a/_action|action]] or [[p/_practicing|practicing]]; [[e/_employment|employment]] in the [[p/_proper|proper]] [[m/_mode|mode]] of [[a/_activity|activity]]; [[e/_exertion|exertion]]; [[a/_application|application]]; use.**
 	- _Example: The law guarantees us the free exercise of our rights._

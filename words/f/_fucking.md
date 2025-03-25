@@ -4,7 +4,7 @@
 - **To [[h/_have|have]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]], to [[c/_copulate|copulate]].**
 	- _Example: Fighting for peace is like fucking for virginity._
 - **To [[h/_have|have]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]] with.**
-- **To [[i/_insert|insert]] [[o/_one|one]]’[[s/_s|s]] [[p/_penis|penis]], a [[d/_dildo|dildo]] or [[o/_other|other]] [[p/_phallic|phallic]] [[o/_object|object]], [[i/_into|into]] a specified [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
+- **To [[i/_insert|insert]] [[o/_one|one]]’[[s/_s|s]] [[p/_penis|penis]], a [[d/_dildo|dildo]] or [[o/_other|other]] [[p/_phallic|phallic]] [[o/_object|object]], [[i/_into|into]] a [[s/_specified|specified]] [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
 - **To [[p/_put|put]] in an [[e/_extremely|extremely]] [[d/_difficult|difficult]] or [[i/_impossible|impossible]] [[s/_situation|situation]].**
 	- _Example: I'm afraid they're gonna fuck you on this one._
 - **To [[d/_defraud|defraud]], [[d/_deface|deface]] or [[o/_otherwise|otherwise]] treat [[b/_badly|badly]].**
@@ -29,7 +29,7 @@
 ### Synonyms
 - [[f/_frig|frig]], [[f/_frigging|frigging]]
 #adjective
-- **An [[i/_intensifier|intensifier]], [[o/_often|often]] [[a/_applying|applying]] [[m/_more|more]] to the whole utterance than to the specific word it [[g/_grammatically|grammatically]] [[m/_modifies|modifies]].**
+- **An [[i/_intensifier|intensifier]], [[o/_often|often]] [[a/_applying|applying]] [[m/_more|more]] to the whole utterance than to the [[s/_specific|specific]] word it [[g/_grammatically|grammatically]] [[m/_modifies|modifies]].**
 	- _Example: No fucking way._
 - **[[o/_offensive|Offensive]], [[a/_annoying|annoying]] or worthless.**
 	- _Example: Get me off your fucking mailing list._

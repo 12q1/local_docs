@@ -3,7 +3,7 @@
 #noun
 - **[[a/_agent|Agent]] [[n/_noun|noun]] of [[c/_coast|coast]]: [[o/_one|one]] who [[c/_coasts|coasts]].**
 - **[[s/_something|Something]] that [[c/_coasts|coasts]], such as a [[s/_sled|sled]] or toboggan.**
-- **A [[m/_merchant|merchant]] vessel that stays in [[c/_coastal|coastal]] waters.**
+- **A [[m/_merchant|merchant]] vessel that [[s/_stays|stays]] in [[c/_coastal|coastal]] waters.**
 - **A [[s/_sailor|sailor]] who travels [[o/_only|only]] in [[c/_coastal|coastal]] waters.**
 - **A [[p/_person|person]] who [[o/_originates|originates]] from or [[i/_inhabits|inhabits]] a [[c/_coastal|coastal]] [[a/_area|area]].**
 - **A [[s/_small|small]] [[p/_piece|piece]] of [[m/_material|material]] used to [[p/_protect|protect]] the surface of a table, upon which [[o/_one|one]] [[p/_places|places]] [[c/_cups|cups]] or [[m/_mugs|mugs]].**

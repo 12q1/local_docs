@@ -1,9 +1,9 @@
 # Plashing
 ---
 #verb
-- **To splash.**
-- **To [[c/_cause|cause]] a splash.**
-- **To splash or sprinkle with [[c/_colouring|colouring]] [[m/_matter|matter]].**
+- **To [[s/_splash|splash]].**
+- **To [[c/_cause|cause]] a [[s/_splash|splash]].**
+- **To [[s/_splash|splash]] or [[s/_sprinkle|sprinkle]] with [[c/_colouring|colouring]] [[m/_matter|matter]].**
 	- _Example: to plash a wall in imitation of granite_
 ---
 #verb
@@ -12,6 +12,6 @@
 #noun
 - **A [[s/_sound|sound]] that [[p/_plashes|plashes]], as of water.**
 - **The [[c/_cutting|cutting]] or [[b/_bending|bending]] and [[i/_intertwining|intertwining]] the [[b/_branches|branches]] of [[s/_small|small]] trees, as in [[h/_hedges|hedges]].**
-- **The [[d/_dashing|dashing]] or sprinkling of [[c/_colouring|colouring]] [[m/_matter|matter]] on the walls of [[b/_buildings|buildings]], to [[i/_imitate|imitate]] [[g/_granite|granite]], [[e/_etc|etc]].**
+- **The [[d/_dashing|dashing]] or [[s/_sprinkling|sprinkling]] of [[c/_colouring|colouring]] [[m/_matter|matter]] on the walls of [[b/_buildings|buildings]], to [[i/_imitate|imitate]] [[g/_granite|granite]], [[e/_etc|etc]].**
 ---
 ---

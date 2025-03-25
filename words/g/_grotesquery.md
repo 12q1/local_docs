@@ -1,6 +1,6 @@
 # Grotesquery
 ---
 #noun
-- **That which is [[g/_grotesque|grotesque]] in [[n/_nature|nature]] or style.**
+- **That which is [[g/_grotesque|grotesque]] in [[n/_nature|nature]] or [[s/_style|style]].**
 ---
 ---

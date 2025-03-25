@@ -5,7 +5,7 @@
 ---
 #verb
 - **To take or [[s/_seize|seize]].**
-- **To [[f/_filch|filch]], steal.**
-- **To walk with [[s/_short|short]], [[q/_quick|quick]] strides; trip [[a/_along|along]].**
+- **To [[f/_filch|filch]], [[s/_steal|steal]].**
+- **To walk with [[s/_short|short]], [[q/_quick|quick]] [[s/_strides|strides]]; trip [[a/_along|along]].**
 ---
 ---

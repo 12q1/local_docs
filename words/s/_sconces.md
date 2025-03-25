@@ -11,9 +11,9 @@
 ---
 #noun
 - **A type of [[s/_small|small]] [[f/_fort|fort]] or [[o/_other|other]] [[f/_fortification|fortification]], [[e/_especially|especially]] as [[b/_built|built]] to [[d/_defend|defend]] a [[p/_pass|pass]] or [[f/_ford|ford]].**
-- **A [[h/_hut|hut]] for [[p/_protection|protection]] and [[s/_shelter|shelter]]; a stall.**
+- **A [[h/_hut|hut]] for [[p/_protection|protection]] and [[s/_shelter|shelter]]; a [[s/_stall|stall]].**
 - **The [[c/_circular|circular]] tube, with a [[b/_brim|brim]], in a [[c/_candlestick|candlestick]], [[i/_into|into]] which the [[c/_candle|candle]] is [[i/_inserted|inserted]].**
-- **A squinch.**
+- **A [[s/_squinch|squinch]].**
 - **A [[f/_fragment|fragment]] of a [[f/_floe|floe]] of [[i/_ice|ice]].**
 - **A [[f/_fixed|fixed]] [[s/_seat|seat]] or [[s/_shelf|shelf]].**
 ---

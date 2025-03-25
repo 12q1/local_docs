@@ -1,13 +1,13 @@
 # Cube
 ---
 #noun
-- **A [[r/_regular|regular]] [[p/_polyhedron|polyhedron]] [[h/_having|having]] [[s/_six|six]] [[i/_identical|identical]] square [[f/_faces|faces]].**
+- **A [[r/_regular|regular]] [[p/_polyhedron|polyhedron]] [[h/_having|having]] [[s/_six|six]] [[i/_identical|identical]] [[s/_square|square]] [[f/_faces|faces]].**
 - **[[a/_any|Any]] [[o/_object|object]] [[m/_more|more]] or [[l/_less|less]] in the [[f/_form|form]] of a [[c/_cube|cube]].**
 	- _Example: a stock cube_
 - **The third [[p/_power|power]] of a [[n/_number|number]], value, term or [[e/_expression|expression]].**
 	- _Example: the cube of 2 is 8_
-- **A [[d/_data|data]] structure [[c/_consisting|consisting]] of a three-[[d/_dimensional|dimensional]] [[a/_array|array]]; a [[d/_data|data]] [[c/_cube|cube]]**
-- **A Rubick'[[s/_s|s]] [[c/_cube|cube]] style [[p/_puzzle|puzzle]], not [[n/_necessarily|necessarily]] in the [[s/_shape|shape]] of a [[c/_cube|cube]]**
+- **A [[d/_data|data]] [[s/_structure|structure]] [[c/_consisting|consisting]] of a three-[[d/_dimensional|dimensional]] [[a/_array|array]]; a [[d/_data|data]] [[c/_cube|cube]]**
+- **A Rubick'[[s/_s|s]] [[c/_cube|cube]] [[s/_style|style]] [[p/_puzzle|puzzle]], not [[n/_necessarily|necessarily]] in the [[s/_shape|shape]] of a [[c/_cube|cube]]**
 ---
 ### Synonyms
 - [[p/_power|power]], [[t/_third|third]], [[b/_block|block]], [[b/_brick|brick]], [[d/_die|die]]

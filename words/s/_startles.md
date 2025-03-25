@@ -1,0 +1,14 @@
+# Startles
+---
+#noun
+- **A sudden [[m/_motion|motion]] or [[s/_shock|shock]] [[c/_caused|caused]] by an unexpected [[a/_alarm|alarm]], surprise, or [[a/_apprehension|apprehension]] of [[d/_danger|danger]].**
+---
+#verb
+- **To [[m/_move|move]] suddenly, or be [[e/_excited|excited]], on [[f/_feeling|feeling]] [[a/_alarm|alarm]]; to [[s/_start|start]].**
+	- _Example: a horse that startles easily_
+- **To [[e/_excite|excite]] by sudden [[a/_alarm|alarm]], surprise, or [[a/_apprehension|apprehension]]; to [[f/_frighten|frighten]] suddenly and not [[s/_seriously|seriously]]; to [[a/_alarm|alarm]]; to surprise.**
+- **To [[d/_deter|deter]]; to [[c/_cause|cause]] to [[d/_deviate|deviate]].**
+---
+### Synonyms
+- [[d/_deter|deter]], [[a/_alarm|alarm]], [[f/_frighten|frighten]], [[s/_scare|scare]], [[s/_surprise|surprise]], [[s/_start|start]]
+---

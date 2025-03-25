@@ -1,10 +1,10 @@
 # Passion
 ---
 #noun
-- **[[a/_any|Any]] [[g/_great|great]], strong, [[p/_powerful|powerful]] [[e/_emotion|emotion]], [[e/_especially|especially]] [[r/_romantic|romantic]] [[l/_love|love]] or [[e/_extreme|extreme]] [[h/_hate|hate]].**
+- **[[a/_any|Any]] [[g/_great|great]], [[s/_strong|strong]], [[p/_powerful|powerful]] [[e/_emotion|emotion]], [[e/_especially|especially]] [[r/_romantic|romantic]] [[l/_love|love]] or [[e/_extreme|extreme]] [[h/_hate|hate]].**
 	- _Example: We share a passion for books._
 - **[[f/_fervor|Fervor]], [[d/_determination|determination]].**
-- **An [[o/_object|object]] of [[p/_passionate|passionate]] or [[r/_romantic|romantic]] [[l/_love|love]] or strong [[r/_romantic|romantic]] [[i/_interest|interest]].**
+- **An [[o/_object|object]] of [[p/_passionate|passionate]] or [[r/_romantic|romantic]] [[l/_love|love]] or [[s/_strong|strong]] [[r/_romantic|romantic]] [[i/_interest|interest]].**
 	- _Example: It started as a hobby, but now my motorbike collection has become my passion._
 - **[[s/_sexual|Sexual]] [[i/_intercourse|intercourse]], [[e/_especially|especially]] when very [[e/_emotional|emotional]].**
 	- _Example: We shared a night of passion._
@@ -12,7 +12,7 @@
 - **A [[d/_display|display]], [[m/_musical|musical]] [[c/_composition|composition]], or [[p/_play|play]] [[m/_meant|meant]] to [[c/_commemorate|commemorate]] the suffering of [[j/_jesus|Jesus]].**
 - **Suffering or [[e/_enduring|enduring]] of [[i/_imposed|imposed]] or [[i/_inflicted|inflicted]] [[p/_pain|pain]]; [[a/_any|any]] suffering or [[d/_distress|distress]].**
 	- _Example: a cardiac passion_
-- **The state of [[b/_being|being]] [[a/_acted|acted]] upon; subjection to an [[e/_external|external]] [[a/_agent|agent]] or [[i/_influence|influence]]; a [[p/_passive|passive]] [[c/_condition|condition]]**
+- **The [[s/_state|state]] of [[b/_being|being]] [[a/_acted|acted]] upon; subjection to an [[e/_external|external]] [[a/_agent|agent]] or [[i/_influence|influence]]; a [[p/_passive|passive]] [[c/_condition|condition]]**
 - **The [[c/_capacity|capacity]] of [[b/_being|being]] [[a/_affected|affected]] by [[e/_external|external]] [[a/_agents|agents]]; susceptibility of [[i/_impressions|impressions]] from [[e/_external|external]] [[a/_agents|agents]].**
 - **An [[i/_innate|innate]] [[a/_attribute|attribute]], [[p/_property|property]], or [[q/_quality|quality]] of a thing.**
 	- _Example: [...] to obtain the knowledge of some passion of the circle._

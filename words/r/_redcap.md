@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[m/_member|member]] of the [[r/_royal|Royal]] [[m/_military|Military]] [[p/_police|Police]] a unit in the [[b/_british|British]] [[a/_army|army]].**
-- **A [[p/_porter|porter]] in a US [[r/_railway|railway]] station.**
+- **A [[p/_porter|porter]] in a US [[r/_railway|railway]] [[s/_station|station]].**
 - **The [[e/_european|European]] [[g/_goldfinch|goldfinch]] ([[c/_carduelis|Carduelis]] [[c/_carduelis|carduelis]]).**
 - **A type of [[e/_evil|evil]] [[g/_goblin|goblin]] or [[i/_imp|imp]].**
 - **A [[b/_breed|breed]] of [[p/_poultry|poultry]].**

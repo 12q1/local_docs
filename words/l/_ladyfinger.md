@@ -1,7 +1,7 @@
 # Ladyfinger
 ---
 #noun
-- **A [[s/_small|small]] sponge [[c/_cake|cake]], [[s/_shaped|shaped]] [[a/_approximately|approximately]] [[l/_like|like]] a [[f/_finger|finger]].**
+- **A [[s/_small|small]] [[s/_sponge|sponge]] [[c/_cake|cake]], [[s/_shaped|shaped]] [[a/_approximately|approximately]] [[l/_like|like]] a [[f/_finger|finger]].**
 	- _Example: Ladyfingers soaked in liqueur are the base of tiramisu, but I suppose you could just cut up a sponge cake instead._
 - **A type of [[s/_small|small]] [[b/_banana|banana]].**
 - **A variety of [[s/_small|small]] [[f/_firecracker|firecracker]].**

@@ -6,6 +6,6 @@
 ---
 #interjection
 - **[[y/_yes|Yes]].**
-- **Used stereotypically in [[i/_imitation|imitation]] of [[p/_pirates|pirates]].**
+- **Used [[s/_stereotypically|stereotypically]] in [[i/_imitation|imitation]] of [[p/_pirates|pirates]].**
 ---
 ---

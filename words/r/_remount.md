@@ -1,7 +1,7 @@
 # Remount
 ---
 #noun
-- **The [[o/_opportunity|opportunity]] of, or things [[n/_necessary|necessary]] for, [[r/_remounting|remounting]]; specifically, a [[f/_fresh|fresh]] [[h/_horse|horse]], with [[i/_its|its]] [[e/_equipment|equipment]].**
+- **The [[o/_opportunity|opportunity]] of, or things [[n/_necessary|necessary]] for, [[r/_remounting|remounting]]; [[s/_specifically|specifically]], a [[f/_fresh|fresh]] [[h/_horse|horse]], with [[i/_its|its]] [[e/_equipment|equipment]].**
 	- _Example: to give somebody a remount_
 - **The [[p/_process|process]] of [[m/_mounting|mounting]] a [[d/_drive|drive]] or volume [[a/_again|again]].**
 - **The [[r/_restaging|restaging]] of a [[p/_play|play]] or [[f/_film|film]].**

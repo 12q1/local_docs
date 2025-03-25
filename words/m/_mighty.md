@@ -1,10 +1,10 @@
 # Mighty
 ---
 #noun
-- **A warrior of [[g/_great|great]] strength and [[c/_courage|courage]].**
+- **A warrior of [[g/_great|great]] [[s/_strength|strength]] and [[c/_courage|courage]].**
 ---
 #adjective
-- **Very strong; [[p/_possessing|possessing]] [[m/_might|might]].**
+- **Very [[s/_strong|strong]]; [[p/_possessing|possessing]] [[m/_might|might]].**
 	- _Example: He's a mighty wrestler, but you are faster than him._
 - **Very [[h/_heavy|heavy]] and [[p/_powerful|powerful]].**
 	- _Example: He gave the ball a mighty hit._

@@ -11,6 +11,6 @@
 ### Antonyms
 - [[s/_separate|separate]]
 #adjective
-- **[[c/_combined|Combined]] from two or [[m/_more|more]] [[e/_entities|entities]] [[i/_into|into]] [[o/_one|one]] specific [[e/_entity|entity]] whilst [[r/_retaining|retaining]] the [[d/_defining|defining]] [[c/_characteristics|characteristics]] of the [[o/_original|original]] [[s/_source|source]] [[e/_entities|entities]].**
+- **[[c/_combined|Combined]] from two or [[m/_more|more]] [[e/_entities|entities]] [[i/_into|into]] [[o/_one|one]] [[s/_specific|specific]] [[e/_entity|entity]] whilst [[r/_retaining|retaining]] the [[d/_defining|defining]] [[c/_characteristics|characteristics]] of the [[o/_original|original]] [[s/_source|source]] [[e/_entities|entities]].**
 ---
 ---

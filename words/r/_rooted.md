@@ -36,7 +36,7 @@
 - **[[i/_ingrained|Ingrained]], as through [[r/_repeated|repeated]] use; [[e/_entrenched|entrenched]]; [[h/_habitual|habitual]] or [[i/_instinctive|instinctive]].**
 - **(usually with "in") [[h/_having|Having]] a [[b/_basic|basic]] or [[f/_fundamental|fundamental]] [[c/_connection|connection]] (to a thing); [[b/_based|based]], [[o/_originating|originating]] (from).**
 - **(of a tree or [[g/_graph|graph]]) [[h/_having|Having]] a [[r/_root|root]].**
-- **In trouble or in strife, [[s/_screwed|screwed]].**
+- **In trouble or in [[s/_strife|strife]], [[s/_screwed|screwed]].**
 	- _Example: I am absolutely rooted if Ferris finds out about this_
 - **[[b/_broken|Broken]], [[d/_damaged|damaged]], [[n/_non|non]]-[[f/_functional|functional]].**
 	- _Example: I'm going to have to call a mechanic, my car's rooted._

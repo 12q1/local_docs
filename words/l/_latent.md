@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[f/_forensics|forensics]]) The [[r/_residue|residue]] [[l/_left|left]] by a [[p/_person|person]]'[[s/_s|s]] [[f/_finger|finger]] that [[c/_can|can]] be [[m/_made|made]] visible by a [[p/_process|process]] such as [[p/_powder|powder]] [[d/_dusting|dusting]]; a [[l/_latent|latent]] [[f/_fingerprint|fingerprint]].**
-- **An underlying [[c/_cause|cause]] that [[c/_can|can]] be [[i/_inferred|inferred]] from statistical [[c/_correlations|correlations]]; [[f/_factor|factor]].**
+- **An underlying [[c/_cause|cause]] that [[c/_can|can]] be [[i/_inferred|inferred]] from [[s/_statistical|statistical]] [[c/_correlations|correlations]]; [[f/_factor|factor]].**
 - **[[a/_anything|Anything]] that is [[l/_latent|latent]].**
 ---
 #adjective

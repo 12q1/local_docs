@@ -7,7 +7,7 @@
 - **A [[p/_private|private]] [[i/_individual|individual]] [[e/_entrant|entrant]] [[i/_into|into]] a [[r/_race|race]] or [[c/_competition|competition]] who [[d/_does|does]] not [[h/_have|have]] the [[b/_backing|backing]] of a [[l/_large|large]], [[p/_professional|professional]] team.**
 ---
 #verb
-- **To [[f/_function|function]] under [[o/_official|official]] [[s/_sanction|sanction]] [[p/_permitting|permitting]] [[a/_attacks|attacks]] on [[e/_enemy|enemy]] [[s/_shipping|shipping]] and [[s/_seizing|seizing]] [[s/_ship|ship]] and [[c/_cargo|cargo]]; to [[e/_engage|engage]] in [[g/_government|government]]-sponsored [[p/_piracy|piracy]].**
+- **To [[f/_function|function]] under [[o/_official|official]] [[s/_sanction|sanction]] [[p/_permitting|permitting]] [[a/_attacks|attacks]] on [[e/_enemy|enemy]] [[s/_shipping|shipping]] and [[s/_seizing|seizing]] [[s/_ship|ship]] and [[c/_cargo|cargo]]; to [[e/_engage|engage]] in [[g/_government|government]]-[[s/_sponsored|sponsored]] [[p/_piracy|piracy]].**
 - **To [[a/_advocate|advocate]] or [[b/_benefit|benefit]] from [[p/_privatization|privatization]] of [[g/_government|government]] [[s/_services|services]].**
 ---
 ---

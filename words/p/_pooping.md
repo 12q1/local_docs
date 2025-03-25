@@ -15,9 +15,9 @@
 #verb
 - **To [[b/_break|break]] [[s/_seawater|seawater]] with the [[p/_poop|poop]] of a vessel, [[e/_especially|especially]] the [[p/_poop|poop]] [[d/_deck|deck]].**
 	- _Example: We were pooped within hailing of the quay and were nearly sunk._
-- **To [[e/_embark|embark]] a [[s/_ship|ship]] [[o/_over|over]] the stern.**
+- **To [[e/_embark|embark]] a [[s/_ship|ship]] [[o/_over|over]] the [[s/_stern|stern]].**
 ---
 #noun
-- **The [[a/_act|act]] of a wave (or [[o/_other|other]] vessel) striking the stern of a vessel.**
+- **The [[a/_act|act]] of a wave (or [[o/_other|other]] vessel) [[s/_striking|striking]] the [[s/_stern|stern]] of a vessel.**
 ---
 ---

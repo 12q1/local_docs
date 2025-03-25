@@ -1,6 +1,6 @@
 # Bacalao
 ---
 #noun
-- **[[a/_alternative|Alternative]] spelling of bacalhau**
+- **[[a/_alternative|Alternative]] [[s/_spelling|spelling]] of bacalhau**
 ---
 ---

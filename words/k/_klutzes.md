@@ -1,6 +1,6 @@
 # Klutzes
 ---
 #noun
-- **A [[c/_clumsy|clumsy]] or stupid [[p/_person|person]].**
+- **A [[c/_clumsy|clumsy]] or [[s/_stupid|stupid]] [[p/_person|person]].**
 ---
 ---

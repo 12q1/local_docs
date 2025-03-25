@@ -1,13 +1,13 @@
 # Ace
 ---
 #noun
-- **A [[s/_single|single]] [[p/_point|point]] or spot on a [[p/_playing|playing]] [[c/_card|card]] or [[d/_die|die]].**
+- **A [[s/_single|single]] [[p/_point|point]] or [[s/_spot|spot]] on a [[p/_playing|playing]] [[c/_card|card]] or [[d/_die|die]].**
 - **A [[c/_card|card]] or [[d/_die|die]] [[f/_face|face]] [[s/_so|so]] [[m/_marked|marked]].**
 	- _Example: I have the ace of diamonds._
 - **The [[b/_ball|ball]] [[m/_marked|marked]] with the [[n/_number|number]] 1 in [[p/_pool|pool]] and [[r/_related|related]] [[g/_games|games]].**
 - **A very [[s/_small|small]] [[q/_quantity|quantity]] or [[d/_degree|degree]]; a [[p/_particle|particle]]; an [[a/_atom|atom]]; a [[j/_jot|jot]].**
 - **A [[s/_serve|serve]] won without the [[o/_opponent|opponent]] [[h/_hitting|hitting]] the [[b/_ball|ball]].**
-- **A [[s/_single|single]] [[p/_point|point]] won by a stroke, as in [[h/_handball|handball]], [[r/_rackets|rackets]], [[e/_etc|etc]].**
+- **A [[s/_single|single]] [[p/_point|point]] won by a [[s/_stroke|stroke]], as in [[h/_handball|handball]], [[r/_rackets|rackets]], [[e/_etc|etc]].**
 - **The [[b/_best|best]] [[p/_pitcher|pitcher]] on the team.**
 - **(19th [[c/_century|century]]) A [[r/_run|run]].**
 - **A [[h/_hole|hole]] in [[o/_one|one]].**

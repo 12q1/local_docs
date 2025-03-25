@@ -8,6 +8,6 @@
 - [[l/_lulu|lulu]]
 #adjective
 - **Of [[h/_high|high]] [[q/_quality|quality]]; [[r/_remarkable|remarkable]]; [[e/_excellent|excellent]].**
-- **Sporty, [[o/_ostentatious|ostentatious]], [[f/_flashy|flashy]].**
+- **[[s/_sporty|Sporty]], [[o/_ostentatious|ostentatious]], [[f/_flashy|flashy]].**
 ---
 ---

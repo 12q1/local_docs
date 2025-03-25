@@ -9,9 +9,9 @@
 ### Synonyms
 - 
 #verb
-- **To stroke or [[f/_fondle|fondle]] (an [[a/_animal|animal]]).**
-- **To stroke or [[f/_fondle|fondle]] ([[a/_another|another]] [[p/_person|person]]) [[a/_amorously|amorously]].**
-- **Of two or [[m/_more|more]] [[p/_people|people]], to stroke and [[f/_fondle|fondle]] [[o/_one|one]] [[a/_another|another]] [[a/_amorously|amorously]].**
+- **To [[s/_stroke|stroke]] or [[f/_fondle|fondle]] (an [[a/_animal|animal]]).**
+- **To [[s/_stroke|stroke]] or [[f/_fondle|fondle]] ([[a/_another|another]] [[p/_person|person]]) [[a/_amorously|amorously]].**
+- **Of two or [[m/_more|more]] [[p/_people|people]], to [[s/_stroke|stroke]] and [[f/_fondle|fondle]] [[o/_one|one]] [[a/_another|another]] [[a/_amorously|amorously]].**
 - **To treat as a [[p/_pet|pet]]; to [[f/_fondle|fondle]]; to [[i/_indulge|indulge]].**
 	- _Example: His daughter was petted and spoiled._
 - **To be a [[p/_pet|pet]].**
@@ -27,7 +27,7 @@
 ---
 #noun
 - **A [[f/_formal|formal]], written [[r/_request|request]] [[m/_made|made]] to an [[o/_official|official]] [[p/_person|person]] or [[o/_organized|organized]] [[b/_body|body]], [[o/_often|often]] [[c/_containing|containing]] [[m/_many|many]] [[s/_signatures|signatures]].**
-- **A [[c/_compilation|compilation]] of [[s/_signatures|signatures]] [[b/_built|built]] in [[o/_order|order]] to [[e/_exert|exert]] [[m/_moral|moral]] [[a/_authority|authority]] in support of a specific [[c/_cause|cause]].**
+- **A [[c/_compilation|compilation]] of [[s/_signatures|signatures]] [[b/_built|built]] in [[o/_order|order]] to [[e/_exert|exert]] [[m/_moral|moral]] [[a/_authority|authority]] in support of a [[s/_specific|specific]] [[c/_cause|cause]].**
 - **A [[f/_formal|formal]] written [[r/_request|request]] for [[j/_judicial|judicial]] [[a/_action|action]].**
 - **A [[p/_prayer|prayer]]; a supplication; an [[e/_entreaty|entreaty]].**
 ---

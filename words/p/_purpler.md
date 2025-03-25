@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[h/_having|Having]] a [[c/_colour|colour]]/[[c/_color|color]] that is a [[d/_dark|dark]] [[b/_blend|blend]] of [[r/_red|red]] and [[b/_blue|blue]].**
-- **Not [[p/_predominantly|predominantly]] [[r/_red|red]] or [[b/_blue|blue]], but [[h/_having|having]] a [[m/_mixture|mixture]] of [[d/_democrat|Democrat]] and [[r/_republican|Republican]] support, as in [[p/_purple|purple]] state, [[p/_purple|purple]] [[c/_city|city]].**
+- **Not [[p/_predominantly|predominantly]] [[r/_red|red]] or [[b/_blue|blue]], but [[h/_having|having]] a [[m/_mixture|mixture]] of [[d/_democrat|Democrat]] and [[r/_republican|Republican]] support, as in [[p/_purple|purple]] [[s/_state|state]], [[p/_purple|purple]] [[c/_city|city]].**
 - **(in [[n/_netherlands|Netherlands]] and [[b/_belgium|Belgium]]) [[m/_mixed|Mixed]] [[b/_between|between]] [[s/_social|social]] [[d/_democrats|democrats]] and [[l/_liberals|liberals]].**
 - **[[i/_imperial|Imperial]]; [[r/_regal|regal]].**
 - **[[b/_blood|Blood]]-[[r/_red|red]]; [[b/_bloody|bloody]].**

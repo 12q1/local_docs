@@ -2,7 +2,7 @@
 ---
 #noun
 - **A thin [[a/_artificial|artificial]] [[b/_barrier|barrier]] that [[s/_separates|separates]] two [[p/_pieces|pieces]] of [[l/_land|land]] or a [[h/_house|house]] [[p/_perimeter|perimeter]].**
-- **[[s/_someone|Someone]] who [[h/_hides|hides]] or [[b/_buys|buys]] and [[s/_sells|sells]] stolen [[g/_goods|goods]], a [[c/_criminal|criminal]] [[m/_middleman|middleman]] for transactions of stolen [[g/_goods|goods]].**
+- **[[s/_someone|Someone]] who [[h/_hides|hides]] or [[b/_buys|buys]] and [[s/_sells|sells]] [[s/_stolen|stolen]] [[g/_goods|goods]], a [[c/_criminal|criminal]] [[m/_middleman|middleman]] for transactions of [[s/_stolen|stolen]] [[g/_goods|goods]].**
 - **[[s/_skill|Skill]] in [[o/_oral|oral]] [[d/_debate|debate]].**
 - **The [[a/_art|art]] or [[p/_practice|practice]] of [[f/_fencing|fencing]].**
 - **A [[g/_guard|guard]] or [[g/_guide|guide]] on [[m/_machinery|machinery]].**
@@ -12,8 +12,8 @@
 #verb
 - **To [[e/_enclose|enclose]], [[c/_contain|contain]] or [[s/_separate|separate]] by [[b/_building|building]] [[f/_fence|fence]].**
 - **To [[d/_defend|defend]] or [[g/_guard|guard]].**
-- **To [[e/_engage|engage]] in the [[s/_selling|selling]] or [[b/_buying|buying]] of stolen [[g/_goods|goods]].**
-- **To [[e/_engage|engage]] in the sport of [[f/_fencing|fencing]].**
+- **To [[e/_engage|engage]] in the [[s/_selling|selling]] or [[b/_buying|buying]] of [[s/_stolen|stolen]] [[g/_goods|goods]].**
+- **To [[e/_engage|engage]] in the [[s/_sport|sport]] of [[f/_fencing|fencing]].**
 - **To [[j/_jump|jump]] [[o/_over|over]] a [[f/_fence|fence]].**
 - **To [[c/_conceal|conceal]] the truth by [[g/_giving|giving]] [[e/_equivocal|equivocal]] [[a/_answers|answers]]; to [[h/_hedge|hedge]]; to be [[e/_evasive|evasive]].**
 ---

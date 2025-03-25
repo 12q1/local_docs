@@ -3,7 +3,7 @@
 #noun
 - **[[s/_shine|Shine]], [[p/_polish|polish]] or [[s/_sparkle|sparkle]].**
 	- _Example: He polished the brass doorknob to a high luster._
-- **By [[e/_extension|extension]], [[b/_brilliance|brilliance]], [[a/_attractiveness|attractiveness]] or splendor.**
+- **By [[e/_extension|extension]], [[b/_brilliance|brilliance]], [[a/_attractiveness|attractiveness]] or [[s/_splendor|splendor]].**
 	- _Example: After so many years in the same field, the job had lost its luster._
 - **[[r/_refinement|Refinement]], [[p/_polish|polish]] or [[q/_quality|quality]].**
 	- _Example: He spoke with all the lustre a seasoned enthusiast should have._

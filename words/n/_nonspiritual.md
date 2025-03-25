@@ -1,7 +1,7 @@
 # Nonspiritual
 ---
 #adjective
-- **Not spiritual**
+- **Not [[s/_spiritual|spiritual]]**
 - **Antimetaphysical**
 ---
 ---

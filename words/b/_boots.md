@@ -8,9 +8,9 @@
 - **A [[p/_parking|parking]] [[e/_enforcement|enforcement]] [[d/_device|device]] used to [[i/_immobilize|immobilize]] a [[c/_car|car]] until it [[c/_can|can]] be towed or a [[f/_fine|fine]] is [[p/_paid|paid]]; a wheel [[c/_clamp|clamp]].**
 - **A [[r/_rubber|rubber]] [[b/_bladder|bladder]] on the [[l/_leading|leading]] [[e/_edge|edge]] of an [[a/_aircraft|aircraft]]’[[s/_s|s]] wing, which is [[i/_inflated|inflated]] [[p/_periodically|periodically]] to [[r/_remove|remove]] [[i/_ice|ice]] [[b/_buildup|buildup]]. A [[d/_deicing|deicing]] [[b/_boot|boot]].**
 - **A [[p/_place|place]] at the [[s/_side|side]] of a [[c/_coach|coach]], where [[a/_attendants|attendants]] [[r/_rode|rode]]; [[a/_also|also]], a [[l/_low|low]] [[o/_outside|outside]] [[p/_place|place]] [[b/_before|before]] and [[b/_behind|behind]] the [[b/_body|body]] of the [[c/_coach|coach]].**
-- **A [[p/_place|place]] for [[b/_baggage|baggage]] at [[e/_either|either]] [[e/_end|end]] of an [[o/_old|old]]-[[f/_fashioned|fashioned]] stagecoach.**
+- **A [[p/_place|place]] for [[b/_baggage|baggage]] at [[e/_either|either]] [[e/_end|end]] of an [[o/_old|old]]-[[f/_fashioned|fashioned]] [[s/_stagecoach|stagecoach]].**
 - **([[p/_police|police]]) A [[r/_recently|recently]] [[a/_arrived|arrived]] [[r/_recruit|recruit]]; a [[r/_rookie|rookie]].**
-- **The [[l/_luggage|luggage]] storage [[c/_compartment|compartment]] of a [[s/_sedan|sedan]] or [[s/_saloon|saloon]] [[c/_car|car]].**
+- **The [[l/_luggage|luggage]] [[s/_storage|storage]] [[c/_compartment|compartment]] of a [[s/_sedan|sedan]] or [[s/_saloon|saloon]] [[c/_car|car]].**
 - **The [[a/_act|act]] or [[p/_process|process]] of [[r/_removing|removing]] or [[f/_firing|firing]] [[s/_someone|someone]] ([[g/_give|give]] [[s/_someone|someone]] the [[b/_boot|boot]]).**
 - **Unattractive [[p/_person|person]], ugly woman (usually as "[[o/_old|old]] [[b/_boot|boot]]")**
 - **A [[h/_hard|hard]] [[p/_plastic|plastic]] [[c/_case|case]] for a [[l/_long|long]] [[f/_firearm|firearm]], typically [[m/_moulded|moulded]] to the [[s/_shape|shape]] of the [[g/_gun|gun]] and [[i/_intended|intended]] for use in a vehicle.**
@@ -38,7 +38,7 @@
 - **[[p/_profit|Profit]], [[p/_plunder|plunder]].**
 - **That which is [[g/_given|given]] to [[m/_make|make]] an [[e/_exchange|exchange]] [[e/_equal|equal]], or to [[m/_make|make]] up for the [[d/_deficiency|deficiency]] of value in [[o/_one|one]] of the things [[e/_exchanged|exchanged]]; [[c/_compensation|compensation]]; [[r/_recompense|recompense]].**
 - **[[p/_profit|Profit]]; [[g/_gain|gain]]; [[a/_advantage|advantage]]; use.**
-- **[[r/_repair|Repair]] work; the [[a/_act|act]] of [[f/_fixing|fixing]] structures or [[b/_buildings|buildings]].**
+- **[[r/_repair|Repair]] work; the [[a/_act|act]] of [[f/_fixing|fixing]] [[s/_structures|structures]] or [[b/_buildings|buildings]].**
 - **A [[m/_medicinal|medicinal]] [[c/_cure|cure]] or [[r/_remedy|remedy]].**
 ---
 #verb
@@ -46,11 +46,11 @@
 - **To [[b/_benefit|benefit]], to [[e/_enrich|enrich]]; to [[g/_give|give]] in [[a/_addition|addition]].**
 ---
 #noun
-- **The [[a/_act|act]] or [[p/_process|process]] of [[b/_bootstrapping|bootstrapping]]; the starting or [[r/_re|re]]-starting of a [[c/_computing|computing]] [[d/_device|device]].**
+- **The [[a/_act|act]] or [[p/_process|process]] of [[b/_bootstrapping|bootstrapping]]; the [[s/_starting|starting]] or [[r/_re|re]]-[[s/_starting|starting]] of a [[c/_computing|computing]] [[d/_device|device]].**
 	- _Example: It took three boots, but I finally got the application installed._
 ---
 #verb
-- **To [[b/_bootstrap|bootstrap]]; to start a [[s/_system|system]], [[e/_e|e]].[[g/_g|g]]. a [[c/_computer|computer]], by [[i/_invoking|invoking]] [[i/_its|its]] [[b/_boot|boot]] [[p/_process|process]] or [[b/_bootstrap|bootstrap]].**
+- **To [[b/_bootstrap|bootstrap]]; to [[s/_start|start]] a [[s/_system|system]], [[e/_e|e]].[[g/_g|g]]. a [[c/_computer|computer]], by [[i/_invoking|invoking]] [[i/_its|its]] [[b/_boot|boot]] [[p/_process|process]] or [[b/_bootstrap|bootstrap]].**
 	- _Example: When arriving at the office, first thing I do is booting my machine._
 ---
 ### Synonyms

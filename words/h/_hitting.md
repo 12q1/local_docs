@@ -1,7 +1,7 @@
 # Hitting
 ---
 #verb
-- **([[h/_heading|heading]], [[p/_physical|physical]]) To strike.**
+- **([[h/_heading|heading]], [[p/_physical|physical]]) To [[s/_strike|strike]].**
 - **To [[m/_manage|manage]] to touch (a target) in the [[r/_right|right]] [[p/_place|place]].**
 	- _Example: I hit the jackpot._
 - **To switch on.**

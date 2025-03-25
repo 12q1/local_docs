@@ -10,7 +10,7 @@
 - **Turn; [[p/_purpose|purpose]]; [[i/_inclination|inclination]]; [[e/_ends|ends]].**
 - **In the [[l/_leather|leather]] trade, the [[b/_best|best]] [[q/_quality|quality]] of [[s/_sole|sole]] [[l/_leather|leather]]; a [[b/_butt|butt]]; [[s/_sometimes|sometimes]], [[h/_half|half]] a [[b/_butt|butt]] [[c/_cut|cut]] [[l/_lengthwise|lengthwise]].**
 - **[[h/_hard|Hard]], [[i/_indurated|indurated]] [[c/_clay|clay]]; [[b/_bind|bind]].**
-- **(in the [[p/_plural|plural]]) The thickest and strongest [[p/_planks|planks]] in a [[s/_ship|ship]]'[[s/_s|s]] [[s/_sides|sides]], [[m/_more|more]] [[g/_generally|generally]] [[c/_called|called]] wales, which [[h/_have|have]] the [[b/_beams|beams]], [[k/_knees|knees]], and [[f/_futtocks|futtocks]] [[b/_bolted|bolted]] to them.**
+- **(in the [[p/_plural|plural]]) The thickest and [[s/_strongest|strongest]] [[p/_planks|planks]] in a [[s/_ship|ship]]'[[s/_s|s]] [[s/_sides|sides]], [[m/_more|more]] [[g/_generally|generally]] [[c/_called|called]] wales, which [[h/_have|have]] the [[b/_beams|beams]], [[k/_knees|knees]], and [[f/_futtocks|futtocks]] [[b/_bolted|bolted]] to them.**
 - **(in the [[p/_plural|plural]]) The [[f/_frames|frames]] or [[r/_ribs|ribs]] that [[f/_form|form]] the [[s/_ship|ship]]'[[s/_s|s]] [[b/_body|body]] from the [[k/_keel|keel]] to the top of the [[s/_sides|sides]].**
 	- _Example: the midship bends_
 - **A [[g/_glissando|glissando]], or [[g/_glide|glide]] [[b/_between|between]] [[o/_one|one]] [[p/_pitch|pitch]] and [[a/_another|another]].**
@@ -24,7 +24,7 @@
 - **To [[c/_change|change]] [[d/_direction|direction]].**
 	- _Example: The road bends to the right_
 - **To be [[i/_inclined|inclined]]; to [[d/_direct|direct]] [[i/_itself|itself]].**
-- **(usually with "[[d/_down|down]]") To stoop.**
+- **(usually with "[[d/_down|down]]") To [[s/_stoop|stoop]].**
 	- _Example: He bent down to pick up the pieces._
 - **To [[b/_bow|bow]] in [[p/_prayer|prayer]], or in token of submission.**
 - **To [[f/_force|force]] to submit.**

@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[e/_etc|etc]].) A [[s/_set|set]] of [[k/_keys|keys]] used to [[o/_operate|operate]] a typewriter, [[c/_computer|computer]] [[e/_etc|etc]].**
-- **A [[c/_component|component]] of [[m/_many|many]] [[i/_instruments|instruments]] [[i/_including|including]] the [[p/_piano|piano]], [[o/_organ|organ]], and [[h/_harpsichord|harpsichord]] [[c/_consisting|consisting]] of usually [[b/_black|black]] and white [[k/_keys|keys]] that [[c/_cause|cause]] [[d/_different|different]] tones to be [[p/_produced|produced]] when struck.**
+- **A [[c/_component|component]] of [[m/_many|many]] [[i/_instruments|instruments]] [[i/_including|including]] the [[p/_piano|piano]], [[o/_organ|organ]], and [[h/_harpsichord|harpsichord]] [[c/_consisting|consisting]] of usually [[b/_black|black]] and white [[k/_keys|keys]] that [[c/_cause|cause]] [[d/_different|different]] tones to be [[p/_produced|produced]] when [[s/_struck|struck]].**
 - **A [[d/_device|device]] with [[k/_keys|keys]] of a [[m/_musical|musical]] [[k/_keyboard|keyboard]], used to [[c/_control|control]] [[e/_electronic|electronic]] [[s/_sound|sound]]-[[p/_producing|producing]] [[d/_devices|devices]] which [[m/_may|may]] be [[b/_built|built]] [[i/_into|into]] or [[s/_separate|separate]] from the [[k/_keyboard|keyboard]] [[d/_device|device]].**
 ---
 ### Synonyms
@@ -11,8 +11,8 @@
 - **A unit of [[p/_pressure|pressure]] [[e/_equal|equal]] to 1,000 [[b/_bars|bars]] ([[s/_symbol|Symbol]]: [[k/_kb|kb]])**
 ---
 #noun
-- **A [[l/_length|length]] of [[d/_double|double]]-stranded DNA [[c/_containing|containing]] two thousand [[n/_nucleotides|nucleotides]], [[o/_one|one]] thousand on [[e/_each|each]] strand**
-- **A [[l/_length|length]] of [[s/_single|single]]-stranded RNA [[c/_containing|containing]] [[o/_one|one]] thousand [[n/_nucleotides|nucleotides]]**
+- **A [[l/_length|length]] of [[d/_double|double]]-[[s/_stranded|stranded]] DNA [[c/_containing|containing]] two thousand [[n/_nucleotides|nucleotides]], [[o/_one|one]] thousand on [[e/_each|each]] [[s/_strand|strand]]**
+- **A [[l/_length|length]] of [[s/_single|single]]-[[s/_stranded|stranded]] RNA [[c/_containing|containing]] [[o/_one|one]] thousand [[n/_nucleotides|nucleotides]]**
 ---
 ### Synonyms
 - [[k/_kb|kb]], [[k/_kbp|kbp]]

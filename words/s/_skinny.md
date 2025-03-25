@@ -3,7 +3,7 @@
 #noun
 - **The [[d/_details|details]] or [[f/_facts|facts]]; [[e/_especially|especially]], those [[o/_obtained|obtained]] by [[g/_gossip|gossip]] or [[r/_rumor|rumor]].**
 	- _Example: She called to get the skinny on the latest goings-on in the club._
-- **A state of [[n/_nakedness|nakedness]]; [[n/_nudity|nudity]].**
+- **A [[s/_state|state]] of [[n/_nakedness|nakedness]]; [[n/_nudity|nudity]].**
 - **A [[l/_low|low]]-[[f/_fat|fat]] [[s/_serving|serving]] of [[c/_coffee|coffee]].**
 - **A [[s/_skinny|skinny]] [[b/_being|being]].**
 ---

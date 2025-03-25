@@ -17,7 +17,7 @@
 - **A [[s/_short|short]] wooden [[c/_club|club]]; a [[l/_leather|leather]]-[[c/_covered|covered]] [[h/_hand|hand]] weapon; a [[b/_blackjack|blackjack]].**
 ---
 #verb
-- **To strike with a [[s/_sap|sap]] (with a [[b/_blackjack|blackjack]]).**
+- **To [[s/_strike|strike]] with a [[s/_sap|sap]] (with a [[b/_blackjack|blackjack]]).**
 ---
 #noun
 - **A [[n/_narrow|narrow]] [[d/_ditch|ditch]] or trench [[m/_made|made]] from the [[f/_foremost|foremost]] [[p/_parallel|parallel]] toward the [[g/_glacis|glacis]] or [[c/_covert|covert]] way of a [[b/_besieged|besieged]] [[p/_place|place]] by [[d/_digging|digging]] under [[c/_cover|cover]] of [[g/_gabions|gabions]], [[e/_etc|etc]].**

@@ -1,7 +1,7 @@
 # Dags
 ---
 #noun
-- **A [[h/_hanging|hanging]] [[e/_end|end]] or [[s/_shred|shred]], in [[p/_particular|particular]] a [[l/_long|long]] [[p/_pointed|pointed]] strip of [[c/_cloth|cloth]] at the [[e/_edge|edge]] of a [[p/_piece|piece]] of [[c/_clothing|clothing]], or [[o/_one|one]] of a [[r/_row|row]] of [[d/_decorative|decorative]] strips of [[c/_cloth|cloth]] that [[m/_may|may]] [[o/_ornament|ornament]] a tent, [[b/_booth|booth]] or [[f/_fairground|fairground]].**
+- **A [[h/_hanging|hanging]] [[e/_end|end]] or [[s/_shred|shred]], in [[p/_particular|particular]] a [[l/_long|long]] [[p/_pointed|pointed]] [[s/_strip|strip]] of [[c/_cloth|cloth]] at the [[e/_edge|edge]] of a [[p/_piece|piece]] of [[c/_clothing|clothing]], or [[o/_one|one]] of a [[r/_row|row]] of [[d/_decorative|decorative]] [[s/_strips|strips]] of [[c/_cloth|cloth]] that [[m/_may|may]] [[o/_ornament|ornament]] a tent, [[b/_booth|booth]] or [[f/_fairground|fairground]].**
 - **A [[d/_dangling|dangling]] [[l/_lock|lock]] of [[s/_sheep|sheep]]’[[s/_s|s]] wool [[m/_matted|matted]] with [[d/_dung|dung]].**
 ---
 ### Synonyms
@@ -12,7 +12,7 @@
 ---
 #noun
 - **A [[s/_skewer|skewer]].**
-- **A spit, a [[s/_sharpened|sharpened]] [[r/_rod|rod]] used for [[r/_roasting|roasting]] [[f/_food|food]] [[o/_over|over]] a [[f/_fire|fire]].**
+- **A [[s/_spit|spit]], a [[s/_sharpened|sharpened]] [[r/_rod|rod]] used for [[r/_roasting|roasting]] [[f/_food|food]] [[o/_over|over]] a [[f/_fire|fire]].**
 - **A [[d/_dagger|dagger]]; a [[p/_poniard|poniard]].**
 - **A [[k/_kind|kind]] of [[l/_large|large]] [[p/_pistol|pistol]].**
 - **The unbranched [[a/_antler|antler]] of a [[y/_young|young]] [[d/_deer|deer]].**

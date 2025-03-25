@@ -7,6 +7,6 @@
 - **To [[c/_compete|compete]] in a [[p/_prizefight|prizefight]].**
 ---
 #noun
-- **The [[a/_act|act]] or state of [[p/_prizing|prizing]] [[s/_something|something]], valuing it [[h/_highly|highly]].**
+- **The [[a/_act|act]] or [[s/_state|state]] of [[p/_prizing|prizing]] [[s/_something|something]], valuing it [[h/_highly|highly]].**
 ---
 ---

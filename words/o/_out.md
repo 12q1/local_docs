@@ -3,8 +3,8 @@
 #noun
 - **A [[m/_means|means]] of [[e/_exit|exit]], [[e/_escape|escape]], [[r/_reprieve|reprieve]], [[e/_etc|etc]].**
 	- _Example: They wrote the law to give those organizations an out._
-- **A state in which a [[m/_member|member]] of the [[b/_batting|batting]] team is [[r/_removed|removed]] from [[p/_play|play]] [[d/_due|due]] to the [[a/_application|application]] of various [[r/_rules|rules]] of the [[g/_game|game]] such as striking [[o/_out|out]], [[h/_hitting|hitting]] a [[f/_fly|fly]] [[b/_ball|ball]] which is [[c/_caught|caught]] by the [[f/_fielding|fielding]] team [[b/_before|before]] [[b/_bouncing|bouncing]], [[e/_etc|etc]].**
-- **A [[d/_dismissal|dismissal]]; a state in which a [[m/_member|member]] of the [[b/_batting|batting]] team [[f/_finishes|finishes]] [[h/_his|his]] turn at [[b/_bat|bat]], [[d/_due|due]] to the [[a/_application|application]] of various [[r/_rules|rules]] of the [[g/_game|game]], such as the [[b/_bowler|bowler]] [[k/_knocking|knocking]] [[o/_over|over]] the [[b/_batsman|batsman]]'[[s/_s|s]] wicket with the [[b/_ball|ball]].**
+- **A [[s/_state|state]] in which a [[m/_member|member]] of the [[b/_batting|batting]] team is [[r/_removed|removed]] from [[p/_play|play]] [[d/_due|due]] to the [[a/_application|application]] of various [[r/_rules|rules]] of the [[g/_game|game]] such as [[s/_striking|striking]] [[o/_out|out]], [[h/_hitting|hitting]] a [[f/_fly|fly]] [[b/_ball|ball]] which is [[c/_caught|caught]] by the [[f/_fielding|fielding]] team [[b/_before|before]] [[b/_bouncing|bouncing]], [[e/_etc|etc]].**
+- **A [[d/_dismissal|dismissal]]; a [[s/_state|state]] in which a [[m/_member|member]] of the [[b/_batting|batting]] team [[f/_finishes|finishes]] [[h/_his|his]] turn at [[b/_bat|bat]], [[d/_due|due]] to the [[a/_application|application]] of various [[r/_rules|rules]] of the [[g/_game|game]], such as the [[b/_bowler|bowler]] [[k/_knocking|knocking]] [[o/_over|over]] the [[b/_batsman|batsman]]'[[s/_s|s]] wicket with the [[b/_ball|ball]].**
 - **A [[c/_card|card]] which [[c/_can|can]] [[m/_make|make]] a [[h/_hand|hand]] a winner.**
 - **A trip [[o/_out|out]]; an [[o/_outing|outing]].**
 - **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[o/_one|One]] who, or that which, is [[o/_out|out]]; [[e/_especially|especially]], [[o/_one|one]] who is [[o/_out|out]] of [[o/_office|office]].**
@@ -38,10 +38,10 @@
 	- _Example: He bowls, Johnson pokes at it ... and ... Johnson is out! Caught behind by Ponsonby!_
 - **[[o/_openly|Openly]] [[a/_acknowledging|acknowledging]] that [[o/_one|one]] is LGBT+ ([[g/_gay|gay]], trans, [[e/_etc|etc]]).**
 	- _Example: It's no big deal to be out in the entertainment business._
-- **(by [[e/_extension|extension]]) [[o/_open|Open]], [[p/_public|public]]; [[p/_public|public]] [[a/_about|about]] or [[o/_openly|openly]] [[a/_acknowledging|acknowledging]] [[s/_some|some]] (usually specified) [[i/_identity|identity]].**
+- **(by [[e/_extension|extension]]) [[o/_open|Open]], [[p/_public|public]]; [[p/_public|public]] [[a/_about|about]] or [[o/_openly|openly]] [[a/_acknowledging|acknowledging]] [[s/_some|some]] (usually [[s/_specified|specified]]) [[i/_identity|identity]].**
 - **(of [[f/_flowers|flowers]]) In [[b/_bloom|bloom]].**
 	- _Example: The garden looks beautiful now that the roses are out._
-- **(of the sun, [[m/_moon|moon]] or stars) Visible in the [[s/_sky|sky]]; not [[o/_obscured|obscured]] by [[c/_clouds|clouds]].**
+- **(of the sun, [[m/_moon|moon]] or [[s/_stars|stars]]) Visible in the [[s/_sky|sky]]; not [[o/_obscured|obscured]] by [[c/_clouds|clouds]].**
 	- _Example: The sun is out, and it's a lovely day._
 - **(of [[l/_lamps|lamps]], [[f/_fires|fires]] [[e/_etc|etc]].) Not [[s/_shining|shining]] or [[b/_burning|burning]].**
 	- _Example: I called round to the house but all the lights were out and no one was home._
@@ -59,7 +59,7 @@
 	- _Example: Black is out this season. The new black is white._
 - **Without; [[n/_no|no]] [[l/_longer|longer]] in [[p/_possession|possession]] of; not [[h/_having|having]] [[m/_more|more]]**
 	- _Example: Do you have any bread? Sorry, we're out._
-- **(of [[c/_calculations|calculations]] or [[m/_measurements|measurements]]) [[c/_containing|Containing]] [[e/_errors|errors]] or [[d/_discrepancies|discrepancies]]; in [[e/_error|error]] by a stated [[a/_amount|amount]].**
+- **(of [[c/_calculations|calculations]] or [[m/_measurements|measurements]]) [[c/_containing|Containing]] [[e/_errors|errors]] or [[d/_discrepancies|discrepancies]]; in [[e/_error|error]] by a [[s/_stated|stated]] [[a/_amount|amount]].**
 	- _Example: Nothing adds up in this report. All these figures are out._
 - **Of a [[y/_young|young]] [[l/_lady|lady]]: [[h/_having|having]] [[e/_entered|entered]] [[s/_society|society]] and [[a/_available|available]] to be [[c/_courted|courted]].**
 ---
@@ -76,15 +76,15 @@
 	- _Example: Last night we slept out under the stars._
 - **[[a/_away|Away]] from; at a [[d/_distance|distance]].**
 	- _Example: Keep out!_
-- **[[i/_into|Into]] a state of [[n/_non|non]]-[[o/_operation|operation]]; [[i/_into|into]] [[n/_non|non]]-[[e/_existence|existence]].**
+- **[[i/_into|Into]] a [[s/_state|state]] of [[n/_non|non]]-[[o/_operation|operation]]; [[i/_into|into]] [[n/_non|non]]-[[e/_existence|existence]].**
 	- _Example: I painted out that nasty mark on the wall._
 - **To the [[e/_end|end]]; [[c/_completely|completely]].**
 	- _Example: I haven't finished. Hear me out._
 - **Used to [[i/_intensify|intensify]] or [[e/_emphasize|emphasize]].**
 	- _Example: The place was all decked out for the holidays._
-- **(of the sun, [[m/_moon|moon]], stars, [[e/_etc|etc]].) [[s/_so|So]] as to be visible in the [[s/_sky|sky]], and not [[c/_covered|covered]] by [[c/_clouds|clouds]], [[f/_fog|fog]], [[e/_etc|etc]].**
+- **(of the sun, [[m/_moon|moon]], [[s/_stars|stars]], [[e/_etc|etc]].) [[s/_so|So]] as to be visible in the [[s/_sky|sky]], and not [[c/_covered|covered]] by [[c/_clouds|clouds]], [[f/_fog|fog]], [[e/_etc|etc]].**
 	- _Example: The sun came out after the rain, and we saw a rainbow._
-- **Of a [[p/_player|player]], [[s/_so|so]] as to be [[d/_disqualified|disqualified]] from [[p/_playing|playing]] [[f/_further|further]] by [[s/_some|some]] [[a/_action|action]] of a [[m/_member|member]] of the [[o/_opposing|opposing]] team (such as [[b/_being|being]] stumped in [[c/_cricket|cricket]]).**
+- **Of a [[p/_player|player]], [[s/_so|so]] as to be [[d/_disqualified|disqualified]] from [[p/_playing|playing]] [[f/_further|further]] by [[s/_some|some]] [[a/_action|action]] of a [[m/_member|member]] of the [[o/_opposing|opposing]] team (such as [[b/_being|being]] [[s/_stumped|stumped]] in [[c/_cricket|cricket]]).**
 	- _Example: Wilson was bowled out for five runs._
 ---
 ### Synonyms
@@ -99,7 +99,7 @@
 ### Antonyms
 - [[i/_in|in]]
 #interjection
-- **([[p/_procedure|procedure]] word) A [[r/_radio|radio]] [[p/_procedure|procedure]] word [[m/_meaning|meaning]] that the station is [[f/_finished|finished]] with [[i/_its|its]] transmission and [[d/_does|does]] not [[e/_expect|expect]] a [[r/_response|response]].**
+- **([[p/_procedure|procedure]] word) A [[r/_radio|radio]] [[p/_procedure|procedure]] word [[m/_meaning|meaning]] that the [[s/_station|station]] is [[f/_finished|finished]] with [[i/_its|its]] transmission and [[d/_does|does]] not [[e/_expect|expect]] a [[r/_response|response]].**
 	- _Example: Destruction. Two T-72s destroyed. Three foot mobiles down. Out._
 - **[[g/_get|Get]] [[o/_out|out]]; [[b/_begone|begone]]; [[a/_away|away]]!**
 ---

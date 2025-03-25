@@ -35,7 +35,7 @@
 	- _Example: A wound eventually skins over._
 - **To [[c/_cover|cover]] with [[s/_skin|skin]], or as [[i/_if|if]] with [[s/_skin|skin]]; [[h/_hence|hence]], to [[c/_cover|cover]] superficially.**
 - **To [[p/_produce|produce]], in [[r/_recitation|recitation]], [[e/_examination|examination]], [[e/_etc|etc]]., the work of [[a/_another|another]] for [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]], or to use [[c/_cribs|cribs]], [[m/_memoranda|memoranda]], [[e/_etc|etc]]., which are [[p/_prohibited|prohibited]].**
-- **To strip of [[m/_money|money]] or [[p/_property|property]]; to [[c/_cheat|cheat]].**
+- **To [[s/_strip|strip]] of [[m/_money|money]] or [[p/_property|property]]; to [[c/_cheat|cheat]].**
 ---
 ### Synonyms
 - [[b/_bark|bark]], [[c/_chafe|chafe]], [[e/_excoriate|excoriate]], [[g/_graze|graze]], [[s/_scrape|scrape]], [[f/_flay|flay]], [[f/_fleece|fleece]], [[f/_flense|flense]], [[s/_scalp|scalp]]

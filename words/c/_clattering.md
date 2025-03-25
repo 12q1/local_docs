@@ -10,6 +10,6 @@
 - **A [[n/_noise|noise]] that [[c/_clatters|clatters]].**
 ---
 #adjective
-- **In a state or [[p/_process|process]] of [[b/_being|being]] [[c/_clattered|clattered]].**
+- **In a [[s/_state|state]] or [[p/_process|process]] of [[b/_being|being]] [[c/_clattered|clattered]].**
 ---
 ---

@@ -10,8 +10,8 @@
 	- _Example: This court is now in session._
 - **The [[s/_sequence|sequence]] of [[i/_interactions|interactions]] [[b/_between|between]] [[c/_client|client]] and [[s/_server|server]], or [[b/_between|between]] user and [[s/_system|system]]; the [[p/_period|period]] [[d/_during|during]] which a user is [[l/_logged|logged]] in or [[c/_connected|connected]].**
 	- _Example: Logging out or shutting down the computer will end your session._
-- **[[a/_any|Any]] of the three [[s/_scheduled|scheduled]] two [[h/_hour|hour]] [[p/_playing|playing]] [[s/_sessions|sessions]], from the start of [[p/_play|play]] to [[l/_lunch|lunch]], from [[l/_lunch|lunch]] to tea and from tea to the [[c/_close|close]] of [[p/_play|play]].**
-- **The [[a/_act|act]] of [[s/_sitting|sitting]], or the state of [[b/_being|being]] [[s/_seated|seated]].**
+- **[[a/_any|Any]] of the three [[s/_scheduled|scheduled]] two [[h/_hour|hour]] [[p/_playing|playing]] [[s/_sessions|sessions]], from the [[s/_start|start]] of [[p/_play|play]] to [[l/_lunch|lunch]], from [[l/_lunch|lunch]] to tea and from tea to the [[c/_close|close]] of [[p/_play|play]].**
+- **The [[a/_act|act]] of [[s/_sitting|sitting]], or the [[s/_state|state]] of [[b/_being|being]] [[s/_seated|seated]].**
 - **An [[a/_academic|academic]] term.**
 ---
 #verb

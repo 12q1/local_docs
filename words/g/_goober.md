@@ -3,7 +3,7 @@
 #noun
 - **The [[l/_language|language]] of [[g/_georgia|Georgia]], a [[c/_country|country]] in [[e/_eastern|Eastern]] [[e/_europe|Europe]].**
 - **A [[p/_person|person]] or a [[d/_descendant|descendant]] of a [[p/_person|person]] from [[g/_georgia|Georgia]], a [[c/_country|country]] in [[e/_eastern|Eastern]] [[e/_europe|Europe]].**
-- **A [[n/_native|native]] or [[r/_resident|resident]] of the state of [[g/_georgia|Georgia]] in the United States of [[a/_america|America]].**
+- **A [[n/_native|native]] or [[r/_resident|resident]] of the [[s/_state|state]] of [[g/_georgia|Georgia]] in the United [[s/_states|States]] of [[a/_america|America]].**
 ---
 ### Synonyms
 - [[g/_goober|goober]], [[g/_goober-grabbler|goober-grabbler]]

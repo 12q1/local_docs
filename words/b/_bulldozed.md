@@ -3,7 +3,7 @@
 #verb
 - **To [[d/_destroy|destroy]] with a [[b/_bulldozer|bulldozer]].**
 	- _Example: He's certainly very chirpy for a man whose house has just been bulldozed down._
-- **To [[p/_push|push]] [[s/_someone|someone]] [[o/_over|over]] by [[h/_heading|heading]] straight [[o/_over|over]] them. [[o/_often|Often]] used in [[c/_conjunction|conjunction]] with "[[o/_over|over]]".**
+- **To [[p/_push|push]] [[s/_someone|someone]] [[o/_over|over]] by [[h/_heading|heading]] [[s/_straight|straight]] [[o/_over|over]] them. [[o/_often|Often]] used in [[c/_conjunction|conjunction]] with "[[o/_over|over]]".**
 	- _Example: He just ran across the field bulldozing everyone over._
 - **To [[p/_push|push]] through [[f/_forcefully|forcefully]].**
 - **To [[p/_push|push]] [[i/_into|into]] a [[h/_heap|heap]], as a [[b/_bulldozer|bulldozer]] [[d/_does|does]].**

@@ -1,7 +1,7 @@
 # Honoured
 ---
 #verb
-- **To think of [[h/_highly|highly]], to [[r/_respect|respect]] [[h/_highly|highly]]; to [[s/_show|show]] [[r/_respect|respect]] for; to [[r/_recognise|recognise]] the [[i/_importance|importance]] or spiritual value of**
+- **To think of [[h/_highly|highly]], to [[r/_respect|respect]] [[h/_highly|highly]]; to [[s/_show|show]] [[r/_respect|respect]] for; to [[r/_recognise|recognise]] the [[i/_importance|importance]] or [[s/_spiritual|spiritual]] value of**
 	- _Example: The freedom fighters will be forever remembered and honored by the people._
 - **To [[c/_conform|conform]] to, [[a/_abide|abide]] by, [[a/_act|act]] in [[a/_accordance|accordance]] with (an [[a/_agreement|agreement]], treaty, [[p/_promise|promise]], [[r/_request|request]], or the [[l/_like|like]])**
 	- _Example: I trusted you, but you have not honored your promise._

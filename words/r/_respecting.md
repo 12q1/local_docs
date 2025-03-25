@@ -7,7 +7,7 @@
 	- _Example: I respect your right to hold that belief, although I think it is nonsense._
 - **To [[a/_abide|abide]] by an [[a/_agreement|agreement]].**
 	- _Example: They failed to respect the treaty they had signed, and invaded._
-- **To take [[n/_notice|notice]] of; to [[r/_regard|regard]] as worthy of special [[c/_consideration|consideration]]; to [[h/_heed|heed]].**
+- **To take [[n/_notice|notice]] of; to [[r/_regard|regard]] as worthy of [[s/_special|special]] [[c/_consideration|consideration]]; to [[h/_heed|heed]].**
 - **([[d/_dated|dated]] [[e/_except|except]] in "[[r/_respecting|respecting]]") To [[r/_relate|relate]] to; to be [[c/_concerned|concerned]] with.**
 - **To [[r/_regard|regard]]; to [[c/_consider|consider]]; to [[d/_deem|deem]].**
 - **To [[l/_look|look]] toward; to [[f/_face|face]].**

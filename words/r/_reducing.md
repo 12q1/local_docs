@@ -8,7 +8,7 @@
 	- _Example: Hester Prynne was shocked at the condition to which she found the clergyman reduced._
 - **To [[h/_humble|humble]]; to [[c/_conquer|conquer]]; to subdue; to [[c/_capture|capture]].**
 	- _Example: to reduce a province or a fort_
-- **To [[b/_bring|bring]] to an [[i/_inferior|inferior]] state or [[c/_condition|condition]].**
+- **To [[b/_bring|bring]] to an [[i/_inferior|inferior]] [[s/_state|state]] or [[c/_condition|condition]].**
 	- _Example: to reduce a city to ashes_
 - **To [[d/_decrease|decrease]] the [[l/_liquid|liquid]] [[c/_content|content]] of [[f/_food|food]] by [[b/_boiling|boiling]] [[m/_much|much]] of [[i/_its|its]] water [[o/_off|off]].**
 - **To [[a/_add|add]] [[e/_electrons|electrons]] / [[h/_hydrogen|hydrogen]] or to [[r/_remove|remove]] [[o/_oxygen|oxygen]].**
@@ -19,8 +19,8 @@
 - **To [[c/_convert|convert]] to written [[f/_form|form]]. (Usage [[n/_note|note]]: this verb [[a/_almost|almost]] [[a/_always|always]] [[a/_appears|appears]] as "[[r/_reduce|reduce]] to writing".)**
 	- _Example: It is important that all business contracts be reduced to writing._
 - **To [[p/_perform|perform]] a [[r/_reduction|reduction]]; to [[r/_restore|restore]] a [[f/_fracture|fracture]] or [[d/_dislocation|dislocation]] to the [[c/_correct|correct]] [[a/_alignment|alignment]].**
-- **To [[r/_reform|reform]] a [[l/_line|line]] or [[c/_column|column]] from (a square).**
-- **To strike [[o/_off|off]] the [[p/_payroll|payroll]].**
+- **To [[r/_reform|reform]] a [[l/_line|line]] or [[c/_column|column]] from (a [[s/_square|square]]).**
+- **To [[s/_strike|strike]] [[o/_off|off]] the [[p/_payroll|payroll]].**
 - **To [[a/_annul|annul]] by [[l/_legal|legal]] [[m/_means|means]].**
 - **To translate (a [[b/_book|book]], [[d/_document|document]], [[e/_etc|etc]].).**
 	- _Example: a book reduced into English_

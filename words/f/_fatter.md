@@ -7,7 +7,7 @@
 	- _Example: The fat wallets of the men from the city brought joy to the peddlers._
 - **[[b/_bountiful|Bountiful]].**
 - **[[o/_oily|Oily]]; [[g/_greasy|greasy]]; unctuous; [[r/_rich|rich]] ([[s/_said|said]] of [[f/_food|food]]).**
-- **[[e/_exhibiting|Exhibiting]] the [[q/_qualities|qualities]] of a [[f/_fat|fat]] [[a/_animal|animal]]; [[c/_coarse|coarse]]; [[h/_heavy|heavy]]; [[g/_gross|gross]]; [[d/_dull|dull]]; stupid.**
+- **[[e/_exhibiting|Exhibiting]] the [[q/_qualities|qualities]] of a [[f/_fat|fat]] [[a/_animal|animal]]; [[c/_coarse|coarse]]; [[h/_heavy|heavy]]; [[g/_gross|gross]]; [[d/_dull|dull]]; [[s/_stupid|stupid]].**
 - **[[f/_fertile|Fertile]]; [[p/_productive|productive]].**
 	- _Example: a fat soil;  a fat pasture_
 - **[[r/_rich|Rich]]; [[p/_producing|producing]] a [[l/_large|large]] [[i/_income|income]]; [[d/_desirable|desirable]].**

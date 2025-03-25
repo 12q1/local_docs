@@ -17,8 +17,8 @@
 ---
 #adverb
 - **[[n/_no|No]].**
-- **[[i/_introducing|Introducing]] a statement, without [[d/_direct|direct]] [[n/_negation|negation]].**
-- **Or [[r/_rather|rather]], or [[s/_should|should]] [[i/_i|I]] [[s/_say|say]]; [[m/_moreover|moreover]] ([[i/_introducing|introducing]] a stronger and [[m/_more|more]] [[a/_appropriate|appropriate]] [[e/_expression|expression]] than the [[p/_preceding|preceding]] [[o/_one|one]]).**
+- **[[i/_introducing|Introducing]] a [[s/_statement|statement]], without [[d/_direct|direct]] [[n/_negation|negation]].**
+- **Or [[r/_rather|rather]], or [[s/_should|should]] [[i/_i|I]] [[s/_say|say]]; [[m/_moreover|moreover]] ([[i/_introducing|introducing]] a [[s/_stronger|stronger]] and [[m/_more|more]] [[a/_appropriate|appropriate]] [[e/_expression|expression]] than the [[p/_preceding|preceding]] [[o/_one|one]]).**
 	- _Example: His face was dirty, nay, filthy._
 ---
 #interjection

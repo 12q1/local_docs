@@ -1,7 +1,7 @@
 # Showboat
 ---
 #noun
-- **A [[r/_river|river]] steamboat [[h/_having|having]] a [[r/_resident|resident]] theatre.**
+- **A [[r/_river|river]] [[s/_steamboat|steamboat]] [[h/_having|having]] a [[r/_resident|resident]] theatre.**
 - **(by [[e/_extension|extension]]) A [[s/_showoff|showoff]].**
 ---
 #verb

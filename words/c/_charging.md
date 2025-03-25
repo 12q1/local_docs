@@ -18,11 +18,11 @@
 - **To [[l/_load|load]] [[e/_equipment|equipment]] with [[m/_material|material]] [[r/_required|required]] for [[i/_its|its]] use, as a [[f/_firearm|firearm]] with [[p/_powder|powder]], a [[f/_fire|fire]] [[h/_hose|hose]] with water, a [[c/_chemical|chemical]] [[r/_reactor|reactor]] with [[r/_raw|raw]] [[m/_materials|materials]]**
 	- _Example: Charge your weapons; we're moving up._
 - **To [[m/_move|move]] [[f/_forward|forward]] [[q/_quickly|quickly]] and [[f/_forcefully|forcefully]], [[p/_particularly|particularly]] in [[c/_combat|combat]] and/or on [[h/_horseback|horseback]]**
-- **(of a [[h/_hunting|hunting]] [[d/_dog|dog]]) to [[l/_lie|lie]] on the [[b/_belly|belly]] and be still (A [[c/_command|command]] [[g/_given|given]] by a [[h/_hunter|hunter]] to a [[d/_dog|dog]])**
+- **(of a [[h/_hunting|hunting]] [[d/_dog|dog]]) to [[l/_lie|lie]] on the [[b/_belly|belly]] and be [[s/_still|still]] (A [[c/_command|command]] [[g/_given|given]] by a [[h/_hunter|hunter]] to a [[d/_dog|dog]])**
 ---
 #noun
 - **An [[a/_act|act]] or [[p/_process|process]] of [[c/_charging|charging]] (as of a [[b/_battery|battery]]).**
-- **An [[o/_offensive|offensive]] [[f/_foul|foul]] in which the [[p/_player|player]] with the [[b/_ball|ball]] [[m/_moves|moves]] [[i/_into|into]] a stationary [[d/_defender|defender]].**
+- **An [[o/_offensive|offensive]] [[f/_foul|foul]] in which the [[p/_player|player]] with the [[b/_ball|ball]] [[m/_moves|moves]] [[i/_into|into]] a [[s/_stationary|stationary]] [[d/_defender|defender]].**
 	- _Example: Smith is called for charging, and the Nimrods will get the ball._
 ---
 ---

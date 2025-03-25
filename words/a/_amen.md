@@ -13,6 +13,6 @@
 - **In [[m/_many|many]] [[a/_abrahamic|Abrahamic]] [[r/_religious|religious]] texts and [[c/_creeds|creeds]]: truly, verily.**
 ---
 #interjection
-- **An [[e/_expression|expression]] of strong [[a/_agreement|agreement]]. [[o/_often|Often]], though [[d/_dated|dated]], in the [[p/_phrase|phrase]] "[[a/_amen|Amen]] to that".**
+- **An [[e/_expression|expression]] of [[s/_strong|strong]] [[a/_agreement|agreement]]. [[o/_often|Often]], though [[d/_dated|dated]], in the [[p/_phrase|phrase]] "[[a/_amen|Amen]] to that".**
 ---
 ---

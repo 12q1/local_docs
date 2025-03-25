@@ -1,7 +1,7 @@
 # Founded
 ---
 #verb
-- **To start (an [[i/_institution|institution]] or [[o/_organization|organization]]).**
+- **To [[s/_start|start]] (an [[i/_institution|institution]] or [[o/_organization|organization]]).**
 - **To [[b/_begin|begin]] [[b/_building|building]].**
 ---
 ### Synonyms

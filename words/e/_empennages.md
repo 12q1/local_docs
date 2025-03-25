@@ -2,6 +2,6 @@
 ---
 #noun
 - **The tail [[a/_assembly|assembly]] of an [[a/_aircraft|aircraft]].**
-- **The [[f/_feathers|feathers]] of an [[a/_arrow|arrow]] or the tail [[f/_fins|fins]] of a [[b/_bomb|bomb]] or [[r/_rocket|rocket]] used to stabilize the [[l/_longitudinal|longitudinal]] [[a/_axis|axis]] of the [[p/_projectile|projectile]] [[p/_parallel|parallel]] to the [[f/_flight|flight]] [[p/_path|path]].**
+- **The [[f/_feathers|feathers]] of an [[a/_arrow|arrow]] or the tail [[f/_fins|fins]] of a [[b/_bomb|bomb]] or [[r/_rocket|rocket]] used to [[s/_stabilize|stabilize]] the [[l/_longitudinal|longitudinal]] [[a/_axis|axis]] of the [[p/_projectile|projectile]] [[p/_parallel|parallel]] to the [[f/_flight|flight]] [[p/_path|path]].**
 ---
 ---

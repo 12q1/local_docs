@@ -16,9 +16,9 @@
 	- _Example: This is the final production model._
 - **The [[a/_act|act]] of [[l/_lengthening|lengthening]] [[o/_out|out]] or [[p/_prolonging|prolonging]].**
 - **An [[e/_extension|extension]] or [[p/_protrusion|protrusion]].**
-- **A [[r/_rewrite|rewrite]] [[r/_rule|rule]] specifying a [[s/_symbol|symbol]] substitution that [[c/_can|can]] be [[r/_recursively|recursively]] [[p/_performed|performed]] to [[g/_generate|generate]] [[n/_new|new]] [[s/_symbol|symbol]] [[s/_sequences|sequences]]. ([[m/_more|More]] [[i/_information|information]] on Wikipedia.)**
+- **A [[r/_rewrite|rewrite]] [[r/_rule|rule]] [[s/_specifying|specifying]] a [[s/_symbol|symbol]] substitution that [[c/_can|can]] be [[r/_recursively|recursively]] [[p/_performed|performed]] to [[g/_generate|generate]] [[n/_new|new]] [[s/_symbol|symbol]] [[s/_sequences|sequences]]. ([[m/_more|More]] [[i/_information|information]] on Wikipedia.)**
 	- _Example: Each production is implemented with a function._
-- **The [[e/_environment|environment]] where [[f/_finished|finished]] [[c/_code|code]] [[r/_runs|runs]], as [[o/_opposed|opposed]] to staging or [[d/_development|development]].**
+- **The [[e/_environment|environment]] where [[f/_finished|finished]] [[c/_code|code]] [[r/_runs|runs]], as [[o/_opposed|opposed]] to [[s/_staging|staging]] or [[d/_development|development]].**
 - **(in the [[p/_plural|plural]]) Written [[d/_documents|documents]] [[p/_produced|produced]] in support of the [[a/_action|action]] or [[d/_defence|defence]].**
 ---
 ---

@@ -10,6 +10,6 @@
 #verb
 - **To [[i/_insult|insult]] with a [[f/_fico|fico]], or [[c/_contemptuous|contemptuous]] [[m/_motion|motion]].**
 - **To [[p/_put|put]] [[i/_into|into]] the [[h/_head|head]] of, as [[s/_something|something]] useless or [[c/_contemptible|contemptible]].**
-- **([[s/_soap|soap]]-[[m/_making|making]]) To [[d/_develop|develop]], or [[c/_cause|cause]] (a [[s/_soap|soap]]) to [[d/_develop|develop]], white streaks or [[g/_granulations|granulations]].**
+- **([[s/_soap|soap]]-[[m/_making|making]]) To [[d/_develop|develop]], or [[c/_cause|cause]] (a [[s/_soap|soap]]) to [[d/_develop|develop]], white [[s/_streaks|streaks]] or [[g/_granulations|granulations]].**
 ---
 ---

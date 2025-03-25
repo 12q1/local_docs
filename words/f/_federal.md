@@ -9,6 +9,6 @@
 - [[f/_fed|fed]]
 #adjective
 - **[[p/_pertaining|Pertaining]] to a [[l/_league|league]] or treaty; [[d/_derived|derived]] from an [[a/_agreement|agreement]] or [[c/_covenant|covenant]] [[b/_between|between]] [[p/_parties|parties]], [[e/_especially|especially]] [[b/_between|between]] [[n/_nations|nations]].**
-- **[[p/_pertaining|Pertaining]] to the [[n/_national|national]] [[g/_government|government]] [[l/_level|level]], as [[o/_opposed|opposed]] to state, [[p/_provincial|provincial]], [[c/_county|county]], [[c/_city|city]], or town.**
+- **[[p/_pertaining|Pertaining]] to the [[n/_national|national]] [[g/_government|government]] [[l/_level|level]], as [[o/_opposed|opposed]] to [[s/_state|state]], [[p/_provincial|provincial]], [[c/_county|county]], [[c/_city|city]], or town.**
 ---
 ---

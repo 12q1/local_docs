@@ -1,7 +1,7 @@
 # Hatreds
 ---
 #noun
-- **Strong [[a/_aversion|aversion]]; [[i/_intense|intense]] [[d/_dislike|dislike]]**
+- **[[s/_strong|Strong]] [[a/_aversion|aversion]]; [[i/_intense|intense]] [[d/_dislike|dislike]]**
 ---
 ### Synonyms
 - [[a/_antipathy|antipathy]], [[h/_hate|hate]], [[h/_hostility|hostility]]

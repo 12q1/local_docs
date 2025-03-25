@@ -7,7 +7,7 @@
 - **An [[i/_inmate|inmate]] of a [[p/_prison|prison]].**
 ---
 #adjective
-- **Of, or [[r/_relating|relating]] to a [[c/_college|college]], or [[c/_college|college]] students.**
+- **Of, or [[r/_relating|relating]] to a [[c/_college|college]], or [[c/_college|college]] [[s/_students|students]].**
 - **[[c/_collegial|Collegial]].**
 ---
 ---

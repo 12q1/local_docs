@@ -1,7 +1,7 @@
 # Clapstick
 ---
 #noun
-- **A [[k/_kind|kind]] of [[d/_drumstick|drumstick]] used by striking [[o/_one|one]] [[a/_against|against]] [[a/_another|another]], to [[m/_maintain|maintain]] [[r/_rhythm|rhythm]] in [[a/_aboriginal|Aboriginal]] voice [[c/_chants|chants]].**
+- **A [[k/_kind|kind]] of [[d/_drumstick|drumstick]] used by [[s/_striking|striking]] [[o/_one|one]] [[a/_against|against]] [[a/_another|another]], to [[m/_maintain|maintain]] [[r/_rhythm|rhythm]] in [[a/_aboriginal|Aboriginal]] voice [[c/_chants|chants]].**
 - **A [[c/_clapperboard|clapperboard]].**
 ---
 ### Synonyms

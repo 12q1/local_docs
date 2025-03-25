@@ -21,17 +21,17 @@
 - **To [[a/_achieve|achieve]] by [[r/_rowing|rowing]] on a [[r/_rowing|rowing]] [[m/_machine|machine]].**
 	- _Example: I pulled a personal best on the erg yesterday._
 - **To [[d/_draw|draw]] [[a/_apart|apart]]; to tear; to [[r/_rend|rend]].**
-- **To strain (a [[m/_muscle|muscle]], tendon, [[l/_ligament|ligament]], [[e/_etc|etc]].).**
+- **To [[s/_strain|strain]] (a [[m/_muscle|muscle]], tendon, [[l/_ligament|ligament]], [[e/_etc|etc]].).**
 - **To [[d/_draw|draw]] (a [[h/_hostile|hostile]] [[n/_non|non]]-[[p/_player|player]] [[c/_character|character]]) [[i/_into|into]] [[c/_combat|combat]], or toward or [[a/_away|away]] from [[s/_some|some]] [[l/_location|location]] or target.**
-- **To [[s/_score|score]] a [[c/_certain|certain]] [[n/_number|number]] of [[p/_points|points]] in a sport.**
+- **To [[s/_score|score]] a [[c/_certain|certain]] [[n/_number|number]] of [[p/_points|points]] in a [[s/_sport|sport]].**
 	- _Example: How many points did you pull today, Albert?_
 - **To [[h/_hold|hold]] [[b/_back|back]], and [[s/_so|so]] [[p/_prevent|prevent]] from winning.**
 	- _Example: The favourite was pulled._
 - **To take or [[m/_make|make]] (a [[p/_proof|proof]] or [[i/_impression|impression]]); [[s/_so|so]] [[c/_called|called]] [[b/_because|because]] [[h/_hand|hand]] [[p/_presses|presses]] were worked by [[p/_pulling|pulling]] a [[l/_lever|lever]].**
-- **To strike the [[b/_ball|ball]] in a [[p/_particular|particular]] [[m/_manner|manner]]. ([[s/_see|See]] [[n/_noun|noun]] [[s/_sense|sense]].)**
+- **To [[s/_strike|strike]] the [[b/_ball|ball]] in a [[p/_particular|particular]] [[m/_manner|manner]]. ([[s/_see|See]] [[n/_noun|noun]] [[s/_sense|sense]].)**
 - **To [[d/_draw|draw]] [[b/_beer|beer]] from a [[p/_pump|pump]], [[k/_keg|keg]], or [[o/_other|other]] [[s/_source|source]].**
 	- _Example: Let's stop at Finnigan's. The barman pulls a good pint._
-- **([[r/_rail|rail]] transportation, of a [[r/_railroad|railroad]] [[c/_car|car]]) To [[p/_pull|pull]] [[o/_out|out]] from a [[y/_yard|yard]] or station; to [[l/_leave|leave]].**
+- **([[r/_rail|rail]] transportation, of a [[r/_railroad|railroad]] [[c/_car|car]]) To [[p/_pull|pull]] [[o/_out|out]] from a [[y/_yard|yard]] or [[s/_station|station]]; to [[l/_leave|leave]].**
 - **To [[p/_pluck|pluck]] or [[p/_pick|pick]] ([[f/_flowers|flowers]], [[f/_fruit|fruit]] [[e/_etc|etc]].).**
 ---
 ### Synonyms

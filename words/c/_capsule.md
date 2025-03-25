@@ -2,8 +2,8 @@
 ---
 #noun
 - **A [[m/_membranous|membranous]] [[e/_envelope|envelope]].**
-- **A type of [[s/_simple|simple]], [[d/_dehiscent|dehiscent]], [[d/_dry|dry]] [[f/_fruit|fruit]] ([[s/_seed|seed]]-[[c/_case|case]]) [[p/_produced|produced]] by [[m/_many|many]] species of [[f/_flowering|flowering]] [[p/_plants|plants]], such as [[p/_poppy|poppy]], [[l/_lily|lily]], [[o/_orchid|orchid]], willow and [[c/_cotton|cotton]].**
-- **A sporangium, [[e/_especially|especially]] in [[b/_bryophytes|bryophytes]].**
+- **A type of [[s/_simple|simple]], [[d/_dehiscent|dehiscent]], [[d/_dry|dry]] [[f/_fruit|fruit]] ([[s/_seed|seed]]-[[c/_case|case]]) [[p/_produced|produced]] by [[m/_many|many]] [[s/_species|species]] of [[f/_flowering|flowering]] [[p/_plants|plants]], such as [[p/_poppy|poppy]], [[l/_lily|lily]], [[o/_orchid|orchid]], willow and [[c/_cotton|cotton]].**
+- **A [[s/_sporangium|sporangium]], [[e/_especially|especially]] in [[b/_bryophytes|bryophytes]].**
 - **A tough, [[f/_fibrous|fibrous]] [[l/_layer|layer]] surrounding an [[o/_organ|organ]] such as the [[k/_kidney|kidney]] or [[l/_liver|liver]]**
 - **A [[m/_membrane|membrane]] that surrounds the [[e/_eyeball|eyeball]]**
 - **A [[d/_detachable|detachable]] [[p/_part|part]] of a [[r/_rocket|rocket]] or [[s/_spacecraft|spacecraft]] (usually in the [[n/_nose|nose]]) [[c/_containing|containing]] the [[c/_crew|crew]]'[[s/_s|s]] [[l/_living|living]] [[s/_space|space]].**

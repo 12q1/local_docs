@@ -9,7 +9,7 @@
 - **A tree or [[p/_plant|plant]] [[y/_yielding|yielding]] [[f/_fruit|fruit]].**
 	- _Example: a good bearer_
 - **[[s/_someone|Someone]] who [[d/_delivers|delivers]] a [[l/_letter|letter]] or [[m/_message|message]] on [[b/_behalf|behalf]] of [[a/_another|another]] ([[e/_especially|especially]] as [[r/_referred|referred]] to in the [[l/_letter|letter]] or [[m/_message|message]]).**
-- **A strip of [[r/_reglet|reglet]] or [[o/_other|other]] [[f/_furniture|furniture]] to [[b/_bear|bear]] [[o/_off|off]] the [[i/_impression|impression]] from a [[b/_blank|blank]] [[p/_page|page]].**
+- **A [[s/_strip|strip]] of [[r/_reglet|reglet]] or [[o/_other|other]] [[f/_furniture|furniture]] to [[b/_bear|bear]] [[o/_off|off]] the [[i/_impression|impression]] from a [[b/_blank|blank]] [[p/_page|page]].**
 - **A type or type-[[h/_high|high]] [[p/_piece|piece]] of [[m/_metal|metal]] [[i/_interspersed|interspersed]] in [[b/_blank|blank]] [[p/_parts|parts]] to support the [[p/_plate|plate]] when it is [[s/_shaved|shaved]].**
 ---
 ### Synonyms

@@ -11,7 +11,7 @@
 	- _Example: I asked him to sit._
 - **(of an [[o/_object|object]]) To [[o/_occupy|occupy]] a [[g/_given|given]] [[p/_position|position]] [[p/_permanently|permanently]].**
 	- _Example: The temple has sat atop that hill for centuries._
-- **To [[r/_remain|remain]] in a state of [[r/_repose|repose]]; to [[r/_rest|rest]]; to [[a/_abide|abide]]; to [[r/_rest|rest]] in [[a/_any|any]] [[p/_position|position]] or [[c/_condition|condition]].**
+- **To [[r/_remain|remain]] in a [[s/_state|state]] of [[r/_repose|repose]]; to [[r/_rest|rest]]; to [[a/_abide|abide]]; to [[r/_rest|rest]] in [[a/_any|any]] [[p/_position|position]] or [[c/_condition|condition]].**
 - **To be a [[m/_member|member]] of a [[d/_deliberative|deliberative]] [[b/_body|body]].**
 	- _Example: I currently sit on a standards committee._
 - **Of a [[l/_legislative|legislative]] or, [[e/_especially|especially]], a [[j/_judicial|judicial]] [[b/_body|body]] such as a [[c/_court|court]], to be in [[s/_session|session]].**

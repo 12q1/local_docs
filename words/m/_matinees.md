@@ -1,7 +1,7 @@
 # Matinees
 ---
 #noun
-- **A [[s/_showing|showing]] of a [[m/_movie|movie]], sporting [[e/_event|event]], or theatrical [[p/_performance|performance]] in the [[m/_morning|morning]] or [[a/_afternoon|afternoon]].**
+- **A [[s/_showing|showing]] of a [[m/_movie|movie]], [[s/_sporting|sporting]] [[e/_event|event]], or theatrical [[p/_performance|performance]] in the [[m/_morning|morning]] or [[a/_afternoon|afternoon]].**
 - **A woman'[[s/_s|s]] [[d/_dress|dress]] to be worn in the [[m/_morning|morning]] or [[b/_before|before]] [[d/_dinner|dinner]].**
 ---
 #verb

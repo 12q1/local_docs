@@ -9,7 +9,7 @@
 ### Synonyms
 - 
 #noun
-- **A [[r/_runner|runner]] or [[b/_blade|blade]], usually of steel, with a [[f/_frame|frame]] [[s/_shaped|shaped]] to [[f/_fit|fit]] the [[s/_sole|sole]] of a [[s/_shoe|shoe]], [[m/_made|made]] to be [[f/_fastened|fastened]] under the [[f/_foot|foot]], and used for [[g/_gliding|gliding]] on [[i/_ice|ice]].**
+- **A [[r/_runner|runner]] or [[b/_blade|blade]], usually of [[s/_steel|steel]], with a [[f/_frame|frame]] [[s/_shaped|shaped]] to [[f/_fit|fit]] the [[s/_sole|sole]] of a [[s/_shoe|shoe]], [[m/_made|made]] to be [[f/_fastened|fastened]] under the [[f/_foot|foot]], and used for [[g/_gliding|gliding]] on [[i/_ice|ice]].**
 - **The [[a/_act|act]] of [[s/_skateboarding|skateboarding]]**
 	- _Example: There's time for a quick skate before dinner._
 - **The [[a/_act|act]] of [[r/_roller|roller]] [[s/_skating|skating]] or [[i/_ice|ice]] [[s/_skating|skating]]**

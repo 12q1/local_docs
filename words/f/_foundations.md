@@ -3,8 +3,8 @@
 #noun
 - **The [[a/_act|act]] of [[f/_founding|founding]], [[f/_fixing|fixing]], [[e/_establishing|establishing]], or [[b/_beginning|beginning]] to [[e/_erect|erect]].**
 	- _Example: The foundation of his institute has been wrought with difficulty._
-- **That upon which [[a/_anything|anything]] is [[f/_founded|founded]]; that on which [[a/_anything|anything]] stands, and by which it is supported; the [[l/_lowest|lowest]] and supporting [[l/_layer|layer]] of a superstructure; underbuilding.**
-- **The [[r/_result|result]] of the work to [[b/_begin|begin]] [[s/_something|something]]; that which stabilizes and [[a/_allows|allows]] an [[e/_enterprise|enterprise]] or [[s/_system|system]] to [[d/_develop|develop]].**
+- **That upon which [[a/_anything|anything]] is [[f/_founded|founded]]; that on which [[a/_anything|anything]] [[s/_stands|stands]], and by which it is supported; the [[l/_lowest|lowest]] and supporting [[l/_layer|layer]] of a superstructure; underbuilding.**
+- **The [[r/_result|result]] of the work to [[b/_begin|begin]] [[s/_something|something]]; that which [[s/_stabilizes|stabilizes]] and [[a/_allows|allows]] an [[e/_enterprise|enterprise]] or [[s/_system|system]] to [[d/_develop|develop]].**
 - **In [[s/_solitaire|solitaire]] or [[p/_patience|patience]] [[g/_games|games]], [[o/_one|one]] of the [[p/_piles|piles]] of [[c/_cards|cards]] that the [[p/_player|player]] [[a/_attempts|attempts]] to [[b/_build|build]], usually [[h/_holding|holding]] [[a/_all|all]] [[c/_cards|cards]] of a suit in [[a/_ascending|ascending]] [[o/_order|order]].**
 - **The [[l/_lowest|lowest]] and supporting [[p/_part|part]] or [[m/_member|member]] of a wall, [[i/_including|including]] the [[b/_base|base]] [[c/_course|course]] and [[f/_footing|footing]] [[c/_courses|courses]]; in a [[f/_frame|frame]] [[h/_house|house]], the whole substructure of [[m/_masonry|masonry]].**
 	- _Example: The foundations of this construction have been laid out._

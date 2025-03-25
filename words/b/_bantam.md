@@ -6,6 +6,6 @@
 ---
 #adjective
 - **[[s/_small|Small]] or [[m/_miniature|miniature]].**
-- **Spirited or [[a/_aggressive|aggressive]].**
+- **[[s/_spirited|Spirited]] or [[a/_aggressive|aggressive]].**
 ---
 ---

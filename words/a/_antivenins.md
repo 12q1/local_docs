@@ -1,7 +1,7 @@
 # Antivenins
 ---
 #noun
-- **An [[a/_antitoxin|antitoxin]] for treating [[b/_bites|bites]] from venomous [[a/_animals|animals]] as such as [[s/_snakes|snakes]] and spiders.**
+- **An [[a/_antitoxin|antitoxin]] for treating [[b/_bites|bites]] from venomous [[a/_animals|animals]] as such as [[s/_snakes|snakes]] and [[s/_spiders|spiders]].**
 - **A [[s/_serum|serum]] [[c/_containing|containing]] [[a/_antivenins|antivenins]].**
 ---
 ### Synonyms

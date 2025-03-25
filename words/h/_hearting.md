@@ -10,7 +10,7 @@
 ### Synonyms
 - [[l/_love|love]]
 #noun
-- **[[m/_material|Material]] used as [[f/_fill|fill]] [[b/_between|between]] walls of [[g/_greater|greater]] structural [[i/_integrity|integrity]], [[e/_especially|especially]] in [[m/_masonry|masonry]].**
+- **[[m/_material|Material]] used as [[f/_fill|fill]] [[b/_between|between]] walls of [[g/_greater|greater]] [[s/_structural|structural]] [[i/_integrity|integrity]], [[e/_especially|especially]] in [[m/_masonry|masonry]].**
 	- _Example: The masons used rubble from their trimming of the face rocks as some of the hearting for the wall._
 ---
 ---

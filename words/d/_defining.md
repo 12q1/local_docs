@@ -6,7 +6,7 @@
 - **To [[s/_settle|settle]], [[d/_decide|decide]] (an [[a/_argument|argument]] [[e/_etc|etc]].)**
 - **To [[e/_express|express]] the [[e/_essential|essential]] [[n/_nature|nature]] of [[s/_something|something]].**
 	- _Example: I define myself as a techno-anarchist._
-- **To state the [[m/_meaning|meaning]] of a word, [[p/_phrase|phrase]], [[s/_sign|sign]], or [[s/_symbol|symbol]].**
+- **To [[s/_state|state]] the [[m/_meaning|meaning]] of a word, [[p/_phrase|phrase]], [[s/_sign|sign]], or [[s/_symbol|symbol]].**
 	- _Example: The textbook defined speed as velocity divided by time._
 - **To [[d/_describe|describe]], [[e/_explain|explain]], or [[m/_make|make]] [[d/_definite|definite]] and [[c/_clear|clear]]; used to [[r/_request|request]] the [[l/_listener|listener]] or [[o/_other|other]] [[p/_person|person]] to [[e/_elaborate|elaborate]] or [[e/_explain|explain]] [[m/_more|more]] [[c/_clearly|clearly]] [[h/_his|his]] or [[h/_her|her]] [[i/_intended|intended]] [[m/_meaning|meaning]] of a word or [[e/_expression|expression]].**
 	- _Example: Person 1: Is she good at math?_

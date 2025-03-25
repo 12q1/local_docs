@@ -13,10 +13,10 @@
 	- _Example: Nitro is an electron-withdrawing group._
 - **A subset of a [[c/_culture|culture]] or of a [[s/_society|society]].**
 - **An [[a/_air|air]] [[f/_force|force]] [[f/_formation|formation]].**
-- **A [[c/_collection|collection]] of [[f/_formations|formations]] or [[r/_rock|rock]] strata.**
+- **A [[c/_collection|collection]] of [[f/_formations|formations]] or [[r/_rock|rock]] [[s/_strata|strata]].**
 - **A [[n/_number|number]] of users with [[s/_same|same]] [[r/_rights|rights]] with [[r/_respect|respect]] to [[a/_accession|accession]], [[m/_modification|modification]], and [[e/_execution|execution]] of [[f/_files|files]], [[c/_computers|computers]] and [[p/_peripherals|peripherals]].**
 - **An [[e/_element|element]] of an [[e/_espresso|espresso]] [[m/_machine|machine]] from which [[h/_hot|hot]] water [[p/_pours|pours]] [[i/_into|into]] the portafilter.**
-- **A [[n/_number|number]] of [[e/_eighth|eighth]], [[s/_sixteenth|sixteenth]], [[e/_etc|etc]]., [[n/_notes|notes]] [[j/_joined|joined]] at the stems; [[s/_sometimes|sometimes]] [[r/_rather|rather]] [[i/_indefinitely|indefinitely]] [[a/_applied|applied]] to [[a/_any|any]] [[o/_ornament|ornament]] [[m/_made|made]] up of a [[f/_few|few]] [[s/_short|short]] [[n/_notes|notes]].**
+- **A [[n/_number|number]] of [[e/_eighth|eighth]], [[s/_sixteenth|sixteenth]], [[e/_etc|etc]]., [[n/_notes|notes]] [[j/_joined|joined]] at the [[s/_stems|stems]]; [[s/_sometimes|sometimes]] [[r/_rather|rather]] [[i/_indefinitely|indefinitely]] [[a/_applied|applied]] to [[a/_any|any]] [[o/_ornament|ornament]] [[m/_made|made]] up of a [[f/_few|few]] [[s/_short|short]] [[n/_notes|notes]].**
 - **A [[s/_set|set]] of teams [[p/_playing|playing]] [[e/_each|each]] [[o/_other|other]] in the [[s/_same|same]] [[d/_division|division]], while not [[d/_during|during]] the [[s/_same|same]] [[p/_period|period]] [[p/_playing|playing]] [[a/_any|any]] teams that [[b/_belong|belong]] to [[o/_other|other]] [[s/_sets|sets]] in the [[d/_division|division]].**
 - **A [[c/_commercial|commercial]] [[o/_organization|organization]].**
 ---

@@ -5,7 +5,7 @@
 - **A [[c/_computer|computer]] [[d/_dedicated|dedicated]] to [[r/_running|running]] such [[p/_programs|programs]].**
 - **[[o/_one|One]] who [[s/_serves|serves]].**
 - **A tray for [[d/_dishes|dishes]].**
-- **A spoon for [[s/_serving|serving]] [[f/_food|food]].**
+- **A [[s/_spoon|spoon]] for [[s/_serving|serving]] [[f/_food|food]].**
 ---
 ### Synonyms
 - [[s/_salver|salver]]

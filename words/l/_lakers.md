@@ -1,7 +1,7 @@
 # Lakers
 ---
 #noun
-- **[[o/_one|One]] [[e/_engaged|engaged]] in sport; a [[p/_player|player]]; an [[a/_actor|actor]].**
+- **[[o/_one|One]] [[e/_engaged|engaged]] in [[s/_sport|sport]]; a [[p/_player|player]]; an [[a/_actor|actor]].**
 ---
 #noun
 - **A wharfman who [[r/_resides|resides]] [[n/_near|near]] a [[l/_lake|lake]].**

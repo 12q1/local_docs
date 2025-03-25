@@ -16,7 +16,7 @@
 - **[[d/_damn|Damn]], [[d/_drat|drat]], [[b/_blast|blast]]; used in [[o/_oaths|oaths]].**
 ---
 #noun
-- **The [[b/_blood|blood]] sport of [[s/_setting|setting]] a [[d/_dog|dog]] upon [[r/_rats|rats]] [[c/_confined|confined]] in a [[p/_pit|pit]] to [[s/_see|see]] [[h/_how|how]] [[m/_many|many]] [[h/_he|he]] will [[k/_kill|kill]] in a [[g/_given|given]] time.**
+- **The [[b/_blood|blood]] [[s/_sport|sport]] of [[s/_setting|setting]] a [[d/_dog|dog]] upon [[r/_rats|rats]] [[c/_confined|confined]] in a [[p/_pit|pit]] to [[s/_see|see]] [[h/_how|how]] [[m/_many|many]] [[h/_he|he]] will [[k/_kill|kill]] in a [[g/_given|given]] time.**
 - **A vocation [[i/_involving|involving]] the [[p/_pest|pest]] [[c/_control|control]] of [[r/_rats|rats]], typically using a working terrier.**
 - **[[d/_desertion|Desertion]] of [[o/_one|one]]'[[s/_s|s]] [[p/_principles|principles]].**
 - **Working as a [[s/_scab|scab]], [[a/_against|against]] trade union [[p/_policies|policies]].**

@@ -13,7 +13,7 @@
 - **To withdraw from [[b/_betting|betting]].**
 	- _Example: With no hearts in the river and no chance to hit his straight, he folded._
 - **(by [[e/_extension|extension]]) To withdraw or [[q/_quit|quit]] in [[g/_general|general]].**
-- **To stir [[g/_gently|gently]], with a [[f/_folding|folding]] [[a/_action|action]].**
+- **To [[s/_stir|stir]] [[g/_gently|gently]], with a [[f/_folding|folding]] [[a/_action|action]].**
 	- _Example: Fold the egg whites into the batter._
 - **Of a [[c/_company|company]], to [[c/_cease|cease]] to trade.**
 	- _Example: The company folded after six quarters of negative growth._

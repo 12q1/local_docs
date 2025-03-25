@@ -1,15 +1,15 @@
 # Lane
 ---
 #noun
-- **(used in street [[n/_names|names]]) A [[r/_road|road]], street, or [[s/_similar|similar]] thoroughfare.**
+- **(used in [[s/_street|street]] [[n/_names|names]]) A [[r/_road|road]], [[s/_street|street]], or [[s/_similar|similar]] thoroughfare.**
 - **A [[n/_narrow|narrow]] [[p/_passageway|passageway]] [[b/_between|between]] [[f/_fences|fences]], walls, [[h/_hedges|hedges]] or trees.**
 - **A [[n/_narrow|narrow]] [[r/_road|road]], as in the [[c/_country|country]].**
 - **A [[l/_lengthwise|lengthwise]] [[d/_division|division]] of [[r/_roadway|roadway]] [[i/_intended|intended]] for a [[s/_single|single]] [[l/_line|line]] of vehicles.**
 - **A [[s/_similar|similar]] [[d/_division|division]] of a [[r/_racetrack|racetrack]] to [[k/_keep|keep]] [[r/_runners|runners]] [[a/_apart|apart]].**
 - **A [[c/_course|course]] [[d/_designated|designated]] for [[s/_ships|ships]] or [[a/_aircrafts|aircrafts]].**
-- **An [[e/_elongated|elongated]] wooden strip of [[f/_floor|floor]] [[a/_along|along]] which a [[b/_bowling|bowling]] [[b/_ball|ball]] is [[r/_rolled|rolled]].**
+- **An [[e/_elongated|elongated]] wooden [[s/_strip|strip]] of [[f/_floor|floor]] [[a/_along|along]] which a [[b/_bowling|bowling]] [[b/_ball|ball]] is [[r/_rolled|rolled]].**
 - **An [[e/_empty|empty]] [[s/_space|space]] in the tableau, [[f/_formed|formed]] by the [[r/_removal|removal]] of an [[e/_entire|entire]] [[r/_row|row]] of [[c/_cards|cards]].**
-- **[[a/_any|Any]] of the [[p/_parallel|parallel]] [[s/_slots|slots]] in which values [[c/_can|can]] be stored in a SIMD [[a/_architecture|architecture]].**
+- **[[a/_any|Any]] of the [[p/_parallel|parallel]] [[s/_slots|slots]] in which values [[c/_can|can]] be [[s/_stored|stored]] in a SIMD [[a/_architecture|architecture]].**
 - **In MOBA (multiplayer [[o/_online|online]] [[b/_battle|battle]] [[a/_arena|arena]]) [[g/_games|games]], a [[p/_particular|particular]] [[p/_path|path]] on the [[m/_map|map]] that [[m/_may|may]] be traversed by [[e/_enemy|enemy]] [[c/_characters|characters]].**
 - **The [[h/_homestretch|homestretch]].**
 	- _Example: And it's Uncle Mo in front by two as they come to the top of the lane._

@@ -46,7 +46,7 @@
 - **A [[k/_kind|kind]] of [[c/_cake|cake]] [[m/_made|made]] with [[g/_ginger|ginger]], treacle, [[e/_etc|etc]].**
 ---
 #noun
-- **An [[e/_effigy|effigy]], typically [[m/_made|made]] of straw and [[d/_dressed|dressed]] in [[o/_old|old]] [[c/_clothes|clothes]], [[f/_fixed|fixed]] to a [[p/_pole|pole]] in a [[f/_field|field]] to [[d/_deter|deter]] [[b/_birds|birds]] from [[e/_eating|eating]] [[s/_seeds|seeds]] or [[c/_crops|crops]] [[p/_planted|planted]] there.**
+- **An [[e/_effigy|effigy]], typically [[m/_made|made]] of [[s/_straw|straw]] and [[d/_dressed|dressed]] in [[o/_old|old]] [[c/_clothes|clothes]], [[f/_fixed|fixed]] to a [[p/_pole|pole]] in a [[f/_field|field]] to [[d/_deter|deter]] [[b/_birds|birds]] from [[e/_eating|eating]] [[s/_seeds|seeds]] or [[c/_crops|crops]] [[p/_planted|planted]] there.**
 - **A tall, thin, [[a/_awkward|awkward]] [[p/_person|person]].**
 - **[[a/_anything|Anything]] that [[a/_appears|appears]] terrifying but [[p/_presents|presents]] [[n/_no|no]] [[d/_danger|danger]].**
 - **A [[p/_person|person]] [[c/_clad|clad]] in [[r/_rags|rags]] and tatters.**

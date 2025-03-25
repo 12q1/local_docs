@@ -12,6 +12,6 @@
 - **To [[b/_bother|bother]]; to [[p/_pester|pester]]; to [[a/_annoy|annoy]] [[i/_incessantly|incessantly]]**
 ---
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[k/_kind|kind]] of [[h/_hock|hock]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specified|specified]] [[k/_kind|kind]] of [[h/_hock|hock]].**
 ---
 ---

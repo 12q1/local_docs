@@ -1,7 +1,7 @@
 # Equate
 ---
 #noun
-- **A statement in [[a/_assembly|assembly]] [[l/_language|language]] that [[d/_defines|defines]] a [[s/_symbol|symbol]] [[h/_having|having]] a [[p/_particular|particular]] value.**
+- **A [[s/_statement|statement]] in [[a/_assembly|assembly]] [[l/_language|language]] that [[d/_defines|defines]] a [[s/_symbol|symbol]] [[h/_having|having]] a [[p/_particular|particular]] value.**
 ---
 #verb
 - **To [[c/_consider|consider]] [[e/_equal|equal]] or [[e/_equivalent|equivalent]].**

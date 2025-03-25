@@ -1,8 +1,8 @@
 # Rifting
 ---
 #verb
-- **To [[f/_form|form]] a [[r/_rift|rift]]; to split [[o/_open|open]].**
-- **To [[c/_cleave|cleave]]; to [[r/_rive|rive]]; to split.**
+- **To [[f/_form|form]] a [[r/_rift|rift]]; to [[s/_split|split]] [[o/_open|open]].**
+- **To [[c/_cleave|cleave]]; to [[r/_rive|rive]]; to [[s/_split|split]].**
 	- _Example: to rift an oak_
 ---
 #verb

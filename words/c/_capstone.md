@@ -1,7 +1,7 @@
 # Capstone
 ---
 #noun
-- **[[a/_any|Any]] of the stones [[m/_making|making]] up the top [[l/_layer|layer]] of a wall; a [[c/_coping|coping]] stone.**
+- **[[a/_any|Any]] of the [[s/_stones|stones]] [[m/_making|making]] up the top [[l/_layer|layer]] of a wall; a [[c/_coping|coping]] [[s/_stone|stone]].**
 - **A [[c/_crowning|crowning]] [[a/_achievement|achievement]], [[c/_culmination|culmination]] or [[f/_finishing|finishing]] touch.**
 ---
 ### Synonyms

@@ -1,14 +1,14 @@
 # Polarity
 ---
 #noun
-- **The state of [[b/_being|being]] a [[n/_north|north]] [[p/_pole|pole]] or [[s/_south|south]] [[p/_pole|pole]]; the [[m/_magnetic|magnetic]] [[e/_equivalent|equivalent]] of [[e/_electric|electric]] [[c/_charge|charge]]**
+- **The [[s/_state|state]] of [[b/_being|being]] a [[n/_north|north]] [[p/_pole|pole]] or [[s/_south|south]] [[p/_pole|pole]]; the [[m/_magnetic|magnetic]] [[e/_equivalent|equivalent]] of [[e/_electric|electric]] [[c/_charge|charge]]**
 ---
 #noun
 - **The [[s/_separation|separation]], [[a/_alignment|alignment]] or [[o/_orientation|orientation]] of [[s/_something|something]] [[i/_into|into]] two [[o/_opposed|opposed]] [[p/_poles|poles]].**
 - **[[e/_either|Either]] of the two [[e/_extremes|extremes]] of such [[a/_attributes|attributes]].**
 - **The [[d/_dipole|dipole]]-[[d/_dipole|dipole]] [[i/_intermolecular|intermolecular]] [[f/_forces|forces]] [[b/_between|between]] the [[s/_slightly|slightly]] [[p/_positively|positively]]-[[c/_charged|charged]] [[e/_end|end]] of [[o/_one|one]] [[m/_molecule|molecule]] to the [[n/_negative|negative]] [[e/_end|end]] of [[a/_another|another]] or the [[s/_same|same]] [[m/_molecule|molecule]]. Wp**
 - **The [[d/_division|division]] of an [[e/_embryo|embryo]] [[i/_into|into]] an [[a/_animal|animal]] [[p/_pole|pole]] and a vegetal [[p/_pole|pole]] within a [[b/_blastula|blastula]]. Wp**
-- **[[s/_spatial|Spatial]] [[d/_differences|differences]] in [[s/_shape|shape]], structure, and [[f/_function|function]] within a [[c/_cell|cell]]. Wp**
+- **[[s/_spatial|Spatial]] [[d/_differences|differences]] in [[s/_shape|shape]], [[s/_structure|structure]], and [[f/_function|function]] within a [[c/_cell|cell]]. Wp**
 - **A [[m/_measure|measure]] of the [[e/_electrical|electrical]] [[p/_potential|potential]] at the [[e/_ends|ends]] of a [[c/_circuit|circuit]]. Wp**
 - **The [[d/_direction|direction]] of a wave'[[s/_s|s]] [[a/_amplitude|amplitude]] or [[i/_its|its]] [[b/_being|being]] in [[p/_phase|phase]] or [[a/_antiphase|antiphase]].**
 - **([[g/_grammar|grammar]]) The [[g/_grammatical|grammatical]] [[c/_category|category]] of the [[a/_affirmative|affirmative]] and the [[n/_negative|negative]]. Wp**

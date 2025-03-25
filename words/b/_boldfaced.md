@@ -9,7 +9,7 @@
 #adjective
 - **[[i/_impudent|Impudent]], [[b/_brazen|brazen]].**
 	- _Example: He had the bold-faced effrontery to ask for a raise._
-- **Of text [[e/_emphasized|emphasized]] by [[b/_being|being]] [[s/_set|set]] in a [[f/_font|font]] [[h/_having|having]] thicker strokes, [[y/_yielding|yielding]] a [[h/_heavier|heavier]] or [[d/_darker|darker]] [[a/_appearance|appearance]].**
+- **Of text [[e/_emphasized|emphasized]] by [[b/_being|being]] [[s/_set|set]] in a [[f/_font|font]] [[h/_having|having]] thicker [[s/_strokes|strokes]], [[y/_yielding|yielding]] a [[h/_heavier|heavier]] or [[d/_darker|darker]] [[a/_appearance|appearance]].**
 ---
 ### Synonyms
 - [[h/_heavy|heavy]], [[b/_bold|bold]], [[b/_boldface|boldface]]

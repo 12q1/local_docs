@@ -4,7 +4,7 @@
 - **[[g/_girl|Girl]].**
 ---
 #adjective
-- **[[c/_characteristic|Characteristic]] of a stereotypical [[g/_girl|girl]], very [[e/_effeminate|effeminate]], sweet; unmasculine.**
+- **[[c/_characteristic|Characteristic]] of a [[s/_stereotypical|stereotypical]] [[g/_girl|girl]], very [[e/_effeminate|effeminate]], sweet; unmasculine.**
 ---
 ### Synonyms
 - [[e/_effeminate|effeminate]], [[u/_unmanly|unmanly]], [[f/_feminine|feminine]], [[g/_girlish|girlish]], [[w/_womanly|womanly]]

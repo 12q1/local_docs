@@ -28,7 +28,7 @@
 - **To [[a/_address|address]] or [[s/_speak|speak]] to in a whisper, utter in a whisper.**
 ---
 #adjective
-- **[[m/_made|Made]] [[i/_into|into]] a [[c/_circle|circle]] or sphere.**
+- **[[m/_made|Made]] [[i/_into|into]] a [[c/_circle|circle]] or [[s/_sphere|sphere]].**
 - **[[c/_complete|Complete]] or [[b/_balanced|balanced]].**
 - **[[d/_describing|Describing]] a [[n/_number|number]] that [[h/_has|has]] [[b/_been|been]] [[c/_changed|changed]] to [[i/_its|its]] [[n/_nearest|nearest]] [[d/_desired|desired]] value.**
 - **[[e/_ending|Ending]] in a [[b/_broad|broad]] [[a/_arch|arch]].**

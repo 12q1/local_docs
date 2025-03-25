@@ -6,7 +6,7 @@
 #adjective
 - **[[s/_slender|Slender]] or thin; not well [[f/_filled|filled]] [[o/_out|out]]; not [[p/_plump|plump]]; [[s/_shrunken|shrunken]]; [[l/_lean|lean]].**
 - **[[m/_meagre|Meagre]], [[p/_paltry|paltry]], [[s/_scant|scant]] in [[q/_quantity|quantity]].**
-- **(of [[h/_hair|hair]]) Straight and [[f/_flat|flat]]; thin and [[l/_limp|limp]]. ([[o/_often|Often]] [[a/_associated|associated]] with [[b/_being|being]] [[g/_greasy|greasy]].)**
+- **(of [[h/_hair|hair]]) [[s/_straight|Straight]] and [[f/_flat|flat]]; thin and [[l/_limp|limp]]. ([[o/_often|Often]] [[a/_associated|associated]] with [[b/_being|being]] [[g/_greasy|greasy]].)**
 - **[[l/_languid|Languid]]; [[d/_drooping|drooping]], [[s/_slack|slack]].**
 ---
 ### Synonyms

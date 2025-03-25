@@ -7,18 +7,18 @@
 - **A [[h/_human|human]], a [[p/_person|person]] of [[e/_either|either]] [[g/_gender|gender]], usually an [[a/_adult|adult]]. ([[s/_see|See]] usage [[n/_notes|notes]].)**
 	- _Example: every man for himself_
 - **([[c/_collective|collective]]) [[a/_all|All]] [[h/_humans|humans]] [[c/_collectively|collectively]]: [[m/_mankind|mankind]], [[h/_humankind|humankind]], [[h/_humanity|humanity]]. ([[s/_sometimes|Sometimes]] [[c/_capitalized|capitalized]] as [[m/_man|Man]].)**
-- **A [[m/_member|member]] of the [[g/_genus|genus]] [[h/_homo|Homo]], [[e/_especially|especially]] of the species [[h/_homo|Homo]] [[s/_sapiens|sapiens]].**
+- **A [[m/_member|member]] of the [[g/_genus|genus]] [[h/_homo|Homo]], [[e/_especially|especially]] of the [[s/_species|species]] [[h/_homo|Homo]] [[s/_sapiens|sapiens]].**
 - **An [[m/_male|male]] [[p/_person|person]], usually an [[a/_adult|adult]]; a ([[g/_generally|generally]] [[a/_adult|adult]] [[m/_male|male]]) [[s/_sentient|sentient]] [[b/_being|being]], whether [[h/_human|human]], supernatural, [[e/_elf|elf]], [[a/_alien|alien]], [[e/_etc|etc]].**
-- **An [[a/_adult|adult]] [[m/_male|male]] who [[h/_has|has]], to an [[e/_eminent|eminent]] [[d/_degree|degree]], [[q/_qualities|qualities]] [[c/_considered|considered]] [[m/_masculine|masculine]], such as strength, [[i/_integrity|integrity]], and [[d/_devotion|devotion]] to [[f/_family|family]]; a [[m/_mensch|mensch]].**
-- **[[m/_manliness|Manliness]]; the [[q/_quality|quality]] or state of [[b/_being|being]] [[m/_manly|manly]].**
+- **An [[a/_adult|adult]] [[m/_male|male]] who [[h/_has|has]], to an [[e/_eminent|eminent]] [[d/_degree|degree]], [[q/_qualities|qualities]] [[c/_considered|considered]] [[m/_masculine|masculine]], such as [[s/_strength|strength]], [[i/_integrity|integrity]], and [[d/_devotion|devotion]] to [[f/_family|family]]; a [[m/_mensch|mensch]].**
+- **[[m/_manliness|Manliness]]; the [[q/_quality|quality]] or [[s/_state|state]] of [[b/_being|being]] [[m/_manly|manly]].**
 - **A [[h/_husband|husband]].**
 - **A [[l/_lover|lover]]; a [[b/_boyfriend|boyfriend]].**
-- **A [[m/_male|male]] [[e/_enthusiast|enthusiast]] or [[d/_devotee|devotee]]; a [[m/_male|male]] who is very [[f/_fond|fond]] of or [[d/_devoted|devoted]] to a specified [[k/_kind|kind]] of thing. (Used as the [[l/_last|last]] [[e/_element|element]] of a [[c/_compound|compound]].)**
+- **A [[m/_male|male]] [[e/_enthusiast|enthusiast]] or [[d/_devotee|devotee]]; a [[m/_male|male]] who is very [[f/_fond|fond]] of or [[d/_devoted|devoted]] to a [[s/_specified|specified]] [[k/_kind|kind]] of thing. (Used as the [[l/_last|last]] [[e/_element|element]] of a [[c/_compound|compound]].)**
 	- _Example: Some people prefer apple pie, but me, I’m a cherry pie man._
-- **A [[p/_person|person]], usually [[m/_male|male]], who [[h/_has|has]] [[d/_duties|duties]] or [[s/_skills|skills]] [[a/_associated|associated]] with a specified thing. (Used as the [[l/_last|last]] [[e/_element|element]] of a [[c/_compound|compound]].)**
+- **A [[p/_person|person]], usually [[m/_male|male]], who [[h/_has|has]] [[d/_duties|duties]] or [[s/_skills|skills]] [[a/_associated|associated]] with a [[s/_specified|specified]] thing. (Used as the [[l/_last|last]] [[e/_element|element]] of a [[c/_compound|compound]].)**
 	- _Example: I wanted to be a guitar man on a road tour, but instead I’m a flag man on a road crew._
-- **A [[p/_person|person]], usually [[m/_male|male]], who [[c/_can|can]] [[f/_fulfill|fulfill]] [[o/_one|one]]'[[s/_s|s]] [[r/_requirements|requirements]] with [[r/_regard|regard]] to a specified [[m/_matter|matter]].**
-- **A [[m/_male|male]] who [[b/_belongs|belongs]] to a [[p/_particular|particular]] [[g/_group|group]]: an [[e/_employee|employee]], a student or [[a/_alumnus|alumnus]], a [[r/_representative|representative]], [[e/_etc|etc]].**
+- **A [[p/_person|person]], usually [[m/_male|male]], who [[c/_can|can]] [[f/_fulfill|fulfill]] [[o/_one|one]]'[[s/_s|s]] [[r/_requirements|requirements]] with [[r/_regard|regard]] to a [[s/_specified|specified]] [[m/_matter|matter]].**
+- **A [[m/_male|male]] who [[b/_belongs|belongs]] to a [[p/_particular|particular]] [[g/_group|group]]: an [[e/_employee|employee]], a [[s/_student|student]] or [[a/_alumnus|alumnus]], a [[r/_representative|representative]], [[e/_etc|etc]].**
 - **An [[a/_adult|adult]] [[m/_male|male]] [[s/_servant|servant]].**
 - **A vassal; a subject.**
 	- _Example: Like master, like man._
@@ -33,11 +33,11 @@
 ### Synonyms
 - [[m/_male|male]], [[o/_omi|omi]], [[h/_human|human]], [[p/_person|person]]
 #verb
-- **To supply ([[s/_something|something]]) with staff or [[c/_crew|crew]] (of [[e/_either|either]] [[s/_sex|sex]]).**
+- **To supply ([[s/_something|something]]) with [[s/_staff|staff]] or [[c/_crew|crew]] (of [[e/_either|either]] [[s/_sex|sex]]).**
 	- _Example: The ship was manned with a small crew._
 - **To take up [[p/_position|position]] in [[o/_order|order]] to [[o/_operate|operate]] ([[s/_something|something]]).**
 	- _Example: Man the machine guns!_
-- **([[p/_possibly|possibly]] [[o/_obsolete|obsolete]]) To [[b/_brace|brace]] ([[o/_oneself|oneself]]), to [[f/_fortify|fortify]] or steel ([[o/_oneself|oneself]]) in a [[m/_manly|manly]] way. ([[c/_compare|Compare]] [[m/_man|man]] up.)**
+- **([[p/_possibly|possibly]] [[o/_obsolete|obsolete]]) To [[b/_brace|brace]] ([[o/_oneself|oneself]]), to [[f/_fortify|fortify]] or [[s/_steel|steel]] ([[o/_oneself|oneself]]) in a [[m/_manly|manly]] way. ([[c/_compare|Compare]] [[m/_man|man]] up.)**
 - **To wait on, [[a/_attend|attend]] to or [[e/_escort|escort]].**
 - **To [[a/_accustom|accustom]] (a [[r/_raptor|raptor]] or [[o/_other|other]] type of [[b/_bird|bird]]) to the [[p/_presence|presence]] of [[p/_people|people]].**
 ---

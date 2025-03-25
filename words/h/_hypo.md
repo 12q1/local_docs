@@ -9,7 +9,7 @@
 - **The substance [[s/_sodium|sodium]] [[h/_hyposulfite|hyposulfite]].**
 - **A [[h/_hypodermic|hypodermic]] [[s/_syringe|syringe]].**
 - **[[h/_hypothecation|Hypothecation]].**
-- **(in the study of [[l/_law|law]]) A [[h/_hypothetical|hypothetical]] [[c/_case|case]].**
+- **(in the [[s/_study|study]] of [[l/_law|law]]) A [[h/_hypothetical|hypothetical]] [[c/_case|case]].**
 - **A hypomelanistic [[s/_snake|snake]].**
 ---
 ---

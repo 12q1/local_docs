@@ -1,7 +1,7 @@
 # Jism
 ---
 #noun
-- **Spirit or [[e/_energy|energy]].**
+- **[[s/_spirit|Spirit]] or [[e/_energy|energy]].**
 - **[[s/_semen|Semen]].**
 ---
 ---

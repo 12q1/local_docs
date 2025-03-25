@@ -11,6 +11,6 @@
 - **To [[s/_scratch|scratch]], tear, or [[b/_break|break]] [[s/_slightly|slightly]]; [[g/_graze|graze]]**
 ---
 #verb
-- **To [[r/_remove|remove]] the [[s/_seeds|seeds]] from (the stalks of [[f/_flax|flax]], [[e/_etc|etc]].), by [[m/_means|means]] of a [[r/_ripple|ripple]].**
+- **To [[r/_remove|remove]] the [[s/_seeds|seeds]] from (the [[s/_stalks|stalks]] of [[f/_flax|flax]], [[e/_etc|etc]].), by [[m/_means|means]] of a [[r/_ripple|ripple]].**
 ---
 ---

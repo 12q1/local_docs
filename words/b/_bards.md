@@ -10,6 +10,6 @@
 - **[[d/_defensive|Defensive]] [[a/_armor|armor]] [[f/_formerly|formerly]] worn by a [[m/_man|man]] at [[a/_arms|arms]].**
 - **A thin [[s/_slice|slice]] of [[f/_fat|fat]] [[b/_bacon|bacon]] used to [[c/_cover|cover]] [[a/_any|any]] [[m/_meat|meat]] or [[g/_game|game]].**
 - **The [[e/_exterior|exterior]] [[c/_covering|covering]] of the trunk and [[b/_branches|branches]] of a tree; the [[r/_rind|rind]].**
-- **Specifically, [[p/_peruvian|Peruvian]] [[b/_bark|bark]].**
+- **[[s/_specifically|Specifically]], [[p/_peruvian|Peruvian]] [[b/_bark|bark]].**
 ---
 ---

@@ -9,9 +9,9 @@
 	- _Example: We snagged for spoonbill from the eastern shore of the Mississippi River._
 - **To [[o/_obtain|obtain]] or [[p/_pick|pick]] up ([[s/_something|something]]).**
 	- _Example: Ella snagged a bottle of water from the fridge before leaving for her jog._
-- **To stealthily steal with [[l/_legerdemain|legerdemain]] [[p/_prowess|prowess]] ([[s/_something|something]]).**
+- **To [[s/_stealthily|stealthily]] [[s/_steal|steal]] with [[l/_legerdemain|legerdemain]] [[p/_prowess|prowess]] ([[s/_something|something]]).**
 	- _Example: The smiling little girl snagged her phone while performing a dance; but now was far-off among the crowd._
-- **To [[c/_cut|cut]] the [[s/_snags|snags]] or [[b/_branches|branches]] from, as the stem of a tree; to [[h/_hew|hew]] [[r/_roughly|roughly]].**
+- **To [[c/_cut|cut]] the [[s/_snags|snags]] or [[b/_branches|branches]] from, as the [[s/_stem|stem]] of a tree; to [[h/_hew|hew]] [[r/_roughly|roughly]].**
 ---
 #adjective
 - **[[f/_full|Full]] of [[s/_snags|snags]]; [[s/_snaggy|snaggy]].**

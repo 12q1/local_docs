@@ -17,6 +17,6 @@
 - **The [[b/_bill|bill]] of an [[a/_anchor|anchor]].**
 ---
 #noun
-- **The [[s/_sliding|sliding]] weight on a steelyard.**
+- **The [[s/_sliding|sliding]] weight on a [[s/_steelyard|steelyard]].**
 ---
 ---

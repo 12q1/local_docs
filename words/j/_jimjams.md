@@ -7,7 +7,7 @@
 ---
 #verb
 - **To [[c/_cram|cram]] together in a [[j/_jumbled|jumbled]] [[f/_fashion|fashion]].**
-- **To [[b/_befuddle|befuddle]] or stupefy.**
+- **To [[b/_befuddle|befuddle]] or [[s/_stupefy|stupefy]].**
 - **To [[d/_dance|dance]] [[e/_ecstatically|ecstatically]].**
 - **To [[c/_copulate|copulate]].**
 ---

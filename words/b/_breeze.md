@@ -5,9 +5,9 @@
 	- _Example: The breeze rustled the papers on her desk._
 - **[[a/_any|Any]] [[a/_activity|activity]] that is [[e/_easy|easy]], not testing or [[d/_difficult|difficult]].**
 	- _Example: After studying Latin, Spanish was a breeze._
-- **Wind [[b/_blowing|blowing]] [[a/_across|across]] a [[c/_cricket|cricket]] [[m/_match|match]], whatever [[i/_its|its]] strength.**
+- **Wind [[b/_blowing|blowing]] [[a/_across|across]] a [[c/_cricket|cricket]] [[m/_match|match]], whatever [[i/_its|its]] [[s/_strength|strength]].**
 - **[[a/_ashes|Ashes]] and [[r/_residue|residue]] of [[c/_coal|coal]] or [[c/_charcoal|charcoal]], usually from a [[f/_furnace|furnace]]. [[s/_see|See]] Wikipedia [[a/_article|article]] on [[c/_clinker|Clinker]].**
-- **An [[e/_excited|excited]] or [[r/_ruffled|ruffled]] state of [[f/_feeling|feeling]]; a [[f/_flurry|flurry]] of [[e/_excitement|excitement]]; a [[d/_disturbance|disturbance]]; a [[q/_quarrel|quarrel]].**
+- **An [[e/_excited|excited]] or [[r/_ruffled|ruffled]] [[s/_state|state]] of [[f/_feeling|feeling]]; a [[f/_flurry|flurry]] of [[e/_excitement|excitement]]; a [[d/_disturbance|disturbance]]; a [[q/_quarrel|quarrel]].**
 	- _Example: The discovery produced a breeze._
 - **A [[b/_brief|brief]] workout for a [[r/_racehorse|racehorse]].**
 ---

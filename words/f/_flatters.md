@@ -10,7 +10,7 @@
 #noun
 - **A type of [[s/_set|set]] tool used by [[b/_blacksmiths|blacksmiths]].**
 - **A [[f/_flat|flat]]-[[f/_faced|faced]] [[f/_fulling|fulling]] [[h/_hammer|hammer]].**
-- **A [[d/_drawplate|drawplate]] with a [[n/_narrow|narrow]], [[r/_rectangular|rectangular]] [[o/_orifice|orifice]], for [[d/_drawing|drawing]] [[f/_flat|flat]] strips such as watch springs.**
+- **A [[d/_drawplate|drawplate]] with a [[n/_narrow|narrow]], [[r/_rectangular|rectangular]] [[o/_orifice|orifice]], for [[d/_drawing|drawing]] [[f/_flat|flat]] [[s/_strips|strips]] such as watch [[s/_springs|springs]].**
 - **[[s/_someone|Someone]] who [[f/_flattens|flattens]], [[p/_purposely|purposely]] or [[a/_accidently|accidently]]. [[a/_also|Also]] [[f/_flattener|flattener]].**
 ---
 #noun

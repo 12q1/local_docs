@@ -1,7 +1,7 @@
 # Penitentiaries
 ---
 #noun
-- **A state or [[f/_federal|federal]] [[p/_prison|prison]] for [[c/_convicted|convicted]] [[f/_felons|felons]]; ([[b/_broadly|broadly]]) a [[p/_prison|prison]].**
+- **A [[s/_state|state]] or [[f/_federal|federal]] [[p/_prison|prison]] for [[c/_convicted|convicted]] [[f/_felons|felons]]; ([[b/_broadly|broadly]]) a [[p/_prison|prison]].**
 - **A [[p/_priest|priest]] in the [[r/_roman|Roman]] [[c/_catholic|Catholic]] [[c/_church|Church]] who [[a/_administers|administers]] the [[s/_sacrament|sacrament]] of [[p/_penance|penance]].**
 - **[[o/_one|One]] who [[p/_prescribes|prescribes]] the [[r/_rules|rules]] and [[m/_measures|measures]] of [[p/_penance|penance]].**
 - **[[o/_one|One]] who [[d/_does|does]] [[p/_penance|penance]].**

@@ -1,7 +1,7 @@
 # Candies
 ---
 #noun
-- **[[e/_edible|Edible]], sweet-tasting [[c/_confectionery|confectionery]] [[c/_containing|containing]] sugar, or [[s/_sometimes|sometimes]] [[a/_artificial|artificial]] sweeteners, and [[o/_often|often]] [[f/_flavored|flavored]] with [[f/_fruit|fruit]], [[c/_chocolate|chocolate]], [[n/_nuts|nuts]], [[h/_herbs|herbs]] and spices, or [[a/_artificial|artificial]] [[f/_flavors|flavors]].**
+- **[[e/_edible|Edible]], sweet-tasting [[c/_confectionery|confectionery]] [[c/_containing|containing]] sugar, or [[s/_sometimes|sometimes]] [[a/_artificial|artificial]] sweeteners, and [[o/_often|often]] [[f/_flavored|flavored]] with [[f/_fruit|fruit]], [[c/_chocolate|chocolate]], [[n/_nuts|nuts]], [[h/_herbs|herbs]] and [[s/_spices|spices]], or [[a/_artificial|artificial]] [[f/_flavors|flavors]].**
 - **A [[p/_piece|piece]] of [[c/_confectionery|confectionery]] of this [[k/_kind|kind]].**
 - **([[s/_slang|slang]], [[c/_chiefly|chiefly]] US) [[c/_crack|crack]] [[c/_cocaine|cocaine]].**
 ---

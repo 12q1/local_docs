@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[s/_set|set]] [[a/_apart|apart]] for a [[d/_deity|deity]] or for [[r/_religious|religious]] [[p/_purposes|purposes]]; [[c/_consecrate|consecrate]].**
-- **To [[s/_set|set]] [[a/_apart|apart]] for a special use**
+- **To [[s/_set|set]] [[a/_apart|apart]] for a [[s/_special|special]] use**
 	- _Example: dedicated their money to scientific research._
 - **To [[c/_commit|commit]] ([[o/_oneself|oneself]]) to a [[p/_particular|particular]] [[c/_course|course]] of thought or [[a/_action|action]]**
 	- _Example: dedicated ourselves to starting our own business._

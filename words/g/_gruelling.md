@@ -1,7 +1,7 @@
 # Gruelling
 ---
 #noun
-- **([[r/_racing|racing]]) A [[r/_race|race]] in which the [[a/_animal|animal]] [[b/_being|being]] [[r/_raced|raced]] [[f/_finishes|finishes]] in a state of [[p/_physical|physical]] [[e/_exhaustion|exhaustion]].**
+- **([[r/_racing|racing]]) A [[r/_race|race]] in which the [[a/_animal|animal]] [[b/_being|being]] [[r/_raced|raced]] [[f/_finishes|finishes]] in a [[s/_state|state]] of [[p/_physical|physical]] [[e/_exhaustion|exhaustion]].**
 - **A [[g/_gruelling|gruelling]] [[o/_ordeal|ordeal]].**
 ---
 #adjective

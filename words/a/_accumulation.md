@@ -8,7 +8,7 @@
 - **The [[c/_concurrence|concurrence]] of [[s/_several|several]] titles to the [[s/_same|same]] [[p/_proof|proof]].**
 - **The [[c/_continuous|continuous]] [[g/_growth|growth]] of [[c/_capital|capital]] by [[r/_retention|retention]] of [[i/_interest|interest]] or [[s/_savings|savings]].**
 - **The [[a/_action|action]] of [[i/_investors|investors]] [[b/_buying|buying]] an [[a/_asset|asset]] from [[o/_other|other]] [[i/_investors|investors]] when the [[p/_price|price]] of the [[a/_asset|asset]] is [[l/_low|low]].**
-- **The [[p/_practice|practice]] of taking two [[h/_higher|higher]] [[d/_degrees|degrees]] [[s/_simultaneously|simultaneously]], to [[r/_reduce|reduce]] the [[l/_length|length]] of study.**
+- **The [[p/_practice|practice]] of taking two [[h/_higher|higher]] [[d/_degrees|degrees]] [[s/_simultaneously|simultaneously]], to [[r/_reduce|reduce]] the [[l/_length|length]] of [[s/_study|study]].**
 ---
 ### Synonyms
 - 

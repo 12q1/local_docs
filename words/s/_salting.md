@@ -13,7 +13,7 @@
 ### Antonyms
 - [[d/_desalt|desalt]]
 #noun
-- **The [[a/_act|act]] of sprinkling [[s/_salt|salt]], [[e/_either|either]] on [[f/_food|food]], or on an [[i/_icy|icy]] [[r/_road|road]]**
+- **The [[a/_act|act]] of [[s/_sprinkling|sprinkling]] [[s/_salt|salt]], [[e/_either|either]] on [[f/_food|food]], or on an [[i/_icy|icy]] [[r/_road|road]]**
 - **A [[s/_salt|salt]] [[m/_marsh|marsh]]**
 - **The [[a/_act|act]] of tampering with an [[i/_investigation|investigation]] [[s/_site|site]] by [[a/_adding|adding]] [[b/_bogus|bogus]] [[e/_evidence|evidence]].**
 - **The [[c/_celebration|celebration]] of the [[e/_eton|Eton]] [[m/_montem|montem]].**

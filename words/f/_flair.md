@@ -3,7 +3,7 @@
 #noun
 - **A [[n/_natural|natural]] or [[i/_innate|innate]] talent or [[a/_aptitude|aptitude]].**
 	- _Example: to have a flair for art_
-- **[[d/_distinctive|Distinctive]] style or [[e/_elegance|elegance]].**
+- **[[d/_distinctive|Distinctive]] [[s/_style|style]] or [[e/_elegance|elegance]].**
 	- _Example: to dress with flair_
 - **[[s/_smell|Smell]]; [[o/_odor|odor]].**
 - **[[o/_olfaction|Olfaction]]; [[s/_sense|sense]] of [[s/_smell|smell]].**

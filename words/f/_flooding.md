@@ -15,6 +15,6 @@
 - [[d/_drain|drain]]
 #noun
 - **An [[a/_act|act]] of [[f/_flooding|flooding]]; a [[f/_flood|flood]] or [[g/_gush|gush]].**
-- **[[e/_emotional|Emotional]] [[o/_overwhelm|overwhelm]] [[s/_sometimes|sometimes]] [[l/_leading|leading]] to a [[p/_primal|primal]] state of [[r/_rage|rage]] or [[p/_panic|panic]].**
+- **[[e/_emotional|Emotional]] [[o/_overwhelm|overwhelm]] [[s/_sometimes|sometimes]] [[l/_leading|leading]] to a [[p/_primal|primal]] [[s/_state|state]] of [[r/_rage|rage]] or [[p/_panic|panic]].**
 ---
 ---

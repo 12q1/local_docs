@@ -7,7 +7,7 @@
 - **To [[c/_combine|combine]] [[e/_elements|elements]] of ([[s/_something|something]]) [[i/_into|into]] [[o/_one|one]] [[q/_quantity|quantity]].**
 	- _Example: to add a column of numbers_
 - **To [[g/_give|give]] by way of [[i/_increased|increased]] [[p/_possession|possession]] (to [[s/_someone|someone]]); to [[b/_bestow|bestow]] (on).**
-- **To [[a/_append|append]] ([[e/_e|e]],[[g/_g|g]], a statement); to [[s/_say|say]] [[f/_further|further]] [[i/_information|information]].**
+- **To [[a/_append|append]] ([[e/_e|e]],[[g/_g|g]], a [[s/_statement|statement]]); to [[s/_say|say]] [[f/_further|further]] [[i/_information|information]].**
 - **To [[m/_make|make]] an [[a/_addition|addition]]; to [[a/_augment|augment]]; to [[i/_increase|increase]].**
 	- _Example: It adds to our anxiety._
 - **To [[p/_perform|perform]] the [[a/_arithmetical|arithmetical]] [[o/_operation|operation]] of [[a/_addition|addition]].**

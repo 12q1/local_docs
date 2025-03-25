@@ -5,7 +5,7 @@
 - **The [[a/_autodigestion|autodigestion]] of the tissues of an [[o/_organism|organism]].**
 - **The [[a/_autocytolysis|autocytolysis]] of [[b/_blood|blood]] [[c/_cells|cells]].**
 - **The [[d/_decomposition|decomposition]] of [[d/_dead|dead]] [[y/_yeast|yeast]] [[c/_cells|cells]] in wine [[a/_after|after]] [[f/_fermentation|fermentation]].**
-- **A two-stage [[m/_mixing|mixing]] [[p/_process|process]] where water and [[f/_flour|flour]] are [[c/_combined|combined]] [[f/_first|first]] [[b/_before|before]] [[a/_adding|adding]] [[l/_leavening|leavening]] and [[s/_salt|salt]].**
+- **A two-[[s/_stage|stage]] [[m/_mixing|mixing]] [[p/_process|process]] where water and [[f/_flour|flour]] are [[c/_combined|combined]] [[f/_first|first]] [[b/_before|before]] [[a/_adding|adding]] [[l/_leavening|leavening]] and [[s/_salt|salt]].**
 ---
 ### Synonyms
 - [[a/_autodigestion|autodigestion]]

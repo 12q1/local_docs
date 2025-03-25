@@ -2,10 +2,10 @@
 ---
 #verb
 - **To [[c/_cause|cause]] to [[m/_move|move]] in a [[c/_curve|curve]].**
-- **To [[m/_make|make]] [[i/_into|into]] a [[c/_curl|curl]] or spiral.**
-- **To [[a/_assume|assume]] the [[s/_shape|shape]] of a [[c/_curl|curl]] or spiral.**
+- **To [[m/_make|make]] [[i/_into|into]] a [[c/_curl|curl]] or [[s/_spiral|spiral]].**
+- **To [[a/_assume|assume]] the [[s/_shape|shape]] of a [[c/_curl|curl]] or [[s/_spiral|spiral]].**
 - **To [[m/_move|move]] in [[c/_curves|curves]].**
-- **To take [[p/_part|part]] in the sport of [[c/_curling|curling]].**
+- **To take [[p/_part|part]] in the [[s/_sport|sport]] of [[c/_curling|curling]].**
 	- _Example: I curl at my local club every weekend._
 - **To [[e/_exercise|exercise]] by [[b/_bending|bending]] the [[a/_arm|arm]], wrist, or [[l/_leg|leg]] on the [[e/_exertion|exertion]] [[a/_against|against]] [[r/_resistance|resistance]], [[e/_especially|especially]] of the [[b/_biceps|biceps]].**
 - **To twist or [[f/_form|form]] (the [[h/_hair|hair]], [[e/_etc|etc]].) [[i/_into|into]] [[r/_ringlets|ringlets]].**
@@ -20,6 +20,6 @@
 #noun
 - **The [[a/_action|action]] or [[m/_motion|motion]] of [[s/_something|something]] that [[c/_curls|curls]] or is [[c/_curled|curled]].**
 	- _Example: a scornful curling of the lip_
-- **A winter sport where [[p/_players|players]] [[a/_aim|aim]] and [[s/_slide|slide]] stones [[d/_down|down]] a [[s/_sheet|sheet]] of [[i/_ice|ice]] and [[a/_attempt|attempt]] to [[g/_get|get]] their [[c/_color|color]] stones [[c/_closest|closest]] to the [[h/_house|house]] (a [[c/_circular|circular]] target [[m/_marked|marked]] on the [[i/_ice|ice]]).**
+- **A winter [[s/_sport|sport]] where [[p/_players|players]] [[a/_aim|aim]] and [[s/_slide|slide]] [[s/_stones|stones]] [[d/_down|down]] a [[s/_sheet|sheet]] of [[i/_ice|ice]] and [[a/_attempt|attempt]] to [[g/_get|get]] their [[c/_color|color]] [[s/_stones|stones]] [[c/_closest|closest]] to the [[h/_house|house]] (a [[c/_circular|circular]] target [[m/_marked|marked]] on the [[i/_ice|ice]]).**
 ---
 ---

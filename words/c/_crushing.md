@@ -1,7 +1,7 @@
 # Crushing
 ---
 #verb
-- **To [[p/_press|press]] [[b/_between|between]] two [[h/_hard|hard]] [[o/_objects|objects]]; to squeeze [[s/_so|so]] as to [[a/_alter|alter]] the [[n/_natural|natural]] [[s/_shape|shape]] or [[i/_integrity|integrity]] of it, or to [[f/_force|force]] together [[i/_into|into]] a [[m/_mass|mass]].**
+- **To [[p/_press|press]] [[b/_between|between]] two [[h/_hard|hard]] [[o/_objects|objects]]; to [[s/_squeeze|squeeze]] [[s/_so|so]] as to [[a/_alter|alter]] the [[n/_natural|natural]] [[s/_shape|shape]] or [[i/_integrity|integrity]] of it, or to [[f/_force|force]] together [[i/_into|into]] a [[m/_mass|mass]].**
 	- _Example: to crush grapes_
 - **To [[r/_reduce|reduce]] to [[f/_fine|fine]] [[p/_particles|particles]] by [[p/_pounding|pounding]] or [[g/_grinding|grinding]]**
 	- _Example: to crush quartz_

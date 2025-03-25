@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[s/_saliva|Saliva]] trickling from the [[m/_mouth|mouth]].**
-- **Stupid talk.**
+- **[[s/_stupid|Stupid]] talk.**
 ---
 #verb
 - **To [[s/_secrete|secrete]] [[s/_saliva|saliva]], [[e/_especially|especially]] in [[a/_anticipation|anticipation]] of [[f/_food|food]].**

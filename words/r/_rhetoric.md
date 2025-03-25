@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_art|art]] of using [[l/_language|language]], [[e/_especially|especially]] [[p/_public|public]] [[s/_speaking|speaking]], as a [[m/_means|means]] to [[p/_persuade|persuade]].**
-- **[[m/_meaningless|Meaningless]] [[l/_language|language]] with an [[e/_exaggerated|exaggerated]] style [[i/_intended|intended]] to [[i/_impress|impress]].**
+- **[[m/_meaningless|Meaningless]] [[l/_language|language]] with an [[e/_exaggerated|exaggerated]] [[s/_style|style]] [[i/_intended|intended]] to [[i/_impress|impress]].**
 	- _Example: It’s only so much rhetoric._
 ---
 ### Synonyms

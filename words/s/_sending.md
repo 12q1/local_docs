@@ -9,7 +9,7 @@
 	- _Example: Seeing how ill she was, we sent for a doctor at once._
 - **To [[c/_cause|cause]] to be or to [[h/_happen|happen]]; to [[b/_bestow|bestow]]; to [[i/_inflict|inflict]]; to [[g/_grant|grant]]; [[s/_sometimes|sometimes]] [[f/_followed|followed]] by a [[d/_dependent|dependent]] [[p/_proposition|proposition]].**
 - **To [[p/_pitch|pitch]].**
-- **To [[m/_make|make]] a successful [[f/_free|free]] [[a/_ascent|ascent]] ([[i/_i|i]].[[e/_e|e]]. not [[r/_relying|relying]] on [[g/_gear|gear]]) of a sport [[c/_climbing|climbing]] [[r/_route|route]].**
+- **To [[m/_make|make]] a successful [[f/_free|free]] [[a/_ascent|ascent]] ([[i/_i|i]].[[e/_e|e]]. not [[r/_relying|relying]] on [[g/_gear|gear]]) of a [[s/_sport|sport]] [[c/_climbing|climbing]] [[r/_route|route]].**
 	- _Example: She finally sent the 12a after hours of failed attempts._
 ---
 ### Synonyms

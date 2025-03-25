@@ -16,15 +16,15 @@
 - **To [[g/_go|go]] to (a [[p/_place|place]]) for [[s/_some|some]] [[p/_purpose|purpose]] (with at).**
 - **To be [[p/_present|present]] with; to [[a/_accompany|accompany]]; to be united or [[c/_consequent|consequent]] to.**
 	- _Example: a measure attended with ill effects_
-- **To wait for; to [[a/_await|await]]; to [[r/_remain|remain]], [[a/_abide|abide]], or be in store for.**
+- **To wait for; to [[a/_await|await]]; to [[r/_remain|remain]], [[a/_abide|abide]], or be in [[s/_store|store]] for.**
 ---
 ### Synonyms
 - [[n/_notice|notice]], [[b/_behear|behear]], [[h/_heed|heed]], [[m/_mark|mark]], [[n/_notice|notice]], [[b/_bestand|bestand]], [[s/_serve|serve]]
 #noun
-- **A [[p/_physician|physician]] on the staff of a [[h/_hospital|hospital]], [[e/_especially|especially]] the [[p/_principal|principal]] [[o/_one|one]] that supervises a [[p/_patient|patient]]'[[s/_s|s]] [[c/_care|care]].**
+- **A [[p/_physician|physician]] on the [[s/_staff|staff]] of a [[h/_hospital|hospital]], [[e/_especially|especially]] the [[p/_principal|principal]] [[o/_one|one]] that supervises a [[p/_patient|patient]]'[[s/_s|s]] [[c/_care|care]].**
 ---
 #adjective
 - **That [[a/_attend|attend]] or [[a/_attends|attends]]; that is or are in [[a/_attendance|attendance]]; [[a/_attendant|attendant]].**
-- **[[s/_serving|Serving]] on the staff of a teaching [[h/_hospital|hospital]] as a [[d/_doctor|doctor]].**
+- **[[s/_serving|Serving]] on the [[s/_staff|staff]] of a teaching [[h/_hospital|hospital]] as a [[d/_doctor|doctor]].**
 ---
 ---

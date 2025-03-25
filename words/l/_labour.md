@@ -3,11 +3,11 @@
 #noun
 - **[[e/_effort|Effort]] [[e/_expended|expended]] on a [[p/_particular|particular]] task; toil, work.**
 - **That which [[r/_requires|requires]] [[h/_hard|hard]] work for [[i/_its|its]] [[a/_accomplishment|accomplishment]]; that which [[d/_demands|demands]] [[e/_effort|effort]].**
-- **Workers in [[g/_general|general]]; the working [[c/_class|class]], the workforce; [[s/_sometimes|sometimes]] specifically the [[l/_labour|labour]] [[m/_movement|movement]], [[o/_organised|organised]] [[l/_labour|labour]].**
+- **Workers in [[g/_general|general]]; the working [[c/_class|class]], the workforce; [[s/_sometimes|sometimes]] [[s/_specifically|specifically]] the [[l/_labour|labour]] [[m/_movement|movement]], [[o/_organised|organised]] [[l/_labour|labour]].**
 - **A [[p/_political|political]] [[p/_party|party]] or [[f/_force|force]] [[a/_aiming|aiming]] or [[c/_claiming|claiming]] to [[r/_represent|represent]] the [[i/_interests|interests]] of [[l/_labour|labour]].**
 - **The [[a/_act|act]] of a [[m/_mother|mother]] [[g/_giving|giving]] [[b/_birth|birth]].**
 - **The time [[p/_period|period]] [[d/_during|during]] which a [[m/_mother|mother]] [[g/_gives|gives]] [[b/_birth|birth]].**
-- **The [[p/_pitching|pitching]] or tossing of a vessel which [[r/_results|results]] in the straining of timbers and [[r/_rigging|rigging]].**
+- **The [[p/_pitching|pitching]] or tossing of a vessel which [[r/_results|results]] in the [[s/_straining|straining]] of timbers and [[r/_rigging|rigging]].**
 - **An [[o/_old|old]] [[m/_measure|measure]] of [[l/_land|land]] [[a/_area|area]] in [[m/_mexico|Mexico]] and Texas, [[a/_approximately|approximately]] 177 [[a/_acres|acres]].**
 ---
 ### Synonyms

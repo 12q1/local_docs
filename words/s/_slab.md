@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_large|large]], [[f/_flat|flat]] [[p/_piece|piece]] of [[s/_solid|solid]] [[m/_material|material]]; a [[s/_solid|solid]] [[o/_object|object]] that is [[l/_large|large]] and [[f/_flat|flat]].**
-- **A [[p/_paving|paving]] stone; a [[f/_flagstone|flagstone]].**
+- **A [[p/_paving|paving]] [[s/_stone|stone]]; a [[f/_flagstone|flagstone]].**
 - **A [[c/_carton|carton]] [[c/_containing|containing]] 24 [[c/_cans|cans]] of [[b/_beer|beer]].**
 - **An [[o/_outside|outside]] [[p/_piece|piece]] taken from a [[l/_log|log]] or timber when [[s/_sawing|sawing]] it [[i/_into|into]] [[b/_boards|boards]], [[p/_planks|planks]], [[e/_etc|etc]].**
 - **A [[b/_bird|bird]], the wryneck.**

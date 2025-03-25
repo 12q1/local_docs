@@ -7,6 +7,6 @@
 - **A [[c/_colloidal|colloidal]] [[s/_system|system]] in which the [[d/_dispersed|dispersed]] [[p/_phase|phase]] is [[c/_composed|composed]] of [[e/_either|either]] [[s/_solid|solid]] or [[l/_liquid|liquid]] [[p/_particles|particles]] and in which the [[d/_dispersal|dispersal]] [[m/_medium|medium]] is [[s/_some|some]] [[g/_gas|gas]], usually [[a/_air|air]].**
 ---
 #verb
-- **To spray with an [[a/_aerosol|aerosol]].**
+- **To [[s/_spray|spray]] with an [[a/_aerosol|aerosol]].**
 ---
 ---

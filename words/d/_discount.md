@@ -23,7 +23,7 @@
 - **(transactional [[a/_analysis|analysis]]) To [[b/_believe|believe]], or [[a/_act|act]] as though [[o/_one|one]] [[b/_believes|believes]], that [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[f/_feelings|feelings]] are [[m/_more|more]] [[i/_important|important]] than the [[r/_reality|reality]] of a [[s/_situation|situation]].**
 ---
 #adjective
-- **(of a store) Specializing in [[s/_selling|selling]] [[g/_goods|goods]] at [[r/_reduced|reduced]] [[p/_prices|prices]].**
+- **(of a [[s/_store|store]]) [[s/_specializing|Specializing]] in [[s/_selling|selling]] [[g/_goods|goods]] at [[r/_reduced|reduced]] [[p/_prices|prices]].**
 	- _Example: If you're looking for cheap clothes, there's a discount clothier around the corner._
 ---
 ---

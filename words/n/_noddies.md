@@ -1,12 +1,12 @@
 # Noddies
 ---
 #noun
-- **A stupid or [[s/_silly|silly]] [[p/_person|person]].**
+- **A [[s/_stupid|stupid]] or [[s/_silly|silly]] [[p/_person|person]].**
 ---
 #noun
-- **[[a/_any|Any]] of [[s/_several|several]] stout-[[b/_bodied|bodied]], [[g/_gregarious|gregarious]] terns of the [[g/_genera|genera]] [[a/_anous|Anous]] and Procelsterna, [[f/_found|found]] in tropical [[s/_seas|seas]].**
+- **[[a/_any|Any]] of [[s/_several|several]] [[s/_stout|stout]]-[[b/_bodied|bodied]], [[g/_gregarious|gregarious]] terns of the [[g/_genera|genera]] [[a/_anous|Anous]] and Procelsterna, [[f/_found|found]] in tropical [[s/_seas|seas]].**
 - **A [[s/_small|small]] two-wheeled vehicle [[d/_drawn|drawn]] by a [[s/_single|single]] [[h/_horse|horse]].**
-- **An [[i/_inverted|inverted]] [[p/_pendulum|pendulum]] [[c/_consisting|consisting]] of a [[s/_short|short]] vertical [[f/_flat|flat]] spring which supports a [[r/_rod|rod]] [[h/_having|having]] a [[b/_bob|bob]] at the top; used for [[d/_detecting|detecting]] and [[m/_measuring|measuring]] [[s/_slight|slight]] [[h/_horizontal|horizontal]] vibrations of a [[b/_body|body]] to which it is [[a/_attached|attached]].**
+- **An [[i/_inverted|inverted]] [[p/_pendulum|pendulum]] [[c/_consisting|consisting]] of a [[s/_short|short]] vertical [[f/_flat|flat]] [[s/_spring|spring]] which supports a [[r/_rod|rod]] [[h/_having|having]] a [[b/_bob|bob]] at the top; used for [[d/_detecting|detecting]] and [[m/_measuring|measuring]] [[s/_slight|slight]] [[h/_horizontal|horizontal]] vibrations of a [[b/_body|body]] to which it is [[a/_attached|attached]].**
 - **An [[o/_old|old]] [[c/_card|card]] [[g/_game|game]].**
 ---
 #noun

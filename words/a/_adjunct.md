@@ -15,6 +15,6 @@
 - [[a/_addition|addition]], [[s/_supplement|supplement]]
 #adjective
 - **[[c/_connected|Connected]] in a subordinate [[f/_function|function]].**
-- **[[a/_added|Added]] to a [[f/_faculty|faculty]] or staff in a [[s/_secondary|secondary]] [[p/_position|position]].**
+- **[[a/_added|Added]] to a [[f/_faculty|faculty]] or [[s/_staff|staff]] in a [[s/_secondary|secondary]] [[p/_position|position]].**
 ---
 ---

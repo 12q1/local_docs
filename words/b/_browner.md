@@ -8,6 +8,6 @@
 ### Antonyms
 - [[n/_nonbrown|nonbrown]]
 #noun
-- **A special [[d/_dish|dish]] for [[c/_cooking|cooking]] [[f/_food|food]] in a [[m/_microwave|microwave]] [[o/_oven|oven]] [[s/_so|so]] that it [[b/_browns|browns]] on the [[o/_outside|outside]].**
+- **A [[s/_special|special]] [[d/_dish|dish]] for [[c/_cooking|cooking]] [[f/_food|food]] in a [[m/_microwave|microwave]] [[o/_oven|oven]] [[s/_so|so]] that it [[b/_browns|browns]] on the [[o/_outside|outside]].**
 ---
 ---

@@ -13,9 +13,9 @@
 	- _Example: The court cleared the man of murder._
 - **To [[p/_pass|pass]] without [[i/_interference|interference]]; to [[m/_miss|miss]].**
 	- _Example: The door just barely clears the table as it closes._
-- **([[a/_activities|activities]] such as [[j/_jumping|jumping]] or throwing) To [[e/_exceed|exceed]] a stated [[m/_mark|mark]].**
+- **([[a/_activities|activities]] such as [[j/_jumping|jumping]] or throwing) To [[e/_exceed|exceed]] a [[s/_stated|stated]] [[m/_mark|mark]].**
 	- _Example: She was the first female high jumper to clear two metres._
-- **To [[f/_finish|finish]] or [[c/_complete|complete]] (a stage, [[c/_challenge|challenge]], or [[g/_game|game]]).**
+- **To [[f/_finish|finish]] or [[c/_complete|complete]] (a [[s/_stage|stage]], [[c/_challenge|challenge]], or [[g/_game|game]]).**
 	- _Example: I cleared the first level in 36 seconds._
 - **Of a [[c/_check|check]] or [[f/_financial|financial]] transaction, to [[g/_go|go]] through as [[p/_payment|payment]]; to be [[p/_processed|processed]] [[s/_so|so]] that the [[m/_money|money]] is transferred.**
 	- _Example: The check might not clear for a couple of days._
@@ -31,9 +31,9 @@
 - **To [[d/_disengage|disengage]] [[o/_oneself|oneself]] from [[i/_incumbrances|incumbrances]], [[d/_distress|distress]], or [[e/_entanglements|entanglements]]; to [[b/_become|become]] [[f/_free|free]].**
 - **To [[h/_hit|hit]], [[k/_kick|kick]], [[h/_head|head]], [[p/_punch|punch]] [[e/_etc|etc]]. (a [[b/_ball|ball]], [[p/_puck|puck]]) [[a/_away|away]] in [[o/_order|order]] to [[d/_defend|defend]] [[o/_one|one]]'[[s/_s|s]] [[g/_goal|goal]].**
 	- _Example: A low cross came in, and Smith cleared._
-- **To [[r/_reset|reset]] or unset; to [[r/_return|return]] to an [[e/_empty|empty]] state or to zero.**
+- **To [[r/_reset|reset]] or unset; to [[r/_return|return]] to an [[e/_empty|empty]] [[s/_state|state]] or to zero.**
 	- _Example: to clear an array;  to clear a single bit (binary digit) in a value_
-- **To style (an [[e/_element|element]] within a [[d/_document|document]]) [[s/_so|so]] that it is not [[p/_permitted|permitted]] to [[f/_float|float]] at a [[g/_given|given]] [[p/_position|position]].**
+- **To [[s/_style|style]] (an [[e/_element|element]] within a [[d/_document|document]]) [[s/_so|so]] that it is not [[p/_permitted|permitted]] to [[f/_float|float]] at a [[g/_given|given]] [[p/_position|position]].**
 ---
 ### Synonyms
 - [[s/_stub|stub]]
@@ -42,8 +42,8 @@
 - **An [[a/_area|area]] of [[l/_land|land]] within a wood or [[f/_forest|forest]] [[d/_devoid|devoid]] of trees.**
 - **An [[o/_open|open]] [[s/_space|space]] in the [[f/_fog|fog]] [[e/_etc|etc]].**
 - **A [[p/_process|process]] of [[e/_exchanging|exchanging]] transaction [[i/_information|information]] and [[a/_authorisation|authorisation]] through a [[c/_central|central]] [[i/_institution|institution]] or [[s/_system|system]] to [[c/_complete|complete]] and [[s/_settle|settle]] those transactions.**
-- **A [[s/_sequence|sequence]] of [[e/_events|events]] used to [[d/_disconnect|disconnect]] a [[c/_call|call]], and [[r/_return|return]] to the [[r/_ready|ready]] state.**
-- **The [[p/_period|period]] in which [[r/_remaining|remaining]] university [[p/_places|places]] are [[a/_allocated|allocated]] to [[r/_remaining|remaining]] students.**
+- **A [[s/_sequence|sequence]] of [[e/_events|events]] used to [[d/_disconnect|disconnect]] a [[c/_call|call]], and [[r/_return|return]] to the [[r/_ready|ready]] [[s/_state|state]].**
+- **The [[p/_period|period]] in which [[r/_remaining|remaining]] university [[p/_places|places]] are [[a/_allocated|allocated]] to [[r/_remaining|remaining]] [[s/_students|students]].**
 - **The [[a/_act|act]] of [[r/_removing|removing]] the [[b/_ball|ball]] from [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[g/_goal|goal]] [[a/_area|area]] by [[k/_kicking|kicking]] it.**
 ---
 ### Synonyms

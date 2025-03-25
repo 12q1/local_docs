@@ -1,7 +1,7 @@
 # Hardcore
 ---
 #noun
-- **[[b/_broken|Broken]] [[b/_bricks|bricks]], stone and/or [[o/_other|other]] [[a/_aggregate|aggregate]] used as [[f/_foundations|foundations]], [[e/_especially|especially]] in [[r/_road|road]] and [[p/_path|path]] [[l/_laying|laying]].**
+- **[[b/_broken|Broken]] [[b/_bricks|bricks]], [[s/_stone|stone]] and/or [[o/_other|other]] [[a/_aggregate|aggregate]] used as [[f/_foundations|foundations]], [[e/_especially|especially]] in [[r/_road|road]] and [[p/_path|path]] [[l/_laying|laying]].**
 - **[[s/_several|Several]] [[m/_music|music]] [[g/_genres|genres]], [[i/_including|including]]:**
 ---
 #adjective
@@ -12,7 +12,7 @@
 - **[[r/_resistant|Resistant]] to [[c/_change|change]].**
 - **[[o/_obscene|Obscene]] or [[e/_explicit|explicit]].**
 - **[[d/_depicting|Depicting]] [[p/_penetration|penetration]] and [[a/_abnormal|abnormal]] [[s/_sexual|sexual]] [[a/_activity|activity]].**
-- **[[f/_faster|Faster]] or [[m/_more|more]] [[i/_intense|intense]] than the [[r/_regular|regular]] style.**
+- **[[f/_faster|Faster]] or [[m/_more|more]] [[i/_intense|intense]] than the [[r/_regular|regular]] [[s/_style|style]].**
 ---
 ### Synonyms
 - [[s/_steely-eyed|steely-eyed]]

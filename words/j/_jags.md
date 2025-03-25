@@ -12,8 +12,8 @@
 ---
 #noun
 - **[[e/_enough|Enough]] [[l/_liquor|liquor]] to [[m/_make|make]] a [[p/_person|person]] [[n/_noticeably|noticeably]] [[d/_drunk|drunk]]; a [[s/_skinful|skinful]].**
-- **A [[b/_binge|binge]] or [[p/_period|period]] of [[o/_overindulgence|overindulgence]]; a spree.**
-- **A [[f/_fit|fit]], spell, [[o/_outburst|outburst]].**
+- **A [[b/_binge|binge]] or [[p/_period|period]] of [[o/_overindulgence|overindulgence]]; a [[s/_spree|spree]].**
+- **A [[f/_fit|fit]], [[s/_spell|spell]], [[o/_outburst|outburst]].**
 - **A [[o/_one|one]]-[[h/_horse|horse]] [[c/_cart|cart]] [[l/_load|load]], or, in [[m/_modern|modern]] times, a truck [[l/_load|load]], of [[h/_hay|hay]] or wood.**
 - **A [[l/_leather|leather]] [[b/_bag|bag]] or wallet; (in the [[p/_plural|plural]]) [[s/_saddlebags|saddlebags]].**
 ---

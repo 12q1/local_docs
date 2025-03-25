@@ -11,6 +11,6 @@
 ---
 #verb
 - **To [[m/_make|make]] [[m/_malicious|malicious]], underhand [[r/_remarks|remarks]] or [[a/_attacks|attacks]].**
-- **To [[a/_attach|attach]] a [[n/_note|note]] or sticker to (an [[e/_existing|existing]] [[p/_poster|poster]]) to [[p/_provide|provide]] [[f/_further|further]] [[i/_information|information]], [[p/_political|political]] [[c/_criticism|criticism]], [[e/_etc|etc]].**
+- **To [[a/_attach|attach]] a [[n/_note|note]] or [[s/_sticker|sticker]] to (an [[e/_existing|existing]] [[p/_poster|poster]]) to [[p/_provide|provide]] [[f/_further|further]] [[i/_information|information]], [[p/_political|political]] [[c/_criticism|criticism]], [[e/_etc|etc]].**
 ---
 ---

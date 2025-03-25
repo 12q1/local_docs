@@ -6,6 +6,6 @@
 	- _Example: banish fear, qualm._
 ---
 #noun
-- **A [[m/_magical|magical]] [[r/_ritual|ritual]] [[i/_intended|intended]] to [[r/_remove|remove]] [[n/_negative|negative]] spiritual [[i/_influences|influences]].**
+- **A [[m/_magical|magical]] [[r/_ritual|ritual]] [[i/_intended|intended]] to [[r/_remove|remove]] [[n/_negative|negative]] [[s/_spiritual|spiritual]] [[i/_influences|influences]].**
 ---
 ---

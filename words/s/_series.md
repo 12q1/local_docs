@@ -10,7 +10,7 @@
 - **A [[g/_group|group]] of [[m/_matches|matches]] [[b/_between|between]] two [[s/_sides|sides]], with the [[a/_aim|aim]] [[b/_being|being]] to win [[m/_more|more]] [[m/_matches|matches]] than the [[o/_opposition|opposition]].**
 	- _Example: The Blue Jays are playing the Yankees in a four-game series._
 - **An unranked taxon.**
-- **A subdivision of a [[g/_genus|genus]], a taxonomic [[r/_rank|rank]] [[b/_below|below]] that of [[s/_section|section]] (and subsection) but [[a/_above|above]] that of species.**
+- **A subdivision of a [[g/_genus|genus]], a taxonomic [[r/_rank|rank]] [[b/_below|below]] that of [[s/_section|section]] (and subsection) but [[a/_above|above]] that of [[s/_species|species]].**
 - **A [[p/_parcel|parcel]] of [[r/_rough|rough]] [[d/_diamonds|diamonds]] of [[a/_assorted|assorted]] [[q/_qualities|qualities]].**
 - **A [[s/_set|set]] of [[c/_consonants|consonants]] that [[s/_share|share]] a [[p/_particular|particular]] [[p/_phonetic|phonetic]] or [[p/_phonological|phonological]] [[f/_feature|feature]].**
 ---

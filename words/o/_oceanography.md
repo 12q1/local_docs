@@ -1,7 +1,7 @@
 # Oceanography
 ---
 #noun
-- **The [[e/_exploration|exploration]] and [[s/_scientific|scientific]] study of the [[o/_oceans|oceans]] and [[o/_ocean|ocean]] [[f/_floor|floor]].**
+- **The [[e/_exploration|exploration]] and [[s/_scientific|scientific]] [[s/_study|study]] of the [[o/_oceans|oceans]] and [[o/_ocean|ocean]] [[f/_floor|floor]].**
 ---
 ### Synonyms
 - [[o/_oceanology|oceanology]]

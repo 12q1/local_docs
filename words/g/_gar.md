@@ -1,6 +1,6 @@
 # Gar
 ---
 #noun
-- **A spear.**
+- **A [[s/_spear|spear]].**
 ---
 ---

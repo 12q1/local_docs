@@ -5,7 +5,7 @@
 - **A [[n/_newspaper|newspaper]] or [[a/_anything|anything]] used as such (such as a [[n/_newsletter|newsletter]] or [[l/_listing|listing]] [[m/_magazine|magazine]]).**
 - **Wallpaper.**
 - **Wrapping [[p/_paper|paper]].**
-- **([[r/_rock|rock]] [[p/_paper|paper]] [[s/_scissors|scissors]]) An [[o/_open|open]] [[h/_hand|hand]] (a handshape [[r/_resembling|resembling]] a [[s/_sheet|sheet]] of [[p/_paper|paper]]), that [[b/_beats|beats]] [[r/_rock|rock]] and [[l/_loses|loses]] to [[s/_scissors|scissors]]. It [[l/_loses|loses]] to [[l/_lizard|lizard]] and [[b/_beats|beats]] Spock in [[r/_rock|rock]]-[[p/_paper|paper]]-[[s/_scissors|scissors]]-[[l/_lizard|lizard]]-Spock.**
+- **([[r/_rock|rock]] [[p/_paper|paper]] [[s/_scissors|scissors]]) An [[o/_open|open]] [[h/_hand|hand]] (a handshape [[r/_resembling|resembling]] a [[s/_sheet|sheet]] of [[p/_paper|paper]]), that [[b/_beats|beats]] [[r/_rock|rock]] and [[l/_loses|loses]] to [[s/_scissors|scissors]]. It [[l/_loses|loses]] to [[l/_lizard|lizard]] and [[b/_beats|beats]] [[s/_spock|Spock]] in [[r/_rock|rock]]-[[p/_paper|paper]]-[[s/_scissors|scissors]]-[[l/_lizard|lizard]]-[[s/_spock|Spock]].**
 - **A written [[d/_document|document]], [[g/_generally|generally]] [[s/_shorter|shorter]] than a [[b/_book|book]] (white [[p/_paper|paper]], term [[p/_paper|paper]]), in [[p/_particular|particular]] [[o/_one|one]] written for the [[g/_government|Government]].**
 - **A written [[d/_document|document]] that [[r/_reports|reports]] [[s/_scientific|scientific]] or [[a/_academic|academic]] [[r/_research|research]] and is usually subjected to [[p/_peer|peer]] [[r/_review|review]] [[b/_before|before]] [[p/_publication|publication]] in a [[s/_scientific|scientific]] [[j/_journal|journal]] (as a [[j/_journal|journal]] [[a/_article|article]] or the [[m/_manuscript|manuscript]] for [[o/_one|one]]) or in the [[p/_proceedings|proceedings]] of a [[s/_scientific|scientific]] or [[a/_academic|academic]] [[m/_meeting|meeting]] (such as a [[c/_conference|conference]], workshop, or [[s/_symposium|symposium]]).**
 - **A [[s/_scholastic|scholastic]] [[e/_essay|essay]].**
@@ -14,7 +14,7 @@
 - **A university [[c/_course|course]].**
 - **A [[p/_paper|paper]] [[p/_packet|packet]] [[c/_containing|containing]] a [[q/_quantity|quantity]] of [[i/_items|items]].**
 	- _Example: a paper of pins, tacks, opium, etc._
-- **A [[m/_medicinal|medicinal]] [[p/_preparation|preparation]] spread upon [[p/_paper|paper]], [[i/_intended|intended]] for [[e/_external|external]] [[a/_application|application]].**
+- **A [[m/_medicinal|medicinal]] [[p/_preparation|preparation]] [[s/_spread|spread]] upon [[p/_paper|paper]], [[i/_intended|intended]] for [[e/_external|external]] [[a/_application|application]].**
 	- _Example: cantharides paper_
 - **A substance [[r/_resembling|resembling]] [[p/_paper|paper]] [[s/_secreted|secreted]] by [[c/_certain|certain]] [[i/_invertebrates|invertebrates]] as [[p/_protection|protection]] for their [[n/_nests|nests]] and [[e/_eggs|eggs]].**
 - **[[f/_free|Free]] [[p/_passes|passes]] of [[a/_admission|admission]] to a theatre, [[e/_etc|etc]].**

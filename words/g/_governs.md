@@ -7,7 +7,7 @@
 	- _Example: Govern yourselves like civilized people._
 - **To [[e/_exercise|exercise]] a [[d/_deciding|deciding]] or [[d/_determining|determining]] [[i/_influence|influence]] on.**
 	- _Example: Chance governs the outcome of many card games._
-- **To [[c/_control|control]] the speed, [[f/_flow|flow]] [[e/_etc|etc]]. of; to [[r/_regulate|regulate]].**
+- **To [[c/_control|control]] the [[s/_speed|speed]], [[f/_flow|flow]] [[e/_etc|etc]]. of; to [[r/_regulate|regulate]].**
 	- _Example: a valve that governs fuel intake_
 - **To [[e/_exercise|exercise]] [[p/_political|political]] [[a/_authority|authority]]; to [[r/_run|run]] a [[g/_government|government]].**
 - **To [[h/_have|have]] or [[e/_exercise|exercise]] a [[d/_determining|determining]] [[i/_influence|influence]].**

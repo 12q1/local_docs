@@ -10,7 +10,7 @@
 ---
 #adjective
 - **[[c/_covered|Covered]] by a [[s/_sheet|sheet]], as of [[c/_cloth|cloth]] or [[p/_paper|paper]].**
-- **([[r/_road|road]] [[h/_haulage|haulage]]) [[s/_secured|Secured]] by a special tarpaulin.**
+- **([[r/_road|road]] [[h/_haulage|haulage]]) [[s/_secured|Secured]] by a [[s/_special|special]] tarpaulin.**
 	- _Example: This load must be well roped and sheeted to be safe._
 ---
 ---

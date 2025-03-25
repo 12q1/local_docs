@@ -9,7 +9,7 @@
 	- _Example: cap wages._
 - **To [[m/_make|make]] [[s/_something|something]] [[e/_even|even]] [[m/_more|more]] wonderful at the [[e/_end|end]].**
 	- _Example: That really capped my day._
-- **To [[s/_select|select]] a [[p/_player|player]] to [[p/_play|play]] for a specified [[s/_side|side]].**
+- **To [[s/_select|select]] a [[p/_player|player]] to [[p/_play|play]] for a [[s/_specified|specified]] [[s/_side|side]].**
 - **To [[s/_shoot|shoot]] ([[s/_someone|someone]]) with a [[f/_firearm|firearm]].**
 	- _Example: In a school shooting, where some kid caps a bunch of other kids, where did he get the weapon? From a family member, probably their gun cabinet._
 - **To [[s/_select|select]] to [[p/_play|play]] for the [[n/_national|national]] team.**
@@ -26,10 +26,10 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[r/_removing|removing]] [[o/_one|one]]'[[s/_s|s]] [[h/_hat|hat]] as a token of [[r/_respect|respect]].**
-- **The [[l/_leached|leached]] upper [[p/_part|part]] of a [[b/_body|body]] or [[r/_rock|rock]] that still [[c/_contains|contains]] [[d/_disseminated|disseminated]] sulphide [[m/_mineral|mineral]] [[d/_deposit|deposit]].**
+- **The [[l/_leached|leached]] upper [[p/_part|part]] of a [[b/_body|body]] or [[r/_rock|rock]] that [[s/_still|still]] [[c/_contains|contains]] [[d/_disseminated|disseminated]] sulphide [[m/_mineral|mineral]] [[d/_deposit|deposit]].**
 - **The [[p/_process|process]] of [[c/_covering|covering]] a [[b/_borehole|borehole]] in [[o/_order|order]] to [[s/_seal|seal]] an [[o/_oil|oil]] well.**
 - **The [[s/_selling|selling]] of a [[s/_security|security]] [[e/_etc|etc]]. [[c/_close|close]] to an [[e/_expiry|expiry]] [[d/_date|date]].**
-- **The [[c/_conversion|conversion]] of a [[p/_polyhedron|polyhedron]] [[i/_into|into]] a stellated [[p/_polyhedron|polyhedron]] by [[r/_raising|raising]] a [[p/_pyramid|pyramid]] on [[e/_each|each]] [[f/_face|face]].**
+- **The [[c/_conversion|conversion]] of a [[p/_polyhedron|polyhedron]] [[i/_into|into]] a [[s/_stellated|stellated]] [[p/_polyhedron|polyhedron]] by [[r/_raising|raising]] a [[p/_pyramid|pyramid]] on [[e/_each|each]] [[f/_face|face]].**
 - **The [[r/_recording|recording]] of a television [[b/_broadcast|broadcast]] to [[o/_one|one]]'[[s/_s|s]] [[c/_computer|computer]].**
 ---
 ---

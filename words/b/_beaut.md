@@ -6,6 +6,6 @@
 - **[[s/_something|Something]] that is a [[r/_remarkable|remarkable]] [[e/_example|example]] of [[i/_its|its]] type.**
 ---
 #adjective
-- **[[b/_beautiful|Beautiful]], splendid.**
+- **[[b/_beautiful|Beautiful]], [[s/_splendid|splendid]].**
 ---
 ---

@@ -9,6 +9,6 @@
 - **A [[m/_meat|meat]] [[m/_market|market]]**
 ---
 #noun
-- **The stereotypical [[b/_behaviors|behaviors]] and [[a/_accoutrements|accoutrements]] of [[b/_being|being]] a [[b/_butch|butch]] [[l/_lesbian|lesbian]].**
+- **The [[s/_stereotypical|stereotypical]] [[b/_behaviors|behaviors]] and [[a/_accoutrements|accoutrements]] of [[b/_being|being]] a [[b/_butch|butch]] [[l/_lesbian|lesbian]].**
 ---
 ---

@@ -12,7 +12,7 @@
 - [[a/_apologia|apologia]]
 #interjection
 - **[[e/_expresses|Expresses]] [[r/_regret|regret]], [[r/_remorse|remorse]], or [[s/_sorrow|sorrow]].**
-- **Used to [[c/_correct|correct]] [[o/_oneself|oneself]] in speech.**
+- **Used to [[c/_correct|correct]] [[o/_oneself|oneself]] in [[s/_speech|speech]].**
 ---
 ### Synonyms
 - [[s/_sorry|sorry]]

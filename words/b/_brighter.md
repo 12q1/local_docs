@@ -7,7 +7,7 @@
 	- _Example: He's very bright. He was able to solve the problem without my help._
 - **Vivid, [[c/_colourful|colourful]], [[b/_brilliant|brilliant]].**
 	- _Example: The orange and blue walls of the sitting room were much brighter than the dull grey walls of the kitchen._
-- **[[h/_happy|Happy]], in [[g/_good|good]] spirits.**
+- **[[h/_happy|Happy]], in [[g/_good|good]] [[s/_spirits|spirits]].**
 	- _Example: I woke up today feeling so bright that I decided to have a little dance._
 - **[[s/_sparkling|Sparkling]] with wit; [[l/_lively|lively]]; vivacious; [[c/_cheerful|cheerful]].**
 - **[[i/_illustrious|Illustrious]]; [[g/_glorious|glorious]].**

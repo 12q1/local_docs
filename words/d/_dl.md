@@ -14,10 +14,10 @@
 ### Antonyms
 - [[U/_UL|UL]]
 #noun
-- **A state of [[s/_secrecy|secrecy]].**
+- **A [[s/_state|state]] of [[s/_secrecy|secrecy]].**
 	- _Example: I'll tell you, but keep it on the down low._
-- **([[s/_sexuality|sexuality]]) The state of [[b/_being|being]] a [[m/_man|man]] who [[s/_secretly|secretly]] [[s/_sleeps|sleeps]] with [[p/_people|people]] [[o/_other|other]] than [[h/_his|his]] [[p/_partner|partner]].**
-- **([[s/_sexuality|sexuality]]) The state of [[b/_being|being]] a [[m/_man|man]] who [[s/_secretly|secretly]] [[s/_sleeps|sleeps]] with [[o/_other|other]] [[m/_men|men]].**
+- **([[s/_sexuality|sexuality]]) The [[s/_state|state]] of [[b/_being|being]] a [[m/_man|man]] who [[s/_secretly|secretly]] [[s/_sleeps|sleeps]] with [[p/_people|people]] [[o/_other|other]] than [[h/_his|his]] [[p/_partner|partner]].**
+- **([[s/_sexuality|sexuality]]) The [[s/_state|state]] of [[b/_being|being]] a [[m/_man|man]] who [[s/_secretly|secretly]] [[s/_sleeps|sleeps]] with [[o/_other|other]] [[m/_men|men]].**
 ---
 #noun
 - **A [[f/_file|file]] transfer to the [[l/_local|local]] [[c/_computer|computer]].**

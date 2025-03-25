@@ -1,7 +1,7 @@
 # Oppose
 ---
 #verb
-- **To [[a/_attempt|attempt]] to stop the [[p/_progression|progression]] of; to [[r/_resist|resist]] or [[a/_antagonize|antagonize]] by [[p/_physical|physical]] [[m/_means|means]], or by [[a/_arguments|arguments]], [[e/_etc|etc]].; to [[c/_contend|contend]] [[a/_against|against]].**
+- **To [[a/_attempt|attempt]] to [[s/_stop|stop]] the [[p/_progression|progression]] of; to [[r/_resist|resist]] or [[a/_antagonize|antagonize]] by [[p/_physical|physical]] [[m/_means|means]], or by [[a/_arguments|arguments]], [[e/_etc|etc]].; to [[c/_contend|contend]] [[a/_against|against]].**
 	- _Example: There is still time to oppose this plan._
 - **To [[o/_object|object]] to.**
 	- _Example: Many religious leaders oppose cloning humans._

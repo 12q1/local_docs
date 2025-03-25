@@ -23,7 +23,7 @@
 - **A type of [[f/_fine|fine]] [[c/_cloth|cloth]] [[s/_similar|similar]] to [[s/_serge|serge]].**
 ---
 #noun
-- **Trial by [[s/_sample|sample]]; [[a/_assay|assay]]; specimen.**
+- **Trial by [[s/_sample|sample]]; [[a/_assay|assay]]; [[s/_specimen|specimen]].**
 - **Tried [[q/_quality|quality]]; temper; [[p/_proof|proof]].**
 - **[[e/_essay|Essay]]; trial; [[a/_attempt|attempt]].**
 ---
@@ -31,6 +31,6 @@
 - **To try; to [[a/_assay|assay]].**
 ---
 #noun
-- **A strainer for [[m/_milk|milk]].**
+- **A [[s/_strainer|strainer]] for [[m/_milk|milk]].**
 ---
 ---

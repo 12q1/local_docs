@@ -11,7 +11,7 @@
 - **[[p/_pale|Pale]] or [[p/_pallid|pallid]], as from [[f/_fear|fear]], [[i/_illness|illness]], [[e/_etc|etc]].**
 - **(of a [[p/_person|person]] or [[s/_skin|skin]]) [[l/_lacking|Lacking]] [[c/_coloration|coloration]] (tan) from ultraviolet [[l/_light|light]]; not tanned.**
 - **(of [[c/_coffee|coffee]] or tea) [[c/_containing|Containing]] [[c/_cream|cream]], [[m/_milk|milk]], or [[c/_creamer|creamer]].**
-- **The standard [[d/_denomination|denomination]] of the [[p/_playing|playing]] [[p/_pieces|pieces]] of a [[b/_board|board]] [[g/_game|game]] [[d/_deemed|deemed]] to [[b/_belong|belong]] to the white [[s/_set|set]], [[n/_no|no]] [[m/_matter|matter]] what the [[a/_actual|actual]] [[c/_colour|colour]].**
+- **The [[s/_standard|standard]] [[d/_denomination|denomination]] of the [[p/_playing|playing]] [[p/_pieces|pieces]] of a [[b/_board|board]] [[g/_game|game]] [[d/_deemed|deemed]] to [[b/_belong|belong]] to the white [[s/_set|set]], [[n/_no|no]] [[m/_matter|matter]] what the [[a/_actual|actual]] [[c/_colour|colour]].**
 	- _Example: The white pieces in this set are in fact made of light green glass._
 - **[[p/_pertaining|Pertaining]] to an [[e/_ecclesiastical|ecclesiastical]] [[o/_order|order]] whose [[a/_adherents|adherents]] [[d/_dress|dress]] in white [[h/_habits|habits]]; [[c/_cistercian|Cistercian]].**
 - **[[h/_honourable|Honourable]], [[f/_fair|fair]]; [[d/_decent|decent]].**

@@ -2,15 +2,15 @@
 ---
 #noun
 - **A [[m/_mound|mound]] of [[e/_earth|earth]].**
-- **A [[d/_deformity|deformity]] in [[h/_humans|humans]] [[c/_caused|caused]] by [[a/_abnormal|abnormal]] [[c/_curvature|curvature]] of the upper spine.**
+- **A [[d/_deformity|deformity]] in [[h/_humans|humans]] [[c/_caused|caused]] by [[a/_abnormal|abnormal]] [[c/_curvature|curvature]] of the upper [[s/_spine|spine]].**
 - **([[a/_animals|animals]]) A [[r/_rounded|rounded]] [[f/_fleshy|fleshy]] [[m/_mass|mass]], such as on a [[c/_camel|camel]] or zebu.**
 - **An [[a/_act|act]] of [[s/_sexual|sexual]] [[i/_intercourse|intercourse]].**
 - **(with [[d/_definite|definite]] [[a/_article|article]]) A [[b/_bad|bad]] [[m/_mood|mood]].**
 	- _Example: get the hump, have the hump, take the hump, give someone the hump_
 - **A [[p/_painfully|painfully]] [[b/_boorish|boorish]] [[p/_person|person]].**
 	- _Example: That guy is such a hump!_
-- **A speed [[h/_hump|hump]].**
-- **A wave that [[f/_forms|forms]] in [[f/_front|front]] of an [[o/_operating|operating]] [[h/_hovercraft|hovercraft]] and [[i/_impedes|impedes]] [[p/_progress|progress]] at [[l/_low|low]] speeds.**
+- **A [[s/_speed|speed]] [[h/_hump|hump]].**
+- **A wave that [[f/_forms|forms]] in [[f/_front|front]] of an [[o/_operating|operating]] [[h/_hovercraft|hovercraft]] and [[i/_impedes|impedes]] [[p/_progress|progress]] at [[l/_low|low]] [[s/_speeds|speeds]].**
 ---
 ### Synonyms
 - [[g/_gibbous|gibbous]], [[h/_humpback|humpback]], [[h/_hunch|hunch]], [[h/_hunchback|hunchback]]

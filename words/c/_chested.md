@@ -6,7 +6,7 @@
 - **To [[p/_place|place]] in a [[c/_coffin|coffin]].**
 ---
 #adjective
-- **(usually in [[c/_combination|combination]]) [[h/_having|Having]] a [[c/_chest|chest]] (with a specified [[q/_quality|quality]]).**
+- **(usually in [[c/_combination|combination]]) [[h/_having|Having]] a [[c/_chest|chest]] (with a [[s/_specified|specified]] [[q/_quality|quality]]).**
 	- _Example: Jenny was the most flat-chested of her friends._
 ---
 ---

@@ -2,9 +2,9 @@
 ---
 #noun
 - **[[s/_something|Something]] that is [[n/_number|number]] two in a [[s/_series|series]].**
-- **[[s/_something|Something]] that is [[n/_next|next]] in [[r/_rank|rank]], [[q/_quality|quality]], [[p/_precedence|precedence]], [[p/_position|position]], status, or [[a/_authority|authority]].**
+- **[[s/_something|Something]] that is [[n/_next|next]] in [[r/_rank|rank]], [[q/_quality|quality]], [[p/_precedence|precedence]], [[p/_position|position]], [[s/_status|status]], or [[a/_authority|authority]].**
 - **The [[p/_place|place]] that is [[n/_next|next]] [[b/_below|below]] or [[a/_after|after]] [[f/_first|first]] in a [[r/_race|race]] or [[c/_contest|contest]].**
-- **(usually in the [[p/_plural|plural]]) A [[m/_manufactured|manufactured]] [[i/_item|item]] that, though still usable, [[f/_fails|fails]] to [[m/_meet|meet]] [[q/_quality|quality]] [[c/_control|control]] standards.**
+- **(usually in the [[p/_plural|plural]]) A [[m/_manufactured|manufactured]] [[i/_item|item]] that, though [[s/_still|still]] usable, [[f/_fails|fails]] to [[m/_meet|meet]] [[q/_quality|quality]] [[c/_control|control]] [[s/_standards|standards]].**
 	- _Example: They were discounted because they contained blemishes, nicks or were otherwise factory seconds._
 - **(usually in the [[p/_plural|plural]]) An [[a/_additional|additional]] [[h/_helping|helping]] of [[f/_food|food]].**
 	- _Example: That was good barbecue. I hope I can get seconds._
@@ -24,7 +24,7 @@
 - **To [[c/_climb|climb]] [[a/_after|after]] a [[l/_lead|lead]] [[c/_climber|climber]].**
 ---
 #noun
-- **[[o/_one|One]]-[[s/_sixtieth|sixtieth]] of a [[m/_minute|minute]]; the [[s/_si|SI]] unit of time, [[d/_defined|defined]] as the [[d/_duration|duration]] of 9,192,631,770 [[p/_periods|periods]] of [[r/_radiation|radiation]] [[c/_corresponding|corresponding]] to the transition [[b/_between|between]] two [[h/_hyperfine|hyperfine]] [[l/_levels|levels]] of [[c/_caesium|caesium]]-133 in a [[g/_ground|ground]] state at a temperature of [[a/_absolute|absolute]] zero and at [[r/_rest|rest]].**
+- **[[o/_one|One]]-[[s/_sixtieth|sixtieth]] of a [[m/_minute|minute]]; the [[s/_si|SI]] unit of time, [[d/_defined|defined]] as the [[d/_duration|duration]] of 9,192,631,770 [[p/_periods|periods]] of [[r/_radiation|radiation]] [[c/_corresponding|corresponding]] to the transition [[b/_between|between]] two [[h/_hyperfine|hyperfine]] [[l/_levels|levels]] of [[c/_caesium|caesium]]-133 in a [[g/_ground|ground]] [[s/_state|state]] at a temperature of [[a/_absolute|absolute]] zero and at [[r/_rest|rest]].**
 - **A unit of [[a/_angle|angle]] [[e/_equal|equal]] to [[o/_one|one]]-[[s/_sixtieth|sixtieth]] of a [[m/_minute|minute]] of [[a/_arc|arc]] or [[o/_one|one]] [[p/_part|part]] in 3600 of a [[d/_degree|degree]].**
 - **A [[s/_short|short]], [[i/_indeterminate|indeterminate]] [[a/_amount|amount]] of time.**
 	- _Example: I'll be there in a second._

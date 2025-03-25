@@ -1,7 +1,7 @@
 # Agency
 ---
 #noun
-- **The [[c/_capacity|capacity]], [[c/_condition|condition]], or state of [[a/_acting|acting]] or of [[e/_exerting|exerting]] [[p/_power|power]].**
+- **The [[c/_capacity|capacity]], [[c/_condition|condition]], or [[s/_state|state]] of [[a/_acting|acting]] or of [[e/_exerting|exerting]] [[p/_power|power]].**
 - **The [[c/_capacity|capacity]] of [[i/_individuals|individuals]] to [[a/_act|act]] [[i/_independently|independently]] and to [[m/_make|make]] their [[o/_own|own]] [[f/_free|free]] [[c/_choices|choices]].**
 	- _Example: individual agency_
 - **A [[m/_medium|medium]] through which [[p/_power|power]] is [[e/_exerted|exerted]] or an [[e/_end|end]] is [[a/_achieved|achieved]].**

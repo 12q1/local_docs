@@ -5,7 +5,7 @@
 - **The [[d/_distance|distance]] traversed by a [[l/_leap|leap]] or [[j/_jump|jump]].**
 - **A [[g/_group|group]] of [[l/_leopards|leopards]].**
 - **A [[s/_significant|significant]] [[m/_move|move]] [[f/_forward|forward]].**
-- **A [[l/_large|large]] step in [[r/_reasoning|reasoning]], [[o/_often|often]] [[o/_one|one]] that is not [[j/_justified|justified]] by the [[f/_facts|facts]].**
+- **A [[l/_large|large]] [[s/_step|step]] in [[r/_reasoning|reasoning]], [[o/_often|often]] [[o/_one|one]] that is not [[j/_justified|justified]] by the [[f/_facts|facts]].**
 	- _Example: It's quite a leap to claim that those cloud formations are evidence of UFOs._
 - **A [[f/_fault|fault]].**
 - **[[c/_copulation|Copulation]] with, or [[c/_coverture|coverture]] of, a [[f/_female|female]] [[b/_beast|beast]].**

@@ -4,8 +4,8 @@
 - **A [[h/_higher|higher]] than [[n/_normal|normal]] [[b/_body|body]] temperature of a [[p/_person|person]] (or, [[g/_generally|generally]], a [[m/_mammal|mammal]]), usually [[c/_caused|caused]] by [[d/_disease|disease]].**
 	- _Example: "I have a fever. I think I've the flu."_
 - **(usually in [[c/_combination|combination]] with [[o/_one|one]] or [[m/_more|more]] [[p/_preceding|preceding]] words) [[a/_any|Any]] of various [[d/_diseases|diseases]].**
-- **A state of [[e/_excitement|excitement]] or [[a/_anxiety|anxiety]].**
-- **A [[g/_group|group]] of stingrays.**
+- **A [[s/_state|state]] of [[e/_excitement|excitement]] or [[a/_anxiety|anxiety]].**
+- **A [[g/_group|group]] of [[s/_stingrays|stingrays]].**
 ---
 ### Synonyms
 - [[e/_excitation|excitation]], [[e/_excitement|excitement]], [[p/_passion|passion]], [[p/_pyrexia|pyrexia]], [[t/_temperature|temperature]]

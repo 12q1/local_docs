@@ -24,6 +24,6 @@
 - **To [[c/_cause|cause]] (a [[s/_schedule|schedule]] or [[r/_release|release]], [[e/_etc|etc]].) to [[g/_go|go]], or [[l/_let|let]] it [[g/_go|go]], [[b/_beyond|beyond]] the [[a/_allotted|allotted]] [[d/_deadline|deadline]].**
 ---
 #adjective
-- **(of a [[p/_plant|plant]]) With [[p/_part|part]] of the stalk [[d/_displayed|displayed]].**
+- **(of a [[p/_plant|plant]]) With [[p/_part|part]] of the [[s/_stalk|stalk]] [[d/_displayed|displayed]].**
 ---
 ---

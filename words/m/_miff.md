@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_small|small]] [[a/_argument|argument]]; a [[q/_quarrel|quarrel]].**
-- **A state of [[b/_being|being]] [[o/_offended|offended]].**
+- **A [[s/_state|state]] of [[b/_being|being]] [[o/_offended|offended]].**
 ---
 ### Synonyms
 - [[t/_tiff|tiff]]

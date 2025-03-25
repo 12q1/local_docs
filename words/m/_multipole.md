@@ -1,6 +1,6 @@
 # Multipole
 ---
 #noun
-- **[[a/_any|Any]] of a [[s/_several|several]] [[f/_forms|forms]] of static or [[o/_oscillating|oscillating]] [[d/_distributions|distributions]] of [[c/_charge|charge]] or [[m/_magnetization|magnetization]]**
+- **[[a/_any|Any]] of a [[s/_several|several]] [[f/_forms|forms]] of [[s/_static|static]] or [[o/_oscillating|oscillating]] [[d/_distributions|distributions]] of [[c/_charge|charge]] or [[m/_magnetization|magnetization]]**
 ---
 ---

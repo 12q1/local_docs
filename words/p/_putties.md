@@ -1,7 +1,7 @@
 # Putties
 ---
 #noun
-- **A strip of [[c/_cloth|cloth]] wound [[r/_round|round]] the [[l/_leg|leg]], worn for [[p/_protection|protection]] or support by [[h/_hikers|hikers]], [[s/_soldiers|soldiers]] [[e/_etc|etc]].**
+- **A [[s/_strip|strip]] of [[c/_cloth|cloth]] wound [[r/_round|round]] the [[l/_leg|leg]], worn for [[p/_protection|protection]] or support by [[h/_hikers|hikers]], [[s/_soldiers|soldiers]] [[e/_etc|etc]].**
 ---
 #noun
 - **A [[f/_form|form]] of [[c/_cement|cement]], [[m/_made|made]] from [[l/_linseed|linseed]] [[o/_oil|oil]] and whiting, used to [[f/_fix|fix]] [[p/_panes|panes]] of [[g/_glass|glass]].**

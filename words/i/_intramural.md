@@ -1,7 +1,7 @@
 # Intramural
 ---
 #noun
-- **A (usually sports) [[c/_competition|competition]] [[b/_between|between]] teams [[b/_belonging|belonging]] to the [[s/_same|same]] [[s/_school|school]].**
+- **A (usually [[s/_sports|sports]]) [[c/_competition|competition]] [[b/_between|between]] teams [[b/_belonging|belonging]] to the [[s/_same|same]] [[s/_school|school]].**
 ---
 #adjective
 - **Within the walls; within [[o/_one|one]] [[i/_institution|institution]], [[p/_particularly|particularly]] a [[s/_school|school]].**

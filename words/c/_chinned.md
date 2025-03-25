@@ -13,7 +13,7 @@
 ### Synonyms
 - [[g/_gab|gab]]
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] [[s/_some|some]] specific type of [[c/_chin|chin]] or [[n/_number|number]] of [[c/_chins|chins]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] [[s/_some|some]] [[s/_specific|specific]] type of [[c/_chin|chin]] or [[n/_number|number]] of [[c/_chins|chins]].**
 	- _Example: a double-chinned woman_
 ---
 ---

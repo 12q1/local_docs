@@ -3,7 +3,7 @@
 #noun
 - **[[b/_brightness|Brightness]] from a [[s/_source|source]] of [[l/_light|light]].**
 - **[[b/_brightness|Brightness]] from [[r/_reflected|reflected]] [[l/_light|light]].**
-- **[[e/_excellence|Excellence]] in [[q/_quality|quality]] or [[a/_appearance|appearance]]; splendour.**
+- **[[e/_excellence|Excellence]] in [[q/_quality|quality]] or [[a/_appearance|appearance]]; [[s/_splendour|splendour]].**
 - **[[s/_shoeshine|Shoeshine]].**
 - **Sunshine.**
 - **[[m/_moonshine|Moonshine]]; [[i/_illicitly|illicitly]] [[b/_brewed|brewed]] [[a/_alcoholic|alcoholic]] [[d/_drink|drink]].**
@@ -19,7 +19,7 @@
 - **To [[r/_reflect|reflect]] [[l/_light|light]].**
 - **To [[d/_distinguish|distinguish]] [[o/_oneself|oneself]]; to [[e/_excel|excel]].**
 	- _Example: My nephew tried other sports before deciding on football, which he shone at right away, quickly becoming the star of his school team._
-- **To be [[e/_effulgent|effulgent]] in splendour or [[b/_beauty|beauty]].**
+- **To be [[e/_effulgent|effulgent]] in [[s/_splendour|splendour]] or [[b/_beauty|beauty]].**
 - **To be [[e/_eminent|eminent]], [[c/_conspicuous|conspicuous]], or [[d/_distinguished|distinguished]]; to [[e/_exhibit|exhibit]] [[b/_brilliant|brilliant]] [[i/_intellectual|intellectual]] [[p/_powers|powers]].**
 - **To be [[i/_immediately|immediately]] [[a/_apparent|apparent]].**
 - **To [[c/_create|create]] [[l/_light|light]] with (a [[f/_flashlight|flashlight]], [[l/_lamp|lamp]], torch, or [[s/_similar|similar]]).**

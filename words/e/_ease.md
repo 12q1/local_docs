@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_ability|Ability]], the [[m/_means|means]] to [[d/_do|do]] [[s/_something|something]], [[p/_particularly|particularly]]:**
-- **[[c/_comfort|Comfort]], a state or [[q/_quality|quality]] [[l/_lacking|lacking]] unpleasantness, [[p/_particularly|particularly]]:**
+- **[[c/_comfort|Comfort]], a [[s/_state|state]] or [[q/_quality|quality]] [[l/_lacking|lacking]] unpleasantness, [[p/_particularly|particularly]]:**
 - **[[r/_relief|Relief]], an [[e/_end|end]] to [[d/_discomfort|discomfort]], [[p/_particularly|particularly]]:**
 - **A [[c/_convenience|convenience]]; a [[l/_luxury|luxury]].**
 - **A [[r/_relief|relief]]; an [[e/_easement|easement]].**

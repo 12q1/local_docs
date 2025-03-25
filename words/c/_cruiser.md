@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[o/_one|One]] who [[a/_attends|attends]] [[c/_cruises|cruises]].**
-- **A [[k/_kind|kind]] of [[b/_bicycle|bicycle]] that usually [[c/_combines|combines]] [[b/_balloon|balloon]] tires, an upright [[s/_seating|seating]] [[p/_posture|posture]], a [[s/_single|single]]-speed drivetrain, and straightforward steel [[c/_construction|construction]] with [[e/_expressive|expressive]] styling.**
+- **A [[k/_kind|kind]] of [[b/_bicycle|bicycle]] that usually [[c/_combines|combines]] [[b/_balloon|balloon]] tires, an upright [[s/_seating|seating]] [[p/_posture|posture]], a [[s/_single|single]]-[[s/_speed|speed]] drivetrain, and [[s/_straightforward|straightforward]] [[s/_steel|steel]] [[c/_construction|construction]] with [[e/_expressive|expressive]] [[s/_styling|styling]].**
 - **(in the [[d/_days|days]] of [[s/_sail|sail]]) A [[f/_frigate|frigate]] or [[o/_other|other]] vessel, [[d/_detached|detached]] from the [[f/_fleet|fleet]], to [[c/_cruise|cruise]] [[i/_independently|independently]] in [[s/_search|search]] of the [[e/_enemy|enemy]] or [[i/_its|its]] [[m/_merchant|merchant]] [[s/_ships|ships]].**
 - **A [[c/_class|class]] of [[f/_fast|fast]] warships of [[m/_medium|medium]] tonnage, [[h/_having|having]] a [[l/_long|long]] [[c/_cruising|cruising]] [[r/_range|range]] but [[l/_less|less]] [[a/_armour|armour]] and [[f/_firepower|firepower]] than a [[b/_battleship|battleship]].**
 - **A [[m/_miniature|miniature]] [[a/_aircraft|aircraft]] [[c/_carrier|carrier]] [[c/_carrying|carrying]] VTOL [[a/_aircraft|aircraft]].**

@@ -23,7 +23,7 @@
 	- _Example: I'm very attached to my pets._
 - **In a [[r/_romantic|romantic]] or [[s/_sexual|sexual]] [[r/_relationship|relationship]].**
 	- _Example: As far as I know, he isn't attached, so I'm going to invite him out on a date._
-- **[[b/_broadly|Broadly]] [[j/_joined|joined]] to a stem or stipe, but not [[d/_decurrent|decurrent]].**
+- **[[b/_broadly|Broadly]] [[j/_joined|joined]] to a [[s/_stem|stem]] or [[s/_stipe|stipe]], but not [[d/_decurrent|decurrent]].**
 	- _Example: In this group of mushrooms, the attachment of the gills to the stipe ranges from attached to almost decurrent._
 - **Of a [[r/_residential|residential]] [[b/_building|building]], [[s/_sharing|sharing]] walls with [[s/_similar|similar]] [[b/_buildings|buildings]] on two, usually [[o/_opposite|opposite]], [[s/_sides|sides]].**
 ---

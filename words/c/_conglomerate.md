@@ -12,6 +12,6 @@
 #adjective
 - **[[c/_clustered|Clustered]] together [[i/_into|into]] a [[m/_mass|mass]].**
 	- _Example: conglomerate flowers_
-- **[[c/_composed|Composed]] of [[f/_fragments|fragments]] of [[r/_rock|rock]], [[p/_pebbles|pebbles]], or stones [[c/_cemented|cemented]] together.**
+- **[[c/_composed|Composed]] of [[f/_fragments|fragments]] of [[r/_rock|rock]], [[p/_pebbles|pebbles]], or [[s/_stones|stones]] [[c/_cemented|cemented]] together.**
 ---
 ---

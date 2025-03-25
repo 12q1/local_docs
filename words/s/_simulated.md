@@ -5,6 +5,6 @@
 	- _Example: We will use a smoke machine to simulate the fog you will actually encounter._
 ---
 #adjective
-- **[[i/_invented|Invented]] in [[i/_imitation|imitation]] of a [[p/_particular|particular]] thing or of a specific [[c/_condition|condition]]; [[a/_artificial|artificial]].**
+- **[[i/_invented|Invented]] in [[i/_imitation|imitation]] of a [[p/_particular|particular]] thing or of a [[s/_specific|specific]] [[c/_condition|condition]]; [[a/_artificial|artificial]].**
 ---
 ---

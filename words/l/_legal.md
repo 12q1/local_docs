@@ -4,7 +4,7 @@
 - **The [[l/_legal|legal]] [[d/_department|department]] of a [[c/_company|company]].**
 	- _Example: Legal wants this in writing._
 - **[[p/_paper|Paper]] in [[s/_sheets|sheets]] 8½ in × 14 in (215.9 [[m/_mm|mm]] × 355.6 [[m/_mm|mm]]).**
-- **A spy who is [[a/_attached|attached]] to, and [[o/_ostensibly|ostensibly]] [[e/_employed|employed]] by, an [[e/_embassy|embassy]], [[m/_military|military]] [[o/_outpost|outpost]], [[e/_etc|etc]].**
+- **A [[s/_spy|spy]] who is [[a/_attached|attached]] to, and [[o/_ostensibly|ostensibly]] [[e/_employed|employed]] by, an [[e/_embassy|embassy]], [[m/_military|military]] [[o/_outpost|outpost]], [[e/_etc|etc]].**
 - **[[s/_somebody|Somebody]] who [[i/_immigrated|immigrated]] [[l/_lawfully|lawfully]].**
 ---
 ### Antonyms

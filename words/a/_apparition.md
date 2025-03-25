@@ -5,7 +5,7 @@
 - **The thing [[a/_appearing|appearing]]; a visible [[o/_object|object]]; a [[f/_form|form]].**
 - **An unexpected, wonderful, or [[p/_preternatural|preternatural]] [[a/_appearance|appearance]]; [[e/_especially|especially]] [[s/_something|something]] such as a [[g/_ghost|ghost]] or [[p/_phantom|phantom]].**
 	- _Example: The attic is haunted by the ghostly apparition of a young girl who died there._
-- **The [[f/_first|first]] [[a/_appearance|appearance]] of a star or [[o/_other|other]] [[l/_luminary|luminary]] [[a/_after|after]] [[h/_having|having]] [[b/_been|been]] [[i/_invisible|invisible]] or [[o/_obscured|obscured]]; [[o/_opposed|opposed]] to [[o/_occultation|occultation]].**
+- **The [[f/_first|first]] [[a/_appearance|appearance]] of a [[s/_star|star]] or [[o/_other|other]] [[l/_luminary|luminary]] [[a/_after|after]] [[h/_having|having]] [[b/_been|been]] [[i/_invisible|invisible]] or [[o/_obscured|obscured]]; [[o/_opposed|opposed]] to [[o/_occultation|occultation]].**
 - **A [[p/_period|period]] of [[c/_consecutive|consecutive]] [[d/_days|days]] or [[n/_nights|nights]] when a [[p/_particular|particular]] [[c/_celestial|celestial]] [[b/_body|body]] [[m/_may|may]] be [[o/_observed|observed]], [[b/_beginning|beginning]] with the [[h/_heliacal|heliacal]] [[r/_rising|rising]] of the [[b/_body|body]] and [[e/_ending|ending]] with [[i/_its|its]] [[h/_heliacal|heliacal]] [[s/_setting|setting]].**
 ---
 ### Synonyms

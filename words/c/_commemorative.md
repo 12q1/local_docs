@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[o/_object|object]] [[m/_made|made]] to [[c/_commemorate|commemorate]] a [[p/_person|person]], [[m/_mark|mark]] an [[e/_event|event]], [[e/_etc|etc]].**
-- **A [[p/_postage|postage]] stamp [[i/_issued|issued]] to [[c/_commemorate|commemorate]], usually a [[p/_person|person]] or [[e/_event|event]]; [[a/_also|also]] [[c/_commonly|commonly]] [[a/_applied|applied]] to thematic (topical) stamp [[i/_issues|issues]].**
+- **A [[p/_postage|postage]] [[s/_stamp|stamp]] [[i/_issued|issued]] to [[c/_commemorate|commemorate]], usually a [[p/_person|person]] or [[e/_event|event]]; [[a/_also|also]] [[c/_commonly|commonly]] [[a/_applied|applied]] to thematic (topical) [[s/_stamp|stamp]] [[i/_issues|issues]].**
 ---
 #adjective
 - **[[s/_serving|Serving]] to [[c/_commemorate|commemorate]] [[s/_something|something]].**

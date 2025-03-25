@@ -1,7 +1,7 @@
 # Scales
 ---
 #noun
-- **A [[l/_ladder|ladder]]; a [[s/_series|series]] of steps; a [[m/_means|means]] of [[a/_ascending|ascending]].**
+- **A [[l/_ladder|ladder]]; a [[s/_series|series]] of [[s/_steps|steps]]; a [[m/_means|means]] of [[a/_ascending|ascending]].**
 - **An [[o/_ordered|ordered]], usually [[n/_numerical|numerical]] [[s/_sequence|sequence]] used for [[m/_measurement|measurement]], [[m/_means|means]] of [[a/_assigning|assigning]] a [[m/_magnitude|magnitude]].**
 	- _Example: Please rate your experience on a scale from 1 to 10._
 - **[[s/_size|Size]]; [[s/_scope|scope]].**
@@ -12,8 +12,8 @@
 - **A [[s/_series|series]] of [[n/_notes|notes]] [[s/_spanning|spanning]] an [[o/_octave|octave]], tritave, or [[p/_pseudo|pseudo]]-[[o/_octave|octave]], used to [[m/_make|make]] [[m/_melodies|melodies]].**
 - **A [[m/_mathematical|mathematical]] [[b/_base|base]] for a [[n/_numeral|numeral]] [[s/_system|system]]; [[r/_radix|radix]].**
 	- _Example: the decimal scale; the binary scale_
-- **[[g/_gradation|Gradation]]; succession of [[a/_ascending|ascending]] and [[d/_descending|descending]] steps and [[d/_degrees|degrees]]; [[p/_progressive|progressive]] [[s/_series|series]]; [[s/_scheme|scheme]] of [[c/_comparative|comparative]] [[r/_rank|rank]] or [[o/_order|order]].**
-- **A standard [[a/_amount|amount]] of [[m/_money|money]] to be [[r/_received|received]] by a [[p/_performer|performer]] or writer, [[n/_negotiated|negotiated]] by a union.**
+- **[[g/_gradation|Gradation]]; succession of [[a/_ascending|ascending]] and [[d/_descending|descending]] [[s/_steps|steps]] and [[d/_degrees|degrees]]; [[p/_progressive|progressive]] [[s/_series|series]]; [[s/_scheme|scheme]] of [[c/_comparative|comparative]] [[r/_rank|rank]] or [[o/_order|order]].**
+- **A [[s/_standard|standard]] [[a/_amount|amount]] of [[m/_money|money]] to be [[r/_received|received]] by a [[p/_performer|performer]] or writer, [[n/_negotiated|negotiated]] by a union.**
 	- _Example: Sally wasn't the star of the show, so she was glad to be paid scale._
 ---
 #verb
@@ -41,12 +41,12 @@
 	- _Example: Please scale that fish for dinner._
 - **To [[b/_become|become]] [[s/_scaly|scaly]]; to [[p/_produce|produce]] or [[d/_develop|develop]] [[s/_scales|scales]].**
 	- _Example: The dry weather is making my skin scale._
-- **To strip or [[c/_clear|clear]] of [[s/_scale|scale]]; to [[d/_descale|descale]].**
+- **To [[s/_strip|strip]] or [[c/_clear|clear]] of [[s/_scale|scale]]; to [[d/_descale|descale]].**
 	- _Example: to scale the inside of a boiler_
 - **To take [[o/_off|off]] in thin [[l/_layers|layers]] or [[s/_scales|scales]], as tartar from the teeth; to [[p/_pare|pare]] [[o/_off|off]], as a surface.**
 - **To [[s/_separate|separate]] and [[c/_come|come]] [[o/_off|off]] in thin [[l/_layers|layers]] or [[l/_laminae|laminae]].**
 	- _Example: Some sandstone scales by exposure._
-- **To [[s/_scatter|scatter]]; to spread.**
+- **To [[s/_scatter|scatter]]; to [[s/_spread|spread]].**
 - **To [[c/_clean|clean]], as the [[i/_inside|inside]] of a [[c/_cannon|cannon]], by the [[e/_explosion|explosion]] of a [[s/_small|small]] [[q/_quantity|quantity]] of [[p/_powder|powder]].**
 ---
 ### Synonyms

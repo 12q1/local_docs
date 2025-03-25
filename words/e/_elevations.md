@@ -4,7 +4,7 @@
 - **The [[a/_act|act]] of [[r/_raising|raising]] from a [[l/_lower|lower]] [[p/_place|place]], [[c/_condition|condition]], or [[q/_quality|quality]] to a [[h/_higher|higher]]; [[s/_said|said]] of [[m/_material|material]] things, [[p/_persons|persons]], the [[m/_mind|mind]], the voice, [[e/_etc|etc]].**
 	- _Example: the elevation of grain; elevation to a throne; elevation to sainthood; elevation of mind, thoughts, or character_
 - **The [[c/_condition|condition]] of [[b/_being|being]] or [[f/_feeling|feeling]] [[e/_elevated|elevated]]; [[h/_heightened|heightened]]; [[e/_exaltation|exaltation]].**
-- **That which is [[r/_raised|raised]] up or [[e/_elevated|elevated]]; an [[e/_elevated|elevated]] [[p/_place|place]] or station.**
+- **That which is [[r/_raised|raised]] up or [[e/_elevated|elevated]]; an [[e/_elevated|elevated]] [[p/_place|place]] or [[s/_station|station]].**
 	- _Example: A hill is an elevation of the ground._
 - **The [[d/_distance|distance]] of a [[c/_celestial|celestial]] [[o/_object|object]] [[a/_above|above]] the [[h/_horizon|horizon]], or the [[a/_arc|arc]] of a vertical [[c/_circle|circle]] [[i/_intercepted|intercepted]] [[b/_between|between]] it and the [[h/_horizon|horizon]]; [[a/_altitude|altitude]].**
 	- _Example: the elevation of the pole, or of a star_

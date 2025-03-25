@@ -7,26 +7,26 @@
 - **The [[c/_curved|curved]] [[n/_needle|needle]] used in the [[a/_art|art]] of [[c/_crochet|crochet]].**
 - **The [[p/_part|part]] of a [[h/_hinge|hinge]] which is [[f/_fixed|fixed]] to a [[p/_post|post]], and on which a [[d/_door|door]] or [[g/_gate|gate]] [[h/_hangs|hangs]] and turns.**
 - **A [[l/_loop|loop]] [[s/_shaped|shaped]] [[l/_like|like]] a [[h/_hook|hook]] under [[c/_certain|certain]] written [[l/_letters|letters]], for [[e/_example|example]], [[g/_g|g]] and [[j/_j|j]].**
-- **A tie-in to a [[c/_current|current]] [[e/_event|event]] or trend that [[m/_makes|makes]] a [[n/_news|news]] story or [[e/_editorial|editorial]] [[r/_relevant|relevant]] and timely.**
+- **A tie-in to a [[c/_current|current]] [[e/_event|event]] or trend that [[m/_makes|makes]] a [[n/_news|news]] [[s/_story|story]] or [[e/_editorial|editorial]] [[r/_relevant|relevant]] and timely.**
 - **A [[s/_snare|snare]]; a trap.**
 - **(in the [[p/_plural|plural]]) The [[p/_projecting|projecting]] [[p/_points|points]] of the thighbones of [[c/_cattle|cattle]]; [[c/_called|called]] [[a/_also|also]] [[h/_hook|hook]] [[b/_bones|bones]].**
 - **[[r/_removal|Removal]] or [[e/_expulsion|expulsion]] from a [[g/_group|group]] or [[a/_activity|activity]]**
 	- _Example: He is not handling this job, so we're giving him the hook._
 - **A [[f/_field|field]] [[s/_sown|sown]] two [[y/_years|years]] in succession.**
-- **([[a/_authorship|authorship]]) A [[b/_brief|brief]], [[p/_punchy|punchy]] [[o/_opening|opening]] statement [[i/_intended|intended]] to [[g/_get|get]] [[a/_attention|attention]] from an [[a/_audience|audience]], [[r/_reader|reader]], or viewer, and [[m/_make|make]] them want to [[c/_continue|continue]] to [[l/_listen|listen]] to a speech, [[r/_read|read]] a [[b/_book|book]], or watch a [[p/_play|play]].**
-- **([[a/_authorship|authorship]]) A [[g/_gimmick|gimmick]] or [[e/_element|element]] of a [[c/_creative|creative]] work [[i/_intended|intended]] to be [[a/_attention|attention]]-[[g/_grabbing|grabbing]] for the [[a/_audience|audience]]; a [[c/_compelling|compelling]] [[i/_idea|idea]] for a story that will be sure to [[a/_attract|attract]] [[p/_people|people]]'[[s/_s|s]] [[a/_attention|attention]].**
+- **([[a/_authorship|authorship]]) A [[b/_brief|brief]], [[p/_punchy|punchy]] [[o/_opening|opening]] [[s/_statement|statement]] [[i/_intended|intended]] to [[g/_get|get]] [[a/_attention|attention]] from an [[a/_audience|audience]], [[r/_reader|reader]], or viewer, and [[m/_make|make]] them want to [[c/_continue|continue]] to [[l/_listen|listen]] to a [[s/_speech|speech]], [[r/_read|read]] a [[b/_book|book]], or watch a [[p/_play|play]].**
+- **([[a/_authorship|authorship]]) A [[g/_gimmick|gimmick]] or [[e/_element|element]] of a [[c/_creative|creative]] work [[i/_intended|intended]] to be [[a/_attention|attention]]-[[g/_grabbing|grabbing]] for the [[a/_audience|audience]]; a [[c/_compelling|compelling]] [[i/_idea|idea]] for a [[s/_story|story]] that will be sure to [[a/_attract|attract]] [[p/_people|people]]'[[s/_s|s]] [[a/_attention|attention]].**
 - **A [[f/_finesse|finesse]].**
 - **A [[j/_jack|jack]] (the [[p/_playing|playing]] [[c/_card|card]]).**
-- **A spit or [[n/_narrow|narrow]] [[c/_cape|cape]] of [[s/_sand|sand]] or [[g/_gravel|gravel]] turned [[l/_landward|landward]] at the [[o/_outer|outer]] [[e/_end|end]], such as [[s/_sandy|Sandy]] [[h/_hook|Hook]] in [[n/_new|New]] [[j/_jersey|Jersey]].**
+- **A [[s/_spit|spit]] or [[n/_narrow|narrow]] [[c/_cape|cape]] of [[s/_sand|sand]] or [[g/_gravel|gravel]] turned [[l/_landward|landward]] at the [[o/_outer|outer]] [[e/_end|end]], such as [[s/_sandy|Sandy]] [[h/_hook|Hook]] in [[n/_new|New]] [[j/_jersey|Jersey]].**
 - **A [[c/_catchy|catchy]] [[m/_musical|musical]] [[p/_phrase|phrase]] which [[f/_forms|forms]] the [[b/_basis|basis]] of a [[p/_popular|popular]] [[s/_song|song]].**
 	- _Example: The song's hook snared me._
 - **A [[s/_ship|ship]]'[[s/_s|s]] [[a/_anchor|anchor]].**
 - **[[p/_part|Part]] of a [[s/_system|system]]'[[s/_s|s]] [[o/_operation|operation]] that [[c/_can|can]] be [[i/_intercepted|intercepted]] to [[c/_change|change]] or [[a/_augment|augment]] [[i/_its|its]] [[b/_behaviour|behaviour]].**
 	- _Example: We've added hooks to allow undefined message types to be handled with custom code._
-- **([[s/_scrabble|Scrabble]]) An [[i/_instance|instance]] of [[p/_playing|playing]] a word [[p/_perpendicular|perpendicular]] to a word [[a/_already|already]] on the [[b/_board|board]], [[a/_adding|adding]] a [[l/_letter|letter]] to the start or the [[e/_end|end]] of the word to [[f/_form|form]] a [[n/_new|new]] word.**
+- **([[s/_scrabble|Scrabble]]) An [[i/_instance|instance]] of [[p/_playing|playing]] a word [[p/_perpendicular|perpendicular]] to a word [[a/_already|already]] on the [[b/_board|board]], [[a/_adding|adding]] a [[l/_letter|letter]] to the [[s/_start|start]] or the [[e/_end|end]] of the word to [[f/_form|form]] a [[n/_new|new]] word.**
 - **A [[d/_diacritical|diacritical]] [[m/_mark|mark]] [[s/_shaped|shaped]] [[l/_like|like]] the upper [[p/_part|part]] of a [[q/_question|question]] [[m/_mark|mark]], as in ỏ.**
 - **A [[h/_h|h]]áček.**
-- **[[s/_senses|Senses]] [[r/_relating|relating]] to sports.**
+- **[[s/_senses|Senses]] [[r/_relating|relating]] to [[s/_sports|sports]].**
 ---
 #verb
 - **To [[a/_attach|attach]] a [[h/_hook|hook]] to.**
@@ -38,14 +38,14 @@
 	- _Example: He hooked his fingers through his belt loops._
 - **To [[e/_ensnare|ensnare]] or [[o/_obligate|obligate]] [[s/_someone|someone]], as [[i/_if|if]] with a [[h/_hook|hook]].**
 	- _Example: A free trial is a good way to hook customers._
-- **To steal.**
+- **To [[s/_steal|steal]].**
 - **To [[c/_connect|connect]] ([[h/_hook|hook]] [[i/_into|into]], [[h/_hook|hook]] together).**
 	- _Example: If you hook your network cable into the jack, you'll be on the network._
 - **(usually in [[p/_passive|passive]]) To [[m/_make|make]] [[a/_addicted|addicted]]; to [[c/_captivate|captivate]].**
 	- _Example: He had gotten hooked on cigarettes in his youth._
 - **To [[p/_play|play]] a [[h/_hook|hook]] [[s/_shot|shot]].**
 - **To succeed in [[h/_heeling|heeling]] the [[b/_ball|ball]] [[b/_back|back]] [[o/_out|out]] of a [[s/_scrum|scrum]] (used [[p/_particularly|particularly]] of the team'[[s/_s|s]] [[d/_designated|designated]] [[h/_hooker|hooker]]).**
-- **To [[e/_engage|engage]] in the [[i/_illegal|illegal]] [[m/_maneuver|maneuver]] of [[h/_hooking|hooking]] ([[i/_i|i]].[[e/_e|e]]., using the [[h/_hockey|hockey]] stick to trip or [[b/_block|block]] [[a/_another|another]] [[p/_player|player]])**
+- **To [[e/_engage|engage]] in the [[i/_illegal|illegal]] [[m/_maneuver|maneuver]] of [[h/_hooking|hooking]] ([[i/_i|i]].[[e/_e|e]]., using the [[h/_hockey|hockey]] [[s/_stick|stick]] to trip or [[b/_block|block]] [[a/_another|another]] [[p/_player|player]])**
 	- _Example: The opposing team's forward hooked me, but the referee didn't see it, so no penalty._
 - **To swerve a [[b/_ball|ball]]; [[k/_kick|kick]] a [[b/_ball|ball]] [[s/_so|so]] it swerves or [[b/_bends|bends]].**
 - **To [[e/_engage|engage]] in [[p/_prostitution|prostitution]].**

@@ -4,7 +4,7 @@
 - **[[s/_slender|Slender]], thin.**
 - **(of [[s/_something|something]] [[a/_abstract|abstract]] [[l/_like|like]] a [[c/_chance|chance]] or [[m/_margin|margin]]) Very [[s/_small|small]], tiny.**
 	- _Example: I'm afraid your chances are quite slim._
-- **([[r/_rural|rural]]) [[b/_bad|Bad]], of [[q/_questionable|questionable]] [[q/_quality|quality]]; not strongly [[b/_built|built]], [[f/_flimsy|flimsy]].**
+- **([[r/_rural|rural]]) [[b/_bad|Bad]], of [[q/_questionable|questionable]] [[q/_quality|quality]]; not [[s/_strongly|strongly]] [[b/_built|built]], [[f/_flimsy|flimsy]].**
 	- _Example: A slimly-shod lad;_
 - **[[s/_sly|Sly]], [[c/_crafty|crafty]].**
 ---

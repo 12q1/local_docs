@@ -1,7 +1,7 @@
 # Overstates
 ---
 #verb
-- **To [[e/_exaggerate|exaggerate]]; to state or [[c/_claim|claim]] too [[m/_much|much]].**
+- **To [[e/_exaggerate|exaggerate]]; to [[s/_state|state]] or [[c/_claim|claim]] too [[m/_much|much]].**
 	- _Example: He was suggested not to overstate at the interview._
 ---
 ### Synonyms

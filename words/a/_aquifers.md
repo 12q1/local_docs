@@ -1,7 +1,7 @@
 # Aquifers
 ---
 #noun
-- **An underground [[l/_layer|layer]] of water-[[b/_bearing|bearing]] [[p/_porous|porous]] stone, [[e/_earth|earth]], or [[g/_gravel|gravel]]**
+- **An underground [[l/_layer|layer]] of water-[[b/_bearing|bearing]] [[p/_porous|porous]] [[s/_stone|stone]], [[e/_earth|earth]], or [[g/_gravel|gravel]]**
 	- _Example: The water in the well came from an aquifer._
 ---
 ---

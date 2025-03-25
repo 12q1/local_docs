@@ -11,6 +11,6 @@
 - **The [[d/_distinctive|distinctive]] [[s/_sound|sound]] that a [[m/_male|male]] [[b/_bird|bird]] utters to [[a/_attract|attract]] a [[m/_mate|mate]] or to [[p/_protect|protect]] [[h/_his|his]] territory; [[c/_contrasts|contrasts]] with [[c/_call|call]]**
 - **A [[l/_low|low]] [[p/_price|price]], [[e/_especially|especially]] [[o/_one|one]] under the [[e/_expected|expected]] value; [[c/_chiefly|chiefly]] in for a [[s/_song|song]].**
 	- _Example: He bought that car for a song._
-- **An [[o/_object|object]] of [[d/_derision|derision]]; a [[l/_laughing|laughing]] stock.**
+- **An [[o/_object|object]] of [[d/_derision|derision]]; a [[l/_laughing|laughing]] [[s/_stock|stock]].**
 ---
 ---

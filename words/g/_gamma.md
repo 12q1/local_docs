@@ -9,7 +9,7 @@
 - **A [[s/_second|second]]-[[o/_order|order]] [[m/_measure|measure]] of [[d/_derivative|derivative]] [[p/_price|price]] [[s/_sensitivity|sensitivity]], [[e/_expressed|expressed]] as the [[r/_rate|rate]] of [[c/_change|change]] in [[d/_delta|delta]] with [[r/_respect|respect]] to [[c/_changes|changes]] in the underlying [[a/_asset|asset]] [[p/_price|price]].**
 ---
 #noun
-- **A [[n/_nonlinear|nonlinear]] [[o/_operation|operation]] used to [[e/_encode|encode]] and [[d/_decode|decode]] [[l/_luminance|luminance]] or tristimulus values in video or still [[i/_image|image]] [[s/_systems|systems]].**
+- **A [[n/_nonlinear|nonlinear]] [[o/_operation|operation]] used to [[e/_encode|encode]] and [[d/_decode|decode]] [[l/_luminance|luminance]] or tristimulus values in video or [[s/_still|still]] [[i/_image|image]] [[s/_systems|systems]].**
 ---
 ### Synonyms
 - [[g/_gamma|gamma]]

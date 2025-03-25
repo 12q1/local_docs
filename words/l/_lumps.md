@@ -1,7 +1,7 @@
 # Lumps
 ---
 #noun
-- **[[s/_something|Something]] that [[p/_protrudes|protrudes]], sticks [[o/_out|out]], or sticks together; a [[c/_cluster|cluster]] or [[b/_blob|blob]]; a [[m/_mound|mound]] or [[m/_mass|mass]] of [[n/_no|no]] [[p/_particular|particular]] [[s/_shape|shape]].**
+- **[[s/_something|Something]] that [[p/_protrudes|protrudes]], [[s/_sticks|sticks]] [[o/_out|out]], or [[s/_sticks|sticks]] together; a [[c/_cluster|cluster]] or [[b/_blob|blob]]; a [[m/_mound|mound]] or [[m/_mass|mass]] of [[n/_no|no]] [[p/_particular|particular]] [[s/_shape|shape]].**
 	- _Example: Stir the gravy until there are no more lumps._
 - **A [[g/_group|group]], [[s/_set|set]], or unit.**
 	- _Example: The money arrived all at once as one big lump sum payment._

@@ -7,7 +7,7 @@
 - **[[h/_having|Having]] the [[n/_necessary|necessary]] [[p/_powers|powers]] or the [[n/_needed|needed]] [[r/_resources|resources]] to [[a/_accomplish|accomplish]] a task.**
 - **[[f/_free|Free]] from [[c/_constraints|constraints]] [[p/_preventing|preventing]] [[c/_completion|completion]] of task; [[p/_permitted|permitted]] to; not [[p/_prevented|prevented]] from.**
 	- _Example: I’ll see you as soon as I’m able._
-- **[[h/_having|Having]] the [[p/_physical|physical]] strength; [[r/_robust|robust]]; [[h/_healthy|healthy]].**
+- **[[h/_having|Having]] the [[p/_physical|physical]] [[s/_strength|strength]]; [[r/_robust|robust]]; [[h/_healthy|healthy]].**
 	- _Example: After the past week of forced marches, only half the men are fully able._
 - **[[r/_rich|Rich]]; well-to-[[d/_do|do]].**
 	- _Example: He was born to an able family._

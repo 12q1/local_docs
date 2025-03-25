@@ -5,7 +5,7 @@
 	- _Example: a low wall  a low shelf_
 - **Of [[l/_less|less]] than [[n/_normal|normal]] [[h/_height|height]]; [[b/_below|below]] the [[a/_average|average]] or [[n/_normal|normal]] [[l/_level|level]] from which [[e/_elevation|elevation]] is [[m/_measured|measured]].**
 	- _Example: a low bow_
-- **Not [[h/_high|high]] in status, [[e/_esteem|esteem]] or [[r/_rank|rank]], [[d/_dignity|dignity]], or [[q/_quality|quality]]. ([[c/_compare|Compare]] vulgar.)**
+- **Not [[h/_high|high]] in [[s/_status|status]], [[e/_esteem|esteem]] or [[r/_rank|rank]], [[d/_dignity|dignity]], or [[q/_quality|quality]]. ([[c/_compare|Compare]] vulgar.)**
 	- _Example: Now that was low even for you!_
 - **[[h/_humble|Humble]], [[m/_meek|meek]], not [[h/_haughty|haughty]].**
 - **[[d/_disparaging|Disparaging]]; [[a/_assigning|assigning]] [[l/_little|little]] value or [[e/_excellence|excellence]].**
@@ -14,7 +14,7 @@
 	- _Example: the low point in her career_
 - **[[d/_depressed|Depressed]] in [[m/_mood|mood]], [[d/_dejected|dejected]], [[s/_sad|sad]].**
 	- _Example: low spirits_
-- **[[l/_lacking|Lacking]] [[h/_health|health]] or vitality, strength or vivacity; [[f/_feeble|feeble]]; weak.**
+- **[[l/_lacking|Lacking]] [[h/_health|health]] or vitality, [[s/_strength|strength]] or vivacity; [[f/_feeble|feeble]]; weak.**
 	- _Example: a low pulse_
 - **[[s/_small|Small]], not [[h/_high|high]] (in [[a/_amount|amount]] or [[q/_quantity|quantity]], value, [[f/_force|force]], [[e/_energy|energy]], [[e/_etc|etc]]).**
 	- _Example: My credit union charges a low interest rate.   Jogging during a whiteout, with such low temperatures and low visibility, is dangerous.   The store sold bread at low prices, and milk at even lower prices.   The contractors gave a low estimate of the costs.   low cholesterol   a low voltage wire   a low number_
@@ -30,7 +30,7 @@
 - **[[l/_lesser|Lesser]] in value than [[o/_other|other]] [[c/_cards|cards]], [[d/_denominations|denominations]], suits, [[e/_etc|etc]].**
 	- _Example: a low card_
 - **Not [[r/_rich|rich]] or [[s/_seasoned|seasoned]]; [[o/_offering|offering]] the [[m/_minimum|minimum]] of [[n/_nutritional|nutritional]] [[r/_requirements|requirements]]; [[p/_plain|plain]], [[s/_simple|simple]].**
-- **(of an [[a/_automobile|automobile]], [[g/_gear|gear]], [[e/_etc|etc]]) [[d/_designed|Designed]] for a [[s/_slow|slow]] (or the [[s/_slowest|slowest]]) speed.**
+- **(of an [[a/_automobile|automobile]], [[g/_gear|gear]], [[e/_etc|etc]]) [[d/_designed|Designed]] for a [[s/_slow|slow]] (or the [[s/_slowest|slowest]]) [[s/_speed|speed]].**
 	- _Example: low gear_
 ---
 ### Synonyms

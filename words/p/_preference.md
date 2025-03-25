@@ -5,8 +5,8 @@
 	- _Example: He has a preference for crisp wines._
 - **The [[o/_option|option]] to [[s/_so|so]] [[s/_select|select]], and the [[o/_one|one]] [[s/_selected|selected]].**
 	- _Example: Can I keep my preferences when I upgrade to the new version of this application?_
-- **The state of [[b/_being|being]] [[p/_preferred|preferred]] [[o/_over|over]] [[o/_others|others]].**
-- **A strong [[l/_liking|liking]] or [[p/_personal|personal]] valuation.**
+- **The [[s/_state|state]] of [[b/_being|being]] [[p/_preferred|preferred]] [[o/_over|over]] [[o/_others|others]].**
+- **A [[s/_strong|strong]] [[l/_liking|liking]] or [[p/_personal|personal]] valuation.**
 - **A [[p/_preferential|preferential]] [[b/_bias|bias]]; [[p/_partiality|partiality]]; [[d/_discrimination|discrimination]].**
 ---
 ### Synonyms

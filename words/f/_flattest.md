@@ -15,7 +15,7 @@
 - **(of a [[c/_carbonated|carbonated]] [[d/_drink|drink]]) With [[a/_all|all]] or [[m/_most|most]] of [[i/_its|its]] [[c/_carbon|carbon]] [[d/_dioxide|dioxide]] [[h/_having|having]] [[c/_come|come]] [[o/_out|out]] of [[s/_solution|solution]] [[s/_so|so]] that the [[d/_drink|drink]] [[n/_no|no]] [[l/_longer|longer]] [[f/_fizzes|fizzes]] or [[c/_contains|contains]] [[a/_any|any]] [[b/_bubbles|bubbles]].**
 - **[[l/_lacking|Lacking]] [[a/_acidity|acidity]] without [[b/_being|being]] sweet.**
 - **(of a [[b/_battery|battery]]) Unable to [[e/_emit|emit]] [[p/_power|power]]; [[d/_dead|dead]].**
-- **(of a throw) Without spin; spinless.**
+- **(of a throw) Without [[s/_spin|spin]]; [[s/_spinless|spinless]].**
 - **[[l/_lacking|Lacking]] [[l/_liveliness|liveliness]] or [[a/_action|action]]; [[d/_depressed|depressed]]; [[d/_dull|dull]] and [[b/_boring|boring]].**
 	- _Example: The dialogue in your screenplay is flat -- you need to make it more exciting._
 - **[[a/_absolute|Absolute]]; [[d/_downright|downright]]; [[p/_peremptory|peremptory]].**

@@ -1,8 +1,8 @@
 # Harangues
 ---
 #noun
-- **An [[i/_impassioned|impassioned]], [[d/_disputatious|disputatious]] [[p/_public|public]] speech.**
-- **A tirade, [[h/_harsh|harsh]] [[s/_scolding|scolding]] or [[r/_rant|rant]], whether spoken or written.**
+- **An [[i/_impassioned|impassioned]], [[d/_disputatious|disputatious]] [[p/_public|public]] [[s/_speech|speech]].**
+- **A tirade, [[h/_harsh|harsh]] [[s/_scolding|scolding]] or [[r/_rant|rant]], whether [[s/_spoken|spoken]] or written.**
 	- _Example: She gave her son a harangue about the dangers of playing in the street._
 ---
 ### Synonyms

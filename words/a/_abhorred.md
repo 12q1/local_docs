@@ -10,7 +10,7 @@
 - **[[d/_differ|Differ]] [[e/_entirely|entirely]] from.**
 ---
 #adjective
-- **Strongly [[d/_disliked|disliked]]: [[h/_hated|hated]], [[d/_despised|despised]].**
+- **[[s/_strongly|Strongly]] [[d/_disliked|disliked]]: [[h/_hated|hated]], [[d/_despised|despised]].**
 - **[[h/_horrified|Horrified]].**
 ---
 ---

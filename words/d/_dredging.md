@@ -7,7 +7,7 @@
 	- _Example: to dredge up someone's unsavoury past_
 ---
 #verb
-- **To sprinkle ([[f/_food|food]]) with spices or [[s/_seasonings|seasonings]], using a [[d/_dredge|dredge]].**
+- **To [[s/_sprinkle|sprinkle]] ([[f/_food|food]]) with [[s/_spices|spices]] or [[s/_seasonings|seasonings]], using a [[d/_dredge|dredge]].**
 	- _Example: Dredge the meat with the flour mixture you prepared earlier._
 ---
 #noun

@@ -11,11 +11,11 @@
 - **To [[a/_allow|allow]] by way of [[a/_abatement|abatement]] or [[d/_deduction|deduction]].**
 ---
 #verb
-- **To [[c/_contend|contend]] or strive with [[b/_blows|blows]] or [[a/_arguments|arguments]].**
+- **To [[c/_contend|contend]] or [[s/_strive|strive]] with [[b/_blows|blows]] or [[a/_arguments|arguments]].**
 - **Of a [[f/_falcon|falcon]]: To [[f/_flap|flap]] the wings vigorously; to [[b/_bait|bait]].**
 ---
 #verb
-- **To [[s/_soak|soak]] [[l/_leather|leather]] [[s/_so|so]] as to [[r/_remove|remove]] [[c/_chemicals|chemicals]] used in tanning; to steep in [[b/_bate|bate]].**
+- **To [[s/_soak|soak]] [[l/_leather|leather]] [[s/_so|so]] as to [[r/_remove|remove]] [[c/_chemicals|chemicals]] used in tanning; to [[s/_steep|steep]] in [[b/_bate|bate]].**
 ---
 #verb
 - **To [[m/_masturbate|masturbate]].**

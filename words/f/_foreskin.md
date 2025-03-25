@@ -8,6 +8,6 @@
 - [[p/_prepuce|prepuce]]
 #verb
 - **To [[r/_remove|remove]] the [[f/_foreskin|foreskin]]**
-- **To [[s/_sexually|sexually]] stimulate by [[m/_manipulating|manipulating]] the [[f/_foreskin|foreskin]].**
+- **To [[s/_sexually|sexually]] [[s/_stimulate|stimulate]] by [[m/_manipulating|manipulating]] the [[f/_foreskin|foreskin]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Snow
 ---
 #noun
-- **The [[f/_frozen|frozen]], [[c/_crystalline|crystalline]] state of water that [[f/_falls|falls]] as [[p/_precipitation|precipitation]].**
+- **The [[f/_frozen|frozen]], [[c/_crystalline|crystalline]] [[s/_state|state]] of water that [[f/_falls|falls]] as [[p/_precipitation|precipitation]].**
 - **[[a/_any|Any]] [[s/_similar|similar]] [[f/_frozen|frozen]] [[f/_form|form]] of a [[g/_gas|gas]] or [[l/_liquid|liquid]].**
 - **A [[s/_snowfall|snowfall]]; a [[b/_blanket|blanket]] of [[f/_frozen|frozen]], [[c/_crystalline|crystalline]] water.**
 	- _Example: We have had several heavy snows this year._

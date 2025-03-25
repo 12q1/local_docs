@@ -1,7 +1,7 @@
 # Parrot
 ---
 #noun
-- **A [[k/_kind|kind]] of [[b/_bird|bird]], [[m/_many|many]] species of which are [[c/_colourful|colourful]] and [[a/_able|able]] to [[m/_mimic|mimic]] [[h/_human|human]] speech, of the [[o/_order|order]] [[p/_psittaciformes|Psittaciformes]] or ([[n/_narrowly|narrowly]]) of the [[f/_family|family]] [[p/_psittacidae|Psittacidae]].**
+- **A [[k/_kind|kind]] of [[b/_bird|bird]], [[m/_many|many]] [[s/_species|species]] of which are [[c/_colourful|colourful]] and [[a/_able|able]] to [[m/_mimic|mimic]] [[h/_human|human]] [[s/_speech|speech]], of the [[o/_order|order]] [[p/_psittaciformes|Psittaciformes]] or ([[n/_narrowly|narrowly]]) of the [[f/_family|family]] [[p/_psittacidae|Psittacidae]].**
 	- _Example: I bought a wonderful parrot at the pet store._
 - **A [[p/_parroter|parroter]]; a [[p/_person|person]] who [[r/_repeats|repeats]] the words or [[i/_ideas|ideas]] of [[o/_others|others]].**
 	- _Example: What kind of a parrot are you? He just said that._

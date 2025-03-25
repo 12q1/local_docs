@@ -4,7 +4,7 @@
 - **To [[m/_make|make]] [[c/_clear|clear]] or [[e/_effective|effective]].**
 - **To [[s/_speak|speak]] [[c/_clearly|clearly]]; to [[e/_enunciate|enunciate]].**
 	- _Example: I wish he’d articulate his words more clearly._
-- **To [[e/_explain|explain]]; to [[p/_put|put]] [[i/_into|into]] words; to [[m/_make|make]] [[s/_something|something]] specific.**
+- **To [[e/_explain|explain]]; to [[p/_put|put]] [[i/_into|into]] words; to [[m/_make|make]] [[s/_something|something]] [[s/_specific|specific]].**
 	- _Example: I like this painting, but I can’t articulate why._
 - **To [[b/_bend|bend]] or [[h/_hinge|hinge]] [[s/_something|something]] at [[i/_intervals|intervals]], or to [[a/_allow|allow]] or [[b/_build|build]] [[s/_something|something]] [[s/_so|so]] that it [[c/_can|can]] [[b/_bend|bend]].**
 	- _Example: an articulated bus_

@@ -25,7 +25,7 @@
 - **A [[p/_particular|particular]] [[p/_portion|portion]] of [[s/_space|space]].**
 - **Sufficient [[s/_space|space]] for or to [[d/_do|do]] [[s/_something|something]].**
 - **A [[s/_space|space]] [[b/_between|between]] the timbers of a [[s/_ship|ship]]'[[s/_s|s]] [[f/_frame|frame]].**
-- **[[p/_place|Place]]; stead.**
+- **[[p/_place|Place]]; [[s/_stead|stead]].**
 - **A [[s/_separate|separate]] [[p/_part|part]] of a [[b/_building|building]], [[e/_enclosed|enclosed]] by walls, a [[f/_floor|floor]] and a [[c/_ceiling|ceiling]].**
 - **(with [[p/_possessive|possessive]] [[p/_pronoun|pronoun]]) ([[o/_one|One]]'[[s/_s|s]]) [[b/_bedroom|bedroom]].**
 	- _Example: Go to your room!_

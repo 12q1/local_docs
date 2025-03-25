@@ -16,6 +16,6 @@
 	- _Example: Ropings were a popular part of the rodeo show._
 ---
 #adjective
-- **[[r/_ropy|Ropy]]; stringy; [[g/_glutinous|glutinous]]**
+- **[[r/_ropy|Ropy]]; [[s/_stringy|stringy]]; [[g/_glutinous|glutinous]]**
 ---
 ---

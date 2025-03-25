@@ -12,7 +12,7 @@
 - **[[p/_perverse|Perverse]], [[r/_refractory|refractory]]; [[h/_headstrong|headstrong]], [[o/_obstinate|obstinate]]; [[c/_capricious|capricious]], [[s/_skittish|skittish]]; ([[a/_also|also]]) [[c/_coy|coy]].**
 - **[[s/_silly|Silly]], [[s/_senseless|senseless]], [[f/_foolish|foolish]].**
 - **[[b/_beside|Beside]] [[o/_oneself|oneself]]; [[o/_out|out]] of [[o/_one|one]]'[[s/_s|s]] [[s/_senses|senses]]; [[m/_mad|mad]].**
-- **Spiteful, [[m/_malignant|malignant]], [[m/_mischievous|mischievous]], [[h/_harmful|harmful]].**
+- **[[s/_spiteful|Spiteful]], [[m/_malignant|malignant]], [[m/_mischievous|mischievous]], [[h/_harmful|harmful]].**
 - **[[h/_hateful|Hateful]], [[d/_distasteful|distasteful]], [[h/_horrid|horrid]].**
 ---
 ---

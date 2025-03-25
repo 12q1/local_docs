@@ -1,7 +1,7 @@
 # Lumpenproletariat
 ---
 #noun
-- **The [[l/_lowest|lowest]] stratum of the [[p/_proletariat|proletariat]]**
+- **The [[l/_lowest|lowest]] [[s/_stratum|stratum]] of the [[p/_proletariat|proletariat]]**
 - **A [[s/_social|social]] underclass; the [[r/_riffraff|riffraff]]**
 ---
 ### Synonyms

@@ -13,6 +13,6 @@
 - **A [[p/_person|person]] who [[m/_models|models]] [[c/_clothes|clothes]]**
 ---
 #noun
-- **[[a/_any|Any]] of [[s/_several|several]] [[a/_asiatic|Asiatic]] [[p/_passerine|passerine]] [[b/_bird|bird]] species of the [[g/_genus|genus]] Lonchura.**
+- **[[a/_any|Any]] of [[s/_several|several]] [[a/_asiatic|Asiatic]] [[p/_passerine|passerine]] [[b/_bird|bird]] [[s/_species|species]] of the [[g/_genus|genus]] Lonchura.**
 ---
 ---

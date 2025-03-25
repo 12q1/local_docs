@@ -1,7 +1,7 @@
 # Gumbos
 ---
 #noun
-- **A [[s/_soup|soup]] or stew [[m/_made|made]] with [[o/_okra|okra]].**
+- **A [[s/_soup|soup]] or [[s/_stew|stew]] [[m/_made|made]] with [[o/_okra|okra]].**
 - **A [[f/_fine|fine]] [[s/_silty|silty]] [[s/_soil|soil]] that when wet [[b/_becomes|becomes]] very thick and [[h/_heavy|heavy]].**
 ---
 #noun

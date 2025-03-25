@@ -1,7 +1,7 @@
 # Cirques
 ---
 #noun
-- **A [[c/_curved|curved]] [[d/_depression|depression]] in a [[m/_mountainside|mountainside]] with steep walls, [[f/_forming|forming]] the [[e/_end|end]] of a valley.**
+- **A [[c/_curved|curved]] [[d/_depression|depression]] in a [[m/_mountainside|mountainside]] with [[s/_steep|steep]] walls, [[f/_forming|forming]] the [[e/_end|end]] of a valley.**
 - **[[s/_something|Something]] in the [[s/_shape|shape]] of a [[c/_circle|circle]] or [[r/_ring|ring]], such as a [[r/_roman|Roman]] [[c/_circus|circus]].**
 ---
 ### Synonyms

@@ -5,7 +5,7 @@
 	- _Example: Washing light laundry with dark may cause your clothes to discolor._
 ---
 #adjective
-- **[[d/_deprived|Deprived]] of [[c/_color|color]], or [[g/_given|given]] the wrong [[c/_color|color]]; [[p/_pale|pale]], stained.**
+- **[[d/_deprived|Deprived]] of [[c/_color|color]], or [[g/_given|given]] the wrong [[c/_color|color]]; [[p/_pale|pale]], [[s/_stained|stained]].**
 - **[[m/_multicolored|Multicolored]].**
 ---
 ### Synonyms

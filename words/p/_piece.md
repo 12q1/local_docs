@@ -5,7 +5,7 @@
 	- _Example: I’d like another piece of pie._
 - **A [[s/_single|single]] [[i/_item|item]] [[b/_belonging|belonging]] to a [[c/_class|class]] of [[s/_similar|similar]] [[i/_items|items]]**
 	- _Example: a piece of machinery_
-- **[[o/_one|One]] of the [[f/_figures|figures]] used in [[p/_playing|playing]] [[c/_chess|chess]], specifically a [[h/_higher|higher]]-value [[f/_figure|figure]] as [[d/_distinguished|distinguished]] from a [[p/_pawn|pawn]]; by [[e/_extension|extension]], a [[s/_similar|similar]] [[c/_counter|counter]] [[e/_etc|etc]]. in [[o/_other|other]] [[g/_games|games]].**
+- **[[o/_one|One]] of the [[f/_figures|figures]] used in [[p/_playing|playing]] [[c/_chess|chess]], [[s/_specifically|specifically]] a [[h/_higher|higher]]-value [[f/_figure|figure]] as [[d/_distinguished|distinguished]] from a [[p/_pawn|pawn]]; by [[e/_extension|extension]], a [[s/_similar|similar]] [[c/_counter|counter]] [[e/_etc|etc]]. in [[o/_other|other]] [[g/_games|games]].**
 - **A [[c/_coin|coin]], [[e/_especially|especially]] [[o/_one|one]] valued at [[l/_less|less]] than the [[p/_principal|principal]] unit of [[c/_currency|currency]].**
 	- _Example: a sixpenny piece_
 - **An [[a/_artistic|artistic]] [[c/_creation|creation]], such as a [[p/_painting|painting]], [[s/_sculpture|sculpture]], [[m/_musical|musical]] [[c/_composition|composition]], [[l/_literary|literary]] work, [[e/_etc|etc]].**
@@ -30,7 +30,7 @@
 - **A [[p/_pacifier|pacifier]]; a [[d/_dummy|dummy]].**
 - **A [[d/_distance|distance]].**
 	- _Example: a fair piece off_
-- **A structured [[p/_practice|practice]] [[r/_row|row]], [[o/_often|often]] used for [[p/_performance|performance]] [[e/_evaluation|evaluation]].**
+- **A [[s/_structured|structured]] [[p/_practice|practice]] [[r/_row|row]], [[o/_often|often]] used for [[p/_performance|performance]] [[e/_evaluation|evaluation]].**
 	- _Example: At practice we rowed four 5,000 meter pieces._
 - **An [[a/_amount|amount]] of work to be [[d/_done|done]] at [[o/_one|one]] time; a unit of [[p/_piece|piece]] work.**
 ---

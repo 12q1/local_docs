@@ -3,7 +3,7 @@
 #noun
 - **The [[p/_process|process]] of [[k/_keeping|keeping]] ([[s/_something|something]] or [[s/_someone|someone]]) [[s/_safe|safe]].**
 	- _Example: Raincoats give protection from rain._
-- **The state of [[b/_being|being]] [[s/_safe|safe]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[s/_safe|safe]].**
 - **A [[m/_means|means]] of [[k/_keeping|keeping]] or [[r/_remaining|remaining]] [[s/_safe|safe]].**
 - **A [[m/_means|means]], such as a [[c/_condom|condom]], of [[p/_preventing|preventing]] [[p/_pregnancy|pregnancy]] or [[s/_sexually|sexually]] transmitted [[d/_disease|disease]].**
 - **[[c/_coverage|Coverage]].**

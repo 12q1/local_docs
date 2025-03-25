@@ -6,8 +6,8 @@
 	- _Example: Some residents disputed the proposal, saying it was based more on emotion than fact._
 - **To [[o/_oppose|oppose]] by [[a/_argument|argument]] or [[a/_assertion|assertion]]; to [[c/_controvert|controvert]]; to [[e/_express|express]] [[d/_dissent|dissent]] or [[o/_opposition|opposition]] to; to [[c/_call|call]] in [[q/_question|question]]; to [[d/_deny|deny]] the truth or validity of**
 	- _Example: to dispute assertions or arguments_
-- **To strive or [[c/_contend|contend]] [[a/_about|about]]; to [[c/_contest|contest]]**
-- **To struggle [[a/_against|against]]; to [[r/_resist|resist]]**
+- **To [[s/_strive|strive]] or [[c/_contend|contend]] [[a/_about|about]]; to [[c/_contest|contest]]**
+- **To [[s/_struggle|struggle]] [[a/_against|against]]; to [[r/_resist|resist]]**
 ---
 #noun
 - **[[d/_dispute|Dispute]]; [[a/_argument|argument]]**

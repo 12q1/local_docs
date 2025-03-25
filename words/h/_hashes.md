@@ -7,7 +7,7 @@
 - **The [[r/_result|result]] [[g/_generated|generated]] by a [[h/_hash|hash]] [[f/_function|function]].**
 - **A [[n/_new|new]] [[m/_mixture|mixture]] of [[o/_old|old]] [[m/_material|material]]; a [[s/_second|second]] [[p/_preparation|preparation]] or [[e/_exhibition|exhibition]]; a [[r/_rehashing|rehashing]].**
 - **A [[h/_hash|hash]] [[r/_run|run]].**
-- **A stupid [[f/_fellow|fellow]].**
+- **A [[s/_stupid|stupid]] [[f/_fellow|fellow]].**
 ---
 ### Synonyms
 - [[c/_checksum|checksum]], [[h/_hashtag|hashtag]], [[o/_octothorn|octothorn]], [[o/_octothorpe|octothorpe]], [[p/_pound|pound]], [[s/_square|square]]

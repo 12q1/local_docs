@@ -5,11 +5,11 @@
 	- _Example: I love almost everything about my job. The only down is that I can't take Saturdays off._
 - **A [[g/_grudge|grudge]] (on [[s/_someone|someone]]).**
 - **An [[a/_act|act]] of swallowing an [[e/_entire|entire]] [[d/_drink|drink]] at [[o/_once|once]].**
-- **A [[s/_single|single]] [[p/_play|play]], from the time the [[b/_ball|ball]] is [[s/_snapped|snapped]] (the start) to the time the whistle is [[b/_blown|blown]] (the [[e/_end|end]]) when the [[b/_ball|ball]] is [[d/_down|down]], or is [[d/_downed|downed]].**
+- **A [[s/_single|single]] [[p/_play|play]], from the time the [[b/_ball|ball]] is [[s/_snapped|snapped]] (the [[s/_start|start]]) to the time the whistle is [[b/_blown|blown]] (the [[e/_end|end]]) when the [[b/_ball|ball]] is [[d/_down|down]], or is [[d/_downed|downed]].**
 	- _Example: I bet after the third down, the kicker will replace the quarterback on the field._
 - **([[c/_crosswords|crosswords]]) A [[c/_clue|clue]] whose [[s/_solution|solution]] [[r/_runs|runs]] vertically in the [[g/_grid|grid]].**
 	- _Example: I haven't solved 12 or 13 across, but I've got most of the downs._
-- **A [[d/_downstairs|downstairs]] [[r/_room|room]] of a two-story [[h/_house|house]].**
+- **A [[d/_downstairs|downstairs]] [[r/_room|room]] of a two-[[s/_story|story]] [[h/_house|house]].**
 	- _Example: She lives in a two-up two-down._
 - **[[d/_down|Down]] [[p/_payment|payment]].**
 ---
@@ -21,7 +21,7 @@
 - **To [[d/_defeat|defeat]]; to [[o/_overpower|overpower]].**
 - **To [[d/_disparage|disparage]], to [[p/_put|put]] [[d/_down|down]].**
 - **To [[g/_go|go]] or [[c/_come|come]] [[d/_down|down]]; to [[d/_descend|descend]].**
-- **To [[d/_drink|drink]] or swallow, [[e/_especially|especially]] without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the [[l/_liquid|liquid]] is [[e/_empty|empty]].**
+- **To [[d/_drink|drink]] or swallow, [[e/_especially|especially]] without [[s/_stopping|stopping]] [[b/_before|before]] the vessel [[c/_containing|containing]] the [[l/_liquid|liquid]] is [[e/_empty|empty]].**
 	- _Example: He downed an ale and ordered another._
 - **To [[r/_render|render]] (the [[b/_ball|ball]]) [[d/_dead|dead]], typically by touching the [[g/_ground|ground]] while in [[p/_possession|possession]].**
 	- _Example: He downed it at the seven-yard line._
@@ -71,8 +71,8 @@
 	- _Example: He went down to Cavan._
 - **At or towards [[a/_any|any]] [[p/_place|place]] that is visualised as '[[d/_down|down]]' by virtue of [[l/_local|local]] [[f/_features|features]] or [[l/_local|local]] [[c/_convention|convention]], or [[a/_arbitrarily|arbitrarily]], [[i/_irrespective|irrespective]] of [[d/_direction|direction]] or [[e/_elevation|elevation]] [[c/_change|change]].**
 	- _Example: She lives down by the park._
-- **Towards the [[o/_opponent|opponent]]'[[s/_s|s]] [[s/_side|side]] (in [[b/_ball|ball]]-sports).**
-- **[[i/_into|Into]] a state of [[n/_non|non]]-[[o/_operation|operation]].**
+- **Towards the [[o/_opponent|opponent]]'[[s/_s|s]] [[s/_side|side]] (in [[b/_ball|ball]]-[[s/_sports|sports]]).**
+- **[[i/_into|Into]] a [[s/_state|state]] of [[n/_non|non]]-[[o/_operation|operation]].**
 	- _Example: The computer has been shut down._
 - **To a subordinate or [[l/_less|less]] [[p/_prestigious|prestigious]] [[p/_position|position]] or [[r/_rank|rank]].**
 	- _Example: After the incident, Kelly went down to Second Lieutenant._
@@ -93,7 +93,7 @@
 	- _Example: We need to nail down this carpet so people don't keep tripping over it._
 - **([[i/_intensifier|intensifier]]) Used with verbs to [[a/_add|add]] [[e/_emphasis|emphasis]] to the [[a/_action|action]] of the verb.**
 	- _Example: They tamped (down) the asphalt to get a better bond._
-- **Used with verbs to [[i/_indicate|indicate]] that the [[a/_action|action]] of the verb was [[c/_carried|carried]] to [[s/_some|some]] state of [[c/_completion|completion]], [[r/_rather|rather]] than [[b/_being|being]] of [[i/_indefinite|indefinite]] [[d/_duration|duration]].**
+- **Used with verbs to [[i/_indicate|indicate]] that the [[a/_action|action]] of the verb was [[c/_carried|carried]] to [[s/_some|some]] [[s/_state|state]] of [[c/_completion|completion]], [[r/_rather|rather]] than [[b/_being|being]] of [[i/_indefinite|indefinite]] [[d/_duration|duration]].**
 	- _Example: He boiled the mixture. / He boiled down the mixture._
 ---
 ### Antonyms

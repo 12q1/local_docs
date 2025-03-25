@@ -7,11 +7,11 @@
 - **To [[m/_meet|meet]] with a [[s/_shock|shock]]; to [[c/_collide|collide]] in a violent [[e/_encounter|encounter]].**
 ---
 #verb
-- **To [[c/_collect|collect]], or [[m/_make|make]] up, [[i/_into|into]] a [[s/_shock|shock]] or [[s/_shocks|shocks]]; to stook.**
+- **To [[c/_collect|collect]], or [[m/_make|make]] up, [[i/_into|into]] a [[s/_shock|shock]] or [[s/_shocks|shocks]]; to [[s/_stook|stook]].**
 	- _Example: to shock rye_
 ---
 #adjective
-- **Surprised, startled, [[c/_confused|confused]], or taken [[a/_aback|aback]].**
+- **Surprised, [[s/_startled|startled]], [[c/_confused|confused]], or taken [[a/_aback|aback]].**
 - **Suffering from [[s/_shock|shock]].**
 	- _Example: Patient is shocked._
 ---

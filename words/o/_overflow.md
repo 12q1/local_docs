@@ -1,7 +1,7 @@
 # Overflow
 ---
 #noun
-- **The spillage [[r/_resultant|resultant]] from [[o/_overflow|overflow]]; [[e/_excess|excess]].**
+- **The [[s/_spillage|spillage]] [[r/_resultant|resultant]] from [[o/_overflow|overflow]]; [[e/_excess|excess]].**
 - **[[o/_outlet|Outlet]] for [[e/_escape|escape]] of [[e/_excess|excess]] [[m/_material|material]].**
 - **The [[s/_situation|situation]] where a value [[e/_exceeds|exceeds]] the [[a/_available|available]] [[n/_numeric|numeric]] [[r/_range|range]].**
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_legendary|legendary]] [[s/_serpentine|serpentine]] or [[r/_reptilian|reptilian]] [[c/_creature|creature]].**
-- **An [[a/_animal|animal]] of various species that [[r/_resemble|resemble]] a [[d/_dragon|dragon]] in [[a/_appearance|appearance]]:**
+- **An [[a/_animal|animal]] of various [[s/_species|species]] that [[r/_resemble|resemble]] a [[d/_dragon|dragon]] in [[a/_appearance|appearance]]:**
 - **(with [[d/_definite|definite]] [[a/_article|article]], [[o/_often|often]] [[c/_capitalized|capitalized]]) The [[c/_constellation|constellation]] [[d/_draco|Draco]].**
 - **A [[f/_fierce|fierce]] and unpleasant woman; a [[h/_harridan|harridan]].**
 	- _Example: She’s a bit of a dragon._

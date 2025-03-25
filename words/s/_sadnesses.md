@@ -1,7 +1,7 @@
 # Sadnesses
 ---
 #noun
-- **The state or [[e/_emotion|emotion]] of [[b/_being|being]] [[s/_sad|sad]].**
+- **The [[s/_state|state]] or [[e/_emotion|emotion]] of [[b/_being|being]] [[s/_sad|sad]].**
 - **An [[e/_event|event]] in [[o/_one|one]]'[[s/_s|s]] [[l/_life|life]] that [[c/_causes|causes]] [[s/_sadness|sadness]].**
 	- _Example: She has experienced many sadnesses in her forty years._
 ---

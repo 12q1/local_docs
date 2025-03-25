@@ -3,7 +3,7 @@
 #noun
 - **A [[c/_close|close]]-[[f/_fitting|fitting]] [[h/_hat|hat]], [[e/_either|either]] [[b/_brimless|brimless]] or [[p/_peaked|peaked]].**
 	- _Example: The children were all wearing caps to protect them from the sun._
-- **A special [[h/_hat|hat]] to [[i/_indicate|indicate]] [[r/_rank|rank]], [[o/_occupation|occupation]], [[e/_etc|etc]].**
+- **A [[s/_special|special]] [[h/_hat|hat]] to [[i/_indicate|indicate]] [[r/_rank|rank]], [[o/_occupation|occupation]], [[e/_etc|etc]].**
 - **An [[a/_academic|academic]] [[m/_mortarboard|mortarboard]].**
 - **A [[p/_protective|protective]] [[c/_cover|cover]] or [[s/_seal|seal]].**
 	- _Example: He took the cap off the bottle and splashed himself with some cologne._
@@ -14,7 +14,7 @@
 - **An [[a/_artificial|artificial]] upper [[l/_limit|limit]] or [[c/_ceiling|ceiling]].**
 	- _Example: We should put a cap on the salaries, to keep them under control._
 - **The top [[p/_part|part]] of a [[m/_mushroom|mushroom]].**
-- **(toy) A [[s/_small|small]] [[a/_amount|amount]] of [[p/_percussive|percussive]] [[e/_explosive|explosive]] in a [[p/_paper|paper]] strip or [[p/_plastic|plastic]] [[c/_cup|cup]] for use in a toy [[g/_gun|gun]].**
+- **(toy) A [[s/_small|small]] [[a/_amount|amount]] of [[p/_percussive|percussive]] [[e/_explosive|explosive]] in a [[p/_paper|paper]] [[s/_strip|strip]] or [[p/_plastic|plastic]] [[c/_cup|cup]] for use in a toy [[g/_gun|gun]].**
 	- _Example: Billy spent all morning firing caps with his friends, re-enacting storming the beach at Normandy._
 - **A [[s/_small|small]] [[e/_explosive|explosive]] [[d/_device|device]] used to [[d/_detonate|detonate]] a [[l/_larger|larger]] [[c/_charge|charge]] of [[e/_explosives|explosives]].**
 	- _Example: He wired the cap to the bundle of dynamite, then detonated it remotely._
@@ -28,7 +28,7 @@
 	- _Example: the cap of column, door, etc.; a capital, coping, cornice, lintel, or plate_
 - **[[s/_something|Something]] [[c/_covering|covering]] the top or [[e/_end|end]] of a thing for [[p/_protection|protection]] or [[o/_ornament|ornament]].**
 - **A [[c/_collar|collar]] of [[i/_iron|iron]] or wood used in [[j/_joining|joining]] [[s/_spars|spars]], as the [[m/_mast|mast]] and the topmast, the [[b/_bowsprit|bowsprit]] and the [[j/_jib|jib]] [[b/_boom|boom]]; [[a/_also|also]], a [[c/_covering|covering]] of tarred [[c/_canvas|canvas]] at the [[e/_end|end]] of a [[r/_rope|rope]].**
-- **A [[p/_portion|portion]] of a spherical or [[o/_other|other]] [[c/_convex|convex]] surface.**
+- **A [[p/_portion|portion]] of a [[s/_spherical|spherical]] or [[o/_other|other]] [[c/_convex|convex]] surface.**
 - **A [[l/_large|large]] [[s/_size|size]] of writing [[p/_paper|paper]].**
 	- _Example: flat cap; foolscap; legal cap_
 - **A [[l/_lie|lie]] or [[e/_exaggeration|exaggeration]].**
@@ -45,7 +45,7 @@
 	- _Example: cap wages._
 - **To [[m/_make|make]] [[s/_something|something]] [[e/_even|even]] [[m/_more|more]] wonderful at the [[e/_end|end]].**
 	- _Example: That really capped my day._
-- **To [[s/_select|select]] a [[p/_player|player]] to [[p/_play|play]] for a specified [[s/_side|side]].**
+- **To [[s/_select|select]] a [[p/_player|player]] to [[p/_play|play]] for a [[s/_specified|specified]] [[s/_side|side]].**
 - **To [[s/_shoot|shoot]] ([[s/_someone|someone]]) with a [[f/_firearm|firearm]].**
 	- _Example: In a school shooting, where some kid caps a bunch of other kids, where did he get the weapon? From a family member, probably their gun cabinet._
 - **To [[s/_select|select]] to [[p/_play|play]] for the [[n/_national|national]] team.**

@@ -2,7 +2,7 @@
 ---
 #noun
 - **That which [[p/_preserves|preserves]] from [[i/_injury|injury]].**
-- **A storehouse.**
+- **A [[s/_storehouse|storehouse]].**
 ---
 #noun
 - **A [[l/_large|large]] [[g/_greenhouse|greenhouse]] or [[h/_hothouse|hothouse]] for the [[d/_display|display]] of [[p/_plants|plants]]**

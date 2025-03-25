@@ -16,7 +16,7 @@
 - **[[b/_being|Being]] unconnected with [[i/_intelligence|intelligence]] or thought; [[p/_purely|purely]] [[m/_material|material]], [[s/_senseless|senseless]].**
 	- _Example: the brute earth; the brute powers of nature_
 - **[[c/_crude|Crude]], unpolished.**
-- **Strong, [[b/_blunt|blunt]], and spontaneous.**
+- **[[s/_strong|Strong]], [[b/_blunt|blunt]], and [[s/_spontaneous|spontaneous]].**
 	- _Example: I punched him with brute force._
 - **[[b/_brutal|Brutal]]; [[c/_cruel|cruel]]; [[f/_fierce|fierce]]; [[f/_ferocious|ferocious]]; [[s/_savage|savage]]; [[p/_pitiless|pitiless]].**
 	- _Example: brute violence_

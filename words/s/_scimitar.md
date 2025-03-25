@@ -5,6 +5,6 @@
 - **A [[l/_long|long]]-[[h/_handled|handled]] [[b/_billhook|billhook]].**
 ---
 #verb
-- **To strike or [[s/_slice|slice]] with, or as [[i/_if|if]] with, a [[s/_scimitar|scimitar]].**
+- **To [[s/_strike|strike]] or [[s/_slice|slice]] with, or as [[i/_if|if]] with, a [[s/_scimitar|scimitar]].**
 ---
 ---

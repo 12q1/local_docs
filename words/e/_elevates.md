@@ -11,7 +11,7 @@
 - **To [[d/_direct|direct]] (the [[m/_mind|mind]], thoughts, [[e/_etc|etc]].) toward [[m/_more|more]] worthy things.**
 - **To [[i/_increase|increase]] the [[i/_intensity|intensity]] or [[d/_degree|degree]] of ([[s/_something|something]]).**
 	- _Example: Some drugs have the side effect of elevating your blood sugar level._
-- **To [[l/_lift|lift]] the spirits of ([[s/_someone|someone]])**
+- **To [[l/_lift|lift]] the [[s/_spirits|spirits]] of ([[s/_someone|someone]])**
 - **To [[i/_intoxicate|intoxicate]] in a [[s/_slight|slight]] [[d/_degree|degree]]; to [[m/_make|make]] ([[s/_someone|someone]]) tipsy.**
 - **([[l/_latinism|Latinism]]) To [[a/_attempt|attempt]] to [[m/_make|make]] ([[s/_something|something]]) [[s/_seem|seem]] [[l/_less|less]] [[i/_important|important]], [[r/_remarkable|remarkable]], [[e/_etc|etc]].**
 ---

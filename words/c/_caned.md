@@ -1,7 +1,7 @@
 # Caned
 ---
 #verb
-- **To strike or [[b/_beat|beat]] with a [[c/_cane|cane]] or [[s/_similar|similar]] [[i/_implement|implement]]**
+- **To [[s/_strike|strike]] or [[b/_beat|beat]] with a [[c/_cane|cane]] or [[s/_similar|similar]] [[i/_implement|implement]]**
 - **To [[d/_destroy|destroy]]; to [[c/_comprehensively|comprehensively]] [[d/_defeat|defeat]]**
 	- _Example: Mudchester Rovers were caned 10-0._
 - **To [[d/_do|do]] [[s/_something|something]] well, in a [[c/_competent|competent]] [[f/_fashion|fashion]]**

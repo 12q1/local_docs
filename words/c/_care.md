@@ -9,7 +9,7 @@
 - **[[m/_maintenance|Maintenance]], upkeep.**
 	- _Example: dental care_
 - **The treatment of those in [[n/_need|need]] ([[e/_especially|especially]] as a [[p/_profession|profession]]).**
-- **The state of [[b/_being|being]] [[c/_cared|cared]] for by [[o/_others|others]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[c/_cared|cared]] for by [[o/_others|others]].**
 	- _Example: in care_
 - **The [[o/_object|object]] of watchful [[a/_attention|attention]] or [[a/_anxiety|anxiety]].**
 ---

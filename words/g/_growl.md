@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[d/_deep|deep]], [[r/_rumbling|rumbling]], threatening [[s/_sound|sound]] [[m/_made|made]] in the throat by an [[a/_animal|animal]].**
-- **(by [[e/_extension|extension]]) The [[r/_rumbling|rumbling]] [[s/_sound|sound]] [[m/_made|made]] by a [[p/_person|person]]'[[s/_s|s]] stomach when [[h/_hungry|hungry]].**
+- **(by [[e/_extension|extension]]) The [[r/_rumbling|rumbling]] [[s/_sound|sound]] [[m/_made|made]] by a [[p/_person|person]]'[[s/_s|s]] [[s/_stomach|stomach]] when [[h/_hungry|hungry]].**
 - **(by [[e/_extension|extension]]) An [[a/_aggressive|aggressive]] [[g/_grumbling|grumbling]].**
 - **(by [[e/_extension|extension]]) A [[l/_low|low]]-[[p/_pitched|pitched]] [[r/_rumbling|rumbling]] [[s/_sound|sound]] [[p/_produced|produced]] with a wind [[i/_instrument|instrument]].**
 ---

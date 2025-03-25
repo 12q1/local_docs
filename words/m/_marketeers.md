@@ -1,6 +1,6 @@
 # Marketeers
 ---
 #noun
-- **A specialist in [[m/_marketing|marketing]].**
+- **A [[s/_specialist|specialist]] in [[m/_marketing|marketing]].**
 ---
 ---

@@ -17,7 +17,7 @@
 ---
 #noun
 - **[[m/_meat|Meat]] with [[n/_no|no]] [[f/_fat|fat]] on it.**
-- **An [[o/_organism|organism]] that is [[l/_lean|lean]] in stature.**
+- **An [[o/_organism|organism]] that is [[l/_lean|lean]] in [[s/_stature|stature]].**
 ---
 #verb
 - **To thin [[o/_out|out]] (a [[f/_fuel|fuel]]-[[a/_air|air]] [[m/_mixture|mixture]]): to [[r/_reduce|reduce]] the [[f/_fuel|fuel]] [[f/_flow|flow]] [[i/_into|into]] the [[m/_mixture|mixture]] [[s/_so|so]] that there is [[m/_more|more]] [[a/_air|air]] or [[o/_oxygen|oxygen]].**

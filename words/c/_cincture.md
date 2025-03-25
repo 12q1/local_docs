@@ -7,6 +7,6 @@
 ---
 #verb
 - **To [[e/_encircle|encircle]] or surround.**
-- **(viniculture) To [[g/_girdle|girdle]] (stunt or [[k/_kill|kill]] by [[c/_cutting|cutting]]).**
+- **(viniculture) To [[g/_girdle|girdle]] ([[s/_stunt|stunt]] or [[k/_kill|kill]] by [[c/_cutting|cutting]]).**
 ---
 ---

@@ -6,7 +6,7 @@
 - **To [[i/_inform|inform]] subjects of an [[e/_experiment|experiment]] [[a/_about|about]] what [[h/_has|has]] [[h/_happened|happened]] in a [[c/_complete|complete]] and [[a/_accurate|accurate]] [[m/_manner|manner]].**
 ---
 #noun
-- **The [[a/_act|act]] of [[d/_debriefing|debriefing]], or the state of [[b/_being|being]] [[d/_debriefed|debriefed]].**
+- **The [[a/_act|act]] of [[d/_debriefing|debriefing]], or the [[s/_state|state]] of [[b/_being|being]] [[d/_debriefed|debriefed]].**
 - **The [[r/_report|report]] of a [[m/_mission|mission]] or [[p/_project|project]], or the [[i/_information|information]] [[s/_so|so]] [[o/_obtained|obtained]].**
 ---
 ---

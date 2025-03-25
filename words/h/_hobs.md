@@ -11,7 +11,7 @@
 ### Synonyms
 - [[c/_cooktop|cooktop]], [[r/_range|range]], [[s/_stovetop|stovetop]]
 #noun
-- **A [[f/_fairy|fairy]]; a sprite; an [[e/_elf|elf]]; a [[b/_bogey|bogey]].**
+- **A [[f/_fairy|fairy]]; a [[s/_sprite|sprite]]; an [[e/_elf|elf]]; a [[b/_bogey|bogey]].**
 - **A [[c/_countryman|countryman]]; a [[r/_rustic|rustic]] or [[y/_yokel|yokel]].**
 ---
 ### Synonyms

@@ -4,7 +4,7 @@
 - **To [[m/_make|make]] [[s/_something|something]] [[h/_happen|happen]] suddenly and [[q/_quickly|quickly]].**
 	- _Example: it precipitated their success_
 - **To throw an [[o/_object|object]] or [[p/_person|person]] from a [[g/_great|great]] [[h/_height|height]].**
-- **To [[s/_send|send]] violently [[i/_into|into]] a [[c/_certain|certain]] state or [[c/_condition|condition]].**
+- **To [[s/_send|send]] violently [[i/_into|into]] a [[c/_certain|certain]] [[s/_state|state]] or [[c/_condition|condition]].**
 	- _Example: we were precipitated into a conflict_
 - **To [[c/_come|come]] [[o/_out|out]] of a [[l/_liquid|liquid]] [[s/_solution|solution]] [[i/_into|into]] [[s/_solid|solid]] [[f/_form|form]].**
 	- _Example: Adding the acid will cause the salt to precipitate._
@@ -18,10 +18,10 @@
 ### Synonyms
 - [[a/_accelerate|accelerate]], [[a/_advance|advance]], [[h/_hasten|hasten]], [[c/_cast|cast]], [[f/_fling|fling]], [[t/_throw|throw]], [[h/_headlong|headlong]]
 #adjective
-- **[[h/_headlong|Headlong]]; [[f/_falling|falling]] steeply or vertically.**
-- **Very steep; [[p/_precipitous|precipitous]].**
+- **[[h/_headlong|Headlong]]; [[f/_falling|falling]] [[s/_steeply|steeply]] or vertically.**
+- **Very [[s/_steep|steep]]; [[p/_precipitous|precipitous]].**
 - **With a [[h/_hasty|hasty]] [[i/_impulse|impulse]]; [[h/_hurried|hurried]]; [[h/_headstrong|headstrong]].**
-- **[[m/_moving|Moving]] with [[e/_excessive|excessive]] speed or [[h/_haste|haste]].**
+- **[[m/_moving|Moving]] with [[e/_excessive|excessive]] [[s/_speed|speed]] or [[h/_haste|haste]].**
 	- _Example: The king was too precipitate in declaring war._
 - **[[p/_performed|Performed]] very [[r/_rapidly|rapidly]] or [[a/_abruptly|abruptly]].**
 ---

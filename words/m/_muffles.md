@@ -6,7 +6,7 @@
 - **A [[b/_boxing|boxing]] [[g/_glove|glove]].**
 - **A [[k/_kiln|kiln]] or [[f/_furnace|furnace]], [[o/_often|often]] [[e/_electric|electric]], with [[n/_no|no]] [[d/_direct|direct]] [[f/_flames|flames]] (a [[m/_muffle|muffle]] [[f/_furnace|furnace]])**
 - **The [[b/_bare|bare]] [[e/_end|end]] of the [[n/_nose|nose]] [[b/_between|between]] the [[n/_nostrils|nostrils]], [[e/_especially|especially]] in [[r/_ruminants|ruminants]].**
-- **A [[m/_machine|machine]] with two [[p/_pulleys|pulleys]] to [[h/_hoist|hoist]] [[l/_load|load]] by spinning wheels, [[p/_polyspast|polyspast]], [[b/_block|block]] and tackle.**
+- **A [[m/_machine|machine]] with two [[p/_pulleys|pulleys]] to [[h/_hoist|hoist]] [[l/_load|load]] by [[s/_spinning|spinning]] wheels, [[p/_polyspast|polyspast]], [[b/_block|block]] and tackle.**
 ---
 #verb
 - **To wrap (a [[p/_person|person]], [[f/_face|face]] [[e/_etc|etc]].) in [[f/_fabric|fabric]] or [[a/_another|another]] [[c/_covering|covering]], for warmth or [[p/_protection|protection]]; [[o/_often|often]] with up.**

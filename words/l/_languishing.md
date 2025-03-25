@@ -1,8 +1,8 @@
 # Languishing
 ---
 #verb
-- **To [[l/_lose|lose]] strength and [[b/_become|become]] weak; to be in a state of weakness or [[s/_sickness|sickness]].**
-- **To [[p/_pine|pine]] [[a/_away|away]] in [[l/_longing|longing]] for [[s/_something|something]]; to [[h/_have|have]] [[l/_low|low]] spirits, [[e/_especially|especially]] from [[l/_lovesickness|lovesickness]].**
+- **To [[l/_lose|lose]] [[s/_strength|strength]] and [[b/_become|become]] weak; to be in a [[s/_state|state]] of weakness or [[s/_sickness|sickness]].**
+- **To [[p/_pine|pine]] [[a/_away|away]] in [[l/_longing|longing]] for [[s/_something|something]]; to [[h/_have|have]] [[l/_low|low]] [[s/_spirits|spirits]], [[e/_especially|especially]] from [[l/_lovesickness|lovesickness]].**
 	- _Example: He languished without his girlfriend_
 - **To [[l/_live|live]] in [[m/_miserable|miserable]] or [[d/_disheartening|disheartening]] [[c/_conditions|conditions]].**
 	- _Example: He languished in prison for years_
@@ -15,6 +15,6 @@
 - **The [[a/_act|act]] of [[o/_one|one]] who [[l/_languishes|languishes]].**
 ---
 #adjective
-- **[[l/_lacking|Lacking]] of vigor or spirit.**
+- **[[l/_lacking|Lacking]] of vigor or [[s/_spirit|spirit]].**
 ---
 ---

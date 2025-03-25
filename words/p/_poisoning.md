@@ -16,6 +16,6 @@
 - [[c/_corrupt|corrupt]], [[t/_taint|taint]], [[c/_contaminate|contaminate]], [[p/_pollute|pollute]], [[t/_taint|taint]]
 #noun
 - **The [[a/_administration|administration]] of a [[p/_poison|poison]].**
-- **The state of [[b/_being|being]] [[p/_poisoned|poisoned]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[p/_poisoned|poisoned]].**
 ---
 ---

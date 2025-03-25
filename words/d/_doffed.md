@@ -6,7 +6,7 @@
 	- _Example: The rustics doffed their hats at the clergy._
 - **To [[g/_get|get]] [[r/_rid|rid]] of, to throw [[o/_off|off]].**
 	- _Example: Doff that stupid idea: it would never work._
-- **To strip; to [[d/_divest|divest]]; to undress.**
+- **To [[s/_strip|strip]]; to [[d/_divest|divest]]; to undress.**
 ---
 ### Synonyms
 - 

@@ -2,6 +2,6 @@
 ---
 #noun
 - **A [[s/_soldier|soldier]].**
-- **Specifically, a [[m/_marine|marine]].**
+- **[[s/_specifically|Specifically]], a [[m/_marine|marine]].**
 ---
 ---

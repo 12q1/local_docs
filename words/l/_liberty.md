@@ -13,7 +13,7 @@
 - **([[o/_often|often]] [[p/_plural|plural]]) A [[b/_breach|breach]] of [[s/_social|social]] [[c/_convention|convention]].**
 	- _Example: You needn't take such liberties._
 - **A [[l/_local|local]] [[d/_division|division]] of [[g/_government|government]] [[a/_administration|administration]] in [[m/_medieval|medieval]] [[e/_england|England]].**
-- **([[g/_game|game]] of [[g/_go|go]]) an [[e/_empty|empty]] [[s/_space|space]] [[n/_next|next]] to a [[g/_group|group]] of stones of the [[s/_same|same]] [[c/_color|color]].**
+- **([[g/_game|game]] of [[g/_go|go]]) an [[e/_empty|empty]] [[s/_space|space]] [[n/_next|next]] to a [[g/_group|group]] of [[s/_stones|stones]] of the [[s/_same|same]] [[c/_color|color]].**
 ---
 ### Synonyms
 - [[f/_freedom|freedom]]

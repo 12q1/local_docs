@@ -9,7 +9,7 @@
 	- _Example: to overcome enemies in battle_
 - **To win or [[p/_prevail|prevail]] in [[s/_some|some]] [[s/_sort|sort]] of [[b/_battle|battle]], [[c/_contest|contest]], [[e/_etc|etc]].**
 	- _Example: We shall overcome._
-- **To [[c/_come|come]] or [[p/_pass|pass]] [[o/_over|over]]; to spread [[o/_over|over]].**
+- **To [[c/_come|come]] or [[p/_pass|pass]] [[o/_over|over]]; to [[s/_spread|spread]] [[o/_over|over]].**
 	- _Example: I was overcome with anger._
 - **To [[o/_overflow|overflow]]; to surcharge.**
 ---

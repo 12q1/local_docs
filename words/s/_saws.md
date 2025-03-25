@@ -16,7 +16,7 @@
 	- _Example: to saw boards or planks (i.e. to saw logs or timber into boards or planks)_
 ---
 #noun
-- **[[s/_something|Something]] spoken; speech, [[d/_discourse|discourse]].**
+- **[[s/_something|Something]] [[s/_spoken|spoken]]; [[s/_speech|speech]], [[d/_discourse|discourse]].**
 - **A [[s/_saying|saying]] or [[p/_proverb|proverb]].**
 	- _Example: old saw_
 - **[[o/_opinion|Opinion]], [[i/_idea|idea]], [[b/_belief|belief]].**

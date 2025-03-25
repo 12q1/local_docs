@@ -5,7 +5,7 @@
 	- _Example: We travelled across the desert on camelback._
 - **A [[f/_flexible|flexible]] water [[c/_container|container]] worn on the [[b/_back|back]].**
 	- _Example: An empty camelback is a blessing and a curse: it is easy to carry, but it means you have no water._
-- **A [[h/_house|house]] with a [[s/_second|second]] storey that [[d/_does|does]] not [[c/_completely|completely]] [[c/_cover|cover]] the [[g/_ground|ground]] [[f/_floor|floor]].**
+- **A [[h/_house|house]] with a [[s/_second|second]] [[s/_storey|storey]] that [[d/_does|does]] not [[c/_completely|completely]] [[c/_cover|cover]] the [[g/_ground|ground]] [[f/_floor|floor]].**
 	- _Example: My friend lived in a camelback; we used to have fun climbing out of the window onto the roof below._
 - **A [[r/_railway|railway]] [[l/_locomotive|locomotive]] that [[h/_has|has]] [[i/_its|its]] [[c/_cab|cab]] in the [[m/_middle|middle]] as [[o/_opposed|opposed]] to at the [[e/_end|end]].**
 	- _Example: The camelbacks were designed to help with the visibility problems inherent in putting the driver behind the entire engine._

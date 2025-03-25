@@ -25,7 +25,7 @@
 - **The wood from a [[b/_box|box]] tree: [[b/_boxwood|boxwood]].**
 - **A [[m/_musical|musical]] [[i/_instrument|instrument]], [[e/_especially|especially]] [[o/_one|one]] [[m/_made|made]] from [[b/_boxwood|boxwood]].**
 - **An [[e/_evergreen|evergreen]] tree of the [[g/_genus|genus]] Lophostemon (for [[e/_example|example]], the [[b/_box|box]] [[s/_scrub|scrub]], [[b/_brisbane|Brisbane]] [[b/_box|box]], [[b/_brush|brush]] [[b/_box|box]], [[p/_pink|pink]] [[b/_box|box]], or Queensland [[b/_box|box]], Lophostemon confertus).**
-- **Various species of [[e/_eucalyptus|Eucalyptus]] trees are [[p/_popularly|popularly]] [[c/_called|called]] various [[k/_kinds|kinds]] of [[b/_boxes|boxes]], on the [[b/_basis|basis]] of the [[n/_nature|nature]] of their wood, [[b/_bark|bark]], or [[a/_appearance|appearance]] for [[e/_example|example]], the [[d/_drooping|drooping]] ([[e/_eucalyptus|Eucalyptus]] [[b/_bicolor|bicolor]]), [[s/_shiny|shiny]]-[[l/_leaved|leaved]] ([[e/_eucalyptus|Eucalyptus]] tereticornis), [[b/_black|black]], or [[i/_ironbark|ironbark]] [[b/_box|box]] trees.**
+- **Various [[s/_species|species]] of [[e/_eucalyptus|Eucalyptus]] trees are [[p/_popularly|popularly]] [[c/_called|called]] various [[k/_kinds|kinds]] of [[b/_boxes|boxes]], on the [[b/_basis|basis]] of the [[n/_nature|nature]] of their wood, [[b/_bark|bark]], or [[a/_appearance|appearance]] for [[e/_example|example]], the [[d/_drooping|drooping]] ([[e/_eucalyptus|Eucalyptus]] [[b/_bicolor|bicolor]]), [[s/_shiny|shiny]]-[[l/_leaved|leaved]] ([[e/_eucalyptus|Eucalyptus]] tereticornis), [[b/_black|black]], or [[i/_ironbark|ironbark]] [[b/_box|box]] trees.**
 ---
 #noun
 - **A [[b/_blow|blow]] with the [[f/_fist|fist]].**
@@ -33,7 +33,7 @@
 ### Synonyms
 - [[b/_blow|blow]], [[c/_cuff|cuff]], [[p/_punch|punch]]
 #verb
-- **To strike with the [[f/_fists|fists]]; to [[p/_punch|punch]].**
+- **To [[s/_strike|strike]] with the [[f/_fists|fists]]; to [[p/_punch|punch]].**
 	- _Example: Leave this place before I box you!_
 - **To [[f/_fight|fight]] [[a/_against|against]] (a [[p/_person|person]]) in a [[b/_boxing|boxing]] [[m/_match|match]].**
 - **To [[p/_participate|participate]] in [[b/_boxing|boxing]]; to be a [[b/_boxer|boxer]].**

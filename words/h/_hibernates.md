@@ -1,9 +1,9 @@
 # Hibernates
 ---
 #verb
-- **To spend winter time in [[h/_hibernation|hibernation]].**
+- **To [[s/_spend|spend]] winter time in [[h/_hibernation|hibernation]].**
 - **To [[l/_live|live]] in [[s/_seclusion|seclusion]].**
-- **To [[e/_enter|enter]] a standby state which [[c/_conserves|conserves]] [[p/_power|power]] without [[l/_losing|losing]] the [[c/_contents|contents]] of [[m/_memory|memory]].**
+- **To [[e/_enter|enter]] a [[s/_standby|standby]] [[s/_state|state]] which [[c/_conserves|conserves]] [[p/_power|power]] without [[l/_losing|losing]] the [[c/_contents|contents]] of [[m/_memory|memory]].**
 ---
 ### Antonyms
 - [[a/_aestivate|aestivate]], [[e/_estivate|estivate]]

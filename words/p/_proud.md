@@ -8,11 +8,11 @@
 - **[[h/_having|Having]] too [[h/_high|high]] an [[o/_opinion|opinion]] of [[o/_oneself|oneself]]; [[a/_arrogant|arrogant]], supercilious.**
 - **[[g/_generating|Generating]] a [[s/_sense|sense]] of [[p/_pride|pride]]; [[b/_being|being]] a [[c/_cause|cause]] for [[p/_pride|pride]].**
 	- _Example: It was a proud day when we finally won the championship._
-- **(Of things) standing upwards as in the [[m/_manner|manner]] of a [[p/_proud|proud]] [[p/_person|person]]; stately or [[m/_majestic|majestic]].**
-- **Standing [[o/_out|out]] or [[r/_raised|raised]]; swollen.**
+- **(Of things) [[s/_standing|standing]] upwards as in the [[m/_manner|manner]] of a [[p/_proud|proud]] [[p/_person|person]]; [[s/_stately|stately]] or [[m/_majestic|majestic]].**
+- **[[s/_standing|Standing]] [[o/_out|out]] or [[r/_raised|raised]]; swollen.**
 	- _Example: After it had healed, the scar tissue stood proud of his flesh._
 - **[[b/_brave|Brave]], valiant; [[g/_gallant|gallant]].**
-- **[[e/_excited|Excited]] by [[s/_sexual|sexual]] [[d/_desire|desire]]; specifically of a [[f/_female|female]] [[a/_animal|animal]]: in [[h/_heat|heat]].**
+- **[[e/_excited|Excited]] by [[s/_sexual|sexual]] [[d/_desire|desire]]; [[s/_specifically|specifically]] of a [[f/_female|female]] [[a/_animal|animal]]: in [[h/_heat|heat]].**
 ---
 ### Antonyms
 - [[a/_ashamed|ashamed]]

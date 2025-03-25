@@ -5,6 +5,6 @@
 - **A [[m/_modern|modern]] [[f/_fencing|fencing]] sword [[m/_modeled|modeled]] [[a/_after|after]] the [[s/_sabre|sabre]].**
 ---
 #verb
-- **To strike or [[k/_kill|kill]] with a [[s/_sabre|sabre]].**
+- **To [[s/_strike|strike]] or [[k/_kill|kill]] with a [[s/_sabre|sabre]].**
 ---
 ---

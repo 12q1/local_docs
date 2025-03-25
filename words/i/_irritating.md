@@ -12,6 +12,6 @@
 - [[p/_placate|placate]], [[p/_please|please]], [[s/_soothe|soothe]]
 #adjective
 - **[[c/_causing|Causing]] [[i/_irritation|irritation]], [[a/_annoyance|annoyance]] or [[p/_pain|pain]].**
-- **Stimulating or [[e/_exciting|exciting]] a [[r/_response|response]].**
+- **[[s/_stimulating|Stimulating]] or [[e/_exciting|exciting]] a [[r/_response|response]].**
 ---
 ---

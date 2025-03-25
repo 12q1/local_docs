@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[n/_native|native]], or [[i/_inhabitant|inhabitant]] of Pomerania.**
-- **A [[b/_breed|breed]] of [[s/_small|small]], [[f/_fluffy|fluffy]], [[e/_energetic|energetic]] toy [[d/_dogs|dogs]] in the [[c/_canine|canine]] [[f/_family|family]] of spitzes.**
+- **A [[b/_breed|breed]] of [[s/_small|small]], [[f/_fluffy|fluffy]], [[e/_energetic|energetic]] toy [[d/_dogs|dogs]] in the [[c/_canine|canine]] [[f/_family|family]] of [[s/_spitzes|spitzes]].**
 ---
 ### Synonyms
 - [[Z/_Zwergspitz|Zwergspitz]]

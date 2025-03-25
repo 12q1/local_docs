@@ -2,6 +2,6 @@
 ---
 #noun
 - **[[s/_semicircle|Semicircle]]**
-- **A [[s/_semicircular|semicircular]] structure**
+- **A [[s/_semicircular|semicircular]] [[s/_structure|structure]]**
 ---
 ---

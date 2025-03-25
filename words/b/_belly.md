@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_abdomen|abdomen]], [[e/_especially|especially]] a [[f/_fat|fat]] [[o/_one|one]].**
-- **The stomach.**
+- **The [[s/_stomach|stomach]].**
 - **The womb.**
 - **The [[l/_lower|lower]] [[f/_fuselage|fuselage]] of an [[a/_airplane|airplane]].**
 - **The [[p/_part|part]] of [[a/_anything|anything]] which [[r/_resembles|resembles]] the [[h/_human|human]] [[b/_belly|belly]] in [[p/_protuberance|protuberance]] or in [[c/_cavity|cavity]]; the [[i/_innermost|innermost]] [[p/_part|part]].**

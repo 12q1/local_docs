@@ -7,7 +7,7 @@
 - **[[b/_busy|Busy]] [[a/_activity|activity]], [[l/_like|like]] the [[b/_buzz|buzz]] of a [[b/_beehive|beehive]].**
 - **Unpleasant [[o/_odour|odour]].**
 - **An [[i/_imposition|imposition]] or [[h/_hoax|hoax]]; [[h/_humbug|humbug]].**
-- **A [[k/_kind|kind]] of strong [[d/_drink|drink]].**
+- **A [[k/_kind|kind]] of [[s/_strong|strong]] [[d/_drink|drink]].**
 - **A [[p/_phenomenon|phenomenon]], or [[c/_collection|collection]] of [[p/_phenomena|phenomena]], [[i/_involving|involving]] widespread [[r/_reports|reports]] of a [[p/_persistent|persistent]] and [[i/_invasive|invasive]] [[l/_low|low]]-[[f/_frequency|frequency]] [[h/_humming|humming]], [[r/_rumbling|rumbling]], or [[d/_droning|droning]] [[n/_noise|noise]] not [[a/_audible|audible]] to [[a/_all|all]] [[p/_people|people]].**
 ---
 #verb

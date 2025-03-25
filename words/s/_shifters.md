@@ -4,7 +4,7 @@
 - **[[o/_one|One]] who, or that which, [[s/_shifts|shifts]] or [[c/_changes|changes]].**
 - **A word whose [[m/_meaning|meaning]] [[c/_changes|changes]] [[d/_depending|depending]] on the [[s/_situation|situation]], as by [[d/_deixis|deixis]].**
 - **[[o/_one|One]] who [[p/_plays|plays]] tricks or [[p/_practices|practices]] [[a/_artifice|artifice]]; a [[c/_cozener|cozener]].**
-- **An [[a/_assistant|assistant]] to the [[s/_ship|ship]]'[[s/_s|s]] [[c/_cook|cook]] in washing, steeping, and [[s/_shifting|shifting]] the [[s/_salt|salt]] [[p/_provisions|provisions]].**
+- **An [[a/_assistant|assistant]] to the [[s/_ship|ship]]'[[s/_s|s]] [[c/_cook|cook]] in washing, [[s/_steeping|steeping]], and [[s/_shifting|shifting]] the [[s/_salt|salt]] [[p/_provisions|provisions]].**
 - **An [[a/_arrangement|arrangement]] for [[s/_shifting|shifting]] a [[b/_belt|belt]] [[s/_sidewise|sidewise]] from [[o/_one|one]] [[p/_pulley|pulley]] to [[a/_another|another]].**
 - **A wire for [[c/_changing|changing]] a [[l/_loop|loop]] from [[o/_one|one]] [[n/_needle|needle]] to [[a/_another|another]], as in [[n/_narrowing|narrowing]], [[e/_etc|etc]].**
 - **A [[c/_component|component]] used by the [[r/_rider|rider]] to [[c/_control|control]] the [[g/_gearing|gearing]] [[m/_mechanisms|mechanisms]] and [[s/_select|select]] the [[d/_desired|desired]] [[g/_gear|gear]] [[r/_ratio|ratio]], usually [[c/_connected|connected]] to the [[d/_derailleur|derailleur]] by a [[m/_mechanical|mechanical]] [[a/_actuation|actuation]] [[c/_cable|cable]].**

@@ -1,7 +1,7 @@
 # Expands
 ---
 #verb
-- **To [[c/_change|change]] ([[s/_something|something]]) from a [[s/_smaller|smaller]] [[f/_form|form]] and/or [[s/_size|size]] to a [[l/_larger|larger]] [[o/_one|one]]; to spread [[o/_out|out]] or [[l/_lay|lay]] [[o/_open|open]].**
+- **To [[c/_change|change]] ([[s/_something|something]]) from a [[s/_smaller|smaller]] [[f/_form|form]] and/or [[s/_size|size]] to a [[l/_larger|larger]] [[o/_one|one]]; to [[s/_spread|spread]] [[o/_out|out]] or [[l/_lay|lay]] [[o/_open|open]].**
 	- _Example: You can expand this compact umbrella to cover a large table._
 - **To [[i/_increase|increase]] the [[e/_extent|extent]], [[n/_number|number]], volume or [[s/_scope|scope]] of ([[s/_something|something]]).**
 	- _Example: A flower expands its leaves._

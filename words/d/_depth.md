@@ -4,7 +4,7 @@
 - **The vertical [[d/_distance|distance]] [[b/_below|below]] a surface; the [[d/_degree|degree]] to which [[s/_something|something]] is [[d/_deep|deep]]**
 	- _Example: Measure the depth of the water in this part of the bay._
 - **The [[d/_distance|distance]] [[b/_between|between]] the [[f/_front|front]] and the [[b/_back|back]], as the [[d/_depth|depth]] of a [[d/_drawer|drawer]] or [[c/_closet|closet]]**
-- **The [[i/_intensity|intensity]], [[c/_complexity|complexity]], strength, [[s/_seriousness|seriousness]] or [[i/_importance|importance]] of an [[e/_emotion|emotion]], [[s/_situation|situation]], [[e/_etc|etc]].**
+- **The [[i/_intensity|intensity]], [[c/_complexity|complexity]], [[s/_strength|strength]], [[s/_seriousness|seriousness]] or [[i/_importance|importance]] of an [[e/_emotion|emotion]], [[s/_situation|situation]], [[e/_etc|etc]].**
 	- _Example: The depth of her misery was apparent to everyone._
 - **[[l/_lowness|Lowness]]**
 	- _Example: the depth of a sound_

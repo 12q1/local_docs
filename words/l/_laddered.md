@@ -7,6 +7,6 @@
 	- _Example: Oh damn it, I've laddered my tights!_
 ---
 #adjective
-- **(of tights, stockings, [[e/_etc|etc]]) [[h/_having|Having]] a [[l/_ladder|ladder]] in them.**
+- **(of tights, [[s/_stockings|stockings]], [[e/_etc|etc]]) [[h/_having|Having]] a [[l/_ladder|ladder]] in them.**
 ---
 ---

@@ -12,7 +12,7 @@
 	- _Example: A man must use his seed to start and raise a family._
 - **A [[p/_precursor|precursor]].**
 	- _Example: the seed of an idea; which idea was the seed (idea)?_
-- **The [[i/_initial|initial]] state, [[c/_condition|condition]] or [[p/_position|position]] of a [[c/_changing|changing]], [[g/_growing|growing]] or [[d/_developing|developing]] [[p/_process|process]]; the ultimate [[p/_precursor|precursor]] in a [[d/_defined|defined]] [[c/_chain|chain]] of [[p/_precursors|precursors]].**
+- **The [[i/_initial|initial]] [[s/_state|state]], [[c/_condition|condition]] or [[p/_position|position]] of a [[c/_changing|changing]], [[g/_growing|growing]] or [[d/_developing|developing]] [[p/_process|process]]; the ultimate [[p/_precursor|precursor]] in a [[d/_defined|defined]] [[c/_chain|chain]] of [[p/_precursors|precursors]].**
 - **[[o/_offspring|Offspring]], [[d/_descendants|descendants]], [[p/_progeny|progeny]].**
 	- _Example: the seed of Abraham_
 - **[[r/_race|Race]]; [[g/_generation|generation]]; [[b/_birth|birth]].**
@@ -24,7 +24,7 @@
 - **To [[p/_plant|plant]] or [[s/_sow|sow]] an [[a/_area|area]] with [[s/_seeds|seeds]].**
 	- _Example: I seeded my lawn with bluegrass._
 - **To [[c/_cover|cover]] thinly with [[s/_something|something]] [[s/_scattered|scattered]]; to [[o/_ornament|ornament]] with [[s/_seedlike|seedlike]] [[d/_decorations|decorations]].**
-- **To start; to [[p/_provide|provide]], [[a/_assign|assign]] or [[d/_determine|determine]] the [[i/_initial|initial]] [[r/_resources|resources]] for, [[p/_position|position]] of, state of.**
+- **To [[s/_start|start]]; to [[p/_provide|provide]], [[a/_assign|assign]] or [[d/_determine|determine]] the [[i/_initial|initial]] [[r/_resources|resources]] for, [[p/_position|position]] of, [[s/_state|state]] of.**
 	- _Example: A venture capitalist seeds young companies._
 - **To [[a/_allocate|allocate]] a [[s/_seeding|seeding]] to a [[c/_competitor|competitor]].**
 - **To [[l/_leave|leave]] ([[f/_files|files]]) [[a/_available|available]] for [[o/_others|others]] to [[d/_download|download]] through [[p/_peer|peer]]-to-[[p/_peer|peer]] [[f/_file|file]] [[s/_sharing|sharing]] [[p/_protocols|protocols]] ([[e/_e|e]].[[g/_g|g]]. BitTorrent).**

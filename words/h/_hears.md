@@ -1,9 +1,9 @@
 # Hears
 ---
 #verb
-- **(stative) To [[p/_perceive|perceive]] [[s/_sounds|sounds]] through the [[e/_ear|ear]].**
+- **([[s/_stative|stative]]) To [[p/_perceive|perceive]] [[s/_sounds|sounds]] through the [[e/_ear|ear]].**
 	- _Example: I was deaf, and now I can hear._
-- **(stative) To [[p/_perceive|perceive]] (a [[s/_sound|sound]], or [[s/_something|something]] [[p/_producing|producing]] a [[s/_sound|sound]]) with the [[e/_ear|ear]], to [[r/_recognize|recognize]] ([[s/_something|something]]) in an [[a/_auditory|auditory]] way.**
+- **([[s/_stative|stative]]) To [[p/_perceive|perceive]] (a [[s/_sound|sound]], or [[s/_something|something]] [[p/_producing|producing]] a [[s/_sound|sound]]) with the [[e/_ear|ear]], to [[r/_recognize|recognize]] ([[s/_something|something]]) in an [[a/_auditory|auditory]] way.**
 	- _Example: I heard a sound from outside the window._
 - **To [[e/_exercise|exercise]] this [[f/_faculty|faculty]] [[i/_intentionally|intentionally]]; to [[l/_listen|listen]] to.**
 - **To [[l/_listen|listen]] [[f/_favourably|favourably]] to; to [[g/_grant|grant]] (a [[r/_request|request]] [[e/_etc|etc]].).**

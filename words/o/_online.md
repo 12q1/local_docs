@@ -1,7 +1,7 @@
 # Online
 ---
 #verb
-- **To [[b/_bring|bring]] (a [[s/_system|system]], [[e/_etc|etc]].) [[o/_online|online]]; to [[p/_promote|promote]] to an [[a/_active|active]] or [[r/_running|running]] state.**
+- **To [[b/_bring|bring]] (a [[s/_system|system]], [[e/_etc|etc]].) [[o/_online|online]]; to [[p/_promote|promote]] to an [[a/_active|active]] or [[r/_running|running]] [[s/_state|state]].**
 ---
 #adjective
 - **Of a [[s/_system|system]]: [[c/_connected|connected]] ([[g/_generally|generally]] [[e/_electrically|electrically]]) to a [[l/_larger|larger]] [[n/_network|network]].**
@@ -17,7 +17,7 @@
 ### Antonyms
 - [[h/_hardcopy|hardcopy]], [[o/_offline|offline]]
 #adverb
-- **While [[o/_online|online]]; while in a [[r/_running|running]] or [[a/_active|active]] state, or [[c/_connected|connected]] to the [[i/_internet|Internet]].**
+- **While [[o/_online|online]]; while in a [[r/_running|running]] or [[a/_active|active]] [[s/_state|state]], or [[c/_connected|connected]] to the [[i/_internet|Internet]].**
 	- _Example: He works online._
 ---
 ---

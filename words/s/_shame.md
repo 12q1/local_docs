@@ -14,7 +14,7 @@
 ### Antonyms
 - [[h/_honor|honor]]
 #interjection
-- **A [[c/_cry|cry]] of [[a/_admonition|admonition]] for the subject of a speech, [[e/_either|either]] to [[d/_denounce|denounce]] the [[s/_speaker|speaker]] or to [[a/_agree|agree]] with the [[s/_speaker|speaker]]'[[s/_s|s]] [[d/_denunciation|denunciation]] of [[s/_some|some]] [[p/_person|person]] or [[m/_matter|matter]]; [[o/_often|often]] used [[r/_reduplicated|reduplicated]], [[e/_especially|especially]] in [[p/_political|political]] [[d/_debates|debates]].**
+- **A [[c/_cry|cry]] of [[a/_admonition|admonition]] for the subject of a [[s/_speech|speech]], [[e/_either|either]] to [[d/_denounce|denounce]] the [[s/_speaker|speaker]] or to [[a/_agree|agree]] with the [[s/_speaker|speaker]]'[[s/_s|s]] [[d/_denunciation|denunciation]] of [[s/_some|some]] [[p/_person|person]] or [[m/_matter|matter]]; [[o/_often|often]] used [[r/_reduplicated|reduplicated]], [[e/_especially|especially]] in [[p/_political|political]] [[d/_debates|debates]].**
 - **[[e/_expressing|Expressing]] [[s/_sympathy|sympathy]].**
 	- _Example: Shame, you poor thing, you must be cold!_
 ---

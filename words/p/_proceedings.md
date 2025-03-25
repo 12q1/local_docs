@@ -5,7 +5,7 @@
 - **An [[e/_event|event]] or [[h/_happening|happening]]; [[s/_something|something]] that [[h/_happens|happens]]**
 - **([[a/_always|always]] in [[p/_plural|plural]]) A [[p/_published|published]] [[c/_collection|collection]] of [[p/_papers|papers]] [[p/_presented|presented]] at an [[a/_academic|academic]] [[c/_conference|conference]], or [[r/_representing|representing]] the [[a/_acts|acts]] of a [[l/_learned|learned]] [[s/_society|society]].**
 - **[[p/_progress|Progress]] or [[m/_movement|movement]] from [[o/_one|one]] thing to [[a/_another|another]].**
-- **A [[m/_measure|measure]] or step taken in a [[c/_course|course]] of [[b/_business|business]]; a transaction**
+- **A [[m/_measure|measure]] or [[s/_step|step]] taken in a [[c/_course|course]] of [[b/_business|business]]; a transaction**
 	- _Example: a cautious or a violent proceeding_
 - **[[a/_any|Any]] [[l/_legal|legal]] [[a/_action|action]], [[e/_especially|especially]] [[o/_one|one]] that is not a [[l/_lawsuit|lawsuit]].**
 ---

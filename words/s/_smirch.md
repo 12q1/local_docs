@@ -1,8 +1,8 @@
 # Smirch
 ---
 #noun
-- **[[d/_dirt|Dirt]], or a stain.**
-- **A stain on [[s/_somebody|somebody]]'[[s/_s|s]] [[r/_reputation|reputation]].**
+- **[[d/_dirt|Dirt]], or a [[s/_stain|stain]].**
+- **A [[s/_stain|stain]] on [[s/_somebody|somebody]]'[[s/_s|s]] [[r/_reputation|reputation]].**
 ---
 #verb
 - **To [[d/_dirty|dirty]]; to [[m/_make|make]] [[d/_dirty|dirty]].**

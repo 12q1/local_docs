@@ -14,7 +14,7 @@
 ### Synonyms
 - [[d/_desiccate|desiccate]], [[f/_fordry|fordry]], [[a/_age|age]], [[m/_mature|mature]], [[c/_coitize|coitize]], [[w/_wont|wont]], [[a/_admix|admix]], [[a/_alloy|alloy]], [[i/_intermingle|intermingle]], [[d/_dehydrate|dehydrate]], [[d/_desiccate|desiccate]], [[e/_exiccate|exiccate]], [[f/_fordry|fordry]]
 #verb
-- **To [[f/_flavour|flavour]] [[f/_food|food]] with spices, [[h/_herbs|herbs]] or [[s/_salt|salt]].**
+- **To [[f/_flavour|flavour]] [[f/_food|food]] with [[s/_spices|spices]], [[h/_herbs|herbs]] or [[s/_salt|salt]].**
 ---
 #adjective
 - **[[e/_experienced|Experienced]], [[e/_especially|especially]] in terms of a [[p/_profession|profession]] or a [[h/_hobby|hobby]]**

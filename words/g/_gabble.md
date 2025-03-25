@@ -1,7 +1,7 @@
 # Gabble
 ---
 #noun
-- **[[c/_confused|Confused]] or unintelligible speech.**
+- **[[c/_confused|Confused]] or unintelligible [[s/_speech|speech]].**
 ---
 #verb
 - **To talk [[f/_fast|fast]], [[i/_idly|idly]], [[f/_foolishly|foolishly]], or without [[m/_meaning|meaning]].**

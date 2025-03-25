@@ -19,7 +19,7 @@
 - **Very [[p/_painful|painful]] or tedious; wearisome.**
 	- _Example: a sermon lasting two mortal hours_
 - **Very [[d/_drunk|drunk]]; wasted; [[s/_smashed|smashed]].**
-- **Of a [[s/_sin|sin]]: [[i/_involving|involving]] the [[p/_penalty|penalty]] of spiritual [[d/_death|death]], [[r/_rather|rather]] than [[m/_merely|merely]] venial.**
+- **Of a [[s/_sin|sin]]: [[i/_involving|involving]] the [[p/_penalty|penalty]] of [[s/_spiritual|spiritual]] [[d/_death|death]], [[r/_rather|rather]] than [[m/_merely|merely]] venial.**
 ---
 ### Synonyms
 - [[b/_baneful|baneful]], [[f/_fatal|fatal]], [[l/_lethal|lethal]]

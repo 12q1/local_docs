@@ -7,6 +7,6 @@
 - **An [[o/_official|official]] [[h/_headdress|headdress]], such as that worn by [[c/_certain|certain]] [[j/_judges|judges]] in [[e/_england|England]].**
 ---
 #verb
-- **To style or [[a/_arrange|arrange]] [[h/_hair|hair]].**
+- **To [[s/_style|style]] or [[a/_arrange|arrange]] [[h/_hair|hair]].**
 ---
 ---

@@ -14,6 +14,6 @@
 ---
 #noun
 - **An [[i/_instance|instance]] of [[p/_processing|processing]] [[s/_something|something]] in [[b/_brine|brine]] or [[o/_other|other]] [[s/_solution|solution]].**
-- **A [[p/_process|process]] by which the [[o/_oxide|oxide]] [[s/_scale|scale]] on steel ([[e/_especially|especially]] stainless steels) is [[c/_chemically|chemically]] [[r/_removed|removed]] (by strong [[a/_acids|acids]]).**
+- **A [[p/_process|process]] by which the [[o/_oxide|oxide]] [[s/_scale|scale]] on [[s/_steel|steel]] ([[e/_especially|especially]] [[s/_stainless|stainless]] [[s/_steels|steels]]) is [[c/_chemically|chemically]] [[r/_removed|removed]] (by [[s/_strong|strong]] [[a/_acids|acids]]).**
 ---
 ---

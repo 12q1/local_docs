@@ -13,7 +13,7 @@
 #verb
 - **To [[s/_separate|separate]]; to [[d/_disengage|disengage]].**
 - **To [[r/_remove|remove]]; to take [[a/_away|away]]; withdraw.**
-- **To steal; to take [[a/_away|away]]; to [[r/_remove|remove]] without [[p/_permission|permission]].**
+- **To [[s/_steal|steal]]; to take [[a/_away|away]]; to [[r/_remove|remove]] without [[p/_permission|permission]].**
 - **To summarize; to [[a/_abridge|abridge]]; to [[e/_epitomize|epitomize]].**
 - **To [[c/_conceptualize|conceptualize]] an [[i/_ideal|ideal]] subgroup by [[m/_means|means]] of the [[g/_generalization|generalization]] of an [[a/_attribute|attribute]], as [[f/_follows|follows]]: by [[a/_apprehending|apprehending]] an [[a/_attribute|attribute]] [[i/_inherent|inherent]] to [[o/_one|one]] [[i/_individual|individual]], then [[s/_separating|separating]] that [[a/_attribute|attribute]] and [[c/_contemplating|contemplating]] it by [[i/_itself|itself]], then [[c/_conceiving|conceiving]] of that [[a/_attribute|attribute]] as a [[g/_general|general]] [[q/_quality|quality]], then despecifying that [[c/_conceived|conceived]] [[q/_quality|quality]] with [[r/_respect|respect]] to [[s/_several|several]] or [[m/_many|many]] [[i/_individuals|individuals]], and by then [[i/_ideating|ideating]] a [[g/_group|group]] [[c/_composed|composed]] of those [[i/_individuals|individuals]] [[p/_perceived|perceived]] to [[p/_possess|possess]] [[s/_said|said]] [[q/_quality|quality]].**
 - **To [[e/_extract|extract]] by [[m/_means|means]] of [[d/_distillation|distillation]].**
@@ -34,7 +34,7 @@
 - **Not [[c/_concrete|concrete]]: [[c/_conceptual|conceptual]], [[i/_ideal|ideal]].**
 - **[[d/_difficult|Difficult]] to understand; [[a/_abstruse|abstruse]]; [[h/_hard|hard]] to [[c/_conceptualize|conceptualize]].**
 - **[[s/_separately|Separately]] [[e/_expressing|expressing]] a [[p/_property|property]] or [[a/_attribute|attribute]] of an [[o/_object|object]] that is [[c/_considered|considered]] to be [[i/_inherent|inherent]] to that [[o/_object|object]]: [[a/_attributive|attributive]], [[a/_ascriptive|ascriptive]].**
-- **[[p/_pertaining|Pertaining]] [[c/_comprehensively|comprehensively]] to, or [[r/_representing|representing]], a [[c/_class|class]] or [[g/_group|group]] of [[o/_objects|objects]], as [[o/_opposed|opposed]] to [[a/_any|any]] specific [[o/_object|object]]; [[c/_considered|considered]] [[a/_apart|apart]] from [[a/_any|any]] [[a/_application|application]] to a [[p/_particular|particular]] [[o/_object|object]]: [[g/_general|general]], [[g/_generic|generic]], [[n/_nonspecific|nonspecific]]; [[r/_representational|representational]].**
+- **[[p/_pertaining|Pertaining]] [[c/_comprehensively|comprehensively]] to, or [[r/_representing|representing]], a [[c/_class|class]] or [[g/_group|group]] of [[o/_objects|objects]], as [[o/_opposed|opposed]] to [[a/_any|any]] [[s/_specific|specific]] [[o/_object|object]]; [[c/_considered|considered]] [[a/_apart|apart]] from [[a/_any|any]] [[a/_application|application]] to a [[p/_particular|particular]] [[o/_object|object]]: [[g/_general|general]], [[g/_generic|generic]], [[n/_nonspecific|nonspecific]]; [[r/_representational|representational]].**
 - **[[a/_absent|Absent]]-[[m/_minded|minded]].**
 - **[[p/_pertaining|Pertaining]] to the [[f/_formal|formal]] [[a/_aspect|aspect]] of [[a/_art|art]], such as the [[l/_lines|lines]], [[c/_colors|colors]], [[s/_shapes|shapes]], and the [[r/_relationships|relationships]] [[a/_among|among]] them.**
 - **[[i/_insufficiently|Insufficiently]] [[f/_factual|factual]].**

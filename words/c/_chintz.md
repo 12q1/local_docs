@@ -1,6 +1,6 @@
 # Chintz
 ---
 #noun
-- **A [[p/_painted|painted]] or stained [[c/_calico|calico]] [[f/_fabric|fabric]], [[o/_originally|originally]] [[p/_produced|produced]] in [[i/_india|India]], and [[k/_known|known]] for [[i/_its|its]] [[b/_brightly|brightly]] [[c/_colored|colored]] [[d/_designs|designs]].**
+- **A [[p/_painted|painted]] or [[s/_stained|stained]] [[c/_calico|calico]] [[f/_fabric|fabric]], [[o/_originally|originally]] [[p/_produced|produced]] in [[i/_india|India]], and [[k/_known|known]] for [[i/_its|its]] [[b/_brightly|brightly]] [[c/_colored|colored]] [[d/_designs|designs]].**
 ---
 ---

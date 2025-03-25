@@ -15,7 +15,7 @@
 - **The [[i/_indicator|indicator]] of the [[c/_currently|currently]] [[a/_active|active]] [[e/_element|element]] in a user [[i/_interface|interface]].**
 	- _Example: Text entered at the keyboard or pasted from a clipboard is sent to the component which currently has the focus._
 - **The [[m/_most|most]] [[i/_important|important]] word or [[p/_phrase|phrase]] in a [[s/_sentence|sentence]] or [[p/_passage|passage]], or the [[o/_one|one]] that [[i/_imparts|imparts]] [[i/_information|information]].**
-- **An [[o/_object|object]] used in [[c/_casting|casting]] a [[m/_magic|magic]] spell.**
+- **An [[o/_object|object]] used in [[c/_casting|casting]] a [[m/_magic|magic]] [[s/_spell|spell]].**
 ---
 #verb
 - **([[f/_followed|followed]] by on or upon) To [[c/_concentrate|concentrate]] [[o/_one|one]]'[[s/_s|s]] [[a/_attention|attention]].**

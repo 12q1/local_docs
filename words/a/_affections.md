@@ -2,10 +2,10 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[a/_affecting|affecting]] or [[a/_acting|acting]] upon.**
-- **The state of [[b/_being|being]] [[a/_affected|affected]], [[e/_especially|especially]]: a [[c/_change|change]] in, or [[a/_alteration|alteration]] of, the [[e/_emotional|emotional]] state of a [[p/_person|person]] or [[o/_other|other]] [[a/_animal|animal]], [[c/_caused|caused]] by a subjective [[a/_affect|affect]] (a subjective [[f/_feeling|feeling]] or [[e/_emotion|emotion]]), which [[a/_arises|arises]] in [[r/_response|response]] to a stimulus which [[m/_may|may]] [[r/_result|result]] from [[e/_either|either]] thought or [[p/_perception|perception]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[a/_affected|affected]], [[e/_especially|especially]]: a [[c/_change|change]] in, or [[a/_alteration|alteration]] of, the [[e/_emotional|emotional]] [[s/_state|state]] of a [[p/_person|person]] or [[o/_other|other]] [[a/_animal|animal]], [[c/_caused|caused]] by a subjective [[a/_affect|affect]] (a subjective [[f/_feeling|feeling]] or [[e/_emotion|emotion]]), which [[a/_arises|arises]] in [[r/_response|response]] to a [[s/_stimulus|stimulus]] which [[m/_may|may]] [[r/_result|result]] from [[e/_either|either]] thought or [[p/_perception|perception]].**
 - **An [[a/_attribute|attribute]]; a [[q/_quality|quality]] or [[p/_property|property]]; a [[c/_condition|condition]].**
 - **An [[e/_emotion|emotion]]; a [[f/_feeling|feeling]] or [[n/_natural|natural]] [[i/_impulse|impulse]] [[a/_acting|acting]] upon and swaying the [[m/_mind|mind]].**
-- **A [[f/_feeling|feeling]] of [[l/_love|love]] or strong [[a/_attachment|attachment]].**
+- **A [[f/_feeling|feeling]] of [[l/_love|love]] or [[s/_strong|strong]] [[a/_attachment|attachment]].**
 	- _Example: I have a lot of affection for my little sister._
 - **[[d/_disease|Disease]]; [[m/_morbid|morbid]] [[s/_symptom|symptom]]; [[m/_malady|malady]].**
 ---

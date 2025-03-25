@@ -1,9 +1,9 @@
 # Moss
 ---
 #noun
-- **[[a/_any|Any]] of various [[s/_small|small]], [[g/_green|green]], [[s/_seedless|seedless]] [[p/_plants|plants]] [[g/_growing|growing]] on the [[g/_ground|ground]] or on the surfaces of trees, stones, [[e/_etc|etc]].; [[n/_now|now]] specifically, a [[p/_plant|plant]] of the [[p/_phylum|phylum]] [[b/_bryophyta|Bryophyta]] ([[f/_formerly|formerly]] [[d/_division|division]] [[m/_musci|Musci]]).**
-- **A [[k/_kind|kind]] or species of such [[p/_plants|plants]].**
-- **[[a/_any|Any]] [[a/_alga|alga]], [[l/_lichen|lichen]], [[b/_bryophyte|bryophyte]], or [[o/_other|other]] [[p/_plant|plant]] of [[s/_seemingly|seemingly]] [[s/_simple|simple]] structure.**
+- **[[a/_any|Any]] of various [[s/_small|small]], [[g/_green|green]], [[s/_seedless|seedless]] [[p/_plants|plants]] [[g/_growing|growing]] on the [[g/_ground|ground]] or on the surfaces of trees, [[s/_stones|stones]], [[e/_etc|etc]].; [[n/_now|now]] [[s/_specifically|specifically]], a [[p/_plant|plant]] of the [[p/_phylum|phylum]] [[b/_bryophyta|Bryophyta]] ([[f/_formerly|formerly]] [[d/_division|division]] [[m/_musci|Musci]]).**
+- **A [[k/_kind|kind]] or [[s/_species|species]] of such [[p/_plants|plants]].**
+- **[[a/_any|Any]] [[a/_alga|alga]], [[l/_lichen|lichen]], [[b/_bryophyte|bryophyte]], or [[o/_other|other]] [[p/_plant|plant]] of [[s/_seemingly|seemingly]] [[s/_simple|simple]] [[s/_structure|structure]].**
 	- _Example: Irish moss_
 - **A [[b/_bog|bog]]; a [[f/_fen|fen]].**
 	- _Example: the mosses of the Scottish border_

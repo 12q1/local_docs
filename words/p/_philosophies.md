@@ -12,7 +12,7 @@
 - **A [[c/_calm|calm]] and thoughtful [[d/_demeanor|demeanor]]; [[c/_calmness|calmness]] of temper.**
 ---
 #noun
-- **The [[s/_size|size]] of type [[b/_between|between]] [[l/_long|long]] [[p/_primer|primer]] and [[p/_pica|pica]], standardized as 11 [[p/_point|point]].**
+- **The [[s/_size|size]] of type [[b/_between|between]] [[l/_long|long]] [[p/_primer|primer]] and [[p/_pica|pica]], [[s/_standardized|standardized]] as 11 [[p/_point|point]].**
 ---
 ### Synonyms
 - [[p/_philosophy|philosophy]]

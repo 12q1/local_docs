@@ -1,7 +1,7 @@
 # Bush
 ---
 #noun
-- **A woody [[p/_plant|plant]] [[d/_distinguished|distinguished]] from a tree by [[i/_its|its]] [[m/_multiple|multiple]] stems and [[l/_lower|lower]] [[h/_height|height]], [[b/_being|being]] usually [[l/_less|less]] than [[s/_six|six]] [[m/_metres|metres]] tall; a [[h/_horticultural|horticultural]] [[r/_rather|rather]] than strictly [[b/_botanical|botanical]] [[c/_category|category]].**
+- **A woody [[p/_plant|plant]] [[d/_distinguished|distinguished]] from a tree by [[i/_its|its]] [[m/_multiple|multiple]] [[s/_stems|stems]] and [[l/_lower|lower]] [[h/_height|height]], [[b/_being|being]] usually [[l/_less|less]] than [[s/_six|six]] [[m/_metres|metres]] tall; a [[h/_horticultural|horticultural]] [[r/_rather|rather]] than [[s/_strictly|strictly]] [[b/_botanical|botanical]] [[c/_category|category]].**
 - **A [[s/_shrub|shrub]] [[c/_cut|cut]] [[o/_off|off]], or a [[s/_shrublike|shrublike]] [[b/_branch|branch]] of a tree.**
 	- _Example: bushes to support pea vines_
 - **A [[s/_shrub|shrub]] or [[b/_branch|branch]], [[p/_properly|properly]], a [[b/_branch|branch]] of [[i/_ivy|ivy]] ([[s/_sacred|sacred]] to [[b/_bacchus|Bacchus]]), [[h/_hung|hung]] [[o/_out|out]] at vintners' [[d/_doors|doors]], or as a tavern [[s/_sign|sign]]; [[h/_hence|hence]], a tavern [[s/_sign|sign]], and [[s/_symbolically|symbolically]], the tavern [[i/_itself|itself]].**

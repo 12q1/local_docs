@@ -10,7 +10,7 @@
 ### Synonyms
 - [[a/_anyway|anyway]], [[n/_nevertheless|nevertheless]], [[n/_nonetheless|nonetheless]], [[r/_regardless|regardless]], [[s/_still|still]], [[y/_yet|yet]]
 #preposition
-- **In spite of, [[d/_despite|despite]].**
+- **In [[s/_spite|spite]] of, [[d/_despite|despite]].**
 ---
 ### Synonyms
 - [[m/_maugre|maugre]]

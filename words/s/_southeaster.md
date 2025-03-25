@@ -1,6 +1,6 @@
 # Southeaster
 ---
 #noun
-- **A strong wind [[b/_blowing|blowing]] from the [[s/_southeast|southeast]]**
+- **A [[s/_strong|strong]] wind [[b/_blowing|blowing]] from the [[s/_southeast|southeast]]**
 ---
 ---

@@ -23,7 +23,7 @@
 - 
 #noun
 - **A swelling, [[l/_lump|lump]] or [[p/_protuberance|protuberance]] in an [[a/_animal|animal]], [[p/_person|person]] or [[o/_object|object]].**
-- **A [[l/_lump|lump]]-[[l/_like|like]] [[m/_mass|mass]] of [[r/_rock|rock]], [[e/_especially|especially]] [[o/_one|one]] [[p/_projecting|projecting]] through a stratum of [[d/_different|different]] [[r/_rock|rock]].**
+- **A [[l/_lump|lump]]-[[l/_like|like]] [[m/_mass|mass]] of [[r/_rock|rock]], [[e/_especially|especially]] [[o/_one|one]] [[p/_projecting|projecting]] through a [[s/_stratum|stratum]] of [[d/_different|different]] [[r/_rock|rock]].**
 - **A [[c/_convex|convex]] [[p/_protuberance|protuberance]] in [[h/_hammered|hammered]] work, [[e/_especially|especially]] the [[r/_rounded|rounded]] [[p/_projection|projection]] in the [[c/_centre|centre]] of a [[s/_shield|shield]].**
 - **A [[p/_protrusion|protrusion]], [[f/_frequently|frequently]] a [[c/_cylinder|cylinder]] of [[m/_material|material]] that [[e/_extends|extends]] [[b/_beyond|beyond]] a [[h/_hole|hole]].**
 - **A [[k/_knob|knob]] or [[p/_projection|projection]], usually at the [[i/_intersection|intersection]] of [[r/_ribs|ribs]] in a vault.**
@@ -35,7 +35,7 @@
 - **To [[d/_decorate|decorate]] with [[b/_bosses|bosses]]; to [[e/_emboss|emboss]].**
 ---
 #noun
-- **A [[h/_hassock|hassock]] or [[s/_small|small]] [[s/_seat|seat]], [[e/_especially|especially]] [[m/_made|made]] from a [[b/_bundle|bundle]] of straw.**
+- **A [[h/_hassock|hassock]] or [[s/_small|small]] [[s/_seat|seat]], [[e/_especially|especially]] [[m/_made|made]] from a [[b/_bundle|bundle]] of [[s/_straw|straw]].**
 ---
 ### Synonyms
 - [[f/_footrest|footrest]], [[h/_hassock|hassock]]

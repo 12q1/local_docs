@@ -1,6 +1,6 @@
 # Graecism
 ---
 #noun
-- **[[a/_alternative|Alternative]] spelling of [[g/_grecism|grecism]]**
+- **[[a/_alternative|Alternative]] [[s/_spelling|spelling]] of [[g/_grecism|grecism]]**
 ---
 ---

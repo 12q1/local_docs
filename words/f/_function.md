@@ -4,7 +4,7 @@
 - **What [[s/_something|something]] [[d/_does|does]] or is used for.**
 - **A [[p/_professional|professional]] or [[o/_official|official]] [[p/_position|position]].**
 - **An [[o/_official|official]] or [[s/_social|social]] [[o/_occasion|occasion]].**
-- **[[s/_something|Something]] which is [[d/_dependent|dependent]] on or stems from [[a/_another|another]] thing; a [[r/_result|result]] or [[c/_concomitant|concomitant]].**
+- **[[s/_something|Something]] which is [[d/_dependent|dependent]] on or [[s/_stems|stems]] from [[a/_another|another]] thing; a [[r/_result|result]] or [[c/_concomitant|concomitant]].**
 - **A [[r/_relation|relation]] where [[o/_one|one]] thing is [[d/_dependent|dependent]] on [[a/_another|another]] for [[i/_its|its]] [[e/_existence|existence]], value, or [[s/_significance|significance]].**
 - **A [[r/_relation|relation]] in which [[e/_each|each]] [[e/_element|element]] of the [[d/_domain|domain]] is [[a/_associated|associated]] with [[e/_exactly|exactly]] [[o/_one|one]] [[e/_element|element]] of the [[c/_codomain|codomain]].**
 - **A [[r/_routine|routine]] that [[r/_receives|receives]] zero or [[m/_more|more]] [[a/_arguments|arguments]] and [[m/_may|may]] [[r/_return|return]] a [[r/_result|result]].**

@@ -5,9 +5,9 @@
 	- _Example: I tried washing my hands with soap, but the stain wouldn't go away._
 - **A [[m/_metallic|metallic]] [[s/_salt|salt]] [[d/_derived|derived]] from a [[f/_fatty|fatty]] [[a/_acid|acid]]**
 - **[[f/_flattery|Flattery]] or [[e/_excessively|excessively]] [[c/_complacent|complacent]] [[c/_conversation|conversation]].**
-- **[[m/_money|Money]], specially when used as a [[b/_bribe|bribe]].**
+- **[[m/_money|Money]], [[s/_specially|specially]] when used as a [[b/_bribe|bribe]].**
 - **A [[s/_soap|soap]] [[o/_opera|opera]].**
-- **A [[s/_solid|solid]] [[m/_masonry|masonry]] unit or [[b/_brick|brick]] [[r/_reduced|reduced]] in [[d/_depth|depth]] or [[h/_height|height]] from standard [[d/_dimensions|dimensions]].**
+- **A [[s/_solid|solid]] [[m/_masonry|masonry]] unit or [[b/_brick|brick]] [[r/_reduced|reduced]] in [[d/_depth|depth]] or [[h/_height|height]] from [[s/_standard|standard]] [[d/_dimensions|dimensions]].**
 ---
 #verb
 - **To [[a/_apply|apply]] [[s/_soap|soap]] to in washing.**

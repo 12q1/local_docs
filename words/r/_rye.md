@@ -6,7 +6,7 @@
 - **[[r/_rye|Rye]] [[b/_bread|bread]].**
 - **[[r/_rye|Rye]] whiskey.**
 - **[[c/_caraway|Caraway]] (from the [[m/_mistaken|mistaken]] [[a/_assumption|assumption]] that the whole [[s/_seeds|seeds]], [[o/_often|often]] used to [[s/_season|season]] [[r/_rye|rye]] [[b/_bread|bread]], are the [[r/_rye|rye]] [[i/_itself|itself]])**
-- **[[r/_ryegrass|Ryegrass]], [[a/_any|any]] of the species of [[l/_lolium|Lolium]].**
+- **[[r/_ryegrass|Ryegrass]], [[a/_any|any]] of the [[s/_species|species]] of [[l/_lolium|Lolium]].**
 - **A [[d/_disease|disease]] of [[h/_hawks|hawks]].**
 ---
 ---

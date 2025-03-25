@@ -11,6 +11,6 @@
 ### Synonyms
 - [[E/_EUR|EUR]]
 #noun
-- **[[m/_macropus|Macropus]] robustus, a wallaroo ([[m/_macropod|macropod]] species).**
+- **[[m/_macropus|Macropus]] robustus, a wallaroo ([[m/_macropod|macropod]] [[s/_species|species]]).**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[c/_catch|catch]] by [[m/_means|means]] of a [[n/_net|net]].**
-- **To [[c/_catch|catch]] in a trap, or by stratagem.**
+- **To [[c/_catch|catch]] in a trap, or by [[s/_stratagem|stratagem]].**
 - **To [[e/_enclose|enclose]] or [[c/_cover|cover]] with a [[n/_net|net]].**
 	- _Example: to net a tree_
 - **To [[s/_score|score]] (a [[g/_goal|goal]]).**

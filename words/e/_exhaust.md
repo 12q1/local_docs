@@ -1,8 +1,8 @@
 # Exhaust
 ---
 #noun
-- **A [[s/_system|system]] [[c/_consisting|consisting]] of the [[p/_parts|parts]] of an [[e/_engine|engine]] through which [[b/_burned|burned]] [[g/_gases|gases]] or steam are [[d/_discharged|discharged]]; [[s/_see|see]] [[a/_also|also]] [[e/_exhaust|exhaust]] [[s/_system|system]].**
-- **The steam [[l/_let|let]] [[o/_out|out]] of a [[c/_cylinder|cylinder]] [[a/_after|after]] it [[h/_has|has]] [[d/_done|done]] [[i/_its|its]] work there.**
+- **A [[s/_system|system]] [[c/_consisting|consisting]] of the [[p/_parts|parts]] of an [[e/_engine|engine]] through which [[b/_burned|burned]] [[g/_gases|gases]] or [[s/_steam|steam]] are [[d/_discharged|discharged]]; [[s/_see|see]] [[a/_also|also]] [[e/_exhaust|exhaust]] [[s/_system|system]].**
+- **The [[s/_steam|steam]] [[l/_let|let]] [[o/_out|out]] of a [[c/_cylinder|cylinder]] [[a/_after|after]] it [[h/_has|has]] [[d/_done|done]] [[i/_its|its]] work there.**
 - **The [[d/_dirty|dirty]] [[a/_air|air]] [[l/_let|let]] [[o/_out|out]] of a [[r/_room|room]] through a [[r/_register|register]] or [[p/_pipe|pipe]] [[p/_provided|provided]] for the [[p/_purpose|purpose]].**
 - **An [[e/_exhaust|exhaust]] [[p/_pipe|pipe]], [[e/_especially|especially]] on a [[m/_motor|motor]] vehicle.**
 - **[[e/_exhaust|Exhaust]] [[g/_gas|gas]].**

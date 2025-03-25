@@ -4,15 +4,15 @@
 - **A [[p/_piece|piece]] of [[m/_metal|metal]] [[p/_placed|placed]] in a [[h/_horse|horse]]'[[s/_s|s]] [[m/_mouth|mouth]] and [[c/_connected|connected]] to the [[r/_reins|reins]] to [[d/_direct|direct]] the [[a/_animal|animal]].**
 	- _Example: A horse hates having a bit put in its mouth._
 - **A [[r/_rotary|rotary]] [[c/_cutting|cutting]] tool [[f/_fitted|fitted]] to a [[d/_drill|drill]], used to [[b/_bore|bore]] [[h/_holes|holes]].**
-- **A [[c/_coin|coin]] of a specified value.**
+- **A [[c/_coin|coin]] of a [[s/_specified|specified]] value.**
 	- _Example: a threepenny bit_
 - **A ten-[[c/_cent|cent]] [[p/_piece|piece]], [[d/_dime|dime]].**
-- **A unit of [[c/_currency|currency]] or [[c/_coin|coin]] in the [[a/_americas|Americas]] worth a [[f/_fraction|fraction]] of a [[s/_spanish|Spanish]] [[d/_dollar|dollar]]; [[n/_now|now]] specifically, an [[e/_eighth|eighth]] of a US [[d/_dollar|dollar]].**
+- **A unit of [[c/_currency|currency]] or [[c/_coin|coin]] in the [[a/_americas|Americas]] worth a [[f/_fraction|fraction]] of a [[s/_spanish|Spanish]] [[d/_dollar|dollar]]; [[n/_now|now]] [[s/_specifically|specifically]], an [[e/_eighth|eighth]] of a US [[d/_dollar|dollar]].**
 	- _Example: A quarter is two bits._
-- **In the [[s/_southern|southern]] and [[s/_southwestern|southwestern]] states, a [[s/_small|small]] [[s/_silver|silver]] [[c/_coin|coin]] (such as the [[r/_real|real]]) [[f/_formerly|formerly]] [[c/_current|current]]; [[c/_commonly|commonly]], [[o/_one|one]] worth [[a/_about|about]] 12½ [[c/_cents|cents]]; [[a/_also|also]], the sum of 12½ [[c/_cents|cents]].**
+- **In the [[s/_southern|southern]] and [[s/_southwestern|southwestern]] [[s/_states|states]], a [[s/_small|small]] [[s/_silver|silver]] [[c/_coin|coin]] (such as the [[r/_real|real]]) [[f/_formerly|formerly]] [[c/_current|current]]; [[c/_commonly|commonly]], [[o/_one|one]] worth [[a/_about|about]] 12½ [[c/_cents|cents]]; [[a/_also|also]], the sum of 12½ [[c/_cents|cents]].**
 - **A [[s/_small|small]] [[a/_amount|amount]] of [[s/_something|something]].**
 	- _Example: There were bits of paper all over the floor.   Does your leg still hurt? / Just a bit now.   I've done my bit; I expect you to do yours._
-- **Specifically, a [[s/_small|small]] [[a/_amount|amount]] of time.**
+- **[[s/_specifically|Specifically]], a [[s/_small|small]] [[a/_amount|amount]] of time.**
 	- _Example: I'll be there in a bit; I need to take care of something first.   He was here just a bit ago, but it looks like he's stepped out._
 - **([[p/_plural|plural]]) [[f/_fractions|Fractions]] of a [[s/_second|second]].**
 	- _Example: The 400 metres race was won in 47 seconds and bits._
@@ -23,7 +23,7 @@
 - **A [[p/_prison|prison]] [[s/_sentence|sentence]], [[e/_especially|especially]] a [[s/_short|short]] [[o/_one|one]].**
 - **An [[e/_excerpt|excerpt]] of [[m/_material|material]] [[m/_making|making]] up [[p/_part|part]] of a [[s/_show|show]], [[c/_comedy|comedy]] [[r/_routine|routine]], [[e/_etc|etc]].**
 	- _Example: His bit about video games was not nearly as entertaining as the other segments of his show._
-- **A [[s/_small|small]] [[p/_part|part]] or [[r/_role|role]], [[s/_sometimes|sometimes]] with spoken [[l/_lines|lines]], in a theatrical [[p/_performance|performance]].**
+- **A [[s/_small|small]] [[p/_part|part]] or [[r/_role|role]], [[s/_sometimes|sometimes]] with [[s/_spoken|spoken]] [[l/_lines|lines]], in a theatrical [[p/_performance|performance]].**
 	- _Example: She acted her bit in the opening scene._
 - **The [[p/_part|part]] of a [[k/_key|key]] which [[e/_enters|enters]] the [[l/_lock|lock]] and [[a/_acts|acts]] upon the [[b/_bolt|bolt]] and tumblers.**
 - **The [[c/_cutting|cutting]] [[i/_iron|iron]] of a [[p/_plane|plane]].**
@@ -33,7 +33,7 @@
 - [[c/_coin|coin]], [[p/_piece|piece]], [[k/_kimberwicke|kimberwicke]], [[p/_pelham|pelham]], [[s/_snaffle|snaffle]], [[p/_portion|portion]], [[s/_segment|segment]], [[s/_share|share]], [[b/_bid|bid]], [[m/_morsel|morsel]], [[p/_piece|piece]], [[s/_scrap|scrap]]
 #noun
 - **A [[b/_binary|binary]] [[d/_digit|digit]], [[g/_generally|generally]] [[r/_represented|represented]] as a 1 or 0.**
-- **The [[s/_smallest|smallest]] unit of storage in a [[d/_digital|digital]] [[c/_computer|computer]], [[c/_consisting|consisting]] of a [[b/_binary|binary]] [[d/_digit|digit]].**
+- **The [[s/_smallest|smallest]] unit of [[s/_storage|storage]] in a [[d/_digital|digital]] [[c/_computer|computer]], [[c/_consisting|consisting]] of a [[b/_binary|binary]] [[d/_digit|digit]].**
 - **[[a/_any|Any]] [[d/_datum|datum]] that [[m/_may|may]] take on [[o/_one|one]] of [[e/_exactly|exactly]] two values.**
 	- _Example: permission bits in a file system_
 - **A unit of [[m/_measure|measure]] for [[i/_information|information]] [[e/_entropy|entropy]].**

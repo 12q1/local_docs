@@ -7,7 +7,7 @@
 - **[[a/_annoyed|Annoyed]].**
 	- _Example: Don't get shitty at me!_
 - **[[c/_covered|Covered]] in [[c/_crap|crap]] ([[f/_faeces|faeces]]/[[f/_feces|feces]]); [[f/_feculent|feculent]].**
-- **Of [[l/_low|low]] [[q/_quality|quality]] or standard; [[i/_inferior|inferior]]; not up to [[p/_par|par]], or [[f/_failing|failing]] [[o/_one|one]]'[[s/_s|s]] [[e/_expectations|expectations]]**
+- **Of [[l/_low|low]] [[q/_quality|quality]] or [[s/_standard|standard]]; [[i/_inferior|inferior]]; not up to [[p/_par|par]], or [[f/_failing|failing]] [[o/_one|one]]'[[s/_s|s]] [[e/_expectations|expectations]]**
 ---
 ### Synonyms
 - [[c/_crappy|crappy]], [[p/_poopy|poopy]], [[s/_shithouse|shithouse]]

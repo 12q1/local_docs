@@ -11,7 +11,7 @@
 ### Synonyms
 - [[p/_pibble|pibble]], [[p/_pittie|pittie]], [[s/_shitbull|shitbull]]
 #verb
-- **To [[r/_remove|remove]] the stone from a stone [[f/_fruit|fruit]] or the [[s/_shell|shell]] from a [[d/_drupe|drupe]].**
+- **To [[r/_remove|remove]] the [[s/_stone|stone]] from a [[s/_stone|stone]] [[f/_fruit|fruit]] or the [[s/_shell|shell]] from a [[d/_drupe|drupe]].**
 	- _Example: One must pit a peach to make it ready for a pie._
 ---
 #noun

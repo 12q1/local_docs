@@ -6,7 +6,7 @@
 - **[[p/_permission|Permission]] [[g/_given|given]] by [[a/_authority|authority]]; a [[l/_license|license]].**
 	- _Example: to give a placard to do something_
 - **An [[e/_extra|extra]] [[p/_plate|plate]] on the [[l/_lower|lower]] [[p/_part|part]] of the [[b/_breastplate|breastplate]] or [[b/_backplate|backplate]] of [[a/_armour|armour]].**
-- **A [[k/_kind|kind]] of stomacher, [[o/_often|often]] [[a/_adorned|adorned]] with [[j/_jewels|jewels]], worn in the [[f/_fifteenth|fifteenth]] [[c/_century|century]] and [[l/_later|later]].**
+- **A [[k/_kind|kind]] of [[s/_stomacher|stomacher]], [[o/_often|often]] [[a/_adorned|adorned]] with [[j/_jewels|jewels]], worn in the [[f/_fifteenth|fifteenth]] [[c/_century|century]] and [[l/_later|later]].**
 - **The woodwork and [[f/_frame|frame]] of the [[d/_door|door]] of a [[c/_closet|closet]] [[e/_etc|etc]].**
 ---
 #verb

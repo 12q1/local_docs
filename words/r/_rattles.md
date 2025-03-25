@@ -10,19 +10,19 @@
 - **Trivial [[c/_chatter|chatter]]; [[g/_gossip|gossip]].**
 - **A [[n/_noisy|noisy]], [[s/_senseless|senseless]] talker; a [[j/_jabberer|jabberer]].**
 - **A [[s/_scolding|scolding]]; a [[s/_sharp|sharp]] [[r/_rebuke|rebuke]].**
-- **[[a/_any|Any]] [[o/_organ|organ]] of an [[a/_animal|animal]] [[h/_having|having]] a structure [[a/_adapted|adapted]] to [[p/_produce|produce]] a [[r/_rattling|rattling]] [[s/_sound|sound]].**
+- **[[a/_any|Any]] [[o/_organ|organ]] of an [[a/_animal|animal]] [[h/_having|having]] a [[s/_structure|structure]] [[a/_adapted|adapted]] to [[p/_produce|produce]] a [[r/_rattling|rattling]] [[s/_sound|sound]].**
 	- _Example: The rattle of the rattlesnake is composed of the hardened terminal scales, loosened in succession, but not cast off, and modified in form so as to make a series of loose, hollow joints._
-- **The [[n/_noise|noise]] [[p/_produced|produced]] in the throat by [[a/_air|air]] [[p/_passing|passing]] through [[m/_mucus|mucus]] which the [[l/_lungs|lungs]] struggle to [[c/_clear|clear]].**
+- **The [[n/_noise|noise]] [[p/_produced|produced]] in the throat by [[a/_air|air]] [[p/_passing|passing]] through [[m/_mucus|mucus]] which the [[l/_lungs|lungs]] [[s/_struggle|struggle]] to [[c/_clear|clear]].**
 - **The [[n/_noise|noise]] in the throat [[p/_produced|produced]] by the [[a/_air|air]] in [[p/_passing|passing]] through [[m/_mucus|mucus]] which the [[l/_lungs|lungs]] are unable to [[e/_expel|expel]] - [[s/_sometimes|sometimes]] [[o/_occurs|occurs]] as a [[p/_person|person]] [[n/_nears|nears]] [[d/_death|death]]; [[d/_death|death]] [[r/_rattle|rattle]].**
 - **[[a/_any|Any]] [[p/_plant|plant]] of the [[g/_genus|genus]] [[r/_rhinanthus|Rhinanthus]], whose [[s/_seeds|seeds]] [[p/_produce|produce]] a [[r/_rattling|rattling]] [[n/_noise|noise]] in the wind.**
 ---
 #verb
-- **To [[c/_create|create]] a [[r/_rattling|rattling]] [[s/_sound|sound]] by [[s/_shaking|shaking]] or striking.**
+- **To [[c/_create|create]] a [[r/_rattling|rattling]] [[s/_sound|sound]] by [[s/_shaking|shaking]] or [[s/_striking|striking]].**
 	- _Example: Rattle the can of cat treats if you need to find Fluffy._
-- **To [[s/_scare|scare]], startle, unsettle, or unnerve.**
+- **To [[s/_scare|scare]], [[s/_startle|startle]], unsettle, or unnerve.**
 - **To [[m/_make|make]] a [[r/_rattling|rattling]] [[n/_noise|noise]]; to [[m/_make|make]] [[n/_noise|noise]] by or from [[s/_shaking|shaking]].**
 	- _Example: I wish the dashboard in my car would quit rattling._
-- **To [[a/_assail|assail]], [[a/_annoy|annoy]], or stun with a [[r/_ratting|ratting]] [[n/_noise|noise]].**
+- **To [[a/_assail|assail]], [[a/_annoy|annoy]], or [[s/_stun|stun]] with a [[r/_ratting|ratting]] [[n/_noise|noise]].**
 - **To [[s/_scold|scold]]; to [[r/_rail|rail]] at.**
 - **To [[d/_drive|drive]] or [[r/_ride|ride]] [[b/_briskly|briskly]], [[s/_so|so]] as to [[m/_make|make]] a [[c/_clattering|clattering]].**
 	- _Example: We rattled along for a couple of miles._

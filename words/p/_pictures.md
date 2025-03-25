@@ -11,7 +11,7 @@
 	- _Example: Casablanca is my all-time favorite picture._
 - **(in the [[p/_plural|plural]]) ("the [[p/_pictures|pictures]]") [[c/_cinema|Cinema]] (as a [[f/_form|form]] of [[e/_entertainment|entertainment]]).**
 	- _Example: Let's go to the pictures._
-- **A [[p/_paragon|paragon]], a [[p/_perfect|perfect]] [[e/_example|example]] or specimen (of a [[c/_category|category]]).**
+- **A [[p/_paragon|paragon]], a [[p/_perfect|perfect]] [[e/_example|example]] or [[s/_specimen|specimen]] (of a [[c/_category|category]]).**
 	- _Example: She's the very picture of health._
 - **An [[a/_attractive|attractive]] [[s/_sight|sight]].**
 	- _Example: The garden is a real picture at this time of year._

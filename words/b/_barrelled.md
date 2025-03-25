@@ -6,7 +6,7 @@
 	- _Example: He came barrelling around the corner and I almost hit him._
 ---
 #adjective
-- **[[h/_having|Having]] a [[b/_barrel|barrel]] or specified [[n/_number|number]] of [[b/_barrels|barrels]].**
+- **[[h/_having|Having]] a [[b/_barrel|barrel]] or [[s/_specified|specified]] [[n/_number|number]] of [[b/_barrels|barrels]].**
 	- _Example: a barrelled action_
 ---
 ---

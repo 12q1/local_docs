@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[m/_money|money]]) A [[p/_piece|piece]] of [[c/_currency|currency]], usually [[m/_metallic|metallic]] and in the [[s/_shape|shape]] of a [[d/_disc|disc]], but [[s/_sometimes|sometimes]] [[p/_polygonal|polygonal]], or with a [[h/_hole|hole]] in the [[m/_middle|middle]].**
-- **A token used in a special [[e/_establishment|establishment]] [[l/_like|like]] a [[c/_casino|casino]].**
+- **A token used in a [[s/_special|special]] [[e/_establishment|establishment]] [[l/_like|like]] a [[c/_casino|casino]].**
 - **That which [[s/_serves|serves]] for [[p/_payment|payment]] or [[r/_recompense|recompense]].**
 - **[[m/_money|Money]] in [[g/_general|general]], not [[l/_limited|limited]] to [[c/_coins|coins]].**
 	- _Example: She spent some serious coin on that car!_

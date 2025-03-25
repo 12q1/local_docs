@@ -1,11 +1,11 @@
 # Reinforcing
 ---
 #verb
-- **To strengthen, [[e/_especially|especially]] by [[a/_addition|addition]] or [[a/_augmentation|augmentation]].**
+- **To [[s/_strengthen|strengthen]], [[e/_especially|especially]] by [[a/_addition|addition]] or [[a/_augmentation|augmentation]].**
 	- _Example: He reinforced the handle with a metal rod and a bit of tape._
 - **To [[e/_emphasize|emphasize]] or [[r/_review|review]].**
 	- _Example: The right homework will reinforce and complement the lesson!_
-- **To [[e/_encourage|encourage]] (a [[b/_behavior|behavior]] or [[i/_idea|idea]]) through [[r/_repeated|repeated]] stimulus.**
+- **To [[e/_encourage|encourage]] (a [[b/_behavior|behavior]] or [[i/_idea|idea]]) through [[r/_repeated|repeated]] [[s/_stimulus|stimulus]].**
 	- _Example: Advertising for fast food can reinforce unhealthy dietary tendencies._
 ---
 ### Synonyms

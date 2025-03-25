@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[i/_insect|insect]] of the [[o/_order|order]] [[h/_hemiptera|Hemiptera]] (the “true [[b/_bugs|bugs]]”).**
-- **[[a/_any|Any]] of various species of [[m/_marine|marine]] or [[f/_freshwater|freshwater]] [[c/_crustaceans|crustaceans]]; [[e/_e|e]].[[g/_g|g]]. a [[m/_morton|Morton]] [[b/_bay|Bay]] [[b/_bug|bug]], mudbug.**
+- **[[a/_any|Any]] of various [[s/_species|species]] of [[m/_marine|marine]] or [[f/_freshwater|freshwater]] [[c/_crustaceans|crustaceans]]; [[e/_e|e]].[[g/_g|g]]. a [[m/_morton|Morton]] [[b/_bay|Bay]] [[b/_bug|bug]], mudbug.**
 - **[[a/_any|Any]] [[i/_insect|insect]], [[a/_arachnid|arachnid]], or [[o/_other|other]] terrestrial [[a/_arthropod|arthropod]] that is a [[p/_pest|pest]].**
 	- _Example: These flies are a bother. I’ll get some bug spray and kill them._
 - **[[a/_any|Any]] [[i/_insect|insect]], [[a/_arachnid|arachnid]], [[m/_myriapod|myriapod]] or entognath.**

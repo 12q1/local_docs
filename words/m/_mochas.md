@@ -5,7 +5,7 @@
 - **A [[c/_coffee|coffee]] and [[c/_chocolate|chocolate]] [[m/_mixed|mixed]] [[f/_flavour|flavour]].**
 	- _Example: mocha fudge_
 - **A [[d/_dark|dark]] [[b/_brown|brown]] [[c/_colour|colour]], [[l/_like|like]] that of [[m/_mocha|mocha]] [[c/_coffee|coffee]].**
-- **A strong [[a/_arabian|Arabian]] [[c/_coffee|coffee]].**
+- **A [[s/_strong|strong]] [[a/_arabian|Arabian]] [[c/_coffee|coffee]].**
 - **An [[a/_abyssinian|Abyssinian]] weight, [[e/_equivalent|equivalent]] to a Troy [[g/_grain|grain]].**
 ---
 ### Synonyms

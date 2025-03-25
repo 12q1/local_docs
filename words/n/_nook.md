@@ -3,7 +3,7 @@
 #noun
 - **A [[s/_small|small]] [[c/_corner|corner]] [[f/_formed|formed]] by two walls; an [[a/_alcove|alcove]].**
 	- _Example: There was a small broom for sweeping ash kept in the nook between the fireplace bricks and the wall._
-- **A [[h/_hidden|hidden]] or [[s/_secluded|secluded]] spot; a [[s/_secluded|secluded]] [[r/_retreat|retreat]].**
+- **A [[h/_hidden|hidden]] or [[s/_secluded|secluded]] [[s/_spot|spot]]; a [[s/_secluded|secluded]] [[r/_retreat|retreat]].**
 	- _Example: The back of the used book shop was one of her favorite nooks; she could read for hours and no one would bother her or pester her to buy._
 - **A [[r/_recess|recess]], [[c/_cove|cove]] or [[h/_hollow|hollow]].**
 - **An [[e/_english|English]] unit of [[l/_land|land]] [[a/_area|area]], [[o/_originally|originally]] 1/4 of a [[y/_yardland|yardland]] but [[l/_later|later]] 12 1/2 or 20 [[a/_acres|acres]].**

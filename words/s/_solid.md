@@ -1,7 +1,7 @@
 # Solid
 ---
 #noun
-- **A substance in the [[f/_fundamental|fundamental]] state of [[m/_matter|matter]] that [[r/_retains|retains]] [[i/_its|its]] [[s/_size|size]] and [[s/_shape|shape]] without [[n/_need|need]] of a [[c/_container|container]] (as [[o/_opposed|opposed]] to a [[l/_liquid|liquid]] or [[g/_gas|gas]]).**
+- **A substance in the [[f/_fundamental|fundamental]] [[s/_state|state]] of [[m/_matter|matter]] that [[r/_retains|retains]] [[i/_its|its]] [[s/_size|size]] and [[s/_shape|shape]] without [[n/_need|need]] of a [[c/_container|container]] (as [[o/_opposed|opposed]] to a [[l/_liquid|liquid]] or [[g/_gas|gas]]).**
 - **A three-[[d/_dimensional|dimensional]] [[f/_figure|figure]] (as [[o/_opposed|opposed]] to a surface, an [[a/_area|area]], or a [[c/_curve|curve]]).**
 - **A [[f/_favor|favor]].**
 	- _Example: I owe him; he did me a solid last year._
@@ -16,7 +16,7 @@
 - **[[l/_large|Large]] in [[s/_size|size]], [[q/_quantity|quantity]], or value.**
 - **[[l/_lacking|Lacking]] [[h/_holes|holes]], [[h/_hollows|hollows]] or [[a/_admixtures|admixtures]] of [[o/_other|other]] [[m/_materials|materials]].**
 	- _Example: solid chocolate_
-- **Strong or unyielding.**
+- **[[s/_strong|Strong]] or unyielding.**
 	- _Example: a solid foundation_
 - **[[e/_excellent|Excellent]], of [[h/_high|high]] [[q/_quality|quality]], or [[r/_reliable|reliable]].**
 	- _Example: I don't think Dave would have done that. He's a solid dude._

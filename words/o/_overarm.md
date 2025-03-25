@@ -1,7 +1,7 @@
 # Overarm
 ---
 #noun
-- **A style of swimming of [[e/_extending|extending]] the [[a/_arms|arms]] [[a/_alternatively|alternatively]] - [[n/_now|now]] usually termed [[f/_freestyle|freestyle]].**
+- **A [[s/_style|style]] of swimming of [[e/_extending|extending]] the [[a/_arms|arms]] [[a/_alternatively|alternatively]] - [[n/_now|now]] usually termed [[f/_freestyle|freestyle]].**
 ---
 #verb
 - **To [[p/_provide|provide]] with [[m/_more|more]] weaponry than [[n/_necessary|necessary]].**

@@ -11,7 +11,7 @@
 	- _Example: medical marijuana; medical cannabis; medical treatment_
 - **[[r/_requiring|Requiring]] [[m/_medical|medical]] treatment.**
 	- _Example: A costly medical condition can bankrupt you if it doesn't kill you first._
-- **[[p/_pertaining|Pertaining]] to the state of [[o/_one|one]]'[[s/_s|s]] [[h/_health|health]].**
+- **[[p/_pertaining|Pertaining]] to the [[s/_state|state]] of [[o/_one|one]]'[[s/_s|s]] [[h/_health|health]].**
 - **[[p/_pertaining|Pertaining]] to or [[r/_requiring|requiring]] treatment by [[o/_other|other]] than surgical [[m/_means|means]].**
 	- _Example: medical ward_
 ---

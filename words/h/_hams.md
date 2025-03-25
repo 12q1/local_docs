@@ -11,7 +11,7 @@
 ### Antonyms
 - [[s/_spam|spam]]
 #noun
-- **An [[o/_overacting|overacting]] or [[a/_amateurish|amateurish]] [[p/_performer|performer]]; an [[a/_actor|actor]] with an [[e/_especially|especially]] [[s/_showy|showy]] or [[e/_exaggerated|exaggerated]] style.**
+- **An [[o/_overacting|overacting]] or [[a/_amateurish|amateurish]] [[p/_performer|performer]]; an [[a/_actor|actor]] with an [[e/_especially|especially]] [[s/_showy|showy]] or [[e/_exaggerated|exaggerated]] [[s/_style|style]].**
 - **An [[a/_amateur|amateur]] [[r/_radio|radio]] [[o/_operator|operator]].**
 ---
 ### Synonyms

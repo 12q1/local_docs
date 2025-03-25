@@ -6,7 +6,7 @@
 #conjunction
 - **Supposing that, [[a/_assuming|assuming]] that, in the [[c/_circumstances|circumstances]] that; used to [[i/_introduce|introduce]] a [[c/_condition|condition]] or [[c/_choice|choice]].**
 	- _Example: If it rains, I shall get wet._
-- **In the [[e/_event|event]] that a statement is true (a [[p/_programming|programming]] statement that [[a/_acts|acts]] in a [[s/_similar|similar]] [[m/_manner|manner]]).**
+- **In the [[e/_event|event]] that a [[s/_statement|statement]] is true (a [[p/_programming|programming]] [[s/_statement|statement]] that [[a/_acts|acts]] in a [[s/_similar|similar]] [[m/_manner|manner]]).**
 	- _Example: If A, then B, else C._
 - **Supposing that; used with [[p/_past|past]] or [[p/_past|past]] [[p/_perfect|perfect]] subjunctive [[i/_indicating|indicating]] that the [[c/_condition|condition]] is [[c/_closed|closed]].**
 	- _Example: I would be unhappy if you had not talked with me yesterday._

@@ -5,7 +5,7 @@
 	- _Example: After days of inquiries, he finally recovered his lost wallet._
 - **To [[s/_salvage|salvage]], to [[e/_extricate|extricate]], to [[r/_rescue|rescue]] (a thing or [[p/_person|person]])**
 	- _Example: They recovered three of the explorers very much alive, then another, wracked with severe hypothermia, who was taken to hospital._
-- **To [[r/_replenish|replenish]] to, [[r/_resume|resume]] (a [[g/_good|good]] state of [[m/_mind|mind]] or [[b/_body|body]]).**
+- **To [[r/_replenish|replenish]] to, [[r/_resume|resume]] (a [[g/_good|good]] [[s/_state|state]] of [[m/_mind|mind]] or [[b/_body|body]]).**
 	- _Example: At the top of the hill I asked to stop for a few minutes to recover my strength._
 - **To [[o/_obtain|obtain]] a [[p/_positive|positive]] [[j/_judgement|judgement]]; to win in a [[l/_lawsuit|lawsuit]].**
 	- _Example: The plaintiff recovered in his suit, being awarded declaratory relief and a clearing of his name._
@@ -22,6 +22,6 @@
 ---
 #verb
 - **To [[c/_cover|cover]] [[a/_again|again]].**
-- **([[r/_roofing|roofing]]) To [[a/_add|add]] a [[n/_new|new]] [[r/_roof|roof]] [[m/_membrane|membrane]] or steep-[[s/_slope|slope]] [[c/_covering|covering]] [[o/_over|over]] an [[e/_existing|existing]] [[o/_one|one]].**
+- **([[r/_roofing|roofing]]) To [[a/_add|add]] a [[n/_new|new]] [[r/_roof|roof]] [[m/_membrane|membrane]] or [[s/_steep|steep]]-[[s/_slope|slope]] [[c/_covering|covering]] [[o/_over|over]] an [[e/_existing|existing]] [[o/_one|one]].**
 ---
 ---

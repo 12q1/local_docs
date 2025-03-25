@@ -1,7 +1,7 @@
 # Pilots
 ---
 #noun
-- **A [[p/_person|person]] who steers a [[s/_ship|ship]], a [[h/_helmsman|helmsman]].**
+- **A [[p/_person|person]] who [[s/_steers|steers]] a [[s/_ship|ship]], a [[h/_helmsman|helmsman]].**
 - **A [[p/_person|person]] who [[k/_knows|knows]] well the [[d/_depths|depths]] and [[c/_currents|currents]] of a [[h/_harbor|harbor]] or [[c/_coastal|coastal]] [[a/_area|area]], who is [[h/_hired|hired]] by a vessel to [[h/_help|help]] [[n/_navigate|navigate]] the [[h/_harbor|harbor]] or [[c/_coast|coast]].**
 - **A [[g/_guide|guide]] [[b/_book|book]] for [[m/_maritime|maritime]] [[n/_navigation|navigation]].**
 - **An [[i/_instrument|instrument]] for [[d/_detecting|detecting]] the [[c/_compass|compass]] [[e/_error|error]].**

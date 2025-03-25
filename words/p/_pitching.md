@@ -14,7 +14,7 @@
 	- _Example: He pitched the candy wrapper._
 - **To [[p/_promote|promote]], [[a/_advertise|advertise]], or [[a/_attempt|attempt]] to [[s/_sell|sell]].**
 	- _Example: He pitched the idea for months with no takers._
-- **To [[d/_deliver|deliver]] in a [[c/_certain|certain]] tone or style, or with a [[c/_certain|certain]] [[a/_audience|audience]] in [[m/_mind|mind]].**
+- **To [[d/_deliver|deliver]] in a [[c/_certain|certain]] tone or [[s/_style|style]], or with a [[c/_certain|certain]] [[a/_audience|audience]] in [[m/_mind|mind]].**
 	- _Example: At which level should I pitch my presentation?_
 - **To [[a/_assemble|assemble]] or [[e/_erect|erect]] (a tent).**
 	- _Example: Pitch the tent over there._
@@ -29,7 +29,7 @@
 - **(with on or upon) To [[f/_fix|fix]] [[o/_one|one]]'[[s/_s|s]] [[c/_choice|choice]].**
 - **To [[p/_plunge|plunge]] or [[f/_fall|fall]]; [[e/_especially|especially]], to [[f/_fall|fall]] [[f/_forward|forward]]; to [[d/_decline|decline]] or [[s/_slope|slope]].**
 	- _Example: The field pitches toward the east._
-- **(of an [[e/_embankment|embankment]], [[r/_roadway|roadway]]) To [[s/_set|set]], [[f/_face|face]], or [[p/_pave|pave]] with [[r/_rubble|rubble]] or undressed stones.**
+- **(of an [[e/_embankment|embankment]], [[r/_roadway|roadway]]) To [[s/_set|set]], [[f/_face|face]], or [[p/_pave|pave]] with [[r/_rubble|rubble]] or undressed [[s/_stones|stones]].**
 - **(of a [[p/_price|price]], value) To [[s/_set|set]] or [[f/_fix|fix]].**
 - **(of a [[c/_card|card]]) To [[d/_discard|discard]] for [[s/_some|some]] [[g/_gain|gain]].**
 ---
@@ -40,7 +40,7 @@
 #noun
 - **The [[a/_act|act]] of throwing or [[c/_casting|casting]].**
 	- _Example: wild pitching in baseball_
-- **The [[r/_rough|rough]] [[p/_paving|paving]] of a street to a [[g/_grade|grade]] with [[b/_blocks|blocks]] of stone.**
-- **A [[f/_facing|facing]] of stone [[l/_laid|laid]] upon a [[b/_bank|bank]] to [[p/_prevent|prevent]] wear by tides or [[c/_currents|currents]].**
+- **The [[r/_rough|rough]] [[p/_paving|paving]] of a [[s/_street|street]] to a [[g/_grade|grade]] with [[b/_blocks|blocks]] of [[s/_stone|stone]].**
+- **A [[f/_facing|facing]] of [[s/_stone|stone]] [[l/_laid|laid]] upon a [[b/_bank|bank]] to [[p/_prevent|prevent]] wear by tides or [[c/_currents|currents]].**
 ---
 ---

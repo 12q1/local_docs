@@ -14,6 +14,6 @@
 ### Synonyms
 - [[b/_bewrinkled|bewrinkled]], [[r/_rugose|rugose]], [[w/_wrinklesome|wrinklesome]]
 #verb
-- **To stab with a [[k/_kris|kris]].**
+- **To [[s/_stab|stab]] with a [[k/_kris|kris]].**
 ---
 ---

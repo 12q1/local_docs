@@ -1,9 +1,9 @@
 # Pigs
 ---
 #noun
-- **[[a/_any|Any]] of [[s/_several|several]] [[i/_intelligent|intelligent]] [[m/_mammalian|mammalian]] species of the [[g/_genus|genus]] Sus, [[h/_having|having]] [[c/_cloven|cloven]] [[h/_hooves|hooves]], [[b/_bristles|bristles]] and a [[n/_nose|nose]] [[a/_adapted|adapted]] for [[d/_digging|digging]]; [[e/_especially|especially]] the [[d/_domesticated|domesticated]] [[a/_animal|animal]] Sus scrofa.**
+- **[[a/_any|Any]] of [[s/_several|several]] [[i/_intelligent|intelligent]] [[m/_mammalian|mammalian]] [[s/_species|species]] of the [[g/_genus|genus]] Sus, [[h/_having|having]] [[c/_cloven|cloven]] [[h/_hooves|hooves]], [[b/_bristles|bristles]] and a [[n/_nose|nose]] [[a/_adapted|adapted]] for [[d/_digging|digging]]; [[e/_especially|especially]] the [[d/_domesticated|domesticated]] [[a/_animal|animal]] Sus scrofa.**
 	- _Example: The man kept a pen with two pigs that he fed from carrots to cabbage._
-- **(specifically) A [[y/_young|young]] swine, a [[p/_piglet|piglet]] ([[c/_contrasted|contrasted]] with a [[h/_hog|hog]], an [[a/_adult|adult]] swine).**
+- **([[s/_specifically|specifically]]) A [[y/_young|young]] swine, a [[p/_piglet|piglet]] ([[c/_contrasted|contrasted]] with a [[h/_hog|hog]], an [[a/_adult|adult]] swine).**
 - **The [[e/_edible|edible]] [[m/_meat|meat]] of such an [[a/_animal|animal]]; [[p/_pork|pork]].**
 	- _Example: Some religions prohibit their adherents from eating pig._
 - **A [[l/_light|light]] [[p/_pinkish|pinkish]]-[[r/_red|red]] [[c/_colour|colour]], [[l/_like|like]] that of a [[p/_pig|pig]] ([[a/_also|also]] [[c/_called|called]] [[p/_pig|pig]] [[p/_pink|pink]]).**
@@ -22,7 +22,7 @@
 	- _Example: After the ill-advised trade, the investor was stuck with worthless options for 10,000 tons of iron pig._
 - **The [[m/_mold|mold]] in which a [[b/_block|block]] of [[m/_metal|metal]] is [[c/_cast|cast]].**
 	- _Example: The pig was cracked, and molten metal was oozing from the side._
-- **A [[d/_device|device]] for [[c/_cleaning|cleaning]] or [[i/_inspecting|inspecting]] the [[i/_inside|inside]] of an [[o/_oil|oil]] or [[g/_gas|gas]] [[p/_pipeline|pipeline]], or for [[s/_separating|separating]] [[d/_different|different]] substances within the [[p/_pipeline|pipeline]]. [[n/_named|Named]] for the [[p/_pig|pig]]-[[l/_like|like]] squealing [[n/_noise|noise]] [[m/_made|made]] by their [[p/_progress|progress]].**
+- **A [[d/_device|device]] for [[c/_cleaning|cleaning]] or [[i/_inspecting|inspecting]] the [[i/_inside|inside]] of an [[o/_oil|oil]] or [[g/_gas|gas]] [[p/_pipeline|pipeline]], or for [[s/_separating|separating]] [[d/_different|different]] substances within the [[p/_pipeline|pipeline]]. [[n/_named|Named]] for the [[p/_pig|pig]]-[[l/_like|like]] [[s/_squealing|squealing]] [[n/_noise|noise]] [[m/_made|made]] by their [[p/_progress|progress]].**
 	- _Example: Unfortunately, the pig sent to clear the obstruction got lodged in a tight bend, adding to the problem._
 - **The [[g/_general|general]]-[[p/_purpose|purpose]] M60 [[m/_machine|machine]] [[g/_gun|gun]], [[c/_considered|considered]] to be [[h/_heavy|heavy]] and [[b/_bulky|bulky]].**
 	- _Example: Unfortunately, the M60 is about twenty-four pounds and is very unbalanced. You try carrying the pig around the jungle and see how you feel._
@@ -40,6 +40,6 @@
 ---
 #noun
 - **[[e/_earthenware|Earthenware]], or an [[e/_earthenware|earthenware]] [[s/_shard|shard]]**
-- **An [[e/_earthenware|earthenware]] [[h/_hot|hot]]-water [[j/_jar|jar]] to warm a [[b/_bed|bed]]; a stone [[b/_bed|bed]] warmer**
+- **An [[e/_earthenware|earthenware]] [[h/_hot|hot]]-water [[j/_jar|jar]] to warm a [[b/_bed|bed]]; a [[s/_stone|stone]] [[b/_bed|bed]] warmer**
 ---
 ---

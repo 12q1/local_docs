@@ -3,7 +3,7 @@
 #noun
 - **The whole [[d/_duration|duration]] of a [[b/_being|being]], whether [[a/_animal|animal]], [[p/_plant|plant]], or [[o/_other|other]] [[k/_kind|kind]], [[b/_being|being]] [[a/_alive|alive]].**
 - **The [[n/_number|number]] of [[f/_full|full]] [[y/_years|years]], [[m/_months|months]], [[d/_days|days]], [[h/_hours|hours]], [[e/_etc|etc]]., that [[s/_someone|someone]], or [[s/_something|something]], [[h/_has|has]] [[b/_been|been]] [[a/_alive|alive]].**
-- **[[o/_one|One]] of the stages of [[l/_life|life]].**
+- **[[o/_one|One]] of the [[s/_stages|stages]] of [[l/_life|life]].**
 	- _Example: the age of infancy_
 - **The time of [[l/_life|life]] at which [[s/_some|some]] [[p/_particular|particular]] [[p/_power|power]] or [[c/_capacity|capacity]] is understood to [[b/_become|become]] vested.**
 	- _Example: the age of consent; the age of discretion_
@@ -18,12 +18,12 @@
 - **A [[l/_long|long]] time.**
 	- _Example: It’s been an age since we last saw you._
 - **A unit of [[g/_geologic|geologic]] time subdividing an [[e/_epoch|epoch]] [[i/_into|into]] [[s/_smaller|smaller]] [[p/_parts|parts]].**
-- **The [[r/_right|right]] of the [[p/_player|player]] to the [[l/_left|left]] of the [[d/_dealer|dealer]] to [[p/_pass|pass]] the [[f/_first|first]] [[r/_round|round]] in [[b/_betting|betting]], and then to [[c/_come|come]] in [[l/_last|last]] or stay [[o/_out|out]]; [[a/_also|also]], the [[p/_player|player]] [[h/_holding|holding]] this [[p/_position|position]]; the [[e/_eldest|eldest]] [[h/_hand|hand]].**
-- **That [[p/_part|part]] of the [[d/_duration|duration]] of a [[b/_being|being]] or a thing which is [[b/_between|between]] [[i/_its|its]] [[b/_beginning|beginning]] and [[a/_any|any]] [[g/_given|given]] time; specifically the [[s/_size|size]] of that [[p/_part|part]].**
+- **The [[r/_right|right]] of the [[p/_player|player]] to the [[l/_left|left]] of the [[d/_dealer|dealer]] to [[p/_pass|pass]] the [[f/_first|first]] [[r/_round|round]] in [[b/_betting|betting]], and then to [[c/_come|come]] in [[l/_last|last]] or [[s/_stay|stay]] [[o/_out|out]]; [[a/_also|also]], the [[p/_player|player]] [[h/_holding|holding]] this [[p/_position|position]]; the [[e/_eldest|eldest]] [[h/_hand|hand]].**
+- **That [[p/_part|part]] of the [[d/_duration|duration]] of a [[b/_being|being]] or a thing which is [[b/_between|between]] [[i/_its|its]] [[b/_beginning|beginning]] and [[a/_any|any]] [[g/_given|given]] time; [[s/_specifically|specifically]] the [[s/_size|size]] of that [[p/_part|part]].**
 	- _Example: What is the present age of a man, or of the earth?_
 - **[[m/_mature|Mature]] [[a/_age|age]]; [[e/_especially|especially]], the time of [[l/_life|life]] at which [[o/_one|one]] [[a/_attains|attains]] [[f/_full|full]] [[p/_personal|personal]] [[r/_rights|rights]] and [[c/_capacities|capacities]].**
 	- _Example: to come of age; she is now of age_
-- **An [[a/_advanced|advanced]] [[p/_period|period]] of [[l/_life|life]]; the [[l/_latter|latter]] [[p/_part|part]] of [[l/_life|life]]; the state of [[b/_being|being]] [[o/_old|old]]; [[e/_eld|eld]], [[s/_seniority|seniority]].**
+- **An [[a/_advanced|advanced]] [[p/_period|period]] of [[l/_life|life]]; the [[l/_latter|latter]] [[p/_part|part]] of [[l/_life|life]]; the [[s/_state|state]] of [[b/_being|being]] [[o/_old|old]]; [[e/_eld|eld]], [[s/_seniority|seniority]].**
 	- _Example: Wisdom doesn't necessarily come with age, sometimes age just shows up all by itself._
 ---
 ### Synonyms

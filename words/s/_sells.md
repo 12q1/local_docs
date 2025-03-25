@@ -21,7 +21,7 @@
 ### Antonyms
 - [[b/_buy|buy]]
 #noun
-- **A [[s/_seat|seat]] or stool.**
+- **A [[s/_seat|seat]] or [[s/_stool|stool]].**
 - **A [[s/_saddle|saddle]].**
 ---
 #noun

@@ -1,7 +1,7 @@
 # Love
 ---
 #noun
-- **Strong [[a/_affection|affection]].**
+- **[[s/_strong|Strong]] [[a/_affection|affection]].**
 - **A [[p/_person|person]] who is the [[o/_object|object]] of [[r/_romantic|romantic]] [[f/_feelings|feelings]]; a [[d/_darling|darling]], a sweetheart, a [[b/_beloved|beloved]].**
 - **A term of [[f/_friendly|friendly]] [[a/_address|address]], [[r/_regardless|regardless]] of [[f/_feelings|feelings]].**
 	- _Example: Hello love, how can I help you?_
@@ -19,11 +19,11 @@
 ### Antonyms
 - [[i/_indifference|indifference]], [[a/_angst|angst]], [[h/_hate|hate]], [[h/_hatred|hatred]], [[m/_malice|malice]], [[s/_spite|spite]]
 #verb
-- **(usually transitive, [[s/_sometimes|sometimes]] [[i/_intransitive|intransitive]], stative) To [[h/_have|have]] a strong [[a/_affection|affection]] for ([[s/_someone|someone]] or [[s/_something|something]]).**
+- **(usually transitive, [[s/_sometimes|sometimes]] [[i/_intransitive|intransitive]], [[s/_stative|stative]]) To [[h/_have|have]] a [[s/_strong|strong]] [[a/_affection|affection]] for ([[s/_someone|someone]] or [[s/_something|something]]).**
 	- _Example: I love my spouse.   I love you!_
 - **To [[n/_need|need]], thrive on.**
 	- _Example: Mold loves moist, dark places._
-- **To be strongly [[i/_inclined|inclined]] towards [[s/_something|something]]; an [[e/_emphatic|emphatic]] [[f/_form|form]] of [[l/_like|like]].**
+- **To be [[s/_strongly|strongly]] [[i/_inclined|inclined]] towards [[s/_something|something]]; an [[e/_emphatic|emphatic]] [[f/_form|form]] of [[l/_like|like]].**
 	- _Example: I love walking barefoot on wet grass;  I'd love to join the team;  I love what you've done with your hair_
 - **(usually transitive, [[s/_sometimes|sometimes]] [[i/_intransitive|intransitive]]) To [[c/_care|care]] [[d/_deeply|deeply]] [[a/_about|about]], to be [[d/_dedicated|dedicated]] to ([[s/_someone|someone]] or [[s/_something|something]]).**
 - **To [[d/_derive|derive]] [[d/_delight|delight]] from a [[f/_fact|fact]] or [[s/_situation|situation]].**

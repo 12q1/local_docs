@@ -1,7 +1,7 @@
 # Digit
 ---
 #noun
-- **A stage of [[p/_proficiency|proficiency]] or [[q/_qualification|qualification]] in a [[c/_course|course]] of study, [[n/_now|now]] [[e/_especially|especially]] an [[a/_award|award]] [[b/_bestowed|bestowed]] by a university or, in [[s/_some|some]] [[c/_countries|countries]], a [[c/_college|college]], as a [[c/_certification|certification]] of [[a/_academic|academic]] [[a/_achievement|achievement]]. (In the United States, [[c/_can|can]] [[i/_include|include]] [[s/_secondary|secondary]] [[s/_schools|schools]].)**
+- **A [[s/_stage|stage]] of [[p/_proficiency|proficiency]] or [[q/_qualification|qualification]] in a [[c/_course|course]] of [[s/_study|study]], [[n/_now|now]] [[e/_especially|especially]] an [[a/_award|award]] [[b/_bestowed|bestowed]] by a university or, in [[s/_some|some]] [[c/_countries|countries]], a [[c/_college|college]], as a [[c/_certification|certification]] of [[a/_academic|academic]] [[a/_achievement|achievement]]. (In the United [[s/_states|States]], [[c/_can|can]] [[i/_include|include]] [[s/_secondary|secondary]] [[s/_schools|schools]].)**
 	- _Example: She has two bachelor's degrees and is studying towards a master's degree._
 - **A unit of [[m/_measurement|measurement]] of [[a/_angle|angle]] [[e/_equal|equal]] to 1/360 of a [[c/_circle|circle]]'[[s/_s|s]] [[c/_circumference|circumference]].**
 	- _Example: A right angle is a ninety-degree angle._
@@ -15,12 +15,12 @@
 - **The [[n/_number|number]] of [[l/_logical|logical]] [[c/_connectives|connectives]] in a [[f/_formula|formula]].**
 - **The [[c/_curvature|curvature]] of a [[c/_circular|circular]] [[a/_arc|arc]], [[e/_expressed|expressed]] as the [[a/_angle|angle]] subtended by a [[f/_fixed|fixed]] [[l/_length|length]] of [[a/_arc|arc]] or [[c/_chord|chord]].**
 - **A unit of [[m/_measurement|measurement]] of [[l/_latitude|latitude]] and [[l/_longitude|longitude]] which together [[i/_identify|identify]] a [[l/_location|location]] on the [[e/_earth|Earth]]'[[s/_s|s]] surface.**
-- **([[g/_grammar|grammar]]) [[a/_any|Any]] of the three stages ([[p/_positive|positive]], [[c/_comparative|comparative]], superlative) in the [[c/_comparison|comparison]] of an [[a/_adjective|adjective]] or an [[a/_adverb|adverb]].**
-- **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[h/_heraldry|heraldry]]) A step on a [[s/_set|set]] of stairs; the [[r/_rung|rung]] of a [[l/_ladder|ladder]].**
-- **An [[i/_individual|individual]] step, or stage, in [[a/_any|any]] [[p/_process|process]] or [[s/_scale|scale]] of values.**
-- **A stage of [[r/_rank|rank]] or [[p/_privilege|privilege]]; [[s/_social|social]] standing.**
-- **([[g/_genealogy|genealogy]]) A ‘step’ in [[g/_genealogical|genealogical]] [[d/_descent|descent]].**
-- **[[o/_one|One]]'[[s/_s|s]] [[r/_relative|relative]] state or [[e/_experience|experience]]; way, [[m/_manner|manner]].**
+- **([[g/_grammar|grammar]]) [[a/_any|Any]] of the three [[s/_stages|stages]] ([[p/_positive|positive]], [[c/_comparative|comparative]], superlative) in the [[c/_comparison|comparison]] of an [[a/_adjective|adjective]] or an [[a/_adverb|adverb]].**
+- **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[h/_heraldry|heraldry]]) A [[s/_step|step]] on a [[s/_set|set]] of [[s/_stairs|stairs]]; the [[r/_rung|rung]] of a [[l/_ladder|ladder]].**
+- **An [[i/_individual|individual]] [[s/_step|step]], or [[s/_stage|stage]], in [[a/_any|any]] [[p/_process|process]] or [[s/_scale|scale]] of values.**
+- **A [[s/_stage|stage]] of [[r/_rank|rank]] or [[p/_privilege|privilege]]; [[s/_social|social]] [[s/_standing|standing]].**
+- **([[g/_genealogy|genealogy]]) A ‘[[s/_step|step]]’ in [[g/_genealogical|genealogical]] [[d/_descent|descent]].**
+- **[[o/_one|One]]'[[s/_s|s]] [[r/_relative|relative]] [[s/_state|state]] or [[e/_experience|experience]]; way, [[m/_manner|manner]].**
 - **The [[a/_amount|amount]] that an [[e/_entity|entity]] [[p/_possesses|possesses]] a [[c/_certain|certain]] [[p/_property|property]]; [[r/_relative|relative]] [[i/_intensity|intensity]], [[e/_extent|extent]].**
 	- _Example: To what degree do the two accounts of the accident concur?_
 ---
@@ -33,9 +33,9 @@
 	- _Example: Hexadecimal numeration (Base sixteen) includes the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 but also A (=10 decimal), B, C, D, E, and F. Sixteen itself is written as the two-digit number 10._
 - **1/12 the [[a/_apparent|apparent]] [[d/_diameter|diameter]] of the sun or [[m/_moon|moon]], as a [[m/_measure|measure]] of the totality of an [[e/_eclipse|eclipse]].**
 	- _Example: A six-digit eclipse covers half the lunar surface._
-- **A unit of [[l/_length|length]] [[n/_notionally|notionally]] [[b/_based|based]] upon the width of an [[a/_adult|adult]] [[h/_human|human]] [[f/_finger|finger]], standardized [[d/_differently|differently]] in various [[p/_places|places]] and times, the [[e/_english|English]] [[d/_digit|digit]] of 1/16 [[f/_foot|foot]] ([[a/_about|about]] 1.9 [[c/_cm|cm]]).**
+- **A unit of [[l/_length|length]] [[n/_notionally|notionally]] [[b/_based|based]] upon the width of an [[a/_adult|adult]] [[h/_human|human]] [[f/_finger|finger]], [[s/_standardized|standardized]] [[d/_differently|differently]] in various [[p/_places|places]] and times, the [[e/_english|English]] [[d/_digit|digit]] of 1/16 [[f/_foot|foot]] ([[a/_about|about]] 1.9 [[c/_cm|cm]]).**
 - **A [[n/_narrow|narrow]] [[e/_extremity|extremity]] of the [[h/_human|human]] [[h/_hand|hand]] or [[f/_foot|foot]]: a [[f/_finger|finger]], thumb, or toe.**
-- **[[s/_similar|Similar]] or [[s/_similar|similar]]-[[l/_looking|looking]] structures in [[o/_other|other]] [[a/_animals|animals]].**
+- **[[s/_similar|Similar]] or [[s/_similar|similar]]-[[l/_looking|looking]] [[s/_structures|structures]] in [[o/_other|other]] [[a/_animals|animals]].**
 ---
 ### Synonyms
 - [[f/_finger|finger]], [[f/_figure|figure]], [[p/_place|place]], [[f/_finger|finger]], [[f/_fingerbreadth|fingerbreadth]], [[f/_fingersbreadth|fingersbreadth]]

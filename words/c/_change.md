@@ -13,7 +13,7 @@
 - **A transfer [[b/_between|between]] vehicles.**
 	- _Example: The train journey from Bristol to Nottingham includes a change at Birmingham._
 - **A [[c/_change|change]]-up [[p/_pitch|pitch]].**
-- **([[c/_campanology|campanology]]) [[a/_any|Any]] [[o/_order|order]] in which a [[n/_number|number]] of [[b/_bells|bells]] are struck, [[o/_other|other]] than that of the [[d/_diatonic|diatonic]] [[s/_scale|scale]].**
+- **([[c/_campanology|campanology]]) [[a/_any|Any]] [[o/_order|order]] in which a [[n/_number|number]] of [[b/_bells|bells]] are [[s/_struck|struck]], [[o/_other|other]] than that of the [[d/_diatonic|diatonic]] [[s/_scale|scale]].**
 - **A [[p/_place|place]] where [[m/_merchants|merchants]] and [[o/_others|others]] [[m/_meet|meet]] to transact [[b/_business|business]]; an [[e/_exchange|exchange]].**
 - **A [[p/_public|public]] [[h/_house|house]]; an [[a/_alehouse|alehouse]].**
 ---

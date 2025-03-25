@@ -9,7 +9,7 @@
 ---
 #noun
 - **A [[s/_sarcastic|sarcastic]] [[r/_remark|remark]].**
-- **A stroke with a [[r/_rod|rod]] or switch.**
+- **A [[s/_stroke|stroke]] with a [[r/_rod|rod]] or switch.**
 - **A [[s/_severe|severe]] [[s/_spasm|spasm]]; a twinge; a [[p/_pang|pang]].**
 ---
 #verb

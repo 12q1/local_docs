@@ -1,7 +1,7 @@
 # Apparatus
 ---
 #noun
-- **The [[e/_entirety|entirety]] of [[m/_means|means]] whereby a specific [[p/_production|production]] is [[m/_made|made]] [[e/_existent|existent]] or task [[a/_accomplished|accomplished]].**
+- **The [[e/_entirety|entirety]] of [[m/_means|means]] whereby a [[s/_specific|specific]] [[p/_production|production]] is [[m/_made|made]] [[e/_existent|existent]] or task [[a/_accomplished|accomplished]].**
 - **A [[c/_complex|complex]] [[m/_machine|machine]] or [[i/_instrument|instrument]].**
 - **An [[a/_assortment|assortment]] of tools and [[i/_instruments|instruments]].**
 - **A [[b/_bureaucratic|bureaucratic]] [[o/_organization|organization]], [[e/_especially|especially]] [[o/_one|one]] [[i/_influenced|influenced]] by [[p/_political|political]] [[p/_patronage|patronage]].**

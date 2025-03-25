@@ -5,7 +5,7 @@
 	- _Example: A lawyer's time and advice are his stock in trade. - aphorism often credited to Abraham Lincoln, but without attestation_
 - **(by [[e/_extension|extension]]) A [[l/_legal|legal]] [[l/_layman|layman]] who [[a/_argues|argues]] [[p/_points|points]] of [[l/_law|law]].**
 - **The [[b/_burbot|burbot]].**
-- **The stem of a [[b/_bramble|bramble]].**
+- **The [[s/_stem|stem]] of a [[b/_bramble|bramble]].**
 ---
 ### Synonyms
 - [[a/_advocate|advocate]], [[a/_attorney|attorney]], [[c/_counselor|counselor]]

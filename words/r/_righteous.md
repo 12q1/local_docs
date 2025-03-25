@@ -1,7 +1,7 @@
 # Righteous
 ---
 #verb
-- **To [[m/_make|make]] [[r/_righteous|righteous]]; specifically, to [[j/_justify|justify]] [[r/_religiously|religiously]], to [[a/_absolve|absolve]] from [[s/_sin|sin]].**
+- **To [[m/_make|make]] [[r/_righteous|righteous]]; [[s/_specifically|specifically]], to [[j/_justify|justify]] [[r/_religiously|religiously]], to [[a/_absolve|absolve]] from [[s/_sin|sin]].**
 ---
 #adjective
 - **[[f/_free|Free]] from [[s/_sin|sin]] or [[g/_guilt|guilt]].**

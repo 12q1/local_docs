@@ -1,9 +1,9 @@
 # Signal
 ---
 #noun
-- **A [[s/_sequence|sequence]] of states [[r/_representing|representing]] an [[e/_encoded|encoded]] [[m/_message|message]] in a [[c/_communication|communication]] [[c/_channel|channel]].**
+- **A [[s/_sequence|sequence]] of [[s/_states|states]] [[r/_representing|representing]] an [[e/_encoded|encoded]] [[m/_message|message]] in a [[c/_communication|communication]] [[c/_channel|channel]].**
 - **[[a/_any|Any]] variation of a [[q/_quantity|quantity]] or [[c/_change|change]] in an [[e/_entity|entity]] [[o/_over|over]] time that [[c/_conveys|conveys]] [[i/_information|information]] upon [[d/_detection|detection]].**
-- **A [[s/_sign|sign]] [[m/_made|made]] to [[g/_give|give]] [[n/_notice|notice]] of [[s/_some|some]] [[o/_occurrence|occurrence]], [[c/_command|command]], or [[d/_danger|danger]], or to [[i/_indicate|indicate]] the start of a [[c/_concerted|concerted]] [[a/_action|action]].**
+- **A [[s/_sign|sign]] [[m/_made|made]] to [[g/_give|give]] [[n/_notice|notice]] of [[s/_some|some]] [[o/_occurrence|occurrence]], [[c/_command|command]], or [[d/_danger|danger]], or to [[i/_indicate|indicate]] the [[s/_start|start]] of a [[c/_concerted|concerted]] [[a/_action|action]].**
 - **An on-[[o/_off|off]] [[l/_light|light]], [[s/_semaphore|semaphore]], or [[o/_other|other]] [[d/_device|device]] used to [[g/_give|give]] an [[i/_indication|indication]] to [[a/_another|another]] [[p/_person|person]].**
 - **(of a [[r/_radio|radio]], TV, telephone, [[i/_internet|internet]], [[e/_etc|etc]].) An [[e/_electromagnetic|electromagnetic]] [[a/_action|action]], [[n/_normally|normally]] a voltage that is a [[f/_function|function]] of time, that [[c/_conveys|conveys]] the [[i/_information|information]] of the [[r/_radio|radio]] or TV [[p/_program|program]] or of [[c/_communication|communication]] with [[a/_another|another]] [[p/_party|party]].**
 	- _Example: My mobile phone can't get a signal in the railway station._
@@ -21,7 +21,7 @@
 	- _Example: Seeing the flames, he ran to the control room and signalled headquarters._
 ---
 #adjective
-- **Standing [[a/_above|above]] [[o/_others|others]] in [[r/_rank|rank]], [[i/_importance|importance]], or [[a/_achievement|achievement]].**
+- **[[s/_standing|Standing]] [[a/_above|above]] [[o/_others|others]] in [[r/_rank|rank]], [[i/_importance|importance]], or [[a/_achievement|achievement]].**
 	- _Example: a signal exploit; a signal service; a signal act of benevolence_
 ---
 ### Synonyms

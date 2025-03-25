@@ -1,6 +1,6 @@
 # Busyness
 ---
 #noun
-- **The state of [[b/_being|being]] [[b/_busy|busy]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[b/_busy|busy]].**
 ---
 ---

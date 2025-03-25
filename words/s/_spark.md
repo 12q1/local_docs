@@ -4,7 +4,7 @@
 - **A [[s/_small|small]] [[p/_particle|particle]] of [[g/_glowing|glowing]] [[m/_matter|matter]], [[e/_either|either]] [[m/_molten|molten]] or on [[f/_fire|fire]].**
 - **A [[s/_short|short]] or [[s/_small|small]] [[b/_burst|burst]] of [[e/_electrical|electrical]] [[d/_discharge|discharge]].**
 - **A [[s/_small|small]], [[s/_shining|shining]] [[b/_body|body]], or transient [[l/_light|light]]; a [[s/_sparkle|sparkle]].**
-- **A [[s/_small|small]] [[a/_amount|amount]] of [[s/_something|something]], such as an [[i/_idea|idea]] or [[r/_romantic|romantic]] [[a/_affection|affection]], that [[h/_has|has]] the [[p/_potential|potential]] to [[b/_become|become]] [[s/_something|something]] [[g/_greater|greater]], [[j/_just|just]] as a [[s/_spark|spark]] [[c/_can|can]] start a [[f/_fire|fire]].**
+- **A [[s/_small|small]] [[a/_amount|amount]] of [[s/_something|something]], such as an [[i/_idea|idea]] or [[r/_romantic|romantic]] [[a/_affection|affection]], that [[h/_has|has]] the [[p/_potential|potential]] to [[b/_become|become]] [[s/_something|something]] [[g/_greater|greater]], [[j/_just|just]] as a [[s/_spark|spark]] [[c/_can|can]] [[s/_start|start]] a [[f/_fire|fire]].**
 - **[[a/_any|Any]] of various [[l/_lycaenid|lycaenid]] [[b/_butterflies|butterflies]] of the Indomalayan [[g/_genus|genus]] Sinthusa.**
 - **(in [[p/_plural|plural]] [[s/_sparks|sparks]] but treated as a [[s/_singular|singular]]) A [[s/_ship|ship]]'[[s/_s|s]] [[r/_radio|radio]] [[o/_operator|operator]].**
 - **An [[e/_electrician|electrician]].**

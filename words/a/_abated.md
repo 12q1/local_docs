@@ -7,7 +7,7 @@
 	- _Example: The writ has abated._
 - **To [[n/_nullify|nullify]]; [[m/_make|make]] void.**
 	- _Example: to abate a writ_
-- **To [[h/_humble|humble]]; to [[l/_lower|lower]] in status; to [[b/_bring|bring]] [[s/_someone|someone]] [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
+- **To [[h/_humble|humble]]; to [[l/_lower|lower]] in [[s/_status|status]]; to [[b/_bring|bring]] [[s/_someone|someone]] [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
 - **To be [[h/_humbled|humbled]]; to be [[b/_brought|brought]] [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
 - **To [[c/_curtail|curtail]]; to [[d/_deprive|deprive]].**
 	- _Example: Order restrictions and prohibitions to abate an emergency situation._
@@ -31,6 +31,6 @@
 - **To [[e/_enter|enter]] a tenement without [[p/_permission|permission]] [[a/_after|after]] the [[o/_owner|owner]] [[h/_has|has]] [[d/_died|died]] and [[b/_before|before]] the [[h/_heir|heir]] takes [[p/_possession|possession]].**
 ---
 #adjective
-- **([[d/_decorative|decorative]] [[a/_arts|arts]]) [[l/_lowered|Lowered]], [[b/_beaten|beaten]] [[d/_down|down]], or [[c/_cut|cut]] [[a/_away|away]], as the [[b/_background|background]] of an [[o/_ornamental|ornamental]] [[p/_pattern|pattern]] in [[r/_relief|relief]]. Used specifically of stone-[[c/_cutting|cutting]]; [[a/_also|also]] of [[m/_metal|metal]] when the [[p/_pattern|pattern]] or [[i/_inscription|inscription]] is to [[s/_show|show]] [[b/_bright|bright]] on [[d/_dark|dark]], and the [[g/_ground|ground]] is therefore worked [[o/_out|out]] with the [[g/_graving|graving]]-tool and [[l/_left|left]] [[r/_rough|rough]] or [[h/_hatched|hatched]] in [[l/_lines|lines]].**
+- **([[d/_decorative|decorative]] [[a/_arts|arts]]) [[l/_lowered|Lowered]], [[b/_beaten|beaten]] [[d/_down|down]], or [[c/_cut|cut]] [[a/_away|away]], as the [[b/_background|background]] of an [[o/_ornamental|ornamental]] [[p/_pattern|pattern]] in [[r/_relief|relief]]. Used [[s/_specifically|specifically]] of [[s/_stone|stone]]-[[c/_cutting|cutting]]; [[a/_also|also]] of [[m/_metal|metal]] when the [[p/_pattern|pattern]] or [[i/_inscription|inscription]] is to [[s/_show|show]] [[b/_bright|bright]] on [[d/_dark|dark]], and the [[g/_ground|ground]] is therefore worked [[o/_out|out]] with the [[g/_graving|graving]]-tool and [[l/_left|left]] [[r/_rough|rough]] or [[h/_hatched|hatched]] in [[l/_lines|lines]].**
 ---
 ---

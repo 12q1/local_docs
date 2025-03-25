@@ -1,16 +1,16 @@
 # Beating
 ---
 #verb
-- **To [[h/_hit|hit]]; strike**
+- **To [[h/_hit|hit]]; [[s/_strike|strike]]**
 	- _Example: As soon as she heard that her father had died, she went into a rage and beat the wall with her fists until her knuckles bled._
-- **To strike or [[p/_pound|pound]] [[r/_repeatedly|repeatedly]], usually in [[s/_some|some]] [[s/_sort|sort]] of [[r/_rhythm|rhythm]].**
+- **To [[s/_strike|strike]] or [[p/_pound|pound]] [[r/_repeatedly|repeatedly]], usually in [[s/_some|some]] [[s/_sort|sort]] of [[r/_rhythm|rhythm]].**
 	- _Example: He danced hypnotically while she beat the atabaque._
-- **To strike [[r/_repeatedly|repeatedly]]; to [[i/_inflict|inflict]] [[r/_repeated|repeated]] [[b/_blows|blows]]; to [[k/_knock|knock]] vigorously or [[l/_loudly|loudly]].**
+- **To [[s/_strike|strike]] [[r/_repeatedly|repeatedly]]; to [[i/_inflict|inflict]] [[r/_repeated|repeated]] [[b/_blows|blows]]; to [[k/_knock|knock]] vigorously or [[l/_loudly|loudly]].**
 - **To [[m/_move|move]] with [[p/_pulsation|pulsation]] or throbbing.**
 - **To win [[a/_against|against]]; to [[d/_defeat|defeat]] or [[o/_overcome|overcome]]; to [[d/_do|do]] [[b/_better|better]] than, [[o/_outdo|outdo]], or [[e/_excel|excel]] ([[s/_someone|someone]]) in a [[p/_particular|particular]], [[c/_competitive|competitive]] [[e/_event|event]].**
 	- _Example: I just can't seem to beat the last level of this video game._
 - **To [[s/_sail|sail]] to windward using a [[s/_series|series]] of [[a/_alternate|alternate]] tacks [[a/_across|across]] the wind.**
-- **To strike (water, [[f/_foliage|foliage]] [[e/_etc|etc]].) in [[o/_order|order]] to [[d/_drive|drive]] [[o/_out|out]] [[g/_game|game]]; to travel through (a [[f/_forest|forest]] [[e/_etc|etc]].) for [[h/_hunting|hunting]].**
+- **To [[s/_strike|strike]] (water, [[f/_foliage|foliage]] [[e/_etc|etc]].) in [[o/_order|order]] to [[d/_drive|drive]] [[o/_out|out]] [[g/_game|game]]; to travel through (a [[f/_forest|forest]] [[e/_etc|etc]].) for [[h/_hunting|hunting]].**
 - **To [[m/_mix|mix]] [[f/_food|food]] in a [[r/_rapid|rapid]] [[f/_fashion|fashion]]. [[c/_compare|Compare]] whip.**
 	- _Example: Beat the eggs and whip the cream._
 - **(In [[h/_haggling|haggling]] for a [[p/_price|price]]) of a [[b/_buyer|buyer]], to [[p/_persuade|persuade]] the [[s/_seller|seller]] to [[r/_reduce|reduce]] a [[p/_price|price]]**
@@ -20,9 +20,9 @@
 - **To tread, as a [[p/_path|path]].**
 - **To [[e/_exercise|exercise]] [[s/_severely|severely]]; to [[p/_perplex|perplex]]; to trouble.**
 - **To be in [[a/_agitation|agitation]] or [[d/_doubt|doubt]].**
-- **To [[m/_make|make]] a [[s/_sound|sound]] when struck.**
+- **To [[m/_make|make]] a [[s/_sound|sound]] when [[s/_struck|struck]].**
 	- _Example: The drums beat._
-- **To [[m/_make|make]] a succession of strokes on a [[d/_drum|drum]].**
+- **To [[m/_make|make]] a succession of [[s/_strokes|strokes]] on a [[d/_drum|drum]].**
 	- _Example: The drummers beat to call soldiers to their quarters._
 - **To [[s/_sound|sound]] with [[m/_more|more]] or [[l/_less|less]] [[r/_rapid|rapid]] [[a/_alternations|alternations]] of [[g/_greater|greater]] and [[l/_less|less]] [[i/_intensity|intensity]], [[s/_so|so]] as to [[p/_produce|produce]] a [[p/_pulsating|pulsating]] [[e/_effect|effect]]; [[s/_said|said]] of [[i/_instruments|instruments]], tones, or vibrations, not [[p/_perfectly|perfectly]] in unison.**
 - **To [[a/_arrive|arrive]] at a [[p/_place|place]] [[b/_before|before]] [[s/_someone|someone]].**

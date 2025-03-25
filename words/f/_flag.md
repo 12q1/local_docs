@@ -5,8 +5,8 @@
 - **An [[e/_exact|exact]] [[r/_representation|representation]] of a [[f/_flag|flag]] (for [[e/_example|example]]: a [[d/_digital|digital]] [[o/_one|one]] used in websites).**
 - **A [[f/_flag|flag]] [[f/_flown|flown]] by a [[s/_ship|ship]] to [[s/_show|show]] the [[p/_presence|presence]] on [[b/_board|board]] of the [[a/_admiral|admiral]]; the [[a/_admiral|admiral]] [[h/_himself|himself]], or [[h/_his|his]] [[f/_flagship|flagship]].**
 - **([[o/_often|often]] used [[a/_attributively|attributively]]) A [[s/_signal|signal]] [[f/_flag|flag]].**
-- **The use of a [[f/_flag|flag]], [[e/_especially|especially]] to [[i/_indicate|indicate]] the start of a [[r/_race|race]] or [[o/_other|other]] [[e/_event|event]].**
-- **A variable or [[m/_memory|memory]] [[l/_location|location]] that stores a true-or-[[f/_false|false]], [[y/_yes|yes]]-or-[[n/_no|no]] value, typically [[e/_either|either]] [[r/_recording|recording]] the [[f/_fact|fact]] that a [[c/_certain|certain]] [[e/_event|event]] [[h/_has|has]] [[o/_occurred|occurred]] or [[r/_requesting|requesting]] that a [[c/_certain|certain]] [[o/_optional|optional]] [[a/_action|action]] take [[p/_place|place]].**
+- **The use of a [[f/_flag|flag]], [[e/_especially|especially]] to [[i/_indicate|indicate]] the [[s/_start|start]] of a [[r/_race|race]] or [[o/_other|other]] [[e/_event|event]].**
+- **A variable or [[m/_memory|memory]] [[l/_location|location]] that [[s/_stores|stores]] a true-or-[[f/_false|false]], [[y/_yes|yes]]-or-[[n/_no|no]] value, typically [[e/_either|either]] [[r/_recording|recording]] the [[f/_fact|fact]] that a [[c/_certain|certain]] [[e/_event|event]] [[h/_has|has]] [[o/_occurred|occurred]] or [[r/_requesting|requesting]] that a [[c/_certain|certain]] [[o/_optional|optional]] [[a/_action|action]] take [[p/_place|place]].**
 - **In a [[c/_command|command]] [[l/_line|line]] [[i/_interface|interface]], a [[c/_command|command]] [[p/_parameter|parameter]] [[r/_requesting|requesting]] [[o/_optional|optional]] [[b/_behavior|behavior]] or [[o/_otherwise|otherwise]] [[m/_modifying|modifying]] the [[a/_action|action]] of the [[c/_command|command]] [[b/_being|being]] [[i/_invoked|invoked]].**
 - **A [[m/_mechanical|mechanical]] [[i/_indicator|indicator]] that [[p/_pops|pops]] up to [[d/_draw|draw]] the [[p/_pilot|pilot]]'[[s/_s|s]] [[a/_attention|attention]] to a [[p/_problem|problem]] or [[m/_malfunction|malfunction]].**
 - **The [[g/_game|game]] of [[c/_capture|capture]] the [[f/_flag|flag]].**
@@ -18,7 +18,7 @@
 #verb
 - **To [[f/_furnish|furnish]] or [[d/_deck|deck]] [[o/_out|out]] with [[f/_flags|flags]].**
 - **To [[m/_mark|mark]] with a [[f/_flag|flag]], [[e/_especially|especially]] to [[i/_indicate|indicate]] the [[i/_importance|importance]] of [[s/_something|something]].**
-- **([[o/_often|often]] with [[d/_down|down]]) To [[s/_signal|signal]] to, [[e/_especially|especially]] to stop a [[p/_passing|passing]] vehicle [[e/_etc|etc]].**
+- **([[o/_often|often]] with [[d/_down|down]]) To [[s/_signal|signal]] to, [[e/_especially|especially]] to [[s/_stop|stop]] a [[p/_passing|passing]] vehicle [[e/_etc|etc]].**
 	- _Example: Please flag down a taxi for me._
 - **To [[c/_convey|convey]] (a [[m/_message|message]]) by [[m/_means|means]] of [[f/_flag|flag]] [[s/_signals|signals]].**
 	- _Example: to flag an order to troops or vessels at a distance_

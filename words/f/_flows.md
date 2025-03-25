@@ -11,7 +11,7 @@
 - **The [[a/_amount|amount]] of a [[f/_fluid|fluid]] that [[m/_moves|moves]] or the [[r/_rate|rate]] of [[f/_fluid|fluid]] [[m/_movement|movement]].**
 	- _Example: Other devices measure water flow in streams fed by melted ice._
 - **A [[f/_flow|flow]] [[p/_pipe|pipe]], [[c/_carrying|carrying]] [[l/_liquid|liquid]] [[a/_away|away]] from a [[b/_boiler|boiler]] or [[o/_other|other]] [[c/_central|central]] [[p/_plant|plant]] ([[c/_compare|compare]] with [[r/_return|return]] [[p/_pipe|pipe]] which [[r/_returns|returns]] [[f/_fluid|fluid]] to [[c/_central|central]] [[p/_plant|plant]]).**
-- **A [[m/_mental|mental]] state [[c/_characterized|characterized]] by [[c/_concentration|concentration]], [[f/_focus|focus]] and [[e/_enjoyment|enjoyment]] of a [[g/_given|given]] task.**
+- **A [[m/_mental|mental]] [[s/_state|state]] [[c/_characterized|characterized]] by [[c/_concentration|concentration]], [[f/_focus|focus]] and [[e/_enjoyment|enjoyment]] of a [[g/_given|given]] task.**
 - **The [[e/_emission|emission]] of [[b/_blood|blood]] [[d/_during|during]] [[m/_menstruation|menstruation]].**
 	- _Example: Tampons can be small or large, slender or thick. From “slender” to “super”, you can pick the size that matches your flow._
 - **The [[a/_ability|ability]] to [[s/_skilfully|skilfully]] [[r/_rap|rap]] [[a/_along|along]] to a [[b/_beat|beat]].**

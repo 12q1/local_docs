@@ -1,7 +1,7 @@
 # Licked
 ---
 #verb
-- **To stroke with the tongue.**
+- **To [[s/_stroke|stroke]] with the tongue.**
 	- _Example: The cat licked its fur._
 - **To [[l/_lap|lap]]; to take in with the tongue.**
 	- _Example: She licked the last of the honey off the spoon before washing it._

@@ -25,7 +25,7 @@
 #adjective
 - **[[s/_serving|Serving]] to [[s/_smash|smash]] ([[s/_something|something]]).**
 	- _Example: The boxer delivered a smashing blow to his opponent's head._
-- **([[o/_originally|originally]] United States, [[s/_slightly|slightly]] [[o/_obsolete|obsolete]]) Wonderful, very [[g/_good|good]] or [[i/_impressive|impressive]].**
+- **([[o/_originally|originally]] United [[s/_states|States]], [[s/_slightly|slightly]] [[o/_obsolete|obsolete]]) Wonderful, very [[g/_good|good]] or [[i/_impressive|impressive]].**
 	- _Example: We had a smashing time at the zoo._
 ---
 ---

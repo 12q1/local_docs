@@ -6,7 +6,7 @@
 ### Synonyms
 - [[p/_penult|penult]]
 #adjective
-- **(in United States usually [[f/_formal|formal]]) [[n/_next|Next]] to [[l/_last|last]], [[s/_second|second]] to [[l/_last|last]]; [[i/_immediately|immediately]] [[p/_preceding|preceding]] the [[e/_end|end]] of a [[s/_sequence|sequence]], [[l/_list|list]], [[e/_etc|etc]].**
+- **(in United [[s/_states|States]] usually [[f/_formal|formal]]) [[n/_next|Next]] to [[l/_last|last]], [[s/_second|second]] to [[l/_last|last]]; [[i/_immediately|immediately]] [[p/_preceding|preceding]] the [[e/_end|end]] of a [[s/_sequence|sequence]], [[l/_list|list]], [[e/_etc|etc]].**
 - **Of or [[p/_pertaining|pertaining]] to a [[p/_penult|penult]].**
 - **[[r/_relating|Relating]] to or [[d/_denoting|denoting]] an [[e/_element|element]] of a [[r/_related|related]] [[c/_collection|collection]] of [[c/_curves|curves]] that is [[a/_arbitrarily|arbitrarily]] [[c/_close|close]] to a [[d/_degenerate|degenerate]] [[f/_form|form]].**
 ---

@@ -1,7 +1,7 @@
 # Law
 ---
 #noun
-- **The [[b/_body|body]] of [[b/_binding|binding]] [[r/_rules|rules]] and [[r/_regulations|regulations]], [[c/_customs|customs]] and standards [[e/_established|established]] in a [[c/_community|community]] by [[i/_its|its]] [[l/_legislative|legislative]] and [[j/_judicial|judicial]] [[a/_authorities|authorities]].**
+- **The [[b/_body|body]] of [[b/_binding|binding]] [[r/_rules|rules]] and [[r/_regulations|regulations]], [[c/_customs|customs]] and [[s/_standards|standards]] [[e/_established|established]] in a [[c/_community|community]] by [[i/_its|its]] [[l/_legislative|legislative]] and [[j/_judicial|judicial]] [[a/_authorities|authorities]].**
 	- _Example: entrapment is against the law_
 - **A [[b/_binding|binding]] [[r/_regulation|regulation]] or [[c/_custom|custom]] [[e/_established|established]] in a [[c/_community|community]] in this way.**
 	- _Example: A new law forbids driving on that road._
@@ -16,7 +16,7 @@
 	- _Example: She went to university to study law._
 - **[[l/_litigation|Litigation]], [[l/_legal|legal]] [[a/_action|action]] (as a [[m/_means|means]] of [[m/_maintaining|maintaining]] or [[r/_restoring|restoring]] [[o/_order|order]], [[r/_redressing|redressing]] wrongs, [[e/_etc|etc]]).**
 	- _Example: They were quick to go to law._
-- **An [[a/_allowance|allowance]] of [[d/_distance|distance]] or time (a [[h/_head|head]] start) [[g/_given|given]] to a weaker ([[h/_human|human]] or [[a/_animal|animal]]) [[c/_competitor|competitor]] in a [[r/_race|race]], to [[m/_make|make]] the [[r/_race|race]] [[m/_more|more]] [[f/_fair|fair]].**
+- **An [[a/_allowance|allowance]] of [[d/_distance|distance]] or time (a [[h/_head|head]] [[s/_start|start]]) [[g/_given|given]] to a weaker ([[h/_human|human]] or [[a/_animal|animal]]) [[c/_competitor|competitor]] in a [[r/_race|race]], to [[m/_make|make]] the [[r/_race|race]] [[m/_more|more]] [[f/_fair|fair]].**
 - **[[o/_one|One]] of two [[m/_metaphysical|metaphysical]] [[f/_forces|forces]] [[r/_ruling|ruling]] the world in [[s/_some|some]] [[f/_fantasy|fantasy]] [[s/_settings|settings]], [[a/_also|also]] [[c/_called|called]] [[o/_order|order]], and [[o/_opposed|opposed]] to [[c/_chaos|chaos]].**
 - **An [[o/_oath|oath]] sworn [[b/_before|before]] a [[c/_court|court]], [[e/_especially|especially]] [[d/_disclaiming|disclaiming]] a [[d/_debt|debt]]. ([[c/_chiefly|Chiefly]] in the [[p/_phrases|phrases]] "wager of [[l/_law|law]]", "wage [[o/_one|one]]'[[s/_s|s]] [[l/_law|law]]", "[[p/_perform|perform]] [[o/_one|one]]'[[s/_s|s]] [[l/_law|law]]", "[[l/_lose|lose]] [[o/_one|one]]'[[s/_s|s]] [[l/_law|law]]".)**
 ---

@@ -15,7 +15,7 @@
 	- _Example: One student kept trying to cut in front of the line._
 - **To [[i/_intersect|intersect]] or [[c/_cross|cross]] in such a way as to [[d/_divide|divide]] in [[h/_half|half]] or [[n/_nearly|nearly]] [[s/_so|so]].**
 	- _Example: This road cuts right through downtown._
-- **To [[m/_make|make]] the [[b/_ball|ball]] spin [[s/_sideways|sideways]] by [[r/_running|running]] [[o/_one|one]]'[[s/_s|s]] [[f/_fingers|fingers]] [[d/_down|down]] the [[s/_side|side]] of the [[b/_ball|ball]] while [[b/_bowling|bowling]] it.**
+- **To [[m/_make|make]] the [[b/_ball|ball]] [[s/_spin|spin]] [[s/_sideways|sideways]] by [[r/_running|running]] [[o/_one|one]]'[[s/_s|s]] [[f/_fingers|fingers]] [[d/_down|down]] the [[s/_side|side]] of the [[b/_ball|ball]] while [[b/_bowling|bowling]] it.**
 - **To [[d/_deflect|deflect]] (a [[b/_bowled|bowled]] [[b/_ball|ball]]) to the [[o/_off|off]], with a [[c/_chopping|chopping]] [[m/_movement|movement]] of the [[b/_bat|bat]].**
 - **To [[c/_change|change]] [[d/_direction|direction]] suddenly.**
 	- _Example: The football player cut to his left to evade a tackle._
@@ -26,9 +26,9 @@
 - **To [[d/_dilute|dilute]] or [[a/_adulterate|adulterate]] [[s/_something|something]], [[e/_especially|especially]] a [[r/_recreational|recreational]] [[d/_drug|drug]].**
 	- _Example: Drug dealers sometimes cut cocaine with lidocaine._
 - **To [[e/_exhibit|exhibit]] (a [[q/_quality|quality]]).**
-- **To stop or [[d/_disengage|disengage]].**
+- **To [[s/_stop|stop]] or [[d/_disengage|disengage]].**
 	- _Example: Cut the engines when the plane comes to a halt!_
-- **To [[d/_drive|drive]] (a [[b/_ball|ball]]) to [[o/_one|one]] [[s/_side|side]], as by (in [[b/_billiards|billiards]] or [[c/_croquet|croquet]]) [[h/_hitting|hitting]] it [[f/_fine|fine]] with [[a/_another|another]] [[b/_ball|ball]], or (in tennis) striking it with the [[r/_racket|racket]] [[i/_inclined|inclined]].**
+- **To [[d/_drive|drive]] (a [[b/_ball|ball]]) to [[o/_one|one]] [[s/_side|side]], as by (in [[b/_billiards|billiards]] or [[c/_croquet|croquet]]) [[h/_hitting|hitting]] it [[f/_fine|fine]] with [[a/_another|another]] [[b/_ball|ball]], or (in tennis) [[s/_striking|striking]] it with the [[r/_racket|racket]] [[i/_inclined|inclined]].**
 - **To [[l/_lose|lose]] [[b/_body|body]] [[m/_mass|mass]] [[a/_after|after]] [[b/_bulking|bulking]], [[a/_aiming|aiming]] to [[k/_keep|keep]] the [[a/_additional|additional]] [[m/_muscle|muscle]] but [[l/_lose|lose]] the [[f/_fat|fat]].**
 - **To [[p/_perform|perform]] (a [[d/_dancing|dancing]] [[m/_movement|movement]] [[e/_etc|etc]].).**
 ---

@@ -11,7 +11,7 @@
 ### Synonyms
 - [[h/_heft|heft]], [[s/_shoulder|shoulder]], [[t/_tote|tote]], [[h/_hike|hike]], [[t/_trek|trek]], [[w/_walk|walk]], [[b/_bang|bang]], [[b/_bone|bone]], [[r/_ride|ride]], [[s/_shag|shag]], [[b/_bother|bother]], [[i/_irk|irk]], [[r/_rile|rile]]
 #adjective
-- **[[h/_having|Having]] a [[h/_hump|hump]] or [[h/_humps|humps]], or, in [[c/_combination|combination]], a [[h/_hump|hump]] or [[h/_humps|humps]] of the specified [[n/_number|number]] or type.**
+- **[[h/_having|Having]] a [[h/_hump|hump]] or [[h/_humps|humps]], or, in [[c/_combination|combination]], a [[h/_hump|hump]] or [[h/_humps|humps]] of the [[s/_specified|specified]] [[n/_number|number]] or type.**
 	- _Example: a humped cow, a humped curve, a two-humped camel_
 ---
 ---

@@ -8,7 +8,7 @@
 - **To [[p/_place|place]] in [[q/_quarantine|quarantine]] or [[i/_isolation|isolation]].**
 - **To [[s/_separate|separate]] a substance in [[p/_pure|pure]] [[f/_form|form]] from a [[m/_mixture|mixture]].**
 - **To [[i/_insulate|insulate]], or [[m/_make|make]] [[f/_free|free]] of [[e/_external|external]] [[i/_influence|influence]].**
-- **To [[s/_separate|separate]] a [[p/_pure|pure]] strain of [[b/_bacteria|bacteria]] [[e/_etc|etc]]. from a [[m/_mixed|mixed]] [[c/_culture|culture]].**
+- **To [[s/_separate|separate]] a [[p/_pure|pure]] [[s/_strain|strain]] of [[b/_bacteria|bacteria]] [[e/_etc|etc]]. from a [[m/_mixed|mixed]] [[c/_culture|culture]].**
 - **To [[i/_insulate|insulate]] an [[e/_electrical|electrical]] [[c/_component|component]] from a [[s/_source|source]] of [[e/_electricity|electricity]].**
 ---
 ---

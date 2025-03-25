@@ -1,7 +1,7 @@
 # Misspelling
 ---
 #verb
-- **To spell [[i/_incorrectly|incorrectly]].**
+- **To [[s/_spell|spell]] [[i/_incorrectly|incorrectly]].**
 ---
 #noun
 - **A [[m/_misspelt|misspelt]] word.**

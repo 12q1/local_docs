@@ -6,7 +6,7 @@
 #adjective
 - **[[l/_lacking|Lacking]] worldly [[e/_experience|experience]], wisdom, or [[j/_judgement|judgement]]; unsophisticated.**
 - **Not [[h/_having|having]] [[b/_been|been]] [[e/_exposed|exposed]] to [[s/_something|something]].**
-- **(of [[a/_art|art]]) [[p/_produced|Produced]] in a [[s/_simple|simple]], [[c/_childlike|childlike]] style, [[d/_deliberately|deliberately]] [[r/_rejecting|rejecting]] [[s/_sophisticated|sophisticated]] techniques.**
+- **(of [[a/_art|art]]) [[p/_produced|Produced]] in a [[s/_simple|simple]], [[c/_childlike|childlike]] [[s/_style|style]], [[d/_deliberately|deliberately]] [[r/_rejecting|rejecting]] [[s/_sophisticated|sophisticated]] techniques.**
 - **[[i/_intuitive|Intuitive]]; [[d/_designed|designed]] to [[f/_follow|follow]] the way [[o/_ordinary|ordinary]] [[p/_people|people]] [[a/_approach|approach]] a [[p/_problem|problem]].**
 ---
 ---

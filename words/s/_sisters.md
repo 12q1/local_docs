@@ -14,9 +14,9 @@
 	- _Example: What’s up, sister?_
 - **A woman, in [[c/_certain|certain]] [[l/_labour|labour]] or [[s/_socialist|socialist]] [[c/_circles|circles]]; [[a/_also|also]] as a [[f/_form|form]] of [[a/_address|address]].**
 	- _Example: Thank you, sister. I would like to thank the sister who just spoke._
-- **An [[e/_entity|entity]] that [[h/_has|has]] a special or [[a/_affectionate|affectionate]], [[n/_non|non]]-[[h/_hierarchical|hierarchical]] [[r/_relationship|relationship]] with [[a/_another|another]].**
+- **An [[e/_entity|entity]] that [[h/_has|has]] a [[s/_special|special]] or [[a/_affectionate|affectionate]], [[n/_non|non]]-[[h/_hierarchical|hierarchical]] [[r/_relationship|relationship]] with [[a/_another|another]].**
 	- _Example: sister city_
-- **A [[n/_node|node]] in a [[d/_data|data]] structure that [[s/_shares|shares]] [[i/_its|its]] [[p/_parent|parent]] with [[a/_another|another]] [[n/_node|node]].**
+- **A [[n/_node|node]] in a [[d/_data|data]] [[s/_structure|structure]] that [[s/_shares|shares]] [[i/_its|its]] [[p/_parent|parent]] with [[a/_another|another]] [[n/_node|node]].**
 - **(usually [[a/_attributively|attributively]]) [[s/_something|Something]] in the [[s/_same|same]] [[c/_class|class]].**
 	- _Example: sister facility_
 ---
@@ -25,7 +25,7 @@
 ### Antonyms
 - [[b/_brother|brother]]
 #verb
-- **To strengthen (a supporting [[b/_beam|beam]]) by [[f/_fastening|fastening]] a [[s/_second|second]] [[b/_beam|beam]] [[a/_alongside|alongside]] it.**
+- **To [[s/_strengthen|strengthen]] (a supporting [[b/_beam|beam]]) by [[f/_fastening|fastening]] a [[s/_second|second]] [[b/_beam|beam]] [[a/_alongside|alongside]] it.**
 	- _Example: I’m trying to correct my sagging floor by sistering the joists._
 - **To be [[s/_sister|sister]] to; to [[r/_resemble|resemble]] [[c/_closely|closely]].**
 ---

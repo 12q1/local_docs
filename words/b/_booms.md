@@ -10,7 +10,7 @@
 #verb
 - **To [[m/_make|make]] a [[l/_loud|loud]], [[h/_hollow|hollow]], [[r/_resonant|resonant]] [[s/_sound|sound]].**
 	- _Example: I can hear the organ slowly booming from the chapel._
-- **(of speech) To [[e/_exclaim|exclaim]] with [[f/_force|force]], to [[s/_shout|shout]], to thunder.**
+- **(of [[s/_speech|speech]]) To [[e/_exclaim|exclaim]] with [[f/_force|force]], to [[s/_shout|shout]], to thunder.**
 - **To [[m/_make|make]] [[s/_something|something]] [[b/_boom|boom]].**
 	- _Example: Men in grey robes slowly boom the drums of death._
 - **To [[p/_publicly|publicly]] [[p/_praise|praise]].**
@@ -21,7 +21,7 @@
 - **A [[m/_movable|movable]] [[p/_pole|pole]] used to support a [[m/_microphone|microphone]] or [[c/_camera|camera]].**
 - **A [[h/_horizontal|horizontal]] [[m/_member|member]] of a [[c/_crane|crane]] or [[d/_derrick|derrick]], used for [[l/_lifting|lifting]].**
 - **The [[l/_longest|longest]] [[e/_element|element]] of a [[y/_yagi|Yagi]] [[a/_antenna|antenna]], on which the [[o/_other|other]], [[s/_smaller|smaller]] [[o/_ones|ones]] are transversally [[m/_mounted|mounted]].**
-- **A [[f/_floating|floating]] [[b/_barrier|barrier]] used to [[o/_obstruct|obstruct]] [[n/_navigation|navigation]], for [[m/_military|military]] or [[o/_other|other]] [[p/_purposes|purposes]]; or used for the [[c/_containment|containment]] of an [[o/_oil|oil]] spill or to [[c/_control|control]] the [[f/_flow|flow]] of [[l/_logs|logs]] from [[l/_logging|logging]] [[o/_operations|operations]].**
+- **A [[f/_floating|floating]] [[b/_barrier|barrier]] used to [[o/_obstruct|obstruct]] [[n/_navigation|navigation]], for [[m/_military|military]] or [[o/_other|other]] [[p/_purposes|purposes]]; or used for the [[c/_containment|containment]] of an [[o/_oil|oil]] [[s/_spill|spill]] or to [[c/_control|control]] the [[f/_flow|flow]] of [[l/_logs|logs]] from [[l/_logging|logging]] [[o/_operations|operations]].**
 - **A wishbone-[[s/_shaped|shaped]] [[p/_piece|piece]] of windsurfing [[e/_equipment|equipment]].**
 - **The [[s/_section|section]] of the [[a/_arm|arm]] on a [[b/_backhoe|backhoe]] [[c/_closest|closest]] to the tractor.**
 - **A [[g/_gymnastics|gymnastics]] [[a/_apparatus|apparatus]] [[s/_similar|similar]] to a [[b/_balance|balance]] [[b/_beam|beam]].**

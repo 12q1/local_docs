@@ -3,12 +3,12 @@
 #noun
 - **A [[h/_heraldic|heraldic]] [[f/_fur|fur]] [[f/_formed|formed]] by a [[r/_regular|regular]] tessellation of [[b/_blue|blue]] and white T [[s/_shapes|shapes]].**
 - **A [[p/_prince|prince]]; a [[p/_potentate|potentate]].**
-- **A staff or [[c/_crutch|crutch]].**
+- **A [[s/_staff|staff]] or [[c/_crutch|crutch]].**
 ---
 ### Antonyms
 - [[c/_counterpotent|counterpotent]], [[i/_impotent|impotent]]
 #adjective
-- **[[p/_possessing|Possessing]] strength.**
+- **[[p/_possessing|Possessing]] [[s/_strength|strength]].**
 	- _Example: a potent argument_
 - **[[p/_powerfully|Powerfully]] [[e/_effective|effective]].**
 	- _Example: a potent medicine_

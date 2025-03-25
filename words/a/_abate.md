@@ -10,7 +10,7 @@
 	- _Example: The writ has abated._
 - **To [[n/_nullify|nullify]]; [[m/_make|make]] void.**
 	- _Example: to abate a writ_
-- **To [[h/_humble|humble]]; to [[l/_lower|lower]] in status; to [[b/_bring|bring]] [[s/_someone|someone]] [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
+- **To [[h/_humble|humble]]; to [[l/_lower|lower]] in [[s/_status|status]]; to [[b/_bring|bring]] [[s/_someone|someone]] [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
 - **To be [[h/_humbled|humbled]]; to be [[b/_brought|brought]] [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
 - **To [[c/_curtail|curtail]]; to [[d/_deprive|deprive]].**
 	- _Example: Order restrictions and prohibitions to abate an emergency situation._

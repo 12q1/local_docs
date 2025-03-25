@@ -16,7 +16,7 @@
 ### Antonyms
 - [[s/_south|south]]
 #noun
-- **A strong [[n/_north|north]] wind.**
+- **A [[s/_strong|strong]] [[n/_north|north]] wind.**
 - **[[s/_south|South]] wind**
 ---
 #verb

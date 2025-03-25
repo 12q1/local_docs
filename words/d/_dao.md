@@ -1,7 +1,7 @@
 # Dao
 ---
 #propernoun
-- **In Taoism, The Way, specifically the transcendental [[b/_basis|basis]] of [[n/_nature|nature]] and, and/or the [[i/_ideal|ideal]] way to [[l/_live|live]] [[o/_one|one]]'[[s/_s|s]] [[l/_life|life]].**
+- **In Taoism, The Way, [[s/_specifically|specifically]] the transcendental [[b/_basis|basis]] of [[n/_nature|nature]] and, and/or the [[i/_ideal|ideal]] way to [[l/_live|live]] [[o/_one|one]]'[[s/_s|s]] [[l/_life|life]].**
 ---
 #noun
 - **The [[a/_act|act]] of [[m/_moving|moving]] or [[r/_revolving|revolving]] [[a/_around|around]], or as in a [[c/_circle|circle]] or [[o/_orbit|orbit]]; a [[r/_revolution|revolution]]**
@@ -10,7 +10,7 @@
 - **The [[s/_space|space]] [[e/_enclosed|enclosed]] within a [[c/_circle|circle]], or within [[l/_limits|limits]].**
 - **[[e/_enclosed|Enclosed]] [[p/_path|path]] of an [[e/_electric|electric]] [[c/_current|current]], usually [[d/_designed|designed]] for a [[c/_certain|certain]] [[f/_function|function]].**
 - **A [[r/_regular|regular]] or [[a/_appointed|appointed]] trip from [[p/_place|place]] to [[p/_place|place]] as [[p/_part|part]] of [[o/_one|one]]'[[s/_s|s]] [[j/_job|job]]**
-- **The [[j/_jurisdiction|jurisdiction]] of [[c/_certain|certain]] [[j/_judges|judges]] within a state or [[c/_country|country]], whether [[i/_itinerant|itinerant]] or not.**
+- **The [[j/_jurisdiction|jurisdiction]] of [[c/_certain|certain]] [[j/_judges|judges]] within a [[s/_state|state]] or [[c/_country|country]], whether [[i/_itinerant|itinerant]] or not.**
 - **Various [[a/_administrative|administrative]] [[d/_divisions|divisions]] of [[i/_imperial|imperial]] and [[e/_early|early]] [[r/_republican|Republican]] [[c/_china|China]], [[i/_including|including]]:**
 - **[[m/_methodism|Methodism]]: The [[b/_basic|basic]] [[g/_grouping|grouping]] of [[l/_local|local]] [[m/_methodist|Methodist]] [[c/_churches|churches]].**
 - **By [[a/_analogy|analogy]] to the [[p/_proceeding|proceeding]] three, a [[s/_set|set]] of theaters [[a/_among|among]] which the [[s/_same|same]] [[a/_acts|acts]] [[c/_circulate|circulate]]; [[e/_especially|especially]] [[c/_common|common]] in the [[h/_heyday|heyday]] of vaudeville.**

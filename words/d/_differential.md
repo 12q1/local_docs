@@ -11,7 +11,7 @@
 - **Of, or [[r/_relating|relating]] to a [[d/_difference|difference]]**
 	- _Example: differential characteristics_
 - **[[d/_dependent|Dependent]] on, or [[m/_making|making]] a [[d/_difference|difference]]; [[d/_distinctive|distinctive]]**
-- **[[h/_having|Having]] [[d/_differences|differences]] in speed or [[d/_direction|direction]] of [[m/_motion|motion]]**
+- **[[h/_having|Having]] [[d/_differences|differences]] in [[s/_speed|speed]] or [[d/_direction|direction]] of [[m/_motion|motion]]**
 - **Of, or [[r/_relating|relating]] to [[d/_differentiation|differentiation]], or the [[d/_differential|differential]] [[c/_calculus|calculus]]**
 ---
 ---

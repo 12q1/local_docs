@@ -9,7 +9,7 @@
 - **To [[d/_divide|divide]] or [[d/_distribute|distribute]] [[a/_according|according]] to the [[g/_gavel|gavel]] [[s/_system|system]].**
 ---
 #noun
-- **A wooden [[m/_mallet|mallet]], used by a [[c/_courtroom|courtroom]] [[j/_judge|judge]], or by a [[c/_committee|committee]] [[c/_chairman|chairman]], struck [[a/_against|against]] a [[s/_sounding|sounding]] [[b/_block|block]] to [[q/_quieten|quieten]] those [[p/_present|present]], or by an [[a/_auctioneer|auctioneer]] to [[a/_accept|accept]] the [[h/_highest|highest]] [[b/_bid|bid]] at [[a/_auction|auction]].**
+- **A wooden [[m/_mallet|mallet]], used by a [[c/_courtroom|courtroom]] [[j/_judge|judge]], or by a [[c/_committee|committee]] [[c/_chairman|chairman]], [[s/_struck|struck]] [[a/_against|against]] a [[s/_sounding|sounding]] [[b/_block|block]] to [[q/_quieten|quieten]] those [[p/_present|present]], or by an [[a/_auctioneer|auctioneer]] to [[a/_accept|accept]] the [[h/_highest|highest]] [[b/_bid|bid]] at [[a/_auction|auction]].**
 - **([[m/_metonymically|metonymically]]) The [[l/_legal|legal]] [[s/_system|system]] as a whole.**
 - **A [[m/_mason|mason]]'[[s/_s|s]] [[s/_setting|setting]] [[m/_maul|maul]].**
 ---

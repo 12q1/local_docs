@@ -2,7 +2,7 @@
 ---
 #noun
 - **Twice the [[n/_number|number]], [[a/_amount|amount]], [[s/_size|size]], [[e/_etc|etc]].**
-- **A [[p/_person|person]] who [[r/_resembles|resembles]] and stands in for [[a/_another|another]] [[p/_person|person]], [[o/_often|often]] for [[s/_safety|safety]] [[p/_purposes|purposes]]**
+- **A [[p/_person|person]] who [[r/_resembles|resembles]] and [[s/_stands|stands]] in for [[a/_another|another]] [[p/_person|person]], [[o/_often|often]] for [[s/_safety|safety]] [[p/_purposes|purposes]]**
 	- _Example: Saddam Hussein was rumored to have many doubles._
 - **A [[d/_drink|drink]] with two [[p/_portions|portions]] of [[a/_alcohol|alcohol]].**
 	- _Example: On second thought, make that a double._
@@ -13,7 +13,7 @@
 - **A two-[[b/_base|base]] [[h/_hit|hit]].**
 	- _Example: The catcher hit a double to lead off the ninth._
 - **A [[c/_call|call]] that [[i/_increases|increases]] [[c/_certain|certain]] [[s/_scoring|scoring]] [[p/_points|points]] [[i/_if|if]] the [[l/_last|last]] [[p/_preceding|preceding]] [[b/_bid|bid]] [[b/_becomes|becomes]] the [[c/_contract|contract]].**
-- **A strike in which the [[o/_object|object]] [[b/_ball|ball]] is struck [[s/_so|so]] as to [[m/_make|make]] it [[r/_rebound|rebound]] [[a/_against|against]] the [[c/_cushion|cushion]] to an [[o/_opposite|opposite]] [[p/_pocket|pocket]].**
+- **A [[s/_strike|strike]] in which the [[o/_object|object]] [[b/_ball|ball]] is [[s/_struck|struck]] [[s/_so|so]] as to [[m/_make|make]] it [[r/_rebound|rebound]] [[a/_against|against]] the [[c/_cushion|cushion]] to an [[o/_opposite|opposite]] [[p/_pocket|pocket]].**
 - **A [[b/_bet|bet]] on two [[h/_horses|horses]] in [[d/_different|different]] [[r/_races|races]] in which [[a/_any|any]] winnings from the [[f/_first|first]] [[r/_race|race]] are [[p/_placed|placed]] on the [[h/_horse|horse]] in the [[l/_later|later]] [[r/_race|race]].**
 - **The [[n/_narrow|narrow]] [[o/_outermost|outermost]] [[r/_ring|ring]] on a [[d/_dartboard|dartboard]].**
 - **A [[h/_hit|hit]] on this [[r/_ring|ring]].**
@@ -52,11 +52,11 @@
 - **To [[d/_double|double]] [[d/_down|down]].**
 - **To [[c/_cause|cause]] (a [[b/_ball|ball]]) to [[r/_rebound|rebound]] from a [[c/_cushion|cushion]] [[b/_before|before]] [[e/_entering|entering]] the [[p/_pocket|pocket]].**
 - **([[f/_followed|followed]] by for) To [[a/_act|act]] as substitute.**
-- **To [[g/_go|go]] or [[m/_march|march]] at twice the [[n/_normal|normal]] speed.**
-- **To [[m/_multiply|multiply]] the strength or [[e/_effect|effect]] of by two.**
+- **To [[g/_go|go]] or [[m/_march|march]] at twice the [[n/_normal|normal]] [[s/_speed|speed]].**
+- **To [[m/_multiply|multiply]] the [[s/_strength|strength]] or [[e/_effect|effect]] of by two.**
 	- _Example: Sorry, this store does not double coupons._
 - **To unite, as [[r/_ranks|ranks]] or [[f/_files|files]], [[s/_so|so]] as to [[f/_form|form]] [[o/_one|one]] from [[e/_each|each]] two.**
-- **(of a station) To transmit [[s/_simultaneously|simultaneously]] on the [[s/_same|same]] [[c/_channel|channel]] as [[a/_another|another]] station, [[e/_either|either]] unintentionally or [[d/_deliberately|deliberately]], [[c/_causing|causing]] [[i/_interference|interference]].**
+- **(of a [[s/_station|station]]) To transmit [[s/_simultaneously|simultaneously]] on the [[s/_same|same]] [[c/_channel|channel]] as [[a/_another|another]] [[s/_station|station]], [[e/_either|either]] unintentionally or [[d/_deliberately|deliberately]], [[c/_causing|causing]] [[i/_interference|interference]].**
 	- _Example: Could you please repeat your last transmission? Another station was doubling with you._
 ---
 ### Synonyms
@@ -64,7 +64,7 @@
 ### Antonyms
 - [[h/_halve|halve]]
 #noun
-- **The [[d/_double|double]] time, a [[m/_marching|marching]] [[c/_cadence|cadence]] ([[p/_pace|pace]]) [[a/_approaching|approaching]] [[r/_running|running]] speed.**
+- **The [[d/_double|double]] time, a [[m/_marching|marching]] [[c/_cadence|cadence]] ([[p/_pace|pace]]) [[a/_approaching|approaching]] [[r/_running|running]] [[s/_speed|speed]].**
 ---
 ### Synonyms
 - [[d/_double|double]]

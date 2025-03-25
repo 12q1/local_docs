@@ -8,9 +8,9 @@
 ### Synonyms
 - [[g/_grope|grope]], [[d/_dawdle|dawdle]], [[d/_dilly-dally|dilly-dally]]
 #noun
-- **[[s/_several|Several]] wraps of [[r/_rope|rope]] [[a/_around|around]] the [[s/_saddle|saddle]] [[h/_horn|horn]], used to stop [[a/_animals|animals]] in [[r/_roping|roping]].**
+- **[[s/_several|Several]] wraps of [[r/_rope|rope]] [[a/_around|around]] the [[s/_saddle|saddle]] [[h/_horn|horn]], used to [[s/_stop|stop]] [[a/_animals|animals]] in [[r/_roping|roping]].**
 ---
 #verb
-- **To wind the [[l/_lasso|lasso]] [[r/_rope|rope]] ([[i/_ie|ie]] throw-[[r/_rope|rope]]) [[a/_around|around]] the [[s/_saddle|saddle]] [[h/_horn|horn]] (the [[s/_saddle|saddle]] [[h/_horn|horn]] is [[a/_attached|attached]] to the [[p/_pommel|pommel]] of a western style [[s/_saddle|saddle]]) [[a/_after|after]] the [[r/_roping|roping]] of an [[a/_animal|animal]]**
+- **To wind the [[l/_lasso|lasso]] [[r/_rope|rope]] ([[i/_ie|ie]] throw-[[r/_rope|rope]]) [[a/_around|around]] the [[s/_saddle|saddle]] [[h/_horn|horn]] (the [[s/_saddle|saddle]] [[h/_horn|horn]] is [[a/_attached|attached]] to the [[p/_pommel|pommel]] of a western [[s/_style|style]] [[s/_saddle|saddle]]) [[a/_after|after]] the [[r/_roping|roping]] of an [[a/_animal|animal]]**
 ---
 ---

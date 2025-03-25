@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[r/_represent|represent]] ([[s/_something|something]]) by a [[c/_concrete|concrete]] [[i/_instance|instance]].**
-- **To [[c/_create|create]] an [[o/_object|object]] (an [[i/_instance|instance]]) of a specific [[c/_class|class]].**
+- **To [[c/_create|create]] an [[o/_object|object]] (an [[i/_instance|instance]]) of a [[s/_specific|specific]] [[c/_class|class]].**
 ---
 ### Synonyms
 - [[e/_exemplify|exemplify]]

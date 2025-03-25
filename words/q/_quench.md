@@ -1,7 +1,7 @@
 # Quench
 ---
 #noun
-- **The [[a/_abnormal|abnormal]] termination of [[o/_operation|operation]] of a superconducting [[m/_magnet|magnet]], [[o/_occurring|occurring]] when [[p/_part|part]] of the superconducting [[c/_coil|coil]] [[e/_enters|enters]] the [[n/_normal|normal]] ([[r/_resistive|resistive]]) state.**
+- **The [[a/_abnormal|abnormal]] termination of [[o/_operation|operation]] of a superconducting [[m/_magnet|magnet]], [[o/_occurring|occurring]] when [[p/_part|part]] of the superconducting [[c/_coil|coil]] [[e/_enters|enters]] the [[n/_normal|normal]] ([[r/_resistive|resistive]]) [[s/_state|state]].**
 - **A [[r/_rapid|rapid]] [[c/_change|change]] of the [[p/_parameters|parameters]] of a [[p/_physical|physical]] [[s/_system|system]].**
 ---
 #verb

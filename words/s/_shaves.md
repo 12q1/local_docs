@@ -17,8 +17,8 @@
 	- _Example: I instructed the barber to give me a shave._
 - **A thin [[s/_slice|slice]]; a [[s/_shaving|shaving]].**
 - **An [[e/_exorbitant|exorbitant]] [[d/_discount|discount]] on a [[n/_note|note]].**
-- **A [[p/_premium|premium]] [[p/_paid|paid]] for an [[e/_extension|extension]] of the time of [[d/_delivery|delivery]] or [[p/_payment|payment]], or for the [[r/_right|right]] to vary a stock [[c/_contract|contract]] in [[a/_any|any]] [[p/_particular|particular]].**
-- **A [[h/_hand|hand]] tool [[c/_consisting|consisting]] of a [[s/_sharp|sharp]] [[b/_blade|blade]] with a [[h/_handle|handle]] at [[e/_each|each]] [[e/_end|end]]; a spokeshave.**
+- **A [[p/_premium|premium]] [[p/_paid|paid]] for an [[e/_extension|extension]] of the time of [[d/_delivery|delivery]] or [[p/_payment|payment]], or for the [[r/_right|right]] to vary a [[s/_stock|stock]] [[c/_contract|contract]] in [[a/_any|any]] [[p/_particular|particular]].**
+- **A [[h/_hand|hand]] tool [[c/_consisting|consisting]] of a [[s/_sharp|sharp]] [[b/_blade|blade]] with a [[h/_handle|handle]] at [[e/_each|each]] [[e/_end|end]]; a [[s/_spokeshave|spokeshave]].**
 - **A [[n/_narrow|narrow]] [[m/_miss|miss]] or [[e/_escape|escape]]; a [[c/_close|close]] [[s/_shave|shave]].**
 ---
 ---

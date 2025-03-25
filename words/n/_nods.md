@@ -8,7 +8,7 @@
 - **To [[s/_signify|signify]] by a [[n/_nod|nod]].**
 	- _Example: They nodded their assent._
 - **To [[m/_make|make]] a [[m/_mistake|mistake]] by [[b/_being|being]] temporarily [[i/_inattentive|inattentive]] or tired**
-- **To [[h/_head|head]]; to strike the [[b/_ball|ball]] with [[o/_one|one]]'[[s/_s|s]] [[h/_head|head]].**
+- **To [[h/_head|head]]; to [[s/_strike|strike]] the [[b/_ball|ball]] with [[o/_one|one]]'[[s/_s|s]] [[h/_head|head]].**
 	- _Example: Jones nods the ball back to his goalkeeper._
 - **To [[a/_allude|allude]] to [[s/_something|something]].**
 - **To [[f/_fall|fall]] [[a/_asleep|asleep]] while under the [[i/_influence|influence]] of [[o/_opiates|opiates]].**

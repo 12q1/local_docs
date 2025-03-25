@@ -11,6 +11,6 @@
 ---
 #noun
 - **The [[a/_act|act]] or [[p/_process|process]] by which [[o/_one|one]] thing is [[e/_embedded|embedded]] in [[a/_another|another]].**
-- **A [[m/_map|map]] which [[m/_maps|maps]] a subspace ([[s/_smaller|smaller]] structure) to the whole [[s/_space|space]] ([[l/_larger|larger]] structure).**
+- **A [[m/_map|map]] which [[m/_maps|maps]] a subspace ([[s/_smaller|smaller]] [[s/_structure|structure]]) to the whole [[s/_space|space]] ([[l/_larger|larger]] [[s/_structure|structure]]).**
 ---
 ---

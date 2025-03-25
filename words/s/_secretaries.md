@@ -7,7 +7,7 @@
 - **A [[m/_managerial|managerial]] or [[l/_leading|leading]] [[p/_position|position]] in [[c/_certain|certain]] [[n/_non|non]]-[[p/_profit|profit]] [[o/_organizations|organizations]], such as [[p/_political|political]] [[p/_parties|parties]], trade unions, [[i/_international|international]] [[o/_organizations|organizations]].**
 	- _Example: Ban Ki-Moon was a secretary general of the United Nations._
 - **A type of [[d/_desk|desk]], [[s/_secretary|secretary]] [[d/_desk|desk]]; a [[s/_secretaire|secretaire]].**
-- **A [[s/_secretary|secretary]] [[b/_bird|bird]], a [[b/_bird|bird]] of the species [[s/_sagittarius|Sagittarius]] [[s/_serpentarius|serpentarius]].**
+- **A [[s/_secretary|secretary]] [[b/_bird|bird]], a [[b/_bird|bird]] of the [[s/_species|species]] [[s/_sagittarius|Sagittarius]] [[s/_serpentarius|serpentarius]].**
 ---
 #verb
 - **To [[s/_serve|serve]] as a [[s/_secretary|secretary]] of.**

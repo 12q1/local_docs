@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[h/_hump|hump]]; a [[p/_protuberance|protuberance]].**
-- **A stooped or [[c/_curled|curled]] [[p/_posture|posture]]; a [[s/_slouch|slouch]].**
+- **A [[s/_stooped|stooped]] or [[c/_curled|curled]] [[p/_posture|posture]]; a [[s/_slouch|slouch]].**
 	- _Example: The old man walked with a hunch._
 - **A theory, [[i/_idea|idea]], or [[g/_guess|guess]]; an [[i/_intuitive|intuitive]] [[i/_impression|impression]] that [[s/_something|something]] will [[h/_happen|happen]].**
 	- _Example: I have a hunch they'll find a way to solve the problem._

@@ -20,6 +20,6 @@
 - **The [[b/_bank|bank]] of a [[r/_river|river]] [[e/_etc|etc]].**
 ---
 #adjective
-- **[[s/_sloping|Sloping]] steeply**
+- **[[s/_sloping|Sloping]] [[s/_steeply|steeply]]**
 ---
 ---

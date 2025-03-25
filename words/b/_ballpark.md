@@ -1,7 +1,7 @@
 # Ballpark
 ---
 #noun
-- **A [[f/_field|field]], stadium or [[p/_park|park]] where [[b/_ball|ball]], [[e/_especially|especially]] [[b/_baseball|baseball]], is [[p/_played|played]].**
+- **A [[f/_field|field]], [[s/_stadium|stadium]] or [[p/_park|park]] where [[b/_ball|ball]], [[e/_especially|especially]] [[b/_baseball|baseball]], is [[p/_played|played]].**
 - **The [[g/_general|general]] vicinity; [[s/_somewhere|somewhere]] [[c/_close|close]]; a [[b/_broad|broad]] [[a/_approximation|approximation]].**
 	- _Example: Let’s get in the ballpark, then worry about the fine details._
 ---

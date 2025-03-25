@@ -11,7 +11,7 @@
 - **[[e/_encompassing|Encompassing]] on [[a/_all|all]] [[s/_sides|sides]]; surrounding; [[e/_encircling|encircling]]; [[e/_enveloping|enveloping]].**
 	- _Example: A cup of tea eventually cools to the ambient temperature._
 - **[[e/_evoking|Evoking]] or [[c/_creating|creating]] an [[a/_atmosphere|atmosphere]]: [[a/_atmospheric|atmospheric]].**
-- **[[r/_relating|Relating]] to, or suitable for, storage at [[r/_room|room]] temperature.**
+- **[[r/_relating|Relating]] to, or suitable for, [[s/_storage|storage]] at [[r/_room|room]] temperature.**
 	- _Example: ambient food_
 - **[[c/_containing|Containing]] [[o/_objects|objects]] or [[d/_describing|describing]] a [[s/_setting|setting]] that [[o/_one|one]] is [[i/_interested|interested]] in.**
 ---

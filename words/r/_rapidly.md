@@ -1,7 +1,7 @@
 # Rapidly
 ---
 #adverb
-- **With speed; in a [[r/_rapid|rapid]] [[m/_manner|manner]].**
+- **With [[s/_speed|speed]]; in a [[r/_rapid|rapid]] [[m/_manner|manner]].**
 	- _Example: She packed her case rapidly and hurried out._
 ---
 ### Synonyms

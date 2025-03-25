@@ -6,7 +6,7 @@
 ### Synonyms
 - [[a/_allotriophagy|allotriophagy]], [[c/_chthonophagia|chthonophagia]], [[c/_cittosis|cittosis]], [[g/_geophagy|geophagy]]
 #noun
-- **A [[s/_size|size]] of type [[b/_between|between]] [[s/_small|small]] [[p/_pica|pica]] and [[e/_english|English]], standardized as 12-[[p/_point|point]].**
+- **A [[s/_size|size]] of type [[b/_between|between]] [[s/_small|small]] [[p/_pica|pica]] and [[e/_english|English]], [[s/_standardized|standardized]] as 12-[[p/_point|point]].**
 - **(usually with [[q/_qualifier|qualifier]]) A [[f/_font|font]] of this [[s/_size|size]].**
 - **A unit of [[l/_length|length]] [[e/_equivalent|equivalent]] to 12 [[p/_points|points]], [[o/_officially|officially]] 35/83 [[c/_cm|cm]] (0.166 in) [[a/_after|after]] 1886 but [[n/_now|now]] 1/6 in.**
 - **A [[p/_pie|pie]] or [[d/_directory|directory]]: the [[b/_book|book]] [[d/_directing|directing]] [[r/_roman|Roman]] [[c/_catholic|Catholic]] [[o/_observance|observance]] of [[s/_saints|saints]]' [[d/_days|days]] and [[o/_other|other]] [[f/_feasts|feasts]] under various [[c/_calendars|calendars]].**

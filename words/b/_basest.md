@@ -4,7 +4,7 @@
 - **[[l/_low|Low]] in [[h/_height|height]]; [[s/_short|short]].**
 - **[[l/_low|Low]] in [[p/_place|place]] or [[p/_position|position]].**
 - **Of [[l/_low|low]] value or [[d/_degree|degree]].**
-- **Of [[l/_low|low]] [[s/_social|social]] standing or [[r/_rank|rank]]; vulgar, [[c/_common|common]].**
+- **Of [[l/_low|low]] [[s/_social|social]] [[s/_standing|standing]] or [[r/_rank|rank]]; vulgar, [[c/_common|common]].**
 - **[[m/_morally|Morally]] [[r/_reprehensible|reprehensible]], [[i/_immoral|immoral]]; [[c/_cowardly|cowardly]].**
 - **[[i/_inferior|Inferior]]; unworthy, of [[p/_poor|poor]] [[q/_quality|quality]].**
 - **[[d/_designating|Designating]] those [[m/_metals|metals]] which are not [[c/_classed|classed]] as [[p/_precious|precious]] or [[n/_noble|noble]].**

@@ -3,9 +3,9 @@
 #noun
 - **[[r/_recognition|Recognition]] of [[i/_importance|importance]] or value; [[r/_respect|respect]]; veneration (of [[s/_someone|someone]], usually for [[b/_being|being]] [[m/_morally|morally]] upright or successful)**
 	- _Example: The crowds gave the returning general much honor and praise._
-- **The state of [[b/_being|being]] [[m/_morally|morally]] upright, [[h/_honest|honest]], [[n/_noble|noble]], virtuous, and [[m/_magnanimous|magnanimous]]; [[e/_excellence|excellence]] of [[c/_character|character]]; the [[p/_perception|perception]] of such a state; [[f/_favourable|favourable]] [[r/_reputation|reputation]]; [[d/_dignity|dignity]]**
+- **The [[s/_state|state]] of [[b/_being|being]] [[m/_morally|morally]] upright, [[h/_honest|honest]], [[n/_noble|noble]], virtuous, and [[m/_magnanimous|magnanimous]]; [[e/_excellence|excellence]] of [[c/_character|character]]; the [[p/_perception|perception]] of such a [[s/_state|state]]; [[f/_favourable|favourable]] [[r/_reputation|reputation]]; [[d/_dignity|dignity]]**
 	- _Example: He was a most perfect knight, for he had great honor and chivalry._
-- **A token of [[p/_praise|praise]] or [[r/_respect|respect]]; [[s/_something|something]] that [[r/_represents|represents]] [[p/_praiseworthiness|praiseworthiness]] or [[r/_respect|respect]], such as a [[p/_prize|prize]] or [[a/_award|award]] [[g/_given|given]] by the state to a [[c/_citizen|citizen]]**
+- **A token of [[p/_praise|praise]] or [[r/_respect|respect]]; [[s/_something|something]] that [[r/_represents|represents]] [[p/_praiseworthiness|praiseworthiness]] or [[r/_respect|respect]], such as a [[p/_prize|prize]] or [[a/_award|award]] [[g/_given|given]] by the [[s/_state|state]] to a [[c/_citizen|citizen]]**
 	- _Example: Audie Murphy received many honors, such as the Distinguished Service Cross._
 - **A [[p/_privilege|privilege]]**
 	- _Example: I had the honour of dining with the ambassador._
@@ -24,7 +24,7 @@
 ### Antonyms
 - [[d/_dishonor|dishonor]]
 #verb
-- **To think of [[h/_highly|highly]], to [[r/_respect|respect]] [[h/_highly|highly]]; to [[s/_show|show]] [[r/_respect|respect]] for; to [[r/_recognise|recognise]] the [[i/_importance|importance]] or spiritual value of**
+- **To think of [[h/_highly|highly]], to [[r/_respect|respect]] [[h/_highly|highly]]; to [[s/_show|show]] [[r/_respect|respect]] for; to [[r/_recognise|recognise]] the [[i/_importance|importance]] or [[s/_spiritual|spiritual]] value of**
 	- _Example: The freedom fighters will be forever remembered and honored by the people._
 - **To [[c/_conform|conform]] to, [[a/_abide|abide]] by, [[a/_act|act]] in [[a/_accordance|accordance]] with (an [[a/_agreement|agreement]], treaty, [[p/_promise|promise]], [[r/_request|request]], or the [[l/_like|like]])**
 	- _Example: I trusted you, but you have not honored your promise._

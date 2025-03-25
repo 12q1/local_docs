@@ -9,6 +9,6 @@
 - **[[h/_heathen|Heathen]], [[p/_pagan|pagan]].**
 - **[[r/_relating|Relating]] to a [[c/_clan|clan]], tribe, or [[n/_nation|nation]]; [[c/_clannish|clannish]], tribal, [[n/_national|national]].**
 - **Of or [[p/_pertaining|pertaining]] to a [[g/_gens|gens]] or [[s/_several|several]] [[g/_gentes|gentes]].**
-- **([[g/_grammar|grammar]]) Of a [[p/_part|part]] of speech such as an [[a/_adjective|adjective]], [[n/_noun|noun]] or verb: [[r/_relating|relating]] to a [[p/_particular|particular]] [[c/_city|city]], [[n/_nation|nation]] or [[c/_country|country]].**
+- **([[g/_grammar|grammar]]) Of a [[p/_part|part]] of [[s/_speech|speech]] such as an [[a/_adjective|adjective]], [[n/_noun|noun]] or verb: [[r/_relating|relating]] to a [[p/_particular|particular]] [[c/_city|city]], [[n/_nation|nation]] or [[c/_country|country]].**
 ---
 ---

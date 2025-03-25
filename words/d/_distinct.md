@@ -8,7 +8,7 @@
 - **[[n/_noticeably|Noticeably]] [[d/_different|different]] from [[o/_others|others]]; [[d/_distinctive|distinctive]].**
 	- _Example: Olga's voice is quite distinct because of her accent._
 - **[[s/_separate|Separate]] in [[p/_place|place]]; not [[c/_conjunct|conjunct]] or united; with from.**
-- **[[d/_distinguished|Distinguished]]; [[h/_having|having]] the [[d/_difference|difference]] [[m/_marked|marked]]; [[s/_separated|separated]] by a visible [[s/_sign|sign]]; [[m/_marked|marked]] [[o/_out|out]]; specified.**
+- **[[d/_distinguished|Distinguished]]; [[h/_having|having]] the [[d/_difference|difference]] [[m/_marked|marked]]; [[s/_separated|separated]] by a visible [[s/_sign|sign]]; [[m/_marked|marked]] [[o/_out|out]]; [[s/_specified|specified]].**
 - **[[m/_marked|Marked]]; variegated.**
 ---
 ### Synonyms

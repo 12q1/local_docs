@@ -6,6 +6,6 @@
 - **An [[o/_ornament|ornament]], a [[k/_knick|knick]]-[[k/_knack|knack]].**
 ---
 #noun
-- **The [[l/_letter|letter]] —, which stands for the [[s/_sound|sound]] /ɡ/, in [[p/_pitman|Pitman]] [[s/_shorthand|shorthand]].**
+- **The [[l/_letter|letter]] —, which [[s/_stands|stands]] for the [[s/_sound|sound]] /ɡ/, in [[p/_pitman|Pitman]] [[s/_shorthand|shorthand]].**
 ---
 ---

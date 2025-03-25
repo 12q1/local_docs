@@ -9,8 +9,8 @@
 - **To [[p/_pitch|pitch]] or [[r/_roll|roll]] [[h/_heavily|heavily]], as a [[s/_ship|ship]] in a turbulent [[s/_sea|sea]].**
 ---
 #adjective
-- **[[e/_expressive|Expressive]] of strenuous [[e/_effort|effort]].**
+- **[[e/_expressive|Expressive]] of [[s/_strenuous|strenuous]] [[e/_effort|effort]].**
 	- _Example: At the end of the marathon, her laboured breathing told us she was exhausted._
-- **Of writing or speech or [[s/_similar|similar]], stilted or not [[n/_natural|natural]] [[d/_due|due]] to too [[m/_much|much]] [[e/_effort|effort]] [[b/_being|being]] used in the [[p/_production|production]].**
+- **Of writing or [[s/_speech|speech]] or [[s/_similar|similar]], [[s/_stilted|stilted]] or not [[n/_natural|natural]] [[d/_due|due]] to too [[m/_much|much]] [[e/_effort|effort]] [[b/_being|being]] used in the [[p/_production|production]].**
 ---
 ---

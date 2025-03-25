@@ -8,15 +8,15 @@
 	- _Example: The boy played with a model of a World War II fighter plane._
 - **A [[s/_simplified|simplified]] [[r/_representation|representation]] used to [[e/_explain|explain]] the workings of a [[r/_real|real]] world [[s/_system|system]] or [[e/_event|event]].**
 	- _Example: The computer weather model did not correctly predict the path of the hurricane._
-- **A style, type, or [[d/_design|design]].**
+- **A [[s/_style|style]], type, or [[d/_design|design]].**
 	- _Example: He decided to buy the turbo engine model of the sports car._
-- **The structural [[d/_design|design]] of a [[c/_complex|complex]] [[s/_system|system]].**
+- **The [[s/_structural|structural]] [[d/_design|design]] of a [[c/_complex|complex]] [[s/_system|system]].**
 	- _Example: The team developed a sound business model._
 - **A successful [[e/_example|example]] to be [[c/_copied|copied]], with or without [[m/_modifications|modifications]].**
 	- _Example: British parliamentary democracy was seen as a model for other countries to follow._
 - **An [[i/_interpretation|interpretation]] [[f/_function|function]] which [[a/_assigns|assigns]] a truth value to [[e/_each|each]] [[a/_atomic|atomic]] [[p/_proposition|proposition]].**
 - **An [[i/_interpretation|interpretation]] which [[m/_makes|makes]] a [[s/_set|set]] of [[s/_sentences|sentences]] true, in which [[c/_case|case]] that [[i/_interpretation|interpretation]] is [[c/_called|called]] a [[m/_model|model]] of that [[s/_set|set]].**
-- **An [[a/_animal|animal]] that is used to study a [[h/_human|human]] [[d/_disease|disease]] or [[p/_pathology|pathology]].**
+- **An [[a/_animal|animal]] that is used to [[s/_study|study]] a [[h/_human|human]] [[d/_disease|disease]] or [[p/_pathology|pathology]].**
 - **[[a/_any|Any]] [[c/_copy|copy]], or [[r/_resemblance|resemblance]], [[m/_more|more]] or [[l/_less|less]] [[e/_exact|exact]].**
 - **In [[s/_software|software]] [[a/_applications|applications]] using the [[m/_model|model]]-view-[[c/_controller|controller]] [[d/_design|design]] [[p/_pattern|pattern]], the [[p/_part|part]] or [[p/_parts|parts]] of the [[a/_application|application]] that [[m/_manage|manage]] the [[d/_data|data]].**
 ---

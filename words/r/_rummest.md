@@ -3,7 +3,7 @@
 #adjective
 - **[[f/_fine|Fine]], [[e/_excellent|excellent]], valuable.**
 	- _Example: having a rum time_
-- **Strange, [[p/_peculiar|peculiar]].**
+- **[[s/_strange|Strange]], [[p/_peculiar|peculiar]].**
 	- _Example: a rum idea; a rum fellow_
 ---
 ### Synonyms

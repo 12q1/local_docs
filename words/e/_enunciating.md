@@ -1,7 +1,7 @@
 # Enunciating
 ---
 #verb
-- **To [[m/_make|make]] a [[d/_definite|definite]] or [[s/_systematic|systematic]] statement of.**
+- **To [[m/_make|make]] a [[d/_definite|definite]] or [[s/_systematic|systematic]] [[s/_statement|statement]] of.**
 - **To [[a/_announce|announce]], [[p/_proclaim|proclaim]].**
 - **To [[a/_articulate|articulate]], [[p/_pronounce|pronounce]].**
 	- _Example: You must enunciate all the syllables._

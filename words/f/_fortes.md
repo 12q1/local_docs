@@ -1,9 +1,9 @@
 # Fortes
 ---
 #noun
-- **A strength or talent.**
+- **A [[s/_strength|strength]] or talent.**
 	- _Example: He writes respectably, but poetry is not his forte._
-- **The strong [[p/_part|part]] of a sword [[b/_blade|blade]], [[c/_close|close]] to the [[h/_hilt|hilt]].**
+- **The [[s/_strong|strong]] [[p/_part|part]] of a sword [[b/_blade|blade]], [[c/_close|close]] to the [[h/_hilt|hilt]].**
 ---
 #noun
 - **A [[p/_passage|passage]] in [[m/_music|music]] to be [[p/_played|played]] [[l/_loudly|loudly]]; a [[l/_loud|loud]] [[s/_section|section]] of [[m/_music|music]].**

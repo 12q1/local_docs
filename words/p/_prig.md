@@ -9,7 +9,7 @@
 ### Synonyms
 - [[g/_goody-goody|goody-goody]], [[p/_prude|prude]], [[p/_puritan|puritan]]
 #verb
-- **To [[f/_filch|filch]] or steal.**
+- **To [[f/_filch|filch]] or [[s/_steal|steal]].**
 	- _Example: to prig a handkerchief_
 - **To [[r/_ride|ride]]**
 - **To [[c/_copulate|copulate]]**

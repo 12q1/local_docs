@@ -7,7 +7,7 @@
 #verb
 - **To [[s/_slight|slight]]; to [[d/_do|do]] [[c/_carelessly|carelessly]]; to [[s/_scamp|scamp]].**
 - **To [[m/_make|make]] [[i/_insufficient|insufficient]] [[a/_allowance|allowance]] for; to [[s/_scant|scant]]; to [[s/_scrimp|scrimp]].**
-- **To [[s/_save|save]]; to be [[p/_parsimonious|parsimonious]] or stingy.**
+- **To [[s/_save|save]]; to be [[p/_parsimonious|parsimonious]] or [[s/_stingy|stingy]].**
 ---
 #adjective
 - **[[s/_scanty|Scanty]]; [[m/_meagre|meagre]]; [[d/_done|done]] [[i/_inefficiently|inefficiently]].**

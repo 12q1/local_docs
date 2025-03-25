@@ -1,7 +1,7 @@
 # Corked
 ---
 #verb
-- **To [[s/_seal|seal]] or stop up, [[e/_especially|especially]] with a [[c/_cork|cork]] stopper.**
+- **To [[s/_seal|seal]] or [[s/_stop|stop]] up, [[e/_especially|especially]] with a [[c/_cork|cork]] [[s/_stopper|stopper]].**
 - **To [[b/_blacken|blacken]] (as) with a [[b/_burnt|burnt]] [[c/_cork|cork]]**
 - **To [[l/_leave|leave]] the [[c/_cork|cork]] in a [[b/_bottle|bottle]] [[a/_after|after]] [[a/_attempting|attempting]] to uncork it.**
 - **To [[f/_fill|fill]] with [[c/_cork|cork]], as the [[c/_center|center]] of a [[b/_baseball|baseball]] [[b/_bat|bat]].**

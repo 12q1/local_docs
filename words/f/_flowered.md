@@ -4,7 +4,7 @@
 - **To [[p/_put|put]] [[f/_forth|forth]] [[b/_blooms|blooms]].**
 	- _Example: This plant flowers in June._
 - **To [[d/_decorate|decorate]] with [[p/_pictures|pictures]] of [[f/_flowers|flowers]].**
-- **To [[r/_reach|reach]] a state of [[f/_full|full]] [[d/_development|development]] or [[a/_achievement|achievement]].**
+- **To [[r/_reach|reach]] a [[s/_state|state]] of [[f/_full|full]] [[d/_development|development]] or [[a/_achievement|achievement]].**
 - **To [[f/_froth|froth]]; to [[f/_ferment|ferment]] [[g/_gently|gently]], as [[n/_new|new]] [[b/_beer|beer]].**
 - **To [[c/_come|come]] [[o/_off|off]] as [[f/_flowers|flowers]] by sublimation.**
 ---

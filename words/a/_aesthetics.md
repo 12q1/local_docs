@@ -1,6 +1,6 @@
 # Aesthetics
 ---
 #noun
-- **The study or [[p/_philosophy|philosophy]] of [[b/_beauty|beauty]].**
+- **The [[s/_study|study]] or [[p/_philosophy|philosophy]] of [[b/_beauty|beauty]].**
 ---
 ---

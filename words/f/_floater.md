@@ -8,7 +8,7 @@
 - **A [[p/_person|person]], such as a [[d/_delegate|delegate]] to a [[c/_convention|convention]] or a [[m/_member|member]] of a [[l/_legislature|legislature]], who [[r/_represents|represents]] an [[i/_irregular|irregular]] [[c/_constituency|constituency]], such as [[o/_one|one]] [[f/_formed|formed]] by a union of the voters of two [[c/_counties|counties]] [[n/_neither|neither]] of which [[h/_has|has]] a [[n/_number|number]] sufficient to be [[a/_allowed|allowed]] a (or an [[e/_extra|extra]]) [[r/_representative|representative]] of [[i/_its|its]] [[o/_own|own]].**
 - **[[o/_one|One]] who votes [[i/_illegally|illegally]] in various [[p/_polling|polling]] [[p/_places|places]] or [[e/_election|election]] [[d/_districts|districts]], [[e/_either|either]] under [[f/_false|false]] [[r/_registration|registration]] [[m/_made|made]] by [[h/_himself|himself]] or under the [[n/_name|name]] of [[s/_some|some]] [[p/_properly|properly]] [[r/_registered|registered]] [[p/_person|person]] who [[h/_has|has]] not [[a/_already|already]] voted.**
 - **An "[[e/_extra|extra]]" [[m/_male|male]] at a [[d/_dinner|dinner]] [[p/_party|party]], or a [[y/_young|young]] [[f/_friend|friend]] of the [[h/_hostess|hostess]], whose [[a/_assignment|assignment]] is to [[e/_entertain|entertain]] the [[f/_female|female]] [[g/_guests|guests]].**
-- **A threadlike speck in the visual [[f/_field|field]] that [[s/_seems|seems]] to [[m/_move|move]], [[p/_possibly|possibly]] [[c/_caused|caused]] by [[d/_degeneration|degeneration]] of the vitreous [[h/_humour|humour]].**
+- **A threadlike [[s/_speck|speck]] in the visual [[f/_field|field]] that [[s/_seems|seems]] to [[m/_move|move]], [[p/_possibly|possibly]] [[c/_caused|caused]] by [[d/_degeneration|degeneration]] of the vitreous [[h/_humour|humour]].**
 - **([[p/_police|police]] [[j/_jargon|jargon]]) A [[c/_corpse|corpse]] [[f/_floating|floating]] in a [[b/_body|body]] of water.**
 - **A [[p/_piece|piece]] of [[f/_faeces|faeces]] that [[f/_floats|floats]].**
 	- _Example: He left a floater in the toilet._
@@ -16,7 +16,7 @@
 - **A [[p/_policy|policy]] [[c/_covering|covering]] [[p/_property|property]] at [[m/_more|more]] than [[o/_one|one]] [[l/_location|location]] or which [[m/_may|may]] be in transit.**
 - **A [[f/_floating|floating]] [[r/_rate|rate]] [[b/_bond|bond]].**
 - **A [[m/_maneuver|maneuver]] in which a surfer transitions [[a/_above|above]] the unbroken [[f/_face|face]] of the wave [[o/_onto|onto]] the [[l/_lip|lip]], or on top of the [[b/_breaking|breaking]] [[s/_section|section]] of the wave.**
-- **A [[c/_coin|coin]] which [[d/_does|does]] not spin when thrown in the [[a/_air|air]].**
+- **A [[c/_coin|coin]] which [[d/_does|does]] not [[s/_spin|spin]] when thrown in the [[a/_air|air]].**
 - **A [[p/_pie|pie]] [[f/_floater|floater]].**
 - **A [[s/_sandal|sandal]].**
 - **A [[k/_kind|kind]] of [[r/_river|river]] [[m/_mussel|mussel]] ([[g/_genus|genus]] [[a/_anodonta|Anodonta]]).**

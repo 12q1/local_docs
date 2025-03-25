@@ -9,7 +9,7 @@
 - **To [[p/_plant|plant]] with [[f/_fungal|fungal]] [[s/_spawn|spawn]].**
 - **To [[d/_deposit|deposit]] ([[n/_numerous|numerous]]) [[e/_eggs|eggs]] in water.**
 - **To [[r/_reproduce|reproduce]], [[e/_especially|especially]] in [[l/_large|large]] [[n/_numbers|numbers]].**
-- **(of a [[c/_character|character]] or [[o/_object|object]]) (To [[c/_cause|cause]]) to [[a/_appear|appear]] spontaneously in a [[g/_game|game]] at a [[c/_certain|certain]] [[p/_point|point]] and time.**
+- **(of a [[c/_character|character]] or [[o/_object|object]]) (To [[c/_cause|cause]]) to [[a/_appear|appear]] [[s/_spontaneously|spontaneously]] in a [[g/_game|game]] at a [[c/_certain|certain]] [[p/_point|point]] and time.**
 ---
 #noun
 - **The [[p/_process|process]] by which [[s/_something|something]] [[s/_spawns|spawns]].**

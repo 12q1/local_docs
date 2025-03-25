@@ -17,7 +17,7 @@
 #noun
 - **A [[p/_pair|pair]] of [[l/_leather|leather]] or [[r/_rubber|rubber]] [[e/_eye|eye]] [[c/_cups|cups]] [[a/_attached|attached]] to a [[h/_horse|horse]] [[h/_hood|hood]] in [[o/_order|order]] to [[i/_impede|impede]] the [[r/_rear|rear]] vision of [[r/_racehorses|racehorses]] and [[h/_harness|harness]] [[h/_horses|horses]]; [[b/_blinders|blinders]] in (USA).**
 - **A [[k/_kind|kind]] of [[g/_goggles|goggles]], used to [[p/_protect|protect]] the [[e/_eyes|eyes]] from [[g/_glare|glare]], [[d/_dust|dust]], [[e/_etc|etc]].**
-- **Spectacles.**
+- **[[s/_spectacles|Spectacles]].**
 ---
 ### Synonyms
 - [[b/_blinders|blinders]], [[w/_winkers|winkers]]

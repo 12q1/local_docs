@@ -1,7 +1,7 @@
 # Guiro
 ---
 #noun
-- **A [[m/_musical|musical]] [[i/_instrument|instrument]], a [[s/_shaker|shaker]], [[m/_made|made]] of a [[h/_hollow|hollow]] [[g/_gourd|gourd]] with [[p/_parallel|parallel]] [[n/_notches|notches]] [[c/_cut|cut]] in [[o/_one|one]] [[s/_side|side]], and [[p/_played|played]] by [[r/_rubbing|rubbing]] a stick or [[s/_scraper|scraper]] ("[[p/_pua|pua]]") [[a/_along|along]] the [[n/_notches|notches]] to [[p/_produce|produce]] a [[r/_ratchet|ratchet]]-[[l/_like|like]] [[s/_sound|sound]].**
+- **A [[m/_musical|musical]] [[i/_instrument|instrument]], a [[s/_shaker|shaker]], [[m/_made|made]] of a [[h/_hollow|hollow]] [[g/_gourd|gourd]] with [[p/_parallel|parallel]] [[n/_notches|notches]] [[c/_cut|cut]] in [[o/_one|one]] [[s/_side|side]], and [[p/_played|played]] by [[r/_rubbing|rubbing]] a [[s/_stick|stick]] or [[s/_scraper|scraper]] ("[[p/_pua|pua]]") [[a/_along|along]] the [[n/_notches|notches]] to [[p/_produce|produce]] a [[r/_ratchet|ratchet]]-[[l/_like|like]] [[s/_sound|sound]].**
 - **A [[g/_genre|genre]] of traditional [[c/_cuban|Cuban]] [[m/_music|music]], used in santería [[r/_rituals|rituals]].**
 ---
 ### Synonyms

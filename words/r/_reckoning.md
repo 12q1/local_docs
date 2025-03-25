@@ -8,7 +8,7 @@
 	- _Example: I reckon he won't try that again._
 - **To [[r/_reckon|reckon]] with [[s/_something|something]] or [[s/_somebody|somebody]] or not, [[i/_i|i]].[[e/_e|e]] to [[r/_reckon|reckon]] without [[s/_something|something]] or [[s/_somebody|somebody]]: to take [[i/_into|into]] [[a/_account|account]], [[d/_deal|deal]] with, [[c/_consider|consider]] or not, [[i/_i|i]].[[e/_e|e]]. to [[m/_misjudge|misjudge]], [[i/_ignore|ignore]], not take [[i/_into|into]] [[a/_account|account]], not [[d/_deal|deal]] with, not [[c/_consider|consider]] or [[f/_fail|fail]] to [[c/_consider|consider]]; [[e/_e|e]].[[g/_g|g]]. [[r/_reckon|reckon]] without [[o/_one|one]]'[[s/_s|s]] [[h/_host|host]]**
 - **To [[m/_make|make]] an [[e/_enumeration|enumeration]] or [[c/_computation|computation]]; to [[e/_engage|engage]] in [[n/_numbering|numbering]] or [[c/_computing|computing]].**
-- **To [[c/_come|come]] to an [[a/_accounting|accounting]]; to [[d/_draw|draw]] up or [[s/_settle|settle]] [[a/_accounts|accounts]]; to [[e/_examine|examine]] and strike the [[b/_balance|balance]] of [[d/_debt|debt]] and [[c/_credit|credit]]; to [[a/_adjust|adjust]] [[r/_relations|relations]] of [[d/_desert|desert]] or [[p/_penalty|penalty]].**
+- **To [[c/_come|come]] to an [[a/_accounting|accounting]]; to [[d/_draw|draw]] up or [[s/_settle|settle]] [[a/_accounts|accounts]]; to [[e/_examine|examine]] and [[s/_strike|strike]] the [[b/_balance|balance]] of [[d/_debt|debt]] and [[c/_credit|credit]]; to [[a/_adjust|adjust]] [[r/_relations|relations]] of [[d/_desert|desert]] or [[p/_penalty|penalty]].**
 ---
 ### Synonyms
 - [[a/_account|account]], [[c/_calculate|calculate]], [[c/_compute|compute]], [[e/_enumerate|enumerate]], [[e/_esteem|esteem]], [[e/_estimate|estimate]], [[n/_number|number]], [[r/_repute|repute]], [[v/_value|value]]
@@ -20,7 +20,7 @@
 - **The [[s/_settlement|settlement]] of [[a/_accounts|accounts]], as [[b/_between|between]] [[p/_parties|parties]].**
 - **The working [[o/_out|out]] of [[c/_consequences|consequences]] or [[r/_retribution|retribution]] for [[o/_one|one]]'[[s/_s|s]] [[a/_actions|actions]].**
 - **The [[b/_bill|bill]] (UK) or [[c/_check|check]] (US), [[e/_especially|especially]] at an [[i/_inn|inn]] or tavern.**
-- **[[r/_rank|Rank]] or status.**
+- **[[r/_rank|Rank]] or [[s/_status|status]].**
 ---
 ### Synonyms
 - [[c/_calculation|calculation]], [[c/_computation|computation]]

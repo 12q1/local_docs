@@ -11,7 +11,7 @@
 - **A [[s/_sound|sound]] that [[p/_purrs|purrs]].**
 ---
 #noun
-- **A traditional [[e/_english|English]] sport in which two [[c/_combatants|combatants]] [[h/_hold|hold]] [[e/_each|each]] [[o/_other|other]] by the [[c/_collar|collar]] while trying to [[k/_kick|kick]] [[e/_each|each]] [[o/_other|other]]'[[s/_s|s]] [[s/_shin|shin]]**
+- **A traditional [[e/_english|English]] [[s/_sport|sport]] in which two [[c/_combatants|combatants]] [[h/_hold|hold]] [[e/_each|each]] [[o/_other|other]] by the [[c/_collar|collar]] while trying to [[k/_kick|kick]] [[e/_each|each]] [[o/_other|other]]'[[s/_s|s]] [[s/_shin|shin]]**
 ---
 ### Synonyms
 - [[p/_purring|purring]]

@@ -1,7 +1,7 @@
 # Piccalillis
 ---
 #noun
-- **A [[y/_yellow|yellow]] [[p/_pickle|pickle]] [[r/_relish|relish]] [[m/_made|made]] from [[c/_cauliflower|cauliflower]], vegetable [[m/_marrow|marrow]], and [[o/_other|other]] vegetables, [[p/_pickled|pickled]] with vinegar, [[s/_salt|salt]], sugar, and spiced with [[m/_mustard|mustard]], turmeric, and [[o/_other|other]] spices.**
+- **A [[y/_yellow|yellow]] [[p/_pickle|pickle]] [[r/_relish|relish]] [[m/_made|made]] from [[c/_cauliflower|cauliflower]], vegetable [[m/_marrow|marrow]], and [[o/_other|other]] vegetables, [[p/_pickled|pickled]] with vinegar, [[s/_salt|salt]], sugar, and [[s/_spiced|spiced]] with [[m/_mustard|mustard]], turmeric, and [[o/_other|other]] [[s/_spices|spices]].**
 - **A [[p/_pickle|pickle]], typically on a [[b/_base|base]] of [[c/_chopped|chopped]] [[g/_green|green]] (unripe) tomatoes, but [[s/_sometimes|sometimes]] [[f/_finely|finely]]-[[c/_chopped|chopped]] [[g/_gherkins|gherkins]], and [[p/_possibly|possibly]] [[i/_including|including]] [[o/_other|other]] vegetables.**
 ---
 ### Synonyms

@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[s/_shore|shore]] of a [[b/_body|body]] of water, [[e/_especially|especially]] when [[s/_sandy|sandy]] or [[p/_pebbly|pebbly]].**
-- **A [[h/_horizontal|horizontal]] strip of [[l/_land|land]], usually [[s/_sandy|sandy]], [[a/_adjoining|adjoining]] water.**
+- **A [[h/_horizontal|horizontal]] [[s/_strip|strip]] of [[l/_land|land]], usually [[s/_sandy|sandy]], [[a/_adjoining|adjoining]] water.**
 - **The [[l/_loose|loose]] [[p/_pebbles|pebbles]] of the [[s/_seashore|seashore]], [[e/_especially|especially]] worn by waves; [[s/_shingle|shingle]].**
 ---
 ### Synonyms

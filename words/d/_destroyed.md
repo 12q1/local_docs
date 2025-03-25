@@ -23,6 +23,6 @@
 ### Antonyms
 - [[b/_build|build]], [[c/_construct|construct]], [[c/_create|create]], [[m/_make|make]], [[r/_raise|raise]], [[r/_repair|repair]]
 #adjective
-- **([[p/_particularly|particularly]] of a [[c/_child|child]]) [[s/_soiled|soiled]], [[m/_muddied|muddied]], [[e/_especially|especially]] as a [[r/_result|result]] of a [[f/_fall|fall]] or spill.**
+- **([[p/_particularly|particularly]] of a [[c/_child|child]]) [[s/_soiled|soiled]], [[m/_muddied|muddied]], [[e/_especially|especially]] as a [[r/_result|result]] of a [[f/_fall|fall]] or [[s/_spill|spill]].**
 ---
 ---

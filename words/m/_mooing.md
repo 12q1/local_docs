@@ -9,7 +9,7 @@
 - **The [[a/_action|action]] of the verb [[m/_moo|moo]]; a [[m/_mooing|mooing]] [[s/_sound|sound]].**
 ---
 #adjective
-- **(of a steak) very [[r/_rare|rare]]**
+- **(of a [[s/_steak|steak]]) very [[r/_rare|rare]]**
 ---
 ### Synonyms
 - [[l/_lowing|lowing]]

@@ -1,7 +1,7 @@
 # Halftimes
 ---
 #noun
-- **The [[i/_interval|interval]] [[b/_between|between]] the two [[h/_halves|halves]] of a sports [[m/_match|match]].**
+- **The [[i/_interval|interval]] [[b/_between|between]] the two [[h/_halves|halves]] of a [[s/_sports|sports]] [[m/_match|match]].**
 - **The time taken for a [[p/_physical|physical]] [[q/_quantity|quantity]] to [[h/_halve|halve]] the [[d/_difference|difference]] [[b/_between|between]] [[i/_its|its]] [[p/_present|present]] value and [[i/_its|its]] [[f/_final|final]] value.**
 ---
 #noun

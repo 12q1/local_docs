@@ -1,7 +1,7 @@
 # Mightiest
 ---
 #adjective
-- **Very strong; [[p/_possessing|possessing]] [[m/_might|might]].**
+- **Very [[s/_strong|strong]]; [[p/_possessing|possessing]] [[m/_might|might]].**
 	- _Example: He's a mighty wrestler, but you are faster than him._
 - **Very [[h/_heavy|heavy]] and [[p/_powerful|powerful]].**
 	- _Example: He gave the ball a mighty hit._

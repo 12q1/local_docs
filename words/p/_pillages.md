@@ -1,7 +1,7 @@
 # Pillages
 ---
 #noun
-- **The spoils of war.**
+- **The [[s/_spoils|spoils]] of war.**
 - **The [[a/_act|act]] of [[p/_pillaging|pillaging]].**
 ---
 #verb

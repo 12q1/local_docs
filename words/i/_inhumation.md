@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[b/_burial|burial]].**
-- **The [[a/_act|act]] of [[b/_burying|burying]] vessels in warm [[e/_earth|earth]] in [[o/_order|order]] to [[e/_expose|expose]] their [[c/_contents|contents]] to a steady [[m/_moderate|moderate]] [[h/_heat|heat]]; the state of [[b/_being|being]] thus [[e/_exposed|exposed]].**
+- **The [[a/_act|act]] of [[b/_burying|burying]] vessels in warm [[e/_earth|earth]] in [[o/_order|order]] to [[e/_expose|expose]] their [[c/_contents|contents]] to a [[s/_steady|steady]] [[m/_moderate|moderate]] [[h/_heat|heat]]; the [[s/_state|state]] of [[b/_being|being]] thus [[e/_exposed|exposed]].**
 - **[[a/_arenation|Arenation]]**
 ---
 ### Synonyms

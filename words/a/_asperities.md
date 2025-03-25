@@ -1,7 +1,7 @@
 # Asperities
 ---
 #noun
-- **[[r/_roughness|Roughness]] as of stone or weather.**
+- **[[r/_roughness|Roughness]] as of [[s/_stone|stone]] or weather.**
 	- _Example: the asperity of Maine's winter_
 - **[[h/_harshness|Harshness]], as of temper.**
 - **[[s/_something|Something]] that is [[h/_harsh|harsh]] and [[d/_difficult|difficult]] to [[e/_endure|endure]].**

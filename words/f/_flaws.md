@@ -9,7 +9,7 @@
 ---
 #noun
 - **A sudden [[b/_burst|burst]] or [[g/_gust|gust]] of wind of [[s/_short|short]] [[d/_duration|duration]]; windflaw.**
-- **A storm of [[s/_short|short]] [[d/_duration|duration]].**
+- **A [[s/_storm|storm]] of [[s/_short|short]] [[d/_duration|duration]].**
 - **A sudden [[b/_burst|burst]] of [[n/_noise|noise]] and [[d/_disorder|disorder]]**
 ---
 ### Synonyms

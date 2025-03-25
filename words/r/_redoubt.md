@@ -6,6 +6,6 @@
 - **A [[p/_place|place]] of [[s/_safety|safety]] or [[r/_refuge|refuge]].**
 ---
 #verb
-- **To [[f/_fortify|fortify]], to [[m/_make|make]] [[i/_into|into]] a stronghold.**
+- **To [[f/_fortify|fortify]], to [[m/_make|make]] [[i/_into|into]] a [[s/_stronghold|stronghold]].**
 ---
 ---

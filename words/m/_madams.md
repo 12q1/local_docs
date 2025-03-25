@@ -6,7 +6,7 @@
 - **The [[m/_mistress|mistress]] of a [[h/_household|household]].**
 - **A [[c/_conceited|conceited]] or [[q/_quarrelsome|quarrelsome]] [[g/_girl|girl]].**
 	- _Example: Selina kept pushing and shoving during musical chairs. The nursery school teacher said she was a bad-tempered little madam._
-- **A woman who [[r/_runs|runs]] a [[b/_brothel|brothel]], [[p/_particularly|particularly]] [[o/_one|one]] that specializes in [[f/_finding|finding]] [[p/_prostitutes|prostitutes]] for [[r/_rich|rich]] and [[i/_important|important]] [[c/_clients|clients]].**
+- **A woman who [[r/_runs|runs]] a [[b/_brothel|brothel]], [[p/_particularly|particularly]] [[o/_one|one]] that [[s/_specializes|specializes]] in [[f/_finding|finding]] [[p/_prostitutes|prostitutes]] for [[r/_rich|rich]] and [[i/_important|important]] [[c/_clients|clients]].**
 	- _Example: After she grew too old to work as a prostitute, she became a madam._
 ---
 ### Synonyms

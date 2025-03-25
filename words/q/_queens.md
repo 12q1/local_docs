@@ -11,7 +11,7 @@
 - **A [[r/_reproductive|reproductive]] [[f/_female|female]] [[a/_animal|animal]] in a [[h/_hive|hive]], such as an [[a/_ant|ant]], [[b/_bee|bee]], termite or wasp.**
 - **An [[a/_adult|adult]] [[f/_female|female]] [[c/_cat|cat]] valued for [[b/_breeding|breeding]]. [[s/_see|See]] [[a/_also|also]] tom.**
 - **A [[q/_queen|queen]] [[o/_olive|olive]].**
-- **A [[m/_monarch|monarch]] [[b/_butterfly|butterfly]] (Danaus spp., [[e/_esp|esp]]. Danaus gilippus).**
+- **A [[m/_monarch|monarch]] [[b/_butterfly|butterfly]] (Danaus [[s/_spp|spp]]., [[e/_esp|esp]]. Danaus gilippus).**
 ---
 ### Synonyms
 - [[b/_bitch|bitch]], [[c/_cowgirl|cowgirl]], [[g/_girl|girl]], [[l/_lady|lady]]

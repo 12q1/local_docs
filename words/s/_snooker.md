@@ -1,7 +1,7 @@
 # Snooker
 ---
 #noun
-- **A [[c/_cue|cue]] sport, [[p/_popular|popular]] in the UK and [[o/_other|other]] [[c/_commonwealth|Commonwealth]] of [[n/_nations|Nations]] [[c/_countries|countries]].**
+- **A [[c/_cue|cue]] [[s/_sport|sport]], [[p/_popular|popular]] in the UK and [[o/_other|other]] [[c/_commonwealth|Commonwealth]] of [[n/_nations|Nations]] [[c/_countries|countries]].**
 - **The [[s/_situation|situation]] where the [[c/_cue|cue]] [[b/_ball|ball]] is in such a [[p/_position|position]] that the [[o/_opponent|opponent]] [[c/_cannot|cannot]] [[d/_directly|directly]] [[h/_hit|hit]] the [[r/_required|required]] [[b/_ball|ball]] with it.**
 ---
 #verb

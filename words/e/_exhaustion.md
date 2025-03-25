@@ -1,7 +1,7 @@
 # Exhaustion
 ---
 #noun
-- **The [[p/_point|point]] of [[c/_complete|complete]] [[d/_depletion|depletion]], of the state of [[b/_being|being]] used up.**
+- **The [[p/_point|point]] of [[c/_complete|complete]] [[d/_depletion|depletion]], of the [[s/_state|state]] of [[b/_being|being]] used up.**
 	- _Example: We worked the mine to exhaustion, there's nothing left to extract._
 - **Supreme tiredness; [[h/_having|having]] [[e/_exhausted|exhausted]] [[e/_energy|energy]].**
 	- _Example: I ran in the marathon to exhaustion, then I collapsed and had to be carried away._

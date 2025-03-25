@@ -5,6 +5,6 @@
 ---
 #noun
 - **A [[d/_dog|dog]].**
-- **Specifically, a Shiba Inu, as in the [[d/_doge|doge]] meme.**
+- **[[s/_specifically|Specifically]], a Shiba Inu, as in the [[d/_doge|doge]] meme.**
 ---
 ---

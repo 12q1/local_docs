@@ -1,7 +1,7 @@
 # Glossolalia
 ---
 #noun
-- **[[s/_speaking|Speaking]] a [[l/_language|language]] [[o/_one|one]] [[d/_does|does]] not [[k/_know|know]], or [[s/_speaking|speaking]] [[e/_elaborate|elaborate]] but [[a/_apparently|apparently]] [[m/_meaningless|meaningless]] speech, while in a trance-[[l/_like|like]] state (or, supposedly, under the [[i/_influence|influence]] of a [[d/_deity|deity]] or spirits); [[s/_speaking|speaking]] in tongues.**
+- **[[s/_speaking|Speaking]] a [[l/_language|language]] [[o/_one|one]] [[d/_does|does]] not [[k/_know|know]], or [[s/_speaking|speaking]] [[e/_elaborate|elaborate]] but [[a/_apparently|apparently]] [[m/_meaningless|meaningless]] [[s/_speech|speech]], while in a trance-[[l/_like|like]] [[s/_state|state]] (or, supposedly, under the [[i/_influence|influence]] of a [[d/_deity|deity]] or [[s/_spirits|spirits]]); [[s/_speaking|speaking]] in tongues.**
 ---
 ### Synonyms
 - [[g/_glossolaly|glossolaly]]

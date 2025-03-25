@@ -10,7 +10,7 @@
 - **To [[b/_become|become]] [[l/_less|less]] [[s/_severe|severe]] or tense.**
 - **To [[m/_make|make]] [[s/_something|something]] (such as [[c/_codes|codes]] and [[r/_regulations|regulations]]) [[m/_more|more]] [[l/_lenient|lenient]].**
 - **(of [[c/_codes|codes]] and [[r/_regulations|regulations]]) To [[b/_become|become]] [[m/_more|more]] [[l/_lenient|lenient]].**
-- **To [[r/_relieve|relieve]] ([[s/_something|something]]) from stress.**
+- **To [[r/_relieve|relieve]] ([[s/_something|something]]) from [[s/_stress|stress]].**
 	- _Example: Amusement relaxes the mind._
 - **To [[r/_relieve|relieve]] from [[c/_constipation|constipation]]; to [[l/_loosen|loosen]]; to [[o/_open|open]].**
 	- _Example: An aperient relaxes the bowels._

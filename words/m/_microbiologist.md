@@ -1,6 +1,6 @@
 # Microbiologist
 ---
 #noun
-- **A [[s/_scientist|scientist]] whose speciality is [[m/_microbiology|microbiology]].**
+- **A [[s/_scientist|scientist]] whose [[s/_speciality|speciality]] is [[m/_microbiology|microbiology]].**
 ---
 ---

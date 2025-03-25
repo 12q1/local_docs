@@ -8,7 +8,7 @@
 - **To [[d/_do|do]] [[c/_chores|chores]].**
 ---
 #verb
-- **To steal.**
+- **To [[s/_steal|steal]].**
 ---
 ### Synonyms
 - [[s/_steal|steal]], [[t/_thieve|thieve]], [[t/_twoc|twoc]]

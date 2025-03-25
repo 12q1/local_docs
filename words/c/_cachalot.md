@@ -1,6 +1,6 @@
 # Cachalot
 ---
 #noun
-- **The sperm whale.**
+- **The [[s/_sperm|sperm]] whale.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Panoply
 ---
 #noun
-- **A splendid [[d/_display|display]] of [[s/_something|something]].**
+- **A [[s/_splendid|splendid]] [[d/_display|display]] of [[s/_something|something]].**
 - **(by [[e/_extension|extension]]) A [[c/_collection|collection]] or [[d/_display|display]] of weaponry.**
 - **[[c/_ceremonial|Ceremonial]] [[g/_garments|garments]], [[c/_complete|complete]] with [[a/_all|all]] [[a/_accessories|accessories]].**
 - **A [[c/_complete|complete]] [[s/_set|set]] of [[a/_armour|armour]].**

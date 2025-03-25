@@ -11,7 +11,7 @@
 	- _Example: the flavor of an experience_
 - **A [[k/_kind|kind]] or type.**
 	- _Example: Debian is one flavor of the Linux operating system._
-- **[[o/_one|One]] of the [[s/_six|six]] types of [[q/_quarks|quarks]] (top, [[b/_bottom|bottom]], strange, [[c/_charmed|charmed]], up, and [[d/_down|down]]) or three types of [[l/_leptons|leptons]] ([[e/_electron|electron]], [[m/_muon|muon]], and tauon).**
+- **[[o/_one|One]] of the [[s/_six|six]] types of [[q/_quarks|quarks]] (top, [[b/_bottom|bottom]], [[s/_strange|strange]], [[c/_charmed|charmed]], up, and [[d/_down|down]]) or three types of [[l/_leptons|leptons]] ([[e/_electron|electron]], [[m/_muon|muon]], and tauon).**
 - **The [[q/_quality|quality]] [[p/_produced|produced]] by the [[s/_sensation|sensation]] of [[s/_smell|smell]]; [[o/_odour|odour]]; [[f/_fragrance|fragrance]].**
 	- _Example: the flavor of a rose_
 ---

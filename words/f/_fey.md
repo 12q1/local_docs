@@ -5,7 +5,7 @@
 - **[[d/_dying|Dying]]; [[d/_dead|dead]].**
 - **[[p/_possessing|Possessing]] [[s/_second|second]] [[s/_sight|sight]], [[c/_clairvoyance|clairvoyance]], or [[c/_clairaudience|clairaudience]].**
 - **[[o/_overrefined|Overrefined]], [[a/_affected|affected]].**
-- **Strange or [[o/_otherworldly|otherworldly]].**
-- **Spellbound.**
+- **[[s/_strange|Strange]] or [[o/_otherworldly|otherworldly]].**
+- **[[s/_spellbound|Spellbound]].**
 ---
 ---

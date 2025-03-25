@@ -9,7 +9,7 @@
 - **[[s/_someone|Someone]] or [[s/_something|something]] that is [[a/_annoying|annoying]] or [[f/_frustrating|frustrating]], or [[d/_disappointing|disappointing]]; an [[o/_obstacle|obstacle]] to [[p/_progress|progress]] or [[e/_enjoyment|enjoyment]].**
 	- _Example: Travelling to work in the rush hour is a real drag._
 - **A [[l/_long|long]] [[o/_open|open]] [[h/_horse|horse]]-[[d/_drawn|drawn]] [[c/_carriage|carriage]] with transverse or [[s/_side|side]] [[s/_seats|seats]].**
-- **Street, as in '[[m/_main|main]] [[d/_drag|drag]]'.**
+- **[[s/_street|Street]], as in '[[m/_main|main]] [[d/_drag|drag]]'.**
 - **The [[s/_scent|scent]]-[[p/_path|path]] [[l/_left|left]] by [[d/_dragging|dragging]] a [[f/_fox|fox]], or [[s/_some|some]] [[o/_other|other]] substance such as [[a/_aniseed|aniseed]], for training [[h/_hounds|hounds]] to [[f/_follow|follow]] [[s/_scents|scents]].**
 	- _Example: to run a drag_
 - **A [[l/_large|large]] [[a/_amount|amount]] of [[b/_backspin|backspin]] on the [[c/_cue|cue]] [[b/_ball|ball]], [[c/_causing|causing]] the [[c/_cue|cue]] [[b/_ball|ball]] to [[s/_slow|slow]] [[d/_down|down]].**
@@ -17,8 +17,8 @@
 - **A [[k/_kind|kind]] of [[s/_sledge|sledge]] for [[c/_conveying|conveying]] [[h/_heavy|heavy]] [[o/_objects|objects]]; [[a/_also|also]], a [[k/_kind|kind]] of [[l/_low|low]] [[c/_car|car]] or [[h/_handcart|handcart]].**
 	- _Example: a stone drag_
 - **The [[b/_bottom|bottom]] [[p/_part|part]] of a [[f/_flask|flask]] or [[m/_mould|mould]], the upper [[p/_part|part]] [[b/_being|being]] the [[c/_cope|cope]].**
-- **A steel [[i/_instrument|instrument]] for [[c/_completing|completing]] the [[d/_dressing|dressing]] of [[s/_soft|soft]] stone.**
-- **The [[d/_difference|difference]] [[b/_between|between]] the speed of a [[s/_screw|screw]] steamer under [[s/_sail|sail]] and that of the [[s/_screw|screw]] when the [[s/_ship|ship]] [[o/_outruns|outruns]] the [[s/_screw|screw]]; or [[b/_between|between]] the [[p/_propulsive|propulsive]] [[e/_effects|effects]] of the [[d/_different|different]] [[f/_floats|floats]] of a [[p/_paddle|paddle]] wheel.**
+- **A [[s/_steel|steel]] [[i/_instrument|instrument]] for [[c/_completing|completing]] the [[d/_dressing|dressing]] of [[s/_soft|soft]] [[s/_stone|stone]].**
+- **The [[d/_difference|difference]] [[b/_between|between]] the [[s/_speed|speed]] of a [[s/_screw|screw]] [[s/_steamer|steamer]] under [[s/_sail|sail]] and that of the [[s/_screw|screw]] when the [[s/_ship|ship]] [[o/_outruns|outruns]] the [[s/_screw|screw]]; or [[b/_between|between]] the [[p/_propulsive|propulsive]] [[e/_effects|effects]] of the [[d/_different|different]] [[f/_floats|floats]] of a [[p/_paddle|paddle]] wheel.**
 - **[[a/_anything|Anything]] towed in the water to [[r/_retard|retard]] a [[s/_ship|ship]]'[[s/_s|s]] [[p/_progress|progress]], or to [[k/_keep|keep]] [[h/_her|her]] [[h/_head|head]] up to the wind; [[e/_especially|especially]], a [[c/_canvas|canvas]] [[b/_bag|bag]] with a [[h/_hooped|hooped]] [[m/_mouth|mouth]] ([[d/_drag|drag]] [[s/_sail|sail]]), [[s/_so|so]] used.**
 - **A [[s/_skid|skid]] or [[s/_shoe|shoe]] for [[r/_retarding|retarding]] the [[m/_motion|motion]] of a [[c/_carriage|carriage]] wheel.**
 - **[[m/_motion|Motion]] [[a/_affected|affected]] with [[s/_slowness|slowness]] and [[d/_difficulty|difficulty]], as [[i/_if|if]] [[c/_clogged|clogged]].**

@@ -17,7 +17,7 @@
 ### Synonyms
 - [[c/_complexify|complexify]], [[c/_confuscate|confuscate]], [[a/_annihilate|annihilate]], [[r/_ravage|ravage]], [[i/_invigorate|invigorate]], [[v/_vitalise|vitalise]], [[b/_bother|bother]], [[b/_bug|bug]], [[c/_cook|cook]], [[j/_jam|jam]]
 #adjective
-- **[[p/_played|Played]] in a [[j/_jazz|jazz]] style.**
+- **[[p/_played|Played]] in a [[j/_jazz|jazz]] [[s/_style|style]].**
 - **Very [[e/_enthusiastic|enthusiastic]] or [[e/_excited|excited]].**
 ---
 ---

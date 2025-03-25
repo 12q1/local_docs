@@ -15,7 +15,7 @@
 	- _Example: Adding 3 and 4 yields a result of 7._
 - **To [[p/_produce|produce]] a [[p/_particular|particular]] [[s/_sound|sound]] as the [[r/_result|result]] of a [[s/_sound|sound]] [[l/_law|law]].**
 	- _Example: Indo-European p- yields Germanic f-._
-- **(of a [[m/_material|material]] specimen) To [[p/_pass|pass]] the [[m/_material|material]]'[[s/_s|s]] [[y/_yield|yield]] [[p/_point|point]] and undergo [[p/_plastic|plastic]] [[d/_deformation|deformation]].**
+- **(of a [[m/_material|material]] [[s/_specimen|specimen]]) To [[p/_pass|pass]] the [[m/_material|material]]'[[s/_s|s]] [[y/_yield|yield]] [[p/_point|point]] and undergo [[p/_plastic|plastic]] [[d/_deformation|deformation]].**
 - **To [[a/_admit|admit]] to be true; to [[c/_concede|concede]]; to [[a/_allow|allow]].**
 ---
 ### Synonyms

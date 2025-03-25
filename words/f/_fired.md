@@ -19,7 +19,7 @@
 	- _Example: The event handler should only fire after all web page content has finished loading._
 - **To [[i/_inflame|inflame]]; to [[i/_irritate|irritate]], as the [[p/_passions|passions]].**
 	- _Example: to fire the soul with anger, pride, or revenge_
-- **To [[a/_animate|animate]]; to [[g/_give|give]] [[l/_life|life]] or spirit to.**
+- **To [[a/_animate|animate]]; to [[g/_give|give]] [[l/_life|life]] or [[s/_spirit|spirit]] to.**
 	- _Example: to fire the genius of a young man_
 - **To [[f/_feed|feed]] or [[s/_serve|serve]] the [[f/_fire|fire]] of.**
 	- _Example: to fire a boiler_

@@ -14,7 +14,7 @@
 #verb
 - **To [[a/_address|address]] [[s/_someone|someone]] as [[d/_dude|dude]].**
 - **To take a vacation in a [[d/_dude|dude]] [[r/_ranch|ranch]].**
-- **Usually [[f/_followed|followed]] by up: to [[d/_dress|dress]] up, to wear [[s/_smart|smart]] or special [[c/_clothes|clothes]].**
+- **Usually [[f/_followed|followed]] by up: to [[d/_dress|dress]] up, to wear [[s/_smart|smart]] or [[s/_special|special]] [[c/_clothes|clothes]].**
 ---
 #interjection
 - **A term of [[a/_address|address]], usually for a [[m/_man|man]], [[c/_conveying|conveying]] [[a/_awe|awe]], [[e/_excitement|excitement]], surprise, [[e/_etc|etc]].**

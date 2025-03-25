@@ -9,7 +9,7 @@
 - **To [[c/_cling|cling]] [[c/_closely|closely]] together.**
 - **To [[e/_embrace|embrace]] by [[h/_holding|holding]] [[c/_closely|closely]], [[e/_especially|especially]] in the [[a/_arms|arms]].**
 	- _Example: Billy hugged Danny until he felt better._
-- **To stay [[c/_close|close]] to (the [[s/_shore|shore]] [[e/_etc|etc]].)**
+- **To [[s/_stay|stay]] [[c/_close|close]] to (the [[s/_shore|shore]] [[e/_etc|etc]].)**
 - **To [[h/_hold|hold]] [[f/_fast|fast]]; to [[c/_cling|cling]] to; to [[c/_cherish|cherish]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Bristling
 ---
 #verb
-- **To [[r/_rise|rise]] or stand [[e/_erect|erect]], [[l/_like|like]] [[b/_bristles|bristles]].**
+- **To [[r/_rise|rise]] or [[s/_stand|stand]] [[e/_erect|erect]], [[l/_like|like]] [[b/_bristles|bristles]].**
 - **[[a/_abound|Abound]], to [[h/_have|have]] an [[a/_abundance|abundance]] of [[s/_something|something]]**
 - **(with at) To be on [[o/_one|one]]'[[s/_s|s]] [[g/_guard|guard]] or [[r/_raise|raise]] [[o/_one|one]]'[[s/_s|s]] [[d/_defenses|defenses]]; to [[r/_react|react]] with [[f/_fear|fear]], suspicion, or [[d/_distance|distance]].**
 	- _Example: The employees bristled at the prospect of working through the holidays._

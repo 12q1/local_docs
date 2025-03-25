@@ -1,7 +1,7 @@
 # Naw
 ---
 #interjection
-- **[[p/_pronunciation|Pronunciation]] spelling of [[n/_no|no]].**
+- **[[p/_pronunciation|Pronunciation]] [[s/_spelling|spelling]] of [[n/_no|no]].**
 ---
 #interjection
 - **(1990s) Used to [[i/_indicate|indicate]] that the [[p/_previous|previous]] [[p/_phrase|phrase]] was [[m/_meant|meant]] [[s/_sarcastically|sarcastically]] or [[i/_ironically|ironically]].**

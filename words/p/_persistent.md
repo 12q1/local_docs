@@ -9,9 +9,9 @@
 	- _Example: There have been persistent rumours for years._
 - **[[l/_lasting|Lasting]] [[p/_past|past]] [[m/_maturity|maturity]] without [[f/_falling|falling]] [[o/_off|off]].**
 	- _Example: Pine cones have persistent scales._
-- **Of [[d/_data|data]] or a [[d/_data|data]] structure: not transient or temporary, but [[r/_remaining|remaining]] in [[e/_existence|existence]] [[a/_after|after]] the termination of the [[p/_program|program]] that [[c/_creates|creates]] it.**
+- **Of [[d/_data|data]] or a [[d/_data|data]] [[s/_structure|structure]]: not transient or temporary, but [[r/_remaining|remaining]] in [[e/_existence|existence]] [[a/_after|after]] the termination of the [[p/_program|program]] that [[c/_creates|creates]] it.**
 	- _Example: Once written to a disk file, the data becomes persistent: it will still be there tomorrow when we run the next program._
 - **[[d/_describing|Describing]] a [[f/_fractal|fractal]] [[p/_process|process]] that [[h/_has|has]] a [[p/_positive|positive]] [[b/_brown|Brown]] [[f/_function|function]]**
-- **(stochastic [[p/_processes|processes]], of a state) [[n/_non|non]]-transient.**
+- **([[s/_stochastic|stochastic]] [[p/_processes|processes]], of a [[s/_state|state]]) [[n/_non|non]]-transient.**
 ---
 ---

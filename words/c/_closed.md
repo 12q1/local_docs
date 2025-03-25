@@ -12,11 +12,11 @@
 - [[e/_extend|extend]], [[w/_widen|widen]], [[o/_open|open]], [[o/_open|open]], [[b/_begin|begin]], [[c/_commence|commence]], [[i/_initiate|initiate]], [[s/_start|start]], [[o/_open|open]], [[s/_start|start]]
 #adjective
 - **[[s/_sealed|Sealed]], [[m/_made|made]] [[i/_inaccessible|inaccessible]] or [[i/_impassable|impassable]]; not [[o/_open|open]].**
-- **(of a store or [[b/_business|business]]) Not [[o/_operating|operating]] or [[c/_conducting|conducting]] trade.**
+- **(of a [[s/_store|store]] or [[b/_business|business]]) Not [[o/_operating|operating]] or [[c/_conducting|conducting]] trade.**
 - **Not [[p/_public|public]].**
 	- _Example: closed source  a closed committee_
 - **(of a [[s/_set|set]]) [[h/_having|Having]] an [[o/_open|open]] [[c/_complement|complement]].**
-- **(of a [[s/_set|set]]) Such that [[i/_its|its]] [[i/_image|image]] under the specified [[o/_operation|operation]] is [[c/_contained|contained]] in it.**
+- **(of a [[s/_set|set]]) Such that [[i/_its|its]] [[i/_image|image]] under the [[s/_specified|specified]] [[o/_operation|operation]] is [[c/_contained|contained]] in it.**
 	- _Example: The set of integers is closed under addition: \forall x,y\in\mathbb{Z}\,x+y\in\mathbb{Z}._
 - **(of a [[f/_formula|formula]]) [[l/_lacking|Lacking]] a [[f/_free|free]] variable.**
 - **(of a walk) Whose [[f/_first|first]] and [[l/_last|last]] vertices are the [[s/_same|same]], [[f/_forming|forming]] a [[c/_closed|closed]] [[l/_loop|loop]].**

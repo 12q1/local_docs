@@ -13,6 +13,6 @@
 	- _Example: an insulated house or column_
 - **(of an [[e/_electrically|electrically]] [[c/_conducting|conducting]] [[m/_material|material]]) [[i/_isolated|Isolated]] or [[s/_separated|separated]] from [[o/_other|other]] [[c/_conducting|conducting]] [[m/_materials|materials]], or [[s/_sources|sources]] of [[e/_electricity|electricity]].**
 	- _Example: Early insulated wires were covered in silk rather than plastic._
-- **[[s/_situated|Situated]] at [[s/_so|so]] [[g/_great|great]] a [[d/_distance|distance]] as to be [[b/_beyond|beyond]] the [[e/_effect|effect]] of [[g/_gravitation|gravitation]]; [[s/_said|said]] of stars supposed to be [[s/_so|so]] [[f/_far|far]] [[a/_apart|apart]] that the [[e/_effect|effect]] of their [[m/_mutual|mutual]] [[a/_attraction|attraction]] is undetectable.**
+- **[[s/_situated|Situated]] at [[s/_so|so]] [[g/_great|great]] a [[d/_distance|distance]] as to be [[b/_beyond|beyond]] the [[e/_effect|effect]] of [[g/_gravitation|gravitation]]; [[s/_said|said]] of [[s/_stars|stars]] supposed to be [[s/_so|so]] [[f/_far|far]] [[a/_apart|apart]] that the [[e/_effect|effect]] of their [[m/_mutual|mutual]] [[a/_attraction|attraction]] is undetectable.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Pyrrhic
 ---
 #adjective
-- **Of or [[r/_relating|relating]] to [[p/_pyrrhus|Pyrrhus]] (319/318–272 BC), [[g/_greek|Greek]] [[g/_general|general]] and statesman.**
+- **Of or [[r/_relating|relating]] to [[p/_pyrrhus|Pyrrhus]] (319/318–272 BC), [[g/_greek|Greek]] [[g/_general|general]] and [[s/_statesman|statesman]].**
 	- _Example: The Pyrrhic army lost the Pyrrhic war._
 - **[[a/_achieved|Achieved]] at too [[g/_great|great]] a [[c/_cost|cost]] or [[d/_detriment|detriment]] to [[h/_have|have]] [[b/_been|been]] worthwhile (as a victory, [[a/_accomplishment|accomplishment]], [[e/_etc|etc]]).**
 ---

@@ -5,7 +5,7 @@
 - **The [[f/_flesh|flesh]] of a [[l/_lamb|lamb]] or [[s/_sheep|sheep]] used as [[f/_food|food]].**
 - **A [[p/_person|person]] who is [[m/_meek|meek]], [[d/_docile|docile]] and [[e/_easily|easily]] [[l/_led|led]].**
 - **A [[s/_simple|simple]], unsophisticated [[p/_person|person]].**
-- **[[o/_one|One]] who [[i/_ignorantly|ignorantly]] speculates on the stock [[e/_exchange|exchange]] and is victimized.**
+- **[[o/_one|One]] who [[i/_ignorantly|ignorantly]] [[s/_speculates|speculates]] on the [[s/_stock|stock]] [[e/_exchange|exchange]] and is victimized.**
 ---
 ### Synonyms
 - [[s/_sheepling|sheepling]]

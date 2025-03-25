@@ -1,7 +1,7 @@
 # Bras
 ---
 #noun
-- **[[o/_one|One]] of the two vectors in the standard [[n/_notation|notation]] for [[d/_describing|describing]] [[q/_quantum|quantum]] states in [[q/_quantum|quantum]] [[m/_mechanics|mechanics]], the [[o/_other|other]] [[b/_being|being]] the [[k/_ket|ket]].**
+- **[[o/_one|One]] of the two vectors in the [[s/_standard|standard]] [[n/_notation|notation]] for [[d/_describing|describing]] [[q/_quantum|quantum]] [[s/_states|states]] in [[q/_quantum|quantum]] [[m/_mechanics|mechanics]], the [[o/_other|other]] [[b/_being|being]] the [[k/_ket|ket]].**
 ---
 ### Antonyms
 - [[k/_ket|ket]]

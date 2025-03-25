@@ -11,7 +11,7 @@
 	- _Example: They came together in a chance meeting on the way home from work._
 - **A [[p/_place|place]] or [[i/_instance|instance]] of [[j/_junction|junction]] or [[i/_intersection|intersection]]; a [[c/_confluence|confluence]].**
 	- _Example: Earthquakes occur at the meeting of tectonic plates._
-- **A [[r/_religious|religious]] [[s/_service|service]] [[h/_held|held]] by a [[c/_charismatic|charismatic]] [[p/_preacher|preacher]] in [[s/_small|small]] towns in the United States.**
+- **A [[r/_religious|religious]] [[s/_service|service]] [[h/_held|held]] by a [[c/_charismatic|charismatic]] [[p/_preacher|preacher]] in [[s/_small|small]] towns in the United [[s/_states|States]].**
 - **An [[a/_administrative|administrative]] unit in the [[r/_religious|Religious]] [[s/_society|Society]] of [[f/_friends|Friends]] ([[q/_quakers|Quakers]]).**
 	- _Example: Denver meeting is a part of Intermountain yearly meeting._
 ---

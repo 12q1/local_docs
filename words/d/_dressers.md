@@ -1,7 +1,7 @@
 # Dressers
 ---
 #noun
-- **An [[i/_item|item]] of [[k/_kitchen|kitchen]] [[f/_furniture|furniture]], [[l/_like|like]] a [[c/_cabinet|cabinet]] with [[s/_shelves|shelves]], for storing [[c/_crockery|crockery]] or utensils.**
+- **An [[i/_item|item]] of [[k/_kitchen|kitchen]] [[f/_furniture|furniture]], [[l/_like|like]] a [[c/_cabinet|cabinet]] with [[s/_shelves|shelves]], for [[s/_storing|storing]] [[c/_crockery|crockery]] or utensils.**
 - **An [[i/_item|item]] of [[b/_bedroom|bedroom]] [[f/_furniture|furniture]], [[l/_like|like]] a [[l/_low|low]] [[c/_chest|chest]] of [[d/_drawers|drawers]], [[o/_often|often]] with a [[m/_mirror|mirror]].**
 ---
 #noun
@@ -14,6 +14,6 @@
 - **A [[m/_mechanical|mechanical]] [[d/_device|device]] used in [[g/_grain|grain]] [[m/_mills|mills]] for [[b/_bolting|bolting]].**
 - **A table or [[b/_bench|bench]] on which [[m/_meat|meat]] and [[o/_other|other]] things are [[d/_dressed|dressed]], or [[p/_prepared|prepared]] for use.**
 - **A [[k/_kind|kind]] of [[p/_pick|pick]] for [[s/_shaping|shaping]] [[l/_large|large]] [[c/_coal|coal]].**
-- **[[o/_one|One]] who [[d/_dresses|dresses]] or [[p/_prepares|prepares]] stone.**
+- **[[o/_one|One]] who [[d/_dresses|dresses]] or [[p/_prepares|prepares]] [[s/_stone|stone]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Obstacle
 ---
 #noun
-- **[[s/_something|Something]] that [[i/_impedes|impedes]], stands in the way of, or [[h/_holds|holds]] up [[p/_progress|progress]]**
+- **[[s/_something|Something]] that [[i/_impedes|impedes]], [[s/_stands|stands]] in the way of, or [[h/_holds|holds]] up [[p/_progress|progress]]**
 	- _Example: A big obstacle to understanding the manual was that it had been poorly translated from the Japanese._
 ---
 ### Synonyms

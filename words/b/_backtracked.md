@@ -1,7 +1,7 @@
 # Backtracked
 ---
 #verb
-- **To [[r/_retrace|retrace]] [[o/_one|one]]'[[s/_s|s]] steps.**
+- **To [[r/_retrace|retrace]] [[o/_one|one]]'[[s/_s|s]] [[s/_steps|steps]].**
 	- _Example: I dropped my sunglasses and had to backtrack to find them._
 - **To [[r/_repeat|repeat]] or [[r/_review|review]] work [[a/_already|already]] [[d/_done|done]].**
 	- _Example: If we backtrack through this problem, maybe we can figure out where we went wrong._

@@ -17,13 +17,13 @@
 	- _Example: I went to the hospital to see how my grandfather was doing. Unfortunately, he's in a bad state._
 - **Not [[b/_behaving|behaving]]; [[b/_behaving|behaving]] [[b/_badly|badly]]; [[m/_misbehaving|misbehaving]]; [[m/_mischievous|mischievous]] or [[d/_disobedient|disobedient]].**
 	- _Example: Stop being bad, or you will get a spanking!_
-- **Tricky; stressful; unpleasant.**
+- **Tricky; [[s/_stressful|stressful]]; unpleasant.**
 	- _Example: Divorce is usually a bad experience for everybody involved._
 - **[[e/_evil|Evil]]; wicked.**
 	- _Example: Be careful. There are bad people in the world._
 - **[[f/_faulty|Faulty]]; not [[f/_functional|functional]].**
 	- _Example: I had a bad headlight._
-- **(of [[f/_food|food]]) Spoiled, [[r/_rotten|rotten]], [[o/_overripe|overripe]].**
+- **(of [[f/_food|food]]) [[s/_spoiled|Spoiled]], [[r/_rotten|rotten]], [[o/_overripe|overripe]].**
 	- _Example: These apples have gone bad._
 - **(of [[b/_breath|breath]]) [[m/_malodorous|Malodorous]]; [[f/_foul|foul]].**
 	- _Example: Bad breath is not pleasant for anyone._

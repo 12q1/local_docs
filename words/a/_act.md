@@ -5,7 +5,7 @@
 	- _Example: an act of goodwill_
 - **[[a/_actuality|Actuality]].**
 - **[[s/_something|Something]] [[d/_done|done]] [[o/_once|once]] and for [[a/_all|all]], as [[d/_distinguished|distinguished]] from a work.**
-- **A [[p/_product|product]] of a [[l/_legislative|legislative]] [[b/_body|body]], a statute.**
+- **A [[p/_product|product]] of a [[l/_legislative|legislative]] [[b/_body|body]], a [[s/_statute|statute]].**
 - **The [[p/_process|process]] of [[d/_doing|doing]] [[s/_something|something]].**
 	- _Example: He was caught in the act of stealing._
 - **A [[f/_formal|formal]] or [[o/_official|official]] [[r/_record|record]] of [[s/_something|something]] [[d/_done|done]].**
@@ -15,7 +15,7 @@
 	- _Example: Which act did you prefer? The soloist or the band?_
 - **[[a/_any|Any]] [[o/_organized|organized]] [[a/_activity|activity]].**
 - **A [[d/_display|display]] of [[b/_behaviour|behaviour]].**
-- **A thesis [[m/_maintained|maintained]] in [[p/_public|public]], in [[s/_some|some]] [[e/_english|English]] universities, by a [[c/_candidate|candidate]] for a [[d/_degree|degree]], or to [[s/_show|show]] the [[p/_proficiency|proficiency]] of a student.**
+- **A thesis [[m/_maintained|maintained]] in [[p/_public|public]], in [[s/_some|some]] [[e/_english|English]] universities, by a [[c/_candidate|candidate]] for a [[d/_degree|degree]], or to [[s/_show|show]] the [[p/_proficiency|proficiency]] of a [[s/_student|student]].**
 - **A [[d/_display|display]] of [[b/_behaviour|behaviour]] [[m/_meant|meant]] to [[d/_deceive|deceive]].**
 	- _Example: to put on an act_
 ---

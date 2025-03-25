@@ -8,9 +8,9 @@
 - **A wide [[r/_receptacle|receptacle]] in which [[g/_gold|gold]] [[g/_grains|grains]] are [[s/_separated|separated]] from [[g/_gravel|gravel]] by washing the [[c/_contents|contents]] with water.**
 - **An [[e/_expanse|expanse]] of [[l/_level|level]] [[l/_land|land]] [[l/_located|located]] in a [[d/_depression|depression]], [[e/_especially|especially]]**
 - **[[s/_short|Short]] for [[h/_hardpan|hardpan]]: a [[h/_hard|hard]] substrate such as is [[f/_formed|formed]] in [[p/_pans|pans]].**
-- **Strong [[a/_adverse|adverse]] [[c/_criticism|criticism]].**
+- **[[s/_strong|Strong]] [[a/_adverse|adverse]] [[c/_criticism|criticism]].**
 - **A [[l/_loaf|loaf]] of [[b/_bread|bread]].**
-- **The [[c/_chamber|chamber]] [[p/_pot|pot]] in a [[c/_close|close]] stool; the [[b/_base|base]] of a toilet, [[c/_consisting|consisting]] of the [[b/_bowl|bowl]] and [[i/_its|its]] support.**
+- **The [[c/_chamber|chamber]] [[p/_pot|pot]] in a [[c/_close|close]] [[s/_stool|stool]]; the [[b/_base|base]] of a toilet, [[c/_consisting|consisting]] of the [[b/_bowl|bowl]] and [[i/_its|its]] support.**
 - **A [[h/_human|human]] [[f/_face|face]], a [[m/_mug|mug]].**
 - **([[r/_roofing|roofing]]) The [[b/_bottom|bottom]] [[f/_flat|flat]] [[p/_part|part]] of a [[r/_roofing|roofing]] [[p/_panel|panel]] that is [[b/_between|between]] the [[r/_ribs|ribs]] of the [[p/_panel|panel]].**
 - **A [[c/_closed|closed]] vessel for [[b/_boiling|boiling]] or [[e/_evaporating|evaporating]] as [[p/_part|part]] of [[m/_manufacture|manufacture]]; a vacuum [[p/_pan|pan]].**

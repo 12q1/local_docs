@@ -3,7 +3,7 @@
 #noun
 - **A [[l/_long|long]] [[d/_dowel|dowel]] or [[p/_plank|plank]] [[p/_protruding|protruding]] from the [[g/_ground|ground]]; a [[f/_fencepost|fencepost]]; a lightpost.**
 	- _Example: ram a post into the ground_
-- **A stud; a two-by-[[f/_four|four]].**
+- **A [[s/_stud|stud]]; a two-by-[[f/_four|four]].**
 - **A [[p/_pole|pole]] in a [[b/_battery|battery]].**
 - **A [[l/_long|long]], [[n/_narrow|narrow]] [[p/_piece|piece]] [[i/_inserted|inserted]] [[i/_into|into]] a [[r/_root|root]] [[c/_canal|canal]] to [[p/_provide|provide]] [[r/_retention|retention]] for a [[c/_crown|crown]].**
 - **([[c/_chiefly|chiefly]] a [[c/_cappella|cappella]]) A [[p/_prolonged|prolonged]] [[f/_final|final]] [[m/_melody|melody]] [[n/_note|note]], [[a/_among|among]] [[m/_moving|moving]] [[h/_harmony|harmony]] [[n/_notes|notes]].**
@@ -24,19 +24,19 @@
 - **To [[p/_put|put]] [[c/_content|content]] [[o/_online|online]], usually through a [[p/_publicly|publicly]] [[a/_accessible|accessible]] [[m/_mean|mean]], such as a video [[c/_channel|channel]], [[g/_gallery|gallery]], [[m/_message|message]] [[b/_board|board]], blog [[e/_etc|etc]].**
 ---
 #noun
-- **[[e/_each|Each]] of a [[s/_series|series]] of [[m/_men|men]] stationed at specific [[p/_places|places]] [[a/_along|along]] a postroad, with [[r/_responsibility|responsibility]] for [[r/_relaying|relaying]] [[l/_letters|letters]] and [[d/_dispatches|dispatches]] of the [[m/_monarch|monarch]] (and [[l/_later|later]] [[o/_others|others]]) [[a/_along|along]] the [[r/_route|route]].**
-- **A station, or [[o/_one|one]] of a [[s/_series|series]] of stations, [[e/_established|established]] for the [[r/_refreshment|refreshment]] and [[a/_accommodation|accommodation]] of travellers on [[s/_some|some]] [[r/_recognized|recognized]] [[r/_route|route]].**
+- **[[e/_each|Each]] of a [[s/_series|series]] of [[m/_men|men]] [[s/_stationed|stationed]] at [[s/_specific|specific]] [[p/_places|places]] [[a/_along|along]] a postroad, with [[r/_responsibility|responsibility]] for [[r/_relaying|relaying]] [[l/_letters|letters]] and [[d/_dispatches|dispatches]] of the [[m/_monarch|monarch]] (and [[l/_later|later]] [[o/_others|others]]) [[a/_along|along]] the [[r/_route|route]].**
+- **A [[s/_station|station]], or [[o/_one|one]] of a [[s/_series|series]] of [[s/_stations|stations]], [[e/_established|established]] for the [[r/_refreshment|refreshment]] and [[a/_accommodation|accommodation]] of travellers on [[s/_some|some]] [[r/_recognized|recognized]] [[r/_route|route]].**
 	- _Example: a stage or railway post_
-- **A [[m/_military|military]] [[b/_base|base]]; the [[p/_place|place]] at which a [[s/_soldier|soldier]] or a [[b/_body|body]] of troops is stationed; [[a/_also|also]], the troops at such a station.**
+- **A [[m/_military|military]] [[b/_base|base]]; the [[p/_place|place]] at which a [[s/_soldier|soldier]] or a [[b/_body|body]] of troops is [[s/_stationed|stationed]]; [[a/_also|also]], the troops at such a [[s/_station|station]].**
 - **[[s/_someone|Someone]] who travels [[e/_express|express]] [[a/_along|along]] a [[s/_set|set]] [[r/_route|route]] [[c/_carrying|carrying]] [[l/_letters|letters]] and [[d/_dispatches|dispatches]]; a [[c/_courier|courier]].**
 - **An [[o/_organisation|organisation]] for [[d/_delivering|delivering]] [[l/_letters|letters]], [[p/_parcels|parcels]] [[e/_etc|etc]]., or the [[s/_service|service]] [[p/_provided|provided]] by such an [[o/_organisation|organisation]].**
 	- _Example: sent via post; parcel post_
 - **A [[s/_single|single]] [[d/_delivery|delivery]] of [[l/_letters|letters]]; the [[l/_letters|letters]] or [[d/_deliveries|deliveries]] that [[m/_make|make]] up a [[s/_single|single]] [[b/_batch|batch]] [[d/_delivered|delivered]] to [[o/_one|one]] [[p/_person|person]] or [[o/_one|one]] [[a/_address|address]].**
 - **A [[m/_message|message]] [[p/_posted|posted]] in an [[e/_electronic|electronic]] or [[i/_internet|Internet]] [[f/_forum|forum]], or on a blog, [[e/_etc|etc]].**
-- **A [[m/_moderate|moderate]] to [[d/_deep|deep]] [[p/_passing|passing]] [[r/_route|route]] in which a [[r/_receiver|receiver]] [[r/_runs|runs]] 10-20 [[y/_yards|yards]] from the [[l/_line|line]] of [[s/_scrimmage|scrimmage]] straight [[d/_down|down]] the [[f/_field|field]], then [[c/_cuts|cuts]] toward the [[m/_middle|middle]] of the [[f/_field|field]] (towards the [[f/_facing|facing]] [[g/_goalposts|goalposts]]) at a 45-[[d/_degree|degree]] [[a/_angle|angle]].**
+- **A [[m/_moderate|moderate]] to [[d/_deep|deep]] [[p/_passing|passing]] [[r/_route|route]] in which a [[r/_receiver|receiver]] [[r/_runs|runs]] 10-20 [[y/_yards|yards]] from the [[l/_line|line]] of [[s/_scrimmage|scrimmage]] [[s/_straight|straight]] [[d/_down|down]] the [[f/_field|field]], then [[c/_cuts|cuts]] toward the [[m/_middle|middle]] of the [[f/_field|field]] (towards the [[f/_facing|facing]] [[g/_goalposts|goalposts]]) at a 45-[[d/_degree|degree]] [[a/_angle|angle]].**
 	- _Example: Two of the receivers ran post patterns._
-- **[[h/_haste|Haste]] or speed, [[l/_like|like]] that of a [[m/_messenger|messenger]] or [[m/_mail|mail]] [[c/_carrier|carrier]].**
-- **[[o/_one|One]] who [[h/_has|has]] [[c/_charge|charge]] of a station, [[e/_especially|especially]] a [[p/_postal|postal]] station.**
+- **[[h/_haste|Haste]] or [[s/_speed|speed]], [[l/_like|like]] that of a [[m/_messenger|messenger]] or [[m/_mail|mail]] [[c/_carrier|carrier]].**
+- **[[o/_one|One]] who [[h/_has|has]] [[c/_charge|charge]] of a [[s/_station|station]], [[e/_especially|especially]] a [[p/_postal|postal]] [[s/_station|station]].**
 ---
 #verb
 - **To travel with [[r/_relays|relays]] of [[h/_horses|horses]]; to travel by [[p/_post|post]] [[h/_horses|horses]], [[o/_originally|originally]] as a [[c/_courier|courier]].**
@@ -48,12 +48,12 @@
 	- _Example: I couldn't figure it out, so I posted a question on the mailing list._
 ---
 #noun
-- **An [[a/_assigned|assigned]] station; a [[g/_guard|guard]] [[p/_post|post]].**
+- **An [[a/_assigned|assigned]] [[s/_station|station]]; a [[g/_guard|guard]] [[p/_post|post]].**
 - **An [[a/_appointed|appointed]] [[p/_position|position]] in an [[o/_organization|organization]], [[j/_job|job]].**
 ---
 #verb
 - **To [[e/_enter|enter]] (a [[n/_name|name]]) on a [[l/_list|list]], as for [[s/_service|service]], [[p/_promotion|promotion]], [[e/_etc|etc]].**
-- **To [[a/_assign|assign]] to a station; to [[s/_set|set]]; to [[p/_place|place]].**
+- **To [[a/_assign|assign]] to a [[s/_station|station]]; to [[s/_set|set]]; to [[p/_place|place]].**
 	- _Example: Post a sentinel in front of the door._
 ---
 #noun

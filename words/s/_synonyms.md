@@ -1,7 +1,7 @@
 # Synonyms
 ---
 #noun
-- **(strictly) A word whose [[m/_meaning|meaning]] is the [[s/_same|same]] as that of [[a/_another|another]] word.**
+- **([[s/_strictly|strictly]]) A word whose [[m/_meaning|meaning]] is the [[s/_same|same]] as that of [[a/_another|another]] word.**
 - **A word or [[p/_phrase|phrase]] with a [[m/_meaning|meaning]] that is the [[s/_same|same]] as, or very [[s/_similar|similar]] to, [[a/_another|another]] word or [[p/_phrase|phrase]].**
 	- _Example: “Happy” is a synonym of “glad”._
 - **[[a/_any|Any]] of the [[f/_formal|formal]] [[n/_names|names]] for a taxon, [[i/_including|including]] the valid [[n/_name|name]] ([[i/_i|i]].[[e/_e|e]]. the [[s/_senior|senior]] [[s/_synonym|synonym]]).**

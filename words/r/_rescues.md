@@ -5,7 +5,7 @@
 - **A [[l/_liberation|liberation]], [[f/_freeing|freeing]].**
 - **The [[f/_forcible|forcible]] [[e/_ending|ending]] of a [[s/_siege|siege]]; [[l/_liberation|liberation]] from [[s/_similar|similar]] [[m/_military|military]] [[p/_peril|peril]]**
 	- _Example: The rescue of Jerusalem was the original motive of the Crusaders_
-- **A special [[a/_airliner|airliner]] [[f/_flight|flight]] to [[b/_bring|bring]] [[h/_home|home]] [[p/_passengers|passengers]] who are stranded**
+- **A [[s/_special|special]] [[a/_airliner|airliner]] [[f/_flight|flight]] to [[b/_bring|bring]] [[h/_home|home]] [[p/_passengers|passengers]] who are [[s/_stranded|stranded]]**
 - **A rescuee.**
 	- _Example: The dog was a rescue with some behavior issues._
 ---
@@ -16,7 +16,7 @@
 	- _Example: to rescue a prisoner from the enemy._
 - **To [[r/_recover|recover]] [[f/_forcibly|forcibly]].**
 - **To [[d/_deliver|deliver]] by [[a/_arms|arms]], [[n/_notably|notably]] from a [[s/_siege|siege]].**
-- **To [[r/_remove|remove]] or withdraw from a state of [[e/_exposure|exposure]] to [[e/_evil|evil]] and [[s/_sin|sin]].**
+- **To [[r/_remove|remove]] or withdraw from a [[s/_state|state]] of [[e/_exposure|exposure]] to [[e/_evil|evil]] and [[s/_sin|sin]].**
 	- _Example: Traditionally missionaries aim to rescue many ignorant heathen souls._
 - **To [[a/_achieve|achieve]] [[s/_something|something]] [[p/_positive|positive]] under [[d/_difficult|difficult]] [[c/_conditions|conditions]].**
 ---

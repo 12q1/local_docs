@@ -1,9 +1,9 @@
 # Foot
 ---
 #noun
-- **A [[b/_biological|biological]] structure [[f/_found|found]] in [[m/_many|many]] [[a/_animals|animals]] that is used for [[l/_locomotion|locomotion]] and that is [[f/_frequently|frequently]] a [[s/_separate|separate]] [[o/_organ|organ]] at the terminal [[p/_part|part]] of the [[l/_leg|leg]].**
+- **A [[b/_biological|biological]] [[s/_structure|structure]] [[f/_found|found]] in [[m/_many|many]] [[a/_animals|animals]] that is used for [[l/_locomotion|locomotion]] and that is [[f/_frequently|frequently]] a [[s/_separate|separate]] [[o/_organ|organ]] at the terminal [[p/_part|part]] of the [[l/_leg|leg]].**
 	- _Example: A spider has eight feet._
-- **Specifically, a [[h/_human|human]] [[f/_foot|foot]], which is [[f/_found|found]] [[b/_below|below]] the [[a/_ankle|ankle]] and is used for standing and walking.**
+- **[[s/_specifically|Specifically]], a [[h/_human|human]] [[f/_foot|foot]], which is [[f/_found|found]] [[b/_below|below]] the [[a/_ankle|ankle]] and is used for [[s/_standing|standing]] and walking.**
 	- _Example: Southern Italy is shaped like a foot._
 - **([[o/_often|often]] used [[a/_attributively|attributively]]) Travel by walking.**
 	- _Example: There is a lot of foot traffic on this street._
@@ -25,11 +25,11 @@
 - **The [[b/_bottommost|bottommost]] [[p/_part|part]] of a typed or [[p/_printed|printed]] [[p/_page|page]].**
 - **The [[b/_base|base]] of a [[p/_piece|piece]] of type, [[f/_forming|forming]] the [[s/_sides|sides]] of the [[g/_groove|groove]].**
 - **The [[b/_basic|basic]] [[m/_measure|measure]] of [[r/_rhythm|rhythm]] in a [[p/_poem|poem]].**
-- **The [[p/_parsing|parsing]] of [[s/_syllables|syllables]] [[i/_into|into]] [[p/_prosodic|prosodic]] [[c/_constituents|constituents]], which are used to [[d/_determine|determine]] the [[p/_placement|placement]] of stress in [[l/_languages|languages]] [[a/_along|along]] with the [[n/_notions|notions]] of [[c/_constituent|constituent]] [[h/_heads|heads]].**
+- **The [[p/_parsing|parsing]] of [[s/_syllables|syllables]] [[i/_into|into]] [[p/_prosodic|prosodic]] [[c/_constituents|constituents]], which are used to [[d/_determine|determine]] the [[p/_placement|placement]] of [[s/_stress|stress]] in [[l/_languages|languages]] [[a/_along|along]] with the [[n/_notions|notions]] of [[c/_constituent|constituent]] [[h/_heads|heads]].**
 - **The [[b/_bottom|bottom]] [[e/_edge|edge]] of a [[s/_sail|sail]].**
 	- _Example: To make the mainsail fuller in shape, the outhaul is eased to reduce the tension on the foot of the sail._
 - **The [[e/_end|end]] of a [[b/_billiard|billiard]] or [[p/_pool|pool]] table [[b/_behind|behind]] the [[f/_foot|foot]] [[p/_point|point]] where the [[b/_balls|balls]] are [[r/_racked|racked]].**
-- **In a [[b/_bryophyte|bryophyte]], that [[p/_portion|portion]] of a sporophyte which [[r/_remains|remains]] [[e/_embedded|embedded]] within and [[a/_attached|attached]] to the [[p/_parent|parent]] [[g/_gametophyte|gametophyte]] [[p/_plant|plant]].**
+- **In a [[b/_bryophyte|bryophyte]], that [[p/_portion|portion]] of a [[s/_sporophyte|sporophyte]] which [[r/_remains|remains]] [[e/_embedded|embedded]] within and [[a/_attached|attached]] to the [[p/_parent|parent]] [[g/_gametophyte|gametophyte]] [[p/_plant|plant]].**
 - **The [[m/_muscular|muscular]] [[p/_part|part]] of a [[b/_bivalve|bivalve]] [[m/_mollusc|mollusc]] or a [[g/_gastropod|gastropod]] by which it [[m/_moves|moves]] or [[h/_holds|holds]] [[i/_its|its]] [[p/_position|position]] on a surface.**
 - **The [[g/_globular|globular]] [[l/_lower|lower]] [[d/_domain|domain]] of a [[p/_protein|protein]].**
 - **The [[p/_point|point]] of [[i/_intersection|intersection]] of [[o/_one|one]] [[l/_line|line]] with [[a/_another|another]] that is [[p/_perpendicular|perpendicular]] to it.**
@@ -44,7 +44,7 @@
 - **To tread.**
 	- _Example: to foot the green_
 - **To [[s/_set|set]] on [[f/_foot|foot]]; to [[e/_establish|establish]]; to [[l/_land|land]].**
-- **To [[r/_renew|renew]] the [[f/_foot|foot]] of (a stocking, [[e/_etc|etc]].).**
+- **To [[r/_renew|renew]] the [[f/_foot|foot]] of (a [[s/_stocking|stocking]], [[e/_etc|etc]].).**
 - **To sum up, as the [[n/_numbers|numbers]] in a [[c/_column|column]]; [[s/_sometimes|sometimes]] with up.**
 	- _Example: to foot (or foot up) an account_
 ---

@@ -13,6 +13,6 @@
 - **To [[c/_cause|cause]] to turn [[b/_back|back]]; to [[r/_roll|roll]] or [[d/_drive|drive]] [[b/_back|back]]; to [[p/_put|put]] to [[f/_flight|flight]].**
 - **To be [[d/_disgusted|disgusted]], [[s/_shocked|shocked]], or [[g/_grossly|grossly]] [[o/_offended|offended]]; [[h/_hence|hence]], to [[f/_feel|feel]] [[n/_nausea|nausea]]; used with at.**
 	- _Example: The stomach revolts at such food; his nature revolts at cruelty._
-- **To turn [[a/_away|away]]; to [[a/_abandon|abandon]] or [[r/_reject|reject]] [[s/_something|something]]; specifically, to turn [[a/_away|away]], or [[s/_shrink|shrink]], with [[a/_abhorrence|abhorrence]].**
+- **To turn [[a/_away|away]]; to [[a/_abandon|abandon]] or [[r/_reject|reject]] [[s/_something|something]]; [[s/_specifically|specifically]], to turn [[a/_away|away]], or [[s/_shrink|shrink]], with [[a/_abhorrence|abhorrence]].**
 ---
 ---

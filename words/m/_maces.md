@@ -18,10 +18,10 @@
 - **An [[o/_old|old]] weight of 57.98 [[g/_grains|grains]].**
 ---
 #noun
-- **Tear [[g/_gas|gas]] or [[p/_pepper|pepper]] spray, [[e/_especially|especially]] for [[p/_personal|personal]] use.**
+- **Tear [[g/_gas|gas]] or [[p/_pepper|pepper]] [[s/_spray|spray]], [[e/_especially|especially]] for [[p/_personal|personal]] use.**
 ---
 #verb
-- **To spray in [[d/_defense|defense]] or [[a/_attack|attack]] with [[m/_mace|mace]] ([[p/_pepper|pepper]] spray or tear [[g/_gas|gas]]) using a [[h/_hand|hand]]-[[h/_held|held]] [[d/_device|device]].**
-- **To spray a [[s/_similar|similar]] [[n/_noxious|noxious]] [[c/_chemical|chemical]] in [[d/_defense|defense]] or [[a/_attack|attack]] using an [[a/_available|available]] [[h/_hand|hand]]-[[h/_held|held]] [[d/_device|device]] such as an [[a/_aerosol|aerosol]] spray [[c/_can|can]].**
+- **To [[s/_spray|spray]] in [[d/_defense|defense]] or [[a/_attack|attack]] with [[m/_mace|mace]] ([[p/_pepper|pepper]] [[s/_spray|spray]] or tear [[g/_gas|gas]]) using a [[h/_hand|hand]]-[[h/_held|held]] [[d/_device|device]].**
+- **To [[s/_spray|spray]] a [[s/_similar|similar]] [[n/_noxious|noxious]] [[c/_chemical|chemical]] in [[d/_defense|defense]] or [[a/_attack|attack]] using an [[a/_available|available]] [[h/_hand|hand]]-[[h/_held|held]] [[d/_device|device]] such as an [[a/_aerosol|aerosol]] [[s/_spray|spray]] [[c/_can|can]].**
 ---
 ---

@@ -8,7 +8,7 @@
 ### Synonyms
 - [[d/_deke|deke]], [[f/_feint|feint]]
 #verb
-- **To [[c/_cheat|cheat]]; to swindle; to steal; to [[r/_rob|rob]].**
+- **To [[c/_cheat|cheat]]; to swindle; to [[s/_steal|steal]]; to [[r/_rob|rob]].**
 - **To [[m/_modify|modify]] [[f/_fraudulently|fraudulently]], [[s/_so|so]] as to [[m/_make|make]] an [[o/_object|object]] [[a/_appear|appear]] [[b/_better|better]] or [[o/_other|other]] than it [[r/_really|really]] is**
 - **To [[m/_make|make]] a [[c/_counterfeit|counterfeit]], to [[c/_counterfeit|counterfeit]], to [[f/_forge|forge]], to [[f/_falsify|falsify]].**
 - **To [[m/_make|make]] a [[f/_false|false]] [[d/_display|display]] of, to [[a/_affect|affect]], to [[f/_feign|feign]], to [[s/_simulate|simulate]].**

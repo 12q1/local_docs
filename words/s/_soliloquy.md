@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] of a [[c/_character|character]] [[s/_speaking|speaking]] to themselves [[s/_so|so]] as to [[r/_reveal|reveal]] their thoughts to the [[a/_audience|audience]].**
 	- _Example: At the end of the second act the main villain gave a soliloquy detailing his plans to attack the protagonist._
-- **([[a/_authorship|authorship]]) A speech or written [[d/_discourse|discourse]] in this [[f/_form|form]].**
+- **([[a/_authorship|authorship]]) A [[s/_speech|speech]] or written [[d/_discourse|discourse]] in this [[f/_form|form]].**
 ---
 ### Synonyms
 - [[m/_monologue|monologue]]

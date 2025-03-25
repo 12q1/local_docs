@@ -5,7 +5,7 @@
 - **[[q/_quality|Quality]] of an [[i/_image|image]] that is unclear; a [[b/_blurred|blurred]] [[i/_image|image]].**
 - **The [[r/_random|random]] [[d/_data|data]] used in [[f/_fuzz|fuzz]] testing.**
 - **A [[d/_distorted|distorted]] [[s/_sound|sound]], [[e/_especially|especially]] from an [[e/_electric|electric]] [[g/_guitar|guitar]] or [[o/_other|other]] [[a/_amplified|amplified]] [[i/_instrument|instrument]].**
-- **A state of [[b/_befuddlement|befuddlement]].**
+- **A [[s/_state|state]] of [[b/_befuddlement|befuddlement]].**
 ---
 #verb
 - **To [[m/_make|make]] [[f/_fuzzy|fuzzy]].**

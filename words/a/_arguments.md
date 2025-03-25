@@ -1,7 +1,7 @@
 # Arguments
 ---
 #noun
-- **A [[f/_fact|fact]] or statement used to support a [[p/_proposition|proposition]]; a [[r/_reason|reason]].**
+- **A [[f/_fact|fact]] or [[s/_statement|statement]] used to support a [[p/_proposition|proposition]]; a [[r/_reason|reason]].**
 - **A verbal [[d/_dispute|dispute]]; a [[q/_quarrel|quarrel]].**
 - **A [[p/_process|process]] of [[r/_reasoning|reasoning]].**
 - **A [[s/_series|series]] of [[p/_propositions|propositions]] [[o/_organized|organized]] [[s/_so|so]] that the [[f/_final|final]] [[p/_proposition|proposition]] is a [[c/_conclusion|conclusion]] which is [[i/_intended|intended]] to [[f/_follow|follow]] [[l/_logically|logically]] from the [[p/_preceding|preceding]] [[p/_propositions|propositions]], which [[f/_function|function]] as [[p/_premises|premises]].**

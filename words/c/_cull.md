@@ -5,7 +5,7 @@
 - **An [[o/_organised|organised]] [[k/_killing|killing]] of [[s/_selected|selected]] [[a/_animals|animals]].**
 - **([[f/_farming|farming]]) An [[i/_individual|individual]] [[a/_animal|animal]] [[s/_selected|selected]] to be [[k/_killed|killed]], or [[i/_item|item]] of [[p/_produce|produce]] to be [[d/_discarded|discarded]].**
 - **([[s/_seafood|seafood]] [[i/_industry|industry]]) A [[l/_lobster|lobster]] [[h/_having|having]] [[o/_only|only]] [[o/_one|one]] [[c/_claw|claw]].**
-- **A [[p/_piece|piece]] unfit for [[i/_inclusion|inclusion]] within a [[l/_larger|larger]] [[g/_group|group]]; an [[i/_inferior|inferior]] specimen.**
+- **A [[p/_piece|piece]] unfit for [[i/_inclusion|inclusion]] within a [[l/_larger|larger]] [[g/_group|group]]; an [[i/_inferior|inferior]] [[s/_specimen|specimen]].**
 ---
 #verb
 - **To [[p/_pick|pick]] or take [[s/_someone|someone]] or [[s/_something|something]] (from a [[l/_larger|larger]] [[g/_group|group]]).**

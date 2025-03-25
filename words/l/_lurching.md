@@ -9,7 +9,7 @@
 #verb
 - **To [[l/_leave|leave]] [[s/_someone|someone]] in the [[l/_lurch|lurch]]; to [[c/_cheat|cheat]].**
 - **To [[r/_rob|rob]].**
-- **To [[e/_evade|evade]] by stooping; to [[l/_lurk|lurk]].**
+- **To [[e/_evade|evade]] by [[s/_stooping|stooping]]; to [[l/_lurk|lurk]].**
 ---
 #noun
 - **The [[a/_action|action]] of the verb to [[l/_lurch|lurch]]**

@@ -9,8 +9,8 @@
 	- _Example: We managed to ring 22 birds this morning._
 - **To surround or [[f/_fit|fit]] with a [[r/_ring|ring]], or as [[i/_if|if]] with a [[r/_ring|ring]].**
 	- _Example: to ring a pig’s snout_
-- **To [[r/_rise|rise]] in the [[a/_air|air]] spirally.**
-- **To steal and [[c/_change|change]] the [[i/_identity|identity]] of ([[c/_cars|cars]]) in [[o/_order|order]] to [[r/_resell|resell]] them.**
+- **To [[r/_rise|rise]] in the [[a/_air|air]] [[s/_spirally|spirally]].**
+- **To [[s/_steal|steal]] and [[c/_change|change]] the [[i/_identity|identity]] of ([[c/_cars|cars]]) in [[o/_order|order]] to [[r/_resell|resell]] them.**
 ---
 #adjective
 - **[[m/_marked|Marked]] with [[r/_rings|rings]], [[c/_circles|circles]] or [[l/_loops|loops]].**

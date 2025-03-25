@@ -1,7 +1,7 @@
 # Crudest
 ---
 #adjective
-- **In a [[n/_natural|natural]], untreated state.**
+- **In a [[n/_natural|natural]], untreated [[s/_state|state]].**
 	- _Example: crude oil_
 - **[[c/_characterized|Characterized]] by [[s/_simplicity|simplicity]], [[e/_especially|especially]] [[s/_something|something]] not [[c/_carefully|carefully]] or [[e/_expertly|expertly]] [[m/_made|made]].**
 	- _Example: a crude shelter_
@@ -10,7 +10,7 @@
 - **[[l/_lacking|Lacking]] tact or taste.**
 	- _Example: a crude remark_
 - **[[i/_immature|Immature]] or unripe.**
-- **([[g/_grammar|grammar]]) [[p/_pertaining|Pertaining]] to the uninflected stem of a word.**
+- **([[g/_grammar|grammar]]) [[p/_pertaining|Pertaining]] to the uninflected [[s/_stem|stem]] of a word.**
 ---
 ### Synonyms
 - [[r/_raw|raw]], [[b/_blunt|blunt]], [[i/_immature|immature]], [[u/_unripe|unripe]], [[o/_obvious|obvious]], [[p/_primitive|primitive]], [[r/_raw|raw]]

@@ -9,7 +9,7 @@
 - **A type of [[s/_shoulder|shoulder]] [[c/_cape|cape]] for women.**
 ---
 #adjective
-- **([[c/_chiefly|chiefly]] as postmodifier) [[d/_designating|Designating]] a territory in [[e/_england|England]] (and, [[l/_later|later]], [[o/_other|other]] [[c/_countries|countries]]) whose [[l/_lord|lord]] [[h/_had|had]] specific [[r/_royal|royal]] [[p/_privileges|privileges]], or [[d/_designating|designating]] a [[m/_modern|modern]] [[a/_administrative|administrative]] [[a/_area|area]] [[c/_corresponding|corresponding]] to such a territory.**
+- **([[c/_chiefly|chiefly]] as postmodifier) [[d/_designating|Designating]] a territory in [[e/_england|England]] (and, [[l/_later|later]], [[o/_other|other]] [[c/_countries|countries]]) whose [[l/_lord|lord]] [[h/_had|had]] [[s/_specific|specific]] [[r/_royal|royal]] [[p/_privileges|privileges]], or [[d/_designating|designating]] a [[m/_modern|modern]] [[a/_administrative|administrative]] [[a/_area|area]] [[c/_corresponding|corresponding]] to such a territory.**
 - **([[c/_chiefly|chiefly]] as postmodifier) [[d/_designating|Designating]] a [[r/_ruler|ruler]] or [[f/_feudal|feudal]] [[l/_lord|lord]] with [[d/_direct|direct]] [[p/_powers|powers]] [[h/_held|held]] from the [[s/_sovereign|sovereign]].**
 - **[[p/_pertaining|Pertaining]] to the [[e/_elector|Elector]] [[p/_palatine|Palatine]] or the [[g/_german|German]] [[p/_palatinate|Palatinate]] or [[i/_its|its]] [[p/_people|people]].**
 - **[[p/_pertaining|Pertaining]] to a [[p/_palace|palace]], [[p/_particularly|particularly]] for the [[e/_eastern|Eastern]] and Western [[r/_roman|Roman]] [[e/_emperors|emperors]]; [[p/_palatial|palatial]].**

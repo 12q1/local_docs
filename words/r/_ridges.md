@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[b/_back|back]] of [[a/_any|any]] [[a/_animal|animal]]; [[e/_especially|especially]] the upper or [[p/_projecting|projecting]] [[p/_part|part]] of the [[b/_back|back]] of a [[q/_quadruped|quadruped]].**
-- **[[a/_any|Any]] [[e/_extended|extended]] [[p/_protuberance|protuberance]]; a [[p/_projecting|projecting]] [[l/_line|line]] or strip.**
+- **[[a/_any|Any]] [[e/_extended|extended]] [[p/_protuberance|protuberance]]; a [[p/_projecting|projecting]] [[l/_line|line]] or [[s/_strip|strip]].**
 	- _Example: The plough threw up ridges of earth between the furrows._
 - **The [[l/_line|line]] [[a/_along|along]] which two [[s/_sloping|sloping]] surfaces [[m/_meet|meet]] which [[d/_diverge|diverge]] towards the [[g/_ground|ground]].**
 - **The [[h/_highest|highest]] [[p/_point|point]] on a [[r/_roof|roof]], [[r/_represented|represented]] by a [[h/_horizontal|horizontal]] [[l/_line|line]] where two [[r/_roof|roof]] [[a/_areas|areas]] [[i/_intersect|intersect]], [[r/_running|running]] the [[l/_length|length]] of the [[a/_area|area]].**

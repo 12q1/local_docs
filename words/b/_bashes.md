@@ -6,7 +6,7 @@
 - **An [[a/_attack|attack]] that [[c/_consists|consists]] of [[p/_placing|placing]] [[a/_all|all]] [[o/_one|one]]'[[s/_s|s]] weight [[i/_into|into]] a [[d/_downward|downward]] [[a/_attack|attack]] with [[o/_one|one]]'[[s/_s|s]] [[f/_fists|fists]].**
 ---
 #verb
-- **To strike [[h/_heavily|heavily]].**
+- **To [[s/_strike|strike]] [[h/_heavily|heavily]].**
 	- _Example: He bashed himself against the door._
 - **To [[c/_collide|collide]].**
 	- _Example: Don't bash into me with that shopping trolley._

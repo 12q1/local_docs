@@ -1,7 +1,7 @@
 # Flocculent
 ---
 #noun
-- **[[d/_diminutive|Diminutive]] of [[f/_flocculent|flocculent]] spiral [[g/_galaxy|galaxy]]**
+- **[[d/_diminutive|Diminutive]] of [[f/_flocculent|flocculent]] [[s/_spiral|spiral]] [[g/_galaxy|galaxy]]**
 ---
 ### Antonyms
 - 

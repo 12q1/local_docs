@@ -1,13 +1,13 @@
 # Fat
 ---
 #noun
-- **A specialized [[a/_animal|animal]] tissue with a [[h/_high|high]] [[o/_oil|oil]] [[c/_content|content]], used for [[l/_long|long]]-term storage of [[e/_energy|energy]].**
+- **A [[s/_specialized|specialized]] [[a/_animal|animal]] tissue with a [[h/_high|high]] [[o/_oil|oil]] [[c/_content|content]], used for [[l/_long|long]]-term [[s/_storage|storage]] of [[e/_energy|energy]].**
 - **A [[r/_refined|refined]] substance [[c/_chemically|chemically]] [[r/_resembling|resembling]] the [[o/_oils|oils]] in [[a/_animal|animal]] [[f/_fat|fat]].**
 - **That [[p/_part|part]] of an [[o/_organization|organization]] [[d/_deemed|deemed]] wasteful.**
 	- _Example: We need to trim the fat in this company_
 - **An [[e/_erection|erection]].**
 	- _Example: I saw Daniel crack a fat._
-- **A [[p/_poorly|poorly]] [[p/_played|played]] [[s/_shot|shot]] where the [[b/_ball|ball]] is struck by the top [[p/_part|part]] of the [[c/_club|club]] [[h/_head|head]]. ([[s/_see|see]] [[a/_also|also]] thin, [[s/_shank|shank]], toe)**
+- **A [[p/_poorly|poorly]] [[p/_played|played]] [[s/_shot|shot]] where the [[b/_ball|ball]] is [[s/_struck|struck]] by the top [[p/_part|part]] of the [[c/_club|club]] [[h/_head|head]]. ([[s/_see|see]] [[a/_also|also]] thin, [[s/_shank|shank]], toe)**
 - **The [[b/_best|best]] or [[r/_richest|richest]] [[p/_productions|productions]]; the [[b/_best|best]] [[p/_part|part]].**
 	- _Example: to live on the fat of the land_
 - **Work [[c/_containing|containing]] [[m/_much|much]] [[b/_blank|blank]], or [[i/_its|its]] [[e/_equivalent|equivalent]], and therefore [[p/_profitable|profitable]] to the [[c/_compositor|compositor]].**
@@ -28,7 +28,7 @@
 	- _Example: The fat wallets of the men from the city brought joy to the peddlers._
 - **[[b/_bountiful|Bountiful]].**
 - **[[o/_oily|Oily]]; [[g/_greasy|greasy]]; unctuous; [[r/_rich|rich]] ([[s/_said|said]] of [[f/_food|food]]).**
-- **[[e/_exhibiting|Exhibiting]] the [[q/_qualities|qualities]] of a [[f/_fat|fat]] [[a/_animal|animal]]; [[c/_coarse|coarse]]; [[h/_heavy|heavy]]; [[g/_gross|gross]]; [[d/_dull|dull]]; stupid.**
+- **[[e/_exhibiting|Exhibiting]] the [[q/_qualities|qualities]] of a [[f/_fat|fat]] [[a/_animal|animal]]; [[c/_coarse|coarse]]; [[h/_heavy|heavy]]; [[g/_gross|gross]]; [[d/_dull|dull]]; [[s/_stupid|stupid]].**
 - **[[f/_fertile|Fertile]]; [[p/_productive|productive]].**
 	- _Example: a fat soil;  a fat pasture_
 - **[[r/_rich|Rich]]; [[p/_producing|producing]] a [[l/_large|large]] [[i/_income|income]]; [[d/_desirable|desirable]].**

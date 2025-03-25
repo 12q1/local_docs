@@ -3,7 +3,7 @@
 #adjective
 - **[[c/_conforming|Conforming]] to the [[a/_accepted|accepted]], [[e/_established|established]], or traditional [[d/_doctrines|doctrines]] of a [[g/_given|given]] [[f/_faith|faith]], [[r/_religion|religion]], or [[i/_ideology|ideology]].**
 - **[[a/_adhering|Adhering]] to whatever is [[c/_customary|customary]], traditional, or [[g/_generally|generally]] [[a/_accepted|accepted]].**
-- **Of [[p/_pollen|pollen]], [[s/_seed|seed]], or spores: viable for a [[l/_long|long]] time; viable when [[d/_dried|dried]] to [[l/_low|low]] [[m/_moisture|moisture]] [[c/_content|content]].**
+- **Of [[p/_pollen|pollen]], [[s/_seed|seed]], or [[s/_spores|spores]]: viable for a [[l/_long|long]] time; viable when [[d/_dried|dried]] to [[l/_low|low]] [[m/_moisture|moisture]] [[c/_content|content]].**
 ---
 ### Synonyms
 - [[c/_conservative|conservative]], [[c/_conventional|conventional]]

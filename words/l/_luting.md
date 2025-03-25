@@ -7,6 +7,6 @@
 - **To [[f/_fix|fix]] or [[f/_fasten|fasten]] [[s/_something|something]] with [[l/_lute|lute]].**
 ---
 #noun
-- **[[l/_lute|Lute]] (a [[k/_kind|kind]] of sticky [[c/_clay|clay]] or [[c/_cement|cement]])**
+- **[[l/_lute|Lute]] (a [[k/_kind|kind]] of [[s/_sticky|sticky]] [[c/_clay|clay]] or [[c/_cement|cement]])**
 ---
 ---

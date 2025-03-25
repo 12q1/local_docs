@@ -1,13 +1,13 @@
 # Dabble
 ---
 #noun
-- **A [[s/_spattering|spattering]] or sprinkling of a [[l/_liquid|liquid]].**
-- **An [[a/_act|act]] of splashing in [[s/_soft|soft]] [[m/_mud|mud]], water, [[e/_etc|etc]].**
+- **A [[s/_spattering|spattering]] or [[s/_sprinkling|sprinkling]] of a [[l/_liquid|liquid]].**
+- **An [[a/_act|act]] of [[s/_splashing|splashing]] in [[s/_soft|soft]] [[m/_mud|mud]], water, [[e/_etc|etc]].**
 - **An [[a/_act|act]] of [[p/_participation|participation]] in an [[a/_activity|activity]] in a [[c/_casual|casual]] or superficial way.**
 ---
 #verb
-- **To [[m/_make|make]] [[s/_slightly|slightly]] wet or [[s/_soiled|soiled]] by [[s/_spattering|spattering]] or sprinkling a [[l/_liquid|liquid]] (such as water, [[m/_mud|mud]], or [[p/_paint|paint]]) on it; to [[b/_bedabble|bedabble]].**
-- **To [[c/_cause|cause]] splashing by [[m/_moving|moving]] a [[b/_body|body]] [[p/_part|part]] [[l/_like|like]] a [[b/_bill|bill]] or [[l/_limb|limb]] in [[s/_soft|soft]] [[m/_mud|mud]], water, [[e/_etc|etc]]., [[o/_often|often]] [[p/_playfully|playfully]]; to [[p/_play|play]] in [[s/_shallow|shallow]] water; to [[p/_paddle|paddle]].**
+- **To [[m/_make|make]] [[s/_slightly|slightly]] wet or [[s/_soiled|soiled]] by [[s/_spattering|spattering]] or [[s/_sprinkling|sprinkling]] a [[l/_liquid|liquid]] (such as water, [[m/_mud|mud]], or [[p/_paint|paint]]) on it; to [[b/_bedabble|bedabble]].**
+- **To [[c/_cause|cause]] [[s/_splashing|splashing]] by [[m/_moving|moving]] a [[b/_body|body]] [[p/_part|part]] [[l/_like|like]] a [[b/_bill|bill]] or [[l/_limb|limb]] in [[s/_soft|soft]] [[m/_mud|mud]], water, [[e/_etc|etc]]., [[o/_often|often]] [[p/_playfully|playfully]]; to [[p/_play|play]] in [[s/_shallow|shallow]] water; to [[p/_paddle|paddle]].**
 	- _Example: The children sat on the dock and dabbled their feet in the water._
 - **To [[p/_participate|participate]] or [[h/_have|have]] an [[i/_interest|interest]] in an [[a/_activity|activity]] in a [[c/_casual|casual]] or superficial way.**
 	- _Example: She’s an actress by trade, but has been known to dabble in poetry._

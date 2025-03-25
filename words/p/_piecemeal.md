@@ -11,12 +11,12 @@
 ### Synonyms
 - [[a/_apportion|apportion]]
 #adjective
-- **[[m/_made|Made]] or [[d/_done|done]] in [[p/_pieces|pieces]] or [[o/_one|one]] stage at a time.**
+- **[[m/_made|Made]] or [[d/_done|done]] in [[p/_pieces|pieces]] or [[o/_one|one]] [[s/_stage|stage]] at a time.**
 ---
 ### Synonyms
 - [[s/_stepwise|stepwise]]
 #adverb
-- **[[p/_piece|Piece]] by [[p/_piece|piece]]; in [[s/_small|small]] [[a/_amounts|amounts]], stages, or [[d/_degrees|degrees]].**
+- **[[p/_piece|Piece]] by [[p/_piece|piece]]; in [[s/_small|small]] [[a/_amounts|amounts]], [[s/_stages|stages]], or [[d/_degrees|degrees]].**
 - **[[i/_into|Into]] [[p/_pieces|pieces]] or [[p/_parts|parts]].**
 ---
 ### Synonyms

@@ -14,7 +14,7 @@
 - [[b/_backslash|backslash]]
 #verb
 - **To [[c/_cut|cut]] or [[a/_attempt|attempt]] to [[c/_cut|cut]], [[p/_particularly|particularly]]:**
-- **To strike violently and [[r/_randomly|randomly]], [[p/_particularly|particularly]]:**
+- **To [[s/_strike|strike]] violently and [[r/_randomly|randomly]], [[p/_particularly|particularly]]:**
 - **To [[m/_move|move]] [[q/_quickly|quickly]] and violently.**
 - **To [[c/_crack|crack]] a whip with a [[s/_slashing|slashing]] [[m/_motion|motion]].**
 - **To [[c/_clear|clear]] [[l/_land|land]], ([[p/_particularly|particularly]] [[f/_forestry|forestry]]) with violent [[a/_action|action]] such as [[l/_logging|logging]] or [[b/_brushfires|brushfires]] or through [[g/_grazing|grazing]].**

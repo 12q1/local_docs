@@ -8,6 +8,6 @@
 - **To [[k/_kid|kid]]; to [[h/_hoax|hoax]] or tease.**
 ---
 #adjective
-- **[[a/_alternative|Alternative]] spelling of [[k/_kiddie|kiddie]]**
+- **[[a/_alternative|Alternative]] [[s/_spelling|spelling]] of [[k/_kiddie|kiddie]]**
 ---
 ---

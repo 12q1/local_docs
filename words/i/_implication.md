@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[i/_implicating|implicating]].**
-- **The state of [[b/_being|being]] [[i/_implicated|implicated]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[i/_implicated|implicated]].**
 - **(usually in the [[p/_plural|plural]]) A [[p/_possible|possible]] [[e/_effect|effect]] or [[r/_result|result]] of a [[d/_decision|decision]] or [[a/_action|action]].**
 	- _Example: There are serious implications for the environment of such reforms._
 - **An [[i/_implying|implying]], or that which is [[i/_implied|implied]], but not [[e/_expressed|expressed]]; an [[i/_inference|inference]], or [[s/_something|something]] which [[m/_may|may]] [[f/_fairly|fairly]] be understood, though not [[e/_expressed|expressed]] in words.**

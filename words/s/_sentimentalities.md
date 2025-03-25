@@ -1,6 +1,6 @@
 # Sentimentalities
 ---
 #noun
-- **An [[a/_act|act]] or state of [[b/_being|being]] [[s/_sentimental|sentimental]].**
+- **An [[a/_act|act]] or [[s/_state|state]] of [[b/_being|being]] [[s/_sentimental|sentimental]].**
 ---
 ---

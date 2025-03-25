@@ -1,9 +1,9 @@
 # Health
 ---
 #noun
-- **The state of [[b/_being|being]] [[f/_free|free]] from [[p/_physical|physical]] or [[p/_psychological|psychological]] [[d/_disease|disease]], [[i/_illness|illness]], or [[m/_malfunction|malfunction]]; wellness.**
+- **The [[s/_state|state]] of [[b/_being|being]] [[f/_free|free]] from [[p/_physical|physical]] or [[p/_psychological|psychological]] [[d/_disease|disease]], [[i/_illness|illness]], or [[m/_malfunction|malfunction]]; wellness.**
 	- _Example: Her mental health is really affected by stressful environments._
-- **A state of well-[[b/_being|being]] or [[b/_balance|balance]], [[o/_often|often]] [[p/_physical|physical]] but [[s/_sometimes|sometimes]] [[a/_also|also]] [[m/_mental|mental]] and [[s/_social|social]]; the [[o/_overall|overall]] [[l/_level|level]] of [[f/_function|function]] of an [[o/_organism|organism]] from the [[c/_cellular|cellular]] ([[m/_micro|micro]]) [[l/_level|level]] to the [[s/_social|social]] ([[m/_macro|macro]]) [[l/_level|level]].**
+- **A [[s/_state|state]] of well-[[b/_being|being]] or [[b/_balance|balance]], [[o/_often|often]] [[p/_physical|physical]] but [[s/_sometimes|sometimes]] [[a/_also|also]] [[m/_mental|mental]] and [[s/_social|social]]; the [[o/_overall|overall]] [[l/_level|level]] of [[f/_function|function]] of an [[o/_organism|organism]] from the [[c/_cellular|cellular]] ([[m/_micro|micro]]) [[l/_level|level]] to the [[s/_social|social]] ([[m/_macro|macro]]) [[l/_level|level]].**
 	- _Example: The directors are concerned about the financial health of the project._
 - **[[p/_physical|Physical]] [[c/_condition|condition]].**
 - **[[c/_cure|Cure]], [[r/_remedy|remedy]].**

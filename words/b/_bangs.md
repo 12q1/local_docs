@@ -3,7 +3,7 @@
 #noun
 - **A sudden [[p/_percussive|percussive]] [[n/_noise|noise]].**
 	- _Example: When he struck it with a hammer, there was a loud bang._
-- **A strike upon an [[o/_object|object]] [[c/_causing|causing]] such a [[n/_noise|noise]].**
+- **A [[s/_strike|strike]] upon an [[o/_object|object]] [[c/_causing|causing]] such a [[n/_noise|noise]].**
 - **An [[e/_explosion|explosion]].**
 - **The [[s/_symbol|symbol]] !, [[k/_known|known]] as an [[e/_exclamation|exclamation]] [[p/_point|point]].**
 	- _Example: An e-mail address with an ! is called a bang path._
@@ -14,7 +14,7 @@
 	- _Example: Load the bang into the hole._
 - **An [[i/_injection|injection]], a [[s/_shot|shot]] (of a [[n/_narcotic|narcotic]] [[d/_drug|drug]]).**
 - **([[b/_boston|Boston]] [[a/_area|area]]) An [[a/_abrupt|abrupt]] [[l/_left|left]] turn.**
-- **Strong [[s/_smell|smell]] (of)**
+- **[[s/_strong|Strong]] [[s/_smell|smell]] (of)**
 	- _Example: There was a bang of onions off his breath._
 - **A thrill.**
 ---
@@ -31,7 +31,7 @@
 	- _Example: We can hear the couple banging upstairs._
 - **(with "in") To [[h/_hammer|hammer]] or to [[h/_hit|hit]] [[a/_anything|anything]] [[h/_hard|hard]].**
 	- _Example: Hold the picture while I bang in this nail._
-- **To [[c/_cut|cut]] squarely [[a/_across|across]], as the tail of a [[h/_horse|horse]], or a [[p/_person|person]]'[[s/_s|s]] [[f/_forelock|forelock]]; to [[c/_cut|cut]] (the [[h/_hair|hair]]).**
+- **To [[c/_cut|cut]] [[s/_squarely|squarely]] [[a/_across|across]], as the tail of a [[h/_horse|horse]], or a [[p/_person|person]]'[[s/_s|s]] [[f/_forelock|forelock]]; to [[c/_cut|cut]] (the [[h/_hair|hair]]).**
 - **To [[i/_inject|inject]] [[i/_intravenously|intravenously]].**
 	- _Example: Do you smoke meth? No, I bang it._
 ---
@@ -39,7 +39,7 @@
 - [[n/_nail|nail]]
 #noun
 - **[[h/_hair|Hair]] [[h/_hanging|hanging]] [[o/_over|over]] the [[f/_forehead|forehead]].**
-- **A [[h/_hairstyle|hairstyle]] [[i/_including|including]] such [[h/_hair|hair]], [[e/_especially|especially]] [[c/_cut|cut]] straight [[a/_across|across]] the [[f/_forehead|forehead]].**
+- **A [[h/_hairstyle|hairstyle]] [[i/_including|including]] such [[h/_hair|hair]], [[e/_especially|especially]] [[c/_cut|cut]] [[s/_straight|straight]] [[a/_across|across]] the [[f/_forehead|forehead]].**
 ---
 ### Synonyms
 - [[b/_bang|bang]], [[f/_forelocks|forelocks]], [[f/_fringe|fringe]], [[b/_bang|bang]], [[f/_fringe|fringe]]

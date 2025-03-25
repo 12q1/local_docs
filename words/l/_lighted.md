@@ -1,7 +1,7 @@
 # Lighted
 ---
 #verb
-- **To start (a [[f/_fire|fire]]).**
+- **To [[s/_start|start]] (a [[f/_fire|fire]]).**
 	- _Example: We lit the fire to get some heat._
 - **To [[s/_set|set]] [[f/_fire|fire]] to; to [[s/_set|set]] [[b/_burning|burning]].**
 	- _Example: She lit her last match._
@@ -24,7 +24,7 @@
 #verb
 - **To [[f/_find|find]] by [[c/_chance|chance]].**
 	- _Example: I lit upon a rare book in a second-hand bookseller's._
-- **To stop upon (of [[e/_eyes|eyes]] or a [[g/_glance|glance]]); to [[n/_notice|notice]]**
+- **To [[s/_stop|stop]] upon (of [[e/_eyes|eyes]] or a [[g/_glance|glance]]); to [[n/_notice|notice]]**
 - **To [[a/_alight|alight]]; to [[l/_land|land]] or [[c/_come|come]] [[d/_down|down]].**
 	- _Example: She fell out of the window but luckily lit on her feet._
 ---

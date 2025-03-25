@@ -2,12 +2,12 @@
 ---
 #noun
 - **[[a/_any|Any]] [[a/_animal|animal]] [[b/_belonging|belonging]] to the Suidae [[f/_family|family]] of [[m/_mammals|mammals]], [[e/_especially|especially]] the [[p/_pig|pig]], the warthog, and the [[b/_boar|boar]].**
-- **(specifically) An [[a/_adult|adult]] swine ([[c/_contrasted|contrasted]] with a [[p/_pig|pig]], a [[y/_young|young]] swine).**
+- **([[s/_specifically|specifically]]) An [[a/_adult|adult]] swine ([[c/_contrasted|contrasted]] with a [[p/_pig|pig]], a [[y/_young|young]] swine).**
 - **A [[g/_greedy|greedy]] [[p/_person|person]]; [[o/_one|one]] who [[r/_refuses|refuses]] to [[s/_share|share]].**
 - **A [[l/_large|large]] [[m/_motorcycle|motorcycle]], [[p/_particularly|particularly]] a Harley-Davidson.**
 - **A [[y/_young|young]] [[s/_sheep|sheep]] that [[h/_has|has]] not [[b/_been|been]] [[s/_shorn|shorn]].**
 - **A [[r/_rough|rough]], [[f/_flat|flat]] [[s/_scrubbing|scrubbing]] [[b/_broom|broom]] for [[s/_scrubbing|scrubbing]] a [[s/_ship|ship]]'[[s/_s|s]] [[b/_bottom|bottom]] under water.**
-- **A [[d/_device|device]] for [[m/_mixing|mixing]] and stirring the [[p/_pulp|pulp]] from which [[p/_paper|paper]] is [[m/_made|made]].**
+- **A [[d/_device|device]] for [[m/_mixing|mixing]] and [[s/_stirring|stirring]] the [[p/_pulp|pulp]] from which [[p/_paper|paper]] is [[m/_made|made]].**
 - **A [[s/_shilling|shilling]] [[c/_coin|coin]]; [[i/_its|its]] value, 12 [[o/_old|old]] [[p/_pence|pence]].**
 - **A tanner, a [[s/_sixpence|sixpence]] [[c/_coin|coin]]; [[i/_its|its]] value.**
 - **A [[h/_half|half]]-[[c/_crown|crown]] [[c/_coin|coin]]; [[i/_its|its]] value, 30 [[o/_old|old]] [[p/_pence|pence]].**

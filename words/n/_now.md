@@ -3,7 +3,7 @@
 #noun
 - **The [[p/_present|present]] time.**
 	- _Example: Now is the right time._
-- **([[o/_often|often]] with "the") The state of not [[p/_paying|paying]] [[a/_attention|attention]] to the [[f/_future|future]] or the [[p/_past|past]].**
+- **([[o/_often|often]] with "the") The [[s/_state|state]] of not [[p/_paying|paying]] [[a/_attention|attention]] to the [[f/_future|future]] or the [[p/_past|past]].**
 	- _Example: She is living in the now._
 - **([[c/_chiefly|chiefly]] in [[p/_phenomenology|phenomenology]]) A [[p/_particular|particular]] [[i/_instant|instant]] in time, as [[p/_perceived|perceived]] at that [[i/_instant|instant]].**
 ---
@@ -23,7 +23,7 @@
 	- _Example: Now stop that, Jimmy!_
 - **[[d/_differently|Differently]] from the [[i/_immediate|immediate]] [[p/_past|past]]; [[d/_differently|differently]] from a [[m/_more|more]] [[r/_remote|remote]] [[p/_past|past]] or a [[p/_possible|possible]] [[f/_future|future]]; [[d/_differently|differently]] from [[a/_all|all]] [[o/_other|other]] times.**
 	- _Example: Now I am ready._
-- **[[d/_differently|Differently]] from the [[s/_situation|situation]] [[b/_before|before]] a stated [[e/_event|event]] or [[c/_change|change]] of [[c/_circumstance|circumstance]].**
+- **[[d/_differently|Differently]] from the [[s/_situation|situation]] [[b/_before|before]] a [[s/_stated|stated]] [[e/_event|event]] or [[c/_change|change]] of [[c/_circumstance|circumstance]].**
 	- _Example: Now all the children have grown up and left, the house is very quiet._
 - **At the time [[r/_reached|reached]] within a [[n/_narration|narration]].**
 	- _Example: He now asked her whether she had made pudding._

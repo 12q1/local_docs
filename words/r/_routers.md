@@ -11,7 +11,7 @@
 #noun
 - **A [[p/_power|power]] tool used in [[c/_carpentry|carpentry]] for [[c/_cutting|cutting]] [[g/_grooves|grooves]].**
 	- _Example: He made an attractive edge on the table with a router._
-- **A [[p/_plane|plane]] [[m/_made|made]] [[l/_like|like]] a spokeshave, for working the [[i/_inside|inside]] [[e/_edges|edges]] of [[c/_circular|circular]] [[s/_sashes|sashes]].**
+- **A [[p/_plane|plane]] [[m/_made|made]] [[l/_like|like]] a [[s/_spokeshave|spokeshave]], for working the [[i/_inside|inside]] [[e/_edges|edges]] of [[c/_circular|circular]] [[s/_sashes|sashes]].**
 - **A [[p/_plane|plane]] with a [[h/_hooked|hooked]] tool [[p/_protruding|protruding]] [[f/_far|far]] [[b/_below|below]] the [[s/_sole|sole]], for [[s/_smoothing|smoothing]] the [[b/_bottom|bottom]] of a [[c/_cavity|cavity]].**
 ---
 #verb

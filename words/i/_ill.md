@@ -15,7 +15,7 @@
 - **[[m/_morally|Morally]] [[r/_reprehensible|reprehensible]] (of [[b/_behaviour|behaviour]] [[e/_etc|etc]].); [[b/_blameworthy|blameworthy]].**
 - **[[i/_indicative|Indicative]] of unkind or [[m/_malevolent|malevolent]] [[i/_intentions|intentions]]; [[h/_harsh|harsh]], [[c/_cruel|cruel]].**
 	- _Example: He suffered from ill treatment._
-- **Unpropitious, unkind, [[f/_faulty|faulty]], not up to [[r/_reasonable|reasonable]] standard.**
+- **Unpropitious, unkind, [[f/_faulty|faulty]], not up to [[r/_reasonable|reasonable]] [[s/_standard|standard]].**
 	- _Example: ill manners; ill will_
 - **Unwell in terms of [[h/_health|health]] or [[p/_physical|physical]] [[c/_condition|condition]]; [[s/_sick|sick]].**
 	- _Example: I've been ill with the flu for the past few days._

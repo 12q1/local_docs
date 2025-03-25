@@ -1,7 +1,7 @@
 # Invisibility
 ---
 #noun
-- **The state of [[b/_being|being]] [[i/_invisible|invisible]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[i/_invisible|invisible]].**
 - **That which is [[i/_invisible|invisible]].**
 ---
 ### Synonyms

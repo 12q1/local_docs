@@ -5,6 +5,6 @@
 	- _Example: This weekend, let's find some romantic hideaway on the coast._
 ---
 #adjective
-- **[[c/_capable|Capable]] of [[b/_being|being]] stored [[o/_out|out]] of [[s/_sight|sight]] when not in use.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[s/_stored|stored]] [[o/_out|out]] of [[s/_sight|sight]] when not in use.**
 ---
 ---

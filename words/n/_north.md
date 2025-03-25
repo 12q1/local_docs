@@ -1,7 +1,7 @@
 # North
 ---
 #noun
-- **[[o/_one|One]] of the [[f/_four|four]] [[m/_major|major]] [[c/_compass|compass]] [[p/_points|points]], specifically 0°, [[d/_directed|directed]] toward the [[n/_north|North]] [[p/_pole|Pole]], and [[c/_conventionally|conventionally]] upwards on a [[m/_map|map]], [[a/_abbreviated|abbreviated]] as [[n/_n|N]].**
+- **[[o/_one|One]] of the [[f/_four|four]] [[m/_major|major]] [[c/_compass|compass]] [[p/_points|points]], [[s/_specifically|specifically]] 0°, [[d/_directed|directed]] toward the [[n/_north|North]] [[p/_pole|Pole]], and [[c/_conventionally|conventionally]] upwards on a [[m/_map|map]], [[a/_abbreviated|abbreviated]] as [[n/_n|N]].**
 	- _Example: Minnesota is in the north of the USA._
 - **The up or [[p/_positive|positive]] [[d/_direction|direction]].**
 	- _Example: Stock prices are heading north._

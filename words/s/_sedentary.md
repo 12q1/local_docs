@@ -4,7 +4,7 @@
 - **A [[s/_sedentary|sedentary]] [[p/_person|person]]**
 ---
 #adjective
-- **Not [[m/_moving|moving]]; [[r/_relatively|relatively]] still; staying in the vicinity.**
+- **Not [[m/_moving|moving]]; [[r/_relatively|relatively]] [[s/_still|still]]; [[s/_staying|staying]] in the vicinity.**
 	- _Example: The oyster is a sedentary mollusk; the barnacles are sedentary crustaceans._
 - **(of a [[h/_human|human]] [[p/_population|population]]) [[l/_living|Living]] in a [[f/_fixed|fixed]] [[g/_geographical|geographical]] [[l/_location|location]]; the [[o/_opposite|opposite]] of [[n/_nomadic|nomadic]].**
 - **(of a [[j/_job|job]], [[l/_lifestyle|lifestyle]], [[e/_etc|etc]].) Not [[m/_moving|moving]] [[m/_much|much]]; [[s/_sitting|sitting]] [[a/_around|around]].**

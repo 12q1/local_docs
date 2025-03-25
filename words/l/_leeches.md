@@ -26,7 +26,7 @@
 ### Synonyms
 - [[c/_cure|cure]], [[h/_heal|heal]], [[t/_treat|treat]]
 #noun
-- **The vertical [[e/_edge|edge]] of a square [[s/_sail|sail]].**
+- **The vertical [[e/_edge|edge]] of a [[s/_square|square]] [[s/_sail|sail]].**
 - **The [[a/_aft|aft]] [[e/_edge|edge]] of a triangular [[s/_sail|sail]].**
 ---
 ---

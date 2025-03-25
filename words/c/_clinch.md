@@ -7,7 +7,7 @@
 - **A [[p/_pun|pun]].**
 - **A [[h/_hitch|hitch]] or [[b/_bend|bend]] by which a [[r/_rope|rope]] is [[m/_made|made]] [[f/_fast|fast]] to the [[r/_ring|ring]] of an [[a/_anchor|anchor]], or the [[b/_breeching|breeching]] of a [[s/_ship|ship]]'[[s/_s|s]] [[g/_gun|gun]] to the [[r/_ringbolts|ringbolts]].**
 - **A [[p/_passionate|passionate]] [[e/_embrace|embrace]].**
-- **In [[c/_combat|combat]] sports, the [[a/_act|act]] of [[o/_one|one]] or [[b/_both|both]] [[f/_fighters|fighters]] [[h/_holding|holding]] [[o/_onto|onto]] the [[o/_other|other]] to [[p/_prevent|prevent]] [[b/_being|being]] [[h/_hit|hit]] or [[e/_engage|engage]] in standup [[g/_grappling|grappling]].**
+- **In [[c/_combat|combat]] [[s/_sports|sports]], the [[a/_act|act]] of [[o/_one|one]] or [[b/_both|both]] [[f/_fighters|fighters]] [[h/_holding|holding]] [[o/_onto|onto]] the [[o/_other|other]] to [[p/_prevent|prevent]] [[b/_being|being]] [[h/_hit|hit]] or [[e/_engage|engage]] in [[s/_standup|standup]] [[g/_grappling|grappling]].**
 ---
 #verb
 - **To [[c/_clasp|clasp]]; to [[i/_interlock|interlock]].**

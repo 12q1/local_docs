@@ -10,6 +10,6 @@
 	- _Example: The sound of the brass band resounded through the town._
 - **To be [[m/_much|much]] [[m/_mentioned|mentioned]].**
 - **To throw [[b/_back|back]], or [[r/_return|return]], the [[s/_sound|sound]] of; to [[e/_echo|echo]].**
-- **To [[p/_praise|praise]] or [[c/_celebrate|celebrate]] with the voice, or the [[s/_sound|sound]] of [[i/_instruments|instruments]]; to [[e/_extol|extol]] with [[s/_sounds|sounds]]; to spread the [[f/_fame|fame]] of.**
+- **To [[p/_praise|praise]] or [[c/_celebrate|celebrate]] with the voice, or the [[s/_sound|sound]] of [[i/_instruments|instruments]]; to [[e/_extol|extol]] with [[s/_sounds|sounds]]; to [[s/_spread|spread]] the [[f/_fame|fame]] of.**
 ---
 ---

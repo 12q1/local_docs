@@ -14,6 +14,6 @@
 ### Synonyms
 - [[r/_roll|roll]], [[w/_wad|wad]], [[b/_bonk|bonk]], [[f/_fuck|fuck]], [[l/_lay|lay]], [[s/_screw|screw]], [[s/_shag|shag]]
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[k/_kind|kind]] or [[n/_number|number]] of [[b/_balls|balls]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specified|specified]] [[k/_kind|kind]] or [[n/_number|number]] of [[b/_balls|balls]].**
 ---
 ---

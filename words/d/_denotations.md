@@ -7,6 +7,6 @@
 - **The [[i/_intension|intension]] and [[e/_extension|extension]] of a word**
 - **[[s/_something|Something]] [[s/_signified|signified]] or [[r/_referred|referred]] to; a [[p/_particular|particular]] [[m/_meaning|meaning]] of a [[s/_symbol|symbol]]**
 - **[[a/_any|Any]] [[m/_mathematical|mathematical]] [[o/_object|object]] which [[d/_describes|describes]] the [[m/_meanings|meanings]] of [[e/_expressions|expressions]] from the [[l/_languages|languages]], [[f/_formalized|formalized]] in the theory of [[d/_denotational|denotational]] [[s/_semantics|semantics]]**
-- **([[m/_media|media]] studies) A [[f/_first|first]] [[l/_level|level]] of [[a/_analysis|analysis]]: what the [[a/_audience|audience]] [[c/_can|can]] visually [[s/_see|see]] on a [[p/_page|page]]. [[d/_denotation|Denotation]] [[o/_often|often]] [[r/_refers|refers]] to [[s/_something|something]] [[l/_literal|literal]], and [[a/_avoids|avoids]] [[b/_being|being]] a [[m/_metaphor|metaphor]].**
+- **([[m/_media|media]] [[s/_studies|studies]]) A [[f/_first|first]] [[l/_level|level]] of [[a/_analysis|analysis]]: what the [[a/_audience|audience]] [[c/_can|can]] visually [[s/_see|see]] on a [[p/_page|page]]. [[d/_denotation|Denotation]] [[o/_often|often]] [[r/_refers|refers]] to [[s/_something|something]] [[l/_literal|literal]], and [[a/_avoids|avoids]] [[b/_being|being]] a [[m/_metaphor|metaphor]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Sneaks
 ---
 #noun
-- **[[o/_one|One]] who [[s/_sneaks|sneaks]]; [[o/_one|one]] who [[m/_moves|moves]] stealthily to [[a/_acquire|acquire]] an [[i/_item|item]] or [[i/_information|information]].**
+- **[[o/_one|One]] who [[s/_sneaks|sneaks]]; [[o/_one|one]] who [[m/_moves|moves]] [[s/_stealthily|stealthily]] to [[a/_acquire|acquire]] an [[i/_item|item]] or [[i/_information|information]].**
 	- _Example: My little brother is such a sneak; yesterday I caught him trying to look through my diary._
 - **A [[c/_cheat|cheat]]; a [[c/_con|con]] [[a/_artist|artist]].**
 	- _Example: I can't believe I gave that sneak $50 for a ticket when they were selling for $20 at the front gate._

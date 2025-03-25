@@ -17,13 +17,13 @@
 - **[[o/_one|One]] who is [[i/_intoxicated|intoxicated]] with [[a/_alcohol|alcohol]].**
 - **A [[h/_habitual|habitual]] [[d/_drinker|drinker]], [[e/_especially|especially]] [[o/_one|one]] who is [[f/_frequently|frequently]] [[i/_intoxicated|intoxicated]].**
 - **A [[d/_drinking|drinking]]-[[b/_bout|bout]]; a [[p/_period|period]] of [[d/_drunkenness|drunkenness]].**
-- **A [[d/_drunken|drunken]] state.**
+- **A [[d/_drunken|drunken]] [[s/_state|state]].**
 ---
 ### Synonyms
 - [[a/_alcoholic|alcoholic]], [[d/_drunkard|drunkard]], [[p/_pisshead|pisshead]], [[s/_sot|sot]]
 #adjective
 - **[[i/_intoxicated|Intoxicated]] as a [[r/_result|result]] of [[e/_excessive|excessive]] [[a/_alcohol|alcohol]] [[c/_consumption|consumption]], usually by [[d/_drinking|drinking]] [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]].**
-- **[[h/_habitually|Habitually]] or [[f/_frequently|frequently]] in a state of [[i/_intoxication|intoxication]].**
+- **[[h/_habitually|Habitually]] or [[f/_frequently|frequently]] in a [[s/_state|state]] of [[i/_intoxication|intoxication]].**
 - **(usually [[f/_followed|followed]] by with or on) [[e/_elated|Elated]] or [[e/_emboldened|emboldened]].**
 	- _Example: Drunk with power he immediately ordered a management reshuffle._
 - **[[d/_drenched|Drenched]] or [[s/_saturated|saturated]] with [[m/_moisture|moisture]] or [[l/_liquid|liquid]].**

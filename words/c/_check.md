@@ -4,7 +4,7 @@
 - **A [[s/_situation|situation]] in which the [[k/_king|king]] is [[d/_directly|directly]] threatened by an [[o/_opposing|opposing]] [[p/_piece|piece]].**
 - **An [[i/_inspection|inspection]] or [[e/_examination|examination]].**
 	- _Example: I don't know if she will be there, but it's worth a check._
-- **A [[c/_control|control]]; a [[l/_limit|limit]] or stop.**
+- **A [[c/_control|control]]; a [[l/_limit|limit]] or [[s/_stop|stop]].**
 	- _Example: The castle moat should hold the enemy in check._
 - **A [[m/_mark|mark]] ([[e/_especially|especially]] a [[c/_checkmark|checkmark]]: ✓) used as an [[i/_indicator|indicator]].**
 	- _Example: Place a check by the things you have done._

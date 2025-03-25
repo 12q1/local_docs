@@ -20,7 +20,7 @@
 - **[[n/_next|Next]] to the [[d/_driver|driver]], when [[h/_he|he]] is on [[f/_foot|foot]]; on the [[l/_left|left]] of an [[a/_animal|animal]] or a team.**
 	- _Example: the near ox; the near leg_
 - **[[i/_immediate|Immediate]]; [[d/_direct|direct]]; [[c/_close|close]]; [[s/_short|short]].**
-- **Stingy; [[p/_parsimonious|parsimonious]].**
+- **[[s/_stingy|Stingy]]; [[p/_parsimonious|parsimonious]].**
 ---
 ### Synonyms
 - [[c/_close|close]]

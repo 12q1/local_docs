@@ -1,7 +1,7 @@
 # Gallops
 ---
 #noun
-- **The [[f/_fastest|fastest]] [[g/_gait|gait]] of a [[h/_horse|horse]], a two-[[b/_beat|beat]] stride [[d/_during|during]] which [[a/_all|all]] [[f/_four|four]] [[l/_legs|legs]] are [[o/_off|off]] the [[g/_ground|ground]] [[s/_simultaneously|simultaneously]].**
+- **The [[f/_fastest|fastest]] [[g/_gait|gait]] of a [[h/_horse|horse]], a two-[[b/_beat|beat]] [[s/_stride|stride]] [[d/_during|during]] which [[a/_all|all]] [[f/_four|four]] [[l/_legs|legs]] are [[o/_off|off]] the [[g/_ground|ground]] [[s/_simultaneously|simultaneously]].**
 - **An [[a/_abnormal|abnormal]] [[r/_rhythm|rhythm]] of the [[h/_heart|heart]], [[m/_made|made]] up of three or [[f/_four|four]] [[s/_sounds|sounds]], [[l/_like|like]] a [[h/_horse|horse]]'[[s/_s|s]] [[g/_gallop|gallop]].**
 ---
 #verb

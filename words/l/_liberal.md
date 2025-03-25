@@ -7,7 +7,7 @@
 - **[[o/_one|One]] who [[f/_favors|favors]] [[i/_individual|individual]] voting [[r/_rights|rights]], [[h/_human|human]] and [[c/_civil|civil]] [[r/_rights|rights]], and [[l/_laissez|laissez]]-[[f/_faire|faire]] [[m/_markets|markets]] ([[a/_also|also]] [[c/_called|called]] "[[c/_classical|classical]] [[l/_liberal|liberal]]"; [[c/_compare|compare]] [[l/_libertarian|libertarian]]).**
 ---
 #adjective
-- **([[n/_now|now]] [[r/_rare|rare]] [[o/_outside|outside]] [[s/_set|set]] [[p/_phrases|phrases]]) [[p/_pertaining|Pertaining]] to those [[a/_arts|arts]] and [[s/_sciences|sciences]] the study of which is [[c/_considered|considered]] to [[p/_provide|provide]] [[g/_general|general]] [[k/_knowledge|knowledge]], as [[o/_opposed|opposed]] to vocational/[[o/_occupational|occupational]], technical or [[m/_mechanical|mechanical]] training.**
+- **([[n/_now|now]] [[r/_rare|rare]] [[o/_outside|outside]] [[s/_set|set]] [[p/_phrases|phrases]]) [[p/_pertaining|Pertaining]] to those [[a/_arts|arts]] and [[s/_sciences|sciences]] the [[s/_study|study]] of which is [[c/_considered|considered]] to [[p/_provide|provide]] [[g/_general|general]] [[k/_knowledge|knowledge]], as [[o/_opposed|opposed]] to vocational/[[o/_occupational|occupational]], technical or [[m/_mechanical|mechanical]] training.**
 	- _Example: 1983, David Leslie Wagner, The Seven liberal arts in the Middle Ages_
 - **[[g/_generous|Generous]]; willing to [[g/_give|give]] unsparingly.**
 	- _Example: He was liberal with his compliments._

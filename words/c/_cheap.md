@@ -19,7 +19,7 @@
 - **Of [[l/_little|little]] worth.**
 - **(of an [[a/_action|action]] or tactic in a [[g/_game|game]] of [[s/_skill|skill]]) Underhand or unfair.**
 	- _Example: the cheap trick of hiding deadly lava under pushable blocks_
-- **Stingy; [[m/_mean|mean]]; [[e/_excessively|excessively]] [[f/_frugal|frugal]].**
+- **[[s/_stingy|Stingy]]; [[m/_mean|mean]]; [[e/_excessively|excessively]] [[f/_frugal|frugal]].**
 	- _Example: Insurance is expensive, but don't be so cheap that you risk losing your home because of a fire._
 - **Trading at a [[p/_price|price]] [[l/_level|level]] which is [[l/_low|low]] [[r/_relative|relative]] to [[h/_historical|historical]] trends, a [[s/_similar|similar]] [[a/_asset|asset]], or (for [[d/_derivatives|derivatives]]) a theoretical value.**
 ---

@@ -4,7 +4,7 @@
 - **A [[l/_large|large]] [[o/_omnivorous|omnivorous]] [[m/_mammal|mammal]], [[r/_related|related]] to the [[d/_dog|dog]] and [[r/_raccoon|raccoon]], [[h/_having|having]] [[s/_shaggy|shaggy]] [[h/_hair|hair]], a very [[s/_small|small]] tail, and [[f/_flat|flat]] [[f/_feet|feet]]; a [[m/_member|member]] of [[f/_family|family]] Ursidae.**
 - **A [[r/_rough|rough]], unmannerly, uncouth [[p/_person|person]].**
 - **An [[i/_investor|investor]] who [[s/_sells|sells]] [[c/_commodities|commodities]], [[s/_securities|securities]] or [[f/_futures|futures]] in [[a/_anticipation|anticipation]] of a [[f/_fall|fall]] in [[p/_prices|prices]].**
-- **A state [[p/_policeman|policeman]] ([[s/_short|short]] for [[s/_smokey|smokey]] [[b/_bear|bear]]).**
+- **A [[s/_state|state]] [[p/_policeman|policeman]] ([[s/_short|short]] for [[s/_smokey|smokey]] [[b/_bear|bear]]).**
 - **A [[l/_large|large]], [[h/_hairy|hairy]] [[m/_man|man]], [[e/_especially|especially]] [[o/_one|one]] who is [[h/_homosexual|homosexual]].**
 - **A [[p/_portable|portable]] [[p/_punching|punching]] [[m/_machine|machine]].**
 - **A [[b/_block|block]] [[c/_covered|covered]] with [[c/_coarse|coarse]] [[m/_matting|matting]], used to [[s/_scour|scour]] the [[d/_deck|deck]].**
@@ -25,7 +25,7 @@
 - **To support, [[k/_keep|keep]] up, or [[m/_maintain|maintain]].**
 - **To [[p/_press|press]] or [[i/_impinge|impinge]] upon.**
 - **To [[p/_produce|produce]], [[y/_yield|yield]], [[g/_give|give]] [[b/_birth|birth]] to.**
-- **([[o/_originally|originally]] [[n/_nautical|nautical]]) To be, or [[h/_head|head]], in a specific [[d/_direction|direction]] or [[a/_azimuth|azimuth]] (from [[s/_somewhere|somewhere]]).**
+- **([[o/_originally|originally]] [[n/_nautical|nautical]]) To be, or [[h/_head|head]], in a [[s/_specific|specific]] [[d/_direction|direction]] or [[a/_azimuth|azimuth]] (from [[s/_somewhere|somewhere]]).**
 	- _Example: By my readings, we're bearing due south, so we should turn about ten degrees east._
 - **To [[g/_gain|gain]] or win.**
 ---

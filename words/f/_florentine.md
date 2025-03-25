@@ -8,7 +8,7 @@
 ### Synonyms
 - [[F/_Florentine|Florentine]]
 #adjective
-- **[[c/_cooked|Cooked]] or [[s/_served|served]] with spinach.**
+- **[[c/_cooked|Cooked]] or [[s/_served|served]] with [[s/_spinach|spinach]].**
 	- _Example: Eggs florentine is on the menu._
 ---
 ---

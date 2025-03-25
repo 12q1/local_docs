@@ -7,7 +7,7 @@
 - **(by [[e/_extension|extension]]) A [[p/_position|position]] of [[i/_interest|interest]] or [[a/_advocacy|advocacy]].**
 - **An [[a/_attorney|attorney]]'[[s/_s|s]] [[l/_legal|legal]] [[a/_argument|argument]] in written [[f/_form|form]] for submission to a [[c/_court|court]].**
 - **([[e/_english|English]] [[l/_law|law]]) The [[m/_material|material]] [[r/_relevant|relevant]] to a [[c/_case|case]], [[d/_delivered|delivered]] by a [[s/_solicitor|solicitor]] to the [[b/_barrister|barrister]] who tries the [[c/_case|case]].**
-- **A [[s/_short|short]] [[n/_news|news]] story or [[r/_report|report]].**
+- **A [[s/_short|short]] [[n/_news|news]] [[s/_story|story]] or [[r/_report|report]].**
 	- _Example: We got a news brief._
 - **(usually in the [[p/_plural|plural]]) undershorts [[b/_briefs|briefs]].**
 	- _Example: I wear boxers under trousers but for sports I usually wear a brief._

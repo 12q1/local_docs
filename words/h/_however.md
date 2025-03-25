@@ -1,7 +1,7 @@
 # However
 ---
 #adverb
-- **[[n/_nevertheless|Nevertheless]]; [[y/_yet|yet]], still; in spite of (that).**
+- **[[n/_nevertheless|Nevertheless]]; [[y/_yet|yet]], [[s/_still|still]]; in [[s/_spite|spite]] of (that).**
 	- _Example: He told me not to do it. I, however, did it anyway. / I did it anyway, however. / (sometimes proscribed:) However, I did it anyway._
 - **([[d/_degree|degree]]) To whatever [[d/_degree|degree]] or [[e/_extent|extent]]**
 	- _Example: However clear you think you've been, many questions will remain._

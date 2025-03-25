@@ -11,7 +11,7 @@
 - **A [[g/_guitar|guitar]]**
 ---
 #noun
-- **An [[o/_opening|opening]] [[b/_between|between]] [[s/_sandbanks|sandbanks]]; a strait.**
+- **An [[o/_opening|opening]] [[b/_between|between]] [[s/_sandbanks|sandbanks]]; a [[s/_strait|strait]].**
 ---
 #noun
 - **A traditional [[k/_korean|Korean]] [[h/_hat|hat]] [[m/_made|made]] of [[h/_horsehair|horsehair]], [[o/_once|once]] worn by [[m/_married|married]] [[g/_gentlemen|gentlemen]].**

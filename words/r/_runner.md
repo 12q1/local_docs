@@ -14,7 +14,7 @@
 - **An [[e/_enclosure|enclosure]] for an [[a/_animal|animal]]; a track or [[p/_path|path]] [[a/_along|along]] which [[s/_something|something]] [[c/_can|can]] travel.**
 	- _Example: He set up a rabbit run._
 - **[[r/_rural|Rural]] [[l/_landholding|landholding]] for [[f/_farming|farming]], usually for [[r/_running|running]] [[s/_sheep|sheep]], and [[o/_operated|operated]] by a [[r/_runholder|runholder]].**
-- **State of [[b/_being|being]] [[c/_current|current]]; [[c/_currency|currency]]; [[p/_popularity|popularity]].**
+- **[[s/_state|State]] of [[b/_being|being]] [[c/_current|current]]; [[c/_currency|currency]]; [[p/_popularity|popularity]].**
 - **[[c/_continuous|Continuous]] or [[s/_sequential|sequential]]**
 - **A [[f/_flow|flow]] of [[l/_liquid|liquid]]; a [[l/_leak|leak]].**
 	- _Example: The constant run of water from the faucet annoys me._
@@ -27,12 +27,12 @@
 - **[[a/_any|Any]] sudden [[l/_large|large]] [[d/_demand|demand]] for [[s/_something|something]].**
 	- _Example: There was a run on Christmas presents._
 - **Various [[h/_horizontal|horizontal]] [[d/_dimensions|dimensions]] or surfaces**
-- **A standard or unexceptional [[g/_group|group]] or [[c/_category|category]].**
+- **A [[s/_standard|standard]] or unexceptional [[g/_group|group]] or [[c/_category|category]].**
 	- _Example: He stood out from the usual run of applicants._
-- **In sports**
-- **A [[l/_line|line]] of [[k/_knit|knit]] stitches that [[h/_have|have]] unravelled, [[p/_particularly|particularly]] in a [[n/_nylon|nylon]] stocking.**
+- **In [[s/_sports|sports]]**
+- **A [[l/_line|line]] of [[k/_knit|knit]] [[s/_stitches|stitches]] that [[h/_have|have]] unravelled, [[p/_particularly|particularly]] in a [[n/_nylon|nylon]] [[s/_stocking|stocking]].**
 	- _Example: I have a run in my stocking._
-- **The stern of the underwater [[b/_body|body]] of a [[s/_ship|ship]] from where it [[b/_begins|begins]] to [[c/_curve|curve]] upward and [[i/_inward|inward]].**
+- **The [[s/_stern|stern]] of the underwater [[b/_body|body]] of a [[s/_ship|ship]] from where it [[b/_begins|begins]] to [[c/_curve|curve]] upward and [[i/_inward|inward]].**
 - **The [[h/_horizontal|horizontal]] [[d/_distance|distance]] to which a [[d/_drift|drift]] [[m/_may|may]] be [[c/_carried|carried]], [[e/_either|either]] by [[l/_licence|licence]] of the [[p/_proprietor|proprietor]] of a [[m/_mine|mine]] or by the [[n/_nature|nature]] of the [[f/_formation|formation]]; [[a/_also|also]], the [[d/_direction|direction]] which a vein of [[o/_ore|ore]] or [[o/_other|other]] substance takes.**
 - **A [[p/_pair|pair]] or [[s/_set|set]] of [[m/_millstones|millstones]].**
 ---
@@ -45,23 +45,23 @@
 	- _Example: He did a runner after robbing the drugstore._
 - **A [[d/_deserter|deserter]].**
 - **A type of [[s/_soft|soft]]-[[s/_soled|soled]] [[s/_shoe|shoe]] [[o/_originally|originally]] [[i/_intended|intended]] for [[r/_runners|runners]].**
-- **[[p/_part|Part]] of a [[s/_shoe|shoe]] that is stitched to the [[b/_bottom|bottom]] of the upper [[s/_so|so]] it [[c/_can|can]] be [[g/_glued|glued]] to the [[s/_sole|sole]].**
+- **[[p/_part|Part]] of a [[s/_shoe|shoe]] that is [[s/_stitched|stitched]] to the [[b/_bottom|bottom]] of the upper [[s/_so|so]] it [[c/_can|can]] be [[g/_glued|glued]] to the [[s/_sole|sole]].**
 - **A [[p/_part|part]] of an [[a/_apparatus|apparatus]] that [[m/_moves|moves]] [[q/_quickly|quickly]].**
 	- _Example: After the cycle completes, the runner travels back quickly to be in place for the next cycle._
 - **A [[m/_mechanical|mechanical]] [[p/_part|part]] [[i/_intended|intended]] to [[g/_guide|guide]] or [[a/_aid|aid]] [[s/_something|something]] [[e/_else|else]] to [[m/_move|move]] (using wheels or [[s/_sliding|sliding]]).**
 - **An [[a/_automobile|automobile]]; a working or [[d/_driveable|driveable]] [[a/_automobile|automobile]].**
 	- _Example: Is that old Mercedes on the forecourt a runner? / No, it has no gearbox._
-- **A strip of [[f/_fabric|fabric]] used to [[d/_decorate|decorate]] or [[p/_protect|protect]] a table or [[d/_dressing|dressing]] table.**
+- **A [[s/_strip|strip]] of [[f/_fabric|fabric]] used to [[d/_decorate|decorate]] or [[p/_protect|protect]] a table or [[d/_dressing|dressing]] table.**
 	- _Example: The red runner makes the table so festive._
-- **A [[l/_long|long]], [[n/_narrow|narrow]] [[c/_carpet|carpet]] for a [[h/_high|high]] traffic [[a/_area|area]] such as a [[h/_hall|hall]] or stairs.**
+- **A [[l/_long|long]], [[n/_narrow|narrow]] [[c/_carpet|carpet]] for a [[h/_high|high]] traffic [[a/_area|area]] such as a [[h/_hall|hall]] or [[s/_stairs|stairs]].**
 	- _Example: How about we put down a clear runner in the front hall._
 - **A [[p/_part|part]] of a [[c/_cigarette|cigarette]] that is [[b/_burning|burning]] unevenly.**
-- **A [[l/_long|long]] stolon [[s/_sent|sent]] [[o/_out|out]] by a [[p/_plant|plant]] (such as strawberry), in [[o/_order|order]] to [[r/_root|root]] [[n/_new|new]] plantlets, or a [[p/_plant|plant]] that [[p/_propagates|propagates]] by using such [[r/_runners|runners]].**
+- **A [[l/_long|long]] [[s/_stolon|stolon]] [[s/_sent|sent]] [[o/_out|out]] by a [[p/_plant|plant]] (such as [[s/_strawberry|strawberry]]), in [[o/_order|order]] to [[r/_root|root]] [[n/_new|new]] plantlets, or a [[p/_plant|plant]] that [[p/_propagates|propagates]] by using such [[r/_runners|runners]].**
 - **A [[s/_short|short]] [[s/_sling|sling]] with a [[c/_carabiner|carabiner]] on [[e/_either|either]] [[e/_end|end]], used to [[l/_link|link]] the [[c/_climbing|climbing]] [[r/_rope|rope]] to a [[b/_bolt|bolt]] or [[o/_other|other]] [[p/_protection|protection]] such as a [[n/_nut|nut]] or [[f/_friend|friend]].**
 - **A [[c/_competitor|competitor]] in a [[p/_poker|poker]] tournament.**
 - **A [[r/_restaurant|restaurant]] [[e/_employee|employee]] [[r/_responsible|responsible]] for taking [[f/_food|food]] from the [[k/_kitchens|kitchens]] to the tables.**
 - **A [[l/_leaping|leaping]] [[f/_food|food]] [[f/_fish|fish]] (Elagatis pinnulatis) of [[f/_florida|Florida]] and the West [[i/_indies|Indies]]; the [[s/_skipjack|skipjack]], [[s/_shoemaker|shoemaker]], or [[y/_yellowtail|yellowtail]].**
-- **(sports [[s/_slang|slang]]) An [[e/_employee|employee]] of a sports [[a/_agent|agent]] who tries to [[r/_recruit|recruit]] [[p/_possible|possible]] [[p/_player|player]] [[c/_clients|clients]] for the [[a/_agent|agent]].**
+- **([[s/_sports|sports]] [[s/_slang|slang]]) An [[e/_employee|employee]] of a [[s/_sports|sports]] [[a/_agent|agent]] who tries to [[r/_recruit|recruit]] [[p/_possible|possible]] [[p/_player|player]] [[c/_clients|clients]] for the [[a/_agent|agent]].**
 - **A [[r/_rope|rope]] to [[i/_increase|increase]] the [[p/_power|power]] of a tackle.**
 - **A speedrunner.**
 - **An [[i/_idea|idea]] or [[p/_plan|plan]] that [[h/_has|has]] [[p/_potential|potential]] to be [[a/_adopted|adopted]] or [[p/_put|put]] [[i/_into|into]] [[o/_operation|operation]].**

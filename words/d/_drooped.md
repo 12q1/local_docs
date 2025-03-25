@@ -8,6 +8,6 @@
 - **To [[p/_proceed|proceed]] [[d/_downward|downward]], or toward a [[c/_close|close]]; to [[d/_decline|decline]].**
 ---
 #adjective
-- **[[l/_lacking|Lacking]] stiffness.**
+- **[[l/_lacking|Lacking]] [[s/_stiffness|stiffness]].**
 ---
 ---

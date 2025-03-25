@@ -15,7 +15,7 @@
 	- _Example: The movie was a critical success, but bombed at the box-office._
 - **Of a [[p/_patient|patient]] [[c/_condition|condition]] [[i/_involving|involving]] unstable vital [[s/_signs|signs]] and a [[p/_prognosis|prognosis]] that [[p/_predicts|predicts]] the [[c/_condition|condition]] [[c/_could|could]] worsen; or, a [[p/_patient|patient]] [[c/_condition|condition]] that [[r/_requires|requires]] urgent treatment in an [[i/_intensive|intensive]] [[c/_care|care]] or [[c/_critical|critical]] [[c/_care|care]] [[m/_medical|medical]] [[f/_facility|facility]].**
 	- _Example: The patient's condition is critical._
-- **[[l/_likely|Likely]] to [[g/_go|go]] [[o/_out|out]] of [[c/_control|control]] [[i/_if|if]] [[d/_disturbed|disturbed]], that is, [[o/_opposite|opposite]] of stable.**
+- **[[l/_likely|Likely]] to [[g/_go|go]] [[o/_out|out]] of [[c/_control|control]] [[i/_if|if]] [[d/_disturbed|disturbed]], that is, [[o/_opposite|opposite]] of [[s/_stable|stable]].**
 	- _Example: The political situation was so critical that the government declared the state of siege._
 - **Of the [[p/_point|point]] (in temperature, [[r/_reagent|reagent]] [[c/_concentration|concentration]] [[e/_etc|etc]].) where a [[n/_nuclear|nuclear]] or [[c/_chemical|chemical]] [[r/_reaction|reaction]] [[b/_becomes|becomes]] [[s/_self|self]]-sustaining.**
 	- _Example: The reaction was about to become critical._

@@ -9,15 +9,15 @@
 - **To turn or twist [[s/_something|something]] upwards or to [[o/_one|one]] [[s/_side|side]]; to [[l/_lift|lift]] or tilt ([[e/_e|e]].[[g/_g|g]]. [[h/_headwear|headwear]]) [[b/_boastfully|boastfully]].**
 	- _Example: He cocked his hat jauntily._
 - **To turn (the [[e/_eye|eye]]) [[o/_obliquely|obliquely]] and [[p/_partially|partially]] [[c/_close|close]] [[i/_its|its]] [[l/_lid|lid]], as an [[e/_expression|expression]] of [[d/_derision|derision]] or [[i/_insinuation|insinuation]].**
-- **To strut; to swagger; to [[l/_look|look]] [[b/_big|big]], [[p/_pert|pert]], or [[m/_menacing|menacing]].**
-- **To [[m/_make|make]] a [[n/_nestle|nestle]]-[[c/_cock|cock]] of, to [[p/_pamper|pamper]] or spoil (of [[c/_children|children]])**
+- **To [[s/_strut|strut]]; to swagger; to [[l/_look|look]] [[b/_big|big]], [[p/_pert|pert]], or [[m/_menacing|menacing]].**
+- **To [[m/_make|make]] a [[n/_nestle|nestle]]-[[c/_cock|cock]] of, to [[p/_pamper|pamper]] or [[s/_spoil|spoil]] (of [[c/_children|children]])**
 ---
 #verb
 - **To [[f/_form|form]] [[i/_into|into]] [[p/_piles|piles]].**
 ---
 #adjective
 - **[[d/_drunk|Drunk]]**
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[f/_form|form]] or [[p/_penis|penis]] or a specific [[n/_number|number]] of [[p/_penises|penises]]**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specified|specified]] [[f/_form|form]] or [[p/_penis|penis]] or a [[s/_specific|specific]] [[n/_number|number]] of [[p/_penises|penises]]**
 	- _Example: The large-cocked man entered the dressing room._
 ---
 ### Synonyms

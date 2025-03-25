@@ -5,7 +5,7 @@
 - **A [[r/_reduction|reduction]] of transparency of a [[c/_clear|clear]] [[g/_gas|gas]] or [[l/_liquid|liquid]].**
 - **An [[a/_analogous|analogous]] [[d/_dullness|dullness]] on a surface that is [[i/_ideally|ideally]] [[h/_highly|highly]] [[r/_reflective|reflective]] or transparent.**
 	- _Example: The furniture has a haze, possibly from some kind of wax._
-- **[[a/_any|Any]] state suggestive of [[h/_haze|haze]] in the [[a/_atmosphere|atmosphere]], such as [[m/_mental|mental]] [[c/_confusion|confusion]] or vagueness of [[m/_memory|memory]].**
+- **[[a/_any|Any]] [[s/_state|state]] suggestive of [[h/_haze|haze]] in the [[a/_atmosphere|atmosphere]], such as [[m/_mental|mental]] [[c/_confusion|confusion]] or vagueness of [[m/_memory|memory]].**
 - **([[p/_packaging|packaging]]) The [[d/_degree|degree]] of [[c/_cloudiness|cloudiness]] or turbidity in a [[c/_clear|clear]] [[g/_glass|glass]] or [[p/_plastic|plastic]], [[m/_measured|measured]] in [[p/_percent|percent]].**
 - **[[a/_any|Any]] substance [[c/_causing|causing]] turbidity in [[b/_beer|beer]] or wine.**
 ---

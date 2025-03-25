@@ -6,7 +6,7 @@
 - **The [[a/_act|act]] of [[s/_seeing|seeing]]; [[p/_perception|perception]] of [[o/_objects|objects]] by the [[e/_eye|eye]]; view.**
 	- _Example: to gain sight of land_
 - **[[s/_something|Something]] [[s/_seen|seen]].**
-- **[[s/_something|Something]] worth [[s/_seeing|seeing]]; a spectacle, [[e/_either|either]] [[g/_good|good]] or [[b/_bad|bad]].**
+- **[[s/_something|Something]] worth [[s/_seeing|seeing]]; a [[s/_spectacle|spectacle]], [[e/_either|either]] [[g/_good|good]] or [[b/_bad|bad]].**
 	- _Example: We went to London and saw all the sights – Buckingham Palace, Tower Bridge, and so on._
 - **A [[d/_device|device]] used in [[a/_aiming|aiming]] a [[p/_projectile|projectile]], through which the [[p/_person|person]] [[a/_aiming|aiming]] [[l/_looks|looks]] at the [[i/_intended|intended]] target.**
 - **A [[s/_small|small]] [[a/_aperture|aperture]] through which [[o/_objects|objects]] are to be [[s/_seen|seen]], and by which their [[d/_direction|direction]] is [[s/_settled|settled]] or [[a/_ascertained|ascertained]].**

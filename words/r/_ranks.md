@@ -15,7 +15,7 @@
 - **The [[d/_dimensionality|dimensionality]] of an [[a/_array|array]] or tensor.**
 - **The [[m/_maximum|maximum]] [[q/_quantity|quantity]] of [[d/_d|D]]-[[l/_linearly|linearly]] [[i/_independent|independent]] [[e/_elements|elements]] of a [[m/_module|module]] ([[o/_over|over]] an [[i/_integral|integral]] [[d/_domain|domain]] [[d/_d|D]]).**
 - **The [[s/_size|size]] of [[a/_any|any]] [[b/_basis|basis]] of a [[g/_given|given]] [[m/_matroid|matroid]].**
-- **[[o/_one|One]] of the [[e/_eight|eight]] [[h/_horizontal|horizontal]] [[l/_lines|lines]] of squares on a [[c/_chessboard|chessboard]] ([[i/_i|i]].[[e/_e|e]]., those [[i/_identified|identified]] by a [[n/_number|number]]). The [[a/_analog|analog]] vertical [[l/_lines|lines]] are the [[f/_files|files]].**
+- **[[o/_one|One]] of the [[e/_eight|eight]] [[h/_horizontal|horizontal]] [[l/_lines|lines]] of [[s/_squares|squares]] on a [[c/_chessboard|chessboard]] ([[i/_i|i]].[[e/_e|e]]., those [[i/_identified|identified]] by a [[n/_number|number]]). The [[a/_analog|analog]] vertical [[l/_lines|lines]] are the [[f/_files|files]].**
 - **(typically in the [[p/_plural|plural]]) A [[c/_category|category]] of [[p/_people|people]], such as those who [[s/_share|share]] an [[o/_occupation|occupation]].**
 ---
 #verb

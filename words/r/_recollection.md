@@ -7,7 +7,7 @@
 - **That which is [[r/_recollected|recollected]]; [[s/_something|something]] [[c/_called|called]] to [[m/_mind|mind]]; a [[r/_reminiscence|reminiscence]].**
 - **The [[a/_act|act]] or [[p/_practice|practice]] of [[c/_collecting|collecting]] or [[c/_concentrating|concentrating]] the [[m/_mind|mind]]; [[c/_concentration|concentration]]; [[s/_self|self]]-[[c/_control|control]].**
 	- _Example: From such an education Charles contracted habits of gravity and recollection._
-- **A spiritual [[r/_retreat|retreat]], [[e/_especially|especially]] [[o/_one|one]] that is [[s/_short|short]].**
+- **A [[s/_spiritual|spiritual]] [[r/_retreat|retreat]], [[e/_especially|especially]] [[o/_one|one]] that is [[s/_short|short]].**
 ---
 ### Synonyms
 - [[m/_memory|memory]], [[r/_remembrance|remembrance]], [[r/_remembrance|remembrance]], [[r/_reminiscence|reminiscence]], [[r/_reminiscence|reminiscence]]

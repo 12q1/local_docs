@@ -5,15 +5,15 @@
 	- _Example: The drivers were racing around the track._
 - **To [[c/_compete|compete]] [[a/_against|against]] in such a [[r/_race|race]].**
 	- _Example: I raced him to the car, but he was there first, so he got to ride shotgun._
-- **To [[m/_move|move]] or [[d/_drive|drive]] at [[h/_high|high]] speed; to [[h/_hurry|hurry]] or speed.**
+- **To [[m/_move|move]] or [[d/_drive|drive]] at [[h/_high|high]] [[s/_speed|speed]]; to [[h/_hurry|hurry]] or [[s/_speed|speed]].**
 	- _Example: As soon as it was time to go home, he raced for the door._
 - **Of a [[m/_motor|motor]], to [[r/_run|run]] [[r/_rapidly|rapidly]] when not [[e/_engaged|engaged]] to a transmission.**
 ---
 #verb
-- **To [[a/_assign|assign]] a [[r/_race|race]] to; to [[p/_perceive|perceive]] as [[h/_having|having]] a (usually specified) [[r/_race|race]].**
+- **To [[a/_assign|assign]] a [[r/_race|race]] to; to [[p/_perceive|perceive]] as [[h/_having|having]] a (usually [[s/_specified|specified]]) [[r/_race|race]].**
 ---
 #noun
-- **The sport of [[c/_competing|competing]] in [[r/_races|races]].**
+- **The [[s/_sport|sport]] of [[c/_competing|competing]] in [[r/_races|races]].**
 ---
 #verb
 - **To [[d/_demolish|demolish]]; to [[l/_level|level]] to the [[g/_ground|ground]].**

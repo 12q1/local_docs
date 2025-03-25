@@ -12,7 +12,7 @@
 - **To [[g/_go|go]] to (a [[p/_place|place]]) for [[s/_some|some]] [[p/_purpose|purpose]] (with at).**
 - **To be [[p/_present|present]] with; to [[a/_accompany|accompany]]; to be united or [[c/_consequent|consequent]] to.**
 	- _Example: a measure attended with ill effects_
-- **To wait for; to [[a/_await|await]]; to [[r/_remain|remain]], [[a/_abide|abide]], or be in store for.**
+- **To wait for; to [[a/_await|await]]; to [[r/_remain|remain]], [[a/_abide|abide]], or be in [[s/_store|store]] for.**
 ---
 ### Synonyms
 - [[n/_notice|notice]], [[b/_behear|behear]], [[h/_heed|heed]], [[m/_mark|mark]], [[n/_notice|notice]], [[b/_bestand|bestand]], [[s/_serve|serve]]

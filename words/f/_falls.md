@@ -4,11 +4,11 @@
 - **The [[a/_act|act]] of [[m/_moving|moving]] to a [[l/_lower|lower]] [[p/_position|position]] under the [[e/_effect|effect]] of [[g/_gravity|gravity]].**
 - **A [[r/_reduction|reduction]] in [[q/_quantity|quantity]], [[p/_pitch|pitch]], [[e/_etc|etc]].**
 - **The time of the [[y/_year|year]] when the [[l/_leaves|leaves]] typically [[f/_fall|fall]] from the trees; [[a/_autumn|autumn]]; the [[s/_season|season]] of the [[y/_year|year]] [[b/_between|between]] the [[a/_autumnal|autumnal]] [[e/_equinox|equinox]] and the winter [[s/_solstice|solstice]].**
-- **A [[l/_loss|loss]] of [[g/_greatness|greatness]] or status.**
+- **A [[l/_loss|loss]] of [[g/_greatness|greatness]] or [[s/_status|status]].**
 	- _Example: the fall of Rome_
 - **That which [[f/_falls|falls]] or [[c/_cascades|cascades]].**
 - **A [[c/_crucial|crucial]] [[e/_event|event]] or [[c/_circumstance|circumstance]].**
-- **A [[h/_hairpiece|hairpiece]] for women [[c/_consisting|consisting]] of [[l/_long|long]] strands of [[h/_hair|hair]] on a woven [[b/_backing|backing]], [[i/_intended|intended]] [[p/_primarily|primarily]] to [[c/_cover|cover]] [[h/_hair|hair]] [[l/_loss|loss]].**
+- **A [[h/_hairpiece|hairpiece]] for women [[c/_consisting|consisting]] of [[l/_long|long]] [[s/_strands|strands]] of [[h/_hair|hair]] on a woven [[b/_backing|backing]], [[i/_intended|intended]] [[p/_primarily|primarily]] to [[c/_cover|cover]] [[h/_hair|hair]] [[l/_loss|loss]].**
 - **[[b/_blame|Blame]] or [[p/_punishment|punishment]] for a [[f/_failure|failure]] or [[m/_misdeed|misdeed]].**
 	- _Example: He set up his rival to take the fall._
 - **The [[p/_part|part]] of the [[r/_rope|rope]] of a tackle to which the [[p/_power|power]] is [[a/_applied|applied]] in [[h/_hoisting|hoisting]] (usu. [[p/_plural|plural]]).**

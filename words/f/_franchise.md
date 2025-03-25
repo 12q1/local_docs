@@ -8,9 +8,9 @@
 	- _Example: McDonalds has exported its franchise._
 - **A [[b/_business|business]] [[o/_operating|operating]] under such [[a/_authorization|authorization]], a [[f/_franchisee|franchisee]].**
 - **A [[l/_legal|legal]] [[e/_exemption|exemption]] from [[j/_jurisdiction|jurisdiction]].**
-- **The [[m/_membership|membership]] of a [[c/_corporation|corporation]] or state; [[c/_citizenship|citizenship]].**
+- **The [[m/_membership|membership]] of a [[c/_corporation|corporation]] or [[s/_state|state]]; [[c/_citizenship|citizenship]].**
 - **The [[d/_district|district]] or [[j/_jurisdiction|jurisdiction]] to which a [[p/_particular|particular]] [[p/_privilege|privilege]] [[e/_extends|extends]]; the [[l/_limits|limits]] of an [[i/_immunity|immunity]]; [[h/_hence|hence]], an [[a/_asylum|asylum]] or [[s/_sanctuary|sanctuary]].**
-- **The [[c/_collection|collection]] of [[o/_organizations|organizations]] in the [[h/_history|history]] of a sports team; the tradition of a sports team as an [[e/_entity|entity]], [[e/_extending|extending]] [[b/_beyond|beyond]] the [[c/_contemporary|contemporary]] [[o/_organization|organization]].**
+- **The [[c/_collection|collection]] of [[o/_organizations|organizations]] in the [[h/_history|history]] of a [[s/_sports|sports]] team; the tradition of a [[s/_sports|sports]] team as an [[e/_entity|entity]], [[e/_extending|extending]] [[b/_beyond|beyond]] the [[c/_contemporary|contemporary]] [[o/_organization|organization]].**
 	- _Example: The Whalers' home city of Hartford was one of many for the franchise._
 - **The [[p/_positive|positive]] [[i/_influence|influence]] on the [[b/_buying|buying]] [[b/_behavior|behavior]] of [[c/_customers|customers]] [[e/_exerted|exerted]] by the [[r/_reputation|reputation]] of a [[c/_company|company]] or a [[b/_brand|brand]].**
 - **The [[l/_loose|loose]] [[c/_collection|collection]] of [[f/_fictional|fictional]] works [[p/_pertaining|pertaining]] to a [[p/_particular|particular]] universe, [[i/_including|including]] [[l/_literary|literary]], [[f/_film|film]] or television [[s/_series|series]] from various [[s/_sources|sources]].**

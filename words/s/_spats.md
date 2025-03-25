@@ -17,7 +17,7 @@
 - **An [[o/_obsolete|obsolete]] unit of [[d/_distance|distance]] in [[a/_astronomy|astronomy]] ([[s/_symbol|symbol]] [[s/_s|S]]), [[e/_equal|equal]] to [[o/_one|one]] [[b/_billion|billion]] kilometres.**
 ---
 #noun
-- **A stiff [[l/_legging|legging]] worn [[o/_over|over]] the [[i/_instep|instep]] and [[a/_ankles|ankles]] of a [[s/_shoe|shoe]].**
+- **A [[s/_stiff|stiff]] [[l/_legging|legging]] worn [[o/_over|over]] the [[i/_instep|instep]] and [[a/_ankles|ankles]] of a [[s/_shoe|shoe]].**
 - **A [[s/_similar|similar]] [[d/_device|device]] for [[h/_horses|horses]].**
 - **[[l/_long|Long]] [[h/_hair|hair]] on [[f/_front|front]] of [[l/_lower|lower]] [[l/_legs|legs]] of [[h/_heavier|heavier]] [[h/_horses|horses]] ([[o/_over|over]] the [[h/_hooves|hooves]]), [[e/_especially|especially]] [[d/_draft|draft]] [[h/_horses|horses]], [[n/_notably|notably]] the [[c/_clydesdale|Clydesdale]] [[b/_breed|breed]].**
 ---

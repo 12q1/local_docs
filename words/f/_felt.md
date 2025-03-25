@@ -1,7 +1,7 @@
 # Felt
 ---
 #noun
-- **A [[c/_cloth|cloth]] or stuff [[m/_made|made]] of [[m/_matted|matted]] [[f/_fibres|fibres]] of wool, or wool and [[f/_fur|fur]], [[f/_fulled|fulled]] or wrought [[i/_into|into]] a [[c/_compact|compact]] substance by [[r/_rolling|rolling]] and [[p/_pressure|pressure]], with [[l/_lees|lees]] or [[s/_size|size]], without spinning or weaving.**
+- **A [[c/_cloth|cloth]] or [[s/_stuff|stuff]] [[m/_made|made]] of [[m/_matted|matted]] [[f/_fibres|fibres]] of wool, or wool and [[f/_fur|fur]], [[f/_fulled|fulled]] or wrought [[i/_into|into]] a [[c/_compact|compact]] substance by [[r/_rolling|rolling]] and [[p/_pressure|pressure]], with [[l/_lees|lees]] or [[s/_size|size]], without [[s/_spinning|spinning]] or weaving.**
 - **A [[h/_hat|hat]] [[m/_made|made]] of [[f/_felt|felt]].**
 - **A [[s/_skin|skin]] or [[h/_hide|hide]]; a [[f/_fell|fell]]; a [[p/_pelt|pelt]].**
 ---

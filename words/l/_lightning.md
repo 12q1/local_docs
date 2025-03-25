@@ -6,12 +6,12 @@
 - **A [[d/_discharge|discharge]] of this [[k/_kind|kind]].**
 	- _Example: That tree was hit by lightning._
 - **[[a/_anything|Anything]] that [[m/_moves|moves]] very [[f/_fast|fast]].**
-- **The [[a/_act|act]] of [[m/_making|making]] [[b/_bright|bright]], or the state of [[b/_being|being]] [[m/_made|made]] [[b/_bright|bright]]; [[e/_enlightenment|enlightenment]]; [[b/_brightening|brightening]], as of the [[m/_mental|mental]] [[p/_powers|powers]].**
+- **The [[a/_act|act]] of [[m/_making|making]] [[b/_bright|bright]], or the [[s/_state|state]] of [[b/_being|being]] [[m/_made|made]] [[b/_bright|bright]]; [[e/_enlightenment|enlightenment]]; [[b/_brightening|brightening]], as of the [[m/_mental|mental]] [[p/_powers|powers]].**
 ---
 #verb
 - **To [[p/_produce|produce]] [[l/_lightning|lightning]].**
 ---
 #adjective
-- **[[e/_extremely|Extremely]] [[f/_fast|fast]] or sudden; [[m/_moving|moving]] (as [[i/_if|if]]) at the speed of [[l/_lightning|lightning]].**
+- **[[e/_extremely|Extremely]] [[f/_fast|fast]] or sudden; [[m/_moving|moving]] (as [[i/_if|if]]) at the [[s/_speed|speed]] of [[l/_lightning|lightning]].**
 ---
 ---

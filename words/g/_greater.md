@@ -16,11 +16,11 @@
 	- _Example: a great decision_
 - **([[a/_applied|applied]] to [[a/_actions|actions]], thoughts and [[f/_feelings|feelings]]) [[a/_arising|Arising]] from or [[p/_possessing|possessing]] [[i/_idealism|idealism]]; [[a/_admirable|admirable]]; superior; [[c/_commanding|commanding]]; [[h/_heroic|heroic]]; [[i/_illustrious|illustrious]]; [[e/_eminent|eminent]].**
 	- _Example: a great deed_
-- **[[i/_impressive|Impressive]] or striking.**
+- **[[i/_impressive|Impressive]] or [[s/_striking|striking]].**
 	- _Example: a great show of wealth_
 - **[[m/_much|Much]] in use; [[f/_favoured|favoured]].**
 	- _Example: Poetry was a great convention of the Romantic era._
-- **([[a/_applied|applied]] to [[p/_persons|persons]]) [[e/_endowed|Endowed]] with [[e/_extraordinary|extraordinary]] [[p/_powers|powers]]; of [[e/_exceptional|exceptional]] talents or [[a/_achievements|achievements]]; uncommonly [[g/_gifted|gifted]]; [[a/_able|able]] to [[a/_accomplish|accomplish]] vast [[r/_results|results]]; [[r/_remarkable|remarkable]]; strong; [[p/_powerful|powerful]]; [[m/_mighty|mighty]]; [[n/_noble|noble]].**
+- **([[a/_applied|applied]] to [[p/_persons|persons]]) [[e/_endowed|Endowed]] with [[e/_extraordinary|extraordinary]] [[p/_powers|powers]]; of [[e/_exceptional|exceptional]] talents or [[a/_achievements|achievements]]; uncommonly [[g/_gifted|gifted]]; [[a/_able|able]] to [[a/_accomplish|accomplish]] vast [[r/_results|results]]; [[r/_remarkable|remarkable]]; [[s/_strong|strong]]; [[p/_powerful|powerful]]; [[m/_mighty|mighty]]; [[n/_noble|noble]].**
 	- _Example: a great hero, scholar, genius, philosopher, writer etc._
 - **Title [[r/_referring|referring]] to an [[i/_important|important]] [[l/_leader|leader]].**
 	- _Example: Alexander the Great_

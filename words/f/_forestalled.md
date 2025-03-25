@@ -7,6 +7,6 @@
 - **To [[p/_purchase|purchase]] the [[c/_complete|complete]] supply of a [[g/_good|good]], [[p/_particularly|particularly]] [[f/_foodstuffs|foodstuffs]], in [[o/_order|order]] to [[c/_charge|charge]] a [[m/_monopoly|monopoly]] [[p/_price|price]].**
 - **To [[a/_anticipate|anticipate]], to [[a/_act|act]] [[f/_foreseeingly|foreseeingly]].**
 - **To [[d/_deprive|deprive]] (with of).**
-- **To [[o/_obstruct|obstruct]] or stop up, as a [[r/_road|road]]; to stop the [[p/_passage|passage]] of a [[h/_highway|highway]]; to [[i/_intercept|intercept]] on the [[r/_road|road]], as [[g/_goods|goods]] on the way to [[m/_market|market]].**
+- **To [[o/_obstruct|obstruct]] or [[s/_stop|stop]] up, as a [[r/_road|road]]; to [[s/_stop|stop]] the [[p/_passage|passage]] of a [[h/_highway|highway]]; to [[i/_intercept|intercept]] on the [[r/_road|road]], as [[g/_goods|goods]] on the way to [[m/_market|market]].**
 ---
 ---

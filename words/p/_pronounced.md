@@ -8,12 +8,12 @@
 - **To [[p/_pass|pass]] [[j/_judgment|judgment]].**
 	- _Example: The judge had pronounced often before, but never in front of such a crowd._
 - **To [[s/_sound|sound]] [[o/_out|out]] (a word or [[p/_phrase|phrase]]); to [[a/_articulate|articulate]].**
-- **To [[p/_produce|produce]] the [[c/_components|components]] of speech.**
+- **To [[p/_produce|produce]] the [[c/_components|components]] of [[s/_speech|speech]].**
 	- _Example: Actors must be able to pronounce perfectly or deliberately disabled._
 - **To [[r/_read|read]] [[a/_aloud|aloud]].**
 ---
 #adjective
 - **Uttered, [[a/_articulated|articulated]].**
-- **Strongly [[m/_marked|marked]].**
+- **[[s/_strongly|Strongly]] [[m/_marked|marked]].**
 ---
 ---

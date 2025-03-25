@@ -19,9 +19,9 @@
 	- _Example: Do you read me?_
 - **To [[o/_observe|observe]] and [[c/_comprehend|comprehend]] (a [[d/_displayed|displayed]] [[s/_signal|signal]])**
 	- _Example: A repeater signal may be used where the track geometry makes the main signal difficult to read from a distance._
-- **([[e/_except|except]] [[s/_scotland|Scotland]]) To [[m/_make|make]] a special study of, as by [[p/_perusing|perusing]] textbooks.**
+- **([[e/_except|except]] [[s/_scotland|Scotland]]) To [[m/_make|make]] a [[s/_special|special]] [[s/_study|study]] of, as by [[p/_perusing|perusing]] textbooks.**
 	- _Example: I am reading theology at university._
-- **To [[f/_fetch|fetch]] [[d/_data|data]] from (a storage [[m/_medium|medium]], [[e/_etc|etc]].).**
+- **To [[f/_fetch|fetch]] [[d/_data|data]] from (a [[s/_storage|storage]] [[m/_medium|medium]], [[e/_etc|etc]].).**
 	- _Example: to read a hard disk; to read a port; to read the keyboard_
 - **To think, [[b/_believe|believe]]; to [[c/_consider|consider]] (that).**
 - **To [[a/_advise|advise]]; to [[c/_counsel|counsel]]. [[s/_see|See]] [[r/_rede|rede]].**
@@ -46,7 +46,7 @@
 - **[[s/_something|Something]] to [[r/_read|read]]; [[r/_reading|reading]] [[m/_material|material]].**
 - **The [[e/_extent|extent]] of what [[o/_one|one]] [[h/_has|has]] [[r/_read|read]].**
 	- _Example: He's a man of good reading._
-- **([[l/_legislature|legislature]]) [[o/_one|One]] of [[s/_several|several]] stages a [[b/_bill|bill]] [[p/_passes|passes]] through [[b/_before|before]] [[b/_becoming|becoming]] [[l/_law|law]].**
+- **([[l/_legislature|legislature]]) [[o/_one|One]] of [[s/_several|several]] [[s/_stages|stages]] a [[b/_bill|bill]] [[p/_passes|passes]] through [[b/_before|before]] [[b/_becoming|becoming]] [[l/_law|law]].**
 - **A [[p/_piece|piece]] of [[l/_literature|literature]] or [[p/_passage|passage]] of [[s/_scripture|scripture]] [[r/_read|read]] [[a/_aloud|aloud]] to an [[a/_audience|audience]]: [[r/_readings|readings]] from the [[b/_bible|Bible]]**
 ---
 ---

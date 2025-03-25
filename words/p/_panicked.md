@@ -7,6 +7,6 @@
 - **(by [[e/_extension|extension]]) To [[c/_cause|cause]] the [[s/_system|system]] to [[c/_crash|crash]].**
 ---
 #adjective
-- **[[e/_experiencing|Experiencing]] or in a state of [[p/_panic|panic]].**
+- **[[e/_experiencing|Experiencing]] or in a [[s/_state|state]] of [[p/_panic|panic]].**
 ---
 ---

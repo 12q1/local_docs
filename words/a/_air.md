@@ -15,8 +15,8 @@
 - **[[n/_nothing|Nothing]]; [[a/_absence|absence]] of [[a/_anything|anything]].**
 - **An [[a/_air|air]] [[c/_conditioner|conditioner]] or the [[p/_processed|processed]] [[a/_air|air]] it [[p/_produces|produces]].**
 	- _Example: Could you turn on the air?_
-- **[[a/_any|Any]] specific [[g/_gas|gas]].**
-- **([[m/_motor|motor]] sports) A [[j/_jump|jump]] in which [[o/_one|one]] [[b/_becomes|becomes]] [[a/_airborne|airborne]].**
+- **[[a/_any|Any]] [[s/_specific|specific]] [[g/_gas|gas]].**
+- **([[m/_motor|motor]] [[s/_sports|sports]]) A [[j/_jump|jump]] in which [[o/_one|one]] [[b/_becomes|becomes]] [[a/_airborne|airborne]].**
 - **A television or [[r/_radio|radio]] [[s/_signal|signal]].**
 - **[[p/_publicity|Publicity]].**
 ---

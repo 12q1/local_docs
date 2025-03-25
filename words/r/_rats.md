@@ -7,7 +7,7 @@
 	- _Example: What a rat, leaving us stranded here!_
 - **An [[i/_informant|informant]] or [[s/_snitch|snitch]].**
 - **A [[s/_scab|scab]]: a worker who [[a/_acts|acts]] [[a/_against|against]] trade union [[p/_policies|policies]].**
-- **A [[p/_person|person]] who [[r/_routinely|routinely]] spends time at a [[p/_particular|particular]] [[l/_location|location]].**
+- **A [[p/_person|person]] who [[r/_routinely|routinely]] [[s/_spends|spends]] time at a [[p/_particular|particular]] [[l/_location|location]].**
 	- _Example: He loved hockey and was a devoted rink rat._
 - **A wad of [[s/_shed|shed]] [[h/_hair|hair]] used as [[p/_part|part]] of a [[h/_hairstyle|hairstyle]].**
 - **A [[r/_roll|roll]] of [[m/_material|material]] used to [[p/_puff|puff]] [[o/_out|out]] the [[h/_hair|hair]], which is turned [[o/_over|over]] it.**
@@ -27,7 +27,7 @@
 - [[b/_bewray|bewray]], [[f/_finger|finger]]
 #noun
 - **A [[s/_scratch|scratch]] or a [[s/_score|score]].**
-- **A [[p/_place|place]] in the [[s/_sea|sea]] with [[r/_rapid|rapid]] [[c/_currents|currents]] and [[c/_crags|crags]] where a [[s/_ship|ship]] is [[l/_likely|likely]] to be torn [[a/_apart|apart]] in stormy weather.**
+- **A [[p/_place|place]] in the [[s/_sea|sea]] with [[r/_rapid|rapid]] [[c/_currents|currents]] and [[c/_crags|crags]] where a [[s/_ship|ship]] is [[l/_likely|likely]] to be torn [[a/_apart|apart]] in [[s/_stormy|stormy]] weather.**
 ---
 #verb
 - **To [[s/_scratch|scratch]] or [[s/_score|score]].**

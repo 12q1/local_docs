@@ -5,9 +5,9 @@
 	- _Example: He used to be a major in the army._
 ---
 #noun
-- **The [[m/_main|main]] [[a/_area|area]] of study of a student working toward a [[d/_degree|degree]] at a [[c/_college|college]] or university.**
+- **The [[m/_main|main]] [[a/_area|area]] of [[s/_study|study]] of a [[s/_student|student]] working toward a [[d/_degree|degree]] at a [[c/_college|college]] or university.**
 	- _Example: Midway through his second year of college, he still hadn't chosen a major._
-- **A student at a [[c/_college|college]] or university [[c/_concentrating|concentrating]] on a [[g/_given|given]] [[a/_area|area]] of study.**
+- **A [[s/_student|student]] at a [[c/_college|college]] or university [[c/_concentrating|concentrating]] on a [[g/_given|given]] [[a/_area|area]] of [[s/_study|study]].**
 	- _Example: She is a math major._
 - **A [[p/_person|person]] of [[l/_legal|legal]] [[a/_age|age]].**
 - **The [[m/_major|major]] [[p/_premise|premise]].**

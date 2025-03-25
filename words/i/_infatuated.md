@@ -7,7 +7,7 @@
 #adjective
 - **[[f/_foolishly|Foolishly]] or unreasoningly [[a/_attracted|attracted]] to or in [[l/_love|love]] with ([[s/_someone|someone]])**
 - **[[e/_excessively|Excessively]] [[f/_fond|fond]] of or [[e/_enthusiastic|enthusiastic]] [[a/_about|about]] ([[s/_something|something]]).**
-- **[[f/_foolish|Foolish]], stupid, [[l/_lacking|lacking]] [[g/_good|good]] [[j/_judgement|judgement]] ([[o/_often|often]] as a [[r/_result|result]] of [[s/_some|some]] [[e/_external|external]] [[i/_influence|influence]]).**
+- **[[f/_foolish|Foolish]], [[s/_stupid|stupid]], [[l/_lacking|lacking]] [[g/_good|good]] [[j/_judgement|judgement]] ([[o/_often|often]] as a [[r/_result|result]] of [[s/_some|some]] [[e/_external|external]] [[i/_influence|influence]]).**
 ---
 ### Synonyms
 - [[s/_smitten|smitten]], [[t/_taken|taken]]

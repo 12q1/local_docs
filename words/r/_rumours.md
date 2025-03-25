@@ -1,7 +1,7 @@
 # Rumours
 ---
 #noun
-- **A statement or [[c/_claim|claim]] of [[q/_questionable|questionable]] [[a/_accuracy|accuracy]], from [[n/_no|no]] [[k/_known|known]] [[r/_reliable|reliable]] [[s/_source|source]], usually spread by word of [[m/_mouth|mouth]].**
+- **A [[s/_statement|statement]] or [[c/_claim|claim]] of [[q/_questionable|questionable]] [[a/_accuracy|accuracy]], from [[n/_no|no]] [[k/_known|known]] [[r/_reliable|reliable]] [[s/_source|source]], usually [[s/_spread|spread]] by word of [[m/_mouth|mouth]].**
 	- _Example: There's a rumor going round that he's going to get married._
 - **[[i/_information|Information]] or [[m/_misinformation|misinformation]] of the [[k/_kind|kind]] [[c/_contained|contained]] in such [[c/_claims|claims]].**
 	- _Example: They say he used to be a thief, but that's just rumor._

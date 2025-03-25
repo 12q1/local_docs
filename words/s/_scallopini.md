@@ -1,6 +1,6 @@
 # Scallopini
 ---
 #noun
-- **[[p/_pattypan|Pattypan]] squash.**
+- **[[p/_pattypan|Pattypan]] [[s/_squash|squash]].**
 ---
 ---

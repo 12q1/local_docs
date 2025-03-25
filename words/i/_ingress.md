@@ -11,7 +11,7 @@
 - [[e/_egress|egress]], [[e/_egress|egress]]
 #verb
 - **To [[i/_intrude|intrude]] or [[i/_insert|insert]] [[o/_oneself|oneself]]**
-- **To [[e/_enter|enter]] (a specified [[l/_location|location]] or [[a/_area|area]])**
+- **To [[e/_enter|enter]] (a [[s/_specified|specified]] [[l/_location|location]] or [[a/_area|area]])**
 - **(of a [[p/_planet|planet]]) To [[e/_enter|enter]] [[i/_into|into]] a zodiacal [[s/_sign|sign]]**
 - **To [[m/_manifest|manifest]] or [[c/_cause|cause]] to be [[m/_manifested|manifested]] in the temporal world; to [[e/_effect|effect]] [[i/_ingression|ingression]]**
 ---

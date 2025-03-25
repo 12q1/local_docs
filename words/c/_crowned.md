@@ -11,11 +11,11 @@
 - **To [[c/_cause|cause]] to [[r/_round|round]] upward; to [[m/_make|make]] [[a/_anything|anything]] [[h/_higher|higher]] at the [[m/_middle|middle]] than at the [[e/_edges|edges]], such as the [[f/_face|face]] of a [[m/_machine|machine]] [[p/_pulley|pulley]].**
 - **To [[h/_hit|hit]] on the [[h/_head|head]].**
 - **To [[s/_shoot|shoot]] an [[o/_opponent|opponent]] in the [[b/_back|back]] of the [[h/_head|head]] with a [[s/_shotgun|shotgun]] in a [[f/_first|first]]-[[p/_person|person]] [[s/_shooter|shooter]] video [[g/_game|game]].**
-- **In [[c/_checkers|checkers]], to stack two [[c/_checkers|checkers]] to [[i/_indicate|indicate]] that the [[p/_piece|piece]] [[h/_has|has]] [[b/_become|become]] a [[k/_king|king]].**
+- **In [[c/_checkers|checkers]], to [[s/_stack|stack]] two [[c/_checkers|checkers]] to [[i/_indicate|indicate]] that the [[p/_piece|piece]] [[h/_has|has]] [[b/_become|become]] a [[k/_king|king]].**
 	- _Example: “Crown me!” I said, as I moved my checker to the back row._
 - **To widen the [[o/_opening|opening]] of the [[b/_barrel|barrel]].**
 - **To [[e/_effect|effect]] a [[l/_lodgment|lodgment]] upon, as upon the [[c/_crest|crest]] of the [[g/_glacis|glacis]], or the summit of the [[b/_breach|breach]].**
-- **To [[l/_lay|lay]] the [[e/_ends|ends]] of the strands of (a [[k/_knot|knot]]) [[o/_over|over]] and under [[e/_each|each]] [[o/_other|other]].**
+- **To [[l/_lay|lay]] the [[e/_ends|ends]] of the [[s/_strands|strands]] of (a [[k/_knot|knot]]) [[o/_over|over]] and under [[e/_each|each]] [[o/_other|other]].**
 ---
 #adjective
 - **Wearing a [[c/_crown|crown]].**

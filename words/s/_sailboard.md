@@ -6,7 +6,7 @@
 ### Synonyms
 - 
 #verb
-- **To [[p/_practice|practice]] the sport of using a [[s/_sailboard|sailboard]].**
+- **To [[p/_practice|practice]] the [[s/_sport|sport]] of using a [[s/_sailboard|sailboard]].**
 	- _Example: We went sailboarding, but it's just as hard as it looks._
 ---
 ### Synonyms

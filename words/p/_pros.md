@@ -10,7 +10,7 @@
 ### Antonyms
 - [[a/_anti|anti]], [[c/_con|con]], [[d/_disadvantage|disadvantage]], [[d/_downside|downside]], [[m/_minus|minus]]
 #noun
-- **A [[p/_professional|professional]] sportsman.**
+- **A [[p/_professional|professional]] [[s/_sportsman|sportsman]].**
 - **[[p/_professional|Professional]].**
 	- _Example: When it comes to DIY, he's a real pro._
 ---

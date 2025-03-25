@@ -7,7 +7,7 @@
 - **To [[e/_engage|engage]] in [[p/_pyramid|pyramid]] trading.**
 ---
 #noun
-- **A strategy by which the trader [[g/_gradually|gradually]] [[a/_adds|adds]] to an [[e/_existing|existing]] trade or [[p/_position|position]] as the [[p/_price|price]] [[m/_moves|moves]] in the [[e/_expected|expected]] [[d/_direction|direction]].**
+- **A [[s/_strategy|strategy]] by which the trader [[g/_gradually|gradually]] [[a/_adds|adds]] to an [[e/_existing|existing]] trade or [[p/_position|position]] as the [[p/_price|price]] [[m/_moves|moves]] in the [[e/_expected|expected]] [[d/_direction|direction]].**
 ---
 ### Synonyms
 - [[p/_pyramiding|pyramiding]]

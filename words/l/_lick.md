@@ -1,30 +1,30 @@
 # Lick
 ---
 #noun
-- **The [[a/_act|act]] of [[l/_licking|licking]]; a stroke of the tongue.**
+- **The [[a/_act|act]] of [[l/_licking|licking]]; a [[s/_stroke|stroke]] of the tongue.**
 	- _Example: The cat gave its fur a lick._
 - **The [[a/_amount|amount]] of [[s/_some|some]] substance [[o/_obtainable|obtainable]] with a [[s/_single|single]] [[l/_lick|lick]].**
 	- _Example: Give me a lick of ice cream._
-- **A [[q/_quick|quick]] and [[c/_careless|careless]] [[a/_application|application]] of [[a/_anything|anything]], as [[i/_if|if]] by a stroke of the tongue.**
+- **A [[q/_quick|quick]] and [[c/_careless|careless]] [[a/_application|application]] of [[a/_anything|anything]], as [[i/_if|if]] by a [[s/_stroke|stroke]] of the tongue.**
 	- _Example: a lick of paint_
 - **A [[p/_place|place]] where [[a/_animals|animals]] [[l/_lick|lick]] [[m/_minerals|minerals]] from the [[g/_ground|ground]].**
 	- _Example: The birds gathered at the clay lick._
-- **A [[s/_small|small]] watercourse or [[e/_ephemeral|ephemeral]] stream. It [[r/_ranks|ranks]] [[b/_between|between]] a [[r/_rill|rill]] and a stream.**
+- **A [[s/_small|small]] watercourse or [[e/_ephemeral|ephemeral]] [[s/_stream|stream]]. It [[r/_ranks|ranks]] [[b/_between|between]] a [[r/_rill|rill]] and a [[s/_stream|stream]].**
 	- _Example: We used to play in the lick._
-- **A stroke or [[b/_blow|blow]].**
+- **A [[s/_stroke|stroke]] or [[b/_blow|blow]].**
 	- _Example: Hit that wedge a good lick with the sledgehammer._
 - **A [[s/_small|small]] [[a/_amount|amount]]; a whit.**
 	- _Example: I didn't do a lick of work today._
 - **An [[a/_attempt|attempt]] at [[s/_something|something]].**
 - **A [[s/_short|short]] [[m/_motif|motif]].**
 	- _Example: There are some really good blues licks in this solo._
-- **A [[r/_rate|rate]] of speed. ([[a/_always|Always]] [[q/_qualified|qualified]] by [[g/_good|good]], [[f/_fair|fair]], or a [[s/_similar|similar]] [[a/_adjective|adjective]].)**
+- **A [[r/_rate|rate]] of [[s/_speed|speed]]. ([[a/_always|Always]] [[q/_qualified|qualified]] by [[g/_good|good]], [[f/_fair|fair]], or a [[s/_similar|similar]] [[a/_adjective|adjective]].)**
 	- _Example: The bus was travelling at a good lick when it swerved and left the road._
 - **An [[a/_act|act]] of [[c/_cunnilingus|cunnilingus]].**
 	- _Example: You up for a lick tonight?_
 ---
 #verb
-- **To stroke with the tongue.**
+- **To [[s/_stroke|stroke]] with the tongue.**
 	- _Example: The cat licked its fur._
 - **To [[l/_lap|lap]]; to take in with the tongue.**
 	- _Example: She licked the last of the honey off the spoon before washing it._

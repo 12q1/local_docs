@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[m/_mixture|mixture]] of [[l/_lime|lime]] or [[c/_cement|cement]], [[s/_sand|sand]] and water used for [[b/_bonding|bonding]] [[b/_building|building]] [[b/_blocks|blocks]].**
-- **A [[m/_muzzle|muzzle]]-[[l/_loading|loading]], [[i/_indirect|indirect]] [[f/_fire|fire]] weapon with a tube [[l/_length|length]] of 10 to 20 [[c/_calibers|calibers]] and [[d/_designed|designed]] to [[l/_lob|lob]] [[s/_shells|shells]] at very steep trajectories.**
+- **A [[m/_muzzle|muzzle]]-[[l/_loading|loading]], [[i/_indirect|indirect]] [[f/_fire|fire]] weapon with a tube [[l/_length|length]] of 10 to 20 [[c/_calibers|calibers]] and [[d/_designed|designed]] to [[l/_lob|lob]] [[s/_shells|shells]] at very [[s/_steep|steep]] trajectories.**
 - **A [[h/_hollow|hollow]] vessel used to [[p/_pound|pound]], [[c/_crush|crush]], [[r/_rub|rub]], [[g/_grind|grind]] or [[m/_mix|mix]] [[i/_ingredients|ingredients]] with a [[p/_pestle|pestle]].**
 ---
 #verb

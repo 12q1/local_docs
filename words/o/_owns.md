@@ -8,7 +8,7 @@
 - **To [[d/_defeat|defeat]] or [[e/_embarrass|embarrass]]; to [[o/_overwhelm|overwhelm]].**
 	- _Example: I will own my enemies._
 - **To virtually or [[f/_figuratively|figuratively]] [[e/_enslave|enslave]].**
-- **To [[d/_defeat|defeat]], [[d/_dominate|dominate]], or be [[a/_above|above]], [[a/_also|also]] spelled pwn.**
+- **To [[d/_defeat|defeat]], [[d/_dominate|dominate]], or be [[a/_above|above]], [[a/_also|also]] [[s/_spelled|spelled]] pwn.**
 - **To [[i/_illicitly|illicitly]] [[o/_obtain|obtain]] superuser or [[r/_root|root]] [[a/_access|access]] to a [[c/_computer|computer]] [[s/_system|system]], thereby [[h/_having|having]] [[a/_access|access]] to [[a/_all|all]] of the user [[f/_files|files]] on that [[s/_system|system]]; pwn.**
 ---
 ### Synonyms

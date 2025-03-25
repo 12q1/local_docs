@@ -18,7 +18,7 @@
 	- _Example: She has a very deep contralto voice._
 - **(of a [[c/_color|color]]) [[h/_highly|Highly]] [[s/_saturated|saturated]].**
 	- _Example: That's a very deep shade of blue._
-- **([[s/_sleep|sleep]]) [[s/_sound|Sound]], [[h/_heavy|heavy]] ([[d/_describing|describing]] a state of [[s/_sleep|sleep]] from which [[o/_one|one]] is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
+- **([[s/_sleep|sleep]]) [[s/_sound|Sound]], [[h/_heavy|heavy]] ([[d/_describing|describing]] a [[s/_state|state]] of [[s/_sleep|sleep]] from which [[o/_one|one]] is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
 	- _Example: He was in a deep sleep._
 - **[[i/_immersed|Immersed]], submerged (in).**
 	- _Example: deep in debt_

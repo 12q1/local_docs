@@ -8,7 +8,7 @@
 - **A [[s/_short|short]] vein that [[c/_carries|carries]] [[b/_blood|blood]] [[i/_into|into]] the [[l/_liver|liver]].**
 - **A [[m/_magical|magical]] or technological [[d/_doorway|doorway]] [[l/_leading|leading]] to [[a/_another|another]] [[l/_location|location]], [[p/_period|period]] in time or [[d/_dimension|dimension]].**
 - **A [[l/_lesser|lesser]] [[g/_gate|gate]], where there are two of [[d/_different|different]] [[d/_dimensions|dimensions]].**
-- **[[f/_formerly|Formerly]], a [[s/_small|small]] square [[c/_corner|corner]] in a [[r/_room|room]] [[s/_separated|separated]] from the [[r/_rest|rest]] of an [[a/_apartment|apartment]] by wainscoting, [[f/_forming|forming]] a [[s/_short|short]] [[p/_passage|passage]] to [[a/_another|another]] [[a/_apartment|apartment]].**
+- **[[f/_formerly|Formerly]], a [[s/_small|small]] [[s/_square|square]] [[c/_corner|corner]] in a [[r/_room|room]] [[s/_separated|separated]] from the [[r/_rest|rest]] of an [[a/_apartment|apartment]] by wainscoting, [[f/_forming|forming]] a [[s/_short|short]] [[p/_passage|passage]] to [[a/_another|another]] [[a/_apartment|apartment]].**
 - **A [[g/_grandiose|grandiose]] and [[o/_often|often]] [[l/_lavish|lavish]] [[e/_entrance|entrance]].**
 - **([[b/_bridge|bridge]]-[[b/_building|building]]) The [[s/_space|space]], at [[o/_one|one]] [[e/_end|end]], [[b/_between|between]] [[o/_opposite|opposite]] trusses when these are terminated by [[i/_inclined|inclined]] [[b/_braces|braces]].**
 - **A [[p/_prayer|prayer]] [[b/_book|book]] or [[b/_breviary|breviary]]; a [[p/_portass|portass]].**

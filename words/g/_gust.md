@@ -1,7 +1,7 @@
 # Gust
 ---
 #noun
-- **A strong, [[a/_abrupt|abrupt]] [[r/_rush|rush]] of wind.**
+- **A [[s/_strong|strong]], [[a/_abrupt|abrupt]] [[r/_rush|rush]] of wind.**
 - **(by [[e/_extension|extension]]) [[a/_any|Any]] [[r/_rush|rush]] or [[o/_outburst|outburst]] (of water, [[e/_emotion|emotion]], [[e/_etc|etc]].).**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Braver
 ---
 #adjective
-- **Strong in the [[f/_face|face]] of [[f/_fear|fear]]; [[c/_courageous|courageous]].**
+- **[[s/_strong|Strong]] in the [[f/_face|face]] of [[f/_fear|fear]]; [[c/_courageous|courageous]].**
 - **[[h/_having|Having]] [[a/_any|any]] [[s/_sort|sort]] of superiority or [[e/_excellence|excellence]].**
 - **[[m/_making|Making]] a [[f/_fine|fine]] [[s/_show|show]] or [[d/_display|display]].**
 ---

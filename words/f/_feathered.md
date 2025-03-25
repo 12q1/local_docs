@@ -5,7 +5,7 @@
 - **To [[a/_arrange|arrange]] in the [[m/_manner|manner]] or [[a/_appearance|appearance]] of [[f/_feathers|feathers]].**
 	- _Example: The stylist feathered my hair._
 - **To [[r/_rotate|rotate]] the [[o/_oars|oars]] while they are [[o/_out|out]] of the water to [[r/_reduce|reduce]] wind [[r/_resistance|resistance]].**
-- **To streamline the [[b/_blades|blades]] of an [[a/_aircraft|aircraft]]'[[s/_s|s]] [[p/_propeller|propeller]] by [[r/_rotating|rotating]] them [[p/_perpendicular|perpendicular]] to the [[a/_axis|axis]] of the [[p/_propeller|propeller]] when the [[e/_engine|engine]] is [[s/_shut|shut]] [[d/_down|down]] [[s/_so|so]] that the [[p/_propeller|propeller]] [[d/_does|does]] not windmill [[d/_during|during]] [[f/_flight|flight]].**
+- **To [[s/_streamline|streamline]] the [[b/_blades|blades]] of an [[a/_aircraft|aircraft]]'[[s/_s|s]] [[p/_propeller|propeller]] by [[r/_rotating|rotating]] them [[p/_perpendicular|perpendicular]] to the [[a/_axis|axis]] of the [[p/_propeller|propeller]] when the [[e/_engine|engine]] is [[s/_shut|shut]] [[d/_down|down]] [[s/_so|so]] that the [[p/_propeller|propeller]] [[d/_does|does]] not windmill [[d/_during|during]] [[f/_flight|flight]].**
 	- _Example: After striking the bird, the pilot feathered the left, damaged engine’s propeller._
 - **To [[f/_finely|finely]] [[s/_shave|shave]] or [[b/_bevel|bevel]] an [[e/_edge|edge]].**
 - **To [[i/_intergrade|intergrade]] or [[b/_blend|blend]] the [[p/_pixels|pixels]] of an [[i/_image|image]] with those of a [[b/_background|background]] or [[n/_neighboring|neighboring]] [[i/_image|image]].**
@@ -20,7 +20,7 @@
 - **[[h/_having|Having]] the [[b/_blades|blades]] of [[o/_oars|oars]] or [[p/_propellers|propellers]] [[p/_parallel|parallel]] to the [[d/_direction|direction]] of [[m/_motion|motion]].**
 - **[[h/_having|Having]] a [[f/_finely|finely]] [[b/_bevelled|bevelled]] [[e/_edge|edge]].**
 - **[[b/_badly|Badly]] [[b/_beaten|beaten]].**
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specific type or [[n/_number|number]] of [[f/_feathers|feathers]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specific|specific]] type or [[n/_number|number]] of [[f/_feathers|feathers]].**
 	- _Example: a blue-feathered bird_
 - **Swift, [[l/_like|like]] the [[f/_flight|flight]] of a [[f/_feathered|feathered]] [[c/_creature|creature]].**
 ---

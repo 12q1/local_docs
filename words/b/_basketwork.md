@@ -1,7 +1,7 @@
 # Basketwork
 ---
 #noun
-- **[[m/_material|Material]] woven in the style of a [[b/_basket|basket]].**
+- **[[m/_material|Material]] woven in the [[s/_style|style]] of a [[b/_basket|basket]].**
 - **The [[c/_craft|craft]] of [[m/_making|making]] such [[m/_material|material]].**
 ---
 ### Synonyms

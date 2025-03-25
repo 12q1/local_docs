@@ -14,7 +14,7 @@
 - **Of a [[n/_number|number]], [[c/_capable|capable]] of [[b/_being|being]] [[e/_expressed|expressed]] as the [[r/_ratio|ratio]] of two [[i/_integers|integers]].**
 	- _Example: ¾ is a rational number, but √2 is an irrational number._
 - **Of an [[a/_algebraic|algebraic]] [[e/_expression|expression]], [[c/_capable|capable]] of [[b/_being|being]] [[e/_expressed|expressed]] as the [[r/_ratio|ratio]] of two [[p/_polynomials|polynomials]].**
-- **[[e/_expressing|Expressing]] the type, structure, [[r/_relations|relations]], and [[r/_reactions|reactions]] of a [[c/_compound|compound]]; [[g/_graphic|graphic]]; [[s/_said|said]] of [[f/_formulae|formulae]].**
+- **[[e/_expressing|Expressing]] the type, [[s/_structure|structure]], [[r/_relations|relations]], and [[r/_reactions|reactions]] of a [[c/_compound|compound]]; [[g/_graphic|graphic]]; [[s/_said|said]] of [[f/_formulae|formulae]].**
 - **[[e/_expressing|Expressing]] a [[p/_physical|physical]] [[o/_object|object]].**
 	- _Example: A rational table is physical, a written table is neither._
 ---

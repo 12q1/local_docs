@@ -1,7 +1,7 @@
 # Siloing
 ---
 #verb
-- **To store in a [[s/_silo|silo]].**
+- **To [[s/_store|store]] in a [[s/_silo|silo]].**
 ---
 ### Synonyms
 - [[e/_ensile|ensile]]

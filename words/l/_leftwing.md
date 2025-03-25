@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[m/_more|more]] [[l/_left|left]]-wing [[f/_faction|faction]] of a [[g/_group|group]] or [[p/_party|party]].**
-- **The [[l/_left|left]]-[[h/_hand|hand]] [[s/_side|side]] of a sports [[f/_field|field]].**
+- **The [[l/_left|left]]-[[h/_hand|hand]] [[s/_side|side]] of a [[s/_sports|sports]] [[f/_field|field]].**
 - **The [[o/_offensive|offensive]] [[p/_player|player]] who [[p/_plays|plays]] to the [[c/_center|center]]'[[s/_s|s]] [[l/_left|left]].**
 ---
 ### Antonyms

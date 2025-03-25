@@ -10,7 +10,7 @@
 - **To [[e/_equal|equal]] or [[e/_exceed|exceed]] in [[a/_achievement|achievement]].**
 	- _Example: She matched him at every turn: anything he could do, she could do as well or better._
 - **To unite in [[m/_marriage|marriage]], to [[m/_mate|mate]].**
-- **To [[f/_fit|fit]] together, or [[m/_make|make]] suitable for [[f/_fitting|fitting]] together; specifically, to [[f/_furnish|furnish]] with a tongue and [[g/_groove|groove]] at the [[e/_edges|edges]].**
+- **To [[f/_fit|fit]] together, or [[m/_make|make]] suitable for [[f/_fitting|fitting]] together; [[s/_specifically|specifically]], to [[f/_furnish|furnish]] with a tongue and [[g/_groove|groove]] at the [[e/_edges|edges]].**
 	- _Example: to match boards_
 ---
 #noun

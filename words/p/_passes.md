@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[c/_change|change]] [[p/_place|place]].**
-- **To [[c/_change|change]] in state or status**
+- **To [[c/_change|change]] in [[s/_state|state]] or [[s/_status|status]]**
 - **To [[m/_move|move]] through time.**
 - **To be [[a/_accepted|accepted]].**
 - **In [[a/_any|any]] [[g/_game|game]], to [[d/_decline|decline]] to [[p/_play|play]] in [[o/_one|one]]'[[s/_s|s]] turn.**
@@ -21,7 +21,7 @@
 	- _Example: My first pass at a career of writing proved unsuccessful._
 - **Success in an [[e/_examination|examination]] or [[s/_similar|similar]] test.**
 	- _Example: I gained three passes at A-level, in mathematics, French, and English literature._
-- **A thrust or [[p/_push|push]]; an [[a/_attempt|attempt]] to stab or strike an [[a/_adversary|adversary]].**
+- **A thrust or [[p/_push|push]]; an [[a/_attempt|attempt]] to [[s/_stab|stab]] or [[s/_strike|strike]] an [[a/_adversary|adversary]].**
 - **A thrust; a [[s/_sally|sally]] of wit.**
 - **A [[s/_sexual|sexual]] [[a/_advance|advance]].**
 	- _Example: The man kicked his friend out of the house after he made a pass at his wife._
@@ -33,10 +33,10 @@
 - **An [[i/_intentional|intentional]] walk.**
 	- _Example: Smith was given a pass after Jones' double._
 - **The [[a/_act|act]] of [[o/_overtaking|overtaking]]; an [[o/_overtaking|overtaking]] [[m/_manoeuvre|manoeuvre]].**
-- **The state of things; [[c/_condition|condition]]; [[p/_predicament|predicament]]; [[i/_impasse|impasse]].**
+- **The [[s/_state|state]] of things; [[c/_condition|condition]]; [[p/_predicament|predicament]]; [[i/_impasse|impasse]].**
 - **[[e/_estimation|Estimation]]; [[c/_character|character]].**
 - **([[c/_chaucer|Chaucer]]) A [[p/_part|part]], a [[d/_division|division]]. [[c/_compare|Compare]] [[p/_passus|passus]].**
-- **The [[a/_area|area]] in a [[r/_restaurant|restaurant]] [[k/_kitchen|kitchen]] where the [[f/_finished|finished]] [[d/_dishes|dishes]] are [[p/_passed|passed]] from the [[c/_chefs|chefs]] to the waiting staff.**
+- **The [[a/_area|area]] in a [[r/_restaurant|restaurant]] [[k/_kitchen|kitchen]] where the [[f/_finished|finished]] [[d/_dishes|dishes]] are [[p/_passed|passed]] from the [[c/_chefs|chefs]] to the waiting [[s/_staff|staff]].**
 - **An [[a/_act|act]] of [[d/_declining|declining]] to [[p/_play|play]] [[o/_one|one]]'[[s/_s|s]] turn in a [[g/_game|game]], [[o/_often|often]] by [[s/_saying|saying]] the word "[[p/_pass|pass]]".**
 	- _Example: A pass would have seen her win the game, but instead she gave a wrong answer and lost a point, putting her in second place._
 - **A [[r/_run|run]] through a [[d/_document|document]] as [[p/_part|part]] of a translation, [[c/_compilation|compilation]] or [[r/_reformatting|reformatting]] [[p/_process|process]].**

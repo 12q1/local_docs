@@ -1,7 +1,7 @@
 # Disqualification
 ---
 #noun
-- **The [[a/_act|act]] of [[d/_disqualifying|disqualifying]], or the state of [[b/_being|being]] [[d/_disqualified|disqualified]]**
+- **The [[a/_act|act]] of [[d/_disqualifying|disqualifying]], or the [[s/_state|state]] of [[b/_being|being]] [[d/_disqualified|disqualified]]**
 	- _Example: Henry won the match due to the disqualification of his opponent._
 - **That which [[d/_disqualifies|disqualifies]]; that which [[c/_causes|causes]] [[s/_someone|someone]] to be unfit for a [[c/_certain|certain]] [[p/_purpose|purpose]] or [[r/_role|role]]**
 	- _Example: Conviction of crime is a disqualification of a person for office._

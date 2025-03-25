@@ -1,7 +1,7 @@
 # Pow
 ---
 #noun
-- **A survey of [[p/_people|people]], usually statistically [[a/_analyzed|analyzed]] to [[g/_gauge|gauge]] wider [[p/_public|public]] [[o/_opinion|opinion]].**
+- **A survey of [[p/_people|people]], usually [[s/_statistically|statistically]] [[a/_analyzed|analyzed]] to [[g/_gauge|gauge]] wider [[p/_public|public]] [[o/_opinion|opinion]].**
 - **A [[f/_formal|formal]] [[e/_election|election]].**
 	- _Example: The student council had a poll to see what people want served in the cafeteria._
 - **A [[p/_polling|polling]] [[p/_place|place]] (usually as [[p/_plural|plural]], [[p/_polling|polling]] [[p/_places|places]])**

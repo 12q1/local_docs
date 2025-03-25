@@ -1,7 +1,7 @@
 # Outspread
 ---
 #verb
-- **To spread [[o/_out|out]]; [[e/_expand|expand]]; [[e/_extend|extend]].**
+- **To [[s/_spread|spread]] [[o/_out|out]]; [[e/_expand|expand]]; [[e/_extend|extend]].**
 ---
 #adjective
 - **[[e/_extended|Extended]] [[o/_outward|outward]], as [[o/_one|one]]'[[s/_s|s]] [[a/_arms|arms]]**

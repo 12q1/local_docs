@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Of the [[c/_colour|colour]] of [[i/_ink|ink]], [[e/_especially|especially]] [[b/_black|black]] [[i/_ink|ink]]; [[d/_dark|dark]].**
-- **[[s/_spattered|Spattered]] or stained with [[i/_ink|ink]].**
+- **[[s/_spattered|Spattered]] or [[s/_stained|stained]] with [[i/_ink|ink]].**
 - **[[d/_dark|Dark]]-[[s/_skinned|skinned]]; [[b/_black|black]].**
 ---
 ### Synonyms

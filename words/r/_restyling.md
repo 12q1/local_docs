@@ -1,10 +1,10 @@
 # Restyling
 ---
 #verb
-- **To [[r/_refashion|refashion]] [[s/_something|something]] in a [[n/_new|new]] style or [[s/_shape|shape]] in [[o/_order|order]] to [[f/_fit|fit]] [[a/_another|another]] [[p/_purpose|purpose]].**
+- **To [[r/_refashion|refashion]] [[s/_something|something]] in a [[n/_new|new]] [[s/_style|style]] or [[s/_shape|shape]] in [[o/_order|order]] to [[f/_fit|fit]] [[a/_another|another]] [[p/_purpose|purpose]].**
 - **To [[g/_give|give]] [[a/_another|another]] [[n/_name|name]], [[d/_designation|designation]] or title to [[s/_something|something]].**
 ---
 #noun
-- **The [[p/_process|process]] or [[r/_result|result]] of styling [[s/_something|something]] [[a/_again|again]].**
+- **The [[p/_process|process]] or [[r/_result|result]] of [[s/_styling|styling]] [[s/_something|something]] [[a/_again|again]].**
 ---
 ---

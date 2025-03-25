@@ -1,7 +1,7 @@
 # Absconding
 ---
 #verb
-- **To [[f/_flee|flee]], [[o/_often|often]] [[s/_secretly|secretly]]; to steal [[a/_away|away]], [[p/_particularly|particularly]] to [[a/_avoid|avoid]] [[a/_arrest|arrest]] or [[p/_prosecution|prosecution]].**
+- **To [[f/_flee|flee]], [[o/_often|often]] [[s/_secretly|secretly]]; to [[s/_steal|steal]] [[a/_away|away]], [[p/_particularly|particularly]] to [[a/_avoid|avoid]] [[a/_arrest|arrest]] or [[p/_prosecution|prosecution]].**
 	- _Example: The thieves absconded with our property._
 - **To withdraw from.**
 - **To [[e/_evade|evade]], to [[h/_hide|hide]] or [[f/_flee|flee]] from.**

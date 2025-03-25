@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[f/_first|First]], [[e/_earliest|earliest]] or [[o/_original|original]]**
-- **[[c/_characteristic|Characteristic]] of the [[e/_earliest|earliest]] stage of the [[d/_development|development]] of an [[o/_organism|organism]], or [[r/_relating|relating]] to a [[p/_primordium|primordium]]**
+- **[[c/_characteristic|Characteristic]] of the [[e/_earliest|earliest]] [[s/_stage|stage]] of the [[d/_development|development]] of an [[o/_organism|organism]], or [[r/_relating|relating]] to a [[p/_primordium|primordium]]**
 	- _Example: a primordial leaf; a primordial cell_
 - **[[p/_primeval|Primeval]]**
 ---

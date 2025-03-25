@@ -8,6 +8,6 @@
 	- _Example: Let's interface on Wednesday._
 ---
 #noun
-- **A [[l/_layer|layer]] of [[f/_fabric|fabric]] [[i/_inserted|inserted]] [[b/_between|between]] [[o/_other|other]] [[l/_layers|layers]] of a [[g/_garment|garment]] to [[p/_provide|provide]] stiffening**
+- **A [[l/_layer|layer]] of [[f/_fabric|fabric]] [[i/_inserted|inserted]] [[b/_between|between]] [[o/_other|other]] [[l/_layers|layers]] of a [[g/_garment|garment]] to [[p/_provide|provide]] [[s/_stiffening|stiffening]]**
 ---
 ---

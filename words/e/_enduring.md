@@ -17,7 +17,7 @@
 - **[[e/_endurance|Endurance]]**
 ---
 #adjective
-- **[[l/_long|Long]]-[[l/_lasting|lasting]] without [[s/_significant|significant]] [[a/_alteration|alteration]]; [[c/_continuing|continuing]] through time in the [[s/_same|same]] [[r/_relative|relative]] state.**
+- **[[l/_long|Long]]-[[l/_lasting|lasting]] without [[s/_significant|significant]] [[a/_alteration|alteration]]; [[c/_continuing|continuing]] through time in the [[s/_same|same]] [[r/_relative|relative]] [[s/_state|state]].**
 	- _Example: an enduring belief in democracy_
 ---
 ### Synonyms

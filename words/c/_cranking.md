@@ -7,7 +7,7 @@
 	- _Example: He's been cranking all day and yet it refuses to crank._
 - **(of a [[c/_crank|crank]] or [[s/_similar|similar]]) To turn.**
 	- _Example: He's been cranking all day and yet it refuses to crank._
-- **To [[c/_cause|cause]] to spin via [[o/_other|other]] [[m/_means|means]], as though turned by a [[c/_crank|crank]].**
+- **To [[c/_cause|cause]] to [[s/_spin|spin]] via [[o/_other|other]] [[m/_means|means]], as though turned by a [[c/_crank|crank]].**
 	- _Example: Crank it up!_
 - **To [[a/_act|act]] in a [[c/_cranky|cranky]] [[m/_manner|manner]]; to [[b/_behave|behave]] unreasonably and [[i/_irritably|irritably]], [[e/_especially|especially]] through [[c/_complaining|complaining]].**
 	- _Example: Quit cranking about your spilt milk!_

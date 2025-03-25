@@ -8,8 +8,8 @@
 - **([[n/_newspapers|newspapers]]) The [[d/_division|division]] [[b/_between|between]] the top and [[b/_bottom|bottom]] [[h/_halves|halves]] of a [[b/_broadsheet|broadsheet]]: [[h/_headlines|headlines]] [[a/_above|above]] the [[f/_fold|fold]] will be [[r/_readable|readable]] in a [[n/_newsstand|newsstand]] [[d/_display|display]]; usually the [[f/_fold|fold]].**
 - **(by [[e/_extension|extension]]) The [[d/_division|division]] [[b/_between|between]] the [[p/_part|part]] of a web [[p/_page|page]] visible in a web [[b/_browser|browser]] window without [[s/_scrolling|scrolling]]; usually the [[f/_fold|fold]].**
 - **That which is [[f/_folded|folded]] together, or which [[e/_enfolds|enfolds]] or [[e/_envelops|envelops]]; [[e/_embrace|embrace]].**
-- **The [[b/_bending|bending]] or [[c/_curving|curving]] of [[o/_one|one]] or a stack of [[o/_originally|originally]] [[f/_flat|flat]] and [[p/_planar|planar]] surfaces, such as [[s/_sedimentary|sedimentary]] strata, as a [[r/_result|result]] of [[p/_plastic|plastic]] ([[i/_i|i]].[[e/_e|e]]. [[p/_permanent|permanent]]) [[d/_deformation|deformation]].**
-- **In [[f/_functional|functional]] [[p/_programming|programming]], [[a/_any|any]] of a [[f/_family|family]] of [[h/_higher|higher]]-[[o/_order|order]] [[f/_functions|functions]] that [[p/_process|process]] a [[d/_data|data]] structure [[r/_recursively|recursively]] to [[b/_build|build]] up a value.**
+- **The [[b/_bending|bending]] or [[c/_curving|curving]] of [[o/_one|one]] or a [[s/_stack|stack]] of [[o/_originally|originally]] [[f/_flat|flat]] and [[p/_planar|planar]] surfaces, such as [[s/_sedimentary|sedimentary]] [[s/_strata|strata]], as a [[r/_result|result]] of [[p/_plastic|plastic]] ([[i/_i|i]].[[e/_e|e]]. [[p/_permanent|permanent]]) [[d/_deformation|deformation]].**
+- **In [[f/_functional|functional]] [[p/_programming|programming]], [[a/_any|any]] of a [[f/_family|family]] of [[h/_higher|higher]]-[[o/_order|order]] [[f/_functions|functions]] that [[p/_process|process]] a [[d/_data|data]] [[s/_structure|structure]] [[r/_recursively|recursively]] to [[b/_build|build]] up a value.**
 - **A [[s/_section|section]] of [[s/_source|source]] [[c/_code|code]] that [[c/_can|can]] be [[c/_collapsed|collapsed]] [[o/_out|out]] of view in an [[e/_editor|editor]] to [[a/_aid|aid]] [[r/_readability|readability]].**
 ---
 ### Synonyms
@@ -27,7 +27,7 @@
 - **To withdraw from [[b/_betting|betting]].**
 	- _Example: With no hearts in the river and no chance to hit his straight, he folded._
 - **(by [[e/_extension|extension]]) To withdraw or [[q/_quit|quit]] in [[g/_general|general]].**
-- **To stir [[g/_gently|gently]], with a [[f/_folding|folding]] [[a/_action|action]].**
+- **To [[s/_stir|stir]] [[g/_gently|gently]], with a [[f/_folding|folding]] [[a/_action|action]].**
 	- _Example: Fold the egg whites into the batter._
 - **Of a [[c/_company|company]], to [[c/_cease|cease]] to trade.**
 	- _Example: The company folded after six quarters of negative growth._

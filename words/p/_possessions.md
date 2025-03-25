@@ -10,7 +10,7 @@
 	- _Example: Réunion is the largest of France's overseas possessions._
 - **The [[c/_condition|condition]] or [[a/_affliction|affliction]] of [[b/_being|being]] [[p/_possessed|possessed]] by a [[d/_demon|demon]] or [[o/_other|other]] supernatural [[e/_entity|entity]].**
 	- _Example: Back then, people with psychiatric disorders were sometimes thought to be victims of demonic possession._
-- **The [[c/_condition|condition]] of [[b/_being|being]] under the [[c/_control|control]] of strong [[e/_emotion|emotion]] or [[m/_madness|madness]].**
+- **The [[c/_condition|condition]] of [[b/_being|being]] under the [[c/_control|control]] of [[s/_strong|strong]] [[e/_emotion|emotion]] or [[m/_madness|madness]].**
 - **[[c/_control|Control]] of the [[b/_ball|ball]]; the [[o/_opportunity|opportunity]] to be on the [[o/_offensive|offensive]].**
 	- _Example: The scoreboard shows a little football symbol next to the name of the team that has possession._
 - **A [[d/_disposal|disposal]] of the [[b/_ball|ball]] [[d/_during|during]] a [[g/_game|game]], [[i/_i|i]].[[e/_e|e]]. a [[k/_kick|kick]] or a [[h/_handball|handball]].**

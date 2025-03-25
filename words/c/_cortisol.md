@@ -1,7 +1,7 @@
 # Cortisol
 ---
 #noun
-- **The steroid [[h/_hormone|hormone]] [[h/_hydrocortisone|hydrocortisone]].**
+- **The [[s/_steroid|steroid]] [[h/_hormone|hormone]] [[h/_hydrocortisone|hydrocortisone]].**
 ---
 ### Synonyms
 - [[h/_hydrocortisone|hydrocortisone]]

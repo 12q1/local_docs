@@ -5,7 +5,7 @@
 - **To [[c/_chafe|chafe]] or [[i/_irritate|irritate]]; to worry.**
 - **To [[m/_make|make]] [[r/_rough|rough]], to [[a/_agitate|agitate]] or [[d/_disturb|disturb]]; to [[c/_cause|cause]] to [[r/_ripple|ripple]].**
 	- _Example: to fret the surface of water_
-- **In the [[f/_form|form]] [[f/_fret|fret]] [[o/_out|out]]: to squander, to waste.**
+- **In the [[f/_form|form]] [[f/_fret|fret]] [[o/_out|out]]: to [[s/_squander|squander]], to waste.**
 - **To [[g/_gnaw|gnaw]]; to [[c/_consume|consume]], to [[e/_eat|eat]] [[a/_away|away]].**
 - **To be [[c/_chafed|chafed]] or [[i/_irritated|irritated]]; to be [[a/_angry|angry]] or vexed; to utter [[p/_peevish|peevish]] [[e/_expressions|expressions]] through [[i/_irritation|irritation]] or worry.**
 - **To be worn [[a/_away|away]]; to [[c/_chafe|chafe]]; to [[f/_fray|fray]].**

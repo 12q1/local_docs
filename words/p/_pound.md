@@ -6,7 +6,7 @@
 - **The [[s/_symbol|symbol]] # ([[o/_octothorpe|octothorpe]], [[h/_hash|hash]])**
 - **The unit of [[c/_currency|currency]] used in the United [[k/_kingdom|Kingdom]] and [[i/_its|its]] [[d/_dependencies|dependencies]]. It is [[d/_divided|divided]] [[i/_into|into]] 100 [[p/_pence|pence]].**
 - **[[a/_any|Any]] of various units of [[c/_currency|currency]] used in [[e/_egypt|Egypt]] and [[l/_lebanon|Lebanon]], and [[f/_formerly|formerly]] in the [[r/_republic|Republic]] of [[i/_ireland|Ireland]], [[c/_cyprus|Cyprus]] and [[i/_israel|Israel]].**
-- **[[a/_any|Any]] of various units of [[c/_currency|currency]] [[f/_formerly|formerly]] used in the United States.**
+- **[[a/_any|Any]] of various units of [[c/_currency|currency]] [[f/_formerly|formerly]] used in the United [[s/_states|States]].**
 	- _Example: the Rhode Island pound; the New Hampshire pound_
 - **[[a/_abbreviation|Abbreviation]] for [[p/_pound|pound]]-[[f/_force|force]], a unit of [[f/_force|force]]/weight. Using this [[a/_abbreviation|abbreviation]] to [[d/_describe|describe]] [[p/_pound|pound]]-[[f/_force|force]] is [[i/_inaccurate|inaccurate]] and unscientific.**
 ---

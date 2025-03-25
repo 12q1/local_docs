@@ -2,27 +2,27 @@
 ---
 #noun
 - **([[h/_heading|heading]], [[p/_physical|physical]]) To [[d/_do|do]] with [[s/_shape|shape]].**
-- **([[s/_social|social]]) To [[d/_do|do]] with structure or [[p/_procedure|procedure]].**
+- **([[s/_social|social]]) To [[d/_do|do]] with [[s/_structure|structure]] or [[p/_procedure|procedure]].**
 - **A [[b/_blank|blank]] [[d/_document|document]] or template to be [[f/_filled|filled]] in by the user.**
 	- _Example: To apply for the position, complete the application form._
-- **A specimen [[d/_document|document]] to be [[c/_copied|copied]] or [[i/_imitated|imitated]].**
+- **A [[s/_specimen|specimen]] [[d/_document|document]] to be [[c/_copied|copied]] or [[i/_imitated|imitated]].**
 - **[[l/_level|Level]] of [[p/_performance|performance]].**
 	- _Example: The orchestra was on top form this evening._
-- **([[g/_grammar|grammar]]) A [[g/_grouping|grouping]] of words which [[m/_maintain|maintain]] [[g/_grammatical|grammatical]] [[c/_context|context]] in [[d/_different|different]] usages; the [[p/_particular|particular]] [[s/_shape|shape]] or structure of a word or [[p/_part|part]] of speech.**
+- **([[g/_grammar|grammar]]) A [[g/_grouping|grouping]] of words which [[m/_maintain|maintain]] [[g/_grammatical|grammatical]] [[c/_context|context]] in [[d/_different|different]] usages; the [[p/_particular|particular]] [[s/_shape|shape]] or [[s/_structure|structure]] of a word or [[p/_part|part]] of [[s/_speech|speech]].**
 	- _Example: participial forms;  verb forms_
 - **The [[d/_den|den]] or [[h/_home|home]] of a [[h/_hare|hare]].**
 - **A window or [[d/_dialogue|dialogue]] [[b/_box|box]].**
 - **An [[i/_infraspecific|infraspecific]] [[r/_rank|rank]].**
 - **The type or [[o/_other|other]] [[m/_matter|matter]] from which an [[i/_impression|impression]] is to be taken, [[a/_arranged|arranged]] and [[s/_secured|secured]] in a [[c/_chase|chase]].**
 - **A [[q/_quantic|quantic]].**
-- **([[f/_fitness|fitness]]) A specific way of [[p/_performing|performing]] a [[m/_movement|movement]].**
+- **([[f/_fitness|fitness]]) A [[s/_specific|specific]] way of [[p/_performing|performing]] a [[m/_movement|movement]].**
 ---
 ### Synonyms
 - [[f/_f.|f.]], [[f/_formular|formular]], [[c/_configuration|configuration]], [[m/_makeup|makeup]], [[g/_grade|grade]], [[c/_cast|cast]], [[m/_mold|mold]], [[p/_pattern|pattern]], [[s/_shape|shape]]
 #verb
-- **To [[a/_assume|assume]] (a [[c/_certain|certain]] [[s/_shape|shape]] or visible structure).**
+- **To [[a/_assume|assume]] (a [[c/_certain|certain]] [[s/_shape|shape]] or visible [[s/_structure|structure]]).**
 	- _Example: When you kids form a straight line I'll hand out the lollies._
-- **To [[g/_give|give]] (a [[s/_shape|shape]] or visible structure) to a thing or [[p/_person|person]].**
+- **To [[g/_give|give]] (a [[s/_shape|shape]] or visible [[s/_structure|structure]]) to a thing or [[p/_person|person]].**
 	- _Example: Roll out the dough to form a thin sheet._
 - **To take [[s/_shape|shape]].**
 	- _Example: When icicles start to form on the eaves you know the roads will be icy._
@@ -35,7 +35,7 @@
 - **To [[m/_mould|mould]] or [[m/_model|model]] by [[i/_instruction|instruction]] or [[d/_discipline|discipline]].**
 	- _Example: Singing in a choir helps to form a child's sociality._
 - **To [[p/_provide|provide]] (a [[h/_hare|hare]]) with a [[f/_form|form]].**
-- **To treat ([[p/_plates|plates]]) to [[p/_prepare|prepare]] them for [[i/_introduction|introduction]] [[i/_into|into]] a storage [[b/_battery|battery]], [[c/_causing|causing]] [[o/_one|one]] [[p/_plate|plate]] to be [[c/_composed|composed]] [[m/_more|more]] or [[l/_less|less]] of spongy [[l/_lead|lead]], and the [[o/_other|other]] of [[l/_lead|lead]] [[p/_peroxide|peroxide]]. This was [[f/_formerly|formerly]] [[d/_done|done]] by [[r/_repeated|repeated]] [[s/_slow|slow]] [[a/_alternations|alternations]] of the [[c/_charging|charging]] [[c/_current|current]], but [[l/_later|later]] the [[p/_plates|plates]] or [[g/_grids|grids]] were [[c/_coated|coated]] or [[f/_filled|filled]], [[o/_one|one]] with a [[p/_paste|paste]] of [[r/_red|red]] [[l/_lead|lead]] and the [[o/_other|other]] with [[l/_litharge|litharge]], [[i/_introduced|introduced]] [[i/_into|into]] the [[c/_cell|cell]], and [[f/_formed|formed]] by a [[d/_direct|direct]] [[c/_charging|charging]] [[c/_current|current]].**
+- **To treat ([[p/_plates|plates]]) to [[p/_prepare|prepare]] them for [[i/_introduction|introduction]] [[i/_into|into]] a [[s/_storage|storage]] [[b/_battery|battery]], [[c/_causing|causing]] [[o/_one|one]] [[p/_plate|plate]] to be [[c/_composed|composed]] [[m/_more|more]] or [[l/_less|less]] of [[s/_spongy|spongy]] [[l/_lead|lead]], and the [[o/_other|other]] of [[l/_lead|lead]] [[p/_peroxide|peroxide]]. This was [[f/_formerly|formerly]] [[d/_done|done]] by [[r/_repeated|repeated]] [[s/_slow|slow]] [[a/_alternations|alternations]] of the [[c/_charging|charging]] [[c/_current|current]], but [[l/_later|later]] the [[p/_plates|plates]] or [[g/_grids|grids]] were [[c/_coated|coated]] or [[f/_filled|filled]], [[o/_one|one]] with a [[p/_paste|paste]] of [[r/_red|red]] [[l/_lead|lead]] and the [[o/_other|other]] with [[l/_litharge|litharge]], [[i/_introduced|introduced]] [[i/_into|into]] the [[c/_cell|cell]], and [[f/_formed|formed]] by a [[d/_direct|direct]] [[c/_charging|charging]] [[c/_current|current]].**
 ---
 ### Synonyms
 - [[c/_compose|compose]], [[b/_beshape|beshape]], [[t/_transmogrify|transmogrify]]

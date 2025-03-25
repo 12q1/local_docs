@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_pointed|pointed]] [[p/_projection|projection]] on a [[h/_horseshoe|horseshoe]] to [[p/_prevent|prevent]] it [[s/_slipping|slipping]].**
-- **A spike on the [[s/_sole|sole]] of a [[b/_boot|boot]] to [[p/_prevent|prevent]] [[s/_slipping|slipping]], [[p/_particularly|particularly]] used in [[l/_logging|logging]]**
+- **A [[s/_spike|spike]] on the [[s/_sole|sole]] of a [[b/_boot|boot]] to [[p/_prevent|prevent]] [[s/_slipping|slipping]], [[p/_particularly|particularly]] used in [[l/_logging|logging]]**
 ---
 #noun
 - **[[c/_caulking|Caulking]].**

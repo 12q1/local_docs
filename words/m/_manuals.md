@@ -10,7 +10,7 @@
 - **A [[m/_manual|manual]] transmission; a [[g/_gearbox|gearbox]], [[e/_especially|especially]] of a [[m/_motorized|motorized]] vehicle, [[s/_shifted|shifted]] by the [[o/_operator|operator]].**
 - **(by [[s/_synecdoche|synecdoche]]) A vehicle with a [[m/_manual|manual]] transmission.**
 - **A [[b/_bicycle|bicycle]] technique whereby the [[f/_front|front]] wheel is [[h/_held|held]] [[a/_aloft|aloft]] by the [[r/_rider|rider]], without the use of [[p/_pedal|pedal]] [[f/_force|force]].**
-- **[[m/_manual|Manual]] [[m/_measurement|measurement]] of the [[b/_blood|blood]] [[p/_pressure|pressure]], [[d/_done|done]] with a [[m/_manual|manual]] sphygmomanometer.**
+- **[[m/_manual|Manual]] [[m/_measurement|measurement]] of the [[b/_blood|blood]] [[p/_pressure|pressure]], [[d/_done|done]] with a [[m/_manual|manual]] [[s/_sphygmomanometer|sphygmomanometer]].**
 	- _Example: do a manual_
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Sidebar
 ---
 #noun
-- **A [[s/_short|short]] [[n/_news|news]] story [[p/_printed|printed]] [[a/_alongside|alongside]] a [[l/_larger|larger]] [[o/_one|one]].**
+- **A [[s/_short|short]] [[n/_news|news]] [[s/_story|story]] [[p/_printed|printed]] [[a/_alongside|alongside]] a [[l/_larger|larger]] [[o/_one|one]].**
 - **A [[b/_block|block]] of [[i/_information|information]] [[p/_placed|placed]] at the [[s/_side|side]] of a [[p/_printed|printed]] [[p/_page|page]].**
 - **A [[b/_block|block]] of [[i/_information|information]] [[p/_placed|placed]] at the [[s/_side|side]] of a webpage.**
 - **A [[s/_short|short]] [[c/_conference|conference]], [[b/_between|between]] a [[j/_judge|judge]] and the [[a/_attorneys|attorneys]] of a [[c/_case|case]], [[h/_held|held]] [[o/_outside|outside]] the [[j/_jury|jury]]'[[s/_s|s]] [[h/_hearing|hearing]]; the [[p/_place|place]] where this [[h/_happens|happens]].**

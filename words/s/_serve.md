@@ -20,7 +20,7 @@
 - **To be in [[m/_military|military]] [[s/_service|service]].**
 - **To work, to [[o/_operate|operate]] (a weapon).**
 - **To work through (a [[g/_given|given]] [[p/_period|period]] of time in [[p/_prison|prison]], a [[s/_sentence|sentence]]).**
-- **To wind spun [[y/_yarn|yarn]] [[e/_etc|etc]]. tightly [[a/_around|around]] (a [[r/_rope|rope]] or [[c/_cable|cable]], [[e/_etc|etc]].) [[s/_so|so]] as to [[p/_protect|protect]] it from [[c/_chafing|chafing]] or from the weather.**
+- **To wind [[s/_spun|spun]] [[y/_yarn|yarn]] [[e/_etc|etc]]. tightly [[a/_around|around]] (a [[r/_rope|rope]] or [[c/_cable|cable]], [[e/_etc|etc]].) [[s/_so|so]] as to [[p/_protect|protect]] it from [[c/_chafing|chafing]] or from the weather.**
 - **To [[p/_perform|perform]] (a [[p/_public|public]] [[o/_obligation|obligation]]).**
 	- _Example: I've received a summons for jury duty. It says I serve one day or one trial._
 - **To [[p/_provide|provide]] [[c/_crack|crack]] [[c/_cocaine|cocaine]] (to), usually by [[s/_selling|selling]], [[d/_dealing|dealing]], or [[d/_distributing|distributing]].**

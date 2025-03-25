@@ -6,6 +6,6 @@
 - **The [[a/_act|act]] of [[p/_propagating|propagating]], [[e/_especially|especially]] the [[m/_movement|movement]] of a wave**
 - **The [[e/_elongation|elongation]] [[p/_part|part]] of transcription**
 - **Winning [[n/_new|new]] [[c/_converts|converts]]**
-- **[[s/_some|Some]] [[d/_degree|degree]] of success in the spread of [[p/_propaganda|propaganda]]**
+- **[[s/_some|Some]] [[d/_degree|degree]] of success in the [[s/_spread|spread]] of [[p/_propaganda|propaganda]]**
 ---
 ---

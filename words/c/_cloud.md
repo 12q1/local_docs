@@ -3,15 +3,15 @@
 #noun
 - **A [[r/_rock|rock]]; [[b/_boulder|boulder]]; a [[h/_hill|hill]].**
 - **A visible [[m/_mass|mass]] of water [[d/_droplets|droplets]] suspended in the [[a/_air|air]].**
-- **[[a/_any|Any]] [[m/_mass|mass]] of [[d/_dust|dust]], steam or [[s/_smoke|smoke]] [[r/_resembling|resembling]] such a [[m/_mass|mass]].**
+- **[[a/_any|Any]] [[m/_mass|mass]] of [[d/_dust|dust]], [[s/_steam|steam]] or [[s/_smoke|smoke]] [[r/_resembling|resembling]] such a [[m/_mass|mass]].**
 - **[[a/_anything|Anything]] which [[m/_makes|makes]] things [[f/_foggy|foggy]] or [[g/_gloomy|gloomy]].**
 - **[[a/_anything|Anything]] unsubstantial.**
-- **A [[d/_dark|dark]] spot on a [[l/_lighter|lighter]] [[m/_material|material]] or [[b/_background|background]].**
+- **A [[d/_dark|dark]] [[s/_spot|spot]] on a [[l/_lighter|lighter]] [[m/_material|material]] or [[b/_background|background]].**
 - **A [[g/_group|group]] or swarm, [[e/_especially|especially]] suspended [[a/_above|above]] the [[g/_ground|ground]] or [[f/_flying|flying]].**
 	- _Example: He opened the door and was greeted by a cloud of bats._
 - **An [[e/_elliptical|elliptical]] [[s/_shape|shape]] or [[s/_symbol|symbol]] whose [[o/_outline|outline]] is a [[s/_series|series]] of [[s/_semicircles|semicircles]], supposed to [[r/_resemble|resemble]] a [[c/_cloud|cloud]].**
 	- _Example: The comic-book character's thoughts appeared in a cloud above his head._
-- **(with "the") The [[i/_internet|Internet]], [[r/_regarded|regarded]] as an [[a/_abstract|abstract]] [[a/_amorphous|amorphous]] [[o/_omnipresent|omnipresent]] [[s/_space|space]] for [[p/_processing|processing]] and storage, the [[f/_focus|focus]] of [[c/_cloud|cloud]] [[c/_computing|computing]].**
+- **(with "the") The [[i/_internet|Internet]], [[r/_regarded|regarded]] as an [[a/_abstract|abstract]] [[a/_amorphous|amorphous]] [[o/_omnipresent|omnipresent]] [[s/_space|space]] for [[p/_processing|processing]] and [[s/_storage|storage]], the [[f/_focus|focus]] of [[c/_cloud|cloud]] [[c/_computing|computing]].**
 - **A [[n/_negative|negative]] or [[f/_foreboding|foreboding]] [[a/_aspect|aspect]] of [[s/_something|something]] [[p/_positive|positive]]: [[s/_see|see]] [[e/_every|every]] [[c/_cloud|cloud]] [[h/_has|has]] a [[s/_silver|silver]] [[l/_lining|lining]] or [[e/_every|every]] [[s/_silver|silver]] [[l/_lining|lining]] [[h/_has|has]] a [[c/_cloud|cloud]].**
 - **[[c/_crystal|Crystal]] [[m/_methamphetamine|methamphetamine]].**
 - **A [[l/_large|large]], [[l/_loosely|loosely]]-[[k/_knitted|knitted]] [[h/_headscarf|headscarf]] worn by women.**
@@ -26,8 +26,8 @@
 - **To [[m/_make|make]] [[l/_less|less]] [[a/_acute|acute]] or [[p/_perceptive|perceptive]].**
 	- _Example: The tears began to well up and cloud my vision._
 - **To [[m/_make|make]] [[g/_gloomy|gloomy]] or sullen.**
-- **To [[b/_blacken|blacken]]; to sully; to stain; to tarnish ([[r/_reputation|reputation]] or [[c/_character|character]]).**
-- **To [[m/_mark|mark]] with, or [[d/_darken|darken]] in, veins or sports; to variegate with [[c/_colors|colors]].**
+- **To [[b/_blacken|blacken]]; to sully; to [[s/_stain|stain]]; to tarnish ([[r/_reputation|reputation]] or [[c/_character|character]]).**
+- **To [[m/_mark|mark]] with, or [[d/_darken|darken]] in, veins or [[s/_sports|sports]]; to variegate with [[c/_colors|colors]].**
 	- _Example: to cloud yarn_
 - **To [[b/_become|become]] [[m/_marked|marked]], [[d/_darkened|darkened]] or variegated in this way.**
 ---

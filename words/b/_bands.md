@@ -1,14 +1,14 @@
 # Bands
 ---
 #noun
-- **A strip of [[m/_material|material]] used for strengthening or [[c/_coupling|coupling]].**
-- **A [[l/_long|long]] strip of [[m/_material|material]], [[c/_color|color]], [[e/_etc|etc]], that is [[d/_different|different]] from the surrounding [[a/_area|area]].**
-- **A strip of [[d/_decoration|decoration]].**
+- **A [[s/_strip|strip]] of [[m/_material|material]] used for [[s/_strengthening|strengthening]] or [[c/_coupling|coupling]].**
+- **A [[l/_long|long]] [[s/_strip|strip]] of [[m/_material|material]], [[c/_color|color]], [[e/_etc|etc]], that is [[d/_different|different]] from the surrounding [[a/_area|area]].**
+- **A [[s/_strip|strip]] of [[d/_decoration|decoration]].**
 - **That which [[s/_serves|serves]] as the [[m/_means|means]] of union or [[c/_connection|connection]] [[b/_between|between]] [[p/_persons|persons]]; a tie.**
 - **A [[l/_linen|linen]] [[c/_collar|collar]] or [[r/_ruff|ruff]] worn in the 16th and 17th [[c/_centuries|centuries]].**
-- **(in the [[p/_plural|plural]]) Two strips of [[l/_linen|linen]] [[h/_hanging|hanging]] from the [[n/_neck|neck]] in [[f/_front|front]] as [[p/_part|part]] of a [[c/_clerical|clerical]], [[l/_legal|legal]], or [[a/_academic|academic]] [[d/_dress|dress]].**
-- **A [[p/_part|part]] of the [[e/_electromagnetic|electromagnetic]] spectrum.**
-- **A [[g/_group|group]] of [[e/_energy|energy]] [[l/_levels|levels]] in a [[s/_solid|solid]] state [[m/_material|material]].**
+- **(in the [[p/_plural|plural]]) Two [[s/_strips|strips]] of [[l/_linen|linen]] [[h/_hanging|hanging]] from the [[n/_neck|neck]] in [[f/_front|front]] as [[p/_part|part]] of a [[c/_clerical|clerical]], [[l/_legal|legal]], or [[a/_academic|academic]] [[d/_dress|dress]].**
+- **A [[p/_part|part]] of the [[e/_electromagnetic|electromagnetic]] [[s/_spectrum|spectrum]].**
+- **A [[g/_group|group]] of [[e/_energy|energy]] [[l/_levels|levels]] in a [[s/_solid|solid]] [[s/_state|state]] [[m/_material|material]].**
 	- _Example: valence band;  conduction band_
 - **A [[b/_bond|bond]].**
 - **[[p/_pledge|Pledge]]; [[s/_security|security]].**
@@ -26,11 +26,11 @@
 - **A type of [[o/_orchestra|orchestra]] [[o/_originally|originally]] [[p/_playing|playing]] [[j/_janissary|janissary]] [[m/_music|music]].**
 - **A [[m/_marching|marching]] [[b/_band|band]].**
 - **A [[g/_group|group]] of [[p/_people|people]] [[l/_loosely|loosely]] united for a [[c/_common|common]] [[p/_purpose|purpose]] (a [[b/_band|band]] of thieves).**
-- **A [[s/_small|small]] [[g/_group|group]] of [[p/_people|people]] [[l/_living|living]] in a [[s/_simple|simple]] [[s/_society|society]], [[c/_contrasted|contrasted]] with tribes, [[c/_chiefdoms|chiefdoms]], and states.**
+- **A [[s/_small|small]] [[g/_group|group]] of [[p/_people|people]] [[l/_living|living]] in a [[s/_simple|simple]] [[s/_society|society]], [[c/_contrasted|contrasted]] with tribes, [[c/_chiefdoms|chiefdoms]], and [[s/_states|states]].**
 - **A [[g/_group|group]] of [[a/_aboriginals|aboriginals]] that [[h/_has|has]] [[o/_official|official]] [[r/_recognition|recognition]] as an [[o/_organized|organized]] unit by the [[f/_federal|federal]] [[g/_government|government]] of [[c/_canada|Canada]].**
 ---
 #verb
 - **To [[g/_group|group]] together for a [[c/_common|common]] [[p/_purpose|purpose]]; to [[c/_confederate|confederate]].**
-- **To [[g/_group|group]] (students) together by [[p/_perceived|perceived]] [[a/_ability|ability]]; to stream.**
+- **To [[g/_group|group]] ([[s/_students|students]]) together by [[p/_perceived|perceived]] [[a/_ability|ability]]; to [[s/_stream|stream]].**
 ---
 ---

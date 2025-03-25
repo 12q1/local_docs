@@ -1,7 +1,7 @@
 # Germinal
 ---
 #adjective
-- **[[r/_relating|Relating]] to spring**
+- **[[r/_relating|Relating]] to [[s/_spring|spring]]**
 - **[[p/_pertaining|Pertaining]], [[s/_similar|similar]], or [[b/_belonging|belonging]] to a [[g/_germ|germ]].**
 - **[[r/_relating|Relating]] to a [[p/_plant|plant]] [[o/_ovary|ovary]]**
 - **[[s/_serving|Serving]] as a [[p/_point|point]] of [[o/_origin|origin]]; [[f/_formative|formative]].**

@@ -1,7 +1,7 @@
 # Fatality
 ---
 #noun
-- **The state [[p/_proceeding|proceeding]] from [[d/_destiny|destiny]]; [[i/_invincible|invincible]] [[n/_necessity|necessity]], superior to, and [[i/_independent|independent]] of, [[f/_free|free]] and [[r/_rational|rational]] [[c/_control|control]].**
+- **The [[s/_state|state]] [[p/_proceeding|proceeding]] from [[d/_destiny|destiny]]; [[i/_invincible|invincible]] [[n/_necessity|necessity]], superior to, and [[i/_independent|independent]] of, [[f/_free|free]] and [[r/_rational|rational]] [[c/_control|control]].**
 - **Tendency to [[d/_death|death]], [[d/_destruction|destruction]] or [[d/_danger|danger]], as [[i/_if|if]] by [[d/_decree|decree]] of [[f/_fate|fate]].**
 - **That which is [[d/_decreed|decreed]] by [[f/_fate|fate]] or which is [[f/_fatal|fatal]]; a [[f/_fatal|fatal]] [[e/_event|event]].**
 - **[[d/_death|Death]].**

@@ -7,7 +7,7 @@
 - **A [[p/_pawnbroker|pawnbroker]]'[[s/_s|s]] ticket, which [[m/_must|must]] be [[s/_shown|shown]] when [[r/_redeeming|redeeming]] a [[p/_pledged|pledged]] [[i/_item|item]].**
 - **The [[g/_game|game]] of [[d/_duplicate|duplicate]] [[b/_bridge|bridge]].**
 - **The [[g/_game|game]] of [[d/_duplicate|duplicate]] [[s/_scrabble|Scrabble]].**
-- **A [[b/_biological|biological]] specimen that was [[g/_gathered|gathered]] [[a/_alongside|alongside]] [[a/_another|another]] specimen and [[r/_represents|represents]] the [[s/_same|same]] species.**
+- **A [[b/_biological|biological]] [[s/_specimen|specimen]] that was [[g/_gathered|gathered]] [[a/_alongside|alongside]] [[a/_another|another]] [[s/_specimen|specimen]] and [[r/_represents|represents]] the [[s/_same|same]] [[s/_species|species]].**
 ---
 ### Synonyms
 - [[r/_reproduction|reproduction]]

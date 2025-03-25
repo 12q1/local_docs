@@ -4,7 +4,7 @@
 - **To [[m/_move|move]]:**
 - **([[c/_chiefly|chiefly]] of a [[m/_machine|machine]]) To work or [[f/_function|function]] ([[p/_properly|properly]]); to [[m/_move|move]] or [[p/_perform|perform]] (as [[r/_required|required]]).**
 	- _Example: The engine just won't go anymore._
-- **To start; to [[b/_begin|begin]] (an [[a/_action|action]] or [[p/_process|process]]).**
+- **To [[s/_start|start]]; to [[b/_begin|begin]] (an [[a/_action|action]] or [[p/_process|process]]).**
 	- _Example: Get ready, get set, go!_
 - **To take a turn, [[e/_especially|especially]] in a [[g/_game|game]].**
 	- _Example: It’s your turn; go._
@@ -16,12 +16,12 @@
 	- _Example: This property goes all the way to the state line._
 - **To [[l/_lead|lead]] (to a [[p/_place|place]]); to [[g/_give|give]] [[a/_access|access]] to.**
 	- _Example: Does this road go to Fort Smith?_
-- **To [[b/_become|become]]. (The [[a/_adjective|adjective]] that [[f/_follows|follows]] usually [[d/_describes|describes]] a [[n/_negative|negative]] state.)**
+- **To [[b/_become|become]]. (The [[a/_adjective|adjective]] that [[f/_follows|follows]] usually [[d/_describes|describes]] a [[n/_negative|negative]] [[s/_state|state]].)**
 	- _Example: After failing as a criminal, he decided to go straight._
 - **To [[a/_assume|assume]] the [[o/_obligation|obligation]] or [[f/_function|function]] of; to be, to [[s/_serve|serve]] as.**
-- **To [[c/_continuously|continuously]] or [[h/_habitually|habitually]] be in a state.**
+- **To [[c/_continuously|continuously]] or [[h/_habitually|habitually]] be in a [[s/_state|state]].**
 	- _Example: I don't want my children to go hungry._
-- **To [[c/_come|come]] to (a [[c/_certain|certain]] [[c/_condition|condition]] or state).**
+- **To [[c/_come|come]] to (a [[c/_certain|certain]] [[c/_condition|condition]] or [[s/_state|state]]).**
 	- _Example: They went into debt, she goes to sleep around 10 o'clock._
 - **To [[c/_change|change]] (from [[o/_one|one]] value to [[a/_another|another]]) in the [[m/_meaning|meaning]] of wend.**
 	- _Example: The traffic light went straight from green to red._
@@ -29,7 +29,7 @@
 	- _Example: How did your meeting with Smith go?_
 - **To tend (toward a [[r/_result|result]]).**
 	- _Example: These experiences go to make us stronger._
-- **To [[c/_contribute|contribute]] to a (specified) [[e/_end|end]] [[p/_product|product]] or [[r/_result|result]].**
+- **To [[c/_contribute|contribute]] to a ([[s/_specified|specified]]) [[e/_end|end]] [[p/_product|product]] or [[r/_result|result]].**
 	- _Example: qualities that go to make a lady / lip-reader / sharpshooter_
 - **To [[p/_pass|pass]], to be used up:**
 - **To [[d/_die|die]].**
@@ -41,7 +41,7 @@
 	- _Example: Everything must go._
 - **To be [[g/_given|given]], [[e/_especially|especially]] to be [[a/_assigned|assigned]] or [[a/_allotted|allotted]].**
 	- _Example: The award went to Steven Spielberg._
-- **To survive or [[g/_get|get]] by; to [[l/_last|last]] or [[p/_persist|persist]] for a stated [[l/_length|length]] of time.**
+- **To survive or [[g/_get|get]] by; to [[l/_last|last]] or [[p/_persist|persist]] for a [[s/_stated|stated]] [[l/_length|length]] of time.**
 	- _Example: Can you two go twenty minutes without arguing?!_
 - **To [[h/_have|have]] a [[c/_certain|certain]] [[r/_record|record]].**
 	- _Example: The team is going five in a row._

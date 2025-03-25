@@ -6,7 +6,7 @@
 	- _Example: We hope for a smooth transition to the new system._
 - **[[b/_bland|Bland]]; [[g/_glib|glib]].**
 - **[[f/_flowing|Flowing]] or uttered without [[c/_check|check]], [[o/_obstruction|obstruction]], or [[h/_hesitation|hesitation]]; not [[h/_harsh|harsh]]; [[f/_fluent|fluent]].**
-- **(of a [[p/_person|person]]) Suave; [[s/_sophisticated|sophisticated]].**
+- **(of a [[p/_person|person]]) [[s/_suave|Suave]]; [[s/_sophisticated|sophisticated]].**
 - **(of an [[a/_action|action]]) [[n/_natural|Natural]]; unconstrained.**
 - **(of a [[m/_motion|motion]]) Unbroken.**
 - **([[c/_chiefly|chiefly]] of water) [[p/_placid|Placid]], [[c/_calm|calm]].**
@@ -16,7 +16,7 @@
 - **(of a [[f/_function|function]]) [[h/_having|Having]] [[d/_derivatives|derivatives]] of [[a/_all|all]] [[f/_finite|finite]] [[o/_orders|orders]] at [[a/_all|all]] [[p/_points|points]] within the [[f/_function|function]]’[[s/_s|s]] [[d/_domain|domain]].**
 - **(of a [[n/_number|number]]) That [[f/_factors|factors]] [[c/_completely|completely]] [[i/_into|into]] [[s/_small|small]] [[p/_prime|prime]] [[n/_numbers|numbers]].**
 - **(of a vowel) [[l/_lacking|Lacking]] [[m/_marked|marked]] [[a/_aspiration|aspiration]].**
-- **(of [[m/_muscles|muscles]]) [[i/_involuntary|Involuntary]] and [[n/_non|non]]-striated.**
+- **(of [[m/_muscles|muscles]]) [[i/_involuntary|Involuntary]] and [[n/_non|non]]-[[s/_striated|striated]].**
 ---
 ### Synonyms
 - [[e/_even|even]], [[f/_fluid|fluid]]

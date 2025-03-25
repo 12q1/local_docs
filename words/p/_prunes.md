@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_plum|plum]].**
-- **The [[d/_dried|dried]], wrinkled [[f/_fruit|fruit]] of [[c/_certain|certain]] species of [[p/_plum|plum]].**
+- **The [[d/_dried|dried]], wrinkled [[f/_fruit|fruit]] of [[c/_certain|certain]] [[s/_species|species]] of [[p/_plum|plum]].**
 - **An [[o/_old|old]] woman, [[e/_especially|especially]] a wrinkly [[o/_one|one]].**
 ---
 #verb
@@ -13,7 +13,7 @@
 	- _Example: A good grape grower will prune the vines once a year._
 - **To [[c/_cut|cut]] [[d/_down|down]] or [[s/_shorten|shorten]] (by the [[r/_removal|removal]] of unnecessary [[m/_material|material]]).**
 	- _Example: to prune a budget, or an essay_
-- **To [[r/_remove|remove]] unnecessary [[b/_branches|branches]] from a tree [[d/_data|data]] structure.**
+- **To [[r/_remove|remove]] unnecessary [[b/_branches|branches]] from a tree [[d/_data|data]] [[s/_structure|structure]].**
 - **To [[p/_preen|preen]]; to [[p/_prepare|prepare]]; to [[d/_dress|dress]].**
 ---
 ---

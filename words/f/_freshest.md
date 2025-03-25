@@ -3,15 +3,15 @@
 #adjective
 - **[[n/_newly|Newly]] [[p/_produced|produced]] or [[o/_obtained|obtained]]; [[r/_recent|recent]].**
 	- _Example: He followed the fresh hoofprints to find the deer._
-- **(of [[f/_food|food]]) Not [[c/_cooked|cooked]], [[d/_dried|dried]], [[f/_frozen|frozen]], or spoiled.**
+- **(of [[f/_food|food]]) Not [[c/_cooked|cooked]], [[d/_dried|dried]], [[f/_frozen|frozen]], or [[s/_spoiled|spoiled]].**
 	- _Example: After taking a beating in the boxing ring, the left side of his face looked like fresh meat._
-- **(of [[p/_plant|plant]] [[m/_material|material]]) Still [[g/_green|green]] and not [[d/_dried|dried]].**
+- **(of [[p/_plant|plant]] [[m/_material|material]]) [[s/_still|Still]] [[g/_green|green]] and not [[d/_dried|dried]].**
 - **[[i/_invigoratingly|Invigoratingly]] [[c/_cool|cool]] and [[r/_refreshing|refreshing]].**
 	- _Example: What a nice fresh breeze._
 - **(of water) Without [[s/_salt|salt]]; not [[s/_saline|saline]].**
 	- _Example: After a day at sea it was good to feel the fresh water of the stream._
 - **[[r/_rested|Rested]]; not tired or [[f/_fatigued|fatigued]].**
-- **In a [[r/_raw|raw]] or untried state; uncultured; unpracticed.**
+- **In a [[r/_raw|raw]] or untried [[s/_state|state]]; uncultured; unpracticed.**
 	- _Example: a fresh hand on a ship_
 - **[[y/_youthful|Youthful]]; [[f/_florid|florid]].**
 - **[[g/_good|Good]], [[f/_fashionable|fashionable]].**

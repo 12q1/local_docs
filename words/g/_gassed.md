@@ -19,7 +19,7 @@
 ### Synonyms
 - [[e/_en|en]], [[r/_refuel|refuel]]
 #adjective
-- **In a [[g/_gaseous|gaseous]] state.**
+- **In a [[g/_gaseous|gaseous]] [[s/_state|state]].**
 	- _Example: a gassed fluid_
 - **[[d/_drunk|Drunk]]; [[i/_intoxicated|intoxicated]] by [[a/_alcohol|alcohol]].**
 - **[[h/_high|High]]; [[i/_intoxicated|intoxicated]] by [[p/_psychoactive|psychoactive]] [[d/_drugs|drugs]].**

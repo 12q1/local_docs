@@ -17,13 +17,13 @@
 	- _Example: to dock an entail_
 ---
 #noun
-- **A [[f/_fixed|fixed]] structure [[a/_attached|attached]] to [[s/_shore|shore]] to which a vessel is [[s/_secured|secured]] when in [[p/_port|port]].**
-- **A structure [[a/_attached|attached]] to [[s/_shore|shore]] for [[l/_loading|loading]] and unloading vessels.**
+- **A [[f/_fixed|fixed]] [[s/_structure|structure]] [[a/_attached|attached]] to [[s/_shore|shore]] to which a vessel is [[s/_secured|secured]] when in [[p/_port|port]].**
+- **A [[s/_structure|structure]] [[a/_attached|attached]] to [[s/_shore|shore]] for [[l/_loading|loading]] and unloading vessels.**
 - **The [[b/_body|body]] of water [[b/_between|between]] two [[p/_piers|piers]].**
-- **The [[p/_place|place]] of [[a/_arrival|arrival]] and [[d/_departure|departure]] of a train in a [[r/_railway|railway]] station.**
+- **The [[p/_place|place]] of [[a/_arrival|arrival]] and [[d/_departure|departure]] of a train in a [[r/_railway|railway]] [[s/_station|station]].**
 - **A [[s/_section|section]] of a [[h/_hotel|hotel]] or [[r/_restaurant|restaurant]].**
 	- _Example: coffee dock_
-- **A [[d/_device|device]] [[d/_designed|designed]] as a [[b/_base|base]] for [[h/_holding|holding]] a [[c/_connected|connected]] [[p/_portable|portable]] [[a/_appliance|appliance]] such as a [[l/_laptop|laptop]] [[c/_computer|computer]] (in this [[c/_case|case]], [[r/_referred|referred]] to as a [[d/_docking|docking]] station), or a [[m/_mobile|mobile]] telephone, for [[p/_providing|providing]] the [[n/_necessary|necessary]] [[e/_electrical|electrical]] [[c/_charge|charge]] for [[i/_its|its]] [[a/_autonomy|autonomy]], or as a [[h/_hardware|hardware]] [[e/_extension|extension]] for [[a/_additional|additional]] [[c/_capabilities|capabilities]].**
+- **A [[d/_device|device]] [[d/_designed|designed]] as a [[b/_base|base]] for [[h/_holding|holding]] a [[c/_connected|connected]] [[p/_portable|portable]] [[a/_appliance|appliance]] such as a [[l/_laptop|laptop]] [[c/_computer|computer]] (in this [[c/_case|case]], [[r/_referred|referred]] to as a [[d/_docking|docking]] [[s/_station|station]]), or a [[m/_mobile|mobile]] telephone, for [[p/_providing|providing]] the [[n/_necessary|necessary]] [[e/_electrical|electrical]] [[c/_charge|charge]] for [[i/_its|its]] [[a/_autonomy|autonomy]], or as a [[h/_hardware|hardware]] [[e/_extension|extension]] for [[a/_additional|additional]] [[c/_capabilities|capabilities]].**
 - **A toolbar that [[p/_provides|provides]] the user with a way of [[l/_launching|launching]] [[a/_applications|applications]], and switching [[b/_between|between]] [[r/_running|running]] [[a/_applications|applications]].**
 - **An [[a/_act|act]] of [[d/_docking|docking]]; [[j/_joining|joining]] two things together.**
 ---

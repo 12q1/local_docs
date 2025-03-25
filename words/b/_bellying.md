@@ -6,7 +6,7 @@
 - **To [[c/_cause|cause]] to swell [[o/_out|out]]; to [[f/_fill|fill]].**
 ---
 #noun
-- **A [[b/_bulging|bulging]], swelling or [[b/_billowing|billowing]] [[s/_shape|shape]]; the [[a/_act|act]] or state of [[b/_bulging|bulging]], swelling or [[b/_billowing|billowing]].**
+- **A [[b/_bulging|bulging]], swelling or [[b/_billowing|billowing]] [[s/_shape|shape]]; the [[a/_act|act]] or [[s/_state|state]] of [[b/_bulging|bulging]], swelling or [[b/_billowing|billowing]].**
 ---
 ### Synonyms
 - [[b/_bulge|bulge]], [[c/_convexity|convexity]], [[g/_gibbosity|gibbosity]], [[p/_protrusion|protrusion]], [[p/_protuberance|protuberance]]

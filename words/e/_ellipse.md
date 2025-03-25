@@ -6,6 +6,6 @@
 ### Synonyms
 - [[o/_oval|oval]]
 #verb
-- **([[g/_grammar|grammar]]) To [[r/_remove|remove]] from a [[p/_phrase|phrase]] a word which is [[g/_grammatically|grammatically]] [[n/_needed|needed]], but which is [[c/_clearly|clearly]] understood without [[h/_having|having]] to be stated.**
+- **([[g/_grammar|grammar]]) To [[r/_remove|remove]] from a [[p/_phrase|phrase]] a word which is [[g/_grammatically|grammatically]] [[n/_needed|needed]], but which is [[c/_clearly|clearly]] understood without [[h/_having|having]] to be [[s/_stated|stated]].**
 ---
 ---

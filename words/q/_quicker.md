@@ -1,7 +1,7 @@
 # Quicker
 ---
 #adjective
-- **[[m/_moving|Moving]] with speed, [[r/_rapidity|rapidity]] or swiftness, or [[c/_capable|capable]] of [[d/_doing|doing]] [[s/_so|so]]; [[r/_rapid|rapid]]; [[f/_fast|fast]].**
+- **[[m/_moving|Moving]] with [[s/_speed|speed]], [[r/_rapidity|rapidity]] or swiftness, or [[c/_capable|capable]] of [[d/_doing|doing]] [[s/_so|so]]; [[r/_rapid|rapid]]; [[f/_fast|fast]].**
 	- _Example: He's a quick runner._
 - **[[o/_occurring|Occurring]] in a [[s/_short|short]] time; [[h/_happening|happening]] or [[d/_done|done]] [[r/_rapidly|rapidly]].**
 	- _Example: That was a quick meal._
@@ -12,7 +12,7 @@
 - **Of temper: [[e/_easily|easily]] [[a/_aroused|aroused]] to [[a/_anger|anger]]; [[q/_quick|quick]]-tempered.**
 	- _Example: He is wont to be rather quick of temper when tired._
 - **[[a/_alive|Alive]], [[l/_living|living]].**
-- **[[p/_pregnant|Pregnant]], [[e/_especially|especially]] at the stage where the [[f/_foetus|foetus]]'[[s/_s|s]] [[m/_movements|movements]] [[c/_can|can]] be [[f/_felt|felt]]; [[f/_figuratively|figuratively]], [[a/_alive|alive]] with [[s/_some|some]] [[e/_emotion|emotion]] or [[f/_feeling|feeling]].**
+- **[[p/_pregnant|Pregnant]], [[e/_especially|especially]] at the [[s/_stage|stage]] where the [[f/_foetus|foetus]]'[[s/_s|s]] [[m/_movements|movements]] [[c/_can|can]] be [[f/_felt|felt]]; [[f/_figuratively|figuratively]], [[a/_alive|alive]] with [[s/_some|some]] [[e/_emotion|emotion]] or [[f/_feeling|feeling]].**
 - **Of water: [[f/_flowing|flowing]].**
 - **[[b/_burning|Burning]], [[f/_flammable|flammable]], [[f/_fiery|fiery]].**
 - **[[f/_fresh|Fresh]]; [[b/_bracing|bracing]]; [[s/_sharp|sharp]]; [[k/_keen|keen]].**

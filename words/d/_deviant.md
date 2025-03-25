@@ -9,7 +9,7 @@
 ### Synonyms
 - [[h/_heteroclite|heteroclite]], [[n/_nonconformist|nonconformist]], [[a/_abnormality|abnormality]], [[i/_irregularity|irregularity]], [[o/_outlier|outlier]]
 #adjective
-- **[[c/_characterized|Characterized]] by [[d/_deviation|deviation]] from an [[e/_expectation|expectation]] or a [[s/_social|social]] standard.**
+- **[[c/_characterized|Characterized]] by [[d/_deviation|deviation]] from an [[e/_expectation|expectation]] or a [[s/_social|social]] [[s/_standard|standard]].**
 	- _Example: At the trial, the extent of his deviant behavior became clear._
 ---
 ---

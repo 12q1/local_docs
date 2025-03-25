@@ -3,11 +3,11 @@
 #noun
 - **An [[o/_offshoot|offshoot]] of a [[l/_larger|larger]] [[r/_religion|religion]]; a [[g/_group|group]] [[s/_sharing|sharing]] [[p/_particular|particular]] ([[o/_often|often]] unorthodox) [[p/_political|political]] and/or [[r/_religious|religious]] [[b/_beliefs|beliefs]].**
 	- _Example: A religious sect._
-- **A [[g/_group|group]] [[f/_following|following]] a specific [[i/_ideal|ideal]] or a [[l/_leader|leader]].**
+- **A [[g/_group|group]] [[f/_following|following]] a [[s/_specific|specific]] [[i/_ideal|ideal]] or a [[l/_leader|leader]].**
 - **A [[c/_cutting|cutting]]; a [[s/_scion|scion]].**
 ---
 #noun
-- **A [[c/_category|category]] [[i/_into|into]] which [[s/_sexually|sexually]]-[[r/_reproducing|reproducing]] [[o/_organisms|organisms]] are [[d/_divided|divided]] on the [[b/_basis|basis]] of their [[r/_reproductive|reproductive]] [[r/_roles|roles]] in their species.**
+- **A [[c/_category|category]] [[i/_into|into]] which [[s/_sexually|sexually]]-[[r/_reproducing|reproducing]] [[o/_organisms|organisms]] are [[d/_divided|divided]] on the [[b/_basis|basis]] of their [[r/_reproductive|reproductive]] [[r/_roles|roles]] in their [[s/_species|species]].**
 	- _Example: The effect of the medication is dependent upon age, sex, and other factors._
 - **[[a/_another|Another]] [[c/_category|category]], [[e/_especially|especially]] of [[h/_humans|humans]] and [[e/_especially|especially]] [[b/_based|based]] on [[s/_sexuality|sexuality]] or [[g/_gender|gender]] [[r/_roles|roles]].**
 - **The [[m/_members|members]] of such a [[c/_category|category]], taken [[c/_collectively|collectively]].**

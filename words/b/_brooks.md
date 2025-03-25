@@ -9,7 +9,7 @@
 ### Synonyms
 - [[a/_apply|apply]], [[e/_employ|employ]], [[u/_utilize|utilize]]
 #noun
-- **A [[b/_body|body]] of [[r/_running|running]] water [[s/_smaller|smaller]] than a [[r/_river|river]]; a [[s/_small|small]] stream.**
+- **A [[b/_body|body]] of [[r/_running|running]] water [[s/_smaller|smaller]] than a [[r/_river|river]]; a [[s/_small|small]] [[s/_stream|stream]].**
 - **A water [[m/_meadow|meadow]].**
 - **(in the [[p/_plural|plural]]) [[l/_low|Low]], [[m/_marshy|marshy]] [[g/_ground|ground]].**
 ---

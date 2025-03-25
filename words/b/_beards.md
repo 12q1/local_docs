@@ -7,7 +7,7 @@
 - **The [[b/_byssus|byssus]] of [[c/_certain|certain]] [[s/_shellfish|shellfish]].**
 - **The [[g/_gills|gills]] of [[s/_some|some]] [[b/_bivalves|bivalves]], such as the [[o/_oyster|oyster]].**
 - **In [[i/_insects|insects]], the [[h/_hairs|hairs]] of the [[l/_labial|labial]] [[p/_palpi|palpi]] of [[m/_moths|moths]] and [[b/_butterflies|butterflies]].**
-- **[[l/_long|Long]] or stiff [[h/_hairs|hairs]] on a [[p/_plant|plant]]; the [[a/_awn|awn]].**
+- **[[l/_long|Long]] or [[s/_stiff|stiff]] [[h/_hairs|hairs]] on a [[p/_plant|plant]]; the [[a/_awn|awn]].**
 	- _Example: the beard of grain_
 - **A [[b/_barb|barb]] or [[s/_sharp|sharp]] [[p/_point|point]] of an [[a/_arrow|arrow]] or [[o/_other|other]] [[i/_instrument|instrument]], [[p/_projecting|projecting]] [[b/_backward|backward]] to [[p/_prevent|prevent]] the [[h/_head|head]] from [[b/_being|being]] [[e/_easily|easily]] [[d/_drawn|drawn]] [[o/_out|out]].**
 - **The [[c/_curved|curved]] underside of an axehead, [[e/_extending|extending]] from the [[l/_lower|lower]] [[e/_end|end]] of the [[c/_cutting|cutting]] [[e/_edge|edge]] to the axehandle.**

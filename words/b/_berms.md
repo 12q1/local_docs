@@ -6,7 +6,7 @@
 - **A terrace [[f/_formed|formed]] by wave [[a/_action|action]] [[a/_along|along]] a [[b/_beach|beach]]**
 - **A [[m/_mound|mound]] or [[b/_bank|bank]] of [[e/_earth|earth]], used [[e/_especially|especially]] as a [[b/_barrier|barrier]] or to [[p/_provide|provide]] [[i/_insulation|insulation]]**
 - **A [[l/_ledge|ledge]] [[b/_between|between]] the [[p/_parapet|parapet]] and the [[m/_moat|moat]] in a [[f/_fortification|fortification]]**
-- **([[i/_indiana|Indiana]]) A strip of [[l/_land|land]] [[b/_between|between]] a street and [[s/_sidewalk|sidewalk]]**
+- **([[i/_indiana|Indiana]]) A [[s/_strip|strip]] of [[l/_land|land]] [[b/_between|between]] a [[s/_street|street]] and [[s/_sidewalk|sidewalk]]**
 ---
 ### Synonyms
 - [[h/_heelpath|heelpath]]

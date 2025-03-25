@@ -5,7 +5,7 @@
 	- _Example: an old abandoned building;  an old friend_
 - **[[h/_having|Having]] [[b/_been|been]] used and thus [[n/_no|no]] [[l/_longer|longer]] [[n/_new|new]] or unused.**
 	- _Example: I find that an old toothbrush is good to clean the keyboard with._
-- **[[h/_having|Having]] [[e/_existed|existed]] or [[l/_lived|lived]] for the specified time.**
+- **[[h/_having|Having]] [[e/_existed|existed]] or [[l/_lived|lived]] for the [[s/_specified|specified]] time.**
 	- _Example: How old are they? She’s five years old and he's seven. We also have a young teen and a two-year-old child._
 - **([[h/_heading|heading]]) Of an [[e/_earlier|earlier]] time.**
 - **Tiresome [[a/_after|after]] [[p/_prolonged|prolonged]] [[r/_repetition|repetition]].**

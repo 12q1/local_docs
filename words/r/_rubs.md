@@ -18,7 +18,7 @@
 	- _Example: I rubbed the glass with the cloth._
 - **To be [[r/_rubbed|rubbed]] [[a/_against|against]] [[s/_something|something]].**
 	- _Example: My shoes are beginning to rub._
-- **To spread a substance thinly [[o/_over|over]]; to [[s/_smear|smear]].**
+- **To [[s/_spread|spread]] a substance thinly [[o/_over|over]]; to [[s/_smear|smear]].**
 	- _Example: meat rubbed with spices before barbecuing_
 - **To [[m/_move|move]] or [[p/_pass|pass]] with [[d/_difficulty|difficulty]].**
 	- _Example: to rub through woods, as huntsmen_

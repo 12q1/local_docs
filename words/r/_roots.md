@@ -1,7 +1,7 @@
 # Roots
 ---
 #noun
-- **The [[p/_part|part]] of a [[p/_plant|plant]], [[g/_generally|generally]] underground, that [[a/_anchors|anchors]] and supports the [[p/_plant|plant]] [[b/_body|body]], [[a/_absorbs|absorbs]] and stores water and [[n/_nutrients|nutrients]], and in [[s/_some|some]] [[p/_plants|plants]] is [[a/_able|able]] to [[p/_perform|perform]] vegetative [[r/_reproduction|reproduction]].**
+- **The [[p/_part|part]] of a [[p/_plant|plant]], [[g/_generally|generally]] underground, that [[a/_anchors|anchors]] and supports the [[p/_plant|plant]] [[b/_body|body]], [[a/_absorbs|absorbs]] and [[s/_stores|stores]] water and [[n/_nutrients|nutrients]], and in [[s/_some|some]] [[p/_plants|plants]] is [[a/_able|able]] to [[p/_perform|perform]] vegetative [[r/_reproduction|reproduction]].**
 	- _Example: This tree's roots can go as deep as twenty metres underground._
 - **A [[r/_root|root]] vegetable.**
 - **The [[p/_part|part]] of a tooth [[e/_extending|extending]] [[i/_into|into]] the [[b/_bone|bone]] [[h/_holding|holding]] the tooth in [[p/_place|place]].**
@@ -12,19 +12,19 @@
 	- _Example: He dyed his hair black last month, so the grey roots can be seen._
 - **The [[p/_primary|primary]] [[s/_source|source]]; [[o/_origin|origin]].**
 	- _Example: The love of money is the root of all evil._
-- **Of a [[n/_number|number]] or [[e/_expression|expression]], a [[n/_number|number]] which, when [[r/_raised|raised]] to a specified [[p/_power|power]], [[y/_yields|yields]] the specified [[n/_number|number]] or [[e/_expression|expression]].**
+- **Of a [[n/_number|number]] or [[e/_expression|expression]], a [[n/_number|number]] which, when [[r/_raised|raised]] to a [[s/_specified|specified]] [[p/_power|power]], [[y/_yields|yields]] the [[s/_specified|specified]] [[n/_number|number]] or [[e/_expression|expression]].**
 	- _Example: The cube root of 27 is 3._
-- **A square [[r/_root|root]] (understood [[i/_if|if]] [[n/_no|no]] [[p/_power|power]] is specified; in which [[c/_case|case]], “the [[r/_root|root]] of” is [[o/_often|often]] [[a/_abbreviated|abbreviated]] to “[[r/_root|root]]”).**
+- **A [[s/_square|square]] [[r/_root|root]] (understood [[i/_if|if]] [[n/_no|no]] [[p/_power|power]] is [[s/_specified|specified]]; in which [[c/_case|case]], “the [[r/_root|root]] of” is [[o/_often|often]] [[a/_abbreviated|abbreviated]] to “[[r/_root|root]]”).**
 	- _Example: Multiply by root 2._
 - **A zero (of an [[e/_equation|equation]]).**
 - **The [[s/_single|single]] [[n/_node|node]] of a tree that [[h/_has|has]] [[n/_no|no]] [[p/_parent|parent]].**
-- **The [[p/_primary|primary]] [[l/_lexical|lexical]] unit of a word, which [[c/_carries|carries]] the [[m/_most|most]] [[s/_significant|significant]] [[a/_aspects|aspects]] of [[s/_semantic|semantic]] [[c/_content|content]] and [[c/_cannot|cannot]] be [[r/_reduced|reduced]] [[i/_into|into]] [[s/_smaller|smaller]] [[c/_constituents|constituents]]. [[i/_inflectional|Inflectional]] stems [[o/_often|often]] [[d/_derive|derive]] from [[r/_roots|roots]].**
+- **The [[p/_primary|primary]] [[l/_lexical|lexical]] unit of a word, which [[c/_carries|carries]] the [[m/_most|most]] [[s/_significant|significant]] [[a/_aspects|aspects]] of [[s/_semantic|semantic]] [[c/_content|content]] and [[c/_cannot|cannot]] be [[r/_reduced|reduced]] [[i/_into|into]] [[s/_smaller|smaller]] [[c/_constituents|constituents]]. [[i/_inflectional|Inflectional]] [[s/_stems|stems]] [[o/_often|often]] [[d/_derive|derive]] from [[r/_roots|roots]].**
 - **([[p/_philology|philology]]) A word from which [[a/_another|another]] word or words are [[d/_derived|derived]].**
 - **The [[f/_fundamental|fundamental]] tone of [[a/_any|any]] [[c/_chord|chord]]; the tone from whose [[h/_harmonics|harmonics]], or [[o/_overtones|overtones]], a [[c/_chord|chord]] is [[c/_composed|composed]].**
 - **The [[l/_lowest|lowest]] [[p/_place|place]], [[p/_position|position]], or [[p/_part|part]].**
-- **In UNIX terminology, the [[f/_first|first]] user [[a/_account|account]] with [[c/_complete|complete]] [[a/_access|access]] to the [[o/_operating|operating]] [[s/_system|system]] and [[i/_its|its]] [[c/_configuration|configuration]], [[f/_found|found]] at the [[r/_root|root]] of the [[d/_directory|directory]] structure; the [[p/_person|person]] who [[m/_manages|manages]] [[a/_accounts|accounts]] on a UNIX [[s/_system|system]].**
+- **In UNIX terminology, the [[f/_first|first]] user [[a/_account|account]] with [[c/_complete|complete]] [[a/_access|access]] to the [[o/_operating|operating]] [[s/_system|system]] and [[i/_its|its]] [[c/_configuration|configuration]], [[f/_found|found]] at the [[r/_root|root]] of the [[d/_directory|directory]] [[s/_structure|structure]]; the [[p/_person|person]] who [[m/_manages|manages]] [[a/_accounts|accounts]] on a UNIX [[s/_system|system]].**
 	- _Example: I have to log in as root before I do that._
-- **The [[h/_highest|highest]] [[d/_directory|directory]] of a [[d/_directory|directory]] structure which [[m/_may|may]] [[c/_contain|contain]] [[b/_both|both]] [[f/_files|files]] and subdirectories.**
+- **The [[h/_highest|highest]] [[d/_directory|directory]] of a [[d/_directory|directory]] [[s/_structure|structure]] which [[m/_may|may]] [[c/_contain|contain]] [[b/_both|both]] [[f/_files|files]] and subdirectories.**
 	- _Example: I installed the files in the root directory._
 - **A [[p/_penis|penis]], [[e/_especially|especially]] the [[b/_base|base]] of a [[p/_penis|penis]].**
 ---

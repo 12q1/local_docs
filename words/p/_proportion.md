@@ -6,7 +6,7 @@
 - **[[p/_proper|Proper]] or [[e/_equal|equal]] [[s/_share|share]].**
 - **The [[r/_relation|relation]] of [[o/_one|one]] [[p/_part|part]] to [[a/_another|another]] or to the whole with [[r/_respect|respect]] to [[m/_magnitude|magnitude]], [[q/_quantity|quantity]], or [[d/_degree|degree]].**
 	- _Example: the proportion of the parts of a building, or of the body_
-- **A statement of [[e/_equality|equality]] [[b/_between|between]] two [[r/_ratios|ratios]].**
+- **A [[s/_statement|statement]] of [[e/_equality|equality]] [[b/_between|between]] two [[r/_ratios|ratios]].**
 - **The "[[r/_rule|rule]] of three", in which three terms are [[g/_given|given]] to [[f/_find|find]] a [[f/_fourth|fourth]].**
 - **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[s/_size|Size]].**
 ---

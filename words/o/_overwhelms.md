@@ -1,7 +1,7 @@
 # Overwhelms
 ---
 #noun
-- **The state or [[c/_condition|condition]] of [[b/_being|being]] [[o/_overwhelmed|overwhelmed]].**
+- **The [[s/_state|state]] or [[c/_condition|condition]] of [[b/_being|being]] [[o/_overwhelmed|overwhelmed]].**
 ---
 #verb
 - **To [[e/_engulf|engulf]], surge [[o/_over|over]] and submerge.**

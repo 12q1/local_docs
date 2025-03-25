@@ -7,15 +7,15 @@
 	- _Example: The brooch showed the profile of a Victorian woman._
 - **A summary or [[c/_collection|collection]] of [[i/_information|information]], [[e/_especially|especially]] [[a/_about|about]] a [[p/_person|person]]**
 	- _Example: Law enforcement assembled a profile of the suspect._
-- **A specific [[s/_space|space]] or [[f/_field|field]] in which users [[c/_can|can]] [[p/_provide|provide]] various types of [[p/_personal|personal]] [[i/_information|information]] in [[s/_software|software]] or [[i/_internet|Internet]] [[s/_systems|systems]].**
+- **A [[s/_specific|specific]] [[s/_space|space]] or [[f/_field|field]] in which users [[c/_can|can]] [[p/_provide|provide]] various types of [[p/_personal|personal]] [[i/_information|information]] in [[s/_software|software]] or [[i/_internet|Internet]] [[s/_systems|systems]].**
 	- _Example: I just updated my Facebook profile to show I got engaged._
 - **[[r/_reputation|Reputation]].**
 - **The [[a/_amount|amount]] by which [[s/_something|something]] [[p/_protrudes|protrudes]].**
 	- _Example: Choose a handle with a low profile so it does not catch on things._
 - **[[p/_prominence|Prominence]]; [[n/_noticeability|noticeability]].**
 	- _Example: Acting is, by nature, profession in which one must keep a high profile._
-- **A [[s/_smoothed|smoothed]] ([[e/_e|e]].[[g/_g|g]]., troweled or [[b/_brushed|brushed]]) vertical surface of an [[e/_excavation|excavation]] [[s/_showing|showing]] [[e/_evidence|evidence]] of at [[l/_least|least]] [[o/_one|one]] [[f/_feature|feature]] or [[d/_diagnostic|diagnostic]] specimen; the [[g/_graphic|graphic]] [[r/_recording|recording]] of such as by [[s/_sketching|sketching]], [[p/_photographing|photographing]], [[e/_etc|etc]].**
-- **[[c/_character|Character]]; totality of [[r/_related|related]] [[c/_characteristics|characteristics]]; [[s/_signature|signature]]; status ([[e/_especially|especially]] in [[s/_scientific|scientific]], technical, or [[m/_military|military]] uses).**
+- **A [[s/_smoothed|smoothed]] ([[e/_e|e]].[[g/_g|g]]., troweled or [[b/_brushed|brushed]]) vertical surface of an [[e/_excavation|excavation]] [[s/_showing|showing]] [[e/_evidence|evidence]] of at [[l/_least|least]] [[o/_one|one]] [[f/_feature|feature]] or [[d/_diagnostic|diagnostic]] [[s/_specimen|specimen]]; the [[g/_graphic|graphic]] [[r/_recording|recording]] of such as by [[s/_sketching|sketching]], [[p/_photographing|photographing]], [[e/_etc|etc]].**
+- **[[c/_character|Character]]; totality of [[r/_related|related]] [[c/_characteristics|characteristics]]; [[s/_signature|signature]]; [[s/_status|status]] ([[e/_especially|especially]] in [[s/_scientific|scientific]], technical, or [[m/_military|military]] uses).**
 	- _Example: What's the thermal profile on that thing?_
 - **A [[s/_section|section]] of [[a/_any|any]] [[m/_member|member]], [[m/_made|made]] at [[r/_right|right]] [[a/_angles|angles]] with [[i/_its|its]] [[m/_main|main]] [[l/_lines|lines]], [[s/_showing|showing]] the [[e/_exact|exact]] [[s/_shape|shape]] of [[m/_mouldings|mouldings]] [[e/_etc|etc]].**
 - **A [[d/_drawing|drawing]] [[e/_exhibiting|exhibiting]] a vertical [[s/_section|section]] of the [[g/_ground|ground]] [[a/_along|along]] a surveyed [[l/_line|line]], or [[g/_graded|graded]] work, as of a [[r/_railway|railway]], [[s/_showing|showing]] [[e/_elevations|elevations]], [[d/_depressions|depressions]], [[g/_grades|grades]], [[e/_etc|etc]].**
@@ -25,7 +25,7 @@
 - [[p/_portrait|portrait]]
 #verb
 - **To [[c/_create|create]] a summary or [[c/_collection|collection]] of [[i/_information|information]] [[a/_about|about]] (a [[p/_person|person]], [[e/_etc|etc]].).**
-- **To [[a/_act|act]] [[b/_based|based]] on such a summary, [[e/_especially|especially]] [[o/_one|one]] that is a stereotype; to [[e/_engage|engage]] in [[p/_profiling|profiling]].**
+- **To [[a/_act|act]] [[b/_based|based]] on such a summary, [[e/_especially|especially]] [[o/_one|one]] that is a [[s/_stereotype|stereotype]]; to [[e/_engage|engage]] in [[p/_profiling|profiling]].**
 - **To [[d/_draw|draw]] in [[p/_profile|profile]] or [[o/_outline|outline]].**
 - **To [[g/_give|give]] a [[d/_definite|definite]] [[f/_form|form]] by [[c/_chiselling|chiselling]], [[m/_milling|milling]], [[e/_etc|etc]].**
 - **To [[m/_measure|measure]] the [[p/_performance|performance]] of various [[p/_parts|parts]] of (a [[p/_program|program]]) [[s/_so|so]] as to [[l/_locate|locate]] [[b/_bottlenecks|bottlenecks]].**

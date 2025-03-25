@@ -1,7 +1,7 @@
 # Revolutions
 ---
 #noun
-- **A [[p/_political|political]] upheaval in a [[g/_government|government]] or [[n/_nation|nation]] state [[c/_characterized|characterized]] by [[g/_great|great]] [[c/_change|change]].**
+- **A [[p/_political|political]] upheaval in a [[g/_government|government]] or [[n/_nation|nation]] [[s/_state|state]] [[c/_characterized|characterized]] by [[g/_great|great]] [[c/_change|change]].**
 - **The [[r/_removal|removal]] and [[r/_replacement|replacement]] of a [[g/_government|government]], [[e/_especially|especially]] by sudden violent [[a/_action|action]].**
 - **[[r/_rotation|Rotation]]: the turning of an [[o/_object|object]] [[a/_around|around]] an [[a/_axis|axis]].**
 - **A [[r/_rotation|rotation]]: [[o/_one|one]] [[c/_complete|complete]] turn of an [[o/_object|object]] [[d/_during|during]] [[r/_rotation|rotation]].**

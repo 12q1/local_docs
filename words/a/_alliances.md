@@ -1,11 +1,11 @@
 # Alliances
 ---
 #noun
-- **The state of [[b/_being|being]] [[a/_allied|allied]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[a/_allied|allied]].**
 	- _Example: matrimonial alliances; an alliance between church and state, or between two countries_
 - **The [[a/_act|act]] of [[a/_allying|allying]] or uniting.**
-- **A union or [[c/_connection|connection]] of [[i/_interests|interests]] [[b/_between|between]] [[f/_families|families]], states, [[p/_parties|parties]], [[e/_etc|etc]]., [[e/_especially|especially]] [[b/_between|between]] [[f/_families|families]] by [[m/_marriage|marriage]] and states by [[c/_compact|compact]], treaty, or [[l/_league|league]].**
-- **[[a/_any|Any]] union [[r/_resembling|resembling]] that of [[f/_families|families]] or states; union by [[r/_relationship|relationship]] in [[q/_qualities|qualities]]; [[a/_affinity|affinity]].**
+- **A union or [[c/_connection|connection]] of [[i/_interests|interests]] [[b/_between|between]] [[f/_families|families]], [[s/_states|states]], [[p/_parties|parties]], [[e/_etc|etc]]., [[e/_especially|especially]] [[b/_between|between]] [[f/_families|families]] by [[m/_marriage|marriage]] and [[s/_states|states]] by [[c/_compact|compact]], treaty, or [[l/_league|league]].**
+- **[[a/_any|Any]] union [[r/_resembling|resembling]] that of [[f/_families|families]] or [[s/_states|states]]; union by [[r/_relationship|relationship]] in [[q/_qualities|qualities]]; [[a/_affinity|affinity]].**
 - **(with the [[d/_definite|definite]] [[a/_article|article]]) The [[p/_persons|persons]] or [[p/_parties|parties]] [[a/_allied|allied]].**
 ---
 ### Synonyms

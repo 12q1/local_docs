@@ -1,7 +1,7 @@
 # Adipose
 ---
 #noun
-- **[[a/_animal|Animal]] [[f/_fat|fat]] stored in the tissue of the [[b/_body|body]].**
+- **[[a/_animal|Animal]] [[f/_fat|fat]] [[s/_stored|stored]] in the tissue of the [[b/_body|body]].**
 ---
 #adjective
 - **[[c/_containing|Containing]], [[c/_composed|composed]] of, or [[c/_consisting|consisting]] of [[f/_fat|fat]]; [[f/_fatty|fatty]].**

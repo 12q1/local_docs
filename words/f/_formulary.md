@@ -8,6 +8,6 @@
 - **A [[c/_collection|collection]] of [[f/_formulas|formulas]] in [[s/_sciences|sciences]] and [[m/_mathematics|mathematics]].**
 ---
 #adjective
-- **Stated; [[p/_prescribed|prescribed]]; [[r/_ritual|ritual]].**
+- **[[s/_stated|Stated]]; [[p/_prescribed|prescribed]]; [[r/_ritual|ritual]].**
 ---
 ---

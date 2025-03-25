@@ -8,7 +8,7 @@
 - **A [[d/_dart|dart]]-[[s/_shaped|shaped]] target towed [[b/_behind|behind]] an [[a/_aircraft|aircraft]] to train [[s/_shooters|shooters]].**
 - **A [[p/_plan|plan]] or [[s/_scheme|scheme]].**
 - **A sudden or [[f/_fast|fast]] [[m/_movement|movement]].**
-- **A [[f/_fold|fold]] that is stitched on a [[g/_garment|garment]].**
+- **A [[f/_fold|fold]] that is [[s/_stitched|stitched]] on a [[g/_garment|garment]].**
 - **A [[f/_fish|fish]], the [[d/_dace|dace]].**
 - **A [[c/_cigarette|cigarette]].**
 ---

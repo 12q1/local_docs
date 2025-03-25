@@ -1,7 +1,7 @@
 # Bellyaches
 ---
 #noun
-- **[[a/_any|Any]] [[p/_pain|pain]] in the [[b/_belly|belly]], stomach, or [[a/_abdomen|abdomen]].**
+- **[[a/_any|Any]] [[p/_pain|pain]] in the [[b/_belly|belly]], [[s/_stomach|stomach]], or [[a/_abdomen|abdomen]].**
 	- _Example: Eating too much candy can give you a bellyache._
 ---
 ### Synonyms

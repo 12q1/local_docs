@@ -24,7 +24,7 @@
 	- _Example: Dude, this car's got a sick subwoofer!_
 - **In [[p/_poor|poor]] [[c/_condition|condition]].**
 	- _Example: sick building syndrome; my car is looking pretty sick; my job prospects are pretty sick_
-- **[[f/_failing|Failing]] to sustain [[a/_adequate|adequate]] [[h/_harvests|harvests]] of [[c/_crop|crop]], usually specified.**
+- **[[f/_failing|Failing]] to sustain [[a/_adequate|adequate]] [[h/_harvests|harvests]] of [[c/_crop|crop]], usually [[s/_specified|specified]].**
 ---
 ### Synonyms
 - [[d/_disturbed|disturbed]], [[t/_twisted|twisted]], [[w/_warped|warped]], [[i/_ill|ill]], [[p/_poorly|poorly]], [[s/_sickly|sickly]], [[u/_unwell|unwell]], [[n/_nauseated|nauseated]], [[r/_rad|rad]], [[w/_wicked|wicked]]

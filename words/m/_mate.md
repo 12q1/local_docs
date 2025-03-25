@@ -5,7 +5,7 @@
 - **([[e/_especially|especially]] of a [[n/_non|non]]-[[h/_human|human]] [[a/_animal|animal]]) A [[b/_breeding|breeding]] [[p/_partner|partner]].**
 - **A [[f/_friend|friend]], usually of the [[s/_same|same]] [[s/_sex|sex]].**
 	- _Example: He's my best mate._
-- **[[f/_friendly|Friendly]] term of [[a/_address|address]] to a stranger, usually [[m/_male|male]], of [[s/_similar|similar]] [[a/_age|age]]**
+- **[[f/_friendly|Friendly]] term of [[a/_address|address]] to a [[s/_stranger|stranger]], usually [[m/_male|male]], of [[s/_similar|similar]] [[a/_age|age]]**
 	- _Example: Excuse me, mate, have you got the time?_
 - **In [[n/_naval|naval]] [[r/_ranks|ranks]], a [[n/_non|non]]-[[c/_commissioned|commissioned]] [[o/_officer|officer]] or [[h/_his|his]] subordinate ([[e/_e|e]].[[g/_g|g]]. [[b/_boatswain|Boatswain]]'[[s/_s|s]] [[m/_mate|Mate]], [[g/_gunner|Gunner]]'[[s/_s|s]] [[m/_mate|Mate]], [[s/_sailmaker|Sailmaker]]'[[s/_s|s]] [[m/_mate|Mate]], [[e/_etc|etc]]).**
 - **A [[s/_ship|ship]]'[[s/_s|s]] [[o/_officer|officer]], subordinate to the [[m/_master|master]] on a [[c/_commercial|commercial]] [[s/_ship|ship]].**

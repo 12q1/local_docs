@@ -1,8 +1,8 @@
 # Design
 ---
 #noun
-- **A specification of an [[o/_object|object]] or [[p/_process|process]], [[r/_referring|referring]] to [[r/_requirements|requirements]] to be [[s/_satisfied|satisfied]] and thus [[c/_conditions|conditions]] to be [[m/_met|met]] for them to [[s/_solve|solve]] a [[p/_problem|problem]].**
-- **A [[p/_plan|plan]] (with [[m/_more|more]] or [[l/_less|less]] [[d/_detail|detail]]) for the structure and [[f/_functions|functions]] of an [[a/_artifact|artifact]], [[b/_building|building]] or [[s/_system|system]].**
+- **A [[s/_specification|specification]] of an [[o/_object|object]] or [[p/_process|process]], [[r/_referring|referring]] to [[r/_requirements|requirements]] to be [[s/_satisfied|satisfied]] and thus [[c/_conditions|conditions]] to be [[m/_met|met]] for them to [[s/_solve|solve]] a [[p/_problem|problem]].**
+- **A [[p/_plan|plan]] (with [[m/_more|more]] or [[l/_less|less]] [[d/_detail|detail]]) for the [[s/_structure|structure]] and [[f/_functions|functions]] of an [[a/_artifact|artifact]], [[b/_building|building]] or [[s/_system|system]].**
 - **A [[p/_pattern|pattern]], as an [[e/_element|element]] of a work of [[a/_art|art]] or [[a/_architecture|architecture]].**
 - **The [[c/_composition|composition]] of a work of [[a/_art|art]].**
 - **[[i/_intention|Intention]] or [[p/_plot|plot]].**

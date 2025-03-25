@@ -4,7 +4,7 @@
 - **Trial, [[a/_attempt|attempt]].**
 - **[[e/_examination|Examination]] and [[d/_determination|determination]]; test.**
 - **The [[q/_qualitative|qualitative]] or [[q/_quantitative|quantitative]] [[c/_chemical|chemical]] [[a/_analysis|analysis]] of [[s/_something|something]].**
-- **Trial by [[d/_danger|danger]] or by [[a/_affliction|affliction]]; [[a/_adventure|adventure]]; [[r/_risk|risk]]; [[h/_hardship|hardship]]; state of [[b/_being|being]] tried.**
+- **Trial by [[d/_danger|danger]] or by [[a/_affliction|affliction]]; [[a/_adventure|adventure]]; [[r/_risk|risk]]; [[h/_hardship|hardship]]; [[s/_state|state]] of [[b/_being|being]] tried.**
 - **Tested [[p/_purity|purity]] or value.**
 - **The [[a/_act|act]] or [[p/_process|process]] of [[a/_ascertaining|ascertaining]] the [[p/_proportion|proportion]] of a [[p/_particular|particular]] [[m/_metal|metal]] in an [[o/_ore|ore]] or [[a/_alloy|alloy]]; [[e/_especially|especially]], the [[d/_determination|determination]] of the [[p/_proportion|proportion]] of [[g/_gold|gold]] or [[s/_silver|silver]] in [[b/_bullion|bullion]] or [[c/_coin|coin]].**
 - **The [[a/_alloy|alloy]] or [[m/_metal|metal]] to be [[a/_assayed|assayed]].**

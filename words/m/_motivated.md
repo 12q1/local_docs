@@ -9,7 +9,7 @@
 ### Antonyms
 - [[d/_demotivate|demotivate]]
 #adjective
-- **[[e/_enthusiastic|Enthusiastic]], [[e/_especially|especially]] [[a/_about|about]] striving toward a [[g/_goal|goal]].**
+- **[[e/_enthusiastic|Enthusiastic]], [[e/_especially|especially]] [[a/_about|about]] [[s/_striving|striving]] toward a [[g/_goal|goal]].**
 	- _Example: We're looking for a highly motivated individual who will fit into our fast-paced corporate culture._
 ---
 ---

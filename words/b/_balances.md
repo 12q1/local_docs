@@ -1,8 +1,8 @@
 # Balances
 ---
 #noun
-- **A state in which [[o/_opposing|opposing]] [[f/_forces|forces]] [[h/_harmonise|harmonise]]; [[e/_equilibrium|equilibrium]].**
-- **[[m/_mental|Mental]] [[e/_equilibrium|equilibrium]]; [[m/_mental|mental]] [[h/_health|health]]; [[c/_calmness|calmness]], a state of [[r/_remaining|remaining]] [[c/_clear|clear]]-[[h/_headed|headed]] and unperturbed.**
+- **A [[s/_state|state]] in which [[o/_opposing|opposing]] [[f/_forces|forces]] [[h/_harmonise|harmonise]]; [[e/_equilibrium|equilibrium]].**
+- **[[m/_mental|Mental]] [[e/_equilibrium|equilibrium]]; [[m/_mental|mental]] [[h/_health|health]]; [[c/_calmness|calmness]], a [[s/_state|state]] of [[r/_remaining|remaining]] [[c/_clear|clear]]-[[h/_headed|headed]] and unperturbed.**
 - **[[s/_something|Something]] of [[e/_equal|equal]] weight used to [[p/_provide|provide]] [[e/_equilibrium|equilibrium]]; [[c/_counterweight|counterweight]].**
 	- _Example: Blair thought he could provide a useful balance to Bush's policies._
 - **A [[p/_pair|pair]] of [[s/_scales|scales]].**
@@ -13,7 +13,7 @@
 - **A [[l/_list|list]] [[a/_accounting|accounting]] for the [[d/_debits|debits]] on [[o/_one|one]] [[s/_side|side]], and for the [[c/_credits|credits]] on the [[o/_other|other]].**
 - **The [[r/_result|result]] of such a [[p/_procedure|procedure]]; the [[d/_difference|difference]] [[b/_between|between]] [[c/_credit|credit]] and [[d/_debit|debit]] of an [[a/_account|account]].**
 	- _Example: I just need to nip to a bank and check my balance._
-- **A [[d/_device|device]] used to [[r/_regulate|regulate]] the speed of a watch, [[c/_clock|clock]] [[e/_etc|etc]].**
+- **A [[d/_device|device]] used to [[r/_regulate|regulate]] the [[s/_speed|speed]] of a watch, [[c/_clock|clock]] [[e/_etc|etc]].**
 - **The [[r/_remainder|remainder]].**
 	- _Example: The balance of the agreement remains in effect._
 - **[[l/_libra|Libra]].**

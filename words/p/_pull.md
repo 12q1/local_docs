@@ -9,16 +9,16 @@
 	- _Example: a zipper pull_
 - **[[s/_something|Something]] in [[o/_one|one]]'[[s/_s|s]] [[f/_favour|favour]] in a [[c/_comparison|comparison]] or a [[c/_contest|contest]]; an [[a/_advantage|advantage]]; [[m/_means|means]] of [[i/_influencing|influencing]].**
 	- _Example: In weights the favourite had the pull._
-- **[[a/_appeal|Appeal]] or [[a/_attraction|attraction]] ([[e/_e|e]].[[g/_g|g]]. of a [[m/_movie|movie]] star)**
+- **[[a/_appeal|Appeal]] or [[a/_attraction|attraction]] ([[e/_e|e]].[[g/_g|g]]. of a [[m/_movie|movie]] [[s/_star|star]])**
 - **The [[s/_situation|situation]] where a [[c/_client|client]] [[s/_sends|sends]] [[o/_out|out]] a [[r/_request|request]] for [[d/_data|data]] from a [[s/_server|server]], as in [[s/_server|server]] [[p/_pull|pull]], [[p/_pull|pull]] technology**
 - **A [[j/_journey|journey]] [[m/_made|made]] by [[r/_rowing|rowing]]**
-- **A [[c/_contest|contest]]; a struggle.**
+- **A [[c/_contest|contest]]; a [[s/_struggle|struggle]].**
 	- _Example: va wrestling pull}}_
 - **[[l/_loss|Loss]] or violence suffered.**
 - **The [[a/_act|act]] of [[d/_drinking|drinking]]; a [[m/_mouthful|mouthful]] or swig of a [[d/_drink|drink]].**
 	- _Example: to take a pull at a mug of beer_
-- **A [[k/_kind|kind]] of stroke by which a [[l/_leg|leg]] [[b/_ball|ball]] is [[s/_sent|sent]] to the [[o/_off|off]] [[s/_side|side]], or an [[o/_off|off]] [[b/_ball|ball]] to the [[s/_side|side]].**
-- **A [[m/_mishit|mishit]] [[s/_shot|shot]] which travels in a straight [[l/_line|line]] and (for a [[r/_right|right]]-[[h/_handed|handed]] [[p/_player|player]]) [[l/_left|left]] of the [[i/_intended|intended]] [[p/_path|path]].**
+- **A [[k/_kind|kind]] of [[s/_stroke|stroke]] by which a [[l/_leg|leg]] [[b/_ball|ball]] is [[s/_sent|sent]] to the [[o/_off|off]] [[s/_side|side]], or an [[o/_off|off]] [[b/_ball|ball]] to the [[s/_side|side]].**
+- **A [[m/_mishit|mishit]] [[s/_shot|shot]] which travels in a [[s/_straight|straight]] [[l/_line|line]] and (for a [[r/_right|right]]-[[h/_handed|handed]] [[p/_player|player]]) [[l/_left|left]] of the [[i/_intended|intended]] [[p/_path|path]].**
 - **A [[s/_single|single]] [[i/_impression|impression]] from a [[h/_handpress|handpress]].**
 ---
 ### Synonyms
@@ -46,17 +46,17 @@
 - **To [[a/_achieve|achieve]] by [[r/_rowing|rowing]] on a [[r/_rowing|rowing]] [[m/_machine|machine]].**
 	- _Example: I pulled a personal best on the erg yesterday._
 - **To [[d/_draw|draw]] [[a/_apart|apart]]; to tear; to [[r/_rend|rend]].**
-- **To strain (a [[m/_muscle|muscle]], tendon, [[l/_ligament|ligament]], [[e/_etc|etc]].).**
+- **To [[s/_strain|strain]] (a [[m/_muscle|muscle]], tendon, [[l/_ligament|ligament]], [[e/_etc|etc]].).**
 - **To [[d/_draw|draw]] (a [[h/_hostile|hostile]] [[n/_non|non]]-[[p/_player|player]] [[c/_character|character]]) [[i/_into|into]] [[c/_combat|combat]], or toward or [[a/_away|away]] from [[s/_some|some]] [[l/_location|location]] or target.**
-- **To [[s/_score|score]] a [[c/_certain|certain]] [[n/_number|number]] of [[p/_points|points]] in a sport.**
+- **To [[s/_score|score]] a [[c/_certain|certain]] [[n/_number|number]] of [[p/_points|points]] in a [[s/_sport|sport]].**
 	- _Example: How many points did you pull today, Albert?_
 - **To [[h/_hold|hold]] [[b/_back|back]], and [[s/_so|so]] [[p/_prevent|prevent]] from winning.**
 	- _Example: The favourite was pulled._
 - **To take or [[m/_make|make]] (a [[p/_proof|proof]] or [[i/_impression|impression]]); [[s/_so|so]] [[c/_called|called]] [[b/_because|because]] [[h/_hand|hand]] [[p/_presses|presses]] were worked by [[p/_pulling|pulling]] a [[l/_lever|lever]].**
-- **To strike the [[b/_ball|ball]] in a [[p/_particular|particular]] [[m/_manner|manner]]. ([[s/_see|See]] [[n/_noun|noun]] [[s/_sense|sense]].)**
+- **To [[s/_strike|strike]] the [[b/_ball|ball]] in a [[p/_particular|particular]] [[m/_manner|manner]]. ([[s/_see|See]] [[n/_noun|noun]] [[s/_sense|sense]].)**
 - **To [[d/_draw|draw]] [[b/_beer|beer]] from a [[p/_pump|pump]], [[k/_keg|keg]], or [[o/_other|other]] [[s/_source|source]].**
 	- _Example: Let's stop at Finnigan's. The barman pulls a good pint._
-- **([[r/_rail|rail]] transportation, of a [[r/_railroad|railroad]] [[c/_car|car]]) To [[p/_pull|pull]] [[o/_out|out]] from a [[y/_yard|yard]] or station; to [[l/_leave|leave]].**
+- **([[r/_rail|rail]] transportation, of a [[r/_railroad|railroad]] [[c/_car|car]]) To [[p/_pull|pull]] [[o/_out|out]] from a [[y/_yard|yard]] or [[s/_station|station]]; to [[l/_leave|leave]].**
 - **To [[p/_pluck|pluck]] or [[p/_pick|pick]] ([[f/_flowers|flowers]], [[f/_fruit|fruit]] [[e/_etc|etc]].).**
 ---
 ### Synonyms

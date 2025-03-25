@@ -6,7 +6,7 @@
 ---
 #adjective
 - **Of or [[c/_characterized|characterized]] by [[a/_antiquity|antiquity]]; [[o/_old|old]]-[[f/_fashioned|fashioned]], [[q/_quaint|quaint]], [[a/_antiquated|antiquated]].**
-- **(of words) [[n/_no|No]] [[l/_longer|longer]] in [[o/_ordinary|ordinary]] use, though still used [[o/_occasionally|occasionally]] to [[g/_give|give]] a [[s/_sense|sense]] of [[a/_antiquity|antiquity]].**
+- **(of words) [[n/_no|No]] [[l/_longer|longer]] in [[o/_ordinary|ordinary]] use, though [[s/_still|still]] used [[o/_occasionally|occasionally]] to [[g/_give|give]] a [[s/_sense|sense]] of [[a/_antiquity|antiquity]].**
 - **[[b/_belonging|Belonging]] to the [[a/_archaic|archaic]] [[p/_period|period]]**
 ---
 ### Synonyms

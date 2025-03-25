@@ -11,7 +11,7 @@
 - **To to [[a/_address|address]]; to [[r/_refer|refer]]; [[g/_generally|generally]] used [[r/_reflexively|reflexively]].**
 - **To submit [[o/_oneself|oneself]] as a [[c/_candidate|candidate]] (with the [[a/_adposition|adposition]] "to" [[d/_designating|designating]] the [[r/_recipient|recipient]] of the submission, and the [[a/_adposition|adposition]] "for" [[d/_designating|designating]] the [[p/_position|position]]).**
 	- _Example: I recently applied to the tavern for a job as a bartender._
-- **To [[p/_pertain|pertain]] or be [[r/_relevant|relevant]] to a specified [[i/_individual|individual]] or [[g/_group|group]].**
+- **To [[p/_pertain|pertain]] or be [[r/_relevant|relevant]] to a [[s/_specified|specified]] [[i/_individual|individual]] or [[g/_group|group]].**
 	- _Example: That rule only applies to foreigners._
 - **To [[b/_busy|busy]]; to [[k/_keep|keep]] at work; to [[p/_ply|ply]].**
 - **To visit.**

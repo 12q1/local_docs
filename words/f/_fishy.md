@@ -19,7 +19,7 @@
 ### Synonyms
 - [[d/_donk|donk]], [[d/_donkey|donkey]], [[m/_mark|mark]]
 #noun
-- **A [[p/_period|period]] of time spent [[f/_fishing|fishing]].**
+- **A [[p/_period|period]] of time [[s/_spent|spent]] [[f/_fishing|fishing]].**
 	- _Example: The fish at the lake didn't prove successful._
 - **An [[i/_instance|instance]] of [[s/_seeking|seeking]] [[s/_something|something]].**
 	- _Example: Merely two fishes for information told the whole story._

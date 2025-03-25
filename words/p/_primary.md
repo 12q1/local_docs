@@ -22,8 +22,8 @@
 - **[[m/_main|Main]]; [[p/_principal|principal]]; [[c/_chief|chief]]; [[p/_placed|placed]] [[a/_ahead|ahead]] of [[o/_others|others]].**
 	- _Example: Preferred stock has primary claim on dividends, ahead of common stock._
 - **[[e/_earliest|Earliest]] [[f/_formed|formed]]; [[f/_fundamental|fundamental]].**
-- **[[i/_illustrating|Illustrating]], [[p/_possessing|possessing]], or [[c/_characterized|characterized]] by, [[s/_some|some]] [[q/_quality|quality]] or [[p/_property|property]] in the [[f/_first|first]] [[d/_degree|degree]]; [[h/_having|having]] undergone the [[f/_first|first]] stage of substitution or [[r/_replacement|replacement]].**
-- **[[r/_relating|Relating]] to the [[p/_place|place]] where a [[d/_disorder|disorder]] or [[d/_disease|disease]] started to [[o/_occur|occur]].**
+- **[[i/_illustrating|Illustrating]], [[p/_possessing|possessing]], or [[c/_characterized|characterized]] by, [[s/_some|some]] [[q/_quality|quality]] or [[p/_property|property]] in the [[f/_first|first]] [[d/_degree|degree]]; [[h/_having|having]] undergone the [[f/_first|first]] [[s/_stage|stage]] of substitution or [[r/_replacement|replacement]].**
+- **[[r/_relating|Relating]] to the [[p/_place|place]] where a [[d/_disorder|disorder]] or [[d/_disease|disease]] [[s/_started|started]] to [[o/_occur|occur]].**
 - **[[r/_relating|Relating]] to [[d/_day|day]]-to-[[d/_day|day]] [[c/_care|care]] [[p/_provided|provided]] by [[h/_health|health]] [[p/_professionals|professionals]] such as [[n/_nurses|nurses]], [[g/_general|general]] [[p/_practitioners|practitioners]], [[d/_dentists|dentists]] [[e/_etc|etc]].**
 ---
 ---

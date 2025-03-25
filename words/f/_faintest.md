@@ -1,12 +1,12 @@
 # Faintest
 ---
 #adjective
-- **(of a [[b/_being|being]]) [[l/_lacking|Lacking]] strength; weak; [[l/_languid|languid]]; [[i/_inclined|inclined]] to [[l/_lose|lose]] [[c/_consciousness|consciousness]]**
+- **(of a [[b/_being|being]]) [[l/_lacking|Lacking]] [[s/_strength|strength]]; weak; [[l/_languid|languid]]; [[i/_inclined|inclined]] to [[l/_lose|lose]] [[c/_consciousness|consciousness]]**
 	- _Example: I felt faint after my fifth gin and tonic._
-- **[[l/_lacking|Lacking]] [[c/_courage|courage]], spirit, or [[e/_energy|energy]]; [[c/_cowardly|cowardly]]; [[d/_dejected|dejected]]**
+- **[[l/_lacking|Lacking]] [[c/_courage|courage]], [[s/_spirit|spirit]], or [[e/_energy|energy]]; [[c/_cowardly|cowardly]]; [[d/_dejected|dejected]]**
 - **[[b/_barely|Barely]] [[p/_perceptible|perceptible]]; not [[b/_bright|bright]], or [[l/_loud|loud]], or [[s/_sharp|sharp]]**
 	- _Example: There was a faint red light in the distance._
-- **[[p/_performed|Performed]], [[d/_done|done]], or [[a/_acted|acted]], weakly; not [[e/_exhibiting|exhibiting]] vigor, strength, or [[e/_energy|energy]]**
+- **[[p/_performed|Performed]], [[d/_done|done]], or [[a/_acted|acted]], weakly; not [[e/_exhibiting|exhibiting]] vigor, [[s/_strength|strength]], or [[e/_energy|energy]]**
 	- _Example: faint efforts_
 - **[[s/_slight|Slight]]; [[m/_minimal|minimal]].**
 ---

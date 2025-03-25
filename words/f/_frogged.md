@@ -14,6 +14,6 @@
 - **To unravel [[p/_part|part]] of (a [[k/_knitted|knitted]] [[g/_garment|garment]]) while [[k/_knitting|knitting]] it in [[o/_order|order]] to [[c/_correct|correct]] a [[m/_mistake|mistake]].**
 ---
 #adjective
-- **[[h/_having|Having]] [[o/_ornamental|ornamental]] stripes or workings of [[b/_braid|braid]] or [[l/_lace|lace]], usually on the [[b/_breast|breast]] of a uniform [[c/_coat|coat]].**
+- **[[h/_having|Having]] [[o/_ornamental|ornamental]] [[s/_stripes|stripes]] or workings of [[b/_braid|braid]] or [[l/_lace|lace]], usually on the [[b/_breast|breast]] of a uniform [[c/_coat|coat]].**
 ---
 ---

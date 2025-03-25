@@ -7,7 +7,7 @@
 - **The [[h/_hinged|hinged]] [[c/_cover|cover]] [[o/_over|over]] the [[e/_engine|engine]] of a [[m/_motor|motor]] [[c/_car|car]]; a [[h/_hood|hood]].**
 - **A [[l/_length|length]] of [[c/_canvas|canvas]] [[a/_attached|attached]] to a [[f/_fore|fore]]-and-[[a/_aft|aft]] [[s/_sail|sail]] to [[i/_increase|increase]] the [[p/_pulling|pulling]] [[p/_power|power]].**
 - **An [[a/_accomplice|accomplice]] of a [[g/_gambler|gambler]], [[a/_auctioneer|auctioneer]], [[e/_etc|etc]]., who [[e/_entices|entices]] [[o/_others|others]] to [[b/_bet|bet]] or to [[b/_bid|bid]].**
-- **The [[s/_second|second]] stomach of a [[r/_ruminant|ruminant]].**
+- **The [[s/_second|second]] [[s/_stomach|stomach]] of a [[r/_ruminant|ruminant]].**
 - **[[a/_anything|Anything]] [[r/_resembling|resembling]] a [[b/_bonnet|bonnet]] ([[h/_hat|hat]]) in [[s/_shape|shape]] or use.**
 ---
 ### Synonyms

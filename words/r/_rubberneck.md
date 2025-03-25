@@ -1,7 +1,7 @@
 # Rubberneck
 ---
 #noun
-- **[[s/_someone|Someone]] who [[e/_engages|engages]] in [[r/_rubbernecking|rubbernecking]], or turning and staring.**
+- **[[s/_someone|Someone]] who [[e/_engages|engages]] in [[r/_rubbernecking|rubbernecking]], or turning and [[s/_staring|staring]].**
 - **A tourist.**
 - **[[s/_someone|Someone]] or [[s/_something|something]] with a [[f/_flexible|flexible]] [[n/_neck|neck]].**
 ---

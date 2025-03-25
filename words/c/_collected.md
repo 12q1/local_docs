@@ -19,7 +19,7 @@
 #adjective
 - **[[g/_gathered|Gathered]] together.**
 	- _Example: the collected works of Charles Dickens_
-- **[[c/_cool|Cool]]‐[[h/_headed|headed]], [[e/_emotionally|emotionally]] stable, in [[f/_focus|focus]].**
+- **[[c/_cool|Cool]]‐[[h/_headed|headed]], [[e/_emotionally|emotionally]] [[s/_stable|stable]], in [[f/_focus|focus]].**
 	- _Example: He stayed collected throughout the ordeal._
 ---
 ### Synonyms

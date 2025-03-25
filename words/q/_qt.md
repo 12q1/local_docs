@@ -11,6 +11,6 @@
 #noun
 - **The [[a/_absence|absence]] of [[s/_sound|sound]]; [[q/_quietness|quietness]].**
 	- _Example: There was a strange quiet in the normally very lively plaza._
-- **The [[a/_absence|absence]] of [[m/_movement|movement]]; stillness, tranquility**
+- **The [[a/_absence|absence]] of [[m/_movement|movement]]; [[s/_stillness|stillness]], tranquility**
 ---
 ---

@@ -6,7 +6,7 @@
 #noun
 - **[[l/_language|Language]], [[j/_jargon|jargon]], or terminology used uniquely in a [[p/_particular|particular]] [[e/_environment|environment]] or [[g/_group|group]].**
 	- _Example: Corporate speak; IT speak._
-- **Speech, [[c/_conversation|conversation]].**
+- **[[s/_speech|Speech]], [[c/_conversation|conversation]].**
 ---
 #verb
 - **To [[c/_communicate|communicate]] with [[o/_one|one]]'[[s/_s|s]] voice, to [[s/_say|say]] words [[o/_out|out]] [[l/_loud|loud]].**
@@ -15,7 +15,7 @@
 	- _Example: It's been ages since we've spoken._
 - **(by [[e/_extension|extension]]) To [[c/_communicate|communicate]] or [[c/_converse|converse]] by [[s/_some|some]] [[m/_means|means]] [[o/_other|other]] than [[o/_orally|orally]], such as writing or [[f/_facial|facial]] [[e/_expressions|expressions]].**
 	- _Example: Actions speak louder than words._
-- **To [[d/_deliver|deliver]] a [[m/_message|message]] to a [[g/_group|group]]; to [[d/_deliver|deliver]] a speech.**
+- **To [[d/_deliver|deliver]] a [[m/_message|message]] to a [[g/_group|group]]; to [[d/_deliver|deliver]] a [[s/_speech|speech]].**
 	- _Example: This evening I shall speak on the topic of correct English usage._
 - **To be [[a/_able|able]] to [[c/_communicate|communicate]] in a [[l/_language|language]].**
 	- _Example: He speaks Mandarin fluently._

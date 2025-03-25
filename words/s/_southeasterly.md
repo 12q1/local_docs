@@ -1,7 +1,7 @@
 # Southeasterly
 ---
 #noun
-- **A strong wind or storm from the [[s/_southeast|southeast]].**
+- **A [[s/_strong|strong]] wind or [[s/_storm|storm]] from the [[s/_southeast|southeast]].**
 ---
 #adjective
 - **[[s/_situated|Situated]] in, or [[p/_pointing|pointing]] to, the [[s/_southeast|southeast]]**

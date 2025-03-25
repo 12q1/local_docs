@@ -8,7 +8,7 @@
 ### Synonyms
 - [[b/_busbar|busbar]], [[a/_autobus|autobus]], [[c/_coach|coach]], [[m/_motorbus|motorbus]], [[m/_multibus|multibus]], [[o/_omnibus|omnibus]]
 #noun
-- **A [[m/_main|main]], [[d/_direct|direct]] [[p/_public|public]] [[r/_road|road]], [[e/_especially|especially]] a [[m/_multi|multi]]-[[l/_lane|lane]], [[h/_high|high]] speed thoroughfare [[c/_connecting|connecting]] [[m/_major|major]] [[p/_population|population]] [[c/_centers|centers]].**
+- **A [[m/_main|main]], [[d/_direct|direct]] [[p/_public|public]] [[r/_road|road]], [[e/_especially|especially]] a [[m/_multi|multi]]-[[l/_lane|lane]], [[h/_high|high]] [[s/_speed|speed]] thoroughfare [[c/_connecting|connecting]] [[m/_major|major]] [[p/_population|population]] [[c/_centers|centers]].**
 - **[[a/_any|Any]] [[p/_public|public]] [[r/_road|road]] for vehicular traffic.**
 ---
 ### Synonyms

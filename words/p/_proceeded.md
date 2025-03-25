@@ -3,7 +3,7 @@
 #verb
 - **To [[m/_move|move]], [[p/_pass|pass]], or [[g/_go|go]] [[f/_forward|forward]] or [[o/_onward|onward]]; to [[a/_advance|advance]]; to [[c/_carry|carry]] on**
 	- _Example: To proceed on a journey._
-- **To [[p/_pass|pass]] from [[o/_one|one]] [[p/_point|point]], topic, or stage, to [[a/_another|another]].**
+- **To [[p/_pass|pass]] from [[o/_one|one]] [[p/_point|point]], topic, or [[s/_stage|stage]], to [[a/_another|another]].**
 	- _Example: To proceed with a story or argument._
 - **To [[c/_come|come]] from; to [[h/_have|have]] as [[i/_its|its]] [[s/_source|source]] or [[o/_origin|origin]].**
 	- _Example: Light proceeds from the sun._

@@ -10,6 +10,6 @@
 - **To [[m/_make|make]] [[g/_gloomy|gloomy]]; to [[d/_depress|depress]].**
 - **To be or [[b/_become|become]] [[c/_cloudy|cloudy]].**
 - **To transform.**
-- **To [[f/_fasten|fasten]] ([[s/_sheets|sheets]]) by [[o/_overcast|overcast]] stitching or by [[f/_folding|folding]] [[o/_one|one]] [[e/_edge|edge]] [[o/_over|over]] [[a/_another|another]].**
+- **To [[f/_fasten|fasten]] ([[s/_sheets|sheets]]) by [[o/_overcast|overcast]] [[s/_stitching|stitching]] or by [[f/_folding|folding]] [[o/_one|one]] [[e/_edge|edge]] [[o/_over|over]] [[a/_another|another]].**
 ---
 ---

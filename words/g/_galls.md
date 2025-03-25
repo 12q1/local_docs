@@ -1,7 +1,7 @@
 # Galls
 ---
 #noun
-- **[[b/_bile|Bile]], [[e/_especially|especially]] that of an [[a/_animal|animal]]; the [[g/_greenish|greenish]], [[p/_profoundly|profoundly]] [[b/_bitter|bitter]]-tasting [[f/_fluid|fluid]] [[f/_found|found]] in [[b/_bile|bile]] [[d/_ducts|ducts]] and [[g/_gall|gall]] [[b/_bladders|bladders]], structures [[a/_associated|associated]] with the [[l/_liver|liver]].**
+- **[[b/_bile|Bile]], [[e/_especially|especially]] that of an [[a/_animal|animal]]; the [[g/_greenish|greenish]], [[p/_profoundly|profoundly]] [[b/_bitter|bitter]]-tasting [[f/_fluid|fluid]] [[f/_found|found]] in [[b/_bile|bile]] [[d/_ducts|ducts]] and [[g/_gall|gall]] [[b/_bladders|bladders]], [[s/_structures|structures]] [[a/_associated|associated]] with the [[l/_liver|liver]].**
 - **The [[g/_gall|gall]] [[b/_bladder|bladder]].**
 - **[[g/_great|Great]] [[m/_misery|misery]] or [[p/_physical|physical]] suffering, [[l/_likened|likened]] to the [[b/_bitterest|bitterest]]-tasting of substances.**
 - **A [[f/_feeling|feeling]] of [[e/_exasperation|exasperation]].**

@@ -4,7 +4,7 @@
 - **An [[i/_item|item]] of [[p/_play|play]] [[e/_equipment|equipment]] that [[c/_children|children]] [[c/_can|can]] [[c/_climb|climb]] up and then [[s/_slide|slide]] [[d/_down|down]] [[a/_again|again]].**
 	- _Example: The long, red slide was great fun for the kids._
 - **A surface of [[i/_ice|ice]], [[s/_snow|snow]], [[b/_butter|butter]], [[e/_etc|etc]]. on which [[s/_someone|someone]] [[c/_can|can]] [[s/_slide|slide]] for [[a/_amusement|amusement]] or as a [[p/_practical|practical]] [[j/_joke|joke]].**
-- **The [[f/_falling|falling]] of [[l/_large|large]] [[a/_amounts|amounts]] of [[r/_rubble|rubble]], [[e/_earth|earth]] and stones [[d/_down|down]] the [[s/_slope|slope]] of a [[h/_hill|hill]] or [[m/_mountain|mountain]]; [[a/_avalanche|avalanche]].**
+- **The [[f/_falling|falling]] of [[l/_large|large]] [[a/_amounts|amounts]] of [[r/_rubble|rubble]], [[e/_earth|earth]] and [[s/_stones|stones]] [[d/_down|down]] the [[s/_slope|slope]] of a [[h/_hill|hill]] or [[m/_mountain|mountain]]; [[a/_avalanche|avalanche]].**
 	- _Example: The slide closed the highway._
 - **An [[i/_inclined|inclined]] [[p/_plane|plane]] on which [[h/_heavy|heavy]] [[b/_bodies|bodies]] [[s/_slide|slide]] by the [[f/_force|force]] of [[g/_gravity|gravity]], [[e/_especially|especially]] [[o/_one|one]] [[c/_constructed|constructed]] on a [[m/_mountainside|mountainside]] for [[c/_conveying|conveying]] [[l/_logs|logs]] by [[s/_sliding|sliding]] them [[d/_down|down]].**
 - **A [[m/_mechanism|mechanism]] [[c/_consisting|consisting]] of a [[p/_part|part]] which [[s/_slides|slides]] on or [[a/_against|against]] a [[g/_guide|guide]].**
@@ -24,7 +24,7 @@
 - **A [[s/_sound|sound]] which, by a [[g/_gradual|gradual]] [[c/_change|change]] in the [[p/_position|position]] of the vocal [[o/_organs|organs]], [[p/_passes|passes]] [[i/_imperceptibly|imperceptibly]] [[i/_into|into]] [[a/_another|another]] [[s/_sound|sound]].**
 - **A [[c/_clasp|clasp]] or [[b/_brooch|brooch]] for a [[b/_belt|belt]], [[e/_etc|etc]].**
 - **([[f/_footwear|footwear]]) A [[s/_shoe|shoe]] that is [[b/_backless|backless]] and [[o/_open|open]]-toed.**
-- **(speech therapy) A voluntary stutter used as a technique to [[c/_control|control]] stuttering in [[o/_one|one]]'[[s/_s|s]] speech.**
+- **([[s/_speech|speech]] therapy) A voluntary [[s/_stutter|stutter]] used as a technique to [[c/_control|control]] [[s/_stuttering|stuttering]] in [[o/_one|one]]'[[s/_s|s]] [[s/_speech|speech]].**
 ---
 ### Synonyms
 - [[c/_chute|chute]], [[r/_runner|runner]]

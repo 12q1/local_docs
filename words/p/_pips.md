@@ -10,10 +10,10 @@
 - **(WW [[i/_i|I]], [[s/_signalese|signalese]]) [[p/_p|P]] in RAF [[p/_phonetic|phonetic]] [[a/_alphabet|alphabet]].**
 ---
 #noun
-- **[[o/_one|One]] of the spots or [[s/_symbols|symbols]] on a [[p/_playing|playing]] [[c/_card|card]], [[d/_domino|domino]], [[d/_die|die]], [[e/_etc|etc]].**
-- **([[p/_public|public]] [[s/_service|service]]) [[o/_one|One]] of the stars worn on the [[s/_shoulder|shoulder]] of a uniform to [[d/_denote|denote]] [[r/_rank|rank]], [[e/_e|e]].[[g/_g|g]]. of a [[s/_soldier|soldier]] or a [[f/_fireman|fireman]].**
-- **A spot; a speck.**
-- **A spot of [[l/_light|light]] or an [[i/_inverted|inverted]] V [[i/_indicative|indicative]] of a [[r/_return|return]] of [[r/_radar|radar]] waves [[r/_reflected|reflected]] from an [[o/_object|object]]; a [[b/_blip|blip]].**
+- **[[o/_one|One]] of the [[s/_spots|spots]] or [[s/_symbols|symbols]] on a [[p/_playing|playing]] [[c/_card|card]], [[d/_domino|domino]], [[d/_die|die]], [[e/_etc|etc]].**
+- **([[p/_public|public]] [[s/_service|service]]) [[o/_one|One]] of the [[s/_stars|stars]] worn on the [[s/_shoulder|shoulder]] of a uniform to [[d/_denote|denote]] [[r/_rank|rank]], [[e/_e|e]].[[g/_g|g]]. of a [[s/_soldier|soldier]] or a [[f/_fireman|fireman]].**
+- **A [[s/_spot|spot]]; a [[s/_speck|speck]].**
+- **A [[s/_spot|spot]] of [[l/_light|light]] or an [[i/_inverted|inverted]] V [[i/_indicative|indicative]] of a [[r/_return|return]] of [[r/_radar|radar]] waves [[r/_reflected|reflected]] from an [[o/_object|object]]; a [[b/_blip|blip]].**
 - **A [[p/_piece|piece]] of [[r/_rhizome|rhizome]] with a [[d/_dormant|dormant]] [[s/_shoot|shoot]] of the [[l/_lily|lily]] of the valley [[p/_plant|plant]], used for [[p/_propagation|propagation]]**
 ---
 ### Synonyms

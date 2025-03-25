@@ -7,7 +7,7 @@
 ---
 #noun
 - **[[p/_piracy|Piracy]] or [[p/_plundering|plundering]].**
-- **[[s/_software|Software]] [[p/_piracy|piracy]], or stealing or unauthorized rehosting of [[d/_digital|digital]] [[c/_content|content]].**
+- **[[s/_software|Software]] [[p/_piracy|piracy]], or [[s/_stealing|stealing]] or unauthorized rehosting of [[d/_digital|digital]] [[c/_content|content]].**
 ---
 #adjective
 - **[[e/_engaged|Engaged]] in [[p/_piracy|piracy]] or [[p/_plunder|plunder]]**

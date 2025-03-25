@@ -2,7 +2,7 @@
 ---
 #adverb
 - **In a [[l/_lower|lower]] [[p/_place|place]].**
-- **On a [[l/_lower|lower]] storey.**
+- **On a [[l/_lower|lower]] [[s/_storey|storey]].**
 - **[[f/_further|Further]] [[d/_down|down]].**
 - **On a [[l/_lower|lower]] [[d/_deck|deck]].**
 	- _Example: the landlubbers lying down below_
@@ -23,7 +23,7 @@
 - **[[s/_south|South]] of.**
 - **Unsuitable to the [[r/_rank|rank]] or [[d/_dignity|dignity]] of; [[b/_beneath|beneath]].**
 	- _Example: Such petty behavior is below me._
-- **(stage [[d/_directions|directions]]) [[d/_downstage|Downstage]] of.**
+- **([[s/_stage|stage]] [[d/_directions|directions]]) [[d/_downstage|Downstage]] of.**
 ---
 ### Synonyms
 - [[d/_downstream|downstream]], [[b/_beneath|beneath]], [[u/_under|under]], [[u/_underneath|underneath]], [[u/_under|under]], [[b/_beneath|beneath]]

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A waterspout**
-- **A [[l/_large|large]] waterfall; steep [[r/_rapids|rapids]] in a [[r/_river|river]].**
+- **A [[l/_large|large]] waterfall; [[s/_steep|steep]] [[r/_rapids|rapids]] in a [[r/_river|river]].**
 	- _Example: The cataracts on the Nile helped to compartment Upper Egypt._
 - **A [[f/_flood|flood]] of water**
 - **An [[o/_overwhelming|overwhelming]] [[d/_downpour|downpour]] or [[r/_rush|rush]]**

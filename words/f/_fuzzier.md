@@ -1,7 +1,7 @@
 # Fuzzier
 ---
 #adjective
-- **[[c/_covered|Covered]] with [[f/_fuzz|fuzz]] or a [[l/_large|large]] [[n/_number|number]] of tiny [[l/_loose|loose]] [[f/_fibres|fibres]] [[l/_like|like]] a [[c/_carpet|carpet]] or [[m/_many|many]] stuffed [[a/_animals|animals]]**
+- **[[c/_covered|Covered]] with [[f/_fuzz|fuzz]] or a [[l/_large|large]] [[n/_number|number]] of tiny [[l/_loose|loose]] [[f/_fibres|fibres]] [[l/_like|like]] a [[c/_carpet|carpet]] or [[m/_many|many]] [[s/_stuffed|stuffed]] [[a/_animals|animals]]**
 - **Vague or [[i/_imprecise|imprecise]].**
 	- _Example: My recollection of that event is fuzzy._
 - **Not [[c/_clear|clear]]; unfocused.**

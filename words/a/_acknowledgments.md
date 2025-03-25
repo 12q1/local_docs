@@ -12,7 +12,7 @@
 - **A [[r/_recognition|recognition]] as [[g/_genuine|genuine]] or valid; an [[a/_avowing|avowing]] or [[a/_admission|admission]] in [[l/_legal|legal]] [[f/_form|form]].**
 	- _Example: acknowledgment of a deed_
 - **The [[a/_act|act]] of a [[p/_person|person]] [[a/_admitting|admitting]] a [[c/_child|child]] as their [[o/_own|own]].**
-- **A [[f/_formal|formal]] statement or [[d/_document|document]] [[r/_recognizing|recognizing]] the [[f/_fulfillment|fulfillment]] or [[e/_execution|execution]] of a [[l/_legal|legal]] [[r/_requirement|requirement]] or [[p/_procedure|procedure]].**
+- **A [[f/_formal|formal]] [[s/_statement|statement]] or [[d/_document|document]] [[r/_recognizing|recognizing]] the [[f/_fulfillment|fulfillment]] or [[e/_execution|execution]] of a [[l/_legal|legal]] [[r/_requirement|requirement]] or [[p/_procedure|procedure]].**
 ---
 ### Synonyms
 - [[A/_ACK|ACK]], [[a/_admission|admission]], [[a/_avowal|avowal]], [[c/_concession|concession]], [[c/_confession|confession]], [[r/_recognition|recognition]], [[r/_recognizance|recognizance]], [[a/_admission|admission]]

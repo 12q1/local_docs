@@ -8,7 +8,7 @@
 	- _Example: Psychological fallout in the shadow of terrorism, title of an article by Dr. Abraham Twerski, M.D. in http//www.jewishworldreview.com._
 - **A [[d/_declined|declined]] [[o/_offer|offer]] in a [[s/_sales|sales]] transaction when [[a/_acceptance|acceptance]] was [[p/_presumed|presumed]].**
 - **The [[p/_person|person]] who [[d/_declines|declines]] such an [[o/_offer|offer]].**
-- **An [[i/_impromptu|impromptu]] [[g/_guest|guest]] used to [[f/_fill|fill]] in for [[a/_another|another]] [[g/_guest|guest]] spot who is a [[n/_no|no]] [[s/_show|show]] or who [[h/_has|has]] [[c/_cancelled|cancelled]] [[l/_last|last]] [[m/_minute|minute]]**
+- **An [[i/_impromptu|impromptu]] [[g/_guest|guest]] used to [[f/_fill|fill]] in for [[a/_another|another]] [[g/_guest|guest]] [[s/_spot|spot]] who is a [[n/_no|no]] [[s/_show|show]] or who [[h/_has|has]] [[c/_cancelled|cancelled]] [[l/_last|last]] [[m/_minute|minute]]**
 ---
 ### Synonyms
 - [[b/_blowback|blowback]], [[r/_repercussion|repercussion]], [[b/_blowback|blowback]]

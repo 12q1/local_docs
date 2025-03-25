@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_area|area]] of [[r/_reddened|reddened]], [[i/_irritated|irritated]], and [[i/_inflamed|inflamed]] [[s/_skin|skin]].**
-- **A surge in [[p/_problems|problems]]; a [[s/_spate|spate]], string or trend.**
+- **A surge in [[p/_problems|problems]]; a [[s/_spate|spate]], [[s/_string|string]] or trend.**
 	- _Example: There has been a rash of vandalism lately._
 ---
 ### Synonyms

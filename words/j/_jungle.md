@@ -7,7 +7,7 @@
 	- _Example: It’s a jungle out there._
 - **An [[a/_area|area]] where [[h/_hobos|hobos]] [[c/_camp|camp]] together.**
 - **A [[m/_migrant|migrant]] [[c/_camp|camp]].**
-- **A style of [[e/_electronic|electronic]] [[m/_music|music]] [[r/_related|related]] to [[d/_drum|drum]] and [[b/_bass|bass]].**
+- **A [[s/_style|style]] of [[e/_electronic|electronic]] [[m/_music|music]] [[r/_related|related]] to [[d/_drum|drum]] and [[b/_bass|bass]].**
 - **([[i/_israel|Israel]]) A [[d/_desert|desert]] [[r/_region|region]].**
 - **[[d/_dense|Dense]] [[r/_rough|rough]].**
 - **A [[h/_hairy|hairy]] vulva.**

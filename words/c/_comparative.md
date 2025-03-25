@@ -11,7 +11,7 @@
 - 
 #adjective
 - **Of or [[r/_relating|relating]] to [[c/_comparison|comparison]].**
-- **Using [[c/_comparison|comparison]] as a [[m/_method|method]] of study, or [[f/_founded|founded]] on [[s/_something|something]] using it.**
+- **Using [[c/_comparison|comparison]] as a [[m/_method|method]] of [[s/_study|study]], or [[f/_founded|founded]] on [[s/_something|something]] using it.**
 	- _Example: comparative anatomy_
 - **[[a/_approximated|Approximated]] by [[c/_comparison|comparison]]; [[r/_relative|relative]].**
 - **[[c/_comparable|Comparable]]; [[b/_bearing|bearing]] [[c/_comparison|comparison]].**

@@ -6,7 +6,7 @@
 	- _Example: The desert extended for miles in all directions._
 - **To [[c/_cause|cause]] to [[i/_increase|increase]] in [[e/_extent|extent]].**
 - **To [[c/_cause|cause]] to [[l/_last|last]] for a [[l/_longer|longer]] [[p/_period|period]] of time.**
-- **To straighten (a [[l/_limb|limb]]).**
+- **To [[s/_straighten|straighten]] (a [[l/_limb|limb]]).**
 - **To [[b/_bestow|bestow]]; to [[o/_offer|offer]]; to [[i/_impart|impart]]; to [[a/_apply|apply]].**
 	- _Example: to extend credit to a valued customer_
 - **To [[i/_increase|increase]] in [[q/_quantity|quantity]] by weakening or [[a/_adulterating|adulterating]] [[a/_additions|additions]].**

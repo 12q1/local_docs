@@ -7,7 +7,7 @@
 - **To [[s/_send|send]] a telegram by [[c/_cable|cable]]**
 - **To [[c/_communicate|communicate]] by [[c/_cable|cable]]**
 - **To [[o/_ornament|ornament]] with [[c/_cabling|cabling]].**
-- **To [[c/_create|create]] [[c/_cable|cable]] stitches.**
+- **To [[c/_create|create]] [[c/_cable|cable]] [[s/_stitches|stitches]].**
 ---
 #noun
 - **A [[c/_collection|collection]] of [[c/_cables|cables]].**

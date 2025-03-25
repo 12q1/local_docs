@@ -1,6 +1,6 @@
 # Aspherical
 ---
 #adjective
-- **Not ([[q/_quite|quite]]) spherical**
+- **Not ([[q/_quite|quite]]) [[s/_spherical|spherical]]**
 ---
 ---

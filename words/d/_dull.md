@@ -3,7 +3,7 @@
 #verb
 - **To [[r/_render|render]] [[d/_dull|dull]]; to [[r/_remove|remove]] or [[b/_blunt|blunt]] an [[e/_edge|edge]] or [[s/_something|something]] that was [[s/_sharp|sharp]].**
 	- _Example: Years of misuse have dulled the tools._
-- **To [[s/_soften|soften]], [[m/_moderate|moderate]] or [[b/_blunt|blunt]]; to [[m/_make|make]] [[d/_dull|dull]], stupid, or [[s/_sluggish|sluggish]]; to stupefy.**
+- **To [[s/_soften|soften]], [[m/_moderate|moderate]] or [[b/_blunt|blunt]]; to [[m/_make|make]] [[d/_dull|dull]], [[s/_stupid|stupid]], or [[s/_sluggish|sluggish]]; to [[s/_stupefy|stupefy]].**
 	- _Example: He drinks to dull the pain._
 - **To [[l/_lose|lose]] a [[s/_sharp|sharp]] [[e/_edge|edge]]; to [[b/_become|become]] [[d/_dull|dull]].**
 	- _Example: A razor will dull with use._
@@ -18,7 +18,7 @@
 	- _Example: He sat through the dull lecture and barely stayed awake._
 - **Not [[s/_shiny|shiny]]; [[h/_having|having]] a [[m/_matte|matte]] [[f/_finish|finish]] or [[n/_no|no]] [[p/_particular|particular]] [[l/_luster|luster]] or [[b/_brightness|brightness]].**
 	- _Example: Choose a dull finish to hide fingerprints._
-- **Not [[b/_bright|bright]] or [[i/_intelligent|intelligent]]; stupid; [[h/_having|having]] [[s/_slow|slow]] understanding.**
+- **Not [[b/_bright|bright]] or [[i/_intelligent|intelligent]]; [[s/_stupid|stupid]]; [[h/_having|having]] [[s/_slow|slow]] understanding.**
 - **[[s/_sluggish|Sluggish]], [[l/_listless|listless]].**
 - **[[c/_cloudy|Cloudy]], [[o/_overcast|overcast]].**
 	- _Example: It's a dull day._

@@ -8,7 +8,7 @@
 - **([[p/_petroleum|petroleum]] [[r/_refining|refining]]) A [[f/_filter|filter]] [[m/_mechanism|mechanism]].**
 - **An [[o/_obscure|obscure]] [[a/_athlete|athlete]] who wins an upset victory.**
 - **(horseracing) A [[h/_horse|horse]] that wins at [[l/_long|long]] [[o/_odds|odds]].**
-- **In team sports, a [[r/_relatively|relatively]] [[l/_little|little]]-[[k/_known|known]] or [[i/_inexperienced|inexperienced]] [[p/_player|player]] who [[i/_inspires|inspires]] the team to [[g/_greater|greater]] success.**
+- **In team [[s/_sports|sports]], a [[r/_relatively|relatively]] [[l/_little|little]]-[[k/_known|known]] or [[i/_inexperienced|inexperienced]] [[p/_player|player]] who [[i/_inspires|inspires]] the team to [[g/_greater|greater]] success.**
 - **A [[m/_member|member]] of a [[p/_political|political]] [[p/_party|party]] who [[d/_does|does]] not support the [[p/_party|party]]'[[s/_s|s]] [[n/_nominee|nominee]].**
 - **A [[m/_missed|missed]] [[l/_landing|landing]] on an [[a/_aircraft|aircraft]] [[c/_carrier|carrier]]; an [[a/_aircraft|aircraft]] that [[h/_has|has]] [[m/_made|made]] a [[m/_missed|missed]] [[l/_landing|landing]].**
 - **A [[k/_kind|kind]] of [[f/_fishing|fishing]] [[l/_line|line]]; a [[b/_boulter|boulter]].**

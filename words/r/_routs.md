@@ -12,15 +12,15 @@
 - **To [[h/_howl|howl]] as the wind; [[m/_make|make]] a [[r/_roaring|roaring]] [[n/_noise|noise]].**
 ---
 #noun
-- **A violent [[m/_movement|movement]]; a [[g/_great|great]] or violent stir; a [[h/_heavy|heavy]] [[b/_blow|blow]]; a stunning [[b/_blow|blow]]; a stroke.**
+- **A violent [[m/_movement|movement]]; a [[g/_great|great]] or violent [[s/_stir|stir]]; a [[h/_heavy|heavy]] [[b/_blow|blow]]; a [[s/_stunning|stunning]] [[b/_blow|blow]]; a [[s/_stroke|stroke]].**
 ---
 #verb
-- **To [[b/_beat|beat]]; strike; [[a/_assail|assail]] with [[b/_blows|blows]].**
+- **To [[b/_beat|beat]]; [[s/_strike|strike]]; [[a/_assail|assail]] with [[b/_blows|blows]].**
 ---
 #noun
 - **A troop or [[g/_group|group]], [[e/_especially|especially]] of a traveling [[c/_company|company]] or throng.**
 - **A [[d/_disorderly|disorderly]] and tumultuous [[c/_crowd|crowd]]; a [[m/_mob|mob]]; [[h/_hence|hence]], the [[r/_rabble|rabble]]; the [[h/_herd|herd]] of [[c/_common|common]] [[p/_people|people]].**
-- **The state of [[b/_being|being]] [[d/_disorganized|disorganized]] and thrown [[i/_into|into]] [[c/_confusion|confusion]], [[e/_especially|especially]] when [[r/_retreating|retreating]] from a [[f/_fight|fight]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[d/_disorganized|disorganized]] and thrown [[i/_into|into]] [[c/_confusion|confusion]], [[e/_especially|especially]] when [[r/_retreating|retreating]] from a [[f/_fight|fight]].**
 - **The [[a/_act|act]] of [[d/_defeating|defeating]] and [[b/_breaking|breaking]] up an [[a/_army|army]] or [[a/_another|another]] [[o/_opponent|opponent]].**
 	- _Example: The rout of the enemy was complete._
 - **A [[d/_disturbance|disturbance]] of the [[p/_peace|peace]] by [[p/_persons|persons]] [[a/_assembled|assembled]] together with the [[i/_intent|intent]] to [[d/_do|do]] a thing which, [[i/_if|if]] [[e/_executed|executed]], would [[m/_make|make]] them [[r/_rioters|rioters]], and [[a/_actually|actually]] [[m/_making|making]] a [[m/_motion|motion]] toward the [[e/_executing|executing]] thereof.**

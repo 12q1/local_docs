@@ -11,7 +11,7 @@
 - **[[n/_necessity|Necessity]]; the [[n/_necessary|necessary]] time.**
 ---
 #noun
-- **A [[d/_device|device]] that [[m/_makes|makes]] or sprays [[m/_mist|mist]].**
+- **A [[d/_device|device]] that [[m/_makes|makes]] or [[s/_sprays|sprays]] [[m/_mist|mist]].**
 	- _Example: Odessa D. uses a mister Sunday to fight the 106-degree heat at a NASCAR race in Fontana, California._
 ---
 ---

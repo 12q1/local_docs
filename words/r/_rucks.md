@@ -15,7 +15,7 @@
 - **The [[c/_common|common]] [[m/_mass|mass]] of [[p/_people|people]] or things; the [[o/_ordinary|ordinary]] [[r/_ranks|ranks]].**
 ---
 #verb
-- **To [[a/_act|act]] as a [[r/_ruck|ruck]] in a stoppage in [[a/_australian|Australian]] [[r/_rules|rules]] [[f/_football|football]].**
+- **To [[a/_act|act]] as a [[r/_ruck|ruck]] in a [[s/_stoppage|stoppage]] in [[a/_australian|Australian]] [[r/_rules|rules]] [[f/_football|football]].**
 - **To [[c/_contest|contest]] the [[p/_possession|possession]] of the [[b/_ball|ball]] in a [[r/_ruck|ruck]].**
 ---
 #noun
@@ -26,7 +26,7 @@
 - **To [[b/_become|become]] [[f/_folded|folded]].**
 ---
 #verb
-- **To [[c/_cower|cower]] or [[h/_huddle|huddle]] together; to squat; to [[s/_sit|sit]], as a [[h/_hen|hen]] on [[e/_eggs|eggs]].**
+- **To [[c/_cower|cower]] or [[h/_huddle|huddle]] together; to [[s/_squat|squat]]; to [[s/_sit|sit]], as a [[h/_hen|hen]] on [[e/_eggs|eggs]].**
 ---
 #noun
 - **A [[r/_rucksack|rucksack]]; a [[l/_large|large]] [[b/_backpack|backpack]].**

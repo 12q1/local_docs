@@ -9,7 +9,7 @@
 - **A [[n/_name|name]], [[n/_nickname|nickname]] or [[p/_pseudonym|pseudonym]].**
 - **A title [[a/_attached|attached]] to [[o/_one|one]]'[[s/_s|s]] [[n/_name|name]], such as [[d/_doctor|Doctor]] or [[c/_colonel|Colonel]].**
 	- _Example: The successful businessman was knighted and acquired a handle to his name._
-- **A [[r/_reference|reference]] to an [[o/_object|object]] or structure that [[c/_can|can]] be stored in a variable.**
+- **A [[r/_reference|reference]] to an [[o/_object|object]] or [[s/_structure|structure]] that [[c/_can|can]] be [[s/_stored|stored]] in a variable.**
 	- _Example: This article describes how to find the module name from the window handle._
 - **A 10 [[f/_fl|fl]] [[o/_oz|oz]] (285 [[m/_ml|ml]]) [[g/_glass|glass]] of [[b/_beer|beer]] in the [[n/_northern|Northern]] Territory. ([[s/_see|See]] [[a/_also|also]] [[p/_pot|pot]] and [[m/_middy|middy]] for [[o/_other|other]] [[r/_regional|regional]] variations.)**
 - **A [[h/_half|half]]-[[g/_gallon|gallon]] (1.75-[[l/_liter|liter]]) [[b/_bottle|bottle]] of [[a/_alcohol|alcohol]]. ([[c/_called|Called]] a [[s/_sixty|sixty]] in [[c/_canada|Canada]].)**

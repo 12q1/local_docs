@@ -1,7 +1,7 @@
 # Rationed
 ---
 #verb
-- **To supply with a [[r/_ration|ration]]; to [[l/_limit|limit]] ([[s/_someone|someone]]) to a specific [[a/_allowance|allowance]] of [[s/_something|something]].**
+- **To supply with a [[r/_ration|ration]]; to [[l/_limit|limit]] ([[s/_someone|someone]]) to a [[s/_specific|specific]] [[a/_allowance|allowance]] of [[s/_something|something]].**
 	- _Example: We rationed ourselves to three sips of water a day until we were rescued._
 - **To [[p/_portion|portion]] [[o/_out|out]] ([[e/_especially|especially]] [[d/_during|during]] a [[s/_shortage|shortage]] of supply); to [[l/_limit|limit]] [[a/_access|access]] to.**
 	- _Example: By the third day on the raft, we had to ration our water._

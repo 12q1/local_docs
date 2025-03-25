@@ -8,7 +8,7 @@
 - **A [[l/_loud|loud]], [[d/_disruptive|disruptive]] and [[p/_poorly|poorly]] [[e/_educated|educated]] [[p/_person|person]].**
 ---
 #verb
-- **To [[s/_shoot|shoot]] or spray (used of [[f/_fluids|fluids]]).**
+- **To [[s/_shoot|shoot]] or [[s/_spray|spray]] (used of [[f/_fluids|fluids]]).**
 - **To [[e/_ejaculate|ejaculate]].**
 ---
 ### Synonyms

@@ -8,7 +8,7 @@
 - **The [[e/_equivalent|equivalent]] of a [[c/_conversion|conversion]] in [[r/_rugby|rugby]]**
 ---
 #verb
-- **To transform or [[c/_change|change]] ([[s/_something|something]]) [[i/_into|into]] [[a/_another|another]] [[f/_form|form]], substance, state, or [[p/_product|product]].**
+- **To transform or [[c/_change|change]] ([[s/_something|something]]) [[i/_into|into]] [[a/_another|another]] [[f/_form|form]], substance, [[s/_state|state]], or [[p/_product|product]].**
 	- _Example: A kettle converts water into steam._
 - **To [[c/_change|change]] ([[s/_something|something]]) from [[o/_one|one]] use, [[f/_function|function]], or [[p/_purpose|purpose]] to [[a/_another|another]].**
 	- _Example: He converted his garden into a tennis court._

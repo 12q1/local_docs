@@ -1,10 +1,10 @@
 # Gait
 ---
 #noun
-- **[[m/_manner|Manner]] of walking or stepping; [[b/_bearing|bearing]] or [[c/_carriage|carriage]] while [[m/_moving|moving]].**
+- **[[m/_manner|Manner]] of walking or [[s/_stepping|stepping]]; [[b/_bearing|bearing]] or [[c/_carriage|carriage]] while [[m/_moving|moving]].**
 - **[[o/_one|One]] of the [[d/_different|different]] ways in which a [[h/_horse|horse]] [[c/_can|can]] [[m/_move|move]], [[e/_either|either]] [[n/_naturally|naturally]] or as a [[r/_result|result]] of training.**
 ---
 #verb
-- **To teach a specific [[g/_gait|gait]] to a [[h/_horse|horse]].**
+- **To teach a [[s/_specific|specific]] [[g/_gait|gait]] to a [[h/_horse|horse]].**
 ---
 ---

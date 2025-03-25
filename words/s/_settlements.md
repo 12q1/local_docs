@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[s/_settling|settling]].**
-- **The state of [[b/_being|being]] [[s/_settled|settled]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[s/_settled|settled]].**
 - **A [[c/_colony|colony]] that is [[n/_newly|newly]] [[e/_established|established]]; a [[p/_place|place]] or [[r/_region|region]] [[n/_newly|newly]] [[s/_settled|settled]].**
 - **A [[c/_community|community]] of [[p/_people|people]] [[l/_living|living]] together, such as a [[h/_hamlet|hamlet]], village, town, or [[c/_city|city]].**
 - **The [[g/_gradual|gradual]] [[s/_sinking|sinking]] of a [[b/_building|building]]. [[f/_fractures|Fractures]] or [[d/_dislocations|dislocations]] [[c/_caused|caused]] by [[s/_settlement|settlement]].**

@@ -10,6 +10,6 @@
 ### Synonyms
 - [[c/_cornerstone|cornerstone]]
 #verb
-- **To wedge or steady with [[q/_quoins|quoins]].**
+- **To wedge or [[s/_steady|steady]] with [[q/_quoins|quoins]].**
 ---
 ---

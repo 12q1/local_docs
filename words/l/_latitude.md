@@ -6,7 +6,7 @@
 - **The [[r/_relative|relative]] [[f/_freedom|freedom]] from [[r/_restrictions|restrictions]]; [[s/_scope|scope]] to [[d/_do|do]] [[s/_something|something]].**
 	- _Example: His parents gave him a great deal of latitude._
 - **The [[a/_angular|angular]] [[d/_distance|distance]] of a [[h/_heavenly|heavenly]] [[b/_body|body]] from the [[e/_ecliptic|ecliptic]].**
-- **The [[e/_extent|extent]] to which a [[l/_light|light]]-[[s/_sensitive|sensitive]] [[m/_material|material]] [[c/_can|can]] be [[o/_over|over]]- or underexposed and still [[a/_achieve|achieve]] an [[a/_acceptable|acceptable]] [[r/_result|result]].**
+- **The [[e/_extent|extent]] to which a [[l/_light|light]]-[[s/_sensitive|sensitive]] [[m/_material|material]] [[c/_can|can]] be [[o/_over|over]]- or underexposed and [[s/_still|still]] [[a/_achieve|achieve]] an [[a/_acceptable|acceptable]] [[r/_result|result]].**
 - **[[e/_extent|Extent]] or [[s/_scope|scope]]; [[e/_e|e]].[[g/_g|g]]. [[b/_breadth|breadth]], width or [[a/_amplitude|amplitude]].**
 ---
 ---

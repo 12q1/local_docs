@@ -1,7 +1,7 @@
 # Abracadabra
 ---
 #noun
-- **A use of the [[m/_mystical|mystical]] term ‘[[a/_abracadabra|abracadabra]]’, supposed to work as [[p/_part|part]] of a [[h/_healing|healing]] [[c/_charm|charm]] or a [[m/_magical|magical]] spell; [[a/_any|any]] spell or [[i/_incantation|incantation]] [[m/_making|making]] use of the word.**
+- **A use of the [[m/_mystical|mystical]] term ‘[[a/_abracadabra|abracadabra]]’, supposed to work as [[p/_part|part]] of a [[h/_healing|healing]] [[c/_charm|charm]] or a [[m/_magical|magical]] [[s/_spell|spell]]; [[a/_any|any]] [[s/_spell|spell]] or [[i/_incantation|incantation]] [[m/_making|making]] use of the word.**
 - **[[m/_mumbo|Mumbo]]-[[j/_jumbo|jumbo]]; [[o/_obscure|obscure]] [[l/_language|language]] or technicalities; [[j/_jargon|jargon]].**
 	- _Example: I don’t know all the theoretical abracadabra about how it works, I’m only its pilot._
 ---

@@ -5,7 +5,7 @@
 	- _Example: It is difficult to provide for my family working on minimum wage._
 - **To [[a/_act|act]] to [[p/_prepare|prepare]] for [[s/_something|something]].**
 	- _Example: Provide against disaster._
-- **To [[e/_establish|establish]] as a [[p/_previous|previous]] [[c/_condition|condition]]; to stipulate.**
+- **To [[e/_establish|establish]] as a [[p/_previous|previous]] [[c/_condition|condition]]; to [[s/_stipulate|stipulate]].**
 	- _Example: I'll lend you the money, provided that you pay it back by Monday._
 - **To [[g/_give|give]] what is [[n/_needed|needed]] or [[d/_desired|desired]], [[e/_especially|especially]] [[b/_basic|basic]] [[n/_needs|needs]].**
 	- _Example: Don't bother bringing equipment, as we will provide it._
@@ -16,7 +16,7 @@
 - **To [[a/_appoint|appoint]] to an [[e/_ecclesiastical|ecclesiastical]] [[b/_benefice|benefice]] [[b/_before|before]] it is vacant. [[s/_see|See]] [[p/_provisor|provisor]].**
 ---
 #conjunction
-- **[[o/_only|Only]] [[i/_if|if]] (the stipulation that [[f/_follows|follows]] is true).**
+- **[[o/_only|Only]] [[i/_if|if]] (the [[s/_stipulation|stipulation]] that [[f/_follows|follows]] is true).**
 	- _Example: You can go to the party provided you finish all your homework first._
 ---
 ### Synonyms

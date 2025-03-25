@@ -28,6 +28,6 @@
 ### Synonyms
 - 
 #noun
-- **A [[s/_sounding|sounding]] stone, a [[c/_chinese|Chinese]] [[m/_musical|musical]] [[i/_instrument|instrument]].**
+- **A [[s/_sounding|sounding]] [[s/_stone|stone]], a [[c/_chinese|Chinese]] [[m/_musical|musical]] [[i/_instrument|instrument]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Compress
 ---
 #verb
-- **To [[m/_make|make]] [[s/_smaller|smaller]]; to [[p/_press|press]] or squeeze together, or to [[m/_make|make]] [[s/_something|something]] [[o/_occupy|occupy]] a [[s/_smaller|smaller]] [[s/_space|space]] or volume.**
+- **To [[m/_make|make]] [[s/_smaller|smaller]]; to [[p/_press|press]] or [[s/_squeeze|squeeze]] together, or to [[m/_make|make]] [[s/_something|something]] [[o/_occupy|occupy]] a [[s/_smaller|smaller]] [[s/_space|space]] or volume.**
 	- _Example: The force required to compress a spring varies linearly with the displacement._
 - **To be [[p/_pressed|pressed]] together or [[f/_folded|folded]] by [[c/_compression|compression]] [[i/_into|into]] a [[m/_more|more]] [[e/_economic|economic]], [[e/_easier|easier]] [[f/_format|format]].**
 	- _Example: Our new model compresses easily, ideal for storage and travel_

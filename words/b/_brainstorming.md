@@ -5,7 +5,7 @@
 - **To [[p/_participate|participate]] in a [[b/_brainstorming|brainstorming]] [[s/_session|session]].**
 ---
 #noun
-- **A [[m/_method|method]] of [[p/_problem|problem]] [[s/_solving|solving]] in which [[m/_members|members]] of a [[g/_group|group]] [[c/_contribute|contribute]] [[i/_ideas|ideas]] spontaneously.**
+- **A [[m/_method|method]] of [[p/_problem|problem]] [[s/_solving|solving]] in which [[m/_members|members]] of a [[g/_group|group]] [[c/_contribute|contribute]] [[i/_ideas|ideas]] [[s/_spontaneously|spontaneously]].**
 ---
 ### Synonyms
 - [[m/_masterminding|masterminding]]

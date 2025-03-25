@@ -1,7 +1,7 @@
 # Exiles
 ---
 #noun
-- **The state of [[b/_being|being]] [[b/_banished|banished]] from [[o/_one|one]]'[[s/_s|s]] [[h/_home|home]] or [[c/_country|country]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[b/_banished|banished]] from [[o/_one|one]]'[[s/_s|s]] [[h/_home|home]] or [[c/_country|country]].**
 	- _Example: He lived in exile._
 - **[[s/_someone|Someone]] who is [[b/_banished|banished]] from their [[h/_home|home]] or [[c/_country|country]].**
 	- _Example: She lived as an exile._

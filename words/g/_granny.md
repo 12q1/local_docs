@@ -12,10 +12,10 @@
 - [[g/_gran|gran]], [[g/_grandma|grandma]], [[n/_nan|nan]], [[n/_nanna|nanna]], [[n/_nanny|nanny]]
 #verb
 - **To be a [[g/_grandmother|grandmother]].**
-- **To [[a/_act|act]] [[l/_like|like]] a stereotypical [[g/_grandmother|grandmother]]; to [[f/_fuss|fuss]].**
+- **To [[a/_act|act]] [[l/_like|like]] a [[s/_stereotypical|stereotypical]] [[g/_grandmother|grandmother]]; to [[f/_fuss|fuss]].**
 ---
 #adjective
-- **Typically or stereotypically [[o/_old|old]]-[[f/_fashioned|fashioned]], [[e/_especially|especially]] in [[c/_clothing|clothing]] and [[a/_accessories|accessories]] worn by or [[a/_associated|associated]] with [[e/_elderly|elderly]] women.**
+- **Typically or [[s/_stereotypically|stereotypically]] [[o/_old|old]]-[[f/_fashioned|fashioned]], [[e/_especially|especially]] in [[c/_clothing|clothing]] and [[a/_accessories|accessories]] worn by or [[a/_associated|associated]] with [[e/_elderly|elderly]] women.**
 	- _Example: granny dress; granny glasses_
 ---
 ---

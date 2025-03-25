@@ -8,7 +8,7 @@
 - **Of a vector in an [[i/_inner|inner]] [[p/_product|product]] [[s/_space|space]], the [[l/_linear|linear]] [[f/_functional|functional]] [[c/_corresponding|corresponding]] to taking the [[i/_inner|inner]] [[p/_product|product]] with that vector. The [[s/_set|set]] of [[a/_all|all]] [[d/_duals|duals]] is a vector [[s/_space|space]] [[c/_called|called]] the [[d/_dual|dual]] [[s/_space|space]].**
 ---
 #verb
-- **To [[c/_convert|convert]] from [[s/_single|single]] to [[d/_dual|dual]]; specifically, to [[c/_convert|convert]] a [[s/_single|single]]-[[c/_carriageway|carriageway]] [[r/_road|road]] to a [[d/_dual|dual]] [[c/_carriageway|carriageway]].**
+- **To [[c/_convert|convert]] from [[s/_single|single]] to [[d/_dual|dual]]; [[s/_specifically|specifically]], to [[c/_convert|convert]] a [[s/_single|single]]-[[c/_carriageway|carriageway]] [[r/_road|road]] to a [[d/_dual|dual]] [[c/_carriageway|carriageway]].**
 ---
 #adjective
 - **[[e/_exhibiting|Exhibiting]] [[d/_duality|duality]]; [[c/_characterized|characterized]] by [[h/_having|having]] two (usually [[e/_equivalent|equivalent]]) [[c/_components|components]].**

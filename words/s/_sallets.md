@@ -5,7 +5,7 @@
 - **A [[r/_raw|raw]] vegetable of the [[k/_kind|kind]] used in [[s/_salads|salads]].**
 ---
 #noun
-- **A type of [[l/_light|light]] spherical [[h/_helmet|helmet]]**
+- **A type of [[l/_light|light]] [[s/_spherical|spherical]] [[h/_helmet|helmet]]**
 ---
 ### Synonyms
 - [[c/_celate|celate]], [[s/_salade|salade]]

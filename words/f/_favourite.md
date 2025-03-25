@@ -1,7 +1,7 @@
 # Favourite
 ---
 #noun
-- **A [[p/_person|person]] or thing who [[e/_enjoys|enjoys]] special [[r/_regard|regard]] or [[f/_favour|favour]].**
+- **A [[p/_person|person]] or thing who [[e/_enjoys|enjoys]] [[s/_special|special]] [[r/_regard|regard]] or [[f/_favour|favour]].**
 	- _Example: The teacher's favourite always went first._
 - **A [[p/_person|person]] who is [[p/_preferred|preferred]] or trusted [[a/_above|above]] [[a/_all|all]] [[o/_others|others]].**
 - **A [[c/_contestant|contestant]] or [[c/_competitor|competitor]] thought [[m/_most|most]] [[l/_likely|likely]] to win.**

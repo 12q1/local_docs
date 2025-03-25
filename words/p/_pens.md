@@ -14,12 +14,12 @@
 #noun
 - **A tool, [[o/_originally|originally]] [[m/_made|made]] from a [[f/_feather|feather]] but [[n/_now|now]] usually a [[s/_small|small]] tubular [[i/_instrument|instrument]], [[c/_containing|containing]] [[i/_ink|ink]] used to write or [[m/_make|make]] [[m/_marks|marks]].**
 	- _Example: He took notes with a pen._
-- **A writer, or [[h/_his|his]] style.**
+- **A writer, or [[h/_his|his]] [[s/_style|style]].**
 	- _Example: He has a sharp pen._
 - **[[m/_marks|Marks]] of [[i/_ink|ink]] [[l/_left|left]] by a [[p/_pen|pen]].**
 	- _Example: He's unhappy because he got pen on his new shirt._
 - **A [[l/_light|light]] [[p/_pen|pen]].**
-- **The [[i/_internal|internal]] [[c/_cartilage|cartilage]] [[s/_skeleton|skeleton]] of a squid, [[s/_shaped|shaped]] [[l/_like|like]] a [[p/_pen|pen]].**
+- **The [[i/_internal|internal]] [[c/_cartilage|cartilage]] [[s/_skeleton|skeleton]] of a [[s/_squid|squid]], [[s/_shaped|shaped]] [[l/_like|like]] a [[p/_pen|pen]].**
 - **A [[f/_feather|feather]], [[e/_especially|especially]] [[o/_one|one]] of the [[f/_flight|flight]] [[f/_feathers|feathers]] of a [[b/_bird|bird]], [[a/_angel|angel]] [[e/_etc|etc]].**
 - **A wing.**
 ---
@@ -33,8 +33,8 @@
 - **[[p/_penalty|Penalty]].**
 ---
 #noun
-- **In the United [[k/_kingdom|Kingdom]] and [[i/_ireland|Ireland]], a [[c/_copper|copper]] [[c/_coin|coin]] worth 1/240 of a [[p/_pound|pound]] sterling or [[i/_irish|Irish]] [[p/_pound|pound]] [[b/_before|before]] [[d/_decimalisation|decimalisation]]. [[a/_abbreviation|Abbreviation]]: [[d/_d|d]].**
-- **In the United [[k/_kingdom|Kingdom]], a [[c/_copper|copper]] [[c/_coin|coin]] worth 1/100 of a [[p/_pound|pound]] sterling. [[a/_abbreviation|Abbreviation]]: [[p/_p|p]].**
+- **In the United [[k/_kingdom|Kingdom]] and [[i/_ireland|Ireland]], a [[c/_copper|copper]] [[c/_coin|coin]] worth 1/240 of a [[p/_pound|pound]] [[s/_sterling|sterling]] or [[i/_irish|Irish]] [[p/_pound|pound]] [[b/_before|before]] [[d/_decimalisation|decimalisation]]. [[a/_abbreviation|Abbreviation]]: [[d/_d|d]].**
+- **In the United [[k/_kingdom|Kingdom]], a [[c/_copper|copper]] [[c/_coin|coin]] worth 1/100 of a [[p/_pound|pound]] [[s/_sterling|sterling]]. [[a/_abbreviation|Abbreviation]]: [[p/_p|p]].**
 - **In [[i/_ireland|Ireland]], a [[c/_coin|coin]] worth 1/100 of an [[i/_irish|Irish]] [[p/_pound|pound]] [[b/_before|before]] the [[i/_introduction|introduction]] of the [[e/_euro|euro]]. [[a/_abbreviation|Abbreviation]]: [[p/_p|p]].**
 - **In the US and [[c/_canada|Canada]], a [[o/_one|one]]-[[c/_cent|cent]] [[c/_coin|coin]], worth 1/100 of a [[d/_dollar|dollar]]. [[a/_abbreviation|Abbreviation]]: ¢.**
 - **In various [[c/_countries|countries]], a [[s/_small|small]]-[[d/_denomination|denomination]] [[c/_copper|copper]] or [[b/_brass|brass]] [[c/_coin|coin]].**

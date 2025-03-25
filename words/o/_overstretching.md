@@ -1,7 +1,7 @@
 # Overstretching
 ---
 #verb
-- **To stretch too [[f/_far|far]].**
-- **To stretch [[o/_over|over]] [[s/_something|something]].**
+- **To [[s/_stretch|stretch]] too [[f/_far|far]].**
+- **To [[s/_stretch|stretch]] [[o/_over|over]] [[s/_something|something]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Attendances
 ---
 #noun
-- **The state of [[a/_attending|attending]]; [[p/_presence|presence]] or waiting upon.**
+- **The [[s/_state|state]] of [[a/_attending|attending]]; [[p/_presence|presence]] or waiting upon.**
 	- _Example: Attendance at the meeting is required._
 - **The [[c/_count|count]] or [[l/_list|list]] of [[i/_individuals|individuals]] [[p/_present|present]] for an [[e/_event|event]].**
 	- _Example: The class sat down so that the teacher could take attendance._

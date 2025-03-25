@@ -12,7 +12,7 @@
 - **To [[c/_cast|cast]] [[o/_off|off]]; to [[m/_moult|moult]].**
 ---
 #adjective
-- **Not [[e/_expressed|expressed]] strongly or [[o/_openly|openly]].**
+- **Not [[e/_expressed|expressed]] [[s/_strongly|strongly]] or [[o/_openly|openly]].**
 - **(of a [[s/_sound|sound]]) [[q/_quiet|Quiet]] or [[s/_soft|soft]].**
 - **(of [[c/_color|color]]) Subdued.**
 ---

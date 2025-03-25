@@ -29,12 +29,12 @@
 	- _Example: Who heads the board of trustees?_
 - **To [[c/_come|come]] at the [[b/_beginning|beginning]] of; to [[c/_commence|commence]].**
 	- _Example: A group of clowns headed the procession._
-- **To strike with the [[h/_head|head]]; as in [[s/_soccer|soccer]], to [[h/_head|head]] the [[b/_ball|ball]]**
-- **To [[m/_move|move]] in a specified [[d/_direction|direction]].**
+- **To [[s/_strike|strike]] with the [[h/_head|head]]; as in [[s/_soccer|soccer]], to [[h/_head|head]] the [[b/_ball|ball]]**
+- **To [[m/_move|move]] in a [[s/_specified|specified]] [[d/_direction|direction]].**
 	- _Example: How does the ship head?_
 - **To [[r/_remove|remove]] the [[h/_head|head]] from a [[f/_fish|fish]].**
 	- _Example: The salmon are first headed and then scaled._
-- **To [[o/_originate|originate]]; to spring; to [[h/_have|have]] [[i/_its|its]] [[c/_course|course]], as a [[r/_river|river]].**
+- **To [[o/_originate|originate]]; to [[s/_spring|spring]]; to [[h/_have|have]] [[i/_its|its]] [[c/_course|course]], as a [[r/_river|river]].**
 - **To [[f/_form|form]] a [[h/_head|head]].**
 	- _Example: This kind of cabbage heads early._
 - **To [[f/_form|form]] a [[h/_head|head]] to; to [[f/_fit|fit]] or [[f/_furnish|furnish]] with a [[h/_head|head]].**
@@ -44,7 +44,7 @@
 - **To [[b/_behead|behead]]; to [[d/_decapitate|decapitate]].**
 - **To [[g/_go|go]] in [[f/_front|front]] of.**
 	- _Example: to head a drove of cattle_
-- **To [[g/_get|get]] in the [[f/_front|front]] of, [[s/_so|so]] as to [[h/_hinder|hinder]] or stop; to [[o/_oppose|oppose]].**
+- **To [[g/_get|get]] in the [[f/_front|front]] of, [[s/_so|so]] as to [[h/_hinder|hinder]] or [[s/_stop|stop]]; to [[o/_oppose|oppose]].**
 	- _Example: The wind headed the ship and made progress difficult._
 - **(by [[e/_extension|extension]]) To [[c/_check|check]] or [[r/_restrain|restrain]].**
 - **To [[s/_set|set]] on the [[h/_head|head]].**

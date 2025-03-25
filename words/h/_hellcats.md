@@ -2,6 +2,6 @@
 ---
 #noun
 - **A witch.**
-- **A spiteful and violent [[p/_person|person]], [[e/_especially|especially]] a woman.**
+- **A [[s/_spiteful|spiteful]] and violent [[p/_person|person]], [[e/_especially|especially]] a woman.**
 ---
 ---

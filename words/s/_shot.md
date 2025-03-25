@@ -9,8 +9,8 @@
 - **To [[d/_develop|develop]], [[m/_move|move]] [[f/_forward|forward]].**
 - **To [[p/_protrude|protrude]]; to [[j/_jut|jut]]; to [[p/_project|project]]; to [[e/_extend|extend]].**
 	- _Example: The land shoots into a promontory._
-- **To [[p/_plane|plane]] straight; to [[f/_fit|fit]] by [[p/_planing|planing]].**
-- **To variegate as [[i/_if|if]] by sprinkling or [[i/_intermingling|intermingling]]; to [[c/_color|color]] in spots or [[p/_patches|patches]].W**
+- **To [[p/_plane|plane]] [[s/_straight|straight]]; to [[f/_fit|fit]] by [[p/_planing|planing]].**
+- **To variegate as [[i/_if|if]] by [[s/_sprinkling|sprinkling]] or [[i/_intermingling|intermingling]]; to [[c/_color|color]] in [[s/_spots|spots]] or [[p/_patches|patches]].W**
 - **To [[s/_shoot|shoot]] the [[m/_moon|moon]].**
 ---
 #noun
@@ -28,7 +28,7 @@
 	- _Example: I'd like just one more shot at winning this game._
 - **A [[r/_remark|remark]] or [[c/_comment|comment]], [[e/_especially|especially]] [[o/_one|one]] which is [[c/_critical|critical]] or [[i/_insulting|insulting]].**
 - **A [[p/_punch|punch]] or [[o/_other|other]] [[p/_physical|physical]] [[b/_blow|blow]].**
-- **A [[m/_measure|measure]] of [[a/_alcohol|alcohol]], usually spirits, as taken [[e/_either|either]] from a [[s/_shot|shot]]-[[g/_glass|glass]] or [[d/_directly|directly]] from the [[b/_bottle|bottle]], [[e/_equivalent|equivalent]] to [[a/_about|about]] 44 [[m/_milliliters|milliliters]]; 1.5 [[o/_ounces|ounces]]. ("[[p/_pony|pony]] [[s/_shot|shot]]"= 30 [[m/_milliliters|milliliters]]; 1 [[f/_fluid|fluid]] [[o/_ounce|ounce]])**
+- **A [[m/_measure|measure]] of [[a/_alcohol|alcohol]], usually [[s/_spirits|spirits]], as taken [[e/_either|either]] from a [[s/_shot|shot]]-[[g/_glass|glass]] or [[d/_directly|directly]] from the [[b/_bottle|bottle]], [[e/_equivalent|equivalent]] to [[a/_about|about]] 44 [[m/_milliliters|milliliters]]; 1.5 [[o/_ounces|ounces]]. ("[[p/_pony|pony]] [[s/_shot|shot]]"= 30 [[m/_milliliters|milliliters]]; 1 [[f/_fluid|fluid]] [[o/_ounce|ounce]])**
 	- _Example: I'd like a shot of whisky in my coffee._
 - **A [[s/_single|single]] [[s/_serving|serving]] of [[e/_espresso|espresso]].**
 - **A [[r/_reckoning|reckoning]], a [[s/_share|share]] of a tavern [[b/_bill|bill]], [[e/_etc|etc]].**
@@ -40,7 +40,7 @@
 	- _Example: His solo shot in the seventh inning ended up winning the game._
 - **(US [[f/_federal|federal]] [[p/_prison|prison]] [[s/_system|system]]) Written [[d/_documentation|documentation]] of a [[b/_behavior|behavior]] [[i/_infraction|infraction]].**
 - **([[f/_fisheries|fisheries]]) A [[c/_cast|cast]] of [[o/_one|one]] or [[m/_more|more]] [[n/_nets|nets]].**
-- **([[f/_fisheries|fisheries]]) A [[p/_place|place]] or spot for [[s/_setting|setting]] [[n/_nets|nets]].**
+- **([[f/_fisheries|fisheries]]) A [[p/_place|place]] or [[s/_spot|spot]] for [[s/_setting|setting]] [[n/_nets|nets]].**
 - **([[f/_fisheries|fisheries]]) A [[s/_single|single]] [[d/_draft|draft]] or [[c/_catch|catch]] of [[f/_fish|fish]] [[m/_made|made]].**
 ---
 #verb
@@ -49,7 +49,7 @@
 #adjective
 - **Worn [[o/_out|out]] or [[b/_broken|broken]].**
 	- _Example: The rear axle will have to be replaced. It’s shot._
-- **(of [[m/_material|material]], [[e/_especially|especially]] [[s/_silk|silk]]) Woven from warp and weft strands of [[d/_different|different]] [[c/_colours|colours]], [[r/_resulting|resulting]] in an [[i/_iridescent|iridescent]] [[a/_appearance|appearance]].**
+- **(of [[m/_material|material]], [[e/_especially|especially]] [[s/_silk|silk]]) Woven from warp and weft [[s/_strands|strands]] of [[d/_different|different]] [[c/_colours|colours]], [[r/_resulting|resulting]] in an [[i/_iridescent|iridescent]] [[a/_appearance|appearance]].**
 	- _Example: The cloak was shot through with silver threads._
 - **Tired, weary.**
 	- _Example: I have to go to bed now; I’m shot._

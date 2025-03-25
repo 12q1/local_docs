@@ -1,7 +1,7 @@
 # Dour
 ---
 #adjective
-- **Stern, [[h/_harsh|harsh]] and [[f/_forbidding|forbidding]].**
+- **[[s/_stern|Stern]], [[h/_harsh|harsh]] and [[f/_forbidding|forbidding]].**
 - **Unyielding and [[o/_obstinate|obstinate]].**
 - **[[e/_expressing|Expressing]] [[g/_gloom|gloom]] or [[m/_melancholy|melancholy]]; sullenly unhappy.**
 ---

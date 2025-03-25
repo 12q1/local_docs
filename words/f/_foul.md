@@ -10,7 +10,7 @@
 - **[[d/_disgusting|Disgusting]], [[r/_repulsive|repulsive]]; [[c/_causing|causing]] [[d/_disgust|disgust]].**
 	- _Example: There was a foul smell coming from the toilet._
 - **Ugly; [[h/_homely|homely]]; [[p/_poor|poor]].**
-- **(of the weather) Unpleasant, stormy or [[r/_rainy|rainy]].**
+- **(of the weather) Unpleasant, [[s/_stormy|stormy]] or [[r/_rainy|rainy]].**
 	- _Example: Some foul weather is brewing._
 - **[[d/_dishonest|Dishonest]] or not [[c/_conforming|conforming]] to the [[e/_established|established]] [[r/_rules|rules]] and [[c/_customs|customs]] of a [[g/_game|game]], [[c/_conflict|conflict]], test, [[e/_etc|etc]].**
 	- _Example: Foul play is not suspected._

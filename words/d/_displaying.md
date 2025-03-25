@@ -6,7 +6,7 @@
 - **To [[e/_extend|extend]] the [[f/_front|front]] of (a [[c/_column|column]]), [[b/_bringing|bringing]] it [[i/_into|into]] [[l/_line|line]].**
 - **To [[m/_make|make]] [[c/_conspicuous|conspicuous]] by using [[l/_large|large]] or [[p/_prominent|prominent]] type.**
 - **To [[d/_discover|discover]]; to [[d/_descry|descry]].**
-- **To spread [[o/_out|out]], to unfurl.**
+- **To [[s/_spread|spread]] [[o/_out|out]], to unfurl.**
 ---
 ### Synonyms
 - [[s/_splay|splay]]

@@ -5,7 +5,7 @@
 	- _Example: The Princess brought grace to an otherwise dull and boring party._
 - **A [[s/_short|short]] [[p/_prayer|prayer]] of thanks [[b/_before|before]] or [[a/_after|after]] a [[m/_meal|meal]].**
 	- _Example: It has become less common to say grace before having dinner._
-- **In the [[g/_games|games]] of [[p/_patience|patience]] or [[s/_solitaire|solitaire]]: a special [[m/_move|move]] that is [[n/_normally|normally]] [[a/_against|against]] the [[r/_rules|rules]].**
+- **In the [[g/_games|games]] of [[p/_patience|patience]] or [[s/_solitaire|solitaire]]: a [[s/_special|special]] [[m/_move|move]] that is [[n/_normally|normally]] [[a/_against|against]] the [[r/_rules|rules]].**
 - **A [[g/_grace|grace]] [[n/_note|note]].**
 - **[[e/_elegant|Elegant]] [[m/_movement|movement]]; [[b/_balance|balance]] or [[p/_poise|poise]].**
 	- _Example: The dancer moved with grace and strength._

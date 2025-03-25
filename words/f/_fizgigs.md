@@ -10,13 +10,13 @@
 - **To [[r/_roam|roam]] [[a/_around|around]] in a [[f/_frivolous|frivolous]] [[m/_manner|manner]]; to [[g/_gad|gad]] [[a/_about|about]], to [[g/_gallivant|gallivant]].**
 ---
 #noun
-- **A [[s/_small|small]] squib-[[l/_like|like]] [[f/_firework|firework]] that [[e/_explodes|explodes]] with a [[f/_fizzing|fizzing]] or [[h/_hissing|hissing]] [[n/_noise|noise]].**
+- **A [[s/_small|small]] [[s/_squib|squib]]-[[l/_like|like]] [[f/_firework|firework]] that [[e/_explodes|explodes]] with a [[f/_fizzing|fizzing]] or [[h/_hissing|hissing]] [[n/_noise|noise]].**
 ---
 #noun
-- **A spear with a [[b/_barb|barb]] on the [[e/_end|end]] of it, used for [[c/_catching|catching]] [[f/_fish|fish]]; a type of [[h/_harpoon|harpoon]].**
+- **A [[s/_spear|spear]] with a [[b/_barb|barb]] on the [[e/_end|end]] of it, used for [[c/_catching|catching]] [[f/_fish|fish]]; a type of [[h/_harpoon|harpoon]].**
 ---
 #noun
-- **A [[p/_police|police]] [[i/_informer|informer]], a stool [[p/_pigeon|pigeon]], [[s/_someone|someone]] [[e/_employed|employed]] by [[p/_police|police]] to [[e/_entrap|entrap]] [[s/_someone|someone]] elseor [[p/_provoke|provoke]] them to [[c/_commit|commit]] a [[c/_crime|crime]].**
+- **A [[p/_police|police]] [[i/_informer|informer]], a [[s/_stool|stool]] [[p/_pigeon|pigeon]], [[s/_someone|someone]] [[e/_employed|employed]] by [[p/_police|police]] to [[e/_entrap|entrap]] [[s/_someone|someone]] elseor [[p/_provoke|provoke]] them to [[c/_commit|commit]] a [[c/_crime|crime]].**
 ---
 #verb
 - **To [[a/_act|act]] as a [[p/_police|police]] [[i/_informer|informer]] or [[a/_agent|agent]] [[p/_provocateur|provocateur]].**

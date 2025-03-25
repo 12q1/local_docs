@@ -8,7 +8,7 @@
 - **The "[[b/_bread|bread]]" [[f/_formerly|formerly]] supplied to [[n/_naval|naval]] [[s/_ships|ships]], which was [[m/_made|made]] with very [[l/_little|little]] water, [[k/_kneaded|kneaded]] [[i/_into|into]] [[f/_flat|flat]] [[c/_cakes|cakes]] and [[s/_slowly|slowly]] [[b/_baked|baked]], and which [[o/_often|often]] [[b/_became|became]] [[i/_infested|infested]] with weevils.**
 - **A [[f/_form|form]] of unglazed [[e/_earthenware|earthenware]].**
 - **A [[l/_light|light]] [[b/_brown|brown]] [[c/_colour|colour]].**
-- **A thin [[o/_oval|oval]] wafer of wood or [[o/_other|other]] [[m/_material|material]] [[i/_inserted|inserted]] [[i/_into|into]] [[m/_mating|mating]] [[s/_slots|slots]] on [[p/_pieces|pieces]] of [[m/_material|material]] to be [[j/_joined|joined]] to [[p/_provide|provide]] [[g/_gluing|gluing]] surface and strength in [[s/_shear|shear]].**
+- **A thin [[o/_oval|oval]] wafer of wood or [[o/_other|other]] [[m/_material|material]] [[i/_inserted|inserted]] [[i/_into|into]] [[m/_mating|mating]] [[s/_slots|slots]] on [[p/_pieces|pieces]] of [[m/_material|material]] to be [[j/_joined|joined]] to [[p/_provide|provide]] [[g/_gluing|gluing]] surface and [[s/_strength|strength]] in [[s/_shear|shear]].**
 - **A [[p/_plastic|plastic]] [[c/_card|card]] [[b/_bearing|bearing]] the [[c/_codes|codes]] for [[a/_authorizing|authorizing]] a [[n/_nuclear|nuclear]] [[a/_attack|attack]].**
 - **(hiphop) A [[h/_handgun|handgun]], [[e/_especially|especially]] a [[r/_revolver|revolver]].**
 - **([[s/_shuffleboard|shuffleboard]]) A [[p/_puck|puck]] ([[h/_hockey|hockey]] [[p/_puck|puck]]).**

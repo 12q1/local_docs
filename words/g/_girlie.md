@@ -10,6 +10,6 @@
 - 
 #adjective
 - **Of [[e/_entertainment|entertainment]], [[i/_involving|involving]] [[a/_attractive|attractive]] women or [[i/_images|images]] thereof, usually [[n/_nude|nude]] or wearing [[s/_skimpy|skimpy]] [[c/_clothing|clothing]].**
-- **[[c/_characteristic|Characteristic]] of a stereotypical [[g/_girl|girl]], very [[e/_effeminate|effeminate]], sweet; unmasculine.**
+- **[[c/_characteristic|Characteristic]] of a [[s/_stereotypical|stereotypical]] [[g/_girl|girl]], very [[e/_effeminate|effeminate]], sweet; unmasculine.**
 ---
 ---

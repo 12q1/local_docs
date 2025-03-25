@@ -9,7 +9,7 @@
 	- _Example: The surgeon wrote a prescription for a pain killer and physical therapy._
 - **The [[p/_prescription|prescription]] [[m/_medicine|medicine]] or [[i/_intervention|intervention]] [[s/_so|so]] [[p/_prescribed|prescribed]].**
 	- _Example: The pharmacist gave her a bottle containing her prescription._
-- **The [[f/_formal|formal]] [[d/_description|description]] of the [[l/_lens|lens]] [[g/_geometry|geometry]] [[n/_needed|needed]] for spectacles, [[e/_etc|etc]]..**
+- **The [[f/_formal|formal]] [[d/_description|description]] of the [[l/_lens|lens]] [[g/_geometry|geometry]] [[n/_needed|needed]] for [[s/_spectacles|spectacles]], [[e/_etc|etc]]..**
 	- _Example: The optician followed the optometrist's prescription for her new eyeglasses._
 - **The [[a/_act|act]] or [[p/_practice|practice]] of [[l/_laying|laying]] [[d/_down|down]] [[n/_norms|norms]] of [[l/_language|language]] usage, as [[o/_opposed|opposed]] to [[d/_description|description]], [[i/_i|i]].[[e/_e|e]]. [[r/_recording|recording]] and [[d/_describing|describing]] [[a/_actual|actual]] usage.**
 - **An [[i/_instance|instance]] of a [[p/_prescriptive|prescriptive]] [[p/_pronouncement|pronouncement]].**

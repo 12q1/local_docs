@@ -1,7 +1,7 @@
 # Bowed
 ---
 #verb
-- **To [[p/_play|play]] [[m/_music|music]] on (a stringed) [[i/_instrument|instrument]] using a [[b/_bow|bow]].**
+- **To [[p/_play|play]] [[m/_music|music]] on (a [[s/_stringed|stringed]]) [[i/_instrument|instrument]] using a [[b/_bow|bow]].**
 	- _Example: The musician bowed his violin expertly._
 - **To [[b/_become|become]] [[b/_bent|bent]] or [[c/_curved|curved]].**
 	- _Example: The shelf bowed under the weight of the books._

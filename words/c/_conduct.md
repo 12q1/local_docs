@@ -5,7 +5,7 @@
 - **[[s/_skillful|Skillful]] [[g/_guidance|guidance]] or [[m/_management|management]]; [[l/_leadership|leadership]]**
 - **[[b/_behaviour|Behaviour]]; the [[m/_manner|manner]] of [[b/_behaving|behaving]]**
 	- _Example: Good conduct will be rewarded and likewise poor conduct will be punished._
-- **(of a [[l/_literary|literary]] work) [[p/_plot|plot]]; storyline**
+- **(of a [[l/_literary|literary]] work) [[p/_plot|plot]]; [[s/_storyline|storyline]]**
 - **[[c/_convoy|Convoy]]; [[e/_escort|escort]]; [[p/_person|person]] who [[a/_accompanies|accompanies]] [[a/_another|another]]**
 - **[[s/_something|Something]] which [[c/_carries|carries]] or [[c/_conveys|conveys]] [[a/_anything|anything]]; a [[c/_channel|channel]]; an [[i/_instrument|instrument]].**
 ---

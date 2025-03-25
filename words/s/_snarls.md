@@ -18,7 +18,7 @@
 #noun
 - **The [[a/_act|act]] of [[s/_snarling|snarling]]; a [[g/_growl|growl]]; a surly or [[p/_peevish|peevish]] [[e/_expression|expression]]; an [[a/_angry|angry]] [[c/_contention|contention]].**
 - **A [[g/_growl|growl]], for [[e/_example|example]] that of an [[a/_angry|angry]] or surly [[d/_dog|dog]], or [[s/_similar|similar]]; [[g/_grumbling|grumbling]] [[s/_sounds|sounds]].**
-- **A squabble.**
+- **A [[s/_squabble|squabble]].**
 ---
 #verb
 - **To [[g/_growl|growl]] [[a/_angrily|angrily]] by [[g/_gnashing|gnashing]] or [[b/_baring|baring]] the teeth; to [[g/_gnarl|gnarl]]; to utter [[g/_grumbling|grumbling]] [[s/_sounds|sounds]].**

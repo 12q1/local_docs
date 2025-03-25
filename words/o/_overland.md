@@ -1,7 +1,7 @@
 # Overland
 ---
 #noun
-- **(travel) a trip by [[l/_land|land]] [[b/_between|between]] the UK and the [[i/_indian|Indian]] Sub-[[c/_continent|continent]] or [[a/_australia|Australia]], or [[b/_between|between]] the UK and [[s/_south|South]] [[a/_africa|Africa]].**
+- **(travel) a trip by [[l/_land|land]] [[b/_between|between]] the UK and the [[i/_indian|Indian]] [[s/_sub|Sub]]-[[c/_continent|continent]] or [[a/_australia|Australia]], or [[b/_between|between]] the UK and [[s/_south|South]] [[a/_africa|Africa]].**
 ---
 #verb
 - **To transport ([[e/_especially|especially]] [[s/_sheep|sheep]] or [[o/_other|other]] [[f/_farm|farm]] [[a/_animals|animals]]) [[o/_over|over]] [[l/_land|land]]**

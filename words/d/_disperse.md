@@ -9,6 +9,6 @@
 - **To [[d/_distribute|distribute]] throughout**
 ---
 #adjective
-- **[[s/_scattered|Scattered]] or spread [[o/_out|out]].**
+- **[[s/_scattered|Scattered]] or [[s/_spread|spread]] [[o/_out|out]].**
 ---
 ---

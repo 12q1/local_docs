@@ -6,7 +6,7 @@
 ---
 #adjective
 - **Of, [[p/_pertaining|pertaining]] to, or [[c/_connected|connected]] with [[f/_flowers|flowers]].**
-- **[[p/_portraying|Portraying]] [[f/_flowers|flowers]], [[e/_especially|especially]] in a stylized way.**
+- **[[p/_portraying|Portraying]] [[f/_flowers|flowers]], [[e/_especially|especially]] in a [[s/_stylized|stylized]] way.**
 	- _Example: I really like the floral pattern on this Chinese vase._
 ---
 ---

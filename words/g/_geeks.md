@@ -1,7 +1,7 @@
 # Geeks
 ---
 #noun
-- **A [[c/_carnival|carnival]] [[p/_performer|performer]] specializing in [[b/_bizarre|bizarre]] and unappetizing [[b/_behavior|behavior]].**
+- **A [[c/_carnival|carnival]] [[p/_performer|performer]] [[s/_specializing|specializing]] in [[b/_bizarre|bizarre]] and unappetizing [[b/_behavior|behavior]].**
 	- _Example: I once saw a geek bite the head off a live chicken._
 - **A [[p/_person|person]] who is [[i/_intensely|intensely]] [[i/_interested|interested]] in a [[p/_particular|particular]] [[f/_field|field]] or [[h/_hobby|hobby]] and [[o/_often|often]] [[h/_having|having]] [[l/_limited|limited]] or [[n/_nonstandard|nonstandard]] [[s/_social|social]] [[s/_skills|skills]]. [[o/_often|Often]] used with an [[a/_attributive|attributive]] [[n/_noun|noun]].**
 	- _Example: I was a complete computer geek in high school, but I get out a lot more now._
@@ -24,6 +24,6 @@
 ### Synonyms
 - [[b/_butcher’s|butcher’s]], [[g/_gander|gander]]
 #verb
-- **To [[l/_look|look]]; to [[p/_peep|peep]]; to stare [[a/_about|about]] [[i/_intently|intently]].**
+- **To [[l/_look|look]]; to [[p/_peep|peep]]; to [[s/_stare|stare]] [[a/_about|about]] [[i/_intently|intently]].**
 ---
 ---

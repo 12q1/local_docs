@@ -7,7 +7,7 @@
 - **Willfully [[a/_abusive|abusive]], [[e/_even|even]] [[s/_slanderous|slanderous]] [[r/_remarks|remarks]] or [[c/_claims|claims]], [[n/_notably|notably]] [[b/_between|between]] [[p/_political|political]] [[o/_opponents|opponents]].**
 	- _Example: The campaign issues got lost in all the mud from both parties._
 - **[[m/_money|Money]], [[d/_dough|dough]], [[e/_especially|especially]] when [[p/_proceeding|proceeding]] from [[d/_dirty|dirty]] [[b/_business|business]].**
-- **([[g/_gay|gay]] [[s/_sex|sex]]) Stool that is [[e/_exposed|exposed]] as a [[r/_result|result]] of [[a/_anal|anal]] [[s/_sex|sex]].**
+- **([[g/_gay|gay]] [[s/_sex|sex]]) [[s/_stool|Stool]] that is [[e/_exposed|exposed]] as a [[r/_result|result]] of [[a/_anal|anal]] [[s/_sex|sex]].**
 - **A [[p/_particle|particle]] [[l/_less|less]] than 62.5 [[m/_microns|microns]] in [[d/_diameter|diameter]], [[f/_following|following]] the Wentworth [[s/_scale|scale]]**
 - **A [[b/_black|black]] [[p/_person|person]].**
 - **[[d/_drilling|Drilling]] [[f/_fluid|fluid]].**

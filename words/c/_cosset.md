@@ -7,7 +7,7 @@
 #verb
 - **To treat [[l/_like|like]] a [[p/_pet|pet]]; to [[o/_overly|overly]] [[i/_indulge|indulge]].**
 	- _Example: The car cossets its occupants in comfort._
-- **To [[f/_fondle|fondle]]; to touch or stroke [[l/_lovingly|lovingly]].**
+- **To [[f/_fondle|fondle]]; to touch or [[s/_stroke|stroke]] [[l/_lovingly|lovingly]].**
 	- _Example: The foam cossets your skin._
 ---
 ### Synonyms

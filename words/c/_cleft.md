@@ -1,8 +1,8 @@
 # Cleft
 ---
 #noun
-- **An [[o/_opening|opening]], [[f/_fissure|fissure]], or V-[[s/_shaped|shaped]] [[i/_indentation|indentation]] [[m/_made|made]] by or as [[i/_if|if]] by splitting.**
-- **A [[p/_piece|piece]] [[m/_made|made]] by splitting.**
+- **An [[o/_opening|opening]], [[f/_fissure|fissure]], or V-[[s/_shaped|shaped]] [[i/_indentation|indentation]] [[m/_made|made]] by or as [[i/_if|if]] by [[s/_splitting|splitting]].**
+- **A [[p/_piece|piece]] [[m/_made|made]] by [[s/_splitting|splitting]].**
 	- _Example: a cleft of wood_
 - **A [[d/_disease|disease]] of [[h/_horses|horses]]; a [[c/_crack|crack]] on the [[b/_band|band]] of the [[p/_pastern|pastern]].**
 ---

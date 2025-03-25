@@ -10,7 +10,7 @@
 	- _Example: You have to riddle the gravel before you lay it on the road._
 - **To [[f/_fill|fill]] with [[h/_holes|holes]] [[l/_like|like]] a [[r/_riddle|riddle]].**
 	- _Example: The shots from his gun began to riddle the targets._
-- **To [[f/_fill|fill]] or spread throughout; to [[p/_pervade|pervade]].**
+- **To [[f/_fill|fill]] or [[s/_spread|spread]] throughout; to [[p/_pervade|pervade]].**
 	- _Example: Your argument is riddled with errors._
 ---
 #verb

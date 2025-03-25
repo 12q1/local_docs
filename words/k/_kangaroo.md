@@ -1,7 +1,7 @@
 # Kangaroo
 ---
 #noun
-- **A [[m/_member|member]] of the [[m/_macropodidae|Macropodidae]] [[f/_family|family]] of [[l/_large|large]] [[m/_marsupials|marsupials]] with strong [[h/_hind|hind]] [[l/_legs|legs]] for [[h/_hopping|hopping]], [[n/_native|native]] to [[a/_australia|Australia]].**
+- **A [[m/_member|member]] of the [[m/_macropodidae|Macropodidae]] [[f/_family|family]] of [[l/_large|large]] [[m/_marsupials|marsupials]] with [[s/_strong|strong]] [[h/_hind|hind]] [[l/_legs|legs]] for [[h/_hopping|hopping]], [[n/_native|native]] to [[a/_australia|Australia]].**
 - **A [[h/_hooded|hooded]] [[j/_jacket|jacket]] with a [[f/_front|front]] [[p/_pocket|pocket]], usually of [[f/_fleece|fleece]] [[m/_material|material]], a [[k/_kangaroo|kangaroo]] [[j/_jacket|jacket]].**
 ---
 ### Synonyms

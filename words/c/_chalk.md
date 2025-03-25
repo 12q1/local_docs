@@ -6,7 +6,7 @@
 - **Tailor'[[s/_s|s]] [[c/_chalk|chalk]].**
 - **A white [[p/_powdery|powdery]] substance used to [[p/_prevent|prevent]] [[h/_hands|hands]] [[s/_slipping|slipping]] from [[h/_holds|holds]] when [[c/_climbing|climbing]], [[s/_sometimes|sometimes]] but not [[a/_always|always]] [[l/_limestone|limestone]]-[[c/_chalk|chalk]].**
 - **A [[p/_platoon|platoon]]-[[s/_sized|sized]] [[g/_group|group]] of [[a/_airborne|airborne]] [[s/_soldiers|soldiers]].**
-- **(horseracing) The [[f/_favorite|favorite]] in a sporting [[e/_event|event]].**
+- **(horseracing) The [[f/_favorite|favorite]] in a [[s/_sporting|sporting]] [[e/_event|event]].**
 - **The [[p/_prediction|prediction]] that there will be [[n/_no|no]] upsets, and the [[f/_favored|favored]] [[c/_competitor|competitor]] will win.**
 ---
 #verb

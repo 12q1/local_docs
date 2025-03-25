@@ -4,8 +4,8 @@
 - **[[s/_someone|Someone]] who [[s/_sleeps|sleeps]].**
 	- _Example: I'm a light sleeper: I get woken up by the smallest of sounds._
 - **That which [[l/_lies|lies]] [[d/_dormant|dormant]], as a [[l/_law|law]].**
-- **A spy, [[s/_saboteur|saboteur]], or terrorist who [[l/_lives|lives]] unobtrusively in a [[c/_community|community]] until [[a/_activated|activated]] by a [[p/_prearranged|prearranged]] [[s/_signal|signal]]; [[m/_may|may]] be [[p/_part|part]] of a [[s/_sleeper|sleeper]] [[c/_cell|cell]].**
-- **A [[s/_small|small]] starter [[e/_earring|earring]], worn to [[p/_prevent|prevent]] a [[p/_piercing|piercing]] from [[c/_closing|closing]].**
+- **A [[s/_spy|spy]], [[s/_saboteur|saboteur]], or terrorist who [[l/_lives|lives]] unobtrusively in a [[c/_community|community]] until [[a/_activated|activated]] by a [[p/_prearranged|prearranged]] [[s/_signal|signal]]; [[m/_may|may]] be [[p/_part|part]] of a [[s/_sleeper|sleeper]] [[c/_cell|cell]].**
+- **A [[s/_small|small]] [[s/_starter|starter]] [[e/_earring|earring]], worn to [[p/_prevent|prevent]] a [[p/_piercing|piercing]] from [[c/_closing|closing]].**
 - **A [[r/_railway|railway]] [[s/_sleeping|sleeping]] [[c/_car|car]].**
 	- _Example: We spent a night on an uncomfortable sleeper between Athens and Vienna._
 - **A [[s/_sleeper|sleeper]] [[h/_hold|hold]].**
@@ -15,7 +15,7 @@
 - **A [[n/_nurse|nurse]] [[s/_shark|shark]] ([[f/_family|family]] Ginglymostomatidae).**
 - **A type of [[p/_pajama|pajama]] for a [[p/_person|person]], [[e/_especially|especially]] a [[c/_child|child]], that [[c/_covers|covers]] the whole [[b/_body|body]], [[i/_including|including]] the [[f/_feet|feet]].**
 	- _Example: Aaron, Devin, and Laura looked so comfy in their sleepers._
-- **An [[a/_automobile|automobile]] which [[h/_has|has]] [[b/_been|been]] [[i/_internally|internally]] [[m/_modified|modified]] to [[e/_excess|excess]], while [[r/_retaining|retaining]] a [[m/_mostly|mostly]] stock [[a/_appearance|appearance]] in [[o/_order|order]] to [[f/_fool|fool]] [[o/_opponents|opponents]] in a [[d/_drag|drag]] [[r/_race|race]], or to [[a/_avoid|avoid]] the [[a/_attention|attention]] of the [[p/_police|police]].**
+- **An [[a/_automobile|automobile]] which [[h/_has|has]] [[b/_been|been]] [[i/_internally|internally]] [[m/_modified|modified]] to [[e/_excess|excess]], while [[r/_retaining|retaining]] a [[m/_mostly|mostly]] [[s/_stock|stock]] [[a/_appearance|appearance]] in [[o/_order|order]] to [[f/_fool|fool]] [[o/_opponents|opponents]] in a [[d/_drag|drag]] [[r/_race|race]], or to [[a/_avoid|avoid]] the [[a/_attention|attention]] of the [[p/_police|police]].**
 - **A [[s/_sedative|sedative]].**
 ---
 ### Synonyms

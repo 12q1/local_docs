@@ -1,7 +1,7 @@
 # Disorder
 ---
 #noun
-- **[[a/_absence|Absence]] of [[o/_order|order]]; state of not [[b/_being|being]] [[a/_arranged|arranged]] in an [[o/_orderly|orderly]] [[m/_manner|manner]].**
+- **[[a/_absence|Absence]] of [[o/_order|order]]; [[s/_state|state]] of not [[b/_being|being]] [[a/_arranged|arranged]] in an [[o/_orderly|orderly]] [[m/_manner|manner]].**
 	- _Example: After playing the children left the room in disorder._
 - **A [[d/_disturbance|disturbance]] of [[c/_civic|civic]] [[p/_peace|peace]] or of [[p/_public|public]] [[o/_order|order]].**
 	- _Example: The army tried to prevent disorder when claims the elections had been rigged grew stronger._
@@ -11,7 +11,7 @@
 ### Synonyms
 - [[c/_chaos|chaos]], [[e/_entropy|entropy]]
 #verb
-- **To throw [[i/_into|into]] a state of [[d/_disorder|disorder]].**
+- **To throw [[i/_into|into]] a [[s/_state|state]] of [[d/_disorder|disorder]].**
 - **To [[k/_knock|knock]] [[o/_out|out]] of [[o/_order|order]] or [[s/_sequence|sequence]].**
 ---
 ---

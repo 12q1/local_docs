@@ -12,7 +12,7 @@
 ---
 #adjective
 - **[[e/_existing|Existing]] or [[d/_designed|designed]] [[a/_according|according]] to a [[p/_plan|plan]].**
-- **At or through the [[p/_planning|planning]] stage, but not [[y/_yet|yet]] [[i/_implemented|implemented]] or started.**
+- **At or through the [[p/_planning|planning]] [[s/_stage|stage]], but not [[y/_yet|yet]] [[i/_implemented|implemented]] or [[s/_started|started]].**
 ---
 ### Antonyms
 - [[u/_unplanned|unplanned]]

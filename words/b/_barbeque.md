@@ -9,7 +9,7 @@
 	- _Example: She ordered a plate of barbecue with a side of slaw._
 - **A [[h/_hog|hog]], [[o/_ox|ox]], or [[o/_other|other]] [[l/_large|large]] [[a/_animal|animal]] [[r/_roasted|roasted]] or [[b/_broiled|broiled]] whole for a [[f/_feast|feast]].**
 - **A [[f/_floor|floor]] on which [[c/_coffee|coffee]] [[b/_beans|beans]] are sun-[[d/_dried|dried]].**
-- **A [[f/_framework|framework]] of sticks.**
+- **A [[f/_framework|framework]] of [[s/_sticks|sticks]].**
 ---
 ### Synonyms
 - [[b/_braai|braai]], [[c/_cookout|cookout]], [[b/_braai|braai]], [[b/_buccan|buccan]], [[g/_grill|grill]]

@@ -1,7 +1,7 @@
 # Bunchberry
 ---
 #noun
-- **[[e/_either|Either]] of two species of [[d/_dwarf|dwarf]] [[d/_dogwoods|dogwoods]]:**
+- **[[e/_either|Either]] of two [[s/_species|species]] of [[d/_dwarf|dwarf]] [[d/_dogwoods|dogwoods]]:**
 - **The [[f/_fruit|fruit]] of [[e/_either|either]] of these [[p/_plants|plants]].**
 ---
 ---

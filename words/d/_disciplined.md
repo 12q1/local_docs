@@ -12,6 +12,6 @@
 - **[[p/_possessing|Possessing]] [[m/_mental|mental]] [[d/_discipline|discipline]].**
 - **[[p/_punished|Punished]] for [[d/_disobedience|disobedience]].**
 - **Under [[c/_control|control]].**
-- **(in [[c/_combination|combination]]) [[r/_relating|Relating]] to a specified [[k/_kind|kind]] or [[n/_number|number]] of [[d/_disciplines|disciplines]].**
+- **(in [[c/_combination|combination]]) [[r/_relating|Relating]] to a [[s/_specified|specified]] [[k/_kind|kind]] or [[n/_number|number]] of [[d/_disciplines|disciplines]].**
 ---
 ---

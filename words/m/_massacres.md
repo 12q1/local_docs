@@ -3,7 +3,7 @@
 #noun
 - **The [[k/_killing|killing]] of a [[c/_considerable|considerable]] [[n/_number|number]] (usually [[l/_limited|limited]] to [[p/_people|people]]) where [[l/_little|little]] or [[n/_no|no]] [[r/_resistance|resistance]] [[c/_can|can]] be [[m/_made|made]], with [[i/_indiscriminate|indiscriminate]] violence, without [[n/_necessity|necessity]], and [[c/_contrary|contrary]] to [[c/_civilized|civilized]] [[n/_norms|norms]].**
 - **[[m/_murder|Murder]].**
-- **[[a/_any|Any]] [[o/_overwhelming|overwhelming]] [[d/_defeat|defeat]], as in a [[g/_game|game]] or sport.**
+- **[[a/_any|Any]] [[o/_overwhelming|overwhelming]] [[d/_defeat|defeat]], as in a [[g/_game|game]] or [[s/_sport|sport]].**
 ---
 ### Synonyms
 - [[b/_butchery|butchery]], [[d/_decimation|decimation]], [[s/_slaughter|slaughter]]

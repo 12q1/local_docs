@@ -3,7 +3,7 @@
 #noun
 - **[[c/_controversy|Controversy]]; [[d/_debate|debate]].**
 	- _Example: no contest_
-- **Struggle for superiority; [[c/_combat|combat]].**
+- **[[s/_struggle|Struggle]] for superiority; [[c/_combat|combat]].**
 - **A [[c/_competition|competition]].**
 	- _Example: The child entered the spelling contest._
 ---
@@ -14,7 +14,7 @@
 	- _Example: I will contest for the open seat on the board._
 - **To [[c/_call|call]] [[i/_into|into]] [[q/_question|question]]; to [[o/_oppose|oppose]].**
 	- _Example: The rival contested the dictator's re-election because of claims of voting irregularities._
-- **To strive [[e/_earnestly|earnestly]] to [[h/_hold|hold]] or [[m/_maintain|maintain]]; to struggle to [[d/_defend|defend]].**
+- **To [[s/_strive|strive]] [[e/_earnestly|earnestly]] to [[h/_hold|hold]] or [[m/_maintain|maintain]]; to [[s/_struggle|struggle]] to [[d/_defend|defend]].**
 	- _Example: The troops contested every inch of ground._
 - **To [[m/_make|make]] a subject of [[l/_litigation|litigation]]; to [[d/_defend|defend]], as a suit; to [[d/_dispute|dispute]] or [[r/_resist|resist]], as a [[c/_claim|claim]], by [[c/_course|course]] of [[l/_law|law]].**
 ---

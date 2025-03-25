@@ -10,16 +10,16 @@
 	- _Example: The comedian's jokes weren't funny, but I forced a laugh now and then._
 - **To [[f/_forcibly|forcibly]] [[o/_open|open]] (a [[d/_door|door]], [[l/_lock|lock]] [[e/_etc|etc]].).**
 	- _Example: To force a lock._
-- **To [[o/_obtain|obtain]] or win by strength; to take by violence or struggle; specifically, to [[c/_capture|capture]] by [[a/_assault|assault]]; to storm, as a [[f/_fortress|fortress]].**
+- **To [[o/_obtain|obtain]] or win by [[s/_strength|strength]]; to take by violence or [[s/_struggle|struggle]]; [[s/_specifically|specifically]], to [[c/_capture|capture]] by [[a/_assault|assault]]; to [[s/_storm|storm]], as a [[f/_fortress|fortress]].**
 - **To [[c/_create|create]] an [[o/_out|out]] by touching a [[b/_base|base]] in [[a/_advance|advance]] of a [[r/_runner|runner]] who [[h/_has|has]] [[n/_no|no]] [[b/_base|base]] to [[r/_return|return]] to while in [[p/_possession|possession]] of a [[b/_ball|ball]] which [[h/_has|has]] [[a/_already|already]] touched the [[g/_ground|ground]].**
 	- _Example: Jones forced the runner at second by stepping on the bag._
 - **(whist) To [[c/_compel|compel]] (an [[a/_adversary|adversary]] or [[p/_partner|partner]]) to trump a trick by [[l/_leading|leading]] a suit that [[h/_he|he]]/[[s/_she|she]] [[d/_does|does]] not [[h/_hold|hold]].**
 - **To [[p/_put|put]] in [[f/_force|force]]; to [[c/_cause|cause]] to be [[e/_executed|executed]]; to [[m/_make|make]] [[b/_binding|binding]]; to [[e/_enforce|enforce]].**
-- **To [[p/_provide|provide]] with [[f/_forces|forces]]; to [[r/_reinforce|reinforce]]; to strengthen by [[s/_soldiers|soldiers]]; to [[m/_man|man]]; to [[g/_garrison|garrison]].**
+- **To [[p/_provide|provide]] with [[f/_forces|forces]]; to [[r/_reinforce|reinforce]]; to [[s/_strengthen|strengthen]] by [[s/_soldiers|soldiers]]; to [[m/_man|man]]; to [[g/_garrison|garrison]].**
 - **To [[a/_allow|allow]] the [[f/_force|force]] of; to value; to [[c/_care|care]] for.**
 ---
 #verb
-- **To stuff; to [[l/_lard|lard]]; to [[f/_farce|farce]].**
+- **To [[s/_stuff|stuff]]; to [[l/_lard|lard]]; to [[f/_farce|farce]].**
 ---
 #noun
 - **The [[a/_art|art]] of [[r/_raising|raising]] [[p/_plants|plants]] at an [[e/_earlier|earlier]] [[s/_season|season]] than is [[n/_normal|normal]], [[e/_especially|especially]] by using a [[h/_hotbed|hotbed]]**

@@ -8,6 +8,6 @@
 	- _Example: He flogged him with a scourge._
 ---
 #verb
-- **To strike with a [[s/_scourge|scourge]]; to [[f/_flog|flog]].**
+- **To [[s/_strike|strike]] with a [[s/_scourge|scourge]]; to [[f/_flog|flog]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bole
 ---
 #noun
-- **The trunk or stem of a tree.**
+- **The trunk or [[s/_stem|stem]] of a tree.**
 ---
 ---

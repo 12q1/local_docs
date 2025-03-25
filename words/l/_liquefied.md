@@ -12,6 +12,6 @@
 ### Antonyms
 - [[c/_condense|condense]], [[f/_freeze|freeze]], [[s/_solidify|solidify]]
 #adjective
-- **[[c/_converted|Converted]] [[i/_into|into]] a [[l/_liquid|liquid]] state.**
+- **[[c/_converted|Converted]] [[i/_into|into]] a [[l/_liquid|liquid]] [[s/_state|state]].**
 ---
 ---

@@ -8,7 +8,7 @@
 	- _Example: the imputation of the righteousness of Christ_
 - **[[o/_opinion|Opinion]]; [[i/_intimation|intimation]]; [[h/_hint|hint]].**
 - **The [[p/_process|process]] of [[r/_replacing|replacing]] [[m/_missing|missing]] [[d/_data|data]] with substituted values.**
-- **The statistical [[i/_inference|inference]] of unobserved [[g/_genotypes|genotypes]].**
+- **The [[s/_statistical|statistical]] [[i/_inference|inference]] of unobserved [[g/_genotypes|genotypes]].**
 - **A [[d/_distribution|distribution]] that is [[e/_efficient|efficient]] and [[i/_individually|individually]] [[r/_rational|rational]].**
 ---
 ---

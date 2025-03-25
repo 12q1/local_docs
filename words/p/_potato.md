@@ -1,8 +1,8 @@
 # Potato
 ---
 #noun
-- **The tuber of a [[p/_plant|plant]], [[s/_solanum|Solanum]] tuberosum, [[e/_eaten|eaten]] as a starchy vegetable, [[p/_particularly|particularly]] in the [[a/_americas|Americas]] and [[e/_europe|Europe]]; this [[p/_plant|plant]].**
-- **A [[c/_conspicuous|conspicuous]] [[h/_hole|hole]] in a [[s/_sock|sock]] or stocking**
+- **The tuber of a [[p/_plant|plant]], [[s/_solanum|Solanum]] tuberosum, [[e/_eaten|eaten]] as a [[s/_starchy|starchy]] vegetable, [[p/_particularly|particularly]] in the [[a/_americas|Americas]] and [[e/_europe|Europe]]; this [[p/_plant|plant]].**
+- **A [[c/_conspicuous|conspicuous]] [[h/_hole|hole]] in a [[s/_sock|sock]] or [[s/_stocking|stocking]]**
 - **A [[c/_camera|camera]] that takes [[p/_poor|poor]]-[[q/_quality|quality]] [[p/_pictures|pictures]].**
 - **A [[m/_mentally|mentally]] [[h/_handicapped|handicapped]] [[p/_person|person]].**
 - **An underpowered [[c/_computer|computer]] or [[o/_other|other]] [[d/_device|device]], [[e/_especially|especially]] when [[s/_small|small]] in [[s/_size|size]].**

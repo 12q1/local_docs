@@ -6,6 +6,6 @@
 - **To [[e/_embody|embody]].**
 - **To [[m/_murder|murder]] [[s/_someone|someone]].**
 - **(by [[e/_extension|extension]]) To utterly [[d/_defeat|defeat]] [[s/_someone|someone]].**
-- **To [[h/_hard|hard]] [[c/_counter|counter]] a [[p/_particular|particular]] [[c/_character|character]] [[b/_build|build]] or [[p/_play|play]] style. [[f/_frequently|Frequently]] used in the [[p/_passive|passive]] voice [[f/_form|form]], [[g/_get|get]] [[b/_bodied|bodied]] by.**
+- **To [[h/_hard|hard]] [[c/_counter|counter]] a [[p/_particular|particular]] [[c/_character|character]] [[b/_build|build]] or [[p/_play|play]] [[s/_style|style]]. [[f/_frequently|Frequently]] used in the [[p/_passive|passive]] voice [[f/_form|form]], [[g/_get|get]] [[b/_bodied|bodied]] by.**
 ---
 ---

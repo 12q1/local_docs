@@ -15,7 +15,7 @@
 	- _Example: the Eleusinian mysteries_
 - **A [[p/_particular|particular]] [[e/_event|event]] or [[s/_series|series]] of [[e/_events|events]] in the [[l/_life|life]] of [[c/_christ|Christ]].**
 	- _Example: The second decade of the Rosary concerns the Sorrowful mysteries, such as the crucifixion and the crowning with thorns._
-- **A [[c/_craft|craft]], [[a/_art|art]] or trade; specifically a [[g/_guild|guild]] of [[c/_craftsmen|craftsmen]].**
+- **A [[c/_craft|craft]], [[a/_art|art]] or trade; [[s/_specifically|specifically]] a [[g/_guild|guild]] of [[c/_craftsmen|craftsmen]].**
 ---
 ### Synonyms
 - [[r/_roun|roun]]

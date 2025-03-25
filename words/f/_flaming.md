@@ -8,7 +8,7 @@
 ---
 #noun
 - **An [[e/_emission|emission]] or [[a/_application|application]] of [[f/_fire|fire]]; [[a/_act|act]] of [[b/_burning|burning]] with [[f/_flames|flames]].**
-- **Sterilization by [[h/_holding|holding]] an [[o/_object|object]] in a [[h/_hot|hot]] [[f/_flame|flame]].**
+- **[[s/_sterilization|Sterilization]] by [[h/_holding|holding]] an [[o/_object|object]] in a [[h/_hot|hot]] [[f/_flame|flame]].**
 - **Vitriolic [[c/_criticism|criticism]].**
 	- _Example: You can expect a flaming if you post irrelevant spam to a newsgroup._
 ---

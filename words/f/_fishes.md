@@ -19,7 +19,7 @@
 ### Synonyms
 - [[d/_donk|donk]], [[d/_donkey|donkey]], [[m/_mark|mark]]
 #noun
-- **A [[p/_period|period]] of time spent [[f/_fishing|fishing]].**
+- **A [[p/_period|period]] of time [[s/_spent|spent]] [[f/_fishing|fishing]].**
 	- _Example: The fish at the lake didn't prove successful._
 - **An [[i/_instance|instance]] of [[s/_seeking|seeking]] [[s/_something|something]].**
 	- _Example: Merely two fishes for information told the whole story._
@@ -34,7 +34,7 @@
 	- _Example: He was fishing for the keys in his pocket._
 - **([[f/_followed|followed]] by "for" or "[[a/_around|around]] for") To talk to [[p/_people|people]] in an [[a/_attempt|attempt]] to [[g/_get|get]] them to [[s/_say|say]] [[s/_something|something]], or [[s/_seek|seek]] to [[o/_obtain|obtain]] [[s/_something|something]] by [[a/_artifice|artifice]].**
 	- _Example: The actors loitered at the door, fishing for compliments._
-- **Of a [[b/_batsman|batsman]], to [[a/_attempt|attempt]] to [[h/_hit|hit]] a [[b/_ball|ball]] [[o/_outside|outside]] [[o/_off|off]] stump and [[m/_miss|miss]] it.**
+- **Of a [[b/_batsman|batsman]], to [[a/_attempt|attempt]] to [[h/_hit|hit]] a [[b/_ball|ball]] [[o/_outside|outside]] [[o/_off|off]] [[s/_stump|stump]] and [[m/_miss|miss]] it.**
 - **To [[r/_repair|repair]] (a [[s/_spar|spar]] or [[m/_mast|mast]]) by [[f/_fastening|fastening]] a [[b/_beam|beam]] or [[o/_other|other]] [[l/_long|long]] [[o/_object|object]] ([[o/_often|often]] [[c/_called|called]] a [[f/_fish|fish]]) [[o/_over|over]] the [[d/_damaged|damaged]] [[p/_part|part]] ([[s/_see|see]] [[n/_noun|Noun]] [[a/_above|above]]).**
 - **To [[h/_hoist|hoist]] the [[f/_flukes|flukes]] of.**
 ---

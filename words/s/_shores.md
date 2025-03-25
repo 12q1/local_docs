@@ -10,7 +10,7 @@
 - **To [[s/_set|set]] on [[s/_shore|shore]].**
 ---
 #noun
-- **A [[p/_prop|prop]] or strut supporting the weight or [[f/_flooring|flooring]] [[a/_above|above]] it.**
+- **A [[p/_prop|prop]] or [[s/_strut|strut]] supporting the weight or [[f/_flooring|flooring]] [[a/_above|above]] it.**
 	- _Example: The shores stayed upright during the earthquake._
 ---
 #verb

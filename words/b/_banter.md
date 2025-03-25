@@ -1,7 +1,7 @@
 # Banter
 ---
 #noun
-- **[[s/_sharp|Sharp]], [[g/_good|good]]-[[h/_humoured|humoured]], [[p/_playful|playful]], typically spontaneous [[c/_conversation|conversation]].**
+- **[[s/_sharp|Sharp]], [[g/_good|good]]-[[h/_humoured|humoured]], [[p/_playful|playful]], typically [[s/_spontaneous|spontaneous]] [[c/_conversation|conversation]].**
 ---
 ### Synonyms
 - [[p/_pleasantry|pleasantry]], [[r/_raillery|raillery]]

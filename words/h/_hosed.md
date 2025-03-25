@@ -1,7 +1,7 @@
 # Hosed
 ---
 #verb
-- **To water or spray with a [[h/_hose|hose]].**
+- **To water or [[s/_spray|spray]] with a [[h/_hose|hose]].**
 - **To [[d/_deliver|deliver]] using a [[h/_hose|hose]].**
 - **To [[p/_provide|provide]] with [[h/_hose|hose]] ([[g/_garment|garment]])**
 - **To [[a/_attack|attack]] and [[k/_kill|kill]] [[s/_somebody|somebody]], usually using a [[f/_firearm|firearm]].**

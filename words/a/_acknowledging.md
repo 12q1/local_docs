@@ -19,6 +19,6 @@
 - [[a/_acknowledgement|acknowledgement]], [[k/_knowledge|knowledge]]
 #adjective
 - **That [[a/_acknowledges|acknowledges]], in various [[s/_sense|sense]]; ([[e/_especially|especially]]) that [[n/_notices|notices]] or recognises [[s/_someone|someone]] or [[s/_something|something]].**
-- **(specifically) [[e/_expressing|Expressing]] [[e/_esteem|esteem]] or [[g/_gratitude|gratitude]].**
+- **([[s/_specifically|specifically]]) [[e/_expressing|Expressing]] [[e/_esteem|esteem]] or [[g/_gratitude|gratitude]].**
 ---
 ---

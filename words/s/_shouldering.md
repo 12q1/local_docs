@@ -14,7 +14,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[p/_pushing|pushing]] or [[b/_barging|barging]] with the [[s/_shoulder|shoulder]].**
-- **The [[p/_process|process]] of [[b/_bracing|bracing]] a [[l/_load|load]] with a [[j/_jutting|jutting]] structural [[m/_member|member]] such as a [[c/_corbel|corbel]] or [[b/_bracket|bracket]].**
+- **The [[p/_process|process]] of [[b/_bracing|bracing]] a [[l/_load|load]] with a [[j/_jutting|jutting]] [[s/_structural|structural]] [[m/_member|member]] such as a [[c/_corbel|corbel]] or [[b/_bracket|bracket]].**
 - **A [[f/_flanged|flanged]] [[p/_portion|portion]] of [[s/_something|something]], [[s/_similar|similar]] to a [[l/_lip|lip]] but [[o/_occurring|occurring]] on the [[s/_side|side]] [[r/_rather|rather]] than the [[r/_rim|rim]].**
 - **The [[r/_rounding|rounding]] and [[r/_raising|raising]] of the top [[e/_edges|edges]] of [[s/_slate|slate]] tiles.**
 ---

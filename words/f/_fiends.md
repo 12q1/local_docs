@@ -1,11 +1,11 @@
 # Fiends
 ---
 #noun
-- **A [[d/_devil|devil]] or [[d/_demon|demon]]; a [[m/_malignant|malignant]] or [[d/_diabolical|diabolical]] [[b/_being|being]]; an [[e/_evil|evil]] spirit.**
+- **A [[d/_devil|devil]] or [[d/_demon|demon]]; a [[m/_malignant|malignant]] or [[d/_diabolical|diabolical]] [[b/_being|being]]; an [[e/_evil|evil]] [[s/_spirit|spirit]].**
 - **A very [[e/_evil|evil]] [[p/_person|person]].**
 - **An [[e/_enemy|enemy]]; a [[f/_foe|foe]].**
 	- _Example: Religion teaches us to love everybody, be one fiend or friend._
-- **The [[e/_enemy|enemy]] of [[m/_mankind|mankind]], specifically, the [[d/_devil|Devil]]; [[s/_satan|Satan]].**
+- **The [[e/_enemy|enemy]] of [[m/_mankind|mankind]], [[s/_specifically|specifically]], the [[d/_devil|Devil]]; [[s/_satan|Satan]].**
 - **An [[a/_addict|addict]] or [[f/_fanatic|fanatic]].**
 	- _Example: He's been a jazz fiend since his teenage years._
 ---

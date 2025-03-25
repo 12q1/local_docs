@@ -8,7 +8,7 @@
 	- _Example: to fetch headway or sternway_
 - **To [[b/_bring|bring]] [[o/_oneself|oneself]]; to [[m/_make|make]] [[h/_headway|headway]]; to veer; as, to [[f/_fetch|fetch]] [[a/_about|about]]; to [[f/_fetch|fetch]] to windward.**
 - **To take (a [[b/_breath|breath]]), to [[h/_heave|heave]] (a [[s/_sigh|sigh]])**
-- **To [[c/_cause|cause]] to [[c/_come|come]]; to [[b/_bring|bring]] to a [[p/_particular|particular]] state.**
+- **To [[c/_cause|cause]] to [[c/_come|come]]; to [[b/_bring|bring]] to a [[p/_particular|particular]] [[s/_state|state]].**
 - **To [[r/_recall|recall]] from a swoon; to [[r/_revive|revive]]; [[s/_sometimes|sometimes]] with to.**
 	- _Example: to fetch a man to_
 - **To [[r/_reduce|reduce]]; to throw.**

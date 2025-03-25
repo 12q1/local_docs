@@ -16,6 +16,6 @@
 - **A [[m/_messenger|messenger]]; a [[h/_herald|herald]].**
 ---
 #noun
-- **A stop; a [[h/_halting|halting]]; [[d/_delay|delay]].**
+- **A [[s/_stop|stop]]; a [[h/_halting|halting]]; [[d/_delay|delay]].**
 ---
 ---

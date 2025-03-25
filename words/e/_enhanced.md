@@ -11,7 +11,7 @@
 ### Synonyms
 - [[h/_heighten|heighten]]
 #adjective
-- **In a version or [[f/_form|form]] that [[h/_has|has]] [[b/_been|been]] [[i/_improved|improved]] or [[m/_made|made]] [[b/_better|better]] than [[s/_some|some]] [[o/_other|other]] standard [[f/_form|form]].**
+- **In a version or [[f/_form|form]] that [[h/_has|has]] [[b/_been|been]] [[i/_improved|improved]] or [[m/_made|made]] [[b/_better|better]] than [[s/_some|some]] [[o/_other|other]] [[s/_standard|standard]] [[f/_form|form]].**
 - **[[r/_raised|Raised]] up, [[a/_amplified|amplified]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Southwesterlies
 ---
 #noun
-- **A strong wind or storm from the [[s/_southwest|southwest]].**
+- **A [[s/_strong|strong]] wind or [[s/_storm|storm]] from the [[s/_southwest|southwest]].**
 ---
 ---

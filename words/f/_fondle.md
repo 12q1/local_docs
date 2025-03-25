@@ -1,7 +1,7 @@
 # Fondle
 ---
 #verb
-- **To touch or stroke [[l/_lovingly|lovingly]].**
+- **To touch or [[s/_stroke|stroke]] [[l/_lovingly|lovingly]].**
 	- _Example: Mothers fondle their babies._
 - **To [[g/_grasp|grasp]].**
 	- _Example: The lovers fondled each other._

@@ -12,8 +12,8 @@
 - **An [[o/_object|object]] or [[c/_callback|callback]] that [[c/_captures|captures]] [[e/_events|events]]; [[e/_event|event]] [[s/_sink|sink]]**
 - **A [[d/_destination|destination]] vertex in a transportation [[n/_network|network]]**
 - **An [[a/_abode|abode]] of [[d/_degraded|degraded]] [[p/_persons|persons]]; a wretched [[p/_place|place]].**
-- **A [[d/_depression|depression]] in a stereotype [[p/_plate|plate]].**
-- **A stage trap-[[d/_door|door]] for [[s/_shifting|shifting]] [[s/_scenery|scenery]].**
+- **A [[d/_depression|depression]] in a [[s/_stereotype|stereotype]] [[p/_plate|plate]].**
+- **A [[s/_stage|stage]] trap-[[d/_door|door]] for [[s/_shifting|shifting]] [[s/_scenery|scenery]].**
 - **An [[e/_excavation|excavation]] [[l/_less|less]] than a [[s/_shaft|shaft]].**
 - **([[g/_game|game]] [[d/_development|development]]) [[o/_one|One]] or [[s/_several|several]] [[s/_systems|systems]] that [[r/_remove|remove]] [[c/_currency|currency]] from the [[g/_game|game]]'[[s/_s|s]] [[e/_economy|economy]], thus [[c/_controlling|controlling]] or [[p/_preventing|preventing]] [[i/_inflation|inflation]]**
 ---
@@ -30,7 +30,7 @@
 	- _Example: I have sunk thousands of pounds into this project._
 - **To [[r/_reduce|reduce]] or [[e/_extinguish|extinguish]] by [[p/_payment|payment]].**
 	- _Example: to sink the national debt_
-- **To be [[o/_overwhelmed|overwhelmed]] or [[d/_depressed|depressed]]; to [[f/_fail|fail]] in strength.**
+- **To be [[o/_overwhelmed|overwhelmed]] or [[d/_depressed|depressed]]; to [[f/_fail|fail]] in [[s/_strength|strength]].**
 - **To [[d/_decrease|decrease]] in volume, as a [[r/_river|river]]; to subside; to [[b/_become|become]] [[d/_diminished|diminished]] in volume or in [[a/_apparent|apparent]] [[h/_height|height]].**
 ---
 ### Synonyms

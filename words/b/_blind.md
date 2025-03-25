@@ -23,7 +23,7 @@
 	- _Example: Don't wave that pencil in my face - do you want to blind me?_
 - **To [[c/_curse|curse]].**
 - **To [[d/_darken|darken]]; to [[o/_obscure|obscure]] to the [[e/_eye|eye]] or understanding; to [[c/_conceal|conceal]].**
-- **To [[c/_cover|cover]] with a thin [[c/_coating|coating]] of [[s/_sand|sand]] and [[f/_fine|fine]] [[g/_gravel|gravel]], for [[e/_example|example]] a [[r/_road|road]] [[n/_newly|newly]] [[p/_paved|paved]], in [[o/_order|order]] that the [[j/_joints|joints]] [[b/_between|between]] the stones [[m/_may|may]] be [[f/_filled|filled]].**
+- **To [[c/_cover|cover]] with a thin [[c/_coating|coating]] of [[s/_sand|sand]] and [[f/_fine|fine]] [[g/_gravel|gravel]], for [[e/_example|example]] a [[r/_road|road]] [[n/_newly|newly]] [[p/_paved|paved]], in [[o/_order|order]] that the [[j/_joints|joints]] [[b/_between|between]] the [[s/_stones|stones]] [[m/_may|may]] be [[f/_filled|filled]].**
 ---
 #adjective
 - **(of a [[p/_person|person]] or [[a/_animal|animal]]) Unable to [[s/_see|see]], [[d/_due|due]] to [[p/_physiological|physiological]] or [[n/_neurological|neurological]] [[f/_factors|factors]].**

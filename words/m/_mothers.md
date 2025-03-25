@@ -33,7 +33,7 @@
 - **To treat as a [[m/_mother|mother]] would be [[e/_expected|expected]] to treat [[h/_her|her]] [[c/_child|child]]; to [[n/_nurture|nurture]].**
 ---
 #noun
-- **A stringy, [[m/_mucilaginous|mucilaginous]] or [[f/_film|film]]- or [[m/_membrane|membrane]]-[[l/_like|like]] substance ([[c/_consisting|consisting]] of acetobacters) which [[d/_develops|develops]] in [[f/_fermenting|fermenting]] [[a/_alcoholic|alcoholic]] [[l/_liquids|liquids]] (such as wine, or [[c/_cider|cider]]), and turns the [[a/_alcohol|alcohol]] [[i/_into|into]] [[a/_acetic|acetic]] [[a/_acid|acid]] with the [[h/_help|help]] of [[o/_oxygen|oxygen]] from the [[a/_air|air]].**
+- **A [[s/_stringy|stringy]], [[m/_mucilaginous|mucilaginous]] or [[f/_film|film]]- or [[m/_membrane|membrane]]-[[l/_like|like]] substance ([[c/_consisting|consisting]] of acetobacters) which [[d/_develops|develops]] in [[f/_fermenting|fermenting]] [[a/_alcoholic|alcoholic]] [[l/_liquids|liquids]] (such as wine, or [[c/_cider|cider]]), and turns the [[a/_alcohol|alcohol]] [[i/_into|into]] [[a/_acetic|acetic]] [[a/_acid|acid]] with the [[h/_help|help]] of [[o/_oxygen|oxygen]] from the [[a/_air|air]].**
 	- _Example: pieces of mother, adding mother to vinegar_
 ---
 #verb
@@ -43,7 +43,7 @@
 ---
 #noun
 - **[[m/_motherfucker|Motherfucker]].**
-- **A striking [[e/_example|example]].**
+- **A [[s/_striking|striking]] [[e/_example|example]].**
 ---
 ### Synonyms
 - [[M/_MF|MF]], [[m/_mofo|mofo]], [[m/_motherfucker|motherfucker]], [[m/_mutha|mutha]]

@@ -1,7 +1,7 @@
 # Activities
 ---
 #noun
-- **The state or [[q/_quality|quality]] of [[b/_being|being]] [[a/_active|active]]; [[a/_activeness|activeness]].**
+- **The [[s/_state|state]] or [[q/_quality|quality]] of [[b/_being|being]] [[a/_active|active]]; [[a/_activeness|activeness]].**
 	- _Example: Pit row was abuzz with activity._
 - **[[s/_something|Something]] [[d/_done|done]] as an [[a/_action|action]] or a [[m/_movement|movement]].**
 	- _Example: The activity for the morning was a walk to the store._

@@ -6,7 +6,7 @@
 - **(of [[c/_colour|colour]]) [[d/_dull|Dull]] or [[d/_deeper|deeper]] in [[h/_hue|hue]]; not [[b/_bright|bright]] or [[l/_light|light]].**
 	- _Example: my sister's hair is darker than mine;  her skin grew dark with a suntan_
 - **[[h/_hidden|Hidden]], [[s/_secret|secret]], [[o/_obscure|obscure]].**
-- **Without [[m/_moral|moral]] or spiritual [[l/_light|light]]; [[s/_sinister|sinister]], [[m/_malign|malign]].**
+- **Without [[m/_moral|moral]] or [[s/_spiritual|spiritual]] [[l/_light|light]]; [[s/_sinister|sinister]], [[m/_malign|malign]].**
 	- _Example: a dark villain;  a dark deed_
 - **[[c/_conducive|Conducive]] to [[h/_hopelessness|hopelessness]]; [[d/_depressing|depressing]] or [[b/_bleak|bleak]].**
 	- _Example: the Great Depression was a dark time;  the film was a dark psychological thriller_

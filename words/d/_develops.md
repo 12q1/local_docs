@@ -1,9 +1,9 @@
 # Develops
 ---
 #verb
-- **To [[c/_change|change]] with a specific [[d/_direction|direction]], [[p/_progress|progress]].**
+- **To [[c/_change|change]] with a [[s/_specific|specific]] [[d/_direction|direction]], [[p/_progress|progress]].**
 	- _Example: Let's see how things develop and then make our decision._
-- **To [[p/_progress|progress]] through a [[s/_sequence|sequence]] of stages.**
+- **To [[p/_progress|progress]] through a [[s/_sequence|sequence]] of [[s/_stages|stages]].**
 	- _Example: Isabel developed from a tropical depression to a tropical storm to a hurricane.   An embryo develops into a fetus and then into an infant._
 - **To [[a/_advance|advance]]; to [[f/_further|further]]; to [[p/_promote|promote]] the [[g/_growth|growth]] of.**
 - **To [[c/_create|create]].**

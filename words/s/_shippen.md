@@ -1,6 +1,6 @@
 # Shippen
 ---
 #noun
-- **A stable; a [[c/_cowhouse|cowhouse]].**
+- **A [[s/_stable|stable]]; a [[c/_cowhouse|cowhouse]].**
 ---
 ---

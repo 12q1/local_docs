@@ -1,7 +1,7 @@
 # Disdained
 ---
 #verb
-- **To [[r/_regard|regard]] ([[s/_someone|someone]] or [[s/_something|something]]) with strong [[c/_contempt|contempt]].**
+- **To [[r/_regard|regard]] ([[s/_someone|someone]] or [[s/_something|something]]) with [[s/_strong|strong]] [[c/_contempt|contempt]].**
 - **To be [[i/_indignant|indignant]] or [[o/_offended|offended]].**
 ---
 ### Synonyms

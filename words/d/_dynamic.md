@@ -23,7 +23,7 @@
 - **[[h/_happening|Happening]] at [[r/_runtime|runtime]] [[i/_instead|instead]] of [[b/_being|being]] [[p/_predetermined|predetermined]] at [[c/_compile|compile]] time.**
 	- _Example: dynamic IP addresses_
 - **[[p/_pertaining|Pertaining]] to [[d/_dynamics|dynamics]], the [[b/_branch|branch]] of [[m/_mechanics|mechanics]] [[c/_concerned|concerned]] with the [[e/_effects|effects]] of [[f/_forces|forces]] on the [[m/_motion|motion]] of [[o/_objects|objects]].**
-- **([[g/_grammar|grammar]]) Of a verb: not stative, but fientive; [[i/_indicating|indicating]] [[c/_continued|continued]] or [[p/_progressive|progressive]] [[a/_action|action]] on the [[p/_part|part]] of the subject.**
+- **([[g/_grammar|grammar]]) Of a verb: not [[s/_stative|stative]], but fientive; [[i/_indicating|indicating]] [[c/_continued|continued]] or [[p/_progressive|progressive]] [[a/_action|action]] on the [[p/_part|part]] of the subject.**
 ---
 ### Synonyms
 - [[a/_active|active]], [[f/_fluid|fluid]], [[m/_moving|moving]], [[e/_energetic|energetic]], [[p/_powerful|powerful]]

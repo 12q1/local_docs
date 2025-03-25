@@ -1,7 +1,7 @@
 # Faculty
 ---
 #noun
-- **The [[a/_academic|academic]] staff at [[s/_schools|schools]], [[c/_colleges|colleges]], universities or not-for-[[p/_profit|profit]] [[r/_research|research]] [[i/_institutes|institutes]], as [[o/_opposed|opposed]] to the students or support staff.**
+- **The [[a/_academic|academic]] [[s/_staff|staff]] at [[s/_schools|schools]], [[c/_colleges|colleges]], universities or not-for-[[p/_profit|profit]] [[r/_research|research]] [[i/_institutes|institutes]], as [[o/_opposed|opposed]] to the [[s/_students|students]] or support [[s/_staff|staff]].**
 - **A [[d/_division|division]] of a university.**
 	- _Example: She transferred from the Faculty of Science to the Faculty of Medicine._
 - **An [[a/_ability|ability]], [[s/_skill|skill]], or [[p/_power|power]], [[o/_often|often]] [[p/_plural|plural]].**

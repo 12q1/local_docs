@@ -15,7 +15,7 @@
 	- _Example: earnest attention._
 - **([[s/_said|said]] of a [[p/_person|person]] or a [[p/_person|person]]'[[s/_s|s]] [[c/_character|character]]) [[p/_possessing|Possessing]] or [[c/_characterised|characterised]] by [[s/_seriousness|seriousness]].**
 	- _Example: an earnest disposition_
-- **Strenuous; [[d/_diligent|diligent]].**
+- **[[s/_strenuous|Strenuous]]; [[d/_diligent|diligent]].**
 	- _Example: earnest efforts_
 - **[[s/_serious|Serious]]; weighty; of a [[s/_serious|serious]], weighty, or [[i/_important|important]] [[n/_nature|nature]]; [[i/_important|important]].**
 ---

@@ -8,7 +8,7 @@
 - **A [[b/_boaster|boaster]]; a [[b/_bully|bully]].**
 - **A [[b/_bold|bold]] [[l/_lie|lie]].**
 - **A [[l/_liar|liar]].**
-- **[[s/_something|Something]] [[b/_big|big]]; a [[g/_good|good]] stout [[e/_example|example]] of the [[k/_kind|kind]].**
+- **[[s/_something|Something]] [[b/_big|big]]; a [[g/_good|good]] [[s/_stout|stout]] [[e/_example|example]] of the [[k/_kind|kind]].**
 - **A [[b/_bouncy|bouncy]] [[c/_castle|castle]].**
 - **A [[k/_kind|kind]] of [[s/_seat|seat]] [[m/_mounted|mounted]] in a [[f/_framework|framework]] in which a [[b/_baby|baby]] [[c/_can|can]] [[b/_bounce|bounce]] up and [[d/_down|down]].**
 ---

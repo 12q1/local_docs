@@ -1,7 +1,7 @@
 # Shredded
 ---
 #verb
-- **To [[c/_cut|cut]] or tear [[i/_into|into]] [[n/_narrow|narrow]] and [[l/_long|long]] [[p/_pieces|pieces]] or strips.**
+- **To [[c/_cut|cut]] or tear [[i/_into|into]] [[n/_narrow|narrow]] and [[l/_long|long]] [[p/_pieces|pieces]] or [[s/_strips|strips]].**
 - **To [[r/_reduce|reduce]] by a [[l/_large|large]] [[p/_percentage|percentage]].**
 - **To [[l/_lop|lop]]; to [[p/_prune|prune]]; to trim.**
 - **To [[r/_ride|ride]] [[a/_aggressively|aggressively]].**

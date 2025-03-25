@@ -34,6 +34,6 @@
 - **[[a/_adfected|Adfected]].**
 	- _Example: an affected equation_
 - **[[r/_resulting|Resulting]] from a [[m/_mostly|mostly]] [[n/_negative|negative]] [[p/_physical|physical]] [[e/_effect|effect]] or transformation.**
-- **[[a/_artificial|Artificial]], stilted**
+- **[[a/_artificial|Artificial]], [[s/_stilted|stilted]]**
 ---
 ---

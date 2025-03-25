@@ -7,6 +7,6 @@
 ### Synonyms
 - [[e/_entwine|entwine]], [[i/_interconnect|interconnect]], [[i/_interlink|interlink]], [[i/_interweave|interweave]]
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[c/_complexion|complexion]]; [[c/_complexioned|complexioned]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specified|specified]] [[c/_complexion|complexion]]; [[c/_complexioned|complexioned]].**
 ---
 ---

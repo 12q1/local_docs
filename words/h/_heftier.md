@@ -1,11 +1,11 @@
 # Heftier
 ---
 #adjective
-- **[[h/_heavy|Heavy]], strong, vigorous, [[m/_mighty|mighty]], [[i/_impressive|impressive]].**
+- **[[h/_heavy|Heavy]], [[s/_strong|strong]], vigorous, [[m/_mighty|mighty]], [[i/_impressive|impressive]].**
 	- _Example: He can throw a hefty punch._
-- **Strong; [[b/_bulky|bulky]].**
+- **[[s/_strong|Strong]]; [[b/_bulky|bulky]].**
 	- _Example: They use some hefty bolts to hold up road signs._
-- **(of a [[p/_person|person]]) [[p/_possessing|Possessing]] [[p/_physical|physical]] strength and weight; [[r/_rugged|rugged]] and [[p/_powerful|powerful]]; [[p/_powerfully|powerfully]] or [[h/_heavily|heavily]] [[b/_built|built]].**
+- **(of a [[p/_person|person]]) [[p/_possessing|Possessing]] [[p/_physical|physical]] [[s/_strength|strength]] and weight; [[r/_rugged|rugged]] and [[p/_powerful|powerful]]; [[p/_powerfully|powerfully]] or [[h/_heavily|heavily]] [[b/_built|built]].**
 	- _Example: He was a tall, hefty man._
 - **[[h/_heavy|Heavy]], weighing a [[l/_lot|lot]].**
 	- _Example: She carries a hefty backpack full of books._

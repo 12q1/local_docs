@@ -5,7 +5,7 @@
 ---
 #verb
 - **To [[h/_hit|hit]]**
-- **To stab**
+- **To [[s/_stab|stab]]**
 ---
 #verb
 - **To [[d/_deceive|deceive]] or [[o/_outmaneuver|outmaneuver]] [[s/_someone|someone]] using a [[f/_feint|feint]], [[e/_especially|especially]] in [[a/_american|American]] [[f/_football|football]] or [[s/_soccer|soccer]]**

@@ -5,7 +5,7 @@
 - **The [[a/_act|act]] of [[s/_shearing|shearing]], or [[s/_something|something]] [[r/_removed|removed]] by [[s/_shearing|shearing]].**
 - **[[f/_forces|Forces]] that [[p/_push|push]] in [[o/_opposite|opposite]] [[d/_directions|directions]].**
 - **A transformation that [[d/_displaces|displaces]] [[e/_every|every]] [[p/_point|point]] in a [[d/_direction|direction]] [[p/_parallel|parallel]] to [[s/_some|some]] [[g/_given|given]] [[l/_line|line]] by a [[d/_distance|distance]] [[p/_proportional|proportional]] to the [[p/_point|point]]’[[s/_s|s]] [[d/_distance|distance]] from the [[l/_line|line]].**
-- **The [[r/_response|response]] of a [[r/_rock|rock]] to [[d/_deformation|deformation]] usually by [[c/_compressive|compressive]] stress, [[r/_resulting|resulting]] in [[p/_particular|particular]] textures.**
+- **The [[r/_response|response]] of a [[r/_rock|rock]] to [[d/_deformation|deformation]] usually by [[c/_compressive|compressive]] [[s/_stress|stress]], [[r/_resulting|resulting]] in [[p/_particular|particular]] textures.**
 ---
 ### Synonyms
 - [[s/_shears|shears]]

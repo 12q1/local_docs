@@ -1,7 +1,7 @@
 # Sheaf
 ---
 #noun
-- **A [[q/_quantity|quantity]] of the stalks and [[e/_ears|ears]] of wheat, [[r/_rye|rye]], or [[o/_other|other]] [[g/_grain|grain]], [[b/_bound|bound]] together; a [[b/_bundle|bundle]] of [[g/_grain|grain]] or straw.**
+- **A [[q/_quantity|quantity]] of the [[s/_stalks|stalks]] and [[e/_ears|ears]] of wheat, [[r/_rye|rye]], or [[o/_other|other]] [[g/_grain|grain]], [[b/_bound|bound]] together; a [[b/_bundle|bundle]] of [[g/_grain|grain]] or [[s/_straw|straw]].**
 - **[[a/_any|Any]] [[c/_collection|collection]] of things [[b/_bound|bound]] together; a [[b/_bundle|bundle]].**
 	- _Example: a sheaf of paper_
 - **A [[b/_bundle|bundle]] of [[a/_arrows|arrows]] sufficient to [[f/_fill|fill]] a [[q/_quiver|quiver]], or the [[a/_allowance|allowance]] of [[e/_each|each]] [[a/_archer|archer]].**

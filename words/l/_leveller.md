@@ -12,8 +12,8 @@
 - **[[c/_calm|Calm]].**
 	- _Example: He kept a level gaze._
 - **In the [[s/_same|same]] [[p/_position|position]] or [[r/_rank|rank]].**
-- **Straightforward; [[d/_direct|direct]]; [[c/_clear|clear]].**
-- **Well [[b/_balanced|balanced]]; [[e/_even|even]]; [[j/_just|just]]; steady; [[i/_impartial|impartial]].**
+- **[[s/_straightforward|Straightforward]]; [[d/_direct|direct]]; [[c/_clear|clear]].**
+- **Well [[b/_balanced|balanced]]; [[e/_even|even]]; [[j/_just|just]]; [[s/_steady|steady]]; [[i/_impartial|impartial]].**
 	- _Example: a level head; a level understanding_
 - **Of [[e/_even|even]] tone; without [[r/_rising|rising]] or [[f/_falling|falling]] [[i/_inflection|inflection]]; [[m/_monotonic|monotonic]].**
 - **[[p/_perpendicular|Perpendicular]] to a [[g/_gravitational|gravitational]] [[f/_force|force]].**

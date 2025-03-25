@@ -5,7 +5,7 @@
 	- _Example: Through prayer I ask for God's blessings._
 - **The [[a/_act|act]] of [[p/_praying|praying]].**
 	- _Example: In many cultures, prayer involves singing._
-- **The specific words or [[m/_methods|methods]] used for [[p/_praying|praying]].**
+- **The [[s/_specific|specific]] words or [[m/_methods|methods]] used for [[p/_praying|praying]].**
 	- _Example: Christians recite the Lord's Prayer._
 - **A [[m/_meeting|meeting]] [[h/_held|held]] for the [[e/_express|express]] [[p/_purpose|purpose]] of [[p/_praying|praying]].**
 	- _Example: Grandpa never misses a chance to go to prayer._

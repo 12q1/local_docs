@@ -5,6 +5,6 @@
 - **[[a/_anthracite|Anthracite]], [[e/_especially|especially]] when [[f/_found|found]] in [[s/_small|small]] [[m/_masses|masses]]**
 ---
 #noun
-- **The stem of a [[p/_plant|plant]], [[e/_especially|especially]] of [[g/_grass|grass]] or [[s/_sedge|sedge]]**
+- **The [[s/_stem|stem]] of a [[p/_plant|plant]], [[e/_especially|especially]] of [[g/_grass|grass]] or [[s/_sedge|sedge]]**
 ---
 ---

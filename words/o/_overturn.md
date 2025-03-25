@@ -2,7 +2,7 @@
 ---
 #noun
 - **A turning [[o/_over|over]] or upside-[[d/_down|down]]; [[i/_inversion|inversion]].**
-- **The [[o/_overturning|overturning]] or [[o/_overthrow|overthrow]] of [[s/_some|some]] [[i/_institution|institution]] or state of [[a/_affairs|affairs]]; [[r/_ruin|ruin]].**
+- **The [[o/_overturning|overturning]] or [[o/_overthrow|overthrow]] of [[s/_some|some]] [[i/_institution|institution]] or [[s/_state|state]] of [[a/_affairs|affairs]]; [[r/_ruin|ruin]].**
 ---
 #verb
 - **To turn [[o/_over|over]], [[c/_capsize|capsize]] or upset.**

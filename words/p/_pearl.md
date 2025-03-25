@@ -5,11 +5,11 @@
 - **[[s/_something|Something]] [[p/_precious|precious]].**
 - **A [[c/_capsule|capsule]] of [[g/_gelatin|gelatin]] or [[s/_similar|similar]] substance [[c/_containing|containing]] [[l/_liquid|liquid]] for [[e/_e|e]].[[g/_g|g]]. [[m/_medicinal|medicinal]] [[a/_application|application]].**
 - **[[n/_nacre|Nacre]], or [[m/_mother|mother]]-of-[[p/_pearl|pearl]].**
-- **A whitish speck or [[f/_film|film]] on the [[e/_eye|eye]].**
+- **A whitish [[s/_speck|speck]] or [[f/_film|film]] on the [[e/_eye|eye]].**
 - **A [[f/_fish|fish]] [[a/_allied|allied]] to the turbot; the [[b/_brill|brill]].**
 - **A [[l/_light|light]]-[[c/_colored|colored]] tern.**
 - **[[o/_one|One]] of the [[c/_circle|circle]] of tubercles which [[f/_form|form]] the [[b/_bur|bur]] on a [[d/_deer|deer]]'[[s/_s|s]] [[a/_antler|antler]].**
-- **The [[s/_size|size]] of type [[b/_between|between]] [[d/_diamond|diamond]] and [[a/_agate|agate]], standardized as 5-[[p/_point|point]].**
+- **The [[s/_size|size]] of type [[b/_between|between]] [[d/_diamond|diamond]] and [[a/_agate|agate]], [[s/_standardized|standardized]] as 5-[[p/_point|point]].**
 - **A [[f/_fringe|fringe]] or [[b/_border|border]].**
 - **A [[j/_jewel|jewel]] or [[g/_gem|gem]].**
 - **The [[c/_clitoris|clitoris]].**

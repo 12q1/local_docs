@@ -15,7 +15,7 @@
 	- _Example: I sat by my sister's bed, peeling oranges for her._
 - **To [[r/_remove|remove]] [[s/_something|something]] from the [[o/_outer|outer]] or top [[l/_layer|layer]] of.**
 	- _Example: I peeled (the skin from) a banana and ate it hungrily._
-- **To [[b/_become|become]] [[d/_detached|detached]], [[c/_come|come]] [[a/_away|away]], [[e/_especially|especially]] in [[f/_flakes|flakes]] or strips; to [[s/_shed|shed]] [[s/_skin|skin]] in such a way.**
+- **To [[b/_become|become]] [[d/_detached|detached]], [[c/_come|come]] [[a/_away|away]], [[e/_especially|especially]] in [[f/_flakes|flakes]] or [[s/_strips|strips]]; to [[s/_shed|shed]] [[s/_skin|skin]] in such a way.**
 	- _Example: I had been out in the sun too long, and my nose was starting to peel._
 - **To [[r/_remove|remove]] [[o/_one|one]]'[[s/_s|s]] [[c/_clothing|clothing]].**
 	- _Example: The children peeled by the side of the lake and jumped in._
@@ -25,8 +25,8 @@
 ### Synonyms
 - [[d/_disrobe|disrobe]], [[s/_strip|strip]], [[s/_skin|skin]], [[s/_strip|strip]]
 #noun
-- **A stake.**
-- **A [[f/_fence|fence]] [[m/_made|made]] of stakes; a stockade.**
+- **A [[s/_stake|stake]].**
+- **A [[f/_fence|fence]] [[m/_made|made]] of [[s/_stakes|stakes]]; a [[s/_stockade|stockade]].**
 - **A [[s/_small|small]] tower, [[f/_fort|fort]], or [[c/_castle|castle]]; a [[k/_keep|keep]].**
 ---
 #noun
@@ -36,7 +36,7 @@
 ---
 #noun
 - **An [[e/_equal|equal]] or [[m/_match|match]]; a [[d/_draw|draw]].**
-- **A takeout which [[r/_removes|removes]] a stone from [[p/_play|play]] as well as the [[d/_delivered|delivered]] stone.**
+- **A takeout which [[r/_removes|removes]] a [[s/_stone|stone]] from [[p/_play|play]] as well as the [[d/_delivered|delivered]] [[s/_stone|stone]].**
 ---
 #verb
 - **To [[p/_play|play]] a [[p/_peel|peel]] [[s/_shot|shot]].**

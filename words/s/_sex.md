@@ -1,7 +1,7 @@
 # Sex
 ---
 #noun
-- **A [[c/_category|category]] [[i/_into|into]] which [[s/_sexually|sexually]]-[[r/_reproducing|reproducing]] [[o/_organisms|organisms]] are [[d/_divided|divided]] on the [[b/_basis|basis]] of their [[r/_reproductive|reproductive]] [[r/_roles|roles]] in their species.**
+- **A [[c/_category|category]] [[i/_into|into]] which [[s/_sexually|sexually]]-[[r/_reproducing|reproducing]] [[o/_organisms|organisms]] are [[d/_divided|divided]] on the [[b/_basis|basis]] of their [[r/_reproductive|reproductive]] [[r/_roles|roles]] in their [[s/_species|species]].**
 	- _Example: The effect of the medication is dependent upon age, sex, and other factors._
 - **[[a/_another|Another]] [[c/_category|category]], [[e/_especially|especially]] of [[h/_humans|humans]] and [[e/_especially|especially]] [[b/_based|based]] on [[s/_sexuality|sexuality]] or [[g/_gender|gender]] [[r/_roles|roles]].**
 - **The [[m/_members|members]] of such a [[c/_category|category]], taken [[c/_collectively|collectively]].**

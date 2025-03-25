@@ -8,7 +8,7 @@
 - **To [[e/_express|express]] with [[g/_great|great]] [[e/_emotion|emotion]].**
 ---
 #adjective
-- **[[g/_given|Given]] to strong [[f/_feeling|feeling]], [[s/_sometimes|sometimes]] [[r/_romantic|romantic]], [[s/_sexual|sexual]], or [[b/_both|both]].**
+- **[[g/_given|Given]] to [[s/_strong|strong]] [[f/_feeling|feeling]], [[s/_sometimes|sometimes]] [[r/_romantic|romantic]], [[s/_sexual|sexual]], or [[b/_both|both]].**
 - **[[f/_fired|Fired]] with [[i/_intense|intense]] [[f/_feeling|feeling]].**
 - **Suffering; [[s/_sorrowful|sorrowful]].**
 ---

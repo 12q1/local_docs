@@ -9,7 +9,7 @@
 - **To [[e/_enclose|enclose]] with [[p/_pales|pales]], or as [[i/_if|if]] with [[p/_pales|pales]]; to [[e/_encircle|encircle]] or [[e/_encompass|encompass]]; to [[f/_fence|fence]] [[o/_off|off]].**
 ---
 #adjective
-- **Striped.**
+- **[[s/_striped|Striped]].**
 - **[[e/_enclosed|Enclosed]] with a [[p/_paling|paling]].**
 ---
 ---

@@ -3,9 +3,9 @@
 #verb
 - **To [[g/_grasp|grasp]] or [[g/_grip|grip]].**
 	- _Example: Hold the pencil like this._
-- **To [[c/_contain|contain]] or store.**
+- **To [[c/_contain|contain]] or [[s/_store|store]].**
 	- _Example: This package holds six bottles._
-- **([[h/_heading|heading]]) To [[m/_maintain|maintain]] or [[k/_keep|keep]] to a [[p/_position|position]] or state.**
+- **([[h/_heading|heading]]) To [[m/_maintain|maintain]] or [[k/_keep|keep]] to a [[p/_position|position]] or [[s/_state|state]].**
 - **([[h/_heading|heading]]) To [[m/_maintain|maintain]] or [[k/_keep|keep]] to [[p/_particular|particular]] [[o/_opinions|opinions]], [[p/_promises|promises]], [[a/_actions|actions]].**
 - **To win [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[s/_service|service]] [[g/_game|game]].**
 - **To take [[p/_place|place]], to [[o/_occur|occur]].**

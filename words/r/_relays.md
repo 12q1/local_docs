@@ -6,10 +6,10 @@
 ---
 #noun
 - **A [[n/_new|new]] [[s/_set|set]] of [[h/_hounds|hounds]].**
-- **A [[n/_new|new]] [[s/_set|set]] of [[h/_horses|horses]] [[k/_kept|kept]] [[a/_along|along]] a specific [[r/_route|route]] [[s/_so|so]] that they [[c/_can|can]] [[r/_replace|replace]] [[a/_animals|animals]] that are tired.**
+- **A [[n/_new|new]] [[s/_set|set]] of [[h/_horses|horses]] [[k/_kept|kept]] [[a/_along|along]] a [[s/_specific|specific]] [[r/_route|route]] [[s/_so|so]] that they [[c/_can|can]] [[r/_replace|replace]] [[a/_animals|animals]] that are tired.**
 - **(by [[e/_extension|extension]]) A [[n/_new|new]] [[s/_set|set]] of [[a/_anything|anything]].**
 - **A [[s/_series|series]] of vehicles travelling in [[s/_sequence|sequence]].**
-- **A track and [[f/_field|field]] [[d/_discipline|discipline]] where [[r/_runners|runners]] take turns in [[c/_carrying|carrying]] a [[b/_baton|baton]] from start to [[f/_finish|finish]]. [[m/_most|Most]] [[c/_common|common]] [[e/_events|events]] are 4x100 [[m/_meter|meter]] and 4x400 [[m/_meter|meter]] [[c/_competitions|competitions]].**
+- **A track and [[f/_field|field]] [[d/_discipline|discipline]] where [[r/_runners|runners]] take turns in [[c/_carrying|carrying]] a [[b/_baton|baton]] from [[s/_start|start]] to [[f/_finish|finish]]. [[m/_most|Most]] [[c/_common|common]] [[e/_events|events]] are 4x100 [[m/_meter|meter]] and 4x400 [[m/_meter|meter]] [[c/_competitions|competitions]].**
 - **An [[e/_electrical|electrical]] [[a/_actuator|actuator]] that [[a/_allows|allows]] a [[r/_relatively|relatively]] [[s/_small|small]] [[e/_electrical|electrical]] voltage or [[c/_current|current]] to [[c/_control|control]] a [[l/_larger|larger]] voltage or [[c/_current|current]].**
 ---
 #verb

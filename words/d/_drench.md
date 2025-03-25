@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[d/_draught|draught]] [[a/_administered|administered]] to an [[a/_animal|animal]].**
-- **A [[d/_drink|drink]]; a [[d/_draught|draught]]; specifically, a [[p/_potion|potion]] of [[m/_medicine|medicine]] [[p/_poured|poured]] or [[f/_forced|forced]] [[d/_down|down]] the throat; [[a/_also|also]], a [[p/_potion|potion]] that [[c/_causes|causes]] [[p/_purging|purging]].**
+- **A [[d/_drink|drink]]; a [[d/_draught|draught]]; [[s/_specifically|specifically]], a [[p/_potion|potion]] of [[m/_medicine|medicine]] [[p/_poured|poured]] or [[f/_forced|forced]] [[d/_down|down]] the throat; [[a/_also|also]], a [[p/_potion|potion]] that [[c/_causes|causes]] [[p/_purging|purging]].**
 ---
 #verb
 - **To [[s/_soak|soak]], to [[m/_make|make]] very wet.**

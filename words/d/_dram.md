@@ -8,7 +8,7 @@
 ---
 #noun
 - **A [[s/_small|small]] unit of weight, variously:**
-- **[[a/_any|Any]] [[s/_similarly|similarly]] [[m/_minute|minute]] [[q/_quantity|quantity]], a [[s/_small|small]] [[a/_amount|amount]] of strong [[a/_alcohol|alcohol]] or [[p/_poison|poison]].**
+- **[[a/_any|Any]] [[s/_similarly|similarly]] [[m/_minute|minute]] [[q/_quantity|quantity]], a [[s/_small|small]] [[a/_amount|amount]] of [[s/_strong|strong]] [[a/_alcohol|alcohol]] or [[p/_poison|poison]].**
 	- _Example: a dram of brandy_
 - **A [[c/_cart|cart]] [[f/_formerly|formerly]] used to [[h/_haul|haul]] [[c/_coal|coal]] in [[c/_coal|coal]] [[m/_mines|mines]].**
 ---

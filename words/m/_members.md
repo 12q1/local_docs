@@ -12,7 +12,7 @@
 - **The [[j/_judge|judge]] or [[a/_adjudicator|adjudicator]] in a [[c/_consumer|consumer]] [[c/_court|court]].**
 - **A [[p/_part|part]] of a [[d/_discourse|discourse]] or of a [[p/_period|period]], [[s/_sentence|sentence]], or verse; a [[c/_clause|clause]].**
 - **[[e/_either|Either]] of the two [[p/_parts|parts]] of an [[a/_algebraic|algebraic]] [[e/_equation|equation]], [[c/_connected|connected]] by the [[e/_equality|equality]] [[s/_sign|sign]].**
-- **A [[f/_file|file]] stored within an [[a/_archive|archive]] [[f/_file|file]].**
+- **A [[f/_file|file]] [[s/_stored|stored]] within an [[a/_archive|archive]] [[f/_file|file]].**
 	- _Example: The zip file holding the source code of this application has 245 members._
 ---
 ### Synonyms

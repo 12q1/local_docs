@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[b/_bend|bend]], turn [[b/_back|back]] or [[r/_reflect|reflect]].**
-- **To [[r/_respond|respond]] to a stimulus.**
+- **To [[r/_respond|respond]] to a [[s/_stimulus|stimulus]].**
 ---
 #adjective
 - **Turned [[b/_backwards|backwards]]**

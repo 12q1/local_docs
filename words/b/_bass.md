@@ -1,7 +1,7 @@
 # Bass
 ---
 #noun
-- **A [[l/_low|low]] spectrum of [[s/_sound|sound]] tones.**
+- **A [[l/_low|low]] [[s/_spectrum|spectrum]] of [[s/_sound|sound]] tones.**
 	- _Example: Peter adjusted the equalizer on his audio equipment to emphasize the bass._
 - **A [[s/_section|section]] of [[m/_musical|musical]] [[g/_group|group]] that [[p/_produces|produces]] [[l/_low|low]]-[[p/_pitched|pitched]] [[s/_sound|sound]], [[l/_lower|lower]] than the [[b/_baritone|baritone]] and tenor.**
 	- _Example: The conductor preferred to situate the bass in the middle rear, rather than to one side of the orchestra._

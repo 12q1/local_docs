@@ -17,8 +17,8 @@
 	- _Example: Don't slam the door!_
 - **To [[p/_put|put]] in or on a [[p/_particular|particular]] [[p/_place|place]] with [[f/_force|force]] and [[l/_loud|loud]] [[n/_noise|noise]]. ([[o/_often|Often]] [[f/_followed|followed]] by a [[p/_preposition|preposition]] such as [[d/_down|down]], [[a/_against|against]] or [[i/_into|into]].)**
 	- _Example: Don't slam that trunk down on the pavement!_
-- **To strike [[f/_forcefully|forcefully]] with [[s/_some|some]] [[i/_implement|implement]].**
-- **To strike [[a/_against|against]] suddenly and [[h/_heavily|heavily]].**
+- **To [[s/_strike|strike]] [[f/_forcefully|forcefully]] with [[s/_some|some]] [[i/_implement|implement]].**
+- **To [[s/_strike|strike]] [[a/_against|against]] suddenly and [[h/_heavily|heavily]].**
 	- _Example: The boat slammed into the bank and we were almost thrown into the river._
 - **To [[s/_speak|speak]] [[b/_badly|badly]] of; to [[c/_criticize|criticize]] [[f/_forcefully|forcefully]].**
 	- _Example: Critics slammed the new film, calling it violent and meaningless._

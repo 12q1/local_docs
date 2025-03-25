@@ -6,7 +6,7 @@
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to a [[p/_pontiff|pontiff]].**
 - **[[p/_pompous|Pompous]], [[d/_dignified|dignified]] or [[d/_dogmatic|dogmatic]].**
-- **Splendid; [[m/_magnificent|magnificent]].**
+- **[[s/_splendid|Splendid]]; [[m/_magnificent|magnificent]].**
 - **Of or [[p/_pertaining|pertaining]] to the [[p/_pontifices|pontifices]] of [[a/_ancient|Ancient]] [[r/_rome|Rome]].**
 - **Of or [[r/_relating|relating]] to the [[b/_building|building]] of [[b/_bridges|bridges]].**
 ---

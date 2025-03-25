@@ -6,7 +6,7 @@
 ---
 #adjective
 - **[[c/_cynical|Cynical]] (in [[a/_all|all]] [[s/_senses|senses]])**
-- **[[r/_relating|Relating]] to the [[d/_dog|Dog]] Star.**
+- **[[r/_relating|Relating]] to the [[d/_dog|Dog]] [[s/_star|Star]].**
 	- _Example: the cynic, or Sothic, year; cynic cycle_
 ---
 ---

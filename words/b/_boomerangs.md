@@ -1,7 +1,7 @@
 # Boomerangs
 ---
 #noun
-- **A [[f/_flat|flat]] [[c/_curved|curved]] [[a/_airfoil|airfoil]], that spins [[a/_about|about]] an [[a/_axis|axis]] [[p/_perpendicular|perpendicular]] to the [[d/_direction|direction]] of [[f/_flight|flight]], that was [[o/_originally|originally]] used in various [[p/_parts|parts]] of the world as [[h/_hunting|hunting]] weapons or, in [[r/_returnable|returnable]] types, for sports or training.**
+- **A [[f/_flat|flat]] [[c/_curved|curved]] [[a/_airfoil|airfoil]], that [[s/_spins|spins]] [[a/_about|about]] an [[a/_axis|axis]] [[p/_perpendicular|perpendicular]] to the [[d/_direction|direction]] of [[f/_flight|flight]], that was [[o/_originally|originally]] used in various [[p/_parts|parts]] of the world as [[h/_hunting|hunting]] weapons or, in [[r/_returnable|returnable]] types, for [[s/_sports|sports]] or training.**
 - **A breakdancing [[m/_move|move]] in which the [[p/_performer|performer]] walks on [[h/_his|his]] or [[h/_her|her]] [[h/_hands|hands]] while [[k/_keeping|keeping]] the [[l/_legs|legs]] [[r/_raised|raised]] [[o/_off|off]] the [[g/_ground|ground]].**
 ---
 ### Synonyms

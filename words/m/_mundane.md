@@ -8,7 +8,7 @@
 ---
 #adjective
 - **Worldly, [[e/_earthly|earthly]], [[p/_profane|profane]], vulgar as [[o/_opposed|opposed]] to [[h/_heavenly|heavenly]].**
-- **[[p/_pertaining|Pertaining]] to the Universe, [[c/_cosmos|cosmos]] or [[p/_physical|physical]] [[r/_reality|reality]], as [[o/_opposed|opposed]] to the spiritual world.**
+- **[[p/_pertaining|Pertaining]] to the Universe, [[c/_cosmos|cosmos]] or [[p/_physical|physical]] [[r/_reality|reality]], as [[o/_opposed|opposed]] to the [[s/_spiritual|spiritual]] world.**
 - **[[o/_ordinary|Ordinary]]; not [[n/_new|new]].**
 - **Tedious; [[r/_repetitive|repetitive]] and [[b/_boring|boring]].**
 ---

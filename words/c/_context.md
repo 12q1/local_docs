@@ -1,7 +1,7 @@
 # Context
 ---
 #noun
-- **The surroundings, [[c/_circumstances|circumstances]], [[e/_environment|environment]], [[b/_background|background]] or [[s/_settings|settings]] that [[d/_determine|determine]], specify, or [[c/_clarify|clarify]] the [[m/_meaning|meaning]] of an [[e/_event|event]] or [[o/_other|other]] [[o/_occurrence|occurrence]].**
+- **The surroundings, [[c/_circumstances|circumstances]], [[e/_environment|environment]], [[b/_background|background]] or [[s/_settings|settings]] that [[d/_determine|determine]], [[s/_specify|specify]], or [[c/_clarify|clarify]] the [[m/_meaning|meaning]] of an [[e/_event|event]] or [[o/_other|other]] [[o/_occurrence|occurrence]].**
 	- _Example: In what context did your attack on him happen? - We had a pretty tense relationship at the time, and when he insulted me I snapped._
 - **The text in which a word or [[p/_passage|passage]] [[a/_appears|appears]] and which [[h/_helps|helps]] [[a/_ascertain|ascertain]] [[i/_its|its]] [[m/_meaning|meaning]].**
 	- _Example: Without any context, I can't tell you if the "dish" refers to the food, or the thing you eat it on._

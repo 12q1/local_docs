@@ -4,7 +4,7 @@
 - **The [[p/_property|property]] by virtue of which a [[m/_material|material]] [[d/_deformed|deformed]] under [[l/_load|load]] [[c/_can|can]] [[r/_regain|regain]] [[i/_its|its]] [[o/_original|original]] [[d/_dimensions|dimensions]] when unloaded**
 - **The [[s/_sensitivity|sensitivity]] of [[c/_changes|changes]] in a [[q/_quantity|quantity]] with [[r/_respect|respect]] to [[c/_changes|changes]] in [[a/_another|another]] [[q/_quantity|quantity]].**
 	- _Example: If the sales of an item drop by 5% when the price increases by 10%, its price elasticity is -0.5._
-- **A [[m/_measure|measure]] of the [[f/_flexibility|flexibility]] of a [[d/_data|data]] store'[[s/_s|s]] [[d/_data|data]] [[m/_model|model]] and [[c/_clustering|clustering]] [[c/_capabilities|capabilities]].**
+- **A [[m/_measure|measure]] of the [[f/_flexibility|flexibility]] of a [[d/_data|data]] [[s/_store|store]]'[[s/_s|s]] [[d/_data|data]] [[m/_model|model]] and [[c/_clustering|clustering]] [[c/_capabilities|capabilities]].**
 - **A [[s/_system|system]]'[[s/_s|s]] [[a/_ability|ability]] to [[a/_adapt|adapt]] to [[c/_changes|changes]] in workload by [[a/_automatically|automatically]] [[p/_provisioning|provisioning]] and [[d/_de|de]]-[[p/_provisioning|provisioning]] [[r/_resources|resources]].**
 - **The [[r/_ratio|ratio]] of the [[r/_relative|relative]] [[c/_change|change]] in a [[f/_function|function]]'[[s/_s|s]] [[o/_output|output]] with [[r/_respect|respect]] to the [[r/_relative|relative]] [[c/_change|change]] in [[i/_its|its]] [[i/_input|input]], for [[i/_infinitesimal|infinitesimal]] [[c/_changes|changes]] at a [[c/_certain|certain]] [[p/_point|point]].**
 - **The [[q/_quality|quality]] of [[b/_being|being]] [[e/_elastic|elastic]].**

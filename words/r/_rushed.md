@@ -6,7 +6,7 @@
 - **To [[f/_flow|flow]] or [[m/_move|move]] [[f/_forward|forward]] [[r/_rapidly|rapidly]] or [[n/_noisily|noisily]].**
 	- _Example: armies rush to battle;   waters rush down a precipice._
 - **To [[d/_dribble|dribble]] [[r/_rapidly|rapidly]].**
-- **([[c/_contact|contact]] sports) To [[r/_run|run]] [[d/_directly|directly]] at [[a/_another|another]] [[p/_player|player]] in [[o/_order|order]] to [[b/_block|block]] or [[d/_disrupt|disrupt]] [[p/_play|play]].**
+- **([[c/_contact|contact]] [[s/_sports|sports]]) To [[r/_run|run]] [[d/_directly|directly]] at [[a/_another|another]] [[p/_player|player]] in [[o/_order|order]] to [[b/_block|block]] or [[d/_disrupt|disrupt]] [[p/_play|play]].**
 - **To [[c/_cause|cause]] to [[m/_move|move]] or [[a/_act|act]] with unusual [[h/_haste|haste]].**
 	- _Example: Don't rush your client or he may withdraw._
 - **To [[m/_make|make]] a swift or sudden [[a/_attack|attack]].**

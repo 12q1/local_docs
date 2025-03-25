@@ -9,7 +9,7 @@
 - **[[a/_anything|Anything]] that [[a/_acts|acts]] by [[c/_contrast|contrast]] to [[e/_emphasise|emphasise]] the [[c/_characteristics|characteristics]] of [[s/_something|something]].**
 - **A very thin sword with a [[b/_blunted|blunted]] (or [[f/_foiled|foiled]]) tip**
 - **A thin, transparent [[p/_plastic|plastic]] [[m/_material|material]] on which [[m/_marks|marks]] are [[m/_made|made]] and [[p/_projected|projected]] for the [[p/_purposes|purposes]] of [[p/_presentation|presentation]]. [[s/_see|See]] transparency.**
-- **A stylized [[f/_flower|flower]] or [[l/_leaf|leaf]].**
+- **A [[s/_stylized|stylized]] [[f/_flower|flower]] or [[l/_leaf|leaf]].**
 - **A [[h/_hydrofoil|hydrofoil]].**
 - **An [[a/_aerofoil|aerofoil]]/[[a/_airfoil|airfoil]].**
 ---

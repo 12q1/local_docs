@@ -1,7 +1,7 @@
 # Incongruities
 ---
 #noun
-- **The state of [[b/_being|being]] [[i/_incongruous|incongruous]], or [[l/_lacking|lacking]] [[c/_congruence|congruence]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[i/_incongruous|incongruous]], or [[l/_lacking|lacking]] [[c/_congruence|congruence]].**
 - **An [[i/_instance|instance]] or [[p/_point|point]] of [[d/_disagreement|disagreement]]**
 - **A thing that is [[i/_incongruous|incongruous]].**
 ---

@@ -9,11 +9,11 @@
 	- _Example: I don't want to open that subject._
 - **To [[e/_enter|enter]] upon, [[b/_begin|begin]].**
 	- _Example: to open a case in court, or a meeting_
-- **To spread; to [[e/_expand|expand]] [[i/_into|into]] an [[o/_open|open]] or [[l/_loose|loose]] [[p/_position|position]].**
+- **To [[s/_spread|spread]]; to [[e/_expand|expand]] [[i/_into|into]] an [[o/_open|open]] or [[l/_loose|loose]] [[p/_position|position]].**
 	- _Example: to open a closed fist_
 - **To [[m/_make|make]] [[a/_accessible|accessible]] to [[c/_customers|customers]] or [[c/_clients|clients]].**
 	- _Example: I will open the shop an hour early tomorrow._
-- **To start (a [[c/_campaign|campaign]]).**
+- **To [[s/_start|start]] (a [[c/_campaign|campaign]]).**
 	- _Example: Vermont will open elk hunting season next week._
 - **To [[b/_become|become]] [[o/_open|open]].**
 	- _Example: The door opened all by itself._
@@ -47,7 +47,7 @@
 ### Synonyms
 - [[a/_availability|availability]], [[s/_slot|slot]], [[c/_crevice|crevice]], [[g/_gap|gap]], [[h/_hole|hole]]
 #adjective
-- **[[p/_pertaining|Pertaining]] to the start or [[b/_beginning|beginning]] of a [[s/_series|series]] of [[e/_events|events]].**
+- **[[p/_pertaining|Pertaining]] to the [[s/_start|start]] or [[b/_beginning|beginning]] of a [[s/_series|series]] of [[e/_events|events]].**
 	- _Example: The opening theme of Beethoven's Fifth Symphony is, perhaps, the most recognizable in all of European art music._
 - **[[d/_describing|Describing]] the [[f/_first|first]] [[p/_period|period]] of [[p/_play|play]], usually up to the [[f/_fall|fall]] of the [[f/_first|first]] wicket; [[d/_describing|describing]] a [[b/_batsman|batsman]] who [[o/_opens|opens]] the [[i/_innings|innings]] or a [[b/_bowler|bowler]] who [[o/_opens|opens]] the [[a/_attack|attack]]**
 ---

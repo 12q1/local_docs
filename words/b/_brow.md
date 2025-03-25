@@ -4,7 +4,7 @@
 - **The [[r/_ridge|ridge]] [[o/_over|over]] the [[e/_eyes|eyes]]; the [[e/_eyebrow|eyebrow]].**
 - **The [[f/_first|first]] tine of an [[a/_antler|antler]]'[[s/_s|s]] [[b/_beam|beam]].**
 - **The [[f/_forehead|forehead]].**
-- **The [[p/_projecting|projecting]] upper [[e/_edge|edge]] of a steep [[p/_place|place]] such as a [[h/_hill|hill]].**
+- **The [[p/_projecting|projecting]] upper [[e/_edge|edge]] of a [[s/_steep|steep]] [[p/_place|place]] such as a [[h/_hill|hill]].**
 	- _Example: the brow of a precipice_
 - **A [[g/_gallery|gallery]] in a [[c/_coal|coal]] [[m/_mine|mine]] [[r/_running|running]] [[a/_across|across]] the [[f/_face|face]] of the [[c/_coal|coal]].**
 - **[[a/_aspect|Aspect]]; [[a/_appearance|appearance]].**

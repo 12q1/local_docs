@@ -5,9 +5,9 @@
 	- _Example: We owe them our thanks for bringing the project to a successful close._
 - **The [[m/_manner|manner]] of [[s/_shutting|shutting]]; the union of [[p/_parts|parts]]; [[j/_junction|junction]].**
 - **A [[g/_grapple|grapple]] in wrestling.**
-- **The [[c/_conclusion|conclusion]] of a strain of [[m/_music|music]]; [[c/_cadence|cadence]].**
+- **The [[c/_conclusion|conclusion]] of a [[s/_strain|strain]] of [[m/_music|music]]; [[c/_cadence|cadence]].**
 - **A [[d/_double|double]] [[b/_bar|bar]] [[m/_marking|marking]] the [[e/_end|end]].**
-- **(travel) The time when checkin staff will [[n/_no|no]] [[l/_longer|longer]] [[a/_accept|accept]] [[p/_passengers|passengers]] for a [[f/_flight|flight]].**
+- **(travel) The time when checkin [[s/_staff|staff]] will [[n/_no|no]] [[l/_longer|longer]] [[a/_accept|accept]] [[p/_passengers|passengers]] for a [[f/_flight|flight]].**
 ---
 ### Synonyms
 - [[e/_end|end]], [[f/_finale|finale]]

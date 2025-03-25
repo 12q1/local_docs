@@ -8,7 +8,7 @@
 - **[[o/_one|One]] who [[m/_manufactures|manufactures]] [[c/_certain|certain]] [[i/_illegal|illegal]] [[d/_drugs|drugs]], [[e/_especially|especially]] [[m/_meth|meth]].**
 	- _Example: Police found two meth cooks working in the illicit lab._
 - **A [[s/_session|session]] of [[m/_manufacturing|manufacturing]] [[c/_certain|certain]] [[i/_illegal|illegal]] [[d/_drugs|drugs]], [[e/_especially|especially]] [[m/_meth|meth]].**
-- **A [[f/_fish|fish]], the [[e/_european|European]] striped wrasse, [[l/_labrus|Labrus]] mixtus.**
+- **A [[f/_fish|fish]], the [[e/_european|European]] [[s/_striped|striped]] wrasse, [[l/_labrus|Labrus]] mixtus.**
 ---
 #verb
 - **To [[p/_prepare|prepare]] ([[f/_food|food]]) for [[e/_eating|eating]] by [[h/_heating|heating]] it, [[o/_often|often]] by [[c/_combining|combining]] it with [[o/_other|other]] [[i/_ingredients|ingredients]].**

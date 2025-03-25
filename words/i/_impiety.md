@@ -1,7 +1,7 @@
 # Impiety
 ---
 #noun
-- **The state of [[b/_being|being]] [[i/_impious|impious]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[i/_impious|impious]].**
 - **An [[i/_impious|impious]] [[a/_act|act]].**
 - **The [[l/_lack|lack]] of [[r/_respect|respect]] for a [[g/_god|god]] or [[s/_something|something]] [[s/_sacred|sacred]].**
 ---

@@ -1,7 +1,7 @@
 # Pretorian
 ---
 #noun
-- **A [[m/_member|member]] of a special [[b/_bodyguard|bodyguard]] [[f/_force|force]] used by [[r/_roman|Roman]] [[e/_emperors|emperors]]. The [[s/_symbol|symbol]] of the [[p/_praetorian|Praetorian]] [[g/_guard|Guard]] was the [[s/_scorpion|scorpion]].**
+- **A [[m/_member|member]] of a [[s/_special|special]] [[b/_bodyguard|bodyguard]] [[f/_force|force]] used by [[r/_roman|Roman]] [[e/_emperors|emperors]]. The [[s/_symbol|symbol]] of the [[p/_praetorian|Praetorian]] [[g/_guard|Guard]] was the [[s/_scorpion|scorpion]].**
 ---
 #noun
 - **A [[p/_praetor|praetor]]**

@@ -4,7 +4,7 @@
 - **To write [[c/_chords|chords]] for.**
 - **To [[a/_accord|accord]]; to [[h/_harmonize|harmonize]] together.**
 	- _Example: This note chords with that one._
-- **To [[p/_provide|provide]] with [[m/_musical|musical]] [[c/_chords|chords]] or strings; to string; to tune.**
+- **To [[p/_provide|provide]] with [[m/_musical|musical]] [[c/_chords|chords]] or [[s/_strings|strings]]; to [[s/_string|string]]; to tune.**
 ---
 #noun
 - **An [[a/_arrangement|arrangement]] of [[m/_musical|musical]] [[c/_chords|chords]].**

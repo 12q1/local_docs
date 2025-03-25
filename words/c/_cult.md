@@ -14,7 +14,7 @@
 	- _Example: a cult horror movie_
 ---
 #adjective
-- **True to the [[i/_ideology|ideology]] of [[b/_black|black]] [[m/_metal|metal]] or a stereotypical [[m/_manifestation|manifestation]] of that subculture.**
+- **True to the [[i/_ideology|ideology]] of [[b/_black|black]] [[m/_metal|metal]] or a [[s/_stereotypical|stereotypical]] [[m/_manifestation|manifestation]] of that subculture.**
 	- _Example: You gotta wear make-up at kvlt gigs or you'll be thrown out._
 ---
 ---

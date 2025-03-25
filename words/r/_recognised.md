@@ -12,7 +12,7 @@
 	- _Example: His services were recognized in a testimonial._
 - **To [[r/_review|review]]; to [[e/_examine|examine]] [[a/_again|again]].**
 - **To [[r/_reconnoiter|reconnoiter]].**
-- **To [[h/_have|have]] the [[p/_property|property]] to [[b/_bind|bind]] to specific [[a/_antigens|antigens]].**
+- **To [[h/_have|have]] the [[p/_property|property]] to [[b/_bind|bind]] to [[s/_specific|specific]] [[a/_antigens|antigens]].**
 ---
 #adjective
 - **[[n/_notable|Notable]]; [[d/_distinguished|distinguished]]; [[h/_honored|honored]].**

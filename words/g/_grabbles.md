@@ -11,7 +11,7 @@
 - **([[n/_now|now]] [[s/_southeastern|Southeastern]] US) To [[c/_catch|catch]] [[f/_fish|fish]] by [[r/_reaching|reaching]] [[i/_into|into]] the water with [[o/_one|one]]'[[s/_s|s]] [[h/_hand|hand]].**
 - **To [[f/_fish|fish]] on the [[g/_grabble|grabble]].**
 - **To utter [[i/_inarticulate|inarticulate]] [[s/_sounds|sounds]], [[o/_often|often]] [[q/_quickly|quickly]] and [[l/_loudly|loudly]]; to [[s/_say|say]] ([[s/_something|something]]) [[q/_quickly|quickly]], [[i/_idly|idly]] or [[f/_foolishly|foolishly]].**
-- **To [[l/_lie|lie]] [[p/_prostrate|prostrate]]; to sprawl on the [[g/_ground|ground]].**
+- **To [[l/_lie|lie]] [[p/_prostrate|prostrate]]; to [[s/_sprawl|sprawl]] on the [[g/_ground|ground]].**
 ---
 ### Synonyms
 - [[b/_babble|babble]], [[g/_gabble|gabble]], [[g/_gibber|gibber]], [[j/_jabber|jabber]], [[c/_clutch|clutch]], [[g/_grip|grip]], [[f/_fondle|fondle]], [[g/_grope|grope]], [[f/_fumble|fumble]], [[g/_grope|grope]], [[g/_grubble|grubble]], [[r/_root|root]], [[r/_rummage|rummage]], [[g/_grab|grab]], [[s/_seize|seize]], [[s/_snatch|snatch]], [[g/_grovel|grovel]], [[g/_grub|grub]], [[n/_noodle|noodle]]

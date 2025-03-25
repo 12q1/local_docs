@@ -1,7 +1,7 @@
 # Chimes
 ---
 #noun
-- **A [[m/_musical|musical]] [[i/_instrument|instrument]] [[p/_producing|producing]] a [[s/_sound|sound]] when struck, [[s/_similar|similar]] to a [[b/_bell|bell]] ([[e/_e|e]].[[g/_g|g]]. a tubular [[m/_metal|metal]] [[b/_bar|bar]]) or [[a/_actually|actually]] a [[b/_bell|bell]]. [[o/_often|Often]] used in the [[p/_plural|plural]] to [[r/_refer|refer]] to the [[s/_set|set]]: the [[c/_chimes|chimes]].**
+- **A [[m/_musical|musical]] [[i/_instrument|instrument]] [[p/_producing|producing]] a [[s/_sound|sound]] when [[s/_struck|struck]], [[s/_similar|similar]] to a [[b/_bell|bell]] ([[e/_e|e]].[[g/_g|g]]. a tubular [[m/_metal|metal]] [[b/_bar|bar]]) or [[a/_actually|actually]] a [[b/_bell|bell]]. [[o/_often|Often]] used in the [[p/_plural|plural]] to [[r/_refer|refer]] to the [[s/_set|set]]: the [[c/_chimes|chimes]].**
 	- _Example: Hugo was a chime player in the school orchestra._
 - **An [[i/_individual|individual]] [[r/_ringing|ringing]] [[c/_component|component]] of such a [[s/_set|set]].**
 	- _Example: Peter removed the C♯ chime from its mounting so that he could get at the dust that had accumulated underneath._
@@ -9,7 +9,7 @@
 	- _Example: The professor had stuffed a wad of gum into the chime of his doorbell so that he wouldn't be bothered._
 - **The [[s/_sound|sound]] of such an [[i/_instrument|instrument]] or [[d/_device|device]].**
 	- _Example: The copier gave a chime to indicate that it had finished printing._
-- **A [[s/_small|small]] [[h/_hammer|hammer]] or [[o/_other|other]] [[d/_device|device]] used to strike a [[b/_bell|bell]].**
+- **A [[s/_small|small]] [[h/_hammer|hammer]] or [[o/_other|other]] [[d/_device|device]] used to [[s/_strike|strike]] a [[b/_bell|bell]].**
 	- _Example: Strike the bell with the brass chime hanging on the chain next to it._
 ---
 ### Synonyms
@@ -17,7 +17,7 @@
 #verb
 - **To [[m/_make|make]] the [[s/_sound|sound]] of a [[c/_chime|chime]].**
 	- _Example: I got up for lunch as soon as the wall clock began chiming noon._
-- **To [[c/_cause|cause]] to [[s/_sound|sound]] in [[h/_harmony|harmony]]; to [[p/_play|play]] a tune, as upon a [[s/_set|set]] of [[b/_bells|bells]]; to [[m/_move|move]] or strike in [[h/_harmony|harmony]].**
+- **To [[c/_cause|cause]] to [[s/_sound|sound]] in [[h/_harmony|harmony]]; to [[p/_play|play]] a tune, as upon a [[s/_set|set]] of [[b/_bells|bells]]; to [[m/_move|move]] or [[s/_strike|strike]] in [[h/_harmony|harmony]].**
 - **To utter [[h/_harmoniously|harmoniously]]; to [[r/_recite|recite]] [[r/_rhythmically|rhythmically]].**
 - **To [[a/_agree|agree]]; to [[c/_correspond|correspond]].**
 	- _Example: The other lab's results chimed with mine, so I knew we were on the right track with the research._
@@ -25,11 +25,11 @@
 ---
 #noun
 - **The top of a [[r/_ridge|ridge]].**
-- **The spine of an [[a/_animal|animal]].**
+- **The [[s/_spine|spine]] of an [[a/_animal|animal]].**
 - **A [[p/_piece|piece]] of the [[b/_backbone|backbone]] of an [[a/_animal|animal]], with the [[a/_adjoining|adjoining]] [[p/_parts|parts]], [[c/_cut|cut]] for [[c/_cooking|cooking]].**
 - **A [[s/_sharp|sharp]] [[a/_angle|angle]] in the [[c/_cross|cross]] [[s/_section|section]] of a [[h/_hull|hull]].**
 - **A [[h/_hollowed|hollowed]] or [[b/_bevelled|bevelled]] [[c/_channel|channel]] in the waterway of a [[s/_ship|ship]]'[[s/_s|s]] [[d/_deck|deck]].**
-- **The [[e/_edge|edge]] or [[r/_rim|rim]] of a [[c/_cask|cask]], [[e/_etc|etc]]., [[f/_formed|formed]] by the [[p/_projecting|projecting]] [[e/_ends|ends]] of the staves; the [[c/_chamfered|chamfered]] [[e/_end|end]] of a stave.**
+- **The [[e/_edge|edge]] or [[r/_rim|rim]] of a [[c/_cask|cask]], [[e/_etc|etc]]., [[f/_formed|formed]] by the [[p/_projecting|projecting]] [[e/_ends|ends]] of the [[s/_staves|staves]]; the [[c/_chamfered|chamfered]] [[e/_end|end]] of a [[s/_stave|stave]].**
 - **The [[b/_back|back]] of the [[b/_blade|blade]] on a [[s/_scythe|scythe]].**
 ---
 ---

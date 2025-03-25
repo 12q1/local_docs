@@ -1,7 +1,7 @@
 # Fears
 ---
 #noun
-- **A strong, uncontrollable, unpleasant [[e/_emotion|emotion]] or [[f/_feeling|feeling]] [[c/_caused|caused]] by [[a/_actual|actual]] or [[p/_perceived|perceived]] [[d/_danger|danger]] or threat.**
+- **A [[s/_strong|strong]], uncontrollable, unpleasant [[e/_emotion|emotion]] or [[f/_feeling|feeling]] [[c/_caused|caused]] by [[a/_actual|actual]] or [[p/_perceived|perceived]] [[d/_danger|danger]] or threat.**
 	- _Example: He was struck by fear on seeing the snake._
 - **A [[p/_phobia|phobia]], a [[s/_sense|sense]] of [[f/_fear|fear]] [[i/_induced|induced]] by [[s/_something|something]] or [[s/_someone|someone]].**
 	- _Example: Not everybody has the same fears.  I have a fear of ants._

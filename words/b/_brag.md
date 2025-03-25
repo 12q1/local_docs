@@ -14,7 +14,7 @@
 - [[b/_boast|boast]]
 #adjective
 - **[[e/_excellent|Excellent]]; [[f/_first|first]]-[[r/_rate|rate]].**
-- **[[b/_brisk|Brisk]]; [[f/_full|full]] of spirits; [[b/_boasting|boasting]]; [[p/_pretentious|pretentious]]; [[c/_conceited|conceited]].**
+- **[[b/_brisk|Brisk]]; [[f/_full|full]] of [[s/_spirits|spirits]]; [[b/_boasting|boasting]]; [[p/_pretentious|pretentious]]; [[c/_conceited|conceited]].**
 	- _Example: a woundy, brag young fellow_
 ---
 #adverb

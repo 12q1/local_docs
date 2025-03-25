@@ -1,6 +1,6 @@
 # Physiologist
 ---
 #noun
-- **A [[p/_person|person]] who studies or specializes in [[p/_physiology|physiology]].**
+- **A [[p/_person|person]] who [[s/_studies|studies]] or [[s/_specializes|specializes]] in [[p/_physiology|physiology]].**
 ---
 ---

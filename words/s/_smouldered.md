@@ -2,8 +2,8 @@
 ---
 #verb
 - **To [[b/_burn|burn]] with [[n/_no|no]] [[f/_flame|flame]] and [[l/_little|little]] [[s/_smoke|smoke]].**
-- **To [[s/_show|show]] [[s/_signs|signs]] of [[r/_repressed|repressed]] [[a/_anger|anger]] or suppressed [[m/_mental|mental]] turmoil or [[o/_other|other]] strong [[e/_emotion|emotion]], such as [[p/_passion|passion]].**
-- **To [[e/_exist|exist]] in a suppressed or [[h/_hidden|hidden]] state.**
+- **To [[s/_show|show]] [[s/_signs|signs]] of [[r/_repressed|repressed]] [[a/_anger|anger]] or suppressed [[m/_mental|mental]] turmoil or [[o/_other|other]] [[s/_strong|strong]] [[e/_emotion|emotion]], such as [[p/_passion|passion]].**
+- **To [[e/_exist|exist]] in a suppressed or [[h/_hidden|hidden]] [[s/_state|state]].**
 ---
 #verb
 - **To [[s/_smother|smother]]; to suffocate; to [[c/_choke|choke]].**

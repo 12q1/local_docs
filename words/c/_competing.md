@@ -8,6 +8,6 @@
 ### Antonyms
 - [[c/_cooperate|cooperate]]
 #adjective
-- **[[b/_being|Being]] in the state of [[c/_competition|competition]] ([[o/_often|often]] unintentionally).**
+- **[[b/_being|Being]] in the [[s/_state|state]] of [[c/_competition|competition]] ([[o/_often|often]] unintentionally).**
 ---
 ---

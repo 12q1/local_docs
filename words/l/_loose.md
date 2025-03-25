@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[r/_release|release]] of an [[a/_arrow|arrow]].**
-- **A state of [[l/_laxity|laxity]] or [[i/_indulgence|indulgence]]; unrestrained [[f/_freedom|freedom]], [[a/_abandonment|abandonment]].**
+- **A [[s/_state|state]] of [[l/_laxity|laxity]] or [[i/_indulgence|indulgence]]; unrestrained [[f/_freedom|freedom]], [[a/_abandonment|abandonment]].**
 - **[[a/_all|All]] [[p/_play|play]] [[o/_other|other]] than [[s/_set|set]] [[p/_pieces|pieces]] ([[s/_scrums|scrums]] and [[l/_line|line]]-[[o/_outs|outs]]).**
 - **[[f/_freedom|Freedom]] from [[r/_restraint|restraint]].**
 - **A [[l/_letting|letting]] [[g/_go|go]]; [[d/_discharge|discharge]].**

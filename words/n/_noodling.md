@@ -14,7 +14,7 @@
 ### Synonyms
 - [[g/_guddle|guddle]]
 #noun
-- **The [[p/_practice|practice]] and sport of [[f/_fishing|fishing]] for [[c/_catfish|catfish]] using the [[b/_bare|bare]] [[h/_hands|hands]].**
+- **The [[p/_practice|practice]] and [[s/_sport|sport]] of [[f/_fishing|fishing]] for [[c/_catfish|catfish]] using the [[b/_bare|bare]] [[h/_hands|hands]].**
 - **[[m/_musical|Musical]] [[i/_improvisation|improvisation]].**
 ---
 ---

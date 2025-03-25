@@ -5,7 +5,7 @@
 	- _Example: the resistance of bacteria to certain antibiotics_
 - **A [[f/_force|force]] that tends to [[o/_oppose|oppose]] [[m/_motion|motion]].**
 - **[[e/_electrical|Electrical]] [[r/_resistance|resistance]].**
-- **An underground [[o/_organisation|organisation]] [[e/_engaged|engaged]] in a struggle for [[l/_liberation|liberation]] from [[f/_forceful|forceful]] [[o/_occupation|occupation]]; a [[r/_resistance|resistance]] [[m/_movement|movement]].**
+- **An underground [[o/_organisation|organisation]] [[e/_engaged|engaged]] in a [[s/_struggle|struggle]] for [[l/_liberation|liberation]] from [[f/_forceful|forceful]] [[o/_occupation|occupation]]; a [[r/_resistance|resistance]] [[m/_movement|movement]].**
 ---
 ### Synonyms
 - [[o/_opposition|opposition]]

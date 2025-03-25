@@ -1,6 +1,6 @@
 # Musty
 ---
 #adjective
-- **[[h/_having|Having]] a stale [[o/_odor|odor]].**
+- **[[h/_having|Having]] a [[s/_stale|stale]] [[o/_odor|odor]].**
 ---
 ---

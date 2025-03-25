@@ -6,7 +6,7 @@
 ---
 #noun
 - **A [[s/_sovereign|sovereign]] or [[g/_guinea|guinea]].**
-- **[[p/_pound|Pound]] sterling.**
+- **[[p/_pound|Pound]] [[s/_sterling|sterling]].**
 	- _Example: Four quid for a toastie? You're joking aren't you?!_
 - **[[p/_pound|Pound]] ([[b/_before|before]] the 1966 [[c/_currency|currency]] [[c/_change|change]])**
 - **[[p/_pound|Pound]], [[p/_punt|punt]]**

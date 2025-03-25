@@ -1,7 +1,7 @@
 # Gentleman
 ---
 #noun
-- **A [[m/_man|man]] of [[g/_gentle|gentle]] but not [[n/_noble|noble]] [[b/_birth|birth]], [[p/_particularly|particularly]] a [[m/_man|man]] of [[m/_means|means]] ([[o/_originally|originally]] [[o/_ownership|ownership]] of [[p/_property|property]]) who [[d/_does|does]] not work for a [[l/_living|living]] but [[h/_has|has]] [[n/_no|no]] [[o/_official|official]] status in a [[p/_peerage|peerage]]; an [[a/_armiferous|armiferous]] [[m/_man|man]] [[r/_ranking|ranking]] [[b/_below|below]] a [[k/_knight|knight]].**
+- **A [[m/_man|man]] of [[g/_gentle|gentle]] but not [[n/_noble|noble]] [[b/_birth|birth]], [[p/_particularly|particularly]] a [[m/_man|man]] of [[m/_means|means]] ([[o/_originally|originally]] [[o/_ownership|ownership]] of [[p/_property|property]]) who [[d/_does|does]] not work for a [[l/_living|living]] but [[h/_has|has]] [[n/_no|no]] [[o/_official|official]] [[s/_status|status]] in a [[p/_peerage|peerage]]; an [[a/_armiferous|armiferous]] [[m/_man|man]] [[r/_ranking|ranking]] [[b/_below|below]] a [[k/_knight|knight]].**
 	- _Example: Being a gentleman, Robert was entitled to shove other commoners into the gongpit but he still had to jump out of the way of the knights to avoid the same fate himself._
 - **[[a/_any|Any]] well-[[b/_bred|bred]], well-[[m/_mannered|mannered]], or [[c/_charming|charming]] [[m/_man|man]].**
 - **An [[e/_effeminate|effeminate]] or [[o/_oversophisticated|oversophisticated]] [[m/_man|man]].**

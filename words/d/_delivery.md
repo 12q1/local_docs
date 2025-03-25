@@ -16,7 +16,7 @@
 - **The [[a/_administration|administration]] of a [[d/_drug|drug]].**
 	- _Example: Drug delivery system._
 - **A [[b/_ball|ball]] [[b/_bowled|bowled]].**
-- **The [[p/_process|process]] of throwing a stone.**
+- **The [[p/_process|process]] of throwing a [[s/_stone|stone]].**
 - **[[p/_process|Process]] of [[i/_introducing|introducing]] [[f/_foreign|foreign]] DNA [[i/_into|into]] [[h/_host|host]] [[c/_cells|cells]].**
 ---
 ---

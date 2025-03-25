@@ -6,6 +6,6 @@
 ### Synonyms
 - [[p/_perscopate|perscopate]]
 #adjective
-- **[[b/_bristling|Bristling]] with [[f/_fear|fear]] or [[h/_horror|horror]]; with [[f/_fur|fur]] or [[h/_hair|hair]] standing on [[e/_end|end]].**
+- **[[b/_bristling|Bristling]] with [[f/_fear|fear]] or [[h/_horror|horror]]; with [[f/_fur|fur]] or [[h/_hair|hair]] [[s/_standing|standing]] on [[e/_end|end]].**
 ---
 ---

@@ -16,7 +16,7 @@
 #adjective
 - **[[p/_preserved|Preserved]] in [[c/_cans|cans]].**
 	- _Example: canned tomatoes_
-- **(by [[e/_extension|extension]]) [[p/_previously|Previously]] [[p/_prepared|prepared]]; not [[f/_fresh|fresh]] or [[n/_new|new]]; standardized, [[m/_mass|mass]] [[p/_produced|produced]], or [[l/_lacking|lacking]] [[o/_originality|originality]] or [[c/_customization|customization]].**
+- **(by [[e/_extension|extension]]) [[p/_previously|Previously]] [[p/_prepared|prepared]]; not [[f/_fresh|fresh]] or [[n/_new|new]]; [[s/_standardized|standardized]], [[m/_mass|mass]] [[p/_produced|produced]], or [[l/_lacking|lacking]] [[o/_originality|originality]] or [[c/_customization|customization]].**
 	- _Example: The form letter included a canned answer stating that what I asked was against policy._
 - **[[d/_drunk|Drunk]].**
 - **Terminated, [[f/_fired|fired]] from a [[j/_job|job]].**

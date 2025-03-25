@@ -6,7 +6,7 @@
 - **[[c/_caused|Caused]] by [[c/_curiosity|curiosity]].**
 - **[[l/_leading|Leading]] [[o/_one|one]] to [[a/_ask|ask]] [[q/_questions|questions]] [[a/_about|about]]; [[s/_somewhat|somewhat]] [[o/_odd|odd]], [[o/_out|out]] of the [[o/_ordinary|ordinary]], or unusual.**
 	- _Example: The platypus is a curious creature, with fur like a mammal and a beak like a bird._
-- **[[c/_careful|Careful]], [[f/_fastidious|fastidious]], [[p/_particular|particular]]; (specifically) [[d/_demanding|demanding]] a [[h/_high|high]] standard of [[e/_excellence|excellence]], [[d/_difficult|difficult]] to [[s/_satisfy|satisfy]].**
+- **[[c/_careful|Careful]], [[f/_fastidious|fastidious]], [[p/_particular|particular]]; ([[s/_specifically|specifically]]) [[d/_demanding|demanding]] a [[h/_high|high]] [[s/_standard|standard]] of [[e/_excellence|excellence]], [[d/_difficult|difficult]] to [[s/_satisfy|satisfy]].**
 - **[[c/_carefully|Carefully]] or [[a/_artfully|artfully]] [[c/_constructed|constructed]]; [[m/_made|made]] with [[g/_great|great]] [[e/_elegance|elegance]] or [[s/_skill|skill]].**
 ---
 ### Synonyms

@@ -12,7 +12,7 @@
 - **The topographical [[b/_boundary|boundary]] [[d/_dividing|dividing]] two [[a/_adjacent|adjacent]] [[c/_catchment|catchment]] [[b/_basins|basins]], such as a [[r/_ridge|ridge]] or a [[c/_crest|crest]].**
 ---
 #verb
-- **To split or [[s/_separate|separate]] ([[s/_something|something]]) [[i/_into|into]] two or [[m/_more|more]] [[p/_parts|parts]].**
+- **To [[s/_split|split]] or [[s/_separate|separate]] ([[s/_something|something]]) [[i/_into|into]] two or [[m/_more|more]] [[p/_parts|parts]].**
 	- _Example: a wall divides two houses; a stream divides the towns_
 - **To [[s/_share|share]] ([[s/_something|something]]) by [[d/_dividing|dividing]] it.**
 	- _Example: How shall we divide this pie?_
@@ -28,7 +28,7 @@
 - **To vote, as in the [[b/_british|British]] [[p/_parliament|parliament]] and [[o/_other|other]] [[l/_legislatures|legislatures]], by the [[m/_members|members]] [[s/_separating|separating]] themselves [[i/_into|into]] two [[p/_parties|parties]] (as on [[o/_opposite|opposite]] [[s/_sides|sides]] of the [[h/_hall|hall]] or in [[o/_opposite|opposite]] [[l/_lobbies|lobbies]]), that is, the [[a/_ayes|ayes]] [[d/_dividing|dividing]] from the [[n/_noes|noes]].**
 - **To [[m/_mark|mark]] [[d/_divisions|divisions]] on; to [[g/_graduate|graduate]].**
 	- _Example: to divide a sextant_
-- **To [[p/_play|play]] or [[s/_sing|sing]] in a [[f/_florid|florid]] style, or with variations.**
+- **To [[p/_play|play]] or [[s/_sing|sing]] in a [[f/_florid|florid]] [[s/_style|style]], or with variations.**
 ---
 ### Synonyms
 - [[s/_separate|separate]], [[s/_shear|shear]], [[s/_split|split]], [[s/_share|share]], [[d/_disunite|disunite]], [[p/_partition|partition]], [[s/_split|split]]

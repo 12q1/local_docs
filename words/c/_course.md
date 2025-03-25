@@ -5,11 +5,11 @@
 	- _Example: The normal course of events seems to be just one damned thing after another._
 - **A [[p/_path|path]] that [[s/_something|something]] or [[s/_someone|someone]] [[m/_moves|moves]] [[a/_along|along]].**
 	- _Example: His illness ran its course._
-- **The [[l/_lowest|lowest]] square [[s/_sail|sail]] in a [[f/_fully|fully]] [[r/_rigged|rigged]] [[m/_mast|mast]], [[o/_often|often]] [[n/_named|named]] [[a/_according|according]] to the [[m/_mast|mast]].**
+- **The [[l/_lowest|lowest]] [[s/_square|square]] [[s/_sail|sail]] in a [[f/_fully|fully]] [[r/_rigged|rigged]] [[m/_mast|mast]], [[o/_often|often]] [[n/_named|named]] [[a/_according|according]] to the [[m/_mast|mast]].**
 	- _Example: Main course and mainsail are the same thing in a sailing ship._
 - **(in the [[p/_plural|plural]], [[c/_courses|courses]]) [[m/_menses|Menses]].**
 - **A [[r/_row|row]] or [[f/_file|file]] of [[o/_objects|objects]].**
-- **[[o/_one|One]] or [[m/_more|more]] strings on [[s/_some|some]] [[m/_musical|musical]] [[i/_instruments|instruments]] (such as the [[g/_guitar|guitar]], [[l/_lute|lute]] or vihuela): [[i/_if|if]] [[m/_multiple|multiple]], then [[c/_closely|closely]] [[s/_spaced|spaced]], tuned in unison or [[o/_octaves|octaves]] and [[i/_intended|intended]] to [[p/_played|played]] together.**
+- **[[o/_one|One]] or [[m/_more|more]] [[s/_strings|strings]] on [[s/_some|some]] [[m/_musical|musical]] [[i/_instruments|instruments]] (such as the [[g/_guitar|guitar]], [[l/_lute|lute]] or vihuela): [[i/_if|if]] [[m/_multiple|multiple]], then [[c/_closely|closely]] [[s/_spaced|spaced]], tuned in unison or [[o/_octaves|octaves]] and [[i/_intended|intended]] to [[p/_played|played]] together.**
 ---
 #verb
 - **To [[r/_run|run]] or [[f/_flow|flow]] ([[e/_especially|especially]] of [[l/_liquids|liquids]] and [[m/_more|more]] [[p/_particularly|particularly]] [[b/_blood|blood]]).**

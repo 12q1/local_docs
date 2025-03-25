@@ -10,6 +10,6 @@
 - **To [[l/_let|let]] [[f/_fall|fall]] [[h/_heavily|heavily]] or [[l/_lazily|lazily]].**
 ---
 #verb
-- **To [[c/_cob|cob]] ([[c/_chip|chip]] [[o/_off|off]] unwanted [[p/_pieces|pieces]] of stone).**
+- **To [[c/_cob|cob]] ([[c/_chip|chip]] [[o/_off|off]] unwanted [[p/_pieces|pieces]] of [[s/_stone|stone]]).**
 ---
 ---

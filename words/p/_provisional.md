@@ -1,7 +1,7 @@
 # Provisional
 ---
 #noun
-- **A [[p/_postage|postage]] stamp [[i/_issued|issued]] [[l/_locally|locally]] [[b/_before|before]] an [[o/_official|official]] [[i/_issue|issue]] is [[r/_released|released]].**
+- **A [[p/_postage|postage]] [[s/_stamp|stamp]] [[i/_issued|issued]] [[l/_locally|locally]] [[b/_before|before]] an [[o/_official|official]] [[i/_issue|issue]] is [[r/_released|released]].**
 - **An [[i/_interim|interim]] [[d/_denture|denture]].**
 ---
 ### Synonyms

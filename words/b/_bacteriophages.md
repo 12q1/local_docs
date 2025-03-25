@@ -1,7 +1,7 @@
 # Bacteriophages
 ---
 #noun
-- **A virus that specifically [[i/_infects|infects]] [[b/_bacteria|bacteria]].**
+- **A virus that [[s/_specifically|specifically]] [[i/_infects|infects]] [[b/_bacteria|bacteria]].**
 ---
 ### Synonyms
 - [[p/_phage|phage]]

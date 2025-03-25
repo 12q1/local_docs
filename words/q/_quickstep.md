@@ -5,6 +5,6 @@
 ---
 #verb
 - **To [[d/_dance|dance]] the [[q/_quickstep|quickstep]].**
-- **To [[m/_move|move]] with a [[h/_hurried|hurried]] step.**
+- **To [[m/_move|move]] with a [[h/_hurried|hurried]] [[s/_step|step]].**
 ---
 ---

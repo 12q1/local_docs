@@ -1,7 +1,7 @@
 # Imperforate
 ---
 #noun
-- **A [[p/_postage|postage]] stamp that [[h/_has|has]] not [[b/_been|been]] [[p/_perforated|perforated]].**
+- **A [[p/_postage|postage]] [[s/_stamp|stamp]] that [[h/_has|has]] not [[b/_been|been]] [[p/_perforated|perforated]].**
 ---
 #adjective
 - **Not [[p/_perforated|perforated]].**

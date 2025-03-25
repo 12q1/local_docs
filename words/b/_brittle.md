@@ -8,7 +8,7 @@
 ### Synonyms
 - [[b/_brickle|brickle]]
 #adjective
-- **[[i/_inflexible|Inflexible]], [[l/_liable|liable]] to [[b/_break|break]] or [[s/_snap|snap]] [[e/_easily|easily]] under stress or [[p/_pressure|pressure]].**
+- **[[i/_inflexible|Inflexible]], [[l/_liable|liable]] to [[b/_break|break]] or [[s/_snap|snap]] [[e/_easily|easily]] under [[s/_stress|stress]] or [[p/_pressure|pressure]].**
 	- _Example: A diamond is hard but brittle._
 - **Not [[p/_physically|physically]] tough or tenacious; [[a/_apt|apt]] to [[b/_break|break]] or [[c/_crumble|crumble]] when [[b/_bending|bending]].**
 	- _Example: Shortbread is my favorite cold pastry, yet being so brittle it crumbles easily, and a lot goes to waste._

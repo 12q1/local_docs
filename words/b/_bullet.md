@@ -1,7 +1,7 @@
 # Bullet
 ---
 #noun
-- **A [[p/_projectile|projectile]], usually of [[m/_metal|metal]], [[s/_shot|shot]] from a [[g/_gun|gun]] at [[h/_high|high]] speed.**
+- **A [[p/_projectile|projectile]], usually of [[m/_metal|metal]], [[s/_shot|shot]] from a [[g/_gun|gun]] at [[h/_high|high]] [[s/_speed|speed]].**
 - **An [[e/_entire|entire]] [[r/_round|round]] of unfired [[a/_ammunition|ammunition]] for a [[f/_firearm|firearm]], [[i/_including|including]] the [[p/_projectile|projectile]], the [[c/_cartridge|cartridge]] [[c/_casing|casing]], the [[p/_propellant|propellant]] [[c/_charge|charge]], [[e/_etc|etc]].**
 - **[[a/_ammunition|Ammunition]] for a [[s/_sling|sling]] or [[s/_slingshot|slingshot]] which [[h/_has|has]] [[b/_been|been]] [[m/_manufactured|manufactured]] for such use.**
 - **A [[p/_printed|printed]] [[s/_symbol|symbol]] in the [[f/_form|form]] of a [[s/_solid|solid]] [[c/_circle|circle]], (•), [[o/_often|often]] used in [[l/_lieu|lieu]] of [[n/_numbers|numbers]] for [[m/_marking|marking]] [[i/_items|items]] in a [[l/_list|list]]. ([[s/_see|see]] [[a/_also|also]] [[b/_bulleted|bulleted]])**
@@ -11,7 +11,7 @@
 - **[[o/_one|One]] [[y/_year|year]] of [[p/_prison|prison]] time**
 - **An [[a/_ace|ace]] (the [[p/_playing|playing]] [[c/_card|card]]).**
 - **[[a/_anything|Anything]] that is [[p/_projected|projected]] [[e/_extremely|extremely]] [[f/_fast|fast]].**
-- **(in [[a/_attributive|attributive]] use) Very [[f/_fast|fast]] (speedy).**
+- **(in [[a/_attributive|attributive]] use) Very [[f/_fast|fast]] ([[s/_speedy|speedy]]).**
 	- _Example: bullet chess_
 - **A [[p/_plumb|plumb]] or [[s/_sinker|sinker]].**
 - **([[p/_particularly|particularly]] in [[n/_northern|Northern]] [[i/_ireland|Ireland]]) The [[h/_heavy|heavy]] [[p/_projectile|projectile]] thrown in a [[g/_game|game]] of [[r/_road|road]] [[b/_bowling|bowling]].**
@@ -24,9 +24,9 @@
 - [[c/_cap|cap]], [[p/_pill|pill]], [[s/_slug|slug]]
 #verb
 - **To [[d/_draw|draw]] [[a/_attention|attention]] to (text) by, or as [[i/_if|if]] by, [[p/_placing|placing]] a [[g/_graphic|graphic]] [[b/_bullet|bullet]] in [[f/_front|front]] of it.**
-- **To speed, [[l/_like|like]] a [[b/_bullet|bullet]].**
+- **To [[s/_speed|speed]], [[l/_like|like]] a [[b/_bullet|bullet]].**
 	- _Example: Their debut started slow, but bulleted to number six in its fourth week._
-- **To [[m/_make|make]] a [[s/_shot|shot]], [[e/_especially|especially]] with [[g/_great|great]] speed.**
+- **To [[m/_make|make]] a [[s/_shot|shot]], [[e/_especially|especially]] with [[g/_great|great]] [[s/_speed|speed]].**
 	- _Example: He bulleted a header for his first score of the season._
 ---
 ---

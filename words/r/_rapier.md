@@ -1,7 +1,7 @@
 # Rapier
 ---
 #noun
-- **A [[s/_slender|slender]], straight, [[s/_sharply|sharply]] [[p/_pointed|pointed]] sword ([[d/_double|double]]-[[e/_edged|edged]], [[s/_single|single]]-[[e/_edged|edged]] or [[e/_edgeless|edgeless]]).**
+- **A [[s/_slender|slender]], [[s/_straight|straight]], [[s/_sharply|sharply]] [[p/_pointed|pointed]] sword ([[d/_double|double]]-[[e/_edged|edged]], [[s/_single|single]]-[[e/_edged|edged]] or [[e/_edgeless|edgeless]]).**
 ---
 #adjective
 - **[[e/_extremely|Extremely]] [[s/_sharp|sharp]].**

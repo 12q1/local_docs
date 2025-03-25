@@ -22,7 +22,7 @@
 - **([[o/_often|often]] used with "[[o/_out|out]] of" or "[[o/_off|off]]") To [[p/_push|push]], to [[p/_press|press]], to [[s/_shove|shove]].**
 	- _Example: They tried to crowd her off the sidewalk._
 - **To [[a/_approach|approach]] [[a/_another|another]] [[s/_ship|ship]] too [[c/_closely|closely]] when it [[h/_has|has]] [[r/_right|right]] of way.**
-- **(of a square-[[r/_rigged|rigged]] [[s/_ship|ship]]) To [[c/_carry|carry]] [[e/_excessive|excessive]] [[s/_sail|sail]] in the [[h/_hope|hope]] of [[m/_moving|moving]] [[f/_faster|faster]].**
+- **(of a [[s/_square|square]]-[[r/_rigged|rigged]] [[s/_ship|ship]]) To [[c/_carry|carry]] [[e/_excessive|excessive]] [[s/_sail|sail]] in the [[h/_hope|hope]] of [[m/_moving|moving]] [[f/_faster|faster]].**
 - **To [[p/_press|press]] by [[s/_solicitation|solicitation]]; to urge; to [[d/_dun|dun]]; [[h/_hence|hence]], to treat [[d/_discourteously|discourteously]] or unreasonably.**
 ---
 ### Synonyms
@@ -34,7 +34,7 @@
 - **To [[p/_play|play]] on a [[c/_crowd|crowd]]; to [[f/_fiddle|fiddle]].**
 ---
 #noun
-- **An [[a/_archaic|archaic]] stringed [[i/_instrument|instrument]] [[a/_associated|associated]] [[p/_particularly|particularly]] with Wales, though [[o/_once|once]] [[p/_played|played]] widely in [[e/_europe|Europe]], and [[c/_characterized|characterized]] by a vaulted [[b/_back|back]] and [[e/_enough|enough]] [[s/_space|space]] for the [[p/_player|player]] to stop [[e/_each|each]] of the [[s/_six|six]] strings on the [[f/_fingerboard|fingerboard]].**
+- **An [[a/_archaic|archaic]] [[s/_stringed|stringed]] [[i/_instrument|instrument]] [[a/_associated|associated]] [[p/_particularly|particularly]] with Wales, though [[o/_once|once]] [[p/_played|played]] widely in [[e/_europe|Europe]], and [[c/_characterized|characterized]] by a vaulted [[b/_back|back]] and [[e/_enough|enough]] [[s/_space|space]] for the [[p/_player|player]] to [[s/_stop|stop]] [[e/_each|each]] of the [[s/_six|six]] [[s/_strings|strings]] on the [[f/_fingerboard|fingerboard]].**
 ---
 ### Synonyms
 - [[r/_rote|rote]]

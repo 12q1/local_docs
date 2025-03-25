@@ -1,7 +1,7 @@
 # Recanting
 ---
 #verb
-- **To withdraw or [[r/_repudiate|repudiate]] a statement or [[o/_opinion|opinion]] [[f/_formerly|formerly]] [[e/_expressed|expressed]], [[e/_especially|especially]] [[f/_formally|formally]] and [[p/_publicly|publicly]].**
+- **To withdraw or [[r/_repudiate|repudiate]] a [[s/_statement|statement]] or [[o/_opinion|opinion]] [[f/_formerly|formerly]] [[e/_expressed|expressed]], [[e/_especially|especially]] [[f/_formally|formally]] and [[p/_publicly|publicly]].**
 	- _Example: Convince me that I am wrong, and I will recant._
 ---
 ### Synonyms

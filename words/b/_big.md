@@ -1,7 +1,7 @@
 # Big
 ---
 #noun
-- **[[s/_someone|Someone]] or [[s/_something|something]] that is [[l/_large|large]] in stature**
+- **[[s/_someone|Someone]] or [[s/_something|something]] that is [[l/_large|large]] in [[s/_stature|stature]]**
 - **An [[i/_important|important]] or [[p/_powerful|powerful]] [[p/_person|person]]; a [[c/_celebrity|celebrity]]; a [[b/_big|big]] [[n/_name|name]].**
 - **(as [[p/_plural|plural]]) The [[b/_big|big]] [[l/_leagues|leagues]], [[b/_big|big]] time.**
 - **(BDSM) The [[p/_participant|participant]] in ageplay who [[a/_acts|acts]] [[o/_out|out]] the [[o/_older|older]] [[r/_role|role]].**

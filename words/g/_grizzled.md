@@ -11,7 +11,7 @@
 #adjective
 - **[[g/_greyed|Greyed]], [[o/_old|old]]**
 - **[[g/_grey|Grey]] or [[p/_partly|partly]] [[g/_grey|grey]]**
-- **Streaked or [[m/_mixed|mixed]] with [[g/_grey|grey]]; [[g/_grizzly|grizzly]]; [[g/_griseous|griseous]]**
+- **[[s/_streaked|Streaked]] or [[m/_mixed|mixed]] with [[g/_grey|grey]]; [[g/_grizzly|grizzly]]; [[g/_griseous|griseous]]**
 ---
 ### Synonyms
 - [[g/_grey-haired|grey-haired]], [[g/_grizzled|grizzled]], [[g/_grizzly|grizzly]], [[h/_hoary|hoary]]

@@ -30,7 +30,7 @@
 	- _Example: He turned the umbrella against the wind._
 - **In [[a/_anticipation|anticipation]] of; in [[p/_preparation|preparation]] for (a [[p/_particular|particular]] time, [[e/_event|event]] [[e/_etc|etc]].).**
 	- _Example: The stores are kept well stocked against a time of need._
-- **([[h/_hollywood|Hollywood]]) To be [[p/_paid|paid]] [[n/_now|now]] in [[c/_contrast|contrast]] to the [[f/_following|following]] [[a/_amount|amount]] to be [[p/_paid|paid]] [[l/_later|later]] under specified [[c/_circumstances|circumstances]], usually that a [[m/_movie|movie]] is [[m/_made|made]] or [[h/_has|has]] started [[f/_filming|filming]].**
+- **([[h/_hollywood|Hollywood]]) To be [[p/_paid|paid]] [[n/_now|now]] in [[c/_contrast|contrast]] to the [[f/_following|following]] [[a/_amount|amount]] to be [[p/_paid|paid]] [[l/_later|later]] under [[s/_specified|specified]] [[c/_circumstances|circumstances]], usually that a [[m/_movie|movie]] is [[m/_made|made]] or [[h/_has|has]] [[s/_started|started]] [[f/_filming|filming]].**
 	- _Example: The studio weren't sure the movie would ever get made, so they only paid $50,000 against $200,000. That way they wouldn't be out very much if filming never began._
 - **[[e/_exposed|Exposed]] to.**
 ---

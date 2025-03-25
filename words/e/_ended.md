@@ -7,6 +7,6 @@
 	- _Example: The referee blew the whistle to end the game._
 ---
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] (a specified [[k/_kind|kind]] or [[n/_number|number]] of) [[e/_ends|ends]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] (a [[s/_specified|specified]] [[k/_kind|kind]] or [[n/_number|number]] of) [[e/_ends|ends]].**
 ---
 ---

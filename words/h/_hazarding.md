@@ -6,6 +6,6 @@
 	- _Example: I'll hazard a guess._
 ---
 #noun
-- **[[s/_something|Something]] [[h/_hazarded|hazarded]] or ventured; a [[g/_guess|guess]] or speculation.**
+- **[[s/_something|Something]] [[h/_hazarded|hazarded]] or ventured; a [[g/_guess|guess]] or [[s/_speculation|speculation]].**
 ---
 ---

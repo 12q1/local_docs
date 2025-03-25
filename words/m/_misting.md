@@ -3,7 +3,7 @@
 #verb
 - **To [[f/_form|form]] [[m/_mist|mist]].**
 	- _Example: It's misting this morning._
-- **To spray [[f/_fine|fine]] [[d/_droplets|droplets]] on, [[p/_particularly|particularly]] of water.**
+- **To [[s/_spray|spray]] [[f/_fine|fine]] [[d/_droplets|droplets]] on, [[p/_particularly|particularly]] of water.**
 	- _Example: I mist my tropical plants every morning._
 - **To [[c/_cover|cover]] with a [[m/_mist|mist]].**
 	- _Example: The lens was misted._
@@ -11,6 +11,6 @@
 	- _Example: My eyes misted when I remembered what had happened._
 ---
 #noun
-- **The [[a/_application|application]] of a spray of [[f/_fine|fine]] [[d/_droplets|droplets]].**
+- **The [[a/_application|application]] of a [[s/_spray|spray]] of [[f/_fine|fine]] [[d/_droplets|droplets]].**
 ---
 ---

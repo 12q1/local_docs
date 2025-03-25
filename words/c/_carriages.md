@@ -10,7 +10,7 @@
 - **[[o/_one|One]]'[[s/_s|s]] [[b/_behaviour|behaviour]], or way of [[c/_conducting|conducting]] [[o/_oneself|oneself]] towards [[o/_others|others]].**
 - **The [[p/_part|part]] of a typewriter supporting the [[p/_paper|paper]].**
 - **A [[s/_shopping|shopping]] [[c/_cart|cart]].**
-- **A stroller; a [[b/_baby|baby]] [[c/_carriage|carriage]].**
+- **A [[s/_stroller|stroller]]; a [[b/_baby|baby]] [[c/_carriage|carriage]].**
 - **The [[c/_charge|charge]] [[m/_made|made]] for [[c/_conveying|conveying]] ([[e/_especially|especially]] in the [[p/_phrases|phrases]] [[c/_carriage|carriage]] [[f/_forward|forward]], when the [[c/_charge|charge]] is to be [[p/_paid|paid]] by the [[r/_receiver|receiver]], and [[c/_carriage|carriage]] [[p/_paid|paid]]).**
 - **That which is [[c/_carried|carried]], [[b/_baggage|baggage]]**
 ---

@@ -9,9 +9,9 @@
 - **(of a vessel) To [[l/_lie|lie]] uneasily to an [[a/_anchor|anchor]], typically [[d/_due|due]] to a weather tide.**
 ---
 #adjective
-- **In a [[p/_position|position]] [[r/_relative|relative]] to the [[c/_course|course]] and [[p/_position|position]] of a vessel, [[s/_somewhat|somewhat]] [[f/_forward|forward]] of the stem.**
+- **In a [[p/_position|position]] [[r/_relative|relative]] to the [[c/_course|course]] and [[p/_position|position]] of a vessel, [[s/_somewhat|somewhat]] [[f/_forward|forward]] of the [[s/_stem|stem]].**
 ---
 #adverb
-- **(of a vessel) [[l/_lying|Lying]] to two [[a/_anchors|anchors]], streamed from [[e/_either|either]] [[b/_bow|bow]].**
+- **(of a vessel) [[l/_lying|Lying]] to two [[a/_anchors|anchors]], [[s/_streamed|streamed]] from [[e/_either|either]] [[b/_bow|bow]].**
 ---
 ---

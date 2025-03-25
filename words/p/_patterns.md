@@ -4,8 +4,8 @@
 - **[[m/_model|Model]], [[e/_example|example]].**
 - **A [[d/_design|design]], [[m/_motif|motif]] or [[d/_decoration|decoration]], [[e/_especially|especially]] [[f/_formed|formed]] from [[r/_regular|regular]] [[r/_repeated|repeated]] [[e/_elements|elements]].**
 - **A [[n/_naturally|naturally]]-[[o/_occurring|occurring]] or [[r/_random|random]] [[a/_arrangement|arrangement]] of [[s/_shapes|shapes]], [[c/_colours|colours]] [[e/_etc|etc]]. which [[h/_have|have]] a [[r/_regular|regular]] or [[d/_decorative|decorative]] [[e/_effect|effect]].**
-- **The [[g/_given|given]] spread, [[r/_range|range]] [[e/_etc|etc]]. of [[s/_shot|shot]] [[f/_fired|fired]] from a [[g/_gun|gun]].**
-- **A [[p/_particular|particular]] [[s/_sequence|sequence]] of [[e/_events|events]], [[f/_facts|facts]] [[e/_etc|etc]]. which [[c/_can|can]] be understood, used to [[p/_predict|predict]] the [[f/_future|future]], or [[s/_seen|seen]] to [[h/_have|have]] a [[m/_mathematical|mathematical]], [[g/_geometric|geometric]], statistical [[e/_etc|etc]]. [[r/_relationship|relationship]].**
+- **The [[g/_given|given]] [[s/_spread|spread]], [[r/_range|range]] [[e/_etc|etc]]. of [[s/_shot|shot]] [[f/_fired|fired]] from a [[g/_gun|gun]].**
+- **A [[p/_particular|particular]] [[s/_sequence|sequence]] of [[e/_events|events]], [[f/_facts|facts]] [[e/_etc|etc]]. which [[c/_can|can]] be understood, used to [[p/_predict|predict]] the [[f/_future|future]], or [[s/_seen|seen]] to [[h/_have|have]] a [[m/_mathematical|mathematical]], [[g/_geometric|geometric]], [[s/_statistical|statistical]] [[e/_etc|etc]]. [[r/_relationship|relationship]].**
 - **An [[i/_intelligible|intelligible]] [[a/_arrangement|arrangement]] in a [[g/_given|given]] [[a/_area|area]] of [[l/_language|language]].**
 - **A [[s/_sequence|sequence]] of [[n/_notes|notes]], [[p/_percussion|percussion]] [[e/_etc|etc]]. in a tracker [[m/_module|module]], usable [[o/_once|once]] or [[m/_many|many]] times within the [[s/_song|song]].**
 ---

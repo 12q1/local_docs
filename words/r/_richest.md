@@ -16,7 +16,7 @@
 	- _Example: The scene was a rich one._
 - **[[r/_ridiculous|Ridiculous]], [[a/_absurd|absurd]], [[o/_outrageous|outrageous]], [[p/_preposterous|preposterous]].**
 - **[[e/_elaborate|Elaborate]], [[h/_having|having]] [[c/_complex|complex]] [[f/_formatting|formatting]], [[m/_multimedia|multimedia]], or [[d/_depth|depth]] of [[i/_interaction|interaction]].**
-- **Of a [[f/_fuel|fuel]]-[[a/_air|air]] [[m/_mixture|mixture]], [[h/_having|having]] [[l/_less|less]] [[a/_air|air]] than is [[n/_necessary|necessary]] to [[b/_burn|burn]] [[a/_all|all]] of the [[f/_fuel|fuel]]; [[l/_less|less]] [[a/_air|air]]- or [[o/_oxygen|oxygen]]- [[r/_rich|rich]] than [[n/_necessary|necessary]] for a stoichiometric [[r/_reaction|reaction]].**
+- **Of a [[f/_fuel|fuel]]-[[a/_air|air]] [[m/_mixture|mixture]], [[h/_having|having]] [[l/_less|less]] [[a/_air|air]] than is [[n/_necessary|necessary]] to [[b/_burn|burn]] [[a/_all|all]] of the [[f/_fuel|fuel]]; [[l/_less|less]] [[a/_air|air]]- or [[o/_oxygen|oxygen]]- [[r/_rich|rich]] than [[n/_necessary|necessary]] for a [[s/_stoichiometric|stoichiometric]] [[r/_reaction|reaction]].**
 - **Trading at a [[p/_price|price]] [[l/_level|level]] which is [[h/_high|high]] [[r/_relative|relative]] to [[h/_historical|historical]] trends, a [[s/_similar|similar]] [[a/_asset|asset]], or (for [[d/_derivatives|derivatives]]) a theoretical value.**
 ---
 ### Synonyms

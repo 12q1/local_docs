@@ -8,7 +8,7 @@
 - **A topic.**
 - **A [[f/_frame|frame]] of [[m/_mind|mind]].**
 	- _Example: I'm in a strange place at the moment._
-- **A [[c/_chess|chess]] [[p/_position|position]]; a square of the [[c/_chessboard|chessboard]].**
+- **A [[c/_chess|chess]] [[p/_position|position]]; a [[s/_square|square]] of the [[c/_chessboard|chessboard]].**
 - **([[s/_social|social]]) A [[r/_responsibility|responsibility]] or [[p/_position|position]] in an [[o/_organization|organization]].**
 - **A [[f/_fortified|fortified]] [[p/_position|position]]: a [[f/_fortress|fortress]], [[c/_citadel|citadel]], or walled town.**
 - **[[n/_numerically|Numerically]], the [[c/_column|column]] [[c/_counting|counting]] a [[c/_certain|certain]] [[q/_quantity|quantity]].**

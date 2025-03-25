@@ -8,7 +8,7 @@
 - **A [[j/_jigsaw|jigsaw]] [[p/_puzzle|puzzle]].**
 - **A [[r/_riddle|riddle]].**
 - **[[s/_something|Something]] [[m/_made|made]] with [[m/_marvellous|marvellous]] [[s/_skill|skill]]; [[s/_something|something]] of [[i/_ingenious|ingenious]] [[c/_construction|construction]].**
-- **The state of [[b/_being|being]] [[p/_puzzled|puzzled]]; [[p/_perplexity|perplexity]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[p/_puzzled|puzzled]]; [[p/_perplexity|perplexity]].**
 	- _Example: to be in a puzzle_
 ---
 ### Synonyms

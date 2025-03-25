@@ -14,7 +14,7 @@
 	- _Example: I’m boiling in here – could you open the window?_
 - **To [[f/_form|form]], or [[s/_separate|separate]], by [[b/_boiling|boiling]] or [[e/_evaporation|evaporation]].**
 	- _Example: to boil sugar or salt_
-- **To steep or [[s/_soak|soak]] in warm water.**
+- **To [[s/_steep|steep]] or [[s/_soak|soak]] in warm water.**
 - **To be [[a/_agitated|agitated]] [[l/_like|like]] [[b/_boiling|boiling]] water; to [[b/_bubble|bubble]]; to [[e/_effervesce|effervesce]].**
 	- _Example: the boiling waves of the sea_
 - **To be [[m/_moved|moved]] or [[e/_excited|excited]] with [[p/_passion|passion]]; to be [[h/_hot|hot]] or [[f/_fervid|fervid]].**

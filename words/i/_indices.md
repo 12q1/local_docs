@@ -13,7 +13,7 @@
 - **A [[n/_number|number]] [[r/_representing|representing]] a [[p/_property|property]] or [[r/_ratio|ratio]], a [[c/_coefficient|coefficient]].**
 - **A [[r/_raised|raised]] suffix [[i/_indicating|indicating]] a [[p/_power|power]].**
 - **An [[i/_integer|integer]] or [[o/_other|other]] [[k/_key|key]] [[i/_indicating|indicating]] the [[l/_location|location]] of [[d/_data|data]] [[e/_e|e]].[[g/_g|g]]. within an [[a/_array|array]], vector, [[d/_database|database]] table, [[a/_associative|associative]] [[a/_array|array]], or [[h/_hash|hash]] table.**
-- **A [[d/_data|data]] structure that [[i/_improves|improves]] the [[p/_performance|performance]] of [[o/_operations|operations]] on a table.**
+- **A [[d/_data|data]] [[s/_structure|structure]] that [[i/_improves|improves]] the [[p/_performance|performance]] of [[o/_operations|operations]] on a table.**
 - **A [[p/_prologue|prologue]] [[i/_indicating|indicating]] what [[f/_follows|follows]].**
 ---
 ### Synonyms

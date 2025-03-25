@@ -1,7 +1,7 @@
 # Pouncing
 ---
 #verb
-- **To sprinkle or [[r/_rub|rub]] with [[p/_pounce|pounce]] [[p/_powder|powder]].**
+- **To [[s/_sprinkle|sprinkle]] or [[r/_rub|rub]] with [[p/_pounce|pounce]] [[p/_powder|powder]].**
 	- _Example: to pounce paper, or a pattern_
 ---
 #verb
@@ -11,8 +11,8 @@
 	- _Example: I was awakened from a dead sleep by my child pouncing on top of me from out of nowhere._
 - **To [[e/_eagerly|eagerly]] [[s/_seize|seize]] an [[o/_opportunity|opportunity]].**
 	- _Example: I pounced on the chance to get promoted._
-- **To strike or [[s/_seize|seize]] with the talons; to [[p/_pierce|pierce]], as with the talons.**
-- **To stamp [[h/_holes|holes]] in; to [[p/_perforate|perforate]].**
+- **To [[s/_strike|strike]] or [[s/_seize|seize]] with the talons; to [[p/_pierce|pierce]], as with the talons.**
+- **To [[s/_stamp|stamp]] [[h/_holes|holes]] in; to [[p/_perforate|perforate]].**
 ---
 ### Synonyms
 - [[a/_attack|attack]], [[s/_strike|strike]], [[b/_bounce|bounce]], [[j/_jump|jump]], [[l/_leap|leap]]

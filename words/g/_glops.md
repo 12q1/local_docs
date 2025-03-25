@@ -1,7 +1,7 @@
 # Glops
 ---
 #verb
-- **To stare in [[a/_amazement|amazement]].**
+- **To [[s/_stare|stare]] in [[a/_amazement|amazement]].**
 ---
 #noun
 - **[[a/_any|Any]] [[g/_gooey|gooey]] substance.**

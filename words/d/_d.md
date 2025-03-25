@@ -16,8 +16,8 @@
 	- _Example: He went down to Cavan._
 - **At or towards [[a/_any|any]] [[p/_place|place]] that is visualised as '[[d/_down|down]]' by virtue of [[l/_local|local]] [[f/_features|features]] or [[l/_local|local]] [[c/_convention|convention]], or [[a/_arbitrarily|arbitrarily]], [[i/_irrespective|irrespective]] of [[d/_direction|direction]] or [[e/_elevation|elevation]] [[c/_change|change]].**
 	- _Example: She lives down by the park._
-- **Towards the [[o/_opponent|opponent]]'[[s/_s|s]] [[s/_side|side]] (in [[b/_ball|ball]]-sports).**
-- **[[i/_into|Into]] a state of [[n/_non|non]]-[[o/_operation|operation]].**
+- **Towards the [[o/_opponent|opponent]]'[[s/_s|s]] [[s/_side|side]] (in [[b/_ball|ball]]-[[s/_sports|sports]]).**
+- **[[i/_into|Into]] a [[s/_state|state]] of [[n/_non|non]]-[[o/_operation|operation]].**
 	- _Example: The computer has been shut down._
 - **To a subordinate or [[l/_less|less]] [[p/_prestigious|prestigious]] [[p/_position|position]] or [[r/_rank|rank]].**
 	- _Example: After the incident, Kelly went down to Second Lieutenant._
@@ -38,7 +38,7 @@
 	- _Example: We need to nail down this carpet so people don't keep tripping over it._
 - **([[i/_intensifier|intensifier]]) Used with verbs to [[a/_add|add]] [[e/_emphasis|emphasis]] to the [[a/_action|action]] of the verb.**
 	- _Example: They tamped (down) the asphalt to get a better bond._
-- **Used with verbs to [[i/_indicate|indicate]] that the [[a/_action|action]] of the verb was [[c/_carried|carried]] to [[s/_some|some]] state of [[c/_completion|completion]], [[r/_rather|rather]] than [[b/_being|being]] of [[i/_indefinite|indefinite]] [[d/_duration|duration]].**
+- **Used with verbs to [[i/_indicate|indicate]] that the [[a/_action|action]] of the verb was [[c/_carried|carried]] to [[s/_some|some]] [[s/_state|state]] of [[c/_completion|completion]], [[r/_rather|rather]] than [[b/_being|being]] of [[i/_indefinite|indefinite]] [[d/_duration|duration]].**
 	- _Example: He boiled the mixture. / He boiled down the mixture._
 ---
 ### Antonyms

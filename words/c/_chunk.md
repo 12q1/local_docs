@@ -7,7 +7,7 @@
 	- _Example: a chunk of granite_
 - **A [[s/_sequence|sequence]] of two or [[m/_more|more]] words that [[o/_occur|occur]] in [[l/_language|language]] with [[h/_high|high]] [[f/_frequency|frequency]] but are not [[i/_idiomatic|idiomatic]]; a [[b/_bundle|bundle]] or [[c/_cluster|cluster]].**
 	- _Example: examples of chunks would include "in accordance with", "the results of", and "so far"_
-- **A [[d/_discrete|discrete]] [[s/_segment|segment]] of a [[f/_file|file]], stream, [[e/_etc|etc]]. ([[e/_especially|especially]] [[o/_one|one]] that [[r/_represents|represents]] [[a/_audiovisual|audiovisual]] [[m/_media|media]]); a [[b/_block|block]].**
+- **A [[d/_discrete|discrete]] [[s/_segment|segment]] of a [[f/_file|file]], [[s/_stream|stream]], [[e/_etc|etc]]. ([[e/_especially|especially]] [[o/_one|one]] that [[r/_represents|represents]] [[a/_audiovisual|audiovisual]] [[m/_media|media]]); a [[b/_block|block]].**
 - **A [[s/_segment|segment]] of a [[c/_comedian|comedian]]'[[s/_s|s]] [[p/_performance|performance]]**
 ---
 #verb

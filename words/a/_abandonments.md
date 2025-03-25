@@ -1,10 +1,10 @@
 # Abandonments
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_abandoning|abandoning]], or the state of [[b/_being|being]] [[a/_abandoned|abandoned]]; total [[d/_desertion|desertion]]; [[r/_relinquishment|relinquishment]].**
-- **The voluntary [[l/_leaving|leaving]] of a [[p/_person|person]] to whom [[o/_one|one]] is [[b/_bound|bound]] by a special [[r/_relation|relation]], as a wife, [[h/_husband|husband]] or [[c/_child|child]]; [[d/_desertion|desertion]].**
+- **The [[a/_act|act]] of [[a/_abandoning|abandoning]], or the [[s/_state|state]] of [[b/_being|being]] [[a/_abandoned|abandoned]]; total [[d/_desertion|desertion]]; [[r/_relinquishment|relinquishment]].**
+- **The voluntary [[l/_leaving|leaving]] of a [[p/_person|person]] to whom [[o/_one|one]] is [[b/_bound|bound]] by a [[s/_special|special]] [[r/_relation|relation]], as a wife, [[h/_husband|husband]] or [[c/_child|child]]; [[d/_desertion|desertion]].**
 	- _Example: Since he left her, she's suing him for divorce on grounds of abandonment._
-- **An [[a/_abandoned|abandoned]] [[b/_building|building]] or structure.**
+- **An [[a/_abandoned|abandoned]] [[b/_building|building]] or [[s/_structure|structure]].**
 	- _Example: High-profile abandonments are harder to infiltrate for urban explorers due to their heightened security._
 - **The [[r/_relinquishment|relinquishment]] of a [[r/_right|right]], [[c/_claim|claim]], or [[p/_privilege|privilege]]; [[r/_relinquishment|relinquishment]] of [[r/_right|right]] to [[s/_secure|secure]] a [[p/_patent|patent]] by an [[i/_inventor|inventor]]; [[r/_relinquishment|relinquishment]] of [[c/_copyright|copyright]] by an [[a/_author|author]].**
 - **The [[r/_relinquishment|relinquishment]] by the [[i/_insured|insured]] to the underwriters of what [[m/_may|may]] [[r/_remain|remain]] of the [[p/_property|property]] [[i/_insured|insured]] [[a/_after|after]] a [[l/_loss|loss]] or [[d/_damage|damage]] by a [[p/_peril|peril]] [[i/_insured|insured]] [[a/_against|against]].**

@@ -9,11 +9,11 @@
 ### Synonyms
 - [[d/_drivel|drivel]], [[s/_sperg|sperg]]
 #noun
-- **A [[l/_long|long]] [[m/_meandering|meandering]] talk with [[n/_no|no]] specific topic or [[d/_direction|direction]].**
+- **A [[l/_long|long]] [[m/_meandering|meandering]] talk with [[n/_no|no]] [[s/_specific|specific]] topic or [[d/_direction|direction]].**
 - **A [[g/_gentle|gentle]] [[h/_hike|hike]].**
 ---
 #adjective
-- **Of a speech: [[m/_meandering|meandering]], [[l/_long|long]] and [[d/_digressing|digressing]].**
+- **Of a [[s/_speech|speech]]: [[m/_meandering|meandering]], [[l/_long|long]] and [[d/_digressing|digressing]].**
 - **[[c/_confused|Confused]] and [[i/_irregular|irregular]]; [[a/_awkward|awkward]].**
 ---
 ### Synonyms

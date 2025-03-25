@@ -1,6 +1,6 @@
 # Sledgehammering
 ---
 #verb
-- **To strike with a [[s/_sledgehammer|sledgehammer]].**
+- **To [[s/_strike|strike]] with a [[s/_sledgehammer|sledgehammer]].**
 ---
 ---

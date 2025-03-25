@@ -17,7 +17,7 @@
 ---
 #noun
 - **An [[a/_ancient|ancient]] or [[m/_medieval|medieval]] [[f/_fortification|fortification]]; [[e/_especially|especially]] a [[h/_hill|hill]]-[[f/_fort|fort]] in [[s/_scotland|Scotland]] or [[i/_ireland|Ireland]].**
-- **A structure in the Orkney or [[s/_shetland|Shetland]] [[i/_islands|islands]] or in [[s/_scotland|Scotland]] [[c/_consisting|consisting]] of a [[r/_roundhouse|roundhouse]] surrounded by a [[c/_circular|circular]] wall; a [[b/_broch|broch]].**
+- **A [[s/_structure|structure]] in the Orkney or [[s/_shetland|Shetland]] [[i/_islands|islands]] or in [[s/_scotland|Scotland]] [[c/_consisting|consisting]] of a [[r/_roundhouse|roundhouse]] surrounded by a [[c/_circular|circular]] wall; a [[b/_broch|broch]].**
 ---
 #verb
 - **To [[c/_cure|cure]], as [[c/_codfish|codfish]], by [[l/_laying|laying]] them, [[a/_after|after]] [[s/_salting|salting]], in a [[p/_pile|pile]] in a [[d/_dark|dark]] [[p/_place|place]], [[c/_covered|covered]] with [[s/_saltgrass|saltgrass]] or a [[s/_similar|similar]] substance.**

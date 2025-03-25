@@ -1,7 +1,7 @@
 # Halalas
 ---
 #noun
-- **A wedlease (temporary [[m/_marriage|marriage]]) to a stranger undertaken [[p/_prior|prior]] to [[r/_remarriage|remarriage]] to an [[e/_ex|ex]], that is to [[m/_make|make]] the [[r/_remarriage|remarriage]] [[h/_halal|halal]], or the woman [[h/_halala|halala]] ([[f/_f|f]]) to [[m/_marry|marry]].**
+- **A wedlease (temporary [[m/_marriage|marriage]]) to a [[s/_stranger|stranger]] undertaken [[p/_prior|prior]] to [[r/_remarriage|remarriage]] to an [[e/_ex|ex]], that is to [[m/_make|make]] the [[r/_remarriage|remarriage]] [[h/_halal|halal]], or the woman [[h/_halala|halala]] ([[f/_f|f]]) to [[m/_marry|marry]].**
 ---
 #noun
 - **A [[m/_monetary|monetary]] unit of [[s/_saudi|Saudi]] [[a/_arabia|Arabia]] [[e/_equal|equal]] to [[o/_one|one]] [[h/_hundredth|hundredth]] of a [[r/_riyal|riyal]].**

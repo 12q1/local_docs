@@ -12,6 +12,6 @@
 ### Synonyms
 - [[a/_accomplish|accomplish]], [[c/_complete|complete]], [[e/_effect|effect]], [[e/_execute|execute]], [[f/_fulfil|fulfil]], [[f/_fulfill|fulfill]], [[o/_obtain|obtain]], [[p/_perform|perform]], [[r/_realize|realize]]
 #adjective
-- **(of a [[g/_goal|goal]] or status) [[h/_having|Having]] [[b/_been|been]] [[r/_reached|reached]], [[a/_attained|attained]] or [[a/_accomplished|accomplished]].**
+- **(of a [[g/_goal|goal]] or [[s/_status|status]]) [[h/_having|Having]] [[b/_been|been]] [[r/_reached|reached]], [[a/_attained|attained]] or [[a/_accomplished|accomplished]].**
 ---
 ---

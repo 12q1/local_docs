@@ -3,7 +3,7 @@
 #noun
 - **A [[d/_device|device]] for [[m/_moving|moving]] or [[c/_compressing|compressing]] a [[l/_liquid|liquid]] or [[g/_gas|gas]].**
 	- _Example: This pump can deliver 100 gallons of water per minute._
-- **An [[i/_instance|instance]] of the [[a/_action|action]] of a [[p/_pump|pump]]; [[o/_one|one]] stroke of a [[p/_pump|pump]]; [[a/_any|any]] [[a/_action|action]] [[s/_similar|similar]] to [[p/_pumping|pumping]]**
+- **An [[i/_instance|instance]] of the [[a/_action|action]] of a [[p/_pump|pump]]; [[o/_one|one]] [[s/_stroke|stroke]] of a [[p/_pump|pump]]; [[a/_any|any]] [[a/_action|action]] [[s/_similar|similar]] to [[p/_pumping|pumping]]**
 	- _Example: It takes thirty pumps to get 10 litres; he did 50 pumps of the weights._
 - **A [[d/_device|device]] for [[d/_dispensing|dispensing]] [[l/_liquid|liquid]] or [[g/_gas|gas]] to be [[s/_sold|sold]], [[p/_particularly|particularly]] [[f/_fuel|fuel]].**
 	- _Example: This pump is out of order, but you can gas up at the next one._

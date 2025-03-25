@@ -7,7 +7,7 @@
 #adjective
 - **[[d/_disparaging|Disparaging]] or [[d/_derisive|derisive]] in an [[i/_insinuative|insinuative]] way.**
 	- _Example: Don't make snide remarks to me._
-- **Tricky; [[d/_deceptive|deceptive]]; [[f/_false|false]]; spurious; [[c/_contemptible|contemptible]].**
+- **Tricky; [[d/_deceptive|deceptive]]; [[f/_false|false]]; [[s/_spurious|spurious]]; [[c/_contemptible|contemptible]].**
 	- _Example: He was a snide lawyer._
 ---
 ---

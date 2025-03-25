@@ -8,6 +8,6 @@
 	- _Example: to price eggs_
 ---
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[p/_price|price]] of the [[k/_kind|kind]] specified.**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[p/_price|price]] of the [[k/_kind|kind]] [[s/_specified|specified]].**
 ---
 ---

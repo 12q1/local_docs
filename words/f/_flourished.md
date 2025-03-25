@@ -12,9 +12,9 @@
 	- _Example: They flourished the banner as they stormed the palace._
 - **To [[m/_make|make]] [[b/_bold|bold]] and sweeping, [[f/_fanciful|fanciful]], or wanton [[m/_movements|movements]], by way of [[o/_ornament|ornament]], [[p/_parade|parade]], [[b/_bravado|bravado]], [[e/_etc|etc]].; to [[p/_play|play]] with [[f/_fantastic|fantastic]] and [[i/_irregular|irregular]] [[m/_motion|motion]].**
 - **To use [[f/_florid|florid]] [[l/_language|language]]; to [[i/_indulge|indulge]] in [[r/_rhetorical|rhetorical]] [[f/_figures|figures]] and [[l/_lofty|lofty]] [[e/_expressions|expressions]].**
-- **To [[m/_make|make]] [[o/_ornamental|ornamental]] strokes with the [[p/_pen|pen]]; to write [[g/_graceful|graceful]], [[d/_decorative|decorative]] [[f/_figures|figures]].**
+- **To [[m/_make|make]] [[o/_ornamental|ornamental]] [[s/_strokes|strokes]] with the [[p/_pen|pen]]; to write [[g/_graceful|graceful]], [[d/_decorative|decorative]] [[f/_figures|figures]].**
 - **To [[a/_adorn|adorn]] with [[b/_beautiful|beautiful]] [[f/_figures|figures]] or [[r/_rhetoric|rhetoric]]; to [[o/_ornament|ornament]] with [[a/_anything|anything]] [[s/_showy|showy]]; to [[e/_embellish|embellish]].**
-- **To [[e/_execute|execute]] an [[i/_irregular|irregular]] or [[f/_fanciful|fanciful]] strain of [[m/_music|music]], by way of [[o/_ornament|ornament]] or [[p/_prelude|prelude]].**
+- **To [[e/_execute|execute]] an [[i/_irregular|irregular]] or [[f/_fanciful|fanciful]] [[s/_strain|strain]] of [[m/_music|music]], by way of [[o/_ornament|ornament]] or [[p/_prelude|prelude]].**
 - **To [[b/_boast|boast]]; to vaunt; to [[b/_brag|brag]].**
 ---
 #adjective

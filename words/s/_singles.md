@@ -38,7 +38,7 @@
 	- _Example: a singles bar_
 ---
 #noun
-- **[[b/_bicycle|Bicycle]] tires with the [[i/_inner|inner]] tube [[p/_permanently|permanently]] stitched [[i/_inside|inside]] the [[c/_casing|casing]].**
+- **[[b/_bicycle|Bicycle]] tires with the [[i/_inner|inner]] tube [[p/_permanently|permanently]] [[s/_stitched|stitched]] [[i/_inside|inside]] the [[c/_casing|casing]].**
 ---
 ### Synonyms
 - [[s/_sew-ups|sew-ups]], [[s/_singles|singles]], [[s/_sprints|sprints]], [[t/_tubies|tubies]]

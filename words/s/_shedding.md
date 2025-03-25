@@ -12,7 +12,7 @@
 	- _Example: Can you shed any light on this problem?_
 - **To [[p/_pour|pour]] [[f/_forth|forth]], [[g/_give|give]] [[o/_off|off]], [[i/_impart|impart]].**
 - **To [[f/_fall|fall]] in [[d/_drops|drops]]; to [[p/_pour|pour]].**
-- **To sprinkle; to [[i/_intersperse|intersperse]]; to [[c/_cover|cover]].**
+- **To [[s/_sprinkle|sprinkle]]; to [[i/_intersperse|intersperse]]; to [[c/_cover|cover]].**
 - **To [[d/_divide|divide]], as the warp threads, [[s/_so|so]] as to [[f/_form|form]] a [[s/_shed|shed]], or [[p/_passageway|passageway]], for the [[s/_shuttle|shuttle]].**
 ---
 #verb

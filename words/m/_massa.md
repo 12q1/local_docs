@@ -19,7 +19,7 @@
 - **The [[o/_original|original]] of a [[d/_document|document]] or of a [[r/_recording|recording]].**
 	- _Example: The band couldn't find the master, so they re-recorded their tracks._
 - **The [[p/_primary|primary]] wide [[s/_shot|shot]] of a [[s/_scene|scene]], [[i/_into|into]] which the [[c/_closeups|closeups]] will be [[e/_edited|edited]] [[l/_later|later]].**
-- **A parajudicial [[o/_officer|officer]] (such as a [[r/_referee|referee]], an [[a/_auditor|auditor]], an [[e/_examiner|examiner]], or an [[a/_assessor|assessor]]) specially [[a/_appointed|appointed]] to [[h/_help|help]] a [[c/_court|court]] with [[i/_its|its]] [[p/_proceedings|proceedings]].**
+- **A parajudicial [[o/_officer|officer]] (such as a [[r/_referee|referee]], an [[a/_auditor|auditor]], an [[e/_examiner|examiner]], or an [[a/_assessor|assessor]]) [[s/_specially|specially]] [[a/_appointed|appointed]] to [[h/_help|help]] a [[c/_court|court]] with [[i/_its|its]] [[p/_proceedings|proceedings]].**
 	- _Example: The case was tried by a master, who concluded that the plaintiffs were the equitable owners of the property. [...]_
 - **A [[d/_device|device]] that is [[c/_controlling|controlling]] [[o/_other|other]] [[d/_devices|devices]] or is an [[a/_authoritative|authoritative]] [[s/_source|source]].**
 	- _Example: a master database_

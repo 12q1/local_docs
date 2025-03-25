@@ -9,7 +9,7 @@
 	- _Example: Trust me, that was a setup!_
 - **An [[i/_installer|installer]].**
 	- _Example: After inserting the disk, run the setup._
-- **([[o/_operations|operations]]) The [[p/_process|process]] of [[a/_arranging|arranging]] [[r/_resources|resources]] for [[p/_performing|performing]] a specific [[o/_operation|operation]], as a [[r/_run|run]] of a [[p/_particular|particular]] [[p/_product|product]].**
+- **([[o/_operations|operations]]) The [[p/_process|process]] of [[a/_arranging|arranging]] [[r/_resources|resources]] for [[p/_performing|performing]] a [[s/_specific|specific]] [[o/_operation|operation]], as a [[r/_run|run]] of a [[p/_particular|particular]] [[p/_product|product]].**
 	- _Example: A simple setup on the bottling line involves reloading bottles and labels; emptying, cleaning, and reloading the tanks; and a test run._
 - **The tendency of [[p/_persistent|persistent]] wind to [[p/_produce|produce]] [[h/_higher|higher]] water [[l/_levels|levels]] at the [[d/_downwind|downwind]] [[s/_shore|shore]] of a [[b/_body|body]] of water and [[l/_lower|lower]] at the upwind [[s/_shore|shore]].**
 	- _Example: There was a strong wind setup at the south end of the lake after a day of northerly gales._

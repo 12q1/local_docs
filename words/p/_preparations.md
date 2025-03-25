@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[p/_preparing|preparing]] or [[g/_getting|getting]] [[r/_ready|ready]].**
-- **The state of [[b/_being|being]] [[p/_prepared|prepared]]; [[r/_readiness|readiness]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[p/_prepared|prepared]]; [[r/_readiness|readiness]].**
 - **That which is [[p/_prepared|prepared]].**
 - **The [[d/_day|day]] [[b/_before|before]] the [[s/_sabbath|Sabbath]] or [[o/_other|other]] [[j/_jewish|Jewish]] [[f/_feast|feast]]-[[d/_day|day]].**
 - **[[d/_devotional|Devotional]] [[e/_exercises|exercises]] [[i/_introducing|introducing]] an [[o/_office|office]].**

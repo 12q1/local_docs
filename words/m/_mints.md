@@ -13,7 +13,7 @@
 - **To [[i/_invent|invent]]; to [[f/_forge|forge]]; to [[f/_fabricate|fabricate]]; to [[f/_fashion|fashion]].**
 ---
 #noun
-- **[[a/_any|Any]] [[p/_plant|plant]] in the [[g/_genus|genus]] [[m/_mentha|Mentha]] in the [[f/_family|family]] [[l/_lamiaceae|Lamiaceae]], typically [[a/_aromatic|aromatic]] with square stems.**
+- **[[a/_any|Any]] [[p/_plant|plant]] in the [[g/_genus|genus]] [[m/_mentha|Mentha]] in the [[f/_family|family]] [[l/_lamiaceae|Lamiaceae]], typically [[a/_aromatic|aromatic]] with [[s/_square|square]] [[s/_stems|stems]].**
 - **The [[f/_flavouring|flavouring]] of the [[p/_plant|plant]], [[e/_either|either]] a sweet, a [[j/_jelly|jelly]] or [[s/_sauce|sauce]].**
 - **[[a/_any|Any]] [[p/_plant|plant]] in the [[m/_mint|mint]] [[f/_family|family]], [[l/_lamiaceae|Lamiaceae]].**
 - **A [[g/_green|green]] [[c/_colour|colour]], [[l/_like|like]] that of [[m/_mint|mint]].**

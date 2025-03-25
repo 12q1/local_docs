@@ -3,7 +3,7 @@
 #noun
 - **[[s/_something|Something]] which [[c/_clips|clips]] or [[g/_grasps|grasps]]; a [[d/_device|device]] for [[a/_attaching|attaching]] [[o/_one|one]] [[o/_object|object]] to [[a/_another|another]].**
 	- _Example: Use this clip to attach the check to your tax form._
-- **An unspecified but [[n/_normally|normally]] understood as [[r/_rapid|rapid]] speed or [[p/_pace|pace]].**
+- **An unspecified but [[n/_normally|normally]] understood as [[r/_rapid|rapid]] [[s/_speed|speed]] or [[p/_pace|pace]].**
 	- _Example: He was walking at a fair clip and I was out of breath trying to keep up._
 - **An [[e/_embrace|embrace]].**
 - **A [[f/_frame|frame]] [[c/_containing|containing]] a [[n/_number|number]] of [[b/_bullets|bullets]] which is [[i/_intended|intended]] to be [[i/_inserted|inserted]] [[i/_into|into]] the [[m/_magazine|magazine]] of a [[f/_firearm|firearm]] to [[a/_allow|allow]] for [[r/_rapid|rapid]] [[r/_reloading|reloading]].**

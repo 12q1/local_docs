@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[f/_female|female]] [[c/_chicken|chicken]] ([[g/_gallus|Gallus]] [[g/_gallus|gallus]]), [[p/_particularly|particularly]] a [[s/_sexually|sexually]] [[m/_mature|mature]] [[o/_one|one]] [[k/_kept|kept]] for [[i/_its|its]] [[e/_eggs|eggs]].**
-- **A [[f/_female|female]] of [[o/_other|other]] [[b/_bird|bird]] species, [[p/_particularly|particularly]] a [[s/_sexually|sexually]] [[m/_mature|mature]] [[f/_female|female]] [[f/_fowl|fowl]].**
+- **A [[f/_female|female]] of [[o/_other|other]] [[b/_bird|bird]] [[s/_species|species]], [[p/_particularly|particularly]] a [[s/_sexually|sexually]] [[m/_mature|mature]] [[f/_female|female]] [[f/_fowl|fowl]].**
 - **A [[f/_female|female]] [[f/_fish|fish]] ([[e/_especially|especially]] a [[s/_salmon|salmon]] or trout) or [[c/_crustacean|crustacean]].**
 - **A woman, [[p/_particularly|particularly]]**
 - **A [[h/_hen|hen]] [[n/_night|night]].**

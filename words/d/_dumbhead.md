@@ -1,6 +1,6 @@
 # Dumbhead
 ---
 #noun
-- **A stupid [[p/_person|person]].**
+- **A [[s/_stupid|stupid]] [[p/_person|person]].**
 ---
 ---

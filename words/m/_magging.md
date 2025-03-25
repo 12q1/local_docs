@@ -1,6 +1,6 @@
 # Magging
 ---
 #verb
-- **To steal.**
+- **To [[s/_steal|steal]].**
 ---
 ---

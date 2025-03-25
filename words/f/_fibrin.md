@@ -8,6 +8,6 @@
 ### Synonyms
 - 
 #verb
-- **To [[a/_apply|apply]] [[f/_fibrin|fibrin]] [[s/_sealant|sealant]] to a surgical [[s/_site|site]] to [[e/_either|either]] stop [[b/_bleeding|bleeding]] or for surgical [[f/_flap|flap]] [[c/_closure|closure]].**
+- **To [[a/_apply|apply]] [[f/_fibrin|fibrin]] [[s/_sealant|sealant]] to a surgical [[s/_site|site]] to [[e/_either|either]] [[s/_stop|stop]] [[b/_bleeding|bleeding]] or for surgical [[f/_flap|flap]] [[c/_closure|closure]].**
 ---
 ---

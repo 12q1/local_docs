@@ -16,9 +16,9 @@
 - **To [[r/_ruin|ruin]].**
 - **To [[c/_complain|complain]].**
 - **To [[d/_drift|drift]] or [[m/_move|move]] [[s/_sideways|sideways]] or to [[l/_leeward|leeward]] (by [[a/_analogy|analogy]] with the [[m/_movement|movement]] of a [[c/_crab|crab]]).**
-- **To [[n/_navigate|navigate]] (an [[a/_aircraft|aircraft]], [[e/_e|e]].[[g/_g|g]]. a [[g/_glider|glider]]) [[s/_sideways|sideways]] [[a/_against|against]] an [[a/_air|air]] [[c/_current|current]] in [[o/_order|order]] to [[m/_maintain|maintain]] a straight-[[l/_line|line]] [[c/_course|course]].**
+- **To [[n/_navigate|navigate]] (an [[a/_aircraft|aircraft]], [[e/_e|e]].[[g/_g|g]]. a [[g/_glider|glider]]) [[s/_sideways|sideways]] [[a/_against|against]] an [[a/_air|air]] [[c/_current|current]] in [[o/_order|order]] to [[m/_maintain|maintain]] a [[s/_straight|straight]]-[[l/_line|line]] [[c/_course|course]].**
 - **To [[m/_move|move]] (a [[c/_camera|camera]]) [[s/_sideways|sideways]].**
-- **(World War [[i/_i|I]]), to [[f/_fly|fly]] [[s/_slightly|slightly]] [[o/_off|off]] the straight-[[l/_line|line]] [[c/_course|course]] towards an [[e/_enemy|enemy]] [[a/_aircraft|aircraft]], as the [[m/_machine|machine]] [[g/_guns|guns]] on [[e/_early|early]] [[a/_aircraft|aircraft]] [[d/_did|did]] not [[a/_allow|allow]] [[f/_firing|firing]] through the [[p/_propeller|propeller]] [[d/_disk|disk]].**
+- **(World War [[i/_i|I]]), to [[f/_fly|fly]] [[s/_slightly|slightly]] [[o/_off|off]] the [[s/_straight|straight]]-[[l/_line|line]] [[c/_course|course]] towards an [[e/_enemy|enemy]] [[a/_aircraft|aircraft]], as the [[m/_machine|machine]] [[g/_guns|guns]] on [[e/_early|early]] [[a/_aircraft|aircraft]] [[d/_did|did]] not [[a/_allow|allow]] [[f/_firing|firing]] through the [[p/_propeller|propeller]] [[d/_disk|disk]].**
 - **To [[b/_back|back]] [[o/_out|out]] of [[s/_something|something]].**
 ---
 #noun
@@ -27,7 +27,7 @@
 - **A [[c/_cudgel|cudgel]] [[m/_made|made]] of the wood of the [[c/_crab|crab]] tree; a [[c/_crabstick|crabstick]].**
 - **A [[m/_movable|movable]] winch or windlass with [[p/_powerful|powerful]] [[g/_gearing|gearing]], used with [[d/_derricks|derricks]], [[e/_etc|etc]].**
 - **A [[f/_form|form]] of windlass, or [[g/_geared|geared]] [[c/_capstan|capstan]], for [[h/_hauling|hauling]] [[s/_ships|ships]] [[i/_into|into]] [[d/_dock|dock]], [[e/_etc|etc]].**
-- **A [[m/_machine|machine]] used in [[r/_ropewalks|ropewalks]] to stretch the [[y/_yarn|yarn]].**
+- **A [[m/_machine|machine]] used in [[r/_ropewalks|ropewalks]] to [[s/_stretch|stretch]] the [[y/_yarn|yarn]].**
 - **A [[c/_claw|claw]] for [[a/_anchoring|anchoring]] a [[p/_portable|portable]] [[m/_machine|machine]].**
 ---
 ### Synonyms
@@ -38,7 +38,7 @@
 - **([[b/_british|British]] [[d/_dialect|dialect]]) To [[c/_cudgel|cudgel]] or [[b/_beat|beat]], as with a [[c/_crabstick|crabstick]]**
 ---
 #noun
-- **The tree species [[c/_carapa|Carapa]] guianensis, [[n/_native|native]] to [[s/_south|South]] [[a/_america|America]].**
+- **The tree [[s/_species|species]] [[c/_carapa|Carapa]] guianensis, [[n/_native|native]] to [[s/_south|South]] [[a/_america|America]].**
 ---
 #noun
 - **[[s/_short|Short]] for [[c/_carabiner|carabiner]].**

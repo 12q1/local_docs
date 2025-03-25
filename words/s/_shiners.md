@@ -6,7 +6,7 @@
 - **A [[b/_black|black]] [[e/_eye|eye]].**
 - **[[c/_coon|Coon]] [[e/_eyes|eyes]]**
 - **A [[b/_bright|bright]] [[p/_piece|piece]] of [[m/_money|money]], [[e/_especially|especially]] a [[s/_sovereign|sovereign]].**
-- **[[a/_any|Any]] of [[n/_numerous|numerous]] species of [[s/_small|small]] [[f/_freshwater|freshwater]] [[a/_american|American]] [[c/_cyprinoid|cyprinoid]] [[f/_fishes|fishes]] of [[n/_notropis|Notropis]], Minnilus, and [[a/_allied|allied]] [[g/_genera|genera]], such as the [[r/_redfin|redfin]].**
+- **[[a/_any|Any]] of [[n/_numerous|numerous]] [[s/_species|species]] of [[s/_small|small]] [[f/_freshwater|freshwater]] [[a/_american|American]] [[c/_cyprinoid|cyprinoid]] [[f/_fishes|fishes]] of [[n/_notropis|Notropis]], Minnilus, and [[a/_allied|allied]] [[g/_genera|genera]], such as the [[r/_redfin|redfin]].**
 - **[[a/_any|Any]] [[s/_silvery|silvery]] [[f/_fish|fish]], such as the [[h/_horsefish|horsefish]], [[m/_menhaden|menhaden]], or [[m/_moonfish|moonfish]].**
 - **The [[c/_common|common]] [[s/_silverfish|silverfish]], [[l/_lepisma|Lepisma]].**
 - **A [[m/_moonshiner|moonshiner]].**

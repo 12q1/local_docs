@@ -9,8 +9,8 @@
 	- _Example: Pencil drawings don't scan very well._
 - **To [[r/_read|read]] with an [[e/_electronic|electronic]] [[d/_device|device]].**
 	- _Example: to scan a barcode; to scan a QR code_
-- **To [[m/_mount|mount]] by steps; to [[g/_go|go]] through with step by step.**
-- **To [[r/_read|read]] or [[m/_mark|mark]] [[s/_so|so]] as to [[s/_show|show]] a specific [[m/_meter|meter]].**
+- **To [[m/_mount|mount]] by [[s/_steps|steps]]; to [[g/_go|go]] through with [[s/_step|step]] by [[s/_step|step]].**
+- **To [[r/_read|read]] or [[m/_mark|mark]] [[s/_so|so]] as to [[s/_show|show]] a [[s/_specific|specific]] [[m/_meter|meter]].**
 	- _Example: to scan verse_
 ---
 #adjective

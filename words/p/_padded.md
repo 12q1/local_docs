@@ -1,7 +1,7 @@
 # Padded
 ---
 #verb
-- **To stuff.**
+- **To [[s/_stuff|stuff]].**
 - **To [[f/_furnish|furnish]] with a [[p/_pad|pad]] or [[p/_padding|padding]].**
 - **To [[i/_increase|increase]] the [[s/_size|size]] of, [[e/_especially|especially]] by [[a/_adding|adding]] undesirable [[f/_filler|filler]].**
 	- _Example: May 21, 2008, Austin American-Statesman_
@@ -13,7 +13,7 @@
 - **To travel [[a/_along|along]] (a [[r/_road|road]], [[p/_path|path]] [[e/_etc|etc]].).**
 - **To travel on [[f/_foot|foot]].**
 - **To wear a [[p/_path|path]] by walking.**
-- **To walk [[s/_softly|softly]], [[q/_quietly|quietly]] or steadily, [[e/_especially|especially]] without [[s/_shoes|shoes]].**
+- **To walk [[s/_softly|softly]], [[q/_quietly|quietly]] or [[s/_steadily|steadily]], [[e/_especially|especially]] without [[s/_shoes|shoes]].**
 - **To [[p/_practise|practise]] [[h/_highway|highway]] [[r/_robbery|robbery]].**
 ---
 #adjective

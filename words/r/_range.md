@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_line|line]] or [[s/_series|series]] of [[m/_mountains|mountains]], [[b/_buildings|buildings]], [[e/_etc|etc]].**
-- **A [[f/_fireplace|fireplace]]; a [[f/_fire|fire]] or [[o/_other|other]] [[c/_cooking|cooking]] [[a/_apparatus|apparatus]]; [[n/_now|now]] specifically, a [[l/_large|large]] [[c/_cooking|cooking]] stove with [[m/_many|many]] hotplates.**
+- **A [[f/_fireplace|fireplace]]; a [[f/_fire|fire]] or [[o/_other|other]] [[c/_cooking|cooking]] [[a/_apparatus|apparatus]]; [[n/_now|now]] [[s/_specifically|specifically]], a [[l/_large|large]] [[c/_cooking|cooking]] [[s/_stove|stove]] with [[m/_many|many]] hotplates.**
 - **[[s/_selection|Selection]], [[a/_array|array]].**
 	- _Example: We sell a wide range of cars._
 - **An [[a/_area|area]] for [[p/_practicing|practicing]] [[s/_shooting|shooting]] at targets.**
@@ -18,11 +18,11 @@
 - **The [[d/_defensive|defensive]] [[a/_area|area]] that a [[p/_player|player]] [[c/_can|can]] [[c/_cover|cover]].**
 	- _Example: Jones has good range for a big man._
 - **The [[s/_scale|scale]] of [[a/_all|all]] the tones a voice or an [[i/_instrument|instrument]] [[c/_can|can]] [[p/_produce|produce]].**
-- **The [[g/_geographical|geographical]] [[a/_area|area]] or zone where a species is [[n/_normally|normally]] [[n/_naturally|naturally]] [[f/_found|found]].**
-- **A [[s/_sequential|sequential]] [[l/_list|list]] of values specified by an [[i/_iterator|iterator]].**
+- **The [[g/_geographical|geographical]] [[a/_area|area]] or zone where a [[s/_species|species]] is [[n/_normally|normally]] [[n/_naturally|naturally]] [[f/_found|found]].**
+- **A [[s/_sequential|sequential]] [[l/_list|list]] of values [[s/_specified|specified]] by an [[i/_iterator|iterator]].**
 	- _Example: std::for_each  calls the given function on each value in the input range._
 - **An [[a/_aggregate|aggregate]] of [[i/_individuals|individuals]] in [[o/_one|one]] [[r/_rank|rank]] or [[d/_degree|degree]]; an [[o/_order|order]]; a [[c/_class|class]].**
-- **The step of a [[l/_ladder|ladder]]; a [[r/_rung|rung]].**
+- **The [[s/_step|step]] of a [[l/_ladder|ladder]]; a [[r/_rung|rung]].**
 - **A [[b/_bolting|bolting]] [[s/_sieve|sieve]] to [[s/_sift|sift]] [[m/_meal|meal]].**
 - **A wandering or [[r/_roving|roving]]; a [[g/_going|going]] to and [[f/_fro|fro]]; an [[e/_excursion|excursion]]; a [[r/_ramble|ramble]]; an [[e/_expedition|expedition]].**
 - **In the [[p/_public|public]] [[l/_land|land]] [[s/_system|system]], a [[r/_row|row]] or [[l/_line|line]] of townships [[l/_lying|lying]] [[b/_between|between]] two succession [[m/_meridian|meridian]] [[l/_lines|lines]] [[s/_six|six]] [[m/_miles|miles]] [[a/_apart|apart]].**
@@ -39,8 +39,8 @@
 - **To [[r/_rove|rove]] [[o/_over|over]] or through.**
 	- _Example: to range the fields_
 - **To [[e/_exercise|exercise]] the [[p/_power|power]] of [[s/_something|something]] [[o/_over|over]] [[s/_something|something]] [[e/_else|else]]; to [[c/_cause|cause]] to submit to, [[o/_over|over]].**
-- **To [[b/_bring|bring]] ([[s/_something|something]]) [[i/_into|into]] a specified [[p/_position|position]] or [[r/_relationship|relationship]] ([[e/_especially|especially]], of [[o/_opposition|opposition]]) with [[s/_something|something]] [[e/_else|else]].**
-- **([[f/_followed|followed]] by [[o/_over|over]]) Of a variable, to be [[a/_able|able]] to take [[a/_any|any]] of the values in a specified [[r/_range|range]].**
+- **To [[b/_bring|bring]] ([[s/_something|something]]) [[i/_into|into]] a [[s/_specified|specified]] [[p/_position|position]] or [[r/_relationship|relationship]] ([[e/_especially|especially]], of [[o/_opposition|opposition]]) with [[s/_something|something]] [[e/_else|else]].**
+- **([[f/_followed|followed]] by [[o/_over|over]]) Of a variable, to be [[a/_able|able]] to take [[a/_any|any]] of the values in a [[s/_specified|specified]] [[r/_range|range]].**
 	- _Example: The variable x ranges over all real values from 0 to 10._
 - **To [[c/_classify|classify]].**
 	- _Example: to range plants and animals in genera and species_

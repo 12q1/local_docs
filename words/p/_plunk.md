@@ -12,7 +12,7 @@
 - **To [[i/_intentionally|intentionally]] [[h/_hit|hit]] the [[b/_batter|batter]] with a [[p/_pitch|pitch]].**
 	- _Example: The Braves retaliated by plunking Harper in the next inning._
 - **(of a [[r/_raven|raven]]) To [[c/_croak|croak]].**
-- **To [[p/_pluck|pluck]] and [[q/_quickly|quickly]] [[r/_release|release]] (a [[m/_musical|musical]] string).**
+- **To [[p/_pluck|pluck]] and [[q/_quickly|quickly]] [[r/_release|release]] (a [[m/_musical|musical]] [[s/_string|string]]).**
 - **To be a truant from ([[s/_school|school]]).**
 ---
 ### Synonyms

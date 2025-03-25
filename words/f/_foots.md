@@ -8,7 +8,7 @@
 - **To tread.**
 	- _Example: to foot the green_
 - **To [[s/_set|set]] on [[f/_foot|foot]]; to [[e/_establish|establish]]; to [[l/_land|land]].**
-- **To [[r/_renew|renew]] the [[f/_foot|foot]] of (a stocking, [[e/_etc|etc]].).**
+- **To [[r/_renew|renew]] the [[f/_foot|foot]] of (a [[s/_stocking|stocking]], [[e/_etc|etc]].).**
 - **To sum up, as the [[n/_numbers|numbers]] in a [[c/_column|column]]; [[s/_sometimes|sometimes]] with up.**
 	- _Example: to foot (or foot up) an account_
 ---

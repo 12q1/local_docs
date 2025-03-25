@@ -1,7 +1,7 @@
 # Shoots
 ---
 #noun
-- **The [[e/_emerging|emerging]] stem and [[e/_embryonic|embryonic]] [[l/_leaves|leaves]] of a [[n/_new|new]] [[p/_plant|plant]].**
+- **The [[e/_emerging|emerging]] [[s/_stem|stem]] and [[e/_embryonic|embryonic]] [[l/_leaves|leaves]] of a [[n/_new|new]] [[p/_plant|plant]].**
 - **A [[p/_photography|photography]] [[s/_session|session]].**
 - **A [[h/_hunt|hunt]] or [[s/_shooting|shooting]] [[c/_competition|competition]].**
 - **An [[e/_event|event]] that is unscripted or [[l/_legitimate|legitimate]].**
@@ -22,8 +22,8 @@
 - **To [[d/_develop|develop]], [[m/_move|move]] [[f/_forward|forward]].**
 - **To [[p/_protrude|protrude]]; to [[j/_jut|jut]]; to [[p/_project|project]]; to [[e/_extend|extend]].**
 	- _Example: The land shoots into a promontory._
-- **To [[p/_plane|plane]] straight; to [[f/_fit|fit]] by [[p/_planing|planing]].**
-- **To variegate as [[i/_if|if]] by sprinkling or [[i/_intermingling|intermingling]]; to [[c/_color|color]] in spots or [[p/_patches|patches]].W**
+- **To [[p/_plane|plane]] [[s/_straight|straight]]; to [[f/_fit|fit]] by [[p/_planing|planing]].**
+- **To variegate as [[i/_if|if]] by [[s/_sprinkling|sprinkling]] or [[i/_intermingling|intermingling]]; to [[c/_color|color]] in [[s/_spots|spots]] or [[p/_patches|patches]].W**
 - **To [[s/_shoot|shoot]] the [[m/_moon|moon]].**
 ---
 #adjective

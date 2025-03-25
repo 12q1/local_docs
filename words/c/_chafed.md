@@ -1,7 +1,7 @@
 # Chafed
 ---
 #verb
-- **To [[e/_excite|excite]] [[h/_heat|heat]] in by [[f/_friction|friction]]; to [[r/_rub|rub]] in [[o/_order|order]] to stimulate and [[m/_make|make]] warm.**
+- **To [[e/_excite|excite]] [[h/_heat|heat]] in by [[f/_friction|friction]]; to [[r/_rub|rub]] in [[o/_order|order]] to [[s/_stimulate|stimulate]] and [[m/_make|make]] warm.**
 - **To [[e/_excite|excite]] [[p/_passion|passion]] or [[a/_anger|anger]] in; to [[f/_fret|fret]]; to [[i/_irritate|irritate]].**
 - **To [[f/_fret|fret]] and wear by [[r/_rubbing|rubbing]].**
 	- _Example: to chafe a cable_

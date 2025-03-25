@@ -6,7 +6,7 @@
 ---
 #noun
 - **(Brunei) A traditional [[m/_malay|Malay]] village.**
-- **A [[d/_district|district]] or suburb where a [[f/_former|former]] kampung stood.**
+- **A [[d/_district|district]] or suburb where a [[f/_former|former]] kampung [[s/_stood|stood]].**
 	- _Example: Kampong Tanah Merah._
 ---
 ---

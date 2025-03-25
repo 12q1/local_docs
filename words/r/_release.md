@@ -1,7 +1,7 @@
 # Release
 ---
 #noun
-- **The [[e/_event|event]] of [[s/_setting|setting]] ([[s/_someone|someone]] or [[s/_something|something]]) [[f/_free|free]] ([[e/_e|e]].[[g/_g|g]]. [[h/_hostages|hostages]], [[s/_slaves|slaves]], [[p/_prisoners|prisoners]], [[c/_caged|caged]] [[a/_animals|animals]], [[h/_hooked|hooked]] or stuck [[m/_mechanisms|mechanisms]]).**
+- **The [[e/_event|event]] of [[s/_setting|setting]] ([[s/_someone|someone]] or [[s/_something|something]]) [[f/_free|free]] ([[e/_e|e]].[[g/_g|g]]. [[h/_hostages|hostages]], [[s/_slaves|slaves]], [[p/_prisoners|prisoners]], [[c/_caged|caged]] [[a/_animals|animals]], [[h/_hooked|hooked]] or [[s/_stuck|stuck]] [[m/_mechanisms|mechanisms]]).**
 - **The [[d/_distribution|distribution]] of an [[i/_initial|initial]] or [[n/_new|new]] and upgraded version of a [[c/_computer|computer]] [[s/_software|software]] [[p/_product|product]]; the [[d/_distribution|distribution]] [[c/_can|can]] be [[e/_either|either]] [[p/_public|public]] or [[p/_private|private]].**
 - **[[a/_anything|Anything]] [[r/_recently|recently]] [[r/_released|released]] or [[m/_made|made]] [[a/_available|available]] (as for [[s/_sale|sale]]).**
 	- _Example: The video store advertised that it had all the latest releases._
@@ -11,7 +11,7 @@
 - **[[l/_liberation|Liberation]] from [[p/_pain|pain]] or suffering.**
 - **The [[p/_process|process]] by which a [[c/_chemical|chemical]] substance is [[s/_set|set]] [[f/_free|free]].**
 - **([[s/_sound|sound]] [[s/_synthesis|synthesis]]) The [[a/_act|act]] or [[m/_manner|manner]] of [[e/_ending|ending]] a [[s/_sound|sound]].**
-- **In the [[b/_block|block]] [[s/_system|system]], a [[p/_printed|printed]] [[c/_card|card]] [[c/_conveying|conveying]] [[i/_information|information]] and [[i/_instructions|instructions]] to be used at [[i/_intermediate|intermediate]] [[s/_sidings|sidings]] without telegraphic stations.**
+- **In the [[b/_block|block]] [[s/_system|system]], a [[p/_printed|printed]] [[c/_card|card]] [[c/_conveying|conveying]] [[i/_information|information]] and [[i/_instructions|instructions]] to be used at [[i/_intermediate|intermediate]] [[s/_sidings|sidings]] without telegraphic [[s/_stations|stations]].**
 - **A [[d/_device|device]] [[a/_adapted|adapted]] to [[h/_hold|hold]] or [[r/_release|release]] a [[d/_device|device]] or [[m/_mechanism|mechanism]] as [[r/_required|required]].**
 ---
 #verb

@@ -4,7 +4,7 @@
 - **The [[f/_fourth|fourth]] [[l/_letter|letter]] of the [[m/_modern|modern]] [[g/_greek|Greek]] [[a/_alphabet|alphabet]] Δ, δ.**
 - **A [[l/_landform|landform]] at the [[m/_mouth|mouth]] of a [[r/_river|river]] where it [[e/_empties|empties]] [[i/_into|into]] a [[b/_body|body]] of water.**
 	- _Example: Nile Delta_
-- **The [[l/_letter|letter]] [[d/_d|D]] in the ICAO spelling [[a/_alphabet|alphabet]], which [[a/_assigns|assigns]] words to [[l/_letters|letters]] of the [[a/_alphabet|alphabet]].**
+- **The [[l/_letter|letter]] [[d/_d|D]] in the ICAO [[s/_spelling|spelling]] [[a/_alphabet|alphabet]], which [[a/_assigns|assigns]] words to [[l/_letters|letters]] of the [[a/_alphabet|alphabet]].**
 - **The [[s/_symbol|symbol]] Δ.**
 - **A [[s/_small|small]] but [[n/_noticeable|noticeable]] [[e/_effect|effect]]. [[c/_compare|Compare]] [[e/_epsilon|epsilon]].**
 	- _Example: This will slow the main code path down, but only by delta._

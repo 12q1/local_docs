@@ -1,7 +1,7 @@
 # South
 ---
 #noun
-- **[[o/_one|One]] of the [[f/_four|four]] [[m/_major|major]] [[c/_compass|compass]] [[p/_points|points]], specifically 180°, [[d/_directed|directed]] toward the [[s/_south|South]] [[p/_pole|Pole]], and [[c/_conventionally|conventionally]] [[d/_downwards|downwards]] on a [[m/_map|map]], [[a/_abbreviated|abbreviated]] as [[s/_s|S]].**
+- **[[o/_one|One]] of the [[f/_four|four]] [[m/_major|major]] [[c/_compass|compass]] [[p/_points|points]], [[s/_specifically|specifically]] 180°, [[d/_directed|directed]] toward the [[s/_south|South]] [[p/_pole|Pole]], and [[c/_conventionally|conventionally]] [[d/_downwards|downwards]] on a [[m/_map|map]], [[a/_abbreviated|abbreviated]] as [[s/_s|S]].**
 - **The [[s/_side|side]] of a [[c/_church|church]] on the [[r/_right|right]] [[h/_hand|hand]] of a [[p/_person|person]] [[f/_facing|facing]] the [[a/_altar|altar]].**
 ---
 #verb

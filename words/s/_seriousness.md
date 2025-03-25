@@ -1,6 +1,6 @@
 # Seriousness
 ---
 #noun
-- **The state or [[q/_quality|quality]] of [[b/_being|being]] [[s/_serious|serious]].**
+- **The [[s/_state|state]] or [[q/_quality|quality]] of [[b/_being|being]] [[s/_serious|serious]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Guest
 ---
 #noun
-- **A [[r/_recipient|recipient]] of [[h/_hospitality|hospitality]], specifically [[s/_someone|someone]] staying by [[i/_invitation|invitation]] at the [[h/_house|house]] of [[a/_another|another]].**
+- **A [[r/_recipient|recipient]] of [[h/_hospitality|hospitality]], [[s/_specifically|specifically]] [[s/_someone|someone]] [[s/_staying|staying]] by [[i/_invitation|invitation]] at the [[h/_house|house]] of [[a/_another|another]].**
 	- _Example: The guests were let in by the butler._
 - **A [[p/_patron|patron]] or [[c/_customer|customer]] in a [[h/_hotel|hotel]] [[e/_etc|etc]].**
 	- _Example: Guests must vacate their rooms by 10 o'clock on their day of departure._
@@ -13,7 +13,7 @@
 ---
 #verb
 - **To [[a/_appear|appear]] as a [[g/_guest|guest]], [[e/_especially|especially]] on a [[b/_broadcast|broadcast]]**
-- **As a [[m/_musician|musician]], to [[p/_play|play]] as a [[g/_guest|guest]], [[p/_providing|providing]] an [[i/_instrument|instrument]] that a [[b/_band|band]]/[[o/_orchestra|orchestra]] [[d/_does|does]] not [[n/_normally|normally]] [[h/_have|have]] in [[i/_its|its]] [[l/_line|line]] up (for [[i/_instance|instance]], [[p/_percussion|percussion]] in a string [[b/_band|band]])**
+- **As a [[m/_musician|musician]], to [[p/_play|play]] as a [[g/_guest|guest]], [[p/_providing|providing]] an [[i/_instrument|instrument]] that a [[b/_band|band]]/[[o/_orchestra|orchestra]] [[d/_does|does]] not [[n/_normally|normally]] [[h/_have|have]] in [[i/_its|its]] [[l/_line|line]] up (for [[i/_instance|instance]], [[p/_percussion|percussion]] in a [[s/_string|string]] [[b/_band|band]])**
 - **To [[r/_receive|receive]] or [[e/_entertain|entertain]] [[h/_hospitably|hospitably]].**
 ---
 ---

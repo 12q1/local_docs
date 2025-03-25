@@ -1,7 +1,7 @@
 # Parked
 ---
 #verb
-- **To [[b/_bring|bring]] ([[s/_something|something]] such as a vehicle) to a [[h/_halt|halt]] or store in a specified [[p/_place|place]].**
+- **To [[b/_bring|bring]] ([[s/_something|something]] such as a vehicle) to a [[h/_halt|halt]] or [[s/_store|store]] in a [[s/_specified|specified]] [[p/_place|place]].**
 	- _Example: I parked the drive heads of my hard disk before travelling with my laptop._
 - **To [[d/_defer|defer]] (a [[m/_matter|matter]]) until a [[l/_later|later]] [[d/_date|date]].**
 	- _Example: Let's park that until next week's meeting._
@@ -19,7 +19,7 @@
 - **To [[r/_register|register]] a [[d/_domain|domain]] [[n/_name|name]], but [[m/_make|make]] [[n/_no|no]] use of it ([[s/_see|See]] [[d/_domain|domain]] [[p/_parking|parking]])**
 - **([[o/_oyster|oyster]] [[c/_culture|culture]]) To [[e/_enclose|enclose]] in a [[p/_park|park]], or [[p/_partially|partially]] [[e/_enclosed|enclosed]] [[b/_basin|basin]].**
 - **To [[p/_promenade|promenade]] or [[d/_drive|drive]] in a [[p/_park|park]].**
-- **(of [[h/_horses|horses]]) To [[d/_display|display]] style or [[g/_gait|gait]] on a [[p/_park|park]] [[d/_drive|drive]].**
+- **(of [[h/_horses|horses]]) To [[d/_display|display]] [[s/_style|style]] or [[g/_gait|gait]] on a [[p/_park|park]] [[d/_drive|drive]].**
 ---
 #adjective
 - **[[l/_left|Left]] [[s/_somewhere|somewhere]] when not in use.**

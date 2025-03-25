@@ -9,6 +9,6 @@
 - **To [[e/_ensnare|ensnare]].**
 ---
 #verb
-- **To steal [[s/_something|something]] of [[l/_little|little]] value**
+- **To [[s/_steal|steal]] [[s/_something|something]] of [[l/_little|little]] value**
 ---
 ---

@@ -13,7 +13,7 @@
 ### Antonyms
 - [[d/_declutter|declutter]]
 #noun
-- **A [[h/_hoarding|hoarding]] (temporary structure used [[d/_during|during]] [[c/_construction|construction]]).**
+- **A [[h/_hoarding|hoarding]] (temporary [[s/_structure|structure]] used [[d/_during|during]] [[c/_construction|construction]]).**
 - **A [[h/_hoarding|hoarding]] ([[b/_billboard|billboard]]).**
 ---
 ---

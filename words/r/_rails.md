@@ -25,7 +25,7 @@
 ---
 #noun
 - **An [[i/_item|item]] of [[c/_clothing|clothing]]; a [[c/_cloak|cloak]] or [[o/_other|other]] [[g/_garment|garment]]; a [[d/_dress|dress]].**
-- **Specifically, a woman'[[s/_s|s]] [[h/_headscarf|headscarf]] or [[n/_neckerchief|neckerchief]].**
+- **[[s/_specifically|Specifically]], a woman'[[s/_s|s]] [[h/_headscarf|headscarf]] or [[n/_neckerchief|neckerchief]].**
 ---
 #verb
 - **(of a [[l/_liquid|liquid]]) To [[g/_gush|gush]], [[f/_flow|flow]].**

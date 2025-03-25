@@ -9,6 +9,6 @@
 - 
 #noun
 - **A [[s/_sophist|sophist]].**
-- **(universities) A student who is [[a/_advanced|advanced]] [[b/_beyond|beyond]] the [[f/_first|first]] [[y/_year|year]] of their [[r/_residence|residence]].**
+- **(universities) A [[s/_student|student]] who is [[a/_advanced|advanced]] [[b/_beyond|beyond]] the [[f/_first|first]] [[y/_year|year]] of their [[r/_residence|residence]].**
 ---
 ---

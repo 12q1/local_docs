@@ -7,7 +7,7 @@
 ### Synonyms
 - [[b/_beginner|beginner]], [[i/_inceptor|inceptor]]
 #adjective
-- **In an [[i/_initial|initial]] stage; [[b/_beginning|beginning]], starting, [[c/_coming|coming]] [[i/_into|into]] [[e/_existence|existence]].**
+- **In an [[i/_initial|initial]] [[s/_stage|stage]]; [[b/_beginning|beginning]], [[s/_starting|starting]], [[c/_coming|coming]] [[i/_into|into]] [[e/_existence|existence]].**
 	- _Example: After 500 years, incipient towns appeared._
 ---
 ### Synonyms

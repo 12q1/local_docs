@@ -18,7 +18,7 @@
 ---
 #noun
 - **[[c/_calculation|Calculation]].**
-- **Structure, [[d/_design|design]], or [[a/_arrangement|arrangement]]; [[f/_figure|figure]].**
+- **[[s/_structure|Structure]], [[d/_design|design]], or [[a/_arrangement|arrangement]]; [[f/_figure|figure]].**
 - **[[r/_representation|Representation]].**
 ---
 ---

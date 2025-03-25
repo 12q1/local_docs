@@ -11,7 +11,7 @@
 ### Synonyms
 - [[f/_filth|filth]], [[f/_filth|filth]]
 #verb
-- **To stain (or be stained) with [[s/_soot|soot]] or [[o/_other|other]] [[d/_dirt|dirt]].**
+- **To [[s/_stain|stain]] (or be [[s/_stained|stained]]) with [[s/_soot|soot]] or [[o/_other|other]] [[d/_dirt|dirt]].**
 - **To taint ([[g/_grain|grain]], [[e/_etc|etc]].) with the [[s/_smut|smut]] [[f/_fungus|fungus]].**
 - **To [[b/_become|become]] tainted by the [[s/_smut|smut]] [[f/_fungus|fungus]].**
 - **To [[c/_clear|clear]] of the [[s/_smut|smut]] [[f/_fungus|fungus]].**

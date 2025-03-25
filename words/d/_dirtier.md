@@ -7,7 +7,7 @@
 	- _Example: Don't put that in your mouth, dear. It's dirty._
 - **[[m/_morally|Morally]] unclean; [[o/_obscene|obscene]] or [[i/_indecent|indecent]], [[e/_especially|especially]] [[s/_sexually|sexually]].**
 	- _Example: At the reception, Uncle Nick got drunk and told dirty jokes to the bridesmaids._
-- **[[d/_dishonourable|Dishonourable]]; violating [[a/_accepted|accepted]] standards or [[r/_rules|rules]].**
+- **[[d/_dishonourable|Dishonourable]]; violating [[a/_accepted|accepted]] [[s/_standards|standards]] or [[r/_rules|rules]].**
 	- _Example: He might have scored, but it was a dirty trick that won him the penalty._
 - **[[c/_corrupt|Corrupt]], [[i/_illegal|illegal]], or [[i/_improper|improper]].**
 	- _Example: I won't accept your dirty money!_
@@ -21,7 +21,7 @@
 	- _Example: None of y'all get into my car if you're dirty._
 - **Used as an [[i/_intensifier|intensifier]], [[e/_especially|especially]] in [[c/_conjunction|conjunction]] with "[[g/_great|great]]".**
 	- _Example: He lives in a dirty great mansion._
-- **[[s/_sleety|Sleety]]; [[g/_gusty|gusty]]; stormy.**
+- **[[s/_sleety|Sleety]]; [[g/_gusty|gusty]]; [[s/_stormy|stormy]].**
 	- _Example: dirty weather_
 - **Of an [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]], [[e/_especially|especially]] a [[c/_cocktail|cocktail]] or [[m/_mixed|mixed]] [[d/_drink|drink]]: [[s/_served|served]] with the [[j/_juice|juice]] of [[o/_olives|olives]].**
 	- _Example: dirty martini_

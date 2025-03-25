@@ -8,7 +8,7 @@
 ### Synonyms
 - [[a/_adore|adore]], [[l/_love|love]]
 #adjective
-- **Stupid; [[f/_foolish|foolish]]**
+- **[[s/_stupid|Stupid]]; [[f/_foolish|foolish]]**
 - **[[h/_half|Half]]-[[r/_rotten|rotten]]**
 	- _Example: doted wood_
 ---

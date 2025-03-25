@@ -2,7 +2,7 @@
 ---
 #adjective
 - **In [[c/_comfortable|comfortable]] [[c/_circumstances|circumstances]] as [[r/_regards|regards]] [[p/_property|property]]; [[f/_forehanded|forehanded]].**
-- **([[o/_often|often]] [[f/_followed|followed]] by with) In a state of [[a/_anticipation|anticipation]] or [[p/_preoccupation|preoccupation]].**
+- **([[o/_often|often]] [[f/_followed|followed]] by with) In a [[s/_state|state]] of [[a/_anticipation|anticipation]] or [[p/_preoccupation|preoccupation]].**
 ---
 #adverb
 - **At an [[e/_earlier|earlier]] or [[p/_preceding|preceding]] time.**

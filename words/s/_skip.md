@@ -15,7 +15,7 @@
 	- _Example: The rock will skip across the pond._
 - **To throw ([[s/_something|something]]), [[m/_making|making]] it [[s/_skim|skim]], [[r/_ricochet|ricochet]], or [[b/_bounce|bounce]] [[o/_over|over]] a surface.**
 	- _Example: I bet I can skip this rock to the other side of the pond._
-- **To [[d/_disregard|disregard]], [[m/_miss|miss]] or [[o/_omit|omit]] [[p/_part|part]] of a [[c/_continuation|continuation]] ([[s/_some|some]] [[i/_item|item]] or stage).**
+- **To [[d/_disregard|disregard]], [[m/_miss|miss]] or [[o/_omit|omit]] [[p/_part|part]] of a [[c/_continuation|continuation]] ([[s/_some|some]] [[i/_item|item]] or [[s/_stage|stage]]).**
 	- _Example: I will read most of the book, but skip the first chapter because the video covered it._
 - **To [[p/_place|place]] an [[i/_item|item]] in a [[s/_skip|skip]].**
 - **Not to [[a/_attend|attend]] ([[s/_some|some]] [[e/_event|event]], [[e/_especially|especially]] a [[c/_class|class]] or a [[m/_meeting|meeting]]).**
@@ -26,7 +26,7 @@
 	- _Example: to skip the rope_
 - **To [[j/_jump|jump]] [[r/_rope|rope]].**
 	- _Example: The girls were skipping in the playground._
-- **([[c/_crocheting|crocheting]]) To [[p/_pass|pass]] by a stitch as [[i/_if|if]] it were not there, [[c/_continuing|continuing]] with the [[n/_next|next]] stitch.**
+- **([[c/_crocheting|crocheting]]) To [[p/_pass|pass]] by a [[s/_stitch|stitch]] as [[i/_if|if]] it were not there, [[c/_continuing|continuing]] with the [[n/_next|next]] [[s/_stitch|stitch]].**
 ---
 ### Synonyms
 - 

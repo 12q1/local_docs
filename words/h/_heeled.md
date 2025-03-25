@@ -18,13 +18,13 @@
 - **To [[p/_perform|perform]] by the use of the [[h/_heels|heels]], as in [[d/_dancing|dancing]], [[r/_running|running]], [[e/_etc|etc]].**
 - **To [[a/_arm|arm]] with a [[g/_gaff|gaff]], as a [[c/_cock|cock]] for [[f/_fighting|fighting]].**
 - **To [[h/_hit|hit]] (the [[b/_ball|ball]]) with the [[h/_heel|heel]] of the [[c/_club|club]].**
-- **To [[m/_make|make]] (a [[f/_fair|fair]] [[c/_catch|catch]]) standing with [[o/_one|one]] [[f/_foot|foot]] [[f/_forward|forward]], the [[h/_heel|heel]] on the [[g/_ground|ground]] and the toe up.**
+- **To [[m/_make|make]] (a [[f/_fair|fair]] [[c/_catch|catch]]) [[s/_standing|standing]] with [[o/_one|one]] [[f/_foot|foot]] [[f/_forward|forward]], the [[h/_heel|heel]] on the [[g/_ground|ground]] and the toe up.**
 ---
 #verb
 - **To [[i/_incline|incline]] to [[o/_one|one]] [[s/_side|side]]; to tilt.**
 ---
 #adjective
-- **[[h/_having|Having]] a [[h/_heel|heel]] ([[o/_often|often]] of a specified type, as in [[h/_high|high]]-[[h/_heeled|heeled]] [[e/_etc|etc]].).**
+- **[[h/_having|Having]] a [[h/_heel|heel]] ([[o/_often|often]] of a [[s/_specified|specified]] type, as in [[h/_high|high]]-[[h/_heeled|heeled]] [[e/_etc|etc]].).**
 - **[[p/_prepared|Prepared]], [[e/_especially|especially]] [[a/_armed|armed]] with a weapon.**
 - **Wealthy; [[h/_having|having]] [[e/_enough|enough]] [[m/_money|money]].**
 ---

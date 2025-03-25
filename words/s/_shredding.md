@@ -1,7 +1,7 @@
 # Shredding
 ---
 #verb
-- **To [[c/_cut|cut]] or tear [[i/_into|into]] [[n/_narrow|narrow]] and [[l/_long|long]] [[p/_pieces|pieces]] or strips.**
+- **To [[c/_cut|cut]] or tear [[i/_into|into]] [[n/_narrow|narrow]] and [[l/_long|long]] [[p/_pieces|pieces]] or [[s/_strips|strips]].**
 - **To [[r/_reduce|reduce]] by a [[l/_large|large]] [[p/_percentage|percentage]].**
 - **To [[l/_lop|lop]]; to [[p/_prune|prune]]; to trim.**
 - **To [[r/_ride|ride]] [[a/_aggressively|aggressively]].**
@@ -11,6 +11,6 @@
 #noun
 - **The [[a/_act|act]] of [[c/_cutting|cutting]] or tearing [[i/_into|into]] [[s/_shreds|shreds]].**
 - **That which is [[c/_cut|cut]] or torn [[o/_off|off]]; a [[p/_piece|piece]].**
-- **A style of very [[f/_fast|fast]] and very [[c/_complex|complex]] [[g/_guitar|guitar]] [[p/_playing|playing]].**
+- **A [[s/_style|style]] of very [[f/_fast|fast]] and very [[c/_complex|complex]] [[g/_guitar|guitar]] [[p/_playing|playing]].**
 ---
 ---

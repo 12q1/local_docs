@@ -7,7 +7,7 @@
 	- _Example: That was a poor performance._
 - **Used to [[e/_express|express]] [[p/_pity|pity]].**
 	- _Example: Oh you poor little thing._
-- **[[d/_deficient|Deficient]] in a specified way.**
+- **[[d/_deficient|Deficient]] in a [[s/_specified|specified]] way.**
 	- _Example: Cow's milk is poor in iron._
 - **[[i/_inadequate|Inadequate]], [[i/_insufficient|insufficient]].**
 	- _Example: I received a poor reward for all my hard work._

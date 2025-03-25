@@ -6,7 +6,7 @@
 ---
 #adjective
 - **Of, [[r/_relating|relating]] to, or [[c/_composed|composed]] of [[c/_crystals|crystals]].**
-- **[[h/_having|Having]] a [[r/_regular|regular]] three-[[d/_dimensional|dimensional]] [[m/_molecular|molecular]] structure.**
+- **[[h/_having|Having]] a [[r/_regular|regular]] three-[[d/_dimensional|dimensional]] [[m/_molecular|molecular]] [[s/_structure|structure]].**
 - **[[r/_resembling|Resembling]] [[c/_crystal|crystal]] in [[b/_being|being]] [[c/_clear|clear]] and transparent.**
 ---
 ### Antonyms

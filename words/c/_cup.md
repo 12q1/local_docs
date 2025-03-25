@@ -21,7 +21,7 @@
 	- _Example: The cups are made of a particularly uncomfortable material._
 - **The [[s/_symbol|symbol]] \[[c/_cup|cup]] [[d/_denoting|denoting]] union and [[s/_similar|similar]] [[o/_operations|operations]] ([[c/_confer|confer]] [[c/_cap|cap]]).**
 - **A suit of the [[m/_minor|minor]] [[a/_arcana|arcana]] in tarot, or [[o/_one|one]] of the [[c/_cards|cards]] from the suit.**
-- **(ultimate [[f/_frisbee|frisbee]]) A [[d/_defensive|defensive]] style [[c/_characterized|characterized]] by a three [[p/_player|player]] [[n/_near|near]] [[d/_defense|defense]] [[c/_cupping|cupping]] the thrower; or those three [[p/_players|players]].**
+- **(ultimate [[f/_frisbee|frisbee]]) A [[d/_defensive|defensive]] [[s/_style|style]] [[c/_characterized|characterized]] by a three [[p/_player|player]] [[n/_near|near]] [[d/_defense|defense]] [[c/_cupping|cupping]] the thrower; or those three [[p/_players|players]].**
 - **A [[f/_flexible|flexible]] [[c/_concave|concave]] [[m/_membrane|membrane]] used to temporarily [[a/_attach|attach]] a [[h/_handle|handle]] or [[h/_hook|hook]] to a [[f/_flat|flat]] surface by [[m/_means|means]] of suction (suction [[c/_cup|cup]]).**
 - **[[a/_anything|Anything]] [[s/_shaped|shaped]] [[l/_like|like]] a [[c/_cup|cup]].**
 	- _Example: the cup of an acorn_

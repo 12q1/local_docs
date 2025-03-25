@@ -11,7 +11,7 @@
 	- _Example: Sit still, you little monster!_
 - **[[s/_something|Something]] unusually [[l/_large|large]].**
 	- _Example: Have you seen those powerlifters on TV? They're monsters._
-- **A [[p/_prodigy|prodigy]]; [[s/_someone|someone]] very talented in a specific [[d/_domain|domain]].**
+- **A [[p/_prodigy|prodigy]]; [[s/_someone|someone]] very talented in a [[s/_specific|specific]] [[d/_domain|domain]].**
 	- _Example: That dude playing guitar is a monster._
 - **A [[n/_non|non]]-[[p/_player|player]] [[c/_character|character]] that [[p/_player|player]]([[s/_s|s]]) [[f/_fight|fight]] [[a/_against|against]] in [[r/_role|role]]-[[p/_playing|playing]] [[g/_games|games]].**
 ---

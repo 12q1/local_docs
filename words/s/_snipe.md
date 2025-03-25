@@ -1,7 +1,7 @@
 # Snipe
 ---
 #noun
-- **[[a/_any|Any]] of various [[l/_limicoline|limicoline]] [[g/_game|game]] [[b/_birds|birds]] of the [[g/_genera|genera]] [[g/_gallinago|Gallinago]], Lymnocryptes and Coenocorypha in the [[f/_family|family]] [[s/_scolopacidae|Scolopacidae]], [[h/_having|having]] a [[l/_long|long]], [[s/_slender|slender]], [[n/_nearly|nearly]] straight [[b/_beak|beak]].**
+- **[[a/_any|Any]] of various [[l/_limicoline|limicoline]] [[g/_game|game]] [[b/_birds|birds]] of the [[g/_genera|genera]] [[g/_gallinago|Gallinago]], Lymnocryptes and Coenocorypha in the [[f/_family|family]] [[s/_scolopacidae|Scolopacidae]], [[h/_having|having]] a [[l/_long|long]], [[s/_slender|slender]], [[n/_nearly|nearly]] [[s/_straight|straight]] [[b/_beak|beak]].**
 - **A [[f/_fool|fool]]; a [[b/_blockhead|blockhead]].**
 - **A [[s/_shot|shot]] [[f/_fired|fired]] from a [[c/_concealed|concealed]] [[p/_place|place]].**
 - **([[n/_naval|naval]] [[s/_slang|slang]]) A [[m/_member|member]] of the [[e/_engineering|engineering]] [[d/_department|department]] on a [[s/_ship|ship]].**

@@ -1,8 +1,8 @@
 # Anatomy
 ---
 #noun
-- **The [[a/_art|art]] of studying the [[d/_different|different]] [[p/_parts|parts]] of [[a/_any|any]] [[o/_organized|organized]] [[b/_body|body]], to [[d/_discover|discover]] their [[s/_situation|situation]], structure, and [[e/_economy|economy]].**
-- **The [[s/_science|science]] that [[d/_deals|deals]] with the [[f/_form|form]] and structure of [[o/_organic|organic]] [[b/_bodies|bodies]]; [[a/_anatomical|anatomical]] structure or [[o/_organization|organization]].**
+- **The [[a/_art|art]] of [[s/_studying|studying]] the [[d/_different|different]] [[p/_parts|parts]] of [[a/_any|any]] [[o/_organized|organized]] [[b/_body|body]], to [[d/_discover|discover]] their [[s/_situation|situation]], [[s/_structure|structure]], and [[e/_economy|economy]].**
+- **The [[s/_science|science]] that [[d/_deals|deals]] with the [[f/_form|form]] and [[s/_structure|structure]] of [[o/_organic|organic]] [[b/_bodies|bodies]]; [[a/_anatomical|anatomical]] [[s/_structure|structure]] or [[o/_organization|organization]].**
 	- _Example: Animal anatomy is also called zootomy; vegetable anatomy, phytotomy; and human anatomy, anthropotomy._
 - **A treatise or [[b/_book|book]] on [[a/_anatomy|anatomy]].**
 - **(by [[e/_extension|extension]]) The [[a/_act|act]] of [[d/_dividing|dividing]] [[a/_anything|anything]], [[c/_corporeal|corporeal]] or [[i/_intellectual|intellectual]], for the [[p/_purpose|purpose]] of [[e/_examining|examining]] [[i/_its|its]] [[p/_parts|parts]].**

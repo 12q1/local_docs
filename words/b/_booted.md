@@ -19,7 +19,7 @@
 - **To [[b/_benefit|benefit]], to [[e/_enrich|enrich]]; to [[g/_give|give]] in [[a/_addition|addition]].**
 ---
 #verb
-- **To [[b/_bootstrap|bootstrap]]; to start a [[s/_system|system]], [[e/_e|e]].[[g/_g|g]]. a [[c/_computer|computer]], by [[i/_invoking|invoking]] [[i/_its|its]] [[b/_boot|boot]] [[p/_process|process]] or [[b/_bootstrap|bootstrap]].**
+- **To [[b/_bootstrap|bootstrap]]; to [[s/_start|start]] a [[s/_system|system]], [[e/_e|e]].[[g/_g|g]]. a [[c/_computer|computer]], by [[i/_invoking|invoking]] [[i/_its|its]] [[b/_boot|boot]] [[p/_process|process]] or [[b/_bootstrap|bootstrap]].**
 	- _Example: When arriving at the office, first thing I do is booting my machine._
 ---
 ### Synonyms

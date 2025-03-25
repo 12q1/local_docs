@@ -10,7 +10,7 @@
 - **To [[d/_dwell|dwell]]; [[h/_have|have]] a [[d/_dwelling|dwelling]]**
 ---
 #noun
-- **A [[c/_coffee|coffee]] [[p/_pot|pot]] with a strainer or [[p/_perforated|perforated]] [[m/_metallic|metallic]] vessel for [[h/_holding|holding]] the [[g/_ground|ground]] [[c/_coffee|coffee]], through which [[b/_boiling|boiling]] water is [[p/_poured|poured]].**
+- **A [[c/_coffee|coffee]] [[p/_pot|pot]] with a [[s/_strainer|strainer]] or [[p/_perforated|perforated]] [[m/_metallic|metallic]] vessel for [[h/_holding|holding]] the [[g/_ground|ground]] [[c/_coffee|coffee]], through which [[b/_boiling|boiling]] water is [[p/_poured|poured]].**
 ---
 #noun
 - **A [[h/_home|home]].**

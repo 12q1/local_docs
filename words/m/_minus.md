@@ -15,7 +15,7 @@
 #adjective
 - **[[b/_being|Being]] a [[n/_negative|negative]] [[q/_quantity|quantity]]; [[p/_pertaining|pertaining]] to a [[d/_deficit|deficit]] or [[r/_reduction|reduction]].**
 	- _Example: a minus number_
-- **That is [[b/_below|below]] zero by (a specified [[a/_amount|amount]]) on a [[s/_scale|scale]].**
+- **That is [[b/_below|below]] zero by (a [[s/_specified|specified]] [[a/_amount|amount]]) on a [[s/_scale|scale]].**
 	- _Example: minus seven degrees_
 - **Worse [[o/_off|off]] than [[b/_before|before]]; [[o/_out|out]] of [[p/_pocket|pocket]].**
 - **[[r/_ranking|Ranking]] [[j/_just|just]] [[b/_below|below]] (a [[d/_designated|designated]] [[r/_rating|rating]]).**

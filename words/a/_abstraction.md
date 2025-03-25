@@ -1,7 +1,7 @@
 # Abstraction
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_abstracting|abstracting]], [[s/_separating|separating]], withdrawing, or taking [[a/_away|away]]; withdrawal; the state of [[b/_being|being]] taken [[a/_away|away]].**
+- **The [[a/_act|act]] of [[a/_abstracting|abstracting]], [[s/_separating|separating]], withdrawing, or taking [[a/_away|away]]; withdrawal; the [[s/_state|state]] of [[b/_being|being]] taken [[a/_away|away]].**
 - **A [[s/_separation|separation]] from worldly [[o/_objects|objects]]; a [[r/_recluse|recluse]] [[l/_life|life]]; the withdrawal from [[o/_one|one]]'[[s/_s|s]] [[s/_senses|senses]].**
 - **The [[a/_act|act]] of [[f/_focusing|focusing]] on [[o/_one|one]] [[c/_characteristic|characteristic]] of an [[o/_object|object]] [[r/_rather|rather]] than the [[o/_object|object]] as a whole [[g/_group|group]] of [[c/_characteristics|characteristics]]; the [[a/_act|act]] of [[s/_separating|separating]] [[s/_said|said]] [[q/_qualities|qualities]] from the [[o/_object|object]] or [[i/_ideas|ideas]].**
 	- _Example: Abstraction is necessary for the classification of things into genera and species._

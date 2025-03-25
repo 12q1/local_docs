@@ -1,7 +1,7 @@
 # Crimes
 ---
 #noun
-- **A specific [[a/_act|act]] [[c/_committed|committed]] in violation of the [[l/_law|law]].**
+- **A [[s/_specific|specific]] [[a/_act|act]] [[c/_committed|committed]] in violation of the [[l/_law|law]].**
 - **[[a/_any|Any]] [[g/_great|great]] [[s/_sin|sin]] or wickedness; [[i/_iniquity|iniquity]].**
 - **That which [[o/_occasions|occasions]] [[c/_crime|crime]].**
 - **[[c/_criminal|Criminal]] [[a/_acts|acts]] [[c/_collectively|collectively]].**

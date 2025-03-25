@@ -13,6 +13,6 @@
 ---
 #adjective
 - **[[a/_adorned|Adorned]] or [[e/_embellished|embellished]].**
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[n/_number|number]] or type of [[d/_decks|decks]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specified|specified]] [[n/_number|number]] or type of [[d/_decks|decks]].**
 ---
 ---

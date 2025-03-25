@@ -15,7 +15,7 @@
 	- _Example: He changed his mind after hearing the speech._
 - **[[d/_desire|Desire]], [[i/_inclination|inclination]], or [[i/_intention|intention]].**
 	- _Example: I am of a mind to listen._
-- **A [[h/_healthy|healthy]] [[m/_mental|mental]] state.**
+- **A [[h/_healthy|healthy]] [[m/_mental|mental]] [[s/_state|state]].**
 	- _Example: I, ______ being of sound mind and body, do hereby [...]_
 - **The [[n/_non|non]]-[[m/_material|material]] substance or [[s/_set|set]] of [[p/_processes|processes]] in which [[c/_consciousness|consciousness]], [[p/_perception|perception]], [[a/_affectivity|affectivity]], [[j/_judgement|judgement]], thinking, and will are [[b/_based|based]].**
 	- _Example: The mind is a process of the brain._

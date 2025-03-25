@@ -10,7 +10,7 @@
 	- _Example: a narrow mind_
 - **[[h/_having|Having]] a [[s/_small|small]] [[m/_margin|margin]] or [[d/_degree|degree]].**
 	- _Example: The Republicans won by a narrow majority._
-- **[[l/_limited|Limited]] as to [[m/_means|means]]; straitened**
+- **[[l/_limited|Limited]] as to [[m/_means|means]]; [[s/_straitened|straitened]]**
 	- _Example: narrow circumstances_
 - **[[p/_parsimonious|Parsimonious]]; [[n/_niggardly|niggardly]]; [[c/_covetous|covetous]]; [[s/_selfish|selfish]].**
 - **[[s/_scrutinizing|Scrutinizing]] in [[d/_detail|detail]]; [[c/_close|close]]; [[a/_accurate|accurate]]; [[e/_exact|exact]].**

@@ -1,7 +1,7 @@
 # Labyrinth
 ---
 #noun
-- **A [[m/_maze|maze]]-[[l/_like|like]] structure [[b/_built|built]] by [[d/_daedalus|Daedalus]] in Knossos, [[c/_containing|containing]] the [[m/_minotaur|Minotaur]].**
+- **A [[m/_maze|maze]]-[[l/_like|like]] [[s/_structure|structure]] [[b/_built|built]] by [[d/_daedalus|Daedalus]] in Knossos, [[c/_containing|containing]] the [[m/_minotaur|Minotaur]].**
 - **[[p/_part|Part]] of the [[i/_inner|inner]] [[e/_ear|ear]].**
 - **[[a/_anything|Anything]] [[c/_complicated|complicated]] and [[c/_confusing|confusing]], [[l/_like|like]] a [[m/_maze|maze]].**
 - **[[a/_any|Any]] of various [[s/_satyrine|satyrine]] [[b/_butterflies|butterflies]] of the [[g/_genus|genus]] Neope.**

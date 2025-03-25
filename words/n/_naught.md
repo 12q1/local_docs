@@ -4,7 +4,7 @@
 - **[[n/_nothingness|Nothingness]].**
 ---
 #numeral
-- **([[o/_old|old]]-[[f/_fashioned|fashioned]]) [[a/_alternative|Alternative]] spelling of [[n/_nought|nought]]**
+- **([[o/_old|old]]-[[f/_fashioned|fashioned]]) [[a/_alternative|Alternative]] [[s/_spelling|spelling]] of [[n/_nought|nought]]**
 ---
 #pronoun
 - **[[n/_nothing|Nothing]].**

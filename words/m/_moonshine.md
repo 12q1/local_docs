@@ -7,7 +7,7 @@
 - **[[n/_nonsense|Nonsense]].**
 	- _Example: He was talking moonshine._
 - **A [[b/_branch|branch]] of [[p/_pure|pure]] [[m/_mathematics|mathematics]] [[r/_relating|relating]] the [[m/_monster|Monster]] [[g/_group|group]] to an [[i/_invariant|invariant]] of [[e/_elliptic|elliptic]] [[f/_functions|functions]].**
-- **A spiced [[d/_dish|dish]] of [[e/_eggs|eggs]] and [[f/_fried|fried]] [[o/_onions|onions]].**
+- **A [[s/_spiced|spiced]] [[d/_dish|dish]] of [[e/_eggs|eggs]] and [[f/_fried|fried]] [[o/_onions|onions]].**
 - **A [[m/_month|month]].**
 ---
 ### Synonyms

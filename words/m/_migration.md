@@ -6,6 +6,6 @@
 - **[[m/_movement|Movement]] in [[g/_general|general]].**
 	- _Example: The migration of lead from a can to the food inside it can cause lead poisoning._
 - **[[i/_instance|Instance]] of [[c/_changing|changing]] a [[p/_platform|platform]] from an [[e/_environment|environment]] to [[a/_another|another]] [[o/_one|one]].**
-- **The [[m/_movement|movement]] of [[c/_cells|cells]] in [[p/_particular|particular]] [[d/_directions|directions]] to specific [[l/_locations|locations]].**
+- **The [[m/_movement|movement]] of [[c/_cells|cells]] in [[p/_particular|particular]] [[d/_directions|directions]] to [[s/_specific|specific]] [[l/_locations|locations]].**
 ---
 ---

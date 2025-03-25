@@ -13,7 +13,7 @@
 - **A [[f/_field|field]] [[g/_goal|goal]].**
 	- _Example: We can't keep giving up easy buckets._
 - **(variation [[m/_management|management]]) A [[m/_mechanism|mechanism]] for [[a/_avoiding|avoiding]] the [[a/_allocation|allocation]] of targets in [[c/_cases|cases]] of [[m/_mismanagement|mismanagement]].**
-- **A storage [[s/_space|space]] in a [[h/_hash|hash]] table for [[e/_every|every]] [[i/_item|item]] [[s/_sharing|sharing]] a [[p/_particular|particular]] [[k/_key|key]].**
+- **A [[s/_storage|storage]] [[s/_space|space]] in a [[h/_hash|hash]] table for [[e/_every|every]] [[i/_item|item]] [[s/_sharing|sharing]] a [[p/_particular|particular]] [[k/_key|key]].**
 - **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[l/_large|large]] [[a/_amount|amount]] of [[l/_liquid|liquid]].**
 	- _Example: I was so nervous that I sweated buckets._
 - **A [[b/_bucket|bucket]] [[b/_bag|bag]].**
@@ -30,7 +30,7 @@
 	- _Example: It’s really bucketing down out there._
 - **To travel very [[q/_quickly|quickly]].**
 	- _Example: The boat is bucketing along._
-- **To [[c/_categorize|categorize]] ([[d/_data|data]]) by splitting it [[i/_into|into]] [[b/_buckets|buckets]], or [[g/_groups|groups]] of [[r/_related|related]] [[i/_items|items]].**
+- **To [[c/_categorize|categorize]] ([[d/_data|data]]) by [[s/_splitting|splitting]] it [[i/_into|into]] [[b/_buckets|buckets]], or [[g/_groups|groups]] of [[r/_related|related]] [[i/_items|items]].**
 - **To [[r/_ride|ride]] (a [[h/_horse|horse]]) [[h/_hard|hard]] or [[m/_mercilessly|mercilessly]].**
 - **To [[m/_make|make]], or [[c/_cause|cause]] to [[m/_make|make]] (the [[r/_recovery|recovery]]), with a [[c/_certain|certain]] [[h/_hurried|hurried]] or unskillful [[f/_forward|forward]] swing of the [[b/_body|body]].**
 ---

@@ -21,7 +21,7 @@
 	- _Example: I've got open orders for as many containers of red durum as you can get me._
 - **Not [[s/_settled|settled]] or [[a/_adjusted|adjusted]]; not [[d/_decided|decided]] or [[d/_determined|determined]]; not [[c/_closed|closed]] or withdrawn from [[c/_consideration|consideration]].**
 	- _Example: an open question_
-- **(stringed [[i/_instruments|instruments]]) Of a [[n/_note|note]], [[p/_played|played]] without [[p/_pressing|pressing]] the string [[a/_against|against]] the [[f/_fingerboard|fingerboard]].**
+- **([[s/_stringed|stringed]] [[i/_instruments|instruments]]) Of a [[n/_note|note]], [[p/_played|played]] without [[p/_pressing|pressing]] the [[s/_string|string]] [[a/_against|against]] the [[f/_fingerboard|fingerboard]].**
 - **(wind [[i/_instruments|instruments]]) Of a [[n/_note|note]], [[p/_played|played]] without [[c/_closing|closing]] [[a/_any|any]] [[f/_finger|finger]]-[[h/_hole|hole]], [[k/_key|key]] or valve.**
 - **Not of a [[q/_quality|quality]] to [[p/_prevent|prevent]] [[c/_communication|communication]], as by [[c/_closing|closing]] waterways, [[b/_blocking|blocking]] [[r/_roads|roads]], [[e/_etc|etc]].; [[h/_hence|hence]], not [[f/_frosty|frosty]] or [[i/_inclement|inclement]]; [[m/_mild|mild]]; used of the weather or the [[c/_climate|climate]].**
 	- _Example: an open winter_

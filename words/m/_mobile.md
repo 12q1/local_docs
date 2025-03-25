@@ -16,7 +16,7 @@
 - **[[e/_easily|Easily]] [[m/_moved|moved]] in [[f/_feeling|feeling]], [[p/_purpose|purpose]], or [[d/_direction|direction]]; [[e/_excitable|excitable]]; [[c/_changeable|changeable]]; [[f/_fickle|fickle]].**
 - **[[c/_changing|Changing]] in [[a/_appearance|appearance]] and [[e/_expression|expression]] under the [[i/_influence|influence]] of the [[m/_mind|mind]].**
 	- _Example: mobile features_
-- **[[c/_capable|Capable]] of [[b/_being|being]] [[m/_moved|moved]], [[a/_aroused|aroused]], or [[e/_excited|excited]]; [[c/_capable|capable]] of spontaneous [[m/_movement|movement]].**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[m/_moved|moved]], [[a/_aroused|aroused]], or [[e/_excited|excited]]; [[c/_capable|capable]] of [[s/_spontaneous|spontaneous]] [[m/_movement|movement]].**
 ---
 ### Synonyms
 - [[e/_excitable|excitable]], [[f/_fickle|fickle]]

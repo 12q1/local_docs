@@ -1,6 +1,6 @@
 # Paly
 ---
 #adjective
-- **Vertically striped**
+- **Vertically [[s/_striped|striped]]**
 ---
 ---

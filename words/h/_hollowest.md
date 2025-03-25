@@ -7,7 +7,7 @@
 	- _Example: He let out a hollow moan._
 - **Without substance; [[h/_having|having]] [[n/_no|no]] [[r/_real|real]] or [[s/_significant|significant]] worth; [[m/_meaningless|meaningless]].**
 	- _Example: a hollow victory_
-- **[[i/_insincere|Insincere]], [[d/_devoid|devoid]] of validity; specious.**
+- **[[i/_insincere|Insincere]], [[d/_devoid|devoid]] of validity; [[s/_specious|specious]].**
 	- _Example: a hollow promise_
 - **[[c/_concave|Concave]]; [[g/_gaunt|gaunt]]; sunken.**
 - **[[p/_pertaining|Pertaining]] to [[h/_hollow|hollow]] [[b/_body|body]] [[p/_position|position]]**

@@ -7,6 +7,6 @@
 - **[[r/_resembling|Resembling]] a [[c/_comb|comb]].**
 - **[[h/_having|Having]] [[s/_segments|segments]] which are [[g/_greatly|greatly]] [[l/_lengthened|lengthened]] to [[o/_one|one]] [[s/_side|side]].**
 	- _Example: The moth's antennae were pectinate in shape, set with long teeth along one edge only._
-- **Striate**
+- **[[s/_striate|Striate]]**
 ---
 ---

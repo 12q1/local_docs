@@ -7,9 +7,9 @@
 ### Synonyms
 - [[c/_comodo|comodo]]
 #adjective
-- **(to be) [[p/_played|played]] in this style**
+- **(to be) [[p/_played|played]] in this [[s/_style|style]]**
 ---
 #adverb
-- **[[p/_played|Played]] in this style**
+- **[[p/_played|Played]] in this [[s/_style|style]]**
 ---
 ---

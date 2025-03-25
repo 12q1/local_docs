@@ -9,7 +9,7 @@
 	- _Example: canny investments_
 - **[[p/_pleasant|Pleasant]], [[f/_fair|fair]], [[f/_favorable|favorable]] or [[a/_agreeable|agreeable]] to [[d/_deal|deal]] with.**
 	- _Example: She's a canny lass hor like!_
-- **[[g/_gentle|Gentle]], [[q/_quiet|quiet]], steady.**
+- **[[g/_gentle|Gentle]], [[q/_quiet|quiet]], [[s/_steady|steady]].**
 	- _Example: a canny horse_
 ---
 #adverb

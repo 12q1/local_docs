@@ -2,9 +2,9 @@
 ---
 #noun
 - **A [[s/_system|system]] of [[r/_rules|rules]] and [[p/_principles|principles]] for [[s/_speaking|speaking]] and writing a [[l/_language|language]].**
-- **The study of the [[i/_internal|internal]] structure of words ([[m/_morphology|morphology]]) and the use of words in the [[c/_construction|construction]] of [[p/_phrases|phrases]] and [[s/_sentences|sentences]] ([[s/_syntax|syntax]]).**
+- **The [[s/_study|study]] of the [[i/_internal|internal]] [[s/_structure|structure]] of words ([[m/_morphology|morphology]]) and the use of words in the [[c/_construction|construction]] of [[p/_phrases|phrases]] and [[s/_sentences|sentences]] ([[s/_syntax|syntax]]).**
 - **A [[b/_book|book]] [[d/_describing|describing]] the [[r/_rules|rules]] of [[g/_grammar|grammar]] of a [[l/_language|language]].**
-- **A [[f/_formal|formal]] [[s/_system|system]] specifying the [[s/_syntax|syntax]] of a [[l/_language|language]].**
+- **A [[f/_formal|formal]] [[s/_system|system]] [[s/_specifying|specifying]] the [[s/_syntax|syntax]] of a [[l/_language|language]].**
 - **[[a/_actual|Actual]] or [[p/_presumed|presumed]] [[p/_prescriptive|prescriptive]] [[n/_notions|notions]] [[a/_about|about]] the [[c/_correct|correct]] use of a [[l/_language|language]].**
 - **A [[f/_formal|formal]] [[s/_system|system]] [[d/_defining|defining]] a [[f/_formal|formal]] [[l/_language|language]]**
 - **The [[b/_basic|basic]] [[r/_rules|rules]] or [[p/_principles|principles]] of a [[f/_field|field]] of [[k/_knowledge|knowledge]] or a [[p/_particular|particular]] [[s/_skill|skill]].**

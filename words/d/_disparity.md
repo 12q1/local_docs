@@ -1,7 +1,7 @@
 # Disparity
 ---
 #noun
-- **The state of [[b/_being|being]] unequal; [[d/_difference|difference]].**
+- **The [[s/_state|state]] of [[b/_being|being]] unequal; [[d/_difference|difference]].**
 - **[[i/_incongruity|Incongruity]].**
 ---
 ### Synonyms

@@ -4,8 +4,8 @@
 - **To [[p/_pass|pass]] [[o/_over|over]] or by.**
 - **To [[o/_omit|omit]], [[m/_miss|miss]] or [[o/_overlook|overlook]] by [[c/_chance|chance]].**
 - **To [[m/_miss|miss]] [[i/_intentionally|intentionally]]; to [[a/_avoid|avoid]].**
-- **To stop, [[c/_check|check]], [[b/_block|block]].**
-- **To stop [[s/_short|short]] and [[r/_refuse|refuse]] to [[g/_go|go]] on.**
+- **To [[s/_stop|stop]], [[c/_check|check]], [[b/_block|block]].**
+- **To [[s/_stop|stop]] [[s/_short|short]] and [[r/_refuse|refuse]] to [[g/_go|go]] on.**
 	- _Example: The horse balked._
 - **To [[r/_refuse|refuse]] suddenly.**
 - **To [[d/_disappoint|disappoint]]; to [[f/_frustrate|frustrate]].**

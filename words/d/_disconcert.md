@@ -1,7 +1,7 @@
 # Disconcert
 ---
 #noun
-- **A state of [[d/_disunion|disunion]].**
+- **A [[s/_state|state]] of [[d/_disunion|disunion]].**
 ---
 #verb
 - **To upset the [[c/_composure|composure]] of.**

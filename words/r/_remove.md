@@ -4,7 +4,7 @@
 - **The [[a/_act|act]] of [[r/_removing|removing]] [[s/_something|something]].**
 - **([[a/_archaic|archaic]]) [[r/_removing|Removing]] a [[d/_dish|dish]] at a [[m/_meal|meal]] in [[o/_order|order]] to [[r/_replace|replace]] it with the [[n/_next|next]] [[c/_course|course]], a [[d/_dish|dish]] thus [[r/_replaced|replaced]], or the [[r/_replacement|replacement]].**
 - **(at [[s/_some|some]] [[p/_public|public]] [[s/_schools|schools]]) A [[d/_division|division]] of the [[s/_school|school]], [[e/_especially|especially]] the [[f/_form|form]] [[p/_prior|prior]] to [[l/_last|last]]**
-- **A step or [[g/_gradation|gradation]] (as in the [[p/_phrase|phrase]] "at [[o/_one|one]] [[r/_remove|remove]]")**
+- **A [[s/_step|step]] or [[g/_gradation|gradation]] (as in the [[p/_phrase|phrase]] "at [[o/_one|one]] [[r/_remove|remove]]")**
 - **[[d/_distance|Distance]] in time or [[s/_space|space]]; [[i/_interval|interval]].**
 - **(by [[e/_extension|extension]]) [[e/_emotional|Emotional]] [[d/_distance|distance]] or [[i/_indifference|indifference]].**
 - **The transfer of [[o/_one|one]]'[[s/_s|s]] [[h/_home|home]] or [[b/_business|business]] to [[a/_another|another]] [[p/_place|place]]; a [[m/_move|move]].**

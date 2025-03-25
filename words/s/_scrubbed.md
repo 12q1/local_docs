@@ -16,7 +16,7 @@
 ### Synonyms
 - [[s/_seek|seek]]
 #adjective
-- **With [[h/_hands|hands]] washed [[a/_according|according]] to [[o/_operating|operating]] [[r/_room|room]] [[p/_protocol|protocol]] and wearing sterile [[g/_gown|gown]] and sterile [[g/_gloves|gloves]].**
-- **[[d/_dwarfed|Dwarfed]] or stunted; [[s/_scrubby|scrubby]].**
+- **With [[h/_hands|hands]] washed [[a/_according|according]] to [[o/_operating|operating]] [[r/_room|room]] [[p/_protocol|protocol]] and wearing [[s/_sterile|sterile]] [[g/_gown|gown]] and [[s/_sterile|sterile]] [[g/_gloves|gloves]].**
+- **[[d/_dwarfed|Dwarfed]] or [[s/_stunted|stunted]]; [[s/_scrubby|scrubby]].**
 ---
 ---

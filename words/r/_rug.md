@@ -16,7 +16,7 @@
 ### Synonyms
 - [[c/_carpet|carpet]], [[m/_mat|mat]], [[t/_toupee|toupee]], [[w/_wig|wig]]
 #verb
-- **To [[p/_pull|pull]] [[r/_roughly|roughly]] or [[h/_hastily|hastily]]; to [[p/_plunder|plunder]]; to spoil; to tear.**
+- **To [[p/_pull|pull]] [[r/_roughly|roughly]] or [[h/_hastily|hastily]]; to [[p/_plunder|plunder]]; to [[s/_spoil|spoil]]; to tear.**
 ---
 #adjective
 - **[[s/_snug|Snug]]; [[c/_cosy|cosy]]**

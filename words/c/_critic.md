@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_person|person]] who [[a/_appraises|appraises]] the works of [[o/_others|others]].**
-- **A specialist in [[j/_judging|judging]] works of [[a/_art|art]].**
+- **A [[s/_specialist|specialist]] in [[j/_judging|judging]] works of [[a/_art|art]].**
 - **[[o/_one|One]] who [[c/_criticizes|criticizes]]; a [[p/_person|person]] who [[f/_finds|finds]] [[f/_fault|fault]].**
 - **An [[o/_opponent|opponent]].**
 ---

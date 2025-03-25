@@ -7,6 +7,6 @@
 ### Synonyms
 - [[b/_blackball|blackball]]
 #adjective
-- **[[b/_being|Being]] on a [[b/_blacklist|blacklist]], or [[h/_having|having]] [[b/_been|been]] [[s/_shunned|shunned]] and [[r/_rejected|rejected]] [[d/_due|due]] to [[i/_information|information]] (true or [[f/_false|false]]) [[b/_being|being]] spread [[a/_about|about]] [[s/_scandalous|scandalous]] [[a/_activities|activities]] or [[i/_ideas|ideas]], [[e/_especially|especially]] [[c/_controversial|controversial]] [[p/_political|political]] [[o/_opinions|opinions]].**
+- **[[b/_being|Being]] on a [[b/_blacklist|blacklist]], or [[h/_having|having]] [[b/_been|been]] [[s/_shunned|shunned]] and [[r/_rejected|rejected]] [[d/_due|due]] to [[i/_information|information]] (true or [[f/_false|false]]) [[b/_being|being]] [[s/_spread|spread]] [[a/_about|about]] [[s/_scandalous|scandalous]] [[a/_activities|activities]] or [[i/_ideas|ideas]], [[e/_especially|especially]] [[c/_controversial|controversial]] [[p/_political|political]] [[o/_opinions|opinions]].**
 ---
 ---

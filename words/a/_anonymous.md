@@ -1,7 +1,7 @@
 # Anonymous
 ---
 #adjective
-- **[[l/_lacking|Lacking]] a [[n/_name|name]]; not [[n/_named|named]], for [[e/_example|example]] an [[a/_animal|animal]] not [[a/_assigned|assigned]] to [[a/_any|any]] species.**
+- **[[l/_lacking|Lacking]] a [[n/_name|name]]; not [[n/_named|named]], for [[e/_example|example]] an [[a/_animal|animal]] not [[a/_assigned|assigned]] to [[a/_any|any]] [[s/_species|species]].**
 - **Without [[a/_any|any]] [[n/_name|name]] [[a/_acknowledged|acknowledged]] of a [[p/_person|person]] [[r/_responsible|responsible]]**
 	- _Example: an anonymous pamphlet_
 - **Of unknown [[n/_name|name]]; whose [[n/_name|name]] is withheld**

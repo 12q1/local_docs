@@ -4,7 +4,7 @@
 - **An [[a/_artificial|artificial]] [[b/_barrier|barrier]], variously [[c/_constructed|constructed]], [[o/_over|over]] which [[a/_athletes|athletes]] or [[h/_horses|horses]] [[j/_jump|jump]] in a [[r/_race|race]].**
 	- _Example: He ran in the 100 metres hurdles._
 - **A [[p/_perceived|perceived]] [[o/_obstacle|obstacle]].**
-- **A [[m/_movable|movable]] [[f/_frame|frame]] of wattled twigs, [[o/_osiers|osiers]], or withes and stakes, or [[s/_sometimes|sometimes]] of [[i/_iron|iron]], used for [[e/_enclosing|enclosing]] [[l/_land|land]], for [[f/_folding|folding]] [[s/_sheep|sheep]] and [[c/_cattle|cattle]], for [[g/_gates|gates]], [[e/_etc|etc]].; [[a/_also|also]], in [[f/_fortification|fortification]], used as [[r/_revetments|revetments]], and for [[o/_other|other]] [[p/_purposes|purposes]].**
+- **A [[m/_movable|movable]] [[f/_frame|frame]] of wattled twigs, [[o/_osiers|osiers]], or withes and [[s/_stakes|stakes]], or [[s/_sometimes|sometimes]] of [[i/_iron|iron]], used for [[e/_enclosing|enclosing]] [[l/_land|land]], for [[f/_folding|folding]] [[s/_sheep|sheep]] and [[c/_cattle|cattle]], for [[g/_gates|gates]], [[e/_etc|etc]].; [[a/_also|also]], in [[f/_fortification|fortification]], used as [[r/_revetments|revetments]], and for [[o/_other|other]] [[p/_purposes|purposes]].**
 - **A [[s/_sled|sled]] or [[c/_crate|crate]] on which [[c/_criminals|criminals]] were [[f/_formerly|formerly]] [[d/_drawn|drawn]] to the [[p/_place|place]] of [[e/_execution|execution]].**
 ---
 #verb

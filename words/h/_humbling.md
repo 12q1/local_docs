@@ -10,7 +10,7 @@
 - **An [[e/_event|event]] which [[c/_causes|causes]] [[h/_humbleness|humbleness]]; a [[s/_set|set]]-[[d/_down|down]].**
 ---
 #adjective
-- **Of [[h/_higher|higher]] [[r/_rank|rank]], status, [[q/_quality|quality]], strength, [[e/_etc|etc]].; [[i/_inducing|inducing]] a [[f/_feeling|feeling]] of [[i/_inferiority|inferiority]].**
+- **Of [[h/_higher|higher]] [[r/_rank|rank]], [[s/_status|status]], [[q/_quality|quality]], [[s/_strength|strength]], [[e/_etc|etc]].; [[i/_inducing|inducing]] a [[f/_feeling|feeling]] of [[i/_inferiority|inferiority]].**
 ---
 #verb
 - **Of an [[a/_animal|animal]]: to [[r/_remove|remove]] the [[h/_horns|horns]]; to [[p/_poll|poll]].**

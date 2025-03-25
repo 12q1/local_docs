@@ -11,7 +11,7 @@
 ---
 #adjective
 - **[[h/_having|Having]] a [[g/_grain|grain]] or [[g/_grains|grains]]**
-- **Stained with an [[i/_imitation|imitation]] wood [[g/_grain|grain]]**
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified type of [[g/_grain|grain]] [[e/_e|e]].[[g/_g|g]]. [[c/_close|close]]-[[g/_grained|grained]]**
+- **[[s/_stained|Stained]] with an [[i/_imitation|imitation]] wood [[g/_grain|grain]]**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[s/_specified|specified]] type of [[g/_grain|grain]] [[e/_e|e]].[[g/_g|g]]. [[c/_close|close]]-[[g/_grained|grained]]**
 ---
 ---

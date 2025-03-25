@@ -14,7 +14,7 @@
 - **A [[s/_shop|shop]] tabletop on which [[g/_goods|goods]] are [[e/_examined|examined]], weighed or [[m/_measured|measured]].**
 - **In a [[k/_kitchen|kitchen]], a surface, [[o/_often|often]] [[b/_built|built]] [[i/_into|into]] the wall and [[a/_above|above]] a [[c/_cabinet|cabinet]], [[d/_designed|designed]] to be used for [[f/_food|food]] [[p/_preparation|preparation]].**
 - **In a [[b/_bathroom|bathroom]], a surface, [[o/_often|often]] [[b/_built|built]] [[i/_into|into]] the wall and [[a/_above|above]] a [[c/_cabinet|cabinet]], which [[h/_holds|holds]] the washbasin.**
-- **[[a/_any|Any]] stone [[l/_lying|lying]] [[c/_closer|closer]] to the [[c/_center|center]] than [[a/_any|any]] of the [[o/_opponent|opponent]]'[[s/_s|s]] stones.**
+- **[[a/_any|Any]] [[s/_stone|stone]] [[l/_lying|lying]] [[c/_closer|closer]] to the [[c/_center|center]] than [[a/_any|any]] of the [[o/_opponent|opponent]]'[[s/_s|s]] [[s/_stones|stones]].**
 - **The [[p/_prison|prison]] [[a/_attached|attached]] to a [[c/_city|city]] [[c/_court|court]]; a [[c/_compter|compter]].**
 - **([[g/_grammar|grammar]]) A [[c/_class|class]] of word used [[a/_along|along]] with [[n/_numbers|numbers]] to [[c/_count|count]] [[o/_objects|objects]] and [[e/_events|events]], typically [[m/_mass|mass]] [[n/_nouns|nouns]]. [[a/_although|Although]] [[r/_rare|rare]] and [[o/_optional|optional]] in [[e/_english|English]] ([[e/_e|e]].[[g/_g|g]]. "20 [[h/_head|head]] of [[c/_cattle|cattle]]"), they are [[n/_numerous|numerous]] and [[r/_required|required]] in [[c/_chinese|Chinese]], [[j/_japanese|Japanese]], and [[k/_korean|Korean]].**
 ---

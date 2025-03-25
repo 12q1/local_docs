@@ -6,7 +6,7 @@
 - **A [[c/_coup|coup]] [[d/_d|d]]'état.**
 - **(by [[e/_extension|extension]]) A takeover of [[o/_one|one]] [[g/_group|group]] by [[a/_another|another]].**
 - **A [[s/_single|single]] [[r/_roll|roll]] of the wheel at [[r/_roulette|roulette]], or a [[d/_deal|deal]] in [[r/_rouge|rouge]] [[e/_et|et]] [[n/_noir|noir]].**
-- **[[o/_one|One]] of various [[n/_named|named]] strategies [[e/_employed|employed]] by the [[d/_declarer|declarer]] to win [[m/_more|more]] tricks, such as the [[b/_bath|Bath]] [[c/_coup|coup]].**
+- **[[o/_one|One]] of various [[n/_named|named]] [[s/_strategies|strategies]] [[e/_employed|employed]] by the [[d/_declarer|declarer]] to win [[m/_more|more]] tricks, such as the [[b/_bath|Bath]] [[c/_coup|coup]].**
 ---
 ### Synonyms
 - [[p/_putsch|putsch]], [[t/_triumph|triumph]]

@@ -10,14 +10,14 @@
 	- _Example: He hooked his fingers through his belt loops._
 - **To [[e/_ensnare|ensnare]] or [[o/_obligate|obligate]] [[s/_someone|someone]], as [[i/_if|if]] with a [[h/_hook|hook]].**
 	- _Example: A free trial is a good way to hook customers._
-- **To steal.**
+- **To [[s/_steal|steal]].**
 - **To [[c/_connect|connect]] ([[h/_hook|hook]] [[i/_into|into]], [[h/_hook|hook]] together).**
 	- _Example: If you hook your network cable into the jack, you'll be on the network._
 - **(usually in [[p/_passive|passive]]) To [[m/_make|make]] [[a/_addicted|addicted]]; to [[c/_captivate|captivate]].**
 	- _Example: He had gotten hooked on cigarettes in his youth._
 - **To [[p/_play|play]] a [[h/_hook|hook]] [[s/_shot|shot]].**
 - **To succeed in [[h/_heeling|heeling]] the [[b/_ball|ball]] [[b/_back|back]] [[o/_out|out]] of a [[s/_scrum|scrum]] (used [[p/_particularly|particularly]] of the team'[[s/_s|s]] [[d/_designated|designated]] [[h/_hooker|hooker]]).**
-- **To [[e/_engage|engage]] in the [[i/_illegal|illegal]] [[m/_maneuver|maneuver]] of [[h/_hooking|hooking]] ([[i/_i|i]].[[e/_e|e]]., using the [[h/_hockey|hockey]] stick to trip or [[b/_block|block]] [[a/_another|another]] [[p/_player|player]])**
+- **To [[e/_engage|engage]] in the [[i/_illegal|illegal]] [[m/_maneuver|maneuver]] of [[h/_hooking|hooking]] ([[i/_i|i]].[[e/_e|e]]., using the [[h/_hockey|hockey]] [[s/_stick|stick]] to trip or [[b/_block|block]] [[a/_another|another]] [[p/_player|player]])**
 	- _Example: The opposing team's forward hooked me, but the referee didn't see it, so no penalty._
 - **To swerve a [[b/_ball|ball]]; [[k/_kick|kick]] a [[b/_ball|ball]] [[s/_so|so]] it swerves or [[b/_bends|bends]].**
 - **To [[e/_engage|engage]] in [[p/_prostitution|prostitution]].**
@@ -29,6 +29,6 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_catching|catching]] or [[f/_fastening|fastening]] [[s/_something|something]] on a [[h/_hook|hook]].**
-- **([[b/_bandy|bandy]], floorball) The [[p/_penalized|penalized]] [[a/_action|action]] of using [[o/_one|one]]'[[s/_s|s]] stick to [[r/_restrain|restrain]] an [[o/_opponent|opponent]].**
+- **([[b/_bandy|bandy]], floorball) The [[p/_penalized|penalized]] [[a/_action|action]] of using [[o/_one|one]]'[[s/_s|s]] [[s/_stick|stick]] to [[r/_restrain|restrain]] an [[o/_opponent|opponent]].**
 ---
 ---

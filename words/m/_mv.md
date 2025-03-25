@@ -8,7 +8,7 @@
 	- _Example: A ship moves rapidly._
 - **To [[a/_act|act]]; to take [[a/_action|action]]; to [[b/_begin|begin]] to [[a/_act|act]]**
 	- _Example: Come on guys, let's move: there's work to do!_
-- **To [[c/_change|change]] [[r/_residence|residence]], for [[e/_example|example]] from [[o/_one|one]] [[h/_house|house]], town, or state, to [[a/_another|another]]; to [[g/_go|go]] and [[l/_live|live]] at [[a/_another|another]] [[p/_place|place]]. [[s/_see|See]] [[a/_also|also]] [[m/_move|move]] [[o/_out|out]] and [[m/_move|move]] in.**
+- **To [[c/_change|change]] [[r/_residence|residence]], for [[e/_example|example]] from [[o/_one|one]] [[h/_house|house]], town, or [[s/_state|state]], to [[a/_another|another]]; to [[g/_go|go]] and [[l/_live|live]] at [[a/_another|another]] [[p/_place|place]]. [[s/_see|See]] [[a/_also|also]] [[m/_move|move]] [[o/_out|out]] and [[m/_move|move]] in.**
 	- _Example: I decided to move to the country for a more peaceful life._
 - **(and [[o/_other|other]] [[g/_games|games]]) To [[c/_change|change]] the [[p/_place|place]] of a [[p/_piece|piece]] in [[a/_accordance|accordance]] with the [[r/_rules|rules]] of the [[g/_game|game]].**
 	- _Example: My opponent's counter was moving much quicker round the board than mine._
@@ -20,7 +20,7 @@
 	- _Example: This song moves me to dance._
 - **To [[a/_arouse|arouse]] the [[f/_feelings|feelings]] or [[p/_passions|passions]] of; [[e/_especially|especially]], to [[e/_excite|excite]] to tenderness or [[c/_compassion|compassion]], to [[e/_excite|excite]] (for [[e/_example|example]], an [[e/_emotion|emotion]]).**
 	- _Example: That book really moved me._
-- **To [[p/_propose|propose]]; to [[r/_recommend|recommend]]; specifically, to [[p/_propose|propose]] [[f/_formally|formally]] for [[c/_consideration|consideration]] and [[d/_determination|determination]], in a [[d/_deliberative|deliberative]] [[a/_assembly|assembly]]; to submit**
+- **To [[p/_propose|propose]]; to [[r/_recommend|recommend]]; [[s/_specifically|specifically]], to [[p/_propose|propose]] [[f/_formally|formally]] for [[c/_consideration|consideration]] and [[d/_determination|determination]], in a [[d/_deliberative|deliberative]] [[a/_assembly|assembly]]; to submit**
 	- _Example: I move to repeal the rule regarding obligatory school uniform._
 - **To [[m/_mention|mention]]; to [[r/_raise|raise]] (a [[q/_question|question]]); to suggest (a [[c/_course|course]] of [[a/_action|action]]); to [[l/_lodge|lodge]] (a [[c/_complaint|complaint]]).**
 - **To [[i/_incite|incite]], urge ([[s/_someone|someone]] to [[d/_do|do]] [[s/_something|something]]); to [[s/_solicit|solicit]] ([[s/_someone|someone]] for or of an [[i/_issue|issue]]); to [[m/_make|make]] a [[p/_proposal|proposal]] to.**

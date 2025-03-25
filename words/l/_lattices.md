@@ -1,7 +1,7 @@
 # Lattices
 ---
 #noun
-- **A [[f/_flat|flat]] [[p/_panel|panel]] [[c/_constructed|constructed]] with widely-[[s/_spaced|spaced]] [[c/_crossed|crossed]] thin strips of wood or [[o/_other|other]] [[m/_material|material]], [[c/_commonly|commonly]] used as a [[g/_garden|garden]] trellis.**
+- **A [[f/_flat|flat]] [[p/_panel|panel]] [[c/_constructed|constructed]] with widely-[[s/_spaced|spaced]] [[c/_crossed|crossed]] thin [[s/_strips|strips]] of wood or [[o/_other|other]] [[m/_material|material]], [[c/_commonly|commonly]] used as a [[g/_garden|garden]] trellis.**
 - **A [[b/_bearing|bearing]] with vertical and [[h/_horizontal|horizontal]] [[b/_bands|bands]] that [[c/_cross|cross]] [[e/_each|each]] [[o/_other|other]].**
 - **A [[r/_regular|regular]] [[s/_spacing|spacing]] or [[a/_arrangement|arrangement]] of [[g/_geometric|geometric]] [[p/_points|points]], [[o/_often|often]] [[d/_decorated|decorated]] with a [[m/_motif|motif]].**
 - **A [[d/_discrete|discrete]] subgroup of [[r/_rn|Rn]] which is [[i/_isomorphic|isomorphic]] to Zn ([[c/_considered|considered]] as an [[a/_additive|additive]] [[g/_group|group]]) and [[s/_spans|spans]] the [[r/_real|real]] vector [[s/_space|space]] [[r/_rn|Rn]].**

@@ -1,7 +1,7 @@
 # Grease
 ---
 #noun
-- **[[a/_animal|Animal]] [[f/_fat|fat]] in a [[m/_melted|melted]] or [[s/_soft|soft]] state**
+- **[[a/_animal|Animal]] [[f/_fat|fat]] in a [[m/_melted|melted]] or [[s/_soft|soft]] [[s/_state|state]]**
 - **([[e/_extension|extension]]) [[a/_any|Any]] [[o/_oily|oily]] or [[f/_fatty|fatty]] [[m/_matter|matter]].**
 - **[[s/_shorn|Shorn]] but not [[y/_yet|yet]] [[c/_cleansed|cleansed]] wool**
 - **[[i/_inflammation|Inflammation]] of a [[h/_horse|horse]]'[[s/_s|s]] [[h/_heels|heels]], [[a/_also|also]] [[k/_known|known]] as [[s/_scratches|scratches]] or [[p/_pastern|pastern]] [[d/_dermatitis|dermatitis]].**

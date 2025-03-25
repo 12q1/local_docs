@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[r/_reduce|reduce]] in [[s/_size|size]], [[f/_force|force]], value, [[a/_amount|amount]], or [[d/_degree|degree]].**
-- **To [[m/_make|make]] thinner, as by [[p/_physically|physically]] [[r/_reshaping|reshaping]], starving, or [[d/_decaying|decaying]].**
+- **To [[m/_make|make]] thinner, as by [[p/_physically|physically]] [[r/_reshaping|reshaping]], [[s/_starving|starving]], or [[d/_decaying|decaying]].**
 - **To [[b/_become|become]] thin or [[f/_fine|fine]]; to [[g/_grow|grow]] [[l/_less|less]].**
 - **To weaken.**
 - **To [[r/_rarefy|rarefy]].**

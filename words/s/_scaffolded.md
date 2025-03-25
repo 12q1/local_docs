@@ -6,6 +6,6 @@
 - **To [[d/_dispose|dispose]] of the [[b/_bodies|bodies]] of the [[d/_dead|dead]] on a [[s/_scaffold|scaffold]] or [[r/_raised|raised]] [[p/_platform|platform]], as by [[s/_some|some]] [[n/_native|Native]] [[a/_american|American]] tribes.**
 ---
 #adjective
-- **(of a [[b/_building|building]] or [[s/_similar|similar]] structure) supplied with [[e/_erected|erected]] [[s/_scaffolding|scaffolding]]**
+- **(of a [[b/_building|building]] or [[s/_similar|similar]] [[s/_structure|structure]]) supplied with [[e/_erected|erected]] [[s/_scaffolding|scaffolding]]**
 ---
 ---

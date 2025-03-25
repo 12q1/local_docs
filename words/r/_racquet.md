@@ -1,7 +1,7 @@
 # Racquet
 ---
 #noun
-- **An [[i/_implement|implement]] with a [[h/_handle|handle]] [[c/_connected|connected]] to a [[r/_round|round]] [[f/_frame|frame]] strung with wire, [[s/_sinew|sinew]], or [[p/_plastic|plastic]] [[c/_cords|cords]], and used to [[h/_hit|hit]] a [[b/_ball|ball]], such as in tennis, or a [[s/_shuttlecock|shuttlecock]] in [[b/_badminton|badminton]].**
+- **An [[i/_implement|implement]] with a [[h/_handle|handle]] [[c/_connected|connected]] to a [[r/_round|round]] [[f/_frame|frame]] [[s/_strung|strung]] with wire, [[s/_sinew|sinew]], or [[p/_plastic|plastic]] [[c/_cords|cords]], and used to [[h/_hit|hit]] a [[b/_ball|ball]], such as in tennis, or a [[s/_shuttlecock|shuttlecock]] in [[b/_badminton|badminton]].**
 ---
 ### Synonyms
 - [[b/_bat|bat]], [[p/_paddle|paddle]]

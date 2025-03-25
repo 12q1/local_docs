@@ -5,7 +5,7 @@
 	- _Example: a glut of the market_
 - **That which is swallowed.**
 - **[[s/_something|Something]] that [[f/_fills|fills]] up an [[o/_opening|opening]].**
-- **A wooden wedge used in splitting [[b/_blocks|blocks]].**
+- **A wooden wedge used in [[s/_splitting|splitting]] [[b/_blocks|blocks]].**
 - **A [[p/_piece|piece]] of wood used to [[f/_fill|fill]] up [[b/_behind|behind]] [[c/_cribbing|cribbing]] or tubbing.**
 - **([[b/_bricklaying|bricklaying]]) A [[b/_bat|bat]], or [[s/_small|small]] [[p/_piece|piece]] of [[b/_brick|brick]], used to [[f/_fill|fill]] [[o/_out|out]] a [[c/_course|course]].**
 - **An [[a/_arched|arched]] [[o/_opening|opening]] to the [[a/_ashpit|ashpit]] of a [[k/_kiln|kiln]].**

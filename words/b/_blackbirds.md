@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_common|common]] true thrush, Turdus [[m/_merula|merula]], [[f/_found|found]] in woods and [[g/_gardens|gardens]] [[o/_over|over]] [[m/_much|much]] of [[e/_eurasia|Eurasia]], and [[i/_introduced|introduced]] [[e/_elsewhere|elsewhere]].**
-- **A variety of [[n/_new|New]] World [[b/_birds|birds]] of the [[f/_family|family]] [[i/_icteridae|Icteridae]] (26 species of icterid [[b/_bird|bird]]).**
+- **A variety of [[n/_new|New]] World [[b/_birds|birds]] of the [[f/_family|family]] [[i/_icteridae|Icteridae]] (26 [[s/_species|species]] of icterid [[b/_bird|bird]]).**
 - **([[a/_among|among]] [[s/_slavers|slavers]] and [[p/_pirates|pirates]]) A [[n/_native|native]] of the [[s/_south|South]] [[p/_pacific|Pacific]] [[i/_islands|islands]].**
 ---
 ### Synonyms

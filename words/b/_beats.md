@@ -1,13 +1,13 @@
 # Beats
 ---
 #noun
-- **A stroke; a [[b/_blow|blow]].**
+- **A [[s/_stroke|stroke]]; a [[b/_blow|blow]].**
 - **A [[p/_pulsation|pulsation]] or throb.**
 	- _Example: a beat of the heart; the beat of the pulse_
 - **A [[p/_pulse|pulse]] on the [[b/_beat|beat]] [[l/_level|level]], the [[m/_metric|metric]] [[l/_level|level]] at which [[p/_pulses|pulses]] are [[h/_heard|heard]] as the [[b/_basic|basic]] unit. Thus a [[b/_beat|beat]] is the [[b/_basic|basic]] time unit of a [[p/_piece|piece]].**
 - **A [[r/_rhythm|rhythm]].**
 - **The [[i/_interference|interference]] [[b/_between|between]] two tones of [[a/_almost|almost]] [[e/_equal|equal]] [[f/_frequency|frequency]]**
-- **([[a/_authorship|authorship]]) A [[s/_short|short]] [[p/_pause|pause]] in a [[p/_play|play]], [[s/_screenplay|screenplay]], or teleplay, for [[d/_dramatic|dramatic]] or [[c/_comedic|comedic]] [[e/_effect|effect]]; a [[p/_plot|plot]] [[p/_point|point]] or story [[d/_development|development]].**
+- **([[a/_authorship|authorship]]) A [[s/_short|short]] [[p/_pause|pause]] in a [[p/_play|play]], [[s/_screenplay|screenplay]], or teleplay, for [[d/_dramatic|dramatic]] or [[c/_comedic|comedic]] [[e/_effect|effect]]; a [[p/_plot|plot]] [[p/_point|point]] or [[s/_story|story]] [[d/_development|development]].**
 - **The [[r/_route|route]] [[p/_patrolled|patrolled]] by a [[p/_police|police]] [[o/_officer|officer]] or a [[g/_guard|guard]].**
 - **(by [[e/_extension|extension]]) An [[a/_area|area]] of a [[p/_person|person]]'[[s/_s|s]] [[r/_responsibility|responsibility]], [[e/_especially|especially]]**
 - **An [[a/_act|act]] of [[r/_reporting|reporting]] [[n/_news|news]] or [[s/_scientific|scientific]] [[r/_results|results]] [[b/_before|before]] a [[r/_rival|rival]]; a [[s/_scoop|scoop]].**
@@ -22,16 +22,16 @@
 - **A [[s/_smart|smart]] tap on the [[a/_adversary|adversary]]'[[s/_s|s]] [[b/_blade|blade]].**
 ---
 #verb
-- **To [[h/_hit|hit]]; strike**
+- **To [[h/_hit|hit]]; [[s/_strike|strike]]**
 	- _Example: As soon as she heard that her father had died, she went into a rage and beat the wall with her fists until her knuckles bled._
-- **To strike or [[p/_pound|pound]] [[r/_repeatedly|repeatedly]], usually in [[s/_some|some]] [[s/_sort|sort]] of [[r/_rhythm|rhythm]].**
+- **To [[s/_strike|strike]] or [[p/_pound|pound]] [[r/_repeatedly|repeatedly]], usually in [[s/_some|some]] [[s/_sort|sort]] of [[r/_rhythm|rhythm]].**
 	- _Example: He danced hypnotically while she beat the atabaque._
-- **To strike [[r/_repeatedly|repeatedly]]; to [[i/_inflict|inflict]] [[r/_repeated|repeated]] [[b/_blows|blows]]; to [[k/_knock|knock]] vigorously or [[l/_loudly|loudly]].**
+- **To [[s/_strike|strike]] [[r/_repeatedly|repeatedly]]; to [[i/_inflict|inflict]] [[r/_repeated|repeated]] [[b/_blows|blows]]; to [[k/_knock|knock]] vigorously or [[l/_loudly|loudly]].**
 - **To [[m/_move|move]] with [[p/_pulsation|pulsation]] or throbbing.**
 - **To win [[a/_against|against]]; to [[d/_defeat|defeat]] or [[o/_overcome|overcome]]; to [[d/_do|do]] [[b/_better|better]] than, [[o/_outdo|outdo]], or [[e/_excel|excel]] ([[s/_someone|someone]]) in a [[p/_particular|particular]], [[c/_competitive|competitive]] [[e/_event|event]].**
 	- _Example: I just can't seem to beat the last level of this video game._
 - **To [[s/_sail|sail]] to windward using a [[s/_series|series]] of [[a/_alternate|alternate]] tacks [[a/_across|across]] the wind.**
-- **To strike (water, [[f/_foliage|foliage]] [[e/_etc|etc]].) in [[o/_order|order]] to [[d/_drive|drive]] [[o/_out|out]] [[g/_game|game]]; to travel through (a [[f/_forest|forest]] [[e/_etc|etc]].) for [[h/_hunting|hunting]].**
+- **To [[s/_strike|strike]] (water, [[f/_foliage|foliage]] [[e/_etc|etc]].) in [[o/_order|order]] to [[d/_drive|drive]] [[o/_out|out]] [[g/_game|game]]; to travel through (a [[f/_forest|forest]] [[e/_etc|etc]].) for [[h/_hunting|hunting]].**
 - **To [[m/_mix|mix]] [[f/_food|food]] in a [[r/_rapid|rapid]] [[f/_fashion|fashion]]. [[c/_compare|Compare]] whip.**
 	- _Example: Beat the eggs and whip the cream._
 - **(In [[h/_haggling|haggling]] for a [[p/_price|price]]) of a [[b/_buyer|buyer]], to [[p/_persuade|persuade]] the [[s/_seller|seller]] to [[r/_reduce|reduce]] a [[p/_price|price]]**
@@ -41,9 +41,9 @@
 - **To tread, as a [[p/_path|path]].**
 - **To [[e/_exercise|exercise]] [[s/_severely|severely]]; to [[p/_perplex|perplex]]; to trouble.**
 - **To be in [[a/_agitation|agitation]] or [[d/_doubt|doubt]].**
-- **To [[m/_make|make]] a [[s/_sound|sound]] when struck.**
+- **To [[m/_make|make]] a [[s/_sound|sound]] when [[s/_struck|struck]].**
 	- _Example: The drums beat._
-- **To [[m/_make|make]] a succession of strokes on a [[d/_drum|drum]].**
+- **To [[m/_make|make]] a succession of [[s/_strokes|strokes]] on a [[d/_drum|drum]].**
 	- _Example: The drummers beat to call soldiers to their quarters._
 - **To [[s/_sound|sound]] with [[m/_more|more]] or [[l/_less|less]] [[r/_rapid|rapid]] [[a/_alternations|alternations]] of [[g/_greater|greater]] and [[l/_less|less]] [[i/_intensity|intensity]], [[s/_so|so]] as to [[p/_produce|produce]] a [[p/_pulsating|pulsating]] [[e/_effect|effect]]; [[s/_said|said]] of [[i/_instruments|instruments]], tones, or vibrations, not [[p/_perfectly|perfectly]] in unison.**
 - **To [[a/_arrive|arrive]] at a [[p/_place|place]] [[b/_before|before]] [[s/_someone|someone]].**

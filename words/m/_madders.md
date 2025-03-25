@@ -7,6 +7,6 @@
 - **A [[d/_deep|deep]] [[r/_reddish|reddish]] [[p/_purple|purple]] [[c/_colour|colour]], [[l/_like|like]] that of the [[d/_dye|dye]].**
 ---
 #noun
-- **A [[c/_communal|communal]] [[d/_drinking|drinking]] vessel used in [[g/_gaelic|Gaelic]] times for [[d/_drinking|drinking]] [[m/_mead|mead]]. It [[h/_had|had]] squared [[s/_sides|sides]] and [[o/_one|one]] [[d/_drank|drank]] from a [[c/_corner|corner]]. [[a/_also|Also]], a trophy in this [[s/_shape|shape]].**
+- **A [[c/_communal|communal]] [[d/_drinking|drinking]] vessel used in [[g/_gaelic|Gaelic]] times for [[d/_drinking|drinking]] [[m/_mead|mead]]. It [[h/_had|had]] [[s/_squared|squared]] [[s/_sides|sides]] and [[o/_one|one]] [[d/_drank|drank]] from a [[c/_corner|corner]]. [[a/_also|Also]], a trophy in this [[s/_shape|shape]].**
 ---
 ---

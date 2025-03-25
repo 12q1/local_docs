@@ -1,7 +1,7 @@
 # Marriages
 ---
 #noun
-- **The state of [[b/_being|being]] [[m/_married|married]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[m/_married|married]].**
 	- _Example: You should enter marriage for love._
 - **A union of two or [[m/_more|more]] [[p/_people|people]] that [[c/_creates|creates]] a [[f/_family|family]] tie and [[c/_carries|carries]] [[l/_legal|legal]], [[s/_social|social]], and/or [[r/_religious|religious]] [[r/_rights|rights]] and [[r/_responsibilities|responsibilities]].**
 - **A [[h/_homosexual|homosexual]] [[r/_relationship|relationship]] [[b/_between|between]] [[m/_male|male]] [[p/_prisoners|prisoners]].**

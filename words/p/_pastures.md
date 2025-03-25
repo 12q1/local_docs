@@ -1,7 +1,7 @@
 # Pastures
 ---
 #noun
-- **[[l/_land|Land]], specifically, an [[o/_open|open]] [[f/_field|field]], on which [[l/_livestock|livestock]] is [[k/_kept|kept]] for [[f/_feeding|feeding]].**
+- **[[l/_land|Land]], [[s/_specifically|specifically]], an [[o/_open|open]] [[f/_field|field]], on which [[l/_livestock|livestock]] is [[k/_kept|kept]] for [[f/_feeding|feeding]].**
 - **[[g/_ground|Ground]] [[c/_covered|covered]] with [[g/_grass|grass]] or [[h/_herbage|herbage]], used or suitable for the [[g/_grazing|grazing]] of [[l/_livestock|livestock]].**
 - **[[f/_food|Food]], [[n/_nourishment|nourishment]].**
 ---

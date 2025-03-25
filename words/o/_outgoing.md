@@ -19,7 +19,7 @@
 	- _Example: Tom is very outgoing and enjoys meeting people; his brother, on the other hand, is painfully shy._
 - **[[g/_going|Going]] [[o/_out|out]], on [[i/_its|its]] way [[o/_out|out]].**
 	- _Example: Is there any outgoing post?_
-- **[[b/_being|Being]] [[r/_replaced|replaced]] in [[o/_office|office]] (while still in [[o/_office|office]] but [[a/_after|after]] [[e/_election|election]] [[h/_has|has]] [[d/_determined|determined]] that [[h/_he|he]]/[[s/_she|she]] will be [[r/_replaced|replaced]]).**
+- **[[b/_being|Being]] [[r/_replaced|replaced]] in [[o/_office|office]] (while [[s/_still|still]] in [[o/_office|office]] but [[a/_after|after]] [[e/_election|election]] [[h/_has|has]] [[d/_determined|determined]] that [[h/_he|he]]/[[s/_she|she]] will be [[r/_replaced|replaced]]).**
 	- _Example: The outgoing politician wasn't too disappointed he'd lost the election; he was tired of political infighting._
 ---
 ### Antonyms

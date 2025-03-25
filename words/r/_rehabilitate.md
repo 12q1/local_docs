@@ -1,7 +1,7 @@
 # Rehabilitate
 ---
 #verb
-- **To [[r/_restore|restore]] ([[s/_someone|someone]]) to their [[f/_former|former]] state, [[r/_reputation|reputation]], [[p/_possessions|possessions]], status [[e/_etc|etc]].**
+- **To [[r/_restore|restore]] ([[s/_someone|someone]]) to their [[f/_former|former]] [[s/_state|state]], [[r/_reputation|reputation]], [[p/_possessions|possessions]], [[s/_status|status]] [[e/_etc|etc]].**
 - **To vindicate; to [[r/_restore|restore]] the [[r/_reputation|reputation]] or [[i/_image|image]] of (a [[p/_person|person]], [[c/_concept|concept]] [[e/_etc|etc]].).**
 - **To [[r/_return|return]] ([[s/_something|something]]) to [[i/_its|its]] [[o/_original|original]] [[c/_condition|condition]].**
 - **To [[r/_restore|restore]] or [[r/_repair|repair]] (a vehicle, [[b/_building|building]]); to [[m/_make|make]] [[h/_habitable|habitable]] or usable [[a/_again|again]].**

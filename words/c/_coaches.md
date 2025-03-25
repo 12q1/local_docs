@@ -6,7 +6,7 @@
 - **([[o/_originally|originally]] [[o/_oxford|Oxford]] University [[s/_slang|slang]]) A trainer or [[i/_instructor|instructor]].**
 - **A [[s/_single|single]]-[[d/_decked|decked]] [[l/_long|long]]-[[d/_distance|distance]], or [[p/_privately|privately]] [[h/_hired|hired]], [[b/_bus|bus]].**
 - **The [[f/_forward|forward]] [[p/_part|part]] of the [[c/_cabin|cabin]] [[s/_space|space]] under the [[p/_poop|poop]] [[d/_deck|deck]] of a [[s/_sailing|sailing]] [[s/_ship|ship]]; the [[f/_fore|fore]]-[[c/_cabin|cabin]] under the [[q/_quarter|quarter]] [[d/_deck|deck]].**
-- **([[c/_chiefly|chiefly]] US) The [[p/_part|part]] of a [[c/_commercial|commercial]] [[p/_passenger|passenger]] [[a/_airplane|airplane]] or train [[r/_reserved|reserved]] for those [[p/_paying|paying]] the [[l/_lower|lower]] standard [[f/_fares|fares]]; the [[e/_economy|economy]] [[s/_section|section]].**
+- **([[c/_chiefly|chiefly]] US) The [[p/_part|part]] of a [[c/_commercial|commercial]] [[p/_passenger|passenger]] [[a/_airplane|airplane]] or train [[r/_reserved|reserved]] for those [[p/_paying|paying]] the [[l/_lower|lower]] [[s/_standard|standard]] [[f/_fares|fares]]; the [[e/_economy|economy]] [[s/_section|section]].**
 	- _Example: John flew coach to Vienna, but first-class back home._
 ---
 ### Synonyms
@@ -15,7 +15,7 @@
 - **To train.**
 - **To [[i/_instruct|instruct]]; to train.**
 	- _Example: She has coached many opera stars._
-- **To study under a tutor.**
+- **To [[s/_study|study]] under a tutor.**
 - **To travel in a [[c/_coach|coach]] ([[s/_sometimes|sometimes]] [[c/_coach|coach]] it).**
 - **To [[c/_convey|convey]] in a [[c/_coach|coach]].**
 ---

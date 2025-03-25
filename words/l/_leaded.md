@@ -7,7 +7,7 @@
 	- _Example: leaded matter_
 ---
 #adjective
-- **[[h/_held|Held]] in [[p/_place|place]] by strips of [[l/_lead|lead]].**
+- **[[h/_held|Held]] in [[p/_place|place]] by [[s/_strips|strips]] of [[l/_lead|lead]].**
 - **[[c/_containing|Containing]] or treated with the [[e/_element|element]] [[l/_lead|lead]].**
 - **[[c/_containing|Containing]] tetraethyllead.**
 	- _Example: Leaded gasoline is hard to find in some areas now._

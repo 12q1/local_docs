@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[c/_cotton|Cotton]], or [[c/_cotton|cotton]] wool.**
-- **[[c/_cotton|Cotton]], or [[a/_any|any]] [[s/_soft|soft]], [[f/_fibrous|fibrous]] [[m/_material|material]], used as stuffing for [[g/_garments|garments]]; stuffing, [[p/_padding|padding]].**
+- **[[c/_cotton|Cotton]], or [[a/_any|any]] [[s/_soft|soft]], [[f/_fibrous|fibrous]] [[m/_material|material]], used as [[s/_stuffing|stuffing]] for [[g/_garments|garments]]; [[s/_stuffing|stuffing]], [[p/_padding|padding]].**
 - **[[h/_high|High]]-[[s/_sounding|sounding]] words; [[l/_language|language]] [[a/_above|above]] the [[d/_dignity|dignity]] of the [[o/_occasion|occasion]]; a [[p/_pompous|pompous]] or [[o/_ostentatious|ostentatious]] [[m/_manner|manner]] of writing or [[s/_speaking|speaking]].**
 ---
 ### Synonyms

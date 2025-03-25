@@ -1,7 +1,7 @@
 # Aspiring
 ---
 #verb
-- **To [[h/_have|have]] a strong [[d/_desire|desire]] or [[a/_ambition|ambition]] to [[a/_achieve|achieve]] [[s/_something|something]].**
+- **To [[h/_have|have]] a [[s/_strong|strong]] [[d/_desire|desire]] or [[a/_ambition|ambition]] to [[a/_achieve|achieve]] [[s/_something|something]].**
 	- _Example: He aspires to become a successful doctor._
 - **To [[g/_go|go]] as [[h/_high|high]] as, to [[r/_reach|reach]] the top of ([[s/_something|something]]).**
 - **To [[m/_move|move]] upward; to be very tall.**

@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[p/_puzzled|Puzzled]] or [[c/_confused|confused]]**
-- **State of [[e/_enchantment|enchantment]] as [[c/_concerns|concerns]] [[p/_person|person]] or [[e/_event|event]]**
+- **[[s/_state|State]] of [[e/_enchantment|enchantment]] as [[c/_concerns|concerns]] [[p/_person|person]] or [[e/_event|event]]**
 ---
 #verb
 - **To thoroughly [[c/_confuse|confuse]], [[b/_befuddle|befuddle]], or [[b/_bewilder|bewilder]].**

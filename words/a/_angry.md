@@ -5,7 +5,7 @@
 	- _Example: An angry mob started looting the warehouse._
 - **([[s/_said|said]] [[a/_about|about]] a wound or a [[r/_rash|rash]]) [[i/_inflamed|Inflamed]] and [[p/_painful|painful]].**
 	- _Example: The broken glass left two angry cuts across my arm._
-- **([[s/_said|said]] [[a/_about|about]] the [[e/_elements|elements]], [[l/_like|like]] the [[s/_sky|sky]] or the [[s/_sea|sea]]) [[d/_dark|Dark]] and stormy, [[m/_menacing|menacing]].**
+- **([[s/_said|said]] [[a/_about|about]] the [[e/_elements|elements]], [[l/_like|like]] the [[s/_sky|sky]] or the [[s/_sea|sea]]) [[d/_dark|Dark]] and [[s/_stormy|stormy]], [[m/_menacing|menacing]].**
 	- _Example: Angry clouds raced across the sky._
 ---
 ### Synonyms

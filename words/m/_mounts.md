@@ -15,7 +15,7 @@
 	- _Example: The post is the mount on which the mailbox is installed._
 - **A [[r/_rider|rider]] in a [[c/_cavalry|cavalry]] unit or [[d/_division|division]].**
 	- _Example: The General said he has 2,000 mounts._
-- **A step or [[b/_block|block]] to [[a/_assist|assist]] in [[m/_mounting|mounting]] a [[h/_horse|horse]].**
+- **A [[s/_step|step]] or [[b/_block|block]] to [[a/_assist|assist]] in [[m/_mounting|mounting]] a [[h/_horse|horse]].**
 - **A [[s/_signal|signal]] for [[m/_mounting|mounting]] a [[h/_horse|horse]].**
 ---
 #verb

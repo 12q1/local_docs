@@ -8,6 +8,6 @@
 	- _Example: If we locally scope the user's login name, it won't be accessible from outside this function._
 - **To [[e/_examine|examine]] under a [[m/_microscope|microscope]].**
 	- _Example: The entomologist explained that he could not tell what species of springtail we were looking at without scoping it._
-- **To [[o/_observe|observe]] a [[b/_bird|bird]] using a spotting [[s/_scope|scope]].**
+- **To [[o/_observe|observe]] a [[b/_bird|bird]] using a [[s/_spotting|spotting]] [[s/_scope|scope]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_physical|physical]] [[b/_base|base]] or [[f/_foundation|foundation]].**
-- **A starting [[p/_point|point]], [[b/_base|base]] or [[f/_foundation|foundation]] for an [[a/_argument|argument]] or [[h/_hypothesis|hypothesis]].**
+- **A [[s/_starting|starting]] [[p/_point|point]], [[b/_base|base]] or [[f/_foundation|foundation]] for an [[a/_argument|argument]] or [[h/_hypothesis|hypothesis]].**
 - **An underlying [[c/_condition|condition]] or [[c/_circumstance|circumstance]].**
 - **A [[r/_regular|regular]] [[f/_frequency|frequency]].**
 	- _Example: Cars must be checked on a yearly basis._

@@ -3,7 +3,7 @@
 #noun
 - **An [[a/_area|area]] of [[l/_land|land]] [[s/_set|set]] [[a/_aside|aside]] for [[e/_environment|environment]] [[p/_preservation|preservation]] or [[r/_recreation|recreation]].**
 - **A wide, [[f/_flat|flat]]-[[b/_bottomed|bottomed]] valley in a [[m/_mountainous|mountainous]] [[r/_region|region]].**
-- **An [[a/_area|area]] used for specific [[p/_purposes|purposes]].**
+- **An [[a/_area|area]] used for [[s/_specific|specific]] [[p/_purposes|purposes]].**
 - **An [[i/_inventory|inventory]] of [[m/_mat|mat]]é[[r/_riel|riel]].**
 	- _Example: A country's tank park or artillery park._
 - **A [[s/_space|space]] in which to [[l/_leave|leave]] a [[c/_car|car]]; a [[p/_parking|parking]] [[s/_space|space]].**
@@ -13,7 +13,7 @@
 ### Antonyms
 - [[b/_building|building]], [[s/_skyscraper|skyscraper]], [[s/_street|street]]
 #verb
-- **To [[b/_bring|bring]] ([[s/_something|something]] such as a vehicle) to a [[h/_halt|halt]] or store in a specified [[p/_place|place]].**
+- **To [[b/_bring|bring]] ([[s/_something|something]] such as a vehicle) to a [[h/_halt|halt]] or [[s/_store|store]] in a [[s/_specified|specified]] [[p/_place|place]].**
 	- _Example: I parked the drive heads of my hard disk before travelling with my laptop._
 - **To [[d/_defer|defer]] (a [[m/_matter|matter]]) until a [[l/_later|later]] [[d/_date|date]].**
 	- _Example: Let's park that until next week's meeting._
@@ -31,6 +31,6 @@
 - **To [[r/_register|register]] a [[d/_domain|domain]] [[n/_name|name]], but [[m/_make|make]] [[n/_no|no]] use of it ([[s/_see|See]] [[d/_domain|domain]] [[p/_parking|parking]])**
 - **([[o/_oyster|oyster]] [[c/_culture|culture]]) To [[e/_enclose|enclose]] in a [[p/_park|park]], or [[p/_partially|partially]] [[e/_enclosed|enclosed]] [[b/_basin|basin]].**
 - **To [[p/_promenade|promenade]] or [[d/_drive|drive]] in a [[p/_park|park]].**
-- **(of [[h/_horses|horses]]) To [[d/_display|display]] style or [[g/_gait|gait]] on a [[p/_park|park]] [[d/_drive|drive]].**
+- **(of [[h/_horses|horses]]) To [[d/_display|display]] [[s/_style|style]] or [[g/_gait|gait]] on a [[p/_park|park]] [[d/_drive|drive]].**
 ---
 ---

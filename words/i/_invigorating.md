@@ -1,7 +1,7 @@
 # Invigorating
 ---
 #verb
-- **To [[i/_impart|impart]] vigor, strength, or vitality to.**
+- **To [[i/_impart|impart]] vigor, [[s/_strength|strength]], or vitality to.**
 	- _Example: Exercise is invigorating._
 - **To [[h/_heighten|heighten]] or [[i/_intensify|intensify]].**
 - **To [[g/_give|give]] [[l/_life|life]] or [[e/_energy|energy]] to.**
@@ -9,6 +9,6 @@
 - **To [[m/_make|make]] [[l/_lively|lively]].**
 ---
 #adjective
-- **[[g/_giving|Giving]] strength, [[e/_energy|energy]] and vitality.**
+- **[[g/_giving|Giving]] [[s/_strength|strength]], [[e/_energy|energy]] and vitality.**
 ---
 ---

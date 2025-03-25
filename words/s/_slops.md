@@ -12,7 +12,7 @@
 - **([[s/_sometimes|sometimes]] in the [[p/_plural|plural]]) [[s/_scraps|Scraps]] used as [[f/_food|food]] for [[a/_animals|animals]], [[e/_especially|especially]] [[p/_pigs|pigs]] or [[h/_hogs|hogs]].**
 - **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[i/_inferior|Inferior]], weak [[d/_drink|drink]] or [[l/_liquid|liquid]] [[f/_food|food]].**
 - **([[s/_sometimes|sometimes]] in the [[p/_plural|plural]]) [[d/_domestic|Domestic]] [[l/_liquid|liquid]] waste; [[h/_household|household]] wastewater.**
-- **Water or [[o/_other|other]] [[l/_liquid|liquid]] [[c/_carelessly|carelessly]] spilled or thrown [[a/_about|about]], as upon a table or a [[f/_floor|floor]]; a [[p/_puddle|puddle]]; a [[s/_soiled|soiled]] spot.**
+- **Water or [[o/_other|other]] [[l/_liquid|liquid]] [[c/_carelessly|carelessly]] [[s/_spilled|spilled]] or thrown [[a/_about|about]], as upon a table or a [[f/_floor|floor]]; a [[p/_puddle|puddle]]; a [[s/_soiled|soiled]] [[s/_spot|spot]].**
 - **[[h/_human|Human]] urine or [[e/_excrement|excrement]].**
 ---
 ### Synonyms

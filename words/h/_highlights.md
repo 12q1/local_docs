@@ -1,10 +1,10 @@
 # Highlights
 ---
 #noun
-- **An [[a/_area|area]] or a spot in a [[d/_drawing|drawing]], [[p/_painting|painting]], or [[p/_photograph|photograph]] that is strongly [[i/_illuminated|illuminated]].**
+- **An [[a/_area|area]] or a [[s/_spot|spot]] in a [[d/_drawing|drawing]], [[p/_painting|painting]], or [[p/_photograph|photograph]] that is [[s/_strongly|strongly]] [[i/_illuminated|illuminated]].**
 - **An [[e/_especially|especially]] [[s/_significant|significant]] or [[i/_interesting|interesting]] [[d/_detail|detail]] or [[e/_event|event]] or [[p/_period|period]] of time.**
 	- _Example: Meeting my future wife was the highlight of my trip to Spain._
-- **A strand or spot of [[h/_hair|hair]] [[d/_dyed|dyed]] a [[d/_different|different]] [[c/_color|color]] than the [[r/_rest|rest]].**
+- **A [[s/_strand|strand]] or [[s/_spot|spot]] of [[h/_hair|hair]] [[d/_dyed|dyed]] a [[d/_different|different]] [[c/_color|color]] than the [[r/_rest|rest]].**
 ---
 ### Antonyms
 - [[l/_lowlight|lowlight]]

@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[h/_having|Having]] a [[l/_large|large]] or [[p/_prominent|prominent]] [[b/_belly|belly]].**
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[b/_belly|belly]] of a specified type.**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a [[b/_belly|belly]] of a [[s/_specified|specified]] type.**
 - **Swollen, [[b/_bulging|bulging]], or [[b/_billowing|billowing]]; [[b/_bellying|bellying]].**
 - **[[o/_overblown|Overblown]], [[e/_exaggerated|exaggerated]].**
 ---

@@ -9,8 +9,8 @@
 - **[[p/_private|Private]] [[s/_seclusion|seclusion]].**
 	- _Example: The work was done in secret, so that nobody could object._
 - **(in the [[p/_plural|plural]]) The [[g/_genital|genital]] [[o/_organs|organs]].**
-- **A [[f/_form|form]] of steel [[s/_skullcap|skullcap]].**
-- **([[o/_often|often]] in the [[p/_plural|plural]]) [[a/_any|Any]] [[p/_prayer|prayer]] spoken [[i/_inaudibly|inaudibly]] and not [[a/_aloud|aloud]]; [[e/_especially|especially]], [[o/_one|one]] of the [[p/_prayers|prayers]] in the [[m/_mass|Mass]], [[i/_immediately|immediately]] [[f/_following|following]] the "[[o/_orate|orate]], fratres", [[s/_said|said]] [[i/_inaudibly|inaudibly]] by the [[c/_celebrant|celebrant]].**
+- **A [[f/_form|form]] of [[s/_steel|steel]] [[s/_skullcap|skullcap]].**
+- **([[o/_often|often]] in the [[p/_plural|plural]]) [[a/_any|Any]] [[p/_prayer|prayer]] [[s/_spoken|spoken]] [[i/_inaudibly|inaudibly]] and not [[a/_aloud|aloud]]; [[e/_especially|especially]], [[o/_one|one]] of the [[p/_prayers|prayers]] in the [[m/_mass|Mass]], [[i/_immediately|immediately]] [[f/_following|following]] the "[[o/_orate|orate]], fratres", [[s/_said|said]] [[i/_inaudibly|inaudibly]] by the [[c/_celebrant|celebrant]].**
 ---
 ### Synonyms
 - [[d/_dern|dern]]

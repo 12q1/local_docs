@@ -1,7 +1,7 @@
 # Southerner
 ---
 #noun
-- **[[s/_someone|Someone]] from [[o/_one|one]] of the states which [[s/_seceded|seceded]] in 1861 and [[b/_briefly|briefly]] [[f/_formed|formed]] the [[c/_confederate|Confederate]] States of [[a/_america|America]], or, [[m/_more|more]] [[b/_broadly|broadly]], from [[s/_some|some]] [[n/_neighboring|neighboring]] states as well (but [[e/_excluding|excluding]] [[g/_geographically|geographically]]-[[s/_southerly|southerly]] states [[l/_like|like]] [[a/_arizona|Arizona]]); [[c/_compare|compare]] the [[s/_south|South]].**
+- **[[s/_someone|Someone]] from [[o/_one|one]] of the [[s/_states|states]] which [[s/_seceded|seceded]] in 1861 and [[b/_briefly|briefly]] [[f/_formed|formed]] the [[c/_confederate|Confederate]] [[s/_states|States]] of [[a/_america|America]], or, [[m/_more|more]] [[b/_broadly|broadly]], from [[s/_some|some]] [[n/_neighboring|neighboring]] [[s/_states|states]] as well (but [[e/_excluding|excluding]] [[g/_geographically|geographically]]-[[s/_southerly|southerly]] [[s/_states|states]] [[l/_like|like]] [[a/_arizona|Arizona]]); [[c/_compare|compare]] the [[s/_south|South]].**
 ---
 ### Synonyms
 - [[S/_Southron|Southron]]

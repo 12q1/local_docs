@@ -8,7 +8,7 @@
 - **A [[p/_pack|pack]] or [[s/_set|set]] of [[p/_playing|playing]] [[c/_cards|cards]].**
 - **(by [[e/_extension|extension]]) A [[s/_set|set]] of [[c/_cards|cards]] [[o/_owned|owned]] by [[e/_each|each]] [[i/_individual|individual]] [[p/_player|player]] and from which they [[d/_draw|draw]] when [[p/_playing|playing]].**
 - **A [[s/_set|set]] of [[s/_slides|slides]] for a [[p/_presentation|presentation]].**
-- **A [[h/_heap|heap]] or store.**
+- **A [[h/_heap|heap]] or [[s/_store|store]].**
 - **A [[f/_folded|folded]] [[p/_paper|paper]] used for [[d/_distributing|distributing]] [[i/_illicit|illicit]] [[d/_drugs|drugs]].**
 - **The [[f/_floor|floor]].**
 	- _Example: We hit the deck as bullets began to fly._

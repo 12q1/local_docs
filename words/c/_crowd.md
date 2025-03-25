@@ -22,7 +22,7 @@
 - **([[o/_often|often]] used with "[[o/_out|out]] of" or "[[o/_off|off]]") To [[p/_push|push]], to [[p/_press|press]], to [[s/_shove|shove]].**
 	- _Example: They tried to crowd her off the sidewalk._
 - **To [[a/_approach|approach]] [[a/_another|another]] [[s/_ship|ship]] too [[c/_closely|closely]] when it [[h/_has|has]] [[r/_right|right]] of way.**
-- **(of a square-[[r/_rigged|rigged]] [[s/_ship|ship]]) To [[c/_carry|carry]] [[e/_excessive|excessive]] [[s/_sail|sail]] in the [[h/_hope|hope]] of [[m/_moving|moving]] [[f/_faster|faster]].**
+- **(of a [[s/_square|square]]-[[r/_rigged|rigged]] [[s/_ship|ship]]) To [[c/_carry|carry]] [[e/_excessive|excessive]] [[s/_sail|sail]] in the [[h/_hope|hope]] of [[m/_moving|moving]] [[f/_faster|faster]].**
 - **To [[p/_press|press]] by [[s/_solicitation|solicitation]]; to urge; to [[d/_dun|dun]]; [[h/_hence|hence]], to treat [[d/_discourteously|discourteously]] or unreasonably.**
 ---
 ### Synonyms

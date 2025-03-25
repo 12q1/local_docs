@@ -25,7 +25,7 @@
 ---
 #noun
 - **A [[s/_small|small]] tree, [[s/_sambucus|Sambucus]] nigra, [[h/_having|having]] white [[f/_flowers|flowers]] in a [[c/_cluster|cluster]], and [[e/_edible|edible]] [[p/_purple|purple]] [[b/_berries|berries]]**
-- **[[a/_any|Any]] of the [[o/_other|other]] species of the [[g/_genus|genus]] [[s/_sambucus|Sambucus]]: [[s/_small|small]] trees, [[s/_shrubs|shrubs]] or [[h/_herbaceous|herbaceous]] [[p/_perennials|perennials]] with [[r/_red|red]], [[p/_purple|purple]], or white/[[y/_yellow|yellow]] [[b/_berries|berries]] ([[s/_some|some]] of which are [[p/_poisonous|poisonous]]).**
+- **[[a/_any|Any]] of the [[o/_other|other]] [[s/_species|species]] of the [[g/_genus|genus]] [[s/_sambucus|Sambucus]]: [[s/_small|small]] trees, [[s/_shrubs|shrubs]] or [[h/_herbaceous|herbaceous]] [[p/_perennials|perennials]] with [[r/_red|red]], [[p/_purple|purple]], or white/[[y/_yellow|yellow]] [[b/_berries|berries]] ([[s/_some|some]] of which are [[p/_poisonous|poisonous]]).**
 ---
 ### Synonyms
 - 

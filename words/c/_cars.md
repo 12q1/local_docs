@@ -1,7 +1,7 @@
 # Cars
 ---
 #noun
-- **A wheeled vehicle that [[m/_moves|moves]] [[i/_independently|independently]], with at [[l/_least|least]] three wheels, [[p/_powered|powered]] [[m/_mechanically|mechanically]], steered by a [[d/_driver|driver]] and [[m/_mostly|mostly]] for [[p/_personal|personal]] transportation.**
+- **A wheeled vehicle that [[m/_moves|moves]] [[i/_independently|independently]], with at [[l/_least|least]] three wheels, [[p/_powered|powered]] [[m/_mechanically|mechanically]], [[s/_steered|steered]] by a [[d/_driver|driver]] and [[m/_mostly|mostly]] for [[p/_personal|personal]] transportation.**
 	- _Example: She drove her car to the mall._
 - **A wheeled vehicle, [[d/_drawn|drawn]] by a [[h/_horse|horse]] or [[o/_other|other]] [[a/_animal|animal]]; a [[c/_chariot|chariot]].**
 - **An unpowered unit in a [[r/_railroad|railroad]] train.**

@@ -1,7 +1,7 @@
 # Sexual
 ---
 #noun
-- **A species which [[r/_reproduces|reproduces]] by [[s/_sexual|sexual]] [[r/_rather|rather]] than [[a/_asexual|asexual]] [[r/_reproduction|reproduction]], or a [[m/_member|member]] of such a species.**
+- **A [[s/_species|species]] which [[r/_reproduces|reproduces]] by [[s/_sexual|sexual]] [[r/_rather|rather]] than [[a/_asexual|asexual]] [[r/_reproduction|reproduction]], or a [[m/_member|member]] of such a [[s/_species|species]].**
 - **A [[p/_person|person]] who [[e/_experiences|experiences]] [[s/_sexual|sexual]] [[a/_attraction|attraction]], a [[p/_person|person]] who [[h/_has|has]] [[i/_interest|interest]] in or [[d/_desire|desire]] for [[s/_sex|sex]] ([[e/_especially|especially]] as [[c/_contrasted|contrasted]] with an [[a/_asexual|asexual]]).**
 ---
 ### Synonyms

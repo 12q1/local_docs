@@ -17,7 +17,7 @@
 - **A [[p/_person|person]] or thing [[r/_representing|representing]] a [[c/_certain|certain]] [[c/_consciousness|consciousness]].**
 - **The [[a/_appearance|appearance]] or [[i/_impression|impression]] [[m/_made|made]] by the [[c/_conduct|conduct]] or [[c/_career|career]] of a [[p/_person|person]].**
 	- _Example: He cut a sorry figure standing there in the rain._
-- **[[d/_distinguished|Distinguished]] [[a/_appearance|appearance]]; [[m/_magnificence|magnificence]]; [[c/_conspicuous|conspicuous]] [[r/_representation|representation]]; splendour; [[s/_show|show]].**
+- **[[d/_distinguished|Distinguished]] [[a/_appearance|appearance]]; [[m/_magnificence|magnificence]]; [[c/_conspicuous|conspicuous]] [[r/_representation|representation]]; [[s/_splendour|splendour]]; [[s/_show|show]].**
 - **A [[h/_human|human]] [[f/_figure|figure]], which [[d/_dress|dress]] or [[c/_corset|corset]] [[m/_must|must]] [[f/_fit|fit]] to; the [[s/_shape|shape]] of a [[h/_human|human]] [[b/_body|body]].**
 - **A [[n/_numeral|numeral]].**
 - **A [[n/_number|number]], an [[a/_amount|amount]].**
@@ -25,10 +25,10 @@
 - **A visible [[p/_pattern|pattern]] as in wood or [[c/_cloth|cloth]].**
 	- _Example: The muslin was of a pretty figure._
 - **[[a/_any|Any]] [[c/_complex|complex]] [[d/_dance|dance]] moveW.**
-- **A [[f/_figure|figure]] of speech.**
+- **A [[f/_figure|figure]] of [[s/_speech|speech]].**
 - **The [[f/_form|form]] of a [[s/_syllogism|syllogism]] with [[r/_respect|respect]] to the [[r/_relative|relative]] [[p/_position|position]] of the [[m/_middle|middle]] term.**
 - **A [[h/_horoscope|horoscope]]; the [[d/_diagram|diagram]] of the [[a/_aspects|aspects]] of the [[a/_astrological|astrological]] [[h/_houses|houses]].**
 - **[[a/_any|Any]] [[s/_short|short]] succession of [[n/_notes|notes]], [[e/_either|either]] as [[m/_melody|melody]] or as a [[g/_group|group]] of [[c/_chords|chords]], which [[p/_produce|produce]] a [[s/_single|single]] [[c/_complete|complete]] and [[d/_distinct|distinct]] [[i/_impression|impression]].**
-- **A [[f/_form|form]] of [[m/_melody|melody]] or [[a/_accompaniment|accompaniment]] [[k/_kept|kept]] up through a strain or [[p/_passage|passage]]; a [[m/_motif|motif]]; a [[f/_florid|florid]] [[e/_embellishment|embellishment]].**
+- **A [[f/_form|form]] of [[m/_melody|melody]] or [[a/_accompaniment|accompaniment]] [[k/_kept|kept]] up through a [[s/_strain|strain]] or [[p/_passage|passage]]; a [[m/_motif|motif]]; a [[f/_florid|florid]] [[e/_embellishment|embellishment]].**
 ---
 ---

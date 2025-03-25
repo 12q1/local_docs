@@ -1,7 +1,7 @@
 # Ears
 ---
 #noun
-- **The [[o/_organ|organ]] of [[h/_hearing|hearing]], [[c/_consisting|consisting]] of the [[p/_pinna|pinna]], [[a/_auditory|auditory]] [[c/_canal|canal]], [[e/_eardrum|eardrum]], [[m/_malleus|malleus]], [[i/_incus|incus]], stapes and [[c/_cochlea|cochlea]].**
+- **The [[o/_organ|organ]] of [[h/_hearing|hearing]], [[c/_consisting|consisting]] of the [[p/_pinna|pinna]], [[a/_auditory|auditory]] [[c/_canal|canal]], [[e/_eardrum|eardrum]], [[m/_malleus|malleus]], [[i/_incus|incus]], [[s/_stapes|stapes]] and [[c/_cochlea|cochlea]].**
 - **The [[e/_external|external]] [[p/_part|part]] of the [[o/_organ|organ]] of [[h/_hearing|hearing]], the [[a/_auricle|auricle]].**
 - **A [[p/_police|police]] [[i/_informant|informant]].**
 - **The [[s/_sense|sense]] of [[h/_hearing|hearing]]; the [[p/_perception|perception]] of [[s/_sounds|sounds]]; [[s/_skill|skill]] or [[g/_good|good]] taste in [[l/_listening|listening]] to [[m/_music|music]].**

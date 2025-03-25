@@ -7,7 +7,7 @@
 	- _Example: My health declined in winter._
 - **To [[b/_bend|bend]] [[d/_downward|downward]]; to [[b/_bring|bring]] [[d/_down|down]]; to [[d/_depress|depress]]; to [[c/_cause|cause]] to [[b/_bend|bend]], or [[f/_fall|fall]].**
 - **To [[c/_cause|cause]] to [[d/_decrease|decrease]] or [[d/_diminish|diminish]].**
-- **To turn or [[b/_bend|bend]] [[a/_aside|aside]]; to [[d/_deviate|deviate]]; to stray; to withdraw.**
+- **To turn or [[b/_bend|bend]] [[a/_aside|aside]]; to [[d/_deviate|deviate]]; to [[s/_stray|stray]]; to withdraw.**
 	- _Example: a line that declines from straightness_
 - **To [[r/_refuse|refuse]], [[f/_forbear|forbear]].**
 	- _Example: On reflection I think I will decline your generous offer._

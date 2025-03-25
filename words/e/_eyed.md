@@ -7,8 +7,8 @@
 ---
 #adjective
 - **[[h/_having|Having]] [[e/_eyes|eyes]].**
-- **[[h/_having|Having]] [[e/_eye|eye]]-[[l/_like|like]] spots.**
+- **[[h/_having|Having]] [[e/_eye|eye]]-[[l/_like|like]] [[s/_spots|spots]].**
 	- _Example: The back of the beetle was eyed to make it appear to be a snake to a predator._
-- **(in [[c/_compounds|compounds]]) [[h/_having|Having]] the specified [[k/_kind|kind]] or [[n/_number|number]] of [[e/_eyes|eyes]].**
+- **(in [[c/_compounds|compounds]]) [[h/_having|Having]] the [[s/_specified|specified]] [[k/_kind|kind]] or [[n/_number|number]] of [[e/_eyes|eyes]].**
 ---
 ---

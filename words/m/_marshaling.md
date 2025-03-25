@@ -7,8 +7,8 @@
 - **To [[g/_gather|gather]] [[d/_data|data]] for transmission.**
 ---
 #noun
-- **The [[p/_process|process]] of transforming the [[m/_memory|memory]] [[r/_representation|representation]] of an [[o/_object|object]] to a [[d/_data|data]] [[f/_format|format]] suitable for storage or transmission, which is typically used when [[d/_data|data]] [[m/_must|must]] be [[m/_moved|moved]] [[b/_between|between]] [[d/_different|different]] [[p/_parts|parts]] of a [[c/_computer|computer]] [[p/_program|program]], or from [[o/_one|one]] [[p/_program|program]] to [[a/_another|another]].**
+- **The [[p/_process|process]] of transforming the [[m/_memory|memory]] [[r/_representation|representation]] of an [[o/_object|object]] to a [[d/_data|data]] [[f/_format|format]] suitable for [[s/_storage|storage]] or transmission, which is typically used when [[d/_data|data]] [[m/_must|must]] be [[m/_moved|moved]] [[b/_between|between]] [[d/_different|different]] [[p/_parts|parts]] of a [[c/_computer|computer]] [[p/_program|program]], or from [[o/_one|one]] [[p/_program|program]] to [[a/_another|another]].**
 - **The [[a/_arrangement|arrangement]] of an [[e/_escutcheon|escutcheon]] to [[e/_exhibit|exhibit]] the [[a/_alliances|alliances]] of the [[o/_owner|owner]].**
-- **The [[s/_sorting|sorting]] of [[r/_rolling|rolling]] stock in a [[m/_marshalling|marshalling]] [[y/_yard|yard]].**
+- **The [[s/_sorting|sorting]] of [[r/_rolling|rolling]] [[s/_stock|stock]] in a [[m/_marshalling|marshalling]] [[y/_yard|yard]].**
 ---
 ---

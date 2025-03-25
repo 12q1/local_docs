@@ -2,7 +2,7 @@
 ---
 #noun
 - **Water [[c/_containing|containing]] [[d/_dissolved|dissolved]] [[s/_salt|salt]].**
-- **A [[s/_salt|salt]] spring; a [[p/_place|place]] where [[s/_salt|salt]] water is [[c/_collected|collected]] in the [[e/_earth|earth]].**
+- **A [[s/_salt|salt]] [[s/_spring|spring]]; a [[p/_place|place]] where [[s/_salt|salt]] water is [[c/_collected|collected]] in the [[e/_earth|earth]].**
 ---
 ### Synonyms
 - 

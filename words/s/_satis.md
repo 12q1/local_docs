@@ -1,7 +1,7 @@
 # Satis
 ---
 #adjective
-- **In a state of [[s/_satisfaction|satisfaction]].**
+- **In a [[s/_state|state]] of [[s/_satisfaction|satisfaction]].**
 	- _Example: I'm satisfied with your progress in your homework, so you can watch television now._
 ---
 ### Synonyms

@@ -6,12 +6,12 @@
 - **A [[c/_collective|collective]] [[g/_gesture|gesture]] of [[d/_disapproval|disapproval]]; a [[d/_demonstration|demonstration]].**
 	- _Example: We held a protest in front of City Hall._
 - **The [[n/_noting|noting]] by a [[n/_notary|notary]] [[p/_public|public]] of an unpaid or unaccepted [[b/_bill|bill]].**
-- **A written [[d/_declaration|declaration]], usually by the [[m/_master|master]] of a [[s/_ship|ship]], stating the [[c/_circumstances|circumstances]] [[a/_attending|attending]] [[l/_loss|loss]] or [[d/_damage|damage]] of [[s/_ship|ship]] or [[c/_cargo|cargo]], [[e/_etc|etc]].**
+- **A written [[d/_declaration|declaration]], usually by the [[m/_master|master]] of a [[s/_ship|ship]], [[s/_stating|stating]] the [[c/_circumstances|circumstances]] [[a/_attending|attending]] [[l/_loss|loss]] or [[d/_damage|damage]] of [[s/_ship|ship]] or [[c/_cargo|cargo]], [[e/_etc|etc]].**
 ---
 ### Synonyms
 - [[d/_dissent|dissent]], [[o/_objection|objection]], [[p/_protestation|protestation]]
 #verb
-- **To [[m/_make|make]] a strong [[o/_objection|objection]].**
+- **To [[m/_make|make]] a [[s/_strong|strong]] [[o/_objection|objection]].**
 	- _Example: How dare you, I protest!_
 - **To [[a/_affirm|affirm]] ([[s/_something|something]]).**
 	- _Example: I do protest and declare …_

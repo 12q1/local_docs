@@ -14,7 +14,7 @@
 ---
 #noun
 - **[[a/_any|Any]] [[l/_large|large]] [[n/_number|number]] of [[p/_persons|persons]] or things.**
-- **([[c/_collective|collective]]) A [[l/_large|large]] [[n/_number|number]] of [[f/_fish|fish]] (or [[o/_other|other]] [[s/_sea|sea]] [[c/_creatures|creatures]]) of the [[s/_same|same]] species swimming together.**
+- **([[c/_collective|collective]]) A [[l/_large|large]] [[n/_number|number]] of [[f/_fish|fish]] (or [[o/_other|other]] [[s/_sea|sea]] [[c/_creatures|creatures]]) of the [[s/_same|same]] [[s/_species|species]] swimming together.**
 ---
 ### Synonyms
 - [[s/_school|school]]

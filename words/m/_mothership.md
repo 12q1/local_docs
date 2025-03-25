@@ -5,6 +5,6 @@
 - **[[f/_fond|Fond]] term of [[a/_address|address]] for [[o/_one|one]]'[[s/_s|s]] [[m/_mother|mother]].**
 ---
 #noun
-- **The state of [[b/_being|being]] a [[m/_mother|mother]]; [[m/_motherhood|motherhood]]**
+- **The [[s/_state|state]] of [[b/_being|being]] a [[m/_mother|mother]]; [[m/_motherhood|motherhood]]**
 ---
 ---

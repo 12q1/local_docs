@@ -3,13 +3,13 @@
 #noun
 - **The [[a/_act|act]] of [[m/_moving|moving]]; a [[m/_movement|movement]].**
 	- _Example: A slight move of the tiller, and the boat will go off course._
-- **An [[a/_act|act]] for the [[a/_attainment|attainment]] of an [[o/_object|object]]; a step in the [[e/_execution|execution]] of a [[p/_plan|plan]] or [[p/_purpose|purpose]].**
+- **An [[a/_act|act]] for the [[a/_attainment|attainment]] of an [[o/_object|object]]; a [[s/_step|step]] in the [[e/_execution|execution]] of a [[p/_plan|plan]] or [[p/_purpose|purpose]].**
 	- _Example: He made another move towards becoming a naturalized citizen._
 - **A [[f/_formalized|formalized]] or [[p/_practiced|practiced]] [[a/_action|action]] used in [[a/_athletics|athletics]], [[d/_dance|dance]], [[p/_physical|physical]] [[e/_exercise|exercise]], [[s/_self|self]]-[[d/_defense|defense]], [[h/_hand|hand]]-to-[[h/_hand|hand]] [[c/_combat|combat]], [[e/_etc|etc]].**
 	- _Example: She always gets spontaneous applause for that one move._
 - **The [[e/_event|event]] of [[c/_changing|changing]] [[o/_one|one]]'[[s/_s|s]] [[r/_residence|residence]].**
 	- _Example: The move into my fiancé's house took two long days._
-- **A [[c/_change|change]] in strategy.**
+- **A [[c/_change|change]] in [[s/_strategy|strategy]].**
 	- _Example: I am worried about our boss's move._
 - **A transfer, a [[c/_change|change]] from [[o/_one|one]] [[e/_employer|employer]] to [[a/_another|another]].**
 - **The [[a/_act|act]] of [[m/_moving|moving]] a token on a gameboard from [[o/_one|one]] [[p/_position|position]] to [[a/_another|another]] [[a/_according|according]] to the [[r/_rules|rules]] of the [[g/_game|game]].**
@@ -22,7 +22,7 @@
 	- _Example: A ship moves rapidly._
 - **To [[a/_act|act]]; to take [[a/_action|action]]; to [[b/_begin|begin]] to [[a/_act|act]]**
 	- _Example: Come on guys, let's move: there's work to do!_
-- **To [[c/_change|change]] [[r/_residence|residence]], for [[e/_example|example]] from [[o/_one|one]] [[h/_house|house]], town, or state, to [[a/_another|another]]; to [[g/_go|go]] and [[l/_live|live]] at [[a/_another|another]] [[p/_place|place]]. [[s/_see|See]] [[a/_also|also]] [[m/_move|move]] [[o/_out|out]] and [[m/_move|move]] in.**
+- **To [[c/_change|change]] [[r/_residence|residence]], for [[e/_example|example]] from [[o/_one|one]] [[h/_house|house]], town, or [[s/_state|state]], to [[a/_another|another]]; to [[g/_go|go]] and [[l/_live|live]] at [[a/_another|another]] [[p/_place|place]]. [[s/_see|See]] [[a/_also|also]] [[m/_move|move]] [[o/_out|out]] and [[m/_move|move]] in.**
 	- _Example: I decided to move to the country for a more peaceful life._
 - **(and [[o/_other|other]] [[g/_games|games]]) To [[c/_change|change]] the [[p/_place|place]] of a [[p/_piece|piece]] in [[a/_accordance|accordance]] with the [[r/_rules|rules]] of the [[g/_game|game]].**
 	- _Example: My opponent's counter was moving much quicker round the board than mine._
@@ -34,7 +34,7 @@
 	- _Example: This song moves me to dance._
 - **To [[a/_arouse|arouse]] the [[f/_feelings|feelings]] or [[p/_passions|passions]] of; [[e/_especially|especially]], to [[e/_excite|excite]] to tenderness or [[c/_compassion|compassion]], to [[e/_excite|excite]] (for [[e/_example|example]], an [[e/_emotion|emotion]]).**
 	- _Example: That book really moved me._
-- **To [[p/_propose|propose]]; to [[r/_recommend|recommend]]; specifically, to [[p/_propose|propose]] [[f/_formally|formally]] for [[c/_consideration|consideration]] and [[d/_determination|determination]], in a [[d/_deliberative|deliberative]] [[a/_assembly|assembly]]; to submit**
+- **To [[p/_propose|propose]]; to [[r/_recommend|recommend]]; [[s/_specifically|specifically]], to [[p/_propose|propose]] [[f/_formally|formally]] for [[c/_consideration|consideration]] and [[d/_determination|determination]], in a [[d/_deliberative|deliberative]] [[a/_assembly|assembly]]; to submit**
 	- _Example: I move to repeal the rule regarding obligatory school uniform._
 - **To [[m/_mention|mention]]; to [[r/_raise|raise]] (a [[q/_question|question]]); to suggest (a [[c/_course|course]] of [[a/_action|action]]); to [[l/_lodge|lodge]] (a [[c/_complaint|complaint]]).**
 - **To [[i/_incite|incite]], urge ([[s/_someone|someone]] to [[d/_do|do]] [[s/_something|something]]); to [[s/_solicit|solicit]] ([[s/_someone|someone]] for or of an [[i/_issue|issue]]); to [[m/_make|make]] a [[p/_proposal|proposal]] to.**

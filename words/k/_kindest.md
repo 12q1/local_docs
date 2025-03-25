@@ -9,6 +9,6 @@
 	- _Example: The years have been kind to Richard Gere; he ages well._
 - **[[g/_gentle|Gentle]]; tractable; [[e/_easily|easily]] [[g/_governed|governed]].**
 	- _Example: a horse kind in harness_
-- **[[c/_characteristic|Characteristic]] of the species; [[b/_belonging|belonging]] to [[o/_one|one]]'[[s/_s|s]] [[n/_nature|nature]]; [[n/_natural|natural]]; [[n/_native|native]].**
+- **[[c/_characteristic|Characteristic]] of the [[s/_species|species]]; [[b/_belonging|belonging]] to [[o/_one|one]]'[[s/_s|s]] [[n/_nature|nature]]; [[n/_natural|natural]]; [[n/_native|native]].**
 ---
 ---

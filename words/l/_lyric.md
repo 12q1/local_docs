@@ -6,7 +6,7 @@
 	- _Example: The lyric in line 3 doesn't rhyme._
 ---
 #adjective
-- **Of, or [[r/_relating|relating]] to a type of [[p/_poetry|poetry]] (such as a [[s/_sonnet|sonnet]] or [[o/_ode|ode]]) that [[e/_expresses|expresses]] subjective thoughts and [[f/_feelings|feelings]], [[o/_often|often]] in a [[s/_songlike|songlike]] style**
+- **Of, or [[r/_relating|relating]] to a type of [[p/_poetry|poetry]] (such as a [[s/_sonnet|sonnet]] or [[o/_ode|ode]]) that [[e/_expresses|expresses]] subjective thoughts and [[f/_feelings|feelings]], [[o/_often|often]] in a [[s/_songlike|songlike]] [[s/_style|style]]**
 - **Of or [[r/_relating|relating]] to a writer of such [[p/_poetry|poetry]]**
 - **[[l/_lyrical|Lyrical]]**
 - **[[h/_having|Having]] a [[l/_light|light]] [[s/_singing|singing]] voice of [[m/_modest|modest]] [[r/_range|range]]**

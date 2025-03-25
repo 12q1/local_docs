@@ -6,7 +6,7 @@
 #adjective
 - **In [[d/_dire|dire]] [[n/_need|need]] of [[s/_something|something]].**
 	- _Example: I hadn't eaten in two days and was desperate for food._
-- **[[b/_being|Being]] [[f/_filled|filled]] with, or in a state of [[d/_despair|despair]]; [[h/_hopeless|hopeless]].**
+- **[[b/_being|Being]] [[f/_filled|filled]] with, or in a [[s/_state|state]] of [[d/_despair|despair]]; [[h/_hopeless|hopeless]].**
 	- _Example: I was so desperate at one point, I even went to see a loan shark._
 - **Without [[r/_regard|regard]] to [[d/_danger|danger]] or [[s/_safety|safety]]; [[r/_reckless|reckless]]; [[f/_furious|furious]].**
 	- _Example: a desperate effort_

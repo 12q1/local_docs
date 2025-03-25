@@ -12,9 +12,9 @@
 	- _Example: The monster slowly reared its head._
 - **To [[c/_construct|construct]] by [[b/_building|building]]; to [[s/_set|set]] up**
 	- _Example: to rear defenses or houses_
-- **To [[r/_raise|raise]] spiritually; to [[l/_lift|lift]] up; to [[e/_elevate|elevate]] [[m/_morally|morally]].**
+- **To [[r/_raise|raise]] [[s/_spiritually|spiritually]]; to [[l/_lift|lift]] up; to [[e/_elevate|elevate]] [[m/_morally|morally]].**
 - **To [[l/_lift|lift]] and take up.**
-- **To [[r/_rouse|rouse]]; to strip up.**
+- **To [[r/_rouse|rouse]]; to [[s/_strip|strip]] up.**
 ---
 ### Synonyms
 - [[p/_prance|prance]]

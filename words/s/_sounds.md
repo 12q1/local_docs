@@ -4,7 +4,7 @@
 - **A [[s/_sensation|sensation]] [[p/_perceived|perceived]] by the [[e/_ear|ear]] [[c/_caused|caused]] by the vibration of [[a/_air|air]] or [[s/_some|some]] [[o/_other|other]] [[m/_medium|medium]].**
 	- _Example: He turned when he heard the sound of footsteps behind him.  Nobody made a sound._
 - **A vibration [[c/_capable|capable]] of [[c/_causing|causing]] such [[s/_sensations|sensations]].**
-- **A [[d/_distinctive|distinctive]] style and [[s/_sonority|sonority]] of a [[p/_particular|particular]] [[m/_musician|musician]], [[o/_orchestra|orchestra]] [[e/_etc|etc]]**
+- **A [[d/_distinctive|distinctive]] [[s/_style|style]] and [[s/_sonority|sonority]] of a [[p/_particular|particular]] [[m/_musician|musician]], [[o/_orchestra|orchestra]] [[e/_etc|etc]]**
 - **[[n/_noise|Noise]] without [[m/_meaning|meaning]]; [[e/_empty|empty]] [[n/_noise|noise]].**
 - **[[e/_earshot|Earshot]], [[d/_distance|distance]] within which a [[c/_certain|certain]] [[n/_noise|noise]] [[m/_may|may]] be [[h/_heard|heard]].**
 	- _Example: Stay within the sound of my voice._
@@ -14,7 +14,7 @@
 	- _Example: When the horn sounds, take cover._
 - **To [[c/_convey|convey]] an [[i/_impression|impression]] by [[o/_one|one]]'[[s/_s|s]] [[s/_sound|sound]].**
 	- _Example: He sounded good when we last spoke._
-- **To be [[c/_conveyed|conveyed]] in [[s/_sound|sound]]; to be spread or [[p/_published|published]]; to [[c/_convey|convey]] [[i/_intelligence|intelligence]] by [[s/_sound|sound]].**
+- **To be [[c/_conveyed|conveyed]] in [[s/_sound|sound]]; to be [[s/_spread|spread]] or [[p/_published|published]]; to [[c/_convey|convey]] [[i/_intelligence|intelligence]] by [[s/_sound|sound]].**
 - **To [[r/_resound|resound]].**
 - **([[o/_often|often]] with in) To [[a/_arise|arise]] or to be [[r/_recognizable|recognizable]] as [[a/_arising|arising]] in or from a [[p/_particular|particular]] [[a/_area|area]] of [[l/_law|law]].**
 - **To [[c/_cause|cause]] to [[p/_produce|produce]] a [[s/_sound|sound]].**
@@ -25,7 +25,7 @@
 ### Synonyms
 - [[e/_echo|echo]], [[r/_reecho|reecho]], [[r/_resonate|resonate]]
 #noun
-- **A [[l/_long|long]] [[n/_narrow|narrow]] [[i/_inlet|inlet]], or a strait [[b/_between|between]] the [[m/_mainland|mainland]] and an [[i/_island|island]]; [[a/_also|also]], a strait [[c/_connecting|connecting]] two [[s/_seas|seas]], or [[c/_connecting|connecting]] a [[s/_sea|sea]] or [[l/_lake|lake]] with the [[o/_ocean|ocean]].**
+- **A [[l/_long|long]] [[n/_narrow|narrow]] [[i/_inlet|inlet]], or a [[s/_strait|strait]] [[b/_between|between]] the [[m/_mainland|mainland]] and an [[i/_island|island]]; [[a/_also|also]], a [[s/_strait|strait]] [[c/_connecting|connecting]] two [[s/_seas|seas]], or [[c/_connecting|connecting]] a [[s/_sea|sea]] or [[l/_lake|lake]] with the [[o/_ocean|ocean]].**
 	- _Example: Puget Sound; Owen Sound_
 - **The [[a/_air|air]] [[b/_bladder|bladder]] of a [[f/_fish|fish]].**
 	- _Example: Cod sounds are an esteemed article of food._

@@ -1,7 +1,7 @@
 # Hit
 ---
 #noun
-- **A [[b/_blow|blow]]; a [[p/_punch|punch]]; a striking [[a/_against|against]]; the [[c/_collision|collision]] of [[o/_one|one]] [[b/_body|body]] [[a/_against|against]] [[a/_another|another]]; the stroke that touches [[a/_anything|anything]].**
+- **A [[b/_blow|blow]]; a [[p/_punch|punch]]; a [[s/_striking|striking]] [[a/_against|against]]; the [[c/_collision|collision]] of [[o/_one|one]] [[b/_body|body]] [[a/_against|against]] [[a/_another|another]]; the [[s/_stroke|stroke]] that touches [[a/_anything|anything]].**
 	- _Example: The hit was very slight._
 - **[[s/_something|Something]] very successful, such as a [[s/_song|song]], [[f/_film|film]], or video [[g/_game|game]], that [[r/_receives|receives]] widespread [[r/_recognition|recognition]] and [[a/_acclaim|acclaim]].**
 - **An [[a/_attack|attack]] on a [[l/_location|location]], [[p/_person|person]] or [[p/_people|people]].**
@@ -22,7 +22,7 @@
 ### Antonyms
 - [[m/_miss|miss]], [[f/_flop|flop]], [[t/_turkey|turkey]]
 #verb
-- **([[h/_heading|heading]], [[p/_physical|physical]]) To strike.**
+- **([[h/_heading|heading]], [[p/_physical|physical]]) To [[s/_strike|strike]].**
 - **To [[m/_manage|manage]] to touch (a target) in the [[r/_right|right]] [[p/_place|place]].**
 	- _Example: I hit the jackpot._
 - **To switch on.**

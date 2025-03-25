@@ -7,7 +7,7 @@
 - **To [[d/_derive|derive]] [[p/_pleasure|pleasure]] of, by or with [[s/_someone|someone]] or [[s/_something|something]].**
 - **To [[p/_prefer|prefer]] and [[m/_maintain|maintain]] (an [[a/_action|action]]) as a [[r/_regular|regular]] [[h/_habit|habit]] or [[a/_activity|activity]].**
 	- _Example: I like to go to the dentist every six months._
-- **To [[h/_have|have]] an [[a/_appearance|appearance]] or [[e/_expression|expression]]; to [[l/_look|look]]; to [[s/_seem|seem]] to be (in a specified [[c/_condition|condition]]).**
+- **To [[h/_have|have]] an [[a/_appearance|appearance]] or [[e/_expression|expression]]; to [[l/_look|look]]; to [[s/_seem|seem]] to be (in a [[s/_specified|specified]] [[c/_condition|condition]]).**
 - **To [[c/_come|come]] [[n/_near|near]]; to [[a/_avoid|avoid]] with [[d/_difficulty|difficulty]]; to [[e/_escape|escape]] [[n/_narrowly|narrowly]].**
 	- _Example: He liked to have been too late._
 - **To [[f/_find|find]] [[a/_attractive|attractive]]; to [[p/_prefer|prefer]] the [[c/_company|company]] of; to [[h/_have|have]] [[m/_mild|mild]] [[r/_romantic|romantic]] [[f/_feelings|feelings]] for.**

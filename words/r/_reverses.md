@@ -8,7 +8,7 @@
 - **The tails [[s/_side|side]] of a [[c/_coin|coin]], or the [[s/_side|side]] of a [[m/_medal|medal]] or [[b/_badge|badge]] that is [[o/_opposite|opposite]] the [[o/_obverse|obverse]].**
 - **The [[s/_side|side]] of [[s/_something|something]] [[f/_facing|facing]] [[a/_away|away]] from a viewer, or from what is [[c/_considered|considered]] the [[f/_front|front]]; the [[o/_other|other]] [[s/_side|side]].**
 - **The [[g/_gear|gear]] [[s/_setting|setting]] of an [[a/_automobile|automobile]] that [[m/_makes|makes]] it travel [[b/_backwards|backwards]].**
-- **A thrust in [[f/_fencing|fencing]] [[m/_made|made]] with a [[b/_backward|backward]] turn of the [[h/_hand|hand]]; a [[b/_backhanded|backhanded]] stroke.**
+- **A thrust in [[f/_fencing|fencing]] [[m/_made|made]] with a [[b/_backward|backward]] turn of the [[h/_hand|hand]]; a [[b/_backhanded|backhanded]] [[s/_stroke|stroke]].**
 - **A turn or [[f/_fold|fold]] [[m/_made|made]] in [[b/_bandaging|bandaging]], by which the [[d/_direction|direction]] of the [[b/_bandage|bandage]] is [[c/_changed|changed]].**
 ---
 #verb

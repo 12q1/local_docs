@@ -7,7 +7,7 @@
 - [[l/_lumpen|lumpen]]
 #noun
 - **An [[e/_extra|extra]] [[l/_laborer|laborer]] [[h/_hired|hired]] to [[a/_assist|assist]] in the [[l/_loading|loading]] or unloading of a truck or a [[s/_ship|ship]].**
-- **A [[s/_scientist|scientist]] in [[o/_one|one]] of various [[f/_fields|fields]] who [[p/_prefers|prefers]] to [[k/_keep|keep]] [[c/_categories|categories]] such as species or [[d/_dialects|dialects]] together in [[l/_larger|larger]] [[g/_groups|groups]].**
+- **A [[s/_scientist|scientist]] in [[o/_one|one]] of various [[f/_fields|fields]] who [[p/_prefers|prefers]] to [[k/_keep|keep]] [[c/_categories|categories]] such as [[s/_species|species]] or [[d/_dialects|dialects]] together in [[l/_larger|larger]] [[g/_groups|groups]].**
 - **A [[m/_militiaman|militiaman]].**
 ---
 ### Antonyms

@@ -1,7 +1,7 @@
 # Backpack
 ---
 #noun
-- **A [[k/_knapsack|knapsack]], [[s/_sometimes|sometimes]] [[m/_mounted|mounted]] on a [[l/_light|light]] [[f/_frame|frame]], but [[a/_always|always]] supported by straps, worn on a [[p/_person|person]]’[[s/_s|s]] [[b/_back|back]] for the [[p/_purpose|purpose]] of [[c/_carrying|carrying]] things, [[e/_especially|especially]] when [[h/_hiking|hiking]], or on a student'[[s/_s|s]] [[b/_back|back]] when [[c/_carrying|carrying]] [[b/_books|books]].**
+- **A [[k/_knapsack|knapsack]], [[s/_sometimes|sometimes]] [[m/_mounted|mounted]] on a [[l/_light|light]] [[f/_frame|frame]], but [[a/_always|always]] supported by [[s/_straps|straps]], worn on a [[p/_person|person]]’[[s/_s|s]] [[b/_back|back]] for the [[p/_purpose|purpose]] of [[c/_carrying|carrying]] things, [[e/_especially|especially]] when [[h/_hiking|hiking]], or on a [[s/_student|student]]'[[s/_s|s]] [[b/_back|back]] when [[c/_carrying|carrying]] [[b/_books|books]].**
 - **A [[s/_similarly|similarly]] [[p/_placed|placed]] [[i/_item|item]] [[c/_containing|containing]] a [[p/_parachute|parachute]] or [[o/_other|other]] [[l/_life|life]]-support [[e/_equipment|equipment]].**
 ---
 ### Synonyms

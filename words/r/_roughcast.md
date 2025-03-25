@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_crude|crude]] [[m/_model|model]].**
-- **A [[r/_rough|rough]] surface [[f/_finish|finish]], as of a [[p/_plaster|plaster]] or stucco wall.**
+- **A [[r/_rough|rough]] surface [[f/_finish|finish]], as of a [[p/_plaster|plaster]] or [[s/_stucco|stucco]] wall.**
 - **A [[m/_mixture|mixture]] of [[p/_pebbles|pebbles]] or [[s/_similar|similar]] [[m/_material|material]] used to [[f/_finish|finish]] a [[p/_plaster|plaster]] or [[c/_concrete|concrete]] wall.**
 ---
 ### Synonyms

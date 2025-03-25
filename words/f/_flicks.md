@@ -5,7 +5,7 @@
 	- _Example: He removed the speck of dust with a flick of his finger._
 - **A [[m/_motion|motion]] [[p/_picture|picture]]; (in [[p/_plural|plural]], usually [[p/_preceded|preceded]] by "the") [[m/_movie|movie]] theater, [[c/_cinema|cinema]].**
 	- _Example: My all-time favorite flick is "Gone with the Wind."_
-- **A [[c/_cut|cut]] that [[l/_lands|lands]] with the [[p/_point|point]], [[o/_often|often]] [[i/_involving|involving]] a whip of the [[f/_foible|foible]] of the [[b/_blade|blade]] to strike at a [[c/_concealed|concealed]] target.**
+- **A [[c/_cut|cut]] that [[l/_lands|lands]] with the [[p/_point|point]], [[o/_often|often]] [[i/_involving|involving]] a whip of the [[f/_foible|foible]] of the [[b/_blade|blade]] to [[s/_strike|strike]] at a [[c/_concealed|concealed]] target.**
 - **A [[p/_powerful|powerful]] underarm volley [[s/_shot|shot]].**
 - **The [[a/_act|act]] of [[p/_pressing|pressing]] a [[p/_place|place]] on a touch [[s/_screen|screen]] [[d/_device|device]].**
 - **A [[f/_flitch|flitch]].**

@@ -10,6 +10,6 @@
 ### Synonyms
 - [[h/_headliner|headliner]], [[h/_hed|hed]]
 #noun
-- **[[i/_important|Important]] [[n/_news|news]] stories**
+- **[[i/_important|Important]] [[n/_news|news]] [[s/_stories|stories]]**
 ---
 ---

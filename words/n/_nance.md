@@ -1,7 +1,7 @@
 # Nance
 ---
 #verb
-- **To [[m/_move|move]] in a [[p/_prissy|prissy]] or stereotypically [[g/_gay|gay]] way.**
+- **To [[m/_move|move]] in a [[p/_prissy|prissy]] or [[s/_stereotypically|stereotypically]] [[g/_gay|gay]] way.**
 	- _Example: nancing around in tight pants_
 ---
 #noun

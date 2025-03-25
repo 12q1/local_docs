@@ -6,7 +6,7 @@
 - **To [[d/_declare|declare]]; utter; [[e/_express|express]]; vocalise.**
 ---
 #adjective
-- **[[s/_speaking|Speaking]], or spoken, [[f/_freely|freely]], [[o/_openly|openly]], or [[b/_boldly|boldly]]; vocal; [[f/_frank|frank]].**
+- **[[s/_speaking|Speaking]], or [[s/_spoken|spoken]], [[f/_freely|freely]], [[o/_openly|openly]], or [[b/_boldly|boldly]]; vocal; [[f/_frank|frank]].**
 	- _Example: an outspoken man_
 ---
 ---

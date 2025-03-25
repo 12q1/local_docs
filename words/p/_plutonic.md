@@ -17,6 +17,6 @@
 ### Synonyms
 - [[P/_Plutonian|Plutonian]], [[P/_Plutonian|Plutonian]], [[a/_abyssal|abyssal]], [[i/_intrusive|intrusive]]
 #adjective
-- **[[c/_containing|Containing]] [[p/_plutonium|plutonium]] in a [[h/_higher|higher]] [[o/_oxidation|oxidation]] state.**
+- **[[c/_containing|Containing]] [[p/_plutonium|plutonium]] in a [[h/_higher|higher]] [[o/_oxidation|oxidation]] [[s/_state|state]].**
 ---
 ---

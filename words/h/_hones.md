@@ -1,7 +1,7 @@
 # Hones
 ---
 #noun
-- **A [[s/_sharpening|sharpening]] stone [[c/_composed|composed]] of [[e/_extra|extra]]-[[f/_fine|fine]] [[g/_grit|grit]] used for [[r/_removing|removing]] the [[b/_burr|burr]] or [[c/_curl|curl]] from the [[b/_blade|blade]] of a [[r/_razor|razor]] or [[s/_some|some]] [[o/_other|other]] [[e/_edge|edge]] tool.**
+- **A [[s/_sharpening|sharpening]] [[s/_stone|stone]] [[c/_composed|composed]] of [[e/_extra|extra]]-[[f/_fine|fine]] [[g/_grit|grit]] used for [[r/_removing|removing]] the [[b/_burr|burr]] or [[c/_curl|curl]] from the [[b/_blade|blade]] of a [[r/_razor|razor]] or [[s/_some|some]] [[o/_other|other]] [[e/_edge|edge]] tool.**
 - **A [[m/_machine|machine]] tool used in the [[m/_manufacture|manufacture]] of [[p/_precision|precision]] [[b/_bores|bores]].**
 ---
 #verb

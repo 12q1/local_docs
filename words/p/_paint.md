@@ -15,7 +15,7 @@
 #verb
 - **To [[a/_apply|apply]] [[p/_paint|paint]] to.**
 - **To [[a/_apply|apply]] in the [[m/_manner|manner]] that [[p/_paint|paint]] is [[a/_applied|applied]].**
-- **To [[c/_cover|cover]] ([[s/_something|something]]) with spots of [[c/_colour|colour]], [[l/_like|like]] [[p/_paint|paint]].**
+- **To [[c/_cover|cover]] ([[s/_something|something]]) with [[s/_spots|spots]] of [[c/_colour|colour]], [[l/_like|like]] [[p/_paint|paint]].**
 - **To [[c/_create|create]] (an [[i/_image|image]]) with [[p/_paints|paints]].**
 	- _Example: to paint a portrait or a landscape_
 - **To [[p/_practise|practise]] the [[a/_art|art]] of [[p/_painting|painting]] [[p/_pictures|pictures]].**

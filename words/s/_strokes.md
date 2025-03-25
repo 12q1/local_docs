@@ -1,0 +1,45 @@
+# Strokes
+---
+#noun
+- **An [[a/_act|act]] of [[s/_stroking|stroking]] ([[m/_moving|moving]] [[o/_one|one]]'[[s/_s|s]] [[h/_hand|hand]] [[o/_over|over]] a surface).**
+	- _Example: She gave the cat a stroke._
+- **A [[b/_blow|blow]] or [[h/_hit|hit]].**
+	- _Example: a stroke on the chin_
+- **A [[s/_single|single]] [[m/_movement|movement]] with a tool.**
+- **[[o/_one|One]] of a [[s/_series|series]] of [[b/_beats|beats]] or [[m/_movements|movements]] [[a/_against|against]] a [[r/_resisting|resisting]] [[m/_medium|medium]], by [[m/_means|means]] of which [[m/_movement|movement]] through or upon it is [[a/_accomplished|accomplished]].**
+	- _Example: the stroke of a bird's wing in flying, or of an oar in rowing_
+- **A [[p/_powerful|powerful]] or sudden [[e/_effort|effort]] by which [[s/_something|something]] is [[d/_done|done]], [[p/_produced|produced]], or [[a/_accomplished|accomplished]]; [[a/_also|also]], [[s/_something|something]] [[d/_done|done]] or [[a/_accomplished|accomplished]] by such an [[e/_effort|effort]].**
+	- _Example: a stroke of genius; a stroke of business; a master stroke of policy_
+- **A [[l/_line|line]] [[d/_drawn|drawn]] with a [[p/_pen|pen]] or [[o/_other|other]] writing [[i/_implement|implement]], [[p/_particularly|particularly]]:**
+- **A [[s/_streak|streak]] [[m/_made|made]] with a [[b/_brush|brush]].**
+- **The time when a [[c/_clock|clock]] [[s/_strikes|strikes]].**
+	- _Example: on the stroke of midnight_
+- **A [[s/_style|style]], a [[s/_single|single]] [[m/_movement|movement]] within a [[s/_style|style]].**
+	- _Example: butterfly stroke_
+- **The [[l/_loss|loss]] of [[b/_brain|brain]] [[f/_function|function]] [[a/_arising|arising]] when the [[b/_blood|blood]] supply to the [[b/_brain|brain]] is suddenly [[i/_interrupted|interrupted]].**
+- **A sudden [[a/_attack|attack]] of [[a/_any|any]] [[d/_disease|disease]], [[e/_especially|especially]] when [[f/_fatal|fatal]]; [[a/_any|any]] sudden, [[s/_severe|severe]] [[a/_affliction|affliction]] or [[c/_calamity|calamity]].**
+	- _Example: a stroke of apoplexy; the stroke of death_
+- **The [[o/_oar|oar]] [[n/_nearest|nearest]] the [[s/_stern|stern]] of a [[b/_boat|boat]], by which the [[o/_other|other]] [[o/_oars|oars]] are [[g/_guided|guided]].**
+- **The [[r/_rower|rower]] who is [[n/_nearest|nearest]] the [[s/_stern|stern]] of the [[b/_boat|boat]].**
+- **[[b/_backstage|Backstage]] [[i/_influence|influence]].**
+- **A [[p/_point|point]] [[a/_awarded|awarded]] to a [[p/_player|player]] in [[c/_case|case]] of [[i/_interference|interference]] or [[o/_obstruction|obstruction]] by the [[o/_opponent|opponent]].**
+- **An [[i/_individual|individual]] [[d/_discharge|discharge]] of [[l/_lightning|lightning]].**
+	- _Example: A flash of lightning may be made up of several strokes. If they are separated by enough time for the eye to distinguish them, the lightning will appear to flicker._
+- **The [[r/_result|result]] or [[e/_effect|effect]] of a [[s/_striking|striking]]; [[i/_injury|injury]] or [[a/_affliction|affliction]]; [[s/_soreness|soreness]].**
+- **An [[a/_addition|addition]] or [[a/_amendment|amendment]] to a written [[c/_composition|composition]]; a touch.**
+	- _Example: to give some finishing strokes to an essay_
+- **A throb or [[b/_beat|beat]], as of the [[h/_heart|heart]].**
+- **[[p/_power|Power]]; [[i/_influence|influence]].**
+- **[[a/_appetite|Appetite]].**
+- **In transactional [[a/_analysis|analysis]], a ([[g/_generally|generally]] [[p/_positive|positive]]) [[r/_reaction|reaction]] to a [[p/_person|person]], [[f/_fulfilling|fulfilling]] their [[n/_needs|needs]] or [[d/_desires|desires]].**
+---
+### Synonyms
+- [[c/_caress|caress]], [[b/_beat|beat]], [[b/_blow|blow]], [[h/_hit|hit]], [[C/_CVA|CVA]], [[h/_hour|hour]]
+#verb
+- **To [[m/_move|move]] [[o/_one|one]]'[[s/_s|s]] [[h/_hand|hand]] or an [[o/_object|object]] (such as a [[b/_broom|broom]]) [[a/_along|along]] (a surface) in [[o/_one|one]] [[d/_direction|direction]].**
+- **To [[h/_hit|hit]] the [[b/_ball|ball]] with the [[b/_bat|bat]] in a [[f/_flowing|flowing]] [[m/_motion|motion]].**
+- **To [[g/_give|give]] a [[f/_finely|finely]] [[f/_fluted|fluted]] surface to.**
+- **To [[r/_row|row]] the [[s/_stroke|stroke]] [[o/_oar|oar]] of.**
+	- _Example: to stroke a boat_
+---
+---

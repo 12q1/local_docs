@@ -9,6 +9,6 @@
 ### Synonyms
 - [[f/_fledgling|fledgling]]
 #verb
-- **To sprout, as [[s/_seed|seed]] [[d/_does|does]] in the [[g/_ground|ground]]; to vegetate.**
+- **To [[s/_sprout|sprout]], as [[s/_seed|seed]] [[d/_does|does]] in the [[g/_ground|ground]]; to vegetate.**
 ---
 ---

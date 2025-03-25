@@ -12,7 +12,7 @@
 ### Antonyms
 - [[d/_disprefer|disprefer]]
 #noun
-- **[[p/_preferred|Preferred]] stock.**
+- **[[p/_preferred|Preferred]] [[s/_stock|stock]].**
 ---
 #adjective
 - **[[f/_favoured|Favoured]]**

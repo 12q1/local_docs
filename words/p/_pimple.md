@@ -1,7 +1,7 @@
 # Pimple
 ---
 #noun
-- **An [[i/_inflamed|inflamed]] ([[r/_raised|raised]] and [[c/_colored|colored]]) spot on the surface of the [[s/_skin|skin]] that is usually [[p/_painful|painful]] and [[f/_fills|fills]] with [[p/_pus|pus]].**
+- **An [[i/_inflamed|inflamed]] ([[r/_raised|raised]] and [[c/_colored|colored]]) [[s/_spot|spot]] on the surface of the [[s/_skin|skin]] that is usually [[p/_painful|painful]] and [[f/_fills|fills]] with [[p/_pus|pus]].**
 	- _Example: I had to pop that embarrassing pimple, it was huge and red and on the tip of my nose._
 - **An [[a/_annoying|annoying]] [[p/_person|person]].**
 	- _Example: He's such a pimple! I wish he'd stop being so irritating!_

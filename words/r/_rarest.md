@@ -11,7 +11,7 @@
 ### Antonyms
 - [[c/_common|common]], [[f/_frequent|frequent]]
 #adjective
-- **([[p/_particularly|particularly]] [[m/_meats|meats]]) [[c/_cooked|Cooked]] very [[l/_lightly|lightly]], [[s/_so|so]] the [[m/_meat|meat]] is still [[r/_red|red]] (in the [[c/_case|case]] of steak or [[b/_beef|beef]] in the [[g/_general|general]] [[s/_sense|sense]]).**
+- **([[p/_particularly|particularly]] [[m/_meats|meats]]) [[c/_cooked|Cooked]] very [[l/_lightly|lightly]], [[s/_so|so]] the [[m/_meat|meat]] is [[s/_still|still]] [[r/_red|red]] (in the [[c/_case|case]] of [[s/_steak|steak]] or [[b/_beef|beef]] in the [[g/_general|general]] [[s/_sense|sense]]).**
 ---
 ### Antonyms
 - 

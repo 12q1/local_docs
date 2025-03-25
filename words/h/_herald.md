@@ -5,9 +5,9 @@
 	- _Example: The herald blew his trumpet and shouted that the King was dead._
 - **A [[h/_harbinger|harbinger]], [[g/_giving|giving]] [[s/_signs|signs]] of things to [[c/_come|come]].**
 	- _Example: Daffodils are heralds of Spring._
-- **An [[o/_official|official]] whose speciality is [[h/_heraldry|heraldry]], [[e/_especially|especially]] [[o/_one|one]] [[b/_between|between]] the [[r/_ranks|ranks]] of [[p/_pursuivant|pursuivant]] and [[k/_king|king]]-of-[[a/_arms|arms]].**
+- **An [[o/_official|official]] whose [[s/_speciality|speciality]] is [[h/_heraldry|heraldry]], [[e/_especially|especially]] [[o/_one|one]] [[b/_between|between]] the [[r/_ranks|ranks]] of [[p/_pursuivant|pursuivant]] and [[k/_king|king]]-of-[[a/_arms|arms]].**
 	- _Example: Rouge Dragon is a herald at the College of Arms._
-- **A [[m/_moth|moth]] of the species Scoliopteryx libatrix.**
+- **A [[m/_moth|moth]] of the [[s/_species|species]] Scoliopteryx libatrix.**
 ---
 ### Synonyms
 - [[h/_harbinger|harbinger]], [[m/_messenger|messenger]], [[p/_pursuivant|pursuivant]]

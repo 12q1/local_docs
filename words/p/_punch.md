@@ -1,14 +1,14 @@
 # Punch
 ---
 #noun
-- **A [[h/_hit|hit]] or strike with [[o/_one|one]]'[[s/_s|s]] [[f/_fist|fist]].**
-- **[[p/_power|Power]], strength, [[e/_energy|energy]].**
+- **A [[h/_hit|hit]] or [[s/_strike|strike]] with [[o/_one|one]]'[[s/_s|s]] [[f/_fist|fist]].**
+- **[[p/_power|Power]], [[s/_strength|strength]], [[e/_energy|energy]].**
 - **[[i/_impact|Impact]].**
 ---
 ### Synonyms
 - [[o/_oomph|oomph]], [[p/_pep|pep]], [[b/_blow|blow]], [[b/_box|box]]
 #verb
-- **To strike with [[o/_one|one]]'[[s/_s|s]] [[f/_fist|fist]].**
+- **To [[s/_strike|strike]] with [[o/_one|one]]'[[s/_s|s]] [[f/_fist|fist]].**
 	- _Example: If she punches me, I'm gonna break her nose._
 - **(of [[c/_cattle|cattle]]) To [[h/_herd|herd]].**
 - **To [[o/_operate|operate]] (a [[d/_device|device]] or [[s/_system|system]]) by [[d/_depressing|depressing]] a [[b/_button|button]], [[k/_key|key]], [[b/_bar|bar]], or [[p/_pedal|pedal]], or by [[s/_similar|similar]] [[m/_means|means]].**

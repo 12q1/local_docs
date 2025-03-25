@@ -12,7 +12,7 @@
 - **To [[o/_oppress|oppress]], [[h/_hold|hold]] [[d/_down|down]] or weaken.**
 - **To [[r/_rotate|rotate]] the [[h/_hips|hips]] [[e/_erotically|erotically]].**
 - **To [[d/_dance|dance]] in a [[s/_sexually|sexually]] suggestive way with [[b/_both|both]] [[p/_partners|partners]] in very [[c/_close|close]] [[p/_proximity|proximity]], [[o/_often|often]] [[p/_pressed|pressed]] [[a/_against|against]] [[e/_each|each]] [[o/_other|other]].**
-- **To [[r/_repeat|repeat]] a task a [[l/_large|large]] [[n/_number|number]] of times in a [[r/_row|row]] to [[a/_achieve|achieve]] a specific [[g/_goal|goal]].**
+- **To [[r/_repeat|repeat]] a task a [[l/_large|large]] [[n/_number|number]] of times in a [[r/_row|row]] to [[a/_achieve|achieve]] a [[s/_specific|specific]] [[g/_goal|goal]].**
 - **To [[o/_operate|operate]] by turning a [[c/_crank|crank]].**
 	- _Example: to grind an organ_
 - **To [[p/_produce|produce]] [[m/_mechanically|mechanically]] and [[r/_repetitively|repetitively]] as [[i/_if|if]] by turning a [[c/_crank|crank]].**
@@ -21,7 +21,7 @@
 	- _Example: Grinding lessons into students' heads does not motivate them to learn._
 - **To [[e/_eat|eat]].**
 	- _Example: Eh, brah, let's go grind._
-- **To work or study [[h/_hard|hard]]; to [[h/_hustle|hustle]] or [[d/_drudge|drudge]].**
+- **To work or [[s/_study|study]] [[h/_hard|hard]]; to [[h/_hustle|hustle]] or [[d/_drudge|drudge]].**
 - **To [[a/_annoy|annoy]] or [[i/_irritate|irritate]] (a [[p/_person|person]]); to [[g/_grind|grind]] [[o/_one|one]]'[[s/_s|s]] [[g/_gears|gears]].**
 ---
 #noun

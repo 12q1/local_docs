@@ -17,7 +17,7 @@
 - **An [[e/_enclosure|enclosure]] for an [[a/_animal|animal]]; a track or [[p/_path|path]] [[a/_along|along]] which [[s/_something|something]] [[c/_can|can]] travel.**
 	- _Example: He set up a rabbit run._
 - **[[r/_rural|Rural]] [[l/_landholding|landholding]] for [[f/_farming|farming]], usually for [[r/_running|running]] [[s/_sheep|sheep]], and [[o/_operated|operated]] by a [[r/_runholder|runholder]].**
-- **State of [[b/_being|being]] [[c/_current|current]]; [[c/_currency|currency]]; [[p/_popularity|popularity]].**
+- **[[s/_state|State]] of [[b/_being|being]] [[c/_current|current]]; [[c/_currency|currency]]; [[p/_popularity|popularity]].**
 - **[[c/_continuous|Continuous]] or [[s/_sequential|sequential]]**
 - **A [[f/_flow|flow]] of [[l/_liquid|liquid]]; a [[l/_leak|leak]].**
 	- _Example: The constant run of water from the faucet annoys me._
@@ -30,12 +30,12 @@
 - **[[a/_any|Any]] sudden [[l/_large|large]] [[d/_demand|demand]] for [[s/_something|something]].**
 	- _Example: There was a run on Christmas presents._
 - **Various [[h/_horizontal|horizontal]] [[d/_dimensions|dimensions]] or surfaces**
-- **A standard or unexceptional [[g/_group|group]] or [[c/_category|category]].**
+- **A [[s/_standard|standard]] or unexceptional [[g/_group|group]] or [[c/_category|category]].**
 	- _Example: He stood out from the usual run of applicants._
-- **In sports**
-- **A [[l/_line|line]] of [[k/_knit|knit]] stitches that [[h/_have|have]] unravelled, [[p/_particularly|particularly]] in a [[n/_nylon|nylon]] stocking.**
+- **In [[s/_sports|sports]]**
+- **A [[l/_line|line]] of [[k/_knit|knit]] [[s/_stitches|stitches]] that [[h/_have|have]] unravelled, [[p/_particularly|particularly]] in a [[n/_nylon|nylon]] [[s/_stocking|stocking]].**
 	- _Example: I have a run in my stocking._
-- **The stern of the underwater [[b/_body|body]] of a [[s/_ship|ship]] from where it [[b/_begins|begins]] to [[c/_curve|curve]] upward and [[i/_inward|inward]].**
+- **The [[s/_stern|stern]] of the underwater [[b/_body|body]] of a [[s/_ship|ship]] from where it [[b/_begins|begins]] to [[c/_curve|curve]] upward and [[i/_inward|inward]].**
 - **The [[h/_horizontal|horizontal]] [[d/_distance|distance]] to which a [[d/_drift|drift]] [[m/_may|may]] be [[c/_carried|carried]], [[e/_either|either]] by [[l/_licence|licence]] of the [[p/_proprietor|proprietor]] of a [[m/_mine|mine]] or by the [[n/_nature|nature]] of the [[f/_formation|formation]]; [[a/_also|also]], the [[d/_direction|direction]] which a vein of [[o/_ore|ore]] or [[o/_other|other]] substance takes.**
 - **A [[p/_pair|pair]] or [[s/_set|set]] of [[m/_millstones|millstones]].**
 ---
@@ -63,7 +63,7 @@
 	- _Example: to run guns; to run rum_
 - **To [[s/_sort|sort]] through a [[l/_large|large]] volume of [[p/_produce|produce]] in [[q/_quality|quality]] [[c/_control|control]].**
 	- _Example: Looks like we're gonna have to run the tomatoes again._
-- **To [[e/_extend|extend]] or [[p/_persist|persist]], statically or [[d/_dynamically|dynamically]], through [[s/_space|space]] or time.**
+- **To [[e/_extend|extend]] or [[p/_persist|persist]], [[s/_statically|statically]] or [[d/_dynamically|dynamically]], through [[s/_space|space]] or time.**
 - **To [[e/_execute|execute]] or [[c/_carry|carry]] [[o/_out|out]] a [[p/_plan|plan]], [[p/_procedure|procedure]] or [[p/_program|program]].**
 	- _Example: Don't run that software unless you have permission._
 - **To [[p/_pass|pass]] or [[g/_go|go]] [[q/_quickly|quickly]] in thought or [[c/_conversation|conversation]].**
@@ -72,7 +72,7 @@
 	- _Example: Our supplies are running low._
 - **To [[c/_cost|cost]] a [[l/_large|large]] [[a/_amount|amount]] of [[m/_money|money]].**
 	- _Example: Buying a new laptop will run you a thousand dollars._
-- **Of stitches or stitched [[c/_clothing|clothing]], to unravel.**
+- **Of [[s/_stitches|stitches]] or [[s/_stitched|stitched]] [[c/_clothing|clothing]], to unravel.**
 	- _Example: My stocking is running._
 - **To [[p/_pursue|pursue]] in thought; to [[c/_carry|carry]] in [[c/_contemplation|contemplation]].**
 - **To [[c/_cause|cause]] to [[e/_enter|enter]]; to thrust.**
@@ -84,7 +84,7 @@
 	- _Example: to run the risk of losing one's life_
 - **To [[p/_put|put]] at [[h/_hazard|hazard]]; to venture; to [[r/_risk|risk]].**
 - **To tease with [[s/_sarcasms|sarcasms]] and [[r/_ridicule|ridicule]].**
-- **To [[s/_sew|sew]] (a [[s/_seam|seam]]) by [[p/_passing|passing]] the [[n/_needle|needle]] through [[m/_material|material]] in a [[c/_continuous|continuous]] [[l/_line|line]], [[g/_generally|generally]] taking a [[s/_series|series]] of stitches on the [[n/_needle|needle]] at the [[s/_same|same]] time.**
+- **To [[s/_sew|sew]] (a [[s/_seam|seam]]) by [[p/_passing|passing]] the [[n/_needle|needle]] through [[m/_material|material]] in a [[c/_continuous|continuous]] [[l/_line|line]], [[g/_generally|generally]] taking a [[s/_series|series]] of [[s/_stitches|stitches]] on the [[n/_needle|needle]] at the [[s/_same|same]] time.**
 - **To [[c/_control|control]] or [[h/_have|have]] [[p/_precedence|precedence]] in a [[c/_card|card]] [[g/_game|game]].**
 	- _Example: Every three or four hands he would run the table._
 - **To be in [[f/_form|form]] thus, as a [[c/_combination|combination]] of words.**
@@ -95,11 +95,11 @@
 - **To [[h/_have|have]] a [[l/_legal|legal]] [[c/_course|course]]; to be [[a/_attached|attached]]; to [[c/_continue|continue]] in [[f/_force|force]], [[e/_effect|effect]], or [[o/_operation|operation]]; to [[f/_follow|follow]]; to [[g/_go|go]] in [[c/_company|company]].**
 	- _Example: Certain covenants run with the land._
 - **To [[e/_encounter|encounter]] or suffer (a [[p/_particular|particular]], usually [[b/_bad|bad]], [[f/_fate|fate]] or [[m/_misfortune|misfortune]]).**
-- **To strike (the [[b/_ball|ball]]) in such a way as to [[c/_cause|cause]] it to [[r/_run|run]] [[a/_along|along]] the [[g/_ground|ground]], as when [[a/_approaching|approaching]] a [[h/_hole|hole]].**
+- **To [[s/_strike|strike]] (the [[b/_ball|ball]]) in such a way as to [[c/_cause|cause]] it to [[r/_run|run]] [[a/_along|along]] the [[g/_ground|ground]], as when [[a/_approaching|approaching]] a [[h/_hole|hole]].**
 - **To speedrun.**
 ---
 #adjective
-- **In a [[l/_liquid|liquid]] state; [[m/_melted|melted]] or [[m/_molten|molten]].**
+- **In a [[l/_liquid|liquid]] [[s/_state|state]]; [[m/_melted|melted]] or [[m/_molten|molten]].**
 	- _Example: Put some run butter on the vegetables._
 - **[[c/_cast|Cast]] in a [[m/_mould|mould]].**
 - **[[e/_exhausted|Exhausted]]; [[d/_depleted|depleted]] ([[e/_especially|especially]] with "[[d/_down|down]]" or "[[o/_out|out]]").**

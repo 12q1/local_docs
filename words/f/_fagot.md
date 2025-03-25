@@ -1,9 +1,9 @@
 # Fagot
 ---
 #noun
-- **([[c/_collective|collective]]) A [[b/_bundle|bundle]] of sticks or [[b/_brushwood|brushwood]] [[i/_intended|intended]] to be used for [[f/_fuel|fuel]] tied together for [[c/_carrying|carrying]]. ([[s/_some|Some]] [[s/_sources|sources]] specify that a [[f/_faggot|faggot]] is tied with two [[b/_bands|bands]] or withes, whereas a [[b/_bavin|bavin]] is tied with [[j/_just|just]] [[o/_one|one]].)**
+- **([[c/_collective|collective]]) A [[b/_bundle|bundle]] of [[s/_sticks|sticks]] or [[b/_brushwood|brushwood]] [[i/_intended|intended]] to be used for [[f/_fuel|fuel]] tied together for [[c/_carrying|carrying]]. ([[s/_some|Some]] [[s/_sources|sources]] [[s/_specify|specify]] that a [[f/_faggot|faggot]] is tied with two [[b/_bands|bands]] or withes, whereas a [[b/_bavin|bavin]] is tied with [[j/_just|just]] [[o/_one|one]].)**
 - **[[b/_burdensome|Burdensome]] [[b/_baggage|baggage]].**
-- **A [[b/_bundle|bundle]] of [[p/_pieces|pieces]] of [[i/_iron|iron]] or steel [[c/_cut|cut]] [[o/_off|off]] [[i/_into|into]] suitable [[l/_lengths|lengths]] for welding.**
+- **A [[b/_bundle|bundle]] of [[p/_pieces|pieces]] of [[i/_iron|iron]] or [[s/_steel|steel]] [[c/_cut|cut]] [[o/_off|off]] [[i/_into|into]] suitable [[l/_lengths|lengths]] for welding.**
 - **A [[b/_burning|burning]] or [[s/_smouldering|smouldering]] [[p/_piece|piece]] of [[f/_firewood|firewood]].**
 - **A [[m/_meatball|meatball]] [[m/_made|made]] with offcuts and [[o/_offal|offal]], [[e/_especially|especially]] [[p/_pork|pork]]. ([[s/_see|See]] Wikipedia.)**
 - **An [[a/_annoying|annoying]] or [[i/_inconsiderate|inconsiderate]] [[p/_person|person]].**

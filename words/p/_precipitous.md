@@ -1,7 +1,7 @@
 # Precipitous
 ---
 #adjective
-- **Steep, [[l/_like|like]] a [[p/_precipice|precipice]]**
+- **[[s/_steep|Steep]], [[l/_like|like]] a [[p/_precipice|precipice]]**
 	- _Example: a precipitous cliff_
 - **[[h/_headlong|Headlong]]**
 	- _Example: a precipitous fall_

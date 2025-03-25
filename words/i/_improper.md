@@ -10,6 +10,6 @@
 - **Not [[a/_according|according]] to [[f/_facts|facts]]; [[i/_inaccurate|inaccurate]] or [[e/_erroneous|erroneous]]**
 - **Not [[c/_consistent|consistent]] with [[e/_established|established]] [[f/_facts|facts]]; [[i/_incorrect|incorrect]]**
 - **Not [[p/_properly|properly]] [[n/_named|named]]; [[s/_see|See]], for [[e/_example|example]], [[i/_improper|improper]] [[f/_fraction|fraction]]**
-- **Not specific or [[a/_appropriate|appropriate]] to [[i/_individuals|individuals]]; [[g/_general|general]]; [[c/_common|common]].**
+- **Not [[s/_specific|specific]] or [[a/_appropriate|appropriate]] to [[i/_individuals|individuals]]; [[g/_general|general]]; [[c/_common|common]].**
 ---
 ---

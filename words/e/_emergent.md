@@ -8,7 +8,7 @@
 - **[[a/_arising|Arising]] unexpectedly, [[e/_especially|especially]] [[i/_if|if]] [[a/_also|also]] [[c/_calling|calling]] for [[i/_immediate|immediate]] [[r/_reaction|reaction]]; [[c/_constituting|constituting]] an [[e/_emergency|emergency]].**
 - **Taller than the surrounding vegetation.**
 - **(of a water-[[d/_dwelling|dwelling]] [[p/_plant|plant]]) [[h/_having|Having]] [[l/_leaves|leaves]] and [[f/_flowers|flowers]] [[a/_above|above]] the water.**
-- **[[h/_having|Having]] gameplay that [[a/_arises|arises]] from [[i/_its|its]] [[m/_mechanics|mechanics]], [[r/_rather|rather]] than a [[l/_linear|linear]] storyline.**
+- **[[h/_having|Having]] gameplay that [[a/_arises|arises]] from [[i/_its|its]] [[m/_mechanics|mechanics]], [[r/_rather|rather]] than a [[l/_linear|linear]] [[s/_storyline|storyline]].**
 - **[[h/_having|Having]] [[p/_properties|properties]] as a whole that are [[m/_more|more]] [[c/_complex|complex]] than the [[p/_properties|properties]] [[c/_contributed|contributed]] by [[e/_each|each]] of the [[c/_components|components]] [[i/_individually|individually]].**
 ---
 ---

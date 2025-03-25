@@ -10,15 +10,15 @@
 - **[[a/_any|Any]] [[n/_narrow|narrow]] [[c/_channel|channel]] or [[g/_groove|groove]], such as [[o/_one|one]] [[f/_formed|formed]] by [[e/_erosion|erosion]] in the vent of a [[g/_gun|gun]] from [[r/_repeated|repeated]] [[f/_firing|firing]].**
 - **A [[s/_space|space]] [[b/_between|between]] [[p/_printed|printed]] [[c/_columns|columns]] of text.**
 - **[[o/_one|One]] of a [[n/_number|number]] of [[p/_pieces|pieces]] of wood or [[m/_metal|metal]], [[g/_grooved|grooved]] in the [[c/_centre|centre]], used to [[s/_separate|separate]] the [[p/_pages|pages]] of type in a [[f/_form|form]].**
-- **An unprinted [[s/_space|space]] [[b/_between|between]] [[r/_rows|rows]] of stamps.**
+- **An unprinted [[s/_space|space]] [[b/_between|between]] [[r/_rows|rows]] of [[s/_stamps|stamps]].**
 - **A [[d/_drainage|drainage]] [[c/_channel|channel]].**
 - **The [[n/_notional|notional]] [[l/_locus|locus]] of things, [[a/_acts|acts]], or [[e/_events|events]] which are [[d/_distasteful|distasteful]], [[i/_ill|ill]] [[b/_bred|bred]] or [[m/_morally|morally]] [[q/_questionable|questionable]].**
-- **A [[l/_low|low]], vulgar state.**
+- **A [[l/_low|low]], vulgar [[s/_state|state]].**
 	- _Example: Get your mind out of the gutter._
 - **The [[s/_spaces|spaces]] [[b/_between|between]] [[c/_comic|comic]] [[b/_book|book]] [[p/_panels|panels]]**
 ---
 #verb
-- **To [[f/_flow|flow]] or stream; to [[f/_form|form]] [[g/_gutters|gutters]].**
+- **To [[f/_flow|flow]] or [[s/_stream|stream]]; to [[f/_form|form]] [[g/_gutters|gutters]].**
 - **(of a [[c/_candle|candle]]) To [[m/_melt|melt]] [[a/_away|away]] by [[h/_having|having]] the [[m/_molten|molten]] wax [[r/_run|run]] [[d/_down|down]] [[a/_along|along]] the [[s/_side|side]] of the [[c/_candle|candle]].**
 - **(of a [[s/_small|small]] [[f/_flame|flame]]) To [[f/_flicker|flicker]] as [[i/_if|if]] [[a/_about|about]] to be [[e/_extinguished|extinguished]].**
 - **To [[s/_send|send]] (a [[b/_bowling|bowling]] [[b/_ball|ball]]) [[i/_into|into]] the [[g/_gutter|gutter]], not [[h/_hitting|hitting]] [[a/_any|any]] [[p/_pins|pins]].**

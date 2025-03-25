@@ -14,9 +14,9 @@
 #adjective
 - **[[f/_filled|Filled]] with [[a/_air|air]] or [[f/_fluid|fluid]]**
 	- _Example: The inflated balloons danced in the breeze._
-- **[[e/_expanded|Expanded]]; in a state of [[i/_inflation|inflation]], of [[a/_abnormally|abnormally]] [[i/_increased|increased]] [[s/_size|size]], [[a/_amount|amount]], [[e/_etc|etc]].**
+- **[[e/_expanded|Expanded]]; in a [[s/_state|state]] of [[i/_inflation|inflation]], of [[a/_abnormally|abnormally]] [[i/_increased|increased]] [[s/_size|size]], [[a/_amount|amount]], [[e/_etc|etc]].**
 	- _Example: His inflated belly looked uncomfortable._
-- **: In a state of [[h/_higher|higher]] [[c/_cost|cost]].**
+- **: In a [[s/_state|state]] of [[h/_higher|higher]] [[c/_cost|cost]].**
 	- _Example: His inflated prices made the vendor unpopular._
 - **[[p/_pompous|Pompous]]; [[a/_arrogant|arrogant]] (of a [[p/_person|person]] or [[e/_ego|ego]])**
 - **[[c/_containing|Containing]] [[e/_excessive|excessive]], [[m/_meaningless|meaningless]] words, [[p/_particularly|particularly]] for [[s/_show|show]]**

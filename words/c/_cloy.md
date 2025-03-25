@@ -1,7 +1,7 @@
 # Cloy
 ---
 #verb
-- **To [[f/_fill|fill]] up or [[c/_choke|choke]] up; to stop up.**
+- **To [[f/_fill|fill]] up or [[c/_choke|choke]] up; to [[s/_stop|stop]] up.**
 - **To [[c/_clog|clog]], to [[g/_glut|glut]], or [[s/_satisfy|satisfy]], as the [[a/_appetite|appetite]]; to [[s/_satiate|satiate]].**
 - **To [[f/_fill|fill]] to [[l/_loathing|loathing]]; to surfeit.**
 ---

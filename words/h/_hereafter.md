@@ -1,7 +1,7 @@
 # Hereafter
 ---
 #noun
-- **A [[f/_future|future]] [[e/_existence|existence]] or state.**
+- **A [[f/_future|future]] [[e/_existence|existence]] or [[s/_state|state]].**
 - **[[e/_existence|Existence]] [[a/_after|after]] [[d/_death|death]].**
 ---
 ### Synonyms
@@ -12,7 +12,7 @@
 ### Synonyms
 - [[u/_unborn|unborn]]
 #adverb
-- **In time to [[c/_come|come]]; in [[s/_some|some]] [[f/_future|future]] time or state.**
+- **In time to [[c/_come|come]]; in [[s/_some|some]] [[f/_future|future]] time or [[s/_state|state]].**
 - **From [[n/_now|now]] on.**
 - **[[s/_sequentially|Sequentially]] [[a/_after|after]] this [[p/_point|point]] (in time, in the writing [[c/_constituting|constituting]] a [[d/_document|document]], in the [[m/_movement|movement]] [[a/_along|along]] a [[p/_path|path]], [[e/_etc|etc]].)**
 ---

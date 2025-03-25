@@ -9,7 +9,7 @@
 	- _Example: dative alternation; locative alternation_
 - **The "[[i/_inclusive|inclusive]] or" truth [[f/_function|function]].**
 - **A [[s/_sequence|sequence]] that [[a/_alternates|alternates]] [[b/_between|between]] [[p/_positive|positive]] and [[n/_negative|negative]] values; [[s/_sometimes|sometimes]] [[i/_incorrectly|incorrectly]] used to [[m/_mean|mean]] [[p/_permutation|permutation]].**
-- **A [[c/_construct|construct]] in a [[r/_regular|regular]] [[e/_expression|expression]] that [[c/_can|can]] [[m/_match|match]] [[a/_any|any]] of [[s/_several|several]] specified subexpressions.**
+- **A [[c/_construct|construct]] in a [[r/_regular|regular]] [[e/_expression|expression]] that [[c/_can|can]] [[m/_match|match]] [[a/_any|any]] of [[s/_several|several]] [[s/_specified|specified]] subexpressions.**
 - **A type of [[p/_partial|partial]] truncation of a [[p/_polygon|polygon]], [[p/_polyhedron|polyhedron]] or tiling in which [[a/_alternate|alternate]] vertices are [[r/_removed|removed]].**
 ---
 ---

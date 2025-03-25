@@ -4,7 +4,7 @@
 - **Weight.**
 - **[[h/_heaviness|Heaviness]], the [[f/_feel|feel]] of weight.**
 	- _Example: A high quality hammer should have good balance and heft._
-- **The [[a/_act|act]] or [[e/_effort|effort]] of [[h/_heaving|heaving]]; violent strain or [[e/_exertion|exertion]].**
+- **The [[a/_act|act]] or [[e/_effort|effort]] of [[h/_heaving|heaving]]; violent [[s/_strain|strain]] or [[e/_exertion|exertion]].**
 - **The [[g/_greater|greater]] [[p/_part|part]] or [[b/_bulk|bulk]] of [[a/_anything|anything]].**
 	- _Example: The heft of the crop was spoiled._
 ---

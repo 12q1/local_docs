@@ -18,7 +18,7 @@
 - **([[h/_heading|heading]], [[b/_behavioural|behavioural]]) [[f/_free|Free]] of [[i/_immorality|immorality]] or [[c/_criminality|criminality]].**
 - **[[s/_smooth|Smooth]], [[e/_exact|exact]], and [[p/_performed|performed]] well**
 	- _Example: I’ll need a sharper knife to make clean cuts.  a clean leap over a fence_
-- **Total; utter. (still in "[[c/_clean|clean]] sweep")**
+- **Total; utter. ([[s/_still|still]] in "[[c/_clean|clean]] sweep")**
 - **[[c/_cool|Cool]] or [[n/_neat|neat]].**
 	- _Example: Wow, Dude, those are some clean shoes ya got there!_
 - **([[h/_health|health]]) [[b/_being|Being]] [[f/_free|free]] of [[s/_sexually|sexually]] transmitted [[d/_diseases|diseases]] (STDs).**

@@ -8,6 +8,6 @@
 - **[[h/_hot|Hot]] or [[i/_inflamed|inflamed]].**
 - **Tempestuous or [[e/_emotionally|emotionally]] volatile.**
 	- _Example: a fiery temper_
-- **Spirited or [[f/_filled|filled]] with [[e/_emotion|emotion]].**
+- **[[s/_spirited|Spirited]] or [[f/_filled|filled]] with [[e/_emotion|emotion]].**
 ---
 ---

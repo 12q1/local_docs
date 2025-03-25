@@ -1,7 +1,7 @@
 # Ho
 ---
 #noun
-- **A stop; a [[h/_halt|halt]]; a [[m/_moderation|moderation]] of [[p/_pace|pace]].**
+- **A [[s/_stop|stop]]; a [[h/_halt|halt]]; a [[m/_moderation|moderation]] of [[p/_pace|pace]].**
 ---
 #interjection
 - **Used to [[a/_attract|attract]] [[a/_attention|attention]] to [[s/_something|something]] [[s/_sighted|sighted]], usually by [[l/_lookouts|lookouts]].**

@@ -7,11 +7,11 @@
 - **(of a value or [[r/_rate|rate]]) To [[d/_decrease|decrease]] [[s/_slightly|slightly]].**
 - **To [[l/_lower|lower]] a [[l/_light|light]]'[[s/_s|s]] [[b/_beam|beam]].**
 	- _Example: Dip your lights as you meet an oncoming car._
-- **To [[l/_lower|lower]] (a [[f/_flag|flag]]), [[p/_particularly|particularly]] a [[n/_national|national]] [[e/_ensign|ensign]], to a [[p/_partially|partially]] [[h/_hoisted|hoisted]] [[p/_position|position]] in [[o/_order|order]] to [[r/_render|render]] or to [[r/_return|return]] a [[s/_salute|salute]]. While [[l/_lowered|lowered]], the [[f/_flag|flag]] is [[s/_said|said]] to be “at the [[d/_dip|dip]].” A [[f/_flag|flag]] [[b/_being|being]] [[c/_carried|carried]] on a staff [[m/_may|may]] be [[d/_dipped|dipped]] by [[l/_leaning|leaning]] it [[f/_forward|forward]] at an [[a/_approximate|approximate]] [[a/_angle|angle]] of 45 [[d/_degrees|degrees]].**
+- **To [[l/_lower|lower]] (a [[f/_flag|flag]]), [[p/_particularly|particularly]] a [[n/_national|national]] [[e/_ensign|ensign]], to a [[p/_partially|partially]] [[h/_hoisted|hoisted]] [[p/_position|position]] in [[o/_order|order]] to [[r/_render|render]] or to [[r/_return|return]] a [[s/_salute|salute]]. While [[l/_lowered|lowered]], the [[f/_flag|flag]] is [[s/_said|said]] to be “at the [[d/_dip|dip]].” A [[f/_flag|flag]] [[b/_being|being]] [[c/_carried|carried]] on a [[s/_staff|staff]] [[m/_may|may]] be [[d/_dipped|dipped]] by [[l/_leaning|leaning]] it [[f/_forward|forward]] at an [[a/_approximate|approximate]] [[a/_angle|angle]] of 45 [[d/_degrees|degrees]].**
 	- _Example: “The sailor rushed to the flag hoist to dip the flag in return.”_
 - **To treat [[c/_cattle|cattle]] or [[s/_sheep|sheep]] by [[i/_immersion|immersion]] in [[c/_chemical|chemical]] [[s/_solution|solution]].**
 	- _Example: The farmer is going to dip the cattle today._
-- **To use a [[d/_dip|dip]] stick to [[c/_check|check]] [[o/_oil|oil]] [[l/_level|level]] in an [[e/_engine|engine]].**
+- **To use a [[d/_dip|dip]] [[s/_stick|stick]] to [[c/_check|check]] [[o/_oil|oil]] [[l/_level|level]] in an [[e/_engine|engine]].**
 - **To [[c/_consume|consume]] [[s/_snuff|snuff]] by [[p/_placing|placing]] a [[p/_pinch|pinch]] [[b/_behind|behind]] the [[l/_lip|lip]] or under the tongue [[s/_so|so]] that the [[a/_active|active]] [[c/_chemical|chemical]] [[c/_constituents|constituents]] of the [[s/_snuff|snuff]] [[m/_may|may]] be [[a/_absorbed|absorbed]] [[i/_into|into]] the [[s/_system|system]] for their [[n/_narcotic|narcotic]] [[e/_effect|effect]].**
 - **To [[i/_immerse|immerse]] for [[b/_baptism|baptism]].**
 - **To wet, as [[i/_if|if]] by [[i/_immersing|immersing]]; to [[m/_moisten|moisten]].**

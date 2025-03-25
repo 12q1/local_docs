@@ -1,7 +1,7 @@
 # Snazzy
 ---
 #adjective
-- **[[e/_elegant|Elegant]] in [[m/_manner|manner]] of [[d/_dress|dress]]; stylish, [[m/_modern|modern]] or [[a/_appealing|appealing]] in [[a/_appearance|appearance]]; [[f/_flashy|flashy]].**
+- **[[e/_elegant|Elegant]] in [[m/_manner|manner]] of [[d/_dress|dress]]; [[s/_stylish|stylish]], [[m/_modern|modern]] or [[a/_appealing|appealing]] in [[a/_appearance|appearance]]; [[f/_flashy|flashy]].**
 - **[[e/_excellent|Excellent]]; [[c/_clever|clever]], [[i/_ingenious|ingenious]], or [[a/_adept|adept]] in [[b/_behavior|behavior]], [[o/_operation|operation]], or [[e/_execution|execution]].**
 ---
 ### Synonyms

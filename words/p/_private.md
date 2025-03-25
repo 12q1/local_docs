@@ -14,7 +14,7 @@
 ### Synonyms
 - [[b/_bit|bit]]
 #adjective
-- **[[b/_belonging|Belonging]] to, [[c/_concerning|concerning]], or [[a/_accessible|accessible]] [[o/_only|only]] to an [[i/_individual|individual]] [[p/_person|person]] or a specific [[g/_group|group]].**
+- **[[b/_belonging|Belonging]] to, [[c/_concerning|concerning]], or [[a/_accessible|accessible]] [[o/_only|only]] to an [[i/_individual|individual]] [[p/_person|person]] or a [[s/_specific|specific]] [[g/_group|group]].**
 	- _Example: Her address is private; you can't have it._
 - **Not [[a/_accessible|accessible]] by the [[p/_public|public]].**
 	- _Example: private property_

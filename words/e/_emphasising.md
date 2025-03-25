@@ -1,7 +1,7 @@
 # Emphasising
 ---
 #verb
-- **To stress, [[g/_give|give]] [[e/_emphasis|emphasis]] or [[e/_extra|extra]] weight to ([[s/_something|something]]).**
+- **To [[s/_stress|stress]], [[g/_give|give]] [[e/_emphasis|emphasis]] or [[e/_extra|extra]] weight to ([[s/_something|something]]).**
 	- _Example: His two-fingered gesture emphasized what he had told his boss to do with his job._
 ---
 ### Synonyms

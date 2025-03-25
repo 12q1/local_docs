@@ -12,7 +12,7 @@
 - **The [[a/_action|action]] or an [[i/_instance|instance]] of [[c/_concluding|concluding]] [[s/_something|something]], [[p/_particularly|particularly]]:**
 - **The [[e/_end|end]] [[r/_result|result]] of an [[e/_event|event]] or [[e/_events|events]], [[a/_any|any]] [[r/_result|result]] or [[o/_outcome|outcome]], [[p/_particularly|particularly]]:**
 - **The [[a/_action|action]] or an [[i/_instance|instance]] of [[f/_feeling|feeling]] [[s/_some|some]] [[e/_emotion|emotion]].**
-- **The [[a/_action|action]] or an [[i/_instance|instance]] of [[l/_leaving|leaving]] [[a/_any|any]] state or [[c/_condition|condition]].**
+- **The [[a/_action|action]] or an [[i/_instance|instance]] of [[l/_leaving|leaving]] [[a/_any|any]] [[s/_state|state]] or [[c/_condition|condition]].**
 ---
 ### Synonyms
 - [[c/_charge|charge]], [[s/_sally|sally]], [[s/_sortie|sortie]], [[d/_descendant|descendant]], [[o/_offspring|offspring]]

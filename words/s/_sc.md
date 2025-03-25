@@ -7,7 +7,7 @@
 ### Synonyms
 - 
 #noun
-- **Stocks with a [[r/_relatively|relatively]] [[s/_small|small]] [[m/_market|market]] [[c/_capitalization|capitalization]].**
+- **[[s/_stocks|Stocks]] with a [[r/_relatively|relatively]] [[s/_small|small]] [[m/_market|market]] [[c/_capitalization|capitalization]].**
 ---
 #noun
 - **A [[b/_book|book]] [[h/_having|having]] such [[c/_covers|covers]].**

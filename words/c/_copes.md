@@ -14,12 +14,12 @@
 - **A [[l/_long|long]], [[l/_loose|loose]] [[c/_cloak|cloak]] worn by a [[p/_priest|priest]], [[d/_deacon|deacon]], or [[b/_bishop|bishop]] when [[p/_presiding|presiding]] [[o/_over|over]] a [[c/_ceremony|ceremony]] [[o/_other|other]] than the [[m/_mass|Mass]].**
 - **[[a/_any|Any]] [[c/_covering|covering]] such as a [[c/_canopy|canopy]] or a [[m/_mantle|mantle]].**
 - **The vault or [[c/_canopy|canopy]] of the [[s/_skies|skies]], [[h/_heavens|heavens]] [[e/_etc|etc]].**
-- **A [[c/_covering|covering]] [[p/_piece|piece]] on top of a wall [[e/_exposed|exposed]] to the weather, usually [[m/_made|made]] of [[m/_metal|metal]], [[m/_masonry|masonry]], or stone, and [[s/_sloped|sloped]] to [[c/_carry|carry]] [[o/_off|off]] water.**
+- **A [[c/_covering|covering]] [[p/_piece|piece]] on top of a wall [[e/_exposed|exposed]] to the weather, usually [[m/_made|made]] of [[m/_metal|metal]], [[m/_masonry|masonry]], or [[s/_stone|stone]], and [[s/_sloped|sloped]] to [[c/_carry|carry]] [[o/_off|off]] water.**
 - **([[f/_foundry|foundry]]) The top [[p/_part|part]] of a [[s/_sand|sand]] [[c/_casting|casting]] [[m/_mold|mold]].**
 - **An [[a/_ancient|ancient]] tribute [[d/_due|due]] to the [[l/_lord|lord]] of the [[s/_soil|soil]], [[o/_out|out]] of the [[l/_lead|lead]] [[m/_mines|mines]] in [[d/_derbyshire|Derbyshire]], [[e/_england|England]].**
 ---
 #verb
-- **To [[c/_cover|cover]] (a [[j/_joint|joint]] or structure) with [[c/_coping|coping]].**
+- **To [[c/_cover|cover]] (a [[j/_joint|joint]] or [[s/_structure|structure]]) with [[c/_coping|coping]].**
 - **To [[f/_form|form]] a [[c/_cope|cope]] or [[a/_arch|arch]]; to [[b/_bend|bend]] or [[a/_arch|arch]]; to [[b/_bow|bow]].**
 ---
 #verb

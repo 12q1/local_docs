@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to [[h/_heterosis|heterosis]]**
-- **[[d/_describing|Describing]] a [[h/_hybrid|hybrid]] [[f/_form|form]] of string theory ([[s/_see|See]] [[h/_heterotic|Heterotic]] string theory on Wikipedia)**
+- **[[d/_describing|Describing]] a [[h/_hybrid|hybrid]] [[f/_form|form]] of [[s/_string|string]] theory ([[s/_see|See]] [[h/_heterotic|Heterotic]] [[s/_string|string]] theory on Wikipedia)**
 ---
 ---

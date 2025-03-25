@@ -6,7 +6,7 @@
 	- _Example: I need something to chase this shot with._
 - **To [[a/_attempt|attempt]] to win by [[s/_scoring|scoring]] the [[r/_required|required]] [[n/_number|number]] of [[r/_runs|runs]] in the [[f/_final|final]] [[i/_innings|innings]].**
 	- _Example: Australia will be chasing 217 for victory on the final day._
-- **To swing at a [[p/_pitch|pitch]] [[o/_outside|outside]] of the strike zone, typically an [[o/_outside|outside]] [[p/_pitch|pitch]]**
+- **To swing at a [[p/_pitch|pitch]] [[o/_outside|outside]] of the [[s/_strike|strike]] zone, typically an [[o/_outside|outside]] [[p/_pitch|pitch]]**
 - **To [[p/_produce|produce]] [[e/_enough|enough]] [[o/_offense|offense]] to [[c/_cause|cause]] the [[p/_pitcher|pitcher]] to be [[r/_removed|removed]]**
 	- _Example: The rally chased the starter._
 ---

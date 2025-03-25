@@ -16,7 +16,7 @@
 ### Synonyms
 - [[b/_bank|bank]], [[e/_embankment|embankment]], [[g/_gradient|gradient]], [[h/_hill|hill]], [[i/_incline|incline]], [[g/_gradient|gradient]], [[g/_gradient|gradient]], [[C/_Chinaman|Chinaman]], [[C/_Chink|Chink]]
 #verb
-- **To tend steadily upward or [[d/_downward|downward]].**
+- **To tend [[s/_steadily|steadily]] upward or [[d/_downward|downward]].**
 	- _Example: The road slopes sharply down at that point._
 - **To [[f/_form|form]] with a [[s/_slope|slope]]; to [[g/_give|give]] an [[o/_oblique|oblique]] or [[s/_slanting|slanting]] [[d/_direction|direction]] to; to [[i/_incline|incline]] or [[s/_slant|slant]].**
 	- _Example: to slope the ground in a garden;   to slope a piece of cloth in cutting a garment_

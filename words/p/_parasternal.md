@@ -1,6 +1,6 @@
 # Parasternal
 ---
 #adjective
-- **[[b/_beside|Beside]] the sternum**
+- **[[b/_beside|Beside]] the [[s/_sternum|sternum]]**
 ---
 ---

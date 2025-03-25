@@ -1,11 +1,11 @@
 # Jewels
 ---
 #noun
-- **A [[p/_precious|precious]] or [[s/_semi|semi]]-[[p/_precious|precious]] stone; [[g/_gem|gem]], [[g/_gemstone|gemstone]].**
-- **A valuable [[o/_object|object]] used for [[p/_personal|personal]] [[o/_ornamentation|ornamentation]], [[e/_especially|especially]] [[o/_one|one]] [[m/_made|made]] of [[p/_precious|precious]] [[m/_metals|metals]] and stones; a [[p/_piece|piece]] of [[j/_jewellery|jewellery]].**
+- **A [[p/_precious|precious]] or [[s/_semi|semi]]-[[p/_precious|precious]] [[s/_stone|stone]]; [[g/_gem|gem]], [[g/_gemstone|gemstone]].**
+- **A valuable [[o/_object|object]] used for [[p/_personal|personal]] [[o/_ornamentation|ornamentation]], [[e/_especially|especially]] [[o/_one|one]] [[m/_made|made]] of [[p/_precious|precious]] [[m/_metals|metals]] and [[s/_stones|stones]]; a [[p/_piece|piece]] of [[j/_jewellery|jewellery]].**
 - **[[a/_anything|Anything]] [[p/_precious|precious]] or valuable.**
 	- _Example: Galveston was the jewel of Texas prior to the hurricane._
-- **A [[b/_bearing|bearing]] for a [[p/_pivot|pivot]] in a watch, [[f/_formed|formed]] of a [[c/_crystal|crystal]] or [[p/_precious|precious]] stone.**
+- **A [[b/_bearing|bearing]] for a [[p/_pivot|pivot]] in a watch, [[f/_formed|formed]] of a [[c/_crystal|crystal]] or [[p/_precious|precious]] [[s/_stone|stone]].**
 - **[[a/_any|Any]] of various [[l/_lycaenid|lycaenid]] [[b/_butterflies|butterflies]] of the [[g/_genus|genus]] Hypochrysops.**
 - **The [[c/_clitoris|clitoris]].**
 ---

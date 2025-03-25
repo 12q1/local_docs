@@ -5,6 +5,6 @@
 - **To wait, [[l/_linger|linger]].**
 - **To [[m/_move|move]] on or by.**
 - **To [[r/_remain|remain]]; [[d/_delay|delay]].**
-- **To [[r/_remain|remain]] stationary (usually on [[h/_horseback|horseback]]).**
+- **To [[r/_remain|remain]] [[s/_stationary|stationary]] (usually on [[h/_horseback|horseback]]).**
 ---
 ---

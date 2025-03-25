@@ -1,8 +1,8 @@
 # Constellation
 ---
 #noun
-- **An [[a/_asterism|asterism]], an [[a/_arbitrary|arbitrary]] [[f/_formation|formation]] of stars [[p/_perceived|perceived]] as a [[f/_figure|figure]] or [[p/_pattern|pattern]], or a [[d/_division|division]] of the [[s/_sky|sky]] [[i/_including|including]] it, [[e/_especially|especially]] [[o/_one|one]] [[o/_officially|officially]] [[r/_recognised|recognised]] by [[a/_astronomers|astronomers]].**
-- **An [[i/_image|image]] [[a/_associated|associated]] with a [[g/_group|group]] of stars.**
+- **An [[a/_asterism|asterism]], an [[a/_arbitrary|arbitrary]] [[f/_formation|formation]] of [[s/_stars|stars]] [[p/_perceived|perceived]] as a [[f/_figure|figure]] or [[p/_pattern|pattern]], or a [[d/_division|division]] of the [[s/_sky|sky]] [[i/_including|including]] it, [[e/_especially|especially]] [[o/_one|one]] [[o/_officially|officially]] [[r/_recognised|recognised]] by [[a/_astronomers|astronomers]].**
+- **An [[i/_image|image]] [[a/_associated|associated]] with a [[g/_group|group]] of [[s/_stars|stars]].**
 - **The [[c/_configuration|configuration]] of [[p/_planets|planets]] at a [[g/_given|given]] time ([[n/_notably|notably]] of [[b/_birth|birth]]), as used for [[d/_determining|determining]] a [[h/_horoscope|horoscope]].**
 - **A wide, [[s/_seemingly|seemingly]] unlimited [[a/_assortment|assortment]].**
 	- _Example: A constellation of possibilities._

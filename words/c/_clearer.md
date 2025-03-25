@@ -16,7 +16,7 @@
 - **[[f/_free|Free]] of [[g/_guilt|guilt]], or suspicion.**
 	- _Example: a clear conscience_
 - **(of a [[s/_soup|soup]]) Without a thickening [[i/_ingredient|ingredient]].**
-- **[[p/_possessing|Possessing]] [[l/_little|little]] or [[n/_no|no]] [[p/_perceptible|perceptible]] stimulus.**
+- **[[p/_possessing|Possessing]] [[l/_little|little]] or [[n/_no|no]] [[p/_perceptible|perceptible]] [[s/_stimulus|stimulus]].**
 	- _Example: clear of texture;  clear of odor_
 - **[[f/_free|Free]] from the [[i/_influence|influence]] of [[e/_engrams|engrams]]; [[s/_see|see]] [[c/_clear|Clear]] ([[s/_scientology|Scientology]]).**
 - **[[a/_able|Able]] to [[p/_perceive|perceive]] [[c/_clearly|clearly]]; [[k/_keen|keen]]; [[a/_acute|acute]]; [[p/_penetrating|penetrating]]; [[d/_discriminating|discriminating]].**

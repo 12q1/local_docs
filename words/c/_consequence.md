@@ -13,6 +13,6 @@
 ### Synonyms
 - [[a/_aftercome|aftercome]], [[d/_distinction|distinction]], [[i/_implication|implication]], [[m/_moment|moment]], [[r/_rank|rank]], [[r/_repercussion|repercussion]], [[v/_value|value]]
 #verb
-- **To threaten or [[p/_punish|punish]] (a [[c/_child|child]], [[e/_etc|etc]].) with specific [[c/_consequences|consequences]] for [[m/_misbehaviour|misbehaviour]].**
+- **To threaten or [[p/_punish|punish]] (a [[c/_child|child]], [[e/_etc|etc]].) with [[s/_specific|specific]] [[c/_consequences|consequences]] for [[m/_misbehaviour|misbehaviour]].**
 ---
 ---

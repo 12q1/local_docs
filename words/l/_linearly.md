@@ -2,7 +2,7 @@
 ---
 #adverb
 - **In a [[l/_linear|linear]] [[m/_manner|manner]].**
-- **In a straight [[l/_line|line]].**
+- **In a [[s/_straight|straight]] [[l/_line|line]].**
 - **[[s/_sequentially|Sequentially]] in time; [[c/_chronologically|chronologically]].**
 - **In the [[m/_manner|manner]] of a [[l/_linear|linear]] [[f/_function|function]].**
 	- _Example: The effect related linearly to the amount of causative agent added._

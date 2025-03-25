@@ -5,6 +5,6 @@
 	- _Example: lime marmalade_
 ---
 #verb
-- **To spread [[m/_marmalade|marmalade]] on.**
+- **To [[s/_spread|spread]] [[m/_marmalade|marmalade]] on.**
 ---
 ---

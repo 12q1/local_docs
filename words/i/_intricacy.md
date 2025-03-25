@@ -1,7 +1,7 @@
 # Intricacy
 ---
 #noun
-- **The state or [[q/_quality|quality]] of [[b/_being|being]] [[i/_intricate|intricate]] or [[e/_entangled|entangled]].**
+- **The [[s/_state|state]] or [[q/_quality|quality]] of [[b/_being|being]] [[i/_intricate|intricate]] or [[e/_entangled|entangled]].**
 	- _Example: the intricacy of a cause in controversy_
 - **[[p/_perplexity|Perplexity]]**
 - **[[s/_something|Something]] which is [[i/_intricate|intricate]] or [[c/_complex|complex]].**

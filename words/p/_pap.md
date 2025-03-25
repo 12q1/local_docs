@@ -13,7 +13,7 @@
 - **To [[f/_feed|feed]] with [[p/_pap|pap]].**
 ---
 #adjective
-- **Spineless, wet, without [[c/_character|character]].**
+- **[[s/_spineless|Spineless]], wet, without [[c/_character|character]].**
 	- _Example: He is so pap and boring._
 ---
 ---

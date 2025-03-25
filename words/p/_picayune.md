@@ -8,7 +8,7 @@
 ---
 #adjective
 - **[[p/_petty|Petty]], trivial; of [[l/_little|little]] [[c/_consequence|consequence]]; [[s/_small|small]] and of [[l/_little|little]] [[i/_importance|importance]].**
-- **[[s/_small|Small]]-[[m/_minded|minded]]; [[c/_childishly|childishly]] spiteful, tending to [[g/_go|go]] on [[a/_about|about]] unimportant things.**
+- **[[s/_small|Small]]-[[m/_minded|minded]]; [[c/_childishly|childishly]] [[s/_spiteful|spiteful]], tending to [[g/_go|go]] on [[a/_about|about]] unimportant things.**
 ---
 ### Synonyms
 - [[m/_malicious|malicious]], [[p/_peevish|peevish]], [[p/_petty|petty]], [[p/_petty|petty]], [[p/_picayunish|picayunish]], [[t/_trivial|trivial]], [[w/_worthless|worthless]]

@@ -1,6 +1,6 @@
 # Meagreness
 ---
 #noun
-- **The state of [[b/_being|being]] [[m/_meagre|meagre]].**
+- **The [[s/_state|state]] of [[b/_being|being]] [[m/_meagre|meagre]].**
 ---
 ---

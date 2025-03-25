@@ -10,7 +10,7 @@
 - **To [[c/_coat|coat]] a surface with [[d/_dense|dense]] [[f/_fibers|fibers]] or [[p/_particles|particles]].**
 ---
 #adjective
-- **[[h/_having|Having]] split, [[b/_bushy|bushy]] [[e/_ends|ends]] (of [[b/_bristles|bristles]]).**
+- **[[h/_having|Having]] [[s/_split|split]], [[b/_bushy|bushy]] [[e/_ends|ends]] (of [[b/_bristles|bristles]]).**
 ---
 ### Synonyms
 - [[f/_flagged|flagged]]

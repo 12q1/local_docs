@@ -13,7 +13,7 @@
 - **To [[s/_slope|slope]] [[d/_downwards|downwards]] from the [[c/_crest|crest]] and whitewater [[p/_portion|portion]] of a wave.**
 ---
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] or [[p/_pertaining|pertaining]] to (a specific [[k/_kind|kind]] of) [[s/_shoulders|shoulders]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] or [[p/_pertaining|pertaining]] to (a [[s/_specific|specific]] [[k/_kind|kind]] of) [[s/_shoulders|shoulders]].**
 	- _Example: She was bare-shouldered._
 ---
 ---

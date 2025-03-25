@@ -15,6 +15,6 @@
 - **To [[p/_pillage|pillage]]; to [[d/_despoil|despoil]] or [[i/_impoverish|impoverish]].**
 ---
 #adjective
-- **In a state of [[b/_believing|believing]], [[e/_especially|especially]] from [[e/_evidence|evidence]] but not [[n/_necessarily|necessarily]].**
+- **In a [[s/_state|state]] of [[b/_believing|believing]], [[e/_especially|especially]] from [[e/_evidence|evidence]] but not [[n/_necessarily|necessarily]].**
 ---
 ---

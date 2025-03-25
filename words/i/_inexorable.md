@@ -1,7 +1,7 @@
 # Inexorable
 ---
 #adjective
-- **[[i/_impossible|Impossible]] to [[p/_prevent|prevent]] or stop; [[i/_inevitable|inevitable]].**
+- **[[i/_impossible|Impossible]] to [[p/_prevent|prevent]] or [[s/_stop|stop]]; [[i/_inevitable|inevitable]].**
 - **Unable to be [[p/_persuaded|persuaded]]; [[r/_relentless|relentless]]; unrelenting.**
 - **[[a/_adamant|Adamant]]; [[s/_severe|severe]].**
 ---

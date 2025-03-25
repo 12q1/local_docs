@@ -12,7 +12,7 @@
 - **To [[d/_die|die]].**
 ---
 #noun
-- **A [[s/_source|source]], [[e/_especially|especially]] a spring.**
+- **A [[s/_source|source]], [[e/_especially|especially]] a [[s/_spring|spring]].**
 - **An [[e/_emotion|emotion]] or [[s/_sensation|sensation]] which [[r/_rises|rises]] suddenly.**
 ---
 ---

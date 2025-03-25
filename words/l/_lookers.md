@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[o/_one|One]] that [[l/_looks|looks]] or is [[a/_actively|actively]] [[l/_looking|looking]]; a watcher; an [[o/_observer|observer]].**
-- **[[o/_one|One]] [[h/_having|having]] a specific [[l/_look|look]] or [[a/_appearance|appearance]].**
+- **[[o/_one|One]] [[h/_having|having]] a [[s/_specific|specific]] [[l/_look|look]] or [[a/_appearance|appearance]].**
 - **[[s/_someone|Someone]] or [[s/_something|something]] who is [[r/_remarkably|remarkably]] [[g/_good|good]]-[[l/_looking|looking]].**
 	- _Example: Wow, your new man is much more of a looker than your last one!_
 - **A [[p/_person|person]] who [[p/_pretends|pretends]] to be [[i/_interested|interested]] in [[p/_purchasing|purchasing]] [[s/_something|something]] but [[h/_has|has]] [[n/_no|no]] [[i/_intention|intention]] of [[d/_doing|doing]] [[s/_so|so]].**

@@ -10,7 +10,7 @@
 - **[[m/_morally|Morally]] [[p/_perfect|perfect]] or [[f/_flawless|flawless]], or [[n/_nearly|nearly]] [[s/_so|so]].**
 	- _Example: My grandmother is a very holy woman._
 - **[[s/_separated|Separated]] or [[s/_set|set]] [[a/_apart|apart]] from ([[s/_something|something]] unto [[s/_something|something]] or [[s/_someone|someone]] [[e/_else|else]]).**
-- **[[s/_set|Set]] [[a/_apart|apart]] or [[d/_dedicated|dedicated]] for a specific [[p/_purpose|purpose]], or for use by a [[s/_single|single]] [[e/_entity|entity]] or [[p/_person|person]].**
+- **[[s/_set|Set]] [[a/_apart|apart]] or [[d/_dedicated|dedicated]] for a [[s/_specific|specific]] [[p/_purpose|purpose]], or for use by a [[s/_single|single]] [[e/_entity|entity]] or [[p/_person|person]].**
 - **Used as an [[i/_intensifier|intensifier]] in various [[i/_interjections|interjections]].**
 	- _Example: Holy cow, I can’t believe he actually lost the race!_
 ---

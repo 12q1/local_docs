@@ -1,7 +1,7 @@
 # Solidity
 ---
 #noun
-- **The state or [[q/_quality|quality]] of [[b/_being|being]] [[s/_solid|solid]].**
+- **The [[s/_state|state]] or [[q/_quality|quality]] of [[b/_being|being]] [[s/_solid|solid]].**
 - **[[m/_moral|Moral]] [[f/_firmness|firmness]]; validity; truth; [[c/_certainty|certainty]].**
 - **The [[s/_solid|solid]] [[c/_contents|contents]] of a [[b/_body|body]]; volume; [[a/_amount|amount]] of [[e/_enclosed|enclosed]] [[s/_space|space]].**
 ---

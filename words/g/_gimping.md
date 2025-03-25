@@ -1,7 +1,7 @@
 # Gimping
 ---
 #verb
-- **(of [[y/_yarn|yarn]], [[c/_cord|cord]], thread, [[e/_etc|etc]].) To wrap or wind (surround) with [[a/_another|another]] [[l/_length|length]] of [[y/_yarn|yarn]] or wire in a tight spiral, [[o/_often|often]] by [[m/_means|means]] of a [[g/_gimping|gimping]] [[m/_machine|machine]], [[c/_creating|creating]] '[[g/_gimped|gimped]] [[y/_yarn|yarn]]', [[e/_etc|etc]]. [[a/_also|Also]], [[g/_generally|generally]], to wrap or twist with string or wire. [[s/_see|See]] [[g/_gimped|gimped]].**
+- **(of [[y/_yarn|yarn]], [[c/_cord|cord]], thread, [[e/_etc|etc]].) To wrap or wind (surround) with [[a/_another|another]] [[l/_length|length]] of [[y/_yarn|yarn]] or wire in a tight [[s/_spiral|spiral]], [[o/_often|often]] by [[m/_means|means]] of a [[g/_gimping|gimping]] [[m/_machine|machine]], [[c/_creating|creating]] '[[g/_gimped|gimped]] [[y/_yarn|yarn]]', [[e/_etc|etc]]. [[a/_also|Also]], [[g/_generally|generally]], to wrap or twist with [[s/_string|string]] or wire. [[s/_see|See]] [[g/_gimped|gimped]].**
 - **To [[n/_notch|notch]] or [[i/_indent|indent]]; to [[j/_jag|jag]] or [[m/_make|make]] [[j/_jagged|jagged]]; to [[e/_edge|edge]] with serrations or [[g/_grooves|grooves]].**
 ---
 #verb

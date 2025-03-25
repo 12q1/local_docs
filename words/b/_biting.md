@@ -16,7 +16,7 @@
 	- _Example: Are the fish biting today?_
 - **To [[a/_accept|accept]] [[s/_something|something]] [[o/_offered|offered]], [[o/_often|often]] [[s/_secretly|secretly]] or [[d/_deceptively|deceptively]], to [[c/_cause|cause]] [[s/_some|some]] [[a/_action|action]] by the [[a/_acceptor|acceptor]].**
 	- _Example: I've planted the story. Do you think they'll bite?_
-- **(of an [[i/_insect|insect]]) To sting.**
+- **(of an [[i/_insect|insect]]) To [[s/_sting|sting]].**
 	- _Example: These mosquitoes are really biting today!_
 - **To [[c/_cause|cause]] a [[s/_smarting|smarting]] [[s/_sensation|sensation]]; to [[h/_have|have]] a [[p/_property|property]] which [[c/_causes|causes]] such a [[s/_sensation|sensation]]; to be [[p/_pungent|pungent]].**
 	- _Example: It bites like pepper or mustard._
@@ -39,7 +39,7 @@
 - **An [[i/_instance|instance]] of [[s/_something|something]] [[b/_being|being]] [[b/_bitten|bitten]].**
 ---
 #adjective
-- **[[c/_causing|Causing]] a stinging [[s/_sensation|sensation]].**
+- **[[c/_causing|Causing]] a [[s/_stinging|stinging]] [[s/_sensation|sensation]].**
 	- _Example: a biting wind_
 - **[[c/_cutting|Cutting]] or [[i/_incisive|incisive]].**
 	- _Example: a biting criticism_

@@ -5,7 +5,7 @@
 - **A [[p/_pin|pin]] which [[p/_plays|plays]] in and [[o/_out|out]] of [[h/_holes|holes]] [[m/_made|made]] to [[r/_receive|receive]] it, and which thus [[s/_serves|serves]] to [[e/_engage|engage]] or [[d/_disengage|disengage]] [[p/_parts|parts]] of the [[m/_machinery|machinery]].**
 ---
 #verb
-- **To stab with a [[b/_bayonet|bayonet]].**
+- **To [[s/_stab|stab]] with a [[b/_bayonet|bayonet]].**
 - **To [[c/_compel|compel]] or [[d/_drive|drive]] by the [[b/_bayonet|bayonet]].**
 ---
 ---

@@ -8,7 +8,7 @@
 ### Antonyms
 - [[l/_lowbrow|lowbrow]]
 #adjective
-- **([[s/_sometimes|sometimes]] [[d/_derogatory|derogatory]]) [[i/_intellectually|Intellectually]] stimulating, [[h/_highly|highly]] [[c/_cultured|cultured]], [[s/_sophisticated|sophisticated]].**
+- **([[s/_sometimes|sometimes]] [[d/_derogatory|derogatory]]) [[i/_intellectually|Intellectually]] [[s/_stimulating|stimulating]], [[h/_highly|highly]] [[c/_cultured|cultured]], [[s/_sophisticated|sophisticated]].**
 ---
 ### Antonyms
 - [[l/_lowbrow|lowbrow]]

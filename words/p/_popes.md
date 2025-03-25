@@ -4,7 +4,7 @@
 - **([[r/_russian|Russian]] [[o/_orthodoxy|Orthodoxy]]) A [[r/_russian|Russian]] [[o/_orthodox|Orthodox]] [[p/_priest|priest]]; a [[p/_parson|parson]].**
 ---
 #noun
-- **An [[h/_honorary|honorary]] title of the [[r/_roman|Roman]] [[c/_catholic|Catholic]] [[b/_bishop|bishop]] of [[r/_rome|Rome]] as [[f/_father|father]] and [[h/_head|head]] of [[h/_his|his]] [[c/_church|church]], a [[s/_sovereign|sovereign]] of the Vatican [[c/_city|city]] state.**
+- **An [[h/_honorary|honorary]] title of the [[r/_roman|Roman]] [[c/_catholic|Catholic]] [[b/_bishop|bishop]] of [[r/_rome|Rome]] as [[f/_father|father]] and [[h/_head|head]] of [[h/_his|his]] [[c/_church|church]], a [[s/_sovereign|sovereign]] of the Vatican [[c/_city|city]] [[s/_state|state]].**
 - **([[c/_coptic|Coptic]] [[c/_church|Church]]) An [[h/_honorary|honorary]] title of the [[c/_coptic|Coptic]] [[b/_bishop|bishop]] of [[a/_alexandria|Alexandria]] as [[f/_father|father]] and [[h/_head|head]] of [[h/_his|his]] [[c/_church|church]].**
 - **An [[h/_honorary|honorary]] title of the [[o/_orthodox|Orthodox]] [[b/_bishop|bishop]] of [[a/_alexandria|Alexandria]] as [[f/_father|father]] and [[h/_head|head]] of [[h/_his|his]] [[a/_autocephalous|autocephalous]] [[c/_church|church]].**
 - **[[a/_any|Any]] [[b/_bishop|bishop]] of the [[e/_early|early]] [[c/_christian|Christian]] [[c/_church|church]].**

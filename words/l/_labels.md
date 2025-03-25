@@ -10,7 +10,7 @@
 - **A user-[[d/_defined|defined]] [[a/_alias|alias]] for a [[n/_numerical|numerical]] [[d/_designation|designation]], the [[r/_reverse|reverse]] of an [[e/_enumeration|enumeration]].**
 	- _Example: Storage devices can be given by label or ID._
 - **A [[n/_named|named]] [[p/_place|place]] in [[s/_source|source]] [[c/_code|code]] that [[c/_can|can]] be [[j/_jumped|jumped]] to using a [[g/_goto|GOTO]] or [[e/_equivalent|equivalent]] [[c/_construct|construct]].**
-- **A [[c/_charge|charge]] [[r/_resembling|resembling]] the strap [[c/_crossing|crossing]] the [[h/_horse|horse]]’[[s/_s|s]] [[c/_chest|chest]] from which [[p/_pendants|pendants]] are [[h/_hung|hung]].**
+- **A [[c/_charge|charge]] [[r/_resembling|resembling]] the [[s/_strap|strap]] [[c/_crossing|crossing]] the [[h/_horse|horse]]’[[s/_s|s]] [[c/_chest|chest]] from which [[p/_pendants|pendants]] are [[h/_hung|hung]].**
 - **A tassel.**
 - **A [[p/_piece|piece]] of writing [[a/_added|added]] to [[s/_something|something]], such as a [[c/_codicil|codicil]] [[a/_appended|appended]] to a will.**
 - **A [[b/_brass|brass]] [[r/_rule|rule]] with [[s/_sights|sights]], [[f/_formerly|formerly]] used with a [[c/_circumferentor|circumferentor]] to take [[a/_altitudes|altitudes]].**
@@ -25,7 +25,7 @@
 	- _Example: The shop assistant labeled all the products in the shop._
 - **(ditransitive) To [[g/_give|give]] a [[l/_label|label]] to ([[s/_someone|someone]] or [[s/_something|something]]) in [[o/_order|order]] to [[c/_categorise|categorise]] that [[p/_person|person]] or thing.**
 	- _Example: He's been unfairly labeled as a cheat, although he's only ever cheated once._
-- **To [[r/_replace|replace]] specific [[a/_atoms|atoms]] by their [[i/_isotope|isotope]] in [[o/_order|order]] to track the [[p/_presence|presence]] or [[m/_movement|movement]] of this [[i/_isotope|isotope]] through a [[r/_reaction|reaction]], [[m/_metabolic|metabolic]] [[p/_pathway|pathway]] or [[c/_cell|cell]].**
+- **To [[r/_replace|replace]] [[s/_specific|specific]] [[a/_atoms|atoms]] by their [[i/_isotope|isotope]] in [[o/_order|order]] to track the [[p/_presence|presence]] or [[m/_movement|movement]] of this [[i/_isotope|isotope]] through a [[r/_reaction|reaction]], [[m/_metabolic|metabolic]] [[p/_pathway|pathway]] or [[c/_cell|cell]].**
 - **To [[a/_add|add]] a [[d/_detectable|detectable]] substance, [[e/_either|either]] transiently or [[p/_permanently|permanently]], to a [[b/_biological|biological]] substance in [[o/_order|order]] to track the [[p/_presence|presence]] of the [[l/_label|label]]-substance [[c/_combination|combination]] [[e/_either|either]] in [[s/_situ|situ]] or in vitro**
 ---
 ### Synonyms

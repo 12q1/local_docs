@@ -10,7 +10,7 @@
 ### Synonyms
 - [[c/_camouflage|camouflage]], [[c/_cloak|cloak]], [[h/_hide|hide]], [[m/_mask|mask]]
 #adjective
-- **Wearing a [[d/_disguise|disguise]]; [[d/_dressed|dressed]] in strange or unusual [[c/_clothes|clothes]], [[e/_especially|especially]] to [[c/_conceal|conceal]] [[o/_one|one]]'[[s/_s|s]] [[i/_identity|identity]].**
+- **Wearing a [[d/_disguise|disguise]]; [[d/_dressed|dressed]] in [[s/_strange|strange]] or unusual [[c/_clothes|clothes]], [[e/_especially|especially]] to [[c/_conceal|conceal]] [[o/_one|one]]'[[s/_s|s]] [[i/_identity|identity]].**
 - **[[d/_drunk|Drunk]].**
 ---
 ---

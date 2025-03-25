@@ -10,7 +10,7 @@
 - **In the [[e/_ellipse|ellipse]] and [[h/_hyperbola|hyperbola]], a third [[p/_proportional|proportional]] to [[a/_any|any]] [[d/_diameter|diameter]] and [[i/_its|its]] [[c/_conjugate|conjugate]], or in the [[p/_parabola|parabola]], to [[a/_any|any]] [[a/_abscissa|abscissa]] and the [[c/_corresponding|corresponding]] [[o/_ordinate|ordinate]].**
 	- _Example: The parameter of the principal axis of a conic section is called the latus rectum._
 - **The [[r/_ratio|ratio]] of the three [[c/_crystallographic|crystallographic]] [[a/_axes|axes]] which [[d/_determines|determines]] the [[p/_position|position]] of [[a/_any|any]] [[p/_plane|plane]].**
-- **The [[f/_fundamental|fundamental]] [[a/_axial|axial]] [[r/_ratio|ratio]] for a [[g/_given|given]] species.**
+- **The [[f/_fundamental|fundamental]] [[a/_axial|axial]] [[r/_ratio|ratio]] for a [[g/_given|given]] [[s/_species|species]].**
 ---
 ### Synonyms
 - [[d/_distinguishing|distinguishing]], [[f/_feature|feature]], [[a/_argument|argument]]

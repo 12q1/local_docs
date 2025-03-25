@@ -5,6 +5,6 @@
 - **[[a/_any|Any]] of [[s/_several|several]] [[r/_rat|rat]]-[[l/_like|like]] [[r/_rodents|rodents]] of the [[g/_genera|genera]] Bandicota and [[n/_nesokia|Nesokia]] of [[s/_southeast|southeast]] [[a/_asia|Asia]].**
 ---
 #verb
-- **To steal [[g/_growing|growing]] vegetables from a [[g/_garden|garden]].**
+- **To [[s/_steal|steal]] [[g/_growing|growing]] vegetables from a [[g/_garden|garden]].**
 ---
 ---

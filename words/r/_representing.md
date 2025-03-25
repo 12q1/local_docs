@@ -1,14 +1,14 @@
 # Representing
 ---
 #verb
-- **To [[p/_present|present]] [[a/_again|again]] or [[a/_anew|anew]]; to [[p/_present|present]] by [[m/_means|means]] of [[s/_something|something]] standing in the [[p/_place|place]] of; to [[e/_exhibit|exhibit]] the [[c/_counterpart|counterpart]] or [[i/_image|image]] of; to typify.**
+- **To [[p/_present|present]] [[a/_again|again]] or [[a/_anew|anew]]; to [[p/_present|present]] by [[m/_means|means]] of [[s/_something|something]] [[s/_standing|standing]] in the [[p/_place|place]] of; to [[e/_exhibit|exhibit]] the [[c/_counterpart|counterpart]] or [[i/_image|image]] of; to typify.**
 - **To [[p/_portray|portray]] visually; to [[d/_delineate|delineate]]**
 	- _Example: The sculptor represented a horse in bronze._
 - **To [[p/_portray|portray]] by [[m/_mimicry|mimicry]] or [[a/_acting|acting]]; to [[a/_act|act]] the [[p/_part|part]] or [[c/_character|character]] of**
 	- _Example: It has always been his dream to represent Hamlet on Broadway._
-- **To stand or [[a/_act|act]] in the [[p/_place|place]] of; to [[p/_perform|perform]] the [[d/_duties|duties]], [[e/_exercise|exercise]] the [[r/_rights|rights]], or [[o/_otherwise|otherwise]] [[a/_act|act]] on [[b/_behalf|behalf]] of**
+- **To [[s/_stand|stand]] or [[a/_act|act]] in the [[p/_place|place]] of; to [[p/_perform|perform]] the [[d/_duties|duties]], [[e/_exercise|exercise]] the [[r/_rights|rights]], or [[o/_otherwise|otherwise]] [[a/_act|act]] on [[b/_behalf|behalf]] of**
 	- _Example: An attorney's job is to represent his client in court_
-- **To [[a/_act|act]] as a [[r/_representative|representative]] of (a [[c/_country|country]], state, [[d/_district|district]] [[e/_etc|etc]].)**
+- **To [[a/_act|act]] as a [[r/_representative|representative]] of (a [[c/_country|country]], [[s/_state|state]], [[d/_district|district]] [[e/_etc|etc]].)**
 	- _Example: They chose a member of Congress to represent their district._
 - **To [[p/_portray|portray]] to [[a/_another|another]] using [[l/_language|language]]; to [[s/_show|show]]; to [[g/_give|give]] [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[i/_impressions|impressions]] and [[j/_judgement|judgement]] of**
 	- _Example: He represented that he was investigating for the police department._

@@ -12,13 +12,13 @@
 - **([[s/_saddlery|saddlery]]) The [[c/_crosspiece|crosspiece]] of a [[b/_bridle|bridle]] [[b/_bit|bit]], which [[e/_enters|enters]] the [[m/_mouth|mouth]] of an [[a/_animal|animal]].**
 - **A [[p/_principal|principal]] [[s/_speaker|speaker]]; [[o/_one|one]] who utters the [[c/_common|common]] [[o/_opinion|opinion]]; a [[m/_mouthpiece|mouthpiece]].**
 - **[[c/_cry|Cry]]; voice.**
-- **Speech; [[l/_language|language]]; testimony.**
+- **[[s/_speech|Speech]]; [[l/_language|language]]; testimony.**
 - **A wry [[f/_face|face]]; a [[g/_grimace|grimace]]; a [[m/_mow|mow]].**
 ---
 #verb
 - **To [[s/_speak|speak]]; to utter.**
 	- _Example: He mouthed his opinions on the subject at the meeting._
-- **To [[m/_make|make]] the [[a/_actions|actions]] of speech, without [[p/_producing|producing]] [[s/_sound|sound]].**
+- **To [[m/_make|make]] the [[a/_actions|actions]] of [[s/_speech|speech]], without [[p/_producing|producing]] [[s/_sound|sound]].**
 	- _Example: The prompter mouthed the words to the actor, who had forgotten them._
 - **To utter with a voice that is [[o/_overly|overly]] [[l/_loud|loud]] or swelling.**
 - **To [[p/_pick|pick]] up or [[h/_handle|handle]] with the [[l/_lips|lips]] or [[m/_mouth|mouth]], but not [[c/_chew|chew]] or swallow.**

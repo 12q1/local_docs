@@ -15,7 +15,7 @@
 - **The sudden [[o/_onset|onset]] of a [[d/_disease|disease]] or [[c/_condition|condition]].**
 	- _Example: I've had an attack of the flu._
 - **An [[a/_active|active]] [[e/_episode|episode]] of a [[c/_chronic|chronic]] or [[r/_recurrent|recurrent]] [[d/_disease|disease]].**
-- **The [[o/_onset|onset]] of a [[m/_musical|musical]] [[n/_note|note]], [[p/_particularly|particularly]] with [[r/_respect|respect]] to the strength (and [[d/_duration|duration]]) of that [[o/_onset|onset]].**
+- **The [[o/_onset|onset]] of a [[m/_musical|musical]] [[n/_note|note]], [[p/_particularly|particularly]] with [[r/_respect|respect]] to the [[s/_strength|strength]] (and [[d/_duration|duration]]) of that [[o/_onset|onset]].**
 - **([[a/_audio|audio]]) The [[a/_amount|amount]] of time it takes for the volume of an [[a/_audio|audio]] [[s/_signal|signal]] to [[g/_go|go]] from zero to [[m/_maximum|maximum]] [[l/_level|level]] ([[e/_e|e]].[[g/_g|g]]. an [[a/_audio|audio]] waveform [[r/_representing|representing]] a [[s/_snare|snare]] [[d/_drum|drum]] [[h/_hit|hit]] would [[f/_feature|feature]] a very [[f/_fast|fast]] [[a/_attack|attack]], whereas that of a wave washing to [[s/_shore|shore]] would [[f/_feature|feature]] a [[s/_slow|slow]] [[a/_attack|attack]]).**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Oribi
 ---
 #noun
-- **Ourebia [[o/_ourebi|ourebi]], a species of [[a/_antelope|antelope]].**
+- **Ourebia [[o/_ourebi|ourebi]], a [[s/_species|species]] of [[a/_antelope|antelope]].**
 ---
 ---

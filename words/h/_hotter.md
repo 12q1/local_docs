@@ -10,11 +10,11 @@
 - **(of a temper) [[e/_easily|Easily]] [[p/_provoked|provoked]] to [[a/_anger|anger]].**
 	- _Example: Be careful, he has a hot temper and may take it out on you._
 - **[[f/_feverish|Feverish]].**
-- **(of [[f/_food|food]]) Spicy.**
+- **(of [[f/_food|food]]) [[s/_spicy|Spicy]].**
 	- _Example: Before moving to India, I never ate hot food. The Indians love spicy food._
 - **Very [[g/_good|good]], [[r/_remarkable|remarkable]], [[e/_exciting|exciting]].**
 	- _Example: He's a hot young player, we should give him a trial._
-- **Stolen.**
+- **[[s/_stolen|Stolen]].**
 	- _Example: hot merchandise_
 - **[[e/_electrically|Electrically]] [[c/_charged|charged]].**
 	- _Example: a hot wire_
@@ -32,7 +32,7 @@
 	- _Example: a hot topic_
 - **Very [[c/_close|close]] to [[f/_finding|finding]] or [[g/_guessing|guessing]] [[s/_something|something]] to be [[f/_found|found]] or [[g/_guessed|guessed]].**
 	- _Example: Am I warm yet? — You're hot!_
-- **[[p/_performing|Performing]] strongly; [[h/_having|having]] [[r/_repeated|repeated]] successes.**
+- **[[p/_performing|Performing]] [[s/_strongly|strongly]]; [[h/_having|having]] [[r/_repeated|repeated]] successes.**
 - **[[f/_fresh|Fresh]]; [[j/_just|just]] [[r/_released|released]].**
 - **Uncomfortable, [[d/_difficult|difficult]] to [[d/_deal|deal]] with; [[a/_awkward|awkward]], [[d/_dangerous|dangerous]], unpleasant.**
 - **Used to [[e/_emphasize|emphasize]] the [[s/_short|short]] [[d/_duration|duration]] or [[s/_small|small]] [[q/_quantity|quantity]] of [[s/_something|something]]**
@@ -47,6 +47,6 @@
 ### Antonyms
 - [[d/_dead|dead]], [[n/_neutral|neutral]], [[f/_freezing|freezing]], [[c/_chilled|chilled]], [[c/_chilly|chilly]], [[c/_cold|cold]], [[f/_freezing|freezing]], [[f/_frigid|frigid]], [[g/_glacial|glacial]], [[i/_ice-cold|ice-cold]], [[i/_icy|icy]], [[c/_cold|cold]], [[f/_freezing|freezing]], [[i/_icy|icy]], [[l/_lifeless|lifeless]], [[b/_bland|bland]], [[m/_mild|mild]]
 #noun
-- **[[o/_one|One]] who steals a vehicle in [[o/_order|order]] to [[j/_joyride|joyride]].**
+- **[[o/_one|One]] who [[s/_steals|steals]] a vehicle in [[o/_order|order]] to [[j/_joyride|joyride]].**
 ---
 ---

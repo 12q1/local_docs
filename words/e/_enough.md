@@ -11,7 +11,7 @@
 	- _Example: Enough of you are here to begin the class._
 ---
 #interjection
-- **Stop! [[d/_don|Don]]'t [[d/_do|do]] that [[a/_any|any]] [[m/_more|more]]!**
+- **[[s/_stop|Stop]]! [[d/_don|Don]]'t [[d/_do|do]] that [[a/_any|any]] [[m/_more|more]]!**
 	- _Example: I'm sick of you complaining! Enough!_
 ---
 ---

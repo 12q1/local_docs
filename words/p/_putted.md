@@ -1,7 +1,7 @@
 # Putted
 ---
 #verb
-- **To [[l/_lightly|lightly]] strike a [[g/_golf|golf]] [[b/_ball|ball]] with a [[p/_putter|putter]].**
+- **To [[l/_lightly|lightly]] [[s/_strike|strike]] a [[g/_golf|golf]] [[b/_ball|ball]] with a [[p/_putter|putter]].**
 ---
 #verb
 - **To [[m/_make|make]] a [[p/_putting|putting]] [[s/_sound|sound]].**

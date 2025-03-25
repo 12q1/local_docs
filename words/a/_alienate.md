@@ -1,7 +1,7 @@
 # Alienate
 ---
 #noun
-- **A stranger; an [[a/_alien|alien]].**
+- **A [[s/_stranger|stranger]]; an [[a/_alien|alien]].**
 ---
 #verb
 - **To [[c/_convey|convey]] or transfer to [[a/_another|another]], as title, [[p/_property|property]], or [[r/_right|right]]; to [[p/_part|part]] voluntarily with [[o/_ownership|ownership]] of.**

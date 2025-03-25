@@ -10,7 +10,7 @@
 - **A [[p/_piece|piece]] of turf [[p/_placed|placed]] in the [[r/_road|road]] as a target for a throw in [[r/_road|road]] [[b/_bowling|bowling]].**
 ---
 #verb
-- **To steep or [[d/_dip|dip]] in [[a/_any|any]] [[l/_liquid|liquid]].**
+- **To [[s/_steep|steep]] or [[d/_dip|dip]] in [[a/_any|any]] [[l/_liquid|liquid]].**
 - **To [[s/_soak|soak]] in, or be [[s/_soaked|soaked]]; to [[p/_percolate|percolate]].**
 ---
 ---

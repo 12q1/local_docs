@@ -1,11 +1,11 @@
 # Mixed
 ---
 #verb
-- **To stir together.**
+- **To [[s/_stir|stir]] together.**
 	- _Example: Mix the eggs and milk with the flour until the consistency is smooth._
 - **To [[c/_combine|combine]] ([[i/_items|items]] from two or [[m/_more|more]] [[s/_sources|sources]] [[n/_normally|normally]] [[k/_kept|kept]] [[s/_separate|separate]]).**
 	- _Example: Don't mix the meat recipes with the dairy recipes._
-- **To [[f/_form|form]] by [[m/_mingling|mingling]]; to [[p/_produce|produce]] by the stirring together of [[i/_ingredients|ingredients]]; to [[c/_concoct|concoct]] from [[d/_different|different]] [[p/_parts|parts]].**
+- **To [[f/_form|form]] by [[m/_mingling|mingling]]; to [[p/_produce|produce]] by the [[s/_stirring|stirring]] together of [[i/_ingredients|ingredients]]; to [[c/_concoct|concoct]] from [[d/_different|different]] [[p/_parts|parts]].**
 	- _Example: Yellow and blue paint mix to make green._
 - **To [[b/_blend|blend]] by the use of a [[m/_mixer|mixer]] ([[m/_machine|machine]]).**
 	- _Example: Mix the egg whites until they are stiff._
@@ -24,7 +24,7 @@
 	- _Example: My joy was somewhat mixed when my partner said she was pregnant: it's a lot of responsibility._
 - **[[i/_including|Including]] [[b/_both|both]] [[m/_male|male]]([[s/_s|s]]) and [[f/_female|female]]([[s/_s|s]]).**
 	- _Example: My son attends a mixed school, my daughter an all-girl grammar school._
-- **Stemming from two or [[m/_more|more]] [[r/_races|races]] or [[b/_breeds|breeds]]**
+- **[[s/_stemming|Stemming]] from two or [[m/_more|more]] [[r/_races|races]] or [[b/_breeds|breeds]]**
 	- _Example: Mixed blood can surprisingly produce inherited properties which neither parent showed_
 ---
 ### Synonyms

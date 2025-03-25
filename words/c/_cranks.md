@@ -10,12 +10,12 @@
 	- _Example: Billy-Bob is a nasty old crank! He chased my cat away._
 - **A twist or turn of the [[m/_mind|mind]]; [[c/_caprice|caprice]]; whim;**
 - **A [[f/_fit|fit]] of temper or [[p/_passion|passion]].**
-- **([[d/_dated|dated]] in US) A [[p/_person|person]] who is [[c/_considered|considered]] strange or [[o/_odd|odd]] by [[o/_others|others]]. They [[m/_may|may]] [[b/_behave|behave]] in unconventional ways.**
+- **([[d/_dated|dated]] in US) A [[p/_person|person]] who is [[c/_considered|considered]] [[s/_strange|strange]] or [[o/_odd|odd]] by [[o/_others|others]]. They [[m/_may|may]] [[b/_behave|behave]] in unconventional ways.**
 	- _Example: John is a crank because he talks to himself._
 - **(1800s) A [[b/_baseball|baseball]] [[f/_fan|fan]].**
 - **An [[a/_advocate|advocate]] of a [[p/_pseudoscience|pseudoscience]] [[m/_movement|movement]].**
 	- _Example: That crank next door thinks he’s created cold fusion in his garage._
-- **A twist or turn in speech; word [[p/_play|play]] [[c/_consisting|consisting]] in a [[c/_change|change]] of the [[f/_form|form]] or [[m/_meaning|meaning]] of a word.**
+- **A twist or turn in [[s/_speech|speech]]; word [[p/_play|play]] [[c/_consisting|consisting]] in a [[c/_change|change]] of the [[f/_form|form]] or [[m/_meaning|meaning]] of a word.**
 - **A [[s/_sick|sick]] [[p/_person|person]]; an [[i/_invalid|invalid]].**
 - **A [[p/_penis|penis]].**
 ---
@@ -28,7 +28,7 @@
 	- _Example: He's been cranking all day and yet it refuses to crank._
 - **(of a [[c/_crank|crank]] or [[s/_similar|similar]]) To turn.**
 	- _Example: He's been cranking all day and yet it refuses to crank._
-- **To [[c/_cause|cause]] to spin via [[o/_other|other]] [[m/_means|means]], as though turned by a [[c/_crank|crank]].**
+- **To [[c/_cause|cause]] to [[s/_spin|spin]] via [[o/_other|other]] [[m/_means|means]], as though turned by a [[c/_crank|crank]].**
 	- _Example: Crank it up!_
 - **To [[a/_act|act]] in a [[c/_cranky|cranky]] [[m/_manner|manner]]; to [[b/_behave|behave]] unreasonably and [[i/_irritably|irritably]], [[e/_especially|especially]] through [[c/_complaining|complaining]].**
 	- _Example: Quit cranking about your spilt milk!_
@@ -37,7 +37,7 @@
 - **To [[r/_run|run]] with a winding [[c/_course|course]]; to [[d/_double|double]]; to [[c/_crook|crook]]; to wind and turn.**
 ---
 #noun
-- **A [[h/_highly|highly]] [[a/_addictive|addictive]] phenethylamine stimulant [[d/_drug|drug]], [[s/_similar|similar]] to [[c/_cocaine|cocaine]]. [[i/_its|Its]] [[s/_systematic|systematic]] (IUPAC) [[n/_name|name]] is ([[s/_s|S]])-[[n/_n|N]]-[[m/_methyl|methyl]]-1-phenylpropan-2-[[a/_amine|amine]].**
+- **A [[h/_highly|highly]] [[a/_addictive|addictive]] phenethylamine [[s/_stimulant|stimulant]] [[d/_drug|drug]], [[s/_similar|similar]] to [[c/_cocaine|cocaine]]. [[i/_its|Its]] [[s/_systematic|systematic]] (IUPAC) [[n/_name|name]] is ([[s/_s|S]])-[[n/_n|N]]-[[m/_methyl|methyl]]-1-phenylpropan-2-[[a/_amine|amine]].**
 ---
 ### Synonyms
 - [[c/_crystal|crystal]], [[g/_glass|glass]], [[i/_ice|ice]], [[m/_meth|meth]], [[m/_methamphetamines|methamphetamines]], [[m/_methylamphetamine|methylamphetamine]], [[s/_speed|speed]], [[t/_tina|tina]], [[t/_tweak|tweak]]

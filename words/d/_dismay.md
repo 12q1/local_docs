@@ -1,7 +1,7 @@
 # Dismay
 ---
 #noun
-- **A sudden or [[c/_complete|complete]] [[l/_loss|loss]] of [[c/_courage|courage]] and [[f/_firmness|firmness]] in the [[f/_face|face]] of trouble or [[d/_danger|danger]]; [[o/_overwhelming|overwhelming]] and [[d/_disabling|disabling]] terror; a [[s/_sinking|sinking]] of the spirits**
+- **A sudden or [[c/_complete|complete]] [[l/_loss|loss]] of [[c/_courage|courage]] and [[f/_firmness|firmness]] in the [[f/_face|face]] of trouble or [[d/_danger|danger]]; [[o/_overwhelming|overwhelming]] and [[d/_disabling|disabling]] terror; a [[s/_sinking|sinking]] of the [[s/_spirits|spirits]]**
 	- _Example: He looked in dismay at the destruction of the town caused by the hurricane._
 - **[[c/_condition|Condition]] [[f/_fitted|fitted]] to [[d/_dismay|dismay]]; [[r/_ruin|ruin]].**
 ---

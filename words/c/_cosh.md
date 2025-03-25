@@ -6,6 +6,6 @@
 - **The [[c/_cane|cane]].**
 ---
 #verb
-- **To strike with a weapon of this [[k/_kind|kind]].**
+- **To [[s/_strike|strike]] with a weapon of this [[k/_kind|kind]].**
 ---
 ---

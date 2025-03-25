@@ -13,7 +13,7 @@
 - **To [[i/_indicate|indicate]] a [[p/_probability|probability]] of [[s/_something|something]].**
 - **To [[r/_repair|repair]] [[m/_mortar|mortar]].**
 - **To [[f/_fill|fill]] up and [[f/_finish|finish]] the [[j/_joints|joints]] of (a wall), by [[i/_introducing|introducing]] [[a/_additional|additional]] [[c/_cement|cement]] or [[m/_mortar|mortar]], and [[b/_bringing|bringing]] it to a [[s/_smooth|smooth]] surface.**
-- **(stone-[[c/_cutting|cutting]]) To [[c/_cut|cut]], as a surface, with a [[p/_pointed|pointed]] tool.**
+- **([[s/_stone|stone]]-[[c/_cutting|cutting]]) To [[c/_cut|cut]], as a surface, with a [[p/_pointed|pointed]] tool.**
 - **To [[d/_direct|direct]] or [[e/_encourage|encourage]] ([[s/_someone|someone]]) in a [[p/_particular|particular]] [[d/_direction|direction]].**
 	- _Example: If he asks for food, point him toward the refrigerator._
 - **To [[s/_separate|separate]] an [[i/_integer|integer]] from a [[d/_decimal|decimal]] with a [[d/_decimal|decimal]] [[p/_point|point]].**
@@ -24,7 +24,7 @@
 - **To [[d/_direct|direct]] [[r/_requests|requests]] [[s/_sent|sent]] to a [[d/_domain|domain]] [[n/_name|name]] to the IP [[a/_address|address]] [[c/_corresponding|corresponding]] to that [[d/_domain|domain]] [[n/_name|name]].**
 - **To [[s/_sail|sail]] [[c/_close|close]] to the wind.**
 	- _Example: Bear off a little, we're pointing._
-- **To [[i/_indicate|indicate]] the [[p/_presence|presence]] of [[g/_game|game]] by a [[f/_fixed|fixed]] and steady [[l/_look|look]], as [[c/_certain|certain]] [[h/_hunting|hunting]] [[d/_dogs|dogs]] [[d/_do|do]].**
+- **To [[i/_indicate|indicate]] the [[p/_presence|presence]] of [[g/_game|game]] by a [[f/_fixed|fixed]] and [[s/_steady|steady]] [[l/_look|look]], as [[c/_certain|certain]] [[h/_hunting|hunting]] [[d/_dogs|dogs]] [[d/_do|do]].**
 - **(of an [[a/_abscess|abscess]]) To [[a/_approximate|approximate]] to the surface; to [[h/_head|head]].**
 - **To [[g/_give|give]] [[p/_point|point]] to ([[s/_something|something]] [[s/_said|said]] or [[d/_done|done]]); to [[g/_give|give]] [[p/_particular|particular]] [[p/_prominence|prominence]] or [[f/_force|force]] to.**
 ---

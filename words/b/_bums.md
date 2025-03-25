@@ -16,14 +16,14 @@
 	- _Example: Fred is becoming a bum - he's not even bothering to work more than once a month._
 - **A [[p/_player|player]] or [[r/_racer|racer]] who [[o/_often|often]] [[p/_performs|performs]] [[p/_poorly|poorly]].**
 	- _Example: Trade him to another team, he's a bum!_
-- **A [[d/_drinking|drinking]] spree.**
+- **A [[d/_drinking|drinking]] [[s/_spree|spree]].**
 ---
 ### Synonyms
 - [[b/_bender|bender]], [[b/_binge|binge]], [[h/_hobo|hobo]], [[h/_homeless|homeless]], [[t/_tramp|tramp]], [[v/_vagabond|vagabond]], [[v/_vagrant|vagrant]], [[w/_wanderer|wanderer]], [[b/_bumpkin|bumpkin]], [[f/_footler|footler]], [[i/_idler|idler]], [[l/_layabout|layabout]], [[l/_loafer|loafer]], [[l/_lout|lout]], [[y/_yob|yob]], [[y/_yobbo|yobbo]]
 #verb
 - **To [[a/_ask|ask]] [[s/_someone|someone]] to [[g/_give|give]] [[o/_one|one]] ([[s/_something|something]]) for [[f/_free|free]]; to [[b/_beg|beg]] for [[s/_something|something]].**
 	- _Example: Can I bum a cigarette off you?_
-- **To stay [[i/_idle|idle]] and unproductive, [[l/_like|like]] a [[h/_hobo|hobo]] or vagabond; to [[l/_loiter|loiter]].**
+- **To [[s/_stay|stay]] [[i/_idle|idle]] and unproductive, [[l/_like|like]] a [[h/_hobo|hobo]] or vagabond; to [[l/_loiter|loiter]].**
 	- _Example: I think I'll just bum around downtown for awhile until dinner._
 - **To wet the [[e/_end|end]] of a [[m/_marijuana|marijuana]] [[c/_cigarette|cigarette]] (spliff).**
 ---
