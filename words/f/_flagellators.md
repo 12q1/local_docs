@@ -1,6 +1,6 @@
 # Flagellators
 ---
 #noun
-- **Someone who [[f/_flagellates|flagellates]]; a whipper.**
+- **[[s/_someone|Someone]] who [[f/_flagellates|flagellates]]; a whipper.**
 ---
 ---

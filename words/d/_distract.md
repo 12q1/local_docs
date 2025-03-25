@@ -6,7 +6,7 @@
 - **To [[m/_make|make]] [[c/_crazy|crazy]] or [[i/_insane|insane]]; to [[d/_drive|drive]] to [[d/_distraction|distraction]].**
 ---
 #adjective
-- **Separated; [[d/_drawn|drawn]] [[a/_asunder|asunder]].**
+- **[[s/_separated|Separated]]; [[d/_drawn|drawn]] [[a/_asunder|asunder]].**
 - **[[i/_insane|Insane]]; [[m/_mad|mad]].**
 ---
 ---

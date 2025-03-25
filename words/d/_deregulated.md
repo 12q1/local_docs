@@ -1,6 +1,6 @@
 # Deregulated
 ---
 #verb
-- **To remove the regulations, or [[l/_legal|legal]] restrictions, from.**
+- **To [[r/_remove|remove]] the [[r/_regulations|regulations]], or [[l/_legal|legal]] [[r/_restrictions|restrictions]], from.**
 ---
 ---

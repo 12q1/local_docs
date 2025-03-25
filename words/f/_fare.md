@@ -6,6 +6,6 @@
 - **A [[p/_paying|paying]] [[p/_passenger|passenger]], [[e/_especially|especially]] in a taxi.**
 - **[[f/_food|Food]] and [[d/_drink|drink]].**
 - **Supplies for [[c/_consumption|consumption]] or [[p/_pleasure|pleasure]].**
-- **A prostitute's [[c/_client|client]].**
+- **A [[p/_prostitute|prostitute]]'[[s/_s|s]] [[c/_client|client]].**
 ---
 ---

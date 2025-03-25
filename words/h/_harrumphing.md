@@ -1,6 +1,6 @@
 # Harrumphing
 ---
 #verb
-- **To [[d/_dislike|dislike]], protest, or [[d/_dismiss|dismiss]].**
+- **To [[d/_dislike|dislike]], [[p/_protest|protest]], or [[d/_dismiss|dismiss]].**
 ---
 ---

@@ -7,7 +7,7 @@
 	- _Example: The bullet just creased his shoulder._
 ---
 #noun
-- **The [[a/_act|act]] by which something [[c/_creases|creases]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] [[c/_creases|creases]].**
 - **A [[l/_layer|layer]] of tiles [[f/_forming|forming]] a [[c/_corona|corona]] for a wall.**
 ---
 #verb

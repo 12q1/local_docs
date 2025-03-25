@@ -5,6 +5,6 @@
 	- _Example: radiation decoupled from matter_
 ---
 #noun
-- **The [[a/_act|act]] or process by which something is [[d/_decoupled|decoupled]].**
+- **The [[a/_act|act]] or [[p/_process|process]] by which [[s/_something|something]] is [[d/_decoupled|decoupled]].**
 ---
 ---

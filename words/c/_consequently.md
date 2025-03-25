@@ -1,8 +1,8 @@
 # Consequently
 ---
 #adverb
-- **As a result or [[c/_consequence|consequence]] of something.**
+- **As a [[r/_result|result]] or [[c/_consequence|consequence]] of [[s/_something|something]].**
 	- _Example: He didn't wake up early. Consequently, he was late to work._
-- **(sequence) subsequently, [[f/_following|following]] [[a/_after|after]] in time or sequence.**
+- **([[s/_sequence|sequence]]) subsequently, [[f/_following|following]] [[a/_after|after]] in time or [[s/_sequence|sequence]].**
 ---
 ---

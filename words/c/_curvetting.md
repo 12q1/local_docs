@@ -5,7 +5,7 @@
 - **To [[c/_cause|cause]] to [[l/_leap|leap]] [[a/_about|about]], [[d/_dart|dart]] or [[j/_jump|jump]].**
 - **(of a [[b/_bird|bird]]) To [[f/_fly|fly]] or swim with [[d/_darting|darting]] [[m/_movements|movements]].**
 - **(of a [[p/_person|person]]) To [[p/_prance|prance]]; to [[c/_caper|caper]], [[f/_frolic|frolic]].**
-- **(of an [[o/_object|object]]) To [[j/_jump|jump]], skip, shake.**
+- **(of an [[o/_object|object]]) To [[j/_jump|jump]], [[s/_skip|skip]], [[s/_shake|shake]].**
 ---
 #noun
 - **The [[m/_motion|motion]] of a [[h/_horse|horse]] or [[o/_other|other]] [[a/_animal|animal]] that [[c/_curvets|curvets]].**

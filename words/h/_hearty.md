@@ -1,7 +1,7 @@
 # Hearty
 ---
 #noun
-- **A term of [[f/_familiar|familiar]] [[a/_address|address]] and [[f/_fellowship|fellowship]] [[a/_among|among]] sailors.**
+- **A term of [[f/_familiar|familiar]] [[a/_address|address]] and [[f/_fellowship|fellowship]] [[a/_among|among]] [[s/_sailors|sailors]].**
 ---
 #adjective
 - **Warm and [[c/_cordial|cordial]] towards [[a/_another|another]] [[p/_person|person]]**
@@ -11,7 +11,7 @@
 	- _Example: a hearty man_
 - **[[e/_exhibiting|Exhibiting]] strength; [[f/_firm|firm]]**
 	- _Example: a hearty handshake;  a hearty timber_
-- **Promoting strength; [[n/_nourishing|nourishing]].**
+- **[[p/_promoting|Promoting]] strength; [[n/_nourishing|nourishing]].**
 	- _Example: hearty food_
 ---
 ### Synonyms

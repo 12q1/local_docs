@@ -1,7 +1,7 @@
 # Fr
 ---
 #adjective
-- **[[g/_genuine|Genuine]], true; serious, [[e/_earnest|earnest]].**
+- **[[g/_genuine|Genuine]], true; [[s/_serious|serious]], [[e/_earnest|earnest]].**
 	- _Example: Is his story for real?_
 ---
 #adverb
@@ -13,6 +13,6 @@
 ### Antonyms
 - 
 #adjective
-- **(proofreading) [[i/_initialism|Initialism]] of [[f/_flush|flush]] right.**
+- **([[p/_proofreading|proofreading]]) [[i/_initialism|Initialism]] of [[f/_flush|flush]] [[r/_right|right]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Demission
 ---
 #noun
-- **Resignation; [[a/_abdication|abdication]].**
+- **[[r/_resignation|Resignation]]; [[a/_abdication|abdication]].**
 ---
 ---

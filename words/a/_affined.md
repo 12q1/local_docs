@@ -1,6 +1,6 @@
 # Affined
 ---
 #verb
-- **To refine.**
+- **To [[r/_refine|refine]].**
 ---
 ---

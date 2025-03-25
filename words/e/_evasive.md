@@ -1,7 +1,7 @@
 # Evasive
 ---
 #adjective
-- **Tending to [[a/_avoid|avoid]] speaking [[o/_openly|openly]] or [[m/_making|making]] revelations [[a/_about|about]] [[o/_oneself|oneself]].**
+- **Tending to [[a/_avoid|avoid]] [[s/_speaking|speaking]] [[o/_openly|openly]] or [[m/_making|making]] [[r/_revelations|revelations]] [[a/_about|about]] [[o/_oneself|oneself]].**
 - **[[d/_directed|Directed]] towards [[a/_avoidance|avoidance]] or [[e/_escape|escape]]; [[e/_evasive|evasive]] [[a/_action|action]].**
 ---
 ### Synonyms

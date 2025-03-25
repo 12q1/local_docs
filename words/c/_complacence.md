@@ -1,7 +1,7 @@
 # Complacence
 ---
 #noun
-- **[[b/_being|Being]] [[c/_complacent|complacent]]; a [[f/_feeling|feeling]] of [[c/_contentment|contentment]] or satisfaction; [[c/_complacency|complacency]].**
+- **[[b/_being|Being]] [[c/_complacent|complacent]]; a [[f/_feeling|feeling]] of [[c/_contentment|contentment]] or [[s/_satisfaction|satisfaction]]; [[c/_complacency|complacency]].**
 - **[[p/_pleasure|Pleasure]], [[d/_delight|delight]].**
 - **[[c/_complaisance|Complaisance]]; a willingness to [[c/_comply|comply]] with [[o/_others|others]]' wishes.**
 ---

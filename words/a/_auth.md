@@ -5,8 +5,8 @@
 	- _Example: You can't post messages on the site unless you're authed._
 ---
 #noun
-- **Something which validates or [[c/_confirms|confirms]] the [[a/_authenticity|authenticity]] of something**
-- **Proof of the [[i/_identity|identity]] of a user [[l/_logging|logging]] on to some [[n/_network|network]]**
+- **[[s/_something|Something]] which validates or [[c/_confirms|confirms]] the [[a/_authenticity|authenticity]] of [[s/_something|something]]**
+- **[[p/_proof|Proof]] of the [[i/_identity|identity]] of a user [[l/_logging|logging]] on to [[s/_some|some]] [[n/_network|network]]**
 - **A [[h/_hallmark|hallmark]] or [[a/_assay|assay]]-[[m/_mark|mark]] on a [[p/_piece|piece]] of [[m/_metalwork|metalwork]]**
 ---
 #noun
@@ -19,9 +19,9 @@
 - **[[p/_permission|Permission]].**
 	- _Example: I've got authorization. Call the office and you'll see._
 - **An [[a/_act|act]] of [[a/_authorizing|authorizing]].**
-- **(A [[d/_document|document]] [[g/_giving|giving]]) [[f/_formal|formal]] sanction, [[p/_permission|permission]] or warrant.**
+- **(A [[d/_document|document]] [[g/_giving|giving]]) [[f/_formal|formal]] [[s/_sanction|sanction]], [[p/_permission|permission]] or warrant.**
 	- _Example: Can I see your authorization?_
-- **[[p/_permission|Permission]], [[p/_possibly|possibly]] [[l/_limited|limited]], to spend [[f/_funds|funds]] for a specific [[b/_budgetary|budgetary]] purpose.**
+- **[[p/_permission|Permission]], [[p/_possibly|possibly]] [[l/_limited|limited]], to spend [[f/_funds|funds]] for a specific [[b/_budgetary|budgetary]] [[p/_purpose|purpose]].**
 	- _Example: We've had the authorization for years, but we've never gotten an appropriation._
 ---
 ---

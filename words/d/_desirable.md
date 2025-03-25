@@ -1,7 +1,7 @@
 # Desirable
 ---
 #noun
-- **A thing that [[p/_people|people]] want; something that is [[d/_desirable|desirable]].**
+- **A thing that [[p/_people|people]] want; [[s/_something|something]] that is [[d/_desirable|desirable]].**
 	- _Example: There are plenty of desirables on display in the window._
 ---
 #adjective

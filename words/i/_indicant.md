@@ -5,6 +5,6 @@
 	- _Example: an indicant of the remedy for a disease_
 ---
 #adjective
-- **Serving to [[p/_point|point]] [[o/_out|out]], as a remedy; [[i/_indicating|indicating]].**
+- **[[s/_serving|Serving]] to [[p/_point|point]] [[o/_out|out]], as a [[r/_remedy|remedy]]; [[i/_indicating|indicating]].**
 ---
 ---

@@ -5,7 +5,7 @@
 	- _Example: A cold wind whistled through the trees._
 - **(of the weather) [[c/_causing|Causing]] the [[a/_air|air]] to be [[c/_cold|cold]].**
 	- _Example: The forecast is that it will be very cold today._
-- **(of a [[p/_person|person]] or [[a/_animal|animal]]) [[f/_feeling|Feeling]] the sensation of [[c/_coldness|coldness]], [[e/_especially|especially]] to the [[p/_point|point]] of [[d/_discomfort|discomfort]].**
+- **(of a [[p/_person|person]] or [[a/_animal|animal]]) [[f/_feeling|Feeling]] the [[s/_sensation|sensation]] of [[c/_coldness|coldness]], [[e/_especially|especially]] to the [[p/_point|point]] of [[d/_discomfort|discomfort]].**
 	- _Example: She was so cold she was shivering._
 - **Unfriendly, [[e/_emotionally|emotionally]] [[d/_distant|distant]] or unfeeling.**
 	- _Example: She shot me a cold glance before turning her back._
@@ -19,16 +19,16 @@
 	- _Example: Keep that list in front of you, or memorize it cold._
 - **(usually with "[[h/_have|have]]" transitively) [[c/_cornered|Cornered]], [[d/_done|done]] for.**
 	- _Example: Criminal interrogation. Initially they will dream up explanations faster than you could ever do so, but when they become fatigued, often they will acknowledge that you have them cold._
-- **Not pungent or [[a/_acrid|acrid]].**
+- **Not [[p/_pungent|pungent]] or [[a/_acrid|acrid]].**
 - **Unexciting; [[d/_dull|dull]]; uninteresting.**
-- **[[a/_affecting|Affecting]] the sense of smell (as of [[h/_hunting|hunting]] [[d/_dogs|dogs]]) [[o/_only|only]] [[f/_feebly|feebly]]; [[h/_having|having]] [[l/_lost|lost]] [[i/_its|its]] [[o/_odour|odour]].**
+- **[[a/_affecting|Affecting]] the [[s/_sense|sense]] of [[s/_smell|smell]] (as of [[h/_hunting|hunting]] [[d/_dogs|dogs]]) [[o/_only|only]] [[f/_feebly|feebly]]; [[h/_having|having]] [[l/_lost|lost]] [[i/_its|its]] [[o/_odour|odour]].**
 	- _Example: a cold scent_
-- **Not sensitive; not [[a/_acute|acute]].**
-- **[[d/_distant|Distant]]; said, in the [[g/_game|game]] of [[h/_hunting|hunting]] for some [[o/_object|object]], of a seeker remote from the thing [[c/_concealed|concealed]]. [[c/_compare|Compare]] warm and [[h/_hot|hot]].**
+- **Not [[s/_sensitive|sensitive]]; not [[a/_acute|acute]].**
+- **[[d/_distant|Distant]]; [[s/_said|said]], in the [[g/_game|game]] of [[h/_hunting|hunting]] for [[s/_some|some]] [[o/_object|object]], of a [[s/_seeker|seeker]] [[r/_remote|remote]] from the thing [[c/_concealed|concealed]]. [[c/_compare|Compare]] warm and [[h/_hot|hot]].**
 	- _Example: You're cold … getting warmer … hot! You've found it!_
 - **[[h/_having|Having]] a [[b/_bluish|bluish]] [[e/_effect|effect]]; not warm in [[c/_colour|colour]].**
-- **Rarely used or [[a/_accessed|accessed]], and thus [[a/_able|able]] to be relegated to slower storage.**
-- **Without [[c/_compassion|compassion]]; [[h/_heartless|heartless]]; ruthless**
+- **[[r/_rarely|Rarely]] used or [[a/_accessed|accessed]], and thus [[a/_able|able]] to be [[r/_relegated|relegated]] to [[s/_slower|slower]] storage.**
+- **Without [[c/_compassion|compassion]]; [[h/_heartless|heartless]]; [[r/_ruthless|ruthless]]**
 	- _Example: I can't believe she said that...that was cold!_
 ---
 ### Synonyms

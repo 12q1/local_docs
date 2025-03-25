@@ -5,12 +5,12 @@
 	- _Example: Tigers and lions share a common ancestor from a few million years ago._
 - **(by [[e/_extension|extension]]) [[a/_any|Any]] of various [[e/_extant|extant]] and [[e/_extinct|extinct]] [[b/_big|big]] [[c/_cats|cats]], [[e/_especially|especially]] the [[m/_mountain|mountain]] [[l/_lion|lion]].**
 - **A [[c/_chinese|Chinese]] [[f/_foo|foo]] [[d/_dog|dog]].**
-- **An [[i/_individual|individual]] who shows strength and [[c/_courage|courage]], [[a/_attributes|attributes]] [[a/_associated|associated]] with the [[l/_lion|lion]].**
-- **A [[f/_famous|famous]] [[p/_person|person]] regarded with [[i/_interest|interest]] and [[c/_curiosity|curiosity]].**
-- **A [[l/_light|light]] [[b/_brown|brown]] [[c/_color|color]] that resembles the [[f/_fur|fur]] of a [[l/_lion|lion]].**
-- **An [[o/_old|old]] Scottish [[c/_coin|coin]], with a [[l/_lion|lion]] on the [[o/_obverse|obverse]], worth 74 shillings.**
+- **An [[i/_individual|individual]] who [[s/_shows|shows]] strength and [[c/_courage|courage]], [[a/_attributes|attributes]] [[a/_associated|associated]] with the [[l/_lion|lion]].**
+- **A [[f/_famous|famous]] [[p/_person|person]] [[r/_regarded|regarded]] with [[i/_interest|interest]] and [[c/_curiosity|curiosity]].**
+- **A [[l/_light|light]] [[b/_brown|brown]] [[c/_color|color]] that [[r/_resembles|resembles]] the [[f/_fur|fur]] of a [[l/_lion|lion]].**
+- **An [[o/_old|old]] [[s/_scottish|Scottish]] [[c/_coin|coin]], with a [[l/_lion|lion]] on the [[o/_obverse|obverse]], worth 74 [[s/_shillings|shillings]].**
 ---
 #adjective
-- **Of the [[l/_light|light]] [[b/_brown|brown]] [[c/_color|color]] that resembles the [[f/_fur|fur]] of a [[l/_lion|lion]].**
+- **Of the [[l/_light|light]] [[b/_brown|brown]] [[c/_color|color]] that [[r/_resembles|resembles]] the [[f/_fur|fur]] of a [[l/_lion|lion]].**
 ---
 ---

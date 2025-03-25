@@ -1,12 +1,12 @@
 # Flexible
 ---
 #noun
-- **Something that is [[f/_flexible|flexible]].**
+- **[[s/_something|Something]] that is [[f/_flexible|flexible]].**
 ---
 #adjective
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[f/_flexed|flexed]] or [[b/_bent|bent]] without [[b/_breaking|breaking]]; [[a/_able|able]] to be turned or twisted without [[b/_breaking|breaking]].**
-- **Willing or prone to [[g/_give|give]] way to the [[i/_influence|influence]] of [[o/_others|others]]; not [[i/_invincibly|invincibly]] rigid or [[o/_obstinate|obstinate]].**
-- **[[c/_capable|Capable]] or [[b/_being|being]] [[a/_adapted|adapted]] or [[m/_molded|molded]] in some way.**
+- **Willing or [[p/_prone|prone]] to [[g/_give|give]] way to the [[i/_influence|influence]] of [[o/_others|others]]; not [[i/_invincibly|invincibly]] [[r/_rigid|rigid]] or [[o/_obstinate|obstinate]].**
+- **[[c/_capable|Capable]] or [[b/_being|being]] [[a/_adapted|adapted]] or [[m/_molded|molded]] in [[s/_some|some]] way.**
 	- _Example: This was a principle more flexible to their purpose. -Rogers._
 ---
 ### Synonyms

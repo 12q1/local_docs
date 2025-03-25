@@ -1,6 +1,6 @@
 # Downfold
 ---
 #noun
-- **A syncline.**
+- **A [[s/_syncline|syncline]].**
 ---
 ---

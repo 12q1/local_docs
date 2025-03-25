@@ -3,7 +3,7 @@
 #adjective
 - **Wearing [[n/_nothing|nothing]] on the [[f/_feet|feet]].**
 	- _Example: After taking off their shoes, socks and sandals at the doorway, the kids were barefoot._
-- **(of a vehicle on an [[i/_icy|icy]] road) Not using snow [[c/_chains|chains]].**
+- **(of a vehicle on an [[i/_icy|icy]] [[r/_road|road]]) Not using [[s/_snow|snow]] [[c/_chains|chains]].**
 - **Transmitting without the use of an [[a/_amplifier|amplifier]].**
 ---
 ### Synonyms

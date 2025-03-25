@@ -7,6 +7,6 @@
 ### Synonyms
 - [[e/_emmet|emmet]], [[p/_pismire|pismire]]
 #verb
-- **To rub [[i/_insects|insects]], [[e/_especially|especially]] [[a/_ants|ants]], on [[o/_one|one]]'s [[b/_body|body]], [[p/_perhaps|perhaps]] to [[c/_control|control]] [[p/_parasites|parasites]] or [[c/_clean|clean]] [[f/_feathers|feathers]].**
+- **To [[r/_rub|rub]] [[i/_insects|insects]], [[e/_especially|especially]] [[a/_ants|ants]], on [[o/_one|one]]'[[s/_s|s]] [[b/_body|body]], [[p/_perhaps|perhaps]] to [[c/_control|control]] [[p/_parasites|parasites]] or [[c/_clean|clean]] [[f/_feathers|feathers]].**
 ---
 ---

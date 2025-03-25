@@ -1,7 +1,7 @@
 # Diabolic
 ---
 #adjective
-- **Showing wickedness typical of a [[d/_devil|devil]].**
+- **[[s/_showing|Showing]] wickedness typical of a [[d/_devil|devil]].**
 	- _Example: a cunning and diabolic plot_
 - **[[e/_extremely|Extremely]] [[e/_evil|evil]] or [[c/_cruel|cruel]].**
 	- _Example: fires lit up a diabolic scene_

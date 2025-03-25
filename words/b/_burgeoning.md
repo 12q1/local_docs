@@ -11,7 +11,7 @@
 #noun
 - **The [[a/_act|act]] of [[b/_budding|budding]] or sprouting.**
 - **A [[b/_bud|bud]] or [[b/_branch|branch]].**
-- **(by [[e/_extension|extension]]) A [[n/_new|new]] [[g/_growth|growth]] or [[e/_expansion|expansion]] of something.**
+- **(by [[e/_extension|extension]]) A [[n/_new|new]] [[g/_growth|growth]] or [[e/_expansion|expansion]] of [[s/_something|something]].**
 ---
 #adjective
 - **That [[b/_buds|buds]], [[g/_grows|grows]] or [[e/_expands|expands]]; [[d/_developing|developing]].**

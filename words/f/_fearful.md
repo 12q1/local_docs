@@ -4,7 +4,7 @@
 - **[[f/_frightening|Frightening]].**
 - **Tending to [[f/_fear|fear]]; timid.**
 	- _Example: a fearful boy_
-- **Terrible; shockingly [[b/_bad|bad]].**
+- **Terrible; [[s/_shockingly|shockingly]] [[b/_bad|bad]].**
 - **[[f/_frightened|Frightened]]; [[f/_filled|filled]] with terror.**
 ---
 ### Synonyms

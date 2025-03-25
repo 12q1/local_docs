@@ -1,7 +1,7 @@
 # Fetishists
 ---
 #noun
-- **[[o/_one|One]] who [[h/_has|has]] a sexual [[f/_fetish|fetish]].**
+- **[[o/_one|One]] who [[h/_has|has]] a [[s/_sexual|sexual]] [[f/_fetish|fetish]].**
 - **A [[b/_believer|believer]] in [[m/_magical|magical]] [[f/_fetishes|fetishes]] or talismans.**
 ---
 ### Synonyms

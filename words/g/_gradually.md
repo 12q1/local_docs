@@ -1,7 +1,7 @@
 # Gradually
 ---
 #adverb
-- **In a [[g/_gradual|gradual]] [[m/_manner|manner]]; [[m/_making|making]] slow progress; slowly.**
+- **In a [[g/_gradual|gradual]] [[m/_manner|manner]]; [[m/_making|making]] [[s/_slow|slow]] [[p/_progress|progress]]; [[s/_slowly|slowly]].**
 - **By [[d/_degrees|degrees]]**
 ---
 ### Synonyms

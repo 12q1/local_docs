@@ -11,37 +11,37 @@
 	- _Example: He forgot that the frying pan was hot and burned his hand._
 - **(of the weather) [[c/_causing|Causing]] the [[a/_air|air]] to be [[h/_hot|hot]].**
 	- _Example: It is hotter in summer than in winter._
-- **(of a [[p/_person|person]] or [[a/_animal|animal]]) [[f/_feeling|Feeling]] the sensation of [[h/_heat|heat]], [[e/_especially|especially]] to the [[p/_point|point]] of [[d/_discomfort|discomfort]].**
+- **(of a [[p/_person|person]] or [[a/_animal|animal]]) [[f/_feeling|Feeling]] the [[s/_sensation|sensation]] of [[h/_heat|heat]], [[e/_especially|especially]] to the [[p/_point|point]] of [[d/_discomfort|discomfort]].**
 	- _Example: Aren't you hot with that thick coat on?_
-- **(of a temper) [[e/_easily|Easily]] provoked to [[a/_anger|anger]].**
+- **(of a temper) [[e/_easily|Easily]] [[p/_provoked|provoked]] to [[a/_anger|anger]].**
 	- _Example: Be careful, he has a hot temper and may take it out on you._
 - **[[f/_feverish|Feverish]].**
 - **(of [[f/_food|food]]) Spicy.**
 	- _Example: Before moving to India, I never ate hot food. The Indians love spicy food._
-- **Very [[g/_good|good]], remarkable, [[e/_exciting|exciting]].**
+- **Very [[g/_good|good]], [[r/_remarkable|remarkable]], [[e/_exciting|exciting]].**
 	- _Example: He's a hot young player, we should give him a trial._
 - **Stolen.**
 	- _Example: hot merchandise_
 - **[[e/_electrically|Electrically]] [[c/_charged|charged]].**
 	- _Example: a hot wire_
-- **Radioactive.**
-- **(of a [[p/_person|person]]) Very [[p/_physically|physically]] and/or sexually [[a/_attractive|attractive]].**
+- **[[r/_radioactive|Radioactive]].**
+- **(of a [[p/_person|person]]) Very [[p/_physically|physically]] and/or [[s/_sexually|sexually]] [[a/_attractive|attractive]].**
 	- _Example: That stripper is hot!_
-- **Sexual or sexy; [[i/_involving|involving]] sexual [[i/_intercourse|intercourse]] or sexual [[e/_excitement|excitement]].**
-- **Sexually [[a/_aroused|aroused]]; randy.**
+- **[[s/_sexual|Sexual]] or [[s/_sexy|sexy]]; [[i/_involving|involving]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]] or [[s/_sexual|sexual]] [[e/_excitement|excitement]].**
+- **[[s/_sexually|Sexually]] [[a/_aroused|aroused]]; [[r/_randy|randy]].**
 	- _Example: Enough foreplay! You’ve gotten me so hot already!_
 - **(with for) [[a/_attracted|Attracted]] to.**
 	- _Example: hot for her English teacher_
 - **[[p/_popular|Popular]]; in [[d/_demand|demand]].**
 	- _Example: This new pickup is so hot we can't keep it in stock!_
-- **Of [[g/_great|great]] [[c/_current|current]] [[i/_interest|interest]]; provoking [[c/_current|current]] [[d/_debate|debate]] or [[c/_controversy|controversy]].**
+- **Of [[g/_great|great]] [[c/_current|current]] [[i/_interest|interest]]; [[p/_provoking|provoking]] [[c/_current|current]] [[d/_debate|debate]] or [[c/_controversy|controversy]].**
 	- _Example: a hot topic_
-- **Very [[c/_close|close]] to [[f/_finding|finding]] or [[g/_guessing|guessing]] something to be [[f/_found|found]] or [[g/_guessed|guessed]].**
+- **Very [[c/_close|close]] to [[f/_finding|finding]] or [[g/_guessing|guessing]] [[s/_something|something]] to be [[f/_found|found]] or [[g/_guessed|guessed]].**
 	- _Example: Am I warm yet? — You're hot!_
-- **[[p/_performing|Performing]] strongly; [[h/_having|having]] repeated successes.**
-- **[[f/_fresh|Fresh]]; [[j/_just|just]] released.**
+- **[[p/_performing|Performing]] strongly; [[h/_having|having]] [[r/_repeated|repeated]] successes.**
+- **[[f/_fresh|Fresh]]; [[j/_just|just]] [[r/_released|released]].**
 - **Uncomfortable, [[d/_difficult|difficult]] to [[d/_deal|deal]] with; [[a/_awkward|awkward]], [[d/_dangerous|dangerous]], unpleasant.**
-- **Used to [[e/_emphasize|emphasize]] the short [[d/_duration|duration]] or small quantity of something**
+- **Used to [[e/_emphasize|emphasize]] the [[s/_short|short]] [[d/_duration|duration]] or [[s/_small|small]] [[q/_quantity|quantity]] of [[s/_something|something]]**
 	- _Example: He was finished in a hot minute._
 - **[[c/_characterized|Characterized]] by [[p/_police|police]] [[p/_presence|presence]] or [[a/_activity|activity]].**
 	- _Example: I wouldn't speed through here if I was you. This area is hot this time of night._

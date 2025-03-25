@@ -7,6 +7,6 @@
 	- _Example: The president has someone to ghostwrite his addresses._
 ---
 #noun
-- **Writing for [[p/_pay|pay]] without the [[e/_expectation|expectation]] of receiving [[c/_credit|credit]] by [[n/_name|name]].**
+- **Writing for [[p/_pay|pay]] without the [[e/_expectation|expectation]] of [[r/_receiving|receiving]] [[c/_credit|credit]] by [[n/_name|name]].**
 ---
 ---

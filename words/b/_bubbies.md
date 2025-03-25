@@ -1,7 +1,7 @@
 # Bubbies
 ---
 #noun
-- **A woman's [[b/_breast|breast]].**
+- **A woman'[[s/_s|s]] [[b/_breast|breast]].**
 ---
 ### Synonyms
 - [[b/_bub|bub]]

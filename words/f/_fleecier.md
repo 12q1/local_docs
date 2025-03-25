@@ -1,6 +1,6 @@
 # Fleecier
 ---
 #adjective
-- **Resembling or [[c/_covered|covered]] in [[f/_fleece|fleece]].**
+- **[[r/_resembling|Resembling]] or [[c/_covered|covered]] in [[f/_fleece|fleece]].**
 ---
 ---

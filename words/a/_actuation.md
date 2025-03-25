@@ -1,7 +1,7 @@
 # Actuation
 ---
 #noun
-- **The [[a/_act|act]] of putting [[i/_into|into]] [[m/_motion|motion]].**
+- **The [[a/_act|act]] of [[p/_putting|putting]] [[i/_into|into]] [[m/_motion|motion]].**
 	- _Example: Although an operator presses the button, the actuation is done by an immense series of levers and cranks._
 ---
 ---

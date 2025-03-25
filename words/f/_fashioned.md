@@ -9,6 +9,6 @@
 #adjective
 - **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[f/_fashion|fashion]] or style**
 - **In style; [[f/_fashionable|fashionable]].**
-- **Well [[d/_designed|designed]] or put together.**
+- **Well [[d/_designed|designed]] or [[p/_put|put]] together.**
 ---
 ---

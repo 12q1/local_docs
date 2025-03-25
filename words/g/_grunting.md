@@ -7,7 +7,7 @@
 	- _Example: Who just grunted?_
 ---
 #noun
-- **A sound that [[g/_grunts|grunts]].**
+- **A [[s/_sound|sound]] that [[g/_grunts|grunts]].**
 	- _Example: the gruntings of contented pigs_
 ---
 ---

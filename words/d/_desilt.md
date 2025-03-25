@@ -1,6 +1,6 @@
 # Desilt
 ---
 #verb
-- **To remove suspended silt from the water.**
+- **To [[r/_remove|remove]] suspended [[s/_silt|silt]] from the water.**
 ---
 ---

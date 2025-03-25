@@ -1,6 +1,6 @@
 # Augural
 ---
 #adjective
-- **Prophetic**
+- **[[p/_prophetic|Prophetic]]**
 ---
 ---

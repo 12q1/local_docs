@@ -1,7 +1,7 @@
 # Ditching
 ---
 #verb
-- **To smear, [[d/_daub|daub]], [[p/_plaster|plaster]], or [[i/_impregnate|impregnate]], [[e/_especially|especially]] with [[d/_dirt|dirt]] which [[b/_becomes|becomes]] [[h/_hard|hard]] and [[i/_ingrained|ingrained]].**
+- **To [[s/_smear|smear]], [[d/_daub|daub]], [[p/_plaster|plaster]], or [[i/_impregnate|impregnate]], [[e/_especially|especially]] with [[d/_dirt|dirt]] which [[b/_becomes|becomes]] [[h/_hard|hard]] and [[i/_ingrained|ingrained]].**
 ---
 #verb
 - **To [[d/_discard|discard]] or [[a/_abandon|abandon]].**
@@ -20,6 +20,6 @@
 ### Synonyms
 - [[a/_abandon|abandon]], [[d/_discard|discard]], [[d/_dump|dump]], [[j/_jettison|jettison]], [[l/_lose|lose]], [[s/_shed|shed]]
 #noun
-- **A [[d/_deliberate|deliberate]] [[c/_crash|crash]] [[l/_landing|landing]] on the sea.**
+- **A [[d/_deliberate|deliberate]] [[c/_crash|crash]] [[l/_landing|landing]] on the [[s/_sea|sea]].**
 ---
 ---

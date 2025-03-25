@@ -1,7 +1,7 @@
 # Falcate
 ---
 #adjective
-- **Shaped [[l/_like|like]] a sickle.**
+- **[[s/_shaped|Shaped]] [[l/_like|like]] a [[s/_sickle|sickle]].**
 ---
 ### Synonyms
 - [[f/_falciform|falciform]]

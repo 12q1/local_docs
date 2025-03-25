@@ -2,14 +2,14 @@
 ---
 #adjective
 - **(of a [[p/_physical|physical]] [[o/_object|object]]) [[h/_having|Having]] [[g/_great|great]] weight.**
-- **(of a topic) Serious, somber.**
+- **(of a topic) [[s/_serious|Serious]], [[s/_somber|somber]].**
 - **Not [[e/_easy|easy]] to [[b/_bear|bear]]; [[b/_burdensome|burdensome]]; [[o/_oppressive|oppressive]].**
 	- _Example: heavy yokes, expenses, undertakings, trials, news, etc._
 - **[[g/_good|Good]].**
 	- _Example: This film is heavy._
-- **([[l/_late|late]] 1960s, 1970s) Profound.**
+- **([[l/_late|late]] 1960s, 1970s) [[p/_profound|Profound]].**
 	- _Example: The Moody Blues are, like, heavy._
-- **(of a rate of [[f/_flow|flow]]) [[h/_high|High]], [[g/_great|great]].**
+- **(of a [[r/_rate|rate]] of [[f/_flow|flow]]) [[h/_high|High]], [[g/_great|great]].**
 - **[[a/_armed|Armed]].**
 	- _Example: Come heavy, or not at all._
 - **[[l/_louder|Louder]], [[m/_more|more]] [[d/_distorted|distorted]].**
@@ -17,18 +17,18 @@
 - **(of weather) [[h/_hot|Hot]] and [[h/_humid|humid]].**
 - **(of a [[p/_person|person]]) [[d/_doing|Doing]] the specified [[a/_activity|activity]] [[m/_more|more]] [[i/_intensely|intensely]] than [[m/_most|most]] [[o/_other|other]] [[p/_people|people]].**
 	- _Example: He was a heavy sleeper, a heavy eater and a heavy smoker – certainly not an ideal husband._
-- **(of [[f/_food|food]]) [[h/_high|High]] in [[f/_fat|fat]] or protein; [[d/_difficult|difficult]] to [[d/_digest|digest]].**
+- **(of [[f/_food|food]]) [[h/_high|High]] in [[f/_fat|fat]] or [[p/_protein|protein]]; [[d/_difficult|difficult]] to [[d/_digest|digest]].**
 	- _Example: Cheese-stuffed sausage is too heavy to eat before exercising._
 - **Of [[g/_great|great]] [[f/_force|force]], [[p/_power|power]], or [[i/_intensity|intensity]]; [[d/_deep|deep]] or [[i/_intense|intense]].**
 	- _Example: it was a heavy storm;  a heavy slumber in bed;  a heavy punch_
 - **[[l/_laden|Laden]] to a [[g/_great|great]] [[e/_extent|extent]].**
 	- _Example: his eyes were heavy with sleep;  she was heavy with child_
 - **[[l/_laden|Laden]] with that which is weighty; [[e/_encumbered|encumbered]]; [[b/_burdened|burdened]]; [[b/_bowed|bowed]] [[d/_down|down]], [[e/_either|either]] with an [[a/_actual|actual]] [[b/_burden|burden]], or with [[g/_grief|grief]], [[p/_pain|pain]], [[d/_disappointment|disappointment]], [[e/_etc|etc]].**
-- **Slow; sluggish; [[i/_inactive|inactive]]; or [[l/_lifeless|lifeless]], [[d/_dull|dull]], [[i/_inanimate|inanimate]], stupid.**
+- **[[s/_slow|Slow]]; [[s/_sluggish|sluggish]]; [[i/_inactive|inactive]]; or [[l/_lifeless|lifeless]], [[d/_dull|dull]], [[i/_inanimate|inanimate]], stupid.**
 	- _Example: a heavy gait, looks, manners, style, etc._
 - **[[i/_impeding|Impeding]] [[m/_motion|motion]]; [[c/_cloggy|cloggy]]; [[c/_clayey|clayey]].**
 	- _Example: a heavy road; a heavy soil_
-- **Not raised or [[l/_leavened|leavened]].**
+- **Not [[r/_raised|raised]] or [[l/_leavened|leavened]].**
 	- _Example: heavy bread_
 - **(of wines or spirits) [[h/_having|Having]] [[m/_much|much]] [[b/_body|body]] or strength.**
 - **With [[c/_child|child]]; [[p/_pregnant|pregnant]].**

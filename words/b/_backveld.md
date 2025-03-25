@@ -1,6 +1,6 @@
 # Backveld
 ---
 #noun
-- **(southern [[a/_africa|Africa]]) [[b/_backward|Backward]] and unsophisticated rural [[a/_areas|areas]].**
+- **([[s/_southern|southern]] [[a/_africa|Africa]]) [[b/_backward|Backward]] and unsophisticated [[r/_rural|rural]] [[a/_areas|areas]].**
 ---
 ---

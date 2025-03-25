@@ -1,19 +1,19 @@
 # Left
 ---
 #noun
-- **The [[l/_left|left]] side or [[d/_direction|direction]].**
+- **The [[l/_left|left]] [[s/_side|side]] or [[d/_direction|direction]].**
 - **The [[e/_ensemble|ensemble]] of [[l/_left|left]]-wing [[p/_political|political]] [[p/_parties|parties]]. Those [[h/_holding|holding]] [[l/_left|left]]-wing views as a [[g/_group|group]].**
 	- _Example: The political left is holding too much power._
 - **The [[l/_left|left]] [[h/_hand|hand]] or [[f/_fist|fist]].**
-- **A punch [[d/_delivered|delivered]] with the [[l/_left|left]] [[f/_fist|fist]].**
-- **A wave [[b/_breaking|breaking]] from [[l/_left|left]] to right (viewed from the shore).**
+- **A [[p/_punch|punch]] [[d/_delivered|delivered]] with the [[l/_left|left]] [[f/_fist|fist]].**
+- **A wave [[b/_breaking|breaking]] from [[l/_left|left]] to [[r/_right|right]] (viewed from the [[s/_shore|shore]]).**
 ---
 ### Synonyms
 - [[p/_port|port]]
 ### Antonyms
 - [[r/_right|right]]
 #adjective
-- **The [[o/_opposite|opposite]] of right; toward the west when [[o/_one|one]] is [[f/_facing|facing]] [[n/_north|north]].**
+- **The [[o/_opposite|opposite]] of [[r/_right|right]]; toward the west when [[o/_one|one]] is [[f/_facing|facing]] [[n/_north|north]].**
 	- _Example: The left side._
 - **[[p/_pertaining|Pertaining]] to the [[p/_political|political]] [[l/_left|left]].**
 ---
@@ -22,8 +22,8 @@
 ### Antonyms
 - [[d/_dexter|dexter]], [[d/_dextral|dextral]], [[r/_right|right]], [[r/_right|right]]
 #adverb
-- **On the [[l/_left|left]] side.**
-- **Towards the [[l/_left|left]] side.**
+- **On the [[l/_left|left]] [[s/_side|side]].**
+- **Towards the [[l/_left|left]] [[s/_side|side]].**
 	- _Example: Turn left at the corner._
 - **Towards the [[p/_political|political]] [[l/_left|left]].**
 	- _Example: The East Coast of the US leans left in elections._

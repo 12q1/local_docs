@@ -5,7 +5,7 @@
 - **To [[c/_communicate|communicate]] [[k/_knowledge|knowledge]] to.**
 - **To [[i/_impart|impart]] [[i/_information|information]] or [[k/_knowledge|knowledge]].**
 - **To [[a/_act|act]] as an [[i/_informer|informer]]; [[d/_denounce|denounce]].**
-- **To [[g/_give|give]] [[f/_form|form]] or [[c/_character|character]] to; to [[i/_inspire|inspire]] (with a [[g/_given|given]] quality); to [[a/_affect|affect]], [[i/_influence|influence]] (with a [[p/_pervading|pervading]] principle, [[i/_idea|idea]] [[e/_etc|etc]].).**
+- **To [[g/_give|give]] [[f/_form|form]] or [[c/_character|character]] to; to [[i/_inspire|inspire]] (with a [[g/_given|given]] [[q/_quality|quality]]); to [[a/_affect|affect]], [[i/_influence|influence]] (with a [[p/_pervading|pervading]] [[p/_principle|principle]], [[i/_idea|idea]] [[e/_etc|etc]].).**
 	- _Example: His sense of religion informs everything he writes._
 - **To [[m/_make|make]] [[k/_known|known]], wisely and/or [[k/_knowledgeably|knowledgeably]].**
 - **To [[d/_direct|direct]], [[g/_guide|guide]].**

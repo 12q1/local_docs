@@ -7,7 +7,7 @@
 ### Synonyms
 - [[s/_spillikin|spillikin]]
 #adjective
-- **Resembling a [[b/_bundle|bundle]] of [[j/_jackstraws|jackstraws]] that [[h/_has|has]] [[b/_been|been]] strewn on a surface.**
+- **[[r/_resembling|Resembling]] a [[b/_bundle|bundle]] of [[j/_jackstraws|jackstraws]] that [[h/_has|has]] [[b/_been|been]] strewn on a surface.**
 - **(of a [[p/_person|person]]) Of [[n/_no|no]] substance or worth.**
 ---
 ---

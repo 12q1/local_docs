@@ -11,6 +11,6 @@
 	- _Example: He said that he bashes daily._
 ---
 #verb
-- **To [[a/_abash|abash]]; to [[d/_disconcert|disconcert]] or be [[d/_disconcerted|disconcerted]] or put [[o/_out|out]] of [[c/_countenance|countenance]].**
+- **To [[a/_abash|abash]]; to [[d/_disconcert|disconcert]] or be [[d/_disconcerted|disconcerted]] or [[p/_put|put]] [[o/_out|out]] of [[c/_countenance|countenance]].**
 ---
 ---

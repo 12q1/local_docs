@@ -1,15 +1,15 @@
 # Endemic
 ---
 #noun
-- **An [[i/_individual|individual]] or species that is [[e/_endemic|endemic]] to a region.**
-- **A [[d/_disease|disease]] [[a/_affecting|affecting]] a [[n/_number|number]] of [[p/_people|people]] simultaneously, so as to show a [[d/_distinct|distinct]] [[c/_connection|connection]] with [[c/_certain|certain]] [[l/_localities|localities]].**
+- **An [[i/_individual|individual]] or species that is [[e/_endemic|endemic]] to a [[r/_region|region]].**
+- **A [[d/_disease|disease]] [[a/_affecting|affecting]] a [[n/_number|number]] of [[p/_people|people]] [[s/_simultaneously|simultaneously]], [[s/_so|so]] as to [[s/_show|show]] a [[d/_distinct|distinct]] [[c/_connection|connection]] with [[c/_certain|certain]] [[l/_localities|localities]].**
 ---
 #adjective
 - **[[n/_native|Native]] to a [[p/_particular|particular]] [[a/_area|area]] or [[c/_culture|culture]]; [[o/_originating|originating]] where it [[o/_occurs|occurs]].**
 	- _Example: The endemic religion of Easter Island arrived with the Polynesian settlers._
-- **([[e/_especially|especially]] of [[p/_plants|plants]] and [[a/_animals|animals]]) [[p/_peculiar|Peculiar]] to a [[p/_particular|particular]] [[a/_area|area]] or region; not [[f/_found|found]] in [[o/_other|other]] [[p/_places|places]].**
+- **([[e/_especially|especially]] of [[p/_plants|plants]] and [[a/_animals|animals]]) [[p/_peculiar|Peculiar]] to a [[p/_particular|particular]] [[a/_area|area]] or [[r/_region|region]]; not [[f/_found|found]] in [[o/_other|other]] [[p/_places|places]].**
 	- _Example: Kangaroos are endemic to Australia._
-- **([[e/_especially|especially]] of [[d/_diseases|diseases]]) Prevalent in a [[p/_particular|particular]] [[a/_area|area]] or region.**
+- **([[e/_especially|especially]] of [[d/_diseases|diseases]]) [[p/_prevalent|Prevalent]] in a [[p/_particular|particular]] [[a/_area|area]] or [[r/_region|region]].**
 	- _Example: Malaria is endemic to the tropics._
 ---
 ### Synonyms

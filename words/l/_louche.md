@@ -5,8 +5,8 @@
 	- _Example: Certain anise-flavored drinks have developed a mystique based on the exotic appearance of louching._
 ---
 #adjective
-- **Of questionable taste or [[m/_morality|morality]]; [[d/_decadent|decadent]].**
-- **Not reputable or [[d/_decent|decent]].**
-- **Unconventional and slightly [[d/_disreputable|disreputable]] in an [[a/_attractive|attractive]] [[m/_manner|manner]]; raffish, rakish.**
+- **Of [[q/_questionable|questionable]] taste or [[m/_morality|morality]]; [[d/_decadent|decadent]].**
+- **Not [[r/_reputable|reputable]] or [[d/_decent|decent]].**
+- **Unconventional and [[s/_slightly|slightly]] [[d/_disreputable|disreputable]] in an [[a/_attractive|attractive]] [[m/_manner|manner]]; [[r/_raffish|raffish]], [[r/_rakish|rakish]].**
 ---
 ---

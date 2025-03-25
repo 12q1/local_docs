@@ -1,8 +1,8 @@
 # Lumpen
 ---
 #adjective
-- **Of or relating to social [[o/_outcasts|outcasts]].**
-- **Of or relating to the [[l/_lumpenproletariat|lumpenproletariat]].**
+- **Of or [[r/_relating|relating]] to [[s/_social|social]] [[o/_outcasts|outcasts]].**
+- **Of or [[r/_relating|relating]] to the [[l/_lumpenproletariat|lumpenproletariat]].**
 - **[[p/_plebeian|Plebeian]].**
 ---
 ---

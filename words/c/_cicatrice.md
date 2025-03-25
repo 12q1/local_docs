@@ -1,6 +1,6 @@
 # Cicatrice
 ---
 #noun
-- **A scar**
+- **A [[s/_scar|scar]]**
 ---
 ---

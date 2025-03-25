@@ -6,6 +6,6 @@
 - **A [[d/_domestic|domestic]] water [[b/_boiler|boiler]].**
 ---
 #verb
-- **To ([[c/_cause|cause]] to) rush or [[b/_burst|burst]] upward [[l/_like|like]] water from a [[g/_geyser|geyser]].**
+- **To ([[c/_cause|cause]] to) [[r/_rush|rush]] or [[b/_burst|burst]] upward [[l/_like|like]] water from a [[g/_geyser|geyser]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Herms
 ---
 #noun
-- **A rectangular [[p/_pillar|pillar]] [[b/_bearing|bearing]] a [[b/_bust|bust]] of [[h/_hermes|Hermes]], [[o/_once|once]] used as a [[b/_boundary|boundary]] [[m/_marker|marker]] and [[l/_later|later]] as [[d/_decoration|decoration]].**
+- **A [[r/_rectangular|rectangular]] [[p/_pillar|pillar]] [[b/_bearing|bearing]] a [[b/_bust|bust]] of [[h/_hermes|Hermes]], [[o/_once|once]] used as a [[b/_boundary|boundary]] [[m/_marker|marker]] and [[l/_later|later]] as [[d/_decoration|decoration]].**
 ---
 ### Synonyms
 - [[h/_herma|herma]]
 #noun
-- **(sometimes [[d/_derogatory|derogatory]]) A [[h/_hermaphrodite|hermaphrodite]].**
+- **([[s/_sometimes|sometimes]] [[d/_derogatory|derogatory]]) A [[h/_hermaphrodite|hermaphrodite]].**
 ---
 ---

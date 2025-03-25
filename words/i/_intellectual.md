@@ -13,7 +13,7 @@
 	- _Example: an intellectual person_
 - **Suitable for [[e/_exercising|exercising]] the [[i/_intellect|intellect]]; [[f/_formed|formed]] by, and [[e/_existing|existing]] for, the [[i/_intellect|intellect]] [[a/_alone|alone]]; [[p/_perceived|perceived]] by the [[i/_intellect|intellect]]**
 	- _Example: intellectual employments_
-- **Relating to the understanding; treating of the [[m/_mind|mind]].**
+- **[[r/_relating|Relating]] to the understanding; treating of the [[m/_mind|mind]].**
 	- _Example: intellectual philosophy, sometimes called "mental" philosophy_
 - **Spiritual.**
 ---

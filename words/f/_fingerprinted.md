@@ -1,8 +1,8 @@
 # Fingerprinted
 ---
 #verb
-- **To take somebody's [[f/_fingerprints|fingerprints]].**
+- **To take [[s/_somebody|somebody]]'[[s/_s|s]] [[f/_fingerprints|fingerprints]].**
 	- _Example: The jail staff fingerprints its inmates routinely_
-- **To [[i/_identify|identify]] something uniquely by a [[c/_combination|combination]] of [[m/_measurements|measurements]].**
+- **To [[i/_identify|identify]] [[s/_something|something]] uniquely by a [[c/_combination|combination]] of [[m/_measurements|measurements]].**
 ---
 ---

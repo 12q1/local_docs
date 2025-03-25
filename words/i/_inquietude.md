@@ -1,6 +1,6 @@
 # Inquietude
 ---
 #noun
-- **A [[c/_condition|condition]] of [[b/_being|being]] restless, uneasy or [[n/_nervous|nervous]].**
+- **A [[c/_condition|condition]] of [[b/_being|being]] [[r/_restless|restless]], uneasy or [[n/_nervous|nervous]].**
 ---
 ---

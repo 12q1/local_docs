@@ -6,6 +6,6 @@
 ### Synonyms
 - [[g/_grubble|grubble]], [[p/_poke|poke]]
 #noun
-- **A [[d/_dessert|dessert]] similar to a [[c/_cross|cross]] [[b/_between|between]] a [[f/_fool|fool]] and a [[c/_crumble|crumble]].**
+- **A [[d/_dessert|dessert]] [[s/_similar|similar]] to a [[c/_cross|cross]] [[b/_between|between]] a [[f/_fool|fool]] and a [[c/_crumble|crumble]].**
 ---
 ---

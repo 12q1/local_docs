@@ -2,8 +2,8 @@
 ---
 #adjective
 - **[[i/_implied|Implied]] [[i/_indirectly|indirectly]], without [[b/_being|being]] [[d/_directly|directly]] [[e/_expressed|expressed]]**
-- **[[c/_contained|Contained]] in the [[e/_essential|essential]] [[n/_nature|nature]] of something but not [[o/_openly|openly]] shown**
-- **[[h/_having|Having]] [[n/_no|no]] reservations or [[d/_doubts|doubts]]; unquestioning or unconditional; usually said of [[f/_faith|faith]] or trust.**
+- **[[c/_contained|Contained]] in the [[e/_essential|essential]] [[n/_nature|nature]] of [[s/_something|something]] but not [[o/_openly|openly]] [[s/_shown|shown]]**
+- **[[h/_having|Having]] [[n/_no|no]] [[r/_reservations|reservations]] or [[d/_doubts|doubts]]; unquestioning or unconditional; usually [[s/_said|said]] of [[f/_faith|faith]] or trust.**
 - **[[e/_entangled|Entangled]], twisted together.**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Appropriately
 ---
 #adverb
-- **In an [[a/_appropriate|appropriate]] [[m/_manner|manner]]; properly; suitably.**
+- **In an [[a/_appropriate|appropriate]] [[m/_manner|manner]]; [[p/_properly|properly]]; suitably.**
 ---
 ### Antonyms
 - [[i/_inappropriately|inappropriately]]

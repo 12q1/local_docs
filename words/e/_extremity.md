@@ -1,7 +1,7 @@
 # Extremity
 ---
 #noun
-- **The [[m/_most|most]] [[e/_extreme|extreme]] or [[f/_furthest|furthest]] [[p/_point|point]] of something.**
+- **The [[m/_most|most]] [[e/_extreme|extreme]] or [[f/_furthest|furthest]] [[p/_point|point]] of [[s/_something|something]].**
 - **An [[e/_extreme|extreme]] [[m/_measure|measure]].**
 - **A [[h/_hand|hand]] or [[f/_foot|foot]].**
 	- _Example: Guillain–Barré syndrome causes one to not be able to move one’s extremities._

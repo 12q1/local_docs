@@ -1,8 +1,8 @@
 # Implanted
 ---
 #verb
-- **To [[f/_fix|fix]] [[f/_firmly|firmly]] or set securely or [[d/_deeply|deeply]].**
-- **To [[i/_insert|insert]] (something) surgically [[i/_into|into]] the [[b/_body|body]].**
+- **To [[f/_fix|fix]] [[f/_firmly|firmly]] or [[s/_set|set]] [[s/_securely|securely]] or [[d/_deeply|deeply]].**
+- **To [[i/_insert|insert]] ([[s/_something|something]]) surgically [[i/_into|into]] the [[b/_body|body]].**
 - **Of an [[e/_embryo|embryo]], to [[b/_become|become]] [[a/_attached|attached]] to and [[e/_embedded|embedded]] in the womb.**
 ---
 ### Synonyms

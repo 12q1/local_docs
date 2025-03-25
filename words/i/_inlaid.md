@@ -1,7 +1,7 @@
 # Inlaid
 ---
 #adjective
-- **(of a [[d/_design|design]]) Set [[i/_into|into]] a surface in a [[d/_decorative|decorative]] [[p/_pattern|pattern]].**
+- **(of a [[d/_design|design]]) [[s/_set|Set]] [[i/_into|into]] a surface in a [[d/_decorative|decorative]] [[p/_pattern|pattern]].**
 - **(of the surface of an [[i/_item|item]]) [[h/_having|Having]] an [[i/_inset|inset]] [[d/_decorative|decorative]] [[p/_pattern|pattern]].**
 ---
 #verb

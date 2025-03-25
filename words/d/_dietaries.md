@@ -1,6 +1,6 @@
 # Dietaries
 ---
 #noun
-- **A regulated [[d/_diet|diet]].**
+- **A [[r/_regulated|regulated]] [[d/_diet|diet]].**
 ---
 ---

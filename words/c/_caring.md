@@ -13,7 +13,7 @@
 - **The [[a/_act|act]] of [[o/_one|one]] who [[c/_cares|cares]].**
 ---
 #adjective
-- **(of a [[p/_person|person]]) [[k/_kind|Kind]], sensitive, [[e/_empathetic|empathetic]].**
+- **(of a [[p/_person|person]]) [[k/_kind|Kind]], [[s/_sensitive|sensitive]], [[e/_empathetic|empathetic]].**
 	- _Example: She's a very caring person; she always has a kind word for everyone._
 ---
 ---

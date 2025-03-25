@@ -1,6 +1,6 @@
 # Desegregates
 ---
 #verb
-- **To the [[e/_end|end]] segregation of (something).**
+- **To the [[e/_end|end]] [[s/_segregation|segregation]] of ([[s/_something|something]]).**
 ---
 ---

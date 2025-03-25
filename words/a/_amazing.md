@@ -10,7 +10,7 @@
 ---
 #adjective
 - **[[c/_causing|Causing]] wonder and [[a/_amazement|amazement]]; very surprising.**
-- **[[p/_possessing|Possessing]] uniquely wonderful qualities.**
+- **[[p/_possessing|Possessing]] uniquely wonderful [[q/_qualities|qualities]].**
 - **Very [[g/_good|good]].**
 	- _Example: 2015, June 10, Lindsey Bever, "Morning Mix: Another reason seeing-eye dogs are amazing"http//www.washingtonpost.com/news/morning-mix/wp/2015/06/10/another-heroic-story-showing-why-seeing-eye-dogs-are-amazing/_
 ---

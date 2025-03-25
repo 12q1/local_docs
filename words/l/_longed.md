@@ -4,7 +4,7 @@
 - **To take a [[l/_long|long]] [[p/_position|position]] in.**
 ---
 #verb
-- **To [[a/_await|await]], [[a/_aspire|aspire]], [[d/_desire|desire]] [[g/_greatly|greatly]] (something to [[o/_occur|occur]] or to be true)**
+- **To [[a/_await|await]], [[a/_aspire|aspire]], [[d/_desire|desire]] [[g/_greatly|greatly]] ([[s/_something|something]] to [[o/_occur|occur]] or to be true)**
 	- _Example: She longed for him to come back._
 ---
 ### Synonyms

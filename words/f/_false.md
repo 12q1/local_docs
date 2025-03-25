@@ -10,7 +10,7 @@
 	- _Example: false legislation, false punishment_
 - **Spurious, [[a/_artificial|artificial]].**
 	- _Example: false teeth_
-- **Of a state in [[b/_boolean|Boolean]] [[l/_logic|logic]] that [[i/_indicates|indicates]] a [[n/_negative|negative]] result.**
+- **Of a state in [[b/_boolean|Boolean]] [[l/_logic|logic]] that [[i/_indicates|indicates]] a [[n/_negative|negative]] [[r/_result|result]].**
 - **Uttering [[f/_falsehood|falsehood]]; [[d/_dishonest|dishonest]] or [[d/_deceitful|deceitful]].**
 	- _Example: a false witness_
 - **Not [[f/_faithful|faithful]] or [[l/_loyal|loyal]], as to [[o/_obligations|obligations]], [[a/_allegiance|allegiance]], vows, [[e/_etc|etc]].; untrue; treacherous.**
@@ -18,7 +18,7 @@
 - **Not well [[f/_founded|founded]]; not [[f/_firm|firm]] or trustworthy; [[e/_erroneous|erroneous]].**
 	- _Example: a false conclusion;  a false construction in grammar_
 - **Not [[e/_essential|essential]] or [[p/_permanent|permanent]], as [[p/_parts|parts]] of a structure which are temporary or supplemental.**
-- **Used in the vernacular [[n/_name|name]] of a species (or [[g/_group|group]] of species) together with the [[n/_name|name]] of [[a/_another|another]] species to which it is similar in [[a/_appearance|appearance]].**
+- **Used in the vernacular [[n/_name|name]] of a species (or [[g/_group|group]] of species) together with the [[n/_name|name]] of [[a/_another|another]] species to which it is [[s/_similar|similar]] in [[a/_appearance|appearance]].**
 	- _Example: false killer whale (a dolphin)_
 - **[[o/_out|Out]] of tune.**
 ---

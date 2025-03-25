@@ -11,6 +11,6 @@
 ### Antonyms
 - [[d/_dampen|dampen]], [[d/_douse|douse]], [[e/_extinguish|extinguish]]
 #verb
-- **(of a rabbit or [[h/_hare|hare]]) To [[b/_bring|bring]] [[f/_forth|forth]] [[y/_young|young]]; to [[g/_give|give]] [[b/_birth|birth]].**
+- **(of a [[r/_rabbit|rabbit]] or [[h/_hare|hare]]) To [[b/_bring|bring]] [[f/_forth|forth]] [[y/_young|young]]; to [[g/_give|give]] [[b/_birth|birth]].**
 ---
 ---

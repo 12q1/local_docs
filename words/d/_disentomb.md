@@ -1,6 +1,6 @@
 # Disentomb
 ---
 #verb
-- **To remove from a tomb.**
+- **To [[r/_remove|remove]] from a tomb.**
 ---
 ---

@@ -2,18 +2,18 @@
 ---
 #verb
 - **To [[f/_furnish|furnish]] or [[d/_deck|deck]] [[o/_out|out]] with [[f/_flags|flags]].**
-- **To [[m/_mark|mark]] with a [[f/_flag|flag]], [[e/_especially|especially]] to [[i/_indicate|indicate]] the [[i/_importance|importance]] of something.**
-- **([[o/_often|often]] with [[d/_down|down]]) To signal to, [[e/_especially|especially]] to stop a [[p/_passing|passing]] vehicle [[e/_etc|etc]].**
+- **To [[m/_mark|mark]] with a [[f/_flag|flag]], [[e/_especially|especially]] to [[i/_indicate|indicate]] the [[i/_importance|importance]] of [[s/_something|something]].**
+- **([[o/_often|often]] with [[d/_down|down]]) To [[s/_signal|signal]] to, [[e/_especially|especially]] to stop a [[p/_passing|passing]] vehicle [[e/_etc|etc]].**
 	- _Example: Please flag down a taxi for me._
-- **To [[c/_convey|convey]] (a [[m/_message|message]]) by [[m/_means|means]] of [[f/_flag|flag]] signals.**
+- **To [[c/_convey|convey]] (a [[m/_message|message]]) by [[m/_means|means]] of [[f/_flag|flag]] [[s/_signals|signals]].**
 	- _Example: to flag an order to troops or vessels at a distance_
 - **([[o/_often|often]] with up) To [[n/_note|note]], [[m/_mark|mark]] or [[p/_point|point]] [[o/_out|out]] for [[a/_attention|attention]].**
 	- _Example: I've flagged up the need for further investigation into this._
-- **To signal (an [[e/_event|event]]).**
+- **To [[s/_signal|signal]] (an [[e/_event|event]]).**
 	- _Example: The compiler flagged three errors._
-- **To set a program variable to true.**
+- **To [[s/_set|set]] a [[p/_program|program]] variable to true.**
 	- _Example: Flag the debug option before running the program._
-- **To [[d/_decoy|decoy]] ([[g/_game|game]]) by waving a [[f/_flag|flag]], [[h/_handkerchief|handkerchief]], [[e/_etc|etc]]. to [[a/_arouse|arouse]] the [[a/_animal|animal]]'s [[c/_curiosity|curiosity]].**
+- **To [[d/_decoy|decoy]] ([[g/_game|game]]) by waving a [[f/_flag|flag]], [[h/_handkerchief|handkerchief]], [[e/_etc|etc]]. to [[a/_arouse|arouse]] the [[a/_animal|animal]]'[[s/_s|s]] [[c/_curiosity|curiosity]].**
 - **To [[p/_penalize|penalize]] for an [[i/_infraction|infraction]].**
 	- _Example: The defender was flagged for unsportsmanlike conduct._
 - **To [[d/_defeat|defeat]] (an [[o/_opponent|opponent]]) on time, [[e/_especially|especially]] in a [[b/_blitz|blitz]] [[g/_game|game]].**
@@ -31,7 +31,7 @@
 	- _Example: Fred is planning to flag his patio this weekend._
 ---
 #noun
-- **A [[p/_pavement|pavement]] or sidewalk of [[f/_flagstones|flagstones]]; [[f/_flagstones|flagstones]], [[c/_collectively|collectively]].**
-- **The process by which something [[f/_flags|flags]] or tires.**
+- **A [[p/_pavement|pavement]] or [[s/_sidewalk|sidewalk]] of [[f/_flagstones|flagstones]]; [[f/_flagstones|flagstones]], [[c/_collectively|collectively]].**
+- **The [[p/_process|process]] by which [[s/_something|something]] [[f/_flags|flags]] or tires.**
 ---
 ---

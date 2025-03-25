@@ -1,8 +1,8 @@
 # Galosh
 ---
 #noun
-- **A waterproof [[o/_overshoe|overshoe]] used to provide protection from rain or snow.**
-- **A waterproof rubber [[b/_boot|boot]], [[i/_intended|intended]] to be worn in wet or [[m/_muddy|muddy]] [[c/_conditions|conditions]].**
+- **A waterproof [[o/_overshoe|overshoe]] used to [[p/_provide|provide]] [[p/_protection|protection]] from [[r/_rain|rain]] or [[s/_snow|snow]].**
+- **A waterproof [[r/_rubber|rubber]] [[b/_boot|boot]], [[i/_intended|intended]] to be worn in wet or [[m/_muddy|muddy]] [[c/_conditions|conditions]].**
 ---
 ### Synonyms
 - 

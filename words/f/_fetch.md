@@ -1,26 +1,26 @@
 # Fetch
 ---
 #noun
-- **An [[a/_act|act]] of [[f/_fetching|fetching]], of [[b/_bringing|bringing]] something from a [[d/_distance|distance]].**
-- **The [[o/_object|object]] of [[f/_fetching|fetching]]; the source of an [[a/_attraction|attraction]]; a [[f/_force|force]], propensity, or quality which [[a/_attracts|attracts]].**
+- **An [[a/_act|act]] of [[f/_fetching|fetching]], of [[b/_bringing|bringing]] [[s/_something|something]] from a [[d/_distance|distance]].**
+- **The [[o/_object|object]] of [[f/_fetching|fetching]]; the [[s/_source|source]] of an [[a/_attraction|attraction]]; a [[f/_force|force]], [[p/_propensity|propensity]], or [[q/_quality|quality]] which [[a/_attracts|attracts]].**
 - **A stratagem or trick; an [[a/_artifice|artifice]].**
 ---
 ### Synonyms
 - [[c/_contrivance|contrivance]], [[d/_dodge|dodge]]
 #verb
-- **To retrieve; to [[b/_bear|bear]] towards; to [[g/_go|go]] and [[g/_get|get]].**
-- **To [[o/_obtain|obtain]] as price or [[e/_equivalent|equivalent]]; to sell for.**
+- **To [[r/_retrieve|retrieve]]; to [[b/_bear|bear]] towards; to [[g/_go|go]] and [[g/_get|get]].**
+- **To [[o/_obtain|obtain]] as [[p/_price|price]] or [[e/_equivalent|equivalent]]; to [[s/_sell|sell]] for.**
 	- _Example: If you put some new tyres on it, and clean it up a bit, the car should fetch about $5,000_
-- **To [[b/_bring|bring]] or [[g/_get|get]] within reach by [[g/_going|going]]; to reach; to [[a/_arrive|arrive]] at; to [[a/_attain|attain]]; to reach by sailing.**
+- **To [[b/_bring|bring]] or [[g/_get|get]] within [[r/_reach|reach]] by [[g/_going|going]]; to [[r/_reach|reach]]; to [[a/_arrive|arrive]] at; to [[a/_attain|attain]]; to [[r/_reach|reach]] by [[s/_sailing|sailing]].**
 	- _Example: to fetch headway or sternway_
 - **To [[b/_bring|bring]] [[o/_oneself|oneself]]; to [[m/_make|make]] [[h/_headway|headway]]; to veer; as, to [[f/_fetch|fetch]] [[a/_about|about]]; to [[f/_fetch|fetch]] to windward.**
-- **To take (a [[b/_breath|breath]]), to [[h/_heave|heave]] (a sigh)**
+- **To take (a [[b/_breath|breath]]), to [[h/_heave|heave]] (a [[s/_sigh|sigh]])**
 - **To [[c/_cause|cause]] to [[c/_come|come]]; to [[b/_bring|bring]] to a [[p/_particular|particular]] state.**
-- **To recall from a swoon; to revive; sometimes with to.**
+- **To [[r/_recall|recall]] from a swoon; to [[r/_revive|revive]]; [[s/_sometimes|sometimes]] with to.**
 	- _Example: to fetch a man to_
-- **To reduce; to throw.**
+- **To [[r/_reduce|reduce]]; to throw.**
 - **To [[b/_bring|bring]] to [[a/_accomplishment|accomplishment]]; to [[a/_achieve|achieve]]; to [[m/_make|make]]; to [[p/_perform|perform]], with [[c/_certain|certain]] [[o/_objects|objects]].**
 	- _Example: to fetch a compass;  to fetch a leap_
-- **To [[m/_make|make]] (a pump) [[d/_draw|draw]] water by [[p/_pouring|pouring]] water [[i/_into|into]] the top and working the [[h/_handle|handle]].**
+- **To [[m/_make|make]] (a [[p/_pump|pump]]) [[d/_draw|draw]] water by [[p/_pouring|pouring]] water [[i/_into|into]] the top and working the [[h/_handle|handle]].**
 ---
 ---

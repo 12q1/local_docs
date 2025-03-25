@@ -1,6 +1,6 @@
 # Gruyere
 ---
 #noun
-- **Gruyère [[c/_cheese|cheese]]**
+- **Gruyè[[r/_re|re]] [[c/_cheese|cheese]]**
 ---
 ---

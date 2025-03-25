@@ -1,6 +1,6 @@
 # Kersey
 ---
 #noun
-- **A type of rough woollen [[c/_cloth|cloth]].**
+- **A type of [[r/_rough|rough]] woollen [[c/_cloth|cloth]].**
 ---
 ---

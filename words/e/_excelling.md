@@ -1,7 +1,7 @@
 # Excelling
 ---
 #verb
-- **To surpass someone or something; to be [[b/_better|better]] or [[d/_do|do]] [[b/_better|better]] than someone or something.**
+- **To surpass [[s/_someone|someone]] or [[s/_something|something]]; to be [[b/_better|better]] or [[d/_do|do]] [[b/_better|better]] than [[s/_someone|someone]] or [[s/_something|something]].**
 	- _Example: I excelled everyone else with my exam results._
 - **To be [[m/_much|much]] [[b/_better|better]] than [[o/_others|others]].**
 - **To [[e/_exceed|exceed]], to [[g/_go|go]] [[b/_beyond|beyond]]**

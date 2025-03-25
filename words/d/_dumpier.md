@@ -1,6 +1,6 @@
 # Dumpier
 ---
 #adjective
-- **Short and thick; stout or stocky**
+- **[[s/_short|Short]] and thick; stout or stocky**
 ---
 ---

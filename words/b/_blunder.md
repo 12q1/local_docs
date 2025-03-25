@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_clumsy|clumsy]] or [[e/_embarrassing|embarrassing]] [[m/_mistake|mistake]].**
-- **A very [[b/_bad|bad]] [[m/_move|move]], usually [[c/_caused|caused]] by some tactical [[o/_oversight|oversight]].**
+- **A very [[b/_bad|bad]] [[m/_move|move]], usually [[c/_caused|caused]] by [[s/_some|some]] tactical [[o/_oversight|oversight]].**
 ---
 ### Synonyms
 - [[b/_blooper|blooper]], [[b/_boo-boo|boo-boo]], [[e/_error|error]], [[f/_flub|flub]], [[f/_fluff|fluff]], [[f/_fumble|fumble]], [[g/_gaffe|gaffe]], [[g/_goof|goof]], [[l/_lapse|lapse]], [[m/_mistake|mistake]], [[s/_slip|slip]], [[s/_stumble|stumble]], [[t/_thinko|thinko]]

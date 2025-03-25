@@ -1,7 +1,7 @@
 # Fulminates
 ---
 #noun
-- **[[a/_any|Any]] salt or [[e/_ester|ester]] of [[f/_fulminic|fulminic]] [[a/_acid|acid]], [[m/_mostly|mostly]] [[e/_explosive|explosive]].**
+- **[[a/_any|Any]] [[s/_salt|salt]] or [[e/_ester|ester]] of [[f/_fulminic|fulminic]] [[a/_acid|acid]], [[m/_mostly|mostly]] [[e/_explosive|explosive]].**
 ---
 #verb
 - **To [[m/_make|make]] a verbal [[a/_attack|attack]].**

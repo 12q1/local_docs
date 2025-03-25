@@ -1,6 +1,6 @@
 # Leptocephalous
 ---
 #adjective
-- **Relating to a [[l/_leptocephalus|leptocephalus]]**
+- **[[r/_relating|Relating]] to a [[l/_leptocephalus|leptocephalus]]**
 ---
 ---

@@ -7,7 +7,7 @@
 - **A [[f/_faint|faint]] [[i/_idea|idea]]; an [[i/_inkling|inkling]].**
 ---
 #verb
-- **To see or view [[b/_briefly|briefly]] or [[i/_incompletely|incompletely]].**
+- **To [[s/_see|see]] or view [[b/_briefly|briefly]] or [[i/_incompletely|incompletely]].**
 	- _Example: I have only begun to glimpse the magnitude of the problem._
 - **To [[a/_appear|appear]] by [[g/_glimpses|glimpses]].**
 ---

@@ -11,7 +11,7 @@
 	- _Example: Fly, my lord! The enemy are upon us!_
 - **To [[c/_cause|cause]] to [[f/_fly|fly]] (travel or [[f/_float|float]] in the [[a/_air|air]]): to transport via [[a/_air|air]] or the [[l/_like|like]].**
 	- _Example: Birds fly their prey to their nest to feed it to their young._
-- **(of a proposal, project or [[i/_idea|idea]]) To be [[a/_accepted|accepted]], [[c/_come|come]] [[a/_about|about]] or work [[o/_out|out]].**
+- **(of a [[p/_proposal|proposal]], [[p/_project|project]] or [[i/_idea|idea]]) To be [[a/_accepted|accepted]], [[c/_come|come]] [[a/_about|about]] or work [[o/_out|out]].**
 	- _Example: Let's see if that idea flies._
 - **To travel very [[f/_fast|fast]], [[h/_hasten|hasten]].**
 - **To [[m/_move|move]] suddenly, or with violence; to [[d/_do|do]] an [[a/_act|act]] suddenly or swiftly.**

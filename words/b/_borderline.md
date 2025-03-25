@@ -9,9 +9,9 @@
 - **To [[b/_border|border]], or [[b/_border|border]] on; to be [[p/_physically|physically]] [[c/_close|close]] or [[c/_conceptually|conceptually]] [[a/_akin|akin]] to.**
 ---
 #adjective
-- **[[n/_nearly|Nearly]]; not [[c/_clearly|clearly]] on [[o/_one|one]] side or the [[o/_other|other]] of a [[b/_border|border]] or [[b/_boundary|boundary]], [[a/_ambiguous|ambiguous]].**
+- **[[n/_nearly|Nearly]]; not [[c/_clearly|clearly]] on [[o/_one|one]] [[s/_side|side]] or the [[o/_other|other]] of a [[b/_border|border]] or [[b/_boundary|boundary]], [[a/_ambiguous|ambiguous]].**
 	- _Example: I would rather hire a talented layman than a university graduate with borderline qualifications._
-- **Showing [[b/_bad|bad]] taste.**
+- **[[s/_showing|Showing]] [[b/_bad|bad]] taste.**
 	- _Example: Your borderline remarks about my aunt's dress destroyed my evening._
 - **[[e/_exhibiting|Exhibiting]] [[b/_borderline|borderline]] [[p/_personality|personality]] [[d/_disorder|disorder]].**
 ---

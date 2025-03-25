@@ -1,6 +1,6 @@
 # Insurgence
 ---
 #noun
-- **An uprising or rebellion; an [[i/_insurrection|insurrection]]**
+- **An uprising or [[r/_rebellion|rebellion]]; an [[i/_insurrection|insurrection]]**
 ---
 ---

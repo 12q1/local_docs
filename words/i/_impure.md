@@ -4,7 +4,7 @@
 - **To [[d/_defile|defile]]; to [[p/_pollute|pollute]]**
 ---
 #adjective
-- **Not pure**
+- **Not [[p/_pure|pure]]**
 ---
 ### Synonyms
 - [[i/_imperfect|imperfect]], [[t/_tainted|tainted]]

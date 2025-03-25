@@ -1,6 +1,6 @@
 # Forex
 ---
 #noun
-- **Short for [[f/_foreign|foreign]] [[e/_exchange|exchange]].**
+- **[[s/_short|Short]] for [[f/_foreign|foreign]] [[e/_exchange|exchange]].**
 ---
 ---

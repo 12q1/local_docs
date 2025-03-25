@@ -1,6 +1,6 @@
 # Lubricous
 ---
 #adjective
-- **Slimy to the touch.**
+- **[[s/_slimy|Slimy]] to the touch.**
 ---
 ---

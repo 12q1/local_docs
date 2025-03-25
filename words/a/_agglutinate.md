@@ -6,7 +6,7 @@
 ---
 #adjective
 - **United with [[g/_glue|glue]] or as with [[g/_glue|glue]]; [[c/_cemented|cemented]] together.**
-- **[[c/_consisting|Consisting]] of root words [[c/_combined|combined]] but not [[m/_materially|materially]] [[a/_altered|altered]] as to [[f/_form|form]] or [[m/_meaning|meaning]]**
+- **[[c/_consisting|Consisting]] of [[r/_root|root]] words [[c/_combined|combined]] but not [[m/_materially|materially]] [[a/_altered|altered]] as to [[f/_form|form]] or [[m/_meaning|meaning]]**
 	- _Example: an agglutinate family of languages_
 ---
 ---

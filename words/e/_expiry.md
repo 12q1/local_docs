@@ -1,7 +1,7 @@
 # Expiry
 ---
 #noun
-- **A [[d/_date|date]] by which an [[o/_object|object]] [[e/_either|either]] should not be used or [[l/_loses|loses]] [[i/_its|its]] value, [[d/_depending|depending]] upon the [[i/_item|item]].**
+- **A [[d/_date|date]] by which an [[o/_object|object]] [[e/_either|either]] [[s/_should|should]] not be used or [[l/_loses|loses]] [[i/_its|its]] value, [[d/_depending|depending]] upon the [[i/_item|item]].**
 	- _Example: credit card expiration date_
 ---
 ### Synonyms

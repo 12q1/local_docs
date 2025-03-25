@@ -1,7 +1,7 @@
 # Humdrum
 ---
 #noun
-- **The quality of [[l/_lacking|lacking]] variety or [[e/_excitement|excitement]].**
+- **The [[q/_quality|quality]] of [[l/_lacking|lacking]] variety or [[e/_excitement|excitement]].**
 - **A stupid [[f/_fellow|fellow]].**
 ---
 ### Synonyms

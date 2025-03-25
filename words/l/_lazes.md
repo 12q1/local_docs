@@ -7,7 +7,7 @@
 ---
 #verb
 - **To be [[l/_lazy|lazy]], waste time.**
-- **To [[p/_pass|pass]] time relaxing; to relax, [[l/_lounge|lounge]].**
+- **To [[p/_pass|pass]] time [[r/_relaxing|relaxing]]; to [[r/_relax|relax]], [[l/_lounge|lounge]].**
 	- _Example: The cat spent the afternoon lazing in the sun._
 ---
 ### Synonyms

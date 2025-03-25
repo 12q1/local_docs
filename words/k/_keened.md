@@ -1,7 +1,7 @@
 # Keened
 ---
 #verb
-- **To [[m/_make|make]] [[c/_cold|cold]], to sharpen.**
+- **To [[m/_make|make]] [[c/_cold|cold]], to [[s/_sharpen|sharpen]].**
 ---
 #verb
 - **To utter a [[k/_keen|keen]].**

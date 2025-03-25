@@ -1,6 +1,6 @@
 # Indicium
 ---
 #noun
-- **An [[i/_indication|indication]]; a sign.**
+- **An [[i/_indication|indication]]; a [[s/_sign|sign]].**
 ---
 ---

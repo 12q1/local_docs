@@ -1,8 +1,8 @@
 # Gendered
 ---
 #verb
-- **To [[a/_assign|assign]] a [[g/_gender|gender]] to (a [[p/_person|person]]); to [[p/_perceive|perceive]] as [[h/_having|having]] a [[g/_gender|gender]]; to [[a/_address|address]] using terms (pronouns, [[n/_nouns|nouns]], [[a/_adjectives|adjectives]]...) that [[e/_express|express]] a [[c/_certain|certain]] [[g/_gender|gender]].**
-- **To [[p/_perceive|perceive]] (a thing) as [[h/_having|having]] [[c/_characteristics|characteristics]] [[a/_associated|associated]] with a [[c/_certain|certain]] [[g/_gender|gender]], or as [[h/_having|having]] [[b/_been|been]] [[a/_authored|authored]] by someone of a [[c/_certain|certain]] [[g/_gender|gender]].**
+- **To [[a/_assign|assign]] a [[g/_gender|gender]] to (a [[p/_person|person]]); to [[p/_perceive|perceive]] as [[h/_having|having]] a [[g/_gender|gender]]; to [[a/_address|address]] using terms ([[p/_pronouns|pronouns]], [[n/_nouns|nouns]], [[a/_adjectives|adjectives]]...) that [[e/_express|express]] a [[c/_certain|certain]] [[g/_gender|gender]].**
+- **To [[p/_perceive|perceive]] (a thing) as [[h/_having|having]] [[c/_characteristics|characteristics]] [[a/_associated|associated]] with a [[c/_certain|certain]] [[g/_gender|gender]], or as [[h/_having|having]] [[b/_been|been]] [[a/_authored|authored]] by [[s/_someone|someone]] of a [[c/_certain|certain]] [[g/_gender|gender]].**
 ---
 #verb
 - **To [[e/_engender|engender]].**

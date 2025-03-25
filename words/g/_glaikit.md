@@ -1,6 +1,6 @@
 # Glaikit
 ---
 #adjective
-- **Senseless; silly, [[f/_foolish|foolish]].**
+- **[[s/_senseless|Senseless]]; [[s/_silly|silly]], [[f/_foolish|foolish]].**
 ---
 ---

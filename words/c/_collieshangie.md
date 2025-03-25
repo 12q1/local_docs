@@ -1,6 +1,6 @@
 # Collieshangie
 ---
 #noun
-- **A [[l/_loud|loud]] quarrelsome [[f/_fight|fight]].**
+- **A [[l/_loud|loud]] [[q/_quarrelsome|quarrelsome]] [[f/_fight|fight]].**
 ---
 ---

@@ -9,11 +9,11 @@
 	- _Example: the road curves to the right_
 - **To [[g/_grade|grade]] on a [[c/_curve|curve]] ([[b/_bell|bell]] [[c/_curve|curve]] of a [[n/_normal|normal]] [[d/_distribution|distribution]]).**
 	- _Example: The teacher will curve the test._
-- **To reject, to turn [[d/_down|down]] romantic [[a/_advances|advances]].**
+- **To [[r/_reject|reject]], to turn [[d/_down|down]] [[r/_romantic|romantic]] [[a/_advances|advances]].**
 	- _Example: I was once curved three times by the same woman._
 ---
 #noun
-- **A shape or [[m/_motion|motion]] that [[c/_curves|curves]].**
+- **A [[s/_shape|shape]] or [[m/_motion|motion]] that [[c/_curves|curves]].**
 	- _Example: the curvings of a mountain road_
 ---
 #adjective

@@ -1,7 +1,7 @@
 # Handsome
 ---
 #verb
-- **To render [[h/_handsome|handsome]].**
+- **To [[r/_render|render]] [[h/_handsome|handsome]].**
 ---
 #adjective
 - **(of [[p/_people|people]], things, [[e/_etc|etc]]) [[h/_having|Having]] a [[g/_good|good]] [[a/_appearance|appearance]]; [[g/_good|good]]-[[l/_looking|looking]].**
@@ -11,7 +11,7 @@
 	- _Example: Handsome is as handsome does._
 - **[[a/_ample|Ample]]; [[m/_moderately|moderately]] [[l/_large|large]].**
 	- _Example: a handsome salary_
-- **(said of things and [[p/_people|people]]) [[d/_dexterous|Dexterous]]; skillful.**
+- **([[s/_said|said]] of things and [[p/_people|people]]) [[d/_dexterous|Dexterous]]; [[s/_skillful|skillful]].**
 ---
 ### Synonyms
 - [[h/_hefty|hefty]], [[s/_substantial|substantial]], [[g/_good-looking|good-looking]], [[p/_pretty|pretty]]

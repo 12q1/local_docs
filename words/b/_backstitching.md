@@ -1,6 +1,6 @@
 # Backstitching
 ---
 #verb
-- **To sew with a [[b/_backstitch|backstitch]].**
+- **To [[s/_sew|sew]] with a [[b/_backstitch|backstitch]].**
 ---
 ---

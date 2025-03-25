@@ -1,7 +1,7 @@
 # Discourtesies
 ---
 #noun
-- **[[l/_lack|Lack]] of [[c/_courtesy|courtesy]]; rudeness.**
-- **A rude [[a/_act|act]].**
+- **[[l/_lack|Lack]] of [[c/_courtesy|courtesy]]; [[r/_rudeness|rudeness]].**
+- **A [[r/_rude|rude]] [[a/_act|act]].**
 ---
 ---

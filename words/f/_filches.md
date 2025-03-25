@@ -1,7 +1,7 @@
 # Filches
 ---
 #noun
-- **Something which [[h/_has|has]] [[b/_been|been]] [[f/_filched|filched]] or stolen.**
+- **[[s/_something|Something]] which [[h/_has|has]] [[b/_been|been]] [[f/_filched|filched]] or stolen.**
 - **An [[a/_act|act]] of [[f/_filching|filching]]; [[l/_larceny|larceny]], theft.**
 - **A [[p/_person|person]] who [[f/_filches|filches]]; a [[f/_filcher|filcher]], a [[p/_pilferer|pilferer]], a thief.**
 - **A [[h/_hooked|hooked]] stick used to [[f/_filch|filch]] [[o/_objects|objects]].**

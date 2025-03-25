@@ -5,6 +5,6 @@
 - **An [[i/_interstitial|interstitial]] [[d/_discontinuity|discontinuity]] in a [[c/_crystal|crystal]].**
 ---
 #adjective
-- **Of, relating to, or situated in an [[i/_interstice|interstice]].**
+- **Of, [[r/_relating|relating]] to, or [[s/_situated|situated]] in an [[i/_interstice|interstice]].**
 ---
 ---

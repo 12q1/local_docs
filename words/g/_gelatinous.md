@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[j/_jelly|Jelly]]-[[l/_like|like]].**
-- **Of or referring to [[g/_gelatin|gelatin]].**
+- **Of or [[r/_referring|referring]] to [[g/_gelatin|gelatin]].**
 ---
 ---

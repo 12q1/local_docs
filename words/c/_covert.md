@@ -8,8 +8,8 @@
 - **A [[f/_feather|feather]] that [[c/_covers|covers]] the [[b/_bases|bases]] of [[f/_flight|flight]] [[f/_feathers|feathers]].**
 ---
 #adjective
-- **[[h/_hidden|Hidden]], [[c/_covered|covered]] [[o/_over|over]]; [[o/_overgrown|overgrown]], sheltered.**
-- **Secret, surreptitious, [[c/_concealed|concealed]].**
+- **[[h/_hidden|Hidden]], [[c/_covered|covered]] [[o/_over|over]]; [[o/_overgrown|overgrown]], [[s/_sheltered|sheltered]].**
+- **[[s/_secret|Secret]], surreptitious, [[c/_concealed|concealed]].**
 ---
 ### Synonyms
 - 

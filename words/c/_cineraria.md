@@ -1,6 +1,6 @@
 # Cineraria
 ---
 #noun
-- **A [[p/_place|place]] or receptacle for [[d/_depositing|depositing]] the [[a/_ashes|ashes]] of [[c/_cremated|cremated]] [[p/_people|people]].**
+- **A [[p/_place|place]] or [[r/_receptacle|receptacle]] for [[d/_depositing|depositing]] the [[a/_ashes|ashes]] of [[c/_cremated|cremated]] [[p/_people|people]].**
 ---
 ---

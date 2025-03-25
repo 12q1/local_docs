@@ -1,7 +1,7 @@
 # Astronomical
 ---
 #adjective
-- **Of or relating to [[a/_astronomy|astronomy]].**
+- **Of or [[r/_relating|relating]] to [[a/_astronomy|astronomy]].**
 - **Very [[l/_large|large]]; of vast [[m/_measure|measure]].**
 ---
 ### Synonyms

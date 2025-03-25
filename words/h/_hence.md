@@ -7,7 +7,7 @@
 	- _Example: After a long battle, my poor daughter was taken hence._
 - **(of a [[l/_length|length]] of time) in the [[f/_future|future]] from [[n/_now|now]]**
 	- _Example: A year hence it will be forgotten._
-- **As a result; therefore, for this reason**
+- **As a [[r/_result|result]]; therefore, for this [[r/_reason|reason]]**
 	- _Example: I shall go to Japan and hence will not be here in time for the party._
 ---
 ### Synonyms

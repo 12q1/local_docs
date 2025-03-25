@@ -5,6 +5,6 @@
 	- _Example: It will take several years to evaluate the material gathered in the survey._
 - **To [[c/_compute|compute]] or [[d/_determine|determine]] the value of (an [[e/_expression|expression]]).**
 	- _Example: Evaluate this integral._
-- **To return or [[h/_have|have]] a specific value.**
+- **To [[r/_return|return]] or [[h/_have|have]] a specific value.**
 ---
 ---

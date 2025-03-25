@@ -1,7 +1,7 @@
 # Coruscates
 ---
 #verb
-- **To [[g/_give|give]] [[o/_off|off]] [[l/_light|light]]; to reflect in [[f/_flashes|flashes]]; to sparkle.**
+- **To [[g/_give|give]] [[o/_off|off]] [[l/_light|light]]; to [[r/_reflect|reflect]] in [[f/_flashes|flashes]]; to [[s/_sparkle|sparkle]].**
 - **To [[e/_exhibit|exhibit]] [[b/_brilliant|brilliant]] technique or style.**
 ---
 ### Synonyms

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[b/_bully|bully]], [[c/_cow|cow]], [[d/_domineer|domineer]], [[i/_intimidate|intimidate]]
 #noun
-- **A scolding.**
+- **A [[s/_scolding|scolding]].**
 ---
 ---

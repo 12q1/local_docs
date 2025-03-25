@@ -1,7 +1,7 @@
 # Bibbed
 ---
 #verb
-- **To [[d/_dress|dress]] (somebody) in a [[b/_bib|bib]].**
+- **To [[d/_dress|dress]] ([[s/_somebody|somebody]]) in a [[b/_bib|bib]].**
 - **To [[d/_drink|drink]] [[h/_heartily|heartily]]; to tipple.**
 ---
 #verb

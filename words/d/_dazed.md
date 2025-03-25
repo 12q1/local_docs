@@ -6,7 +6,7 @@
 ### Synonyms
 - [[b/_benumb|benumb]], [[c/_confuse|confuse]]
 #adjective
-- **In a state of shock or [[c/_confusion|confusion]].**
+- **In a state of [[s/_shock|shock]] or [[c/_confusion|confusion]].**
 - **Stunned.**
 ---
 ---

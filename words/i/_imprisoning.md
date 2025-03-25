@@ -1,7 +1,7 @@
 # Imprisoning
 ---
 #verb
-- **To put in or as [[i/_if|if]] in prison; [[c/_confine|confine]].**
+- **To [[p/_put|put]] in or as [[i/_if|if]] in [[p/_prison|prison]]; [[c/_confine|confine]].**
 ---
 ### Synonyms
 - [[g/_gaol|gaol]], [[j/_jail|jail]]

@@ -3,7 +3,7 @@
 #adverb
 - **([[m/_manner|manner]]) without [[a/_approximation|approximation]]; [[p/_precisely|precisely]].**
 	- _Example: He divided the coins exactly in half._
-- **([[f/_focus|focus]]) Used to provide [[e/_emphasis|emphasis]].**
+- **([[f/_focus|focus]]) Used to [[p/_provide|provide]] [[e/_emphasis|emphasis]].**
 	- _Example: He did it that way exactly to prove the point._
 ---
 ### Synonyms
@@ -11,7 +11,7 @@
 ### Antonyms
 - [[a/_approximately|approximately]]
 #interjection
-- **Signifies [[a/_agreement|agreement]] or recognition.**
+- **[[s/_signifies|Signifies]] [[a/_agreement|agreement]] or [[r/_recognition|recognition]].**
 	- _Example: So you're saying that we have only three days left? — Yes, exactly!_
 ---
 ---

@@ -1,6 +1,6 @@
 # Giggly
 ---
 #adjective
-- **Prone to [[g/_giggling|giggling]].**
+- **[[p/_prone|Prone]] to [[g/_giggling|giggling]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Archbishoprics
 ---
 #noun
-- **The rank or [[o/_office|office]] of an [[a/_archbishop|archbishop]]**
+- **The [[r/_rank|rank]] or [[o/_office|office]] of an [[a/_archbishop|archbishop]]**
 - **The [[j/_jurisdiction|jurisdiction]] of an [[a/_archbishop|archbishop]]; an [[a/_archdiocese|archdiocese]]**
 ---
 ### Synonyms

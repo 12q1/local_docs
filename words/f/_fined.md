@@ -1,9 +1,9 @@
 # Fined
 ---
 #verb
-- **To [[m/_make|make]] [[f/_finer|finer]], purer, or [[c/_cleaner|cleaner]]; to purify or [[c/_clarify|clarify]].**
+- **To [[m/_make|make]] [[f/_finer|finer]], [[p/_purer|purer]], or [[c/_cleaner|cleaner]]; to [[p/_purify|purify]] or [[c/_clarify|clarify]].**
 	- _Example: to fine gold_
-- **To [[b/_become|become]] [[f/_finer|finer]], purer, or [[c/_cleaner|cleaner]].**
+- **To [[b/_become|become]] [[f/_finer|finer]], [[p/_purer|purer]], or [[c/_cleaner|cleaner]].**
 - **To [[m/_make|make]] [[f/_finer|finer]], or [[l/_less|less]] [[c/_coarse|coarse]], as in [[b/_bulk|bulk]], texture, [[e/_etc|etc]].**
 	- _Example: to fine the soil_
 - **To [[c/_change|change]] by [[f/_fine|fine]] [[g/_gradations|gradations]].**
@@ -14,7 +14,7 @@
 ### Synonyms
 - [[c/_clarify|clarify]], [[p/_purify|purify]], [[r/_refine|refine]]
 #verb
-- **To [[i/_issue|issue]] a [[f/_fine|fine]] as punishment to (someone).**
+- **To [[i/_issue|issue]] a [[f/_fine|fine]] as [[p/_punishment|punishment]] to ([[s/_someone|someone]]).**
 	- _Example: She was fined a thousand dollars for littering, but she appealed._
 - **To [[p/_pay|pay]] a [[f/_fine|fine]].**
 ---

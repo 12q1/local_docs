@@ -1,12 +1,12 @@
 # Beneficial
 ---
 #noun
-- **Something that is [[b/_beneficial|beneficial]].**
+- **[[s/_something|Something]] that is [[b/_beneficial|beneficial]].**
 ---
 #adjective
-- **[[h/_helpful|Helpful]] or [[g/_good|good]] to something or someone.**
+- **[[h/_helpful|Helpful]] or [[g/_good|good]] to [[s/_something|something]] or [[s/_someone|someone]].**
 	- _Example: Recycling and reusing garbage can be beneficial to the environment._
-- **Relating to a [[b/_benefice|benefice]].**
+- **[[r/_relating|Relating]] to a [[b/_benefice|benefice]].**
 ---
 ### Synonyms
 - [[a/_advantageous|advantageous]], [[b/_behooveful|behooveful]], [[h/_helpful|helpful]], [[u/_useful|useful]], [[u/_usufructuary|usufructuary]], [[u/_usufructuous|usufructuous]]

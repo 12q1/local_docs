@@ -1,49 +1,49 @@
 # Blue
 ---
 #noun
-- **The [[c/_colour|colour]] of the [[c/_clear|clear]] sky or the [[d/_deep|deep]] sea, [[b/_between|between]] [[g/_green|green]] and violet in the visible spectrum, and [[o/_one|one]] of the primary [[a/_additive|additive]] [[c/_colours|colours]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting red and [[g/_green|green]] from white [[l/_light|light]] using [[m/_magenta|magenta]] and [[c/_cyan|cyan]] [[f/_filters|filters]]; or [[a/_any|any]] [[c/_colour|colour]] resembling this.**
+- **The [[c/_colour|colour]] of the [[c/_clear|clear]] [[s/_sky|sky]] or the [[d/_deep|deep]] [[s/_sea|sea]], [[b/_between|between]] [[g/_green|green]] and violet in the visible spectrum, and [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colours|colours]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting [[r/_red|red]] and [[g/_green|green]] from white [[l/_light|light]] using [[m/_magenta|magenta]] and [[c/_cyan|cyan]] [[f/_filters|filters]]; or [[a/_any|any]] [[c/_colour|colour]] [[r/_resembling|resembling]] this.**
 - **A [[b/_blue|blue]] [[d/_dye|dye]] or [[p/_pigment|pigment]].**
-- **[[a/_any|Any]] of several processes to protect [[m/_metal|metal]] [[a/_against|against]] rust.**
+- **[[a/_any|Any]] of [[s/_several|several]] [[p/_processes|processes]] to [[p/_protect|protect]] [[m/_metal|metal]] [[a/_against|against]] [[r/_rust|rust]].**
 - **[[b/_blue|Blue]] [[c/_clothing|clothing]]**
 	- _Example: The boys in blue marched to the pipers._
-- **(in the [[p/_plural|plural]]) A [[b/_blue|blue]] uniform. See [[b/_blues|blues]].**
+- **(in the [[p/_plural|plural]]) A [[b/_blue|blue]] uniform. [[s/_see|See]] [[b/_blues|blues]].**
 - **A [[m/_member|member]] of [[l/_law|law]] [[e/_enforcement|enforcement]]**
-- **The sky, [[l/_literally|literally]] or [[f/_figuratively|figuratively]].**
+- **The [[s/_sky|sky]], [[l/_literally|literally]] or [[f/_figuratively|figuratively]].**
 	- _Example: His request for leave came out of the blue._
 - **The [[o/_ocean|ocean]]; [[d/_deep|deep]] waters.**
-- **The [[f/_far|far]] [[d/_distance|distance]]; a remote or [[d/_distant|distant]] [[p/_place|place]].**
-- **[[a/_anything|Anything]] [[b/_blue|blue]], [[e/_especially|especially]] to [[d/_distinguish|distinguish]] it from similar [[o/_objects|objects]] [[d/_differing|differing]] [[o/_only|only]] in [[c/_color|color]].**
-- **A [[d/_dog|dog]] or [[c/_cat|cat]] with a slaty [[g/_gray|gray]] [[c/_coat|coat]].**
-- **[[o/_one|One]] of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of [[f/_five|five]] [[p/_points|points]].**
+- **The [[f/_far|far]] [[d/_distance|distance]]; a [[r/_remote|remote]] or [[d/_distant|distant]] [[p/_place|place]].**
+- **[[a/_anything|Anything]] [[b/_blue|blue]], [[e/_especially|especially]] to [[d/_distinguish|distinguish]] it from [[s/_similar|similar]] [[o/_objects|objects]] [[d/_differing|differing]] [[o/_only|only]] in [[c/_color|color]].**
+- **A [[d/_dog|dog]] or [[c/_cat|cat]] with a [[s/_slaty|slaty]] [[g/_gray|gray]] [[c/_coat|coat]].**
+- **[[o/_one|One]] of the [[c/_colour|colour]] [[b/_balls|balls]] used in [[s/_snooker|snooker]], with a value of [[f/_five|five]] [[p/_points|points]].**
 - **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the subfamily Polyommatinae in the [[f/_family|family]] [[l/_lycaenidae|Lycaenidae]], [[m/_most|most]] of which [[h/_have|have]] [[b/_blue|blue]] on their wings.**
 - **A [[b/_bluefish|bluefish]].**
 - **An [[a/_argument|argument]].**
-- **A [[l/_liquid|liquid]] with an [[i/_intense|intense]] [[b/_blue|blue]] [[c/_colour|colour]], [[a/_added|added]] to a [[l/_laundry|laundry]] wash to prevent [[y/_yellowing|yellowing]] of white [[c/_clothes|clothes]].**
+- **A [[l/_liquid|liquid]] with an [[i/_intense|intense]] [[b/_blue|blue]] [[c/_colour|colour]], [[a/_added|added]] to a [[l/_laundry|laundry]] wash to [[p/_prevent|prevent]] [[y/_yellowing|yellowing]] of white [[c/_clothes|clothes]].**
 - **A type of [[f/_firecracker|firecracker]].**
 - **A [[b/_bluestocking|bluestocking]].**
-- **[[o/_one|One]] of the three [[c/_color|color]] [[c/_charges|charges]] for quarks.**
+- **[[o/_one|One]] of the three [[c/_color|color]] [[c/_charges|charges]] for [[q/_quarks|quarks]].**
 ---
 #verb
 - **To [[m/_make|make]] or [[b/_become|become]] [[b/_blue|blue]].**
-- **To treat the surface of steel so that it is passivated [[c/_chemically|chemically]] and [[b/_becomes|becomes]] [[m/_more|more]] resistant to rust.**
+- **To treat the surface of steel [[s/_so|so]] that it is passivated [[c/_chemically|chemically]] and [[b/_becomes|becomes]] [[m/_more|more]] [[r/_resistant|resistant]] to [[r/_rust|rust]].**
 - **([[l/_laundry|laundry]]) To [[b/_brighten|brighten]] by treating with [[b/_blue|blue]] ([[l/_laundry|laundry]] [[a/_aid|aid]])**
 - **To spend ([[m/_money|money]]) [[e/_extravagantly|extravagantly]]; to [[b/_blow|blow]].**
 ---
 #adjective
 - **Of the [[c/_colour|colour]] [[b/_blue|blue]].**
 	- _Example: the deep blue sea_
-- **[[d/_depressed|Depressed]], [[m/_melancholic|melancholic]], sad.**
-- **[[p/_pale|Pale]], without redness or [[g/_glare|glare]]; said of a [[f/_flame|flame]].**
+- **[[d/_depressed|Depressed]], [[m/_melancholic|melancholic]], [[s/_sad|sad]].**
+- **[[p/_pale|Pale]], without [[r/_redness|redness]] or [[g/_glare|glare]]; [[s/_said|said]] of a [[f/_flame|flame]].**
 	- _Example: The candle burns blue._
-- **Supportive of, run by (a [[m/_member|member]] of), [[p/_pertaining|pertaining]] to, or [[d/_dominated|dominated]] by a [[p/_political|political]] [[p/_party|party]] represented by the [[c/_colour|colour]] [[b/_blue|blue]].**
-- **Of the [[h/_higher|higher]]-[[f/_frequency|frequency]] region of the [[p/_part|part]] of the [[e/_electromagnetic|electromagnetic]] spectrum which is relevant in the specific [[o/_observation|observation]].**
-- **(of steak) [[e/_extra|Extra]] rare; [[l/_left|left]] very raw and [[c/_cold|cold]].**
-- **(of a [[d/_dog|dog]] or [[c/_cat|cat]]) [[h/_having|Having]] a [[c/_coat|coat]] of [[f/_fur|fur]] of a slaty [[g/_gray|gray]] shade.**
-- **Severe or [[o/_overly|overly]] strict in [[m/_morals|morals]]; [[g/_gloomy|gloomy]].**
+- **Supportive of, [[r/_run|run]] by (a [[m/_member|member]] of), [[p/_pertaining|pertaining]] to, or [[d/_dominated|dominated]] by a [[p/_political|political]] [[p/_party|party]] [[r/_represented|represented]] by the [[c/_colour|colour]] [[b/_blue|blue]].**
+- **Of the [[h/_higher|higher]]-[[f/_frequency|frequency]] [[r/_region|region]] of the [[p/_part|part]] of the [[e/_electromagnetic|electromagnetic]] spectrum which is [[r/_relevant|relevant]] in the specific [[o/_observation|observation]].**
+- **(of steak) [[e/_extra|Extra]] [[r/_rare|rare]]; [[l/_left|left]] very [[r/_raw|raw]] and [[c/_cold|cold]].**
+- **(of a [[d/_dog|dog]] or [[c/_cat|cat]]) [[h/_having|Having]] a [[c/_coat|coat]] of [[f/_fur|fur]] of a [[s/_slaty|slaty]] [[g/_gray|gray]] [[s/_shade|shade]].**
+- **[[s/_severe|Severe]] or [[o/_overly|overly]] strict in [[m/_morals|morals]]; [[g/_gloomy|gloomy]].**
 	- _Example: blue and sour religionists;  blue laws_
 - **(of women) [[l/_literary|literary]]; bluestockinged.**
 - **[[h/_having|Having]] a [[c/_color|color]] [[c/_charge|charge]] of [[b/_blue|blue]].**
-- **([[e/_entertainment|entertainment]]) Risque or [[o/_obscene|obscene]]**
+- **([[e/_entertainment|entertainment]]) [[r/_risque|Risque]] or [[o/_obscene|obscene]]**
 	- _Example: His material is too blue for prime-time_
 ---
 ### Antonyms

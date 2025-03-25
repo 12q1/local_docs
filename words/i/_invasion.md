@@ -5,6 +5,6 @@
 - **The [[e/_entry|entry]] without [[c/_consent|consent]] of an [[i/_individual|individual]] or [[g/_group|group]] [[i/_into|into]] an [[a/_area|area]] where they are not wanted.**
 	- _Example: an invasion of bees_
 - **The spread of [[c/_cancer|cancer]] [[c/_cells|cells]], bacteries and such to the [[o/_organism|organism]].**
-- **The [[b/_breaching|breaching]] of the skin [[b/_barrier|barrier]].**
+- **The [[b/_breaching|breaching]] of the [[s/_skin|skin]] [[b/_barrier|barrier]].**
 ---
 ---

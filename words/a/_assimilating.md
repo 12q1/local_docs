@@ -7,10 +7,10 @@
 	- _Example: The teacher paused in her lecture to allow the students to assimilate what she had said._
 - **To [[a/_absorb|absorb]] (a [[p/_person|person]] or [[p/_people|people]]) [[i/_into|into]] a [[c/_community|community]] or [[c/_culture|culture]].**
 	- _Example: The aliens in the science-fiction film wanted to assimilate human beings into their own race._
-- **To [[c/_compare|compare]] to something similar.**
-- **To [[b/_bring|bring]] to a [[l/_likeness|likeness]] or to [[c/_conformity|conformity]]; to [[c/_cause|cause]] a resemblance [[b/_between|between]].**
-- **To [[b/_become|become]] similar.**
-- **To be [[i/_incorporated|incorporated]] or [[a/_absorbed|absorbed]] [[i/_into|into]] something.**
+- **To [[c/_compare|compare]] to [[s/_something|something]] [[s/_similar|similar]].**
+- **To [[b/_bring|bring]] to a [[l/_likeness|likeness]] or to [[c/_conformity|conformity]]; to [[c/_cause|cause]] a [[r/_resemblance|resemblance]] [[b/_between|between]].**
+- **To [[b/_become|become]] [[s/_similar|similar]].**
+- **To be [[i/_incorporated|incorporated]] or [[a/_absorbed|absorbed]] [[i/_into|into]] [[s/_something|something]].**
 ---
 ### Synonyms
 - [[i/_integrate|integrate]], [[p/_process|process]]

@@ -1,13 +1,13 @@
 # Heavenly
 ---
 #adjective
-- **Relating to the sky or [[o/_outer|outer]] space, regarded as the realm of the sun, [[m/_moon|moon]], [[p/_planets|planets]], and stars.**
+- **[[r/_relating|Relating]] to the [[s/_sky|sky]] or [[o/_outer|outer]] [[s/_space|space]], [[r/_regarded|regarded]] as the [[r/_realm|realm]] of the sun, [[m/_moon|moon]], [[p/_planets|planets]], and stars.**
 - **Of or [[p/_pertaining|pertaining]] to the [[h/_highest|highest]] [[d/_degree|degree]] of [[g/_glory|glory]].**
 ---
 ### Synonyms
 - [[c/_celest|celest]], [[h/_heavenly|heavenly]]
 #adjective
-- **Of or [[p/_pertaining|pertaining]] to the [[h/_heaven|heaven]] [[b/_believed|believed]] in by [[m/_many|many]] religions.**
+- **Of or [[p/_pertaining|pertaining]] to the [[h/_heaven|heaven]] [[b/_believed|believed]] in by [[m/_many|many]] [[r/_religions|religions]].**
 - **Of or [[p/_pertaining|pertaining]] to the [[k/_kingdom|kingdom]] of [[g/_god|God]]; [[d/_divine|divine]].**
 - **Strongly or sublimely [[b/_beautiful|beautiful]] or [[p/_pleasurable|pleasurable]].**
 ---

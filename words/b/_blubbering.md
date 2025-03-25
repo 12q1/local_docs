@@ -5,6 +5,6 @@
 - **To swell or [[d/_disfigure|disfigure]] (the [[f/_face|face]]) with weeping; to wet with tears.**
 ---
 #noun
-- **[[n/_noisy|Noisy]] sobbing**
+- **[[n/_noisy|Noisy]] [[s/_sobbing|sobbing]]**
 ---
 ---

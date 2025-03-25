@@ -1,6 +1,6 @@
 # Chorio
 ---
 #noun
-- **Short for chorioamnionitis.**
+- **[[s/_short|Short]] for chorioamnionitis.**
 ---
 ---

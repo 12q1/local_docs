@@ -7,7 +7,7 @@
 - **To [[f/_form|form]] a [[d/_debt|debt]] [[i/_into|into]] a stock [[c/_charged|charged]] with [[i/_interest|interest]].**
 ---
 #adjective
-- **[[h/_having|Having]] received [[f/_financial|financial]] support; [[p/_paid|paid]] for.**
-- **[[i/_invested|Invested]] in public [[f/_funds|funds]]; [[e/_existing|existing]] in the [[f/_form|form]] of [[b/_bonds|bonds]].**
+- **[[h/_having|Having]] [[r/_received|received]] [[f/_financial|financial]] support; [[p/_paid|paid]] for.**
+- **[[i/_invested|Invested]] in [[p/_public|public]] [[f/_funds|funds]]; [[e/_existing|existing]] in the [[f/_form|form]] of [[b/_bonds|bonds]].**
 ---
 ---

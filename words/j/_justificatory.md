@@ -1,6 +1,6 @@
 # Justificatory
 ---
 #adjective
-- **Providing [[j/_justification|justification]]**
+- **[[p/_providing|Providing]] [[j/_justification|justification]]**
 ---
 ---

@@ -8,7 +8,7 @@
 - **[[e/_encirclement|Encirclement]]**
 ---
 #adjective
-- **[[e/_enclosing|Enclosing]], skirting**
+- **[[e/_enclosing|Enclosing]], [[s/_skirting|skirting]]**
 	- _Example: She felt safe in her mother's encircling arms._
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #verb
 - **To [[i/_impart|impart]]**
-- **To share**
+- **To [[s/_share|share]]**
 ---
 ---

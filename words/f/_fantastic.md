@@ -4,11 +4,11 @@
 - **A [[f/_fanciful|fanciful]] or whimsical [[p/_person|person]].**
 ---
 #adjective
-- **[[e/_existing|Existing]] in or [[c/_constructed|constructed]] from [[f/_fantasy|fantasy]]; of or relating to [[f/_fantasy|fantasy]]; [[f/_fanciful|fanciful]].**
+- **[[e/_existing|Existing]] in or [[c/_constructed|constructed]] from [[f/_fantasy|fantasy]]; of or [[r/_relating|relating]] to [[f/_fantasy|fantasy]]; [[f/_fanciful|fanciful]].**
 	- _Example: He told fantastic stories of dragons and goblins._
-- **Not [[b/_believable|believable]]; [[i/_implausible|implausible]]; seemingly [[o/_only|only]] [[p/_possible|possible]] in [[f/_fantasy|fantasy]].**
+- **Not [[b/_believable|believable]]; [[i/_implausible|implausible]]; [[s/_seemingly|seemingly]] [[o/_only|only]] [[p/_possible|possible]] in [[f/_fantasy|fantasy]].**
 	- _Example: She entered the lab and stood gaping for a good ten minutes at the fantastic machinery at work all around her._
-- **Resembling [[f/_fantasies|fantasies]] in [[i/_irregularity|irregularity]], [[c/_caprice|caprice]], or [[e/_eccentricity|eccentricity]]; [[i/_irregular|irregular]]; [[g/_grotesque|grotesque]].**
+- **[[r/_resembling|Resembling]] [[f/_fantasies|fantasies]] in [[i/_irregularity|irregularity]], [[c/_caprice|caprice]], or [[e/_eccentricity|eccentricity]]; [[i/_irregular|irregular]]; [[g/_grotesque|grotesque]].**
 - **Wonderful; [[m/_marvelous|marvelous]]; [[e/_excellent|excellent]]; [[e/_extraordinarily|extraordinarily]] [[g/_good|good]] or [[g/_great|great]] (used [[e/_especially|especially]] as an [[i/_intensifier|intensifier]]).**
 	- _Example: "I had a simply fantastic vacation, and I can't wait to tell you all about it!"_
 ---

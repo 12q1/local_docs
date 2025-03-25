@@ -4,11 +4,11 @@
 - **[[o/_overly|Overly]] [[c/_confident|confident]]; [[a/_arrogant|arrogant]] and [[b/_boastful|boastful]].**
 ---
 #noun
-- **Used as a term of [[e/_endearment|endearment]], [[o/_originally|originally]] for a [[p/_person|person]] of [[e/_either|either]] sex, but [[l/_later|later]] primarily for a [[m/_man|man]].**
+- **Used as a term of [[e/_endearment|endearment]], [[o/_originally|originally]] for a [[p/_person|person]] of [[e/_either|either]] [[s/_sex|sex]], but [[l/_later|later]] [[p/_primarily|primarily]] for a [[m/_man|man]].**
 ---
 #noun
 - **A ([[f/_familiar|familiar]] [[n/_name|name]] for a) [[c/_cockatoo|cockatoo]].**
-- **Short for [[c/_cockatoo|cockatoo]] [[f/_farmer|farmer]]; (by [[e/_extension|extension]]) [[a/_any|any]] [[f/_farmer|farmer]] or [[o/_owner|owner]] of rural [[l/_land|land]].**
+- **[[s/_short|Short]] for [[c/_cockatoo|cockatoo]] [[f/_farmer|farmer]]; (by [[e/_extension|extension]]) [[a/_any|any]] [[f/_farmer|farmer]] or [[o/_owner|owner]] of [[r/_rural|rural]] [[l/_land|land]].**
 ---
 ### Synonyms
 - [[c/_cockatoo|cockatoo]], [[c/_crofter|crofter]]

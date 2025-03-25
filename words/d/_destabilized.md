@@ -1,7 +1,7 @@
 # Destabilized
 ---
 #verb
-- **To [[m/_make|make]] something unstable.**
+- **To [[m/_make|make]] [[s/_something|something]] unstable.**
 - **To [[b/_become|become]] unstable.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Froufrou
 ---
 #noun
-- **A rustling sound, as of silk [[f/_fabric|fabric]].**
+- **A [[r/_rustling|rustling]] [[s/_sound|sound]], as of [[s/_silk|silk]] [[f/_fabric|fabric]].**
 ---
 ---

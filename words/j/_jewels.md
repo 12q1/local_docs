@@ -1,7 +1,7 @@
 # Jewels
 ---
 #noun
-- **A [[p/_precious|precious]] or semi-[[p/_precious|precious]] stone; [[g/_gem|gem]], [[g/_gemstone|gemstone]].**
+- **A [[p/_precious|precious]] or [[s/_semi|semi]]-[[p/_precious|precious]] stone; [[g/_gem|gem]], [[g/_gemstone|gemstone]].**
 - **A valuable [[o/_object|object]] used for [[p/_personal|personal]] [[o/_ornamentation|ornamentation]], [[e/_especially|especially]] [[o/_one|one]] [[m/_made|made]] of [[p/_precious|precious]] [[m/_metals|metals]] and stones; a [[p/_piece|piece]] of [[j/_jewellery|jewellery]].**
 - **[[a/_anything|Anything]] [[p/_precious|precious]] or valuable.**
 	- _Example: Galveston was the jewel of Texas prior to the hurricane._

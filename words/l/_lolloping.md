@@ -5,6 +5,6 @@
 - **To [[a/_act|act]] [[l/_lazily|lazily]], [[l/_loll|loll]], [[l/_lie|lie]] [[a/_around|around]].**
 ---
 #noun
-- **The [[m/_motion|motion]] of something that [[l/_lollops|lollops]].**
+- **The [[m/_motion|motion]] of [[s/_something|something]] that [[l/_lollops|lollops]].**
 ---
 ---

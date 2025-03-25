@@ -9,9 +9,9 @@
 - **To [[m/_make|make]] [[i/_illegitimate|illegitimate]].**
 ---
 #adjective
-- **Not [[c/_conforming|conforming]] to [[k/_known|known]] principles, or [[e/_established|established]] or [[a/_accepted|accepted]] rules or standards.**
+- **Not [[c/_conforming|conforming]] to [[k/_known|known]] [[p/_principles|principles]], or [[e/_established|established]] or [[a/_accepted|accepted]] [[r/_rules|rules]] or standards.**
 - **Not in [[a/_accordance|accordance]] with the [[l/_law|law]].**
-- **Not sanctioned by [[m/_marriage|marriage]].**
+- **Not [[s/_sanctioned|sanctioned]] by [[m/_marriage|marriage]].**
 - **Not [[c/_correctly|correctly]] [[d/_deduced|deduced]].**
 	- _Example: an illegitimate inference_
 - **Not [[a/_authorized|authorized]] by [[g/_good|good]] usage; not [[g/_genuine|genuine]].**

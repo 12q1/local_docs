@@ -1,8 +1,8 @@
 # Candour
 ---
 #noun
-- **Whiteness; [[b/_brilliance|brilliance]]; purity.**
-- **The state of [[b/_being|being]] sincere and [[o/_open|open]] in speech; [[h/_honesty|honesty]] in [[e/_expression|expression]].**
+- **Whiteness; [[b/_brilliance|brilliance]]; [[p/_purity|purity]].**
+- **The state of [[b/_being|being]] [[s/_sincere|sincere]] and [[o/_open|open]] in speech; [[h/_honesty|honesty]] in [[e/_expression|expression]].**
 - **[[i/_impartiality|Impartiality]].**
 ---
 ### Synonyms

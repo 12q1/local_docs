@@ -5,6 +5,6 @@
 	- _Example: He bade me come in._
 - **To [[i/_invite|invite]]; to summon.**
 	- _Example: She was bidden to the wedding._
-- **To utter a [[g/_greeting|greeting]] or salutation.**
+- **To utter a [[g/_greeting|greeting]] or [[s/_salutation|salutation]].**
 ---
 ---

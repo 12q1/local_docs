@@ -1,6 +1,6 @@
 # Defogger
 ---
 #noun
-- **Something or someone that [[d/_defogs|defogs]].**
+- **[[s/_something|Something]] or [[s/_someone|someone]] that [[d/_defogs|defogs]].**
 ---
 ---

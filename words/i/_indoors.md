@@ -1,7 +1,7 @@
 # Indoors
 ---
 #noun
-- **The [[i/_interior|interior]] of a [[b/_building|building]]; the space [[i/_inside|inside]] [[b/_buildings|buildings]] [[g/_generally|generally]].**
+- **The [[i/_interior|interior]] of a [[b/_building|building]]; the [[s/_space|space]] [[i/_inside|inside]] [[b/_buildings|buildings]] [[g/_generally|generally]].**
 	- _Example: I prefer the indoors to the outdoors._
 ---
 #adverb

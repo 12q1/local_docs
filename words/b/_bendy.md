@@ -1,7 +1,7 @@
 # Bendy
 ---
 #noun
-- **A [[f/_field|field]] [[d/_divided|divided]] [[d/_diagonally|diagonally]] [[i/_into|into]] several [[b/_bends|bends]], varying in [[m/_metal|metal]] and [[c/_colour|colour]].**
+- **A [[f/_field|field]] [[d/_divided|divided]] [[d/_diagonally|diagonally]] [[i/_into|into]] [[s/_several|several]] [[b/_bends|bends]], varying in [[m/_metal|metal]] and [[c/_colour|colour]].**
 - **A [[b/_bendy|bendy]] [[b/_bus|bus]].**
 ---
 #adjective

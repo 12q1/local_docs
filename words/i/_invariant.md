@@ -1,7 +1,7 @@
 # Invariant
 ---
 #noun
-- **An [[i/_invariant|invariant]] quantity, [[f/_function|function]] [[e/_etc|etc]].**
+- **An [[i/_invariant|invariant]] [[q/_quantity|quantity]], [[f/_function|function]] [[e/_etc|etc]].**
 ---
 #adjective
 - **Not varying; [[c/_constant|constant]]**

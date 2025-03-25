@@ -1,7 +1,7 @@
 # Cubital
 ---
 #noun
-- **A sleeve [[c/_covering|covering]] the [[a/_arm|arm]] from the [[e/_elbow|elbow]] to the [[h/_hand|hand]].**
+- **A [[s/_sleeve|sleeve]] [[c/_covering|covering]] the [[a/_arm|arm]] from the [[e/_elbow|elbow]] to the [[h/_hand|hand]].**
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to the [[c/_cubit|cubit]] or ulna.**

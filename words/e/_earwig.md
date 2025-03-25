@@ -1,8 +1,8 @@
 # Earwig
 ---
 #noun
-- **[[a/_any|Any]] of various [[i/_insects|insects]] of the [[o/_order|order]] [[d/_dermaptera|Dermaptera]] that [[h/_have|have]] [[e/_elongated|elongated]] [[b/_bodies|bodies]], [[l/_large|large]] [[m/_membranous|membranous]] wings [[f/_folded|folded]] underneath short [[l/_leathery|leathery]] [[f/_forewings|forewings]] and a [[p/_pair|pair]] of [[l/_large|large]] [[p/_pincers|pincers]] protruding from the rear of the [[a/_abdomen|abdomen]].**
-- **[[o/_one|One]] who whispers [[i/_insinuations|insinuations]]; a secret [[c/_counsellor|counsellor]].**
+- **[[a/_any|Any]] of various [[i/_insects|insects]] of the [[o/_order|order]] [[d/_dermaptera|Dermaptera]] that [[h/_have|have]] [[e/_elongated|elongated]] [[b/_bodies|bodies]], [[l/_large|large]] [[m/_membranous|membranous]] wings [[f/_folded|folded]] underneath [[s/_short|short]] [[l/_leathery|leathery]] [[f/_forewings|forewings]] and a [[p/_pair|pair]] of [[l/_large|large]] [[p/_pincers|pincers]] [[p/_protruding|protruding]] from the [[r/_rear|rear]] of the [[a/_abdomen|abdomen]].**
+- **[[o/_one|One]] who whispers [[i/_insinuations|insinuations]]; a [[s/_secret|secret]] [[c/_counsellor|counsellor]].**
 - **A [[f/_flatterer|flatterer]].**
 ---
 ### Synonyms

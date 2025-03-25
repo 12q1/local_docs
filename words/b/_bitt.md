@@ -5,7 +5,7 @@
 - **A [[b/_bollard|bollard]].**
 ---
 #verb
-- **To put round the [[b/_bitts|bitts]].**
+- **To [[p/_put|put]] [[r/_round|round]] the [[b/_bitts|bitts]].**
 	- _Example: to bitt the cable, in order to fasten it or to slacken it gradually, which is called veering away_
 ---
 ---

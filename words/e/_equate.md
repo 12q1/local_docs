@@ -1,11 +1,11 @@
 # Equate
 ---
 #noun
-- **A statement in [[a/_assembly|assembly]] [[l/_language|language]] that [[d/_defines|defines]] a symbol [[h/_having|having]] a [[p/_particular|particular]] value.**
+- **A statement in [[a/_assembly|assembly]] [[l/_language|language]] that [[d/_defines|defines]] a [[s/_symbol|symbol]] [[h/_having|having]] a [[p/_particular|particular]] value.**
 ---
 #verb
 - **To [[c/_consider|consider]] [[e/_equal|equal]] or [[e/_equivalent|equivalent]].**
-- **To set as [[e/_equal|equal]].**
+- **To [[s/_set|set]] as [[e/_equal|equal]].**
 ---
 ### Antonyms
 - [[d/_differentiate|differentiate]]

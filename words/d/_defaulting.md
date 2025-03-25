@@ -10,6 +10,6 @@
 - **To [[f/_fail|fail]] to [[a/_appear|appear]] and [[a/_answer|answer]] a summons and [[c/_complaint|complaint]].**
 ---
 #noun
-- **The [[a/_act|act]] or result of [[b/_being|being]] [[d/_defaulted|defaulted]], [[e/_especially|especially]] a [[f/_failure|failure]] to [[m/_meet|meet]] a [[f/_financial|financial]] [[o/_obligation|obligation]].**
+- **The [[a/_act|act]] or [[r/_result|result]] of [[b/_being|being]] [[d/_defaulted|defaulted]], [[e/_especially|especially]] a [[f/_failure|failure]] to [[m/_meet|meet]] a [[f/_financial|financial]] [[o/_obligation|obligation]].**
 ---
 ---

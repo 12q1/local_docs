@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Not [[a/_approved|approved]] by [[l/_law|law]], but not [[i/_invalid|invalid]].**
-- **[[b/_breaking|Breaking]] social [[n/_norms|norms]].**
+- **[[b/_breaking|Breaking]] [[s/_social|social]] [[n/_norms|norms]].**
 - **Unlawful.**
 ---
 ### Synonyms

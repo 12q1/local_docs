@@ -9,7 +9,7 @@
 	- _Example: She is a great admirer of hairy chests._
 - **[[d/_difficult|Difficult]], [[c/_complex|complex]], [[i/_intricate|intricate]], or [[i/_intimidating|intimidating]].**
 	- _Example: It’s a hairy problem, and will probably take several weeks to sort out._
-- **[[c/_causing|Causing]] [[a/_anxiety|anxiety]] or [[f/_fright|fright]]; terrifying, scary.**
+- **[[c/_causing|Causing]] [[a/_anxiety|anxiety]] or [[f/_fright|fright]]; terrifying, [[s/_scary|scary]].**
 ---
 ### Synonyms
 - [[f/_furry|furry]], [[f/_furry|furry]], [[h/_hirsute|hirsute]], [[f/_furry|furry]], [[h/_hairful|hairful]], [[h/_hirsute|hirsute]]

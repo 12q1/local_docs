@@ -8,9 +8,9 @@
 - **To wait for.**
 	- _Example: I await your reply to my letter._
 - **To [[e/_expect|expect]].**
-- **To be in store for; to be ready or in waiting for.**
+- **To be in store for; to be [[r/_ready|ready]] or in waiting for.**
 	- _Example: Glorious rewards await the good in heaven; eternal suffering awaits mortal sinners in hell._
-- **To serve or [[a/_attend|attend]]; to wait on, wait upon.**
+- **To [[s/_serve|serve]] or [[a/_attend|attend]]; to wait on, wait upon.**
 - **To watch, [[o/_observe|observe]].**
 - **To wait; to stay in waiting.**
 ---

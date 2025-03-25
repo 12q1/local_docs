@@ -6,7 +6,7 @@
 - **A [[l/_large|large]] vat used in [[d/_dressing|dressing]] [[o/_ores|ores]].**
 ---
 #verb
-- **To set in a [[k/_keeve|keeve]], or tub, for [[f/_fermentation|fermentation]].**
+- **To [[s/_set|set]] in a [[k/_keeve|keeve]], or tub, for [[f/_fermentation|fermentation]].**
 - **To [[h/_heave|heave]]; to tilt, as a [[c/_cart|cart]].**
 ---
 ---

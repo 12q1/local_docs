@@ -10,6 +10,6 @@
 ### Antonyms
 - [[u/_unclench|unclench]]
 #noun
-- **The [[a/_act|act]] by which something (a [[f/_fist|fist]], a [[j/_jaw|jaw]], [[e/_etc|etc]].) is [[c/_clenched|clenched]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] (a [[f/_fist|fist]], a [[j/_jaw|jaw]], [[e/_etc|etc]].) is [[c/_clenched|clenched]].**
 ---
 ---

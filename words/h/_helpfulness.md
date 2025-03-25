@@ -1,6 +1,6 @@
 # Helpfulness
 ---
 #noun
-- **The quality of [[b/_being|being]] [[h/_helpful|helpful]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[h/_helpful|helpful]].**
 ---
 ---

@@ -6,7 +6,7 @@
 ### Synonyms
 - [[h/_hair-slide|hair-slide]], [[h/_hairclip|hairclip]], [[h/_hairslide|hairslide]]
 #verb
-- **To put ([[h/_hair|hair]]) [[i/_into|into]] a [[b/_barrette|barrette]].**
+- **To [[p/_put|put]] ([[h/_hair|hair]]) [[i/_into|into]] a [[b/_barrette|barrette]].**
 ---
 #noun
 - **The [[l/_lower|lower]] [[p/_part|part]] of the [[e/_epimeron|epimeron]].**

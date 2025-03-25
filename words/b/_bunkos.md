@@ -1,6 +1,6 @@
 # Bunkos
 ---
 #verb
-- **To swindle (someone).**
+- **To swindle ([[s/_someone|someone]]).**
 ---
 ---

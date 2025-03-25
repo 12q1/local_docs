@@ -1,18 +1,18 @@
 # Feeling
 ---
 #verb
-- **([[h/_heading|heading]]) To use or [[e/_experience|experience]] the sense of touch.**
-- **([[h/_heading|heading]]) To sense or think [[e/_emotionally|emotionally]] or judgmentally.**
+- **([[h/_heading|heading]]) To use or [[e/_experience|experience]] the [[s/_sense|sense]] of touch.**
+- **([[h/_heading|heading]]) To [[s/_sense|sense]] or think [[e/_emotionally|emotionally]] or judgmentally.**
 - **To be or [[b/_become|become]] [[a/_aware|aware]] of.**
 - **To [[e/_experience|experience]] the [[c/_consequences|consequences]] of.**
 	- _Example: Feel my wrath!_
-- **To seem (through touch or [[o/_otherwise|otherwise]]).**
+- **To [[s/_seem|seem]] (through touch or [[o/_otherwise|otherwise]]).**
 	- _Example: It looks like wood, but it feels more like plastic._
 - **To understand.**
 	- _Example: I don't want you back here, ya feel me?_
 ---
 #noun
-- **Sensation, [[p/_particularly|particularly]] through the skin.**
+- **[[s/_sensation|Sensation]], [[p/_particularly|particularly]] through the [[s/_skin|skin]].**
 	- _Example: The wool on my arm produced a strange feeling._
 - **[[e/_emotion|Emotion]]; [[i/_impression|impression]].**
 	- _Example: The house gave me a feeling of dread._
@@ -25,9 +25,9 @@
 - **An [[o/_opinion|opinion]], an [[a/_attitude|attitude]].**
 ---
 #adjective
-- **[[e/_emotionally|Emotionally]] sensitive.**
+- **[[e/_emotionally|Emotionally]] [[s/_sensitive|sensitive]].**
 	- _Example: Despite the rough voice, the coach is surprisingly feeling._
-- **[[e/_expressive|Expressive]] of [[g/_great|great]] sensibility; [[a/_attended|attended]] by, or [[e/_evincing|evincing]], sensibility.**
+- **[[e/_expressive|Expressive]] of [[g/_great|great]] [[s/_sensibility|sensibility]]; [[a/_attended|attended]] by, or [[e/_evincing|evincing]], [[s/_sensibility|sensibility]].**
 	- _Example: He made a feeling representation of his wrongs._
 ---
 ---

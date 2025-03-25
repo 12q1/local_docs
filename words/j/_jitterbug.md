@@ -1,7 +1,7 @@
 # Jitterbug
 ---
 #noun
-- **A [[o/_one|one]]-stringed [[i/_instrument|instrument]] ([[m/_monochord|monochord]]) that [[c/_consists|consists]] of a wire string [[a/_attached|attached]] to something solid [[l/_like|like]] the side of a [[h/_house|house]], and [[p/_played|played]] with a [[p/_piece|piece]] of [[m/_metal|metal]] or [[g/_glass|glass]], [[o/_originating|originating]] in the [[a/_african|African]] [[a/_american|American]] traditional [[m/_music|music]] of [[m/_mississippi|Mississippi]] in the United States.**
+- **A [[o/_one|one]]-stringed [[i/_instrument|instrument]] ([[m/_monochord|monochord]]) that [[c/_consists|consists]] of a wire string [[a/_attached|attached]] to [[s/_something|something]] [[s/_solid|solid]] [[l/_like|like]] the [[s/_side|side]] of a [[h/_house|house]], and [[p/_played|played]] with a [[p/_piece|piece]] of [[m/_metal|metal]] or [[g/_glass|glass]], [[o/_originating|originating]] in the [[a/_african|African]] [[a/_american|American]] traditional [[m/_music|music]] of [[m/_mississippi|Mississippi]] in the United States.**
 ---
 ### Synonyms
 - [[j/_jitterbug|jitterbug]]

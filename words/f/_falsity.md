@@ -1,7 +1,7 @@
 # Falsity
 ---
 #noun
-- **Something that is [[f/_false|false]]; an untrue [[a/_assertion|assertion]].**
+- **[[s/_something|Something]] that is [[f/_false|false]]; an untrue [[a/_assertion|assertion]].**
 	- _Example: The belief that the world is flat is a falsity._
 - **The [[c/_characteristic|characteristic]] of [[b/_being|being]] untrue.**
 	- _Example: The falsity of that statement is easily proven._

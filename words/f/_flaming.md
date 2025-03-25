@@ -1,9 +1,9 @@
 # Flaming
 ---
 #verb
-- **To produce [[f/_flames|flames]]; to [[b/_burn|burn]] with a [[f/_flame|flame]] or [[b/_blaze|blaze]].**
+- **To [[p/_produce|produce]] [[f/_flames|flames]]; to [[b/_burn|burn]] with a [[f/_flame|flame]] or [[b/_blaze|blaze]].**
 - **To [[b/_burst|burst]] [[f/_forth|forth]] [[l/_like|like]] [[f/_flame|flame]]; to [[b/_break|break]] [[o/_out|out]] in violence of [[p/_passion|passion]]; to be [[k/_kindled|kindled]] with zeal or [[a/_ardour|ardour]].**
-- **To [[p/_post|post]] a [[d/_destructively|destructively]] [[c/_critical|critical]] or [[a/_abusive|abusive]] [[m/_message|message]] (to somebody).**
+- **To [[p/_post|post]] a [[d/_destructively|destructively]] [[c/_critical|critical]] or [[a/_abusive|abusive]] [[m/_message|message]] (to [[s/_somebody|somebody]]).**
 	- _Example: I flamed him for spamming in my favourite newsgroup._
 ---
 #noun

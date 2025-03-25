@@ -1,10 +1,10 @@
 # Goodbyes
 ---
 #noun
-- **An utterance of [[g/_goodbye|goodbye]], the wishing of [[f/_farewell|farewell]] to someone.**
+- **An utterance of [[g/_goodbye|goodbye]], the wishing of [[f/_farewell|farewell]] to [[s/_someone|someone]].**
 	- _Example: They made their good-byes._
 ---
 #verb
-- **To say [[g/_goodbye|goodbye]]; to wish somebody [[f/_farewell|farewell]] on [[p/_parting|parting]].**
+- **To [[s/_say|say]] [[g/_goodbye|goodbye]]; to wish [[s/_somebody|somebody]] [[f/_farewell|farewell]] on [[p/_parting|parting]].**
 ---
 ---

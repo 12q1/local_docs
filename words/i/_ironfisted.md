@@ -1,6 +1,6 @@
 # Ironfisted
 ---
 #adjective
-- **[[c/_characterized|Characterized]] by ruthless [[c/_control|control]]**
+- **[[c/_characterized|Characterized]] by [[r/_ruthless|ruthless]] [[c/_control|control]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Juke
 ---
 #noun
-- **A roadside [[c/_cafe|cafe]] or [[b/_bar|bar]], [[e/_especially|especially]] [[o/_one|one]] with [[d/_dancing|dancing]] and sometimes prostitution.**
+- **A [[r/_roadside|roadside]] [[c/_cafe|cafe]] or [[b/_bar|bar]], [[e/_especially|especially]] [[o/_one|one]] with [[d/_dancing|dancing]] and [[s/_sometimes|sometimes]] [[p/_prostitution|prostitution]].**
 ---
 ### Synonyms
 - [[b/_barrelhouse|barrelhouse]]

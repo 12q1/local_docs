@@ -13,6 +13,6 @@
 ### Antonyms
 - [[o/_outgoing|outgoing]]
 #interjection
-- **A warning that something is [[c/_coming|coming]] towards [[y/_you|you]]; [[e/_especially|especially]] [[e/_enemy|enemy]] [[a/_artillery|artillery]] [[f/_fire|fire]]**
+- **A warning that [[s/_something|something]] is [[c/_coming|coming]] towards [[y/_you|you]]; [[e/_especially|especially]] [[e/_enemy|enemy]] [[a/_artillery|artillery]] [[f/_fire|fire]]**
 ---
 ---

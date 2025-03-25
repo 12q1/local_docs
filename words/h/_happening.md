@@ -13,7 +13,7 @@
 #adjective
 - **(of a [[p/_place|place]]) [[b/_busy|Busy]], [[l/_lively|lively]]; vibrant, [[d/_dynamic|dynamic]]; [[f/_fashionable|fashionable]].**
 	- _Example: This is a happening place tonight!_
-- **(of a [[p/_person|person]] or product) Trendy, up-to-the-[[m/_minute|minute]].**
+- **(of a [[p/_person|person]] or [[p/_product|product]]) Trendy, up-to-the-[[m/_minute|minute]].**
 	- _Example: He is a real happening guy._
 ---
 ---

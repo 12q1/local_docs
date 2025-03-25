@@ -3,9 +3,9 @@
 #verb
 - **(ditransitive) To [[o/_obtain|obtain]]; to [[a/_acquire|acquire]].**
 	- _Example: I'm going to get a computer tomorrow from the discount store._
-- **To receive.**
+- **To [[r/_receive|receive]].**
 	- _Example: He got a severe reprimand for that._
-- **(in a [[p/_perfect|perfect]] [[c/_construction|construction]], with [[p/_present|present]]-tense [[m/_meaning|meaning]]) To [[h/_have|have]]. See usage [[n/_notes|notes]].**
+- **(in a [[p/_perfect|perfect]] [[c/_construction|construction]], with [[p/_present|present]]-tense [[m/_meaning|meaning]]) To [[h/_have|have]]. [[s/_see|See]] usage [[n/_notes|notes]].**
 	- _Example: I've got a concert ticket for you._
 - **To [[f/_fetch|fetch]], [[b/_bring|bring]], take.**
 	- _Example: Can you get my bag from the living-room, please?_
@@ -19,21 +19,21 @@
 	- _Example: I got him to his room._
 - **To [[c/_cause|cause]] to be in a [[c/_certain|certain]] status or [[p/_position|position]].**
 	- _Example: Get him here at once._
-- **(with various [[p/_prepositions|prepositions]], such as [[i/_into|into]], [[o/_over|over]], or [[b/_behind|behind]]; for specific [[i/_idiomatic|idiomatic]] senses see [[i/_individual|individual]] [[e/_entries|entries]] [[g/_get|get]] [[i/_into|into]], [[g/_get|get]] [[o/_over|over]], [[e/_etc|etc]].) To [[a/_adopt|adopt]], [[a/_assume|assume]], [[a/_arrive|arrive]] at, or progress towards (a [[c/_certain|certain]] [[p/_position|position]], [[l/_location|location]], state).**
+- **(with various [[p/_prepositions|prepositions]], such as [[i/_into|into]], [[o/_over|over]], or [[b/_behind|behind]]; for specific [[i/_idiomatic|idiomatic]] [[s/_senses|senses]] [[s/_see|see]] [[i/_individual|individual]] [[e/_entries|entries]] [[g/_get|get]] [[i/_into|into]], [[g/_get|get]] [[o/_over|over]], [[e/_etc|etc]].) To [[a/_adopt|adopt]], [[a/_assume|assume]], [[a/_arrive|arrive]] at, or [[p/_progress|progress]] towards (a [[c/_certain|certain]] [[p/_position|position]], [[l/_location|location]], state).**
 	- _Example: I'm getting into a muddle._
 - **To [[c/_cover|cover]] (a [[c/_certain|certain]] [[d/_distance|distance]]) while travelling.**
 	- _Example: to get a mile_
-- **To [[b/_begin|begin]] ([[d/_doing|doing]] something or to [[d/_do|do]] something).**
+- **To [[b/_begin|begin]] ([[d/_doing|doing]] [[s/_something|something]] or to [[d/_do|do]] [[s/_something|something]]).**
 	- _Example: After lunch we got chatting._
-- **To take or [[c/_catch|catch]] (a scheduled transportation service).**
+- **To take or [[c/_catch|catch]] (a [[s/_scheduled|scheduled]] transportation [[s/_service|service]]).**
 	- _Example: I normally get the 7:45 train._
-- **To respond to (a telephone [[c/_call|call]], a [[d/_doorbell|doorbell]], [[e/_etc|etc]]).**
+- **To [[r/_respond|respond]] to (a telephone [[c/_call|call]], a [[d/_doorbell|doorbell]], [[e/_etc|etc]]).**
 	- _Example: Can you get that call, please? I'm busy._
-- **([[f/_followed|followed]] by [[i/_infinitive|infinitive]]) To be [[a/_able|able]], be [[p/_permitted|permitted]], or [[h/_have|have]] the [[o/_opportunity|opportunity]] (to [[d/_do|do]] something [[d/_desirable|desirable]] or [[i/_ironically|ironically]] [[i/_implied|implied]] to be [[d/_desirable|desirable]]).**
+- **([[f/_followed|followed]] by [[i/_infinitive|infinitive]]) To be [[a/_able|able]], be [[p/_permitted|permitted]], or [[h/_have|have]] the [[o/_opportunity|opportunity]] (to [[d/_do|do]] [[s/_something|something]] [[d/_desirable|desirable]] or [[i/_ironically|ironically]] [[i/_implied|implied]] to be [[d/_desirable|desirable]]).**
 	- _Example: Great. I get to clean the toilets today._
 - **To understand. ([[c/_compare|compare]] [[g/_get|get]] it)**
 	- _Example: I don't get what you mean by "fun". This place sucks!_
-- **To be told; be the recipient of (a question, [[c/_comparison|comparison]], [[o/_opinion|opinion]], [[e/_etc|etc]].).**
+- **To be told; be the [[r/_recipient|recipient]] of (a [[q/_question|question]], [[c/_comparison|comparison]], [[o/_opinion|opinion]], [[e/_etc|etc]].).**
 	- _Example: "You look just like Helen Mirren." / "I get that a lot."_
 - **To be. Used to [[f/_form|form]] the [[p/_passive|passive]] of verbs.**
 	- _Example: He got bitten by a dog._
@@ -45,21 +45,21 @@
 	- _Example: That question's really got me._
 - **To [[f/_find|find]] as an [[a/_answer|answer]].**
 	- _Example: What did you get for question four?_
-- **To [[b/_bring|bring]] to reckoning; to [[c/_catch|catch]] (as a [[c/_criminal|criminal]]); to [[e/_effect|effect]] retribution.**
+- **To [[b/_bring|bring]] to [[r/_reckoning|reckoning]]; to [[c/_catch|catch]] (as a [[c/_criminal|criminal]]); to [[e/_effect|effect]] [[r/_retribution|retribution]].**
 	- _Example: I'm gonna get him for that._
 - **To [[h/_hear|hear]] [[c/_completely|completely]]; [[c/_catch|catch]].**
 	- _Example: Sorry, I didn't get that. Could you repeat it?_
 - **To [[g/_getter|getter]].**
 	- _Example: I put the getter into the container to get the gases._
 - **To [[b/_beget|beget]] (of a [[f/_father|father]]).**
-- **To [[l/_learn|learn]]; to [[c/_commit|commit]] to [[m/_memory|memory]]; to [[m/_memorize|memorize]]; sometimes with [[o/_out|out]].**
+- **To [[l/_learn|learn]]; to [[c/_commit|commit]] to [[m/_memory|memory]]; to [[m/_memorize|memorize]]; [[s/_sometimes|sometimes]] with [[o/_out|out]].**
 	- _Example: to get a lesson;  to get out one's Greek lesson_
-- **Used with a [[p/_personal|personal]] pronoun to [[i/_indicate|indicate]] that someone is [[b/_being|being]] [[p/_pretentious|pretentious]] or [[g/_grandiose|grandiose]].**
+- **Used with a [[p/_personal|personal]] [[p/_pronoun|pronoun]] to [[i/_indicate|indicate]] that [[s/_someone|someone]] is [[b/_being|being]] [[p/_pretentious|pretentious]] or [[g/_grandiose|grandiose]].**
 	- _Example: Get her with her new hairdo._
-- **To [[g/_go|go]], to [[l/_leave|leave]]; to scram.**
+- **To [[g/_go|go]], to [[l/_leave|leave]]; to [[s/_scram|scram]].**
 - **To [[k/_kill|kill]].**
 	- _Example: They’re coming to get you, Barbara._
-- **To [[m/_make|make]] [[a/_acquisitions|acquisitions]]; to [[g/_gain|gain]]; to profit.**
+- **To [[m/_make|make]] [[a/_acquisitions|acquisitions]]; to [[g/_gain|gain]]; to [[p/_profit|profit]].**
 - **To [[m/_measure|measure]].**
 	- _Example: Did you get her temperature?_
 ---

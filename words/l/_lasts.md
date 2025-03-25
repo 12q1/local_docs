@@ -12,16 +12,16 @@
 ### Antonyms
 - [[d/_disintegrate|disintegrate]], [[d/_dissipate|dissipate]]
 #noun
-- **A tool for shaping or [[p/_preserving|preserving]] the shape of shoes.**
+- **A tool for [[s/_shaping|shaping]] or [[p/_preserving|preserving]] the [[s/_shape|shape]] of [[s/_shoes|shoes]].**
 ---
 #verb
-- **To shape with a [[l/_last|last]]; to [[f/_fasten|fasten]] or [[f/_fit|fit]] to a [[l/_last|last]]; to [[p/_place|place]] smoothly on a [[l/_last|last]].**
+- **To [[s/_shape|shape]] with a [[l/_last|last]]; to [[f/_fasten|fasten]] or [[f/_fit|fit]] to a [[l/_last|last]]; to [[p/_place|place]] [[s/_smoothly|smoothly]] on a [[l/_last|last]].**
 	- _Example: to last a boot_
 ---
 #noun
 - **A [[b/_burden|burden]]; [[l/_load|load]]; a [[c/_cargo|cargo]]; [[f/_freight|freight]].**
-- **A [[m/_measure|measure]] of weight or quantity, varying in [[d/_designation|designation]] [[d/_depending|depending]] on the [[g/_goods|goods]] [[c/_concerned|concerned]].**
-- **An [[o/_old|old]] [[e/_english|English]] (and [[d/_dutch|Dutch]]) [[m/_measure|measure]] of the [[c/_carrying|carrying]] [[c/_capacity|capacity]] of a ship, [[e/_equal|equal]] to two tons.**
-- **A [[l/_load|load]] of some [[c/_commodity|commodity]] with reference to [[i/_its|its]] weight and [[c/_commercial|commercial]] value.**
+- **A [[m/_measure|measure]] of weight or [[q/_quantity|quantity]], varying in [[d/_designation|designation]] [[d/_depending|depending]] on the [[g/_goods|goods]] [[c/_concerned|concerned]].**
+- **An [[o/_old|old]] [[e/_english|English]] (and [[d/_dutch|Dutch]]) [[m/_measure|measure]] of the [[c/_carrying|carrying]] [[c/_capacity|capacity]] of a [[s/_ship|ship]], [[e/_equal|equal]] to two tons.**
+- **A [[l/_load|load]] of [[s/_some|some]] [[c/_commodity|commodity]] with [[r/_reference|reference]] to [[i/_its|its]] weight and [[c/_commercial|commercial]] value.**
 ---
 ---

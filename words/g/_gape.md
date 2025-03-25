@@ -3,7 +3,7 @@
 #noun
 - **An [[a/_act|act]] of [[g/_gaping|gaping]]; a [[y/_yawn|yawn]].**
 - **A [[l/_large|large]] [[o/_opening|opening]].**
-- **A [[d/_disease|disease]] in [[p/_poultry|poultry]] [[c/_caused|caused]] by [[g/_gapeworm|gapeworm]] in the windpipe, a symptom of which is [[f/_frequent|frequent]] [[g/_gaping|gaping]].**
+- **A [[d/_disease|disease]] in [[p/_poultry|poultry]] [[c/_caused|caused]] by [[g/_gapeworm|gapeworm]] in the windpipe, a [[s/_symptom|symptom]] of which is [[f/_frequent|frequent]] [[g/_gaping|gaping]].**
 - **The width of an [[o/_opening|opening]].**
 - **The [[m/_maximum|maximum]] [[o/_opening|opening]] of the [[m/_mouth|mouth]] (of a [[b/_bird|bird]], [[f/_fish|fish]], [[e/_etc|etc]].) when it is [[o/_open|open]].**
 ---

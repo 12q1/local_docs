@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[c/_come|come]] [[i/_into|into]] view.**
-- **To [[c/_come|come]] [[o/_out|out]] of a situation, [[o/_object|object]] or a [[l/_liquid|liquid]].**
+- **To [[c/_come|come]] [[o/_out|out]] of a [[s/_situation|situation]], [[o/_object|object]] or a [[l/_liquid|liquid]].**
 	- _Example: He emerged unscathed from the accident._
 - **To [[b/_become|become]] [[k/_known|known]].**
 	- _Example: Gradually the truth emerged._
@@ -13,6 +13,6 @@
 - **[[e/_emergence|Emergence]]**
 ---
 #adjective
-- **[[b/_becoming|Becoming]] prominent; [[e/_emergent|emergent]]; rising.**
+- **[[b/_becoming|Becoming]] [[p/_prominent|prominent]]; [[e/_emergent|emergent]]; [[r/_rising|rising]].**
 ---
 ---

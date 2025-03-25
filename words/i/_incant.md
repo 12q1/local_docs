@@ -1,7 +1,7 @@
 # Incant
 ---
 #verb
-- **To state solemnly, to [[c/_chant|chant]].**
-- **To recite an [[i/_incantation|incantation]].**
+- **To state [[s/_solemnly|solemnly]], to [[c/_chant|chant]].**
+- **To [[r/_recite|recite]] an [[i/_incantation|incantation]].**
 ---
 ---

@@ -3,7 +3,7 @@
 #verb
 - **To [[d/_divide|divide]] and [[d/_distribute|distribute]] [[p/_portions|portions]] of a whole.**
 	- _Example: The controlling party had apportioned the voting districts such that their party would be favored in the next election._
-- **Specifically, to [[d/_do|do]] so in a [[f/_fair|fair]] and [[e/_equitable|equitable]] [[m/_manner|manner]]; to [[a/_allocate|allocate]] proportionally.**
+- **Specifically, to [[d/_do|do]] [[s/_so|so]] in a [[f/_fair|fair]] and [[e/_equitable|equitable]] [[m/_manner|manner]]; to [[a/_allocate|allocate]] [[p/_proportionally|proportionally]].**
 	- _Example: The children were required to dump all of their Halloween candy on the table so that their parents could apportion it among them._
 ---
 ### Synonyms

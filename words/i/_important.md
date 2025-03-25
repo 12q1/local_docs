@@ -1,9 +1,9 @@
 # Important
 ---
 #adjective
-- **[[h/_having|Having]] relevant and [[c/_crucial|crucial]] value.**
+- **[[h/_having|Having]] [[r/_relevant|relevant]] and [[c/_crucial|crucial]] value.**
 	- _Example: It is very important to give your daughter independence in her life so she learns from experience._
-- **[[p/_pompous|Pompous]]; self-[[i/_important|important]].**
+- **[[p/_pompous|Pompous]]; [[s/_self|self]]-[[i/_important|important]].**
 ---
 ### Synonyms
 - [[s/_significant|significant]], [[w/_weighty|weighty]]

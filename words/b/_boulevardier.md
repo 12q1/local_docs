@@ -6,6 +6,6 @@
 ### Synonyms
 - [[f/_flaneur|flaneur]]
 #verb
-- **To strut or show [[o/_off|off]] [[l/_like|like]] a [[b/_boulevardier|boulevardier]].**
+- **To strut or [[s/_show|show]] [[o/_off|off]] [[l/_like|like]] a [[b/_boulevardier|boulevardier]].**
 ---
 ---

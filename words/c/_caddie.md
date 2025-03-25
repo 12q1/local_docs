@@ -1,12 +1,12 @@
 # Caddie
 ---
 #noun
-- **A [[g/_golfer|golfer]]'s [[a/_assistant|assistant]] and [[a/_adviser|adviser]].**
+- **A [[g/_golfer|golfer]]'[[s/_s|s]] [[a/_assistant|assistant]] and [[a/_adviser|adviser]].**
 ---
 #verb
-- **To serve as a [[g/_golf|golf]] [[c/_caddie|caddie]].**
+- **To [[s/_serve|serve]] as a [[g/_golf|golf]] [[c/_caddie|caddie]].**
 ---
 #noun
-- **A Scottish [[e/_errand|errand]] [[b/_boy|boy]], [[p/_porter|porter]], or [[m/_messenger|messenger]].**
+- **A [[s/_scottish|Scottish]] [[e/_errand|errand]] [[b/_boy|boy]], [[p/_porter|porter]], or [[m/_messenger|messenger]].**
 ---
 ---

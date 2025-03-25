@@ -1,8 +1,8 @@
 # Kraal
 ---
 #noun
-- **In [[c/_central|Central]] and Southern [[a/_africa|Africa]], a small rural [[c/_community|community]].**
-- **In [[c/_central|Central]] and Southern [[a/_africa|Africa]], a rural village of [[h/_huts|huts]] surrounded by a stockade.**
+- **In [[c/_central|Central]] and [[s/_southern|Southern]] [[a/_africa|Africa]], a [[s/_small|small]] [[r/_rural|rural]] [[c/_community|community]].**
+- **In [[c/_central|Central]] and [[s/_southern|Southern]] [[a/_africa|Africa]], a [[r/_rural|rural]] village of [[h/_huts|huts]] surrounded by a stockade.**
 - **An [[e/_enclosure|enclosure]] for [[l/_livestock|livestock]].**
 ---
 ### Synonyms

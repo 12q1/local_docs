@@ -7,7 +7,7 @@
 ### Synonyms
 - [[a/_ancestor|ancestor]]
 #adjective
-- **Upward in [[d/_direction|direction]] or proclivity.**
+- **Upward in [[d/_direction|direction]] or [[p/_proclivity|proclivity]].**
 - **In [[p/_power|power]]; [[c/_controlling|controlling]].**
 ---
 ---

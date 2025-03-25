@@ -1,7 +1,7 @@
 # Haematogenous
 ---
 #adjective
-- **Producing [[b/_blood|blood]]**
+- **[[p/_producing|Producing]] [[b/_blood|blood]]**
 - **Spread by [[b/_blood|blood]]**
 ---
 ---

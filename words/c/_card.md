@@ -4,36 +4,36 @@
 - **A [[p/_playing|playing]] [[c/_card|card]].**
 - **(in the [[p/_plural|plural]]) [[a/_any|Any]] [[g/_game|game]] using [[p/_playing|playing]] [[c/_cards|cards]]; a [[c/_card|card]] [[g/_game|game]].**
 	- _Example: He played cards with his friends._
-- **A resource or an [[a/_argument|argument]], used to [[a/_achieve|achieve]] a purpose.**
+- **A [[r/_resource|resource]] or an [[a/_argument|argument]], used to [[a/_achieve|achieve]] a [[p/_purpose|purpose]].**
 	- _Example: He accused them of playing the race card._
-- **[[a/_any|Any]] [[f/_flat|flat]], [[n/_normally|normally]] rectangular [[p/_piece|piece]] of stiff [[p/_paper|paper]], [[p/_plastic|plastic]] [[e/_etc|etc]].**
+- **[[a/_any|Any]] [[f/_flat|flat]], [[n/_normally|normally]] [[r/_rectangular|rectangular]] [[p/_piece|piece]] of stiff [[p/_paper|paper]], [[p/_plastic|plastic]] [[e/_etc|etc]].**
 - **A [[m/_map|map]] or [[c/_chart|chart]].**
-- **An [[a/_amusing|amusing]] or [[e/_entertaining|entertaining]] [[p/_person|person]], [[o/_often|often]] slightly [[e/_eccentrically|eccentrically]] so.**
-- **A [[l/_list|list]] of scheduled [[e/_events|events]] or of [[p/_performers|performers]] or [[c/_contestants|contestants]].**
+- **An [[a/_amusing|amusing]] or [[e/_entertaining|entertaining]] [[p/_person|person]], [[o/_often|often]] [[s/_slightly|slightly]] [[e/_eccentrically|eccentrically]] [[s/_so|so]].**
+- **A [[l/_list|list]] of [[s/_scheduled|scheduled]] [[e/_events|events]] or of [[p/_performers|performers]] or [[c/_contestants|contestants]].**
 	- _Example: What’s on the card for tonight?_
-- **A tabular [[p/_presentation|presentation]] of the [[k/_key|key]] statistics of an [[i/_innings|innings]] or [[m/_match|match]]: [[b/_batsmen|batsmen]]’s scores and [[h/_how|how]] they were [[d/_dismissed|dismissed]], [[e/_extras|extras]], total score and [[b/_bowling|bowling]] [[f/_figures|figures]].**
-- **A removable [[e/_electronic|electronic]] [[d/_device|device]] that [[m/_may|may]] be [[i/_inserted|inserted]] [[i/_into|into]] a [[p/_powered|powered]] [[e/_electronic|electronic]] [[d/_device|device]] to provide [[a/_additional|additional]] [[c/_capability|capability]].**
+- **A tabular [[p/_presentation|presentation]] of the [[k/_key|key]] statistics of an [[i/_innings|innings]] or [[m/_match|match]]: [[b/_batsmen|batsmen]]’[[s/_s|s]] [[s/_scores|scores]] and [[h/_how|how]] they were [[d/_dismissed|dismissed]], [[e/_extras|extras]], total [[s/_score|score]] and [[b/_bowling|bowling]] [[f/_figures|figures]].**
+- **A [[r/_removable|removable]] [[e/_electronic|electronic]] [[d/_device|device]] that [[m/_may|may]] be [[i/_inserted|inserted]] [[i/_into|into]] a [[p/_powered|powered]] [[e/_electronic|electronic]] [[d/_device|device]] to [[p/_provide|provide]] [[a/_additional|additional]] [[c/_capability|capability]].**
 	- _Example: He needed to replace the card his computer used to connect to the internet._
 - **A [[g/_greeting|greeting]] [[c/_card|card]].**
 	- _Example: She gave her neighbors a card congratulating them on their new baby._
 - **A [[b/_business|business]] [[c/_card|card]].**
 	- _Example: The realtor gave me her card so I could call if I had any questions about buying a house._
-- **Title [[c/_card|card]] / Intertitle: A [[p/_piece|piece]] of [[f/_filmed|filmed]], printed text [[e/_edited|edited]] [[i/_into|into]] the [[m/_midst|midst]] of the [[p/_photographed|photographed]] [[a/_action|action]] at various [[p/_points|points]], [[g/_generally|generally]] to [[c/_convey|convey]] [[c/_character|character]] [[d/_dialogue|dialogue]] or [[d/_descriptive|descriptive]] [[n/_narrative|narrative]] [[m/_material|material]] related to the [[p/_plot|plot]].**
+- **Title [[c/_card|card]] / Intertitle: A [[p/_piece|piece]] of [[f/_filmed|filmed]], [[p/_printed|printed]] text [[e/_edited|edited]] [[i/_into|into]] the [[m/_midst|midst]] of the [[p/_photographed|photographed]] [[a/_action|action]] at various [[p/_points|points]], [[g/_generally|generally]] to [[c/_convey|convey]] [[c/_character|character]] [[d/_dialogue|dialogue]] or [[d/_descriptive|descriptive]] [[n/_narrative|narrative]] [[m/_material|material]] [[r/_related|related]] to the [[p/_plot|plot]].**
 - **A test [[c/_card|card]].**
-- **A published [[n/_note|note]], [[c/_containing|containing]] a [[b/_brief|brief]] statement, [[e/_explanation|explanation]], request, [[e/_expression|expression]] of thanks, [[e/_etc|etc]].**
+- **A [[p/_published|published]] [[n/_note|note]], [[c/_containing|containing]] a [[b/_brief|brief]] statement, [[e/_explanation|explanation]], [[r/_request|request]], [[e/_expression|expression]] of thanks, [[e/_etc|etc]].**
 	- _Example: to put a card in the newspapers_
-- **A printed programme.**
+- **A [[p/_printed|printed]] [[p/_programme|programme]].**
 - **(by [[e/_extension|extension]]) An [[a/_attraction|attraction]] or [[i/_inducement|inducement]].**
 	- _Example: This will be a good card for the last day of the fair._
-- **A [[p/_paper|paper]] on which the [[p/_points|points]] of the [[c/_compass|compass]] are [[m/_marked|marked]]; the [[d/_dial|dial]] or [[f/_face|face]] of the [[m/_mariner|mariner]]'s [[c/_compass|compass]].**
-- **A [[p/_perforated|perforated]] [[p/_pasteboard|pasteboard]] or sheet-[[m/_metal|metal]] [[p/_plate|plate]] for warp threads, [[m/_making|making]] [[p/_part|part]] of the [[j/_jacquard|Jacquard]] [[a/_apparatus|apparatus]] of a [[l/_loom|loom]].**
+- **A [[p/_paper|paper]] on which the [[p/_points|points]] of the [[c/_compass|compass]] are [[m/_marked|marked]]; the [[d/_dial|dial]] or [[f/_face|face]] of the [[m/_mariner|mariner]]'[[s/_s|s]] [[c/_compass|compass]].**
+- **A [[p/_perforated|perforated]] [[p/_pasteboard|pasteboard]] or [[s/_sheet|sheet]]-[[m/_metal|metal]] [[p/_plate|plate]] for warp threads, [[m/_making|making]] [[p/_part|part]] of the [[j/_jacquard|Jacquard]] [[a/_apparatus|apparatus]] of a [[l/_loom|loom]].**
 - **An [[i/_indicator|indicator]] [[c/_card|card]].**
 ---
 #verb
-- **To [[c/_check|check]] [[i/_ids|IDs]], [[e/_especially|especially]] [[a/_against|against]] a [[m/_minimum|minimum]] [[a/_age|age]] requirement.**
+- **To [[c/_check|check]] [[i/_ids|IDs]], [[e/_especially|especially]] [[a/_against|against]] a [[m/_minimum|minimum]] [[a/_age|age]] [[r/_requirement|requirement]].**
 	- _Example: I heard you don't get carded at the other liquor store._
 - **To [[p/_play|play]] [[c/_cards|cards]].**
-- **To [[m/_make|make]] (a stated score), as recorded on a scoring [[c/_card|card]].**
+- **To [[m/_make|make]] (a stated [[s/_score|score]]), as [[r/_recorded|recorded]] on a [[s/_scoring|scoring]] [[c/_card|card]].**
 	- _Example: McIlroy carded a stellar nine-under-par 61 in the final round._
 ---
 ---

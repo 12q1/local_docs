@@ -2,8 +2,8 @@
 ---
 #noun
 - **[[g/_generosity|Generosity]]; [[a/_also|also]] an [[a/_act|act]] of [[g/_generosity|generosity]].**
-- **Something [[g/_given|given]] [[l/_liberally|liberally]]; a [[g/_gift|gift]].**
-- **A reward for some specific [[a/_act|act]], [[e/_especially|especially]] [[o/_one|one]] [[g/_given|given]] by an [[a/_authority|authority]] or a [[g/_government|government]].**
+- **[[s/_something|Something]] [[g/_given|given]] [[l/_liberally|liberally]]; a [[g/_gift|gift]].**
+- **A [[r/_reward|reward]] for [[s/_some|some]] specific [[a/_act|act]], [[e/_especially|especially]] [[o/_one|one]] [[g/_given|given]] by an [[a/_authority|authority]] or a [[g/_government|government]].**
 - **An [[a/_abundance|abundance]] or wealth.**
 ---
 ### Synonyms

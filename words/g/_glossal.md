@@ -1,6 +1,6 @@
 # Glossal
 ---
 #adjective
-- **Of, or relating to the tongue.**
+- **Of, or [[r/_relating|relating]] to the tongue.**
 ---
 ---

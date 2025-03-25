@@ -1,6 +1,6 @@
 # Cutaneous
 ---
 #adjective
-- **Of, relating to, [[e/_existing|existing]] on, or [[a/_affecting|affecting]] the [[e/_exterior|exterior]] skin, [[e/_especially|especially]] the [[c/_cutis|cutis]]**
+- **Of, [[r/_relating|relating]] to, [[e/_existing|existing]] on, or [[a/_affecting|affecting]] the [[e/_exterior|exterior]] [[s/_skin|skin]], [[e/_especially|especially]] the [[c/_cutis|cutis]]**
 ---
 ---

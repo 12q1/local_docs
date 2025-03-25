@@ -10,7 +10,7 @@
 ### Synonyms
 - [[c/_comprise|comprise]]
 #noun
-- **A [[l/_lineup|lineup]] or sequence of railroad [[c/_carriages|carriages]] or [[c/_cars|cars]], with or without a [[l/_locomotive|locomotive]], that [[f/_form|form]] a unit.**
+- **A [[l/_lineup|lineup]] or [[s/_sequence|sequence]] of [[r/_railroad|railroad]] [[c/_carriages|carriages]] or [[c/_cars|cars]], with or without a [[l/_locomotive|locomotive]], that [[f/_form|form]] a unit.**
 	- _Example: The train's consist included a baggage car, four passenger cars, and a diner._
 ---
 ### Synonyms

@@ -2,6 +2,6 @@
 ---
 #noun
 - **Spirit or [[e/_energy|energy]].**
-- **Semen.**
+- **[[s/_semen|Semen]].**
 ---
 ---

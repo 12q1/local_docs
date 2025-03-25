@@ -1,9 +1,9 @@
 # Habit
 ---
 #noun
-- **An [[a/_action|action]] [[p/_performed|performed]] on a regular [[b/_basis|basis]].**
+- **An [[a/_action|action]] [[p/_performed|performed]] on a [[r/_regular|regular]] [[b/_basis|basis]].**
 	- _Example: It’s become a habit of mine to have a cup of coffee after dinner._
-- **An [[a/_action|action]] [[p/_performed|performed]] repeatedly and [[a/_automatically|automatically]], usually without [[a/_awareness|awareness]].**
+- **An [[a/_action|action]] [[p/_performed|performed]] [[r/_repeatedly|repeatedly]] and [[a/_automatically|automatically]], usually without [[a/_awareness|awareness]].**
 	- _Example: By force of habit, he dressed for work even though it was holiday._
 - **A [[l/_long|long]] [[p/_piece|piece]] of [[c/_clothing|clothing]] worn by [[m/_monks|monks]] and [[n/_nuns|nuns]].**
 	- _Example: It’s interesting how Catholic and Buddhist monks both wear habits._

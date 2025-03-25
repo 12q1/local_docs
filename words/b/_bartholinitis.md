@@ -1,6 +1,6 @@
 # Bartholinitis
 ---
 #noun
-- **[[i/_inflammation|Inflammation]] of Bartholin's [[c/_cyst|cyst]]**
+- **[[i/_inflammation|Inflammation]] of Bartholin'[[s/_s|s]] [[c/_cyst|cyst]]**
 ---
 ---

@@ -8,14 +8,14 @@
 ---
 #verb
 - **To stake or [[p/_pledge|pledge]] upon the [[o/_outcome|outcome]] of an [[e/_event|event]]; to wager.**
-- **To be sure of something; to be [[a/_able|able]] to [[c/_count|count]] on something.**
+- **To be sure of [[s/_something|something]]; to be [[a/_able|able]] to [[c/_count|count]] on [[s/_something|something]].**
 	- _Example: Fancy going for a drink after work?
 You bet I do!_
-- **To [[p/_place|place]] [[m/_money|money]] [[i/_into|into]] the [[p/_pot|pot]] in [[o/_order|order]] to require [[o/_others|others]] [[d/_do|do]] the same, usually [[o/_only|only]] used for the [[f/_first|first]] [[p/_person|person]] to [[p/_place|place]] [[m/_money|money]] in the [[p/_pot|pot]] on [[e/_each|each]] round.**
+- **To [[p/_place|place]] [[m/_money|money]] [[i/_into|into]] the [[p/_pot|pot]] in [[o/_order|order]] to [[r/_require|require]] [[o/_others|others]] [[d/_do|do]] the [[s/_same|same]], usually [[o/_only|only]] used for the [[f/_first|first]] [[p/_person|person]] to [[p/_place|place]] [[m/_money|money]] in the [[p/_pot|pot]] on [[e/_each|each]] [[r/_round|round]].**
 ---
 #interjection
 - **[[e/_expression|Expression]] of [[g/_general|general]] [[a/_agreement|agreement]] or [[a/_acceptance|acceptance]].**
-- **[[e/_exclamation|Exclamation]] [[i/_indicating|indicating]] [[a/_acceptance|acceptance]] of a [[c/_challenge|challenge]] or an [[a/_absurd|absurd]] proposal.**
+- **[[e/_exclamation|Exclamation]] [[i/_indicating|indicating]] [[a/_acceptance|acceptance]] of a [[c/_challenge|challenge]] or an [[a/_absurd|absurd]] [[p/_proposal|proposal]].**
 - **[[e/_exclamation|Exclamation]] of [[j/_joy|joy]] at [[g/_good|good]] [[f/_fortune|fortune]].**
 ---
 ---

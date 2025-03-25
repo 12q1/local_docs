@@ -5,8 +5,8 @@
 	- _Example: A rubber duck and other toys were afloat in the bath._
 - **[[c/_covered|Covered]] with water [[b/_bearing|bearing]] [[f/_floating|floating]] [[a/_articles|articles]]; [[f/_flooded|flooded]].**
 	- _Example: The decks are afloat._
-- **[[o/_out|Out]] at sea.**
-- **[[m/_making|Making]] successful progress under [[o/_one|one]]'s [[o/_own|own]] steam.**
+- **[[o/_out|Out]] at [[s/_sea|sea]].**
+- **[[m/_making|Making]] successful [[p/_progress|progress]] under [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] steam.**
 	- _Example: The donation will keep our business afloat for quite a while._
 ---
 ---

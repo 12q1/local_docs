@@ -3,20 +3,20 @@
 #adjective
 - **[[d/_devoid|Devoid]] of [[c/_content|content]]; [[c/_containing|containing]] [[n/_nothing|nothing]] or [[n/_nobody|nobody]]; vacant.**
 	- _Example: an empty purse; an empty jug; an empty stomach_
-- **[[c/_containing|Containing]] [[n/_no|no]] [[e/_elements|elements]] (as of a string, [[a/_array|array]], or set), [[o/_opposed|opposed]] to [[b/_being|being]] [[n/_null|null]] ([[h/_having|having]] [[n/_no|no]] valid value).**
+- **[[c/_containing|Containing]] [[n/_no|no]] [[e/_elements|elements]] (as of a string, [[a/_array|array]], or [[s/_set|set]]), [[o/_opposed|opposed]] to [[b/_being|being]] [[n/_null|null]] ([[h/_having|having]] [[n/_no|no]] valid value).**
 - **[[f/_free|Free]]; [[c/_clear|clear]]; [[d/_devoid|devoid]]; [[o/_often|often]] with of.**
 - **[[h/_having|Having]] [[n/_nothing|nothing]] to [[c/_carry|carry]], emptyhanded; unburdened.**
-- **[[d/_destitute|Destitute]] of [[e/_effect|effect]], sincerity, or sense; said of [[l/_language|language]].**
+- **[[d/_destitute|Destitute]] of [[e/_effect|effect]], [[s/_sincerity|sincerity]], or [[s/_sense|sense]]; [[s/_said|said]] of [[l/_language|language]].**
 	- _Example: empty offer_
-- **Unable to satisfy; [[h/_hollow|hollow]]; vain.**
+- **Unable to [[s/_satisfy|satisfy]]; [[h/_hollow|hollow]]; vain.**
 	- _Example: empty pleasures_
-- **[[d/_destitute|Destitute]] of reality, or real [[e/_existence|existence]]; unsubstantial.**
+- **[[d/_destitute|Destitute]] of [[r/_reality|reality]], or [[r/_real|real]] [[e/_existence|existence]]; unsubstantial.**
 	- _Example: empty dreams_
-- **[[d/_destitute|Destitute]] of, or [[l/_lacking|lacking]], sense, [[k/_knowledge|knowledge]], or [[c/_courtesy|courtesy]].**
+- **[[d/_destitute|Destitute]] of, or [[l/_lacking|lacking]], [[s/_sense|sense]], [[k/_knowledge|knowledge]], or [[c/_courtesy|courtesy]].**
 	- _Example: empty brains; an empty coxcomb_
-- **(of some [[f/_female|female]] [[a/_animals|animals]], [[e/_especially|especially]] [[c/_cows|cows]] and sheep) Not [[p/_pregnant|pregnant]]; not producing [[o/_offspring|offspring]] when [[e/_expected|expected]] to [[d/_do|do]] so [[d/_during|during]] the [[b/_breeding|breeding]] season.**
+- **(of [[s/_some|some]] [[f/_female|female]] [[a/_animals|animals]], [[e/_especially|especially]] [[c/_cows|cows]] and [[s/_sheep|sheep]]) Not [[p/_pregnant|pregnant]]; not [[p/_producing|producing]] [[o/_offspring|offspring]] when [[e/_expected|expected]] to [[d/_do|do]] [[s/_so|so]] [[d/_during|during]] the [[b/_breeding|breeding]] [[s/_season|season]].**
 	- _Example: Empty cow rates have increased in recent years._
-- **Producing [[n/_nothing|nothing]]; unfruitful; said of a [[p/_plant|plant]] or tree.**
+- **[[p/_producing|Producing]] [[n/_nothing|nothing]]; unfruitful; [[s/_said|said]] of a [[p/_plant|plant]] or tree.**
 	- _Example: an empty vine_
 ---
 ### Synonyms

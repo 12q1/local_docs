@@ -1,11 +1,11 @@
 # Gavel
 ---
 #noun
-- **Rent.**
+- **[[r/_rent|Rent]].**
 - **Usury; [[i/_interest|interest]] on [[m/_money|money]].**
-- **An [[o/_old|old]] Saxon and Welsh [[f/_form|form]] of tenure by which an [[e/_estate|estate]] [[p/_passed|passed]], on the [[h/_holder|holder]]'s [[d/_death|death]], to [[a/_all|all]] the sons [[e/_equally|equally]].**
+- **An [[o/_old|old]] [[s/_saxon|Saxon]] and Welsh [[f/_form|form]] of tenure by which an [[e/_estate|estate]] [[p/_passed|passed]], on the [[h/_holder|holder]]'[[s/_s|s]] [[d/_death|death]], to [[a/_all|all]] the [[s/_sons|sons]] [[e/_equally|equally]].**
 ---
 #verb
-- **To [[d/_divide|divide]] or [[d/_distribute|distribute]] [[a/_according|according]] to the [[g/_gavel|gavel]] system.**
+- **To [[d/_divide|divide]] or [[d/_distribute|distribute]] [[a/_according|according]] to the [[g/_gavel|gavel]] [[s/_system|system]].**
 ---
 ---

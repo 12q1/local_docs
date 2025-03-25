@@ -13,10 +13,10 @@
 - **To [[e/_engage|engage]] in [[p/_playful|playful]] [[b/_behaviour|behaviour]].**
 ---
 #noun
-- **A vessel [[f/_formerly|formerly]] used by the [[d/_dutch|Dutch]]; privateer.**
+- **A vessel [[f/_formerly|formerly]] used by the [[d/_dutch|Dutch]]; [[p/_privateer|privateer]].**
 ---
 #noun
-- **The pungent [[g/_grayish|grayish]] [[g/_green|green]] [[f/_flower|flower]] [[b/_bud|bud]] of the [[e/_european|European]] and [[o/_oriental|Oriental]] [[c/_caper|caper]] ([[c/_capparis|Capparis]] spinosa), which is [[p/_pickled|pickled]] and [[e/_eaten|eaten]].**
+- **The [[p/_pungent|pungent]] [[g/_grayish|grayish]] [[g/_green|green]] [[f/_flower|flower]] [[b/_bud|bud]] of the [[e/_european|European]] and [[o/_oriental|Oriental]] [[c/_caper|caper]] ([[c/_capparis|Capparis]] spinosa), which is [[p/_pickled|pickled]] and [[e/_eaten|eaten]].**
 - **A [[p/_plant|plant]] of the [[g/_genus|genus]] [[c/_capparis|Capparis]].**
 ---
 ### Synonyms

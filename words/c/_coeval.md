@@ -1,12 +1,12 @@
 # Coeval
 ---
 #noun
-- **Something of the same [[e/_era|era]].**
+- **[[s/_something|Something]] of the [[s/_same|same]] [[e/_era|era]].**
 	- _Example: The telephone and television are coevals in that film._
-- **Somebody of the same [[a/_age|age]].**
+- **[[s/_somebody|Somebody]] of the [[s/_same|same]] [[a/_age|age]].**
 ---
 #adjective
-- **Of the same [[a/_age|age]]; [[c/_contemporary|contemporary]].**
+- **Of the [[s/_same|same]] [[a/_age|age]]; [[c/_contemporary|contemporary]].**
 	- _Example: Anything coeval with that clock will fetch a hefty price!_
 ---
 ### Synonyms

@@ -1,22 +1,22 @@
 # Following
 ---
 #verb
-- **To [[g/_go|go]] [[a/_after|after]]; to pursue; to [[m/_move|move]] [[b/_behind|behind]] in the same [[p/_path|path]] or [[d/_direction|direction]].**
+- **To [[g/_go|go]] [[a/_after|after]]; to [[p/_pursue|pursue]]; to [[m/_move|move]] [[b/_behind|behind]] in the [[s/_same|same]] [[p/_path|path]] or [[d/_direction|direction]].**
 	- _Example: Follow that car!_
-- **To [[g/_go|go]] or [[c/_come|come]] [[a/_after|after]] in a sequence.**
+- **To [[g/_go|go]] or [[c/_come|come]] [[a/_after|after]] in a [[s/_sequence|sequence]].**
 	- _Example: B follows A in the alphabet._
 - **To [[c/_carry|carry]] [[o/_out|out]] ([[o/_orders|orders]], [[i/_instructions|instructions]], [[e/_etc|etc]].).**
 	- _Example: Follow these instructions to the letter._
-- **To [[l/_live|live]] [[o/_one|one]]'s [[l/_life|life]] [[a/_according|according]] to (religion, teachings, [[e/_etc|etc]]).**
+- **To [[l/_live|live]] [[o/_one|one]]'[[s/_s|s]] [[l/_life|life]] [[a/_according|according]] to ([[r/_religion|religion]], teachings, [[e/_etc|etc]]).**
 - **To understand, to [[p/_pay|pay]] [[a/_attention|attention]] to.**
 	- _Example: Do you follow me?_
-- **To watch, to [[k/_keep|keep]] track of (reports of) some [[e/_event|event]] or [[p/_person|person]].**
+- **To watch, to [[k/_keep|keep]] track of ([[r/_reports|reports]] of) [[s/_some|some]] [[e/_event|event]] or [[p/_person|person]].**
 	- _Example: I followed the incumbent throughout the election._
-- **To subscribe to see [[c/_content|content]] from an [[a/_account|account]] on a social [[m/_media|media]] [[p/_platform|platform]].**
+- **To subscribe to [[s/_see|see]] [[c/_content|content]] from an [[a/_account|account]] on a [[s/_social|social]] [[m/_media|media]] [[p/_platform|platform]].**
 	- _Example: If you want to see more of our articles, follow us on Twitter._
-- **To be a [[l/_logical|logical]] [[c/_consequence|consequence]] of something.**
+- **To be a [[l/_logical|logical]] [[c/_consequence|consequence]] of [[s/_something|something]].**
 	- _Example: If you don't practise proper hygiene, illness is sure to follow._
-- **To walk in, as a road or [[c/_course|course]]; to [[a/_attend|attend]] upon [[c/_closely|closely]], as a profession or [[c/_calling|calling]].**
+- **To walk in, as a [[r/_road|road]] or [[c/_course|course]]; to [[a/_attend|attend]] upon [[c/_closely|closely]], as a [[p/_profession|profession]] or [[c/_calling|calling]].**
 ---
 ### Synonyms
 - [[e/_ensue|ensue]], [[p/_pursue|pursue]], [[t/_tail|tail]], [[t/_trail|trail]], [[s/_succeed|succeed]]
@@ -25,12 +25,12 @@
 #noun
 - **A [[g/_group|group]] of [[f/_followers|followers]], [[a/_attendants|attendants]] or [[a/_admirers|admirers]]; an [[e/_entourage|entourage]].**
 	- _Example: He had a loyal following._
-- **Vocation; [[b/_business|business]]; profession.**
-- **(with [[d/_definite|definite]] [[a/_article|article]], treated as singular or [[p/_plural|plural]]) A thing or things to be [[m/_mentioned|mentioned]] [[i/_immediately|immediately]] [[a/_after|after]].**
+- **Vocation; [[b/_business|business]]; [[p/_profession|profession]].**
+- **(with [[d/_definite|definite]] [[a/_article|article]], treated as [[s/_singular|singular]] or [[p/_plural|plural]]) A thing or things to be [[m/_mentioned|mentioned]] [[i/_immediately|immediately]] [[a/_after|after]].**
 	- _Example: The following are the three most important questions._
 ---
 #adjective
-- **[[c/_coming|Coming]] [[n/_next|next]], [[e/_either|either]] in sequence or in time.**
+- **[[c/_coming|Coming]] [[n/_next|next]], [[e/_either|either]] in [[s/_sequence|sequence]] or in time.**
 	- _Example: See the following section._
 - **[[a/_about|About]] to be specified.**
 	- _Example: The following words have no definition [...]_

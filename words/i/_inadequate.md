@@ -4,7 +4,7 @@
 - **An [[i/_individual|individual]] who is [[i/_inadequate|inadequate]].**
 ---
 #adjective
-- **Not [[a/_adequate|adequate]]; not [[f/_fit|fit]] for the purpose**
+- **Not [[a/_adequate|adequate]]; not [[f/_fit|fit]] for the [[p/_purpose|purpose]]**
 	- _Example: inadequate representation_
 ---
 ### Synonyms

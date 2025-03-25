@@ -1,7 +1,7 @@
 # Immerses
 ---
 #verb
-- **To put under the surface of a [[l/_liquid|liquid]]; to [[d/_dunk|dunk]].**
+- **To [[p/_put|put]] under the surface of a [[l/_liquid|liquid]]; to [[d/_dunk|dunk]].**
 	- _Example: Archimedes determined the volume of objects by immersing them in water._
 - **To [[i/_involve|involve]] or [[e/_engage|engage]] [[d/_deeply|deeply]].**
 	- _Example: The sculptor immersed himself in anatomic studies._

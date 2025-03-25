@@ -1,9 +1,9 @@
 # Glisten
 ---
 #noun
-- **A [[g/_glistening|glistening]] shine from a wet surface.**
+- **A [[g/_glistening|glistening]] [[s/_shine|shine]] from a wet surface.**
 ---
 #verb
-- **(of a wet or [[g/_greasy|greasy]] surface) To reflect [[l/_light|light]] with a [[g/_glittering|glittering]] [[l/_luster|luster]]; to sparkle, [[c/_coruscate|coruscate]], [[g/_glint|glint]] or [[f/_flash|flash]].**
+- **(of a wet or [[g/_greasy|greasy]] surface) To [[r/_reflect|reflect]] [[l/_light|light]] with a [[g/_glittering|glittering]] [[l/_luster|luster]]; to [[s/_sparkle|sparkle]], [[c/_coruscate|coruscate]], [[g/_glint|glint]] or [[f/_flash|flash]].**
 ---
 ---

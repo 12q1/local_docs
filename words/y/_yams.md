@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_any|Any]] [[c/_climbing|climbing]] vine of the [[g/_genus|genus]] [[d/_dioscorea|Dioscorea]] in the [[e/_eastern|Eastern]] and Western [[h/_hemispheres|hemispheres]], usually [[c/_cultivated|cultivated]].**
-- **The [[e/_edible|edible]], starchy, tuberous root of that [[p/_plant|plant]], a tropical staple [[f/_food|food]].**
+- **The [[e/_edible|edible]], starchy, tuberous [[r/_root|root]] of that [[p/_plant|plant]], a tropical staple [[f/_food|food]].**
 - **A sweet [[p/_potato|potato]]; a tuber from the species [[i/_ipomoea|Ipomoea]] [[b/_batatas|batatas]].**
 - **[[p/_potato|Potato]].**
 - **A [[o/_oca|oca]]; a tuber from the species [[o/_oxalis|Oxalis]] tuberosa.**

@@ -1,9 +1,9 @@
 # Finest
 ---
 #adjective
-- **Senses referring to subjective quality.**
-- **Senses referring to [[o/_objective|objective]] quality.**
-- **[[b/_behind|Behind]] the [[b/_batsman|batsman]] and at a small [[a/_angle|angle]] to the [[l/_line|line]] [[b/_between|between]] the wickets.**
+- **[[s/_senses|Senses]] [[r/_referring|referring]] to subjective [[q/_quality|quality]].**
+- **[[s/_senses|Senses]] [[r/_referring|referring]] to [[o/_objective|objective]] [[q/_quality|quality]].**
+- **[[b/_behind|Behind]] the [[b/_batsman|batsman]] and at a [[s/_small|small]] [[a/_angle|angle]] to the [[l/_line|line]] [[b/_between|between]] the wickets.**
 	- _Example: [...] to nudge it through the covers (or tickle it down to fine leg) for a four [...]_
 - **Subtle; thin; tenuous.**
 ---

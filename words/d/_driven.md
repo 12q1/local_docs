@@ -1,26 +1,26 @@
 # Driven
 ---
 #verb
-- **To provide an [[i/_impetus|impetus]] for [[m/_motion|motion]] or [[o/_other|other]] [[p/_physical|physical]] [[c/_change|change]], to [[m/_move|move]] an [[o/_object|object]] by [[m/_means|means]] of the provision of [[f/_force|force]] thereto.**
+- **To [[p/_provide|provide]] an [[i/_impetus|impetus]] for [[m/_motion|motion]] or [[o/_other|other]] [[p/_physical|physical]] [[c/_change|change]], to [[m/_move|move]] an [[o/_object|object]] by [[m/_means|means]] of the [[p/_provision|provision]] of [[f/_force|force]] thereto.**
 	- _Example: You drive nails into wood with a hammer._
-- **To provide an [[i/_impetus|impetus]] for a [[n/_non|non]]-[[p/_physical|physical]] [[c/_change|change]], [[e/_especially|especially]] a [[c/_change|change]] in [[o/_one|one]]'s state of [[m/_mind|mind]].**
+- **To [[p/_provide|provide]] an [[i/_impetus|impetus]] for a [[n/_non|non]]-[[p/_physical|physical]] [[c/_change|change]], [[e/_especially|especially]] a [[c/_change|change]] in [[o/_one|one]]'[[s/_s|s]] state of [[m/_mind|mind]].**
 	- _Example: My wife's constant harping about the condition of the house threatens to drive me to distraction._
 - **To [[d/_displace|displace]] [[e/_either|either]] [[p/_physically|physically]] or [[n/_non|non]]-[[p/_physically|physically]], through the [[a/_application|application]] of [[f/_force|force]].**
 - **To [[c/_cause|cause]] [[i/_intrinsic|intrinsic]] [[m/_motivation|motivation]] through the [[a/_application|application]] or [[d/_demonstration|demonstration]] of [[f/_force|force]]: to [[i/_impel|impel]] or urge [[o/_onward|onward]] thusly, to [[c/_compel|compel]] to [[m/_move|move]] on, to [[c/_coerce|coerce]], [[i/_intimidate|intimidate]] or threaten.**
-- **([[e/_especially|especially]] of [[a/_animals|animals]]) To [[i/_impel|impel]] or urge [[o/_onward|onward]] by [[f/_force|force]]; to push [[f/_forward|forward]]; to [[c/_compel|compel]] to [[m/_move|move]] on.**
+- **([[e/_especially|especially]] of [[a/_animals|animals]]) To [[i/_impel|impel]] or urge [[o/_onward|onward]] by [[f/_force|force]]; to [[p/_push|push]] [[f/_forward|forward]]; to [[c/_compel|compel]] to [[m/_move|move]] on.**
 	- _Example: to drive twenty thousand head of cattle from Texas to the Kansas railheads; to drive sheep out of a field_
-- **To [[d/_direct|direct]] a vehicle [[p/_powered|powered]] by a [[h/_horse|horse]], [[o/_ox|ox]] or similar [[a/_animal|animal]].**
+- **To [[d/_direct|direct]] a vehicle [[p/_powered|powered]] by a [[h/_horse|horse]], [[o/_ox|ox]] or [[s/_similar|similar]] [[a/_animal|animal]].**
 - **To [[c/_cause|cause]] [[a/_animals|animals]] to [[f/_flee|flee]] [[o/_out|out]] of.**
 	- _Example: The beaters drove the brambles, causing a great rush of rabbits and other creatures._
-- **To [[m/_move|move]] (something) by [[h/_hitting|hitting]] it with [[g/_great|great]] [[f/_force|force]].**
+- **To [[m/_move|move]] ([[s/_something|something]]) by [[h/_hitting|hitting]] it with [[g/_great|great]] [[f/_force|force]].**
 	- _Example: You drive nails into wood with a hammer._
 - **To [[c/_cause|cause]] (a [[m/_mechanism|mechanism]]) to [[o/_operate|operate]].**
 	- _Example: The pistons drive the crankshaft._
 - **To [[o/_operate|operate]] (a wheeled [[m/_motorized|motorized]] vehicle).**
 	- _Example: drive a car_
-- **To [[m/_motivate|motivate]]; to provide an [[i/_incentive|incentive]] for.**
+- **To [[m/_motivate|motivate]]; to [[p/_provide|provide]] an [[i/_incentive|incentive]] for.**
 	- _Example: What drives a person to run a marathon?_
-- **To [[c/_compel|compel]] (to [[d/_do|do]] something).**
+- **To [[c/_compel|compel]] (to [[d/_do|do]] [[s/_something|something]]).**
 	- _Example: Their debts finally drove them to sell the business._
 - **To [[c/_cause|cause]] to [[b/_become|become]].**
 	- _Example: This constant complaining is going to drive me to insanity.   You are driving me crazy!_
@@ -30,20 +30,20 @@
 - **To [[c/_convey|convey]] (a [[p/_person|person]], [[e/_etc|etc]]) in a wheeled [[m/_motorized|motorized]] vehicle.**
 	- _Example: My wife drove me to the airport._
 - **To [[m/_move|move]] [[f/_forcefully|forcefully]].**
-- **To be [[m/_moved|moved]] or propelled [[f/_forcefully|forcefully]] ([[e/_especially|especially]] of a ship).**
+- **To be [[m/_moved|moved]] or [[p/_propelled|propelled]] [[f/_forcefully|forcefully]] ([[e/_especially|especially]] of a [[s/_ship|ship]]).**
 - **To urge, [[p/_press|press]], or [[b/_bring|bring]] to a [[p/_point|point]] or state.**
-- **To [[c/_carry|carry]] or to [[k/_keep|keep]] in [[m/_motion|motion]]; to [[c/_conduct|conduct]]; to prosecute.**
+- **To [[c/_carry|carry]] or to [[k/_keep|keep]] in [[m/_motion|motion]]; to [[c/_conduct|conduct]]; to [[p/_prosecute|prosecute]].**
 - **To [[c/_clear|clear]], by [[f/_forcing|forcing]] [[a/_away|away]] what is [[c/_contained|contained]].**
 - **To [[d/_dig|dig]] [[h/_horizontally|horizontally]]; to [[c/_cut|cut]] a [[h/_horizontal|horizontal]] [[g/_gallery|gallery]] or tunnel.**
-- **To put together a [[d/_drive|drive]] ([[n/_n|n]].): to string together [[o/_offensive|offensive]] [[p/_plays|plays]] and [[a/_advance|advance]] the [[b/_ball|ball]] [[d/_down|down]] the [[f/_field|field]].**
-- **To [[d/_distrain|distrain]] for rent.**
-- **To separate the [[l/_lighter|lighter]] ([[f/_feathers|feathers]] or [[d/_down|down]]) from the [[h/_heavier|heavier]], by [[e/_exposing|exposing]] them to a [[c/_current|current]] of [[a/_air|air]].**
-- **To be the [[d/_dominant|dominant]] [[p/_party|party]] in a sex [[a/_act|act]].**
+- **To [[p/_put|put]] together a [[d/_drive|drive]] ([[n/_n|n]].): to string together [[o/_offensive|offensive]] [[p/_plays|plays]] and [[a/_advance|advance]] the [[b/_ball|ball]] [[d/_down|down]] the [[f/_field|field]].**
+- **To [[d/_distrain|distrain]] for [[r/_rent|rent]].**
+- **To [[s/_separate|separate]] the [[l/_lighter|lighter]] ([[f/_feathers|feathers]] or [[d/_down|down]]) from the [[h/_heavier|heavier]], by [[e/_exposing|exposing]] them to a [[c/_current|current]] of [[a/_air|air]].**
+- **To be the [[d/_dominant|dominant]] [[p/_party|party]] in a [[s/_sex|sex]] [[a/_act|act]].**
 ---
 ### Synonyms
 - [[m/_move|move]], [[o/_operate|operate]], [[m/_make|make]], [[r/_render|render]], [[s/_send|send]], [[c/_compel|compel]], [[f/_force|force]], [[o/_oblige|oblige]], [[p/_push|push]], [[r/_require|require]], [[t/_take|take]], [[h/_herd|herd]], [[i/_impel|impel]], [[i/_incentivise|incentivise]], [[i/_incentivize|incentivize]], [[m/_motivate|motivate]], [[p/_push|push]], [[u/_urge|urge]], [[f/_force|force]], [[p/_push|push]], [[m/_motorvate|motorvate]]
 #adjective
 - **[[o/_obsessed|Obsessed]]; [[p/_passionately|passionately]] [[m/_motivated|motivated]] to [[a/_achieve|achieve]] [[g/_goals|goals]].**
-- **(of snow) [[f/_formed|Formed]] [[i/_into|into]] snowdrifts by wind.**
+- **(of [[s/_snow|snow]]) [[f/_formed|Formed]] [[i/_into|into]] [[s/_snowdrifts|snowdrifts]] by wind.**
 ---
 ---

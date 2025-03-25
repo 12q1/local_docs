@@ -1,7 +1,7 @@
 # Equally
 ---
 #adverb
-- **([[m/_manner|manner]]) In an [[e/_equal|equal]] [[m/_manner|manner]]; in [[e/_equal|equal]] shares or proportion; with [[e/_equal|equal]] and [[i/_impartial|impartial]] [[j/_justice|justice]]; [[e/_evenly|evenly]]**
+- **([[m/_manner|manner]]) In an [[e/_equal|equal]] [[m/_manner|manner]]; in [[e/_equal|equal]] [[s/_shares|shares]] or [[p/_proportion|proportion]]; with [[e/_equal|equal]] and [[i/_impartial|impartial]] [[j/_justice|justice]]; [[e/_evenly|evenly]]**
 	- _Example: All citizens are equally taxed._
 - **([[d/_degree|degree]]) In [[e/_equal|equal]] [[d/_degree|degree]] or [[e/_extent|extent]]; [[j/_just|just]] as.**
 	- _Example: The gas stations are equally far from the highway._

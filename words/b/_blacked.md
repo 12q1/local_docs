@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[m/_make|make]] [[b/_black|black]]; to [[b/_blacken|blacken]].**
-- **To [[a/_apply|apply]] [[b/_blacking|blacking]] to (something).**
+- **To [[a/_apply|apply]] [[b/_blacking|blacking]] to ([[s/_something|something]]).**
 - **To [[b/_boycott|boycott]], usually as [[p/_part|part]] of an [[i/_industrial|industrial]] [[d/_dispute|dispute]].**
 ---
 ### Synonyms

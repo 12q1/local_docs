@@ -1,13 +1,13 @@
 # Ephemeral
 ---
 #noun
-- **Something which [[l/_lasts|lasts]] for a short [[p/_period|period]] of time.**
+- **[[s/_something|Something]] which [[l/_lasts|lasts]] for a [[s/_short|short]] [[p/_period|period]] of time.**
 ---
 ### Synonyms
 - [[e/_ephemeron|ephemeron]]
 #adjective
-- **[[l/_lasting|Lasting]] for a short [[p/_period|period]] of time.**
-- **[[e/_existing|Existing]] for [[o/_only|only]] [[o/_one|one]] [[d/_day|day]], as with some [[f/_flowers|flowers]], [[i/_insects|insects]], and [[d/_diseases|diseases]].**
+- **[[l/_lasting|Lasting]] for a [[s/_short|short]] [[p/_period|period]] of time.**
+- **[[e/_existing|Existing]] for [[o/_only|only]] [[o/_one|one]] [[d/_day|day]], as with [[s/_some|some]] [[f/_flowers|flowers]], [[i/_insects|insects]], and [[d/_diseases|diseases]].**
 - **(of a [[b/_body|body]] of water) Usually [[d/_dry|dry]], but [[f/_filling|filling]] with water for [[b/_brief|brief]] [[p/_periods|periods]] [[d/_during|during]] and [[a/_after|after]] [[p/_precipitation|precipitation]].**
 ---
 ### Synonyms

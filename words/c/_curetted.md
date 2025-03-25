@@ -1,6 +1,6 @@
 # Curetted
 ---
 #verb
-- **To scrape with a [[c/_curette|curette]].**
+- **To [[s/_scrape|scrape]] with a [[c/_curette|curette]].**
 ---
 ---

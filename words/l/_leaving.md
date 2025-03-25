@@ -1,10 +1,10 @@
 # Leaving
 ---
 #verb
-- **To [[h/_have|have]] a [[c/_consequence|consequence]] or remnant.**
-- **To [[d/_depart|depart]]; to separate from.**
-- **To transfer something.**
-- **To remain ([[b/_behind|behind]]); to stay.**
+- **To [[h/_have|have]] a [[c/_consequence|consequence]] or [[r/_remnant|remnant]].**
+- **To [[d/_depart|depart]]; to [[s/_separate|separate]] from.**
+- **To transfer [[s/_something|something]].**
+- **To [[r/_remain|remain]] ([[b/_behind|behind]]); to stay.**
 - **To stop, [[d/_desist|desist]] from; to "[[l/_leave|leave]] [[o/_off|off]]" (+ [[n/_noun|noun]] / [[g/_gerund|gerund]]).**
 ---
 ### Synonyms
@@ -14,11 +14,11 @@
 	- _Example: We were not left go to the beach after school except on a weekend._
 ---
 #verb
-- **To produce [[l/_leaves|leaves]] or [[f/_foliage|foliage]].**
+- **To [[p/_produce|produce]] [[l/_leaves|leaves]] or [[f/_foliage|foliage]].**
 ---
 ### Synonyms
 - [[l/_leaf|leaf]]
 #verb
-- **To raise; to [[l/_levy|levy]].**
+- **To [[r/_raise|raise]]; to [[l/_levy|levy]].**
 ---
 ---

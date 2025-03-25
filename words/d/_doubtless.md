@@ -5,7 +5,7 @@
 - **[[f/_free|Free]] from [[f/_fear|fear]] or suspicion.**
 ---
 #adverb
-- **Without [[d/_doubt|doubt]]; very probably, in [[a/_all|all]] [[l/_likelihood|likelihood]]; [[d/_doubtlessly|doubtlessly]].**
+- **Without [[d/_doubt|doubt]]; very [[p/_probably|probably]], in [[a/_all|all]] [[l/_likelihood|likelihood]]; [[d/_doubtlessly|doubtlessly]].**
 ---
 ### Synonyms
 - [[i/_indisputably|indisputably]], [[i/_indubitably|indubitably]], [[u/_undoubtedly|undoubtedly]], [[u/_unquestionably|unquestionably]]

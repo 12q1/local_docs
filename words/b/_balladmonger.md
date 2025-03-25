@@ -1,6 +1,6 @@
 # Balladmonger
 ---
 #noun
-- **A seller or [[c/_composer|composer]] of [[b/_ballads|ballads]].**
+- **A [[s/_seller|seller]] or [[c/_composer|composer]] of [[b/_ballads|ballads]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Allaying
 ---
 #verb
-- **To [[m/_make|make]] quiet or put at rest; to [[p/_pacify|pacify]] or [[a/_appease|appease]]; to quell; to [[c/_calm|calm]].**
+- **To [[m/_make|make]] [[q/_quiet|quiet]] or [[p/_put|put]] at [[r/_rest|rest]]; to [[p/_pacify|pacify]] or [[a/_appease|appease]]; to [[q/_quell|quell]]; to [[c/_calm|calm]].**
 	- _Example: to allay popular excitement_
 - **To [[a/_alleviate|alleviate]]; to [[a/_abate|abate]]; to [[m/_mitigate|mitigate]].**
 	- _Example: to allay the severity of affliction or the bitterness of adversity_

@@ -1,6 +1,6 @@
 # Hoydens
 ---
 #noun
-- **A rude, uncultured or rowdy [[g/_girl|girl]] or woman.**
+- **A [[r/_rude|rude]], uncultured or [[r/_rowdy|rowdy]] [[g/_girl|girl]] or woman.**
 ---
 ---

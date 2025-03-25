@@ -1,7 +1,7 @@
 # Headmistresses
 ---
 #noun
-- **A [[f/_female|female]] school principal.**
+- **A [[f/_female|female]] [[s/_school|school]] [[p/_principal|principal]].**
 ---
 ### Synonyms
 - [[h/_headteacher|headteacher]], [[p/_principal|principal]]

@@ -2,14 +2,14 @@
 ---
 #noun
 - **[[a/_any|Any]] [[g/_goods|goods]] which are [[i/_illicit|illicit]] or [[i/_illegal|illegal]] to [[p/_possess|possess]]**
-- **[[g/_goods|Goods]] which are prohibited from [[b/_being|being]] traded, smuggled [[g/_goods|goods]]**
-- **A [[b/_black|black]] slave [[d/_during|during]] the [[a/_american|American]] [[c/_civil|Civil]] War who [[h/_had|had]] [[e/_escaped|escaped]] to, or [[b/_been|been]] [[c/_captured|captured]] by, Union [[f/_forces|forces]].**
+- **[[g/_goods|Goods]] which are [[p/_prohibited|prohibited]] from [[b/_being|being]] traded, [[s/_smuggled|smuggled]] [[g/_goods|goods]]**
+- **A [[b/_black|black]] [[s/_slave|slave]] [[d/_during|during]] the [[a/_american|American]] [[c/_civil|Civil]] War who [[h/_had|had]] [[e/_escaped|escaped]] to, or [[b/_been|been]] [[c/_captured|captured]] by, Union [[f/_forces|forces]].**
 ---
 #verb
-- **To [[i/_import|import]] [[i/_illegally|illegally]]; to smuggle.**
-- **To [[d/_declare|declare]] prohibited; to [[f/_forbid|forbid]].**
+- **To [[i/_import|import]] [[i/_illegally|illegally]]; to [[s/_smuggle|smuggle]].**
+- **To [[d/_declare|declare]] [[p/_prohibited|prohibited]]; to [[f/_forbid|forbid]].**
 ---
 #adjective
-- **Prohibited from [[b/_being|being]] traded**
+- **[[p/_prohibited|Prohibited]] from [[b/_being|being]] traded**
 ---
 ---

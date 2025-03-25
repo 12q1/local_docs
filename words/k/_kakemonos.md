@@ -1,6 +1,6 @@
 # Kakemonos
 ---
 #noun
-- **A vertical [[j/_japanese|Japanese]] scroll [[p/_painting|painting]]**
+- **A vertical [[j/_japanese|Japanese]] [[s/_scroll|scroll]] [[p/_painting|painting]]**
 ---
 ---

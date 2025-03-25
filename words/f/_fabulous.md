@@ -1,7 +1,7 @@
 # Fabulous
 ---
 #adjective
-- **Of or relating to [[f/_fable|fable]], [[m/_myth|myth]] or [[l/_legend|legend]].**
+- **Of or [[r/_relating|relating]] to [[f/_fable|fable]], [[m/_myth|myth]] or [[l/_legend|legend]].**
 - **[[c/_characteristic|Characteristic]] of [[f/_fables|fables]]; [[m/_marvelous|marvelous]], [[e/_extraordinary|extraordinary]], [[i/_incredible|incredible]].**
 - **[[f/_fictional|Fictional]] or not [[b/_believable|believable]]; [[m/_made|made]] up.**
 - **[[k/_known|Known]] for telling [[f/_fables|fables]] or [[f/_falsehoods|falsehoods]]; unreliable.**

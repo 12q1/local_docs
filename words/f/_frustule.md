@@ -1,6 +1,6 @@
 # Frustule
 ---
 #noun
-- **The siliceous shell of a [[d/_diatom|diatom]].**
+- **The [[s/_siliceous|siliceous]] [[s/_shell|shell]] of a [[d/_diatom|diatom]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Carbonados
 ---
 #noun
-- **[[m/_meat|Meat]] or [[f/_fish|fish]] that [[h/_has|has]] [[b/_been|been]] scored and [[b/_broiled|broiled]].**
+- **[[m/_meat|Meat]] or [[f/_fish|fish]] that [[h/_has|has]] [[b/_been|been]] [[s/_scored|scored]] and [[b/_broiled|broiled]].**
 ---
 ### Synonyms
 - [[c/_carbonade|carbonade]]

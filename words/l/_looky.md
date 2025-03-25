@@ -1,6 +1,6 @@
 # Looky
 ---
 #verb
-- **(sometimes [[h/_humorous|humorous]]) [[l/_look|Look]].**
+- **([[s/_sometimes|sometimes]] [[h/_humorous|humorous]]) [[l/_look|Look]].**
 ---
 ---

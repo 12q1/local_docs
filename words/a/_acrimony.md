@@ -1,7 +1,7 @@
 # Acrimony
 ---
 #noun
-- **A sharp and [[b/_bitter|bitter]] [[h/_hatred|hatred]].**
+- **A [[s/_sharp|sharp]] and [[b/_bitter|bitter]] [[h/_hatred|hatred]].**
 	- _Example: Her acrimony for her neighbors manifests itself with shouting and stomping._
 ---
 ### Synonyms

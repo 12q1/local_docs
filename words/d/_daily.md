@@ -1,12 +1,12 @@
 # Daily
 ---
 #noun
-- **Something that is produced, [[c/_consumed|consumed]], used, or [[d/_done|done]] [[e/_every|every]] [[d/_day|day]].**
+- **[[s/_something|Something]] that is [[p/_produced|produced]], [[c/_consumed|consumed]], used, or [[d/_done|done]] [[e/_every|every]] [[d/_day|day]].**
 ---
 ### Synonyms
 - [[h/_help|help]], [[m/_maid|maid]]
 #verb
-- **To [[d/_drive|drive]] an [[a/_automobile|automobile]] [[f/_frequently|frequently]], on a [[d/_daily|daily]] [[b/_basis|basis]], for regular and [[m/_mundane|mundane]] tasks.**
+- **To [[d/_drive|drive]] an [[a/_automobile|automobile]] [[f/_frequently|frequently]], on a [[d/_daily|daily]] [[b/_basis|basis]], for [[r/_regular|regular]] and [[m/_mundane|mundane]] tasks.**
 ---
 #adjective
 - **That [[o/_occurs|occurs]] [[e/_every|every]] [[d/_day|day]], or at [[l/_least|least]] [[e/_every|every]] working [[d/_day|day]]**

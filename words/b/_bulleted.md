@@ -4,11 +4,11 @@
 - **To [[d/_draw|draw]] [[a/_attention|attention]] to (text) by, or as [[i/_if|if]] by, [[p/_placing|placing]] a [[g/_graphic|graphic]] [[b/_bullet|bullet]] in [[f/_front|front]] of it.**
 - **To speed, [[l/_like|like]] a [[b/_bullet|bullet]].**
 	- _Example: Their debut started slow, but bulleted to number six in its fourth week._
-- **To [[m/_make|make]] a shot, [[e/_especially|especially]] with [[g/_great|great]] speed.**
+- **To [[m/_make|make]] a [[s/_shot|shot]], [[e/_especially|especially]] with [[g/_great|great]] speed.**
 	- _Example: He bulleted a header for his first score of the season._
 ---
 #adjective
-- **(of text) Set [[o/_off|off]] by [[b/_bullet|bullet]] [[p/_points|points]].**
+- **(of text) [[s/_set|Set]] [[o/_off|off]] by [[b/_bullet|bullet]] [[p/_points|points]].**
 ---
 ### Synonyms
 - [[b/_bullet-pointed|bullet-pointed]]

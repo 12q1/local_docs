@@ -11,7 +11,7 @@
 - **[[l/_like|Like]] or [[h/_having|having]] to [[d/_do|do]] with an [[e/_epizootic|epizootic]]: [[e/_epidemic|epidemic]] [[a/_among|among]] [[a/_animals|animals]].**
 	- _Example: Epizootic plague occurred in the mice following introduction of rats from Europe._
 - **[[c/_containing|Containing]] [[f/_fossils|fossils]].**
-- **Relating to [[e/_epizoa|epizoa]]; [[e/_epizoic|epizoic]].**
+- **[[r/_relating|Relating]] to [[e/_epizoa|epizoa]]; [[e/_epizoic|epizoic]].**
 ---
 ### Antonyms
 - [[e/_enzootic|enzootic]]

@@ -1,6 +1,6 @@
 # Idem
 ---
 #pronoun
-- **The same.**
+- **The [[s/_same|same]].**
 ---
 ---

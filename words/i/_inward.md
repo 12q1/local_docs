@@ -6,7 +6,7 @@
 - **A [[f/_familiar|familiar]] [[f/_friend|friend]] or [[a/_acquaintance|acquaintance]].**
 ---
 #adjective
-- **Situated on the [[i/_inside|inside]]; that is within, [[i/_inner|inner]]; [[b/_belonging|belonging]] to the [[i/_inside|inside]].**
+- **[[s/_situated|Situated]] on the [[i/_inside|inside]]; that is within, [[i/_inner|inner]]; [[b/_belonging|belonging]] to the [[i/_inside|inside]].**
 - **[[i/_intimate|Intimate]], [[c/_closely|closely]] [[a/_acquainted|acquainted]]; [[f/_familiar|familiar]].**
 ---
 #adverb

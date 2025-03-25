@@ -1,7 +1,7 @@
 # Descendent
 ---
 #noun
-- **{a [[p/_person|person]] [[c/_considered|considered]] as [[d/_descended|descended]] from some [[a/_ancestor|ancestor]] or race}**
+- **{a [[p/_person|person]] [[c/_considered|considered]] as [[d/_descended|descended]] from [[s/_some|some]] [[a/_ancestor|ancestor]] or [[r/_race|race]]}**
 ---
 #adjective
 - **[[d/_descending|Descending]]; [[g/_going|going]] [[d/_down|down]]**

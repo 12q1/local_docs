@@ -2,13 +2,13 @@
 ---
 #noun
 - **A [[c/_crosswise|crosswise]] [[c/_cut|cut]].**
-- **A shortcut.**
+- **A [[s/_shortcut|shortcut]].**
 - **An [[i/_instance|instance]] of [[f/_filmic|filmic]] [[c/_crosscutting|crosscutting]].**
-- **A [[c/_crosscut|crosscut]] saw.**
+- **A [[c/_crosscut|crosscut]] [[s/_saw|saw]].**
 - **A [[l/_level|level]] [[d/_driven|driven]] [[a/_across|across]] the [[c/_course|course]] of a vein, or [[a/_across|across]] the [[m/_main|main]] workings, as from [[o/_one|one]] [[g/_gangway|gangway]] to [[a/_another|another]].**
 ---
 #verb
-- **To [[c/_cut|cut]] [[a/_across|across]] something.**
-- **To [[c/_cut|cut]] repeatedly [[b/_between|between]] two [[c/_concurrent|concurrent]] scenes.**
+- **To [[c/_cut|cut]] [[a/_across|across]] [[s/_something|something]].**
+- **To [[c/_cut|cut]] [[r/_repeatedly|repeatedly]] [[b/_between|between]] two [[c/_concurrent|concurrent]] [[s/_scenes|scenes]].**
 ---
 ---

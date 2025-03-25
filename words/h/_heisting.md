@@ -1,6 +1,6 @@
 # Heisting
 ---
 #verb
-- **To steal, rob or [[h/_hold|hold]] up (something).**
+- **To steal, [[r/_rob|rob]] or [[h/_hold|hold]] up ([[s/_something|something]]).**
 ---
 ---

@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Not [[o/_ordinary|ordinary]]; [[e/_exceptional|exceptional]]; unusual.**
-- **Remarkably [[g/_good|good]].**
+- **[[r/_remarkably|Remarkably]] [[g/_good|good]].**
 	- _Example: an extraordinary poet_
 - **Special or supernumerary.**
 	- _Example: an extraordinary professor in a German university_

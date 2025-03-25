@@ -1,6 +1,6 @@
 # Curtana
 ---
 #noun
-- **A short sword used for [[c/_ceremonial|ceremonial]] purposes**
+- **A [[s/_short|short]] sword used for [[c/_ceremonial|ceremonial]] [[p/_purposes|purposes]]**
 ---
 ---

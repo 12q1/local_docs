@@ -7,6 +7,6 @@
 ### Synonyms
 - [[t/_trivialize|trivialize]], [[u/_understate|understate]]
 #noun
-- **The [[a/_act|act]] by which something is [[d/_downplayed|downplayed]], or [[m/_made|made]] to seem [[l/_less|less]] [[i/_important|important]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[d/_downplayed|downplayed]], or [[m/_made|made]] to [[s/_seem|seem]] [[l/_less|less]] [[i/_important|important]].**
 ---
 ---

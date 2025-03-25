@@ -1,6 +1,6 @@
 # Impellor
 ---
 #noun
-- **Something which or someone who [[i/_impels|impels]], usually a [[p/_part|part]] of a pump.**
+- **[[s/_something|Something]] which or [[s/_someone|someone]] who [[i/_impels|impels]], usually a [[p/_part|part]] of a [[p/_pump|pump]].**
 ---
 ---

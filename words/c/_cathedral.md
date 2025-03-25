@@ -1,6 +1,6 @@
 # Cathedral
 ---
 #adjective
-- **Relating to the throne or the see of a [[b/_bishop|bishop]].**
+- **[[r/_relating|Relating]] to the throne or the [[s/_see|see]] of a [[b/_bishop|bishop]].**
 ---
 ---

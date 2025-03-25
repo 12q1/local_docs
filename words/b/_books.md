@@ -1,40 +1,40 @@
 # Books
 ---
 #noun
-- **A [[c/_collection|collection]] of sheets of [[p/_paper|paper]] [[b/_bound|bound]] together to [[h/_hinge|hinge]] at [[o/_one|one]] [[e/_edge|edge]], [[c/_containing|containing]] printed or written [[m/_material|material]], [[p/_pictures|pictures]], [[e/_etc|etc]].**
+- **A [[c/_collection|collection]] of [[s/_sheets|sheets]] of [[p/_paper|paper]] [[b/_bound|bound]] together to [[h/_hinge|hinge]] at [[o/_one|one]] [[e/_edge|edge]], [[c/_containing|containing]] [[p/_printed|printed]] or written [[m/_material|material]], [[p/_pictures|pictures]], [[e/_etc|etc]].**
 	- _Example: He was frustrated because he couldn't find anything about dinosaurs in the book._
-- **A [[l/_long|long]] work [[f/_fit|fit]] for publication, typically prose, such as a [[n/_novel|novel]] or textbook, and typically published as such a [[b/_bound|bound]] [[c/_collection|collection]] of sheets, but [[n/_now|now]] sometimes [[e/_electronically|electronically]] as an [[e/_e|e]]-[[b/_book|book]].**
+- **A [[l/_long|long]] work [[f/_fit|fit]] for [[p/_publication|publication]], typically [[p/_prose|prose]], such as a [[n/_novel|novel]] or textbook, and typically [[p/_published|published]] as such a [[b/_bound|bound]] [[c/_collection|collection]] of [[s/_sheets|sheets]], but [[n/_now|now]] [[s/_sometimes|sometimes]] [[e/_electronically|electronically]] as an [[e/_e|e]]-[[b/_book|book]].**
 	- _Example: I have three copies of his first book._
 - **A [[m/_major|major]] [[d/_division|division]] of a [[l/_long|long]] work.**
 	- _Example: Genesis is the first book of the Bible._
-- **A record of [[b/_betting|betting]] (from the use of a [[n/_notebook|notebook]] to record what [[e/_each|each]] [[p/_person|person]] [[h/_has|has]] [[b/_bet|bet]]).**
+- **A [[r/_record|record]] of [[b/_betting|betting]] (from the use of a [[n/_notebook|notebook]] to [[r/_record|record]] what [[e/_each|each]] [[p/_person|person]] [[h/_has|has]] [[b/_bet|bet]]).**
 	- _Example: I'm running a book on who is going to win the race._
-- **A [[c/_convenient|convenient]] [[c/_collection|collection]], in a [[f/_form|form]] resembling a [[b/_book|book]], of small [[p/_paper|paper]] [[i/_items|items]] for [[i/_individual|individual]] use.**
+- **A [[c/_convenient|convenient]] [[c/_collection|collection]], in a [[f/_form|form]] [[r/_resembling|resembling]] a [[b/_book|book]], of [[s/_small|small]] [[p/_paper|paper]] [[i/_items|items]] for [[i/_individual|individual]] use.**
 	- _Example: a book of raffle tickets_
-- **The script of a [[m/_musical|musical]] or [[o/_opera|opera]].**
-- **(usually in the [[p/_plural|plural]]) Records of the [[a/_accounts|accounts]] of a [[b/_business|business]].**
-- **A [[b/_book|book]] [[a/_award|award]], a recognition for receiving the [[h/_highest|highest]] [[g/_grade|grade]] in a [[c/_class|class]] (traditionally an [[a/_actual|actual]] [[b/_book|book]], but recently [[m/_more|more]] [[l/_likely|likely]] a [[l/_letter|letter]] or [[c/_certificate|certificate]] [[a/_acknowledging|acknowledging]] the [[a/_achievement|achievement]]).**
-- **(whist) Six tricks taken by [[o/_one|one]] side.**
+- **The [[s/_script|script]] of a [[m/_musical|musical]] or [[o/_opera|opera]].**
+- **(usually in the [[p/_plural|plural]]) [[r/_records|Records]] of the [[a/_accounts|accounts]] of a [[b/_business|business]].**
+- **A [[b/_book|book]] [[a/_award|award]], a [[r/_recognition|recognition]] for [[r/_receiving|receiving]] the [[h/_highest|highest]] [[g/_grade|grade]] in a [[c/_class|class]] (traditionally an [[a/_actual|actual]] [[b/_book|book]], but [[r/_recently|recently]] [[m/_more|more]] [[l/_likely|likely]] a [[l/_letter|letter]] or [[c/_certificate|certificate]] [[a/_acknowledging|acknowledging]] the [[a/_achievement|achievement]]).**
+- **(whist) [[s/_six|Six]] tricks taken by [[o/_one|one]] [[s/_side|side]].**
 - **[[f/_four|Four]] of a [[k/_kind|kind]]**
-- **A [[d/_document|document]], [[h/_held|held]] by the referee, of the [[i/_incidents|incidents]] [[h/_happened|happened]] in the [[g/_game|game]].**
-- **(by [[e/_extension|extension]]) A [[l/_list|list]] of [[a/_all|all]] [[p/_players|players]] who [[h/_have|have]] [[b/_been|been]] [[b/_booked|booked]] (received a warning) in a [[g/_game|game]].**
-- **The twenty-sixth Lenormand [[c/_card|card]].**
-- **[[a/_any|Any]] source of [[i/_instruction|instruction]].**
+- **A [[d/_document|document]], [[h/_held|held]] by the [[r/_referee|referee]], of the [[i/_incidents|incidents]] [[h/_happened|happened]] in the [[g/_game|game]].**
+- **(by [[e/_extension|extension]]) A [[l/_list|list]] of [[a/_all|all]] [[p/_players|players]] who [[h/_have|have]] [[b/_been|been]] [[b/_booked|booked]] ([[r/_received|received]] a warning) in a [[g/_game|game]].**
+- **The twenty-[[s/_sixth|sixth]] Lenormand [[c/_card|card]].**
+- **[[a/_any|Any]] [[s/_source|source]] of [[i/_instruction|instruction]].**
 ---
 ### Synonyms
 - [[a/_account|account]], [[r/_record|record]], [[b/_booklet|booklet]], [[l/_libretto|libretto]], [[t/_tome|tome]], [[v/_volume|volume]]
 #verb
-- **To reserve (something) for [[f/_future|future]] use.**
+- **To [[r/_reserve|reserve]] ([[s/_something|something]]) for [[f/_future|future]] use.**
 	- _Example: I can book tickets for the concert next week._
-- **To write [[d/_down|down]], to register or record in a [[b/_book|book]] or as in a [[b/_book|book]].**
+- **To write [[d/_down|down]], to [[r/_register|register]] or [[r/_record|record]] in a [[b/_book|book]] or as in a [[b/_book|book]].**
 	- _Example: They booked that message from the hill_
-- **([[l/_law|law]] [[e/_enforcement|enforcement]]) To record the [[n/_name|name]] and [[o/_other|other]] [[d/_details|details]] of a suspected [[o/_offender|offender]] and the [[o/_offence|offence]] for [[l/_later|later]] [[j/_judicial|judicial]] [[a/_action|action]].**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) To [[r/_record|record]] the [[n/_name|name]] and [[o/_other|other]] [[d/_details|details]] of a suspected [[o/_offender|offender]] and the [[o/_offence|offence]] for [[l/_later|later]] [[j/_judicial|judicial]] [[a/_action|action]].**
 	- _Example: The police booked him for driving too fast._
-- **To [[i/_issue|issue]] with a [[c/_caution|caution]], usually a [[y/_yellow|yellow]] [[c/_card|card]], or a red [[c/_card|card]] [[i/_if|if]] a [[y/_yellow|yellow]] [[c/_card|card]] [[h/_has|has]] [[a/_already|already]] [[b/_been|been]] [[i/_issued|issued]].**
+- **To [[i/_issue|issue]] with a [[c/_caution|caution]], usually a [[y/_yellow|yellow]] [[c/_card|card]], or a [[r/_red|red]] [[c/_card|card]] [[i/_if|if]] a [[y/_yellow|yellow]] [[c/_card|card]] [[h/_has|has]] [[a/_already|already]] [[b/_been|been]] [[i/_issued|issued]].**
 - **To travel very [[f/_fast|fast]].**
 	- _Example: He was really booking, until he passed the speed trap._
-- **To record [[b/_bets|bets]] as [[b/_bookmaker|bookmaker]].**
-- **([[l/_law|law]] student slang) To receive the [[h/_highest|highest]] [[g/_grade|grade]] in a [[c/_class|class]].**
+- **To [[r/_record|record]] [[b/_bets|bets]] as [[b/_bookmaker|bookmaker]].**
+- **([[l/_law|law]] student [[s/_slang|slang]]) To [[r/_receive|receive]] the [[h/_highest|highest]] [[g/_grade|grade]] in a [[c/_class|class]].**
 	- _Example: The top three students had a bet on which one was going to book their intellectual property class._
 - **To [[l/_leave|leave]].**
 	- _Example: He was here earlier, but he booked._

@@ -1,24 +1,24 @@
 # Chambers
 ---
 #noun
-- **A room or set of rooms, [[p/_particularly|particularly]]:**
+- **A [[r/_room|room]] or [[s/_set|set]] of [[r/_rooms|rooms]], [[p/_particularly|particularly]]:**
 - **A chamberpot.**
 - **The [[l/_legislature|legislature]] or [[d/_division|division]] of the [[l/_legislature|legislature]] [[i/_itself|itself]].**
 	- _Example: The resolution, which speedily passed the Senate, was unable to gain a majority in the lower chamber._
-- **[[a/_any|Any]] [[e/_enclosed|enclosed]] space [[o/_occupying|occupying]] or similar to a room.**
+- **[[a/_any|Any]] [[e/_enclosed|enclosed]] [[s/_space|space]] [[o/_occupying|occupying]] or [[s/_similar|similar]] to a [[r/_room|room]].**
 	- _Example: A canal lock chamber; a furnace chamber; a test chamber_
-- **An [[e/_enlarged|enlarged]] space in an underground tunnel of a [[b/_burrowing|burrowing]] [[a/_animal|animal]].**
-- **The [[a/_area|area]] [[h/_holding|holding]] the [[a/_ammunition|ammunition]] round at the [[i/_initiation|initiation]] of [[i/_its|its]] [[d/_discharge|discharge]].**
+- **An [[e/_enlarged|enlarged]] [[s/_space|space]] in an underground tunnel of a [[b/_burrowing|burrowing]] [[a/_animal|animal]].**
+- **The [[a/_area|area]] [[h/_holding|holding]] the [[a/_ammunition|ammunition]] [[r/_round|round]] at the [[i/_initiation|initiation]] of [[i/_its|its]] [[d/_discharge|discharge]].**
 	- _Example: Dianne loaded a cartridge into the chamber of the rifle, then prepared to take aim at the target._
-- **[[o/_one|One]] of the [[b/_bullet|bullet]]-[[h/_holding|holding]] [[c/_compartments|compartments]] in the [[c/_cylinder|cylinder]] of a revolver.**
-- **A short [[p/_piece|piece]] of [[o/_ordnance|ordnance]] or [[c/_cannon|cannon]] which stood on [[i/_its|its]] [[b/_breech|breech]] without [[a/_any|any]] [[c/_carriage|carriage]], [[f/_formerly|formerly]] used [[c/_chiefly|chiefly]] for [[c/_celebrations|celebrations]] and theatrical [[c/_cannonades|cannonades]].**
+- **[[o/_one|One]] of the [[b/_bullet|bullet]]-[[h/_holding|holding]] [[c/_compartments|compartments]] in the [[c/_cylinder|cylinder]] of a [[r/_revolver|revolver]].**
+- **A [[s/_short|short]] [[p/_piece|piece]] of [[o/_ordnance|ordnance]] or [[c/_cannon|cannon]] which stood on [[i/_its|its]] [[b/_breech|breech]] without [[a/_any|any]] [[c/_carriage|carriage]], [[f/_formerly|formerly]] used [[c/_chiefly|chiefly]] for [[c/_celebrations|celebrations]] and theatrical [[c/_cannonades|cannonades]].**
 - **[[o/_one|One]] of the two [[a/_atria|atria]] or two ventricles of the [[h/_heart|heart]].**
 ---
 #verb
-- **To [[e/_enclose|enclose]] in a room.**
+- **To [[e/_enclose|enclose]] in a [[r/_room|room]].**
 	- _Example: She had chambered herself in her room, and wouldn't come out._
-- **To reside in or [[o/_occupy|occupy]] a [[c/_chamber|chamber]] or [[c/_chambers|chambers]].**
-- **To [[p/_place|place]] in a [[c/_chamber|chamber]], as a round of [[a/_ammunition|ammunition]].**
+- **To [[r/_reside|reside]] in or [[o/_occupy|occupy]] a [[c/_chamber|chamber]] or [[c/_chambers|chambers]].**
+- **To [[p/_place|place]] in a [[c/_chamber|chamber]], as a [[r/_round|round]] of [[a/_ammunition|ammunition]].**
 	- _Example: The hunter fired at the geese and missed, then shrugged his shoulders and chambered another cartridge._
 - **To [[c/_create|create]] or [[m/_modify|modify]] a [[g/_gun|gun]] to be a specific [[c/_caliber|caliber]].**
 	- _Example: The rifle was originally chambered for 9mm, but had since been modified for a larger, wildcat caliber._
@@ -32,8 +32,8 @@
 - **A [[c/_container|container]] used for urination and [[d/_defecation|defecation]], [[p/_particularly|particularly]] those used in [[e/_early|early]] [[m/_modern|modern]] towns [[b/_before|before]] the [[a/_advent|advent]] of the [[f/_flush|flush]] toilet.**
 ---
 #noun
-- **A [[j/_judge|judge]]'s private [[o/_office|office]].**
-- **The rooms used by a [[b/_barrister|barrister]] or to an [[a/_association|association]] of [[b/_barristers|barristers]].**
+- **A [[j/_judge|judge]]'[[s/_s|s]] [[p/_private|private]] [[o/_office|office]].**
+- **The [[r/_rooms|rooms]] used by a [[b/_barrister|barrister]] or to an [[a/_association|association]] of [[b/_barristers|barristers]].**
 - **[[b/_bedroom|Bedroom]]**
 ---
 ---

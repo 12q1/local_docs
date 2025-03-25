@@ -9,8 +9,8 @@
 	- _Example: Desire consumed him._
 - **To [[d/_destroy|destroy]] [[c/_completely|completely]].**
 	- _Example: The building was consumed by fire._
-- **To waste [[a/_away|away]] slowly.**
-- **To trade [[m/_money|money]] for [[g/_good|good]] or services as an [[i/_individual|individual]].**
+- **To waste [[a/_away|away]] [[s/_slowly|slowly]].**
+- **To trade [[m/_money|money]] for [[g/_good|good]] or [[s/_services|services]] as an [[i/_individual|individual]].**
 	- _Example: If you consume this product while in Japan, you may be subject to consumption tax._
 - **To [[a/_absorb|absorb]] [[i/_information|information]], [[e/_especially|especially]] through the [[m/_mass|mass]] [[m/_media|media]].**
 	- _Example: The Internet has changed the way we consume news._

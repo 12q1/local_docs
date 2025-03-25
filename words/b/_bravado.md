@@ -1,9 +1,9 @@
 # Bravado
 ---
 #noun
-- **A swaggering show of [[d/_defiance|defiance]] or [[c/_courage|courage]].**
+- **A swaggering [[s/_show|show]] of [[d/_defiance|defiance]] or [[c/_courage|courage]].**
 	- _Example: The angry customer stood in the middle of the showroom and voiced his complaints with loud bravado._
-- **A [[f/_false|false]] show of [[c/_courage|courage]].**
+- **A [[f/_false|false]] [[s/_show|show]] of [[c/_courage|courage]].**
 - **A swaggerer; a [[b/_braggart|braggart]].**
 ---
 #verb

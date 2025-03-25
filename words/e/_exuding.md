@@ -5,6 +5,6 @@
 - **To [[f/_flow|flow]] [[o/_out|out]] through the [[p/_pores|pores]].**
 ---
 #noun
-- **The process by which something [[e/_exudes|exudes]].**
+- **The [[p/_process|process]] by which [[s/_something|something]] [[e/_exudes|exudes]].**
 ---
 ---

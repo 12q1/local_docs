@@ -1,8 +1,8 @@
 # Feckless
 ---
 #adjective
-- **[[l/_lacking|Lacking]] purpose.**
-- **Without skill, [[i/_ineffective|ineffective]], [[i/_incompetent|incompetent]].**
+- **[[l/_lacking|Lacking]] [[p/_purpose|purpose]].**
+- **Without [[s/_skill|skill]], [[i/_ineffective|ineffective]], [[i/_incompetent|incompetent]].**
 - **[[l/_lacking|Lacking]] the [[c/_courage|courage]] to [[a/_act|act]] in [[a/_any|any]] [[m/_meaningful|meaningful]] way.**
 - **[[l/_lacking|Lacking]] vitality.**
 ---

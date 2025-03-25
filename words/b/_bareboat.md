@@ -1,6 +1,6 @@
 # Bareboat
 ---
 #adjective
-- **[[b/_being|Being]] or [[p/_pertaining|pertaining]] to a [[c/_charter|charter]] for the [[h/_hire|hire]] of a [[b/_boat|boat]] without [[a/_any|any]] [[c/_crew|crew]] or provisions [[i/_included|included]].**
+- **[[b/_being|Being]] or [[p/_pertaining|pertaining]] to a [[c/_charter|charter]] for the [[h/_hire|hire]] of a [[b/_boat|boat]] without [[a/_any|any]] [[c/_crew|crew]] or [[p/_provisions|provisions]] [[i/_included|included]].**
 ---
 ---

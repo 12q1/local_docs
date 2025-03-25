@@ -5,6 +5,6 @@
 	- _Example: banco money_
 ---
 #adjective
-- **[[b/_being|Being]] or relating to a type of [[c/_court|court]] [[i/_involving|involving]] a [[b/_bench|bench]] of [[j/_judges|judges]]. Quite [[o/_often|often]], the [[b/_banco|Banco]] [[c/_court|Court]] is an [[a/_appeals|appeals]] [[c/_court|court]].**
+- **[[b/_being|Being]] or [[r/_relating|relating]] to a type of [[c/_court|court]] [[i/_involving|involving]] a [[b/_bench|bench]] of [[j/_judges|judges]]. [[q/_quite|Quite]] [[o/_often|often]], the [[b/_banco|Banco]] [[c/_court|Court]] is an [[a/_appeals|appeals]] [[c/_court|court]].**
 ---
 ---

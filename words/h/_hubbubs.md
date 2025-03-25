@@ -1,6 +1,6 @@
 # Hubbubs
 ---
 #noun
-- **A [[c/_confused|confused]] uproar, [[c/_commotion|commotion]], tumult or racket.**
+- **A [[c/_confused|confused]] uproar, [[c/_commotion|commotion]], tumult or [[r/_racket|racket]].**
 ---
 ---

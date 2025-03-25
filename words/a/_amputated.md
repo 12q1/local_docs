@@ -1,9 +1,9 @@
 # Amputated
 ---
 #verb
-- **To surgically remove a [[p/_part|part]] of the [[b/_body|body]], [[e/_especially|especially]] a [[l/_limb|limb]]**
+- **To surgically [[r/_remove|remove]] a [[p/_part|part]] of the [[b/_body|body]], [[e/_especially|especially]] a [[l/_limb|limb]]**
 ---
 #adjective
-- **[[h/_having|Having]] [[b/_been|been]] removed or [[c/_cut|cut]] [[o/_off|off]].**
+- **[[h/_having|Having]] [[b/_been|been]] [[r/_removed|removed]] or [[c/_cut|cut]] [[o/_off|off]].**
 ---
 ---

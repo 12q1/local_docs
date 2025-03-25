@@ -6,7 +6,7 @@
 	- _Example: In the darkness, the gun cocked loudly._
 - **To [[e/_erect|erect]]; to turn up.**
 - **To [[c/_copulate|copulate]] with.**
-- **To turn or twist something upwards or to [[o/_one|one]] side; to [[l/_lift|lift]] or tilt ([[e/_e|e]].[[g/_g|g]]. [[h/_headwear|headwear]]) [[b/_boastfully|boastfully]].**
+- **To turn or twist [[s/_something|something]] upwards or to [[o/_one|one]] [[s/_side|side]]; to [[l/_lift|lift]] or tilt ([[e/_e|e]].[[g/_g|g]]. [[h/_headwear|headwear]]) [[b/_boastfully|boastfully]].**
 	- _Example: He cocked his hat jauntily._
 - **To turn (the [[e/_eye|eye]]) [[o/_obliquely|obliquely]] and [[p/_partially|partially]] [[c/_close|close]] [[i/_its|its]] [[l/_lid|lid]], as an [[e/_expression|expression]] of [[d/_derision|derision]] or [[i/_insinuation|insinuation]].**
 - **To strut; to swagger; to [[l/_look|look]] [[b/_big|big]], [[p/_pert|pert]], or [[m/_menacing|menacing]].**

@@ -13,6 +13,6 @@
 - **[[b/_brought|Brought]] to a [[l/_lower|lower]] temperature.**
 - **[[b/_brought|Brought]] to a [[l/_lower|lower]] temperature by [[m/_means|means]] of ([[o/_often|often]] in [[c/_compounds|compounds]]).**
 	- _Example: a water-cooled engine_
-- **[[b/_brought|Brought]] to a reduced [[d/_degree|degree]] of [[a/_anger|anger]] or [[f/_fervour|fervour]].**
+- **[[b/_brought|Brought]] to a [[r/_reduced|reduced]] [[d/_degree|degree]] of [[a/_anger|anger]] or [[f/_fervour|fervour]].**
 ---
 ---

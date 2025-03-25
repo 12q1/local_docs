@@ -1,9 +1,9 @@
 # Dewaxing
 ---
 #verb
-- **To remove wax from a [[m/_material|material]] or from a surface.**
+- **To [[r/_remove|remove]] wax from a [[m/_material|material]] or from a surface.**
 ---
 #noun
-- **A process in which wax is removed from a [[m/_material|material]] or a surface.**
+- **A [[p/_process|process]] in which wax is [[r/_removed|removed]] from a [[m/_material|material]] or a surface.**
 ---
 ---

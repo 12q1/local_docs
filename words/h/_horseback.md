@@ -2,7 +2,7 @@
 ---
 #noun
 - **(usually with on, upon, [[e/_etc|etc]].) The [[b/_back|back]] of a [[h/_horse|horse]].**
-- **A ridge of sand, [[g/_gravel|gravel]], and [[b/_boulders|boulders]].**
+- **A [[r/_ridge|ridge]] of [[s/_sand|sand]], [[g/_gravel|gravel]], and [[b/_boulders|boulders]].**
 ---
 ### Synonyms
 - [[e/_esker|esker]]

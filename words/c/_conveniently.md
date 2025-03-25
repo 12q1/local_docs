@@ -1,6 +1,6 @@
 # Conveniently
 ---
 #adverb
-- **In a [[c/_convenient|convenient]] [[m/_manner|manner]], [[f/_form|form]], or situation; without [[d/_difficulty|difficulty]].**
+- **In a [[c/_convenient|convenient]] [[m/_manner|manner]], [[f/_form|form]], or [[s/_situation|situation]]; without [[d/_difficulty|difficulty]].**
 ---
 ---

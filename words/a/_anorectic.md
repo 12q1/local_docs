@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_person|person]] suffering from [[a/_anorexia|anorexia]] [[n/_nervosa|nervosa]]; an [[a/_anorexic|anorexic]].**
-- **A [[d/_drug|drug]] or [[d/_dietary|dietary]] supplement that reduces the [[a/_appetite|appetite]] so as to promote weight [[l/_loss|loss]].**
+- **A [[d/_drug|drug]] or [[d/_dietary|dietary]] supplement that [[r/_reduces|reduces]] the [[a/_appetite|appetite]] [[s/_so|so]] as to [[p/_promote|promote]] weight [[l/_loss|loss]].**
 ---
 #adjective
 - **[[c/_characterised|Characterised]] by a [[l/_lack|lack]] of [[a/_appetite|appetite]], [[e/_especially|especially]] as suffering from [[a/_anorexia|anorexia]] [[n/_nervosa|nervosa]]; [[a/_anorexic|anorexic]].**

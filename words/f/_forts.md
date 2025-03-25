@@ -8,6 +8,6 @@
 ### Synonyms
 - [[b/_bastion|bastion]], [[b/_bulwark|bulwark]], [[b/_bunker|bunker]], [[c/_castle|castle]], [[c/_citadel|citadel]], [[d/_donjon|donjon]], [[f/_fortification|fortification]], [[f/_fortress|fortress]], [[f/_foxhole|foxhole]], [[k/_keep|keep]], [[r/_rampart|rampart]], [[s/_stronghold|stronghold]], [[a/_armory|armory]], [[a/_arsenal|arsenal]], [[b/_base|base]], [[c/_camp|camp]], [[h/_headquarters|headquarters]], [[w/_watchtower|watchtower]]
 #verb
-- **To [[c/_create|create]] a [[f/_fort|fort]], [[f/_fortifications|fortifications]], a strong [[p/_point|point]], or a redoubt.**
+- **To [[c/_create|create]] a [[f/_fort|fort]], [[f/_fortifications|fortifications]], a strong [[p/_point|point]], or a [[r/_redoubt|redoubt]].**
 ---
 ---

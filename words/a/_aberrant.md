@@ -1,14 +1,14 @@
 # Aberrant
 ---
 #noun
-- **A [[p/_person|person]] or [[o/_object|object]] that [[d/_deviates|deviates]] from the rest of a [[g/_group|group]].**
+- **A [[p/_person|person]] or [[o/_object|object]] that [[d/_deviates|deviates]] from the [[r/_rest|rest]] of a [[g/_group|group]].**
 - **A [[g/_group|group]], [[i/_individual|individual]], or structure that [[d/_deviates|deviates]] from the usual or [[n/_natural|natural]] type, [[e/_especially|especially]] with an [[a/_atypical|atypical]] [[c/_chromosome|chromosome]] [[n/_number|number]].**
 ---
 ### Synonyms
 - [[d/_deviant|deviant]], [[f/_freak|freak]]
 #adjective
 - **[[d/_differing|Differing]] from the [[n/_norm|norm]].**
-- **(sometimes [[f/_figurative|figurative]]) Straying from the right way; [[d/_deviating|deviating]] from [[m/_morality|morality]] or truth.**
+- **([[s/_sometimes|sometimes]] [[f/_figurative|figurative]]) Straying from the [[r/_right|right]] way; [[d/_deviating|deviating]] from [[m/_morality|morality]] or truth.**
 - **[[d/_deviating|Deviating]] from the [[o/_ordinary|ordinary]] or [[n/_natural|natural]] type; [[e/_exceptional|exceptional]]; [[a/_abnormal|abnormal]].**
 ---
 ### Synonyms

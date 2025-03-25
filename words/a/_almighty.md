@@ -1,7 +1,7 @@
 # Almighty
 ---
 #adjective
-- **(sometimes [[p/_postpositive|postpositive]]) Unlimited in [[m/_might|might]]; [[o/_omnipotent|omnipotent]]; [[a/_all|all]]-[[p/_powerful|powerful]]**
+- **([[s/_sometimes|sometimes]] [[p/_postpositive|postpositive]]) Unlimited in [[m/_might|might]]; [[o/_omnipotent|omnipotent]]; [[a/_all|all]]-[[p/_powerful|powerful]]**
 	- _Example: God almighty_
 - **[[g/_great|Great]]; [[e/_extreme|extreme]]; terrible.**
 	- _Example: I heard an almighty crash and ran into the kitchen to see what had happened._

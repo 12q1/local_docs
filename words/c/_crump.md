@@ -1,9 +1,9 @@
 # Crump
 ---
 #noun
-- **The sound of a [[m/_muffled|muffled]] [[e/_explosion|explosion]].**
+- **The [[s/_sound|sound]] of a [[m/_muffled|muffled]] [[e/_explosion|explosion]].**
 ---
 #verb
-- **To produce such a sound.**
+- **To [[p/_produce|produce]] such a [[s/_sound|sound]].**
 ---
 ---

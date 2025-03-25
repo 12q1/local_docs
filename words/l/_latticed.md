@@ -7,7 +7,7 @@
 	- _Example: to lattice a window_
 ---
 #adjective
-- **Provided with [[l/_latticework|latticework]]; [[h/_having|having]] a [[p/_pattern|pattern]] of [[f/_fretwork|fretwork]].**
-- **Shaped or [[a/_arranged|arranged]] [[l/_like|like]] [[l/_lattice|lattice]].**
+- **[[p/_provided|Provided]] with [[l/_latticework|latticework]]; [[h/_having|having]] a [[p/_pattern|pattern]] of [[f/_fretwork|fretwork]].**
+- **[[s/_shaped|Shaped]] or [[a/_arranged|arranged]] [[l/_like|like]] [[l/_lattice|lattice]].**
 ---
 ---

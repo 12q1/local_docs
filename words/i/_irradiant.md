@@ -1,6 +1,6 @@
 # Irradiant
 ---
 #adjective
-- **That radiates [[l/_light|light]]**
+- **That [[r/_radiates|radiates]] [[l/_light|light]]**
 ---
 ---

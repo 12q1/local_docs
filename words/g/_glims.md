@@ -7,6 +7,6 @@
 - **A [[p/_pair|pair]] of [[g/_glasses|glasses]] or spectacles.**
 - **A [[l/_look|look]]; a [[g/_glimpse|glimpse]].**
 - **[[g/_gonorrhea|Gonorrhea]]**
-- **[[f/_fake|Fake]] [[d/_documents|documents]] [[c/_claiming|claiming]] the [[l/_loss|loss]] of property by [[f/_fire|fire]] (for use in [[b/_begging|begging]]).**
+- **[[f/_fake|Fake]] [[d/_documents|documents]] [[c/_claiming|claiming]] the [[l/_loss|loss]] of [[p/_property|property]] by [[f/_fire|fire]] (for use in [[b/_begging|begging]]).**
 ---
 ---

@@ -1,7 +1,7 @@
 # Beetled
 ---
 #verb
-- **To [[m/_move|move]] [[a/_away|away]] quickly, to scurry [[a/_away|away]].**
+- **To [[m/_move|move]] [[a/_away|away]] [[q/_quickly|quickly]], to [[s/_scurry|scurry]] [[a/_away|away]].**
 	- _Example: He beetled off on his vacation._
 ---
 #verb
@@ -10,10 +10,10 @@
 ---
 #verb
 - **To [[b/_beat|beat]] with a [[h/_heavy|heavy]] [[m/_mallet|mallet]].**
-- **To [[f/_finish|finish]] by subjecting to a [[h/_hammering|hammering]] process in a [[b/_beetle|beetle]] or [[b/_beetling|beetling]] [[m/_machine|machine]].**
+- **To [[f/_finish|finish]] by subjecting to a [[h/_hammering|hammering]] [[p/_process|process]] in a [[b/_beetle|beetle]] or [[b/_beetling|beetling]] [[m/_machine|machine]].**
 	- _Example: to beetle cotton goods_
 ---
 #adjective
-- **Projecting [[o/_over|over]].**
+- **[[p/_projecting|Projecting]] [[o/_over|over]].**
 ---
 ---

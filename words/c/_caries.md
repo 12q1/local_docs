@@ -1,7 +1,7 @@
 # Caries
 ---
 #noun
-- **The progressive [[d/_destruction|destruction]] of [[b/_bone|bone]] or tooth by [[d/_decay|decay]]**
+- **The [[p/_progressive|progressive]] [[d/_destruction|destruction]] of [[b/_bone|bone]] or tooth by [[d/_decay|decay]]**
 ---
 ### Synonyms
 - [[c/_cavity|cavity]]

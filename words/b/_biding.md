@@ -2,6 +2,6 @@
 ---
 #noun
 - **An [[a/_awaiting|awaiting]]; [[e/_expectation|expectation]].**
-- **Residence; [[h/_habitation|habitation]].**
+- **[[r/_residence|Residence]]; [[h/_habitation|habitation]].**
 ---
 ---

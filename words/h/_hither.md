@@ -1,7 +1,7 @@
 # Hither
 ---
 #adjective
-- **On this side; the [[n/_nearer|nearer]].**
+- **On this [[s/_side|side]]; the [[n/_nearer|nearer]].**
 	- _Example: 1954, The essential Not-self could be perceived very clearly in things and in living creatures on the hither side of good and evil. — Aldous Huxley, The Doors of Perception (Chatto & Windus 1954, p. 30)_
 ---
 ### Synonyms

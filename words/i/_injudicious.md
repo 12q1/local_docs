@@ -1,7 +1,7 @@
 # Injudicious
 ---
 #adjective
-- **Showing [[p/_poor|poor]] [[j/_judgement|judgement]]; not well [[j/_judged|judged]].**
+- **[[s/_showing|Showing]] [[p/_poor|poor]] [[j/_judgement|judgement]]; not well [[j/_judged|judged]].**
 ---
 ### Synonyms
 - [[i/_imprudent|imprudent]], [[u/_unwise|unwise]]

@@ -1,9 +1,9 @@
 # Learning
 ---
 #verb
-- **To [[a/_acquire|acquire]], or [[a/_attempt|attempt]] to [[a/_acquire|acquire]] [[k/_knowledge|knowledge]] or an [[a/_ability|ability]] to [[d/_do|do]] something.**
+- **To [[a/_acquire|acquire]], or [[a/_attempt|attempt]] to [[a/_acquire|acquire]] [[k/_knowledge|knowledge]] or an [[a/_ability|ability]] to [[d/_do|do]] [[s/_something|something]].**
 - **To [[a/_attend|attend]] a [[c/_course|course]] or [[o/_other|other]] [[e/_educational|educational]] [[a/_activity|activity]].**
-- **To [[g/_gain|gain]] [[k/_knowledge|knowledge]] from a [[b/_bad|bad]] [[e/_experience|experience]] so as to [[i/_improve|improve]].**
+- **To [[g/_gain|gain]] [[k/_knowledge|knowledge]] from a [[b/_bad|bad]] [[e/_experience|experience]] [[s/_so|so]] as to [[i/_improve|improve]].**
 	- _Example: learn from one's mistakes_
 - **To study.**
 	- _Example: I learn medicine._
@@ -19,9 +19,9 @@
 	- _Example: Give him a clip round the ear. That'll learn him!_
 ---
 #noun
-- **An [[a/_act|act]] in which something is [[l/_learned|learned]].**
+- **An [[a/_act|act]] in which [[s/_something|something]] is [[l/_learned|learned]].**
 - **[[a/_accumulated|Accumulated]] [[k/_knowledge|knowledge]].**
 	- _Example: The department head was also a scholar of great learning._
-- **Something that [[h/_has|has]] [[b/_been|been]] [[l/_learned|learned]]**
+- **[[s/_something|Something]] that [[h/_has|has]] [[b/_been|been]] [[l/_learned|learned]]**
 ---
 ---

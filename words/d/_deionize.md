@@ -1,6 +1,6 @@
 # Deionize
 ---
 #verb
-- **To remove the [[i/_ions|ions]] from**
+- **To [[r/_remove|remove]] the [[i/_ions|ions]] from**
 ---
 ---

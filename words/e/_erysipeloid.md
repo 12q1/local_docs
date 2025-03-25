@@ -6,6 +6,6 @@
 ### Synonyms
 - 
 #adjective
-- **Resembling [[e/_erysipelas|erysipelas]].**
+- **[[r/_resembling|Resembling]] [[e/_erysipelas|erysipelas]].**
 ---
 ---

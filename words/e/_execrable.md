@@ -1,7 +1,7 @@
 # Execrable
 ---
 #adjective
-- **Of the [[p/_poorest|poorest]] quality.**
+- **Of the [[p/_poorest|poorest]] [[q/_quality|quality]].**
 - **[[h/_hateful|Hateful]].**
 ---
 ### Synonyms

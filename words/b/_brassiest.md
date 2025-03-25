@@ -1,7 +1,7 @@
 # Brassiest
 ---
 #adjective
-- **Resembling [[b/_brass|brass]].**
+- **[[r/_resembling|Resembling]] [[b/_brass|brass]].**
 	- _Example: The cup had a brassy color._
 - **[[i/_impudent|Impudent]]; [[i/_impudently|impudently]] [[b/_bold|bold]].**
 	- _Example: Don't get brassy with me, young lady!_

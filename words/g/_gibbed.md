@@ -10,6 +10,6 @@
 - **To [[i/_install|install]] [[p/_plasterboard|plasterboard]].**
 ---
 #adjective
-- **[[f/_finished|Finished]] with [[p/_plasterboard|plasterboard]], as [[o/_opposed|opposed]] to some [[o/_other|other]] surface [[m/_material|material]].**
+- **[[f/_finished|Finished]] with [[p/_plasterboard|plasterboard]], as [[o/_opposed|opposed]] to [[s/_some|some]] [[o/_other|other]] surface [[m/_material|material]].**
 ---
 ---

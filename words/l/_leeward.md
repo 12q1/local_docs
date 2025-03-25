@@ -1,7 +1,7 @@
 # Leeward
 ---
 #adjective
-- **On the side sheltered from the wind; in that [[d/_direction|direction]].**
+- **On the [[s/_side|side]] [[s/_sheltered|sheltered]] from the wind; in that [[d/_direction|direction]].**
 ---
 ### Synonyms
 - [[d/_downwind|downwind]]

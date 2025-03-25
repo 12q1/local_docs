@@ -1,7 +1,7 @@
 # Incomplete
 ---
 #noun
-- **Something [[i/_incomplete|incomplete]].**
+- **[[s/_something|Something]] [[i/_incomplete|incomplete]].**
 - **A [[d/_designation|designation]] of [[b/_being|being]] [[i/_incomplete|incomplete]].**
 	- _Example: He got four incompletes out of five courses last semester._
 ---

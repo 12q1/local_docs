@@ -1,6 +1,6 @@
 # Deluxe
 ---
 #adjective
-- **Very [[f/_fine|fine]] in quality or [[l/_luxurious|luxurious]].**
+- **Very [[f/_fine|fine]] in [[q/_quality|quality]] or [[l/_luxurious|luxurious]].**
 ---
 ---

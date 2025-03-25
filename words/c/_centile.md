@@ -1,6 +1,6 @@
 # Centile
 ---
 #noun
-- **Short for [[p/_percentile|percentile]].**
+- **[[s/_short|Short]] for [[p/_percentile|percentile]].**
 ---
 ---

@@ -6,9 +6,9 @@
 - **To [[l/_lead|lead]], [[g/_guide|guide]], or [[a/_assist|assist]] with the [[h/_hand|hand]]; to [[c/_conduct|conduct]].**
 	- _Example: to hand a lady into a carriage_
 - **To [[m/_manage|manage]].**
-- **To seize; to [[l/_lay|lay]] [[h/_hands|hands]] on.**
+- **To [[s/_seize|seize]]; to [[l/_lay|lay]] [[h/_hands|hands]] on.**
 - **To [[p/_pledge|pledge]] by the [[h/_hand|hand]]; to [[h/_handfast|handfast]].**
-- **(said of a sail) To [[f/_furl|furl]].**
+- **([[s/_said|said]] of a [[s/_sail|sail]]) To [[f/_furl|furl]].**
 - **To [[c/_cooperate|cooperate]].**
 ---
 #adjective

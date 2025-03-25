@@ -1,7 +1,7 @@
 # Baring
 ---
 #verb
-- **To uncover; to reveal.**
+- **To uncover; to [[r/_reveal|reveal]].**
 	- _Example: She bared her teeth at him._
 ---
 ### Synonyms
@@ -9,6 +9,6 @@
 ### Antonyms
 - [[c/_cover|cover]], [[h/_hide|hide]]
 #noun
-- **The [[a/_act|act]] by which something is [[l/_laid|laid]] [[b/_bare|bare]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[l/_laid|laid]] [[b/_bare|bare]].**
 ---
 ---

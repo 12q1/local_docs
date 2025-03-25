@@ -1,14 +1,14 @@
 # Daring
 ---
 #verb
-- **To [[h/_have|have]] [[e/_enough|enough]] [[c/_courage|courage]] (to [[d/_do|do]] something).**
+- **To [[h/_have|have]] [[e/_enough|enough]] [[c/_courage|courage]] (to [[d/_do|do]] [[s/_something|something]]).**
 	- _Example: I wouldn't dare argue with my boss._
-- **To [[d/_defy|defy]] or [[c/_challenge|challenge]] (someone to [[d/_do|do]] something)**
+- **To [[d/_defy|defy]] or [[c/_challenge|challenge]] ([[s/_someone|someone]] to [[d/_do|do]] [[s/_something|something]])**
 	- _Example: I dare you (to) kiss that girl._
-- **To [[h/_have|have]] [[e/_enough|enough]] [[c/_courage|courage]] to [[m/_meet|meet]] or [[d/_do|do]] something, [[g/_go|go]] somewhere, [[e/_etc|etc]].; to [[f/_face|face]] up to**
+- **To [[h/_have|have]] [[e/_enough|enough]] [[c/_courage|courage]] to [[m/_meet|meet]] or [[d/_do|do]] [[s/_something|something]], [[g/_go|go]] [[s/_somewhere|somewhere]], [[e/_etc|etc]].; to [[f/_face|face]] up to**
 	- _Example: Will you dare death to reach your goal?_
 - **To terrify; to [[d/_daunt|daunt]].**
-- **To [[c/_catch|catch]] ([[l/_larks|larks]]) by producing terror through the use of [[m/_mirrors|mirrors]], scarlet [[c/_cloth|cloth]], a [[h/_hawk|hawk]], [[e/_etc|etc]]., so that they [[l/_lie|lie]] still till a [[n/_net|net]] is thrown [[o/_over|over]] them.**
+- **To [[c/_catch|catch]] ([[l/_larks|larks]]) by [[p/_producing|producing]] terror through the use of [[m/_mirrors|mirrors]], [[s/_scarlet|scarlet]] [[c/_cloth|cloth]], a [[h/_hawk|hawk]], [[e/_etc|etc]]., [[s/_so|so]] that they [[l/_lie|lie]] still till a [[n/_net|net]] is thrown [[o/_over|over]] them.**
 ---
 #verb
 - **To stare stupidly or vacantly; to [[g/_gaze|gaze]] as though [[a/_amazed|amazed]] or terrified.**
@@ -20,9 +20,9 @@
 ### Synonyms
 - [[b/_boldness|boldness]]
 #adjective
-- **[[a/_adventurous|Adventurous]], willing to take on or [[l/_look|look]] for risks; [[o/_overbold|overbold]].**
-- **[[c/_courageous|Courageous]] or showing [[b/_bravery|bravery]]; [[d/_doughty|doughty]].**
-- **Racy; sexually provocative.**
+- **[[a/_adventurous|Adventurous]], willing to take on or [[l/_look|look]] for [[r/_risks|risks]]; [[o/_overbold|overbold]].**
+- **[[c/_courageous|Courageous]] or [[s/_showing|showing]] [[b/_bravery|bravery]]; [[d/_doughty|doughty]].**
+- **[[r/_racy|Racy]]; [[s/_sexually|sexually]] [[p/_provocative|provocative]].**
 ---
 ### Synonyms
 - [[a/_audacious|audacious]], [[b/_bold|bold]], [[d/_dareful|dareful]], [[v/_venturesome|venturesome]]

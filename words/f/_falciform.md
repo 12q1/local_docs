@@ -1,6 +1,6 @@
 # Falciform
 ---
 #adjective
-- **Sickle-shaped.**
+- **[[s/_sickle|Sickle]]-[[s/_shaped|shaped]].**
 ---
 ---

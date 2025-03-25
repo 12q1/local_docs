@@ -6,7 +6,7 @@
 	- _Example: The baptismal is in the front of the sanctuary._
 ---
 #adjective
-- **Of or relating to [[b/_baptism|baptism]].**
+- **Of or [[r/_relating|relating]] to [[b/_baptism|baptism]].**
 - **Of a [[n/_name|name]], [[c/_conferred|conferred]] at [[b/_baptism|baptism]].**
 ---
 ---

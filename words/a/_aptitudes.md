@@ -1,7 +1,7 @@
 # Aptitudes
 ---
 #noun
-- **[[n/_natural|Natural]] [[a/_ability|ability]] to [[a/_acquire|acquire]] [[k/_knowledge|knowledge]] or skill.**
+- **[[n/_natural|Natural]] [[a/_ability|ability]] to [[a/_acquire|acquire]] [[k/_knowledge|knowledge]] or [[s/_skill|skill]].**
 - **The [[c/_condition|condition]] of [[b/_being|being]] suitable.**
 ---
 ### Synonyms

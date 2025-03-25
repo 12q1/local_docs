@@ -1,10 +1,10 @@
 # Irreconcilable
 ---
 #noun
-- **Something that [[c/_cannot|cannot]] be reconciled.**
+- **[[s/_something|Something]] that [[c/_cannot|cannot]] be [[r/_reconciled|reconciled]].**
 ---
 #adjective
-- **Unable to be reconciled; [[o/_opposed|opposed]]; uncompromising.**
+- **Unable to be [[r/_reconciled|reconciled]]; [[o/_opposed|opposed]]; uncompromising.**
 - **[[i/_incompatible|Incompatible]], [[d/_discrepant|discrepant]], [[c/_contradictory|contradictory]].**
 ---
 ### Synonyms

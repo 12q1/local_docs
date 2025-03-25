@@ -5,6 +5,6 @@
 	- _Example: The houselights were dimmed as the curtain went up for the start of the play._
 ---
 #noun
-- **The [[l/_lights|lights]] that [[i/_illuminate|illuminate]] the [[a/_audience|audience]] section of an [[a/_auditorium|auditorium]], theatre, or [[o/_other|other]] [[e/_entertainment|entertainment]] venue.**
+- **The [[l/_lights|lights]] that [[i/_illuminate|illuminate]] the [[a/_audience|audience]] [[s/_section|section]] of an [[a/_auditorium|auditorium]], theatre, or [[o/_other|other]] [[e/_entertainment|entertainment]] venue.**
 ---
 ---

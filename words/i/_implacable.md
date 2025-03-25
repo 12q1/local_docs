@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Not [[a/_able|able]] to be [[p/_placated|placated]] or [[a/_appeased|appeased]].**
-- **[[i/_impossible|Impossible]] to prevent or stop; [[i/_inexorable|inexorable]], unrelenting, unstoppable.**
+- **[[i/_impossible|Impossible]] to [[p/_prevent|prevent]] or stop; [[i/_inexorable|inexorable]], unrelenting, unstoppable.**
 - **[[a/_adamant|Adamant]]; [[i/_immovable|immovable]].**
 ---
 ### Synonyms

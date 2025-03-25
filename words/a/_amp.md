@@ -1,11 +1,11 @@
 # Amp
 ---
 #noun
-- **Short for [[a/_ampere|ampere]].**
-- **Short for [[a/_amplifier|amplifier]].**
-- **Short for [[a/_ampoule|ampoule]].**
-- **Short for [[a/_amputee|amputee]].**
-- **Short for [[a/_ampicillin|ampicillin]].**
+- **[[s/_short|Short]] for [[a/_ampere|ampere]].**
+- **[[s/_short|Short]] for [[a/_amplifier|amplifier]].**
+- **[[s/_short|Short]] for [[a/_ampoule|ampoule]].**
+- **[[s/_short|Short]] for [[a/_amputee|amputee]].**
+- **[[s/_short|Short]] for [[a/_ampicillin|ampicillin]].**
 ---
 #verb
 - **(usually with up) To [[a/_amplify|amplify]].**

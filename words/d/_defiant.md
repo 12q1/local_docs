@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[d/_defying|Defying]].**
-- **[[b/_boldly|Boldly]] resisting [[o/_opposition|opposition]].**
+- **[[b/_boldly|Boldly]] [[r/_resisting|resisting]] [[o/_opposition|opposition]].**
 ---
 ### Synonyms
 - [[d/_dareful|dareful]], [[r/_rebellious|rebellious]]

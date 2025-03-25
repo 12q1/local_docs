@@ -1,7 +1,7 @@
 # Devilish
 ---
 #adjective
-- **Resembling a [[d/_devil|devil]].**
+- **[[r/_resembling|Resembling]] a [[d/_devil|devil]].**
 - **[[c/_characteristic|Characteristic]] of a [[d/_devil|devil]].**
 	- _Example: a devilish grin_
 - **[[e/_extreme|Extreme]], [[e/_excessive|excessive]].**

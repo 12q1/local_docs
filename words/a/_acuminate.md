@@ -1,8 +1,8 @@
 # Acuminate
 ---
 #verb
-- **To render sharp or [[k/_keen|keen]]; to sharpen.**
-- **To [[e/_end|end]] in or [[c/_come|come]] to a sharp [[p/_point|point]].**
+- **To [[r/_render|render]] [[s/_sharp|sharp]] or [[k/_keen|keen]]; to [[s/_sharpen|sharpen]].**
+- **To [[e/_end|end]] in or [[c/_come|come]] to a [[s/_sharp|sharp]] [[p/_point|point]].**
 ---
 #adjective
 - **Tapering to a [[p/_point|point]]; [[p/_pointed|pointed]].**

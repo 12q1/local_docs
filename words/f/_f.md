@@ -1,11 +1,11 @@
 # F
 ---
 #interjection
-- **Used to profess respect for a [[d/_deceased|deceased]] [[p/_person|person]], or for something that [[h/_has|has]] [[b/_been|been]] [[l/_lost|lost]].**
-- **Used to [[e/_express|express]] regret or [[d/_disappointment|disappointment]] [[a/_about|about]] an unfortunate [[e/_event|event]] or [[p/_piece|piece]] of [[i/_information|information]].**
+- **Used to [[p/_profess|profess]] [[r/_respect|respect]] for a [[d/_deceased|deceased]] [[p/_person|person]], or for [[s/_something|something]] that [[h/_has|has]] [[b/_been|been]] [[l/_lost|lost]].**
+- **Used to [[e/_express|express]] [[r/_regret|regret]] or [[d/_disappointment|disappointment]] [[a/_about|about]] an unfortunate [[e/_event|event]] or [[p/_piece|piece]] of [[i/_information|information]].**
 ---
 #noun
-- **([[a/_abbreviation|abbreviation]]) [[f/_folio|Folio]], [[p/_paper|paper]] and [[b/_book|book]] size (10"-12.5" x 15"-20")**
+- **([[a/_abbreviation|abbreviation]]) [[f/_folio|Folio]], [[p/_paper|paper]] and [[b/_book|book]] [[s/_size|size]] (10"-12.5" x 15"-20")**
 - **[[f/_fuck|Fuck]]**
 	- _Example: What the f do you think you're doing?_
 ---

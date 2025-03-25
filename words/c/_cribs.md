@@ -1,42 +1,42 @@
 # Cribs
 ---
 #noun
-- **A [[b/_baby|baby]]’s [[b/_bed|bed]] with [[h/_high|high]], [[o/_often|often]] slatted, [[o/_often|often]] [[m/_moveable|moveable]] sides, suitable for a [[c/_child|child]] who [[h/_has|has]] [[o/_outgrown|outgrown]] a [[c/_cradle|cradle]] or [[b/_bassinet|bassinet]].**
+- **A [[b/_baby|baby]]’[[s/_s|s]] [[b/_bed|bed]] with [[h/_high|high]], [[o/_often|often]] [[s/_slatted|slatted]], [[o/_often|often]] [[m/_moveable|moveable]] [[s/_sides|sides]], suitable for a [[c/_child|child]] who [[h/_has|has]] [[o/_outgrown|outgrown]] a [[c/_cradle|cradle]] or [[b/_bassinet|bassinet]].**
 - **A [[b/_bed|bed]] for a [[c/_child|child]] [[o/_older|older]] than a [[b/_baby|baby]].**
-- **A small sleeping [[b/_berth|berth]] in a [[p/_packet|packet]] ship or [[o/_other|other]] small vessel**
+- **A [[s/_small|small]] [[s/_sleeping|sleeping]] [[b/_berth|berth]] in a [[p/_packet|packet]] [[s/_ship|ship]] or [[o/_other|other]] [[s/_small|small]] vessel**
 - **A wicker [[b/_basket|basket]]; [[c/_compare|compare]] [[m/_moses|Moses]] [[b/_basket|basket]].**
 - **A [[m/_manger|manger]], a [[f/_feeding|feeding]] trough for [[a/_animals|animals]] [[e/_elevated|elevated]] [[o/_off|off]] the [[e/_earth|earth]] or [[f/_floor|floor]], [[e/_especially|especially]] [[o/_one|one]] for [[f/_fodder|fodder]] such as [[h/_hay|hay]].**
-- **The [[b/_baby|baby]] [[j/_jesus|Jesus]] and the [[m/_manger|manger]] in a [[c/_creche|creche]] or [[n/_nativity|nativity]] scene, [[c/_consisting|consisting]] of statues of [[m/_mary|Mary]], [[j/_joseph|Joseph]] and various [[o/_other|other]] [[c/_characters|characters]] such as the [[m/_magi|magi]].**
+- **The [[b/_baby|baby]] [[j/_jesus|Jesus]] and the [[m/_manger|manger]] in a [[c/_creche|creche]] or [[n/_nativity|nativity]] [[s/_scene|scene]], [[c/_consisting|consisting]] of statues of [[m/_mary|Mary]], [[j/_joseph|Joseph]] and various [[o/_other|other]] [[c/_characters|characters]] such as the [[m/_magi|magi]].**
 - **A [[b/_bin|bin]] for [[d/_drying|drying]] or storing [[g/_grain|grain]], as with a [[c/_corn|corn]] [[c/_crib|crib]].**
-- **A small room or [[c/_covered|covered]] structure, [[e/_especially|especially]] [[o/_one|one]] of rough [[c/_construction|construction]], used for storage or [[p/_penning|penning]] [[a/_animals|animals]].**
-- **A [[c/_confined|confined]] space, as with a [[c/_cage|cage]] or [[o/_office|office]]-[[c/_cubicle|cubicle]]**
+- **A [[s/_small|small]] [[r/_room|room]] or [[c/_covered|covered]] structure, [[e/_especially|especially]] [[o/_one|one]] of [[r/_rough|rough]] [[c/_construction|construction]], used for storage or [[p/_penning|penning]] [[a/_animals|animals]].**
+- **A [[c/_confined|confined]] [[s/_space|space]], as with a [[c/_cage|cage]] or [[o/_office|office]]-[[c/_cubicle|cubicle]]**
 - **A [[j/_job|job]], a [[p/_position|position]]; ([[b/_british|British]]), an [[a/_appointment|appointment]].**
-- **A [[h/_hovel|hovel]], a roughly [[c/_constructed|constructed]] [[b/_building|building]] [[b/_best|best]] suited to the shelter of [[a/_animals|animals]] but used for [[h/_human|human]] [[h/_habitation|habitation]].**
-- **[[o/_one|One]]’s residence, or where [[o/_one|one]] [[n/_normally|normally]] [[h/_hangs|hangs]] [[o/_out|out]]. A [[h/_house|house]] or [[d/_dwelling|dwelling]] [[p/_place|place]].**
-- **A [[b/_boxy|boxy]] structure traditionally [[b/_built|built]] of [[h/_heavy|heavy]] wooden timbers, to support an [[e/_existing|existing]] structure from [[b/_below|below]], as with a mineshaft or a [[b/_building|building]] [[b/_being|being]] raised [[o/_off|off]] [[i/_its|its]] [[f/_foundation|foundation]] in [[p/_preparation|preparation]] for [[b/_being|being]] [[m/_moved|moved]]; see [[c/_cribbing|cribbing]].**
-- **(usually in the [[p/_plural|plural]]) A [[c/_collection|collection]] of quotes or references for use in speaking, for [[a/_assembling|assembling]] a written [[d/_document|document]], or as an [[a/_aid|aid]] to a project of some sort; a [[c/_crib|crib]] sheet.**
+- **A [[h/_hovel|hovel]], a [[r/_roughly|roughly]] [[c/_constructed|constructed]] [[b/_building|building]] [[b/_best|best]] suited to the [[s/_shelter|shelter]] of [[a/_animals|animals]] but used for [[h/_human|human]] [[h/_habitation|habitation]].**
+- **[[o/_one|One]]’[[s/_s|s]] [[r/_residence|residence]], or where [[o/_one|one]] [[n/_normally|normally]] [[h/_hangs|hangs]] [[o/_out|out]]. A [[h/_house|house]] or [[d/_dwelling|dwelling]] [[p/_place|place]].**
+- **A [[b/_boxy|boxy]] structure traditionally [[b/_built|built]] of [[h/_heavy|heavy]] wooden timbers, to support an [[e/_existing|existing]] structure from [[b/_below|below]], as with a mineshaft or a [[b/_building|building]] [[b/_being|being]] [[r/_raised|raised]] [[o/_off|off]] [[i/_its|its]] [[f/_foundation|foundation]] in [[p/_preparation|preparation]] for [[b/_being|being]] [[m/_moved|moved]]; [[s/_see|see]] [[c/_cribbing|cribbing]].**
+- **(usually in the [[p/_plural|plural]]) A [[c/_collection|collection]] of [[q/_quotes|quotes]] or [[r/_references|references]] for use in [[s/_speaking|speaking]], for [[a/_assembling|assembling]] a written [[d/_document|document]], or as an [[a/_aid|aid]] to a [[p/_project|project]] of [[s/_some|some]] [[s/_sort|sort]]; a [[c/_crib|crib]] [[s/_sheet|sheet]].**
 - **A [[m/_minor|minor]] theft, [[e/_extortion|extortion]] or [[e/_embezzlement|embezzlement]], with or without [[c/_criminal|criminal]] [[i/_intent|intent]].**
 - **The [[c/_card|card]] [[g/_game|game]] [[c/_cribbage|cribbage]].**
 - **The [[c/_cards|cards]] [[d/_discarded|discarded]] by [[p/_players|players]] and used by the [[d/_dealer|dealer]].**
-- **A [[k/_known|known]] [[p/_piece|piece]] of [[i/_information|information]] [[c/_corresponding|corresponding]] to a section of [[e/_encrypted|encrypted]] text, that is then used to work [[o/_out|out]] the remaining sections.**
-- **A small [[h/_holiday|holiday]] [[h/_home|home]], [[o/_often|often]] [[n/_near|near]] a [[b/_beach|beach]] and of simple [[c/_construction|construction]].**
+- **A [[k/_known|known]] [[p/_piece|piece]] of [[i/_information|information]] [[c/_corresponding|corresponding]] to a [[s/_section|section]] of [[e/_encrypted|encrypted]] text, that is then used to work [[o/_out|out]] the [[r/_remaining|remaining]] [[s/_sections|sections]].**
+- **A [[s/_small|small]] [[h/_holiday|holiday]] [[h/_home|home]], [[o/_often|often]] [[n/_near|near]] a [[b/_beach|beach]] and of [[s/_simple|simple]] [[c/_construction|construction]].**
 - **A [[p/_packed|packed]] [[l/_lunch|lunch]] taken to work.**
-- **A small raft [[m/_made|made]] of timber.**
+- **A [[s/_small|small]] [[r/_raft|raft]] [[m/_made|made]] of timber.**
 - **(thieves' [[c/_cant|cant]]) The stomach.**
-- **A [[c/_cheat|cheat]] sheet or [[p/_past|past]] test used by students; [[c/_crib|crib]] sheet.**
+- **A [[c/_cheat|cheat]] [[s/_sheet|sheet]] or [[p/_past|past]] test used by students; [[c/_crib|crib]] [[s/_sheet|sheet]].**
 ---
 ### Synonyms
 - [[b/_bach|bach]], [[c/_cot|cot]]
 #verb
 - **To [[p/_place|place]] or [[c/_confine|confine]] in a [[c/_crib|crib]].**
-- **To shut up or [[c/_confine|confine]] in a [[n/_narrow|narrow]] [[h/_habitation|habitation]]; to [[c/_cage|cage]]; to [[c/_cramp|cramp]].**
-- **To [[c/_collect|collect]] [[o/_one|one]] or [[m/_more|more]] [[p/_passages|passages]] and/or references for use in a speech, written [[d/_document|document]] or as an [[a/_aid|aid]] for some task; to [[c/_create|create]] a [[c/_crib|crib]] sheet.**
+- **To [[s/_shut|shut]] up or [[c/_confine|confine]] in a [[n/_narrow|narrow]] [[h/_habitation|habitation]]; to [[c/_cage|cage]]; to [[c/_cramp|cramp]].**
+- **To [[c/_collect|collect]] [[o/_one|one]] or [[m/_more|more]] [[p/_passages|passages]] and/or [[r/_references|references]] for use in a speech, written [[d/_document|document]] or as an [[a/_aid|aid]] for [[s/_some|some]] task; to [[c/_create|create]] a [[c/_crib|crib]] [[s/_sheet|sheet]].**
 	- _Example: I cribbed the recipe from the Food Network site, but made a few changes of my own._
 - **To [[p/_plagiarize|plagiarize]]; to [[c/_copy|copy]]; to [[c/_cheat|cheat]].**
 - **To [[i/_install|install]] timber supports, as with [[c/_cribbing|cribbing]].**
 - **To steal or [[e/_embezzle|embezzle]], to [[c/_cheat|cheat]] [[o/_out|out]] of.**
 - **([[i/_indian|Indian]] [[e/_english|English]]) To [[c/_complain|complain]], to [[g/_grumble|grumble]]**
 - **To [[c/_crowd|crowd]] together, or to be [[c/_confined|confined]], as [[i/_if|if]] in a [[c/_crib|crib]] or in [[n/_narrow|narrow]] [[a/_accommodations|accommodations]].**
-- **(of a [[h/_horse|horse]]) To seize the [[m/_manger|manger]] or [[o/_other|other]] solid [[o/_object|object]] with the teeth and [[d/_draw|draw]] in wind.**
+- **(of a [[h/_horse|horse]]) To [[s/_seize|seize]] the [[m/_manger|manger]] or [[o/_other|other]] [[s/_solid|solid]] [[o/_object|object]] with the teeth and [[d/_draw|draw]] in wind.**
 ---
 ---

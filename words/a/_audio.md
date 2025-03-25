@@ -1,9 +1,9 @@
 # Audio
 ---
 #noun
-- **A sound, or a sound signal**
+- **A [[s/_sound|sound]], or a [[s/_sound|sound]] [[s/_signal|signal]]**
 ---
 #adjective
-- **[[f/_focused|Focused]] on [[a/_audible|audible]] sound, as [[o/_opposed|opposed]] to sight.**
+- **[[f/_focused|Focused]] on [[a/_audible|audible]] [[s/_sound|sound]], as [[o/_opposed|opposed]] to [[s/_sight|sight]].**
 ---
 ---

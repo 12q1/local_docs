@@ -8,7 +8,7 @@
 	- _Example: He has a deathly fear of crocodiles._
 ---
 #adverb
-- **In a way that resembles [[d/_death|death]].**
+- **In a way that [[r/_resembles|resembles]] [[d/_death|death]].**
 	- _Example: He was deathly pale._
 - **[[e/_extremely|Extremely]], [[d/_dreadfully|dreadfully]].**
 	- _Example: He was deathly afraid of crocodiles._

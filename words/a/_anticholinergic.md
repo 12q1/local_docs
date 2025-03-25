@@ -1,9 +1,9 @@
 # Anticholinergic
 ---
 #noun
-- **[[a/_any|Any]] of a [[c/_class|class]] of [[d/_drugs|drugs]], typically used to treat various [[d/_disorders|disorders]] and some [[f/_forms|forms]] of [[p/_poisoning|poisoning]], which [[i/_inhibit|inhibit]] the [[p/_physiological|physiological]] [[a/_action|action]] of [[a/_acetylcholine|acetylcholine]] at a receptor site**
+- **[[a/_any|Any]] of a [[c/_class|class]] of [[d/_drugs|drugs]], typically used to treat various [[d/_disorders|disorders]] and [[s/_some|some]] [[f/_forms|forms]] of [[p/_poisoning|poisoning]], which [[i/_inhibit|inhibit]] the [[p/_physiological|physiological]] [[a/_action|action]] of [[a/_acetylcholine|acetylcholine]] at a [[r/_receptor|receptor]] [[s/_site|site]]**
 ---
 #adjective
-- **That [[i/_inhibits|inhibits]] the [[p/_physiological|physiological]] [[a/_action|action]] of [[a/_acetylcholine|acetylcholine]] at a receptor site**
+- **That [[i/_inhibits|inhibits]] the [[p/_physiological|physiological]] [[a/_action|action]] of [[a/_acetylcholine|acetylcholine]] at a [[r/_receptor|receptor]] [[s/_site|site]]**
 ---
 ---

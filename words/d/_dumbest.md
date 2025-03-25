@@ -1,9 +1,9 @@
 # Dumbest
 ---
 #adjective
-- **Unable to speak; [[l/_lacking|lacking]] [[p/_power|power]] of speech ([[k/_kept|kept]] in "[[d/_deaf|deaf]], [[d/_dumb|dumb]], and [[b/_blind|blind]]").**
+- **Unable to [[s/_speak|speak]]; [[l/_lacking|lacking]] [[p/_power|power]] of speech ([[k/_kept|kept]] in "[[d/_deaf|deaf]], [[d/_dumb|dumb]], and [[b/_blind|blind]]").**
 	- _Example: His younger brother was born dumb, and communicated with sign language._
-- **Silent; unaccompanied by words.**
+- **[[s/_silent|Silent]]; unaccompanied by words.**
 	- _Example: dumb show_
 - **([[e/_especially|especially]] of a [[p/_person|person]]) [[e/_extremely|Extremely]] stupid.**
 	- _Example: You are so dumb! You don't even know how to make toast!_

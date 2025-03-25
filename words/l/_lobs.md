@@ -8,7 +8,7 @@
 - **A [[l/_lump|lump]].**
 - **A [[c/_country|country]] [[b/_bumpkin|bumpkin]]; a [[y/_yokel|yokel]].**
 - **A [[c/_clumsy|clumsy]] [[p/_person|person]].**
-- **The [[p/_person|person]] who [[c/_comes|comes]] [[l/_last|last]] in a race.**
+- **The [[p/_person|person]] who [[c/_comes|comes]] [[l/_last|last]] in a [[r/_race|race]].**
 - **A [[l/_lobworm|lobworm]].**
 ---
 #noun

@@ -5,7 +5,7 @@
 	- _Example: The dancer was wearing Highland costume._
 - **An [[o/_outfit|outfit]] or a [[d/_disguise|disguise]] worn as [[f/_fancy|fancy]] [[d/_dress|dress]] [[e/_etc|etc]].**
 	- _Example: We wore gorilla costumes to the party._
-- **A set of [[c/_clothes|clothes]] [[a/_appropriate|appropriate]] for a [[p/_particular|particular]] [[o/_occasion|occasion]] or season.**
+- **A [[s/_set|set]] of [[c/_clothes|clothes]] [[a/_appropriate|appropriate]] for a [[p/_particular|particular]] [[o/_occasion|occasion]] or [[s/_season|season]].**
 	- _Example: The bride wore a grey going-away costume._
 ---
 ### Synonyms

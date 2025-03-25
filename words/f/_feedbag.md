@@ -1,6 +1,6 @@
 # Feedbag
 ---
 #noun
-- **A [[h/_horse|horse]]'s [[n/_nosebag|nosebag]].**
+- **A [[h/_horse|horse]]'[[s/_s|s]] [[n/_nosebag|nosebag]].**
 ---
 ---

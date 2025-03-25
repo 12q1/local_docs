@@ -1,8 +1,8 @@
 # Kale
 ---
 #noun
-- **An [[e/_edible|edible]] [[p/_plant|plant]], similar to [[c/_cabbage|cabbage]], with [[c/_curled|curled]] [[l/_leaves|leaves]] that [[d/_do|do]] not [[f/_form|form]] a [[d/_dense|dense]] [[h/_head|head]] ([[b/_brassica|Brassica]] oleracea var. [[a/_acephala|acephala]])**
-- **[[a/_any|Any]] of several [[c/_cabbage|cabbage]]-[[l/_like|like]] [[f/_food|food]] [[p/_plants|plants]] that are [[k/_kinds|kinds]] of [[b/_brassica|Brassica]] oleracea.**
+- **An [[e/_edible|edible]] [[p/_plant|plant]], [[s/_similar|similar]] to [[c/_cabbage|cabbage]], with [[c/_curled|curled]] [[l/_leaves|leaves]] that [[d/_do|do]] not [[f/_form|form]] a [[d/_dense|dense]] [[h/_head|head]] ([[b/_brassica|Brassica]] oleracea var. [[a/_acephala|acephala]])**
+- **[[a/_any|Any]] of [[s/_several|several]] [[c/_cabbage|cabbage]]-[[l/_like|like]] [[f/_food|food]] [[p/_plants|plants]] that are [[k/_kinds|kinds]] of [[b/_brassica|Brassica]] oleracea.**
 - **[[b/_broth|Broth]] [[c/_containing|containing]] [[k/_kale|kale]] as a [[c/_chief|chief]] [[i/_ingredient|ingredient]].**
 - **[[m/_money|Money]].**
 ---

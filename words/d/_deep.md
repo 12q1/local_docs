@@ -1,28 +1,28 @@
 # Deep
 ---
 #noun
-- **(with "the") The [[d/_deep|deep]] [[p/_part|part]] of a [[l/_lake|lake]], sea, [[e/_etc|etc]].**
+- **(with "the") The [[d/_deep|deep]] [[p/_part|part]] of a [[l/_lake|lake]], [[s/_sea|sea]], [[e/_etc|etc]].**
 	- _Example: creatures of the deep_
-- **(with "the") A silent time; quiet [[i/_isolation|isolation]].**
+- **(with "the") A [[s/_silent|silent]] time; [[q/_quiet|quiet]] [[i/_isolation|isolation]].**
 	- _Example: the deep of night_
-- **A [[d/_deep|deep]] shade of [[c/_colour|colour]].**
-- **The profound [[p/_part|part]] of a problem.**
-- **(with "the") The sea, the [[o/_ocean|ocean]].**
+- **A [[d/_deep|deep]] [[s/_shade|shade]] of [[c/_colour|colour]].**
+- **The [[p/_profound|profound]] [[p/_part|part]] of a [[p/_problem|problem]].**
+- **(with "the") The [[s/_sea|sea]], the [[o/_ocean|ocean]].**
 - **A [[f/_fielding|fielding]] [[p/_position|position]] [[n/_near|near]] the [[b/_boundary|boundary]].**
 	- _Example: Russell is a safe pair of hands in the deep._
 ---
 #adjective
-- **(of a [[p/_physical|physical]] [[d/_distance|distance]]) [[e/_extending|Extending]] [[f/_far|far]] [[a/_away|away]] from a [[p/_point|point]] of reference, [[e/_especially|especially]] [[d/_downwards|downwards]].**
-- **([[i/_intellectual|intellectual]], social) [[c/_complex|Complex]], [[i/_involved|involved]].**
-- **(sound, voice) [[l/_low|Low]] in [[p/_pitch|pitch]].**
+- **(of a [[p/_physical|physical]] [[d/_distance|distance]]) [[e/_extending|Extending]] [[f/_far|far]] [[a/_away|away]] from a [[p/_point|point]] of [[r/_reference|reference]], [[e/_especially|especially]] [[d/_downwards|downwards]].**
+- **([[i/_intellectual|intellectual]], [[s/_social|social]]) [[c/_complex|Complex]], [[i/_involved|involved]].**
+- **([[s/_sound|sound]], voice) [[l/_low|Low]] in [[p/_pitch|pitch]].**
 	- _Example: She has a very deep contralto voice._
-- **(of a [[c/_color|color]]) [[h/_highly|Highly]] saturated.**
+- **(of a [[c/_color|color]]) [[h/_highly|Highly]] [[s/_saturated|saturated]].**
 	- _Example: That's a very deep shade of blue._
-- **(sleep) Sound, [[h/_heavy|heavy]] ([[d/_describing|describing]] a state of sleep from which [[o/_one|one]] is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
+- **([[s/_sleep|sleep]]) [[s/_sound|Sound]], [[h/_heavy|heavy]] ([[d/_describing|describing]] a state of [[s/_sleep|sleep]] from which [[o/_one|one]] is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
 	- _Example: He was in a deep sleep._
 - **[[i/_immersed|Immersed]], submerged (in).**
 	- _Example: deep in debt_
-- **[[m/_muddy|Muddy]]; [[b/_boggy|boggy]]; sandy; said of roads.**
+- **[[m/_muddy|Muddy]]; [[b/_boggy|boggy]]; [[s/_sandy|sandy]]; [[s/_said|said]] of [[r/_roads|roads]].**
 - **(of time) [[d/_distant|Distant]] in the [[p/_past|past]], [[a/_ancient|ancient]].**
 	- _Example: deep time_
 ---

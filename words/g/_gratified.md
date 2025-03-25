@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[p/_please|please]].**
-- **To [[m/_make|make]] [[c/_content|content]]; to satisfy.**
+- **To [[m/_make|make]] [[c/_content|content]]; to [[s/_satisfy|satisfy]].**
 ---
 ### Synonyms
 - [[g/_gladden|gladden]]

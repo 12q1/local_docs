@@ -1,9 +1,9 @@
 # Ballyhooed
 ---
 #verb
-- **To sensationalise or [[m/_make|make]] [[g/_grand|grand]] [[c/_claims|claims]].**
+- **To [[s/_sensationalise|sensationalise]] or [[m/_make|make]] [[g/_grand|grand]] [[c/_claims|claims]].**
 ---
 #adjective
-- **Sensationalised; [[p/_presented|presented]] with [[g/_grand|grand]] [[c/_claims|claims]].**
+- **[[s/_sensationalised|Sensationalised]]; [[p/_presented|presented]] with [[g/_grand|grand]] [[c/_claims|claims]].**
 ---
 ---

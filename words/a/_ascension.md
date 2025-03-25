@@ -3,6 +3,6 @@
 #noun
 - **The [[a/_act|act]] of [[a/_ascending|ascending]]; an [[a/_ascent|ascent]].**
 	- _Example: The ascension of the hot-air balloon gave us a better view._
-- **That which rises, as from [[d/_distillation|distillation]].**
+- **That which [[r/_rises|rises]], as from [[d/_distillation|distillation]].**
 ---
 ---

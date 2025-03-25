@@ -1,6 +1,6 @@
 # Lacustrine
 ---
 #adjective
-- **Of or relating to [[l/_lakes|lakes]].**
+- **Of or [[r/_relating|relating]] to [[l/_lakes|lakes]].**
 ---
 ---

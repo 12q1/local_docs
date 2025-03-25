@@ -1,8 +1,8 @@
 # Asymmetrical
 ---
 #adjective
-- **Not symmetrical.**
-- **(of a question) [[p/_presenting|Presenting]] a [[f/_false|false]] [[d/_dilemma|dilemma]], or a [[c/_choice|choice]] [[b/_between|between]] two things which are not [[o/_opposites|opposites]].**
+- **Not [[s/_symmetrical|symmetrical]].**
+- **(of a [[q/_question|question]]) [[p/_presenting|Presenting]] a [[f/_false|false]] [[d/_dilemma|dilemma]], or a [[c/_choice|choice]] [[b/_between|between]] two things which are not [[o/_opposites|opposites]].**
 	- _Example: Question six is asymmetrical: "Are things going in the right direction or on the wrong track?" (The West Wing, Season 1, Episode 21, Toby)_
 ---
 ### Synonyms

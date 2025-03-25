@@ -1,7 +1,7 @@
 # Embarrassed
 ---
 #verb
-- **To [[h/_humiliate|humiliate]]; to [[d/_disrupt|disrupt]] somebody's [[c/_composure|composure]] or [[c/_comfort|comfort]] with [[a/_acting|acting]] publicly or [[f/_freely|freely]]; to [[d/_disconcert|disconcert]]; to [[a/_abash|abash]]**
+- **To [[h/_humiliate|humiliate]]; to [[d/_disrupt|disrupt]] [[s/_somebody|somebody]]'[[s/_s|s]] [[c/_composure|composure]] or [[c/_comfort|comfort]] with [[a/_acting|acting]] [[p/_publicly|publicly]] or [[f/_freely|freely]]; to [[d/_disconcert|disconcert]]; to [[a/_abash|abash]]**
 	- _Example: The crowd's laughter and jeers embarrassed him._
 - **To [[h/_hinder|hinder]] from [[l/_liberty|liberty]] of [[m/_movement|movement]]; to [[i/_impede|impede]]; to [[o/_obstruct|obstruct]].**
 	- _Example: The motion was advanced in order to embarrass the progress of the bill._
@@ -11,7 +11,7 @@
 ### Synonyms
 - [[a/_abash|abash]], [[d/_discomfit|discomfit]], [[d/_disconcert|disconcert]], [[h/_humiliate|humiliate]], [[s/_shame|shame]]
 #adjective
-- **[[h/_having|Having]] a [[f/_feeling|feeling]] of shameful [[d/_discomfort|discomfort]].**
+- **[[h/_having|Having]] a [[f/_feeling|feeling]] of [[s/_shameful|shameful]] [[d/_discomfort|discomfort]].**
 	- _Example: After returning from the pool, Aleshia felt significantly better, though she was still slightly embarrassed._
 - **[[i/_impeded|Impeded]]; [[o/_obstructed|obstructed]].**
 ---

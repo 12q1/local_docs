@@ -1,30 +1,30 @@
 # Ghosts
 ---
 #noun
-- **The spirit; the soul of [[m/_man|man]].**
-- **The [[d/_disembodied|disembodied]] soul; the soul or spirit of a [[d/_deceased|deceased]] [[p/_person|person]]; a spirit [[a/_appearing|appearing]] [[a/_after|after]] [[d/_death|death]]**
+- **The spirit; the [[s/_soul|soul]] of [[m/_man|man]].**
+- **The [[d/_disembodied|disembodied]] [[s/_soul|soul]]; the [[s/_soul|soul]] or spirit of a [[d/_deceased|deceased]] [[p/_person|person]]; a spirit [[a/_appearing|appearing]] [[a/_after|after]] [[d/_death|death]]**
 	- _Example: Everyone believed that the ghost of an old lady haunted the crypt._
-- **[[a/_any|Any]] [[f/_faint|faint]] shadowy semblance; an unsubstantial [[i/_image|image]]**
+- **[[a/_any|Any]] [[f/_faint|faint]] [[s/_shadowy|shadowy]] [[s/_semblance|semblance]]; an unsubstantial [[i/_image|image]]**
 	- _Example: not a ghost of a chance; the ghost of an idea_
-- **A [[f/_false|false]] [[i/_image|image]] [[f/_formed|formed]] in a telescope, [[c/_camera|camera]], or [[o/_other|other]] [[o/_optical|optical]] [[d/_device|device]] by reflection from the surfaces of [[o/_one|one]] or [[m/_more|more]] [[l/_lenses|lenses]].**
-- **An unwanted [[i/_image|image]] similar to and [[o/_overlapping|overlapping]] or [[a/_adjacent|adjacent]] to the [[m/_main|main]] [[o/_one|one]] on a television screen, [[c/_caused|caused]] by the transmitted [[i/_image|image]] [[b/_being|being]] received [[b/_both|both]] [[d/_directly|directly]] and via reflection.**
+- **A [[f/_false|false]] [[i/_image|image]] [[f/_formed|formed]] in a telescope, [[c/_camera|camera]], or [[o/_other|other]] [[o/_optical|optical]] [[d/_device|device]] by [[r/_reflection|reflection]] from the surfaces of [[o/_one|one]] or [[m/_more|more]] [[l/_lenses|lenses]].**
+- **An unwanted [[i/_image|image]] [[s/_similar|similar]] to and [[o/_overlapping|overlapping]] or [[a/_adjacent|adjacent]] to the [[m/_main|main]] [[o/_one|one]] on a television [[s/_screen|screen]], [[c/_caused|caused]] by the transmitted [[i/_image|image]] [[b/_being|being]] [[r/_received|received]] [[b/_both|both]] [[d/_directly|directly]] and via [[r/_reflection|reflection]].**
 - **A [[g/_ghostwriter|ghostwriter]].**
-- **An unresponsive user on IRC, resulting from the user's [[c/_client|client]] [[d/_disconnecting|disconnecting]] without [[n/_notifying|notifying]] the server.**
+- **An unresponsive user on IRC, [[r/_resulting|resulting]] from the user'[[s/_s|s]] [[c/_client|client]] [[d/_disconnecting|disconnecting]] without [[n/_notifying|notifying]] the [[s/_server|server]].**
 - **An [[i/_image|image]] of a [[f/_file|file]] or [[h/_hard|hard]] [[d/_disk|disk]].**
 - **An understudy.**
 - **A [[c/_covert|covert]] (and [[d/_deniable|deniable]]) [[a/_agent|agent]].**
-- **The [[f/_faint|faint]] [[i/_image|image]] that remains [[a/_after|after]] an [[a/_attempt|attempt]] to remove [[g/_graffiti|graffiti]].**
-- **An [[o/_opponent|opponent]] in a racing [[g/_game|game]] that [[f/_follows|follows]] a previously recorded route, [[a/_allowing|allowing]] [[p/_players|players]] to [[c/_compete|compete]] [[a/_against|against]] previous [[b/_best|best]] times.**
-- **A [[d/_dead|dead]] [[p/_person|person]] whose [[i/_identity|identity]] is stolen by [[a/_another|another]]. See [[g/_ghosting|ghosting]].**
+- **The [[f/_faint|faint]] [[i/_image|image]] that [[r/_remains|remains]] [[a/_after|after]] an [[a/_attempt|attempt]] to [[r/_remove|remove]] [[g/_graffiti|graffiti]].**
+- **An [[o/_opponent|opponent]] in a [[r/_racing|racing]] [[g/_game|game]] that [[f/_follows|follows]] a [[p/_previously|previously]] [[r/_recorded|recorded]] [[r/_route|route]], [[a/_allowing|allowing]] [[p/_players|players]] to [[c/_compete|compete]] [[a/_against|against]] [[p/_previous|previous]] [[b/_best|best]] times.**
+- **A [[d/_dead|dead]] [[p/_person|person]] whose [[i/_identity|identity]] is stolen by [[a/_another|another]]. [[s/_see|See]] [[g/_ghosting|ghosting]].**
 - **(in [[n/_names|names]] of species) White or [[p/_pale|pale]].**
 	- _Example: ghost slug; ghostberry; ghostflower; ghost crab; ghost bat_
 - **(in [[n/_names|names]] of species) Transparent or translucent.**
 	- _Example: ghost ant; ghost catfish; ghost nipper; ghost nudibranch_
 - **[[a/_abandoned|Abandoned]].**
 	- _Example: ghost town; ghost net; ghost ramp; ghost ship_
-- **Remnant; the remains of a([[n/_n|n]]).**
+- **[[r/_remnant|Remnant]]; the [[r/_remains|remains]] of a([[n/_n|n]]).**
 	- _Example: ghost cell; ghost crater; ghost image_
-- **[[p/_perceived|Perceived]] or [[l/_listed|listed]] but not real.**
+- **[[p/_perceived|Perceived]] or [[l/_listed|listed]] but not [[r/_real|real]].**
 	- _Example: ghost pain; ghost cellphone vibration; ghost island; ghost voter_
 - **Of cryptid, supernatural or [[e/_extraterrestrial|extraterrestrial]] [[n/_nature|nature]].**
 	- _Example: ghost rocket; ghost deer; ghost cat_
@@ -37,12 +37,12 @@
 - **To [[h/_haunt|haunt]]; to [[a/_appear|appear]] to in the [[f/_form|form]] of an [[a/_apparition|apparition]].**
 - **To [[d/_die|die]]; to [[e/_expire|expire]].**
 - **To [[g/_ghostwrite|ghostwrite]].**
-- **To sail seemingly without wind.**
+- **To [[s/_sail|sail]] [[s/_seemingly|seemingly]] without wind.**
 - **To [[c/_copy|copy]] a [[f/_file|file]] or [[h/_hard|hard]] [[d/_drive|drive]] [[i/_image|image]].**
 - **To [[g/_gray|gray]] [[o/_out|out]] (a visual [[i/_item|item]]) to [[i/_indicate|indicate]] that it is unavailable.**
-- **To [[f/_forcibly|forcibly]] [[d/_disconnect|disconnect]] an IRC user who is using [[o/_one|one]]'s reserved [[n/_nickname|nickname]].**
-- **To [[a/_appear|appear]] without warning; to [[m/_move|move]] quickly and quietly; to slip.**
+- **To [[f/_forcibly|forcibly]] [[d/_disconnect|disconnect]] an IRC user who is using [[o/_one|one]]'[[s/_s|s]] [[r/_reserved|reserved]] [[n/_nickname|nickname]].**
+- **To [[a/_appear|appear]] without warning; to [[m/_move|move]] [[q/_quickly|quickly]] and [[q/_quietly|quietly]]; to [[s/_slip|slip]].**
 - **To [[k/_kill|kill]].**
-- **To [[b/_break|break]] up with someone without warning or [[e/_explanation|explanation]]; to [[p/_perform|perform]] an [[a/_act|act]] of [[g/_ghosting|ghosting]].**
+- **To [[b/_break|break]] up with [[s/_someone|someone]] without warning or [[e/_explanation|explanation]]; to [[p/_perform|perform]] an [[a/_act|act]] of [[g/_ghosting|ghosting]].**
 ---
 ---

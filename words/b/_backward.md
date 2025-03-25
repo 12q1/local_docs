@@ -6,15 +6,15 @@
 #adjective
 - **(of [[m/_motion|motion]]) In the [[d/_direction|direction]] towards the [[b/_back|back]].**
 	- _Example: They left without a backward glance._
-- **(of [[m/_motion|motion]]) In the [[d/_direction|direction]] reverse of [[n/_normal|normal]].**
+- **(of [[m/_motion|motion]]) In the [[d/_direction|direction]] [[r/_reverse|reverse]] of [[n/_normal|normal]].**
 	- _Example: The occasional backward movement of planets is evidence they revolve around the sun._
-- **Reluctant or unable to [[a/_advance|advance]].**
+- **[[r/_reluctant|Reluctant]] or unable to [[a/_advance|advance]].**
 - **Of a [[c/_culture|culture]]: undeveloped or unsophisticated.**
 - **[[o/_outdated|Outdated]].**
-- **On that [[p/_part|part]] of the [[f/_field|field]] [[b/_behind|behind]] the [[b/_batsman|batsman]]'s [[p/_popping|popping]] [[c/_crease|crease]].**
-- **[[f/_further|Further]] [[b/_behind|behind]] the [[b/_batsman|batsman]]'s [[p/_popping|popping]] [[c/_crease|crease]] than something [[e/_else|else]].**
-- **Unwilling; [[a/_averse|averse]]; reluctant.**
-- **Slow to [[a/_apprehend|apprehend]]; [[h/_having|having]] [[d/_difficulties|difficulties]] in [[l/_learning|learning]].**
+- **On that [[p/_part|part]] of the [[f/_field|field]] [[b/_behind|behind]] the [[b/_batsman|batsman]]'[[s/_s|s]] [[p/_popping|popping]] [[c/_crease|crease]].**
+- **[[f/_further|Further]] [[b/_behind|behind]] the [[b/_batsman|batsman]]'[[s/_s|s]] [[p/_popping|popping]] [[c/_crease|crease]] than [[s/_something|something]] [[e/_else|else]].**
+- **Unwilling; [[a/_averse|averse]]; [[r/_reluctant|reluctant]].**
+- **[[s/_slow|Slow]] to [[a/_apprehend|apprehend]]; [[h/_having|having]] [[d/_difficulties|difficulties]] in [[l/_learning|learning]].**
 	- _Example: a backward child_
 - **[[l/_late|Late]] or [[b/_behindhand|behindhand]].**
 	- _Example: a backward season_
@@ -28,8 +28,8 @@
 - **(of [[m/_motion|motion]]) In the [[d/_direction|direction]] towards the [[b/_back|back]]; [[b/_backwards|backwards]]**
 	- _Example: to throw the arms backward_
 - **Toward, or in, [[p/_past|past]] time or [[e/_events|events]]; [[a/_ago|ago]].**
-- **By way of reflection; reflexively.**
-- **From a [[b/_better|better]] to a worse state, as from [[h/_honor|honor]] to shame, from religion to sin.**
+- **By way of [[r/_reflection|reflection]]; [[r/_reflexively|reflexively]].**
+- **From a [[b/_better|better]] to a worse state, as from [[h/_honor|honor]] to [[s/_shame|shame]], from [[r/_religion|religion]] to [[s/_sin|sin]].**
 ---
 ### Synonyms
 - [[b/_backwards|backwards]]

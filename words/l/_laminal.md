@@ -1,10 +1,10 @@
 # Laminal
 ---
 #noun
-- **Such a sound**
+- **Such a [[s/_sound|sound]]**
 ---
 #adjective
 - **[[l/_laminar|Laminar]]**
-- **(of a sound) Produced with the [[b/_blade|blade]] of the tongue**
+- **(of a [[s/_sound|sound]]) [[p/_produced|Produced]] with the [[b/_blade|blade]] of the tongue**
 ---
 ---

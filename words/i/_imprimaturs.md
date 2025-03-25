@@ -1,7 +1,7 @@
 # Imprimaturs
 ---
 #noun
-- **An [[o/_official|official]] [[l/_license|license]] to publish or print something, [[e/_especially|especially]] when [[c/_censorship|censorship]] [[a/_applies|applies]].**
+- **An [[o/_official|official]] [[l/_license|license]] to [[p/_publish|publish]] or [[p/_print|print]] [[s/_something|something]], [[e/_especially|especially]] when [[c/_censorship|censorship]] [[a/_applies|applies]].**
 - **(by [[e/_extension|extension]]) [[a/_any|Any]] [[m/_mark|mark]] of [[o/_official|official]] [[a/_approval|approval]].**
 ---
 ### Synonyms

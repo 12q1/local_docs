@@ -14,7 +14,7 @@
 - **A [[p/_person|person]] who [[m/_makes|makes]] a [[b/_bet|bet]], such as a wager on the [[o/_outcome|outcome]] of a [[g/_game|game]] of [[c/_chance|chance]] or a sporting [[e/_event|event]].**
 ---
 #verb
-- **(with [[b/_bare|bare]] [[i/_infinitive|infinitive]]) Should; [[o/_ought|ought]] to; [[n/_need|need]] to; [[m/_must|must]].**
+- **(with [[b/_bare|bare]] [[i/_infinitive|infinitive]]) [[s/_should|Should]]; [[o/_ought|ought]] to; [[n/_need|need]] to; [[m/_must|must]].**
 	- _Example: The project had better get finished by the current deadline._
 ---
 ### Synonyms

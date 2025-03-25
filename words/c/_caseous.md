@@ -1,6 +1,6 @@
 # Caseous
 ---
 #adjective
-- **Resembling [[c/_cheese|cheese]].**
+- **[[r/_resembling|Resembling]] [[c/_cheese|cheese]].**
 ---
 ---

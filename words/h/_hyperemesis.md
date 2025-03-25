@@ -1,6 +1,6 @@
 # Hyperemesis
 ---
 #noun
-- **Severe and [[e/_excessive|excessive]] vomiting.**
+- **[[s/_severe|Severe]] and [[e/_excessive|excessive]] vomiting.**
 ---
 ---

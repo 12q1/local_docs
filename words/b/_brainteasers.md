@@ -1,6 +1,6 @@
 # Brainteasers
 ---
 #noun
-- **A [[d/_difficult|difficult]] problem or puzzle.**
+- **A [[d/_difficult|difficult]] [[p/_problem|problem]] or [[p/_puzzle|puzzle]].**
 ---
 ---

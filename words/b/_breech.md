@@ -1,7 +1,7 @@
 # Breech
 ---
 #noun
-- **([[n/_now|now]] [[o/_only|only]] in the [[p/_plural|plural]]) A [[g/_garment|garment]] whose purpose is to [[c/_cover|cover]] or [[c/_clothe|clothe]] the [[b/_buttocks|buttocks]].**
+- **([[n/_now|now]] [[o/_only|only]] in the [[p/_plural|plural]]) A [[g/_garment|garment]] whose [[p/_purpose|purpose]] is to [[c/_cover|cover]] or [[c/_clothe|clothe]] the [[b/_buttocks|buttocks]].**
 - **The [[b/_buttocks|buttocks]] or [[b/_backside|backside]].**
 - **The [[p/_part|part]] of a [[c/_cannon|cannon]] or [[o/_other|other]] [[f/_firearm|firearm]] [[b/_behind|behind]] the [[c/_chamber|chamber]].**
 - **The [[e/_external|external]] [[a/_angle|angle]] of [[k/_knee|knee]] timber, the [[i/_inside|inside]] of which is [[c/_called|called]] the throat.**
@@ -9,7 +9,7 @@
 ---
 #verb
 - **To [[d/_dress|dress]] in [[b/_breeches|breeches]]. ([[e/_especially|especially]]) To [[d/_dress|dress]] a [[b/_boy|boy]] in [[b/_breeches|breeches]] or trousers for the [[f/_first|first]] time.**
-- **To [[b/_beat|beat]] or spank on the [[b/_buttocks|buttocks]].**
+- **To [[b/_beat|beat]] or [[s/_spank|spank]] on the [[b/_buttocks|buttocks]].**
 - **To [[f/_fit|fit]] or [[f/_furnish|furnish]] with a [[b/_breech|breech]].**
 	- _Example: to breech a gun_
 - **To [[f/_fasten|fasten]] with [[b/_breeching|breeching]].**

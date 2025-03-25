@@ -1,7 +1,7 @@
 # Driblets
 ---
 #noun
-- **A small [[p/_portion|portion]] or [[p/_part|part]].**
-- **A small or [[p/_petty|petty]] sum.**
+- **A [[s/_small|small]] [[p/_portion|portion]] or [[p/_part|part]].**
+- **A [[s/_small|small]] or [[p/_petty|petty]] sum.**
 ---
 ---

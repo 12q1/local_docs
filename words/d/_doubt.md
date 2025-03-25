@@ -1,12 +1,12 @@
 # Doubt
 ---
 #noun
-- **[[d/_disbelief|Disbelief]] or uncertainty ([[a/_about|about]] something); a [[p/_particular|particular]] [[i/_instance|instance]] of such [[d/_disbelief|disbelief]] or uncertainty.**
+- **[[d/_disbelief|Disbelief]] or uncertainty ([[a/_about|about]] [[s/_something|something]]); a [[p/_particular|particular]] [[i/_instance|instance]] of such [[d/_disbelief|disbelief]] or uncertainty.**
 	- _Example: I have doubts about how to convert this code to JavaScript._
-- **A [[p/_point|point]] of uncertainty; a query.**
+- **A [[p/_point|point]] of uncertainty; a [[q/_query|query]].**
 ---
 #verb
-- **To be undecided [[a/_about|about]]; to [[l/_lack|lack]] [[c/_confidence|confidence]] in; to [[d/_disbelieve|disbelieve]], to question.**
+- **To be undecided [[a/_about|about]]; to [[l/_lack|lack]] [[c/_confidence|confidence]] in; to [[d/_disbelieve|disbelieve]], to [[q/_question|question]].**
 	- _Example: He doubted that was really what you meant._
 - **To [[h/_harbour|harbour]] suspicion [[a/_about|about]]; suspect.**
 - **To [[a/_anticipate|anticipate]] with [[d/_dread|dread]] or [[f/_fear|fear]]; to [[a/_apprehend|apprehend]].**

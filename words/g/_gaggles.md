@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[c/_collective|collective]]) A [[g/_group|group]] of [[g/_geese|geese]] when they are on the [[g/_ground|ground]] or on the water.**
-- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[g/_group|group]] or [[g/_gathering|gathering]] of related things.**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[g/_group|group]] or [[g/_gathering|gathering]] of [[r/_related|related]] things.**
 ---
 ### Synonyms
 - [[b/_bunch|bunch]]

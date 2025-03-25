@@ -8,7 +8,7 @@
 - **To stab**
 ---
 #verb
-- **To [[d/_deceive|deceive]] or [[o/_outmaneuver|outmaneuver]] someone using a [[f/_feint|feint]], [[e/_especially|especially]] in [[a/_american|American]] [[f/_football|football]] or soccer**
+- **To [[d/_deceive|deceive]] or [[o/_outmaneuver|outmaneuver]] [[s/_someone|someone]] using a [[f/_feint|feint]], [[e/_especially|especially]] in [[a/_american|American]] [[f/_football|football]] or [[s/_soccer|soccer]]**
 - **To [[b/_bend|bend]] the [[n/_neck|neck]]; to [[b/_bow|bow]] or [[d/_duck|duck]] the [[h/_head|head]].**
 ---
 ### Synonyms

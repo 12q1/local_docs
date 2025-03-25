@@ -1,7 +1,7 @@
 # How
 ---
 #noun
-- **The [[m/_means|means]] by which something is [[a/_accomplished|accomplished]].**
+- **The [[m/_means|means]] by which [[s/_something|something]] is [[a/_accomplished|accomplished]].**
 	- _Example: I am not interested in the why, but in the how._
 ---
 #adverb

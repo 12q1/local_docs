@@ -1,7 +1,7 @@
 # Inadvertent
 ---
 #adjective
-- **Not [[i/_intentional|intentional]]; not on purpose; not [[c/_conscious|conscious]].**
+- **Not [[i/_intentional|intentional]]; not on [[p/_purpose|purpose]]; not [[c/_conscious|conscious]].**
 	- _Example: We check everything because an inadvertent error could be disastrous._
 - **[[i/_inattentive|Inattentive]].**
 ---

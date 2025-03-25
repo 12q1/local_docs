@@ -1,7 +1,7 @@
 # Frowst
 ---
 #noun
-- **Stuffiness; stifling warmth in a room.**
+- **Stuffiness; stifling warmth in a [[r/_room|room]].**
 ---
 ### Synonyms
 - [[s/_stuffiness|stuffiness]]

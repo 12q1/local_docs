@@ -1,8 +1,8 @@
 # Dormers
 ---
 #noun
-- **A room-[[l/_like|like]], roofed projection from a sloping roof**
+- **A [[r/_room|room]]-[[l/_like|like]], [[r/_roofed|roofed]] [[p/_projection|projection]] from a [[s/_sloping|sloping]] [[r/_roof|roof]]**
 - **[[d/_dormer|Dormer]]-window**
-- **A resident of a [[d/_dormitory|dormitory]]**
+- **A [[r/_resident|resident]] of a [[d/_dormitory|dormitory]]**
 ---
 ---

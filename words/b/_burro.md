@@ -1,6 +1,6 @@
 # Burro
 ---
 #noun
-- **A small [[d/_donkey|donkey]]**
+- **A [[s/_small|small]] [[d/_donkey|donkey]]**
 ---
 ---

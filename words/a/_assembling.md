@@ -1,7 +1,7 @@
 # Assembling
 ---
 #verb
-- **To put together.**
+- **To [[p/_put|put]] together.**
 	- _Example: He assembled the model ship._
 - **To [[g/_gather|gather]] as a [[g/_group|group]].**
 	- _Example: The parents assembled in the school hall._

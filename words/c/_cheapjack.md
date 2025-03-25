@@ -4,6 +4,6 @@
 - **A [[p/_peddler|peddler]], a travelling [[h/_hawker|hawker]].**
 ---
 #adjective
-- **Shabby**
+- **[[s/_shabby|Shabby]]**
 ---
 ---

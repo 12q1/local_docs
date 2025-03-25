@@ -1,7 +1,7 @@
 # Leaguers
 ---
 #noun
-- **A siege**
+- **A [[s/_siege|siege]]**
 	- _Example: We must break the leaguer of the city._
 - **The [[c/_camp|camp]] of a [[b/_besieging|besieging]] [[a/_army|army]]; a [[c/_camp|camp]] in [[g/_general|general]].**
 - **A [[m/_measure|measure]] of [[l/_liquid|liquid]].**

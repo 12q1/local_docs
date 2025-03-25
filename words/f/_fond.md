@@ -12,8 +12,8 @@
 	- _Example: a fond farewell_
 - **[[i/_indulgent|Indulgent]].**
 	- _Example: I have fond grandparents who spoil me._
-- **[[o/_outlandish|Outlandish]]; [[f/_foolish|foolish]]; silly.**
-- **[[f/_foolish|Foolish]]; simple; weak.**
-- **[[d/_doted|Doted]] on; regarded with [[a/_affection|affection]].**
+- **[[o/_outlandish|Outlandish]]; [[f/_foolish|foolish]]; [[s/_silly|silly]].**
+- **[[f/_foolish|Foolish]]; [[s/_simple|simple]]; weak.**
+- **[[d/_doted|Doted]] on; [[r/_regarded|regarded]] with [[a/_affection|affection]].**
 ---
 ---

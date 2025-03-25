@@ -5,6 +5,6 @@
 	- _Example: Gurdjieff connects this type of breathing with yogi breathing._
 ---
 #verb
-- **To turn (someone) [[i/_into|into]] a [[y/_yogi|yogi]]; to [[l/_lead|lead]] [[i/_into|into]] [[p/_practicing|practicing]] [[y/_yoga|yoga]].**
+- **To turn ([[s/_someone|someone]]) [[i/_into|into]] a [[y/_yogi|yogi]]; to [[l/_lead|lead]] [[i/_into|into]] [[p/_practicing|practicing]] [[y/_yoga|yoga]].**
 ---
 ---

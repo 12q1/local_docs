@@ -3,9 +3,9 @@
 #noun
 - **A [[c/_close|close]]-[[f/_fitting|fitting]] [[h/_hat|hat]], [[e/_either|either]] [[b/_brimless|brimless]] or [[p/_peaked|peaked]].**
 	- _Example: The children were all wearing caps to protect them from the sun._
-- **A special [[h/_hat|hat]] to [[i/_indicate|indicate]] rank, [[o/_occupation|occupation]], [[e/_etc|etc]].**
+- **A special [[h/_hat|hat]] to [[i/_indicate|indicate]] [[r/_rank|rank]], [[o/_occupation|occupation]], [[e/_etc|etc]].**
 - **An [[a/_academic|academic]] [[m/_mortarboard|mortarboard]].**
-- **A protective [[c/_cover|cover]] or seal.**
+- **A [[p/_protective|protective]] [[c/_cover|cover]] or [[s/_seal|seal]].**
 	- _Example: He took the cap off the bottle and splashed himself with some cologne._
 - **A [[c/_crown|crown]] for [[c/_covering|covering]] a tooth.**
 	- _Example: He had golden caps on his teeth._
@@ -14,22 +14,22 @@
 - **An [[a/_artificial|artificial]] upper [[l/_limit|limit]] or [[c/_ceiling|ceiling]].**
 	- _Example: We should put a cap on the salaries, to keep them under control._
 - **The top [[p/_part|part]] of a [[m/_mushroom|mushroom]].**
-- **(toy) A small [[a/_amount|amount]] of [[p/_percussive|percussive]] [[e/_explosive|explosive]] in a [[p/_paper|paper]] strip or [[p/_plastic|plastic]] [[c/_cup|cup]] for use in a toy [[g/_gun|gun]].**
+- **(toy) A [[s/_small|small]] [[a/_amount|amount]] of [[p/_percussive|percussive]] [[e/_explosive|explosive]] in a [[p/_paper|paper]] strip or [[p/_plastic|plastic]] [[c/_cup|cup]] for use in a toy [[g/_gun|gun]].**
 	- _Example: Billy spent all morning firing caps with his friends, re-enacting storming the beach at Normandy._
-- **A small [[e/_explosive|explosive]] [[d/_device|device]] used to [[d/_detonate|detonate]] a [[l/_larger|larger]] [[c/_charge|charge]] of [[e/_explosives|explosives]].**
+- **A [[s/_small|small]] [[e/_explosive|explosive]] [[d/_device|device]] used to [[d/_detonate|detonate]] a [[l/_larger|larger]] [[c/_charge|charge]] of [[e/_explosives|explosives]].**
 	- _Example: He wired the cap to the bundle of dynamite, then detonated it remotely._
-- **A [[b/_bullet|bullet]] used to shoot someone.**
+- **A [[b/_bullet|bullet]] used to [[s/_shoot|shoot]] [[s/_someone|someone]].**
 - **An [[i/_international|international]] [[a/_appearance|appearance]].**
 	- _Example: Rio Ferdinand won his 50th cap for England in a game against Sweden._
 - **The top, or uppermost [[p/_part|part]]; the [[c/_chief|chief]].**
-- **A respectful uncovering of the [[h/_head|head]].**
+- **A [[r/_respectful|respectful]] uncovering of the [[h/_head|head]].**
 - **The whole top of the [[h/_head|head]] of a [[b/_bird|bird]] from the [[b/_base|base]] of the [[b/_bill|bill]] to the [[n/_nape|nape]] of the [[n/_neck|neck]].**
 - **The uppermost of [[a/_any|any]] [[a/_assemblage|assemblage]] of [[p/_parts|parts]].**
 	- _Example: the cap of column, door, etc.; a capital, coping, cornice, lintel, or plate_
-- **Something [[c/_covering|covering]] the top or [[e/_end|end]] of a thing for protection or [[o/_ornament|ornament]].**
-- **A [[c/_collar|collar]] of [[i/_iron|iron]] or wood used in [[j/_joining|joining]] spars, as the [[m/_mast|mast]] and the topmast, the [[b/_bowsprit|bowsprit]] and the [[j/_jib|jib]] [[b/_boom|boom]]; [[a/_also|also]], a [[c/_covering|covering]] of tarred [[c/_canvas|canvas]] at the [[e/_end|end]] of a rope.**
+- **[[s/_something|Something]] [[c/_covering|covering]] the top or [[e/_end|end]] of a thing for [[p/_protection|protection]] or [[o/_ornament|ornament]].**
+- **A [[c/_collar|collar]] of [[i/_iron|iron]] or wood used in [[j/_joining|joining]] [[s/_spars|spars]], as the [[m/_mast|mast]] and the topmast, the [[b/_bowsprit|bowsprit]] and the [[j/_jib|jib]] [[b/_boom|boom]]; [[a/_also|also]], a [[c/_covering|covering]] of tarred [[c/_canvas|canvas]] at the [[e/_end|end]] of a [[r/_rope|rope]].**
 - **A [[p/_portion|portion]] of a spherical or [[o/_other|other]] [[c/_convex|convex]] surface.**
-- **A [[l/_large|large]] size of writing [[p/_paper|paper]].**
+- **A [[l/_large|large]] [[s/_size|size]] of writing [[p/_paper|paper]].**
 	- _Example: flat cap; foolscap; legal cap_
 - **A [[l/_lie|lie]] or [[e/_exaggeration|exaggeration]].**
 	- _Example: no cap_
@@ -37,20 +37,20 @@
 ### Antonyms
 - [[f/_floor|floor]]
 #verb
-- **To [[c/_cover|cover]] or seal with a [[c/_cap|cap]].**
+- **To [[c/_cover|cover]] or [[s/_seal|seal]] with a [[c/_cap|cap]].**
 - **To [[a/_award|award]] a [[c/_cap|cap]] as a [[m/_mark|mark]] of [[d/_distinction|distinction]].**
-- **To [[l/_lie|lie]] [[o/_over|over]] or on top of something.**
+- **To [[l/_lie|lie]] [[o/_over|over]] or on top of [[s/_something|something]].**
 - **To surpass or [[o/_outdo|outdo]].**
-- **To set an upper [[l/_limit|limit]] on something.**
+- **To [[s/_set|set]] an upper [[l/_limit|limit]] on [[s/_something|something]].**
 	- _Example: cap wages._
-- **To [[m/_make|make]] something [[e/_even|even]] [[m/_more|more]] wonderful at the [[e/_end|end]].**
+- **To [[m/_make|make]] [[s/_something|something]] [[e/_even|even]] [[m/_more|more]] wonderful at the [[e/_end|end]].**
 	- _Example: That really capped my day._
-- **To select a [[p/_player|player]] to [[p/_play|play]] for a specified side.**
-- **To shoot (someone) with a [[f/_firearm|firearm]].**
+- **To [[s/_select|select]] a [[p/_player|player]] to [[p/_play|play]] for a specified [[s/_side|side]].**
+- **To [[s/_shoot|shoot]] ([[s/_someone|someone]]) with a [[f/_firearm|firearm]].**
 	- _Example: In a school shooting, where some kid caps a bunch of other kids, where did he get the weapon? From a family member, probably their gun cabinet._
-- **To select to [[p/_play|play]] for the [[n/_national|national]] team.**
+- **To [[s/_select|select]] to [[p/_play|play]] for the [[n/_national|national]] team.**
 	- _Example: Peter Shilton is the most capped English footballer._
-- **To salute by uncovering the [[h/_head|head]] respectfully.**
+- **To [[s/_salute|salute]] by uncovering the [[h/_head|head]] [[r/_respectfully|respectfully]].**
 - **To [[d/_deprive|deprive]] of a [[c/_cap|cap]].**
 - **To tell a [[l/_lie|lie]].**
 ---
@@ -68,11 +68,11 @@
 	- _Example: Parasitic caps._
 ---
 #noun
-- **A recording or screenshot.**
+- **A [[r/_recording|recording]] or screenshot.**
 	- _Example: Anyone have a cap of the games last night?_
 ---
 #verb
-- **To take a screenshot or to record a [[c/_copy|copy]] of a video.**
+- **To take a screenshot or to [[r/_record|record]] a [[c/_copy|copy]] of a video.**
 ---
 #noun
 - **A [[c/_capsule|capsule]] of a [[d/_drug|drug]].**

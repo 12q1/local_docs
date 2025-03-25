@@ -1,8 +1,8 @@
 # Decimals
 ---
 #noun
-- **A [[n/_number|number]] [[e/_expressed|expressed]] in the [[b/_base|base]]-ten system, a [[f/_fractional|fractional]] [[n/_numeral|numeral]] written in this system.**
-- **The [[d/_decimal|decimal]] system [[i/_itself|itself]].**
+- **A [[n/_number|number]] [[e/_expressed|expressed]] in the [[b/_base|base]]-ten [[s/_system|system]], a [[f/_fractional|fractional]] [[n/_numeral|numeral]] written in this [[s/_system|system]].**
+- **The [[d/_decimal|decimal]] [[s/_system|system]] [[i/_itself|itself]].**
 - **A [[d/_decimal|decimal]] [[p/_place|place]].**
 	- _Example: Pi has a value of 3.142, to three decimals._
 - **A [[d/_decimal|decimal]] [[p/_point|point]].**
@@ -12,6 +12,6 @@
 ### Antonyms
 - [[f/_fraction|fraction]]
 #verb
-- **To represent with [[n/_numbers|numbers]] [[a/_after|after]] a [[d/_decimal|decimal]] [[p/_point|point]]**
+- **To [[r/_represent|represent]] with [[n/_numbers|numbers]] [[a/_after|after]] a [[d/_decimal|decimal]] [[p/_point|point]]**
 ---
 ---

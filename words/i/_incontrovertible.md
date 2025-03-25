@@ -1,7 +1,7 @@
 # Incontrovertible
 ---
 #adjective
-- **Not [[c/_capable|capable]] of [[b/_being|being]] [[d/_denied|denied]], [[c/_challenged|challenged]], or [[d/_disputed|disputed]]; [[c/_closed|closed]] to questioning.**
+- **Not [[c/_capable|capable]] of [[b/_being|being]] [[d/_denied|denied]], [[c/_challenged|challenged]], or [[d/_disputed|disputed]]; [[c/_closed|closed]] to [[q/_questioning|questioning]].**
 	- _Example: Her statement that Hitler was evil is incontrovertible._
 ---
 ### Synonyms

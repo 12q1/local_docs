@@ -5,7 +5,7 @@
 - **To [[e/_equal|equal]].**
 ---
 #adjective
-- **[[e/_equal|Equal]] to or [[f/_fulfilling|fulfilling]] some requirement.**
+- **[[e/_equal|Equal]] to or [[f/_fulfilling|fulfilling]] [[s/_some|some]] [[r/_requirement|requirement]].**
 	- _Example: an adequate definition_
 ---
 ### Synonyms

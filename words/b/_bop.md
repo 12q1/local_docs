@@ -1,7 +1,7 @@
 # Bop
 ---
 #noun
-- **A very [[l/_light|light]] smack, [[b/_blow|blow]] or punch.**
+- **A very [[l/_light|light]] [[s/_smack|smack]], [[b/_blow|blow]] or [[p/_punch|punch]].**
 ---
 #verb
 - **To strike [[g/_gently|gently]] or [[p/_playfully|playfully]].**

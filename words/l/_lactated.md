@@ -1,6 +1,6 @@
 # Lactated
 ---
 #verb
-- **To secrete or produce [[m/_milk|milk]]**
+- **To [[s/_secrete|secrete]] or [[p/_produce|produce]] [[m/_milk|milk]]**
 ---
 ---

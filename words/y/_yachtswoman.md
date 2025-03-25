@@ -1,6 +1,6 @@
 # Yachtswoman
 ---
 #noun
-- **A woman who sails a [[y/_yacht|yacht]].**
+- **A woman who [[s/_sails|sails]] a [[y/_yacht|yacht]].**
 ---
 ---

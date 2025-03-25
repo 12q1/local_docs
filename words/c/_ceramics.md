@@ -7,7 +7,7 @@
 	- _Example: Joe had dozens of ceramics in his apartment._
 ---
 #noun
-- **The [[a/_art|art]] or science of [[m/_making|making]] [[c/_ceramic|ceramic]] [[o/_objects|objects]]**
+- **The [[a/_art|art]] or [[s/_science|science]] of [[m/_making|making]] [[c/_ceramic|ceramic]] [[o/_objects|objects]]**
 - **[[c/_ceramic|Ceramic]] [[o/_objects|objects]] as a [[g/_group|group]]**
 ---
 ---

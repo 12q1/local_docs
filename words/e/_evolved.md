@@ -1,16 +1,16 @@
 # Evolved
 ---
 #verb
-- **To [[m/_move|move]] in regular procession through a system.**
+- **To [[m/_move|move]] in [[r/_regular|regular]] [[p/_procession|procession]] through a [[s/_system|system]].**
 - **To [[c/_change|change]]; transform.**
 - **To [[c/_come|come]] [[i/_into|into]] [[b/_being|being]]; [[d/_develop|develop]].**
-- **Of a [[p/_population|population]], to [[c/_change|change]] [[g/_genetic|genetic]] [[c/_composition|composition]] [[o/_over|over]] successive [[g/_generations|generations]] through the process of [[e/_evolution|evolution]].**
-- **To [[g/_give|give]] [[o/_off|off]] ([[g/_gas|gas]], such as [[o/_oxygen|oxygen]] or [[c/_carbon|carbon]] [[d/_dioxide|dioxide]] [[d/_during|during]] a reaction).**
+- **Of a [[p/_population|population]], to [[c/_change|change]] [[g/_genetic|genetic]] [[c/_composition|composition]] [[o/_over|over]] successive [[g/_generations|generations]] through the [[p/_process|process]] of [[e/_evolution|evolution]].**
+- **To [[g/_give|give]] [[o/_off|off]] ([[g/_gas|gas]], such as [[o/_oxygen|oxygen]] or [[c/_carbon|carbon]] [[d/_dioxide|dioxide]] [[d/_during|during]] a [[r/_reaction|reaction]]).**
 	- _Example: to evolve odours_
-- **To [[c/_cause|cause]] something to [[c/_change|change]] or transform.**
+- **To [[c/_cause|cause]] [[s/_something|something]] to [[c/_change|change]] or transform.**
 ---
 #adjective
-- **[[h/_having|Having]] [[a/_arisen|arisen]] through a process of [[e/_evolution|evolution]] or [[i/_iterative|iterative]] [[d/_development|development]].**
+- **[[h/_having|Having]] [[a/_arisen|arisen]] through a [[p/_process|process]] of [[e/_evolution|evolution]] or [[i/_iterative|iterative]] [[d/_development|development]].**
 - **[[b/_biologically|Biologically]] [[g/_gifted|gifted]]**
 ---
 ---

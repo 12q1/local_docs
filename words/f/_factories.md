@@ -1,13 +1,13 @@
 # Factories
 ---
 #noun
-- **A trading [[e/_establishment|establishment]], [[e/_especially|especially]] set up by [[m/_merchants|merchants]] working in a [[f/_foreign|foreign]] [[c/_country|country]].**
+- **A trading [[e/_establishment|establishment]], [[e/_especially|especially]] [[s/_set|set]] up by [[m/_merchants|merchants]] working in a [[f/_foreign|foreign]] [[c/_country|country]].**
 - **The [[p/_position|position]] or state of [[b/_being|being]] a [[f/_factor|factor]].**
 - **A [[b/_building|building]] or [[o/_other|other]] [[p/_place|place]] where [[m/_manufacturing|manufacturing]] takes [[p/_place|place]].**
-- **A [[d/_device|device]] which produces or [[m/_manufactures|manufactures]] something.**
+- **A [[d/_device|device]] which [[p/_produces|produces]] or [[m/_manufactures|manufactures]] [[s/_something|something]].**
 - **A [[f/_factory|factory]] [[f/_farm|farm]].**
 	- _Example: chicken factory; pig factory_
-- **In a [[c/_computer|computer]] program or [[l/_library|library]], a [[f/_function|function]], [[m/_method|method]], [[e/_etc|etc]]. which [[c/_creates|creates]] an [[o/_object|object]].**
+- **In a [[c/_computer|computer]] [[p/_program|program]] or [[l/_library|library]], a [[f/_function|function]], [[m/_method|method]], [[e/_etc|etc]]. which [[c/_creates|creates]] an [[o/_object|object]].**
 - **A [[p/_police|police]] station.**
 ---
 ### Synonyms

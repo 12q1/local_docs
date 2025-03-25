@@ -2,10 +2,10 @@
 ---
 #verb
 - **To [[p/_press|press]] together; to [[c/_crowd|crowd]].**
-- **To restrain; to [[c/_confine|confine]].**
+- **To [[r/_restrain|restrain]]; to [[c/_confine|confine]].**
 ---
 #adjective
 - **[[c/_constricted|Constricted]], [[n/_narrowed|narrowed]] or [[c/_compressed|compressed]]**
-- **(of a pupa) [[e/_enclosed|enclosed]] in a rigid [[c/_case|case]]**
+- **(of a [[p/_pupa|pupa]]) [[e/_enclosed|enclosed]] in a [[r/_rigid|rigid]] [[c/_case|case]]**
 ---
 ---

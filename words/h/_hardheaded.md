@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Stubborn; wilful.**
-- **Realistic; [[p/_pragmatic|pragmatic]].**
+- **[[r/_realistic|Realistic]]; [[p/_pragmatic|pragmatic]].**
 ---
 ---

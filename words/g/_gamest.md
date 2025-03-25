@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Willing to [[p/_participate|participate]].**
-- **(of an [[a/_animal|animal]]) That shows a tendency to [[c/_continue|continue]] to [[f/_fight|fight]] [[a/_against|against]] [[a/_another|another]] [[a/_animal|animal]], [[d/_despite|despite]] [[b/_being|being]] wounded, [[o/_often|often]] severely.**
-- **[[p/_persistent|Persistent]], [[e/_especially|especially]] in senses similar to the [[a/_above|above]].**
+- **(of an [[a/_animal|animal]]) That [[s/_shows|shows]] a tendency to [[c/_continue|continue]] to [[f/_fight|fight]] [[a/_against|against]] [[a/_another|another]] [[a/_animal|animal]], [[d/_despite|despite]] [[b/_being|being]] wounded, [[o/_often|often]] [[s/_severely|severely]].**
+- **[[p/_persistent|Persistent]], [[e/_especially|especially]] in [[s/_senses|senses]] [[s/_similar|similar]] to the [[a/_above|above]].**
 - **[[i/_injured|Injured]], [[l/_lame|lame]] (of a [[l/_limb|limb]]).**
 ---
 ### Synonyms

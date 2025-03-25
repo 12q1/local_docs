@@ -1,6 +1,6 @@
 # Latitudinal
 ---
 #adjective
-- **Relating to [[l/_latitude|latitude]].**
+- **[[r/_relating|Relating]] to [[l/_latitude|latitude]].**
 ---
 ---

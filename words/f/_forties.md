@@ -2,9 +2,9 @@
 ---
 #noun
 - **The [[d/_decade|decade]] of the 1840s, 1940s, [[e/_etc|etc]].**
-- **The [[d/_decade|decade]] of [[o/_one|one]]'s [[l/_life|life]] from [[a/_age|age]] 40 through [[a/_age|age]] 49.**
+- **The [[d/_decade|decade]] of [[o/_one|one]]'[[s/_s|s]] [[l/_life|life]] from [[a/_age|age]] 40 through [[a/_age|age]] 49.**
 	- _Example: They're both in their forties._
-- **(temperature, rates) The range [[b/_between|between]] 40 and 49.**
+- **(temperature, [[r/_rates|rates]]) The [[r/_range|range]] [[b/_between|between]] 40 and 49.**
 	- _Example: What to wear when the weather is in the forties really depends on whether you're talking fahrenheit or celsius._
 ---
 ### Synonyms

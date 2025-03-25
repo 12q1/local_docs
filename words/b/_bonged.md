@@ -1,7 +1,7 @@
 # Bonged
 ---
 #verb
-- **To pull a [[b/_bell|bell]].**
-- **To ring a [[d/_doorbell|doorbell]].**
+- **To [[p/_pull|pull]] a [[b/_bell|bell]].**
+- **To [[r/_ring|ring]] a [[d/_doorbell|doorbell]].**
 ---
 ---

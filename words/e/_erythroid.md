@@ -1,7 +1,7 @@
 # Erythroid
 ---
 #adjective
-- **[[h/_having|Having]] a red [[c/_colour|colour]]; reddish**
+- **[[h/_having|Having]] a [[r/_red|red]] [[c/_colour|colour]]; [[r/_reddish|reddish]]**
 - **Of or [[p/_pertaining|pertaining]] to the [[e/_erythrocytes|erythrocytes]], [[e/_especially|especially]] to their [[d/_development|development]]**
 ---
 #noun

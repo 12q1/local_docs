@@ -1,7 +1,7 @@
 # Haws
 ---
 #verb
-- **To stop, in speaking, with a sound [[l/_like|like]] [[h/_haw|haw]]; to speak with [[i/_interruption|interruption]] and [[h/_hesitation|hesitation]].**
+- **To stop, in [[s/_speaking|speaking]], with a [[s/_sound|sound]] [[l/_like|like]] [[h/_haw|haw]]; to [[s/_speak|speak]] with [[i/_interruption|interruption]] and [[h/_hesitation|hesitation]].**
 ---
 #noun
 - **[[f/_fruit|Fruit]] of the [[h/_hawthorn|hawthorn]].**

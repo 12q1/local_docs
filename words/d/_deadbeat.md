@@ -8,7 +8,7 @@
 - [[s/_shirker|shirker]], [[w/_welcher|welcher]]
 #adjective
 - **(of an [[i/_instrument|instrument]]) [[h/_having|having]] a [[d/_damped|damped]] [[n/_needle|needle]] that stops without [[o/_oscillation|oscillation]]**
-- **[[d/_defaulting|Defaulting]] on [[o/_one|one]]'s [[d/_debts|debts]]**
+- **[[d/_defaulting|Defaulting]] on [[o/_one|one]]'[[s/_s|s]] [[d/_debts|debts]]**
 - **[[d/_defeated|Defeated]] or [[e/_exhausted|exhausted]]**
 - **[[l/_lazy|Lazy]] or [[i/_irresponsible|irresponsible]]**
 - **[[d/_dead|Dead]] tired**

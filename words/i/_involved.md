@@ -1,17 +1,17 @@
 # Involved
 ---
 #verb
-- **To roll or [[f/_fold|fold]] up; to wind round; to [[e/_entwine|entwine]].**
+- **To [[r/_roll|roll]] or [[f/_fold|fold]] up; to wind [[r/_round|round]]; to [[e/_entwine|entwine]].**
 - **To [[e/_envelop|envelop]] [[c/_completely|completely]]; to surround; to [[c/_cover|cover]]; to [[h/_hide|hide]].**
 	- _Example: to involve in darkness or obscurity_
 - **To [[c/_complicate|complicate]] or [[m/_make|make]] [[i/_intricate|intricate]], as in [[g/_grammatical|grammatical]] structure.**
-- **To [[c/_connect|connect]] with something as a [[n/_natural|natural]] or [[l/_logical|logical]] [[c/_consequence|consequence]] or [[e/_effect|effect]]; to [[i/_include|include]] [[n/_necessarily|necessarily]]; to [[i/_imply|imply]].**
+- **To [[c/_connect|connect]] with [[s/_something|something]] as a [[n/_natural|natural]] or [[l/_logical|logical]] [[c/_consequence|consequence]] or [[e/_effect|effect]]; to [[i/_include|include]] [[n/_necessarily|necessarily]]; to [[i/_imply|imply]].**
 - **To take in; to [[g/_gather|gather]] in; to [[m/_mingle|mingle]] [[c/_confusedly|confusedly]]; to [[b/_blend|blend]] or [[m/_merge|merge]].**
 - **To [[e/_envelop|envelop]], [[e/_enfold|enfold]], [[e/_entangle|entangle]].**
 	- _Example: He's involved in the crime._
-- **To [[e/_engage|engage]] (someone) to [[p/_participate|participate]] in a task.**
+- **To [[e/_engage|engage]] ([[s/_someone|someone]]) to [[p/_participate|participate]] in a task.**
 	- _Example: By getting involved in her local community, Mary met lots of people and also helped make it a nicer place to live._
-- **To raise to [[a/_any|any]] [[a/_assigned|assigned]] [[p/_power|power]]; to [[m/_multiply|multiply]], as a quantity, [[i/_into|into]] [[i/_itself|itself]] a [[g/_given|given]] [[n/_number|number]] of times.**
+- **To [[r/_raise|raise]] to [[a/_any|any]] [[a/_assigned|assigned]] [[p/_power|power]]; to [[m/_multiply|multiply]], as a [[q/_quantity|quantity]], [[i/_into|into]] [[i/_itself|itself]] a [[g/_given|given]] [[n/_number|number]] of times.**
 	- _Example: a quantity involved to the third or fourth power_
 ---
 ### Synonyms
@@ -19,8 +19,8 @@
 #adjective
 - **[[c/_complicated|Complicated]].**
 	- _Example: He related an involved story about every ancestor since 1895._
-- **[[a/_associated|Associated]] with [[o/_others|others]], be a [[p/_participant|participant]] or [[m/_make|make]] someone be a [[p/_participant|participant]] (in a [[c/_crime|crime]], process, [[e/_etc|etc]].)**
+- **[[a/_associated|Associated]] with [[o/_others|others]], be a [[p/_participant|participant]] or [[m/_make|make]] [[s/_someone|someone]] be a [[p/_participant|participant]] (in a [[c/_crime|crime]], [[p/_process|process]], [[e/_etc|etc]].)**
 	- _Example: He got involved in a bar fight._
-- **[[h/_having|Having]] an [[a/_affair|affair]] with someone.**
+- **[[h/_having|Having]] an [[a/_affair|affair]] with [[s/_someone|someone]].**
 ---
 ---

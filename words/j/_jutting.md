@@ -6,6 +6,6 @@
 - **To [[b/_butt|butt]].**
 ---
 #noun
-- **That which [[j/_juts|juts]] or protrudes.**
+- **That which [[j/_juts|juts]] or [[p/_protrudes|protrudes]].**
 ---
 ---

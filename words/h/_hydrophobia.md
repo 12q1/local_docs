@@ -1,7 +1,7 @@
 # Hydrophobia
 ---
 #noun
-- **An [[a/_aversion|aversion]] to water, as a symptom of rabies; the [[d/_disease|disease]] of rabies [[i/_itself|itself]].**
+- **An [[a/_aversion|aversion]] to water, as a [[s/_symptom|symptom]] of [[r/_rabies|rabies]]; the [[d/_disease|disease]] of [[r/_rabies|rabies]] [[i/_itself|itself]].**
 - **A [[m/_morbid|morbid]] [[f/_fear|fear]] of water; [[a/_aquaphobia|aquaphobia]].**
 ---
 ### Synonyms

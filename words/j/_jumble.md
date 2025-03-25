@@ -2,8 +2,8 @@
 ---
 #noun
 - **A [[m/_mixture|mixture]] of unrelated things.**
-- **[[i/_items|Items]] for a rummage sale.**
-- **A rummage sale.**
+- **[[i/_items|Items]] for a [[r/_rummage|rummage]] [[s/_sale|sale]].**
+- **A [[r/_rummage|rummage]] [[s/_sale|sale]].**
 ---
 #verb
 - **To [[m/_mix|mix]] or [[c/_confuse|confuse]].**

@@ -8,7 +8,7 @@
 ### Antonyms
 - [[s/_shorten|shorten]]
 #noun
-- **The process of [[g/_growing|growing]] [[l/_longer|longer]].**
-- **A type of sound [[c/_change|change]] when a sound ([[e/_especially|especially]] a vowel) [[l/_lengthens|lengthens]]**
+- **The [[p/_process|process]] of [[g/_growing|growing]] [[l/_longer|longer]].**
+- **A type of [[s/_sound|sound]] [[c/_change|change]] when a [[s/_sound|sound]] ([[e/_especially|especially]] a vowel) [[l/_lengthens|lengthens]]**
 ---
 ---

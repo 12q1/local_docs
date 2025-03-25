@@ -1,11 +1,11 @@
 # Alpine
 ---
 #noun
-- **[[a/_any|Any]] of several [[p/_plants|plants]], [[n/_native|native]] to [[m/_mountain|mountain]] [[h/_habitats|habitats]], [[o/_often|often]] [[g/_grown|grown]] in a rock [[g/_garden|garden]]**
+- **[[a/_any|Any]] of [[s/_several|several]] [[p/_plants|plants]], [[n/_native|native]] to [[m/_mountain|mountain]] [[h/_habitats|habitats]], [[o/_often|often]] [[g/_grown|grown]] in a [[r/_rock|rock]] [[g/_garden|garden]]**
 ---
 #adjective
-- **Of, relating to, or [[i/_inhabiting|inhabiting]] [[m/_mountains|mountains]], [[e/_especially|especially]] [[a/_above|above]] the timber [[l/_line|line]]**
+- **Of, [[r/_relating|relating]] to, or [[i/_inhabiting|inhabiting]] [[m/_mountains|mountains]], [[e/_especially|especially]] [[a/_above|above]] the timber [[l/_line|line]]**
 	- _Example: alpine snows_
-- **Of or relating to slalom and [[d/_downhill|downhill]] skiing. ([[c/_compare|Compare]] [[n/_nordic|Nordic]].)**
+- **Of or [[r/_relating|relating]] to [[s/_slalom|slalom]] and [[d/_downhill|downhill]] [[s/_skiing|skiing]]. ([[c/_compare|Compare]] [[n/_nordic|Nordic]].)**
 ---
 ---

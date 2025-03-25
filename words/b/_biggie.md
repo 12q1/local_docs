@@ -1,9 +1,9 @@
 # Biggie
 ---
 #noun
-- **Something [[l/_large|large]] in size in [[c/_comparison|comparison]] to similar things.**
+- **[[s/_something|Something]] [[l/_large|large]] in [[s/_size|size]] in [[c/_comparison|comparison]] to [[s/_similar|similar]] things.**
 	- _Example: The wardrobe is the biggy – we'd better move that first._
-- **Something [[i/_impressive|impressive]] in [[c/_comparison|comparison]] to similar things.**
+- **[[s/_something|Something]] [[i/_impressive|impressive]] in [[c/_comparison|comparison]] to [[s/_similar|similar]] things.**
 	- _Example: Here's the biggy: she's only getting divorced!_
 - **([[c/_chiefly|chiefly]] in the [[n/_negative|negative]]) [[b/_big|Big]] [[d/_deal|deal]].**
 	- _Example: - Dude, I forgot to return your book!_

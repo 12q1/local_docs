@@ -11,7 +11,7 @@
 ---
 #adjective
 - **Unable to [[h/_hear|hear]], or [[o/_only|only]] [[p/_partially|partially]] [[a/_able|able]] to [[h/_hear|hear]].**
-- **Unwilling to [[l/_listen|listen]] or be [[p/_persuaded|persuaded]]; [[d/_determinedly|determinedly]] [[i/_inattentive|inattentive]]; regardless.**
+- **Unwilling to [[l/_listen|listen]] or be [[p/_persuaded|persuaded]]; [[d/_determinedly|determinedly]] [[i/_inattentive|inattentive]]; [[r/_regardless|regardless]].**
 	- _Example: Those people are deaf to reason._
 - **[[o/_obscurely|Obscurely]] [[h/_heard|heard]]; stifled; [[d/_deadened|deadened]].**
 - **[[d/_decayed|Decayed]]; tasteless; [[d/_dead|dead]].**

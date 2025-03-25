@@ -1,9 +1,9 @@
 # Demulcent
 ---
 #noun
-- **A soothing [[m/_medication|medication]] used to relieve [[p/_pain|pain]] in [[i/_inflamed|inflamed]] tissues.**
+- **A [[s/_soothing|soothing]] [[m/_medication|medication]] used to [[r/_relieve|relieve]] [[p/_pain|pain]] in [[i/_inflamed|inflamed]] tissues.**
 ---
 #adjective
-- **Soothing or softening.**
+- **[[s/_soothing|Soothing]] or [[s/_softening|softening]].**
 ---
 ---

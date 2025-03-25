@@ -1,6 +1,6 @@
 # Devaluated
 ---
 #verb
-- **To reduce in value.**
+- **To [[r/_reduce|reduce]] in value.**
 ---
 ---

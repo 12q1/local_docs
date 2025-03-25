@@ -3,10 +3,10 @@
 #noun
 - **A [[p/_performance|performance]], by an [[a/_aspiring|aspiring]] [[p/_performer|performer]], to [[d/_demonstrate|demonstrate]] suitability or talent.**
 	- _Example: I've been to five auditions this week._
-- **The sense of [[h/_hearing|hearing]].**
+- **The [[s/_sense|sense]] of [[h/_hearing|hearing]].**
 	- _Example: His audition was poor._
 - **An [[a/_act|act]] of [[h/_hearing|hearing]]; [[b/_being|being]] [[h/_heard|heard]].**
-- **Something [[h/_heard|heard]].**
+- **[[s/_something|Something]] [[h/_heard|heard]].**
 ---
 ### Synonyms
 - [[c/_casting|casting]], [[t/_tryout|tryout]]

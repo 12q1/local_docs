@@ -1,6 +1,6 @@
 # Hallion
 ---
 #noun
-- **A rascal.**
+- **A [[r/_rascal|rascal]].**
 ---
 ---

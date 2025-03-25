@@ -6,7 +6,7 @@
 ### Synonyms
 - [[v/_valetudinarian|valetudinarian]]
 #adjective
-- **Related to, or [[a/_affected|affected]] by [[h/_hypochondria|hypochondria]]**
-- **Related to, or [[l/_located|located]] in the [[h/_hypochondrium|hypochondrium]].**
+- **[[r/_related|Related]] to, or [[a/_affected|affected]] by [[h/_hypochondria|hypochondria]]**
+- **[[r/_related|Related]] to, or [[l/_located|located]] in the [[h/_hypochondrium|hypochondrium]].**
 ---
 ---

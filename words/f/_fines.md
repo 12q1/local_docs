@@ -2,13 +2,13 @@
 ---
 #noun
 - **[[f/_fine|Fine]] [[c/_champagne|champagne]]; [[f/_french|French]] [[b/_brandy|brandy]].**
-- **(usually in the [[p/_plural|plural]]) Something that is [[f/_fine|fine]]; [[f/_fine|fine]] [[p/_particles|particles]].**
+- **(usually in the [[p/_plural|plural]]) [[s/_something|Something]] that is [[f/_fine|fine]]; [[f/_fine|fine]] [[p/_particles|particles]].**
 	- _Example: They filtered silt and fines out of the soil._
 ---
 #verb
-- **To [[m/_make|make]] [[f/_finer|finer]], purer, or [[c/_cleaner|cleaner]]; to purify or [[c/_clarify|clarify]].**
+- **To [[m/_make|make]] [[f/_finer|finer]], [[p/_purer|purer]], or [[c/_cleaner|cleaner]]; to [[p/_purify|purify]] or [[c/_clarify|clarify]].**
 	- _Example: to fine gold_
-- **To [[b/_become|become]] [[f/_finer|finer]], purer, or [[c/_cleaner|cleaner]].**
+- **To [[b/_become|become]] [[f/_finer|finer]], [[p/_purer|purer]], or [[c/_cleaner|cleaner]].**
 - **To [[m/_make|make]] [[f/_finer|finer]], or [[l/_less|less]] [[c/_coarse|coarse]], as in [[b/_bulk|bulk]], texture, [[e/_etc|etc]].**
 	- _Example: to fine the soil_
 - **To [[c/_change|change]] by [[f/_fine|fine]] [[g/_gradations|gradations]].**
@@ -19,13 +19,13 @@
 ### Synonyms
 - [[c/_clarify|clarify]], [[p/_purify|purify]], [[r/_refine|refine]]
 #noun
-- **A [[f/_fee|fee]] [[l/_levied|levied]] as punishment for [[b/_breaking|breaking]] the [[l/_law|law]].**
+- **A [[f/_fee|fee]] [[l/_levied|levied]] as [[p/_punishment|punishment]] for [[b/_breaking|breaking]] the [[l/_law|law]].**
 	- _Example: The fine for jay-walking has gone from two dollars to thirty in the last fifteen years._
 ---
 ### Synonyms
 - [[a/_amercement|amercement]]
 #verb
-- **To [[i/_issue|issue]] a [[f/_fine|fine]] as punishment to (someone).**
+- **To [[i/_issue|issue]] a [[f/_fine|fine]] as [[p/_punishment|punishment]] to ([[s/_someone|someone]]).**
 	- _Example: She was fined a thousand dollars for littering, but she appealed._
 - **To [[p/_pay|pay]] a [[f/_fine|fine]].**
 ---
@@ -33,12 +33,12 @@
 - [[a/_amerce|amerce]]
 #noun
 - **The [[e/_end|end]] of a [[m/_musical|musical]] [[c/_composition|composition]].**
-- **The [[l/_location|location]] in a [[m/_musical|musical]] score that [[i/_indicates|indicates]] the [[e/_end|end]] of the [[p/_piece|piece]], [[p/_particularly|particularly]] when the [[p/_piece|piece]] [[e/_ends|ends]] somewhere in the [[m/_middle|middle]] of the score [[d/_due|due]] to a section of the [[m/_music|music]] [[b/_being|being]] repeated.**
+- **The [[l/_location|location]] in a [[m/_musical|musical]] [[s/_score|score]] that [[i/_indicates|indicates]] the [[e/_end|end]] of the [[p/_piece|piece]], [[p/_particularly|particularly]] when the [[p/_piece|piece]] [[e/_ends|ends]] [[s/_somewhere|somewhere]] in the [[m/_middle|middle]] of the [[s/_score|score]] [[d/_due|due]] to a [[s/_section|section]] of the [[m/_music|music]] [[b/_being|being]] [[r/_repeated|repeated]].**
 ---
 #noun
 - **[[e/_end|End]]; [[c/_conclusion|conclusion]]; termination; [[e/_extinction|extinction]].**
-- **A [[f/_final|final]] [[a/_agreement|agreement]] [[c/_concerning|concerning]] [[l/_lands|lands]] or rents [[b/_between|between]] [[p/_persons|persons]], as the [[l/_lord|lord]] and [[h/_his|his]] vassal.**
-- **A sum of [[m/_money|money]] or price [[p/_paid|paid]] for [[o/_obtaining|obtaining]] a [[b/_benefit|benefit]], [[f/_favor|favor]], or privilege, as for [[a/_admission|admission]] to a [[c/_copyhold|copyhold]], or for [[o/_obtaining|obtaining]] or renewing a [[l/_lease|lease]].**
+- **A [[f/_final|final]] [[a/_agreement|agreement]] [[c/_concerning|concerning]] [[l/_lands|lands]] or [[r/_rents|rents]] [[b/_between|between]] [[p/_persons|persons]], as the [[l/_lord|lord]] and [[h/_his|his]] vassal.**
+- **A sum of [[m/_money|money]] or [[p/_price|price]] [[p/_paid|paid]] for [[o/_obtaining|obtaining]] a [[b/_benefit|benefit]], [[f/_favor|favor]], or [[p/_privilege|privilege]], as for [[a/_admission|admission]] to a [[c/_copyhold|copyhold]], or for [[o/_obtaining|obtaining]] or [[r/_renewing|renewing]] a [[l/_lease|lease]].**
 ---
 #verb
 - **To [[f/_finish|finish]]; to [[c/_cease|cease]].**

@@ -1,7 +1,7 @@
 # Halved
 ---
 #verb
-- **To reduce to [[h/_half|half]] the [[o/_original|original]] [[a/_amount|amount]].**
+- **To [[r/_reduce|reduce]] to [[h/_half|half]] the [[o/_original|original]] [[a/_amount|amount]].**
 - **To [[d/_divide|divide]] [[i/_into|into]] two [[h/_halves|halves]].**
 - **To [[m/_make|make]] up [[h/_half|half]] of.**
 - **To [[j/_join|join]] two [[p/_pieces|pieces]] of timber [[e/_etc|etc]]. by [[c/_cutting|cutting]] [[a/_away|away]] [[e/_each|each]] for [[h/_half|half]] [[i/_its|its]] thickness at the [[j/_joining|joining]] [[p/_place|place]], and [[f/_fitting|fitting]] together.**
@@ -12,6 +12,6 @@
 - [[d/_dichotomize|dichotomize]], [[d/_dimidiate|dimidiate]]
 #adjective
 - **[[d/_divided|Divided]] [[i/_into|into]] [[h/_halves|halves]].**
-- **[[a/_appearing|Appearing]] as [[i/_if|if]] [[o/_one|one]] side were [[c/_cut|cut]] [[a/_away|away]].**
+- **[[a/_appearing|Appearing]] as [[i/_if|if]] [[o/_one|one]] [[s/_side|side]] were [[c/_cut|cut]] [[a/_away|away]].**
 ---
 ---

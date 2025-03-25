@@ -1,10 +1,10 @@
 # Glottal
 ---
 #noun
-- **A sound [[m/_made|made]] with the [[g/_glottis|glottis]]**
+- **A [[s/_sound|sound]] [[m/_made|made]] with the [[g/_glottis|glottis]]**
 ---
 #adjective
-- **Of or relating to the [[g/_glottis|glottis]].**
+- **Of or [[r/_relating|relating]] to the [[g/_glottis|glottis]].**
 - **[[a/_articulated|Articulated]] with the [[g/_glottis|glottis]].**
 ---
 ### Synonyms

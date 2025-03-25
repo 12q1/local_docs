@@ -2,7 +2,7 @@
 ---
 #adverb
 - **[[l/_likely|Likely]].**
-- **In a [[l/_like|like]] or similar [[m/_manner|manner]].**
+- **In a [[l/_like|like]] or [[s/_similar|similar]] [[m/_manner|manner]].**
 ---
 #conjunction
 - **As, the way.**

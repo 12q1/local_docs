@@ -1,6 +1,6 @@
 # Americanization
 ---
 #noun
-- **The process of Americanising.**
+- **The [[p/_process|process]] of Americanising.**
 ---
 ---

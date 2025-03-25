@@ -8,6 +8,6 @@
 ---
 #noun
 - **[[d/_decorative|Decorative]] [[c/_cord|cord]], [[o/_often|often]] wrapped in [[c/_colored|colored]] [[f/_fabric|fabric]] or [[f/_foil|foil]]**
-- **The resultant [[d/_decoration|decoration]], or the [[a/_act|act]] of [[d/_decorating|decorating]] with [[c/_cording|cording]]**
+- **The [[r/_resultant|resultant]] [[d/_decoration|decoration]], or the [[a/_act|act]] of [[d/_decorating|decorating]] with [[c/_cording|cording]]**
 ---
 ---

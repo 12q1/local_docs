@@ -13,8 +13,8 @@
 - **To [[m/_make|make]] a violent or [[e/_emotional|emotional]] [[o/_outburst|outburst]].**
 	- _Example: She exploded when I criticised her hat._
 - **To [[i/_increase|increase]] suddenly.**
-- **(PHP) To [[b/_break|break]] (a [[d/_delimited|delimited]] string of text) [[i/_into|into]] several smaller strings by removing the separators.**
-- **To [[d/_decompress|decompress]] ([[d/_data|data]]) that was previously [[i/_imploded|imploded]].**
+- **(PHP) To [[b/_break|break]] (a [[d/_delimited|delimited]] string of text) [[i/_into|into]] [[s/_several|several]] [[s/_smaller|smaller]] strings by [[r/_removing|removing]] the [[s/_separators|separators]].**
+- **To [[d/_decompress|decompress]] ([[d/_data|data]]) that was [[p/_previously|previously]] [[i/_imploded|imploded]].**
 - **To [[o/_open|open]] [[a/_all|all]] [[d/_doors|doors]] and [[h/_hatches|hatches]] on an [[a/_automobile|automobile]].**
 ---
 ### Synonyms

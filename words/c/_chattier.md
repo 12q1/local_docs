@@ -7,6 +7,6 @@
 	- _Example: Chatty error messages may help attackers to compromise your server._
 ---
 #adjective
-- **[[i/_infested|Infested]] with [[l/_lice|lice]]; or, [[d/_dirty|dirty]], worn or of [[p/_poor|poor]] quality; [[l/_lousy|lousy]].**
+- **[[i/_infested|Infested]] with [[l/_lice|lice]]; or, [[d/_dirty|dirty]], worn or of [[p/_poor|poor]] [[q/_quality|quality]]; [[l/_lousy|lousy]].**
 ---
 ---

@@ -2,8 +2,8 @@
 ---
 #noun
 - **[[a/_act|Act]] of waiting; [[d/_delay|delay]].**
-- **Stay or [[c/_continuance|continuance]] in a [[p/_place|place]]; sojourn.**
-- **A residence, [[d/_dwelling|dwelling]] or [[h/_habitation|habitation]].**
+- **Stay or [[c/_continuance|continuance]] in a [[p/_place|place]]; [[s/_sojourn|sojourn]].**
+- **A [[r/_residence|residence]], [[d/_dwelling|dwelling]] or [[h/_habitation|habitation]].**
 	- _Example: of no fixed abode_
 ---
 #noun

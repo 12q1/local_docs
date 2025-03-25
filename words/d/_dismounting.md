@@ -1,7 +1,7 @@
 # Dismounting
 ---
 #verb
-- **To ([[c/_cause|cause]] to) [[g/_get|get]] [[o/_off|off]] (something).**
+- **To ([[c/_cause|cause]] to) [[g/_get|get]] [[o/_off|off]] ([[s/_something|something]]).**
 	- _Example: She carefully dismounted from the horse._
 - **To [[m/_make|make]] (a [[m/_mounted|mounted]] [[d/_drive|drive]]) unavailable for use.**
 - **To [[c/_come|come]] [[d/_down|down]]; to [[d/_descend|descend]].**

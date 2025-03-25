@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[c/_cheat|cheat]]; to swindle.**
-- **To [[h/_have|have]] sex with.**
+- **To [[h/_have|have]] [[s/_sex|sex]] with.**
 - **To [[m/_masturbate|masturbate]] ([[e/_especially|especially]] of women).**
 - **To waste time.**
 - **To totter, [[l/_like|like]] a [[c/_child|child]] [[l/_learning|learning]] to walk; to [[d/_daddle|daddle]].**

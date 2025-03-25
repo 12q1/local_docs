@@ -1,6 +1,6 @@
 # Lodgers
 ---
 #noun
-- **A [[p/_person|person]] who [[l/_lodges|lodges]] in [[a/_another|another]]'s [[h/_house|house]] ([[c/_compare|compare]] tenant).**
+- **A [[p/_person|person]] who [[l/_lodges|lodges]] in [[a/_another|another]]'[[s/_s|s]] [[h/_house|house]] ([[c/_compare|compare]] tenant).**
 ---
 ---

@@ -1,7 +1,7 @@
 # Cosmogenic
 ---
 #adjective
-- **Produced by [[c/_cosmic|cosmic]] rays**
+- **[[p/_produced|Produced]] by [[c/_cosmic|cosmic]] [[r/_rays|rays]]**
 - **[[c/_cosmogenetic|Cosmogenetic]]**
 ---
 ---

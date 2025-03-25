@@ -1,6 +1,6 @@
 # Hyoscine
 ---
 #noun
-- **Scopolamine.**
+- **[[s/_scopolamine|Scopolamine]].**
 ---
 ---

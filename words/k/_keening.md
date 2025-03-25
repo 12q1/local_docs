@@ -1,7 +1,7 @@
 # Keening
 ---
 #verb
-- **To [[m/_make|make]] [[c/_cold|cold]], to sharpen.**
+- **To [[m/_make|make]] [[c/_cold|cold]], to [[s/_sharpen|sharpen]].**
 ---
 #verb
 - **To utter a [[k/_keen|keen]].**
@@ -10,10 +10,10 @@
 ---
 #noun
 - **[[i/_intense|Intense]] [[m/_mournful|mournful]] wailing [[a/_after|after]] a [[d/_death|death]], [[o/_often|often]] at a [[f/_funeral|funeral]] or wake**
-- **(by [[e/_extension|extension]]) An unpleasant wailing sound.**
+- **(by [[e/_extension|extension]]) An unpleasant wailing [[s/_sound|sound]].**
 ---
 #adjective
-- **Sharp, shrill, [[e/_especially|especially]] of a sound.**
+- **[[s/_sharp|Sharp]], [[s/_shrill|shrill]], [[e/_especially|especially]] of a [[s/_sound|sound]].**
 	- _Example: The keening sound of a dentist's drill sets my teeth on edge._
 ---
 ---

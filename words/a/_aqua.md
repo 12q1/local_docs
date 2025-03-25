@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[c/_compound|compound]] water.**
-- **A shade of [[c/_colour|colour]], usually a [[m/_mix|mix]] of [[b/_blue|blue]] and [[g/_green|green]] similar to the [[c/_colour|colour]] turquoise.**
+- **A [[s/_shade|shade]] of [[c/_colour|colour]], usually a [[m/_mix|mix]] of [[b/_blue|blue]] and [[g/_green|green]] [[s/_similar|similar]] to the [[c/_colour|colour]] turquoise.**
 ---
 ### Synonyms
 - [[a/_aquamarine|aquamarine]]

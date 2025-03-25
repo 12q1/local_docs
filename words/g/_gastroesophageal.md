@@ -1,6 +1,6 @@
 # Gastroesophageal
 ---
 #adjective
-- **Of or relating to the stomach and to the [[e/_esophagus|esophagus]].**
+- **Of or [[r/_relating|relating]] to the stomach and to the [[e/_esophagus|esophagus]].**
 ---
 ---

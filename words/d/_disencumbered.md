@@ -1,6 +1,6 @@
 # Disencumbered
 ---
 #verb
-- **To remove an [[e/_encumbrance|encumbrance]] or [[b/_burden|burden]] from (someone or something).**
+- **To [[r/_remove|remove]] an [[e/_encumbrance|encumbrance]] or [[b/_burden|burden]] from ([[s/_someone|someone]] or [[s/_something|something]]).**
 ---
 ---

@@ -3,9 +3,9 @@
 #adverb
 - **[[p/_popularly|Popularly]] or widely.**
 	- _Example: It is generally known that the Earth is round._
-- **As a rule; usually.**
+- **As a [[r/_rule|rule]]; usually.**
 	- _Example: I generally have a walk in the afternoon._
-- **Without reference to specific [[d/_details|details]].**
+- **Without [[r/_reference|reference]] to specific [[d/_details|details]].**
 	- _Example: Generally speaking …_
 - **[[c/_collectively|Collectively]]; as a whole; without [[o/_omissions|omissions]].**
 ---

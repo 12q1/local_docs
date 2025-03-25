@@ -1,6 +1,6 @@
 # Jubilating
 ---
 #verb
-- **To show [[e/_elation|elation]] or triumph; to rejoice.**
+- **To [[s/_show|show]] [[e/_elation|elation]] or triumph; to [[r/_rejoice|rejoice]].**
 ---
 ---

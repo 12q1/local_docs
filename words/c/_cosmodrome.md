@@ -1,6 +1,6 @@
 # Cosmodrome
 ---
 #noun
-- **A site for [[l/_launching|launching]] spacecraft, usually in reference to such Soviet or Russian [[b/_built|built]] sites as the Baikonur, Kazakhstan and Plesetsk, Russia cosmodromes.**
+- **A [[s/_site|site]] for [[l/_launching|launching]] [[s/_spacecraft|spacecraft]], usually in [[r/_reference|reference]] to such [[s/_soviet|Soviet]] or [[r/_russian|Russian]] [[b/_built|built]] [[s/_sites|sites]] as the Baikonur, Kazakhstan and Plesetsk, [[r/_russia|Russia]] cosmodromes.**
 ---
 ---

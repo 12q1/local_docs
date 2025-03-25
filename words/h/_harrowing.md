@@ -6,10 +6,10 @@
 - **To [[b/_break|break]] or tear, as [[i/_if|if]] with a [[h/_harrow|harrow]]; to wound; to [[l/_lacerate|lacerate]]; to torment or [[d/_distress|distress]]; to vex.**
 ---
 #noun
-- **The process of [[b/_breaking|breaking]] up [[e/_earth|earth]] with a [[h/_harrow|harrow]].**
+- **The [[p/_process|process]] of [[b/_breaking|breaking]] up [[e/_earth|earth]] with a [[h/_harrow|harrow]].**
 	- _Example: The field received two harrowings._
 - **Suffering, torment.**
-- **[[c/_christ|Christ]]'s triumphal [[d/_descent|descent]] [[i/_into|into]] [[h/_hell|Hell]].**
+- **[[c/_christ|Christ]]'[[s/_s|s]] triumphal [[d/_descent|descent]] [[i/_into|into]] [[h/_hell|Hell]].**
 ---
 #adjective
 - **[[c/_causing|Causing]] [[p/_pain|pain]] or [[d/_distress|distress]].**

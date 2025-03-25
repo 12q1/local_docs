@@ -2,6 +2,6 @@
 ---
 #verb
 - **To [[b/_beat|beat]] or thrash.**
-- **To [[f/_flee|flee]] or run [[a/_away|away]].**
+- **To [[f/_flee|flee]] or [[r/_run|run]] [[a/_away|away]].**
 ---
 ---

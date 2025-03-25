@@ -1,6 +1,6 @@
 # Deseed
 ---
 #verb
-- **To remove seed or seeds from.**
+- **To [[r/_remove|remove]] [[s/_seed|seed]] or [[s/_seeds|seeds]] from.**
 ---
 ---

@@ -6,7 +6,7 @@
 ### Antonyms
 - [[n/_nondurable|nondurable]]
 #adjective
-- **[[a/_able|Able]] to resist wear, [[d/_decay|decay]]; [[l/_lasting|lasting]]; [[e/_enduring|enduring]].**
+- **[[a/_able|Able]] to [[r/_resist|resist]] wear, [[d/_decay|decay]]; [[l/_lasting|lasting]]; [[e/_enduring|enduring]].**
 ---
 ### Synonyms
 - [[p/_permanent|permanent]]

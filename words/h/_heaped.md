@@ -3,8 +3,8 @@
 #verb
 - **To [[p/_pile|pile]] in a [[h/_heap|heap]].**
 	- _Example: He heaped the laundry upon the bed and began folding._
-- **To [[f/_form|form]] or round [[i/_into|into]] a [[h/_heap|heap]], as in [[m/_measuring|measuring]].**
-- **To supply in [[g/_great|great]] quantity.**
+- **To [[f/_form|form]] or [[r/_round|round]] [[i/_into|into]] a [[h/_heap|heap]], as in [[m/_measuring|measuring]].**
+- **To supply in [[g/_great|great]] [[q/_quantity|quantity]].**
 	- _Example: They heaped praise upon their newest hero._
 ---
 ### Synonyms

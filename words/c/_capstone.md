@@ -8,6 +8,6 @@
 - [[c/_copestone|copestone]]
 #verb
 - **To [[c/_complete|complete]] as a [[c/_crowning|crowning]] [[a/_achievement|achievement]]; to top [[o/_off|off]].**
-- **To train in the [[c/_capstone|Capstone]] [[m/_military|Military]] [[l/_leadership|Leadership]] Program.**
+- **To train in the [[c/_capstone|Capstone]] [[m/_military|Military]] [[l/_leadership|Leadership]] [[p/_program|Program]].**
 ---
 ---

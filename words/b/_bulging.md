@@ -3,9 +3,9 @@
 #verb
 - **To stick [[o/_out|out]] from (a surface).**
 	- _Example: He stood six feet tall, with muscular arms bulging out of his black T-shirt._
-- **To [[b/_bilge|bilge]], as a ship; to [[f/_founder|founder]].**
+- **To [[b/_bilge|bilge]], as a [[s/_ship|ship]]; to [[f/_founder|founder]].**
 ---
 #noun
-- **The shape or [[m/_motion|motion]] of something that [[b/_bulges|bulges]].**
+- **The [[s/_shape|shape]] or [[m/_motion|motion]] of [[s/_something|something]] that [[b/_bulges|bulges]].**
 ---
 ---

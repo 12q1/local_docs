@@ -1,6 +1,6 @@
 # Hairbreadths
 ---
 #noun
-- **The width of a [[h/_hair|hair]], a very short [[d/_distance|distance]] or a very small [[a/_amount|amount]]**
+- **The width of a [[h/_hair|hair]], a very [[s/_short|short]] [[d/_distance|distance]] or a very [[s/_small|small]] [[a/_amount|amount]]**
 ---
 ---

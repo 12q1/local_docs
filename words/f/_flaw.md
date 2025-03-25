@@ -1,7 +1,7 @@
 # Flaw
 ---
 #noun
-- **A [[f/_flake|flake]], [[f/_fragment|fragment]], or shiver.**
+- **A [[f/_flake|flake]], [[f/_fragment|fragment]], or [[s/_shiver|shiver]].**
 - **A thin [[c/_cake|cake]], as of [[i/_ice|ice]].**
 - **A [[c/_crack|crack]] or [[b/_breach|breach]], a [[g/_gap|gap]] or [[f/_fissure|fissure]]; a [[d/_defect|defect]] of [[c/_continuity|continuity]] or [[c/_cohesion|cohesion]].**
 	- _Example: That vase has a flaw._

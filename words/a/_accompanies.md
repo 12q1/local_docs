@@ -10,7 +10,7 @@
 - **To [[a/_associate|associate]] in a [[c/_company|company]]; to [[k/_keep|keep]] [[c/_company|company]].**
 - **To [[c/_cohabit|cohabit]] (with).**
 - **To [[c/_cohabit|cohabit]] with; to [[c/_coexist|coexist]] with; [[o/_occur|occur]] with.**
-- **To be [[f/_found|found]] at the same time.**
+- **To be [[f/_found|found]] at the [[s/_same|same]] time.**
 	- _Example: Thunder almost always accompanies lightning during a rain storm._
 ---
 ---

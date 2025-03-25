@@ -1,6 +1,6 @@
 # Agronomist
 ---
 #noun
-- **A scientist whose speciality is [[a/_agronomy|agronomy]].**
+- **A [[s/_scientist|scientist]] whose speciality is [[a/_agronomy|agronomy]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Greenish
 ---
 #adjective
-- **Somewhat [[g/_green|green]].**
+- **[[s/_somewhat|Somewhat]] [[g/_green|green]].**
 ---
 ---

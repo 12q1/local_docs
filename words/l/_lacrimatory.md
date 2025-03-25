@@ -1,6 +1,6 @@
 # Lacrimatory
 ---
 #adjective
-- **Producing tears; [[l/_lachrymatory|lachrymatory]].**
+- **[[p/_producing|Producing]] tears; [[l/_lachrymatory|lachrymatory]].**
 ---
 ---

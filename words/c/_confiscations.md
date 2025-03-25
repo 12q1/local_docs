@@ -1,6 +1,6 @@
 # Confiscations
 ---
 #noun
-- **The [[a/_act|act]] or process of [[c/_confiscating|confiscating]].**
+- **The [[a/_act|act]] or [[p/_process|process]] of [[c/_confiscating|confiscating]].**
 ---
 ---

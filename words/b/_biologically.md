@@ -2,6 +2,6 @@
 ---
 #adverb
 - **In a [[b/_biological|biological]] [[m/_manner|manner]]**
-- **With regard to [[b/_biology|biology]]**
+- **With [[r/_regard|regard]] to [[b/_biology|biology]]**
 ---
 ---

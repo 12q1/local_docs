@@ -6,8 +6,8 @@
 - **[[h/_having|Having]] [[b/_been|been]] taken [[a/_apart|apart]]; [[d/_disassembled|disassembled]], in [[p/_pieces|pieces]].**
 ---
 #adverb
-- **[[p/_placed|Placed]] separately (in regard to space or time).**
-- **Separately, [[e/_exclusively|exclusively]], not together**
+- **[[p/_placed|Placed]] [[s/_separately|separately]] (in [[r/_regard|regard]] to [[s/_space|space]] or time).**
+- **[[s/_separately|Separately]], [[e/_exclusively|exclusively]], not together**
 	- _Example: Consider the two propositions apart._
 - **[[a/_aside|Aside]]; [[a/_away|away]].**
 - **In or [[i/_into|into]] two or [[m/_more|more]] [[p/_parts|parts]].**

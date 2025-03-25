@@ -5,8 +5,8 @@
 - **A thick [[g/_group|group]] or [[b/_bunch|bunch]], [[e/_especially|especially]] of [[b/_bushes|bushes]] or [[h/_hair|hair]].**
 - **A [[d/_dull|dull]] thud.**
 - **The [[c/_compressed|compressed]] [[c/_clay|clay]] of [[c/_coal|coal]] strata.**
-- **A small [[g/_group|group]] of trees or [[p/_plants|plants]].**
-- **A thick [[a/_addition|addition]] to the sole of a shoe.**
+- **A [[s/_small|small]] [[g/_group|group]] of trees or [[p/_plants|plants]].**
+- **A thick [[a/_addition|addition]] to the [[s/_sole|sole]] of a [[s/_shoe|shoe]].**
 ---
 #verb
 - **To [[f/_form|form]] [[c/_clusters|clusters]] or [[l/_lumps|lumps]].**

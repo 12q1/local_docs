@@ -5,7 +5,7 @@
 	- _Example: He was a slow and careful driver._
 - **[[c/_conscientious|Conscientious]] and [[p/_painstaking|painstaking]]; [[m/_meticulous|meticulous]].**
 	- _Example: They made a careful search of the crime scene._
-- **[[f/_full|Full]] of [[c/_care|care]] or [[g/_grief|grief]]; sorrowful, sad.**
+- **[[f/_full|Full]] of [[c/_care|care]] or [[g/_grief|grief]]; [[s/_sorrowful|sorrowful]], [[s/_sad|sad]].**
 - **[[f/_full|Full]] of [[c/_cares|cares]] or [[a/_anxiety|anxiety]]; worried, troubled.**
 ---
 ### Antonyms

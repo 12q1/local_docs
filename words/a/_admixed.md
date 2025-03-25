@@ -1,6 +1,6 @@
 # Admixed
 ---
 #verb
-- **To [[m/_mingle|mingle]] with something [[e/_else|else]]; to [[m/_mix|mix]].**
+- **To [[m/_mingle|mingle]] with [[s/_something|something]] [[e/_else|else]]; to [[m/_mix|mix]].**
 ---
 ---

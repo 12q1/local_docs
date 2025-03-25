@@ -1,7 +1,7 @@
 # Decrescent
 ---
 #noun
-- **A [[c/_crescent|crescent]] [[o/_oriented|oriented]] with [[h/_horns|horns]] turned to sinister ([[p/_pointing|pointing]] right).**
+- **A [[c/_crescent|crescent]] [[o/_oriented|oriented]] with [[h/_horns|horns]] turned to [[s/_sinister|sinister]] ([[p/_pointing|pointing]] [[r/_right|right]]).**
 ---
 ### Antonyms
 - [[i/_increscent|increscent]]

@@ -1,6 +1,6 @@
 # Inclusiveness
 ---
 #noun
-- **The property of [[b/_being|being]] [[i/_inclusive|inclusive]].**
+- **The [[p/_property|property]] of [[b/_being|being]] [[i/_inclusive|inclusive]].**
 ---
 ---

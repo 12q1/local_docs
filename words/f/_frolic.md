@@ -3,10 +3,10 @@
 #noun
 - **[[g/_gaiety|Gaiety]]; [[m/_merriment|merriment]].**
 - **A [[p/_playful|playful]] [[a/_antic|antic]].**
-- **A social [[g/_gathering|gathering]].**
+- **A [[s/_social|social]] [[g/_gathering|gathering]].**
 ---
 #verb
-- **To [[m/_make|make]] [[m/_merry|merry]]; to [[h/_have|have]] [[f/_fun|fun]]; to romp; to [[b/_behave|behave]] [[p/_playfully|playfully]] and uninhibitedly.**
+- **To [[m/_make|make]] [[m/_merry|merry]]; to [[h/_have|have]] [[f/_fun|fun]]; to [[r/_romp|romp]]; to [[b/_behave|behave]] [[p/_playfully|playfully]] and uninhibitedly.**
 	- _Example: We saw the lambs frolicking in the meadow._
 - **To [[c/_cause|cause]] to be [[m/_merry|merry]].**
 ---

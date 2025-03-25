@@ -1,7 +1,7 @@
 # Disgusted
 ---
 #verb
-- **To [[c/_cause|cause]] an [[i/_intense|intense]] [[d/_dislike|dislike]] for something.**
+- **To [[c/_cause|cause]] an [[i/_intense|intense]] [[d/_dislike|dislike]] for [[s/_something|something]].**
 	- _Example: It disgusts me to see her chew with her mouth open._
 ---
 #adjective

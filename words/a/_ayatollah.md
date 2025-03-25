@@ -1,7 +1,7 @@
 # Ayatollah
 ---
 #noun
-- **A religious [[l/_leader|leader]] in Twelver Shi'[[i/_ism|ism]].**
+- **A [[r/_religious|religious]] [[l/_leader|leader]] in Twelver [[s/_shi|Shi]]'[[i/_ism|ism]].**
 - **An [[a/_authority|authority]] on [[a/_any|any]] subject.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Libeccio
 ---
 #noun
-- **A southwest wind.**
+- **A [[s/_southwest|southwest]] wind.**
 ---
 ---

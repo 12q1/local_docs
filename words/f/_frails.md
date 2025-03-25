@@ -1,9 +1,9 @@
 # Frails
 ---
 #noun
-- **A [[b/_basket|basket]] [[m/_made|made]] of rushes, used [[c/_chiefly|chiefly]] to [[h/_hold|hold]] [[f/_figs|figs]] and raisins.**
-- **The quantity of [[f/_fruit|fruit]] or [[o/_other|other]] [[i/_items|items]] [[c/_contained|contained]] in a [[f/_frail|frail]].**
-- **A rush for weaving [[b/_baskets|baskets]].**
+- **A [[b/_basket|basket]] [[m/_made|made]] of [[r/_rushes|rushes]], used [[c/_chiefly|chiefly]] to [[h/_hold|hold]] [[f/_figs|figs]] and [[r/_raisins|raisins]].**
+- **The [[q/_quantity|quantity]] of [[f/_fruit|fruit]] or [[o/_other|other]] [[i/_items|items]] [[c/_contained|contained]] in a [[f/_frail|frail]].**
+- **A [[r/_rush|rush]] for weaving [[b/_baskets|baskets]].**
 - **A [[g/_girl|girl]].**
 ---
 #verb

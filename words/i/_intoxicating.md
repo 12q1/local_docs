@@ -8,6 +8,6 @@
 - [[i/_inebriate|inebriate]]
 #adjective
 - **(of a substance) [[a/_able|Able]] to [[i/_intoxicate|intoxicate]]; an [[i/_intoxicant|intoxicant]].**
-- **Very [[e/_exciting|exciting]] and stimulating, [[l/_like|like]] [[a/_alcohol|alcohol]] or some [[o/_other|other]] stimulant.**
+- **Very [[e/_exciting|exciting]] and stimulating, [[l/_like|like]] [[a/_alcohol|alcohol]] or [[s/_some|some]] [[o/_other|other]] stimulant.**
 ---
 ---

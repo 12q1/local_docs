@@ -1,9 +1,9 @@
 # Infidelity
 ---
 #noun
-- **Unfaithfulness in a [[m/_marriage|marriage]] or an [[i/_intimate|intimate]] relationship: [[p/_practice|practice]] or [[i/_instance|instance]] of [[h/_having|having]] a sexual or romantic [[a/_affair|affair]] with someone [[o/_other|other]] than [[o/_one|one]]'s spouse, without the [[c/_consent|consent]] of the spouse.**
-- **Unfaithfulness in some [[o/_other|other]] [[m/_moral|moral]] [[o/_obligation|obligation]].**
-- **[[l/_lack|Lack]] of religious [[b/_belief|belief]].**
+- **Unfaithfulness in a [[m/_marriage|marriage]] or an [[i/_intimate|intimate]] [[r/_relationship|relationship]]: [[p/_practice|practice]] or [[i/_instance|instance]] of [[h/_having|having]] a [[s/_sexual|sexual]] or [[r/_romantic|romantic]] [[a/_affair|affair]] with [[s/_someone|someone]] [[o/_other|other]] than [[o/_one|one]]'[[s/_s|s]] spouse, without the [[c/_consent|consent]] of the spouse.**
+- **Unfaithfulness in [[s/_some|some]] [[o/_other|other]] [[m/_moral|moral]] [[o/_obligation|obligation]].**
+- **[[l/_lack|Lack]] of [[r/_religious|religious]] [[b/_belief|belief]].**
 ---
 ### Synonyms
 - [[a/_adultery|adultery]], [[b/_betrayal|betrayal]], [[f/_faithlessness|faithlessness]]

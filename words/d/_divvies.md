@@ -4,10 +4,10 @@
 - **A [[d/_dividend|dividend]].**
 ---
 #noun
-- **A stupid [[p/_person|person]]; someone of [[l/_low|low]] [[i/_intelligence|intelligence]].**
+- **A stupid [[p/_person|person]]; [[s/_someone|someone]] of [[l/_low|low]] [[i/_intelligence|intelligence]].**
 ---
 #noun
-- **A [[d/_dividend|dividend]]; a share or [[p/_portion|portion]].**
+- **A [[d/_dividend|dividend]]; a [[s/_share|share]] or [[p/_portion|portion]].**
 ---
 #verb
 - **To [[d/_divide|divide]] [[i/_into|into]] [[p/_portions|portions]].**

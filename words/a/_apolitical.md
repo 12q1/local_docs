@@ -8,7 +8,7 @@
 #adjective
 - **[[h/_having|Having]] [[n/_no|no]] [[i/_interest|interest]] or [[i/_involvement|involvement]] in [[p/_politics|politics]].**
 	- _Example: The Queen is an apolitical figure._
-- **[[h/_having|Having]] [[n/_no|no]] [[p/_political|political]] relevance or [[f/_function|function]].**
+- **[[h/_having|Having]] [[n/_no|no]] [[p/_political|political]] [[r/_relevance|relevance]] or [[f/_function|function]].**
 	- _Example: The PM's visit to the school was entirely apolitical._
 - **[[p/_politically|Politically]] [[n/_neutral|neutral]], unbiased, [[n/_non|non]]-[[a/_aligned|aligned]], [[f/_free|free]] from [[p/_party|party]] [[p/_politics|politics]]**
 ---

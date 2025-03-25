@@ -1,7 +1,7 @@
 # Balderdash
 ---
 #noun
-- **Senseless talk or writing; [[n/_nonsense|nonsense]].**
+- **[[s/_senseless|Senseless]] talk or writing; [[n/_nonsense|nonsense]].**
 - **A worthless [[m/_mixture|mixture]], [[e/_especially|especially]] of [[l/_liquors|liquors]].**
 - **[[o/_obscene|Obscene]] [[l/_language|language]] or writing.**
 ---

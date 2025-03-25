@@ -1,6 +1,6 @@
 # Classroom
 ---
 #noun
-- **A room, [[o/_often|often]] in a school, where [[c/_classes|classes]] take [[p/_place|place]]**
+- **A [[r/_room|room]], [[o/_often|often]] in a [[s/_school|school]], where [[c/_classes|classes]] take [[p/_place|place]]**
 ---
 ---

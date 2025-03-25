@@ -1,6 +1,6 @@
 # Faqir
 ---
 #noun
-- **A religious [[m/_mendicant|mendicant]] who [[o/_owns|owns]] [[n/_no|no]] [[p/_personal|personal]] property.**
+- **A [[r/_religious|religious]] [[m/_mendicant|mendicant]] who [[o/_owns|owns]] [[n/_no|no]] [[p/_personal|personal]] [[p/_property|property]].**
 ---
 ---

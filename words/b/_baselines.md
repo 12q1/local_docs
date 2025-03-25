@@ -9,7 +9,7 @@
 	- _Example: Several characters typically have descenders below the lower baseline._
 - **The [[l/_line|line]] at the [[f/_farthest|farthest]] [[e/_ends|ends]] of the [[c/_court|court]] [[i/_indicating|indicating]] the [[b/_boundary|boundary]] of the [[a/_area|area]] of [[p/_play|play]].**
 	- _Example: The umpire missed the call. The ball hit the baseline._
-- **A [[c/_configuration|configuration]] of software, [[h/_hardware|hardware]], or a process that is [[e/_established|established]] and [[d/_documented|documented]] as a [[p/_point|point]] of reference.**
+- **A [[c/_configuration|configuration]] of [[s/_software|software]], [[h/_hardware|hardware]], or a [[p/_process|process]] that is [[e/_established|established]] and [[d/_documented|documented]] as a [[p/_point|point]] of [[r/_reference|reference]].**
 	- _Example: The baseline configuration includes unsupported components._
 ---
 ---

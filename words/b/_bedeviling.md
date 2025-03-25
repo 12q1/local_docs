@@ -6,6 +6,6 @@
 - **To [[p/_perplex|perplex]] or [[b/_bewilder|bewilder]].**
 ---
 #noun
-- **An [[a/_act|act]] by which somebody is [[b/_bedevilled|bedevilled]]; [[c/_causing|causing]] of trouble; [[h/_harassment|harassment]].**
+- **An [[a/_act|act]] by which [[s/_somebody|somebody]] is [[b/_bedevilled|bedevilled]]; [[c/_causing|causing]] of trouble; [[h/_harassment|harassment]].**
 ---
 ---

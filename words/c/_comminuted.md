@@ -1,12 +1,12 @@
 # Comminuted
 ---
 #verb
-- **To pulverize; to smash.**
+- **To [[p/_pulverize|pulverize]]; to [[s/_smash|smash]].**
 - **To [[c/_cause|cause]] [[f/_fragmentation|fragmentation]] (of [[b/_bone|bone]]).**
-- **To [[b/_break|break]] [[i/_into|into]] smaller [[p/_portions|portions]].**
+- **To [[b/_break|break]] [[i/_into|into]] [[s/_smaller|smaller]] [[p/_portions|portions]].**
 ---
 #adjective
-- **Reduced to small [[p/_particles|particles]] or to [[p/_powder|powder]], as by [[c/_crushing|crushing]] or pulverizing.**
+- **[[r/_reduced|Reduced]] to [[s/_small|small]] [[p/_particles|particles]] or to [[p/_powder|powder]], as by [[c/_crushing|crushing]] or [[p/_pulverizing|pulverizing]].**
 ---
 ### Synonyms
 - [[t/_triturated|triturated]]

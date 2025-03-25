@@ -1,8 +1,8 @@
 # Affiliation
 ---
 #noun
-- **The relationship resulting from [[a/_affiliating|affiliating]] [[o/_one|one]] thing with [[a/_another|another]].**
-- **The [[e/_establishment|establishment]] of a [[c/_child|child]]'s [[p/_paternity|paternity]] or [[m/_maternity|maternity]]**
-- **A [[c/_club|club]], society or umbrella [[o/_organisation|organisation]] so [[f/_formed|formed]], [[e/_especially|especially]] a trade union.**
+- **The [[r/_relationship|relationship]] [[r/_resulting|resulting]] from [[a/_affiliating|affiliating]] [[o/_one|one]] thing with [[a/_another|another]].**
+- **The [[e/_establishment|establishment]] of a [[c/_child|child]]'[[s/_s|s]] [[p/_paternity|paternity]] or [[m/_maternity|maternity]]**
+- **A [[c/_club|club]], [[s/_society|society]] or umbrella [[o/_organisation|organisation]] [[s/_so|so]] [[f/_formed|formed]], [[e/_especially|especially]] a trade union.**
 ---
 ---

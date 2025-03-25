@@ -17,10 +17,10 @@
 - **The [[e/_edible|edible]] [[f/_fruit|fruit]] of the [[a/_asian|Asian]] tree ([[a/_artocarpus|Artocarpus]] heterophyllus); [[a/_also|also]] the tree [[i/_itself|itself]].**
 ---
 #noun
-- **A [[h/_home|home]] run.**
+- **A [[h/_home|home]] [[r/_run|run]].**
 ---
 #noun
-- **([[g/_games|games]]) A [[c/_children|children]]'s [[g/_game|game]] [[i/_involving|involving]] [[p/_picking|picking]] up [[o/_objects|objects]]; [[k/_knucklebones|knucklebones]]; [[j/_jackstones|jackstones]].**
+- **([[g/_games|games]]) A [[c/_children|children]]'[[s/_s|s]] [[g/_game|game]] [[i/_involving|involving]] [[p/_picking|picking]] up [[o/_objects|objects]]; [[k/_knucklebones|knucklebones]]; [[j/_jackstones|jackstones]].**
 ---
 #noun
 - **[[a/_alternative|Alternative]] [[f/_form|form]] of [[j/_jakes|jakes]]: an [[o/_outhouse|outhouse]] or [[l/_lavatory|lavatory]].**

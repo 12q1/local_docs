@@ -9,6 +9,6 @@
 #adjective
 - **Weakened.**
 	- _Example: His debilitated body, the victim of the wasting disease, could no longer support his weight._
-- **Run [[d/_down|down]], [[d/_damaged|damaged]], in [[d/_disrepair|disrepair]].**
+- **[[r/_run|Run]] [[d/_down|down]], [[d/_damaged|damaged]], in [[d/_disrepair|disrepair]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Grandchild
 ---
 #noun
-- **A [[c/_child|child]] of someone's [[c/_child|child]].**
+- **A [[c/_child|child]] of [[s/_someone|someone]]'[[s/_s|s]] [[c/_child|child]].**
 ---
 ### Synonyms
 - [[g/_grandkid|grandkid]], [[g/_grandwean|grandwean]], [[o/_oe|oe]]

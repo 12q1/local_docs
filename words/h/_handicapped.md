@@ -12,6 +12,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] a [[h/_handicap|handicap]].**
-- **[[l/_limited|Limited]] by an [[i/_impediment|impediment]] of some [[k/_kind|kind]].**
+- **[[l/_limited|Limited]] by an [[i/_impediment|impediment]] of [[s/_some|some]] [[k/_kind|kind]].**
 ---
 ---

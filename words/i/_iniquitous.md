@@ -1,7 +1,7 @@
 # Iniquitous
 ---
 #adjective
-- **Wicked or sinful**
+- **Wicked or [[s/_sinful|sinful]]**
 - **[[m/_morally|Morally]] [[o/_objectionable|objectionable]]**
 ---
 ### Synonyms

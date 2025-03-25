@@ -1,6 +1,6 @@
 # Linhay
 ---
 #noun
-- **A shed or [[o/_other|other]] [[o/_outbuilding|outbuilding]].**
+- **A [[s/_shed|shed]] or [[o/_other|other]] [[o/_outbuilding|outbuilding]].**
 ---
 ---

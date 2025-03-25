@@ -9,7 +9,7 @@
 	- _Example: Please drain the sink. It's full of dirty water._
 - **To [[c/_convert|convert]] a [[p/_perennially|perennially]] wet [[p/_place|place]] [[i/_into|into]] a [[d/_dry|dry]] [[o/_one|one]].**
 	- _Example: They had to drain the swampy land before the parking lot could be built._
-- **To [[d/_deplete|deplete]] of [[e/_energy|energy]] or resources.**
+- **To [[d/_deplete|deplete]] of [[e/_energy|energy]] or [[r/_resources|resources]].**
 	- _Example: The stress of this job is really draining me._
 - **To [[d/_draw|draw]] [[o/_off|off]] by [[d/_degrees|degrees]]; to [[c/_cause|cause]] to [[f/_flow|flow]] [[g/_gradually|gradually]] [[o/_out|out]] or [[o/_off|off]]; [[h/_hence|hence]], to [[e/_exhaust|exhaust]].**
 - **To [[f/_filter|filter]].**

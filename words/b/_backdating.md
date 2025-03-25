@@ -6,6 +6,6 @@
 ### Synonyms
 - [[a/_antedate|antedate]]
 #noun
-- **The [[a/_act|act]] by which something is [[b/_backdated|backdated]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[b/_backdated|backdated]].**
 ---
 ---

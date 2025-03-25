@@ -1,6 +1,6 @@
 # Blurbs
 ---
 #noun
-- **A short [[d/_description|description]] of a [[b/_book|book]], [[f/_film|film]], or [[o/_other|other]] work, written and used for promotional purposes.**
+- **A [[s/_short|short]] [[d/_description|description]] of a [[b/_book|book]], [[f/_film|film]], or [[o/_other|other]] work, written and used for [[p/_promotional|promotional]] [[p/_purposes|purposes]].**
 ---
 ---

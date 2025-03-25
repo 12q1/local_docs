@@ -1,7 +1,7 @@
 # Lettuces
 ---
 #noun
-- **An [[e/_edible|edible]] [[p/_plant|plant]], [[l/_lactuca|Lactuca]] sativa and [[i/_its|its]] [[c/_close|close]] relatives, [[h/_having|having]] a [[h/_head|head]] of [[g/_green|green]] and/or purple [[l/_leaves|leaves]].**
+- **An [[e/_edible|edible]] [[p/_plant|plant]], [[l/_lactuca|Lactuca]] [[s/_sativa|sativa]] and [[i/_its|its]] [[c/_close|close]] [[r/_relatives|relatives]], [[h/_having|having]] a [[h/_head|head]] of [[g/_green|green]] and/or [[p/_purple|purple]] [[l/_leaves|leaves]].**
 - **The [[l/_leaves|leaves]] of the [[l/_lettuce|lettuce]] [[p/_plant|plant]], [[e/_eaten|eaten]] as a vegetable; as a [[d/_dish|dish]] [[o/_often|often]] [[m/_mixed|mixed]] with [[o/_other|other]] [[i/_ingredients|ingredients]], [[d/_dressing|dressing]] [[e/_etc|etc]].**
 	- _Example: I’ll have a ham sandwich with lettuce and tomato._
 - **United States [[p/_paper|paper]] [[c/_currency|currency]]; [[d/_dollars|dollars]].**

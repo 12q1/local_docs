@@ -8,6 +8,6 @@
 ### Antonyms
 - [[o/_oblige|oblige]]
 #adjective
-- **Not [[o/_obliging|obliging]]; not [[m/_making|making]] an [[e/_effort|effort]] to respect the [[n/_needs|needs]] and wishes of [[o/_others|others]]; unaccommodating.**
+- **Not [[o/_obliging|obliging]]; not [[m/_making|making]] an [[e/_effort|effort]] to [[r/_respect|respect]] the [[n/_needs|needs]] and wishes of [[o/_others|others]]; unaccommodating.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Inconsequential
 ---
 #noun
-- **Something unimportant; something that [[d/_does|does]] not [[m/_matter|matter]].**
+- **[[s/_something|Something]] unimportant; [[s/_something|something]] that [[d/_does|does]] not [[m/_matter|matter]].**
 ---
 #adjective
 - **[[h/_having|Having]] [[n/_no|no]] [[c/_consequence|consequence]]; not [[c/_consequential|consequential]]; of [[l/_little|little]] [[i/_importance|importance]].**

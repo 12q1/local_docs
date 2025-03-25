@@ -1,18 +1,18 @@
 # Kindred
 ---
 #noun
-- **([[o/_often|often]] plurale tantum) [[d/_distant|Distant]] and [[c/_close|close]] relatives, [[c/_collectively|collectively]]; [[k/_kin|kin]].**
-- **([[o/_often|often]] plurale tantum) [[p/_people|People]] of the same [[e/_ethnic|ethnic]] [[d/_descent|descent]], not [[i/_including|including]] speaker; [[b/_brethren|brethren]].**
-- **A [[g/_grouping|grouping]] of relatives.**
-- **[[b/_blood|Blood]] relationship.**
+- **([[o/_often|often]] plurale tantum) [[d/_distant|Distant]] and [[c/_close|close]] [[r/_relatives|relatives]], [[c/_collectively|collectively]]; [[k/_kin|kin]].**
+- **([[o/_often|often]] plurale tantum) [[p/_people|People]] of the [[s/_same|same]] [[e/_ethnic|ethnic]] [[d/_descent|descent]], not [[i/_including|including]] [[s/_speaker|speaker]]; [[b/_brethren|brethren]].**
+- **A [[g/_grouping|grouping]] of [[r/_relatives|relatives]].**
+- **[[b/_blood|Blood]] [[r/_relationship|relationship]].**
 - **[[a/_affinity|Affinity]], [[l/_likeness|likeness]].**
 - **A [[h/_household|household]] or [[g/_group|group]] [[f/_following|following]] the [[m/_modern|modern]] [[p/_pagan|pagan]] [[f/_faith|faith]] of [[h/_heathenry|Heathenry]] or Ásatrú.**
 ---
 ### Synonyms
 - [[b/_brethren|brethren]], [[k/_kinship|kinship]], [[g/_garth|garth]], [[h/_hearth|hearth]], [[s/_stead|stead]]
 #adjective
-- **Of the same [[n/_nature|nature]], or of similar [[c/_character|character]].**
-- **[[c/_connected|Connected]], related, [[c/_cognate|cognate]], [[a/_akin|akin]].**
+- **Of the [[s/_same|same]] [[n/_nature|nature]], or of [[s/_similar|similar]] [[c/_character|character]].**
+- **[[c/_connected|Connected]], [[r/_related|related]], [[c/_cognate|cognate]], [[a/_akin|akin]].**
 	- _Example: kindred tongues_
 ---
 ---

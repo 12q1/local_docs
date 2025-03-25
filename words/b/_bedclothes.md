@@ -1,7 +1,7 @@
 # Bedclothes
 ---
 #noun
-- **Sheets, [[b/_blankets|blankets]], quilts or [[o/_other|other]] [[c/_coverings|coverings]] used on a [[b/_bed|bed]].**
+- **[[s/_sheets|Sheets]], [[b/_blankets|blankets]], [[q/_quilts|quilts]] or [[o/_other|other]] [[c/_coverings|coverings]] used on a [[b/_bed|bed]].**
 	- _Example: She pulled her bedclothes over her neck to stay warm._
 ---
 ### Synonyms

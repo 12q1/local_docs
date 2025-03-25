@@ -2,17 +2,17 @@
 ---
 #verb
 - **To [[h/_help|help]] [[f/_forward|forward]]; to [[a/_assist|assist]].**
-- **To [[e/_encourage|encourage]] [[g/_growth|growth]]; to support progress or [[g/_growth|growth]] of something; to promote.**
+- **To [[e/_encourage|encourage]] [[g/_growth|growth]]; to support [[p/_progress|progress]] or [[g/_growth|growth]] of [[s/_something|something]]; to [[p/_promote|promote]].**
 	- _Example: Further the economy._
 ---
 #adjective
-- **([[c/_comparative|comparative]] [[f/_form|form]] of [[f/_far|far]]) [[m/_more|More]] [[d/_distant|distant]]; relatively [[d/_distant|distant]].**
+- **([[c/_comparative|comparative]] [[f/_form|form]] of [[f/_far|far]]) [[m/_more|More]] [[d/_distant|distant]]; [[r/_relatively|relatively]] [[d/_distant|distant]].**
 	- _Example: He was standing at the further end of the corridor._
 - **[[m/_more|More]], [[a/_additional|additional]].**
 	- _Example: I have one further comment to make._
 ---
 #adverb
-- **([[c/_comparative|comparative]] [[f/_form|form]] of [[f/_far|far]]) To, at or [[o/_over|over]] a [[g/_greater|greater]] [[d/_distance|distance]] in space, time or [[o/_other|other]] [[e/_extent|extent]].**
+- **([[c/_comparative|comparative]] [[f/_form|form]] of [[f/_far|far]]) To, at or [[o/_over|over]] a [[g/_greater|greater]] [[d/_distance|distance]] in [[s/_space|space]], time or [[o/_other|other]] [[e/_extent|extent]].**
 	- _Example: I can run further than you._
 - **([[c/_comparative|comparative]] [[f/_form|form]] of [[f/_far|far]]) To a [[g/_greater|greater]] [[e/_extent|extent]] or [[d/_degree|degree]].**
 	- _Example: Of the two civilisations, this one was further advanced._

@@ -1,7 +1,7 @@
 # Expiations
 ---
 #noun
-- **An [[a/_act|act]] of [[a/_atonement|atonement]] for a sin or wrongdoing.**
+- **An [[a/_act|act]] of [[a/_atonement|atonement]] for a [[s/_sin|sin]] or wrongdoing.**
 - **The [[a/_act|act]] of [[e/_expiating|expiating]] or stripping [[o/_off|off]].**
 ---
 ### Synonyms

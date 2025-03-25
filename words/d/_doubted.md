@@ -1,7 +1,7 @@
 # Doubted
 ---
 #verb
-- **To be undecided [[a/_about|about]]; to [[l/_lack|lack]] [[c/_confidence|confidence]] in; to [[d/_disbelieve|disbelieve]], to question.**
+- **To be undecided [[a/_about|about]]; to [[l/_lack|lack]] [[c/_confidence|confidence]] in; to [[d/_disbelieve|disbelieve]], to [[q/_question|question]].**
 	- _Example: He doubted that was really what you meant._
 - **To [[h/_harbour|harbour]] suspicion [[a/_about|about]]; suspect.**
 - **To [[a/_anticipate|anticipate]] with [[d/_dread|dread]] or [[f/_fear|fear]]; to [[a/_apprehend|apprehend]].**

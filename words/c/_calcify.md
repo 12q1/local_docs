@@ -1,7 +1,7 @@
 # Calcify
 ---
 #verb
-- **To [[m/_make|make]] something [[h/_hard|hard]] and stony by [[i/_impregnating|impregnating]] with [[c/_calcium|calcium]] salts.**
-- **To [[b/_become|become]] [[h/_hard|hard]] and stony by [[i/_impregnation|impregnation]] with [[c/_calcium|calcium]] salts.**
+- **To [[m/_make|make]] [[s/_something|something]] [[h/_hard|hard]] and stony by [[i/_impregnating|impregnating]] with [[c/_calcium|calcium]] [[s/_salts|salts]].**
+- **To [[b/_become|become]] [[h/_hard|hard]] and stony by [[i/_impregnation|impregnation]] with [[c/_calcium|calcium]] [[s/_salts|salts]].**
 ---
 ---

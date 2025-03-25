@@ -1,6 +1,6 @@
 # Carcajous
 ---
 #noun
-- **Synonym of wolverine (a solitary, [[f/_fierce|fierce]] [[m/_member|member]] of the weasel [[f/_family|family]])**
+- **[[s/_synonym|Synonym]] of wolverine (a [[s/_solitary|solitary]], [[f/_fierce|fierce]] [[m/_member|member]] of the weasel [[f/_family|family]])**
 ---
 ---

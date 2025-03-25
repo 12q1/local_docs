@@ -1,9 +1,9 @@
 # Counterpoise
 ---
 #noun
-- **A weight sufficient to [[b/_balance|balance]] [[a/_another|another]], for [[e/_example|example]] in the [[o/_opposite|opposite]] [[e/_end|end]] of scales; an [[e/_equal|equal]] weight.**
+- **A weight sufficient to [[b/_balance|balance]] [[a/_another|another]], for [[e/_example|example]] in the [[o/_opposite|opposite]] [[e/_end|end]] of [[s/_scales|scales]]; an [[e/_equal|equal]] weight.**
 - **An [[e/_equal|equal]] [[p/_power|power]] or [[f/_force|force]] [[a/_acting|acting]] in [[o/_opposition|opposition]]; a [[f/_force|force]] sufficient to [[b/_balance|balance]] [[a/_another|another]] [[f/_force|force]].**
-- **The relation of two weights or [[f/_forces|forces]] which [[b/_balance|balance]] [[e/_each|each]] [[o/_other|other]]; [[e/_equilibrium|equilibrium]]**
+- **The [[r/_relation|relation]] of two weights or [[f/_forces|forces]] which [[b/_balance|balance]] [[e/_each|each]] [[o/_other|other]]; [[e/_equilibrium|equilibrium]]**
 ---
 ### Synonyms
 - [[e/_equiponderance|equiponderance]]

@@ -1,6 +1,6 @@
 # Auctioning
 ---
 #verb
-- **To sell at an [[a/_auction|auction]].**
+- **To [[s/_sell|sell]] at an [[a/_auction|auction]].**
 ---
 ---

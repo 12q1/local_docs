@@ -4,55 +4,55 @@
 - **The [[a/_act|act]] of [[b/_biting|biting]].**
 - **The wound [[l/_left|left]] [[b/_behind|behind]] [[a/_after|after]] [[h/_having|having]] [[b/_been|been]] [[b/_bitten|bitten]].**
 	- _Example: That snake bite really hurts!_
-- **The swelling of [[o/_one|one]]'s skin [[c/_caused|caused]] by an [[i/_insect|insect]]'s [[m/_mouthparts|mouthparts]] or sting.**
+- **The swelling of [[o/_one|one]]'[[s/_s|s]] [[s/_skin|skin]] [[c/_caused|caused]] by an [[i/_insect|insect]]'[[s/_s|s]] [[m/_mouthparts|mouthparts]] or sting.**
 	- _Example: After just one night in the jungle I was covered with mosquito bites._
-- **A [[p/_piece|piece]] of [[f/_food|food]] of a size that would be produced by [[b/_biting|biting]]; a [[m/_mouthful|mouthful]].**
+- **A [[p/_piece|piece]] of [[f/_food|food]] of a [[s/_size|size]] that would be [[p/_produced|produced]] by [[b/_biting|biting]]; a [[m/_mouthful|mouthful]].**
 	- _Example: There were only a few bites left on the plate._
-- **Something unpleasant.**
+- **[[s/_something|Something]] unpleasant.**
 	- _Example: That's really a bite!_
 - **An [[a/_act|act]] of [[p/_plagiarism|plagiarism]].**
 	- _Example: That song is a bite of my song!_
-- **A small [[m/_meal|meal]] or snack.**
+- **A [[s/_small|small]] [[m/_meal|meal]] or [[s/_snack|snack]].**
 	- _Example: I'll have a quick bite to quiet my stomach until dinner._
 - **[[a/_aggression|Aggression]]**
-- **The [[h/_hold|hold]] which the short [[e/_end|end]] of a [[l/_lever|lever]] [[h/_has|has]] upon the thing to be [[l/_lifted|lifted]], or the [[h/_hold|hold]] which [[o/_one|one]] [[p/_part|part]] of a [[m/_machine|machine]] [[h/_has|has]] upon [[a/_another|another]].**
+- **The [[h/_hold|hold]] which the [[s/_short|short]] [[e/_end|end]] of a [[l/_lever|lever]] [[h/_has|has]] upon the thing to be [[l/_lifted|lifted]], or the [[h/_hold|hold]] which [[o/_one|one]] [[p/_part|part]] of a [[m/_machine|machine]] [[h/_has|has]] upon [[a/_another|another]].**
 - **A [[c/_cheat|cheat]]; a trick; a [[f/_fraud|fraud]].**
-- **A sharper; [[o/_one|one]] who [[c/_cheats|cheats]].**
-- **A [[b/_blank|blank]] on the [[e/_edge|edge]] or [[c/_corner|corner]] of a [[p/_page|page]], [[o/_owing|owing]] to a [[p/_portion|portion]] of the [[f/_frisket|frisket]], or something [[e/_else|else]], [[i/_intervening|intervening]] [[b/_between|between]] the type and [[p/_paper|paper]].**
-- **A [[c/_cut|cut]], a proportion of profits; an [[a/_amount|amount]] of [[m/_money|money]].**
+- **A [[s/_sharper|sharper]]; [[o/_one|one]] who [[c/_cheats|cheats]].**
+- **A [[b/_blank|blank]] on the [[e/_edge|edge]] or [[c/_corner|corner]] of a [[p/_page|page]], [[o/_owing|owing]] to a [[p/_portion|portion]] of the [[f/_frisket|frisket]], or [[s/_something|something]] [[e/_else|else]], [[i/_intervening|intervening]] [[b/_between|between]] the type and [[p/_paper|paper]].**
+- **A [[c/_cut|cut]], a [[p/_proportion|proportion]] of [[p/_profits|profits]]; an [[a/_amount|amount]] of [[m/_money|money]].**
 ---
 ### Synonyms
 - [[m/_mouthful|mouthful]], [[s/_snack|snack]], [[s/_sting|sting]]
 #verb
-- **To [[c/_cut|cut]] [[i/_into|into]] something by [[c/_clamping|clamping]] the teeth.**
+- **To [[c/_cut|cut]] [[i/_into|into]] [[s/_something|something]] by [[c/_clamping|clamping]] the teeth.**
 	- _Example: As soon as you bite that sandwich, you'll know how good it is._
-- **To [[h/_hold|hold]] something by [[c/_clamping|clamping]] [[o/_one|one]]'s teeth.**
+- **To [[h/_hold|hold]] [[s/_something|something]] by [[c/_clamping|clamping]] [[o/_one|one]]'[[s/_s|s]] teeth.**
 - **To [[a/_attack|attack]] with the teeth.**
 	- _Example: That dog is about to bite!_
-- **To [[b/_behave|behave]] [[a/_aggressively|aggressively]]; to reject [[a/_advances|advances]].**
+- **To [[b/_behave|behave]] [[a/_aggressively|aggressively]]; to [[r/_reject|reject]] [[a/_advances|advances]].**
 	- _Example: If you see me, come and say hello. I don't bite._
 - **To take [[h/_hold|hold]]; to [[e/_establish|establish]] [[f/_firm|firm]] [[c/_contact|contact]] with.**
 	- _Example: I needed snow chains to make the tires bite._
-- **To [[h/_have|have]] significant [[e/_effect|effect]], [[o/_often|often]] [[n/_negative|negative]].**
+- **To [[h/_have|have]] [[s/_significant|significant]] [[e/_effect|effect]], [[o/_often|often]] [[n/_negative|negative]].**
 	- _Example: For homeowners with adjustable rate mortgages, rising interest will really bite._
 - **(of a [[f/_fish|fish]]) To [[b/_bite|bite]] a [[b/_baited|baited]] [[h/_hook|hook]] or [[o/_other|other]] [[l/_lure|lure]] and thus be [[c/_caught|caught]].**
 	- _Example: Are the fish biting today?_
-- **To [[a/_accept|accept]] something [[o/_offered|offered]], [[o/_often|often]] secretly or [[d/_deceptively|deceptively]], to [[c/_cause|cause]] some [[a/_action|action]] by the [[a/_acceptor|acceptor]].**
+- **To [[a/_accept|accept]] [[s/_something|something]] [[o/_offered|offered]], [[o/_often|often]] [[s/_secretly|secretly]] or [[d/_deceptively|deceptively]], to [[c/_cause|cause]] [[s/_some|some]] [[a/_action|action]] by the [[a/_acceptor|acceptor]].**
 	- _Example: I've planted the story. Do you think they'll bite?_
 - **(of an [[i/_insect|insect]]) To sting.**
 	- _Example: These mosquitoes are really biting today!_
-- **To [[c/_cause|cause]] a smarting sensation; to [[h/_have|have]] a property which [[c/_causes|causes]] such a sensation; to be pungent.**
+- **To [[c/_cause|cause]] a [[s/_smarting|smarting]] [[s/_sensation|sensation]]; to [[h/_have|have]] a [[p/_property|property]] which [[c/_causes|causes]] such a [[s/_sensation|sensation]]; to be [[p/_pungent|pungent]].**
 	- _Example: It bites like pepper or mustard._
-- **(sometimes [[f/_figurative|figurative]]) To [[c/_cause|cause]] sharp [[p/_pain|pain]] or [[d/_damage|damage]] to; to [[h/_hurt|hurt]] or [[i/_injure|injure]].**
+- **([[s/_sometimes|sometimes]] [[f/_figurative|figurative]]) To [[c/_cause|cause]] [[s/_sharp|sharp]] [[p/_pain|pain]] or [[d/_damage|damage]] to; to [[h/_hurt|hurt]] or [[i/_injure|injure]].**
 	- _Example: Pepper bites the mouth._
-- **To [[c/_cause|cause]] sharp [[p/_pain|pain]]; to produce [[a/_anguish|anguish]]; to [[h/_hurt|hurt]] or [[i/_injure|injure]]; to [[h/_have|have]] the property of so [[d/_doing|doing]].**
+- **To [[c/_cause|cause]] [[s/_sharp|sharp]] [[p/_pain|pain]]; to [[p/_produce|produce]] [[a/_anguish|anguish]]; to [[h/_hurt|hurt]] or [[i/_injure|injure]]; to [[h/_have|have]] the [[p/_property|property]] of [[s/_so|so]] [[d/_doing|doing]].**
 - **To take or [[k/_keep|keep]] a [[f/_firm|firm]] [[h/_hold|hold]].**
 	- _Example: The anchor bites._
 - **To take [[h/_hold|hold]] of; to [[h/_hold|hold]] [[f/_fast|fast]]; to [[a/_adhere|adhere]] to.**
 	- _Example: The anchor bites the ground._
-- **To [[l/_lack|lack]] quality; to be worthy of [[d/_derision|derision]]; to suck.**
+- **To [[l/_lack|lack]] [[q/_quality|quality]]; to be worthy of [[d/_derision|derision]]; to suck.**
 	- _Example: This music really bites._
-- **To [[p/_perform|perform]] [[o/_oral|oral]] sex on. Used in [[i/_invective|invective]].**
+- **To [[p/_perform|perform]] [[o/_oral|oral]] [[s/_sex|sex]] on. Used in [[i/_invective|invective]].**
 	- _Example: You don't like that I sat on your car? Bite me._
 - **To [[p/_plagiarize|plagiarize]], to [[i/_imitate|imitate]].**
 	- _Example: He always be biting my moves._

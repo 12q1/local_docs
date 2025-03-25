@@ -1,7 +1,7 @@
 # Archival
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_archiving|archiving]] something.**
+- **The [[a/_act|act]] of [[a/_archiving|archiving]] [[s/_something|something]].**
 	- _Example: Our nightly backups include the archival of old e-mail messages._
 ---
 #adjective

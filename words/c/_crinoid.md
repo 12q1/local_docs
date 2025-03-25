@@ -1,9 +1,9 @@
 # Crinoid
 ---
 #noun
-- **[[o/_one|One]] of the [[n/_numerous|numerous]] [[a/_animals|animals]] that [[m/_make|make]] up the [[c/_class|class]] [[c/_crinoidea|Crinoidea]]; the [[f/_feather|feather]] stars or sea [[l/_lilies|lilies]].**
+- **[[o/_one|One]] of the [[n/_numerous|numerous]] [[a/_animals|animals]] that [[m/_make|make]] up the [[c/_class|class]] [[c/_crinoidea|Crinoidea]]; the [[f/_feather|feather]] stars or [[s/_sea|sea]] [[l/_lilies|lilies]].**
 ---
 #adjective
-- **Relating to or sharing the qualities and [[f/_features|features]] of the [[c/_class|class]] [[c/_crinoidea|Crinoidea]].**
+- **[[r/_relating|Relating]] to or [[s/_sharing|sharing]] the [[q/_qualities|qualities]] and [[f/_features|features]] of the [[c/_class|class]] [[c/_crinoidea|Crinoidea]].**
 ---
 ---

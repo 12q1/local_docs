@@ -1,7 +1,7 @@
 # Inessential
 ---
 #noun
-- **([[o/_often|often]] in [[p/_plural|plural]]) Something that is not [[e/_essential|essential]]**
+- **([[o/_often|often]] in [[p/_plural|plural]]) [[s/_something|Something]] that is not [[e/_essential|essential]]**
 ---
 #adjective
 - **Not [[e/_essential|essential]].**

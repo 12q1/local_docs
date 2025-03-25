@@ -1,7 +1,7 @@
 # Inserted
 ---
 #verb
-- **To put in [[b/_between|between]] or [[i/_into|into]].**
+- **To [[p/_put|put]] in [[b/_between|between]] or [[i/_into|into]].**
 	- _Example: In order to withdraw money from a cash machine, you have to insert your debit card._
 ---
 ### Synonyms
@@ -9,6 +9,6 @@
 ### Antonyms
 - [[d/_delete|delete]]
 #adjective
-- **[[a/_attached|Attached]] to or [[g/_growing|growing]] [[o/_out|out]] of some [[p/_part|part]].**
+- **[[a/_attached|Attached]] to or [[g/_growing|growing]] [[o/_out|out]] of [[s/_some|some]] [[p/_part|part]].**
 ---
 ---

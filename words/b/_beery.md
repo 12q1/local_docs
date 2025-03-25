@@ -1,7 +1,7 @@
 # Beery
 ---
 #adjective
-- **Smelling or tasting of [[b/_beer|beer]].**
+- **[[s/_smelling|Smelling]] or tasting of [[b/_beer|beer]].**
 - **Under the [[i/_influence|influence]] of [[b/_beer|beer]].**
 ---
 ### Synonyms

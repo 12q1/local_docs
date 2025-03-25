@@ -2,6 +2,6 @@
 ---
 #verb
 - **To [[c/_castrate|castrate]].**
-- **To render weak or unmanly.**
+- **To [[r/_render|render]] weak or unmanly.**
 ---
 ---

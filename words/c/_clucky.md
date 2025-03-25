@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[b/_broody|Broody]].**
-- **Prone to [[c/_cluck|cluck]].**
+- **[[p/_prone|Prone]] to [[c/_cluck|cluck]].**
 ---
 ---

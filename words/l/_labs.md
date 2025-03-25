@@ -2,11 +2,11 @@
 ---
 #noun
 - **A [[l/_laboratory|laboratory]].**
-- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[l/_laboratory|Laboratory]] [[e/_experiment|experiment]], test, [[i/_investigation|investigation]] or result.**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[l/_laboratory|Laboratory]] [[e/_experiment|experiment]], test, [[i/_investigation|investigation]] or [[r/_result|result]].**
 	- _Example: I dropped my mixture while doing my lab, so I had to start over._
 ---
 #noun
-- **A [[l/_labrador|Labrador]] retriever.**
+- **A [[l/_labrador|Labrador]] [[r/_retriever|retriever]].**
 ---
 #noun
 - **A telltale; a [[b/_blabber|blabber]].**

@@ -8,6 +8,6 @@
 	- _Example: 'Down some profound dull tunnel, long since scooped / Through granites which titanic wars had groined.' (From Strange Meeting by Wilfred Owen)._
 ---
 #verb
-- **To [[g/_grunt|grunt]]; to [[g/_growl|growl]]; to snarl; to [[m/_murmur|murmur]].**
+- **To [[g/_grunt|grunt]]; to [[g/_growl|growl]]; to [[s/_snarl|snarl]]; to [[m/_murmur|murmur]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Buns
 ---
 #noun
-- **A small [[b/_bread|bread]] roll, [[o/_often|often]] sweetened or spiced.**
-- **A tight roll of [[h/_hair|hair]] worn at the [[b/_back|back]] of the [[h/_head|head]].**
+- **A [[s/_small|small]] [[b/_bread|bread]] [[r/_roll|roll]], [[o/_often|often]] sweetened or spiced.**
+- **A tight [[r/_roll|roll]] of [[h/_hair|hair]] worn at the [[b/_back|back]] of the [[h/_head|head]].**
 - **A [[c/_cupcake|cupcake]].**
 - **A [[d/_drunken|drunken]] spree.**
 - **A newbie.**
@@ -12,7 +12,7 @@
 ### Synonyms
 - [[c/_cake|cake]]
 #noun
-- **A rabbit or sometimes a squirrel.**
+- **A [[r/_rabbit|rabbit]] or [[s/_sometimes|sometimes]] a squirrel.**
 ---
 #noun
 - **[[m/_marijuana|Marijuana]] [[c/_cigarette|cigarette]], [[j/_joint|joint]]**

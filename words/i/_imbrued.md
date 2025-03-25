@@ -1,7 +1,7 @@
 # Imbrued
 ---
 #verb
-- **To stain (in, with, [[b/_blood|blood]], slaughter, [[e/_etc|etc]].).**
+- **To stain (in, with, [[b/_blood|blood]], [[s/_slaughter|slaughter]], [[e/_etc|etc]].).**
 ---
 #adjective
 - **Stained with [[b/_blood|blood]]; wounded, [[b/_bloody|bloody]].**

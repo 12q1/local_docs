@@ -1,6 +1,6 @@
 # Crottle
 ---
 #noun
-- **[[d/_dye|Dye]]-producing [[l/_lichens|lichens]]**
+- **[[d/_dye|Dye]]-[[p/_producing|producing]] [[l/_lichens|lichens]]**
 ---
 ---

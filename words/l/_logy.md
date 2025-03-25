@@ -1,6 +1,6 @@
 # Logy
 ---
 #adjective
-- **Slow to respond or react; [[l/_lethargic|lethargic]].**
+- **[[s/_slow|Slow]] to [[r/_respond|respond]] or [[r/_react|react]]; [[l/_lethargic|lethargic]].**
 ---
 ---

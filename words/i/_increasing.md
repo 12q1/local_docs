@@ -1,11 +1,11 @@
 # Increasing
 ---
 #verb
-- **(of a quantity, [[e/_etc|etc]].) To [[b/_become|become]] [[l/_larger|larger]] or [[g/_greater|greater]].**
+- **(of a [[q/_quantity|quantity]], [[e/_etc|etc]].) To [[b/_become|become]] [[l/_larger|larger]] or [[g/_greater|greater]].**
 	- _Example: His rage only increased when I told him of the lost money._
-- **To [[m/_make|make]] (a quantity, [[e/_etc|etc]].) [[l/_larger|larger]].**
-- **To [[m/_multiply|multiply]] by the production of [[y/_young|young]]; to be [[f/_fertile|fertile]], [[f/_fruitful|fruitful]], or prolific.**
-- **To [[b/_become|become]] [[m/_more|more]] [[n/_nearly|nearly]] [[f/_full|full]]; to show [[m/_more|more]] of the surface; to wax.**
+- **To [[m/_make|make]] (a [[q/_quantity|quantity]], [[e/_etc|etc]].) [[l/_larger|larger]].**
+- **To [[m/_multiply|multiply]] by the [[p/_production|production]] of [[y/_young|young]]; to be [[f/_fertile|fertile]], [[f/_fruitful|fruitful]], or [[p/_prolific|prolific]].**
+- **To [[b/_become|become]] [[m/_more|more]] [[n/_nearly|nearly]] [[f/_full|full]]; to [[s/_show|show]] [[m/_more|more]] of the surface; to wax.**
 	- _Example: The Moon increases._
 ---
 ### Synonyms

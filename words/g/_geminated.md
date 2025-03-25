@@ -5,6 +5,6 @@
 - **To [[o/_occur|occur]] in [[p/_pairs|pairs]].**
 ---
 #adjective
-- **Of a [[c/_consonant|consonant]], pronounced [[l/_longer|longer]] and [[c/_considered|considered]] as [[b/_being|being]] [[d/_doubled|doubled]]; [[g/_geminate|geminate]].**
+- **Of a [[c/_consonant|consonant]], [[p/_pronounced|pronounced]] [[l/_longer|longer]] and [[c/_considered|considered]] as [[b/_being|being]] [[d/_doubled|doubled]]; [[g/_geminate|geminate]].**
 ---
 ---

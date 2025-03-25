@@ -10,6 +10,6 @@
 ### Synonyms
 - 
 #noun
-- **The [[a/_act|act]] of [[d/_distancing|distancing]] [[o/_oneself|oneself]] from a previously supported [[i/_idea|idea]], [[a/_action|action]], [[b/_behaviour|behaviour]], [[e/_etc|etc]].; a U-turn or [[f/_flip|flip]]-[[f/_flop|flop]].**
+- **The [[a/_act|act]] of [[d/_distancing|distancing]] [[o/_oneself|oneself]] from a [[p/_previously|previously]] supported [[i/_idea|idea]], [[a/_action|action]], [[b/_behaviour|behaviour]], [[e/_etc|etc]].; a U-turn or [[f/_flip|flip]]-[[f/_flop|flop]].**
 ---
 ---

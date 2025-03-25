@@ -5,9 +5,9 @@
 - **[[a/_aniline|Aniline]]**
 ---
 #adjective
-- **Of, relating to, or [[c/_composed|composed]] of [[c/_crystals|crystals]].**
-- **[[h/_having|Having]] a regular three-[[d/_dimensional|dimensional]] [[m/_molecular|molecular]] structure.**
-- **Resembling [[c/_crystal|crystal]] in [[b/_being|being]] [[c/_clear|clear]] and transparent.**
+- **Of, [[r/_relating|relating]] to, or [[c/_composed|composed]] of [[c/_crystals|crystals]].**
+- **[[h/_having|Having]] a [[r/_regular|regular]] three-[[d/_dimensional|dimensional]] [[m/_molecular|molecular]] structure.**
+- **[[r/_resembling|Resembling]] [[c/_crystal|crystal]] in [[b/_being|being]] [[c/_clear|clear]] and transparent.**
 ---
 ### Antonyms
 - [[a/_amorphous|amorphous]]

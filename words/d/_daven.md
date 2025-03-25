@@ -1,6 +1,6 @@
 # Daven
 ---
 #verb
-- **To recite the [[j/_jewish|Jewish]] [[l/_liturgy|liturgy]]; to [[p/_pray|pray]]**
+- **To [[r/_recite|recite]] the [[j/_jewish|Jewish]] [[l/_liturgy|liturgy]]; to [[p/_pray|pray]]**
 ---
 ---

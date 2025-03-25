@@ -3,7 +3,7 @@
 #noun
 - **An [[a/_act|act]] of [[d/_defecation|defecation]].**
 - **[[e/_excrement|Excrement]].**
-- **Rubbish.**
+- **[[r/_rubbish|Rubbish]].**
 ---
 ### Synonyms
 - [[c/_caca|caca]]

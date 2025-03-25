@@ -1,7 +1,7 @@
 # Bilgewater
 ---
 #noun
-- **Water which [[c/_collects|collects]] in the [[b/_bilges|bilges]] of a ship.**
+- **Water which [[c/_collects|collects]] in the [[b/_bilges|bilges]] of a [[s/_ship|ship]].**
 - **Stupid talk or writing; [[n/_nonsense|nonsense]].**
 ---
 ### Synonyms

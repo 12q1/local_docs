@@ -1,7 +1,7 @@
 # Harmless
 ---
 #adjective
-- **[[i/_incapable|Incapable]] of [[c/_causing|causing]] [[h/_harm|harm]] or [[d/_danger|danger]]; safe.**
+- **[[i/_incapable|Incapable]] of [[c/_causing|causing]] [[h/_harm|harm]] or [[d/_danger|danger]]; [[s/_safe|safe]].**
 - **Not [[i/_intended|intended]] to [[h/_harm|harm]]; [[i/_inoffensive|inoffensive]].**
 - **Unharmed.**
 ---

@@ -1,7 +1,7 @@
 # Influx
 ---
 #noun
-- **A [[f/_flow|flow]] [[i/_inward|inward]] or [[i/_into|into]] something; a [[c/_coming|coming]] in.**
+- **A [[f/_flow|flow]] [[i/_inward|inward]] or [[i/_into|into]] [[s/_something|something]]; a [[c/_coming|coming]] in.**
 	- _Example: I'll buy a new computer when I get an influx of cash._
 - **That which [[f/_flows|flows]] or [[c/_comes|comes]] in.**
 - **[[i/_influence|Influence]]; [[p/_power|power]].**

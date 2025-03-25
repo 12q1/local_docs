@@ -6,6 +6,6 @@
 ### Synonyms
 - [[s/_shade|shade]], [[s/_stain|stain]], [[s/_streak|streak]], [[t/_tint|tint]]
 #noun
-- **The [[a/_act|act]] by which something is [[d/_dyed|dyed]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[d/_dyed|dyed]].**
 ---
 ---

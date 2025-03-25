@@ -12,7 +12,7 @@
 ### Antonyms
 - [[d/_disintegrate|disintegrate]], [[d/_dissipate|dissipate]]
 #verb
-- **To shape with a [[l/_last|last]]; to [[f/_fasten|fasten]] or [[f/_fit|fit]] to a [[l/_last|last]]; to [[p/_place|place]] smoothly on a [[l/_last|last]].**
+- **To [[s/_shape|shape]] with a [[l/_last|last]]; to [[f/_fasten|fasten]] or [[f/_fit|fit]] to a [[l/_last|last]]; to [[p/_place|place]] [[s/_smoothly|smoothly]] on a [[l/_last|last]].**
 	- _Example: to last a boot_
 ---
 ---

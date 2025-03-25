@@ -1,13 +1,13 @@
 # Lamest
 ---
 #adjective
-- **Unable to walk properly [[b/_because|because]] of a problem with [[o/_one|one]]'s [[f/_feet|feet]] or [[l/_legs|legs]].**
+- **Unable to walk [[p/_properly|properly]] [[b/_because|because]] of a [[p/_problem|problem]] with [[o/_one|one]]'[[s/_s|s]] [[f/_feet|feet]] or [[l/_legs|legs]].**
 - **[[m/_moving|Moving]] with [[p/_pain|pain]] or [[d/_difficulty|difficulty]] on [[a/_account|account]] of [[i/_injury|injury]], [[d/_defect|defect]] or temporary [[o/_obstruction|obstruction]] of a [[f/_function|function]].**
 	- _Example: a lame leg, arm or muscle_
 - **(by [[e/_extension|extension]]) [[h/_hobbling|Hobbling]]; [[l/_limping|limping]]; [[i/_inefficient|inefficient]]; [[i/_imperfect|imperfect]].**
 - **Unconvincing or unbelievable.**
 	- _Example: He had a really lame excuse for missing the birthday party._
-- **[[f/_failing|Failing]] to be [[c/_cool|cool]], [[f/_funny|funny]], [[i/_interesting|interesting]] or relevant.**
+- **[[f/_failing|Failing]] to be [[c/_cool|cool]], [[f/_funny|funny]], [[i/_interesting|interesting]] or [[r/_relevant|relevant]].**
 	- _Example: He kept telling these extremely lame jokes all night._
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Flagellated
 ---
 #verb
-- **To whip or scourge.**
+- **To whip or [[s/_scourge|scourge]].**
 ---
 ---

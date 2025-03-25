@@ -1,7 +1,7 @@
 # Diminutive
 ---
 #noun
-- **([[g/_grammar|grammar]]) A word [[f/_form|form]] [[e/_expressing|expressing]] smallness, [[y/_youth|youth]], unimportance, or [[e/_endearment|endearment]].**
+- **([[g/_grammar|grammar]]) A word [[f/_form|form]] [[e/_expressing|expressing]] [[s/_smallness|smallness]], [[y/_youth|youth]], unimportance, or [[e/_endearment|endearment]].**
 	- _Example: Booklet, the diminutive of book, means ‘small book’._
 ---
 ### Synonyms
@@ -9,9 +9,9 @@
 ### Antonyms
 - [[a/_augmentative|augmentative]]
 #adjective
-- **Very small.**
-- **Serving to [[d/_diminish|diminish]].**
-- **([[g/_grammar|grammar]]) Of or [[p/_pertaining|pertaining]] to, or [[c/_creating|creating]] a word [[f/_form|form]] [[e/_expressing|expressing]] smallness, [[y/_youth|youth]], unimportance, or [[e/_endearment|endearment]].**
+- **Very [[s/_small|small]].**
+- **[[s/_serving|Serving]] to [[d/_diminish|diminish]].**
+- **([[g/_grammar|grammar]]) Of or [[p/_pertaining|pertaining]] to, or [[c/_creating|creating]] a word [[f/_form|form]] [[e/_expressing|expressing]] [[s/_smallness|smallness]], [[y/_youth|youth]], unimportance, or [[e/_endearment|endearment]].**
 ---
 ### Synonyms
 - [[l/_lilliputian|lilliputian]], [[t/_tiny|tiny]]

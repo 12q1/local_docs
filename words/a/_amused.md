@@ -14,7 +14,7 @@
 - **[[p/_pleasurably|Pleasurably]] [[e/_entertained|entertained]].**
 	- _Example: The children chased one another in a circle in front of their amused parents._
 - **[[d/_displaying|Displaying]] [[a/_amusement|amusement]].**
-- **(usually with a [[c/_complement|complement]]) [[e/_enjoying|Enjoying]] [[h/_humor|humor]] [[a/_aspects|aspects]] (of something).**
+- **(usually with a [[c/_complement|complement]]) [[e/_enjoying|Enjoying]] [[h/_humor|humor]] [[a/_aspects|aspects]] (of [[s/_something|something]]).**
 	- _Example: He was amused to note the disarray of his opponents._
 ---
 ---

@@ -1,6 +1,6 @@
 # Lipogenic
 ---
 #adjective
-- **Relating to [[l/_lipogenesis|lipogenesis]]**
+- **[[r/_relating|Relating]] to [[l/_lipogenesis|lipogenesis]]**
 ---
 ---

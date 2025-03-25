@@ -1,7 +1,7 @@
 # Innocuous
 ---
 #adjective
-- **[[h/_harmless|Harmless]]; producing [[n/_no|no]] [[i/_ill|ill]] [[e/_effect|effect]].**
+- **[[h/_harmless|Harmless]]; [[p/_producing|producing]] [[n/_no|no]] [[i/_ill|ill]] [[e/_effect|effect]].**
 - **[[i/_inoffensive|Inoffensive]]; unprovocative; not [[e/_exceptional|exceptional]].**
 ---
 ### Synonyms

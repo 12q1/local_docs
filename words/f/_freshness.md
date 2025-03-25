@@ -1,6 +1,6 @@
 # Freshness
 ---
 #noun
-- **The state or quality of [[b/_being|being]] [[f/_fresh|fresh]].**
+- **The state or [[q/_quality|quality]] of [[b/_being|being]] [[f/_fresh|fresh]].**
 ---
 ---

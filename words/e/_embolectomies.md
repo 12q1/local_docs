@@ -1,6 +1,6 @@
 # Embolectomies
 ---
 #noun
-- **Surgical removal of an [[e/_embolism|embolism]]**
+- **Surgical [[r/_removal|removal]] of an [[e/_embolism|embolism]]**
 ---
 ---

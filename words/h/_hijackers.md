@@ -1,7 +1,7 @@
 # Hijackers
 ---
 #noun
-- **Someone who [[h/_hijacks|hijacks]].**
+- **[[s/_someone|Someone]] who [[h/_hijacks|hijacks]].**
 	- _Example: the hijacker of an aeroplane_
 - **Hijackware.**
 ---

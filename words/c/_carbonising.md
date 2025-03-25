@@ -1,7 +1,7 @@
 # Carbonising
 ---
 #verb
-- **To turn something to [[c/_carbon|carbon]], [[e/_especially|especially]] by [[h/_heating|heating]] it; to scorch or [[b/_blacken|blacken]].**
-- **To react something with [[c/_carbon|carbon]].**
+- **To turn [[s/_something|something]] to [[c/_carbon|carbon]], [[e/_especially|especially]] by [[h/_heating|heating]] it; to [[s/_scorch|scorch]] or [[b/_blacken|blacken]].**
+- **To [[r/_react|react]] [[s/_something|something]] with [[c/_carbon|carbon]].**
 ---
 ---

@@ -5,6 +5,6 @@
 - **[[a/_any|Any]] of various [[l/_lycaenid|lycaenid]] [[b/_butterflies|butterflies]] of the [[g/_genus|genus]] Jamides.**
 ---
 #adjective
-- **Sky-[[b/_blue|blue]].**
+- **[[s/_sky|Sky]]-[[b/_blue|blue]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Gavelling
 ---
 #verb
-- **To [[d/_divide|divide]] or [[d/_distribute|distribute]] [[a/_according|according]] to the [[g/_gavel|gavel]] system.**
+- **To [[d/_divide|divide]] or [[d/_distribute|distribute]] [[a/_according|according]] to the [[g/_gavel|gavel]] [[s/_system|system]].**
 ---
 #verb
 - **To use a [[g/_gavel|gavel]].**

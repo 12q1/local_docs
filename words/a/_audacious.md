@@ -1,7 +1,7 @@
 # Audacious
 ---
 #adjective
-- **Showing willingness to take [[b/_bold|bold]] risks; recklessly [[d/_daring|daring]].**
+- **[[s/_showing|Showing]] willingness to take [[b/_bold|bold]] [[r/_risks|risks]]; [[r/_recklessly|recklessly]] [[d/_daring|daring]].**
 - **[[i/_impudent|Impudent]].**
 ---
 ### Synonyms

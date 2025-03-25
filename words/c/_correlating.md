@@ -1,7 +1,7 @@
 # Correlating
 ---
 #verb
-- **To [[c/_compare|compare]] things and [[b/_bring|bring]] them [[i/_into|into]] a relation [[h/_having|having]] [[c/_corresponding|corresponding]] [[c/_characteristics|characteristics]]**
-- **To be related by a [[c/_correlation|correlation]]**
+- **To [[c/_compare|compare]] things and [[b/_bring|bring]] them [[i/_into|into]] a [[r/_relation|relation]] [[h/_having|having]] [[c/_corresponding|corresponding]] [[c/_characteristics|characteristics]]**
+- **To be [[r/_related|related]] by a [[c/_correlation|correlation]]**
 ---
 ---

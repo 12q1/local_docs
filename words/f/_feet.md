@@ -1,7 +1,7 @@
 # Feet
 ---
 #noun
-- **A [[b/_biological|biological]] structure [[f/_found|found]] in [[m/_many|many]] [[a/_animals|animals]] that is used for [[l/_locomotion|locomotion]] and that is [[f/_frequently|frequently]] a separate [[o/_organ|organ]] at the terminal [[p/_part|part]] of the [[l/_leg|leg]].**
+- **A [[b/_biological|biological]] structure [[f/_found|found]] in [[m/_many|many]] [[a/_animals|animals]] that is used for [[l/_locomotion|locomotion]] and that is [[f/_frequently|frequently]] a [[s/_separate|separate]] [[o/_organ|organ]] at the terminal [[p/_part|part]] of the [[l/_leg|leg]].**
 	- _Example: A spider has eight feet._
 - **Specifically, a [[h/_human|human]] [[f/_foot|foot]], which is [[f/_found|found]] [[b/_below|below]] the [[a/_ankle|ankle]] and is used for standing and walking.**
 	- _Example: Southern Italy is shaped like a foot._
@@ -9,31 +9,31 @@
 	- _Example: There is a lot of foot traffic on this street._
 - **The [[b/_base|base]] or [[b/_bottom|bottom]] of [[a/_anything|anything]].**
 	- _Example: I'll meet you at the foot of the stairs._
-- **The [[p/_part|part]] of a [[f/_flat|flat]] surface on which the [[f/_feet|feet]] [[c/_customarily|customarily]] rest.**
+- **The [[p/_part|part]] of a [[f/_flat|flat]] surface on which the [[f/_feet|feet]] [[c/_customarily|customarily]] [[r/_rest|rest]].**
 	- _Example: We came and stood at the foot of the bed._
-- **The [[e/_end|end]] of a rectangular table [[o/_opposite|opposite]] the [[h/_head|head]].**
+- **The [[e/_end|end]] of a [[r/_rectangular|rectangular]] table [[o/_opposite|opposite]] the [[h/_head|head]].**
 	- _Example: The host should sit at the foot of the table._
-- **A short [[f/_foot|foot]]-[[l/_like|like]] projection on the [[b/_bottom|bottom]] of an [[o/_object|object]] to support it.**
+- **A [[s/_short|short]] [[f/_foot|foot]]-[[l/_like|like]] [[p/_projection|projection]] on the [[b/_bottom|bottom]] of an [[o/_object|object]] to support it.**
 	- _Example: The feet of the stove hold it a safe distance above the floor._
 - **A unit of [[m/_measure|measure]] [[e/_equal|equal]] to twelve [[i/_inches|inches]] or [[o/_one|one]] third of a [[y/_yard|yard]], [[e/_equal|equal]] to [[e/_exactly|exactly]] 30.48 [[c/_centimetres|centimetres]].**
 	- _Example: The flag pole at the local high school is about 20 feet high._
 - **A unit of [[m/_measure|measure]] for [[o/_organ|organ]] [[p/_pipes|pipes]] [[e/_equal|equal]] to the wavelength of two [[o/_octaves|octaves]] [[a/_above|above]] [[m/_middle|middle]] [[c/_c|C]], [[a/_approximately|approximately]] 328 [[m/_mm|mm]].**
-- **([[c/_collective|collective]]) [[f/_foot|Foot]] soldiers; [[i/_infantry|infantry]].**
+- **([[c/_collective|collective]]) [[f/_foot|Foot]] [[s/_soldiers|soldiers]]; [[i/_infantry|infantry]].**
 	- _Example: King John went to battle with ten thousand foot and one thousand horse._
 - **([[c/_cigars|cigars]]) The [[e/_end|end]] of a [[c/_cigar|cigar]] which is [[l/_lit|lit]], and usually [[c/_cut|cut]] [[b/_before|before]] [[l/_lighting|lighting]].**
-- **The [[p/_part|part]] of a sewing [[m/_machine|machine]] which [[p/_presses|presses]] [[d/_downward|downward]] on the [[f/_fabric|fabric]], and [[m/_may|may]] [[a/_also|also]] serve to [[m/_move|move]] it [[f/_forward|forward]].**
-- **The [[b/_bottommost|bottommost]] [[p/_part|part]] of a typed or printed [[p/_page|page]].**
-- **The [[b/_base|base]] of a [[p/_piece|piece]] of type, [[f/_forming|forming]] the sides of the [[g/_groove|groove]].**
-- **The [[b/_basic|basic]] [[m/_measure|measure]] of rhythm in a [[p/_poem|poem]].**
-- **The [[p/_parsing|parsing]] of syllables [[i/_into|into]] prosodic [[c/_constituents|constituents]], which are used to [[d/_determine|determine]] the [[p/_placement|placement]] of stress in [[l/_languages|languages]] [[a/_along|along]] with the [[n/_notions|notions]] of [[c/_constituent|constituent]] [[h/_heads|heads]].**
-- **The [[b/_bottom|bottom]] [[e/_edge|edge]] of a sail.**
+- **The [[p/_part|part]] of a [[s/_sewing|sewing]] [[m/_machine|machine]] which [[p/_presses|presses]] [[d/_downward|downward]] on the [[f/_fabric|fabric]], and [[m/_may|may]] [[a/_also|also]] [[s/_serve|serve]] to [[m/_move|move]] it [[f/_forward|forward]].**
+- **The [[b/_bottommost|bottommost]] [[p/_part|part]] of a typed or [[p/_printed|printed]] [[p/_page|page]].**
+- **The [[b/_base|base]] of a [[p/_piece|piece]] of type, [[f/_forming|forming]] the [[s/_sides|sides]] of the [[g/_groove|groove]].**
+- **The [[b/_basic|basic]] [[m/_measure|measure]] of [[r/_rhythm|rhythm]] in a [[p/_poem|poem]].**
+- **The [[p/_parsing|parsing]] of [[s/_syllables|syllables]] [[i/_into|into]] [[p/_prosodic|prosodic]] [[c/_constituents|constituents]], which are used to [[d/_determine|determine]] the [[p/_placement|placement]] of stress in [[l/_languages|languages]] [[a/_along|along]] with the [[n/_notions|notions]] of [[c/_constituent|constituent]] [[h/_heads|heads]].**
+- **The [[b/_bottom|bottom]] [[e/_edge|edge]] of a [[s/_sail|sail]].**
 	- _Example: To make the mainsail fuller in shape, the outhaul is eased to reduce the tension on the foot of the sail._
-- **The [[e/_end|end]] of a [[b/_billiard|billiard]] or [[p/_pool|pool]] table [[b/_behind|behind]] the [[f/_foot|foot]] [[p/_point|point]] where the [[b/_balls|balls]] are racked.**
-- **In a [[b/_bryophyte|bryophyte]], that [[p/_portion|portion]] of a sporophyte which remains [[e/_embedded|embedded]] within and [[a/_attached|attached]] to the [[p/_parent|parent]] [[g/_gametophyte|gametophyte]] [[p/_plant|plant]].**
+- **The [[e/_end|end]] of a [[b/_billiard|billiard]] or [[p/_pool|pool]] table [[b/_behind|behind]] the [[f/_foot|foot]] [[p/_point|point]] where the [[b/_balls|balls]] are [[r/_racked|racked]].**
+- **In a [[b/_bryophyte|bryophyte]], that [[p/_portion|portion]] of a sporophyte which [[r/_remains|remains]] [[e/_embedded|embedded]] within and [[a/_attached|attached]] to the [[p/_parent|parent]] [[g/_gametophyte|gametophyte]] [[p/_plant|plant]].**
 - **The [[m/_muscular|muscular]] [[p/_part|part]] of a [[b/_bivalve|bivalve]] [[m/_mollusc|mollusc]] or a [[g/_gastropod|gastropod]] by which it [[m/_moves|moves]] or [[h/_holds|holds]] [[i/_its|its]] [[p/_position|position]] on a surface.**
-- **The [[g/_globular|globular]] [[l/_lower|lower]] [[d/_domain|domain]] of a protein.**
+- **The [[g/_globular|globular]] [[l/_lower|lower]] [[d/_domain|domain]] of a [[p/_protein|protein]].**
 - **The [[p/_point|point]] of [[i/_intersection|intersection]] of [[o/_one|one]] [[l/_line|line]] with [[a/_another|another]] that is [[p/_perpendicular|perpendicular]] to it.**
-- **[[f/_fundamental|Fundamental]] principle; [[b/_basis|basis]]; [[p/_plan|plan]].**
-- **Recognized [[c/_condition|condition]]; rank; [[f/_footing|footing]].**
+- **[[f/_fundamental|Fundamental]] [[p/_principle|principle]]; [[b/_basis|basis]]; [[p/_plan|plan]].**
+- **[[r/_recognized|Recognized]] [[c/_condition|condition]]; [[r/_rank|rank]]; [[f/_footing|footing]].**
 ---
 ---

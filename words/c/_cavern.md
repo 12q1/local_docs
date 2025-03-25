@@ -7,6 +7,6 @@
 #verb
 - **To [[f/_form|form]] a [[c/_cavern|cavern]] or [[d/_deep|deep]] [[d/_depression|depression]] in.**
 	- _Example: catacombs caverning the hillsides_
-- **To put [[i/_into|into]] a [[c/_cavern|cavern]].**
+- **To [[p/_put|put]] [[i/_into|into]] a [[c/_cavern|cavern]].**
 ---
 ---

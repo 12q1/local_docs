@@ -1,6 +1,6 @@
 # Lochan
 ---
 #noun
-- **A small [[l/_loch|loch]].**
+- **A [[s/_small|small]] [[l/_loch|loch]].**
 ---
 ---

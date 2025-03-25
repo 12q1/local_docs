@@ -6,6 +6,6 @@
 ---
 #noun
 - **A [[p/_person|person]] or thing that [[e/_emulates|emulates]].**
-- **A [[p/_piece|piece]] of software or [[h/_hardware|hardware]] that simulates [[a/_another|another]] system.**
+- **A [[p/_piece|piece]] of [[s/_software|software]] or [[h/_hardware|hardware]] that [[s/_simulates|simulates]] [[a/_another|another]] [[s/_system|system]].**
 ---
 ---

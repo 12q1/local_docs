@@ -1,6 +1,6 @@
 # Lamprophyre
 ---
 #noun
-- **An uncommon, small-volume ultrapotassic [[i/_igneous|igneous]] rock primarily [[o/_occurring|occurring]] as [[d/_dikes|dikes]], lopoliths, [[l/_laccoliths|laccoliths]], stocks and small [[i/_intrusions|intrusions]].**
+- **An uncommon, [[s/_small|small]]-volume ultrapotassic [[i/_igneous|igneous]] [[r/_rock|rock]] [[p/_primarily|primarily]] [[o/_occurring|occurring]] as [[d/_dikes|dikes]], lopoliths, [[l/_laccoliths|laccoliths]], stocks and [[s/_small|small]] [[i/_intrusions|intrusions]].**
 ---
 ---

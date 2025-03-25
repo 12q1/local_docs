@@ -1,7 +1,7 @@
 # Adaptors
 ---
 #noun
-- **[[o/_one|One]] who is [[c/_capable|capable]] of [[a/_adapting|adapting]] to [[d/_differing|differing]] situations.**
+- **[[o/_one|One]] who is [[c/_capable|capable]] of [[a/_adapting|adapting]] to [[d/_differing|differing]] [[s/_situations|situations]].**
 	- _Example: He was an able adapter, and could easily adjust to the differences when the company changed ownership._
 - **[[o/_one|One]] who [[a/_adapts|adapts]] a thing, [[e/_e|e]].[[g/_g|g]]. a [[p/_play|play]].**
 	- _Example: The critic gave rave reviews to the adapter of the ancient play, who worked to give the text more relevance to the modern day._

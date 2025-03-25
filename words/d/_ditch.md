@@ -1,7 +1,7 @@
 # Ditch
 ---
 #noun
-- **A trench; a [[l/_long|long]], shallow [[i/_indentation|indentation]], as for [[i/_irrigation|irrigation]] or [[d/_drainage|drainage]].**
+- **A trench; a [[l/_long|long]], [[s/_shallow|shallow]] [[i/_indentation|indentation]], as for [[i/_irrigation|irrigation]] or [[d/_drainage|drainage]].**
 	- _Example: Digging ditches has long been considered one of the most demanding forms of manual labor._
 ---
 #verb

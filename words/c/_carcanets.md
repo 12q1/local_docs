@@ -1,6 +1,6 @@
 # Carcanets
 ---
 #noun
-- **A richly [[d/_decorative|decorative]] [[c/_collar|collar]].**
+- **A [[r/_richly|richly]] [[d/_decorative|decorative]] [[c/_collar|collar]].**
 ---
 ---

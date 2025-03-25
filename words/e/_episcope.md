@@ -1,6 +1,6 @@
 # Episcope
 ---
 #noun
-- **A [[f/_form|form]] of [[e/_epidiascope|epidiascope]] that projects [[i/_images|images]] of [[o/_opaque|opaque]] [[o/_objects|objects]]**
+- **A [[f/_form|form]] of [[e/_epidiascope|epidiascope]] that [[p/_projects|projects]] [[i/_images|images]] of [[o/_opaque|opaque]] [[o/_objects|objects]]**
 ---
 ---

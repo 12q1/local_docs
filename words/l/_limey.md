@@ -6,7 +6,7 @@
 ### Synonyms
 - [[p/_pom|pom]], [[p/_pommy|pommy]]
 #adjective
-- **Resembling [[l/_limes|limes]] (the [[f/_fruit|fruit]]); [[l/_lime|lime]]-[[l/_like|like]].**
+- **[[r/_resembling|Resembling]] [[l/_limes|limes]] (the [[f/_fruit|fruit]]); [[l/_lime|lime]]-[[l/_like|like]].**
 - **Of, or [[p/_pertaining|pertaining]] to, [[l/_limes|limes]] (the [[f/_fruit|fruit]]).**
 	- _Example: This drink is full of limey goodness._
 ---

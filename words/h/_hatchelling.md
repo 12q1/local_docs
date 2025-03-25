@@ -1,6 +1,6 @@
 # Hatchelling
 ---
 #verb
-- **To separate ([[f/_flax|flax]] [[f/_fibers|fibers]]) with a [[h/_hatchel|hatchel]], or [[c/_comb|comb]].**
+- **To [[s/_separate|separate]] ([[f/_flax|flax]] [[f/_fibers|fibers]]) with a [[h/_hatchel|hatchel]], or [[c/_comb|comb]].**
 ---
 ---

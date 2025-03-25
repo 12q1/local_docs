@@ -1,9 +1,9 @@
 # Antique
 ---
 #noun
-- **A [[g/_grotesque|grotesque]] representation of a [[f/_figure|figure]]; a [[g/_gargoyle|gargoyle]].**
+- **A [[g/_grotesque|grotesque]] [[r/_representation|representation]] of a [[f/_figure|figure]]; a [[g/_gargoyle|gargoyle]].**
 - **A [[c/_caricature|caricature]].**
-- **([[o/_often|often]] in [[p/_plural|plural]]) A [[l/_ludicrous|ludicrous]] [[g/_gesture|gesture]] or [[a/_act|act]]; ridiculous [[b/_behaviour|behaviour]]; [[c/_caper|caper]].**
+- **([[o/_often|often]] in [[p/_plural|plural]]) A [[l/_ludicrous|ludicrous]] [[g/_gesture|gesture]] or [[a/_act|act]]; [[r/_ridiculous|ridiculous]] [[b/_behaviour|behaviour]]; [[c/_caper|caper]].**
 - **A [[g/_grotesque|grotesque]] [[p/_performer|performer]] or [[c/_clown|clown]], [[b/_buffoon|buffoon]].**
 ---
 #adjective
@@ -21,12 +21,12 @@
 ### Synonyms
 - [[a/_ancient|ancient]], [[g/_geriatric|geriatric]], [[o/_oldster|oldster]]
 #verb
-- **To search or shop for [[a/_antiques|antiques]].**
-- **To [[m/_make|make]] an [[o/_object|object]] [[a/_appear|appear]] to be an [[a/_antique|antique]] in some way.**
+- **To [[s/_search|search]] or [[s/_shop|shop]] for [[a/_antiques|antiques]].**
+- **To [[m/_make|make]] an [[o/_object|object]] [[a/_appear|appear]] to be an [[a/_antique|antique]] in [[s/_some|some]] way.**
 - **To [[e/_emboss|emboss]] without [[g/_gilding|gilding]].**
 ---
 #adjective
-- **[[h/_having|Having]] [[e/_existed|existed]] in [[a/_ancient|ancient]] times, [[d/_descended|descended]] from [[a/_antiquity|antiquity]]; used [[e/_especially|especially]] in reference to [[g/_greece|Greece]] and Rome.**
+- **[[h/_having|Having]] [[e/_existed|existed]] in [[a/_ancient|ancient]] times, [[d/_descended|descended]] from [[a/_antiquity|antiquity]]; used [[e/_especially|especially]] in [[r/_reference|reference]] to [[g/_greece|Greece]] and [[r/_rome|Rome]].**
 - **[[b/_belonging|Belonging]] to [[f/_former|former]] times, not [[m/_modern|modern]], [[o/_out|out]] of [[d/_date|date]], [[o/_old|old]]-[[f/_fashioned|fashioned]].**
 - **[[d/_designating|Designating]] a style of type.**
 - **[[e/_embossed|Embossed]] without [[g/_gilt|gilt]].**

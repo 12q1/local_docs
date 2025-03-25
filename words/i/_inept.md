@@ -1,7 +1,7 @@
 # Inept
 ---
 #adjective
-- **Not [[a/_able|able]] to [[d/_do|do]] something; not proficient; [[d/_displaying|displaying]] [[i/_incompetence|incompetence]].**
+- **Not [[a/_able|able]] to [[d/_do|do]] [[s/_something|something]]; not [[p/_proficient|proficient]]; [[d/_displaying|displaying]] [[i/_incompetence|incompetence]].**
 - **Unfit; unsuitable.**
 ---
 ### Antonyms

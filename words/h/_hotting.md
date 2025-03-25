@@ -7,6 +7,6 @@
 ### Synonyms
 - [[h/_heat|heat]]
 #noun
-- **Riding in a [[h/_high|high]]-[[p/_performance|performance]] stolen [[c/_car|car]], [[e/_especially|especially]] as a [[f/_form|form]] of [[d/_display|display]]**
+- **[[r/_riding|Riding]] in a [[h/_high|high]]-[[p/_performance|performance]] stolen [[c/_car|car]], [[e/_especially|especially]] as a [[f/_form|form]] of [[d/_display|display]]**
 ---
 ---

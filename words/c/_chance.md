@@ -3,9 +3,9 @@
 #noun
 - **An [[o/_opportunity|opportunity]] or [[p/_possibility|possibility]].**
 	- _Example: We had the chance to meet the president last week._
-- **Random [[o/_occurrence|occurrence]]; [[l/_luck|luck]].**
+- **[[r/_random|Random]] [[o/_occurrence|occurrence]]; [[l/_luck|luck]].**
 	- _Example: Why leave it to chance when a few simple steps will secure the desired outcome?_
-- **The probability of something [[h/_happening|happening]].**
+- **The [[p/_probability|probability]] of [[s/_something|something]] [[h/_happening|happening]].**
 	- _Example: There is a 30 percent chance of rain tomorrow._
 - **What [[b/_befalls|befalls]] or [[h/_happens|happens]] to a [[p/_person|person]]; their [[l/_lot|lot]] or [[f/_fate|fate]].**
 ---

@@ -7,7 +7,7 @@
 #adjective
 - **In a [[n/_natural|natural]], untreated state.**
 	- _Example: crude oil_
-- **[[c/_characterized|Characterized]] by simplicity, [[e/_especially|especially]] something not [[c/_carefully|carefully]] or [[e/_expertly|expertly]] [[m/_made|made]].**
+- **[[c/_characterized|Characterized]] by [[s/_simplicity|simplicity]], [[e/_especially|especially]] [[s/_something|something]] not [[c/_carefully|carefully]] or [[e/_expertly|expertly]] [[m/_made|made]].**
 	- _Example: a crude shelter_
 - **[[l/_lacking|Lacking]] [[c/_concealing|concealing]] [[e/_elements|elements]].**
 	- _Example: a crude truth_

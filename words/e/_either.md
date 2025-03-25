@@ -10,7 +10,7 @@
 - **[[b/_both|Both]], [[e/_each|each]] of two or [[m/_more|more]].**
 ---
 #conjunction
-- **[[i/_introduces|Introduces]] the [[f/_first|first]] of two (or [[o/_occasionally|occasionally]] [[m/_more|more]]) [[o/_options|options]] or [[p/_possibilities|possibilities]], the second (or [[l/_last|last]]) of which is [[i/_introduced|introduced]] by “or”.**
+- **[[i/_introduces|Introduces]] the [[f/_first|first]] of two (or [[o/_occasionally|occasionally]] [[m/_more|more]]) [[o/_options|options]] or [[p/_possibilities|possibilities]], the [[s/_second|second]] (or [[l/_last|last]]) of which is [[i/_introduced|introduced]] by “or”.**
 	- _Example: Either you eat your dinner or you go to your room._
 ---
 ---

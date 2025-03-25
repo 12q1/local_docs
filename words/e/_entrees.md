@@ -1,9 +1,9 @@
 # Entrees
 ---
 #noun
-- **([[f/_french|French]] [[c/_canada|Canada]]) A smaller [[d/_dish|dish]] served [[b/_before|before]] the [[m/_main|main]] [[c/_course|course]] of a [[m/_meal|meal]].**
+- **([[f/_french|French]] [[c/_canada|Canada]]) A [[s/_smaller|smaller]] [[d/_dish|dish]] [[s/_served|served]] [[b/_before|before]] the [[m/_main|main]] [[c/_course|course]] of a [[m/_meal|meal]].**
 - **The [[m/_main|main]] [[c/_course|course]] or [[m/_main|main]] [[d/_dish|dish]] of a [[m/_meal|meal]].**
-- **The [[a/_act|act]] of [[e/_entering|entering]] somewhere, or [[p/_permission|permission]] to [[e/_enter|enter]]; [[a/_admittance|admittance]].**
+- **The [[a/_act|act]] of [[e/_entering|entering]] [[s/_somewhere|somewhere]], or [[p/_permission|permission]] to [[e/_enter|enter]]; [[a/_admittance|admittance]].**
 - **An [[i/_introduction|introduction]] or [[p/_prelude|prelude]].**
 ---
 ### Synonyms

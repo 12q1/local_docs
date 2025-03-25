@@ -1,13 +1,13 @@
 # Assigning
 ---
 #verb
-- **To [[d/_designate|designate]] or set [[a/_apart|apart]] something for some purpose.**
+- **To [[d/_designate|designate]] or [[s/_set|set]] [[a/_apart|apart]] [[s/_something|something]] for [[s/_some|some]] [[p/_purpose|purpose]].**
 	- _Example: to assign a day for trial_
-- **To [[a/_appoint|appoint]] or select someone for some [[o/_office|office]].**
+- **To [[a/_appoint|appoint]] or [[s/_select|select]] [[s/_someone|someone]] for [[s/_some|some]] [[o/_office|office]].**
 	- _Example: to assign counsel for a prisoner_
-- **To [[a/_allot|allot]] or [[g/_give|give]] something as a task.**
-- **To [[a/_attribute|attribute]] or sort something [[i/_into|into]] [[c/_categories|categories]].**
-- **To transfer property, a [[l/_legal|legal]] right, [[e/_etc|etc]]., from [[o/_one|one]] [[p/_person|person]] to [[a/_another|another]].**
+- **To [[a/_allot|allot]] or [[g/_give|give]] [[s/_something|something]] as a task.**
+- **To [[a/_attribute|attribute]] or [[s/_sort|sort]] [[s/_something|something]] [[i/_into|into]] [[c/_categories|categories]].**
+- **To transfer [[p/_property|property]], a [[l/_legal|legal]] [[r/_right|right]], [[e/_etc|etc]]., from [[o/_one|one]] [[p/_person|person]] to [[a/_another|another]].**
 - **To [[g/_give|give]] (a value) to a variable.**
 	- _Example: We assign 100 to x._
 ---

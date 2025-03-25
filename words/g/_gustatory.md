@@ -1,6 +1,6 @@
 # Gustatory
 ---
 #adjective
-- **Of, or relating to, the sense of taste.**
+- **Of, or [[r/_relating|relating]] to, the [[s/_sense|sense]] of taste.**
 ---
 ---

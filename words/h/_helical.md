@@ -1,6 +1,6 @@
 # Helical
 ---
 #adjective
-- **In the shape of a [[h/_helix|helix]].**
+- **In the [[s/_shape|shape]] of a [[h/_helix|helix]].**
 ---
 ---

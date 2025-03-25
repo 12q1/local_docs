@@ -7,7 +7,7 @@
 - **To spread or [[d/_disseminate|disseminate]]**
 	- _Example: to circulate money or gossip_
 - **To [[b/_become|become]] widely [[k/_known|known]]**
-- **Of [[d/_decimals|decimals]]: to repeat.**
+- **Of [[d/_decimals|decimals]]: to [[r/_repeat|repeat]].**
 ---
 ### Synonyms
 - [[d/_disseminate|disseminate]], [[s/_spread|spread]]

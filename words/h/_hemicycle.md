@@ -1,7 +1,7 @@
 # Hemicycle
 ---
 #noun
-- **Semicircle**
-- **A semicircular structure**
+- **[[s/_semicircle|Semicircle]]**
+- **A [[s/_semicircular|semicircular]] structure**
 ---
 ---

@@ -1,7 +1,7 @@
 # Adversative
 ---
 #noun
-- **Something, [[p/_particularly|particularly]] a [[c/_clause|clause]] or [[c/_conjunction|conjunction]], which is [[a/_adversative|adversative]].**
+- **[[s/_something|Something]], [[p/_particularly|particularly]] a [[c/_clause|clause]] or [[c/_conjunction|conjunction]], which is [[a/_adversative|adversative]].**
 ---
 #adjective
 - **[[e/_expressing|Expressing]] [[o/_opposition|opposition]] or [[d/_difference|difference]].**

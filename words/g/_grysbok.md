@@ -1,6 +1,6 @@
 # Grysbok
 ---
 #noun
-- **A small [[a/_antelope|antelope]] of [[g/_genus|genus]] Raphicerus from South [[a/_africa|Africa]]**
+- **A [[s/_small|small]] [[a/_antelope|antelope]] of [[g/_genus|genus]] Raphicerus from [[s/_south|South]] [[a/_africa|Africa]]**
 ---
 ---

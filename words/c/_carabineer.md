@@ -1,6 +1,6 @@
 # Carabineer
 ---
 #noun
-- **A [[c/_cavalry|cavalry]] soldier**
+- **A [[c/_cavalry|cavalry]] [[s/_soldier|soldier]]**
 ---
 ---

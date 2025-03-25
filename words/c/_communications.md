@@ -16,11 +16,11 @@
 - **A [[c/_connection|connection]] [[b/_between|between]] two tissues, [[o/_organs|organs]], or [[c/_cavities|cavities]].**
 - **[[a/_association|Association]]; [[c/_company|company]].**
 - **[[p/_participation|Participation]] in [[h/_holy|Holy]] [[c/_communion|Communion]].**
-- **A trope by which a speaker [[a/_assumes|assumes]] that [[h/_his|his]] [[h/_hearer|hearer]] is a [[p/_partner|partner]] in [[h/_his|his]] sentiments, and says "we" [[i/_instead|instead]] of "[[i/_i|I]]" or "[[y/_you|you]]".**
+- **A trope by which a [[s/_speaker|speaker]] [[a/_assumes|assumes]] that [[h/_his|his]] [[h/_hearer|hearer]] is a [[p/_partner|partner]] in [[h/_his|his]] [[s/_sentiments|sentiments]], and [[s/_says|says]] "we" [[i/_instead|instead]] of "[[i/_i|I]]" or "[[y/_you|you]]".**
 ---
 ### Antonyms
 - [[a/_anticommunication|anticommunication]]
 #noun
-- **Telecommunications, the science and technology of [[c/_communicating|communicating]], [[e/_especially|especially]] by [[e/_electronic|electronic]] [[m/_means|means]].**
+- **Telecommunications, the [[s/_science|science]] and technology of [[c/_communicating|communicating]], [[e/_especially|especially]] by [[e/_electronic|electronic]] [[m/_means|means]].**
 ---
 ---

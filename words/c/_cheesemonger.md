@@ -1,6 +1,6 @@
 # Cheesemonger
 ---
 #noun
-- **Someone who sells [[c/_cheese|cheese]].**
+- **[[s/_someone|Someone]] who [[s/_sells|sells]] [[c/_cheese|cheese]].**
 ---
 ---

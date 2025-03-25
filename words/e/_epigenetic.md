@@ -1,7 +1,7 @@
 # Epigenetic
 ---
 #adjective
-- **Of or relating to [[e/_epigenesis|epigenesis]].**
-- **Of or relating to epigenetics.**
+- **Of or [[r/_relating|relating]] to [[e/_epigenesis|epigenesis]].**
+- **Of or [[r/_relating|relating]] to epigenetics.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Divine
 ---
 #noun
-- **[[o/_one|One]] skilled in [[d/_divinity|divinity]]; a theologian.**
-- **A [[m/_minister|minister]] of the [[g/_gospel|gospel]]; a priest; a [[c/_clergyman|clergyman]].**
+- **[[o/_one|One]] [[s/_skilled|skilled]] in [[d/_divinity|divinity]]; a theologian.**
+- **A [[m/_minister|minister]] of the [[g/_gospel|gospel]]; a [[p/_priest|priest]]; a [[c/_clergyman|clergyman]].**
 - **([[o/_often|often]] [[c/_capitalized|capitalized]], with 'the') [[g/_god|God]] or a [[g/_god|god]], [[p/_particularly|particularly]] in [[i/_its|its]] [[a/_aspect|aspect]] as a transcendental [[c/_concept|concept]].**
 ---
 ### Synonyms
@@ -13,8 +13,8 @@
 - **Of superhuman or surpassing [[e/_excellence|excellence]].**
 - **[[b/_beautiful|Beautiful]], [[h/_heavenly|heavenly]].**
 - **[[f/_foreboding|Foreboding]]; [[p/_prescient|prescient]].**
-- **(of souls) [[i/_immortal|immortal]]; [[e/_elect|elect]] or saved [[a/_after|after]] [[d/_death|death]]**
-- **Relating to [[d/_divinity|divinity]] or theology.**
+- **(of [[s/_souls|souls]]) [[i/_immortal|immortal]]; [[e/_elect|elect]] or [[s/_saved|saved]] [[a/_after|after]] [[d/_death|death]]**
+- **[[r/_relating|Relating]] to [[d/_divinity|divinity]] or theology.**
 ---
 ### Synonyms
 - [[b/_beautiful|beautiful]], [[d/_delightful|delightful]], [[e/_exquisite|exquisite]], [[h/_heavenly|heavenly]], [[l/_lovely|lovely]], [[m/_magnificent|magnificent]], [[m/_marvellous|marvellous]], [[m/_marvelous|marvelous]], [[s/_splendid|splendid]], [[w/_wonderful|wonderful]], [[h/_hallowed|hallowed]], [[h/_holy|holy]], [[s/_sacred|sacred]], [[d/_deific|deific]], [[g/_godlike|godlike]], [[g/_godly|godly]], [[s/_supreme|supreme]], [[u/_ultimate|ultimate]]

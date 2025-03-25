@@ -1,10 +1,10 @@
 # Counterclockwise
 ---
 #adjective
-- **[[m/_moving|Moving]] or [[l/_located|located]] in the [[d/_direction|direction]] of rotation [[o/_opposite|opposite]] from [[c/_clockwise|clockwise]].**
+- **[[m/_moving|Moving]] or [[l/_located|located]] in the [[d/_direction|direction]] of [[r/_rotation|rotation]] [[o/_opposite|opposite]] from [[c/_clockwise|clockwise]].**
 ---
 #adverb
-- **In the [[d/_direction|direction]] of rotation [[o/_opposite|opposite]] from [[c/_clockwise|clockwise]].**
+- **In the [[d/_direction|direction]] of [[r/_rotation|rotation]] [[o/_opposite|opposite]] from [[c/_clockwise|clockwise]].**
 ---
 ### Synonyms
 - [[a/_anticlockwise|anticlockwise]], [[c/_contraclockwise|contraclockwise]]

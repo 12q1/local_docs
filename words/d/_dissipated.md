@@ -8,7 +8,7 @@
 - **To be [[d/_dissolute|dissolute]] in [[c/_conduct|conduct]].**
 ---
 #adjective
-- **Wasteful of [[h/_health|health]] or [[p/_possessions|possessions]] in the pursuit of [[p/_pleasure|pleasure]].**
+- **Wasteful of [[h/_health|health]] or [[p/_possessions|possessions]] in the [[p/_pursuit|pursuit]] of [[p/_pleasure|pleasure]].**
 ---
 ### Synonyms
 - [[d/_dissolute|dissolute]], [[i/_intemperate|intemperate]]

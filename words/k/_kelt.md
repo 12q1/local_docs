@@ -1,6 +1,6 @@
 # Kelt
 ---
 #noun
-- **A thin, recently spawned [[a/_atlantic|Atlantic]] salmon.**
+- **A thin, [[r/_recently|recently]] [[s/_spawned|spawned]] [[a/_atlantic|Atlantic]] [[s/_salmon|salmon]].**
 ---
 ---

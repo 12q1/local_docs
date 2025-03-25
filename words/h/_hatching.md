@@ -10,12 +10,12 @@
 - **To [[d/_devise|devise]].**
 ---
 #verb
-- **To shade an [[a/_area|area]] of (a [[d/_drawing|drawing]], [[d/_diagram|diagram]], [[e/_etc|etc]].) with [[f/_fine|fine]] [[p/_parallel|parallel]] [[l/_lines|lines]], or with [[l/_lines|lines]] which [[c/_cross|cross]] [[e/_each|each]] [[o/_other|other]] ([[c/_cross|cross]]-[[h/_hatch|hatch]]).**
+- **To [[s/_shade|shade]] an [[a/_area|area]] of (a [[d/_drawing|drawing]], [[d/_diagram|diagram]], [[e/_etc|etc]].) with [[f/_fine|fine]] [[p/_parallel|parallel]] [[l/_lines|lines]], or with [[l/_lines|lines]] which [[c/_cross|cross]] [[e/_each|each]] [[o/_other|other]] ([[c/_cross|cross]]-[[h/_hatch|hatch]]).**
 - **To [[c/_cross|cross]]; to spot; to stain; to steep.**
 ---
 #noun
-- **A [[m/_method|method]] of shading [[a/_areas|areas]] of a [[d/_drawing|drawing]] or [[d/_diagram|diagram]] with [[f/_fine|fine]] [[p/_parallel|parallel]] [[l/_lines|lines]].**
-- **A [[g/_group|group]] of [[b/_birds|birds]], reptiles, [[f/_fish|fish]], [[i/_insects|insects]], [[e/_etc|etc]]., which [[e/_emerge|emerge]] from their [[e/_eggs|eggs]] at the same time.**
+- **A [[m/_method|method]] of [[s/_shading|shading]] [[a/_areas|areas]] of a [[d/_drawing|drawing]] or [[d/_diagram|diagram]] with [[f/_fine|fine]] [[p/_parallel|parallel]] [[l/_lines|lines]].**
+- **A [[g/_group|group]] of [[b/_birds|birds]], [[r/_reptiles|reptiles]], [[f/_fish|fish]], [[i/_insects|insects]], [[e/_etc|etc]]., which [[e/_emerge|emerge]] from their [[e/_eggs|eggs]] at the [[s/_same|same]] time.**
 	- _Example: We got a good hatching from the swallowtail eggs._
 - **The [[a/_act|act]] of an [[e/_egg|egg]] [[h/_hatching|hatching]], [[e/_eclosion|eclosion]]**
 ---

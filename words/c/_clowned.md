@@ -1,7 +1,7 @@
 # Clowned
 ---
 #verb
-- **To [[a/_act|act]] in a silly or [[p/_playful|playful]] [[f/_fashion|fashion]].**
-- **To ridicule.**
+- **To [[a/_act|act]] in a [[s/_silly|silly]] or [[p/_playful|playful]] [[f/_fashion|fashion]].**
+- **To [[r/_ridicule|ridicule]].**
 ---
 ---

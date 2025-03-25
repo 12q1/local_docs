@@ -1,8 +1,8 @@
 # Cattiest
 ---
 #adjective
-- **(of a [[p/_person|person]] or remark) With subtle [[h/_hostility|hostility]] in an [[e/_effort|effort]] to [[h/_hurt|hurt]], [[a/_annoy|annoy]] or upset, [[p/_particularly|particularly]] [[a/_among|among]] women.**
-- **Resembling or [[c/_characteristic|characteristic]] of a [[c/_cat|cat]].**
+- **(of a [[p/_person|person]] or [[r/_remark|remark]]) With subtle [[h/_hostility|hostility]] in an [[e/_effort|effort]] to [[h/_hurt|hurt]], [[a/_annoy|annoy]] or upset, [[p/_particularly|particularly]] [[a/_among|among]] women.**
+- **[[r/_resembling|Resembling]] or [[c/_characteristic|characteristic]] of a [[c/_cat|cat]].**
 	- _Example: a catty smell_
 ---
 ### Synonyms

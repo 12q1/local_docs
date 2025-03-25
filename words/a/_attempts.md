@@ -1,7 +1,7 @@
 # Attempts
 ---
 #noun
-- **The [[a/_action|action]] of trying at something.**
+- **The [[a/_action|action]] of trying at [[s/_something|something]].**
 	- _Example: It was worth the attempt._
 - **An [[a/_assault|assault]] or [[a/_attack|attack]], [[e/_especially|especially]] an [[a/_assassination|assassination]] [[a/_attempt|attempt]].**
 	- _Example: 1584 No man can charge us of any attempt against the realm. (Allen's Defence Of English Catholics, cited after Edinburgh review 1883, p. 378)_

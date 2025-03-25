@@ -1,7 +1,7 @@
 # Consecrates
 ---
 #verb
-- **To [[d/_declare|declare]] something [[h/_holy|holy]], or [[m/_make|make]] it [[h/_holy|holy]] by some procedure.**
+- **To [[d/_declare|declare]] [[s/_something|something]] [[h/_holy|holy]], or [[m/_make|make]] it [[h/_holy|holy]] by [[s/_some|some]] [[p/_procedure|procedure]].**
 - **(specifically) To [[o/_ordain|ordain]] as a [[b/_bishop|bishop]].**
 ---
 ### Synonyms

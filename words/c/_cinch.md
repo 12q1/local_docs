@@ -1,8 +1,8 @@
 # Cinch
 ---
 #noun
-- **A simple saddle [[g/_girth|girth]] used in [[m/_mexico|Mexico]].**
-- **Something that is very [[e/_easy|easy]] to [[d/_do|do]].**
+- **A [[s/_simple|simple]] [[s/_saddle|saddle]] [[g/_girth|girth]] used in [[m/_mexico|Mexico]].**
+- **[[s/_something|Something]] that is very [[e/_easy|easy]] to [[d/_do|do]].**
 	- _Example: No problem. It's a cinch._
 - **A [[f/_firm|firm]] [[h/_hold|hold]].**
 ---

@@ -10,6 +10,6 @@
 - **Under the [[i/_influence|influence]] of [[e/_enchantment|enchantment]].**
 ---
 #interjection
-- **A [[g/_greeting|greeting]] used when [[i/_introduced|introduced]] to someone for the [[f/_first|first]] time, [[e/_especially|especially]] by a [[m/_man|man]] when [[i/_introduced|introduced]] to a woman.**
+- **A [[g/_greeting|greeting]] used when [[i/_introduced|introduced]] to [[s/_someone|someone]] for the [[f/_first|first]] time, [[e/_especially|especially]] by a [[m/_man|man]] when [[i/_introduced|introduced]] to a woman.**
 ---
 ---

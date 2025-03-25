@@ -1,6 +1,6 @@
 # Fungoids
 ---
 #noun
-- **A [[f/_fungus|fungus]], or some [[o/_other|other]] [[o/_organism|organism]] [[c/_closely|closely]] resembling a [[f/_fungus|fungus]].**
+- **A [[f/_fungus|fungus]], or [[s/_some|some]] [[o/_other|other]] [[o/_organism|organism]] [[c/_closely|closely]] [[r/_resembling|resembling]] a [[f/_fungus|fungus]].**
 ---
 ---

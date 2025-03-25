@@ -7,6 +7,6 @@
 - **To [[f/_forge|forge]] or [[c/_counterfeit|counterfeit]].**
 ---
 #noun
-- **The [[a/_act|act]] or process of [[f/_fashioning|fashioning]] something; [[m/_manufacture|manufacture]].**
+- **The [[a/_act|act]] or [[p/_process|process]] of [[f/_fashioning|fashioning]] [[s/_something|something]]; [[m/_manufacture|manufacture]].**
 ---
 ---

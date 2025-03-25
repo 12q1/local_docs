@@ -7,6 +7,6 @@
 ### Synonyms
 - [[c/_cripple|cripple]], [[d/_disable|disable]], [[i/_incapacitate|incapacitate]], [[h/_hock|hock]], [[h/_hough|hough]], [[h/_hox|hox]]
 #adjective
-- **Restricted as [[i/_if|if]] by [[b/_being|being]] [[c/_crippled|crippled]] with a [[h/_hamstring|hamstring]].**
+- **[[r/_restricted|Restricted]] as [[i/_if|if]] by [[b/_being|being]] [[c/_crippled|crippled]] with a [[h/_hamstring|hamstring]].**
 ---
 ---

@@ -3,12 +3,12 @@
 #noun
 - **An [[a/_act|act]] of throwing.**
 - **An [[i/_instance|instance]] of throwing [[o/_out|out]] a [[f/_fishing|fishing]] [[l/_line|line]].**
-- **Something which [[h/_has|has]] [[b/_been|been]] thrown, [[d/_dispersed|dispersed]] [[e/_etc|etc]].**
-- **A small [[m/_mass|mass]] of [[e/_earth|earth]] "thrown [[o/_off|off]]" or [[e/_excreted|excreted]] by a worm.**
+- **[[s/_something|Something]] which [[h/_has|has]] [[b/_been|been]] thrown, [[d/_dispersed|dispersed]] [[e/_etc|etc]].**
+- **A [[s/_small|small]] [[m/_mass|mass]] of [[e/_earth|earth]] "thrown [[o/_off|off]]" or [[e/_excreted|excreted]] by a worm.**
 	- _Example: The area near the stream was covered with little bubbly worm casts._
-- **The [[c/_collective|collective]] [[g/_group|group]] of [[a/_actors|actors]] [[p/_performing|performing]] a [[p/_play|play]] or production together. [[c/_contrasted|Contrasted]] with [[c/_crew|crew]].**
+- **The [[c/_collective|collective]] [[g/_group|group]] of [[a/_actors|actors]] [[p/_performing|performing]] a [[p/_play|play]] or [[p/_production|production]] together. [[c/_contrasted|Contrasted]] with [[c/_crew|crew]].**
 	- _Example: He’s in the cast of Oliver._
-- **The [[c/_casting|casting]] procedure.**
+- **The [[c/_casting|casting]] [[p/_procedure|procedure]].**
 	- _Example: The men got into position for the cast, two at the ladle, two with long rods, all with heavy clothing._
 - **An [[o/_object|object]] [[m/_made|made]] in a [[m/_mould|mould]].**
 	- _Example: The cast would need a great deal of machining to become a recognizable finished part._
@@ -20,29 +20,29 @@
 - **A squint.**
 - **Visual [[a/_appearance|appearance]].**
 	- _Example: Her features had a delicate cast to them._
-- **The [[f/_form|form]] of [[o/_one|one]]'s thoughts, [[m/_mind|mind]] [[e/_etc|etc]].**
+- **The [[f/_form|form]] of [[o/_one|one]]'[[s/_s|s]] thoughts, [[m/_mind|mind]] [[e/_etc|etc]].**
 	- _Example: a cast of mind, a mental tendency._
-- **An [[a/_animal|animal]], [[e/_especially|especially]] a [[h/_horse|horse]], that is unable to rise without [[a/_assistance|assistance]].**
-- **[[a/_animal|Animal]] and [[i/_insect|insect]] remains which [[h/_have|have]] [[b/_been|been]] regurgitated by a [[b/_bird|bird]].**
+- **An [[a/_animal|animal]], [[e/_especially|especially]] a [[h/_horse|horse]], that is unable to [[r/_rise|rise]] without [[a/_assistance|assistance]].**
+- **[[a/_animal|Animal]] and [[i/_insect|insect]] [[r/_remains|remains]] which [[h/_have|have]] [[b/_been|been]] [[r/_regurgitated|regurgitated]] by a [[b/_bird|bird]].**
 - **A [[g/_group|group]] of [[c/_crabs|crabs]].**
 - **A [[b/_broadcast|broadcast]].**
 ---
 #verb
 - **([[p/_physical|physical]]) To [[m/_move|move]], or be [[m/_moved|moved]], [[a/_away|away]].**
-- **To [[d/_direct|direct]] ([[o/_one|one]]'s [[e/_eyes|eyes]], [[g/_gaze|gaze]] [[e/_etc|etc]].).**
-- **To [[a/_add|add]] up (a [[c/_column|column]] of [[f/_figures|figures]], [[a/_accounts|accounts]] [[e/_etc|etc]].); [[c/_cross|cross]]-[[c/_cast|cast]] refers to [[a/_adding|adding]] up a row of [[f/_figures|figures]].**
-- **(social) To [[p/_predict|predict]], to [[d/_decide|decide]], to [[p/_plan|plan]].**
+- **To [[d/_direct|direct]] ([[o/_one|one]]'[[s/_s|s]] [[e/_eyes|eyes]], [[g/_gaze|gaze]] [[e/_etc|etc]].).**
+- **To [[a/_add|add]] up (a [[c/_column|column]] of [[f/_figures|figures]], [[a/_accounts|accounts]] [[e/_etc|etc]].); [[c/_cross|cross]]-[[c/_cast|cast]] [[r/_refers|refers]] to [[a/_adding|adding]] up a [[r/_row|row]] of [[f/_figures|figures]].**
+- **([[s/_social|social]]) To [[p/_predict|predict]], to [[d/_decide|decide]], to [[p/_plan|plan]].**
 - **To [[p/_perform|perform]], [[b/_bring|bring]] [[f/_forth|forth]] (a [[m/_magical|magical]] spell or [[e/_enchantment|enchantment]]).**
-- **To throw ([[l/_light|light]] [[e/_etc|etc]].) on or upon something, or in a [[g/_given|given]] [[d/_direction|direction]].**
+- **To throw ([[l/_light|light]] [[e/_etc|etc]].) on or upon [[s/_something|something]], or in a [[g/_given|given]] [[d/_direction|direction]].**
 - **To [[g/_give|give]] [[b/_birth|birth]] to (a [[c/_child|child]]) [[p/_prematurely|prematurely]]; to [[m/_miscarry|miscarry]].**
-- **To shape ([[m/_molten|molten]] [[m/_metal|metal]] [[e/_etc|etc]].) by [[p/_pouring|pouring]] [[i/_into|into]] a [[m/_mould|mould]]; to [[m/_make|make]] (an [[o/_object|object]]) in such a way.**
+- **To [[s/_shape|shape]] ([[m/_molten|molten]] [[m/_metal|metal]] [[e/_etc|etc]].) by [[p/_pouring|pouring]] [[i/_into|into]] a [[m/_mould|mould]]; to [[m/_make|make]] (an [[o/_object|object]]) in such a way.**
 - **To twist or warp (of [[f/_fabric|fabric]], timber [[e/_etc|etc]].).**
-- **To [[b/_bring|bring]] the [[b/_bows|bows]] of a sailing ship on to the required tack [[j/_just|just]] as the [[a/_anchor|anchor]] is weighed by use of the [[h/_headsail|headsail]]; to [[b/_bring|bring]] (a ship) round.**
-- **To [[d/_deposit|deposit]] (a [[b/_ballot|ballot]] or voting [[p/_paper|paper]]); to [[f/_formally|formally]] register ([[o/_one|one]]'s vote).**
-- **To [[c/_change|change]] a variable type from, for [[e/_example|example]], [[i/_integer|integer]] to real, or [[i/_integer|integer]] to text.**
+- **To [[b/_bring|bring]] the [[b/_bows|bows]] of a [[s/_sailing|sailing]] [[s/_ship|ship]] on to the [[r/_required|required]] tack [[j/_just|just]] as the [[a/_anchor|anchor]] is weighed by use of the [[h/_headsail|headsail]]; to [[b/_bring|bring]] (a [[s/_ship|ship]]) [[r/_round|round]].**
+- **To [[d/_deposit|deposit]] (a [[b/_ballot|ballot]] or voting [[p/_paper|paper]]); to [[f/_formally|formally]] [[r/_register|register]] ([[o/_one|one]]'[[s/_s|s]] vote).**
+- **To [[c/_change|change]] a variable type from, for [[e/_example|example]], [[i/_integer|integer]] to [[r/_real|real]], or [[i/_integer|integer]] to text.**
 	- _Example: Casting is generally an indication of bad design._
-- **Of [[d/_dogs|dogs]], [[h/_hunters|hunters]]: to spread [[o/_out|out]] and search for a scent.**
-- **To set (a [[b/_bone|bone]] [[e/_etc|etc]].) in a [[c/_cast|cast]].**
+- **Of [[d/_dogs|dogs]], [[h/_hunters|hunters]]: to spread [[o/_out|out]] and [[s/_search|search]] for a [[s/_scent|scent]].**
+- **To [[s/_set|set]] (a [[b/_bone|bone]] [[e/_etc|etc]].) in a [[c/_cast|cast]].**
 - **To [[o/_open|open]] a [[c/_circle|circle]] in [[o/_order|order]] to [[b/_begin|begin]] a spell or [[m/_meeting|meeting]] of witches.**
 - **To [[b/_broadcast|broadcast]].**
 	- _Example: The streamer was the first to cast footage of the new game._

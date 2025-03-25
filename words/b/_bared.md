@@ -1,7 +1,7 @@
 # Bared
 ---
 #verb
-- **To uncover; to reveal.**
+- **To uncover; to [[r/_reveal|reveal]].**
 	- _Example: She bared her teeth at him._
 ---
 ### Synonyms

@@ -10,6 +10,6 @@
 ---
 #noun
 - **[[o/_one|One]] who [[l/_limps|limps]].**
-- **[[o/_one|One]] who [[l/_limps|limps]] ([[o/_one|one]] who [[c/_calls|calls]] the [[b/_big|big]] [[b/_blind|blind]] in the preflop [[b/_betting|betting]] round).**
+- **[[o/_one|One]] who [[l/_limps|limps]] ([[o/_one|one]] who [[c/_calls|calls]] the [[b/_big|big]] [[b/_blind|blind]] in the preflop [[b/_betting|betting]] [[r/_round|round]]).**
 ---
 ---

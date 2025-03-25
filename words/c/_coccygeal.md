@@ -1,6 +1,6 @@
 # Coccygeal
 ---
 #adjective
-- **Relating to the [[c/_coccyx|coccyx]]**
+- **[[r/_relating|Relating]] to the [[c/_coccyx|coccyx]]**
 ---
 ---

@@ -1,11 +1,11 @@
 # Landward
 ---
 #noun
-- **The side [[f/_facing|facing]] [[l/_land|land]].**
+- **The [[s/_side|side]] [[f/_facing|facing]] [[l/_land|land]].**
 ---
 #adjective
-- **[[l/_located|Located]], [[f/_facing|facing]] or [[m/_moving|moving]] in the [[d/_direction|direction]] of the [[l/_land|land]], as [[o/_opposed|opposed]] to the sea.**
-- **Of the [[c/_country|country]] as [[o/_opposed|opposed]] to the [[c/_city|city]], rural; [[a/_agricultural|agricultural]].**
+- **[[l/_located|Located]], [[f/_facing|facing]] or [[m/_moving|moving]] in the [[d/_direction|direction]] of the [[l/_land|land]], as [[o/_opposed|opposed]] to the [[s/_sea|sea]].**
+- **Of the [[c/_country|country]] as [[o/_opposed|opposed]] to the [[c/_city|city]], [[r/_rural|rural]]; [[a/_agricultural|agricultural]].**
 ---
 ### Synonyms
 - [[s/_shoreward|shoreward]]

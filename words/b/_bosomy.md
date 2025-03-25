@@ -1,7 +1,7 @@
 # Bosomy
 ---
 #adjective
-- **[[f/_full|Full]] of sheltered [[h/_hollows|hollows]] or recesses.**
+- **[[f/_full|Full]] of [[s/_sheltered|sheltered]] [[h/_hollows|hollows]] or [[r/_recesses|recesses]].**
 - **[[h/_having|Having]] a [[l/_large|large]] [[b/_bosom|bosom]].**
 ---
 ### Synonyms

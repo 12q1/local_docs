@@ -1,6 +1,6 @@
 # Clopped
 ---
 #verb
-- **To [[m/_make|make]] this sound; to walk so as to [[m/_make|make]] this sound.**
+- **To [[m/_make|make]] this [[s/_sound|sound]]; to walk [[s/_so|so]] as to [[m/_make|make]] this [[s/_sound|sound]].**
 ---
 ---

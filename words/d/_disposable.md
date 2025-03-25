@@ -1,11 +1,11 @@
 # Disposable
 ---
 #noun
-- **[[a/_any|Any]] [[o/_object|object]] that is [[d/_designed|designed]] to be [[d/_disposed|disposed]] of rather than refilled or repaired.**
+- **[[a/_any|Any]] [[o/_object|object]] that is [[d/_designed|designed]] to be [[d/_disposed|disposed]] of [[r/_rather|rather]] than [[r/_refilled|refilled]] or [[r/_repaired|repaired]].**
 ---
 #adjective
 - **That [[c/_can|can]] be [[d/_disposed|disposed]] of.**
-- **That is [[d/_designed|designed]] to be [[d/_discarded|discarded]] rather than reused, refilled or repaired.**
+- **That is [[d/_designed|designed]] to be [[d/_discarded|discarded]] [[r/_rather|rather]] than [[r/_reused|reused]], [[r/_refilled|refilled]] or [[r/_repaired|repaired]].**
 	- _Example: Rather than purchase an expensive razor he bought a packet of cheap disposable ones._
 - **[[a/_available|Available]] to be used.**
 ---

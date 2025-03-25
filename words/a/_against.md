@@ -5,7 +5,7 @@
 	- _Example: It is hard work to swim against the current._
 - **In [[p/_physical|physical]] [[o/_opposition|opposition]] to; in [[c/_collision|collision]] with.**
 	- _Example: The rain pounds against the window._
-- **In [[p/_physical|physical]] [[c/_contact|contact]] with, so as to [[a/_abut|abut]] or be supported by.**
+- **In [[p/_physical|physical]] [[c/_contact|contact]] with, [[s/_so|so]] as to [[a/_abut|abut]] or be supported by.**
 	- _Example: The kennel was put against the back wall._
 - **[[c/_close|Close]] to, [[a/_alongside|alongside]].**
 	- _Example: A row of trees stood against a fence._
@@ -26,7 +26,7 @@
 - **As [[c/_counterbalance|counterbalance]] to.**
 - **As a [[c/_charge|charge]] on.**
 	- _Example: Tax is levied against income from sales._
-- **As protection from.**
+- **As [[p/_protection|protection]] from.**
 	- _Example: He turned the umbrella against the wind._
 - **In [[a/_anticipation|anticipation]] of; in [[p/_preparation|preparation]] for (a [[p/_particular|particular]] time, [[e/_event|event]] [[e/_etc|etc]].).**
 	- _Example: The stores are kept well stocked against a time of need._
@@ -39,6 +39,6 @@
 ### Antonyms
 - [[f/_for|for]], [[o/_on|on]], [[w/_with|with]]
 #conjunction
-- **By the time that (something [[h/_happened|happened]]); [[b/_before|before]].**
+- **By the time that ([[s/_something|something]] [[h/_happened|happened]]); [[b/_before|before]].**
 ---
 ---

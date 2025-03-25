@@ -1,6 +1,6 @@
 # Diapositive
 ---
 #noun
-- **Slide (used with a projector for projecting [[i/_images|images]])**
+- **[[s/_slide|Slide]] (used with a [[p/_projector|projector]] for [[p/_projecting|projecting]] [[i/_images|images]])**
 ---
 ---

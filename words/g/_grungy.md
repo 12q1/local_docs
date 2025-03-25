@@ -1,8 +1,8 @@
 # Grungy
 ---
 #adjective
-- **[[d/_dirty|Dirty]]; shabby; in [[d/_disrepair|disrepair]].**
-- **Of or relating to grunge [[m/_music|music]].**
+- **[[d/_dirty|Dirty]]; [[s/_shabby|shabby]]; in [[d/_disrepair|disrepair]].**
+- **Of or [[r/_relating|relating]] to grunge [[m/_music|music]].**
 ---
 ### Synonyms
 - [[g/_grungelike|grungelike]]

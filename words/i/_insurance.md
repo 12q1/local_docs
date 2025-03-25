@@ -3,7 +3,7 @@
 #noun
 - **A [[m/_means|means]] of [[i/_indemnity|indemnity]] [[a/_against|against]] a [[f/_future|future]] [[o/_occurrence|occurrence]] of an uncertain [[e/_event|event]].**
 	- _Example: The car was totalled, but fortunately I had insurance._
-- **The [[b/_business|business]] of providing [[i/_insurance|insurance]].**
+- **The [[b/_business|business]] of [[p/_providing|providing]] [[i/_insurance|insurance]].**
 	- _Example: After five years in banking, I switched to insurance._
 - **[[a/_any|Any]] [[a/_attempt|attempt]] to [[f/_forestall|forestall]] an unfavorable [[e/_event|event]].**
 	- _Example: The sky was clear, but I took my umbrella for insurance._

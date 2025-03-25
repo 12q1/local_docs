@@ -1,7 +1,7 @@
 # Yearly
 ---
 #noun
-- **Something that is published [[o/_once|once]] a [[y/_year|year]].**
+- **[[s/_something|Something]] that is [[p/_published|published]] [[o/_once|once]] a [[y/_year|year]].**
 ---
 #adjective
 - **[[h/_happening|Happening]] [[o/_once|once]] [[e/_every|every]] [[y/_year|year]].**

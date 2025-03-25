@@ -7,6 +7,6 @@
 ### Synonyms
 - [[h/_heat|heat]]
 #noun
-- **A [[c/_condition|condition]] of [[p/_physical|physical]] [[a/_attraction|attraction]] toward (for) someone.**
+- **A [[c/_condition|condition]] of [[p/_physical|physical]] [[a/_attraction|attraction]] toward (for) [[s/_someone|someone]].**
 ---
 ---

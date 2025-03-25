@@ -1,9 +1,9 @@
 # Caesarian
 ---
 #adjective
-- **Of or relating to Caesarea.**
+- **Of or [[r/_relating|relating]] to Caesarea.**
 ---
 #adjective
-- **Of, relating to or in the [[m/_manner|manner]] of [[j/_julius|Julius]] [[c/_caesar|Caesar]] or [[o/_other|other]] Caesars.**
+- **Of, [[r/_relating|relating]] to or in the [[m/_manner|manner]] of [[j/_julius|Julius]] [[c/_caesar|Caesar]] or [[o/_other|other]] Caesars.**
 ---
 ---

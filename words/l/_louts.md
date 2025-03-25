@@ -1,7 +1,7 @@
 # Louts
 ---
 #noun
-- **A troublemaker, [[o/_often|often]] violent; a rude violent [[p/_person|person]]; a [[y/_yob|yob]].**
+- **A troublemaker, [[o/_often|often]] violent; a [[r/_rude|rude]] violent [[p/_person|person]]; a [[y/_yob|yob]].**
 - **A [[c/_clownish|clownish]], [[a/_awkward|awkward]] [[f/_fellow|fellow]]; a [[b/_bumpkin|bumpkin]].**
 ---
 #verb

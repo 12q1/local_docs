@@ -1,7 +1,7 @@
 # Despised
 ---
 #verb
-- **To regard with [[c/_contempt|contempt]] or scorn.**
+- **To [[r/_regard|regard]] with [[c/_contempt|contempt]] or [[s/_scorn|scorn]].**
 - **To [[d/_disregard|disregard]] or [[i/_ignore|ignore]].**
 ---
 ### Synonyms
@@ -9,7 +9,7 @@
 ### Antonyms
 - [[a/_admire|admire]], [[c/_cherish|cherish]], [[h/_honor|honor]], [[r/_respect|respect]], [[t/_treasure|treasure]]
 #adjective
-- **[[h/_hated|Hated]]; viewed with scorn.**
+- **[[h/_hated|Hated]]; viewed with [[s/_scorn|scorn]].**
 	- _Example: The dictator's cruelty made him the most despised person in the region._
 ---
 ### Antonyms

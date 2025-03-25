@@ -4,7 +4,7 @@
 - **To undergo [[d/_disproportionation|disproportionation]]**
 ---
 #adjective
-- **Not proportionate.**
-- **[[o/_out|Out]] of proportion.**
+- **Not [[p/_proportionate|proportionate]].**
+- **[[o/_out|Out]] of [[p/_proportion|proportion]].**
 ---
 ---

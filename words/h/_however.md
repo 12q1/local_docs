@@ -9,7 +9,7 @@
 	- _Example: Let me know when you've had your interview, however it goes._
 - **An [[e/_emphatic|emphatic]] [[f/_form|form]] of [[h/_how|how]].**
 	- _Example: However were you able to do it?_
-- **In [[a/_any|any]] [[c/_case|case]], at [[a/_any|any]] rate, at [[a/_all|all]] [[e/_events|events]].**
+- **In [[a/_any|any]] [[c/_case|case]], at [[a/_any|any]] [[r/_rate|rate]], at [[a/_all|all]] [[e/_events|events]].**
 ---
 ### Synonyms
 - [[h/_how|how]], [[a/_anyhow|anyhow]], [[h/_howso|howso]], [[h/_howsoever|howsoever]], [[a/_anyway|anyway]], [[n/_nonetheless|nonetheless]], [[n/_notwithstanding|notwithstanding]], [[h/_howso|howso]], [[h/_howsoever|howsoever]]

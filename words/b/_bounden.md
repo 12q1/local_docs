@@ -4,32 +4,32 @@
 - **To tie; to [[c/_confine|confine]] by [[a/_any|any]] [[l/_ligature|ligature]].**
 - **To [[c/_cohere|cohere]] or stick together in a [[m/_mass|mass]].**
 	- _Example: Just to make the cheese more binding_
-- **To be restrained from [[m/_motion|motion]], or from [[c/_customary|customary]] or [[n/_natural|natural]] [[a/_action|action]], as by [[f/_friction|friction]].**
+- **To be [[r/_restrained|restrained]] from [[m/_motion|motion]], or from [[c/_customary|customary]] or [[n/_natural|natural]] [[a/_action|action]], as by [[f/_friction|friction]].**
 	- _Example: I wish I knew why the sewing machine binds up after I use it for a while._
-- **To [[e/_exert|exert]] a [[b/_binding|binding]] or restraining [[i/_influence|influence]].**
+- **To [[e/_exert|exert]] a [[b/_binding|binding]] or [[r/_restraining|restraining]] [[i/_influence|influence]].**
 	- _Example: These are the ties that bind._
 - **To tie or [[f/_fasten|fasten]] tightly together, with a [[c/_cord|cord]], [[b/_band|band]], [[l/_ligature|ligature]], [[c/_chain|chain]], [[e/_etc|etc]].**
 	- _Example: to bind grain in bundles  to bind a prisoner_
-- **To [[c/_confine|confine]], restrain, or [[h/_hold|hold]] by [[p/_physical|physical]] [[f/_force|force]] or [[i/_influence|influence]] of [[a/_any|any]] [[k/_kind|kind]].**
+- **To [[c/_confine|confine]], [[r/_restrain|restrain]], or [[h/_hold|hold]] by [[p/_physical|physical]] [[f/_force|force]] or [[i/_influence|influence]] of [[a/_any|any]] [[k/_kind|kind]].**
 	- _Example: Frost binds the earth._
 - **To [[c/_couple|couple]].**
-- **To [[o/_oblige|oblige]], restrain, or [[h/_hold|hold]], by [[a/_authority|authority]], [[l/_law|law]], [[d/_duty|duty]], promise, vow, [[a/_affection|affection]], or [[o/_other|other]] social tie.**
+- **To [[o/_oblige|oblige]], [[r/_restrain|restrain]], or [[h/_hold|hold]], by [[a/_authority|authority]], [[l/_law|law]], [[d/_duty|duty]], [[p/_promise|promise]], vow, [[a/_affection|affection]], or [[o/_other|other]] [[s/_social|social]] tie.**
 	- _Example: to bind the conscience  to bind by kindness  bound by affection  commerce binds nations to each other_
-- **To put (a [[p/_person|person]]) under [[d/_definite|definite]] [[l/_legal|legal]] [[o/_obligations|obligations]], [[e/_especially|especially]], under the [[o/_obligation|obligation]] of a [[b/_bond|bond]] or [[c/_covenant|covenant]].**
-- **To [[p/_place|place]] under [[l/_legal|legal]] [[o/_obligation|obligation]] to serve.**
+- **To [[p/_put|put]] (a [[p/_person|person]]) under [[d/_definite|definite]] [[l/_legal|legal]] [[o/_obligations|obligations]], [[e/_especially|especially]], under the [[o/_obligation|obligation]] of a [[b/_bond|bond]] or [[c/_covenant|covenant]].**
+- **To [[p/_place|place]] under [[l/_legal|legal]] [[o/_obligation|obligation]] to [[s/_serve|serve]].**
 	- _Example: to bind an apprentice  bound out to service_
-- **To protect or strengthen by [[a/_applying|applying]] a [[b/_band|band]] or [[b/_binding|binding]], as the [[e/_edge|edge]] of a [[c/_carpet|carpet]] or [[g/_garment|garment]].**
-- **To [[m/_make|make]] [[f/_fast|fast]] (a thing) [[a/_about|about]] or upon something, as by tying; to [[e/_encircle|encircle]] with something.**
+- **To [[p/_protect|protect]] or strengthen by [[a/_applying|applying]] a [[b/_band|band]] or [[b/_binding|binding]], as the [[e/_edge|edge]] of a [[c/_carpet|carpet]] or [[g/_garment|garment]].**
+- **To [[m/_make|make]] [[f/_fast|fast]] (a thing) [[a/_about|about]] or upon [[s/_something|something]], as by tying; to [[e/_encircle|encircle]] with [[s/_something|something]].**
 	- _Example: to bind a belt about one  to bind a compress upon a wound_
 - **To [[c/_cover|cover]], as with a [[b/_bandage|bandage]].**
 	- _Example: to bind up a wound_
-- **To prevent or restrain from [[c/_customary|customary]] or [[n/_natural|natural]] [[a/_action|action]], as by producing [[c/_constipation|constipation]].**
+- **To [[p/_prevent|prevent]] or [[r/_restrain|restrain]] from [[c/_customary|customary]] or [[n/_natural|natural]] [[a/_action|action]], as by [[p/_producing|producing]] [[c/_constipation|constipation]].**
 	- _Example: Certain drugs bind the bowels._
-- **To put together in a [[c/_cover|cover]], as of [[b/_books|books]].**
+- **To [[p/_put|put]] together in a [[c/_cover|cover]], as of [[b/_books|books]].**
 	- _Example: The three novels were bound together._
 - **To [[m/_make|make]] two or [[m/_more|more]] [[e/_elements|elements]] stick together.**
 - **To [[a/_associate|associate]] an [[i/_identifier|identifier]] with a value; to [[a/_associate|associate]] a variable [[n/_name|name]], [[m/_method|method]] [[n/_name|name]], [[e/_etc|etc]]. with the [[c/_content|content]] of a storage [[l/_location|location]].**
-- **To [[c/_complain|complain]]; to whine [[a/_about|about]] something.**
+- **To [[c/_complain|complain]]; to whine [[a/_about|about]] [[s/_something|something]].**
 ---
 ### Synonyms
 - [[b/_bandage|bandage]], [[d/_dress|dress]], [[f/_fasten|fasten]], [[f/_fetter|fetter]], [[r/_restrain|restrain]], [[t/_tie|tie]], [[i/_indenture|indenture]], [[o/_obligate|obligate]], [[r/_restrain|restrain]], [[r/_restrict|restrict]]

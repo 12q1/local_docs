@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[p/_placeholder|Placeholder]] word for a thing or [[p/_person|person]] [[n/_nonspecific|nonspecific]], unknown or [[f/_forgotten|forgotten]]; thingamabob.**
-- **[[n/_nonsense|Nonsense]]; rigmarole.**
+- **[[n/_nonsense|Nonsense]]; [[r/_rigmarole|rigmarole]].**
 - **[[c/_chaotic|Chaotic]] [[a/_activity|activity]]; uproar; [[c/_craziness|craziness]].**
 ---
 #verb

@@ -1,9 +1,9 @@
 # Defang
 ---
 #verb
-- **To remove the [[f/_fangs|fangs]] from (something).**
+- **To [[r/_remove|remove]] the [[f/_fangs|fangs]] from ([[s/_something|something]]).**
 	- _Example: The snake was defanged._
-- **To render [[h/_harmless|harmless]].**
+- **To [[r/_render|render]] [[h/_harmless|harmless]].**
 ---
 ### Synonyms
 - [[d/_declaw|declaw]]

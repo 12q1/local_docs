@@ -1,6 +1,6 @@
 # Demimondaines
 ---
 #noun
-- **A sexually promiscuous woman (of the [[d/_demimonde|demimonde]])**
+- **A [[s/_sexually|sexually]] [[p/_promiscuous|promiscuous]] woman (of the [[d/_demimonde|demimonde]])**
 ---
 ---

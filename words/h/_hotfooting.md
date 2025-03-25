@@ -1,6 +1,6 @@
 # Hotfooting
 ---
 #verb
-- **To run (a [[d/_distance|distance]]).**
+- **To [[r/_run|run]] (a [[d/_distance|distance]]).**
 ---
 ---

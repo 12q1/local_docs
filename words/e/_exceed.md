@@ -1,11 +1,11 @@
 # Exceed
 ---
 #verb
-- **To be [[l/_larger|larger]], [[g/_greater|greater]] than (something).**
+- **To be [[l/_larger|larger]], [[g/_greater|greater]] than ([[s/_something|something]]).**
 	- _Example: The company's 2005 revenue exceeds that of 2004._
-- **To be [[b/_better|better]] than (something).**
+- **To be [[b/_better|better]] than ([[s/_something|something]]).**
 	- _Example: The quality of her essay has exceeded my expectations._
-- **To [[g/_go|go]] [[b/_beyond|beyond]] (some [[l/_limit|limit]]); to surpass; to be [[l/_longer|longer]] than.**
+- **To [[g/_go|go]] [[b/_beyond|beyond]] ([[s/_some|some]] [[l/_limit|limit]]); to surpass; to be [[l/_longer|longer]] than.**
 	- _Example: Your password cannot exceed eight characters._
 - **To [[p/_predominate|predominate]].**
 - **To [[g/_go|go]] too [[f/_far|far]]; to be [[e/_excessive|excessive]].**

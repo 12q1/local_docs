@@ -1,6 +1,6 @@
 # Fitched
 ---
 #adjective
-- **Sharpened to a [[p/_point|point]]; [[p/_pointed|pointed]].**
+- **[[s/_sharpened|Sharpened]] to a [[p/_point|point]]; [[p/_pointed|pointed]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Conformable
 ---
 #adjective
-- **[[h/_having|Having]] the same shape or [[f/_form|form]]; very similar.**
+- **[[h/_having|Having]] the [[s/_same|same]] [[s/_shape|shape]] or [[f/_form|form]]; very [[s/_similar|similar]].**
 - **Suitable; [[c/_compliant|compliant]].**
 ---
 ### Synonyms

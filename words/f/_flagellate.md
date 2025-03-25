@@ -4,10 +4,10 @@
 - **[[a/_any|Any]] [[o/_organism|organism]] that [[h/_has|has]] [[f/_flagella|flagella]].**
 ---
 #verb
-- **To whip or scourge.**
+- **To whip or [[s/_scourge|scourge]].**
 ---
 #adjective
-- **Resembling a whip.**
+- **[[r/_resembling|Resembling]] a whip.**
 - **[[h/_having|Having]] [[f/_flagella|flagella]].**
 ---
 ---

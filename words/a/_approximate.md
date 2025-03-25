@@ -6,7 +6,7 @@
 - **To [[c/_carry|carry]] or [[a/_advance|advance]] [[n/_near|near]]; to [[c/_cause|cause]] to [[a/_approach|approach]].**
 ---
 #adjective
-- **[[a/_approaching|Approaching]]; proximate; [[n/_nearly|nearly]] resembling.**
+- **[[a/_approaching|Approaching]]; [[p/_proximate|proximate]]; [[n/_nearly|nearly]] [[r/_resembling|resembling]].**
 - **[[n/_nearing|Nearing]] [[c/_correctness|correctness]]; [[n/_nearly|nearly]] [[e/_exact|exact]]; not [[p/_perfectly|perfectly]] [[a/_accurate|accurate]].**
 	- _Example: NASA's Genesis spacecraft has on board an ion monitor to record the speed, density, temperature and approximate composition of the solar wind ions._
 ---

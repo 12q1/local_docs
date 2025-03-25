@@ -1,6 +1,6 @@
 # Earthlight
 ---
 #noun
-- **Sunlight reflected from the [[e/_earth|Earth]]'s surface**
+- **Sunlight [[r/_reflected|reflected]] from the [[e/_earth|Earth]]'[[s/_s|s]] surface**
 ---
 ---

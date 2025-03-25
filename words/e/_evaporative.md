@@ -1,6 +1,6 @@
 # Evaporative
 ---
 #adjective
-- **Of, [[p/_pertaining|pertaining]] to, producing, or produced by [[e/_evaporation|evaporation]].**
+- **Of, [[p/_pertaining|pertaining]] to, [[p/_producing|producing]], or [[p/_produced|produced]] by [[e/_evaporation|evaporation]].**
 ---
 ---

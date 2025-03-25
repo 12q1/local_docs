@@ -1,7 +1,7 @@
 # Ctenidia
 ---
 #noun
-- **A respiratory system, in the [[f/_form|form]] of a [[c/_comb|comb]], in some [[m/_molluscs|molluscs]]**
-- **A row of spines in some [[i/_insects|insects]]**
+- **A [[r/_respiratory|respiratory]] [[s/_system|system]], in the [[f/_form|form]] of a [[c/_comb|comb]], in [[s/_some|some]] [[m/_molluscs|molluscs]]**
+- **A [[r/_row|row]] of spines in [[s/_some|some]] [[i/_insects|insects]]**
 ---
 ---

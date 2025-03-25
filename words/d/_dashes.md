@@ -1,14 +1,14 @@
 # Dashes
 ---
 #noun
-- **[[a/_any|Any]] of the [[f/_following|following]] symbols: ‒ ([[f/_figure|figure]] [[d/_dash|dash]]), – ([[e/_en|en]] [[d/_dash|dash]]), — ([[e/_em|em]] [[d/_dash|dash]]), or ― ([[h/_horizontal|horizontal]] [[b/_bar|bar]]).**
-- **(by [[e/_extension|extension]]) The [[l/_longer|longer]] of the two symbols of [[m/_morse|Morse]] [[c/_code|code]].**
-- **A short run, [[f/_flight|flight]].**
-- **A rushing or violent [[o/_onset|onset]].**
+- **[[a/_any|Any]] of the [[f/_following|following]] [[s/_symbols|symbols]]: ‒ ([[f/_figure|figure]] [[d/_dash|dash]]), – ([[e/_en|en]] [[d/_dash|dash]]), — ([[e/_em|em]] [[d/_dash|dash]]), or ― ([[h/_horizontal|horizontal]] [[b/_bar|bar]]).**
+- **(by [[e/_extension|extension]]) The [[l/_longer|longer]] of the two [[s/_symbols|symbols]] of [[m/_morse|Morse]] [[c/_code|code]].**
+- **A [[s/_short|short]] [[r/_run|run]], [[f/_flight|flight]].**
+- **A [[r/_rushing|rushing]] or violent [[o/_onset|onset]].**
 - **Violent strike; a whack.**
-- **A small quantity of a [[l/_liquid|liquid]] substance [[e/_etc|etc]].; [[l/_less|less]] than 1/8 of a teaspoon.**
+- **A [[s/_small|small]] [[q/_quantity|quantity]] of a [[l/_liquid|liquid]] substance [[e/_etc|etc]].; [[l/_less|less]] than 1/8 of a teaspoon.**
 	- _Example: Add a dash of vinegar._
-- **(by [[e/_extension|extension]]) A slight [[a/_admixture|admixture]].**
+- **(by [[e/_extension|extension]]) A [[s/_slight|slight]] [[a/_admixture|admixture]].**
 	- _Example: There is a dash of craziness in his personality._
 - **[[o/_ostentatious|Ostentatious]] vigor.**
 	- _Example: Aren't we full of dash this morning?_
@@ -17,7 +17,7 @@
 - **A stand-in for a [[c/_censored|censored]] word, [[l/_like|like]] "[[d/_devil|Devil]]" or "[[d/_damn|damn]]". ([[c/_compare|Compare]] [[d/_deuce|deuce]].)**
 ---
 #verb
-- **To run quickly or for a short [[d/_distance|distance]].**
+- **To [[r/_run|run]] [[q/_quickly|quickly]] or for a [[s/_short|short]] [[d/_distance|distance]].**
 	- _Example: He dashed across the field._
 - **To [[l/_leave|leave]] or [[d/_depart|depart]].**
 	- _Example: I have to dash now. See you soon._
@@ -25,14 +25,14 @@
 	- _Example: He dashed the bottle against the bar and turned about to fight._
 - **To throw violently.**
 	- _Example: The man was dashed from the vehicle during the accident._
-- **(sometimes [[f/_figurative|figurative]]) To sprinkle; to splatter.**
-- **To [[m/_mix|mix]], reduce, or [[a/_adulterate|adulterate]], by throwing in something of an [[i/_inferior|inferior]] quality.**
+- **([[s/_sometimes|sometimes]] [[f/_figurative|figurative]]) To sprinkle; to splatter.**
+- **To [[m/_mix|mix]], [[r/_reduce|reduce]], or [[a/_adulterate|adulterate]], by throwing in [[s/_something|something]] of an [[i/_inferior|inferior]] [[q/_quality|quality]].**
 	- _Example: to dash wine with water_
-- **(of [[h/_hopes|hopes]] or [[d/_dreams|dreams]]) To ruin; to [[d/_destroy|destroy]].**
+- **(of [[h/_hopes|hopes]] or [[d/_dreams|dreams]]) To [[r/_ruin|ruin]]; to [[d/_destroy|destroy]].**
 	- _Example: Her hopes were dashed when she saw the damage._
-- **To [[d/_dishearten|dishearten]]; to sadden.**
+- **To [[d/_dishearten|dishearten]]; to [[s/_sadden|sadden]].**
 - **To [[c/_complete|complete]] [[h/_hastily|hastily]], usually with [[d/_down|down]] or [[o/_off|off]].**
 	- _Example: He dashed down his eggs, she dashed off her homework_
-- **To [[d/_draw|draw]] quickly; [[j/_jot|jot]].**
+- **To [[d/_draw|draw]] [[q/_quickly|quickly]]; [[j/_jot|jot]].**
 ---
 ---

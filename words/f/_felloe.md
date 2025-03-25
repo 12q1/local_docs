@@ -1,7 +1,7 @@
 # Felloe
 ---
 #noun
-- **The [[o/_outer|outer]] rim of a wheel, supported by the spokes.**
+- **The [[o/_outer|outer]] [[r/_rim|rim]] of a wheel, supported by the spokes.**
 ---
 ### Synonyms
 - [[f/_felly|felly]]

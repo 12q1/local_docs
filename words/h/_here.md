@@ -3,12 +3,12 @@
 #noun
 - **([[a/_abstract|abstract]]) This [[p/_place|place]]; this [[l/_location|location]].**
 	- _Example: An Alzheimer patient's here may in his mind be anywhere he called home in the time he presently re-lives._
-- **([[a/_abstract|abstract]]) This time, the [[p/_present|present]] situation.**
+- **([[a/_abstract|abstract]]) This time, the [[p/_present|present]] [[s/_situation|situation]].**
 ---
 #adjective
-- **[[f/_filler|Filler]] [[a/_after|after]] a [[n/_noun|noun]] or [[d/_demonstrative|demonstrative]] pronoun, solely for [[e/_emphasis|emphasis]].**
+- **[[f/_filler|Filler]] [[a/_after|after]] a [[n/_noun|noun]] or [[d/_demonstrative|demonstrative]] [[p/_pronoun|pronoun]], [[s/_solely|solely]] for [[e/_emphasis|emphasis]].**
 	- _Example: John here is a rascal._
-- **[[f/_filler|Filler]] [[a/_after|after]] a [[d/_demonstrative|demonstrative]] pronoun but [[b/_before|before]] the [[n/_noun|noun]] it [[m/_modifies|modifies]], solely for [[e/_emphasis|emphasis]].**
+- **[[f/_filler|Filler]] [[a/_after|after]] a [[d/_demonstrative|demonstrative]] [[p/_pronoun|pronoun]] but [[b/_before|before]] the [[n/_noun|noun]] it [[m/_modifies|modifies]], [[s/_solely|solely]] for [[e/_emphasis|emphasis]].**
 	- _Example: This here orange is too sour._
 ---
 #adverb
@@ -24,9 +24,9 @@
 ### Synonyms
 - 
 #interjection
-- **Used semi-[[a/_assertively|assertively]] to [[o/_offer|offer]] something to the [[l/_listener|listener]].**
+- **Used [[s/_semi|semi]]-[[a/_assertively|assertively]] to [[o/_offer|offer]] [[s/_something|something]] to the [[l/_listener|listener]].**
 	- _Example: Here, now I'm giving it to you._
-- **Used for [[e/_emphasis|emphasis]] at the [[b/_beginning|beginning]] of a sentence when [[e/_expressing|expressing]] an [[o/_opinion|opinion]] or want.**
+- **Used for [[e/_emphasis|emphasis]] at the [[b/_beginning|beginning]] of a [[s/_sentence|sentence]] when [[e/_expressing|expressing]] an [[o/_opinion|opinion]] or want.**
 	- _Example: Here, I'm tired and I want a drink._
 ---
 ---

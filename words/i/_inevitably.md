@@ -1,7 +1,7 @@
 # Inevitably
 ---
 #adverb
-- **In a [[m/_manner|manner]] that is [[i/_impossible|impossible]] to [[a/_avoid|avoid]] or prevent.**
+- **In a [[m/_manner|manner]] that is [[i/_impossible|impossible]] to [[a/_avoid|avoid]] or [[p/_prevent|prevent]].**
 	- _Example: Despite the town's best efforts, the dam inevitably gave way._
 - **As usual; [[p/_predictably|predictably]]; as [[e/_expected|expected]].**
 	- _Example: Inevitably, the next-door neighbour began to mow his lawn just as she lays down her head after a long night shift._

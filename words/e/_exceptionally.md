@@ -1,7 +1,7 @@
 # Exceptionally
 ---
 #adverb
-- **To an unusual, remarkable or [[e/_exceptional|exceptional]] [[d/_degree|degree]].**
+- **To an unusual, [[r/_remarkable|remarkable]] or [[e/_exceptional|exceptional]] [[d/_degree|degree]].**
 ---
 ### Synonyms
 - [[e/_extraordinarily|extraordinarily]], [[u/_uncommonly|uncommonly]]

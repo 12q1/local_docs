@@ -1,7 +1,7 @@
 # Aroma
 ---
 #noun
-- **A smell; [[e/_especially|especially]] a [[p/_pleasant|pleasant]] spicy or [[f/_fragrant|fragrant]] [[o/_one|one]].**
+- **A [[s/_smell|smell]]; [[e/_especially|especially]] a [[p/_pleasant|pleasant]] spicy or [[f/_fragrant|fragrant]] [[o/_one|one]].**
 	- _Example: I love the aroma of cinnamon._
 ---
 ### Synonyms

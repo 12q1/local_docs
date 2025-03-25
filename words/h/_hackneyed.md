@@ -6,7 +6,7 @@
 - **To [[c/_carry|carry]] in a [[h/_hackney|hackney]] [[c/_coach|coach]].**
 ---
 #adjective
-- **Repeated too [[o/_often|often]].**
+- **[[r/_repeated|Repeated]] too [[o/_often|often]].**
 	- _Example: The sermon was full of hackneyed phrases and platitudes._
 - **[[l/_let|Let]] [[o/_out|out]] for [[h/_hire|hire]].**
 ---

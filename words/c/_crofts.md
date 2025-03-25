@@ -1,7 +1,7 @@
 # Crofts
 ---
 #noun
-- **An [[e/_enclosed|enclosed]] [[p/_piece|piece]] of [[l/_land|land]], usually small and [[a/_arable|arable]] and used for small-scale [[f/_food|food]] production, and [[o/_often|often]] with a [[d/_dwelling|dwelling]] [[n/_next|next]] to it; in [[p/_particular|particular]], such a [[p/_piece|piece]] of [[l/_land|land]] rented to a [[f/_farmer|farmer]] (a [[c/_crofter|crofter]]), [[e/_especially|especially]] in Scotland, together with a right to use separate [[p/_pastureland|pastureland]] shared by [[o/_other|other]] [[c/_crofters|crofters]].**
+- **An [[e/_enclosed|enclosed]] [[p/_piece|piece]] of [[l/_land|land]], usually [[s/_small|small]] and [[a/_arable|arable]] and used for [[s/_small|small]]-[[s/_scale|scale]] [[f/_food|food]] [[p/_production|production]], and [[o/_often|often]] with a [[d/_dwelling|dwelling]] [[n/_next|next]] to it; in [[p/_particular|particular]], such a [[p/_piece|piece]] of [[l/_land|land]] [[r/_rented|rented]] to a [[f/_farmer|farmer]] (a [[c/_crofter|crofter]]), [[e/_especially|especially]] in [[s/_scotland|Scotland]], together with a [[r/_right|right]] to use [[s/_separate|separate]] [[p/_pastureland|pastureland]] [[s/_shared|shared]] by [[o/_other|other]] [[c/_crofters|crofters]].**
 ---
 ### Synonyms
 - [[q/_quillet|quillet]]

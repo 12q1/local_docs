@@ -1,7 +1,7 @@
 # Janitor
 ---
 #noun
-- **Someone who [[l/_looks|looks]] [[a/_after|after]] the [[m/_maintenance|maintenance]] and [[c/_cleaning|cleaning]] of a public [[b/_building|building]].**
+- **[[s/_someone|Someone]] who [[l/_looks|looks]] [[a/_after|after]] the [[m/_maintenance|maintenance]] and [[c/_cleaning|cleaning]] of a [[p/_public|public]] [[b/_building|building]].**
 - **A [[d/_doorman|doorman]].**
 ---
 ### Synonyms

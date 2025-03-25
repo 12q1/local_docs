@@ -5,6 +5,6 @@
 	- _Example: We took our guns and went fowling._
 ---
 #noun
-- **A session of [[h/_hunting|hunting]] [[f/_fowl|fowl]].**
+- **A [[s/_session|session]] of [[h/_hunting|hunting]] [[f/_fowl|fowl]].**
 ---
 ---

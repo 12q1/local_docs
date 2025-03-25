@@ -1,6 +1,6 @@
 # Handbell
 ---
 #noun
-- **A small [[b/_bell|bell]] [[d/_designed|designed]] to be rung by [[h/_hand|hand]].**
+- **A [[s/_small|small]] [[b/_bell|bell]] [[d/_designed|designed]] to be [[r/_rung|rung]] by [[h/_hand|hand]].**
 ---
 ---

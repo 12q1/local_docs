@@ -1,7 +1,7 @@
 # Leaver
 ---
 #noun
-- **(UK [[p/_politics|politics]]) Someone who supports Brexit, the United [[k/_kingdom|Kingdom]]'s [[e/_exit|exit]] from the [[e/_european|European]] Union.**
+- **(UK [[p/_politics|politics]]) [[s/_someone|Someone]] who supports Brexit, the United [[k/_kingdom|Kingdom]]'[[s/_s|s]] [[e/_exit|exit]] from the [[e/_european|European]] Union.**
 ---
 ### Synonyms
 - [[B/_Brexiteer|Brexiteer]], [[B/_Brexiter|Brexiter]]

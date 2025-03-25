@@ -1,7 +1,7 @@
 # Barracking
 ---
 #verb
-- **To [[h/_house|house]] [[m/_military|military]] [[p/_personnel|personnel]]; to quarter.**
+- **To [[h/_house|house]] [[m/_military|military]] [[p/_personnel|personnel]]; to [[q/_quarter|quarter]].**
 - **To [[l/_live|live]] in [[b/_barracks|barracks]].**
 ---
 #verb

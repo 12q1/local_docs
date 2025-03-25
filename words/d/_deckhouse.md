@@ -1,6 +1,6 @@
 # Deckhouse
 ---
 #noun
-- **A [[c/_cabin|cabin]] that protrudes [[a/_above|above]] a ship's [[d/_deck|deck]].**
+- **A [[c/_cabin|cabin]] that [[p/_protrudes|protrudes]] [[a/_above|above]] a [[s/_ship|ship]]'[[s/_s|s]] [[d/_deck|deck]].**
 ---
 ---

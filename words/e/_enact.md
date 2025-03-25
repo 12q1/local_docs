@@ -1,7 +1,7 @@
 # Enact
 ---
 #noun
-- **Purpose; [[d/_determination|determination]]**
+- **[[p/_purpose|Purpose]]; [[d/_determination|determination]]**
 ---
 #verb
 - **To [[m/_make|make]] (a [[b/_bill|bill]]) [[i/_into|into]] [[l/_law|law]]**

@@ -9,10 +9,10 @@
 #adverb
 - **By the way.**
 - **Timely; at a [[g/_good|good]] time.**
-- **To the purpose; [[a/_appropriately|appropriately]].**
+- **To the [[p/_purpose|purpose]]; [[a/_appropriately|appropriately]].**
 ---
 #preposition
-- **Regarding or [[c/_concerning|concerning]].**
+- **[[r/_regarding|Regarding]] or [[c/_concerning|concerning]].**
 ---
 ### Synonyms
 - [[a/_about|about]]

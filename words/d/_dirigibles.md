@@ -1,6 +1,6 @@
 # Dirigibles
 ---
 #noun
-- **A self-propelled [[a/_airship|airship]] that [[c/_can|can]] be steered**
+- **A [[s/_self|self]]-[[p/_propelled|propelled]] [[a/_airship|airship]] that [[c/_can|can]] be steered**
 ---
 ---

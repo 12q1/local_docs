@@ -6,6 +6,6 @@
 - **A [[b/_brigand|brigand]].**
 ---
 #verb
-- **To swindle (someone).**
+- **To swindle ([[s/_someone|someone]]).**
 ---
 ---

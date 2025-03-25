@@ -1,10 +1,10 @@
 # Broader
 ---
 #adjective
-- **Wide in [[e/_extent|extent]] or scope.**
+- **Wide in [[e/_extent|extent]] or [[s/_scope|scope]].**
 	- _Example: the broad expanse of ocean_
-- **[[e/_extended|Extended]], in the sense of [[d/_diffused|diffused]]; [[o/_open|open]]; [[c/_clear|clear]]; [[f/_full|full]].**
-- **[[h/_having|Having]] a [[l/_large|large]] [[m/_measure|measure]] of [[a/_any|any]] thing or quality; unlimited; unrestrained.**
+- **[[e/_extended|Extended]], in the [[s/_sense|sense]] of [[d/_diffused|diffused]]; [[o/_open|open]]; [[c/_clear|clear]]; [[f/_full|full]].**
+- **[[h/_having|Having]] a [[l/_large|large]] [[m/_measure|measure]] of [[a/_any|any]] thing or [[q/_quality|quality]]; unlimited; unrestrained.**
 - **[[c/_comprehensive|Comprehensive]]; [[l/_liberal|liberal]]; [[e/_enlarged|enlarged]].**
 - **[[p/_plain|Plain]]; [[e/_evident|evident]].**
 	- _Example: a broad hint_
@@ -12,7 +12,7 @@
 - **[[f/_free|Free]]; unrestrained; unconfined.**
 - **[[g/_gross|Gross]]; [[c/_coarse|coarse]]; [[i/_indelicate|indelicate]].**
 	- _Example: a broad compliment; a broad joke; broad humour_
-- **(of an [[a/_accent|accent]]) Strongly regional.**
+- **(of an [[a/_accent|accent]]) Strongly [[r/_regional|regional]].**
 - **([[g/_gaelic|Gaelic]] [[l/_languages|languages]]) Velarized, [[i/_i|i]].[[e/_e|e]]. not [[p/_palatalized|palatalized]].**
 ---
 ### Antonyms

@@ -1,7 +1,7 @@
 # Domineering
 ---
 #verb
-- **To rule [[o/_over|over]] or [[c/_control|control]] [[a/_arbitrarily|arbitrarily]] or [[a/_arrogantly|arrogantly]]; to tyrannize.**
+- **To [[r/_rule|rule]] [[o/_over|over]] or [[c/_control|control]] [[a/_arbitrarily|arbitrarily]] or [[a/_arrogantly|arrogantly]]; to tyrannize.**
 ---
 #noun
 - **The [[a/_act|act]] of [[o/_one|one]] who [[d/_domineers|domineers]].**

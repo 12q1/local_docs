@@ -1,6 +1,6 @@
 # Howff
 ---
 #noun
-- **Tavern; public [[h/_house|house]]**
+- **Tavern; [[p/_public|public]] [[h/_house|house]]**
 ---
 ---

@@ -3,7 +3,7 @@
 #preposition
 - **To or towards the [[i/_inside|inside]] of.**
 	- _Example: Mary danced into the house._
-- **To or towards the region of.**
+- **To or towards the [[r/_region|region]] of.**
 	- _Example: The eagle flew off into the wide blue sky._
 - **[[a/_against|Against]], [[e/_especially|especially]] with [[f/_force|force]] or violence.**
 	- _Example: I wasn't careful, and walked into a wall_

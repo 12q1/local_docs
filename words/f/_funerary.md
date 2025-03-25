@@ -1,6 +1,6 @@
 # Funerary
 ---
 #adjective
-- **Of or relating to a [[f/_funeral|funeral]].**
+- **Of or [[r/_relating|relating]] to a [[f/_funeral|funeral]].**
 ---
 ---

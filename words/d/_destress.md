@@ -1,8 +1,8 @@
 # Destress
 ---
 #verb
-- **To reduce the stresses in a [[m/_material|material]].**
-- **To reduce the stress in [[o/_oneself|oneself]] or [[a/_another|another]] [[p/_person|person]].**
-- **To reduce [[e/_emphasis|emphasis]].**
+- **To [[r/_reduce|reduce]] the stresses in a [[m/_material|material]].**
+- **To [[r/_reduce|reduce]] the stress in [[o/_oneself|oneself]] or [[a/_another|another]] [[p/_person|person]].**
+- **To [[r/_reduce|reduce]] [[e/_emphasis|emphasis]].**
 ---
 ---

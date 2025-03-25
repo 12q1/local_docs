@@ -7,6 +7,6 @@
 	- _Example: A lot of people invested in biotechs, back in the '90s._
 ---
 #adjective
-- **Of, or relating to [[b/_biotechnology|biotechnology]]**
+- **Of, or [[r/_relating|relating]] to [[b/_biotechnology|biotechnology]]**
 ---
 ---

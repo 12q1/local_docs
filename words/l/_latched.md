@@ -5,6 +5,6 @@
 - **To [[c/_catch|catch]]; [[l/_lay|lay]] [[h/_hold|hold]] of.**
 ---
 #verb
-- **To smear; to [[a/_anoint|anoint]].**
+- **To [[s/_smear|smear]]; to [[a/_anoint|anoint]].**
 ---
 ---

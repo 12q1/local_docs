@@ -9,7 +9,7 @@
 #verb
 - **To spend in [[i/_idleness|idleness]]; to waste; to [[c/_consume|consume]].**
 - **To [[l/_lose|lose]] or spend time [[d/_doing|doing]] [[n/_nothing|nothing]], or without [[b/_being|being]] [[e/_employed|employed]] in [[b/_business|business]].**
-- **Of an [[e/_engine|engine]]: to run at a slow speed, or [[o/_out|out]] of [[g/_gear|gear]]; to tick [[o/_over|over]].**
+- **Of an [[e/_engine|engine]]: to [[r/_run|run]] at a [[s/_slow|slow]] speed, or [[o/_out|out]] of [[g/_gear|gear]]; to tick [[o/_over|over]].**
 ---
 #adjective
 - **[[e/_empty|Empty]], vacant.**
@@ -17,9 +17,9 @@
 	- _Example: My computer hibernates after it has been idle for 30 minutes._
 - **Not [[e/_engaged|engaged]] in [[a/_any|any]] [[o/_occupation|occupation]] or [[e/_employment|employment]]; unemployed; [[i/_inactive|inactive]]; [[d/_doing|doing]] [[n/_nothing|nothing]] in [[p/_particular|particular]].**
 	- _Example: idle workmen_
-- **[[a/_averse|Averse]] to work, [[l/_labor|labor]] or [[e/_employment|employment]]; [[l/_lazy|lazy]]; slothful.**
+- **[[a/_averse|Averse]] to work, [[l/_labor|labor]] or [[e/_employment|employment]]; [[l/_lazy|lazy]]; [[s/_slothful|slothful]].**
 	- _Example: an idle fellow_
-- **Of [[n/_no|no]] [[i/_importance|importance]]; useless; worthless; vain; trifling; thoughtless; silly.**
+- **Of [[n/_no|no]] [[i/_importance|importance]]; useless; worthless; vain; trifling; thoughtless; [[s/_silly|silly]].**
 	- _Example: an idle story;  idle talk;  idle rumor_
 - **[[l/_light|Light]]-[[h/_headed|headed]]; [[f/_foolish|foolish]].**
 ---

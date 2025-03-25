@@ -1,7 +1,7 @@
 # Denticulation
 ---
 #noun
-- **The state of [[b/_being|being]] set with small [[n/_notches|notches]] or teeth.**
-- **A small tooth; a [[d/_denticle|denticle]].**
+- **The state of [[b/_being|being]] [[s/_set|set]] with [[s/_small|small]] [[n/_notches|notches]] or teeth.**
+- **A [[s/_small|small]] tooth; a [[d/_denticle|denticle]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Awarded
 ---
 #verb
-- **To [[g/_give|give]] by sentence or [[j/_judicial|judicial]] [[d/_determination|determination]]; to [[a/_assign|assign]] or [[a/_apportion|apportion]], [[a/_after|after]] [[c/_careful|careful]] regard to the [[n/_nature|nature]] of the [[c/_case|case]]; to [[a/_adjudge|adjudge]]**
+- **To [[g/_give|give]] by [[s/_sentence|sentence]] or [[j/_judicial|judicial]] [[d/_determination|determination]]; to [[a/_assign|assign]] or [[a/_apportion|apportion]], [[a/_after|after]] [[c/_careful|careful]] [[r/_regard|regard]] to the [[n/_nature|nature]] of the [[c/_case|case]]; to [[a/_adjudge|adjudge]]**
 	- _Example: the arbitrators awarded damages to the complainant_
 - **To [[d/_determine|determine]]; to [[m/_make|make]] or [[g/_grant|grant]] an [[a/_award|award]].**
 - **To [[g/_give|give]] (an [[a/_award|award]]).**

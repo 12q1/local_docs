@@ -1,7 +1,7 @@
 # Affable
 ---
 #adjective
-- **Receiving [[o/_others|others]] [[k/_kindly|kindly]] and [[c/_conversing|conversing]] with them in a [[f/_free|free]] and [[f/_friendly|friendly]] [[m/_manner|manner]]; [[f/_friendly|friendly]], [[c/_courteous|courteous]], sociable.**
+- **[[r/_receiving|Receiving]] [[o/_others|others]] [[k/_kindly|kindly]] and [[c/_conversing|conversing]] with them in a [[f/_free|free]] and [[f/_friendly|friendly]] [[m/_manner|manner]]; [[f/_friendly|friendly]], [[c/_courteous|courteous]], [[s/_sociable|sociable]].**
 - **[[m/_mild|Mild]]; [[b/_benign|benign]].**
 ---
 ### Synonyms

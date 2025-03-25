@@ -1,7 +1,7 @@
 # Categorical
 ---
 #noun
-- **A [[c/_categorical|categorical]] proposition.**
+- **A [[c/_categorical|categorical]] [[p/_proposition|proposition]].**
 ---
 #adjective
 - **[[a/_absolute|Absolute]]; [[h/_having|having]] [[n/_no|no]] [[e/_exception|exception]].**

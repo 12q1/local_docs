@@ -1,7 +1,7 @@
 # Devoid
 ---
 #verb
-- **To [[e/_empty|empty]] [[o/_out|out]]; to remove.**
+- **To [[e/_empty|empty]] [[o/_out|out]]; to [[r/_remove|remove]].**
 	- _Example: The child will devoid the garbage after he devours his sandwich._
 ---
 #adjective

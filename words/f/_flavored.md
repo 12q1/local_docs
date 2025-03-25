@@ -1,7 +1,7 @@
 # Flavored
 ---
 #verb
-- **To [[a/_add|add]] [[f/_flavoring|flavoring]] to something.**
+- **To [[a/_add|add]] [[f/_flavoring|flavoring]] to [[s/_something|something]].**
 ---
 #adjective
 - **[[h/_having|Having]] a specific taste, [[o/_often|often]] [[d/_due|due]] to the [[a/_addition|addition]] of [[f/_flavouring|flavouring]].**

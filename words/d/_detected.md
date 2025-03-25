@@ -1,7 +1,7 @@
 # Detected
 ---
 #verb
-- **To [[d/_discover|discover]] or [[f/_find|find]] by [[c/_careful|careful]] search, [[e/_examination|examination]], or probing**
+- **To [[d/_discover|discover]] or [[f/_find|find]] by [[c/_careful|careful]] [[s/_search|search]], [[e/_examination|examination]], or [[p/_probing|probing]]**
 ---
 #adjective
 - **[[h/_having|Having]] [[b/_been|been]] [[n/_noticed|noticed]].**

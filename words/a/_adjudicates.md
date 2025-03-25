@@ -1,7 +1,7 @@
 # Adjudicates
 ---
 #verb
-- **To settle a [[l/_legal|legal]] [[c/_case|case]] or [[o/_other|other]] [[d/_dispute|dispute]].**
+- **To [[s/_settle|settle]] a [[l/_legal|legal]] [[c/_case|case]] or [[o/_other|other]] [[d/_dispute|dispute]].**
 - **To [[a/_act|act]] as a [[j/_judge|judge]].**
 ---
 ### Synonyms

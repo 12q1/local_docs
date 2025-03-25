@@ -3,7 +3,7 @@
 #adjective
 - **Not [[p/_pretentious|pretentious]] or [[m/_magnificent|magnificent]]; unpretending; unassuming.**
 	- _Example: He lives in a humble one-bedroom cottage._
-- **[[h/_having|Having]] a [[l/_low|low]] [[o/_opinion|opinion]] of [[o/_oneself|oneself]]; not proud, [[a/_arrogant|arrogant]], or [[a/_assuming|assuming]]; [[m/_modest|modest]].**
+- **[[h/_having|Having]] a [[l/_low|low]] [[o/_opinion|opinion]] of [[o/_oneself|oneself]]; not [[p/_proud|proud]], [[a/_arrogant|arrogant]], or [[a/_assuming|assuming]]; [[m/_modest|modest]].**
 - **[[n/_near|Near]] the [[g/_ground|ground]].**
 ---
 ### Synonyms

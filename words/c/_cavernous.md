@@ -1,7 +1,7 @@
 # Cavernous
 ---
 #adjective
-- **Resembling a [[c/_cavern|cavern]]; vast**
+- **[[r/_resembling|Resembling]] a [[c/_cavern|cavern]]; vast**
 - **[[h/_having|Having]] [[m/_many|many]] [[c/_caverns|caverns]]**
 - **[[h/_having|Having]] [[c/_cavities|cavities]]**
 ---

@@ -1,7 +1,7 @@
 # Bejesus
 ---
 #noun
-- **Used for [[e/_emphasis|emphasis]], similar to [[c/_crap|crap]], shit or wits.**
+- **Used for [[e/_emphasis|emphasis]], [[s/_similar|similar]] to [[c/_crap|crap]], [[s/_shit|shit]] or wits.**
 	- _Example: He said you confused the bejesus out of him_
 ---
 #interjection

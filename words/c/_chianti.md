@@ -1,6 +1,6 @@
 # Chianti
 ---
 #noun
-- **A Tuscan red wine.**
+- **A Tuscan [[r/_red|red]] wine.**
 ---
 ---

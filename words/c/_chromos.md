@@ -1,9 +1,9 @@
 # Chromos
 ---
 #noun
-- **A [[c/_color|color]] print produced by [[c/_chromolithography|chromolithography]].**
+- **A [[c/_color|color]] [[p/_print|print]] [[p/_produced|produced]] by [[c/_chromolithography|chromolithography]].**
 ---
 #noun
-- **A prostitute.**
+- **A [[p/_prostitute|prostitute]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[p/_preferred|preferred]] spelling, with æon) A spirit [[b/_being|being]] [[e/_emanating|emanating]] from the [[g/_godhead|Godhead]].**
-- **([[c/_cosmology|Cosmology]]) [[e/_each|Each]] universe in a series of universes, [[a/_according|according]] to [[c/_conformal|conformal]] [[c/_cyclic|cyclic]] [[c/_cosmology|cosmology]].**
+- **([[c/_cosmology|Cosmology]]) [[e/_each|Each]] universe in a [[s/_series|series]] of universes, [[a/_according|according]] to [[c/_conformal|conformal]] [[c/_cyclic|cyclic]] [[c/_cosmology|cosmology]].**
 ---
 #noun
 - **[[e/_eternity|Eternity]].**

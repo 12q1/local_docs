@@ -11,8 +11,8 @@
 	- _Example: Vultures circled overhead._
 ---
 #adjective
-- **[[m/_marked|Marked]] with a surrounding [[c/_circle|circle]] or [[e/_ellipse|ellipse]]; ringed.**
+- **[[m/_marked|Marked]] with a surrounding [[c/_circle|circle]] or [[e/_ellipse|ellipse]]; [[r/_ringed|ringed]].**
 	- _Example: the circled items in a list_
-- **[[h/_having|Having]] the [[f/_form|form]] of a [[c/_circle|circle]]; round.**
+- **[[h/_having|Having]] the [[f/_form|form]] of a [[c/_circle|circle]]; [[r/_round|round]].**
 ---
 ---

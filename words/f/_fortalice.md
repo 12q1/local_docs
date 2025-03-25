@@ -1,6 +1,6 @@
 # Fortalice
 ---
 #noun
-- **A small [[f/_fortress|fortress]].**
+- **A [[s/_small|small]] [[f/_fortress|fortress]].**
 ---
 ---

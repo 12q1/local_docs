@@ -1,7 +1,7 @@
 # Disrobed
 ---
 #verb
-- **To undress someone or something.**
+- **To undress [[s/_someone|someone]] or [[s/_something|something]].**
 - **To undress [[o/_oneself|oneself]].**
 ---
 ### Synonyms

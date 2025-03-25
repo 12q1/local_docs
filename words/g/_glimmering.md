@@ -1,7 +1,7 @@
 # Glimmering
 ---
 #verb
-- **To shine with a [[f/_faint|faint]], unsteady [[l/_light|light]].**
+- **To [[s/_shine|shine]] with a [[f/_faint|faint]], unsteady [[l/_light|light]].**
 	- _Example: The fireflies glimmered in the dark._
 ---
 ### Synonyms

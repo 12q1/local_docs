@@ -1,7 +1,7 @@
 # Bugled
 ---
 #verb
-- **To [[a/_announce|announce]], sing, or [[c/_cry|cry]] in the [[m/_manner|manner]] of a [[m/_musical|musical]] [[b/_bugle|bugle]]**
+- **To [[a/_announce|announce]], [[s/_sing|sing]], or [[c/_cry|cry]] in the [[m/_manner|manner]] of a [[m/_musical|musical]] [[b/_bugle|bugle]]**
 ---
 ### Synonyms
 - [[t/_trumpet|trumpet]]

@@ -1,7 +1,7 @@
 # Humiliate
 ---
 #verb
-- **To [[i/_injure|injure]] the [[d/_dignity|dignity]] and self-respect of.**
+- **To [[i/_injure|injure]] the [[d/_dignity|dignity]] and [[s/_self|self]]-[[r/_respect|respect]] of.**
 - **To [[m/_make|make]] [[h/_humble|humble]]; to [[l/_lower|lower]] in [[c/_condition|condition]] or status.**
 ---
 ### Synonyms

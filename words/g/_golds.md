@@ -1,9 +1,9 @@
 # Golds
 ---
 #noun
-- **A [[h/_heavy|heavy]] [[y/_yellow|yellow]] [[e/_elemental|elemental]] [[m/_metal|metal]] of [[g/_great|great]] value, with [[a/_atomic|atomic]] [[n/_number|number]] 79 and symbol Au.**
-- **A [[c/_coin|coin]] or [[c/_coinage|coinage]] [[m/_made|made]] of this [[m/_material|material]], or supposedly so.**
-- **A [[d/_deep|deep]] [[y/_yellow|yellow]] [[c/_colour|colour]], resembling the [[m/_metal|metal]] [[g/_gold|gold]].**
+- **A [[h/_heavy|heavy]] [[y/_yellow|yellow]] [[e/_elemental|elemental]] [[m/_metal|metal]] of [[g/_great|great]] value, with [[a/_atomic|atomic]] [[n/_number|number]] 79 and [[s/_symbol|symbol]] Au.**
+- **A [[c/_coin|coin]] or [[c/_coinage|coinage]] [[m/_made|made]] of this [[m/_material|material]], or supposedly [[s/_so|so]].**
+- **A [[d/_deep|deep]] [[y/_yellow|yellow]] [[c/_colour|colour]], [[r/_resembling|resembling]] the [[m/_metal|metal]] [[g/_gold|gold]].**
 - **The [[b/_bullseye|bullseye]] of an [[a/_archery|archery]] target.**
 - **A [[g/_gold|gold]] [[m/_medal|medal]].**
 	- _Example: France has won three golds and five silvers._

@@ -1,10 +1,10 @@
 # Botching
 ---
 #verb
-- **To [[p/_perform|perform]] (a task) in an unacceptable or [[i/_incompetent|incompetent]] [[m/_manner|manner]]; to [[m/_make|make]] a [[m/_mess|mess]] of something**
+- **To [[p/_perform|perform]] (a task) in an unacceptable or [[i/_incompetent|incompetent]] [[m/_manner|manner]]; to [[m/_make|make]] a [[m/_mess|mess]] of [[s/_something|something]]**
 	- _Example: A botched haircut seems to take forever to grow out._
-- **To [[d/_do|do]] something without skill, without [[c/_care|care]], or [[c/_clumsily|clumsily]].**
-- **To repair or [[m/_mend|mend]] [[c/_clumsily|clumsily]].**
+- **To [[d/_do|do]] [[s/_something|something]] without [[s/_skill|skill]], without [[c/_care|care]], or [[c/_clumsily|clumsily]].**
+- **To [[r/_repair|repair]] or [[m/_mend|mend]] [[c/_clumsily|clumsily]].**
 ---
 ### Synonyms
 - [[b/_bodge|bodge]], [[b/_bungle|bungle]], [[d/_destroy|destroy]], [[r/_ruin|ruin]], [[s/_spoil|spoil]]

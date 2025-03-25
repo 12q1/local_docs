@@ -8,6 +8,6 @@
 #adjective
 - **[[o/_obscured|Obscured]].**
 - **[[f/_foreshadowed|Foreshadowed]].**
-- **[[d/_depicted|Depicted]] on a shield as an [[o/_outline|outline]] [[i/_instead|instead]] of a solid [[f/_figure|figure]].**
+- **[[d/_depicted|Depicted]] on a [[s/_shield|shield]] as an [[o/_outline|outline]] [[i/_instead|instead]] of a [[s/_solid|solid]] [[f/_figure|figure]].**
 ---
 ---

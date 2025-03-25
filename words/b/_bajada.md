@@ -1,6 +1,6 @@
 # Bajada
 ---
 #noun
-- **In the southwestern US, a slope, specifically [[p/_part|part]] of a [[p/_piedmont|piedmont]] slope [[m/_made|made]] of rocky [[d/_detritus|detritus]].**
+- **In the [[s/_southwestern|southwestern]] US, a [[s/_slope|slope]], specifically [[p/_part|part]] of a [[p/_piedmont|piedmont]] [[s/_slope|slope]] [[m/_made|made]] of [[r/_rocky|rocky]] [[d/_detritus|detritus]].**
 ---
 ---

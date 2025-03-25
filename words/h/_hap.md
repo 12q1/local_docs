@@ -2,7 +2,7 @@
 ---
 #noun
 - **(in the [[p/_plural|plural]]) [[h/_happenings|Happenings]]; [[e/_events|events]]; [[g/_goings|goings]]-on.**
-- **That which [[h/_happens|happens]]; an [[o/_occurrence|occurrence]] or [[h/_happening|happening]], [[e/_especially|especially]] an unexpected, random, [[c/_chance|chance]], or [[f/_fortuitous|fortuitous]] [[e/_event|event]]; [[c/_chance|chance]]; [[f/_fortune|fortune]]; [[l/_luck|luck]].**
+- **That which [[h/_happens|happens]]; an [[o/_occurrence|occurrence]] or [[h/_happening|happening]], [[e/_especially|especially]] an unexpected, [[r/_random|random]], [[c/_chance|chance]], or [[f/_fortuitous|fortuitous]] [[e/_event|event]]; [[c/_chance|chance]]; [[f/_fortune|fortune]]; [[l/_luck|luck]].**
 ---
 ### Synonyms
 - [[h/_hazard|hazard]], [[s/_serendipity|serendipity]], [[a/_affairs|affairs]]

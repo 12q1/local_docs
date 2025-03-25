@@ -1,6 +1,6 @@
 # Hairstyling
 ---
 #noun
-- **The [[a/_act|act]] or process of styling [[h/_hair|hair]].**
+- **The [[a/_act|act]] or [[p/_process|process]] of styling [[h/_hair|hair]].**
 ---
 ---

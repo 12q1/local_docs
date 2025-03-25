@@ -1,6 +1,6 @@
 # Dopier
 ---
 #adjective
-- **Stupid, silly.**
+- **Stupid, [[s/_silly|silly]].**
 ---
 ---

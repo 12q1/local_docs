@@ -1,6 +1,6 @@
 # Hardbacks
 ---
 #noun
-- **A [[b/_book|book]] with a solid [[b/_binding|binding]].**
+- **A [[b/_book|book]] with a [[s/_solid|solid]] [[b/_binding|binding]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Fleshy
 ---
 #adjective
-- **Of, related to, or resembling [[f/_flesh|flesh]].**
+- **Of, [[r/_related|related]] to, or [[r/_resembling|resembling]] [[f/_flesh|flesh]].**
 - **(of a [[p/_person|person]]) [[h/_having|Having]] [[c/_considerable|considerable]] [[f/_flesh|flesh]]; [[p/_plump|plump]].**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Flexuous
 ---
 #adjective
-- **Winding from side to side; sinuous**
+- **Winding from [[s/_side|side]] to [[s/_side|side]]; [[s/_sinuous|sinuous]]**
 ---
 ---

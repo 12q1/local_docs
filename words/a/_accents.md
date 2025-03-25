@@ -1,36 +1,36 @@
 # Accents
 ---
 #noun
-- **A [[h/_higher|higher]]-[[p/_pitched|pitched]] or stronger [[a/_articulation|articulation]] of a [[p/_particular|particular]] syllable of a word or [[p/_phrase|phrase]] in [[o/_order|order]] to [[d/_distinguish|distinguish]] it from the [[o/_others|others]] or to [[e/_emphasize|emphasize]] it.**
+- **A [[h/_higher|higher]]-[[p/_pitched|pitched]] or stronger [[a/_articulation|articulation]] of a [[p/_particular|particular]] [[s/_syllable|syllable]] of a word or [[p/_phrase|phrase]] in [[o/_order|order]] to [[d/_distinguish|distinguish]] it from the [[o/_others|others]] or to [[e/_emphasize|emphasize]] it.**
 	- _Example: In the word "careful", the accent is placed on the first syllable._
 - **[[e/_emphasis|Emphasis]] or [[i/_importance|importance]] in [[g/_general|general]].**
 	- _Example: At this hotel, the accent is on luxury._
-- **A [[m/_mark|mark]] or [[c/_character|character]] used in writing, in [[o/_order|order]] to [[i/_indicate|indicate]] the [[p/_place|place]] of the spoken [[a/_accent|accent]], or to [[i/_indicate|indicate]] the [[n/_nature|nature]] or quality of the vowel [[m/_marked|marked]].**
+- **A [[m/_mark|mark]] or [[c/_character|character]] used in writing, in [[o/_order|order]] to [[i/_indicate|indicate]] the [[p/_place|place]] of the spoken [[a/_accent|accent]], or to [[i/_indicate|indicate]] the [[n/_nature|nature]] or [[q/_quality|quality]] of the vowel [[m/_marked|marked]].**
 	- _Example: The name Cézanne is written with an acute accent._
-- **[[m/_modulation|Modulation]] of the voice in speaking; the [[m/_manner|manner]] of speaking or pronouncing; a [[p/_peculiar|peculiar]] or [[c/_characteristic|characteristic]] [[m/_modification|modification]] of the voice, [[e/_expressing|expressing]] [[e/_emotion|emotion]]; tone.**
-- **The [[d/_distinctive|distinctive]] [[m/_manner|manner]] of pronouncing a [[l/_language|language]] [[a/_associated|associated]] with a [[p/_particular|particular]] region, social [[g/_group|group]], [[e/_etc|etc]]., whether of a [[n/_native|native]] speaker or a [[f/_foreign|foreign]] speaker; the [[p/_phonetic|phonetic]] and [[p/_phonological|phonological]] [[a/_aspects|aspects]] of a [[d/_dialect|dialect]].**
+- **[[m/_modulation|Modulation]] of the voice in [[s/_speaking|speaking]]; the [[m/_manner|manner]] of [[s/_speaking|speaking]] or [[p/_pronouncing|pronouncing]]; a [[p/_peculiar|peculiar]] or [[c/_characteristic|characteristic]] [[m/_modification|modification]] of the voice, [[e/_expressing|expressing]] [[e/_emotion|emotion]]; tone.**
+- **The [[d/_distinctive|distinctive]] [[m/_manner|manner]] of [[p/_pronouncing|pronouncing]] a [[l/_language|language]] [[a/_associated|associated]] with a [[p/_particular|particular]] [[r/_region|region]], [[s/_social|social]] [[g/_group|group]], [[e/_etc|etc]]., whether of a [[n/_native|native]] [[s/_speaker|speaker]] or a [[f/_foreign|foreign]] [[s/_speaker|speaker]]; the [[p/_phonetic|phonetic]] and [[p/_phonological|phonological]] [[a/_aspects|aspects]] of a [[d/_dialect|dialect]].**
 	- _Example: a broad Irish accent_
-- **(sign [[l/_languages|languages]]) A [[d/_distinctive|distinctive]] [[m/_manner|manner]] of producing a sign [[l/_language|language]], such as someone who [[d/_does|does]] not [[n/_normally|normally]] use a [[c/_certain|certain]] sign [[l/_language|language]] [[m/_might|might]] [[h/_have|have]] when using it.**
+- **([[s/_sign|sign]] [[l/_languages|languages]]) A [[d/_distinctive|distinctive]] [[m/_manner|manner]] of [[p/_producing|producing]] a [[s/_sign|sign]] [[l/_language|language]], such as [[s/_someone|someone]] who [[d/_does|does]] not [[n/_normally|normally]] use a [[c/_certain|certain]] [[s/_sign|sign]] [[l/_language|language]] [[m/_might|might]] [[h/_have|have]] when using it.**
 	- _Example: 2015 December 3, [./http//www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia accent in American Sign Language]_
-- **A word; a significant tone or sound.**
+- **A word; a [[s/_significant|significant]] tone or [[s/_sound|sound]].**
 - **(usually plurale tantum) [[e/_expressions|Expressions]] in [[g/_general|general]]; speech.**
-- **Stress [[l/_laid|laid]] on [[c/_certain|certain]] syllables of a verse.**
-- **A regularly recurring stress upon the tone to [[m/_mark|mark]] the [[b/_beginning|beginning]], and, [[m/_more|more]] [[f/_feebly|feebly]], the third [[p/_part|part]] of the [[m/_measure|measure]].**
+- **Stress [[l/_laid|laid]] on [[c/_certain|certain]] [[s/_syllables|syllables]] of a verse.**
+- **A [[r/_regularly|regularly]] [[r/_recurring|recurring]] stress upon the tone to [[m/_mark|mark]] the [[b/_beginning|beginning]], and, [[m/_more|more]] [[f/_feebly|feebly]], the third [[p/_part|part]] of the [[m/_measure|measure]].**
 - **A special [[e/_emphasis|emphasis]] of a tone, [[e/_even|even]] in the weaker [[p/_part|part]] of the [[m/_measure|measure]].**
-- **The rhythmical [[a/_accent|accent]], which [[m/_marks|marks]] [[p/_phrases|phrases]] and sections of a [[p/_period|period]].**
-- **The [[e/_expressive|expressive]] [[e/_emphasis|emphasis]] and shading of a [[p/_passage|passage]].**
-- **A [[m/_mark|mark]] used to represent specific stress on a [[n/_note|note]].**
-- **A [[m/_mark|mark]] [[p/_placed|placed]] at the right [[h/_hand|hand]] of a [[l/_letter|letter]], and a [[l/_little|little]] [[a/_above|above]] it, to [[d/_distinguish|distinguish]] [[m/_magnitudes|magnitudes]] of a similar [[k/_kind|kind]] [[e/_expressed|expressed]] by the same [[l/_letter|letter]], but [[d/_differing|differing]] in value, as [[y/_y|y]]', [[y/_y|y]]''.**
-- **A [[m/_mark|mark]] at the right [[h/_hand|hand]] of a [[n/_number|number]], [[i/_indicating|indicating]] [[m/_minutes|minutes]] of a [[d/_degree|degree]], seconds, [[e/_etc|etc]]., as in 12' 27'', [[m/_meaning|meaning]] twelve [[m/_minutes|minutes]] and twenty-seven seconds.**
-- **A [[m/_mark|mark]] used to [[d/_denote|denote]] [[f/_feet|feet]] and [[i/_inches|inches]], as in 6' 10'', [[m/_meaning|meaning]] six [[f/_feet|feet]] ten [[i/_inches|inches]].**
-- **[[e/_emphasis|Emphasis]] [[l/_laid|laid]] on a [[p/_part|part]] of an [[a/_artistic|artistic]] [[d/_design|design]] or [[c/_composition|composition]]; an [[e/_emphasized|emphasized]] [[d/_detail|detail]], in [[p/_particular|particular]] a [[d/_detail|detail]] in sharp [[c/_contrast|contrast]] to [[i/_its|its]] surroundings.**
-- **A very small [[g/_gemstone|gemstone]] set [[i/_into|into]] a [[p/_piece|piece]] of [[j/_jewellery|jewellery]].**
-- **A [[d/_distinctive|distinctive]] [[f/_feature|feature]] or quality.**
+- **The [[r/_rhythmical|rhythmical]] [[a/_accent|accent]], which [[m/_marks|marks]] [[p/_phrases|phrases]] and [[s/_sections|sections]] of a [[p/_period|period]].**
+- **The [[e/_expressive|expressive]] [[e/_emphasis|emphasis]] and [[s/_shading|shading]] of a [[p/_passage|passage]].**
+- **A [[m/_mark|mark]] used to [[r/_represent|represent]] specific stress on a [[n/_note|note]].**
+- **A [[m/_mark|mark]] [[p/_placed|placed]] at the [[r/_right|right]] [[h/_hand|hand]] of a [[l/_letter|letter]], and a [[l/_little|little]] [[a/_above|above]] it, to [[d/_distinguish|distinguish]] [[m/_magnitudes|magnitudes]] of a [[s/_similar|similar]] [[k/_kind|kind]] [[e/_expressed|expressed]] by the [[s/_same|same]] [[l/_letter|letter]], but [[d/_differing|differing]] in value, as [[y/_y|y]]', [[y/_y|y]]''.**
+- **A [[m/_mark|mark]] at the [[r/_right|right]] [[h/_hand|hand]] of a [[n/_number|number]], [[i/_indicating|indicating]] [[m/_minutes|minutes]] of a [[d/_degree|degree]], [[s/_seconds|seconds]], [[e/_etc|etc]]., as in 12' 27'', [[m/_meaning|meaning]] twelve [[m/_minutes|minutes]] and twenty-[[s/_seven|seven]] [[s/_seconds|seconds]].**
+- **A [[m/_mark|mark]] used to [[d/_denote|denote]] [[f/_feet|feet]] and [[i/_inches|inches]], as in 6' 10'', [[m/_meaning|meaning]] [[s/_six|six]] [[f/_feet|feet]] ten [[i/_inches|inches]].**
+- **[[e/_emphasis|Emphasis]] [[l/_laid|laid]] on a [[p/_part|part]] of an [[a/_artistic|artistic]] [[d/_design|design]] or [[c/_composition|composition]]; an [[e/_emphasized|emphasized]] [[d/_detail|detail]], in [[p/_particular|particular]] a [[d/_detail|detail]] in [[s/_sharp|sharp]] [[c/_contrast|contrast]] to [[i/_its|its]] surroundings.**
+- **A very [[s/_small|small]] [[g/_gemstone|gemstone]] [[s/_set|set]] [[i/_into|into]] a [[p/_piece|piece]] of [[j/_jewellery|jewellery]].**
+- **A [[d/_distinctive|distinctive]] [[f/_feature|feature]] or [[q/_quality|quality]].**
 - **Utterance.**
 ---
 #verb
 - **To [[e/_express|express]] the [[a/_accent|accent]] of vocally; to utter with [[a/_accent|accent]].**
-- **To [[m/_mark|mark]] [[e/_emphatically|emphatically]]; to [[e/_emphasize|emphasize]]; to [[a/_accentuate|accentuate]]; to [[m/_make|make]] prominent.**
+- **To [[m/_mark|mark]] [[e/_emphatically|emphatically]]; to [[e/_emphasize|emphasize]]; to [[a/_accentuate|accentuate]]; to [[m/_make|make]] [[p/_prominent|prominent]].**
 - **To [[m/_mark|mark]] with written [[a/_accents|accents]].**
 ---
 ---

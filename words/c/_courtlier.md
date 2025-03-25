@@ -1,9 +1,9 @@
 # Courtlier
 ---
 #adjective
-- **[[b/_befitting|Befitting]] of a royal [[c/_court|court]]; reflecting the [[m/_manners|manners]] or [[b/_behaviour|behaviour]] of [[p/_people|people]] at [[c/_court|court]].**
+- **[[b/_befitting|Befitting]] of a [[r/_royal|royal]] [[c/_court|court]]; [[r/_reflecting|reflecting]] the [[m/_manners|manners]] or [[b/_behaviour|behaviour]] of [[p/_people|people]] at [[c/_court|court]].**
 	- _Example: He swept off his hat and made a deep courtly bow._
-- **Of or relating to a royal [[c/_court|court]].**
+- **Of or [[r/_relating|relating]] to a [[r/_royal|royal]] [[c/_court|court]].**
 	- _Example: She tried to remain aloof from courtly intrigues._
 - **[[o/_overly|Overly]] [[e/_eager|eager]] to [[p/_please|please]] or [[o/_obey|obey]].**
 ---

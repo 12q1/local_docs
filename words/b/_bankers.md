@@ -12,7 +12,7 @@
 - **A [[b/_banksman|banksman]].**
 ---
 #noun
-- **A railway [[l/_locomotive|locomotive]] that [[c/_can|can]] be [[a/_attached|attached]] to the rear of a train to [[a/_assist|assist]] it in [[c/_climbing|climbing]] an [[i/_incline|incline]].**
+- **A [[r/_railway|railway]] [[l/_locomotive|locomotive]] that [[c/_can|can]] be [[a/_attached|attached]] to the [[r/_rear|rear]] of a train to [[a/_assist|assist]] it in [[c/_climbing|climbing]] an [[i/_incline|incline]].**
 ---
 ### Synonyms
 - [[h/_helper|helper]]

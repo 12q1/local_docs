@@ -2,34 +2,34 @@
 ---
 #verb
 - **To [[m/_move|move]]:**
-- **([[c/_chiefly|chiefly]] of a [[m/_machine|machine]]) To work or [[f/_function|function]] (properly); to [[m/_move|move]] or [[p/_perform|perform]] (as required).**
+- **([[c/_chiefly|chiefly]] of a [[m/_machine|machine]]) To work or [[f/_function|function]] ([[p/_properly|properly]]); to [[m/_move|move]] or [[p/_perform|perform]] (as [[r/_required|required]]).**
 	- _Example: The engine just won't go anymore._
-- **To start; to [[b/_begin|begin]] (an [[a/_action|action]] or process).**
+- **To start; to [[b/_begin|begin]] (an [[a/_action|action]] or [[p/_process|process]]).**
 	- _Example: Get ready, get set, go!_
 - **To take a turn, [[e/_especially|especially]] in a [[g/_game|game]].**
 	- _Example: It’s your turn; go._
 - **To [[a/_attend|attend]].**
 	- _Example: I go to school at the schoolhouse._
-- **To proceed:**
+- **To [[p/_proceed|proceed]]:**
 - **To [[f/_follow|follow]] or travel [[a/_along|along]] (a [[p/_path|path]]):**
-- **To [[e/_extend|extend]] (from [[o/_one|one]] [[p/_point|point]] in time or space to [[a/_another|another]]).**
+- **To [[e/_extend|extend]] (from [[o/_one|one]] [[p/_point|point]] in time or [[s/_space|space]] to [[a/_another|another]]).**
 	- _Example: This property goes all the way to the state line._
 - **To [[l/_lead|lead]] (to a [[p/_place|place]]); to [[g/_give|give]] [[a/_access|access]] to.**
 	- _Example: Does this road go to Fort Smith?_
 - **To [[b/_become|become]]. (The [[a/_adjective|adjective]] that [[f/_follows|follows]] usually [[d/_describes|describes]] a [[n/_negative|negative]] state.)**
 	- _Example: After failing as a criminal, he decided to go straight._
-- **To [[a/_assume|assume]] the [[o/_obligation|obligation]] or [[f/_function|function]] of; to be, to serve as.**
+- **To [[a/_assume|assume]] the [[o/_obligation|obligation]] or [[f/_function|function]] of; to be, to [[s/_serve|serve]] as.**
 - **To [[c/_continuously|continuously]] or [[h/_habitually|habitually]] be in a state.**
 	- _Example: I don't want my children to go hungry._
 - **To [[c/_come|come]] to (a [[c/_certain|certain]] [[c/_condition|condition]] or state).**
 	- _Example: They went into debt, she goes to sleep around 10 o'clock._
 - **To [[c/_change|change]] (from [[o/_one|one]] value to [[a/_another|another]]) in the [[m/_meaning|meaning]] of wend.**
 	- _Example: The traffic light went straight from green to red._
-- **To turn [[o/_out|out]], to result; to [[c/_come|come]] to (a [[c/_certain|certain]] result).**
+- **To turn [[o/_out|out]], to [[r/_result|result]]; to [[c/_come|come]] to (a [[c/_certain|certain]] [[r/_result|result]]).**
 	- _Example: How did your meeting with Smith go?_
-- **To tend (toward a result).**
+- **To tend (toward a [[r/_result|result]]).**
 	- _Example: These experiences go to make us stronger._
-- **To [[c/_contribute|contribute]] to a (specified) [[e/_end|end]] product or result.**
+- **To [[c/_contribute|contribute]] to a (specified) [[e/_end|end]] [[p/_product|product]] or [[r/_result|result]].**
 	- _Example: qualities that go to make a lady / lip-reader / sharpshooter_
 - **To [[p/_pass|pass]], to be used up:**
 - **To [[d/_die|die]].**
@@ -37,28 +37,28 @@
 	- _Example: This chair has got to go._
 - **To be [[l/_lost|lost]] or [[o/_out|out]]:**
 - **To [[b/_break|break]] [[d/_down|down]] or [[a/_apart|apart]]:**
-- **To be sold.**
+- **To be [[s/_sold|sold]].**
 	- _Example: Everything must go._
 - **To be [[g/_given|given]], [[e/_especially|especially]] to be [[a/_assigned|assigned]] or [[a/_allotted|allotted]].**
 	- _Example: The award went to Steven Spielberg._
 - **To survive or [[g/_get|get]] by; to [[l/_last|last]] or [[p/_persist|persist]] for a stated [[l/_length|length]] of time.**
 	- _Example: Can you two go twenty minutes without arguing?!_
-- **To [[h/_have|have]] a [[c/_certain|certain]] record.**
+- **To [[h/_have|have]] a [[c/_certain|certain]] [[r/_record|record]].**
 	- _Example: The team is going five in a row._
 - **To be [[a/_authoritative|authoritative]], [[a/_accepted|accepted]], or valid:**
-- **To say (something), to [[m/_make|make]] a sound:**
+- **To [[s/_say|say]] ([[s/_something|something]]), to [[m/_make|make]] a [[s/_sound|sound]]:**
 - **To be [[e/_expressed|expressed]] or [[c/_composed|composed]] (a [[c/_certain|certain]] way).**
 	- _Example: As the story goes, he got the idea for the song while sitting in traffic._
-- **To resort (to).**
+- **To [[r/_resort|resort]] (to).**
 	- _Example: I'll go to court if I have to._
 - **To [[a/_apply|apply]] or subject [[o/_oneself|oneself]] to:**
-- **To [[f/_fit|fit]] (in a [[p/_place|place]], or together with something):**
+- **To [[f/_fit|fit]] (in a [[p/_place|place]], or together with [[s/_something|something]]):**
 - **To [[d/_date|date]].**
 	- _Example: He's been going with her for two weeks._
 - **To [[a/_attack|attack]]:**
 - **To be in [[g/_general|general]]; to be usually.**
 	- _Example: As sentences go, this one is pretty boring._
-- **To take (a [[p/_particular|particular]] [[p/_part|part]] or share); to [[p/_participate|participate]] in to the [[e/_extent|extent]] of.**
+- **To take (a [[p/_particular|particular]] [[p/_part|part]] or [[s/_share|share]]); to [[p/_participate|participate]] in to the [[e/_extent|extent]] of.**
 	- _Example: Let's go halves on this._
 - **To [[y/_yield|yield]] or weigh.**
 	- _Example: Those babies go five tons apiece._
@@ -76,21 +76,21 @@
 #noun
 - **A [[d/_departure|departure]].**
 	- _Example: Thy going is not lonely, with thee goes thy Husband_
-- **The suitability of [[g/_ground|ground]] for riding, walking [[e/_etc|etc]].**
+- **The suitability of [[g/_ground|ground]] for [[r/_riding|riding]], walking [[e/_etc|etc]].**
 	- _Example: The going was very difficult over the ice._
-- **Progress.**
+- **[[p/_progress|Progress]].**
 	- _Example: We made good going for a while, but then we came to the price._
 - **[[c/_conditions|Conditions]] for [[a/_advancing|advancing]] in [[a/_any|any]] way.**
 	- _Example: Not only were the streets not paved with gold, but the going was difficult for an immigrant._
 - **[[p/_pregnancy|Pregnancy]]; [[g/_gestation|gestation]]; [[c/_childbearing|childbearing]]**
 - **(in the [[p/_plural|plural]]) [[c/_course|Course]] of [[l/_life|life]]; [[b/_behaviour|behaviour]]; [[d/_doings|doings]]; ways.**
-- **(in the [[p/_phrase|phrase]] "the [[g/_going|going]] of") The whereabouts (of something).**
+- **(in the [[p/_phrase|phrase]] "the [[g/_going|going]] of") The whereabouts (of [[s/_something|something]]).**
 	- _Example: I can't find my sunglasses; you haven't seen the going of them, have you?_
 ---
 #adjective
 - **[[l/_likely|Likely]] to [[c/_continue|continue]]; viable.**
 	- _Example: He didn't want to make an unsecured loan to the business because it didn't look like a going concern._
-- **[[c/_current|Current]], prevailing.**
+- **[[c/_current|Current]], [[p/_prevailing|prevailing]].**
 	- _Example: The going rate for manual snow-shoveling is $25 an hour._
 - **([[e/_especially|especially]] [[a/_after|after]] a [[n/_noun|noun]] [[p/_phrase|phrase]] with a superlative) [[a/_available|Available]].**
 	- _Example: He has the easiest job going._

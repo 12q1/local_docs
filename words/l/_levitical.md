@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to the Levites**
-- **Priestly**
+- **[[p/_priestly|Priestly]]**
 ---
 ---

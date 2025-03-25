@@ -1,14 +1,14 @@
 # Abrupt
 ---
 #noun
-- **Something which is [[a/_abrupt|abrupt]]; an [[a/_abyss|abyss]].**
+- **[[s/_something|Something]] which is [[a/_abrupt|abrupt]]; an [[a/_abyss|abyss]].**
 ---
 #verb
 - **To tear [[o/_off|off]] or [[a/_asunder|asunder]].**
 - **To [[i/_interrupt|interrupt]] suddenly.**
 ---
 #adjective
-- **[[b/_broken|Broken]] [[a/_away|away]] (from restraint).**
+- **[[b/_broken|Broken]] [[a/_away|away]] (from [[r/_restraint|restraint]]).**
 - **Without [[n/_notice|notice]] to [[p/_prepare|prepare]] the [[m/_mind|mind]] for the [[e/_event|event]]; sudden; [[h/_hasty|hasty]]; unceremonious.**
 	- _Example: The party came to an abrupt end when the parents of our host arrived._
 - **[[c/_curt|Curt]] in [[m/_manner|manner]].**

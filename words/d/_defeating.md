@@ -3,7 +3,7 @@
 #verb
 - **To [[o/_overcome|overcome]] in [[b/_battle|battle]] or [[c/_contest|contest]].**
 	- _Example: Wellington defeated Napoleon at Waterloo._
-- **To reduce, to [[n/_nothing|nothing]], the strength of.**
+- **To [[r/_reduce|reduce]], to [[n/_nothing|nothing]], the strength of.**
 - **To [[n/_nullify|nullify]]**
 ---
 ### Synonyms

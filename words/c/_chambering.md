@@ -1,10 +1,10 @@
 # Chambering
 ---
 #verb
-- **To [[e/_enclose|enclose]] in a room.**
+- **To [[e/_enclose|enclose]] in a [[r/_room|room]].**
 	- _Example: She had chambered herself in her room, and wouldn't come out._
-- **To reside in or [[o/_occupy|occupy]] a [[c/_chamber|chamber]] or [[c/_chambers|chambers]].**
-- **To [[p/_place|place]] in a [[c/_chamber|chamber]], as a round of [[a/_ammunition|ammunition]].**
+- **To [[r/_reside|reside]] in or [[o/_occupy|occupy]] a [[c/_chamber|chamber]] or [[c/_chambers|chambers]].**
+- **To [[p/_place|place]] in a [[c/_chamber|chamber]], as a [[r/_round|round]] of [[a/_ammunition|ammunition]].**
 	- _Example: The hunter fired at the geese and missed, then shrugged his shoulders and chambered another cartridge._
 - **To [[c/_create|create]] or [[m/_modify|modify]] a [[g/_gun|gun]] to be a specific [[c/_caliber|caliber]].**
 	- _Example: The rifle was originally chambered for 9mm, but had since been modified for a larger, wildcat caliber._

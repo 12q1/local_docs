@@ -1,6 +1,6 @@
 # Amatory
 ---
 #adjective
-- **Of or relating to [[l/_love|love]], [[e/_especially|especially]] sexual [[l/_love|love]].**
+- **Of or [[r/_relating|relating]] to [[l/_love|love]], [[e/_especially|especially]] [[s/_sexual|sexual]] [[l/_love|love]].**
 ---
 ---

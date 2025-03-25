@@ -1,6 +1,6 @@
 # Filoselle
 ---
 #noun
-- **A soft silk [[e/_embroidery|embroidery]] thread**
+- **A [[s/_soft|soft]] [[s/_silk|silk]] [[e/_embroidery|embroidery]] thread**
 ---
 ---

@@ -9,6 +9,6 @@
 - [[a/_argot|argot]], [[c/_cant|cant]], [[i/_intalk|intalk]], [[v/_vernacular|vernacular]]
 #noun
 - **A variety of zircon.**
-- **A [[f/_fake|fake]] ring or [[o/_other|other]] [[j/_jewellery|jewellery]] sold as [[g/_genuine|genuine]].**
+- **A [[f/_fake|fake]] [[r/_ring|ring]] or [[o/_other|other]] [[j/_jewellery|jewellery]] [[s/_sold|sold]] as [[g/_genuine|genuine]].**
 ---
 ---

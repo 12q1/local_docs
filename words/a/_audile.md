@@ -1,7 +1,7 @@
 # Audile
 ---
 #noun
-- **A [[p/_person|person]] whose [[m/_mental|mental]] [[i/_imagery|imagery]] [[c/_consists|consists]] of sounds.**
+- **A [[p/_person|person]] whose [[m/_mental|mental]] [[i/_imagery|imagery]] [[c/_consists|consists]] of [[s/_sounds|sounds]].**
 ---
 #adjective
 - **[[p/_pertaining|Pertaining]] to [[h/_hearing|hearing]].**

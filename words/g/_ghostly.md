@@ -5,7 +5,7 @@
 	- _Example: The ghostly moaning was heard from upstairs._
 - **Spooky; [[f/_frightening|frightening]].**
 	- _Example: A ghostly hush fell._
-- **Relating to the soul; not [[c/_carnal|carnal]] or secular; spiritual.**
+- **[[r/_relating|Relating]] to the [[s/_soul|soul]]; not [[c/_carnal|carnal]] or [[s/_secular|secular]]; spiritual.**
 	- _Example: a ghostly confessor_
 ---
 ---

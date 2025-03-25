@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[e/_encounter|encounter]] or [[d/_discover|discover]] by [[a/_accident|accident]]; to [[h/_happen|happen]] upon.**
-- **To [[e/_encounter|encounter]] or [[d/_discover|discover]] something [[b/_being|being]] searched for; to [[l/_locate|locate]].**
+- **To [[e/_encounter|encounter]] or [[d/_discover|discover]] [[s/_something|something]] [[b/_being|being]] [[s/_searched|searched]] for; to [[l/_locate|locate]].**
 	- _Example: I found my car keys. They were under the couch._
 - **(ditransitive) To [[d/_discover|discover]] by study or [[e/_experiment|experiment]] [[d/_direct|direct]] to an [[o/_object|object]] or [[e/_end|end]].**
 	- _Example: Water is found to be a compound substance._
@@ -18,7 +18,7 @@
 	- _Example: to find a verdict; to find a true bill (of indictment) against an accused person_
 - **To supply; to [[f/_furnish|furnish]].**
 	- _Example: to find food for workmen_
-- **To provide for**
+- **To [[p/_provide|provide]] for**
 	- _Example: He finds his nephew in money._
 - **To [[d/_determine|determine]] or [[j/_judge|judge]].**
 	- _Example: The jury finds for the defendant._
@@ -27,11 +27,11 @@
 ### Antonyms
 - [[l/_lose|lose]]
 #noun
-- **A result of research or an [[i/_investigation|investigation]].**
-- **A [[f/_formal|formal]] [[c/_conclusion|conclusion]] by a [[j/_judge|judge]], [[j/_jury|jury]] or regulatory [[a/_agency|agency]] on [[i/_issues|issues]] of [[f/_fact|fact]].**
+- **A [[r/_result|result]] of [[r/_research|research]] or an [[i/_investigation|investigation]].**
+- **A [[f/_formal|formal]] [[c/_conclusion|conclusion]] by a [[j/_judge|judge]], [[j/_jury|jury]] or [[r/_regulatory|regulatory]] [[a/_agency|agency]] on [[i/_issues|issues]] of [[f/_fact|fact]].**
 - **That which is [[f/_found|found]], a [[f/_find|find]], a [[d/_discovery|discovery]].**
-- **The [[a/_act|act]] of [[d/_discovering|discovering]] something by [[c/_chance|chance]], an [[i/_instance|instance]] of [[f/_finding|finding]] something by [[c/_chance|chance]].**
-- **([[g/_generally|generally]] [[p/_plural|plural]]) Tools or [[m/_materials|materials]] used in shoe [[m/_making|making]] or repair.**
-- **A self-[[c/_contained|contained]] [[c/_component|component]] of [[a/_assembled|assembled]] [[j/_jewellery|jewellery]].**
+- **The [[a/_act|act]] of [[d/_discovering|discovering]] [[s/_something|something]] by [[c/_chance|chance]], an [[i/_instance|instance]] of [[f/_finding|finding]] [[s/_something|something]] by [[c/_chance|chance]].**
+- **([[g/_generally|generally]] [[p/_plural|plural]]) Tools or [[m/_materials|materials]] used in [[s/_shoe|shoe]] [[m/_making|making]] or [[r/_repair|repair]].**
+- **A [[s/_self|self]]-[[c/_contained|contained]] [[c/_component|component]] of [[a/_assembled|assembled]] [[j/_jewellery|jewellery]].**
 ---
 ---

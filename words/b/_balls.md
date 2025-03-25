@@ -1,11 +1,11 @@
 # Balls
 ---
 #noun
-- **A solid or [[h/_hollow|hollow]] sphere, or roughly spherical [[m/_mass|mass]].**
+- **A [[s/_solid|solid]] or [[h/_hollow|hollow]] sphere, or [[r/_roughly|roughly]] spherical [[m/_mass|mass]].**
 	- _Example: a ball of spittle; a fecal ball_
-- **A round or [[e/_ellipsoidal|ellipsoidal]] [[o/_object|object]].**
+- **A [[r/_round|round]] or [[e/_ellipsoidal|ellipsoidal]] [[o/_object|object]].**
 - **([[m/_mildly|mildly]], usually in the [[p/_plural|plural]]) A testicle.**
-- **A [[l/_leather|leather]]-[[c/_covered|covered]] [[c/_cushion|cushion]], [[f/_fastened|fastened]] to a [[h/_handle|handle]] [[c/_called|called]] a [[b/_ballstock|ballstock]]; [[f/_formerly|formerly]] used by printers for [[i/_inking|inking]] the [[f/_form|form]], then superseded by the roller.**
+- **A [[l/_leather|leather]]-[[c/_covered|covered]] [[c/_cushion|cushion]], [[f/_fastened|fastened]] to a [[h/_handle|handle]] [[c/_called|called]] a [[b/_ballstock|ballstock]]; [[f/_formerly|formerly]] used by [[p/_printers|printers]] for [[i/_inking|inking]] the [[f/_form|form]], then superseded by the [[r/_roller|roller]].**
 - **A [[l/_large|large]] [[p/_pill|pill]], a [[f/_form|form]] in which [[m/_medicine|medicine]] was [[g/_given|given]] to [[h/_horses|horses]]; a [[b/_bolus|bolus]].**
 ---
 ### Synonyms
@@ -13,13 +13,13 @@
 #verb
 - **To [[f/_form|form]] or wind [[i/_into|into]] a [[b/_ball|ball]].**
 	- _Example: to ball cotton_
-- **To [[h/_heat|heat]] in a [[f/_furnace|furnace]] and [[f/_form|form]] [[i/_into|into]] [[b/_balls|balls]] for rolling.**
-- **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
-- **To [[g/_gather|gather]] [[b/_balls|balls]] which [[c/_cling|cling]] to the [[f/_feet|feet]], as of [[d/_damp|damp]] snow or [[c/_clay|clay]]; to [[g/_gather|gather]] [[i/_into|into]] [[b/_balls|balls]].**
+- **To [[h/_heat|heat]] in a [[f/_furnace|furnace]] and [[f/_form|form]] [[i/_into|into]] [[b/_balls|balls]] for [[r/_rolling|rolling]].**
+- **To [[h/_have|have]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]] with.**
+- **To [[g/_gather|gather]] [[b/_balls|balls]] which [[c/_cling|cling]] to the [[f/_feet|feet]], as of [[d/_damp|damp]] [[s/_snow|snow]] or [[c/_clay|clay]]; to [[g/_gather|gather]] [[i/_into|into]] [[b/_balls|balls]].**
 	- _Example: The horse balls; the snow balls._
 - **(usually in [[p/_present|present]] [[p/_participle|participle]]) To be [[h/_hip|hip]] or [[c/_cool|cool]].**
 - **To [[p/_play|play]] [[b/_basketball|basketball]].**
-- **To punish by [[a/_affixing|affixing]] a [[b/_ball|ball]] and [[c/_chain|chain]]**
+- **To [[p/_punish|punish]] by [[a/_affixing|affixing]] a [[b/_ball|ball]] and [[c/_chain|chain]]**
 ---
 ### Synonyms
 - [[r/_roll|roll]], [[w/_wad|wad]], [[b/_bonk|bonk]], [[f/_fuck|fuck]], [[l/_lay|lay]], [[s/_screw|screw]], [[s/_shag|shag]]
@@ -31,8 +31,8 @@
 ### Synonyms
 - [[b/_blast|blast]]
 #verb
-- **Speaking or [[a/_acting|acting]] with [[b/_bravado|bravado]] to [[a/_achieve|achieve]] (something)**
-- **To [[e/_engage|engage]] in sexual [[i/_intercourse|intercourse]].**
+- **[[s/_speaking|Speaking]] or [[a/_acting|acting]] with [[b/_bravado|bravado]] to [[a/_achieve|achieve]] ([[s/_something|something]])**
+- **To [[e/_engage|engage]] in [[s/_sexual|sexual]] [[i/_intercourse|intercourse]].**
 ---
 #adverb
 - **Very. [[i/_intensifier|Intensifier]].**

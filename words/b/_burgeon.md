@@ -1,7 +1,7 @@
 # Burgeon
 ---
 #noun
-- **A [[b/_bud|bud]], sprout, shoot.**
+- **A [[b/_bud|bud]], sprout, [[s/_shoot|shoot]].**
 ---
 #verb
 - **To [[g/_grow|grow]] or [[e/_expand|expand]].**

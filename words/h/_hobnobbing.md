@@ -10,7 +10,7 @@
 ### Synonyms
 - [[f/_fraternize|fraternize]]
 #noun
-- **A [[f/_friendly|friendly]], [[i/_informal|informal]] session of talking or [[d/_drinking|drinking]].**
+- **A [[f/_friendly|friendly]], [[i/_informal|informal]] [[s/_session|session]] of talking or [[d/_drinking|drinking]].**
 	- _Example: his hobnobbings with the crowned heads of Europe_
 ---
 ---

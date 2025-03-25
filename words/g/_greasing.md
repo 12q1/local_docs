@@ -1,10 +1,10 @@
 # Greasing
 ---
 #verb
-- **To put [[g/_grease|grease]] or [[f/_fat|fat]] on something, [[e/_especially|especially]] in [[o/_order|order]] to [[l/_lubricate|lubricate]].**
+- **To [[p/_put|put]] [[g/_grease|grease]] or [[f/_fat|fat]] on [[s/_something|something]], [[e/_especially|especially]] in [[o/_order|order]] to [[l/_lubricate|lubricate]].**
 - **To [[b/_bribe|bribe]].**
 - **To [[c/_cause|cause]] to [[g/_go|go]] [[e/_easily|easily]]; to [[f/_facilitate|facilitate]].**
-- **To [[p/_perform|perform]] a [[l/_landing|landing]] [[e/_extraordinarily|extraordinarily]] smoothly.**
+- **To [[p/_perform|perform]] a [[l/_landing|landing]] [[e/_extraordinarily|extraordinarily]] [[s/_smoothly|smoothly]].**
 	- _Example: To my amazement, I greased the landing despite the tricky crosswinds._
 - **To [[k/_kill|kill]], [[m/_murder|murder]].**
 - **To [[c/_cheat|cheat]] or [[c/_cozen|cozen]]; to [[o/_overreach|overreach]].**

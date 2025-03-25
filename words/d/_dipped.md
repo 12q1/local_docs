@@ -3,31 +3,31 @@
 #verb
 - **To [[l/_lower|lower]] [[i/_into|into]] a [[l/_liquid|liquid]].**
 	- _Example: Dip your biscuit into your tea._
-- **To [[i/_immerse|immerse]] [[o/_oneself|oneself]]; to [[b/_become|become]] [[p/_plunged|plunged]] in a [[l/_liquid|liquid]]; to sink.**
-- **(of a value or rate) To [[d/_decrease|decrease]] slightly.**
-- **To [[l/_lower|lower]] a [[l/_light|light]]'s [[b/_beam|beam]].**
+- **To [[i/_immerse|immerse]] [[o/_oneself|oneself]]; to [[b/_become|become]] [[p/_plunged|plunged]] in a [[l/_liquid|liquid]]; to [[s/_sink|sink]].**
+- **(of a value or [[r/_rate|rate]]) To [[d/_decrease|decrease]] [[s/_slightly|slightly]].**
+- **To [[l/_lower|lower]] a [[l/_light|light]]'[[s/_s|s]] [[b/_beam|beam]].**
 	- _Example: Dip your lights as you meet an oncoming car._
-- **To [[l/_lower|lower]] (a [[f/_flag|flag]]), [[p/_particularly|particularly]] a [[n/_national|national]] [[e/_ensign|ensign]], to a [[p/_partially|partially]] [[h/_hoisted|hoisted]] [[p/_position|position]] in [[o/_order|order]] to render or to return a salute. While [[l/_lowered|lowered]], the [[f/_flag|flag]] is said to be “at the [[d/_dip|dip]].” A [[f/_flag|flag]] [[b/_being|being]] [[c/_carried|carried]] on a staff [[m/_may|may]] be [[d/_dipped|dipped]] by [[l/_leaning|leaning]] it [[f/_forward|forward]] at an [[a/_approximate|approximate]] [[a/_angle|angle]] of 45 [[d/_degrees|degrees]].**
+- **To [[l/_lower|lower]] (a [[f/_flag|flag]]), [[p/_particularly|particularly]] a [[n/_national|national]] [[e/_ensign|ensign]], to a [[p/_partially|partially]] [[h/_hoisted|hoisted]] [[p/_position|position]] in [[o/_order|order]] to [[r/_render|render]] or to [[r/_return|return]] a [[s/_salute|salute]]. While [[l/_lowered|lowered]], the [[f/_flag|flag]] is [[s/_said|said]] to be “at the [[d/_dip|dip]].” A [[f/_flag|flag]] [[b/_being|being]] [[c/_carried|carried]] on a staff [[m/_may|may]] be [[d/_dipped|dipped]] by [[l/_leaning|leaning]] it [[f/_forward|forward]] at an [[a/_approximate|approximate]] [[a/_angle|angle]] of 45 [[d/_degrees|degrees]].**
 	- _Example: “The sailor rushed to the flag hoist to dip the flag in return.”_
-- **To treat [[c/_cattle|cattle]] or sheep by [[i/_immersion|immersion]] in [[c/_chemical|chemical]] solution.**
+- **To treat [[c/_cattle|cattle]] or [[s/_sheep|sheep]] by [[i/_immersion|immersion]] in [[c/_chemical|chemical]] [[s/_solution|solution]].**
 	- _Example: The farmer is going to dip the cattle today._
 - **To use a [[d/_dip|dip]] stick to [[c/_check|check]] [[o/_oil|oil]] [[l/_level|level]] in an [[e/_engine|engine]].**
-- **To [[c/_consume|consume]] snuff by [[p/_placing|placing]] a [[p/_pinch|pinch]] [[b/_behind|behind]] the [[l/_lip|lip]] or under the tongue so that the [[a/_active|active]] [[c/_chemical|chemical]] [[c/_constituents|constituents]] of the snuff [[m/_may|may]] be [[a/_absorbed|absorbed]] [[i/_into|into]] the system for their [[n/_narcotic|narcotic]] [[e/_effect|effect]].**
+- **To [[c/_consume|consume]] [[s/_snuff|snuff]] by [[p/_placing|placing]] a [[p/_pinch|pinch]] [[b/_behind|behind]] the [[l/_lip|lip]] or under the tongue [[s/_so|so]] that the [[a/_active|active]] [[c/_chemical|chemical]] [[c/_constituents|constituents]] of the [[s/_snuff|snuff]] [[m/_may|may]] be [[a/_absorbed|absorbed]] [[i/_into|into]] the [[s/_system|system]] for their [[n/_narcotic|narcotic]] [[e/_effect|effect]].**
 - **To [[i/_immerse|immerse]] for [[b/_baptism|baptism]].**
 - **To wet, as [[i/_if|if]] by [[i/_immersing|immersing]]; to [[m/_moisten|moisten]].**
 - **To [[p/_plunge|plunge]] or [[e/_engage|engage]] thoroughly in [[a/_any|any]] [[a/_affair|affair]].**
-- **To take [[o/_out|out]], by [[d/_dipping|dipping]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]], or [[o/_other|other]] receptacle, [[i/_into|into]] a [[f/_fluid|fluid]] and removing a [[p/_part|part]]; [[o/_often|often]] with [[o/_out|out]].**
+- **To take [[o/_out|out]], by [[d/_dipping|dipping]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]], or [[o/_other|other]] [[r/_receptacle|receptacle]], [[i/_into|into]] a [[f/_fluid|fluid]] and [[r/_removing|removing]] a [[p/_part|part]]; [[o/_often|often]] with [[o/_out|out]].**
 	- _Example: to dip water from a boiler; to dip out water_
-- **To [[p/_perform|perform]] the [[a/_action|action]] of [[p/_plunging|plunging]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]]. [[e/_etc|etc]]. [[i/_into|into]] a [[l/_liquid|liquid]] or soft substance and removing a [[p/_part|part]].**
+- **To [[p/_perform|perform]] the [[a/_action|action]] of [[p/_plunging|plunging]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]]. [[e/_etc|etc]]. [[i/_into|into]] a [[l/_liquid|liquid]] or [[s/_soft|soft]] substance and [[r/_removing|removing]] a [[p/_part|part]].**
 - **To [[e/_engage|engage]] as a [[p/_pledge|pledge]]; to [[m/_mortgage|mortgage]].**
 - **To [[p/_perform|perform]] (a [[b/_bow|bow]] or [[c/_curtsey|curtsey]]) by [[i/_inclining|inclining]] the [[b/_body|body]].**
 - **To [[i/_incline|incline]] [[d/_downward|downward]] from the [[p/_plane|plane]] of the [[h/_horizon|horizon]].**
 	- _Example: Strata of rock dip._
 - **To [[p/_perform|perform]] a [[d/_dip|dip]] [[d/_dance|dance]] [[m/_move|move]] ([[o/_often|often]] [[p/_phrased|phrased]] with the [[l/_leader|leader]] as the subject [[n/_noun|noun]] and the [[f/_follower|follower]] as the subject [[n/_noun|noun]] [[b/_being|being]] [[d/_dipped|dipped]])**
-- **To [[l/_lower|lower]] the [[b/_body|body]] by [[b/_bending|bending]] the [[k/_knees|knees]] while [[k/_keeping|keeping]] the [[b/_body|body]] in an upright [[p/_position|position]], as in [[m/_movement|movement]] to the rhythm of [[m/_music|music]].**
+- **To [[l/_lower|lower]] the [[b/_body|body]] by [[b/_bending|bending]] the [[k/_knees|knees]] while [[k/_keeping|keeping]] the [[b/_body|body]] in an upright [[p/_position|position]], as in [[m/_movement|movement]] to the [[r/_rhythm|rhythm]] of [[m/_music|music]].**
 - **To [[l/_leave|leave]].**
 	- _Example: He dipped out of the room so fast._
-- **To [[m/_miss|miss]] [[o/_out|out]] on seeing a sought [[a/_after|after]] [[b/_bird|bird]].**
+- **To [[m/_miss|miss]] [[o/_out|out]] on [[s/_seeing|seeing]] a [[s/_sought|sought]] [[a/_after|after]] [[b/_bird|bird]].**
 ---
 #adjective
 - **That [[h/_has|has]] [[b/_been|been]] [[b/_briefly|briefly]] [[i/_immersed|immersed]] in a [[l/_liquid|liquid]].**

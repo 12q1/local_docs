@@ -1,6 +1,6 @@
 # Alevin
 ---
 #noun
-- **[[n/_newly|Newly]] [[h/_hatched|hatched]] [[f/_fish|fish]], [[e/_especially|especially]] salmon.**
+- **[[n/_newly|Newly]] [[h/_hatched|hatched]] [[f/_fish|fish]], [[e/_especially|especially]] [[s/_salmon|salmon]].**
 ---
 ---

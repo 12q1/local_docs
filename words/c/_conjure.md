@@ -11,7 +11,7 @@
 - **To [[e/_enchant|enchant]] or [[b/_bewitch|bewitch]].**
 - **To [[e/_evoke|evoke]].**
 - **To [[i/_imagine|imagine]] or [[p/_picture|picture]] in the [[m/_mind|mind]].**
-- **To [[m/_make|make]] an urgent request to; to [[a/_appeal|appeal]] to or [[b/_beseech|beseech]].**
+- **To [[m/_make|make]] an urgent [[r/_request|request]] to; to [[a/_appeal|appeal]] to or [[b/_beseech|beseech]].**
 - **To [[c/_conspire|conspire]] or [[p/_plot|plot]].**
 ---
 ### Synonyms

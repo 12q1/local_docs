@@ -5,6 +5,6 @@
 - **([[g/_grammar|grammar]]) A word [[i/_inflected|inflected]] in the [[g/_genitive|genitive]] [[c/_case|case]]; a word [[i/_indicating|indicating]] [[o/_origin|origin]], [[o/_ownership|ownership]] or [[p/_possession|possession]].**
 ---
 #adjective
-- **([[g/_grammar|grammar]]) Of or [[p/_pertaining|pertaining]] to that [[c/_case|case]] (as the second [[c/_case|case]] of [[l/_latin|Latin]] and [[g/_greek|Greek]] [[n/_nouns|nouns]]) which [[e/_expresses|expresses]] a quality, [[o/_origin|origin]] or [[p/_possession|possession]]. It [[c/_corresponds|corresponds]] to the [[p/_possessive|possessive]] [[c/_case|case]] in [[e/_english|English]].**
+- **([[g/_grammar|grammar]]) Of or [[p/_pertaining|pertaining]] to that [[c/_case|case]] (as the [[s/_second|second]] [[c/_case|case]] of [[l/_latin|Latin]] and [[g/_greek|Greek]] [[n/_nouns|nouns]]) which [[e/_expresses|expresses]] a [[q/_quality|quality]], [[o/_origin|origin]] or [[p/_possession|possession]]. It [[c/_corresponds|corresponds]] to the [[p/_possessive|possessive]] [[c/_case|case]] in [[e/_english|English]].**
 ---
 ---

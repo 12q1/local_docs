@@ -8,6 +8,6 @@
 - **The [[a/_act|act]] of [[c/_consuming|consuming]] or [[d/_destroying|destroying]].**
 	- _Example: The fire's consumption of the forest caused ecological changes._
 - **The wasting [[a/_away|away]] of the [[h/_human|human]] [[b/_body|body]] through [[d/_disease|disease]].**
-- **Pulmonary tuberculosis and [[o/_other|other]] [[d/_diseases|diseases]] that [[c/_cause|cause]] wasting [[a/_away|away]], [[l/_lung|lung]] [[i/_infection|infection]], [[e/_etc|etc]].**
+- **[[p/_pulmonary|Pulmonary]] tuberculosis and [[o/_other|other]] [[d/_diseases|diseases]] that [[c/_cause|cause]] wasting [[a/_away|away]], [[l/_lung|lung]] [[i/_infection|infection]], [[e/_etc|etc]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Awesomeness
 ---
 #noun
-- **The quality of [[b/_being|being]] [[a/_awesome|awesome]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[a/_awesome|awesome]].**
 ---
 ---

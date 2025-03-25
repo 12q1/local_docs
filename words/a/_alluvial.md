@@ -1,11 +1,11 @@
 # Alluvial
 ---
 #noun
-- **A [[d/_deposition|deposition]] of sediment [[o/_over|over]] a [[l/_long|long]] [[p/_period|period]] of time by a river; an [[a/_alluvial|alluvial]] [[l/_layer|layer]].**
-- **[[a/_alluvial|Alluvial]] soil; specifically, in [[a/_australia|Australia]], [[g/_gold|gold]]-[[b/_bearing|bearing]] [[a/_alluvial|alluvial]] soil.**
+- **A [[d/_deposition|deposition]] of [[s/_sediment|sediment]] [[o/_over|over]] a [[l/_long|long]] [[p/_period|period]] of time by a [[r/_river|river]]; an [[a/_alluvial|alluvial]] [[l/_layer|layer]].**
+- **[[a/_alluvial|Alluvial]] [[s/_soil|soil]]; specifically, in [[a/_australia|Australia]], [[g/_gold|gold]]-[[b/_bearing|bearing]] [[a/_alluvial|alluvial]] [[s/_soil|soil]].**
 ---
 #adjective
-- **[[p/_pertaining|Pertaining]] to the soil [[d/_deposited|deposited]] by a stream.**
+- **[[p/_pertaining|Pertaining]] to the [[s/_soil|soil]] [[d/_deposited|deposited]] by a stream.**
 ---
 ### Synonyms
 - [[f/_fluvial|fluvial]]

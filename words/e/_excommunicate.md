@@ -1,10 +1,10 @@
 # Excommunicate
 ---
 #noun
-- **A [[p/_person|person]] so [[e/_excluded|excluded]].**
+- **A [[p/_person|person]] [[s/_so|so]] [[e/_excluded|excluded]].**
 ---
 #verb
-- **To [[o/_officially|officially]] [[e/_exclude|exclude]] someone from [[m/_membership|membership]] of a [[c/_church|church]] or religious [[c/_community|community]].**
+- **To [[o/_officially|officially]] [[e/_exclude|exclude]] [[s/_someone|someone]] from [[m/_membership|membership]] of a [[c/_church|church]] or [[r/_religious|religious]] [[c/_community|community]].**
 - **To [[e/_exclude|exclude]] from [[a/_any|any]] [[o/_other|other]] [[g/_group|group]]; to [[b/_banish|banish]].**
 ---
 ### Synonyms

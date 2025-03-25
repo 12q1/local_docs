@@ -1,9 +1,9 @@
 # Esteems
 ---
 #verb
-- **To set a [[h/_high|high]] value on; to regard with respect or reverence.**
-- **To regard something as valuable; to prize.**
-- **To [[l/_look|look]] upon something in a [[p/_particular|particular]] way.**
+- **To [[s/_set|set]] a [[h/_high|high]] value on; to [[r/_regard|regard]] with [[r/_respect|respect]] or [[r/_reverence|reverence]].**
+- **To [[r/_regard|regard]] [[s/_something|something]] as valuable; to [[p/_prize|prize]].**
+- **To [[l/_look|look]] upon [[s/_something|something]] in a [[p/_particular|particular]] way.**
 	- _Example: Mary is an esteemed member of the community._
 - **To [[j/_judge|judge]]; to [[e/_estimate|estimate]]; to [[a/_appraise|appraise]]**
 	- _Example: The Earth, which I esteem unable to reflect the rays of the Sun._

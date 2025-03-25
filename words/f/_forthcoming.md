@@ -2,14 +2,14 @@
 ---
 #noun
 - **An [[a/_act|act]] of [[c/_coming|coming]] [[f/_forth|forth]].**
-- **Something that is [[y/_yet|yet]] to [[c/_come|come]].**
+- **[[s/_something|Something]] that is [[y/_yet|yet]] to [[c/_come|come]].**
 ---
 #adjective
 - **[[a/_approaching|Approaching]] or [[a/_about|about]] to take [[p/_place|place]].**
 	- _Example: I shall vote in the forthcoming election._
-- **[[a/_available|Available]] when [[n/_needed|needed]]; in [[p/_place|place]], ready.**
+- **[[a/_available|Available]] when [[n/_needed|needed]]; in [[p/_place|place]], [[r/_ready|ready]].**
 	- _Example: The money was not forthcoming._
-- **Willing to [[c/_co|co]]-[[o/_operate|operate]] or provide [[i/_information|information]]; [[c/_candid|candid]], [[f/_frank|frank]], responsive.**
+- **Willing to [[c/_co|co]]-[[o/_operate|operate]] or [[p/_provide|provide]] [[i/_information|information]]; [[c/_candid|candid]], [[f/_frank|frank]], [[r/_responsive|responsive]].**
 	- _Example: Once I explained why I needed to know, she was really forthcoming._
 ---
 ### Synonyms

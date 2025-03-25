@@ -5,7 +5,7 @@
 ---
 #adjective
 - **At the [[b/_beginning|beginning]], still in an unformed state.**
-- **([[g/_grammar|grammar]]) Aspectually [[i/_indicating|indicating]] that a state is [[a/_about|about]] to be [[e/_entered|entered]] or is in the process of [[b/_being|being]] [[e/_entered|entered]].**
-- **([[g/_grammar|grammar]]) [[i/_inflected|Inflected]] in or relating to the [[i/_inchoative|inchoative]] [[a/_aspect|aspect]].**
+- **([[g/_grammar|grammar]]) Aspectually [[i/_indicating|indicating]] that a state is [[a/_about|about]] to be [[e/_entered|entered]] or is in the [[p/_process|process]] of [[b/_being|being]] [[e/_entered|entered]].**
+- **([[g/_grammar|grammar]]) [[i/_inflected|Inflected]] in or [[r/_relating|relating]] to the [[i/_inchoative|inchoative]] [[a/_aspect|aspect]].**
 ---
 ---

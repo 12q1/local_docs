@@ -14,7 +14,7 @@
 - **[[a/_affixation|Affixation]]**
 ---
 #adjective
-- **Of the [[f/_function|function]] or role of an [[a/_affix|affix]]**
+- **Of the [[f/_function|function]] or [[r/_role|role]] of an [[a/_affix|affix]]**
 	- _Example: Prefixes, suffixes, and infixes are all affixing particles._
 ---
 ---

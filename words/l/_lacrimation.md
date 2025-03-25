@@ -1,6 +1,6 @@
 # Lacrimation
 ---
 #noun
-- **The shedding of tears; [[c/_crying|crying]].**
+- **The [[s/_shedding|shedding]] of tears; [[c/_crying|crying]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Guayabera
 ---
 #noun
-- **A [[l/_light|light]], [[o/_open|open]]-[[n/_necked|necked]], short-sleeved shirt worn by [[m/_men|men]] in [[l/_latin|Latin]] [[a/_america|America]] and the West [[i/_indies|Indies]].**
+- **A [[l/_light|light]], [[o/_open|open]]-[[n/_necked|necked]], [[s/_short|short]]-[[s/_sleeved|sleeved]] [[s/_shirt|shirt]] worn by [[m/_men|men]] in [[l/_latin|Latin]] [[a/_america|America]] and the West [[i/_indies|Indies]].**
 ---
 ---

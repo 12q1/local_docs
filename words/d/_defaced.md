@@ -1,7 +1,7 @@
 # Defaced
 ---
 #verb
-- **To [[d/_damage|damage]] or vandalize something, [[e/_especially|especially]] a surface, in a visible or [[c/_conspicuous|conspicuous]] [[m/_manner|manner]].**
+- **To [[d/_damage|damage]] or vandalize [[s/_something|something]], [[e/_especially|especially]] a surface, in a visible or [[c/_conspicuous|conspicuous]] [[m/_manner|manner]].**
 	- _Example: After the painting was defaced a decade ago, it went viral and has been a tourist attraction ever since._
 - **To void or [[d/_devalue|devalue]]; to [[n/_nullify|nullify]] or [[d/_degrade|degrade]] the [[f/_face|face]] value of.**
 	- _Example: He defaced the I.O.U. notes by scrawling "void" over them._

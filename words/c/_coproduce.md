@@ -1,6 +1,6 @@
 # Coproduce
 ---
 #verb
-- **To produce a [[c/_creative|creative]] work together with someone [[e/_else|else]]**
+- **To [[p/_produce|produce]] a [[c/_creative|creative]] work together with [[s/_someone|someone]] [[e/_else|else]]**
 ---
 ---

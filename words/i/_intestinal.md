@@ -1,6 +1,6 @@
 # Intestinal
 ---
 #adjective
-- **Relating to the [[i/_intestines|intestines]].**
+- **[[r/_relating|Relating]] to the [[i/_intestines|intestines]].**
 ---
 ---

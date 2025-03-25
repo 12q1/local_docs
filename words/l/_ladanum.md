@@ -1,6 +1,6 @@
 # Ladanum
 ---
 #noun
-- **A sticky [[b/_brown|brown]] resin [[o/_obtained|obtained]] from species of rockrose, used [[m/_mainly|mainly]] in [[p/_perfume|perfume]].**
+- **A sticky [[b/_brown|brown]] [[r/_resin|resin]] [[o/_obtained|obtained]] from species of [[r/_rockrose|rockrose]], used [[m/_mainly|mainly]] in [[p/_perfume|perfume]].**
 ---
 ---

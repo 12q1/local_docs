@@ -3,8 +3,8 @@
 #adjective
 - **Not [[c/_considerate|considerate]] of [[o/_others|others]].**
 	- _Example: Not replacing the roll after using the last of the toilet paper is very inconsiderate._
-- **Not [[g/_giving|giving]] [[e/_enough|enough]] [[c/_consideration|consideration]] to [[o/_one|one]]'s [[a/_actions|actions]], [[c/_conclusions|conclusions]], [[e/_etc|etc]].; [[a/_acting|acting]] too quickly without [[c/_considering|considering]] the risks and [[c/_consequences|consequences]].**
-- **Resulting from [[i/_insufficient|insufficient]] [[c/_consideration|consideration]].**
+- **Not [[g/_giving|giving]] [[e/_enough|enough]] [[c/_consideration|consideration]] to [[o/_one|one]]'[[s/_s|s]] [[a/_actions|actions]], [[c/_conclusions|conclusions]], [[e/_etc|etc]].; [[a/_acting|acting]] too [[q/_quickly|quickly]] without [[c/_considering|considering]] the [[r/_risks|risks]] and [[c/_consequences|consequences]].**
+- **[[r/_resulting|Resulting]] from [[i/_insufficient|insufficient]] [[c/_consideration|consideration]].**
 - **Of too [[l/_little|little]] value to be [[c/_considered|considered]].**
 ---
 ### Synonyms

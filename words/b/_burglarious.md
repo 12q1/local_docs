@@ -1,6 +1,6 @@
 # Burglarious
 ---
 #adjective
-- **[[b/_being|Being]] or resembling a [[b/_burglar|burglar]]**
+- **[[b/_being|Being]] or [[r/_resembling|resembling]] a [[b/_burglar|burglar]]**
 ---
 ---

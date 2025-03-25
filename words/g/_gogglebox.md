@@ -1,6 +1,6 @@
 # Gogglebox
 ---
 #noun
-- **Television set**
+- **Television [[s/_set|set]]**
 ---
 ---

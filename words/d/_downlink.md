@@ -1,11 +1,11 @@
 # Downlink
 ---
 #noun
-- **The transmission of a signal from a satellite to a receiving station on [[e/_earth|earth]]; or the [[m/_means|means]] of this transmission.**
+- **The transmission of a [[s/_signal|signal]] from a [[s/_satellite|satellite]] to a [[r/_receiving|receiving]] station on [[e/_earth|earth]]; or the [[m/_means|means]] of this transmission.**
 - **Transmission of [[d/_data|data]] from a [[n/_network|network]], usually wireless, to the user.**
 ---
 #verb
-- **To transmit a signal from a satellite to a terrestrial receiving station.**
+- **To transmit a [[s/_signal|signal]] from a [[s/_satellite|satellite]] to a terrestrial [[r/_receiving|receiving]] station.**
 ---
 ### Antonyms
 - [[u/_uplink|uplink]]

@@ -1,6 +1,6 @@
 # Christies
 ---
 #noun
-- **A [[h/_high|high]]-speed ski turn in which the skis are [[k/_kept|kept]] [[p/_parallel|parallel]].**
+- **A [[h/_high|high]]-speed [[s/_ski|ski]] turn in which the [[s/_skis|skis]] are [[k/_kept|kept]] [[p/_parallel|parallel]].**
 ---
 ---

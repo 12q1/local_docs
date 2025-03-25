@@ -1,7 +1,7 @@
 # Embarrassing
 ---
 #verb
-- **To [[h/_humiliate|humiliate]]; to [[d/_disrupt|disrupt]] somebody's [[c/_composure|composure]] or [[c/_comfort|comfort]] with [[a/_acting|acting]] publicly or [[f/_freely|freely]]; to [[d/_disconcert|disconcert]]; to [[a/_abash|abash]]**
+- **To [[h/_humiliate|humiliate]]; to [[d/_disrupt|disrupt]] [[s/_somebody|somebody]]'[[s/_s|s]] [[c/_composure|composure]] or [[c/_comfort|comfort]] with [[a/_acting|acting]] [[p/_publicly|publicly]] or [[f/_freely|freely]]; to [[d/_disconcert|disconcert]]; to [[a/_abash|abash]]**
 	- _Example: The crowd's laughter and jeers embarrassed him._
 - **To [[h/_hinder|hinder]] from [[l/_liberty|liberty]] of [[m/_movement|movement]]; to [[i/_impede|impede]]; to [[o/_obstruct|obstruct]].**
 	- _Example: The motion was advanced in order to embarrass the progress of the bill._
@@ -14,7 +14,7 @@
 - **The [[a/_action|action]] of the verb to [[e/_embarrass|embarrass]]; [[e/_embarrassment|embarrassment]].**
 ---
 #adjective
-- **[[c/_causing|Causing]] [[e/_embarrassment|embarrassment]]; [[l/_leading|leading]] to a [[f/_feeling|feeling]] of uncomfortable shame or self-[[c/_consciousness|consciousness]].**
+- **[[c/_causing|Causing]] [[e/_embarrassment|embarrassment]]; [[l/_leading|leading]] to a [[f/_feeling|feeling]] of uncomfortable [[s/_shame|shame]] or [[s/_self|self]]-[[c/_consciousness|consciousness]].**
 ---
 ### Synonyms
 - [[a/_awkward|awkward]], [[s/_shameful|shameful]]

@@ -5,6 +5,6 @@
 	- _Example: He played a quick improvisation on the keyboard._
 - **That which is [[i/_improvised|improvised]]; an [[i/_impromptu|impromptu]].**
 - **[[m/_musical|Musical]] technique, [[c/_characteristic|characteristic]] of [[b/_blues|blues]] [[m/_music|music]].**
-- **The [[a/_act|act]] of [[i/_improvising|improvising]], [[a/_acting|acting]] or [[g/_going|going]] [[a/_about|about]] something without [[p/_planning|planning]] [[a/_ahead|ahead]]**
+- **The [[a/_act|act]] of [[i/_improvising|improvising]], [[a/_acting|acting]] or [[g/_going|going]] [[a/_about|about]] [[s/_something|something]] without [[p/_planning|planning]] [[a/_ahead|ahead]]**
 ---
 ---

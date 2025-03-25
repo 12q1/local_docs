@@ -1,7 +1,7 @@
 # Youthful
 ---
 #adjective
-- **[[y/_young|Young]] or seeming [[y/_young|young]].**
+- **[[y/_young|Young]] or [[s/_seeming|seeming]] [[y/_young|young]].**
 	- _Example: a youthful butler_
 - **[[c/_characteristic|Characteristic]] of [[y/_young|young]] [[p/_people|people]].**
 	- _Example: youthful vivacity_

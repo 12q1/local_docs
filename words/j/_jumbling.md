@@ -6,6 +6,6 @@
 	- _Example: I tried to study, but in my half-awake state, all of the concepts seemed to jumble together._
 ---
 #noun
-- **The [[a/_act|act]] by which something is [[j/_jumbled|jumbled]] or [[c/_confused|confused]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[j/_jumbled|jumbled]] or [[c/_confused|confused]].**
 ---
 ---

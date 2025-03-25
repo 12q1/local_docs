@@ -7,6 +7,6 @@
 - [[g/_gingiva|gingiva]]
 #verb
 - **To [[c/_chew|chew]], [[e/_especially|especially]] of a toothless [[p/_person|person]] or [[a/_animal|animal]].**
-- **To [[d/_deepen|deepen]] and [[e/_enlarge|enlarge]] the spaces [[b/_between|between]] the teeth of (a worn saw), as with a [[g/_gummer|gummer]].**
+- **To [[d/_deepen|deepen]] and [[e/_enlarge|enlarge]] the [[s/_spaces|spaces]] [[b/_between|between]] the teeth of (a worn [[s/_saw|saw]]), as with a [[g/_gummer|gummer]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Falloff
 ---
 #noun
-- **A reduction or [[d/_decline|decline]].**
+- **A [[r/_reduction|reduction]] or [[d/_decline|decline]].**
 ---
 ---

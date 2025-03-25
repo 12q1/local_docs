@@ -8,6 +8,6 @@
 ### Synonyms
 - [[g/_gape|gape]], [[l/_look|look]], [[s/_stare|stare]]
 #noun
-- **The [[a/_act|act]] by which somebody [[g/_gazes|gazes]].**
+- **The [[a/_act|act]] by which [[s/_somebody|somebody]] [[g/_gazes|gazes]].**
 ---
 ---

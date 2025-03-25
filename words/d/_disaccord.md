@@ -1,7 +1,7 @@
 # Disaccord
 ---
 #noun
-- **The [[a/_absence|absence]] or reverse of [[a/_accord|accord]].**
+- **The [[a/_absence|absence]] or [[r/_reverse|reverse]] of [[a/_accord|accord]].**
 - **[[d/_disharmony|Disharmony]].**
 ---
 #verb

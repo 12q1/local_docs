@@ -2,7 +2,7 @@
 ---
 #verb
 - **To turn [[i/_inside|inside]] [[o/_out|out]] ([[l/_like|like]] a [[p/_pocket|pocket]] [[b/_being|being]] [[e/_emptied|emptied]]) or [[o/_outwards|outwards]].**
-- **To [[m/_move|move]] (someone or something) [[o/_out|out]] of the way.**
+- **To [[m/_move|move]] ([[s/_someone|someone]] or [[s/_something|something]]) [[o/_out|out]] of the way.**
 - **To turn upside [[d/_down|down]]; to [[o/_overturn|overturn]].**
 - **To [[d/_disrupt|disrupt]]; to [[o/_overthrow|overthrow]].**
 ---

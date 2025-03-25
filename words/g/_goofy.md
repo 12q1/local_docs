@@ -1,6 +1,6 @@
 # Goofy
 ---
 #adjective
-- **Silly, quirky**
+- **[[s/_silly|Silly]], [[q/_quirky|quirky]]**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[n/_nervous|Nervous]] and worried.**
-- **[[h/_having|Having]] a [[f/_feeling|feeling]] of [[a/_anxiety|anxiety]] or [[d/_disquietude|disquietude]]; [[e/_extremely|extremely]] [[c/_concerned|concerned]], [[e/_especially|especially]] [[a/_about|about]] something that will [[h/_happen|happen]] in the [[f/_future|future]] or that is unknown.**
+- **[[h/_having|Having]] a [[f/_feeling|feeling]] of [[a/_anxiety|anxiety]] or [[d/_disquietude|disquietude]]; [[e/_extremely|extremely]] [[c/_concerned|concerned]], [[e/_especially|especially]] [[a/_about|about]] [[s/_something|something]] that will [[h/_happen|happen]] in the [[f/_future|future]] or that is unknown.**
 	- _Example: I could tell she was anxious as she was biting her nails._
 - **(of things) [[a/_accompanied|Accompanied]] with, or [[c/_causing|causing]], [[a/_anxiety|anxiety]]; worrying.**
 	- _Example: There was an anxious wait before the results were revealed._

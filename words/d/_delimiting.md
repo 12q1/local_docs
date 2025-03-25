@@ -6,6 +6,6 @@
 	- _Example: Data items in the computer file were delimited by commas._
 ---
 #adjective
-- **That serves to [[d/_delimit|delimit]]**
+- **That [[s/_serves|serves]] to [[d/_delimit|delimit]]**
 ---
 ---

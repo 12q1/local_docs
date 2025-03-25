@@ -1,7 +1,7 @@
 # Argumentation
 ---
 #noun
-- **[[i/_inference|Inference]] [[b/_based|based]] on reasoning from [[g/_given|given]] propositions.**
+- **[[i/_inference|Inference]] [[b/_based|based]] on [[r/_reasoning|reasoning]] from [[g/_given|given]] [[p/_propositions|propositions]].**
 	- _Example: His chain of argumentation is flawed._
 - **An [[e/_exchange|exchange]] of [[a/_arguments|arguments]]**
 	- _Example: Their argumentation continued long into the night._

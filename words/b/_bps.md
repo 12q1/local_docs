@@ -6,8 +6,8 @@
 ### Synonyms
 - [[p/_permyriad|permyriad]], [[‱/_‱|‱]]
 #noun
-- **[[i/_initialism|Initialism]] of [[b/_bits|bits]] [[p/_per|per]] second, a [[m/_measure|measure]] of speed of [[d/_digital|digital]] [[c/_communication|communication]].**
-- **[[b/_baud|Baud]] rate**
+- **[[i/_initialism|Initialism]] of [[b/_bits|bits]] [[p/_per|per]] [[s/_second|second]], a [[m/_measure|measure]] of speed of [[d/_digital|digital]] [[c/_communication|communication]].**
+- **[[b/_baud|Baud]] [[r/_rate|rate]]**
 ---
 ### Synonyms
 - [[b/_b/s|b/s]], [[b/_bp|bp]]

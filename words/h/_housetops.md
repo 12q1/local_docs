@@ -1,6 +1,6 @@
 # Housetops
 ---
 #noun
-- **The roof of a [[h/_house|house]].**
+- **The [[r/_roof|roof]] of a [[h/_house|house]].**
 ---
 ---

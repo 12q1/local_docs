@@ -1,6 +1,6 @@
 # Consubstantial
 ---
 #adjective
-- **Of the same substance or [[e/_essence|essence]].**
+- **Of the [[s/_same|same]] substance or [[e/_essence|essence]].**
 ---
 ---

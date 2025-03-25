@@ -4,25 +4,25 @@
 - **[[a/_abatement|Abatement]].**
 ---
 #verb
-- **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[l/_law|law]]) To put an [[e/_end|end]] to; to [[c/_cause|cause]] to [[c/_cease|cease]].**
+- **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[l/_law|law]]) To [[p/_put|put]] an [[e/_end|end]] to; to [[c/_cause|cause]] to [[c/_cease|cease]].**
 	- _Example: to abate a nuisance_
 - **To [[b/_become|become]] [[n/_null|null]] and void.**
 	- _Example: The writ has abated._
 - **To [[n/_nullify|nullify]]; [[m/_make|make]] void.**
 	- _Example: to abate a writ_
-- **To [[h/_humble|humble]]; to [[l/_lower|lower]] in status; to [[b/_bring|bring]] someone [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
+- **To [[h/_humble|humble]]; to [[l/_lower|lower]] in status; to [[b/_bring|bring]] [[s/_someone|someone]] [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
 - **To be [[h/_humbled|humbled]]; to be [[b/_brought|brought]] [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
 - **To [[c/_curtail|curtail]]; to [[d/_deprive|deprive]].**
 	- _Example: Order restrictions and prohibitions to abate an emergency situation._
-- **To reduce in [[a/_amount|amount]], size, or value.**
+- **To [[r/_reduce|reduce]] in [[a/_amount|amount]], [[s/_size|size]], or value.**
 	- _Example: Legacies are liable to be abated entirely or in proportion, upon a deficiency of assets._
-- **To [[d/_decrease|decrease]] in size, value, or [[a/_amount|amount]].**
+- **To [[d/_decrease|decrease]] in [[s/_size|size]], value, or [[a/_amount|amount]].**
 - **To [[m/_moderate|moderate]]; to [[l/_lessen|lessen]] in [[f/_force|force]], [[i/_intensity|intensity]], to subside.**
 - **To [[d/_decrease|decrease]] in [[i/_intensity|intensity]] or [[f/_force|force]]; to subside.**
 - **To [[d/_deduct|deduct]] or [[o/_omit|omit]].**
 	- _Example: We will abate this price from the total._
 - **To [[b/_bar|bar]] or [[e/_except|except]].**
-- **To [[c/_cut|cut]] [[a/_away|away]] or [[h/_hammer|hammer]] [[d/_down|down]], in such a way as to [[l/_leave|leave]] a [[f/_figure|figure]] in relief, as a sculpture, or in [[m/_metalwork|metalwork]].**
+- **To [[c/_cut|cut]] [[a/_away|away]] or [[h/_hammer|hammer]] [[d/_down|down]], in such a way as to [[l/_leave|leave]] a [[f/_figure|figure]] in [[r/_relief|relief]], as a [[s/_sculpture|sculpture]], or in [[m/_metalwork|metalwork]].**
 - **To [[d/_dull|dull]] the [[e/_edge|edge]] or [[p/_point|point]] of; to [[b/_blunt|blunt]].**
 - **To [[d/_destroy|destroy]], or [[l/_level|level]] to the [[g/_ground|ground]].**
 ---

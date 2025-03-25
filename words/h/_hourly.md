@@ -1,7 +1,7 @@
 # Hourly
 ---
 #noun
-- **Something produced [[e/_each|each]] [[h/_hour|hour]].**
+- **[[s/_something|Something]] [[p/_produced|produced]] [[e/_each|each]] [[h/_hour|hour]].**
 	- _Example: She never reads her hourly report, but let her hourlies be fifteen minutes late and she raises a ruckus._
 ---
 #adjective

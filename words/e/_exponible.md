@@ -1,6 +1,6 @@
 # Exponible
 ---
 #adjective
-- **[[a/_able|Able]] to be, or requiring to be, [[e/_explained|explained]].**
+- **[[a/_able|Able]] to be, or [[r/_requiring|requiring]] to be, [[e/_explained|explained]].**
 ---
 ---

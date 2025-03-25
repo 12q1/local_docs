@@ -1,18 +1,18 @@
 # Hangs
 ---
 #verb
-- **To be or remain suspended.**
+- **To be or [[r/_remain|remain]] suspended.**
 	- _Example: The lights hung from the ceiling._
 - **To [[f/_float|float]], as [[i/_if|if]] suspended.**
 	- _Example: The smoke hung in the room._
-- **(of a [[b/_ball|ball]] in [[c/_cricket|cricket]], tennis, [[e/_etc|etc]].) To rebound unexpectedly or unusually slowly, [[d/_due|due]] to [[b/_backward|backward]] spin on the [[b/_ball|ball]] or [[i/_imperfections|imperfections]] of the [[g/_ground|ground]].**
+- **(of a [[b/_ball|ball]] in [[c/_cricket|cricket]], tennis, [[e/_etc|etc]].) To [[r/_rebound|rebound]] unexpectedly or unusually [[s/_slowly|slowly]], [[d/_due|due]] to [[b/_backward|backward]] spin on the [[b/_ball|ball]] or [[i/_imperfections|imperfections]] of the [[g/_ground|ground]].**
 - **To [[h/_hold|hold]] or [[b/_bear|bear]] in a suspended or [[i/_inclined|inclined]] [[m/_manner|manner]] or [[p/_position|position]] [[i/_instead|instead]] of [[e/_erect|erect]].**
 	- _Example: He hung his head in shame._
-- **To [[c/_cause|cause]] (something) to be suspended, as from a [[h/_hook|hook]], [[h/_hanger|hanger]], [[h/_hinges|hinges]] or the [[l/_like|like]].**
+- **To [[c/_cause|cause]] ([[s/_something|something]]) to be suspended, as from a [[h/_hook|hook]], [[h/_hanger|hanger]], [[h/_hinges|hinges]] or the [[l/_like|like]].**
 	- _Example: Hang those lights from the ceiling._
-- **To [[e/_execute|execute]] (someone) by suspension from the [[n/_neck|neck]].**
+- **To [[e/_execute|execute]] ([[s/_someone|someone]]) by suspension from the [[n/_neck|neck]].**
 	- _Example: The culprits were hanged from the nearest tree._
-- **To be [[e/_executed|executed]] by suspension by [[o/_one|one]]'s [[n/_neck|neck]] from a [[g/_gallows|gallows]], a tree, or [[o/_other|other]] raised [[b/_bar|bar]], [[a/_attached|attached]] by a rope tied [[i/_into|into]] a [[n/_noose|noose]].**
+- **To be [[e/_executed|executed]] by suspension by [[o/_one|one]]'[[s/_s|s]] [[n/_neck|neck]] from a [[g/_gallows|gallows]], a tree, or [[o/_other|other]] [[r/_raised|raised]] [[b/_bar|bar]], [[a/_attached|attached]] by a [[r/_rope|rope]] tied [[i/_into|into]] a [[n/_noose|noose]].**
 	- _Example: You will hang for this, my friend._
 - **(used in [[m/_maledictions|maledictions]]) To [[d/_damn|damn]].**
 - **To [[l/_loiter|loiter]], [[h/_hang|hang]] [[a/_around|around]], to spend time [[i/_idly|idly]].**
@@ -20,14 +20,14 @@
 - **To [[e/_exhibit|exhibit]] (an [[o/_object|object]]) by [[h/_hanging|hanging]].**
 - **To [[a/_apply|apply]] (wallpaper or [[d/_drywall|drywall]] to a wall).**
 	- _Example: Let's hang this cute animal design in the nursery._
-- **To [[d/_decorate|decorate]] (something) with [[h/_hanging|hanging]] [[o/_objects|objects]].**
+- **To [[d/_decorate|decorate]] ([[s/_something|something]]) with [[h/_hanging|hanging]] [[o/_objects|objects]].**
 	- _Example: Let's hang the nursery with some new wallpaper._
-- **To remain [[p/_persistently|persistently]] in [[o/_one|one]]'s thoughts.**
-- **To prevent from reaching a [[d/_decision|decision]], [[e/_especially|especially]] by refusing to [[j/_join|join]] in a verdict that [[m/_must|must]] be unanimous.**
+- **To [[r/_remain|remain]] [[p/_persistently|persistently]] in [[o/_one|one]]'[[s/_s|s]] thoughts.**
+- **To [[p/_prevent|prevent]] from [[r/_reaching|reaching]] a [[d/_decision|decision]], [[e/_especially|especially]] by [[r/_refusing|refusing]] to [[j/_join|join]] in a verdict that [[m/_must|must]] be unanimous.**
 	- _Example: One obstinate juror can hang a jury._
-- **To stop responding to [[m/_manual|manual]] [[i/_input|input]] [[d/_devices|devices]] such as [[k/_keyboard|keyboard]] and [[m/_mouse|mouse]].**
+- **To stop [[r/_responding|responding]] to [[m/_manual|manual]] [[i/_input|input]] [[d/_devices|devices]] such as [[k/_keyboard|keyboard]] and [[m/_mouse|mouse]].**
 	- _Example: The computer has hung again. Not even pressing ++ works.  When I push this button the program hangs._
-- **To [[c/_cause|cause]] (a program or [[c/_computer|computer]]) to stop responding.**
+- **To [[c/_cause|cause]] (a [[p/_program|program]] or [[c/_computer|computer]]) to stop [[r/_responding|responding]].**
 	- _Example: The program has a bug that can hang the system._
 - **To [[c/_cause|cause]] (a [[p/_piece|piece]]) to [[b/_become|become]] vulnerable to [[c/_capture|capture]].**
 	- _Example: If you move there, you'll hang your rook._

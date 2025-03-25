@@ -1,6 +1,6 @@
 # Iodizing
 ---
 #verb
-- **To treat or react with [[i/_iodine|iodine]].**
+- **To treat or [[r/_react|react]] with [[i/_iodine|iodine]].**
 ---
 ---

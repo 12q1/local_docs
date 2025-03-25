@@ -1,7 +1,7 @@
 # Continuative
 ---
 #noun
-- **Something that [[c/_causes|causes]] a [[c/_continuation|continuation]].**
+- **[[s/_something|Something]] that [[c/_causes|causes]] a [[c/_continuation|continuation]].**
 - **A [[d/_durative|durative]].**
 ---
 #adjective

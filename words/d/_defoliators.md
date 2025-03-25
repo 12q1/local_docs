@@ -1,6 +1,6 @@
 # Defoliators
 ---
 #noun
-- **Something or someone that [[d/_defoliates|defoliates]].**
+- **[[s/_something|Something]] or [[s/_someone|someone]] that [[d/_defoliates|defoliates]].**
 ---
 ---

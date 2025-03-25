@@ -1,9 +1,9 @@
 # Floating
 ---
 #verb
-- **Of an [[o/_object|object]] or substance, to be supported by a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]] than the [[o/_object|object]] so as that [[p/_part|part]] of the [[o/_object|object]] or substance remains [[a/_above|above]] the surface.**
+- **Of an [[o/_object|object]] or substance, to be supported by a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]] than the [[o/_object|object]] [[s/_so|so]] as that [[p/_part|part]] of the [[o/_object|object]] or substance [[r/_remains|remains]] [[a/_above|above]] the surface.**
 	- _Example: The boat floated on the water._
-- **To [[c/_cause|cause]] something to be suspended in a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]].**
+- **To [[c/_cause|cause]] [[s/_something|something]] to be suspended in a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]].**
 	- _Example: to float a boat_
 - **To be [[c/_capable|capable]] of [[f/_floating|floating]].**
 	- _Example: Oil floats on vinegar._
@@ -17,28 +17,28 @@
 	- _Example: The dancer floated gracefully around the stage._
 - **To [[c/_circulate|circulate]].**
 	- _Example: There's a rumour floating around the office that Jan is pregnant._
-- **(of an [[i/_idea|idea]] or scheme) To be viable.**
+- **(of an [[i/_idea|idea]] or [[s/_scheme|scheme]]) To be viable.**
 	- _Example: That’s a daft idea... it’ll never float._
-- **To propose (an [[i/_idea|idea]]) for [[c/_consideration|consideration]].**
+- **To [[p/_propose|propose]] (an [[i/_idea|idea]]) for [[c/_consideration|consideration]].**
 	- _Example: I floated the idea of free ice-cream on Fridays, but no one was interested._
-- **To [[a/_automatically|automatically]] [[a/_adjust|adjust]] a [[p/_parameter|parameter]] as related [[p/_parameters|parameters]] [[c/_change|change]].**
-- **(of [[c/_currencies|currencies]]) To [[h/_have|have]] an [[e/_exchange|exchange]] value [[d/_determined|determined]] by the [[m/_markets|markets]] as [[o/_opposed|opposed]] to by rule.**
+- **To [[a/_automatically|automatically]] [[a/_adjust|adjust]] a [[p/_parameter|parameter]] as [[r/_related|related]] [[p/_parameters|parameters]] [[c/_change|change]].**
+- **(of [[c/_currencies|currencies]]) To [[h/_have|have]] an [[e/_exchange|exchange]] value [[d/_determined|determined]] by the [[m/_markets|markets]] as [[o/_opposed|opposed]] to by [[r/_rule|rule]].**
 	- _Example: The yen floats against the dollar._
 - **To [[a/_allow|allow]] (the [[e/_exchange|exchange]] value of a [[c/_currency|currency]]) to be [[d/_determined|determined]] by the [[m/_markets|markets]].**
 	- _Example: Increased pressure on Thailand’s currency, the baht, in 1997 led to a crisis that forced the government to float the currency._
-- **To [[e/_extend|extend]] a short-term [[l/_loan|loan]] to.**
+- **To [[e/_extend|extend]] a [[s/_short|short]]-term [[l/_loan|loan]] to.**
 	- _Example: Could you float me $50 until payday?_
-- **To [[i/_issue|issue]] or sell shares in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the public, [[f/_followed|followed]] by [[l/_listing|listing]] on a stock [[e/_exchange|exchange]].**
+- **To [[i/_issue|issue]] or [[s/_sell|sell]] [[s/_shares|shares]] in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the [[p/_public|public]], [[f/_followed|followed]] by [[l/_listing|listing]] on a stock [[e/_exchange|exchange]].**
 	- _Example: 2007, Jonathan Reuvid, Floating Your Company: The Essential Guide to Going Public._
 - **To spread [[p/_plaster|plaster]] [[o/_over|over]] (a surface), using the tool [[c/_called|called]] a [[f/_float|float]].**
-- **To use a [[f/_float|float]] (rasp-[[l/_like|like]] tool) upon.**
+- **To use a [[f/_float|float]] ([[r/_rasp|rasp]]-[[l/_like|like]] tool) upon.**
 	- _Example: It is time to float this horse's teeth._
 - **To transport by [[f/_float|float]] (vehicular trailer).**
 - **To [[p/_perform|perform]] a [[f/_float|float]].**
 - **To [[c/_cause|cause]] (an [[e/_element|element]] within a [[d/_document|document]]) to [[f/_float|float]] [[a/_above|above]] or [[b/_beside|beside]] [[o/_others|others]].**
 ---
 #noun
-- **The [[m/_motion|motion]] of something that [[f/_floats|floats]].**
+- **The [[m/_motion|motion]] of [[s/_something|something]] that [[f/_floats|floats]].**
 - **(in the [[p/_plural|plural]]) [[m/_material|Material]] that [[f/_floats|floats]] in a [[l/_liquid|liquid]].**
 - **The spreading of [[p/_plaster|plaster]] on the surface of walls.**
 ---

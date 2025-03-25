@@ -1,64 +1,64 @@
 # Loaded
 ---
 #verb
-- **To put a [[l/_load|load]] on or in (a [[m/_means|means]] of [[c/_conveyance|conveyance]] or a [[p/_place|place]] of storage).**
+- **To [[p/_put|put]] a [[l/_load|load]] on or in (a [[m/_means|means]] of [[c/_conveyance|conveyance]] or a [[p/_place|place]] of storage).**
 	- _Example: The dock workers refused to load the ship._
 - **To [[p/_place|place]] in or on a [[c/_conveyance|conveyance]] or a [[p/_place|place]] of storage.**
 	- _Example: He loaded his stuff into his storage locker._
-- **To put a [[l/_load|load]] on something.**
+- **To [[p/_put|put]] a [[l/_load|load]] on [[s/_something|something]].**
 	- _Example: The truck was supposed to leave at dawn, but in fact we spent all morning loading._
-- **To receive a [[l/_load|load]].**
+- **To [[r/_receive|receive]] a [[l/_load|load]].**
 	- _Example: The truck is designed to load easily._
 - **To be [[p/_placed|placed]] [[i/_into|into]] storage or [[c/_conveyance|conveyance]].**
 	- _Example: The containers load quickly and easily._
 - **To [[f/_fill|fill]] (a [[f/_firearm|firearm]] or [[a/_artillery|artillery]]) with [[m/_munition|munition]].**
 	- _Example: I pulled the trigger, but nothing happened. I had forgotten to load the gun._
-- **To [[i/_insert|insert]] (an [[i/_item|item]] or [[i/_items|items]]) [[i/_into|into]] an [[a/_apparatus|apparatus]] so as to ready it for [[o/_operation|operation]], such as a reel of [[f/_film|film]] [[i/_into|into]] a [[c/_camera|camera]], sheets of [[p/_paper|paper]] [[i/_into|into]] a printer [[e/_etc|etc]].**
+- **To [[i/_insert|insert]] (an [[i/_item|item]] or [[i/_items|items]]) [[i/_into|into]] an [[a/_apparatus|apparatus]] [[s/_so|so]] as to [[r/_ready|ready]] it for [[o/_operation|operation]], such as a [[r/_reel|reel]] of [[f/_film|film]] [[i/_into|into]] a [[c/_camera|camera]], [[s/_sheets|sheets]] of [[p/_paper|paper]] [[i/_into|into]] a [[p/_printer|printer]] [[e/_etc|etc]].**
 	- _Example: Now that you've loaded the camera [with film], you're ready to start shooting._
-- **To [[f/_fill|fill]] (an [[a/_apparatus|apparatus]]) with raw [[m/_material|material]].**
+- **To [[f/_fill|fill]] (an [[a/_apparatus|apparatus]]) with [[r/_raw|raw]] [[m/_material|material]].**
 	- _Example: The workers loaded the blast furnace with coke and ore._
-- **To be put [[i/_into|into]] use in an [[a/_apparatus|apparatus]].**
+- **To be [[p/_put|put]] [[i/_into|into]] use in an [[a/_apparatus|apparatus]].**
 	- _Example: The cartridge was designed to load easily._
-- **To read ([[d/_data|data]] or a program) from a storage [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
+- **To [[r/_read|read]] ([[d/_data|data]] or a [[p/_program|program]]) from a storage [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
 	- _Example: Click OK to load the selected data._
 - **To transfer from a storage [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
 	- _Example: This program takes an age to load._
-- **To put runners on [[f/_first|first]], second and third [[b/_bases|bases]]**
+- **To [[p/_put|put]] [[r/_runners|runners]] on [[f/_first|first]], [[s/_second|second]] and third [[b/_bases|bases]]**
 	- _Example: He walks to load the bases._
-- **To tamper with so as to produce a [[b/_biased|biased]] [[o/_outcome|outcome]].**
+- **To tamper with [[s/_so|so]] as to [[p/_produce|produce]] a [[b/_biased|biased]] [[o/_outcome|outcome]].**
 	- _Example: The wording of the ballot paper loaded the vote in favour of the Conservative candidate._
-- **To [[a/_ask|ask]] or [[a/_adapt|adapt]] a question so that it will be [[m/_more|more]] [[l/_likely|likely]] to be [[a/_answered|answered]] in a [[c/_certain|certain]] way.**
-- **To [[e/_encumber|encumber]] with something [[n/_negative|negative]], to [[p/_place|place]] as an [[e/_encumbrance|encumbrance]].**
+- **To [[a/_ask|ask]] or [[a/_adapt|adapt]] a [[q/_question|question]] [[s/_so|so]] that it will be [[m/_more|more]] [[l/_likely|likely]] to be [[a/_answered|answered]] in a [[c/_certain|certain]] way.**
+- **To [[e/_encumber|encumber]] with [[s/_something|something]] [[n/_negative|negative]], to [[p/_place|place]] as an [[e/_encumbrance|encumbrance]].**
 	- _Example: The new owners had loaded the company with debt._
-- **To provide in [[a/_abundance|abundance]].**
+- **To [[p/_provide|provide]] in [[a/_abundance|abundance]].**
 	- _Example: He loaded carbs into his system before the marathon._
-- **To weight (a [[c/_cane|cane]], whip, [[e/_etc|etc]].) with [[l/_lead|lead]] or similar.**
+- **To weight (a [[c/_cane|cane]], whip, [[e/_etc|etc]].) with [[l/_lead|lead]] or [[s/_similar|similar]].**
 - **To [[a/_adulterate|adulterate]] or [[d/_drug|drug]].**
 	- _Example: to load wine_
 - **To [[m/_magnetize|magnetize]].**
 ---
 #adjective
-- **[[b/_burdened|Burdened]] by some [[h/_heavy|heavy]] [[l/_load|load]]; [[p/_packed|packed]].**
+- **[[b/_burdened|Burdened]] by [[s/_some|some]] [[h/_heavy|heavy]] [[l/_load|load]]; [[p/_packed|packed]].**
 	- _Example: Let's leave the TV; the car is loaded already._
-- **(of a projectile weapon) [[h/_having|Having]] a [[l/_live|live]] round of [[a/_ammunition|ammunition]] in the [[c/_chamber|chamber]].**
+- **(of a [[p/_projectile|projectile]] weapon) [[h/_having|Having]] a [[l/_live|live]] [[r/_round|round]] of [[a/_ammunition|ammunition]] in the [[c/_chamber|chamber]].**
 	- _Example: No funny business; this heater's loaded!_
 - **[[p/_possessing|Possessing]] [[g/_great|great]] wealth.**
 	- _Example: He sold his business a couple of years ago and is just loaded._
 - **[[d/_drunk|Drunk]].**
 	- _Example: By the end of the evening, the guests in the club were really loaded._
-- **[[p/_pertaining|Pertaining]] to a situation where there is a runner at [[e/_each|each]] of the three [[b/_bases|bases]].**
+- **[[p/_pertaining|Pertaining]] to a [[s/_situation|situation]] where there is a [[r/_runner|runner]] at [[e/_each|each]] of the three [[b/_bases|bases]].**
 	- _Example: It's bottom of the ninth, the bases are loaded and there are two outs._
-- **([[a/_also|also]] used [[f/_figuratively|figuratively]]) a [[d/_die|die]] or [[d/_dice|dice]] [[b/_being|being]] weighted [[a/_asymmetrically|asymmetrically]], and so [[b/_biased|biased]] to produce [[p/_predictable|predictable]] throws.**
+- **([[a/_also|also]] used [[f/_figuratively|figuratively]]) a [[d/_die|die]] or [[d/_dice|dice]] [[b/_being|being]] weighted [[a/_asymmetrically|asymmetrically]], and [[s/_so|so]] [[b/_biased|biased]] to [[p/_produce|produce]] [[p/_predictable|predictable]] throws.**
 	- _Example: He was playing with loaded dice and won a fortune._
-- **(of a question) [[d/_designed|Designed]] to produce a [[p/_predictable|predictable]] [[a/_answer|answer]], or to [[l/_lay|lay]] a trap.**
+- **(of a [[q/_question|question]]) [[d/_designed|Designed]] to [[p/_produce|produce]] a [[p/_predictable|predictable]] [[a/_answer|answer]], or to [[l/_lay|lay]] a trap.**
 	- _Example: That interviewer is tricky; he asks loaded questions._
-- **(of a word or [[p/_phrase|phrase]]) [[h/_having|Having]] strong [[c/_connotations|connotations]] that [[c/_colour|colour]] the [[l/_literal|literal]] [[m/_meaning|meaning]] and are [[l/_likely|likely]] to provoke an [[e/_emotional|emotional]] response. Sometimes used [[l/_loosely|loosely]] to [[d/_describe|describe]] a word that simply [[h/_has|has]] [[m/_many|many]] [[d/_different|different]] [[m/_meanings|meanings]].**
+- **(of a word or [[p/_phrase|phrase]]) [[h/_having|Having]] strong [[c/_connotations|connotations]] that [[c/_colour|colour]] the [[l/_literal|literal]] [[m/_meaning|meaning]] and are [[l/_likely|likely]] to [[p/_provoke|provoke]] an [[e/_emotional|emotional]] [[r/_response|response]]. [[s/_sometimes|Sometimes]] used [[l/_loosely|loosely]] to [[d/_describe|describe]] a word that [[s/_simply|simply]] [[h/_has|has]] [[m/_many|many]] [[d/_different|different]] [[m/_meanings|meanings]].**
 	- _Example: "Ignorant" is a loaded word, often implying lack of intelligence rather than just lack of knowledge._
-- **(of an [[i/_item|item]] [[o/_offered|offered]] for sale, [[e/_especially|especially]] an [[a/_automobile|automobile]]) [[e/_equipped|Equipped]] with [[n/_numerous|numerous]] [[o/_options|options]].**
+- **(of an [[i/_item|item]] [[o/_offered|offered]] for [[s/_sale|sale]], [[e/_especially|especially]] an [[a/_automobile|automobile]]) [[e/_equipped|Equipped]] with [[n/_numerous|numerous]] [[o/_options|options]].**
 	- _Example: She went all out; her new car is loaded._
 - **[[c/_covered|Covered]] with a topping or toppings.**
 	- _Example: loaded fries_
-- **Weighted with [[l/_lead|lead]] or similar.**
+- **Weighted with [[l/_lead|lead]] or [[s/_similar|similar]].**
 	- _Example: a loaded cane or whip_
 ---
 ### Synonyms

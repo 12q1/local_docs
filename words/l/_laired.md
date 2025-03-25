@@ -1,7 +1,7 @@
 # Laired
 ---
 #verb
-- **To rest; to [[d/_dwell|dwell]].**
+- **To [[r/_rest|rest]]; to [[d/_dwell|dwell]].**
 - **To [[l/_lay|lay]] [[d/_down|down]].**
 - **To [[b/_bury|bury]].**
 ---

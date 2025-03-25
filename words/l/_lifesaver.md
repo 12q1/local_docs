@@ -1,9 +1,9 @@
 # Lifesaver
 ---
 #noun
-- **Someone or something that saves [[l/_lives|lives]].**
+- **[[s/_someone|Someone]] or [[s/_something|something]] that [[s/_saves|saves]] [[l/_lives|lives]].**
 	- _Example: My dad loves his job as a surf lifesaver._
-- **Someone or something that is very useful or [[h/_helpful|helpful]].**
+- **[[s/_someone|Someone]] or [[s/_something|something]] that is very useful or [[h/_helpful|helpful]].**
 	- _Example: Thank you so much for fixing my car; you're a real lifesaver!_
 ---
 ### Synonyms

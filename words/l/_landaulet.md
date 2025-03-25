@@ -1,6 +1,6 @@
 # Landaulet
 ---
 #noun
-- **A small [[l/_landau|landau]].**
+- **A [[s/_small|small]] [[l/_landau|landau]].**
 ---
 ---

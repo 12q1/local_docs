@@ -1,6 +1,6 @@
 # Farina
 ---
 #noun
-- **A [[f/_fine|fine]] [[f/_flour|flour]] or [[m/_meal|meal]] [[m/_made|made]] from [[c/_cereal|cereal]] [[g/_grains|grains]] or from the starch or [[f/_fecula|fecula]] of vegetables, [[e/_extracted|extracted]] by various processes, and used in [[c/_cookery|cookery]].**
+- **A [[f/_fine|fine]] [[f/_flour|flour]] or [[m/_meal|meal]] [[m/_made|made]] from [[c/_cereal|cereal]] [[g/_grains|grains]] or from the starch or [[f/_fecula|fecula]] of vegetables, [[e/_extracted|extracted]] by various [[p/_processes|processes]], and used in [[c/_cookery|cookery]].**
 ---
 ---

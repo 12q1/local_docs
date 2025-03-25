@@ -1,6 +1,6 @@
 # Kidvid
 ---
 #noun
-- **Video [[m/_material|material]] produced for [[c/_children|children]].**
+- **Video [[m/_material|material]] [[p/_produced|produced]] for [[c/_children|children]].**
 ---
 ---

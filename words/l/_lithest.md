@@ -3,7 +3,7 @@
 #adjective
 - **[[m/_mild|Mild]]; [[c/_calm|calm]].**
 	- _Example: lithe weather_
-- **Slim but not skinny.**
+- **[[s/_slim|Slim]] but not [[s/_skinny|skinny]].**
 	- _Example: lithe body_
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[e/_easily|easily]] [[b/_bent|bent]]; [[f/_flexible|flexible]].**
 	- _Example: the elephant’s lithe proboscis._

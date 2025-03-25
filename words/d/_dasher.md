@@ -1,7 +1,7 @@
 # Dasher
 ---
 #noun
-- **A [[p/_person|person]] who [[d/_dashes|dashes]]; a [[f/_fast|fast]] runner.**
+- **A [[p/_person|person]] who [[d/_dashes|dashes]]; a [[f/_fast|fast]] [[r/_runner|runner]].**
 - **That which [[d/_dashes|dashes]] or [[a/_agitates|agitates]].**
 	- _Example: the dasher of a churn_
 - **A [[d/_dashboard|dashboard]] or splashboard.**

@@ -6,8 +6,8 @@
 - **To [[y/_yield|yield]] [[a/_assent|assent]]; to [[a/_accede|accede]];—[[f/_followed|followed]] by to.**
 	- _Example: to agree to an offer, or to opinion._
 - **To [[y/_yield|yield]] [[a/_assent|assent]] to; to [[a/_approve|approve]].**
-- **To [[m/_make|make]] a stipulation by way of settling [[d/_differences|differences]] or [[d/_determining|determining]] a price; to [[e/_exchange|exchange]] promises; to [[c/_come|come]] to terms or to a [[c/_common|common]] resolve; to promise.**
-- **To be [[c/_conformable|conformable]]; to resemble; to [[c/_coincide|coincide]]; to [[c/_correspond|correspond]].**
+- **To [[m/_make|make]] a stipulation by way of [[s/_settling|settling]] [[d/_differences|differences]] or [[d/_determining|determining]] a [[p/_price|price]]; to [[e/_exchange|exchange]] [[p/_promises|promises]]; to [[c/_come|come]] to terms or to a [[c/_common|common]] [[r/_resolve|resolve]]; to [[p/_promise|promise]].**
+- **To be [[c/_conformable|conformable]]; to [[r/_resemble|resemble]]; to [[c/_coincide|coincide]]; to [[c/_correspond|correspond]].**
 	- _Example: the picture does not agree with the original; the two scales agree exactly._
 - **([[n/_now|now]] [[a/_always|always]] with with) To suit or be [[a/_adapted|adapted]] in [[i/_its|its]] [[e/_effects|effects]]; to [[d/_do|do]] well.**
 	- _Example: the same food does not agree with every constitution._

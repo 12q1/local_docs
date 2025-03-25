@@ -1,6 +1,6 @@
 # Etymologising
 ---
 #verb
-- **To [[f/_find|find]] or provide the [[e/_etymology|etymology]] for a word.**
+- **To [[f/_find|find]] or [[p/_provide|provide]] the [[e/_etymology|etymology]] for a word.**
 ---
 ---

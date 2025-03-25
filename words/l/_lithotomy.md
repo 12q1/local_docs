@@ -1,7 +1,7 @@
 # Lithotomy
 ---
 #noun
-- **A surgical [[m/_method|method]] for removal of [[c/_calculi|calculi]], such as [[k/_kidney|kidney]] stones and [[g/_gallstones|gallstones]].**
+- **A surgical [[m/_method|method]] for [[r/_removal|removal]] of [[c/_calculi|calculi]], such as [[k/_kidney|kidney]] stones and [[g/_gallstones|gallstones]].**
 ---
 ### Synonyms
 - [[l/_lithectomy|lithectomy]]

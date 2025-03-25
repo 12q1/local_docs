@@ -1,20 +1,20 @@
 # Cleaving
 ---
 #verb
-- **To split or sever something with, or as [[i/_if|if]] with, a sharp [[i/_instrument|instrument]].**
+- **To split or [[s/_sever|sever]] [[s/_something|something]] with, or as [[i/_if|if]] with, a [[s/_sharp|sharp]] [[i/_instrument|instrument]].**
 	- _Example: The wings cleaved the foggy air._
-- **To [[b/_break|break]] a single [[c/_crystal|crystal]] (such as a [[g/_gemstone|gemstone]] or semiconductor wafer) [[a/_along|along]] [[o/_one|one]] of [[i/_its|its]] [[m/_more|more]] symmetrical [[c/_crystallographic|crystallographic]] [[p/_planes|planes]] ([[o/_often|often]] by [[i/_impact|impact]]), [[f/_forming|forming]] [[f/_facets|facets]] on the resulting [[p/_pieces|pieces]].**
+- **To [[b/_break|break]] a [[s/_single|single]] [[c/_crystal|crystal]] (such as a [[g/_gemstone|gemstone]] or [[s/_semiconductor|semiconductor]] wafer) [[a/_along|along]] [[o/_one|one]] of [[i/_its|its]] [[m/_more|more]] [[s/_symmetrical|symmetrical]] [[c/_crystallographic|crystallographic]] [[p/_planes|planes]] ([[o/_often|often]] by [[i/_impact|impact]]), [[f/_forming|forming]] [[f/_facets|facets]] on the [[r/_resulting|resulting]] [[p/_pieces|pieces]].**
 - **To [[m/_make|make]] or [[a/_accomplish|accomplish]] by or as [[i/_if|if]] by [[c/_cutting|cutting]].**
 	- _Example: The truck cleaved a path through the ice._
-- **To split (a [[c/_complex|complex]] [[m/_molecule|molecule]]) [[i/_into|into]] simpler [[m/_molecules|molecules]].**
+- **To split (a [[c/_complex|complex]] [[m/_molecule|molecule]]) [[i/_into|into]] [[s/_simpler|simpler]] [[m/_molecules|molecules]].**
 - **To split.**
 - **Of a [[c/_crystal|crystal]], to split [[a/_along|along]] a [[n/_natural|natural]] [[p/_plane|plane]] of [[d/_division|division]].**
 ---
 #verb
-- **To [[c/_cling|cling]], [[a/_adhere|adhere]] or stick [[f/_fast|fast]] to something; used with to or unto.**
+- **To [[c/_cling|cling]], [[a/_adhere|adhere]] or stick [[f/_fast|fast]] to [[s/_something|something]]; used with to or unto.**
 ---
 #noun
-- **The [[a/_act|act]] of [[o/_one|one]] who [[c/_cleaves|cleaves]], splits, or severs.**
+- **The [[a/_act|act]] of [[o/_one|one]] who [[c/_cleaves|cleaves]], splits, or [[s/_severs|severs]].**
 - **The [[a/_act|act]] of [[o/_one|one]] who [[c/_cleaves|cleaves]], [[c/_clings|clings]], or [[a/_adheres|adheres]].**
 ---
 ---

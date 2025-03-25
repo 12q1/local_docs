@@ -6,9 +6,9 @@
 ### Synonyms
 - 
 #adjective
-- **Of, or relating to [[g/_glaciers|glaciers]].**
+- **Of, or [[r/_relating|relating]] to [[g/_glaciers|glaciers]].**
 	- _Example: Wang Shijin is a glacier expert and director of the Yulong Snow Mountain Glacial and Environmental Observation Research Station._
-- **Very slow.**
+- **Very [[s/_slow|slow]].**
 - **[[c/_cold|Cold]] and [[i/_icy|icy]].**
 	- _Example: After the rain and frost, the pavements were glacial._
 - **[[h/_having|Having]] the [[a/_appearance|appearance]] of [[i/_ice|ice]].**

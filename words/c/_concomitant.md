@@ -1,7 +1,7 @@
 # Concomitant
 ---
 #noun
-- **Something [[h/_happening|happening]] or [[e/_existing|existing]] at the same time.**
+- **[[s/_something|Something]] [[h/_happening|happening]] or [[e/_existing|existing]] at the [[s/_same|same]] time.**
 - **An [[i/_invariant|invariant]] [[h/_homogeneous|homogeneous]] [[p/_polynomial|polynomial]] in the [[c/_coefficients|coefficients]] of a [[f/_form|form]], a [[c/_covariant|covariant]] variable, and a [[c/_contravariant|contravariant]] variable.**
 ---
 ### Synonyms

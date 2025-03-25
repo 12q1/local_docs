@@ -8,6 +8,6 @@
 ### Synonyms
 - [[n/_nancy|nancy]], [[p/_pansy|pansy]], [[s/_sissy|sissy]]
 #adjective
-- **Of, or relating to these [[p/_people|people]] or their [[a/_accent|accent]]**
+- **Of, or [[r/_relating|relating]] to these [[p/_people|people]] or their [[a/_accent|accent]]**
 ---
 ---

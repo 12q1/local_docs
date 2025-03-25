@@ -1,7 +1,7 @@
 # Coordinating
 ---
 #verb
-- **To synchronize ([[a/_activities|activities]]).**
+- **To [[s/_synchronize|synchronize]] ([[a/_activities|activities]]).**
 	- _Example: I was playing tennis for the first time, and it was difficult to coordinate._
 - **To [[m/_match|match]] ([[o/_objects|objects]], [[e/_especially|especially]] [[c/_clothes|clothes]]).**
 	- _Example: The outfit you're wearing doesn't coordinate._

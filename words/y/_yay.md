@@ -8,7 +8,7 @@
 - [[h/_hooray|hooray]]
 #adverb
 - **[[y/_yes|Yes]].**
-- **Thus, so ([[n/_now|now]] [[o/_often|often]] [[a/_accompanied|accompanied]] by a [[h/_hand|hand]] [[g/_gesture|gesture]]).**
+- **Thus, [[s/_so|so]] ([[n/_now|now]] [[o/_often|often]] [[a/_accompanied|accompanied]] by a [[h/_hand|hand]] [[g/_gesture|gesture]]).**
 	- _Example: The pony was yea high._
 ---
 ### Synonyms

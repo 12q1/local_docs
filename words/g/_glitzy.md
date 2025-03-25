@@ -1,6 +1,6 @@
 # Glitzy
 ---
 #adjective
-- **[[b/_brilliantly|Brilliantly]] showy.**
+- **[[b/_brilliantly|Brilliantly]] [[s/_showy|showy]].**
 ---
 ---

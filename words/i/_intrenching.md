@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[d/_dig|dig]] or [[e/_excavate|excavate]] a trench; to trench.**
-- **To surround or provide with a trench, [[e/_especially|especially]] for [[d/_defense|defense]]; to [[d/_dig|dig]] in.**
+- **To surround or [[p/_provide|provide]] with a trench, [[e/_especially|especially]] for [[d/_defense|defense]]; to [[d/_dig|dig]] in.**
 	- _Example: The army entrenched its camp, or entrenched itself._
 - **To [[e/_establish|establish]] a substantial [[p/_position|position]] in [[b/_business|business]], [[p/_politics|politics]], [[e/_etc|etc]].**
 	- _Example: Senator Cornpone was able to entrench by spending millions on each campaign._

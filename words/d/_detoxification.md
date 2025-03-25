@@ -1,6 +1,6 @@
 # Detoxification
 ---
 #noun
-- **The process of removing toxins.**
+- **The [[p/_process|process]] of [[r/_removing|removing]] toxins.**
 ---
 ---

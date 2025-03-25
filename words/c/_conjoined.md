@@ -6,14 +6,14 @@
 - **To [[m/_marry|marry]].**
 	- _Example: I will conjoin you in holy matrimony._
 - **([[g/_grammar|grammar]]) To [[j/_join|join]] as [[c/_coordinate|coordinate]] [[e/_elements|elements]], [[o/_often|often]] with a [[c/_coordinating|coordinating]] [[c/_conjunction|conjunction]], such as [[c/_coordinate|coordinate]] [[c/_clauses|clauses]].**
-- **To [[c/_combine|combine]] two sets, [[c/_conditions|conditions]], or [[e/_expressions|expressions]] by a [[l/_logical|logical]] AND; to [[i/_intersect|intersect]].**
+- **To [[c/_combine|combine]] two [[s/_sets|sets]], [[c/_conditions|conditions]], or [[e/_expressions|expressions]] by a [[l/_logical|logical]] AND; to [[i/_intersect|intersect]].**
 - **To unite, to [[j/_join|join]], to [[l/_league|league]].**
 ---
 ### Synonyms
 - [[a/_affix|affix]], [[a/_attach|attach]], [[j/_join|join]], [[b/_bewed|bewed]], [[w/_wed|wed]]
 #adjective
 - **[[j/_joined|Joined]] together [[p/_physically|physically]], of [[p/_persons|persons]] ([[c/_conjoined|conjoined]] twins), or things.**
-- **[[j/_joined|Joined]] or [[b/_bound|bound]] together; united (in a relationship)**
+- **[[j/_joined|Joined]] or [[b/_bound|bound]] together; united (in a [[r/_relationship|relationship]])**
 - **[[c/_combined|Combined]].**
 ---
 ---

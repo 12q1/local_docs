@@ -1,9 +1,9 @@
 # Deaerated
 ---
 #verb
-- **To remove the [[a/_air|air]] or [[g/_gas|gas]] from something**
+- **To [[r/_remove|remove]] the [[a/_air|air]] or [[g/_gas|gas]] from [[s/_something|something]]**
 ---
 #adjective
-- **From which the [[a/_air|air]] or [[g/_gas|gas]] [[h/_has|has]] [[b/_been|been]] removed**
+- **From which the [[a/_air|air]] or [[g/_gas|gas]] [[h/_has|has]] [[b/_been|been]] [[r/_removed|removed]]**
 ---
 ---

@@ -1,8 +1,8 @@
 # Downfield
 ---
 #adjective
-- **Toward the [[d/_defending|defending]] team's [[e/_end|end]] of the [[p/_playing|playing]] [[f/_field|field]]**
-- **[[d/_describing|Describing]] an NMR resonance at a [[h/_higher|higher]] [[f/_frequency|frequency]] to that of a reference signal**
+- **Toward the [[d/_defending|defending]] team'[[s/_s|s]] [[e/_end|end]] of the [[p/_playing|playing]] [[f/_field|field]]**
+- **[[d/_describing|Describing]] an NMR [[r/_resonance|resonance]] at a [[h/_higher|higher]] [[f/_frequency|frequency]] to that of a [[r/_reference|reference]] [[s/_signal|signal]]**
 ---
 ### Antonyms
 - [[u/_upfield|upfield]]

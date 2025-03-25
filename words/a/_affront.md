@@ -1,7 +1,7 @@
 # Affront
 ---
 #noun
-- **An [[o/_open|open]] or [[i/_intentional|intentional]] [[o/_offense|offense]], slight, or [[i/_insult|insult]].**
+- **An [[o/_open|open]] or [[i/_intentional|intentional]] [[o/_offense|offense]], [[s/_slight|slight]], or [[i/_insult|insult]].**
 	- _Example: Such behavior is an affront to society._
 - **A [[h/_hostile|hostile]] [[e/_encounter|encounter]] or [[m/_meeting|meeting]].**
 ---

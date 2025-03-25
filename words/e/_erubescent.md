@@ -1,6 +1,6 @@
 # Erubescent
 ---
 #adjective
-- **Red or reddish; [[b/_blushing|blushing]]**
+- **[[r/_red|Red]] or [[r/_reddish|reddish]]; [[b/_blushing|blushing]]**
 ---
 ---

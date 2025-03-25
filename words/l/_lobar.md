@@ -1,6 +1,6 @@
 # Lobar
 ---
 #adjective
-- **Of or relating to a [[l/_lobe|lobe]].**
+- **Of or [[r/_relating|relating]] to a [[l/_lobe|lobe]].**
 ---
 ---

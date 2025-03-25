@@ -1,7 +1,7 @@
 # Licit
 ---
 #adjective
-- **Not [[f/_forbidden|forbidden]] by [[f/_formal|formal]] or [[i/_informal|informal]] rules.**
+- **Not [[f/_forbidden|forbidden]] by [[f/_formal|formal]] or [[i/_informal|informal]] [[r/_rules|rules]].**
 - **[[e/_explicitly|Explicitly]] [[e/_established|established]] or [[c/_constituted|constituted]] by [[l/_law|law]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Loathed
 ---
 #verb
-- **To [[d/_detest|detest]], [[h/_hate|hate]], revile.**
+- **To [[d/_detest|detest]], [[h/_hate|hate]], [[r/_revile|revile]].**
 	- _Example: I absolutely loathe this place._
 ---
 ### Synonyms

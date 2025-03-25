@@ -1,6 +1,6 @@
 # Footrest
 ---
 #noun
-- **A support on which to rest the [[f/_feet|feet]].**
+- **A support on which to [[r/_rest|rest]] the [[f/_feet|feet]].**
 ---
 ---

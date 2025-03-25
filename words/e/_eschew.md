@@ -1,6 +1,6 @@
 # Eschew
 ---
 #verb
-- **To [[a/_avoid|avoid]]; to shun, to shy [[a/_away|away]] from.**
+- **To [[a/_avoid|avoid]]; to [[s/_shun|shun]], to [[s/_shy|shy]] [[a/_away|away]] from.**
 ---
 ---

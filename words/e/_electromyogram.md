@@ -1,6 +1,6 @@
 # Electromyogram
 ---
 #noun
-- **The record produced by an [[e/_electromyograph|electromyograph]].**
+- **The [[r/_record|record]] [[p/_produced|produced]] by an [[e/_electromyograph|electromyograph]].**
 ---
 ---

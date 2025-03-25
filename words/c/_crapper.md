@@ -1,7 +1,7 @@
 # Crapper
 ---
 #adjective
-- **([[m/_mildly|mildly]]) Of [[p/_poor|poor]] quality.**
+- **([[m/_mildly|mildly]]) Of [[p/_poor|poor]] [[q/_quality|quality]].**
 	- _Example: I drove an old crap car for ten years before buying a new one._
 ---
 ### Synonyms

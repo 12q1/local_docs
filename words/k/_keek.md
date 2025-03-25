@@ -1,7 +1,7 @@
 # Keek
 ---
 #noun
-- **A [[l/_look|look]], [[e/_especially|especially]] a quick [[o/_one|one]]; a [[p/_peek|peek]].**
+- **A [[l/_look|look]], [[e/_especially|especially]] a [[q/_quick|quick]] [[o/_one|one]]; a [[p/_peek|peek]].**
 	- _Example: She had a keek at the boy seated behind her who was busily writing something._
 ---
 #verb

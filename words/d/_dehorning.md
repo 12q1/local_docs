@@ -1,7 +1,7 @@
 # Dehorning
 ---
 #verb
-- **To remove the [[h/_horns|horns]] from.**
+- **To [[r/_remove|remove]] the [[h/_horns|horns]] from.**
 ---
 ### Synonyms
 - [[p/_poll|poll]]

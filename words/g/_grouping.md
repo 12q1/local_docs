@@ -1,7 +1,7 @@
 # Grouping
 ---
 #verb
-- **To put together to [[f/_form|form]] a [[g/_group|group]].**
+- **To [[p/_put|put]] together to [[f/_form|form]] a [[g/_group|group]].**
 	- _Example: group the dogs by hair colour_
 - **To [[c/_come|come]] together to [[f/_form|form]] a [[g/_group|group]].**
 ---
@@ -10,6 +10,6 @@
 #noun
 - **A [[c/_collection|collection]] of things or [[p/_people|people]] united as a [[g/_group|group]].**
 - **The [[a/_action|action]] of the verb to [[g/_group|group]].**
-- **Shot [[g/_grouping|grouping]].**
+- **[[s/_shot|Shot]] [[g/_grouping|grouping]].**
 ---
 ---

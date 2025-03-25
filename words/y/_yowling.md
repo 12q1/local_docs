@@ -5,6 +5,6 @@
 - **[[e/_express|Express]] by [[y/_yowling|yowling]]; utter with a [[y/_yowl|yowl]].**
 ---
 #noun
-- **A sound that [[y/_yowls|yowls]].**
+- **A [[s/_sound|sound]] that [[y/_yowls|yowls]].**
 ---
 ---

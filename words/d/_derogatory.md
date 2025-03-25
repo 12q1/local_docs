@@ -1,7 +1,7 @@
 # Derogatory
 ---
 #noun
-- **A trade-[[l/_line|line]] on a [[c/_credit|credit]] report that [[i/_includes|includes]] [[n/_negative|negative]] [[c/_credit|credit]] [[h/_history|history]].**
+- **A trade-[[l/_line|line]] on a [[c/_credit|credit]] [[r/_report|report]] that [[i/_includes|includes]] [[n/_negative|negative]] [[c/_credit|credit]] [[h/_history|history]].**
 ---
 #adjective
 - **(usually with to) Tending to [[d/_derogate|derogate]]:**

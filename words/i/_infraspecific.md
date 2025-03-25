@@ -1,6 +1,6 @@
 # Infraspecific
 ---
 #adjective
-- **[[p/_pertaining|Pertaining]] to a taxon at a rank [[l/_lower|lower]] than species.**
+- **[[p/_pertaining|Pertaining]] to a taxon at a [[r/_rank|rank]] [[l/_lower|lower]] than species.**
 ---
 ---

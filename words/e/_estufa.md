@@ -1,6 +1,6 @@
 # Estufa
 ---
 #noun
-- **A room in a Pueblo [[i/_indian|Indian]] [[h/_house|house]].**
+- **A [[r/_room|room]] in a [[p/_pueblo|Pueblo]] [[i/_indian|Indian]] [[h/_house|house]].**
 ---
 ---

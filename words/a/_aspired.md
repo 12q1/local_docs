@@ -1,9 +1,9 @@
 # Aspired
 ---
 #verb
-- **To [[h/_have|have]] a strong [[d/_desire|desire]] or [[a/_ambition|ambition]] to [[a/_achieve|achieve]] something.**
+- **To [[h/_have|have]] a strong [[d/_desire|desire]] or [[a/_ambition|ambition]] to [[a/_achieve|achieve]] [[s/_something|something]].**
 	- _Example: He aspires to become a successful doctor._
-- **To [[g/_go|go]] as [[h/_high|high]] as, to reach the top of (something).**
+- **To [[g/_go|go]] as [[h/_high|high]] as, to [[r/_reach|reach]] the top of ([[s/_something|something]]).**
 - **To [[m/_move|move]] upward; to be very tall.**
 ---
 ### Synonyms

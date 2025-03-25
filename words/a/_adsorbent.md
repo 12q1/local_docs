@@ -1,7 +1,7 @@
 # Adsorbent
 ---
 #noun
-- **The solid or [[l/_liquid|liquid]] in the process of [[a/_adsorption|adsorption]] on which the [[a/_adsorbate|adsorbate]] [[a/_accumulates|accumulates]].**
+- **The [[s/_solid|solid]] or [[l/_liquid|liquid]] in the [[p/_process|process]] of [[a/_adsorption|adsorption]] on which the [[a/_adsorbate|adsorbate]] [[a/_accumulates|accumulates]].**
 ---
 #adjective
 - **Tending to [[a/_adsorb|adsorb]].**

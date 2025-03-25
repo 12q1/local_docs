@@ -1,16 +1,16 @@
 # Flukes
 ---
 #noun
-- **A [[l/_lucky|lucky]] or [[i/_improbable|improbable]] [[o/_occurrence|occurrence]], with the [[i/_implication|implication]] that the [[o/_occurrence|occurrence]] [[c/_could|could]] not be repeated.**
+- **A [[l/_lucky|lucky]] or [[i/_improbable|improbable]] [[o/_occurrence|occurrence]], with the [[i/_implication|implication]] that the [[o/_occurrence|occurrence]] [[c/_could|could]] not be [[r/_repeated|repeated]].**
 	- _Example: The first goal was just a fluke._
 ---
 #noun
 - **A [[f/_flounder|flounder]].**
-- **A trematode; a [[p/_parasitic|parasitic]] [[f/_flatworm|flatworm]] of the Trematoda [[c/_class|class]], related to the tapeworm.**
+- **A trematode; a [[p/_parasitic|parasitic]] [[f/_flatworm|flatworm]] of the Trematoda [[c/_class|class]], [[r/_related|related]] to the tapeworm.**
 	- _Example: The man had become infected with flukes after eating a meal of raw fish._
 ---
 #noun
-- **[[e/_either|Either]] of the two [[l/_lobes|lobes]] of a whale's or similar [[c/_creature|creature]]'s tail.**
+- **[[e/_either|Either]] of the two [[l/_lobes|lobes]] of a whale'[[s/_s|s]] or [[s/_similar|similar]] [[c/_creature|creature]]'[[s/_s|s]] tail.**
 	- _Example: The dolphin had an open wound on the left fluke of its tail where the propeller had injured it._
 - **[[a/_any|Any]] of the triangular [[b/_blades|blades]] at the [[e/_end|end]] of an [[a/_anchor|anchor]], [[d/_designed|designed]] to [[c/_catch|catch]] the [[g/_ground|ground]].**
 	- _Example: The fluke of the anchor was wedged between two outcroppings of rock and could not be dislodged._

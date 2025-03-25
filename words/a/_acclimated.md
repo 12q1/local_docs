@@ -8,6 +8,6 @@
 ### Synonyms
 - [[a/_acclimatise|acclimatise]], [[a/_acclimatize|acclimatize]], [[a/_accommodate|accommodate]], [[a/_acculture|acculture]], [[a/_accustom|accustom]], [[a/_adjust|adjust]], [[c/_climatize|climatize]], [[c/_conform|conform]], [[h/_habituate|habituate]], [[h/_harden|harden]], [[s/_season|season]], [[t/_toughen|toughen]]
 #adjective
-- **[[a/_accustomed|Accustomed]], [[a/_adapted|adapted]] or [[h/_hardened|hardened]] to some [[e/_environment|environment]]**
+- **[[a/_accustomed|Accustomed]], [[a/_adapted|adapted]] or [[h/_hardened|hardened]] to [[s/_some|some]] [[e/_environment|environment]]**
 ---
 ---

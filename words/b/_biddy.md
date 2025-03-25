@@ -1,7 +1,7 @@
 # Biddy
 ---
 #noun
-- **A woman, [[e/_especially|especially]] an [[o/_old|old]] woman; [[e/_especially|especially]] [[o/_one|one]] regarded as [[f/_fussy|fussy]] or [[m/_mean|mean]] or a [[g/_gossipy|gossipy]] [[b/_busybody|busybody]].**
+- **A woman, [[e/_especially|especially]] an [[o/_old|old]] woman; [[e/_especially|especially]] [[o/_one|one]] [[r/_regarded|regarded]] as [[f/_fussy|fussy]] or [[m/_mean|mean]] or a [[g/_gossipy|gossipy]] [[b/_busybody|busybody]].**
 - **An [[a/_attractive|attractive]] [[g/_girl|girl]].**
 - **An [[i/_irish|Irish]] [[m/_maidservant|maidservant]].**
 - **(by [[e/_extension|extension]]) An [[i/_irishwoman|Irishwoman]].**

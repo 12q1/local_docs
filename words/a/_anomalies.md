@@ -1,14 +1,14 @@
 # Anomalies
 ---
 #noun
-- **A [[d/_deviation|deviation]] from a rule or from what is regarded as [[n/_normal|normal]]; an [[o/_outlier|outlier]].**
-- **Something or someone that is strange or unusual.**
+- **A [[d/_deviation|deviation]] from a [[r/_rule|rule]] or from what is [[r/_regarded|regarded]] as [[n/_normal|normal]]; an [[o/_outlier|outlier]].**
+- **[[s/_something|Something]] or [[s/_someone|someone]] that is strange or unusual.**
 	- _Example: He is an anomaly among his friends in that he's the only one who's unmarried._
-- **[[a/_any|Any]] [[e/_event|event]] or [[m/_measurement|measurement]] that is [[o/_out|out]] of the [[o/_ordinary|ordinary]] regardless of whether it is [[e/_exceptional|exceptional]] or not.**
+- **[[a/_any|Any]] [[e/_event|event]] or [[m/_measurement|measurement]] that is [[o/_out|out]] of the [[o/_ordinary|ordinary]] [[r/_regardless|regardless]] of whether it is [[e/_exceptional|exceptional]] or not.**
 	- _Example: She disregarded some of the anamolies in the experiment, putting them down to miscalculation._
 - **[[a/_any|Any]] of various [[a/_angular|angular]] [[d/_distances|distances]].**
 - **A [[d/_defect|defect]] or [[m/_malformation|malformation]].**
-- **A [[f/_failure|failure]] of a [[c/_classical|classical]] symmetry [[d/_due|due]] to quantum [[c/_corrections|corrections]].**
+- **A [[f/_failure|failure]] of a [[c/_classical|classical]] [[s/_symmetry|symmetry]] [[d/_due|due]] to [[q/_quantum|quantum]] [[c/_corrections|corrections]].**
 - **An [[i/_irregularity|irregularity]] or [[d/_disproportion|disproportion]].**
 ---
 ### Synonyms

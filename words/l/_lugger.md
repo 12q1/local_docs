@@ -1,8 +1,8 @@
 # Lugger
 ---
 #noun
-- **That which [[l/_lugs|lugs]] in [[e/_either|either]] [[l/_literal|literal]] or [[f/_figurative|figurative]] senses.**
-- **[[o/_one|One]] who [[l/_lugs|lugs]], [[e/_especially|especially]] [[o/_one|one]] whose [[j/_job|job]] [[e/_entails|entails]] pulling or [[m/_moving|moving]] [[h/_heavy|heavy]] [[o/_objects|objects]].**
+- **That which [[l/_lugs|lugs]] in [[e/_either|either]] [[l/_literal|literal]] or [[f/_figurative|figurative]] [[s/_senses|senses]].**
+- **[[o/_one|One]] who [[l/_lugs|lugs]], [[e/_especially|especially]] [[o/_one|one]] whose [[j/_job|job]] [[e/_entails|entails]] [[p/_pulling|pulling]] or [[m/_moving|moving]] [[h/_heavy|heavy]] [[o/_objects|objects]].**
 - **A conman.**
 - **A [[p/_person|person]] [[h/_hired|hired]] by a [[g/_gambling|gambling]] [[e/_establishment|establishment]] to [[l/_locate|locate]] [[p/_potential|potential]] [[c/_customers|customers]] and [[b/_bring|bring]] them in.**
 ---

@@ -1,6 +1,6 @@
 # Hotelier
 ---
 #noun
-- **Someone who runs a [[h/_hotel|hotel]]**
+- **[[s/_someone|Someone]] who [[r/_runs|runs]] a [[h/_hotel|hotel]]**
 ---
 ---

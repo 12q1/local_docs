@@ -9,12 +9,12 @@
 - [[e/_enliven|enliven]], [[v/_vitalise|vitalise]]
 #adjective
 - **That which [[l/_lives|lives]].**
-- **[[p/_possessing|Possessing]] the quality or [[a/_ability|ability]] of [[m/_motion|motion]].**
+- **[[p/_possessing|Possessing]] the [[q/_quality|quality]] or [[a/_ability|ability]] of [[m/_motion|motion]].**
 - **[[d/_dynamic|Dynamic]], [[e/_energetic|energetic]].**
 	- _Example: She is an engaging and animate speaker._
-- **([[g/_grammar|grammar]], of a [[n/_noun|noun]] or pronoun) [[h/_having|Having]] a referent that [[i/_includes|includes]] a [[h/_human|human]], [[a/_animal|animal]], [[p/_plant|plant]] or [[o/_other|other]] [[e/_entity|entity]] which is [[c/_considered|considered]] [[a/_alive|alive]].**
+- **([[g/_grammar|grammar]], of a [[n/_noun|noun]] or [[p/_pronoun|pronoun]]) [[h/_having|Having]] a [[r/_referent|referent]] that [[i/_includes|includes]] a [[h/_human|human]], [[a/_animal|animal]], [[p/_plant|plant]] or [[o/_other|other]] [[e/_entity|entity]] which is [[c/_considered|considered]] [[a/_alive|alive]].**
 	- _Example: Nouns can be singular or plural, and one of two genders, animate or inanimate._
-- **([[g/_grammar|grammar]]) [[i/_inflected|Inflected]] to [[a/_agree|agree]] with an [[a/_animate|animate]] [[n/_noun|noun]] or pronoun.**
+- **([[g/_grammar|grammar]]) [[i/_inflected|Inflected]] to [[a/_agree|agree]] with an [[a/_animate|animate]] [[n/_noun|noun]] or [[p/_pronoun|pronoun]].**
 ---
 ### Synonyms
 - [[a/_active|active]], [[d/_dynamic|dynamic]], [[e/_energetic|energetic]], [[l/_lively|lively]], [[p/_perky|perky]], [[v/_vivacious|vivacious]], [[a/_astir|astir]], [[d/_dynamic|dynamic]], [[k/_kinetic|kinetic]], [[m/_motile|motile]], [[a/_alive|alive]], [[l/_live|live]], [[l/_living|living]], [[a/_alive|alive]], [[l/_living|living]], [[v/_vital|vital]]

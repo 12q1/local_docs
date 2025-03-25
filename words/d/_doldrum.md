@@ -1,7 +1,7 @@
 # Doldrum
 ---
 #noun
-- **A slothful or stupid [[p/_person|person]].**
+- **A [[s/_slothful|slothful]] or stupid [[p/_person|person]].**
 ---
 ### Synonyms
 - [[d/_dullard|dullard]]

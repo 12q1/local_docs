@@ -1,6 +1,6 @@
 # Ghibli
 ---
 #noun
-- **([[l/_libya|Libya]]) sirocco**
+- **([[l/_libya|Libya]]) [[s/_sirocco|sirocco]]**
 ---
 ---

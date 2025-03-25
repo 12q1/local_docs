@@ -1,12 +1,12 @@
 # Gobs
 ---
 #noun
-- **A [[l/_lump|lump]] of soft or sticky [[m/_material|material]].**
+- **A [[l/_lump|lump]] of [[s/_soft|soft]] or sticky [[m/_material|material]].**
 - **The [[m/_mouth|mouth]].**
 	- _Example: He′s always stuffing his gob with fast food._
-- **Saliva or [[p/_phlegm|phlegm]].**
+- **[[s/_saliva|Saliva]] or [[p/_phlegm|phlegm]].**
 	- _Example: He spat a big ball of gob on to the pavement._
-- **A sailor.**
+- **A [[s/_sailor|sailor]].**
 - **Waste [[m/_material|material]] in [[o/_old|old]] [[m/_mine|mine]] workings, [[g/_goaf|goaf]].**
 - **A whoopee [[p/_pie|pie]].**
 ---

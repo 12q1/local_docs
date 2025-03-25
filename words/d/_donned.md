@@ -1,7 +1,7 @@
 # Donned
 ---
 #verb
-- **([[c/_clothing|clothing]]) To put on, to [[d/_dress|dress]] in.**
+- **([[c/_clothing|clothing]]) To [[p/_put|put]] on, to [[d/_dress|dress]] in.**
 	- _Example: To don one's clothes._
 ---
 ### Synonyms

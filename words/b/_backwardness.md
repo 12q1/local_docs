@@ -2,6 +2,6 @@
 ---
 #noun
 - **The state of [[b/_being|being]] [[b/_backward|backward]].**
-- **Reluctance.**
+- **[[r/_reluctance|Reluctance]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Asquint
 ---
 #adjective
-- **[[l/_looking|Looking]] sideways, as though warily.**
+- **[[l/_looking|Looking]] [[s/_sideways|sideways]], as though warily.**
 	- _Example: Eyes asquint, he saw she was driving much too fast._
 ---
 #adverb

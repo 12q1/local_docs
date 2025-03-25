@@ -7,7 +7,7 @@
 ### Synonyms
 - [[a/_antiepileptic|antiepileptic]]
 #adjective
-- **Of or relating to [[e/_epilepsy|epilepsy]].**
-- **Of or relating to an [[e/_epileptic|epileptic]] or [[e/_epileptics|epileptics]] ([[e/_epileptic|epileptic]] [[p/_people|people]]).**
+- **Of or [[r/_relating|relating]] to [[e/_epilepsy|epilepsy]].**
+- **Of or [[r/_relating|relating]] to an [[e/_epileptic|epileptic]] or [[e/_epileptics|epileptics]] ([[e/_epileptic|epileptic]] [[p/_people|people]]).**
 ---
 ---

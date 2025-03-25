@@ -1,9 +1,9 @@
 # Cupel
 ---
 #noun
-- **A small [[c/_circular|circular]] receptacle used in [[a/_assaying|assaying]] [[g/_gold|gold]] or silver with [[l/_lead|lead]].**
+- **A [[s/_small|small]] [[c/_circular|circular]] [[r/_receptacle|receptacle]] used in [[a/_assaying|assaying]] [[g/_gold|gold]] or [[s/_silver|silver]] with [[l/_lead|lead]].**
 ---
 #verb
-- **To refine by [[m/_means|means]] of a [[c/_cupel|cupel]].**
+- **To [[r/_refine|refine]] by [[m/_means|means]] of a [[c/_cupel|cupel]].**
 ---
 ---

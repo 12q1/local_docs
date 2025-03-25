@@ -1,10 +1,10 @@
 # Eclectic
 ---
 #noun
-- **Someone who selects [[a/_according|according]] to the [[e/_eclectic|eclectic]] [[m/_method|method]].**
+- **[[s/_someone|Someone]] who [[s/_selects|selects]] [[a/_according|according]] to the [[e/_eclectic|eclectic]] [[m/_method|method]].**
 ---
 #adjective
-- **Selecting a [[m/_mixture|mixture]] of what [[a/_appears|appears]] to be [[b/_best|best]] of various [[d/_doctrines|doctrines]], [[m/_methods|methods]] or styles.**
+- **[[s/_selecting|Selecting]] a [[m/_mixture|mixture]] of what [[a/_appears|appears]] to be [[b/_best|best]] of various [[d/_doctrines|doctrines]], [[m/_methods|methods]] or styles.**
 - **Unrelated and unspecialized; [[h/_heterogeneous|heterogeneous]].**
 ---
 ### Synonyms

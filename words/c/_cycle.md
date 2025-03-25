@@ -1,36 +1,36 @@
 # Cycle
 ---
 #noun
-- **An [[i/_interval|interval]] of space or time in which [[o/_one|one]] set of [[e/_events|events]] or [[p/_phenomena|phenomena]] is [[c/_completed|completed]].**
+- **An [[i/_interval|interval]] of [[s/_space|space]] or time in which [[o/_one|one]] [[s/_set|set]] of [[e/_events|events]] or [[p/_phenomena|phenomena]] is [[c/_completed|completed]].**
 	- _Example: the cycle of the seasons, or of the year_
-- **A [[c/_complete|complete]] rotation of [[a/_anything|anything]].**
-- **A process that returns to [[i/_its|its]] [[b/_beginning|beginning]] and then repeats [[i/_itself|itself]] in the same sequence.**
+- **A [[c/_complete|complete]] [[r/_rotation|rotation]] of [[a/_anything|anything]].**
+- **A [[p/_process|process]] that [[r/_returns|returns]] to [[i/_its|its]] [[b/_beginning|beginning]] and then [[r/_repeats|repeats]] [[i/_itself|itself]] in the [[s/_same|same]] [[s/_sequence|sequence]].**
 	- _Example: electoral cycle_
-- **The [[m/_members|members]] of the sequence [[f/_formed|formed]] by such a process.**
-- **In [[m/_musical|musical]] set theory, an [[i/_interval|interval]] [[c/_cycle|cycle]] is the set of [[p/_pitch|pitch]] [[c/_classes|classes]] resulting from repeatedly [[a/_applying|applying]] the same [[i/_interval|interval]] [[c/_class|class]] to the starting [[p/_pitch|pitch]] [[c/_class|class]].**
+- **The [[m/_members|members]] of the [[s/_sequence|sequence]] [[f/_formed|formed]] by such a [[p/_process|process]].**
+- **In [[m/_musical|musical]] [[s/_set|set]] theory, an [[i/_interval|interval]] [[c/_cycle|cycle]] is the [[s/_set|set]] of [[p/_pitch|pitch]] [[c/_classes|classes]] [[r/_resulting|resulting]] from [[r/_repeatedly|repeatedly]] [[a/_applying|applying]] the [[s/_same|same]] [[i/_interval|interval]] [[c/_class|class]] to the starting [[p/_pitch|pitch]] [[c/_class|class]].**
 	- _Example: The interval cycle C4 consists of the pitch classes 0, 4 and 8; when starting on E, it is realised as the pitches E, G# and C._
-- **A series of [[p/_poems|poems]], songs or [[o/_other|other]] works of [[a/_art|art]].**
+- **A [[s/_series|series]] of [[p/_poems|poems]], [[s/_songs|songs]] or [[o/_other|other]] works of [[a/_art|art]].**
 	- _Example: The "Ring of the Nibelung" is a cycle of four operas by Richard Wagner._
-- **A programme on a washing [[m/_machine|machine]], [[d/_dishwasher|dishwasher]], or [[o/_other|other]] such [[d/_device|device]].**
+- **A [[p/_programme|programme]] on a washing [[m/_machine|machine]], [[d/_dishwasher|dishwasher]], or [[o/_other|other]] such [[d/_device|device]].**
 	- _Example: Put the washing in on a warm cycle._
 - **A [[p/_pedal|pedal]]-[[p/_powered|powered]] vehicle, such as a unicycle, [[b/_bicycle|bicycle]], or tricycle, or a [[m/_motorized|motorized]] vehicle that [[h/_has|has]] [[e/_either|either]] two or three wheels.**
-- **A single, a [[d/_double|double]], a triple, and a [[h/_home|home]] run [[h/_hit|hit]] by the same [[p/_player|player]] in the same [[g/_game|game]].**
+- **A [[s/_single|single]], a [[d/_double|double]], a triple, and a [[h/_home|home]] [[r/_run|run]] [[h/_hit|hit]] by the [[s/_same|same]] [[p/_player|player]] in the [[s/_same|same]] [[g/_game|game]].**
 	- _Example: Jones hit for the cycle in the game._
-- **A [[c/_closed|closed]] walk or [[p/_path|path]], with or without repeated vertices [[a/_allowed|allowed]].**
+- **A [[c/_closed|closed]] walk or [[p/_path|path]], with or without [[r/_repeated|repeated]] vertices [[a/_allowed|allowed]].**
 - **([[a/_algebraic|algebraic]] topology) A [[c/_chain|chain]] whose [[b/_boundary|boundary]] is zero.**
 - **An [[i/_imaginary|imaginary]] [[c/_circle|circle]] or [[o/_orbit|orbit]] in the [[h/_heavens|heavens]]; [[o/_one|one]] of the [[c/_celestial|celestial]] spheres.**
 - **An [[a/_age|age]]; a [[l/_long|long]] [[p/_period|period]] of time.**
 - **An [[o/_orderly|orderly]] [[l/_list|list]] for a [[g/_given|given]] time; a [[c/_calendar|calendar]].**
-- **[[o/_one|One]] [[e/_entire|entire]] round in a [[c/_circle|circle]] or a spire.**
+- **[[o/_one|One]] [[e/_entire|entire]] [[r/_round|round]] in a [[c/_circle|circle]] or a spire.**
 	- _Example: a cycle or set of leaves_
 - **A [[d/_discharge|discharge]] of a taser.**
 ---
 #verb
-- **To ride a [[b/_bicycle|bicycle]] or [[o/_other|other]] [[c/_cycle|cycle]].**
-- **To [[g/_go|go]] through a [[c/_cycle|cycle]] or to put through a [[c/_cycle|cycle]].**
+- **To [[r/_ride|ride]] a [[b/_bicycle|bicycle]] or [[o/_other|other]] [[c/_cycle|cycle]].**
+- **To [[g/_go|go]] through a [[c/_cycle|cycle]] or to [[p/_put|put]] through a [[c/_cycle|cycle]].**
 - **To turn [[p/_power|power]] [[o/_off|off]] and [[b/_back|back]] on**
 	- _Example: Avoid cycling the device unnecessarily._
-- **To [[m/_maintain|maintain]] a team's [[p/_possession|possession]] of the puck in the [[o/_offensive|offensive]] zone by [[h/_handling|handling]] and [[p/_passing|passing]] the puck in a [[l/_loop|loop]] from the [[b/_boards|boards]] [[n/_near|near]] the [[g/_goal|goal]] up the side [[b/_boards|boards]] and [[p/_passing|passing]] to [[b/_back|back]] to the [[b/_boards|boards]] [[n/_near|near]] the [[g/_goal|goal]]**
+- **To [[m/_maintain|maintain]] a team'[[s/_s|s]] [[p/_possession|possession]] of the [[p/_puck|puck]] in the [[o/_offensive|offensive]] zone by [[h/_handling|handling]] and [[p/_passing|passing]] the [[p/_puck|puck]] in a [[l/_loop|loop]] from the [[b/_boards|boards]] [[n/_near|near]] the [[g/_goal|goal]] up the [[s/_side|side]] [[b/_boards|boards]] and [[p/_passing|passing]] to [[b/_back|back]] to the [[b/_boards|boards]] [[n/_near|near]] the [[g/_goal|goal]]**
 	- _Example: They have their cycling game going tonight._
 ---
 ---

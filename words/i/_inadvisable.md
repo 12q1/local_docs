@@ -1,6 +1,6 @@
 # Inadvisable
 ---
 #adjective
-- **Unwise; not recommended; not prudent; not to be [[a/_advised|advised]]**
+- **Unwise; not [[r/_recommended|recommended]]; not [[p/_prudent|prudent]]; not to be [[a/_advised|advised]]**
 ---
 ---

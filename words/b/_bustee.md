@@ -1,6 +1,6 @@
 # Bustee
 ---
 #noun
-- **A slum.**
+- **A [[s/_slum|slum]].**
 ---
 ---

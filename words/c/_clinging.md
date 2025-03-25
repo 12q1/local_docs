@@ -4,7 +4,7 @@
 - **To [[h/_hold|hold]] very tightly, as to not [[f/_fall|fall]] [[o/_off|off]].**
 	- _Example: Seaweed clung to the anchor._
 - **To [[a/_adhere|adhere]] to an [[o/_object|object]], without [[b/_being|being]] [[a/_affixed|affixed]], in such a way as to [[f/_follow|follow]] [[i/_its|its]] [[c/_contours|contours]]. Used [[e/_especially|especially]] of [[f/_fabrics|fabrics]] and [[f/_films|films]].**
-- **To [[c/_cause|cause]] to [[a/_adhere|adhere]] to, [[e/_especially|especially]] by twining round or [[e/_embracing|embracing]].**
+- **To [[c/_cause|cause]] to [[a/_adhere|adhere]] to, [[e/_especially|especially]] by twining [[r/_round|round]] or [[e/_embracing|embracing]].**
 - **To [[c/_cause|cause]] to [[d/_dry|dry]] up or wither.**
 - **To [[d/_dry|dry]] up or wither.**
 	- _Example: Wood clings._
@@ -13,7 +13,7 @@
 ### Synonyms
 - [[c/_cleave|cleave]], [[s/_stick|stick]], [[c/_clinch|clinch]], [[g/_grip|grip]]
 #verb
-- **To produce a [[h/_high|high]]-[[p/_pitched|pitched]] ringing sound, [[l/_like|like]] a small [[b/_bell|bell]].**
+- **To [[p/_produce|produce]] a [[h/_high|high]]-[[p/_pitched|pitched]] [[r/_ringing|ringing]] [[s/_sound|sound]], [[l/_like|like]] a [[s/_small|small]] [[b/_bell|bell]].**
 ---
 #noun
 - **The [[a/_act|act]] of [[o/_one|one]] who [[c/_clings|clings]].**

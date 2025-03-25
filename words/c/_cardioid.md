@@ -1,10 +1,10 @@
 # Cardioid
 ---
 #noun
-- **An [[e/_epicycloid|epicycloid]] with [[e/_exactly|exactly]] [[o/_one|one]] [[c/_cusp|cusp]]; the [[p/_plane|plane]] [[c/_curve|curve]] with [[p/_polar|polar]] [[e/_equation|equation]] \rho = 1 + \[[c/_cos|cos]]\,\theta - [[a/_approximately|approximately]] [[h/_heart|heart]]-shaped**
+- **An [[e/_epicycloid|epicycloid]] with [[e/_exactly|exactly]] [[o/_one|one]] [[c/_cusp|cusp]]; the [[p/_plane|plane]] [[c/_curve|curve]] with [[p/_polar|polar]] [[e/_equation|equation]] \[[r/_rho|rho]] = 1 + \[[c/_cos|cos]]\,\theta - [[a/_approximately|approximately]] [[h/_heart|heart]]-[[s/_shaped|shaped]]**
 ---
 #adjective
-- **[[h/_having|Having]] this [[c/_characteristic|characteristic]] shape**
-- **(of a [[m/_microphone|microphone]]) sensitive in [[f/_front|front]], but not [[b/_behind|behind]] or at the sides**
+- **[[h/_having|Having]] this [[c/_characteristic|characteristic]] [[s/_shape|shape]]**
+- **(of a [[m/_microphone|microphone]]) [[s/_sensitive|sensitive]] in [[f/_front|front]], but not [[b/_behind|behind]] or at the [[s/_sides|sides]]**
 ---
 ---

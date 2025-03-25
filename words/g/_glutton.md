@@ -7,7 +7,7 @@
 - **The wolverine, [[g/_gulo|Gulo]] [[g/_gulo|gulo]].**
 ---
 #verb
-- **To [[g/_glut|glut]]; to satisfy ([[e/_especially|especially]] an [[a/_appetite|appetite]]) by [[f/_filling|filling]] to [[c/_capacity|capacity]].**
+- **To [[g/_glut|glut]]; to [[s/_satisfy|satisfy]] ([[e/_especially|especially]] an [[a/_appetite|appetite]]) by [[f/_filling|filling]] to [[c/_capacity|capacity]].**
 - **To [[g/_glut|glut]]; to [[e/_eat|eat]] voraciously.**
 ---
 #adjective

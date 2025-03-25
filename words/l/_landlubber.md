@@ -1,7 +1,7 @@
 # Landlubber
 ---
 #noun
-- **Someone unfamiliar with the sea or seamanship, [[e/_especially|especially]] a [[n/_novice|novice]] seaman.**
+- **[[s/_someone|Someone]] unfamiliar with the [[s/_sea|sea]] or [[s/_seamanship|seamanship]], [[e/_especially|especially]] a [[n/_novice|novice]] [[s/_seaman|seaman]].**
 ---
 ### Synonyms
 - [[l/_lubber|lubber]]

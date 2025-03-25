@@ -1,7 +1,7 @@
 # Feelings
 ---
 #noun
-- **Sensation, [[p/_particularly|particularly]] through the skin.**
+- **[[s/_sensation|Sensation]], [[p/_particularly|particularly]] through the [[s/_skin|skin]].**
 	- _Example: The wool on my arm produced a strange feeling._
 - **[[e/_emotion|Emotion]]; [[i/_impression|impression]].**
 	- _Example: The house gave me a feeling of dread._

@@ -1,7 +1,7 @@
 # Inexact
 ---
 #adjective
-- **[[i/_imperfectly|Imperfectly]] [[c/_conforming|conforming]]; [[e/_exceeding|exceeding]] or [[f/_falling|falling]] short in some respect.**
+- **[[i/_imperfectly|Imperfectly]] [[c/_conforming|conforming]]; [[e/_exceeding|exceeding]] or [[f/_falling|falling]] [[s/_short|short]] in [[s/_some|some]] [[r/_respect|respect]].**
 - **[[i/_imprecisely|Imprecisely]] or [[i/_indefinitely|indefinitely]] [[c/_conceived|conceived]] or stated.**
 - **(of a [[d/_differential|differential]]) [[h/_having|having]] a [[p/_path|path]]-[[d/_dependent|dependent]] [[i/_integral|integral]]**
 ---

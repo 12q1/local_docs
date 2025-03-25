@@ -1,7 +1,7 @@
 # Chiefdoms
 ---
 #noun
-- **An [[a/_area|area]] or region [[g/_governed|governed]] by a [[c/_chief|chief]].**
-- **A society [[l/_larger|larger]] than a tribe but smaller or simpler than a state.**
+- **An [[a/_area|area]] or [[r/_region|region]] [[g/_governed|governed]] by a [[c/_chief|chief]].**
+- **A [[s/_society|society]] [[l/_larger|larger]] than a tribe but [[s/_smaller|smaller]] or [[s/_simpler|simpler]] than a state.**
 ---
 ---

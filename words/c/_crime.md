@@ -2,7 +2,7 @@
 ---
 #noun
 - **A specific [[a/_act|act]] [[c/_committed|committed]] in violation of the [[l/_law|law]].**
-- **[[a/_any|Any]] [[g/_great|great]] sin or wickedness; [[i/_iniquity|iniquity]].**
+- **[[a/_any|Any]] [[g/_great|great]] [[s/_sin|sin]] or wickedness; [[i/_iniquity|iniquity]].**
 - **That which [[o/_occasions|occasions]] [[c/_crime|crime]].**
 - **[[c/_criminal|Criminal]] [[a/_acts|acts]] [[c/_collectively|collectively]].**
 - **The [[h/_habit|habit]] or [[p/_practice|practice]] of [[c/_committing|committing]] [[c/_crimes|crimes]].**
@@ -11,7 +11,7 @@
 ### Synonyms
 - [[c/_criminality|criminality]], [[d/_delinquency|delinquency]]
 #verb
-- **To subject to [[d/_disciplinary|disciplinary]] punishment.**
-- **To [[c/_commit|commit]] [[c/_crime|crime]](s).**
+- **To subject to [[d/_disciplinary|disciplinary]] [[p/_punishment|punishment]].**
+- **To [[c/_commit|commit]] [[c/_crime|crime]]([[s/_s|s]]).**
 ---
 ---

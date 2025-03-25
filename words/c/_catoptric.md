@@ -1,6 +1,6 @@
 # Catoptric
 ---
 #adjective
-- **Of, relating to, or produced by [[m/_mirrors|mirrors]] or reflections.**
+- **Of, [[r/_relating|relating]] to, or [[p/_produced|produced]] by [[m/_mirrors|mirrors]] or [[r/_reflections|reflections]].**
 ---
 ---

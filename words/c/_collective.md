@@ -11,7 +11,7 @@
 	- _Example: the collective body of a nation_
 - **Tending to [[c/_collect|collect]]; [[f/_forming|forming]] a [[c/_collection|collection]]**
 - **[[h/_having|Having]] [[p/_plurality|plurality]] of [[o/_origin|origin]] or [[a/_authority|authority]]**
-- **([[g/_grammar|grammar]]) [[e/_expressing|expressing]] a [[c/_collection|collection]] or [[a/_aggregate|aggregate]] of [[i/_individuals|individuals]], by a singular [[f/_form|form]]**
-- **[[d/_deducing|Deducing]] [[c/_consequences|consequences]]; reasoning; [[i/_inferring|inferring]].**
+- **([[g/_grammar|grammar]]) [[e/_expressing|expressing]] a [[c/_collection|collection]] or [[a/_aggregate|aggregate]] of [[i/_individuals|individuals]], by a [[s/_singular|singular]] [[f/_form|form]]**
+- **[[d/_deducing|Deducing]] [[c/_consequences|consequences]]; [[r/_reasoning|reasoning]]; [[i/_inferring|inferring]].**
 ---
 ---

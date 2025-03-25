@@ -1,7 +1,7 @@
 # Conscripts
 ---
 #noun
-- **[[o/_one|One]] who is [[c/_compulsorily|compulsorily]] [[e/_enrolled|enrolled]], [[o/_often|often]] [[i/_into|into]] a [[m/_military|military]] service; a [[d/_draftee|draftee]].**
+- **[[o/_one|One]] who is [[c/_compulsorily|compulsorily]] [[e/_enrolled|enrolled]], [[o/_often|often]] [[i/_into|into]] a [[m/_military|military]] [[s/_service|service]]; a [[d/_draftee|draftee]].**
 	- _Example: The soldier was a conscript._
 ---
 #verb

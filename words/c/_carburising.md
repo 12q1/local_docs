@@ -1,7 +1,7 @@
 # Carburising
 ---
 #verb
-- **To treat or react with [[c/_carbon|carbon]]**
+- **To treat or [[r/_react|react]] with [[c/_carbon|carbon]]**
 - **To [[c/_carbonize|carbonize]]**
 ---
 ---

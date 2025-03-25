@@ -1,12 +1,12 @@
 # Freaky
 ---
 #adjective
-- **Resembling a [[f/_freak|freak]].**
+- **[[r/_resembling|Resembling]] a [[f/_freak|freak]].**
 - **[[o/_odd|Odd]]; [[b/_bizarre|bizarre]]; unusual.**
 	- _Example: I've heard the props and costumes in this play are quite freaky._
-- **Scary; [[f/_frightening|frightening]].**
+- **[[s/_scary|Scary]]; [[f/_frightening|frightening]].**
 	- _Example: Have you met the freaky new guy who moved in next door?_
-- **Sexually [[d/_deviant|deviant]].**
+- **[[s/_sexually|Sexually]] [[d/_deviant|deviant]].**
 	- _Example: The things she asked me to do were too freaky for me._
 ---
 ---

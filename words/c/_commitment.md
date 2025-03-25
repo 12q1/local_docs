@@ -1,10 +1,10 @@
 # Commitment
 ---
 #noun
-- **The [[a/_act|act]] or an [[i/_instance|instance]] of [[c/_committing|committing]], putting in [[c/_charge|charge]], [[k/_keeping|keeping]], or trust, [[e/_especially|especially]]:**
-- **Promise or [[a/_agreement|agreement]] to [[d/_do|do]] something in the [[f/_future|future]], [[e/_especially|especially]]:**
+- **The [[a/_act|act]] or an [[i/_instance|instance]] of [[c/_committing|committing]], [[p/_putting|putting]] in [[c/_charge|charge]], [[k/_keeping|keeping]], or trust, [[e/_especially|especially]]:**
+- **[[p/_promise|Promise]] or [[a/_agreement|agreement]] to [[d/_do|do]] [[s/_something|something]] in the [[f/_future|future]], [[e/_especially|especially]]:**
 - **[[b/_being|Being]] [[b/_bound|bound]] [[e/_emotionally|emotionally]] or [[i/_intellectually|intellectually]] to a [[c/_course|course]] of [[a/_action|action]] or to [[a/_another|another]] [[p/_person|person]] or [[p/_persons|persons]].**
-- **The trait of sincerity and [[f/_focused|focused]] purpose.**
+- **The trait of [[s/_sincerity|sincerity]] and [[f/_focused|focused]] [[p/_purpose|purpose]].**
 - **[[p/_perpetration|Perpetration]] as in a [[c/_crime|crime]] or [[m/_mistake|mistake]].**
 - **State of [[b/_being|being]] [[p/_pledged|pledged]] or [[e/_engaged|engaged]].**
 - **The [[a/_act|act]] of [[b/_being|being]] [[l/_locked|locked]] [[a/_away|away]], such as in an [[i/_institution|institution]] for the [[m/_mentally|mentally]] [[i/_ill|ill]] or in [[j/_jail|jail]].**

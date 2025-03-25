@@ -5,6 +5,6 @@
 - **A [[d/_display|display]] of [[d/_daring|daring]].**
 ---
 #adjective
-- **[[o/_overly|Overly]] showy; [[o/_ostentatious|ostentatious]].**
+- **[[o/_overly|Overly]] [[s/_showy|showy]]; [[o/_ostentatious|ostentatious]].**
 ---
 ---

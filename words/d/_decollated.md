@@ -4,9 +4,9 @@
 - **To [[b/_behead|behead]].**
 ---
 #verb
-- **To separate the [[c/_copies|copies]] of multipart [[c/_computer|computer]] printout.**
+- **To [[s/_separate|separate]] the [[c/_copies|copies]] of multipart [[c/_computer|computer]] [[p/_printout|printout]].**
 ---
 #adjective
-- **Rounded [[o/_off|off]], as the [[a/_apex|apex]] of a shell.**
+- **[[r/_rounded|Rounded]] [[o/_off|off]], as the [[a/_apex|apex]] of a [[s/_shell|shell]].**
 ---
 ---

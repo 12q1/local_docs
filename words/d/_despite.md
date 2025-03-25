@@ -9,7 +9,7 @@
 - **To vex; to [[a/_annoy|annoy]]; to [[o/_offend|offend]] [[c/_contemptuously|contemptuously]].**
 ---
 #preposition
-- **In spite of, [[n/_notwithstanding|notwithstanding]], regardless of.**
+- **In spite of, [[n/_notwithstanding|notwithstanding]], [[r/_regardless|regardless]] of.**
 ---
 ### Synonyms
 - [[m/_maugre|maugre]]

@@ -1,6 +1,6 @@
 # Lithographic
 ---
 #adjective
-- **Related to the [[m/_method|method]] of [[l/_lithography|lithography]].**
+- **[[r/_related|Related]] to the [[m/_method|method]] of [[l/_lithography|lithography]].**
 ---
 ---

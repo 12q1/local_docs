@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to a [[d/_division|division]].**
-- **Of or [[p/_pertaining|pertaining]] to the process of [[d/_division|division]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[p/_process|process]] of [[d/_division|division]].**
 ---
 ---

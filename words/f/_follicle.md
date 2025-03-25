@@ -1,7 +1,7 @@
 # Follicle
 ---
 #noun
-- **A small [[c/_cavity|cavity]] or sac, such as a [[h/_hair|hair]] [[f/_follicle|follicle]].**
-- **A type of primitive [[d/_dry|dry]] [[f/_fruit|fruit]] produced by [[c/_certain|certain]] [[f/_flowering|flowering]] [[p/_plants|plants]].**
+- **A [[s/_small|small]] [[c/_cavity|cavity]] or [[s/_sac|sac]], such as a [[h/_hair|hair]] [[f/_follicle|follicle]].**
+- **A type of [[p/_primitive|primitive]] [[d/_dry|dry]] [[f/_fruit|fruit]] [[p/_produced|produced]] by [[c/_certain|certain]] [[f/_flowering|flowering]] [[p/_plants|plants]].**
 ---
 ---

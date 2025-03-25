@@ -5,6 +5,6 @@
 - **To [[m/_move|move]] or [[f/_fall|fall]] in a [[f/_flurry|flurry]].**
 ---
 #noun
-- **A [[b/_brief|brief]] [[b/_blast|blast]] or shower, as of snow.**
+- **A [[b/_brief|brief]] [[b/_blast|blast]] or [[s/_shower|shower]], as of [[s/_snow|snow]].**
 ---
 ---

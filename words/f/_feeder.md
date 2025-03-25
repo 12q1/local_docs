@@ -3,17 +3,17 @@
 #noun
 - **[[o/_one|One]] who [[f/_feeds|feeds]], or [[g/_gives|gives]] [[f/_food|food]] to [[a/_another|another]].**
 - **[[o/_one|One]] who [[f/_feeds|feeds]], or takes in [[f/_food|food]].**
-- **[[o/_one|One]] who, or that which, [[f/_feeds|feeds]] [[m/_material|material]] [[i/_into|into]] something.**
+- **[[o/_one|One]] who, or that which, [[f/_feeds|feeds]] [[m/_material|material]] [[i/_into|into]] [[s/_something|something]].**
 - **That which is used to [[f/_feed|feed]].**
 	- _Example: a bird feeder_
 - **A tributary stream, [[e/_especially|especially]] of a [[c/_canal|canal]].**
-- **A [[b/_branch|branch]] [[l/_line|line]] of a railway.**
+- **A [[b/_branch|branch]] [[l/_line|line]] of a [[r/_railway|railway]].**
 - **A transmission [[l/_line|line]] that [[f/_feeds|feeds]] the [[e/_electricity|electricity]] for an [[e/_electricity|electricity]] substation, or for a transmitter.**
-- **A [[f/_feeder|feeder]] school.**
-- **A [[f/_feeder|feeder]] ship.**
-- **A [[j/_judge|judge]] whose [[l/_law|law]] [[c/_clerks|clerks]] are [[o/_often|often]] selected to [[b/_become|become]] [[c/_clerks|clerks]] for the Supreme [[c/_court|Court]].**
+- **A [[f/_feeder|feeder]] [[s/_school|school]].**
+- **A [[f/_feeder|feeder]] [[s/_ship|ship]].**
+- **A [[j/_judge|judge]] whose [[l/_law|law]] [[c/_clerks|clerks]] are [[o/_often|often]] [[s/_selected|selected]] to [[b/_become|become]] [[c/_clerks|clerks]] for the Supreme [[c/_court|Court]].**
 - **(1800s) The [[p/_pitcher|pitcher]].**
-- **A [[p/_player|player]] whose [[c/_character|character]] is [[k/_killed|killed]] by the [[o/_opposing|opposing]] [[p/_player|player]] or team [[m/_more|more]] than [[o/_once|once]], [[d/_deliberately|deliberately]] or through [[l/_lack|lack]] of skills and [[e/_experience|experience]], thus [[h/_helping|helping]] the [[o/_opposing|opposing]] side.**
+- **A [[p/_player|player]] whose [[c/_character|character]] is [[k/_killed|killed]] by the [[o/_opposing|opposing]] [[p/_player|player]] or team [[m/_more|more]] than [[o/_once|once]], [[d/_deliberately|deliberately]] or through [[l/_lack|lack]] of [[s/_skills|skills]] and [[e/_experience|experience]], thus [[h/_helping|helping]] the [[o/_opposing|opposing]] [[s/_side|side]].**
 - **[[o/_one|One]] who [[a/_abets|abets]] [[a/_another|another]].**
 - **A [[p/_parasite|parasite]].**
 ---

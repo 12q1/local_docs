@@ -7,10 +7,10 @@
 #adjective
 - **[[e/_exhibiting|Exhibiting]] [[b/_bias|bias]]; [[p/_prejudiced|prejudiced]].**
 	- _Example: The newspaper gave a biased account of the incident._
-- **[[a/_angled|Angled]] at a slant.**
+- **[[a/_angled|Angled]] at a [[s/_slant|slant]].**
 	- _Example: The table had a biased edge._
 - **On which an [[e/_electrical|electrical]] [[b/_bias|bias]] is [[a/_applied|applied]].**
-- **[[e/_exhibiting|Exhibiting]] a systematic [[d/_distortion|distortion]] of results [[d/_due|due]] to a [[f/_factor|factor]] not [[a/_allowed|allowed]] for in [[i/_its|its]] [[d/_derivation|derivation]]; skewed.**
+- **[[e/_exhibiting|Exhibiting]] a [[s/_systematic|systematic]] [[d/_distortion|distortion]] of [[r/_results|results]] [[d/_due|due]] to a [[f/_factor|factor]] not [[a/_allowed|allowed]] for in [[i/_its|its]] [[d/_derivation|derivation]]; [[s/_skewed|skewed]].**
 ---
 ### Synonyms
 - [[p/_partial|partial]], [[p/_prejudiced|prejudiced]], [[t/_tendentious|tendentious]]

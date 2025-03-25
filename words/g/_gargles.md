@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_liquid|liquid]] used for [[g/_gargling|gargling]]**
-- **The sound of [[g/_gargling|gargling]]**
+- **The [[s/_sound|sound]] of [[g/_gargling|gargling]]**
 - **[[l/_lager|Lager]], [[d/_drink|drink]]**
 ---
 ### Synonyms

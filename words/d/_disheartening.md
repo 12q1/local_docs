@@ -1,7 +1,7 @@
 # Disheartening
 ---
 #verb
-- **To [[d/_discourage|discourage]] someone by removing their [[e/_enthusiasm|enthusiasm]] or [[c/_courage|courage]].**
+- **To [[d/_discourage|discourage]] [[s/_someone|someone]] by [[r/_removing|removing]] their [[e/_enthusiasm|enthusiasm]] or [[c/_courage|courage]].**
 ---
 ### Synonyms
 - [[d/_discourage|discourage]]

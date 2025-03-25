@@ -2,41 +2,41 @@
 ---
 #verb
 - **To [[d/_draw|draw]] [[a/_air|air]] [[i/_into|into]] ([[i/_inhale|inhale]]), and [[e/_expel|expel]] [[a/_air|air]] from ([[e/_exhale|exhale]]), the [[l/_lungs|lungs]] in [[o/_order|order]] to [[e/_extract|extract]] [[o/_oxygen|oxygen]] and [[e/_excrete|excrete]] waste [[g/_gases|gases]].**
-- **To take in [[n/_needed|needed]] [[g/_gases|gases]] and [[e/_expel|expel]] waste [[g/_gases|gases]] in a similar way.**
+- **To take in [[n/_needed|needed]] [[g/_gases|gases]] and [[e/_expel|expel]] waste [[g/_gases|gases]] in a [[s/_similar|similar]] way.**
 	- _Example: Fish have gills so they can breathe underwater._
 - **To [[i/_inhale|inhale]] (a [[g/_gas|gas]]) to sustain [[l/_life|life]].**
 	- _Example: While life as we know it depends on oxygen, scientists have speculated that alien life forms might breathe chlorine or methane._
 - **To [[l/_live|live]].**
 	- _Example: I will not allow it, as long as I still breathe._
-- **To [[d/_draw|draw]] something [[i/_into|into]] the [[l/_lungs|lungs]].**
+- **To [[d/_draw|draw]] [[s/_something|something]] [[i/_into|into]] the [[l/_lungs|lungs]].**
 	- _Example: Try not to breathe too much smoke._
 - **To [[e/_expel|expel]] [[a/_air|air]] from the [[l/_lungs|lungs]], [[e/_exhale|exhale]].**
 	- _Example: If you breathe on a mirror, it will fog up._
-- **To [[e/_exhale|exhale]] or [[e/_expel|expel]] (something) in the [[m/_manner|manner]] of [[b/_breath|breath]].**
+- **To [[e/_exhale|exhale]] or [[e/_expel|expel]] ([[s/_something|something]]) in the [[m/_manner|manner]] of [[b/_breath|breath]].**
 	- _Example: The flowers breathed a heady perfume._
 - **To [[g/_give|give]] an [[i/_impression|impression]] of, to [[e/_exude|exude]].**
 	- _Example: The decor positively breathes classical elegance._
-- **To whisper quietly.**
+- **To whisper [[q/_quietly|quietly]].**
 	- _Example: He breathed the words into her ear, but she understood them all._
 - **To [[p/_pass|pass]] [[l/_like|like]] [[b/_breath|breath]]; [[n/_noiselessly|noiselessly]] or [[g/_gently|gently]]; to [[e/_emanate|emanate]]; to [[b/_blow|blow]] [[g/_gently|gently]].**
 	- _Example: The wind breathes through the trees._
 - **To [[e/_exchange|exchange]] [[g/_gases|gases]] with the [[e/_environment|environment]].**
 	- _Example: Garments made of certain new materials breathe well and keep the skin relatively dry during exercise._
-- **To rest; to stop and [[c/_catch|catch]] [[o/_one|one]]'s [[b/_breath|breath]].**
+- **To [[r/_rest|rest]]; to stop and [[c/_catch|catch]] [[o/_one|one]]'[[s/_s|s]] [[b/_breath|breath]].**
 - **To stop, to [[g/_give|give]] (a [[h/_horse|horse]]) an [[o/_opportunity|opportunity]] to [[c/_catch|catch]] [[i/_its|its]] [[b/_breath|breath]].**
 	- _Example: At higher altitudes you need to breathe your horse more often._
 - **To [[e/_exercise|exercise]]; to tire by [[b/_brisk|brisk]] [[e/_exercise|exercise]].**
-- **To [[p/_passionately|passionately]] [[d/_devote|devote]] [[m/_much|much]] of [[o/_one|one]]'s [[l/_life|life]] to (an [[a/_activity|activity]], [[e/_etc|etc]].).**
+- **To [[p/_passionately|passionately]] [[d/_devote|devote]] [[m/_much|much]] of [[o/_one|one]]'[[s/_s|s]] [[l/_life|life]] to (an [[a/_activity|activity]], [[e/_etc|etc]].).**
 	- _Example: Do you like hiking?  Are you kidding? I breathe hiking._
 ---
 ### Synonyms
 - 
 #noun
-- **The [[a/_act|act]] of respiration; a single [[i/_instance|instance]] of this.**
+- **The [[a/_act|act]] of [[r/_respiration|respiration]]; a [[s/_single|single]] [[i/_instance|instance]] of this.**
 - **A [[d/_diacritical|diacritical]] [[m/_mark|mark]] [[i/_indicating|indicating]] [[a/_aspiration|aspiration]] or [[l/_lack|lack]] thereof.**
-- **Time to recover [[o/_one|one]]'s [[b/_breath|breath]]; [[h/_hence|hence]], a [[d/_delay|delay]], a spell of time.**
+- **Time to [[r/_recover|recover]] [[o/_one|one]]'[[s/_s|s]] [[b/_breath|breath]]; [[h/_hence|hence]], a [[d/_delay|delay]], a spell of time.**
 - **[[a/_any|Any]] [[g/_gentle|gentle]] [[i/_influence|influence]] or [[o/_operation|operation]]; [[i/_inspiration|inspiration]].**
 	- _Example: the breathings of the Holy Spirit_
-- **[[a/_aspiration|Aspiration]]; secret [[p/_prayer|prayer]].**
+- **[[a/_aspiration|Aspiration]]; [[s/_secret|secret]] [[p/_prayer|prayer]].**
 ---
 ---

@@ -9,6 +9,6 @@
 ### Antonyms
 - [[b/_believe|believe]]
 #adjective
-- **Refusing to [[b/_believe|believe]]; skeptical or [[i/_incredulous|incredulous]]**
+- **[[r/_refusing|Refusing]] to [[b/_believe|believe]]; [[s/_skeptical|skeptical]] or [[i/_incredulous|incredulous]]**
 ---
 ---

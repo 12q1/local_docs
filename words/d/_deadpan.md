@@ -1,7 +1,7 @@
 # Deadpan
 ---
 #noun
-- **A style of [[c/_comedic|comedic]] [[d/_delivery|delivery]] in which something [[h/_humorous|humorous]] is said or [[d/_done|done]] while not [[e/_exhibiting|exhibiting]] a [[c/_change|change]] in [[e/_emotion|emotion]] or [[f/_facial|facial]] [[e/_expression|expression]].**
+- **A style of [[c/_comedic|comedic]] [[d/_delivery|delivery]] in which [[s/_something|something]] [[h/_humorous|humorous]] is [[s/_said|said]] or [[d/_done|done]] while not [[e/_exhibiting|exhibiting]] a [[c/_change|change]] in [[e/_emotion|emotion]] or [[f/_facial|facial]] [[e/_expression|expression]].**
 ---
 ### Synonyms
 - 

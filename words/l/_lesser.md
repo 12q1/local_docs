@@ -1,29 +1,29 @@
 # Lesser
 ---
 #noun
-- **A thing that is of smaller size, value, [[i/_importance|importance]] [[e/_etc|etc]].**
+- **A thing that is of [[s/_smaller|smaller]] [[s/_size|size]], value, [[i/_importance|importance]] [[e/_etc|etc]].**
 	- _Example: The greater sand hills increasingly do not migrate, but almost all lessers do._
 ---
 #adjective
-- **Of two (or, rarely, [[m/_more|more]] than two) things: the smaller in size ([[l/_littler|littler]]), in value, in [[i/_importance|importance]] [[e/_etc|etc]].**
+- **Of two (or, [[r/_rarely|rarely]], [[m/_more|more]] than two) things: the [[s/_smaller|smaller]] in [[s/_size|size]] ([[l/_littler|littler]]), in value, in [[i/_importance|importance]] [[e/_etc|etc]].**
 ---
 ### Antonyms
 - [[g/_greater|greater]]
 #adjective
-- **Small in size.**
+- **[[s/_small|Small]] in [[s/_size|size]].**
 	- _Example: This is a little table._
 - **[[i/_insignificant|Insignificant]], trivial.**
 	- _Example: It's of little importance._
 - **Very [[y/_young|young]].**
 	- _Example: Did he tell you any embarrassing stories about when she was little?_
-- **(of a sibling) [[y/_younger|Younger]].**
+- **(of a [[s/_sibling|sibling]]) [[y/_younger|Younger]].**
 	- _Example: This is my little sister._
-- **([[a/_also|also]] [[l/_little|Little]]) Used with the [[n/_name|name]] of a [[p/_place|place]], [[e/_especially|especially]] of a [[c/_country|country]] or [[i/_its|its]] [[c/_capital|capital]], to [[d/_denote|denote]] a [[n/_neighborhood|neighborhood]] whose residents or storekeepers are from that [[p/_place|place]].**
-- **Small in [[a/_amount|amount]] or [[n/_number|number]], [[h/_having|having]] [[f/_few|few]] [[m/_members|members]].**
+- **([[a/_also|also]] [[l/_little|Little]]) Used with the [[n/_name|name]] of a [[p/_place|place]], [[e/_especially|especially]] of a [[c/_country|country]] or [[i/_its|its]] [[c/_capital|capital]], to [[d/_denote|denote]] a [[n/_neighborhood|neighborhood]] whose [[r/_residents|residents]] or storekeepers are from that [[p/_place|place]].**
+- **[[s/_small|Small]] in [[a/_amount|amount]] or [[n/_number|number]], [[h/_having|having]] [[f/_few|few]] [[m/_members|members]].**
 	- _Example: little money;  little herd_
-- **Short in [[d/_duration|duration]]; [[b/_brief|brief]].**
+- **[[s/_short|Short]] in [[d/_duration|duration]]; [[b/_brief|brief]].**
 	- _Example: I feel better after my little sleep._
-- **Small in [[e/_extent|extent]] of views or sympathies; [[n/_narrow|narrow]]; shallow; [[c/_contracted|contracted]]; [[m/_mean|mean]]; [[i/_illiberal|illiberal]]; ungenerous.**
+- **[[s/_small|Small]] in [[e/_extent|extent]] of views or [[s/_sympathies|sympathies]]; [[n/_narrow|narrow]]; [[s/_shallow|shallow]]; [[c/_contracted|contracted]]; [[m/_mean|mean]]; [[i/_illiberal|illiberal]]; ungenerous.**
 ---
 ### Antonyms
 - [[b/_big|big]], [[l/_large|large]], [[b/_big|big]], [[b/_big|big]]

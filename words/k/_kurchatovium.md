@@ -1,6 +1,6 @@
 # Kurchatovium
 ---
 #noun
-- **A rejected [[n/_name|name]] for rutherfordium.**
+- **A [[r/_rejected|rejected]] [[n/_name|name]] for [[r/_rutherfordium|rutherfordium]].**
 ---
 ---

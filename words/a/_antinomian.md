@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to [[a/_antinomianism|antinomianism]].**
-- **Rejecting [[m/_moral|moral]] [[a/_authority|authority]].**
+- **[[r/_rejecting|Rejecting]] [[m/_moral|moral]] [[a/_authority|authority]].**
 ---
 ---

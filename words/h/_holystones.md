@@ -1,7 +1,7 @@
 # Holystones
 ---
 #noun
-- **A [[p/_piece|piece]] of soft sandstone used for scouring the wooden [[d/_decks|decks]] of ships, usually with sand and seawater.**
+- **A [[p/_piece|piece]] of [[s/_soft|soft]] [[s/_sandstone|sandstone]] used for [[s/_scouring|scouring]] the wooden [[d/_decks|decks]] of [[s/_ships|ships]], usually with [[s/_sand|sand]] and [[s/_seawater|seawater]].**
 - **A stone with a [[n/_naturally|naturally]]-[[f/_formed|formed]] [[h/_hole|hole]], used by Yorkshiremen for [[g/_good|good]] [[l/_luck|luck]].**
 ---
 ### Synonyms

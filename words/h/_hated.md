@@ -6,6 +6,6 @@
 	- _Example: Do not fear; he who fears hates; he who hates kills. — attributed to Gandhi_
 ---
 #adjective
-- **[[d/_disliked|Disliked]]; [[o/_odious|odious]]; reviled.**
+- **[[d/_disliked|Disliked]]; [[o/_odious|odious]]; [[r/_reviled|reviled]].**
 ---
 ---

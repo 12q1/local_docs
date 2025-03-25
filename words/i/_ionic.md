@@ -1,6 +1,6 @@
 # Ionic
 ---
 #adjective
-- **Of, relating to, or [[c/_containing|containing]] [[i/_ions|ions]]**
+- **Of, [[r/_relating|relating]] to, or [[c/_containing|containing]] [[i/_ions|ions]]**
 ---
 ---

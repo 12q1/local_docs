@@ -1,7 +1,7 @@
 # Broker
 ---
 #adjective
-- **[[f/_financially|Financially]] ruined, [[b/_bankrupt|bankrupt]].**
+- **[[f/_financially|Financially]] [[r/_ruined|ruined]], [[b/_bankrupt|bankrupt]].**
 - **Without [[a/_any|any]] [[m/_money|money]], [[p/_penniless|penniless]].**
 	- _Example: dead broke; flat broke_
 - **[[b/_broken|Broken]].**

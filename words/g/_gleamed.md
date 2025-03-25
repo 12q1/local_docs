@@ -1,7 +1,7 @@
 # Gleamed
 ---
 #verb
-- **To shine; to [[g/_glitter|glitter]]; to [[g/_glisten|glisten]].**
+- **To [[s/_shine|shine]]; to [[g/_glitter|glitter]]; to [[g/_glisten|glisten]].**
 - **To be [[b/_briefly|briefly]] but strongly [[a/_apparent|apparent]].**
 - **To [[d/_disgorge|disgorge]] [[f/_filth|filth]], as a [[h/_hawk|hawk]].**
 ---

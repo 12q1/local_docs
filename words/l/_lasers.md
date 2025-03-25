@@ -1,9 +1,9 @@
 # Lasers
 ---
 #noun
-- **A [[d/_device|device]] that produces a [[m/_monochromatic|monochromatic]], [[c/_coherent|coherent]] [[b/_beam|beam]] of [[l/_light|light]].**
-- **A [[b/_beam|beam]] of [[l/_light|light]] produced by such a [[d/_device|device]]; a [[l/_laser|laser]] [[b/_beam|beam]].**
-- **A [[l/_laser|laser]] printer.**
+- **A [[d/_device|device]] that [[p/_produces|produces]] a [[m/_monochromatic|monochromatic]], [[c/_coherent|coherent]] [[b/_beam|beam]] of [[l/_light|light]].**
+- **A [[b/_beam|beam]] of [[l/_light|light]] [[p/_produced|produced]] by such a [[d/_device|device]]; a [[l/_laser|laser]] [[b/_beam|beam]].**
+- **A [[l/_laser|laser]] [[p/_printer|printer]].**
 ---
 ### Synonyms
 - [[L/_LASER|LASER]]
@@ -12,7 +12,7 @@
 - **To throw with [[l/_laser|laser]]-[[l/_like|like]] [[p/_precision|precision]]**
 ---
 #noun
-- **A [[g/_gum|gum]] resin [[o/_obtained|obtained]] from [[c/_certain|certain]] umbelliferous [[p/_plants|plants]].**
+- **A [[g/_gum|gum]] [[r/_resin|resin]] [[o/_obtained|obtained]] from [[c/_certain|certain]] umbelliferous [[p/_plants|plants]].**
 - **Such a [[p/_plant|plant]].**
 ---
 ---

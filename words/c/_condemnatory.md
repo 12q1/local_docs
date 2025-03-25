@@ -1,6 +1,6 @@
 # Condemnatory
 ---
 #adjective
-- **Serving to [[c/_condemn|condemn]] or [[c/_censure|censure]]**
+- **[[s/_serving|Serving]] to [[c/_condemn|condemn]] or [[c/_censure|censure]]**
 ---
 ---

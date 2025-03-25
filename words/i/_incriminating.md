@@ -7,6 +7,6 @@
 	- _Example: We have all sorts of evidence which incriminates you._
 ---
 #adjective
-- **[[c/_causing|Causing]], showing, or proving that [[o/_one|one]] is [[g/_guilty|guilty]] of wrongdoing.**
+- **[[c/_causing|Causing]], [[s/_showing|showing]], or [[p/_proving|proving]] that [[o/_one|one]] is [[g/_guilty|guilty]] of wrongdoing.**
 ---
 ---

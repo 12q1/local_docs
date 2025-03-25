@@ -1,6 +1,6 @@
 # Clonus
 ---
 #noun
-- **A [[m/_muscular|muscular]] spasm with regular [[c/_contractions|contractions]].**
+- **A [[m/_muscular|muscular]] [[s/_spasm|spasm]] with [[r/_regular|regular]] [[c/_contractions|contractions]].**
 ---
 ---

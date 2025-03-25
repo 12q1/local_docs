@@ -7,7 +7,7 @@
 - **A [[b/_board|board]] [[p/_placed|placed]] at the [[b/_back|back]] of a [[c/_cart|cart]], [[b/_boat|boat]], [[e/_etc|etc]].**
 ---
 #noun
-- **The [[p/_port|port]] or [[l/_larboard|larboard]] side of a ship**
+- **The [[p/_port|port]] or [[l/_larboard|larboard]] [[s/_side|side]] of a [[s/_ship|ship]]**
 ---
 ### Synonyms
 - [[l/_larboard|larboard]], [[p/_port|port]]

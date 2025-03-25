@@ -1,7 +1,7 @@
 # Deprives
 ---
 #verb
-- **To take something [[a/_away|away]] from (someone) and [[k/_keep|keep]] it [[a/_away|away]]; to [[d/_deny|deny]] someone something.**
+- **To take [[s/_something|something]] [[a/_away|away]] from ([[s/_someone|someone]]) and [[k/_keep|keep]] it [[a/_away|away]]; to [[d/_deny|deny]] [[s/_someone|someone]] [[s/_something|something]].**
 - **To [[d/_degrade|degrade]] (a [[c/_clergyman|clergyman]]) from [[o/_office|office]].**
 - **To [[b/_bereave|bereave]].**
 ---

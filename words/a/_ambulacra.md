@@ -1,6 +1,6 @@
 # Ambulacra
 ---
 #noun
-- **(of an [[e/_echinoderm|echinoderm]]) A row of [[p/_pores|pores]] for the protrusion of [[a/_appendages|appendages]] such as tube [[f/_feet|feet]].**
+- **(of an [[e/_echinoderm|echinoderm]]) A [[r/_row|row]] of [[p/_pores|pores]] for the [[p/_protrusion|protrusion]] of [[a/_appendages|appendages]] such as tube [[f/_feet|feet]].**
 ---
 ---

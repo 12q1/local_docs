@@ -9,13 +9,13 @@
 - **To [[d/_diminish|diminish]]; to [[l/_lessen|lessen]] or [[l/_lower|lower]].**
 - **To [[b/_bring|bring]] [[f/_forth|forth]].**
 	- _Example: to fall lambs_
-- **To [[i/_issue|issue]] [[f/_forth|forth]] [[i/_into|into]] [[l/_life|life]]; to be [[b/_brought|brought]] [[f/_forth|forth]]; said of the [[y/_young|young]] of [[c/_certain|certain]] [[a/_animals|animals]].**
-- **To [[d/_descend|descend]] in [[c/_character|character]] or reputation; to [[b/_become|become]] [[d/_degraded|degraded]]; to sink [[i/_into|into]] vice, [[e/_error|error]], or sin.**
+- **To [[i/_issue|issue]] [[f/_forth|forth]] [[i/_into|into]] [[l/_life|life]]; to be [[b/_brought|brought]] [[f/_forth|forth]]; [[s/_said|said]] of the [[y/_young|young]] of [[c/_certain|certain]] [[a/_animals|animals]].**
+- **To [[d/_descend|descend]] in [[c/_character|character]] or [[r/_reputation|reputation]]; to [[b/_become|become]] [[d/_degraded|degraded]]; to [[s/_sink|sink]] [[i/_into|into]] vice, [[e/_error|error]], or [[s/_sin|sin]].**
 - **To [[b/_become|become]] [[e/_ensnared|ensnared]] or [[e/_entrapped|entrapped]]; to be worse [[o/_off|off]] than [[b/_before|before]].**
 	- _Example: to fall into error;  to fall into difficulties_
-- **To [[a/_assume|assume]] a [[l/_look|look]] of shame or [[d/_disappointment|disappointment]]; to [[b/_become|become]] or [[a/_appear|appear]] [[d/_dejected|dejected]]; said of the [[f/_face|face]].**
+- **To [[a/_assume|assume]] a [[l/_look|look]] of [[s/_shame|shame]] or [[d/_disappointment|disappointment]]; to [[b/_become|become]] or [[a/_appear|appear]] [[d/_dejected|dejected]]; [[s/_said|said]] of the [[f/_face|face]].**
 - **To [[h/_happen|happen]]; to [[c/_come|come]] to [[p/_pass|pass]]; to [[c/_chance|chance]] or [[l/_light|light]] (upon).**
-- **To [[b/_begin|begin]] with [[h/_haste|haste]], [[a/_ardour|ardour]], or vehemence; to rush or [[h/_hurry|hurry]].**
+- **To [[b/_begin|begin]] with [[h/_haste|haste]], [[a/_ardour|ardour]], or vehemence; to [[r/_rush|rush]] or [[h/_hurry|hurry]].**
 	- _Example: After arguing, they fell to blows._
 - **To be [[d/_dropped|dropped]] or uttered [[c/_carelessly|carelessly]].**
 	- _Example: An unguarded expression fell from his lips._
@@ -36,7 +36,7 @@
 	- _Example: fallen raindrops_
 - **[[k/_killed|Killed]] in [[b/_battle|battle]].**
 	- _Example: to honor fallen soldiers_
-- **[[h/_having|Having]] [[l/_lost|lost]] [[o/_one|one]]'s [[c/_chastity|chastity]].**
+- **[[h/_having|Having]] [[l/_lost|lost]] [[o/_one|one]]'[[s/_s|s]] [[c/_chastity|chastity]].**
 	- _Example: a fallen woman_
 - **[[h/_having|Having]] [[c/_collapsed|collapsed]].**
 	- _Example: a fallen building_

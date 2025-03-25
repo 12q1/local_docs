@@ -8,6 +8,6 @@
 ### Synonyms
 - [[a/_argot|argot]], [[c/_cant|cant]], [[i/_intalk|intalk]], [[v/_vernacular|vernacular]]
 #verb
-- **To utter [[j/_jargon|jargon]]; to [[e/_emit|emit]] [[c/_confused|confused]] or unintelligible sounds.**
+- **To utter [[j/_jargon|jargon]]; to [[e/_emit|emit]] [[c/_confused|confused]] or unintelligible [[s/_sounds|sounds]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Asocial
 ---
 #adjective
-- **Not social**
-- **Not sociable**
-- **(sometimes proscribed) [[a/_antisocial|antisocial]]**
+- **Not [[s/_social|social]]**
+- **Not [[s/_sociable|sociable]]**
+- **([[s/_sometimes|sometimes]] [[p/_proscribed|proscribed]]) [[a/_antisocial|antisocial]]**
 ---
 ---

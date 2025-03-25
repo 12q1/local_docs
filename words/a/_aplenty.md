@@ -1,7 +1,7 @@
 # Aplenty
 ---
 #adjective
-- **In a [[g/_generous|generous]] or [[o/_overlarge|overlarge]] quantity.**
+- **In a [[g/_generous|generous]] or [[o/_overlarge|overlarge]] [[q/_quantity|quantity]].**
 	- _Example: We have helpers aplenty but lack the skilled support._
 ---
 ### Synonyms

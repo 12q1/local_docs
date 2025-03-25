@@ -1,6 +1,6 @@
 # Drumrolls
 ---
 #noun
-- **A sound produced by [[h/_hitting|hitting]] a [[d/_drum|drum]] repeatedly and rhythmically [[o/_over|over]] short [[i/_intervals|intervals]].**
+- **A [[s/_sound|sound]] [[p/_produced|produced]] by [[h/_hitting|hitting]] a [[d/_drum|drum]] [[r/_repeatedly|repeatedly]] and [[r/_rhythmically|rhythmically]] [[o/_over|over]] [[s/_short|short]] [[i/_intervals|intervals]].**
 ---
 ---

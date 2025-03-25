@@ -1,6 +1,6 @@
 # Handclap
 ---
 #noun
-- **A single [[c/_clap|clap]] of the [[h/_hands|hands]]**
+- **A [[s/_single|single]] [[c/_clap|clap]] of the [[h/_hands|hands]]**
 ---
 ---

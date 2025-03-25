@@ -9,7 +9,7 @@
 ### Synonyms
 - [[q/_quadruple|quadruple]], [[q/_quadruplicate|quadruplicate]]
 #adjective
-- **[[f/_four|Four]] times as [[g/_great|great]]; quadruple.**
+- **[[f/_four|Four]] times as [[g/_great|great]]; [[q/_quadruple|quadruple]].**
 - **[[c/_comprised|Comprised]] of [[f/_four|four]] [[i/_individual|individual]] [[m/_members|members]].**
 ---
 ### Synonyms

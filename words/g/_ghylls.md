@@ -1,6 +1,6 @@
 # Ghylls
 ---
 #noun
-- **A ravine.**
+- **A [[r/_ravine|ravine]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Gibbered
 ---
 #verb
-- **To [[j/_jabber|jabber]], talk rapidly and unintelligibly or [[i/_incoherently|incoherently]].**
+- **To [[j/_jabber|jabber]], talk [[r/_rapidly|rapidly]] and unintelligibly or [[i/_incoherently|incoherently]].**
 ---
 ---

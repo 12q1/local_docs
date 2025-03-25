@@ -1,6 +1,6 @@
 # Laughingstock
 ---
 #noun
-- **An [[o/_object|object]] of ridicule, someone who is publicly ridiculed; a [[b/_butt|butt]] of sport.**
+- **An [[o/_object|object]] of [[r/_ridicule|ridicule]], [[s/_someone|someone]] who is [[p/_publicly|publicly]] [[r/_ridiculed|ridiculed]]; a [[b/_butt|butt]] of sport.**
 ---
 ---

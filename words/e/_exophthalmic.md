@@ -1,7 +1,7 @@
 # Exophthalmic
 ---
 #adjective
-- **Of, or relating to [[e/_exophthalmos|exophthalmos]].**
-- **[[h/_having|Having]] prominent [[e/_eyeballs|eyeballs]].**
+- **Of, or [[r/_relating|relating]] to [[e/_exophthalmos|exophthalmos]].**
+- **[[h/_having|Having]] [[p/_prominent|prominent]] [[e/_eyeballs|eyeballs]].**
 ---
 ---

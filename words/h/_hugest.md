@@ -3,7 +3,7 @@
 #adjective
 - **Very [[l/_large|large]].**
 	- _Example: The castle was huge._
-- **[[d/_distinctly|Distinctly]] [[i/_interesting|interesting]], significant, [[i/_important|important]], [[l/_likeable|likeable]], well regarded.**
+- **[[d/_distinctly|Distinctly]] [[i/_interesting|interesting]], [[s/_significant|significant]], [[i/_important|important]], [[l/_likeable|likeable]], well [[r/_regarded|regarded]].**
 	- _Example: Our next album is going to be huge!  In our league our coach is huge!_
 ---
 ### Synonyms

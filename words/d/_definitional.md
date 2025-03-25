@@ -1,7 +1,7 @@
 # Definitional
 ---
 #adjective
-- **Of or relating to a [[d/_definition|definition]].**
-- **Used to [[d/_define|define]] something.**
+- **Of or [[r/_relating|relating]] to a [[d/_definition|definition]].**
+- **Used to [[d/_define|define]] [[s/_something|something]].**
 ---
 ---

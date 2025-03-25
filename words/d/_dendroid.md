@@ -5,7 +5,7 @@
 	- _Example: smooth dendroids without ordinary points_
 ---
 #adjective
-- **Resembling a shrub or tree.**
+- **[[r/_resembling|Resembling]] a [[s/_shrub|shrub]] or tree.**
 ---
 ### Synonyms
 - [[b/_branchy|branchy]], [[d/_dendroidal|dendroidal]], [[t/_treelike|treelike]]

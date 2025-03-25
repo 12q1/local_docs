@@ -1,6 +1,6 @@
 # Laziness
 ---
 #noun
-- **The quality of [[b/_being|being]] [[l/_lazy|lazy]]**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[l/_lazy|lazy]]**
 ---
 ---

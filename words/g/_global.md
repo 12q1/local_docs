@@ -1,17 +1,17 @@
 # Global
 ---
 #noun
-- **A [[g/_globally|globally]] scoped [[i/_identifier|identifier]].**
+- **A [[g/_globally|globally]] [[s/_scoped|scoped]] [[i/_identifier|identifier]].**
 ---
 ### Antonyms
 - [[l/_local|local]]
 #adjective
 - **[[c/_concerning|Concerning]] [[a/_all|all]] [[p/_parts|parts]] of the world.**
 	- _Example: Pollution is a global problem._
-- **[[p/_pertaining|Pertaining]] to the whole of something; total, universal:**
-- **Spherical, [[b/_ball|ball]]-shaped.**
+- **[[p/_pertaining|Pertaining]] to the whole of [[s/_something|something]]; total, universal:**
+- **Spherical, [[b/_ball|ball]]-[[s/_shaped|shaped]].**
 	- _Example: In the center was a small, global mass._
-- **Of or relating to a [[g/_globe|globe]] or sphere.**
+- **Of or [[r/_relating|relating]] to a [[g/_globe|globe]] or sphere.**
 ---
 ### Synonyms
 - [[p/_planetary|planetary]], [[w/_world-wide|world-wide]], [[b/_ball-shaped|ball-shaped]], [[g/_globular|globular]], [[r/_round|round]], [[s/_spherical|spherical]]

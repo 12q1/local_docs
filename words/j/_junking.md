@@ -2,7 +2,7 @@
 ---
 #verb
 - **To throw [[a/_away|away]].**
-- **To [[f/_find|find]] something for very [[l/_little|little]] [[m/_money|money]] ([[m/_meaning|meaning]] [[d/_derived|derived]] from the term [[j/_junk|junk]] shop)**
+- **To [[f/_find|find]] [[s/_something|something]] for very [[l/_little|little]] [[m/_money|money]] ([[m/_meaning|meaning]] [[d/_derived|derived]] from the term [[j/_junk|junk]] [[s/_shop|shop]])**
 	- _Example: (On Facebook, a record collector wrote:) "The newest addition to my Annette Hanshaw collection, I junked this beautiful flawless E-copy within walking distance from my house."_
 ---
 ### Synonyms

@@ -7,7 +7,7 @@
 ### Synonyms
 - 
 #adjective
-- **[[l/_lacking|Lacking]] an [[a/_advantage|advantage]] relative to [[a/_another|another]].**
+- **[[l/_lacking|Lacking]] an [[a/_advantage|advantage]] [[r/_relative|relative]] to [[a/_another|another]].**
 - **[[p/_poor|Poor]]; in [[f/_financial|financial]] [[d/_difficulties|difficulties]].**
 ---
 ---

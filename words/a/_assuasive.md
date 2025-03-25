@@ -1,9 +1,9 @@
 # Assuasive
 ---
 #noun
-- **[[a/_anything|Anything]] that soothes.**
+- **[[a/_anything|Anything]] that [[s/_soothes|soothes]].**
 ---
 #adjective
-- **[[m/_mild|Mild]], soothing.**
+- **[[m/_mild|Mild]], [[s/_soothing|soothing]].**
 ---
 ---

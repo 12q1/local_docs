@@ -8,6 +8,6 @@
 ### Antonyms
 - [[b/_befoe|befoe]], [[d/_defriend|defriend]], [[u/_unfriend|unfriend]]
 #noun
-- **The process of [[m/_making|making]] [[f/_friends|friends]] with somebody.**
+- **The [[p/_process|process]] of [[m/_making|making]] [[f/_friends|friends]] with [[s/_somebody|somebody]].**
 ---
 ---

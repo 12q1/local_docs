@@ -8,7 +8,7 @@
 	- _Example: There may be tough times ahead._
 - **At an [[e/_earlier|earlier]] time.**
 	- _Example: He paid his rent ahead._
-- **[[h/_having|Having]] progressed [[m/_more|more]].**
+- **[[h/_having|Having]] [[p/_progressed|progressed]] [[m/_more|more]].**
 	- _Example: In all of his classes Jack was ahead._
 ---
 ### Antonyms

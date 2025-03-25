@@ -1,10 +1,10 @@
 # Belated
 ---
 #verb
-- **To retard; [[c/_cause|cause]] something to be [[l/_late|late]]; [[d/_delay|delay]]; [[b/_benight|benight]].**
+- **To [[r/_retard|retard]]; [[c/_cause|cause]] [[s/_something|something]] to be [[l/_late|late]]; [[d/_delay|delay]]; [[b/_benight|benight]].**
 ---
 #adjective
-- **[[l/_later|Later]] in relation to the proper time something should [[h/_have|have]] [[h/_happened|happened]].**
+- **[[l/_later|Later]] in [[r/_relation|relation]] to the [[p/_proper|proper]] time [[s/_something|something]] [[s/_should|should]] [[h/_have|have]] [[h/_happened|happened]].**
 	- _Example: Happy belated birthday!_
 ---
 ### Synonyms

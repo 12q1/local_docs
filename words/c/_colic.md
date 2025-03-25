@@ -1,10 +1,10 @@
 # Colic
 ---
 #noun
-- **Severe [[p/_pains|pains]] that [[g/_grip|grip]] the [[a/_abdomen|abdomen]] or the [[d/_disease|disease]] that [[c/_causes|causes]] such [[p/_pains|pains]] ([[d/_due|due]] to [[i/_intestinal|intestinal]] or [[b/_bowel|bowel]]-related problems).**
-- **A [[m/_medicinal|medicinal]] [[p/_plant|plant]] used to relieve such symptoms.**
+- **[[s/_severe|Severe]] [[p/_pains|pains]] that [[g/_grip|grip]] the [[a/_abdomen|abdomen]] or the [[d/_disease|disease]] that [[c/_causes|causes]] such [[p/_pains|pains]] ([[d/_due|due]] to [[i/_intestinal|intestinal]] or [[b/_bowel|bowel]]-[[r/_related|related]] [[p/_problems|problems]]).**
+- **A [[m/_medicinal|medicinal]] [[p/_plant|plant]] used to [[r/_relieve|relieve]] such [[s/_symptoms|symptoms]].**
 ---
 #adjective
-- **Relating to the [[c/_colon|colon]]; [[c/_colonic|colonic]].**
+- **[[r/_relating|Relating]] to the [[c/_colon|colon]]; [[c/_colonic|colonic]].**
 ---
 ---

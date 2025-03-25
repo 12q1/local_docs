@@ -10,7 +10,7 @@
 ---
 #adjective
 - **[[f/_fenestrated|Fenestrated]]**
-- **[[h/_having|Having]] [[n/_numerous|numerous]] [[o/_openings|openings]]; [[i/_irregularly|irregularly]] reticulated.**
+- **[[h/_having|Having]] [[n/_numerous|numerous]] [[o/_openings|openings]]; [[i/_irregularly|irregularly]] [[r/_reticulated|reticulated]].**
 	- _Example: fenestrate fronds_
 - **[[h/_having|Having]] transparent spots, [[l/_like|like]] the wings of [[c/_certain|certain]] [[b/_butterflies|butterflies]].**
 ---

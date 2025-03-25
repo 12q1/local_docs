@@ -1,6 +1,6 @@
 # Hemstitched
 ---
 #verb
-- **To sew or [[e/_embroider|embroider]] using this stitch**
+- **To [[s/_sew|sew]] or [[e/_embroider|embroider]] using this stitch**
 ---
 ---

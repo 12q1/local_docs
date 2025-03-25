@@ -11,9 +11,9 @@
 	- _Example: I connected the printer to the computer, but I couldn't get it work._
 - **To [[j/_join|join]] an [[e/_electrical|electrical]] or telephone [[l/_line|line]] to a [[c/_circuit|circuit]] or [[n/_network|network]].**
 	- _Example: When the technician connects my house, I'll be able to access the internet._
-- **To [[a/_associate|associate]]; to [[e/_establish|establish]] a relation [[b/_between|between]].**
+- **To [[a/_associate|associate]]; to [[e/_establish|establish]] a [[r/_relation|relation]] [[b/_between|between]].**
 	- _Example: I didn't connect my lost jewelry with the news of an area cat burglar until the police contacted me._
-- **To [[m/_make|make]] a travel [[c/_connection|connection]]; to switch from [[o/_one|one]] [[m/_means|means]] of transport to [[a/_another|another]] as [[p/_part|part]] of the same trip.**
+- **To [[m/_make|make]] a travel [[c/_connection|connection]]; to switch from [[o/_one|one]] [[m/_means|means]] of transport to [[a/_another|another]] as [[p/_part|part]] of the [[s/_same|same]] trip.**
 	- _Example: I'm flying to London where I connect with a flight heading to Hungary._
 ---
 ### Synonyms

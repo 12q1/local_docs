@@ -5,7 +5,7 @@
 	- _Example: I ate a chunky bar of chocolate._
 - **(of a [[p/_person|person]]) [[f/_fat|Fat]].**
 	- _Example: I prefer chunky blonde girls to skinny brunettes._
-- **Of a [[c/_cat|cat]]: [[h/_having|having]] a [[l/_large|large]], solid bodyline.**
+- **Of a [[c/_cat|cat]]: [[h/_having|having]] a [[l/_large|large]], [[s/_solid|solid]] bodyline.**
 	- _Example: The British Shorthair has a distinctively chunky body, dense coat and broad face._
 ---
 ### Synonyms

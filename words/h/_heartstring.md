@@ -1,6 +1,6 @@
 # Heartstring
 ---
 #noun
-- **Singular of [[h/_heartstrings|heartstrings]]**
+- **[[s/_singular|Singular]] of [[h/_heartstrings|heartstrings]]**
 ---
 ---

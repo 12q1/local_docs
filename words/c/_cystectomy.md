@@ -1,6 +1,6 @@
 # Cystectomy
 ---
 #noun
-- **The removal of the [[b/_bladder|bladder]].**
+- **The [[r/_removal|removal]] of the [[b/_bladder|bladder]].**
 ---
 ---

@@ -9,8 +9,8 @@
 ### Synonyms
 - [[a/_agitate|agitate]], [[u/_upset|upset]]
 #adjective
-- **Ruffled; upset and [[e/_embarrassed|embarrassed]].**
-- **Self-[[c/_consciously|consciously]] [[d/_distressed|distressed]].**
+- **[[r/_ruffled|Ruffled]]; upset and [[e/_embarrassed|embarrassed]].**
+- **[[s/_self|Self]]-[[c/_consciously|consciously]] [[d/_distressed|distressed]].**
 - **[[f/_frustrated|Frustrated]] and [[d/_disarranged|disarranged]].**
 ---
 ---

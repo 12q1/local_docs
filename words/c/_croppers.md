@@ -8,9 +8,9 @@
 ---
 #noun
 - **A [[p/_person|person]] who [[n/_nurtures|nurtures]] and [[g/_gathers|gathers]] a [[c/_crop|crop]].**
-- **A variety of [[p/_plant|plant]] producing a [[g/_good|good]] [[h/_harvest|harvest]].**
+- **A variety of [[p/_plant|plant]] [[p/_producing|producing]] a [[g/_good|good]] [[h/_harvest|harvest]].**
 ---
 #noun
-- **A [[m/_machine|machine]] for [[c/_cropping|cropping]], as for shearing [[o/_off|off]] [[b/_bolts|bolts]] or rod [[i/_iron|iron]], or for [[f/_facing|facing]] [[c/_cloth|cloth]].**
+- **A [[m/_machine|machine]] for [[c/_cropping|cropping]], as for [[s/_shearing|shearing]] [[o/_off|off]] [[b/_bolts|bolts]] or [[r/_rod|rod]] [[i/_iron|iron]], or for [[f/_facing|facing]] [[c/_cloth|cloth]].**
 ---
 ---

@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[p/_poor|Poor]]; [[d/_destitute|destitute]]; in [[n/_need|need]].**
-- **Utterly [[l/_lacking|lacking]] or in [[n/_need|need]] of something specified.**
+- **Utterly [[l/_lacking|lacking]] or in [[n/_need|need]] of [[s/_something|something]] specified.**
 ---
 ### Antonyms
 - [[a/_affluent|affluent]]

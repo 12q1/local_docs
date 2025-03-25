@@ -1,7 +1,7 @@
 # Comporting
 ---
 #verb
-- **To tolerate, [[b/_bear|bear]], put up (with).**
+- **To tolerate, [[b/_bear|bear]], [[p/_put|put]] up (with).**
 	- _Example: to comport with an injury_
 - **To be in [[a/_agreement|agreement]] (with); to be of an [[a/_accord|accord]].**
 	- _Example: The new rules did not seem to comport with the spirit of the club._

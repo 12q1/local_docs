@@ -1,7 +1,7 @@
 # Disbelief
 ---
 #noun
-- **Unpreparedness, unwillingness, or [[i/_inability|inability]] to [[b/_believe|believe]] that something is the [[c/_case|case]].**
+- **Unpreparedness, unwillingness, or [[i/_inability|inability]] to [[b/_believe|believe]] that [[s/_something|something]] is the [[c/_case|case]].**
 	- _Example: She cried out in disbelief on hearing that terrorists had crashed an airplane into the World Trade Center in New York City._
 - **[[a/_astonishment|Astonishment]].**
 	- _Example: I stared in disbelief at the Grand Canyon._

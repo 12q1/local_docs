@@ -12,6 +12,6 @@
 - **A [[p/_potion|potion]]; [[m/_magic|magic]] [[p/_potion|potion]]; [[c/_charm|charm]].**
 ---
 #verb
-- **To [[g/_geld|geld]]; [[c/_castrate|castrate]]; [[e/_emasculate|emasculate]] (usually said of [[a/_animals|animals]]).**
+- **To [[g/_geld|geld]]; [[c/_castrate|castrate]]; [[e/_emasculate|emasculate]] (usually [[s/_said|said]] of [[a/_animals|animals]]).**
 ---
 ---

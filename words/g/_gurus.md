@@ -1,7 +1,7 @@
 # Gurus
 ---
 #noun
-- **A [[h/_hindu|Hindu]] or Sikh spiritual teacher.**
-- **(sometimes [[h/_humorous|humorous]]) An [[i/_influential|influential]] [[a/_advisor|advisor]] or [[m/_mentor|mentor]].**
+- **A [[h/_hindu|Hindu]] or [[s/_sikh|Sikh]] spiritual teacher.**
+- **([[s/_sometimes|sometimes]] [[h/_humorous|humorous]]) An [[i/_influential|influential]] [[a/_advisor|advisor]] or [[m/_mentor|mentor]].**
 ---
 ---

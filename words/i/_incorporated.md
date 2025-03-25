@@ -1,9 +1,9 @@
 # Incorporated
 ---
 #verb
-- **To [[i/_include|include]] (something) as a [[p/_part|part]].**
+- **To [[i/_include|include]] ([[s/_something|something]]) as a [[p/_part|part]].**
 	- _Example: The design of his house incorporates a spiral staircase._
-- **To [[m/_mix|mix]] (something in) as an [[i/_ingredient|ingredient]]; to [[b/_blend|blend]]**
+- **To [[m/_mix|mix]] ([[s/_something|something]] in) as an [[i/_ingredient|ingredient]]; to [[b/_blend|blend]]**
 	- _Example: Incorporate air into the mixture._
 - **To [[a/_admit|admit]] as a [[m/_member|member]] of a [[c/_company|company]]**
 - **To [[f/_form|form]] [[i/_into|into]] a [[l/_legal|legal]] [[c/_company|company]].**
@@ -13,6 +13,6 @@
 - **To unite with a [[m/_material|material]] [[b/_body|body]]; to [[g/_give|give]] a [[m/_material|material]] [[f/_form|form]] to; to [[e/_embody|embody]].**
 ---
 #adjective
-- **[[b/_being|Being]] a type of [[c/_company|company]], a [[l/_legal|legal]] [[e/_entity|entity]] where the [[o/_ownership|ownership]] [[h/_has|has]] [[b/_been|been]] [[a/_arranged|arranged]] [[i/_into|into]] shares. A shareholder [[h/_has|has]] [[n/_no|no]] responsibilities to the [[c/_company|company]] and the [[p/_potential|potential]] [[l/_losses|losses]] of the shareholder are [[l/_limited|limited]] to the value of the stock turning to zero in the [[c/_case|case]] of a [[b/_bankruptcy|bankruptcy]].**
+- **[[b/_being|Being]] a type of [[c/_company|company]], a [[l/_legal|legal]] [[e/_entity|entity]] where the [[o/_ownership|ownership]] [[h/_has|has]] [[b/_been|been]] [[a/_arranged|arranged]] [[i/_into|into]] [[s/_shares|shares]]. A [[s/_shareholder|shareholder]] [[h/_has|has]] [[n/_no|no]] [[r/_responsibilities|responsibilities]] to the [[c/_company|company]] and the [[p/_potential|potential]] [[l/_losses|losses]] of the [[s/_shareholder|shareholder]] are [[l/_limited|limited]] to the value of the stock turning to zero in the [[c/_case|case]] of a [[b/_bankruptcy|bankruptcy]].**
 ---
 ---

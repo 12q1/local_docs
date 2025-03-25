@@ -1,7 +1,7 @@
 # Headward
 ---
 #adjective
-- **[[c/_cutting|Cutting]] [[b/_backwards|backwards]] or upstream [[a/_above|above]] the [[o/_original|original]] source.**
+- **[[c/_cutting|Cutting]] [[b/_backwards|backwards]] or upstream [[a/_above|above]] the [[o/_original|original]] [[s/_source|source]].**
 - **Toward the [[h/_head|head]].**
 ---
 #adverb

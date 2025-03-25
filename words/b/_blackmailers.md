@@ -1,6 +1,6 @@
 # Blackmailers
 ---
 #noun
-- **Someone who [[b/_blackmails|blackmails]].**
+- **[[s/_someone|Someone]] who [[b/_blackmails|blackmails]].**
 ---
 ---

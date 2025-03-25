@@ -2,7 +2,7 @@
 ---
 #verb
 - **To be at [[o/_odds|odds]] (with); to [[d/_disagree|disagree]] or be [[i/_incompatible|incompatible]]**
-- **To [[o/_overlap|overlap]] (with), as in a schedule.**
+- **To [[o/_overlap|overlap]] (with), as in a [[s/_schedule|schedule]].**
 	- _Example: It appears that our schedules conflict._
 ---
 #adjective

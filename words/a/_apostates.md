@@ -1,8 +1,8 @@
 # Apostates
 ---
 #noun
-- **A [[p/_person|person]] who [[h/_has|has]] renounced a religion or [[f/_faith|faith]].**
-- **[[o/_one|One]] who, [[a/_after|after]] [[h/_having|having]] received sacred [[o/_orders|orders]], renounces [[h/_his|his]] [[c/_clerical|clerical]] profession.**
+- **A [[p/_person|person]] who [[h/_has|has]] [[r/_renounced|renounced]] a [[r/_religion|religion]] or [[f/_faith|faith]].**
+- **[[o/_one|One]] who, [[a/_after|after]] [[h/_having|having]] [[r/_received|received]] [[s/_sacred|sacred]] [[o/_orders|orders]], [[r/_renounces|renounces]] [[h/_his|his]] [[c/_clerical|clerical]] [[p/_profession|profession]].**
 ---
 ### Synonyms
 - [[d/_deconvert|deconvert]], [[m/_murtad|murtad]], [[r/_recreant|recreant]], [[w/_withersake|withersake]]

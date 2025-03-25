@@ -19,6 +19,6 @@
 - **On [[f/_friendly|friendly]] terms; in [[f/_friendly|friendly]] [[a/_association|association]].**
 ---
 #adverb
-- **At random; at a venture; [[h/_hit|hit]] and [[m/_miss|miss]].**
+- **At [[r/_random|random]]; at a venture; [[h/_hit|hit]] and [[m/_miss|miss]].**
 ---
 ---

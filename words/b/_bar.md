@@ -1,59 +1,59 @@
 # Bar
 ---
 #noun
-- **A solid, [[m/_more|more]] or [[l/_less|less]] rigid [[o/_object|object]] of [[m/_metal|metal]] or wood with a uniform [[c/_cross|cross]]-section smaller than [[i/_its|its]] [[l/_length|length]].**
+- **A [[s/_solid|solid]], [[m/_more|more]] or [[l/_less|less]] [[r/_rigid|rigid]] [[o/_object|object]] of [[m/_metal|metal]] or wood with a uniform [[c/_cross|cross]]-[[s/_section|section]] [[s/_smaller|smaller]] than [[i/_its|its]] [[l/_length|length]].**
 	- _Example: The window was protected by steel bars._
-- **A solid [[m/_metal|metal]] [[o/_object|object]] with uniform (round, square, [[h/_hexagonal|hexagonal]], [[o/_octagonal|octagonal]] or rectangular) [[c/_cross|cross]]-section; in the US [[i/_its|its]] smallest [[d/_dimension|dimension]] is 1/4 [[i/_inch|inch]] or [[g/_greater|greater]], a [[p/_piece|piece]] of thinner [[m/_material|material]] [[b/_being|being]] [[c/_called|called]] a strip.**
+- **A [[s/_solid|solid]] [[m/_metal|metal]] [[o/_object|object]] with uniform ([[r/_round|round]], square, [[h/_hexagonal|hexagonal]], [[o/_octagonal|octagonal]] or [[r/_rectangular|rectangular]]) [[c/_cross|cross]]-[[s/_section|section]]; in the US [[i/_its|its]] [[s/_smallest|smallest]] [[d/_dimension|dimension]] is 1/4 [[i/_inch|inch]] or [[g/_greater|greater]], a [[p/_piece|piece]] of thinner [[m/_material|material]] [[b/_being|being]] [[c/_called|called]] a strip.**
 	- _Example: Ancient Sparta used iron bars instead of handy coins in more valuable alloy, to physically discourage the use of money._
-- **A [[c/_cuboid|cuboid]] [[p/_piece|piece]] of [[a/_any|any]] solid [[c/_commodity|commodity]].**
+- **A [[c/_cuboid|cuboid]] [[p/_piece|piece]] of [[a/_any|any]] [[s/_solid|solid]] [[c/_commodity|commodity]].**
 	- _Example: bar of chocolate_
-- **A [[b/_broad|broad]] shaft, or [[b/_band|band]], or stripe.**
+- **A [[b/_broad|broad]] [[s/_shaft|shaft]], or [[b/_band|band]], or stripe.**
 	- _Example: a bar of colour_
-- **A [[l/_long|long]], [[n/_narrow|narrow]] [[d/_drawn|drawn]] or printed rectangle, [[c/_cuboid|cuboid]] or [[c/_cylinder|cylinder]], [[e/_especially|especially]] as used in a [[b/_bar|bar]] [[c/_code|code]] or a [[b/_bar|bar]] [[c/_chart|chart]].**
-- **[[a/_any|Any]] of various [[l/_lines|lines]] used as punctuation or [[d/_diacritics|diacritics]], such as the [[p/_pipe|pipe]] ⟨|⟩, [[f/_fraction|fraction]] [[b/_bar|bar]] (as in 12), and strikethrough (as in Ⱥ), [[f/_formerly|formerly]] [[i/_including|including]] [[o/_oblique|oblique]] [[m/_marks|marks]] such as the slash.**
-- **The sign [[i/_indicating|indicating]] that the [[c/_characteristic|characteristic]] of a [[l/_logarithm|logarithm]] is [[n/_negative|negative]], [[c/_conventionally|conventionally]] [[p/_placed|placed]] [[a/_above|above]] the [[d/_digit|digit]](s) to show that it [[a/_applies|applies]] to the [[c/_characteristic|characteristic]] [[o/_only|only]] and not to the [[m/_mantissa|mantissa]].**
-- **A similar sign [[i/_indicating|indicating]] that the [[c/_charge|charge]] on a [[p/_particle|particle]] is [[n/_negative|negative]] (and that [[c/_consequently|consequently]] the [[p/_particle|particle]] is in [[f/_fact|fact]] an [[a/_antiparticle|antiparticle]]).**
-- **A [[b/_business|business]] [[l/_licensed|licensed]] to sell [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]] for [[c/_consumption|consumption]] on the [[p/_premises|premises]], or the [[p/_premises|premises]] themselves; public [[h/_house|house]].**
+- **A [[l/_long|long]], [[n/_narrow|narrow]] [[d/_drawn|drawn]] or [[p/_printed|printed]] [[r/_rectangle|rectangle]], [[c/_cuboid|cuboid]] or [[c/_cylinder|cylinder]], [[e/_especially|especially]] as used in a [[b/_bar|bar]] [[c/_code|code]] or a [[b/_bar|bar]] [[c/_chart|chart]].**
+- **[[a/_any|Any]] of various [[l/_lines|lines]] used as [[p/_punctuation|punctuation]] or [[d/_diacritics|diacritics]], such as the [[p/_pipe|pipe]] ⟨|⟩, [[f/_fraction|fraction]] [[b/_bar|bar]] (as in 12), and strikethrough (as in Ⱥ), [[f/_formerly|formerly]] [[i/_including|including]] [[o/_oblique|oblique]] [[m/_marks|marks]] such as the [[s/_slash|slash]].**
+- **The [[s/_sign|sign]] [[i/_indicating|indicating]] that the [[c/_characteristic|characteristic]] of a [[l/_logarithm|logarithm]] is [[n/_negative|negative]], [[c/_conventionally|conventionally]] [[p/_placed|placed]] [[a/_above|above]] the [[d/_digit|digit]]([[s/_s|s]]) to [[s/_show|show]] that it [[a/_applies|applies]] to the [[c/_characteristic|characteristic]] [[o/_only|only]] and not to the [[m/_mantissa|mantissa]].**
+- **A [[s/_similar|similar]] [[s/_sign|sign]] [[i/_indicating|indicating]] that the [[c/_charge|charge]] on a [[p/_particle|particle]] is [[n/_negative|negative]] (and that [[c/_consequently|consequently]] the [[p/_particle|particle]] is in [[f/_fact|fact]] an [[a/_antiparticle|antiparticle]]).**
+- **A [[b/_business|business]] [[l/_licensed|licensed]] to [[s/_sell|sell]] [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]] for [[c/_consumption|consumption]] on the [[p/_premises|premises]], or the [[p/_premises|premises]] themselves; [[p/_public|public]] [[h/_house|house]].**
 	- _Example: The street was lined with all-night bars._
 - **The [[c/_counter|counter]] of such [[p/_premises|premises]].**
 	- _Example: Step up to the bar and order a drink._
-- **A [[c/_counter|counter]], or simply a [[c/_cabinet|cabinet]], from which [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]] are served in a private [[h/_house|house]] or a [[h/_hotel|hotel]] room.**
-- **(by [[e/_extension|extension]], in [[c/_combinations|combinations]] such as [[c/_coffee|coffee]] [[b/_bar|bar]], [[j/_juice|juice]] [[b/_bar|bar]] [[e/_etc|etc]].) [[p/_premises|Premises]] or a [[c/_counter|counter]] serving [[a/_any|any]] type of [[b/_beverage|beverage]].**
-- **An [[e/_establishment|establishment]] where [[a/_alcohol|alcohol]] and sometimes [[o/_other|other]] refreshments are served.**
-- **An [[i/_informal|informal]] [[e/_establishment|establishment]] selling [[f/_food|food]] to be [[c/_consumed|consumed]] on the [[p/_premises|premises]].**
+- **A [[c/_counter|counter]], or [[s/_simply|simply]] a [[c/_cabinet|cabinet]], from which [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]] are [[s/_served|served]] in a [[p/_private|private]] [[h/_house|house]] or a [[h/_hotel|hotel]] [[r/_room|room]].**
+- **(by [[e/_extension|extension]], in [[c/_combinations|combinations]] such as [[c/_coffee|coffee]] [[b/_bar|bar]], [[j/_juice|juice]] [[b/_bar|bar]] [[e/_etc|etc]].) [[p/_premises|Premises]] or a [[c/_counter|counter]] [[s/_serving|serving]] [[a/_any|any]] type of [[b/_beverage|beverage]].**
+- **An [[e/_establishment|establishment]] where [[a/_alcohol|alcohol]] and [[s/_sometimes|sometimes]] [[o/_other|other]] [[r/_refreshments|refreshments]] are [[s/_served|served]].**
+- **An [[i/_informal|informal]] [[e/_establishment|establishment]] [[s/_selling|selling]] [[f/_food|food]] to be [[c/_consumed|consumed]] on the [[p/_premises|premises]].**
 	- _Example: a burger bar_
-- **An [[e/_establishment|establishment]] [[o/_offering|offering]] [[c/_cosmetic|cosmetic]] services.**
+- **An [[e/_establishment|establishment]] [[o/_offering|offering]] [[c/_cosmetic|cosmetic]] [[s/_services|services]].**
 	- _Example: a nail bar; a brow bar_
-- **An [[o/_official|official]] [[o/_order|order]] or pronouncement that prohibits some [[a/_activity|activity]].**
+- **An [[o/_official|official]] [[o/_order|order]] or [[p/_pronouncement|pronouncement]] that [[p/_prohibits|prohibits]] [[s/_some|some]] [[a/_activity|activity]].**
 	- _Example: The club has lifted its bar on women members._
-- **[[a/_anything|Anything]] that [[o/_obstructs|obstructs]], [[h/_hinders|hinders]], or prevents; an [[o/_obstruction|obstruction]]; a [[b/_barrier|barrier]].**
-- **(whimsical, [[d/_derived|derived]] from fubar) A [[m/_metasyntactic|metasyntactic]] variable representing an unspecified [[e/_entity|entity]], [[o/_often|often]] the second in a series, [[f/_following|following]] [[f/_foo|foo]].**
+- **[[a/_anything|Anything]] that [[o/_obstructs|obstructs]], [[h/_hinders|hinders]], or [[p/_prevents|prevents]]; an [[o/_obstruction|obstruction]]; a [[b/_barrier|barrier]].**
+- **(whimsical, [[d/_derived|derived]] from fubar) A [[m/_metasyntactic|metasyntactic]] variable [[r/_representing|representing]] an unspecified [[e/_entity|entity]], [[o/_often|often]] the [[s/_second|second]] in a [[s/_series|series]], [[f/_following|following]] [[f/_foo|foo]].**
 	- _Example: Suppose we have two objects, foo and bar._
 - **([[p/_parliament|Parliament]]) A [[d/_dividing|dividing]] [[l/_line|line]] ([[p/_physical|physical]] or [[n/_notional|notional]]) in the [[c/_chamber|chamber]] of a [[l/_legislature|legislature]] [[b/_beyond|beyond]] which [[o/_only|only]] [[m/_members|members]] and [[o/_officials|officials]] [[m/_may|may]] [[p/_pass|pass]].**
-- **The railing surrounding the [[p/_part|part]] of a [[c/_courtroom|courtroom]] in which the [[j/_judges|judges]], [[l/_lawyers|lawyers]], [[d/_defendants|defendants]] and witnesses stay**
+- **The [[r/_railing|railing]] surrounding the [[p/_part|part]] of a [[c/_courtroom|courtroom]] in which the [[j/_judges|judges]], [[l/_lawyers|lawyers]], [[d/_defendants|defendants]] and witnesses stay**
 - **"the [[b/_bar|Bar]]" or "the [[b/_bar|bar]]" The [[b/_bar|bar]] [[e/_exam|exam]], the [[l/_legal|legal]] [[l/_licensing|licensing]] [[e/_exam|exam]].**
 	- _Example: He's studying hard to pass the Bar this time; he's failed it twice before._
-- **([[m/_metonym|metonym]], "the [[b/_bar|Bar]]", "the [[b/_bar|bar]]") [[c/_collectively|Collectively]], [[l/_lawyers|lawyers]] or the [[l/_legal|legal]] profession; specifically [[a/_applied|applied]] to [[b/_barristers|barristers]] in some [[c/_countries|countries]] but [[i/_including|including]] [[a/_all|all]] [[l/_lawyers|lawyers]] in [[o/_others|others]].**
+- **([[m/_metonym|metonym]], "the [[b/_bar|Bar]]", "the [[b/_bar|bar]]") [[c/_collectively|Collectively]], [[l/_lawyers|lawyers]] or the [[l/_legal|legal]] [[p/_profession|profession]]; specifically [[a/_applied|applied]] to [[b/_barristers|barristers]] in [[s/_some|some]] [[c/_countries|countries]] but [[i/_including|including]] [[a/_all|all]] [[l/_lawyers|lawyers]] in [[o/_others|others]].**
 	- _Example: He was called to the bar, he became a barrister._
-- **[[o/_one|One]] of an [[a/_array|array]] of [[b/_bar|bar]]-shaped symbols that [[d/_display|display]] the [[l/_level|level]] of something, such as wireless signal strength or [[b/_battery|battery]] [[l/_life|life]] remaining.**
+- **[[o/_one|One]] of an [[a/_array|array]] of [[b/_bar|bar]]-[[s/_shaped|shaped]] [[s/_symbols|symbols]] that [[d/_display|display]] the [[l/_level|level]] of [[s/_something|something]], such as wireless [[s/_signal|signal]] strength or [[b/_battery|battery]] [[l/_life|life]] [[r/_remaining|remaining]].**
 	- _Example: I don't have any bars in the middle of this desert._
-- **A vertical [[l/_line|line]] [[a/_across|across]] a [[m/_musical|musical]] staff [[d/_dividing|dividing]] written [[m/_music|music]] [[i/_into|into]] sections, typically of [[e/_equal|equal]] [[d/_durational|durational]] value.**
-- **[[o/_one|One]] of those [[m/_musical|musical]] sections.**
+- **A vertical [[l/_line|line]] [[a/_across|across]] a [[m/_musical|musical]] staff [[d/_dividing|dividing]] written [[m/_music|music]] [[i/_into|into]] [[s/_sections|sections]], typically of [[e/_equal|equal]] [[d/_durational|durational]] value.**
+- **[[o/_one|One]] of those [[m/_musical|musical]] [[s/_sections|sections]].**
 - **A [[h/_horizontal|horizontal]] [[p/_pole|pole]] that [[m/_must|must]] be [[c/_crossed|crossed]] in [[h/_high|high]] [[j/_jump|jump]] and [[p/_pole|pole]] vault**
-- **[[a/_any|Any]] [[l/_level|level]] of [[a/_achievement|achievement]] regarded as a [[c/_challenge|challenge]] to be [[o/_overcome|overcome]].**
+- **[[a/_any|Any]] [[l/_level|level]] of [[a/_achievement|achievement]] [[r/_regarded|regarded]] as a [[c/_challenge|challenge]] to be [[o/_overcome|overcome]].**
 - **([[m/_most|most]] [[c/_codes|codes]]) The [[c/_crossbar|crossbar]].**
 - **The [[c/_central|central]] [[d/_divider|divider]] [[b/_between|between]] the [[i/_inner|inner]] and [[o/_outer|outer]] table of a [[b/_backgammon|backgammon]] [[b/_board|board]], where stones are [[p/_placed|placed]] [[i/_if|if]] they are [[h/_hit|hit]].**
 - **An [[a/_addition|addition]] to a [[m/_military|military]] [[m/_medal|medal]], on [[a/_account|account]] of a subsequent [[a/_act|act]]**
-- **A [[l/_linear|linear]] shoaling [[l/_landform|landform]] [[f/_feature|feature]] within a [[b/_body|body]] of water.**
-- **A ridge or succession of ridges of sand or [[o/_other|other]] substance, [[e/_especially|especially]] a [[f/_formation|formation]] [[e/_extending|extending]] [[a/_across|across]] the [[m/_mouth|mouth]] of a river or [[h/_harbor|harbor]] or [[o/_off|off]] a [[b/_beach|beach]], and which [[m/_may|may]] [[o/_obstruct|obstruct]] [[n/_navigation|navigation]]. ([[f/_fm|FM]] 55-501).**
+- **A [[l/_linear|linear]] [[s/_shoaling|shoaling]] [[l/_landform|landform]] [[f/_feature|feature]] within a [[b/_body|body]] of water.**
+- **A [[r/_ridge|ridge]] or succession of [[r/_ridges|ridges]] of [[s/_sand|sand]] or [[o/_other|other]] substance, [[e/_especially|especially]] a [[f/_formation|formation]] [[e/_extending|extending]] [[a/_across|across]] the [[m/_mouth|mouth]] of a [[r/_river|river]] or [[h/_harbor|harbor]] or [[o/_off|off]] a [[b/_beach|beach]], and which [[m/_may|may]] [[o/_obstruct|obstruct]] [[n/_navigation|navigation]]. ([[f/_fm|FM]] 55-501).**
 - **[[o/_one|One]] of the [[o/_ordinaries|ordinaries]] in [[h/_heraldry|heraldry]]; a [[f/_fess|fess]].**
-- **A [[c/_city|city]] [[g/_gate|gate]], in some [[b/_british|British]] [[p/_place|place]] [[n/_names|names]].**
+- **A [[c/_city|city]] [[g/_gate|gate]], in [[s/_some|some]] [[b/_british|British]] [[p/_place|place]] [[n/_names|names]].**
 	- _Example: Potter's Bar_
-- **A [[d/_drilling|drilling]] or tamping rod.**
+- **A [[d/_drilling|drilling]] or tamping [[r/_rod|rod]].**
 - **A vein or [[d/_dike|dike]] [[c/_crossing|crossing]] a [[l/_lode|lode]].**
 - **A [[g/_gatehouse|gatehouse]] of a [[c/_castle|castle]] or [[f/_fortified|fortified]] town.**
-- **The [[p/_part|part]] of the [[c/_crust|crust]] of a [[h/_horse|horse]]'s [[h/_hoof|hoof]] which is [[b/_bent|bent]] [[i/_inwards|inwards]] towards the [[f/_frog|frog]] at the [[h/_heel|heel]] on [[e/_each|each]] side, and [[e/_extends|extends]] [[i/_into|into]] the [[c/_centre|centre]] of the sole.**
-- **(in the [[p/_plural|plural]]) The space [[b/_between|between]] the tusks and [[g/_grinders|grinders]] in the upper [[j/_jaw|jaw]] of a [[h/_horse|horse]], in which the [[b/_bit|bit]] is [[p/_placed|placed]].**
+- **The [[p/_part|part]] of the [[c/_crust|crust]] of a [[h/_horse|horse]]'[[s/_s|s]] [[h/_hoof|hoof]] which is [[b/_bent|bent]] [[i/_inwards|inwards]] towards the [[f/_frog|frog]] at the [[h/_heel|heel]] on [[e/_each|each]] [[s/_side|side]], and [[e/_extends|extends]] [[i/_into|into]] the [[c/_centre|centre]] of the [[s/_sole|sole]].**
+- **(in the [[p/_plural|plural]]) The [[s/_space|space]] [[b/_between|between]] the tusks and [[g/_grinders|grinders]] in the upper [[j/_jaw|jaw]] of a [[h/_horse|horse]], in which the [[b/_bit|bit]] is [[p/_placed|placed]].**
 ---
 ### Synonyms
 - [[b/_ban|ban]], [[p/_prohibition|prohibition]], [[b/_barroom|barroom]], [[g/_ginshop|ginshop]], [[p/_pub|pub]], [[t/_tavern|tavern]], [[m/_measure|measure]]

@@ -3,7 +3,7 @@
 #noun
 - **The work or [[o/_occupation|occupation]] for which [[o/_one|one]] is used, and [[o/_often|often]] [[p/_paid|paid]]**
 - **The [[a/_act|act]] of [[e/_employing|employing]]**
-- **A use, purpose**
+- **A use, [[p/_purpose|purpose]]**
 	- _Example: The personnel director handled the whole employment procedure_
 - **The state of [[b/_being|being]] [[e/_employed|employed]]**
 - **An [[a/_activity|activity]] to which [[o/_one|one]] [[d/_devotes|devotes]] time**

@@ -1,9 +1,9 @@
 # Decontrol
 ---
 #noun
-- **The removal of [[c/_controls|controls]].**
+- **The [[r/_removal|removal]] of [[c/_controls|controls]].**
 ---
 #verb
-- **To remove [[c/_controls|controls]].**
+- **To [[r/_remove|remove]] [[c/_controls|controls]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Grouped
 ---
 #verb
-- **To put together to [[f/_form|form]] a [[g/_group|group]].**
+- **To [[p/_put|put]] together to [[f/_form|form]] a [[g/_group|group]].**
 	- _Example: group the dogs by hair colour_
 - **To [[c/_come|come]] together to [[f/_form|form]] a [[g/_group|group]].**
 ---

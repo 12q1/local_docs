@@ -1,7 +1,7 @@
 # Cannot
 ---
 #noun
-- **Something that [[c/_cannot|cannot]] be [[d/_done|done]].**
+- **[[s/_something|Something]] that [[c/_cannot|cannot]] be [[d/_done|done]].**
 	- _Example: the cans and cannots_
 ---
 #verb

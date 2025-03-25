@@ -1,7 +1,7 @@
 # Intertwined
 ---
 #verb
-- **To twine something together.**
+- **To twine [[s/_something|something]] together.**
 - **To [[b/_become|become]] twined together.**
 ---
 ### Synonyms

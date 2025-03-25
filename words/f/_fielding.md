@@ -10,7 +10,7 @@
 	- _Example: She will field questions immediately after her presentation._
 - **To [[d/_defeat|defeat]].**
 	- _Example: They fielded a fearsome army._
-- **To [[e/_execute|execute]] research (in the [[f/_field|field]]).**
+- **To [[e/_execute|execute]] [[r/_research|research]] (in the [[f/_field|field]]).**
 	- _Example: He fielded the marketing survey about the upcoming product._
 - **To [[d/_deploy|deploy]] in the [[f/_field|field]].**
 	- _Example: to field a new land-mine detector_
@@ -22,6 +22,6 @@
 #noun
 - **The [[a/_act|act]] of [[o/_one|one]] who [[f/_fields|fields]].**
 	- _Example: the fielding of questions from an audience_
-- **The role of a [[f/_fielder|fielder]].**
+- **The [[r/_role|role]] of a [[f/_fielder|fielder]].**
 ---
 ---

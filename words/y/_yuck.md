@@ -1,8 +1,8 @@
 # Yuck
 ---
 #noun
-- **Something [[d/_disgusting|disgusting]].**
-- **The sound [[m/_made|made]] by a [[l/_laugh|laugh]].**
+- **[[s/_something|Something]] [[d/_disgusting|disgusting]].**
+- **The [[s/_sound|sound]] [[m/_made|made]] by a [[l/_laugh|laugh]].**
 ---
 #interjection
 - **Uttered to [[i/_indicate|indicate]] [[d/_disgust|disgust]] usually toward an [[o/_objectionable|objectionable]] taste or [[o/_odour|odour]].**

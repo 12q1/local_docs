@@ -5,7 +5,7 @@
 - **A [[p/_postage|postage]] stamp [[i/_issued|issued]] to [[c/_commemorate|commemorate]], usually a [[p/_person|person]] or [[e/_event|event]]; [[a/_also|also]] [[c/_commonly|commonly]] [[a/_applied|applied]] to thematic (topical) stamp [[i/_issues|issues]].**
 ---
 #adjective
-- **Serving to [[c/_commemorate|commemorate]] something.**
+- **[[s/_serving|Serving]] to [[c/_commemorate|commemorate]] [[s/_something|something]].**
 	- _Example: a commemorative plaque_
 ---
 ---

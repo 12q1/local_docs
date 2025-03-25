@@ -1,6 +1,6 @@
 # Eyras
 ---
 #noun
-- **A slender, reddish-[[y/_yellow|yellow]] wild [[c/_cat|cat]] (Puma yagouaroundi [[e/_eyra|eyra]]) ranging from southern [[b/_brazil|Brazil]] to Texas.**
+- **A [[s/_slender|slender]], [[r/_reddish|reddish]]-[[y/_yellow|yellow]] wild [[c/_cat|cat]] ([[p/_puma|Puma]] yagouaroundi [[e/_eyra|eyra]]) [[r/_ranging|ranging]] from [[s/_southern|southern]] [[b/_brazil|Brazil]] to Texas.**
 ---
 ---

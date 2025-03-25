@@ -6,6 +6,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] crenellations or [[b/_battlements|battlements]]**
-- **[[h/_having|Having]] a series of square [[i/_indentations|indentations]]**
+- **[[h/_having|Having]] a [[s/_series|series]] of square [[i/_indentations|indentations]]**
 ---
 ---

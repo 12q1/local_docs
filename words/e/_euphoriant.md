@@ -1,9 +1,9 @@
 # Euphoriant
 ---
 #noun
-- **A [[d/_drug|drug]] that produces [[f/_feelings|feelings]] of [[e/_euphoria|euphoria]].**
+- **A [[d/_drug|drug]] that [[p/_produces|produces]] [[f/_feelings|feelings]] of [[e/_euphoria|euphoria]].**
 ---
 #adjective
-- **Producing [[e/_euphoria|euphoria]].**
+- **[[p/_producing|Producing]] [[e/_euphoria|euphoria]].**
 ---
 ---

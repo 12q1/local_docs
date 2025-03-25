@@ -1,6 +1,6 @@
 # Geomantic
 ---
 #adjective
-- **Of or relating to [[g/_geomancy|geomancy]]**
+- **Of or [[r/_relating|relating]] to [[g/_geomancy|geomancy]]**
 ---
 ---

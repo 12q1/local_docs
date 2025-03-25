@@ -1,16 +1,16 @@
 # Courted
 ---
 #verb
-- **To seek to [[a/_achieve|achieve]] or win.**
+- **To [[s/_seek|seek]] to [[a/_achieve|achieve]] or win.**
 	- _Example: He was courting big new accounts that previous salesman had not attempted._
-- **To risk (a [[c/_consequence|consequence]], usually [[n/_negative|negative]]).**
+- **To [[r/_risk|risk]] (a [[c/_consequence|consequence]], usually [[n/_negative|negative]]).**
 	- _Example: He courted controversy with his frank speeches._
 - **To try to win a [[c/_commitment|commitment]] to [[m/_marry|marry]] from.**
 - **To [[e/_engage|engage]] in [[b/_behavior|behavior]] [[l/_leading|leading]] to [[m/_mating|mating]].**
 	- _Example: The bird was courting by making an elaborate dance._
 - **To [[a/_attempt|attempt]] to [[a/_attract|attract]].**
 - **To [[a/_attempt|attempt]] to [[g/_gain|gain]] [[a/_alliance|alliance]] with.**
-- **To [[e/_engage|engage]] in [[a/_activities|activities]] [[i/_intended|intended]] to win someone's [[a/_affections|affections]].**
+- **To [[e/_engage|engage]] in [[a/_activities|activities]] [[i/_intended|intended]] to win [[s/_someone|someone]]'[[s/_s|s]] [[a/_affections|affections]].**
 	- _Example: She's had a few beaus come courting._
 - **To [[e/_engage|engage]] in [[c/_courtship|courtship]] [[b/_behavior|behavior]].**
 	- _Example: In this season, you can see many animals courting._

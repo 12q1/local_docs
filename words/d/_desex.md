@@ -1,6 +1,6 @@
 # Desex
 ---
 #verb
-- **To remove [[a/_another|another]]'s sexual [[c/_characteristics|characteristics]] or [[f/_functions|functions]], [[o/_often|often]] [[p/_physical|physical]] sterilization.**
+- **To [[r/_remove|remove]] [[a/_another|another]]'[[s/_s|s]] [[s/_sexual|sexual]] [[c/_characteristics|characteristics]] or [[f/_functions|functions]], [[o/_often|often]] [[p/_physical|physical]] sterilization.**
 ---
 ---

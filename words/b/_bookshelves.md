@@ -1,6 +1,6 @@
 # Bookshelves
 ---
 #noun
-- **A shelf or shelves for storing [[b/_books|books]] for [[e/_easy|easy]] visual reference.**
+- **A [[s/_shelf|shelf]] or [[s/_shelves|shelves]] for storing [[b/_books|books]] for [[e/_easy|easy]] visual [[r/_reference|reference]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Intellect
 ---
 #noun
-- **The [[f/_faculty|faculty]] of thinking, [[j/_judging|judging]], [[a/_abstract|abstract]] reasoning, and [[c/_conceptual|conceptual]] understanding; the [[c/_cognitive|cognitive]] [[f/_faculty|faculty]] (uncountable)**
+- **The [[f/_faculty|faculty]] of thinking, [[j/_judging|judging]], [[a/_abstract|abstract]] [[r/_reasoning|reasoning]], and [[c/_conceptual|conceptual]] understanding; the [[c/_cognitive|cognitive]] [[f/_faculty|faculty]] (uncountable)**
 	- _Example: Intellect is one of man's greatest powers._
 - **The [[c/_capacity|capacity]] of that [[f/_faculty|faculty]] (in a [[p/_particular|particular]] [[p/_person|person]]) (uncountable)**
 	- _Example: They were chosen because of their outstanding intellect._

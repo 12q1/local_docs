@@ -6,6 +6,6 @@
 ### Synonyms
 - 
 #verb
-- **To [[c/_cause|cause]] something to [[b/_become|become]] stuck with, or as [[i/_if|if]] with, [[f/_flypaper|flypaper]].**
+- **To [[c/_cause|cause]] [[s/_something|something]] to [[b/_become|become]] stuck with, or as [[i/_if|if]] with, [[f/_flypaper|flypaper]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Irreproducible
 ---
 #adjective
-- **That [[c/_cannot|cannot]] be reproduced or [[d/_duplicated|duplicated]]**
+- **That [[c/_cannot|cannot]] be [[r/_reproduced|reproduced]] or [[d/_duplicated|duplicated]]**
 ---
 ### Synonyms
 - [[u/_unreproducible|unreproducible]]

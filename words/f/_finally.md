@@ -3,7 +3,7 @@
 #adverb
 - **At the [[e/_end|end]] or [[c/_conclusion|conclusion]]; ultimately.**
 	- _Example: The contest was long, but the Romans finally conquered._
-- **(sequence) To [[f/_finish|finish]] (with); [[l/_lastly|lastly]] (in the [[p/_present|present]]).**
+- **([[s/_sequence|sequence]]) To [[f/_finish|finish]] (with); [[l/_lastly|lastly]] (in the [[p/_present|present]]).**
 	- _Example: Finally, I washed my dog._
 - **([[m/_manner|manner]]) [[d/_definitively|Definitively]], [[c/_comprehensively|comprehensively]].**
 	- _Example: The question of his long-term success has now been finally settled._

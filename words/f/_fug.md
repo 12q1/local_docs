@@ -8,6 +8,6 @@
 #verb
 - **To [[c/_create|create]] a [[f/_fug|fug]] ([[h/_heavy|heavy]] unpleasant [[a/_atmosphere|atmosphere]]).**
 - **To be surrounded by a [[f/_fug|fug]] ([[h/_heavy|heavy]] unpleasant [[a/_atmosphere|atmosphere]]).**
-- **To put [[i/_into|into]] a [[f/_fug|fug]] ([[d/_daze|daze]]).**
+- **To [[p/_put|put]] [[i/_into|into]] a [[f/_fug|fug]] ([[d/_daze|daze]]).**
 ---
 ---

@@ -1,6 +1,6 @@
 # Declaratory
 ---
 #adjective
-- **Serving to [[d/_declare|declare]] or [[e/_explain|explain]]**
+- **[[s/_serving|Serving]] to [[d/_declare|declare]] or [[e/_explain|explain]]**
 ---
 ---

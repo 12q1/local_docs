@@ -8,7 +8,7 @@
 ---
 #adjective
 - **[[g/_grouped|Grouped]] [[i/_into|into]] a [[c/_cluster|cluster]].**
-- **(of a primary [[k/_key|key]]) Used as the [[c/_clustering|clustering]] [[k/_key|key]] of a [[c/_clustered|clustered]] [[i/_index|index]].**
+- **(of a [[p/_primary|primary]] [[k/_key|key]]) Used as the [[c/_clustering|clustering]] [[k/_key|key]] of a [[c/_clustered|clustered]] [[i/_index|index]].**
 ---
 ### Antonyms
 - [[n/_nonclustered|nonclustered]]

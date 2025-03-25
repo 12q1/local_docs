@@ -1,6 +1,6 @@
 # Dealcoholize
 ---
 #verb
-- **To remove the [[a/_alcohol|alcohol]] from.**
+- **To [[r/_remove|remove]] the [[a/_alcohol|alcohol]] from.**
 ---
 ---

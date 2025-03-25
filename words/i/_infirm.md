@@ -1,7 +1,7 @@
 # Infirm
 ---
 #verb
-- **To [[c/_contradict|contradict]], to provide proof that something is not.**
+- **To [[c/_contradict|contradict]], to [[p/_provide|provide]] [[p/_proof|proof]] that [[s/_something|something]] is not.**
 	- _Example: The thought is that you see an episode of observation, experiment, or reasoning as confirming or infirming a hypothesis depending on whether your probability for it increases or decreases during the episode._
 ---
 ### Synonyms

@@ -8,7 +8,7 @@
 ### Synonyms
 - [[f/_forspread|forspread]]
 #adjective
-- **(of a [[c/_category|category]]) [[b/_broken|broken]] [[d/_down|down]] so that [[i/_its|its]] [[e/_elements|elements]] are [[p/_placed|placed]] in [[i/_its|its]] [[m/_most|most]] specific subset [[a/_available|available]]**
+- **(of a [[c/_category|category]]) [[b/_broken|broken]] [[d/_down|down]] [[s/_so|so]] that [[i/_its|its]] [[e/_elements|elements]] are [[p/_placed|placed]] in [[i/_its|its]] [[m/_most|most]] specific subset [[a/_available|available]]**
 ---
 ### Antonyms
 - [[n/_nondiffusing|nondiffusing]]

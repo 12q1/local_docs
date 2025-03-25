@@ -1,13 +1,13 @@
 # Ensconced
 ---
 #verb
-- **To [[p/_place|place]] in a secure [[e/_environment|environment]].**
-- **To settle [[c/_comfortably|comfortably]].**
+- **To [[p/_place|place]] in a [[s/_secure|secure]] [[e/_environment|environment]].**
+- **To [[s/_settle|settle]] [[c/_comfortably|comfortably]].**
 ---
 ### Synonyms
 - 
 #adjective
-- **[[p/_placed|Placed]] in a secure [[e/_environment|environment]].**
-- **Settled [[c/_comfortably|comfortably]].**
+- **[[p/_placed|Placed]] in a [[s/_secure|secure]] [[e/_environment|environment]].**
+- **[[s/_settled|Settled]] [[c/_comfortably|comfortably]].**
 ---
 ---

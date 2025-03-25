@@ -2,27 +2,27 @@
 ---
 #noun
 - **([[a/_animal|animal]] [[a/_anatomy|anatomy]]) a [[b/_breathing|breathing]] [[o/_organ|organ]] of [[f/_fish|fish]] and [[o/_other|other]] [[a/_aquatic|aquatic]] [[a/_animals|animals]]**
-- **(of a [[f/_fish|fish]]) a [[g/_gill|gill]] slit or [[g/_gill|gill]] [[c/_cover|cover]]**
+- **(of a [[f/_fish|fish]]) a [[g/_gill|gill]] [[s/_slit|slit]] or [[g/_gill|gill]] [[c/_cover|cover]]**
 	- _Example: Gill nets are designed to catch a fish by the gills._
-- **[[o/_one|One]] of the radial [[f/_folds|folds]] on the underside of the [[c/_cap|cap]] of a [[m/_mushroom|mushroom]], on the surface of which the spore-producing [[o/_organs|organs]] are [[b/_borne|borne]]**
+- **[[o/_one|One]] of the [[r/_radial|radial]] [[f/_folds|folds]] on the underside of the [[c/_cap|cap]] of a [[m/_mushroom|mushroom]], on the surface of which the spore-[[p/_producing|producing]] [[o/_organs|organs]] are [[b/_borne|borne]]**
 - **([[a/_animal|animal]] [[a/_anatomy|anatomy]]) the [[f/_fleshy|fleshy]] [[f/_flap|flap]] that [[h/_hangs|hangs]] [[b/_below|below]] the [[b/_beak|beak]] of a [[f/_fowl|fowl]]; a wattle**
 - **The [[f/_flesh|flesh]] under or [[a/_about|about]] the [[c/_chin|chin]]; a wattle**
-- **(spinning) [[o/_one|one]] of the [[c/_combs|combs]] of [[c/_closely|closely]] ranged steel [[p/_pins|pins]] which [[d/_divide|divide]] the ribbons of [[f/_flax|flax]] [[f/_fiber|fiber]] or wool [[i/_into|into]] [[f/_fewer|fewer]] [[p/_parallel|parallel]] [[f/_filaments|filaments]]**
+- **(spinning) [[o/_one|one]] of the [[c/_combs|combs]] of [[c/_closely|closely]] [[r/_ranged|ranged]] steel [[p/_pins|pins]] which [[d/_divide|divide]] the [[r/_ribbons|ribbons]] of [[f/_flax|flax]] [[f/_fiber|fiber]] or wool [[i/_into|into]] [[f/_fewer|fewer]] [[p/_parallel|parallel]] [[f/_filaments|filaments]]**
 ---
 ### Synonyms
 - [[l/_lamella|lamella]]
 #verb
-- **To remove the [[g/_gills|gills]] from a [[f/_fish|fish]] as [[p/_part|part]] of [[g/_gutting|gutting]] and [[c/_cleaning|cleaning]] it**
+- **To [[r/_remove|remove]] the [[g/_gills|gills]] from a [[f/_fish|fish]] as [[p/_part|part]] of [[g/_gutting|gutting]] and [[c/_cleaning|cleaning]] it**
 - **To [[c/_catch|catch]] (a [[f/_fish|fish]]) in a [[g/_gillnet|gillnet]]**
 - **To be or [[b/_become|become]] [[e/_entangled|entangled]] in a [[g/_gillnet|gillnet]]**
 ---
 #noun
-- **A [[d/_drink|drink]] [[m/_measure|measure]] for spirits and wine (size varies regionally but it is [[a/_about|about]] [[o/_one|one]] quarter of a [[p/_pint|pint]])**
-- **A [[m/_measuring|measuring]] [[j/_jug|jug]] [[h/_holding|holding]] a quarter or [[h/_half|half]] a [[p/_pint|pint]]**
+- **A [[d/_drink|drink]] [[m/_measure|measure]] for spirits and wine ([[s/_size|size]] varies [[r/_regionally|regionally]] but it is [[a/_about|about]] [[o/_one|one]] [[q/_quarter|quarter]] of a [[p/_pint|pint]])**
+- **A [[m/_measuring|measuring]] [[j/_jug|jug]] [[h/_holding|holding]] a [[q/_quarter|quarter]] or [[h/_half|half]] a [[p/_pint|pint]]**
 ---
 #noun
-- **Rivulet**
-- **Ravine**
+- **[[r/_rivulet|Rivulet]]**
+- **[[r/_ravine|Ravine]]**
 ---
 #noun
 - **A two-wheeled [[f/_frame|frame]] for transporting timber**
@@ -32,10 +32,10 @@
 ---
 #noun
 - **A [[f/_female|female]] [[f/_ferret|ferret]]**
-- **A promiscuous woman; [[h/_harlot|harlot]], wanton**
-- **A prostitute**
+- **A [[p/_promiscuous|promiscuous]] woman; [[h/_harlot|harlot]], wanton**
+- **A [[p/_prostitute|prostitute]]**
 ---
 #verb
-- **To [[a/_act|act]] as a prostitute.**
+- **To [[a/_act|act]] as a [[p/_prostitute|prostitute]].**
 ---
 ---

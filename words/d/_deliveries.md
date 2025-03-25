@@ -1,7 +1,7 @@
 # Deliveries
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_conveying|conveying]] something.**
+- **The [[a/_act|act]] of [[c/_conveying|conveying]] [[s/_something|something]].**
 	- _Example: The delivery was completed by four._
 - **The [[i/_item|item]] which [[h/_has|has]] [[b/_been|been]] [[c/_conveyed|conveyed]].**
 	- _Example: Your delivery is on the table._
@@ -11,12 +11,12 @@
 	- _Example: His delivery has a catch in it._
 - **A thrown [[p/_pitch|pitch]].**
 	- _Example: Here is the delivery; ... strike three!_
-- **The [[m/_manner|manner]] of speaking.**
+- **The [[m/_manner|manner]] of [[s/_speaking|speaking]].**
 	- _Example: The actor's delivery was flawless._
 - **The [[a/_administration|administration]] of a [[d/_drug|drug]].**
 	- _Example: Drug delivery system._
 - **A [[b/_ball|ball]] [[b/_bowled|bowled]].**
-- **The process of throwing a stone.**
-- **Process of [[i/_introducing|introducing]] [[f/_foreign|foreign]] DNA [[i/_into|into]] [[h/_host|host]] [[c/_cells|cells]].**
+- **The [[p/_process|process]] of throwing a stone.**
+- **[[p/_process|Process]] of [[i/_introducing|introducing]] [[f/_foreign|foreign]] DNA [[i/_into|into]] [[h/_host|host]] [[c/_cells|cells]].**
 ---
 ---

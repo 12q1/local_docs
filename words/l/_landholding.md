@@ -1,7 +1,7 @@
 # Landholding
 ---
 #noun
-- **A [[p/_piece|piece]] of property ([[l/_land|land]]) that is [[h/_held|held]] ([[o/_owned|owned]]).**
+- **A [[p/_piece|piece]] of [[p/_property|property]] ([[l/_land|land]]) that is [[h/_held|held]] ([[o/_owned|owned]]).**
 - **The state or [[p/_practice|practice]] of [[o/_owning|owning]] [[l/_land|land]].**
 ---
 ### Synonyms

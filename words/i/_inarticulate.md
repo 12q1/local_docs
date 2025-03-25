@@ -6,7 +6,7 @@
 #adjective
 - **(of speech) not [[a/_articulated|articulated]] in [[n/_normal|normal]] words**
 - **Speechless**
-- **Unable to speak with [[a/_any|any]] [[c/_clarity|clarity]]**
+- **Unable to [[s/_speak|speak]] with [[a/_any|any]] [[c/_clarity|clarity]]**
 - **Not [[h/_having|having]] [[j/_joints|joints]] or [[o/_other|other]] [[a/_articulations|articulations]]**
 ---
 ---

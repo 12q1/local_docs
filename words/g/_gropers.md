@@ -2,10 +2,10 @@
 ---
 #noun
 - **[[a/_agent|Agent]] [[n/_noun|noun]] of [[g/_grope|grope]]; [[o/_one|one]] who [[g/_gropes|gropes]].**
-- **An [[e/_employee|employee]] of the U.S. Transportation Security [[a/_administration|Administration]] (TSA), [[e/_especially|especially]] those who [[p/_perform|perform]] [[i/_inspections|inspections]] on [[p/_passengers|passengers]].**
+- **An [[e/_employee|employee]] of the U.[[s/_s|S]]. Transportation [[s/_security|Security]] [[a/_administration|Administration]] (TSA), [[e/_especially|especially]] those who [[p/_perform|perform]] [[i/_inspections|inspections]] on [[p/_passengers|passengers]].**
 ---
 #noun
-- **[[a/_any|Any]] of several [[m/_marine|marine]] [[f/_fish|fish]], [[e/_especially|especially]] the Queensland [[g/_groper|groper]] or [[g/_giant|giant]] [[g/_grouper|grouper]], [[e/_epinephelus|Epinephelus]] lanceolatus, of the [[p/_pacific|Pacific]] and [[i/_indian|Indian]] [[o/_oceans|Oceans]].**
+- **[[a/_any|Any]] of [[s/_several|several]] [[m/_marine|marine]] [[f/_fish|fish]], [[e/_especially|especially]] the Queensland [[g/_groper|groper]] or [[g/_giant|giant]] [[g/_grouper|grouper]], [[e/_epinephelus|Epinephelus]] lanceolatus, of the [[p/_pacific|Pacific]] and [[i/_indian|Indian]] [[o/_oceans|Oceans]].**
 - **[[h/_hapuku|Hapuku]] wreckfish (Polyprion oxygeneios)**
 ---
 ---

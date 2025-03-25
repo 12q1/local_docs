@@ -6,7 +6,7 @@
 ### Synonyms
 - [[b/_barbican|barbican]]
 #noun
-- **A prison [[o/_operated|operated]] by the [[m/_military|military]].**
+- **A [[p/_prison|prison]] [[o/_operated|operated]] by the [[m/_military|military]].**
 ---
 ### Synonyms
 - [[g/_guardhouse|guardhouse]]

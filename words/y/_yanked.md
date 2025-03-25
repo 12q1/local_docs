@@ -1,8 +1,8 @@
 # Yanked
 ---
 #verb
-- **To pull (something) with a quick, strong [[a/_action|action]].**
-- **To remove from [[d/_distribution|distribution]].**
+- **To [[p/_pull|pull]] ([[s/_something|something]]) with a [[q/_quick|quick]], strong [[a/_action|action]].**
+- **To [[r/_remove|remove]] from [[d/_distribution|distribution]].**
 	- _Example: They yanked the product as soon as they learned it was unsafe._
 ---
 ### Synonyms

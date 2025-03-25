@@ -6,8 +6,8 @@
 ---
 #noun
 - **A [[l/_large|large]] [[g/_greenhouse|greenhouse]] or [[h/_hothouse|hothouse]] for the [[d/_display|display]] of [[p/_plants|plants]]**
-- **A [[g/_glass|glass]]-walled and -roofed room in a [[h/_house|house]]**
-- **A school of [[m/_music|music]] or [[d/_drama|drama]]**
+- **A [[g/_glass|glass]]-walled and -[[r/_roofed|roofed]] [[r/_room|room]] in a [[h/_house|house]]**
+- **A [[s/_school|school]] of [[m/_music|music]] or [[d/_drama|drama]]**
 ---
 ### Synonyms
 - [[s/_solarium|solarium]], [[s/_sunroom|sunroom]], [[c/_conservatoire|conservatoire]], [[g/_greenhouse|greenhouse]], [[h/_hothouse|hothouse]], [[o/_orangery|orangery]], [[p/_planthouse|planthouse]]

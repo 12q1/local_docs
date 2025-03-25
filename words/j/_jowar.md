@@ -1,6 +1,6 @@
 # Jowar
 ---
 #noun
-- **Sorghum**
+- **[[s/_sorghum|Sorghum]]**
 ---
 ---

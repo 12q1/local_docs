@@ -1,6 +1,6 @@
 # Evidential
 ---
 #adjective
-- **Of or providing [[e/_evidence|evidence]].**
+- **Of or [[p/_providing|providing]] [[e/_evidence|evidence]].**
 ---
 ---

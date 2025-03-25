@@ -9,6 +9,6 @@
 ### Synonyms
 - [[g/_grope|grope]], [[c/_coddle|coddle]], [[p/_posset|posset]]
 #noun
-- **The [[a/_act|act]] by which somebody is [[c/_cosseted|cosseted]] or [[p/_pampered|pampered]].**
+- **The [[a/_act|act]] by which [[s/_somebody|somebody]] is [[c/_cosseted|cosseted]] or [[p/_pampered|pampered]].**
 ---
 ---

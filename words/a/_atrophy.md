@@ -1,7 +1,7 @@
 # Atrophy
 ---
 #noun
-- **A reduction in the [[f/_functionality|functionality]] of an [[o/_organ|organ]] [[c/_caused|caused]] by [[d/_disease|disease]], [[i/_injury|injury]] or [[l/_lack|lack]] of use.**
+- **A [[r/_reduction|reduction]] in the [[f/_functionality|functionality]] of an [[o/_organ|organ]] [[c/_caused|caused]] by [[d/_disease|disease]], [[i/_injury|injury]] or [[l/_lack|lack]] of use.**
 ---
 #verb
 - **To wither or waste [[a/_away|away]].**

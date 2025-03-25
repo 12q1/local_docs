@@ -1,7 +1,7 @@
 # Blasphemies
 ---
 #noun
-- **An [[a/_act|act]] of [[i/_irreverence|irreverence]] or [[c/_contempt|contempt]] toward a [[g/_god|god]] or toward something [[c/_considered|considered]] sacred; an [[i/_impious|impious]] [[a/_act|act]], utterance, view, [[e/_etc|etc]].**
+- **An [[a/_act|act]] of [[i/_irreverence|irreverence]] or [[c/_contempt|contempt]] toward a [[g/_god|god]] or toward [[s/_something|something]] [[c/_considered|considered]] [[s/_sacred|sacred]]; an [[i/_impious|impious]] [[a/_act|act]], utterance, view, [[e/_etc|etc]].**
 	- _Example: That imam said that drawing the prophet Muhammad is a form of blasphemy._
 - **(by [[e/_extension|extension]]) An [[a/_act|act]] of [[i/_irreverence|irreverence]] towards [[a/_anything|anything]] [[c/_considered|considered]] [[i/_inviolable|inviolable]]; the [[a/_act|act]] of [[d/_disregarding|disregarding]] a [[c/_convention|convention]].**
 ---

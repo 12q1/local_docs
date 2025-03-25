@@ -7,7 +7,7 @@
 #adjective
 - **Suffering from [[b/_bulimia|bulimia]] [[n/_nervosa|nervosa]].**
 	- _Example: My sister was bulimic and consequently had a number of health problems._
-- **Of, or relating to, [[b/_bulimia|bulimia]] [[n/_nervosa|nervosa]].**
+- **Of, or [[r/_relating|relating]] to, [[b/_bulimia|bulimia]] [[n/_nervosa|nervosa]].**
 	- _Example: The woman had displayed a number of bulimic symptoms, prompting her family to stage an intervention._
 ---
 ---

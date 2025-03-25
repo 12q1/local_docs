@@ -8,8 +8,8 @@
 ### Synonyms
 - 
 #adjective
-- **Relating to, or [[l/_located|located]] [[n/_near|near]], the [[n/_neck|neck]] or throat.**
+- **[[r/_relating|Relating]] to, or [[l/_located|located]] [[n/_near|near]], the [[n/_neck|neck]] or throat.**
 - **(of [[f/_fish|fish]]) [[h/_having|Having]] ventral [[f/_fins|fins]] [[a/_attached|attached]] under the throat.**
-- **Relating to [[j/_juggling|juggling]].**
+- **[[r/_relating|Relating]] to [[j/_juggling|juggling]].**
 ---
 ---

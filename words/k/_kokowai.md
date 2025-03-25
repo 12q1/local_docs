@@ -1,6 +1,6 @@
 # Kokowai
 ---
 #noun
-- **Red [[o/_ochre|ochre]]**
+- **[[r/_red|Red]] [[o/_ochre|ochre]]**
 ---
 ---

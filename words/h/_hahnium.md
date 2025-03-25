@@ -1,6 +1,6 @@
 # Hahnium
 ---
 #noun
-- **A rejected [[n/_name|name]] for dubnium.**
+- **A [[r/_rejected|rejected]] [[n/_name|name]] for dubnium.**
 ---
 ---

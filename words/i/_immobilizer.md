@@ -1,6 +1,6 @@
 # Immobilizer
 ---
 #noun
-- **Something or someone that immobilises.**
+- **[[s/_something|Something]] or [[s/_someone|someone]] that immobilises.**
 ---
 ---

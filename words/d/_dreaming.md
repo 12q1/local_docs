@@ -1,7 +1,7 @@
 # Dreaming
 ---
 #verb
-- **To see [[i/_imaginary|imaginary]] [[e/_events|events]] in [[o/_one|one]]'s [[m/_mind|mind]] while sleeping.**
+- **To [[s/_see|see]] [[i/_imaginary|imaginary]] [[e/_events|events]] in [[o/_one|one]]'[[s/_s|s]] [[m/_mind|mind]] while [[s/_sleeping|sleeping]].**
 - **To [[h/_hope|hope]], to wish.**
 - **To [[d/_daydream|daydream]].**
 	- _Example: Stop dreaming and get back to work._
@@ -11,6 +11,6 @@
 	- _Example: I wouldn't dream of snubbing you in public._
 ---
 #noun
-- **An [[i/_instance|instance]] of [[d/_dreaming|dreaming]]; a [[d/_dream|dream]] or reverie.**
+- **An [[i/_instance|instance]] of [[d/_dreaming|dreaming]]; a [[d/_dream|dream]] or [[r/_reverie|reverie]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Electromagnetic
 ---
 #adjective
-- **Relating to [[e/_electromagnetism|electromagnetism]]**
+- **[[r/_relating|Relating]] to [[e/_electromagnetism|electromagnetism]]**
 ---
 ---

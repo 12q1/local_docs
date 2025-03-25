@@ -3,11 +3,11 @@
 #verb
 - **To [[b/_bruise|bruise]] and [[c/_crush|crush]]; to [[k/_knead|knead]]**
 	- _Example: The farmer's son brakes the flax while mother brakes the bread dough_
-- **To pulverise with a [[h/_harrow|harrow]]**
+- **To [[p/_pulverise|pulverise]] with a [[h/_harrow|harrow]]**
 ---
 #verb
-- **To [[o/_operate|operate]] (a) [[b/_brake|brake]](s).**
-- **To be stopped or slowed (as [[i/_if|if]]) by [[b/_braking|braking]].**
+- **To [[o/_operate|operate]] (a) [[b/_brake|brake]]([[s/_s|s]]).**
+- **To be stopped or [[s/_slowed|slowed]] (as [[i/_if|if]]) by [[b/_braking|braking]].**
 ---
 ### Antonyms
 - [[a/_accelerate|accelerate]], [[r/_redline|redline]]

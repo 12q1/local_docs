@@ -1,9 +1,9 @@
 # Briny
 ---
 #noun
-- **The sea.**
+- **The [[s/_sea|sea]].**
 ---
 #adjective
-- **Of, [[p/_pertaining|pertaining]] to, resembling or [[c/_containing|containing]] [[b/_brine|brine]]; salty.**
+- **Of, [[p/_pertaining|pertaining]] to, [[r/_resembling|resembling]] or [[c/_containing|containing]] [[b/_brine|brine]]; [[s/_salty|salty]].**
 ---
 ---

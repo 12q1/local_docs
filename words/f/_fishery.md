@@ -1,9 +1,9 @@
 # Fishery
 ---
 #noun
-- **[[f/_fishing|Fishing]]: the [[c/_catching|catching]], processing and [[m/_marketing|marketing]] of [[f/_fish|fish]] or [[o/_other|other]] seafood.**
-- **A [[p/_place|place]] related to [[f/_fishing|fishing]], [[p/_particularly|particularly]]:**
-- **A right to [[f/_fish|fish]] in a [[p/_particular|particular]] [[l/_location|location]]; Territorial [[f/_fishing|fishing]] waters.**
+- **[[f/_fishing|Fishing]]: the [[c/_catching|catching]], [[p/_processing|processing]] and [[m/_marketing|marketing]] of [[f/_fish|fish]] or [[o/_other|other]] [[s/_seafood|seafood]].**
+- **A [[p/_place|place]] [[r/_related|related]] to [[f/_fishing|fishing]], [[p/_particularly|particularly]]:**
+- **A [[r/_right|right]] to [[f/_fish|fish]] in a [[p/_particular|particular]] [[l/_location|location]]; Territorial [[f/_fishing|fishing]] waters.**
 - **A [[f/_fishing|fishing]] [[c/_company|company]].**
 ---
 ### Synonyms

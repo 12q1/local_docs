@@ -1,13 +1,13 @@
 # Contributor
 ---
 #noun
-- **A [[b/_benefactor|benefactor]]; someone who [[d/_donates|donates]] to [[c/_charity|charity]] or some [[c/_cause|cause]].**
+- **A [[b/_benefactor|benefactor]]; [[s/_someone|someone]] who [[d/_donates|donates]] to [[c/_charity|charity]] or [[s/_some|some]] [[c/_cause|cause]].**
 	- _Example: I am a longstanding financial contributor to Amnesty International._
 - **A [[p/_person|person]] who [[b/_backs|backs]], supports or [[c/_champions|champions]] a [[c/_cause|cause]], [[a/_activity|activity]] or [[i/_institution|institution]].**
 	- _Example: He was a regular contributor to Greenpeace protests._
-- **A [[p/_person|person]] (or thing) [[i/_instrumental|instrumental]] in the [[c/_creation|creation]] or [[g/_growth|growth]] of something.**
+- **A [[p/_person|person]] (or thing) [[i/_instrumental|instrumental]] in the [[c/_creation|creation]] or [[g/_growth|growth]] of [[s/_something|something]].**
 	- _Example: With her strength and intelligence, she was an important contributor to the victorious effort._
-- **A [[p/_person|person]] who produces [[a/_articles|articles]] published in a [[n/_newspaper|newspaper]], [[m/_magazine|magazine]], [[o/_online|online]] publication, [[e/_etc|etc]].**
+- **A [[p/_person|person]] who [[p/_produces|produces]] [[a/_articles|articles]] [[p/_published|published]] in a [[n/_newspaper|newspaper]], [[m/_magazine|magazine]], [[o/_online|online]] [[p/_publication|publication]], [[e/_etc|etc]].**
 	- _Example: William Safire has been a notable contributor to the op-ed pages of the New York Times for many years._
 ---
 ---

@@ -6,6 +6,6 @@
 ### Synonyms
 - [[g/_grossularite|grossularite]]
 #adjective
-- **Relating to, or resembling, a [[g/_gooseberry|gooseberry]].**
+- **[[r/_relating|Relating]] to, or [[r/_resembling|resembling]], a [[g/_gooseberry|gooseberry]].**
 ---
 ---

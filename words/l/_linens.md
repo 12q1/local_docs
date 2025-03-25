@@ -7,7 +7,7 @@
 - **A [[l/_light|light]] [[b/_beige|beige]] [[c/_colour|colour]], [[l/_like|like]] that of [[l/_linen|linen]] [[c/_cloth|cloth]] undyed.**
 ---
 #noun
-- **[[h/_household|Household]] textiles [[m/_made|made]] of [[l/_linen|linen]]-[[l/_like|like]] [[c/_cloth|cloth]] (such as [[c/_cotton|cotton]] [[f/_fabric|fabric]]), [[i/_including|including]] tablecloths and [[b/_bed|bed]] sheets. The singular, [[l/_linen|linen]], of this sense is rare.**
+- **[[h/_household|Household]] textiles [[m/_made|made]] of [[l/_linen|linen]]-[[l/_like|like]] [[c/_cloth|cloth]] (such as [[c/_cotton|cotton]] [[f/_fabric|fabric]]), [[i/_including|including]] tablecloths and [[b/_bed|bed]] [[s/_sheets|sheets]]. The [[s/_singular|singular]], [[l/_linen|linen]], of this [[s/_sense|sense]] is [[r/_rare|rare]].**
 - **Undergarments, underwear.**
 ---
 ---

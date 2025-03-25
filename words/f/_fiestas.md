@@ -1,7 +1,7 @@
 # Fiestas
 ---
 #noun
-- **(In Spanish speaking [[c/_countries|countries]]) A religious [[f/_festival|festival]].**
+- **(In [[s/_spanish|Spanish]] [[s/_speaking|speaking]] [[c/_countries|countries]]) A [[r/_religious|religious]] [[f/_festival|festival]].**
 - **A [[f/_festive|festive]] [[o/_occasion|occasion]].**
 ---
 ### Synonyms

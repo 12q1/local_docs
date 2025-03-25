@@ -1,6 +1,6 @@
 # Gilet
 ---
 #noun
-- **A sleeveless [[j/_jacket|jacket]] similar to a waistcoat.**
+- **A [[s/_sleeveless|sleeveless]] [[j/_jacket|jacket]] [[s/_similar|similar]] to a waistcoat.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Depigment
 ---
 #verb
-- **To reduce [[p/_pigmentation|pigmentation]]**
+- **To [[r/_reduce|reduce]] [[p/_pigmentation|pigmentation]]**
 ---
 ---

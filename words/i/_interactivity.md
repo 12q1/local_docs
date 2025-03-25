@@ -1,6 +1,6 @@
 # Interactivity
 ---
 #noun
-- **The quality of [[b/_being|being]] [[i/_interactive|interactive]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[i/_interactive|interactive]].**
 ---
 ---

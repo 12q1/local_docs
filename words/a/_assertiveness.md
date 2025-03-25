@@ -1,6 +1,6 @@
 # Assertiveness
 ---
 #noun
-- **The quality of [[b/_being|being]] self-[[a/_assured|assured]] and [[a/_assertive|assertive]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[s/_self|self]]-[[a/_assured|assured]] and [[a/_assertive|assertive]].**
 ---
 ---

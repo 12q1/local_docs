@@ -9,6 +9,6 @@
 - **An [[o/_open|open]] [[d/_drainage|drainage]] [[c/_channel|channel]] of a type [[c/_common|common]] in Tehran.**
 ---
 #noun
-- **A rood screen.**
+- **A [[r/_rood|rood]] [[s/_screen|screen]].**
 ---
 ---

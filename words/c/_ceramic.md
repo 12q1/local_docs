@@ -7,7 +7,7 @@
 	- _Example: Joe had dozens of ceramics in his apartment._
 ---
 #adjective
-- **[[m/_made|Made]] of [[m/_material|material]] produced by the [[h/_high|high]]-temperature [[f/_firing|firing]] of [[i/_inorganic|inorganic]], [[n/_nonmetallic|nonmetallic]] rocks and [[m/_minerals|minerals]].**
+- **[[m/_made|Made]] of [[m/_material|material]] [[p/_produced|produced]] by the [[h/_high|high]]-temperature [[f/_firing|firing]] of [[i/_inorganic|inorganic]], [[n/_nonmetallic|nonmetallic]] [[r/_rocks|rocks]] and [[m/_minerals|minerals]].**
 	- _Example: A ceramic vase stood on the table._
 ---
 ---

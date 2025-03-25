@@ -5,7 +5,7 @@
 - **[[a/_any|Any]] [[b/_basal|basal]] structure or [[p/_part|part]]**
 ---
 #adjective
-- **[[b/_basic|Basic]], [[e/_elementary|elementary]]; relating to, or [[f/_forming|forming]], the [[b/_base|base]], or [[p/_point|point]] of [[o/_origin|origin]].**
+- **[[b/_basic|Basic]], [[e/_elementary|elementary]]; [[r/_relating|relating]] to, or [[f/_forming|forming]], the [[b/_base|base]], or [[p/_point|point]] of [[o/_origin|origin]].**
 	- _Example: A basal reader is a kind of book that is used to teach reading._
 - **[[a/_associated|Associated]] with the [[b/_base|base]] of an [[o/_organism|organism]] or structure.**
 	- _Example: In the spring, basal leaves emerge from a stout taproot._

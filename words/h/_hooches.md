@@ -6,6 +6,6 @@
 ### Synonyms
 - [[m/_moonshine|moonshine]]
 #noun
-- **A thatched [[h/_hut|hut]], CHU, or [[a/_any|any]] simple [[d/_dwelling|dwelling]].**
+- **A thatched [[h/_hut|hut]], CHU, or [[a/_any|any]] [[s/_simple|simple]] [[d/_dwelling|dwelling]].**
 ---
 ---

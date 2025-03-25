@@ -1,6 +1,6 @@
 # Fraenulum
 ---
 #noun
-- **See [[f/_frenulum|frenulum]]**
+- **[[s/_see|See]] [[f/_frenulum|frenulum]]**
 ---
 ---

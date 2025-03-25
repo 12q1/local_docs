@@ -1,6 +1,6 @@
 # Fetterlock
 ---
 #noun
-- **A shackle or [[l/_lock|lock]].**
+- **A [[s/_shackle|shackle]] or [[l/_lock|lock]].**
 ---
 ---

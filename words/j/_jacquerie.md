@@ -1,6 +1,6 @@
 # Jacquerie
 ---
 #noun
-- **A violent revolt by [[p/_peasants|peasants]].**
+- **A violent [[r/_revolt|revolt]] by [[p/_peasants|peasants]].**
 ---
 ---

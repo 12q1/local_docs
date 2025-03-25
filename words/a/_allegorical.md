@@ -1,6 +1,6 @@
 # Allegorical
 ---
 #adjective
-- **Of, relating to, or [[c/_containing|containing]] [[a/_allegory|allegory]]**
+- **Of, [[r/_relating|relating]] to, or [[c/_containing|containing]] [[a/_allegory|allegory]]**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[p/_pertaining|Pertaining]] to, or [[h/_having|having]] the [[f/_form|form]], [[n/_nature|nature]] or [[h/_habits|habits]] of, a [[b/_beast|beast]].**
-- **Similar to the [[n/_nature|nature]] of a [[b/_beast|beast]]; [[c/_contrary|contrary]] to the [[n/_nature|nature]] and [[d/_dignity|dignity]] of [[m/_man|man]]**
+- **[[s/_similar|Similar]] to the [[n/_nature|nature]] of a [[b/_beast|beast]]; [[c/_contrary|contrary]] to the [[n/_nature|nature]] and [[d/_dignity|dignity]] of [[m/_man|man]]**
 	- _Example: beastly culture_
 - **[[a/_abominable|Abominable]].**
 	- _Example: beastly weather_

@@ -2,13 +2,13 @@
 ---
 #verb
 - **To throw with a sudden [[e/_effort|effort]] or thrust; to [[h/_hurl|hurl]] or [[l/_launch|launch]].**
-- **To send [[f/_forth|forth]] suddenly or rapidly; to [[e/_emit|emit]]; to shoot**
+- **To [[s/_send|send]] [[f/_forth|forth]] suddenly or [[r/_rapidly|rapidly]]; to [[e/_emit|emit]]; to [[s/_shoot|shoot]]**
 	- _Example: The sun darts forth his beams._
-- **To shoot with a [[d/_dart|dart]], [[e/_especially|especially]] a tranquilizer [[d/_dart|dart]]**
+- **To [[s/_shoot|shoot]] with a [[d/_dart|dart]], [[e/_especially|especially]] a tranquilizer [[d/_dart|dart]]**
 	- _Example: They had to dart the animal to get close enough to help_
-- **To [[f/_fly|fly]] or [[p/_pass|pass]] swiftly, [[l/_like|like]] a [[d/_dart|dart]]; to [[m/_move|move]] rapidly in [[o/_one|one]] [[d/_direction|direction]]; to shoot [[o/_out|out]] quickly**
+- **To [[f/_fly|fly]] or [[p/_pass|pass]] swiftly, [[l/_like|like]] a [[d/_dart|dart]]; to [[m/_move|move]] [[r/_rapidly|rapidly]] in [[o/_one|one]] [[d/_direction|direction]]; to [[s/_shoot|shoot]] [[o/_out|out]] [[q/_quickly|quickly]]**
 	- _Example: The flying man darted eastward._
-- **To start and run with speed; to shoot rapidly [[a/_along|along]]**
+- **To start and [[r/_run|run]] with speed; to [[s/_shoot|shoot]] [[r/_rapidly|rapidly]] [[a/_along|along]]**
 	- _Example: The deer darted from the thicket._
 ---
 ---

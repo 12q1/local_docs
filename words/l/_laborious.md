@@ -1,7 +1,7 @@
 # Laborious
 ---
 #adjective
-- **Requiring [[m/_much|much]] [[p/_physical|physical]] [[e/_effort|effort]]; toilsome.**
+- **[[r/_requiring|Requiring]] [[m/_much|much]] [[p/_physical|physical]] [[e/_effort|effort]]; toilsome.**
 - **[[m/_mentally|Mentally]] [[d/_difficult|difficult]]; [[p/_painstaking|painstaking]].**
 - **[[i/_industrious|Industrious]].**
 ---

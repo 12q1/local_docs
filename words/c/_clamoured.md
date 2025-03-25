@@ -9,13 +9,13 @@
 	- _Example: After a confused murmur the audience soon clamored_
 - **To [[i/_influence|influence]] by [[o/_outcry|outcry]].**
 	- _Example: His many supporters successfully clamor his election without a formal vote_
-- **To silence.**
+- **To [[s/_silence|silence]].**
 ---
 ### Synonyms
 - [[d/_din|din]]
 #verb
-- **To salute [[l/_loudly|loudly]].**
+- **To [[s/_salute|salute]] [[l/_loudly|loudly]].**
 - **To stun with [[n/_noise|noise]].**
-- **To repeat the strokes quickly on ([[b/_bells|bells]]) so as to produce a [[l/_loud|loud]] [[c/_clang|clang]].**
+- **To [[r/_repeat|repeat]] the strokes [[q/_quickly|quickly]] on ([[b/_bells|bells]]) [[s/_so|so]] as to [[p/_produce|produce]] a [[l/_loud|loud]] [[c/_clang|clang]].**
 ---
 ---

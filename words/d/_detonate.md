@@ -1,7 +1,7 @@
 # Detonate
 ---
 #verb
-- **To [[e/_explode|explode]]; to [[b/_blow|blow]] up. Specifically, to [[c/_combust|combust]] supersonically via shock [[c/_compression|compression]].**
+- **To [[e/_explode|explode]]; to [[b/_blow|blow]] up. Specifically, to [[c/_combust|combust]] supersonically via [[s/_shock|shock]] [[c/_compression|compression]].**
 - **To [[c/_cause|cause]] to [[e/_explode|explode]].**
 ---
 ### Synonyms

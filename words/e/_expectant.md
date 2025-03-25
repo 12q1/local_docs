@@ -1,7 +1,7 @@
 # Expectant
 ---
 #noun
-- **A [[p/_person|person]] who [[e/_expects|expects]] or [[a/_awaits|awaits]] something.**
+- **A [[p/_person|person]] who [[e/_expects|expects]] or [[a/_awaits|awaits]] [[s/_something|something]].**
 ---
 #adjective
 - **[[m/_marked|Marked]] by [[e/_expectation|expectation]].**

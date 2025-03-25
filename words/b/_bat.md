@@ -1,7 +1,7 @@
 # Bat
 ---
 #noun
-- **[[a/_any|Any]] of the [[f/_flying|flying]] [[m/_mammals|mammals]] of the [[o/_order|order]] [[c/_chiroptera|Chiroptera]], usually small and [[n/_nocturnal|nocturnal]], [[i/_insectivorous|insectivorous]] or [[f/_frugivorous|frugivorous]].**
+- **[[a/_any|Any]] of the [[f/_flying|flying]] [[m/_mammals|mammals]] of the [[o/_order|order]] [[c/_chiroptera|Chiroptera]], usually [[s/_small|small]] and [[n/_nocturnal|nocturnal]], [[i/_insectivorous|insectivorous]] or [[f/_frugivorous|frugivorous]].**
 - **An [[o/_old|old]] woman.**
 ---
 ### Synonyms

@@ -8,7 +8,7 @@
 - **The [[c/_condition|condition]] of understanding.**
 - **[[a/_aesthetic|Aesthetic]] [[d/_discrimination|discrimination]]; taste, [[a/_appreciation|appreciation]].**
 - **[[p/_perceptiveness|Perceptiveness]].**
-- **The [[a/_ability|ability]] to [[m/_make|make]] wise [[j/_judgements|judgements]]; sagacity.**
+- **The [[a/_ability|ability]] to [[m/_make|make]] wise [[j/_judgements|judgements]]; [[s/_sagacity|sagacity]].**
 - **[[d/_discretion|Discretion]] in [[j/_judging|judging]] [[o/_objectively|objectively]].**
 ---
 ---

@@ -5,6 +5,6 @@
 - **To [[c/_confuse|confuse]] or [[b/_befuddle|befuddle]].**
 ---
 #adjective
-- **[[h/_having|Having]] [[l/_lost|lost]] [[o/_one|one]]'s [[d/_direction|direction]]; [[c/_confused|confused]].**
+- **[[h/_having|Having]] [[l/_lost|lost]] [[o/_one|one]]'[[s/_s|s]] [[d/_direction|direction]]; [[c/_confused|confused]].**
 ---
 ---

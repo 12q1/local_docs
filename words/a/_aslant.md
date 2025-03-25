@@ -1,10 +1,10 @@
 # Aslant
 ---
 #adjective
-- **Slanting**
+- **[[s/_slanting|Slanting]]**
 ---
 #adverb
-- **At a slant**
+- **At a [[s/_slant|slant]]**
 ---
 #preposition
 - **[[d/_diagonally|Diagonally]] [[o/_over|over]] or [[a/_across|across]]**

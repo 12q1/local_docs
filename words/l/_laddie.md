@@ -1,6 +1,6 @@
 # Laddie
 ---
 #noun
-- **A small [[b/_boy|boy]].**
+- **A [[s/_small|small]] [[b/_boy|boy]].**
 ---
 ---

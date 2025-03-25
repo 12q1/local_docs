@@ -1,7 +1,7 @@
 # Autodidact
 ---
 #noun
-- **A self-taught [[p/_person|person]].**
+- **A [[s/_self|self]]-taught [[p/_person|person]].**
 	- _Example: Leonardo Da Vinci is one of the greatest autodidacts._
 ---
 ### Synonyms

@@ -6,7 +6,7 @@
 ---
 #adjective
 - **[[f/_froglike|Froglike]].**
-- **Suffering from a [[f/_frog|frog]] in [[o/_one|one]]'s throat; [[h/_hoarse|hoarse]].**
+- **Suffering from a [[f/_frog|frog]] in [[o/_one|one]]'[[s/_s|s]] throat; [[h/_hoarse|hoarse]].**
 - **[[i/_inclined|Inclined]] to [[f/_fight|fight]]; [[a/_aggressive|aggressive]].**
 - **[[e/_energetic|Energetic]] or strong.**
 ---

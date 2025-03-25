@@ -1,7 +1,7 @@
 # Haustoria
 ---
 #noun
-- **A root of a [[p/_parasitic|parasitic]] [[p/_plant|plant]] [[m/_modified|modified]] to take [[n/_nourishment|nourishment]] from [[i/_its|its]] [[h/_host|host]].**
+- **A [[r/_root|root]] of a [[p/_parasitic|parasitic]] [[p/_plant|plant]] [[m/_modified|modified]] to take [[n/_nourishment|nourishment]] from [[i/_its|its]] [[h/_host|host]].**
 - **A [[c/_cellular|cellular]] structure, [[g/_growing|growing]] [[i/_into|into]] or [[a/_around|around]] [[a/_another|another]] structure to [[a/_absorb|absorb]] water or [[n/_nutrients|nutrients]], such as a [[c/_cotyledon|cotyledon]].**
 ---
 ---

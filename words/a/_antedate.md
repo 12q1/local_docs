@@ -1,7 +1,7 @@
 # Antedate
 ---
 #noun
-- **Prior [[d/_date|date]]; a [[d/_date|date]] [[a/_antecedent|antecedent]] to [[a/_another|another]] which is the [[a/_actual|actual]] [[d/_date|date]].**
+- **[[p/_prior|Prior]] [[d/_date|date]]; a [[d/_date|date]] [[a/_antecedent|antecedent]] to [[a/_another|another]] which is the [[a/_actual|actual]] [[d/_date|date]].**
 - **[[a/_anticipation|Anticipation]]**
 ---
 #verb

@@ -7,7 +7,7 @@
 ### Synonyms
 - [[i/_integrationist|integrationist]]
 #adjective
-- **Of or [[p/_pertaining|pertaining]] to assimilationism or assimilationists; that promotes or [[a/_advocates|advocates]] assimilationism.**
+- **Of or [[p/_pertaining|pertaining]] to assimilationism or assimilationists; that [[p/_promotes|promotes]] or [[a/_advocates|advocates]] assimilationism.**
 ---
 ### Synonyms
 - [[i/_integrationist|integrationist]]

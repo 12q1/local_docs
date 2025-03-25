@@ -1,6 +1,6 @@
 # Fickleness
 ---
 #noun
-- **The quality of [[b/_being|being]] [[f/_fickle|fickle]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[f/_fickle|fickle]].**
 ---
 ---

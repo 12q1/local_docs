@@ -3,17 +3,17 @@
 #verb
 - **To turn to the [[a/_advantage|advantage]] of.**
 	- _Example: I availed myself of the opportunity._
-- **To be of service to.**
+- **To be of [[s/_service|service]] to.**
 	- _Example: Artifices will not avail the sinner in the day of judgment._
-- **To promote; to [[a/_assist|assist]].**
-- **To be of use or [[a/_advantage|advantage]]; to [[a/_answer|answer]] or serve the purpose; to [[h/_have|have]] strength, [[f/_force|force]], or [[e/_efficacy|efficacy]] sufficient to [[a/_accomplish|accomplish]] the [[o/_object|object]].**
+- **To [[p/_promote|promote]]; to [[a/_assist|assist]].**
+- **To be of use or [[a/_advantage|advantage]]; to [[a/_answer|answer]] or [[s/_serve|serve]] the [[p/_purpose|purpose]]; to [[h/_have|have]] strength, [[f/_force|force]], or [[e/_efficacy|efficacy]] sufficient to [[a/_accomplish|accomplish]] the [[o/_object|object]].**
 	- _Example: Medicines will not avail to halt the disease._
-- **To provide; to [[m/_make|make]] [[a/_available|available]].**
+- **To [[p/_provide|provide]]; to [[m/_make|make]] [[a/_available|available]].**
 ---
 ### Antonyms
 - [[d/_disavail|disavail]]
 #noun
-- **[[e/_effect|Effect]] in [[a/_achieving|achieving]] a [[g/_goal|goal]] or [[a/_aim|aim]]; purpose, use**
+- **[[e/_effect|Effect]] in [[a/_achieving|achieving]] a [[g/_goal|goal]] or [[a/_aim|aim]]; [[p/_purpose|purpose]], use**
 	- _Example: Any use would probably be an availing of the protection afforded by the passport._
 ---
 #adjective

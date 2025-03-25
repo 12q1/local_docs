@@ -1,6 +1,6 @@
 # Diacatholicon
 ---
 #noun
-- **A universal remedy; a [[c/_certain|certain]] purgative [[e/_electuary|electuary]].**
+- **A universal [[r/_remedy|remedy]]; a [[c/_certain|certain]] [[p/_purgative|purgative]] [[e/_electuary|electuary]].**
 ---
 ---

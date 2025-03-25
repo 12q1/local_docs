@@ -1,6 +1,6 @@
 # Hierolatry
 ---
 #noun
-- **The worship of saints**
+- **The worship of [[s/_saints|saints]]**
 ---
 ---

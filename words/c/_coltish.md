@@ -1,6 +1,6 @@
 # Coltish
 ---
 #adjective
-- **Resembling a [[c/_colt|colt]], [[e/_especially|especially]]:**
+- **[[r/_resembling|Resembling]] a [[c/_colt|colt]], [[e/_especially|especially]]:**
 ---
 ---

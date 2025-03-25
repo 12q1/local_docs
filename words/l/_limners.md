@@ -1,6 +1,6 @@
 # Limners
 ---
 #noun
-- **Someone who [[l/_limns|limns]].**
+- **[[s/_someone|Someone]] who [[l/_limns|limns]].**
 ---
 ---

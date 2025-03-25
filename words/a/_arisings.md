@@ -1,9 +1,9 @@
 # Arisings
 ---
 #noun
-- **The process by which something [[a/_arises|arises]]; [[o/_origination|origination]]; [[o/_occurrence|occurrence]].**
+- **The [[p/_process|process]] by which [[s/_something|something]] [[a/_arises|arises]]; [[o/_origination|origination]]; [[o/_occurrence|occurrence]].**
 ---
 #noun
-- **The waste products or [[b/_byproducts|byproducts]] of an [[i/_industrial|industrial]] process.**
+- **The waste [[p/_products|products]] or [[b/_byproducts|byproducts]] of an [[i/_industrial|industrial]] [[p/_process|process]].**
 ---
 ---

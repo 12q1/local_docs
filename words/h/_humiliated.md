@@ -1,7 +1,7 @@
 # Humiliated
 ---
 #verb
-- **To [[i/_injure|injure]] the [[d/_dignity|dignity]] and self-respect of.**
+- **To [[i/_injure|injure]] the [[d/_dignity|dignity]] and [[s/_self|self]]-[[r/_respect|respect]] of.**
 - **To [[m/_make|make]] [[h/_humble|humble]]; to [[l/_lower|lower]] in [[c/_condition|condition]] or status.**
 ---
 ### Synonyms
@@ -9,7 +9,7 @@
 ### Antonyms
 - [[d/_dignify|dignify]], [[h/_honor|honor]]
 #adjective
-- **[[d/_deprived|Deprived]] of [[d/_dignity|dignity]] or self-respect**
+- **[[d/_deprived|Deprived]] of [[d/_dignity|dignity]] or [[s/_self|self]]-[[r/_respect|respect]]**
 ---
 ### Synonyms
 - [[d/_degraded|degraded]]

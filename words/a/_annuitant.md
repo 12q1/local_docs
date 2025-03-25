@@ -1,6 +1,6 @@
 # Annuitant
 ---
 #noun
-- **The recipient of an [[a/_annuity|annuity]].**
+- **The [[r/_recipient|recipient]] of an [[a/_annuity|annuity]].**
 ---
 ---

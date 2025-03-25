@@ -1,10 +1,10 @@
 # Cursor
 ---
 #noun
-- **A [[p/_part|part]] of [[a/_any|any]] of several scientific [[i/_instruments|instruments]] that [[m/_moves|moves]] [[b/_back|back]] and [[f/_forth|forth]] to [[i/_indicate|indicate]] a [[p/_position|position]]**
-- **A [[m/_moving|moving]] [[i/_icon|icon]] or [[o/_other|other]] representation of the [[p/_position|position]] of the [[p/_pointing|pointing]] [[d/_device|device]]**
+- **A [[p/_part|part]] of [[a/_any|any]] of [[s/_several|several]] [[s/_scientific|scientific]] [[i/_instruments|instruments]] that [[m/_moves|moves]] [[b/_back|back]] and [[f/_forth|forth]] to [[i/_indicate|indicate]] a [[p/_position|position]]**
+- **A [[m/_moving|moving]] [[i/_icon|icon]] or [[o/_other|other]] [[r/_representation|representation]] of the [[p/_position|position]] of the [[p/_pointing|pointing]] [[d/_device|device]]**
 - **An [[i/_indicator|indicator]], [[o/_often|often]] a [[b/_blinking|blinking]] [[l/_line|line]] or [[b/_bar|bar]], [[i/_indicating|indicating]] where the [[n/_next|next]] [[i/_insertion|insertion]] or [[o/_other|other]] [[e/_edit|edit]] will take [[p/_place|place]]**
-- **A reference to a row of [[d/_data|data]] in a table, which [[m/_moves|moves]] from row to row as [[d/_data|data]] is retrieved by way of it**
+- **A [[r/_reference|reference]] to a [[r/_row|row]] of [[d/_data|data]] in a table, which [[m/_moves|moves]] from [[r/_row|row]] to [[r/_row|row]] as [[d/_data|data]] is [[r/_retrieved|retrieved]] by way of it**
 - **A [[d/_design|design]] [[p/_pattern|pattern]] in [[o/_object|object]] [[o/_oriented|oriented]] [[m/_methodology|methodology]] in which a [[c/_collection|collection]] is [[i/_iterated|iterated]] uniformly**
 ---
 ### Synonyms

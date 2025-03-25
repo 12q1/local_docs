@@ -1,7 +1,7 @@
 # Granddaughters
 ---
 #noun
-- **The [[d/_daughter|daughter]] of someone's [[c/_child|child]].**
+- **The [[d/_daughter|daughter]] of [[s/_someone|someone]]'[[s/_s|s]] [[c/_child|child]].**
 ---
 ### Synonyms
 - [[g/_grandgirl|grandgirl]]

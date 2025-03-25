@@ -1,12 +1,12 @@
 # Cutty
 ---
 #noun
-- **A short spoon.**
-- **A short tobacco [[p/_pipe|pipe]].**
+- **A [[s/_short|short]] spoon.**
+- **A [[s/_short|short]] tobacco [[p/_pipe|pipe]].**
 - **A wanton or unchaste woman.**
-- **A [[g/_girl|girl]] with a short, [[d/_dumpy|dumpy]] [[f/_figure|figure]].**
+- **A [[g/_girl|girl]] with a [[s/_short|short]], [[d/_dumpy|dumpy]] [[f/_figure|figure]].**
 ---
 #adjective
-- **Short, shortened, or small; [[c/_curtailed|curtailed]].**
+- **[[s/_short|Short]], [[s/_shortened|shortened]], or [[s/_small|small]]; [[c/_curtailed|curtailed]].**
 ---
 ---

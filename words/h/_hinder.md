@@ -3,7 +3,7 @@
 #verb
 - **To [[m/_make|make]] [[d/_difficult|difficult]] to [[a/_accomplish|accomplish]]; to [[a/_act|act]] as an [[o/_obstacle|obstacle]]; to [[f/_frustrate|frustrate]].**
 	- _Example: A drought hinders the growth of plants._
-- **To [[d/_delay|delay]] or [[i/_impede|impede]]; to [[k/_keep|keep]] [[b/_back|back]], to prevent.**
+- **To [[d/_delay|delay]] or [[i/_impede|impede]]; to [[k/_keep|keep]] [[b/_back|back]], to [[p/_prevent|prevent]].**
 	- _Example: She hindered a man from committing suicide._
 - **To [[c/_cause|cause]] [[h/_harm|harm]].**
 ---

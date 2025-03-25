@@ -1,7 +1,7 @@
 # Catenae
 ---
 #noun
-- **A series of related [[i/_items|items]].**
-- **A series of [[d/_distinct|distinct]] soils [[a/_arrayed|arrayed]] [[a/_along|along]] a slope.**
+- **A [[s/_series|series]] of [[r/_related|related]] [[i/_items|items]].**
+- **A [[s/_series|series]] of [[d/_distinct|distinct]] [[s/_soils|soils]] [[a/_arrayed|arrayed]] [[a/_along|along]] a [[s/_slope|slope]].**
 ---
 ---

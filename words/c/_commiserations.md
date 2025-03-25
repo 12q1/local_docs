@@ -1,6 +1,6 @@
 # Commiserations
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_commiserating|commiserating]]; sorrow for the [[h/_hardships|hardships]] or [[a/_afflictions|afflictions]] of [[a/_another|another]]; [[p/_pity|pity]]; [[c/_compassion|compassion]].**
+- **The [[a/_act|act]] of [[c/_commiserating|commiserating]]; [[s/_sorrow|sorrow]] for the [[h/_hardships|hardships]] or [[a/_afflictions|afflictions]] of [[a/_another|another]]; [[p/_pity|pity]]; [[c/_compassion|compassion]].**
 ---
 ---

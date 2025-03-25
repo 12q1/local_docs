@@ -1,6 +1,6 @@
 # Advected
 ---
 #verb
-- **To transport (something) by [[a/_advection|advection]].**
+- **To transport ([[s/_something|something]]) by [[a/_advection|advection]].**
 ---
 ---

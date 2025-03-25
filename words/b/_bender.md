@@ -6,17 +6,17 @@
 - **A [[b/_bout|bout]] of [[h/_heavy|heavy]] [[d/_drinking|drinking]].**
 	- _Example: He's been out on a bender with his mates._
 - **A [[h/_homosexual|homosexual]] [[m/_man|man]].**
-- **A simple shelter, [[m/_made|made]] using [[f/_flexible|flexible]] [[b/_branches|branches]] or withies**
-- **A suspended sentence.**
-- **A sixpence.**
+- **A [[s/_simple|simple]] [[s/_shelter|shelter]], [[m/_made|made]] using [[f/_flexible|flexible]] [[b/_branches|branches]] or withies**
+- **A suspended [[s/_sentence|sentence]].**
+- **A [[s/_sixpence|sixpence]].**
 - **A spree, a [[f/_frolic|frolic]].**
-- **Something [[e/_exceptional|exceptional]].**
+- **[[s/_something|Something]] [[e/_exceptional|exceptional]].**
 ---
 ### Synonyms
 - [[b/_binge|binge]], [[s/_spree|spree]], [[t/_toot|toot]]
 #interjection
-- **([[b/_british|British]] slang) Used to [[e/_express|express]] [[d/_disbelief|disbelief]] or [[d/_doubt|doubt]] at what [[o/_one|one]] [[h/_has|has]] [[j/_just|just]] [[h/_heard|heard]].**
-- **([[b/_british|British]] slang) Used to [[i/_indicate|indicate]] that the previous [[p/_phrase|phrase]] was [[m/_meant|meant]] sarcastically or [[i/_ironically|ironically]].**
+- **([[b/_british|British]] [[s/_slang|slang]]) Used to [[e/_express|express]] [[d/_disbelief|disbelief]] or [[d/_doubt|doubt]] at what [[o/_one|one]] [[h/_has|has]] [[j/_just|just]] [[h/_heard|heard]].**
+- **([[b/_british|British]] [[s/_slang|slang]]) Used to [[i/_indicate|indicate]] that the [[p/_previous|previous]] [[p/_phrase|phrase]] was [[m/_meant|meant]] [[s/_sarcastically|sarcastically]] or [[i/_ironically|ironically]].**
 	- _Example: O yes, I'll do it — bender!_
 ---
 ### Synonyms

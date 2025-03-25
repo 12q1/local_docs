@@ -5,13 +5,13 @@
 	- _Example: Fred loved holey Dutch cheese._
 ---
 #adjective
-- **[[d/_dedicated|Dedicated]] to a religious purpose or a [[g/_god|god]].**
+- **[[d/_dedicated|Dedicated]] to a [[r/_religious|religious]] [[p/_purpose|purpose]] or a [[g/_god|god]].**
 	- _Example: I'm planning to visit the holy city of Jerusalem this Christmas._
-- **Revered in a religion.**
-- **[[m/_morally|Morally]] [[p/_perfect|perfect]] or [[f/_flawless|flawless]], or [[n/_nearly|nearly]] so.**
+- **[[r/_revered|Revered]] in a [[r/_religion|religion]].**
+- **[[m/_morally|Morally]] [[p/_perfect|perfect]] or [[f/_flawless|flawless]], or [[n/_nearly|nearly]] [[s/_so|so]].**
 	- _Example: My grandmother is a very holy woman._
-- **Separated or set [[a/_apart|apart]] from (something unto something or someone [[e/_else|else]]).**
-- **Set [[a/_apart|apart]] or [[d/_dedicated|dedicated]] for a specific purpose, or for use by a single [[e/_entity|entity]] or [[p/_person|person]].**
+- **[[s/_separated|Separated]] or [[s/_set|set]] [[a/_apart|apart]] from ([[s/_something|something]] unto [[s/_something|something]] or [[s/_someone|someone]] [[e/_else|else]]).**
+- **[[s/_set|Set]] [[a/_apart|apart]] or [[d/_dedicated|dedicated]] for a specific [[p/_purpose|purpose]], or for use by a [[s/_single|single]] [[e/_entity|entity]] or [[p/_person|person]].**
 - **Used as an [[i/_intensifier|intensifier]] in various [[i/_interjections|interjections]].**
 	- _Example: Holy cow, I can’t believe he actually lost the race!_
 ---

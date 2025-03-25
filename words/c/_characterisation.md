@@ -1,6 +1,6 @@
 # Characterisation
 ---
 #noun
-- **The [[a/_act|act]] or process of [[c/_characterizing|characterizing]].**
+- **The [[a/_act|act]] or [[p/_process|process]] of [[c/_characterizing|characterizing]].**
 ---
 ---

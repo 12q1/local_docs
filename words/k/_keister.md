@@ -2,10 +2,10 @@
 ---
 #noun
 - **The [[a/_anus|anus]] or [[b/_buttocks|buttocks]].**
-- **A safe, a strongbox.**
-- **A suitcase; a satchel.**
+- **A [[s/_safe|safe]], a strongbox.**
+- **A suitcase; a [[s/_satchel|satchel]].**
 ---
 #verb
-- **To [[c/_conceal|conceal]] something in [[o/_one|one]]'s rectum**
+- **To [[c/_conceal|conceal]] [[s/_something|something]] in [[o/_one|one]]'[[s/_s|s]] [[r/_rectum|rectum]]**
 ---
 ---

@@ -9,7 +9,7 @@
 	- _Example: definite dimensions; a definite measure; a definite period or interval_
 - **[[f/_free|Free]] from [[a/_any|any]] [[d/_doubt|doubt]].**
 	- _Example: definite knowledge_
-- **[[d/_determined|Determined]]; resolved; [[d/_decided|decided]].**
+- **[[d/_determined|Determined]]; [[r/_resolved|resolved]]; [[d/_decided|decided]].**
 - **[[d/_designating|Designating]] an [[i/_identified|identified]] or [[i/_immediately|immediately]] [[i/_identifiable|identifiable]] [[p/_person|person]] or thing, or [[g/_group|group]] of [[p/_persons|persons]] or things**
 	- _Example: the definite article_
 ---

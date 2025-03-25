@@ -1,11 +1,11 @@
 # Fights
 ---
 #verb
-- **To [[c/_contend|contend]] in [[p/_physical|physical]] [[c/_conflict|conflict]], [[e/_either|either]] singly or in war, [[b/_battle|battle]] [[e/_etc|etc]].**
+- **To [[c/_contend|contend]] in [[p/_physical|physical]] [[c/_conflict|conflict]], [[e/_either|either]] [[s/_singly|singly]] or in war, [[b/_battle|battle]] [[e/_etc|etc]].**
 	- _Example: A wounded animal will fight like a maniac, relentless, savage and murderous._
-- **To [[c/_contend|contend]] in [[p/_physical|physical]] [[c/_conflict|conflict]] with [[e/_each|each]] [[o/_other|other]], [[e/_either|either]] singly or in war, [[b/_battle|battle]] [[e/_etc|etc]].**
+- **To [[c/_contend|contend]] in [[p/_physical|physical]] [[c/_conflict|conflict]] with [[e/_each|each]] [[o/_other|other]], [[e/_either|either]] [[s/_singly|singly]] or in war, [[b/_battle|battle]] [[e/_etc|etc]].**
 	- _Example: The two boxers have been fighting for more than half an hour._
-- **To strive for something; to [[c/_campaign|campaign]] or [[c/_contend|contend]] for success.**
+- **To strive for [[s/_something|something]]; to [[c/_campaign|campaign]] or [[c/_contend|contend]] for success.**
 	- _Example: He fought for the Democrats in the last election._
 - **To [[c/_conduct|conduct]] or [[e/_engage|engage]] in ([[b/_battle|battle]], warfare [[e/_etc|etc]].).**
 	- _Example: The battle was fought just over that hill._
@@ -29,6 +29,6 @@
 	- _Example: I'll put up a fight to save this company._
 - **The will or [[a/_ability|ability]] to [[f/_fight|fight]].**
 	- _Example: That little guy has a bit of fight in him after all.   As soon as he saw the size of his opponent, all the fight went out of him._
-- **A screen for the [[c/_combatants|combatants]] in ships.**
+- **A [[s/_screen|screen]] for the [[c/_combatants|combatants]] in [[s/_ships|ships]].**
 ---
 ---

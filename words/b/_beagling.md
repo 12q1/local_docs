@@ -2,6 +2,6 @@
 ---
 #verb
 - **To [[h/_hunt|hunt]] with [[b/_beagles|beagles]].**
-- **To search.**
+- **To [[s/_search|search]].**
 ---
 ---

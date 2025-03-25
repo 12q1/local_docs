@@ -1,10 +1,10 @@
 # Honeys
 ---
 #noun
-- **A viscous, sweet [[f/_fluid|fluid]] produced from [[p/_plant|plant]] [[n/_nectar|nectar]] by [[b/_bees|bees]]. [[o/_often|Often]] used to sweeten tea or to spread on [[b/_baked|baked]] [[g/_goods|goods]].**
+- **A viscous, sweet [[f/_fluid|fluid]] [[p/_produced|produced]] from [[p/_plant|plant]] [[n/_nectar|nectar]] by [[b/_bees|bees]]. [[o/_often|Often]] used to sweeten tea or to spread on [[b/_baked|baked]] [[g/_goods|goods]].**
 - **A variety of this substance.**
 - **[[n/_nectar|Nectar]].**
-- **Something sweet or [[d/_desirable|desirable]].**
+- **[[s/_something|Something]] sweet or [[d/_desirable|desirable]].**
 - **A term of [[a/_affection|affection]].**
 	- _Example: Honey, I'm home._
 - **A woman, [[e/_especially|especially]] an [[a/_attractive|attractive]] [[o/_one|one]].**

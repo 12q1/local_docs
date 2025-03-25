@@ -1,6 +1,6 @@
 # Helmsmanship
 ---
 #noun
-- **The role of [[h/_helmsman|helmsman]].**
+- **The [[r/_role|role]] of [[h/_helmsman|helmsman]].**
 ---
 ---

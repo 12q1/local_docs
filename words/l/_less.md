@@ -1,14 +1,14 @@
 # Less
 ---
 #noun
-- **A smaller [[a/_amount|amount]] or quantity.**
+- **A [[s/_smaller|smaller]] [[a/_amount|amount]] or [[q/_quantity|quantity]].**
 	- _Example: I have less to do today than yesterday._
 ---
 #verb
 - **To [[m/_make|make]] [[l/_less|less]]; to [[l/_lessen|lessen]].**
 ---
 #adverb
-- **To a smaller [[e/_extent|extent]] or [[d/_degree|degree]].**
+- **To a [[s/_smaller|smaller]] [[e/_extent|extent]] or [[d/_degree|degree]].**
 	- _Example: I like him less each time I see him._
 ---
 ### Antonyms

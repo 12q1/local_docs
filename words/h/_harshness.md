@@ -1,6 +1,6 @@
 # Harshness
 ---
 #noun
-- **The quality of [[b/_being|being]] [[h/_harsh|harsh]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[h/_harsh|harsh]].**
 ---
 ---

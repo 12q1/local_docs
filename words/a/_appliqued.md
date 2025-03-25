@@ -1,6 +1,6 @@
 # Appliqued
 ---
 #verb
-- **To [[d/_decorate|decorate]] something in this way**
+- **To [[d/_decorate|decorate]] [[s/_something|something]] in this way**
 ---
 ---

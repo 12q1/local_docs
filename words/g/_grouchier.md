@@ -1,7 +1,7 @@
 # Grouchier
 ---
 #adjective
-- **([[o/_originally|originally]] student slang) [[i/_irritable|Irritable]]; [[e/_easily|easily]] upset; [[a/_angry|angry]]; tending to [[c/_complain|complain]].**
+- **([[o/_originally|originally]] student [[s/_slang|slang]]) [[i/_irritable|Irritable]]; [[e/_easily|easily]] upset; [[a/_angry|angry]]; tending to [[c/_complain|complain]].**
 	- _Example: His boss gets grouchy when deadlines draw near._
 ---
 ### Synonyms

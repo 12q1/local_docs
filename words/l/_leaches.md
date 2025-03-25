@@ -1,19 +1,19 @@
 # Leaches
 ---
 #noun
-- **A quantity of wood [[a/_ashes|ashes]], through which water [[p/_passes|passes]], and thus [[i/_imbibes|imbibes]] the [[a/_alkali|alkali]].**
+- **A [[q/_quantity|quantity]] of wood [[a/_ashes|ashes]], through which water [[p/_passes|passes]], and thus [[i/_imbibes|imbibes]] the [[a/_alkali|alkali]].**
 - **A tub or vat for [[l/_leaching|leaching]] [[a/_ashes|ashes]], [[b/_bark|bark]], [[e/_etc|etc]].**
 - **A [[j/_jelly|jelly]]-[[l/_like|like]] sweetmeat [[p/_popular|popular]] in the [[f/_fifteenth|fifteenth]] [[c/_century|century]].**
 	- _Example: 1670 Hannah Woolley The Queen-like Closet, Or, Rich Cabinet https//en.m.wikipedia.org/wiki/The_Queen-Like_Closet "To make Leach and to colour it"_
 ---
 #verb
-- **To purge a soluble [[m/_matter|matter]] [[o/_out|out]] of something by the [[a/_action|action]] of a [[p/_percolating|percolating]] [[f/_fluid|fluid]].**
+- **To [[p/_purge|purge]] a [[s/_soluble|soluble]] [[m/_matter|matter]] [[o/_out|out]] of [[s/_something|something]] by the [[a/_action|action]] of a [[p/_percolating|percolating]] [[f/_fluid|fluid]].**
 	- _Example: Heavy rainfall can leach out minerals important for plant growth from the soil._
-- **To [[p/_part|part]] with soluble [[c/_constituents|constituents]] by [[p/_percolation|percolation]].**
+- **To [[p/_part|part]] with [[s/_soluble|soluble]] [[c/_constituents|constituents]] by [[p/_percolation|percolation]].**
 ---
 #noun
 - **An [[a/_aquatic|aquatic]] [[b/_blood|blood]]-sucking [[a/_annelid|annelid]] of [[c/_class|class]] [[h/_hirudinea|Hirudinea]], [[e/_especially|especially]] [[h/_hirudo|Hirudo]] medicinalis.**
-- **A [[p/_person|person]] who [[d/_derives|derives]] profit from [[o/_others|others]] in a [[p/_parasitic|parasitic]] [[f/_fashion|fashion]].**
+- **A [[p/_person|person]] who [[d/_derives|derives]] [[p/_profit|profit]] from [[o/_others|others]] in a [[p/_parasitic|parasitic]] [[f/_fashion|fashion]].**
 - **A [[g/_glass|glass]] tube [[d/_designed|designed]] for [[d/_drawing|drawing]] [[b/_blood|blood]] from [[d/_damaged|damaged]] tissue by [[m/_means|means]] of a vacuum.**
 ---
 ### Synonyms
@@ -25,7 +25,7 @@
 ### Synonyms
 - [[h/_healer|healer]], [[b/_barber|barber]], [[d/_doctor|doctor]], [[p/_physician|physician]]
 #noun
-- **The vertical [[e/_edge|edge]] of a square sail.**
-- **The [[a/_aft|aft]] [[e/_edge|edge]] of a triangular sail.**
+- **The vertical [[e/_edge|edge]] of a square [[s/_sail|sail]].**
+- **The [[a/_aft|aft]] [[e/_edge|edge]] of a triangular [[s/_sail|sail]].**
 ---
 ---

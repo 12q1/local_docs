@@ -1,7 +1,7 @@
 # Fossick
 ---
 #verb
-- **To search for something; to rummage.**
+- **To [[s/_search|search]] for [[s/_something|something]]; to [[r/_rummage|rummage]].**
 - **([[b/_british|British]] [[d/_dialect|dialect]]) To be troublesome.**
 ---
 ### Synonyms

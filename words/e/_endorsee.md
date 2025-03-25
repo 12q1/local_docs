@@ -1,6 +1,6 @@
 # Endorsee
 ---
 #noun
-- **The [[p/_person|person]] to whom something is transferred by [[e/_endorsement|endorsement]].**
+- **The [[p/_person|person]] to whom [[s/_something|something]] is transferred by [[e/_endorsement|endorsement]].**
 ---
 ---

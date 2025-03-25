@@ -8,7 +8,7 @@
 ---
 #verb
 - **To [[n/_nourish|nourish]]; [[f/_feed|feed]].**
-- **To render (for [[e/_example|example]] soil) [[f/_fertile|fertile]] or [[f/_fruitful|fruitful]]**
+- **To [[r/_render|render]] (for [[e/_example|example]] [[s/_soil|soil]]) [[f/_fertile|fertile]] or [[f/_fruitful|fruitful]]**
 ---
 #adjective
 - **[[b/_battlemented|Battlemented]]**

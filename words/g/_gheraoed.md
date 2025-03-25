@@ -1,6 +1,6 @@
 # Gheraoed
 ---
 #verb
-- **To surround for this purpose.**
+- **To surround for this [[p/_purpose|purpose]].**
 ---
 ---

@@ -10,6 +10,6 @@
 - [[e/_encastellate|encastellate]], [[f/_fortify|fortify]], [[i/_incastellate|incastellate]]
 #adjective
 - **Surrounded.**
-- **[[c/_contained|Contained]] within something.**
+- **[[c/_contained|Contained]] within [[s/_something|something]].**
 ---
 ---

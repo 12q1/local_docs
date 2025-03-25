@@ -5,6 +5,6 @@
 	- _Example: He ummed and erred his way through the presentation._
 ---
 #interjection
-- **Said when [[h/_hesitating|hesitating]] in speech.**
+- **[[s/_said|Said]] when [[h/_hesitating|hesitating]] in speech.**
 ---
 ---

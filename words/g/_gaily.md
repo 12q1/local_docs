@@ -2,6 +2,6 @@
 ---
 #adverb
 - **[[m/_merrily|Merrily]].**
-- **Showily.**
+- **[[s/_showily|Showily]].**
 ---
 ---

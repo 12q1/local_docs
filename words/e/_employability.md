@@ -1,7 +1,7 @@
 # Employability
 ---
 #noun
-- **The state or quality of [[b/_being|being]] [[e/_employable|employable]].**
-- **The product or result of [[b/_being|being]] [[e/_employable|employable]].**
+- **The state or [[q/_quality|quality]] of [[b/_being|being]] [[e/_employable|employable]].**
+- **The [[p/_product|product]] or [[r/_result|result]] of [[b/_being|being]] [[e/_employable|employable]].**
 ---
 ---

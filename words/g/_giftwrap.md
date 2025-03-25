@@ -1,6 +1,6 @@
 # Giftwrap
 ---
 #verb
-- **To wrap something in [[d/_decorative|decorative]] wrappings prior to [[p/_presenting|presenting]] it as a [[g/_gift|gift]]**
+- **To wrap [[s/_something|something]] in [[d/_decorative|decorative]] wrappings [[p/_prior|prior]] to [[p/_presenting|presenting]] it as a [[g/_gift|gift]]**
 ---
 ---

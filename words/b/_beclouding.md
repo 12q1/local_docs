@@ -6,6 +6,6 @@
 - **To [[c/_cast|cast]] in a [[n/_negative|negative]] [[l/_light|light]], [[c/_cast|cast]] a [[p/_pall|pall]] [[o/_over|over]], [[d/_darken|darken]].**
 ---
 #noun
-- **The process of [[b/_becoming|becoming]] [[c/_clouded|clouded]] or [[o/_obscured|obscured]].**
+- **The [[p/_process|process]] of [[b/_becoming|becoming]] [[c/_clouded|clouded]] or [[o/_obscured|obscured]].**
 ---
 ---

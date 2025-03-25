@@ -1,21 +1,21 @@
 # Destroyed
 ---
 #verb
-- **To [[d/_damage|damage]] [[b/_beyond|beyond]] use or repair.**
+- **To [[d/_damage|damage]] [[b/_beyond|beyond]] use or [[r/_repair|repair]].**
 	- _Example: Hooligans destroy unprovoked._
-- **To [[n/_neutralize|neutralize]], undo a property or [[c/_condition|condition]].**
+- **To [[n/_neutralize|neutralize]], undo a [[p/_property|property]] or [[c/_condition|condition]].**
 	- _Example: Smoking destroys the natural subtlety of the palate._
-- **To put [[d/_down|down]] or euthanize.**
+- **To [[p/_put|put]] [[d/_down|down]] or euthanize.**
 	- _Example: Destroying a rabid dog is required by law._
-- **To severely [[d/_disrupt|disrupt]] the well-[[b/_being|being]] of (a [[p/_person|person]]); ruin.**
+- **To [[s/_severely|severely]] [[d/_disrupt|disrupt]] the well-[[b/_being|being]] of (a [[p/_person|person]]); [[r/_ruin|ruin]].**
 	- _Example: Her divorce destroyed her; she had a nervous breakdown and was severely depressed for more than a year._
-- **To [[d/_defeat|defeat]] soundly.**
-- **To remove [[d/_data|data]].**
+- **To [[d/_defeat|defeat]] [[s/_soundly|soundly]].**
+- **To [[r/_remove|remove]] [[d/_data|data]].**
 	- _Example: The memory leak happened because we forgot to destroy the temporary lists._
-- **To sing a song [[p/_poorly|poorly]].**
-- **([[a/_antiphrasis|antiphrasis]]) To [[e/_exhaust|exhaust]] [[d/_duly|duly]] and thus recreate or [[b/_build|build]] up.**
+- **To [[s/_sing|sing]] a [[s/_song|song]] [[p/_poorly|poorly]].**
+- **([[a/_antiphrasis|antiphrasis]]) To [[e/_exhaust|exhaust]] [[d/_duly|duly]] and thus [[r/_recreate|recreate]] or [[b/_build|build]] up.**
 	- _Example: This exercise is going to destroy all parts of your shoulders._
-- **To [[p/_penetrate|penetrate]] sexually in an [[a/_aggressive|aggressive]] way.**
+- **To [[p/_penetrate|penetrate]] [[s/_sexually|sexually]] in an [[a/_aggressive|aggressive]] way.**
 	- _Example: She got destroyed by her lover on the carpet._
 ---
 ### Synonyms
@@ -23,6 +23,6 @@
 ### Antonyms
 - [[b/_build|build]], [[c/_construct|construct]], [[c/_create|create]], [[m/_make|make]], [[r/_raise|raise]], [[r/_repair|repair]]
 #adjective
-- **([[p/_particularly|particularly]] of a [[c/_child|child]]) soiled, [[m/_muddied|muddied]], [[e/_especially|especially]] as a result of a [[f/_fall|fall]] or spill.**
+- **([[p/_particularly|particularly]] of a [[c/_child|child]]) [[s/_soiled|soiled]], [[m/_muddied|muddied]], [[e/_especially|especially]] as a [[r/_result|result]] of a [[f/_fall|fall]] or spill.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Gandered
 ---
 #verb
-- **Ramble, wander**
+- **[[r/_ramble|Ramble]], wander**
 ---
 ---

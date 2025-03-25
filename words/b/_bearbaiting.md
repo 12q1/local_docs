@@ -1,10 +1,10 @@
 # Bearbaiting
 ---
 #verb
-- **To torment or provoke.**
+- **To torment or [[p/_provoke|provoke]].**
 ---
 #noun
-- **A [[b/_blood|blood]] sport in which [[d/_dogs|dogs]] are set upon a [[c/_chained|chained]] [[b/_bear|bear]]**
+- **A [[b/_blood|blood]] sport in which [[d/_dogs|dogs]] are [[s/_set|set]] upon a [[c/_chained|chained]] [[b/_bear|bear]]**
 - **([[m/_metaphoric|metaphoric]]) A [[b/_bloodthirsty|bloodthirsty]] [[f/_free|free]] for [[a/_all|all]].**
 ---
 ---

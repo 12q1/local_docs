@@ -7,7 +7,7 @@
 	- _Example: From the foothills below, Jean, Jan, and James were mere flyspecks, easily lost among the straggly pines that formed the treeline._
 ---
 #verb
-- **To [[b/_bespeckle|bespeckle]] with tiny spatters of [[c/_color|color]].**
-- **To [[i/_inspect|inspect]] in [[m/_minute|minute]] [[d/_detail|detail]] to [[e/_ensure|ensure]] that something [[c/_contains|contains]] [[n/_no|no]] [[f/_flaws|flaws]]; [[n/_nitpick|nitpick]].**
+- **To [[b/_bespeckle|bespeckle]] with tiny [[s/_spatters|spatters]] of [[c/_color|color]].**
+- **To [[i/_inspect|inspect]] in [[m/_minute|minute]] [[d/_detail|detail]] to [[e/_ensure|ensure]] that [[s/_something|something]] [[c/_contains|contains]] [[n/_no|no]] [[f/_flaws|flaws]]; [[n/_nitpick|nitpick]].**
 ---
 ---

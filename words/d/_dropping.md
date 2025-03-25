@@ -6,13 +6,13 @@
 	- _Example: The equipment shows how much the glacier has moved and the amount it dropped in height over the summer._
 - **[[g/_generally|Generally]], to [[f/_fall|fall]] (straight [[d/_down|down]]).**
 	- _Example: A single shot was fired and the bird dropped from the sky._
-- **To [[l/_let|let]] [[f/_fall|fall]]; to [[a/_allow|allow]] to [[f/_fall|fall]] ([[e/_either|either]] by releasing [[h/_hold|hold]] of, or [[l/_losing|losing]] [[o/_one|one]]'s [[g/_grip|grip]] on).**
+- **To [[l/_let|let]] [[f/_fall|fall]]; to [[a/_allow|allow]] to [[f/_fall|fall]] ([[e/_either|either]] by [[r/_releasing|releasing]] [[h/_hold|hold]] of, or [[l/_losing|losing]] [[o/_one|one]]'[[s/_s|s]] [[g/_grip|grip]] on).**
 	- _Example: Don't drop that plate!   The police ordered the men to drop their weapons._
 - **To [[l/_let|let]] [[d/_drops|drops]] [[f/_fall|fall]]; to [[d/_discharge|discharge]] [[i/_itself|itself]] in [[d/_drops|drops]].**
 - **To [[l/_lower|lower]]; to [[m/_move|move]] to a [[l/_lower|lower]] [[p/_position|position]].**
-- **To set [[d/_down|down]] from a vehicle; to [[d/_deliver|deliver]] or [[d/_deposit|deposit]] by stopping.**
+- **To [[s/_set|set]] [[d/_down|down]] from a vehicle; to [[d/_deliver|deliver]] or [[d/_deposit|deposit]] by stopping.**
 	- _Example: Could you drop me at the airport on your way to work tomorrow?_
-- **To sink quickly to the [[g/_ground|ground]].**
+- **To [[s/_sink|sink]] [[q/_quickly|quickly]] to the [[g/_ground|ground]].**
 	- _Example: Drop and give me thirty push-ups, private!_
 - **To [[f/_fall|fall]] [[d/_dead|dead]], or to [[f/_fall|fall]] in [[d/_death|death]].**
 - **To [[c/_come|come]] to an [[e/_end|end]] (by not [[b/_being|being]] [[k/_kept|kept]] up); to stop.**
@@ -23,52 +23,52 @@
 	- _Example: I'm tired of this subject. Will you just drop it?_
 - **To [[l/_lessen|lessen]], [[d/_decrease|decrease]], or [[d/_diminish|diminish]] in value, [[c/_condition|condition]], [[d/_degree|degree]], [[e/_etc|etc]].**
 	- _Example: The stock dropped 1.5% yesterday.   We can take our vacation when the price of fuel drops.   Watch for the temperature to drop sharply, then you'll know the reaction is complete._
-- **To [[l/_let|let]] (a [[l/_letter|letter]] [[e/_etc|etc]].) [[f/_fall|fall]] [[i/_into|into]] a [[p/_postbox|postbox]]; to send (a [[l/_letter|letter]] or [[m/_message|message]]) in an [[o/_offhand|offhand]] [[m/_manner|manner]].**
+- **To [[l/_let|let]] (a [[l/_letter|letter]] [[e/_etc|etc]].) [[f/_fall|fall]] [[i/_into|into]] a [[p/_postbox|postbox]]; to [[s/_send|send]] (a [[l/_letter|letter]] or [[m/_message|message]]) in an [[o/_offhand|offhand]] [[m/_manner|manner]].**
 	- _Example: Drop me a note when you get to the city._
-- **To [[m/_make|make]] (someone or something) [[f/_fall|fall]] to the [[g/_ground|ground]] from a [[b/_blow|blow]], [[g/_gunshot|gunshot]] [[e/_etc|etc]].; to [[b/_bring|bring]] [[d/_down|down]], to shoot [[d/_down|down]].**
+- **To [[m/_make|make]] ([[s/_someone|someone]] or [[s/_something|something]]) [[f/_fall|fall]] to the [[g/_ground|ground]] from a [[b/_blow|blow]], [[g/_gunshot|gunshot]] [[e/_etc|etc]].; to [[b/_bring|bring]] [[d/_down|down]], to [[s/_shoot|shoot]] [[d/_down|down]].**
 	- _Example: Make any sudden movements and I will drop you!_
-- **To [[f/_fail|fail]] to write, or ([[e/_especially|especially]]) to pronounce (a syllable, [[l/_letter|letter]] [[e/_etc|etc]].).**
+- **To [[f/_fail|fail]] to write, or ([[e/_especially|especially]]) to [[p/_pronounce|pronounce]] (a [[s/_syllable|syllable]], [[l/_letter|letter]] [[e/_etc|etc]].).**
 	- _Example: Cockneys drop their aitches._
 - **(of a [[f/_fielder|fielder]]) To [[f/_fail|fail]] to [[m/_make|make]] a [[c/_catch|catch]] from a [[b/_batted|batted]] [[b/_ball|ball]] that would [[h/_have|have]] [[l/_led|led]] to the [[b/_batsman|batsman]] [[b/_being|being]] [[o/_out|out]].**
 	- _Example: Warne dropped Tendulkar on 99. Tendulkar went on to get a century next ball_
 - **To swallow (a [[d/_drug|drug]]), [[p/_particularly|particularly]] LSD.**
 	- _Example: They had never dropped acid._
-- **To [[d/_dispose|dispose]] (of); [[g/_get|get]] rid of; to remove; to [[l/_lose|lose]].**
+- **To [[d/_dispose|dispose]] (of); [[g/_get|get]] [[r/_rid|rid]] of; to [[r/_remove|remove]]; to [[l/_lose|lose]].**
 	- _Example: I dropped ten pounds and an obnoxious fiancée._
 - **To [[e/_eject|eject]]; to [[d/_dismiss|dismiss]]; to [[c/_cease|cease]] to [[i/_include|include]], as [[i/_if|if]] on a [[l/_list|list]].**
 	- _Example: I've been dropped from the football team._
 - **To [[d/_drop|drop]] [[o/_out|out]] of the [[b/_betting|betting]].**
-- **(rugby [[f/_football|football]]) To score (a [[g/_goal|goal]]) by [[m/_means|means]] of a [[d/_drop|drop]] [[k/_kick|kick]].**
+- **([[r/_rugby|rugby]] [[f/_football|football]]) To [[s/_score|score]] (a [[g/_goal|goal]]) by [[m/_means|means]] of a [[d/_drop|drop]] [[k/_kick|kick]].**
 - **To [[i/_impart|impart]].**
 	- _Example: I drop knowledge wherever I go._
-- **To release to the public.**
+- **To [[r/_release|release]] to the [[p/_public|public]].**
 	- _Example: That hacker has been threatening to drop my docs [i.e. publish my personal information]._
 - **To [[p/_play|play]] a [[p/_portion|portion]] of [[m/_music|music]] in the [[m/_manner|manner]] of a [[d/_disc|disc]] [[j/_jockey|jockey]].**
 	- _Example: I love it when he drops his funky beats._
-- **To [[e/_enter|enter]] public [[d/_distribution|distribution]].**
+- **To [[e/_enter|enter]] [[p/_public|public]] [[d/_distribution|distribution]].**
 	- _Example: "Hip-Hop Xmas" dropped in time for the holidays._
 - **To tune (a [[g/_guitar|guitar]] string, [[e/_etc|etc]].) to a [[l/_lower|lower]] [[n/_note|note]].**
-- **To [[c/_cancel|cancel]] or [[e/_end|end]] a scheduled [[e/_event|event]], project or [[c/_course|course]].**
+- **To [[c/_cancel|cancel]] or [[e/_end|end]] a [[s/_scheduled|scheduled]] [[e/_event|event]], [[p/_project|project]] or [[c/_course|course]].**
 	- _Example: I had to drop calculus because it was taking up too much of my time and I couldn't go anymore._
 - **([[f/_fast|fast]] [[f/_food|food]]) To [[c/_cook|cook]], [[e/_especially|especially]] by [[d/_deep|deep]]-[[f/_frying|frying]] or [[g/_grilling|grilling]].**
 	- _Example: Drop a basket of fries._
-- **(of a voice) To [[l/_lower|lower]] in timbre, [[o/_often|often]] relating to puberty.**
+- **(of a voice) To [[l/_lower|lower]] in timbre, [[o/_often|often]] [[r/_relating|relating]] to [[p/_puberty|puberty]].**
 	- _Example: Billy's voice dropped suddenly when he turned 12._
-- **(of a sound or song) To [[l/_lower|lower]] in [[p/_pitch|pitch]], tempo, [[k/_key|key]], or [[o/_other|other]] quality.**
+- **(of a [[s/_sound|sound]] or [[s/_song|song]]) To [[l/_lower|lower]] in [[p/_pitch|pitch]], tempo, [[k/_key|key]], or [[o/_other|other]] [[q/_quality|quality]].**
 	- _Example: My synthesizer makes the notes sound funny when they drop below C2._
 - **(of [[p/_people|people]]) To visit [[i/_informally|informally]]; used with in or by.**
 	- _Example: Do drop by soon and I'll lend you that book._
 - **To [[g/_give|give]] [[b/_birth|birth]] to.**
 	- _Example: to drop a lamb_
 - **To [[c/_cover|cover]] with [[d/_drops|drops]]; to variegate; to [[b/_bedrop|bedrop]].**
-- **(of the testicles) To [[h/_hang|hang]] [[l/_lower|lower]] and [[b/_begin|begin]] producing sperm [[d/_due|due]] to puberty.**
+- **(of the testicles) To [[h/_hang|hang]] [[l/_lower|lower]] and [[b/_begin|begin]] [[p/_producing|producing]] sperm [[d/_due|due]] to [[p/_puberty|puberty]].**
 ---
 ### Synonyms
 - 
 #noun
-- **Something [[d/_dropped|dropped]].**
+- **[[s/_something|Something]] [[d/_dropped|dropped]].**
 - **(usually in the [[p/_plural|plural]]) A [[p/_piece|piece]] of [[a/_animal|animal]] [[e/_excrement|excrement]]; [[d/_dung|dung]].**
 	- _Example: a rabbit dropping_
-- **The [[a/_act|act]] of something that [[d/_drops|drops]] or [[f/_falls|falls]].**
+- **The [[a/_act|act]] of [[s/_something|something]] that [[d/_drops|drops]] or [[f/_falls|falls]].**
 ---
 ---

@@ -3,64 +3,64 @@
 #noun
 - **The [[a/_act|act]] of [[c/_cutting|cutting]].**
 	- _Example: He made a fine cut with his sword._
-- **The result of [[c/_cutting|cutting]].**
+- **The [[r/_result|result]] of [[c/_cutting|cutting]].**
 	- _Example: a smooth or clear cut_
-- **An [[o/_opening|opening]] resulting from [[c/_cutting|cutting]]; an [[i/_incision|incision]] or wound.**
+- **An [[o/_opening|opening]] [[r/_resulting|resulting]] from [[c/_cutting|cutting]]; an [[i/_incision|incision]] or wound.**
 	- _Example: Look at this cut on my finger!_
 - **A [[n/_notch|notch]], [[p/_passage|passage]], or [[c/_channel|channel]] [[m/_made|made]] by [[c/_cutting|cutting]] or [[d/_digging|digging]]; a [[f/_furrow|furrow]]; a [[g/_groove|groove]].**
 	- _Example: a cut for a railroad_
-- **A share or [[p/_portion|portion]].**
+- **A [[s/_share|share]] or [[p/_portion|portion]].**
 	- _Example: The lawyer took a cut of the profits._
-- **A [[b/_batsman|batsman]]'s shot [[p/_played|played]] with a swinging [[m/_motion|motion]] of the [[b/_bat|bat]], to [[h/_hit|hit]] the [[b/_ball|ball]] [[b/_backward|backward]] of [[p/_point|point]].**
-- **Sideways [[m/_movement|movement]] of the [[b/_ball|ball]] through the [[a/_air|air]] [[c/_caused|caused]] by a [[f/_fast|fast]] [[b/_bowler|bowler]] [[i/_imparting|imparting]] spin to the [[b/_ball|ball]].**
-- **In [[l/_lawn|lawn]] tennis, [[e/_etc|etc]]., a slanting stroke [[c/_causing|causing]] the [[b/_ball|ball]] to spin and [[b/_bound|bound]] [[i/_irregularly|irregularly]]; [[a/_also|also]], the spin thus [[g/_given|given]] to the [[b/_ball|ball]].**
-- **In a strokeplay [[c/_competition|competition]], the [[e/_early|early]] [[e/_elimination|elimination]] of those [[p/_players|players]] who [[h/_have|have]] not then [[a/_attained|attained]] a [[p/_preannounced|preannounced]] score, so that the rest of the [[c/_competition|competition]] is [[l/_less|less]] [[p/_pressed|pressed]] for time and [[m/_more|more]] [[e/_entertaining|entertaining]] for spectators.**
+- **A [[b/_batsman|batsman]]'[[s/_s|s]] [[s/_shot|shot]] [[p/_played|played]] with a swinging [[m/_motion|motion]] of the [[b/_bat|bat]], to [[h/_hit|hit]] the [[b/_ball|ball]] [[b/_backward|backward]] of [[p/_point|point]].**
+- **[[s/_sideways|Sideways]] [[m/_movement|movement]] of the [[b/_ball|ball]] through the [[a/_air|air]] [[c/_caused|caused]] by a [[f/_fast|fast]] [[b/_bowler|bowler]] [[i/_imparting|imparting]] spin to the [[b/_ball|ball]].**
+- **In [[l/_lawn|lawn]] tennis, [[e/_etc|etc]]., a [[s/_slanting|slanting]] stroke [[c/_causing|causing]] the [[b/_ball|ball]] to spin and [[b/_bound|bound]] [[i/_irregularly|irregularly]]; [[a/_also|also]], the spin thus [[g/_given|given]] to the [[b/_ball|ball]].**
+- **In a strokeplay [[c/_competition|competition]], the [[e/_early|early]] [[e/_elimination|elimination]] of those [[p/_players|players]] who [[h/_have|have]] not then [[a/_attained|attained]] a [[p/_preannounced|preannounced]] [[s/_score|score]], [[s/_so|so]] that the [[r/_rest|rest]] of the [[c/_competition|competition]] is [[l/_less|less]] [[p/_pressed|pressed]] for time and [[m/_more|more]] [[e/_entertaining|entertaining]] for spectators.**
 - **A [[p/_passage|passage]] [[o/_omitted|omitted]] or to be [[o/_omitted|omitted]] from a [[p/_play|play]].**
 	- _Example: The director asked the cast to note down the following cuts._
 - **A [[p/_particular|particular]] version or [[e/_edit|edit]] of a [[f/_film|film]].**
-- **The [[a/_act|act]] or right of [[d/_dividing|dividing]] a [[d/_deck|deck]] of [[p/_playing|playing]] [[c/_cards|cards]].**
+- **The [[a/_act|act]] or [[r/_right|right]] of [[d/_dividing|dividing]] a [[d/_deck|deck]] of [[p/_playing|playing]] [[c/_cards|cards]].**
 	- _Example: The player next to the dealer makes a cut by placing the bottom half on top._
 - **The [[c/_card|card]] [[o/_obtained|obtained]] by [[d/_dividing|dividing]] the [[p/_pack|pack]].**
 - **The [[m/_manner|manner]] or style a [[g/_garment|garment]] [[e/_etc|etc]]. is [[f/_fashioned|fashioned]] in.**
 	- _Example: I like the cut of that suit._
-- **A slab, [[e/_especially|especially]] of [[m/_meat|meat]].**
+- **A [[s/_slab|slab]], [[e/_especially|especially]] of [[m/_meat|meat]].**
 	- _Example: That’s our finest cut of meat._
 - **An [[a/_attack|attack]] [[m/_made|made]] with a [[c/_chopping|chopping]] [[m/_motion|motion]] of the [[b/_blade|blade]], [[l/_landing|landing]] with [[i/_its|its]] [[e/_edge|edge]] or [[p/_point|point]].**
-- **A [[d/_deliberate|deliberate]] snub, typically a refusal to return a [[b/_bow|bow]] or [[o/_other|other]] [[a/_acknowledgement|acknowledgement]] of [[a/_acquaintance|acquaintance]].**
+- **A [[d/_deliberate|deliberate]] [[s/_snub|snub]], typically a [[r/_refusal|refusal]] to [[r/_return|return]] a [[b/_bow|bow]] or [[o/_other|other]] [[a/_acknowledgement|acknowledgement]] of [[a/_acquaintance|acquaintance]].**
 - **An unkind [[a/_act|act]]; a [[c/_cruelty|cruelty]].**
-- **A [[d/_definable|definable]] [[p/_part|part]], such as an [[i/_individual|individual]] song, of a recording, [[p/_particularly|particularly]] of [[c/_commercial|commercial]] records, [[a/_audio|audio]] tapes, CDs, [[e/_etc|etc]].**
+- **A [[d/_definable|definable]] [[p/_part|part]], such as an [[i/_individual|individual]] [[s/_song|song]], of a [[r/_recording|recording]], [[p/_particularly|particularly]] of [[c/_commercial|commercial]] [[r/_records|records]], [[a/_audio|audio]] tapes, CDs, [[e/_etc|etc]].**
 	- _Example: The drummer on the last cut of their CD is not identified._
-- **A truncation, a [[c/_context|context]] that represents a [[m/_moment|moment]] in time when [[o/_other|other]] [[a/_archaeological|archaeological]] [[d/_deposits|deposits]] were removed for the [[c/_creation|creation]] of some [[f/_feature|feature]] such as a [[d/_ditch|ditch]] or [[p/_pit|pit]].**
+- **A truncation, a [[c/_context|context]] that [[r/_represents|represents]] a [[m/_moment|moment]] in time when [[o/_other|other]] [[a/_archaeological|archaeological]] [[d/_deposits|deposits]] were [[r/_removed|removed]] for the [[c/_creation|creation]] of [[s/_some|some]] [[f/_feature|feature]] such as a [[d/_ditch|ditch]] or [[p/_pit|pit]].**
 - **A [[h/_haircut|haircut]].**
-- **The [[p/_partition|partition]] of a [[g/_graph|graph]]’s vertices [[i/_into|into]] two subgroups.**
-- **A string of railway [[c/_cars|cars]] [[c/_coupled|coupled]] together.**
+- **The [[p/_partition|partition]] of a [[g/_graph|graph]]’[[s/_s|s]] vertices [[i/_into|into]] two subgroups.**
+- **A string of [[r/_railway|railway]] [[c/_cars|cars]] [[c/_coupled|coupled]] together.**
 - **An [[e/_engraved|engraved]] [[b/_block|block]] or [[p/_plate|plate]]; the [[i/_impression|impression]] from such an [[e/_engraving|engraving]].**
 	- _Example: a book illustrated with fine cuts_
 - **A [[c/_common|common]] workhorse; a [[g/_gelding|gelding]].**
 - **The [[f/_failure|failure]] of a [[c/_college|college]] [[o/_officer|officer]] or student to be [[p/_present|present]] at [[a/_any|any]] [[a/_appointed|appointed]] [[e/_exercise|exercise]].**
-- **A skein of [[y/_yarn|yarn]].**
-- **That which is used to [[d/_dilute|dilute]] or [[a/_adulterate|adulterate]] a recreational [[d/_drug|drug]].**
+- **A [[s/_skein|skein]] of [[y/_yarn|yarn]].**
+- **That which is used to [[d/_dilute|dilute]] or [[a/_adulterate|adulterate]] a [[r/_recreational|recreational]] [[d/_drug|drug]].**
 	- _Example: Don't buy his coke: it's full of cut._
-- **A [[n/_notch|notch]] shaved [[i/_into|into]] an [[e/_eyebrow|eyebrow]].**
-- **A time [[p/_period|period]] when [[o/_one|one]] tries to [[l/_lose|lose]] [[f/_fat|fat]] while retaining [[m/_muscle|muscle]] [[m/_mass|mass]].**
-- **A [[h/_hidden|hidden]] or secure [[p/_place|place]].**
+- **A [[n/_notch|notch]] [[s/_shaved|shaved]] [[i/_into|into]] an [[e/_eyebrow|eyebrow]].**
+- **A time [[p/_period|period]] when [[o/_one|one]] tries to [[l/_lose|lose]] [[f/_fat|fat]] while [[r/_retaining|retaining]] [[m/_muscle|muscle]] [[m/_mass|mass]].**
+- **A [[h/_hidden|hidden]] or [[s/_secure|secure]] [[p/_place|place]].**
 ---
 #verb
-- **([[h/_heading|heading]]) To [[i/_incise|incise]], to [[c/_cut|cut]] [[i/_into|into]] the surface of something.**
-- **To [[a/_admit|admit]] of [[i/_incision|incision]] or severance; to [[y/_yield|yield]] to a [[c/_cutting|cutting]] [[i/_instrument|instrument]].**
-- **([[h/_heading|heading]], social) To separate, remove, reject or reduce.**
-- **([[a/_audio|audio]], usually as [[i/_imperative|imperative]]) To [[c/_cease|cease]] recording [[a/_activities|activities]].**
+- **([[h/_heading|heading]]) To [[i/_incise|incise]], to [[c/_cut|cut]] [[i/_into|into]] the surface of [[s/_something|something]].**
+- **To [[a/_admit|admit]] of [[i/_incision|incision]] or [[s/_severance|severance]]; to [[y/_yield|yield]] to a [[c/_cutting|cutting]] [[i/_instrument|instrument]].**
+- **([[h/_heading|heading]], [[s/_social|social]]) To [[s/_separate|separate]], [[r/_remove|remove]], [[r/_reject|reject]] or [[r/_reduce|reduce]].**
+- **([[a/_audio|audio]], usually as [[i/_imperative|imperative]]) To [[c/_cease|cease]] [[r/_recording|recording]] [[a/_activities|activities]].**
 	- _Example: After the actors read their lines, the director yelled, "Cut!"_
-- **To [[m/_make|make]] an [[a/_abrupt|abrupt]] transition from [[o/_one|one]] scene or [[i/_image|image]] to [[a/_another|another]].**
+- **To [[m/_make|make]] an [[a/_abrupt|abrupt]] transition from [[o/_one|one]] [[s/_scene|scene]] or [[i/_image|image]] to [[a/_another|another]].**
 	- _Example: The camera then cut to the woman on the front row who was clearly overcome and crying tears of joy._
-- **To [[e/_edit|edit]] a [[f/_film|film]] by selecting takes from [[o/_original|original]] [[f/_footage|footage]].**
-- **To remove and [[p/_place|place]] in [[m/_memory|memory]] for [[l/_later|later]] use.**
+- **To [[e/_edit|edit]] a [[f/_film|film]] by [[s/_selecting|selecting]] takes from [[o/_original|original]] [[f/_footage|footage]].**
+- **To [[r/_remove|remove]] and [[p/_place|place]] in [[m/_memory|memory]] for [[l/_later|later]] use.**
 	- _Example: Select the text, cut it, and then paste it in the other application._
-- **To [[e/_enter|enter]] a queue in the wrong [[p/_place|place]].**
+- **To [[e/_enter|enter]] a [[q/_queue|queue]] in the wrong [[p/_place|place]].**
 	- _Example: One student kept trying to cut in front of the line._
-- **To [[i/_intersect|intersect]] or [[c/_cross|cross]] in such a way as to [[d/_divide|divide]] in [[h/_half|half]] or [[n/_nearly|nearly]] so.**
+- **To [[i/_intersect|intersect]] or [[c/_cross|cross]] in such a way as to [[d/_divide|divide]] in [[h/_half|half]] or [[n/_nearly|nearly]] [[s/_so|so]].**
 	- _Example: This road cuts right through downtown._
-- **To [[m/_make|make]] the [[b/_ball|ball]] spin sideways by running [[o/_one|one]]'s [[f/_fingers|fingers]] [[d/_down|down]] the side of the [[b/_ball|ball]] while [[b/_bowling|bowling]] it.**
+- **To [[m/_make|make]] the [[b/_ball|ball]] spin [[s/_sideways|sideways]] by [[r/_running|running]] [[o/_one|one]]'[[s/_s|s]] [[f/_fingers|fingers]] [[d/_down|down]] the [[s/_side|side]] of the [[b/_ball|ball]] while [[b/_bowling|bowling]] it.**
 - **To [[d/_deflect|deflect]] (a [[b/_bowled|bowled]] [[b/_ball|ball]]) to the [[o/_off|off]], with a [[c/_chopping|chopping]] [[m/_movement|movement]] of the [[b/_bat|bat]].**
 - **To [[c/_change|change]] [[d/_direction|direction]] suddenly.**
 	- _Example: The football player cut to his left to evade a tackle._
@@ -68,28 +68,28 @@
 	- _Example: If you cut then I'll deal._
 - **To write.**
 	- _Example: cut orders;  cut a check_
-- **To [[d/_dilute|dilute]] or [[a/_adulterate|adulterate]] something, [[e/_especially|especially]] a recreational [[d/_drug|drug]].**
+- **To [[d/_dilute|dilute]] or [[a/_adulterate|adulterate]] [[s/_something|something]], [[e/_especially|especially]] a [[r/_recreational|recreational]] [[d/_drug|drug]].**
 	- _Example: Drug dealers sometimes cut cocaine with lidocaine._
-- **To [[e/_exhibit|exhibit]] (a quality).**
+- **To [[e/_exhibit|exhibit]] (a [[q/_quality|quality]]).**
 - **To stop or [[d/_disengage|disengage]].**
 	- _Example: Cut the engines when the plane comes to a halt!_
-- **To [[d/_drive|drive]] (a [[b/_ball|ball]]) to [[o/_one|one]] side, as by (in [[b/_billiards|billiards]] or [[c/_croquet|croquet]]) [[h/_hitting|hitting]] it [[f/_fine|fine]] with [[a/_another|another]] [[b/_ball|ball]], or (in tennis) striking it with the racket [[i/_inclined|inclined]].**
+- **To [[d/_drive|drive]] (a [[b/_ball|ball]]) to [[o/_one|one]] [[s/_side|side]], as by (in [[b/_billiards|billiards]] or [[c/_croquet|croquet]]) [[h/_hitting|hitting]] it [[f/_fine|fine]] with [[a/_another|another]] [[b/_ball|ball]], or (in tennis) striking it with the [[r/_racket|racket]] [[i/_inclined|inclined]].**
 - **To [[l/_lose|lose]] [[b/_body|body]] [[m/_mass|mass]] [[a/_after|after]] [[b/_bulking|bulking]], [[a/_aiming|aiming]] to [[k/_keep|keep]] the [[a/_additional|additional]] [[m/_muscle|muscle]] but [[l/_lose|lose]] the [[f/_fat|fat]].**
 - **To [[p/_perform|perform]] (a [[d/_dancing|dancing]] [[m/_movement|movement]] [[e/_etc|etc]].).**
 ---
 #adjective
 - **([[p/_participial|participial]] [[a/_adjective|adjective]]) [[h/_having|Having]] [[b/_been|been]] [[c/_cut|cut]].**
-- **Reduced.**
+- **[[r/_reduced|Reduced]].**
 	- _Example: Cut brandy is a liquor made of brandy and hard grain liquor._
 - **[[o/_omitted|Omitted]] from a [[l/_literary|literary]], [[m/_musical|musical]] or [[o/_other|other]] work.**
 	- _Example: My favourite song had been cut from the show._
-- **(of a [[g/_gem|gem]]) [[c/_carved|Carved]] [[i/_into|into]] a shape; not raw.**
-- **(of a shot) [[p/_played|Played]] with a [[h/_horizontal|horizontal]] [[b/_bat|bat]] to [[h/_hit|hit]] the [[b/_ball|ball]] [[b/_backward|backward]] of [[p/_point|point]].**
+- **(of a [[g/_gem|gem]]) [[c/_carved|Carved]] [[i/_into|into]] a [[s/_shape|shape]]; not [[r/_raw|raw]].**
+- **(of a [[s/_shot|shot]]) [[p/_played|Played]] with a [[h/_horizontal|horizontal]] [[b/_bat|bat]] to [[h/_hit|hit]] the [[b/_ball|ball]] [[b/_backward|backward]] of [[p/_point|point]].**
 - **[[h/_having|Having]] [[m/_muscular|muscular]] [[d/_definition|definition]] in which [[i/_individual|individual]] [[g/_groups|groups]] of [[m/_muscle|muscle]] [[f/_fibers|fibers]] stand [[o/_out|out]] [[a/_among|among]] [[l/_larger|larger]] [[m/_muscles|muscles]].**
 - **[[c/_circumcised|Circumcised]] or [[h/_having|having]] [[b/_been|been]] the subject of [[f/_female|female]] [[g/_genital|genital]] [[m/_mutilation|mutilation]]**
 - **[[e/_emotionally|Emotionally]] [[h/_hurt|hurt]].**
-- **[[e/_eliminated|Eliminated]] from [[c/_consideration|consideration]] [[d/_during|during]] a recruitment [[d/_drive|drive]].**
-- **Removed from a team roster.**
-- **[[i/_intoxicated|Intoxicated]] as a result of [[d/_drugs|drugs]] or [[a/_alcohol|alcohol]].**
+- **[[e/_eliminated|Eliminated]] from [[c/_consideration|consideration]] [[d/_during|during]] a [[r/_recruitment|recruitment]] [[d/_drive|drive]].**
+- **[[r/_removed|Removed]] from a team [[r/_roster|roster]].**
+- **[[i/_intoxicated|Intoxicated]] as a [[r/_result|result]] of [[d/_drugs|drugs]] or [[a/_alcohol|alcohol]].**
 ---
 ---

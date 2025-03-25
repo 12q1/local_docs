@@ -7,6 +7,6 @@
 ### Synonyms
 - [[s/_she|she]]
 #pronoun
-- **That which [[b/_belongs|belongs]] to [[h/_her|her]]; the [[p/_possessive|possessive]] [[c/_case|case]] of she, used without a [[f/_following|following]] [[n/_noun|noun]].**
+- **That which [[b/_belongs|belongs]] to [[h/_her|her]]; the [[p/_possessive|possessive]] [[c/_case|case]] of [[s/_she|she]], used without a [[f/_following|following]] [[n/_noun|noun]].**
 ---
 ---

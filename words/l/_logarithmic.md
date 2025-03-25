@@ -1,6 +1,6 @@
 # Logarithmic
 ---
 #adjective
-- **Of, or relating to [[l/_logarithms|logarithms]].**
+- **Of, or [[r/_relating|relating]] to [[l/_logarithms|logarithms]].**
 ---
 ---

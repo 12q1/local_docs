@@ -1,6 +1,6 @@
 # Discharger
 ---
 #noun
-- **Someone or something that [[d/_discharges|discharges]] something, such as [[p/_pollution|pollution]] or a [[f/_firearm|firearm]]**
+- **[[s/_someone|Someone]] or [[s/_something|something]] that [[d/_discharges|discharges]] [[s/_something|something]], such as [[p/_pollution|pollution]] or a [[f/_firearm|firearm]]**
 ---
 ---

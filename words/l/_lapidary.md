@@ -7,6 +7,6 @@
 ---
 #adjective
 - **[[p/_pertaining|Pertaining]] to [[g/_gems|gems]] and [[p/_precious|precious]] stones, or the [[a/_art|art]] of working them.**
-- **Suitable for [[i/_inscriptions|inscriptions]]; [[e/_efficient|efficient]], stately, [[c/_concise|concise]]; [[e/_embodying|embodying]] the refinement and [[p/_precision|precision]] [[c/_characteristic|characteristic]] of stone-[[c/_cutting|cutting]].**
+- **Suitable for [[i/_inscriptions|inscriptions]]; [[e/_efficient|efficient]], stately, [[c/_concise|concise]]; [[e/_embodying|embodying]] the [[r/_refinement|refinement]] and [[p/_precision|precision]] [[c/_characteristic|characteristic]] of stone-[[c/_cutting|cutting]].**
 ---
 ---

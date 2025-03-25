@@ -1,7 +1,7 @@
 # Impassive
 ---
 #adjective
-- **[[h/_having|Having]], or revealing, [[n/_no|no]] [[e/_emotion|emotion]].**
+- **[[h/_having|Having]], or [[r/_revealing|revealing]], [[n/_no|no]] [[e/_emotion|emotion]].**
 - **Still or [[m/_motionless|motionless]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Clockwise
 ---
 #adjective
-- **[[m/_moving|Moving]] [[c/_clockwise|clockwise]]; [[h/_having|having]] rotary [[m/_motion|motion]] in the [[m/_manner|manner]] of a [[c/_clock|clock]].**
+- **[[m/_moving|Moving]] [[c/_clockwise|clockwise]]; [[h/_having|having]] [[r/_rotary|rotary]] [[m/_motion|motion]] in the [[m/_manner|manner]] of a [[c/_clock|clock]].**
 	- _Example: In the southern hemisphere the flow of air around a low-pressure system is clockwise._
 ---
 #adverb

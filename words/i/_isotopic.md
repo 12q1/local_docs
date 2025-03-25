@@ -1,6 +1,6 @@
 # Isotopic
 ---
 #adjective
-- **Of, or relating to [[i/_isotopes|isotopes]]**
+- **Of, or [[r/_relating|relating]] to [[i/_isotopes|isotopes]]**
 ---
 ---

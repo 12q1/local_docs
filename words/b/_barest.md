@@ -9,12 +9,12 @@
 	- _Example: The cupboard was bare._
 - **[[h/_having|Having]] [[n/_no|no]] [[d/_decoration|decoration]].**
 	- _Example: The walls of this room are bare — why not hang some paintings on them?_
-- **[[h/_having|Having]] [[h/_had|had]] what usually [[c/_covers|covers]] (something) removed.**
+- **[[h/_having|Having]] [[h/_had|had]] what usually [[c/_covers|covers]] ([[s/_something|something]]) [[r/_removed|removed]].**
 	- _Example: The trees were left bare after the swarm of locusts devoured all the leaves._
 - **(Toronto) A [[l/_lot|lot]] or [[l/_lots|lots]] of.**
 	- _Example: It's bare money to get in the club each time, man._
 - **With [[h/_head|head]] uncovered; [[b/_bareheaded|bareheaded]].**
-- **Without [[a/_anything|anything]] to [[c/_cover|cover]] up or [[c/_conceal|conceal]] [[o/_one|one]]'s thoughts or [[a/_actions|actions]]; [[o/_open|open]] to view; [[e/_exposed|exposed]].**
+- **Without [[a/_anything|anything]] to [[c/_cover|cover]] up or [[c/_conceal|conceal]] [[o/_one|one]]'[[s/_s|s]] thoughts or [[a/_actions|actions]]; [[o/_open|open]] to view; [[e/_exposed|exposed]].**
 - **[[m/_mere|Mere]]; without [[e/_embellishment|embellishment]].**
 - **Threadbare, very worn.**
 - **Not [[i/_insured|insured]].**
@@ -24,7 +24,7 @@
 ### Antonyms
 - [[c/_covered|covered]], [[a/_adorn|adorn]], [[d/_decorated|decorated]], [[o/_ornate|ornate]], [[f/_full|full]], [[f/_furnished|furnished]], [[s/_stocked|stocked]], [[s/_supplied|supplied]], [[w/_well-stocked|well-stocked]], [[a/_ample|ample]], [[p/_plentiful|plentiful]], [[s/_sufficient|sufficient]], [[c/_covered|covered]], [[d/_dressed|dressed]], [[u/_unexposed|unexposed]]
 #verb
-- **To uncover; to reveal.**
+- **To uncover; to [[r/_reveal|reveal]].**
 	- _Example: She bared her teeth at him._
 ---
 ### Synonyms
@@ -32,7 +32,7 @@
 ### Antonyms
 - [[c/_cover|cover]], [[h/_hide|hide]]
 #verb
-- **To [[e/_endeavour|endeavour]] to [[d/_depress|depress]] the price of, or prices in.**
+- **To [[e/_endeavour|endeavour]] to [[d/_depress|depress]] the [[p/_price|price]] of, or [[p/_prices|prices]] in.**
 	- _Example: to bear a railroad stock_
 ---
 #verb
@@ -41,8 +41,8 @@
 - **To support, sustain, or [[e/_endure|endure]].**
 - **To support, [[k/_keep|keep]] up, or [[m/_maintain|maintain]].**
 - **To [[p/_press|press]] or [[i/_impinge|impinge]] upon.**
-- **To produce, [[y/_yield|yield]], [[g/_give|give]] [[b/_birth|birth]] to.**
-- **([[o/_originally|originally]] [[n/_nautical|nautical]]) To be, or [[h/_head|head]], in a specific [[d/_direction|direction]] or [[a/_azimuth|azimuth]] (from somewhere).**
+- **To [[p/_produce|produce]], [[y/_yield|yield]], [[g/_give|give]] [[b/_birth|birth]] to.**
+- **([[o/_originally|originally]] [[n/_nautical|nautical]]) To be, or [[h/_head|head]], in a specific [[d/_direction|direction]] or [[a/_azimuth|azimuth]] (from [[s/_somewhere|somewhere]]).**
 	- _Example: By my readings, we're bearing due south, so we should turn about ten degrees east._
 - **To [[g/_gain|gain]] or win.**
 ---

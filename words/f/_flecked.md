@@ -1,6 +1,6 @@
 # Flecked
 ---
 #verb
-- **To [[m/_mark|mark]] with small spots**
+- **To [[m/_mark|mark]] with [[s/_small|small]] spots**
 ---
 ---

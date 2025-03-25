@@ -1,6 +1,6 @@
 # Forrader
 ---
 #adverb
-- **Pronunciation spelling of [[f/_forwarder|forwarder]].**
+- **[[p/_pronunciation|Pronunciation]] spelling of [[f/_forwarder|forwarder]].**
 ---
 ---

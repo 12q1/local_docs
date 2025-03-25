@@ -1,7 +1,7 @@
 # Loused
 ---
 #verb
-- **To remove [[l/_lice|lice]] from.**
+- **To [[r/_remove|remove]] [[l/_lice|lice]] from.**
 ---
 ### Synonyms
 - [[d/_delouse|delouse]]

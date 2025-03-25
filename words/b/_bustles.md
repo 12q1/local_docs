@@ -2,8 +2,8 @@
 ---
 #noun
 - **An [[e/_excited|excited]] [[a/_activity|activity]]; a stir.**
-- **A [[c/_cover|cover]] to protect and [[h/_hide|hide]] the [[b/_back|back]] [[p/_panel|panel]] of a [[c/_computer|computer]] or [[o/_other|other]] [[o/_office|office]] [[m/_machine|machine]].**
-- **A [[f/_frame|frame]] worn underneath a woman's skirt, typically [[o/_only|only]] protruding from the rear as [[o/_opposed|opposed]] to the [[e/_earlier|earlier]] [[m/_more|more]] [[c/_circular|circular]] [[h/_hoops|hoops]].**
+- **A [[c/_cover|cover]] to [[p/_protect|protect]] and [[h/_hide|hide]] the [[b/_back|back]] [[p/_panel|panel]] of a [[c/_computer|computer]] or [[o/_other|other]] [[o/_office|office]] [[m/_machine|machine]].**
+- **A [[f/_frame|frame]] worn underneath a woman'[[s/_s|s]] [[s/_skirt|skirt]], typically [[o/_only|only]] [[p/_protruding|protruding]] from the [[r/_rear|rear]] as [[o/_opposed|opposed]] to the [[e/_earlier|earlier]] [[m/_more|more]] [[c/_circular|circular]] [[h/_hoops|hoops]].**
 ---
 #verb
 - **To [[m/_move|move]] [[b/_busily|busily]] and [[e/_energetically|energetically]] with [[f/_fussiness|fussiness]] ([[o/_often|often]] [[f/_followed|followed]] by [[a/_about|about]]).**

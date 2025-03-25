@@ -1,18 +1,18 @@
 # Beauties
 ---
 #noun
-- **The quality of [[b/_being|being]] ([[e/_especially|especially]] visually) [[a/_attractive|attractive]], [[p/_pleasing|pleasing]], [[f/_fine|fine]] or [[g/_good|good]]-[[l/_looking|looking]]; [[c/_comeliness|comeliness]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] ([[e/_especially|especially]] visually) [[a/_attractive|attractive]], [[p/_pleasing|pleasing]], [[f/_fine|fine]] or [[g/_good|good]]-[[l/_looking|looking]]; [[c/_comeliness|comeliness]].**
 	- _Example: 1988, "… beauty and recollection, like danger, glamour, greed, hunger- everything but disappointment and desire- were concepts belonging to other people.” -Second Son, Robert Ferro_
-- **Someone who is [[b/_beautiful|beautiful]].**
+- **[[s/_someone|Someone]] who is [[b/_beautiful|beautiful]].**
 	- _Example: Brigitte Bardot was a renowned beauty._
-- **Something that is [[p/_particularly|particularly]] [[g/_good|good]] or [[p/_pleasing|pleasing]].**
+- **[[s/_something|Something]] that is [[p/_particularly|particularly]] [[g/_good|good]] or [[p/_pleasing|pleasing]].**
 	- _Example: What a goal! That was a real beauty!_
-- **An [[e/_excellent|excellent]] or [[e/_egregious|egregious]] [[e/_example|example]] of something.**
-- **(with the [[d/_definite|definite]] [[a/_article|article]]) The [[e/_excellence|excellence]] or [[g/_genius|genius]] of a scheme or [[d/_decision|decision]].**
+- **An [[e/_excellent|excellent]] or [[e/_egregious|egregious]] [[e/_example|example]] of [[s/_something|something]].**
+- **(with the [[d/_definite|definite]] [[a/_article|article]]) The [[e/_excellence|excellence]] or [[g/_genius|genius]] of a [[s/_scheme|scheme]] or [[d/_decision|decision]].**
 	- _Example: The beauty of the deal is it costs nothing!_
-- **A [[b/_beauty|beauty]] quark ([[n/_now|now]] [[c/_called|called]] [[b/_bottom|bottom]] quark).**
+- **A [[b/_beauty|beauty]] [[q/_quark|quark]] ([[n/_now|now]] [[c/_called|called]] [[b/_bottom|bottom]] [[q/_quark|quark]]).**
 - **[[b/_beauty|Beauty]] treatment; [[c/_cosmetology|cosmetology]].**
-- **Prevailing style or taste; rage; [[f/_fashion|fashion]].**
+- **[[p/_prevailing|Prevailing]] style or taste; [[r/_rage|rage]]; [[f/_fashion|fashion]].**
 - **(in the [[p/_plural|plural]]) [[b/_beautiful|Beautiful]] [[p/_passages|passages]] or [[e/_extracts|extracts]] of [[p/_poetry|poetry]].**
 ---
 ### Synonyms

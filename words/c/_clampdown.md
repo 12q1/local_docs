@@ -1,6 +1,6 @@
 # Clampdown
 ---
 #noun
-- **A sudden repressive or punitive restriction or [[c/_control|control]]**
+- **A sudden [[r/_repressive|repressive]] or [[p/_punitive|punitive]] [[r/_restriction|restriction]] or [[c/_control|control]]**
 ---
 ---

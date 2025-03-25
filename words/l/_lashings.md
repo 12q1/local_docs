@@ -1,7 +1,7 @@
 # Lashings
 ---
 #noun
-- **Something used to tie something or [[l/_lash|lash]] it to something.**
+- **[[s/_something|Something]] used to tie [[s/_something|something]] or [[l/_lash|lash]] it to [[s/_something|something]].**
 	- _Example: The lashings, which had been holding the chest to the deck of the storm-tossed ship, broke, and it went overboard._
 - **(in the [[f/_form|form]] "[[l/_lashings|lashings]] of"): [[p/_plenty|plenty]] of**
 	- _Example: Lashings of ginger beer_

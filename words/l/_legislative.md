@@ -1,7 +1,7 @@
 # Legislative
 ---
 #noun
-- **That [[b/_branch|branch]] of [[g/_government|government]] which is responsible for [[m/_making|making]], or [[h/_having|having]] the [[p/_power|power]] to [[m/_make|make]], a [[l/_law|law]] or [[l/_laws|laws]].**
+- **That [[b/_branch|branch]] of [[g/_government|government]] which is [[r/_responsible|responsible]] for [[m/_making|making]], or [[h/_having|having]] the [[p/_power|power]] to [[m/_make|make]], a [[l/_law|law]] or [[l/_laws|laws]].**
 ---
 ### Synonyms
 - [[l/_legislature|legislature]]

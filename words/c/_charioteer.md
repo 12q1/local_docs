@@ -5,6 +5,6 @@
 ---
 #verb
 - **To [[d/_drive|drive]] a [[c/_chariot|chariot]].**
-- **To [[d/_drive|drive]] someone in a [[c/_chariot|chariot]].**
+- **To [[d/_drive|drive]] [[s/_someone|someone]] in a [[c/_chariot|chariot]].**
 ---
 ---

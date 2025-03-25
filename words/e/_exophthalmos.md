@@ -1,6 +1,6 @@
 # Exophthalmos
 ---
 #noun
-- **An [[a/_abnormal|abnormal]] protrusion of the [[e/_eyeball|eyeball]] from [[i/_its|its]] socket.**
+- **An [[a/_abnormal|abnormal]] [[p/_protrusion|protrusion]] of the [[e/_eyeball|eyeball]] from [[i/_its|its]] [[s/_socket|socket]].**
 ---
 ---

@@ -11,13 +11,13 @@
 	- _Example: 'I wear loose clothes when it is hot._
 - **Not [[c/_compact|compact]].**
 	- _Example: 'It is difficult walking on loose gravel._
-- **Relaxed.**
+- **[[r/_relaxed|Relaxed]].**
 	- _Example: She danced with a loose flowing movement._
 - **Not [[p/_precise|precise]] or [[e/_exact|exact]]; vague; [[i/_indeterminate|indeterminate]].**
 	- _Example: a loose way of reasoning_
 - **[[i/_indiscreet|Indiscreet]].**
 	- _Example: Loose talk costs lives._
-- **(somewhat [[d/_dated|dated]]) [[f/_free|Free]] from [[m/_moral|moral]] restraint; [[i/_immoral|immoral]], unchaste.**
+- **([[s/_somewhat|somewhat]] [[d/_dated|dated]]) [[f/_free|Free]] from [[m/_moral|moral]] [[r/_restraint|restraint]]; [[i/_immoral|immoral]], unchaste.**
 - **Not [[b/_being|being]] in the [[p/_possession|possession]] of [[a/_any|any]] [[c/_competing|competing]] team [[d/_during|during]] a [[g/_game|game]].**
 	- _Example: He caught an elbow going after a loose ball._
 - **Not [[c/_costive|costive]]; [[h/_having|having]] [[l/_lax|lax]] [[b/_bowels|bowels]].**

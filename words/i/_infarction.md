@@ -1,7 +1,7 @@
 # Infarction
 ---
 #noun
-- **The process which [[c/_causes|causes]] an [[i/_infarct|infarct]].**
+- **The [[p/_process|process]] which [[c/_causes|causes]] an [[i/_infarct|infarct]].**
 - **An [[i/_infarct|infarct]].**
 ---
 ---

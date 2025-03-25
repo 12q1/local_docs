@@ -1,9 +1,9 @@
 # Deveined
 ---
 #verb
-- **To remove the vein-[[l/_like|like]] [[c/_colon|colon]] from (shrimp).**
+- **To [[r/_remove|remove]] the vein-[[l/_like|like]] [[c/_colon|colon]] from ([[s/_shrimp|shrimp]]).**
 ---
 #adjective
-- **[[h/_having|Having]] [[h/_had|had]] the veins removed.**
+- **[[h/_having|Having]] [[h/_had|had]] the veins [[r/_removed|removed]].**
 ---
 ---

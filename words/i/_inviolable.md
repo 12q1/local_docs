@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Not violable; not to be [[i/_infringed|infringed]].**
-- **Not susceptible to violence, or of [[b/_being|being]] profaned, [[c/_corrupted|corrupted]], or [[d/_dishonoured|dishonoured]].**
+- **Not susceptible to violence, or of [[b/_being|being]] [[p/_profaned|profaned]], [[c/_corrupted|corrupted]], or [[d/_dishonoured|dishonoured]].**
 - **[[i/_incapable|Incapable]] of [[b/_being|being]] [[i/_injured|injured]] or [[i/_invaded|invaded]]; [[i/_indestructible|indestructible]].**
 ---
 ### Synonyms

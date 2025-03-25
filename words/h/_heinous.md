@@ -1,7 +1,7 @@
 # Heinous
 ---
 #adjective
-- **Totally reprehensible.**
+- **Totally [[r/_reprehensible|reprehensible]].**
 	- _Example: I hope they catch the person responsible for that heinous crime._
 ---
 ### Synonyms

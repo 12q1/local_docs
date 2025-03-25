@@ -2,16 +2,16 @@
 ---
 #noun
 - **A [[l/_light|light]] of [[d/_dazzling|dazzling]] [[b/_brilliancy|brilliancy]].**
-- **Showy [[b/_brilliance|brilliance]] that [[m/_may|may]] stop a [[p/_person|person]] from thinking [[c/_clearly|clearly]].**
+- **[[s/_showy|Showy]] [[b/_brilliance|brilliance]] that [[m/_may|may]] stop a [[p/_person|person]] from thinking [[c/_clearly|clearly]].**
 - **A [[h/_herd|herd]] of zebra.**
 - **[[d/_dazzle|Dazzle]] [[c/_camouflage|camouflage]].**
 ---
 ### Synonyms
 - [[h/_herd|herd]], [[z/_zeal|zeal]]
 #verb
-- **To [[c/_confuse|confuse]] the sight of by [[m/_means|means]] of [[e/_excessive|excessive]] [[b/_brightness|brightness]].**
+- **To [[c/_confuse|confuse]] the [[s/_sight|sight]] of by [[m/_means|means]] of [[e/_excessive|excessive]] [[b/_brightness|brightness]].**
 	- _Example: Dazzled by the headlights of the lorry, the deer stopped in the middle of the street._
-- **To render [[i/_incapable|incapable]] of thinking [[c/_clearly|clearly]]; to [[o/_overwhelm|overwhelm]] with showiness or [[b/_brilliance|brilliance]].**
+- **To [[r/_render|render]] [[i/_incapable|incapable]] of thinking [[c/_clearly|clearly]]; to [[o/_overwhelm|overwhelm]] with [[s/_showiness|showiness]] or [[b/_brilliance|brilliance]].**
 	- _Example: The delegates were dazzled by the originality of his arguments._
 - **To be [[o/_overpowered|overpowered]] by [[l/_light|light]]; to be [[c/_confused|confused]] by [[e/_excess|excess]] of [[b/_brightness|brightness]].**
 ---

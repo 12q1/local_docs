@@ -1,7 +1,7 @@
 # Autographed
 ---
 #verb
-- **To sign, or write [[o/_one|one]]’s [[n/_name|name]] or signature on a [[b/_book|book]] [[e/_etc|etc]]**
-- **To write something in [[o/_one|one]]'s [[o/_own|own]] [[h/_handwriting|handwriting]]**
+- **To [[s/_sign|sign]], or write [[o/_one|one]]’[[s/_s|s]] [[n/_name|name]] or [[s/_signature|signature]] on a [[b/_book|book]] [[e/_etc|etc]]**
+- **To write [[s/_something|something]] in [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[h/_handwriting|handwriting]]**
 ---
 ---

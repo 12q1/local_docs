@@ -1,7 +1,7 @@
 # Docile
 ---
 #adjective
-- **Ready to [[a/_accept|accept]] [[i/_instruction|instruction]] or [[d/_direction|direction]]; [[o/_obedient|obedient]]; subservient.**
+- **[[r/_ready|Ready]] to [[a/_accept|accept]] [[i/_instruction|instruction]] or [[d/_direction|direction]]; [[o/_obedient|obedient]]; subservient.**
 - **[[y/_yielding|Yielding]] to [[c/_control|control]] or supervision, [[d/_direction|direction]], or [[m/_management|management]].**
 ---
 ### Synonyms

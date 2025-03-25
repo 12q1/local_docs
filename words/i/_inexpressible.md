@@ -1,7 +1,7 @@
 # Inexpressible
 ---
 #adjective
-- **Unable to be [[e/_expressed|expressed]]; not [[a/_able|able]] to be put [[i/_into|into]] words.**
+- **Unable to be [[e/_expressed|expressed]]; not [[a/_able|able]] to be [[p/_put|put]] [[i/_into|into]] words.**
 	- _Example: She felt inexpressible contempt for her attackers._
 ---
 ### Synonyms

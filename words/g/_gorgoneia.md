@@ -1,6 +1,6 @@
 # Gorgoneia
 ---
 #noun
-- **A representation of a [[g/_gorgon|gorgon]]'s [[h/_head|head]].**
+- **A [[r/_representation|representation]] of a [[g/_gorgon|gorgon]]'[[s/_s|s]] [[h/_head|head]].**
 ---
 ---

@@ -5,12 +5,12 @@
 ---
 #verb
 - **To [[k/_know|know]], [[p/_perceive|perceive]] or understand.**
-- **To [[d/_discover|discover]] by sight; to [[c/_catch|catch]] sight of; to [[d/_descry|descry]].**
+- **To [[d/_discover|discover]] by [[s/_sight|sight]]; to [[c/_catch|catch]] [[s/_sight|sight]] of; to [[d/_descry|descry]].**
 ---
 #noun
 - **(thieves' [[c/_cant|cant]]) A [[h/_house|house]], [[e/_especially|especially]] a [[d/_den|den]] of thieves.**
 ---
 #noun
-- **A [[j/_japanese|Japanese]] unit of [[l/_length|length]] [[e/_equal|equal]] to six shakus**
+- **A [[j/_japanese|Japanese]] unit of [[l/_length|length]] [[e/_equal|equal]] to [[s/_six|six]] shakus**
 ---
 ---

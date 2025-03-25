@@ -8,7 +8,7 @@
 	- _Example: a hearty man_
 - **[[e/_exhibiting|Exhibiting]] strength; [[f/_firm|firm]]**
 	- _Example: a hearty handshake;  a hearty timber_
-- **Promoting strength; [[n/_nourishing|nourishing]].**
+- **[[p/_promoting|Promoting]] strength; [[n/_nourishing|nourishing]].**
 	- _Example: hearty food_
 ---
 ### Synonyms

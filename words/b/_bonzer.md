@@ -6,6 +6,6 @@
 ### Synonyms
 - [[b/_bottler|bottler]], [[r/_ripper|ripper]]
 #adjective
-- **Remarkable; wonderful; [[e/_excellent|excellent]]; terrific.**
+- **[[r/_remarkable|Remarkable]]; wonderful; [[e/_excellent|excellent]]; terrific.**
 ---
 ---

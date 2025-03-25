@@ -6,6 +6,6 @@
 - **To [[e/_engage|engage]] in [[p/_playful|playful]] [[b/_behaviour|behaviour]].**
 ---
 #adjective
-- **[[p/_prepared|Prepared]] or served with [[c/_capers|capers]].**
+- **[[p/_prepared|Prepared]] or [[s/_served|served]] with [[c/_capers|capers]].**
 ---
 ---

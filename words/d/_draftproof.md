@@ -1,9 +1,9 @@
 # Draftproof
 ---
 #verb
-- **To seal an [[o/_opening|opening]], so as to prevent the [[a/_access|access]] of [[d/_draughts|draughts]].**
+- **To [[s/_seal|seal]] an [[o/_opening|opening]], [[s/_so|so]] as to [[p/_prevent|prevent]] the [[a/_access|access]] of [[d/_draughts|draughts]].**
 ---
 #adjective
-- **That prevents the [[a/_access|access]] of [[d/_draughts|draughts]].**
+- **That [[p/_prevents|prevents]] the [[a/_access|access]] of [[d/_draughts|draughts]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Inbounds
 ---
 #noun
-- **([[l/_logistics|logistics]]) An [[i/_inbound|inbound]] shipment.**
+- **([[l/_logistics|logistics]]) An [[i/_inbound|inbound]] [[s/_shipment|shipment]].**
 ---
 #verb
 - **To [[p/_pass|pass]] a [[b/_ball|ball]] [[i/_inbounds|inbounds]]**

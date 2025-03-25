@@ -8,6 +8,6 @@
 - **To [[d/_die|die]].**
 ---
 #adjective
-- **(of a wall or [[p/_partition|partition]]) Serving to separate tenants from [[o/_one|one]] [[a/_another|another]] or from [[c/_common|common]] [[a/_areas|areas]].**
+- **(of a wall or [[p/_partition|partition]]) [[s/_serving|Serving]] to [[s/_separate|separate]] tenants from [[o/_one|one]] [[a/_another|another]] or from [[c/_common|common]] [[a/_areas|areas]].**
 ---
 ---

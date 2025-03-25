@@ -1,7 +1,7 @@
 # Else
 ---
 #adjective
-- **(used [[o/_only|only]] with [[i/_indefinite|indefinite]] or [[i/_interrogative|interrogative]] pronouns) [[o/_other|Other]]; in [[a/_addition|addition]] to previously [[m/_mentioned|mentioned]] [[i/_items|items]].**
+- **(used [[o/_only|only]] with [[i/_indefinite|indefinite]] or [[i/_interrogative|interrogative]] [[p/_pronouns|pronouns]]) [[o/_other|Other]]; in [[a/_addition|addition]] to [[p/_previously|previously]] [[m/_mentioned|mentioned]] [[i/_items|items]].**
 	- _Example: The instructor is busy. Can anyone else help me?_
 ---
 #adverb

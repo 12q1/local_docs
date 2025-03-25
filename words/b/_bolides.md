@@ -8,7 +8,7 @@
 ### Synonyms
 - [[f/_fireball|fireball]]
 #noun
-- **A [[m/_meteor|meteor]] or [[b/_brilliant|brilliant]] shooting star, [[f/_followed|followed]] by a train of [[l/_light|light]] or sparks; [[e/_especially|especially]] [[o/_one|one]] which [[e/_explodes|explodes]].**
+- **A [[m/_meteor|meteor]] or [[b/_brilliant|brilliant]] [[s/_shooting|shooting]] star, [[f/_followed|followed]] by a train of [[l/_light|light]] or [[s/_sparks|sparks]]; [[e/_especially|especially]] [[o/_one|one]] which [[e/_explodes|explodes]].**
 ---
 ### Synonyms
 - [[b/_bolide|bolide]], [[f/_fireball|fireball]]

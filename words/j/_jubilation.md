@@ -1,6 +1,6 @@
 # Jubilation
 ---
 #noun
-- **A triumphant shouting; rejoicing; [[e/_exultation|exultation]].**
+- **A triumphant [[s/_shouting|shouting]]; [[r/_rejoicing|rejoicing]]; [[e/_exultation|exultation]].**
 ---
 ---

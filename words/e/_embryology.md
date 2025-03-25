@@ -1,6 +1,6 @@
 # Embryology
 ---
 #noun
-- **The scientific study of [[e/_embryos|embryos]].**
+- **The [[s/_scientific|scientific]] study of [[e/_embryos|embryos]].**
 ---
 ---

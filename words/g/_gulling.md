@@ -6,6 +6,6 @@
 - **To trick and [[d/_defraud|defraud]].**
 ---
 #noun
-- **An [[i/_instance|instance]] of [[d/_duping|duping]] or [[f/_fooling|fooling]] somebody.**
+- **An [[i/_instance|instance]] of [[d/_duping|duping]] or [[f/_fooling|fooling]] [[s/_somebody|somebody]].**
 ---
 ---

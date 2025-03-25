@@ -1,6 +1,6 @@
 # Fetor
 ---
 #noun
-- **An unpleasant smell.**
+- **An unpleasant [[s/_smell|smell]].**
 ---
 ---

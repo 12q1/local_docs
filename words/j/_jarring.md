@@ -6,15 +6,15 @@
 ### Synonyms
 - [[b/_bottle|bottle]]
 #verb
-- **To [[k/_knock|knock]], shake, or strike sharply, [[e/_especially|especially]] [[c/_causing|causing]] a quivering or vibrating [[m/_movement|movement]].**
+- **To [[k/_knock|knock]], [[s/_shake|shake]], or strike [[s/_sharply|sharply]], [[e/_especially|especially]] [[c/_causing|causing]] a [[q/_quivering|quivering]] or vibrating [[m/_movement|movement]].**
 	- _Example: He hit it with a hammer, hoping he could jar it loose._
 - **To [[h/_harm|harm]] or [[i/_injure|injure]] by such [[a/_action|action]].**
-- **To shock or surprise.**
+- **To [[s/_shock|shock]] or surprise.**
 	- _Example: I think the accident jarred him, as he hasn’t got back in a car since._
-- **To [[a/_act|act]] in [[d/_disagreement|disagreement]] or [[o/_opposition|opposition]], to [[c/_clash|clash]], to be at [[o/_odds|odds]] with; to [[i/_interfere|interfere]]; to [[d/_dispute|dispute]], to quarrel.**
-- **To ([[c/_cause|cause]] something to) [[g/_give|give]] [[f/_forth|forth]] a rudely tremulous or quivering sound; to ([[c/_cause|cause]] something to) sound [[d/_discordantly|discordantly]] or [[h/_harshly|harshly]].**
+- **To [[a/_act|act]] in [[d/_disagreement|disagreement]] or [[o/_opposition|opposition]], to [[c/_clash|clash]], to be at [[o/_odds|odds]] with; to [[i/_interfere|interfere]]; to [[d/_dispute|dispute]], to [[q/_quarrel|quarrel]].**
+- **To ([[c/_cause|cause]] [[s/_something|something]] to) [[g/_give|give]] [[f/_forth|forth]] a [[r/_rudely|rudely]] tremulous or [[q/_quivering|quivering]] [[s/_sound|sound]]; to ([[c/_cause|cause]] [[s/_something|something]] to) [[s/_sound|sound]] [[d/_discordantly|discordantly]] or [[h/_harshly|harshly]].**
 	- _Example: The clashing notes jarred on my ears._
-- **To quiver or vibrate [[d/_due|due]] to [[b/_being|being]] shaken or struck.**
+- **To [[q/_quiver|quiver]] or vibrate [[d/_due|due]] to [[b/_being|being]] [[s/_shaken|shaken]] or struck.**
 - **Of the [[a/_appearance|appearance]], [[f/_form|form]], style, [[e/_etc|etc]]., of [[p/_people|people]] and things: to [[l/_look|look]] strangely [[d/_different|different]]; to stand [[o/_out|out]] [[a/_awkwardly|awkwardly]] from [[i/_its|its]] surroundings; to be [[i/_incongruent|incongruent]].**
 ---
 #noun

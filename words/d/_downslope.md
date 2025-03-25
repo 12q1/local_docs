@@ -6,9 +6,9 @@
 ### Antonyms
 - [[u/_upslope|upslope]]
 #adjective
-- **In a [[d/_direction|direction]] [[d/_down|down]] a slope**
+- **In a [[d/_direction|direction]] [[d/_down|down]] a [[s/_slope|slope]]**
 ---
 #adverb
-- **[[d/_down|Down]] a slope**
+- **[[d/_down|Down]] a [[s/_slope|slope]]**
 ---
 ---

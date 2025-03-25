@@ -6,7 +6,7 @@
 ### Synonyms
 - [[u/_unlogic|unlogic]]
 #adjective
-- **[[c/_contrary|Contrary]] to [[l/_logic|logic]]; [[l/_lacking|lacking]] sense or sound reasoning.**
+- **[[c/_contrary|Contrary]] to [[l/_logic|logic]]; [[l/_lacking|lacking]] [[s/_sense|sense]] or [[s/_sound|sound]] [[r/_reasoning|reasoning]].**
 	- _Example: I received an illogical reply and that left me standing there feeling confused._
 ---
 ### Synonyms

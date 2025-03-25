@@ -6,7 +6,7 @@
 - **The [[f/_fertilization|fertilization]] of an [[o/_ovum|ovum]] by a sperm to [[f/_form|form]] a zygote.**
 - **The start of [[p/_pregnancy|pregnancy]].**
 - **The [[f/_formation|formation]] of a [[c/_conceptus|conceptus]] or an [[i/_implanted|implanted]] [[e/_embryo|embryo]].**
-- **The [[p/_power|power]] or [[f/_faculty|faculty]] of [[a/_apprehending|apprehending]] of [[f/_forming|forming]] an [[i/_idea|idea]] in the [[m/_mind|mind]]; the [[p/_power|power]] of recalling a [[p/_past|past]] sensation or [[p/_perception|perception]]; the [[a/_ability|ability]] to [[f/_form|form]] [[m/_mental|mental]] [[a/_abstractions|abstractions]].**
+- **The [[p/_power|power]] or [[f/_faculty|faculty]] of [[a/_apprehending|apprehending]] of [[f/_forming|forming]] an [[i/_idea|idea]] in the [[m/_mind|mind]]; the [[p/_power|power]] of [[r/_recalling|recalling]] a [[p/_past|past]] [[s/_sensation|sensation]] or [[p/_perception|perception]]; the [[a/_ability|ability]] to [[f/_form|form]] [[m/_mental|mental]] [[a/_abstractions|abstractions]].**
 - **An [[i/_image|image]], [[i/_idea|idea]], or [[n/_notion|notion]] [[f/_formed|formed]] in the [[m/_mind|mind]]; a [[c/_concept|concept]], [[p/_plan|plan]] or [[d/_design|design]].**
 ---
 ### Antonyms

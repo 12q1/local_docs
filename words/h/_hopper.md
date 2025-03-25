@@ -2,8 +2,8 @@
 ---
 #noun
 - **[[o/_one|One]] who or that which [[h/_hops|hops]].**
-- **A temporary storage [[b/_bin|bin]], [[f/_filled|filled]] from the top and [[e/_emptied|emptied]] from the [[b/_bottom|bottom]], [[o/_often|often]] [[f/_funnel|funnel]]-shaped.**
-- **A [[f/_funnel|funnel]]-shaped section at the top of a [[d/_drainpipe|drainpipe]] used to [[c/_collect|collect]] water, from [[a/_above|above]], from [[o/_one|one]] or [[m/_more|more]] smaller [[d/_drainpipes|drainpipes]].**
+- **A temporary storage [[b/_bin|bin]], [[f/_filled|filled]] from the top and [[e/_emptied|emptied]] from the [[b/_bottom|bottom]], [[o/_often|often]] [[f/_funnel|funnel]]-[[s/_shaped|shaped]].**
+- **A [[f/_funnel|funnel]]-[[s/_shaped|shaped]] [[s/_section|section]] at the top of a [[d/_drainpipe|drainpipe]] used to [[c/_collect|collect]] water, from [[a/_above|above]], from [[o/_one|one]] or [[m/_more|more]] [[s/_smaller|smaller]] [[d/_drainpipes|drainpipes]].**
 - **A [[d/_device|device]] that [[f/_feeds|feeds]] [[m/_material|material]] [[i/_into|into]] a [[m/_machine|machine]].**
 - **Various [[i/_insects|insects]]**
 - **An [[a/_artificial|artificial]] [[f/_fishing|fishing]] [[l/_lure|lure]].**

@@ -6,6 +6,6 @@
 	- _Example: His heroic deeds were immortalised in song and tale._
 ---
 #verb
-- **To remove the [[e/_effects|effects]] of [[n/_normal|normal]] apoptosis.**
+- **To [[r/_remove|remove]] the [[e/_effects|effects]] of [[n/_normal|normal]] apoptosis.**
 ---
 ---

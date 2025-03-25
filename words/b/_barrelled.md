@@ -1,8 +1,8 @@
 # Barrelled
 ---
 #verb
-- **To put or to [[p/_pack|pack]] in a [[b/_barrel|barrel]] or [[b/_barrels|barrels]].**
-- **To [[m/_move|move]] quickly or in an uncontrolled [[m/_manner|manner]].**
+- **To [[p/_put|put]] or to [[p/_pack|pack]] in a [[b/_barrel|barrel]] or [[b/_barrels|barrels]].**
+- **To [[m/_move|move]] [[q/_quickly|quickly]] or in an uncontrolled [[m/_manner|manner]].**
 	- _Example: He came barrelling around the corner and I almost hit him._
 ---
 #adjective

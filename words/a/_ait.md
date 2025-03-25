@@ -1,7 +1,7 @@
 # Ait
 ---
 #noun
-- **An [[i/_island|island]] in a river, [[e/_especially|especially]] the River Thames in [[e/_england|England]].**
+- **An [[i/_island|island]] in a [[r/_river|river]], [[e/_especially|especially]] the [[r/_river|River]] Thames in [[e/_england|England]].**
 ---
 ### Synonyms
 - [[e/_eyot|eyot]]

@@ -1,7 +1,7 @@
 # Inconspicuous
 ---
 #adjective
-- **Not prominent [[n/_nor|nor]] [[e/_easily|easily]] [[n/_noticeable|noticeable]]**
+- **Not [[p/_prominent|prominent]] [[n/_nor|nor]] [[e/_easily|easily]] [[n/_noticeable|noticeable]]**
 ---
 ### Synonyms
 - [[i/_invisible|invisible]]

@@ -1,6 +1,6 @@
 # Artistry
 ---
 #noun
-- **Significant [[a/_artistic|artistic]] skill.**
+- **[[s/_significant|Significant]] [[a/_artistic|artistic]] [[s/_skill|skill]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Grandson
 ---
 #noun
-- **A son of [[o/_one|one]]'s [[c/_child|child]].**
+- **A [[s/_son|son]] of [[o/_one|one]]'[[s/_s|s]] [[c/_child|child]].**
 ---
 ### Synonyms
 - [[g/_grandboy|grandboy]]

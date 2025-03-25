@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[i/_insane|Insane]], [[m/_mentally|mentally]] unstable.**
-- **In a state of [[p/_panic|panic]], worry, [[f/_frenzy|frenzy]] or rush.**
+- **In a state of [[p/_panic|panic]], worry, [[f/_frenzy|frenzy]] or [[r/_rush|rush]].**
 	- _Example: They returned the missing child to his frantic mother._
 - **[[e/_extremely|Extremely]] [[e/_energetic|energetic]]**
 	- _Example: frantic music_

@@ -2,7 +2,7 @@
 ---
 #noun
 - **(in the [[p/_plural|plural]]) [[h/_happenings|Happenings]]; [[e/_events|events]]; [[g/_goings|goings]]-on.**
-- **That which [[h/_happens|happens]]; an [[o/_occurrence|occurrence]] or [[h/_happening|happening]], [[e/_especially|especially]] an unexpected, random, [[c/_chance|chance]], or [[f/_fortuitous|fortuitous]] [[e/_event|event]]; [[c/_chance|chance]]; [[f/_fortune|fortune]]; [[l/_luck|luck]].**
+- **That which [[h/_happens|happens]]; an [[o/_occurrence|occurrence]] or [[h/_happening|happening]], [[e/_especially|especially]] an unexpected, [[r/_random|random]], [[c/_chance|chance]], or [[f/_fortuitous|fortuitous]] [[e/_event|event]]; [[c/_chance|chance]]; [[f/_fortune|fortune]]; [[l/_luck|luck]].**
 ---
 ### Synonyms
 - [[h/_hazard|hazard]], [[s/_serendipity|serendipity]], [[a/_affairs|affairs]]
@@ -13,7 +13,7 @@
 ### Synonyms
 - [[o/_occur|occur]], [[t/_transpire|transpire]]
 #noun
-- **(Western [[p/_pennsylvania|Pennsylvania]]) A wrap, such as a quilt or a [[c/_comforter|comforter]]. [[a/_also|Also]], a small or [[f/_folded|folded]] [[b/_blanket|blanket]] [[p/_placed|placed]] on the [[e/_end|end]] of a [[b/_bed|bed]] to [[k/_keep|keep]] [[f/_feet|feet]] warm.**
+- **(Western [[p/_pennsylvania|Pennsylvania]]) A wrap, such as a [[q/_quilt|quilt]] or a [[c/_comforter|comforter]]. [[a/_also|Also]], a [[s/_small|small]] or [[f/_folded|folded]] [[b/_blanket|blanket]] [[p/_placed|placed]] on the [[e/_end|end]] of a [[b/_bed|bed]] to [[k/_keep|keep]] [[f/_feet|feet]] warm.**
 ---
 #verb
 - **To wrap, [[c/_clothe|clothe]].**

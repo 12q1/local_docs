@@ -1,6 +1,6 @@
 # Deflesh
 ---
 #verb
-- **To remove the [[f/_flesh|flesh]] from**
+- **To [[r/_remove|remove]] the [[f/_flesh|flesh]] from**
 ---
 ---

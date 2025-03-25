@@ -6,7 +6,7 @@
 - **To [[d/_dine|dine]] upon; to [[h/_have|have]] to [[e/_eat|eat]].**
 ---
 #noun
-- **[[e/_eating|Eating]] [[d/_dinner|dinner]] as a social [[f/_function|function]].**
-- **[[e/_entertaining|Entertaining]] someone to [[d/_dinner|dinner]].**
+- **[[e/_eating|Eating]] [[d/_dinner|dinner]] as a [[s/_social|social]] [[f/_function|function]].**
+- **[[e/_entertaining|Entertaining]] [[s/_someone|someone]] to [[d/_dinner|dinner]].**
 ---
 ---

@@ -1,21 +1,21 @@
 # Blinking
 ---
 #verb
-- **To [[c/_close|close]] and reopen [[b/_both|both]] [[e/_eyes|eyes]] quickly.**
+- **To [[c/_close|close]] and [[r/_reopen|reopen]] [[b/_both|both]] [[e/_eyes|eyes]] [[q/_quickly|quickly]].**
 	- _Example: The loser in the staring game is the person who blinks first._
-- **To [[f/_flash|flash]] on and [[o/_off|off]] at regular [[i/_intervals|intervals]].**
+- **To [[f/_flash|flash]] on and [[o/_off|off]] at [[r/_regular|regular]] [[i/_intervals|intervals]].**
 	- _Example: The blinking text on the screen was distracting._
-- **To [[p/_perform|perform]] the smallest [[a/_action|action]] that [[c/_could|could]] solicit a response.**
-- **To shut [[o/_out|out]] of sight; to [[e/_evade|evade]]; to shirk.**
+- **To [[p/_perform|perform]] the [[s/_smallest|smallest]] [[a/_action|action]] that [[c/_could|could]] [[s/_solicit|solicit]] a [[r/_response|response]].**
+- **To [[s/_shut|shut]] [[o/_out|out]] of [[s/_sight|sight]]; to [[e/_evade|evade]]; to [[s/_shirk|shirk]].**
 	- _Example: to blink the question_
 - **To trick; to [[d/_deceive|deceive]].**
-- **To turn slightly sour, or [[b/_blinky|blinky]], as [[b/_beer|beer]], [[m/_milk|milk]], [[e/_etc|etc]].**
-- **To teleport, [[m/_mostly|mostly]] for short [[d/_distances|distances]].**
+- **To turn [[s/_slightly|slightly]] [[s/_sour|sour]], or [[b/_blinky|blinky]], as [[b/_beer|beer]], [[m/_milk|milk]], [[e/_etc|etc]].**
+- **To teleport, [[m/_mostly|mostly]] for [[s/_short|short]] [[d/_distances|distances]].**
 ---
 ### Synonyms
 - [[n/_nictitate|nictitate]]
 #noun
-- **The [[a/_act|act]] of something that [[b/_blinks|blinks]].**
+- **The [[a/_act|act]] of [[s/_something|something]] that [[b/_blinks|blinks]].**
 	- _Example: the steady blinkings of lights on the console_
 ---
 #adjective

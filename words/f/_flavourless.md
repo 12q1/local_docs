@@ -1,7 +1,7 @@
 # Flavourless
 ---
 #adjective
-- **[[l/_lacking|Lacking]] taste or [[f/_flavor|flavor]]; without seasoning, spice, or [[d/_discernible|discernible]] qualities of taste.**
+- **[[l/_lacking|Lacking]] taste or [[f/_flavor|flavor]]; without [[s/_seasoning|seasoning]], spice, or [[d/_discernible|discernible]] [[q/_qualities|qualities]] of taste.**
 - **[[f/_flat|Flat]]; [[l/_lacking|lacking]] [[c/_character|character]] or [[d/_definition|definition]].**
 - **Without [[f/_flavor|flavor]].**
 ---

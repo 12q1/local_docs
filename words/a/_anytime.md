@@ -7,6 +7,6 @@
 - **At [[a/_any|any]] time**
 ---
 #interjection
-- **"[[y/_you|you]]'re welcome" in response to "thank [[y/_you|you]]" or "thanks."**
+- **"[[y/_you|you]]'[[r/_re|re]] welcome" in [[r/_response|response]] to "thank [[y/_you|you]]" or "thanks."**
 ---
 ---

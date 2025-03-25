@@ -1,6 +1,6 @@
 # Disunion
 ---
 #noun
-- **Separation of a union**
+- **[[s/_separation|Separation]] of a union**
 ---
 ---

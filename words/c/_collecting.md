@@ -3,9 +3,9 @@
 #verb
 - **To [[g/_gather|gather]] together; [[a/_amass|amass]].**
 	- _Example: Suzanne collected all the papers she had laid out._
-- **To [[g/_get|get]]; [[p/_particularly|particularly]], [[g/_get|get]] from someone.**
+- **To [[g/_get|get]]; [[p/_particularly|particularly]], [[g/_get|get]] from [[s/_someone|someone]].**
 	- _Example: A bank collects a monthly payment on a client's new car loan.   A mortgage company collects a monthly payment on a house._
-- **To [[a/_accumulate|accumulate]] (a [[n/_number|number]] of similar or related [[o/_objects|objects]]), [[p/_particularly|particularly]] for a [[h/_hobby|hobby]] or recreation.**
+- **To [[a/_accumulate|accumulate]] (a [[n/_number|number]] of [[s/_similar|similar]] or [[r/_related|related]] [[o/_objects|objects]]), [[p/_particularly|particularly]] for a [[h/_hobby|hobby]] or [[r/_recreation|recreation]].**
 	- _Example: I don't think he collects as much as hoards._
 - **To [[f/_form|form]] a [[c/_conclusion|conclusion]]; to [[d/_deduce|deduce]], [[i/_infer|infer]]. ([[c/_compare|Compare]] [[g/_gather|gather]], [[g/_get|get]].)**
 - **([[o/_often|often]] with on or [[a/_against|against]]) To [[c/_collect|collect]] [[p/_payments|payments]].**
@@ -17,6 +17,6 @@
 	- _Example: The truck veered across the central reservation and collected a car that was travelling in the opposite direction._
 ---
 #noun
-- **A [[h/_hobby|hobby]] [[i/_including|including]] seeking, [[l/_locating|locating]], [[a/_acquiring|acquiring]], [[o/_organizing|organizing]], [[c/_cataloging|cataloging]], [[d/_displaying|displaying]], storing, and [[m/_maintaining|maintaining]] whatever [[i/_items|items]] are of [[i/_interest|interest]] to the [[i/_individual|individual]] [[c/_collector|collector]].**
+- **A [[h/_hobby|hobby]] [[i/_including|including]] [[s/_seeking|seeking]], [[l/_locating|locating]], [[a/_acquiring|acquiring]], [[o/_organizing|organizing]], [[c/_cataloging|cataloging]], [[d/_displaying|displaying]], storing, and [[m/_maintaining|maintaining]] whatever [[i/_items|items]] are of [[i/_interest|interest]] to the [[i/_individual|individual]] [[c/_collector|collector]].**
 ---
 ---

@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[c/_characterized|Characterized]] by [[m/_moral|moral]] or [[c/_cultural|cultural]] [[d/_decline|decline]].**
-- **[[l/_luxuriously|Luxuriously]] self-[[i/_indulgent|indulgent]].**
+- **[[l/_luxuriously|Luxuriously]] [[s/_self|self]]-[[i/_indulgent|indulgent]].**
 ---
 ### Synonyms
 - [[s/_sinful|sinful]]

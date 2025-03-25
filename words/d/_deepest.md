@@ -1,17 +1,17 @@
 # Deepest
 ---
 #adjective
-- **(of a [[p/_physical|physical]] [[d/_distance|distance]]) [[e/_extending|Extending]] [[f/_far|far]] [[a/_away|away]] from a [[p/_point|point]] of reference, [[e/_especially|especially]] [[d/_downwards|downwards]].**
-- **([[i/_intellectual|intellectual]], social) [[c/_complex|Complex]], [[i/_involved|involved]].**
-- **(sound, voice) [[l/_low|Low]] in [[p/_pitch|pitch]].**
+- **(of a [[p/_physical|physical]] [[d/_distance|distance]]) [[e/_extending|Extending]] [[f/_far|far]] [[a/_away|away]] from a [[p/_point|point]] of [[r/_reference|reference]], [[e/_especially|especially]] [[d/_downwards|downwards]].**
+- **([[i/_intellectual|intellectual]], [[s/_social|social]]) [[c/_complex|Complex]], [[i/_involved|involved]].**
+- **([[s/_sound|sound]], voice) [[l/_low|Low]] in [[p/_pitch|pitch]].**
 	- _Example: She has a very deep contralto voice._
-- **(of a [[c/_color|color]]) [[h/_highly|Highly]] saturated.**
+- **(of a [[c/_color|color]]) [[h/_highly|Highly]] [[s/_saturated|saturated]].**
 	- _Example: That's a very deep shade of blue._
-- **(sleep) Sound, [[h/_heavy|heavy]] ([[d/_describing|describing]] a state of sleep from which [[o/_one|one]] is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
+- **([[s/_sleep|sleep]]) [[s/_sound|Sound]], [[h/_heavy|heavy]] ([[d/_describing|describing]] a state of [[s/_sleep|sleep]] from which [[o/_one|one]] is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
 	- _Example: He was in a deep sleep._
 - **[[i/_immersed|Immersed]], submerged (in).**
 	- _Example: deep in debt_
-- **[[m/_muddy|Muddy]]; [[b/_boggy|boggy]]; sandy; said of roads.**
+- **[[m/_muddy|Muddy]]; [[b/_boggy|boggy]]; [[s/_sandy|sandy]]; [[s/_said|said]] of [[r/_roads|roads]].**
 - **(of time) [[d/_distant|Distant]] in the [[p/_past|past]], [[a/_ancient|ancient]].**
 	- _Example: deep time_
 ---

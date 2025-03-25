@@ -1,6 +1,6 @@
 # Bootboy
 ---
 #noun
-- **A skinhead who wears [[b/_boots|boots]].**
+- **A [[s/_skinhead|skinhead]] who wears [[b/_boots|boots]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Lumberjacket
 ---
 #noun
-- **A [[l/_lumberjack|lumberjack]] shirt.**
+- **A [[l/_lumberjack|lumberjack]] [[s/_shirt|shirt]].**
 ---
 ---

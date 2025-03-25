@@ -1,7 +1,7 @@
 # Enumerates
 ---
 #verb
-- **To specify [[e/_each|each]] [[m/_member|member]] of a sequence [[i/_individually|individually]] in [[i/_incrementing|incrementing]] [[o/_order|order]].**
+- **To specify [[e/_each|each]] [[m/_member|member]] of a [[s/_sequence|sequence]] [[i/_individually|individually]] in [[i/_incrementing|incrementing]] [[o/_order|order]].**
 - **To [[d/_determine|determine]] the [[a/_amount|amount]] of.**
 ---
 ### Synonyms

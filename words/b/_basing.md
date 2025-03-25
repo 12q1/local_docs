@@ -6,6 +6,6 @@
 - **([[a/_acrobatics|acrobatics]], [[c/_cheerleading|cheerleading]]) To [[a/_act|act]] as a [[b/_base|base]]; to be the [[p/_person|person]] supporting the [[f/_flyer|flyer]].**
 ---
 #noun
-- **The storage or [[h/_housing|housing]] of something within a [[b/_base|base]].**
+- **The storage or [[h/_housing|housing]] of [[s/_something|something]] within a [[b/_base|base]].**
 ---
 ---

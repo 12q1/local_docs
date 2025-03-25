@@ -1,7 +1,7 @@
 # Cocaine
 ---
 #noun
-- **A stimulant [[n/_narcotic|narcotic]], [[d/_derived|derived]] from [[c/_cultivated|cultivated]] [[p/_plants|plants]] of the [[g/_genus|genus]] [[e/_erythroxylum|Erythroxylum]], in the [[f/_form|form]] of a white [[p/_powder|powder]] that users [[g/_generally|generally]] self-[[a/_administer|administer]] by [[i/_insufflation|insufflation]] through the [[n/_nose|nose]].**
+- **A stimulant [[n/_narcotic|narcotic]], [[d/_derived|derived]] from [[c/_cultivated|cultivated]] [[p/_plants|plants]] of the [[g/_genus|genus]] [[e/_erythroxylum|Erythroxylum]], in the [[f/_form|form]] of a white [[p/_powder|powder]] that users [[g/_generally|generally]] [[s/_self|self]]-[[a/_administer|administer]] by [[i/_insufflation|insufflation]] through the [[n/_nose|nose]].**
 - **[[a/_any|Any]] [[d/_derivative|derivative]] of [[c/_cocaine|cocaine]].**
 ---
 ### Synonyms

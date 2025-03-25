@@ -1,7 +1,7 @@
 # Excoriated
 ---
 #verb
-- **To wear [[o/_off|off]] the skin of; to [[c/_chafe|chafe]] or [[f/_flay|flay]].**
+- **To wear [[o/_off|off]] the [[s/_skin|skin]] of; to [[c/_chafe|chafe]] or [[f/_flay|flay]].**
 - **To strongly [[d/_denounce|denounce]] or [[c/_censure|censure]].**
 ---
 ### Synonyms

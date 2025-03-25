@@ -3,10 +3,10 @@
 #verb
 - **To [[h/_honor|honor]]; to [[h/_hold|hold]] in [[h/_high|high]] [[e/_esteem|esteem]].**
 	- _Example: They exalted their queen._
-- **To raise in rank, status [[e/_etc|etc]]., to [[e/_elevate|elevate]].**
+- **To [[r/_raise|raise]] in [[r/_rank|rank]], status [[e/_etc|etc]]., to [[e/_elevate|elevate]].**
 	- _Example: The man was exalted from a humble carpenter to a minister._
 - **To [[e/_elate|elate]], or [[f/_fill|fill]] with the [[j/_joy|joy]] of success.**
-- **To refine or subtilize.**
+- **To [[r/_refine|refine]] or subtilize.**
 ---
 ### Synonyms
 - [[u/_upgrade|upgrade]]

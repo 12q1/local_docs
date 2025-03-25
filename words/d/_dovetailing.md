@@ -1,6 +1,6 @@
 # Dovetailing
 ---
 #noun
-- **The situation in which things are [[d/_dovetailed|dovetailed]].**
+- **The [[s/_situation|situation]] in which things are [[d/_dovetailed|dovetailed]].**
 ---
 ---

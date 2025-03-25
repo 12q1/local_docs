@@ -1,7 +1,7 @@
 # Commonly
 ---
 #adverb
-- **As a rule; [[f/_frequently|frequently]]; usually**
+- **As a [[r/_rule|rule]]; [[f/_frequently|frequently]]; usually**
 - **In [[c/_common|common]]; [[f/_familiarly|familiarly]]**
 ---
 ### Synonyms

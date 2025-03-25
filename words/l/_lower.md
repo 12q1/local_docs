@@ -1,36 +1,36 @@
 # Lower
 ---
 #adjective
-- **Situated [[c/_close|close]] to, or [[e/_even|even]] [[b/_below|below]], the [[g/_ground|ground]] or [[a/_another|another]] [[n/_normal|normal]] reference [[p/_plane|plane]]; not [[h/_high|high]] or [[l/_lofty|lofty]].**
+- **[[s/_situated|Situated]] [[c/_close|close]] to, or [[e/_even|even]] [[b/_below|below]], the [[g/_ground|ground]] or [[a/_another|another]] [[n/_normal|normal]] [[r/_reference|reference]] [[p/_plane|plane]]; not [[h/_high|high]] or [[l/_lofty|lofty]].**
 	- _Example: a low wall  a low shelf_
 - **Of [[l/_less|less]] than [[n/_normal|normal]] [[h/_height|height]]; [[b/_below|below]] the [[a/_average|average]] or [[n/_normal|normal]] [[l/_level|level]] from which [[e/_elevation|elevation]] is [[m/_measured|measured]].**
 	- _Example: a low bow_
-- **Not [[h/_high|high]] in status, [[e/_esteem|esteem]] or rank, [[d/_dignity|dignity]], or quality. ([[c/_compare|Compare]] vulgar.)**
+- **Not [[h/_high|high]] in status, [[e/_esteem|esteem]] or [[r/_rank|rank]], [[d/_dignity|dignity]], or [[q/_quality|quality]]. ([[c/_compare|Compare]] vulgar.)**
 	- _Example: Now that was low even for you!_
 - **[[h/_humble|Humble]], [[m/_meek|meek]], not [[h/_haughty|haughty]].**
 - **[[d/_disparaging|Disparaging]]; [[a/_assigning|assigning]] [[l/_little|little]] value or [[e/_excellence|excellence]].**
 	- _Example: She had a low opinion of cats. He took a low view of dogs._
 - **[[b/_being|Being]] a [[n/_nadir|nadir]], a [[b/_bottom|bottom]].**
 	- _Example: the low point in her career_
-- **[[d/_depressed|Depressed]] in [[m/_mood|mood]], [[d/_dejected|dejected]], sad.**
+- **[[d/_depressed|Depressed]] in [[m/_mood|mood]], [[d/_dejected|dejected]], [[s/_sad|sad]].**
 	- _Example: low spirits_
 - **[[l/_lacking|Lacking]] [[h/_health|health]] or vitality, strength or vivacity; [[f/_feeble|feeble]]; weak.**
 	- _Example: a low pulse_
-- **Small, not [[h/_high|high]] (in [[a/_amount|amount]] or quantity, value, [[f/_force|force]], [[e/_energy|energy]], [[e/_etc|etc]]).**
+- **[[s/_small|Small]], not [[h/_high|high]] (in [[a/_amount|amount]] or [[q/_quantity|quantity]], value, [[f/_force|force]], [[e/_energy|energy]], [[e/_etc|etc]]).**
 	- _Example: My credit union charges a low interest rate.   Jogging during a whiteout, with such low temperatures and low visibility, is dangerous.   The store sold bread at low prices, and milk at even lower prices.   The contractors gave a low estimate of the costs.   low cholesterol   a low voltage wire   a low number_
-- **Simple in [[c/_complexity|complexity]] or [[d/_development|development]]; (in several set [[p/_phrases|phrases]]) [[f/_favoring|favoring]] simplicity; (see [[e/_e|e]].[[g/_g|g]]. [[l/_low|low]] [[c/_church|church]], [[l/_low|Low]] Tory).**
+- **[[s/_simple|Simple]] in [[c/_complexity|complexity]] or [[d/_development|development]]; (in [[s/_several|several]] [[s/_set|set]] [[p/_phrases|phrases]]) [[f/_favoring|favoring]] [[s/_simplicity|simplicity]]; ([[s/_see|see]] [[e/_e|e]].[[g/_g|g]]. [[l/_low|low]] [[c/_church|church]], [[l/_low|Low]] Tory).**
 	- _Example: low protozoan animals, low cryptogamic plants, and other low organisms_
-- **(in several set [[p/_phrases|phrases]]) [[b/_being|Being]] [[n/_near|near]] the [[e/_equator|equator]].**
+- **(in [[s/_several|several]] [[s/_set|set]] [[p/_phrases|phrases]]) [[b/_being|Being]] [[n/_near|near]] the [[e/_equator|equator]].**
 	- _Example: the low northern latitudes_
-- **([[a/_acoustics|acoustics]]) [[g/_grave|Grave]] in [[p/_pitch|pitch]], [[d/_due|due]] to [[b/_being|being]] produced by relatively slow vibrations (wave [[o/_oscillations|oscillations]]); [[f/_flat|flat]].**
+- **([[a/_acoustics|acoustics]]) [[g/_grave|Grave]] in [[p/_pitch|pitch]], [[d/_due|due]] to [[b/_being|being]] [[p/_produced|produced]] by [[r/_relatively|relatively]] [[s/_slow|slow]] vibrations (wave [[o/_oscillations|oscillations]]); [[f/_flat|flat]].**
 	- _Example: Generally, European men have lower voices than their Indian counterparts._
-- **Quiet; soft; not [[l/_loud|loud]].**
+- **[[q/_quiet|Quiet]]; [[s/_soft|soft]]; not [[l/_loud|loud]].**
 	- _Example: They spoke in low voices so I would not hear what they were saying._
-- **[[m/_made|Made]] with a relatively [[l/_large|large]] [[o/_opening|opening]] [[b/_between|between]] the tongue and the [[p/_palate|palate]]; [[m/_made|made]] with ([[p/_part|part]] of) the tongue [[p/_positioned|positioned]] [[l/_low|low]] in the [[m/_mouth|mouth]], relative to the [[p/_palate|palate]].**
+- **[[m/_made|Made]] with a [[r/_relatively|relatively]] [[l/_large|large]] [[o/_opening|opening]] [[b/_between|between]] the tongue and the [[p/_palate|palate]]; [[m/_made|made]] with ([[p/_part|part]] of) the tongue [[p/_positioned|positioned]] [[l/_low|low]] in the [[m/_mouth|mouth]], [[r/_relative|relative]] to the [[p/_palate|palate]].**
 - **[[l/_lesser|Lesser]] in value than [[o/_other|other]] [[c/_cards|cards]], [[d/_denominations|denominations]], suits, [[e/_etc|etc]].**
 	- _Example: a low card_
-- **Not rich or seasoned; [[o/_offering|offering]] the [[m/_minimum|minimum]] of [[n/_nutritional|nutritional]] requirements; [[p/_plain|plain]], simple.**
-- **(of an [[a/_automobile|automobile]], [[g/_gear|gear]], [[e/_etc|etc]]) [[d/_designed|Designed]] for a slow (or the slowest) speed.**
+- **Not [[r/_rich|rich]] or [[s/_seasoned|seasoned]]; [[o/_offering|offering]] the [[m/_minimum|minimum]] of [[n/_nutritional|nutritional]] [[r/_requirements|requirements]]; [[p/_plain|plain]], [[s/_simple|simple]].**
+- **(of an [[a/_automobile|automobile]], [[g/_gear|gear]], [[e/_etc|etc]]) [[d/_designed|Designed]] for a [[s/_slow|slow]] (or the [[s/_slowest|slowest]]) speed.**
 	- _Example: low gear_
 ---
 ### Synonyms
@@ -40,35 +40,35 @@
 #adverb
 - **[[c/_close|Close]] to the [[g/_ground|ground]].**
 - **Of a [[p/_pitch|pitch]], at a [[l/_lower|lower]] [[f/_frequency|frequency]].**
-- **With a [[l/_low|low]] voice or sound; not [[l/_loudly|loudly]]; [[g/_gently|gently]].**
+- **With a [[l/_low|low]] voice or [[s/_sound|sound]]; not [[l/_loudly|loudly]]; [[g/_gently|gently]].**
 	- _Example: to speak low_
-- **Under the usual price; at a [[m/_moderate|moderate]] price; [[c/_cheaply|cheaply]].**
+- **Under the usual [[p/_price|price]]; at a [[m/_moderate|moderate]] [[p/_price|price]]; [[c/_cheaply|cheaply]].**
 	- _Example: He sold his wheat low._
 - **In a [[l/_low|low]] [[m/_mean|mean]] [[c/_condition|condition]]; [[h/_humbly|humbly]]; [[m/_meanly|meanly]].**
 - **In a time [[a/_approaching|approaching]] [[o/_our|our]] [[o/_own|own]].**
-- **In a [[p/_path|path]] [[n/_near|near]] the [[e/_equator|equator]], so that the [[d/_declination|declination]] is small, or [[n/_near|near]] the [[h/_horizon|horizon]], so that the [[a/_altitude|altitude]] is small; said of the [[h/_heavenly|heavenly]] [[b/_bodies|bodies]] with reference to the [[d/_diurnal|diurnal]] revolution.**
+- **In a [[p/_path|path]] [[n/_near|near]] the [[e/_equator|equator]], [[s/_so|so]] that the [[d/_declination|declination]] is [[s/_small|small]], or [[n/_near|near]] the [[h/_horizon|horizon]], [[s/_so|so]] that the [[a/_altitude|altitude]] is [[s/_small|small]]; [[s/_said|said]] of the [[h/_heavenly|heavenly]] [[b/_bodies|bodies]] with [[r/_reference|reference]] to the [[d/_diurnal|diurnal]] [[r/_revolution|revolution]].**
 	- _Example: The moon runs low, i.e. comparatively near the horizon when on or near the meridian._
 ---
 #verb
-- **To [[l/_let|let]] [[d/_descend|descend]] by [[i/_its|its]] [[o/_own|own]] weight, as something suspended; to [[l/_let|let]] [[d/_down|down]]**
+- **To [[l/_let|let]] [[d/_descend|descend]] by [[i/_its|its]] [[o/_own|own]] weight, as [[s/_something|something]] suspended; to [[l/_let|let]] [[d/_down|down]]**
 	- _Example: lower a bucket into a well_
-- **To pull [[d/_down|down]]**
+- **To [[p/_pull|pull]] [[d/_down|down]]**
 	- _Example: to lower a flag_
-- **To reduce the [[h/_height|height]] of**
+- **To [[r/_reduce|reduce]] the [[h/_height|height]] of**
 	- _Example: lower a chimney or turret_
 - **To [[d/_depress|depress]] as to [[d/_direction|direction]]**
 	- _Example: lower the aim of a gun_
 - **To [[m/_make|make]] [[l/_less|less]] [[e/_elevated|elevated]]**
 	- _Example: to lower one's ambition, aspirations, or hopes_
-- **To reduce the [[d/_degree|degree]], [[i/_intensity|intensity]], strength, [[e/_etc|etc]]., of**
+- **To [[r/_reduce|reduce]] the [[d/_degree|degree]], [[i/_intensity|intensity]], strength, [[e/_etc|etc]]., of**
 	- _Example: lower distilled liquors_
 - **To [[b/_bring|bring]] [[d/_down|down]]; to [[h/_humble|humble]]**
 	- _Example: lower one's pride_
-- **([[l/_lower|lower]] [[o/_oneself|oneself]]) To [[h/_humble|humble]] [[o/_oneself|oneself]]; to [[d/_do|do]] something [[o/_one|one]] [[c/_considers|considers]] to be [[b/_beneath|beneath]] [[o/_one|one]]'s [[d/_dignity|dignity]].**
+- **([[l/_lower|lower]] [[o/_oneself|oneself]]) To [[h/_humble|humble]] [[o/_oneself|oneself]]; to [[d/_do|do]] [[s/_something|something]] [[o/_one|one]] [[c/_considers|considers]] to be [[b/_beneath|beneath]] [[o/_one|one]]'[[s/_s|s]] [[d/_dignity|dignity]].**
 	- _Example: I could never lower myself enough to buy second-hand clothes._
-- **To reduce (something) in value, [[a/_amount|amount]], [[e/_etc|etc]].**
+- **To [[r/_reduce|reduce]] ([[s/_something|something]]) in value, [[a/_amount|amount]], [[e/_etc|etc]].**
 	- _Example: lower the interest rate_
-- **To [[f/_fall|fall]]; to sink; to [[g/_grow|grow]] [[l/_less|less]]; to [[d/_diminish|diminish]]; to [[d/_decrease|decrease]]**
+- **To [[f/_fall|fall]]; to [[s/_sink|sink]]; to [[g/_grow|grow]] [[l/_less|less]]; to [[d/_diminish|diminish]]; to [[d/_decrease|decrease]]**
 	- _Example: The river lowered as rapidly as it rose._
 - **To [[d/_decrease|decrease]] in value, [[a/_amount|amount]], [[e/_etc|etc]].**
 ---

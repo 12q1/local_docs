@@ -7,7 +7,7 @@
 ---
 #adjective
 - **Untried or [[i/_inexperienced|inexperienced]].**
-- **[[e/_emergent|Emergent]] or rising.**
+- **[[e/_emergent|Emergent]] or [[r/_rising|rising]].**
 ---
 ### Synonyms
 - [[e/_emerging|emerging]], [[n/_nascent|nascent]], [[u/_unfledged|unfledged]], [[v/_virginal|virginal]]

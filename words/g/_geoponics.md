@@ -1,6 +1,6 @@
 # Geoponics
 ---
 #noun
-- **The science of [[a/_agriculture|agriculture]]**
+- **The [[s/_science|science]] of [[a/_agriculture|agriculture]]**
 ---
 ---

@@ -3,7 +3,7 @@
 #adverb
 - **Sufficiently.**
 	- _Example: Are you man enough to fight me?_
-- **[[f/_fully|Fully]]; quite; used to [[e/_express|express]] slight [[a/_augmentation|augmentation]] of the [[p/_positive|positive]] [[d/_degree|degree]], and sometimes [[e/_equivalent|equivalent]] to very.**
+- **[[f/_fully|Fully]]; [[q/_quite|quite]]; used to [[e/_express|express]] [[s/_slight|slight]] [[a/_augmentation|augmentation]] of the [[p/_positive|positive]] [[d/_degree|degree]], and [[s/_sometimes|sometimes]] [[e/_equivalent|equivalent]] to very.**
 	- _Example: He is ready enough to accept the offer._
 ---
 #pronoun

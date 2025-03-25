@@ -1,6 +1,6 @@
 # Baya
 ---
 #noun
-- **[[p/_ploceus|Ploceus]] philippinus, a weaverbird of southern [[a/_asia|Asia]].**
+- **[[p/_ploceus|Ploceus]] philippinus, a weaverbird of [[s/_southern|southern]] [[a/_asia|Asia]].**
 ---
 ---

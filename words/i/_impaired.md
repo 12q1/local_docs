@@ -11,7 +11,7 @@
 	- _Example: The cop gave me an impaired._
 ---
 #adjective
-- **Rendered [[l/_less|less]] [[e/_effective|effective]].**
+- **[[r/_rendered|Rendered]] [[l/_less|less]] [[e/_effective|effective]].**
 	- _Example: His impaired driving skill due to alcohol caused the accident._
 - **[[i/_inebriated|Inebriated]], [[d/_drunk|drunk]].**
 ---

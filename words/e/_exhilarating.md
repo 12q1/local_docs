@@ -8,7 +8,7 @@
 ### Synonyms
 - [[e/_enliven|enliven]], [[s/_stimulate|stimulate]]
 #adjective
-- **Refreshingly thrilling.**
+- **[[r/_refreshingly|Refreshingly]] thrilling.**
 ---
 ### Synonyms
 - [[c/_cheering|cheering]], [[e/_enlivening|enlivening]], [[e/_exhilarant|exhilarant]], [[g/_gladdening|gladdening]], [[s/_stimulating|stimulating]]

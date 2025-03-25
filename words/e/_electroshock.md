@@ -1,7 +1,7 @@
 # Electroshock
 ---
 #noun
-- **(An) [[e/_electric|electric]] shock.**
+- **(An) [[e/_electric|electric]] [[s/_shock|shock]].**
 - **[[e/_electroconvulsive|Electroconvulsive]] therapy.**
 ---
 #verb

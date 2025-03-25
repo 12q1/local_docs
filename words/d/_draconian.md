@@ -1,7 +1,7 @@
 # Draconian
 ---
 #adjective
-- **Very severe or strict.**
+- **Very [[s/_severe|severe]] or strict.**
 	- _Example: The Soviet regime was draconian._
 ---
 ### Synonyms

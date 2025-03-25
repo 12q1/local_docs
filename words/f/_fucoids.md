@@ -1,6 +1,6 @@
 # Fucoids
 ---
 #noun
-- **A [[f/_fucoid|fucoid]] seaweed.**
+- **A [[f/_fucoid|fucoid]] [[s/_seaweed|seaweed]].**
 ---
 ---

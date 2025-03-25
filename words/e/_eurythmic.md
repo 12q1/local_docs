@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[h/_harmonious|Harmonious]]**
-- **Of, or relating to, [[e/_eurythmics|eurythmics]]**
-- **Of, or relating to, [[e/_eurythmy|eurythmy]]**
+- **Of, or [[r/_relating|relating]] to, [[e/_eurythmics|eurythmics]]**
+- **Of, or [[r/_relating|relating]] to, [[e/_eurythmy|eurythmy]]**
 ---
 ---

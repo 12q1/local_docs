@@ -1,7 +1,7 @@
 # Heartbroken
 ---
 #adjective
-- **Suffering from [[g/_grief|grief]], [[e/_especially|especially]] [[a/_after|after]] a [[f/_failed|failed]] romance.**
+- **Suffering from [[g/_grief|grief]], [[e/_especially|especially]] [[a/_after|after]] a [[f/_failed|failed]] [[r/_romance|romance]].**
 	- _Example: When he told me he didn't want to see me anymore, I was heartbroken._
 ---
 ### Synonyms

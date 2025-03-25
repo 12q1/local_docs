@@ -1,6 +1,6 @@
 # Yajna
 ---
 #noun
-- **A ritual of sacrifice to the [[d/_devas|Devas]].**
+- **A [[r/_ritual|ritual]] of [[s/_sacrifice|sacrifice]] to the [[d/_devas|Devas]].**
 ---
 ---

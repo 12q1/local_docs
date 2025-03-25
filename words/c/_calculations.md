@@ -1,9 +1,9 @@
 # Calculations
 ---
 #noun
-- **The [[a/_act|act]] or process of [[c/_calculating|calculating]].**
-- **The result of [[c/_calculating|calculating]].**
-- **Reckoning, [[e/_estimate|estimate]].**
+- **The [[a/_act|act]] or [[p/_process|process]] of [[c/_calculating|calculating]].**
+- **The [[r/_result|result]] of [[c/_calculating|calculating]].**
+- **[[r/_reckoning|Reckoning]], [[e/_estimate|estimate]].**
 	- _Example: By my calculation, we should be there by midnight._
 - **An [[e/_expectation|expectation]] [[b/_based|based]] on [[c/_circumstances|circumstances]].**
 ---

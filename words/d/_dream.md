@@ -1,15 +1,15 @@
 # Dream
 ---
 #noun
-- **[[i/_imaginary|Imaginary]] [[e/_events|events]] seen in the [[m/_mind|mind]] while sleeping.**
+- **[[i/_imaginary|Imaginary]] [[e/_events|events]] [[s/_seen|seen]] in the [[m/_mind|mind]] while [[s/_sleeping|sleeping]].**
 - **A [[h/_hope|hope]] or wish.**
-- **A visionary scheme; a wild [[c/_conceit|conceit]]; an [[i/_idle|idle]] [[f/_fancy|fancy]].**
+- **A visionary [[s/_scheme|scheme]]; a wild [[c/_conceit|conceit]]; an [[i/_idle|idle]] [[f/_fancy|fancy]].**
 	- _Example: a dream of bliss_
 ---
 ### Synonyms
 - [[s/_sweven|sweven]], [[v/_vision|vision]]
 #verb
-- **To see [[i/_imaginary|imaginary]] [[e/_events|events]] in [[o/_one|one]]'s [[m/_mind|mind]] while sleeping.**
+- **To [[s/_see|see]] [[i/_imaginary|imaginary]] [[e/_events|events]] in [[o/_one|one]]'[[s/_s|s]] [[m/_mind|mind]] while [[s/_sleeping|sleeping]].**
 - **To [[h/_hope|hope]], to wish.**
 - **To [[d/_daydream|daydream]].**
 	- _Example: Stop dreaming and get back to work._

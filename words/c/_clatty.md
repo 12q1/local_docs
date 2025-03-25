@@ -1,9 +1,9 @@
 # Clatty
 ---
 #noun
-- **A shabby, slovenly [[p/_person|person]].**
+- **A [[s/_shabby|shabby]], [[s/_slovenly|slovenly]] [[p/_person|person]].**
 ---
 #adjective
-- **Shabby, [[d/_dirty|dirty]], [[g/_greasy|greasy]].**
+- **[[s/_shabby|Shabby]], [[d/_dirty|dirty]], [[g/_greasy|greasy]].**
 ---
 ---

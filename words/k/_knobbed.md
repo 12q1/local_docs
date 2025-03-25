@@ -1,7 +1,7 @@
 # Knobbed
 ---
 #verb
-- **(of a [[m/_man|man]]) To [[h/_have|have]] sex with.**
+- **(of a [[m/_man|man]]) To [[h/_have|have]] [[s/_sex|sex]] with.**
 ---
 ### Synonyms
 - [[d/_dick|dick]], [[s/_schlong|schlong]]

@@ -1,6 +1,6 @@
 # Geopolitical
 ---
 #adjective
-- **Of, or relating to [[g/_geopolitics|geopolitics]].**
+- **Of, or [[r/_relating|relating]] to [[g/_geopolitics|geopolitics]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Instruments
 ---
 #noun
-- **A [[d/_device|device]] used to produce [[m/_music|music]].**
+- **A [[d/_device|device]] used to [[p/_produce|produce]] [[m/_music|music]].**
 	- _Example: The violinist was a master of her instrument._
 - **A [[m/_means|means]] or [[a/_agency|agency]] for [[a/_achieving|achieving]] an [[e/_effect|effect]].**
 - **A [[m/_measuring|measuring]] or [[d/_displaying|displaying]] [[d/_device|device]].**

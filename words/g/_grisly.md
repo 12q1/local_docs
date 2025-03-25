@@ -1,7 +1,7 @@
 # Grisly
 ---
 #adjective
-- **[[h/_horrifyingly|Horrifyingly]] repellent; [[g/_gruesome|gruesome]], terrifying.**
+- **[[h/_horrifyingly|Horrifyingly]] [[r/_repellent|repellent]]; [[g/_gruesome|gruesome]], terrifying.**
 	- _Example: The photographs of the killings depict a grisly scene._
 ---
 ### Synonyms

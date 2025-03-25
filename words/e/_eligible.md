@@ -4,7 +4,7 @@
 - **[[o/_one|One]] who is [[e/_eligible|eligible]].**
 ---
 #adjective
-- **[[a/_allowed|Allowed]] to and [[m/_meeting|meeting]] the [[n/_necessary|necessary]] [[c/_conditions|conditions]] required to [[p/_participate|participate]] in or be [[c/_chosen|chosen]] for something**
+- **[[a/_allowed|Allowed]] to and [[m/_meeting|meeting]] the [[n/_necessary|necessary]] [[c/_conditions|conditions]] [[r/_required|required]] to [[p/_participate|participate]] in or be [[c/_chosen|chosen]] for [[s/_something|something]]**
 - **Worthy of [[b/_being|being]] [[c/_chosen|chosen]] (for [[m/_marriage|marriage]])**
 ---
 ### Synonyms

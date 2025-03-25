@@ -1,10 +1,10 @@
 # Bellowing
 ---
 #verb
-- **To [[m/_make|make]] a [[l/_loud|loud]], [[d/_deep|deep]], [[h/_hollow|hollow]] [[n/_noise|noise]] [[l/_like|like]] the roar of an [[a/_angry|angry]] [[b/_bull|bull]].**
-- **To shout in a [[d/_deep|deep]] voice.**
+- **To [[m/_make|make]] a [[l/_loud|loud]], [[d/_deep|deep]], [[h/_hollow|hollow]] [[n/_noise|noise]] [[l/_like|like]] the [[r/_roar|roar]] of an [[a/_angry|angry]] [[b/_bull|bull]].**
+- **To [[s/_shout|shout]] in a [[d/_deep|deep]] voice.**
 ---
 #noun
-- **The sound produced when someone or something [[b/_bellows|bellows]]**
+- **The [[s/_sound|sound]] [[p/_produced|produced]] when [[s/_someone|someone]] or [[s/_something|something]] [[b/_bellows|bellows]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Harvested
 ---
 #verb
-- **To [[b/_bring|bring]] in a [[h/_harvest|harvest]]; reap; [[g/_glean|glean]].**
+- **To [[b/_bring|bring]] in a [[h/_harvest|harvest]]; [[r/_reap|reap]]; [[g/_glean|glean]].**
 - **To be [[o/_occupied|occupied]] [[b/_bringing|bringing]] in a [[h/_harvest|harvest]]**
 	- _Example: Harvesting is a stressing, thirsty occupation_
 - **To win, [[a/_achieve|achieve]] a [[g/_gain|gain]].**

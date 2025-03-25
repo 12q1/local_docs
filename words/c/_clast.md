@@ -1,6 +1,6 @@
 # Clast
 ---
 #noun
-- **A [[f/_fragment|fragment]] of rock that was [[b/_broken|broken]] from a [[l/_larger|larger]] rock or rock unit.**
+- **A [[f/_fragment|fragment]] of [[r/_rock|rock]] that was [[b/_broken|broken]] from a [[l/_larger|larger]] [[r/_rock|rock]] or [[r/_rock|rock]] unit.**
 ---
 ---

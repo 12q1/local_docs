@@ -1,6 +1,6 @@
 # Chitty
 ---
 #noun
-- **A small [[n/_note|note]], such as a [[p/_pass|pass]] or voucher slip; a [[c/_chit|chit]].**
+- **A [[s/_small|small]] [[n/_note|note]], such as a [[p/_pass|pass]] or voucher [[s/_slip|slip]]; a [[c/_chit|chit]].**
 ---
 ---

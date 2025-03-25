@@ -2,13 +2,13 @@
 ---
 #noun
 - **The water [[h/_held|held]] [[b/_back|back]] by a [[d/_dam|dam]] or [[o/_other|other]] [[o/_obstruction|obstruction]]**
-- **A remote [[p/_place|place]]; somewhere that remains unaffected by [[n/_new|new]] [[e/_events|events]], progresses, [[i/_ideas|ideas]], [[e/_etc|etc]].**
-- **A rowing stroke in which the [[o/_oar|oar]] is pushed [[f/_forward|forward]] to stop the [[b/_boat|boat]]; see [[b/_back|back]] water**
+- **A [[r/_remote|remote]] [[p/_place|place]]; [[s/_somewhere|somewhere]] that [[r/_remains|remains]] unaffected by [[n/_new|new]] [[e/_events|events]], [[p/_progresses|progresses]], [[i/_ideas|ideas]], [[e/_etc|etc]].**
+- **A [[r/_rowing|rowing]] stroke in which the [[o/_oar|oar]] is [[p/_pushed|pushed]] [[f/_forward|forward]] to stop the [[b/_boat|boat]]; [[s/_see|see]] [[b/_back|back]] water**
 ---
 ### Synonyms
 - [[P/_Podunk|Podunk]]
 #verb
-- **To row or [[p/_paddle|paddle]] a [[b/_backwater|backwater]] stroke.**
+- **To [[r/_row|row]] or [[p/_paddle|paddle]] a [[b/_backwater|backwater]] stroke.**
 - **To vacillate on a [[l/_long|long]]-[[h/_held|held]] [[p/_position|position]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Lover
 ---
 #noun
-- **[[o/_one|One]] who [[l/_loves|loves]] and [[c/_cares|cares]] for [[a/_another|another]] [[p/_person|person]] in a romantic way; a sweetheart, [[l/_love|love]], soulmate, [[b/_boyfriend|boyfriend]], [[g/_girlfriend|girlfriend]] or spouse.**
-- **A sexual [[p/_partner|partner]], [[e/_especially|especially]] [[o/_one|one]] with whom someone is [[h/_having|having]] an [[a/_affair|affair]].**
-- **A [[p/_person|person]] who [[l/_loves|loves]] something.**
+- **[[o/_one|One]] who [[l/_loves|loves]] and [[c/_cares|cares]] for [[a/_another|another]] [[p/_person|person]] in a [[r/_romantic|romantic]] way; a sweetheart, [[l/_love|love]], soulmate, [[b/_boyfriend|boyfriend]], [[g/_girlfriend|girlfriend]] or spouse.**
+- **A [[s/_sexual|sexual]] [[p/_partner|partner]], [[e/_especially|especially]] [[o/_one|one]] with whom [[s/_someone|someone]] is [[h/_having|having]] an [[a/_affair|affair]].**
+- **A [[p/_person|person]] who [[l/_loves|loves]] [[s/_something|something]].**
 	- _Example: a lover of fine wines_
 - **(with "[[m/_my|my]]") An [[i/_informal|informal]] term of [[a/_address|address]] for [[a/_any|any]] [[f/_friend|friend]].**
 	- _Example: All right, me lover?_

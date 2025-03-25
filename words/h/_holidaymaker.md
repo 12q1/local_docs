@@ -1,7 +1,7 @@
 # Holidaymaker
 ---
 #noun
-- **Someone who is on [[h/_holiday|holiday]]**
+- **[[s/_someone|Someone]] who is on [[h/_holiday|holiday]]**
 	- _Example: The beaches were crowded with holidaymakers._
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Exiguous
 ---
 #adjective
-- **Scanty; [[m/_meager|meager]]**
+- **[[s/_scanty|Scanty]]; [[m/_meager|meager]]**
 ---
 ---

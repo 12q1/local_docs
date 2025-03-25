@@ -1,7 +1,7 @@
 # Juts
 ---
 #noun
-- **Something that sticks [[o/_out|out]].**
+- **[[s/_something|Something]] that sticks [[o/_out|out]].**
 ---
 ### Synonyms
 - [[o/_outcrop|outcrop]], [[p/_protrusion|protrusion]]

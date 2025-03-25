@@ -1,6 +1,6 @@
 # Ibuprofen
 ---
 #noun
-- **An NSAID, isobutylphenyl propionic [[a/_acid|acid]].**
+- **An NSAID, isobutylphenyl [[p/_propionic|propionic]] [[a/_acid|acid]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Halloos
 ---
 #noun
-- **A shout of [[h/_halloo|halloo]].**
+- **A [[s/_shout|shout]] of [[h/_halloo|halloo]].**
 ---
 ---

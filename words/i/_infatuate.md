@@ -8,7 +8,7 @@
 - **To [[m/_make|make]] [[f/_foolish|foolish]].**
 ---
 #adjective
-- **[[i/_infatuated|Infatuated]], [[f/_foolishly|foolishly]] [[a/_attracted|attracted]] to (someone).**
+- **[[i/_infatuated|Infatuated]], [[f/_foolishly|foolishly]] [[a/_attracted|attracted]] to ([[s/_someone|someone]]).**
 - **[[f/_foolish|Foolish]], [[l/_lacking|lacking]] [[g/_good|good]] [[j/_judgement|judgement]].**
 ---
 ---

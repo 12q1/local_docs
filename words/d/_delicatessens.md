@@ -1,6 +1,6 @@
 # Delicatessens
 ---
 #noun
-- **A shop that sells [[c/_cooked|cooked]] or [[p/_prepared|prepared]] [[f/_foods|foods]] ready for serving.**
+- **A [[s/_shop|shop]] that [[s/_sells|sells]] [[c/_cooked|cooked]] or [[p/_prepared|prepared]] [[f/_foods|foods]] [[r/_ready|ready]] for [[s/_serving|serving]].**
 ---
 ---

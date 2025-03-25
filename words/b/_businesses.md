@@ -3,30 +3,30 @@
 #noun
 - **A specific [[c/_commercial|commercial]] [[e/_enterprise|enterprise]] or [[e/_establishment|establishment]].**
 	- _Example: I was left my father's business._
-- **A [[p/_person|person]]'s [[o/_occupation|occupation]], work, or trade.**
+- **A [[p/_person|person]]'[[s/_s|s]] [[o/_occupation|occupation]], work, or trade.**
 	- _Example: He is in the motor and insurance businesses._
-- **[[c/_commercial|Commercial]], [[i/_industrial|industrial]], or professional [[a/_activity|activity]].**
+- **[[c/_commercial|Commercial]], [[i/_industrial|industrial]], or [[p/_professional|professional]] [[a/_activity|activity]].**
 	- _Example: He's such a poor cook, I can't believe he's still in business!_
 - **The volume or [[a/_amount|amount]] of [[c/_commercial|commercial]] trade.**
 	- _Example: Business has been slow lately._
-- **[[o/_one|One]]'s [[d/_dealings|dealings]]; [[p/_patronage|patronage]].**
+- **[[o/_one|One]]'[[s/_s|s]] [[d/_dealings|dealings]]; [[p/_patronage|patronage]].**
 	- _Example: I shall take my business elsewhere._
-- **Private [[c/_commercial|commercial]] [[i/_interests|interests]] taken [[c/_collectively|collectively]].**
+- **[[p/_private|Private]] [[c/_commercial|commercial]] [[i/_interests|interests]] taken [[c/_collectively|collectively]].**
 	- _Example: This proposal will satisfy both business and labor._
 - **The [[m/_management|management]] of [[c/_commercial|commercial]] [[e/_enterprises|enterprises]], or the study of such [[m/_management|management]].**
 	- _Example: I studied business at Harvard._
-- **A [[p/_particular|particular]] situation or [[a/_activity|activity]].**
+- **A [[p/_particular|particular]] [[s/_situation|situation]] or [[a/_activity|activity]].**
 	- _Example: This UFO stuff is a mighty strange business._
 - **[[a/_any|Any]] [[a/_activity|activity]] or [[o/_objective|objective]] [[n/_needing|needing]] to be [[d/_dealt|dealt]] with; [[e/_especially|especially]], [[o/_one|one]] of a [[f/_financial|financial]] or [[l/_legal|legal]] [[m/_matter|matter]].**
 	- _Example: Let's get down to business._
-- **Something [[i/_involving|involving]] [[o/_one|one]] [[p/_personally|personally]].**
+- **[[s/_something|Something]] [[i/_involving|involving]] [[o/_one|one]] [[p/_personally|personally]].**
 	- _Example: That's none of your business._
-- **([[p/_parliamentary|parliamentary]] procedure) [[m/_matters|Matters]] that [[c/_come|come]] [[b/_before|before]] a [[b/_body|body]] for [[d/_deliberation|deliberation]] or [[a/_action|action]].**
+- **([[p/_parliamentary|parliamentary]] [[p/_procedure|procedure]]) [[m/_matters|Matters]] that [[c/_come|come]] [[b/_before|before]] a [[b/_body|body]] for [[d/_deliberation|deliberation]] or [[a/_action|action]].**
 	- _Example: If that concludes the announcements, we'll move on to new business._
-- **(travel) [[b/_business|Business]] [[c/_class|class]], the [[c/_class|class]] of seating provided by [[a/_airlines|airlines]] [[b/_between|between]] [[f/_first|first]] [[c/_class|class]] and [[c/_coach|coach]].**
-- **[[a/_action|Action]] [[c/_carried|carried]] [[o/_out|out]] with a prop or [[p/_piece|piece]] of [[c/_clothing|clothing]], usually [[a/_away|away]] from the [[f/_focus|focus]] of the scene.**
+- **(travel) [[b/_business|Business]] [[c/_class|class]], the [[c/_class|class]] of [[s/_seating|seating]] [[p/_provided|provided]] by [[a/_airlines|airlines]] [[b/_between|between]] [[f/_first|first]] [[c/_class|class]] and [[c/_coach|coach]].**
+- **[[a/_action|Action]] [[c/_carried|carried]] [[o/_out|out]] with a [[p/_prop|prop]] or [[p/_piece|piece]] of [[c/_clothing|clothing]], usually [[a/_away|away]] from the [[f/_focus|focus]] of the [[s/_scene|scene]].**
 - **The [[c/_collective|collective]] [[n/_noun|noun]] for a [[g/_group|group]] of [[f/_ferrets|ferrets]].**
-- **Something very [[g/_good|good]]; top quality. ([[p/_possibly|possibly]] from "the [[b/_bee|bee]]'s [[k/_knees|knees]]")**
+- **[[s/_something|Something]] very [[g/_good|good]]; top [[q/_quality|quality]]. ([[p/_possibly|possibly]] from "the [[b/_bee|bee]]'[[s/_s|s]] [[k/_knees|knees]]")**
 	- _Example: These new phones are the business!_
 - **[[e/_excrement|Excrement]], [[p/_particularly|particularly]] that of a [[n/_non|non]]-[[h/_human|human]] [[a/_animal|animal]].**
 	- _Example: As the cart went by, its horse lifted its tail and did its business._

@@ -6,6 +6,6 @@
 	- _Example: to imbibe knowledge_
 ---
 #noun
-- **The [[a/_act|act]] by which something is [[i/_imbibed|imbibed]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[i/_imbibed|imbibed]].**
 ---
 ---

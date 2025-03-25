@@ -1,7 +1,7 @@
 # Hoaxer
 ---
 #noun
-- **Someone who [[p/_perpetrates|perpetrates]] [[h/_hoaxes|hoaxes]].**
+- **[[s/_someone|Someone]] who [[p/_perpetrates|perpetrates]] [[h/_hoaxes|hoaxes]].**
 ---
 ### Synonyms
 - [[h/_hoaxster|hoaxster]]

@@ -1,6 +1,6 @@
 # Daydreams
 ---
 #noun
-- **A spontaneous and [[f/_fanciful|fanciful]] series of thoughts while [[a/_awake|awake]] not [[c/_connected|connected]] to [[i/_immediate|immediate]] reality.**
+- **A spontaneous and [[f/_fanciful|fanciful]] [[s/_series|series]] of thoughts while [[a/_awake|awake]] not [[c/_connected|connected]] to [[i/_immediate|immediate]] [[r/_reality|reality]].**
 ---
 ---

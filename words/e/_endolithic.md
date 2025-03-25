@@ -1,6 +1,6 @@
 # Endolithic
 ---
 #adjective
-- **Within rock.**
+- **Within [[r/_rock|rock]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Equipotential
 ---
 #noun
-- **A region whose [[e/_every|every]] [[p/_point|point]] [[h/_has|has]] the same [[p/_potential|potential]].**
+- **A [[r/_region|region]] whose [[e/_every|every]] [[p/_point|point]] [[h/_has|has]] the [[s/_same|same]] [[p/_potential|potential]].**
 ---
 ### Synonyms
 - [[i/_isopotential|isopotential]]

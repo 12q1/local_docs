@@ -11,7 +11,7 @@
 #interjection
 - **[[i/_indicates|Indicates]] [[e/_emphatic|emphatic]] [[a/_agreement|agreement]].**
 	- _Example: "I am a great runner." "Indeed!"_
-- **With [[i/_interrogative|interrogative]] [[i/_intonation|intonation]] ([[l/_low|low]]-[[h/_high|high]]) [[i/_indicates|indicates]] serious [[d/_doubt|doubt]].**
+- **With [[i/_interrogative|interrogative]] [[i/_intonation|intonation]] ([[l/_low|low]]-[[h/_high|high]]) [[i/_indicates|indicates]] [[s/_serious|serious]] [[d/_doubt|doubt]].**
 	- _Example: "I am a great runner." "Indeed?"_
 ---
 ### Synonyms

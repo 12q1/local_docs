@@ -1,6 +1,6 @@
 # Fescennine
 ---
 #adjective
-- **[[o/_obscene|Obscene]] or scurrilous.**
+- **[[o/_obscene|Obscene]] or [[s/_scurrilous|scurrilous]].**
 ---
 ---

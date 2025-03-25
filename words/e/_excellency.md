@@ -1,6 +1,6 @@
 # Excellency
 ---
 #noun
-- **The quality of [[b/_being|being]] [[e/_excellent|excellent]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[e/_excellent|excellent]].**
 ---
 ---

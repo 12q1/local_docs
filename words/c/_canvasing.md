@@ -5,6 +5,6 @@
 - **[[a/_alternative|Alternative]] spelling of [[c/_canvass|canvass]].**
 ---
 #noun
-- **The [[a/_act|act]] of [[o/_one|one]] who [[c/_canvases|canvases]] or solicits.**
+- **The [[a/_act|act]] of [[o/_one|one]] who [[c/_canvases|canvases]] or [[s/_solicits|solicits]].**
 ---
 ---

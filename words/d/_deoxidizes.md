@@ -1,6 +1,6 @@
 # Deoxidizes
 ---
 #verb
-- **To remove [[o/_oxygen|oxygen]] from.**
+- **To [[r/_remove|remove]] [[o/_oxygen|oxygen]] from.**
 ---
 ---

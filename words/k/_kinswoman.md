@@ -1,6 +1,6 @@
 # Kinswoman
 ---
 #noun
-- **A [[f/_female|female]] relative.**
+- **A [[f/_female|female]] [[r/_relative|relative]].**
 ---
 ---

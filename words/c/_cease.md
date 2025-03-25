@@ -1,12 +1,12 @@
 # Cease
 ---
 #noun
-- **[[c/_cessation|Cessation]]; [[e/_extinction|extinction]] (see without [[c/_cease|cease]]).**
+- **[[c/_cessation|Cessation]]; [[e/_extinction|extinction]] ([[s/_see|see]] without [[c/_cease|cease]]).**
 ---
 #verb
 - **To stop.**
 	- _Example: And with that, his twitching ceased._
-- **To stop [[d/_doing|doing]] (something).**
+- **To stop [[d/_doing|doing]] ([[s/_something|something]]).**
 	- _Example: And with that, he ceased twitching._
 - **To be wanting; to [[f/_fail|fail]]; to [[p/_pass|pass]] [[a/_away|away]].**
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_laundering|laundering]]; a washing.**
-- **A [[p/_place|place]] or room where [[l/_laundering|laundering]] is [[d/_done|done]] - [[i/_including|including]], by [[e/_extension|extension]], [[o/_other|other]] [[f/_forms|forms]] of [[l/_laundering|laundering]] than [[c/_clothes|clothes]] washing.**
+- **A [[p/_place|place]] or [[r/_room|room]] where [[l/_laundering|laundering]] is [[d/_done|done]] - [[i/_including|including]], by [[e/_extension|extension]], [[o/_other|other]] [[f/_forms|forms]] of [[l/_laundering|laundering]] than [[c/_clothes|clothes]] washing.**
 - **That which [[n/_needs|needs]] to be, is [[b/_being|being]], or [[h/_has|has]] [[b/_been|been]] [[l/_laundered|laundered]].**
 	- _Example: You've left your dirty laundry all over the house._
 ---

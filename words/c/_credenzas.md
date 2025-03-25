@@ -1,7 +1,7 @@
 # Credenzas
 ---
 #noun
-- **A sideboard or [[b/_buffet|buffet]].**
+- **A [[s/_sideboard|sideboard]] or [[b/_buffet|buffet]].**
 - **A [[h/_horizontal|horizontal]] [[f/_filing|filing]] [[c/_cabinet|cabinet]], typically [[p/_placed|placed]] [[b/_behind|behind]] a [[d/_desk|desk]].**
 ---
 ---

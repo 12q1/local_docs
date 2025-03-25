@@ -1,6 +1,6 @@
 # Deveining
 ---
 #verb
-- **To remove the vein-[[l/_like|like]] [[c/_colon|colon]] from (shrimp).**
+- **To [[r/_remove|remove]] the vein-[[l/_like|like]] [[c/_colon|colon]] from ([[s/_shrimp|shrimp]]).**
 ---
 ---

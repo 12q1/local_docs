@@ -1,7 +1,7 @@
 # Litigious
 ---
 #adjective
-- **Of or relating to [[l/_litigation|litigation]].**
+- **Of or [[r/_relating|relating]] to [[l/_litigation|litigation]].**
 - **[[i/_inclined|Inclined]] to [[e/_engage|engage]] in [[l/_lawsuits|lawsuits]].**
 - **[[a/_argumentative|Argumentative]] or [[c/_combative|combative]].**
 ---

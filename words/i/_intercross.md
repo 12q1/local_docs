@@ -1,7 +1,7 @@
 # Intercross
 ---
 #noun
-- **The [[a/_act|act]] or product of [[i/_intercrossing|intercrossing]]**
+- **The [[a/_act|act]] or [[p/_product|product]] of [[i/_intercrossing|intercrossing]]**
 ---
 #verb
 - **To [[c/_cross|cross]] [[b/_back|back]] [[o/_over|over]] [[o/_one|one]] [[a/_another|another]]**

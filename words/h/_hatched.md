@@ -10,7 +10,7 @@
 - **To [[d/_devise|devise]].**
 ---
 #verb
-- **To shade an [[a/_area|area]] of (a [[d/_drawing|drawing]], [[d/_diagram|diagram]], [[e/_etc|etc]].) with [[f/_fine|fine]] [[p/_parallel|parallel]] [[l/_lines|lines]], or with [[l/_lines|lines]] which [[c/_cross|cross]] [[e/_each|each]] [[o/_other|other]] ([[c/_cross|cross]]-[[h/_hatch|hatch]]).**
+- **To [[s/_shade|shade]] an [[a/_area|area]] of (a [[d/_drawing|drawing]], [[d/_diagram|diagram]], [[e/_etc|etc]].) with [[f/_fine|fine]] [[p/_parallel|parallel]] [[l/_lines|lines]], or with [[l/_lines|lines]] which [[c/_cross|cross]] [[e/_each|each]] [[o/_other|other]] ([[c/_cross|cross]]-[[h/_hatch|hatch]]).**
 - **To [[c/_cross|cross]]; to spot; to stain; to steep.**
 ---
 ---

@@ -4,6 +4,6 @@
 - **An [[e/_exploration|exploration]] or [[i/_investigation|investigation]]**
 ---
 #adjective
-- **Serving to [[e/_explore|explore]] or [[i/_investigate|investigate]].**
+- **[[s/_serving|Serving]] to [[e/_explore|explore]] or [[i/_investigate|investigate]].**
 ---
 ---

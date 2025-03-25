@@ -1,6 +1,6 @@
 # Dazzlers
 ---
 #noun
-- **[[o/_one|One]] who or that which [[d/_dazzles|dazzles]]; something spectacular.**
+- **[[o/_one|One]] who or that which [[d/_dazzles|dazzles]]; [[s/_something|something]] spectacular.**
 ---
 ---

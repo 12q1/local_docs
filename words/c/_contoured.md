@@ -6,6 +6,6 @@
 - **To [[p/_practise|practise]] the [[m/_makeup|makeup]] technique of [[c/_contouring|contouring]].**
 ---
 #adjective
-- **Smoothly shaped**
+- **[[s/_smoothly|Smoothly]] [[s/_shaped|shaped]]**
 ---
 ---

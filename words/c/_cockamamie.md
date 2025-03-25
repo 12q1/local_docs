@@ -2,10 +2,10 @@
 ---
 #noun
 - **A [[d/_decal|decal]], a [[d/_design|design]] that [[c/_can|can]] be transferred to a surface.**
-- **A [[f/_foolish|foolish]] or ridiculous [[p/_person|person]].**
+- **A [[f/_foolish|foolish]] or [[r/_ridiculous|ridiculous]] [[p/_person|person]].**
 ---
 #adjective
-- **[[f/_foolish|Foolish]], [[i/_ill|ill]]-[[c/_considered|considered]], silly, unbelievable.**
+- **[[f/_foolish|Foolish]], [[i/_ill|ill]]-[[c/_considered|considered]], [[s/_silly|silly]], unbelievable.**
 - **Trifling.**
 ---
 ### Synonyms

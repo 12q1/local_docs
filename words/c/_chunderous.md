@@ -1,6 +1,6 @@
 # Chunderous
 ---
 #adjective
-- **Sickening; [[n/_nauseating|nauseating]]**
+- **[[s/_sickening|Sickening]]; [[n/_nauseating|nauseating]]**
 ---
 ---

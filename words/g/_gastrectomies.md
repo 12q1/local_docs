@@ -1,6 +1,6 @@
 # Gastrectomies
 ---
 #noun
-- **Removal or [[p/_partial|partial]] removal of the stomach**
+- **[[r/_removal|Removal]] or [[p/_partial|partial]] [[r/_removal|removal]] of the stomach**
 ---
 ---

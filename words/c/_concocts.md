@@ -1,9 +1,9 @@
 # Concocts
 ---
 #verb
-- **To [[p/_prepare|prepare]] something by [[m/_mixing|mixing]] various [[i/_ingredients|ingredients]], [[e/_especially|especially]] to [[p/_prepare|prepare]] [[f/_food|food]] for [[c/_cooking|cooking]].**
+- **To [[p/_prepare|prepare]] [[s/_something|something]] by [[m/_mixing|mixing]] various [[i/_ingredients|ingredients]], [[e/_especially|especially]] to [[p/_prepare|prepare]] [[f/_food|food]] for [[c/_cooking|cooking]].**
 	- _Example: to concoct a new dish_
-- **To [[c/_contrive|contrive]] something using skill or [[i/_ingenuity|ingenuity]].**
+- **To [[c/_contrive|contrive]] [[s/_something|something]] using [[s/_skill|skill]] or [[i/_ingenuity|ingenuity]].**
 	- _Example: to concoct a cunning plan_
 - **To [[d/_digest|digest]].**
 ---

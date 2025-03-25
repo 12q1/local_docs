@@ -1,8 +1,8 @@
 # Disabled
 ---
 #verb
-- **To render unable; to take [[a/_away|away]] an [[a/_ability|ability]] of, as by [[c/_crippling|crippling]].**
-- **([[c/_chiefly|chiefly]] of a [[p/_person|person]]) To [[i/_impair|impair]] the [[p/_physical|physical]] or [[m/_mental|mental]] [[a/_abilities|abilities]] of; to [[c/_cause|cause]] a serious, [[p/_permanent|permanent]] [[i/_injury|injury]].**
+- **To [[r/_render|render]] unable; to take [[a/_away|away]] an [[a/_ability|ability]] of, as by [[c/_crippling|crippling]].**
+- **([[c/_chiefly|chiefly]] of a [[p/_person|person]]) To [[i/_impair|impair]] the [[p/_physical|physical]] or [[m/_mental|mental]] [[a/_abilities|abilities]] of; to [[c/_cause|cause]] a [[s/_serious|serious]], [[p/_permanent|permanent]] [[i/_injury|injury]].**
 	- _Example: Falling off the horse disabled him._
 - **To [[d/_deactivate|deactivate]], to [[m/_make|make]] [[i/_inoperational|inoperational]] ([[e/_especially|especially]] of a [[f/_function|function]] of an [[e/_electronic|electronic]] or [[m/_mechanical|mechanical]] [[d/_device|device]]).**
 	- _Example: The pilot had to disable the autopilot of his airplane._
@@ -12,7 +12,7 @@
 ### Antonyms
 - [[e/_enable|enable]]
 #noun
-- **[[o/_one|One]] who is [[d/_disabled|disabled]]. ([[o/_often|often]] used [[c/_collectively|collectively]] as the [[d/_disabled|disabled]], but sometimes [[a/_also|also]] singular)**
+- **[[o/_one|One]] who is [[d/_disabled|disabled]]. ([[o/_often|often]] used [[c/_collectively|collectively]] as the [[d/_disabled|disabled]], but [[s/_sometimes|sometimes]] [[a/_also|also]] [[s/_singular|singular]])**
 ---
 #adjective
 - **[[m/_made|Made]] [[i/_incapable|incapable]] of use or [[a/_action|action]].**

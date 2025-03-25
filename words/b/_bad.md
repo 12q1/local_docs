@@ -11,9 +11,9 @@
 	- _Example: Do you think it is a bad idea to confront him directly?_
 - **Not [[a/_appropriate|appropriate]], of [[m/_manners|manners]] [[e/_etc|etc]].**
 	- _Example: It is bad manners to talk with your mouth full._
-- **Unhealthy; [[l/_liable|liable]] to [[c/_cause|cause]] [[h/_health|health]] problems.**
+- **Unhealthy; [[l/_liable|liable]] to [[c/_cause|cause]] [[h/_health|health]] [[p/_problems|problems]].**
 	- _Example: Lard is bad for you. Smoking is bad for you, too. Grapes are bad for dogs but not for humans._
-- **Sickly, unhealthy, unwell.**
+- **[[s/_sickly|Sickly]], unhealthy, unwell.**
 	- _Example: I went to the hospital to see how my grandfather was doing. Unfortunately, he's in a bad state._
 - **Not [[b/_behaving|behaving]]; [[b/_behaving|behaving]] [[b/_badly|badly]]; [[m/_misbehaving|misbehaving]]; [[m/_mischievous|mischievous]] or [[d/_disobedient|disobedient]].**
 	- _Example: Stop being bad, or you will get a spanking!_
@@ -23,7 +23,7 @@
 	- _Example: Be careful. There are bad people in the world._
 - **[[f/_faulty|Faulty]]; not [[f/_functional|functional]].**
 	- _Example: I had a bad headlight._
-- **(of [[f/_food|food]]) Spoiled, rotten, [[o/_overripe|overripe]].**
+- **(of [[f/_food|food]]) Spoiled, [[r/_rotten|rotten]], [[o/_overripe|overripe]].**
 	- _Example: These apples have gone bad._
 - **(of [[b/_breath|breath]]) [[m/_malodorous|Malodorous]]; [[f/_foul|foul]].**
 	- _Example: Bad breath is not pleasant for anyone._
@@ -36,9 +36,9 @@
 - **[[b/_bold|Bold]] and [[d/_daring|daring]].**
 - **[[g/_good|Good]], superlative, [[e/_excellent|excellent]], [[c/_cool|cool]].**
 	- _Example: Man, that new car you bought is bad!_
-- **(of a [[n/_need|need]], want, or [[p/_pain|pain]]) Severe, urgent.**
+- **(of a [[n/_need|need]], want, or [[p/_pain|pain]]) [[s/_severe|Severe]], urgent.**
 	- _Example: He is in bad need of a haircut._
-- **[[o/_overly|Overly]] promiscuous, [[l/_licentious|licentious]].**
+- **[[o/_overly|Overly]] [[p/_promiscuous|promiscuous]], [[l/_licentious|licentious]].**
 - **(of a [[d/_draft|draft]]/[[c/_check|check]]) Not [[c/_covered|covered]] by [[f/_funds|funds]] on [[a/_account|account]].**
 	- _Example: He gave me a bad check._
 ---

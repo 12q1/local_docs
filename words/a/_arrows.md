@@ -1,11 +1,11 @@
 # Arrows
 ---
 #noun
-- **A projectile [[c/_consisting|consisting]] of a shaft, a [[p/_point|point]] and a tail with stabilizing [[f/_fins|fins]] that is shot from a [[b/_bow|bow]].**
-- **A sign or symbol used to [[i/_indicate|indicate]] a [[d/_direction|direction]] ([[e/_e|e]].[[g/_g|g]]. →).**
+- **A [[p/_projectile|projectile]] [[c/_consisting|consisting]] of a [[s/_shaft|shaft]], a [[p/_point|point]] and a tail with stabilizing [[f/_fins|fins]] that is [[s/_shot|shot]] from a [[b/_bow|bow]].**
+- **A [[s/_sign|sign]] or [[s/_symbol|symbol]] used to [[i/_indicate|indicate]] a [[d/_direction|direction]] ([[e/_e|e]].[[g/_g|g]]. →).**
 - **A [[d/_directed|directed]] [[e/_edge|edge]].**
 - **A [[d/_dart|dart]].**
-- **The -> symbol, which [[h/_has|has]] specific [[m/_meanings|meanings]] in various programming [[l/_languages|languages]].**
+- **The -> [[s/_symbol|symbol]], which [[h/_has|has]] specific [[m/_meanings|meanings]] in various [[p/_programming|programming]] [[l/_languages|languages]].**
 - **The [[i/_inflorescence|inflorescence]] or tassel of a [[m/_mature|mature]] sugar [[c/_cane|cane]] [[p/_plant|plant]].**
 ---
 ### Synonyms

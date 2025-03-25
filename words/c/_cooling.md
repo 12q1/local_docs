@@ -11,11 +11,11 @@
 ---
 #noun
 - **A [[d/_decrease|decrease]] in temperature.**
-- **Refrigeration.**
+- **[[r/_refrigeration|Refrigeration]].**
 ---
 #adjective
 - **That [[c/_cools|cools]].**
-- **([[a/_asian|Asian]] [[e/_english|English]]). Of [[f/_food|food]] or [[m/_medicine|medicine]], [[a/_according|according]] to traditional [[c/_chinese|Chinese]] [[m/_medicine|medicine]]: serving to [[c/_cool|cool]] or [[c/_calm|calm]] the [[b/_body|body]].**
+- **([[a/_asian|Asian]] [[e/_english|English]]). Of [[f/_food|food]] or [[m/_medicine|medicine]], [[a/_according|according]] to traditional [[c/_chinese|Chinese]] [[m/_medicine|medicine]]: [[s/_serving|serving]] to [[c/_cool|cool]] or [[c/_calm|calm]] the [[b/_body|body]].**
 ---
 ### Synonyms
 - [[f/_frigorific|frigorific]]

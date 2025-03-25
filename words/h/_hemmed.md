@@ -1,12 +1,12 @@
 # Hemmed
 ---
 #verb
-- **To [[m/_make|make]] the sound [[e/_expressed|expressed]] by the word [[h/_hem|hem]]; to [[h/_hesitate|hesitate]] in speaking.**
+- **To [[m/_make|make]] the [[s/_sound|sound]] [[e/_expressed|expressed]] by the word [[h/_hem|hem]]; to [[h/_hesitate|hesitate]] in [[s/_speaking|speaking]].**
 ---
 #verb
-- **(in sewing) To [[m/_make|make]] a [[h/_hem|hem]].**
-- **: To put [[h/_hem|hem]] on an [[a/_article|article]] of [[c/_clothing|clothing]], to [[e/_edge|edge]] or put a [[b/_border|border]] on something.**
-- **: To surround something or someone in a [[c/_confining|confining]] way.**
+- **(in [[s/_sewing|sewing]]) To [[m/_make|make]] a [[h/_hem|hem]].**
+- **: To [[p/_put|put]] [[h/_hem|hem]] on an [[a/_article|article]] of [[c/_clothing|clothing]], to [[e/_edge|edge]] or [[p/_put|put]] a [[b/_border|border]] on [[s/_something|something]].**
+- **: To surround [[s/_something|something]] or [[s/_someone|someone]] in a [[c/_confining|confining]] way.**
 	- _Example: A small yard hemmed about by a tall hedge._
 ---
 ---

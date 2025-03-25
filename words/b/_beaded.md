@@ -7,10 +7,10 @@
 	- _Example: She spent the morning beading the gown._
 - **To [[f/_form|form]] [[i/_into|into]] a [[b/_bead|bead]].**
 	- _Example: He beaded some solder for the ends of the wire._
-- **To [[c/_cause|cause]] [[b/_beads|beads]] to [[f/_form|form]] on (something).**
+- **To [[c/_cause|cause]] [[b/_beads|beads]] to [[f/_form|form]] on ([[s/_something|something]]).**
 ---
 #adjective
 - **[[m/_made|Made]] from, or [[d/_decorated|decorated]] with, [[b/_beads|beads]].**
-- **[[h/_having|Having]] [[f/_formed|formed]] in [[b/_beads|beads]] or a [[b/_bead|bead]]-[[l/_like|like]] shape.**
+- **[[h/_having|Having]] [[f/_formed|formed]] in [[b/_beads|beads]] or a [[b/_bead|bead]]-[[l/_like|like]] [[s/_shape|shape]].**
 ---
 ---

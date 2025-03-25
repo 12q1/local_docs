@@ -1,6 +1,6 @@
 # Debouchure
 ---
 #noun
-- **The [[o/_outward|outward]] [[o/_opening|opening]] of a river, valley, or strait.**
+- **The [[o/_outward|outward]] [[o/_opening|opening]] of a [[r/_river|river]], valley, or strait.**
 ---
 ---

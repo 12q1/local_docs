@@ -2,10 +2,10 @@
 ---
 #adjective
 - **[[b/_beloved|Beloved]], [[d/_dear|dear]], [[a/_agreeable|agreeable]].**
-- **Ready, willing.**
+- **[[r/_ready|Ready]], willing.**
 ---
 #adverb
-- **Readily, willingly, rather.**
+- **[[r/_readily|Readily]], willingly, [[r/_rather|rather]].**
 	- _Example: I'd as lief have one as t'other._
 ---
 ---

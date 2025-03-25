@@ -1,9 +1,9 @@
 # Enshrouding
 ---
 #verb
-- **To [[c/_cover|cover]] with (or as [[i/_if|if]] with) a shroud**
+- **To [[c/_cover|cover]] with (or as [[i/_if|if]] with) a [[s/_shroud|shroud]]**
 ---
 #noun
-- **The process or situation of something [[b/_being|being]] [[e/_enshrouded|enshrouded]]; a [[c/_covering|covering]].**
+- **The [[p/_process|process]] or [[s/_situation|situation]] of [[s/_something|something]] [[b/_being|being]] [[e/_enshrouded|enshrouded]]; a [[c/_covering|covering]].**
 ---
 ---

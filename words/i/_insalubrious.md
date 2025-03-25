@@ -1,6 +1,6 @@
 # Insalubrious
 ---
 #adjective
-- **Unhealthful, not providing or promoting [[h/_health|health]].**
+- **Unhealthful, not [[p/_providing|providing]] or [[p/_promoting|promoting]] [[h/_health|health]].**
 ---
 ---

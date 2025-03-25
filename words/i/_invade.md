@@ -9,7 +9,7 @@
 	- _Example: The picnic was invaded by ants._
 - **To [[a/_attack|attack]]; to [[i/_infringe|infringe]]; to [[e/_encroach|encroach]] on; to violate.**
 	- _Example: The king invaded the rights of the people._
-- **To [[m/_make|make]] an unwelcome or uninvited visit or [[a/_appearance|appearance]], usually with an [[i/_intent|intent]] to [[c/_cause|cause]] trouble or some [[o/_other|other]] unpleasant situation.**
+- **To [[m/_make|make]] an unwelcome or uninvited visit or [[a/_appearance|appearance]], usually with an [[i/_intent|intent]] to [[c/_cause|cause]] trouble or [[s/_some|some]] [[o/_other|other]] unpleasant [[s/_situation|situation]].**
 ---
 ### Antonyms
 - [[e/_evade|evade]]

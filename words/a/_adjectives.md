@@ -1,7 +1,7 @@
 # Adjectives
 ---
 #noun
-- **([[g/_grammar|grammar]]) A word that [[m/_modifies|modifies]] a [[n/_noun|noun]] or [[d/_describes|describes]] a [[n/_noun|noun]]’s referent.**
+- **([[g/_grammar|grammar]]) A word that [[m/_modifies|modifies]] a [[n/_noun|noun]] or [[d/_describes|describes]] a [[n/_noun|noun]]’[[s/_s|s]] [[r/_referent|referent]].**
 	- _Example: The words “big” and “heavy” are English adjectives._
 - **A [[d/_dependent|dependent]]; an [[a/_accessory|accessory]].**
 ---

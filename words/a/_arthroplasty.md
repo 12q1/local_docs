@@ -1,6 +1,6 @@
 # Arthroplasty
 ---
 #noun
-- **The surgical repair of a [[j/_joint|joint]], or [[c/_creation|creation]] of an [[a/_artificial|artificial]] [[j/_joint|joint]], such as a [[h/_hip|hip]] replacement**
+- **The surgical [[r/_repair|repair]] of a [[j/_joint|joint]], or [[c/_creation|creation]] of an [[a/_artificial|artificial]] [[j/_joint|joint]], such as a [[h/_hip|hip]] [[r/_replacement|replacement]]**
 ---
 ---

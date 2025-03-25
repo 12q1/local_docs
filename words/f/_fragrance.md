@@ -1,7 +1,7 @@
 # Fragrance
 ---
 #noun
-- **A [[p/_pleasant|pleasant]] smell or [[o/_odour|odour]].**
+- **A [[p/_pleasant|pleasant]] [[s/_smell|smell]] or [[o/_odour|odour]].**
 ---
 ### Synonyms
 - [[a/_aroma|aroma]]

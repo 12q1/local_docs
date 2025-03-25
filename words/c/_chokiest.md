@@ -1,6 +1,6 @@
 # Chokiest
 ---
 #adjective
-- **Reminiscent of [[c/_choking|choking]].**
+- **[[r/_reminiscent|Reminiscent]] of [[c/_choking|choking]].**
 ---
 ---

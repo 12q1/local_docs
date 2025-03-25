@@ -1,7 +1,7 @@
 # Augmentative
 ---
 #noun
-- **([[g/_grammar|grammar]]) A [[f/_form|form]] of word that [[e/_expresses|expresses]] [[l/_large|large]] size, [[i/_intensity|intensity]], or seniority**
+- **([[g/_grammar|grammar]]) A [[f/_form|form]] of word that [[e/_expresses|expresses]] [[l/_large|large]] [[s/_size|size]], [[i/_intensity|intensity]], or [[s/_seniority|seniority]]**
 ---
 ### Antonyms
 - [[d/_diminutive|diminutive]]

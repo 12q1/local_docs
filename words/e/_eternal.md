@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[l/_lasting|Lasting]] [[f/_forever|forever]]; unending.**
-- **[[e/_existing|Existing]] [[o/_outside|outside]] time; as [[o/_opposed|opposed]] to sempiternal, [[e/_existing|existing]] within time but [[e/_everlastingly|everlastingly]]**
+- **[[e/_existing|Existing]] [[o/_outside|outside]] time; as [[o/_opposed|opposed]] to [[s/_sempiternal|sempiternal]], [[e/_existing|existing]] within time but [[e/_everlastingly|everlastingly]]**
 - **[[e/_exceedingly|Exceedingly]] [[g/_great|great]] or [[b/_bad|bad]]; used as an [[i/_intensifier|intensifier]].**
 	- _Example: some eternal villain_
 ---

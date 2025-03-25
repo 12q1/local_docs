@@ -1,7 +1,7 @@
 # Calligraphy
 ---
 #noun
-- **The [[a/_art|art]] or [[p/_practice|practice]] of writing [[l/_letters|letters]] and words in a [[d/_decorative|decorative]] style; the [[l/_letters|letters]] and words so written.**
+- **The [[a/_art|art]] or [[p/_practice|practice]] of writing [[l/_letters|letters]] and words in a [[d/_decorative|decorative]] style; the [[l/_letters|letters]] and words [[s/_so|so]] written.**
 - **[[a/_any|Any]] such style of [[d/_decorative|decorative]] writing.**
 - **A [[d/_document|document]] written in [[d/_decorative|decorative]] style.**
 ---

@@ -2,10 +2,10 @@
 ---
 #verb
 - **To [[e/_emit|emit]] a [[b/_burp|burp]].**
-- **To [[c/_cause|cause]] someone (such as a [[b/_baby|baby]]) to [[b/_burp|burp]].**
+- **To [[c/_cause|cause]] [[s/_someone|someone]] (such as a [[b/_baby|baby]]) to [[b/_burp|burp]].**
 ---
 #noun
-- **The sound of a [[b/_burp|burp]].**
+- **The [[s/_sound|sound]] of a [[b/_burp|burp]].**
 - **The [[a/_act|act]] by which a [[b/_baby|baby]] is [[b/_burped|burped]].**
 ---
 ---

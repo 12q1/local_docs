@@ -1,16 +1,16 @@
 # Irregular
 ---
 #noun
-- **A soldier who is not a [[m/_member|member]] of an [[o/_official|official]] [[m/_military|military]] [[f/_force|force]] and, [[o/_often|often]], [[d/_does|does]] not [[f/_follow|follow]] regular [[a/_army|army]] tactics**
-- **[[o/_one|One]] who [[d/_does|does]] not regularly [[a/_attend|attend]] a venue**
+- **A [[s/_soldier|soldier]] who is not a [[m/_member|member]] of an [[o/_official|official]] [[m/_military|military]] [[f/_force|force]] and, [[o/_often|often]], [[d/_does|does]] not [[f/_follow|follow]] [[r/_regular|regular]] [[a/_army|army]] tactics**
+- **[[o/_one|One]] who [[d/_does|does]] not [[r/_regularly|regularly]] [[a/_attend|attend]] a venue**
 ---
 #adjective
-- **[[n/_nonstandard|Nonstandard]]; not [[c/_conforming|conforming]] to rules or [[e/_expectations|expectations]]**
-- **(of a surface) rough**
-- **Without symmetry, regularity, or uniformity**
-- **(of a [[p/_polygon|polygon]]) not regular; [[h/_having|having]] sides that are not [[e/_equal|equal]] or [[a/_angles|angles]] that are not [[e/_equal|equal]]**
-- **(of a [[p/_polyhedron|polyhedron]]) whose [[f/_faces|faces]] are not [[a/_all|all]] regular [[p/_polygons|polygons]] (or are not [[e/_equally|equally]] [[i/_inclined|inclined]] to [[e/_each|each]] [[o/_other|other]])**
-- **([[g/_grammar|grammar]], of a word) not [[f/_following|following]] the regular or [[e/_expected|expected]] [[p/_patterns|patterns]] of [[i/_inflection|inflection]] in a [[g/_given|given]] [[l/_language|language]]**
+- **[[n/_nonstandard|Nonstandard]]; not [[c/_conforming|conforming]] to [[r/_rules|rules]] or [[e/_expectations|expectations]]**
+- **(of a surface) [[r/_rough|rough]]**
+- **Without [[s/_symmetry|symmetry]], [[r/_regularity|regularity]], or uniformity**
+- **(of a [[p/_polygon|polygon]]) not [[r/_regular|regular]]; [[h/_having|having]] [[s/_sides|sides]] that are not [[e/_equal|equal]] or [[a/_angles|angles]] that are not [[e/_equal|equal]]**
+- **(of a [[p/_polyhedron|polyhedron]]) whose [[f/_faces|faces]] are not [[a/_all|all]] [[r/_regular|regular]] [[p/_polygons|polygons]] (or are not [[e/_equally|equally]] [[i/_inclined|inclined]] to [[e/_each|each]] [[o/_other|other]])**
+- **([[g/_grammar|grammar]], of a word) not [[f/_following|following]] the [[r/_regular|regular]] or [[e/_expected|expected]] [[p/_patterns|patterns]] of [[i/_inflection|inflection]] in a [[g/_given|given]] [[l/_language|language]]**
 	- _Example: "Calves", "cacti", and "children" are irregular plurals._
 ---
 ### Synonyms

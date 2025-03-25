@@ -1,6 +1,6 @@
 # Affectless
 ---
 #adjective
-- **[[l/_lacking|Lacking]] or not showing [[e/_emotion|emotion]].**
+- **[[l/_lacking|Lacking]] or not [[s/_showing|showing]] [[e/_emotion|emotion]].**
 ---
 ---

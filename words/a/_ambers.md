@@ -1,11 +1,11 @@
 # Ambers
 ---
 #noun
-- **[[a/_ambergris|Ambergris]], the waxy product of the sperm whale.**
-- **A [[h/_hard|hard]], [[g/_generally|generally]] [[y/_yellow|yellow]] to [[b/_brown|brown]] translucent [[f/_fossil|fossil]] resin, used for [[j/_jewellery|jewellery]]. [[o/_one|One]] variety, [[b/_blue|blue]] [[a/_amber|amber]], [[a/_appears|appears]] [[b/_blue|blue]] rather than [[y/_yellow|yellow]] under [[d/_direct|direct]] sunlight.**
+- **[[a/_ambergris|Ambergris]], the waxy [[p/_product|product]] of the sperm whale.**
+- **A [[h/_hard|hard]], [[g/_generally|generally]] [[y/_yellow|yellow]] to [[b/_brown|brown]] translucent [[f/_fossil|fossil]] [[r/_resin|resin]], used for [[j/_jewellery|jewellery]]. [[o/_one|One]] variety, [[b/_blue|blue]] [[a/_amber|amber]], [[a/_appears|appears]] [[b/_blue|blue]] [[r/_rather|rather]] than [[y/_yellow|yellow]] under [[d/_direct|direct]] sunlight.**
 - **A [[y/_yellow|yellow]]-[[o/_orange|orange]] [[c/_colour|colour]].**
-- **The [[i/_intermediate|intermediate]] [[l/_light|light]] in a set of three traffic [[l/_lights|lights]], which when [[i/_illuminated|illuminated]] [[i/_indicates|indicates]] that [[d/_drivers|drivers]] should stop short of the [[i/_intersection|intersection]] [[i/_if|if]] it is safe to [[d/_do|do]] so.**
-- **The stop [[c/_codon|codon]] ([[n/_nucleotide|nucleotide]] triplet) "UAG", or a [[m/_mutant|mutant]] which [[h/_has|has]] this stop [[c/_codon|codon]] at a [[p/_premature|premature]] [[p/_place|place]] in [[i/_its|its]] DNA sequence.**
+- **The [[i/_intermediate|intermediate]] [[l/_light|light]] in a [[s/_set|set]] of three traffic [[l/_lights|lights]], which when [[i/_illuminated|illuminated]] [[i/_indicates|indicates]] that [[d/_drivers|drivers]] [[s/_should|should]] stop [[s/_short|short]] of the [[i/_intersection|intersection]] [[i/_if|if]] it is [[s/_safe|safe]] to [[d/_do|do]] [[s/_so|so]].**
+- **The stop [[c/_codon|codon]] ([[n/_nucleotide|nucleotide]] triplet) "UAG", or a [[m/_mutant|mutant]] which [[h/_has|has]] this stop [[c/_codon|codon]] at a [[p/_premature|premature]] [[p/_place|place]] in [[i/_its|its]] DNA [[s/_sequence|sequence]].**
 	- _Example: an amber codon, an amber mutation, an amber suppressor_
 ---
 ### Synonyms

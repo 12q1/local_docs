@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[f/_flabby|Flabby]].**
-- **Soft; [[f/_floppy|floppy]].**
+- **[[s/_soft|Soft]]; [[f/_floppy|floppy]].**
 - **[[l/_lacking|Lacking]] [[e/_energy|energy]] or vigor.**
 ---
 ### Antonyms

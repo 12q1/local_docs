@@ -15,7 +15,7 @@
 ### Antonyms
 - [[d/_depreciate|depreciate]]
 #adjective
-- **Recognized as [[h/_having|having]] value**
-- **(of an [[i/_investment|investment]]) [[h/_having|having]] risen in value**
+- **[[r/_recognized|Recognized]] as [[h/_having|having]] value**
+- **(of an [[i/_investment|investment]]) [[h/_having|having]] [[r/_risen|risen]] in value**
 ---
 ---

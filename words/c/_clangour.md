@@ -1,9 +1,9 @@
 # Clangour
 ---
 #noun
-- **A [[l/_loud|loud]], repeating [[c/_clanging|clanging]] sound; a [[l/_loud|loud]] racket; a [[d/_din|din]].**
+- **A [[l/_loud|loud]], [[r/_repeating|repeating]] [[c/_clanging|clanging]] [[s/_sound|sound]]; a [[l/_loud|loud]] [[r/_racket|racket]]; a [[d/_din|din]].**
 ---
 #verb
-- **To [[m/_make|make]] a [[c/_clanging|clanging]] sound.**
+- **To [[m/_make|make]] a [[c/_clanging|clanging]] [[s/_sound|sound]].**
 ---
 ---

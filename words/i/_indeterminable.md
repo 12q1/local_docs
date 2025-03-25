@@ -1,7 +1,7 @@
 # Indeterminable
 ---
 #noun
-- **An [[i/_indeterminable|indeterminable]] thing or quantity.**
+- **An [[i/_indeterminable|indeterminable]] thing or [[q/_quantity|quantity]].**
 ---
 ### Antonyms
 - [[d/_determinable|determinable]]

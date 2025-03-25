@@ -11,7 +11,7 @@
 ### Synonyms
 - [[c/_cor|cor]], [[k/_kor|kor]]
 #noun
-- **A [[f/_four|four]]-[[b/_base|base]] [[h/_hit|hit]]; a [[h/_home|home]] run**
+- **A [[f/_four|four]]-[[b/_base|base]] [[h/_hit|hit]]; a [[h/_home|home]] [[r/_run|run]]**
 	- _Example: The first baseman hit a homer to lead off the ninth._
 - **A [[h/_homing|homing]] [[p/_pigeon|pigeon]]**
 	- _Example: Each of the pigeon fanciers released a homer at the same time._

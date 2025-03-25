@@ -10,7 +10,7 @@
 - **To [[b/_behave|behave]] as or [[b/_become|become]], or to [[c/_cause|cause]] to [[b/_behave|behave]] as or [[b/_become|become]], a [[h/_human|human]].**
 ---
 #adjective
-- **(notcomp) Of or [[b/_belonging|belonging]] to the species [[h/_homo|Homo]] sapiens or [[i/_its|its]] [[c/_closest|closest]] relatives.**
+- **(notcomp) Of or [[b/_belonging|belonging]] to the species [[h/_homo|Homo]] [[s/_sapiens|sapiens]] or [[i/_its|its]] [[c/_closest|closest]] [[r/_relatives|relatives]].**
 - **[[h/_having|Having]] the [[n/_nature|nature]] or [[a/_attributes|attributes]] of a [[h/_human|human]] [[b/_being|being]].**
 	- _Example: To err is human; to forgive, divine._
 ---

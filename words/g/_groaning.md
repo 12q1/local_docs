@@ -6,7 +6,7 @@
 - **To strive [[a/_after|after]] [[e/_earnestly|earnestly]], as [[i/_if|if]] with [[g/_groans|groans]].**
 ---
 #noun
-- **A [[l/_low|low]] sound [[a/_associated|associated]] with [[e/_extended|extended]] suffering, sorrow, and toil.**
+- **A [[l/_low|low]] [[s/_sound|sound]] [[a/_associated|associated]] with [[e/_extended|extended]] suffering, [[s/_sorrow|sorrow]], and toil.**
 ---
 #adjective
 - **That [[g/_groans|groans]].**

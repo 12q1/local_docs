@@ -1,6 +1,6 @@
 # Brummagem
 ---
 #adjective
-- **[[c/_cheap|Cheap]] and showy; [[m/_meretricious|meretricious]].**
+- **[[c/_cheap|Cheap]] and [[s/_showy|showy]]; [[m/_meretricious|meretricious]].**
 ---
 ---

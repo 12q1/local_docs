@@ -9,7 +9,7 @@
 	- _Example: the fabric of our lives_
 - **A [[m/_material|material]] [[m/_made|made]] of [[f/_fibers|fibers]], a textile or [[c/_cloth|cloth]].**
 	- _Example: cotton fabric_
-- **The [[a/_appearance|appearance]] of [[c/_crystalline|crystalline]] [[g/_grains|grains]] in a rock.**
+- **The [[a/_appearance|appearance]] of [[c/_crystalline|crystalline]] [[g/_grains|grains]] in a [[r/_rock|rock]].**
 - **[[i/_interconnected|Interconnected]] [[n/_nodes|nodes]] that [[l/_look|look]] [[l/_like|like]] a textile [[f/_fabric|fabric]] when [[d/_diagrammed|diagrammed]].**
 	- _Example: The Internet is a fabric of computers connected by routers._
 ---

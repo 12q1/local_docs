@@ -1,7 +1,7 @@
 # Inveterate
 ---
 #verb
-- **To [[f/_fix|fix]] and settle [[a/_after|after]] a [[l/_long|long]] time; to [[e/_entrench|entrench]].**
+- **To [[f/_fix|fix]] and [[s/_settle|settle]] [[a/_after|after]] a [[l/_long|long]] time; to [[e/_entrench|entrench]].**
 ---
 #adjective
 - **[[f/_firmly|Firmly]] [[e/_established|established]] from [[h/_having|having]] [[b/_been|been]] [[a/_around|around]] for a [[l/_long|long]] time; of [[l/_long|long]] standing**

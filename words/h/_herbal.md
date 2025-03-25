@@ -7,7 +7,7 @@
 #adjective
 - **[[m/_made|Made]] from or with [[h/_herbs|herbs]].**
 	- _Example: Herbal tea has a nice aroma and is good for a stuffy head._
-- **[[m/_made|Made]] from [[n/_natural|natural]] [[h/_herbs|herbs]] specifically as [[o/_opposed|opposed]] to from synthetic [[m/_materials|materials]].**
+- **[[m/_made|Made]] from [[n/_natural|natural]] [[h/_herbs|herbs]] specifically as [[o/_opposed|opposed]] to from [[s/_synthetic|synthetic]] [[m/_materials|materials]].**
 	- _Example: People think herbal supplements are safer because they are natural._
 ---
 ---

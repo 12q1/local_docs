@@ -1,10 +1,10 @@
 # Diddy
 ---
 #noun
-- **A woman's [[b/_breast|breast]].**
+- **A woman'[[s/_s|s]] [[b/_breast|breast]].**
 - **A [[f/_fool|fool]], a tit.**
 ---
 #adjective
-- **Very small, tiny**
+- **Very [[s/_small|small]], tiny**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dolorous
 ---
 #adjective
-- **Solemnly or [[p/_ponderously|ponderously]] sad.**
+- **[[s/_solemnly|Solemnly]] or [[p/_ponderously|ponderously]] [[s/_sad|sad]].**
 ---
 ---

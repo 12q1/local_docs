@@ -1,7 +1,7 @@
 # Inserting
 ---
 #verb
-- **To put in [[b/_between|between]] or [[i/_into|into]].**
+- **To [[p/_put|put]] in [[b/_between|between]] or [[i/_into|into]].**
 	- _Example: In order to withdraw money from a cash machine, you have to insert your debit card._
 ---
 ### Synonyms
@@ -9,6 +9,6 @@
 ### Antonyms
 - [[d/_delete|delete]]
 #noun
-- **Something [[i/_inserted|inserted]] or set in, such as [[l/_lace|lace]] in [[g/_garments|garments]].**
+- **[[s/_something|Something]] [[i/_inserted|inserted]] or [[s/_set|set]] in, such as [[l/_lace|lace]] in [[g/_garments|garments]].**
 ---
 ---

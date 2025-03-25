@@ -1,6 +1,6 @@
 # Kiaat
 ---
 #noun
-- **Pterocarpus angolensis, [[a/_african|African]] teak.**
+- **[[p/_pterocarpus|Pterocarpus]] angolensis, [[a/_african|African]] teak.**
 ---
 ---

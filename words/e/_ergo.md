@@ -4,6 +4,6 @@
 - **[[c/_consequently|Consequently]], therefore, thus.**
 ---
 #conjunction
-- **Therefore ([[e/_especially|especially]] in syllogisms).**
+- **Therefore ([[e/_especially|especially]] in [[s/_syllogisms|syllogisms]]).**
 ---
 ---

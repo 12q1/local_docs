@@ -4,7 +4,7 @@
 - **[[a/_anything|Anything]] that [[c/_cannot|cannot]] be [[d/_defined|defined]].**
 ---
 #adjective
-- **That [[c/_cannot|cannot]] be [[p/_precisely|precisely]] [[d/_defined|defined]] or put [[i/_into|into]] words.**
+- **That [[c/_cannot|cannot]] be [[p/_precisely|precisely]] [[d/_defined|defined]] or [[p/_put|put]] [[i/_into|into]] words.**
 - **That [[d/_defies|defies]] [[d/_description|description]]; [[i/_indescribable|indescribable]].**
 ---
 ### Synonyms

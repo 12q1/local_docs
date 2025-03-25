@@ -1,8 +1,8 @@
 # Leafs
 ---
 #verb
-- **To produce [[l/_leaves|leaves]]; put [[f/_forth|forth]] [[f/_foliage|foliage]].**
-- **To [[d/_divide|divide]] (a vegetable) [[i/_into|into]] separate [[l/_leaves|leaves]].**
+- **To [[p/_produce|produce]] [[l/_leaves|leaves]]; [[p/_put|put]] [[f/_forth|forth]] [[f/_foliage|foliage]].**
+- **To [[d/_divide|divide]] (a vegetable) [[i/_into|into]] [[s/_separate|separate]] [[l/_leaves|leaves]].**
 	- _Example: The lettuce in our burgers is 100% hand-leafed._
 ---
 ### Synonyms

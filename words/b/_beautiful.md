@@ -1,7 +1,7 @@
 # Beautiful
 ---
 #noun
-- **Someone who is [[b/_beautiful|beautiful]]. [[c/_can|Can]] be used as a term of [[a/_address|address]].**
+- **[[s/_someone|Someone]] who is [[b/_beautiful|beautiful]]. [[c/_can|Can]] be used as a term of [[a/_address|address]].**
 	- _Example: Hey, beautiful!_
 ---
 #adjective

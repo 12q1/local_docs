@@ -1,6 +1,6 @@
 # Intrazonal
 ---
 #adjective
-- **Within a single zone.**
+- **Within a [[s/_single|single]] zone.**
 ---
 ---

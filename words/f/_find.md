@@ -1,14 +1,14 @@
 # Find
 ---
 #noun
-- **[[a/_anything|Anything]] that is [[f/_found|found]] (usually valuable), as [[o/_objects|objects]] on an [[a/_archeological|archeological]] site or a [[p/_person|person]] with talent.**
+- **[[a/_anything|Anything]] that is [[f/_found|found]] (usually valuable), as [[o/_objects|objects]] on an [[a/_archeological|archeological]] [[s/_site|site]] or a [[p/_person|person]] with talent.**
 - **The [[a/_act|act]] of [[f/_finding|finding]].**
 ---
 ### Synonyms
 - [[c/_catch|catch]], [[d/_discovery|discovery]]
 #verb
 - **To [[e/_encounter|encounter]] or [[d/_discover|discover]] by [[a/_accident|accident]]; to [[h/_happen|happen]] upon.**
-- **To [[e/_encounter|encounter]] or [[d/_discover|discover]] something [[b/_being|being]] searched for; to [[l/_locate|locate]].**
+- **To [[e/_encounter|encounter]] or [[d/_discover|discover]] [[s/_something|something]] [[b/_being|being]] [[s/_searched|searched]] for; to [[l/_locate|locate]].**
 	- _Example: I found my car keys. They were under the couch._
 - **(ditransitive) To [[d/_discover|discover]] by study or [[e/_experiment|experiment]] [[d/_direct|direct]] to an [[o/_object|object]] or [[e/_end|end]].**
 	- _Example: Water is found to be a compound substance._
@@ -24,7 +24,7 @@
 	- _Example: to find a verdict; to find a true bill (of indictment) against an accused person_
 - **To supply; to [[f/_furnish|furnish]].**
 	- _Example: to find food for workmen_
-- **To provide for**
+- **To [[p/_provide|provide]] for**
 	- _Example: He finds his nephew in money._
 - **To [[d/_determine|determine]] or [[j/_judge|judge]].**
 	- _Example: The jury finds for the defendant._

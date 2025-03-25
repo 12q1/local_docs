@@ -1,7 +1,7 @@
 # Headshrinker
 ---
 #noun
-- **A psychiatrist.**
+- **A [[p/_psychiatrist|psychiatrist]].**
 ---
 ### Synonyms
 - [[h/_headshrink|headshrink]], [[s/_shrink|shrink]]

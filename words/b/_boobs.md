@@ -11,6 +11,6 @@
 - **A [[b/_breast|breast]], [[e/_especially|especially]] that of an [[a/_adult|adult]] or [[a/_adolescent|adolescent]] [[h/_human|human]] [[f/_female|female]].**
 ---
 #noun
-- **A prison; [[j/_jail|jail]].**
+- **A [[p/_prison|prison]]; [[j/_jail|jail]].**
 ---
 ---

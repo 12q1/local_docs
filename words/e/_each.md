@@ -1,7 +1,7 @@
 # Each
 ---
 #noun
-- **([[o/_operations|operations]]) An [[i/_individual|individual]] [[i/_item|item]]: the [[l/_least|least]] quantitative unit in a [[g/_grouping|grouping]].**
+- **([[o/_operations|operations]]) An [[i/_individual|individual]] [[i/_item|item]]: the [[l/_least|least]] [[q/_quantitative|quantitative]] unit in a [[g/_grouping|grouping]].**
 ---
 #adverb
 - **For [[o/_one|one]]; [[a/_apiece|apiece]]; [[p/_per|per]].**

@@ -2,37 +2,37 @@
 ---
 #noun
 - **A [[d/_drawing|drawing]] or [[d/_diagram|diagram]] [[c/_conveying|conveying]] [[i/_information|information]].**
-- **The representation of [[a/_any|any]] [[f/_form|form]], as by [[d/_drawing|drawing]], [[p/_painting|painting]], [[m/_modelling|modelling]], [[c/_carving|carving]], [[e/_embroidering|embroidering]], [[e/_etc|etc]].; [[e/_especially|especially]], a representation of the [[h/_human|human]] [[b/_body|body]].**
+- **The [[r/_representation|representation]] of [[a/_any|any]] [[f/_form|form]], as by [[d/_drawing|drawing]], [[p/_painting|painting]], [[m/_modelling|modelling]], [[c/_carving|carving]], [[e/_embroidering|embroidering]], [[e/_etc|etc]].; [[e/_especially|especially]], a [[r/_representation|representation]] of the [[h/_human|human]] [[b/_body|body]].**
 	- _Example: a figure in bronze; a figure cut in marble_
-- **A [[p/_person|person]] or thing representing a [[c/_certain|certain]] [[c/_consciousness|consciousness]].**
+- **A [[p/_person|person]] or thing [[r/_representing|representing]] a [[c/_certain|certain]] [[c/_consciousness|consciousness]].**
 - **The [[a/_appearance|appearance]] or [[i/_impression|impression]] [[m/_made|made]] by the [[c/_conduct|conduct]] or [[c/_career|career]] of a [[p/_person|person]].**
 	- _Example: He cut a sorry figure standing there in the rain._
-- **[[d/_distinguished|Distinguished]] [[a/_appearance|appearance]]; [[m/_magnificence|magnificence]]; [[c/_conspicuous|conspicuous]] representation; splendour; show.**
-- **A [[h/_human|human]] [[f/_figure|figure]], which [[d/_dress|dress]] or [[c/_corset|corset]] [[m/_must|must]] [[f/_fit|fit]] to; the shape of a [[h/_human|human]] [[b/_body|body]].**
+- **[[d/_distinguished|Distinguished]] [[a/_appearance|appearance]]; [[m/_magnificence|magnificence]]; [[c/_conspicuous|conspicuous]] [[r/_representation|representation]]; splendour; [[s/_show|show]].**
+- **A [[h/_human|human]] [[f/_figure|figure]], which [[d/_dress|dress]] or [[c/_corset|corset]] [[m/_must|must]] [[f/_fit|fit]] to; the [[s/_shape|shape]] of a [[h/_human|human]] [[b/_body|body]].**
 - **A [[n/_numeral|numeral]].**
 - **A [[n/_number|number]], an [[a/_amount|amount]].**
-- **A shape.**
+- **A [[s/_shape|shape]].**
 - **A visible [[p/_pattern|pattern]] as in wood or [[c/_cloth|cloth]].**
 	- _Example: The muslin was of a pretty figure._
 - **[[a/_any|Any]] [[c/_complex|complex]] [[d/_dance|dance]] moveW.**
 - **A [[f/_figure|figure]] of speech.**
-- **The [[f/_form|form]] of a syllogism with respect to the relative [[p/_position|position]] of the [[m/_middle|middle]] term.**
+- **The [[f/_form|form]] of a [[s/_syllogism|syllogism]] with [[r/_respect|respect]] to the [[r/_relative|relative]] [[p/_position|position]] of the [[m/_middle|middle]] term.**
 - **A [[h/_horoscope|horoscope]]; the [[d/_diagram|diagram]] of the [[a/_aspects|aspects]] of the [[a/_astrological|astrological]] [[h/_houses|houses]].**
-- **[[a/_any|Any]] short succession of [[n/_notes|notes]], [[e/_either|either]] as [[m/_melody|melody]] or as a [[g/_group|group]] of [[c/_chords|chords]], which produce a single [[c/_complete|complete]] and [[d/_distinct|distinct]] [[i/_impression|impression]].**
+- **[[a/_any|Any]] [[s/_short|short]] succession of [[n/_notes|notes]], [[e/_either|either]] as [[m/_melody|melody]] or as a [[g/_group|group]] of [[c/_chords|chords]], which [[p/_produce|produce]] a [[s/_single|single]] [[c/_complete|complete]] and [[d/_distinct|distinct]] [[i/_impression|impression]].**
 - **A [[f/_form|form]] of [[m/_melody|melody]] or [[a/_accompaniment|accompaniment]] [[k/_kept|kept]] up through a strain or [[p/_passage|passage]]; a [[m/_motif|motif]]; a [[f/_florid|florid]] [[e/_embellishment|embellishment]].**
 ---
 #verb
-- **To [[c/_calculate|calculate]], to solve a [[m/_mathematical|mathematical]] problem.**
+- **To [[c/_calculate|calculate]], to [[s/_solve|solve]] a [[m/_mathematical|mathematical]] [[p/_problem|problem]].**
 - **To [[c/_come|come]] to understand.**
 	- _Example: I can’t figure if he’s telling the truth or lying._
-- **To think, to [[a/_assume|assume]], to suppose, to reckon.**
-- **To be reasonable.**
+- **To think, to [[a/_assume|assume]], to suppose, to [[r/_reckon|reckon]].**
+- **To be [[r/_reasonable|reasonable]].**
 	- _Example: It figures that somebody like him would be upset about the situation._
 - **To [[e/_enter|enter]] [[i/_into|into]]; to be a [[p/_part|part]] of.**
-- **To represent by a [[f/_figure|figure]], as to [[f/_form|form]] or [[m/_mould|mould]]; to [[m/_make|make]] an [[i/_image|image]] of, [[e/_either|either]] [[p/_palpable|palpable]] or [[i/_ideal|ideal]]; [[a/_also|also]], to [[f/_fashion|fashion]] [[i/_into|into]] a [[d/_determinate|determinate]] [[f/_form|form]]; to shape.**
+- **To [[r/_represent|represent]] by a [[f/_figure|figure]], as to [[f/_form|form]] or [[m/_mould|mould]]; to [[m/_make|make]] an [[i/_image|image]] of, [[e/_either|either]] [[p/_palpable|palpable]] or [[i/_ideal|ideal]]; [[a/_also|also]], to [[f/_fashion|fashion]] [[i/_into|into]] a [[d/_determinate|determinate]] [[f/_form|form]]; to [[s/_shape|shape]].**
 - **To [[e/_embellish|embellish]] with [[d/_design|design]]; to [[a/_adorn|adorn]] with [[f/_figures|figures]].**
 - **To [[i/_indicate|indicate]] by [[n/_numerals|numerals]].**
-- **To represent by a [[m/_metaphor|metaphor]]; to signify or symbolize.**
+- **To [[r/_represent|represent]] by a [[m/_metaphor|metaphor]]; to [[s/_signify|signify]] or [[s/_symbolize|symbolize]].**
 - **To [[p/_prefigure|prefigure]]; to [[f/_foreshow|foreshow]].**
 - **To write [[o/_over|over]] or under the [[b/_bass|bass]], as [[f/_figures|figures]] or [[o/_other|other]] [[c/_characters|characters]], in [[o/_order|order]] to [[i/_indicate|indicate]] the [[a/_accompanying|accompanying]] [[c/_chords|chords]].**
 - **To [[e/_embellish|embellish]].**

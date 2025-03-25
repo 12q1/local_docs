@@ -8,6 +8,6 @@
 - **To [[m/_make|make]] [[p/_permanent|permanent]].**
 ---
 #adverb
-- **[[b/_bonded|Bonded]] by [[c/_cement|cement]] or a similar substance.**
+- **[[b/_bonded|Bonded]] by [[c/_cement|cement]] or a [[s/_similar|similar]] substance.**
 ---
 ---

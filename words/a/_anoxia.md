@@ -1,6 +1,6 @@
 # Anoxia
 ---
 #noun
-- **A [[c/_condition|condition]] in which a tissue or [[e/_environment|environment]] is severely or totally [[d/_deprived|deprived]] of [[o/_oxygen|oxygen]], severe [[h/_hypoxia|hypoxia]].**
+- **A [[c/_condition|condition]] in which a tissue or [[e/_environment|environment]] is [[s/_severely|severely]] or totally [[d/_deprived|deprived]] of [[o/_oxygen|oxygen]], [[s/_severe|severe]] [[h/_hypoxia|hypoxia]].**
 ---
 ---

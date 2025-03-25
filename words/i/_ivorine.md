@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[m/_made|Made]] of [[i/_ivory|ivory]].**
-- **Resembling [[i/_ivory|ivory]]; white, smooth.**
+- **[[r/_resembling|Resembling]] [[i/_ivory|ivory]]; white, [[s/_smooth|smooth]].**
 ---
 ---

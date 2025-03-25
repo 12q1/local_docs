@@ -1,7 +1,7 @@
 # Clabbered
 ---
 #verb
-- **To sour or [[c/_curdle|curdle]].**
+- **To [[s/_sour|sour]] or [[c/_curdle|curdle]].**
 ---
 #adjective
 - **Thickened or [[c/_curdled|curdled]].**

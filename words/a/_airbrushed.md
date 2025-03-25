@@ -8,6 +8,6 @@
 - [[d/_doctor|doctor]], [[p/_photoshop|photoshop]]
 #adjective
 - **[[h/_having|Having]] [[b/_been|been]] [[m/_manipulated|manipulated]] with an [[a/_airbrush|airbrush]].**
-- **(by [[e/_extension|extension]]) [[h/_having|Having]] [[h/_had|had]] [[i/_imperfections|imperfections]] and [[b/_blemishes|blemishes]] removed through [[d/_digital|digital]] [[m/_manipulation|manipulation]].**
+- **(by [[e/_extension|extension]]) [[h/_having|Having]] [[h/_had|had]] [[i/_imperfections|imperfections]] and [[b/_blemishes|blemishes]] [[r/_removed|removed]] through [[d/_digital|digital]] [[m/_manipulation|manipulation]].**
 ---
 ---

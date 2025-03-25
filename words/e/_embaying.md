@@ -4,6 +4,6 @@
 - **To [[b/_bathe|bathe]]; to steep.**
 ---
 #verb
-- **To shut in, [[e/_enclose|enclose]], shelter or trap, such as ships in a [[b/_bay|bay]].**
+- **To [[s/_shut|shut]] in, [[e/_enclose|enclose]], [[s/_shelter|shelter]] or trap, such as [[s/_ships|ships]] in a [[b/_bay|bay]].**
 ---
 ---

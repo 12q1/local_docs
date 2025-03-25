@@ -1,13 +1,13 @@
 # Hircine
 ---
 #noun
-- **A [[f/_fossil|fossil]] [[a/_amorphous|amorphous]] resin which, when [[b/_burnt|burnt]], [[g/_gives|gives]] [[o/_off|off]] a pungent, [[h/_hircinous|hircinous]] [[a/_aroma|aroma]].**
+- **A [[f/_fossil|fossil]] [[a/_amorphous|amorphous]] [[r/_resin|resin]] which, when [[b/_burnt|burnt]], [[g/_gives|gives]] [[o/_off|off]] a [[p/_pungent|pungent]], [[h/_hircinous|hircinous]] [[a/_aroma|aroma]].**
 ---
 ### Synonyms
 - [[h/_hircite|hircite]]
 #adjective
 - **Of, [[p/_pertaining|pertaining]] to, or [[c/_characteristic|characteristic]] of [[g/_goats|goats]].**
-- **[[p/_possessed|Possessed]] of an [[o/_odour|odour]] reminiscent of [[g/_goats|goats]].**
+- **[[p/_possessed|Possessed]] of an [[o/_odour|odour]] [[r/_reminiscent|reminiscent]] of [[g/_goats|goats]].**
 - **[[l/_libidinous|Libidinous]]; [[l/_lustful|lustful]].**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Bedsides
 ---
 #noun
-- **A [[p/_position|position]] at the side of [[o/_one|one]]'s [[b/_bed|bed]].**
+- **A [[p/_position|position]] at the [[s/_side|side]] of [[o/_one|one]]'[[s/_s|s]] [[b/_bed|bed]].**
 ---
 ---

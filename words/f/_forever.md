@@ -12,7 +12,7 @@
 #adverb
 - **([[d/_duration|duration]]) For [[a/_all|all]] time, for [[a/_all|all]] [[e/_eternity|eternity]]; for a [[l/_lifetime|lifetime]]; for an [[i/_infinite|infinite]] [[a/_amount|amount]] of time.**
 	- _Example: I shall love you forever._
-- **([[d/_duration|duration]]) For a very [[l/_long|long]] time, a seeming [[e/_eternity|eternity]].**
+- **([[d/_duration|duration]]) For a very [[l/_long|long]] time, a [[s/_seeming|seeming]] [[e/_eternity|eternity]].**
 	- _Example: We had to wait forever to get inside._
 - **([[f/_frequency|frequency]]) [[c/_constantly|Constantly]] or [[f/_frequently|frequently]].**
 	- _Example: You are forever nagging me._

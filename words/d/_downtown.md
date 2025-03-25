@@ -6,7 +6,7 @@
 ### Synonyms
 - [[C/_CBD|CBD]], [[c/_city|city]]
 #adjective
-- **Of, relating to, or situated in the [[c/_central|central]] [[b/_business|business]] [[d/_district|district]]**
+- **Of, [[r/_relating|relating]] to, or [[s/_situated|situated]] in the [[c/_central|central]] [[b/_business|business]] [[d/_district|district]]**
 	- _Example: John walked every day to his downtown job._
 ---
 #adverb

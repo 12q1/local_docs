@@ -1,8 +1,8 @@
 # Guardsmen
 ---
 #noun
-- **A [[p/_person|person]], [[e/_especially|especially]] a soldier, who is on [[g/_guard|guard]].**
+- **A [[p/_person|person]], [[e/_especially|especially]] a [[s/_soldier|soldier]], who is on [[g/_guard|guard]].**
 - **A [[m/_member|member]] of the [[n/_national|National]] [[g/_guard|Guard]].**
-- **A [[m/_member|member]] of a [[g/_guards|Guards]] regiment.**
+- **A [[m/_member|member]] of a [[g/_guards|Guards]] [[r/_regiment|regiment]].**
 ---
 ---

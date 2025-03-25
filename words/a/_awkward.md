@@ -1,14 +1,14 @@
 # Awkward
 ---
 #noun
-- **Someone or something that is [[a/_awkward|awkward]].**
+- **[[s/_someone|Someone]] or [[s/_something|something]] that is [[a/_awkward|awkward]].**
 ---
 #adjective
 - **[[l/_lacking|Lacking]] [[d/_dexterity|dexterity]] in the use of the [[h/_hands|hands]], or of [[i/_instruments|instruments]].**
 	- _Example: John was awkward at performing the trick. He'll have to practice to improve._
 - **Not [[e/_easily|easily]] [[m/_managed|managed]] or [[e/_effected|effected]]; [[e/_embarrassing|embarrassing]].**
 	- _Example: An awkward silence had fallen._
-- **[[l/_lacking|Lacking]] social skills, or uncomfortable with social [[i/_interaction|interaction]].**
+- **[[l/_lacking|Lacking]] [[s/_social|social]] [[s/_skills|skills]], or uncomfortable with [[s/_social|social]] [[i/_interaction|interaction]].**
 	- _Example: I'm very awkward at parties._
 - **[[p/_perverse|Perverse]]; [[a/_adverse|adverse]]; [[d/_difficult|difficult]] to [[h/_handle|handle]].**
 	- _Example: He's a right awkward chap._

@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[e/_emotion|emotion]] of [[b/_being|being]] [[h/_happy|happy]]; [[j/_joy|joy]].**
-- **Prosperity, thriving, wellbeing.**
+- **[[p/_prosperity|Prosperity]], thriving, wellbeing.**
 - **[[g/_good|Good]] [[l/_luck|luck]]; [[g/_good|good]] [[f/_fortune|fortune]].**
 - **[[f/_fortuitous|Fortuitous]] [[e/_elegance|elegance]]; unstudied [[g/_grace|grace]]; — used [[e/_especially|especially]] of [[l/_language|language]].**
 ---

@@ -1,9 +1,9 @@
 # Invited
 ---
 #verb
-- **To [[a/_ask|ask]] for the [[p/_presence|presence]] or [[p/_participation|participation]] of someone or something.**
+- **To [[a/_ask|ask]] for the [[p/_presence|presence]] or [[p/_participation|participation]] of [[s/_someone|someone]] or [[s/_something|something]].**
 	- _Example: We invited our friends round for dinner._
-- **To request [[f/_formally|formally]].**
+- **To [[r/_request|request]] [[f/_formally|formally]].**
 	- _Example: I invite you all to be seated._
 - **To [[e/_encourage|encourage]].**
 	- _Example: I always invite criticism of my definitions._

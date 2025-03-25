@@ -1,6 +1,6 @@
 # Appendicectomy
 ---
 #noun
-- **The surgical procedure for the removal of the vermiform [[a/_appendix|appendix]]**
+- **The surgical [[p/_procedure|procedure]] for the [[r/_removal|removal]] of the vermiform [[a/_appendix|appendix]]**
 ---
 ---

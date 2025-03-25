@@ -1,6 +1,6 @@
 # Boneheads
 ---
 #noun
-- **Someone who is stubborn, thick-skulled, or stupid.**
+- **[[s/_someone|Someone]] who is stubborn, thick-[[s/_skulled|skulled]], or stupid.**
 ---
 ---

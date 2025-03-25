@@ -1,7 +1,7 @@
 # Downpours
 ---
 #noun
-- **A [[h/_heavy|heavy]] rain.**
+- **A [[h/_heavy|heavy]] [[r/_rain|rain]].**
 	- _Example: They got caught in a downpour without an umbrella and came back soaked._
 ---
 ### Synonyms

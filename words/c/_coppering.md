@@ -1,7 +1,7 @@
 # Coppering
 ---
 #verb
-- **To sheathe or [[c/_coat|coat]] with [[c/_copper|copper]].**
+- **To [[s/_sheathe|sheathe]] or [[c/_coat|coat]] with [[c/_copper|copper]].**
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_covering|covering]] with [[c/_copper|copper]].**

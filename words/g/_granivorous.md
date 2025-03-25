@@ -1,6 +1,6 @@
 # Granivorous
 ---
 #adjective
-- **That [[e/_eats|eats]] seeds**
+- **That [[e/_eats|eats]] [[s/_seeds|seeds]]**
 ---
 ---

@@ -1,14 +1,14 @@
 # Crimson
 ---
 #noun
-- **A [[d/_deep|deep]], slightly [[b/_bluish|bluish]] red.**
+- **A [[d/_deep|deep]], [[s/_slightly|slightly]] [[b/_bluish|bluish]] [[r/_red|red]].**
 ---
 #verb
-- **To [[b/_become|become]] [[c/_crimson|crimson]] or [[d/_deep|deep]] red; to [[b/_blush|blush]].**
-- **To [[d/_dye|dye]] with [[c/_crimson|crimson]] or [[d/_deep|deep]] red; to redden.**
+- **To [[b/_become|become]] [[c/_crimson|crimson]] or [[d/_deep|deep]] [[r/_red|red]]; to [[b/_blush|blush]].**
+- **To [[d/_dye|dye]] with [[c/_crimson|crimson]] or [[d/_deep|deep]] [[r/_red|red]]; to [[r/_redden|redden]].**
 ---
 #adjective
-- **[[h/_having|Having]] a [[d/_deep|deep]] red [[c/_colour|colour]].**
+- **[[h/_having|Having]] a [[d/_deep|deep]] [[r/_red|red]] [[c/_colour|colour]].**
 - **[[i/_immodest|Immodest]].**
 ---
 ---

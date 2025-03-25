@@ -1,6 +1,6 @@
 # Forwardness
 ---
 #noun
-- **The quality of [[b/_being|being]] [[f/_forward|forward]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[f/_forward|forward]].**
 ---
 ---

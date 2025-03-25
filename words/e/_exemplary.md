@@ -7,12 +7,12 @@
 ### Synonyms
 - [[e/_exemplar|exemplar]], [[p/_paradigm|paradigm]]
 #adjective
-- **[[d/_deserving|Deserving]] [[h/_honour|honour]], respect and [[a/_admiration|admiration]].**
-- **Of such [[h/_high|high]] quality that it should serve as an [[e/_example|example]] to be [[i/_imitated|imitated]]; [[i/_ideal|ideal]], [[p/_perfect|perfect]].**
+- **[[d/_deserving|Deserving]] [[h/_honour|honour]], [[r/_respect|respect]] and [[a/_admiration|admiration]].**
+- **Of such [[h/_high|high]] [[q/_quality|quality]] that it [[s/_should|should]] [[s/_serve|serve]] as an [[e/_example|example]] to be [[i/_imitated|imitated]]; [[i/_ideal|ideal]], [[p/_perfect|perfect]].**
 	- _Example: Her behaviour was always exemplary._
-- **Serving as a warning; [[m/_monitory|monitory]].**
+- **[[s/_serving|Serving]] as a warning; [[m/_monitory|monitory]].**
 	- _Example: exemplary justice, exemplary punishment, exemplary damages_
-- **Providing an [[e/_example|example]] or [[i/_illustration|illustration]].**
+- **[[p/_providing|Providing]] an [[e/_example|example]] or [[i/_illustration|illustration]].**
 ---
 ### Synonyms
 - [[e/_exemplar|exemplar]], [[a/_admonitory|admonitory]]

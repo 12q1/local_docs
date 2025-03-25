@@ -11,6 +11,6 @@
 - **To [[b/_burn|burn]]; to [[b/_blaze|blaze]].**
 ---
 #noun
-- **The sound of something that [[l/_lows|lows]].**
+- **The [[s/_sound|sound]] of [[s/_something|something]] that [[l/_lows|lows]].**
 ---
 ---

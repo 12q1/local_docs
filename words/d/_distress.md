@@ -2,16 +2,16 @@
 ---
 #noun
 - **([[c/_cause|Cause]] of) [[d/_discomfort|discomfort]].**
-- **Serious [[d/_danger|danger]].**
+- **[[s/_serious|Serious]] [[d/_danger|danger]].**
 - **An [[a/_aversive|aversive]] state of stress to which a [[p/_person|person]] [[c/_cannot|cannot]] [[f/_fully|fully]] [[a/_adapt|adapt]].**
-- **A seizing of property without [[l/_legal|legal]] process to [[f/_force|force]] [[p/_payment|payment]] of a [[d/_debt|debt]].**
-- **The thing taken by [[d/_distraining|distraining]]; that which is seized to procure satisfaction.**
+- **A [[s/_seizing|seizing]] of [[p/_property|property]] without [[l/_legal|legal]] [[p/_process|process]] to [[f/_force|force]] [[p/_payment|payment]] of a [[d/_debt|debt]].**
+- **The thing taken by [[d/_distraining|distraining]]; that which is [[s/_seized|seized]] to [[p/_procure|procure]] [[s/_satisfaction|satisfaction]].**
 ---
 ### Antonyms
 - [[e/_eustress|eustress]]
 #verb
-- **To [[c/_cause|cause]] strain or [[a/_anxiety|anxiety]] to someone.**
-- **To retain someone’s property [[a/_against|against]] the [[p/_payment|payment]] of a [[d/_debt|debt]]; to [[d/_distrain|distrain]].**
+- **To [[c/_cause|cause]] strain or [[a/_anxiety|anxiety]] to [[s/_someone|someone]].**
+- **To [[r/_retain|retain]] [[s/_someone|someone]]’[[s/_s|s]] [[p/_property|property]] [[a/_against|against]] the [[p/_payment|payment]] of a [[d/_debt|debt]]; to [[d/_distrain|distrain]].**
 - **To treat a [[n/_new|new]] [[o/_object|object]] to [[g/_give|give]] it an [[a/_appearance|appearance]] of [[a/_age|age]].**
 	- _Example: She distressed the new media cabinet so that it fit with the other furniture in the room._
 ---

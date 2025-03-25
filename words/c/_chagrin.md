@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[d/_distress|Distress]] of [[m/_mind|mind]] [[c/_caused|caused]] by a [[f/_failure|failure]] of [[a/_aims|aims]] or [[p/_plans|plans]], want of [[a/_appreciation|appreciation]], [[m/_mistakes|mistakes]] [[e/_etc|etc]]; vexation or [[m/_mortification|mortification]].**
-- **A type of [[l/_leather|leather]] or skin with a rough surface.**
+- **A type of [[l/_leather|leather]] or [[s/_skin|skin]] with a [[r/_rough|rough]] surface.**
 ---
 ### Synonyms
 - [[d/_disquiet|disquiet]], [[f/_fretfulness|fretfulness]], [[m/_mortification|mortification]], [[p/_peevishness|peevishness]], [[v/_vexation|vexation]], [[s/_shagreen|shagreen]]

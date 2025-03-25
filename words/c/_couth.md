@@ -16,7 +16,7 @@
 ### Antonyms
 - [[c/_can't|can't]], [[c/_cannot|cannot]], [[c/_can’t|can’t]]
 #adjective
-- **[[f/_familiar|Familiar]], [[k/_known|known]]; well-[[k/_known|known]], renowned.**
+- **[[f/_familiar|Familiar]], [[k/_known|known]]; well-[[k/_known|known]], [[r/_renowned|renowned]].**
 - **Variant of [[c/_couthie|couthie]].**
 ---
 ### Antonyms

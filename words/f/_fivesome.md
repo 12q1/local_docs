@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[g/_group|group]] of [[f/_five|five]] [[p/_people|people]] or things.**
-- **An [[o/_orgy|orgy]] ([[g/_group|group]] sex) [[c/_consisting|consisting]] of [[f/_five|five]] [[p/_people|people]].**
+- **An [[o/_orgy|orgy]] ([[g/_group|group]] [[s/_sex|sex]]) [[c/_consisting|consisting]] of [[f/_five|five]] [[p/_people|people]].**
 ---
 ### Synonyms
 - [[p/_pentad|pentad]]

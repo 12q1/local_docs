@@ -8,6 +8,6 @@
 ---
 #noun
 - **A [[c/_clump|clump]] or [[c/_cluster|cluster]].**
-- **The sound of walking with [[h/_heavy|heavy]] [[f/_footfalls|footfalls]].**
+- **The [[s/_sound|sound]] of walking with [[h/_heavy|heavy]] [[f/_footfalls|footfalls]].**
 ---
 ---

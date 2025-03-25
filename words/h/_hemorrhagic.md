@@ -1,7 +1,7 @@
 # Hemorrhagic
 ---
 #adjective
-- **Of, relating to, or producing [[h/_hemorrhage|hemorrhage]].**
+- **Of, [[r/_relating|relating]] to, or [[p/_producing|producing]] [[h/_hemorrhage|hemorrhage]].**
 ---
 ### Antonyms
 - [[n/_nonhemorrhagic|nonhemorrhagic]]

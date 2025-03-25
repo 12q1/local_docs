@@ -6,7 +6,7 @@
 - **An [[o/_objectionable|objectionable]] [[o/_object|object]] or [[i/_item|item]].**
 	- _Example: Fix the car? I’ll sort the cunt out at the weekend._
 - **An unpleasant or [[d/_difficult|difficult]] [[e/_experience|experience]] or [[i/_incident|incident]].**
-- **A woman, women, or [[b/_bottom|bottom]] ([[i/_i|i]].[[e/_e|e]]. submissive [[p/_partner|partner]], not the top) as a source of sex.**
+- **A woman, women, or [[b/_bottom|bottom]] ([[i/_i|i]].[[e/_e|e]]. submissive [[p/_partner|partner]], not the top) as a [[s/_source|source]] of [[s/_sex|sex]].**
 	- _Example: I’m going to hit the clubs and see if I can get me some cunt._
 - **([[p/_positive|positive]]) (with words [[f/_funny|funny]], [[g/_good|good]]) A [[p/_person|person]] ([[m/_mostly|mostly]] [[b/_between|between]] [[m/_male|male]] [[f/_friends|friends]]); [[c/_compare|compare]] [[b/_bastard|bastard]].**
 	- _Example: Tom's a good cunt: he fixed my car and didn't even charge me for it!_

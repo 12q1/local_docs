@@ -1,10 +1,10 @@
 # Endearing
 ---
 #verb
-- **To [[m/_make|make]] (something) [[m/_more|more]] [[p/_precious|precious]] or valuable.**
-- **To [[m/_make|make]] (something) [[m/_more|more]] [[e/_expensive|expensive]]; to [[i/_increase|increase]] the [[c/_cost|cost]] of.**
-- **To stress (something) as [[i/_important|important]]; to [[e/_exaggerate|exaggerate]].**
-- **To [[m/_make|make]] (someone) [[d/_dear|dear]] or [[p/_precious|precious]].**
+- **To [[m/_make|make]] ([[s/_something|something]]) [[m/_more|more]] [[p/_precious|precious]] or valuable.**
+- **To [[m/_make|make]] ([[s/_something|something]]) [[m/_more|more]] [[e/_expensive|expensive]]; to [[i/_increase|increase]] the [[c/_cost|cost]] of.**
+- **To stress ([[s/_something|something]]) as [[i/_important|important]]; to [[e/_exaggerate|exaggerate]].**
+- **To [[m/_make|make]] ([[s/_someone|someone]]) [[d/_dear|dear]] or [[p/_precious|precious]].**
 ---
 ### Synonyms
 - [[b/_bedear|bedear]]
@@ -16,7 +16,7 @@
 ### Antonyms
 - [[u/_unendearing|unendearing]]
 #noun
-- **The [[a/_act|act]] or process of [[e/_endearing|endearing]], of [[c/_causing|causing]] (something or someone) to be [[l/_loved|loved]] or to be the [[o/_object|object]] of [[a/_affection|affection]].**
+- **The [[a/_act|act]] or [[p/_process|process]] of [[e/_endearing|endearing]], of [[c/_causing|causing]] ([[s/_something|something]] or [[s/_someone|someone]]) to be [[l/_loved|loved]] or to be the [[o/_object|object]] of [[a/_affection|affection]].**
 - **The state or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[e/_endeared|endeared]].**
 - **An [[e/_expression|expression]] of [[a/_affection|affection]].**
 ---

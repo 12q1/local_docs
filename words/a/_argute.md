@@ -1,7 +1,7 @@
 # Argute
 ---
 #adjective
-- **Sharp; [[p/_perceptive|perceptive]]; shrewd.**
-- **Shrill in sound.**
+- **[[s/_sharp|Sharp]]; [[p/_perceptive|perceptive]]; [[s/_shrewd|shrewd]].**
+- **[[s/_shrill|Shrill]] in [[s/_sound|sound]].**
 ---
 ---

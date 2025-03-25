@@ -1,7 +1,7 @@
 # Colorific
 ---
 #adjective
-- **That produces [[c/_coloured|coloured]] [[p/_precipitates|precipitates]]**
+- **That [[p/_produces|produces]] [[c/_coloured|coloured]] [[p/_precipitates|precipitates]]**
 - **[[c/_colourful|Colourful]]**
 - **[[f/_flowery|Flowery]]; [[o/_ornate|ornate]]**
 ---

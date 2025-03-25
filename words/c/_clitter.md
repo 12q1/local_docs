@@ -6,6 +6,6 @@
 ### Synonyms
 - [[s/_scree|scree]]
 #verb
-- **To [[c/_clatter|clatter]] [[l/_lightly|lightly]]; to [[m/_make|make]] a soft rattling [[n/_noise|noise]].**
+- **To [[c/_clatter|clatter]] [[l/_lightly|lightly]]; to [[m/_make|make]] a [[s/_soft|soft]] [[r/_rattling|rattling]] [[n/_noise|noise]].**
 ---
 ---

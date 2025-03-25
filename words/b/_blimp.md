@@ -1,10 +1,10 @@
 # Blimp
 ---
 #noun
-- **An [[a/_airship|airship]] [[c/_constructed|constructed]] with a [[n/_non|non]]-rigid [[l/_lifting|lifting]] [[a/_agent|agent]] [[c/_container|container]].**
+- **An [[a/_airship|airship]] [[c/_constructed|constructed]] with a [[n/_non|non]]-[[r/_rigid|rigid]] [[l/_lifting|lifting]] [[a/_agent|agent]] [[c/_container|container]].**
 - **(by [[e/_extension|extension]]) [[a/_any|Any]] [[l/_large|large]] [[a/_airborne|airborne]] [[i/_inflatable|inflatable]].**
 - **An [[o/_obese|obese]] [[p/_person|person]].**
-- **A [[p/_person|person]] similar to the [[c/_cartoon|cartoon]] [[c/_character|character]] [[c/_colonel|Colonel]] [[b/_blimp|Blimp]]; a [[p/_pompous|pompous]], reactionary [[b/_british|British]] [[m/_man|man]].**
+- **A [[p/_person|person]] [[s/_similar|similar]] to the [[c/_cartoon|cartoon]] [[c/_character|character]] [[c/_colonel|Colonel]] [[b/_blimp|Blimp]]; a [[p/_pompous|pompous]], [[r/_reactionary|reactionary]] [[b/_british|British]] [[m/_man|man]].**
 ---
 ### Synonyms
 - [[G/_Gossage|Gossage]]

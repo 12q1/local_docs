@@ -1,6 +1,6 @@
 # Framboise
 ---
 #noun
-- **Raspberry [[l/_liqueur|liqueur]].**
+- **[[r/_raspberry|Raspberry]] [[l/_liqueur|liqueur]].**
 ---
 ---

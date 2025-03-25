@@ -1,6 +1,6 @@
 # Disklike
 ---
 #adjective
-- **Resembling a [[d/_disk|disk]] or some [[a/_aspect|aspect]] of [[o/_one|one]].**
+- **[[r/_resembling|Resembling]] a [[d/_disk|disk]] or [[s/_some|some]] [[a/_aspect|aspect]] of [[o/_one|one]].**
 ---
 ---

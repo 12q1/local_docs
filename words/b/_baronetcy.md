@@ -1,6 +1,6 @@
 # Baronetcy
 ---
 #noun
-- **The rank of a [[b/_baronet|baronet]]**
+- **The [[r/_rank|rank]] of a [[b/_baronet|baronet]]**
 ---
 ---

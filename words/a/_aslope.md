@@ -1,9 +1,9 @@
 # Aslope
 ---
 #adjective
-- **Slanted or sloping**
+- **[[s/_slanted|Slanted]] or [[s/_sloping|sloping]]**
 ---
 #adverb
-- **Slanted or sloping**
+- **[[s/_slanted|Slanted]] or [[s/_sloping|sloping]]**
 ---
 ---

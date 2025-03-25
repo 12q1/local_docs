@@ -1,7 +1,7 @@
 # Frangible
 ---
 #noun
-- **Something that is [[b/_breakable|breakable]] or [[f/_fragile|fragile]]; [[e/_especially|especially]] something that is [[i/_intentionally|intentionally]] [[m/_made|made]] so, such as a [[b/_bullet|bullet]].**
+- **[[s/_something|Something]] that is [[b/_breakable|breakable]] or [[f/_fragile|fragile]]; [[e/_especially|especially]] [[s/_something|something]] that is [[i/_intentionally|intentionally]] [[m/_made|made]] [[s/_so|so]], such as a [[b/_bullet|bullet]].**
 ---
 #adjective
 - **[[a/_able|Able]] to be [[b/_broken|broken]]; [[b/_breakable|breakable]], [[f/_fragile|fragile]].**

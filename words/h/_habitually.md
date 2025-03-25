@@ -3,7 +3,7 @@
 #adverb
 - **By [[h/_habit|habit]]; in a [[h/_habitual|habitual]] [[m/_manner|manner]].**
 	- _Example: He is habitually inattentive of time._
-- **[[o/_occurring|Occurring]] regularly or usually.**
+- **[[o/_occurring|Occurring]] [[r/_regularly|regularly]] or usually.**
 	- _Example: Professor Franklein is habitually pessimistic._
 ---
 ### Synonyms

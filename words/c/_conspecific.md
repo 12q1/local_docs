@@ -1,10 +1,10 @@
 # Conspecific
 ---
 #noun
-- **An [[o/_organism|organism]] [[b/_belonging|belonging]] to the same species as [[a/_another|another]].**
+- **An [[o/_organism|organism]] [[b/_belonging|belonging]] to the [[s/_same|same]] species as [[a/_another|another]].**
 ---
 #adjective
-- **Relating to the same species**
+- **[[r/_relating|Relating]] to the [[s/_same|same]] species**
 ---
 ### Antonyms
 - [[a/_allospecific|allospecific]]

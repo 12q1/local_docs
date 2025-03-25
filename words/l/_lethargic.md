@@ -1,7 +1,7 @@
 # Lethargic
 ---
 #adjective
-- **Sluggish, slow**
+- **[[s/_sluggish|Sluggish]], [[s/_slow|slow]]**
 - **[[i/_indifferent|Indifferent]], [[a/_apathetic|apathetic]]**
 ---
 ### Synonyms

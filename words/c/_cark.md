@@ -5,7 +5,7 @@
 - **The state of [[b/_being|being]] [[f/_filled|filled]] with worry.**
 ---
 #verb
-- **To be [[f/_filled|filled]] with worry, solicitude, or troubles.**
+- **To be [[f/_filled|filled]] with worry, [[s/_solicitude|solicitude]], or troubles.**
 - **To [[b/_bring|bring]] worry, vexation, or [[a/_anxiety|anxiety]].**
 - **To [[l/_labor|labor]] [[a/_anxiously|anxiously]].**
 ---

@@ -1,8 +1,8 @@
 # Larrup
 ---
 #noun
-- **A [[b/_blow|blow]] or smack.**
-- **[[b/_backchat|Backchat]] or rudeness**
+- **A [[b/_blow|blow]] or [[s/_smack|smack]].**
+- **[[b/_backchat|Backchat]] or [[r/_rudeness|rudeness]]**
 	- _Example: Oi, less of your larrup!_
 ---
 ### Synonyms

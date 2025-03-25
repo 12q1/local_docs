@@ -1,7 +1,7 @@
 # Awry
 ---
 #adjective
-- **Turned or twisted toward [[o/_one|one]] side; [[c/_crooked|crooked]], [[d/_distorted|distorted]], [[o/_out|out]] of [[p/_place|place]]; wry.**
+- **Turned or twisted toward [[o/_one|one]] [[s/_side|side]]; [[c/_crooked|crooked]], [[d/_distorted|distorted]], [[o/_out|out]] of [[p/_place|place]]; wry.**
 	- _Example: The frame was awry._
 - **Wrong or [[d/_distorted|distorted]]; [[p/_perverse|perverse]], [[a/_amiss|amiss]].**
 	- _Example: There is something awry with this story._

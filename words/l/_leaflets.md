@@ -2,9 +2,9 @@
 ---
 #noun
 - **[[o/_one|One]] of the [[c/_components|components]] of a [[c/_compound|compound]] [[l/_leaf|leaf]].**
-- **A small [[p/_plant|plant]] [[l/_leaf|leaf]].**
+- **A [[s/_small|small]] [[p/_plant|plant]] [[l/_leaf|leaf]].**
 	- _Example: The new leaflets at the end of the branch were a lighter shade of green than the mature leaves._
-- **A small sheet of [[p/_paper|paper]] [[c/_containing|containing]] [[i/_information|information]], used for [[d/_dissemination|dissemination]] of said [[i/_information|information]], [[o/_often|often]] an [[a/_advertisement|advertisement]].**
+- **A [[s/_small|small]] [[s/_sheet|sheet]] of [[p/_paper|paper]] [[c/_containing|containing]] [[i/_information|information]], used for [[d/_dissemination|dissemination]] of [[s/_said|said]] [[i/_information|information]], [[o/_often|often]] an [[a/_advertisement|advertisement]].**
 	- _Example: A leaflet had been left under the car's windshield wiper._
 - **A [[f/_flap|flap]] of a valve of a [[h/_heart|heart]] or [[b/_blood|blood]] vessel.**
 ---

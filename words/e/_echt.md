@@ -1,6 +1,6 @@
 # Echt
 ---
 #adjective
-- **Proper, real, [[g/_genuine|genuine]], true to type**
+- **[[p/_proper|Proper]], [[r/_real|real]], [[g/_genuine|genuine]], true to type**
 ---
 ---

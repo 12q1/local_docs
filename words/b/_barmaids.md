@@ -1,6 +1,6 @@
 # Barmaids
 ---
 #noun
-- **A woman who serves in a [[b/_bar|bar]].**
+- **A woman who [[s/_serves|serves]] in a [[b/_bar|bar]].**
 ---
 ---

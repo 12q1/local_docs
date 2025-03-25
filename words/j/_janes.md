@@ -5,10 +5,10 @@
 	- _Example: What happened to your regular Jane?_
 ---
 #noun
-- **A silver Genovese [[c/_coin|coin]], [[f/_first|first]] used in [[e/_england|England]] in the 14th [[c/_century|century]].**
+- **A [[s/_silver|silver]] Genovese [[c/_coin|coin]], [[f/_first|first]] used in [[e/_england|England]] in the 14th [[c/_century|century]].**
 ---
 #noun
-- **A [[f/_female|female]] [[c/_client|client]] of a prostitute.**
+- **A [[f/_female|female]] [[c/_client|client]] of a [[p/_prostitute|prostitute]].**
 ---
 #noun
 - **[[d/_denim|Denim]].**

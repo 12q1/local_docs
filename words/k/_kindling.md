@@ -11,11 +11,11 @@
 ### Antonyms
 - [[d/_dampen|dampen]], [[d/_douse|douse]], [[e/_extinguish|extinguish]]
 #verb
-- **(of a rabbit or [[h/_hare|hare]]) To [[b/_bring|bring]] [[f/_forth|forth]] [[y/_young|young]]; to [[g/_give|give]] [[b/_birth|birth]].**
+- **(of a [[r/_rabbit|rabbit]] or [[h/_hare|hare]]) To [[b/_bring|bring]] [[f/_forth|forth]] [[y/_young|young]]; to [[g/_give|give]] [[b/_birth|birth]].**
 ---
 #noun
-- **Small [[p/_pieces|pieces]] of wood and twigs used to start a [[f/_fire|fire]].**
+- **[[s/_small|Small]] [[p/_pieces|pieces]] of wood and twigs used to start a [[f/_fire|fire]].**
 	- _Example: Go and collect some kindling._
-- **The [[a/_act|act]] by which something is [[k/_kindled|kindled]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[k/_kindled|kindled]].**
 ---
 ---

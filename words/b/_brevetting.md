@@ -1,6 +1,6 @@
 # Brevetting
 ---
 #verb
-- **To promote by [[b/_brevet|brevet]].**
+- **To [[p/_promote|promote]] by [[b/_brevet|brevet]].**
 ---
 ---

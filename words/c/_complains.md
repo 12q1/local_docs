@@ -1,7 +1,7 @@
 # Complains
 ---
 #verb
-- **To [[e/_express|express]] [[f/_feelings|feelings]] of [[p/_pain|pain]], [[d/_dissatisfaction|dissatisfaction]], or resentment.**
+- **To [[e/_express|express]] [[f/_feelings|feelings]] of [[p/_pain|pain]], [[d/_dissatisfaction|dissatisfaction]], or [[r/_resentment|resentment]].**
 	- _Example: Joe was always complaining about the noise made by his neighbours._
 - **To [[m/_make|make]] a [[f/_formal|formal]] [[a/_accusation|accusation]] or [[b/_bring|bring]] a [[f/_formal|formal]] [[c/_charge|charge]].**
 	- _Example: They've complained about me to the police again._

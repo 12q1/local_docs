@@ -4,10 +4,10 @@
 - **[[l/_leachate|Leachate]]**
 ---
 #verb
-- **To separate (a substance) [[i/_into|into]] soluble and [[i/_insoluble|insoluble]] [[c/_components|components]] through [[p/_percolation|percolation]]; to [[l/_leach|leach]].**
+- **To [[s/_separate|separate]] (a substance) [[i/_into|into]] [[s/_soluble|soluble]] and [[i/_insoluble|insoluble]] [[c/_components|components]] through [[p/_percolation|percolation]]; to [[l/_leach|leach]].**
 ---
 #adjective
-- **Of or relating to [[l/_lye|lye]] or [[l/_lixivium|lixivium]]; of the quality of [[a/_alkaline|alkaline]] salts.**
-- **[[i/_impregnated|Impregnated]] with salts from wood [[a/_ashes|ashes]].**
+- **Of or [[r/_relating|relating]] to [[l/_lye|lye]] or [[l/_lixivium|lixivium]]; of the [[q/_quality|quality]] of [[a/_alkaline|alkaline]] [[s/_salts|salts]].**
+- **[[i/_impregnated|Impregnated]] with [[s/_salts|salts]] from wood [[a/_ashes|ashes]].**
 ---
 ---

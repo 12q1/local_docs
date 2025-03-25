@@ -23,6 +23,6 @@
 	- _Example: Jones fouled for strike one._
 ---
 #noun
-- **The [[a/_adhesion|adhesion]] of a [[f/_foreign|foreign]] [[m/_material|material]] [[o/_onto|onto]] a surface, [[e/_especially|especially]] so as to reduce [[i/_its|its]] [[f/_functionality|functionality]].**
+- **The [[a/_adhesion|adhesion]] of a [[f/_foreign|foreign]] [[m/_material|material]] [[o/_onto|onto]] a surface, [[e/_especially|especially]] [[s/_so|so]] as to [[r/_reduce|reduce]] [[i/_its|its]] [[f/_functionality|functionality]].**
 ---
 ---

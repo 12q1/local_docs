@@ -4,10 +4,10 @@
 - **A [[l/_light|light]] [[m/_musket|musket]] or [[f/_firelock|firelock]].**
 ---
 #noun
-- **A [[c/_conical|conical]], [[g/_grooved|grooved]] pulley in [[e/_early|early]] [[c/_clocks|clocks]].**
+- **A [[c/_conical|conical]], [[g/_grooved|grooved]] [[p/_pulley|pulley]] in [[e/_early|early]] [[c/_clocks|clocks]].**
 - **A [[l/_large|large]] [[f/_friction|friction]] [[m/_match|match]].**
 - **A [[f/_fuse|fuse]] for an [[e/_explosive|explosive]].**
-- **A [[c/_colored|colored]] [[f/_flare|flare]] used as a warning on the railroad.**
+- **A [[c/_colored|colored]] [[f/_flare|flare]] used as a warning on the [[r/_railroad|railroad]].**
 - **A [[f/_fusil|fusil]], or [[f/_flintlock|flintlock]] [[m/_musket|musket]].**
 ---
 #noun

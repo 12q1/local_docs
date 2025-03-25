@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[h/_having|Having]] a [[p/_positive|positive]] [[e/_electric|electric]] [[c/_charge|charge]]**
-- **Tending to release [[e/_electrons|electrons]] to [[f/_form|form]] a [[c/_chemical|chemical]] [[b/_bond|bond]]**
+- **Tending to [[r/_release|release]] [[e/_electrons|electrons]] to [[f/_form|form]] a [[c/_chemical|chemical]] [[b/_bond|bond]]**
 ---
 ### Antonyms
 - [[e/_electronegative|electronegative]]

@@ -5,8 +5,8 @@
 	- _Example: to have a flair for art_
 - **[[d/_distinctive|Distinctive]] style or [[e/_elegance|elegance]].**
 	- _Example: to dress with flair_
-- **Smell; [[o/_odor|odor]].**
-- **[[o/_olfaction|Olfaction]]; sense of smell.**
+- **[[s/_smell|Smell]]; [[o/_odor|odor]].**
+- **[[o/_olfaction|Olfaction]]; [[s/_sense|sense]] of [[s/_smell|smell]].**
 ---
 ### Synonyms
 - [[e/_elan|elan]], [[e/_elegance|elegance]], [[g/_grace|grace]], [[p/_panache|panache]], [[s/_style|style]], [[g/_gift|gift]], [[k/_knack|knack]], [[t/_talent|talent]]

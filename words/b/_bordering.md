@@ -1,7 +1,7 @@
 # Bordering
 ---
 #verb
-- **To put a [[b/_border|border]] on something.**
+- **To [[p/_put|put]] a [[b/_border|border]] on [[s/_something|something]].**
 - **To [[f/_form|form]] a [[b/_border|border]] [[a/_around|around]]; to [[b/_bound|bound]].**
 - **To [[l/_lie|lie]] on, or [[a/_adjacent|adjacent]] to, a [[b/_border|border]] of.**
 	- _Example: Denmark borders Germany to the south._

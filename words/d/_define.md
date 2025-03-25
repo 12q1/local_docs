@@ -1,20 +1,20 @@
 # Define
 ---
 #noun
-- **A [[k/_kind|kind]] of [[m/_macro|macro]] in source [[c/_code|code]] that replaces [[o/_one|one]] text string with [[a/_another|another]] wherever it [[o/_occurs|occurs]].**
+- **A [[k/_kind|kind]] of [[m/_macro|macro]] in [[s/_source|source]] [[c/_code|code]] that [[r/_replaces|replaces]] [[o/_one|one]] text string with [[a/_another|another]] wherever it [[o/_occurs|occurs]].**
 ---
 #verb
 - **To [[d/_determine|determine]] with [[p/_precision|precision]]; to [[m/_mark|mark]] [[o/_out|out]] with [[d/_distinctness|distinctness]]; to [[a/_ascertain|ascertain]] or [[e/_exhibit|exhibit]] [[c/_clearly|clearly]].**
 	- _Example: the defining power of an optical instrument_
-- **To settle, [[d/_decide|decide]] (an [[a/_argument|argument]] [[e/_etc|etc]].)**
-- **To [[e/_express|express]] the [[e/_essential|essential]] [[n/_nature|nature]] of something.**
+- **To [[s/_settle|settle]], [[d/_decide|decide]] (an [[a/_argument|argument]] [[e/_etc|etc]].)**
+- **To [[e/_express|express]] the [[e/_essential|essential]] [[n/_nature|nature]] of [[s/_something|something]].**
 	- _Example: I define myself as a techno-anarchist._
-- **To state the [[m/_meaning|meaning]] of a word, [[p/_phrase|phrase]], sign, or symbol.**
+- **To state the [[m/_meaning|meaning]] of a word, [[p/_phrase|phrase]], [[s/_sign|sign]], or [[s/_symbol|symbol]].**
 	- _Example: The textbook defined speed as velocity divided by time._
-- **To [[d/_describe|describe]], [[e/_explain|explain]], or [[m/_make|make]] [[d/_definite|definite]] and [[c/_clear|clear]]; used to request the [[l/_listener|listener]] or [[o/_other|other]] [[p/_person|person]] to [[e/_elaborate|elaborate]] or [[e/_explain|explain]] [[m/_more|more]] [[c/_clearly|clearly]] [[h/_his|his]] or [[h/_her|her]] [[i/_intended|intended]] [[m/_meaning|meaning]] of a word or [[e/_expression|expression]].**
+- **To [[d/_describe|describe]], [[e/_explain|explain]], or [[m/_make|make]] [[d/_definite|definite]] and [[c/_clear|clear]]; used to [[r/_request|request]] the [[l/_listener|listener]] or [[o/_other|other]] [[p/_person|person]] to [[e/_elaborate|elaborate]] or [[e/_explain|explain]] [[m/_more|more]] [[c/_clearly|clearly]] [[h/_his|his]] or [[h/_her|her]] [[i/_intended|intended]] [[m/_meaning|meaning]] of a word or [[e/_expression|expression]].**
 	- _Example: Person 1: Is she good at math?_
-- **To [[d/_demark|demark]] sharply the [[o/_outlines|outlines]] or [[l/_limits|limits]] of an [[a/_area|area]] or [[c/_concept|concept]].**
+- **To [[d/_demark|demark]] [[s/_sharply|sharply]] the [[o/_outlines|outlines]] or [[l/_limits|limits]] of an [[a/_area|area]] or [[c/_concept|concept]].**
 	- _Example: to define the legal boundaries of a property_
-- **To [[e/_establish|establish]] the referent of a term or [[n/_notation|notation]].**
+- **To [[e/_establish|establish]] the [[r/_referent|referent]] of a term or [[n/_notation|notation]].**
 ---
 ---

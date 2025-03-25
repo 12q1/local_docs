@@ -1,7 +1,7 @@
 # Frothy
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A serving of [[b/_beer|beer]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[s/_serving|serving]] of [[b/_beer|beer]].**
 ---
 #adjective
 - **[[f/_foamy|Foamy]] or [[c/_churned|churned]] to the [[p/_point|point]] of [[b/_becoming|becoming]] [[i/_infused|infused]] with [[b/_bubbles|bubbles]].**

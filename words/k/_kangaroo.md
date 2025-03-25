@@ -7,12 +7,12 @@
 ### Synonyms
 - [[m/_macropod|macropod]], [[r/_roo|roo]], [[h/_hoodie|hoodie]]
 #verb
-- **To [[p/_practice|practice]] [[k/_kangaroo|kangaroo]] [[c/_care|care]] on an [[i/_infant|infant]]; to [[h/_hold|hold]] a [[p/_premature|premature]] [[i/_infant|infant]] [[a/_against|against]] the skin.**
+- **To [[p/_practice|practice]] [[k/_kangaroo|kangaroo]] [[c/_care|care]] on an [[i/_infant|infant]]; to [[h/_hold|hold]] a [[p/_premature|premature]] [[i/_infant|infant]] [[a/_against|against]] the [[s/_skin|skin]].**
 - **To [[h/_hunt|hunt]] [[k/_kangaroo|kangaroo]].**
 - **To [[m/_move|move]] [[l/_like|like]] a [[k/_kangaroo|kangaroo]]**
 ---
 #adjective
-- **Of or relating to [[a/_australia|Australia]].**
-- **([[i/_investments|investments]]) [[c/_characterized|Characterized]] by rapidly [[j/_jumping|jumping]] prices in securities [[m/_markets|markets]] or by [[b/_belief|belief]] that the prices are unstable in [[c/_contrast|contrast]] to [[b/_bear|bear]] and [[b/_bull|bull]] [[m/_markets|markets]].**
+- **Of or [[r/_relating|relating]] to [[a/_australia|Australia]].**
+- **([[i/_investments|investments]]) [[c/_characterized|Characterized]] by [[r/_rapidly|rapidly]] [[j/_jumping|jumping]] [[p/_prices|prices]] in [[s/_securities|securities]] [[m/_markets|markets]] or by [[b/_belief|belief]] that the [[p/_prices|prices]] are unstable in [[c/_contrast|contrast]] to [[b/_bear|bear]] and [[b/_bull|bull]] [[m/_markets|markets]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Anthropometric
 ---
 #adjective
-- **Of, or relating to [[a/_anthropometry|anthropometry]]**
+- **Of, or [[r/_relating|relating]] to [[a/_anthropometry|anthropometry]]**
 ---
 ---

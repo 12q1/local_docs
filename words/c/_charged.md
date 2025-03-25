@@ -1,23 +1,23 @@
 # Charged
 ---
 #verb
-- **To [[a/_assign|assign]] a [[d/_duty|duty]] or responsibility to**
+- **To [[a/_assign|assign]] a [[d/_duty|duty]] or [[r/_responsibility|responsibility]] to**
 - **To [[a/_assign|assign]] (a [[d/_debit|debit]]) to an [[a/_account|account]]**
 	- _Example: Let's charge this to marketing._
 - **To [[p/_pay|pay]] on [[a/_account|account]], as by using a [[c/_credit|credit]] [[c/_card|card]]**
 	- _Example: Can I charge my purchase to my credit card?_
-- **To require [[p/_payment|payment]] (of) (a price or [[f/_fee|fee]], for [[g/_goods|goods]], services, [[e/_etc|etc]].)**
+- **To [[r/_require|require]] [[p/_payment|payment]] (of) (a [[p/_price|price]] or [[f/_fee|fee]], for [[g/_goods|goods]], [[s/_services|services]], [[e/_etc|etc]].)**
 	- _Example: I won't charge you for the wheat_
-- **([[p/_possibly|possibly]] [[a/_archaic|archaic]]) to sell at a [[g/_given|given]] price.**
+- **([[p/_possibly|possibly]] [[a/_archaic|archaic]]) to [[s/_sell|sell]] at a [[g/_given|given]] [[p/_price|price]].**
 	- _Example: to charge coal at $5 per unit_
 - **To [[f/_formally|formally]] [[a/_accuse|accuse]] (a [[p/_person|person]]) of a [[c/_crime|crime]].**
 	- _Example: I'm charging you with assault and battery._
 - **To [[i/_impute|impute]] or [[a/_ascribe|ascribe]]**
 - **To [[c/_call|call]] to [[a/_account|account]]; to [[c/_challenge|challenge]]**
 - **To [[p/_place|place]] a [[b/_burden|burden]] or [[l/_load|load]] on or in**
-- **To [[l/_load|load]] [[e/_equipment|equipment]] with [[m/_material|material]] required for [[i/_its|its]] use, as a [[f/_firearm|firearm]] with [[p/_powder|powder]], a [[f/_fire|fire]] [[h/_hose|hose]] with water, a [[c/_chemical|chemical]] reactor with raw [[m/_materials|materials]]**
+- **To [[l/_load|load]] [[e/_equipment|equipment]] with [[m/_material|material]] [[r/_required|required]] for [[i/_its|its]] use, as a [[f/_firearm|firearm]] with [[p/_powder|powder]], a [[f/_fire|fire]] [[h/_hose|hose]] with water, a [[c/_chemical|chemical]] [[r/_reactor|reactor]] with [[r/_raw|raw]] [[m/_materials|materials]]**
 	- _Example: Charge your weapons; we're moving up._
-- **To [[m/_move|move]] [[f/_forward|forward]] quickly and [[f/_forcefully|forcefully]], [[p/_particularly|particularly]] in [[c/_combat|combat]] and/or on [[h/_horseback|horseback]]**
+- **To [[m/_move|move]] [[f/_forward|forward]] [[q/_quickly|quickly]] and [[f/_forcefully|forcefully]], [[p/_particularly|particularly]] in [[c/_combat|combat]] and/or on [[h/_horseback|horseback]]**
 - **(of a [[h/_hunting|hunting]] [[d/_dog|dog]]) to [[l/_lie|lie]] on the [[b/_belly|belly]] and be still (A [[c/_command|command]] [[g/_given|given]] by a [[h/_hunter|hunter]] to a [[d/_dog|dog]])**
 ---
 ---

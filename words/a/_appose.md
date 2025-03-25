@@ -1,6 +1,6 @@
 # Appose
 ---
 #verb
-- **To [[i/_interrogate|interrogate]]; to question.**
+- **To [[i/_interrogate|interrogate]]; to [[q/_question|question]].**
 ---
 ---

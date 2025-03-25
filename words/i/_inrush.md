@@ -7,6 +7,6 @@
 ### Synonyms
 - [[s/_surge|surge]]
 #verb
-- **To rush in.**
+- **To [[r/_rush|rush]] in.**
 ---
 ---

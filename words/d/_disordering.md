@@ -1,6 +1,6 @@
 # Disordering
 ---
 #noun
-- **The removal of [[o/_order|order]]**
+- **The [[r/_removal|removal]] of [[o/_order|order]]**
 ---
 ---

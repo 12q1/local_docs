@@ -1,7 +1,7 @@
 # Dastardly
 ---
 #adjective
-- **In the [[m/_manner|manner]] of a [[d/_dastard|dastard]]; [[m/_marked|marked]] by [[c/_cowardice|cowardice]]; pusillanimous**
+- **In the [[m/_manner|manner]] of a [[d/_dastard|dastard]]; [[m/_marked|marked]] by [[c/_cowardice|cowardice]]; [[p/_pusillanimous|pusillanimous]]**
 - **Treacherous; [[g/_given|given]] to [[b/_backstabbing|backstabbing]]**
 ---
 #adverb

@@ -3,9 +3,9 @@
 #verb
 - **To spend in [[i/_idleness|idleness]]; to waste; to [[c/_consume|consume]].**
 - **To [[l/_lose|lose]] or spend time [[d/_doing|doing]] [[n/_nothing|nothing]], or without [[b/_being|being]] [[e/_employed|employed]] in [[b/_business|business]].**
-- **Of an [[e/_engine|engine]]: to run at a slow speed, or [[o/_out|out]] of [[g/_gear|gear]]; to tick [[o/_over|over]].**
+- **Of an [[e/_engine|engine]]: to [[r/_run|run]] at a [[s/_slow|slow]] speed, or [[o/_out|out]] of [[g/_gear|gear]]; to tick [[o/_over|over]].**
 ---
 #noun
-- **An [[i/_idle|idle]] [[p/_period|period]]; something [[d/_done|done]] [[i/_idly|idly]].**
+- **An [[i/_idle|idle]] [[p/_period|period]]; [[s/_something|something]] [[d/_done|done]] [[i/_idly|idly]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Colloguing
 ---
 #verb
-- **To simulate [[b/_belief|belief]].**
+- **To [[s/_simulate|simulate]] [[b/_belief|belief]].**
 - **To [[c/_coax|coax]]; to [[f/_flatter|flatter]].**
-- **To talk privately or secretly; to [[c/_conspire|conspire]].**
+- **To talk [[p/_privately|privately]] or [[s/_secretly|secretly]]; to [[c/_conspire|conspire]].**
 ---
 ---

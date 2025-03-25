@@ -8,6 +8,6 @@
 ---
 #adjective
 - **[[f/_fallow|Fallow]]; unseeded.**
-- **Rotated to [[p/_pasture|pasture]] [[i/_instead|instead]] of [[c/_cropping|cropping]].**
+- **[[r/_rotated|Rotated]] to [[p/_pasture|pasture]] [[i/_instead|instead]] of [[c/_cropping|cropping]].**
 ---
 ---

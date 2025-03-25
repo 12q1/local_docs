@@ -10,6 +10,6 @@
 - [[b/_berate|berate]], [[c/_condemn|condemn]], [[c/_criticize|criticize]], [[d/_denounce|denounce]], [[d/_denunciate|denunciate]], [[v/_vilify|vilify]]
 #adjective
 - **[[e/_explosive|Explosive]]**
-- **[[d/_describing|Describing]] [[a/_any|any]] sudden and severe ([[o/_often|often]] [[f/_fatal|fatal]]) [[i/_inflammation|inflammation]]**
+- **[[d/_describing|Describing]] [[a/_any|any]] sudden and [[s/_severe|severe]] ([[o/_often|often]] [[f/_fatal|fatal]]) [[i/_inflammation|inflammation]]**
 ---
 ---

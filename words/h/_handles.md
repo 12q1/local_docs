@@ -2,34 +2,34 @@
 ---
 #noun
 - **The [[p/_part|part]] of an [[o/_object|object]] which is ([[d/_designed|designed]] to be) [[h/_held|held]] in the [[h/_hand|hand]] when used or [[m/_moved|moved]].**
-- **An [[i/_instrument|instrument]] for [[e/_effecting|effecting]] a purpose ([[e/_either|either]] [[l/_literally|literally]] or [[f/_figuratively|figuratively]]); a tool, or an [[o/_opportunity|opportunity]] or [[p/_pretext|pretext]].**
+- **An [[i/_instrument|instrument]] for [[e/_effecting|effecting]] a [[p/_purpose|purpose]] ([[e/_either|either]] [[l/_literally|literally]] or [[f/_figuratively|figuratively]]); a tool, or an [[o/_opportunity|opportunity]] or [[p/_pretext|pretext]].**
 - **The [[g/_gross|gross]] [[a/_amount|amount]] of wagering within a [[g/_given|given]] [[p/_period|period]] of time or for a [[g/_given|given]] [[e/_event|event]] at [[o/_one|one]] of [[m/_more|more]] [[e/_establishments|establishments]].**
 	- _Example: The daily handle of a Las Vegas casino is typically millions of dollars._
-- **The tactile qualities of a [[f/_fabric|fabric]], [[e/_e|e]].[[g/_g|g]]., softness, [[f/_firmness|firmness]], [[e/_elasticity|elasticity]], [[f/_fineness|fineness]], resilience, and [[o/_other|other]] qualities [[p/_perceived|perceived]] by touch.**
-- **A [[n/_name|name]], [[n/_nickname|nickname]] or pseudonym.**
-- **A title [[a/_attached|attached]] to [[o/_one|one]]'s [[n/_name|name]], such as [[d/_doctor|Doctor]] or [[c/_colonel|Colonel]].**
+- **The tactile [[q/_qualities|qualities]] of a [[f/_fabric|fabric]], [[e/_e|e]].[[g/_g|g]]., [[s/_softness|softness]], [[f/_firmness|firmness]], [[e/_elasticity|elasticity]], [[f/_fineness|fineness]], [[r/_resilience|resilience]], and [[o/_other|other]] [[q/_qualities|qualities]] [[p/_perceived|perceived]] by touch.**
+- **A [[n/_name|name]], [[n/_nickname|nickname]] or [[p/_pseudonym|pseudonym]].**
+- **A title [[a/_attached|attached]] to [[o/_one|one]]'[[s/_s|s]] [[n/_name|name]], such as [[d/_doctor|Doctor]] or [[c/_colonel|Colonel]].**
 	- _Example: The successful businessman was knighted and acquired a handle to his name._
-- **A reference to an [[o/_object|object]] or structure that [[c/_can|can]] be stored in a variable.**
+- **A [[r/_reference|reference]] to an [[o/_object|object]] or structure that [[c/_can|can]] be stored in a variable.**
 	- _Example: This article describes how to find the module name from the window handle._
-- **A 10 [[f/_fl|fl]] [[o/_oz|oz]] (285 [[m/_ml|ml]]) [[g/_glass|glass]] of [[b/_beer|beer]] in the [[n/_northern|Northern]] Territory. (See [[a/_also|also]] [[p/_pot|pot]] and [[m/_middy|middy]] for [[o/_other|other]] regional variations.)**
-- **A [[h/_half|half]]-[[g/_gallon|gallon]] (1.75-[[l/_liter|liter]]) [[b/_bottle|bottle]] of [[a/_alcohol|alcohol]]. ([[c/_called|Called]] a sixty in [[c/_canada|Canada]].)**
+- **A 10 [[f/_fl|fl]] [[o/_oz|oz]] (285 [[m/_ml|ml]]) [[g/_glass|glass]] of [[b/_beer|beer]] in the [[n/_northern|Northern]] Territory. ([[s/_see|See]] [[a/_also|also]] [[p/_pot|pot]] and [[m/_middy|middy]] for [[o/_other|other]] [[r/_regional|regional]] variations.)**
+- **A [[h/_half|half]]-[[g/_gallon|gallon]] (1.75-[[l/_liter|liter]]) [[b/_bottle|bottle]] of [[a/_alcohol|alcohol]]. ([[c/_called|Called]] a [[s/_sixty|sixty]] in [[c/_canada|Canada]].)**
 - **A [[p/_point|point]], an [[e/_extremity|extremity]] of [[l/_land|land]].**
 	- _Example: the Handle of the Sug in Newfoundland_
-- **A topological space [[h/_homeomorphic|homeomorphic]] to a [[b/_ball|ball]] but viewed as a product of two [[l/_lower|lower]]-[[d/_dimensional|dimensional]] [[b/_balls|balls]].**
-- **The smooth, [[i/_irreducible|irreducible]] subcurve of a [[c/_comb|comb]] which [[c/_connects|connects]] to [[e/_each|each]] of the [[o/_other|other]] [[c/_components|components]] in [[e/_exactly|exactly]] [[o/_one|one]] [[p/_point|point]].**
+- **A topological [[s/_space|space]] [[h/_homeomorphic|homeomorphic]] to a [[b/_ball|ball]] but viewed as a [[p/_product|product]] of two [[l/_lower|lower]]-[[d/_dimensional|dimensional]] [[b/_balls|balls]].**
+- **The [[s/_smooth|smooth]], [[i/_irreducible|irreducible]] subcurve of a [[c/_comb|comb]] which [[c/_connects|connects]] to [[e/_each|each]] of the [[o/_other|other]] [[c/_components|components]] in [[e/_exactly|exactly]] [[o/_one|one]] [[p/_point|point]].**
 ---
 #verb
-- **To touch; to [[f/_feel|feel]] or [[h/_hold|hold]] with the [[h/_hand|hand]](s).**
+- **To touch; to [[f/_feel|feel]] or [[h/_hold|hold]] with the [[h/_hand|hand]]([[s/_s|s]]).**
 - **To [[a/_accustom|accustom]] to the [[h/_hand|hand]]; to take [[c/_care|care]] of with the [[h/_hands|hands]].**
 - **To [[m/_manage|manage]], use, or wield with the [[h/_hands|hands]].**
 - **To [[m/_manage|manage]], [[c/_control|control]], or [[d/_direct|direct]].**
 - **To treat, to [[d/_deal|deal]] with (in a specified way).**
 	- _Example: she handled the news with grace, the Persians handled the French ambassador shamefully_
-- **To [[d/_deal|deal]] with (a subject, [[a/_argument|argument]], topic, or theme) in speaking, in writing, or in [[a/_art|art]].**
-- **To receive and transfer; to [[h/_have|have]] [[p/_pass|pass]] through [[o/_one|one]]'s [[h/_hands|hands]]; [[h/_hence|hence]], to [[b/_buy|buy]] and sell.**
+- **To [[d/_deal|deal]] with (a subject, [[a/_argument|argument]], topic, or theme) in [[s/_speaking|speaking]], in writing, or in [[a/_art|art]].**
+- **To [[r/_receive|receive]] and transfer; to [[h/_have|have]] [[p/_pass|pass]] through [[o/_one|one]]'[[s/_s|s]] [[h/_hands|hands]]; [[h/_hence|hence]], to [[b/_buy|buy]] and [[s/_sell|sell]].**
 	- _Example: a merchant handles a variety of goods, or a large stock_
 - **To be [[c/_concerned|concerned]] with; to be an [[e/_expert|expert]] in.**
-- **To put up with; to [[e/_endure|endure]] (and [[c/_continue|continue]] to [[f/_function|function]]).**
+- **To [[p/_put|put]] up with; to [[e/_endure|endure]] (and [[c/_continue|continue]] to [[f/_function|function]]).**
 	- _Example: I can't handle this hot weather._
 - **To use the [[h/_hands|hands]].**
 - **To [[i/_illegally|illegally]] touch the [[b/_ball|ball]] with the [[h/_hand|hand]] or [[a/_arm|arm]]; to [[c/_commit|commit]] [[h/_handball|handball]].**

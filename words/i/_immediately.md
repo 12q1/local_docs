@@ -7,7 +7,7 @@
 ### Synonyms
 - [[f/_forthwith|forthwith]], [[n/_now|now]]
 #conjunction
-- **[[d/_directly|Directly]] (as soon as). [[i/_indicates|Indicates]] that the [[i/_independent|independent]] [[c/_clause|clause]] [[d/_describes|describes]] something that [[o/_occurs|occurs]] [[i/_immediately|immediately]] [[a/_after|after]] the [[d/_dependent|dependent]] [[c/_clause|clause]]'s referent [[d/_does|does]].**
+- **[[d/_directly|Directly]] (as [[s/_soon|soon]] as). [[i/_indicates|Indicates]] that the [[i/_independent|independent]] [[c/_clause|clause]] [[d/_describes|describes]] [[s/_something|something]] that [[o/_occurs|occurs]] [[i/_immediately|immediately]] [[a/_after|after]] the [[d/_dependent|dependent]] [[c/_clause|clause]]'[[s/_s|s]] [[r/_referent|referent]] [[d/_does|does]].**
 ---
 ### Synonyms
 - [[a/_after|after]], [[d/_directly|directly]], [[i/_immediately|immediately]], [[r/_right|right]]

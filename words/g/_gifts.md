@@ -1,11 +1,11 @@
 # Gifts
 ---
 #noun
-- **Something [[g/_given|given]] to [[a/_another|another]] voluntarily, without [[c/_charge|charge]].**
+- **[[s/_something|Something]] [[g/_given|given]] to [[a/_another|another]] voluntarily, without [[c/_charge|charge]].**
 - **A talent or [[n/_natural|natural]] [[a/_ability|ability]].**
 	- _Example: She had a gift for playing the flute._
-- **Something [[g/_gained|gained]] [[i/_incidentally|incidentally]], without [[e/_effort|effort]].**
-- **The [[a/_act|act]], right, or [[p/_power|power]] of [[g/_giving|giving]] or [[b/_bestowing|bestowing]].**
+- **[[s/_something|Something]] [[g/_gained|gained]] [[i/_incidentally|incidentally]], without [[e/_effort|effort]].**
+- **The [[a/_act|act]], [[r/_right|right]], or [[p/_power|power]] of [[g/_giving|giving]] or [[b/_bestowing|bestowing]].**
 	- _Example: The office is in the gift of the President._
 ---
 ### Synonyms

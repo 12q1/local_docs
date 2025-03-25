@@ -1,7 +1,7 @@
 # Horrid
 ---
 #adjective
-- **[[b/_bristling|Bristling]], rough, rugged.**
+- **[[b/_bristling|Bristling]], [[r/_rough|rough]], [[r/_rugged|rugged]].**
 - **[[c/_causing|Causing]] [[h/_horror|horror]] or [[d/_dread|dread]].**
 - **[[o/_offensive|Offensive]], [[d/_disagreeable|disagreeable]], [[a/_abominable|abominable]], [[e/_execrable|execrable]].**
 	- _Example: The other girls in class are always horrid to Jane._

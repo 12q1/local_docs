@@ -1,6 +1,6 @@
 # Covertly
 ---
 #adverb
-- **In a [[c/_covert|covert]] [[m/_manner|manner]], secretly.**
+- **In a [[c/_covert|covert]] [[m/_manner|manner]], [[s/_secretly|secretly]].**
 ---
 ---

@@ -3,7 +3,7 @@
 #noun
 - **The [[f/_fans|fans]] of a sport, [[a/_activity|activity]], work, [[p/_person|person]] [[e/_etc|etc]]., taken as a [[g/_group|group]].**
 - **The subculture of [[f/_fans|fans]].**
-- **The state, quality, or [[c/_condition|condition]] of [[b/_being|being]] a [[f/_fan|fan]].**
+- **The state, [[q/_quality|quality]], or [[c/_condition|condition]] of [[b/_being|being]] a [[f/_fan|fan]].**
 ---
 ### Synonyms
 - [[f/_fanhood|fanhood]], [[f/_fanship|fanship]]

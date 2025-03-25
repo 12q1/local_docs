@@ -16,7 +16,7 @@
 	- _Example: Come on honey, let’s frig._
 - **To [[m/_mess|mess]] or [[m/_muck|muck]] ([[a/_about|about]], [[a/_around|around]] [[e/_etc|etc]].)**
 	- _Example: Be sensible, you’re just frigging about now._
-- **To [[m/_make|make]] a temporary [[a/_alteration|alteration]] to something, to [[f/_fudge|fudge]], to [[m/_manipulate|manipulate]]**
+- **To [[m/_make|make]] a temporary [[a/_alteration|alteration]] to [[s/_something|something]], to [[f/_fudge|fudge]], to [[m/_manipulate|manipulate]]**
 	- _Example: The system wasn't working but I've frigged the data and it's usable now._
 ---
 ### Synonyms

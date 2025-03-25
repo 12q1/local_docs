@@ -9,7 +9,7 @@
 	- _Example: After a confused murmur the audience soon clamored_
 - **To [[i/_influence|influence]] by [[o/_outcry|outcry]].**
 	- _Example: His many supporters successfully clamor his election without a formal vote_
-- **To silence.**
+- **To [[s/_silence|silence]].**
 ---
 ### Synonyms
 - [[d/_din|din]]

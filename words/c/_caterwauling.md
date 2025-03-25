@@ -5,6 +5,6 @@
 - **To [[h/_have|have]] a [[n/_noisy|noisy]] [[a/_argument|argument]], [[l/_like|like]] [[c/_cats|cats]].**
 ---
 #noun
-- **A sound that [[c/_caterwauls|caterwauls]].**
+- **A [[s/_sound|sound]] that [[c/_caterwauls|caterwauls]].**
 ---
 ---

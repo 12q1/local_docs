@@ -4,6 +4,6 @@
 - **The [[l/_lambdoid|lambdoid]] suture.**
 ---
 #adjective
-- **Shaped [[l/_like|like]] the [[g/_greek|Greek]] [[l/_letter|letter]] [[l/_lambda|lambda]]:**
+- **[[s/_shaped|Shaped]] [[l/_like|like]] the [[g/_greek|Greek]] [[l/_letter|letter]] [[l/_lambda|lambda]]:**
 ---
 ---

@@ -1,6 +1,6 @@
 # Guyots
 ---
 #noun
-- **A [[f/_flat|flat]]-topped seamount.**
+- **A [[f/_flat|flat]]-topped [[s/_seamount|seamount]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Fortifies
 ---
 #verb
-- **To [[i/_increase|increase]] the [[d/_defenses|defenses]] of; to strengthen and secure by [[m/_military|military]] works; to render [[d/_defensible|defensible]] [[a/_against|against]] an [[a/_attack|attack]] by [[h/_hostile|hostile]] [[f/_forces|forces]].**
+- **To [[i/_increase|increase]] the [[d/_defenses|defenses]] of; to strengthen and [[s/_secure|secure]] by [[m/_military|military]] works; to [[r/_render|render]] [[d/_defensible|defensible]] [[a/_against|against]] an [[a/_attack|attack]] by [[h/_hostile|hostile]] [[f/_forces|forces]].**
 - **To [[i/_impart|impart]] strength or vigor to.**
 - **To [[a/_add|add]] spirits to wine to [[i/_increase|increase]] the [[a/_alcohol|alcohol]] [[c/_content|content]].**
 	- _Example: Sherry is made by fortifying wine._

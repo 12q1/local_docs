@@ -1,6 +1,6 @@
 # Chancer
 ---
 #noun
-- **A scheming [[o/_opportunist|opportunist]].**
+- **A [[s/_scheming|scheming]] [[o/_opportunist|opportunist]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dumbstruck
 ---
 #adjective
-- **So shocked as to be unable to speak**
+- **[[s/_so|So]] [[s/_shocked|shocked]] as to be unable to [[s/_speak|speak]]**
 ---
 ---

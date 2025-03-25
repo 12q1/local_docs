@@ -1,6 +1,6 @@
 # Cookshop
 ---
 #noun
-- **A shop that sells [[c/_cooked|cooked]] [[f/_food|food]].**
+- **A [[s/_shop|shop]] that [[s/_sells|sells]] [[c/_cooked|cooked]] [[f/_food|food]].**
 ---
 ---

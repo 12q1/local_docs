@@ -1,18 +1,18 @@
 # Gallops
 ---
 #noun
-- **The [[f/_fastest|fastest]] [[g/_gait|gait]] of a [[h/_horse|horse]], a two-[[b/_beat|beat]] stride [[d/_during|during]] which [[a/_all|all]] [[f/_four|four]] [[l/_legs|legs]] are [[o/_off|off]] the [[g/_ground|ground]] simultaneously.**
-- **An [[a/_abnormal|abnormal]] rhythm of the [[h/_heart|heart]], [[m/_made|made]] up of three or [[f/_four|four]] sounds, [[l/_like|like]] a [[h/_horse|horse]]'s [[g/_gallop|gallop]].**
+- **The [[f/_fastest|fastest]] [[g/_gait|gait]] of a [[h/_horse|horse]], a two-[[b/_beat|beat]] stride [[d/_during|during]] which [[a/_all|all]] [[f/_four|four]] [[l/_legs|legs]] are [[o/_off|off]] the [[g/_ground|ground]] [[s/_simultaneously|simultaneously]].**
+- **An [[a/_abnormal|abnormal]] [[r/_rhythm|rhythm]] of the [[h/_heart|heart]], [[m/_made|made]] up of three or [[f/_four|four]] [[s/_sounds|sounds]], [[l/_like|like]] a [[h/_horse|horse]]'[[s/_s|s]] [[g/_gallop|gallop]].**
 ---
 #verb
-- **(of a [[h/_horse|horse]], [[e/_etc|etc]]) To run at a [[g/_gallop|gallop]].**
+- **(of a [[h/_horse|horse]], [[e/_etc|etc]]) To [[r/_run|run]] at a [[g/_gallop|gallop]].**
 	- _Example: The horse galloped past the finishing line._
-- **To ride at a [[g/_galloping|galloping]] [[p/_pace|pace]].**
+- **To [[r/_ride|ride]] at a [[g/_galloping|galloping]] [[p/_pace|pace]].**
 - **To [[c/_cause|cause]] to [[g/_gallop|gallop]].**
 	- _Example: to gallop a horse_
 - **To [[m/_make|make]] [[e/_electrical|electrical]] or [[o/_other|other]] utility [[l/_lines|lines]] sway and/or [[m/_move|move]] up and [[d/_down|down]] violently, usually [[d/_due|due]] to a [[c/_combination|combination]] of [[h/_high|high]] winds and [[i/_ice|ice]] [[a/_accrual|accrual]] on the [[l/_lines|lines]].**
-- **To run very [[f/_fast|fast]].**
-- **To [[g/_go|go]] rapidly or [[c/_carelessly|carelessly]], as in [[m/_making|making]] a [[h/_hasty|hasty]] [[e/_examination|examination]].**
-- **(of an [[i/_infection|infection]], [[e/_especially|especially]] [[p/_pneumonia|pneumonia]]) To progress rapidly through the [[b/_body|body]].**
+- **To [[r/_run|run]] very [[f/_fast|fast]].**
+- **To [[g/_go|go]] [[r/_rapidly|rapidly]] or [[c/_carelessly|carelessly]], as in [[m/_making|making]] a [[h/_hasty|hasty]] [[e/_examination|examination]].**
+- **(of an [[i/_infection|infection]], [[e/_especially|especially]] [[p/_pneumonia|pneumonia]]) To [[p/_progress|progress]] [[r/_rapidly|rapidly]] through the [[b/_body|body]].**
 ---
 ---

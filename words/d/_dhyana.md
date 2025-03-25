@@ -1,6 +1,6 @@
 # Dhyana
 ---
 #noun
-- **A type of profound [[m/_meditation|meditation]].**
+- **A type of [[p/_profound|profound]] [[m/_meditation|meditation]].**
 ---
 ---

@@ -10,7 +10,7 @@
 	- _Example: to dispense justice_
 - **To supply or [[m/_make|make]] up a [[m/_medicine|medicine]] or [[p/_prescription|prescription]].**
 	- _Example: An optician can dispense spectacles._
-- **To [[g/_give|give]] a [[d/_dispensation|dispensation]] to (someone); to [[e/_excuse|excuse]].**
+- **To [[g/_give|give]] a [[d/_dispensation|dispensation]] to ([[s/_someone|someone]]); to [[e/_excuse|excuse]].**
 - **To [[c/_compensate|compensate]]; to [[m/_make|make]] up; to [[m/_make|make]] [[a/_amends|amends]].**
 ---
 ---

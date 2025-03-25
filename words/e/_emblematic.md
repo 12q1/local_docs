@@ -1,7 +1,7 @@
 # Emblematic
 ---
 #adjective
-- **Serving as, or relating to a symbol, [[e/_emblem|emblem]] or [[i/_illustration|illustration]] of a type.**
+- **[[s/_serving|Serving]] as, or [[r/_relating|relating]] to a [[s/_symbol|symbol]], [[e/_emblem|emblem]] or [[i/_illustration|illustration]] of a type.**
 - **Typical.**
 ---
 ### Synonyms

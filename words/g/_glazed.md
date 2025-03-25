@@ -10,6 +10,6 @@
 - **A [[g/_glazed|glazed]] [[d/_donut|donut]], [[o/_one|one]] with a [[c/_coating|coating]] such as sugar or [[c/_chocolate|chocolate]].**
 ---
 #adjective
-- **Of [[e/_eyes|eyes]]: showing [[n/_no|no]] [[l/_liveliness|liveliness]].**
+- **Of [[e/_eyes|eyes]]: [[s/_showing|showing]] [[n/_no|no]] [[l/_liveliness|liveliness]].**
 ---
 ---

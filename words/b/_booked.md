@@ -1,17 +1,17 @@
 # Booked
 ---
 #verb
-- **To reserve (something) for [[f/_future|future]] use.**
+- **To [[r/_reserve|reserve]] ([[s/_something|something]]) for [[f/_future|future]] use.**
 	- _Example: I can book tickets for the concert next week._
-- **To write [[d/_down|down]], to register or record in a [[b/_book|book]] or as in a [[b/_book|book]].**
+- **To write [[d/_down|down]], to [[r/_register|register]] or [[r/_record|record]] in a [[b/_book|book]] or as in a [[b/_book|book]].**
 	- _Example: They booked that message from the hill_
-- **([[l/_law|law]] [[e/_enforcement|enforcement]]) To record the [[n/_name|name]] and [[o/_other|other]] [[d/_details|details]] of a suspected [[o/_offender|offender]] and the [[o/_offence|offence]] for [[l/_later|later]] [[j/_judicial|judicial]] [[a/_action|action]].**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) To [[r/_record|record]] the [[n/_name|name]] and [[o/_other|other]] [[d/_details|details]] of a suspected [[o/_offender|offender]] and the [[o/_offence|offence]] for [[l/_later|later]] [[j/_judicial|judicial]] [[a/_action|action]].**
 	- _Example: The police booked him for driving too fast._
-- **To [[i/_issue|issue]] with a [[c/_caution|caution]], usually a [[y/_yellow|yellow]] [[c/_card|card]], or a red [[c/_card|card]] [[i/_if|if]] a [[y/_yellow|yellow]] [[c/_card|card]] [[h/_has|has]] [[a/_already|already]] [[b/_been|been]] [[i/_issued|issued]].**
+- **To [[i/_issue|issue]] with a [[c/_caution|caution]], usually a [[y/_yellow|yellow]] [[c/_card|card]], or a [[r/_red|red]] [[c/_card|card]] [[i/_if|if]] a [[y/_yellow|yellow]] [[c/_card|card]] [[h/_has|has]] [[a/_already|already]] [[b/_been|been]] [[i/_issued|issued]].**
 - **To travel very [[f/_fast|fast]].**
 	- _Example: He was really booking, until he passed the speed trap._
-- **To record [[b/_bets|bets]] as [[b/_bookmaker|bookmaker]].**
-- **([[l/_law|law]] student slang) To receive the [[h/_highest|highest]] [[g/_grade|grade]] in a [[c/_class|class]].**
+- **To [[r/_record|record]] [[b/_bets|bets]] as [[b/_bookmaker|bookmaker]].**
+- **([[l/_law|law]] student [[s/_slang|slang]]) To [[r/_receive|receive]] the [[h/_highest|highest]] [[g/_grade|grade]] in a [[c/_class|class]].**
 	- _Example: The top three students had a bet on which one was going to book their intellectual property class._
 - **To [[l/_leave|leave]].**
 	- _Example: He was here earlier, but he booked._

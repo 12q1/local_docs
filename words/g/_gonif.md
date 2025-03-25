@@ -1,6 +1,6 @@
 # Gonif
 ---
 #noun
-- **A thief; a rascal or scoundrel.**
+- **A thief; a [[r/_rascal|rascal]] or [[s/_scoundrel|scoundrel]].**
 ---
 ---

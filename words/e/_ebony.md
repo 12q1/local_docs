@@ -9,6 +9,6 @@
 #adjective
 - **[[m/_made|Made]] of [[e/_ebony|ebony]] wood.**
 - **A [[d/_deep|deep]], [[d/_dark|dark]] [[b/_black|black]] [[c/_colour|colour]].**
-- **[[d/_dark|Dark]]-skinned; [[b/_black|black]]; [[e/_especially|especially]] in reference to [[a/_african|African]]-[[a/_americans|Americans]].**
+- **[[d/_dark|Dark]]-[[s/_skinned|skinned]]; [[b/_black|black]]; [[e/_especially|especially]] in [[r/_reference|reference]] to [[a/_african|African]]-[[a/_americans|Americans]].**
 ---
 ---

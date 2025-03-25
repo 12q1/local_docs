@@ -8,13 +8,13 @@
 - **To [[i/_invest|invest]] (a [[p/_person|person]]) with a [[b/_belt|belt]] as [[p/_part|part]] of a [[f/_formal|formal]] [[c/_ceremony|ceremony]] such as [[k/_knighthood|knighthood]].**
 - **To [[h/_hit|hit]] with a [[b/_belt|belt]].**
 	- _Example: The child was misbehaving so he was belted as punishment._
-- **To scream or sing in a [[l/_loud|loud]] [[m/_manner|manner]].**
+- **To [[s/_scream|scream]] or [[s/_sing|sing]] in a [[l/_loud|loud]] [[m/_manner|manner]].**
 	- _Example: He belted out the national anthem._
-- **To [[d/_drink|drink]] quickly, [[o/_often|often]] in [[g/_gulps|gulps]].**
+- **To [[d/_drink|drink]] [[q/_quickly|quickly]], [[o/_often|often]] in [[g/_gulps|gulps]].**
 	- _Example: He belted down a shot of whisky._
-- **To [[h/_hit|hit]] someone or something.**
+- **To [[h/_hit|hit]] [[s/_someone|someone]] or [[s/_something|something]].**
 	- _Example: The angry player belted the official across the face, and as a result was ejected from the game._
-- **To [[h/_hit|hit]] a [[p/_pitched|pitched]] [[b/_ball|ball]] a [[l/_long|long]] [[d/_distance|distance]], usually for a [[h/_home|home]] run.**
+- **To [[h/_hit|hit]] a [[p/_pitched|pitched]] [[b/_ball|ball]] a [[l/_long|long]] [[d/_distance|distance]], usually for a [[h/_home|home]] [[r/_run|run]].**
 	- _Example: He belted that pitch over the grandstand._
 - **To [[m/_move|move]] very [[f/_fast|fast]]**
 	- _Example: He was really belting along._

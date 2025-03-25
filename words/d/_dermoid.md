@@ -1,7 +1,7 @@
 # Dermoid
 ---
 #adjective
-- **Resembling skin**
+- **[[r/_resembling|Resembling]] [[s/_skin|skin]]**
 ---
 ### Synonyms
 - [[d/_dermatoid|dermatoid]]

@@ -1,6 +1,6 @@
 # Apologetics
 ---
 #noun
-- **The [[f/_field|field]] of study [[c/_concerned|concerned]] with the systematic [[d/_defense|defense]] of a [[p/_position|position]], or of religious or [[o/_occult|occult]] [[d/_doctrines|doctrines]]**
+- **The [[f/_field|field]] of study [[c/_concerned|concerned]] with the [[s/_systematic|systematic]] [[d/_defense|defense]] of a [[p/_position|position]], or of [[r/_religious|religious]] or [[o/_occult|occult]] [[d/_doctrines|doctrines]]**
 ---
 ---

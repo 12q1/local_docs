@@ -1,6 +1,6 @@
 # Diabolising
 ---
 #verb
-- **To represent as [[d/_diabolical|diabolical]]**
+- **To [[r/_represent|represent]] as [[d/_diabolical|diabolical]]**
 ---
 ---

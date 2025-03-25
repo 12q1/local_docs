@@ -1,6 +1,6 @@
 # Hierocratic
 ---
 #adjective
-- **Of or relating to a [[h/_hierocracy|hierocracy]]**
+- **Of or [[r/_relating|relating]] to a [[h/_hierocracy|hierocracy]]**
 ---
 ---

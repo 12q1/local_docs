@@ -9,10 +9,10 @@
 ### Synonyms
 - [[E/_Eskimo|Eskimo]], [[I/_Indian|Indian]], [[I/_Inuit|Inuit]], [[M/_Metis|Metis]], [[N/_Native|Native]], [[a/_aboriginal|aboriginal]], [[n/_native|native]], [[A/_Aborigine|Aborigine]], [[a/_aboriginal|aboriginal]], [[a/_aborigine|aborigine]]
 #noun
-- **An [[a/_animal|animal]] or [[p/_plant|plant]] [[n/_native|native]] to a region.**
+- **An [[a/_animal|animal]] or [[p/_plant|plant]] [[n/_native|native]] to a [[r/_region|region]].**
 ---
 #adjective
-- **[[f/_first|First]] [[a/_according|according]] to [[h/_historical|historical]] or scientific records; [[o/_original|original]]; [[i/_indigenous|indigenous]]; primitive.**
+- **[[f/_first|First]] [[a/_according|according]] to [[h/_historical|historical]] or [[s/_scientific|scientific]] [[r/_records|records]]; [[o/_original|original]]; [[i/_indigenous|indigenous]]; [[p/_primitive|primitive]].**
 - **[[l/_living|Living]] in a [[l/_land|land]] [[b/_before|before]] [[c/_colonization|colonization]] by the [[e/_europeans|Europeans]].**
 ---
 ### Synonyms

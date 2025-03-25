@@ -1,8 +1,8 @@
 # Holistic
 ---
 #adjective
-- **Related to [[h/_holism|holism]].**
-- **Relating to a study of the whole [[i/_instead|instead]] of a separation [[i/_into|into]] [[p/_parts|parts]].**
+- **[[r/_related|Related]] to [[h/_holism|holism]].**
+- **[[r/_relating|Relating]] to a study of the whole [[i/_instead|instead]] of a [[s/_separation|separation]] [[i/_into|into]] [[p/_parts|parts]].**
 ---
 ### Synonyms
 - [[s/_systemic|systemic]]

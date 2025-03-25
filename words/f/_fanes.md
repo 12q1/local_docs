@@ -5,6 +5,6 @@
 - **A [[b/_banner|banner]], [[e/_especially|especially]] a [[m/_military|military]] [[b/_banner|banner]].**
 ---
 #noun
-- **A temple or sacred [[p/_place|place]].**
+- **A temple or [[s/_sacred|sacred]] [[p/_place|place]].**
 ---
 ---

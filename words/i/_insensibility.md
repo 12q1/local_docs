@@ -1,6 +1,6 @@
 # Insensibility
 ---
 #noun
-- **The property of [[b/_being|being]] [[i/_insensible|insensible]].**
+- **The [[p/_property|property]] of [[b/_being|being]] [[i/_insensible|insensible]].**
 ---
 ---

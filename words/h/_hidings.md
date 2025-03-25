@@ -5,6 +5,6 @@
 - **A [[p/_place|place]] of [[c/_concealment|concealment]].**
 ---
 #noun
-- **A [[b/_beating|beating]] or spanking.**
+- **A [[b/_beating|beating]] or [[s/_spanking|spanking]].**
 ---
 ---

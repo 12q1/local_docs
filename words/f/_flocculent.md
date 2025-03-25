@@ -6,7 +6,7 @@
 ### Antonyms
 - 
 #adjective
-- **[[f/_flocculated|Flocculated]], resembling [[b/_bits|bits]] of wool; woolly.**
+- **[[f/_flocculated|Flocculated]], [[r/_resembling|resembling]] [[b/_bits|bits]] of wool; woolly.**
 - **[[c/_covered|Covered]] in a woolly substance; [[d/_downy|downy]].**
 - **[[f/_flaky|Flaky]].**
 ---

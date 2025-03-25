@@ -1,7 +1,7 @@
 # Awesome
 ---
 #noun
-- **Short for [[a/_awesomeness|awesomeness]]: the quality, state, or [[e/_essence|essence]] of [[b/_being|being]] [[a/_awesome|awesome]].**
+- **[[s/_short|Short]] for [[a/_awesomeness|awesomeness]]: the [[q/_quality|quality]], state, or [[e/_essence|essence]] of [[b/_being|being]] [[a/_awesome|awesome]].**
 	- _Example: pure awesome; made of awesome_
 ---
 ### Synonyms
@@ -11,7 +11,7 @@
 #adjective
 - **[[c/_causing|Causing]] [[a/_awe|awe]] or terror; [[i/_inspiring|inspiring]] wonder or [[e/_excitement|excitement]].**
 	- _Example: The tsunami was awesome in its destructive power._
-- **[[e/_excellent|Excellent]], [[e/_exciting|exciting]], remarkable.**
+- **[[e/_excellent|Excellent]], [[e/_exciting|exciting]], [[r/_remarkable|remarkable]].**
 	- _Example: Awesome, dude!_
 ---
 ### Antonyms

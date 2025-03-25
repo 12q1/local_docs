@@ -1,6 +1,6 @@
 # Beaner
 ---
 #noun
-- **(racial slur) A [[m/_mexican|Mexican]].**
+- **([[r/_racial|racial]] [[s/_slur|slur]]) A [[m/_mexican|Mexican]].**
 ---
 ---

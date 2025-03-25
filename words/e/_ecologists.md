@@ -1,6 +1,6 @@
 # Ecologists
 ---
 #noun
-- **A scholar of [[e/_ecology|ecology]].**
+- **A [[s/_scholar|scholar]] of [[e/_ecology|ecology]].**
 ---
 ---

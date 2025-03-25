@@ -1,9 +1,9 @@
 # Frizzante
 ---
 #noun
-- **A [[l/_lightly|lightly]] sparkling wine.**
+- **A [[l/_lightly|lightly]] [[s/_sparkling|sparkling]] wine.**
 ---
 #adjective
-- **(of wines) [[l/_lightly|Lightly]] sparkling.**
+- **(of wines) [[l/_lightly|Lightly]] [[s/_sparkling|sparkling]].**
 ---
 ---

@@ -6,7 +6,7 @@
 - **A [[c/_cache|cache]] of valuable [[o/_objects|objects]] or [[a/_artefacts|artefacts]]; a trove.**
 ---
 #verb
-- **To [[a/_amass|amass]], usually for [[o/_one|one]]'s [[o/_own|own]] private [[c/_collection|collection]].**
+- **To [[a/_amass|amass]], usually for [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[p/_private|private]] [[c/_collection|collection]].**
 ---
 ### Synonyms
 - [[e/_engross|engross]], [[u/_uphoard|uphoard]]

@@ -11,7 +11,7 @@
 - **The [[a/_act|act]] of [[o/_one|one]] who [[b/_bumbles|bumbles]]; a [[m/_mistake|mistake]] or [[e/_error|error]], [[e/_especially|especially]] through [[c/_clumsiness|clumsiness]].**
 ---
 #adjective
-- **[[a/_acting|Acting]] in a [[c/_confused|confused]] or [[i/_ineffectual|ineffectual]] way; [[i/_incompetent|incompetent]]; showing [[l/_little|little]] or [[n/_no|no]] skill.**
+- **[[a/_acting|Acting]] in a [[c/_confused|confused]] or [[i/_ineffectual|ineffectual]] way; [[i/_incompetent|incompetent]]; [[s/_showing|showing]] [[l/_little|little]] or [[n/_no|no]] [[s/_skill|skill]].**
 	- _Example: a bumbling fool_
 ---
 ---

@@ -5,6 +5,6 @@
 - **A [[g/_general|general]] [[h/_health|health]] [[c/_checkup|checkup]] [[p/_performed|performed]] by a [[m/_medical|medical]] [[p/_practitioner|practitioner]].**
 ---
 #verb
-- **To [[p/_perform|perform]] a [[b/_body|body]] [[c/_check|check]] on someone.**
+- **To [[p/_perform|perform]] a [[b/_body|body]] [[c/_check|check]] on [[s/_someone|someone]].**
 ---
 ---

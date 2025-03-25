@@ -1,7 +1,7 @@
 # Conundrums
 ---
 #noun
-- **A [[d/_difficult|difficult]] question or riddle, [[e/_especially|especially]] [[o/_one|one]] using a [[p/_play|play]] on words in the [[a/_answer|answer]].**
+- **A [[d/_difficult|difficult]] [[q/_question|question]] or [[r/_riddle|riddle]], [[e/_especially|especially]] [[o/_one|one]] using a [[p/_play|play]] on words in the [[a/_answer|answer]].**
 - **A [[d/_difficult|difficult]] [[c/_choice|choice]] or [[d/_decision|decision]] that [[m/_must|must]] be [[m/_made|made]].**
 ---
 ### Synonyms

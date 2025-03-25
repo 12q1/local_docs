@@ -1,6 +1,6 @@
 # Beribboned
 ---
 #verb
-- **To trim with ribbon**
+- **To trim with [[r/_ribbon|ribbon]]**
 ---
 ---

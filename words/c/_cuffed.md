@@ -5,8 +5,8 @@
 - **To [[h/_handcuff|handcuff]].**
 ---
 #verb
-- **To [[h/_hit|hit]], as a reproach, [[p/_particularly|particularly]] with the [[o/_open|open]] [[p/_palm|palm]] to the [[h/_head|head]]; to slap.**
-- **To [[f/_fight|fight]]; to scuffle; to [[b/_box|box]].**
+- **To [[h/_hit|hit]], as a [[r/_reproach|reproach]], [[p/_particularly|particularly]] with the [[o/_open|open]] [[p/_palm|palm]] to the [[h/_head|head]]; to [[s/_slap|slap]].**
+- **To [[f/_fight|fight]]; to [[s/_scuffle|scuffle]]; to [[b/_box|box]].**
 - **To [[b/_buffet|buffet]].**
 ---
 #adjective

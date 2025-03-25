@@ -1,7 +1,7 @@
 # Cariogenic
 ---
 #adjective
-- **Of, or relating to cariogenesis.**
-- **Producing [[d/_dental|dental]] [[c/_caries|caries]].**
+- **Of, or [[r/_relating|relating]] to cariogenesis.**
+- **[[p/_producing|Producing]] [[d/_dental|dental]] [[c/_caries|caries]].**
 ---
 ---

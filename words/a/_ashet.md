@@ -1,6 +1,6 @@
 # Ashet
 ---
 #noun
-- **A [[l/_large|large]], shallow, [[o/_oval|oval]] [[d/_dish|dish]] used for serving [[f/_food|food]].**
+- **A [[l/_large|large]], [[s/_shallow|shallow]], [[o/_oval|oval]] [[d/_dish|dish]] used for [[s/_serving|serving]] [[f/_food|food]].**
 ---
 ---

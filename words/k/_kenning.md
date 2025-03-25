@@ -5,12 +5,12 @@
 ---
 #verb
 - **To [[k/_know|know]], [[p/_perceive|perceive]] or understand.**
-- **To [[d/_discover|discover]] by sight; to [[c/_catch|catch]] sight of; to [[d/_descry|descry]].**
+- **To [[d/_discover|discover]] by [[s/_sight|sight]]; to [[c/_catch|catch]] [[s/_sight|sight]] of; to [[d/_descry|descry]].**
 ---
 #noun
-- **Sight, view; specifically a [[d/_distant|distant]] view at sea.**
-- **The range or [[e/_extent|extent]] of vision, [[e/_especially|especially]] at sea; (by [[e/_extension|extension]]) a [[m/_marine|marine]] [[m/_measure|measure]] of [[a/_approximately|approximately]] twenty [[m/_miles|miles]].**
-- **As [[l/_little|little]] as [[o/_one|one]] [[c/_can|can]] [[d/_discriminate|discriminate]] or recognize; a small [[p/_portion|portion]], a [[l/_little|little]].**
+- **[[s/_sight|Sight]], view; specifically a [[d/_distant|distant]] view at [[s/_sea|sea]].**
+- **The [[r/_range|range]] or [[e/_extent|extent]] of vision, [[e/_especially|especially]] at [[s/_sea|sea]]; (by [[e/_extension|extension]]) a [[m/_marine|marine]] [[m/_measure|measure]] of [[a/_approximately|approximately]] twenty [[m/_miles|miles]].**
+- **As [[l/_little|little]] as [[o/_one|one]] [[c/_can|can]] [[d/_discriminate|discriminate]] or [[r/_recognize|recognize]]; a [[s/_small|small]] [[p/_portion|portion]], a [[l/_little|little]].**
 	- _Example: put in a kenning of salt_
 ---
 ---

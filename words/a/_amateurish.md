@@ -1,6 +1,6 @@
 # Amateurish
 ---
 #adjective
-- **Suggesting or reflecting the [[e/_efforts|efforts]] of an [[a/_amateur|amateur]]; not seeming professional or [[p/_polished|polished]].**
+- **Suggesting or [[r/_reflecting|reflecting]] the [[e/_efforts|efforts]] of an [[a/_amateur|amateur]]; not [[s/_seeming|seeming]] [[p/_professional|professional]] or [[p/_polished|polished]].**
 ---
 ---

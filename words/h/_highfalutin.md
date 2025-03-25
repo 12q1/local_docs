@@ -4,7 +4,7 @@
 - **[[p/_pompous|Pompous]] speech or writing.**
 ---
 #adjective
-- **Self-[[i/_important|important]], [[p/_pompous|pompous]]; [[a/_arrogant|arrogant]] or [[e/_egotistical|egotistical]].**
+- **[[s/_self|Self]]-[[i/_important|important]], [[p/_pompous|pompous]]; [[a/_arrogant|arrogant]] or [[e/_egotistical|egotistical]].**
 	- _Example: His speech was very highfalutin._
 ---
 ### Synonyms

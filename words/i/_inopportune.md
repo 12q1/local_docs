@@ -1,7 +1,7 @@
 # Inopportune
 ---
 #adjective
-- **Unsuitable for some [[p/_particular|particular]] purpose**
+- **Unsuitable for [[s/_some|some]] [[p/_particular|particular]] [[p/_purpose|purpose]]**
 	- _Example: That was a most inopportune spot for a picnic._
 - **At an [[i/_inconvenient|inconvenient]] or [[i/_inappropriate|inappropriate]] time**
 	- _Example: The inopportune arrival of the bus cut short the interesting conversation._

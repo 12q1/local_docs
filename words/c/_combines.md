@@ -10,7 +10,7 @@
 #verb
 - **To [[b/_bring|bring]] (two or [[m/_more|more]] things or [[a/_activities|activities]]) together; to unite.**
 	- _Example: Combine the milk and the hot water in a large bowl.   I'm combining business and pleasure on this trip._
-- **To [[h/_have|have]] two or [[m/_more|more]] things or properties that [[f/_function|function]] together.**
+- **To [[h/_have|have]] two or [[m/_more|more]] things or [[p/_properties|properties]] that [[f/_function|function]] together.**
 	- _Example: Joe combines the intelligence of a rock with the honesty of a politician._
 - **To [[c/_come|come]] together; to unite.**
 	- _Example: two substances that easily combine_

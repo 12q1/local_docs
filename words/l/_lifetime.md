@@ -1,7 +1,7 @@
 # Lifetime
 ---
 #noun
-- **The [[d/_duration|duration]] of the [[l/_life|life]] of someone or something.**
+- **The [[d/_duration|duration]] of the [[l/_life|life]] of [[s/_someone|someone]] or [[s/_something|something]].**
 - **A [[l/_long|long]] [[p/_period|period]] of time.**
 	- _Example: I've been waiting a lifetime for a train._
 ---

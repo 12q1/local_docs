@@ -1,6 +1,6 @@
 # Derided
 ---
 #verb
-- **To [[h/_harshly|harshly]] [[m/_mock|mock]]; ridicule.**
+- **To [[h/_harshly|harshly]] [[m/_mock|mock]]; [[r/_ridicule|ridicule]].**
 ---
 ---

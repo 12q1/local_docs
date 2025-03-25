@@ -1,7 +1,7 @@
 # Buffed
 ---
 #verb
-- **To [[p/_polish|polish]] and [[m/_make|make]] shiny by rubbing.**
+- **To [[p/_polish|polish]] and [[m/_make|make]] [[s/_shiny|shiny]] by [[r/_rubbing|rubbing]].**
 	- _Example: He was already buffing the car's hubs._
 - **To [[m/_make|make]] a [[c/_character|character]] or an [[i/_item|item]] stronger.**
 	- _Example: I noticed that the pistols were buffed in the update._

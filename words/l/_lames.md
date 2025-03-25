@@ -5,6 +5,6 @@
 	- _Example: 1877, Anna Sewell, Black Beauty: And if you don't want to lame your horse you must look sharp and get them [stones stuck in hooves] out quickly._
 ---
 #verb
-- **To shine.**
+- **To [[s/_shine|shine]].**
 ---
 ---

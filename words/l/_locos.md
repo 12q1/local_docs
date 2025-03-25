@@ -7,7 +7,7 @@
 - [[l/_locoweed|locoweed]]
 #verb
 - **To [[p/_poison|poison]] with the [[l/_loco|loco]] [[p/_plant|plant]]; to [[a/_affect|affect]] with [[l/_locoism|locoism]].**
-- **(by [[e/_extension|extension]]) To render [[i/_insane|insane]].**
+- **(by [[e/_extension|extension]]) To [[r/_render|render]] [[i/_insane|insane]].**
 ---
 #noun
 - **A [[l/_locomotive|locomotive]].**

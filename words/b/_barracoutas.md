@@ -1,6 +1,6 @@
 # Barracoutas
 ---
 #noun
-- **The snoek, Thyrsites atun, a foodfish.**
+- **The [[s/_snoek|snoek]], Thyrsites atun, a foodfish.**
 ---
 ---

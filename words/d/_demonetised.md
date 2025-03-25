@@ -1,6 +1,6 @@
 # Demonetised
 ---
 #verb
-- **To remove the status of [[l/_legal|legal]] tender from (a [[c/_coin|coin]] [[e/_etc|etc]].) and remove it from [[c/_circulation|circulation]].**
+- **To [[r/_remove|remove]] the status of [[l/_legal|legal]] tender from (a [[c/_coin|coin]] [[e/_etc|etc]].) and [[r/_remove|remove]] it from [[c/_circulation|circulation]].**
 ---
 ---

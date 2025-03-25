@@ -3,12 +3,12 @@
 #noun
 - **A [[p/_period|period]] of the [[e/_ecclesiastical|ecclesiastical]] [[y/_year|year]] [[p/_preceding|preceding]] [[e/_easter|Easter]], traditionally [[i/_involving|involving]] temporary [[a/_abstention|abstention]] from [[c/_certain|certain]] [[f/_foods|foods]] and [[p/_pleasures|pleasures]].**
 	- _Example: Hezekiah gave up vaping for Lent._
-- **The second term of the [[a/_academic|academic]] [[y/_year|year]] at some [[b/_british|British]] schools.**
+- **The [[s/_second|second]] term of the [[a/_academic|academic]] [[y/_year|year]] at [[s/_some|some]] [[b/_british|British]] [[s/_schools|schools]].**
 ---
 ### Synonyms
 - [[L/_Lenten|Lenten]], [[L/_Lententide|Lententide]], [[Q/_Quadragesima|Quadragesima]], [[s/_season|season]]
 #verb
-- **To [[a/_allow|allow]] to be used by someone temporarily, on [[c/_condition|condition]] that it or [[i/_its|its]] [[e/_equivalent|equivalent]] will be returned.**
+- **To [[a/_allow|allow]] to be used by [[s/_someone|someone]] temporarily, on [[c/_condition|condition]] that it or [[i/_its|its]] [[e/_equivalent|equivalent]] will be [[r/_returned|returned]].**
 	- _Example: I lent her 10 euros to pay for the train tickets, and she paid me back the next day._
 - **To [[m/_make|make]] a [[l/_loan|loan]].**
 - **To be suitable or [[a/_applicable|applicable]], to [[f/_fit|fit]].**

@@ -1,7 +1,7 @@
 # Effulgent
 ---
 #adjective
-- **Radiant, resplendent, shining.**
+- **[[r/_radiant|Radiant]], [[r/_resplendent|resplendent]], [[s/_shining|shining]].**
 ---
 ### Synonyms
 - [[p/_profulgent|profulgent]]

@@ -10,6 +10,6 @@
 - [[e/_encastellate|encastellate]], [[f/_fortify|fortify]], [[i/_incastellate|incastellate]]
 #noun
 - **That which [[e/_encloses|encloses]].**
-- **The [[a/_act|act]] or situation by which something is [[e/_enclosed|enclosed]].**
+- **The [[a/_act|act]] or [[s/_situation|situation]] by which [[s/_something|something]] is [[e/_enclosed|enclosed]].**
 ---
 ---

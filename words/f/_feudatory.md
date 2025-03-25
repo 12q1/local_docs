@@ -6,6 +6,6 @@
 - **A [[f/_fee|fee]] [[p/_paid|paid]] by such a vassal to [[h/_hold|hold]] [[l/_land|land]].**
 ---
 #adjective
-- **Relating to [[f/_feudalism|feudalism]], [[f/_feudal|feudal]].**
+- **[[r/_relating|Relating]] to [[f/_feudalism|feudalism]], [[f/_feudal|feudal]].**
 ---
 ---

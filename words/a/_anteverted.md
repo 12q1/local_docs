@@ -1,7 +1,7 @@
 # Anteverted
 ---
 #verb
-- **To prevent.**
+- **To [[p/_prevent|prevent]].**
 - **To [[d/_displace|displace]] by [[a/_anteversion|anteversion]].**
 ---
 #adjective

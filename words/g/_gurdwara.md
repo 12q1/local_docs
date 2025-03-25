@@ -1,6 +1,6 @@
 # Gurdwara
 ---
 #noun
-- **A Sikh [[p/_place|place]] of worship.**
+- **A [[s/_sikh|Sikh]] [[p/_place|place]] of worship.**
 ---
 ---

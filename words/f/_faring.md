@@ -1,9 +1,9 @@
 # Faring
 ---
 #noun
-- **A structure on various [[p/_parts|parts]] of a vehicle, for [[e/_example|example]] an [[a/_aircraft|aircraft]], [[a/_automobile|automobile]], or [[m/_motorcycle|motorcycle]], that produces a smooth [[e/_exterior|exterior]] and reduces [[d/_drag|drag]]**
-- **A [[p/_present|present]]; [[o/_originally|originally]], [[o/_one|one]] [[g/_given|given]] or purchased at a [[f/_fair|fair]].**
-- **Something [[e/_edible|edible]]; [[f/_fare|fare]].**
+- **A structure on various [[p/_parts|parts]] of a vehicle, for [[e/_example|example]] an [[a/_aircraft|aircraft]], [[a/_automobile|automobile]], or [[m/_motorcycle|motorcycle]], that [[p/_produces|produces]] a [[s/_smooth|smooth]] [[e/_exterior|exterior]] and [[r/_reduces|reduces]] [[d/_drag|drag]]**
+- **A [[p/_present|present]]; [[o/_originally|originally]], [[o/_one|one]] [[g/_given|given]] or [[p/_purchased|purchased]] at a [[f/_fair|fair]].**
+- **[[s/_something|Something]] [[e/_edible|edible]]; [[f/_fare|fare]].**
 ---
 #verb
 - **To [[g/_go|go]], travel.**
@@ -12,7 +12,7 @@
 - **To [[e/_eat|eat]], [[d/_dine|dine]].**
 - **To [[h/_happen|happen]] well, or [[i/_ill|ill]].**
 	- _Example: We shall see how it will fare with him._
-- **To [[m/_move|move]] [[a/_along|along]]; proceed; progress; [[a/_advance|advance]]**
+- **To [[m/_move|move]] [[a/_along|along]]; [[p/_proceed|proceed]]; [[p/_progress|progress]]; [[a/_advance|advance]]**
 	- _Example: We will continue to monitor how the hurricane fares against projected models._
 ---
 #noun

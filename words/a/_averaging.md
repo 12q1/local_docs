@@ -5,11 +5,11 @@
 	- _Example: If you average 10, 20 and 24, you get 18._
 - **[[o/_over|Over]] a [[p/_period|period]] of time or [[a/_across|across]] [[m/_members|members]] of a [[p/_population|population]], to [[h/_have|have]] or [[g/_generate|generate]] a [[m/_mean|mean]] value of.**
 	- _Example: I averaged 75% in my examinations this year._
-- **To [[d/_divide|divide]] [[a/_among|among]] a [[n/_number|number]], [[a/_according|according]] to a [[g/_given|given]] proportion.**
+- **To [[d/_divide|divide]] [[a/_among|among]] a [[n/_number|number]], [[a/_according|according]] to a [[g/_given|given]] [[p/_proportion|proportion]].**
 	- _Example: to average a loss_
 - **To be, [[g/_generally|generally]] or on [[a/_average|average]].**
 ---
 #noun
-- **The process of [[c/_computing|computing]] an [[a/_average|average]].**
+- **The [[p/_process|process]] of [[c/_computing|computing]] an [[a/_average|average]].**
 ---
 ---

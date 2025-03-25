@@ -3,13 +3,13 @@
 #verb
 - **To [[p/_possess|possess]], [[o/_own|own]].**
 	- _Example: I have a house and a car._
-- **To [[h/_hold|hold]], as something at someone's [[d/_disposal|disposal]].**
+- **To [[h/_hold|hold]], as [[s/_something|something]] at [[s/_someone|someone]]'[[s/_s|s]] [[d/_disposal|disposal]].**
 	- _Example: Do you have the key? (not necessarily one's own key)_
-- **Used to state the [[e/_existence|existence]] or [[p/_presence|presence]] of someone in a specified relationship with the subject.**
+- **Used to state the [[e/_existence|existence]] or [[p/_presence|presence]] of [[s/_someone|someone]] in a specified [[r/_relationship|relationship]] with the subject.**
 	- _Example: I have a really mean boss._
 - **To [[p/_partake|partake]] of (a [[p/_particular|particular]] substance, [[e/_especially|especially]] [[f/_food|food]] or [[d/_drink|drink]], or [[a/_action|action]] or [[a/_activity|activity]]).**
 	- _Example: Can I have a look at that?_
-- **To be scheduled to [[a/_attend|attend]], undertake or [[p/_participate|participate]] in.**
+- **To be [[s/_scheduled|scheduled]] to [[a/_attend|attend]], undertake or [[p/_participate|participate]] in.**
 	- _Example: Fred won't be able to come to the party; he has a meeting that day._
 - **To [[e/_experience|experience]], [[g/_go|go]] through, undergo.**
 	- _Example: He had surgery on his hip yesterday._
@@ -17,17 +17,17 @@
 	- _Example: He had a cold last week._
 - **([[a/_auxiliary|auxiliary]] verb, taking a [[p/_past|past]] [[p/_participle|participle]]) Used in [[f/_forming|forming]] the [[p/_perfect|perfect]] [[a/_aspect|aspect]].**
 	- _Example: I had already eaten._
-- **Used as an [[i/_interrogative|interrogative]] verb [[b/_before|before]] a pronoun to [[f/_form|form]] a tag question, [[e/_echoing|echoing]] a previous use of '[[h/_have|have]]' as an [[a/_auxiliary|auxiliary]] verb or, in [[c/_certain|certain]] [[c/_cases|cases]], [[m/_main|main]] verb. (For [[f/_further|further]] [[d/_discussion|discussion]], see the [[a/_appendix|appendix]] [[e/_english|English]] tag questions.)**
+- **Used as an [[i/_interrogative|interrogative]] verb [[b/_before|before]] a [[p/_pronoun|pronoun]] to [[f/_form|form]] a tag [[q/_question|question]], [[e/_echoing|echoing]] a [[p/_previous|previous]] use of '[[h/_have|have]]' as an [[a/_auxiliary|auxiliary]] verb or, in [[c/_certain|certain]] [[c/_cases|cases]], [[m/_main|main]] verb. (For [[f/_further|further]] [[d/_discussion|discussion]], [[s/_see|see]] the [[a/_appendix|appendix]] [[e/_english|English]] tag [[q/_questions|questions]].)**
 	- _Example: They haven't eaten dinner yet, have they?_
-- **([[a/_auxiliary|auxiliary]] verb, taking a to-[[i/_infinitive|infinitive]]) See [[h/_have|have]] to.**
+- **([[a/_auxiliary|auxiliary]] verb, taking a to-[[i/_infinitive|infinitive]]) [[s/_see|See]] [[h/_have|have]] to.**
 	- _Example: I have to go._
 - **To [[g/_give|give]] [[b/_birth|birth]] to.**
 	- _Example: My mother had me when she was 25._
-- **To [[e/_engage|engage]] in sexual [[i/_intercourse|intercourse]] with.**
+- **To [[e/_engage|engage]] in [[s/_sexual|sexual]] [[i/_intercourse|intercourse]] with.**
 	- _Example: He's always bragging about how many women he's had._
-- **To [[a/_accept|accept]] as a romantic [[p/_partner|partner]].**
+- **To [[a/_accept|accept]] as a [[r/_romantic|romantic]] [[p/_partner|partner]].**
 	- _Example: Despite my protestations of love, she would not have me._
-- **(transitive with [[b/_bare|bare]] [[i/_infinitive|infinitive]]) To [[c/_cause|cause]] to, by a [[c/_command|command]], request or [[i/_invitation|invitation]].**
+- **(transitive with [[b/_bare|bare]] [[i/_infinitive|infinitive]]) To [[c/_cause|cause]] to, by a [[c/_command|command]], [[r/_request|request]] or [[i/_invitation|invitation]].**
 	- _Example: They had me feed their dog while they were out of town._
 - **(transitive with [[a/_adjective|adjective]] or [[a/_adjective|adjective]]-[[p/_phrase|phrase]] [[c/_complement|complement]]) To [[c/_cause|cause]] to be.**
 	- _Example: He had him arrested for trespassing._
@@ -37,7 +37,7 @@
 	- _Example: Their stories differed; he said he'd been at work when the incident occurred, but her statement had him at home that entire evening._
 - **To [[d/_defeat|defeat]] in a [[f/_fight|fight]]; take.**
 	- _Example: I could have him!_
-- **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[i/_ireland|Ireland]]) To be [[a/_able|able]] to speak (a [[l/_language|language]]).**
+- **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[i/_ireland|Ireland]]) To be [[a/_able|able]] to [[s/_speak|speak]] (a [[l/_language|language]]).**
 	- _Example: I have no German._
 - **To [[f/_feel|feel]] or be ([[e/_especially|especially]] [[p/_painfully|painfully]]) [[a/_aware|aware]] of.**
 	- _Example: Dan certainly has arms today, probably from scraping paint off four columns the day before._
@@ -47,11 +47,11 @@
 	- _Example: I asked my dad if I could go to the concert this Thursday, but he wouldn't have it since it's a school night._
 - **([[o/_often|often]] used in the [[n/_negative|negative]]) To [[b/_believe|believe]], [[b/_buy|buy]], be taken in by.**
 	- _Example: I made up an excuse as to why I was out so late, but my wife wasn't having any of it._
-- **To [[h/_host|host]] someone; to take in as a [[g/_guest|guest]].**
+- **To [[h/_host|host]] [[s/_someone|someone]]; to take in as a [[g/_guest|guest]].**
 	- _Example: Thank you for having me!_
-- **To [[g/_get|get]] a reading, [[m/_measurement|measurement]], or result from an [[i/_instrument|instrument]] or [[c/_calculation|calculation]].**
+- **To [[g/_get|get]] a [[r/_reading|reading]], [[m/_measurement|measurement]], or [[r/_result|result]] from an [[i/_instrument|instrument]] or [[c/_calculation|calculation]].**
 	- _Example: I have two contacts on my scope._
-- **(of a [[j/_jury|jury]]) To [[c/_consider|consider]] a [[c/_court|court]] proceeding that [[h/_has|has]] [[b/_been|been]] [[c/_completed|completed]]; to [[b/_begin|begin]] [[d/_deliberations|deliberations]] on a [[c/_case|case]].**
+- **(of a [[j/_jury|jury]]) To [[c/_consider|consider]] a [[c/_court|court]] [[p/_proceeding|proceeding]] that [[h/_has|has]] [[b/_been|been]] [[c/_completed|completed]]; to [[b/_begin|begin]] [[d/_deliberations|deliberations]] on a [[c/_case|case]].**
 	- _Example: We'll schedule closing arguments for Thursday, and the jury will have the case by that afternoon._
 - **To [[m/_make|make]] an [[o/_observation|observation]] of (a [[b/_bird|bird]] species).**
 ---

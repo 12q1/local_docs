@@ -1,7 +1,7 @@
 # Gasses
 ---
 #noun
-- **[[m/_matter|Matter]] in a state [[i/_intermediate|intermediate]] [[b/_between|between]] [[l/_liquid|liquid]] and [[p/_plasma|plasma]] that [[c/_can|can]] be [[c/_contained|contained]] [[o/_only|only]] [[i/_if|if]] it is [[f/_fully|fully]] surrounded by a solid (or in a [[b/_bubble|bubble]] of [[l/_liquid|liquid]]) (or [[h/_held|held]] together by [[g/_gravitational|gravitational]] pull); it [[c/_can|can]] [[c/_condense|condense]] [[i/_into|into]] a [[l/_liquid|liquid]], or [[c/_can|can]] (rarely) [[b/_become|become]] a solid [[d/_directly|directly]].**
+- **[[m/_matter|Matter]] in a state [[i/_intermediate|intermediate]] [[b/_between|between]] [[l/_liquid|liquid]] and [[p/_plasma|plasma]] that [[c/_can|can]] be [[c/_contained|contained]] [[o/_only|only]] [[i/_if|if]] it is [[f/_fully|fully]] surrounded by a [[s/_solid|solid]] (or in a [[b/_bubble|bubble]] of [[l/_liquid|liquid]]) (or [[h/_held|held]] together by [[g/_gravitational|gravitational]] [[p/_pull|pull]]); it [[c/_can|can]] [[c/_condense|condense]] [[i/_into|into]] a [[l/_liquid|liquid]], or [[c/_can|can]] ([[r/_rarely|rarely]]) [[b/_become|become]] a [[s/_solid|solid]] [[d/_directly|directly]].**
 	- _Example: A lot of gas had escaped from the cylinder._
 - **A [[c/_chemical|chemical]] [[e/_element|element]] or [[c/_compound|compound]] in such a state.**
 	- _Example: The atmosphere is made up of a number of different gases._
@@ -9,7 +9,7 @@
 	- _Example: Gas-fired power stations have largely replaced coal-burning ones._
 - **A [[h/_hob|hob]] on a [[g/_gas|gas]] [[c/_cooker|cooker]].**
 	- _Example: She turned the gas on, put the potatoes on, then lit the oven._
-- **[[m/_methane|Methane]] or [[o/_other|other]] waste [[g/_gases|gases]] trapped in [[o/_one|one]]'s [[b/_belly|belly]] as a result of the [[d/_digestive|digestive]] process.**
+- **[[m/_methane|Methane]] or [[o/_other|other]] waste [[g/_gases|gases]] trapped in [[o/_one|one]]'[[s/_s|s]] [[b/_belly|belly]] as a [[r/_result|result]] of the [[d/_digestive|digestive]] [[p/_process|process]].**
 	- _Example: My tummy hurts so bad, I have gas._
 - **A [[h/_humorous|humorous]] or [[e/_entertaining|entertaining]] [[e/_event|event]] or [[p/_person|person]].**
 	- _Example: He is such a gas!_
@@ -17,7 +17,7 @@
 - **A [[f/_fastball|fastball]].**
 	- _Example: The closer threw him nothing but gas._
 - **[[a/_arterial|Arterial]] or venous [[b/_blood|blood]] [[g/_gas|gas]].**
-- **[[m/_marijuana|Marijuana]], typically of [[h/_high|high]] quality.**
+- **[[m/_marijuana|Marijuana]], typically of [[h/_high|high]] [[q/_quality|quality]].**
 ---
 ### Synonyms
 - [[f/_fart|fart]], [[w/_wind|wind]]
@@ -29,7 +29,7 @@
 	- _Example: The battery cell was gassing._
 - **To [[i/_impregnate|impregnate]] with [[g/_gas|gas]].**
 	- _Example: to gas lime with chlorine in the manufacture of bleaching powder_
-- **To singe, as in a [[g/_gas|gas]] [[f/_flame|flame]], so as to remove [[l/_loose|loose]] [[f/_fibers|fibers]].**
+- **To [[s/_singe|singe]], as in a [[g/_gas|gas]] [[f/_flame|flame]], [[s/_so|so]] as to [[r/_remove|remove]] [[l/_loose|loose]] [[f/_fibers|fibers]].**
 	- _Example: to gas thread_
 ---
 #noun
@@ -41,7 +41,7 @@
 #verb
 - **To [[g/_give|give]] a vehicle [[m/_more|more]] [[f/_fuel|fuel]] in [[o/_order|order]] to [[a/_accelerate|accelerate]] it.**
 	- _Example: The cops are coming. Gas it!_
-- **To [[f/_fill|fill]] (a vehicle's [[f/_fuel|fuel]] tank) with [[f/_fuel|fuel]].**
+- **To [[f/_fill|fill]] (a vehicle'[[s/_s|s]] [[f/_fuel|fuel]] tank) with [[f/_fuel|fuel]].**
 ---
 ### Synonyms
 - [[e/_en|en]], [[r/_refuel|refuel]]

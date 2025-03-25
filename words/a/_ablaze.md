@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[b/_burning|Burning]] [[f/_fiercely|fiercely]]; in a [[b/_blaze|blaze]]; on [[f/_fire|fire]].**
-- **Radiant with [[b/_bright|bright]] [[l/_light|light]] and [[c/_color|color]].**
+- **[[r/_radiant|Radiant]] with [[b/_bright|bright]] [[l/_light|light]] and [[c/_color|color]].**
 - **In a state of [[g/_glowing|glowing]] [[e/_excitement|excitement]] or [[a/_ardent|ardent]] [[d/_desire|desire]].**
 ---
 ### Synonyms

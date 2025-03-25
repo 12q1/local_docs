@@ -6,6 +6,6 @@
 - **To [[b/_beat|beat]] by [[f/_flapping|flapping]].**
 ---
 #verb
-- **To publicise, to promote.**
+- **To publicise, to [[p/_promote|promote]].**
 ---
 ---

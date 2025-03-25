@@ -9,7 +9,7 @@
 ### Synonyms
 - [[a/_apathy|apathy]], [[i/_indifference|indifference]], [[u/_uninterest|uninterest]], [[d/_disadvantage|disadvantage]], [[i/_impartiality|impartiality]]
 #verb
-- **To render [[d/_disinterested|disinterested]].**
+- **To [[r/_render|render]] [[d/_disinterested|disinterested]].**
 ---
 #adjective
 - **[[f/_free|Free]] of [[p/_personal|personal]] [[b/_bias|bias]].**

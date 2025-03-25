@@ -1,32 +1,32 @@
 # Given
 ---
 #verb
-- **(ditransitive) To [[m/_move|move]], shift, provide something [[a/_abstract|abstract]] or [[c/_concrete|concrete]] to someone or something or somewhere.**
-- **(ditransitive) To [[e/_estimate|estimate]] or [[p/_predict|predict]] (a [[d/_duration|duration]] or probability) for (something).**
+- **(ditransitive) To [[m/_move|move]], [[s/_shift|shift]], [[p/_provide|provide]] [[s/_something|something]] [[a/_abstract|abstract]] or [[c/_concrete|concrete]] to [[s/_someone|someone]] or [[s/_something|something]] or [[s/_somewhere|somewhere]].**
+- **(ditransitive) To [[e/_estimate|estimate]] or [[p/_predict|predict]] (a [[d/_duration|duration]] or [[p/_probability|probability]]) for ([[s/_something|something]]).**
 	- _Example: I give it a 95% chance of success._
-- **To [[y/_yield|yield]] slightly when a [[f/_force|force]] is [[a/_applied|applied]].**
+- **To [[y/_yield|yield]] [[s/_slightly|slightly]] when a [[f/_force|force]] is [[a/_applied|applied]].**
 - **To [[c/_collapse|collapse]] under [[p/_pressure|pressure]] or [[f/_force|force]].**
 	- _Example: One pillar gave, then more, and suddenly the whole floor pancaked onto the floor below._
-- **To provide, as, a service or a [[b/_broadcast|broadcast]].**
+- **To [[p/_provide|provide]], as, a [[s/_service|service]] or a [[b/_broadcast|broadcast]].**
 	- _Example: They're giving my favorite show!_
 - **To [[l/_lead|lead]] ([[o/_onto|onto]] or [[i/_into|into]]).**
 	- _Example: The master bedroom gives onto a spacious balcony._
-- **To provide a view of.**
+- **To [[p/_provide|provide]] a view of.**
 	- _Example: His window gave the park._
-- **To [[e/_exhibit|exhibit]] as a product or result; to produce; to [[y/_yield|yield]].**
+- **To [[e/_exhibit|exhibit]] as a [[p/_product|product]] or [[r/_result|result]]; to [[p/_produce|produce]]; to [[y/_yield|yield]].**
 	- _Example: The number of men, divided by the number of ships, gives four hundred to each ship._
 - **To [[c/_cause|cause]]; to [[m/_make|make]]; used with the [[i/_infinitive|infinitive]].**
-- **To [[c/_cause|cause]] (someone) to [[h/_have|have]]; produce in (someone); [[e/_effectuate|effectuate]].**
+- **To [[c/_cause|cause]] ([[s/_someone|someone]]) to [[h/_have|have]]; [[p/_produce|produce]] in ([[s/_someone|someone]]); [[e/_effectuate|effectuate]].**
 - **To [[a/_allow|allow]] or [[a/_admit|admit]] by way of supposition; to [[c/_concede|concede]].**
 	- _Example: He can be bad-tempered, I'll give you that, but he's a hard worker._
 - **To [[a/_attribute|attribute]]; to [[a/_assign|assign]]; to [[a/_adjudge|adjudge]].**
-- **To [[c/_communicate|communicate]] or [[a/_announce|announce]] ([[a/_advice|advice]], tidings, [[e/_etc|etc]].); to pronounce or utter (an [[o/_opinion|opinion]], a [[j/_judgment|judgment]], a shout, [[e/_etc|etc]].).**
+- **To [[c/_communicate|communicate]] or [[a/_announce|announce]] ([[a/_advice|advice]], tidings, [[e/_etc|etc]].); to [[p/_pronounce|pronounce]] or utter (an [[o/_opinion|opinion]], a [[j/_judgment|judgment]], a [[s/_shout|shout]], [[e/_etc|etc]].).**
 	- _Example: The umpire finally gave his decision: the ball was out._
 - **To [[g/_grant|grant]] [[p/_power|power]] or [[p/_permission|permission]] to; to [[a/_allow|allow]].**
 - **To [[d/_devote|devote]] or [[a/_apply|apply]] ([[o/_oneself|oneself]]).**
 	- _Example: That boy is given to fits of bad temper._
-- **To [[b/_become|become]] soft or [[m/_moist|moist]].**
-- **To shed tears; to weep.**
+- **To [[b/_become|become]] [[s/_soft|soft]] or [[m/_moist|moist]].**
+- **To [[s/_shed|shed]] tears; to weep.**
 - **To [[h/_have|have]] a [[m/_misgiving|misgiving]].**
 - **To be [[g/_going|going]] on, to be [[o/_occurring|occurring]]**
 	- _Example: What gives?_
@@ -46,7 +46,7 @@
 	- _Example: No more than three people can be in that space at a given time._
 - **[[a/_assumed|Assumed]] as [[f/_fact|fact]] or [[h/_hypothesis|hypothesis]].**
 	- _Example: Given that we will get the resources, what do we want to achieve?_
-- **(with to) Prone, [[d/_disposed|disposed]].**
+- **(with to) [[p/_prone|Prone]], [[d/_disposed|disposed]].**
 	- _Example: He was given to taking a couple of glasses of port at his club._
 ---
 #preposition

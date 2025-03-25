@@ -1,7 +1,7 @@
 # Fleered
 ---
 #verb
-- **To [[m/_make|make]] a wry [[f/_face|face]] in [[c/_contempt|contempt]], or to [[g/_grin|grin]] in scorn**
+- **To [[m/_make|make]] a wry [[f/_face|face]] in [[c/_contempt|contempt]], or to [[g/_grin|grin]] in [[s/_scorn|scorn]]**
 - **To [[g/_grin|grin]] with an [[a/_air|air]] of [[c/_civility|civility]]; to [[l/_leer|leer]].**
 ---
 ### Synonyms

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[b/_bloom|bloom]], [[f/_flourish|flourish]], [[g/_grow|grow]], [[p/_prosper|prosper]], [[t/_thrive|thrive]], [[b/_bloom|bloom]], [[f/_flower|flower]]
 #noun
-- **The [[a/_act|act]] or process by which something [[b/_blossoms|blossoms]].**
+- **The [[a/_act|act]] or [[p/_process|process]] by which [[s/_something|something]] [[b/_blossoms|blossoms]].**
 ---
 ---

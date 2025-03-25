@@ -1,14 +1,14 @@
 # Kebabs
 ---
 #noun
-- **A [[d/_dish|dish]] of [[p/_pieces|pieces]] of [[m/_meat|meat]], [[f/_fish|fish]], or vegetables roasted on a skewer or spit, [[e/_especially|especially]] a doner [[k/_kebab|kebab]].**
-- **A shish [[k/_kebab|kebab]] or [[a/_any|any]] [[o/_other|other]] [[f/_food|food]] on a skewer.**
-- **The [[o/_outward|outward]] [[g/_growing|growing]] [[p/_portions|portions]] of a shish [[k/_kebab|kebab]] structure.**
-- **A [[m/_muslim|Muslim]], usually of southern [[e/_european|European]], [[m/_middle|Middle]] [[e/_eastern|Eastern]], or [[n/_north|North]] [[a/_african|African]] [[d/_descent|descent]].**
+- **A [[d/_dish|dish]] of [[p/_pieces|pieces]] of [[m/_meat|meat]], [[f/_fish|fish]], or vegetables [[r/_roasted|roasted]] on a [[s/_skewer|skewer]] or spit, [[e/_especially|especially]] a doner [[k/_kebab|kebab]].**
+- **A [[s/_shish|shish]] [[k/_kebab|kebab]] or [[a/_any|any]] [[o/_other|other]] [[f/_food|food]] on a [[s/_skewer|skewer]].**
+- **The [[o/_outward|outward]] [[g/_growing|growing]] [[p/_portions|portions]] of a [[s/_shish|shish]] [[k/_kebab|kebab]] structure.**
+- **A [[m/_muslim|Muslim]], usually of [[s/_southern|southern]] [[e/_european|European]], [[m/_middle|Middle]] [[e/_eastern|Eastern]], or [[n/_north|North]] [[a/_african|African]] [[d/_descent|descent]].**
 - **The vulva.**
 ---
 #verb
-- **To roast in the style of a [[k/_kebab|kebab]]**
-- **To stab or skewer**
+- **To [[r/_roast|roast]] in the style of a [[k/_kebab|kebab]]**
+- **To stab or [[s/_skewer|skewer]]**
 ---
 ---

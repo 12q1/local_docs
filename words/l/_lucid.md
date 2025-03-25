@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[c/_clear|Clear]]; [[e/_easily|easily]] understood**
-- **[[m/_mentally|Mentally]] rational; sane**
+- **[[m/_mentally|Mentally]] [[r/_rational|rational]]; [[s/_sane|sane]]**
 - **[[b/_bright|Bright]], [[l/_luminous|luminous]], translucent or transparent**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Jujube
 ---
 #noun
-- **The sweet and [[e/_edible|edible]] [[d/_drupes|drupes]] ([[f/_fruits|fruits]]) of several [[m/_mediterranean|Mediterranean]] and [[a/_african|African]] species of small trees.**
+- **The sweet and [[e/_edible|edible]] [[d/_drupes|drupes]] ([[f/_fruits|fruits]]) of [[s/_several|several]] [[m/_mediterranean|Mediterranean]] and [[a/_african|African]] species of [[s/_small|small]] trees.**
 - **A [[f/_fruit|fruit]]-[[b/_bearing|bearing]] tree, Ziziphus jujuba or Ziziphus zizyphus.**
 - **The [[f/_fruit|fruit]] of this tree, [[f/_fructus|fructus]] jujubae.**
 - **A [[f/_fruit|fruit]]-[[b/_bearing|bearing]] tree, Ziziphus mauritiana.**

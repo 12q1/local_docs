@@ -1,6 +1,6 @@
 # Carbonic
 ---
 #adjective
-- **Of or relating to [[c/_carbon|carbon]].**
+- **Of or [[r/_relating|relating]] to [[c/_carbon|carbon]].**
 ---
 ---

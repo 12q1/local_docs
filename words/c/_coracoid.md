@@ -1,11 +1,11 @@
 # Coracoid
 ---
 #noun
-- **[[p/_part|Part]] of the scapula that projects towards the sternum in [[m/_mammals|mammals]]; the [[c/_coracoid|coracoid]] process**
-- **A small [[b/_bone|bone]] [[l/_linking|linking]] the scapula and sternum in [[b/_birds|birds]], reptiles and some [[o/_other|other]] vertebrates**
+- **[[p/_part|Part]] of the [[s/_scapula|scapula]] that [[p/_projects|projects]] towards the sternum in [[m/_mammals|mammals]]; the [[c/_coracoid|coracoid]] [[p/_process|process]]**
+- **A [[s/_small|small]] [[b/_bone|bone]] [[l/_linking|linking]] the [[s/_scapula|scapula]] and sternum in [[b/_birds|birds]], [[r/_reptiles|reptiles]] and [[s/_some|some]] [[o/_other|other]] vertebrates**
 ---
 #adjective
 - **[[h/_hooked|Hooked]] [[l/_like|like]] the [[b/_beak|beak]] of a [[c/_crow|crow]]**
-- **Relating to the [[c/_coracoid|coracoid]] process**
+- **[[r/_relating|Relating]] to the [[c/_coracoid|coracoid]] [[p/_process|process]]**
 ---
 ---

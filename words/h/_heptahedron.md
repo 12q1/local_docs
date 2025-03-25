@@ -1,6 +1,6 @@
 # Heptahedron
 ---
 #noun
-- **[[a/_any|Any]] [[p/_polyhedron|polyhedron]] [[h/_having|having]] seven [[f/_faces|faces]]**
+- **[[a/_any|Any]] [[p/_polyhedron|polyhedron]] [[h/_having|having]] [[s/_seven|seven]] [[f/_faces|faces]]**
 ---
 ---

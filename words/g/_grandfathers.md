@@ -1,7 +1,7 @@
 # Grandfathers
 ---
 #noun
-- **A [[f/_father|father]] of someone's [[p/_parent|parent]].**
+- **A [[f/_father|father]] of [[s/_someone|someone]]'[[s/_s|s]] [[p/_parent|parent]].**
 - **(by [[e/_extension|extension]]) A [[m/_male|male]] [[f/_forefather|forefather]].**
 ---
 ### Synonyms
@@ -12,6 +12,6 @@
 - **To be, or [[a/_act|act]] as, a [[g/_grandfather|grandfather]] to.**
 ---
 #verb
-- **To retain [[d/_discontinued|discontinued]] [[l/_laws|laws]] or rules for (a thing, [[p/_person|person]] or [[o/_organization|organization]] previously [[a/_affected|affected]] by them).**
+- **To [[r/_retain|retain]] [[d/_discontinued|discontinued]] [[l/_laws|laws]] or [[r/_rules|rules]] for (a thing, [[p/_person|person]] or [[o/_organization|organization]] [[p/_previously|previously]] [[a/_affected|affected]] by them).**
 ---
 ---

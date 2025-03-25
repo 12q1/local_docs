@@ -1,9 +1,9 @@
 # Fanfaronade
 ---
 #noun
-- **[[e/_empty|Empty]], self-[[a/_assertive|assertive]] [[b/_boasting|boasting]].**
+- **[[e/_empty|Empty]], [[s/_self|self]]-[[a/_assertive|assertive]] [[b/_boasting|boasting]].**
 ---
 #verb
-- **To [[e/_engage|engage]] in [[e/_empty|empty]], self-[[a/_assertive|assertive]] [[b/_boasting|boasting]].**
+- **To [[e/_engage|engage]] in [[e/_empty|empty]], [[s/_self|self]]-[[a/_assertive|assertive]] [[b/_boasting|boasting]].**
 ---
 ---

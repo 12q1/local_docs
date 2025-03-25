@@ -1,6 +1,6 @@
 # Chrysoprase
 ---
 #noun
-- **A variety of [[l/_light|light]]-[[g/_green|green]] translucent quartz.**
+- **A variety of [[l/_light|light]]-[[g/_green|green]] translucent [[q/_quartz|quartz]].**
 ---
 ---

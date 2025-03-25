@@ -10,7 +10,7 @@
 - **[[o/_oats|Oats]] (the [[c/_cereal|cereal]]).**
 ---
 #noun
-- **[[o/_one|One]] who [[h/_has|has]] something; a [[p/_possessor|possessor]].**
+- **[[o/_one|One]] who [[h/_has|has]] [[s/_something|something]]; a [[p/_possessor|possessor]].**
 - **The [[p/_person|person]] who [[h/_has|has]] [[c/_custody|custody]] of a [[d/_document|document]].**
 ---
 ### Synonyms

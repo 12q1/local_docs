@@ -1,6 +1,6 @@
 # Faecal
 ---
 #adjective
-- **Of or relating to [[f/_feces|feces]].**
+- **Of or [[r/_relating|relating]] to [[f/_feces|feces]].**
 ---
 ---

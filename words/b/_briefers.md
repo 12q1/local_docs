@@ -1,6 +1,6 @@
 # Briefers
 ---
 #noun
-- **[[o/_one|One]] who provides a [[b/_briefing|briefing]].**
+- **[[o/_one|One]] who [[p/_provides|provides]] a [[b/_briefing|briefing]].**
 ---
 ---

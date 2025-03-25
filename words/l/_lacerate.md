@@ -1,7 +1,7 @@
 # Lacerate
 ---
 #verb
-- **To tear, rip or wound.**
+- **To tear, [[r/_rip|rip]] or wound.**
 - **To [[d/_defeat|defeat]] thoroughly; to thrash.**
 ---
 #adjective

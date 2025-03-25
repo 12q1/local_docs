@@ -1,6 +1,6 @@
 # Erotology
 ---
 #noun
-- **The study of sexual stimuli and [[b/_behaviour|behaviour]].**
+- **The study of [[s/_sexual|sexual]] stimuli and [[b/_behaviour|behaviour]].**
 ---
 ---

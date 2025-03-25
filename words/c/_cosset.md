@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_pet|pet]], [[e/_especially|especially]] a [[p/_pet|pet]] [[l/_lamb|lamb]].**
-- **Someone [[i/_indulged|indulged]] or [[c/_cosseted|cosseted]].**
+- **[[s/_someone|Someone]] [[i/_indulged|indulged]] or [[c/_cosseted|cosseted]].**
 ---
 #verb
 - **To treat [[l/_like|like]] a [[p/_pet|pet]]; to [[o/_overly|overly]] [[i/_indulge|indulge]].**

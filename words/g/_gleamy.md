@@ -1,6 +1,6 @@
 # Gleamy
 ---
 #adjective
-- **Shiny, [[b/_bright|bright]], [[g/_glowing|glowing]]**
+- **[[s/_shiny|Shiny]], [[b/_bright|bright]], [[g/_glowing|glowing]]**
 ---
 ---

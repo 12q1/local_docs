@@ -1,6 +1,6 @@
 # Haha
 ---
 #interjection
-- **An [[o/_onomatopoeic|onomatopoeic]] representation of [[l/_laughter|laughter]].**
+- **An [[o/_onomatopoeic|onomatopoeic]] [[r/_representation|representation]] of [[l/_laughter|laughter]].**
 ---
 ---

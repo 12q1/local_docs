@@ -1,6 +1,6 @@
 # Ingeminating
 ---
 #verb
-- **To say (a statement, word [[e/_etc|etc]].) two or [[m/_more|more]] times; to reiterate, to [[e/_emphasize|emphasize]] through repetition.**
+- **To [[s/_say|say]] (a statement, word [[e/_etc|etc]].) two or [[m/_more|more]] times; to [[r/_reiterate|reiterate]], to [[e/_emphasize|emphasize]] through [[r/_repetition|repetition]].**
 ---
 ---

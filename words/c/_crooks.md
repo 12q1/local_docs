@@ -8,18 +8,18 @@
 	- _Example: the crook of a cane_
 - **A [[l/_lock|lock]] or [[c/_curl|curl]] of [[h/_hair|hair]].**
 - **A [[g/_gibbet|gibbet]].**
-- **A support [[b/_beam|beam]] [[c/_consisting|consisting]] of a [[p/_post|post]] with a [[c/_cross|cross]]-[[b/_beam|beam]] resting upon it; a [[b/_bracket|bracket]] or truss [[c/_consisting|consisting]] of a vertical [[p/_piece|piece]], a [[h/_horizontal|horizontal]] [[p/_piece|piece]], and a strut.**
-- **A shepherd's [[c/_crook|crook]]; a staff with a semi-[[c/_circular|circular]] [[b/_bend|bend]] ("[[h/_hook|hook]]") at [[o/_one|one]] [[e/_end|end]] used by shepherds.**
-- **A [[b/_bishop|bishop]]'s staff of [[o/_office|office]].**
+- **A support [[b/_beam|beam]] [[c/_consisting|consisting]] of a [[p/_post|post]] with a [[c/_cross|cross]]-[[b/_beam|beam]] [[r/_resting|resting]] upon it; a [[b/_bracket|bracket]] or truss [[c/_consisting|consisting]] of a vertical [[p/_piece|piece]], a [[h/_horizontal|horizontal]] [[p/_piece|piece]], and a strut.**
+- **A [[s/_shepherd|shepherd]]'[[s/_s|s]] [[c/_crook|crook]]; a staff with a [[s/_semi|semi]]-[[c/_circular|circular]] [[b/_bend|bend]] ("[[h/_hook|hook]]") at [[o/_one|one]] [[e/_end|end]] used by [[s/_shepherds|shepherds]].**
+- **A [[b/_bishop|bishop]]'[[s/_s|s]] staff of [[o/_office|office]].**
 - **An [[a/_artifice|artifice]]; a trick; a [[c/_contrivance|contrivance]].**
 - **A [[p/_person|person]] who steals, [[l/_lies|lies]], [[c/_cheats|cheats]] or [[d/_does|does]] [[o/_other|other]] [[d/_dishonest|dishonest]] or [[i/_illegal|illegal]] things; a [[c/_criminal|criminal]].**
 - **A [[p/_pothook|pothook]].**
-- **A small tube, usually [[c/_curved|curved]], [[a/_applied|applied]] to a trumpet, [[h/_horn|horn]], [[e/_etc|etc]]., to [[c/_change|change]] [[i/_its|its]] [[p/_pitch|pitch]] or [[k/_key|key]].**
+- **A [[s/_small|small]] tube, usually [[c/_curved|curved]], [[a/_applied|applied]] to a trumpet, [[h/_horn|horn]], [[e/_etc|etc]]., to [[c/_change|change]] [[i/_its|its]] [[p/_pitch|pitch]] or [[k/_key|key]].**
 ---
 #verb
 - **To [[b/_bend|bend]], or [[f/_form|form]] [[i/_into|into]] a [[h/_hook|hook]].**
 	- _Example: He crooked his finger toward me._
 - **To [[b/_become|become]] [[b/_bent|bent]] or [[h/_hooked|hooked]].**
-- **To turn from the [[p/_path|path]] of rectitude; to [[p/_pervert|pervert]]; to [[m/_misapply|misapply]]; to twist.**
+- **To turn from the [[p/_path|path]] of [[r/_rectitude|rectitude]]; to [[p/_pervert|pervert]]; to [[m/_misapply|misapply]]; to twist.**
 ---
 ---

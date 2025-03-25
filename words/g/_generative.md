@@ -1,7 +1,7 @@
 # Generative
 ---
 #adjective
-- **[[h/_having|Having]] the [[p/_power|power]] of [[g/_generating|generating]], propagating, [[o/_originating|originating]], or producing.**
+- **[[h/_having|Having]] the [[p/_power|power]] of [[g/_generating|generating]], [[p/_propagating|propagating]], [[o/_originating|originating]], or [[p/_producing|producing]].**
 ---
 ### Synonyms
 - [[c/_creative|creative]]

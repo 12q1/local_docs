@@ -1,6 +1,6 @@
 # Echogram
 ---
 #noun
-- **Sonogram**
+- **[[s/_sonogram|Sonogram]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Gunnel
 ---
 #noun
-- **A small [[e/_eel|eel]]-shaped [[m/_marine|marine]] [[f/_fish|fish]] of the [[f/_family|family]] Pholidae, [[e/_especially|especially]] Pholis gunnellus.**
+- **A [[s/_small|small]] [[e/_eel|eel]]-[[s/_shaped|shaped]] [[m/_marine|marine]] [[f/_fish|fish]] of the [[f/_family|family]] Pholidae, [[e/_especially|especially]] Pholis gunnellus.**
 ---
 ### Synonyms
 - [[b/_butterfish|butterfish]]

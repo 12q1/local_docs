@@ -1,6 +1,6 @@
 # Crumps
 ---
 #noun
-- **The sound of a [[m/_muffled|muffled]] [[e/_explosion|explosion]].**
+- **The [[s/_sound|sound]] of a [[m/_muffled|muffled]] [[e/_explosion|explosion]].**
 ---
 ---

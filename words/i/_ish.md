@@ -1,7 +1,7 @@
 # Ish
 ---
 #adverb
-- **Somewhat, reasonably, [[f/_fairly|fairly]]**
+- **[[s/_somewhat|Somewhat]], [[r/_reasonably|reasonably]], [[f/_fairly|fairly]]**
 	- _Example: "Was the film any good?" – "Ish."_
 - **[[a/_about|About]], [[a/_approximately|approximately]]**
 ---

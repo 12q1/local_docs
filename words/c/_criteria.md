@@ -1,7 +1,7 @@
 # Criteria
 ---
 #noun
-- **A single [[c/_criterion|criterion]].**
+- **A [[s/_single|single]] [[c/_criterion|criterion]].**
 ---
 #noun
 - **A standard or test by which [[i/_individual|individual]] things or [[p/_people|people]] [[m/_may|may]] be [[c/_compared|compared]] and [[j/_judged|judged]].**

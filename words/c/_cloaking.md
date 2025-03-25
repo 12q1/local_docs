@@ -3,7 +3,7 @@
 #verb
 - **To [[c/_cover|cover]] as with a [[c/_cloak|cloak]].**
 - **To [[h/_hide|hide]] or [[c/_conceal|conceal]].**
-- **To render or [[b/_become|become]] [[i/_invisible|invisible]] via [[f/_futuristic|futuristic]] technology.**
+- **To [[r/_render|render]] or [[b/_become|become]] [[i/_invisible|invisible]] via [[f/_futuristic|futuristic]] technology.**
 	- _Example: The ship cloaked before entering the enemy sector of space._
 ---
 #noun

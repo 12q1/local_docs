@@ -1,7 +1,7 @@
 # Fulltime
 ---
 #adjective
-- **[[i/_involving|Involving]] a [[f/_full|full]] [[a/_amount|amount]] of time spent on some [[a/_activity|activity]], [[e/_especially|especially]] a [[j/_job|job]].**
+- **[[i/_involving|Involving]] a [[f/_full|full]] [[a/_amount|amount]] of time spent on [[s/_some|some]] [[a/_activity|activity]], [[e/_especially|especially]] a [[j/_job|job]].**
 	- _Example: Bringing up a child is a full-time activity._
 ---
 ### Antonyms

@@ -1,6 +1,6 @@
 # Lampooned
 ---
 #verb
-- **To satirize or [[p/_poke|poke]] [[f/_fun|fun]] at.**
+- **To [[s/_satirize|satirize]] or [[p/_poke|poke]] [[f/_fun|fun]] at.**
 ---
 ---

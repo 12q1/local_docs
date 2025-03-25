@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_awkward|awkward]] [[p/_person|person]].**
-- **[[o/_overwhelming|Overwhelming]] [[c/_confusion|confusion]], shock, or surprise.**
+- **[[o/_overwhelming|Overwhelming]] [[c/_confusion|confusion]], [[s/_shock|shock]], or surprise.**
 	- _Example: His flabbergast was so great he couldn’t even come up with a plausible answer._
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Helicopters
 ---
 #noun
-- **An [[a/_aircraft|aircraft]] that is [[b/_borne|borne]] [[a/_along|along]] by [[o/_one|one]] or [[m/_more|more]] sets of [[l/_long|long]] rotating [[b/_blades|blades]] which [[a/_allow|allow]] it to [[h/_hover|hover]], [[m/_move|move]] in [[a/_any|any]] [[d/_direction|direction]] [[i/_including|including]] reverse, or [[l/_land|land]]; and typically [[h/_having|having]] a smaller set of [[b/_blades|blades]] on [[i/_its|its]] tail that stabilize the [[a/_aircraft|aircraft]].**
+- **An [[a/_aircraft|aircraft]] that is [[b/_borne|borne]] [[a/_along|along]] by [[o/_one|one]] or [[m/_more|more]] [[s/_sets|sets]] of [[l/_long|long]] [[r/_rotating|rotating]] [[b/_blades|blades]] which [[a/_allow|allow]] it to [[h/_hover|hover]], [[m/_move|move]] in [[a/_any|any]] [[d/_direction|direction]] [[i/_including|including]] [[r/_reverse|reverse]], or [[l/_land|land]]; and typically [[h/_having|having]] a [[s/_smaller|smaller]] [[s/_set|set]] of [[b/_blades|blades]] on [[i/_its|its]] tail that stabilize the [[a/_aircraft|aircraft]].**
 	- _Example: We flew over the city in a helicopter._
 - **A [[p/_powered|powered]] troweling [[m/_machine|machine]] with spinning [[b/_blades|blades]] used to spread [[c/_concrete|concrete]].**
 - **The winged [[f/_fruit|fruit]] of [[c/_certain|certain]] trees, such as [[a/_ash|ash]], [[e/_elm|elm]], and [[m/_maple|maple]].**
@@ -13,8 +13,8 @@
 #verb
 - **To transport by [[h/_helicopter|helicopter]].**
 - **To travel by [[h/_helicopter|helicopter]].**
-- **To rotate [[l/_like|like]] a [[h/_helicopter|helicopter]] [[b/_blade|blade]].**
+- **To [[r/_rotate|rotate]] [[l/_like|like]] a [[h/_helicopter|helicopter]] [[b/_blade|blade]].**
 	- _Example: helicoptering his jacket, helicoptering his arms_
-- **To [[o/_overprotect|overprotect]] [[o/_one|one]]'s [[c/_children|children]].**
+- **To [[o/_overprotect|overprotect]] [[o/_one|one]]'[[s/_s|s]] [[c/_children|children]].**
 ---
 ---

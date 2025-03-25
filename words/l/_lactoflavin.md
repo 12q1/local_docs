@@ -1,6 +1,6 @@
 # Lactoflavin
 ---
 #noun
-- **Riboflavin**
+- **[[r/_riboflavin|Riboflavin]]**
 ---
 ---

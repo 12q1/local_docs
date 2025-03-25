@@ -1,9 +1,9 @@
 # Antiques
 ---
 #noun
-- **A [[g/_grotesque|grotesque]] representation of a [[f/_figure|figure]]; a [[g/_gargoyle|gargoyle]].**
+- **A [[g/_grotesque|grotesque]] [[r/_representation|representation]] of a [[f/_figure|figure]]; a [[g/_gargoyle|gargoyle]].**
 - **A [[c/_caricature|caricature]].**
-- **([[o/_often|often]] in [[p/_plural|plural]]) A [[l/_ludicrous|ludicrous]] [[g/_gesture|gesture]] or [[a/_act|act]]; ridiculous [[b/_behaviour|behaviour]]; [[c/_caper|caper]].**
+- **([[o/_often|often]] in [[p/_plural|plural]]) A [[l/_ludicrous|ludicrous]] [[g/_gesture|gesture]] or [[a/_act|act]]; [[r/_ridiculous|ridiculous]] [[b/_behaviour|behaviour]]; [[c/_caper|caper]].**
 - **A [[g/_grotesque|grotesque]] [[p/_performer|performer]] or [[c/_clown|clown]], [[b/_buffoon|buffoon]].**
 ---
 #noun
@@ -16,8 +16,8 @@
 ### Synonyms
 - [[a/_ancient|ancient]], [[g/_geriatric|geriatric]], [[o/_oldster|oldster]]
 #verb
-- **To search or shop for [[a/_antiques|antiques]].**
-- **To [[m/_make|make]] an [[o/_object|object]] [[a/_appear|appear]] to be an [[a/_antique|antique]] in some way.**
+- **To [[s/_search|search]] or [[s/_shop|shop]] for [[a/_antiques|antiques]].**
+- **To [[m/_make|make]] an [[o/_object|object]] [[a/_appear|appear]] to be an [[a/_antique|antique]] in [[s/_some|some]] way.**
 - **To [[e/_emboss|emboss]] without [[g/_gilding|gilding]].**
 ---
 ---

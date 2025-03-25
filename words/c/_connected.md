@@ -11,9 +11,9 @@
 	- _Example: I connected the printer to the computer, but I couldn't get it work._
 - **To [[j/_join|join]] an [[e/_electrical|electrical]] or telephone [[l/_line|line]] to a [[c/_circuit|circuit]] or [[n/_network|network]].**
 	- _Example: When the technician connects my house, I'll be able to access the internet._
-- **To [[a/_associate|associate]]; to [[e/_establish|establish]] a relation [[b/_between|between]].**
+- **To [[a/_associate|associate]]; to [[e/_establish|establish]] a [[r/_relation|relation]] [[b/_between|between]].**
 	- _Example: I didn't connect my lost jewelry with the news of an area cat burglar until the police contacted me._
-- **To [[m/_make|make]] a travel [[c/_connection|connection]]; to switch from [[o/_one|one]] [[m/_means|means]] of transport to [[a/_another|another]] as [[p/_part|part]] of the same trip.**
+- **To [[m/_make|make]] a travel [[c/_connection|connection]]; to switch from [[o/_one|one]] [[m/_means|means]] of transport to [[a/_another|another]] as [[p/_part|part]] of the [[s/_same|same]] trip.**
 	- _Example: I'm flying to London where I connect with a flight heading to Hungary._
 ---
 ### Synonyms
@@ -21,14 +21,14 @@
 ### Antonyms
 - [[d/_disconnect|disconnect]]
 #adjective
-- **(usually with "well-"): [[h/_having|Having]] [[f/_favorable|favorable]] rapport with a [[p/_powerful|powerful]] [[e/_entity|entity]].**
-- **[[h/_having|Having]] relationships; [[i/_involved|involved]] with [[o/_others|others]].**
-- **[[i/_involved|Involved]] with [[o/_organized|organized]] [[c/_crime|crime]], specifically someone not ([[y/_yet|yet]]) working for a [[c/_crime|crime]] [[o/_organization|organization]], but referred to as a "[[f/_friend|friend]]" by [[m/_made|made]] [[g/_guys|guys]]/wise [[g/_guys|guys]] [[i/_inside|inside]] the [[o/_organization|organization]].**
+- **(usually with "well-"): [[h/_having|Having]] [[f/_favorable|favorable]] [[r/_rapport|rapport]] with a [[p/_powerful|powerful]] [[e/_entity|entity]].**
+- **[[h/_having|Having]] [[r/_relationships|relationships]]; [[i/_involved|involved]] with [[o/_others|others]].**
+- **[[i/_involved|Involved]] with [[o/_organized|organized]] [[c/_crime|crime]], specifically [[s/_someone|someone]] not ([[y/_yet|yet]]) working for a [[c/_crime|crime]] [[o/_organization|organization]], but [[r/_referred|referred]] to as a "[[f/_friend|friend]]" by [[m/_made|made]] [[g/_guys|guys]]/wise [[g/_guys|guys]] [[i/_inside|inside]] the [[o/_organization|organization]].**
 - **[[i/_intimate|Intimate]]; [[h/_having|Having]] [[b/_bonds|bonds]] of [[a/_affection|affection]].**
-- **(of a topological space) That [[c/_cannot|cannot]] be [[p/_partitioned|partitioned]] [[i/_into|into]] two [[n/_nonempty|nonempty]] [[o/_open|open]] sets.**
+- **(of a topological [[s/_space|space]]) That [[c/_cannot|cannot]] be [[p/_partitioned|partitioned]] [[i/_into|into]] two [[n/_nonempty|nonempty]] [[o/_open|open]] [[s/_sets|sets]].**
 - **(of a [[g/_graph|graph]]) [[h/_having|Having]] a [[p/_path|path]], [[e/_either|either]] [[d/_directed|directed]] or undirected, [[c/_connecting|connecting]] [[e/_every|every]] [[p/_pair|pair]] of vertices.**
 	- _Example: In a connected graph, there is no section (proper subset that includes all edges from each vertex in said subset) of the graph that is isolated from the rest._
-- **[[h/_having|Having]] or supporting [[c/_connections|connections]], [[e/_especially|especially]] when through technology such as [[n/_networking|networking]] software or a transportation [[n/_network|network]].**
+- **[[h/_having|Having]] or supporting [[c/_connections|connections]], [[e/_especially|especially]] when through technology such as [[n/_networking|networking]] [[s/_software|software]] or a transportation [[n/_network|network]].**
 ---
 ### Antonyms
 - [[d/_disconnected|disconnected]]

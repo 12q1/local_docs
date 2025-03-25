@@ -1,6 +1,6 @@
 # Conspirer
 ---
 #noun
-- **Someone who [[c/_conspires|conspires]].**
+- **[[s/_someone|Someone]] who [[c/_conspires|conspires]].**
 ---
 ---

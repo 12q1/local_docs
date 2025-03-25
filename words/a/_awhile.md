@@ -1,9 +1,9 @@
 # Awhile
 ---
 #adverb
-- **For some time; for a short time.**
+- **For [[s/_some|some]] time; for a [[s/_short|short]] time.**
 	- _Example: Sit with me awhile._
-- **([[p/_pennsylvania|Pennsylvania]] [[d/_dutch|Dutch]] [[e/_english|English]], US) In the [[m/_meantime|meantime]]; [[d/_during|during]] an [[i/_implicit|implicit]] [[o/_ongoing|ongoing]] process.**
+- **([[p/_pennsylvania|Pennsylvania]] [[d/_dutch|Dutch]] [[e/_english|English]], US) In the [[m/_meantime|meantime]]; [[d/_during|during]] an [[i/_implicit|implicit]] [[o/_ongoing|ongoing]] [[p/_process|process]].**
 	- _Example: Can I get you a drink awhile?_
 ---
 ### Synonyms

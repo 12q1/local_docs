@@ -3,7 +3,7 @@
 #adjective
 - **Without [[f/_fault|fault]] or weakness; [[i/_incapable|incapable]] of [[e/_error|error]] or [[f/_fallacy|fallacy]].**
 	- _Example: He knows about many things, but even he is not infallible._
-- **[[c/_certain|Certain]] to produce the [[i/_intended|intended]] [[e/_effect|effect]], sure.**
+- **[[c/_certain|Certain]] to [[p/_produce|produce]] the [[i/_intended|intended]] [[e/_effect|effect]], sure.**
 	- _Example: Try this infallible cure for hiccups._
 ---
 ### Synonyms

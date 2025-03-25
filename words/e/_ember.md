@@ -2,6 +2,6 @@
 ---
 #noun
 - **A [[g/_glowing|glowing]] [[p/_piece|piece]] of [[c/_coal|coal]] or wood.**
-- **Smoldering [[a/_ash|ash]].**
+- **[[s/_smoldering|Smoldering]] [[a/_ash|ash]].**
 ---
 ---

@@ -5,6 +5,6 @@
 - **The [[b/_breastplate|breastplate]] taken by [[i/_itself|itself]].**
 ---
 #noun
-- **([[p/_pedology|pedology]]) The [[a/_armour|armour]]-[[l/_like|like]] [[c/_crust|crust]] that [[f/_forms|forms]] upon the [[e/_exposure|exposure]] of a [[l/_lateritic|lateritic]] soil profile.**
+- **([[p/_pedology|pedology]]) The [[a/_armour|armour]]-[[l/_like|like]] [[c/_crust|crust]] that [[f/_forms|forms]] upon the [[e/_exposure|exposure]] of a [[l/_lateritic|lateritic]] [[s/_soil|soil]] [[p/_profile|profile]].**
 ---
 ---

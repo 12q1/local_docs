@@ -1,7 +1,7 @@
 # Blacklists
 ---
 #noun
-- **A [[l/_list|list]] or set of [[p/_people|people]] or [[e/_entities|entities]] to be shunned or [[b/_banned|banned]].**
+- **A [[l/_list|list]] or [[s/_set|set]] of [[p/_people|people]] or [[e/_entities|entities]] to be [[s/_shunned|shunned]] or [[b/_banned|banned]].**
 	- _Example: The software included a lengthy blacklist of disreputable websites to block._
 ---
 ### Synonyms

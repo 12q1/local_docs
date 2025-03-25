@@ -9,7 +9,7 @@
 ### Synonyms
 - [[e/_evendown|evendown]], [[r/_right-down|right-down]], [[u/_unambiguous|unambiguous]], [[u/_unevasive|unevasive]], [[u/_utter|utter]]
 #adverb
-- **Really; [[a/_actually|actually]]; quite**
+- **[[r/_really|Really]]; [[a/_actually|actually]]; [[q/_quite|quite]]**
 	- _Example: He wasn’t just cool to me, he was downright rude._
 - **Straight [[d/_down|down]]; [[p/_perpendicularly|perpendicularly]].**
 - **[[p/_plainly|Plainly]], unambiguously; [[d/_directly|directly]].**

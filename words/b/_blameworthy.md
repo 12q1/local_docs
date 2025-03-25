@@ -1,7 +1,7 @@
 # Blameworthy
 ---
 #adjective
-- **[[d/_deserving|Deserving]] [[b/_blame|blame]] or [[c/_censure|censure]]; reprehensible.**
+- **[[d/_deserving|Deserving]] [[b/_blame|blame]] or [[c/_censure|censure]]; [[r/_reprehensible|reprehensible]].**
 	- _Example: Yes, my life has been blameworthy; I confess it. But you know nothing of its temptations._
 ---
 ### Antonyms

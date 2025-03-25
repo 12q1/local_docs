@@ -1,7 +1,7 @@
 # Censoring
 ---
 #verb
-- **To review for, and [[i/_if|if]] [[n/_necessary|necessary]] to remove or suppress, [[c/_content|content]] from [[b/_books|books]], [[f/_films|films]], [[c/_correspondence|correspondence]], and [[o/_other|other]] [[m/_media|media]] which is regarded as [[o/_objectionable|objectionable]] (for [[e/_example|example]], [[o/_obscene|obscene]], [[l/_likely|likely]] to [[i/_incite|incite]] violence, or sensitive).**
+- **To [[r/_review|review]] for, and [[i/_if|if]] [[n/_necessary|necessary]] to [[r/_remove|remove]] or suppress, [[c/_content|content]] from [[b/_books|books]], [[f/_films|films]], [[c/_correspondence|correspondence]], and [[o/_other|other]] [[m/_media|media]] which is [[r/_regarded|regarded]] as [[o/_objectionable|objectionable]] (for [[e/_example|example]], [[o/_obscene|obscene]], [[l/_likely|likely]] to [[i/_incite|incite]] violence, or [[s/_sensitive|sensitive]]).**
 	- _Example: Occupying powers typically censor anything reeking of resistance_
 ---
 ### Synonyms

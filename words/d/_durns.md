@@ -1,8 +1,8 @@
 # Durns
 ---
 #noun
-- **A secret; secrecy.**
-- **A secret [[p/_place|place]]; [[h/_hiding|hiding]].**
+- **A [[s/_secret|secret]]; [[s/_secrecy|secrecy]].**
+- **A [[s/_secret|secret]] [[p/_place|place]]; [[h/_hiding|hiding]].**
 - **An [[o/_obscure|obscure]] [[l/_language|language]].**
 - **[[d/_darkness|Darkness]]; [[o/_obscurity|obscurity]].**
 ---

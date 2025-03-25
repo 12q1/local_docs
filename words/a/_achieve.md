@@ -1,10 +1,10 @@
 # Achieve
 ---
 #verb
-- **To succeed in something, [[n/_now|now]] [[e/_especially|especially]] in [[a/_academic|academic]] [[p/_performance|performance]].**
+- **To succeed in [[s/_something|something]], [[n/_now|now]] [[e/_especially|especially]] in [[a/_academic|academic]] [[p/_performance|performance]].**
 - **To [[c/_carry|carry]] [[o/_out|out]] successfully; to [[a/_accomplish|accomplish]].**
 - **To [[c/_conclude|conclude]], [[f/_finish|finish]], [[e/_especially|especially]] successfully.**
-- **To [[o/_obtain|obtain]], or [[g/_gain|gain]] (a [[d/_desired|desired]] result, [[o/_objective|objective]] [[e/_etc|etc]].), as the result of [[e/_exertion|exertion]]; to succeed in [[g/_gaining|gaining]]; to win.**
+- **To [[o/_obtain|obtain]], or [[g/_gain|gain]] (a [[d/_desired|desired]] [[r/_result|result]], [[o/_objective|objective]] [[e/_etc|etc]].), as the [[r/_result|result]] of [[e/_exertion|exertion]]; to succeed in [[g/_gaining|gaining]]; to win.**
 - **To [[c/_conclude|conclude]], to turn [[o/_out|out]].**
 - **To [[o/_obtain|obtain]] (a [[m/_material|material]] thing).**
 	- _Example: Show all the spoils by valiant kings achieved._

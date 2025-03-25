@@ -1,9 +1,9 @@
 # Electrophoresed
 ---
 #verb
-- **To [[c/_carry|carry]] [[o/_out|out]] [[e/_electrophoresis|electrophoresis]] on something.**
+- **To [[c/_carry|carry]] [[o/_out|out]] [[e/_electrophoresis|electrophoresis]] on [[s/_something|something]].**
 ---
 #adjective
-- **Produced by, or subjected to [[e/_electrophoresis|electrophoresis]]**
+- **[[p/_produced|Produced]] by, or subjected to [[e/_electrophoresis|electrophoresis]]**
 ---
 ---

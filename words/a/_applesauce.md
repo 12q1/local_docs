@@ -1,7 +1,7 @@
 # Applesauce
 ---
 #noun
-- **A [[f/_food|food]] [[p/_prepared|prepared]] by pureeing [[c/_cooked|cooked]] [[a/_apples|apples]].**
+- **A [[f/_food|food]] [[p/_prepared|prepared]] by [[p/_pureeing|pureeing]] [[c/_cooked|cooked]] [[a/_apples|apples]].**
 ---
 #noun
 - **(1920s) [[n/_nonsense|Nonsense]], [[b/_balderdash|balderdash]], [[b/_bunk|bunk]], [[p/_piffle|piffle]].**

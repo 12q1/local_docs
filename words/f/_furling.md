@@ -1,12 +1,12 @@
 # Furling
 ---
 #verb
-- **To [[l/_lower|lower]], roll up and secure (something, such as a sail or [[f/_flag|flag]])**
+- **To [[l/_lower|lower]], [[r/_roll|roll]] up and [[s/_secure|secure]] ([[s/_something|something]], such as a [[s/_sail|sail]] or [[f/_flag|flag]])**
 ---
 ### Antonyms
 - [[u/_unfurl|unfurl]]
 #noun
-- **The [[a/_act|act]] by which something is [[f/_furled|furled]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[f/_furled|furled]].**
 ---
 ### Antonyms
 - [[u/_unfurling|unfurling]]

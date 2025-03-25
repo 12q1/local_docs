@@ -4,10 +4,10 @@
 - **[[d/_dirt|Dirt]] [[i/_ingrained|ingrained]] on the [[h/_hands|hands]], or in [[c/_cracks|cracks]], [[c/_crevices|crevices]], [[e/_etc|etc]].**
 ---
 #verb
-- **To smear, [[d/_daub|daub]], [[p/_plaster|plaster]], or [[i/_impregnate|impregnate]], [[e/_especially|especially]] with [[d/_dirt|dirt]] which [[b/_becomes|becomes]] [[h/_hard|hard]] and [[i/_ingrained|ingrained]].**
+- **To [[s/_smear|smear]], [[d/_daub|daub]], [[p/_plaster|plaster]], or [[i/_impregnate|impregnate]], [[e/_especially|especially]] with [[d/_dirt|dirt]] which [[b/_becomes|becomes]] [[h/_hard|hard]] and [[i/_ingrained|ingrained]].**
 ---
 #noun
-- **A trench; a [[l/_long|long]], shallow [[i/_indentation|indentation]], as for [[i/_irrigation|irrigation]] or [[d/_drainage|drainage]].**
+- **A trench; a [[l/_long|long]], [[s/_shallow|shallow]] [[i/_indentation|indentation]], as for [[i/_irrigation|irrigation]] or [[d/_drainage|drainage]].**
 	- _Example: Digging ditches has long been considered one of the most demanding forms of manual labor._
 ---
 #verb

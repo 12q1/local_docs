@@ -1,13 +1,13 @@
 # Corrective
 ---
 #noun
-- **Something that [[c/_corrects|corrects]] or [[c/_counteracts|counteracts]] something.**
+- **[[s/_something|Something]] that [[c/_corrects|corrects]] or [[c/_counteracts|counteracts]] [[s/_something|something]].**
 	- _Example: alkalies are correctives of acids_
-- **[[l/_limitation|Limitation]]; restriction.**
+- **[[l/_limitation|Limitation]]; [[r/_restriction|restriction]].**
 ---
 #adjective
-- **Of or [[p/_pertaining|pertaining]] to [[c/_correction|correction]]; serving to [[c/_correct|correct]].**
+- **Of or [[p/_pertaining|pertaining]] to [[c/_correction|correction]]; [[s/_serving|serving]] to [[c/_correct|correct]].**
 	- _Example: As the currents were changing rapidly, the captain had to make many corrective course changes._
-- **Qualifying; [[l/_limiting|limiting]].**
+- **[[q/_qualifying|Qualifying]]; [[l/_limiting|limiting]].**
 ---
 ---

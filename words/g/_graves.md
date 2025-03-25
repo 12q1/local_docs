@@ -2,13 +2,13 @@
 ---
 #noun
 - **An [[e/_excavation|excavation]] in the [[e/_earth|earth]] as a [[p/_place|place]] of [[b/_burial|burial]]**
-- **[[a/_any|Any]] [[p/_place|place]] of [[i/_interment|interment]]; a tomb; a sepulcher.**
+- **[[a/_any|Any]] [[p/_place|place]] of [[i/_interment|interment]]; a tomb; a [[s/_sepulcher|sepulcher]].**
 - **(by [[e/_extension|extension]]) [[d/_death|Death]], [[d/_destruction|destruction]].**
 ---
 #verb
 - **To [[d/_dig|dig]].**
-- **To [[c/_carve|carve]] or [[c/_cut|cut]], as [[l/_letters|letters]] or [[f/_figures|figures]], on some [[h/_hard|hard]] substance; to [[e/_engrave|engrave]].**
-- **To [[c/_carve|carve]] [[o/_out|out]] or [[g/_give|give]] shape to, by [[c/_cutting|cutting]] with a [[c/_chisel|chisel]]; to sculpture.**
+- **To [[c/_carve|carve]] or [[c/_cut|cut]], as [[l/_letters|letters]] or [[f/_figures|figures]], on [[s/_some|some]] [[h/_hard|hard]] substance; to [[e/_engrave|engrave]].**
+- **To [[c/_carve|carve]] [[o/_out|out]] or [[g/_give|give]] [[s/_shape|shape]] to, by [[c/_cutting|cutting]] with a [[c/_chisel|chisel]]; to [[s/_sculpture|sculpture]].**
 	- _Example: to grave an image_
 - **To [[i/_impress|impress]] [[d/_deeply|deeply]] (on the [[m/_mind|mind]]); to [[f/_fix|fix]] [[i/_indelibly|indelibly]].**
 - **To [[e/_entomb|entomb]]; to [[b/_bury|bury]].**
@@ -21,6 +21,6 @@
 - **A [[c/_count|count]], [[p/_prefect|prefect]], or [[p/_person|person]] [[h/_holding|holding]] [[o/_office|office]].**
 ---
 #verb
-- **To [[c/_clean|clean]], as a vessel's [[b/_bottom|bottom]], of [[b/_barnacles|barnacles]], [[g/_grass|grass]], [[e/_etc|etc]]., and [[p/_pay|pay]] it [[o/_over|over]] with [[p/_pitch|pitch]] — so [[c/_called|called]] [[b/_because|because]] [[g/_graves|graves]] or [[g/_greaves|greaves]] was [[f/_formerly|formerly]] used for this purpose.**
+- **To [[c/_clean|clean]], as a vessel'[[s/_s|s]] [[b/_bottom|bottom]], of [[b/_barnacles|barnacles]], [[g/_grass|grass]], [[e/_etc|etc]]., and [[p/_pay|pay]] it [[o/_over|over]] with [[p/_pitch|pitch]] — [[s/_so|so]] [[c/_called|called]] [[b/_because|because]] [[g/_graves|graves]] or [[g/_greaves|greaves]] was [[f/_formerly|formerly]] used for this [[p/_purpose|purpose]].**
 ---
 ---

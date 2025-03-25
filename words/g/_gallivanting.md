@@ -1,12 +1,12 @@
 # Gallivanting
 ---
 #verb
-- **To roam [[a/_about|about]] for [[p/_pleasure|pleasure]] without [[a/_any|any]] [[d/_definite|definite]] [[p/_plan|plan]].**
-- **To [[f/_flirt|flirt]], to romance.**
+- **To [[r/_roam|roam]] [[a/_about|about]] for [[p/_pleasure|pleasure]] without [[a/_any|any]] [[d/_definite|definite]] [[p/_plan|plan]].**
+- **To [[f/_flirt|flirt]], to [[r/_romance|romance]].**
 ---
 ### Synonyms
 - [[g/_gad|gad]]
 #noun
-- **Roaming [[a/_about|about]] for [[p/_pleasure|pleasure]].**
+- **[[r/_roaming|Roaming]] [[a/_about|about]] for [[p/_pleasure|pleasure]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Haversine
 ---
 #noun
-- **The haversed sine.**
+- **The haversed [[s/_sine|sine]].**
 ---
 ---

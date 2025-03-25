@@ -5,7 +5,7 @@
 - **A [[k/_kind|kind]] of [[l/_large|large]] [[f/_firecracker|firecracker]].**
 ---
 #adjective
-- **Of or [[p/_pertaining|pertaining]] to the [[a/_ashcan|Ashcan]] School of [[a/_american|American]] [[a/_art|art]].**
-- **[[d/_describing|Describing]] a [[c/_comic|comic]] [[b/_book|book]] [[o/_originally|originally]] published solely to retain [[o/_ownership|ownership]] of a trademark, not [[i/_intended|intended]] for [[g/_general|general]] release; [[l/_later|later]] used for promotional [[c/_comic|comic]] [[b/_books|books]] [[i/_intended|intended]] for [[l/_limited|limited]] release to the public.**
+- **Of or [[p/_pertaining|pertaining]] to the [[a/_ashcan|Ashcan]] [[s/_school|School]] of [[a/_american|American]] [[a/_art|art]].**
+- **[[d/_describing|Describing]] a [[c/_comic|comic]] [[b/_book|book]] [[o/_originally|originally]] [[p/_published|published]] [[s/_solely|solely]] to [[r/_retain|retain]] [[o/_ownership|ownership]] of a trademark, not [[i/_intended|intended]] for [[g/_general|general]] [[r/_release|release]]; [[l/_later|later]] used for [[p/_promotional|promotional]] [[c/_comic|comic]] [[b/_books|books]] [[i/_intended|intended]] for [[l/_limited|limited]] [[r/_release|release]] to the [[p/_public|public]].**
 ---
 ---

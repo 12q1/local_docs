@@ -6,8 +6,8 @@
 	- _Example: It hath becomen so that many a man had to sterve._
 - **[[b/_begin|Begin]] to be; turn [[i/_into|into]].**
 	- _Example: She became a doctor when she was 25._
-- **To be proper for; to [[b/_beseem|beseem]].**
-- **Of an [[a/_adornment|adornment]], [[p/_piece|piece]] of [[c/_clothing|clothing]] [[e/_etc|etc]].: to [[l/_look|look]] [[a/_attractive|attractive]] on (someone).**
+- **To be [[p/_proper|proper]] for; to [[b/_beseem|beseem]].**
+- **Of an [[a/_adornment|adornment]], [[p/_piece|piece]] of [[c/_clothing|clothing]] [[e/_etc|etc]].: to [[l/_look|look]] [[a/_attractive|attractive]] on ([[s/_someone|someone]]).**
 	- _Example: That dress really becomes you._
 ---
 ### Synonyms

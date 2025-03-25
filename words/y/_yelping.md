@@ -5,7 +5,7 @@
 	- _Example: The children yelped with delight as they played in the cold water._
 ---
 #noun
-- **The [[a/_act|act]] of producing a [[y/_yelp|yelp]].**
+- **The [[a/_act|act]] of [[p/_producing|producing]] a [[y/_yelp|yelp]].**
 	- _Example: the frenzied yelpings of the huntsman's dogs_
 ---
 ---

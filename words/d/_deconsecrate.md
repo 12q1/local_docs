@@ -1,7 +1,7 @@
 # Deconsecrate
 ---
 #verb
-- **To remove the [[c/_consecration|consecration]] from a [[c/_church|church]] or similar [[b/_building|building]]**
+- **To [[r/_remove|remove]] the [[c/_consecration|consecration]] from a [[c/_church|church]] or [[s/_similar|similar]] [[b/_building|building]]**
 ---
 ### Antonyms
 - [[c/_consecrate|consecrate]]

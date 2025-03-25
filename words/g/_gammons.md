@@ -1,16 +1,16 @@
 # Gammons
 ---
 #noun
-- **A [[c/_cut|cut]] of quick-[[c/_cured|cured]] [[p/_pork|pork]] [[l/_leg|leg]].**
+- **A [[c/_cut|cut]] of [[q/_quick|quick]]-[[c/_cured|cured]] [[p/_pork|pork]] [[l/_leg|leg]].**
 ---
 #noun
-- **A victory in [[b/_backgammon|backgammon]] [[a/_achieved|achieved]] when the [[o/_opponent|opponent]] [[h/_has|has]] not [[b/_borne|borne]] [[o/_off|off]] a single stone.**
+- **A victory in [[b/_backgammon|backgammon]] [[a/_achieved|achieved]] when the [[o/_opponent|opponent]] [[h/_has|has]] not [[b/_borne|borne]] [[o/_off|off]] a [[s/_single|single]] stone.**
 - **[[b/_backgammon|Backgammon]] (the [[g/_game|game]] [[i/_itself|itself]]).**
 ---
 #noun
-- **A rope [[f/_fastening|fastening]] a [[b/_bowsprit|bowsprit]] to the stem of a ship (usually [[c/_called|called]] a [[g/_gammoning|gammoning]]).**
+- **A [[r/_rope|rope]] [[f/_fastening|fastening]] a [[b/_bowsprit|bowsprit]] to the stem of a [[s/_ship|ship]] (usually [[c/_called|called]] a [[g/_gammoning|gammoning]]).**
 ---
 #noun
-- **A [[m/_middle|middle]]-[[a/_aged|aged]] or [[o/_older|older]] right-wing, reactionary white [[m/_man|man]], or such [[m/_men|men]] [[c/_collectively|collectively]].**
+- **A [[m/_middle|middle]]-[[a/_aged|aged]] or [[o/_older|older]] [[r/_right|right]]-wing, [[r/_reactionary|reactionary]] white [[m/_man|man]], or such [[m/_men|men]] [[c/_collectively|collectively]].**
 ---
 ---

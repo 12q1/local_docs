@@ -1,6 +1,6 @@
 # Lingulate
 ---
 #adjective
-- **In the shape of a tongue**
+- **In the [[s/_shape|shape]] of a tongue**
 ---
 ---

@@ -12,13 +12,13 @@
 ### Antonyms
 - [[d/_disintegrate|disintegrate]], [[d/_dissipate|dissipate]]
 #verb
-- **To shape with a [[l/_last|last]]; to [[f/_fasten|fasten]] or [[f/_fit|fit]] to a [[l/_last|last]]; to [[p/_place|place]] smoothly on a [[l/_last|last]].**
+- **To [[s/_shape|shape]] with a [[l/_last|last]]; to [[f/_fasten|fasten]] or [[f/_fit|fit]] to a [[l/_last|last]]; to [[p/_place|place]] [[s/_smoothly|smoothly]] on a [[l/_last|last]].**
 	- _Example: to last a boot_
 ---
 #noun
-- **The [[a/_action|action]] or state of [[p/_persisting|persisting]]; the time [[d/_during|during]] which something or someone [[p/_persists|persists]].**
-- **A [[d/_durable|durable]] woollen [[m/_material|material]] [[f/_formerly|formerly]] used for women's shoes.**
-- **The [[a/_act|act]] or process of shaping [[f/_footwear|footwear]] on a [[l/_last|last]].**
+- **The [[a/_action|action]] or state of [[p/_persisting|persisting]]; the time [[d/_during|during]] which [[s/_something|something]] or [[s/_someone|someone]] [[p/_persists|persists]].**
+- **A [[d/_durable|durable]] woollen [[m/_material|material]] [[f/_formerly|formerly]] used for women'[[s/_s|s]] [[s/_shoes|shoes]].**
+- **The [[a/_act|act]] or [[p/_process|process]] of [[s/_shaping|shaping]] [[f/_footwear|footwear]] on a [[l/_last|last]].**
 ---
 ### Synonyms
 - [[c/_continuance|continuance]], [[d/_duration|duration]], [[e/_endurance|endurance]], [[e/_everlasting|everlasting]]

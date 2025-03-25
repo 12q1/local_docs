@@ -1,10 +1,10 @@
 # Bodily
 ---
 #adjective
-- **Of, relating to, or [[c/_concerning|concerning]] the [[b/_body|body]].**
+- **Of, [[r/_relating|relating]] to, or [[c/_concerning|concerning]] the [[b/_body|body]].**
 	- _Example: His bodily deficiencies were a heavy burden to him._
 - **[[h/_having|Having]] a [[b/_body|body]] or [[m/_material|material]] [[f/_form|form]]; [[p/_physical|physical]]; [[c/_corporeal|corporeal]].**
-- **Real; [[a/_actual|actual]]; put [[i/_into|into]] [[e/_execution|execution]].**
+- **[[r/_real|Real]]; [[a/_actual|actual]]; [[p/_put|put]] [[i/_into|into]] [[e/_execution|execution]].**
 ---
 ### Synonyms
 - [[c/_corporal|corporal]], [[c/_corporeal|corporeal]]

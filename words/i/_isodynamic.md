@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] [[e/_equal|equal]] strength or [[f/_force|force]]**
-- **Of [[f/_foods|foods]]: [[h/_having|having]] the same [[c/_caloric|caloric]] [[c/_content|content]]**
+- **Of [[f/_foods|foods]]: [[h/_having|having]] the [[s/_same|same]] [[c/_caloric|caloric]] [[c/_content|content]]**
 ---
 ---

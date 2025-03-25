@@ -5,7 +5,7 @@
 	- _Example: hallucinogenics are sometimes used in indigenous people's religious rites._
 ---
 #adjective
-- **Producing [[h/_hallucinations|hallucinations]]**
+- **[[p/_producing|Producing]] [[h/_hallucinations|hallucinations]]**
 	- _Example: After eating some hallucinogenic mushrooms, he said he saw a lot of pretty colors._
 ---
 ---

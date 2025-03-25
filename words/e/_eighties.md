@@ -2,8 +2,8 @@
 ---
 #noun
 - **The [[d/_decade|decade]] of the 1880s, 1980s, [[e/_etc|etc]].**
-- **The [[d/_decade|decade]] of [[o/_one|one]]'s [[l/_life|life]] from [[a/_age|age]] 80 through [[a/_age|age]] 89.**
-- **(temperature, rates) The range [[b/_between|between]] 80 and 89.**
+- **The [[d/_decade|decade]] of [[o/_one|one]]'[[s/_s|s]] [[l/_life|life]] from [[a/_age|age]] 80 through [[a/_age|age]] 89.**
+- **(temperature, [[r/_rates|rates]]) The [[r/_range|range]] [[b/_between|between]] 80 and 89.**
 ---
 ### Synonyms
 - [['/_'80s|'80s]], [[8/_80s|80s]]

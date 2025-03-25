@@ -7,7 +7,7 @@
 #adjective
 - **[[f/_feeling|Feeling]] or [[c/_characterized|characterized]] by [[e/_ecstasy|ecstasy]].**
 - **[[e/_extremely|Extremely]] [[h/_happy|happy]].**
-- **Relating to, or [[c/_caused|caused]] by, [[e/_ecstasy|ecstasy]] or [[e/_excessive|excessive]] [[e/_emotion|emotion]].**
+- **[[r/_relating|Relating]] to, or [[c/_caused|caused]] by, [[e/_ecstasy|ecstasy]] or [[e/_excessive|excessive]] [[e/_emotion|emotion]].**
 	- _Example: ecstatic gaze; ecstatic trance_
 ---
 ### Synonyms

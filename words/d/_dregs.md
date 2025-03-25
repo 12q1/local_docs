@@ -1,8 +1,8 @@
 # Dregs
 ---
 #noun
-- **([[c/_collectively|collectively]]) The sediment settled at the [[b/_bottom|bottom]] of a [[l/_liquid|liquid]]; the [[l/_lees|lees]] in a [[c/_container|container]] of unfiltered wine.**
-- **(the [[d/_dregs|dregs]]) The worst and [[l/_lowest|lowest]] [[p/_part|part]] of something.**
+- **([[c/_collectively|collectively]]) The [[s/_sediment|sediment]] [[s/_settled|settled]] at the [[b/_bottom|bottom]] of a [[l/_liquid|liquid]]; the [[l/_lees|lees]] in a [[c/_container|container]] of unfiltered wine.**
+- **(the [[d/_dregs|dregs]]) The worst and [[l/_lowest|lowest]] [[p/_part|part]] of [[s/_something|something]].**
 	- _Example: the dregs of society_
 ---
 ### Synonyms

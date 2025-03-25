@@ -3,8 +3,8 @@
 #noun
 - **[[o/_one|One]] who [[d/_does|does]] not [[b/_behave|behave]] [[l/_like|like]] [[o/_others|others]].**
 - **A [[k/_kook|kook]]; a [[p/_person|person]] of [[b/_bizarre|bizarre]] [[h/_habits|habits]] or [[b/_beliefs|beliefs]].**
-- **A [[c/_circle|circle]] not [[h/_having|having]] the same [[c/_centre|centre]] as [[a/_another|another]].**
-- **A [[d/_disk|disk]] or wheel with [[i/_its|its]] [[a/_axis|axis]] [[o/_off|off]] [[c/_centre|centre]], [[g/_giving|giving]] a reciprocating [[m/_motion|motion]].**
+- **A [[c/_circle|circle]] not [[h/_having|having]] the [[s/_same|same]] [[c/_centre|centre]] as [[a/_another|another]].**
+- **A [[d/_disk|disk]] or wheel with [[i/_its|its]] [[a/_axis|axis]] [[o/_off|off]] [[c/_centre|centre]], [[g/_giving|giving]] a [[r/_reciprocating|reciprocating]] [[m/_motion|motion]].**
 ---
 ### Synonyms
 - [[c/_crank|crank]], [[w/_weirdo|weirdo]], [[m/_misfit|misfit]], [[n/_nonconformist|nonconformist]]
@@ -13,8 +13,8 @@
 - **Not [[p/_perfectly|perfectly]] [[c/_circular|circular]]; [[e/_elliptical|elliptical]].**
 	- _Example: As of 2008, Margaret had the most eccentric orbit of any moon in the solar system, though Nereid's mean eccentricity is greater._
 - **[[h/_having|Having]] a [[d/_different|different]] [[c/_center|center]]; not [[c/_concentric|concentric]].**
-- **(of a [[p/_person|person]]) [[d/_deviating|Deviating]] from the [[n/_norm|norm]]; [[b/_behaving|behaving]] unexpectedly or [[d/_differently|differently]]; unconventional and slightly strange.**
-- **(of a [[m/_motion|motion]]) [[a/_against|Against]] or in the [[o/_opposite|opposite]] [[d/_direction|direction]] of [[c/_contraction|contraction]] of a [[m/_muscle|muscle]] ([[e/_e|e]].[[g/_g|g]]., such as results from [[f/_flexion|flexion]] of the [[l/_lower|lower]] [[a/_arm|arm]] ([[b/_bending|bending]] of the [[e/_elbow|elbow]] [[j/_joint|joint]]) by an [[e/_external|external]] [[f/_force|force]] while [[c/_contracting|contracting]] the triceps and [[o/_other|other]] [[e/_elbow|elbow]] [[e/_extensor|extensor]] [[m/_muscles|muscles]] to [[c/_control|control]] that [[m/_movement|movement]]; [[o/_opening|opening]] of the [[j/_jaw|jaw]] while [[f/_flexing|flexing]] the [[m/_masseter|masseter]]).**
+- **(of a [[p/_person|person]]) [[d/_deviating|Deviating]] from the [[n/_norm|norm]]; [[b/_behaving|behaving]] unexpectedly or [[d/_differently|differently]]; unconventional and [[s/_slightly|slightly]] strange.**
+- **(of a [[m/_motion|motion]]) [[a/_against|Against]] or in the [[o/_opposite|opposite]] [[d/_direction|direction]] of [[c/_contraction|contraction]] of a [[m/_muscle|muscle]] ([[e/_e|e]].[[g/_g|g]]., such as [[r/_results|results]] from [[f/_flexion|flexion]] of the [[l/_lower|lower]] [[a/_arm|arm]] ([[b/_bending|bending]] of the [[e/_elbow|elbow]] [[j/_joint|joint]]) by an [[e/_external|external]] [[f/_force|force]] while [[c/_contracting|contracting]] the triceps and [[o/_other|other]] [[e/_elbow|elbow]] [[e/_extensor|extensor]] [[m/_muscles|muscles]] to [[c/_control|control]] that [[m/_movement|movement]]; [[o/_opening|opening]] of the [[j/_jaw|jaw]] while [[f/_flexing|flexing]] the [[m/_masseter|masseter]]).**
 - **[[h/_having|Having]] [[d/_different|different]] [[g/_goals|goals]] or [[m/_motives|motives]].**
 ---
 ### Synonyms
@@ -22,6 +22,6 @@
 ### Antonyms
 - [[c/_concentric|concentric]]
 #adjective
-- **[[o/_one|One]]-sided; [[h/_having|having]] the [[n/_normally|normally]] [[c/_central|central]] [[p/_portion|portion]] not in the true [[c/_center|center]].**
+- **[[o/_one|One]]-[[s/_sided|sided]]; [[h/_having|having]] the [[n/_normally|normally]] [[c/_central|central]] [[p/_portion|portion]] not in the true [[c/_center|center]].**
 ---
 ---

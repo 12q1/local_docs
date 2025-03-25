@@ -1,7 +1,7 @@
 # Ko
 ---
 #noun
-- **([[g/_game|game]] of [[g/_go|go]]) A [[l/_local|local]] shape to which the [[k/_ko|ko]] rule [[a/_applies|applies]]; a [[k/_ko|ko]] shape.**
+- **([[g/_game|game]] of [[g/_go|go]]) A [[l/_local|local]] [[s/_shape|shape]] to which the [[k/_ko|ko]] [[r/_rule|rule]] [[a/_applies|applies]]; a [[k/_ko|ko]] [[s/_shape|shape]].**
 	- _Example: Black gets an easy game by just filling the ko._
 - **([[g/_game|game]] of [[g/_go|go]]) [[k/_ko|ko]] [[f/_fight|fight]]**
 	- _Example: Black wins the ko easily._

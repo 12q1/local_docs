@@ -11,6 +11,6 @@
 - **To [[b/_break|break]] wind.**
 ---
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] some specific type of [[f/_fist|fist]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] [[s/_some|some]] specific type of [[f/_fist|fist]].**
 ---
 ---

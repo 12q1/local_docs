@@ -1,7 +1,7 @@
 # Conceals
 ---
 #verb
-- **To [[h/_hide|hide]] something from view or from public [[k/_knowledge|knowledge]], to try to [[k/_keep|keep]] something secret.**
+- **To [[h/_hide|hide]] [[s/_something|something]] from view or from [[p/_public|public]] [[k/_knowledge|knowledge]], to try to [[k/_keep|keep]] [[s/_something|something]] [[s/_secret|secret]].**
 	- _Example: He tried to conceal the truth about his health._
 ---
 ### Synonyms

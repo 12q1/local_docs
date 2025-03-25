@@ -1,6 +1,6 @@
 # Impudicity
 ---
 #noun
-- **[[i/_immodesty|Immodesty]]; shamelessness**
+- **[[i/_immodesty|Immodesty]]; [[s/_shamelessness|shamelessness]]**
 ---
 ---

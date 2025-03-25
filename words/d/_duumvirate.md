@@ -1,11 +1,11 @@
 # Duumvirate
 ---
 #noun
-- **Rule by two [[p/_people|people]].**
-- **A state under the rule of two [[p/_people|people]].**
+- **[[r/_rule|Rule]] by two [[p/_people|people]].**
+- **A state under the [[r/_rule|rule]] of two [[p/_people|people]].**
 	- _Example: Swaziland is an absolute diarchy, ruled jointly by a king and a queen mother._
 ---
 #noun
-- **[[a/_any|Any]] of several [[o/_offices|offices]] of the Roman Republic [[h/_held|held]] by two [[j/_joint|joint]] [[m/_magistrates|magistrates]] [[k/_known|known]] as [[d/_duumvirs|duumvirs]].**
+- **[[a/_any|Any]] of [[s/_several|several]] [[o/_offices|offices]] of the [[r/_roman|Roman]] [[r/_republic|Republic]] [[h/_held|held]] by two [[j/_joint|joint]] [[m/_magistrates|magistrates]] [[k/_known|known]] as [[d/_duumvirs|duumvirs]].**
 ---
 ---

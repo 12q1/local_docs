@@ -1,6 +1,6 @@
 # Herp
 ---
 #noun
-- **A reptile or [[a/_amphibian|amphibian]].**
+- **A [[r/_reptile|reptile]] or [[a/_amphibian|amphibian]].**
 ---
 ---

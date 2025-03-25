@@ -7,7 +7,7 @@
 	- _Example: The larghetto from this suite is one of the composer’s most evocative works._
 ---
 #adjective
-- **Slower than [[a/_adagio|adagio]] but not as slow as [[l/_largo|largo]]; [[n/_nearly|nearly]] [[a/_andantino|andantino]].**
+- **[[s/_slower|Slower]] than [[a/_adagio|adagio]] but not as [[s/_slow|slow]] as [[l/_largo|largo]]; [[n/_nearly|nearly]] [[a/_andantino|andantino]].**
 	- _Example: Play larghetto here, even though it’s marked largo._
 ---
 ---

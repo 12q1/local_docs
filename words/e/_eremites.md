@@ -1,6 +1,6 @@
 # Eremites
 ---
 #noun
-- **A [[h/_hermit|hermit]]; a religious recluse, someone who [[l/_lives|lives]] [[a/_alone|alone]].**
+- **A [[h/_hermit|hermit]]; a [[r/_religious|religious]] [[r/_recluse|recluse]], [[s/_someone|someone]] who [[l/_lives|lives]] [[a/_alone|alone]].**
 ---
 ---

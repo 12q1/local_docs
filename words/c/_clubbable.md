@@ -1,7 +1,7 @@
 # Clubbable
 ---
 #adjective
-- **Sociable.**
+- **[[s/_sociable|Sociable]].**
 ---
 ### Antonyms
 - [[u/_unclubbable|unclubbable]]

@@ -1,6 +1,6 @@
 # Desalinate
 ---
 #verb
-- **To remove the salt from something, [[e/_especially|especially]] from seawater for use in a [[d/_domestic|domestic]] water supply**
+- **To [[r/_remove|remove]] the [[s/_salt|salt]] from [[s/_something|something]], [[e/_especially|especially]] from [[s/_seawater|seawater]] for use in a [[d/_domestic|domestic]] water supply**
 ---
 ---

@@ -1,8 +1,8 @@
 # Internally
 ---
 #adverb
-- **In an [[i/_internal|internal]] [[m/_manner|manner]]; within or [[i/_inside|inside]] of [[e/_external|external]] [[l/_limits|limits]]; in an [[i/_inner|inner]] [[p/_part|part]] or situation.**
-- **With regard to [[i/_internal|internal]] [[a/_affairs|affairs]].**
+- **In an [[i/_internal|internal]] [[m/_manner|manner]]; within or [[i/_inside|inside]] of [[e/_external|external]] [[l/_limits|limits]]; in an [[i/_inner|inner]] [[p/_part|part]] or [[s/_situation|situation]].**
+- **With [[r/_regard|regard]] to [[i/_internal|internal]] [[a/_affairs|affairs]].**
 - **[[i/_inwardly|Inwardly]]; spiritually.**
 ---
 ### Synonyms

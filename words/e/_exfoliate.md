@@ -1,8 +1,8 @@
 # Exfoliate
 ---
 #verb
-- **To remove the [[l/_leaves|leaves]] from a [[p/_plant|plant]].**
-- **To remove a [[l/_layer|layer]] of skin, as in [[c/_cosmetic|cosmetic]] [[p/_preparation|preparation]].**
-- **To split [[i/_into|into]] scales, [[e/_especially|especially]] to [[b/_become|become]] [[c/_converted|converted]] [[i/_into|into]] scales as the result of [[h/_heat|heat]] or [[d/_decomposition|decomposition]].**
+- **To [[r/_remove|remove]] the [[l/_leaves|leaves]] from a [[p/_plant|plant]].**
+- **To [[r/_remove|remove]] a [[l/_layer|layer]] of [[s/_skin|skin]], as in [[c/_cosmetic|cosmetic]] [[p/_preparation|preparation]].**
+- **To split [[i/_into|into]] [[s/_scales|scales]], [[e/_especially|especially]] to [[b/_become|become]] [[c/_converted|converted]] [[i/_into|into]] [[s/_scales|scales]] as the [[r/_result|result]] of [[h/_heat|heat]] or [[d/_decomposition|decomposition]].**
 ---
 ---

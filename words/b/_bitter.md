@@ -16,7 +16,7 @@
 - **[[h/_harsh|Harsh]], [[p/_piercing|piercing]] or stinging.**
 - **[[h/_hateful|Hateful]] or [[h/_hostile|hostile]].**
 	- _Example: They're bitter enemies._
-- **[[c/_cynical|Cynical]] and resentful.**
+- **[[c/_cynical|Cynical]] and [[r/_resentful|resentful]].**
 	- _Example: I've been bitter ever since that defeat._
 ---
 ### Synonyms

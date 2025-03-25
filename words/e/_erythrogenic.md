@@ -1,7 +1,7 @@
 # Erythrogenic
 ---
 #adjective
-- **That produces [[e/_erythrocytes|erythrocytes]]**
-- **That [[c/_causes|causes]] or produces [[e/_erythema|erythema]]**
+- **That [[p/_produces|produces]] [[e/_erythrocytes|erythrocytes]]**
+- **That [[c/_causes|causes]] or [[p/_produces|produces]] [[e/_erythema|erythema]]**
 ---
 ---

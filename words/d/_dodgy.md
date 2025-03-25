@@ -1,13 +1,13 @@
 # Dodgy
 ---
 #adjective
-- **[[e/_evasive|Evasive]] and shifty**
+- **[[e/_evasive|Evasive]] and [[s/_shifty|shifty]]**
 	- _Example: Asked why, a spokesman gave a dodgy answer about legal ramifications._
 - **Unsound and unreliable**
 	- _Example: Never listen to dodgy advice._
 - **[[d/_dishonest|Dishonest]]**
 	- _Example: I am sure you wouldn't want to be seen buying dodgy gear, would you? (stolen goods)._
-- **Risky**
+- **[[r/_risky|Risky]]**
 	- _Example: This is a slightly dodgy plan, because there is a lot that is being changed for this fix._
 - **[[d/_deviant|Deviant]]**
 	- _Example: He's a dodgy Peeping Tom._

@@ -1,29 +1,29 @@
 # Def
 ---
 #noun
-- **[[d/_deficiency|Deficiency]] in [[a/_amount|amount]] or quality; a [[f/_falling|falling]] short; [[l/_lack|lack]].**
-- **A situation wherein, or [[a/_amount|amount]] whereby, spending [[e/_exceeds|exceeds]] [[g/_government|government]] revenue.**
+- **[[d/_deficiency|Deficiency]] in [[a/_amount|amount]] or [[q/_quality|quality]]; a [[f/_falling|falling]] [[s/_short|short]]; [[l/_lack|lack]].**
+- **A [[s/_situation|situation]] wherein, or [[a/_amount|amount]] whereby, spending [[e/_exceeds|exceeds]] [[g/_government|government]] [[r/_revenue|revenue]].**
 ---
 ### Synonyms
 - [[s/_shortfall|shortfall]]
 ### Antonyms
 - [[s/_superavit|superavit]]
 #noun
-- **A statement of the [[m/_meaning|meaning]] of a word or word [[g/_group|group]] or a sign or symbol ([[d/_dictionary|dictionary]] [[d/_definitions|definitions]]).**
+- **A statement of the [[m/_meaning|meaning]] of a word or word [[g/_group|group]] or a [[s/_sign|sign]] or [[s/_symbol|symbol]] ([[d/_dictionary|dictionary]] [[d/_definitions|definitions]]).**
 - **(usually with the [[d/_definite|definite]] [[a/_article|article]] the) A [[c/_clear|clear]] [[i/_instance|instance]] [[c/_conforming|conforming]] to the [[d/_dictionary|dictionary]] or textbook [[d/_definition|definition]].**
-- **A statement [[e/_expressing|expressing]] the [[e/_essential|essential]] [[n/_nature|nature]] of something; [[f/_formulation|formulation]]**
-- **The [[a/_action|action]] or process of [[d/_defining|defining]].**
+- **A statement [[e/_expressing|expressing]] the [[e/_essential|essential]] [[n/_nature|nature]] of [[s/_something|something]]; [[f/_formulation|formulation]]**
+- **The [[a/_action|action]] or [[p/_process|process]] of [[d/_defining|defining]].**
 - **The [[a/_act|act]] of [[d/_defining|defining]]; [[d/_determination|determination]] of the [[l/_limits|limits]].**
-- **A product of [[d/_defining|defining]].**
+- **A [[p/_product|product]] of [[d/_defining|defining]].**
 - **The [[a/_action|action]] or [[p/_power|power]] of [[d/_describing|describing]], [[e/_explaining|explaining]], or [[m/_making|making]] [[d/_definite|definite]] and [[c/_clear|clear]].**
 	- _Example: Her comic genius is beyond definition._
 - **[[c/_clarity|Clarity]] of visual [[p/_presentation|presentation]], [[d/_distinctness|distinctness]] of [[o/_outline|outline]] or [[d/_detail|detail]].**
 	- _Example: Improve the definition of an image._
-- **[[c/_clarity|Clarity]], [[e/_especially|especially]] of [[m/_musical|musical]] sound in reproduction.**
-- **Sharp [[d/_demarcation|demarcation]] of [[o/_outlines|outlines]] or [[l/_limits|limits]].**
+- **[[c/_clarity|Clarity]], [[e/_especially|especially]] of [[m/_musical|musical]] [[s/_sound|sound]] in [[r/_reproduction|reproduction]].**
+- **[[s/_sharp|Sharp]] [[d/_demarcation|demarcation]] of [[o/_outlines|outlines]] or [[l/_limits|limits]].**
 	- _Example: A jacket with distinct waist definition._
 - **The [[d/_degree|degree]] to which [[i/_individual|individual]] [[m/_muscles|muscles]] are [[d/_distinct|distinct]] on the [[b/_body|body]].**
-- **A statement which provides a previous [[d/_declaration|declaration]] with a value or [[b/_body|body]] of a subroutine (in the [[c/_case|case]] of [[f/_function|function]]).**
-- **A statement that [[e/_establishes|establishes]] the referent of a term or [[n/_notation|notation]].**
+- **A statement which [[p/_provides|provides]] a [[p/_previous|previous]] [[d/_declaration|declaration]] with a value or [[b/_body|body]] of a subroutine (in the [[c/_case|case]] of [[f/_function|function]]).**
+- **A statement that [[e/_establishes|establishes]] the [[r/_referent|referent]] of a term or [[n/_notation|notation]].**
 ---
 ---

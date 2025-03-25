@@ -1,6 +1,6 @@
 # Ensepulchered
 ---
 #verb
-- **To [[l/_lay|lay]] in a sepulcher; to [[e/_entomb|entomb]].**
+- **To [[l/_lay|lay]] in a [[s/_sepulcher|sepulcher]]; to [[e/_entomb|entomb]].**
 ---
 ---

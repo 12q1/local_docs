@@ -6,6 +6,6 @@
 ---
 #noun
 - **The [[a/_action|action]] of [[a/_aspirating|aspirating]].**
-- **A [[b/_burst|burst]] of [[a/_air|air]] that [[f/_follows|follows]] the release of some [[c/_consonants|consonants]].**
+- **A [[b/_burst|burst]] of [[a/_air|air]] that [[f/_follows|follows]] the [[r/_release|release]] of [[s/_some|some]] [[c/_consonants|consonants]].**
 ---
 ---

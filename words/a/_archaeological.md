@@ -1,6 +1,6 @@
 # Archaeological
 ---
 #adjective
-- **Relating to the science or research of [[a/_archaeology|archaeology]].**
+- **[[r/_relating|Relating]] to the [[s/_science|science]] or [[r/_research|research]] of [[a/_archaeology|archaeology]].**
 ---
 ---

@@ -2,8 +2,8 @@
 ---
 #adjective
 - **[[p/_pertaining|Pertaining]] to a [[c/_community|community]]**
-- **Shared by a [[c/_community|community]]; public**
-- **[[d/_defined|Defined]] by religious [[i/_ideas|ideas]]; [[b/_based|based]] on religion**
+- **[[s/_shared|Shared]] by a [[c/_community|community]]; [[p/_public|public]]**
+- **[[d/_defined|Defined]] by [[r/_religious|religious]] [[i/_ideas|ideas]]; [[b/_based|based]] on [[r/_religion|religion]]**
 	- _Example: communal politics_
 ---
 ### Antonyms

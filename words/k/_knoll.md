@@ -1,6 +1,6 @@
 # Knoll
 ---
 #noun
-- **A small [[m/_mound|mound]] or rounded [[h/_hill|hill]].**
+- **A [[s/_small|small]] [[m/_mound|mound]] or [[r/_rounded|rounded]] [[h/_hill|hill]].**
 ---
 ---

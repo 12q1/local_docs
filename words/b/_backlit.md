@@ -1,7 +1,7 @@
 # Backlit
 ---
 #verb
-- **To [[i/_illuminate|illuminate]] something from [[b/_behind|behind]].**
+- **To [[i/_illuminate|illuminate]] [[s/_something|something]] from [[b/_behind|behind]].**
 ---
 #adjective
 - **[[l/_lit|Lit]] or [[i/_illuminated|illuminated]] from [[b/_behind|behind]].**

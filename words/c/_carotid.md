@@ -6,6 +6,6 @@
 ### Synonyms
 - 
 #adjective
-- **Relating to these [[a/_arteries|arteries]].**
+- **[[r/_relating|Relating]] to these [[a/_arteries|arteries]].**
 ---
 ---

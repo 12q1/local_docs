@@ -3,7 +3,7 @@
 #noun
 - **A thin [[m/_mortar|mortar]] used to [[f/_fill|fill]] the [[g/_gaps|gaps]] [[b/_between|between]] tiles and [[c/_cavities|cavities]] in [[m/_masonry|masonry]].**
 - **[[c/_coarse|Coarse]] [[m/_meal|meal]]; [[g/_groats|groats]].**
-- **(typically used in the [[p/_plural|plural]]) [[d/_dregs|Dregs]], sediment.**
+- **(typically used in the [[p/_plural|plural]]) [[d/_dregs|Dregs]], [[s/_sediment|sediment]].**
 - **A [[k/_kind|kind]] of [[b/_beer|beer]] or [[a/_ale|ale]].**
 ---
 #verb

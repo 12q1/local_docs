@@ -1,7 +1,7 @@
 # Bigging
 ---
 #verb
-- **To [[p/_praise|praise]], recommend, or promote.**
+- **To [[p/_praise|praise]], [[r/_recommend|recommend]], or [[p/_promote|promote]].**
 ---
 #verb
 - **To [[i/_inhabit|inhabit]]; [[o/_occupy|occupy]]**

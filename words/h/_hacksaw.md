@@ -1,7 +1,7 @@
 # Hacksaw
 ---
 #noun
-- **A saw, with a [[b/_blade|blade]] that is put under tension, for [[c/_cutting|cutting]] [[m/_metal|metal]]**
+- **A [[s/_saw|saw]], with a [[b/_blade|blade]] that is [[p/_put|put]] under tension, for [[c/_cutting|cutting]] [[m/_metal|metal]]**
 ---
 #verb
 - **To [[c/_cut|cut]] with a [[h/_hacksaw|hacksaw]].**

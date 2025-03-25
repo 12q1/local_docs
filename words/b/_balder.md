@@ -6,7 +6,7 @@
 	- _Example: The bald cypress is a tree that loses its leaves in winter._
 - **Of tyres: whose surface is worn [[a/_away|away]].**
 - **(of a statement or [[a/_account|account]]) Unembellished.**
-- **(of a statement) Without [[e/_evidence|evidence]] or support [[b/_being|being]] provided.**
+- **(of a statement) Without [[e/_evidence|evidence]] or support [[b/_being|being]] [[p/_provided|provided]].**
 ---
 ### Antonyms
 - [[f/_faxed|faxed]], [[h/_haired|haired]]

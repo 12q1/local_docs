@@ -1,6 +1,6 @@
 # Curatorial
 ---
 #adjective
-- **Of or relating to a [[c/_curator|curator]].**
+- **Of or [[r/_relating|relating]] to a [[c/_curator|curator]].**
 ---
 ---

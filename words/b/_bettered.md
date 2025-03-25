@@ -7,7 +7,7 @@
 - **To [[g/_give|give]] [[a/_advantage|advantage]] to; to support; to [[a/_advance|advance]] the [[i/_interest|interest]] of.**
 ---
 #verb
-- **(with [[b/_bare|bare]] [[i/_infinitive|infinitive]]) Should; [[o/_ought|ought]] to; [[n/_need|need]] to; [[m/_must|must]].**
+- **(with [[b/_bare|bare]] [[i/_infinitive|infinitive]]) [[s/_should|Should]]; [[o/_ought|ought]] to; [[n/_need|need]] to; [[m/_must|must]].**
 	- _Example: The project had better get finished by the current deadline._
 ---
 ### Synonyms

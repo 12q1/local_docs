@@ -6,6 +6,6 @@
 - **To [[c/_connive|connive]] at; to wink at; to [[p/_pretend|pretend]] not to [[n/_notice|notice]].**
 ---
 #adjective
-- **[[f/_feigning|Feigning]]; simulating; [[p/_pretending|pretending]].**
+- **[[f/_feigning|Feigning]]; [[s/_simulating|simulating]]; [[p/_pretending|pretending]].**
 ---
 ---

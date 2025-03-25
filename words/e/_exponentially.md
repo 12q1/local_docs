@@ -2,6 +2,6 @@
 ---
 #adverb
 - **In an [[e/_exponential|exponential]] [[m/_manner|manner]].**
-- **Rapidly, [[g/_greatly|greatly]]**
+- **[[r/_rapidly|Rapidly]], [[g/_greatly|greatly]]**
 ---
 ---

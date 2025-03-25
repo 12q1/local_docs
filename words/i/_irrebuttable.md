@@ -1,6 +1,6 @@
 # Irrebuttable
 ---
 #adjective
-- **Not rebuttable.**
+- **Not [[r/_rebuttable|rebuttable]].**
 ---
 ---

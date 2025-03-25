@@ -1,6 +1,6 @@
 # Anovulant
 ---
 #noun
-- **[[a/_any|Any]] [[d/_drug|drug]] that prevents [[o/_ovulation|ovulation]].**
+- **[[a/_any|Any]] [[d/_drug|drug]] that [[p/_prevents|prevents]] [[o/_ovulation|ovulation]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Learns
 ---
 #verb
-- **To [[a/_acquire|acquire]], or [[a/_attempt|attempt]] to [[a/_acquire|acquire]] [[k/_knowledge|knowledge]] or an [[a/_ability|ability]] to [[d/_do|do]] something.**
+- **To [[a/_acquire|acquire]], or [[a/_attempt|attempt]] to [[a/_acquire|acquire]] [[k/_knowledge|knowledge]] or an [[a/_ability|ability]] to [[d/_do|do]] [[s/_something|something]].**
 - **To [[a/_attend|attend]] a [[c/_course|course]] or [[o/_other|other]] [[e/_educational|educational]] [[a/_activity|activity]].**
-- **To [[g/_gain|gain]] [[k/_knowledge|knowledge]] from a [[b/_bad|bad]] [[e/_experience|experience]] so as to [[i/_improve|improve]].**
+- **To [[g/_gain|gain]] [[k/_knowledge|knowledge]] from a [[b/_bad|bad]] [[e/_experience|experience]] [[s/_so|so]] as to [[i/_improve|improve]].**
 	- _Example: learn from one's mistakes_
 - **To study.**
 	- _Example: I learn medicine._

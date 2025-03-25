@@ -9,7 +9,7 @@
 - **([[f/_followed|followed]] by to) [[o/_open|Open]] to the [[i/_influence|influence]] of.**
 - **[[o/_obtainable|Obtainable]]; to be [[g/_got|got]] at.**
 - **[[e/_easily|Easily]] understood or [[a/_appreciated|appreciated]].**
-- **[[c/_capable|Capable]] of [[b/_being|being]] used or seen.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] used or [[s/_seen|seen]].**
 ---
 ### Synonyms
 - [[a/_approachable|approachable]], [[e/_easy-going|easy-going]], [[f/_friendly|friendly]], [[w/_welcoming|welcoming]]

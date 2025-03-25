@@ -1,6 +1,6 @@
 # Irrevocable
 ---
 #adjective
-- **Unable to be retracted or reversed; [[f/_final|final]].**
+- **Unable to be [[r/_retracted|retracted]] or [[r/_reversed|reversed]]; [[f/_final|final]].**
 ---
 ---

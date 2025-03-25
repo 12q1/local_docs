@@ -6,6 +6,6 @@
 ### Synonyms
 - 
 #verb
-- **To serve as relief or [[a/_assistant|assistant]] [[p/_pilot|pilot]].**
+- **To [[s/_serve|serve]] as [[r/_relief|relief]] or [[a/_assistant|assistant]] [[p/_pilot|pilot]].**
 ---
 ---

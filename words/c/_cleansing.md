@@ -1,11 +1,11 @@
 # Cleansing
 ---
 #verb
-- **To [[f/_free|free]] from [[d/_dirt|dirt]]; to [[c/_clean|clean]], to purify.**
-- **To spiritually purify; to [[f/_free|free]] from [[g/_guilt|guilt]] or sin; to purge.**
+- **To [[f/_free|free]] from [[d/_dirt|dirt]]; to [[c/_clean|clean]], to [[p/_purify|purify]].**
+- **To spiritually [[p/_purify|purify]]; to [[f/_free|free]] from [[g/_guilt|guilt]] or [[s/_sin|sin]]; to [[p/_purge|purge]].**
 ---
 #noun
-- **The process of removing [[d/_dirt|dirt]], toxins [[e/_etc|etc]].**
+- **The [[p/_process|process]] of [[r/_removing|removing]] [[d/_dirt|dirt]], toxins [[e/_etc|etc]].**
 ---
 #adjective
 - **That [[c/_cleanses|cleanses]].**

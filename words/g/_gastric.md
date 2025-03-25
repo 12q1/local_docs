@@ -1,7 +1,7 @@
 # Gastric
 ---
 #adjective
-- **Of or relating to the stomach.**
+- **Of or [[r/_relating|relating]] to the stomach.**
 ---
 ### Synonyms
 - [[s/_stomachic|stomachic]]

@@ -1,6 +1,6 @@
 # Lullabying
 ---
 #verb
-- **To sing a [[l/_lullaby|lullaby]] to.**
+- **To [[s/_sing|sing]] a [[l/_lullaby|lullaby]] to.**
 ---
 ---

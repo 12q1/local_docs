@@ -1,7 +1,7 @@
 # Invincible
 ---
 #noun
-- **Someone or something that [[c/_cannot|cannot]] be [[d/_defeated|defeated]], [[d/_destroyed|destroyed]] or [[k/_killed|killed]].**
+- **[[s/_someone|Someone]] or [[s/_something|something]] that [[c/_cannot|cannot]] be [[d/_defeated|defeated]], [[d/_destroyed|destroyed]] or [[k/_killed|killed]].**
 ---
 ### Antonyms
 - [[v/_vincible|vincible]]

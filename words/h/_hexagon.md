@@ -1,6 +1,6 @@
 # Hexagon
 ---
 #noun
-- **A [[p/_polygon|polygon]] with six sides and six [[a/_angles|angles]].**
+- **A [[p/_polygon|polygon]] with [[s/_six|six]] [[s/_sides|sides]] and [[s/_six|six]] [[a/_angles|angles]].**
 ---
 ---

@@ -11,6 +11,6 @@
 ### Antonyms
 - [[o/_outweigh|outweigh]], [[o/_overcome|overcome]], [[o/_overpower|overpower]]
 #noun
-- **The [[a/_act|act]] by which something is [[c/_counterbalanced|counterbalanced]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[c/_counterbalanced|counterbalanced]].**
 ---
 ---

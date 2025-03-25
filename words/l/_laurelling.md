@@ -7,6 +7,6 @@
 ---
 #noun
 - **[[d/_decorations|Decorations]] that [[i/_imitate|imitate]] [[l/_laurel|laurel]] wreaths.**
-- **[[h/_honor|Honor]]; recognition of [[m/_merit|merit]].**
+- **[[h/_honor|Honor]]; [[r/_recognition|recognition]] of [[m/_merit|merit]].**
 ---
 ---

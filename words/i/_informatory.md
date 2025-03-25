@@ -1,7 +1,7 @@
 # Informatory
 ---
 #adjective
-- **Providing or [[c/_communicating|communicating]] [[i/_information|information]].**
+- **[[p/_providing|Providing]] or [[c/_communicating|communicating]] [[i/_information|information]].**
 	- _Example: I learned much from what she said: it was a very informatory speech._
 ---
 ### Synonyms

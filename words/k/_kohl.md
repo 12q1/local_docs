@@ -6,6 +6,6 @@
 ### Synonyms
 - [[s/_stibnite|stibnite]]
 #verb
-- **To [[d/_decorate|decorate]] [[o/_one|one]]'s [[e/_eyes|eyes]] with [[k/_kohl|kohl]].**
+- **To [[d/_decorate|decorate]] [[o/_one|one]]'[[s/_s|s]] [[e/_eyes|eyes]] with [[k/_kohl|kohl]].**
 ---
 ---

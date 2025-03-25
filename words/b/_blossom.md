@@ -3,10 +3,10 @@
 #noun
 - **A [[f/_flower|flower]], [[e/_especially|especially]] [[o/_one|one]] [[i/_indicating|indicating]] that a [[f/_fruit|fruit]] tree is [[f/_fruiting|fruiting]]; a [[m/_mass|mass]] of such [[f/_flowers|flowers]].**
 	- _Example: The blossom has come early this year._
-- **The state or season of producing such [[f/_flowers|flowers]].**
+- **The state or [[s/_season|season]] of [[p/_producing|producing]] such [[f/_flowers|flowers]].**
 	- _Example: The orchard is in blossom._
-- **A [[b/_blooming|blooming]] [[p/_period|period]] or stage of [[d/_development|development]]; something [[l/_lovely|lovely]] that [[g/_gives|gives]] rich promise.**
-- **The [[c/_colour|colour]] of a [[h/_horse|horse]] that [[h/_has|has]] white [[h/_hairs|hairs]] [[i/_intermixed|intermixed]] with sorrel and [[b/_bay|bay]] [[h/_hairs|hairs]].**
+- **A [[b/_blooming|blooming]] [[p/_period|period]] or stage of [[d/_development|development]]; [[s/_something|something]] [[l/_lovely|lovely]] that [[g/_gives|gives]] [[r/_rich|rich]] [[p/_promise|promise]].**
+- **The [[c/_colour|colour]] of a [[h/_horse|horse]] that [[h/_has|has]] white [[h/_hairs|hairs]] [[i/_intermixed|intermixed]] with [[s/_sorrel|sorrel]] and [[b/_bay|bay]] [[h/_hairs|hairs]].**
 ---
 #verb
 - **To [[h/_have|have]], or [[o/_open|open]] [[i/_into|into]], [[b/_blossoms|blossoms]]; to [[b/_bloom|bloom]].**

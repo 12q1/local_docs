@@ -2,7 +2,7 @@
 ---
 #verb
 - **([[h/_heading|heading]], [[p/_physical|physical]]) To strike.**
-- **To [[m/_manage|manage]] to touch (a target) in the right [[p/_place|place]].**
+- **To [[m/_manage|manage]] to touch (a target) in the [[r/_right|right]] [[p/_place|place]].**
 	- _Example: I hit the jackpot._
 - **To switch on.**
 	- _Example: Somebody's been here! Hit the lights!_
@@ -17,18 +17,18 @@
 - **([[h/_heading|heading]], [[g/_games|games]]) To [[m/_make|make]] a [[p/_play|play]].**
 - **To use; to [[c/_connect|connect]] to.**
 	- _Example: The external web servers hit DBSRV7, but the internal web server hits DBSRV3._
-- **To [[h/_have|have]] sex with.**
+- **To [[h/_have|have]] [[s/_sex|sex]] with.**
 	- _Example: I'd hit that._
-- **To [[i/_inhale|inhale]] an [[a/_amount|amount]] of smoke from a [[n/_narcotic|narcotic]] substance, [[p/_particularly|particularly]] [[m/_marijuana|marijuana]].**
+- **To [[i/_inhale|inhale]] an [[a/_amount|amount]] of [[s/_smoke|smoke]] from a [[n/_narcotic|narcotic]] substance, [[p/_particularly|particularly]] [[m/_marijuana|marijuana]].**
 ---
 ### Synonyms
 - [[b/_beat|beat]], [[p/_pelt|pelt]], [[t/_thump|thump]], [[b/_beset|beset]], [[b/_bang|bang]], [[r/_ram|ram]], [[s/_smash|smash]], [[w/_whack|whack]], [[t/_toke|toke]]
 ### Antonyms
 - [[m/_miss|miss]], [[c/_cut|cut]], [[k/_kill|kill]], [[m/_miss|miss]]
 #noun
-- **A series of [[h/_hits|hits]] or [[b/_blows|blows]] [[d/_directed|directed]] at a [[p/_person|person]] or [[o/_object|object]].**
+- **A [[s/_series|series]] of [[h/_hits|hits]] or [[b/_blows|blows]] [[d/_directed|directed]] at a [[p/_person|person]] or [[o/_object|object]].**
 	- _Example: Their conflict ended in hitting._
-- **The skill of [[h/_hitting|hitting]].**
+- **The [[s/_skill|skill]] of [[h/_hitting|hitting]].**
 	- _Example: The batter's hitting improved with practice._
 ---
 ---

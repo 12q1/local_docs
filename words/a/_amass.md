@@ -8,7 +8,7 @@
 - [[h/_heap|heap]], [[m/_mass|mass]], [[p/_pile|pile]]
 #verb
 - **To [[c/_collect|collect]] [[i/_into|into]] a [[m/_mass|mass]] or [[h/_heap|heap]].**
-- **To [[g/_gather|gather]] a [[g/_great|great]] quantity of; to [[a/_accumulate|accumulate]].**
+- **To [[g/_gather|gather]] a [[g/_great|great]] [[q/_quantity|quantity]] of; to [[a/_accumulate|accumulate]].**
 	- _Example: to amass a treasure or a fortune_
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Brusque
 ---
 #adjective
-- **Rudely [[a/_abrupt|abrupt]], unfriendly.**
+- **[[r/_rudely|Rudely]] [[a/_abrupt|abrupt]], unfriendly.**
 ---
 ---

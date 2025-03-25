@@ -1,13 +1,13 @@
 # Brims
 ---
 #noun
-- **The sea; [[o/_ocean|ocean]]; water; [[f/_flood|flood]].**
+- **The [[s/_sea|sea]]; [[o/_ocean|ocean]]; water; [[f/_flood|flood]].**
 ---
 #noun
-- **An [[e/_edge|edge]] or [[b/_border|border]] ([[o/_originally|originally]] specifically of the sea or a [[b/_body|body]] of water).**
-- **The topmost rim or [[l/_lip|lip]] of a [[c/_container|container]].**
+- **An [[e/_edge|edge]] or [[b/_border|border]] ([[o/_originally|originally]] specifically of the [[s/_sea|sea]] or a [[b/_body|body]] of water).**
+- **The topmost [[r/_rim|rim]] or [[l/_lip|lip]] of a [[c/_container|container]].**
 	- _Example: The toy box was filled to the brim with stuffed animals._
-- **A projecting rim, [[e/_especially|especially]] of a [[h/_hat|hat]].**
+- **A [[p/_projecting|projecting]] [[r/_rim|rim]], [[e/_especially|especially]] of a [[h/_hat|hat]].**
 	- _Example: He turned the back of his brim up stylishly._
 ---
 #verb
@@ -16,6 +16,6 @@
 - **To [[f/_fill|fill]] to the [[b/_brim|brim]], upper [[e/_edge|edge]], or top.**
 ---
 #verb
-- **Of [[p/_pigs|pigs]]: to be in [[h/_heat|heat]], to rut.**
+- **Of [[p/_pigs|pigs]]: to be in [[h/_heat|heat]], to [[r/_rut|rut]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Disrepute
 ---
 #noun
-- **[[l/_loss|Loss]] or want of reputation; [[i/_ill|ill]] [[c/_character|character]].**
+- **[[l/_loss|Loss]] or want of [[r/_reputation|reputation]]; [[i/_ill|ill]] [[c/_character|character]].**
 ---
 ### Synonyms
 - [[d/_discredit|discredit]], [[d/_disesteem|disesteem]]

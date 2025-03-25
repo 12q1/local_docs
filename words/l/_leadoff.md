@@ -5,9 +5,9 @@
 	- _Example: Jones has been the team's lead off hitter for three years._
 - **The [[f/_first|first]] [[b/_batter|batter]] of an [[i/_inning|inning]].**
 	- _Example: The lead off hitter for the sixth inning is Jones._
-- **The short [[d/_distance|distance]] that a [[p/_player|player]] stands [[a/_away|away]] from their [[c/_current|current]] [[b/_base|base]].**
+- **The [[s/_short|short]] [[d/_distance|distance]] that a [[p/_player|player]] stands [[a/_away|away]] from their [[c/_current|current]] [[b/_base|base]].**
 ---
 #adjective
-- **[[b/_beginning|Beginning]] something by [[l/_leading|leading]] the way.**
+- **[[b/_beginning|Beginning]] [[s/_something|something]] by [[l/_leading|leading]] the way.**
 ---
 ---

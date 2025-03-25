@@ -1,7 +1,7 @@
 # Desiccated
 ---
 #verb
-- **To remove [[m/_moisture|moisture]] from; to [[d/_dry|dry]].**
+- **To [[r/_remove|remove]] [[m/_moisture|moisture]] from; to [[d/_dry|dry]].**
 - **To [[p/_preserve|preserve]] by [[d/_drying|drying]].**
 - **To [[b/_become|become]] [[d/_dry|dry]]; to [[d/_dry|dry]] up.**
 ---

@@ -1,9 +1,9 @@
 # Blackbirding
 ---
 #verb
-- **To [[e/_enslave|enslave]] someone, [[e/_especially|especially]] through [[c/_chicanery|chicanery]] or [[f/_force|force]]**
+- **To [[e/_enslave|enslave]] [[s/_someone|someone]], [[e/_especially|especially]] through [[c/_chicanery|chicanery]] or [[f/_force|force]]**
 ---
 #noun
-- **The [[p/_practice|practice]] of [[k/_kidnapping|kidnapping]] [[p/_pacific|Pacific]] [[i/_islanders|Islanders]], or kanakas, for sale as [[c/_cheap|cheap]] [[l/_labour|labour]].**
+- **The [[p/_practice|practice]] of [[k/_kidnapping|kidnapping]] [[p/_pacific|Pacific]] [[i/_islanders|Islanders]], or kanakas, for [[s/_sale|sale]] as [[c/_cheap|cheap]] [[l/_labour|labour]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Honoree
 ---
 #noun
-- **[[o/_one|One]] who receives an [[h/_honor|honor]] or [[a/_award|award]].**
+- **[[o/_one|One]] who [[r/_receives|receives]] an [[h/_honor|honor]] or [[a/_award|award]].**
 ---
 ---

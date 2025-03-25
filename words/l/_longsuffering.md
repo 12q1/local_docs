@@ -1,7 +1,7 @@
 # Longsuffering
 ---
 #adjective
-- **[[h/_having|Having]] [[e/_endured|endured]] [[m/_mental|mental]] or [[p/_physical|physical]] [[d/_discomfort|discomfort]] for a protracted [[p/_period|period]] of time [[p/_patiently|patiently]] or without [[c/_complaint|complaint]].**
+- **[[h/_having|Having]] [[e/_endured|endured]] [[m/_mental|mental]] or [[p/_physical|physical]] [[d/_discomfort|discomfort]] for a [[p/_protracted|protracted]] [[p/_period|period]] of time [[p/_patiently|patiently]] or without [[c/_complaint|complaint]].**
 	- _Example: His long-suffering wife may have had to put up with him for many years, but she also benefited when times were good._
 ---
 ### Synonyms

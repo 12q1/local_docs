@@ -1,7 +1,7 @@
 # Dependable
 ---
 #noun
-- **A reliable [[p/_person|person]] or thing.**
+- **A [[r/_reliable|reliable]] [[p/_person|person]] or thing.**
 ---
 #adjective
 - **[[a/_able|Able]], or [[e/_easily|easily]] [[a/_able|able]] to be [[d/_depended|depended]] on.**

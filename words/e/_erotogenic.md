@@ -1,6 +1,6 @@
 # Erotogenic
 ---
 #adjective
-- **That [[c/_causes|causes]] sexual [[e/_excitement|excitement]]**
+- **That [[c/_causes|causes]] [[s/_sexual|sexual]] [[e/_excitement|excitement]]**
 ---
 ---

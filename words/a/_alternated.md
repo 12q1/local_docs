@@ -1,11 +1,11 @@
 # Alternated
 ---
 #verb
-- **To [[p/_perform|perform]] by turns, or in succession; to [[c/_cause|cause]] to succeed by turns; to [[i/_interchange|interchange]] regularly.**
-- **To [[h/_happen|happen]], succeed, or [[a/_act|act]] by turns; to [[f/_follow|follow]] reciprocally in [[p/_place|place]] or time; [[f/_followed|followed]] by with.**
+- **To [[p/_perform|perform]] by turns, or in succession; to [[c/_cause|cause]] to succeed by turns; to [[i/_interchange|interchange]] [[r/_regularly|regularly]].**
+- **To [[h/_happen|happen]], succeed, or [[a/_act|act]] by turns; to [[f/_follow|follow]] [[r/_reciprocally|reciprocally]] in [[p/_place|place]] or time; [[f/_followed|followed]] by with.**
 	- _Example: The flood and ebb tides alternate with each other._
 - **To vary by turns.**
 	- _Example: The land alternates between rocky hills and sandy plains._
-- **To [[p/_perform|perform]] an [[a/_alternation|alternation]] (removal of [[a/_alternate|alternate]] vertices) on (a [[p/_polytope|polytope]] or tessellation); to remove vertices (from a [[f/_face|face]] or [[e/_edge|edge]]) as [[p/_part|part]] of an [[a/_alternation|alternation]].**
+- **To [[p/_perform|perform]] an [[a/_alternation|alternation]] ([[r/_removal|removal]] of [[a/_alternate|alternate]] vertices) on (a [[p/_polytope|polytope]] or tessellation); to [[r/_remove|remove]] vertices (from a [[f/_face|face]] or [[e/_edge|edge]]) as [[p/_part|part]] of an [[a/_alternation|alternation]].**
 ---
 ---

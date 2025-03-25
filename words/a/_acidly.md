@@ -1,7 +1,7 @@
 # Acidly
 ---
 #adverb
-- **Sourly; tartly**
+- **[[s/_sourly|Sourly]]; tartly**
 ---
 ### Synonyms
 - [[a/_acerbically|acerbically]]

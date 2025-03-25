@@ -8,6 +8,6 @@
 - **To [[h/_honor|honor]] with a wreath of [[l/_laurel|laurel]], as [[f/_formerly|formerly]] was [[d/_done|done]] in [[b/_bestowing|bestowing]] a [[d/_degree|degree]] at [[e/_english|English]] universities.**
 ---
 #adjective
-- **(sometimes [[p/_postpositive|postpositive]]) [[c/_crowned|Crowned]], or [[d/_decked|decked]], with [[l/_laurel|laurel]].**
+- **([[s/_sometimes|sometimes]] [[p/_postpositive|postpositive]]) [[c/_crowned|Crowned]], or [[d/_decked|decked]], with [[l/_laurel|laurel]].**
 ---
 ---

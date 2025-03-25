@@ -1,6 +1,6 @@
 # Interfiled
 ---
 #verb
-- **To [[f/_file|file]] (something) [[b/_between|between]] or [[a/_among|among]] [[e/_existing|existing]] [[e/_entries|entries]].**
+- **To [[f/_file|file]] ([[s/_something|something]]) [[b/_between|between]] or [[a/_among|among]] [[e/_existing|existing]] [[e/_entries|entries]].**
 ---
 ---

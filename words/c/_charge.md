@@ -1,7 +1,7 @@
 # Charge
 ---
 #noun
-- **The [[a/_amount|amount]] of [[m/_money|money]] [[l/_levied|levied]] for a service.**
+- **The [[a/_amount|amount]] of [[m/_money|money]] [[l/_levied|levied]] for a [[s/_service|service]].**
 	- _Example: There will be a charge of five dollars._
 - **A [[g/_ground|ground]] [[a/_attack|attack]] [[a/_against|against]] a [[p/_prepared|prepared]] [[e/_enemy|enemy]].**
 	- _Example: Pickett did not die leading his famous charge._
@@ -9,44 +9,44 @@
 - **An [[a/_accusation|accusation]].**
 	- _Example: That's a slanderous charge of abuse of trust._
 - **An [[e/_electric|electric]] [[c/_charge|charge]].**
-- **The scope of someone's responsibility.**
+- **The [[s/_scope|scope]] of [[s/_someone|someone]]'[[s/_s|s]] [[r/_responsibility|responsibility]].**
 	- _Example: The child was in the nanny's charge._
-- **Someone or something [[e/_entrusted|entrusted]] to [[o/_one|one]]'s [[c/_care|care]], such as a [[c/_child|child]] to a [[b/_babysitter|babysitter]] or a student to a teacher.**
+- **[[s/_someone|Someone]] or [[s/_something|something]] [[e/_entrusted|entrusted]] to [[o/_one|one]]'[[s/_s|s]] [[c/_care|care]], such as a [[c/_child|child]] to a [[b/_babysitter|babysitter]] or a student to a teacher.**
 	- _Example: The child was a charge of the nanny._
 - **A [[l/_load|load]] or [[b/_burden|burden]]; [[c/_cargo|cargo]].**
 	- _Example: The ship had a charge of colonists and their belongings._
 - **An [[i/_instruction|instruction]].**
 	- _Example: I gave him the charge to get the deal closed by the end of the month._
 - **An [[o/_offensive|offensive]] [[f/_foul|foul]] in which the [[p/_player|player]] with the [[b/_ball|ball]] [[m/_moves|moves]] [[i/_into|into]] a stationary [[d/_defender|defender]].**
-- **A [[m/_measured|measured]] [[a/_amount|amount]] of [[p/_powder|powder]] and/or shot in a [[f/_firearm|firearm]] [[c/_cartridge|cartridge]].**
+- **A [[m/_measured|measured]] [[a/_amount|amount]] of [[p/_powder|powder]] and/or [[s/_shot|shot]] in a [[f/_firearm|firearm]] [[c/_cartridge|cartridge]].**
 - **An [[i/_image|image]] [[d/_displayed|displayed]] on an [[e/_escutcheon|escutcheon]].**
 - **A [[p/_position|position]] (of a weapon) [[f/_fitted|fitted]] for [[a/_attack|attack]].**
 	- _Example: to bring a weapon to the charge_
-- **A sort of [[p/_plaster|plaster]] or [[o/_ointment|ointment]].**
+- **A [[s/_sort|sort]] of [[p/_plaster|plaster]] or [[o/_ointment|ointment]].**
 - **Weight; [[i/_import|import]]; value.**
-- **A [[m/_measure|measure]] of thirty-six [[p/_pigs|pigs]] of [[l/_lead|lead]], [[e/_each|each]] [[p/_pig|pig]] weighing [[a/_about|about]] seventy [[p/_pounds|pounds]]; a [[c/_charre|charre]].**
-- **An [[a/_address|address]] [[g/_given|given]] at a [[c/_church|church]] service [[c/_concluding|concluding]] a visitation.**
+- **A [[m/_measure|measure]] of thirty-[[s/_six|six]] [[p/_pigs|pigs]] of [[l/_lead|lead]], [[e/_each|each]] [[p/_pig|pig]] weighing [[a/_about|about]] [[s/_seventy|seventy]] [[p/_pounds|pounds]]; a [[c/_charre|charre]].**
+- **An [[a/_address|address]] [[g/_given|given]] at a [[c/_church|church]] [[s/_service|service]] [[c/_concluding|concluding]] a visitation.**
 ---
 ### Synonyms
 - [[c/_count|count]]
 #verb
-- **To [[a/_assign|assign]] a [[d/_duty|duty]] or responsibility to**
+- **To [[a/_assign|assign]] a [[d/_duty|duty]] or [[r/_responsibility|responsibility]] to**
 - **To [[a/_assign|assign]] (a [[d/_debit|debit]]) to an [[a/_account|account]]**
 	- _Example: Let's charge this to marketing._
 - **To [[p/_pay|pay]] on [[a/_account|account]], as by using a [[c/_credit|credit]] [[c/_card|card]]**
 	- _Example: Can I charge my purchase to my credit card?_
-- **To require [[p/_payment|payment]] (of) (a price or [[f/_fee|fee]], for [[g/_goods|goods]], services, [[e/_etc|etc]].)**
+- **To [[r/_require|require]] [[p/_payment|payment]] (of) (a [[p/_price|price]] or [[f/_fee|fee]], for [[g/_goods|goods]], [[s/_services|services]], [[e/_etc|etc]].)**
 	- _Example: I won't charge you for the wheat_
-- **([[p/_possibly|possibly]] [[a/_archaic|archaic]]) to sell at a [[g/_given|given]] price.**
+- **([[p/_possibly|possibly]] [[a/_archaic|archaic]]) to [[s/_sell|sell]] at a [[g/_given|given]] [[p/_price|price]].**
 	- _Example: to charge coal at $5 per unit_
 - **To [[f/_formally|formally]] [[a/_accuse|accuse]] (a [[p/_person|person]]) of a [[c/_crime|crime]].**
 	- _Example: I'm charging you with assault and battery._
 - **To [[i/_impute|impute]] or [[a/_ascribe|ascribe]]**
 - **To [[c/_call|call]] to [[a/_account|account]]; to [[c/_challenge|challenge]]**
 - **To [[p/_place|place]] a [[b/_burden|burden]] or [[l/_load|load]] on or in**
-- **To [[l/_load|load]] [[e/_equipment|equipment]] with [[m/_material|material]] required for [[i/_its|its]] use, as a [[f/_firearm|firearm]] with [[p/_powder|powder]], a [[f/_fire|fire]] [[h/_hose|hose]] with water, a [[c/_chemical|chemical]] reactor with raw [[m/_materials|materials]]**
+- **To [[l/_load|load]] [[e/_equipment|equipment]] with [[m/_material|material]] [[r/_required|required]] for [[i/_its|its]] use, as a [[f/_firearm|firearm]] with [[p/_powder|powder]], a [[f/_fire|fire]] [[h/_hose|hose]] with water, a [[c/_chemical|chemical]] [[r/_reactor|reactor]] with [[r/_raw|raw]] [[m/_materials|materials]]**
 	- _Example: Charge your weapons; we're moving up._
-- **To [[m/_move|move]] [[f/_forward|forward]] quickly and [[f/_forcefully|forcefully]], [[p/_particularly|particularly]] in [[c/_combat|combat]] and/or on [[h/_horseback|horseback]]**
+- **To [[m/_move|move]] [[f/_forward|forward]] [[q/_quickly|quickly]] and [[f/_forcefully|forcefully]], [[p/_particularly|particularly]] in [[c/_combat|combat]] and/or on [[h/_horseback|horseback]]**
 - **(of a [[h/_hunting|hunting]] [[d/_dog|dog]]) to [[l/_lie|lie]] on the [[b/_belly|belly]] and be still (A [[c/_command|command]] [[g/_given|given]] by a [[h/_hunter|hunter]] to a [[d/_dog|dog]])**
 ---
 ---

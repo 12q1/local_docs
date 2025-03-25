@@ -7,7 +7,7 @@
 ### Synonyms
 - [[d/_dirt|dirt]], [[s/_scoop|scoop]]
 #adjective
-- **Unfair; shameful.**
+- **Unfair; [[s/_shameful|shameful]].**
 	- _Example: lowdown tactics_
 ---
 ---

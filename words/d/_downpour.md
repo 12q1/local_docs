@@ -1,12 +1,12 @@
 # Downpour
 ---
 #noun
-- **A [[h/_heavy|heavy]] rain.**
+- **A [[h/_heavy|heavy]] [[r/_rain|rain]].**
 	- _Example: They got caught in a downpour without an umbrella and came back soaked._
 ---
 ### Synonyms
 - [[c/_cloudburst|cloudburst]], [[d/_deluge|deluge]], [[i/_inundation|inundation]], [[m/_monsoon|monsoon]], [[r/_rain|rain]], [[r/_rainstorm|rainstorm]], [[s/_storm|storm]], [[t/_torrent|torrent]], [[w/_wet|wet]]
 #verb
-- **To [[p/_pour|pour]] [[d/_down|down]]; rain [[h/_heavily|heavily]].**
+- **To [[p/_pour|pour]] [[d/_down|down]]; [[r/_rain|rain]] [[h/_heavily|heavily]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_any|Any]] [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]].**
-- **A session of [[d/_drinking|drinking]] [[a/_alcohol|alcohol]]; a [[d/_drinking|drinking]] [[p/_party|party]].**
+- **A [[s/_session|session]] of [[d/_drinking|drinking]] [[a/_alcohol|alcohol]]; a [[d/_drinking|drinking]] [[p/_party|party]].**
 ---
 ### Synonyms
 - [[g/_grog|grog]]

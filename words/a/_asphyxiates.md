@@ -1,7 +1,7 @@
 # Asphyxiates
 ---
 #verb
-- **To smother or suffocate someone.**
-- **To be smothered or suffocated.**
+- **To [[s/_smother|smother]] or suffocate [[s/_someone|someone]].**
+- **To be [[s/_smothered|smothered]] or suffocated.**
 ---
 ---

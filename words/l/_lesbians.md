@@ -1,7 +1,7 @@
 # Lesbians
 ---
 #noun
-- **A [[h/_homosexual|homosexual]] woman, [[o/_one|one]] who is [[m/_mostly|mostly]] or [[e/_exclusively|exclusively]] sexually or romantically [[a/_attracted|attracted]] to [[o/_other|other]] women.**
+- **A [[h/_homosexual|homosexual]] woman, [[o/_one|one]] who is [[m/_mostly|mostly]] or [[e/_exclusively|exclusively]] [[s/_sexually|sexually]] or [[r/_romantically|romantically]] [[a/_attracted|attracted]] to [[o/_other|other]] women.**
 - **A [[h/_homosexual|homosexual]] [[f/_female|female]] [[a/_animal|animal]].**
 ---
 ### Synonyms

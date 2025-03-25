@@ -1,7 +1,7 @@
 # Cryogenics
 ---
 #noun
-- **The science and technology of the production of very [[l/_low|low]] temperatures.**
-- **The scientific study of [[l/_low|low]]-temperature [[p/_phenomena|phenomena]].**
+- **The [[s/_science|science]] and technology of the [[p/_production|production]] of very [[l/_low|low]] temperatures.**
+- **The [[s/_scientific|scientific]] study of [[l/_low|low]]-temperature [[p/_phenomena|phenomena]].**
 ---
 ---

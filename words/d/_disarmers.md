@@ -1,6 +1,6 @@
 # Disarmers
 ---
 #noun
-- **A proponent of [[d/_disarmament|disarmament]].**
+- **A [[p/_proponent|proponent]] of [[d/_disarmament|disarmament]].**
 ---
 ---

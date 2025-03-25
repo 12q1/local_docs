@@ -2,7 +2,7 @@
 ---
 #noun
 - **That which [[d/_dilutes|dilutes]].**
-- **A solvent or [[o/_other|other]] [[l/_liquid|liquid]] [[p/_preparation|preparation]] used to [[d/_dilute|dilute]] a sample prior to testing.**
+- **A [[s/_solvent|solvent]] or [[o/_other|other]] [[l/_liquid|liquid]] [[p/_preparation|preparation]] used to [[d/_dilute|dilute]] a [[s/_sample|sample]] [[p/_prior|prior]] to testing.**
 - **An [[a/_agent|agent]] used for [[e/_effecting|effecting]] [[d/_dilution|dilution]] of the [[b/_blood|blood]]; a weak [[d/_drink|drink]].**
 ---
 ### Synonyms

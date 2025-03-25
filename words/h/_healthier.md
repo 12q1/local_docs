@@ -6,7 +6,7 @@
 - **[[c/_conducive|Conducive]] to [[h/_health|health]].**
 	- _Example: A healthy diet and exercise can help to maintain proper weight._
 - **[[e/_evincing|Evincing]] [[h/_health|health]].**
-- **Significant, [[h/_hefty|hefty]]; [[b/_beneficial|beneficial]].**
+- **[[s/_significant|Significant]], [[h/_hefty|hefty]]; [[b/_beneficial|beneficial]].**
 	- _Example: Sam unwrapped the sandwich and took a healthy bite out of the middle._
 ---
 ### Synonyms

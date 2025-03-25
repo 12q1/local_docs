@@ -1,7 +1,7 @@
 # Arrhythmic
 ---
 #adjective
-- **Without rhythm.**
+- **Without [[r/_rhythm|rhythm]].**
 - **Suffering from [[c/_cardiac|cardiac]] [[a/_arrhythmia|arrhythmia]].**
 ---
 ### Synonyms

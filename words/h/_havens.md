@@ -1,6 +1,6 @@
 # Havens
 ---
 #verb
-- **To put [[i/_into|into]], or provide with a [[h/_haven|haven]].**
+- **To [[p/_put|put]] [[i/_into|into]], or [[p/_provide|provide]] with a [[h/_haven|haven]].**
 ---
 ---

@@ -1,10 +1,10 @@
 # Bond
 ---
 #noun
-- **[[e/_evidence|Evidence]] of a [[l/_long|long]]-term [[d/_debt|debt]], by which the [[b/_bond|bond]] [[i/_issuer|issuer]] (the [[b/_borrower|borrower]]) is [[o/_obliged|obliged]] to [[p/_pay|pay]] [[i/_interest|interest]] when [[d/_due|due]], and repay the principal at [[m/_maturity|maturity]], as specified on the [[f/_face|face]] of the [[b/_bond|bond]] [[c/_certificate|certificate]]. The rights of the [[h/_holder|holder]] are specified in the [[b/_bond|bond]] [[i/_indenture|indenture]], which [[c/_contains|contains]] the [[l/_legal|legal]] terms and [[c/_conditions|conditions]] under which the [[b/_bond|bond]] was [[i/_issued|issued]]. [[b/_bonds|Bonds]] are [[a/_available|available]] in two [[f/_forms|forms]]: registered [[b/_bonds|bonds]], and [[b/_bearer|bearer]] [[b/_bonds|bonds]].**
+- **[[e/_evidence|Evidence]] of a [[l/_long|long]]-term [[d/_debt|debt]], by which the [[b/_bond|bond]] [[i/_issuer|issuer]] (the [[b/_borrower|borrower]]) is [[o/_obliged|obliged]] to [[p/_pay|pay]] [[i/_interest|interest]] when [[d/_due|due]], and [[r/_repay|repay]] the [[p/_principal|principal]] at [[m/_maturity|maturity]], as specified on the [[f/_face|face]] of the [[b/_bond|bond]] [[c/_certificate|certificate]]. The [[r/_rights|rights]] of the [[h/_holder|holder]] are specified in the [[b/_bond|bond]] [[i/_indenture|indenture]], which [[c/_contains|contains]] the [[l/_legal|legal]] terms and [[c/_conditions|conditions]] under which the [[b/_bond|bond]] was [[i/_issued|issued]]. [[b/_bonds|Bonds]] are [[a/_available|available]] in two [[f/_forms|forms]]: [[r/_registered|registered]] [[b/_bonds|bonds]], and [[b/_bearer|bearer]] [[b/_bonds|bonds]].**
 - **A [[d/_documentary|documentary]] [[o/_obligation|obligation]] to [[p/_pay|pay]] a sum or to [[p/_perform|perform]] a [[c/_contract|contract]]; a [[d/_debenture|debenture]].**
 	- _Example: Investors face a quandary. Cash offers a return of virtually zero in many developed countries; government-bond yields may have risen in recent weeks but they are still unattractive. Equities have suffered two big bear markets since 2000 and are wobbling again. It is hardly surprising that pension funds, insurers and endowments are searching for new sources of return._
-- **A [[p/_partial|partial]] [[p/_payment|payment]] [[m/_made|made]] to show a provider that the [[c/_customer|customer]] is sincere [[a/_about|about]] [[b/_buying|buying]] a product or a service. [[i/_if|If]] the product or service is not purchased the [[c/_customer|customer]] then [[f/_forfeits|forfeits]] the [[b/_bond|bond]].**
+- **A [[p/_partial|partial]] [[p/_payment|payment]] [[m/_made|made]] to [[s/_show|show]] a [[p/_provider|provider]] that the [[c/_customer|customer]] is [[s/_sincere|sincere]] [[a/_about|about]] [[b/_buying|buying]] a [[p/_product|product]] or a [[s/_service|service]]. [[i/_if|If]] the [[p/_product|product]] or [[s/_service|service]] is not [[p/_purchased|purchased]] the [[c/_customer|customer]] then [[f/_forfeits|forfeits]] the [[b/_bond|bond]].**
 - **([[o/_often|often]] in the [[p/_plural|plural]]) A [[p/_physical|physical]] [[c/_connection|connection]] which [[b/_binds|binds]], a [[b/_band|band]].**
 	- _Example: The prisoner was brought before the tribunal in iron bonds._
 - **An [[e/_emotional|emotional]] [[l/_link|link]], [[c/_connection|connection]] or union; that which [[h/_holds|holds]] two or [[m/_more|more]] [[p/_people|people]] together, as in a [[f/_friendship|friendship]]; a tie.**
@@ -19,23 +19,23 @@
 - **[[a/_any|Any]] [[c/_constraining|constraining]] or [[c/_cementing|cementing]] [[f/_force|force]] or [[m/_material|material]].**
 	- _Example: A bond of superglue adhered the teacups to the ceiling, much to the consternation of the cafe owners._
 - **In [[b/_building|building]], a specific [[p/_pattern|pattern]] of [[b/_bricklaying|bricklaying]].**
-- **In Scotland, a [[m/_mortgage|mortgage]].**
-- **A [[h/_heavy|heavy]] [[c/_copper|copper]] wire or rod [[c/_connecting|connecting]] [[a/_adjacent|adjacent]] rails of an [[e/_electric|electric]] railway track when used as a [[p/_part|part]] of the [[e/_electric|electric]] [[c/_circuit|circuit]].**
+- **In [[s/_scotland|Scotland]], a [[m/_mortgage|mortgage]].**
+- **A [[h/_heavy|heavy]] [[c/_copper|copper]] wire or [[r/_rod|rod]] [[c/_connecting|connecting]] [[a/_adjacent|adjacent]] [[r/_rails|rails]] of an [[e/_electric|electric]] [[r/_railway|railway]] track when used as a [[p/_part|part]] of the [[e/_electric|electric]] [[c/_circuit|circuit]].**
 ---
 #verb
-- **To [[c/_connect|connect]], secure or tie with a [[b/_bond|bond]]; to [[b/_bind|bind]].**
+- **To [[c/_connect|connect]], [[s/_secure|secure]] or tie with a [[b/_bond|bond]]; to [[b/_bind|bind]].**
 	- _Example: The gargantuan ape was bonded in iron chains and carted onto the stage._
 - **To [[c/_cause|cause]] to [[a/_adhere|adhere]] ([[o/_one|one]] [[m/_material|material]] with [[a/_another|another]]).**
 	- _Example: The children bonded their snapshots to the scrapbook pages with mucilage._
 - **To [[f/_form|form]] a [[c/_chemical|chemical]] [[c/_compound|compound]] with.**
 	- _Example: Under unusual conditions, even gold can be made to bond with other elements._
-- **To [[g/_guarantee|guarantee]] or secure a [[f/_financial|financial]] risk.**
+- **To [[g/_guarantee|guarantee]] or [[s/_secure|secure]] a [[f/_financial|financial]] [[r/_risk|risk]].**
 	- _Example: The contractor was bonded with a local underwriter._
 - **To [[f/_form|form]] a [[f/_friendship|friendship]] or [[e/_emotional|emotional]] [[c/_connection|connection]].**
 	- _Example: The men had bonded while serving together in Vietnam._
-- **To put in a [[b/_bonded|bonded]] warehouse; to secure ([[g/_goods|goods]]) until the [[a/_associated|associated]] [[d/_duties|duties]] are [[p/_paid|paid]].**
+- **To [[p/_put|put]] in a [[b/_bonded|bonded]] warehouse; to [[s/_secure|secure]] ([[g/_goods|goods]]) until the [[a/_associated|associated]] [[d/_duties|duties]] are [[p/_paid|paid]].**
 - **To [[l/_lay|lay]] [[b/_bricks|bricks]] in a specific [[p/_pattern|pattern]].**
-- **To [[m/_make|make]] a reliable [[e/_electrical|electrical]] [[c/_connection|connection]] [[b/_between|between]] two [[c/_conductors|conductors]] (or [[a/_any|any]] [[p/_pieces|pieces]] of [[m/_metal|metal]] that [[m/_may|may]] [[p/_potentially|potentially]] [[b/_become|become]] [[c/_conductors|conductors]]).**
+- **To [[m/_make|make]] a [[r/_reliable|reliable]] [[e/_electrical|electrical]] [[c/_connection|connection]] [[b/_between|between]] two [[c/_conductors|conductors]] (or [[a/_any|any]] [[p/_pieces|pieces]] of [[m/_metal|metal]] that [[m/_may|may]] [[p/_potentially|potentially]] [[b/_become|become]] [[c/_conductors|conductors]]).**
 	- _Example: A house's distribution panel should always be bonded to the grounding rods via a panel bond._
 - **To [[b/_bail|bail]] [[o/_out|out]] by [[m/_means|means]] of a [[b/_bail|bail]] [[b/_bond|bond]].**
 ---

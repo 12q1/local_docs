@@ -1,6 +1,6 @@
 # Ameboid
 ---
 #adjective
-- **Resembling, or [[c/_characteristic|characteristic]] of an [[a/_amoeba|amoeba]]**
+- **[[r/_resembling|Resembling]], or [[c/_characteristic|characteristic]] of an [[a/_amoeba|amoeba]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Freer
 ---
 #adjective
-- **(social) Unconstrained.**
+- **([[s/_social|social]]) Unconstrained.**
 	- _Example: He was given free rein to do whatever he wanted._
 - **[[o/_obtainable|Obtainable]] without [[a/_any|any]] [[p/_payment|payment]].**
 	- _Example: It's free real estate._
@@ -9,12 +9,12 @@
 - **([[p/_physical|physical]]) Unconstrained.**
 - **Without; not [[c/_containing|containing]] (what is specified); [[e/_exempt|exempt]]; [[c/_clear|clear]]; [[l/_liberated|liberated]].**
 	- _Example: We had a wholesome, filling meal, free of meat.  I would like to live free from care in the mountains._
-- **Ready; [[e/_eager|eager]]; [[a/_acting|acting]] without spurring or whipping; spirited.**
+- **[[r/_ready|Ready]]; [[e/_eager|eager]]; [[a/_acting|acting]] without spurring or whipping; spirited.**
 	- _Example: a free horse_
-- **[[i/_invested|Invested]] with a [[p/_particular|particular]] [[f/_freedom|freedom]] or [[f/_franchise|franchise]]; [[e/_enjoying|enjoying]] [[c/_certain|certain]] [[i/_immunities|immunities]] or privileges; [[a/_admitted|admitted]] to special rights; [[f/_followed|followed]] by of.**
+- **[[i/_invested|Invested]] with a [[p/_particular|particular]] [[f/_freedom|freedom]] or [[f/_franchise|franchise]]; [[e/_enjoying|enjoying]] [[c/_certain|certain]] [[i/_immunities|immunities]] or [[p/_privileges|privileges]]; [[a/_admitted|admitted]] to special [[r/_rights|rights]]; [[f/_followed|followed]] by of.**
 - **[[c/_certain|Certain]] or [[h/_honourable|honourable]]; the [[o/_opposite|opposite]] of [[b/_base|base]].**
 	- _Example: free service;  free socage_
-- **Privileged or [[i/_individual|individual]]; the [[o/_opposite|opposite]] of [[c/_common|common]].**
+- **[[p/_privileged|Privileged]] or [[i/_individual|individual]]; the [[o/_opposite|opposite]] of [[c/_common|common]].**
 	- _Example: a free fishery;  a free warren_
 ---
 ### Synonyms

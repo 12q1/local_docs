@@ -1,7 +1,7 @@
 # Benne
 ---
 #noun
-- **Sesame.**
+- **[[s/_sesame|Sesame]].**
 	- _Example: benne oil; benne seed_
 ---
 ---

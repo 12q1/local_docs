@@ -3,7 +3,7 @@
 #verb
 - **To [[c/_complain|complain]] [[p/_peevishly|peevishly]].**
 - **To talk [[l/_loudly|loudly]] and [[p/_persistently|persistently]].**
-- **To repeat on and on, usually [[l/_loudly|loudly]] or in [[c/_complaint|complaint]].**
+- **To [[r/_repeat|repeat]] on and on, usually [[l/_loudly|loudly]] or in [[c/_complaint|complaint]].**
 - **To [[m/_make|make]] an [[o/_outcry|outcry]]; to [[c/_clamor|clamor]].**
 ---
 ### Synonyms

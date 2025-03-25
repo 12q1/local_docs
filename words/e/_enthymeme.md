@@ -2,6 +2,6 @@
 ---
 #noun
 - **A by and [[l/_large|large]] statement, a [[m/_maxim|maxim]], a [[l/_less|less]]-than-100% [[a/_argument|argument]].**
-- **A syllogism with a required but unstated [[a/_assumption|assumption]].**
+- **A [[s/_syllogism|syllogism]] with a [[r/_required|required]] but unstated [[a/_assumption|assumption]].**
 ---
 ---

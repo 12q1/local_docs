@@ -2,11 +2,11 @@
 ---
 #adverb
 - **[[a/_also|Also]]; in [[a/_addition|addition]].**
-- **Used to [[e/_emphasize|emphasize]] an [[a/_additional|additional]] [[p/_point|point]], [[e/_especially|especially]] an [[i/_important|important]] or stronger reason; [[m/_moreover|Moreover]]; [[f/_furthermore|furthermore]].**
+- **Used to [[e/_emphasize|emphasize]] an [[a/_additional|additional]] [[p/_point|point]], [[e/_especially|especially]] an [[i/_important|important]] or stronger [[r/_reason|reason]]; [[m/_moreover|Moreover]]; [[f/_furthermore|furthermore]].**
 	- _Example: I don't feel like going out tonight. Besides, I have to work tomorrow morning anyway._
 - **[[o/_otherwise|Otherwise]]; [[e/_else|else]].**
 	- _Example: I have been to Spain but nowhere besides._
-- **On [[o/_one|one]] side.**
+- **On [[o/_one|one]] [[s/_side|side]].**
 ---
 #preposition
 - **In [[a/_addition|addition]], in [[a/_addition|addition]] to.**

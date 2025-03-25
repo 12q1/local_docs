@@ -6,6 +6,6 @@
 - **A toll [[p/_paid|paid]] for [[p/_passing|passing]] the [[l/_locks|locks]] of a [[c/_canal|canal]].**
 - **The [[a/_amount|amount]] of [[e/_elevation|elevation]] and [[d/_descent|descent]] [[m/_made|made]] by the [[l/_locks|locks]] of a [[c/_canal|canal]].**
 	- _Example: The entire lockage will be about fifty feet. — De Witt Clinton._
-- **A situation where things [[l/_lock|lock]] together.**
+- **A [[s/_situation|situation]] where things [[l/_lock|lock]] together.**
 ---
 ---

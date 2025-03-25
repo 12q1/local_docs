@@ -1,6 +1,6 @@
 # Escapists
 ---
 #noun
-- **Someone who wants to [[e/_escape|escape]]; [[e/_especially|especially]] from reality**
+- **[[s/_someone|Someone]] who wants to [[e/_escape|escape]]; [[e/_especially|especially]] from [[r/_reality|reality]]**
 ---
 ---

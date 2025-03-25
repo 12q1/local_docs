@@ -1,6 +1,6 @@
 # Derequisition
 ---
 #verb
-- **To return or release (something previously requisitioned).**
+- **To [[r/_return|return]] or [[r/_release|release]] ([[s/_something|something]] [[p/_previously|previously]] [[r/_requisitioned|requisitioned]]).**
 ---
 ---

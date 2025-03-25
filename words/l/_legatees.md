@@ -1,7 +1,7 @@
 # Legatees
 ---
 #noun
-- **[[o/_one|One]] who receives a [[l/_legacy|legacy]].**
+- **[[o/_one|One]] who [[r/_receives|receives]] a [[l/_legacy|legacy]].**
 ---
 ### Synonyms
 - [[d/_devisee|devisee]]

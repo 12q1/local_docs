@@ -1,7 +1,7 @@
 # Belittled
 ---
 #verb
-- **To [[k/_knowingly|knowingly]] say that something is smaller or [[l/_less|less]] [[i/_important|important]] than it [[a/_actually|actually]] is, [[e/_especially|especially]] as a way of showing [[c/_contempt|contempt]] or [[d/_deprecation|deprecation]].**
+- **To [[k/_knowingly|knowingly]] [[s/_say|say]] that [[s/_something|something]] is [[s/_smaller|smaller]] or [[l/_less|less]] [[i/_important|important]] than it [[a/_actually|actually]] is, [[e/_especially|especially]] as a way of [[s/_showing|showing]] [[c/_contempt|contempt]] or [[d/_deprecation|deprecation]].**
 	- _Example: Don't belittle your colleagues._
 ---
 ### Synonyms

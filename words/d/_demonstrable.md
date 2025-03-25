@@ -1,7 +1,7 @@
 # Demonstrable
 ---
 #noun
-- **Something that [[c/_can|can]] be [[d/_demonstrated|demonstrated]].**
+- **[[s/_something|Something]] that [[c/_can|can]] be [[d/_demonstrated|demonstrated]].**
 ---
 #adjective
 - **[[a/_able|Able]] to be [[d/_demonstrated|demonstrated]].**

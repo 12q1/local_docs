@@ -1,10 +1,10 @@
 # Fucoid
 ---
 #noun
-- **A [[f/_fucoid|fucoid]] seaweed.**
+- **A [[f/_fucoid|fucoid]] [[s/_seaweed|seaweed]].**
 ---
 #adjective
-- **Resembling or relating to seaweeds of the [[g/_genus|genus]] [[f/_fucus|Fucus]].**
-- **Of sandstone: [[b/_bearing|bearing]] seaweed-[[l/_like|like]] [[m/_markings|markings]].**
+- **[[r/_resembling|Resembling]] or [[r/_relating|relating]] to [[s/_seaweeds|seaweeds]] of the [[g/_genus|genus]] [[f/_fucus|Fucus]].**
+- **Of [[s/_sandstone|sandstone]]: [[b/_bearing|bearing]] [[s/_seaweed|seaweed]]-[[l/_like|like]] [[m/_markings|markings]].**
 ---
 ---

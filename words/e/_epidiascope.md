@@ -1,6 +1,6 @@
 # Epidiascope
 ---
 #noun
-- **A [[m/_machine|machine]] that projects [[i/_images|images]] [[o/_onto|onto]] a screen.**
+- **A [[m/_machine|machine]] that [[p/_projects|projects]] [[i/_images|images]] [[o/_onto|onto]] a [[s/_screen|screen]].**
 ---
 ---

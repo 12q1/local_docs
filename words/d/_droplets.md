@@ -1,6 +1,6 @@
 # Droplets
 ---
 #noun
-- **A very small [[d/_drop|drop]].**
+- **A very [[s/_small|small]] [[d/_drop|drop]].**
 ---
 ---

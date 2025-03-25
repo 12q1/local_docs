@@ -6,7 +6,7 @@
 - **To [[m/_make|make]] [[c/_crazy|crazy]] or [[i/_insane|insane]]; to [[d/_drive|drive]] to [[d/_distraction|distraction]].**
 ---
 #adjective
-- **[[h/_having|Having]] [[o/_one|one]]'s [[a/_attention|attention]] [[d/_diverted|diverted]]; [[p/_preoccupied|preoccupied]]**
+- **[[h/_having|Having]] [[o/_one|one]]'[[s/_s|s]] [[a/_attention|attention]] [[d/_diverted|diverted]]; [[p/_preoccupied|preoccupied]]**
 - **[[d/_distraught|Distraught]]**
 ---
 ---

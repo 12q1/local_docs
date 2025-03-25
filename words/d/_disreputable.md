@@ -1,9 +1,9 @@
 # Disreputable
 ---
 #noun
-- **A [[p/_person|person]] who is not reputable.**
+- **A [[p/_person|person]] who is not [[r/_reputable|reputable]].**
 ---
 #adjective
-- **Not respectable, [[l/_lacking|lacking]] repute; [[d/_discreditable|discreditable]].**
+- **Not [[r/_respectable|respectable]], [[l/_lacking|lacking]] [[r/_repute|repute]]; [[d/_discreditable|discreditable]].**
 ---
 ---

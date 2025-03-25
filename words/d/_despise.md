@@ -1,7 +1,7 @@
 # Despise
 ---
 #verb
-- **To regard with [[c/_contempt|contempt]] or scorn.**
+- **To [[r/_regard|regard]] with [[c/_contempt|contempt]] or [[s/_scorn|scorn]].**
 - **To [[d/_disregard|disregard]] or [[i/_ignore|ignore]].**
 ---
 ### Synonyms

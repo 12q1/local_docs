@@ -1,6 +1,6 @@
 # Lentando
 ---
 #adjective
-- **Slackening; [[b/_becoming|becoming]] slower (used as a [[m/_musical|musical]] [[d/_direction|direction]]).**
+- **[[s/_slackening|Slackening]]; [[b/_becoming|becoming]] [[s/_slower|slower]] (used as a [[m/_musical|musical]] [[d/_direction|direction]]).**
 ---
 ---

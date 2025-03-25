@@ -1,6 +1,6 @@
 # Intruders
 ---
 #noun
-- **Someone who [[i/_intrudes|intrudes]].**
+- **[[s/_someone|Someone]] who [[i/_intrudes|intrudes]].**
 ---
 ---

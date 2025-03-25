@@ -6,10 +6,10 @@
 ### Antonyms
 - [[b/_baddie|baddie]]
 #noun
-- **A small [[a/_amount|amount]] of something [[g/_good|good]] to [[e/_eat|eat]].**
-- **[[a/_any|Any]] small, usually [[f/_free|free]], [[i/_item|item]].**
-- **Pudding [[m/_made|made]] by [[b/_boiling|boiling]] [[b/_bread|bread]] in [[m/_milk|milk]] with sugar and spices.**
-- **[[g/_goodwife|Goodwife]], a 17th-[[c/_century|century]] puritan [[h/_honorific|honorific]].**
+- **A [[s/_small|small]] [[a/_amount|amount]] of [[s/_something|something]] [[g/_good|good]] to [[e/_eat|eat]].**
+- **[[a/_any|Any]] [[s/_small|small]], usually [[f/_free|free]], [[i/_item|item]].**
+- **[[p/_pudding|Pudding]] [[m/_made|made]] by [[b/_boiling|boiling]] [[b/_bread|bread]] in [[m/_milk|milk]] with sugar and spices.**
+- **[[g/_goodwife|Goodwife]], a 17th-[[c/_century|century]] [[p/_puritan|puritan]] [[h/_honorific|honorific]].**
 - **An [[a/_american|American]] [[f/_fish|fish]], the [[l/_lafayette|lafayette]] or spot.**
 ---
 #adjective

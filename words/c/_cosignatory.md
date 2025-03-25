@@ -1,9 +1,9 @@
 # Cosignatory
 ---
 #noun
-- **[[a/_any|Any]] of several [[p/_people|people]] who sign a [[d/_document|document]] together ([[e/_especially|especially]] a treaty)**
+- **[[a/_any|Any]] of [[s/_several|several]] [[p/_people|people]] who [[s/_sign|sign]] a [[d/_document|document]] together ([[e/_especially|especially]] a treaty)**
 ---
 #adjective
-- **Signed or signing [[j/_jointly|jointly]]**
+- **[[s/_signed|Signed]] or [[s/_signing|signing]] [[j/_jointly|jointly]]**
 ---
 ---

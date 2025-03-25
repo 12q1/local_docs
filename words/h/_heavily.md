@@ -9,7 +9,7 @@
 	- _Example: He drank heavily._
 - **In a [[m/_manner|manner]] [[d/_designed|designed]] for [[h/_heavy|heavy]] [[d/_duty|duty]].**
 	- _Example: heavily armed soldiers;   heavily armoured tanks;   heavily reinforced walls_
-- **So as to be thick or [[h/_heavy|heavy]].**
+- **[[s/_so|So]] as to be thick or [[h/_heavy|heavy]].**
 	- _Example: heavily built young men;   his heavily muscled arms_
 - **In a [[l/_laboured|laboured]] [[m/_manner|manner]].**
 	- _Example: he breathed heavily_

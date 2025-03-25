@@ -8,6 +8,6 @@
 #noun
 - **A [[c/_costume|costume]] or [[o/_outfit|outfit]], [[e/_especially|especially]] [[o/_one|one]] that is [[o/_ostentatious|ostentatious]] or [[o/_otherwise|otherwise]] unusual.**
 - **A [[f/_fight|fight]] or [[a/_altercation|altercation]].**
-- **[[l/_layout|Layout]] and production style, as of a [[m/_magazine|magazine]].**
+- **[[l/_layout|Layout]] and [[p/_production|production]] style, as of a [[m/_magazine|magazine]].**
 ---
 ---

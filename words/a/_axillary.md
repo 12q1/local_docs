@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to the [[a/_axilla|axilla]] or [[a/_armpit|armpit]].**
-- **Situated in, or rising from, an [[a/_axil|axil]]; relating to an [[a/_axil|axil]].**
+- **[[s/_situated|Situated]] in, or [[r/_rising|rising]] from, an [[a/_axil|axil]]; [[r/_relating|relating]] to an [[a/_axil|axil]].**
 ---
 ---

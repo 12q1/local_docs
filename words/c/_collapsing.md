@@ -5,9 +5,9 @@
 - **To [[c/_cease|cease]] to [[f/_function|function]] [[d/_due|due]] to a sudden [[b/_breakdown|breakdown]]; to [[f/_fail|fail]] suddenly and [[c/_completely|completely]].**
 	- _Example: Pyramid schemes tend to generate profits for a while and then collapse._
 - **To [[f/_fold|fold]] [[c/_compactly|compactly]].**
-- **To [[h/_hide|hide]] [[a/_additional|additional]] [[d/_directory|directory]] ([[f/_folder|folder]]) [[l/_levels|levels]] [[b/_below|below]] the selected [[d/_directory|directory]] ([[f/_folder|folder]]) [[l/_levels|levels]]. When a [[f/_folder|folder]] [[c/_contains|contains]] [[n/_no|no]] [[a/_additional|additional]] [[f/_folders|folders]], a [[m/_minus|minus]] sign (-) [[a/_appears|appears]] [[n/_next|next]] to the [[f/_folder|folder]].**
-- **For several [[b/_batsmen|batsmen]] to [[g/_get|get]] [[o/_out|out]] in quick succession**
-- **To [[c/_cause|cause]] something to [[c/_collapse|collapse]].**
+- **To [[h/_hide|hide]] [[a/_additional|additional]] [[d/_directory|directory]] ([[f/_folder|folder]]) [[l/_levels|levels]] [[b/_below|below]] the [[s/_selected|selected]] [[d/_directory|directory]] ([[f/_folder|folder]]) [[l/_levels|levels]]. When a [[f/_folder|folder]] [[c/_contains|contains]] [[n/_no|no]] [[a/_additional|additional]] [[f/_folders|folders]], a [[m/_minus|minus]] [[s/_sign|sign]] (-) [[a/_appears|appears]] [[n/_next|next]] to the [[f/_folder|folder]].**
+- **For [[s/_several|several]] [[b/_batsmen|batsmen]] to [[g/_get|get]] [[o/_out|out]] in [[q/_quick|quick]] succession**
+- **To [[c/_cause|cause]] [[s/_something|something]] to [[c/_collapse|collapse]].**
 	- _Example: Hurry up and collapse the tent so we can get moving._
 - **To [[p/_pass|pass]] [[o/_out|out]] and [[f/_fall|fall]] to the [[f/_floor|floor]] or [[g/_ground|ground]], as from [[e/_exhaustion|exhaustion]] or [[o/_other|other]] [[i/_illness|illness]]; to [[f/_faint|faint]].**
 	- _Example: The exhausted singer collapsed on stage and had to be taken to the hospital._

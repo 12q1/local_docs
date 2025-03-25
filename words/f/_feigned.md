@@ -1,7 +1,7 @@
 # Feigned
 ---
 #verb
-- **To [[m/_make|make]] a [[f/_false|false]] show or [[p/_pretence|pretence]] of; to [[c/_counterfeit|counterfeit]] or simulate.**
+- **To [[m/_make|make]] a [[f/_false|false]] [[s/_show|show]] or [[p/_pretence|pretence]] of; to [[c/_counterfeit|counterfeit]] or [[s/_simulate|simulate]].**
 	- _Example: The pupil feigned sickness on the day of his exam._
 - **To [[i/_imagine|imagine]]; to [[i/_invent|invent]]; to [[p/_pretend|pretend]].**
 	- _Example: He feigned that he had gone home at the appointed time._
@@ -12,6 +12,6 @@
 ### Synonyms
 - [[f/_front|front]]
 #adjective
-- **[[b/_being|Being]] a [[p/_pretense|pretense]], a [[c/_counterfeit|counterfeit]], or something [[f/_false|false]] or [[f/_fraudulent|fraudulent]].**
+- **[[b/_being|Being]] a [[p/_pretense|pretense]], a [[c/_counterfeit|counterfeit]], or [[s/_something|something]] [[f/_false|false]] or [[f/_fraudulent|fraudulent]].**
 ---
 ---

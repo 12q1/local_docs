@@ -1,13 +1,13 @@
 # Crypto
 ---
 #noun
-- **A secret supporter or [[f/_follower|follower]].**
+- **A [[s/_secret|secret]] supporter or [[f/_follower|follower]].**
 - **[[c/_cryptography|Cryptography]].**
 - **Cryptocurrency.**
 - **[[c/_cryptococcus|Cryptococcus]].**
 - **Cryptosporidiosis.**
 ---
 #adjective
-- **Secret or [[c/_covert|covert]]**
+- **[[s/_secret|Secret]] or [[c/_covert|covert]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Crosshairs
 ---
 #noun
-- **Reticle.**
+- **[[r/_reticle|Reticle]].**
 ---
 ---

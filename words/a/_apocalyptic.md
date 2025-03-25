@@ -6,7 +6,7 @@
 ### Synonyms
 - [[a/_apocalypticist|apocalypticist]], [[d/_doomsayer|doomsayer]]
 #adjective
-- **Of or relating to an [[a/_apocalypse|apocalypse]]:**
+- **Of or [[r/_relating|relating]] to an [[a/_apocalypse|apocalypse]]:**
 - **[[p/_portending|Portending]] a [[f/_future|future]] [[a/_apocalypse|apocalypse]] ([[d/_disaster|disaster]], [[d/_devastation|devastation]], or [[d/_doom|doom]]).**
 - **Eggcorn of [[a/_apoplectic|apoplectic]].**
 	- _Example: He was apocalyptically furious._

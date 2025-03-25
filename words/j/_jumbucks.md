@@ -1,6 +1,6 @@
 # Jumbucks
 ---
 #noun
-- **A sheep.**
+- **A [[s/_sheep|sheep]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Chortle
 ---
 #noun
-- **A [[j/_joyful|joyful]], somewhat [[m/_muffled|muffled]] [[l/_laugh|laugh]], rather [[l/_like|like]] a snorting [[c/_chuckle|chuckle]].**
+- **A [[j/_joyful|joyful]], [[s/_somewhat|somewhat]] [[m/_muffled|muffled]] [[l/_laugh|laugh]], [[r/_rather|rather]] [[l/_like|like]] a [[s/_snorting|snorting]] [[c/_chuckle|chuckle]].**
 	- _Example: He frequently interrupted himself with chortles while he told us his favorite joke._
-- **A similar sounding vocalisation of various [[b/_birds|birds]].**
+- **A [[s/_similar|similar]] [[s/_sounding|sounding]] vocalisation of various [[b/_birds|birds]].**
 ---
 ### Synonyms
 - [[c/_chuckle|chuckle]]

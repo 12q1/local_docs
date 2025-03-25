@@ -1,8 +1,8 @@
 # Gusts
 ---
 #noun
-- **A strong, [[a/_abrupt|abrupt]] rush of wind.**
-- **(by [[e/_extension|extension]]) [[a/_any|Any]] rush or [[o/_outburst|outburst]] (of water, [[e/_emotion|emotion]], [[e/_etc|etc]].).**
+- **A strong, [[a/_abrupt|abrupt]] [[r/_rush|rush]] of wind.**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[r/_rush|rush]] or [[o/_outburst|outburst]] (of water, [[e/_emotion|emotion]], [[e/_etc|etc]].).**
 ---
 ### Synonyms
 - [[w/_windflaw|windflaw]]
@@ -11,6 +11,6 @@
 ---
 #verb
 - **To taste.**
-- **To [[h/_have|have]] a relish for.**
+- **To [[h/_have|have]] a [[r/_relish|relish]] for.**
 ---
 ---

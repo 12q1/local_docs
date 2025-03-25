@@ -4,7 +4,7 @@
 - **A [[h/_humped|humped]] [[b/_back|back]] ([[d/_deformity|deformity]] in [[h/_humans|humans]] [[c/_caused|caused]] by [[a/_abnormal|abnormal]] [[c/_curvature|curvature]] of the upper spine).**
 - **A [[p/_person|person]] with a [[h/_humpback|humpback]]; a [[p/_person|person]] who suffers from [[k/_kyphosis|kyphosis]].**
 - **A [[h/_humpback|humpback]] whale.**
-- **A [[h/_humpback|humpback]] salmon.**
+- **A [[h/_humpback|humpback]] [[s/_salmon|salmon]].**
 ---
 ### Synonyms
 - [[c/_crookback|crookback]], [[h/_hunchback|hunchback]]

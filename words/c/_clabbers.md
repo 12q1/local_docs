@@ -1,6 +1,6 @@
 # Clabbers
 ---
 #verb
-- **To sour or [[c/_curdle|curdle]].**
+- **To [[s/_sour|sour]] or [[c/_curdle|curdle]].**
 ---
 ---

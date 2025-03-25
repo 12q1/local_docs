@@ -1,7 +1,7 @@
 # Caking
 ---
 #verb
-- **[[c/_coat|Coat]] (something) with a [[c/_crust|crust]] of solid [[m/_material|material]].**
+- **[[c/_coat|Coat]] ([[s/_something|something]]) with a [[c/_crust|crust]] of [[s/_solid|solid]] [[m/_material|material]].**
 	- _Example: His shoes are caked with mud._
 - **To [[f/_form|form]] [[i/_into|into]] a [[c/_cake|cake]], or [[m/_mass|mass]].**
 ---

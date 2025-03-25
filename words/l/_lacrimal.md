@@ -5,6 +5,6 @@
 - **The [[l/_lacrimal|lacrimal]] [[b/_bone|bone]].**
 ---
 #adjective
-- **Of or relating to tears or the tear-secreting [[o/_organs|organs]].**
+- **Of or [[r/_relating|relating]] to tears or the tear-[[s/_secreting|secreting]] [[o/_organs|organs]].**
 ---
 ---

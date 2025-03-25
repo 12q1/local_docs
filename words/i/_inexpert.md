@@ -4,7 +4,7 @@
 - **An [[i/_inept|inept]] or unskilled [[p/_person|person]].**
 ---
 #adjective
-- **[[i/_inept|Inept]] or unskilled; not of [[e/_expert|expert]] [[a/_ability|ability]] or quality.**
+- **[[i/_inept|Inept]] or unskilled; not of [[e/_expert|expert]] [[a/_ability|ability]] or [[q/_quality|quality]].**
 	- _Example: My inexpert attempts at repairing the hole with duct tape only made the problem worse._
 ---
 ### Synonyms

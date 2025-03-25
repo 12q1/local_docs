@@ -1,7 +1,7 @@
 # Flirty
 ---
 #adjective
-- **[[f/_flirting|Flirting]], or seeming to [[f/_flirt|flirt]].**
+- **[[f/_flirting|Flirting]], or [[s/_seeming|seeming]] to [[f/_flirt|flirt]].**
 ---
 ### Synonyms
 - [[f/_flirtatious|flirtatious]]

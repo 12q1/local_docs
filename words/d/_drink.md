@@ -8,8 +8,8 @@
 - **To [[c/_consume|consume]] [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]].**
 	- _Example: Everyone who is drinking is drinking, but not everyone who is drinking is drinking._
 - **To take in (a [[l/_liquid|liquid]]), in [[a/_any|any]] [[m/_manner|manner]]; to suck up; to [[a/_absorb|absorb]]; to [[i/_imbibe|imbibe]].**
-- **To take in; to receive within [[o/_one|one]], through the senses; to [[i/_inhale|inhale]]; to [[h/_hear|hear]]; to see.**
-- **To smoke, as tobacco.**
+- **To take in; to [[r/_receive|receive]] within [[o/_one|one]], through the [[s/_senses|senses]]; to [[i/_inhale|inhale]]; to [[h/_hear|hear]]; to [[s/_see|see]].**
+- **To [[s/_smoke|smoke]], as tobacco.**
 ---
 ### Synonyms
 - [[g/_gulp|gulp]], [[i/_imbibe|imbibe]], [[q/_quaff|quaff]], [[s/_sip|sip]], [[a/_alcohol|alcohol]]

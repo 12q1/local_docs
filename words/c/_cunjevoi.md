@@ -1,7 +1,7 @@
 # Cunjevoi
 ---
 #noun
-- **A [[c/_coastal|coastal]] sea squirt, Pyura stolonifera, [[f/_found|found]] in some [[p/_parts|parts]] of [[a/_australia|Australia]] and South [[a/_africa|Africa]].**
+- **A [[c/_coastal|coastal]] [[s/_sea|sea]] squirt, Pyura stolonifera, [[f/_found|found]] in [[s/_some|some]] [[p/_parts|parts]] of [[a/_australia|Australia]] and [[s/_south|South]] [[a/_africa|Africa]].**
 ---
 ### Synonyms
 - 

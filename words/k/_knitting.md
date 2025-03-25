@@ -1,7 +1,7 @@
 # Knitting
 ---
 #verb
-- **To turn thread or [[y/_yarn|yarn]] [[i/_into|into]] a [[p/_piece|piece]] of [[f/_fabric|fabric]] by [[f/_forming|forming]] [[l/_loops|loops]] that are pulled through [[e/_each|each]] [[o/_other|other]]. This [[c/_can|can]] be [[d/_done|done]] by [[h/_hand|hand]] with [[n/_needles|needles]] or by [[m/_machine|machine]].**
+- **To turn thread or [[y/_yarn|yarn]] [[i/_into|into]] a [[p/_piece|piece]] of [[f/_fabric|fabric]] by [[f/_forming|forming]] [[l/_loops|loops]] that are [[p/_pulled|pulled]] through [[e/_each|each]] [[o/_other|other]]. This [[c/_can|can]] be [[d/_done|done]] by [[h/_hand|hand]] with [[n/_needles|needles]] or by [[m/_machine|machine]].**
 	- _Example: The first generation knitted to order; the second still knits for its own use; the next leaves knitting to industrial manufacturers._
 - **To [[j/_join|join]] [[c/_closely|closely]] and [[f/_firmly|firmly]] together.**
 	- _Example: The fight for survival knitted the men closely together._
@@ -16,7 +16,7 @@
 - **To [[d/_draw|draw]] together; to [[c/_contract|contract]] [[i/_into|into]] wrinkles.**
 ---
 #noun
-- **The [[a/_action|action]] of the verb to [[k/_knit|knit]]; the process of producing [[k/_knitted|knitted]] [[m/_material|material]].**
+- **The [[a/_action|action]] of the verb to [[k/_knit|knit]]; the [[p/_process|process]] of [[p/_producing|producing]] [[k/_knitted|knitted]] [[m/_material|material]].**
 	- _Example: I find knitting very relaxing._
 - **[[m/_material|Material]] that [[h/_has|has]] [[b/_been|been]], or is [[b/_being|being]] [[k/_knitted|knitted]].**
 	- _Example: She put down her knitting and went to answer the phone._

@@ -1,7 +1,7 @@
 # Bioplastic
 ---
 #noun
-- **[[a/_any|Any]] [[f/_form|form]] of synthetic [[p/_polymer|polymer]], similar to [[n/_normal|normal]] [[p/_plastic|plastic]], [[m/_made|made]] from renewable [[b/_biomass|biomass]] sources such as [[p/_plant|plant]] sugars, starches, or [[o/_oils|oils]], rather than from [[p/_petroleum|petroleum]].**
+- **[[a/_any|Any]] [[f/_form|form]] of [[s/_synthetic|synthetic]] [[p/_polymer|polymer]], [[s/_similar|similar]] to [[n/_normal|normal]] [[p/_plastic|plastic]], [[m/_made|made]] from [[r/_renewable|renewable]] [[b/_biomass|biomass]] [[s/_sources|sources]] such as [[p/_plant|plant]] sugars, starches, or [[o/_oils|oils]], [[r/_rather|rather]] than from [[p/_petroleum|petroleum]].**
 ---
 ### Synonyms
 - 

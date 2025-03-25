@@ -5,6 +5,6 @@
 ---
 #verb
 - **To taste.**
-- **To [[h/_have|have]] a relish for.**
+- **To [[h/_have|have]] a [[r/_relish|relish]] for.**
 ---
 ---

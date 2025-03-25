@@ -1,7 +1,7 @@
 # Inexpensive
 ---
 #adjective
-- **[[l/_low|Low]] in price**
+- **[[l/_low|Low]] in [[p/_price|price]]**
 ---
 ### Synonyms
 - [[c/_cheap|cheap]], [[e/_economical|economical]]

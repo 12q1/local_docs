@@ -1,9 +1,9 @@
 # Likes
 ---
 #noun
-- **(usually in the [[p/_plural|plural]]) Something that a [[p/_person|person]] [[l/_likes|likes]] ([[p/_prefers|prefers]]).**
+- **(usually in the [[p/_plural|plural]]) [[s/_something|Something]] that a [[p/_person|person]] [[l/_likes|likes]] ([[p/_prefers|prefers]]).**
 	- _Example: Tell me your likes and dislikes._
-- **An [[i/_individual|individual]] vote showing support for, or [[a/_approval|approval]] of, something [[p/_posted|posted]] on the [[i/_internet|Internet]].**
+- **An [[i/_individual|individual]] vote [[s/_showing|showing]] support for, or [[a/_approval|approval]] of, [[s/_something|something]] [[p/_posted|posted]] on the [[i/_internet|Internet]].**
 ---
 ### Synonyms
 - [[f/_favorite|favorite]], [[p/_preference|preference]]
@@ -13,18 +13,18 @@
 - **To [[e/_enjoy|enjoy]], be [[p/_pleased|pleased]] by; [[f/_favor|favor]]; be in [[f/_favor|favor]] of.**
 	- _Example: I like hamburgers._
 - **To [[p/_please|please]].**
-- **To [[d/_derive|derive]] [[p/_pleasure|pleasure]] of, by or with someone or something.**
-- **To [[p/_prefer|prefer]] and [[m/_maintain|maintain]] (an [[a/_action|action]]) as a regular [[h/_habit|habit]] or [[a/_activity|activity]].**
+- **To [[d/_derive|derive]] [[p/_pleasure|pleasure]] of, by or with [[s/_someone|someone]] or [[s/_something|something]].**
+- **To [[p/_prefer|prefer]] and [[m/_maintain|maintain]] (an [[a/_action|action]]) as a [[r/_regular|regular]] [[h/_habit|habit]] or [[a/_activity|activity]].**
 	- _Example: I like to go to the dentist every six months._
-- **To [[h/_have|have]] an [[a/_appearance|appearance]] or [[e/_expression|expression]]; to [[l/_look|look]]; to seem to be (in a specified [[c/_condition|condition]]).**
+- **To [[h/_have|have]] an [[a/_appearance|appearance]] or [[e/_expression|expression]]; to [[l/_look|look]]; to [[s/_seem|seem]] to be (in a specified [[c/_condition|condition]]).**
 - **To [[c/_come|come]] [[n/_near|near]]; to [[a/_avoid|avoid]] with [[d/_difficulty|difficulty]]; to [[e/_escape|escape]] [[n/_narrowly|narrowly]].**
 	- _Example: He liked to have been too late._
-- **To [[f/_find|find]] [[a/_attractive|attractive]]; to [[p/_prefer|prefer]] the [[c/_company|company]] of; to [[h/_have|have]] [[m/_mild|mild]] romantic [[f/_feelings|feelings]] for.**
+- **To [[f/_find|find]] [[a/_attractive|attractive]]; to [[p/_prefer|prefer]] the [[c/_company|company]] of; to [[h/_have|have]] [[m/_mild|mild]] [[r/_romantic|romantic]] [[f/_feelings|feelings]] for.**
 	- _Example: I really like Sandra but don't know how to tell her._
 - **To [[l/_liken|liken]]; to [[c/_compare|compare]].**
-- **To show support for, or [[a/_approval|approval]] of, something [[p/_posted|posted]] on the [[i/_internet|Internet]] by [[m/_marking|marking]] it with a vote.**
+- **To [[s/_show|show]] support for, or [[a/_approval|approval]] of, [[s/_something|something]] [[p/_posted|posted]] on the [[i/_internet|Internet]] by [[m/_marking|marking]] it with a vote.**
 	- _Example: I can't stand Bloggs' tomato ketchup, but I liked it on Facebook so I could enter a competition._
-- **(with 'would' and in [[c/_certain|certain]] [[o/_other|other]] [[p/_phrases|phrases]]) To want, [[d/_desire|desire]]. See [[a/_also|also]] would [[l/_like|like]].**
+- **(with 'would' and in [[c/_certain|certain]] [[o/_other|other]] [[p/_phrases|phrases]]) To want, [[d/_desire|desire]]. [[s/_see|See]] [[a/_also|also]] would [[l/_like|like]].**
 	- _Example: We could go to the museum if you like._
 ---
 ### Synonyms
@@ -32,9 +32,9 @@
 ### Antonyms
 - [[d/_dislike|dislike]], [[h/_hate|hate]], [[m/_mislike|mislike]], [[d/_dislike|dislike]], [[h/_hate|hate]], [[m/_mislike|mislike]], [[u/_unlike|unlike]]
 #noun
-- **(sometimes as the [[l/_likes|likes]] of') Someone similar to a [[g/_given|given]] [[p/_person|person]], or something similar to a [[g/_given|given]] [[o/_object|object]]; a [[c/_comparative|comparative]]; a type; a sort.**
+- **([[s/_sometimes|sometimes]] as the [[l/_likes|likes]] of') [[s/_someone|Someone]] [[s/_similar|similar]] to a [[g/_given|given]] [[p/_person|person]], or [[s/_something|something]] [[s/_similar|similar]] to a [[g/_given|given]] [[o/_object|object]]; a [[c/_comparative|comparative]]; a type; a [[s/_sort|sort]].**
 	- _Example: It was something the likes of which I had never seen before._
-- **The stroke that [[e/_equalizes|equalizes]] the [[n/_number|number]] of strokes [[p/_played|played]] by the [[o/_opposing|opposing]] [[p/_player|player]] or side.**
+- **The stroke that [[e/_equalizes|equalizes]] the [[n/_number|number]] of strokes [[p/_played|played]] by the [[o/_opposing|opposing]] [[p/_player|player]] or [[s/_side|side]].**
 	- _Example: to play the like_
 ---
 ### Synonyms

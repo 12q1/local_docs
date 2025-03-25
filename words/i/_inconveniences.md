@@ -1,8 +1,8 @@
 # Inconveniences
 ---
 #noun
-- **The quality of [[b/_being|being]] [[i/_inconvenient|inconvenient]].**
-- **Something that is not [[c/_convenient|convenient]], something that [[b/_bothers|bothers]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[i/_inconvenient|inconvenient]].**
+- **[[s/_something|Something]] that is not [[c/_convenient|convenient]], [[s/_something|something]] that [[b/_bothers|bothers]].**
 ---
 ### Synonyms
 - [[a/_annoyance|annoyance]], [[n/_nuisance|nuisance]], [[t/_trouble|trouble]]

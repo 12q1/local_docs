@@ -10,6 +10,6 @@
 - **To [[d/_dislike|dislike]].**
 - **To be [[d/_distasteful|distasteful]]; to taste [[b/_bad|bad]]**
 - **To [[o/_offend|offend]]; to [[d/_disgust|disgust]]; to [[d/_displease|displease]].**
-- **To [[d/_deprive|deprive]] of taste or relish; to [[m/_make|make]] unsavory or [[d/_distasteful|distasteful]].**
+- **To [[d/_deprive|deprive]] of taste or [[r/_relish|relish]]; to [[m/_make|make]] unsavory or [[d/_distasteful|distasteful]].**
 ---
 ---

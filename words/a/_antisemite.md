@@ -1,6 +1,6 @@
 # Antisemite
 ---
 #noun
-- **Someone with [[a/_antisemitic|antisemitic]] views.**
+- **[[s/_someone|Someone]] with [[a/_antisemitic|antisemitic]] views.**
 ---
 ---

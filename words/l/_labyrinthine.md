@@ -1,7 +1,7 @@
 # Labyrinthine
 ---
 #adjective
-- **[[p/_physically|Physically]] resembling a [[l/_labyrinth|labyrinth]]; with the qualities of a [[m/_maze|maze]].**
+- **[[p/_physically|Physically]] [[r/_resembling|resembling]] a [[l/_labyrinth|labyrinth]]; with the [[q/_qualities|qualities]] of a [[m/_maze|maze]].**
 - **[[c/_convoluted|Convoluted]], [[b/_baffling|baffling]], [[c/_confusing|confusing]], [[p/_perplexing|perplexing]].**
 ---
 ### Synonyms

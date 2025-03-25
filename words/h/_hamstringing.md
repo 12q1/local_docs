@@ -7,6 +7,6 @@
 ### Synonyms
 - [[c/_cripple|cripple]], [[d/_disable|disable]], [[i/_incapacitate|incapacitate]], [[h/_hock|hock]], [[h/_hough|hough]], [[h/_hox|hox]]
 #noun
-- **An [[i/_instance|instance]] of somebody [[b/_being|being]] [[h/_hamstringed|hamstringed]].**
+- **An [[i/_instance|instance]] of [[s/_somebody|somebody]] [[b/_being|being]] [[h/_hamstringed|hamstringed]].**
 ---
 ---

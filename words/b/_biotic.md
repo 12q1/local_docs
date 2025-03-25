@@ -1,7 +1,7 @@
 # Biotic
 ---
 #adjective
-- **Of, [[p/_pertaining|pertaining]] to, or produced by [[l/_life|life]] or [[l/_living|living]] [[o/_organisms|organisms]]**
+- **Of, [[p/_pertaining|pertaining]] to, or [[p/_produced|produced]] by [[l/_life|life]] or [[l/_living|living]] [[o/_organisms|organisms]]**
 ---
 ### Synonyms
 - [[b/_biologic|biologic]], [[l/_living|living]], [[o/_organic|organic]]

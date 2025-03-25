@@ -1,6 +1,6 @@
 # Dissimilar
 ---
 #adjective
-- **Not similar; unalike; [[d/_different|different]]**
+- **Not [[s/_similar|similar]]; unalike; [[d/_different|different]]**
 ---
 ---

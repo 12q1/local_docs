@@ -1,6 +1,6 @@
 # Aoudad
 ---
 #noun
-- **The [[b/_barbary|Barbary]] sheep, Ammotragus lervia.**
+- **The [[b/_barbary|Barbary]] [[s/_sheep|sheep]], Ammotragus lervia.**
 ---
 ---

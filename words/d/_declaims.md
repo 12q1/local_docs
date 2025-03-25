@@ -1,9 +1,9 @@
 # Declaims
 ---
 #verb
-- **To [[o/_object|object]] to something vociferously; to rail [[a/_against|against]] in speech.**
-- **To recite, [[e/_e|e]].[[g/_g|g]]., [[p/_poetry|poetry]], in a theatrical way; to speak for rhetorical [[d/_display|display]]; to speak [[p/_pompously|pompously]], [[n/_noisily|noisily]], or theatrically; [[b/_bemouth|bemouth]]; to [[m/_make|make]] an [[e/_empty|empty]] speech; to rehearse trite [[a/_arguments|arguments]] in [[d/_debate|debate]]; to rant.**
-- **To speak rhetorically; to [[m/_make|make]] a [[f/_formal|formal]] speech or [[o/_oration|oration]]; specifically, to recite a speech, [[p/_poem|poem]], [[e/_etc|etc]]., in public as a rhetorical [[e/_exercise|exercise]]; to [[p/_practice|practice]] public speaking.**
+- **To [[o/_object|object]] to [[s/_something|something]] vociferously; to [[r/_rail|rail]] [[a/_against|against]] in speech.**
+- **To [[r/_recite|recite]], [[e/_e|e]].[[g/_g|g]]., [[p/_poetry|poetry]], in a theatrical way; to [[s/_speak|speak]] for [[r/_rhetorical|rhetorical]] [[d/_display|display]]; to [[s/_speak|speak]] [[p/_pompously|pompously]], [[n/_noisily|noisily]], or theatrically; [[b/_bemouth|bemouth]]; to [[m/_make|make]] an [[e/_empty|empty]] speech; to [[r/_rehearse|rehearse]] trite [[a/_arguments|arguments]] in [[d/_debate|debate]]; to [[r/_rant|rant]].**
+- **To [[s/_speak|speak]] [[r/_rhetorically|rhetorically]]; to [[m/_make|make]] a [[f/_formal|formal]] speech or [[o/_oration|oration]]; specifically, to [[r/_recite|recite]] a speech, [[p/_poem|poem]], [[e/_etc|etc]]., in [[p/_public|public]] as a [[r/_rhetorical|rhetorical]] [[e/_exercise|exercise]]; to [[p/_practice|practice]] [[p/_public|public]] [[s/_speaking|speaking]].**
 	- _Example: The students declaim twice a week._
 ---
 ---

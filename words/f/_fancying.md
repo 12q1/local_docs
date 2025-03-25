@@ -5,7 +5,7 @@
 	- _Example: I fancy your new car, but I like my old one just fine._
 - **Would [[l/_like|like]]**
 	- _Example: Do you fancy going to town this weekend?_
-- **To be sexually [[a/_attracted|attracted]] to.**
+- **To be [[s/_sexually|sexually]] [[a/_attracted|attracted]] to.**
 	- _Example: I fancy that girl over there._
 - **To [[i/_imagine|imagine]], suppose.**
 	- _Example: Fancy meeting you here!_
@@ -16,6 +16,6 @@
 ### Synonyms
 - [[i/_imagine|imagine]], [[l/_like|like]]
 #noun
-- **Something [[f/_fancied|fancied]] or [[i/_imagined|imagined]].**
+- **[[s/_something|Something]] [[f/_fancied|fancied]] or [[i/_imagined|imagined]].**
 ---
 ---

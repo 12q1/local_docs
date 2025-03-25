@@ -2,9 +2,9 @@
 ---
 #noun
 - **A [[h/_hemispherical|hemispherical]] [[p/_pit|pit]] [[c/_created|created]] by the [[i/_impact|impact]] of a [[m/_meteorite|meteorite]] or [[o/_other|other]] [[o/_object|object]].**
-- **The [[b/_basin|basin]]-[[l/_like|like]] [[o/_opening|opening]] or [[m/_mouth|mouth]] of a volcano, through which the [[c/_chief|chief]] [[e/_eruption|eruption]] [[c/_comes|comes]]; similarly, the [[m/_mouth|mouth]] of a [[g/_geyser|geyser]], [[a/_about|about]] which a [[c/_cone|cone]] of silica is [[o/_often|often]] [[b/_built|built]] up.**
+- **The [[b/_basin|basin]]-[[l/_like|like]] [[o/_opening|opening]] or [[m/_mouth|mouth]] of a volcano, through which the [[c/_chief|chief]] [[e/_eruption|eruption]] [[c/_comes|comes]]; [[s/_similarly|similarly]], the [[m/_mouth|mouth]] of a [[g/_geyser|geyser]], [[a/_about|about]] which a [[c/_cone|cone]] of [[s/_silica|silica]] is [[o/_often|often]] [[b/_built|built]] up.**
 - **The [[p/_pit|pit]] [[l/_left|left]] by the [[e/_explosion|explosion]] of a [[m/_mine|mine]] or [[b/_bomb|bomb]].**
-- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[l/_large|large]], roughly [[c/_circular|circular]] [[d/_depression|depression]] or [[h/_hole|hole]].**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[l/_large|large]], [[r/_roughly|roughly]] [[c/_circular|circular]] [[d/_depression|depression]] or [[h/_hole|hole]].**
 ---
 ### Synonyms
 - [[a/_astrobleme|astrobleme]]

@@ -1,7 +1,7 @@
 # Lends
 ---
 #verb
-- **To [[a/_allow|allow]] to be used by someone temporarily, on [[c/_condition|condition]] that it or [[i/_its|its]] [[e/_equivalent|equivalent]] will be returned.**
+- **To [[a/_allow|allow]] to be used by [[s/_someone|someone]] temporarily, on [[c/_condition|condition]] that it or [[i/_its|its]] [[e/_equivalent|equivalent]] will be [[r/_returned|returned]].**
 	- _Example: I lent her 10 euros to pay for the train tickets, and she paid me back the next day._
 - **To [[m/_make|make]] a [[l/_loan|loan]].**
 - **To be suitable or [[a/_applicable|applicable]], to [[f/_fit|fit]].**

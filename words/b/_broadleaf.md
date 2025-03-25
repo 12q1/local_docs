@@ -7,7 +7,7 @@
 ### Synonyms
 - 
 #adjective
-- **[[p/_pertaining|Pertaining]] to trees with relatively [[b/_broad|broad]], [[f/_flat|flat]] [[l/_leaves|leaves]] as [[o/_opposed|opposed]] to [[n/_needles|needles]], or woodlands [[m/_made|made]] up of such trees.**
+- **[[p/_pertaining|Pertaining]] to trees with [[r/_relatively|relatively]] [[b/_broad|broad]], [[f/_flat|flat]] [[l/_leaves|leaves]] as [[o/_opposed|opposed]] to [[n/_needles|needles]], or woodlands [[m/_made|made]] up of such trees.**
 - **Used in the [[n/_name|name]] of a [[p/_plant|plant]] or tree: [[h/_having|having]] [[e/_especially|especially]] [[b/_broad|broad]] [[l/_leaves|leaves]].**
 ---
 ### Synonyms

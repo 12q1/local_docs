@@ -1,7 +1,7 @@
 # Irremissible
 ---
 #adjective
-- **Not remissible.**
+- **Not [[r/_remissible|remissible]].**
 ---
 ### Synonyms
 - [[u/_unforgivable|unforgivable]], [[u/_unpardonable|unpardonable]]

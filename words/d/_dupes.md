@@ -8,7 +8,7 @@
 ---
 #noun
 - **A [[d/_duplicate|duplicate]] of a [[p/_photographic|photographic]] [[i/_image|image]].**
-- **(restaurant [[i/_industry|industry]]) A [[d/_duplicate|duplicate]] of an [[o/_order|order]] receipt printed for [[k/_kitchen|kitchen]] staff.**
+- **([[r/_restaurant|restaurant]] [[i/_industry|industry]]) A [[d/_duplicate|duplicate]] of an [[o/_order|order]] [[r/_receipt|receipt]] [[p/_printed|printed]] for [[k/_kitchen|kitchen]] staff.**
 - **A [[d/_duplicate|duplicate]].**
 ---
 #verb

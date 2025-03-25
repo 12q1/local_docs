@@ -1,7 +1,7 @@
 # Institute
 ---
 #noun
-- **An [[o/_organization|organization]] [[f/_founded|founded]] to promote a [[c/_cause|cause]]**
+- **An [[o/_organization|organization]] [[f/_founded|founded]] to [[p/_promote|promote]] a [[c/_cause|cause]]**
 	- _Example: I work in a medical research institute._
 - **An [[i/_institution|institution]] of [[l/_learning|learning]]; a [[c/_college|college]], [[e/_especially|especially]] for technical subjects**
 - **The [[b/_building|building]] [[h/_housing|housing]] such an [[i/_institution|institution]]**

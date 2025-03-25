@@ -12,7 +12,7 @@
 - **To [[b/_bring|bring]] [[o/_out|out]] or [[d/_develop|develop]] [[c/_completely|completely]]**
 - **To [[d/_discuss|discuss]] thoroughly or [[c/_completely|completely]]**
 	- _Example: That subject has already been fully exhausted._
-- **To subject to the [[a/_action|action]] of various solvents in [[o/_order|order]] to remove [[a/_all|all]] soluble substances or extractives**
+- **To subject to the [[a/_action|action]] of various [[s/_solvents|solvents]] in [[o/_order|order]] to [[r/_remove|remove]] [[a/_all|all]] [[s/_soluble|soluble]] substances or extractives**
 	- _Example: to exhaust a drug successively with water, alcohol, and ether_
 ---
 ### Synonyms
@@ -20,7 +20,7 @@
 #adjective
 - **Very tired; in a state of [[e/_exhaustion|exhaustion]].**
 	- _Example: The exhausted man fell asleep immediately._
-- **[[d/_depleted|Depleted]] of resources.**
+- **[[d/_depleted|Depleted]] of [[r/_resources|resources]].**
 	- _Example: The exhausted mine was worthless once all the ore had been extracted._
 ---
 ---

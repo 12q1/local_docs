@@ -7,7 +7,7 @@
 ---
 #verb
 - **To [[c/_cut|cut]] in a triangular [[f/_form|form]].**
-- **To provide with a [[g/_gore|gore]].**
+- **To [[p/_provide|provide]] with a [[g/_gore|gore]].**
 	- _Example: to gore an apron_
 ---
 #adjective

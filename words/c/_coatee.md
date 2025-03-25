@@ -1,6 +1,6 @@
 # Coatee
 ---
 #noun
-- **A [[c/_coat|coat]] with short [[f/_flaps|flaps]].**
+- **A [[c/_coat|coat]] with [[s/_short|short]] [[f/_flaps|flaps]].**
 ---
 ---

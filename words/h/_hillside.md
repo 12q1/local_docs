@@ -1,6 +1,6 @@
 # Hillside
 ---
 #noun
-- **The side of a [[h/_hill|hill]].**
+- **The [[s/_side|side]] of a [[h/_hill|hill]].**
 ---
 ---

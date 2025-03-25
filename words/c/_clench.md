@@ -2,8 +2,8 @@
 ---
 #noun
 - **Tight [[g/_grip|grip]].**
-- **A seal that is [[a/_applied|applied]] to [[f/_formed|formed]] thin-wall [[b/_bushings|bushings]].**
-- **A [[l/_local|local]] [[c/_chapter|chapter]] of the [[c/_church|Church]] of the SubGenius [[p/_parody|parody]] religion.**
+- **A [[s/_seal|seal]] that is [[a/_applied|applied]] to [[f/_formed|formed]] thin-wall [[b/_bushings|bushings]].**
+- **A [[l/_local|local]] [[c/_chapter|chapter]] of the [[c/_church|Church]] of the SubGenius [[p/_parody|parody]] [[r/_religion|religion]].**
 ---
 #verb
 - **To [[g/_grip|grip]] or [[h/_hold|hold]] [[f/_fast|fast]].**

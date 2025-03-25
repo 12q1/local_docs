@@ -1,7 +1,7 @@
 # Dillies
 ---
 #noun
-- **Someone or something that is remarkable or unusual.**
+- **[[s/_someone|Someone]] or [[s/_something|something]] that is [[r/_remarkable|remarkable]] or unusual.**
 ---
 #noun
 - **A [[d/_dilly|dilly]] [[b/_bag|bag]].**

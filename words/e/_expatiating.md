@@ -1,8 +1,8 @@
 # Expatiating
 ---
 #verb
-- **To range at [[l/_large|large]], or without restraint.**
-- **To write or speak at [[l/_length|length]]; to be [[c/_copious|copious]] in [[a/_argument|argument]] or [[d/_discussion|discussion]].**
+- **To [[r/_range|range]] at [[l/_large|large]], or without [[r/_restraint|restraint]].**
+- **To write or [[s/_speak|speak]] at [[l/_length|length]]; to be [[c/_copious|copious]] in [[a/_argument|argument]] or [[d/_discussion|discussion]].**
 - **To [[e/_expand|expand]]; to spread; to [[e/_extend|extend]]; to [[d/_diffuse|diffuse]]; to [[b/_broaden|broaden]].**
 ---
 ### Synonyms

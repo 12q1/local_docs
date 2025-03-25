@@ -3,11 +3,11 @@
 #noun
 - **The [[f/_female|female]] [[g/_genitalia|genitalia]].**
 	- _Example: Her dress was so short you could nearly see her fanny._
-- **The [[b/_buttocks|buttocks]]; [[a/_arguably|arguably]] the [[m/_most|most]] [[n/_nearly|nearly]] [[p/_polite|polite]] of several [[e/_euphemisms|euphemisms]].**
+- **The [[b/_buttocks|buttocks]]; [[a/_arguably|arguably]] the [[m/_most|most]] [[n/_nearly|nearly]] [[p/_polite|polite]] of [[s/_several|several]] [[e/_euphemisms|euphemisms]].**
 	- _Example: Children, sit down on your fannies, and eat your lunch._
-- **Sexual [[i/_intercourse|intercourse]] with a woman.**
+- **[[s/_sexual|Sexual]] [[i/_intercourse|intercourse]] with a woman.**
 	- _Example: get some fanny tonight_
-- **Women viewed as sexual [[o/_objects|objects]].**
+- **Women viewed as [[s/_sexual|sexual]] [[o/_objects|objects]].**
 	- _Example: This club is full of fanny._
 ---
 ### Synonyms

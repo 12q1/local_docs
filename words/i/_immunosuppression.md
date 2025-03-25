@@ -1,6 +1,6 @@
 # Immunosuppression
 ---
 #noun
-- **The [[a/_active|active]] [[m/_medical|medical]] suppression of the [[i/_immune|immune]] response.**
+- **The [[a/_active|active]] [[m/_medical|medical]] suppression of the [[i/_immune|immune]] [[r/_response|response]].**
 ---
 ---

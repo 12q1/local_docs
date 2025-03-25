@@ -2,11 +2,11 @@
 ---
 #verb
 - **([[h/_heading|heading]]) To [[c/_capture|capture]], [[o/_overtake|overtake]].**
-- **([[h/_heading|heading]]) To seize [[h/_hold|hold]] of.**
+- **([[h/_heading|heading]]) To [[s/_seize|seize]] [[h/_hold|hold]] of.**
 - **([[h/_heading|heading]]) To [[i/_intercept|intercept]].**
-- **([[h/_heading|heading]]) To receive (by [[b/_being|being]] in the way).**
-- **([[h/_heading|heading]]) To take in with [[o/_one|one]]'s senses or [[i/_intellect|intellect]].**
-- **([[h/_heading|heading]]) To seize [[a/_attention|attention]], [[i/_interest|interest]].**
+- **([[h/_heading|heading]]) To [[r/_receive|receive]] (by [[b/_being|being]] in the way).**
+- **([[h/_heading|heading]]) To take in with [[o/_one|one]]'[[s/_s|s]] [[s/_senses|senses]] or [[i/_intellect|intellect]].**
+- **([[h/_heading|heading]]) To [[s/_seize|seize]] [[a/_attention|attention]], [[i/_interest|interest]].**
 - **([[h/_heading|heading]]) To [[o/_obtain|obtain]] or [[e/_experience|experience]]**
 ---
 ### Synonyms

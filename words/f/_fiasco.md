@@ -2,7 +2,7 @@
 ---
 #noun
 - **A sudden or unexpected [[f/_failure|failure]].**
-- **A [[l/_ludicrous|ludicrous]] or [[h/_humiliating|humiliating]] situation. Some [[e/_effort|effort]] that went quite wrong.**
+- **A [[l/_ludicrous|ludicrous]] or [[h/_humiliating|humiliating]] [[s/_situation|situation]]. [[s/_some|Some]] [[e/_effort|effort]] that went [[q/_quite|quite]] wrong.**
 - **A wine [[b/_bottle|bottle]] in a (usually straw) [[j/_jacket|jacket]].**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Axle
 ---
 #noun
-- **Shoulder.**
+- **[[s/_shoulder|Shoulder]].**
 ---
 ---

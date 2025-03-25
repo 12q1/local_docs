@@ -1,6 +1,6 @@
 # Gravely
 ---
 #adverb
-- **In a [[g/_grave|grave]] or serious [[m/_manner|manner]].**
+- **In a [[g/_grave|grave]] or [[s/_serious|serious]] [[m/_manner|manner]].**
 ---
 ---

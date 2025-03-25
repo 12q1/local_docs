@@ -1,7 +1,7 @@
 # Kidnapped
 ---
 #verb
-- **To seize and [[d/_detain|detain]] a [[p/_person|person]] unlawfully; sometimes for ransom.**
+- **To [[s/_seize|seize]] and [[d/_detain|detain]] a [[p/_person|person]] unlawfully; [[s/_sometimes|sometimes]] for [[r/_ransom|ransom]].**
 ---
 #adjective
 - **Subjected to [[k/_kidnapping|kidnapping]]**

@@ -1,7 +1,7 @@
 # Bartering
 ---
 #verb
-- **To [[e/_exchange|exchange]] [[g/_goods|goods]] or services without [[i/_involving|involving]] [[m/_money|money]].**
+- **To [[e/_exchange|exchange]] [[g/_goods|goods]] or [[s/_services|services]] without [[i/_involving|involving]] [[m/_money|money]].**
 	- _Example: She bartered a bonsai for one of the rare books in my library._
 ---
 ### Synonyms

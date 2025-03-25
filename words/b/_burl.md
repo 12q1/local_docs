@@ -6,6 +6,6 @@
 - **A [[k/_knot|knot]] or [[l/_lump|lump]] in thread or [[c/_cloth|cloth]].**
 ---
 #verb
-- **To remove the [[k/_knots|knots]] in [[c/_cloth|cloth]].**
+- **To [[r/_remove|remove]] the [[k/_knots|knots]] in [[c/_cloth|cloth]].**
 ---
 ---

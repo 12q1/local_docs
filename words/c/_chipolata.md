@@ -1,6 +1,6 @@
 # Chipolata
 ---
 #noun
-- **A type of small thin [[m/_meat|meat]] sausage from [[e/_europe|Europe]].**
+- **A type of [[s/_small|small]] thin [[m/_meat|meat]] [[s/_sausage|sausage]] from [[e/_europe|Europe]].**
 ---
 ---

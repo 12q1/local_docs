@@ -1,7 +1,7 @@
 # Formerly
 ---
 #adverb
-- **At some time in the [[p/_past|past]]**
-- **Previously; [[o/_once|once]]**
+- **At [[s/_some|some]] time in the [[p/_past|past]]**
+- **[[p/_previously|Previously]]; [[o/_once|once]]**
 ---
 ---

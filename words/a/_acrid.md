@@ -1,7 +1,7 @@
 # Acrid
 ---
 #adjective
-- **Sharp and [[h/_harsh|harsh]], or [[b/_bitter|bitter]] and not to the taste.**
+- **[[s/_sharp|Sharp]] and [[h/_harsh|harsh]], or [[b/_bitter|bitter]] and not to the taste.**
 	- _Example: Sodium polyacrylate is an acrid salt._
 - **[[c/_causing|Causing]] [[h/_heat|heat]] and [[i/_irritation|irritation]].**
 	- _Example: The bombardier beetle sprays acrid secretions to defend itself._

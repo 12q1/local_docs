@@ -1,15 +1,15 @@
 # Dismay
 ---
 #noun
-- **A sudden or [[c/_complete|complete]] [[l/_loss|loss]] of [[c/_courage|courage]] and [[f/_firmness|firmness]] in the [[f/_face|face]] of trouble or [[d/_danger|danger]]; [[o/_overwhelming|overwhelming]] and [[d/_disabling|disabling]] terror; a sinking of the spirits**
+- **A sudden or [[c/_complete|complete]] [[l/_loss|loss]] of [[c/_courage|courage]] and [[f/_firmness|firmness]] in the [[f/_face|face]] of trouble or [[d/_danger|danger]]; [[o/_overwhelming|overwhelming]] and [[d/_disabling|disabling]] terror; a [[s/_sinking|sinking]] of the spirits**
 	- _Example: He looked in dismay at the destruction of the town caused by the hurricane._
-- **[[c/_condition|Condition]] [[f/_fitted|fitted]] to [[d/_dismay|dismay]]; ruin.**
+- **[[c/_condition|Condition]] [[f/_fitted|fitted]] to [[d/_dismay|dismay]]; [[r/_ruin|ruin]].**
 ---
 ### Synonyms
 - [[c/_consternation|consternation]]
 #verb
-- **To [[c/_cause|cause]] to [[f/_feel|feel]] [[a/_apprehension|apprehension]]; [[g/_great|great]] sadness, or [[f/_fear|fear]]; to [[d/_deprive|deprive]] of [[e/_energy|energy]]**
-- **To render [[l/_lifeless|lifeless]]; to subdue; to [[d/_disquiet|disquiet]].**
+- **To [[c/_cause|cause]] to [[f/_feel|feel]] [[a/_apprehension|apprehension]]; [[g/_great|great]] [[s/_sadness|sadness]], or [[f/_fear|fear]]; to [[d/_deprive|deprive]] of [[e/_energy|energy]]**
+- **To [[r/_render|render]] [[l/_lifeless|lifeless]]; to subdue; to [[d/_disquiet|disquiet]].**
 - **To take [[d/_dismay|dismay]] or [[f/_fright|fright]]; to be [[f/_filled|filled]] with [[d/_dismay|dismay]].**
 ---
 ### Synonyms

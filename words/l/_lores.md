@@ -7,7 +7,7 @@
 - **Workmanship.**
 ---
 #noun
-- **The region [[b/_between|between]] the [[e/_eyes|eyes]] and [[n/_nostrils|nostrils]] of [[b/_birds|birds]], reptiles, and [[a/_amphibians|amphibians]].**
+- **The [[r/_region|region]] [[b/_between|between]] the [[e/_eyes|eyes]] and [[n/_nostrils|nostrils]] of [[b/_birds|birds]], [[r/_reptiles|reptiles]], and [[a/_amphibians|amphibians]].**
 - **The [[a/_anterior|anterior]] [[p/_portion|portion]] of the [[c/_cheeks|cheeks]] of [[i/_insects|insects]].**
 ---
 ---

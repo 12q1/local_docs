@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[o/_one|One]] who [[c/_corrects|corrects]].**
-- **A proofreader.**
+- **A [[p/_proofreader|proofreader]].**
 - **A [[d/_director|director]] or [[g/_governor|governor]].**
 ---
 ---

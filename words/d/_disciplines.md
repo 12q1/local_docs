@@ -1,7 +1,7 @@
 # Disciplines
 ---
 #noun
-- **A [[c/_controlled|controlled]] [[b/_behaviour|behaviour]]; self-[[c/_control|control]].**
+- **A [[c/_controlled|controlled]] [[b/_behaviour|behaviour]]; [[s/_self|self]]-[[c/_control|control]].**
 - **A specific [[b/_branch|branch]] of [[k/_knowledge|knowledge]] or [[l/_learning|learning]].**
 ---
 ### Synonyms
@@ -9,10 +9,10 @@
 ### Antonyms
 - [[s/_spontaneity|spontaneity]]
 #verb
-- **To train someone by [[i/_instruction|instruction]] and [[p/_practice|practice]].**
-- **To teach someone to [[o/_obey|obey]] [[a/_authority|authority]].**
-- **To punish someone in [[o/_order|order]] to (re)[[g/_gain|gain]] [[c/_control|control]].**
-- **To [[i/_impose|impose]] [[o/_order|order]] on someone.**
+- **To train [[s/_someone|someone]] by [[i/_instruction|instruction]] and [[p/_practice|practice]].**
+- **To teach [[s/_someone|someone]] to [[o/_obey|obey]] [[a/_authority|authority]].**
+- **To [[p/_punish|punish]] [[s/_someone|someone]] in [[o/_order|order]] to ([[r/_re|re]])[[g/_gain|gain]] [[c/_control|control]].**
+- **To [[i/_impose|impose]] [[o/_order|order]] on [[s/_someone|someone]].**
 ---
 ### Synonyms
 - [[d/_drill|drill]]

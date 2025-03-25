@@ -1,6 +1,6 @@
 # Lax
 ---
 #noun
-- **A salmon.**
+- **A [[s/_salmon|salmon]].**
 ---
 ---

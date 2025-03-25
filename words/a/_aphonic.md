@@ -1,6 +1,6 @@
 # Aphonic
 ---
 #adjective
-- **Of, relating to, or [[e/_exhibiting|exhibiting]] [[a/_aphonia|aphonia]]; unable to speak.**
+- **Of, [[r/_relating|relating]] to, or [[e/_exhibiting|exhibiting]] [[a/_aphonia|aphonia]]; unable to [[s/_speak|speak]].**
 ---
 ---

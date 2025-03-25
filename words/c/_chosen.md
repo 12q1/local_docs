@@ -1,7 +1,7 @@
 # Chosen
 ---
 #verb
-- **To [[p/_pick|pick]]; to [[m/_make|make]] the [[c/_choice|choice]] of; to select.**
+- **To [[p/_pick|pick]]; to [[m/_make|make]] the [[c/_choice|choice]] of; to [[s/_select|select]].**
 	- _Example: I chose a nice ripe apple from the fruit bowl._
 - **To [[e/_elect|elect]].**
 	- _Example: He was chosen as president in 1990._
@@ -10,7 +10,7 @@
 - **To wish; to [[d/_desire|desire]]; to [[p/_prefer|prefer]].**
 ---
 #adjective
-- **[[p/_picked|Picked]]; selected**
+- **[[p/_picked|Picked]]; [[s/_selected|selected]]**
 - **[[e/_elected|Elected]]**
 ---
 ---

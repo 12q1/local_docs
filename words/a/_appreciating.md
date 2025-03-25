@@ -18,6 +18,6 @@
 - **[[a/_appreciation|Appreciation]]**
 ---
 #adjective
-- **[[a/_appreciative|Appreciative]]: [[h/_having|having]] or showing [[a/_appreciation|appreciation]].**
+- **[[a/_appreciative|Appreciative]]: [[h/_having|having]] or [[s/_showing|showing]] [[a/_appreciation|appreciation]].**
 ---
 ---

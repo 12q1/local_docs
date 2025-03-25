@@ -1,8 +1,8 @@
 # Experiments
 ---
 #noun
-- **A test under [[c/_controlled|controlled]] [[c/_conditions|conditions]] [[m/_made|made]] to [[e/_either|either]] [[d/_demonstrate|demonstrate]] a [[k/_known|known]] truth, [[e/_examine|examine]] the validity of a [[h/_hypothesis|hypothesis]], or [[d/_determine|determine]] the [[e/_efficacy|efficacy]] of something previously untried.**
-- **[[e/_experience|Experience]], [[p/_practical|practical]] [[f/_familiarity|familiarity]] with something.**
+- **A test under [[c/_controlled|controlled]] [[c/_conditions|conditions]] [[m/_made|made]] to [[e/_either|either]] [[d/_demonstrate|demonstrate]] a [[k/_known|known]] truth, [[e/_examine|examine]] the validity of a [[h/_hypothesis|hypothesis]], or [[d/_determine|determine]] the [[e/_efficacy|efficacy]] of [[s/_something|something]] [[p/_previously|previously]] untried.**
+- **[[e/_experience|Experience]], [[p/_practical|practical]] [[f/_familiarity|familiarity]] with [[s/_something|something]].**
 ---
 #verb
 - **To [[c/_conduct|conduct]] an [[e/_experiment|experiment]].**

@@ -1,6 +1,6 @@
 # Closemouthed
 ---
 #adjective
-- **Reticent, secretive or uncommunicative**
+- **[[r/_reticent|Reticent]], [[s/_secretive|secretive]] or uncommunicative**
 ---
 ---

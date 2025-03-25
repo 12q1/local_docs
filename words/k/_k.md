@@ -7,6 +7,6 @@
 	- _Example: We drove 15 ks before we realised Billy wasn't in the back seat._
 - **Thousand or thousands.**
 	- _Example: Just about 65 k of Jack's full salary comes from servicing the Baker account._
-- **The SI [[m/_measurement|measurement]] value of 1,000**
+- **The [[s/_si|SI]] [[m/_measurement|measurement]] value of 1,000**
 ---
 ---

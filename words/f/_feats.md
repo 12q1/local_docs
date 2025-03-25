@@ -1,7 +1,7 @@
 # Feats
 ---
 #noun
-- **A relatively rare or [[d/_difficult|difficult]] [[a/_accomplishment|accomplishment]].**
+- **A [[r/_relatively|relatively]] [[r/_rare|rare]] or [[d/_difficult|difficult]] [[a/_accomplishment|accomplishment]].**
 ---
 #verb
 - **To [[f/_form|form]]; to [[f/_fashion|fashion]].**

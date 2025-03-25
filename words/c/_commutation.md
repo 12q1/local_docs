@@ -5,8 +5,8 @@
 - **The [[a/_act|act]] of [[g/_giving|giving]] [[o/_one|one]] thing for [[a/_another|another]]; [[b/_barter|barter]]; [[e/_exchange|exchange]].**
 - **Substitution of [[o/_one|one]] thing for [[a/_another|another]]; [[i/_interchange|interchange]].**
 - **Specifically, the substitution of [[o/_one|one]] [[k/_kind|kind]] of [[p/_payment|payment]] for [[a/_another|another]], [[e/_especially|especially]] a switch to [[m/_monetary|monetary]] [[p/_payment|payment]] from [[o/_obligations|obligations]] of [[l/_labour|labour]].**
-- **The [[c/_change|change]] to a [[l/_lesser|lesser]] [[p/_penalty|penalty]] or punishment by the State**
+- **The [[c/_change|change]] to a [[l/_lesser|lesser]] [[p/_penalty|penalty]] or [[p/_punishment|punishment]] by the State**
 - **Substitution, as a [[m/_means|means]] of [[d/_discriminating|discriminating]] [[b/_between|between]] [[p/_phonemes|phonemes]].**
-- **The reversal of an [[e/_electric|electric]] [[c/_current|current]].**
+- **The [[r/_reversal|reversal]] of an [[e/_electric|electric]] [[c/_current|current]].**
 ---
 ---

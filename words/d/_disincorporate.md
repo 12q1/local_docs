@@ -1,11 +1,11 @@
 # Disincorporate
 ---
 #verb
-- **To [[d/_deprive|deprive]] of [[c/_corporate|corporate]] rights.**
-- **To revoke the [[c/_charter|charter]] of an [[i/_incorporated|incorporated]] town or [[c/_city|city]].**
+- **To [[d/_deprive|deprive]] of [[c/_corporate|corporate]] [[r/_rights|rights]].**
+- **To [[r/_revoke|revoke]] the [[c/_charter|charter]] of an [[i/_incorporated|incorporated]] town or [[c/_city|city]].**
 	- _Example: Four towns in the Quabbin Valley were disincorporated, and their residents relocated, to create a reservoir._
 ---
 #adjective
-- **Separated from, or not [[i/_included|included]] in, a [[c/_corporation|corporation]]; [[d/_disincorporated|disincorporated]].**
+- **[[s/_separated|Separated]] from, or not [[i/_included|included]] in, a [[c/_corporation|corporation]]; [[d/_disincorporated|disincorporated]].**
 ---
 ---

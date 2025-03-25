@@ -1,6 +1,6 @@
 # Gunkhole
 ---
 #noun
-- **A small [[c/_cove|cove]], [[e/_especially|especially]] a small [[f/_fishing|fishing]] [[c/_community|community]].**
+- **A [[s/_small|small]] [[c/_cove|cove]], [[e/_especially|especially]] a [[s/_small|small]] [[f/_fishing|fishing]] [[c/_community|community]].**
 ---
 ---

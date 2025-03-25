@@ -1,7 +1,7 @@
 # Electorate
 ---
 #noun
-- **The [[d/_dominion|dominion]] of an [[e/_elector|Elector]] in the [[h/_holy|Holy]] Roman [[e/_empire|Empire]].**
+- **The [[d/_dominion|dominion]] of an [[e/_elector|Elector]] in the [[h/_holy|Holy]] [[r/_roman|Roman]] [[e/_empire|Empire]].**
 - **The [[c/_collective|collective]] [[p/_people|people]] of a [[c/_country|country]], state, or [[e/_electoral|electoral]] [[d/_district|district]] who are [[e/_entitled|entitled]] to vote.**
 	- _Example: The votes have been counted and the electorate has spoken._
 - **The [[g/_geographic|geographic]] [[a/_area|area]] [[e/_encompassing|encompassing]] an [[e/_electoral|electoral]] [[d/_district|district]].**

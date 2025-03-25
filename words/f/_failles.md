@@ -1,6 +1,6 @@
 # Failles
 ---
 #noun
-- **A [[f/_fabric|fabric]] woven from silk, [[c/_cotton|cotton]], or rayon with slight ribs.**
+- **A [[f/_fabric|fabric]] woven from [[s/_silk|silk]], [[c/_cotton|cotton]], or [[r/_rayon|rayon]] with [[s/_slight|slight]] [[r/_ribs|ribs]].**
 ---
 ---

@@ -6,12 +6,12 @@
 - **A [[p/_pack|pack]] of [[c/_cigarettes|cigarettes]], usually ten, wrapped in [[c/_cellophane|cellophane]] or [[p/_packed|packed]] in a [[l/_light|light]] [[c/_cardboard|cardboard]] [[b/_box|box]].**
 - **A [[c/_cardboard|cardboard]] [[b/_box|box]] that [[h/_holds|holds]] (usually 24) [[b/_beer|beer]] [[b/_bottles|bottles]] or [[c/_cans|cans]].**
 - **A [[k/_kind|kind]] of thin [[p/_pasteboard|pasteboard]].**
-- **A small [[d/_disc|disc]] within the [[b/_bullseye|bullseye]] of a target.**
-- **A shot that strikes this [[d/_disc|disc]].**
+- **A [[s/_small|small]] [[d/_disc|disc]] within the [[b/_bullseye|bullseye]] of a target.**
+- **A [[s/_shot|shot]] that strikes this [[d/_disc|disc]].**
 ---
 ### Synonyms
 - [[c/_container|container]], [[p/_package|package]], [[c/_case|case]], [[p/_pack|pack]]
 #verb
-- **To put in a [[c/_carton|carton]].**
+- **To [[p/_put|put]] in a [[c/_carton|carton]].**
 ---
 ---

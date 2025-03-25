@@ -1,7 +1,7 @@
 # Fierier
 ---
 #adjective
-- **Of or relating to [[f/_fire|fire]].**
+- **Of or [[r/_relating|relating]] to [[f/_fire|fire]].**
 - **[[b/_burning|Burning]] or [[g/_glowing|glowing]].**
 - **[[i/_inflammable|Inflammable]] or [[e/_easily|easily]] [[i/_ignited|ignited]].**
 - **[[h/_having|Having]] the [[c/_colour|colour]] of [[f/_fire|fire]].**

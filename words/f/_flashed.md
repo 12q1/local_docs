@@ -1,36 +1,36 @@
 # Flashed
 ---
 #verb
-- **To [[c/_cause|cause]] to shine [[b/_briefly|briefly]] or [[i/_intermittently|intermittently]].**
+- **To [[c/_cause|cause]] to [[s/_shine|shine]] [[b/_briefly|briefly]] or [[i/_intermittently|intermittently]].**
 	- _Example: He flashed the light at the water, trying to see what made the noise._
-- **To [[b/_blink|blink]]; to shine or [[i/_illuminate|illuminate]] [[i/_intermittently|intermittently]].**
+- **To [[b/_blink|blink]]; to [[s/_shine|shine]] or [[i/_illuminate|illuminate]] [[i/_intermittently|intermittently]].**
 	- _Example: The light flashed on and off._
 - **To be visible [[b/_briefly|briefly]].**
 	- _Example: The scenery flashed by quickly._
 - **To [[m/_make|make]] visible [[b/_briefly|briefly]].**
 	- _Example: A number will be flashed on the screen._
-- **To [[b/_briefly|briefly]], and [[o/_often|often]] unintentionally, [[e/_expose|expose]] [[o/_one|one]]'s [[n/_naked|naked]] [[b/_body|body]] or underwear, or [[p/_part|part]] of it, in public. ([[c/_contrast|Contrast]] streak.)**
+- **To [[b/_briefly|briefly]], and [[o/_often|often]] unintentionally, [[e/_expose|expose]] [[o/_one|one]]'[[s/_s|s]] [[n/_naked|naked]] [[b/_body|body]] or underwear, or [[p/_part|part]] of it, in [[p/_public|public]]. ([[c/_contrast|Contrast]] streak.)**
 	- _Example: Her skirt was so short that she flashed her underpants as she was getting out of her car._
-- **To show or [[e/_expose|expose]] an "[[i/_inappropriate|inappropriate]]" [[p/_part|part]] of the [[b/_body|body]] to someone for [[h/_humorous|humorous]] reasons or as an [[a/_act|act]] of [[c/_contempt|contempt]].**
-- **To [[b/_break|break]] [[f/_forth|forth]] [[l/_like|like]] a sudden [[f/_flood|flood]] of [[l/_light|light]]; to show a [[m/_momentary|momentary]] [[b/_brilliance|brilliance]].**
-- **To [[f/_flaunt|flaunt]]; to [[d/_display|display]] in a showy [[m/_manner|manner]].**
+- **To [[s/_show|show]] or [[e/_expose|expose]] an "[[i/_inappropriate|inappropriate]]" [[p/_part|part]] of the [[b/_body|body]] to [[s/_someone|someone]] for [[h/_humorous|humorous]] [[r/_reasons|reasons]] or as an [[a/_act|act]] of [[c/_contempt|contempt]].**
+- **To [[b/_break|break]] [[f/_forth|forth]] [[l/_like|like]] a sudden [[f/_flood|flood]] of [[l/_light|light]]; to [[s/_show|show]] a [[m/_momentary|momentary]] [[b/_brilliance|brilliance]].**
+- **To [[f/_flaunt|flaunt]]; to [[d/_display|display]] in a [[s/_showy|showy]] [[m/_manner|manner]].**
 	- _Example: He flashed a wad of hundred-dollar bills._
-- **To [[c/_communicate|communicate]] quickly.**
+- **To [[c/_communicate|communicate]] [[q/_quickly|quickly]].**
 	- _Example: The news services flashed the news about the end of the war to all corners of the globe._
 - **To [[m/_move|move]], or [[c/_cause|cause]] to [[m/_move|move]], suddenly.**
 	- _Example: Flash forward to the present day._
-- **To telephone a [[p/_person|person]], [[o/_only|only]] [[a/_allowing|allowing]] the [[p/_phone|phone]] to ring [[o/_once|once]], in [[o/_order|order]] to request a [[c/_call|call]] [[b/_back|back]].**
+- **To telephone a [[p/_person|person]], [[o/_only|only]] [[a/_allowing|allowing]] the [[p/_phone|phone]] to [[r/_ring|ring]] [[o/_once|once]], in [[o/_order|order]] to [[r/_request|request]] a [[c/_call|call]] [[b/_back|back]].**
 	- _Example: Susan flashed Jessica, and then Jessica called her back, because Susan didn't have enough credit on her phone to make the call._
-- **(of [[l/_liquid|liquid]]) To [[e/_evaporate|evaporate]] suddenly. (See [[f/_flash|flash]] [[e/_evaporation|evaporation]].)**
-- **To [[c/_climb|climb]] (a route) successfully on the [[f/_first|first]] [[a/_attempt|attempt]].**
+- **(of [[l/_liquid|liquid]]) To [[e/_evaporate|evaporate]] suddenly. ([[s/_see|See]] [[f/_flash|flash]] [[e/_evaporation|evaporation]].)**
+- **To [[c/_climb|climb]] (a [[r/_route|route]]) successfully on the [[f/_first|first]] [[a/_attempt|attempt]].**
 - **To write to the [[m/_memory|memory]] of (an updatable [[c/_component|component]] such as a [[b/_bios|BIOS]] [[c/_chip|chip]] or [[g/_games|games]] [[c/_cartridge|cartridge]]).**
 - **([[g/_glassmaking|glassmaking]]) To [[c/_cover|cover]] with a thin [[l/_layer|layer]], as [[o/_objects|objects]] of [[g/_glass|glass]] with [[g/_glass|glass]] of a [[d/_different|different]] [[c/_colour|colour]].**
 - **([[g/_glassmaking|glassmaking]]) To [[e/_expand|expand]] ([[b/_blown|blown]] [[g/_glass|glass]]) [[i/_into|into]] a [[d/_disc|disc]].**
-- **To send by some startling or sudden [[m/_means|means]].**
+- **To [[s/_send|send]] by [[s/_some|some]] startling or sudden [[m/_means|means]].**
 - **To [[b/_burst|burst]] [[o/_out|out]] [[i/_into|into]] violence.**
 - **To [[p/_perform|perform]] a [[f/_flash|flash]].**
-- **To release the [[p/_pressure|pressure]] from a [[p/_pressurized|pressurized]] vessel.**
-- **To trick up in a showy [[m/_manner|manner]].**
+- **To [[r/_release|release]] the [[p/_pressure|pressure]] from a [[p/_pressurized|pressurized]] vessel.**
+- **To trick up in a [[s/_showy|showy]] [[m/_manner|manner]].**
 - **To strike and throw up [[l/_large|large]] [[b/_bodies|bodies]] of water from the surface; to splash.**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Carbine
 ---
 #noun
-- **A rifle with a short [[b/_barrel|barrel]].**
+- **A [[r/_rifle|rifle]] with a [[s/_short|short]] [[b/_barrel|barrel]].**
 ---
 ---

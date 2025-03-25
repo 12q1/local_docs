@@ -9,7 +9,7 @@
 - **An [[a/_ailment|ailment]].**
 ---
 #adjective
-- **Sickly; sick; [[i/_ill|ill]]; unwell.**
+- **[[s/_sickly|Sickly]]; [[s/_sick|sick]]; [[i/_ill|ill]]; unwell.**
 	- _Example: She cared for her ailing brother day in, day out._
 ---
 ---

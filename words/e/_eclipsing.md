@@ -7,6 +7,6 @@
 - **([[i/_irish|Irish]] [[g/_grammar|grammar]]) To undergo [[e/_eclipsis|eclipsis]].**
 ---
 #noun
-- **The [[a/_act|act]] or process by which something is [[e/_eclipsed|eclipsed]].**
+- **The [[a/_act|act]] or [[p/_process|process]] by which [[s/_something|something]] is [[e/_eclipsed|eclipsed]].**
 ---
 ---

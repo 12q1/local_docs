@@ -1,6 +1,6 @@
 # Escapologist
 ---
 #noun
-- **An [[e/_entertainer|entertainer]] skilled in the [[a/_art|art]] of [[e/_escapology|escapology]].**
+- **An [[e/_entertainer|entertainer]] [[s/_skilled|skilled]] in the [[a/_art|art]] of [[e/_escapology|escapology]].**
 ---
 ---

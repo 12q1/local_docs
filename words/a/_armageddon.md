@@ -1,7 +1,7 @@
 # Armageddon
 ---
 #noun
-- **The scene of a [[d/_decisive|decisive]] [[c/_conflict|conflict]] on a [[g/_great|great]] scale.**
+- **The [[s/_scene|scene]] of a [[d/_decisive|decisive]] [[c/_conflict|conflict]] on a [[g/_great|great]] [[s/_scale|scale]].**
 - **[[a/_any|Any]] [[g/_great|great]] and [[c/_crucial|crucial]] [[c/_conflict|conflict]].**
 ---
 ### Synonyms

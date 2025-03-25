@@ -1,8 +1,8 @@
 # Kennels
 ---
 #noun
-- **A [[h/_house|house]] or shelter for a [[d/_dog|dog]].**
-- **A [[f/_facility|facility]] at which [[d/_dogs|dogs]] are reared or [[b/_boarded|boarded]].**
+- **A [[h/_house|house]] or [[s/_shelter|shelter]] for a [[d/_dog|dog]].**
+- **A [[f/_facility|facility]] at which [[d/_dogs|dogs]] are [[r/_reared|reared]] or [[b/_boarded|boarded]].**
 	- _Example: She raises registered Dalmatians at her kennel._
 - **([[c/_collective|collective]]) The [[d/_dogs|dogs]] [[k/_kept|kept]] at such a [[f/_facility|facility]]; a [[p/_pack|pack]] of [[h/_hounds|hounds]].**
 - **The [[h/_hole|hole]] of a [[f/_fox|fox]] or [[o/_other|other]] [[a/_animal|animal]].**
@@ -17,6 +17,6 @@
 ---
 #noun
 - **The [[g/_gutter|gutter]] at the [[e/_edge|edge]] of a street; a surface [[d/_drain|drain]].**
-- **A puddle.**
+- **A [[p/_puddle|puddle]].**
 ---
 ---

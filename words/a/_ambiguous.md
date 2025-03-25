@@ -5,7 +5,7 @@
 	- _Example: The politician was criticized for his ambiguous statements and lack of precision._
 - **Vague and unclear.**
 	- _Example: He gave an ambiguous answer._
-- **(of [[p/_persons|persons]]) [[h/_hesitant|Hesitant]]; uncertain; not taking sides.**
+- **(of [[p/_persons|persons]]) [[h/_hesitant|Hesitant]]; uncertain; not taking [[s/_sides|sides]].**
 ---
 ### Synonyms
 - [[e/_equivocal|equivocal]]

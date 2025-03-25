@@ -1,7 +1,7 @@
 # Hardhats
 ---
 #noun
-- **A [[h/_helmet|helmet]], usually [[m/_made|made]] from rigid [[p/_plastic|plastic]], used on [[c/_construction|construction]] sites to protect the [[h/_head|head]] from [[f/_falling|falling]] [[o/_objects|objects]].**
+- **A [[h/_helmet|helmet]], usually [[m/_made|made]] from [[r/_rigid|rigid]] [[p/_plastic|plastic]], used on [[c/_construction|construction]] [[s/_sites|sites]] to [[p/_protect|protect]] the [[h/_head|head]] from [[f/_falling|falling]] [[o/_objects|objects]].**
 ---
 ### Synonyms
 - 

@@ -10,7 +10,7 @@
 ### Synonyms
 - [[y/_yes|yes]]
 #interjection
-- **[[y/_yes|Yes]]; [[y/_yea|yea]]; a word [[e/_expressing|expressing]] [[a/_assent|assent]], or an [[a/_affirmative|affirmative]] [[a/_answer|answer]] to a question.**
+- **[[y/_yes|Yes]]; [[y/_yea|yea]]; a word [[e/_expressing|expressing]] [[a/_assent|assent]], or an [[a/_affirmative|affirmative]] [[a/_answer|answer]] to a [[q/_question|question]].**
 ---
 ### Synonyms
 - [[y/_yea|yea]], [[y/_yes|yes]]

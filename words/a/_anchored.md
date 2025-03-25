@@ -1,11 +1,11 @@
 # Anchored
 ---
 #verb
-- **To [[c/_connect|connect]] an [[o/_object|object]], [[e/_especially|especially]] a ship or a [[b/_boat|boat]], to a [[f/_fixed|fixed]] [[p/_point|point]].**
+- **To [[c/_connect|connect]] an [[o/_object|object]], [[e/_especially|especially]] a [[s/_ship|ship]] or a [[b/_boat|boat]], to a [[f/_fixed|fixed]] [[p/_point|point]].**
 - **To [[c/_cast|cast]] [[a/_anchor|anchor]]; to [[c/_come|come]] to [[a/_anchor|anchor]].**
 	- _Example: Our ship (or the captain) anchored in the stream._
-- **To stop; to [[f/_fix|fix]] or rest.**
-- **To provide [[e/_emotional|emotional]] stability for a [[p/_person|person]] in [[d/_distress|distress]].**
+- **To stop; to [[f/_fix|fix]] or [[r/_rest|rest]].**
+- **To [[p/_provide|provide]] [[e/_emotional|emotional]] stability for a [[p/_person|person]] in [[d/_distress|distress]].**
 - **To [[p/_perform|perform]] as an [[a/_anchorman|anchorman]] or anchorwoman.**
 - **To be stuck; to be unable to [[m/_move|move]] [[a/_away|away]] from a [[p/_position|position]].**
 ---

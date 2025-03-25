@@ -6,6 +6,6 @@
 	- _Example: The superintendent helped gerrymander the school district lines in order to keep the children of the wealthy gated community in the better school all the way across town._
 ---
 #noun
-- **The [[p/_practice|practice]] of redrawing [[e/_electoral|electoral]] [[d/_districts|districts]] to [[g/_gain|gain]] an [[e/_electoral|electoral]] [[a/_advantage|advantage]] for a [[p/_political|political]] [[p/_party|party]].**
+- **The [[p/_practice|practice]] of [[r/_redrawing|redrawing]] [[e/_electoral|electoral]] [[d/_districts|districts]] to [[g/_gain|gain]] an [[e/_electoral|electoral]] [[a/_advantage|advantage]] for a [[p/_political|political]] [[p/_party|party]].**
 ---
 ---

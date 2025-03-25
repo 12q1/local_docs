@@ -5,7 +5,7 @@
 - **A [[f/_flat|flat]] [[m/_marinated|marinated]] [[c/_cut|cut]] of [[m/_meat|meat]].**
 	- _Example: a chicken flattie_
 - **A [[f/_flat|flat]] store.**
-- **A [[f/_flat|flat]]-[[b/_bottomed|bottomed]] sloop-rigged sharpie.**
+- **A [[f/_flat|flat]]-[[b/_bottomed|bottomed]] [[s/_sloop|sloop]]-[[r/_rigged|rigged]] [[s/_sharpie|sharpie]].**
 - **A [[f/_flattie|flattie]] spider.**
 - **A traditional two-[[d/_dimensional|dimensional]] [[m/_motion|motion]] [[p/_picture|picture]], as [[o/_opposed|opposed]] to a deepie.**
 ---
@@ -15,6 +15,6 @@
 - **A [[f/_flat|flat]] tire/tyre.**
 - **A [[p/_policeman|policeman]].**
 - **A [[f/_flathead|flathead]] V8 [[e/_engine|engine]].**
-- **A [[h/_hot|hot]] rod [[f/_fitted|fitted]] with a [[f/_flathead|flathead]] V8 [[e/_engine|engine]].**
+- **A [[h/_hot|hot]] [[r/_rod|rod]] [[f/_fitted|fitted]] with a [[f/_flathead|flathead]] V8 [[e/_engine|engine]].**
 ---
 ---

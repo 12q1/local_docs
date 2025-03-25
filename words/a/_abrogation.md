@@ -1,6 +1,6 @@
 # Abrogation
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_abrogating|abrogating]]; a repeal by [[a/_authority|authority]]; [[a/_abolition|abolition]].**
+- **The [[a/_act|act]] of [[a/_abrogating|abrogating]]; a [[r/_repeal|repeal]] by [[a/_authority|authority]]; [[a/_abolition|abolition]].**
 ---
 ---

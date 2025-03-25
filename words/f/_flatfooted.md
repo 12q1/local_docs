@@ -12,10 +12,10 @@
 - **[[b/_blunt|Blunt]] and unsubtle; [[l/_lacking|lacking]] [[f/_finesse|finesse]].**
 ---
 #adverb
-- **Unprepared to respond; unready.**
+- **Unprepared to [[r/_respond|respond]]; unready.**
 	- _Example: They were caught flatfooted when Clancy filed to enter the race._
-- **Putting the [[e/_entire|entire]] [[f/_foot|foot]] [[d/_down|down]] at [[o/_once|once]], rather than [[l/_landing|landing]] on the [[b/_ball|ball]] of the [[f/_foot|foot]] and then [[l/_lowering|lowering]] the rest of the [[f/_foot|foot]].**
-- **With [[o/_one|one]]'s [[f/_feet|feet]] [[f/_flat|flat]] on the [[g/_ground|ground]].**
+- **[[p/_putting|Putting]] the [[e/_entire|entire]] [[f/_foot|foot]] [[d/_down|down]] at [[o/_once|once]], [[r/_rather|rather]] than [[l/_landing|landing]] on the [[b/_ball|ball]] of the [[f/_foot|foot]] and then [[l/_lowering|lowering]] the [[r/_rest|rest]] of the [[f/_foot|foot]].**
+- **With [[o/_one|one]]'[[s/_s|s]] [[f/_feet|feet]] [[f/_flat|flat]] on the [[g/_ground|ground]].**
 - **(of [[d/_drinking|drinking]]) Without [[p/_pausing|pausing]] [[b/_between|between]] swallows.**
 ---
 ---

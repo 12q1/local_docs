@@ -6,11 +6,11 @@
 - **A [[b/_bout|bout]] of [[h/_heavy|heavy]] [[d/_drinking|drinking]].**
 	- _Example: He's been out on a bender with his mates._
 - **A [[h/_homosexual|homosexual]] [[m/_man|man]].**
-- **A simple shelter, [[m/_made|made]] using [[f/_flexible|flexible]] [[b/_branches|branches]] or withies**
-- **A suspended sentence.**
-- **A sixpence.**
+- **A [[s/_simple|simple]] [[s/_shelter|shelter]], [[m/_made|made]] using [[f/_flexible|flexible]] [[b/_branches|branches]] or withies**
+- **A suspended [[s/_sentence|sentence]].**
+- **A [[s/_sixpence|sixpence]].**
 - **A spree, a [[f/_frolic|frolic]].**
-- **Something [[e/_exceptional|exceptional]].**
+- **[[s/_something|Something]] [[e/_exceptional|exceptional]].**
 ---
 ### Synonyms
 - [[b/_binge|binge]], [[s/_spree|spree]], [[t/_toot|toot]]

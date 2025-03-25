@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] of [[g/_gerrymandering|gerrymandering]].**
 	- _Example: By this iniquitous practice, which is known as the gerrymander, the party in a minority in each State is allowed to get only about one-half or one-quarter of its proper share of representation._
-- **A voting [[d/_district|district]] skewed by [[g/_gerrymandering|gerrymandering]].**
+- **A voting [[d/_district|district]] [[s/_skewed|skewed]] by [[g/_gerrymandering|gerrymandering]].**
 	- _Example: Any citizen looking at a map of district 12 could immediately tell that it was a gerrymander because of the ridiculous way it cut across 4 counties while carving up neighborhoods in half._
 ---
 #verb

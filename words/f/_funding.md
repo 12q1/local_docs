@@ -8,7 +8,7 @@
 ---
 #noun
 - **The [[a/_action|action]] of the verb [[f/_fund|fund]].**
-- **[[m/_money|Money]] provided as [[f/_funds|funds]].**
+- **[[m/_money|Money]] [[p/_provided|provided]] as [[f/_funds|funds]].**
 	- _Example: The council is providing funding to the church to repair the roof._
 ---
 ---

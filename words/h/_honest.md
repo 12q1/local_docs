@@ -4,7 +4,7 @@
 - **To [[a/_adorn|adorn]] or [[g/_grace|grace]]; to [[h/_honour|honour]]; to [[m/_make|make]] [[b/_becoming|becoming]], [[a/_appropriate|appropriate]], or [[h/_honourable|honourable]].**
 ---
 #adjective
-- **(of a [[p/_person|person]] or [[i/_institution|institution]]) Scrupulous with regard to telling the truth; not [[g/_given|given]] to swindling, [[l/_lying|lying]], or [[f/_fraud|fraud]]; upright.**
+- **(of a [[p/_person|person]] or [[i/_institution|institution]]) [[s/_scrupulous|Scrupulous]] with [[r/_regard|regard]] to telling the truth; not [[g/_given|given]] to swindling, [[l/_lying|lying]], or [[f/_fraud|fraud]]; upright.**
 	- _Example: We’re the most honest people you will ever come across._
 - **(of a statement) True, [[e/_especially|especially]] as [[f/_far|far]] as is [[k/_known|known]] by the [[p/_person|person]] [[m/_making|making]] the statement; [[f/_fair|fair]]; unbiased.**
 	- _Example: an honest account of events_
@@ -24,7 +24,7 @@
 ### Antonyms
 - [[d/_dishonest|dishonest]]
 #adverb
-- **[[h/_honestly|Honestly]]; really.**
+- **[[h/_honestly|Honestly]]; [[r/_really|really]].**
 	- _Example: It wasn’t my fault, honest._
 ---
 ---

@@ -1,7 +1,7 @@
 # Livelong
 ---
 #noun
-- **The [[o/_orpine|orpine]], Sedum telephium**
+- **The [[o/_orpine|orpine]], [[s/_sedum|Sedum]] telephium**
 ---
 #adjective
 - **Total, [[c/_complete|complete]], whole**

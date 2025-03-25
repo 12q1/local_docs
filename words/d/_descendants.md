@@ -1,9 +1,9 @@
 # Descendants
 ---
 #noun
-- **[[o/_one|One]] who is the progeny of a specified [[p/_person|person]], at [[a/_any|any]] [[d/_distance|distance]] of time or through [[a/_any|any]] [[n/_number|number]] of [[g/_generations|generations]].**
+- **[[o/_one|One]] who is the [[p/_progeny|progeny]] of a specified [[p/_person|person]], at [[a/_any|any]] [[d/_distance|distance]] of time or through [[a/_any|any]] [[n/_number|number]] of [[g/_generations|generations]].**
 	- _Example: The patriarch survived many descendants: five children, a dozen grandchildren, even a great grandchild._
-- **A thing that [[d/_derives|derives]] [[d/_directly|directly]] from a [[g/_given|given]] [[p/_precursor|precursor]] or source.**
+- **A thing that [[d/_derives|derives]] [[d/_directly|directly]] from a [[g/_given|given]] [[p/_precursor|precursor]] or [[s/_source|source]].**
 	- _Example: This famous medieval manuscript has many descendants._
 - **A [[l/_later|later]] [[e/_evolutionary|evolutionary]] type.**
 	- _Example: Dogs evolved as descendants of early wolves._

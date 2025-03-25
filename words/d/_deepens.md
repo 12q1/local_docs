@@ -13,7 +13,7 @@
 	- _Example: The class deepened my understanding of the subject._
 - **To [[m/_make|make]] [[m/_more|more]] [[i/_intimate|intimate]].**
 	- _Example: The shared experiences deepened our relationship._
-- **To [[m/_make|make]] [[m/_more|more]] sound or [[h/_heavy|heavy]].**
+- **To [[m/_make|make]] [[m/_more|more]] [[s/_sound|sound]] or [[h/_heavy|heavy]].**
 	- _Example: The hypnotist then proceeded to deepen his trance._
 - **To [[b/_become|become]] [[d/_deeper|deeper]]**
 	- _Example: The water deepens as you go toward the middle of the channel._
@@ -25,7 +25,7 @@
 	- _Example: His skill in deciphering the texts deepened with practice._
 - **To [[b/_become|become]] [[m/_more|more]] [[i/_intimate|intimate]].**
 	- _Example: The conversation deepened and they began to truly share._
-- **To [[b/_become|become]] [[m/_more|more]] sound or [[h/_heavy|heavy]].**
+- **To [[b/_become|become]] [[m/_more|more]] [[s/_sound|sound]] or [[h/_heavy|heavy]].**
 	- _Example: The new bed allowed my sleep to deepen._
 ---
 ### Synonyms

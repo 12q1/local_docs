@@ -1,6 +1,6 @@
 # Galliambic
 ---
 #adjective
-- **Relating to a [[g/_galliambus|galliambus]].**
+- **[[r/_relating|Relating]] to a [[g/_galliambus|galliambus]].**
 ---
 ---

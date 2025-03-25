@@ -1,6 +1,6 @@
 # Gossipy
 ---
 #adjective
-- **Prone to [[g/_gossip|gossip]].**
+- **[[p/_prone|Prone]] to [[g/_gossip|gossip]].**
 ---
 ---

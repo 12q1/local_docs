@@ -1,7 +1,7 @@
 # Jetliners
 ---
 #noun
-- **A [[j/_jet|jet]]-propelled [[a/_airliner|airliner]].**
+- **A [[j/_jet|jet]]-[[p/_propelled|propelled]] [[a/_airliner|airliner]].**
 ---
 ### Synonyms
 - 

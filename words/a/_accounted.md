@@ -1,7 +1,7 @@
 # Accounted
 ---
 #verb
-- **To provide [[e/_explanation|explanation]].**
+- **To [[p/_provide|provide]] [[e/_explanation|explanation]].**
 - **To [[c/_count|count]].**
 ---
 ---

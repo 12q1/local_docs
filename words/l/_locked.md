@@ -9,19 +9,19 @@
 	- _Example: This door locks with a key._
 - **To [[i/_intertwine|intertwine]] or [[d/_dovetail|dovetail]].**
 	- _Example: We locked arms and stepped out into the night._
-- **([[b/_break|break]] [[d/_dancing|dancing]]) To [[f/_freeze|freeze]] [[o/_one|one]]'s [[b/_body|body]] or a [[p/_part|part]] thereof in [[p/_place|place]].**
+- **([[b/_break|break]] [[d/_dancing|dancing]]) To [[f/_freeze|freeze]] [[o/_one|one]]'[[s/_s|s]] [[b/_body|body]] or a [[p/_part|part]] thereof in [[p/_place|place]].**
 	- _Example: a pop and lock routine_
 - **To [[f/_furnish|furnish]] (a [[c/_canal|canal]]) with [[l/_locks|locks]].**
-- **To raise or [[l/_lower|lower]] (a [[b/_boat|boat]]) in a [[l/_lock|lock]].**
-- **To seize ([[e/_e|e]].[[g/_g|g]]. the sword [[a/_arm|arm]] of an [[a/_antagonist|antagonist]]) by turning the [[l/_left|left]] [[a/_arm|arm]] [[a/_around|around]] it, to [[d/_disarm|disarm]] [[h/_him|him]].**
-- **To [[m/_modify|modify]] (a thread) so that users [[c/_cannot|cannot]] [[m/_make|make]] [[n/_new|new]] [[p/_posts|posts]] in it.**
-- **(WMF [[j/_jargon|jargon]]) To prevent a [[p/_page|page]] from [[b/_being|being]] [[e/_edited|edited]] by [[o/_other|other]] users.**
+- **To [[r/_raise|raise]] or [[l/_lower|lower]] (a [[b/_boat|boat]]) in a [[l/_lock|lock]].**
+- **To [[s/_seize|seize]] ([[e/_e|e]].[[g/_g|g]]. the sword [[a/_arm|arm]] of an [[a/_antagonist|antagonist]]) by turning the [[l/_left|left]] [[a/_arm|arm]] [[a/_around|around]] it, to [[d/_disarm|disarm]] [[h/_him|him]].**
+- **To [[m/_modify|modify]] (a thread) [[s/_so|so]] that users [[c/_cannot|cannot]] [[m/_make|make]] [[n/_new|new]] [[p/_posts|posts]] in it.**
+- **(WMF [[j/_jargon|jargon]]) To [[p/_prevent|prevent]] a [[p/_page|page]] from [[b/_being|being]] [[e/_edited|edited]] by [[o/_other|other]] users.**
 	- _Example: Frequently vandalized pages are generally locked to prevent further damage._
 ---
 ### Antonyms
 - [[u/_unlock|unlock]]
 #adjective
-- **[[h/_having|Having]] undergone [[l/_locking|locking]]; secured by a [[l/_lock|lock]].**
+- **[[h/_having|Having]] undergone [[l/_locking|locking]]; [[s/_secured|secured]] by a [[l/_lock|lock]].**
 	- _Example: A locked door barred the way._
 - **([[d/_dublin|Dublin]]) Very [[d/_drunk|drunk]].**
 - **(of a [[p/_phone|phone]]) [[b/_bound|Bound]] to a [[c/_carrier|carrier]].**

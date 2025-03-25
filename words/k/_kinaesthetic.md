@@ -1,6 +1,6 @@
 # Kinaesthetic
 ---
 #adjective
-- **Of or relating to [[k/_kinesthesia|kinesthesia]].**
+- **Of or [[r/_relating|relating]] to [[k/_kinesthesia|kinesthesia]].**
 ---
 ---

@@ -7,7 +7,7 @@
 ---
 #adjective
 - **With specified [[c/_conditions|conditions]].**
-- **Within set [[b/_boundaries|boundaries]] or [[l/_limits|limits]].**
+- **Within [[s/_set|set]] [[b/_boundaries|boundaries]] or [[l/_limits|limits]].**
 ---
 ### Synonyms
 - [[b/_bounded|bounded]], [[d/_demarcated|demarcated]]

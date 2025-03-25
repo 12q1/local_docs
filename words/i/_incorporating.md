@@ -1,9 +1,9 @@
 # Incorporating
 ---
 #verb
-- **To [[i/_include|include]] (something) as a [[p/_part|part]].**
+- **To [[i/_include|include]] ([[s/_something|something]]) as a [[p/_part|part]].**
 	- _Example: The design of his house incorporates a spiral staircase._
-- **To [[m/_mix|mix]] (something in) as an [[i/_ingredient|ingredient]]; to [[b/_blend|blend]]**
+- **To [[m/_mix|mix]] ([[s/_something|something]] in) as an [[i/_ingredient|ingredient]]; to [[b/_blend|blend]]**
 	- _Example: Incorporate air into the mixture._
 - **To [[a/_admit|admit]] as a [[m/_member|member]] of a [[c/_company|company]]**
 - **To [[f/_form|form]] [[i/_into|into]] a [[l/_legal|legal]] [[c/_company|company]].**

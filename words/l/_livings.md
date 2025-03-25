@@ -8,6 +8,6 @@
 	- _Example: What do you do for a living?_
 - **A style of [[l/_life|life]].**
 	- _Example: plain living_
-- **([[c/_canon|canon]] [[l/_law|law]]) A [[p/_position|position]] in a [[c/_church|church]] (usually the [[c/_church|Church]] of [[e/_england|England]]) that [[h/_has|has]] [[a/_attached|attached]] to it a source of [[i/_income|income]]; an [[e/_ecclesiastical|ecclesiastical]] [[b/_benefice|benefice]].**
+- **([[c/_canon|canon]] [[l/_law|law]]) A [[p/_position|position]] in a [[c/_church|church]] (usually the [[c/_church|Church]] of [[e/_england|England]]) that [[h/_has|has]] [[a/_attached|attached]] to it a [[s/_source|source]] of [[i/_income|income]]; an [[e/_ecclesiastical|ecclesiastical]] [[b/_benefice|benefice]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Boater
 ---
 #noun
-- **Someone who travels by [[b/_boat|boat]].**
+- **[[s/_someone|Someone]] who travels by [[b/_boat|boat]].**
 - **[[o/_one|One]] who works on a [[b/_boat|boat]], [[e/_especially|especially]] as [[c/_captain|captain]].**
 - **A straw [[h/_hat|hat]], very stiff, with a [[f/_flat|flat]] [[b/_brim|brim]] and [[c/_crown|crown]].**
 ---

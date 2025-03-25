@@ -1,14 +1,14 @@
 # Exceptional
 ---
 #noun
-- **An [[e/_exception|exception]], or something [[h/_having|having]] an [[e/_exceptional|exceptional]] value**
+- **An [[e/_exception|exception]], or [[s/_something|something]] [[h/_having|having]] an [[e/_exceptional|exceptional]] value**
 ---
 #adjective
-- **[[f/_forming|Forming]] an [[e/_exception|exception]]; not [[o/_ordinary|ordinary]]; uncommon; rare.**
+- **[[f/_forming|Forming]] an [[e/_exception|exception]]; not [[o/_ordinary|ordinary]]; uncommon; [[r/_rare|rare]].**
 	- _Example: What an exceptional flower!_
-- **[[b/_better|Better]] than the [[a/_average|average]]; superior [[d/_due|due]] to [[e/_exception|exception]] or rarity.**
+- **[[b/_better|Better]] than the [[a/_average|average]]; superior [[d/_due|due]] to [[e/_exception|exception]] or [[r/_rarity|rarity]].**
 	- _Example: The quality of the beer was exceptional._
-- **[[c/_corresponding|Corresponding]] to something of [[l/_lower|lower]] [[d/_dimension|dimension]] under a [[b/_birational|birational]] [[c/_correspondence|correspondence]].**
+- **[[c/_corresponding|Corresponding]] to [[s/_something|something]] of [[l/_lower|lower]] [[d/_dimension|dimension]] under a [[b/_birational|birational]] [[c/_correspondence|correspondence]].**
 	- _Example: an exceptional curve; an exceptional divisor_
 ---
 ### Synonyms

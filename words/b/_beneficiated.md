@@ -1,6 +1,6 @@
 # Beneficiated
 ---
 #verb
-- **To reduce ([[o/_ores|ores]]).**
+- **To [[r/_reduce|reduce]] ([[o/_ores|ores]]).**
 ---
 ---

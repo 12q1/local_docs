@@ -8,7 +8,7 @@
 ### Synonyms
 - [[c/_cockfighter|cockfighter]]
 #noun
-- **A rustic [[h/_high|high]] shoe; [[h/_half|half]]-[[b/_boot|boot]].**
+- **A [[r/_rustic|rustic]] [[h/_high|high]] [[s/_shoe|shoe]]; [[h/_half|half]]-[[b/_boot|boot]].**
 ---
 #noun
 - **[[f/_friend|Friend]], [[m/_mate|mate]].**

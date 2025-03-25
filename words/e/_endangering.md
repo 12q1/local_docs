@@ -1,10 +1,10 @@
 # Endangering
 ---
 #verb
-- **To put (someone or something) in [[d/_danger|danger]]; to risk [[c/_causing|causing]] [[h/_harm|harm]] to.**
-- **To [[i/_incur|incur]] the [[h/_hazard|hazard]] of; to risk; to run the risk of.**
+- **To [[p/_put|put]] ([[s/_someone|someone]] or [[s/_something|something]]) in [[d/_danger|danger]]; to [[r/_risk|risk]] [[c/_causing|causing]] [[h/_harm|harm]] to.**
+- **To [[i/_incur|incur]] the [[h/_hazard|hazard]] of; to [[r/_risk|risk]]; to [[r/_run|run]] the [[r/_risk|risk]] of.**
 ---
 #noun
-- **The [[a/_act|act]] of putting someone or something in [[d/_danger|danger]].**
+- **The [[a/_act|act]] of [[p/_putting|putting]] [[s/_someone|someone]] or [[s/_something|something]] in [[d/_danger|danger]].**
 ---
 ---

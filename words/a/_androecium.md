@@ -1,6 +1,6 @@
 # Androecium
 ---
 #noun
-- **The set of a [[f/_flower|flower]]'s stamens.**
+- **The [[s/_set|set]] of a [[f/_flower|flower]]'[[s/_s|s]] stamens.**
 ---
 ---

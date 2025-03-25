@@ -7,9 +7,9 @@
 	- _Example: We need to know what’s going on. We’ll bug his house._
 ---
 #adjective
-- **(on [[o/_one|one]]'s [[p/_person|person]] or of a telephone [[l/_line|line]], [[d/_dwelling|dwelling]], room, [[e/_etc|etc]].) [[c/_containing|Containing]] a [[b/_bug|bug]] ([[i/_interceptive|interceptive]] [[l/_listening|listening]] [[d/_device|device]]).**
+- **(on [[o/_one|one]]'[[s/_s|s]] [[p/_person|person]] or of a telephone [[l/_line|line]], [[d/_dwelling|dwelling]], [[r/_room|room]], [[e/_etc|etc]].) [[c/_containing|Containing]] a [[b/_bug|bug]] ([[i/_interceptive|interceptive]] [[l/_listening|listening]] [[d/_device|device]]).**
 	- _Example: I won't speak candidly since I don't know if her apartment is bugged or not._
-- **(of software, website, [[f/_feature|feature]], [[e/_etc|etc]]) [[a/_affected|Affected]] by a [[b/_bug|bug]].**
+- **(of [[s/_software|software]], website, [[f/_feature|feature]], [[e/_etc|etc]]) [[a/_affected|Affected]] by a [[b/_bug|bug]].**
 	- _Example: Version 0.50.0 was completely bugged for Linux._
 ---
 ---
