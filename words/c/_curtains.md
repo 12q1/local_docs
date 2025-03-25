@@ -19,7 +19,7 @@
 #noun
 - **(in [[r/_reference|reference]] to [[c/_curtains|curtains]] [[c/_closing|closing]] at the [[e/_end|end]] of a [[s/_stage|stage]] [[s/_show|show]]) An [[e/_end|end]], [[d/_death|death]]**
 	- _Example: "What if a bunch of scuba divers nosed about here?" / "Curtains for them, when our side-scan sonar sees them."_
-- **A [[r/_ring|ring]] of [[c/_clear|clear]] [[l/_liquid|liquid]], [[f/_forming|forming]] [[i/_into|into]] [[d/_drops|drops]], [[n/_near|near]] the top of a [[g/_glass|glass]] of [[f/_fortified|fortified]] wine; the [[r/_result|result]] of [[d/_differential|differential]] [[e/_evaporation|evaporation]] of [[a/_alcohol|alcohol]] and subsequent [[c/_changes|changes]] in surface tension; an [[e/_example|example]] of the Marangoni [[e/_effect|effect]]**
+- **A [[r/_ring|ring]] of [[c/_clear|clear]] [[l/_liquid|liquid]], [[f/_forming|forming]] [[i/_into|into]] [[d/_drops|drops]], [[n/_near|near]] the top of a [[g/_glass|glass]] of [[f/_fortified|fortified]] wine; the [[r/_result|result]] of [[d/_differential|differential]] [[e/_evaporation|evaporation]] of [[a/_alcohol|alcohol]] and [[s/_subsequent|subsequent]] [[c/_changes|changes]] in surface tension; an [[e/_example|example]] of the Marangoni [[e/_effect|effect]]**
 ---
 ### Synonyms
 - [[l/_legs|legs]]

@@ -1,7 +1,7 @@
 # Crystalloid
 ---
 #noun
-- **[[a/_any|Any]] substance that [[c/_can|can]] be [[c/_crystallized|crystallized]] from [[s/_solution|solution]]**
+- **[[a/_any|Any]] [[s/_substance|substance]] that [[c/_can|can]] be [[c/_crystallized|crystallized]] from [[s/_solution|solution]]**
 - **[[o/_one|One]] of the [[m/_microscopic|microscopic]] [[p/_particles|particles]] [[r/_resembling|resembling]] [[c/_crystals|crystals]], [[c/_consisting|consisting]] of [[p/_protein|protein]] [[m/_matter|matter]], which [[o/_occur|occur]] in [[c/_certain|certain]] [[p/_plant|plant]] [[c/_cells|cells]].**
 ---
 #adjective

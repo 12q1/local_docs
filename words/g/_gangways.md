@@ -1,9 +1,9 @@
 # Gangways
 ---
 #noun
-- **A [[p/_passageway|passageway]] through which to [[e/_enter|enter]] or [[l/_leave|leave]], such as [[o/_one|one]] [[b/_between|between]] [[s/_seating|seating]] [[a/_areas|areas]] in an [[a/_auditorium|auditorium]], or [[b/_between|between]] two [[b/_buildings|buildings]].**
-- **An [[a/_articulating|articulating]] [[b/_bridge|bridge]] or [[r/_ramp|ramp]], such as from [[l/_land|land]] to a [[d/_dock|dock]] or a [[s/_ship|ship]].**
-- **A temporary [[p/_passageway|passageway]], such as [[o/_one|one]] [[m/_made|made]] of [[p/_planks|planks]].**
+- **A [[p/_passageway|passageway]] through which to [[e/_enter|enter]] or [[l/_leave|leave]], [[s/_such|such]] as [[o/_one|one]] [[b/_between|between]] [[s/_seating|seating]] [[a/_areas|areas]] in an [[a/_auditorium|auditorium]], or [[b/_between|between]] two [[b/_buildings|buildings]].**
+- **An [[a/_articulating|articulating]] [[b/_bridge|bridge]] or [[r/_ramp|ramp]], [[s/_such|such]] as from [[l/_land|land]] to a [[d/_dock|dock]] or a [[s/_ship|ship]].**
+- **A temporary [[p/_passageway|passageway]], [[s/_such|such]] as [[o/_one|one]] [[m/_made|made]] of [[p/_planks|planks]].**
 - **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[d/_dialectal|dialectal]]) A [[c/_clear|clear]] [[p/_path|path]] through a [[c/_crowd|crowd]] or a [[p/_passageway|passageway]] with [[p/_people|people]].**
 - **An [[a/_aisle|aisle]].**
 - **A [[p/_passage|passage]] [[a/_along|along]] [[e/_either|either]] [[s/_side|side]] of a [[s/_ship|ship]]'[[s/_s|s]] upper [[d/_deck|deck]].**

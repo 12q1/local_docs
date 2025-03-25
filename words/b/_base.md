@@ -6,7 +6,7 @@
 - **A [[p/_permanent|permanent]] [[s/_structure|structure]] for [[h/_housing|housing]] [[m/_military|military]] [[p/_personnel|personnel]] and [[m/_material|material]].**
 - **The [[p/_place|place]] where [[d/_decisions|decisions]] for an [[o/_organization|organization]] are [[m/_made|made]]; [[h/_headquarters|headquarters]].**
 - **A [[b/_basic|basic]] but [[e/_essential|essential]] [[c/_component|component]] or [[i/_ingredient|ingredient]].**
-- **A substance used as a [[m/_mordant|mordant]] in [[d/_dyeing|dyeing]].**
+- **A [[s/_substance|substance]] used as a [[m/_mordant|mordant]] in [[d/_dyeing|dyeing]].**
 - **[[f/_foundation|Foundation]]: a [[c/_cosmetic|cosmetic]] [[c/_cream|cream]] to [[m/_make|make]] the [[f/_face|face]] [[a/_appear|appear]] uniform.**
 - **[[a/_any|Any]] of a [[c/_class|class]] of [[g/_generally|generally]] water-[[s/_soluble|soluble]] [[c/_compounds|compounds]], [[h/_having|having]] [[b/_bitter|bitter]] taste, that turn [[r/_red|red]] [[l/_litmus|litmus]] [[b/_blue|blue]], and [[r/_react|react]] with [[a/_acids|acids]] to [[f/_form|form]] [[s/_salts|salts]].**
 - **[[i/_important|Important]] [[a/_areas|areas]] in [[g/_games|games]] and [[s/_sports|sports]].**

@@ -49,7 +49,7 @@
 	- _Example: Ten minutes down and nothing's happened yet._
 - **([[p/_police|police]], of a [[p/_person|person]]) Wounded and unable to [[m/_move|move]] [[n/_normally|normally]], or [[k/_killed|killed]].**
 	- _Example: There are three soldiers down and one walking wounded._
-- **(of an [[a/_aircraft|aircraft]]) [[m/_mechanically|Mechanically]] [[f/_failed|failed]], [[c/_collided|collided]], [[s/_shot|shot]] [[d/_down|down]], or [[o/_otherwise|otherwise]] suddenly unable to [[f/_fly|fly]].**
+- **(of an [[a/_aircraft|aircraft]]) [[m/_mechanically|Mechanically]] [[f/_failed|failed]], [[c/_collided|collided]], [[s/_shot|shot]] [[d/_down|down]], or [[o/_otherwise|otherwise]] [[s/_suddenly|suddenly]] unable to [[f/_fly|fly]].**
 	- _Example: We have a chopper down near the river._
 - **Thoroughly [[p/_practiced|practiced]], [[l/_learned|learned]] or memorised; [[m/_mastered|mastered]]. ([[c/_compare|Compare]] [[d/_down|down]] [[p/_pat|pat]].)**
 	- _Example: It's two weeks until opening night and our lines are still not down yet._
@@ -74,10 +74,10 @@
 - **Towards the [[o/_opponent|opponent]]'[[s/_s|s]] [[s/_side|side]] (in [[b/_ball|ball]]-[[s/_sports|sports]]).**
 - **[[i/_into|Into]] a [[s/_state|state]] of [[n/_non|non]]-[[o/_operation|operation]].**
 	- _Example: The computer has been shut down._
-- **To a subordinate or [[l/_less|less]] [[p/_prestigious|prestigious]] [[p/_position|position]] or [[r/_rank|rank]].**
+- **To a [[s/_subordinate|subordinate]] or [[l/_less|less]] [[p/_prestigious|prestigious]] [[p/_position|position]] or [[r/_rank|rank]].**
 	- _Example: After the incident, Kelly went down to Second Lieutenant._
 - **In the [[d/_direction|direction]] [[l/_leading|leading]] [[a/_away|away]] from the [[p/_principal|principal]] terminus, [[a/_away|away]] from [[m/_milepost|milepost]] zero.**
-- **([[s/_sentence|sentence]] substitute) [[g/_get|Get]] [[d/_down|down]].**
+- **([[s/_sentence|sentence]] [[s/_substitute|substitute]]) [[g/_get|Get]] [[d/_down|down]].**
 	- _Example: Down, boy! (such as to direct a dog to stand on four legs from two, or to sit from standing on four legs.)_
 - **([[a/_academia|academia]]) [[a/_away|Away]] from [[o/_oxford|Oxford]] or [[c/_cambridge|Cambridge]].**
 	- _Example: He's gone back down to Newcastle for Christmas._

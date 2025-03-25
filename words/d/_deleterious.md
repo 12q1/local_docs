@@ -1,7 +1,7 @@
 # Deleterious
 ---
 #adjective
-- **[[h/_harmful|Harmful]] [[o/_often|often]] in a subtle or unexpected way.**
+- **[[h/_harmful|Harmful]] [[o/_often|often]] in a [[s/_subtle|subtle]] or unexpected way.**
 	- _Example: deleterious effects_
 - **[[h/_having|Having]] [[l/_lower|lower]] [[f/_fitness|fitness]].**
 ---

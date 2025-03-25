@@ -25,7 +25,7 @@
 - **The [[s/_step|step]] of a [[l/_ladder|ladder]]; a [[r/_rung|rung]].**
 - **A [[b/_bolting|bolting]] [[s/_sieve|sieve]] to [[s/_sift|sift]] [[m/_meal|meal]].**
 - **A wandering or [[r/_roving|roving]]; a [[g/_going|going]] to and [[f/_fro|fro]]; an [[e/_excursion|excursion]]; a [[r/_ramble|ramble]]; an [[e/_expedition|expedition]].**
-- **In the [[p/_public|public]] [[l/_land|land]] [[s/_system|system]], a [[r/_row|row]] or [[l/_line|line]] of townships [[l/_lying|lying]] [[b/_between|between]] two succession [[m/_meridian|meridian]] [[l/_lines|lines]] [[s/_six|six]] [[m/_miles|miles]] [[a/_apart|apart]].**
+- **In the [[p/_public|public]] [[l/_land|land]] [[s/_system|system]], a [[r/_row|row]] or [[l/_line|line]] of townships [[l/_lying|lying]] [[b/_between|between]] two [[s/_succession|succession]] [[m/_meridian|meridian]] [[l/_lines|lines]] [[s/_six|six]] [[m/_miles|miles]] [[a/_apart|apart]].**
 - **The [[s/_scope|scope]] of [[s/_something|something]], the [[e/_extent|extent]] that [[s/_something|something]] [[c/_covers|covers]] or [[i/_includes|includes]].**
 - **The variety of [[r/_roles|roles]] that an [[a/_actor|actor]] [[c/_can|can]] [[p/_play|play]] in a [[s/_satisfactory|satisfactory]] way.**
 	- _Example: By playing in comedies as well as in dramas he has proved his acting range._
@@ -38,7 +38,7 @@
 - **To travel [[o/_over|over]] (an [[a/_area|area]], [[e/_etc|etc]]); to [[r/_roam|roam]], wander.**
 - **To [[r/_rove|rove]] [[o/_over|over]] or through.**
 	- _Example: to range the fields_
-- **To [[e/_exercise|exercise]] the [[p/_power|power]] of [[s/_something|something]] [[o/_over|over]] [[s/_something|something]] [[e/_else|else]]; to [[c/_cause|cause]] to submit to, [[o/_over|over]].**
+- **To [[e/_exercise|exercise]] the [[p/_power|power]] of [[s/_something|something]] [[o/_over|over]] [[s/_something|something]] [[e/_else|else]]; to [[c/_cause|cause]] to [[s/_submit|submit]] to, [[o/_over|over]].**
 - **To [[b/_bring|bring]] ([[s/_something|something]]) [[i/_into|into]] a [[s/_specified|specified]] [[p/_position|position]] or [[r/_relationship|relationship]] ([[e/_especially|especially]], of [[o/_opposition|opposition]]) with [[s/_something|something]] [[e/_else|else]].**
 - **([[f/_followed|followed]] by [[o/_over|over]]) Of a variable, to be [[a/_able|able]] to take [[a/_any|any]] of the values in a [[s/_specified|specified]] [[r/_range|range]].**
 	- _Example: The variable x ranges over all real values from 0 to 10._

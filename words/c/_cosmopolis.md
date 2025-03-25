@@ -1,6 +1,6 @@
 # Cosmopolis
 ---
 #noun
-- **An [[i/_important|important]] [[c/_city|city]], such as a [[c/_capital|capital]] [[c/_city|city]], [[i/_inhabited|inhabited]] by [[p/_people|people]] from a [[d/_diverse|diverse]] [[r/_range|range]] of [[c/_cultural|cultural]] [[b/_backgrounds|backgrounds]].**
+- **An [[i/_important|important]] [[c/_city|city]], [[s/_such|such]] as a [[c/_capital|capital]] [[c/_city|city]], [[i/_inhabited|inhabited]] by [[p/_people|people]] from a [[d/_diverse|diverse]] [[r/_range|range]] of [[c/_cultural|cultural]] [[b/_backgrounds|backgrounds]].**
 ---
 ---

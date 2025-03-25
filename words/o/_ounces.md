@@ -11,7 +11,7 @@
 ### Synonyms
 - [[℥/_℥|℥]]
 #noun
-- **A [[l/_large|large]] wild [[f/_feline|feline]], such as a [[l/_lynx|lynx]] or [[c/_cougar|cougar]].**
+- **A [[l/_large|large]] wild [[f/_feline|feline]], [[s/_such|such]] as a [[l/_lynx|lynx]] or [[c/_cougar|cougar]].**
 - **[[n/_now|Now]] [[s/_specifically|specifically]], the [[s/_snow|snow]] [[l/_leopard|leopard]], Uncia uncia.**
 ---
 ---

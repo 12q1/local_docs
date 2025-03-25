@@ -1,7 +1,7 @@
 # Idyllic
 ---
 #noun
-- **An [[i/_idyllic|idyllic]] [[s/_state|state]] or [[s/_situation|situation]]. (A substantive use of the [[a/_adjective|adjective]])**
+- **An [[i/_idyllic|idyllic]] [[s/_state|state]] or [[s/_situation|situation]]. (A [[s/_substantive|substantive]] use of the [[a/_adjective|adjective]])**
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to [[i/_idylls|idylls]].**

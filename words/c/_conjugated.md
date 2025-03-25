@@ -9,6 +9,6 @@
 ---
 #adjective
 - **[[j/_joined|Joined]] together in [[p/_pairs|pairs]].**
-- **Of an [[o/_organic|organic]] [[c/_compound|compound]] or [[p/_part|part]] of such a [[c/_compound|compound]], [[c/_containing|containing]] [[o/_one|one]] or [[m/_more|more]] [[p/_pairs|pairs]] of [[d/_double|double]] [[b/_bonds|bonds]] and/or [[l/_lone|lone]] [[p/_pairs|pairs]], [[e/_each|each]] [[p/_pair|pair]] [[b/_being|being]] [[s/_separated|separated]] by a [[s/_single|single]] [[b/_bond|bond]].**
+- **Of an [[o/_organic|organic]] [[c/_compound|compound]] or [[p/_part|part]] of [[s/_such|such]] a [[c/_compound|compound]], [[c/_containing|containing]] [[o/_one|one]] or [[m/_more|more]] [[p/_pairs|pairs]] of [[d/_double|double]] [[b/_bonds|bonds]] and/or [[l/_lone|lone]] [[p/_pairs|pairs]], [[e/_each|each]] [[p/_pair|pair]] [[b/_being|being]] [[s/_separated|separated]] by a [[s/_single|single]] [[b/_bond|bond]].**
 ---
 ---

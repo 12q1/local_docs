@@ -5,7 +5,7 @@
 - **A [[b/_bungle|bungle]]; a [[b/_botched|botched]] [[s/_situation|situation]].**
 ---
 #verb
-- **[[e/_either|Either]] [[l/_literally|literally]] or [[f/_figuratively|figuratively]] to [[s/_stop|stop]] or [[h/_hesitate|hesitate]] as [[i/_if|if]] suddenly [[s/_seeing|seeing]] a [[b/_bogle|bogle]].**
+- **[[e/_either|Either]] [[l/_literally|literally]] or [[f/_figuratively|figuratively]] to [[s/_stop|stop]] or [[h/_hesitate|hesitate]] as [[i/_if|if]] [[s/_suddenly|suddenly]] [[s/_seeing|seeing]] a [[b/_bogle|bogle]].**
 	- _Example: The dogs went on, but the horse boggled at the sudden appearance of the strange beast._
 - **To be [[b/_bewildered|bewildered]], [[d/_dumbfounded|dumbfounded]], or [[c/_confused|confused]].**
 	- _Example: He boggled at the surprising news._

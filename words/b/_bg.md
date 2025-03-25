@@ -3,7 +3,7 @@
 #noun
 - **[[o/_one|One]]'[[s/_s|s]] [[s/_social|social]] [[h/_heritage|heritage]], or [[p/_previous|previous]] [[l/_life|life]]; what [[o/_one|one]] [[d/_did|did]] in the [[p/_past|past]].**
 	- _Example: The lawyer had a background in computer science._
-- **A [[p/_part|part]] of the [[p/_picture|picture]] that [[d/_depicts|depicts]] [[s/_scenery|scenery]] to the [[r/_rear|rear]] or [[b/_behind|behind]] the [[m/_main|main]] subject; [[c/_context|context]].**
+- **A [[p/_part|part]] of the [[p/_picture|picture]] that [[d/_depicts|depicts]] [[s/_scenery|scenery]] to the [[r/_rear|rear]] or [[b/_behind|behind]] the [[m/_main|main]] [[s/_subject|subject]]; [[c/_context|context]].**
 - **[[i/_information|Information]] [[r/_relevant|relevant]] to the [[c/_current|current]] [[s/_situation|situation]] [[a/_about|about]] [[p/_past|past]] [[e/_events|events]]; [[h/_history|history]].**
 - **A [[l/_less|less]] [[i/_important|important]] [[f/_feature|feature]] of [[s/_scenery|scenery]] (as [[o/_opposed|opposed]] to [[f/_foreground|foreground]]).**
 	- _Example: The photographer let us pick a background for the portrait._

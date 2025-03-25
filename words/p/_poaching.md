@@ -16,6 +16,6 @@
 - **To [[e/_entice|entice]] (an [[e/_employee|employee]] or [[c/_customer|customer]]) to switch from a [[c/_competing|competing]] [[c/_company|company]] to [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]].**
 ---
 #noun
-- **[[i/_illegal|Illegal]] [[p/_procurement|procurement]] of [[p/_protected|protected]] wildlife such as [[f/_fish|fish]], [[g/_game|game]], [[l/_logging|logging]], or [[p/_plant|plant]] [[c/_collecting|collecting]].**
+- **[[i/_illegal|Illegal]] [[p/_procurement|procurement]] of [[p/_protected|protected]] wildlife [[s/_such|such]] as [[f/_fish|fish]], [[g/_game|game]], [[l/_logging|logging]], or [[p/_plant|plant]] [[c/_collecting|collecting]].**
 ---
 ---

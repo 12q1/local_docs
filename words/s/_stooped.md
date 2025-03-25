@@ -8,8 +8,8 @@
 - **Of a [[b/_bird|bird]] of [[p/_prey|prey]]: to swoop [[d/_down|down]] on [[i/_its|its]] [[p/_prey|prey]].**
 - **To [[c/_cause|cause]] to [[i/_incline|incline]] [[d/_downward|downward]]; to [[s/_slant|slant]].**
 	- _Example: to stoop a cask of liquor_
-- **To [[c/_cause|cause]] to submit; to [[p/_prostrate|prostrate]].**
-- **To [[y/_yield|yield]]; to submit; to [[b/_bend|bend]], as by [[c/_compulsion|compulsion]]; to [[a/_assume|assume]] a [[p/_position|position]] of [[h/_humility|humility]] or subjection.**
+- **To [[c/_cause|cause]] to [[s/_submit|submit]]; to [[p/_prostrate|prostrate]].**
+- **To [[y/_yield|yield]]; to [[s/_submit|submit]]; to [[b/_bend|bend]], as by [[c/_compulsion|compulsion]]; to [[a/_assume|assume]] a [[p/_position|position]] of [[h/_humility|humility]] or [[s/_subjection|subjection]].**
 - **To [[d/_descend|descend]] from [[r/_rank|rank]] or [[d/_dignity|dignity]]; to [[c/_condescend|condescend]].**
 - **To [[d/_degrade|degrade]].**
 ---

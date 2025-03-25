@@ -26,7 +26,7 @@
 - **([[a/_antarctica|Antarctica]]) A [[c/_crack|crack]] or [[f/_fissure|fissure]] in a [[g/_glacier|glacier]] or [[s/_snowfield|snowfield]]; a [[c/_chasm|chasm]]; a [[c/_crevasse|crevasse]].**
 ---
 #verb
-- **To [[p/_put|put]] [[s/_something|something]] (such as a [[c/_coin|coin]]) [[i/_into|into]] a [[s/_slot|slot]] ([[n/_narrow|narrow]] [[a/_aperture|aperture]])**
+- **To [[p/_put|put]] [[s/_something|something]] ([[s/_such|such]] as a [[c/_coin|coin]]) [[i/_into|into]] a [[s/_slot|slot]] ([[n/_narrow|narrow]] [[a/_aperture|aperture]])**
 - **To [[a/_assign|assign]] [[s/_something|something]] or [[s/_someone|someone]] [[i/_into|into]] a [[s/_slot|slot]] ([[g/_gap|gap]] in a [[s/_schedule|schedule]] or [[s/_sequence|sequence]])**
 - **To [[p/_put|put]] [[s/_something|something]] where it [[b/_belongs|belongs]].**
 - **([[r/_rhodesia|Rhodesia]], in the [[c/_context|context]] of the [[r/_rhodesian|Rhodesian]] [[b/_bush|Bush]] War) To [[k/_kill|kill]].**

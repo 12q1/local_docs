@@ -12,12 +12,12 @@
 - **A [[p/_pickpocket|pickpocket]].**
 - **A [[s/_sauce|sauce]] for [[d/_dipping|dipping]].**
 	- _Example: This onion dip is just scrumptious._
-- **The [[a/_angle|angle]] from [[h/_horizontal|horizontal]] of a [[p/_planar|planar]] [[g/_geologic|geologic]] surface, such as a [[f/_fault|fault]] [[l/_line|line]].**
+- **The [[a/_angle|angle]] from [[h/_horizontal|horizontal]] of a [[p/_planar|planar]] [[g/_geologic|geologic]] surface, [[s/_such|such]] as a [[f/_fault|fault]] [[l/_line|line]].**
 - **A [[d/_dipped|dipped]] [[c/_candle|candle]].**
 - **A [[m/_move|move]] in [[m/_many|many]] [[d/_different|different]] [[s/_styles|styles]] of [[p/_partner|partner]] [[d/_dances|dances]], [[o/_often|often]] [[p/_performed|performed]] at the [[e/_end|end]] of a [[d/_dance|dance]], in which the [[f/_follower|follower]] [[l/_leans|leans]] [[f/_far|far]] to the [[s/_side|side]] and is supported by the [[l/_leader|leader]]**
 - **A [[g/_gymnastic|gymnastic]] [[e/_exercise|exercise]] on the [[p/_parallel|parallel]] [[b/_bars|bars]] in which the [[p/_performer|performer]], [[r/_resting|resting]] on [[h/_his|his]] [[h/_hands|hands]], [[l/_lets|lets]] [[h/_his|his]] [[a/_arms|arms]] [[b/_bend|bend]] and [[h/_his|his]] [[b/_body|body]] [[s/_sink|sink]] until [[h/_his|his]] [[c/_chin|chin]] is [[l/_level|level]] with the [[b/_bars|bars]], and then [[r/_raises|raises]] [[h/_himself|himself]] by [[s/_straightening|straightening]] [[h/_his|his]] [[a/_arms|arms]].**
-- **In the turpentine [[i/_industry|industry]], the viscid [[e/_exudation|exudation]] that is [[d/_dipped|dipped]] [[o/_out|out]] from [[i/_incisions|incisions]] in the trees. Virgin [[d/_dip|dip]] is the [[r/_runnings|runnings]] of the [[f/_first|first]] [[y/_year|year]], [[y/_yellow|yellow]] [[d/_dip|dip]] the [[r/_runnings|runnings]] of subsequent [[y/_years|years]].**
-- **A sudden [[d/_drop|drop]] [[f/_followed|followed]] by a [[c/_climb|climb]], usually to [[a/_avoid|avoid]] [[o/_obstacles|obstacles]] or as the [[r/_result|result]] of [[g/_getting|getting]] [[i/_into|into]] an airhole.**
+- **In the turpentine [[i/_industry|industry]], the viscid [[e/_exudation|exudation]] that is [[d/_dipped|dipped]] [[o/_out|out]] from [[i/_incisions|incisions]] in the trees. Virgin [[d/_dip|dip]] is the [[r/_runnings|runnings]] of the [[f/_first|first]] [[y/_year|year]], [[y/_yellow|yellow]] [[d/_dip|dip]] the [[r/_runnings|runnings]] of [[s/_subsequent|subsequent]] [[y/_years|years]].**
+- **A [[s/_sudden|sudden]] [[d/_drop|drop]] [[f/_followed|followed]] by a [[c/_climb|climb]], usually to [[a/_avoid|avoid]] [[o/_obstacles|obstacles]] or as the [[r/_result|result]] of [[g/_getting|getting]] [[i/_into|into]] an airhole.**
 - **The [[m/_moist|moist]] [[f/_form|form]] of [[s/_snuff|snuff]] tobacco.**
 - **The [[a/_act|act]] of [[m/_missing|missing]] [[o/_out|out]] on [[s/_seeing|seeing]] a [[s/_sought|sought]] [[a/_after|after]] [[b/_bird|bird]].**
 ---
@@ -39,12 +39,12 @@
 - **To [[p/_plunge|plunge]] or [[e/_engage|engage]] thoroughly in [[a/_any|any]] [[a/_affair|affair]].**
 - **To take [[o/_out|out]], by [[d/_dipping|dipping]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]], or [[o/_other|other]] [[r/_receptacle|receptacle]], [[i/_into|into]] a [[f/_fluid|fluid]] and [[r/_removing|removing]] a [[p/_part|part]]; [[o/_often|often]] with [[o/_out|out]].**
 	- _Example: to dip water from a boiler; to dip out water_
-- **To [[p/_perform|perform]] the [[a/_action|action]] of [[p/_plunging|plunging]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]]. [[e/_etc|etc]]. [[i/_into|into]] a [[l/_liquid|liquid]] or [[s/_soft|soft]] substance and [[r/_removing|removing]] a [[p/_part|part]].**
+- **To [[p/_perform|perform]] the [[a/_action|action]] of [[p/_plunging|plunging]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]]. [[e/_etc|etc]]. [[i/_into|into]] a [[l/_liquid|liquid]] or [[s/_soft|soft]] [[s/_substance|substance]] and [[r/_removing|removing]] a [[p/_part|part]].**
 - **To [[e/_engage|engage]] as a [[p/_pledge|pledge]]; to [[m/_mortgage|mortgage]].**
 - **To [[p/_perform|perform]] (a [[b/_bow|bow]] or [[c/_curtsey|curtsey]]) by [[i/_inclining|inclining]] the [[b/_body|body]].**
 - **To [[i/_incline|incline]] [[d/_downward|downward]] from the [[p/_plane|plane]] of the [[h/_horizon|horizon]].**
 	- _Example: Strata of rock dip._
-- **To [[p/_perform|perform]] a [[d/_dip|dip]] [[d/_dance|dance]] [[m/_move|move]] ([[o/_often|often]] [[p/_phrased|phrased]] with the [[l/_leader|leader]] as the subject [[n/_noun|noun]] and the [[f/_follower|follower]] as the subject [[n/_noun|noun]] [[b/_being|being]] [[d/_dipped|dipped]])**
+- **To [[p/_perform|perform]] a [[d/_dip|dip]] [[d/_dance|dance]] [[m/_move|move]] ([[o/_often|often]] [[p/_phrased|phrased]] with the [[l/_leader|leader]] as the [[s/_subject|subject]] [[n/_noun|noun]] and the [[f/_follower|follower]] as the [[s/_subject|subject]] [[n/_noun|noun]] [[b/_being|being]] [[d/_dipped|dipped]])**
 - **To [[l/_lower|lower]] the [[b/_body|body]] by [[b/_bending|bending]] the [[k/_knees|knees]] while [[k/_keeping|keeping]] the [[b/_body|body]] in an upright [[p/_position|position]], as in [[m/_movement|movement]] to the [[r/_rhythm|rhythm]] of [[m/_music|music]].**
 - **To [[l/_leave|leave]].**
 	- _Example: He dipped out of the room so fast._

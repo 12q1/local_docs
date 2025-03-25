@@ -22,7 +22,7 @@
 - **To weaken, [[b/_become|become]] [[f/_feeble|feeble]].**
 	- _Example: His strength flagged toward the end of the race._
 - **To [[h/_hang|hang]] [[l/_loose|loose]] without [[s/_stiffness|stiffness]]; to [[b/_bend|bend]] [[d/_down|down]], as [[f/_flexible|flexible]] [[b/_bodies|bodies]]; to be [[l/_loose|loose]], [[y/_yielding|yielding]], [[l/_limp|limp]].**
-- **To [[l/_let|let]] [[d/_droop|droop]]; to suffer to [[f/_fall|fall]], or [[l/_let|let]] [[f/_fall|fall]], [[i/_into|into]] [[f/_feebleness|feebleness]].**
+- **To [[l/_let|let]] [[d/_droop|droop]]; to [[s/_suffer|suffer]] to [[f/_fall|fall]], or [[l/_let|let]] [[f/_fall|fall]], [[i/_into|into]] [[f/_feebleness|feebleness]].**
 	- _Example: to flag the wings_
 - **To [[e/_enervate|enervate]]; to [[e/_exhaust|exhaust]] the vigour or [[e/_elasticity|elasticity]] of.**
 ---

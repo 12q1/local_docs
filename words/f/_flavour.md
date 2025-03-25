@@ -3,7 +3,7 @@
 #noun
 - **The [[q/_quality|quality]] [[p/_produced|produced]] by the [[s/_sensation|sensation]] of taste or, [[e/_especially|especially]], of taste and [[s/_smell|smell]] in [[c/_combined|combined]] [[e/_effect|effect]].**
 	- _Example: The flavor of this apple pie is delicious._
-- **A substance used to [[p/_produce|produce]] a taste. [[f/_flavoring|Flavoring]].**
+- **A [[s/_substance|substance]] used to [[p/_produce|produce]] a taste. [[f/_flavoring|Flavoring]].**
 	- _Example: Flavor was added to the pudding._
 - **A variety (of taste) [[a/_attributed|attributed]] to an [[o/_object|object]].**
 	- _Example: What flavor of bubble gum do you enjoy?_

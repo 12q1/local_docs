@@ -6,7 +6,7 @@
 - **A [[j/_journalist|journalist]] who [[s/_sends|sends]] [[r/_reports|reports]] [[b/_back|back]] to a [[n/_newspaper|newspaper]] or [[r/_radio|radio]] or television [[s/_station|station]] from a [[d/_distant|distant]] or [[o/_overseas|overseas]] [[l/_location|location]].**
 ---
 #adjective
-- **[[c/_corresponding|Corresponding]]; suitable; [[a/_adapted|adapted]]; [[c/_congruous|congruous]].**
+- **[[c/_corresponding|Corresponding]]; [[s/_suitable|suitable]]; [[a/_adapted|adapted]]; [[c/_congruous|congruous]].**
 - **(with to or with) [[c/_conforming|Conforming]]; [[o/_obedient|obedient]].**
 ---
 ---

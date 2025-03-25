@@ -5,7 +5,7 @@
 	- _Example: When you've finished using the telephone, please replace the handset._
 - **To [[r/_refund|refund]]; to [[r/_repay|repay]]; to [[p/_pay|pay]] [[b/_back|back]]**
 	- _Example: You can take what you need from the petty cash, but you must replace it tomorrow morning._
-- **To supply or substitute an [[e/_equivalent|equivalent]] for**
+- **To supply or [[s/_substitute|substitute]] an [[e/_equivalent|equivalent]] for**
 	- _Example: I replaced my car with a newer model._
 - **To take [[o/_over|over]] the [[p/_position|position]] or [[r/_role|role]] from.**
 - **To take the [[p/_place|place]] of; to be used [[i/_instead|instead]] of**

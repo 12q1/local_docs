@@ -8,7 +8,7 @@
 - **To [[m/_make|make]] [[s/_something|something]] [[l/_less|less]] [[s/_severe|severe]] or tense.**
 	- _Example: to relax discipline_
 - **To [[b/_become|become]] [[l/_less|less]] [[s/_severe|severe]] or tense.**
-- **To [[m/_make|make]] [[s/_something|something]] (such as [[c/_codes|codes]] and [[r/_regulations|regulations]]) [[m/_more|more]] [[l/_lenient|lenient]].**
+- **To [[m/_make|make]] [[s/_something|something]] ([[s/_such|such]] as [[c/_codes|codes]] and [[r/_regulations|regulations]]) [[m/_more|more]] [[l/_lenient|lenient]].**
 - **(of [[c/_codes|codes]] and [[r/_regulations|regulations]]) To [[b/_become|become]] [[m/_more|more]] [[l/_lenient|lenient]].**
 - **To [[r/_relieve|relieve]] ([[s/_something|something]]) from [[s/_stress|stress]].**
 	- _Example: Amusement relaxes the mind._

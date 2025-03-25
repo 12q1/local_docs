@@ -8,7 +8,7 @@
 - **To [[p/_play|play]] a [[s/_section|section]] of a [[r/_record|record]] in [[r/_reverse|reverse]], as a [[d/_disc|disc]] [[j/_jockey|jockey]]; to [[a/_apply|apply]] spinback.**
 ---
 #noun
-- **A [[d/_disc|disc]] [[j/_jockey|jockey]]'[[s/_s|s]] technique of suddenly [[p/_playing|playing]] a [[s/_section|section]] of a [[r/_record|record]] in [[r/_reverse|reverse]].**
+- **A [[d/_disc|disc]] [[j/_jockey|jockey]]'[[s/_s|s]] technique of [[s/_suddenly|suddenly]] [[p/_playing|playing]] a [[s/_section|section]] of a [[r/_record|record]] in [[r/_reverse|reverse]].**
 ---
 ### Synonyms
 - [[b/_backspin|backspin]]

@@ -9,7 +9,7 @@
 - **[[s/_sentimentally|Sentimentally]] [[a/_affectionate|affectionate]].**
 - **Tending to [[k/_kiss|kiss]] [[f/_frequently|frequently]].**
 	- _Example: We sat behind an obnoxiously kissy couple in the cinema._
-- **Suited to [[k/_kissing|kissing]]; [[r/_resembling|resembling]] or [[r/_relating|relating]] to [[k/_kissing|kissing]].**
+- **[[s/_suited|Suited]] to [[k/_kissing|kissing]]; [[r/_resembling|resembling]] or [[r/_relating|relating]] to [[k/_kissing|kissing]].**
 	- _Example: kissy lips_
 ---
 ---

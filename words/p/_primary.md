@@ -4,7 +4,7 @@
 - **A [[p/_primary|primary]] [[e/_election|election]]; a [[p/_preliminary|preliminary]] [[e/_election|election]] to [[s/_select|select]] a [[p/_political|political]] [[c/_candidate|candidate]] of a [[p/_political|political]] [[p/_party|party]].**
 - **The [[f/_first|first]] [[y/_year|year]] of [[g/_grade|grade]] [[s/_school|school]].**
 - **A [[b/_base|base]] or [[f/_fundamental|fundamental]] [[c/_component|component]]; [[s/_something|something]] that is [[i/_irreducible|irreducible]].**
-- **The [[m/_most|most]] [[m/_massive|massive]] [[c/_component|component]] of a [[g/_gravitationally|gravitationally]] [[b/_bound|bound]] [[s/_system|system]], such as a [[p/_planet|planet]] in [[r/_relation|relation]] to [[i/_its|its]] [[s/_satellites|satellites]].**
+- **The [[m/_most|most]] [[m/_massive|massive]] [[c/_component|component]] of a [[g/_gravitationally|gravitationally]] [[b/_bound|bound]] [[s/_system|system]], [[s/_such|such]] as a [[p/_planet|planet]] in [[r/_relation|relation]] to [[i/_its|its]] [[s/_satellites|satellites]].**
 - **A [[p/_primary|primary]] [[s/_school|school]].**
 - **[[a/_any|Any]] [[f/_flight|flight]] [[f/_feather|feather]] [[a/_attached|attached]] to the [[m/_manus|manus]] ([[h/_hand|hand]]) of a [[b/_bird|bird]].**
 - **A [[p/_primary|primary]] [[c/_colour|colour]].**
@@ -22,8 +22,8 @@
 - **[[m/_main|Main]]; [[p/_principal|principal]]; [[c/_chief|chief]]; [[p/_placed|placed]] [[a/_ahead|ahead]] of [[o/_others|others]].**
 	- _Example: Preferred stock has primary claim on dividends, ahead of common stock._
 - **[[e/_earliest|Earliest]] [[f/_formed|formed]]; [[f/_fundamental|fundamental]].**
-- **[[i/_illustrating|Illustrating]], [[p/_possessing|possessing]], or [[c/_characterized|characterized]] by, [[s/_some|some]] [[q/_quality|quality]] or [[p/_property|property]] in the [[f/_first|first]] [[d/_degree|degree]]; [[h/_having|having]] undergone the [[f/_first|first]] [[s/_stage|stage]] of substitution or [[r/_replacement|replacement]].**
+- **[[i/_illustrating|Illustrating]], [[p/_possessing|possessing]], or [[c/_characterized|characterized]] by, [[s/_some|some]] [[q/_quality|quality]] or [[p/_property|property]] in the [[f/_first|first]] [[d/_degree|degree]]; [[h/_having|having]] undergone the [[f/_first|first]] [[s/_stage|stage]] of [[s/_substitution|substitution]] or [[r/_replacement|replacement]].**
 - **[[r/_relating|Relating]] to the [[p/_place|place]] where a [[d/_disorder|disorder]] or [[d/_disease|disease]] [[s/_started|started]] to [[o/_occur|occur]].**
-- **[[r/_relating|Relating]] to [[d/_day|day]]-to-[[d/_day|day]] [[c/_care|care]] [[p/_provided|provided]] by [[h/_health|health]] [[p/_professionals|professionals]] such as [[n/_nurses|nurses]], [[g/_general|general]] [[p/_practitioners|practitioners]], [[d/_dentists|dentists]] [[e/_etc|etc]].**
+- **[[r/_relating|Relating]] to [[d/_day|day]]-to-[[d/_day|day]] [[c/_care|care]] [[p/_provided|provided]] by [[h/_health|health]] [[p/_professionals|professionals]] [[s/_such|such]] as [[n/_nurses|nurses]], [[g/_general|general]] [[p/_practitioners|practitioners]], [[d/_dentists|dentists]] [[e/_etc|etc]].**
 ---
 ---

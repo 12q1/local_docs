@@ -5,7 +5,7 @@
 	- _Example: Zero, one, −1, 2.5, and pi are all numbers._
 - **A [[n/_numeral|numeral]]: a [[s/_symbol|symbol]] for a [[n/_non|non]]-[[n/_negative|negative]] [[i/_integer|integer]].**
 	- _Example: The number 8 is usually made with a single stroke._
-- **An [[e/_element|element]] of [[o/_one|one]] of [[s/_several|several]] [[s/_sets|sets]]: [[n/_natural|natural]] [[n/_numbers|numbers]], [[i/_integers|integers]], [[r/_rational|rational]] [[n/_numbers|numbers]], [[r/_real|real]] [[n/_numbers|numbers]], [[c/_complex|complex]] [[n/_numbers|numbers]], and [[s/_sometimes|sometimes]] [[e/_extensions|extensions]] such as [[h/_hypercomplex|hypercomplex]] [[n/_numbers|numbers]], [[e/_etc|etc]].**
+- **An [[e/_element|element]] of [[o/_one|one]] of [[s/_several|several]] [[s/_sets|sets]]: [[n/_natural|natural]] [[n/_numbers|numbers]], [[i/_integers|integers]], [[r/_rational|rational]] [[n/_numbers|numbers]], [[r/_real|real]] [[n/_numbers|numbers]], [[c/_complex|complex]] [[n/_numbers|numbers]], and [[s/_sometimes|sometimes]] [[e/_extensions|extensions]] [[s/_such|such]] as [[h/_hypercomplex|hypercomplex]] [[n/_numbers|numbers]], [[e/_etc|etc]].**
 	- _Example: The equation e^{i\pi}+1=0 includes the most important numbers: 1, 0, \pi, i, and e._
 - **([[f/_followed|Followed]] by a [[n/_numeral|numeral]]; used [[a/_attributively|attributively]]) [[i/_indicating|Indicating]] the [[p/_position|position]] of [[s/_something|something]] in a [[l/_list|list]] or [[s/_sequence|sequence]]. [[a/_abbreviations|Abbreviations]]: [[n/_no|No]] or [[n/_no|No]]., [[n/_no|no]] or [[n/_no|no]]. (in [[e/_each|each]] [[c/_case|case]], [[s/_sometimes|sometimes]] written with a superscript "[[o/_o|o]]", [[l/_like|like]] [[n/_n|N]]º or №). The [[s/_symbol|symbol]] "#" is [[a/_also|also]] used in this [[m/_manner|manner]].**
 	- _Example: Horse number 5 won the race._
@@ -29,7 +29,7 @@
 ### Synonyms
 - [[n/_numeral|numeral]], [[r/_rime|rime]], [[s/_scalar|scalar]]
 #noun
-- **A [[s/_symbol|symbol]] that is not a word and [[r/_represents|represents]] a [[n/_number|number]], such as the [[a/_arabic|Arabic]] [[n/_numerals|numerals]] 1, 2, 3 and the [[r/_roman|Roman]] [[n/_numerals|numerals]] [[i/_i|I]], V, X, [[l/_l|L]].**
+- **A [[s/_symbol|symbol]] that is not a word and [[r/_represents|represents]] a [[n/_number|number]], [[s/_such|such]] as the [[a/_arabic|Arabic]] [[n/_numerals|numerals]] 1, 2, 3 and the [[r/_roman|Roman]] [[n/_numerals|numerals]] [[i/_i|I]], V, X, [[l/_l|L]].**
 - **A word [[r/_representing|representing]] a [[n/_number|number]].**
 - **A [[c/_card|card]] whose [[r/_rank|rank]] is a [[n/_number|number]] (usually [[i/_including|including]] the [[a/_ace|ace]] as 1).**
 	- _Example: Jacks, queens, and kings are not numerals._

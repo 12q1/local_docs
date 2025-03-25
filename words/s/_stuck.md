@@ -27,7 +27,7 @@
 	- _Example: Once again, the world champion sticks the dismount._
 - **To [[p/_propagate|propagate]] [[p/_plants|plants]] by [[c/_cuttings|cuttings]].**
 	- _Example: Stick cuttings from geraniums promptly._
-- **([[j/_joinery|joinery]]) To [[r/_run|run]] or [[p/_plane|plane]] ([[m/_mouldings|mouldings]]) in a [[m/_machine|machine]], in [[c/_contradistinction|contradistinction]] to working them by [[h/_hand|hand]]. Such [[m/_mouldings|mouldings]] are [[s/_said|said]] to be [[s/_stuck|stuck]].**
+- **([[j/_joinery|joinery]]) To [[r/_run|run]] or [[p/_plane|plane]] ([[m/_mouldings|mouldings]]) in a [[m/_machine|machine]], in [[c/_contradistinction|contradistinction]] to working them by [[h/_hand|hand]]. [[s/_such|Such]] [[m/_mouldings|mouldings]] are [[s/_said|said]] to be [[s/_stuck|stuck]].**
 - **To [[b/_bring|bring]] to a [[h/_halt|halt]]; to [[s/_stymie|stymie]]; to [[p/_puzzle|puzzle]].**
 	- _Example: to stick somebody with a hard problem_
 - **To [[i/_impose|impose]] upon; to [[c/_compel|compel]] to [[p/_pay|pay]]; [[s/_sometimes|sometimes]], to [[c/_cheat|cheat]].**

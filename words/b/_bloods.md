@@ -6,7 +6,7 @@
 #noun
 - **A vital [[l/_liquid|liquid]] [[f/_flowing|flowing]] in the [[b/_bodies|bodies]] of [[m/_many|many]] types of [[a/_animals|animals]] that usually [[c/_conveys|conveys]] [[n/_nutrients|nutrients]] and [[o/_oxygen|oxygen]]. In vertebrates, it is [[c/_colored|colored]] [[r/_red|red]] by [[h/_hemoglobin|hemoglobin]], is [[c/_conveyed|conveyed]] by [[a/_arteries|arteries]] and veins, is [[p/_pumped|pumped]] by the [[h/_heart|heart]] and is usually [[g/_generated|generated]] in [[b/_bone|bone]] [[m/_marrow|marrow]].**
 	- _Example: The cultists gathered around a chalice of blood._
-- **A [[f/_family|family]] [[r/_relationship|relationship]] [[d/_due|due]] to [[b/_birth|birth]], such as that [[b/_between|between]] [[s/_siblings|siblings]]; [[c/_contrasted|contrasted]] with [[r/_relationships|relationships]] [[d/_due|due]] to [[m/_marriage|marriage]] or [[a/_adoption|adoption]] ([[s/_see|see]] [[b/_blood|blood]] [[r/_relative|relative]], [[b/_blood|blood]] [[r/_relation|relation]], by [[b/_blood|blood]]).**
+- **A [[f/_family|family]] [[r/_relationship|relationship]] [[d/_due|due]] to [[b/_birth|birth]], [[s/_such|such]] as that [[b/_between|between]] [[s/_siblings|siblings]]; [[c/_contrasted|contrasted]] with [[r/_relationships|relationships]] [[d/_due|due]] to [[m/_marriage|marriage]] or [[a/_adoption|adoption]] ([[s/_see|see]] [[b/_blood|blood]] [[r/_relative|relative]], [[b/_blood|blood]] [[r/_relation|relation]], by [[b/_blood|blood]]).**
 - **[[o/_one|One]] of the [[f/_four|four]] [[h/_humours|humours]] in the [[h/_human|human]] [[b/_body|body]].**
 - **A [[b/_blood|blood]] test or [[b/_blood|blood]] [[s/_sample|sample]].**
 - **The [[s/_sap|sap]] or [[j/_juice|juice]] which [[f/_flows|flows]] in or from [[p/_plants|plants]].**

@@ -24,7 +24,7 @@
 	- _Example: I scraped a pass in the exam._
 - **To [[c/_collect|collect]] or [[g/_gather|gather]], [[e/_especially|especially]] without [[r/_regard|regard]] to the [[q/_quality|quality]] of what is [[c/_chosen|chosen]].**
 	- _Example: Just use whatever you can scrape together._
-- **To [[e/_extract|extract]] [[d/_data|data]] by [[a/_automated|automated]] [[m/_means|means]] from a [[f/_format|format]] not [[i/_intended|intended]] to be [[m/_machine|machine]]-[[r/_readable|readable]], such as a screenshot or a [[f/_formatted|formatted]] web [[p/_page|page]].**
+- **To [[e/_extract|extract]] [[d/_data|data]] by [[a/_automated|automated]] [[m/_means|means]] from a [[f/_format|format]] not [[i/_intended|intended]] to be [[m/_machine|machine]]-[[r/_readable|readable]], [[s/_such|such]] as a screenshot or a [[f/_formatted|formatted]] web [[p/_page|page]].**
 - **To [[o/_occupy|occupy]] [[o/_oneself|oneself]] with [[g/_getting|getting]] [[l/_laboriously|laboriously]].**
 	- _Example: He scraped and saved until he became rich._
 - **To [[p/_play|play]] [[a/_awkwardly|awkwardly]] and [[i/_inharmoniously|inharmoniously]] on a violin or [[s/_similar|similar]] [[i/_instrument|instrument]].**

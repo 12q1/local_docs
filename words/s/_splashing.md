@@ -3,7 +3,7 @@
 #verb
 - **To [[h/_hit|hit]] or [[a/_agitate|agitate]] [[l/_liquid|liquid]] [[s/_so|so]] that [[p/_part|part]] of it [[s/_separates|separates]] from the [[p/_principal|principal]] [[l/_liquid|liquid]] [[m/_mass|mass]].**
 	- _Example: sit and splash in the bathtub_
-- **To [[d/_disperse|disperse]] a [[f/_fluid|fluid]] suddenly; to [[s/_splatter|splatter]].**
+- **To [[d/_disperse|disperse]] a [[f/_fluid|fluid]] [[s/_suddenly|suddenly]]; to [[s/_splatter|splatter]].**
 	- _Example: water splashed everywhere_
 - **To [[h/_hit|hit]] or [[e/_expel|expel]] [[l/_liquid|liquid]] at**
 	- _Example: The children were splashing each other playfully in the sea._

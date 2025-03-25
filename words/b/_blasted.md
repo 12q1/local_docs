@@ -4,7 +4,7 @@
 - **To [[m/_make|make]] an [[i/_impression|impression]] on, by [[m/_making|making]] a [[l/_loud|loud]] [[b/_blast|blast]] or [[d/_din|din]].**
 - **To [[m/_make|make]] a [[l/_loud|loud]] [[n/_noise|noise]].**
 - **To [[s/_shatter|shatter]], as [[i/_if|if]] by an [[e/_explosion|explosion]].**
-- **To [[o/_open|open]] up a [[h/_hole|hole]] in, usually by [[m/_means|means]] of a sudden and [[i/_imprecise|imprecise]] [[m/_method|method]] (such as an [[e/_explosion|explosion]]).**
+- **To [[o/_open|open]] up a [[h/_hole|hole]] in, usually by [[m/_means|means]] of a [[s/_sudden|sudden]] and [[i/_imprecise|imprecise]] [[m/_method|method]] ([[s/_such|such]] as an [[e/_explosion|explosion]]).**
 	- _Example: Blast right through it._
 - **To [[c/_curse|curse]]; to [[d/_damn|damn]].**
 	- _Example: Blast it! Foiled again._
@@ -23,9 +23,9 @@
 - **To [[r/_run|run]] a [[n/_nucleotide|nucleotide]] [[s/_sequence|sequence]] (for [[n/_nucleic|nucleic]] [[a/_acids|acids]]) or an [[a/_amino|amino]] [[a/_acid|acid]] [[s/_sequence|sequence]] (for [[p/_proteins|proteins]]) through a [[b/_blast|BLAST]] ([[b/_basic|Basic]] [[l/_local|Local]] [[a/_alignment|Alignment]] [[s/_search|Search]] Tool).**
 ---
 #adjective
-- **Subjected to an [[e/_explosion|explosion]].**
+- **[[s/_subjected|Subjected]] to an [[e/_explosion|explosion]].**
 	- _Example: The remains of the blasted tank were testament to the power of the landmine it had hit._
-- **Subjected to violent [[g/_gusts|gusts]] of wind.**
+- **[[s/_subjected|Subjected]] to violent [[g/_gusts|gusts]] of wind.**
 - **[[a/_accursed|Accursed]]; [[d/_damned|damned]].**
 	- _Example: I've tried for 2 hours to make this blasted part fit, and it still won’t go in._
 - **Whose [[b/_branches|branches]] [[b/_bear|bear]] [[n/_no|no]] [[l/_leaves|leaves]]; [[l/_leafless|leafless]].**

@@ -22,7 +22,7 @@
 	- _Example: a particular estate, or one precedent to an estate in remainder_
 - **[[h/_holding|Holding]] a [[p/_particular|particular]] [[e/_estate|estate]].**
 	- _Example: a particular tenant_
-- **[[f/_forming|Forming]] a [[p/_part|part]] of a [[g/_genus|genus]]; [[r/_relatively|relatively]] [[l/_limited|limited]] in [[e/_extension|extension]]; [[a/_affirmed|affirmed]] or [[d/_denied|denied]] of a [[p/_part|part]] of a subject.**
+- **[[f/_forming|Forming]] a [[p/_part|part]] of a [[g/_genus|genus]]; [[r/_relatively|relatively]] [[l/_limited|limited]] in [[e/_extension|extension]]; [[a/_affirmed|affirmed]] or [[d/_denied|denied]] of a [[p/_part|part]] of a [[s/_subject|subject]].**
 	- _Example: a particular proposition, opposed to "universal", e.g. (particular affirmative) "Some men are wise"; (particular negative) "Some men are not wise"._
 ---
 ### Synonyms

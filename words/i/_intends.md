@@ -3,7 +3,7 @@
 #verb
 - **(usually [[f/_followed|followed]] by the [[p/_particle|particle]] "to") To [[h/_hope|hope]]; to wish ([[s/_something|something]], or [[s/_something|something]] to be [[a/_accomplished|accomplished]]); be [[i/_intent|intent]] upon**
 	- _Example: He intends to go to university._
-- **To [[f/_fix|fix]] the [[m/_mind|mind]] on; [[a/_attend|attend]] to; take [[c/_care|care]] of; superintend; [[r/_regard|regard]].**
+- **To [[f/_fix|fix]] the [[m/_mind|mind]] on; [[a/_attend|attend]] to; take [[c/_care|care]] of; [[s/_superintend|superintend]]; [[r/_regard|regard]].**
 - **To [[s/_stretch|stretch]] to [[e/_extend|extend]]; [[d/_distend|distend]].**
 - **To [[s/_strain|strain]]; [[m/_make|make]] tense.**
 - **To [[i/_intensify|intensify]]; [[s/_strengthen|strengthen]].**

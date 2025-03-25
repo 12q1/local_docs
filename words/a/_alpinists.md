@@ -1,7 +1,7 @@
 # Alpinists
 ---
 #noun
-- **A [[s/_skier|skier]] who [[s/_specializes|specializes]] in [[a/_alpine|alpine]] [[s/_skiing|skiing]] (the [[d/_disciplines|disciplines]] of super-[[g/_g|G]], [[g/_giant|giant]] [[s/_slalom|slalom]], [[s/_slalom|slalom]], [[d/_downhill|downhill]])**
+- **A [[s/_skier|skier]] who [[s/_specializes|specializes]] in [[a/_alpine|alpine]] [[s/_skiing|skiing]] (the [[d/_disciplines|disciplines]] of [[s/_super|super]]-[[g/_g|G]], [[g/_giant|giant]] [[s/_slalom|slalom]], [[s/_slalom|slalom]], [[d/_downhill|downhill]])**
 ---
 ### Synonyms
 - [[a/_alpinist|alpinist]]

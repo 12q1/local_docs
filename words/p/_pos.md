@@ -18,7 +18,7 @@
 - **[[o/_overconfident|Overconfident]], [[d/_dogmatic|dogmatic]].**
 - **[[a/_actual|Actual]], [[r/_real|real]], [[c/_concrete|concrete]], not theoretical or [[s/_speculative|speculative]].**
 - **[[h/_having|Having]] [[m/_more|more]] [[p/_protons|protons]] than [[e/_electrons|electrons]].**
-- **([[g/_grammar|grammar]]) [[d/_describing|Describing]] the [[p/_primary|primary]] [[s/_sense|sense]] of an [[a/_adjective|adjective]], [[a/_adverb|adverb]] or [[n/_noun|noun]]; not [[c/_comparative|comparative]], superlative, [[a/_augmentative|augmentative]] [[n/_nor|nor]] [[d/_diminutive|diminutive]].**
+- **([[g/_grammar|grammar]]) [[d/_describing|Describing]] the [[p/_primary|primary]] [[s/_sense|sense]] of an [[a/_adjective|adjective]], [[a/_adverb|adverb]] or [[n/_noun|noun]]; not [[c/_comparative|comparative]], [[s/_superlative|superlative]], [[a/_augmentative|augmentative]] [[n/_nor|nor]] [[d/_diminutive|diminutive]].**
 	- _Example: ‘Better’ is an irregular comparative of the positive form ‘good’._
 - **[[d/_derived|Derived]] from an [[o/_object|object]] by [[i/_itself|itself]]; not [[d/_dependent|dependent]] on [[c/_changing|changing]] [[c/_circumstances|circumstances]] or [[r/_relations|relations]]; [[a/_absolute|absolute]].**
 	- _Example: The idea of beauty is not positive, but depends on the different tastes of individuals._

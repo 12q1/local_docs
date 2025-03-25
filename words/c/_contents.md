@@ -7,7 +7,7 @@
 ---
 #noun
 - **That which is [[c/_contained|contained]].**
-- **Subject [[m/_matter|matter]]; that which is [[c/_contained|contained]] in writing or [[s/_speech|speech]].**
+- **[[s/_subject|Subject]] [[m/_matter|matter]]; that which is [[c/_contained|contained]] in writing or [[s/_speech|speech]].**
 - **The [[a/_amount|amount]] of [[m/_material|material]] [[c/_contained|contained]]; [[c/_contents|contents]]**
 - **[[c/_capacity|Capacity]] for [[h/_holding|holding]]**
 - **The [[n/_n|n]]-[[d/_dimensional|dimensional]] [[s/_space|space]] [[c/_contained|contained]] by an [[n/_n|n]]-[[d/_dimensional|dimensional]] [[p/_polytope|polytope]] ([[c/_called|called]] volume in the [[c/_case|case]] of a [[p/_polyhedron|polyhedron]] and [[a/_area|area]] in the [[c/_case|case]] of a [[p/_polygon|polygon]])**

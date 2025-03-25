@@ -1,7 +1,7 @@
 # Predates
 ---
 #noun
-- **A [[p/_publication|publication]], such as a [[n/_newspaper|newspaper]] or [[m/_magazine|magazine]], that is [[i/_issued|issued]] with a [[p/_printed|printed]] [[d/_date|date]] [[l/_later|later]] than the [[d/_date|date]] of [[i/_issue|issue]].**
+- **A [[p/_publication|publication]], [[s/_such|such]] as a [[n/_newspaper|newspaper]] or [[m/_magazine|magazine]], that is [[i/_issued|issued]] with a [[p/_printed|printed]] [[d/_date|date]] [[l/_later|later]] than the [[d/_date|date]] of [[i/_issue|issue]].**
 ---
 #verb
 - **To [[d/_designate|designate]] a [[d/_date|date]] [[e/_earlier|earlier]] than the [[a/_actual|actual]] [[o/_one|one]]; to [[m/_move|move]] a [[d/_date|date]], [[a/_appointment|appointment]], [[e/_event|event]], or [[p/_period|period]] of time to an [[e/_earlier|earlier]] [[p/_point|point]] ([[c/_contrast|contrast]] "[[p/_postdate|postdate]]".)**

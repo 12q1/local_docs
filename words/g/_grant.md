@@ -7,7 +7,7 @@
 	- _Example: I got a grant from the government to study archeology in Egypt._
 - **A transfer of [[p/_property|property]] by [[d/_deed|deed]] or writing; [[e/_especially|especially]], an [[a/_appropriation|appropriation]] or [[c/_conveyance|conveyance]] [[m/_made|made]] by the [[g/_government|government]].**
 	- _Example: a grant of land or of money_
-- **The [[d/_deed|deed]] or writing by which such a transfer is [[m/_made|made]].**
+- **The [[d/_deed|deed]] or writing by which [[s/_such|such]] a transfer is [[m/_made|made]].**
 - **An [[a/_application|application]] for a [[g/_grant|grant]] ([[m/_monetary|monetary]] [[b/_boon|boon]] to [[a/_aid|aid]] [[r/_research|research]] or the [[l/_like|like]]).**
 ---
 #verb

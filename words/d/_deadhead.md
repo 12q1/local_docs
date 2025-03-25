@@ -8,9 +8,9 @@
 - **An [[e/_employee|employee]] of a transportation [[c/_company|company]], [[e/_especially|especially]] a [[p/_pilot|pilot]], traveling as a [[p/_passenger|passenger]] for [[l/_logistical|logistical]] [[r/_reasons|reasons]], for [[e/_example|example]] to [[r/_return|return]] [[h/_home|home]] or travel to their [[n/_next|next]] [[a/_assignment|assignment]].**
 - **[[a/_anyone|Anyone]] traveling for [[f/_free|free]].**
 - **A train or truck [[m/_moved|moved]] [[b/_between|between]] [[c/_cities|cities]] with [[n/_no|no]] [[p/_passengers|passengers]] or [[f/_freight|freight]], in [[o/_order|order]] to [[m/_make|make]] it [[a/_available|available]] for [[s/_service|service]].**
-- **A [[p/_person|person]] [[s/_staying|staying]] at a [[l/_lodging|lodging]], such as a [[h/_hotel|hotel]] or [[b/_boarding|boarding]] [[h/_house|house]], without [[p/_paying|paying]] [[r/_rent|rent]]; [[f/_freeloader|freeloader]].**
+- **A [[p/_person|person]] [[s/_staying|staying]] at a [[l/_lodging|lodging]], [[s/_such|such]] as a [[h/_hotel|hotel]] or [[b/_boarding|boarding]] [[h/_house|house]], without [[p/_paying|paying]] [[r/_rent|rent]]; [[f/_freeloader|freeloader]].**
 - **A [[s/_stupid|stupid]] or [[b/_boring|boring]] [[p/_person|person]]; [[d/_dullard|dullard]].**
-- **A tree or tree [[b/_branch|branch]] [[f/_fixed|fixed]] in the [[b/_bottom|bottom]] of a [[r/_river|river]] or [[o/_other|other]] [[n/_navigable|navigable]] [[b/_body|body]] of water, [[p/_partially|partially]] submerged or [[r/_rising|rising]] [[n/_nearly|nearly]] the surface, by which [[b/_boats|boats]] are [[s/_sometimes|sometimes]] [[p/_pierced|pierced]] and sunk; [[s/_snag|snag]].**
+- **A tree or tree [[b/_branch|branch]] [[f/_fixed|fixed]] in the [[b/_bottom|bottom]] of a [[r/_river|river]] or [[o/_other|other]] [[n/_navigable|navigable]] [[b/_body|body]] of water, [[p/_partially|partially]] [[s/_submerged|submerged]] or [[r/_rising|rising]] [[n/_nearly|nearly]] the surface, by which [[b/_boats|boats]] are [[s/_sometimes|sometimes]] [[p/_pierced|pierced]] and [[s/_sunk|sunk]]; [[s/_snag|snag]].**
 - **[[d/_driftwood|Driftwood]].**
 - **A zombie.**
 ---

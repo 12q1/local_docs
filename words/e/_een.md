@@ -16,9 +16,9 @@
 - **A [[p/_private|private]] [[e/_eye|eye]]: a [[p/_privately|privately]] [[h/_hired|hired]] [[d/_detective|detective]] or [[i/_investigator|investigator]].**
 - **A [[h/_hole|hole]] at the [[b/_blunt|blunt]] [[e/_end|end]] of a [[n/_needle|needle]] through which thread is [[p/_passed|passed]].**
 - **The [[o/_oval|oval]] [[h/_hole|hole]] of an axehead through which the axehandle is [[f/_fitted|fitted]].**
-- **A [[f/_fitting|fitting]] [[c/_consisting|consisting]] of a [[l/_loop|loop]] of [[m/_metal|metal]] or [[o/_other|other]] [[m/_material|material]], suitable for [[r/_receiving|receiving]] a [[h/_hook|hook]] or the [[p/_passage|passage]] of a [[c/_cord|cord]] or [[l/_line|line]].**
+- **A [[f/_fitting|fitting]] [[c/_consisting|consisting]] of a [[l/_loop|loop]] of [[m/_metal|metal]] or [[o/_other|other]] [[m/_material|material]], [[s/_suitable|suitable]] for [[r/_receiving|receiving]] a [[h/_hook|hook]] or the [[p/_passage|passage]] of a [[c/_cord|cord]] or [[l/_line|line]].**
 - **The [[r/_relatively|relatively]] [[c/_clear|clear]] and [[c/_calm|calm]] [[c/_center|center]] of a [[h/_hurricane|hurricane]] or [[o/_other|other]] [[c/_cyclonic|cyclonic]] [[s/_storm|storm]].**
-- **A [[m/_mark|mark]] on an [[a/_animal|animal]], such as a [[p/_peacock|peacock]] or [[b/_butterfly|butterfly]], [[r/_resembling|resembling]] a [[h/_human|human]] [[e/_eye|eye]].**
+- **A [[m/_mark|mark]] on an [[a/_animal|animal]], [[s/_such|such]] as a [[p/_peacock|peacock]] or [[b/_butterfly|butterfly]], [[r/_resembling|resembling]] a [[h/_human|human]] [[e/_eye|eye]].**
 - **The [[d/_dark|dark]] [[s/_spot|spot]] on a [[b/_black|black]]-[[e/_eyed|eyed]] [[p/_pea|pea]].**
 - **A [[r/_reproductive|reproductive]] [[b/_bud|bud]] in a [[p/_potato|potato]].**
 - **The [[d/_dark|dark]] [[b/_brown|brown]] [[c/_center|center]] of a [[b/_black|black]]-[[e/_eyed|eyed]] Susan [[f/_flower|flower]].**

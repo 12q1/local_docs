@@ -14,7 +14,7 @@
 - **[[d/_disobliging|Disobliging]]; [[p/_pettily|pettily]] [[o/_offensive|offensive]] or unaccommodating**
 - **[[s/_selfish|Selfish]]; [[a/_acting|acting]] without [[c/_consideration|consideration]] of [[o/_others|others]]; unkind.**
 	- _Example: It was mean to steal the girl's piggy bank, but he just had to get uptown and he had no cash of his own._
-- **[[i/_intending|Intending]] to [[c/_cause|cause]] [[h/_harm|harm]], successfully or [[o/_otherwise|otherwise]]; [[b/_bearing|bearing]] [[i/_ill|ill]] will towards [[a/_another|another]]**
+- **[[i/_intending|Intending]] to [[c/_cause|cause]] [[h/_harm|harm]], [[s/_successfully|successfully]] or [[o/_otherwise|otherwise]]; [[b/_bearing|bearing]] [[i/_ill|ill]] will towards [[a/_another|another]]**
 	- _Example: Watch out for her, she's mean. I said good morning to her, and she punched me in the nose._
 - **[[p/_powerful|Powerful]]; [[f/_fierce|fierce]]; [[s/_strong|strong]]**
 	- _Example: It must have been a mean typhoon that levelled this town._

@@ -6,7 +6,7 @@
 	- _Example: Yorkshire is the largest shire in England._
 - **The [[g/_general|general]] [[a/_area|area]] in which a [[p/_person|person]] [[l/_lives|lives]] or [[c/_comes|comes]] from, used in the [[c/_context|context]] of travel within the United [[k/_kingdom|Kingdom]].**
 	- _Example: When are you coming back to the shire?_
-- **A [[r/_rural|rural]] or [[o/_outer|outer]] suburban [[l/_local|local]] [[g/_government|government]] [[a/_area|area]] of [[a/_australia|Australia]].**
+- **A [[r/_rural|rural]] or [[o/_outer|outer]] [[s/_suburban|suburban]] [[l/_local|local]] [[g/_government|government]] [[a/_area|area]] of [[a/_australia|Australia]].**
 - **A [[s/_shire|shire]] [[h/_horse|horse]].**
 ---
 ---

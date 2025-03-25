@@ -1,10 +1,10 @@
 # Fail
 ---
 #noun
-- **[[p/_poor|Poor]] [[q/_quality|quality]]; substandard workmanship.**
+- **[[p/_poor|Poor]] [[q/_quality|quality]]; [[s/_substandard|substandard]] workmanship.**
 	- _Example: The project was full of fail._
 - **A [[f/_failure|failure]] ([[c/_condition|condition]] of [[b/_being|being]] unsuccessful)**
-- **A [[f/_failure|failure]] ([[s/_something|something]] [[i/_incapable|incapable]] of success)**
+- **A [[f/_failure|failure]] ([[s/_something|something]] [[i/_incapable|incapable]] of [[s/_success|success]])**
 - **A [[f/_failure|failure]], [[e/_especially|especially]] of a [[f/_financial|financial]] transaction (a termination of an [[a/_action|action]]).**
 - **A [[f/_failing|failing]] [[g/_grade|grade]] in an [[a/_academic|academic]] [[e/_examination|examination]].**
 ---

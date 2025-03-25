@@ -24,8 +24,8 @@
 - **To [[p/_provide|provide]] (a [[m/_motor|motor]] vehicle [[e/_etc|etc]]) with [[f/_fins|fins]].**
 ---
 #noun
-- **([[f/_formerly|formerly]] [[a/_australia|Australia]]) a [[f/_five|five]]-[[p/_pound|pound]] (£5) [[n/_note|note]]; the sum of [[f/_five|five]] [[p/_pounds|pounds]].**
-- **A [[f/_five|five]]-[[d/_dollar|dollar]] [[b/_bill|bill]]; the sum of [[f/_five|five]] [[d/_dollars|dollars]].**
+- **([[f/_formerly|formerly]] [[a/_australia|Australia]]) a [[f/_five|five]]-[[p/_pound|pound]] (£5) [[n/_note|note]]; the [[s/_sum|sum]] of [[f/_five|five]] [[p/_pounds|pounds]].**
+- **A [[f/_five|five]]-[[d/_dollar|dollar]] [[b/_bill|bill]]; the [[s/_sum|sum]] of [[f/_five|five]] [[d/_dollars|dollars]].**
 ---
 ### Synonyms
 - [[L/_Lincoln|Lincoln]], [[f/_fiver|fiver]], [[f/_fiver|fiver]]

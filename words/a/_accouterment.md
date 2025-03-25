@@ -6,6 +6,6 @@
 - **[[a/_apparatus|Apparatus]] [[n/_needed|needed]] for a task or [[j/_journey|journey]].**
 - **[[e/_equipment|Equipment]] [[o/_other|other]] than weapons and uniform.**
 - **Trappings.**
-- **An [[i/_identifying|identifying]] [[y/_yet|yet]] superficial [[c/_characteristic|characteristic]].**
+- **An [[i/_identifying|identifying]] [[y/_yet|yet]] [[s/_superficial|superficial]] [[c/_characteristic|characteristic]].**
 ---
 ---

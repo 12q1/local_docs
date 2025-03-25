@@ -8,7 +8,7 @@
 	- _Example: They were discounted because they contained blemishes, nicks or were otherwise factory seconds._
 - **(usually in the [[p/_plural|plural]]) An [[a/_additional|additional]] [[h/_helping|helping]] of [[f/_food|food]].**
 	- _Example: That was good barbecue. I hope I can get seconds._
-- **A [[c/_chance|chance]] or [[a/_attempt|attempt]] to [[a/_achieve|achieve]] what [[s/_should|should]] [[h/_have|have]] [[b/_been|been]] [[d/_done|done]] the [[f/_first|first]] time, usually [[i/_indicating|indicating]] success this time [[a/_around|around]]. ([[s/_see|See]] [[s/_second|second]]-[[g/_guess|guess]].)**
+- **A [[c/_chance|chance]] or [[a/_attempt|attempt]] to [[a/_achieve|achieve]] what [[s/_should|should]] [[h/_have|have]] [[b/_been|been]] [[d/_done|done]] the [[f/_first|first]] time, usually [[i/_indicating|indicating]] [[s/_success|success]] this time [[a/_around|around]]. ([[s/_see|See]] [[s/_second|second]]-[[g/_guess|guess]].)**
 - **The [[i/_interval|interval]] [[b/_between|between]] two [[a/_adjacent|adjacent]] [[n/_notes|notes]] in a [[d/_diatonic|diatonic]] [[s/_scale|scale]] ([[e/_either|either]] or [[b/_both|both]] of them [[m/_may|may]] be [[r/_raised|raised]] or [[l/_lowered|lowered]] from the [[b/_basic|basic]] [[s/_scale|scale]] via [[a/_any|any]] type of [[a/_accidental|accidental]]).**
 - **The [[s/_second|second]] [[g/_gear|gear]] of an [[e/_engine|engine]].**
 - **[[s/_second|Second]] [[b/_base|base]].**
@@ -20,7 +20,7 @@
 #verb
 - **To [[a/_agree|agree]] as a [[s/_second|second]] [[p/_person|person]] to (a [[p/_proposal|proposal]]), usually to [[r/_reach|reach]] a [[n/_necessary|necessary]] [[q/_quorum|quorum]] of two. ([[s/_see|See]] under #[[e/_etymology|Etymology]] 3 for translations.)**
 	- _Example: I second the motion._
-- **To [[f/_follow|follow]] in the [[n/_next|next]] [[p/_place|place]]; to succeed.**
+- **To [[f/_follow|follow]] in the [[n/_next|next]] [[p/_place|place]]; to [[s/_succeed|succeed]].**
 - **To [[c/_climb|climb]] [[a/_after|after]] a [[l/_lead|lead]] [[c/_climber|climber]].**
 ---
 #noun
@@ -32,7 +32,7 @@
 ### Synonyms
 - [[s/_sec|sec]], [[a/_arcsecond|arcsecond]]
 #noun
-- **[[o/_one|One]] who supports [[a/_another|another]] in a [[c/_contest|contest]] or [[c/_combat|combat]], such as a [[d/_dueller|dueller]]'[[s/_s|s]] [[a/_assistant|assistant]].**
+- **[[o/_one|One]] who supports [[a/_another|another]] in a [[c/_contest|contest]] or [[c/_combat|combat]], [[s/_such|such]] as a [[d/_dueller|dueller]]'[[s/_s|s]] [[a/_assistant|assistant]].**
 - **[[o/_one|One]] who supports or [[s/_seconds|seconds]] a [[m/_motion|motion]], or the [[a/_act|act]] [[i/_itself|itself]], as [[r/_required|required]] in [[c/_certain|certain]] [[m/_meetings|meetings]] to [[p/_pass|pass]] [[j/_judgement|judgement]] [[e/_etc|etc]].**
 	- _Example: If we want the motion to pass, we will need a second._
 - **[[a/_aid|Aid]]; [[a/_assistance|assistance]]; [[h/_help|help]].**

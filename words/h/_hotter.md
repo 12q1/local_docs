@@ -32,7 +32,7 @@
 	- _Example: a hot topic_
 - **Very [[c/_close|close]] to [[f/_finding|finding]] or [[g/_guessing|guessing]] [[s/_something|something]] to be [[f/_found|found]] or [[g/_guessed|guessed]].**
 	- _Example: Am I warm yet? — You're hot!_
-- **[[p/_performing|Performing]] [[s/_strongly|strongly]]; [[h/_having|having]] [[r/_repeated|repeated]] successes.**
+- **[[p/_performing|Performing]] [[s/_strongly|strongly]]; [[h/_having|having]] [[r/_repeated|repeated]] [[s/_successes|successes]].**
 - **[[f/_fresh|Fresh]]; [[j/_just|just]] [[r/_released|released]].**
 - **Uncomfortable, [[d/_difficult|difficult]] to [[d/_deal|deal]] with; [[a/_awkward|awkward]], [[d/_dangerous|dangerous]], unpleasant.**
 - **Used to [[e/_emphasize|emphasize]] the [[s/_short|short]] [[d/_duration|duration]] or [[s/_small|small]] [[q/_quantity|quantity]] of [[s/_something|something]]**

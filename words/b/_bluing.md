@@ -7,7 +7,7 @@
 - **To [[s/_spend|spend]] ([[m/_money|money]]) [[e/_extravagantly|extravagantly]]; to [[b/_blow|blow]].**
 ---
 #noun
-- **A substance used in [[l/_laundry|laundry]] to whiten [[c/_clothes|clothes]]; [[b/_blue|blue]]**
+- **A [[s/_substance|substance]] used in [[l/_laundry|laundry]] to whiten [[c/_clothes|clothes]]; [[b/_blue|blue]]**
 - **[[a/_any|Any]] of [[s/_several|several]] [[p/_processes|processes]] to [[p/_protect|protect]] [[s/_steel|steel]] [[a/_against|against]] [[r/_rust|rust]]**
 ---
 ### Synonyms

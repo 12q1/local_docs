@@ -5,7 +5,7 @@
 	- _Example: The population of New Jersey will not stand for this!_
 - **(by [[e/_extension|extension]]) The [[p/_people|people]] with a [[g/_given|given]] [[c/_characteristic|characteristic]].**
 	- _Example: India has the third-largest population of English-speakers in the world._
-- **A [[c/_count|count]] of the [[n/_number|number]] of [[r/_residents|residents]] within a [[p/_political|political]] or [[g/_geographical|geographical]] [[b/_boundary|boundary]] such as a town, a [[n/_nation|nation]] or the world.**
+- **A [[c/_count|count]] of the [[n/_number|number]] of [[r/_residents|residents]] within a [[p/_political|political]] or [[g/_geographical|geographical]] [[b/_boundary|boundary]] [[s/_such|such]] as a town, a [[n/_nation|nation]] or the world.**
 	- _Example: The town’s population is only 243._
 - **A [[c/_collection|collection]] of [[o/_organisms|organisms]] of a [[p/_particular|particular]] [[s/_species|species]], [[s/_sharing|sharing]] a [[p/_particular|particular]] [[c/_characteristic|characteristic]] of [[i/_interest|interest]], [[m/_most|most]] [[o/_often|often]] that of [[l/_living|living]] in a [[g/_given|given]] [[a/_area|area]].**
 	- _Example: A seasonal migration annually changes the populations in two or more biotopes drastically, many twice in opposite senses._

@@ -1,7 +1,7 @@
 # Molds
 ---
 #noun
-- **A [[h/_hollow|hollow]] [[f/_form|form]] or [[m/_matrix|matrix]] for [[s/_shaping|shaping]] a [[f/_fluid|fluid]] or [[p/_plastic|plastic]] substance.**
+- **A [[h/_hollow|hollow]] [[f/_form|form]] or [[m/_matrix|matrix]] for [[s/_shaping|shaping]] a [[f/_fluid|fluid]] or [[p/_plastic|plastic]] [[s/_substance|substance]].**
 - **A [[f/_frame|frame]] or [[m/_model|model]] [[a/_around|around]] or on which [[s/_something|something]] is [[f/_formed|formed]] or [[s/_shaped|shaped]].**
 - **[[s/_something|Something]] that is [[m/_made|made]] in or [[s/_shaped|shaped]] on a [[m/_mold|mold]].**
 - **The [[s/_shape|shape]] or [[p/_pattern|pattern]] of a [[m/_mold|mold]].**
@@ -25,7 +25,7 @@
 	- _Example: These shoes gradually molded to my feet._
 ---
 #noun
-- **A [[n/_natural|natural]] substance in the [[f/_form|form]] of a woolly or [[f/_furry|furry]] [[g/_growth|growth]] of tiny [[f/_fungi|fungi]] that [[a/_appears|appears]] when [[o/_organic|organic]] [[m/_material|material]] [[l/_lies|lies]] for a [[l/_long|long]] time [[e/_exposed|exposed]] to (usually warm and [[m/_moist|moist]]) [[a/_air|air]].**
+- **A [[n/_natural|natural]] [[s/_substance|substance]] in the [[f/_form|form]] of a woolly or [[f/_furry|furry]] [[g/_growth|growth]] of tiny [[f/_fungi|fungi]] that [[a/_appears|appears]] when [[o/_organic|organic]] [[m/_material|material]] [[l/_lies|lies]] for a [[l/_long|long]] time [[e/_exposed|exposed]] to (usually warm and [[m/_moist|moist]]) [[a/_air|air]].**
 ---
 #verb
 - **To [[c/_cause|cause]] to [[b/_become|become]] [[m/_moldy|moldy]]; to [[c/_cause|cause]] [[m/_mold|mold]] to [[g/_grow|grow]] upon.**

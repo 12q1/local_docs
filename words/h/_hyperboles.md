@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[d/_deliberate|Deliberate]] or unintentional [[o/_overstatement|overstatement]], [[p/_particularly|particularly]] [[e/_extreme|extreme]] [[o/_overstatement|overstatement]].**
-- **An [[i/_instance|instance]] or [[e/_example|example]] of such [[o/_overstatement|overstatement]].**
+- **An [[i/_instance|instance]] or [[e/_example|example]] of [[s/_such|such]] [[o/_overstatement|overstatement]].**
 - **A [[h/_hyperbola|hyperbola]].**
 ---
 ### Synonyms

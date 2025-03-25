@@ -28,7 +28,7 @@
 - **([[a/_acoustics|acoustics]]) [[a/_acute|Acute]] or [[s/_shrill|shrill]] in [[p/_pitch|pitch]], [[d/_due|due]] to [[b/_being|being]] of [[g/_greater|greater]] [[f/_frequency|frequency]], [[i/_i|i]].[[e/_e|e]]. [[p/_produced|produced]] by [[m/_more|more]] [[r/_rapid|rapid]] vibrations (wave [[o/_oscillations|oscillations]]).**
 	- _Example: The note was too high for her to sing._
 - **[[m/_made|Made]] with [[s/_some|some]] [[p/_part|part]] of the tongue [[p/_positioned|positioned]] [[h/_high|high]] in the [[m/_mouth|mouth]], [[r/_relatively|relatively]] [[c/_close|close]] to the [[p/_palate|palate]].**
-- **[[g/_greater|Greater]] in value than [[o/_other|other]] [[c/_cards|cards]], [[d/_denominations|denominations]], suits, [[e/_etc|etc]].**
+- **[[g/_greater|Greater]] in value than [[o/_other|other]] [[c/_cards|cards]], [[d/_denominations|denominations]], [[s/_suits|suits]], [[e/_etc|etc]].**
 - **(of [[m/_meat|meat]], [[e/_especially|especially]] venison) [[s/_strong|Strong]]-[[s/_scented|scented]]; [[s/_slightly|slightly]] tainted/[[s/_spoiled|spoiled]]; [[b/_beginning|beginning]] to [[d/_decompose|decompose]].**
 	- _Example: Epicures do not cook game before it is high._
 - **[[i/_intoxicated|Intoxicated]]; under the [[i/_influence|influence]] of a [[m/_mood|mood]]-[[a/_altering|altering]] [[d/_drug|drug]], [[f/_formerly|formerly]] usually [[a/_alcohol|alcohol]], but [[n/_now|now]] (from the [[m/_mid|mid]]-20th [[c/_century|century]]) usually not [[a/_alcohol|alcohol]] but [[r/_rather|rather]] [[m/_marijuana|marijuana]], [[c/_cocaine|cocaine]], [[h/_heroin|heroin]], [[e/_etc|etc]].**

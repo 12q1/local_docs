@@ -18,7 +18,7 @@
 	- _Example: I've planted the story. Do you think they'll bite?_
 - **(of an [[i/_insect|insect]]) To [[s/_sting|sting]].**
 	- _Example: These mosquitoes are really biting today!_
-- **To [[c/_cause|cause]] a [[s/_smarting|smarting]] [[s/_sensation|sensation]]; to [[h/_have|have]] a [[p/_property|property]] which [[c/_causes|causes]] such a [[s/_sensation|sensation]]; to be [[p/_pungent|pungent]].**
+- **To [[c/_cause|cause]] a [[s/_smarting|smarting]] [[s/_sensation|sensation]]; to [[h/_have|have]] a [[p/_property|property]] which [[c/_causes|causes]] [[s/_such|such]] a [[s/_sensation|sensation]]; to be [[p/_pungent|pungent]].**
 	- _Example: It bites like pepper or mustard._
 - **([[s/_sometimes|sometimes]] [[f/_figurative|figurative]]) To [[c/_cause|cause]] [[s/_sharp|sharp]] [[p/_pain|pain]] or [[d/_damage|damage]] to; to [[h/_hurt|hurt]] or [[i/_injure|injure]].**
 	- _Example: Pepper bites the mouth._
@@ -27,7 +27,7 @@
 	- _Example: The anchor bites._
 - **To take [[h/_hold|hold]] of; to [[h/_hold|hold]] [[f/_fast|fast]]; to [[a/_adhere|adhere]] to.**
 	- _Example: The anchor bites the ground._
-- **To [[l/_lack|lack]] [[q/_quality|quality]]; to be worthy of [[d/_derision|derision]]; to suck.**
+- **To [[l/_lack|lack]] [[q/_quality|quality]]; to be worthy of [[d/_derision|derision]]; to [[s/_suck|suck]].**
 	- _Example: This music really bites._
 - **To [[p/_perform|perform]] [[o/_oral|oral]] [[s/_sex|sex]] on. Used in [[i/_invective|invective]].**
 	- _Example: You don't like that I sat on your car? Bite me._

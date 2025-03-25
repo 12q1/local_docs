@@ -19,6 +19,6 @@
 #noun
 - **The [[s/_sound|sound]] or [[a/_action|action]] of [[o/_one|one]] who [[s/_stamps|stamps]].**
 - **A [[m/_method|method]] of [[m/_manufacturing|manufacturing]] using [[d/_dies|dies]] and [[e/_extreme|extreme]] [[p/_pressure|pressure]].**
-- **A [[p/_part|part]] [[m/_made|made]] by such a [[m/_method|method]].**
+- **A [[p/_part|part]] [[m/_made|made]] by [[s/_such|such]] a [[m/_method|method]].**
 ---
 ---

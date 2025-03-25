@@ -13,7 +13,7 @@
 - **A [[p/_person|person]] who [[p/_practices|practices]] [[s/_self|self]]-[[i/_injury|injury]].**
 - **A surgeon.**
 - **An [[a/_animal|animal]] [[y/_yielding|yielding]] [[i/_inferior|inferior]] [[m/_meat|meat]], with [[l/_little|little]] or [[n/_no|no]] [[e/_external|external]] [[f/_fat|fat]] and [[m/_marbling|marbling]].**
-- **An [[o/_officer|officer]] in the [[e/_exchequer|exchequer]] who [[n/_notes|notes]] by [[c/_cutting|cutting]] on the tallies the sums [[p/_paid|paid]].**
+- **An [[o/_officer|officer]] in the [[e/_exchequer|exchequer]] who [[n/_notes|notes]] by [[c/_cutting|cutting]] on the tallies the [[s/_sums|sums]] [[p/_paid|paid]].**
 - **A [[r/_ruffian|ruffian]]; a [[b/_bravo|bravo]]; a [[d/_destroyer|destroyer]].**
 - **A [[k/_kind|kind]] of [[s/_soft|soft]] [[y/_yellow|yellow]] [[b/_brick|brick]], [[e/_easily|easily]] [[c/_cut|cut]], and used for [[f/_facework|facework]].**
 - **A [[l/_light|light]] [[s/_sleigh|sleigh]] [[d/_drawn|drawn]] by [[o/_one|one]] [[h/_horse|horse]].**

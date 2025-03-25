@@ -1,8 +1,8 @@
 # Stars
 ---
 #noun
-- **[[a/_any|Any]] [[s/_small|small]] [[l/_luminous|luminous]] [[d/_dot|dot]] [[a/_appearing|appearing]] in the [[c/_cloudless|cloudless]] [[p/_portion|portion]] of the [[n/_night|night]] [[s/_sky|sky]], [[e/_especially|especially]] with a [[f/_fixed|fixed]] [[l/_location|location]] [[r/_relative|relative]] to [[o/_other|other]] such [[d/_dots|dots]].**
-- **A [[l/_luminous|luminous]] [[c/_celestial|celestial]] [[b/_body|body]], [[m/_made|made]] up of [[p/_plasma|plasma]] ([[p/_particularly|particularly]] [[h/_hydrogen|hydrogen]] and [[h/_helium|helium]]) and [[h/_having|having]] a [[s/_spherical|spherical]] [[s/_shape|shape]]. [[d/_depending|Depending]] on [[c/_context|context]] the sun [[m/_may|may]] or [[m/_may|may]] not be [[i/_included|included]].**
+- **[[a/_any|Any]] [[s/_small|small]] [[l/_luminous|luminous]] [[d/_dot|dot]] [[a/_appearing|appearing]] in the [[c/_cloudless|cloudless]] [[p/_portion|portion]] of the [[n/_night|night]] [[s/_sky|sky]], [[e/_especially|especially]] with a [[f/_fixed|fixed]] [[l/_location|location]] [[r/_relative|relative]] to [[o/_other|other]] [[s/_such|such]] [[d/_dots|dots]].**
+- **A [[l/_luminous|luminous]] [[c/_celestial|celestial]] [[b/_body|body]], [[m/_made|made]] up of [[p/_plasma|plasma]] ([[p/_particularly|particularly]] [[h/_hydrogen|hydrogen]] and [[h/_helium|helium]]) and [[h/_having|having]] a [[s/_spherical|spherical]] [[s/_shape|shape]]. [[d/_depending|Depending]] on [[c/_context|context]] the [[s/_sun|sun]] [[m/_may|may]] or [[m/_may|may]] not be [[i/_included|included]].**
 - **A [[c/_concave|concave]] [[p/_polygon|polygon]] with [[r/_regular|regular]], [[p/_pointy|pointy]] [[p/_protrusions|protrusions]] and [[i/_indentations|indentations]], [[g/_generally|generally]] with [[f/_five|five]] or [[s/_six|six]] [[p/_points|points]].**
 - **An [[a/_actor|actor]] in a [[l/_leading|leading]] [[r/_role|role]].**
 	- _Example: Many Hollywood stars attended the launch party._

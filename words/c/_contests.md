@@ -3,7 +3,7 @@
 #noun
 - **[[c/_controversy|Controversy]]; [[d/_debate|debate]].**
 	- _Example: no contest_
-- **[[s/_struggle|Struggle]] for superiority; [[c/_combat|combat]].**
+- **[[s/_struggle|Struggle]] for [[s/_superiority|superiority]]; [[c/_combat|combat]].**
 - **A [[c/_competition|competition]].**
 	- _Example: The child entered the spelling contest._
 ---
@@ -16,7 +16,7 @@
 	- _Example: The rival contested the dictator's re-election because of claims of voting irregularities._
 - **To [[s/_strive|strive]] [[e/_earnestly|earnestly]] to [[h/_hold|hold]] or [[m/_maintain|maintain]]; to [[s/_struggle|struggle]] to [[d/_defend|defend]].**
 	- _Example: The troops contested every inch of ground._
-- **To [[m/_make|make]] a subject of [[l/_litigation|litigation]]; to [[d/_defend|defend]], as a suit; to [[d/_dispute|dispute]] or [[r/_resist|resist]], as a [[c/_claim|claim]], by [[c/_course|course]] of [[l/_law|law]].**
+- **To [[m/_make|make]] a [[s/_subject|subject]] of [[l/_litigation|litigation]]; to [[d/_defend|defend]], as a [[s/_suit|suit]]; to [[d/_dispute|dispute]] or [[r/_resist|resist]], as a [[c/_claim|claim]], by [[c/_course|course]] of [[l/_law|law]].**
 ---
 ### Synonyms
 - [[o/_oppose|oppose]], [[c/_compete|compete]], [[c/_contend|contend]], [[c/_controvert|controvert]]

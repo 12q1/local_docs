@@ -1,7 +1,7 @@
 # Adapt
 ---
 #verb
-- **To [[m/_make|make]] suitable; to [[m/_make|make]] to [[c/_correspond|correspond]]; to [[f/_fit|fit]] or suit**
+- **To [[m/_make|make]] [[s/_suitable|suitable]]; to [[m/_make|make]] to [[c/_correspond|correspond]]; to [[f/_fit|fit]] or [[s/_suit|suit]]**
 - **To [[f/_fit|fit]] by [[a/_alteration|alteration]]; to [[m/_modify|modify]] or [[r/_remodel|remodel]] for a [[d/_different|different]] [[p/_purpose|purpose]]; to [[a/_adjust|adjust]]**
 	- _Example: to adapt a story for the stage_
 - **To [[m/_make|make]] by [[a/_altering|altering]] or [[f/_fitting|fitting]] [[s/_something|something]] [[e/_else|else]]; to [[p/_produce|produce]] by [[c/_change|change]] of [[f/_form|form]] or [[c/_character|character]]**
@@ -12,6 +12,6 @@
 ### Synonyms
 - [[p/_proportion|proportion]]
 #adjective
-- **[[a/_adapted|Adapted]]; [[f/_fit|fit]]; suited; suitable.**
+- **[[a/_adapted|Adapted]]; [[f/_fit|fit]]; [[s/_suited|suited]]; [[s/_suitable|suitable]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Reacquisitions
 ---
 #noun
-- **A [[s/_second|second]] or subsequent [[a/_acquisition|acquisition]].**
+- **A [[s/_second|second]] or [[s/_subsequent|subsequent]] [[a/_acquisition|acquisition]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_analgesic|analgesic]] [[d/_drug|drug]], [[a/_acetylsalicylic|acetylsalicylic]] [[a/_acid|acid]]**
-- **A tablet [[c/_containing|containing]] this substance**
+- **A tablet [[c/_containing|containing]] this [[s/_substance|substance]]**
 ---
 ### Synonyms
 - [[A/_ASA|ASA]]

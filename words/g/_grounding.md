@@ -6,7 +6,7 @@
 	- _Example: Eric, you are grounded until further notice for lying to us about where you were last night!_
 - **To [[f/_forbid|forbid]] (an [[a/_aircraft|aircraft]] or [[p/_pilot|pilot]]) to [[f/_fly|fly]].**
 	- _Example: Because of the bad weather, all flights were grounded._
-- **To [[g/_give|give]] a [[b/_basic|basic]] [[e/_education|education]] in a [[p/_particular|particular]] subject; to [[i/_instruct|instruct]] in [[e/_elements|elements]] or [[f/_first|first]] [[p/_principles|principles]].**
+- **To [[g/_give|give]] a [[b/_basic|basic]] [[e/_education|education]] in a [[p/_particular|particular]] [[s/_subject|subject]]; to [[i/_instruct|instruct]] in [[e/_elements|elements]] or [[f/_first|first]] [[p/_principles|principles]].**
 	- _Example: Jim was grounded in maths._
 - **To [[h/_hit|hit]] a [[g/_ground|ground]] [[b/_ball|ball]]. [[c/_compare|Compare]] [[f/_fly|fly]] (verb([[r/_regular|regular]])) and [[l/_line|line]] (verb).**
 - **To [[p/_place|place]] [[s/_something|something]] on the [[g/_ground|ground]].**

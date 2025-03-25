@@ -4,7 +4,7 @@
 - **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[p/_problem|problem]] or [[d/_difficulty|difficulty]] in a [[p/_particular|particular]] [[f/_field|field]] of [[s/_study|study]].**
 ---
 #adjective
-- **[[p/_posing|Posing]] a [[p/_problem|problem]]; [[h/_having|having]] or suffering from [[p/_problem|problem]]([[s/_s|s]]):**
+- **[[p/_posing|Posing]] a [[p/_problem|problem]]; [[h/_having|having]] or [[s/_suffering|suffering]] from [[p/_problem|problem]]([[s/_s|s]]):**
 - **[[o/_only|Only]] [[a/_affirming|affirming]] the [[p/_possibility|possibility]] that a [[p/_predicate|predicate]] be [[a/_actualised|actualised]].**
 ---
 ### Synonyms

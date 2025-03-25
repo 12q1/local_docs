@@ -3,7 +3,7 @@
 #noun
 - **A [[c/_course|course]] or way which is traveled or [[p/_passed|passed]].**
 	- _Example: The route was used so much that it formed a rut._
-- **A [[r/_regular|regular]] [[i/_itinerary|itinerary]] of [[s/_stops|stops]], or the [[p/_path|path]] [[f/_followed|followed]] [[b/_between|between]] these [[s/_stops|stops]], such as for [[d/_delivery|delivery]] or [[p/_passenger|passenger]] transportation.**
+- **A [[r/_regular|regular]] [[i/_itinerary|itinerary]] of [[s/_stops|stops]], or the [[p/_path|path]] [[f/_followed|followed]] [[b/_between|between]] these [[s/_stops|stops]], [[s/_such|such]] as for [[d/_delivery|delivery]] or [[p/_passenger|passenger]] transportation.**
 	- _Example: Here is a map of our delivery routes._
 - **A [[r/_road|road]] or [[p/_path|path]]; [[o/_often|often]] [[s/_specifically|specifically]] a [[h/_highway|highway]].**
 	- _Example: Follow Route 49 out of town._

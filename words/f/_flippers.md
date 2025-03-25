@@ -1,7 +1,7 @@
 # Flippers
 ---
 #noun
-- **In [[m/_marine|marine]] [[m/_mammals|mammals]] such as whales, a wide [[f/_flat|flat]] [[l/_limb|limb]], [[a/_adapted|adapted]] for swimming.**
+- **In [[m/_marine|marine]] [[m/_mammals|mammals]] [[s/_such|such]] as whales, a wide [[f/_flat|flat]] [[l/_limb|limb]], [[a/_adapted|adapted]] for swimming.**
 - **A [[f/_flat|flat]], wide, [[p/_paddle|paddle]]-[[l/_like|like]] [[r/_rubber|rubber]] [[c/_covering|covering]] for the [[f/_foot|foot]], used in swimming.**
 - **A [[f/_flat|flat]] [[l/_lever|lever]] in a [[p/_pinball|pinball]] [[m/_machine|machine]], triggered by the [[p/_player|player]] to [[s/_strike|strike]] the [[b/_ball|ball]] and [[k/_keep|keep]] it in [[p/_play|play]].**
 - **A [[s/_small|small]] [[f/_flat|flat]] used to support a [[l/_larger|larger]] [[o/_one|one]].**

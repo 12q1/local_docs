@@ -1,7 +1,7 @@
 # Rotting
 ---
 #verb
-- **To suffer [[d/_decomposition|decomposition]] [[d/_due|due]] to [[b/_biological|biological]] [[a/_action|action]], [[e/_especially|especially]] by [[f/_fungi|fungi]] or [[b/_bacteria|bacteria]].**
+- **To [[s/_suffer|suffer]] [[d/_decomposition|decomposition]] [[d/_due|due]] to [[b/_biological|biological]] [[a/_action|action]], [[e/_especially|especially]] by [[f/_fungi|fungi]] or [[b/_bacteria|bacteria]].**
 	- _Example: The apple left in the cupboard all that time had started to rot._
 - **To [[d/_decline|decline]] in [[f/_function|function]] or utility.**
 	- _Example: Your brain will rot if you spend so much time on the computer, Tony!_

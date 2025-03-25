@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] [[p/_practical|practical]] [[a/_application|application]]; [[a/_applicable|applicable]].**
-- **Of a [[p/_programming|programming]] [[l/_language|language]]: using successive [[f/_functional|functional]] transformations on [[d/_data|data]] to [[a/_arrive|arrive]] at a [[r/_result|result]].**
+- **Of a [[p/_programming|programming]] [[l/_language|language]]: using [[s/_successive|successive]] [[f/_functional|functional]] transformations on [[d/_data|data]] to [[a/_arrive|arrive]] at a [[r/_result|result]].**
 ---
 ---

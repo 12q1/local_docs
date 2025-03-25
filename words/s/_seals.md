@@ -10,8 +10,8 @@
 	- _Example: They're organizing a protest against sealing._
 ---
 #noun
-- **A [[s/_stamp|stamp]] used to [[i/_impress|impress]] a [[d/_design|design]] on a [[s/_soft|soft]] substance such as wax.**
-- **An [[i/_impression|impression]] of such [[s/_stamp|stamp]] on wax, [[p/_paper|paper]] or [[o/_other|other]] [[m/_material|material]] used for [[s/_sealing|sealing]].**
+- **A [[s/_stamp|stamp]] used to [[i/_impress|impress]] a [[d/_design|design]] on a [[s/_soft|soft]] [[s/_substance|substance]] [[s/_such|such]] as wax.**
+- **An [[i/_impression|impression]] of [[s/_such|such]] [[s/_stamp|stamp]] on wax, [[p/_paper|paper]] or [[o/_other|other]] [[m/_material|material]] used for [[s/_sealing|sealing]].**
 - **A [[d/_design|design]] or [[i/_insignia|insignia]] usually [[a/_associated|associated]] with an [[o/_organization|organization]] or an [[o/_official|official]] [[r/_role|role]].**
 	- _Example: The front of the podium bore the presidential seal._
 - **[[a/_anything|Anything]] that [[s/_secures|secures]] or [[a/_authenticates|authenticates]].**

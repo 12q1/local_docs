@@ -7,6 +7,6 @@
 - **In [[s/_some|some]] [[e/_european|European]] [[b/_bourses|bourses]] or [[s/_stock|stock]] [[e/_exchanges|exchanges]], the [[r/_railed|railed]]-in [[s/_space|space]] within which the [[a/_agents|agents]] [[d/_de|de]] [[c/_change|change]], or [[p/_privileged|privileged]] [[b/_brokers|brokers]], [[c/_conduct|conduct]] [[b/_business|business]]; [[a/_also|also]], the [[b/_business|business]] [[c/_conducted|conducted]] by them, [[d/_distinguished|distinguished]] from the [[c/_coulisse|coulisse]], or [[o/_outside|outside]] [[m/_market|market]].**
 ---
 #verb
-- **To [[l/_lay|lay]] or [[f/_fit|fit]] such a [[f/_floor|floor]].**
+- **To [[l/_lay|lay]] or [[f/_fit|fit]] [[s/_such|such]] a [[f/_floor|floor]].**
 ---
 ---

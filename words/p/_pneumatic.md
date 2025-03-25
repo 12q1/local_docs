@@ -1,7 +1,7 @@
 # Pneumatic
 ---
 #noun
-- **A vehicle, such as a [[b/_bicycle|bicycle]], whose wheels are [[f/_fitted|fitted]] with [[p/_pneumatic|pneumatic]] tyres.**
+- **A vehicle, [[s/_such|such]] as a [[b/_bicycle|bicycle]], whose wheels are [[f/_fitted|fitted]] with [[p/_pneumatic|pneumatic]] tyres.**
 - **([[g/_gnosticism|gnosticism]]) In the [[g/_gnostic|gnostic]] theologian Valentinus' triadic [[g/_grouping|grouping]] of [[m/_man|man]], the [[h/_highest|highest]] type; a [[p/_person|person]] [[f/_focused|focused]] on [[s/_spiritual|spiritual]] [[r/_reality|reality]] (the [[o/_other|other]] two [[b/_being|being]] [[h/_hylic|hylic]] and [[p/_psychic|psychic]]).**
 ---
 #adjective

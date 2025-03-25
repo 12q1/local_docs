@@ -15,7 +15,7 @@
 #adjective
 - **That [[h/_has|has]] [[c/_completed|completed]] a [[r/_required|required]] [[p/_process|process]].**
 	- _Example: The bank returned her processed application by mail._
-- **[[m/_modified|Modified]] through [[m/_manufacture|manufacture]] such as [[r/_refinement|refinement]] or [[f/_food|food]] [[p/_processing|processing]].**
+- **[[m/_modified|Modified]] through [[m/_manufacture|manufacture]] [[s/_such|such]] as [[r/_refinement|refinement]] or [[f/_food|food]] [[p/_processing|processing]].**
 	- _Example: Processed foods are of dubious nutritional value._
 ---
 ### Synonyms

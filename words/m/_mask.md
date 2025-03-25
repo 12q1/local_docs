@@ -3,7 +3,7 @@
 #noun
 - **A [[c/_cover|cover]], or [[p/_partial|partial]] [[c/_cover|cover]], for the [[f/_face|face]], used for [[d/_disguise|disguise]] or [[p/_protection|protection]].**
 	- _Example: a dancer's mask; a fencer's mask; a ball player's mask_
-- **That which [[d/_disguises|disguises]]; a [[p/_pretext|pretext]] or subterfuge.**
+- **That which [[d/_disguises|disguises]]; a [[p/_pretext|pretext]] or [[s/_subterfuge|subterfuge]].**
 - **A [[f/_festive|festive]] [[e/_entertainment|entertainment]] of [[d/_dancing|dancing]] or [[o/_other|other]] [[d/_diversions|diversions]], where [[a/_all|all]] wear [[m/_masks|masks]]; a [[m/_masquerade|masquerade]]**
 - **A [[p/_person|person]] wearing a [[m/_mask|mask]].**
 - **A [[d/_dramatic|dramatic]] [[p/_performance|performance]], [[f/_formerly|formerly]] in vogue, in which the [[a/_actors|actors]] wore [[m/_masks|masks]] and [[r/_represented|represented]] [[m/_mythical|mythical]] or [[a/_allegorical|allegorical]] [[c/_characters|characters]].**

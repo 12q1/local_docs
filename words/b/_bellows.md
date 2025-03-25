@@ -1,7 +1,7 @@
 # Bellows
 ---
 #noun
-- **A [[d/_device|device]] for [[d/_delivering|delivering]] [[p/_pressurized|pressurized]] [[a/_air|air]] in a [[c/_controlled|controlled]] [[q/_quantity|quantity]] to a [[c/_controlled|controlled]] [[l/_location|location]]. At [[i/_its|its]] [[m/_most|most]] [[s/_simple|simple]] terms a [[b/_bellows|bellows]] is a [[c/_container|container]] which is [[d/_deformable|deformable]] in such a way as to [[a/_alter|alter]] [[i/_its|its]] volume which [[h/_has|has]] an [[o/_outlet|outlet]] or [[o/_outlets|outlets]] where [[o/_one|one]] wishes to [[b/_blow|blow]] [[a/_air|air]].**
+- **A [[d/_device|device]] for [[d/_delivering|delivering]] [[p/_pressurized|pressurized]] [[a/_air|air]] in a [[c/_controlled|controlled]] [[q/_quantity|quantity]] to a [[c/_controlled|controlled]] [[l/_location|location]]. At [[i/_its|its]] [[m/_most|most]] [[s/_simple|simple]] terms a [[b/_bellows|bellows]] is a [[c/_container|container]] which is [[d/_deformable|deformable]] in [[s/_such|such]] a way as to [[a/_alter|alter]] [[i/_its|its]] volume which [[h/_has|has]] an [[o/_outlet|outlet]] or [[o/_outlets|outlets]] where [[o/_one|one]] wishes to [[b/_blow|blow]] [[a/_air|air]].**
 	- _Example: When wood fires were common, so were bellows for helping start them._
 - **[[a/_any|Any]] [[f/_flexible|flexible]] [[c/_container|container]] or [[e/_enclosure|enclosure]], as [[o/_one|one]] used to [[c/_cover|cover]] a [[m/_moving|moving]] [[j/_joint|joint]].**
 - **The [[l/_lungs|lungs]].**

@@ -17,12 +17,12 @@
 - **To [[r/_reduce|reduce]] in [[a/_amount|amount]], [[s/_size|size]], or value.**
 	- _Example: Legacies are liable to be abated entirely or in proportion, upon a deficiency of assets._
 - **To [[d/_decrease|decrease]] in [[s/_size|size]], value, or [[a/_amount|amount]].**
-- **To [[m/_moderate|moderate]]; to [[l/_lessen|lessen]] in [[f/_force|force]], [[i/_intensity|intensity]], to subside.**
-- **To [[d/_decrease|decrease]] in [[i/_intensity|intensity]] or [[f/_force|force]]; to subside.**
+- **To [[m/_moderate|moderate]]; to [[l/_lessen|lessen]] in [[f/_force|force]], [[i/_intensity|intensity]], to [[s/_subside|subside]].**
+- **To [[d/_decrease|decrease]] in [[i/_intensity|intensity]] or [[f/_force|force]]; to [[s/_subside|subside]].**
 - **To [[d/_deduct|deduct]] or [[o/_omit|omit]].**
 	- _Example: We will abate this price from the total._
 - **To [[b/_bar|bar]] or [[e/_except|except]].**
-- **To [[c/_cut|cut]] [[a/_away|away]] or [[h/_hammer|hammer]] [[d/_down|down]], in such a way as to [[l/_leave|leave]] a [[f/_figure|figure]] in [[r/_relief|relief]], as a [[s/_sculpture|sculpture]], or in [[m/_metalwork|metalwork]].**
+- **To [[c/_cut|cut]] [[a/_away|away]] or [[h/_hammer|hammer]] [[d/_down|down]], in [[s/_such|such]] a way as to [[l/_leave|leave]] a [[f/_figure|figure]] in [[r/_relief|relief]], as a [[s/_sculpture|sculpture]], or in [[m/_metalwork|metalwork]].**
 - **To [[d/_dull|dull]] the [[e/_edge|edge]] or [[p/_point|point]] of; to [[b/_blunt|blunt]].**
 - **To [[d/_destroy|destroy]], or [[l/_level|level]] to the [[g/_ground|ground]].**
 ---

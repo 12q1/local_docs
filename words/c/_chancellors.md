@@ -1,7 +1,7 @@
 # Chancellors
 ---
 #noun
-- **A [[s/_senior|senior]] [[s/_secretary|secretary]] or [[o/_official|official]] with [[a/_administrative|administrative]] or [[l/_legal|legal]] [[d/_duties|duties]], [[s/_sometimes|sometimes]] in [[c/_charge|charge]] of [[s/_some|some]] [[a/_area|area]] of [[g/_government|government]] such as [[f/_finance|finance]] or [[j/_justice|justice]].**
+- **A [[s/_senior|senior]] [[s/_secretary|secretary]] or [[o/_official|official]] with [[a/_administrative|administrative]] or [[l/_legal|legal]] [[d/_duties|duties]], [[s/_sometimes|sometimes]] in [[c/_charge|charge]] of [[s/_some|some]] [[a/_area|area]] of [[g/_government|government]] [[s/_such|such]] as [[f/_finance|finance]] or [[j/_justice|justice]].**
 	- _Example: Chancellor of the Duchy of Lancaster  Lord Chancellor_
 - **The [[h/_head|head]] of the [[g/_government|government]] in [[s/_some|some]] [[g/_german|German]]-[[s/_speaking|speaking]] [[c/_countries|countries]].**
 	- _Example: the Austrian Chancellor_

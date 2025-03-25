@@ -3,7 +3,7 @@
 #verb
 - **To [[p/_place|place]] in or [[h/_hang|hang]] on a [[r/_rack|rack]].**
 - **To torture ([[s/_someone|someone]]) on the [[r/_rack|rack]].**
-- **To [[c/_cause|cause]] ([[s/_someone|someone]]) to suffer [[p/_pain|pain]].**
+- **To [[c/_cause|cause]] ([[s/_someone|someone]]) to [[s/_suffer|suffer]] [[p/_pain|pain]].**
 - **To [[s/_stretch|stretch]] or [[s/_strain|strain]]; to [[h/_harass|harass]], or [[o/_oppress|oppress]] by [[e/_extortion|extortion]].**
 - **To [[p/_put|put]] the [[b/_balls|balls]] [[i/_into|into]] the triangular [[r/_rack|rack]] and [[s/_set|set]] them in [[p/_place|place]] on the table.**
 - **To [[s/_strike|strike]] a [[m/_male|male]] in the testicles.**

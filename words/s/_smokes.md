@@ -41,7 +41,7 @@
 - **To [[r/_ridicule|ridicule]] to the [[f/_face|face]]; to [[m/_mock|mock]].**
 - **To [[b/_burn|burn]]; to be [[k/_kindled|kindled]]; to [[r/_rage|rage]].**
 - **To [[r/_raise|raise]] a [[d/_dust|dust]] or [[s/_smoke|smoke]] by [[r/_rapid|rapid]] [[m/_motion|motion]].**
-- **To suffer [[s/_severely|severely]]; to be [[p/_punished|punished]].**
+- **To [[s/_suffer|suffer]] [[s/_severely|severely]]; to be [[p/_punished|punished]].**
 - **To [[p/_punish|punish]] (a [[p/_person|person]]) for a [[m/_minor|minor]] [[o/_offense|offense]] by [[e/_excessive|excessive]] [[p/_physical|physical]] [[e/_exercise|exercise]].**
 - **To [[c/_cover|cover]] (a [[k/_key|key]] [[b/_blank|blank]]) with [[s/_soot|soot]] or [[c/_carbon|carbon]] to [[a/_aid|aid]] in [[s/_seeing|seeing]] the [[m/_marks|marks]] [[m/_made|made]] by impressioning.**
 ---

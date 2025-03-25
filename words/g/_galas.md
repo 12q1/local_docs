@@ -5,6 +5,6 @@
 - **A [[s/_showy|showy]] and [[f/_festive|festive]] [[p/_party|party]].**
 ---
 #noun
-- **A [[m/_member|member]] of an [[a/_androgynous|androgynous]] [[c/_class|class]] of [[p/_priests|priests]] of the Sumerian [[g/_goddess|goddess]] Inanna.**
+- **A [[m/_member|member]] of an [[a/_androgynous|androgynous]] [[c/_class|class]] of [[p/_priests|priests]] of the [[s/_sumerian|Sumerian]] [[g/_goddess|goddess]] Inanna.**
 ---
 ---

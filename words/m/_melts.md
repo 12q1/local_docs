@@ -5,7 +5,7 @@
 - **The transition of [[m/_matter|matter]] from a [[s/_solid|solid]] [[s/_state|state]] to a [[l/_liquid|liquid]] [[s/_state|state]].**
 - **The [[s/_springtime|springtime]] [[s/_snow|snow]] [[r/_runoff|runoff]] in [[m/_mountain|mountain]] [[r/_regions|regions]].**
 - **A [[m/_melt|melt]] [[s/_sandwich|sandwich]].**
-- **A wax-[[b/_based|based]] substance for use in an [[o/_oil|oil]] [[b/_burner|burner]] as an [[a/_alternative|alternative]] to [[m/_mixing|mixing]] [[o/_oils|oils]] and water.**
+- **A wax-[[b/_based|based]] [[s/_substance|substance]] for use in an [[o/_oil|oil]] [[b/_burner|burner]] as an [[a/_alternative|alternative]] to [[m/_mixing|mixing]] [[o/_oils|oils]] and water.**
 - **An [[i/_idiot|idiot]].**
 ---
 #verb

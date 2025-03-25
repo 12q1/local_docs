@@ -5,7 +5,7 @@
 - **To [[i/_include|include]] as a [[p/_part|part]].**
 - **To [[p/_put|put]] [[c/_constraint|constraint]] upon; to [[r/_restrain|restrain]]; to [[c/_confine|confine]]; to [[k/_keep|keep]] within [[b/_bounds|bounds]].**
 	- _Example: I'm so excited, I can hardly contain myself!_
-- **(of a [[s/_set|set]] [[e/_etc|etc]].) To [[h/_have|have]] as an [[e/_element|element]] or subset.**
+- **(of a [[s/_set|set]] [[e/_etc|etc]].) To [[h/_have|have]] as an [[e/_element|element]] or [[s/_subset|subset]].**
 	- _Example: A group contains a unique inverse for each of its elements._
 - **To [[r/_restrain|restrain]] [[d/_desire|desire]]; to [[l/_live|live]] in [[c/_continence|continence]] or [[c/_chastity|chastity]].**
 ---

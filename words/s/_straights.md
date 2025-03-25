@@ -1,7 +1,7 @@
 # Straights
 ---
 #noun
-- **[[s/_something|Something]] that is not [[c/_crooked|crooked]] or [[b/_bent|bent]] such as a [[p/_part|part]] of a [[r/_road|road]] or track.**
+- **[[s/_something|Something]] that is not [[c/_crooked|crooked]] or [[b/_bent|bent]] [[s/_such|such]] as a [[p/_part|part]] of a [[r/_road|road]] or track.**
 - **[[f/_five|Five]] [[c/_cards|cards]] in [[s/_sequence|sequence]].**
 - **A [[h/_heterosexual|heterosexual]].**
 	- _Example: My friends call straights "heteros"._

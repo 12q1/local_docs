@@ -6,7 +6,7 @@
 - **An [[o/_old|old]] woman, [[e/_especially|especially]] a wrinkly [[o/_one|one]].**
 ---
 #verb
-- **To [[b/_become|become]] wrinkled [[l/_like|like]] a [[d/_dried|dried]] [[p/_plum|plum]], as the [[f/_fingers|fingers]] and toes [[d/_do|do]] when [[k/_kept|kept]] submerged in water.**
+- **To [[b/_become|become]] wrinkled [[l/_like|like]] a [[d/_dried|dried]] [[p/_plum|plum]], as the [[f/_fingers|fingers]] and toes [[d/_do|do]] when [[k/_kept|kept]] [[s/_submerged|submerged]] in water.**
 ---
 #verb
 - **To [[r/_remove|remove]] [[e/_excess|excess]] [[m/_material|material]] from a tree or [[s/_shrub|shrub]]; to trim, [[e/_especially|especially]] to [[m/_make|make]] [[m/_more|more]] [[h/_healthy|healthy]] or [[p/_productive|productive]].**

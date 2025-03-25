@@ -3,7 +3,7 @@
 #verb
 - **([[s/_sometimes|sometimes]] with [[o/_out|out]] or through) To [[d/_delete|delete]] or [[c/_cross|cross]] [[o/_out|out]]; to [[s/_scratch|scratch]] or [[e/_eliminate|eliminate]].**
 	- _Example: Please strike the last sentence._
-- **([[p/_physical|physical]]) To [[h/_have|have]] a [[s/_sharp|sharp]] or sudden [[e/_effect|effect]].**
+- **([[p/_physical|physical]]) To [[h/_have|have]] a [[s/_sharp|sharp]] or [[s/_sudden|sudden]] [[e/_effect|effect]].**
 - **To thrust in; to [[c/_cause|cause]] to [[e/_enter|enter]] or [[p/_penetrate|penetrate]].**
 	- _Example: A tree strikes its roots deep._
 - **([[p/_personal|personal]], [[s/_social|social]]) To [[h/_have|have]] a [[s/_sharp|sharp]] or [[s/_severe|severe]] [[e/_effect|effect]].**
@@ -12,16 +12,16 @@
 - **To [[s/_set|set]] [[o/_off|off]] on a walk or trip.**
 	- _Example: They struck off along the river._
 - **To [[p/_pass|pass]] with a [[q/_quick|quick]] or [[s/_strong|strong]] [[e/_effect|effect]]; to [[d/_dart|dart]]; to [[p/_penetrate|penetrate]].**
-- **To [[b/_break|break]] [[f/_forth|forth]]; to [[c/_commence|commence]] suddenly; with [[i/_into|into]].**
+- **To [[b/_break|break]] [[f/_forth|forth]]; to [[c/_commence|commence]] [[s/_suddenly|suddenly]]; with [[i/_into|into]].**
 	- _Example: to strike into reputation;  to strike into a run_
 - **To [[b/_become|become]] [[a/_attached|attached]] to [[s/_something|something]]; [[s/_said|said]] of the [[s/_spat|spat]] of [[o/_oysters|oysters]].**
 - **To [[m/_make|make]] and [[r/_ratify|ratify]].**
 	- _Example: to strike a bargain_
 - **To [[l/_level|level]] (a [[m/_measure|measure]] of [[g/_grain|grain]], [[s/_salt|salt]], [[e/_etc|etc]].) with a [[s/_straight|straight]] [[i/_instrument|instrument]], [[s/_scraping|scraping]] [[o/_off|off]] what is [[a/_above|above]] the [[l/_level|level]] of the top.**
 - **To [[c/_cut|cut]] [[o/_off|off]] (a [[m/_mortar|mortar]] [[j/_joint|joint]], [[e/_etc|etc]].) [[e/_even|even]] with the [[f/_face|face]] of the wall, or [[i/_inward|inward]] at a [[s/_slight|slight]] [[a/_angle|angle]].**
-- **To [[h/_hit|hit]] upon, or [[l/_light|light]] upon, suddenly.**
+- **To [[h/_hit|hit]] upon, or [[l/_light|light]] upon, [[s/_suddenly|suddenly]].**
 	- _Example: My eye struck a strange word in the text.  They soon struck the trail._
-- **(sugar-[[m/_making|making]]) To [[l/_lade|lade]] thickened sugar [[c/_cane|cane]] [[j/_juice|juice]] from a teache [[i/_into|into]] a [[c/_cooler|cooler]].**
+- **([[s/_sugar|sugar]]-[[m/_making|making]]) To [[l/_lade|lade]] thickened [[s/_sugar|sugar]] [[c/_cane|cane]] [[j/_juice|juice]] from a teache [[i/_into|into]] a [[c/_cooler|cooler]].**
 - **To [[s/_stroke|stroke]] or [[p/_pass|pass]] [[l/_lightly|lightly]]; to wave.**
 - **To [[a/_advance|advance]]; to [[c/_cause|cause]] to [[g/_go|go]] [[f/_forward|forward]]; used [[o/_only|only]] in the [[p/_past|past]] [[p/_participle|participle]].**
 - **To [[b/_balance|balance]] (a [[l/_ledger|ledger]] or [[a/_account|account]]).**

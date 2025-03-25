@@ -1,16 +1,16 @@
 # Implied
 ---
 #adjective
-- **Suggested without [[b/_being|being]] [[s/_stated|stated]] [[d/_directly|directly]]; [[i/_implicated|implicated]] or [[h/_hinted|hinted]] at.**
+- **[[s/_suggested|Suggested]] without [[b/_being|being]] [[s/_stated|stated]] [[d/_directly|directly]]; [[i/_implicated|implicated]] or [[h/_hinted|hinted]] at.**
 ---
 ### Antonyms
 - [[e/_express|express]], [[v/_verbal|verbal]]
 #verb
 - **(of a [[p/_proposition|proposition]]) to [[h/_have|have]] as a [[n/_necessary|necessary]] [[c/_consequence|consequence]]**
 	- _Example: The proposition that "all dogs are mammals" implies that my dog is a mammal_
-- **(of a [[p/_person|person]]) to suggest by [[l/_logical|logical]] [[i/_inference|inference]]**
+- **(of a [[p/_person|person]]) to [[s/_suggest|suggest]] by [[l/_logical|logical]] [[i/_inference|inference]]**
 	- _Example: When I state that your dog is brown, I am not implying that all dogs are brown_
-- **(of a [[p/_person|person]] or [[p/_proposition|proposition]]) to [[h/_hint|hint]]; to [[i/_insinuate|insinuate]]; to suggest tacitly and [[a/_avoid|avoid]] a [[d/_direct|direct]] [[s/_statement|statement]]**
+- **(of a [[p/_person|person]] or [[p/_proposition|proposition]]) to [[h/_hint|hint]]; to [[i/_insinuate|insinuate]]; to [[s/_suggest|suggest]] tacitly and [[a/_avoid|avoid]] a [[d/_direct|direct]] [[s/_statement|statement]]**
 - **To [[e/_enfold|enfold]], [[e/_entangle|entangle]].**
 ---
 ### Synonyms

@@ -3,7 +3,7 @@
 #noun
 - **A tramp or [[h/_homeless|homeless]] [[y/_young|young]] [[p/_person|person]] with [[p/_poor|poor]] [[c/_cleanliness|cleanliness]].**
 - **[[d/_dried|Dried]] [[e/_eye|eye]] [[m/_mucus|mucus]].**
-- **A [[m/_member|member]] of an urban subculture with [[r/_roots|roots]] in [[p/_punk|punk]] and [[g/_grebo|grebo]], [[c/_characterized|characterized]] by [[a/_antiestablishment|antiestablishment]] [[a/_attitudes|attitudes]] and an unkempt [[a/_appearance|appearance]].**
+- **A [[m/_member|member]] of an urban [[s/_subculture|subculture]] with [[r/_roots|roots]] in [[p/_punk|punk]] and [[g/_grebo|grebo]], [[c/_characterized|characterized]] by [[a/_antiestablishment|antiestablishment]] [[a/_attitudes|attitudes]] and an unkempt [[a/_appearance|appearance]].**
 ---
 ### Synonyms
 - [[g/_gound|gound]], [[s/_sleep|sleep]]

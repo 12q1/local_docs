@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_stupid|stupid]] [[p/_person|person]].**
-- **[[a/_any|Any]] of various [[l/_large|large]] tropical [[s/_seabirds|seabirds]] from the [[g/_genera|genera]] Sula and Papasula in the [[g/_gannet|gannet]] [[f/_family|family]] Sulidae, traditionally [[c/_considered|considered]] to be [[s/_stupid|stupid]].**
+- **[[a/_any|Any]] of various [[l/_large|large]] tropical [[s/_seabirds|seabirds]] from the [[g/_genera|genera]] [[s/_sula|Sula]] and Papasula in the [[g/_gannet|gannet]] [[f/_family|family]] [[s/_sulidae|Sulidae]], traditionally [[c/_considered|considered]] to be [[s/_stupid|stupid]].**
 - **In the [[g/_game|game]] of [[c/_croquet|croquet]], a [[b/_ball|ball]] that [[h/_has|has]] not [[p/_passed|passed]] through the [[f/_first|first]] wicket.**
 ---
 ### Synonyms

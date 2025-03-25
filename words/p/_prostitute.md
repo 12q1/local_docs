@@ -15,6 +15,6 @@
 #adjective
 - **[[d/_debased|Debased]], [[c/_corrupt|corrupt]]; [[s/_seeking|seeking]] [[p/_personal|personal]] [[g/_gain|gain]] by [[d/_dishonourable|dishonourable]] [[m/_means|means]].**
 - **Taking [[p/_part|part]] in [[p/_promiscuous|promiscuous]] [[s/_sexual|sexual]] [[a/_activity|activity]], [[l/_licentious|licentious]]; ([[l/_later|later]], [[c/_chiefly|chiefly]] as [[a/_attributive|attributive]] use of [[n/_noun|noun]]) that is a [[p/_prostitute|prostitute]].**
-- **[[e/_exposed|Exposed]], subjected (to [[s/_something|something]] [[s/_shameful|shameful]]).**
+- **[[e/_exposed|Exposed]], [[s/_subjected|subjected]] (to [[s/_something|something]] [[s/_shameful|shameful]]).**
 ---
 ---

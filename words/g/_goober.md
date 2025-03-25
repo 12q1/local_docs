@@ -15,7 +15,7 @@
 ---
 #verb
 - **To [[d/_drool|drool]] or [[d/_dribble|dribble]].**
-- **To [[d/_drip|drip]] or [[s/_slather|slather]]; to [[a/_apply|apply]] a [[g/_gooey|gooey]] substance to a surface.**
+- **To [[d/_drip|drip]] or [[s/_slather|slather]]; to [[a/_apply|apply]] a [[g/_gooey|gooey]] [[s/_substance|substance]] to a surface.**
 ---
 #noun
 - **A [[l/_legume|legume]] [[r/_resembling|resembling]] a [[n/_nut|nut]], the [[f/_fruit|fruit]] of the [[p/_plant|plant]] [[a/_arachis|Arachis]] hypogaea.**

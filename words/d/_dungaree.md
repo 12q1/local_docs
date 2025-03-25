@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[h/_heavy|Heavy]] [[d/_denim|denim]] [[f/_fabric|fabric]], [[o/_often|often]] [[b/_blue|blue]]; [[b/_blue|blue]] [[j/_jean|jean]] [[m/_material|material]].**
-- **[[p/_pants|Pants]] or [[o/_overalls|overalls]] [[m/_made|made]] from such [[f/_fabric|fabric]].**
+- **[[p/_pants|Pants]] or [[o/_overalls|overalls]] [[m/_made|made]] from [[s/_such|such]] [[f/_fabric|fabric]].**
 ---
 ### Synonyms
 - [[c/_canvas|canvas]], [[d/_denim|denim]], [[d/_duck|duck]]

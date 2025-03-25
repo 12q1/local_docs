@@ -1,7 +1,7 @@
 # Mold
 ---
 #noun
-- **A [[h/_hollow|hollow]] [[f/_form|form]] or [[m/_matrix|matrix]] for [[s/_shaping|shaping]] a [[f/_fluid|fluid]] or [[p/_plastic|plastic]] substance.**
+- **A [[h/_hollow|hollow]] [[f/_form|form]] or [[m/_matrix|matrix]] for [[s/_shaping|shaping]] a [[f/_fluid|fluid]] or [[p/_plastic|plastic]] [[s/_substance|substance]].**
 - **A [[f/_frame|frame]] or [[m/_model|model]] [[a/_around|around]] or on which [[s/_something|something]] is [[f/_formed|formed]] or [[s/_shaped|shaped]].**
 - **[[s/_something|Something]] that is [[m/_made|made]] in or [[s/_shaped|shaped]] on a [[m/_mold|mold]].**
 - **The [[s/_shape|shape]] or [[p/_pattern|pattern]] of a [[m/_mold|mold]].**

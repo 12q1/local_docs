@@ -1,7 +1,7 @@
 # Yanks
 ---
 #noun
-- **A sudden, vigorous [[p/_pull|pull]] ([[s/_sometimes|sometimes]] [[d/_defined|defined]] as [[m/_mass|mass]] times [[j/_jerk|jerk]], or [[r/_rate|rate]] of [[c/_change|change]] of [[f/_force|force]]).**
+- **A [[s/_sudden|sudden]], vigorous [[p/_pull|pull]] ([[s/_sometimes|sometimes]] [[d/_defined|defined]] as [[m/_mass|mass]] times [[j/_jerk|jerk]], or [[r/_rate|rate]] of [[c/_change|change]] of [[f/_force|force]]).**
 - **A [[m/_masturbation|masturbation]] [[s/_session|session]].**
 ---
 ### Synonyms

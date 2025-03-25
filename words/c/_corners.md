@@ -8,7 +8,7 @@
 - **A [[s/_secret|secret]] or [[s/_secluded|secluded]] [[p/_place|place]]; a [[r/_remote|remote]] or [[o/_out|out]] of the way [[p/_place|place]]; a [[n/_nook|nook]].**
 	- _Example: On weekends, Emily liked to find a quiet corner and curl up with a good book._
 - **An [[e/_embarrassing|embarrassing]] [[s/_situation|situation]]; a [[d/_difficulty|difficulty]].**
-- **A sufficient [[i/_interest|interest]] in a [[s/_salable|salable]] [[s/_security|security]] or [[c/_commodity|commodity]] to [[a/_allow|allow]] the [[c/_cornering|cornering]] [[p/_party|party]] to [[i/_influence|influence]] [[p/_prices|prices]].**
+- **A [[s/_sufficient|sufficient]] [[i/_interest|interest]] in a [[s/_salable|salable]] [[s/_security|security]] or [[c/_commodity|commodity]] to [[a/_allow|allow]] the [[c/_cornering|cornering]] [[p/_party|party]] to [[i/_influence|influence]] [[p/_prices|prices]].**
 	- _Example: In the 1970s, private investors tried to get a corner on the silver market, but were ultimately unsuccessful._
 - **([[h/_heading|heading]]) [[r/_relating|Relating]] to the [[p/_playing|playing]] [[f/_field|field]].**
 - **A [[p/_place|place]] where [[p/_people|people]] [[m/_meet|meet]] for a [[p/_particular|particular]] [[p/_purpose|purpose]].**
@@ -23,7 +23,7 @@
 - **To trap in a [[p/_position|position]] of [[g/_great|great]] [[d/_difficulty|difficulty]] or [[h/_hopeless|hopeless]] [[e/_embarrassment|embarrassment]].**
 	- _Example: The reporter cornered the politician by pointing out the hypocrisy of his position on mandatory sentencing, in light of the politician's own actions in court._
 - **To [[p/_put|put]] ([[s/_someone|someone]]) in an [[a/_awkward|awkward]] [[s/_situation|situation]].**
-- **To [[g/_get|get]] sufficient [[c/_command|command]] of (a [[s/_stock|stock]], [[c/_commodity|commodity]], [[e/_etc|etc]].), [[s/_so|so]] as to be [[a/_able|able]] to [[m/_manipulate|manipulate]] [[i/_its|its]] [[p/_price|price]].**
+- **To [[g/_get|get]] [[s/_sufficient|sufficient]] [[c/_command|command]] of (a [[s/_stock|stock]], [[c/_commodity|commodity]], [[e/_etc|etc]].), [[s/_so|so]] as to be [[a/_able|able]] to [[m/_manipulate|manipulate]] [[i/_its|its]] [[p/_price|price]].**
 	- _Example: It's extremely hard to corner the petroleum market because there are so many players._
 - **To turn a [[c/_corner|corner]] or [[d/_drive|drive]] [[a/_around|around]] a [[c/_curve|curve]].**
 	- _Example: As the stock car driver cornered the last turn, he lost control and spun out._

@@ -9,7 +9,7 @@
 	- _Example: Main course and mainsail are the same thing in a sailing ship._
 - **(in the [[p/_plural|plural]], [[c/_courses|courses]]) [[m/_menses|Menses]].**
 - **A [[r/_row|row]] or [[f/_file|file]] of [[o/_objects|objects]].**
-- **[[o/_one|One]] or [[m/_more|more]] [[s/_strings|strings]] on [[s/_some|some]] [[m/_musical|musical]] [[i/_instruments|instruments]] (such as the [[g/_guitar|guitar]], [[l/_lute|lute]] or vihuela): [[i/_if|if]] [[m/_multiple|multiple]], then [[c/_closely|closely]] [[s/_spaced|spaced]], tuned in unison or [[o/_octaves|octaves]] and [[i/_intended|intended]] to [[p/_played|played]] together.**
+- **[[o/_one|One]] or [[m/_more|more]] [[s/_strings|strings]] on [[s/_some|some]] [[m/_musical|musical]] [[i/_instruments|instruments]] ([[s/_such|such]] as the [[g/_guitar|guitar]], [[l/_lute|lute]] or vihuela): [[i/_if|if]] [[m/_multiple|multiple]], then [[c/_closely|closely]] [[s/_spaced|spaced]], tuned in unison or [[o/_octaves|octaves]] and [[i/_intended|intended]] to [[p/_played|played]] together.**
 ---
 #verb
 - **To [[r/_run|run]] or [[f/_flow|flow]] ([[e/_especially|especially]] of [[l/_liquids|liquids]] and [[m/_more|more]] [[p/_particularly|particularly]] [[b/_blood|blood]]).**

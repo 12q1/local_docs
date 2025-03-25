@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_part|part]] of [[s/_something|something]] that [[h/_has|has]] [[b/_been|been]] [[s/_separated|separated]].**
 	- _Example: The statue broke into chunks._
-- **A [[r/_representative|representative]] [[p/_portion|portion]] of a substance, [[o/_often|often]] [[l/_large|large]] and [[i/_irregular|irregular]].**
+- **A [[r/_representative|representative]] [[p/_portion|portion]] of a [[s/_substance|substance]], [[o/_often|often]] [[l/_large|large]] and [[i/_irregular|irregular]].**
 	- _Example: a chunk of granite_
 - **A [[s/_sequence|sequence]] of two or [[m/_more|more]] words that [[o/_occur|occur]] in [[l/_language|language]] with [[h/_high|high]] [[f/_frequency|frequency]] but are not [[i/_idiomatic|idiomatic]]; a [[b/_bundle|bundle]] or [[c/_cluster|cluster]].**
 	- _Example: examples of chunks would include "in accordance with", "the results of", and "so far"_

@@ -26,9 +26,9 @@
 ---
 #noun
 - **[[e/_either|Either]] of the two [[p/_points|points]] on the [[e/_earth|earth]]'[[s/_s|s]] surface [[a/_around|around]] which it [[r/_rotates|rotates]]; [[a/_also|also]], [[s/_similar|similar]] [[p/_points|points]] on [[a/_any|any]] [[o/_other|other]] [[r/_rotating|rotating]] [[o/_object|object]].**
-- **A [[p/_point|point]] of [[m/_magnetic|magnetic]] [[f/_focus|focus]], [[e/_especially|especially]] [[e/_each|each]] of the two [[o/_opposing|opposing]] such [[p/_points|points]] of a [[m/_magnet|magnet]] ([[d/_designated|designated]] [[n/_north|north]] and [[s/_south|south]]).**
+- **A [[p/_point|point]] of [[m/_magnetic|magnetic]] [[f/_focus|focus]], [[e/_especially|especially]] [[e/_each|each]] of the two [[o/_opposing|opposing]] [[s/_such|such]] [[p/_points|points]] of a [[m/_magnet|magnet]] ([[d/_designated|designated]] [[n/_north|north]] and [[s/_south|south]]).**
 - **A [[f/_fixed|fixed]] [[p/_point|point]] [[r/_relative|relative]] to [[o/_other|other]] [[p/_points|points]] or [[l/_lines|lines]].**
-- **A [[c/_contact|contact]] on an [[e/_electrical|electrical]] [[d/_device|device]] (such as a [[b/_battery|battery]]) at which [[e/_electric|electric]] [[c/_current|current]] [[e/_enters|enters]] or [[l/_leaves|leaves]].**
+- **A [[c/_contact|contact]] on an [[e/_electrical|electrical]] [[d/_device|device]] ([[s/_such|such]] as a [[b/_battery|battery]]) at which [[e/_electric|electric]] [[c/_current|current]] [[e/_enters|enters]] or [[l/_leaves|leaves]].**
 - **For a [[m/_meromorphic|meromorphic]] [[f/_function|function]] [[f/_f|f]](z), [[a/_any|any]] [[p/_point|point]] a for which [[f/_f|f]](z) \rightarrow \infty as z \rightarrow a.**
 	- _Example: The function f(z) = \frac{1}{z-3} has a single pole at z = 3_
 - **The [[f/_firmament|firmament]]; the [[s/_sky|sky]].**
@@ -37,6 +37,6 @@
 ### Antonyms
 - [[z/_zero|zero]]
 #verb
-- **To [[i/_induce|induce]] [[p/_piezoelectricity|piezoelectricity]] in (a substance) by [[a/_aligning|aligning]] the [[d/_dipoles|dipoles]].**
+- **To [[i/_induce|induce]] [[p/_piezoelectricity|piezoelectricity]] in (a [[s/_substance|substance]]) by [[a/_aligning|aligning]] the [[d/_dipoles|dipoles]].**
 ---
 ---

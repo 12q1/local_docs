@@ -9,7 +9,7 @@
 - **A ten-[[c/_cent|cent]] [[p/_piece|piece]], [[d/_dime|dime]].**
 - **A unit of [[c/_currency|currency]] or [[c/_coin|coin]] in the [[a/_americas|Americas]] worth a [[f/_fraction|fraction]] of a [[s/_spanish|Spanish]] [[d/_dollar|dollar]]; [[n/_now|now]] [[s/_specifically|specifically]], an [[e/_eighth|eighth]] of a US [[d/_dollar|dollar]].**
 	- _Example: A quarter is two bits._
-- **In the [[s/_southern|southern]] and [[s/_southwestern|southwestern]] [[s/_states|states]], a [[s/_small|small]] [[s/_silver|silver]] [[c/_coin|coin]] (such as the [[r/_real|real]]) [[f/_formerly|formerly]] [[c/_current|current]]; [[c/_commonly|commonly]], [[o/_one|one]] worth [[a/_about|about]] 12½ [[c/_cents|cents]]; [[a/_also|also]], the sum of 12½ [[c/_cents|cents]].**
+- **In the [[s/_southern|southern]] and [[s/_southwestern|southwestern]] [[s/_states|states]], a [[s/_small|small]] [[s/_silver|silver]] [[c/_coin|coin]] ([[s/_such|such]] as the [[r/_real|real]]) [[f/_formerly|formerly]] [[c/_current|current]]; [[c/_commonly|commonly]], [[o/_one|one]] worth [[a/_about|about]] 12½ [[c/_cents|cents]]; [[a/_also|also]], the [[s/_sum|sum]] of 12½ [[c/_cents|cents]].**
 - **A [[s/_small|small]] [[a/_amount|amount]] of [[s/_something|something]].**
 	- _Example: There were bits of paper all over the floor.   Does your leg still hurt? / Just a bit now.   I've done my bit; I expect you to do yours._
 - **[[s/_specifically|Specifically]], a [[s/_small|small]] [[a/_amount|amount]] of time.**

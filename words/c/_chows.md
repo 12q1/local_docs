@@ -10,10 +10,10 @@
 - **To [[e/_eat|eat]].**
 ---
 #noun
-- **A [[p/_prefecture|prefecture]] or [[d/_district|district]] of the [[s/_second|second]] [[r/_rank|rank]] in [[c/_china|China]], or the [[c/_chief|chief]] [[c/_city|city]] of such a [[d/_district|district]].**
+- **A [[p/_prefecture|prefecture]] or [[d/_district|district]] of the [[s/_second|second]] [[r/_rank|rank]] in [[c/_china|China]], or the [[c/_chief|chief]] [[c/_city|city]] of [[s/_such|such]] a [[d/_district|district]].**
 ---
 #noun
-- **A [[r/_run|run]] of three [[c/_consecutive|consecutive]] tiles of the [[s/_same|same]] suit.**
+- **A [[r/_run|run]] of three [[c/_consecutive|consecutive]] tiles of the [[s/_same|same]] [[s/_suit|suit]].**
 ---
 #verb
 - **To [[c/_call|call]] a [[d/_discarded|discarded]] tile to [[p/_produce|produce]] a [[c/_chow|chow]].**

@@ -6,7 +6,7 @@
 - **In textual [[c/_criticism|criticism]], two [[d/_different|different]] [[n/_narrative|narrative]] [[a/_accounts|accounts]] of the [[s/_same|same]] [[a/_actual|actual]] [[e/_event|event]].**
 - **([[l/_lapidary|lapidary]]) An [[i/_imitation|imitation]] [[g/_gem|gem]] [[m/_made|made]] of two [[p/_pieces|pieces]] of [[g/_glass|glass]] or [[c/_crystal|crystal]] with a [[l/_layer|layer]] of [[c/_color|color]] [[b/_between|between]] them.**
 - **A word or [[p/_phrase|phrase]] [[s/_set|set]] a [[s/_second|second]] time by [[m/_mistake|mistake]].**
-- **A [[q/_quantum|quantum]] [[s/_state|state]] of a [[s/_system|system]] with a [[s/_spin|spin]] of ½, such that there are two [[a/_allowed|allowed]] values of the [[s/_spin|spin]] [[c/_component|component]], −½ and +½.**
+- **A [[q/_quantum|quantum]] [[s/_state|state]] of a [[s/_system|system]] with a [[s/_spin|spin]] of ½, [[s/_such|such]] that there are two [[a/_allowed|allowed]] values of the [[s/_spin|spin]] [[c/_component|component]], −½ and +½.**
 - **A word (or [[r/_rather|rather]], a [[h/_halfword|halfword]]) [[c/_consisting|consisting]] of two [[b/_bytes|bytes]].**
 - **A very [[s/_small|small]] [[f/_flowering|flowering]] [[p/_plant|plant]], Dimeresia howellii.**
 - **A word [[l/_ladder|ladder]] [[p/_puzzle|puzzle]].**

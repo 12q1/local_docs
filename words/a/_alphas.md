@@ -6,7 +6,7 @@
 - **The [[n/_name|name]] of the [[s/_symbols|symbols]] Α and α used in [[s/_science|science]] and [[m/_mathematics|mathematics]], [[o/_often|often]] [[i/_interchangeable|interchangeable]] with the [[s/_symbols|symbols]] when used as a [[p/_prefix|prefix]].**
 	- _Example: I will attempt to make an alpha particle ("α-particle") with the Large Hadron Collider._
 - **The [[r/_return|return]] of a [[g/_given|given]] [[a/_asset|asset]] or [[p/_portfolio|portfolio]] [[a/_adjusted|adjusted]] for [[s/_systematic|systematic]] [[r/_risk|risk]].**
-- **A [[p/_person|person]], [[e/_especially|especially]] a [[m/_male|male]], who is [[d/_dominant|dominant]], successful and [[a/_attractive|attractive]]; ([[s/_see|see]] [[a/_alpha|alpha]] [[m/_male|male]]).**
+- **A [[p/_person|person]], [[e/_especially|especially]] a [[m/_male|male]], who is [[d/_dominant|dominant]], [[s/_successful|successful]] and [[a/_attractive|attractive]]; ([[s/_see|see]] [[a/_alpha|alpha]] [[m/_male|male]]).**
 - **([[a/_abbreviation|abbreviation]]) [[a/_alphabet|Alphabet]].**
 - **The [[f/_first|first]] versions of a [[p/_program|program]], usually [[o/_only|only]] [[a/_available|available]] to the [[d/_developer|developer]], and [[o/_only|only]] tested by the [[d/_developer|developer]].**
 - **The [[l/_level|level]] of translucency of a [[c/_color|color]], as [[d/_determined|determined]] by the [[a/_alpha|alpha]] [[c/_channel|channel]].**

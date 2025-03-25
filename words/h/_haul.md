@@ -15,7 +15,7 @@
 - **To [[d/_draw|draw]] or [[p/_pull|pull]] [[s/_something|something]] [[h/_heavy|heavy]].**
 - **To [[c/_carry|carry]] or transport [[s/_something|something]], with a [[c/_connotation|connotation]] that the [[i/_item|item]] is [[h/_heavy|heavy]] or [[o/_otherwise|otherwise]] [[d/_difficult|difficult]] to [[m/_move|move]].**
 - **To [[d/_drag|drag]], to [[p/_pull|pull]], to tug.**
-- **[[f/_followed|Followed]] by up: to summon to be [[d/_disciplined|disciplined]] or [[h/_held|held]] [[a/_answerable|answerable]] for [[s/_something|something]].**
+- **[[f/_followed|Followed]] by up: to [[s/_summon|summon]] to be [[d/_disciplined|disciplined]] or [[h/_held|held]] [[a/_answerable|answerable]] for [[s/_something|something]].**
 - **To [[p/_pull|pull]] [[a/_apart|apart]], as [[o/_oxen|oxen]] [[s/_sometimes|sometimes]] [[d/_do|do]] when [[y/_yoked|yoked]].**
 - **To [[s/_steer|steer]] (a vessel) [[c/_closer|closer]] to the wind.**
 - **Of the wind: to [[s/_shift|shift]] [[f/_fore|fore]] ([[m/_more|more]] towards the [[b/_bow|bow]]).**

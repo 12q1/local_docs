@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_pointed|pointed]] [[p/_portion|portion]] of an [[i/_insect|insect]] or [[a/_arachnid|arachnid]] used for [[a/_attack|attack]].**
 - **[[a/_anything|Anything]] that is used to [[s/_sting|sting]], as a [[m/_means|means]] of [[a/_attack|attack]].**
-- **[[a/_anything|Anything]], such as an [[i/_insult|insult]], that [[s/_stings|stings]] [[m/_mentally|mentally]] or [[p/_psychologically|psychologically]].**
+- **[[a/_anything|Anything]], [[s/_such|such]] as an [[i/_insult|insult]], that [[s/_stings|stings]] [[m/_mentally|mentally]] or [[p/_psychologically|psychologically]].**
 - **A [[c/_cocktail|cocktail]] of [[b/_brandy|brandy]] and [[c/_cr|cr]]è[[m/_me|me]] [[d/_de|de]] [[m/_menthe|menthe]].**
 - **A [[p/_portable|portable]] [[b/_bed|bed]] of [[n/_nails|nails]] to [[p/_puncture|puncture]] [[c/_car|car]] tires, used by [[p/_police|police]] and [[m/_military|military]] [[f/_forces|forces]].**
 - **A [[m/_minor|minor]] [[n/_neurological|neurological]] [[i/_injury|injury]] of the [[s/_spine|spine]] [[c/_characterized|characterized]] by a [[s/_shooting|shooting]] or [[s/_stinging|stinging]] [[p/_pain|pain]] [[d/_down|down]] [[o/_one|one]] [[a/_arm|arm]], [[f/_followed|followed]] by [[n/_numbness|numbness]] and weakness.**

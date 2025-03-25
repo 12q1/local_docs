@@ -7,7 +7,7 @@
 #verb
 - **([[p/_provincial|provincial]]) To try, [[a/_attempt|attempt]]; take [[a/_aim|aim]].**
 - **([[p/_provincial|provincial]]) To try, [[a/_attempt|attempt]], [[e/_endeavor|endeavor]]; to take [[a/_aim|aim]] at; to try to [[h/_hit|hit]]; to [[p/_purpose|purpose]].**
-- **To [[h/_hint|hint]]; suggest; [[i/_insinuate|insinuate]].**
+- **To [[h/_hint|hint]]; [[s/_suggest|suggest]]; [[i/_insinuate|insinuate]].**
 ---
 #adjective
 - **[[m/_made|Made]] [[i/_into|into]] [[c/_coinage|coinage]]; [[c/_coined|coined]]**

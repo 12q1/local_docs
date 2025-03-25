@@ -4,7 +4,7 @@
 - **A [[n/_narcotics|narcotics]] [[s/_squad|squad]] [[p/_police|police]] [[o/_officer|officer]].**
 ---
 #verb
-- **(underwater [[d/_diving|diving]]) To suffer from [[i/_impaired|impaired]] [[j/_judgment|judgment]] [[d/_due|due]] to [[n/_nitrogen|nitrogen]] [[n/_narcosis|narcosis]] (for [[e/_example|example]], while [[s/_scuba|scuba]] [[d/_diving|diving]]).**
+- **(underwater [[d/_diving|diving]]) To [[s/_suffer|suffer]] from [[i/_impaired|impaired]] [[j/_judgment|judgment]] [[d/_due|due]] to [[n/_nitrogen|nitrogen]] [[n/_narcosis|narcosis]] (for [[e/_example|example]], while [[s/_scuba|scuba]] [[d/_diving|diving]]).**
 ---
 #noun
 - **A [[n/_narcissist|narcissist]].**

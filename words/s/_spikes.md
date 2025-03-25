@@ -12,7 +12,7 @@
 - **A [[s/_sort|sort]] of very [[l/_large|large]] [[n/_nail|nail]].**
 - **A [[p/_piece|piece]] of [[p/_pointed|pointed]] [[m/_metal|metal]] [[e/_etc|etc]]. [[s/_set|set]] with [[p/_points|points]] upward or [[o/_outward|outward]].**
 	- _Example: The trap was lined with spikes._
-- **[[a/_anything|Anything]] [[r/_resembling|resembling]] such a [[n/_nail|nail]] in [[s/_shape|shape]].**
+- **[[a/_anything|Anything]] [[r/_resembling|resembling]] [[s/_such|such]] a [[n/_nail|nail]] in [[s/_shape|shape]].**
 - **An [[e/_ear|ear]] of [[c/_corn|corn]] or [[g/_grain|grain]].**
 - **A [[k/_kind|kind]] of [[i/_inflorescence|inflorescence]] in which [[s/_sessile|sessile]] [[f/_flowers|flowers]] are [[a/_arranged|arranged]] on an unbranched [[e/_elongated|elongated]] [[a/_axis|axis]].**
 - **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[r/_running|running]] [[s/_shoe|shoe]] with [[s/_spikes|spikes]] in the [[s/_sole|sole]] to [[p/_provide|provide]] [[g/_grip|grip]].**
@@ -37,9 +37,9 @@
 - **To [[d/_discard|discard]]; to [[d/_decide|decide]] not to [[p/_publish|publish]] or [[m/_make|make]] [[p/_public|public]].**
 - **To [[i/_increase|increase]] [[s/_sharply|sharply]].**
 	- _Example: Traffic accidents spiked in December when there was ice on the roads._
-- **To [[c/_covertly|covertly]] [[p/_put|put]] [[a/_alcohol|alcohol]] or [[a/_another|another]] [[i/_intoxicating|intoxicating]] substance [[i/_into|into]] a [[d/_drink|drink]].**
+- **To [[c/_covertly|covertly]] [[p/_put|put]] [[a/_alcohol|alcohol]] or [[a/_another|another]] [[i/_intoxicating|intoxicating]] [[s/_substance|substance]] [[i/_into|into]] a [[d/_drink|drink]].**
 	- _Example: She spiked my lemonade with vodka!_
-- **To [[a/_add|add]] a [[s/_small|small]] [[a/_amount|amount]] of [[o/_one|one]] substance to [[a/_another|another]].**
+- **To [[a/_add|add]] a [[s/_small|small]] [[a/_amount|amount]] of [[o/_one|one]] [[s/_substance|substance]] to [[a/_another|another]].**
 	- _Example: The water sample to be tested has been spiked with arsenic, antimony, mercury, and lead in quantities commonly found in industrial effluents._
 - **To [[a/_attack|attack]] from, usually, [[a/_above|above]] the [[h/_height|height]] of the [[n/_net|net]] with the [[i/_intent|intent]] to [[s/_send|send]] the [[b/_ball|ball]] [[s/_straight|straight]] to the [[f/_floor|floor]] of the [[o/_opponent|opponent]] or [[o/_off|off]] the [[h/_hands|hands]] of the [[o/_opposing|opposing]] [[b/_block|block]].**
 - **To [[r/_render|render]] (a [[g/_gun|gun]]) unusable by [[d/_driving|driving]] a [[m/_metal|metal]] [[s/_spike|spike]] [[i/_into|into]] [[i/_its|its]] touch [[h/_hole|hole]].**

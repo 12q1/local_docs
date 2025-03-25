@@ -8,8 +8,8 @@
 - **Of a [[b/_bird|bird]] of [[p/_prey|prey]]: to swoop [[d/_down|down]] on [[i/_its|its]] [[p/_prey|prey]].**
 - **To [[c/_cause|cause]] to [[i/_incline|incline]] [[d/_downward|downward]]; to [[s/_slant|slant]].**
 	- _Example: to stoop a cask of liquor_
-- **To [[c/_cause|cause]] to submit; to [[p/_prostrate|prostrate]].**
-- **To [[y/_yield|yield]]; to submit; to [[b/_bend|bend]], as by [[c/_compulsion|compulsion]]; to [[a/_assume|assume]] a [[p/_position|position]] of [[h/_humility|humility]] or subjection.**
+- **To [[c/_cause|cause]] to [[s/_submit|submit]]; to [[p/_prostrate|prostrate]].**
+- **To [[y/_yield|yield]]; to [[s/_submit|submit]]; to [[b/_bend|bend]], as by [[c/_compulsion|compulsion]]; to [[a/_assume|assume]] a [[p/_position|position]] of [[h/_humility|humility]] or [[s/_subjection|subjection]].**
 - **To [[d/_descend|descend]] from [[r/_rank|rank]] or [[d/_dignity|dignity]]; to [[c/_condescend|condescend]].**
 - **To [[d/_degrade|degrade]].**
 ---
@@ -19,6 +19,6 @@
 - **The [[a/_act|act]] of [[o/_one|one]] who [[s/_stoops|stoops]].**
 ---
 #adjective
-- **[[b/_bending|Bending]] the [[b/_body|body]] [[f/_forward|forward]]; [[y/_yielding|yielding]]; submitting; [[c/_condescending|condescending]]; [[i/_inclining|inclining]].**
+- **[[b/_bending|Bending]] the [[b/_body|body]] [[f/_forward|forward]]; [[y/_yielding|yielding]]; [[s/_submitting|submitting]]; [[c/_condescending|condescending]]; [[i/_inclining|inclining]].**
 ---
 ---

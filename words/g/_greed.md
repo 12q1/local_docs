@@ -7,6 +7,6 @@
 ### Synonyms
 - [[a/_avarice|avarice]], [[c/_covetousness|covetousness]], [[g/_gluttony|gluttony]], [[g/_greediness|greediness]], [[r/_rapacity|rapacity]]
 #verb
-- **To [[d/_desire|desire]] in a [[g/_greedy|greedy]] [[m/_manner|manner]], or to [[a/_act|act]] on such a [[d/_desire|desire]].**
+- **To [[d/_desire|desire]] in a [[g/_greedy|greedy]] [[m/_manner|manner]], or to [[a/_act|act]] on [[s/_such|such]] a [[d/_desire|desire]].**
 ---
 ---

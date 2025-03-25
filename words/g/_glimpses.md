@@ -3,7 +3,7 @@
 #noun
 - **A [[b/_brief|brief]] [[l/_look|look]], [[g/_glance|glance]], or [[p/_peek|peek]].**
 	- _Example: I only got a glimpse of the car, so I can tell you the colour but not the registration number._
-- **A sudden [[f/_flash|flash]].**
+- **A [[s/_sudden|sudden]] [[f/_flash|flash]].**
 - **A [[f/_faint|faint]] [[i/_idea|idea]]; an [[i/_inkling|inkling]].**
 ---
 #verb

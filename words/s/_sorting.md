@@ -9,7 +9,7 @@
 - **To [[c/_conform|conform]]; to [[a/_adapt|adapt]]; to [[a/_accommodate|accommodate]].**
 - **To [[c/_choose|choose]] from a [[n/_number|number]]; to [[s/_select|select]]; to [[c/_cull|cull]].**
 - **To [[j/_join|join]] or [[a/_associate|associate]] with [[o/_others|others]], [[e/_especially|especially]] with [[o/_others|others]] of the [[s/_same|same]] [[k/_kind|kind]] or [[s/_species|species]]; to [[a/_agree|agree]].**
-- **To suit; to [[f/_fit|fit]]; to be in [[a/_accord|accord]]; to [[h/_harmonize|harmonize]].**
+- **To [[s/_suit|suit]]; to [[f/_fit|fit]]; to be in [[a/_accord|accord]]; to [[h/_harmonize|harmonize]].**
 - **To [[f/_fix|fix]] (a [[p/_problem|problem]]) or [[h/_handle|handle]] (a task).**
 - **To [[a/_attack|attack]] [[p/_physically|physically]].**
 	- _Example: If he comes nosing around here again I'll sort him!_

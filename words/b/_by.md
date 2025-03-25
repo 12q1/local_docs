@@ -1,7 +1,7 @@
 # By
 ---
 #noun
-- **A [[f/_flying|flying]] [[i/_insect|insect]], of the [[c/_clade|clade]] [[a/_anthophila|Anthophila]] within the [[h/_hymenopteran|hymenopteran]] superfamily [[a/_apoidea|Apoidea]], [[k/_known|known]] for [[i/_its|its]] [[o/_organised|organised]] [[s/_societies|societies]] (though [[o/_only|only]] a [[m/_minority|minority]] [[h/_have|have]] them), for [[c/_collecting|collecting]] [[p/_pollen|pollen]] and (in [[s/_some|some]] [[s/_species|species]]) [[p/_producing|producing]] wax and [[h/_honey|honey]].**
+- **A [[f/_flying|flying]] [[i/_insect|insect]], of the [[c/_clade|clade]] [[a/_anthophila|Anthophila]] within the [[h/_hymenopteran|hymenopteran]] [[s/_superfamily|superfamily]] [[a/_apoidea|Apoidea]], [[k/_known|known]] for [[i/_its|its]] [[o/_organised|organised]] [[s/_societies|societies]] (though [[o/_only|only]] a [[m/_minority|minority]] [[h/_have|have]] them), for [[c/_collecting|collecting]] [[p/_pollen|pollen]] and (in [[s/_some|some]] [[s/_species|species]]) [[p/_producing|producing]] wax and [[h/_honey|honey]].**
 ---
 ### Synonyms
 - 
@@ -22,7 +22,7 @@
 ### Synonyms
 - 
 #adjective
-- **[[o/_out|Out]] of the way, subsidiary.**
+- **[[o/_out|Out]] of the way, [[s/_subsidiary|subsidiary]].**
 ---
 ### Antonyms
 - [[m/_main|main]], [[p/_principal|principal]]
@@ -64,7 +64,7 @@
 	- _Example: She's a lovely little filly, by Big Lad, out of Damsel in Distress._
 ---
 #noun
-- **The [[p/_position|position]] of a [[p/_person|person]] or team in a tournament or [[c/_competition|competition]] who [[d/_draws|draws]] [[n/_no|no]] [[o/_opponent|opponent]] in a [[p/_particular|particular]] [[r/_round|round]] [[s/_so|so]] [[a/_advances|advances]] to the [[n/_next|next]] [[r/_round|round]] unopposed, or is [[a/_awarded|awarded]] [[p/_points|points]] for a win in a [[l/_league|league]] table; [[a/_also|also]] the [[p/_phantom|phantom]] [[o/_opponent|opponent]] of such a [[p/_person|person]] or team.**
+- **The [[p/_position|position]] of a [[p/_person|person]] or team in a tournament or [[c/_competition|competition]] who [[d/_draws|draws]] [[n/_no|no]] [[o/_opponent|opponent]] in a [[p/_particular|particular]] [[r/_round|round]] [[s/_so|so]] [[a/_advances|advances]] to the [[n/_next|next]] [[r/_round|round]] unopposed, or is [[a/_awarded|awarded]] [[p/_points|points]] for a win in a [[l/_league|league]] table; [[a/_also|also]] the [[p/_phantom|phantom]] [[o/_opponent|opponent]] of [[s/_such|such]] a [[p/_person|person]] or team.**
 	- _Example: Craig's Crew plays the bye next week._
 - **An [[e/_extra|extra]] [[s/_scored|scored]] when the [[b/_batsmen|batsmen]] take [[r/_runs|runs]] [[a/_after|after]] the [[b/_ball|ball]] [[h/_has|has]] [[p/_passed|passed]] the [[s/_striker|striker]] without [[h/_hitting|hitting]] [[e/_either|either]] the [[b/_bat|bat]] or the [[b/_batsman|batsman]].**
 - **A [[d/_dwelling|dwelling]].**

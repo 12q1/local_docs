@@ -1,9 +1,9 @@
 # Napalm
 ---
 #noun
-- **A [[h/_highly|highly]] [[f/_flammable|flammable]], viscous substance, [[d/_designed|designed]] to [[s/_stick|stick]] to the [[b/_body|body]] while [[b/_burning|burning]], used in warfare as an [[i/_incendiary|incendiary]] [[e/_especially|especially]] in wooded [[a/_areas|areas]].**
+- **A [[h/_highly|highly]] [[f/_flammable|flammable]], viscous [[s/_substance|substance]], [[d/_designed|designed]] to [[s/_stick|stick]] to the [[b/_body|body]] while [[b/_burning|burning]], used in warfare as an [[i/_incendiary|incendiary]] [[e/_especially|especially]] in wooded [[a/_areas|areas]].**
 ---
 #verb
-- **To [[s/_spray|spray]] or [[a/_attack|attack]] with this substance.**
+- **To [[s/_spray|spray]] or [[a/_attack|attack]] with this [[s/_substance|substance]].**
 ---
 ---

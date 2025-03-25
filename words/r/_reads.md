@@ -21,7 +21,7 @@
 	- _Example: On the door hung a sign that reads "No admittance"._
 - **Of text, [[e/_etc|etc]]., to be [[i/_interpreted|interpreted]] or [[r/_read|read]] in a [[p/_particular|particular]] way.**
 	- _Example: Arabic reads right to left._
-- **To substitute (a [[c/_corrected|corrected]] [[p/_piece|piece]] of text in [[p/_place|place]] of an [[e/_erroneous|erroneous]] [[o/_one|one]]); used to [[i/_introduce|introduce]] an [[e/_emendation|emendation]] of a text.**
+- **To [[s/_substitute|substitute]] (a [[c/_corrected|corrected]] [[p/_piece|piece]] of text in [[p/_place|place]] of an [[e/_erroneous|erroneous]] [[o/_one|one]]); used to [[i/_introduce|introduce]] an [[e/_emendation|emendation]] of a text.**
 - **(usually [[i/_ironic|ironic]]) Used [[a/_after|after]] a [[e/_euphemism|euphemism]] to [[i/_introduce|introduce]] the [[i/_intended|intended]], [[m/_more|more]] [[b/_blunt|blunt]] [[m/_meaning|meaning]] of a term.**
 - **To be [[a/_able|able]] to [[h/_hear|hear]] what [[a/_another|another]] [[p/_person|person]] is [[s/_saying|saying]] [[o/_over|over]] a [[r/_radio|radio]] [[c/_connection|connection]].**
 	- _Example: Do you read me?_

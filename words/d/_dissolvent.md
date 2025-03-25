@@ -1,7 +1,7 @@
 # Dissolvent
 ---
 #noun
-- **A substance which [[c/_can|can]] [[d/_dissolve|dissolve]] or be [[d/_dissolved|dissolved]] [[i/_into|into]] a [[l/_liquid|liquid]].**
+- **A [[s/_substance|substance]] which [[c/_can|can]] [[d/_dissolve|dissolve]] or be [[d/_dissolved|dissolved]] [[i/_into|into]] a [[l/_liquid|liquid]].**
 ---
 ### Synonyms
 - [[s/_solvent|solvent]]

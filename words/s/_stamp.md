@@ -9,7 +9,7 @@
 	- _Example: She loved to make designs with her collection of stamps._
 - **A [[s/_small|small]] [[p/_piece|piece]] of [[p/_paper|paper]] [[b/_bearing|bearing]] a [[d/_design|design]] on [[o/_one|one]] [[s/_side|side]] and [[a/_adhesive|adhesive]] on the [[o/_other|other]], used to [[d/_decorate|decorate]] [[l/_letters|letters]] or [[c/_craft|craft]] work.**
 	- _Example: These stamps have a Christmas theme._
-- **A [[s/_small|small]] [[p/_piece|piece]] of [[p/_paper|paper]], with a [[d/_design|design]] and a [[f/_face|face]] value, used to [[p/_prepay|prepay]] [[p/_postage|postage]] or [[o/_other|other]] [[c/_costs|costs]] such as tax or [[l/_licence|licence]] [[f/_fees|fees]].**
+- **A [[s/_small|small]] [[p/_piece|piece]] of [[p/_paper|paper]], with a [[d/_design|design]] and a [[f/_face|face]] value, used to [[p/_prepay|prepay]] [[p/_postage|postage]] or [[o/_other|other]] [[c/_costs|costs]] [[s/_such|such]] as tax or [[l/_licence|licence]] [[f/_fees|fees]].**
 	- _Example: I need one first-class stamp to send this letter._
 - **A tattoo.**
 - **A [[s/_single|single]] [[d/_dose|dose]] of [[l/_lysergic|lysergic]] [[a/_acid|acid]] [[d/_diethylamide|diethylamide]].**

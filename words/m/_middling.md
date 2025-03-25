@@ -12,6 +12,6 @@
 - [[a/_average|average]], [[m/_medium|medium]], [[u/_unexceptional|unexceptional]]
 #adverb
 - **[[f/_fairly|Fairly]], [[m/_moderately|moderately]], [[s/_somewhat|somewhat]].**
-- **Not too [[b/_badly|badly]], with [[m/_modest|modest]] success.**
+- **Not too [[b/_badly|badly]], with [[m/_modest|modest]] [[s/_success|success]].**
 ---
 ---

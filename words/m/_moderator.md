@@ -3,7 +3,7 @@
 #noun
 - **[[s/_someone|Someone]] who [[m/_moderates|moderates]]**
 - **The [[p/_person|person]] who [[p/_presides|presides]] [[o/_over|over]] a [[s/_synod|synod]] of a [[p/_presbyterian|Presbyterian]] [[c/_church|Church]]**
-- **A substance ([[o/_often|often]] water or [[g/_graphite|graphite]]) used to [[d/_decrease|decrease]] the [[s/_speed|speed]] of [[f/_fast|fast]] [[n/_neutrons|neutrons]] in a [[n/_nuclear|nuclear]] [[r/_reactor|reactor]] and [[h/_hence|hence]] [[i/_increase|increase]] [[l/_likelihood|likelihood]] of [[f/_fission|fission]]**
+- **A [[s/_substance|substance]] ([[o/_often|often]] water or [[g/_graphite|graphite]]) used to [[d/_decrease|decrease]] the [[s/_speed|speed]] of [[f/_fast|fast]] [[n/_neutrons|neutrons]] in a [[n/_nuclear|nuclear]] [[r/_reactor|reactor]] and [[h/_hence|hence]] [[i/_increase|increase]] [[l/_likelihood|likelihood]] of [[f/_fission|fission]]**
 - **A [[d/_device|device]] used to [[d/_deaden|deaden]] [[s/_some|some]] of the [[n/_noise|noise]] from a [[f/_firearm|firearm]], [[a/_although|although]] not to the [[s/_same|same]] [[e/_extent|extent]] as a suppressor or [[s/_silencer|silencer]].**
 - **An [[e/_examiner|examiner]] at [[o/_oxford|Oxford]] and [[c/_cambridge|Cambridge]] universities.**
 - **At the University of [[d/_dublin|Dublin]], [[e/_either|either]] the [[f/_first|first]] ([[s/_senior|senior]]) or [[s/_second|second]] ([[j/_junior|junior]]) in [[r/_rank|rank]] in an [[e/_examination|examination]] for the [[d/_degree|degree]] of [[b/_bachelor|Bachelor]] of [[a/_arts|Arts]].**

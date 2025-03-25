@@ -3,7 +3,7 @@
 #noun
 - **Verbal [[e/_exchange|exchange]], [[c/_conversation|conversation]].**
 - **[[e/_expression|Expression]] in words, [[e/_either|either]] [[s/_speech|speech]] or writing.**
-- **A [[f/_formal|formal]] [[l/_lengthy|lengthy]] [[e/_exposition|exposition]] of [[s/_some|some]] subject, [[e/_either|either]] [[s/_spoken|spoken]] or written.**
+- **A [[f/_formal|formal]] [[l/_lengthy|lengthy]] [[e/_exposition|exposition]] of [[s/_some|some]] [[s/_subject|subject]], [[e/_either|either]] [[s/_spoken|spoken]] or written.**
 	- _Example: The preacher gave us a long discourse on duty._
 - **[[a/_any|Any]] [[r/_rational|rational]] [[e/_expression|expression]], [[r/_reason|reason]].**
 - **An [[i/_institutionalized|institutionalized]] way of thinking, a [[s/_social|social]] [[b/_boundary|boundary]] [[d/_defining|defining]] what [[c/_can|can]] be [[s/_said|said]] [[a/_about|about]] a [[s/_specific|specific]] topic ([[a/_after|after]] [[m/_michel|Michel]] Foucault).**

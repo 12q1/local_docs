@@ -35,7 +35,7 @@
 - **To [[r/_remain|remain]] in a [[p/_particular|particular]] [[p/_place|place]], [[e/_especially|especially]] for a [[d/_definite|definite]] or [[s/_short|short]] [[p/_period|period]] of time; [[s/_sojourn|sojourn]]; [[a/_abide|abide]].**
 	- _Example: We stayed in Hawaii for a week.  I can only stay for an hour._
 - **To wait; [[r/_rest|rest]] in [[p/_patience|patience]] or [[e/_expectation|expectation]].**
-- **(used with on or upon) To wait as an [[a/_attendant|attendant]]; [[g/_give|give]] [[c/_ceremonious|ceremonious]] or submissive [[a/_attendance|attendance]].**
+- **(used with on or upon) To wait as an [[a/_attendant|attendant]]; [[g/_give|give]] [[c/_ceremonious|ceremonious]] or [[s/_submissive|submissive]] [[a/_attendance|attendance]].**
 - **To [[c/_continue|continue]] to [[h/_have|have]] a [[p/_particular|particular]] [[q/_quality|quality]].**
 	- _Example: Wear gloves so your hands stay warm._
 - **To [[l/_live|live]]; [[r/_reside|reside]]**
@@ -45,14 +45,14 @@
 - [[e/_endure|endure]], [[r/_resist|resist]], [[c/_cancel|cancel]], [[c/_cease|cease]], [[d/_discontinue|discontinue]], [[h/_halt|halt]], [[s/_stop|stop]], [[t/_terminate|terminate]], [[b/_blin|blin]], [[b/_brake|brake]], [[d/_desist|desist]], [[h/_halt|halt]], [[s/_stop|stop]], [[c/_cease|cease]], [[c/_continue|continue]], [[k/_keep|keep]], [[r/_remain|remain]], [[c/_contend|contend]], [[b/_bear|bear]], [[u/_uphold|uphold]], [[a/_abide|abide]], [[s/_sojourn|sojourn]], [[w/_wait|wait]], [[c/_curb|curb]], [[r/_repress|repress]], [[s/_stifle|stifle]], [[a/_attend|attend]], [[b/_bestand|bestand]], [[s/_serve|serve]], [[a/_await|await]]
 #noun
 - **A [[p/_prop|prop]]; a support.**
-- **A [[p/_piece|piece]] of [[s/_stiff|stiff]] [[m/_material|material]], such as [[p/_plastic|plastic]] or whalebone, used to [[s/_stiffen|stiffen]] a [[p/_piece|piece]] of [[c/_clothing|clothing]].**
+- **A [[p/_piece|piece]] of [[s/_stiff|stiff]] [[m/_material|material]], [[s/_such|such]] as [[p/_plastic|plastic]] or whalebone, used to [[s/_stiffen|stiffen]] a [[p/_piece|piece]] of [[c/_clothing|clothing]].**
 	- _Example: Where are the stays for my collar?_
 - **(in the [[p/_plural|plural]]) A [[c/_corset|corset]].**
 - **A [[f/_fastening|fastening]] for a [[g/_garment|garment]]; a [[h/_hook|hook]]; a [[c/_clasp|clasp]]; [[a/_anything|anything]] to [[h/_hang|hang]] [[a/_another|another]] thing on.**
 ---
 #noun
 - **A [[s/_strong|strong]] [[r/_rope|rope]] or wire supporting a [[m/_mast|mast]], and [[l/_leading|leading]] from [[o/_one|one]] [[m/_masthead|masthead]] [[d/_down|down]] to [[s/_some|some]] [[o/_other|other]], or [[o/_other|other]] [[p/_part|part]] of the vessel.**
-- **A [[g/_guy|guy]], [[r/_rope|rope]], or wire supporting or [[s/_stabilizing|stabilizing]] a [[p/_platform|platform]], such as a [[b/_bridge|bridge]], a [[p/_pole|pole]], such as a tentpole, the [[m/_mast|mast]] of a [[d/_derrick|derrick]], or [[o/_other|other]] [[s/_structural|structural]] [[e/_element|element]].**
+- **A [[g/_guy|guy]], [[r/_rope|rope]], or wire supporting or [[s/_stabilizing|stabilizing]] a [[p/_platform|platform]], [[s/_such|such]] as a [[b/_bridge|bridge]], a [[p/_pole|pole]], [[s/_such|such]] as a tentpole, the [[m/_mast|mast]] of a [[d/_derrick|derrick]], or [[o/_other|other]] [[s/_structural|structural]] [[e/_element|element]].**
 	- _Example: The engineer insisted on using stays for the scaffolding._
 - **The transverse [[p/_piece|piece]] in a [[c/_chain|chain]]-[[c/_cable|cable]] [[l/_link|link]].**
 ---

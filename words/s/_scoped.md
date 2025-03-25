@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[p/_perform|perform]] a [[c/_cursory|cursory]] [[i/_investigation|investigation]] of; [[s/_scope|scope]] [[o/_out|out]].**
-- **To [[p/_perform|perform]] [[a/_any|any]] [[m/_medical|medical]] [[p/_procedure|procedure]] that [[e/_ends|ends]] in the suffix -scopy, such as [[e/_endoscopy|endoscopy]], [[c/_colonoscopy|colonoscopy]], [[b/_bronchoscopy|bronchoscopy]], [[e/_etc|etc]].**
+- **To [[p/_perform|perform]] [[a/_any|any]] [[m/_medical|medical]] [[p/_procedure|procedure]] that [[e/_ends|ends]] in the [[s/_suffix|suffix]] -scopy, [[s/_such|such]] as [[e/_endoscopy|endoscopy]], [[c/_colonoscopy|colonoscopy]], [[b/_bronchoscopy|bronchoscopy]], [[e/_etc|etc]].**
 	- _Example: The surgeon will scope the football player's knee to repair damage to a ligament._
 - **To [[l/_limit|limit]] (an [[o/_object|object]] or variable) to a [[c/_certain|certain]] [[r/_region|region]] of [[p/_program|program]] [[s/_source|source]] [[c/_code|code]].**
 	- _Example: If we locally scope the user's login name, it won't be accessible from outside this function._

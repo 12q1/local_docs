@@ -4,7 +4,7 @@
 - **An [[o/_offside|offside]] [[p/_play|play]].**
 - **The [[s/_side|side]] of a [[r/_road|road]] vehicle [[f/_furthest|furthest]] from the [[k/_kerb|kerb]]: the [[r/_right|right]] [[s/_side|side]] [[i/_if|if]] [[o/_one|one]] [[d/_drives|drives]] on the [[l/_left|left]] of the [[r/_road|road]].**
 	- _Example: My offside wing mirror got snapped off._
-- **The [[r/_right|right]]-[[h/_hand|hand]] [[s/_side|side]] of a working [[a/_animal|animal]] such as a [[h/_horse|horse]] or [[b/_bullock|bullock]], [[e/_especially|especially]] when in [[h/_harness|harness]].**
+- **The [[r/_right|right]]-[[h/_hand|hand]] [[s/_side|side]] of a working [[a/_animal|animal]] [[s/_such|such]] as a [[h/_horse|horse]] or [[b/_bullock|bullock]], [[e/_especially|especially]] when in [[h/_harness|harness]].**
 - **(of a [[c/_canal|canal]]) The [[s/_side|side]] [[o/_opposite|opposite]] the towpath.**
 ---
 ### Antonyms

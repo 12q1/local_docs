@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[q/_quality|quality]] of [[b/_being|being]] [[b/_brief|brief]] in [[d/_duration|duration]].**
-- **Succinctness; [[c/_conciseness|conciseness]].**
+- **[[s/_succinctness|Succinctness]]; [[c/_conciseness|conciseness]].**
 - **A [[s/_short|short]] [[p/_piece|piece]] of writing.**
 ---
 ### Synonyms

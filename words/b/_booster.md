@@ -9,7 +9,7 @@
 - **A [[m/_member|member]] of a [[b/_booster|booster]] [[c/_club|club]].**
 - **A [[b/_booster|booster]] [[d/_dose|dose]].**
 	- _Example: When did you get your last tetanus booster?_
-- **A term that [[s/_serves|serves]] to [[a/_amplify|amplify]] or [[s/_strengthen|strengthen]] an utterance, such as "[[r/_really|really]]".**
+- **A term that [[s/_serves|serves]] to [[a/_amplify|amplify]] or [[s/_strengthen|strengthen]] an utterance, [[s/_such|such]] as "[[r/_really|really]]".**
 - **A [[p/_power|power]]-up [[i/_item|item]].**
 - **A [[p/_package|package]] of [[c/_cards|cards]] or [[f/_figurines|figurines]] [[d/_designed|designed]] to [[a/_add|add]] to a [[p/_player|player]]'[[s/_s|s]] [[c/_collection|collection]].**
 - **A thief.**

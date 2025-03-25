@@ -4,7 +4,7 @@
 - **[[o/_opportunity|Opportunity]] or [[s/_scope|scope]] (to [[d/_do|do]] [[s/_something|something]]).**
 - **[[s/_space|Space]] for [[s/_something|something]], or to [[c/_carry|carry]] [[o/_out|out]] an [[a/_activity|activity]].**
 - **A [[p/_particular|particular]] [[p/_portion|portion]] of [[s/_space|space]].**
-- **Sufficient [[s/_space|space]] for or to [[d/_do|do]] [[s/_something|something]].**
+- **[[s/_sufficient|Sufficient]] [[s/_space|space]] for or to [[d/_do|do]] [[s/_something|something]].**
 - **A [[s/_space|space]] [[b/_between|between]] the timbers of a [[s/_ship|ship]]'[[s/_s|s]] [[f/_frame|frame]].**
 - **[[p/_place|Place]]; [[s/_stead|stead]].**
 - **A [[s/_separate|separate]] [[p/_part|part]] of a [[b/_building|building]], [[e/_enclosed|enclosed]] by walls, a [[f/_floor|floor]] and a [[c/_ceiling|ceiling]].**
@@ -18,7 +18,7 @@
 - **A IRC or [[c/_chat|chat]] [[r/_room|room]].**
 	- _Example: Some users may not be able to access the AOL room._
 - **[[p/_place|Place]] or [[p/_position|position]] in [[s/_society|society]]; [[o/_office|office]]; [[r/_rank|rank]]; [[p/_post|post]], [[s/_sometimes|sometimes]] when vacated by [[i/_its|its]] [[f/_former|former]] [[o/_occupant|occupant]].**
-- **[[f/_furniture|Furniture]] sufficient to [[f/_furnish|furnish]] a [[r/_room|room]].**
+- **[[f/_furniture|Furniture]] [[s/_sufficient|sufficient]] to [[f/_furnish|furnish]] a [[r/_room|room]].**
 ---
 ### Synonyms
 - [[c/_chamber|chamber]], [[q/_quarters|quarters]], [[c/_chamber|chamber]], [[l/_legroom|legroom]], [[s/_space|space]], [[r/_rm|rm]]

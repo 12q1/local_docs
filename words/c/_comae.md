@@ -3,6 +3,6 @@
 #noun
 - **A [[c/_cloud|cloud]] of [[d/_dust|dust]] surrounding the [[n/_nucleus|nucleus]] of a [[c/_comet|comet]].**
 - **A [[d/_defect|defect]] [[c/_characterized|characterized]] by [[d/_diffuse|diffuse]], [[p/_pear|pear]]-[[s/_shaped|shaped]] [[i/_images|images]] that in an [[i/_ideal|ideal]] [[i/_image|image]] would [[a/_appear|appear]] as [[p/_points|points]].**
-- **A tuft or [[b/_bunch|bunch]], such as the [[a/_assemblage|assemblage]] of [[b/_branches|branches]] [[f/_forming|forming]] the [[h/_head|head]] of a tree, a [[c/_cluster|cluster]] of [[b/_bracts|bracts]] when [[e/_empty|empty]] and terminating the [[i/_inflorescence|inflorescence]] of a [[p/_plant|plant]], or a tuft of [[l/_long|long]] [[h/_hairs|hairs]] on [[c/_certain|certain]] [[s/_seeds|seeds]].**
+- **A tuft or [[b/_bunch|bunch]], [[s/_such|such]] as the [[a/_assemblage|assemblage]] of [[b/_branches|branches]] [[f/_forming|forming]] the [[h/_head|head]] of a tree, a [[c/_cluster|cluster]] of [[b/_bracts|bracts]] when [[e/_empty|empty]] and terminating the [[i/_inflorescence|inflorescence]] of a [[p/_plant|plant]], or a tuft of [[l/_long|long]] [[h/_hairs|hairs]] on [[c/_certain|certain]] [[s/_seeds|seeds]].**
 ---
 ---

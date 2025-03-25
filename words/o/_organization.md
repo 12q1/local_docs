@@ -3,7 +3,7 @@
 #noun
 - **The [[q/_quality|quality]] of [[b/_being|being]] [[o/_organized|organized]].**
 	- _Example: This painting shows little organization at first glance, but little by little the structure becomes clear._
-- **The way in which [[s/_something|something]] is [[o/_organized|organized]], such as a [[b/_book|book]] or an [[a/_article|article]].**
+- **The way in which [[s/_something|something]] is [[o/_organized|organized]], [[s/_such|such]] as a [[b/_book|book]] or an [[a/_article|article]].**
 	- _Example: The organization of the book is as follows._
 - **A [[g/_group|group]] of [[p/_people|people]] or [[o/_other|other]] [[l/_legal|legal]] [[e/_entities|entities]] with an [[e/_explicit|explicit]] [[p/_purpose|purpose]] and written [[r/_rules|rules]].**
 	- _Example: In response to the crisis, the nations in the region formed an organization.   If you want to be part of this organization, you have to follow its rules._

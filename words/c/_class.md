@@ -10,7 +10,7 @@
 	- _Example: Apologizing for losing your temper, even though you were badly provoked, showed real class._
 - **A [[g/_group|group]] of [[s/_students|students]] in a [[r/_regularly|regularly]] [[s/_scheduled|scheduled]] [[m/_meeting|meeting]] with a teacher.**
 	- _Example: The class was noisy, but the teacher was able to get their attention with a story._
-- **A [[s/_series|series]] of [[l/_lessons|lessons]] [[c/_covering|covering]] a [[s/_single|single]] subject.**
+- **A [[s/_series|series]] of [[l/_lessons|lessons]] [[c/_covering|covering]] a [[s/_single|single]] [[s/_subject|subject]].**
 	- _Example: I took the cooking class for enjoyment, but I also learned a lot._
 - **A [[g/_group|group]] of [[s/_students|students]] who [[c/_commenced|commenced]] or [[c/_completed|completed]] their [[e/_education|education]] [[d/_during|during]] a [[p/_particular|particular]] [[y/_year|year]]. A [[s/_school|school]] [[c/_class|class]].**
 	- _Example: The class of 1982 was particularly noteworthy._
@@ -23,8 +23,8 @@
 - **A [[g/_grouping|grouping]] of [[d/_data|data]] values in an [[i/_interval|interval]], [[o/_often|often]] used for [[c/_computation|computation]] of a [[f/_frequency|frequency]] [[d/_distribution|distribution]].**
 - **A [[c/_collection|collection]] of [[s/_sets|sets]] [[d/_definable|definable]] by a [[s/_shared|shared]] [[p/_property|property]].**
 	- _Example: Every set is a class, but classes are not generally sets. A class that is not a set is called a proper class._
-- **A [[g/_group|group]] of [[p/_people|people]] subject to be [[c/_conscripted|conscripted]] in the [[s/_same|same]] [[m/_military|military]] [[d/_draft|draft]], or [[m/_more|more]] [[n/_narrowly|narrowly]] those [[p/_persons|persons]] [[a/_actually|actually]] [[c/_conscripted|conscripted]] in a [[p/_particular|particular]] [[d/_draft|draft]].**
-- **A [[s/_set|set]] of [[o/_objects|objects]] [[h/_having|having]] the [[s/_same|same]] [[b/_behavior|behavior]] (but typically [[d/_differing|differing]] in [[s/_state|state]]), or a template [[d/_defining|defining]] such a [[s/_set|set]].**
+- **A [[g/_group|group]] of [[p/_people|people]] [[s/_subject|subject]] to be [[c/_conscripted|conscripted]] in the [[s/_same|same]] [[m/_military|military]] [[d/_draft|draft]], or [[m/_more|more]] [[n/_narrowly|narrowly]] those [[p/_persons|persons]] [[a/_actually|actually]] [[c/_conscripted|conscripted]] in a [[p/_particular|particular]] [[d/_draft|draft]].**
+- **A [[s/_set|set]] of [[o/_objects|objects]] [[h/_having|having]] the [[s/_same|same]] [[b/_behavior|behavior]] (but typically [[d/_differing|differing]] in [[s/_state|state]]), or a template [[d/_defining|defining]] [[s/_such|such]] a [[s/_set|set]].**
 	- _Example: an abstract base class_
 - **[[o/_one|One]] of the [[s/_sections|sections]] [[i/_into|into]] which a [[m/_methodist|Methodist]] [[c/_church|church]] or [[c/_congregation|congregation]] is [[d/_divided|divided]], supervised by a [[c/_class|class]] [[l/_leader|leader]].**
 ---

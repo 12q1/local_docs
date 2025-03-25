@@ -1,7 +1,7 @@
 # Crucified
 ---
 #adjective
-- **That [[h/_has|has]] [[b/_been|been]] subject to [[c/_crucifixion|crucifixion]]**
+- **That [[h/_has|has]] [[b/_been|been]] [[s/_subject|subject]] to [[c/_crucifixion|crucifixion]]**
 ---
 #verb
 - **To [[e/_execute|execute]] (a [[p/_person|person]]) by [[n/_nailing|nailing]] to a [[c/_cross|cross]].**

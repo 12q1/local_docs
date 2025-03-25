@@ -1,7 +1,7 @@
 # Barest
 ---
 #adjective
-- **[[m/_minimal|Minimal]]; that is or are [[j/_just|just]] sufficient.**
+- **[[m/_minimal|Minimal]]; that is or are [[j/_just|just]] [[s/_sufficient|sufficient]].**
 	- _Example: a bare majority_
 - **[[n/_naked|Naked]], uncovered.**
 	- _Example: I do wonder why keeping my little breasts bare can be lewd even as none tells my brother anything for being bare-chested._

@@ -10,7 +10,7 @@
 - **The [[r/_removal|removal]] or [[i/_inversion|inversion]] of a [[r/_ring|ring]] of [[b/_bark|bark]] in [[o/_order|order]] to [[k/_kill|kill]] or [[s/_stunt|stunt]] a tree.**
 ---
 #verb
-- **To [[g/_gird|gird]], [[e/_encircle|encircle]], or [[c/_constrain|constrain]] by such [[m/_means|means]].**
+- **To [[g/_gird|gird]], [[e/_encircle|encircle]], or [[c/_constrain|constrain]] by [[s/_such|such]] [[m/_means|means]].**
 - **To [[k/_kill|kill]] or [[s/_stunt|stunt]] a tree by [[r/_removing|removing]] or [[i/_inverting|inverting]] a [[r/_ring|ring]] of [[b/_bark|bark]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Allemandes
 ---
 #noun
-- **A [[p/_popular|popular]] [[i/_instrumental|instrumental]] [[d/_dance|dance]] [[f/_form|form]] in [[b/_baroque|Baroque]] [[m/_music|music]], and a [[s/_standard|standard]] [[e/_element|element]] of a suite, [[g/_generally|generally]] the [[f/_first|first]] or [[s/_second|second]] [[m/_movement|movement]].**
+- **A [[p/_popular|popular]] [[i/_instrumental|instrumental]] [[d/_dance|dance]] [[f/_form|form]] in [[b/_baroque|Baroque]] [[m/_music|music]], and a [[s/_standard|standard]] [[e/_element|element]] of a [[s/_suite|suite]], [[g/_generally|generally]] the [[f/_first|first]] or [[s/_second|second]] [[m/_movement|movement]].**
 ---
 ### Synonyms
 - [[a/_allemanda|allemanda]], [[a/_almain|almain]], [[a/_alman|alman]]

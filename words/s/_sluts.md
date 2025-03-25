@@ -12,7 +12,7 @@
 - **A [[b/_bold|bold]], [[o/_outspoken|outspoken]] woman.**
 - **A [[f/_female|female]] [[d/_dog|dog]].**
 - **A [[m/_maidservant|maidservant]].**
-- **A [[r/_rag|rag]] [[s/_soaked|soaked]] in a [[f/_flammable|flammable]] substance and [[l/_lit|lit]] for [[i/_illumination|illumination]].**
+- **A [[r/_rag|rag]] [[s/_soaked|soaked]] in a [[f/_flammable|flammable]] [[s/_substance|substance]] and [[l/_lit|lit]] for [[i/_illumination|illumination]].**
 ---
 #verb
 - **To wear [[s/_slutty|slutty]] [[c/_clothing|clothing]] or [[m/_makeup|makeup]], or [[o/_otherwise|otherwise]] [[b/_behave|behave]] in a [[s/_slutty|slutty]] [[m/_manner|manner]].**

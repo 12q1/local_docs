@@ -1,13 +1,13 @@
 # Poisons
 ---
 #noun
-- **A substance that is [[h/_harmful|harmful]] or [[l/_lethal|lethal]] to a [[l/_living|living]] [[o/_organism|organism]].**
+- **A [[s/_substance|substance]] that is [[h/_harmful|harmful]] or [[l/_lethal|lethal]] to a [[l/_living|living]] [[o/_organism|organism]].**
 	- _Example: We used a poison to kill the weeds._
 - **[[s/_something|Something]] that [[h/_harms|harms]] a [[p/_person|person]] or thing.**
 	- _Example: Gossip is a malicious poison._
 - **A [[d/_drink|drink]]; [[l/_liquor|liquor]].**
 	- _Example: — I'll have a glass of whisky._
-- **[[a/_any|Any]] substance that [[i/_inhibits|inhibits]] [[c/_catalytic|catalytic]] [[a/_activity|activity]].**
+- **[[a/_any|Any]] [[s/_substance|substance]] that [[i/_inhibits|inhibits]] [[c/_catalytic|catalytic]] [[a/_activity|activity]].**
 ---
 ### Synonyms
 - [[a/_atter|atter]], [[b/_bane|bane]], [[c/_contaminant|contaminant]], [[p/_pollutant|pollutant]], [[t/_toxin|toxin]], [[v/_venom|venom]]

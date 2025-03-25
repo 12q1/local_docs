@@ -9,7 +9,7 @@
 	- _Example: the bent of a bow_
 - **A [[d/_declivity|declivity]] or [[s/_slope|slope]], as of a [[h/_hill|hill]].**
 - **[[p/_particular|Particular]] [[d/_direction|direction]] or tendency; [[f/_flexion|flexion]]; [[c/_course|course]].**
-- **A transverse [[f/_frame|frame]] of a [[f/_framed|framed]] [[s/_structure|structure]]; a subunit of [[f/_framing|framing]].**
+- **A transverse [[f/_frame|frame]] of a [[f/_framed|framed]] [[s/_structure|structure]]; a [[s/_subunit|subunit]] of [[f/_framing|framing]].**
 - **Tension; [[f/_force|force]] of [[a/_acting|acting]]; [[e/_energy|energy]]; [[i/_impetus|impetus]].**
 ---
 ### Synonyms

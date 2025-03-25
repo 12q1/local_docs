@@ -12,7 +12,7 @@
 	- _Example: a right triangle, a right prism, a right cone_
 - **[[c/_complying|Complying]] with [[j/_justice|justice]], [[c/_correctness|correctness]] or [[r/_reason|reason]]; [[c/_correct|correct]], [[j/_just|just]], true.**
 	- _Example: I thought you'd made a mistake, but it seems you were right all along._
-- **[[a/_appropriate|Appropriate]], [[p/_perfectly|perfectly]] suitable; [[f/_fit|fit]] for [[p/_purpose|purpose]].**
+- **[[a/_appropriate|Appropriate]], [[p/_perfectly|perfectly]] [[s/_suitable|suitable]]; [[f/_fit|fit]] for [[p/_purpose|purpose]].**
 	- _Example: Is this the right software for my computer?_
 - **[[h/_healthy|Healthy]], [[s/_sane|sane]], [[c/_competent|competent]].**
 	- _Example: I'm afraid my father is no longer in his right mind._
@@ -33,7 +33,7 @@
 #noun
 - **A [[c/_course|course]] or way which is traveled or [[p/_passed|passed]].**
 	- _Example: The route was used so much that it formed a rut._
-- **A [[r/_regular|regular]] [[i/_itinerary|itinerary]] of [[s/_stops|stops]], or the [[p/_path|path]] [[f/_followed|followed]] [[b/_between|between]] these [[s/_stops|stops]], such as for [[d/_delivery|delivery]] or [[p/_passenger|passenger]] transportation.**
+- **A [[r/_regular|regular]] [[i/_itinerary|itinerary]] of [[s/_stops|stops]], or the [[p/_path|path]] [[f/_followed|followed]] [[b/_between|between]] these [[s/_stops|stops]], [[s/_such|such]] as for [[d/_delivery|delivery]] or [[p/_passenger|passenger]] transportation.**
 	- _Example: Here is a map of our delivery routes._
 - **A [[r/_road|road]] or [[p/_path|path]]; [[o/_often|often]] [[s/_specifically|specifically]] a [[h/_highway|highway]].**
 	- _Example: Follow Route 49 out of town._

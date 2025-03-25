@@ -1,8 +1,8 @@
 # Cane
 ---
 #noun
-- **A [[p/_plant|plant]] with [[s/_simple|simple]] [[s/_stems|stems]], [[l/_like|like]] [[b/_bamboo|bamboo]] or sugar [[c/_cane|cane]], or the [[s/_stem|stem]] thereof**
-- **The [[s/_stem|stem]] of such a [[p/_plant|plant]] [[a/_adapted|adapted]] for use as a tool**
+- **A [[p/_plant|plant]] with [[s/_simple|simple]] [[s/_stems|stems]], [[l/_like|like]] [[b/_bamboo|bamboo]] or [[s/_sugar|sugar]] [[c/_cane|cane]], or the [[s/_stem|stem]] thereof**
+- **The [[s/_stem|stem]] of [[s/_such|such]] a [[p/_plant|plant]] [[a/_adapted|adapted]] for use as a tool**
 - **A [[r/_rod|rod]]-[[s/_shaped|shaped]] tool or [[d/_device|device]], [[s/_somewhat|somewhat]] [[l/_like|like]] a [[c/_cane|cane]]**
 - **[[s/_split|Split]] [[r/_rattan|rattan]], as used in wickerwork, [[b/_basketry|basketry]] and the [[l/_like|like]]**
 - **A [[l/_local|local]] [[e/_european|European]] [[m/_measure|measure]] of [[l/_length|length]]; the [[c/_canna|canna]].**

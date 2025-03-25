@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[j/_journey|journey]] undertaken to [[a/_accomplish|accomplish]] [[s/_some|some]] task.**
-- **The [[p/_purpose|purpose]] of such a [[j/_journey|journey]].**
+- **The [[p/_purpose|purpose]] of [[s/_such|such]] a [[j/_journey|journey]].**
 - **An [[o/_oral|oral]] [[m/_message|message]] trusted to a [[p/_person|person]] for [[d/_delivery|delivery]].**
 ---
 #verb

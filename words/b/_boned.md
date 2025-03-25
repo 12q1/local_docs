@@ -27,7 +27,7 @@
 - **[[b/_beset|Beset]] with unfortunate [[c/_circumstances|circumstances]] that [[s/_seem|seem]] [[d/_difficult|difficult]] or [[i/_impossible|impossible]] to [[o/_overcome|overcome]]; in [[i/_imminent|imminent]] [[d/_danger|danger]].**
 - **[[b/_broken|Broken]].**
 - **Of [[m/_meat|meat]] or [[f/_fish|fish]], [[h/_having|having]] [[h/_had|had]] the [[b/_bones|bones]] [[r/_removed|removed]] [[b/_before|before]] [[c/_cooking|cooking]].**
-- **Of a [[g/_garment|garment]] such as a [[c/_corset|corset]] or [[b/_basque|basque]], [[f/_fitted|fitted]] with [[b/_bones|bones]].**
+- **Of a [[g/_garment|garment]] [[s/_such|such]] as a [[c/_corset|corset]] or [[b/_basque|basque]], [[f/_fitted|fitted]] with [[b/_bones|bones]].**
 - **[[h/_having|Having]] the [[l/_legs|legs]] [[s/_straightened|straightened]] [[d/_during|during]] a trick**
 ---
 ---

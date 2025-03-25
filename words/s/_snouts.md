@@ -13,6 +13,6 @@
 - **Tobacco; [[c/_cigarettes|cigarettes]].**
 - **The terminus of a [[g/_glacier|glacier]].**
 - **A [[p/_police|police]] [[i/_informer|informer]].**
-- **A [[b/_butterfly|butterfly]] in the [[n/_nymphalid|nymphalid]] subfamily [[l/_libytheinae|Libytheinae]], [[n/_notable|notable]] for the [[s/_snout|snout]]-[[l/_like|like]] [[e/_elongation|elongation]] on their [[h/_heads|heads]].**
+- **A [[b/_butterfly|butterfly]] in the [[n/_nymphalid|nymphalid]] [[s/_subfamily|subfamily]] [[l/_libytheinae|Libytheinae]], [[n/_notable|notable]] for the [[s/_snout|snout]]-[[l/_like|like]] [[e/_elongation|elongation]] on their [[h/_heads|heads]].**
 ---
 ---

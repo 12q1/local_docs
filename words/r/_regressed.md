@@ -11,6 +11,6 @@
 ### Antonyms
 - [[a/_advance|advance]], [[p/_proceed|proceed]], [[p/_progress|progress]]
 #adjective
-- **That [[h/_has|has]] [[b/_been|been]] subject to [[r/_regression|regression]]**
+- **That [[h/_has|has]] [[b/_been|been]] [[s/_subject|subject]] to [[r/_regression|regression]]**
 ---
 ---

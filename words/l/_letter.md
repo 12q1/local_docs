@@ -20,6 +20,6 @@
 - **([[s/_scholastic|scholastic]]) To [[e/_earn|earn]] a varsity [[l/_letter|letter]] ([[a/_award|award]]).**
 ---
 #noun
-- **An [[i/_identifying|identifying]] [[i/_initial|initial]] of the [[a/_academic|academic]] [[i/_institution|institution]] that is [[a/_awarded|awarded]] to a [[m/_member|member]] of a varsity team. It is [[m/_made|made]] from [[s/_structured|structured]] [[c/_cloth|cloth]], and [[i/_intended|intended]] to be [[s/_sewn|sewn]] to a [[p/_piece|piece]] of [[c/_clothing|clothing]] such as a varsity sweater or varsity [[j/_jacket|jacket]].**
+- **An [[i/_identifying|identifying]] [[i/_initial|initial]] of the [[a/_academic|academic]] [[i/_institution|institution]] that is [[a/_awarded|awarded]] to a [[m/_member|member]] of a varsity team. It is [[m/_made|made]] from [[s/_structured|structured]] [[c/_cloth|cloth]], and [[i/_intended|intended]] to be [[s/_sewn|sewn]] to a [[p/_piece|piece]] of [[c/_clothing|clothing]] [[s/_such|such]] as a varsity sweater or varsity [[j/_jacket|jacket]].**
 ---
 ---

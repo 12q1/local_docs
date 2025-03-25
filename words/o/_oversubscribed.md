@@ -1,7 +1,7 @@
 # Oversubscribed
 ---
 #verb
-- **To subscribe to an [[e/_extent|extent]] that is [[g/_greater|greater]] than the [[a/_availability|availability]]**
+- **To [[s/_subscribe|subscribe]] to an [[e/_extent|extent]] that is [[g/_greater|greater]] than the [[a/_availability|availability]]**
 - **To use the [[o/_oversubscription|oversubscription]] technique in multithreading.**
 - **To use the [[o/_oversubscription|oversubscription]] technique in a [[c/_computer|computer]] [[n/_network|network]].**
 ---

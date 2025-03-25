@@ -2,14 +2,14 @@
 ---
 #adjective
 - **[[e/_exhibiting|Exhibiting]] [[s/_social|social]] [[a/_ability|ability]] or [[c/_cleverness|cleverness]].**
-- **[[e/_exhibiting|Exhibiting]] [[i/_intellectual|intellectual]] [[k/_knowledge|knowledge]], such as that [[f/_found|found]] in [[b/_books|books]].**
+- **[[e/_exhibiting|Exhibiting]] [[i/_intellectual|intellectual]] [[k/_knowledge|knowledge]], [[s/_such|such]] as that [[f/_found|found]] in [[b/_books|books]].**
 - **([[o/_often|often]] in [[c/_combination|combination]]) [[e/_equipped|Equipped]] with [[i/_intelligent|intelligent]] [[b/_behaviour|behaviour]] ([[d/_digital|digital]]/[[c/_computer|computer]] technology).**
 	- _Example: smart bomb_
 - **[[g/_good|Good]]-[[l/_looking|looking]]; well [[d/_dressed|dressed]]; [[f/_fine|fine]]; [[f/_fashionable|fashionable]].**
 	- _Example: You look smart in that business suit._
 - **[[c/_cleverly|Cleverly]] [[s/_shrewd|shrewd]] and [[h/_humorous|humorous]] in a way that [[m/_may|may]] be [[r/_rude|rude]] and [[d/_disrespectful|disrespectful]].**
 	- _Example: Don't get smart with me!_
-- **Sudden and [[i/_intense|intense]].**
+- **[[s/_sudden|Sudden]] and [[i/_intense|intense]].**
 - **[[c/_causing|Causing]] [[s/_sharp|sharp]] [[p/_pain|pain]]; [[s/_stinging|stinging]].**
 - **[[s/_sharp|Sharp]]; [[k/_keen|keen]]; [[p/_poignant|poignant]].**
 	- _Example: a smart pain_

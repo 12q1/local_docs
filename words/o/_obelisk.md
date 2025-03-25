@@ -4,7 +4,7 @@
 - **A tall, [[s/_square|square]], tapered, [[s/_stone|stone]] [[m/_monolith|monolith]] topped with a [[p/_pyramidal|pyramidal]] [[p/_point|point]], [[f/_frequently|frequently]] used as a [[m/_monument|monument]].**
 ---
 #verb
-- **(of a [[d/_dragonfly|dragonfly]]) To [[a/_adopt|adopt]] the [[o/_obelisk|obelisk]] [[p/_posture|posture]]; to [[p/_point|point]] the tip of the [[a/_abdomen|abdomen]] towards the sun.**
+- **(of a [[d/_dragonfly|dragonfly]]) To [[a/_adopt|adopt]] the [[o/_obelisk|obelisk]] [[p/_posture|posture]]; to [[p/_point|point]] the tip of the [[a/_abdomen|abdomen]] towards the [[s/_sun|sun]].**
 ---
 #noun
 - **A [[s/_symbol|symbol]] [[r/_resembling|resembling]] a [[h/_horizontal|horizontal]] [[l/_line|line]] (–), [[s/_sometimes|sometimes]] together with [[o/_one|one]] or two [[d/_dots|dots]] (for [[e/_example|example]], ⨪ or ÷), which was used in [[a/_ancient|ancient]] [[m/_manuscripts|manuscripts]] and texts to [[m/_mark|mark]] a word or [[p/_passage|passage]] as [[d/_doubtful|doubtful]] or [[s/_spurious|spurious]], or [[r/_redundant|redundant]]; an [[o/_obelisk|obelisk]].**

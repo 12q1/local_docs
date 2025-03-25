@@ -12,7 +12,7 @@
 	- _Example: to blur a manuscript by handling it while damp_
 - **To [[b/_become|become]] [[i/_indistinct|indistinct]].**
 - **To [[c/_cause|cause]] [[i/_imperfection|imperfection]] of vision in; to [[d/_dim|dim]]; to [[d/_darken|darken]].**
-- **To sully; to [[s/_stain|stain]]; to [[b/_blemish|blemish]], as [[r/_reputation|reputation]].**
+- **To [[s/_sully|sully]]; to [[s/_stain|stain]]; to [[b/_blemish|blemish]], as [[r/_reputation|reputation]].**
 - **To transfer the [[i/_input|input]] [[f/_focus|focus]] [[a/_away|away]] from.**
 ---
 ### Synonyms

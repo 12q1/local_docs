@@ -1,7 +1,7 @@
 # Pedal
 ---
 #noun
-- **A [[l/_lever|lever]] [[o/_operated|operated]] by [[o/_one|one]]'[[s/_s|s]] [[f/_foot|foot]] that is used to [[c/_control|control]] or [[p/_power|power]] a [[m/_machine|machine]] or [[m/_mechanism|mechanism]], such as a [[b/_bicycle|bicycle]] or [[p/_piano|piano]]**
+- **A [[l/_lever|lever]] [[o/_operated|operated]] by [[o/_one|one]]'[[s/_s|s]] [[f/_foot|foot]] that is used to [[c/_control|control]] or [[p/_power|power]] a [[m/_machine|machine]] or [[m/_mechanism|mechanism]], [[s/_such|such]] as a [[b/_bicycle|bicycle]] or [[p/_piano|piano]]**
 	- _Example: A piano usually has two or three pedals._
 - **A [[f/_foot|foot]] or [[f/_footlike|footlike]] [[p/_part|part]].**
 - **An [[e/_effects|effects]] unit, [[e/_especially|especially]] [[o/_one|one]] [[d/_designed|designed]] to be [[a/_activated|activated]] by [[b/_being|being]] [[s/_stepped|stepped]] on.**

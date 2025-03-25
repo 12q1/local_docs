@@ -3,14 +3,14 @@
 #noun
 - **The [[a/_act|act]] of [[c/_cooking|cooking]] [[f/_food|food]] by [[b/_baking|baking]].**
 - **[[a/_any|Any]] of various [[b/_baked|baked]] [[d/_dishes|dishes]] [[r/_resembling|resembling]] [[c/_casserole|casserole]].**
-- **A [[s/_social|social]] [[e/_event|event]] at which [[f/_food|food]] (such as [[s/_seafood|seafood]]) is [[b/_baked|baked]], or at which [[b/_baked|baked]] [[f/_food|food]] is [[s/_served|served]].**
+- **A [[s/_social|social]] [[e/_event|event]] at which [[f/_food|food]] ([[s/_such|such]] as [[s/_seafood|seafood]]) is [[b/_baked|baked]], or at which [[b/_baked|baked]] [[f/_food|food]] is [[s/_served|served]].**
 - **([[b/_barbadian|Barbadian]], [[s/_sometimes|sometimes]] US and UK) A [[s/_small|small]], [[f/_flat|flat]] (or [[b/_ball|ball]]-[[s/_shaped|shaped]]) [[c/_cake|cake]] of [[d/_dough|dough]] [[e/_eaten|eaten]] in [[b/_barbados|Barbados]] and [[s/_sometimes|sometimes]] [[e/_elsewhere|elsewhere]], [[s/_similar|similar]] in [[a/_appearance|appearance]] and [[i/_ingredients|ingredients]] to a [[p/_pancake|pancake]] but [[f/_fried|fried]] (or in [[s/_some|some]] [[p/_places|places]] [[s/_sometimes|sometimes]] [[r/_roasted|roasted]]).**
 - **[[a/_any|Any]] [[i/_item|item]] that is [[b/_baked|baked]].**
 ---
 #verb
-- **(with [[p/_person|person]] as subject) To [[c/_cook|cook]] ([[s/_something|something]]) in an [[o/_oven|oven]].**
+- **(with [[p/_person|person]] as [[s/_subject|subject]]) To [[c/_cook|cook]] ([[s/_something|something]]) in an [[o/_oven|oven]].**
 	- _Example: I baked a delicious cherry pie._
-- **(with [[b/_baked|baked]] thing as subject) To be [[c/_cooked|cooked]] in an [[o/_oven|oven]].**
+- **(with [[b/_baked|baked]] thing as [[s/_subject|subject]]) To be [[c/_cooked|cooked]] in an [[o/_oven|oven]].**
 	- _Example: The cake baked at 350°F._
 - **To be warmed to [[d/_drying|drying]] and [[h/_hardening|hardening]].**
 	- _Example: The clay baked in the sun._

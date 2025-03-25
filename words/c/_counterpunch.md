@@ -1,7 +1,7 @@
 # Counterpunch
 ---
 #noun
-- **A [[p/_punch|punch]] [[d/_delivered|delivered]] in [[r/_response|response]] to a [[p/_previous|previous]] [[p/_punch|punch]] by [[s/_somebody|somebody]] [[e/_else|else]], such as an [[o/_opponent|opponent]] in a [[b/_boxing|boxing]] [[m/_match|match]].**
+- **A [[p/_punch|punch]] [[d/_delivered|delivered]] in [[r/_response|response]] to a [[p/_previous|previous]] [[p/_punch|punch]] by [[s/_somebody|somebody]] [[e/_else|else]], [[s/_such|such]] as an [[o/_opponent|opponent]] in a [[b/_boxing|boxing]] [[m/_match|match]].**
 - **A [[p/_punch|punch]] used in the [[c/_cutting|cutting]] of [[o/_other|other]] [[p/_punches|punches]], [[o/_often|often]] used to [[c/_create|create]] the [[n/_negative|negative]] [[s/_space|space]] in or [[a/_around|around]] a [[g/_glyph|glyph]].**
 ---
 ### Synonyms

@@ -13,7 +13,7 @@
 ### Antonyms
 - [[e/_extend|extend]], [[l/_lengthen|lengthen]]
 #noun
-- **[[f/_fat|Fat]] that is [[s/_solid|solid]] at [[r/_room|room]] temperature, such as [[m/_margarine|margarine]] or [[l/_lard|lard]] (not usually used of [[b/_butter|butter]]), used to [[m/_make|make]] shortcrust [[p/_pastry|pastry]].**
+- **[[f/_fat|Fat]] that is [[s/_solid|solid]] at [[r/_room|room]] temperature, [[s/_such|such]] as [[m/_margarine|margarine]] or [[l/_lard|lard]] (not usually used of [[b/_butter|butter]]), used to [[m/_make|make]] shortcrust [[p/_pastry|pastry]].**
 - **Verbal [[n/_noun|noun]] of [[s/_shorten|shorten]] - a [[r/_reduction|reduction]] in [[l/_length|length]].**
 ---
 ### Antonyms

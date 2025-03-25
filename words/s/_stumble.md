@@ -1,7 +1,7 @@
 # Stumble
 ---
 #noun
-- **A [[f/_fall|fall]], trip or substantial [[m/_misstep|misstep]].**
+- **A [[f/_fall|fall]], trip or [[s/_substantial|substantial]] [[m/_misstep|misstep]].**
 - **An [[e/_error|error]] or [[b/_blunder|blunder]].**
 - **A [[c/_clumsy|clumsy]] walk.**
 ---

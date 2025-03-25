@@ -19,7 +19,7 @@
 	- _Example: The referee is blatantly partial!_
 - **([[f/_followed|followed]] by the [[p/_preposition|preposition]] to) [[h/_having|having]] a [[p/_predilection|predilection]] for [[s/_something|something]]**
 - **Of or [[r/_relating|relating]] to a [[p/_partial|partial]] [[d/_derivative|derivative]] or [[p/_partial|partial]] [[d/_differential|differential]]**
-- **Subordinate**
+- **[[s/_subordinate|Subordinate]]**
 ---
 ### Synonyms
 - [[f/_fond|fond]]

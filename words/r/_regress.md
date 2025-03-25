@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] of [[p/_passing|passing]] [[b/_back|back]]; [[p/_passage|passage]] [[b/_back|back]]; [[r/_return|return]]; [[r/_retrogression|retrogression]].**
 - **The [[p/_power|power]] or [[l/_liberty|liberty]] of [[p/_passing|passing]] [[b/_back|back]].**
-- **In [[p/_property|property]] [[l/_law|law]], the [[r/_right|right]] of a [[p/_person|person]] (such as a [[l/_lessee|lessee]]) to [[r/_return|return]] to a [[p/_property|property]].**
+- **In [[p/_property|property]] [[l/_law|law]], the [[r/_right|right]] of a [[p/_person|person]] ([[s/_such|such]] as a [[l/_lessee|lessee]]) to [[r/_return|return]] to a [[p/_property|property]].**
 ---
 ### Synonyms
 - [[r/_retrogress|retrogress]]

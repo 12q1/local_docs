@@ -12,7 +12,7 @@
 - **An [[a/_alternate|alternate]] [[a/_appearance|appearance]] (texture [[m/_map|map]] or [[g/_geometry|geometry]]) for a [[c/_character|character]] [[m/_model|model]] in a video [[g/_game|game]].**
 - **[[r/_rolling|Rolling]] [[p/_paper|paper]] for [[c/_cigarettes|cigarettes]].**
 	- _Example: Pass me a skin, mate._
-- **A subgroup of [[a/_australian|Australian]] [[a/_aboriginal|aboriginal]] [[p/_people|people]]; such [[d/_divisions|divisions]] are [[c/_cultural|cultural]] and not [[r/_related|related]] to an [[i/_individual|individual]]′[[s/_s|s]] [[p/_physical|physical]] [[s/_skin|skin]].**
+- **A [[s/_subgroup|subgroup]] of [[a/_australian|Australian]] [[a/_aboriginal|aboriginal]] [[p/_people|people]]; [[s/_such|such]] [[d/_divisions|divisions]] are [[c/_cultural|cultural]] and not [[r/_related|related]] to an [[i/_individual|individual]]′[[s/_s|s]] [[p/_physical|physical]] [[s/_skin|skin]].**
 - **[[b/_bare|Bare]] [[f/_flesh|flesh]], [[p/_particularly|particularly]] [[b/_bare|bare]] [[b/_breasts|breasts]].**
 	- _Example: Let me see a bit of skin._
 - **A vessel [[m/_made|made]] of [[s/_skin|skin]], used for [[h/_holding|holding]] [[l/_liquids|liquids]].**
@@ -33,7 +33,7 @@
 - **To use tricks to [[g/_go|go]] [[p/_past|past]] a [[d/_defender|defender]].**
 - **To [[b/_become|become]] [[c/_covered|covered]] with [[s/_skin|skin]].**
 	- _Example: A wound eventually skins over._
-- **To [[c/_cover|cover]] with [[s/_skin|skin]], or as [[i/_if|if]] with [[s/_skin|skin]]; [[h/_hence|hence]], to [[c/_cover|cover]] superficially.**
+- **To [[c/_cover|cover]] with [[s/_skin|skin]], or as [[i/_if|if]] with [[s/_skin|skin]]; [[h/_hence|hence]], to [[c/_cover|cover]] [[s/_superficially|superficially]].**
 - **To [[p/_produce|produce]], in [[r/_recitation|recitation]], [[e/_examination|examination]], [[e/_etc|etc]]., the work of [[a/_another|another]] for [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]], or to use [[c/_cribs|cribs]], [[m/_memoranda|memoranda]], [[e/_etc|etc]]., which are [[p/_prohibited|prohibited]].**
 - **To [[s/_strip|strip]] of [[m/_money|money]] or [[p/_property|property]]; to [[c/_cheat|cheat]].**
 ---
@@ -41,7 +41,7 @@
 - [[b/_bark|bark]], [[c/_chafe|chafe]], [[e/_excoriate|excoriate]], [[g/_graze|graze]], [[s/_scrape|scrape]], [[f/_flay|flay]], [[f/_fleece|fleece]], [[f/_flense|flense]], [[s/_scalp|scalp]]
 #noun
 - **[[s/_someone|Someone]] with a [[s/_shaved|shaved]] [[h/_head|head]].**
-- **[[m/_member|Member]] of the [[s/_skinhead|skinhead]] subculture [[a/_arising|arising]] in [[l/_late|late]] 1960s [[e/_england|England]] or [[i/_its|its]] [[d/_diaspora|diaspora]], [[o/_often|often]] [[i/_incorrectly|incorrectly]] [[a/_associated|associated]] with violence and white-supremacist or [[a/_anti|anti]]-[[i/_immigrant|immigrant]] [[p/_principles|principles]].**
+- **[[m/_member|Member]] of the [[s/_skinhead|skinhead]] [[s/_subculture|subculture]] [[a/_arising|arising]] in [[l/_late|late]] 1960s [[e/_england|England]] or [[i/_its|its]] [[d/_diaspora|diaspora]], [[o/_often|often]] [[i/_incorrectly|incorrectly]] [[a/_associated|associated]] with violence and white-supremacist or [[a/_anti|anti]]-[[i/_immigrant|immigrant]] [[p/_principles|principles]].**
 ---
 ### Synonyms
 - [[b/_baldie|baldie]], [[s/_skin|skin]], [[s/_slaphead|slaphead]]

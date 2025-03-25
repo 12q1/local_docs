@@ -9,12 +9,12 @@
 	- _Example: great-grandfather, great-great-grandfather, great-great-great-grandfather_
 - **([[f/_followed|followed]] by 'with') [[p/_pregnant|Pregnant]]; [[l/_large|large]] with [[y/_young|young]]; [[f/_full|full]] of.**
 	- _Example: great with child_
-- **([[e/_except|except]] with '[[f/_friend|friend]]' and [[s/_similar|similar]] words such as '[[m/_mate|mate]]','[[b/_buddy|buddy]]') [[i/_intimate|Intimate]]; [[f/_familiar|familiar]].**
+- **([[e/_except|except]] with '[[f/_friend|friend]]' and [[s/_similar|similar]] words [[s/_such|such]] as '[[m/_mate|mate]]','[[b/_buddy|buddy]]') [[i/_intimate|Intimate]]; [[f/_familiar|familiar]].**
 - **[[e/_extreme|Extreme]] or [[m/_more|more]] than usual.**
 	- _Example: great worry_
 - **Of [[s/_significant|significant]] [[i/_importance|importance]] or [[c/_consequence|consequence]]; [[i/_important|important]].**
 	- _Example: a great decision_
-- **([[a/_applied|applied]] to [[a/_actions|actions]], thoughts and [[f/_feelings|feelings]]) [[a/_arising|Arising]] from or [[p/_possessing|possessing]] [[i/_idealism|idealism]]; [[a/_admirable|admirable]]; superior; [[c/_commanding|commanding]]; [[h/_heroic|heroic]]; [[i/_illustrious|illustrious]]; [[e/_eminent|eminent]].**
+- **([[a/_applied|applied]] to [[a/_actions|actions]], thoughts and [[f/_feelings|feelings]]) [[a/_arising|Arising]] from or [[p/_possessing|possessing]] [[i/_idealism|idealism]]; [[a/_admirable|admirable]]; [[s/_superior|superior]]; [[c/_commanding|commanding]]; [[h/_heroic|heroic]]; [[i/_illustrious|illustrious]]; [[e/_eminent|eminent]].**
 	- _Example: a great deed_
 - **[[i/_impressive|Impressive]] or [[s/_striking|striking]].**
 	- _Example: a great show of wealth_

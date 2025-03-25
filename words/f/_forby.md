@@ -1,7 +1,7 @@
 # Forby
 ---
 #adjective
-- **Uncommon; [[o/_out|out]] of the [[o/_ordinary|ordinary]]; [[e/_extraordinary|extraordinary]]; superior.**
+- **Uncommon; [[o/_out|out]] of the [[o/_ordinary|ordinary]]; [[e/_extraordinary|extraordinary]]; [[s/_superior|superior]].**
 	- _Example: He's a forbye man._
 ---
 #adverb

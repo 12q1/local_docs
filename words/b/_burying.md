@@ -4,7 +4,7 @@
 - **To [[r/_ritualistically|ritualistically]] [[i/_inter|inter]] in a [[g/_grave|grave]] or tomb.**
 - **To [[p/_place|place]] in the [[g/_ground|ground]].**
 	- _Example: bury a bone;  bury the embers_
-- **To [[h/_hide|hide]] or [[c/_conceal|conceal]] as [[i/_if|if]] by [[c/_covering|covering]] with [[e/_earth|earth]] or [[a/_another|another]] substance.**
+- **To [[h/_hide|hide]] or [[c/_conceal|conceal]] as [[i/_if|if]] by [[c/_covering|covering]] with [[e/_earth|earth]] or [[a/_another|another]] [[s/_substance|substance]].**
 	- _Example: she buried her face in the pillow;  they buried us in paperwork_
 - **To suppress and [[h/_hide|hide]] [[a/_away|away]] in [[o/_one|one]]'[[s/_s|s]] [[m/_mind|mind]].**
 	- _Example: secrets kept buried; she buried her shame and put on a smiling face._

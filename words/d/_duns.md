@@ -12,15 +12,15 @@
 - **To [[h/_harass|harass]] by [[c/_continually|continually]] [[r/_repeating|repeating]] [[e/_e|e]].[[g/_g|g]]. a [[r/_request|request]].**
 ---
 #noun
-- **A [[n/_newly|newly]] [[h/_hatched|hatched]], [[i/_immature|immature]] [[m/_mayfly|mayfly]]; a [[m/_mayfly|mayfly]] subimago.**
-- **A [[f/_fly|fly]] [[m/_made|made]] to [[r/_resemble|resemble]] the [[m/_mayfly|mayfly]] subimago.**
+- **A [[n/_newly|newly]] [[h/_hatched|hatched]], [[i/_immature|immature]] [[m/_mayfly|mayfly]]; a [[m/_mayfly|mayfly]] [[s/_subimago|subimago]].**
+- **A [[f/_fly|fly]] [[m/_made|made]] to [[r/_resemble|resemble]] the [[m/_mayfly|mayfly]] [[s/_subimago|subimago]].**
 ---
 #noun
 - **An [[a/_ancient|ancient]] or [[m/_medieval|medieval]] [[f/_fortification|fortification]]; [[e/_especially|especially]] a [[h/_hill|hill]]-[[f/_fort|fort]] in [[s/_scotland|Scotland]] or [[i/_ireland|Ireland]].**
 - **A [[s/_structure|structure]] in the Orkney or [[s/_shetland|Shetland]] [[i/_islands|islands]] or in [[s/_scotland|Scotland]] [[c/_consisting|consisting]] of a [[r/_roundhouse|roundhouse]] surrounded by a [[c/_circular|circular]] wall; a [[b/_broch|broch]].**
 ---
 #verb
-- **To [[c/_cure|cure]], as [[c/_codfish|codfish]], by [[l/_laying|laying]] them, [[a/_after|after]] [[s/_salting|salting]], in a [[p/_pile|pile]] in a [[d/_dark|dark]] [[p/_place|place]], [[c/_covered|covered]] with [[s/_saltgrass|saltgrass]] or a [[s/_similar|similar]] substance.**
+- **To [[c/_cure|cure]], as [[c/_codfish|codfish]], by [[l/_laying|laying]] them, [[a/_after|after]] [[s/_salting|salting]], in a [[p/_pile|pile]] in a [[d/_dark|dark]] [[p/_place|place]], [[c/_covered|covered]] with [[s/_saltgrass|saltgrass]] or a [[s/_similar|similar]] [[s/_substance|substance]].**
 ---
 #noun
 - **A [[m/_mound|mound]] or [[s/_small|small]] [[h/_hill|hill]].**

@@ -13,7 +13,7 @@
 ### Synonyms
 - [[c/_contrive|contrive]], [[h/_hatch|hatch]], [[p/_plot|plot]]
 #noun
-- **The [[p/_production|production]] of [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]], such as [[b/_beer|beer]], by [[f/_fermentation|fermentation]]; the [[p/_process|process]] of [[b/_being|being]] [[b/_brewed|brewed]].**
+- **The [[p/_production|production]] of [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]], [[s/_such|such]] as [[b/_beer|beer]], by [[f/_fermentation|fermentation]]; the [[p/_process|process]] of [[b/_being|being]] [[b/_brewed|brewed]].**
 - **The [[b/_business|business]] or [[o/_occupation|occupation]] of a [[b/_brewer|brewer]].**
 - **The [[q/_quantity|quantity]] of a [[b/_brew|brew]] [[m/_made|made]] in a [[s/_single|single]] [[b/_batch|batch]].**
 - **The [[f/_forming|forming]] of a [[s/_storm|storm]] or the [[g/_gathering|gathering]] of [[c/_clouds|clouds]].**

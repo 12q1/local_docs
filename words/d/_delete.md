@@ -1,7 +1,7 @@
 # Delete
 ---
 #noun
-- **A [[k/_key|key]] that [[m/_may|may]] be [[p/_pressed|pressed]] to [[d/_delete|delete]] [[s/_something|something]] (such as text or [[f/_files|files]]) from a [[c/_computer|computer]].**
+- **A [[k/_key|key]] that [[m/_may|may]] be [[p/_pressed|pressed]] to [[d/_delete|delete]] [[s/_something|something]] ([[s/_such|such]] as text or [[f/_files|files]]) from a [[c/_computer|computer]].**
 ---
 #noun
 - **A [[d/_deletion|deletion]].**

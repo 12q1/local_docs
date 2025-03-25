@@ -5,7 +5,7 @@
 - **To [[b/_become|become]] [[b/_black|black]].**
 	- _Example: The sky blackened as the storm clouds rolled in._
 - **([[c/_causative|causative]]) To [[m/_make|make]] [[d/_dirty|dirty]].**
-- **To [[d/_defame|defame]] or sully.**
+- **To [[d/_defame|defame]] or [[s/_sully|sully]].**
 - **To [[c/_cook|cook]] ([[m/_meat|meat]] or [[f/_fish|fish]]) by [[c/_coating|coating]] with [[p/_pepper|pepper]], [[e/_etc|etc]]., and [[q/_quickly|quickly]] [[s/_searing|searing]] in a [[h/_hot|hot]] [[p/_pan|pan]].**
 ---
 ### Synonyms

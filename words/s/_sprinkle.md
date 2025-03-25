@@ -1,7 +1,7 @@
 # Sprinkle
 ---
 #noun
-- **A [[l/_light|light]] [[c/_covering|covering]] with a [[s/_sprinkled|sprinkled]] substance.**
+- **A [[l/_light|light]] [[c/_covering|covering]] with a [[s/_sprinkled|sprinkled]] [[s/_substance|substance]].**
 	- _Example: He decorated the Christmas card with a sprinkle of glitter._
 - **A [[l/_light|light]] [[r/_rain|rain]] [[s/_shower|shower]].**
 - **An [[a/_aspersorium|aspersorium]] or utensil for [[s/_sprinkling|sprinkling]].**
@@ -9,9 +9,9 @@
 ### Synonyms
 - [[s/_sprinkling|sprinkling]]
 #verb
-- **To [[c/_cause|cause]] (a substance) to [[f/_fall|fall]] in [[f/_fine|fine]] [[d/_drops|drops]] (for a [[l/_liquid|liquid]] substance) or [[s/_small|small]] [[p/_pieces|pieces]] (for a [[s/_solid|solid]] substance).**
+- **To [[c/_cause|cause]] (a [[s/_substance|substance]]) to [[f/_fall|fall]] in [[f/_fine|fine]] [[d/_drops|drops]] (for a [[l/_liquid|liquid]] [[s/_substance|substance]]) or [[s/_small|small]] [[p/_pieces|pieces]] (for a [[s/_solid|solid]] [[s/_substance|substance]]).**
 	- _Example: The confectioner sprinkled icing sugar over the cakes._
-- **To [[c/_cover|cover]] (an [[o/_object|object]]) by [[s/_sprinkling|sprinkling]] a substance on to it.**
+- **To [[c/_cover|cover]] (an [[o/_object|object]]) by [[s/_sprinkling|sprinkling]] a [[s/_substance|substance]] on to it.**
 	- _Example: The confectioner sprinkled the cakes with icing sugar._
 - **To [[d/_drip|drip]] in [[f/_fine|fine]] [[d/_drops|drops]], [[s/_sometimes|sometimes]] [[s/_sporadically|sporadically]].**
 	- _Example: It sprinkled outside all day long._

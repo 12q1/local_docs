@@ -29,7 +29,7 @@
 ### Synonyms
 - [[d/_drama|drama]], [[l/_listen|listen]], [[v/_view|view]], [[m/_move|move]]
 #verb
-- **To [[a/_act|act]] in a [[m/_manner|manner]] such that [[o/_one|one]] [[h/_has|has]] [[f/_fun|fun]]; to [[e/_engage|engage]] in [[a/_activities|activities]] [[e/_expressly|expressly]] for the [[p/_purpose|purpose]] of [[r/_recreation|recreation]] or [[e/_entertainment|entertainment]].**
+- **To [[a/_act|act]] in a [[m/_manner|manner]] [[s/_such|such]] that [[o/_one|one]] [[h/_has|has]] [[f/_fun|fun]]; to [[e/_engage|engage]] in [[a/_activities|activities]] [[e/_expressly|expressly]] for the [[p/_purpose|purpose]] of [[r/_recreation|recreation]] or [[e/_entertainment|entertainment]].**
 	- _Example: They played long and hard._
 - **To [[p/_perform|perform]] in (a [[s/_sport|sport]]); to [[p/_participate|participate]] in (a [[g/_game|game]]).**
 	- _Example: He plays on three teams_

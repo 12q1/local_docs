@@ -6,7 +6,7 @@
 - **To undergo [[d/_damage|damage]].**
 ---
 #adjective
-- **Suffered a [[d/_damage|damage]].**
+- **[[s/_suffered|Suffered]] a [[d/_damage|damage]].**
 ---
 ### Synonyms
 - [[d/_defective|defective]], [[f/_faulty|faulty]], [[i/_injured|injured]], [[w/_wounded|wounded]]

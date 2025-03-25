@@ -5,7 +5,7 @@
 	- _Example: The earth's rotation about its axis is responsible for its being slightly oblate rather than a sphere._
 - **A [[s/_single|single]] [[c/_complete|complete]] [[c/_cycle|cycle]] [[a/_around|around]] a [[c/_centre|centre]] or an [[a/_axis|axis]].**
 	- _Example: Earth's moon completes a rotation every twenty-seven days or so._
-- **A [[r/_regular|regular]] variation in a [[s/_sequence|sequence]], such as to [[e/_even|even]]-[[o/_out|out]] wear, or [[p/_people|people]] taking turns in a task; a [[d/_duty|duty]] [[r/_roster|roster]].**
+- **A [[r/_regular|regular]] variation in a [[s/_sequence|sequence]], [[s/_such|such]] as to [[e/_even|even]]-[[o/_out|out]] wear, or [[p/_people|people]] taking turns in a task; a [[d/_duty|duty]] [[r/_roster|roster]].**
 	- _Example: In rotation, each member of the group would be responsible for the beacon fire._
 - **An [[o/_operation|operation]] on a [[m/_metric|metric]] [[s/_space|space]] that is a [[c/_continuous|continuous]] [[i/_isometry|isometry]] and [[f/_fixes|fixes]] at [[l/_least|least]] [[o/_one|one]] [[p/_point|point]].**
 	- _Example: The function mapping (x,y) to (−y,x) is a rotation._

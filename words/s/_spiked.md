@@ -9,9 +9,9 @@
 - **To [[d/_discard|discard]]; to [[d/_decide|decide]] not to [[p/_publish|publish]] or [[m/_make|make]] [[p/_public|public]].**
 - **To [[i/_increase|increase]] [[s/_sharply|sharply]].**
 	- _Example: Traffic accidents spiked in December when there was ice on the roads._
-- **To [[c/_covertly|covertly]] [[p/_put|put]] [[a/_alcohol|alcohol]] or [[a/_another|another]] [[i/_intoxicating|intoxicating]] substance [[i/_into|into]] a [[d/_drink|drink]].**
+- **To [[c/_covertly|covertly]] [[p/_put|put]] [[a/_alcohol|alcohol]] or [[a/_another|another]] [[i/_intoxicating|intoxicating]] [[s/_substance|substance]] [[i/_into|into]] a [[d/_drink|drink]].**
 	- _Example: She spiked my lemonade with vodka!_
-- **To [[a/_add|add]] a [[s/_small|small]] [[a/_amount|amount]] of [[o/_one|one]] substance to [[a/_another|another]].**
+- **To [[a/_add|add]] a [[s/_small|small]] [[a/_amount|amount]] of [[o/_one|one]] [[s/_substance|substance]] to [[a/_another|another]].**
 	- _Example: The water sample to be tested has been spiked with arsenic, antimony, mercury, and lead in quantities commonly found in industrial effluents._
 - **To [[a/_attack|attack]] from, usually, [[a/_above|above]] the [[h/_height|height]] of the [[n/_net|net]] with the [[i/_intent|intent]] to [[s/_send|send]] the [[b/_ball|ball]] [[s/_straight|straight]] to the [[f/_floor|floor]] of the [[o/_opponent|opponent]] or [[o/_off|off]] the [[h/_hands|hands]] of the [[o/_opposing|opposing]] [[b/_block|block]].**
 - **To [[r/_render|render]] (a [[g/_gun|gun]]) unusable by [[d/_driving|driving]] a [[m/_metal|metal]] [[s/_spike|spike]] [[i/_into|into]] [[i/_its|its]] touch [[h/_hole|hole]].**

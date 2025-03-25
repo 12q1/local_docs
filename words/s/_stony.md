@@ -5,7 +5,7 @@
 - **[[c/_containing|Containing]] or [[m/_made|made]] up of [[s/_stones|stones]].**
 	- _Example: a stony path_
 - **Of a [[p/_person|person]], [[l/_lacking|lacking]] warmth and [[e/_emotion|emotion]].**
-- **Of an [[a/_action|action]] such as a [[l/_look|look]], [[s/_showing|showing]] [[n/_no|no]] warmth of [[e/_emotion|emotion]].**
+- **Of an [[a/_action|action]] [[s/_such|such]] as a [[l/_look|look]], [[s/_showing|showing]] [[n/_no|no]] warmth of [[e/_emotion|emotion]].**
 	- _Example: She gave him a stony reception._
 - **[[s/_short|Short]] for [[s/_stony|stony]] [[b/_broke|broke]]: without [[a/_any|any]] [[m/_money|money]].**
 ---

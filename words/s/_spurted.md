@@ -1,7 +1,7 @@
 # Spurted
 ---
 #verb
-- **To [[c/_cause|cause]] to [[g/_gush|gush]] [[o/_out|out]] suddenly or violently in a [[s/_stream|stream]] or [[j/_jet|jet]].**
+- **To [[c/_cause|cause]] to [[g/_gush|gush]] [[o/_out|out]] [[s/_suddenly|suddenly]] or violently in a [[s/_stream|stream]] or [[j/_jet|jet]].**
 - **To [[r/_rush|rush]] from a [[c/_confined|confined]] [[p/_place|place]] in a [[s/_small|small]] [[s/_stream|stream]] or [[j/_jet|jet]].**
 ---
 #verb

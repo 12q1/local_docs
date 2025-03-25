@@ -22,7 +22,7 @@
 - **A [[m/_muscle|muscle]] that [[b/_bends|bends]] a [[l/_limb|limb]], [[e/_especially|especially]] the [[a/_arm|arm]].**
 ---
 #noun
-- **[[o/_one|One]] who [[p/_plays|plays]] [[a/_any|any]] of [[s/_several|several]] [[b/_bow|bow]] [[i/_instruments|instruments]], such as the [[m/_musical|musical]] [[b/_bow|bow]] or diddley [[b/_bow|bow]].**
+- **[[o/_one|One]] who [[p/_plays|plays]] [[a/_any|any]] of [[s/_several|several]] [[b/_bow|bow]] [[i/_instruments|instruments]], [[s/_such|such]] as the [[m/_musical|musical]] [[b/_bow|bow]] or diddley [[b/_bow|bow]].**
 ---
 #noun
 - **A [[y/_young|young]] [[h/_hawk|hawk]], when it [[b/_begins|begins]] to [[l/_leave|leave]] the [[n/_nest|nest]].**

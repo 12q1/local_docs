@@ -1,9 +1,9 @@
 # Breastfeeding
 ---
 #verb
-- **To [[f/_feed|feed]] (a [[b/_baby|baby]]) [[m/_milk|milk]] via the [[b/_breasts|breasts]]; to suckle; to [[n/_nurse|nurse]].**
+- **To [[f/_feed|feed]] (a [[b/_baby|baby]]) [[m/_milk|milk]] via the [[b/_breasts|breasts]]; to [[s/_suckle|suckle]]; to [[n/_nurse|nurse]].**
 	- _Example: She stopped breastfeeding after a few months._
-- **([[c/_chiefly|chiefly]] of a [[b/_baby|baby]]) To [[n/_nurse|nurse]], to suck [[m/_milk|milk]] from a [[b/_breast|breast]].**
+- **([[c/_chiefly|chiefly]] of a [[b/_baby|baby]]) To [[n/_nurse|nurse]], to [[s/_suck|suck]] [[m/_milk|milk]] from a [[b/_breast|breast]].**
 ---
 ### Synonyms
 - [[b/_boobfeed|boobfeed]]

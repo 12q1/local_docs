@@ -8,7 +8,7 @@
 	- _Example: a bird feeder_
 - **A tributary [[s/_stream|stream]], [[e/_especially|especially]] of a [[c/_canal|canal]].**
 - **A [[b/_branch|branch]] [[l/_line|line]] of a [[r/_railway|railway]].**
-- **A transmission [[l/_line|line]] that [[f/_feeds|feeds]] the [[e/_electricity|electricity]] for an [[e/_electricity|electricity]] substation, or for a transmitter.**
+- **A transmission [[l/_line|line]] that [[f/_feeds|feeds]] the [[e/_electricity|electricity]] for an [[e/_electricity|electricity]] [[s/_substation|substation]], or for a transmitter.**
 - **A [[f/_feeder|feeder]] [[s/_school|school]].**
 - **A [[f/_feeder|feeder]] [[s/_ship|ship]].**
 - **A [[j/_judge|judge]] whose [[l/_law|law]] [[c/_clerks|clerks]] are [[o/_often|often]] [[s/_selected|selected]] to [[b/_become|become]] [[c/_clerks|clerks]] for the Supreme [[c/_court|Court]].**

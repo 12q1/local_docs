@@ -3,7 +3,7 @@
 #noun
 - **A [[h/_hardened|hardened]] [[r/_rectangular|rectangular]] [[b/_block|block]] of [[m/_mud|mud]], [[c/_clay|clay]] [[e/_etc|etc]]., used for [[b/_building|building]].**
 	- _Example: This wall is made of bricks._
-- **Such [[h/_hardened|hardened]] [[m/_mud|mud]], [[c/_clay|clay]], [[e/_etc|etc]]. [[c/_considered|considered]] [[c/_collectively|collectively]], as a [[b/_building|building]] [[m/_material|material]].**
+- **[[s/_such|Such]] [[h/_hardened|hardened]] [[m/_mud|mud]], [[c/_clay|clay]], [[e/_etc|etc]]. [[c/_considered|considered]] [[c/_collectively|collectively]], as a [[b/_building|building]] [[m/_material|material]].**
 	- _Example: This house is made of brick._
 - **[[s/_something|Something]] [[s/_shaped|shaped]] [[l/_like|like]] a [[b/_brick|brick]].**
 	- _Example: a plastic explosive brick_

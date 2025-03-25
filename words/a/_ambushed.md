@@ -6,6 +6,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] [[b/_been|been]] the target of an [[a/_ambush|ambush]].**
-- **[[h/_having|Having]] [[b/_been|been]] subjected to a [[s/_shock|shock]] for which [[o/_one|one]] is unprepared.**
+- **[[h/_having|Having]] [[b/_been|been]] [[s/_subjected|subjected]] to a [[s/_shock|shock]] for which [[o/_one|one]] is unprepared.**
 ---
 ---

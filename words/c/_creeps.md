@@ -9,7 +9,7 @@
 - **To [[s/_slip|slip]], or to [[b/_become|become]] [[s/_slightly|slightly]] [[d/_displaced|displaced]].**
 - **To [[m/_move|move]] or [[b/_behave|behave]] with [[s/_servility|servility]] or [[e/_exaggerated|exaggerated]] [[h/_humility|humility]]; to [[f/_fawn|fawn]].**
 - **To [[h/_have|have]] a [[s/_sensation|sensation]] as of [[i/_insects|insects]] [[c/_creeping|creeping]] on the [[s/_skin|skin]] of the [[b/_body|body]]; to [[c/_crawl|crawl]].**
-- **To [[d/_drag|drag]] in [[d/_deep|deep]] water with [[c/_creepers|creepers]], as for [[r/_recovering|recovering]] a submarine [[c/_cable|cable]].**
+- **To [[d/_drag|drag]] in [[d/_deep|deep]] water with [[c/_creepers|creepers]], as for [[r/_recovering|recovering]] a [[s/_submarine|submarine]] [[c/_cable|cable]].**
 - **To [[c/_covertly|covertly]] [[h/_have|have]] [[s/_sex|sex]] (with a [[p/_person|person]] [[o/_other|other]] than [[o/_one|one]]'[[s/_s|s]] [[p/_primary|primary]] [[p/_partner|partner]]); to [[c/_cheat|cheat]] with.**
 ---
 ### Synonyms

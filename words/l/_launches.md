@@ -7,7 +7,7 @@
 	- _Example: book launch_
 ---
 #verb
-- **To throw (a [[p/_projectile|projectile]] such as a [[l/_lance|lance]], [[d/_dart|dart]] or [[b/_ball|ball]]); to [[h/_hurl|hurl]]; to [[p/_propel|propel]] with [[f/_force|force]].**
+- **To throw (a [[p/_projectile|projectile]] [[s/_such|such]] as a [[l/_lance|lance]], [[d/_dart|dart]] or [[b/_ball|ball]]); to [[h/_hurl|hurl]]; to [[p/_propel|propel]] with [[f/_force|force]].**
 - **To [[p/_pierce|pierce]] with, or as with, a [[l/_lance|lance]].**
 - **To [[c/_cause|cause]] (a vessel) to [[m/_move|move]] or [[s/_slide|slide]] from the [[l/_land|land]] or a [[l/_larger|larger]] vessel [[i/_into|into]] the water; to [[s/_set|set]] [[a/_afloat|afloat]].**
 	- _Example: The navy launched another ship._

@@ -13,14 +13,14 @@
 ---
 #noun
 - **A [[s/_system|system]] whereby the [[s/_state|state]] [[e/_either|either]] through [[g/_general|general]] or [[s/_specific|specific]] taxation [[p/_provides|provides]] various [[b/_benefits|benefits]] to [[h/_help|help]] [[e/_ensure|ensure]] the wellbeing of [[i/_its|its]] [[c/_citizens|citizens]].**
-- **Those [[b/_benefits|benefits]] [[p/_paid|paid]] under such a [[s/_system|system]].**
-- **A [[s/_specific|specific]] such [[s/_social|social]] [[b/_benefit|benefit]] [[p/_providing|providing]] [[i/_income|income]] in [[r/_retirement|retirement]] or [[d/_disability|disability]].**
+- **Those [[b/_benefits|benefits]] [[p/_paid|paid]] under [[s/_such|such]] a [[s/_system|system]].**
+- **A [[s/_specific|specific]] [[s/_such|such]] [[s/_social|social]] [[b/_benefit|benefit]] [[p/_providing|providing]] [[i/_income|income]] in [[r/_retirement|retirement]] or [[d/_disability|disability]].**
 ---
 #noun
 - **A [[n/_nine|nine]]-[[d/_digit|digit]] [[n/_number|number]] [[i/_issued|issued]] to [[c/_citizens|citizens]], [[p/_permanent|permanent]] [[r/_residents|residents]], and temporary (working) [[r/_residents|residents]] under [[s/_section|section]] 205([[c/_c|c]])(2) of the [[s/_social|Social]] [[s/_security|Security]] [[a/_act|Act]], [[c/_codified|codified]] as 42 U.[[s/_s|S]].[[c/_c|C]]. § 405([[c/_c|c]])(2). The [[n/_number|number]] is [[i/_issued|issued]] to an [[i/_individual|individual]] by the [[s/_social|Social]] [[s/_security|Security]] [[a/_administration|Administration]]. [[i/_its|Its]] [[p/_primary|primary]] [[p/_purpose|purpose]] is to track [[i/_individuals|individuals]] for taxation [[p/_purposes|purposes]]. [[a/_abbreviated|Abbreviated]] as SSN. In [[r/_recent|recent]] [[y/_years|years]] the SSN [[h/_has|has]] [[b/_become|become]] a [[d/_de|de]] [[f/_facto|facto]] [[n/_national|national]] [[i/_identification|identification]] [[n/_number|number]].**
 - **A [[c/_corresponding|corresponding]] [[n/_number|number]] in [[o/_other|other]] [[c/_countries|countries]].**
 ---
 #noun
-- **The [[s/_study|study]] of [[h/_history|history]], [[g/_geography|geography]], [[c/_civics|civics]], [[s/_sociology|sociology]], [[e/_economics|economics]], and [[o/_other|other]] [[s/_social|social]]-[[s/_science|science]] subjects, [[e/_especially|especially]] in [[p/_primary|primary]] and [[s/_secondary|secondary]] [[s/_school|school]].**
+- **The [[s/_study|study]] of [[h/_history|history]], [[g/_geography|geography]], [[c/_civics|civics]], [[s/_sociology|sociology]], [[e/_economics|economics]], and [[o/_other|other]] [[s/_social|social]]-[[s/_science|science]] [[s/_subjects|subjects]], [[e/_especially|especially]] in [[p/_primary|primary]] and [[s/_secondary|secondary]] [[s/_school|school]].**
 ---
 ---

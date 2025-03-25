@@ -16,7 +16,7 @@
 - **An [[e/_exhibition|exhibition]] of [[p/_passionate|passionate]] or [[s/_strong|strong]] [[f/_feeling|feeling]] [[b/_before|before]] [[o/_others|others]], [[c/_creating|creating]] [[e/_embarrassment|embarrassment]] or [[d/_disruption|disruption]]; [[o/_often|often]], an [[a/_artificial|artificial]] or [[a/_affected|affected]] [[a/_action|action]], or [[c/_course|course]] of [[a/_action|action]], [[d/_done|done]] for [[e/_effect|effect]]; a theatrical [[d/_display|display]]**
 	- _Example: The crazy lady made a scene in the grocery store._
 - **An [[e/_element|element]] of [[f/_fiction|fiction]] writing.**
-- **A [[s/_social|social]] [[e/_environment|environment]] [[c/_consisting|consisting]] of an [[i/_informal|informal]], vague [[g/_group|group]] of [[p/_people|people]] with a uniting [[i/_interest|interest]]; their [[s/_sphere|sphere]] of [[a/_activity|activity]]; a subculture.**
+- **A [[s/_social|social]] [[e/_environment|environment]] [[c/_consisting|consisting]] of an [[i/_informal|informal]], vague [[g/_group|group]] of [[p/_people|people]] with a uniting [[i/_interest|interest]]; their [[s/_sphere|sphere]] of [[a/_activity|activity]]; a [[s/_subculture|subculture]].**
 	- _Example: She got into the emo scene at an early age._
 ---
 ---

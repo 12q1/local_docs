@@ -1,6 +1,6 @@
 # Sharable
 ---
 #adjective
-- **Suitable for [[s/_sharing|sharing]].**
+- **[[s/_suitable|Suitable]] for [[s/_sharing|sharing]].**
 ---
 ---

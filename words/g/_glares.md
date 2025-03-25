@@ -7,6 +7,6 @@
 - **A [[c/_call|call]] [[c/_collision|collision]]; the [[s/_situation|situation]] where an [[i/_incoming|incoming]] [[c/_call|call]] [[o/_occurs|occurs]] at the [[s/_same|same]] time as an [[o/_outgoing|outgoing]] [[c/_call|call]].**
 - **A [[s/_smooth|smooth]], [[b/_bright|bright]], [[g/_glassy|glassy]] surface.**
 	- _Example: a glare of ice_
-- **A viscous, transparent substance; [[g/_glair|glair]].**
+- **A viscous, transparent [[s/_substance|substance]]; [[g/_glair|glair]].**
 ---
 ---

@@ -10,7 +10,7 @@
 - **To throw [[o/_oneself|oneself]] [[o/_off|off]] a [[l/_large|large]] [[j/_jump|jump]] or [[d/_drop|drop]].**
 - **To throw [[o/_one|one]]'[[s/_s|s]] [[b/_body|body]] in the [[a/_air|air]], [[p/_possibly|possibly]] in a way that is ungraceful or [[l/_lacks|lacks]] [[s/_skill|skill]].**
 - **(Ultimate [[f/_frisbee|Frisbee]]) To throw a [[f/_frisbee|frisbee]] a [[l/_long|long]] [[d/_distance|distance]].**
-- **(Ultimate [[f/_frisbee|Frisbee]]) To [[m/_make|make]] a [[l/_long|long]] throw with the [[f/_frisbee|frisbee]]; to [[s/_start|start]] a [[p/_point|point]] by [[m/_making|making]] such a throw.**
+- **(Ultimate [[f/_frisbee|Frisbee]]) To [[m/_make|make]] a [[l/_long|long]] throw with the [[f/_frisbee|frisbee]]; to [[s/_start|start]] a [[p/_point|point]] by [[m/_making|making]] [[s/_such|such]] a throw.**
 - **([[m/_mountain|mountain]] [[b/_biking|biking]]) To [[a/_attempt|attempt]] a [[p/_particularly|particularly]] [[b/_big|big]] [[j/_jump|jump]] or [[d/_drop|drop]], [[o/_often|often]] [[h/_haphazardly|haphazardly]].**
 	- _Example: A longer fork makes the bike more cumbersome, but you will be able to huck more stuff._
 - **([[m/_mountain|mountain]] [[b/_biking|biking]]) To [[m/_make|make]] a [[m/_maneuver|maneuver]] in a [[c/_clumsy|clumsy]] or [[p/_poorly|poorly]] [[p/_planned|planned]] way.**

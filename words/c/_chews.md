@@ -4,7 +4,7 @@
 - **The [[a/_act|act]] of [[c/_chewing|chewing]]; [[m/_mastication|mastication]] with the [[m/_mouth|mouth]].**
 	- _Example: I popped the gum into my mouth and gave it a chew._
 - **[[l/_level|Level]] of chewiness.**
-- **A [[s/_small|small]] sweet, such as a taffy, that is [[e/_eaten|eaten]] by [[c/_chewing|chewing]].**
+- **A [[s/_small|small]] sweet, [[s/_such|such]] as a taffy, that is [[e/_eaten|eaten]] by [[c/_chewing|chewing]].**
 	- _Example: Phillip purchased a bag of licorice chews at the drugstore._
 - **[[c/_chewing|Chewing]] tobacco.**
 	- _Example: The school had banned chew and smokes from the school grounds, even for adults._

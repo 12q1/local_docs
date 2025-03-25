@@ -5,7 +5,7 @@
 ---
 #adjective
 - **(of a [[p/_player|player]]) [[r/_receiving|Receiving]] [[c/_cards|cards]] from the [[d/_dealer|dealer]] [[f/_first|first]], [[b/_before|before]] [[a/_any|any]] [[o/_other|other]] [[p/_players|players]].**
-- **(of a [[h/_hand|hand]]) [[h/_having|Having]] [[h/_higher|higher]], or superior [[c/_cards|cards]].**
+- **(of a [[h/_hand|hand]]) [[h/_having|Having]] [[h/_higher|higher]], or [[s/_superior|superior]] [[c/_cards|cards]].**
 ---
 #adjective
 - **Of an [[o/_object|object]], [[c/_concept|concept]], [[r/_relationship|relationship]], [[e/_etc|etc]]., [[h/_having|having]] [[e/_existed|existed]] for a [[r/_relatively|relatively]] [[l/_long|long]] [[p/_period|period]] of time.**
@@ -17,7 +17,7 @@
 - **([[h/_heading|heading]]) Of an [[e/_earlier|earlier]] time.**
 - **Tiresome [[a/_after|after]] [[p/_prolonged|prolonged]] [[r/_repetition|repetition]].**
 	- _Example: Your constant pestering is getting old._
-- **[[s/_said|Said]] of subdued [[c/_colors|colors]], [[p/_particularly|particularly]] [[r/_reds|reds]], [[p/_pinks|pinks]] and [[o/_oranges|oranges]], as [[i/_if|if]] they [[h/_had|had]] [[f/_faded|faded]] [[o/_over|over]] time.**
+- **[[s/_said|Said]] of [[s/_subdued|subdued]] [[c/_colors|colors]], [[p/_particularly|particularly]] [[r/_reds|reds]], [[p/_pinks|pinks]] and [[o/_oranges|oranges]], as [[i/_if|if]] they [[h/_had|had]] [[f/_faded|faded]] [[o/_over|over]] time.**
 - **A [[g/_grammatical|grammatical]] [[i/_intensifier|intensifier]], [[o/_often|often]] used in [[d/_describing|describing]] [[s/_something|something]] [[p/_positive|positive]]. ([[m/_mostly|Mostly]] in [[i/_idioms|idioms]] [[l/_like|like]] [[g/_good|good]] [[o/_old|old]], [[b/_big|big]] [[o/_old|old]] and [[l/_little|little]] [[o/_old|old]], [[a/_any|any]] [[o/_old|old]] and [[s/_some|some]] [[o/_old|old]].)**
 	- _Example: We're having a good old time. My next car will be a big old SUV.  My wife makes the best little old apple pie in Texas._
 - **[[e/_excessive|Excessive]], [[a/_abundant|abundant]].**

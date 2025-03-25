@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_any|Any]] of various [[p/_plants|plants]] of the [[f/_family|family]] [[c/_cucurbitaceae|Cucurbitaceae]] [[g/_grown|grown]] for [[f/_food|food]], [[g/_generally|generally]] not [[i/_including|including]] the [[c/_cucumber|cucumber]].**
-- **The [[f/_fruit|fruit]] of such [[p/_plants|plants]].**
+- **The [[f/_fruit|fruit]] of [[s/_such|such]] [[p/_plants|plants]].**
 - **A [[l/_light|light]] [[p/_pinkish|pinkish]] [[o/_orange|orange]] [[c/_colour|colour]], [[l/_like|like]] that of [[s/_some|some]] [[m/_melon|melon]] [[f/_flesh|flesh]].**
 - **(usually in the [[p/_plural|plural]]) [[b/_breasts|Breasts]].**
 - **The [[h/_head|head]].**

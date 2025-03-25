@@ -9,7 +9,7 @@
 #verb
 - **To [[l/_land|land]] at a [[h/_harbour|harbour]].**
 - **To [[j/_join|join]] two [[m/_moving|moving]] [[i/_items|items]].**
-- **To [[d/_drag|drag]] a user [[i/_interface|interface]] [[e/_element|element]] (such as a toolbar) to a [[p/_position|position]] on [[s/_screen|screen]] where it [[s/_snaps|snaps]] [[i/_into|into]] [[p/_place|place]].**
+- **To [[d/_drag|drag]] a user [[i/_interface|interface]] [[e/_element|element]] ([[s/_such|such]] as a toolbar) to a [[p/_position|position]] on [[s/_screen|screen]] where it [[s/_snaps|snaps]] [[i/_into|into]] [[p/_place|place]].**
 - **To [[p/_place|place]] (an [[e/_electronic|electronic]] [[d/_device|device]]) in [[i/_its|its]] [[d/_dock|dock]].**
 	- _Example: I docked the laptop and allowed it to recharge for an hour._
 ---

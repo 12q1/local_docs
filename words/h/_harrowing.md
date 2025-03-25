@@ -8,7 +8,7 @@
 #noun
 - **The [[p/_process|process]] of [[b/_breaking|breaking]] up [[e/_earth|earth]] with a [[h/_harrow|harrow]].**
 	- _Example: The field received two harrowings._
-- **Suffering, torment.**
+- **[[s/_suffering|Suffering]], torment.**
 - **[[c/_christ|Christ]]'[[s/_s|s]] triumphal [[d/_descent|descent]] [[i/_into|into]] [[h/_hell|Hell]].**
 ---
 #adjective

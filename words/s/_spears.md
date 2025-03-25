@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_long|long]] [[s/_stick|stick]] with a [[s/_sharp|sharp]] tip used as a weapon for throwing or thrusting, or [[a/_anything|anything]] used to [[m/_make|make]] a thrusting [[m/_motion|motion]].**
-- **A [[s/_soldier|soldier]] [[a/_armed|armed]] with such a weapon; a [[s/_spearman|spearman]].**
+- **A [[s/_soldier|soldier]] [[a/_armed|armed]] with [[s/_such|such]] a weapon; a [[s/_spearman|spearman]].**
 - **A [[l/_lance|lance]] with [[b/_barbed|barbed]] [[p/_prongs|prongs]], used by [[f/_fishermen|fishermen]] to [[r/_retrieve|retrieve]] [[f/_fish|fish]].**
 - **An [[i/_illegal|illegal]] [[m/_maneuver|maneuver]] using the [[e/_end|end]] of a [[h/_hockey|hockey]] [[s/_stick|stick]] to [[s/_strike|strike]] [[i/_into|into]] [[a/_another|another]] [[h/_hockey|hockey]] [[p/_player|player]].**
 - **In [[p/_professional|professional]] wrestling, a [[r/_running|running]] tackle in which the wrestler'[[s/_s|s]] [[s/_shoulder|shoulder]] is [[d/_driven|driven]] [[i/_into|into]] the [[o/_opponent|opponent]]'[[s/_s|s]] [[m/_midsection|midsection]].**

@@ -10,7 +10,7 @@
 - **The [[a/_act|act]] of [[o/_one|one]] who [[s/_stomps|stomps]].**
 ---
 #adjective
-- **In a way that [[s/_stomps|stomps]] or suggests [[s/_stomping|stomping]]; stompy; thumping.**
+- **In a way that [[s/_stomps|stomps]] or [[s/_suggests|suggests]] [[s/_stomping|stomping]]; stompy; thumping.**
 	- _Example: a stomping techno track_
 ---
 ---

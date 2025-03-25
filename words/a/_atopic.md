@@ -1,6 +1,6 @@
 # Atopic
 ---
 #adjective
-- **[[p/_pertaining|Pertaining]] to or suffering from [[a/_atopy|atopy]].**
+- **[[p/_pertaining|Pertaining]] to or [[s/_suffering|suffering]] from [[a/_atopy|atopy]].**
 ---
 ---

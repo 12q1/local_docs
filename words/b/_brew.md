@@ -1,7 +1,7 @@
 # Brew
 ---
 #noun
-- **The [[m/_mixture|mixture]] [[f/_formed|formed]] by [[b/_brewing|brewing]]; that which is [[b/_brewed|brewed]]; a [[b/_brewage|brewage]], such as a [[c/_cup|cup]] of tea or a [[b/_brewed|brewed]] [[b/_beer|beer]].**
+- **The [[m/_mixture|mixture]] [[f/_formed|formed]] by [[b/_brewing|brewing]]; that which is [[b/_brewed|brewed]]; a [[b/_brewage|brewage]], [[s/_such|such]] as a [[c/_cup|cup]] of tea or a [[b/_brewed|brewed]] [[b/_beer|beer]].**
 - **A [[b/_beer|beer]].**
 ---
 #verb

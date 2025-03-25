@@ -6,7 +6,7 @@
 - **([[s/_soap|soap]]-[[m/_making|making]]) To [[d/_develop|develop]], or [[c/_cause|cause]] (a [[s/_soap|soap]]) to [[d/_develop|develop]], white [[s/_streaks|streaks]] or [[g/_granulations|granulations]].**
 ---
 #verb
-- **To [[m/_move|move]] suddenly or [[q/_quickly|quickly]]; [[r/_rove|rove]] [[a/_about|about]].**
+- **To [[m/_move|move]] [[s/_suddenly|suddenly]] or [[q/_quickly|quickly]]; [[r/_rove|rove]] [[a/_about|about]].**
 ---
 #verb
 - **To [[d/_dress|dress]]; to [[g/_get|get]] [[o/_oneself|oneself]] up a [[c/_certain|certain]] way.**

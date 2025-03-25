@@ -28,7 +28,7 @@
 - **A variety of the [[c/_common|common]] [[d/_domestic|domestic]] [[p/_pigeon|pigeon]], [[s/_so|so]] [[c/_called|called]] from a [[s/_spot|spot]] on [[i/_its|its]] [[h/_head|head]] [[j/_just|just]] [[a/_above|above]] the [[b/_beak|beak]].**
 - **A [[f/_food|food]] [[f/_fish|fish]] (Leiostomus xanthurus) of the [[a/_atlantic|Atlantic]] [[c/_coast|coast]] of the United [[s/_states|States]], with a [[b/_black|black]] [[s/_spot|spot]] [[b/_behind|behind]] the [[s/_shoulders|shoulders]] and [[f/_fifteen|fifteen]] [[o/_oblique|oblique]] [[d/_dark|dark]] [[b/_bars|bars]] on the [[s/_sides|sides]].**
 - **The [[s/_southern|southern]] [[r/_redfish|redfish]], or [[r/_red|red]] [[h/_horse|horse]] (Sciaenops ocellatus), which [[h/_has|has]] a [[s/_spot|spot]] on [[e/_each|each]] [[s/_side|side]] at the [[b/_base|base]] of the tail.**
-- **(in the [[p/_plural|plural]], [[b/_brokers|brokers]]' [[s/_slang|slang]]) [[c/_commodities|Commodities]], such as [[m/_merchandise|merchandise]] and [[c/_cotton|cotton]], [[s/_sold|sold]] for [[i/_immediate|immediate]] [[d/_delivery|delivery]].**
+- **(in the [[p/_plural|plural]], [[b/_brokers|brokers]]' [[s/_slang|slang]]) [[c/_commodities|Commodities]], [[s/_such|such]] as [[m/_merchandise|merchandise]] and [[c/_cotton|cotton]], [[s/_sold|sold]] for [[i/_immediate|immediate]] [[d/_delivery|delivery]].**
 - **An autosoliton.**
 - **A [[d/_decimal|decimal]] [[p/_point|point]]; [[p/_point|point]].**
 	- _Example: Twelve spot two five pounds sterling. (ie. £12.25)_

@@ -8,7 +8,7 @@
 ---
 #noun
 - **A [[m/_machine|machine]] ([[r/_rather|rather]] [[l/_like|like]] a [[r/_rotating|rotating]] [[p/_pestle|pestle]] and [[m/_mortar|mortar]]) used to [[r/_refine|refine]] the [[f/_flavour|flavour]] and texture of [[c/_chocolate|chocolate]] by warming and [[g/_grinding|grinding]].**
-- **A [[p/_person|person]] who [[o/_operates|operates]] such a [[m/_machine|machine]].**
+- **A [[p/_person|person]] who [[o/_operates|operates]] [[s/_such|such]] a [[m/_machine|machine]].**
 ---
 ### Synonyms
 - [[c/_conch|conch]], [[c/_conche|conche]]

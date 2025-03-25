@@ -1,7 +1,7 @@
 # Desiccate
 ---
 #noun
-- **A substance which [[h/_has|has]] [[b/_been|been]] dessicated, that is, [[h/_had|had]] [[i/_its|its]] [[m/_moisture|moisture]] [[r/_removed|removed]].**
+- **A [[s/_substance|substance]] which [[h/_has|has]] [[b/_been|been]] dessicated, that is, [[h/_had|had]] [[i/_its|its]] [[m/_moisture|moisture]] [[r/_removed|removed]].**
 ---
 #verb
 - **To [[r/_remove|remove]] [[m/_moisture|moisture]] from; to [[d/_dry|dry]].**

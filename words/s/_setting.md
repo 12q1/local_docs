@@ -70,7 +70,7 @@
 - **To value; to [[r/_rate|rate]]; used with at.**
 - **To [[e/_establish|establish]] as a [[r/_rule|rule]]; to [[f/_furnish|furnish]]; to [[p/_prescribe|prescribe]]; to [[a/_assign|assign]].**
 	- _Example: to set a good example_
-- **To suit; to [[b/_become|become]].**
+- **To [[s/_suit|suit]]; to [[b/_become|become]].**
 	- _Example: It sets him ill._
 ---
 ### Synonyms
@@ -78,10 +78,10 @@
 ### Antonyms
 - [[e/_extinguish|extinguish]], [[q/_quench|quench]]
 #verb
-- **To [[d/_divide|divide]] a [[c/_class|class]] [[g/_group|group]] in a subject [[a/_according|according]] to [[a/_ability|ability]]**
+- **To [[d/_divide|divide]] a [[c/_class|class]] [[g/_group|group]] in a [[s/_subject|subject]] [[a/_according|according]] to [[a/_ability|ability]]**
 ---
 #noun
-- **The time, [[p/_place|place]] and [[c/_circumstance|circumstance]] in which [[s/_something|something]] (such as a [[s/_story|story]] or [[p/_picture|picture]]) is [[s/_set|set]]; [[c/_context|context]]; [[s/_scenario|scenario]].**
+- **The time, [[p/_place|place]] and [[c/_circumstance|circumstance]] in which [[s/_something|something]] ([[s/_such|such]] as a [[s/_story|story]] or [[p/_picture|picture]]) is [[s/_set|set]]; [[c/_context|context]]; [[s/_scenario|scenario]].**
 - **The [[a/_act|act]] of [[s/_setting|setting]].**
 	- _Example: the setting of the sun_
 - **A [[p/_piece|piece]] of [[m/_metal|metal]] in which a [[p/_precious|precious]] [[s/_stone|stone]] or [[g/_gem|gem]] is [[f/_fixed|fixed]] to [[f/_form|form]] a [[p/_piece|piece]] of [[j/_jewelry|jewelry]].**

@@ -61,7 +61,7 @@
 #noun
 - **(usually [[p/_pluralized|pluralized]]) A [[p/_pattern|pattern]] [[m/_made|made]] up of a [[g/_grid|grid]] of [[s/_squares|squares]] of [[a/_alternating|alternating]] [[c/_colors|colors]]; a [[c/_checkered|checkered]] [[p/_pattern|pattern]].**
 	- _Example: The tablecloth had red and white checks._
-- **[[a/_any|Any]] [[f/_fabric|fabric]] woven with such a [[p/_pattern|pattern]].**
+- **[[a/_any|Any]] [[f/_fabric|fabric]] woven with [[s/_such|such]] a [[p/_pattern|pattern]].**
 ---
 #verb
 - **To [[m/_mark|mark]] with a [[c/_check|check]] [[p/_pattern|pattern]].**

@@ -21,6 +21,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] [[b/_been|been]] [[p/_placed|placed]] in a [[b/_bag|bag]].**
-- **[[h/_having|Having]] [[b/_been|been]] [[c/_caught|caught]] or successfully [[h/_hunted|hunted]].**
+- **[[h/_having|Having]] [[b/_been|been]] [[c/_caught|caught]] or [[s/_successfully|successfully]] [[h/_hunted|hunted]].**
 ---
 ---

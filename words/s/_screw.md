@@ -25,7 +25,7 @@
 - **To [[c/_contort|contort]].**
 - **To miskick (a [[b/_ball|ball]]) by [[h/_hitting|hitting]] it with the wrong [[p/_part|part]] of the [[f/_foot|foot]].**
 - **To [[s/_screw|screw]] [[b/_back|back]].**
-- **To [[e/_examine|examine]] (a [[s/_student|student]]) [[r/_rigidly|rigidly]]; to subject to a [[s/_severe|severe]] [[e/_examination|examination]].**
+- **To [[e/_examine|examine]] (a [[s/_student|student]]) [[r/_rigidly|rigidly]]; to [[s/_subject|subject]] to a [[s/_severe|severe]] [[e/_examination|examination]].**
 ---
 ### Synonyms
 - [[f/_fuck|fuck]], [[t/_twist|twist]], [[w/_writhe|writhe]], [[f/_fuck|fuck]], [[r/_root|root]], [[s/_shag|shag]], [[e/_extort|extort]]

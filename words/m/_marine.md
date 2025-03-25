@@ -5,7 +5,7 @@
 	- _Example: He was a marine in World War II._
 - **[[c/_capitalised|Capitalised]] in the [[p/_plural|plural]] A [[m/_marine|marine]] [[c/_corps|corps]].**
 	- _Example: He fought with the Marines in World War II._
-- **A [[p/_painting|painting]] [[r/_representing|representing]] [[s/_some|some]] [[m/_marine|marine]] subject.**
+- **A [[p/_painting|painting]] [[r/_representing|representing]] [[s/_some|some]] [[m/_marine|marine]] [[s/_subject|subject]].**
 ---
 ### Synonyms
 - [[j/_jarhead|jarhead]], [[l/_leatherneck|leatherneck]]

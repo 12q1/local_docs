@@ -1,7 +1,7 @@
 # Mite
 ---
 #noun
-- **[[a/_any|Any]] of [[m/_many|many]] [[m/_minute|minute]] [[a/_arachnids|arachnids]] which, [[a/_along|along]] with the ticks, [[c/_comprise|comprise]] subclass [[a/_acarina|Acarina]] ([[a/_aka|aka]] [[a/_acari|Acari]]).**
+- **[[a/_any|Any]] of [[m/_many|many]] [[m/_minute|minute]] [[a/_arachnids|arachnids]] which, [[a/_along|along]] with the ticks, [[c/_comprise|comprise]] [[s/_subclass|subclass]] [[a/_acarina|Acarina]] ([[a/_aka|aka]] [[a/_acari|Acari]]).**
 - **A [[s/_small|small]] [[c/_coin|coin]] [[f/_formerly|formerly]] [[c/_circulated|circulated]] in [[e/_england|England]], [[r/_rated|rated]] at [[a/_about|about]] a third of a [[f/_farthing|farthing]].**
 - **A [[l/_lepton|lepton]], a [[s/_small|small]] [[c/_coin|coin]] used in [[p/_palestine|Palestine]] in the time of [[c/_christ|Christ]].**
 - **A [[s/_small|small]] weight; [[o/_one|one]] twentieth of a [[g/_grain|grain]].**

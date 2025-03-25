@@ -18,18 +18,18 @@
 - **To [[h/_hold|hold]] up to [[p/_public|public]] [[b/_blame|blame]] or [[r/_reproach|reproach]]; to [[a/_advertise|advertise]] [[o/_opprobriously|opprobriously]]; to [[d/_denounce|denounce]] by [[p/_public|public]] [[p/_proclamation|proclamation]].**
 	- _Example: to post someone for cowardice_
 - **To [[c/_carry|carry]] (an [[a/_account|account]]) from the [[j/_journal|journal]] to the [[l/_ledger|ledger]].**
-- **To [[i/_inform|inform]]; to [[g/_give|give]] the [[n/_news|news]] to; to [[m/_make|make]] [[a/_acquainted|acquainted]] with the [[d/_details|details]] of a subject; [[o/_often|often]] with up.**
+- **To [[i/_inform|inform]]; to [[g/_give|give]] the [[n/_news|news]] to; to [[m/_make|make]] [[a/_acquainted|acquainted]] with the [[d/_details|details]] of a [[s/_subject|subject]]; [[o/_often|often]] with up.**
 - **To [[p/_pay|pay]] (a [[b/_blind|blind]]).**
 	- _Example: Since Jim was new to the game, he had to post $4 in order to receive a hand._
-- **To [[p/_put|put]] [[c/_content|content]] [[o/_online|online]], usually through a [[p/_publicly|publicly]] [[a/_accessible|accessible]] [[m/_mean|mean]], such as a video [[c/_channel|channel]], [[g/_gallery|gallery]], [[m/_message|message]] [[b/_board|board]], blog [[e/_etc|etc]].**
+- **To [[p/_put|put]] [[c/_content|content]] [[o/_online|online]], usually through a [[p/_publicly|publicly]] [[a/_accessible|accessible]] [[m/_mean|mean]], [[s/_such|such]] as a video [[c/_channel|channel]], [[g/_gallery|gallery]], [[m/_message|message]] [[b/_board|board]], blog [[e/_etc|etc]].**
 ---
 #noun
 - **[[e/_each|Each]] of a [[s/_series|series]] of [[m/_men|men]] [[s/_stationed|stationed]] at [[s/_specific|specific]] [[p/_places|places]] [[a/_along|along]] a postroad, with [[r/_responsibility|responsibility]] for [[r/_relaying|relaying]] [[l/_letters|letters]] and [[d/_dispatches|dispatches]] of the [[m/_monarch|monarch]] (and [[l/_later|later]] [[o/_others|others]]) [[a/_along|along]] the [[r/_route|route]].**
 - **A [[s/_station|station]], or [[o/_one|one]] of a [[s/_series|series]] of [[s/_stations|stations]], [[e/_established|established]] for the [[r/_refreshment|refreshment]] and [[a/_accommodation|accommodation]] of travellers on [[s/_some|some]] [[r/_recognized|recognized]] [[r/_route|route]].**
 	- _Example: a stage or railway post_
-- **A [[m/_military|military]] [[b/_base|base]]; the [[p/_place|place]] at which a [[s/_soldier|soldier]] or a [[b/_body|body]] of troops is [[s/_stationed|stationed]]; [[a/_also|also]], the troops at such a [[s/_station|station]].**
+- **A [[m/_military|military]] [[b/_base|base]]; the [[p/_place|place]] at which a [[s/_soldier|soldier]] or a [[b/_body|body]] of troops is [[s/_stationed|stationed]]; [[a/_also|also]], the troops at [[s/_such|such]] a [[s/_station|station]].**
 - **[[s/_someone|Someone]] who travels [[e/_express|express]] [[a/_along|along]] a [[s/_set|set]] [[r/_route|route]] [[c/_carrying|carrying]] [[l/_letters|letters]] and [[d/_dispatches|dispatches]]; a [[c/_courier|courier]].**
-- **An [[o/_organisation|organisation]] for [[d/_delivering|delivering]] [[l/_letters|letters]], [[p/_parcels|parcels]] [[e/_etc|etc]]., or the [[s/_service|service]] [[p/_provided|provided]] by such an [[o/_organisation|organisation]].**
+- **An [[o/_organisation|organisation]] for [[d/_delivering|delivering]] [[l/_letters|letters]], [[p/_parcels|parcels]] [[e/_etc|etc]]., or the [[s/_service|service]] [[p/_provided|provided]] by [[s/_such|such]] an [[o/_organisation|organisation]].**
 	- _Example: sent via post; parcel post_
 - **A [[s/_single|single]] [[d/_delivery|delivery]] of [[l/_letters|letters]]; the [[l/_letters|letters]] or [[d/_deliveries|deliveries]] that [[m/_make|make]] up a [[s/_single|single]] [[b/_batch|batch]] [[d/_delivered|delivered]] to [[o/_one|one]] [[p/_person|person]] or [[o/_one|one]] [[a/_address|address]].**
 - **A [[m/_message|message]] [[p/_posted|posted]] in an [[e/_electronic|electronic]] or [[i/_internet|Internet]] [[f/_forum|forum]], or on a blog, [[e/_etc|etc]].**

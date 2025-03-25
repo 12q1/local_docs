@@ -1,7 +1,7 @@
 # Sobs
 ---
 #noun
-- **A [[c/_cry|cry]] with a [[s/_short|short]], sudden [[e/_expulsion|expulsion]] of [[b/_breath|breath]].**
+- **A [[c/_cry|cry]] with a [[s/_short|short]], [[s/_sudden|sudden]] [[e/_expulsion|expulsion]] of [[b/_breath|breath]].**
 - **[[s/_sound|Sound]] of [[s/_sob|sob]]**
 ---
 #verb

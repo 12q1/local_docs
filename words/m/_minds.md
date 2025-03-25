@@ -17,7 +17,7 @@
 	- _Example: I am of a mind to listen._
 - **A [[h/_healthy|healthy]] [[m/_mental|mental]] [[s/_state|state]].**
 	- _Example: I, ______ being of sound mind and body, do hereby [...]_
-- **The [[n/_non|non]]-[[m/_material|material]] substance or [[s/_set|set]] of [[p/_processes|processes]] in which [[c/_consciousness|consciousness]], [[p/_perception|perception]], [[a/_affectivity|affectivity]], [[j/_judgement|judgement]], thinking, and will are [[b/_based|based]].**
+- **The [[n/_non|non]]-[[m/_material|material]] [[s/_substance|substance]] or [[s/_set|set]] of [[p/_processes|processes]] in which [[c/_consciousness|consciousness]], [[p/_perception|perception]], [[a/_affectivity|affectivity]], [[j/_judgement|judgement]], thinking, and will are [[b/_based|based]].**
 	- _Example: The mind is a process of the brain._
 - **[[c/_continual|Continual]] [[p/_prayer|prayer]] on a [[d/_dead|dead]] [[p/_person|person]]'[[s/_s|s]] [[b/_behalf|behalf]] for a [[p/_period|period]] [[a/_after|after]] their [[d/_death|death]].**
 	- _Example: a month's [or monthly] mind; a year's mind_

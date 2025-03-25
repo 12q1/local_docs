@@ -1,7 +1,7 @@
 # Ablaut
 ---
 #noun
-- **The substitution of [[o/_one|one]] [[r/_root|root]] vowel for [[a/_another|another]], thus [[i/_indicating|indicating]] a [[c/_corresponding|corresponding]] [[m/_modification|modification]] of use or [[m/_meaning|meaning]]; vowel [[p/_permutation|permutation]]; as, [[g/_get|get]] and [[g/_got|got]]; [[s/_sing|sing]] and [[s/_song|song]]; [[h/_hang|hang]] and [[h/_hung|hung]], [[d/_distinct|distinct]] from the [[p/_phonetic|phonetic]] [[i/_influence|influence]] of a succeeding vowel.**
+- **The [[s/_substitution|substitution]] of [[o/_one|one]] [[r/_root|root]] vowel for [[a/_another|another]], thus [[i/_indicating|indicating]] a [[c/_corresponding|corresponding]] [[m/_modification|modification]] of use or [[m/_meaning|meaning]]; vowel [[p/_permutation|permutation]]; as, [[g/_get|get]] and [[g/_got|got]]; [[s/_sing|sing]] and [[s/_song|song]]; [[h/_hang|hang]] and [[h/_hung|hung]], [[d/_distinct|distinct]] from the [[p/_phonetic|phonetic]] [[i/_influence|influence]] of a [[s/_succeeding|succeeding]] vowel.**
 ---
 ### Synonyms
 - [[a/_alternation|alternation]], [[a/_apophony|apophony]], [[g/_gradation|gradation]]

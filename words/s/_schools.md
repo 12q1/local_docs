@@ -1,7 +1,7 @@
 # Schools
 ---
 #noun
-- **([[c/_collective|collective]]) A [[g/_group|group]] of [[f/_fish|fish]] or a [[g/_group|group]] of [[m/_marine|marine]] [[m/_mammals|mammals]] such as [[p/_porpoises|porpoises]], [[d/_dolphins|dolphins]], or whales.**
+- **([[c/_collective|collective]]) A [[g/_group|group]] of [[f/_fish|fish]] or a [[g/_group|group]] of [[m/_marine|marine]] [[m/_mammals|mammals]] [[s/_such|such]] as [[p/_porpoises|porpoises]], [[d/_dolphins|dolphins]], or whales.**
 	- _Example: The divers encountered a huge school of mackerel._
 - **A [[m/_multitude|multitude]].**
 ---
@@ -16,7 +16,7 @@
 - **An [[e/_educational|educational]] [[i/_institution|institution]] [[p/_providing|providing]] [[p/_primary|primary]] and [[s/_secondary|secondary]] [[e/_education|education]], [[p/_prior|prior]] to tertiary [[e/_education|education]] ([[c/_college|college]] or university).**
 - **At [[e/_eton|Eton]] [[c/_college|College]], a [[p/_period|period]] or [[s/_session|session]] of teaching.**
 	- _Example: Divinity, history and geography are studied for two schools per week._
-- **Within a [[l/_larger|larger]] [[e/_educational|educational]] [[i/_institution|institution]], an [[o/_organizational|organizational]] unit, such as a [[d/_department|department]] or [[i/_institute|institute]], which is [[d/_dedicated|dedicated]] to a [[s/_specific|specific]] subject [[a/_area|area]].**
+- **Within a [[l/_larger|larger]] [[e/_educational|educational]] [[i/_institution|institution]], an [[o/_organizational|organizational]] unit, [[s/_such|such]] as a [[d/_department|department]] or [[i/_institute|institute]], which is [[d/_dedicated|dedicated]] to a [[s/_specific|specific]] [[s/_subject|subject]] [[a/_area|area]].**
 	- _Example: We are enrolled in the same university, but I attend the School of Economics and my brother is in the School of Music._
 - **An [[a/_art|art]] [[m/_movement|movement]], a [[c/_community|community]] of [[a/_artists|artists]].**
 	- _Example: The Barbizon school of painters were part of an art movement towards Realism in art, which arose in the context of the dominant Romantic Movement of the time._

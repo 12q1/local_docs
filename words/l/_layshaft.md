@@ -1,6 +1,6 @@
 # Layshaft
 ---
 #noun
-- **A subsidiary transmission [[s/_shaft|shaft]].**
+- **A [[s/_subsidiary|subsidiary]] transmission [[s/_shaft|shaft]].**
 ---
 ---

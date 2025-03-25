@@ -10,10 +10,10 @@
 	- _Example: I am open to new ideas._
 - **[[p/_public|Public]]**
 	- _Example: He published an open letter to the governor on a full page of the New York Times._
-- **[[c/_candid|Candid]], [[i/_ingenuous|ingenuous]], not subtle in [[c/_character|character]].**
+- **[[c/_candid|Candid]], [[i/_ingenuous|ingenuous]], not [[s/_subtle|subtle]] in [[c/_character|character]].**
 	- _Example: The man is an open book._
 - **(of a [[f/_formula|formula]]) [[h/_having|Having]] a [[f/_free|free]] variable.**
-- **(of a [[s/_set|set]]) Which is [[p/_part|part]] of a [[p/_predefined|predefined]] [[c/_collection|collection]] of subsets of X, that [[d/_defines|defines]] a topological [[s/_space|space]] on X.**
+- **(of a [[s/_set|set]]) Which is [[p/_part|part]] of a [[p/_predefined|predefined]] [[c/_collection|collection]] of [[s/_subsets|subsets]] of X, that [[d/_defines|defines]] a topological [[s/_space|space]] on X.**
 - **(of a walk) Whose [[f/_first|first]] and [[l/_last|last]] vertices are [[d/_different|different]].**
 - **(of a [[f/_file|file]], [[d/_document|document]], [[e/_etc|etc]].) In [[c/_current|current]] use; [[m/_mapped|mapped]] to [[p/_part|part]] of [[m/_memory|memory]].**
 	- _Example: I couldn't save my changes because another user had the same file open._

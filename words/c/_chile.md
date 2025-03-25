@@ -8,7 +8,7 @@
 ### Synonyms
 - 
 #noun
-- **A [[d/_dish|dish]] [[m/_made|made]] with [[c/_chili|chili]] [[p/_peppers|peppers]] and [[o/_other|other]] [[i/_ingredients|ingredients]], such as [[b/_beans|beans]] and [[b/_beef|beef]].**
+- **A [[d/_dish|dish]] [[m/_made|made]] with [[c/_chili|chili]] [[p/_peppers|peppers]] and [[o/_other|other]] [[i/_ingredients|ingredients]], [[s/_such|such]] as [[b/_beans|beans]] and [[b/_beef|beef]].**
 - **([[c/_cincinnati|Cincinnati]]) [[c/_cincinnati|Cincinnati]] [[c/_chili|chili]].**
 ---
 ### Synonyms

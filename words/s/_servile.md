@@ -8,7 +8,7 @@
 - [[r/_radical|radical]]
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to a [[s/_slave|slave]].**
-- **Submissive or [[s/_slavish|slavish]].**
+- **[[s/_submissive|Submissive]] or [[s/_slavish|slavish]].**
 	- _Example: servile flattery; servile obedience_
 - **([[g/_grammar|grammar]]) Not [[b/_belonging|belonging]] to the [[o/_original|original]] [[r/_root|root]].**
 	- _Example: a servile letter_

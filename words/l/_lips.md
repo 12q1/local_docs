@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[e/_either|Either]] of the two [[f/_fleshy|fleshy]] [[p/_protrusions|protrusions]] [[a/_around|around]] the [[o/_opening|opening]] of the [[m/_mouth|mouth]].**
-- **A [[p/_part|part]] of the [[b/_body|body]] that [[r/_resembles|resembles]] a [[l/_lip|lip]], such as the [[e/_edge|edge]] of a wound or the [[l/_labia|labia]].**
+- **A [[p/_part|part]] of the [[b/_body|body]] that [[r/_resembles|resembles]] a [[l/_lip|lip]], [[s/_such|such]] as the [[e/_edge|edge]] of a wound or the [[l/_labia|labia]].**
 - **(by [[e/_extension|extension]]) The [[p/_projecting|projecting]] [[r/_rim|rim]] of an [[o/_open|open]] [[c/_container|container]]; a [[s/_short|short]] [[o/_open|open]] [[s/_spout|spout]].**
 - **[[b/_backtalk|Backtalk]]; verbal [[i/_impertinence|impertinence]].**
 	- _Example: Don’t give me any lip!_

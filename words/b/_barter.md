@@ -3,7 +3,7 @@
 #noun
 - **An [[e/_exchange|exchange]] of [[g/_goods|goods]] or [[s/_services|services]] without the use of [[m/_money|money]].**
 	- _Example: We had no money so we had to live by barter._
-- **The [[g/_goods|goods]] or [[s/_services|services]] used in such an [[e/_exchange|exchange]].**
+- **The [[g/_goods|goods]] or [[s/_services|services]] used in [[s/_such|such]] an [[e/_exchange|exchange]].**
 	- _Example: The man used his watch as barter to pay for his tab._
 ---
 ### Synonyms

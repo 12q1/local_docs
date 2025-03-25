@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_pair|pair]] of [[b/_binoculars|binoculars]].**
-- **[[a/_any|Any]] [[b/_binocular|binocular]] [[g/_glass|glass]], such as an [[o/_opera|opera]] [[g/_glass|glass]], telescope, or [[m/_microscope|microscope]].**
+- **[[a/_any|Any]] [[b/_binocular|binocular]] [[g/_glass|glass]], [[s/_such|such]] as an [[o/_opera|opera]] [[g/_glass|glass]], telescope, or [[m/_microscope|microscope]].**
 ---
 #adjective
 - **Using two [[e/_eyes|eyes]] or viewpoints; [[e/_especially|especially]], using two [[e/_eyes|eyes]] or viewpoints to [[a/_ascertain|ascertain]] [[d/_distance|distance]].**

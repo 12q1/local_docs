@@ -8,7 +8,7 @@
 	- _Example: Ann gossiped about me and mocked my work; sometimes she can be a real bitch!_
 - **A woman.**
 - **A [[m/_man|man]] [[c/_considered|considered]] weak, [[e/_effeminate|effeminate]], timid or [[p/_pathetic|pathetic]] in [[s/_some|some]] way**
-- **A submissive [[p/_person|person]] who [[d/_does|does]] what [[o/_others|others]] want; a [[m/_man|man]] [[f/_forced|forced]] or [[c/_coerced|coerced]] [[i/_into|into]] a [[h/_homoerotic|homoerotic]] [[r/_relationship|relationship]].**
+- **A [[s/_submissive|submissive]] [[p/_person|person]] who [[d/_does|does]] what [[o/_others|others]] want; a [[m/_man|man]] [[f/_forced|forced]] or [[c/_coerced|coerced]] [[i/_into|into]] a [[h/_homoerotic|homoerotic]] [[r/_relationship|relationship]].**
 	- _Example: Dude, don't be such a bitch. Assert yourself._
 - **(of a [[m/_man|man]]) A [[p/_playful|playful]] variation on [[d/_dog|dog]] ([[s/_sense|sense]] "[[m/_man|man]]").**
 - **(used with a [[p/_possessive|possessive]] [[p/_pronoun|pronoun]]) [[f/_friend|Friend]].**

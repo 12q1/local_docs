@@ -7,6 +7,6 @@
 #adjective
 - **[[h/_having|Having]] [[o/_one|one]] [[e/_eye|eye]].**
 - **[[r/_related|Related]] to a [[m/_monocle|monocle]].**
-- **Of [[a/_any|any]] [[o/_optical|optical]] [[s/_system|system]] suitable for use by [[o/_one|one]] [[e/_eye|eye]] at a time.**
+- **Of [[a/_any|any]] [[o/_optical|optical]] [[s/_system|system]] [[s/_suitable|suitable]] for use by [[o/_one|one]] [[e/_eye|eye]] at a time.**
 ---
 ---

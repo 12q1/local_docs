@@ -1,6 +1,6 @@
 # Resubscribing
 ---
 #verb
-- **To subscribe [[a/_again|again]] or [[r/_renew|renew]] a subscription.**
+- **To [[s/_subscribe|subscribe]] [[a/_again|again]] or [[r/_renew|renew]] a [[s/_subscription|subscription]].**
 ---
 ---

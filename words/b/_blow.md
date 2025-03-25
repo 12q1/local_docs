@@ -31,18 +31,18 @@
 	- _Example: Get away from that burning gas tank! It's about to blow!_
 - **(with "up" or with [[p/_prep|prep]] [[p/_phrase|phrase]] [[h/_headed|headed]] by "to") To [[c/_cause|cause]] to [[e/_explode|explode]], [[s/_shatter|shatter]], or be utterly [[d/_destroyed|destroyed]].**
 	- _Example: The aerosol can was blown to bits._
-- **To [[c/_cause|cause]] sudden [[d/_destruction|destruction]] of.**
+- **To [[c/_cause|cause]] [[s/_sudden|sudden]] [[d/_destruction|destruction]] of.**
 	- _Example: He blew the tires and the engine._
-- **To suddenly [[f/_fail|fail]] [[d/_destructively|destructively]].**
+- **To [[s/_suddenly|suddenly]] [[f/_fail|fail]] [[d/_destructively|destructively]].**
 	- _Example: He tried to sprint, but his ligaments blew and he was barely able to walk to the finish line._
 - **(used to [[e/_express|express]] [[d/_displeasure|displeasure]] or [[f/_frustration|frustration]]) [[d/_damn|Damn]].**
-- **To be very undesirable. ([[s/_see|See]] [[a/_also|also]] suck.)**
+- **To be very undesirable. ([[s/_see|See]] [[a/_also|also]] [[s/_suck|suck]].)**
 	- _Example: This blows!_
 - **To [[r/_recklessly|recklessly]] [[s/_squander|squander]].**
 	- _Example: I blew $35 thou on a car._
 - **To [[f/_fellate|fellate]]; to [[p/_perform|perform]] [[o/_oral|oral]] [[s/_sex|sex]] on (usually a [[m/_man|man]])**
 	- _Example: Who did you have to blow to get those backstage passes?_
-- **To [[l/_leave|leave]], [[e/_especially|especially]] suddenly or in a [[h/_hurry|hurry]].**
+- **To [[l/_leave|leave]], [[e/_especially|especially]] [[s/_suddenly|suddenly]] or in a [[h/_hurry|hurry]].**
 	- _Example: Let's blow this joint._
 - **To [[m/_make|make]] [[f/_flyblown|flyblown]], to [[d/_defile|defile]], [[e/_especially|especially]] with [[f/_fly|fly]] [[e/_eggs|eggs]].**
 - **To [[s/_spread|spread]] by [[r/_report|report]]; to [[p/_publish|publish]]; to [[d/_disclose|disclose]].**

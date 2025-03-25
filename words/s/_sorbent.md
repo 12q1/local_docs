@@ -1,6 +1,6 @@
 # Sorbent
 ---
 #noun
-- **A substance that [[c/_can|can]] [[e/_enable|enable]] [[s/_sorption|sorption]].**
+- **A [[s/_substance|substance]] that [[c/_can|can]] [[e/_enable|enable]] [[s/_sorption|sorption]].**
 ---
 ---

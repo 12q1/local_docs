@@ -10,6 +10,6 @@
 #noun
 - **[[o/_one|One]] who [[s/_speculates|speculates]]; an [[o/_observer|observer]]; a [[c/_contemplator|contemplator]].**
 - **[[o/_one|One]] who [[f/_forms|forms]] theories; a theorist.**
-- **[[o/_one|One]] who [[s/_speculates|speculates]]; as in [[i/_investing|investing]], [[o/_one|one]] who is willing to take volatile [[r/_risks|risks]] upon [[i/_invested|invested]] [[p/_principal|principal]] for the [[p/_potential|potential]] of substantial [[r/_returns|returns]].**
+- **[[o/_one|One]] who [[s/_speculates|speculates]]; as in [[i/_investing|investing]], [[o/_one|one]] who is willing to take volatile [[r/_risks|risks]] upon [[i/_invested|invested]] [[p/_principal|principal]] for the [[p/_potential|potential]] of [[s/_substantial|substantial]] [[r/_returns|returns]].**
 ---
 ---

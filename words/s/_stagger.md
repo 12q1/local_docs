@@ -3,7 +3,7 @@
 #noun
 - **An unsteady [[m/_movement|movement]] of the [[b/_body|body]] in walking or [[s/_standing|standing]] as [[i/_if|if]] [[o/_one|one]] were [[a/_about|about]] to [[f/_fall|fall]]; a [[r/_reeling|reeling]] [[m/_motion|motion]]**
 	- _Example: the stagger of a drunken man_
-- **A [[d/_disease|disease]] of [[h/_horses|horses]] and [[o/_other|other]] [[a/_animals|animals]], [[a/_attended|attended]] by [[r/_reeling|reeling]], unsteady [[g/_gait|gait]] or sudden [[f/_falling|falling]]**
+- **A [[d/_disease|disease]] of [[h/_horses|horses]] and [[o/_other|other]] [[a/_animals|animals]], [[a/_attended|attended]] by [[r/_reeling|reeling]], unsteady [[g/_gait|gait]] or [[s/_sudden|sudden]] [[f/_falling|falling]]**
 	- _Example: apoplectic or sleepy staggers_
 - **[[b/_bewilderment|Bewilderment]]; [[p/_perplexity|perplexity]].**
 - **The [[s/_spacing|spacing]] [[o/_out|out]] of various [[a/_actions|actions]] [[o/_over|over]] time.**

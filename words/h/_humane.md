@@ -8,7 +8,7 @@
 ### Synonyms
 - [[m/_mannish|mannish]], [[m/_mennish|mennish]]
 #adjective
-- **[[h/_having|Having]] or [[s/_showing|showing]] [[c/_concern|concern]] for the [[p/_pain|pain]] or suffering of [[a/_another|another]]; [[c/_compassionate|compassionate]].**
+- **[[h/_having|Having]] or [[s/_showing|showing]] [[c/_concern|concern]] for the [[p/_pain|pain]] or [[s/_suffering|suffering]] of [[a/_another|another]]; [[c/_compassionate|compassionate]].**
 	- _Example: As methods of execution go, beheading is more humane than drawing and quartering._
 - **[[p/_pertaining|Pertaining]] to [[b/_branches|branches]] of [[l/_learning|learning]] [[c/_concerned|concerned]] with [[h/_human|human]] [[a/_affairs|affairs]] or the [[h/_humanities|humanities]], [[e/_especially|especially]] [[c/_classical|classical]] [[l/_literature|literature]] or [[r/_rhetoric|rhetoric]].**
 ---

@@ -11,7 +11,7 @@
 - **In [[s/_special|special]] [[e/_effects|effects]], a [[s/_small|small]] [[e/_explosive|explosive]] used to [[r/_replicate|replicate]] a [[b/_bullet|bullet]] [[h/_hitting|hitting]] a surface.**
 - **A [[s/_short|short]] [[p/_piece|piece]] of witty writing; a [[l/_lampoon|lampoon]].**
 - **A writer of [[l/_lampoons|lampoons]].**
-- **In a [[l/_legal|legal]] [[c/_casebook|casebook]], a [[s/_short|short]] summary of a [[l/_legal|legal]] [[a/_action|action]] [[p/_placed|placed]] [[b/_between|between]] [[m/_more|more]] [[e/_extensively|extensively]] [[q/_quoted|quoted]] [[c/_cases|cases]].**
+- **In a [[l/_legal|legal]] [[c/_casebook|casebook]], a [[s/_short|short]] [[s/_summary|summary]] of a [[l/_legal|legal]] [[a/_action|action]] [[p/_placed|placed]] [[b/_between|between]] [[m/_more|more]] [[e/_extensively|extensively]] [[q/_quoted|quoted]] [[c/_cases|cases]].**
 - **A [[s/_short|short]] [[a/_article|article]], [[o/_often|often]] [[p/_published|published]] in [[j/_journals|journals]], that [[i/_introduces|introduces]] theoretically [[p/_problematic|problematic]] [[e/_empirical|empirical]] [[d/_data|data]] or [[d/_discusses|discusses]] an [[o/_overlooked|overlooked]] theoretical [[p/_problem|problem]]. In [[c/_contrast|contrast]] to a typical [[a/_article|article]], a [[s/_squib|squib]] [[n/_need|need]] not [[a/_answer|answer]] the [[q/_questions|questions]] that it [[p/_poses|poses]].**
 - **An unimportant, [[p/_paltry|paltry]], or [[m/_mean|mean]]-[[s/_spirited|spirited]] [[p/_person|person]] or thing.**
 - **A [[s/_sketched|sketched]] [[c/_concept|concept]] or visual [[s/_solution|solution]], usually very [[q/_quick|quick]] and not too [[d/_detailed|detailed]].**

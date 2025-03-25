@@ -7,7 +7,7 @@
 - **[[r/_related|Related]] to a [[r/_religious|religious]] [[m/_minister|minister]] or [[m/_ministry|ministry]].**
 - **[[r/_related|Related]] to a [[g/_governmental|governmental]] [[m/_minister|minister]] or [[m/_ministry|ministry]].**
 - **[[h/_having|Having]] the [[p/_power|power]] to wield [[d/_delegated|delegated]] [[e/_executive|executive]] [[a/_authority|authority]].**
-- **[[s/_serving|Serving]] as an [[i/_instrument|instrument]] or [[m/_means|means]] ([[i/_i|i]].[[e/_e|e]]., [[p/_procedural|procedural]] or [[a/_ancillary|ancillary]], not substantive).**
+- **[[s/_serving|Serving]] as an [[i/_instrument|instrument]] or [[m/_means|means]] ([[i/_i|i]].[[e/_e|e]]., [[p/_procedural|procedural]] or [[a/_ancillary|ancillary]], not [[s/_substantive|substantive]]).**
 	- _Example: Filling out the form under the direction of a lawyer is a ministerial task performed by a legal secretary._
 ---
 ### Synonyms

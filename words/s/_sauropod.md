@@ -1,6 +1,6 @@
 # Sauropod
 ---
 #noun
-- **A [[m/_member|member]] of the [[s/_sauropoda|Sauropoda]] suborder of [[d/_dinosaurs|dinosaurs]]**
+- **A [[m/_member|member]] of the [[s/_sauropoda|Sauropoda]] [[s/_suborder|suborder]] of [[d/_dinosaurs|dinosaurs]]**
 ---
 ---

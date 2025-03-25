@@ -2,7 +2,7 @@
 ---
 #noun
 - **A traditional [[i/_indian|Indian]] and [[p/_persian|Persian]] [[b/_body|body]] [[m/_massage|massage]] [[g/_given|given]] [[a/_after|after]] [[p/_pouring|pouring]] warm water [[o/_over|over]] the [[b/_body|body]] and [[r/_rubbing|rubbing]] it with [[e/_extracts|extracts]] from [[h/_herbs|herbs]].**
-- **A [[c/_commercial|commercial]] [[l/_liquid|liquid]] [[s/_soap|soap]] [[p/_product|product]] for washing [[h/_hair|hair]] or [[o/_other|other]] [[f/_fibres|fibres]]/[[f/_fibers|fibers]], such as [[c/_carpets|carpets]].**
+- **A [[c/_commercial|commercial]] [[l/_liquid|liquid]] [[s/_soap|soap]] [[p/_product|product]] for washing [[h/_hair|hair]] or [[o/_other|other]] [[f/_fibres|fibres]]/[[f/_fibers|fibers]], [[s/_such|such]] as [[c/_carpets|carpets]].**
 - **An [[i/_instance|instance]] of washing the [[h/_hair|hair]] or [[o/_other|other]] [[f/_fibres|fibres]] with [[s/_shampoo|shampoo]].**
 	- _Example: I’m going to give the carpet a shampoo._
 - **[[c/_champagne|Champagne]].**

@@ -17,7 +17,7 @@
 - **([[e/_epigraphy|epigraphy]]) An [[i/_impression|impression]] of an [[i/_inscription|inscription]] [[f/_formed|formed]] by [[p/_pressing|pressing]] wet [[p/_paper|paper]] [[o/_onto|onto]] the surface and [[p/_peeling|peeling]] [[o/_off|off]] when [[d/_dry|dry]].**
 	- _Example: The light not being good enough for photography, I took a squeeze of the stone._
 - **The [[g/_gradual|gradual]] [[c/_closing|closing]] of workings by the weight of the [[o/_overlying|overlying]] [[s/_strata|strata]].**
-- **A [[b/_bribe|bribe]] or [[f/_fee|fee]] [[p/_paid|paid]] to a [[m/_middleman|middleman]], [[e/_especially|especially]] in [[c/_china|China]]; the [[p/_practice|practice]] of [[r/_requiring|requiring]] such a [[b/_bribe|bribe]] or [[f/_fee|fee]].**
+- **A [[b/_bribe|bribe]] or [[f/_fee|fee]] [[p/_paid|paid]] to a [[m/_middleman|middleman]], [[e/_especially|especially]] in [[c/_china|China]]; the [[p/_practice|practice]] of [[r/_requiring|requiring]] [[s/_such|such]] a [[b/_bribe|bribe]] or [[f/_fee|fee]].**
 ---
 #verb
 - **To [[a/_apply|apply]] [[p/_pressure|pressure]] to from two or [[m/_more|more]] [[s/_sides|sides]] at [[o/_once|once]].**

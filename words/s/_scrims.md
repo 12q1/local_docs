@@ -9,6 +9,6 @@
 - **Thin [[c/_canvas|canvas]] [[g/_glued|glued]] on the [[i/_inside|inside]] of [[p/_panels|panels]] to [[p/_prevent|prevent]] [[s/_shrinking|shrinking]], [[c/_checking|checking]], [[e/_etc|etc]].**
 ---
 #noun
-- **A [[p/_practice|practice]] [[m/_match|match]] [[b/_between|between]] [[o/_one|one]] or [[m/_more|more]] [[o/_organized|organized]] teams usually in [[p/_preparation|preparation]] for a [[m/_more|more]] [[c/_competitive|competitive]] [[f/_format|format]], such as a tournament.**
+- **A [[p/_practice|practice]] [[m/_match|match]] [[b/_between|between]] [[o/_one|one]] or [[m/_more|more]] [[o/_organized|organized]] teams usually in [[p/_preparation|preparation]] for a [[m/_more|more]] [[c/_competitive|competitive]] [[f/_format|format]], [[s/_such|such]] as a tournament.**
 ---
 ---

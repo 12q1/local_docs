@@ -1,8 +1,8 @@
 # Scotching
 ---
 #verb
-- **To [[c/_cut|cut]] or [[s/_score|score]]; to wound superficially.**
-- **To [[p/_prevent|prevent]] ([[s/_something|something]]) from [[b/_being|being]] successful.**
+- **To [[c/_cut|cut]] or [[s/_score|score]]; to wound [[s/_superficially|superficially]].**
+- **To [[p/_prevent|prevent]] ([[s/_something|something]]) from [[b/_being|being]] [[s/_successful|successful]].**
 	- _Example: The rain scotched his plans of going to the beach._
 - **To [[d/_debunk|debunk]] or [[d/_discredit|discredit]] an [[i/_idea|idea]] or [[r/_rumor|rumor]].**
 	- _Example: The prime minister scotched rumors of his resignation._

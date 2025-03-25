@@ -7,7 +7,7 @@
 - **A [[p/_part|part]] of [[l/_legal|legal]] [[s/_studies|studies]] [[d/_dealing|dealing]] with [[l/_laws|laws]] and [[j/_jurisdiction|jurisdiction]] [[r/_related|related]] to [[c/_contracts|contracts]].**
 - **An [[o/_order|order]], usually [[g/_given|given]] to a [[h/_hired|hired]] [[a/_assassin|assassin]], to [[k/_kill|kill]] [[s/_someone|someone]].**
 	- _Example: The mafia boss put a contract out on the man who betrayed him._
-- **The [[d/_declarer|declarer]]'[[s/_s|s]] undertaking to win the [[n/_number|number]] of tricks [[b/_bid|bid]] with a [[s/_stated|stated]] suit as trump.**
+- **The [[d/_declarer|declarer]]'[[s/_s|s]] undertaking to win the [[n/_number|number]] of tricks [[b/_bid|bid]] with a [[s/_stated|stated]] [[s/_suit|suit]] as trump.**
 ---
 #verb
 - **To [[d/_draw|draw]] together or [[n/_nearer|nearer]]; to [[s/_shorten|shorten]], [[n/_narrow|narrow]], or [[l/_lessen|lessen]].**

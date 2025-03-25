@@ -1,7 +1,7 @@
 # After
 ---
 #adjective
-- **[[l/_later|Later]]; [[s/_second|second]] (of two); [[n/_next|next]], [[f/_following|following]], subsequent**
+- **[[l/_later|Later]]; [[s/_second|second]] (of two); [[n/_next|next]], [[f/_following|following]], [[s/_subsequent|subsequent]]**
 - **(where the [[f/_frame|frame]] of [[r/_reference|reference]] is within the [[s/_ship|ship]]) At or towards the [[s/_stern|stern]] of a [[s/_ship|ship]].**
 	- _Example: The after gun is abaft the forward gun._
 ---
@@ -10,7 +10,7 @@
 	- _Example: I left the room, and the dog bounded after._
 ---
 #preposition
-- **Subsequently to; [[f/_following|following]] in time; [[l/_later|later]] than.**
+- **[[s/_subsequently|Subsequently]] to; [[f/_following|following]] in time; [[l/_later|later]] than.**
 	- _Example: The Cold War began shortly after the Second World War._
 - **[[b/_behind|Behind]].**
 	- _Example: He will leave a trail of destruction after him._

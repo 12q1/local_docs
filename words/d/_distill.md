@@ -1,7 +1,7 @@
 # Distill
 ---
 #verb
-- **To subject a substance to [[d/_distillation|distillation]].**
+- **To [[s/_subject|subject]] a [[s/_substance|substance]] to [[d/_distillation|distillation]].**
 - **To undergo or be [[p/_produced|produced]] by [[d/_distillation|distillation]].**
 - **To [[m/_make|make]] by [[m/_means|means]] of [[d/_distillation|distillation]], [[e/_especially|especially]] whisky.**
 - **To [[e/_exude|exude]] in [[s/_small|small]] [[d/_drops|drops]].**

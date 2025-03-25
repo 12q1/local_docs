@@ -1,7 +1,7 @@
 # Converting
 ---
 #verb
-- **To transform or [[c/_change|change]] ([[s/_something|something]]) [[i/_into|into]] [[a/_another|another]] [[f/_form|form]], substance, [[s/_state|state]], or [[p/_product|product]].**
+- **To transform or [[c/_change|change]] ([[s/_something|something]]) [[i/_into|into]] [[a/_another|another]] [[f/_form|form]], [[s/_substance|substance]], [[s/_state|state]], or [[p/_product|product]].**
 	- _Example: A kettle converts water into steam._
 - **To [[c/_change|change]] ([[s/_something|something]]) from [[o/_one|one]] use, [[f/_function|function]], or [[p/_purpose|purpose]] to [[a/_another|another]].**
 	- _Example: He converted his garden into a tennis court._
@@ -21,7 +21,7 @@
 - **To [[b/_become|become]] [[c/_converted|converted]].**
 	- _Example: The chair converts into a bed._
 - **To [[c/_cause|cause]] to turn; to turn.**
-- **To [[c/_change|change]] ([[o/_one|one]] [[p/_proposition|proposition]]) [[i/_into|into]] [[a/_another|another]], [[s/_so|so]] that what was the subject of the [[f/_first|first]] [[b/_becomes|becomes]] the [[p/_predicate|predicate]] of the [[s/_second|second]].**
+- **To [[c/_change|change]] ([[o/_one|one]] [[p/_proposition|proposition]]) [[i/_into|into]] [[a/_another|another]], [[s/_so|so]] that what was the [[s/_subject|subject]] of the [[f/_first|first]] [[b/_becomes|becomes]] the [[p/_predicate|predicate]] of the [[s/_second|second]].**
 - **To turn [[i/_into|into]] [[a/_another|another]] [[l/_language|language]]; to translate.**
 - **To [[i/_increase|increase]] [[o/_one|one]]'[[s/_s|s]] [[i/_individual|individual]] [[s/_score|score]], [[e/_especially|especially]] from 50 [[r/_runs|runs]] (a [[f/_fifty|fifty]]) to 100 [[r/_runs|runs]] (a [[c/_century|century]]), or from a [[c/_century|century]] to a [[d/_double|double]] or triple [[c/_century|century]].**
 - **To [[p/_perform|perform]] the [[a/_action|action]] that an [[o/_online|online]] [[a/_advertisement|advertisement]] is [[i/_intended|intended]] to [[i/_induce|induce]]; to [[r/_reach|reach]] the [[p/_point|point]] of [[c/_conversion|conversion]].**

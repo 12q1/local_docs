@@ -1,7 +1,7 @@
 # Digestive
 ---
 #noun
-- **A substance that [[a/_aids|aids]] [[d/_digestion|digestion]].**
+- **A [[s/_substance|substance]] that [[a/_aids|aids]] [[d/_digestion|digestion]].**
 - **A [[d/_digestive|digestive]] [[b/_biscuit|biscuit]].**
 	- _Example: I bought a packet of chocolate digestives._
 ---

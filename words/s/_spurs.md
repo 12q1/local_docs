@@ -12,7 +12,7 @@
 - **[[r/_roots|Roots]], tree [[r/_roots|roots]].**
 - **A [[m/_mountain|mountain]] that [[s/_shoots|shoots]] from [[a/_another|another]] [[m/_mountain|mountain]] or [[r/_range|range]] and [[e/_extends|extends]] [[s/_some|some]] [[d/_distance|distance]] in a [[l/_lateral|lateral]] [[d/_direction|direction]], or at [[r/_right|right]] [[a/_angles|angles]].**
 - **A [[s/_spiked|spiked]] [[i/_iron|iron]] worn by [[s/_seamen|seamen]] upon the [[b/_bottom|bottom]] of the [[b/_boot|boot]], to [[e/_enable|enable]] them to [[s/_stand|stand]] upon the [[c/_carcass|carcass]] of a whale to [[s/_strip|strip]] [[o/_off|off]] the [[b/_blubber|blubber]].**
-- **A [[b/_brace|brace]] [[s/_strengthening|strengthening]] a [[p/_post|post]] and [[s/_some|some]] [[c/_connected|connected]] [[p/_part|part]], such as a [[r/_rafter|rafter]] or [[c/_crossbeam|crossbeam]]; a [[s/_strut|strut]].**
+- **A [[b/_brace|brace]] [[s/_strengthening|strengthening]] a [[p/_post|post]] and [[s/_some|some]] [[c/_connected|connected]] [[p/_part|part]], [[s/_such|such]] as a [[r/_rafter|rafter]] or [[c/_crossbeam|crossbeam]]; a [[s/_strut|strut]].**
 - **The [[s/_short|short]] wooden [[b/_buttress|buttress]] of a [[p/_post|post]].**
 - **A [[p/_projection|projection]] from the [[r/_round|round]] [[b/_base|base]] of a [[c/_column|column]], [[o/_occupying|occupying]] the [[a/_angle|angle]] of a [[s/_square|square]] [[p/_plinth|plinth]] upon which the [[b/_base|base]] [[r/_rests|rests]], or [[b/_bringing|bringing]] the [[b/_bottom|bottom]] [[b/_bed|bed]] of the [[b/_base|base]] to a [[n/_nearly|nearly]] [[s/_square|square]] [[f/_form|form]]. It is [[g/_generally|generally]] [[c/_carved|carved]] in [[l/_leafage|leafage]].**
 - **[[e/_ergotized|Ergotized]] [[r/_rye|rye]] or [[o/_other|other]] [[g/_grain|grain]].**
@@ -39,6 +39,6 @@
 - **A [[s/_spurious|spurious]] tone, [[o/_one|one]] that [[i/_interferes|interferes]] with a [[s/_signal|signal]] in a [[c/_circuit|circuit]] and is [[o/_often|often]] [[m/_masked|masked]] underneath that [[s/_signal|signal]].**
 ---
 #noun
-- **The track of an [[a/_animal|animal]], such as an [[o/_otter|otter]]; a [[s/_spoor|spoor]].**
+- **The track of an [[a/_animal|animal]], [[s/_such|such]] as an [[o/_otter|otter]]; a [[s/_spoor|spoor]].**
 ---
 ---

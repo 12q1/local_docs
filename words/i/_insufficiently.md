@@ -1,6 +1,6 @@
 # Insufficiently
 ---
 #adverb
-- **Not sufficiently**
+- **Not [[s/_sufficiently|sufficiently]]**
 ---
 ---

@@ -8,7 +8,7 @@
 - **To [[p/_present|present]], [[d/_describe|describe]], or [[i/_interpret|interpret]], or to [[i/_introduce|introduce]] a [[b/_bias|bias]] or [[s/_slant|slant]], [[s/_so|so]] as to [[g/_give|give]] [[s/_something|something]] a [[f/_favorable|favorable]] or [[a/_advantageous|advantageous]] [[a/_appearance|appearance]].**
 - **(of a [[b/_bowler|bowler]]) To [[m/_make|make]] the [[b/_ball|ball]] [[m/_move|move]] [[s/_sideways|sideways]] when it [[b/_bounces|bounces]] on the [[p/_pitch|pitch]].**
 - **(of a [[b/_ball|ball]]) To [[m/_move|move]] [[s/_sideways|sideways]] when [[b/_bouncing|bouncing]].**
-- **To [[f/_form|form]] [[i/_into|into]] thin [[s/_strips|strips]] or [[r/_ribbons|ribbons]], as with sugar**
+- **To [[f/_form|form]] [[i/_into|into]] thin [[s/_strips|strips]] or [[r/_ribbons|ribbons]], as with [[s/_sugar|sugar]]**
 - **To [[f/_form|form]] (a web, a [[c/_cocoon|cocoon]], [[s/_silk|silk]], [[e/_etc|etc]].) from threads [[p/_produced|produced]] by the [[e/_extrusion|extrusion]] of a viscid, transparent [[l/_liquid|liquid]], which [[h/_hardens|hardens]] on [[c/_coming|coming]] [[i/_into|into]] [[c/_contact|contact]] with the [[a/_air|air]]; [[s/_said|said]] of the [[s/_spider|spider]], the [[s/_silkworm|silkworm]], [[e/_etc|etc]].**
 - **To [[s/_shape|shape]], as [[m/_malleable|malleable]] [[s/_sheet|sheet]] [[m/_metal|metal]], [[i/_into|into]] a [[h/_hollow|hollow]] [[f/_form|form]], by [[b/_bending|bending]] or [[b/_buckling|buckling]] it by [[p/_pressing|pressing]] [[a/_against|against]] it with a [[s/_smooth|smooth]] [[h/_hand|hand]] tool or [[r/_roller|roller]] while the [[m/_metal|metal]] [[r/_revolves|revolves]], as in a [[l/_lathe|lathe]].**
 - **To [[m/_move|move]] swiftly.**

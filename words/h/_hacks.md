@@ -3,13 +3,13 @@
 #noun
 - **A tool for [[c/_chopping|chopping]].**
 - **A [[h/_hacking|hacking]] [[b/_blow|blow]].**
-- **A [[g/_gouge|gouge]] or [[n/_notch|notch]] [[m/_made|made]] by such a [[b/_blow|blow]].**
+- **A [[g/_gouge|gouge]] or [[n/_notch|notch]] [[m/_made|made]] by [[s/_such|such]] a [[b/_blow|blow]].**
 - **A [[d/_dry|dry]] [[c/_cough|cough]].**
 - **A [[h/_hacking|hacking]]; a [[c/_catch|catch]] in [[s/_speaking|speaking]]; a [[s/_short|short]], [[b/_broken|broken]] [[c/_cough|cough]].**
 - **A try, an [[a/_attempt|attempt]].**
 - **The [[f/_foothold|foothold]] traditionally [[c/_cut|cut]] [[i/_into|into]] the [[i/_ice|ice]] from which the [[p/_person|person]] who throws the [[r/_rock|rock]] [[p/_pushes|pushes]] [[o/_off|off]] for [[d/_delivery|delivery]].**
 - **A [[m/_mattock|mattock]] or a [[m/_miner|miner]]'[[s/_s|s]] [[p/_pickaxe|pickaxe]].**
-- **An [[e/_expedient|expedient]], temporary [[s/_solution|solution]], such as a [[s/_small|small]] [[p/_patch|patch]] or [[c/_change|change]] to [[c/_code|code]], [[m/_meant|meant]] to be [[r/_replaced|replaced]] with a [[m/_more|more]] [[e/_elegant|elegant]] [[s/_solution|solution]] at a [[l/_later|later]] [[d/_date|date]].**
+- **An [[e/_expedient|expedient]], temporary [[s/_solution|solution]], [[s/_such|such]] as a [[s/_small|small]] [[p/_patch|patch]] or [[c/_change|change]] to [[c/_code|code]], [[m/_meant|meant]] to be [[r/_replaced|replaced]] with a [[m/_more|more]] [[e/_elegant|elegant]] [[s/_solution|solution]] at a [[l/_later|later]] [[d/_date|date]].**
 - **An [[i/_interesting|interesting]] technical [[a/_achievement|achievement]], [[p/_particularly|particularly]] in [[c/_computer|computer]] [[p/_programming|programming]].**
 - **A trick, [[s/_shortcut|shortcut]], [[s/_skill|skill]], or [[n/_novelty|novelty]] [[m/_method|method]] to [[i/_increase|increase]] [[p/_productivity|productivity]], [[e/_efficiency|efficiency]] or [[e/_ease|ease]].**
 	- _Example: Putting your phone in a sandwich bag when you go to the beach is such a great hack._
@@ -56,7 +56,7 @@
 #noun
 - **A [[b/_board|board]] which the [[f/_falcon|falcon]]'[[s/_s|s]] [[f/_food|food]] is [[p/_placed|placed]] on; used by [[e/_extension|extension]] for the [[s/_state|state]] of [[p/_partial|partial]] [[f/_freedom|freedom]] in which they are [[k/_kept|kept]] [[b/_before|before]] [[b/_being|being]] trained.**
 - **A [[f/_food|food]]-[[r/_rack|rack]] for [[c/_cattle|cattle]].**
-- **A [[r/_rack|rack]] used to [[d/_dry|dry]] [[s/_something|something]], such as [[b/_bricks|bricks]], [[f/_fish|fish]], or [[c/_cheese|cheese]].**
+- **A [[r/_rack|rack]] used to [[d/_dry|dry]] [[s/_something|something]], [[s/_such|such]] as [[b/_bricks|bricks]], [[f/_fish|fish]], or [[c/_cheese|cheese]].**
 - **A [[g/_grating|grating]] in a [[m/_mill|mill]] [[r/_race|race]].**
 ---
 #verb
@@ -73,7 +73,7 @@
 - **A [[h/_hearse|hearse]].**
 - **([[a/_authorship|authorship]]) An untalented writer.**
 	- _Example: Dason is nothing but a two-bit hack._
-- **[[o/_one|One]] who is [[p/_professionally|professionally]] successful [[d/_despite|despite]] [[p/_producing|producing]] [[m/_mediocre|mediocre]] work. (Usually [[a/_applied|applied]] to [[p/_persons|persons]] in a [[c/_creative|creative]] [[f/_field|field]].)**
+- **[[o/_one|One]] who is [[p/_professionally|professionally]] [[s/_successful|successful]] [[d/_despite|despite]] [[p/_producing|producing]] [[m/_mediocre|mediocre]] work. (Usually [[a/_applied|applied]] to [[p/_persons|persons]] in a [[c/_creative|creative]] [[f/_field|field]].)**
 - **A talented writer-for-[[h/_hire|hire]], [[p/_paid|paid]] to [[p/_put|put]] [[o/_others|others]]' thoughts [[i/_into|into]] [[f/_felicitous|felicitous]] [[l/_language|language]].**
 - **A [[p/_political|political]] [[a/_agitator|agitator]]. ([[s/_slightly|slightly]] [[d/_derogatory|derogatory]])**
 - **A writer who [[h/_hires|hires]] [[h/_himself|himself]] [[o/_out|out]] for [[a/_any|any]] [[s/_sort|sort]] of [[l/_literary|literary]] work; an [[o/_overworked|overworked]] [[m/_man|man]]; a [[d/_drudge|drudge]].**
@@ -90,7 +90,7 @@
 - **To use [[f/_frequently|frequently]] and [[i/_indiscriminately|indiscriminately]], [[s/_so|so]] as to [[r/_render|render]] trite and [[c/_commonplace|commonplace]].**
 ---
 #noun
-- **A [[s/_small|small]] [[b/_ball|ball]] usually [[m/_made|made]] of woven [[c/_cotton|cotton]] or suede and [[f/_filled|filled]] with [[r/_rice|rice]], [[s/_sand|sand]] or [[s/_some|some]] [[o/_other|other]] [[f/_filler|filler]], for use in hackeysack.**
+- **A [[s/_small|small]] [[b/_ball|ball]] usually [[m/_made|made]] of woven [[c/_cotton|cotton]] or [[s/_suede|suede]] and [[f/_filled|filled]] with [[r/_rice|rice]], [[s/_sand|sand]] or [[s/_some|some]] [[o/_other|other]] [[f/_filler|filler]], for use in hackeysack.**
 ---
 #verb
 - **To [[p/_play|play]] hackeysack.**

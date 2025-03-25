@@ -7,6 +7,6 @@
 ### Synonyms
 - [[e/_excavator|excavator]]
 #verb
-- **To [[e/_excavate|excavate]] using such [[e/_equipment|equipment]].**
+- **To [[e/_excavate|excavate]] using [[s/_such|such]] [[e/_equipment|equipment]].**
 ---
 ---

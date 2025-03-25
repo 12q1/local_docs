@@ -1,7 +1,7 @@
 # Sticky
 ---
 #noun
-- **A [[s/_sticky|sticky]] [[n/_note|note]], such as a [[p/_post|post]]-it [[n/_note|note]].**
+- **A [[s/_sticky|sticky]] [[n/_note|note]], [[s/_such|such]] as a [[p/_post|post]]-it [[n/_note|note]].**
 	- _Example: Her desk is covered with yellow stickies._
 - **A [[d/_discussion|discussion]] thread [[f/_fixed|fixed]] at the top of the [[l/_list|list]] of topics or threads [[s/_so|so]] as to [[k/_keep|keep]] it in view.**
 - **A [[s/_small|small]] [[a/_adhesive|adhesive]] [[p/_particle|particle]] [[f/_found|found]] in wastepaper.**

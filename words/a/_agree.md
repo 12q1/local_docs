@@ -9,9 +9,9 @@
 - **To [[m/_make|make]] a [[s/_stipulation|stipulation]] by way of [[s/_settling|settling]] [[d/_differences|differences]] or [[d/_determining|determining]] a [[p/_price|price]]; to [[e/_exchange|exchange]] [[p/_promises|promises]]; to [[c/_come|come]] to terms or to a [[c/_common|common]] [[r/_resolve|resolve]]; to [[p/_promise|promise]].**
 - **To be [[c/_conformable|conformable]]; to [[r/_resemble|resemble]]; to [[c/_coincide|coincide]]; to [[c/_correspond|correspond]].**
 	- _Example: the picture does not agree with the original; the two scales agree exactly._
-- **([[n/_now|now]] [[a/_always|always]] with with) To suit or be [[a/_adapted|adapted]] in [[i/_its|its]] [[e/_effects|effects]]; to [[d/_do|do]] well.**
+- **([[n/_now|now]] [[a/_always|always]] with with) To [[s/_suit|suit]] or be [[a/_adapted|adapted]] in [[i/_its|its]] [[e/_effects|effects]]; to [[d/_do|do]] well.**
 	- _Example: the same food does not agree with every constitution._
-- **([[g/_grammar|grammar]]) To [[c/_correspond|correspond]] to ([[a/_another|another]] word) in a [[g/_grammatical|grammatical]] [[c/_category|category]], such as [[g/_gender|gender]], [[n/_number|number]], [[c/_case|case]], or [[p/_person|person]].**
+- **([[g/_grammar|grammar]]) To [[c/_correspond|correspond]] to ([[a/_another|another]] word) in a [[g/_grammatical|grammatical]] [[c/_category|category]], [[s/_such|such]] as [[g/_gender|gender]], [[n/_number|number]], [[c/_case|case]], or [[p/_person|person]].**
 	- _Example: In Romanian, the articles, adjectives, pronouns agree in gender, number and case with the noun they refer to._
 - **To [[c/_consent|consent]] to a [[c/_contract|contract]] or to an [[e/_element|element]] of a [[c/_contract|contract]].**
 ---

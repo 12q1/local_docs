@@ -18,8 +18,8 @@
 ### Synonyms
 - [[g/_ground|ground]], [[u/_undercoat|undercoat]]
 #noun
-- **The [[i/_implicit|implicit]] [[m/_memory|memory]] [[e/_effect|effect]] in which [[e/_exposure|exposure]] to a [[s/_stimulus|stimulus]] [[i/_influences|influences]] [[r/_response|response]] to a subsequent [[s/_stimulus|stimulus]].**
-- **A substance used as a [[p/_primer|primer]].**
+- **The [[i/_implicit|implicit]] [[m/_memory|memory]] [[e/_effect|effect]] in which [[e/_exposure|exposure]] to a [[s/_stimulus|stimulus]] [[i/_influences|influences]] [[r/_response|response]] to a [[s/_subsequent|subsequent]] [[s/_stimulus|stimulus]].**
+- **A [[s/_substance|substance]] used as a [[p/_primer|primer]].**
 - **The [[p/_powder|powder]] or [[o/_other|other]] [[c/_combustible|combustible]] used to [[c/_communicate|communicate]] [[f/_fire|fire]] to a [[c/_charge|charge]] of [[g/_gunpowder|gunpowder]], as in a [[f/_firearm|firearm]].**
 - **The [[f/_first|first]] [[c/_coating|coating]] of [[c/_colour|colour]], [[s/_size|size]], [[e/_etc|etc]]. [[l/_laid|laid]] on [[c/_canvas|canvas]], or on a [[b/_building|building]] or [[o/_other|other]] surface.**
 - **The [[c/_carrying|carrying]] [[o/_over|over]] of water, with the [[s/_steam|steam]], from the [[b/_boiler|boiler]], as [[i/_into|into]] the [[c/_cylinder|cylinder]].**

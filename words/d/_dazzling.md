@@ -15,6 +15,6 @@
 #adjective
 - **[[s/_shining|Shining]] [[i/_intensely|intensely]].**
 - **[[s/_splendid|Splendid]]; [[b/_brilliant|brilliant]]**
-- **Superlative; [[a/_astounding|astounding]]**
+- **[[s/_superlative|Superlative]]; [[a/_astounding|astounding]]**
 ---
 ---

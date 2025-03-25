@@ -7,6 +7,6 @@
 #verb
 - **To toss or [[c/_carry|carry]] with a [[p/_pitchfork|pitchfork]].**
 	- _Example: The hay was soon pitchforked onto the wagon._
-- **To throw suddenly.**
+- **To throw [[s/_suddenly|suddenly]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Hoist
 ---
 #noun
-- **A [[h/_hoisting|hoisting]] [[d/_device|device]], such as [[p/_pulley|pulley]] or [[c/_crane|crane]].**
+- **A [[h/_hoisting|hoisting]] [[d/_device|device]], [[s/_such|such]] as [[p/_pulley|pulley]] or [[c/_crane|crane]].**
 - **The [[a/_act|act]] of [[h/_hoisting|hoisting]]; a [[l/_lift|lift]].**
 	- _Example: Give me a hoist over that wall._
 - **The [[p/_perpendicular|perpendicular]] [[h/_height|height]] of a [[f/_flag|flag]], as [[o/_opposed|opposed]] to the [[f/_fly|fly]], or [[h/_horizontal|horizontal]] [[l/_length|length]], when [[f/_flying|flying]] from a [[s/_staff|staff]].**

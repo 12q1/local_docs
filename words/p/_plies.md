@@ -10,7 +10,7 @@
 - **A [[c/_condition|condition]], a [[s/_state|state]].**
 ---
 #verb
-- **To [[b/_bend|bend]]; to [[f/_fold|fold]]; to [[m/_mould|mould]]; to [[a/_adapt|adapt]], to [[m/_modify|modify]]; to [[c/_change|change]] (a [[p/_person|person]]'[[s/_s|s]]) [[m/_mind|mind]], to [[c/_cause|cause]] (a [[p/_person|person]]) to submit.**
+- **To [[b/_bend|bend]]; to [[f/_fold|fold]]; to [[m/_mould|mould]]; to [[a/_adapt|adapt]], to [[m/_modify|modify]]; to [[c/_change|change]] (a [[p/_person|person]]'[[s/_s|s]]) [[m/_mind|mind]], to [[c/_cause|cause]] (a [[p/_person|person]]) to [[s/_submit|submit]].**
 - **To [[b/_bend|bend]], to [[f/_flex|flex]]; to be [[b/_bent|bent]] by [[s/_something|something]], to [[g/_give|give]] way or [[y/_yield|yield]] (to a [[f/_force|force]], [[e/_etc|etc]].).**
 ---
 #verb

@@ -5,7 +5,7 @@
 	- _Example: I couldn't decide which of the pair of designer shirts I preferred, so I bought the pair._
 - **Two [[p/_people|people]] in a [[r/_relationship|relationship]], [[p/_partnership|partnership]] or [[f/_friendship|friendship]].**
 	- _Example: Spouses should make a great pair._
-- **Used with [[b/_binary|binary]] [[n/_nouns|nouns]] ([[o/_often|often]] in the [[p/_plural|plural]] to [[i/_indicate|indicate]] [[m/_multiple|multiple]] [[i/_instances|instances]], [[s/_since|since]] such [[n/_nouns|nouns]] are [[p/_plural|plural]] [[o/_only|only]], [[e/_except|except]] in [[s/_some|some]] technical [[c/_contexts|contexts]])**
+- **Used with [[b/_binary|binary]] [[n/_nouns|nouns]] ([[o/_often|often]] in the [[p/_plural|plural]] to [[i/_indicate|indicate]] [[m/_multiple|multiple]] [[i/_instances|instances]], [[s/_since|since]] [[s/_such|such]] [[n/_nouns|nouns]] are [[p/_plural|plural]] [[o/_only|only]], [[e/_except|except]] in [[s/_some|some]] technical [[c/_contexts|contexts]])**
 	- _Example: a pair of scissors; two pairs of spectacles; several pairs of jeans_
 - **A [[c/_couple|couple]] of working [[a/_animals|animals]] [[a/_attached|attached]] to work together, as by a [[y/_yoke|yoke]].**
 	- _Example: A pair is harder to drive than two mounts with separate riders._

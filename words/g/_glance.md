@@ -4,9 +4,9 @@
 - **A [[b/_brief|brief]] or [[c/_cursory|cursory]] [[l/_look|look]].**
 - **A [[d/_deflection|deflection]].**
 - **A [[s/_stroke|stroke]] in which the [[b/_ball|ball]] is [[d/_deflected|deflected]] to [[o/_one|one]] [[s/_side|side]].**
-- **A sudden [[f/_flash|flash]] of [[l/_light|light]] or [[s/_splendour|splendour]].**
+- **A [[s/_sudden|sudden]] [[f/_flash|flash]] of [[l/_light|light]] or [[s/_splendour|splendour]].**
 - **An [[i/_incidental|incidental]] or [[p/_passing|passing]] thought or [[a/_allusion|allusion]].**
-- **[[a/_any|Any]] of various sulphides, [[m/_mostly|mostly]] [[d/_dark|dark]]-[[c/_coloured|coloured]], which [[h/_have|have]] a [[b/_brilliant|brilliant]] [[m/_metallic|metallic]] [[l/_lustre|lustre]].**
+- **[[a/_any|Any]] of various [[s/_sulphides|sulphides]], [[m/_mostly|mostly]] [[d/_dark|dark]]-[[c/_coloured|coloured]], which [[h/_have|have]] a [[b/_brilliant|brilliant]] [[m/_metallic|metallic]] [[l/_lustre|lustre]].**
 	- _Example: copper glance_
 - **[[g/_glance|Glance]] [[c/_coal|coal]].**
 ---

@@ -1,7 +1,7 @@
 # Amplified
 ---
 #adjective
-- **[[h/_having|Having]] [[b/_been|been]] [[m/_made|made]] the subject of [[a/_amplification|amplification]]; [[m/_more|more]] [[p/_potent|potent]] or [[s/_stronger|stronger]], [[l/_louder|louder]]**
+- **[[h/_having|Having]] [[b/_been|been]] [[m/_made|made]] the [[s/_subject|subject]] of [[a/_amplification|amplification]]; [[m/_more|more]] [[p/_potent|potent]] or [[s/_stronger|stronger]], [[l/_louder|louder]]**
 ---
 #verb
 - **To [[r/_render|render]] [[l/_larger|larger]], [[m/_more|more]] [[e/_extended|extended]], or [[m/_more|more]] [[i/_intense|intense]].**

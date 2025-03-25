@@ -7,6 +7,6 @@
 - **To [[s/_send|send]] ([[i/_information|information]]) through a [[r/_router|router]].**
 ---
 #noun
-- **A [[m/_method|method]] of [[f/_finding|finding]] [[p/_paths|paths]] from [[o/_origins|origins]] to [[d/_destinations|destinations]] in a [[n/_network|network]] such as the [[i/_internet|Internet]], [[a/_along|along]] which [[i/_information|information]] [[c/_can|can]] be [[p/_passed|passed]].**
+- **A [[m/_method|method]] of [[f/_finding|finding]] [[p/_paths|paths]] from [[o/_origins|origins]] to [[d/_destinations|destinations]] in a [[n/_network|network]] [[s/_such|such]] as the [[i/_internet|Internet]], [[a/_along|along]] which [[i/_information|information]] [[c/_can|can]] be [[p/_passed|passed]].**
 ---
 ---

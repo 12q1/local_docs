@@ -31,7 +31,7 @@
 ### Synonyms
 - [[f/_fuck|fuck]], [[r/_root|root]], [[s/_screw|screw]]
 #adjective
-- **[[f/_full|Full]] or [[p/_packed|packed]] (with [[s/_some|some]] [[m/_material|material]] or substance).**
+- **[[f/_full|Full]] or [[p/_packed|packed]] (with [[s/_some|some]] [[m/_material|material]] or [[s/_substance|substance]]).**
 	- _Example: Customs officers look closely through a stuffed suitcase._
 - **[[f/_filled|Filled]] with [[s/_seasoning|seasoning]]**
 	- _Example: We're having stuffed turkey for dinner._

@@ -1,7 +1,7 @@
 # Depart
 ---
 #noun
-- **[[d/_division|Division]]; [[s/_separation|separation]], as of [[c/_compound|compound]] substances.**
+- **[[d/_division|Division]]; [[s/_separation|separation]], as of [[c/_compound|compound]] [[s/_substances|substances]].**
 - **A [[g/_going|going]] [[a/_away|away]]; [[d/_departure|departure]].**
 ---
 #verb

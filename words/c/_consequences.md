@@ -2,7 +2,7 @@
 ---
 #noun
 - **That which [[f/_follows|follows]] [[s/_something|something]] on which it [[d/_depends|depends]]; that which is [[p/_produced|produced]] by a [[c/_cause|cause]].**
-- **A [[r/_result|result]] of [[a/_actions|actions]], [[e/_especially|especially]] [[i/_if|if]] such a [[r/_result|result]] is unwanted or unpleasant.**
+- **A [[r/_result|result]] of [[a/_actions|actions]], [[e/_especially|especially]] [[i/_if|if]] [[s/_such|such]] a [[r/_result|result]] is unwanted or unpleasant.**
 	- _Example: I'm warning you. If you don't get me the report on time, there will be consequences._
 - **A [[p/_proposition|proposition]] [[c/_collected|collected]] from the [[a/_agreement|agreement]] of [[o/_other|other]] [[p/_previous|previous]] [[p/_propositions|propositions]]; [[a/_any|any]] [[c/_conclusion|conclusion]] which [[r/_results|results]] from [[r/_reason|reason]] or [[a/_argument|argument]]; [[i/_inference|inference]].**
 - **[[c/_chain|Chain]] of [[c/_causes|causes]] and [[e/_effects|effects]]; [[c/_consecution|consecution]].**

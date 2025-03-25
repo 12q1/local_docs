@@ -11,7 +11,7 @@
 - **A [[c/_cargo|cargo]] vessel, a [[s/_ship|ship]].**
 - **[[c/_certain|Certain]] [[p/_parts|parts]] of a vessel, [[p/_particularly|particularly]] the [[c/_cargo|cargo]] [[h/_hold|hold]] or the [[p/_portion|portion]] of the [[s/_ship|ship]] that is [[a/_always|always]] underwater.**
 - **The [[s/_second|second]] [[h/_half|half]] of an [[i/_inning|inning]], the [[h/_home|home]] team'[[s/_s|s]] turn at [[b/_bat|bat]].**
-- **(BDSM) A submissive in [[s/_sadomasochistic|sadomasochistic]] [[s/_sexual|sexual]] [[a/_activity|activity]].**
+- **(BDSM) A [[s/_submissive|submissive]] in [[s/_sadomasochistic|sadomasochistic]] [[s/_sexual|sexual]] [[a/_activity|activity]].**
 - **A [[p/_person|person]] with a [[p/_preference|preference]] for [[b/_being|being]] [[p/_penetrated|penetrated]] [[d/_during|during]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]].**
 - **A [[b/_bottom|bottom]] [[q/_quark|quark]].**
 - **The [[l/_lowest|lowest]] [[p/_part|part]] of a [[c/_container|container]].**
@@ -37,7 +37,7 @@
 - **To [[r/_reach|reach]] or [[s/_strike|strike]] [[a/_against|against]] the [[b/_bottom|bottom]] of [[s/_something|something]], [[s/_so|so]] as to [[i/_impede|impede]] [[f/_free|free]] [[a/_action|action]].**
 - **To [[r/_reach|reach]] the [[b/_bottom|bottom]] of [[s/_something|something]].**
 - **To [[f/_fall|fall]] to the [[l/_lowest|lowest]] [[p/_point|point]].**
-- **To be the [[m/_more|more]] [[p/_passive|passive]] or [[r/_receiving|receiving]] [[p/_partner|partner]] in a [[s/_sexual|sexual]] [[a/_act|act]] or [[r/_relationship|relationship]]; to be submissive in a BDSM [[r/_relationship|relationship]]; to be [[a/_anally|anally]] [[p/_penetrated|penetrated]] in [[g/_gay|gay]] [[s/_sex|sex]].**
+- **To be the [[m/_more|more]] [[p/_passive|passive]] or [[r/_receiving|receiving]] [[p/_partner|partner]] in a [[s/_sexual|sexual]] [[a/_act|act]] or [[r/_relationship|relationship]]; to be [[s/_submissive|submissive]] in a BDSM [[r/_relationship|relationship]]; to be [[a/_anally|anally]] [[p/_penetrated|penetrated]] in [[g/_gay|gay]] [[s/_sex|sex]].**
 	- _Example: I've never bottomed in my life._
 ---
 #adjective

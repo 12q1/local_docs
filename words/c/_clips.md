@@ -19,7 +19,7 @@
 ---
 #noun
 - **[[s/_something|Something]] which [[h/_has|has]] [[b/_been|been]] [[c/_clipped|clipped]] from a [[l/_larger|larger]] whole:**
-- **An [[a/_act|act]] of [[c/_clipping|clipping]], such as a [[h/_haircut|haircut]].**
+- **An [[a/_act|act]] of [[c/_clipping|clipping]], [[s/_such|such]] as a [[h/_haircut|haircut]].**
 	- _Example: I went into the salon to get a clip._
 - **The [[c/_condition|condition]] of [[s/_something|something]], [[i/_its|its]] [[s/_state|state]].**
 	- _Example: Deeky the clip of that aad wife ower thor!_

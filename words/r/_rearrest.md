@@ -1,7 +1,7 @@
 # Rearrest
 ---
 #noun
-- **A [[s/_second|second]] or subsequent [[a/_arrest|arrest]].**
+- **A [[s/_second|second]] or [[s/_subsequent|subsequent]] [[a/_arrest|arrest]].**
 ---
 #verb
 - **To [[a/_arrest|arrest]] [[a/_again|again]].**

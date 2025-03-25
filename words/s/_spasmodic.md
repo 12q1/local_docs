@@ -6,7 +6,7 @@
 ### Synonyms
 - [[a/_antispasmodic|antispasmodic]]
 #adjective
-- **Of or [[r/_relating|relating]] to a [[s/_spasm|spasm]]; [[r/_resembling|resembling]] a sudden [[c/_contraction|contraction]] of the [[m/_muscles|muscles]].**
+- **Of or [[r/_relating|relating]] to a [[s/_spasm|spasm]]; [[r/_resembling|resembling]] a [[s/_sudden|sudden]] [[c/_contraction|contraction]] of the [[m/_muscles|muscles]].**
 - **[[c/_convulsive|Convulsive]]; [[c/_consisting|consisting]] of [[s/_spasms|spasms]].**
 	- _Example: spasmodic asthma_
 - **[[i/_intermittent|Intermittent]] or [[f/_fitful|fitful]]; [[o/_occurring|occurring]] in [[a/_abrupt|abrupt]] [[b/_bursts|bursts]].**

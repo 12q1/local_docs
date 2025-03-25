@@ -5,12 +5,12 @@
 	- _Example: entrapment is against the law_
 - **A [[b/_binding|binding]] [[r/_regulation|regulation]] or [[c/_custom|custom]] [[e/_established|established]] in a [[c/_community|community]] in this way.**
 	- _Example: A new law forbids driving on that road._
-- **([[m/_more|more]] [[g/_generally|generally]]) A [[r/_rule|rule]], such as:**
-- **The [[c/_control|control]] and [[o/_order|order]] [[b/_brought|brought]] [[a/_about|about]] by the [[o/_observance|observance]] of such [[r/_rules|rules]].**
+- **([[m/_more|more]] [[g/_generally|generally]]) A [[r/_rule|rule]], [[s/_such|such]] as:**
+- **The [[c/_control|control]] and [[o/_order|order]] [[b/_brought|brought]] [[a/_about|about]] by the [[o/_observance|observance]] of [[s/_such|such]] [[r/_rules|rules]].**
 	- _Example: It was a territory without law, marked by violence._
-- **A [[p/_person|person]] or [[g/_group|group]] that [[a/_act|act]]([[s/_s|s]]) with [[a/_authority|authority]] to uphold such [[r/_rules|rules]] and [[o/_order|order]] (for [[e/_example|example]], [[o/_one|one]] or [[m/_more|more]] [[p/_police|police]] [[o/_officers|officers]]).**
+- **A [[p/_person|person]] or [[g/_group|group]] that [[a/_act|act]]([[s/_s|s]]) with [[a/_authority|authority]] to uphold [[s/_such|such]] [[r/_rules|rules]] and [[o/_order|order]] (for [[e/_example|example]], [[o/_one|one]] or [[m/_more|more]] [[p/_police|police]] [[o/_officers|officers]]).**
 	- _Example: Here comes the law — run!_
-- **The [[p/_profession|profession]] that [[d/_deals|deals]] with such [[r/_rules|rules]] (as [[l/_lawyers|lawyers]], [[j/_judges|judges]], [[p/_police|police]] [[o/_officers|officers]], [[e/_etc|etc]]).**
+- **The [[p/_profession|profession]] that [[d/_deals|deals]] with [[s/_such|such]] [[r/_rules|rules]] (as [[l/_lawyers|lawyers]], [[j/_judges|judges]], [[p/_police|police]] [[o/_officers|officers]], [[e/_etc|etc]]).**
 	- _Example: He is studying for a career in law._
 - **[[j/_jurisprudence|Jurisprudence]], the [[f/_field|field]] of [[k/_knowledge|knowledge]] which [[e/_encompasses|encompasses]] these [[r/_rules|rules]].**
 	- _Example: She went to university to study law._
@@ -22,9 +22,9 @@
 ---
 #verb
 - **To work as a [[l/_lawyer|lawyer]]; to [[p/_practice|practice]] [[l/_law|law]].**
-- **To [[p/_prosecute|prosecute]] or sue ([[s/_someone|someone]]), to [[l/_litigate|litigate]].**
+- **To [[p/_prosecute|prosecute]] or [[s/_sue|sue]] ([[s/_someone|someone]]), to [[l/_litigate|litigate]].**
 - **To [[r/_rule|rule]] [[o/_over|over]] (with a [[c/_certain|certain]] [[e/_effect|effect]]) by [[l/_law|law]]; [[g/_govern|govern]].**
 - **To [[e/_enforce|enforce]] the [[l/_law|law]].**
-- **To subject to [[l/_legal|legal]] [[r/_restrictions|restrictions]].**
+- **To [[s/_subject|subject]] to [[l/_legal|legal]] [[r/_restrictions|restrictions]].**
 ---
 ---

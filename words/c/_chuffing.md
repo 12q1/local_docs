@@ -9,6 +9,6 @@
 - **A [[n/_noisy|noisy]] [[p/_puffing|puffing]] [[s/_sound|sound]], as of a [[s/_steam|steam]] [[l/_locomotive|locomotive]].**
 ---
 #adjective
-- **Used as a [[m/_mild|mild]] [[i/_intensifier|intensifier]], [[e/_especially|especially]] as a substitute for "[[f/_fucking|fucking]]".**
+- **Used as a [[m/_mild|mild]] [[i/_intensifier|intensifier]], [[e/_especially|especially]] as a [[s/_substitute|substitute]] for "[[f/_fucking|fucking]]".**
 ---
 ---

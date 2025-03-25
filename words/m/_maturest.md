@@ -8,7 +8,7 @@
 - **[[p/_profound|Profound]]; [[c/_careful|careful]].**
 	- _Example: The headmaster decided to expel the boy after a mature consideration._
 - **[[c/_come|Come]] to, or in a [[s/_state|state]] of, [[c/_completed|completed]] suppuration.**
-- **Suitable for [[a/_adults|adults]] [[o/_only|only]], [[d/_due|due]] to [[s/_sexual|sexual]] themes, violence, [[e/_etc|etc]].**
+- **[[s/_suitable|Suitable]] for [[a/_adults|adults]] [[o/_only|only]], [[d/_due|due]] to [[s/_sexual|sexual]] themes, violence, [[e/_etc|etc]].**
 	- _Example: mature content_
 ---
 ### Synonyms

@@ -3,7 +3,7 @@
 #verb
 - **To take [[p/_part|part]] in a [[r/_race|race]] (in the [[s/_sense|sense]] of a [[c/_contest|contest]]).**
 	- _Example: The drivers were racing around the track._
-- **To [[c/_compete|compete]] [[a/_against|against]] in such a [[r/_race|race]].**
+- **To [[c/_compete|compete]] [[a/_against|against]] in [[s/_such|such]] a [[r/_race|race]].**
 	- _Example: I raced him to the car, but he was there first, so he got to ride shotgun._
 - **To [[m/_move|move]] or [[d/_drive|drive]] at [[h/_high|high]] [[s/_speed|speed]]; to [[h/_hurry|hurry]] or [[s/_speed|speed]].**
 	- _Example: As soon as it was time to go home, he raced for the door._

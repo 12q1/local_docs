@@ -32,7 +32,7 @@
 #noun
 - **A [[s/_slashing|slashing]] [[a/_action|action]] or [[m/_motion|motion]], [[p/_particularly|particularly]]:**
 - **A [[m/_mark|mark]] [[m/_made|made]] by a [[s/_slashing|slashing]] [[m/_motion|motion]], [[p/_particularly|particularly]]:**
-- **[[s/_something|Something]] [[r/_resembling|resembling]] such a [[m/_mark|mark]], [[p/_particularly|particularly]]:**
+- **[[s/_something|Something]] [[r/_resembling|resembling]] [[s/_such|such]] a [[m/_mark|mark]], [[p/_particularly|particularly]]:**
 - **The [[l/_loose|loose]] woody [[d/_debris|debris]] [[r/_remaining|remaining]] from a [[s/_slash|slash]], ([[p/_particularly|particularly]] [[f/_forestry|forestry]]) the trimmings [[l/_left|left]] while [[p/_preparing|preparing]] [[f/_felled|felled]] trees for [[r/_removal|removal]].**
 	- _Example: Slash generated during logging may constitute a fire hazard._
 - **[[s/_slash|Slash]] [[f/_fiction|fiction]].**
@@ -47,7 +47,7 @@
 ---
 #noun
 - **A swampy [[a/_area|area]]; a swamp.**
-- **A [[l/_large|large]] [[q/_quantity|quantity]] of watery [[f/_food|food]] such as [[b/_broth|broth]].**
+- **A [[l/_large|large]] [[q/_quantity|quantity]] of watery [[f/_food|food]] [[s/_such|such]] as [[b/_broth|broth]].**
 ---
 #noun
 - **The [[p/_period|period]] of a transitory [[b/_breeze|breeze]].**

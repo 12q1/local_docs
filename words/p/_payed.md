@@ -13,7 +13,7 @@
 	- _Example: crime doesn’t pay_
 - **To [[d/_discharge|discharge]] an [[o/_obligation|obligation]] or [[d/_debt|debt]].**
 	- _Example: He was allowed to go as soon as he paid._
-- **To suffer [[c/_consequences|consequences]].**
+- **To [[s/_suffer|suffer]] [[c/_consequences|consequences]].**
 	- _Example: He paid for his fun in the sun with a terrible sunburn._
 - **To [[a/_admit|admit]] that a [[j/_joke|joke]], punchline, [[e/_etc|etc]]., was [[f/_funny|funny]].**
 	- _Example: I'll pay that._

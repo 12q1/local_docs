@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to a [[p/_paradigm|paradigm]].**
-- **[[r/_related|Related]] as [[m/_members|members]] of a substitution [[c/_class|class]].**
+- **[[r/_related|Related]] as [[m/_members|members]] of a [[s/_substitution|substitution]] [[c/_class|class]].**
 - **[[e/_exemplary|Exemplary]].**
 ---
 ---

@@ -13,7 +13,7 @@
 - [[e/_embog|embog]], [[e/_enmire|enmire]], [[a/_affix|affix]], [[f/_fix|fix]], [[h/_host|host]], [[p/_present|present]], [[s/_support|support]], [[c/_cease|cease]], [[h/_hold|hold]]
 #noun
 - **The [[a/_act|act]] or [[m/_means|means]] by which [[s/_something|something]] is [[a/_anchored|anchored]] or [[m/_made|made]] [[f/_firm|firm]].**
-- **The tendency of [[p/_people|people]] to [[p/_place|place]] subsequently [[r/_refined|refined]] [[a/_answers|answers]] to a [[g/_given|given]] [[q/_question|question]] [[c/_close|close]] to the [[i/_initially|initially]] [[e/_estimated|estimated]] [[a/_answer|answer]], [[g/_giving|giving]] unduly weight to the [[i/_initial|initial]] [[a/_answer|answer]], such as [[a/_adjusting|adjusting]] the [[i/_initial|initial]] [[e/_estimate|estimate]] of "20%" to "30%" when "90%" would be [[m/_more|more]] [[a/_appropriate|appropriate]].**
+- **The tendency of [[p/_people|people]] to [[p/_place|place]] [[s/_subsequently|subsequently]] [[r/_refined|refined]] [[a/_answers|answers]] to a [[g/_given|given]] [[q/_question|question]] [[c/_close|close]] to the [[i/_initially|initially]] [[e/_estimated|estimated]] [[a/_answer|answer]], [[g/_giving|giving]] unduly weight to the [[i/_initial|initial]] [[a/_answer|answer]], [[s/_such|such]] as [[a/_adjusting|adjusting]] the [[i/_initial|initial]] [[e/_estimate|estimate]] of "20%" to "30%" when "90%" would be [[m/_more|more]] [[a/_appropriate|appropriate]].**
 ---
 ### Synonyms
 - [[f/_focalism|focalism]]

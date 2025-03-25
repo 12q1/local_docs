@@ -9,7 +9,7 @@
 	- _Example: What just happened must remain secret. Don't be a 'grass._
 - **[[s/_sharp|Sharp]], [[c/_closely|closely]] [[s/_spaced|spaced]] [[d/_discontinuities|discontinuities]] in the trace of a [[c/_cathode|cathode]]-[[r/_ray|ray]] tube, [[p/_produced|produced]] by [[r/_random|random]] [[i/_interference|interference]].**
 - **[[n/_noise|Noise]] on an A-[[s/_scope|scope]] or [[s/_similar|similar]] type of [[r/_radar|radar]] [[d/_display|display]].**
-- **The [[s/_season|season]] of [[f/_fresh|fresh]] [[g/_grass|grass]]; [[s/_spring|spring]] or summer.**
+- **The [[s/_season|season]] of [[f/_fresh|fresh]] [[g/_grass|grass]]; [[s/_spring|spring]] or [[s/_summer|summer]].**
 - **That which is transitory.**
 - **([[f/_folk|folk]] [[e/_etymology|etymology]]) [[a/_asparagus|Asparagus]]; "[[s/_sparrowgrass|sparrowgrass]]".**
 - **The surface of a [[m/_mine|mine]].**

@@ -21,7 +21,7 @@
 #adjective
 - **Used in [[p/_proving|proving]] or testing.**
 	- _Example: a proof load; a proof charge_
-- **[[f/_firm|Firm]] or successful in [[r/_resisting|resisting]].**
+- **[[f/_firm|Firm]] or [[s/_successful|successful]] in [[r/_resisting|resisting]].**
 	- _Example: proof against harm_
 - **(of [[a/_alcoholic|alcoholic]] [[l/_liquors|liquors]]) [[b/_being|Being]] of a [[c/_certain|certain]] [[s/_standard|standard]] as to [[a/_alcohol|alcohol]] [[c/_content|content]].**
 ---

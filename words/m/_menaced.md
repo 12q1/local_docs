@@ -7,6 +7,6 @@
 - **To [[e/_endanger|endanger]] ([[s/_someone|someone]] or [[s/_something|something]]); to [[i/_imperil|imperil]] or [[j/_jeopardize|jeopardize]].**
 ---
 #adjective
-- **Subject to [[m/_menaces|menaces]]; threatened**
+- **[[s/_subject|Subject]] to [[m/_menaces|menaces]]; threatened**
 ---
 ---

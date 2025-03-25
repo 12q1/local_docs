@@ -1,7 +1,7 @@
 # Litters
 ---
 #noun
-- **A [[p/_platform|platform]] [[m/_mounted|mounted]] on two [[s/_shafts|shafts]], or a [[m/_more|more]] [[e/_elaborate|elaborate]] [[c/_construction|construction]], [[d/_designed|designed]] to be [[c/_carried|carried]] by two (or [[m/_more|more]]) [[p/_people|people]] to transport [[o/_one|one]] (in [[l/_luxury|luxury]] [[m/_models|models]] [[s/_sometimes|sometimes]] [[m/_more|more]]) third [[p/_person|person]]([[s/_s|s]]) or ([[o/_occasionally|occasionally]] in the [[e/_elaborate|elaborate]] version) a [[c/_cargo|cargo]], such as a [[r/_religious|religious]] [[i/_idol|idol]].**
+- **A [[p/_platform|platform]] [[m/_mounted|mounted]] on two [[s/_shafts|shafts]], or a [[m/_more|more]] [[e/_elaborate|elaborate]] [[c/_construction|construction]], [[d/_designed|designed]] to be [[c/_carried|carried]] by two (or [[m/_more|more]]) [[p/_people|people]] to transport [[o/_one|one]] (in [[l/_luxury|luxury]] [[m/_models|models]] [[s/_sometimes|sometimes]] [[m/_more|more]]) third [[p/_person|person]]([[s/_s|s]]) or ([[o/_occasionally|occasionally]] in the [[e/_elaborate|elaborate]] version) a [[c/_cargo|cargo]], [[s/_such|such]] as a [[r/_religious|religious]] [[i/_idol|idol]].**
 - **([[c/_collective|collective]]) The [[o/_offspring|offspring]] of a [[m/_mammal|mammal]] [[b/_born|born]] in [[o/_one|one]] [[b/_birth|birth]].**
 - **[[m/_material|Material]] used as [[b/_bedding|bedding]] for [[a/_animals|animals]].**
 	- _Example: sleep in the litter_

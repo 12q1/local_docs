@@ -11,14 +11,14 @@
 #verb
 - **To [[p/_plate|plate]] with [[b/_bronze|bronze]].**
 	- _Example: My mother bronzed my first pair of baby shoes._
-- **To [[c/_color|color]] [[b/_bronze|bronze]]; (of the sun) to tan.**
-- **(of the [[s/_skin|skin]]) To [[c/_change|change]] to a [[b/_bronze|bronze]] or tan [[c/_colour|colour]] [[d/_due|due]] to [[e/_exposure|exposure]] to the sun.**
+- **To [[c/_color|color]] [[b/_bronze|bronze]]; (of the [[s/_sun|sun]]) to tan.**
+- **(of the [[s/_skin|skin]]) To [[c/_change|change]] to a [[b/_bronze|bronze]] or tan [[c/_colour|colour]] [[d/_due|due]] to [[e/_exposure|exposure]] to the [[s/_sun|sun]].**
 - **To [[m/_make|make]] [[h/_hard|hard]] or unfeeling; to [[b/_brazen|brazen]].**
 ---
 #adjective
 - **[[m/_made|Made]] of [[b/_bronze|bronze]] [[m/_metal|metal]].**
 - **[[h/_having|Having]] a [[r/_reddish|reddish]]-[[b/_brown|brown]] [[c/_colour|colour]].**
-- **(of the [[s/_skin|skin]]) Tanned; [[d/_darkened|darkened]] as a [[r/_result|result]] of [[e/_exposure|exposure]] to the sun.**
+- **(of the [[s/_skin|skin]]) Tanned; [[d/_darkened|darkened]] as a [[r/_result|result]] of [[e/_exposure|exposure]] to the [[s/_sun|sun]].**
 ---
 ### Synonyms
 - [[b/_bronzen|bronzen]]

@@ -8,7 +8,7 @@
 - **An [[o/_old|old]] [[g/_gentleman|gentleman]].**
 	- _Example: You are a shrewd antiquity, neighbor Clench. —B. Jonson._
 - **([[h/_history|history]]) The [[h/_historical|historical]] [[p/_period|period]] [[p/_preceding|preceding]] the [[m/_middle|Middle]] [[a/_ages|Ages]] ([[c/_c|c]]. 500-1500), [[p/_primarily|primarily]] [[r/_relating|relating]] to [[e/_european|European]] [[h/_history|history]].**
-- **([[o/_often|often]] [[c/_constructed|constructed]] as an uncountable [[p/_plural|plural]]) A [[r/_relic|relic]] or [[m/_monument|monument]] of [[a/_ancient|ancient]] times, such as a [[c/_coin|coin]], a [[s/_statue|statue]], [[e/_etc|etc]].; an [[a/_ancient|ancient]] [[i/_institution|institution]].**
+- **([[o/_often|often]] [[c/_constructed|constructed]] as an uncountable [[p/_plural|plural]]) A [[r/_relic|relic]] or [[m/_monument|monument]] of [[a/_ancient|ancient]] times, [[s/_such|such]] as a [[c/_coin|coin]], a [[s/_statue|statue]], [[e/_etc|etc]].; an [[a/_ancient|ancient]] [[i/_institution|institution]].**
 - **The [[s/_state|state]] of [[b/_being|being]] [[a/_ancient|ancient]] or of [[a/_ancient|ancient]] [[l/_lineage|lineage]].**
 ---
 ---

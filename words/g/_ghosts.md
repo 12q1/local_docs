@@ -28,7 +28,7 @@
 	- _Example: ghost pain; ghost cellphone vibration; ghost island; ghost voter_
 - **Of cryptid, supernatural or [[e/_extraterrestrial|extraterrestrial]] [[n/_nature|nature]].**
 	- _Example: ghost rocket; ghost deer; ghost cat_
-- **Substitute.**
+- **[[s/_substitute|Substitute]].**
 	- _Example: ghost writer; ghost band; ghost singer_
 ---
 ### Synonyms

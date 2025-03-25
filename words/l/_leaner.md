@@ -6,7 +6,7 @@
 	- _Example: lean steak cuts_
 - **[[h/_having|Having]] [[l/_little|little]] [[e/_extra|extra]] or [[l/_little|little]] to [[s/_spare|spare]]; [[s/_scanty|scanty]]; [[m/_meagre|meagre]].**
 	- _Example: a lean budget_
-- **[[h/_having|Having]] a [[l/_low|low]] [[p/_proportion|proportion]] or [[c/_concentration|concentration]] of a [[d/_desired|desired]] substance or [[i/_ingredient|ingredient]].**
+- **[[h/_having|Having]] a [[l/_low|low]] [[p/_proportion|proportion]] or [[c/_concentration|concentration]] of a [[d/_desired|desired]] [[s/_substance|substance]] or [[i/_ingredient|ingredient]].**
 	- _Example: A lean ore hardly worth mining._
 - **Of a [[c/_character|character]] which [[p/_prevents|prevents]] the [[c/_compositor|compositor]] from [[e/_earning|earning]] the usual wages; [[o/_opposed|opposed]] to [[f/_fat|fat]].**
 	- _Example: lean copy, matter, or type_

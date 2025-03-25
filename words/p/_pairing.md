@@ -5,7 +5,7 @@
 	- _Example: The wedding guests were paired boy/girl and groom's party/bride's party._
 - **To [[b/_bring|bring]] two ([[a/_animals|animals]], [[n/_notably|notably]] [[d/_dogs|dogs]]) together for [[m/_mating|mating]].**
 - **To [[e/_engage|engage]] ([[o/_oneself|oneself]]) with [[a/_another|another]] of [[o/_opposite|opposite]] [[o/_opinions|opinions]] not to vote on a [[p/_particular|particular]] [[q/_question|question]] or [[c/_class|class]] of [[q/_questions|questions]].**
-- **To suit; to [[f/_fit|fit]], as a [[c/_counterpart|counterpart]].**
+- **To [[s/_suit|suit]]; to [[f/_fit|fit]], as a [[c/_counterpart|counterpart]].**
 ---
 #verb
 - **To [[i/_impair|impair]], to [[m/_make|make]] worse.**

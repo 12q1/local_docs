@@ -21,7 +21,7 @@
 ---
 #adjective
 - **[[d/_discoloured|Discoloured]] by [[s/_spots|spots]]; [[s/_stained|stained]].**
-- **([[n/_no|no]] [[c/_comparative|comparative]] or superlative) [[c/_characterized|Characterized]] by [[s/_spots|spots]] (used [[e/_especially|especially]] of [[a/_animals|animals]] and [[p/_plants|plants]]).**
+- **([[n/_no|no]] [[c/_comparative|comparative]] or [[s/_superlative|superlative]]) [[c/_characterized|Characterized]] by [[s/_spots|spots]] (used [[e/_especially|especially]] of [[a/_animals|animals]] and [[p/_plants|plants]]).**
 	- _Example: the spotted hyena_
 ---
 ### Synonyms

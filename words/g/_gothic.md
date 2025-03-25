@@ -10,7 +10,7 @@
 - **Of the [[n/_name|name]] of type [[f/_formerly|formerly]] used to [[p/_print|print]], at [[l/_last|last]], [[g/_german|German]], [[a/_also|also]] [[k/_known|known]] as [[b/_black|black]] [[l/_letter|letter]].**
 	- _Example: Gothic letters_
 - **Of a [[s/_sans|sans]] [[s/_serif|serif]] typeface using [[s/_straight|straight]], [[e/_even|even]]-width [[l/_lines|lines]], [[a/_also|also]] [[k/_known|known]] as [[g/_grotesque|grotesque]].**
-- **Of or [[r/_relating|relating]] to the [[g/_goth|goth]] subculture, [[m/_music|music]] or [[l/_lifestyle|lifestyle]].**
+- **Of or [[r/_relating|relating]] to the [[g/_goth|goth]] [[s/_subculture|subculture]], [[m/_music|music]] or [[l/_lifestyle|lifestyle]].**
 	- _Example: Gothic dress_
 ---
 ### Synonyms

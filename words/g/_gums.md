@@ -10,8 +10,8 @@
 - **To [[d/_deepen|deepen]] and [[e/_enlarge|enlarge]] the [[s/_spaces|spaces]] [[b/_between|between]] the teeth of (a worn [[s/_saw|saw]]), as with a [[g/_gummer|gummer]].**
 ---
 #noun
-- **[[a/_any|Any]] of various viscous or [[s/_sticky|sticky]] substances that are [[e/_exuded|exuded]] by [[c/_certain|certain]] [[p/_plants|plants]].**
-- **[[a/_any|Any]] viscous or [[s/_sticky|sticky]] substance [[r/_resembling|resembling]] those that are [[e/_exuded|exuded]] by [[c/_certain|certain]] [[p/_plants|plants]].**
+- **[[a/_any|Any]] of various viscous or [[s/_sticky|sticky]] [[s/_substances|substances]] that are [[e/_exuded|exuded]] by [[c/_certain|certain]] [[p/_plants|plants]].**
+- **[[a/_any|Any]] viscous or [[s/_sticky|sticky]] [[s/_substance|substance]] [[r/_resembling|resembling]] those that are [[e/_exuded|exuded]] by [[c/_certain|certain]] [[p/_plants|plants]].**
 - **[[c/_chewing|Chewing]] [[g/_gum|gum]].**
 - **A [[s/_single|single]] [[p/_piece|piece]] of [[c/_chewing|chewing]] [[g/_gum|gum]].**
 	- _Example: Do you have a gum to spare?_
@@ -22,7 +22,7 @@
 - **A [[g/_gum|gum]] tree.**
 ---
 #verb
-- **([[s/_sometimes|sometimes]] with up) To [[a/_apply|apply]] an [[a/_adhesive|adhesive]] or [[g/_gum|gum]] to; to [[m/_make|make]] [[s/_sticky|sticky]] by [[a/_applying|applying]] a [[s/_sticky|sticky]] substance to.**
+- **([[s/_sometimes|sometimes]] with up) To [[a/_apply|apply]] an [[a/_adhesive|adhesive]] or [[g/_gum|gum]] to; to [[m/_make|make]] [[s/_sticky|sticky]] by [[a/_applying|applying]] a [[s/_sticky|sticky]] [[s/_substance|substance]] to.**
 - **To [[s/_stiffen|stiffen]] with [[g/_glue|glue]] or [[g/_gum|gum]].**
 - **([[s/_sometimes|sometimes]] with together) To [[i/_inelegantly|inelegantly]] [[a/_attach|attach]] [[i/_into|into]] a [[s/_sequence|sequence]].**
 - **(with up) To [[i/_impair|impair]] the [[f/_functioning|functioning]] of a thing or [[p/_process|process]].**

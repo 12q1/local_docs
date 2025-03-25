@@ -10,7 +10,7 @@
 	- _Example: He has got his badge, and piked: He was burned in the hand, and is at liberty._
 - **A [[c/_carved|carved]] [[o/_ornament|ornament]] on the [[s/_stern|stern]] of a vessel, [[c/_containing|containing]] a window or the [[r/_representation|representation]] of [[o/_one|one]].**
 - **A [[d/_distinctive|distinctive]] [[m/_mark|mark]] worn by [[s/_servants|servants]], [[r/_retainers|retainers]], and [[f/_followers|followers]] of [[r/_royalty|royalty]] or [[n/_nobility|nobility]], who, [[b/_being|being]] [[b/_beneath|beneath]] the [[r/_rank|rank]] of [[g/_gentlemen|gentlemen]], [[h/_have|have]] [[n/_no|no]] [[r/_right|right]] to [[a/_armorial|armorial]] [[b/_bearings|bearings]].**
-- **A [[s/_small|small]] [[o/_overlay|overlay]] on an [[i/_icon|icon]] that [[s/_shows|shows]] [[a/_additional|additional]] [[i/_information|information]] [[a/_about|about]] that [[i/_item|item]], such as the [[n/_number|number]] of [[n/_new|new]] [[a/_alerts|alerts]] or [[m/_messages|messages]].**
+- **A [[s/_small|small]] [[o/_overlay|overlay]] on an [[i/_icon|icon]] that [[s/_shows|shows]] [[a/_additional|additional]] [[i/_information|information]] [[a/_about|about]] that [[i/_item|item]], [[s/_such|such]] as the [[n/_number|number]] of [[n/_new|new]] [[a/_alerts|alerts]] or [[m/_messages|messages]].**
 - **An [[i/_icon|icon]] or [[e/_emblem|emblem]] [[a/_awarded|awarded]] to a user for [[s/_some|some]] [[a/_achievement|achievement]].**
 	- _Example: When you have checked in to the site from ten different cities, you unlock the Traveller badge._
 ---

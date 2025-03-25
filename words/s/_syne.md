@@ -1,7 +1,7 @@
 # Syne
 ---
 #adverb
-- **Subsequently; then.**
+- **[[s/_subsequently|Subsequently]]; then.**
 - **[[b/_before|Before]] [[n/_now|now]]; [[a/_ago|ago]].**
 - **[[l/_late|Late]]**
 ---

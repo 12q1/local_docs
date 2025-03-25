@@ -6,9 +6,9 @@
 - **[[m/_money|Money]] [[p/_placed|placed]] in an [[a/_account|account]].**
 - **[[a/_anything|Anything]] [[l/_left|left]] [[b/_behind|behind]] on a surface.**
 	- _Example: a deposit of seaweed on the shore_
-- **A sum of [[m/_money|money]] or [[o/_other|other]] [[a/_asset|asset]] [[g/_given|given]] as an [[i/_initial|initial]] [[p/_payment|payment]], to [[s/_show|show]] [[g/_good|good]] [[f/_faith|faith]], or to [[r/_reserve|reserve]] [[s/_something|something]] for [[p/_purchase|purchase]].**
+- **A [[s/_sum|sum]] of [[m/_money|money]] or [[o/_other|other]] [[a/_asset|asset]] [[g/_given|given]] as an [[i/_initial|initial]] [[p/_payment|payment]], to [[s/_show|show]] [[g/_good|good]] [[f/_faith|faith]], or to [[r/_reserve|reserve]] [[s/_something|something]] for [[p/_purchase|purchase]].**
 	- _Example: They put a deposit on the apartment._
-- **A sum of [[m/_money|money]] [[g/_given|given]] as a [[s/_security|security]] for a [[b/_borrowed|borrowed]] [[i/_item|item]], which will be [[g/_given|given]] [[b/_back|back]] when the [[i/_item|item]] is [[r/_returned|returned]], [[e/_e|e]].[[g/_g|g]]. a [[b/_bottle|bottle]] [[d/_deposit|deposit]] or [[c/_can|can]] [[d/_deposit|deposit]]**
+- **A [[s/_sum|sum]] of [[m/_money|money]] [[g/_given|given]] as a [[s/_security|security]] for a [[b/_borrowed|borrowed]] [[i/_item|item]], which will be [[g/_given|given]] [[b/_back|back]] when the [[i/_item|item]] is [[r/_returned|returned]], [[e/_e|e]].[[g/_g|g]]. a [[b/_bottle|bottle]] [[d/_deposit|deposit]] or [[c/_can|can]] [[d/_deposit|deposit]]**
 - **A [[p/_place|place]] of [[d/_deposit|deposit]]; a [[d/_depository|depository]].**
 ---
 #verb

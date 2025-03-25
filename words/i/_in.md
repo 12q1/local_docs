@@ -36,11 +36,11 @@
 - **[[c/_currently|Currently]] [[b/_batting|batting]].**
 - **[[h/_having|Having]] [[f/_familiarity|familiarity]] or [[i/_involvement|involvement]] with [[s/_somebody|somebody]].**
 	- _Example: He is very in with the Joneses._
-- **[[h/_having|Having]] a [[f/_favourable|favourable]] [[p/_position|position]], such as a [[p/_position|position]] of [[i/_influence|influence]] or [[e/_expected|expected]] [[g/_gain|gain]], in [[r/_relation|relation]] to [[a/_another|another]] [[p/_person|person]].**
+- **[[h/_having|Having]] a [[f/_favourable|favourable]] [[p/_position|position]], [[s/_such|such]] as a [[p/_position|position]] of [[i/_influence|influence]] or [[e/_expected|expected]] [[g/_gain|gain]], in [[r/_relation|relation]] to [[a/_another|another]] [[p/_person|person]].**
 	- _Example: I think that bird fancies you. You're in there, mate!_
 ---
 #adverb
-- **At or towards the [[i/_interior|interior]] of a [[d/_defined|defined]] [[s/_space|space]], such as a [[b/_building|building]] or [[r/_room|room]].**
+- **At or towards the [[i/_interior|interior]] of a [[d/_defined|defined]] [[s/_space|space]], [[s/_such|such]] as a [[b/_building|building]] or [[r/_room|room]].**
 	- _Example: He ran to the edge of the swimming pool and dived in._
 - **Towards the [[s/_speaker|speaker]] or [[o/_other|other]] [[r/_reference|reference]] [[p/_point|point]].**
 	- _Example: For six hours the tide flows in, then for another six hours it flows out._
@@ -50,7 +50,7 @@
 	- _Example: He went for the wild toss but wasn't able to stay in._
 - **[[a/_after|After]] the [[b/_beginning|beginning]] of [[s/_something|something]].**
 	- _Example: The show still didn't become interesting 20 minutes in._
-- **(in [[c/_combination|combination]], [[a/_after|after]] a verb) [[d/_denotes|Denotes]] a [[g/_gathering|gathering]] of [[p/_people|people]] [[a/_assembled|assembled]] for the [[s/_stated|stated]] [[a/_activity|activity]], [[s/_sometimes|sometimes]], though not [[a/_always|always]], suggesting a [[p/_protest|protest]].**
+- **(in [[c/_combination|combination]], [[a/_after|after]] a verb) [[d/_denotes|Denotes]] a [[g/_gathering|gathering]] of [[p/_people|people]] [[a/_assembled|assembled]] for the [[s/_stated|stated]] [[a/_activity|activity]], [[s/_sometimes|sometimes]], though not [[a/_always|always]], [[s/_suggesting|suggesting]] a [[p/_protest|protest]].**
 ---
 #preposition
 - **Used to [[i/_indicate|indicate]] [[l/_location|location]], [[i/_inclusion|inclusion]], or [[p/_position|position]] within [[s/_spatial|spatial]], temporal or [[o/_other|other]] [[l/_limits|limits]].**

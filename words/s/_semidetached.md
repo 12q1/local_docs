@@ -1,7 +1,7 @@
 # Semidetached
 ---
 #noun
-- **Such a [[h/_house|house]].**
+- **[[s/_such|Such]] a [[h/_house|house]].**
 ---
 ### Synonyms
 - [[d/_duplex|duplex]], [[s/_semi|semi]]

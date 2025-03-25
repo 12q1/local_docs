@@ -28,13 +28,13 @@
 - **An [[a/_attack|attack]] [[m/_made|made]] with a [[c/_chopping|chopping]] [[m/_motion|motion]] of the [[b/_blade|blade]], [[l/_landing|landing]] with [[i/_its|its]] [[e/_edge|edge]] or [[p/_point|point]].**
 - **A [[d/_deliberate|deliberate]] [[s/_snub|snub]], typically a [[r/_refusal|refusal]] to [[r/_return|return]] a [[b/_bow|bow]] or [[o/_other|other]] [[a/_acknowledgement|acknowledgement]] of [[a/_acquaintance|acquaintance]].**
 - **An unkind [[a/_act|act]]; a [[c/_cruelty|cruelty]].**
-- **A [[d/_definable|definable]] [[p/_part|part]], such as an [[i/_individual|individual]] [[s/_song|song]], of a [[r/_recording|recording]], [[p/_particularly|particularly]] of [[c/_commercial|commercial]] [[r/_records|records]], [[a/_audio|audio]] tapes, CDs, [[e/_etc|etc]].**
+- **A [[d/_definable|definable]] [[p/_part|part]], [[s/_such|such]] as an [[i/_individual|individual]] [[s/_song|song]], of a [[r/_recording|recording]], [[p/_particularly|particularly]] of [[c/_commercial|commercial]] [[r/_records|records]], [[a/_audio|audio]] tapes, CDs, [[e/_etc|etc]].**
 	- _Example: The drummer on the last cut of their CD is not identified._
-- **A truncation, a [[c/_context|context]] that [[r/_represents|represents]] a [[m/_moment|moment]] in time when [[o/_other|other]] [[a/_archaeological|archaeological]] [[d/_deposits|deposits]] were [[r/_removed|removed]] for the [[c/_creation|creation]] of [[s/_some|some]] [[f/_feature|feature]] such as a [[d/_ditch|ditch]] or [[p/_pit|pit]].**
+- **A truncation, a [[c/_context|context]] that [[r/_represents|represents]] a [[m/_moment|moment]] in time when [[o/_other|other]] [[a/_archaeological|archaeological]] [[d/_deposits|deposits]] were [[r/_removed|removed]] for the [[c/_creation|creation]] of [[s/_some|some]] [[f/_feature|feature]] [[s/_such|such]] as a [[d/_ditch|ditch]] or [[p/_pit|pit]].**
 - **A [[h/_haircut|haircut]].**
-- **The [[p/_partition|partition]] of a [[g/_graph|graph]]’[[s/_s|s]] vertices [[i/_into|into]] two subgroups.**
+- **The [[p/_partition|partition]] of a [[g/_graph|graph]]’[[s/_s|s]] vertices [[i/_into|into]] two [[s/_subgroups|subgroups]].**
 - **A [[s/_string|string]] of [[r/_railway|railway]] [[c/_cars|cars]] [[c/_coupled|coupled]] together.**
-- **An [[e/_engraved|engraved]] [[b/_block|block]] or [[p/_plate|plate]]; the [[i/_impression|impression]] from such an [[e/_engraving|engraving]].**
+- **An [[e/_engraved|engraved]] [[b/_block|block]] or [[p/_plate|plate]]; the [[i/_impression|impression]] from [[s/_such|such]] an [[e/_engraving|engraving]].**
 	- _Example: a book illustrated with fine cuts_
 - **A [[c/_common|common]] workhorse; a [[g/_gelding|gelding]].**
 - **The [[f/_failure|failure]] of a [[c/_college|college]] [[o/_officer|officer]] or [[s/_student|student]] to be [[p/_present|present]] at [[a/_any|any]] [[a/_appointed|appointed]] [[e/_exercise|exercise]].**
@@ -58,11 +58,11 @@
 	- _Example: Select the text, cut it, and then paste it in the other application._
 - **To [[e/_enter|enter]] a [[q/_queue|queue]] in the wrong [[p/_place|place]].**
 	- _Example: One student kept trying to cut in front of the line._
-- **To [[i/_intersect|intersect]] or [[c/_cross|cross]] in such a way as to [[d/_divide|divide]] in [[h/_half|half]] or [[n/_nearly|nearly]] [[s/_so|so]].**
+- **To [[i/_intersect|intersect]] or [[c/_cross|cross]] in [[s/_such|such]] a way as to [[d/_divide|divide]] in [[h/_half|half]] or [[n/_nearly|nearly]] [[s/_so|so]].**
 	- _Example: This road cuts right through downtown._
 - **To [[m/_make|make]] the [[b/_ball|ball]] [[s/_spin|spin]] [[s/_sideways|sideways]] by [[r/_running|running]] [[o/_one|one]]'[[s/_s|s]] [[f/_fingers|fingers]] [[d/_down|down]] the [[s/_side|side]] of the [[b/_ball|ball]] while [[b/_bowling|bowling]] it.**
 - **To [[d/_deflect|deflect]] (a [[b/_bowled|bowled]] [[b/_ball|ball]]) to the [[o/_off|off]], with a [[c/_chopping|chopping]] [[m/_movement|movement]] of the [[b/_bat|bat]].**
-- **To [[c/_change|change]] [[d/_direction|direction]] suddenly.**
+- **To [[c/_change|change]] [[d/_direction|direction]] [[s/_suddenly|suddenly]].**
 	- _Example: The football player cut to his left to evade a tackle._
 - **To [[d/_divide|divide]] a [[p/_pack|pack]] of [[p/_playing|playing]] [[c/_cards|cards]] [[i/_into|into]] two.**
 	- _Example: If you cut then I'll deal._
@@ -86,7 +86,7 @@
 - **(of a [[g/_gem|gem]]) [[c/_carved|Carved]] [[i/_into|into]] a [[s/_shape|shape]]; not [[r/_raw|raw]].**
 - **(of a [[s/_shot|shot]]) [[p/_played|Played]] with a [[h/_horizontal|horizontal]] [[b/_bat|bat]] to [[h/_hit|hit]] the [[b/_ball|ball]] [[b/_backward|backward]] of [[p/_point|point]].**
 - **[[h/_having|Having]] [[m/_muscular|muscular]] [[d/_definition|definition]] in which [[i/_individual|individual]] [[g/_groups|groups]] of [[m/_muscle|muscle]] [[f/_fibers|fibers]] [[s/_stand|stand]] [[o/_out|out]] [[a/_among|among]] [[l/_larger|larger]] [[m/_muscles|muscles]].**
-- **[[c/_circumcised|Circumcised]] or [[h/_having|having]] [[b/_been|been]] the subject of [[f/_female|female]] [[g/_genital|genital]] [[m/_mutilation|mutilation]]**
+- **[[c/_circumcised|Circumcised]] or [[h/_having|having]] [[b/_been|been]] the [[s/_subject|subject]] of [[f/_female|female]] [[g/_genital|genital]] [[m/_mutilation|mutilation]]**
 - **[[e/_emotionally|Emotionally]] [[h/_hurt|hurt]].**
 - **[[e/_eliminated|Eliminated]] from [[c/_consideration|consideration]] [[d/_during|during]] a [[r/_recruitment|recruitment]] [[d/_drive|drive]].**
 - **[[r/_removed|Removed]] from a team [[r/_roster|roster]].**

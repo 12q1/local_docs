@@ -3,7 +3,7 @@
 #noun
 - **The [[s/_spectral|spectral]] [[c/_composition|composition]] of visible [[l/_light|light]]**
 	- _Example: Humans and birds can perceive color._
-- **A subset thereof:**
+- **A [[s/_subset|subset]] thereof:**
 - **A [[p/_paint|paint]].**
 	- _Example: The artist took out her colors and began work on a landscape._
 - **[[h/_human|Human]] [[s/_skin|skin]] tone, [[e/_especially|especially]] as an [[i/_indicator|indicator]] of [[r/_race|race]] or [[e/_ethnicity|ethnicity]].**

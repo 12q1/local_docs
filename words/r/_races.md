@@ -7,7 +7,7 @@
 - **A [[r/_race|race]] [[c/_condition|condition]].**
 - **A [[p/_progressive|progressive]] [[m/_movement|movement]] toward a [[g/_goal|goal]].**
 	- _Example: the race to cure cancer_
-- **A [[f/_fast|fast]]-[[m/_moving|moving]] [[c/_current|current]] of water, such as that which [[p/_powers|powers]] a [[m/_mill|mill]] wheel.**
+- **A [[f/_fast|fast]]-[[m/_moving|moving]] [[c/_current|current]] of water, [[s/_such|such]] as that which [[p/_powers|powers]] a [[m/_mill|mill]] wheel.**
 - **A water [[c/_channel|channel]], [[e/_esp|esp]]. [[o/_one|one]] [[b/_built|built]] to [[l/_lead|lead]] water to or from a [[p/_point|point]] where it is utilised.**
 - **[[c/_competitive|Competitive]] [[a/_action|action]] of [[a/_any|any]] [[k/_kind|kind]], [[e/_especially|especially]] when [[p/_prolonged|prolonged]]; [[h/_hence|hence]], [[c/_career|career]]; [[c/_course|course]] of [[l/_life|life]].**
 - **The [[b/_bushings|bushings]] of a [[r/_rolling|rolling]] [[e/_element|element]] [[b/_bearing|bearing]] which [[c/_contacts|contacts]] the [[r/_rolling|rolling]] [[e/_elements|elements]].**
@@ -15,7 +15,7 @@
 #verb
 - **To take [[p/_part|part]] in a [[r/_race|race]] (in the [[s/_sense|sense]] of a [[c/_contest|contest]]).**
 	- _Example: The drivers were racing around the track._
-- **To [[c/_compete|compete]] [[a/_against|against]] in such a [[r/_race|race]].**
+- **To [[c/_compete|compete]] [[a/_against|against]] in [[s/_such|such]] a [[r/_race|race]].**
 	- _Example: I raced him to the car, but he was there first, so he got to ride shotgun._
 - **To [[m/_move|move]] or [[d/_drive|drive]] at [[h/_high|high]] [[s/_speed|speed]]; to [[h/_hurry|hurry]] or [[s/_speed|speed]].**
 	- _Example: As soon as it was time to go home, he raced for the door._
@@ -23,7 +23,7 @@
 ---
 #noun
 - **A [[g/_group|group]] of [[s/_sentient|sentient]] [[b/_beings|beings]], [[p/_particularly|particularly]] [[p/_people|people]], [[d/_distinguished|distinguished]] by [[c/_common|common]] [[a/_ancestry|ancestry]], [[h/_heritage|heritage]] or [[c/_characteristics|characteristics]]:**
-- **A [[p/_population|population]] [[g/_geographically|geographically]] [[s/_separated|separated]] from [[o/_others|others]] of [[i/_its|its]] [[s/_species|species]] that [[d/_develops|develops]] [[s/_significantly|significantly]] [[d/_different|different]] [[c/_characteristics|characteristics]]; an [[i/_informal|informal]] term for a subspecies.**
+- **A [[p/_population|population]] [[g/_geographically|geographically]] [[s/_separated|separated]] from [[o/_others|others]] of [[i/_its|its]] [[s/_species|species]] that [[d/_develops|develops]] [[s/_significantly|significantly]] [[d/_different|different]] [[c/_characteristics|characteristics]]; an [[i/_informal|informal]] term for a [[s/_subspecies|subspecies]].**
 - **A [[b/_breed|breed]] or [[s/_strain|strain]] of [[d/_domesticated|domesticated]] [[a/_animal|animal]].**
 - **A [[c/_category|category]] or [[s/_species|species]] of [[s/_something|something]] that [[h/_has|has]] [[e/_emerged|emerged]] or [[e/_evolved|evolved]] from an [[o/_older|older]] [[o/_one|one]] (with an [[i/_implied|implied]] [[p/_parallel|parallel]] to [[a/_animal|animal]] [[b/_breeding|breeding]] or [[e/_evolutionary|evolutionary]] [[s/_science|science]]).**
 	- _Example: Recent developments in artificial intelligence has brought about a new race of robots that can perform household chores without supervision._

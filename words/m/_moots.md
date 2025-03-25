@@ -15,7 +15,7 @@
 	- _Example: No, there's no moot of it on the streets._
 ---
 #verb
-- **To [[b/_bring|bring]] up as a subject for [[d/_debate|debate]], to [[p/_propose|propose]].**
+- **To [[b/_bring|bring]] up as a [[s/_subject|subject]] for [[d/_debate|debate]], to [[p/_propose|propose]].**
 - **To [[d/_discuss|discuss]] or [[d/_debate|debate]].**
 - **To [[m/_make|make]] or [[d/_declare|declare]] [[i/_irrelevant|irrelevant]].**
 - **To [[a/_argue|argue]] or [[p/_plead|plead]] in a supposed [[c/_case|case]].**

@@ -19,6 +19,6 @@
 ### Antonyms
 - [[d/_decensor|decensor]]
 #noun
-- **A [[h/_hypothetical|hypothetical]] subconscious [[a/_agency|agency]] which [[f/_filters|filters]] unacceptable thought [[b/_before|before]] it [[r/_reaches|reaches]] the [[c/_conscious|conscious]] [[m/_mind|mind]].**
+- **A [[h/_hypothetical|hypothetical]] [[s/_subconscious|subconscious]] [[a/_agency|agency]] which [[f/_filters|filters]] unacceptable thought [[b/_before|before]] it [[r/_reaches|reaches]] the [[c/_conscious|conscious]] [[m/_mind|mind]].**
 ---
 ---

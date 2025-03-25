@@ -5,6 +5,6 @@
 - **[[s/_something|Something]] that is [[r/_revealed|revealed]].**
 - **[[s/_something|Something]] [[d/_dramatically|dramatically]] [[d/_disclosed|disclosed]].**
 - **A [[m/_manifestation|manifestation]] of [[d/_divine|divine]] truth.**
-- **A [[g/_great|great]] success.**
+- **A [[g/_great|great]] [[s/_success|success]].**
 ---
 ---

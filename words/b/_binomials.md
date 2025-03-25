@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_polynomial|polynomial]] with two terms.**
-- **A [[q/_quantity|quantity]] [[e/_expressed|expressed]] as the sum or [[d/_difference|difference]] of two terms.**
+- **A [[q/_quantity|quantity]] [[e/_expressed|expressed]] as the [[s/_sum|sum]] or [[d/_difference|difference]] of two terms.**
 - **A [[s/_scientific|scientific]] [[n/_name|name]] at the [[r/_rank|rank]] of [[s/_species|species]], with two terms: a [[g/_generic|generic]] [[n/_name|name]] and a [[s/_specific|specific]] [[n/_name|name]].**
 ---
 ### Synonyms

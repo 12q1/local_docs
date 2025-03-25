@@ -5,7 +5,7 @@
 - **To [[h/_heat|heat]] as with [[f/_fire|fire]], but without [[s/_setting|setting]] on [[f/_fire|fire]], as [[c/_ceramic|ceramic]], [[m/_metal|metal]] [[o/_objects|objects]], [[e/_etc|etc]].**
 	- _Example: If you fire the pottery at too high a temperature, it may crack._
 - **To [[d/_drive|drive]] [[a/_away|away]] by [[s/_setting|setting]] a [[f/_fire|fire]].**
-- **To terminate the [[e/_employment|employment]] [[c/_contract|contract]] of (an [[e/_employee|employee]]), [[e/_especially|especially]] for [[c/_cause|cause]] (such as [[m/_misconduct|misconduct]] or [[p/_poor|poor]] [[p/_performance|performance]]).**
+- **To terminate the [[e/_employment|employment]] [[c/_contract|contract]] of (an [[e/_employee|employee]]), [[e/_especially|especially]] for [[c/_cause|cause]] ([[s/_such|such]] as [[m/_misconduct|misconduct]] or [[p/_poor|poor]] [[p/_performance|performance]]).**
 - **To [[s/_shoot|shoot]] (a [[g/_gun|gun]] or [[a/_analogous|analogous]] [[d/_device|device]]).**
 	- _Example: He fired his radar gun at passing cars._
 - **To [[s/_shoot|shoot]] a [[g/_gun|gun]], [[c/_cannon|cannon]], or [[s/_similar|similar]] weapon.**

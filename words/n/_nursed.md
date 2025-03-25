@@ -1,7 +1,7 @@
 # Nursed
 ---
 #verb
-- **To breastfeed: to [[f/_feed|feed]] (a [[b/_baby|baby]]) at the [[b/_breast|breast]]; to suckle.**
+- **To breastfeed: to [[f/_feed|feed]] (a [[b/_baby|baby]]) at the [[b/_breast|breast]]; to [[s/_suckle|suckle]].**
 	- _Example: She believes that nursing her baby will make him strong and healthy._
 - **To breastfeed: to be [[f/_fed|fed]] at the [[b/_breast|breast]].**
 - **To [[c/_care|care]] for ([[s/_someone|someone]]), [[e/_especially|especially]] in [[s/_sickness|sickness]]; to tend to.**

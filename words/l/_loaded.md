@@ -13,7 +13,7 @@
 	- _Example: The containers load quickly and easily._
 - **To [[f/_fill|fill]] (a [[f/_firearm|firearm]] or [[a/_artillery|artillery]]) with [[m/_munition|munition]].**
 	- _Example: I pulled the trigger, but nothing happened. I had forgotten to load the gun._
-- **To [[i/_insert|insert]] (an [[i/_item|item]] or [[i/_items|items]]) [[i/_into|into]] an [[a/_apparatus|apparatus]] [[s/_so|so]] as to [[r/_ready|ready]] it for [[o/_operation|operation]], such as a [[r/_reel|reel]] of [[f/_film|film]] [[i/_into|into]] a [[c/_camera|camera]], [[s/_sheets|sheets]] of [[p/_paper|paper]] [[i/_into|into]] a [[p/_printer|printer]] [[e/_etc|etc]].**
+- **To [[i/_insert|insert]] (an [[i/_item|item]] or [[i/_items|items]]) [[i/_into|into]] an [[a/_apparatus|apparatus]] [[s/_so|so]] as to [[r/_ready|ready]] it for [[o/_operation|operation]], [[s/_such|such]] as a [[r/_reel|reel]] of [[f/_film|film]] [[i/_into|into]] a [[c/_camera|camera]], [[s/_sheets|sheets]] of [[p/_paper|paper]] [[i/_into|into]] a [[p/_printer|printer]] [[e/_etc|etc]].**
 	- _Example: Now that you've loaded the camera [with film], you're ready to start shooting._
 - **To [[f/_fill|fill]] (an [[a/_apparatus|apparatus]]) with [[r/_raw|raw]] [[m/_material|material]].**
 	- _Example: The workers loaded the blast furnace with coke and ore._

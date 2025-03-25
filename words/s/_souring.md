@@ -9,7 +9,7 @@
 	- _Example: We broke up after our relationship soured._
 - **To [[m/_make|make]] ([[s/_soil|soil]]) [[c/_cold|cold]] and unproductive.**
 - **To [[m/_macerate|macerate]] ([[l/_lime|lime]]) and [[r/_render|render]] it [[f/_fit|fit]] for [[p/_plaster|plaster]] or [[m/_mortar|mortar]].**
-- **To [[p/_process|process]] ([[f/_fabric|fabric]]) [[a/_after|after]] [[b/_bleaching|bleaching]], using [[h/_hydrochloric|hydrochloric]] [[a/_acid|acid]] or sulphuric [[a/_acid|acid]] to wash [[o/_out|out]] the [[l/_lime|lime]].**
+- **To [[p/_process|process]] ([[f/_fabric|fabric]]) [[a/_after|after]] [[b/_bleaching|bleaching]], using [[h/_hydrochloric|hydrochloric]] [[a/_acid|acid]] or [[s/_sulphuric|sulphuric]] [[a/_acid|acid]] to wash [[o/_out|out]] the [[l/_lime|lime]].**
 ---
 #noun
 - **The [[p/_process|process]] by which [[s/_something|something]] is [[m/_made|made]], or [[b/_becomes|becomes]], [[s/_sour|sour]].**

@@ -20,18 +20,18 @@
 	- _Example: Get away from that burning gas tank! It's about to blow!_
 - **(with "up" or with [[p/_prep|prep]] [[p/_phrase|phrase]] [[h/_headed|headed]] by "to") To [[c/_cause|cause]] to [[e/_explode|explode]], [[s/_shatter|shatter]], or be utterly [[d/_destroyed|destroyed]].**
 	- _Example: The aerosol can was blown to bits._
-- **To [[c/_cause|cause]] sudden [[d/_destruction|destruction]] of.**
+- **To [[c/_cause|cause]] [[s/_sudden|sudden]] [[d/_destruction|destruction]] of.**
 	- _Example: He blew the tires and the engine._
-- **To suddenly [[f/_fail|fail]] [[d/_destructively|destructively]].**
+- **To [[s/_suddenly|suddenly]] [[f/_fail|fail]] [[d/_destructively|destructively]].**
 	- _Example: He tried to sprint, but his ligaments blew and he was barely able to walk to the finish line._
 - **(used to [[e/_express|express]] [[d/_displeasure|displeasure]] or [[f/_frustration|frustration]]) [[d/_damn|Damn]].**
-- **To be very undesirable. ([[s/_see|See]] [[a/_also|also]] suck.)**
+- **To be very undesirable. ([[s/_see|See]] [[a/_also|also]] [[s/_suck|suck]].)**
 	- _Example: This blows!_
 - **To [[r/_recklessly|recklessly]] [[s/_squander|squander]].**
 	- _Example: I blew $35 thou on a car._
 - **To [[f/_fellate|fellate]]; to [[p/_perform|perform]] [[o/_oral|oral]] [[s/_sex|sex]] on (usually a [[m/_man|man]])**
 	- _Example: Who did you have to blow to get those backstage passes?_
-- **To [[l/_leave|leave]], [[e/_especially|especially]] suddenly or in a [[h/_hurry|hurry]].**
+- **To [[l/_leave|leave]], [[e/_especially|especially]] [[s/_suddenly|suddenly]] or in a [[h/_hurry|hurry]].**
 	- _Example: Let's blow this joint._
 - **To [[m/_make|make]] [[f/_flyblown|flyblown]], to [[d/_defile|defile]], [[e/_especially|especially]] with [[f/_fly|fly]] [[e/_eggs|eggs]].**
 - **To [[s/_spread|spread]] by [[r/_report|report]]; to [[p/_publish|publish]]; to [[d/_disclose|disclose]].**
@@ -48,7 +48,7 @@
 - **To [[b/_blossom|blossom]]; to [[c/_cause|cause]] to [[b/_bloom|bloom]] or [[b/_blossom|blossom]].**
 ---
 #noun
-- **The [[c/_colour|colour]] of the [[c/_clear|clear]] [[s/_sky|sky]] or the [[d/_deep|deep]] [[s/_sea|sea]], [[b/_between|between]] [[g/_green|green]] and violet in the visible [[s/_spectrum|spectrum]], and [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colours|colours]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting [[r/_red|red]] and [[g/_green|green]] from white [[l/_light|light]] using [[m/_magenta|magenta]] and [[c/_cyan|cyan]] [[f/_filters|filters]]; or [[a/_any|any]] [[c/_colour|colour]] [[r/_resembling|resembling]] this.**
+- **The [[c/_colour|colour]] of the [[c/_clear|clear]] [[s/_sky|sky]] or the [[d/_deep|deep]] [[s/_sea|sea]], [[b/_between|between]] [[g/_green|green]] and violet in the visible [[s/_spectrum|spectrum]], and [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colours|colours]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by [[s/_subtracting|subtracting]] [[r/_red|red]] and [[g/_green|green]] from white [[l/_light|light]] using [[m/_magenta|magenta]] and [[c/_cyan|cyan]] [[f/_filters|filters]]; or [[a/_any|any]] [[c/_colour|colour]] [[r/_resembling|resembling]] this.**
 - **A [[b/_blue|blue]] [[d/_dye|dye]] or [[p/_pigment|pigment]].**
 - **[[a/_any|Any]] of [[s/_several|several]] [[p/_processes|processes]] to [[p/_protect|protect]] [[m/_metal|metal]] [[a/_against|against]] [[r/_rust|rust]].**
 - **[[b/_blue|Blue]] [[c/_clothing|clothing]]**
@@ -62,7 +62,7 @@
 - **[[a/_anything|Anything]] [[b/_blue|blue]], [[e/_especially|especially]] to [[d/_distinguish|distinguish]] it from [[s/_similar|similar]] [[o/_objects|objects]] [[d/_differing|differing]] [[o/_only|only]] in [[c/_color|color]].**
 - **A [[d/_dog|dog]] or [[c/_cat|cat]] with a [[s/_slaty|slaty]] [[g/_gray|gray]] [[c/_coat|coat]].**
 - **[[o/_one|One]] of the [[c/_colour|colour]] [[b/_balls|balls]] used in [[s/_snooker|snooker]], with a value of [[f/_five|five]] [[p/_points|points]].**
-- **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the subfamily Polyommatinae in the [[f/_family|family]] [[l/_lycaenidae|Lycaenidae]], [[m/_most|most]] of which [[h/_have|have]] [[b/_blue|blue]] on their wings.**
+- **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the [[s/_subfamily|subfamily]] Polyommatinae in the [[f/_family|family]] [[l/_lycaenidae|Lycaenidae]], [[m/_most|most]] of which [[h/_have|have]] [[b/_blue|blue]] on their wings.**
 - **A [[b/_bluefish|bluefish]].**
 - **An [[a/_argument|argument]].**
 - **A [[l/_liquid|liquid]] with an [[i/_intense|intense]] [[b/_blue|blue]] [[c/_colour|colour]], [[a/_added|added]] to a [[l/_laundry|laundry]] wash to [[p/_prevent|prevent]] [[y/_yellowing|yellowing]] of white [[c/_clothes|clothes]].**

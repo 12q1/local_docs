@@ -8,7 +8,7 @@
 	- _Example: The instrument detected an increase in radioactivity._
 - **A tool, [[i/_implement|implement]] used for [[m/_manipulation|manipulation]] or [[m/_measurement|measurement]].**
 	- _Example: The dentist set down his tray of instruments._
-- **A [[l/_legal|legal]] [[d/_document|document]], such as a [[c/_contract|contract]], [[d/_deed|deed]], trust, [[m/_mortgage|mortgage]], [[p/_power|power]], [[i/_indenture|indenture]], or will.**
+- **A [[l/_legal|legal]] [[d/_document|document]], [[s/_such|such]] as a [[c/_contract|contract]], [[d/_deed|deed]], trust, [[m/_mortgage|mortgage]], [[p/_power|power]], [[i/_indenture|indenture]], or will.**
 	- _Example: A bond indenture is the instrument that gives a bond its value._
 - **A [[p/_person|person]] used as a [[m/_mere|mere]] tool for [[a/_achieving|achieving]] a [[g/_goal|goal]].**
 ---

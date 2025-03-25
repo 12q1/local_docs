@@ -6,6 +6,6 @@
 ### Antonyms
 - [[d/_destigmatize|destigmatize]]
 #adjective
-- **Subject to a [[s/_stigma|stigma]]; [[m/_marked|marked]] as an [[o/_outcast|outcast]].**
+- **[[s/_subject|Subject]] to a [[s/_stigma|stigma]]; [[m/_marked|marked]] as an [[o/_outcast|outcast]].**
 ---
 ---

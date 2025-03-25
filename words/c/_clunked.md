@@ -1,6 +1,6 @@
 # Clunked
 ---
 #verb
-- **To [[m/_make|make]] such a [[s/_sound|sound]]**
+- **To [[m/_make|make]] [[s/_such|such]] a [[s/_sound|sound]]**
 ---
 ---

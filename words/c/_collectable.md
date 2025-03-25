@@ -6,6 +6,6 @@
 ### Synonyms
 - 
 #adjective
-- **Suitable for [[c/_collecting|collecting]].**
+- **[[s/_suitable|Suitable]] for [[c/_collecting|collecting]].**
 ---
 ---

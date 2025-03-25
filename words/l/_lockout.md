@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[o/_opposite|opposite]] of a [[s/_strike|strike]]; a [[l/_labor|labor]] [[d/_disruption|disruption]] where [[m/_management|management]] [[r/_refuses|refuses]] to [[a/_allow|allow]] workers [[i/_into|into]] a [[p/_plant|plant]] to work [[e/_even|even]] [[i/_if|if]] they are willing.**
-- **The [[a/_action|action]] of [[i/_installing|installing]] a [[l/_lock|lock]] to [[k/_keep|keep]] [[s/_someone|someone]] [[o/_out|out]] of an [[a/_area|area]], such as [[e/_eviction|eviction]] of a tenant by [[c/_changing|changing]] the [[l/_lock|lock]].**
+- **The [[a/_action|action]] of [[i/_installing|installing]] a [[l/_lock|lock]] to [[k/_keep|keep]] [[s/_someone|someone]] [[o/_out|out]] of an [[a/_area|area]], [[s/_such|such]] as [[e/_eviction|eviction]] of a tenant by [[c/_changing|changing]] the [[l/_lock|lock]].**
 - **(by [[e/_extension|extension]]) The [[e/_exclusion|exclusion]] of [[o/_others|others]] from a [[c/_certain|certain]] [[p/_place|place]] or [[s/_situation|situation]].**
 	- _Example: It's another front-row lockout for Mercedes on the starting grid of the Japanese Grand Prix._
 - **A [[s/_situation|situation]] where the [[s/_system|system]] is not [[r/_responding|responding]] to [[i/_input|input]].**

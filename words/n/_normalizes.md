@@ -9,7 +9,7 @@
 	- _Example: After we properly normalize the measurements with respect to age, gender, geography and economic considerations, there remains little evidence of a difference between the two groups._
 - **To [[r/_return|return]] a [[s/_set|set]] of [[p/_points|points]] (switches) to the [[n/_normal|normal]] [[p/_position|position]].**
 - **(of [[p/_points|points]]) To [[r/_return|return]] to the [[n/_normal|normal]] [[p/_position|position]] from the [[r/_reverse|reverse]] [[p/_position|position]].**
-- **To subject to [[n/_normalization|normalization]]; to [[e/_eliminate|eliminate]] [[r/_redundancy|redundancy]] in (a [[m/_model|model]] for [[s/_storing|storing]] [[d/_data|data]]).**
+- **To [[s/_subject|subject]] to [[n/_normalization|normalization]]; to [[e/_eliminate|eliminate]] [[r/_redundancy|redundancy]] in (a [[m/_model|model]] for [[s/_storing|storing]] [[d/_data|data]]).**
 - **To [[d/_divide|divide]] a vector by [[i/_its|its]] [[m/_magnitude|magnitude]] to [[p/_produce|produce]] a unit vector.**
 ---
 ### Antonyms

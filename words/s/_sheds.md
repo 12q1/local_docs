@@ -30,6 +30,6 @@
 - **([[r/_rail|rail]] transportation) A [[b/_british|British]] [[r/_rail|Rail]] [[c/_class|Class]] 66 [[l/_locomotive|locomotive]].**
 ---
 #verb
-- **To [[p/_place|place]] or [[a/_allocate|allocate]] a vehicle, such as a [[l/_locomotive|locomotive]], in or to a [[d/_depot|depot]] or [[s/_shed|shed]].**
+- **To [[p/_place|place]] or [[a/_allocate|allocate]] a vehicle, [[s/_such|such]] as a [[l/_locomotive|locomotive]], in or to a [[d/_depot|depot]] or [[s/_shed|shed]].**
 ---
 ---

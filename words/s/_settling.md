@@ -19,7 +19,7 @@
 ### Antonyms
 - [[r/_remove|remove]], [[a/_agitate|agitate]], [[d/_disturb|disturb]], [[w/_wander|wander]]
 #noun
-- **The [[a/_act|act]] of [[o/_one|one]] who, or that which, [[s/_settles|settles]]; the [[a/_act|act]] of [[e/_establishing|establishing]] [[o/_oneself|oneself]], of [[c/_colonizing|colonizing]], subsiding, [[a/_adjusting|adjusting]], [[e/_etc|etc]].**
+- **The [[a/_act|act]] of [[o/_one|one]] who, or that which, [[s/_settles|settles]]; the [[a/_act|act]] of [[e/_establishing|establishing]] [[o/_oneself|oneself]], of [[c/_colonizing|colonizing]], [[s/_subsiding|subsiding]], [[a/_adjusting|adjusting]], [[e/_etc|etc]].**
 - **The [[r/_reckoning|reckoning]] or [[s/_settlement|settlement]] of [[a/_accounts|accounts]].**
 - **(usually in the [[p/_plural|plural]]) [[d/_dregs|Dregs]]; [[s/_sediment|sediment]].**
 ---

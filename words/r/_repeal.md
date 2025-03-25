@@ -6,7 +6,7 @@
 #verb
 - **To [[c/_cancel|cancel]], [[i/_invalidate|invalidate]], [[a/_annul|annul]].**
 	- _Example: to repeal a law_
-- **To [[r/_recall|recall]]; to summon (a [[p/_person|person]]) [[a/_again|again]]; to [[b/_bring|bring]] (a [[p/_person|person]]) [[b/_back|back]] from [[e/_exile|exile]] or [[b/_banishment|banishment]].**
+- **To [[r/_recall|recall]]; to [[s/_summon|summon]] (a [[p/_person|person]]) [[a/_again|again]]; to [[b/_bring|bring]] (a [[p/_person|person]]) [[b/_back|back]] from [[e/_exile|exile]] or [[b/_banishment|banishment]].**
 - **To suppress; to [[r/_repel|repel]].**
 ---
 ### Synonyms

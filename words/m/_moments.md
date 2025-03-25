@@ -7,7 +7,7 @@
 - **Weight or [[i/_importance|importance]].**
 - **The turning [[e/_effect|effect]] of a [[f/_force|force]] [[a/_applied|applied]] to a [[r/_rotational|rotational]] [[s/_system|system]] at a [[d/_distance|distance]] from the [[a/_axis|axis]] of [[r/_rotation|rotation]].**
 - **(unit) A [[d/_definite|definite]] [[p/_period|period]] of time, [[s/_specifically|specifically]] [[o/_one|one]]-tenth of a [[p/_point|point]], or [[o/_one|one]]-[[f/_fortieth|fortieth]] or [[o/_one|one]]-[[f/_fiftieth|fiftieth]] of an [[h/_hour|hour]].**
-- **A [[p/_petit|petit]] [[m/_mal|mal]] [[e/_episode|episode]]; such a [[s/_spell|spell]].**
+- **A [[p/_petit|petit]] [[m/_mal|mal]] [[e/_episode|episode]]; [[s/_such|such]] a [[s/_spell|spell]].**
 - **A [[f/_fit|fit]]; a [[b/_brief|brief]] tantrum.**
 - **An [[i/_infinitesimal|infinitesimal]] [[c/_change|change]] in a varying [[q/_quantity|quantity]]; an [[i/_increment|increment]] or [[d/_decrement|decrement]].**
 - **A [[q/_quantitative|quantitative]] [[m/_measure|measure]] of the [[s/_shape|shape]] of a [[s/_set|set]] of [[p/_points|points]].**

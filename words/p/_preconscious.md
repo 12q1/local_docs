@@ -1,7 +1,7 @@
 # Preconscious
 ---
 #noun
-- **The sum of these [[m/_memories|memories]]**
+- **The [[s/_sum|sum]] of these [[m/_memories|memories]]**
 ---
 #adjective
 - **[[p/_prior|Prior]] to [[c/_consciousness|consciousness]].**

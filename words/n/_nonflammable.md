@@ -1,7 +1,7 @@
 # Nonflammable
 ---
 #noun
-- **[[a/_any|Any]] [[n/_nonflammable|nonflammable]] substance.**
+- **[[a/_any|Any]] [[n/_nonflammable|nonflammable]] [[s/_substance|substance]].**
 ---
 #adjective
 - **Not [[c/_combustible|combustible]].**

@@ -1,9 +1,9 @@
 # Grabbing
 ---
 #verb
-- **To [[g/_grip|grip]] suddenly; to [[s/_seize|seize]]; to [[c/_clutch|clutch]].**
+- **To [[g/_grip|grip]] [[s/_suddenly|suddenly]]; to [[s/_seize|seize]]; to [[c/_clutch|clutch]].**
 	- _Example: I grabbed her hand to pull her back from the cliff edge._
-- **To [[m/_make|make]] a sudden [[g/_grasping|grasping]] or [[c/_clutching|clutching]] [[m/_motion|motion]] (at [[s/_something|something]]).**
+- **To [[m/_make|make]] a [[s/_sudden|sudden]] [[g/_grasping|grasping]] or [[c/_clutching|clutching]] [[m/_motion|motion]] (at [[s/_something|something]]).**
 	- _Example: The suspect suddenly broke free and grabbed at the policeman's gun._
 - **To [[r/_restrain|restrain]] [[s/_someone|someone]]; to [[a/_arrest|arrest]].**
 - **To [[g/_grip|grip]] the [[a/_attention|attention]] of; to [[e/_enthrall|enthrall]] or [[i/_interest|interest]].**

@@ -23,7 +23,7 @@
 	- _Example: The muskets popped away on all sides._
 - **To [[b/_burst|burst]] ([[s/_something|something]]) with a [[p/_popping|popping]] [[s/_sound|sound]].**
 	- _Example: The boy with the pin popped the balloon._
-- **(with in, [[o/_out|out]], upon, [[e/_etc|etc]].) To [[e/_enter|enter]], or [[i/_issue|issue]] [[f/_forth|forth]], with a [[q/_quick|quick]], sudden [[m/_movement|movement]]; to [[m/_move|move]] from [[p/_place|place]] to [[p/_place|place]] suddenly; to [[d/_dart|dart]].**
+- **(with in, [[o/_out|out]], upon, [[e/_etc|etc]].) To [[e/_enter|enter]], or [[i/_issue|issue]] [[f/_forth|forth]], with a [[q/_quick|quick]], [[s/_sudden|sudden]] [[m/_movement|movement]]; to [[m/_move|move]] from [[p/_place|place]] to [[p/_place|place]] [[s/_suddenly|suddenly]]; to [[d/_dart|dart]].**
 	- _Example: A rabbit popped out of the hole._
 - **To [[p/_place|place]] ([[s/_something|something]]) ([[s/_somewhere|somewhere]]); to [[m/_move|move]] or [[p/_position|position]] ([[s/_something|something]]) with a [[s/_short|short]] [[m/_movement|movement]].**
 	- _Example: He popped his head around the door._
@@ -39,7 +39,7 @@
 - **To [[r/_remove|remove]] a [[d/_data|data]] [[i/_item|item]] from the top of (a [[s/_stack|stack]]).**
 - **To [[p/_pawn|pawn]] ([[s/_something|something]]) (to [[r/_raise|raise]] [[m/_money|money]]).**
 	- _Example: I had to pop my watch to see me through until pay-day._
-- **To swallow or [[c/_consume|consume]] ([[e/_especially|especially]] a tablet of a [[d/_drug|drug]], [[s/_sometimes|sometimes]] [[e/_extended|extended]] to [[o/_other|other]] [[s/_small|small]] [[i/_items|items]] such as sweets or [[c/_candy|candy]]).**
+- **To swallow or [[c/_consume|consume]] ([[e/_especially|especially]] a tablet of a [[d/_drug|drug]], [[s/_sometimes|sometimes]] [[e/_extended|extended]] to [[o/_other|other]] [[s/_small|small]] [[i/_items|items]] [[s/_such|such]] as sweets or [[c/_candy|candy]]).**
 - **To [[p/_perform|perform]] (a [[m/_move|move]] or [[s/_stunt|stunt]]) while [[r/_riding|riding]] a [[b/_board|board]] or vehicle.**
 - **(of the [[e/_ears|ears]]) To undergo [[e/_equalization|equalization]] of [[p/_pressure|pressure]] when the [[e/_eustachian|Eustachian]] tubes [[o/_open|open]].**
 	- _Example: My ears popped as the aeroplane began to ascend._

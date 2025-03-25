@@ -7,7 +7,7 @@
 - **[[m/_more|More]] [[s/_specifically|specifically]], a written [[d/_declaration|declaration]] that a [[c/_certain|certain]] [[p/_product|product]] will be [[f/_fit|fit]] for a [[p/_purpose|purpose]] and work [[c/_correctly|correctly]]; a warranty**
 	- _Example: The cooker comes with a five-year guarantee._
 - **The [[p/_person|person]] to whom a [[g/_guarantee|guarantee]] is [[m/_made|made]].**
-- **A [[p/_person|person]] who [[g/_gives|gives]] such a [[g/_guarantee|guarantee]]; a [[g/_guarantor|guarantor]].**
+- **A [[p/_person|person]] who [[g/_gives|gives]] [[s/_such|such]] a [[g/_guarantee|guarantee]]; a [[g/_guarantor|guarantor]].**
 ---
 #verb
 - **To [[g/_give|give]] an [[a/_assurance|assurance]] that [[s/_something|something]] will be [[d/_done|done]] [[r/_right|right]].**

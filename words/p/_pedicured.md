@@ -1,6 +1,6 @@
 # Pedicured
 ---
 #verb
-- **To [[a/_apply|apply]] such treatment to the [[f/_feet|feet]]**
+- **To [[a/_apply|apply]] [[s/_such|such]] treatment to the [[f/_feet|feet]]**
 ---
 ---

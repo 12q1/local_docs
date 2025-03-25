@@ -28,7 +28,7 @@
 	- _Example: Being a teenager nowadays can be rough._
 - **[[c/_crude|Crude]]; unrefined**
 	- _Example: His manners are a bit rough, but he means well._
-- **Violent; not [[c/_careful|careful]] or subtle**
+- **Violent; not [[c/_careful|careful]] or [[s/_subtle|subtle]]**
 	- _Example: This box has been through some rough handling._
 - **[[l/_loud|Loud]] and [[h/_hoarse|hoarse]]; [[o/_offensive|offensive]] to the [[e/_ear|ear]]; [[h/_harsh|harsh]]; [[g/_grating|grating]].**
 	- _Example: a rough tone; a rough voice_

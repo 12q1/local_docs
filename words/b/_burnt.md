@@ -14,7 +14,7 @@
 - **To [[i/_injure|injure]] (a [[p/_person|person]] or [[a/_animal|animal]]) with [[h/_heat|heat]] or [[c/_chemicals|chemicals]] that [[p/_produce|produce]] [[s/_similar|similar]] [[d/_damage|damage]].**
 	- _Example: She burned the child with an iron, and was jailed for ten years._
 - **To [[c/_cauterize|cauterize]].**
-- **To sunburn.**
+- **To [[s/_sunburn|sunburn]].**
 	- _Example: She forgot to put on sunscreen and burned._
 - **To [[c/_consume|consume]], [[i/_injure|injure]], or [[c/_change|change]] the [[c/_condition|condition]] of, as [[i/_if|if]] by [[a/_action|action]] of [[f/_fire|fire]] or [[h/_heat|heat]]; to [[a/_affect|affect]] as [[f/_fire|fire]] or [[h/_heat|heat]] [[d/_does|does]].**
 	- _Example: to burn the mouth with pepper_
@@ -45,7 +45,7 @@
 - **[[d/_damaged|Damaged]] or [[i/_injured|injured]] by [[f/_fire|fire]] or [[h/_heat|heat]].**
 - **(of [[f/_food|food]]) [[c/_carbonised|Carbonised]].**
 	- _Example: The toast was too burnt to eat._
-- **(of a [[p/_person|person]]) [[h/_having|Having]] a sunburn.**
+- **(of a [[p/_person|person]]) [[h/_having|Having]] a [[s/_sunburn|sunburn]].**
 - **(of a [[c/_colour|colour]]) [[b/_being|Being]] [[d/_darker|darker]] than [[s/_standard|standard]], [[e/_especially|especially]] [[b/_browner|browner]].**
 ---
 ---

@@ -7,7 +7,7 @@
 #adjective
 - **Unfavorable; [[n/_negative|negative]]; not [[g/_good|good]].**
 	- _Example: Abducting children is bad for mothers._
-- **Not suitable or [[f/_fitting|fitting]].**
+- **Not [[s/_suitable|suitable]] or [[f/_fitting|fitting]].**
 	- _Example: Do you think it is a bad idea to confront him directly?_
 - **Not [[a/_appropriate|appropriate]], of [[m/_manners|manners]] [[e/_etc|etc]].**
 	- _Example: It is bad manners to talk with your mouth full._
@@ -34,7 +34,7 @@
 - **Of [[p/_poor|poor]] [[p/_physical|physical]] [[a/_appearance|appearance]].**
 	- _Example: I don't look bad in this dress, do I?_
 - **[[b/_bold|Bold]] and [[d/_daring|daring]].**
-- **[[g/_good|Good]], superlative, [[e/_excellent|excellent]], [[c/_cool|cool]].**
+- **[[g/_good|Good]], [[s/_superlative|superlative]], [[e/_excellent|excellent]], [[c/_cool|cool]].**
 	- _Example: Man, that new car you bought is bad!_
 - **(of a [[n/_need|need]], want, or [[p/_pain|pain]]) [[s/_severe|Severe]], urgent.**
 	- _Example: He is in bad need of a haircut._

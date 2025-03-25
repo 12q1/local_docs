@@ -1,7 +1,7 @@
 # Hogs
 ---
 #noun
-- **[[a/_any|Any]] [[a/_animal|animal]] [[b/_belonging|belonging]] to the Suidae [[f/_family|family]] of [[m/_mammals|mammals]], [[e/_especially|especially]] the [[p/_pig|pig]], the warthog, and the [[b/_boar|boar]].**
+- **[[a/_any|Any]] [[a/_animal|animal]] [[b/_belonging|belonging]] to the [[s/_suidae|Suidae]] [[f/_family|family]] of [[m/_mammals|mammals]], [[e/_especially|especially]] the [[p/_pig|pig]], the warthog, and the [[b/_boar|boar]].**
 - **([[s/_specifically|specifically]]) An [[a/_adult|adult]] swine ([[c/_contrasted|contrasted]] with a [[p/_pig|pig]], a [[y/_young|young]] swine).**
 - **A [[g/_greedy|greedy]] [[p/_person|person]]; [[o/_one|one]] who [[r/_refuses|refuses]] to [[s/_share|share]].**
 - **A [[l/_large|large]] [[m/_motorcycle|motorcycle]], [[p/_particularly|particularly]] a Harley-Davidson.**

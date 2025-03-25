@@ -12,7 +12,7 @@
 - **To [[l/_liquify|liquify]], [[m/_melt|melt]] [[i/_into|into]] a [[f/_fluid|fluid]].**
 - **To be [[m/_melted|melted]], [[c/_changed|changed]] [[i/_into|into]] a [[f/_fluid|fluid]].**
 - **To [[d/_disintegrate|disintegrate]] [[c/_chemically|chemically]] [[i/_into|into]] a [[s/_solution|solution]] by [[i/_immersion|immersion]] [[i/_into|into]] a [[l/_liquid|liquid]] or [[g/_gas|gas]].**
-- **To be [[d/_disintegrated|disintegrated]] by such [[i/_immersion|immersion]].**
+- **To be [[d/_disintegrated|disintegrated]] by [[s/_such|such]] [[i/_immersion|immersion]].**
 - **To [[d/_disperse|disperse]], [[d/_drive|drive]] [[a/_apart|apart]] a [[g/_group|group]] of [[p/_persons|persons]].**
 - **To [[b/_break|break]] the [[c/_continuity|continuity]] of; to [[d/_disconnect|disconnect]]; to [[l/_loosen|loosen]]; to undo; to [[s/_separate|separate]].**
 - **To [[a/_annul|annul]]; to [[r/_rescind|rescind]]; to [[d/_discharge|discharge]] or [[r/_release|release]].**

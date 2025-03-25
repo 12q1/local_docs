@@ -7,6 +7,6 @@
 - [[h/_hydrate|hydrate]], [[m/_moisturize|moisturize]]
 #adjective
 - **From which the water [[h/_has|has]] [[b/_been|been]] [[r/_removed|removed]].**
-- **Suffering from [[d/_dehydration|dehydration]].**
+- **[[s/_suffering|Suffering]] from [[d/_dehydration|dehydration]].**
 ---
 ---

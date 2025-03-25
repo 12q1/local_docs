@@ -12,7 +12,7 @@
 - **To [[g/_grant|grant]] in [[m/_mortmain|mortmain]].**
 - **To [[l/_lose|lose]] vitality.**
 - **To [[g/_gangrene|gangrene]].**
-- **To be subdued.**
+- **To be [[s/_subdued|subdued]].**
 ---
 ### Synonyms
 - [[m/_macerate|macerate]], [[d/_demean|demean]], [[h/_humiliate|humiliate]], [[s/_shame|shame]]

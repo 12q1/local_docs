@@ -15,7 +15,7 @@
 #noun
 - **The [[b/_beak|beak]] of a [[b/_bird|bird]], [[e/_especially|especially]] when [[s/_small|small]] or [[f/_flattish|flattish]]; [[s/_sometimes|sometimes]] [[a/_also|also]] used with [[r/_reference|reference]] to a [[p/_platypus|platypus]], turtle, or [[o/_other|other]] [[a/_animal|animal]].**
 - **A [[b/_beak|beak]]-[[l/_like|like]] [[p/_projection|projection]], [[e/_especially|especially]] a [[p/_promontory|promontory]].**
-- **Of a [[c/_cap|cap]] or [[h/_hat|hat]]: the [[b/_brim|brim]] or [[p/_peak|peak]], [[s/_serving|serving]] as a [[s/_shade|shade]] to [[k/_keep|keep]] sun [[o/_off|off]] the [[f/_face|face]] and [[o/_out|out]] of the [[e/_eyes|eyes]].**
+- **Of a [[c/_cap|cap]] or [[h/_hat|hat]]: the [[b/_brim|brim]] or [[p/_peak|peak]], [[s/_serving|serving]] as a [[s/_shade|shade]] to [[k/_keep|keep]] [[s/_sun|sun]] [[o/_off|off]] the [[f/_face|face]] and [[o/_out|out]] of the [[e/_eyes|eyes]].**
 ---
 ### Synonyms
 - [[b/_beak|beak]], [[n/_neb|neb]], [[n/_nib|nib]], [[p/_pecker|pecker]]
@@ -27,11 +27,11 @@
 - **A written [[l/_list|list]] or [[i/_inventory|inventory]]. ([[n/_now|Now]] [[o/_obsolete|obsolete]] [[e/_except|except]] in [[s/_specific|specific]] [[s/_senses|senses]] or [[s/_set|set]] [[p/_phrases|phrases]]; [[b/_bill|bill]] of [[l/_lading|lading]], [[b/_bill|bill]] of [[g/_goods|goods]], [[e/_etc|etc]].)**
 - **A [[d/_document|document]], [[o/_originally|originally]] [[s/_sealed|sealed]]; a [[f/_formal|formal]] [[s/_statement|statement]] or [[o/_official|official]] [[m/_memorandum|memorandum]]. ([[n/_now|Now]] [[o/_obsolete|obsolete]] [[e/_except|except]] with [[c/_certain|certain]] [[q/_qualifying|qualifying]] words; [[b/_bill|bill]] of [[h/_health|health]], [[b/_bill|bill]] of [[s/_sale|sale]] [[e/_etc|etc]].)**
 - **A [[d/_draft|draft]] of a [[l/_law|law]], [[p/_presented|presented]] to a [[l/_legislature|legislature]] for [[e/_enactment|enactment]]; a [[p/_proposed|proposed]] or [[p/_projected|projected]] [[l/_law|law]].**
-- **A [[d/_declaration|declaration]] [[m/_made|made]] in writing, [[s/_stating|stating]] [[s/_some|some]] wrong the [[c/_complainant|complainant]] [[h/_has|has]] suffered from the [[d/_defendant|defendant]], or a [[f/_fault|fault]] [[c/_committed|committed]] by [[s/_some|some]] [[p/_person|person]] [[a/_against|against]] a [[l/_law|law]].**
+- **A [[d/_declaration|declaration]] [[m/_made|made]] in writing, [[s/_stating|stating]] [[s/_some|some]] wrong the [[c/_complainant|complainant]] [[h/_has|has]] [[s/_suffered|suffered]] from the [[d/_defendant|defendant]], or a [[f/_fault|fault]] [[c/_committed|committed]] by [[s/_some|some]] [[p/_person|person]] [[a/_against|against]] a [[l/_law|law]].**
 - **A [[p/_piece|piece]] of [[p/_paper|paper]] [[m/_money|money]]; a [[b/_banknote|banknote]].**
 - **A written [[n/_note|note]] of [[g/_goods|goods]] [[s/_sold|sold]], [[s/_services|services]] [[r/_rendered|rendered]], or work [[d/_done|done]], with the [[p/_price|price]] or [[c/_charge|charge]]; an [[i/_invoice|invoice]].**
 - **A [[p/_paper|paper]], written or [[p/_printed|printed]], and [[p/_posted|posted]] up or [[g/_given|given]] [[a/_away|away]], to [[a/_advertise|advertise]] [[s/_something|something]], as a [[l/_lecture|lecture]], a [[p/_play|play]], or the [[s/_sale|sale]] of [[g/_goods|goods]]**
-- **A writing [[b/_binding|binding]] the [[s/_signer|signer]] or [[s/_signers|signers]] to [[p/_pay|pay]] a [[c/_certain|certain]] sum at a [[f/_future|future]] [[d/_day|day]] or on [[d/_demand|demand]], with or without [[i/_interest|interest]], as [[m/_may|may]] be [[s/_stated|stated]] in the [[d/_document|document]]; a [[b/_bill|bill]] of [[e/_exchange|exchange]]. In the United [[s/_states|States]], it is usually [[c/_called|called]] a [[n/_note|note]], a [[n/_note|note]] of [[h/_hand|hand]], or a [[p/_promissory|promissory]] [[n/_note|note]].**
+- **A writing [[b/_binding|binding]] the [[s/_signer|signer]] or [[s/_signers|signers]] to [[p/_pay|pay]] a [[c/_certain|certain]] [[s/_sum|sum]] at a [[f/_future|future]] [[d/_day|day]] or on [[d/_demand|demand]], with or without [[i/_interest|interest]], as [[m/_may|may]] be [[s/_stated|stated]] in the [[d/_document|document]]; a [[b/_bill|bill]] of [[e/_exchange|exchange]]. In the United [[s/_states|States]], it is usually [[c/_called|called]] a [[n/_note|note]], a [[n/_note|note]] of [[h/_hand|hand]], or a [[p/_promissory|promissory]] [[n/_note|note]].**
 - **A [[s/_set|set]] of [[i/_items|items]] [[p/_presented|presented]] together.**
 ---
 ### Synonyms

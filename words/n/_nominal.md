@@ -18,7 +18,7 @@
 	- _Example: He gave me only a nominal sum for my services._
 - **Of or [[r/_relating|relating]] to the [[p/_presumed|presumed]] or [[a/_approximate|approximate]] value, [[r/_rather|rather]] than the [[a/_actual|actual]] value.**
 	- _Example: The nominal voltage is 1.5 V, but the actual figure is usually higher._
-- **Of, [[r/_relating|relating]] to, or [[b/_being|being]] the [[a/_amount|amount]] or [[f/_face|face]] value of a sum of [[m/_money|money]] or a [[s/_stock|stock]] [[c/_certificate|certificate]], for [[e/_example|example]], and not the [[p/_purchasing|purchasing]] [[p/_power|power]] or [[m/_market|market]] value.**
+- **Of, [[r/_relating|relating]] to, or [[b/_being|being]] the [[a/_amount|amount]] or [[f/_face|face]] value of a [[s/_sum|sum]] of [[m/_money|money]] or a [[s/_stock|stock]] [[c/_certificate|certificate]], for [[e/_example|example]], and not the [[p/_purchasing|purchasing]] [[p/_power|power]] or [[m/_market|market]] value.**
 - **Of, [[r/_relating|relating]] to, or [[b/_being|being]] the [[r/_rate|rate]] of [[i/_interest|interest]] or [[r/_return|return]] without [[a/_adjustment|adjustment]] for [[c/_compounding|compounding]] or [[i/_inflation|inflation]].**
 - **([[g/_grammar|grammar]]) Of or [[r/_relating|relating]] to a [[n/_noun|noun]] or word [[g/_group|group]] that [[f/_functions|functions]] as a [[n/_noun|noun]].**
 	- _Example: This sentence contains a nominal phrase._

@@ -1,7 +1,7 @@
 # Radioactive
 ---
 #noun
-- **[[a/_any|Any]] [[r/_radioactive|radioactive]] substance.**
+- **[[a/_any|Any]] [[r/_radioactive|radioactive]] [[s/_substance|substance]].**
 ---
 #adjective
 - **[[e/_exhibiting|Exhibiting]] [[r/_radioactivity|radioactivity]].**

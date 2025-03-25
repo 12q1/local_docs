@@ -9,6 +9,6 @@
 ### Antonyms
 - [[d/_dissolve|dissolve]], [[m/_melt|melt]]
 #adjective
-- **Subject to [[c/_coagulation|coagulation]].**
+- **[[s/_subject|Subject]] to [[c/_coagulation|coagulation]].**
 ---
 ---

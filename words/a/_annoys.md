@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[f/_feeling|feeling]] of [[d/_discomfort|discomfort]] or vexation [[c/_caused|caused]] by what [[o/_one|one]] [[d/_dislikes|dislikes]].**
-- **That which [[c/_causes|causes]] such a [[f/_feeling|feeling]].**
+- **That which [[c/_causes|causes]] [[s/_such|such]] a [[f/_feeling|feeling]].**
 ---
 ### Synonyms
 - [[a/_annoyance|annoyance]]

@@ -7,7 +7,7 @@
 - **A [[p/_price|price]] tag.**
 - **(by [[e/_extension|extension]]) The [[l/_listed|listed]] [[p/_price|price]] ([[a/_also|also]] [[s/_sticker|sticker]] [[p/_price|price]]).**
 	- _Example: When buying a car, know the sticker and the invoice price._
-- **A cartoonish [[i/_illustration|illustration]] of a [[c/_character|character]] that [[r/_represents|represents]] an [[e/_emotion|emotion]] or [[a/_action|action]], [[o/_often|often]] [[a/_accompanied|accompanied]] by text, that [[m/_may|may]] be superimposed on a [[d/_digital|digital]] [[i/_image|image]].**
+- **A cartoonish [[i/_illustration|illustration]] of a [[c/_character|character]] that [[r/_represents|represents]] an [[e/_emotion|emotion]] or [[a/_action|action]], [[o/_often|often]] [[a/_accompanied|accompanied]] by text, that [[m/_may|may]] be [[s/_superimposed|superimposed]] on a [[d/_digital|digital]] [[i/_image|image]].**
 - **A [[b/_burr|burr]] or [[s/_seed|seed]] [[p/_pod|pod]] that [[c/_catches|catches]] in [[f/_fur|fur]] or [[c/_clothing|clothing]].**
 - **That which [[c/_causes|causes]] [[o/_one|one]] to [[s/_stick|stick]]; that which [[p/_puzzles|puzzles]] or [[p/_poses|poses]].**
 - **A wooden [[s/_strip|strip]] [[p/_placed|placed]] [[b/_between|between]] [[c/_courses|courses]] of [[l/_lumber|lumber]] to [[a/_allow|allow]] [[a/_air|air]] [[c/_circulation|circulation]] ([[a/_also|also]] [[k/_kiln|kiln]] [[s/_sticker|sticker]]).**

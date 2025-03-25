@@ -1,7 +1,7 @@
 # Quinary
 ---
 #noun
-- **[[a/_any|Any]] of 72 [[r/_rays|rays]] [[a/_associated|associated]] with the Sun, [[s/_six|six]] for [[e/_each|each]] of the 12 [[h/_houses|houses]] of the Zodiac.**
+- **[[a/_any|Any]] of 72 [[r/_rays|rays]] [[a/_associated|associated]] with the [[s/_sun|Sun]], [[s/_six|six]] for [[e/_each|each]] of the 12 [[h/_houses|houses]] of the Zodiac.**
 ---
 #adjective
 - **Of [[f/_fifth|fifth]] [[r/_rank|rank]] or [[o/_order|order]].**

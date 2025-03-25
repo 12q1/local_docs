@@ -8,7 +8,7 @@
 - **[[d/_dress|Dress]]; [[r/_raiment|raiment]]; [[e/_especially|especially]], [[o/_ornamental|ornamental]] [[h/_habiliment|habiliment]] or [[a/_attire|attire]].**
 - **The [[s/_stuffing|stuffing]] of [[f/_fowls|fowls]], [[p/_pigs|pigs]], [[e/_etc|etc]].; [[f/_forcemeat|forcemeat]].**
 - **[[g/_gum|Gum]], [[s/_starch|starch]], [[e/_etc|etc]]., used in [[s/_stiffening|stiffening]] or [[f/_finishing|finishing]] [[s/_silk|silk]], [[l/_linen|linen]], and [[o/_other|other]] [[f/_fabrics|fabrics]].**
-- **An [[o/_ornamental|ornamental]] [[f/_finish|finish]], such as a [[m/_moulding|moulding]] [[a/_around|around]] [[d/_doors|doors]], windows, or on a [[c/_ceiling|ceiling]].**
+- **An [[o/_ornamental|ornamental]] [[f/_finish|finish]], [[s/_such|such]] as a [[m/_moulding|moulding]] [[a/_around|around]] [[d/_doors|doors]], windows, or on a [[c/_ceiling|ceiling]].**
 - **[[c/_castigation|Castigation]]; [[s/_scolding|scolding]]; [[d/_dressing|dressing]] [[d/_down|down]].**
 - **The [[p/_process|process]] of [[e/_extracting|extracting]] [[m/_metals|metals]] or [[o/_other|other]] valuable [[c/_components|components]] from [[m/_minerals|minerals]]**
 ---

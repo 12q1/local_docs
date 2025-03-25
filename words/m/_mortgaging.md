@@ -1,9 +1,9 @@
 # Mortgaging
 ---
 #verb
-- **To [[b/_borrow|borrow]] [[a/_against|against]] a [[p/_property|property]], to [[o/_obtain|obtain]] a [[l/_loan|loan]] for [[a/_another|another]] [[p/_purpose|purpose]] by [[g/_giving|giving]] [[a/_away|away]] the [[r/_right|right]] of [[s/_seizure|seizure]] to the [[l/_lender|lender]] [[o/_over|over]] a [[f/_fixed|fixed]] [[p/_property|property]] such as a [[h/_house|house]] or [[p/_piece|piece]] of [[l/_land|land]]; to [[p/_pledge|pledge]] a [[p/_property|property]] in [[o/_order|order]] to [[g/_get|get]] a [[l/_loan|loan]].**
+- **To [[b/_borrow|borrow]] [[a/_against|against]] a [[p/_property|property]], to [[o/_obtain|obtain]] a [[l/_loan|loan]] for [[a/_another|another]] [[p/_purpose|purpose]] by [[g/_giving|giving]] [[a/_away|away]] the [[r/_right|right]] of [[s/_seizure|seizure]] to the [[l/_lender|lender]] [[o/_over|over]] a [[f/_fixed|fixed]] [[p/_property|property]] [[s/_such|such]] as a [[h/_house|house]] or [[p/_piece|piece]] of [[l/_land|land]]; to [[p/_pledge|pledge]] a [[p/_property|property]] in [[o/_order|order]] to [[g/_get|get]] a [[l/_loan|loan]].**
 	- _Example: We mortgaged our house in order to start a company._
-- **To [[p/_pledge|pledge]] and [[m/_make|make]] [[l/_liable|liable]]; to [[m/_make|make]] subject to [[o/_obligation|obligation]]; to [[a/_achieve|achieve]] an [[i/_immediate|immediate]] [[r/_result|result]] by [[p/_paying|paying]] for it in the [[l/_long|long]] term.**
+- **To [[p/_pledge|pledge]] and [[m/_make|make]] [[l/_liable|liable]]; to [[m/_make|make]] [[s/_subject|subject]] to [[o/_obligation|obligation]]; to [[a/_achieve|achieve]] an [[i/_immediate|immediate]] [[r/_result|result]] by [[p/_paying|paying]] for it in the [[l/_long|long]] term.**
 ---
 #noun
 - **The [[a/_act|act]] by which [[s/_something|something]] is [[m/_mortgaged|mortgaged]].**

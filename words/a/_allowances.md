@@ -3,7 +3,7 @@
 #noun
 - **[[p/_permission|Permission]]; [[g/_granting|granting]], [[c/_conceding|conceding]], or [[a/_admitting|admitting]]**
 - **[[a/_acknowledgment|Acknowledgment]].**
-- **That which is [[a/_allowed|allowed]]; a [[s/_share|share]] or [[p/_portion|portion]] [[a/_allotted|allotted]] or [[g/_granted|granted]]; a sum [[g/_granted|granted]] as a [[r/_reimbursement|reimbursement]], a [[b/_bounty|bounty]], or as [[a/_appropriate|appropriate]] for [[a/_any|any]] [[p/_purpose|purpose]]; a [[s/_stated|stated]] [[q/_quantity|quantity]].**
+- **That which is [[a/_allowed|allowed]]; a [[s/_share|share]] or [[p/_portion|portion]] [[a/_allotted|allotted]] or [[g/_granted|granted]]; a [[s/_sum|sum]] [[g/_granted|granted]] as a [[r/_reimbursement|reimbursement]], a [[b/_bounty|bounty]], or as [[a/_appropriate|appropriate]] for [[a/_any|any]] [[p/_purpose|purpose]]; a [[s/_stated|stated]] [[q/_quantity|quantity]].**
 	- _Example: her meagre allowance of food or drink_
 - **[[a/_abatement|Abatement]]; [[d/_deduction|deduction]]; the taking [[i/_into|into]] [[a/_account|account]] of [[m/_mitigating|mitigating]] [[c/_circumstances|circumstances]]**
 	- _Example: to make allowance for his naivety_

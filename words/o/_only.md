@@ -6,7 +6,7 @@
 #adjective
 - **[[a/_alone|Alone]] in a [[c/_category|category]].**
 	- _Example: He is the only doctor for miles._
-- **[[s/_singularly|Singularly]] superior; the [[b/_best|best]].**
+- **[[s/_singularly|Singularly]] [[s/_superior|superior]]; the [[b/_best|best]].**
 - **Without [[s/_sibling|sibling]]; without a [[s/_sibling|sibling]] of the [[s/_same|same]] [[g/_gender|gender]].**
 	- _Example: He is their only son, in fact, an only child._
 - **[[m/_mere|Mere]].**

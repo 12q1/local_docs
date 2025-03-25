@@ -4,7 +4,7 @@
 - **The [[a/_action|action]] of [[s/_squeezing|squeezing]] a [[s/_small|small]] [[a/_amount|amount]] of a [[p/_person|person]]'[[s/_s|s]] [[s/_skin|skin]] and [[f/_flesh|flesh]], [[m/_making|making]] it [[h/_hurt|hurt]].**
 - **A [[c/_close|close]] [[c/_compression|compression]] of [[a/_anything|anything]] with the [[f/_fingers|fingers]].**
 	- _Example: I gave the leather of the sofa a pinch, gauging the texture._
-- **A [[s/_small|small]] [[a/_amount|amount]] of [[p/_powder|powder]] or [[g/_granules|granules]], such that the [[a/_amount|amount]] [[c/_could|could]] be [[h/_held|held]] [[b/_between|between]] [[f/_fingertip|fingertip]] and thumb tip.**
+- **A [[s/_small|small]] [[a/_amount|amount]] of [[p/_powder|powder]] or [[g/_granules|granules]], [[s/_such|such]] that the [[a/_amount|amount]] [[c/_could|could]] be [[h/_held|held]] [[b/_between|between]] [[f/_fingertip|fingertip]] and thumb tip.**
 - **An [[a/_awkward|awkward]] [[s/_situation|situation]] of [[s/_some|some]] [[k/_kind|kind]] ([[e/_especially|especially]] [[m/_money|money]] or [[s/_social|social]]) which is [[d/_difficult|difficult]] to [[e/_escape|escape]].**
 - **A [[m/_metal|metal]] [[b/_bar|bar]] used as a [[l/_lever|lever]] for [[l/_lifting|lifting]] weights, [[r/_rolling|rolling]] wheels, [[e/_etc|etc]].**
 - **An [[o/_organic|organic]] [[h/_herbal|herbal]] [[s/_smoke|smoke]] [[a/_additive|additive]].**

@@ -1,7 +1,7 @@
 # Condescending
 ---
 #verb
-- **To [[c/_come|come]] [[d/_down|down]] from [[o/_one|one]]'[[s/_s|s]] superior [[p/_position|position]]; to [[d/_deign|deign]] (to [[d/_do|do]] [[s/_something|something]]).**
+- **To [[c/_come|come]] [[d/_down|down]] from [[o/_one|one]]'[[s/_s|s]] [[s/_superior|superior]] [[p/_position|position]]; to [[d/_deign|deign]] (to [[d/_do|do]] [[s/_something|something]]).**
 - **To treat ([[s/_someone|someone]]) as though [[i/_inferior|inferior]]; to be [[p/_patronizing|patronizing]] (toward [[s/_someone|someone]]); to talk [[d/_down|down]] (to [[s/_someone|someone]]).**
 - **([[p/_possibly|possibly]] [[n/_nonstandard|nonstandard]]) To treat ([[s/_someone|someone]]) as though [[i/_inferior|inferior]]; to be [[p/_patronizing|patronizing]] toward ([[s/_someone|someone]]); to talk [[d/_down|down]] to ([[s/_someone|someone]]).**
 - **To [[c/_consent|consent]], [[a/_agree|agree]].**
@@ -10,7 +10,7 @@
 ### Synonyms
 - [[d/_descend|descend]], [[a/_acquiesce|acquiesce]], [[d/_deign|deign]], [[s/_stoop|stoop]], [[v/_vouchsafe|vouchsafe]], [[y/_yield|yield]], [[b/_belittle|belittle]], [[p/_patronize|patronize]]
 #adjective
-- **[[a/_assuming|Assuming]] a tone of superiority, or a [[p/_patronizing|patronizing]] [[a/_attitude|attitude]].**
+- **[[a/_assuming|Assuming]] a tone of [[s/_superiority|superiority]], or a [[p/_patronizing|patronizing]] [[a/_attitude|attitude]].**
 	- _Example: Quit talking to me in that condescending tone! You always treat me like a child!_
 ---
 ### Synonyms

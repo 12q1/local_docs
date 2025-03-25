@@ -12,8 +12,8 @@
 ---
 #adjective
 - **[[h/_having|Having]] undergone an [[i/_impact|impact]].**
-- **Of a tooth, subject to [[d/_dental|dental]] [[i/_impaction|impaction]].**
+- **Of a tooth, [[s/_subject|subject]] to [[d/_dental|dental]] [[i/_impaction|impaction]].**
 	- _Example: Being the last teeth to erupt in the oral cavity, many wisdom teeth are impacted._
-- **[[h/_having|Having]] [[l/_lost|lost]] [[p/_property|property]] [[r/_revenue|revenue]] [[d/_due|due]] to [[f/_federal|Federal]] [[p/_presence|presence]], such that it [[m/_may|may]] [[r/_receive|receive]] [[i/_impact|impact]] [[a/_aid|aid]].**
+- **[[h/_having|Having]] [[l/_lost|lost]] [[p/_property|property]] [[r/_revenue|revenue]] [[d/_due|due]] to [[f/_federal|Federal]] [[p/_presence|presence]], [[s/_such|such]] that it [[m/_may|may]] [[r/_receive|receive]] [[i/_impact|impact]] [[a/_aid|aid]].**
 ---
 ---

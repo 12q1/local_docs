@@ -1,7 +1,7 @@
 # Blinker
 ---
 #noun
-- **[[a/_anything|Anything]] that [[b/_blinks|blinks]], such as the turn [[s/_signal|signal]] of an [[a/_automobile|automobile]].**
+- **[[a/_anything|Anything]] that [[b/_blinks|blinks]], [[s/_such|such]] as the turn [[s/_signal|signal]] of an [[a/_automobile|automobile]].**
 - **[[e/_eye|Eye]] [[s/_shields|shields]] [[a/_attached|attached]] to a [[h/_hood|hood]] for [[h/_horses|horses]], to [[p/_prevent|prevent]] them from [[s/_seeing|seeing]] [[b/_backwards|backwards]] and [[p/_partially|partially]] [[s/_sideways|sideways]].**
 - **Whatever [[o/_obstructs|obstructs]] [[s/_sight|sight]] or [[d/_discernment|discernment]].**
 - **The [[e/_eyelid|eyelid]].**

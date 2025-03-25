@@ -5,7 +5,7 @@
 	- _Example: Statistics is the only mathematical field required for many social sciences._
 ---
 #noun
-- **A [[s/_systematic|systematic]] [[c/_collection|collection]] of [[d/_data|data]] on [[m/_measurements|measurements]] or [[o/_observations|observations]], [[o/_often|often]] [[r/_related|related]] to [[d/_demographic|demographic]] [[i/_information|information]] such as [[p/_population|population]] [[c/_counts|counts]], [[i/_incomes|incomes]], [[p/_population|population]] [[c/_counts|counts]] at [[d/_different|different]] [[a/_ages|ages]], [[e/_etc|etc]].**
+- **A [[s/_systematic|systematic]] [[c/_collection|collection]] of [[d/_data|data]] on [[m/_measurements|measurements]] or [[o/_observations|observations]], [[o/_often|often]] [[r/_related|related]] to [[d/_demographic|demographic]] [[i/_information|information]] [[s/_such|such]] as [[p/_population|population]] [[c/_counts|counts]], [[i/_incomes|incomes]], [[p/_population|population]] [[c/_counts|counts]] at [[d/_different|different]] [[a/_ages|ages]], [[e/_etc|etc]].**
 	- _Example: The statistics from the Census for apportionment are available._
 ---
 ### Synonyms

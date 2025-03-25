@@ -2,7 +2,7 @@
 ---
 #verb
 - **To be a [[m/_master|master]].**
-- **To [[b/_become|become]] the [[m/_master|master]] of; to subject to [[o/_one|one]]'[[s/_s|s]] will, [[c/_control|control]], or [[a/_authority|authority]]; to [[c/_conquer|conquer]]; to [[o/_overpower|overpower]]; to subdue.**
+- **To [[b/_become|become]] the [[m/_master|master]] of; to [[s/_subject|subject]] to [[o/_one|one]]'[[s/_s|s]] will, [[c/_control|control]], or [[a/_authority|authority]]; to [[c/_conquer|conquer]]; to [[o/_overpower|overpower]]; to [[s/_subdue|subdue]].**
 - **To [[l/_learn|learn]] to a [[h/_high|high]] [[d/_degree|degree]] of [[p/_proficiency|proficiency]].**
 	- _Example: It took her years to master the art of needlecraft._
 - **To [[o/_own|own]]; to [[p/_possess|possess]].**

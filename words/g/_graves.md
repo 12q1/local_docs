@@ -7,12 +7,12 @@
 ---
 #verb
 - **To [[d/_dig|dig]].**
-- **To [[c/_carve|carve]] or [[c/_cut|cut]], as [[l/_letters|letters]] or [[f/_figures|figures]], on [[s/_some|some]] [[h/_hard|hard]] substance; to [[e/_engrave|engrave]].**
+- **To [[c/_carve|carve]] or [[c/_cut|cut]], as [[l/_letters|letters]] or [[f/_figures|figures]], on [[s/_some|some]] [[h/_hard|hard]] [[s/_substance|substance]]; to [[e/_engrave|engrave]].**
 - **To [[c/_carve|carve]] [[o/_out|out]] or [[g/_give|give]] [[s/_shape|shape]] to, by [[c/_cutting|cutting]] with a [[c/_chisel|chisel]]; to [[s/_sculpture|sculpture]].**
 	- _Example: to grave an image_
 - **To [[i/_impress|impress]] [[d/_deeply|deeply]] (on the [[m/_mind|mind]]); to [[f/_fix|fix]] [[i/_indelibly|indelibly]].**
 - **To [[e/_entomb|entomb]]; to [[b/_bury|bury]].**
-- **To write or [[d/_delineate|delineate]] on [[h/_hard|hard]] substances, by [[m/_means|means]] of [[i/_incised|incised]] [[l/_lines|lines]]; to [[p/_practice|practice]] [[e/_engraving|engraving]].**
+- **To write or [[d/_delineate|delineate]] on [[h/_hard|hard]] [[s/_substances|substances]], by [[m/_means|means]] of [[i/_incised|incised]] [[l/_lines|lines]]; to [[p/_practice|practice]] [[e/_engraving|engraving]].**
 ---
 #noun
 - **A written [[a/_accent|accent]] used in [[f/_french|French]], [[i/_italian|Italian]], and [[o/_other|other]] [[l/_languages|languages]]. è is an [[e/_e|e]] with a [[g/_grave|grave]] [[a/_accent|accent]] (`).**

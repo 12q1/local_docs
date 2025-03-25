@@ -8,7 +8,7 @@
 - **To [[p/_pour|pour]] (a [[l/_liquid|liquid]], [[d/_drink|drink]], [[e/_etc|etc]].) [[i/_into|into]] a [[c/_cup|cup]].**
 	- _Example: We are cupping some new brands of coffee today._
 - **To supply with [[c/_cups|cups]] of wine.**
-- **To [[a/_apply|apply]] a [[c/_cupping|cupping]] [[a/_apparatus|apparatus]] to; to subject to the [[o/_operation|operation]] of [[c/_cupping|cupping]].**
+- **To [[a/_apply|apply]] a [[c/_cupping|cupping]] [[a/_apparatus|apparatus]] to; to [[s/_subject|subject]] to the [[o/_operation|operation]] of [[c/_cupping|cupping]].**
 - **To [[m/_make|make]] [[c/_concave|concave]] or in the [[f/_form|form]] of a [[c/_cup|cup]].**
 	- _Example: to cup the end of a screw_
 ---

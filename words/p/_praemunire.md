@@ -1,7 +1,7 @@
 # Praemunire
 ---
 #noun
-- **The [[o/_offence|offence]] in [[e/_english|English]] [[l/_law|law]] of [[b/_bringing|bringing]] suit in or [[o/_obeying|obeying]] a [[f/_foreign|foreign]] ([[e/_especially|especially]] [[p/_papal|papal]]) [[c/_court|court]] or [[a/_authority|authority]], thus [[c/_challenging|challenging]] the supremacy of the [[c/_crown|Crown]]. The [[o/_offence|offence]] was [[c/_created|created]] by the [[s/_statute|Statute]] of [[p/_praemunire|Praemunire]] 1393 (16 [[r/_richard|Richard]] [[i/_ii|II]], [[c/_chapter|chapter]] 5), and [[a/_abolished|abolished]] by the [[c/_criminal|Criminal]] [[l/_law|Law]] [[a/_act|Act]] 1967 ([[c/_chapter|chapter]] 58).**
+- **The [[o/_offence|offence]] in [[e/_english|English]] [[l/_law|law]] of [[b/_bringing|bringing]] [[s/_suit|suit]] in or [[o/_obeying|obeying]] a [[f/_foreign|foreign]] ([[e/_especially|especially]] [[p/_papal|papal]]) [[c/_court|court]] or [[a/_authority|authority]], thus [[c/_challenging|challenging]] the supremacy of the [[c/_crown|Crown]]. The [[o/_offence|offence]] was [[c/_created|created]] by the [[s/_statute|Statute]] of [[p/_praemunire|Praemunire]] 1393 (16 [[r/_richard|Richard]] [[i/_ii|II]], [[c/_chapter|chapter]] 5), and [[a/_abolished|abolished]] by the [[c/_criminal|Criminal]] [[l/_law|Law]] [[a/_act|Act]] 1967 ([[c/_chapter|chapter]] 58).**
 - **The writ [[c/_charging|charging]] a [[p/_person|person]] with this [[o/_offence|offence]], the writ of [[p/_praemunire|praemunire]] [[f/_facias|facias]].**
 - **(in [[e/_extended|extended]] use) [[a/_any|Any]] of a [[n/_number|number]] of [[c/_criminal|criminal]] [[o/_offences|offences]] [[i/_incurring|incurring]] [[s/_similar|similar]] [[p/_penalties|penalties]] to the [[o/_original|original]] [[o/_offence|offence]] of [[p/_praemunire|praemunire]].**
 - **[[c/_crime|Crime]], [[o/_offence|offence]], wrongdoing.**
@@ -9,6 +9,6 @@
 - **A [[d/_difficulty|difficulty]] or [[p/_predicament|predicament]].**
 ---
 #verb
-- **To [[c/_charge|charge]] with the [[o/_offence|offence]] of [[p/_praemunire|praemunire]]; to subject to the [[p/_penalties|penalties]] of [[p/_praemunire|praemunire]].**
+- **To [[c/_charge|charge]] with the [[o/_offence|offence]] of [[p/_praemunire|praemunire]]; to [[s/_subject|subject]] to the [[p/_penalties|penalties]] of [[p/_praemunire|praemunire]].**
 ---
 ---

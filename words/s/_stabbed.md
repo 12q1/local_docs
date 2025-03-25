@@ -5,7 +5,7 @@
 	- _Example: If you stab him in the heart he won't live long enough to retaliate._
 - **To thrust in a [[s/_stabbing|stabbing]] [[m/_motion|motion]].**
 	- _Example: to stab a dagger into a person_
-- **To [[r/_recklessly|recklessly]] [[h/_hit|hit]] with the tip of a [[p/_pointed|pointed]] [[o/_object|object]], such as a weapon or [[f/_finger|finger]] ([[o/_often|often]] used with at).**
+- **To [[r/_recklessly|recklessly]] [[h/_hit|hit]] with the tip of a [[p/_pointed|pointed]] [[o/_object|object]], [[s/_such|such]] as a weapon or [[f/_finger|finger]] ([[o/_often|often]] used with at).**
 	- _Example: He stabbed at my face with the twig but luckily kept missing my eyes._
 - **To [[c/_cause|cause]] a [[s/_sharp|sharp]], [[p/_painful|painful]] [[s/_sensation|sensation]] ([[o/_often|often]] used with at).**
 	- _Example: The snow from the blizzard was stabbing at my face as I skied down the mountain._

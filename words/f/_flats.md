@@ -11,10 +11,10 @@
 - **The [[f/_flat|flat]] [[p/_part|part]] of [[s/_something|something]]:**
 - **A wide, [[s/_shallow|shallow]] [[c/_container|container]] or [[p/_pallet|pallet]].**
 	- _Example: a flat of strawberries_
-- **([[m/_mail|mail]]) A [[l/_large|large]] [[m/_mail|mail]] [[p/_piece|piece]] [[m/_measuring|measuring]] at [[l/_least|least]] 8 1/2 by 11 [[i/_inches|inches]], such as [[c/_catalogs|catalogs]], [[m/_magazines|magazines]], and unfolded [[p/_paper|paper]] [[e/_enclosed|enclosed]] in [[l/_large|large]] [[e/_envelopes|envelopes]].**
+- **([[m/_mail|mail]]) A [[l/_large|large]] [[m/_mail|mail]] [[p/_piece|piece]] [[m/_measuring|measuring]] at [[l/_least|least]] 8 1/2 by 11 [[i/_inches|inches]], [[s/_such|such]] as [[c/_catalogs|catalogs]], [[m/_magazines|magazines]], and unfolded [[p/_paper|paper]] [[e/_enclosed|enclosed]] in [[l/_large|large]] [[e/_envelopes|envelopes]].**
 - **A [[r/_railroad|railroad]] [[c/_car|car]] without a [[r/_roof|roof]], and whose [[b/_body|body]] is a [[p/_platform|platform]] without [[s/_sides|sides]]; a [[p/_platform|platform]] [[c/_car|car]] or [[f/_flatcar|flatcar]].**
 - **A [[f/_flat|flat]]-[[b/_bottomed|bottomed]] [[b/_boat|boat]], without [[k/_keel|keel]], and of [[s/_small|small]] [[d/_draught|draught]].**
-- **A subset of [[n/_n|n]]-[[d/_dimensional|dimensional]] [[s/_space|space]] that is [[c/_congruent|congruent]] to a [[e/_euclidean|Euclidean]] [[s/_space|space]] of [[l/_lower|lower]] [[d/_dimension|dimension]].**
+- **A [[s/_subset|subset]] of [[n/_n|n]]-[[d/_dimensional|dimensional]] [[s/_space|space]] that is [[c/_congruent|congruent]] to a [[e/_euclidean|Euclidean]] [[s/_space|space]] of [[l/_lower|lower]] [[d/_dimension|dimension]].**
 - **A [[s/_straw|straw]] [[h/_hat|hat]], [[b/_broad|broad]]-[[b/_brimmed|brimmed]] and [[l/_low|low]]-[[c/_crowned|crowned]].**
 - **A [[f/_flat|flat]] [[s/_sheet|sheet]] for use on a [[b/_bed|bed]].**
 - **A [[p/_platform|platform]] on a wheel, upon which [[e/_emblematic|emblematic]] [[d/_designs|designs]] [[e/_etc|etc]]. are [[c/_carried|carried]] in [[p/_processions|processions]].**

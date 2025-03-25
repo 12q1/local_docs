@@ -5,7 +5,7 @@
 - **The [[c/_cluster|cluster]] of [[s/_small|small]] [[f/_feathers|feathers]] at the [[b/_base|base]] of the [[b/_beak|beak]] in [[s/_some|some]] [[b/_birds|birds]].**
 - **The [[a/_appendages|appendages]] to the [[j/_jaw|jaw]] in [[s/_some|some]] [[c/_cetaceans|cetaceans]], and to the [[m/_mouth|mouth]] or [[j/_jaws|jaws]] of [[s/_some|some]] [[f/_fishes|fishes]].**
 - **The [[b/_byssus|byssus]] of [[c/_certain|certain]] [[s/_shellfish|shellfish]].**
-- **The [[g/_gills|gills]] of [[s/_some|some]] [[b/_bivalves|bivalves]], such as the [[o/_oyster|oyster]].**
+- **The [[g/_gills|gills]] of [[s/_some|some]] [[b/_bivalves|bivalves]], [[s/_such|such]] as the [[o/_oyster|oyster]].**
 - **In [[i/_insects|insects]], the [[h/_hairs|hairs]] of the [[l/_labial|labial]] [[p/_palpi|palpi]] of [[m/_moths|moths]] and [[b/_butterflies|butterflies]].**
 - **[[l/_long|Long]] or [[s/_stiff|stiff]] [[h/_hairs|hairs]] on a [[p/_plant|plant]]; the [[a/_awn|awn]].**
 	- _Example: the beard of grain_

@@ -10,6 +10,6 @@
 ### Synonyms
 - [[s/_submerge|submerge]]
 #adjective
-- **[[i/_immersed|Immersed]]; [[b/_buried|buried]]; sunk.**
+- **[[i/_immersed|Immersed]]; [[b/_buried|buried]]; [[s/_sunk|sunk]].**
 ---
 ---

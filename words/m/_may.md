@@ -8,7 +8,7 @@
 	- _Example: you may smoke outside;  may I sit there?_
 - **([[m/_modal|modal]] [[a/_auxiliary|auxiliary]] verb, [[d/_defective|defective]]) [[e/_expressing|Expressing]] a [[p/_present|present]] [[p/_possibility|possibility]]; [[p/_possibly|possibly]].**
 	- _Example: he may be lying;  Schrödinger's cat may or may not be in the box_
-- **(subjunctive [[p/_present|present]], [[d/_defective|defective]]) [[e/_expressing|Expressing]] a wish (with [[p/_present|present]] subjunctive [[e/_effect|effect]]).**
+- **([[s/_subjunctive|subjunctive]] [[p/_present|present]], [[d/_defective|defective]]) [[e/_expressing|Expressing]] a wish (with [[p/_present|present]] [[s/_subjunctive|subjunctive]] [[e/_effect|effect]]).**
 	- _Example: may you win;  may the weather be sunny_
 - **Used in [[m/_modesty|modesty]], [[c/_courtesy|courtesy]], or [[c/_concession|concession]], or to [[s/_soften|soften]] a [[q/_question|question]] or [[r/_remark|remark]].**
 ---

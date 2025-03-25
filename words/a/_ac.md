@@ -33,7 +33,7 @@
 ### Synonyms
 - [[A/_AC|AC]]
 #noun
-- **A [[r/_regularly|regularly]] updated [[r/_record|record]] of transactions [[b/_between|between]] two [[p/_parties|parties]] [[s/_showing|showing]] what is [[o/_owed|owed]] or [[d/_due|due]] to [[e/_each|each]] [[p/_party|party]] or a [[s/_statement|statement]] summarising the [[p/_position|position]]**
+- **A [[r/_regularly|regularly]] updated [[r/_record|record]] of transactions [[b/_between|between]] two [[p/_parties|parties]] [[s/_showing|showing]] what is [[o/_owed|owed]] or [[d/_due|due]] to [[e/_each|each]] [[p/_party|party]] or a [[s/_statement|statement]] [[s/_summarising|summarising]] the [[p/_position|position]]**
 ---
 #noun
 - **An [[e/_english|English]] unit of [[l/_land|land]] [[a/_area|area]] ([[s/_symbol|symbol]]: a. or [[a/_ac|ac]].) [[o/_originally|originally]] [[d/_denoting|denoting]] a [[d/_day|day]]'[[s/_s|s]] [[p/_plowing|plowing]] for a [[y/_yoke|yoke]] of [[o/_oxen|oxen]], [[n/_now|now]] [[s/_standardized|standardized]] as 4,840 [[s/_square|square]] [[y/_yards|yards]] or 4,046.86 [[s/_square|square]] [[m/_meters|meters]].**
@@ -59,8 +59,8 @@
 - **A [[m/_member|member]] of the [[l/_lowest|lowest]] [[r/_rank|rank]] in the [[r/_royal|Royal]] [[a/_air|Air]] [[f/_force|Force]] or the [[a/_air|air]] [[f/_forces|forces]] of various [[o/_other|other]] [[c/_commonwealth|Commonwealth]] [[c/_countries|countries]].**
 ---
 #noun
-- **An [[e/_electric|electric]] [[c/_current|current]] in which the [[d/_direction|direction]] of [[f/_flow|flow]] of the [[e/_electrons|electrons]] [[r/_reverses|reverses]] [[p/_periodically|periodically]], such as [[s/_sawtooth|sawtooth]], [[s/_sinusoidal|sinusoidal]] or [[s/_square|square]] wave [[c/_current|current]].**
-- **An [[e/_electric|electric]] [[c/_current|current]] in which the [[d/_direction|direction]] of [[f/_flow|flow]] of the [[e/_electrons|electrons]] [[r/_reverses|reverses]] [[p/_periodically|periodically]] by a [[s/_sinusoidal|sinusoidal]] [[l/_law|law]], [[h/_hence|hence]] [[h/_having|having]] an [[a/_average|average]] of zero, with [[p/_positive|positive]] and [[n/_negative|negative]] values (with a [[f/_frequency|frequency]] of 50 Hz in [[e/_europe|Europe]], 60 Hz in the US, 400 Hz for [[a/_airport|airport]] [[l/_lighting|lighting]], and [[s/_some|some]] [[o/_others|others]]); [[e/_especially|especially]] such a [[c/_current|current]] [[p/_produced|produced]] by a [[r/_rotating|rotating]] [[g/_generator|generator]] or [[a/_alternator|alternator]].**
+- **An [[e/_electric|electric]] [[c/_current|current]] in which the [[d/_direction|direction]] of [[f/_flow|flow]] of the [[e/_electrons|electrons]] [[r/_reverses|reverses]] [[p/_periodically|periodically]], [[s/_such|such]] as [[s/_sawtooth|sawtooth]], [[s/_sinusoidal|sinusoidal]] or [[s/_square|square]] wave [[c/_current|current]].**
+- **An [[e/_electric|electric]] [[c/_current|current]] in which the [[d/_direction|direction]] of [[f/_flow|flow]] of the [[e/_electrons|electrons]] [[r/_reverses|reverses]] [[p/_periodically|periodically]] by a [[s/_sinusoidal|sinusoidal]] [[l/_law|law]], [[h/_hence|hence]] [[h/_having|having]] an [[a/_average|average]] of zero, with [[p/_positive|positive]] and [[n/_negative|negative]] values (with a [[f/_frequency|frequency]] of 50 Hz in [[e/_europe|Europe]], 60 Hz in the US, 400 Hz for [[a/_airport|airport]] [[l/_lighting|lighting]], and [[s/_some|some]] [[o/_others|others]]); [[e/_especially|especially]] [[s/_such|such]] a [[c/_current|current]] [[p/_produced|produced]] by a [[r/_rotating|rotating]] [[g/_generator|generator]] or [[a/_alternator|alternator]].**
 ---
 #noun
 - **A water-[[s/_soluble|soluble]] [[s/_salt|salt]] of [[a/_ammonia|ammonia]] and [[h/_hydrochloric|hydrochloric]] [[a/_acid|acid]], [[h/_having|having]] the [[f/_formula|formula]] NH4Cl.**

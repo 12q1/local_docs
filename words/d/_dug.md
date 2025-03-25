@@ -11,7 +11,7 @@
 	- _Example: to dig out the facts_
 - **To thrust; to [[p/_poke|poke]].**
 	- _Example: He dug an elbow into my ribs and guffawed at his own joke._
-- **To [[d/_defend|defend]] [[a/_against|against]] an [[a/_attack|attack]] [[h/_hit|hit]] by the [[o/_opposing|opposing]] team by successfully [[p/_passing|passing]] the [[b/_ball|ball]]**
+- **To [[d/_defend|defend]] [[a/_against|against]] an [[a/_attack|attack]] [[h/_hit|hit]] by the [[o/_opposing|opposing]] team by [[s/_successfully|successfully]] [[p/_passing|passing]] the [[b/_ball|ball]]**
 ---
 #verb
 - **To understand or [[s/_show|show]] [[i/_interest|interest]] in.**

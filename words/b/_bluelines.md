@@ -1,7 +1,7 @@
 # Bluelines
 ---
 #noun
-- **A [[r/_reproduction|reproduction]] of the [[m/_material|material]] submitted for [[p/_printing|printing]], [[c/_computer|computer]]-[[g/_generated|generated]] or [[p/_printed|printed]] from [[f/_film|film]], [[p/_provided|provided]] to the [[c/_customer|customer]] for [[a/_approval|approval]] [[b/_before|before]] the [[m/_material|material]] is [[p/_printed|printed]].**
+- **A [[r/_reproduction|reproduction]] of the [[m/_material|material]] [[s/_submitted|submitted]] for [[p/_printing|printing]], [[c/_computer|computer]]-[[g/_generated|generated]] or [[p/_printed|printed]] from [[f/_film|film]], [[p/_provided|provided]] to the [[c/_customer|customer]] for [[a/_approval|approval]] [[b/_before|before]] the [[m/_material|material]] is [[p/_printed|printed]].**
 ---
 #verb
 - **To [[c/_create|create]] the [[b/_bluelines|bluelines]] for [[m/_material|material]] that is [[a/_about|about]] to be [[p/_printed|printed]].**

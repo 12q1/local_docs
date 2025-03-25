@@ -12,8 +12,8 @@
 - **A [[p/_part|part]] [[d/_divided|divided]] [[o/_off|off]] by walls; an [[a/_apartment|apartment]]; a [[c/_compartment|compartment]].**
 - **The [[s/_severance|severance]] of [[c/_common|common]] or undivided [[i/_interests|interests]], [[p/_particularly|particularly]] in [[r/_real|real]] [[e/_estate|estate]]. It [[m/_may|may]] be [[e/_effected|effected]] by [[c/_consent|consent]] of [[p/_parties|parties]], or by [[c/_compulsion|compulsion]] of [[l/_law|law]].**
 - **A [[s/_section|section]] of a [[h/_hard|hard]] [[d/_disk|disk]] [[s/_separately|separately]] [[f/_formatted|formatted]].**
-- **A [[d/_division|division]] of a [[d/_database|database]] or [[o/_one|one]] of [[i/_its|its]] [[c/_constituting|constituting]] [[e/_elements|elements]] such as tables [[i/_into|into]] [[s/_separate|separate]] [[i/_independent|independent]] [[p/_parts|parts]].**
-- **A [[c/_collection|collection]] of [[n/_non|non]]-[[e/_empty|empty]], [[d/_disjoint|disjoint]] subsets of a [[s/_set|set]] whose union is the [[s/_set|set]] [[i/_itself|itself]] ([[i/_i|i]].[[e/_e|e]]. [[a/_all|all]] [[e/_elements|elements]] of the [[s/_set|set]] are [[c/_contained|contained]] in [[e/_exactly|exactly]] [[o/_one|one]] of the subsets).**
+- **A [[d/_division|division]] of a [[d/_database|database]] or [[o/_one|one]] of [[i/_its|its]] [[c/_constituting|constituting]] [[e/_elements|elements]] [[s/_such|such]] as tables [[i/_into|into]] [[s/_separate|separate]] [[i/_independent|independent]] [[p/_parts|parts]].**
+- **A [[c/_collection|collection]] of [[n/_non|non]]-[[e/_empty|empty]], [[d/_disjoint|disjoint]] [[s/_subsets|subsets]] of a [[s/_set|set]] whose union is the [[s/_set|set]] [[i/_itself|itself]] ([[i/_i|i]].[[e/_e|e]]. [[a/_all|all]] [[e/_elements|elements]] of the [[s/_set|set]] are [[c/_contained|contained]] in [[e/_exactly|exactly]] [[o/_one|one]] of the [[s/_subsets|subsets]]).**
 - **A [[m/_musical|musical]] [[s/_score|score]].**
 ---
 ### Synonyms

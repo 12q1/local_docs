@@ -9,8 +9,8 @@
 - **To [[s/_speak|speak]] in a [[l/_loud|loud]] and [[d/_domineering|domineering]] [[m/_manner|manner]]; to [[b/_bluster|bluster]], to swagger.**
 ---
 #verb
-- **To [[p/_play|play]] a trump [[c/_card|card]] to a trick when unable to [[f/_follow|follow]] suit (that is, to [[p/_play|play]] a [[c/_card|card]] of the [[s/_same|same]] suit as the [[p/_previous|previous]] or [[l/_leading|leading]] [[c/_card|card]]).**
-- **[[e/_especially|Especially]] in the [[f/_form|form]] [[r/_ruff|ruff]] [[o/_out|out]]: to [[d/_defeat|defeat]] (a [[c/_card|card]], [[e/_etc|etc]].) by [[r/_ruffing|ruffing]], thus [[e/_establishing|establishing]] the [[m/_master|master]] [[c/_card|card]] in the suit [[l/_led|led]].**
+- **To [[p/_play|play]] a trump [[c/_card|card]] to a trick when unable to [[f/_follow|follow]] [[s/_suit|suit]] (that is, to [[p/_play|play]] a [[c/_card|card]] of the [[s/_same|same]] [[s/_suit|suit]] as the [[p/_previous|previous]] or [[l/_leading|leading]] [[c/_card|card]]).**
+- **[[e/_especially|Especially]] in the [[f/_form|form]] [[r/_ruff|ruff]] [[o/_out|out]]: to [[d/_defeat|defeat]] (a [[c/_card|card]], [[e/_etc|etc]].) by [[r/_ruffing|ruffing]], thus [[e/_establishing|establishing]] the [[m/_master|master]] [[c/_card|card]] in the [[s/_suit|suit]] [[l/_led|led]].**
 ---
 ### Synonyms
 - [[t/_trump|trump]]

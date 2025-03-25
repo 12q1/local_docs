@@ -1,7 +1,7 @@
 # Rheumatic
 ---
 #noun
-- **A [[p/_person|person]] suffering from [[r/_rheumatism|rheumatism]]**
+- **A [[p/_person|person]] [[s/_suffering|suffering]] from [[r/_rheumatism|rheumatism]]**
 ---
 #adjective
 - **[[r/_resembling|Resembling]] or [[r/_relating|relating]] to [[r/_rheumatism|rheumatism]].**

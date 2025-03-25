@@ -27,7 +27,7 @@
 - **An [[i/_inclination|inclination]] to [[o/_one|one]] [[s/_side|side]]; a tilt.**
 ---
 #verb
-- **To [[h/_hide|hide]], [[c/_conceal|conceal]], and [[k/_keep|keep]] [[s/_secret|secret]], [[e/_especially|especially]] for a [[s/_secret|secret]] [[s/_society|society]] (such as the [[m/_masons|masons]]).**
+- **To [[h/_hide|hide]], [[c/_conceal|conceal]], and [[k/_keep|keep]] [[s/_secret|secret]], [[e/_especially|especially]] for a [[s/_secret|secret]] [[s/_society|society]] ([[s/_such|such]] as the [[m/_masons|masons]]).**
 - **([[n/_now|now]] [[e/_especially|especially]] in the [[p/_phrase|phrase]] "[[h/_hele|hele]] in") To [[c/_cover|cover]] or [[c/_conceal|conceal]] (a [[s/_seedling|seedling]], [[p/_plant|plant]], [[r/_roots|roots]], [[e/_etc|etc]]).**
 ---
 ---

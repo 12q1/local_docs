@@ -1,7 +1,7 @@
 # Lops
 ---
 #noun
-- **That which is [[l/_lopped|lopped]] from [[a/_anything|anything]], such as [[b/_branches|branches]] from a tree.**
+- **That which is [[l/_lopped|lopped]] from [[a/_anything|anything]], [[s/_such|such]] as [[b/_branches|branches]] from a tree.**
 ---
 #verb
 - **(usually with [[o/_off|off]]) To [[c/_cut|cut]] [[o/_off|off]] as the top or [[e/_extreme|extreme]] [[p/_part|part]] of [[a/_anything|anything]], [[e/_especially|especially]] to [[p/_prune|prune]] a [[s/_small|small]] [[l/_limb|limb]] [[o/_off|off]] a [[s/_shrub|shrub]] or tree, or [[s/_sometimes|sometimes]] to [[b/_behead|behead]] [[s/_someone|someone]].**

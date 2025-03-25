@@ -70,7 +70,7 @@
 - **To value; to [[r/_rate|rate]]; used with at.**
 - **To [[e/_establish|establish]] as a [[r/_rule|rule]]; to [[f/_furnish|furnish]]; to [[p/_prescribe|prescribe]]; to [[a/_assign|assign]].**
 	- _Example: to set a good example_
-- **To suit; to [[b/_become|become]].**
+- **To [[s/_suit|suit]]; to [[b/_become|become]].**
 	- _Example: It sets him ill._
 ---
 ### Synonyms
@@ -102,7 +102,7 @@
 #noun
 - **A [[y/_young|young]] [[p/_plant|plant]] [[f/_fit|fit]] for [[s/_setting|setting]] [[o/_out|out]]; a [[s/_slip|slip]]; [[s/_shoot|shoot]].**
 - **A [[r/_rudimentary|rudimentary]] [[f/_fruit|fruit]].**
-- **The [[s/_setting|setting]] of the sun or [[o/_other|other]] [[l/_luminary|luminary]]; (by [[e/_extension|extension]]) the [[c/_close|close]] of the [[d/_day|day]].**
+- **The [[s/_setting|setting]] of the [[s/_sun|sun]] or [[o/_other|other]] [[l/_luminary|luminary]]; (by [[e/_extension|extension]]) the [[c/_close|close]] of the [[d/_day|day]].**
 - **[[g/_general|General]] [[m/_movement|movement]]; [[d/_direction|direction]]; [[d/_drift|drift]]; tendency.**
 - **A [[m/_matching|matching]] [[c/_collection|collection]] of [[s/_similar|similar]] things. ([[n/_note|Note]] the [[s/_similar|similar]] [[m/_meaning|meaning]] in [[e/_etymology|Etymology]] 1, [[n/_noun|Noun]].)**
 	- _Example: a set of tables_
@@ -123,13 +123,13 @@
 - **A [[m/_musical|musical]] [[p/_performance|performance]] by a [[b/_band|band]], [[d/_disc|disc]] [[j/_jockey|jockey]], [[e/_etc|etc]]., [[c/_consisting|consisting]] of [[s/_several|several]] [[m/_musical|musical]] [[p/_pieces|pieces]].**
 - **A [[d/_drum|drum]] [[k/_kit|kit]], a [[d/_drum|drum]] [[s/_set|set]].**
 	- _Example: He plays the set on Saturdays._
-- **A [[c/_class|class]] [[g/_group|group]] in a subject where [[p/_pupils|pupils]] are [[d/_divided|divided]] by [[a/_ability|ability]].**
+- **A [[c/_class|class]] [[g/_group|group]] in a [[s/_subject|subject]] where [[p/_pupils|pupils]] are [[d/_divided|divided]] by [[a/_ability|ability]].**
 - **Three of a [[k/_kind|kind]], [[e/_especially|especially]] [[i/_if|if]] two [[c/_cards|cards]] are in [[o/_one|one]]'[[s/_s|s]] [[h/_hand|hand]] and the third is on the [[b/_board|board]]. [[c/_compare|Compare]] trips.**
 ---
 ### Synonyms
 - [[d/_dusk|dusk]], [[e/_eve|eve]], [[e/_evening|evening]], [[s/_sundown|sundown]], [[s/_sunset|sunset]], [[d/_drum|drum]], [[d/_direction|direction]], [[d/_drift|drift]], [[h/_heading|heading]], [[m/_motion|motion]], [[m/_movement|movement]], [[p/_path|path]], [[t/_tendency|tendency]], [[t/_trend|trend]], [[c/_club|club]], [[c/_coterie|coterie]], [[s/_suite|suite]], [[g/_gig|gig]], [[s/_session|session]], [[s/_scenery|scenery]]
 #verb
-- **To [[d/_divide|divide]] a [[c/_class|class]] [[g/_group|group]] in a subject [[a/_according|according]] to [[a/_ability|ability]]**
+- **To [[d/_divide|divide]] a [[c/_class|class]] [[g/_group|group]] in a [[s/_subject|subject]] [[a/_according|according]] to [[a/_ability|ability]]**
 ---
 #noun
 - **The [[s/_system|system]] of tunnels that is the [[h/_home|home]] of a [[b/_badger|badger]].**

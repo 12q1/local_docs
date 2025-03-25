@@ -1,7 +1,7 @@
 # Inflammable
 ---
 #noun
-- **[[a/_any|Any]] [[i/_inflammable|inflammable]] substance.**
+- **[[a/_any|Any]] [[i/_inflammable|inflammable]] [[s/_substance|substance]].**
 ---
 #adjective
 - **[[c/_capable|Capable]] of [[b/_burning|burning]]; [[e/_easily|easily]] [[s/_set|set]] on [[f/_fire|fire]].**

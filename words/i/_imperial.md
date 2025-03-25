@@ -17,7 +17,7 @@
 - **[[r/_related|Related]] to an [[e/_empire|empire]], [[e/_emperor|emperor]], or [[e/_empress|empress]].**
 - **[[r/_relating|Relating]] to the [[b/_british|British]] [[i/_imperial|imperial]] [[s/_system|system]] of [[m/_measurement|measurement]].**
 - **Very [[g/_grand|grand]] or [[f/_fine|fine]].**
-- **Of [[s/_special|special]], superior, or unusual [[s/_size|size]] or [[e/_excellence|excellence]].**
+- **Of [[s/_special|special]], [[s/_superior|superior]], or unusual [[s/_size|size]] or [[e/_excellence|excellence]].**
 ---
 ### Synonyms
 - 

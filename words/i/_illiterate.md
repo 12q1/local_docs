@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[i/_illiterate|illiterate]] [[p/_person|person]], [[o/_one|one]] not [[a/_able|able]] to [[r/_read|read]] and write.**
-- **A [[p/_person|person]] [[i/_ignorant|ignorant]] [[a/_about|about]] a [[g/_given|given]] subject.**
+- **A [[p/_person|person]] [[i/_ignorant|ignorant]] [[a/_about|about]] a [[g/_given|given]] [[s/_subject|subject]].**
 	- _Example: The government is run by business illiterates._
 ---
 ### Synonyms
@@ -11,7 +11,7 @@
 - **Unable to [[r/_read|read]] and write.**
 - **[[h/_having|Having]] [[l/_less|less]] than an [[e/_expected|expected]] [[s/_standard|standard]] of [[f/_familiarity|familiarity]] with [[l/_language|language]] and [[l/_literature|literature]], or [[h/_having|having]] [[l/_little|little]] [[f/_formal|formal]] [[e/_education|education]].**
 - **Not [[c/_conforming|conforming]] to [[p/_prescribed|prescribed]] [[s/_standards|standards]] of [[s/_speech|speech]] or writing.**
-- **[[i/_ignorant|Ignorant]] in a [[s/_specified|specified]] way or [[a/_about|about]] a [[s/_specified|specified]] subject.**
+- **[[i/_ignorant|Ignorant]] in a [[s/_specified|specified]] way or [[a/_about|about]] a [[s/_specified|specified]] [[s/_subject|subject]].**
 	- _Example: economically illiterate, emotionally illiterate_
 ---
 ### Synonyms

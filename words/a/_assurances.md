@@ -7,8 +7,8 @@
 - **[[e/_excess|Excess]] of [[b/_boldness|boldness]]; [[i/_impudence|impudence]]; [[a/_audacity|audacity]]**
 	- _Example: his assurance is intolerable_
 - **[[b/_betrothal|Betrothal]]; [[a/_affiance|affiance]].**
-- **[[i/_insurance|Insurance]]; a [[c/_contract|contract]] for the [[p/_payment|payment]] of a sum on [[o/_occasion|occasion]] of a [[c/_certain|certain]] [[e/_event|event]], as [[l/_loss|loss]] or [[d/_death|death]]. [[r/_recently|Recently]], [[a/_assurance|assurance]] [[h/_has|has]] [[b/_been|been]] used, in [[e/_england|England]], in [[r/_relation|relation]] to [[l/_life|life]] [[c/_contingencies|contingencies]], and [[i/_insurance|insurance]] in [[r/_relation|relation]] to [[o/_other|other]] [[c/_contingencies|contingencies]]. It is [[c/_called|called]] temporary [[a/_assurance|assurance]], in the time within which the [[c/_contingent|contingent]] [[e/_event|event]] [[m/_must|must]] [[h/_happen|happen]] is [[l/_limited|limited]].**
+- **[[i/_insurance|Insurance]]; a [[c/_contract|contract]] for the [[p/_payment|payment]] of a [[s/_sum|sum]] on [[o/_occasion|occasion]] of a [[c/_certain|certain]] [[e/_event|event]], as [[l/_loss|loss]] or [[d/_death|death]]. [[r/_recently|Recently]], [[a/_assurance|assurance]] [[h/_has|has]] [[b/_been|been]] used, in [[e/_england|England]], in [[r/_relation|relation]] to [[l/_life|life]] [[c/_contingencies|contingencies]], and [[i/_insurance|insurance]] in [[r/_relation|relation]] to [[o/_other|other]] [[c/_contingencies|contingencies]]. It is [[c/_called|called]] temporary [[a/_assurance|assurance]], in the time within which the [[c/_contingent|contingent]] [[e/_event|event]] [[m/_must|must]] [[h/_happen|happen]] is [[l/_limited|limited]].**
 - **[[a/_any|Any]] written or [[o/_other|other]] [[l/_legal|legal]] [[e/_evidence|evidence]] of the [[c/_conveyance|conveyance]] of [[p/_property|property]]; a [[c/_conveyance|conveyance]]; a [[d/_deed|deed]].**
-- **Subjective [[c/_certainty|certainty]] of [[o/_one|one]]'[[s/_s|s]] [[s/_salvation|salvation]].**
+- **[[s/_subjective|Subjective]] [[c/_certainty|certainty]] of [[o/_one|one]]'[[s/_s|s]] [[s/_salvation|salvation]].**
 ---
 ---

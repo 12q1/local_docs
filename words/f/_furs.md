@@ -7,7 +7,7 @@
 - **A [[c/_coating|coating]], [[l/_lining|lining]] [[r/_resembling|resembling]] [[f/_fur|fur]] in [[f/_function|function]] and/or [[a/_appearance|appearance]].**
 - **[[o/_one|One]] of [[s/_several|several]] [[p/_patterns|patterns]] or [[d/_diapers|diapers]] used as tinctures.**
 - **[[r/_rabbits|Rabbits]] and [[h/_hares|hares]], as [[o/_opposed|opposed]] to [[p/_partridges|partridges]] and [[p/_pheasants|pheasants]] ([[c/_called|called]] [[f/_feathers|feathers]]).**
-- **A [[f/_furry|furry]]; a [[m/_member|member]] of the [[f/_furry|furry]] subculture.**
+- **A [[f/_furry|furry]]; a [[m/_member|member]] of the [[f/_furry|furry]] [[s/_subculture|subculture]].**
 - **[[p/_pubic|Pubic]] [[h/_hair|hair]].**
 - **[[s/_sexual|Sexual]] [[a/_attractiveness|attractiveness]].**
 ---

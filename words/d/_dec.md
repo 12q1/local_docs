@@ -14,7 +14,7 @@
 ### Antonyms
 - [[g/_grow|grow]], [[i/_increase|increase]], [[r/_rise|rise]], [[s/_soar|soar]], [[i/_increase|increase]], [[i/_increment|increment]], [[r/_raise|raise]], [[u/_up|up]]
 #noun
-- **A [[s/_small|small]] [[q/_quantity|quantity]] [[r/_removed|removed]] or [[l/_lost|lost]]. [[o/_one|One]] of a [[s/_series|series]] of [[r/_regular|regular]] subtractions.**
+- **A [[s/_small|small]] [[q/_quantity|quantity]] [[r/_removed|removed]] or [[l/_lost|lost]]. [[o/_one|One]] of a [[s/_series|series]] of [[r/_regular|regular]] [[s/_subtractions|subtractions]].**
 ---
 ### Antonyms
 - [[i/_increment|increment]]

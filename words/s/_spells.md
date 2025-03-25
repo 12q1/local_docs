@@ -34,7 +34,7 @@
 - **A [[d/_definite|definite]] [[p/_period|period]] (of work or [[o/_other|other]] [[a/_activity|activity]]).**
 - **An [[i/_indefinite|indefinite]] [[p/_period|period]] of time (usually with a [[q/_qualifier|qualifier]]); by [[e/_extension|extension]], a [[r/_relatively|relatively]] [[s/_short|short]] [[d/_distance|distance]].**
 - **A [[p/_period|period]] of [[r/_rest|rest]]; time [[o/_off|off]].**
-- **A [[p/_period|period]] of [[i/_illness|illness]], or sudden [[i/_interval|interval]] of [[b/_bad|bad]] [[s/_spirits|spirits]], [[d/_disease|disease]] [[e/_etc|etc]].**
+- **A [[p/_period|period]] of [[i/_illness|illness]], or [[s/_sudden|sudden]] [[i/_interval|interval]] of [[b/_bad|bad]] [[s/_spirits|spirits]], [[d/_disease|disease]] [[e/_etc|etc]].**
 - **An uninterrupted [[s/_series|series]] of [[a/_alternate|alternate]] [[o/_overs|overs]] [[b/_bowled|bowled]] by a [[s/_single|single]] [[b/_bowler|bowler]].**
 ---
 #verb

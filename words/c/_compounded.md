@@ -10,7 +10,7 @@
 - **To [[s/_settle|settle]] [[a/_amicably|amicably]]; to [[a/_adjust|adjust]] by [[a/_agreement|agreement]]; to [[c/_compromise|compromise]].**
 - **To [[c/_come|come]] to terms of [[a/_agreement|agreement]]; to [[a/_agree|agree]]; to [[s/_settle|settle]] by a [[c/_compromise|compromise]]; usually [[f/_followed|followed]] by with [[b/_before|before]] the [[p/_person|person]] [[p/_participating|participating]], and for [[b/_before|before]] the thing [[c/_compounded|compounded]] or the [[c/_consideration|consideration]].**
 - **To [[c/_compose|compose]]; to [[c/_constitute|constitute]].**
-- **To [[i/_increase|increase]] in value with [[i/_interest|interest]], where the [[i/_interest|interest]] is [[e/_earned|earned]] on [[b/_both|both]] the [[p/_principal|principal]] sum and [[p/_prior|prior]] [[e/_earned|earned]] [[i/_interest|interest]].**
+- **To [[i/_increase|increase]] in value with [[i/_interest|interest]], where the [[i/_interest|interest]] is [[e/_earned|earned]] on [[b/_both|both]] the [[p/_principal|principal]] [[s/_sum|sum]] and [[p/_prior|prior]] [[e/_earned|earned]] [[i/_interest|interest]].**
 - **To worsen a [[s/_situation|situation]].**
 - **Of a [[h/_horse|horse]]: to [[f/_fail|fail]] to [[m/_maintain|maintain]] [[s/_speed|speed]].**
 ---

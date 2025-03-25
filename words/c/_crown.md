@@ -12,7 +12,7 @@
 - **The top [[p/_part|part]] of [[s/_something|something]]:**
 - **A [[k/_kind|kind]] of [[s/_spire|spire]] or [[l/_lantern|lantern]] [[f/_formed|formed]] by [[c/_converging|converging]] [[f/_flying|flying]] [[b/_buttresses|buttresses]].**
 - **[[s/_splendor|Splendor]]; [[c/_culmination|culmination]]; [[a/_acme|acme]].**
-- **[[a/_any|Any]] [[c/_currency|currency]] ([[o/_originally|originally]]) [[i/_issued|issued]] by the [[c/_crown|crown]] ([[r/_regal|regal]] [[p/_power|power]]) and [[o/_often|often]] [[b/_bearing|bearing]] a [[c/_crown|crown]] ([[h/_headdress|headdress]]); (translation) various [[c/_currencies|currencies]] [[k/_known|known]] by [[s/_similar|similar]] [[n/_names|names]] in their [[n/_native|native]] [[l/_languages|languages]], such as the [[k/_koruna|koruna]], kruna, [[k/_krone|krone]], [[k/_korona|korona]].**
+- **[[a/_any|Any]] [[c/_currency|currency]] ([[o/_originally|originally]]) [[i/_issued|issued]] by the [[c/_crown|crown]] ([[r/_regal|regal]] [[p/_power|power]]) and [[o/_often|often]] [[b/_bearing|bearing]] a [[c/_crown|crown]] ([[h/_headdress|headdress]]); (translation) various [[c/_currencies|currencies]] [[k/_known|known]] by [[s/_similar|similar]] [[n/_names|names]] in their [[n/_native|native]] [[l/_languages|languages]], [[s/_such|such]] as the [[k/_koruna|koruna]], kruna, [[k/_krone|krone]], [[k/_korona|korona]].**
 - **A [[f/_former|former]] [[p/_pre|pre]]-[[d/_decimalization|decimalization]] [[b/_british|British]] [[c/_coin|coin]] worth [[f/_five|five]] [[s/_shillings|shillings]].**
 - **The [[p/_part|part]] of a [[p/_plant|plant]] where the [[r/_root|root]] and [[s/_stem|stem]] [[m/_meet|meet]].**
 - **The top of a tree.**
@@ -30,7 +30,7 @@
 - **The [[a/_area|area]] [[e/_enclosed|enclosed]] [[b/_between|between]] two [[c/_concentric|concentric]] [[p/_perimeters|perimeters]].**
 - **A [[r/_round|round]] [[s/_spot|spot]] [[s/_shaved|shaved]] [[c/_clean|clean]] on the top of the [[h/_head|head]], as a [[m/_mark|mark]] of the [[c/_clerical|clerical]] [[s/_state|state]]; the tonsure.**
 - **A whole [[b/_bird|bird]] with the [[l/_legs|legs]] and wings [[r/_removed|removed]] to [[p/_produce|produce]] a [[j/_joint|joint]] of white [[m/_meat|meat]].**
-- **A [[f/_formal|formal]] [[h/_hat|hat]] worn by women to Sunday [[c/_church|church]] [[s/_services|services]]; a [[c/_church|church]] [[c/_crown|crown]].**
+- **A [[f/_formal|formal]] [[h/_hat|hat]] worn by women to [[s/_sunday|Sunday]] [[c/_church|church]] [[s/_services|services]]; a [[c/_church|church]] [[c/_crown|crown]].**
 - **The [[k/_knurled|knurled]] [[k/_knob|knob]] or [[d/_dial|dial]], on the [[o/_outside|outside]] of a watch [[c/_case|case]], used to wind it or [[a/_adjust|adjust]] the [[h/_hands|hands]].**
 ---
 ### Synonyms
@@ -43,13 +43,13 @@
 - **To [[d/_declare|declare]] ([[s/_someone|someone]]) a winner.**
 - **Of a [[b/_baby|baby]], [[d/_during|during]] the [[b/_birthing|birthing]] [[p/_process|process]]; for the surface of the [[b/_baby|baby]]'[[s/_s|s]] [[h/_head|head]] to [[a/_appear|appear]] in the vaginal [[o/_opening|opening]].**
 	- _Example: The mother was in the second stage of labor and the fetus had just crowned, prompting a round of encouragement from the midwives._
-- **To [[c/_cause|cause]] to [[r/_round|round]] upward; to [[m/_make|make]] [[a/_anything|anything]] [[h/_higher|higher]] at the [[m/_middle|middle]] than at the [[e/_edges|edges]], such as the [[f/_face|face]] of a [[m/_machine|machine]] [[p/_pulley|pulley]].**
+- **To [[c/_cause|cause]] to [[r/_round|round]] upward; to [[m/_make|make]] [[a/_anything|anything]] [[h/_higher|higher]] at the [[m/_middle|middle]] than at the [[e/_edges|edges]], [[s/_such|such]] as the [[f/_face|face]] of a [[m/_machine|machine]] [[p/_pulley|pulley]].**
 - **To [[h/_hit|hit]] on the [[h/_head|head]].**
 - **To [[s/_shoot|shoot]] an [[o/_opponent|opponent]] in the [[b/_back|back]] of the [[h/_head|head]] with a [[s/_shotgun|shotgun]] in a [[f/_first|first]]-[[p/_person|person]] [[s/_shooter|shooter]] video [[g/_game|game]].**
 - **In [[c/_checkers|checkers]], to [[s/_stack|stack]] two [[c/_checkers|checkers]] to [[i/_indicate|indicate]] that the [[p/_piece|piece]] [[h/_has|has]] [[b/_become|become]] a [[k/_king|king]].**
 	- _Example: “Crown me!” I said, as I moved my checker to the back row._
 - **To widen the [[o/_opening|opening]] of the [[b/_barrel|barrel]].**
-- **To [[e/_effect|effect]] a [[l/_lodgment|lodgment]] upon, as upon the [[c/_crest|crest]] of the [[g/_glacis|glacis]], or the summit of the [[b/_breach|breach]].**
+- **To [[e/_effect|effect]] a [[l/_lodgment|lodgment]] upon, as upon the [[c/_crest|crest]] of the [[g/_glacis|glacis]], or the [[s/_summit|summit]] of the [[b/_breach|breach]].**
 - **To [[l/_lay|lay]] the [[e/_ends|ends]] of the [[s/_strands|strands]] of (a [[k/_knot|knot]]) [[o/_over|over]] and under [[e/_each|each]] [[o/_other|other]].**
 ---
 #adjective

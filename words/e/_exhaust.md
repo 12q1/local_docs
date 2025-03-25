@@ -19,7 +19,7 @@
 - **To [[b/_bring|bring]] [[o/_out|out]] or [[d/_develop|develop]] [[c/_completely|completely]]**
 - **To [[d/_discuss|discuss]] thoroughly or [[c/_completely|completely]]**
 	- _Example: That subject has already been fully exhausted._
-- **To subject to the [[a/_action|action]] of various [[s/_solvents|solvents]] in [[o/_order|order]] to [[r/_remove|remove]] [[a/_all|all]] [[s/_soluble|soluble]] substances or extractives**
+- **To [[s/_subject|subject]] to the [[a/_action|action]] of various [[s/_solvents|solvents]] in [[o/_order|order]] to [[r/_remove|remove]] [[a/_all|all]] [[s/_soluble|soluble]] [[s/_substances|substances]] or extractives**
 	- _Example: to exhaust a drug successively with water, alcohol, and ether_
 ---
 ### Synonyms

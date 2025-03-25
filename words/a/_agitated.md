@@ -16,6 +16,6 @@
 - [[a/_appease|appease]], [[c/_calm|calm]], [[q/_quieten|quieten]]
 #adjective
 - **[[a/_angry|Angry]], [[a/_annoyed|annoyed]], [[b/_bothered|bothered]] or worked up.**
-- **(of a [[s/_solution|solution]] or substance) Violently and [[c/_chaotically|chaotically]] [[m/_moving|moving]] [[a/_around|around]], such as [[b/_because|because]] of [[b/_being|being]] [[s/_shaken|shaken]].**
+- **(of a [[s/_solution|solution]] or [[s/_substance|substance]]) Violently and [[c/_chaotically|chaotically]] [[m/_moving|moving]] [[a/_around|around]], [[s/_such|such]] as [[b/_because|because]] of [[b/_being|being]] [[s/_shaken|shaken]].**
 ---
 ---

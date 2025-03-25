@@ -1,7 +1,7 @@
 # Hydrolyzing
 ---
 #verb
-- **To subject to [[h/_hydrolysis|hydrolysis]].**
+- **To [[s/_subject|subject]] to [[h/_hydrolysis|hydrolysis]].**
 - **To undergo [[h/_hydrolysis|hydrolysis]].**
 ---
 ---

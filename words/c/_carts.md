@@ -14,7 +14,7 @@
 - **To [[e/_expose|expose]] in a [[c/_cart|cart]] by way of [[p/_punishment|punishment]].**
 ---
 #noun
-- **A tape [[c/_cartridge|cartridge]] used for [[p/_pre|pre]]-[[r/_recorded|recorded]] [[m/_material|material]] such as [[j/_jingles|jingles]] and [[a/_advertisements|advertisements]].**
+- **A tape [[c/_cartridge|cartridge]] used for [[p/_pre|pre]]-[[r/_recorded|recorded]] [[m/_material|material]] [[s/_such|such]] as [[j/_jingles|jingles]] and [[a/_advertisements|advertisements]].**
 - **A [[c/_cartridge|cartridge]] for a video [[g/_game|game]] [[s/_system|system]].**
 	- _Example: My Final Fantasy cart on the NES is still alive and kicking._
 ---

@@ -3,7 +3,7 @@
 #noun
 - **A [[c/_container|container]], typically [[m/_made|made]] of [[g/_glass|glass]] or [[p/_plastic|plastic]] and [[h/_having|having]] a tapered [[n/_neck|neck]], used [[p/_primarily|primarily]] for [[h/_holding|holding]] [[l/_liquids|liquids]].**
 	- _Example: Beer is often sold in bottles._
-- **The [[c/_contents|contents]] of such a [[c/_container|container]].**
+- **The [[c/_contents|contents]] of [[s/_such|such]] a [[c/_container|container]].**
 	- _Example: I only drank a bottle of beer._
 - **A [[c/_container|container]] with a [[r/_rubber|rubber]] [[n/_nipple|nipple]] used for [[g/_giving|giving]] [[l/_liquids|liquids]] to [[i/_infants|infants]], a [[b/_baby|baby]] [[b/_bottle|bottle]].**
 	- _Example: The baby wants a bottle._
@@ -25,7 +25,7 @@
 	- _Example: This plant bottles vast quantities of spring water every day._
 - **To [[f/_feed|feed]] (an [[i/_infant|infant]]) [[b/_baby|baby]] [[f/_formula|formula]].**
 	- _Example: Because of complications she can't breast feed her baby and so she bottles him._
-- **To [[r/_refrain|refrain]] from [[d/_doing|doing]] ([[s/_something|something]]) at the [[l/_last|last]] [[m/_moment|moment]] [[b/_because|because]] of a sudden [[l/_loss|loss]] of [[c/_courage|courage]].**
+- **To [[r/_refrain|refrain]] from [[d/_doing|doing]] ([[s/_something|something]]) at the [[l/_last|last]] [[m/_moment|moment]] [[b/_because|because]] of a [[s/_sudden|sudden]] [[l/_loss|loss]] of [[c/_courage|courage]].**
 	- _Example: The rider bottled the big jump._
 - **To throw [[a/_away|away]] a [[l/_leading|leading]] [[p/_position|position]].**
 	- _Example: Liverpool bottled the Premier League._

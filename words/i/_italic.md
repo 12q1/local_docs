@@ -2,7 +2,7 @@
 ---
 #noun
 - **A typeface in which the [[l/_letters|letters]] [[s/_slant|slant]] to the [[r/_right|right]].**
-- **An [[o/_oblique|oblique]] [[h/_handwriting|handwriting]] [[s/_style|style]], such as used by [[i/_italian|Italian]] [[c/_calligraphers|calligraphers]] of the [[r/_renaissance|Renaissance]].**
+- **An [[o/_oblique|oblique]] [[h/_handwriting|handwriting]] [[s/_style|style]], [[s/_such|such]] as used by [[i/_italian|Italian]] [[c/_calligraphers|calligraphers]] of the [[r/_renaissance|Renaissance]].**
 ---
 #adjective
 - **(of a typeface or [[f/_font|font]]) [[d/_designed|Designed]] to [[r/_resemble|resemble]] a [[h/_handwriting|handwriting]] [[s/_style|style]] [[d/_developed|developed]] in [[i/_italy|Italy]] in the 16th [[c/_century|century]].**

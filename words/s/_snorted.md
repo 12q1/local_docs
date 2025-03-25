@@ -8,7 +8,7 @@
 - **To [[i/_inhale|inhale]] (usually a [[d/_drug|drug]]) through the [[n/_nose|nose]].**
 	- _Example: to snort cocaine_
 - **To [[s/_snore|snore]].**
-- **(of submarines) To [[s/_sail|sail]] at [[p/_periscope|periscope]] [[d/_depth|depth]] through the use of a [[s/_snort|snort]] or [[s/_snorkel|snorkel]].**
+- **(of [[s/_submarines|submarines]]) To [[s/_sail|sail]] at [[p/_periscope|periscope]] [[d/_depth|depth]] through the use of a [[s/_snort|snort]] or [[s/_snorkel|snorkel]].**
 ---
 ### Synonyms
 - [[i/_insufflate|insufflate]]

@@ -4,7 +4,7 @@
 - **To travel [[o/_over|over]] (an [[a/_area|area]], [[e/_etc|etc]]); to [[r/_roam|roam]], wander.**
 - **To [[r/_rove|rove]] [[o/_over|over]] or through.**
 	- _Example: to range the fields_
-- **To [[e/_exercise|exercise]] the [[p/_power|power]] of [[s/_something|something]] [[o/_over|over]] [[s/_something|something]] [[e/_else|else]]; to [[c/_cause|cause]] to submit to, [[o/_over|over]].**
+- **To [[e/_exercise|exercise]] the [[p/_power|power]] of [[s/_something|something]] [[o/_over|over]] [[s/_something|something]] [[e/_else|else]]; to [[c/_cause|cause]] to [[s/_submit|submit]] to, [[o/_over|over]].**
 - **To [[b/_bring|bring]] ([[s/_something|something]]) [[i/_into|into]] a [[s/_specified|specified]] [[p/_position|position]] or [[r/_relationship|relationship]] ([[e/_especially|especially]], of [[o/_opposition|opposition]]) with [[s/_something|something]] [[e/_else|else]].**
 - **([[f/_followed|followed]] by [[o/_over|over]]) Of a variable, to be [[a/_able|able]] to take [[a/_any|any]] of the values in a [[s/_specified|specified]] [[r/_range|range]].**
 	- _Example: The variable x ranges over all real values from 0 to 10._

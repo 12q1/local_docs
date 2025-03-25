@@ -20,7 +20,7 @@
 - **The [[s/_space|space]] [[b/_between|between]] two [[d/_double|double]] [[f/_furrows|furrows]].**
 ---
 #verb
-- **To [[f/_form|form]] [[s/_stitches|stitches]] in; [[e/_especially|especially]], to [[s/_sew|sew]] in such a [[m/_manner|manner]] as to [[s/_show|show]] on the surface a [[c/_continuous|continuous]] [[l/_line|line]] of [[s/_stitches|stitches]].**
+- **To [[f/_form|form]] [[s/_stitches|stitches]] in; [[e/_especially|especially]], to [[s/_sew|sew]] in [[s/_such|such]] a [[m/_manner|manner]] as to [[s/_show|show]] on the surface a [[c/_continuous|continuous]] [[l/_line|line]] of [[s/_stitches|stitches]].**
 	- _Example: to stitch a shirt bosom._
 - **To [[s/_sew|sew]], or unite or [[a/_attach|attach]] by [[s/_stitches|stitches]].**
 	- _Example: to stitch printed sheets in making a book or a pamphlet._

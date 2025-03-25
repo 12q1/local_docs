@@ -10,7 +10,7 @@
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to a [[g/_god|god]].**
 - **[[e/_eternal|Eternal]], [[h/_holy|holy]], or [[o/_otherwise|otherwise]] [[g/_godlike|godlike]].**
-- **Of superhuman or surpassing [[e/_excellence|excellence]].**
+- **Of [[s/_superhuman|superhuman]] or surpassing [[e/_excellence|excellence]].**
 - **[[b/_beautiful|Beautiful]], [[h/_heavenly|heavenly]].**
 - **[[f/_foreboding|Foreboding]]; [[p/_prescient|prescient]].**
 - **(of [[s/_souls|souls]]) [[i/_immortal|immortal]]; [[e/_elect|elect]] or [[s/_saved|saved]] [[a/_after|after]] [[d/_death|death]]**

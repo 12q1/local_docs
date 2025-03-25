@@ -1,7 +1,7 @@
 # Cowls
 ---
 #noun
-- **A [[m/_monk|monk]]'[[s/_s|s]] [[h/_hood|hood]] that [[c/_can|can]] be [[p/_pulled|pulled]] [[f/_forward|forward]] to [[c/_cover|cover]] the [[f/_face|face]]; a [[r/_robe|robe]] with such a [[h/_hood|hood]] [[a/_attached|attached]] to it.**
+- **A [[m/_monk|monk]]'[[s/_s|s]] [[h/_hood|hood]] that [[c/_can|can]] be [[p/_pulled|pulled]] [[f/_forward|forward]] to [[c/_cover|cover]] the [[f/_face|face]]; a [[r/_robe|robe]] with [[s/_such|such]] a [[h/_hood|hood]] [[a/_attached|attached]] to it.**
 - **A [[m/_mask|mask]] that [[c/_covers|covers]] the [[m/_majority|majority]] of the [[h/_head|head]].**
 - **A thin [[p/_protective|protective]] [[c/_covering|covering]] [[o/_over|over]] [[a/_all|all]] or [[p/_part|part]] of an [[e/_engine|engine]]; [[a/_also|also]] [[c/_cowling|cowling]].**
 - **A usually [[h/_hood|hood]]-[[s/_shaped|shaped]] [[c/_covering|covering]] used to [[i/_increase|increase]] the [[d/_draft|draft]] of a [[c/_chimney|chimney]] and [[p/_prevent|prevent]] [[b/_backflow|backflow]].**

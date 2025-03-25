@@ -22,7 +22,7 @@
 - **A trick, an [[a/_artifice|artifice]].**
 - **The [[e/_extent|extent]], or [[a/_arrangement|arrangement]], of the [[o/_overlapping|overlapping]] of [[p/_plank|plank]], [[b/_brick|brick]], [[s/_stones|stones]], [[e/_etc|etc]]., that are [[p/_placed|placed]] in [[c/_courses|courses]] [[s/_so|so]] as to [[b/_break|break]] [[j/_joints|joints]].**
 - **A [[b/_breaking|breaking]] [[o/_off|off]] and [[d/_dislocation|dislocation]] of a [[s/_seam|seam]]; a [[f/_fault|fault]].**
-- **A [[m/_mutation|mutation]] in which the DNA or RNA from two [[d/_different|different]] [[s/_sources|sources]] (such as viruses or [[b/_bacteria|bacteria]]) [[c/_combine|combine]].**
+- **A [[m/_mutation|mutation]] in which the DNA or RNA from two [[d/_different|different]] [[s/_sources|sources]] ([[s/_such|such]] as viruses or [[b/_bacteria|bacteria]]) [[c/_combine|combine]].**
 - **In violin-[[p/_playing|playing]], [[a/_any|any]] [[p/_position|position]] of the [[l/_left|left]] [[h/_hand|hand]] [[e/_except|except]] that [[n/_nearest|nearest]] the [[n/_nut|nut]].**
 ---
 #verb

@@ -15,7 +15,7 @@
 - **An [[a/_artillery|artillery]] [[b/_bombardment|bombardment]].**
 - **The [[r/_removal|removal]] of the [[s/_shell|shell]] from a [[n/_nut|nut]], [[p/_pea|pea]] [[e/_etc|etc]].**
 - **[[g/_grain|Grain]] from which the [[h/_husk|husk]] [[h/_has|has]] [[b/_been|been]] [[r/_removed|removed]].**
-- **An [[o/_ordering|ordering]] of the [[f/_facets|facets]] of a [[b/_boundary|boundary]] [[c/_complex|complex]] such that the [[i/_intersection|intersection]] of [[e/_each|each]] [[f/_facet|facet]] ([[o/_other|other]] than the [[f/_first|first]]) with the union of [[a/_all|all]] [[p/_preceding|preceding]] [[f/_facets|facets]] is [[h/_homeomorphic|homeomorphic]] to a [[b/_ball|ball]] or [[s/_sphere|sphere]]. [[s/_see|See]] [[s/_shelling|Shelling]] (topology)**
-- **[[s/_shallow|Shallow]], [[i/_irregular|irregular]] [[c/_cracks|cracks]] that [[a/_appear|appear]] on the surface of a [[c/_coating|coating]] such as [[p/_plaster|plaster]] or [[m/_mortar|mortar]].**
+- **An [[o/_ordering|ordering]] of the [[f/_facets|facets]] of a [[b/_boundary|boundary]] [[c/_complex|complex]] [[s/_such|such]] that the [[i/_intersection|intersection]] of [[e/_each|each]] [[f/_facet|facet]] ([[o/_other|other]] than the [[f/_first|first]]) with the union of [[a/_all|all]] [[p/_preceding|preceding]] [[f/_facets|facets]] is [[h/_homeomorphic|homeomorphic]] to a [[b/_ball|ball]] or [[s/_sphere|sphere]]. [[s/_see|See]] [[s/_shelling|Shelling]] (topology)**
+- **[[s/_shallow|Shallow]], [[i/_irregular|irregular]] [[c/_cracks|cracks]] that [[a/_appear|appear]] on the surface of a [[c/_coating|coating]] [[s/_such|such]] as [[p/_plaster|plaster]] or [[m/_mortar|mortar]].**
 ---
 ---

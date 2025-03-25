@@ -19,7 +19,7 @@
 - **To [[s/_sow|sow]] [[m/_mines|mines]] (the [[e/_explosive|explosive]] [[d/_devices|devices]]) in (an [[a/_area|area]]).**
 - **To [[d/_damage|damage]] (a vehicle or [[s/_ship|ship]]) with a [[m/_mine|mine]] (an [[e/_explosive|explosive]] [[d/_device|device]]).**
 - **To [[d/_dig|dig]] a tunnel or [[h/_hole|hole]]; to [[b/_burrow|burrow]] in the [[e/_earth|earth]].**
-- **To [[d/_dig|dig]] [[a/_away|away]], or [[o/_otherwise|otherwise]] [[r/_remove|remove]], the substratum or [[f/_foundation|foundation]] of; to [[l/_lay|lay]] a [[m/_mine|mine]] under; to [[s/_sap|sap]]; to undermine.**
+- **To [[d/_dig|dig]] [[a/_away|away]], or [[o/_otherwise|otherwise]] [[r/_remove|remove]], the [[s/_substratum|substratum]] or [[f/_foundation|foundation]] of; to [[l/_lay|lay]] a [[m/_mine|mine]] under; to [[s/_sap|sap]]; to undermine.**
 - **(by [[e/_extension|extension]]) To [[r/_ruin|ruin]] or [[d/_destroy|destroy]] by [[s/_slow|slow]] [[d/_degrees|degrees]] or [[s/_secret|secret]] [[m/_means|means]].**
 - **To [[p/_pick|pick]] [[o/_one|one]]'[[s/_s|s]] [[n/_nose|nose]].**
 - **To [[e/_earn|earn]] [[n/_new|new]] units of cryptocurrency by [[d/_doing|doing]] [[c/_certain|certain]] [[c/_calculations|calculations]].**

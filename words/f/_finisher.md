@@ -3,12 +3,12 @@
 #noun
 - **A [[p/_person|person]] who [[f/_finishes|finishes]] or [[c/_completes|completes]] [[s/_something|something]].**
 	- _Example: The early finishers waited for the other runners to reach the finish line._
-- **A [[p/_person|person]] who [[a/_applies|applies]] a [[f/_finish|finish]] to [[s/_something|something]], such as [[f/_furniture|furniture]].**
+- **A [[p/_person|person]] who [[a/_applies|applies]] a [[f/_finish|finish]] to [[s/_something|something]], [[s/_such|such]] as [[f/_furniture|furniture]].**
 - **The [[p/_person|person]] who [[a/_applies|applies]] the [[g/_gilding|gilding]] and [[d/_decoration|decoration]] in [[b/_bookbinding|bookbinding]].**
 - **A [[c/_construction|construction]] [[m/_machine|machine]] used to [[s/_smooth|smooth]] a [[n/_newly|newly]] [[c/_constructed|constructed]] [[r/_road|road]] surface.**
 - **The [[b/_blow|blow]] that [[e/_ends|ends]] a [[f/_fight|fight]]; the [[k/_knock|knock]]-[[o/_out|out]] [[b/_blow|blow]].**
 - **A [[f/_finishing|finishing]] [[m/_move|move]].**
 - **A [[p/_player|player]] who [[s/_shoots|shoots]] [[g/_goals|goals]].**
-- **A substitute [[p/_player|player]] who [[p/_plays|plays]] at the [[e/_end|end]] of the [[g/_game|game]].**
+- **A [[s/_substitute|substitute]] [[p/_player|player]] who [[p/_plays|plays]] at the [[e/_end|end]] of the [[g/_game|game]].**
 ---
 ---

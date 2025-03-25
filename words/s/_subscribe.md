@@ -1,0 +1,23 @@
+# Subscribe
+---
+#verb
+- **To [[s/_sign|sign]] up to [[h/_have|have]] [[c/_copies|copies]] of a [[p/_publication|publication]], [[s/_such|such]] as a [[n/_newspaper|newspaper]] or a [[m/_magazine|magazine]], [[d/_delivered|delivered]] for a [[p/_period|period]] of time.**
+	- _Example: Would you like to subscribe or subscribe a friend to our new magazine, Lexicography Illustrated?_
+- **To [[p/_pay|pay]] for the [[p/_provision|provision]] of a [[s/_service|service]], [[s/_such|such]] as [[i/_internet|Internet]] [[a/_access|access]] or a [[c/_cell|cell]] [[p/_phone|phone]] [[p/_plan|plan]].**
+- **To [[b/_believe|believe]] or [[a/_agree|agree]] with a theory or an [[i/_idea|idea]] (used with to).**
+	- _Example: I don’t subscribe to that theory._
+- **To [[p/_pay|pay]] [[m/_money|money]] to be a [[m/_member|member]] of an [[o/_organization|organization]].**
+- **To [[c/_contribute|contribute]] or [[p/_promise|promise]] to [[c/_contribute|contribute]] [[m/_money|money]] to a [[c/_common|common]] [[f/_fund|fund]].**
+- **To [[p/_promise|promise]] to [[g/_give|give]], by writing [[o/_one|one]]'[[s/_s|s]] [[n/_name|name]] with the [[a/_amount|amount]].**
+	- _Example: Each man subscribed ten dollars._
+- **To [[a/_agree|agree]] to [[b/_buy|buy]] [[s/_shares|shares]] in a [[c/_company|company]].**
+- **To [[s/_sign|sign]]; to [[m/_mark|mark]] with [[o/_one|one]]'[[s/_s|s]] [[s/_signature|signature]] as a token of [[c/_consent|consent]] or [[a/_attestation|attestation]].**
+	- _Example: Officers subscribe their official acts, and secretaries and clerks subscribe copies or records._
+- **To write ([[o/_one|one]]’[[s/_s|s]] [[n/_name|name]]) at the [[b/_bottom|bottom]] of a [[d/_document|document]]; to [[s/_sign|sign]] ([[o/_one|one]]'[[s/_s|s]] [[n/_name|name]]).**
+- **To [[s/_sign|sign]] [[a/_away|away]]; to [[y/_yield|yield]]; to surrender.**
+- **To [[y/_yield|yield]]; to [[a/_admit|admit]] to [[b/_being|being]] [[i/_inferior|inferior]] or in the wrong.**
+- **To [[d/_declare|declare]] [[o/_over|over]] [[o/_one|one]]'[[s/_s|s]] [[s/_signature|signature]]; to [[p/_publish|publish]].**
+- **To [[i/_indicate|indicate]] [[i/_interest|interest]] in the [[c/_communications|communications]] [[m/_made|made]] by a [[p/_person|person]] or [[o/_organization|organization]].**
+	- _Example: My YouTube channel has reached 100,000 subscribers._
+---
+---

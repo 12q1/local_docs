@@ -7,7 +7,7 @@
 ---
 #verb
 - **To [[o/_overreach|overreach]] [[o/_oneself|oneself]] while [[s/_striking|striking]].**
-- **To [[c/_cover|cover]] up (a [[d/_design|design]], [[m/_mark|mark]] [[e/_etc|etc]].) by [[s/_stamping|stamping]] [[a/_another|another]] on top of it; to superimpose a [[m/_mark|mark]] or [[l/_logo|logo]] on (a [[c/_coin|coin]], [[s/_stamp|stamp]], [[e/_etc|etc]].).**
+- **To [[c/_cover|cover]] up (a [[d/_design|design]], [[m/_mark|mark]] [[e/_etc|etc]].) by [[s/_stamping|stamping]] [[a/_another|another]] on top of it; to [[s/_superimpose|superimpose]] a [[m/_mark|mark]] or [[l/_logo|logo]] on (a [[c/_coin|coin]], [[s/_stamp|stamp]], [[e/_etc|etc]].).**
 - **To [[s/_strike|strike]] ([[s/_something|something]]) too [[h/_hard|hard]].**
 ---
 ---

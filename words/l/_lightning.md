@@ -12,6 +12,6 @@
 - **To [[p/_produce|produce]] [[l/_lightning|lightning]].**
 ---
 #adjective
-- **[[e/_extremely|Extremely]] [[f/_fast|fast]] or sudden; [[m/_moving|moving]] (as [[i/_if|if]]) at the [[s/_speed|speed]] of [[l/_lightning|lightning]].**
+- **[[e/_extremely|Extremely]] [[f/_fast|fast]] or [[s/_sudden|sudden]]; [[m/_moving|moving]] (as [[i/_if|if]]) at the [[s/_speed|speed]] of [[l/_lightning|lightning]].**
 ---
 ---

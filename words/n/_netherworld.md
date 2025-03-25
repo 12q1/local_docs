@@ -7,7 +7,7 @@
 	- _Example: While I was astrally projecting, I felt my soul pass through many insubstantial netherworlds._
 - **[[s/_specifically|Specifically]], a [[l/_location|location]] of [[p/_punishment|punishment]] in the [[a/_afterlife|afterlife]]; a [[h/_hell|hell]].**
 	- _Example: The missionary was motivated by a sincere desire to rescue souls from eternal torment in the netherworld._
-- **(by [[e/_extension|extension]]) A [[h/_hidden|hidden]], [[s/_shadowy|shadowy]], or [[s/_sinister|sinister]] subculture, such as that of [[o/_organized|organized]] [[c/_crime|crime]].**
+- **(by [[e/_extension|extension]]) A [[h/_hidden|hidden]], [[s/_shadowy|shadowy]], or [[s/_sinister|sinister]] [[s/_subculture|subculture]], [[s/_such|such]] as that of [[o/_organized|organized]] [[c/_crime|crime]].**
 	- _Example: Richard had been initiated into the netherworld of dog racing by his father, and knew all the popular greyhound performance-enhancing drugs._
 ---
 ### Synonyms

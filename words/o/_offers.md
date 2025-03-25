@@ -5,13 +5,13 @@
 	- _Example: I decline your offer to contract._
 - **[[s/_something|Something]] [[p/_put|put]] [[f/_forth|forth]], [[b/_bid|bid]], [[p/_proffered|proffered]] or tendered.**
 	- _Example: His offer was $3.50 per share._
-- **An [[i/_invitation|invitation]] to [[e/_enter|enter]] [[i/_into|into]] a [[b/_binding|binding]] [[c/_contract|contract]] [[c/_communicated|communicated]] to [[a/_another|another]] [[p/_party|party]] which [[c/_contains|contains]] terms sufficiently [[d/_definite|definite]] to [[c/_create|create]] an [[e/_enforceable|enforceable]] [[c/_contract|contract]] [[i/_if|if]] the [[o/_other|other]] [[p/_party|party]] [[a/_accepts|accepts]] the [[i/_invitation|invitation]].**
+- **An [[i/_invitation|invitation]] to [[e/_enter|enter]] [[i/_into|into]] a [[b/_binding|binding]] [[c/_contract|contract]] [[c/_communicated|communicated]] to [[a/_another|another]] [[p/_party|party]] which [[c/_contains|contains]] terms [[s/_sufficiently|sufficiently]] [[d/_definite|definite]] to [[c/_create|create]] an [[e/_enforceable|enforceable]] [[c/_contract|contract]] [[i/_if|if]] the [[o/_other|other]] [[p/_party|party]] [[a/_accepts|accepts]] the [[i/_invitation|invitation]].**
 	- _Example: His first letter was not a real offer, but an attempt to determine interest._
 ---
 #verb
 - **To [[p/_propose|propose]] or [[e/_express|express]] [[o/_one|one]]'[[s/_s|s]] willingness (to [[d/_do|do]] [[s/_something|something]]).**
 	- _Example: She offered to help with her homework._
-- **To [[p/_present|present]] in words; to [[p/_proffer|proffer]]; to [[m/_make|make]] a [[p/_proposal|proposal]] of; to suggest.**
+- **To [[p/_present|present]] in words; to [[p/_proffer|proffer]]; to [[m/_make|make]] a [[p/_proposal|proposal]] of; to [[s/_suggest|suggest]].**
 	- _Example: Everybody offered an opinion._
 - **To [[p/_place|place]] at [[s/_someone|someone]]’[[s/_s|s]] [[d/_disposal|disposal]]; to [[p/_present|present]] ([[s/_something|something]]) to be [[e/_either|either]] [[a/_accepted|accepted]] or turned [[d/_down|down]].**
 	- _Example: He offered use of his car for the week.  He offered his good will for the Councilman's vote._

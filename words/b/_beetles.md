@@ -21,11 +21,11 @@
 ---
 #noun
 - **A type of [[m/_mallet|mallet]] with a [[l/_large|large]] wooden [[h/_head|head]], used to [[d/_drive|drive]] wedges, [[b/_beat|beat]] [[p/_pavements|pavements]], [[e/_etc|etc]].**
-- **A [[m/_machine|machine]] in which [[f/_fabrics|fabrics]] are subjected to a [[h/_hammering|hammering]] [[p/_process|process]] while [[p/_passing|passing]] [[o/_over|over]] [[r/_rollers|rollers]], as in [[c/_cotton|cotton]] [[m/_mills|mills]]; a [[b/_beetling|beetling]] [[m/_machine|machine]].**
+- **A [[m/_machine|machine]] in which [[f/_fabrics|fabrics]] are [[s/_subjected|subjected]] to a [[h/_hammering|hammering]] [[p/_process|process]] while [[p/_passing|passing]] [[o/_over|over]] [[r/_rollers|rollers]], as in [[c/_cotton|cotton]] [[m/_mills|mills]]; a [[b/_beetling|beetling]] [[m/_machine|machine]].**
 ---
 #verb
 - **To [[b/_beat|beat]] with a [[h/_heavy|heavy]] [[m/_mallet|mallet]].**
-- **To [[f/_finish|finish]] by subjecting to a [[h/_hammering|hammering]] [[p/_process|process]] in a [[b/_beetle|beetle]] or [[b/_beetling|beetling]] [[m/_machine|machine]].**
+- **To [[f/_finish|finish]] by [[s/_subjecting|subjecting]] to a [[h/_hammering|hammering]] [[p/_process|process]] in a [[b/_beetle|beetle]] or [[b/_beetling|beetling]] [[m/_machine|machine]].**
 	- _Example: to beetle cotton goods_
 ---
 ---

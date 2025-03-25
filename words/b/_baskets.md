@@ -24,6 +24,6 @@
 - [[b/_basketball|basketball]], [[h/_hoop|hoop]], [[c/_cart|cart]], [[c/_cart|cart]]
 #verb
 - **To [[p/_place|place]] in a [[b/_basket|basket]] or [[b/_baskets|baskets]].**
-- **To [[c/_cross|cross]]-[[c/_collateralize|collateralize]] the [[r/_royalty|royalty]] [[a/_advances|advances]] for [[m/_multiple|multiple]] works [[s/_so|so]] that the [[c/_creator|creator]] is not [[p/_paid|paid]] until [[a/_all|all]] of those works [[h/_have|have]] [[a/_achieved|achieved]] a [[c/_certain|certain]] [[l/_level|level]] of success.**
+- **To [[c/_cross|cross]]-[[c/_collateralize|collateralize]] the [[r/_royalty|royalty]] [[a/_advances|advances]] for [[m/_multiple|multiple]] works [[s/_so|so]] that the [[c/_creator|creator]] is not [[p/_paid|paid]] until [[a/_all|all]] of those works [[h/_have|have]] [[a/_achieved|achieved]] a [[c/_certain|certain]] [[l/_level|level]] of [[s/_success|success]].**
 ---
 ---

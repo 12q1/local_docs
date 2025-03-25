@@ -31,7 +31,7 @@
 - **A [[d/_dart|dart]]; an [[a/_arrow|arrow]].**
 - **The [[h/_head|head]] of an [[a/_arrow|arrow]] or [[s/_spear|spear]].**
 - **A [[l/_large|large]] [[s/_stake|stake]], or [[p/_piece|piece]] of [[p/_pointed|pointed]] timber, [[s/_steel|steel]] [[e/_etc|etc]]., [[d/_driven|driven]] [[i/_into|into]] the [[e/_earth|earth]] or [[s/_sea|sea]]-[[b/_bed|bed]] for the support of a [[b/_building|building]], a [[p/_pier|pier]], or [[o/_other|other]] superstructure, or to [[f/_form|form]] a [[c/_cofferdam|cofferdam]], [[e/_etc|etc]].**
-- **[[o/_one|One]] of the [[o/_ordinaries|ordinaries]] or subordinaries [[h/_having|having]] the [[f/_form|form]] of a wedge, usually [[p/_placed|placed]] [[p/_palewise|palewise]], with the [[b/_broadest|broadest]] [[e/_end|end]] uppermost.**
+- **[[o/_one|One]] of the [[o/_ordinaries|ordinaries]] or [[s/_subordinaries|subordinaries]] [[h/_having|having]] the [[f/_form|form]] of a wedge, usually [[p/_placed|placed]] [[p/_palewise|palewise]], with the [[b/_broadest|broadest]] [[e/_end|end]] uppermost.**
 ---
 #verb
 - **To [[d/_drive|drive]] [[p/_piles|piles]] [[i/_into|into]]; to [[f/_fill|fill]] with [[p/_piles|piles]]; to [[s/_strengthen|strengthen]] with [[p/_piles|piles]].**

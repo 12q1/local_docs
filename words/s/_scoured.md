@@ -6,7 +6,7 @@
 - **To [[r/_remove|remove]] [[d/_debris|debris]] and [[d/_dirt|dirt]] by [[p/_purging|purging]]; to sweep [[a/_along|along]] or [[o/_off|off]] (by a [[c/_current|current]] of water).**
 - **To [[c/_clear|clear]] the [[d/_digestive|digestive]] tract by [[a/_administering|administering]] [[m/_medication|medication]] that [[i/_induces|induces]] [[d/_defecation|defecation]] or vomiting; to [[p/_purge|purge]].**
 	- _Example: to scour a horse_
-- **To ([[c/_cause|cause]] [[l/_livestock|livestock]] to) suffer from [[d/_diarrhoea|diarrhoea]] or [[d/_dysentery|dysentery]].**
+- **To ([[c/_cause|cause]] [[l/_livestock|livestock]] to) [[s/_suffer|suffer]] from [[d/_diarrhoea|diarrhoea]] or [[d/_dysentery|dysentery]].**
 	- _Example: If a lamb is scouring, do not delay treatment._
 - **To [[c/_cleanse|cleanse]] (without [[r/_rubbing|rubbing]]).**
 ---

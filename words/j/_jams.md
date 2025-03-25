@@ -1,7 +1,7 @@
 # Jams
 ---
 #noun
-- **A sweet [[m/_mixture|mixture]] of [[f/_fruit|fruit]] [[b/_boiled|boiled]] with sugar and [[a/_allowed|allowed]] to [[c/_congeal|congeal]]. [[o/_often|Often]] [[s/_spread|spread]] on [[b/_bread|bread]] or toast or used in [[j/_jam|jam]] tarts.**
+- **A sweet [[m/_mixture|mixture]] of [[f/_fruit|fruit]] [[b/_boiled|boiled]] with [[s/_sugar|sugar]] and [[a/_allowed|allowed]] to [[c/_congeal|congeal]]. [[o/_often|Often]] [[s/_spread|spread]] on [[b/_bread|bread]] or toast or used in [[j/_jam|jam]] tarts.**
 - **A [[d/_difficult|difficult]] [[s/_situation|situation]].**
 - **[[b/_blockage|Blockage]], [[c/_congestion|congestion]].**
 	- _Example: A traffic jam caused us to miss the game's first period._
@@ -22,7 +22,7 @@
 - **To throw a [[p/_pitch|pitch]] at or [[n/_near|near]] the [[b/_batter|batter]]'[[s/_s|s]] [[h/_hands|hands]].**
 	- _Example: Jones was jammed by the pitch._
 - **To [[p/_play|play]] [[m/_music|music]] ([[e/_especially|especially]] [[i/_improvisation|improvisation]] as a [[g/_group|group]], or an [[i/_informal|informal]] unrehearsed [[s/_session|session]]).**
-- **To [[i/_injure|injure]] a [[f/_finger|finger]] or toe by sudden [[c/_compression|compression]] of the [[d/_digit|digit]]'[[s/_s|s]] tip.**
+- **To [[i/_injure|injure]] a [[f/_finger|finger]] or toe by [[s/_sudden|sudden]] [[c/_compression|compression]] of the [[d/_digit|digit]]'[[s/_s|s]] tip.**
 	- _Example: When he tripped on the step he jammed his toe._
 - **To [[a/_attempt|attempt]] to [[s/_score|score]] [[p/_points|points]].**
 	- _Example: Toughie jammed four times in the second period._
@@ -35,7 +35,7 @@
 - **A [[k/_kind|kind]] of [[f/_frock|frock]] for [[c/_children|children]].**
 ---
 #noun
-- **([[i/_interior|interior]] [[d/_decorating|decorating]]) [[e/_either|Either]] of the vertical [[c/_components|components]] that [[f/_form|form]] the [[s/_side|side]] of an [[o/_opening|opening]] in a wall, such as that of a [[d/_door|door]] [[f/_frame|frame]], window [[f/_frame|frame]], or [[f/_fireplace|fireplace]].**
+- **([[i/_interior|interior]] [[d/_decorating|decorating]]) [[e/_either|Either]] of the vertical [[c/_components|components]] that [[f/_form|form]] the [[s/_side|side]] of an [[o/_opening|opening]] in a wall, [[s/_such|such]] as that of a [[d/_door|door]] [[f/_frame|frame]], window [[f/_frame|frame]], or [[f/_fireplace|fireplace]].**
 - **[[a/_any|Any]] thick [[m/_mass|mass]] of [[r/_rock|rock]] that [[p/_prevents|prevents]] [[m/_miners|miners]] from [[f/_following|following]] the [[l/_lode|lode]] or vein.**
 ---
 ---

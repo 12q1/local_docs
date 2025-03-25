@@ -1,7 +1,7 @@
 # Jargons
 ---
 #noun
-- **A technical terminology unique to a [[p/_particular|particular]] subject.**
+- **A technical terminology unique to a [[p/_particular|particular]] [[s/_subject|subject]].**
 - **[[l/_language|Language]] [[c/_characteristic|characteristic]] of a [[p/_particular|particular]] [[g/_group|group]].**
 - **[[s/_speech|Speech]] or [[l/_language|language]] that is [[i/_incomprehensible|incomprehensible]] or unintelligible; [[g/_gibberish|gibberish]].**
 ---

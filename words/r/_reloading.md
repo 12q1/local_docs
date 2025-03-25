@@ -6,6 +6,6 @@
 - **To [[l/_load|load]] a [[g/_gun|gun]] [[a/_again|again]]; or [[r/_recharge|recharge]] a used [[c/_cartridge|cartridge]].**
 ---
 #noun
-- **The [[a/_act|act]] by which [[s/_something|something]] (a [[g/_gun|gun]], a [[d/_device|device]], [[e/_etc|etc]].) is [[r/_reloaded|reloaded]]; a subsequent [[l/_loading|loading]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] (a [[g/_gun|gun]], a [[d/_device|device]], [[e/_etc|etc]].) is [[r/_reloaded|reloaded]]; a [[s/_subsequent|subsequent]] [[l/_loading|loading]].**
 ---
 ---

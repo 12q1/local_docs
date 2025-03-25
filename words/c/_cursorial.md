@@ -1,7 +1,7 @@
 # Cursorial
 ---
 #noun
-- **Such an [[a/_animal|animal]]**
+- **[[s/_such|Such]] an [[a/_animal|animal]]**
 ---
 #adjective
 - **[[a/_adapted|Adapted]] for [[r/_running|running]].**

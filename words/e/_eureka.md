@@ -6,7 +6,7 @@
 ### Synonyms
 - [[e/_eureka|eureka]]
 #interjection
-- **An [[e/_exclamation|exclamation]] [[i/_indicating|indicating]] sudden [[d/_discovery|discovery]].**
+- **An [[e/_exclamation|exclamation]] [[i/_indicating|indicating]] [[s/_sudden|sudden]] [[d/_discovery|discovery]].**
 	- _Example: 1821: Eureka! I have found it! What I mean / To say is, not that love is idleness, / But that in love such idleness has been / An accessory, as I have cause to guess. — Byron, Don Juan, 1821_
 ---
 ---

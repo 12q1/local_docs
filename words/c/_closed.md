@@ -4,7 +4,7 @@
 - **([[p/_physical|physical]]) To [[r/_remove|remove]] a [[g/_gap|gap]].**
 - **([[s/_social|social]]) To [[f/_finish|finish]], to terminate.**
 - **To [[c/_come|come]] or [[g/_gather|gather]] [[a/_around|around]]; to [[e/_enclose|enclose]]; to [[e/_encompass|encompass]]; to [[c/_confine|confine]].**
-- **To [[h/_have|have]] a vector sum of 0; that is, to [[f/_form|form]] a [[c/_closed|closed]] [[p/_polygon|polygon]].**
+- **To [[h/_have|have]] a vector [[s/_sum|sum]] of 0; that is, to [[f/_form|form]] a [[c/_closed|closed]] [[p/_polygon|polygon]].**
 ---
 ### Synonyms
 - [[n/_narrow|narrow]], [[s/_shut|shut]], [[c/_cover|cover]], [[s/_shut|shut]], [[e/_end|end]], [[f/_finish|finish]], [[t/_terminate|terminate]], [[e/_exit|exit]]
@@ -16,7 +16,7 @@
 - **Not [[p/_public|public]].**
 	- _Example: closed source  a closed committee_
 - **(of a [[s/_set|set]]) [[h/_having|Having]] an [[o/_open|open]] [[c/_complement|complement]].**
-- **(of a [[s/_set|set]]) Such that [[i/_its|its]] [[i/_image|image]] under the [[s/_specified|specified]] [[o/_operation|operation]] is [[c/_contained|contained]] in it.**
+- **(of a [[s/_set|set]]) [[s/_such|Such]] that [[i/_its|its]] [[i/_image|image]] under the [[s/_specified|specified]] [[o/_operation|operation]] is [[c/_contained|contained]] in it.**
 	- _Example: The set of integers is closed under addition: \forall x,y\in\mathbb{Z}\,x+y\in\mathbb{Z}._
 - **(of a [[f/_formula|formula]]) [[l/_lacking|Lacking]] a [[f/_free|free]] variable.**
 - **(of a walk) Whose [[f/_first|first]] and [[l/_last|last]] vertices are the [[s/_same|same]], [[f/_forming|forming]] a [[c/_closed|closed]] [[l/_loop|loop]].**

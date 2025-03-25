@@ -1,6 +1,6 @@
 # Autoxidize
 ---
 #verb
-- **To subject (or be subjected) to [[a/_autoxidation|autoxidation]].**
+- **To [[s/_subject|subject]] (or be [[s/_subjected|subjected]]) to [[a/_autoxidation|autoxidation]].**
 ---
 ---

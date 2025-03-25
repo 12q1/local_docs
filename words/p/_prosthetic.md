@@ -5,6 +5,6 @@
 - **An [[a/_addition|addition]] to an [[a/_actor|actor]] [[e/_etc|etc]].'[[s/_s|s]] [[b/_body|body]] as [[p/_part|part]] of a [[c/_costume|costume]], [[i/_intended|intended]] to transform the [[p/_person|person]]'[[s/_s|s]] [[a/_appearance|appearance]].**
 ---
 #adjective
-- **[[a/_artificial|Artificial]], [[a/_acting|acting]] as a substitute for [[p/_part|part]] of the [[b/_body|body]]; [[r/_relating|relating]] to [[p/_prosthesis|prosthesis]]**
+- **[[a/_artificial|Artificial]], [[a/_acting|acting]] as a [[s/_substitute|substitute]] for [[p/_part|part]] of the [[b/_body|body]]; [[r/_relating|relating]] to [[p/_prosthesis|prosthesis]]**
 ---
 ---

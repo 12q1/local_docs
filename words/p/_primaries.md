@@ -4,7 +4,7 @@
 - **A [[p/_primary|primary]] [[e/_election|election]]; a [[p/_preliminary|preliminary]] [[e/_election|election]] to [[s/_select|select]] a [[p/_political|political]] [[c/_candidate|candidate]] of a [[p/_political|political]] [[p/_party|party]].**
 - **The [[f/_first|first]] [[y/_year|year]] of [[g/_grade|grade]] [[s/_school|school]].**
 - **A [[b/_base|base]] or [[f/_fundamental|fundamental]] [[c/_component|component]]; [[s/_something|something]] that is [[i/_irreducible|irreducible]].**
-- **The [[m/_most|most]] [[m/_massive|massive]] [[c/_component|component]] of a [[g/_gravitationally|gravitationally]] [[b/_bound|bound]] [[s/_system|system]], such as a [[p/_planet|planet]] in [[r/_relation|relation]] to [[i/_its|its]] [[s/_satellites|satellites]].**
+- **The [[m/_most|most]] [[m/_massive|massive]] [[c/_component|component]] of a [[g/_gravitationally|gravitationally]] [[b/_bound|bound]] [[s/_system|system]], [[s/_such|such]] as a [[p/_planet|planet]] in [[r/_relation|relation]] to [[i/_its|its]] [[s/_satellites|satellites]].**
 - **A [[p/_primary|primary]] [[s/_school|school]].**
 - **[[a/_any|Any]] [[f/_flight|flight]] [[f/_feather|feather]] [[a/_attached|attached]] to the [[m/_manus|manus]] ([[h/_hand|hand]]) of a [[b/_bird|bird]].**
 - **A [[p/_primary|primary]] [[c/_colour|colour]].**

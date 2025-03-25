@@ -16,7 +16,7 @@
 #adjective
 - **[[m/_most|Most]]; [[l/_largest|largest]].**
 	- _Example: Unpacking took the best part of a week._
-- **[[m/_most|Most]] superior; [[m/_most|most]] [[f/_favorable|favorable]].**
+- **[[m/_most|Most]] [[s/_superior|superior]]; [[m/_most|most]] [[f/_favorable|favorable]].**
 	- _Example: In my opinion, mushrooms are the best pizza toppings._
 ---
 ### Antonyms

@@ -1,7 +1,7 @@
 # Neutrophils
 ---
 #noun
-- **Such a [[c/_cell|cell]], [[e/_especially|especially]] a white [[b/_blood|blood]] [[c/_cell|cell]].**
+- **[[s/_such|Such]] a [[c/_cell|cell]], [[e/_especially|especially]] a white [[b/_blood|blood]] [[c/_cell|cell]].**
 ---
 ### Synonyms
 - 

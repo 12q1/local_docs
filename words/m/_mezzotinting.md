@@ -1,6 +1,6 @@
 # Mezzotinting
 ---
 #verb
-- **To [[m/_make|make]] such [[e/_etchings|etchings]]**
+- **To [[m/_make|make]] [[s/_such|such]] [[e/_etchings|etchings]]**
 ---
 ---

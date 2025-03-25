@@ -13,7 +13,7 @@
 	- _Example: Yeah, that's the idea._
 - **A vague or [[f/_fanciful|fanciful]] [[n/_notion|notion]]; a [[f/_feeling|feeling]] or [[h/_hunch|hunch]]; an [[i/_impression|impression]].**
 	- _Example: He had the wild idea that if he leant forward a little, he might be able to touch the mountain-top._
-- **A [[m/_musical|musical]] theme or [[m/_melodic|melodic]] subject.**
+- **A [[m/_musical|musical]] theme or [[m/_melodic|melodic]] [[s/_subject|subject]].**
 ---
 ### Synonyms
 - [[i/_image|image]]

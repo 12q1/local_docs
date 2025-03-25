@@ -7,6 +7,6 @@
 ---
 #adjective
 - **[[d/_denatured|Denatured]] by the [[a/_addition|addition]] of [[m/_methyl|methyl]] [[a/_alcohol|alcohol]]**
-- **Subject to [[m/_methylation|methylation]]**
+- **[[s/_subject|Subject]] to [[m/_methylation|methylation]]**
 ---
 ---

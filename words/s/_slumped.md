@@ -7,7 +7,7 @@
 	- _Example: Real estate prices slumped during the recession._
 - **To [[s/_slouch|slouch]] or [[d/_droop|droop]].**
 - **To [[l/_lump|lump]]; to throw together [[m/_messily|messily]].**
-- **To [[f/_fall|fall]] or [[s/_sink|sink]] suddenly through or in, when walking on a surface, as on thawing [[s/_snow|snow]] or [[i/_ice|ice]], a [[b/_bog|bog]], [[e/_etc|etc]].**
+- **To [[f/_fall|fall]] or [[s/_sink|sink]] [[s/_suddenly|suddenly]] through or in, when walking on a surface, as on thawing [[s/_snow|snow]] or [[i/_ice|ice]], a [[b/_bog|bog]], [[e/_etc|etc]].**
 - **([[s/_slang|slang]]) To [[c/_cause|cause]] to [[c/_collapse|collapse]]; to [[h/_hit|hit]] [[h/_hard|hard]]; to [[r/_render|render]] unsconscious; to [[k/_kill|kill]].**
 ---
 ---

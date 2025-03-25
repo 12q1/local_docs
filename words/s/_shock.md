@@ -1,7 +1,7 @@
 # Shock
 ---
 #noun
-- **A sudden, [[h/_heavy|heavy]] [[i/_impact|impact]].**
+- **A [[s/_sudden|sudden]], [[h/_heavy|heavy]] [[i/_impact|impact]].**
 	- _Example: The train hit the buffers with a great shock._
 - **A [[d/_discontinuity|discontinuity]] [[a/_arising|arising]] in the [[s/_solution|solution]] of a [[p/_partial|partial]] [[d/_differential|differential]] [[e/_equation|equation]].**
 ---

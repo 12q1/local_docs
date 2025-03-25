@@ -7,7 +7,7 @@
 - **The [[g/_genitalia|genitalia]].**
 - **[[s/_salt|Salt]] [[b/_beef|beef]].**
 - **[[p/_pieces|Pieces]] of [[o/_old|old]] [[c/_cable|cable]] or [[c/_cordage|cordage]], used for [[m/_making|making]] [[g/_gaskets|gaskets]], [[m/_mats|mats]], swabs, [[e/_etc|etc]]., and when [[p/_picked|picked]] to [[p/_pieces|pieces]], [[f/_forming|forming]] [[o/_oakum|oakum]] for [[f/_filling|filling]] the [[s/_seams|seams]] of [[s/_ships|ships]].**
-- **A [[f/_fragment|fragment]] of [[a/_any|any]] [[s/_solid|solid]] substance; a thick [[p/_piece|piece]]; a [[c/_chunk|chunk]].**
+- **A [[f/_fragment|fragment]] of [[a/_any|any]] [[s/_solid|solid]] [[s/_substance|substance]]; a thick [[p/_piece|piece]]; a [[c/_chunk|chunk]].**
 - **[[m/_material|Material]] or [[r/_resources|resources]] of a [[k/_kind|kind]] [[l/_lacking|lacking]] [[c/_commercial|commercial]] value.**
 	- _Example: junk fish; junk trees_
 ---

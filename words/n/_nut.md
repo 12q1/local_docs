@@ -9,8 +9,8 @@
 - **The [[h/_head|head]].**
 - **[[m/_monthly|Monthly]] [[e/_expense|expense]] to [[k/_keep|keep]] a venture [[r/_running|running]].**
 - **The [[a/_amount|amount]] of [[m/_money|money]] [[n/_necessary|necessary]] to [[s/_set|set]] up [[s/_some|some]] venture; [[s/_set|set]]-up [[c/_costs|costs]].**
-- **A [[s/_stash|stash]] of [[m/_money|money]] [[o/_owned|owned]] by an [[e/_extremely|extremely]] [[r/_rich|rich]] [[i/_investor|investor]], sufficient to sustain a [[h/_high|high]] [[l/_level|level]] of [[c/_consumption|consumption]] [[i/_if|if]] [[a/_all|all]] [[o/_other|other]] [[m/_money|money]] is [[l/_lost|lost]].**
-- **On [[s/_stringed|stringed]] [[i/_instruments|instruments]] such as [[g/_guitars|guitars]] and violins, the [[s/_small|small]] [[p/_piece|piece]] at the peghead [[e/_end|end]] of the [[f/_fingerboard|fingerboard]] that [[h/_holds|holds]] the [[s/_strings|strings]] at the [[p/_proper|proper]] [[s/_spacing|spacing]] and, in [[m/_most|most]] [[c/_cases|cases]], the [[p/_proper|proper]] [[h/_height|height]].**
+- **A [[s/_stash|stash]] of [[m/_money|money]] [[o/_owned|owned]] by an [[e/_extremely|extremely]] [[r/_rich|rich]] [[i/_investor|investor]], [[s/_sufficient|sufficient]] to sustain a [[h/_high|high]] [[l/_level|level]] of [[c/_consumption|consumption]] [[i/_if|if]] [[a/_all|all]] [[o/_other|other]] [[m/_money|money]] is [[l/_lost|lost]].**
+- **On [[s/_stringed|stringed]] [[i/_instruments|instruments]] [[s/_such|such]] as [[g/_guitars|guitars]] and violins, the [[s/_small|small]] [[p/_piece|piece]] at the peghead [[e/_end|end]] of the [[f/_fingerboard|fingerboard]] that [[h/_holds|holds]] the [[s/_strings|strings]] at the [[p/_proper|proper]] [[s/_spacing|spacing]] and, in [[m/_most|most]] [[c/_cases|cases]], the [[p/_proper|proper]] [[h/_height|height]].**
 - **[[e/_en|En]], a unit of [[m/_measurement|measurement]] [[e/_equal|equal]] to [[h/_half|half]] of the [[h/_height|height]] of the type in use.**
 - **An [[e/_extravagantly|extravagantly]] [[f/_fashionable|fashionable]] [[y/_young|young]] [[m/_man|man]].**
 - **([[c/_chiefly|chiefly]] [[p/_plural|plural]]) A testicle.**

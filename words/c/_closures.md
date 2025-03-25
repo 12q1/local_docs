@@ -5,7 +5,7 @@
 - **A [[f/_feeling|feeling]] of [[c/_completeness|completeness]]; the [[e/_experience|experience]] of an [[e/_emotional|emotional]] [[c/_conclusion|conclusion]], usually to a [[d/_difficult|difficult]] [[p/_period|period]].**
 - **A [[d/_device|device]] to [[f/_facilitate|facilitate]] temporary and [[r/_repeatable|repeatable]] [[o/_opening|opening]] and [[c/_closing|closing]].**
 - **An [[a/_abstraction|abstraction]] that [[r/_represents|represents]] a [[f/_function|function]] within an [[e/_environment|environment]], a [[c/_context|context]] [[c/_consisting|consisting]] of the variables that are [[b/_both|both]] [[b/_bound|bound]] at a [[p/_particular|particular]] time [[d/_during|during]] the [[e/_execution|execution]] of the [[p/_program|program]] and that are within the [[f/_function|function]]'[[s/_s|s]] [[s/_scope|scope]].**
-- **The [[s/_smallest|smallest]] [[s/_set|set]] that [[b/_both|both]] [[i/_includes|includes]] a [[g/_given|given]] subset and [[p/_possesses|possesses]] [[s/_some|some]] [[g/_given|given]] [[p/_property|property]].**
+- **The [[s/_smallest|smallest]] [[s/_set|set]] that [[b/_both|both]] [[i/_includes|includes]] a [[g/_given|given]] [[s/_subset|subset]] and [[p/_possesses|possesses]] [[s/_some|some]] [[g/_given|given]] [[p/_property|property]].**
 - **(of a [[s/_set|set]]) The [[s/_smallest|smallest]] [[c/_closed|closed]] [[s/_set|set]] which [[c/_contains|contains]] the [[g/_given|given]] [[s/_set|set]].**
 - **The [[a/_act|act]] of [[s/_shutting|shutting]]; a [[c/_closing|closing]].**
 	- _Example: the closure of a door, or of a chink_

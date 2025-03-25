@@ -1,7 +1,7 @@
 # Infiltrate
 ---
 #noun
-- **[[a/_any|Any]] undesirable substance or [[g/_group|group]] of [[c/_cells|cells]] that [[h/_has|has]] [[m/_made|made]] [[i/_its|its]] way [[i/_into|into]] [[p/_part|part]] of the [[b/_body|body]].**
+- **[[a/_any|Any]] undesirable [[s/_substance|substance]] or [[g/_group|group]] of [[c/_cells|cells]] that [[h/_has|has]] [[m/_made|made]] [[i/_its|its]] way [[i/_into|into]] [[p/_part|part]] of the [[b/_body|body]].**
 ---
 #verb
 - **To surreptitiously [[p/_penetrate|penetrate]], [[e/_enter|enter]] or [[g/_gain|gain]] [[a/_access|access]] to.**

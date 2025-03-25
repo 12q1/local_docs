@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[r/_region|region]] of the [[e/_earth|earth]] or of a [[c/_continent|continent]]; a [[d/_district|district]] or [[c/_country|country]].**
-- **An [[a/_administrative|administrative]] subdivision of [[c/_certain|certain]] [[c/_countries|countries]], [[i/_including|including]] [[c/_canada|Canada]] and [[c/_china|China]].**
+- **An [[a/_administrative|administrative]] [[s/_subdivision|subdivision]] of [[c/_certain|certain]] [[c/_countries|countries]], [[i/_including|including]] [[c/_canada|Canada]] and [[c/_china|China]].**
 - **([[r/_roman|Roman]] [[h/_history|history]]) An [[a/_area|area]] [[o/_outside|outside]] [[i/_italy|Italy]] which is [[a/_administered|administered]] by a [[r/_roman|Roman]] [[g/_governor|governor]].**
 - **An [[a/_area|area]] under the [[j/_jurisdiction|jurisdiction]] of an [[a/_archbishop|archbishop]], typically [[c/_comprising|comprising]] a [[n/_number|number]] of [[a/_adjacent|adjacent]] [[d/_dioceses|dioceses]].**
 - **An [[a/_area|area]] under the [[j/_jurisdiction|jurisdiction]] of a [[p/_provincial|provincial]] within a [[m/_monastic|monastic]] [[o/_order|order]].**

@@ -6,6 +6,6 @@
 ---
 #verb
 - **To [[r/_react|react]] with a [[b/_bisulfate|bisulfate]]**
-- **To sulfate with two sulfate [[g/_groups|groups]]**
+- **To [[s/_sulfate|sulfate]] with two [[s/_sulfate|sulfate]] [[g/_groups|groups]]**
 ---
 ---

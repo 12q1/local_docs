@@ -6,7 +6,7 @@
 - **A [[b/_blockage|blockage]].**
 	- _Example: The plumber cleared the clog from the drain._
 - **A [[s/_shoe|shoe]] of [[a/_any|any]] type.**
-- **A weight, such as a [[l/_log|log]] or [[b/_block|block]] of wood, [[a/_attached|attached]] to a [[p/_person|person]] or [[a/_animal|animal]] to [[h/_hinder|hinder]] [[m/_motion|motion]].**
+- **A weight, [[s/_such|such]] as a [[l/_log|log]] or [[b/_block|block]] of wood, [[a/_attached|attached]] to a [[p/_person|person]] or [[a/_animal|animal]] to [[h/_hinder|hinder]] [[m/_motion|motion]].**
 - **That which [[h/_hinders|hinders]] or [[i/_impedes|impedes]] [[m/_motion|motion]]; an [[e/_encumbrance|encumbrance]], [[r/_restraint|restraint]], or [[i/_impediment|impediment]] of [[a/_any|any]] [[k/_kind|kind]].**
 ---
 #verb

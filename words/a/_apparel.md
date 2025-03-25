@@ -4,7 +4,7 @@
 - **[[c/_clothing|Clothing]].**
 - **[[a/_aspect|Aspect]], [[g/_guise|guise]], [[f/_form|form]].**
 - **A [[s/_small|small]] [[o/_ornamental|ornamental]] [[p/_piece|piece]] of [[e/_embroidery|embroidery]] worn on [[a/_albs|albs]] and [[s/_some|some]] [[o/_other|other]] [[e/_ecclesiastical|ecclesiastical]] vestments.**
-- **The [[f/_furniture|furniture]] of a [[s/_ship|ship]], such as [[m/_masts|masts]], [[s/_sails|sails]], [[r/_rigging|rigging]], [[a/_anchors|anchors]], [[g/_guns|guns]], [[e/_etc|etc]].**
+- **The [[f/_furniture|furniture]] of a [[s/_ship|ship]], [[s/_such|such]] as [[m/_masts|masts]], [[s/_sails|sails]], [[r/_rigging|rigging]], [[a/_anchors|anchors]], [[g/_guns|guns]], [[e/_etc|etc]].**
 ---
 #verb
 - **To [[d/_dress|dress]] or [[c/_clothe|clothe]]; to [[a/_attire|attire]].**

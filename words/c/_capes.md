@@ -7,6 +7,6 @@
 - [[c/_chersonese|chersonese]], [[p/_peninsula|peninsula]], [[p/_point|point]]
 #noun
 - **A [[s/_sleeveless|sleeveless]] [[g/_garment|garment]] or [[p/_part|part]] of a [[g/_garment|garment]], [[h/_hanging|hanging]] from the [[n/_neck|neck]] [[o/_over|over]] the [[b/_back|back]], [[a/_arms|arms]], and [[s/_shoulders|shoulders]].**
-- **A superhero.**
+- **A [[s/_superhero|superhero]].**
 ---
 ---

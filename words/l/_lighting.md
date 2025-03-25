@@ -32,7 +32,7 @@
 - [[a/_alight|alight]], [[l/_land|land]], [[f/_find|find]]
 #noun
 - **The [[e/_equipment|equipment]] used to [[p/_provide|provide]] [[i/_illumination|illumination]]; the [[i/_illumination|illumination]] [[s/_so|so]] [[p/_provided|provided]].**
-- **The [[a/_act|act]] of [[a/_activating|activating]] such [[e/_equipment|equipment]], or of [[i/_igniting|igniting]] a [[f/_flame|flame]] [[e/_etc|etc]].**
+- **The [[a/_act|act]] of [[a/_activating|activating]] [[s/_such|such]] [[e/_equipment|equipment]], or of [[i/_igniting|igniting]] a [[f/_flame|flame]] [[e/_etc|etc]].**
 - **The [[p/_process|process]] of [[a/_annealing|annealing]] [[m/_metals|metals]].**
 ---
 ### Synonyms

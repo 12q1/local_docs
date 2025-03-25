@@ -1,11 +1,11 @@
 # Flourish
 ---
 #noun
-- **A [[d/_dramatic|dramatic]] [[g/_gesture|gesture]] such as the waving of a [[f/_flag|flag]].**
+- **A [[d/_dramatic|dramatic]] [[g/_gesture|gesture]] [[s/_such|such]] as the waving of a [[f/_flag|flag]].**
 	- _Example: With many flourishes of the captured banner, they marched down the avenue._
 - **An [[o/_ornamentation|ornamentation]].**
 	- _Example: His signature ended with a flourish._
-- **A [[c/_ceremonious|ceremonious]] [[p/_passage|passage]] such as a [[f/_fanfare|fanfare]].**
+- **A [[c/_ceremonious|ceremonious]] [[p/_passage|passage]] [[s/_such|such]] as a [[f/_fanfare|fanfare]].**
 	- _Example: The trumpets blew a flourish as they entered the church._
 - **A [[d/_decorative|decorative]] [[e/_embellishment|embellishment]] on a [[b/_building|building]].**
 ---

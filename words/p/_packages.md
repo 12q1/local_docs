@@ -2,9 +2,9 @@
 ---
 #noun
 - **[[s/_something|Something]] which is [[p/_packed|packed]], a [[p/_parcel|parcel]], a [[b/_box|box]], an [[e/_envelope|envelope]].**
-- **[[s/_something|Something]] which [[c/_consists|consists]] of various [[c/_components|components]], such as a [[p/_piece|piece]] of [[c/_computer|computer]] [[s/_software|software]].**
+- **[[s/_something|Something]] which [[c/_consists|consists]] of various [[c/_components|components]], [[s/_such|such]] as a [[p/_piece|piece]] of [[c/_computer|computer]] [[s/_software|software]].**
 	- _Example: Did you test the software package to ensure completeness?_
-- **A [[p/_piece|piece]] of [[s/_software|software]] which [[h/_has|has]] [[b/_been|been]] [[p/_prepared|prepared]] in such a way that it [[c/_can|can]] be [[i/_installed|installed]] with a [[p/_package|package]] [[m/_manager|manager]].**
+- **A [[p/_piece|piece]] of [[s/_software|software]] which [[h/_has|has]] [[b/_been|been]] [[p/_prepared|prepared]] in [[s/_such|such]] a way that it [[c/_can|can]] be [[i/_installed|installed]] with a [[p/_package|package]] [[m/_manager|manager]].**
 - **The [[a/_act|act]] of [[p/_packing|packing]] [[s/_something|something]].**
 - **[[s/_something|Something]] [[r/_resembling|resembling]] a [[p/_package|package]].**
 - **A [[p/_package|package]] [[h/_holiday|holiday]].**

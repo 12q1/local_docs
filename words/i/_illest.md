@@ -11,7 +11,7 @@
 	- _Example: I've been ill with the flu for the past few days._
 - **[[h/_having|Having]] an urge to vomit.**
 	- _Example: Seeing those pictures made me ill._
-- **([[h/_hip|hip]]-[[h/_hop|hop]] [[s/_slang|slang]]) Sublime, with the [[c/_connotation|connotation]] of [[b/_being|being]] [[s/_so|so]] in a [[s/_singularly|singularly]] [[c/_creative|creative]] way.**
+- **([[h/_hip|hip]]-[[h/_hop|hop]] [[s/_slang|slang]]) [[s/_sublime|Sublime]], with the [[c/_connotation|connotation]] of [[b/_being|being]] [[s/_so|so]] in a [[s/_singularly|singularly]] [[c/_creative|creative]] way.**
 - **[[e/_extremely|Extremely]] [[b/_bad|bad]] ([[b/_bad|bad]] [[e/_enough|enough]] to [[m/_make|make]] [[o/_one|one]] [[i/_ill|ill]]). [[g/_generally|Generally]] used [[i/_indirectly|indirectly]] with to be.**
 	- _Example: That band was ill._
 - **Unwise; not a [[g/_good|good]] [[i/_idea|idea]].**

@@ -12,7 +12,7 @@
 	- _Example: valence band;  conduction band_
 - **A [[b/_bond|bond]].**
 - **[[p/_pledge|Pledge]]; [[s/_security|security]].**
-- **A [[r/_ring|ring]], such as a wedding [[r/_ring|ring]] (wedding [[b/_band|band]]), or a [[r/_ring|ring]] [[p/_put|put]] on a [[b/_bird|bird]]'[[s/_s|s]] [[l/_leg|leg]] to [[i/_identify|identify]] it.**
+- **A [[r/_ring|ring]], [[s/_such|such]] as a wedding [[r/_ring|ring]] (wedding [[b/_band|band]]), or a [[r/_ring|ring]] [[p/_put|put]] on a [[b/_bird|bird]]'[[s/_s|s]] [[l/_leg|leg]] to [[i/_identify|identify]] it.**
 - **[[a/_any|Any]] [[d/_distinguishing|distinguishing]] [[l/_line|line]] [[f/_formed|formed]] by [[c/_chromatography|chromatography]], [[e/_electrophoresis|electrophoresis]] [[e/_etc|etc]]**
 - **[[s/_short|Short]] for [[b/_band|band]] [[c/_cell|cell]].**
 - **(hiphop, [[o/_often|often]] in the [[p/_plural|plural]]) A wad of [[m/_money|money]] totaling $1K, [[h/_held|held]] together by a [[b/_band|band]]; (by [[e/_extension|extension]]) [[m/_money|money]]**

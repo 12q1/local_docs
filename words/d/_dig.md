@@ -1,7 +1,7 @@
 # Dig
 ---
 #noun
-- **An [[a/_archeological|archeological]] or [[p/_paleontological|paleontological]] [[i/_investigation|investigation]], or the [[s/_site|site]] where such an [[i/_investigation|investigation]] is taking [[p/_place|place]].**
+- **An [[a/_archeological|archeological]] or [[p/_paleontological|paleontological]] [[i/_investigation|investigation]], or the [[s/_site|site]] where [[s/_such|such]] an [[i/_investigation|investigation]] is taking [[p/_place|place]].**
 - **A [[p/_plodding|plodding]] and [[l/_laborious|laborious]] [[s/_student|student]].**
 - **A thrust; a [[p/_poke|poke]].**
 	- _Example: He guffawed and gave me a dig in the ribs after telling his latest joke._
@@ -24,6 +24,6 @@
 	- _Example: to dig out the facts_
 - **To thrust; to [[p/_poke|poke]].**
 	- _Example: He dug an elbow into my ribs and guffawed at his own joke._
-- **To [[d/_defend|defend]] [[a/_against|against]] an [[a/_attack|attack]] [[h/_hit|hit]] by the [[o/_opposing|opposing]] team by successfully [[p/_passing|passing]] the [[b/_ball|ball]]**
+- **To [[d/_defend|defend]] [[a/_against|against]] an [[a/_attack|attack]] [[h/_hit|hit]] by the [[o/_opposing|opposing]] team by [[s/_successfully|successfully]] [[p/_passing|passing]] the [[b/_ball|ball]]**
 ---
 ---

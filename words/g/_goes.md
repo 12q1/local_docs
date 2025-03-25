@@ -75,7 +75,7 @@
 	- _Example: As the story goes, he got the idea for the song while sitting in traffic._
 - **To [[r/_resort|resort]] (to).**
 	- _Example: I'll go to court if I have to._
-- **To [[a/_apply|apply]] or subject [[o/_oneself|oneself]] to:**
+- **To [[a/_apply|apply]] or [[s/_subject|subject]] [[o/_oneself|oneself]] to:**
 - **To [[f/_fit|fit]] (in a [[p/_place|place]], or together with [[s/_something|something]]):**
 - **To [[d/_date|date]].**
 	- _Example: He's been going with her for two weeks._

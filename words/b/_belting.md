@@ -5,7 +5,7 @@
 	- _Example: The small town was belted by cornfields in all directions._
 - **To [[f/_fasten|fasten]] a [[b/_belt|belt]] on.**
 	- _Example: Edgar belted himself in and turned the car's ignition._
-- **To [[i/_invest|invest]] (a [[p/_person|person]]) with a [[b/_belt|belt]] as [[p/_part|part]] of a [[f/_formal|formal]] [[c/_ceremony|ceremony]] such as [[k/_knighthood|knighthood]].**
+- **To [[i/_invest|invest]] (a [[p/_person|person]]) with a [[b/_belt|belt]] as [[p/_part|part]] of a [[f/_formal|formal]] [[c/_ceremony|ceremony]] [[s/_such|such]] as [[k/_knighthood|knighthood]].**
 - **To [[h/_hit|hit]] with a [[b/_belt|belt]].**
 	- _Example: The child was misbehaving so he was belted as punishment._
 - **To [[s/_scream|scream]] or [[s/_sing|sing]] in a [[l/_loud|loud]] [[m/_manner|manner]].**

@@ -6,7 +6,7 @@
 	- _Example: Please run off twenty-four dittos of this assignment, for my students._
 - **A [[c/_copy|copy]]; an [[i/_imitation|imitation]].**
 - **A [[s/_symbol|symbol]], [[r/_represented|represented]] by two [[a/_apostrophes|apostrophes]], [[i/_inverted|inverted]] [[c/_commas|commas]], or [[q/_quotation|quotation]] [[m/_marks|marks]] (" "), when [[i/_indicating|indicating]] that the [[i/_item|item]] [[p/_preceding|preceding]] is to be [[r/_repeated|repeated]].**
-- **(in the [[p/_plural|plural]]) A suit of [[c/_clothes|clothes]] of the [[s/_same|same]] [[c/_colour|colour]] throughout.**
+- **(in the [[p/_plural|plural]]) A [[s/_suit|suit]] of [[c/_clothes|clothes]] of the [[s/_same|same]] [[c/_colour|colour]] throughout.**
 ---
 ### Synonyms
 - [[d/_do.|do.]]

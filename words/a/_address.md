@@ -19,7 +19,7 @@
 - **To [[d/_direct|direct]] [[s/_speech|speech]] to; to [[m/_make|make]] a [[c/_communication|communication]] to, whether [[s/_spoken|spoken]] or written; to [[a/_apply|apply]] to by words, as by a [[s/_speech|speech]], [[p/_petition|petition]], [[e/_etc|etc]]., to [[s/_speak|speak]] to.**
 - **To [[d/_direct|direct]] in writing, as a [[l/_letter|letter]]; to superscribe, or to [[d/_direct|direct]] and transmit.**
 	- _Example: He addressed a letter._
-- **To [[m/_make|make]] suit to as a [[l/_lover|lover]]; to [[c/_court|court]]; to woo.**
+- **To [[m/_make|make]] [[s/_suit|suit]] to as a [[l/_lover|lover]]; to [[c/_court|court]]; to woo.**
 - **To [[c/_consign|consign]] or [[e/_entrust|entrust]] to the [[c/_care|care]] of [[a/_another|another]], as [[a/_agent|agent]] or [[f/_factor|factor]].**
 	- _Example: The ship was addressed to a merchant in Baltimore._
 - **To [[a/_address|address]] [[o/_oneself|oneself]] to; to [[p/_prepare|prepare]] [[o/_oneself|oneself]] for; to [[a/_apply|apply]] [[o/_oneself|oneself]] to; to [[d/_direct|direct]] [[o/_one|one]]'[[s/_s|s]] [[s/_speech|speech]] or [[d/_discourse|discourse]] to.**

@@ -10,7 +10,7 @@
 ### Antonyms
 - [[a/_advantage|advantage]], [[b/_bonus|bonus]], [[b/_boon|boon]], [[g/_gain|gain]], [[p/_plus|plus]], [[p/_plus|plus]], [[p/_positive|positive]]
 #verb
-- **To subtract.**
+- **To [[s/_subtract|subtract]].**
 ---
 #adjective
 - **[[b/_being|Being]] a [[n/_negative|negative]] [[q/_quantity|quantity]]; [[p/_pertaining|pertaining]] to a [[d/_deficit|deficit]] or [[r/_reduction|reduction]].**

@@ -13,6 +13,6 @@
 - [[s/_scamper|scamper]], [[s/_scurry|scurry]], [[s/_skip|skip]], [[s/_skite|skite]]
 #verb
 - **To [[c/_cause|cause]] to [[h/_have|have]] [[d/_diarrhea|diarrhea]].**
-- **To suffer from a [[b/_bout|bout]] of [[d/_diarrhea|diarrhea]]; to [[p/_produce|produce]] thin [[e/_excrement|excrement]].**
+- **To [[s/_suffer|suffer]] from a [[b/_bout|bout]] of [[d/_diarrhea|diarrhea]]; to [[p/_produce|produce]] thin [[e/_excrement|excrement]].**
 ---
 ---

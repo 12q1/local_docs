@@ -1,7 +1,7 @@
 # Shouted
 ---
 #verb
-- **To utter a sudden and [[l/_loud|loud]] [[c/_cry|cry]], as in [[j/_joy|joy]], triumph, [[e/_exultation|exultation]] or [[a/_anger|anger]], or to [[a/_attract|attract]] [[a/_attention|attention]], to [[a/_animate|animate]] [[o/_others|others]], [[e/_etc|etc]].**
+- **To utter a [[s/_sudden|sudden]] and [[l/_loud|loud]] [[c/_cry|cry]], as in [[j/_joy|joy]], triumph, [[e/_exultation|exultation]] or [[a/_anger|anger]], or to [[a/_attract|attract]] [[a/_attention|attention]], to [[a/_animate|animate]] [[o/_others|others]], [[e/_etc|etc]].**
 - **To utter with a [[s/_shout|shout]]; to [[c/_cry|cry]]; to [[s/_shout|shout]] [[o/_out|out]]**
 	- _Example: They shouted his name to get his attention._
 - **To [[p/_pay|pay]] for [[f/_food|food]], [[d/_drink|drink]] or [[e/_entertainment|entertainment]] for [[o/_others|others]].**

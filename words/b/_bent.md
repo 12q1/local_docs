@@ -11,10 +11,10 @@
 - **To be [[i/_inclined|inclined]]; to [[d/_direct|direct]] [[i/_itself|itself]].**
 - **(usually with "[[d/_down|down]]") To [[s/_stoop|stoop]].**
 	- _Example: He bent down to pick up the pieces._
-- **To [[b/_bow|bow]] in [[p/_prayer|prayer]], or in token of submission.**
-- **To [[f/_force|force]] to submit.**
+- **To [[b/_bow|bow]] in [[p/_prayer|prayer]], or in token of [[s/_submission|submission]].**
+- **To [[f/_force|force]] to [[s/_submit|submit]].**
 	- _Example: They bent me to their will._
-- **To submit.**
+- **To [[s/_submit|submit]].**
 	- _Example: I am bending to my desire to eat junk food._
 - **To [[a/_apply|apply]] to a task or [[p/_purpose|purpose]].**
 	- _Example: He bent the company's resources to gaining market share._
@@ -36,7 +36,7 @@
 	- _Example: the bent of a bow_
 - **A [[d/_declivity|declivity]] or [[s/_slope|slope]], as of a [[h/_hill|hill]].**
 - **[[p/_particular|Particular]] [[d/_direction|direction]] or tendency; [[f/_flexion|flexion]]; [[c/_course|course]].**
-- **A transverse [[f/_frame|frame]] of a [[f/_framed|framed]] [[s/_structure|structure]]; a subunit of [[f/_framing|framing]].**
+- **A transverse [[f/_frame|frame]] of a [[f/_framed|framed]] [[s/_structure|structure]]; a [[s/_subunit|subunit]] of [[f/_framing|framing]].**
 - **Tension; [[f/_force|force]] of [[a/_acting|acting]]; [[e/_energy|energy]]; [[i/_impetus|impetus]].**
 ---
 ### Synonyms
@@ -50,7 +50,7 @@
 - **(Of a [[p/_person|person]]) [[l/_leading|leading]] a [[l/_life|life]] of [[c/_crime|crime]].**
 - **[[i/_inaccurately|Inaccurately]] [[a/_aimed|aimed]]**
 	- _Example: That shot was so bent it left the pitch._
-- **Suffering from the [[b/_bends|bends]]**
+- **[[s/_suffering|Suffering]] from the [[b/_bends|bends]]**
 - **[[h/_high|High]] from [[b/_both|both]] [[m/_marijuana|marijuana]] and [[a/_alcohol|alcohol]].**
 	- _Example: Man, I am so bent right now!_
 ---

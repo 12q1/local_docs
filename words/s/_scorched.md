@@ -10,6 +10,6 @@
 - **To [[r/_ride|ride]] a [[b/_bicycle|bicycle]] [[f/_furiously|furiously]] on a [[p/_public|public]] [[h/_highway|highway]].**
 ---
 #adjective
-- **[[d/_dried|Dried]], [[d/_damaged|damaged]] or [[b/_burnt|burnt]] by [[e/_exposure|exposure]] to sunlight or [[h/_heat|heat]].**
+- **[[d/_dried|Dried]], [[d/_damaged|damaged]] or [[b/_burnt|burnt]] by [[e/_exposure|exposure]] to [[s/_sunlight|sunlight]] or [[h/_heat|heat]].**
 ---
 ---

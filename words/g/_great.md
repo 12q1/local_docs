@@ -4,7 +4,7 @@
 - **A [[p/_person|person]] of [[m/_major|major]] [[s/_significance|significance]], [[a/_accomplishment|accomplishment]] or [[a/_acclaim|acclaim]].**
 	- _Example: Newton and Einstein are two of the greats of the history of science._
 - **The [[m/_main|main]] [[d/_division|division]] in a [[p/_pipe|pipe]] [[o/_organ|organ]], usually the [[l/_loudest|loudest]] [[d/_division|division]].**
-- **(in [[c/_combinations|combinations]] such as "two-[[g/_greats|greats]]", "three-[[g/_greats|greats]]" [[e/_etc|etc]].) An [[i/_instance|instance]] of the word "[[g/_great|great]]" [[s/_signifying|signifying]] an [[a/_additional|additional]] [[g/_generation|generation]] in [[p/_phrases|phrases]] [[e/_expressing|expressing]] [[f/_family|family]] [[r/_relationships|relationships]].**
+- **(in [[c/_combinations|combinations]] [[s/_such|such]] as "two-[[g/_greats|greats]]", "three-[[g/_greats|greats]]" [[e/_etc|etc]].) An [[i/_instance|instance]] of the word "[[g/_great|great]]" [[s/_signifying|signifying]] an [[a/_additional|additional]] [[g/_generation|generation]] in [[p/_phrases|phrases]] [[e/_expressing|expressing]] [[f/_family|family]] [[r/_relationships|relationships]].**
 	- _Example: My three-greats grandmother._
 ---
 ### Antonyms
@@ -18,12 +18,12 @@
 	- _Example: great-grandfather, great-great-grandfather, great-great-great-grandfather_
 - **([[f/_followed|followed]] by 'with') [[p/_pregnant|Pregnant]]; [[l/_large|large]] with [[y/_young|young]]; [[f/_full|full]] of.**
 	- _Example: great with child_
-- **([[e/_except|except]] with '[[f/_friend|friend]]' and [[s/_similar|similar]] words such as '[[m/_mate|mate]]','[[b/_buddy|buddy]]') [[i/_intimate|Intimate]]; [[f/_familiar|familiar]].**
+- **([[e/_except|except]] with '[[f/_friend|friend]]' and [[s/_similar|similar]] words [[s/_such|such]] as '[[m/_mate|mate]]','[[b/_buddy|buddy]]') [[i/_intimate|Intimate]]; [[f/_familiar|familiar]].**
 - **[[e/_extreme|Extreme]] or [[m/_more|more]] than usual.**
 	- _Example: great worry_
 - **Of [[s/_significant|significant]] [[i/_importance|importance]] or [[c/_consequence|consequence]]; [[i/_important|important]].**
 	- _Example: a great decision_
-- **([[a/_applied|applied]] to [[a/_actions|actions]], thoughts and [[f/_feelings|feelings]]) [[a/_arising|Arising]] from or [[p/_possessing|possessing]] [[i/_idealism|idealism]]; [[a/_admirable|admirable]]; superior; [[c/_commanding|commanding]]; [[h/_heroic|heroic]]; [[i/_illustrious|illustrious]]; [[e/_eminent|eminent]].**
+- **([[a/_applied|applied]] to [[a/_actions|actions]], thoughts and [[f/_feelings|feelings]]) [[a/_arising|Arising]] from or [[p/_possessing|possessing]] [[i/_idealism|idealism]]; [[a/_admirable|admirable]]; [[s/_superior|superior]]; [[c/_commanding|commanding]]; [[h/_heroic|heroic]]; [[i/_illustrious|illustrious]]; [[e/_eminent|eminent]].**
 	- _Example: a great deed_
 - **[[i/_impressive|Impressive]] or [[s/_striking|striking]].**
 	- _Example: a great show of wealth_

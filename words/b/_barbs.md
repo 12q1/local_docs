@@ -12,7 +12,7 @@
 - **A [[h/_hair|hair]] or [[b/_bristle|bristle]] [[e/_ending|ending]] in a [[d/_double|double]] [[h/_hook|hook]].**
 - **A [[b/_blackish|blackish]] or [[d/_dun|dun]] variety of the [[p/_pigeon|pigeon]], [[o/_originally|originally]] [[b/_brought|brought]] from [[b/_barbary|Barbary]].**
 - **A [[m/_muffler|muffler]], worn by [[n/_nuns|nuns]] and [[m/_mourners|mourners]].**
-- **[[p/_paps|Paps]], or [[l/_little|little]] [[p/_projections|projections]], of the [[m/_mucous|mucous]] [[m/_membrane|membrane]], which [[m/_mark|mark]] the [[o/_opening|opening]] of the submaxillary [[g/_glands|glands]] under the tongue in [[h/_horses|horses]] and [[c/_cattle|cattle]]. The [[n/_name|name]] is [[m/_mostly|mostly]] [[a/_applied|applied]] when the [[b/_barbs|barbs]] are [[i/_inflamed|inflamed]] and swollen. [Written [[a/_also|also]] [[b/_barbel|barbel]] and [[b/_barble|barble]].]**
+- **[[p/_paps|Paps]], or [[l/_little|little]] [[p/_projections|projections]], of the [[m/_mucous|mucous]] [[m/_membrane|membrane]], which [[m/_mark|mark]] the [[o/_opening|opening]] of the [[s/_submaxillary|submaxillary]] [[g/_glands|glands]] under the tongue in [[h/_horses|horses]] and [[c/_cattle|cattle]]. The [[n/_name|name]] is [[m/_mostly|mostly]] [[a/_applied|applied]] when the [[b/_barbs|barbs]] are [[i/_inflamed|inflamed]] and swollen. [Written [[a/_also|also]] [[b/_barbel|barbel]] and [[b/_barble|barble]].]**
 - **A [[b/_bit|bit]] for a [[h/_horse|horse]].**
 - **A [[p/_plastic|plastic]] [[f/_fastener|fastener]], [[s/_shaped|shaped]] [[r/_roughly|roughly]] [[l/_like|like]] a [[c/_capital|capital]] [[i/_i|I]] (with [[s/_serifs|serifs]]), used to [[a/_attach|attach]] [[s/_socks|socks]] [[e/_etc|etc]]. to their [[p/_packaging|packaging]].**
 ---
@@ -24,7 +24,7 @@
 - **To [[c/_clip|clip]]; to [[m/_mow|mow]].**
 ---
 #noun
-- **The [[b/_barbary|Barbary]] [[h/_horse|horse]], a superior [[b/_breed|breed]] [[i/_introduced|introduced]] from [[b/_barbary|Barbary]] [[i/_into|into]] [[s/_spain|Spain]] by the [[m/_moors|Moors]].**
+- **The [[b/_barbary|Barbary]] [[h/_horse|horse]], a [[s/_superior|superior]] [[b/_breed|breed]] [[i/_introduced|introduced]] from [[b/_barbary|Barbary]] [[i/_into|into]] [[s/_spain|Spain]] by the [[m/_moors|Moors]].**
 - **A [[b/_blackish|blackish]] or [[d/_dun|dun]] variety of [[p/_pigeon|pigeon]], [[o/_originally|originally]] [[b/_brought|brought]] from [[b/_barbary|Barbary]].**
 ---
 #noun

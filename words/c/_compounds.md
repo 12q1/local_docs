@@ -8,8 +8,8 @@
 - [[g/_gaol|gaol]], [[j/_jail|jail]], [[p/_pen|pen]], [[p/_pound|pound]], [[p/_prison|prison]]
 #noun
 - **[[a/_anything|Anything]] [[m/_made|made]] by [[c/_combining|combining]] [[s/_several|several]] things.**
-- **A substance [[m/_made|made]] from [[a/_any|any]] [[c/_combination|combination]] [[e/_elements|elements]].**
-- **A substance [[f/_formed|formed]] by [[c/_chemical|chemical]] union of two or [[m/_more|more]] [[i/_ingredients|ingredients]] in [[d/_definite|definite]] [[p/_proportions|proportions]] by weight.**
+- **A [[s/_substance|substance]] [[m/_made|made]] from [[a/_any|any]] [[c/_combination|combination]] [[e/_elements|elements]].**
+- **A [[s/_substance|substance]] [[f/_formed|formed]] by [[c/_chemical|chemical]] union of two or [[m/_more|more]] [[i/_ingredients|ingredients]] in [[d/_definite|definite]] [[p/_proportions|proportions]] by weight.**
 - **A [[l/_lexeme|lexeme]] that [[c/_consists|consists]] of [[m/_more|more]] than [[o/_one|one]] [[s/_stem|stem]]; [[c/_compound|compound]] word; for [[e/_example|example]] [[l/_laptop|laptop]], [[f/_formed|formed]] from [[l/_lap|lap]] and top.**
 - **A [[c/_compound|compound]] [[l/_locomotive|locomotive]], a [[s/_steam|steam]] [[l/_locomotive|locomotive]] with [[b/_both|both]] [[h/_high|high]]-[[p/_pressure|pressure]] and [[l/_low|low]]-[[p/_pressure|pressure]] [[c/_cylinders|cylinders]].**
 ---
@@ -25,7 +25,7 @@
 - **To [[s/_settle|settle]] [[a/_amicably|amicably]]; to [[a/_adjust|adjust]] by [[a/_agreement|agreement]]; to [[c/_compromise|compromise]].**
 - **To [[c/_come|come]] to terms of [[a/_agreement|agreement]]; to [[a/_agree|agree]]; to [[s/_settle|settle]] by a [[c/_compromise|compromise]]; usually [[f/_followed|followed]] by with [[b/_before|before]] the [[p/_person|person]] [[p/_participating|participating]], and for [[b/_before|before]] the thing [[c/_compounded|compounded]] or the [[c/_consideration|consideration]].**
 - **To [[c/_compose|compose]]; to [[c/_constitute|constitute]].**
-- **To [[i/_increase|increase]] in value with [[i/_interest|interest]], where the [[i/_interest|interest]] is [[e/_earned|earned]] on [[b/_both|both]] the [[p/_principal|principal]] sum and [[p/_prior|prior]] [[e/_earned|earned]] [[i/_interest|interest]].**
+- **To [[i/_increase|increase]] in value with [[i/_interest|interest]], where the [[i/_interest|interest]] is [[e/_earned|earned]] on [[b/_both|both]] the [[p/_principal|principal]] [[s/_sum|sum]] and [[p/_prior|prior]] [[e/_earned|earned]] [[i/_interest|interest]].**
 - **To worsen a [[s/_situation|situation]].**
 - **Of a [[h/_horse|horse]]: to [[f/_fail|fail]] to [[m/_maintain|maintain]] [[s/_speed|speed]].**
 ---

@@ -1,14 +1,14 @@
 # Pieces
 ---
 #noun
-- **A [[p/_part|part]] of a [[l/_larger|larger]] whole, usually in such a [[f/_form|form]] that it is [[a/_able|able]] to be [[s/_separated|separated]] from [[o/_other|other]] [[p/_parts|parts]].**
+- **A [[p/_part|part]] of a [[l/_larger|larger]] whole, usually in [[s/_such|such]] a [[f/_form|form]] that it is [[a/_able|able]] to be [[s/_separated|separated]] from [[o/_other|other]] [[p/_parts|parts]].**
 	- _Example: I’d like another piece of pie._
 - **A [[s/_single|single]] [[i/_item|item]] [[b/_belonging|belonging]] to a [[c/_class|class]] of [[s/_similar|similar]] [[i/_items|items]]**
 	- _Example: a piece of machinery_
 - **[[o/_one|One]] of the [[f/_figures|figures]] used in [[p/_playing|playing]] [[c/_chess|chess]], [[s/_specifically|specifically]] a [[h/_higher|higher]]-value [[f/_figure|figure]] as [[d/_distinguished|distinguished]] from a [[p/_pawn|pawn]]; by [[e/_extension|extension]], a [[s/_similar|similar]] [[c/_counter|counter]] [[e/_etc|etc]]. in [[o/_other|other]] [[g/_games|games]].**
 - **A [[c/_coin|coin]], [[e/_especially|especially]] [[o/_one|one]] valued at [[l/_less|less]] than the [[p/_principal|principal]] unit of [[c/_currency|currency]].**
 	- _Example: a sixpenny piece_
-- **An [[a/_artistic|artistic]] [[c/_creation|creation]], such as a [[p/_painting|painting]], [[s/_sculpture|sculpture]], [[m/_musical|musical]] [[c/_composition|composition]], [[l/_literary|literary]] work, [[e/_etc|etc]].**
+- **An [[a/_artistic|artistic]] [[c/_creation|creation]], [[s/_such|such]] as a [[p/_painting|painting]], [[s/_sculpture|sculpture]], [[m/_musical|musical]] [[c/_composition|composition]], [[l/_literary|literary]] work, [[e/_etc|etc]].**
 	- _Example: She played two beautiful pieces on the piano._
 - **An [[a/_article|article]] [[p/_published|published]] in the [[p/_press|press]].**
 	- _Example: Today's paper has an interesting piece on medical research._

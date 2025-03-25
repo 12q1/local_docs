@@ -2,11 +2,11 @@
 ---
 #noun
 - **(‘the [[b/_bare|bare]]’) The surface, the ([[b/_bare|bare]]) [[s/_skin|skin]].**
-- **Surface; [[b/_body|body]]; substance.**
+- **Surface; [[b/_body|body]]; [[s/_substance|substance]].**
 - **That [[p/_part|part]] of a [[r/_roofing|roofing]] [[s/_slate|slate]], [[s/_shingle|shingle]], tile, or [[m/_metal|metal]] [[p/_plate|plate]], which is [[e/_exposed|exposed]] to the weather.**
 ---
 #adjective
-- **[[m/_minimal|Minimal]]; that is or are [[j/_just|just]] sufficient.**
+- **[[m/_minimal|Minimal]]; that is or are [[j/_just|just]] [[s/_sufficient|sufficient]].**
 	- _Example: a bare majority_
 - **[[n/_naked|Naked]], uncovered.**
 	- _Example: I do wonder why keeping my little breasts bare can be lewd even as none tells my brother anything for being bare-chested._

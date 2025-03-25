@@ -20,6 +20,6 @@
 - **A valley, or [[s/_small|small]], [[s/_shallow|shallow]] [[d/_dell|dell]].**
 ---
 #noun
-- **[[s/_semi|Semi]]-[[f/_formal|formal]] trousers that are [[l/_less|less]] [[f/_formal|formal]] than those [[p/_part|part]] of a suit but suitable for wearing in [[m/_most|most]] [[o/_offices|offices]] and therefore [[n/_nowadays|nowadays]] [[n/_no|no]] [[l/_longer|longer]] [[c/_considered|considered]] [[c/_casual|casual]] trousers. (Takes a [[p/_plural|plural]] verb [[e/_even|even]] when [[r/_referring|referring]] to a [[s/_single|single]] [[p/_pair|pair]]; [[m/_may|may]] be [[r/_referred|referred]] to as a [[p/_pair|pair]] of [[s/_slacks|slacks]])**
+- **[[s/_semi|Semi]]-[[f/_formal|formal]] trousers that are [[l/_less|less]] [[f/_formal|formal]] than those [[p/_part|part]] of a [[s/_suit|suit]] but [[s/_suitable|suitable]] for wearing in [[m/_most|most]] [[o/_offices|offices]] and therefore [[n/_nowadays|nowadays]] [[n/_no|no]] [[l/_longer|longer]] [[c/_considered|considered]] [[c/_casual|casual]] trousers. (Takes a [[p/_plural|plural]] verb [[e/_even|even]] when [[r/_referring|referring]] to a [[s/_single|single]] [[p/_pair|pair]]; [[m/_may|may]] be [[r/_referred|referred]] to as a [[p/_pair|pair]] of [[s/_slacks|slacks]])**
 ---
 ---

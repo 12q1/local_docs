@@ -14,7 +14,7 @@
 	- _Example: a cold heart_
 - **A wight or [[b/_being|being]].**
 - **A [[c/_conventional|conventional]] [[s/_shape|shape]] or [[s/_symbol|symbol]] used to [[r/_represent|represent]] the [[h/_heart|heart]], [[l/_love|love]], or [[e/_emotion|emotion]]: ♥ or [[s/_sometimes|sometimes]] <3.**
-- **A [[p/_playing|playing]] [[c/_card|card]] of the suit [[h/_hearts|hearts]] [[f/_featuring|featuring]] [[o/_one|one]] or [[m/_more|more]] [[h/_heart|heart]]-[[s/_shaped|shaped]] [[s/_symbols|symbols]].**
+- **A [[p/_playing|playing]] [[c/_card|card]] of the [[s/_suit|suit]] [[h/_hearts|hearts]] [[f/_featuring|featuring]] [[o/_one|one]] or [[m/_more|more]] [[h/_heart|heart]]-[[s/_shaped|shaped]] [[s/_symbols|symbols]].**
 - **The twenty-[[f/_fourth|fourth]] Lenormand [[c/_card|card]].**
 - **The [[c/_centre|centre]], [[e/_essence|essence]], or [[c/_core|core]].**
 	- _Example: Buddhists believe that suffering is right at the heart of all life._

@@ -8,6 +8,6 @@
 	- _Example: They say it's going to hail tomorrow._
 - **To [[s/_send|send]] or [[r/_release|release]] [[h/_hail|hail]].**
 	- _Example: The cloud would hail down furiously within a few minutes._
-- **To [[p/_pour|pour]] [[d/_down|down]] in [[r/_rapid|rapid]] succession.**
+- **To [[p/_pour|pour]] [[d/_down|down]] in [[r/_rapid|rapid]] [[s/_succession|succession]].**
 ---
 ---

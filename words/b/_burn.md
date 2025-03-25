@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_physical|physical]] [[i/_injury|injury]] [[c/_caused|caused]] by [[h/_heat|heat]], [[c/_cold|cold]], [[e/_electricity|electricity]], [[r/_radiation|radiation]] or [[c/_caustic|caustic]] [[c/_chemicals|chemicals]].**
 	- _Example: She had second-degree burns from falling in the bonfire._
-- **A [[s/_sensation|sensation]] [[r/_resembling|resembling]] such an [[i/_injury|injury]].**
+- **A [[s/_sensation|sensation]] [[r/_resembling|resembling]] [[s/_such|such]] an [[i/_injury|injury]].**
 	- _Example: chili burn from eating hot peppers_
 - **The [[a/_act|act]] of [[b/_burning|burning]] [[s/_something|something]] with [[f/_fire|fire]].**
 	- _Example: They're doing a controlled burn of the fields._
@@ -31,7 +31,7 @@
 - **To [[i/_injure|injure]] (a [[p/_person|person]] or [[a/_animal|animal]]) with [[h/_heat|heat]] or [[c/_chemicals|chemicals]] that [[p/_produce|produce]] [[s/_similar|similar]] [[d/_damage|damage]].**
 	- _Example: She burned the child with an iron, and was jailed for ten years._
 - **To [[c/_cauterize|cauterize]].**
-- **To sunburn.**
+- **To [[s/_sunburn|sunburn]].**
 	- _Example: She forgot to put on sunscreen and burned._
 - **To [[c/_consume|consume]], [[i/_injure|injure]], or [[c/_change|change]] the [[c/_condition|condition]] of, as [[i/_if|if]] by [[a/_action|action]] of [[f/_fire|fire]] or [[h/_heat|heat]]; to [[a/_affect|affect]] as [[f/_fire|fire]] or [[h/_heat|heat]] [[d/_does|does]].**
 	- _Example: to burn the mouth with pepper_

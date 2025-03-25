@@ -26,7 +26,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[r/_removing|removing]] [[o/_one|one]]'[[s/_s|s]] [[h/_hat|hat]] as a token of [[r/_respect|respect]].**
-- **The [[l/_leached|leached]] upper [[p/_part|part]] of a [[b/_body|body]] or [[r/_rock|rock]] that [[s/_still|still]] [[c/_contains|contains]] [[d/_disseminated|disseminated]] sulphide [[m/_mineral|mineral]] [[d/_deposit|deposit]].**
+- **The [[l/_leached|leached]] upper [[p/_part|part]] of a [[b/_body|body]] or [[r/_rock|rock]] that [[s/_still|still]] [[c/_contains|contains]] [[d/_disseminated|disseminated]] [[s/_sulphide|sulphide]] [[m/_mineral|mineral]] [[d/_deposit|deposit]].**
 - **The [[p/_process|process]] of [[c/_covering|covering]] a [[b/_borehole|borehole]] in [[o/_order|order]] to [[s/_seal|seal]] an [[o/_oil|oil]] well.**
 - **The [[s/_selling|selling]] of a [[s/_security|security]] [[e/_etc|etc]]. [[c/_close|close]] to an [[e/_expiry|expiry]] [[d/_date|date]].**
 - **The [[c/_conversion|conversion]] of a [[p/_polyhedron|polyhedron]] [[i/_into|into]] a [[s/_stellated|stellated]] [[p/_polyhedron|polyhedron]] by [[r/_raising|raising]] a [[p/_pyramid|pyramid]] on [[e/_each|each]] [[f/_face|face]].**

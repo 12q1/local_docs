@@ -2,8 +2,8 @@
 ---
 #noun
 - **A [[f/_flag|flag]] or [[s/_standard|standard]] used by a [[m/_military|military]] [[c/_commander|commander]], [[m/_monarch|monarch]] or [[n/_nation|nation]].**
-- **(by [[e/_extension|extension]]) The [[m/_military|military]] unit under such a [[f/_flag|flag]] or [[s/_standard|standard]].**
-- **(by [[e/_extension|extension]]) A [[m/_military|military]] or [[a/_administrative|administrative]] subdivision.**
+- **(by [[e/_extension|extension]]) The [[m/_military|military]] unit under [[s/_such|such]] a [[f/_flag|flag]] or [[s/_standard|standard]].**
+- **(by [[e/_extension|extension]]) A [[m/_military|military]] or [[a/_administrative|administrative]] [[s/_subdivision|subdivision]].**
 - **[[a/_any|Any]] [[l/_large|large]] [[s/_sign|sign]], [[e/_especially|especially]] when [[m/_made|made]] of [[s/_soft|soft]] [[m/_material|material]] or [[f/_fabric|fabric]].**
 	- _Example: The mayor hung a banner across Main Street to commemorate the town's 100th anniversary._
 - **A [[l/_large|large]] [[p/_piece|piece]] of [[c/_cloth|cloth]] with a [[s/_slogan|slogan]], [[m/_motto|motto]], or [[e/_emblem|emblem]] [[c/_carried|carried]] in a [[d/_demonstration|demonstration]] or [[o/_other|other]] [[p/_procession|procession]] or suspended in [[s/_some|some]] [[c/_conspicuous|conspicuous]] [[p/_place|place]].**

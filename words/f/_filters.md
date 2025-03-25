@@ -1,7 +1,7 @@
 # Filters
 ---
 #noun
-- **A [[d/_device|device]] which [[s/_separates|separates]] a suspended, [[d/_dissolved|dissolved]], or [[p/_particulate|particulate]] [[m/_matter|matter]] from a [[f/_fluid|fluid]], [[s/_solution|solution]], or [[o/_other|other]] substance; [[a/_any|any]] [[d/_device|device]] that [[s/_separates|separates]] [[o/_one|one]] substance from [[a/_another|another]].**
+- **A [[d/_device|device]] which [[s/_separates|separates]] a suspended, [[d/_dissolved|dissolved]], or [[p/_particulate|particulate]] [[m/_matter|matter]] from a [[f/_fluid|fluid]], [[s/_solution|solution]], or [[o/_other|other]] [[s/_substance|substance]]; [[a/_any|any]] [[d/_device|device]] that [[s/_separates|separates]] [[o/_one|one]] [[s/_substance|substance]] from [[a/_another|another]].**
 - **[[e/_electronics|Electronics]] or [[s/_software|software]] that [[s/_separates|separates]] unwanted [[s/_signals|signals]] (for [[e/_example|example]] [[n/_noise|noise]]) from wanted [[s/_signals|signals]] or that [[a/_attenuates|attenuates]] [[s/_selected|selected]] [[f/_frequencies|frequencies]].**
 - **[[a/_any|Any]] [[i/_item|item]], [[m/_mechanism|mechanism]], [[d/_device|device]] or [[p/_procedure|procedure]] that [[a/_acts|acts]] to [[s/_separate|separate]] or [[i/_isolate|isolate]].**
 	- _Example: He runs an email filter to catch the junk mail._

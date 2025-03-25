@@ -5,6 +5,6 @@
 - **The tool with which a [[c/_counterbore|counterbore]] is [[m/_machined|machined]].**
 ---
 #verb
-- **To [[c/_create|create]] such a [[c/_cylindrical|cylindrical]] [[r/_recess|recess]].**
+- **To [[c/_create|create]] [[s/_such|such]] a [[c/_cylindrical|cylindrical]] [[r/_recess|recess]].**
 ---
 ---

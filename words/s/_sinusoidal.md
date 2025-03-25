@@ -1,7 +1,7 @@
 # Sinusoidal
 ---
 #noun
-- **A [[s/_sine|sine]] wave (or [[c/_combination|combination]] of such waves)**
+- **A [[s/_sine|sine]] wave (or [[c/_combination|combination]] of [[s/_such|such]] waves)**
 ---
 #adjective
 - **[[h/_having|Having]] the [[s/_shape|shape]] or [[c/_characteristics|characteristics]] of a [[s/_sine|sine]] wave.**

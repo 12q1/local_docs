@@ -5,7 +5,7 @@
 	- _Example: rank nonsense_
 - **[[s/_strong|Strong]] in [[g/_growth|growth]]; [[g/_growing|growing]] with vigour or [[r/_rapidity|rapidity]], [[h/_hence|hence]], [[c/_coarse|coarse]] or [[g/_gross|gross]].**
 	- _Example: rank grass_
-- **Suffering from [[o/_overgrowth|overgrowth]] or [[h/_hypertrophy|hypertrophy]]; [[p/_plethoric|plethoric]].**
+- **[[s/_suffering|Suffering]] from [[o/_overgrowth|overgrowth]] or [[h/_hypertrophy|hypertrophy]]; [[p/_plethoric|plethoric]].**
 - **[[c/_causing|Causing]] [[s/_strong|strong]] [[g/_growth|growth]]; [[p/_producing|producing]] [[l/_luxuriantly|luxuriantly]]; [[r/_rich|rich]] and [[f/_fertile|fertile]].**
 	- _Example: rank land_
 - **[[s/_strong|Strong]] to the [[s/_senses|senses]]; [[o/_offensive|offensive]]; [[n/_noisome|noisome]].**

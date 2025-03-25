@@ -4,7 +4,7 @@
 - **([[g/_grammar|grammar]]) A [[l/_language|language]] unit that [[h/_has|has]] [[m/_morphological|morphological]] [[f/_function|function]].**
 ---
 #adjective
-- **Of or [[p/_pertaining|pertaining]] to the [[f/_formation|formation]] and subsequent [[g/_growth|growth]] of [[s/_something|something]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[f/_formation|formation]] and [[s/_subsequent|subsequent]] [[g/_growth|growth]] of [[s/_something|something]].**
 	- _Example: My formative years were spent in an inner city._
 - **[[c/_capable|Capable]] of [[f/_forming|forming]] [[s/_something|something]].**
 - **[[c/_capable|Capable]] of [[p/_producing|producing]] [[n/_new|new]] tissue.**

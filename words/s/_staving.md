@@ -9,7 +9,7 @@
 	- _Example: We ate grass in an attempt to stave off our hunger._
 - **([[r/_rare|rare]] or [[a/_archaic|archaic]]) To [[b/_burst|burst]] in [[p/_pieces|pieces]] by [[s/_striking|striking]] [[a/_against|against]] [[s/_something|something]].**
 - **To walk or [[m/_move|move]] [[r/_rapidly|rapidly]].**
-- **To suffer, or [[c/_cause|cause]] to be [[l/_lost|lost]] by [[b/_breaking|breaking]] the [[c/_cask|cask]].**
+- **To [[s/_suffer|suffer]], or [[c/_cause|cause]] to be [[l/_lost|lost]] by [[b/_breaking|breaking]] the [[c/_cask|cask]].**
 - **To [[r/_render|render]] [[i/_impervious|impervious]] or [[s/_solid|solid]] by [[d/_driving|driving]] with a [[c/_calking|calking]] [[i/_iron|iron]].**
 	- _Example: to stave lead, or the joints of pipes into which lead has been run_
 ---

@@ -7,7 +7,7 @@
 - **To [[d/_delay|delay]], to wait.**
 ---
 #verb
-- **To submit to the [[o/_opinion|opinion]] or [[d/_desire|desire]] of [[a/_another|another]] in [[r/_respect|respect]] to their [[j/_judgment|judgment]] or [[a/_authority|authority]].**
+- **To [[s/_submit|submit]] to the [[o/_opinion|opinion]] or [[d/_desire|desire]] of [[a/_another|another]] in [[r/_respect|respect]] to their [[j/_judgment|judgment]] or [[a/_authority|authority]].**
 - **To [[r/_render|render]], to [[o/_offer|offer]].**
 ---
 #noun
@@ -26,7 +26,7 @@
 - **An [[o/_oath|oath]] or [[a/_affirmation|affirmation]]; a vow**
 	- _Example: if I make a promise, I always stick to it;  he broke his promise_
 - **A transaction [[b/_between|between]] two [[p/_persons|persons]] whereby the [[f/_first|first]] [[p/_person|person]] undertakes in the [[f/_future|future]] to [[r/_render|render]] [[s/_some|some]] [[s/_service|service]] or [[g/_gift|gift]] to the [[s/_second|second]] [[p/_person|person]] or [[d/_devotes|devotes]] [[s/_something|something]] valuable [[n/_now|now]] and [[h/_here|here]] to [[h/_his|his]] use**
-- **[[r/_reason|Reason]] to [[e/_expect|expect]] [[i/_improvement|improvement]] or success; [[p/_potential|potential]]**
+- **[[r/_reason|Reason]] to [[e/_expect|expect]] [[i/_improvement|improvement]] or [[s/_success|success]]; [[p/_potential|potential]]**
 	- _Example: She shows great promise as an actress._
 - **A [[p/_placeholder|placeholder]] [[o/_object|object]] [[r/_representing|representing]] the [[e/_eventual|eventual]] [[r/_result|result]] of an [[a/_asynchronous|asynchronous]] [[o/_operation|operation]]**
 - **[[b/_bestowal|Bestowal]] or [[f/_fulfillment|fulfillment]] of what is [[p/_promised|promised]]**

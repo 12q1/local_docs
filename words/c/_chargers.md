@@ -10,6 +10,6 @@
 	- _Example: The fancy restaurant used a white porcelain charger when serving._
 - **[[o/_one|One]] who [[c/_charges|charges]]**
 - **A speedloader that [[h/_holds|holds]] [[s/_several|several]] [[c/_cartridges|cartridges]] together in a [[s/_single|single]] unit for [[e/_easier|easier]] [[l/_loading|loading]] of a [[f/_firearm|firearm]]'[[s/_s|s]] [[m/_magazine|magazine]]**
-- **A [[r/_rectal|rectal]] [[c/_concealment|concealment]] [[c/_container|container]] for [[p/_prohibited|prohibited]] [[m/_material|material]] such as [[m/_money|money]], [[d/_drugs|drugs]] and tools**
+- **A [[r/_rectal|rectal]] [[c/_concealment|concealment]] [[c/_container|container]] for [[p/_prohibited|prohibited]] [[m/_material|material]] [[s/_such|such]] as [[m/_money|money]], [[d/_drugs|drugs]] and tools**
 ---
 ---

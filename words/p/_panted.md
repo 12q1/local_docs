@@ -7,7 +7,7 @@
 - **Of the [[h/_heart|heart]], to [[b/_beat|beat]] with unnatural violence or [[r/_rapidity|rapidity]]; to [[p/_palpitate|palpitate]].**
 - **To [[s/_sigh|sigh]]; to [[f/_flutter|flutter]]; to [[l/_languish|languish]].**
 - **To [[h/_heave|heave]], as the [[b/_breast|breast]].**
-- **To [[b/_bulge|bulge]] and [[s/_shrink|shrink]] successively, of [[i/_iron|iron]] [[h/_hulls|hulls]], [[e/_etc|etc]].**
+- **To [[b/_bulge|bulge]] and [[s/_shrink|shrink]] [[s/_successively|successively]], of [[i/_iron|iron]] [[h/_hulls|hulls]], [[e/_etc|etc]].**
 ---
 ### Synonyms
 - [[g/_gasp|gasp]], [[c/_crave|crave]], [[d/_desire|desire]], [[l/_long|long]], [[p/_pine|pine]], [[c/_crave|crave]], [[d/_desire|desire]], [[l/_long|long]], [[p/_pine|pine]], [[p/_palpitate|palpitate]], [[p/_pound|pound]], [[t/_throb|throb]]

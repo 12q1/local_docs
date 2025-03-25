@@ -7,7 +7,7 @@
 #adjective
 - **[[o/_outside|Outside]] of [[s/_something|something]]; on the [[e/_exterior|exterior]].**
 	- _Example: This building has some external pipework._
-- **Not [[i/_intrinsic|intrinsic]] [[n/_nor|nor]] [[e/_essential|essential]]; [[a/_accidental|accidental]]; [[a/_accompanying|accompanying]]; superficial.**
+- **Not [[i/_intrinsic|intrinsic]] [[n/_nor|nor]] [[e/_essential|essential]]; [[a/_accidental|accidental]]; [[a/_accompanying|accompanying]]; [[s/_superficial|superficial]].**
 - **[[f/_foreign|Foreign]]; [[r/_relating|relating]] to or [[c/_connected|connected]] with [[f/_foreign|foreign]] [[n/_nations|nations]].**
 	- _Example: external trade or commerce; the external relations of a state or kingdom_
 - **[[a/_away|Away]] from the [[m/_mesial|mesial]] [[p/_plane|plane]] of the [[b/_body|body]]; [[l/_lateral|lateral]].**

@@ -14,7 +14,7 @@
 - **To [[m/_move|move]] [[d/_down|down]]; to [[s/_slide|slide]].**
 	- _Example: Profits have slipped over the past six months._
 - **To [[r/_release|release]] (a [[d/_dog|dog]], a [[b/_bird|bird]] of [[p/_prey|prey]], [[e/_etc|etc]].) to [[g/_go|go]] [[a/_after|after]] a [[q/_quarry|quarry]].**
-- **To [[r/_remove|remove]] the [[s/_skin|skin]] of a [[s/_soft|soft]] [[f/_fruit|fruit]], such as a tomato or [[p/_peach|peach]], by [[b/_blanching|blanching]] [[b/_briefly|briefly]] in [[b/_boiling|boiling]] water, then transferring to [[c/_cold|cold]] water [[s/_so|so]] that the [[s/_skin|skin]] [[p/_peels|peels]], or [[s/_slips|slips]], [[o/_off|off]] [[e/_easily|easily]].**
+- **To [[r/_remove|remove]] the [[s/_skin|skin]] of a [[s/_soft|soft]] [[f/_fruit|fruit]], [[s/_such|such]] as a tomato or [[p/_peach|peach]], by [[b/_blanching|blanching]] [[b/_briefly|briefly]] in [[b/_boiling|boiling]] water, then transferring to [[c/_cold|cold]] water [[s/_so|so]] that the [[s/_skin|skin]] [[p/_peels|peels]], or [[s/_slips|slips]], [[o/_off|off]] [[e/_easily|easily]].**
 - **To [[o/_omit|omit]]; to [[l/_lose|lose]] by [[n/_negligence|negligence]].**
 - **To [[c/_cut|cut]] [[s/_slips|slips]] from; to [[c/_cut|cut]]; to take [[o/_off|off]]; to [[m/_make|make]] a [[s/_slip|slip]] or [[s/_slips|slips]] of.**
 	- _Example: to slip a piece of cloth or paper_

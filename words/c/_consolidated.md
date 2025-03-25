@@ -7,7 +7,7 @@
 - **To [[p/_pay|pay]] [[o/_off|off]] [[s/_several|several]] [[d/_debts|debts]] with a [[s/_single|single]] [[l/_loan|loan]].**
 ---
 #adjective
-- **[[i/_including|Including]] [[f/_financial|financial]] [[d/_data|data]] of the [[p/_parent|parent]] and [[a/_all|all]] subsidiary [[c/_companies|companies]].**
+- **[[i/_including|Including]] [[f/_financial|financial]] [[d/_data|data]] of the [[p/_parent|parent]] and [[a/_all|all]] [[s/_subsidiary|subsidiary]] [[c/_companies|companies]].**
 ---
 ### Antonyms
 - [[n/_nonconsolidated|nonconsolidated]]

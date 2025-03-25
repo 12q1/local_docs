@@ -62,7 +62,7 @@
 ### Synonyms
 - [[E/_E559|E559]]
 #noun
-- **(usually uncountable) A [[h/_hard|hard]] white translucent [[c/_ceramic|ceramic]], [[o/_originally|originally]] [[m/_made|made]] by [[f/_firing|firing]] [[k/_kaolin|kaolin]], [[q/_quartz|quartz]], and [[f/_feldspar|feldspar]] at [[h/_high|high]] temperatures but [[n/_now|now]] [[a/_also|also]] [[i/_inclusive|inclusive]] of [[s/_similar|similar]] [[a/_artificial|artificial]] [[m/_materials|materials]]; [[a/_also|also]] [[o/_often|often]] such a [[m/_material|material]] as a [[s/_symbol|symbol]] of the [[f/_fragility|fragility]], [[e/_elegance|elegance]], [[e/_etc|etc]]. traditionally [[a/_associated|associated]] with [[p/_porcelain|porcelain]] [[g/_goods|goods]].**
+- **(usually uncountable) A [[h/_hard|hard]] white translucent [[c/_ceramic|ceramic]], [[o/_originally|originally]] [[m/_made|made]] by [[f/_firing|firing]] [[k/_kaolin|kaolin]], [[q/_quartz|quartz]], and [[f/_feldspar|feldspar]] at [[h/_high|high]] temperatures but [[n/_now|now]] [[a/_also|also]] [[i/_inclusive|inclusive]] of [[s/_similar|similar]] [[a/_artificial|artificial]] [[m/_materials|materials]]; [[a/_also|also]] [[o/_often|often]] [[s/_such|such]] a [[m/_material|material]] as a [[s/_symbol|symbol]] of the [[f/_fragility|fragility]], [[e/_elegance|elegance]], [[e/_etc|etc]]. traditionally [[a/_associated|associated]] with [[p/_porcelain|porcelain]] [[g/_goods|goods]].**
 	- _Example: Tableware and toilets are both made of porcelain._
 - **([[n/_now|now]] usually [[p/_plural|plural]]) An [[o/_object|object]] [[m/_made|made]] of [[p/_porcelain|porcelain]], [[a/_art|art]] [[o/_objects|objects]] or [[i/_items|items]] of tableware.**
 	- _Example: The museum has an extensive collection of rare Chinese porcelains._
@@ -72,7 +72,7 @@
 - [[c/_china|china]], [[c/_chinaware|chinaware]]
 #noun
 - **[[s/_small|Small]] [[b/_beads|beads]] [[m/_made|made]] from [[p/_polished|polished]] [[s/_shells|shells]], [[e/_especially|especially]] white [[o/_ones|ones]], [[f/_formerly|formerly]] used as [[m/_money|money]] and [[j/_jewelry|jewelry]] by [[c/_certain|certain]] [[n/_native|Native]] [[a/_american|American]] [[p/_peoples|peoples]].**
-- **A [[s/_string|string]] of such [[b/_beads|beads]].**
+- **A [[s/_string|string]] of [[s/_such|such]] [[b/_beads|beads]].**
 - **[[m/_money|Money]].**
 ---
 ### Synonyms

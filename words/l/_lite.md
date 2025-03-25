@@ -15,7 +15,7 @@
 	- _Example: I'm really seeing you in a different light today._
 - **A [[f/_flame|flame]] or [[s/_something|something]] used to [[c/_create|create]] [[f/_fire|fire]].**
 	- _Example: Hey, buddy, you got a light?_
-- **A [[f/_firework|firework]] [[m/_made|made]] by [[f/_filling|filling]] a [[c/_case|case]] with a substance which [[b/_burns|burns]] [[b/_brilliantly|brilliantly]] with a white or [[c/_coloured|coloured]] [[f/_flame|flame]].**
+- **A [[f/_firework|firework]] [[m/_made|made]] by [[f/_filling|filling]] a [[c/_case|case]] with a [[s/_substance|substance]] which [[b/_burns|burns]] [[b/_brilliantly|brilliantly]] with a white or [[c/_coloured|coloured]] [[f/_flame|flame]].**
 	- _Example: a Bengal light_
 - **A window, or [[s/_space|space]] for a window in [[a/_architecture|architecture]].**
 	- _Example: This facade has eight south-facing lights._
@@ -80,6 +80,6 @@
 - **[[l/_light|Light]] in [[c/_composition|composition]], [[n/_notably|notably]] [[l/_low|low]] in [[f/_fat|fat]], [[c/_calories|calories]] [[e/_etc|etc]]. [[m/_most|Most]] [[c/_commonly|commonly]] used [[c/_commercially|commercially]].**
 	- _Example: His lite dinner consisted of crackers, some broccoli and a salad with lite ranch dressing._
 - **[[l/_lightweight|Lightweight]]**
-- **(usually used [[p/_postpositively|postpositively]]) [[l/_lacking|Lacking]] substance or [[s/_seriousness|seriousness]]; watered [[d/_down|down]].**
+- **(usually used [[p/_postpositively|postpositively]]) [[l/_lacking|Lacking]] [[s/_substance|substance]] or [[s/_seriousness|seriousness]]; watered [[d/_down|down]].**
 ---
 ---

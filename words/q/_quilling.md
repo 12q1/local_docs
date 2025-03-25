@@ -5,7 +5,7 @@
 - **To write.**
 - **To [[f/_form|form]] [[f/_fabric|fabric]] [[i/_into|into]] [[s/_small|small]], [[r/_rounded|rounded]] [[f/_folds|folds]].**
 - **To [[d/_decorate|decorate]] with [[q/_quillwork|quillwork]].**
-- **To subject (a woman who is [[g/_giving|giving]] [[b/_birth|birth]]) to the [[p/_practice|practice]] of [[q/_quilling|quilling]] ([[b/_blowing|blowing]] [[p/_pepper|pepper]] [[i/_into|into]] [[h/_her|her]] [[n/_nose|nose]] to [[i/_induce|induce]] or [[h/_hasten|hasten]] [[l/_labor|labor]]).**
+- **To [[s/_subject|subject]] (a woman who is [[g/_giving|giving]] [[b/_birth|birth]]) to the [[p/_practice|practice]] of [[q/_quilling|quilling]] ([[b/_blowing|blowing]] [[p/_pepper|pepper]] [[i/_into|into]] [[h/_her|her]] [[n/_nose|nose]] to [[i/_induce|induce]] or [[h/_hasten|hasten]] [[l/_labor|labor]]).**
 ---
 #noun
 - **A [[b/_band|band]] of [[f/_fluted|fluted]] [[m/_muslin|muslin]] [[r/_resembling|resembling]] a [[r/_row|row]] of [[q/_quills|quills]].**

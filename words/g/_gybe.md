@@ -2,11 +2,11 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[g/_gybing|gybing]].**
-- **(by [[e/_extension|extension]]) A sudden [[c/_change|change]] in [[a/_approach|approach]] or [[d/_direction|direction]]; vacillation.**
+- **(by [[e/_extension|extension]]) A [[s/_sudden|sudden]] [[c/_change|change]] in [[a/_approach|approach]] or [[d/_direction|direction]]; vacillation.**
 ---
 #verb
 - **To [[s/_shift|shift]] a [[f/_fore|fore]]-and-[[a/_aft|aft]] [[s/_sail|sail]] from [[o/_one|one]] [[s/_side|side]] of a [[s/_sailing|sailing]] vessel to the [[o/_other|other]], while [[s/_sailing|sailing]] [[b/_before|before]] the wind.**
-- **Of a [[f/_fore|fore]]-and-[[a/_aft|aft]] [[s/_sail|sail]] or [[i/_its|its]] [[b/_boom|boom]]: to [[s/_shift|shift]], [[o/_often|often]] [[f/_forcefully|forcefully]] and suddenly, from [[o/_one|one]] [[s/_side|side]] of a [[s/_sailing|sailing]] vessel to the [[o/_other|other]].**
+- **Of a [[f/_fore|fore]]-and-[[a/_aft|aft]] [[s/_sail|sail]] or [[i/_its|its]] [[b/_boom|boom]]: to [[s/_shift|shift]], [[o/_often|often]] [[f/_forcefully|forcefully]] and [[s/_suddenly|suddenly]], from [[o/_one|one]] [[s/_side|side]] of a [[s/_sailing|sailing]] vessel to the [[o/_other|other]].**
 - **[[g/_generally|Generally]] of a [[s/_small|small]] [[s/_sailing|sailing]] vessel: to [[c/_change|change]] tack with the wind [[c/_crossing|crossing]] [[b/_behind|behind]] the vessel.**
 - **(by [[e/_extension|extension]]) [[o/_often|Often]] as [[g/_gybe|gybe]] at: to [[b/_balk|balk]], [[h/_hesitate|hesitate]], or vacillate when [[f/_faced|faced]] with a [[c/_course|course]] of [[a/_action|action]], [[p/_plan|plan]], or [[p/_proposal|proposal]].**
 ---

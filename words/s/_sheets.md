@@ -16,7 +16,7 @@
 - **A [[s/_sail|sail]].**
 - **The [[a/_area|area]] of [[i/_ice|ice]] on which the [[g/_game|game]] of [[c/_curling|curling]] is [[p/_played|played]].**
 - **A [[l/_layer|layer]] of veneer.**
-- **[[p/_precipitation|Precipitation]] of such [[q/_quantity|quantity]] and [[f/_force|force]] as to [[r/_resemble|resemble]] a thin, virtually [[s/_solid|solid]] wall.**
+- **[[p/_precipitation|Precipitation]] of [[s/_such|such]] [[q/_quantity|quantity]] and [[f/_force|force]] as to [[r/_resemble|resemble]] a thin, virtually [[s/_solid|solid]] wall.**
 - **An [[e/_extensive|extensive]] [[b/_bed|bed]] of an [[e/_eruptive|eruptive]] [[r/_rock|rock]] [[i/_intruded|intruded]] [[b/_between|between]], or [[o/_overlying|overlying]], [[o/_other|other]] [[s/_strata|strata]].**
 - **The [[s/_space|space]] in the [[f/_forward|forward]] or [[a/_after|after]] [[p/_part|part]] of a [[b/_boat|boat]] where there are [[n/_no|no]] [[r/_rowers|rowers]].**
 	- _Example: fore sheets; stern sheets_

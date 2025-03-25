@@ -19,6 +19,6 @@
 - **The [[d/_distortion|distortion]] of [[c/_computer|computer]] tape by wrinkling.**
 ---
 #adjective
-- **That [[s/_settles|settles]] [[s/_something|something]] (such as an [[a/_argument|argument]]) [[d/_definitely|definitely]] and [[c/_conclusively|conclusively]]**
+- **That [[s/_settles|settles]] [[s/_something|something]] ([[s/_such|such]] as an [[a/_argument|argument]]) [[d/_definitely|definitely]] and [[c/_conclusively|conclusively]]**
 ---
 ---

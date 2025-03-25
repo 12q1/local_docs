@@ -7,7 +7,7 @@
 - **To [[m/_make|make]] [[i/_immune|immune]].**
 ---
 #adjective
-- **(usually with "from") [[e/_exempt|Exempt]]; not subject to.**
+- **(usually with "from") [[e/_exempt|Exempt]]; not [[s/_subject|subject]] to.**
 	- _Example: As a diplomat, you are immune from prosecution._
 - **(usually with "to") [[p/_protected|Protected]] by [[i/_inoculation|inoculation]], or [[d/_due|due]] to [[i/_innate|innate]] [[r/_resistance|resistance]] to [[p/_pathogens|pathogens]].**
 	- _Example: I am immune to chicken pox._

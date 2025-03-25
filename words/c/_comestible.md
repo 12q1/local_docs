@@ -6,7 +6,7 @@
 ### Synonyms
 - [[f/_foodstuff|foodstuff]], [[s/_sustenance|sustenance]], [[v/_victuals|victuals]]
 #adjective
-- **Suitable to be [[e/_eaten|eaten]]; [[e/_edible|edible]].**
+- **[[s/_suitable|Suitable]] to be [[e/_eaten|eaten]]; [[e/_edible|edible]].**
 ---
 ### Synonyms
 - [[e/_eatable|eatable]], [[e/_edible|edible]], [[e/_esculent|esculent]]

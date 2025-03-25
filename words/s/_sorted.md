@@ -9,7 +9,7 @@
 - **To [[c/_conform|conform]]; to [[a/_adapt|adapt]]; to [[a/_accommodate|accommodate]].**
 - **To [[c/_choose|choose]] from a [[n/_number|number]]; to [[s/_select|select]]; to [[c/_cull|cull]].**
 - **To [[j/_join|join]] or [[a/_associate|associate]] with [[o/_others|others]], [[e/_especially|especially]] with [[o/_others|others]] of the [[s/_same|same]] [[k/_kind|kind]] or [[s/_species|species]]; to [[a/_agree|agree]].**
-- **To suit; to [[f/_fit|fit]]; to be in [[a/_accord|accord]]; to [[h/_harmonize|harmonize]].**
+- **To [[s/_suit|suit]]; to [[f/_fit|fit]]; to be in [[a/_accord|accord]]; to [[h/_harmonize|harmonize]].**
 - **To [[f/_fix|fix]] (a [[p/_problem|problem]]) or [[h/_handle|handle]] (a task).**
 - **To [[a/_attack|attack]] [[p/_physically|physically]].**
 	- _Example: If he comes nosing around here again I'll sort him!_
@@ -21,7 +21,7 @@
 	- _Example: a sorted list of numbers_
 - **(usually with [[o/_out|out]]) In [[g/_good|good]] [[o/_order|order]], under [[c/_control|control]].**
 	- _Example: I have to get my life sorted._
-- **In [[p/_possession|possession]] of a sufficient supply, [[e/_especially|especially]] of [[n/_narcotics|narcotics]].**
+- **In [[p/_possession|possession]] of a [[s/_sufficient|sufficient]] supply, [[e/_especially|especially]] of [[n/_narcotics|narcotics]].**
 ---
 #interjection
 - **A [[g/_general|general]] [[e/_expression|expression]] of [[a/_approval|approval]].**

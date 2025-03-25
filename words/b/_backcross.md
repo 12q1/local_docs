@@ -5,7 +5,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_crossing|crossing]] a [[h/_hybrid|hybrid]] with [[o/_one|one]] of [[i/_its|its]] [[p/_parents|parents]].**
-- **An [[o/_organism|organism]] [[p/_produced|produced]] by such a [[c/_crossing|crossing]].**
+- **An [[o/_organism|organism]] [[p/_produced|produced]] by [[s/_such|such]] a [[c/_crossing|crossing]].**
 ---
 #verb
 - **To [[c/_cross|cross]] a [[h/_hybrid|hybrid]] with [[o/_one|one]] of [[i/_its|its]] [[p/_parents|parents]].**

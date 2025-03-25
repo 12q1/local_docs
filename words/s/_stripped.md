@@ -14,7 +14,7 @@
 	- _Example: Don't tighten that bolt any more or you'll strip the thread._
 - **To [[f/_fail|fail]] in the thread; to [[l/_lose|lose]] the thread, as a [[b/_bolt|bolt]], [[s/_screw|screw]], or [[n/_nut|nut]].**
 - **To [[r/_remove|remove]] [[c/_color|color]] from [[h/_hair|hair]], [[c/_cloth|cloth]], [[e/_etc|etc]]. to [[p/_prepare|prepare]] it to [[r/_receive|receive]] [[n/_new|new]] [[c/_color|color]].**
-- **To [[r/_remove|remove]] [[a/_all|all]] [[c/_cards|cards]] of a [[p/_particular|particular]] suit from [[a/_another|another]] [[p/_player|player]]. ([[s/_see|See]] [[a/_also|also]] [[s/_strip|strip]]-[[s/_squeeze|squeeze]].)**
+- **To [[r/_remove|remove]] [[a/_all|all]] [[c/_cards|cards]] of a [[p/_particular|particular]] [[s/_suit|suit]] from [[a/_another|another]] [[p/_player|player]]. ([[s/_see|See]] [[a/_also|also]] [[s/_strip|strip]]-[[s/_squeeze|squeeze]].)**
 - **To [[e/_empty|empty]] (tubing) by [[a/_applying|applying]] [[p/_pressure|pressure]] to the [[o/_outside|outside]] of (the tubing) and [[m/_moving|moving]] that [[p/_pressure|pressure]] [[a/_along|along]] (the tubing).**
 - **To [[m/_milk|milk]] a [[c/_cow|cow]], [[e/_especially|especially]] by [[s/_stroking|stroking]] and [[c/_compressing|compressing]] the teats to [[d/_draw|draw]] [[o/_out|out]] the [[l/_last|last]] of the [[m/_milk|milk]].**
 - **To [[p/_press|press]] [[o/_out|out]] the [[r/_ripe|ripe]] [[r/_roe|roe]] or [[m/_milt|milt]] from [[f/_fishes|fishes]], for [[a/_artificial|artificial]] [[f/_fecundation|fecundation]].**

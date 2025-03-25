@@ -9,7 +9,7 @@
 	- _Example: We have our little differences, but we are firm friends._
 - **[[s/_significant|Significant]] [[c/_change|change]] in or [[e/_effect|effect]] on a [[s/_situation|situation]] or [[s/_state|state]].**
 	- _Example: It just won't make much difference to me._
-- **The [[r/_result|result]] of a subtraction; [[s/_sometimes|sometimes]] the [[a/_absolute|absolute]] value of this [[r/_result|result]].**
+- **The [[r/_result|result]] of a [[s/_subtraction|subtraction]]; [[s/_sometimes|sometimes]] the [[a/_absolute|absolute]] value of this [[r/_result|result]].**
 	- _Example: The difference between 3 and 21 is 18._
 - **[[c/_choice|Choice]]; [[p/_preference|preference]].**
 - **An [[a/_addition|addition]] to a [[c/_coat|coat]] of [[a/_arms|arms]] to [[d/_distinguish|distinguish]] two [[p/_people|people]]'[[s/_s|s]] [[b/_bearings|bearings]] which would [[o/_otherwise|otherwise]] be the [[s/_same|same]]. [[s/_see|See]] [[a/_augmentation|augmentation]] and [[c/_cadency|cadency]].**

@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[e/_emphatic|emphatic]] [[c/_consonant|consonant]].**
-- **A word or [[p/_phrase|phrase]] [[a/_adding|adding]] [[e/_emphasis|emphasis]], such as "a [[l/_lot|lot]]" or "[[r/_really|really]]".**
+- **A word or [[p/_phrase|phrase]] [[a/_adding|adding]] [[e/_emphasis|emphasis]], [[s/_such|such]] as "a [[l/_lot|lot]]" or "[[r/_really|really]]".**
 ---
 #adjective
 - **[[c/_characterized|Characterized]] by [[e/_emphasis|emphasis]]; [[f/_forceful|forceful]].**

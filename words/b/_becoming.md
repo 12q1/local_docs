@@ -16,7 +16,7 @@
 - **The [[a/_act|act]] or [[p/_process|process]] by which [[s/_something|something]] [[b/_becomes|becomes]].**
 ---
 #adjective
-- **[[p/_pleasingly|Pleasingly]] suitable; [[f/_fit|fit]]; [[c/_congruous|congruous]]; [[b/_beautiful|beautiful]]**
+- **[[p/_pleasingly|Pleasingly]] [[s/_suitable|suitable]]; [[f/_fit|fit]]; [[c/_congruous|congruous]]; [[b/_beautiful|beautiful]]**
 - **[[d/_decent|Decent]], [[r/_respectable|respectable]]**
 ---
 ### Antonyms

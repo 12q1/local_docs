@@ -5,7 +5,7 @@
 	- _Example: Walk down the street until you see a hotel on the right._
 - **A [[r/_road|road]] as [[a/_above|above]] but [[i/_including|including]] the [[s/_sidewalks|sidewalks]] ([[p/_pavements|pavements]]) and [[b/_buildings|buildings]].**
 	- _Example: I live on the street down from Joyce Avenue._
-- **The [[p/_people|people]] who [[l/_live|live]] in such a [[r/_road|road]], as a [[n/_neighborhood|neighborhood]].**
+- **The [[p/_people|people]] who [[l/_live|live]] in [[s/_such|such]] a [[r/_road|road]], as a [[n/_neighborhood|neighborhood]].**
 - **The [[p/_people|people]] who [[s/_spend|spend]] a [[g/_great|great]] [[d/_deal|deal]] of time on the [[s/_street|street]] in urban [[a/_areas|areas]], [[e/_especially|especially]], the [[y/_young|young]], the [[p/_poor|poor]], the unemployed, and those [[e/_engaged|engaged]] in [[i/_illegal|illegal]] [[a/_activities|activities]].**
 - **An [[i/_illicit|illicit]] or [[c/_contraband|contraband]] [[s/_source|source]], [[e/_especially|especially]] of [[d/_drugs|drugs]].**
 	- _Example: I got some pot cheap on the street._

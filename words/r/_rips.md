@@ -5,7 +5,7 @@
 - **A type of tide or [[c/_current|current]].**
 - **A [[c/_comical|comical]], [[e/_embarrassing|embarrassing]], or [[h/_hypocritical|hypocritical]] [[e/_event|event]] or [[a/_action|action]].**
 - **A [[h/_hit|hit]] ([[d/_dose|dose]]) of [[m/_marijuana|marijuana]].**
-- **([[e/_eton|Eton]] [[c/_college|College]]) A [[b/_black|black]] [[m/_mark|mark]] [[g/_given|given]] for substandard [[s/_schoolwork|schoolwork]].**
+- **([[e/_eton|Eton]] [[c/_college|College]]) A [[b/_black|black]] [[m/_mark|mark]] [[g/_given|given]] for [[s/_substandard|substandard]] [[s/_schoolwork|schoolwork]].**
 - **[[s/_something|Something]] unfairly [[e/_expensive|expensive]], a [[r/_rip|rip]]-[[o/_off|off]].**
 - **[[d/_data|Data]] or [[a/_audio|audio]] [[c/_copied|copied]] from a [[c/_cd|CD]], DVD, [[i/_internet|Internet]] [[s/_stream|stream]], [[e/_etc|etc]]. to a [[h/_hard|hard]] [[d/_drive|drive]], [[p/_portable|portable]] [[d/_device|device]], [[e/_etc|etc]].**
 - **[[s/_something|Something]] [[r/_ripped|ripped]] [[o/_off|off]] or [[s/_stolen|stolen]]; [[p/_plagiarism|plagiarism]].**
@@ -14,7 +14,7 @@
 ### Synonyms
 - [[t/_tear|tear]]
 #verb
-- **To [[d/_divide|divide]] or [[s/_separate|separate]] the [[p/_parts|parts]] of ([[e/_especially|especially]] [[s/_something|something]] [[f/_flimsy|flimsy]] such as [[p/_paper|paper]] or [[f/_fabric|fabric]]), by [[c/_cutting|cutting]] or tearing; to tear [[o/_off|off]] or [[o/_out|out]] by violence.**
+- **To [[d/_divide|divide]] or [[s/_separate|separate]] the [[p/_parts|parts]] of ([[e/_especially|especially]] [[s/_something|something]] [[f/_flimsy|flimsy]] [[s/_such|such]] as [[p/_paper|paper]] or [[f/_fabric|fabric]]), by [[c/_cutting|cutting]] or tearing; to tear [[o/_off|off]] or [[o/_out|out]] by violence.**
 	- _Example: to rip a garment; to rip up a floor_
 - **To tear [[a/_apart|apart]]; to [[r/_rapidly|rapidly]] [[b/_become|become]] two [[p/_parts|parts]].**
 	- _Example: My shirt ripped when it was caught on a bramble._

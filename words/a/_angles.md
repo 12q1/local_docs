@@ -3,7 +3,7 @@
 #noun
 - **A [[f/_figure|figure]] [[f/_formed|formed]] by two [[r/_rays|rays]] which [[s/_start|start]] from a [[c/_common|common]] [[p/_point|point]] (a [[p/_plane|plane]] [[a/_angle|angle]]) or by three [[p/_planes|planes]] that [[i/_intersect|intersect]] (a [[s/_solid|solid]] [[a/_angle|angle]]).**
 	- _Example: the angle between lines A and B_
-- **The [[m/_measure|measure]] of such a [[f/_figure|figure]]. In the [[c/_case|case]] of a [[p/_plane|plane]] [[a/_angle|angle]], this is the [[r/_ratio|ratio]] (or [[p/_proportional|proportional]] to the [[r/_ratio|ratio]]) of the [[a/_arc|arc]] [[l/_length|length]] to the [[r/_radius|radius]] of a [[s/_section|section]] of a [[c/_circle|circle]] [[c/_cut|cut]] by the two [[r/_rays|rays]], [[c/_centered|centered]] at their [[c/_common|common]] [[p/_point|point]]. In the [[c/_case|case]] of a [[s/_solid|solid]] [[a/_angle|angle]], this is the [[r/_ratio|ratio]] of the surface [[a/_area|area]] to the [[s/_square|square]] of the [[r/_radius|radius]] of the [[s/_section|section]] of a [[s/_sphere|sphere]].**
+- **The [[m/_measure|measure]] of [[s/_such|such]] a [[f/_figure|figure]]. In the [[c/_case|case]] of a [[p/_plane|plane]] [[a/_angle|angle]], this is the [[r/_ratio|ratio]] (or [[p/_proportional|proportional]] to the [[r/_ratio|ratio]]) of the [[a/_arc|arc]] [[l/_length|length]] to the [[r/_radius|radius]] of a [[s/_section|section]] of a [[c/_circle|circle]] [[c/_cut|cut]] by the two [[r/_rays|rays]], [[c/_centered|centered]] at their [[c/_common|common]] [[p/_point|point]]. In the [[c/_case|case]] of a [[s/_solid|solid]] [[a/_angle|angle]], this is the [[r/_ratio|ratio]] of the surface [[a/_area|area]] to the [[s/_square|square]] of the [[r/_radius|radius]] of the [[s/_section|section]] of a [[s/_sphere|sphere]].**
 	- _Example: The angle between lines A and B is π/4 radians, or 45 degrees._
 - **A [[c/_corner|corner]] where two walls [[i/_intersect|intersect]].**
 	- _Example: an angle of a building_
@@ -27,14 +27,14 @@
 	- _Example: The five ball angled off the nine ball but failed to reach the pocket._
 - **To [[p/_present|present]] or [[a/_argue|argue]] [[s/_something|something]] in a [[p/_particular|particular]] way or from a [[p/_particular|particular]] viewpoint.**
 	- _Example: How do you want to angle this when we talk to the client?_
-- **([[c/_cue|cue]] [[s/_sports|sports]]) To [[h/_hamper|hamper]] ([[o/_oneself|oneself]] or [[o/_one|one]]'[[s/_s|s]] [[o/_opponent|opponent]]) by [[l/_leaving|leaving]] the [[c/_cue|cue]] [[b/_ball|ball]] in the [[j/_jaws|jaws]] of a [[p/_pocket|pocket]] such that the surround of the [[p/_pocket|pocket]] (the "[[a/_angle|angle]]") [[b/_blocks|blocks]] the [[p/_path|path]] from [[c/_cue|cue]] [[b/_ball|ball]] to [[o/_object|object]] [[b/_ball|ball]].**
+- **([[c/_cue|cue]] [[s/_sports|sports]]) To [[h/_hamper|hamper]] ([[o/_oneself|oneself]] or [[o/_one|one]]'[[s/_s|s]] [[o/_opponent|opponent]]) by [[l/_leaving|leaving]] the [[c/_cue|cue]] [[b/_ball|ball]] in the [[j/_jaws|jaws]] of a [[p/_pocket|pocket]] [[s/_such|such]] that the surround of the [[p/_pocket|pocket]] (the "[[a/_angle|angle]]") [[b/_blocks|blocks]] the [[p/_path|path]] from [[c/_cue|cue]] [[b/_ball|ball]] to [[o/_object|object]] [[b/_ball|ball]].**
 ---
 #noun
 - **A [[f/_fishhook|fishhook]]; tackle for [[c/_catching|catching]] [[f/_fish|fish]], [[c/_consisting|consisting]] of a [[l/_line|line]], [[h/_hook|hook]], and [[b/_bait|bait]], with or without a [[r/_rod|rod]].**
 ---
 #verb
 - **To try to [[c/_catch|catch]] [[f/_fish|fish]] with a [[h/_hook|hook]] and [[l/_line|line]].**
-- **(with for) To [[a/_attempt|attempt]] to subtly [[p/_persuade|persuade]] [[s/_someone|someone]] to [[o/_offer|offer]] a [[d/_desired|desired]] thing.**
+- **(with for) To [[a/_attempt|attempt]] to [[s/_subtly|subtly]] [[p/_persuade|persuade]] [[s/_someone|someone]] to [[o/_offer|offer]] a [[d/_desired|desired]] thing.**
 	- _Example: He must be angling for a pay rise._
 ---
 ---

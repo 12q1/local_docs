@@ -20,7 +20,7 @@
 - **A [[p/_person|person]] [[s/_sentenced|sentenced]] to [[d/_death|death]].**
 ---
 #adjective
-- **[[h/_having|Having]] [[r/_received|received]] a [[c/_curse|curse]] to be [[d/_doomed|doomed]] to suffer [[e/_eternally|eternally]].**
+- **[[h/_having|Having]] [[r/_received|received]] a [[c/_curse|curse]] to be [[d/_doomed|doomed]] to [[s/_suffer|suffer]] [[e/_eternally|eternally]].**
 - **[[h/_having|Having]] [[b/_been|been]] [[s/_sharply|sharply]] [[s/_scolded|scolded]].**
 - **[[a/_adjudged|Adjudged]] or [[s/_sentenced|sentenced]] to [[p/_punishment|punishment]], [[d/_destruction|destruction]], or [[c/_confiscation|confiscation]].**
 - **(of a [[b/_building|building]]) [[o/_officially|Officially]] [[m/_marked|marked]] uninhabitable.**

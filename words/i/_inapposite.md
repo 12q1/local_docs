@@ -1,6 +1,6 @@
 # Inapposite
 ---
 #adjective
-- **[[i/_inappropriate|Inappropriate]], not suitable for the [[s/_situation|situation]]**
+- **[[i/_inappropriate|Inappropriate]], not [[s/_suitable|suitable]] for the [[s/_situation|situation]]**
 ---
 ---

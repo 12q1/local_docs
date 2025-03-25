@@ -6,7 +6,7 @@
 - **Thick; [[d/_difficult|difficult]] to [[p/_penetrate|penetrate]].**
 - **[[o/_opaque|Opaque]]; [[a/_allowing|allowing]] [[l/_little|little]] [[l/_light|light]] to [[p/_pass|pass]] through.**
 - **[[o/_obscure|Obscure]], or [[d/_difficult|difficult]] to understand.**
-- **[[b/_being|Being]] a subset of a topological [[s/_space|space]] that [[a/_approximates|approximates]] the [[s/_space|space]] well. [[s/_see|See]] Wikipedia [[a/_article|article]] on [[d/_dense|dense]] [[s/_sets|sets]] for [[m/_mathematical|mathematical]] [[d/_definition|definition]].**
+- **[[b/_being|Being]] a [[s/_subset|subset]] of a topological [[s/_space|space]] that [[a/_approximates|approximates]] the [[s/_space|space]] well. [[s/_see|See]] Wikipedia [[a/_article|article]] on [[d/_dense|dense]] [[s/_sets|sets]] for [[m/_mathematical|mathematical]] [[d/_definition|definition]].**
 - **(of a [[p/_person|person]]) [[s/_slow|Slow]] to [[c/_comprehend|comprehend]]; of [[l/_low|low]] [[i/_intelligence|intelligence]].**
 ---
 ### Synonyms

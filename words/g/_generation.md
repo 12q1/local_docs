@@ -4,7 +4,7 @@
 - **The [[f/_fact|fact]] of [[c/_creating|creating]] [[s/_something|something]], or [[b/_bringing|bringing]] [[s/_something|something]] [[i/_into|into]] [[b/_being|being]]; [[p/_production|production]], [[c/_creation|creation]].**
 - **The [[a/_act|act]] of [[c/_creating|creating]] a [[l/_living|living]] [[c/_creature|creature]] or [[o/_organism|organism]]; [[p/_procreation|procreation]].**
 - **[[r/_race|Race]], [[f/_family|family]]; [[b/_breed|breed]].**
-- **A [[s/_single|single]] [[s/_step|step]] or [[s/_stage|stage]] in the succession of [[n/_natural|natural]] [[d/_descent|descent]]; a [[r/_rank|rank]] or [[d/_degree|degree]] in [[g/_genealogy|genealogy]], the [[m/_members|members]] of a [[f/_family|family]] from the [[s/_same|same]] [[p/_parents|parents]], [[c/_considered|considered]] as a [[s/_single|single]] unit.**
+- **A [[s/_single|single]] [[s/_step|step]] or [[s/_stage|stage]] in the [[s/_succession|succession]] of [[n/_natural|natural]] [[d/_descent|descent]]; a [[r/_rank|rank]] or [[d/_degree|degree]] in [[g/_genealogy|genealogy]], the [[m/_members|members]] of a [[f/_family|family]] from the [[s/_same|same]] [[p/_parents|parents]], [[c/_considered|considered]] as a [[s/_single|single]] unit.**
 	- _Example: This is the book of the generations of Adam - Genesis 5:1_
 - **[[d/_descendants|Descendants]], [[p/_progeny|progeny]]; [[o/_offspring|offspring]].**
 - **The [[a/_average|average]] [[a/_amount|amount]] of time [[n/_needed|needed]] for [[c/_children|children]] to [[g/_grow|grow]] up and [[h/_have|have]] [[c/_children|children]] of their [[o/_own|own]], [[g/_generally|generally]] [[c/_considered|considered]] to be a [[p/_period|period]] of [[a/_around|around]] thirty [[y/_years|years]], used as a [[m/_measure|measure]] of time.**

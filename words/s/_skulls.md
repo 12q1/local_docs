@@ -1,7 +1,7 @@
 # Skulls
 ---
 #noun
-- **([[c/_collective|collective]]) A [[g/_group|group]] of [[f/_fish|fish]] or a [[g/_group|group]] of [[m/_marine|marine]] [[m/_mammals|mammals]] such as [[p/_porpoises|porpoises]], [[d/_dolphins|dolphins]], or whales.**
+- **([[c/_collective|collective]]) A [[g/_group|group]] of [[f/_fish|fish]] or a [[g/_group|group]] of [[m/_marine|marine]] [[m/_mammals|mammals]] [[s/_such|such]] as [[p/_porpoises|porpoises]], [[d/_dolphins|dolphins]], or whales.**
 	- _Example: The divers encountered a huge school of mackerel._
 - **A [[m/_multitude|multitude]].**
 ---

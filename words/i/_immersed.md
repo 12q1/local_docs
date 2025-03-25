@@ -10,7 +10,7 @@
 ### Synonyms
 - [[s/_submerge|submerge]]
 #adjective
-- **Under the surface of a [[l/_liquid|liquid]]; sunk.**
+- **Under the surface of a [[l/_liquid|liquid]]; [[s/_sunk|sunk]].**
 - **[[d/_deeply|Deeply]] [[i/_involved|involved]].**
 ---
 ---

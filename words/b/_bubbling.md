@@ -1,7 +1,7 @@
 # Bubbling
 ---
 #verb
-- **To [[p/_produce|produce]] [[b/_bubbles|bubbles]], to [[r/_rise|rise]] up in [[b/_bubbles|bubbles]] (such as in [[f/_foods|foods]] [[c/_cooking|cooking]] or [[l/_liquids|liquids]] [[b/_boiling|boiling]]).**
+- **To [[p/_produce|produce]] [[b/_bubbles|bubbles]], to [[r/_rise|rise]] up in [[b/_bubbles|bubbles]] ([[s/_such|such]] as in [[f/_foods|foods]] [[c/_cooking|cooking]] or [[l/_liquids|liquids]] [[b/_boiling|boiling]]).**
 - **To [[c/_churn|churn]] or [[f/_foment|foment]], as [[i/_if|if]] wishing to [[r/_rise|rise]] to the surface.**
 	- _Example: Rage bubbled inside him._
 - **To [[r/_rise|rise]] through a [[m/_medium|medium]] or [[s/_system|system]], [[s/_similar|similar]] to the way that [[b/_bubbles|bubbles]] [[r/_rise|rise]] in [[l/_liquid|liquid]].**

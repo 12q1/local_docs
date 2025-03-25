@@ -15,7 +15,7 @@
 ---
 #adjective
 - **At the venue of the [[o/_opposing|opposing]] team or [[c/_competitor|competitor]]; on the [[r/_road|road]].**
-- **([[s/_slang|Slang]]) [[h/_having|Having]] [[a/_attributes|attributes]], [[p/_primarily|primarily]] [[m/_masculine|masculine]], suggesting a tendency towards [[m/_minor|minor]] [[c/_crime|crime]]. Usually used by [[y/_youths|youths]] [[e/_endearingly|endearingly]]; [[g/_glorifying|glorifying]] [[c/_crime|crime]].**
+- **([[s/_slang|Slang]]) [[h/_having|Having]] [[a/_attributes|attributes]], [[p/_primarily|primarily]] [[m/_masculine|masculine]], [[s/_suggesting|suggesting]] a tendency towards [[m/_minor|minor]] [[c/_crime|crime]]. Usually used by [[y/_youths|youths]] [[e/_endearingly|endearingly]]; [[g/_glorifying|glorifying]] [[c/_crime|crime]].**
 ---
 ### Synonyms
 - [[a/_away|away]]

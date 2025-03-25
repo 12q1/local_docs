@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[d/_device|device]] that [[p/_produces|produces]] a [[m/_monochromatic|monochromatic]], [[c/_coherent|coherent]] [[b/_beam|beam]] of [[l/_light|light]].**
-- **A [[b/_beam|beam]] of [[l/_light|light]] [[p/_produced|produced]] by such a [[d/_device|device]]; a [[l/_laser|laser]] [[b/_beam|beam]].**
+- **A [[b/_beam|beam]] of [[l/_light|light]] [[p/_produced|produced]] by [[s/_such|such]] a [[d/_device|device]]; a [[l/_laser|laser]] [[b/_beam|beam]].**
 - **A [[l/_laser|laser]] [[p/_printer|printer]].**
 ---
 ### Synonyms

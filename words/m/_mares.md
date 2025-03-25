@@ -7,10 +7,10 @@
 ### Antonyms
 - [[c/_colt|colt]], [[g/_gelding|gelding]], [[s/_stallion|stallion]], [[s/_stud|stud]]
 #noun
-- **A type of [[e/_evil|evil]] [[s/_spirit|spirit]] [[f/_formerly|formerly]] thought to [[s/_sit|sit]] on the [[c/_chest|chest]] of a [[s/_sleeping|sleeping]] [[p/_person|person]]; [[a/_also|also]], the [[f/_feeling|feeling]] of suffocation [[f/_felt|felt]] [[d/_during|during]] [[s/_sleep|sleep]], [[a/_attributed|attributed]] to such a [[s/_spirit|spirit]].**
+- **A type of [[e/_evil|evil]] [[s/_spirit|spirit]] [[f/_formerly|formerly]] thought to [[s/_sit|sit]] on the [[c/_chest|chest]] of a [[s/_sleeping|sleeping]] [[p/_person|person]]; [[a/_also|also]], the [[f/_feeling|feeling]] of [[s/_suffocation|suffocation]] [[f/_felt|felt]] [[d/_during|during]] [[s/_sleep|sleep]], [[a/_attributed|attributed]] to [[s/_such|such]] a [[s/_spirit|spirit]].**
 ---
 #noun
-- **A [[d/_demon|demon]] or [[m/_monster|monster]], thought to [[p/_plague|plague]] [[p/_people|people]] while they [[s/_slept|slept]] and [[c/_cause|cause]] a [[f/_feeling|feeling]] of suffocation and terror [[d/_during|during]] [[s/_sleep|sleep]].**
+- **A [[d/_demon|demon]] or [[m/_monster|monster]], thought to [[p/_plague|plague]] [[p/_people|people]] while they [[s/_slept|slept]] and [[c/_cause|cause]] a [[f/_feeling|feeling]] of [[s/_suffocation|suffocation]] and terror [[d/_during|during]] [[s/_sleep|sleep]].**
 - **[[s/_sleep|Sleep]] [[p/_paralysis|paralysis]].**
 - **A very [[b/_bad|bad]] or [[f/_frightening|frightening]] [[d/_dream|dream]].**
 	- _Example: I had a nightmare that I tried to run but could neither move nor breathe._

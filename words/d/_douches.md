@@ -1,8 +1,8 @@
 # Douches
 ---
 #noun
-- **A [[j/_jet|jet]] or [[c/_current|current]] of water or vapour [[d/_directed|directed]] upon [[s/_some|some]] [[p/_part|part]] of the [[b/_body|body]] to [[b/_benefit|benefit]] it [[m/_medicinally|medicinally]]; in [[p/_particular|particular]], such a [[j/_jet|jet]] [[d/_directed|directed]] at the vagina for vaginal [[i/_irrigation|irrigation]].**
-- **[[s/_something|Something]] that [[p/_produces|produces]] the [[j/_jet|jet]] or [[c/_current|current]] in the [[p/_previous|previous]] [[s/_sense|sense]], such as a [[s/_syringe|syringe]].**
+- **A [[j/_jet|jet]] or [[c/_current|current]] of water or vapour [[d/_directed|directed]] upon [[s/_some|some]] [[p/_part|part]] of the [[b/_body|body]] to [[b/_benefit|benefit]] it [[m/_medicinally|medicinally]]; in [[p/_particular|particular]], [[s/_such|such]] a [[j/_jet|jet]] [[d/_directed|directed]] at the vagina for vaginal [[i/_irrigation|irrigation]].**
+- **[[s/_something|Something]] that [[p/_produces|produces]] the [[j/_jet|jet]] or [[c/_current|current]] in the [[p/_previous|previous]] [[s/_sense|sense]], [[s/_such|such]] as a [[s/_syringe|syringe]].**
 - **A [[j/_jet|jet]] or [[s/_spray|spray]] of [[a/_any|any]] [[l/_liquid|liquid]].**
 ---
 #verb

@@ -6,6 +6,6 @@
 ### Synonyms
 - [[s/_sideloader|sideloader]], [[s/_stacker-truck|stacker-truck]], [[t/_tow-motor|tow-motor]]
 #verb
-- **To [[m/_move|move]] or [[s/_stack|stack]] with, or as [[i/_if|if]] with, such a vehicle.**
+- **To [[m/_move|move]] or [[s/_stack|stack]] with, or as [[i/_if|if]] with, [[s/_such|such]] a vehicle.**
 ---
 ---

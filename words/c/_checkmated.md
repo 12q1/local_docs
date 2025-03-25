@@ -7,6 +7,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] a [[k/_king|king]] in [[c/_check|check]] with [[n/_no|no]] [[p/_possible|possible]] [[m/_move|move]] to [[e/_escape|escape]] [[c/_check|check]], thus [[l/_losing|losing]] the [[g/_game|game]].**
-- **Suffering a [[p/_personal|personal]] [[l/_loss|loss]] with [[n/_no|no]] [[o/_obvious|obvious]] [[c/_chance|chance]] to [[e/_escape|escape]] the [[l/_loss|loss]].**
+- **[[s/_suffering|Suffering]] a [[p/_personal|personal]] [[l/_loss|loss]] with [[n/_no|no]] [[o/_obvious|obvious]] [[c/_chance|chance]] to [[e/_escape|escape]] the [[l/_loss|loss]].**
 ---
 ---

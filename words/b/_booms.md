@@ -1,7 +1,7 @@
 # Booms
 ---
 #noun
-- **A [[l/_low|low]]-[[p/_pitched|pitched]], [[r/_resonant|resonant]] [[s/_sound|sound]], such as of an [[e/_explosion|explosion]].**
+- **A [[l/_low|low]]-[[p/_pitched|pitched]], [[r/_resonant|resonant]] [[s/_sound|sound]], [[s/_such|such]] as of an [[e/_explosion|explosion]].**
 	- _Example: The boom of the surf._
 - **A [[r/_rapid|rapid]] [[e/_expansion|expansion]] or [[i/_increase|increase]].**
 	- _Example: You should prepare for the coming boom in the tech industry._

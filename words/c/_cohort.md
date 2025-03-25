@@ -14,6 +14,6 @@
 - **A [[s/_set|set]] of [[i/_individuals|individuals]] in a [[p/_program|program]], [[e/_especially|especially]] when [[c/_compared|compared]] to [[p/_previous|previous]] [[s/_sets|sets]] of [[i/_individuals|individuals]] within the [[s/_same|same]] [[p/_program|program]].**
 ---
 #verb
-- **To [[a/_associate|associate]] with such a [[g/_group|group]]**
+- **To [[a/_associate|associate]] with [[s/_such|such]] a [[g/_group|group]]**
 ---
 ---

@@ -7,7 +7,7 @@
 - **For [[e/_eyes|eyes]] to take on an uninterested [[a/_appearance|appearance]].**
 ---
 #noun
-- **A [[g/_glazed|glazed]] [[d/_donut|donut]], [[o/_one|one]] with a [[c/_coating|coating]] such as sugar or [[c/_chocolate|chocolate]].**
+- **A [[g/_glazed|glazed]] [[d/_donut|donut]], [[o/_one|one]] with a [[c/_coating|coating]] [[s/_such|such]] as [[s/_sugar|sugar]] or [[c/_chocolate|chocolate]].**
 ---
 #adjective
 - **Of [[e/_eyes|eyes]]: [[s/_showing|showing]] [[n/_no|no]] [[l/_liveliness|liveliness]].**

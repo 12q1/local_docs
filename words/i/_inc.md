@@ -6,7 +6,7 @@
 #adjective
 - **[[c/_coming|Coming]] (or [[a/_about|about]] to [[c/_come|come]]) in; [[a/_arriving|arriving]].**
 	- _Example: Incoming tides cause a tidal bore in many rivers._
-- **Succeeding to an [[o/_office|office]].**
+- **[[s/_succeeding|Succeeding]] to an [[o/_office|office]].**
 	- _Example: The incoming prime minister gave a press conference._
 ---
 ### Antonyms

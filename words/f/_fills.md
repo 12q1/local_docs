@@ -24,7 +24,7 @@
 ### Antonyms
 - [[e/_empty|empty]], [[e/_empty|empty]]
 #noun
-- **([[a/_after|after]] a [[p/_possessive|possessive]]) A sufficient or [[m/_more|more]] than sufficient [[a/_amount|amount]].**
+- **([[a/_after|after]] a [[p/_possessive|possessive]]) A [[s/_sufficient|sufficient]] or [[m/_more|more]] than [[s/_sufficient|sufficient]] [[a/_amount|amount]].**
 	- _Example: Don't feed him any more: he's had his fill._
 - **An [[a/_amount|amount]] that [[f/_fills|fills]] a [[c/_container|container]].**
 	- _Example: The mixer returned to the plant for another fill._

@@ -3,7 +3,7 @@
 #noun
 - **[[s/_someone|Someone]] who is [[h/_hostile|hostile]] to, [[f/_feels|feels]] [[h/_hatred|hatred]] towards, [[o/_opposes|opposes]] the [[i/_interests|interests]] of, or [[i/_intends|intends]] [[i/_injury|injury]] to [[s/_someone|someone]] [[e/_else|else]].**
 	- _Example: Crush the enemy!_
-- **A [[h/_hostile|hostile]] [[f/_force|force]] or [[n/_nation|nation]]; a [[f/_fighting|fighting]] [[m/_member|member]] of such a [[f/_force|force]] or [[n/_nation|nation]].**
+- **A [[h/_hostile|hostile]] [[f/_force|force]] or [[n/_nation|nation]]; a [[f/_fighting|fighting]] [[m/_member|member]] of [[s/_such|such]] a [[f/_force|force]] or [[n/_nation|nation]].**
 	- _Example: Rally together against a common enemy._
 - **[[s/_something|Something]] [[h/_harmful|harmful]] or threatening to [[a/_another|another]]**
 ---

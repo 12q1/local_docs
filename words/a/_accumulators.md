@@ -5,7 +5,7 @@
 	- _Example: He is a great accumulator of bad jokes._
 - **A wet-[[c/_cell|cell]] [[s/_storage|storage]] [[b/_battery|battery]].**
 	- _Example: Looks like it's time to recharge the accumulator again._
-- **([[b/_betting|betting]]) A [[c/_collective|collective]] [[b/_bet|bet]] on successive [[e/_events|events]], with [[b/_both|both]] [[s/_stake|stake]] and winnings [[b/_being|being]] [[c/_carried|carried]] [[f/_forward|forward]] to [[a/_accumulate|accumulate]] [[p/_progressively|progressively]].**
+- **([[b/_betting|betting]]) A [[c/_collective|collective]] [[b/_bet|bet]] on [[s/_successive|successive]] [[e/_events|events]], with [[b/_both|both]] [[s/_stake|stake]] and winnings [[b/_being|being]] [[c/_carried|carried]] [[f/_forward|forward]] to [[a/_accumulate|accumulate]] [[p/_progressively|progressively]].**
 - **A [[s/_system|system]] of [[e/_elastic|elastic]] [[s/_springs|springs]] for [[r/_relieving|relieving]] the [[s/_strain|strain]] upon a [[r/_rope|rope]], as in [[d/_deep|deep]]-[[s/_sea|sea]] [[d/_dredging|dredging]].**
 - **A vessel [[c/_containing|containing]] [[p/_pressurized|pressurized]] [[h/_hot|hot]] water [[r/_ready|ready]] for [[r/_release|release]] as [[s/_steam|steam]].**
 - **([[h/_hydraulics|hydraulics]]) A [[c/_container|container]] which [[s/_stores|stores]] [[h/_hydraulic|hydraulic]] [[p/_power|power]] for [[r/_release|release]], in the [[f/_form|form]] of a [[p/_pressurized|pressurized]] [[f/_fluid|fluid]] ([[o/_often|often]] suspended within a [[l/_larger|larger]] tank of [[f/_fluid|fluid]] under [[p/_pressure|pressure]]).**

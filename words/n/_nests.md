@@ -12,7 +12,7 @@
 - **A [[f/_fixed|fixed]] [[n/_number|number]] of [[c/_cards|cards]] in [[s/_some|some]] [[b/_bidding|bidding]] [[g/_games|games]] [[a/_awarded|awarded]] to the [[h/_highest|highest]] [[b/_bidder|bidder]] [[a/_allowing|allowing]] [[h/_him|him]] to [[e/_exchange|exchange]] [[a/_any|any]] or [[a/_all|all]] with [[c/_cards|cards]] in [[h/_his|his]] [[h/_hand|hand]].**
 	- _Example: I was forced to change trumps when I found the ace, jack, and nine of diamonds in the nest._
 - **A [[f/_fortified|fortified]] [[p/_position|position]] for a weapon.**
-- **A [[s/_structure|structure]] [[c/_consisting|consisting]] of [[n/_nested|nested]] [[s/_structures|structures]], such as [[n/_nested|nested]] [[l/_loops|loops]] or [[n/_nested|nested]] subroutine [[c/_calls|calls]].**
+- **A [[s/_structure|structure]] [[c/_consisting|consisting]] of [[n/_nested|nested]] [[s/_structures|structures]], [[s/_such|such]] as [[n/_nested|nested]] [[l/_loops|loops]] or [[n/_nested|nested]] [[s/_subroutine|subroutine]] [[c/_calls|calls]].**
 - **A [[c/_circular|circular]] [[b/_bed|bed]] of [[p/_pasta|pasta]], [[r/_rice|rice]], [[e/_etc|etc]]. to be topped or [[f/_filled|filled]] with [[o/_other|other]] [[f/_foods|foods]].**
 - **An [[a/_aggregated|aggregated]] [[m/_mass|mass]] of [[a/_any|any]] [[o/_ore|ore]] or [[m/_mineral|mineral]], in an [[i/_isolated|isolated]] [[s/_state|state]], within a [[r/_rock|rock]].**
 - **A [[c/_collection|collection]] of [[b/_boxes|boxes]], [[c/_cases|cases]], or the [[l/_like|like]], of [[g/_graduated|graduated]] [[s/_size|size]], [[e/_each|each]] [[p/_put|put]] within the [[o/_one|one]] [[n/_next|next]] [[l/_larger|larger]].**
@@ -22,7 +22,7 @@
 - **(of [[a/_animals|animals]]) To [[b/_build|build]] or [[s/_settle|settle]] [[i/_into|into]] a [[n/_nest|nest]].**
 - **To [[s/_settle|settle]] [[i/_into|into]] a [[h/_home|home]].**
 	- _Example: We loved the new house and were nesting there in two days!_
-- **To successively [[n/_neatly|neatly]] [[f/_fit|fit]] [[i/_inside|inside]] [[a/_another|another]].**
+- **To [[s/_successively|successively]] [[n/_neatly|neatly]] [[f/_fit|fit]] [[i/_inside|inside]] [[a/_another|another]].**
 	- _Example: I bought a set of nesting mixing bowls for my mother._
 - **To [[p/_place|place]] in, or as [[i/_if|if]] in, a [[n/_nest|nest]].**
 - **To [[p/_place|place]] [[o/_one|one]] thing [[n/_neatly|neatly]] [[i/_inside|inside]] [[a/_another|another]], and [[b/_both|both]] [[i/_inside|inside]] [[y/_yet|yet]] [[a/_another|another]] (and [[s/_so|so]] on).**

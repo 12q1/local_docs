@@ -2,8 +2,8 @@
 ---
 #noun
 - **A [[g/_group|group]] of [[p/_people|people]] or vehicles, [[g/_generally|generally]] [[a/_armed|armed]], who [[g/_go|go]] with a [[p/_person|person]] or [[p/_people|people]] of [[i/_importance|importance]] to [[s/_safeguard|safeguard]] them on a [[j/_journey|journey]] or [[m/_mission|mission]].**
-- **An [[a/_accompanying|accompanying]] [[p/_person|person]] in such a [[g/_group|group]].**
-- **A [[g/_guard|guard]] who travels with a [[d/_dangerous|dangerous]] [[p/_person|person]], such as a [[c/_criminal|criminal]], for the [[p/_protection|protection]] of [[o/_others|others]].**
+- **An [[a/_accompanying|accompanying]] [[p/_person|person]] in [[s/_such|such]] a [[g/_group|group]].**
+- **A [[g/_guard|guard]] who travels with a [[d/_dangerous|dangerous]] [[p/_person|person]], [[s/_such|such]] as a [[c/_criminal|criminal]], for the [[p/_protection|protection]] of [[o/_others|others]].**
 - **A [[g/_group|group]] of [[p/_people|people]] [[a/_attending|attending]] as a [[m/_mark|mark]] of [[r/_respect|respect]] or [[h/_honor|honor]].**
 - **An [[a/_accompanying|accompanying]] [[p/_person|person]] in a [[s/_social|social]] [[g/_gathering|gathering]], [[e/_etc|etc]].**
 - **[[p/_protection|Protection]], [[c/_care|care]], or [[s/_safeguard|safeguard]] on a [[j/_journey|journey]] or [[e/_excursion|excursion]].**

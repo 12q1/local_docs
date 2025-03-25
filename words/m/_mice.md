@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_any|Any]] [[s/_small|small]] [[r/_rodent|rodent]] of the [[g/_genus|genus]] [[m/_mus|Mus]].**
-- **A [[m/_member|member]] of the [[m/_many|many]] [[s/_small|small]] [[r/_rodent|rodent]] and [[m/_marsupial|marsupial]] [[s/_species|species]] [[r/_resembling|resembling]] such a [[r/_rodent|rodent]].**
+- **A [[m/_member|member]] of the [[m/_many|many]] [[s/_small|small]] [[r/_rodent|rodent]] and [[m/_marsupial|marsupial]] [[s/_species|species]] [[r/_resembling|resembling]] [[s/_such|such]] a [[r/_rodent|rodent]].**
 - **A [[q/_quiet|quiet]] or [[s/_shy|shy]] [[p/_person|person]].**
 - **([[p/_plural|plural]] [[m/_mice|mice]] or, [[r/_rarely|rarely]], [[m/_mouses|mouses]]) An [[i/_input|input]] [[d/_device|device]] that is [[m/_moved|moved]] [[o/_over|over]] a [[p/_pad|pad]] or [[o/_other|other]] [[f/_flat|flat]] surface to [[p/_produce|produce]] a [[c/_corresponding|corresponding]] [[m/_movement|movement]] of a [[p/_pointer|pointer]] on a [[g/_graphical|graphical]] [[d/_display|display]].**
 - **[[h/_hematoma|Hematoma]].**

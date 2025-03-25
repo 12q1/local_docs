@@ -11,6 +11,6 @@
 #adjective
 - **[[d/_disowned|Disowned]]**
 - **[[r/_rejected|Rejected]] as untrue or unjust**
-- **[[d/_divorced|Divorced]] such as by a [[s/_spouse|spouse]]**
+- **[[d/_divorced|Divorced]] [[s/_such|such]] as by a [[s/_spouse|spouse]]**
 ---
 ---

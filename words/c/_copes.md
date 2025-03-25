@@ -12,7 +12,7 @@
 - 
 #noun
 - **A [[l/_long|long]], [[l/_loose|loose]] [[c/_cloak|cloak]] worn by a [[p/_priest|priest]], [[d/_deacon|deacon]], or [[b/_bishop|bishop]] when [[p/_presiding|presiding]] [[o/_over|over]] a [[c/_ceremony|ceremony]] [[o/_other|other]] than the [[m/_mass|Mass]].**
-- **[[a/_any|Any]] [[c/_covering|covering]] such as a [[c/_canopy|canopy]] or a [[m/_mantle|mantle]].**
+- **[[a/_any|Any]] [[c/_covering|covering]] [[s/_such|such]] as a [[c/_canopy|canopy]] or a [[m/_mantle|mantle]].**
 - **The vault or [[c/_canopy|canopy]] of the [[s/_skies|skies]], [[h/_heavens|heavens]] [[e/_etc|etc]].**
 - **A [[c/_covering|covering]] [[p/_piece|piece]] on top of a wall [[e/_exposed|exposed]] to the weather, usually [[m/_made|made]] of [[m/_metal|metal]], [[m/_masonry|masonry]], or [[s/_stone|stone]], and [[s/_sloped|sloped]] to [[c/_carry|carry]] [[o/_off|off]] water.**
 - **([[f/_foundry|foundry]]) The top [[p/_part|part]] of a [[s/_sand|sand]] [[c/_casting|casting]] [[m/_mold|mold]].**

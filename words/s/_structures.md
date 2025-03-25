@@ -11,9 +11,9 @@
 	- _Example: For some, the structure of school life was oppressive._
 - **[[s/_several|Several]] [[p/_pieces|pieces]] of [[d/_data|data]] treated as a unit.**
 	- _Example: This structure contains both date and timezone information._
-- **Underwater terrain or [[o/_objects|objects]] (such as a [[d/_dead|dead]] tree or a submerged [[c/_car|car]]) that tend to [[a/_attract|attract]] [[f/_fish|fish]]**
+- **Underwater terrain or [[o/_objects|objects]] ([[s/_such|such]] as a [[d/_dead|dead]] tree or a [[s/_submerged|submerged]] [[c/_car|car]]) that tend to [[a/_attract|attract]] [[f/_fish|fish]]**
 	- _Example: There's lots of structure to be fished along the west shore of the lake; the impoundment submerged a town there when it was built._
-- **A [[b/_body|body]], such as a [[p/_political|political]] [[p/_party|party]], with a [[c/_cohesive|cohesive]] [[p/_purpose|purpose]] or [[o/_outlook|outlook]].**
+- **A [[b/_body|body]], [[s/_such|such]] as a [[p/_political|political]] [[p/_party|party]], with a [[c/_cohesive|cohesive]] [[p/_purpose|purpose]] or [[o/_outlook|outlook]].**
 	- _Example: The South African leader went off to consult with the structures._
 - **A [[s/_set|set]] [[a/_along|along]] with a [[c/_collection|collection]] of [[f/_finitary|finitary]] [[f/_functions|functions]] and [[r/_relations|relations]].**
 ---

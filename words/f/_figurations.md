@@ -6,6 +6,6 @@
 - **[[o/_ornamentation|Ornamentation]] or [[d/_decoration|decoration]], [[e/_especially|especially]] by the [[a/_addition|addition]] of [[f/_figures|figures]].**
 - **[[m/_mixture|Mixture]] of [[c/_concords|concords]] and [[d/_discords|discords]].**
 - **The [[r/_representation|representation]] of an [[o/_object|object]] through visual [[f/_forms|forms]].**
-- **A [[s/_structure|structure]] through which [[p/_people|people]] are [[j/_joined|joined]], or the [[p/_process|process]] of [[c/_constructing|constructing]] such [[s/_structures|structures]].**
+- **A [[s/_structure|structure]] through which [[p/_people|people]] are [[j/_joined|joined]], or the [[p/_process|process]] of [[c/_constructing|constructing]] [[s/_such|such]] [[s/_structures|structures]].**
 ---
 ---

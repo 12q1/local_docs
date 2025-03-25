@@ -2,7 +2,7 @@
 ---
 #noun
 - **An unremarkable, [[o/_ordinary|ordinary]] [[h/_human|human]] [[b/_being|being]].**
-- **(in various subcultures) A [[p/_person|person]] [[c/_considered|considered]] to be "[[n/_normal|normal]]", [[p/_part|part]] of the [[m/_mainstream|mainstream]] [[c/_culture|culture]], [[o/_outside|outside]] the subculture, not [[p/_part|part]] of the [[e/_elite|elite]] [[g/_group|group]].**
+- **(in various [[s/_subcultures|subcultures]]) A [[p/_person|person]] [[c/_considered|considered]] to be "[[n/_normal|normal]]", [[p/_part|part]] of the [[m/_mainstream|mainstream]] [[c/_culture|culture]], [[o/_outside|outside]] the [[s/_subculture|subculture]], not [[p/_part|part]] of the [[e/_elite|elite]] [[g/_group|group]].**
 - **The world [[o/_outside|outside]] [[f/_fandom|fandom]]; the [[n/_normal|normal]], [[m/_mainstream|mainstream]] world.**
 - **([[s/_satanism|satanism]]) A [[p/_person|person]] not a [[s/_satanist|Satanist]].**
 ---

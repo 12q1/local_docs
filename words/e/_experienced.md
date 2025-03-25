@@ -6,7 +6,7 @@
 ### Synonyms
 - [[u/_undergo|undergo]]
 #adjective
-- **[[h/_having|Having]] [[e/_experience|experience]] and [[s/_skill|skill]] in a subject.**
+- **[[h/_having|Having]] [[e/_experience|experience]] and [[s/_skill|skill]] in a [[s/_subject|subject]].**
 - **[[e/_experient|Experient]].**
 ---
 ### Antonyms

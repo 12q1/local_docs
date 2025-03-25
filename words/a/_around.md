@@ -21,7 +21,7 @@
 	- _Example: She spun around a few times._
 - **Used with verbs to [[i/_indicate|indicate]] [[r/_repeated|repeated]] or [[c/_continuous|continuous]] [[a/_action|action]], or in [[n/_numerous|numerous]] [[l/_locations|locations]] or with [[n/_numerous|numerous]] [[p/_people|people]].**
 	- _Example: I asked around, and no-one really liked it._
-- **Used with [[c/_certain|certain]] verbs to suggest unproductive [[a/_activity|activity]].**
+- **Used with [[c/_certain|certain]] verbs to [[s/_suggest|suggest]] unproductive [[a/_activity|activity]].**
 ---
 #preposition
 - **[[d/_defining|Defining]] a [[c/_circle|circle]] or [[c/_closed|closed]] [[c/_curve|curve]] [[c/_containing|containing]] a thing.**

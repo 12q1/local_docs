@@ -10,7 +10,7 @@
 	- _Example: An advice of an incoming settlement payment order may be given to an off-line receiving bank._
 - **In [[c/_commercial|commercial]] [[l/_language|language]], [[i/_information|information]] [[c/_communicated|communicated]] by [[l/_letter|letter]]; used [[c/_chiefly|chiefly]] in [[r/_reference|reference]] to [[d/_drafts|drafts]] or [[b/_bills|bills]] of [[e/_exchange|exchange]]**
 	- _Example: a letter of advice_
-- **A [[c/_communication|communication]] [[p/_providing|providing]] [[i/_information|information]], such as [[h/_how|how]] an uncertain [[a/_area|area]] of [[l/_law|law]] [[m/_might|might]] [[a/_apply|apply]] to [[p/_possible|possible]] [[f/_future|future]] [[a/_actions|actions]]**
+- **A [[c/_communication|communication]] [[p/_providing|providing]] [[i/_information|information]], [[s/_such|such]] as [[h/_how|how]] an uncertain [[a/_area|area]] of [[l/_law|law]] [[m/_might|might]] [[a/_apply|apply]] to [[p/_possible|possible]] [[f/_future|future]] [[a/_actions|actions]]**
 	- _Example: An advice issued by a Monitoring Committee could be applicable in a Dutch court_
 - **[[c/_counseling|Counseling]] to [[p/_perform|perform]] a [[s/_specific|specific]] [[l/_legal|legal]] [[a/_act|act]].**
 - **[[c/_counseling|Counseling]] to [[p/_perform|perform]] a [[s/_specific|specific]] [[i/_illegal|illegal]] [[a/_act|act]].**

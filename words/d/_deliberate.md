@@ -10,9 +10,9 @@
 	- _Example: Tripping me was deliberate action._
 - **Of a [[p/_person|person]], weighing [[f/_facts|facts]] and [[a/_arguments|arguments]] with a view to a [[c/_choice|choice]] or [[d/_decision|decision]]; [[c/_carefully|carefully]] [[c/_considering|considering]] the [[p/_probable|probable]] [[c/_consequences|consequences]] of a [[s/_step|step]]; [[s/_slow|slow]] in [[d/_determining|determining]].**
 	- _Example: The jury took eight hours to come to its deliberate verdict._
-- **[[f/_formed|Formed]] with [[d/_deliberation|deliberation]]; [[c/_carefully|carefully]] [[c/_considered|considered]]; not sudden or [[r/_rash|rash]].**
+- **[[f/_formed|Formed]] with [[d/_deliberation|deliberation]]; [[c/_carefully|carefully]] [[c/_considered|considered]]; not [[s/_sudden|sudden]] or [[r/_rash|rash]].**
 	- _Example: a deliberate opinion; a deliberate measure or result_
-- **Not [[h/_hasty|hasty]] or sudden; [[s/_slow|slow]].**
+- **Not [[h/_hasty|hasty]] or [[s/_sudden|sudden]]; [[s/_slow|slow]].**
 ---
 ### Synonyms
 - [[c/_careful|careful]], [[c/_cautious|cautious]], [[w/_well-advised|well-advised]], [[c/_circumspect|circumspect]], [[t/_thoughtful|thoughtful]], [[p/_purposeful|purposeful]], [[v/_volitional|volitional]]

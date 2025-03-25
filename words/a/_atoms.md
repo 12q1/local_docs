@@ -6,7 +6,7 @@
 - **The [[s/_smallest|smallest]], [[i/_indivisible|indivisible]] [[c/_constituent|constituent]] [[p/_part|part]] or unit of [[s/_something|something]].**
 - **In [[l/_logical|logical]] [[a/_atomism|atomism]], a [[f/_fundamental|fundamental]] [[f/_fact|fact]] that [[c/_cannot|cannot]] be [[f/_further|further]] [[b/_broken|broken]] [[d/_down|down]].**
 - **The [[s/_smallest|smallest]] [[m/_medieval|medieval]] unit of time, [[e/_equal|equal]] to [[f/_fifteen|fifteen]] [[n/_ninety|ninety]]-[[f/_fourths|fourths]] of a [[s/_second|second]].**
-- **A [[m/_mote|mote]] of [[d/_dust|dust]] in a sunbeam.**
+- **A [[m/_mote|mote]] of [[d/_dust|dust]] in a [[s/_sunbeam|sunbeam]].**
 - **A very [[s/_small|small]] [[a/_amount|amount]]; a whit.**
 - **([[l/_lisp|Lisp]]) An [[i/_individual|individual]] [[n/_number|number]] or [[s/_symbol|symbol]], as [[o/_opposed|opposed]] to a [[l/_list|list]]; a [[s/_scalar|scalar]] value.**
 - **A [[n/_non|non]]-zero [[m/_member|member]] of a [[b/_boolean|Boolean]] [[a/_algebra|algebra]] that is not a union of [[a/_any|any]] [[o/_other|other]] [[e/_elements|elements]]. Or, a [[n/_non|non]]-zero [[m/_member|member]] of a [[b/_boolean|Boolean]] [[l/_lattice|lattice]] that [[h/_has|has]] [[o/_only|only]] zero [[b/_below|below]] it.**

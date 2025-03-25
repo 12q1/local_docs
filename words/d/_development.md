@@ -8,7 +8,7 @@
 - **[[s/_something|Something]] which [[h/_has|has]] [[d/_developed|developed]].**
 	- _Example: Our news team brings you the latest developments._
 - **A [[p/_project|project]] [[c/_consisting|consisting]] of [[o/_one|one]] or [[m/_more|more]] [[c/_commercial|commercial]] or [[r/_residential|residential]] [[b/_buildings|buildings]].**
-- **The [[b/_building|building]] of such a [[p/_project|project]].**
+- **The [[b/_building|building]] of [[s/_such|such]] a [[p/_project|project]].**
 - **The [[a/_application|application]] of [[n/_new|new]] [[i/_ideas|ideas]] to [[p/_practical|practical]] [[p/_problems|problems]] ([[c/_cf|cf]]. [[r/_research|research]]).**
 	- _Example: Our development department has produced three new adhesives this year._
 - **The [[a/_active|active]] [[p/_placement|placement]] of the [[p/_pieces|pieces]], or the [[p/_process|process]] of [[a/_achieving|achieving]] it.**

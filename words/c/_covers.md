@@ -6,7 +6,7 @@
 	- _Example: The soldiers took cover behind a ruined building._
 - **The [[f/_front|front]] and [[b/_back|back]] of a [[b/_book|book]], [[m/_magazine|magazine]], [[c/_cd|CD]] [[p/_package|package]], [[e/_etc|etc]].**
 - **The top [[s/_sheet|sheet]] of a [[b/_bed|bed]].**
-- **A [[c/_cloth|cloth]], usually [[f/_fitted|fitted]], [[p/_placed|placed]] [[o/_over|over]] an [[i/_item|item]] such as a [[c/_car|car]] or [[s/_sofa|sofa]] to [[p/_protect|protect]] it from [[d/_dust|dust]], [[r/_rain|rain]], [[e/_etc|etc]]. when not in use.**
+- **A [[c/_cloth|cloth]], usually [[f/_fitted|fitted]], [[p/_placed|placed]] [[o/_over|over]] an [[i/_item|item]] [[s/_such|such]] as a [[c/_car|car]] or [[s/_sofa|sofa]] to [[p/_protect|protect]] it from [[d/_dust|dust]], [[r/_rain|rain]], [[e/_etc|etc]]. when not in use.**
 - **A [[c/_cover|cover]] [[c/_charge|charge]].**
 	- _Example: There's a $15 cover tonight._
 - **A [[s/_setting|setting]] at a [[r/_restaurant|restaurant]] table or [[f/_formal|formal]] [[d/_dinner|dinner]].**
@@ -50,7 +50,7 @@
 - **([[l/_law|law]] [[e/_enforcement|enforcement]]) To [[p/_protect|protect]] using an [[a/_aimed|aimed]] [[f/_firearm|firearm]] and the threat of [[f/_firing|firing]]; or to [[p/_protect|protect]] using [[c/_continuous|continuous]], [[h/_heaving|heaving]] [[f/_fire|fire]] at or in the [[d/_direction|direction]] of the [[e/_enemy|enemy]] [[s/_so|so]] as to [[f/_force|force]] the [[e/_enemy|enemy]] to [[r/_remain|remain]] in [[c/_cover|cover]]; or to threaten using an [[a/_aimed|aimed]] [[f/_firearm|firearm]].**
 - **To [[p/_provide|provide]] [[i/_insurance|insurance]] [[c/_coverage|coverage]] for.**
 	- _Example: Does my policy cover accidental loss?_
-- **To [[c/_copulate|copulate]] with ([[s/_said|said]] of [[c/_certain|certain]] [[m/_male|male]] [[a/_animals|animals]] such as [[d/_dogs|dogs]] and [[h/_horses|horses]]).**
+- **To [[c/_copulate|copulate]] with ([[s/_said|said]] of [[c/_certain|certain]] [[m/_male|male]] [[a/_animals|animals]] [[s/_such|such]] as [[d/_dogs|dogs]] and [[h/_horses|horses]]).**
 	- _Example: I would like to have my bitch covered next spring._
 - **To [[p/_protect|protect]] or [[c/_control|control]] (a [[p/_piece|piece]] or [[s/_square|square]]).**
 	- _Example: In order to checkmate a king on the side of the board, the five squares adjacent to the king must all be covered._

@@ -4,7 +4,7 @@
 - **A [[s/_short|short]] [[s/_symbol|symbol]], [[o/_often|often]] with [[l/_little|little]] [[r/_relation|relation]] to the [[i/_item|item]] it [[r/_represents|represents]].**
 	- _Example: This flavour of soup has been assigned the code WRT-9._
 - **A [[b/_body|body]] of [[l/_law|law]], [[s/_sanctioned|sanctioned]] by [[l/_legislation|legislation]], in which the [[r/_rules|rules]] of [[l/_law|law]] to be [[s/_specifically|specifically]] [[a/_applied|applied]] by the [[c/_courts|courts]] are [[s/_set|set]] [[f/_forth|forth]] in [[s/_systematic|systematic]] [[f/_form|form]]; a [[c/_compilation|compilation]] of [[l/_laws|laws]] by [[p/_public|public]] [[a/_authority|authority]]; a [[d/_digest|digest]].**
-- **[[a/_any|Any]] [[s/_system|system]] of [[p/_principles|principles]], [[r/_rules|rules]] or [[r/_regulations|regulations]] [[r/_relating|relating]] to [[o/_one|one]] subject.**
+- **[[a/_any|Any]] [[s/_system|system]] of [[p/_principles|principles]], [[r/_rules|rules]] or [[r/_regulations|regulations]] [[r/_relating|relating]] to [[o/_one|one]] [[s/_subject|subject]].**
 	- _Example: The medical code is a system of rules for the regulation of the professional conduct of physicians._
 - **A [[s/_set|set]] of [[r/_rules|rules]] for [[c/_converting|converting]] [[i/_information|information]] [[i/_into|into]] [[a/_another|another]] [[f/_form|form]] or [[r/_representation|representation]].**
 - **A [[m/_message|message]] [[r/_represented|represented]] by [[r/_rules|rules]] [[i/_intended|intended]] to [[c/_conceal|conceal]] [[i/_its|its]] [[m/_meaning|meaning]].**
@@ -27,6 +27,6 @@
 	- _Example: coding in the CT scanner_
 ---
 #verb
-- **Of a [[p/_patient|patient]], to suffer a sudden [[m/_medical|medical]] [[e/_emergency|emergency]] (a [[c/_code|code]] [[b/_blue|blue]]) such as [[c/_cardiac|cardiac]] [[a/_arrest|arrest]].**
+- **Of a [[p/_patient|patient]], to [[s/_suffer|suffer]] a [[s/_sudden|sudden]] [[m/_medical|medical]] [[e/_emergency|emergency]] (a [[c/_code|code]] [[b/_blue|blue]]) [[s/_such|such]] as [[c/_cardiac|cardiac]] [[a/_arrest|arrest]].**
 ---
 ---

@@ -9,7 +9,7 @@
 ---
 #verb
 - **To [[g/_get|get]] the [[f/_flavor|flavor]] of.**
-- **To [[i/_indicate|indicate]] or suggest [[s/_something|something]]; used with of.**
+- **To [[i/_indicate|indicate]] or [[s/_suggest|suggest]] [[s/_something|something]]; used with of.**
 	- _Example: Her reckless behavior smacks of pride._
 - **To [[h/_have|have]] a [[p/_particular|particular]] taste; used with of.**
 ---

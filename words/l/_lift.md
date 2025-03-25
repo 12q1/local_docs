@@ -6,7 +6,7 @@
 	- _Example: He gave me a lift to the bus station._
 - **[[m/_mechanical|Mechanical]] [[d/_device|device]] for vertically transporting [[g/_goods|goods]] or [[p/_people|people]] [[b/_between|between]] [[f/_floors|floors]] in a [[b/_building|building]]; an [[e/_elevator|elevator]].**
 	- _Example: Take the lift to the fourth floor._
-- **An upward [[f/_force|force]], such as the [[f/_force|force]] that [[k/_keeps|keeps]] [[a/_aircraft|aircraft]] [[a/_aloft|aloft]].**
+- **An upward [[f/_force|force]], [[s/_such|such]] as the [[f/_force|force]] that [[k/_keeps|keeps]] [[a/_aircraft|aircraft]] [[a/_aloft|aloft]].**
 - **([[m/_measurement|measurement]]) The [[d/_difference|difference]] in [[e/_elevation|elevation]] [[b/_between|between]] the upper [[p/_pool|pool]] and [[l/_lower|lower]] [[p/_pool|pool]] of a waterway, [[s/_separated|separated]] by [[l/_lock|lock]].**
 - **A thief.**
 - **The [[l/_lifting|lifting]] of a [[d/_dance|dance]] [[p/_partner|partner]] [[i/_into|into]] the [[a/_air|air]].**

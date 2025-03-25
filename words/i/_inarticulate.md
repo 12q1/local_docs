@@ -1,7 +1,7 @@
 # Inarticulate
 ---
 #noun
-- **An [[a/_animal|animal]] [[b/_belonging|belonging]] to the subphylum [[i/_inarticulata|Inarticulata]].**
+- **An [[a/_animal|animal]] [[b/_belonging|belonging]] to the [[s/_subphylum|subphylum]] [[i/_inarticulata|Inarticulata]].**
 ---
 #adjective
 - **(of [[s/_speech|speech]]) not [[a/_articulated|articulated]] in [[n/_normal|normal]] words**

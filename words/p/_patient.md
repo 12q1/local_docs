@@ -13,7 +13,7 @@
 	- _Example: Be patient: your friends will arrive in a few hours._
 - **[[c/_constant|Constant]] in [[p/_pursuit|pursuit]] or [[e/_exertion|exertion]]; [[p/_persevering|persevering]]; [[c/_calmly|calmly]] [[d/_diligent|diligent]].**
 	- _Example: patient endeavour_
-- **[[p/_physically|Physically]] [[a/_able|able]] to suffer or [[b/_bear|bear]].**
+- **[[p/_physically|Physically]] [[a/_able|able]] to [[s/_suffer|suffer]] or [[b/_bear|bear]].**
 ---
 ### Synonyms
 - [[c/_composed|composed]]

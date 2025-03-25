@@ -1,7 +1,7 @@
 # Neutrals
 ---
 #noun
-- **A [[n/_nonaligned|nonaligned]] [[s/_state|state]], or a [[m/_member|member]] of such a [[s/_state|state]].**
+- **A [[n/_nonaligned|nonaligned]] [[s/_state|state]], or a [[m/_member|member]] of [[s/_such|such]] a [[s/_state|state]].**
 - **A [[p/_person|person]] who takes [[n/_no|no]] [[s/_side|side]] in a [[d/_dispute|dispute]].**
 - **An [[i/_individual|individual]] or [[e/_entity|entity]] [[s/_serving|serving]] as an [[a/_arbitrator|arbitrator]] or [[a/_adjudicator|adjudicator]].**
 - **A [[n/_neutral|neutral]] [[h/_hue|hue]].**

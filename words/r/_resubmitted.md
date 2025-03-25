@@ -1,6 +1,6 @@
 # Resubmitted
 ---
 #verb
-- **To submit [[a/_again|again]].**
+- **To [[s/_submit|submit]] [[a/_again|again]].**
 ---
 ---

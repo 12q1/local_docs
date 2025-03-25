@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_specialized|specialized]] [[a/_animal|animal]] tissue with a [[h/_high|high]] [[o/_oil|oil]] [[c/_content|content]], used for [[l/_long|long]]-term [[s/_storage|storage]] of [[e/_energy|energy]].**
-- **A [[r/_refined|refined]] substance [[c/_chemically|chemically]] [[r/_resembling|resembling]] the [[o/_oils|oils]] in [[a/_animal|animal]] [[f/_fat|fat]].**
+- **A [[r/_refined|refined]] [[s/_substance|substance]] [[c/_chemically|chemically]] [[r/_resembling|resembling]] the [[o/_oils|oils]] in [[a/_animal|animal]] [[f/_fat|fat]].**
 - **That [[p/_part|part]] of an [[o/_organization|organization]] [[d/_deemed|deemed]] wasteful.**
 	- _Example: We need to trim the fat in this company_
 - **An [[e/_erection|erection]].**

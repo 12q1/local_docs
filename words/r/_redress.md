@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[r/_redressing|redressing]]; a [[m/_making|making]] [[r/_right|right]]; [[a/_amendment|amendment]]; [[c/_correction|correction]]; [[r/_reformation|reformation]].**
-- **A [[s/_setting|setting]] [[r/_right|right]], as of [[i/_injury|injury]], [[o/_oppression|oppression]], or wrong, such as the [[r/_redress|redress]] of [[g/_grievances|grievances]]; [[h/_hence|hence]], [[i/_indemnification|indemnification]]; [[r/_relief|relief]]; [[r/_remedy|remedy]]; [[r/_reparation|reparation]].**
+- **A [[s/_setting|setting]] [[r/_right|right]], as of [[i/_injury|injury]], [[o/_oppression|oppression]], or wrong, [[s/_such|such]] as the [[r/_redress|redress]] of [[g/_grievances|grievances]]; [[h/_hence|hence]], [[i/_indemnification|indemnification]]; [[r/_relief|relief]]; [[r/_remedy|remedy]]; [[r/_reparation|reparation]].**
 - **[[o/_one|One]] who, or that which, [[g/_gives|gives]] [[r/_relief|relief]]; a [[r/_redresser|redresser]].**
 ---
 #verb

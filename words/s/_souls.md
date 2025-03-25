@@ -17,6 +17,6 @@
 ### Synonyms
 - [[c/_crux|crux]], [[g/_gist|gist]]
 #verb
-- **To [[a/_afford|afford]] suitable sustenance.**
+- **To [[a/_afford|afford]] [[s/_suitable|suitable]] sustenance.**
 ---
 ---

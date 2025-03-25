@@ -1,7 +1,7 @@
 # Neighbour
 ---
 #noun
-- **A [[p/_person|person]] [[l/_living|living]] on [[a/_adjacent|adjacent]] or [[n/_nearby|nearby]] [[l/_land|land]]; a [[p/_person|person]] [[s/_situated|situated]] [[a/_adjacently|adjacently]] or [[n/_nearby|nearby]]; [[a/_anything|anything]] (of the [[s/_same|same]] type of thing as the subject) in an [[a/_adjacent|adjacent]] or [[n/_nearby|nearby]] [[p/_position|position]].**
+- **A [[p/_person|person]] [[l/_living|living]] on [[a/_adjacent|adjacent]] or [[n/_nearby|nearby]] [[l/_land|land]]; a [[p/_person|person]] [[s/_situated|situated]] [[a/_adjacently|adjacently]] or [[n/_nearby|nearby]]; [[a/_anything|anything]] (of the [[s/_same|same]] type of thing as the [[s/_subject|subject]]) in an [[a/_adjacent|adjacent]] or [[n/_nearby|nearby]] [[p/_position|position]].**
 	- _Example: My neighbour has two noisy cats._
 - **[[o/_one|One]] who is [[n/_near|near]] in [[s/_sympathy|sympathy]] or [[c/_confidence|confidence]].**
 - **A [[f/_fellow|fellow]] [[h/_human|human]] [[b/_being|being]].**

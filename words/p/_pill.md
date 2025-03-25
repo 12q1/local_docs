@@ -6,7 +6,7 @@
 	- _Example: Jane went on the pill when she left for college._
 - **A [[c/_comical|comical]] or [[e/_entertaining|entertaining]] [[p/_person|person]].**
 - **A [[c/_contemptible|contemptible]], [[a/_annoying|annoying]], or unpleasant [[p/_person|person]].**
-- **A [[s/_small|small]] [[p/_piece|piece]] of [[a/_any|any]] substance, for [[e/_example|example]] a [[b/_ball|ball]] of [[f/_fibres|fibres]] [[f/_formed|formed]] on the surface of a textile by [[r/_rubbing|rubbing]].**
+- **A [[s/_small|small]] [[p/_piece|piece]] of [[a/_any|any]] [[s/_substance|substance]], for [[e/_example|example]] a [[b/_ball|ball]] of [[f/_fibres|fibres]] [[f/_formed|formed]] on the surface of a textile by [[r/_rubbing|rubbing]].**
 - **A [[b/_baseball|baseball]].**
 - **A [[b/_bullet|bullet]] ([[p/_projectile|projectile]]).**
 - **A [[r/_rounded|rounded]] [[r/_rectangle|rectangle]] [[i/_indicating|indicating]] the tag or [[c/_category|category]] that an [[i/_item|item]] [[b/_belongs|belongs]] to.**

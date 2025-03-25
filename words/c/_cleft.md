@@ -7,6 +7,6 @@
 - **A [[d/_disease|disease]] of [[h/_horses|horses]]; a [[c/_crack|crack]] on the [[b/_band|band]] of the [[p/_pastern|pastern]].**
 ---
 #verb
-- **To [[s/_syntactically|syntactically]] [[s/_separate|separate]] a [[p/_prominent|prominent]] [[c/_constituent|constituent]] from the [[r/_rest|rest]] of the [[c/_clause|clause]] that [[c/_concerns|concerns]] it, such as threat in "The threat which [[i/_i|I]] [[s/_saw|saw]] but which [[h/_he|he]] [[d/_didn|didn]]'t [[s/_see|see]], was [[h/_his|his]] [[d/_downfall|downfall]]."**
+- **To [[s/_syntactically|syntactically]] [[s/_separate|separate]] a [[p/_prominent|prominent]] [[c/_constituent|constituent]] from the [[r/_rest|rest]] of the [[c/_clause|clause]] that [[c/_concerns|concerns]] it, [[s/_such|such]] as threat in "The threat which [[i/_i|I]] [[s/_saw|saw]] but which [[h/_he|he]] [[d/_didn|didn]]'t [[s/_see|see]], was [[h/_his|his]] [[d/_downfall|downfall]]."**
 ---
 ---

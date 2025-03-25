@@ -7,7 +7,7 @@
 	- _Example: He directed his question to the room in general._
 - **To [[p/_point|point]] [[o/_out|out]] or [[s/_show|show]] to ([[s/_somebody|somebody]]) the [[r/_right|right]] [[c/_course|course]] or way; to [[g/_guide|guide]], as by [[p/_pointing|pointing]] [[o/_out|out]] the way.**
 	- _Example: He directed me to the left-hand road._
-- **To [[p/_point|point]] [[o/_out|out]] to with [[a/_authority|authority]]; to [[i/_instruct|instruct]] as a superior; to [[o/_order|order]].**
+- **To [[p/_point|point]] [[o/_out|out]] to with [[a/_authority|authority]]; to [[i/_instruct|instruct]] as a [[s/_superior|superior]]; to [[o/_order|order]].**
 	- _Example: She directed them to leave immediately._
 - **To [[p/_put|put]] a [[d/_direction|direction]] or [[a/_address|address]] upon; to [[m/_mark|mark]] with the [[n/_name|name]] and [[r/_residence|residence]] of the [[p/_person|person]] to whom [[a/_anything|anything]] is [[s/_sent|sent]].**
 	- _Example: to direct a letter_

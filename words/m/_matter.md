@@ -1,8 +1,8 @@
 # Matter
 ---
 #noun
-- **Substance, [[m/_material|material]].**
-- **A [[c/_condition|condition]], subject or [[a/_affair|affair]], [[e/_especially|especially]] [[o/_one|one]] of [[c/_concern|concern]].**
+- **[[s/_substance|Substance]], [[m/_material|material]].**
+- **A [[c/_condition|condition]], [[s/_subject|subject]] or [[a/_affair|affair]], [[e/_especially|especially]] [[o/_one|one]] of [[c/_concern|concern]].**
 	- _Example: What's the matter?;   state matters_
 - **An [[a/_approximate|approximate]] [[a/_amount|amount]] or [[e/_extent|extent]].**
 	- _Example: I stayed for a matter of months._

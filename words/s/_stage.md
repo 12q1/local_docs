@@ -13,14 +13,14 @@
 - **A [[p/_place|place]] of [[r/_rest|rest]] on a [[r/_regularly|regularly]] travelled [[r/_road|road]]; a [[s/_station|station]]; a [[p/_place|place]] [[a/_appointed|appointed]] for a [[r/_relay|relay]] of [[h/_horses|horses]].**
 - **A [[d/_degree|degree]] of [[a/_advancement|advancement]] in a [[j/_journey|journey]]; [[o/_one|one]] of [[s/_several|several]] [[p/_portions|portions]] [[i/_into|into]] which a [[r/_road|road]] or [[c/_course|course]] is [[m/_marked|marked]] [[o/_off|off]]; the [[d/_distance|distance]] [[b/_between|between]] two [[p/_places|places]] of [[r/_rest|rest]] on a [[r/_road|road]].**
 	- _Example: a stage of ten miles_
-- **The [[n/_number|number]] of an [[e/_electronic|electronic]] [[c/_circuit|circuit]]’[[s/_s|s]] [[b/_block|block]], such as a [[f/_filter|filter]], an [[a/_amplifier|amplifier]], [[e/_etc|etc]].**
+- **The [[n/_number|number]] of an [[e/_electronic|electronic]] [[c/_circuit|circuit]]’[[s/_s|s]] [[b/_block|block]], [[s/_such|such]] as a [[f/_filter|filter]], an [[a/_amplifier|amplifier]], [[e/_etc|etc]].**
 	- _Example: a 3-stage cascade of a 2nd-order bandpass Butterworth filter_
 - **The [[p/_place|place]] on a [[m/_microscope|microscope]] where the [[s/_slide|slide]] is [[l/_located|located]] for viewing.**
 	- _Example: He placed the slide on the stage._
 - **A [[l/_level|level]]; [[o/_one|one]] of the [[s/_sequential|sequential]] [[a/_areas|areas]] [[m/_making|making]] up the [[g/_game|game]].**
 	- _Example: How do you get past the flying creatures in the third stage?_
 - **A [[p/_place|place]] where [[a/_anything|anything]] is [[p/_publicly|publicly]] [[e/_exhibited|exhibited]], or a [[r/_remarkable|remarkable]] [[a/_affair|affair]] [[o/_occurs|occurs]]; the [[s/_scene|scene]].**
-- **The succession of [[r/_rock|rock]] [[s/_strata|strata]] [[l/_laid|laid]] [[d/_down|down]] in a [[s/_single|single]] [[a/_age|age]] on the [[g/_geologic|geologic]] time [[s/_scale|scale]].**
+- **The [[s/_succession|succession]] of [[r/_rock|rock]] [[s/_strata|strata]] [[l/_laid|laid]] [[d/_down|down]] in a [[s/_single|single]] [[a/_age|age]] on the [[g/_geologic|geologic]] time [[s/_scale|scale]].**
 ---
 ### Synonyms
 - [[l/_level|level]], [[t/_tier|tier]], [[a/_area|area]], [[b/_board|board]], [[l/_level|level]], [[m/_map|map]], [[p/_phase|phase]], [[t/_track|track]], [[w/_world|world]], [[z/_zone|zone]], [[l/_level|level]]

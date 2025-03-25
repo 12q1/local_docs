@@ -1,7 +1,7 @@
 # Crystalline
 ---
 #noun
-- **[[a/_any|Any]] [[c/_crystalline|crystalline]] substance.**
+- **[[a/_any|Any]] [[c/_crystalline|crystalline]] [[s/_substance|substance]].**
 - **[[a/_aniline|Aniline]]**
 ---
 #adjective

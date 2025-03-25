@@ -16,12 +16,12 @@
 - **To [[s/_skate|skate]] with [[o/_one|one]] [[f/_foot|foot]] [[s/_significantly|significantly]] in [[f/_front|front]] of the [[o/_other|other]].**
 ---
 #noun
-- **(usually [[c/_construed|construed]] as [[p/_plural|plural]]) A tool used for [[c/_cutting|cutting]] thin [[m/_material|material]], [[c/_consisting|consisting]] of two [[c/_crossing|crossing]] [[b/_blades|blades]] [[a/_attached|attached]] at a [[p/_pivot|pivot]] [[p/_point|point]] in such a way that the [[b/_blades|blades]] [[s/_slide|slide]] [[a/_across|across]] [[e/_each|each]] [[o/_other|other]] when the [[h/_handles|handles]] are [[c/_closed|closed]].**
+- **(usually [[c/_construed|construed]] as [[p/_plural|plural]]) A tool used for [[c/_cutting|cutting]] thin [[m/_material|material]], [[c/_consisting|consisting]] of two [[c/_crossing|crossing]] [[b/_blades|blades]] [[a/_attached|attached]] at a [[p/_pivot|pivot]] [[p/_point|point]] in [[s/_such|such]] a way that the [[b/_blades|blades]] [[s/_slide|slide]] [[a/_across|across]] [[e/_each|each]] [[o/_other|other]] when the [[h/_handles|handles]] are [[c/_closed|closed]].**
 	- _Example: Scissors are used to cut the flowers._
 - **An [[a/_attacking|attacking]] [[m/_move|move]] [[c/_conducted|conducted]] by two [[p/_players|players]]; the [[p/_player|player]] without the [[b/_ball|ball]] [[r/_runs|runs]] from [[o/_one|one]] [[s/_side|side]] of the [[b/_ball|ball]] [[c/_carrier|carrier]], [[b/_behind|behind]] the [[b/_ball|ball]] [[c/_carrier|carrier]], and [[r/_receives|receives]] a [[p/_pass|pass]] from the [[b/_ball|ball]] [[c/_carrier|carrier]] on the [[o/_other|other]] [[s/_side|side]].**
 	- _Example: They executed a perfect scissors._
 - **A [[m/_method|method]] of [[s/_skating|skating]] with [[o/_one|one]] [[f/_foot|foot]] [[s/_significantly|significantly]] in [[f/_front|front]] of the [[o/_other|other]].**
-- **An [[e/_exercise|exercise]] in which the [[l/_legs|legs]] are switched [[b/_back|back]] and [[f/_forth|forth]], suggesting the [[m/_motion|motion]] of [[s/_scissors|scissors]].**
+- **An [[e/_exercise|exercise]] in which the [[l/_legs|legs]] are switched [[b/_back|back]] and [[f/_forth|forth]], [[s/_suggesting|suggesting]] the [[m/_motion|motion]] of [[s/_scissors|scissors]].**
 - **A [[s/_scissors|scissors]] [[h/_hold|hold]].**
 - **([[r/_rock|rock]] [[p/_paper|paper]] [[s/_scissors|scissors]]) A [[h/_hand|hand]] with the [[i/_index|index]] and [[m/_middle|middle]] [[f/_fingers|fingers]] [[o/_open|open]] (a handshape [[r/_resembling|resembling]] [[s/_scissors|scissors]]), that [[b/_beats|beats]] [[p/_paper|paper]] and is [[l/_loses|loses]] to [[r/_rock|rock]]. It [[b/_beats|beats]] [[l/_lizard|lizard]] and [[l/_loses|loses]] to [[s/_spock|Spock]] in [[r/_rock|rock]]-[[p/_paper|paper]]-[[s/_scissors|scissors]]-[[l/_lizard|lizard]]-[[s/_spock|Spock]].**
 ---

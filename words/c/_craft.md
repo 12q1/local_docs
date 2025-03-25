@@ -13,7 +13,7 @@
 - **A trade or [[p/_profession|profession]] as [[e/_embodied|embodied]] in [[i/_its|its]] [[p/_practitioners|practitioners]] [[c/_collectively|collectively]]; the [[m/_members|members]] of a trade or [[h/_handicraft|handicraft]] as a [[b/_body|body]]; an [[a/_association|association]] of these; a trade'[[s/_s|s]] union, [[g/_guild|guild]], or ‘[[c/_company|company]]’ .**
 	- _Example: She represented the craft of brewers._
 - **([[p/_plural|plural]] [[c/_craft|craft]]) A vehicle [[d/_designed|designed]] for [[n/_navigation|navigation]] in or on water or [[a/_air|air]] or through [[o/_outer|outer]] [[s/_space|space]] .**
-- **[[i/_implements|Implements]] used in [[c/_catching|catching]] [[f/_fish|fish]], such as [[n/_net|net]], [[l/_line|line]], or [[h/_hook|hook]]. [[m/_modern|Modern]] use [[p/_primarily|primarily]] in whaling, as in [[h/_harpoons|harpoons]], [[h/_hand|hand]]-[[l/_lances|lances]], [[e/_etc|etc]]. .**
+- **[[i/_implements|Implements]] used in [[c/_catching|catching]] [[f/_fish|fish]], [[s/_such|such]] as [[n/_net|net]], [[l/_line|line]], or [[h/_hook|hook]]. [[m/_modern|Modern]] use [[p/_primarily|primarily]] in whaling, as in [[h/_harpoons|harpoons]], [[h/_hand|hand]]-[[l/_lances|lances]], [[e/_etc|etc]]. .**
 ---
 ### Synonyms
 - [[a/_art|art]], [[b/_business|business]], [[h/_handicraft|handicraft]], [[p/_profession|profession]], [[t/_trade|trade]], [[c/_craftsmanship|craftsmanship]], [[w/_workmanship|workmanship]]
@@ -21,6 +21,6 @@
 - **To [[m/_make|make]] by [[h/_hand|hand]] and with [[m/_much|much]] [[s/_skill|skill]].**
 - **To [[c/_construct|construct]], [[d/_develop|develop]] [[s/_something|something]] ([[l/_like|like]] a [[s/_skilled|skilled]] [[c/_craftsman|craftsman]]).**
 	- _Example: state crafting; the process of crafting global policing_
-- **To [[c/_combine|combine]] [[m/_multiple|multiple]] [[i/_items|items]] to [[f/_form|form]] a [[n/_new|new]] [[i/_item|item]], such as [[a/_armour|armour]] or [[m/_medicine|medicine]].**
+- **To [[c/_combine|combine]] [[m/_multiple|multiple]] [[i/_items|items]] to [[f/_form|form]] a [[n/_new|new]] [[i/_item|item]], [[s/_such|such]] as [[a/_armour|armour]] or [[m/_medicine|medicine]].**
 ---
 ---

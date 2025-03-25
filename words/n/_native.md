@@ -26,7 +26,7 @@
 	- _Example: The native integer size is sixteen bits._
 - **[[o/_occurring|Occurring]] [[n/_naturally|naturally]] in [[i/_its|its]] [[p/_pure|pure]] or uncombined [[f/_form|form]]; [[n/_native|native]] [[a/_aluminium|aluminium]], [[n/_native|native]] [[s/_salt|salt]].**
 - **[[a/_arising|Arising]] by [[b/_birth|birth]]; [[h/_having|having]] an [[o/_origin|origin]]; [[b/_born|born]].**
-- **[[o/_original|Original]]; [[c/_constituting|constituting]] the [[o/_original|original]] substance of [[a/_anything|anything]].**
+- **[[o/_original|Original]]; [[c/_constituting|constituting]] the [[o/_original|original]] [[s/_substance|substance]] of [[a/_anything|anything]].**
 	- _Example: native dust_
 - **[[n/_naturally|Naturally]] [[r/_related|related]]; [[c/_cognate|cognate]]; [[c/_connected|connected]] (with).**
 ---

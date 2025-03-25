@@ -9,7 +9,7 @@
 	- _Example: He had worked in construction all his life._
 - **A [[b/_building|building]], [[m/_model|model]] or [[s/_some|some]] [[o/_other|other]] [[s/_structure|structure]].**
 	- _Example: The office was a construction of steel and glass._
-- **A (usually [[n/_non|non]]-[[r/_representational|representational]]) [[s/_structure|structure]], such as a [[c/_collage|collage]] [[e/_etc|etc]].**
+- **A (usually [[n/_non|non]]-[[r/_representational|representational]]) [[s/_structure|structure]], [[s/_such|such]] as a [[c/_collage|collage]] [[e/_etc|etc]].**
 	- _Example: "Construction in string and clockwork" took first prize._
 - **The [[m/_manner|manner]] in which [[s/_something|something]] is [[b/_built|built]].**
 	- _Example: A thing of simple construction._

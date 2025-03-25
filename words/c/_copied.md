@@ -9,7 +9,7 @@
 	- _Example: First copy the files, and then paste them in another directory._
 - **To [[i/_imitate|imitate]].**
 	- _Example: Don't copy my dance moves._
-- **To [[r/_receive|receive]] a transmission successfully.**
+- **To [[r/_receive|receive]] a transmission [[s/_successfully|successfully]].**
 	- _Example: Do you copy?_
 ---
 ---

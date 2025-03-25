@@ -3,7 +3,7 @@
 #noun
 - **A [[s/_small|small]] [[b/_bag|bag]] usually [[c/_closed|closed]] with a [[d/_drawstring|drawstring]].**
 - **A [[p/_pocket|pocket]] in which a [[m/_marsupial|marsupial]] [[c/_carries|carries]] [[i/_its|its]] [[y/_young|young]].**
-- **[[a/_any|Any]] [[p/_pocket|pocket]] or [[b/_bag|bag]]-[[s/_shaped|shaped]] [[o/_object|object]], such as a [[c/_cheek|cheek]] [[p/_pouch|pouch]].**
+- **[[a/_any|Any]] [[p/_pocket|pocket]] or [[b/_bag|bag]]-[[s/_shaped|shaped]] [[o/_object|object]], [[s/_such|such]] as a [[c/_cheek|cheek]] [[p/_pouch|pouch]].**
 - **A [[p/_protuberant|protuberant]] [[b/_belly|belly]]; a [[p/_paunch|paunch]].**
 - **A [[c/_cyst|cyst]] or [[s/_sac|sac]] [[c/_containing|containing]] [[f/_fluid|fluid]].**
 - **A [[s/_silicle|silicle]], or [[s/_short|short]] [[p/_pod|pod]], as of the [[s/_shepherd|shepherd]]'[[s/_s|s]] [[p/_purse|purse]].**

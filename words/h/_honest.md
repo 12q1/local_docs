@@ -18,7 +18,7 @@
 	- _Example: an honest dollar_
 - **[[o/_open|Open]]; [[f/_frank|frank]].**
 	- _Example: an honest countenance_
-- **[[d/_decent|Decent]]; [[h/_honourable|honourable]]; suitable; [[b/_becoming|becoming]].**
+- **[[d/_decent|Decent]]; [[h/_honourable|honourable]]; [[s/_suitable|suitable]]; [[b/_becoming|becoming]].**
 - **[[c/_chaste|Chaste]]; [[f/_faithful|faithful]]; virtuous.**
 ---
 ### Antonyms

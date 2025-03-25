@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[e/_experiencing|Experiencing]] [[s/_stupefaction|stupefaction]].**
-- **[[e/_experiencing|Experiencing]] the [[i/_influence|influence]] of an [[i/_ingested|ingested]] [[m/_mind|mind]]-[[a/_altering|altering]] substance.**
+- **[[e/_experiencing|Experiencing]] the [[i/_influence|influence]] of an [[i/_ingested|ingested]] [[m/_mind|mind]]-[[a/_altering|altering]] [[s/_substance|substance]].**
 ---
 ### Synonyms
 - [[i/_intoxicated|intoxicated]]

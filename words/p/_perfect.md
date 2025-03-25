@@ -13,7 +13,7 @@
 	- _Example: Practice makes perfect._
 - **[[e/_excellent|Excellent]] and [[d/_delightful|delightful]] in [[a/_all|all]] [[r/_respects|respects]].**
 	- _Example: a perfect day_
-- **Of a [[n/_number|number]]: [[e/_equal|equal]] to the sum of [[i/_its|its]] [[p/_proper|proper]] [[d/_divisors|divisors]].**
+- **Of a [[n/_number|number]]: [[e/_equal|equal]] to the [[s/_sum|sum]] of [[i/_its|its]] [[p/_proper|proper]] [[d/_divisors|divisors]].**
 	- _Example: 6 is perfect because the sum of its proper divisors, 1, 2, and 3, which is 6, is equal to the number itself._
 - **([[g/_grammar|grammar]], of a tense or verb [[f/_form|form]]) [[r/_representing|Representing]] a [[c/_completed|completed]] [[a/_action|action]].**
 - **[[s/_sexually|Sexually]] [[m/_mature|mature]] and [[f/_fully|fully]] [[d/_differentiated|differentiated]].**

@@ -18,7 +18,7 @@
 #noun
 - **An [[a/_act|act]] or [[p/_process|process]] of [[m/_making|making]] a [[p/_purchase|purchase]].**
 - **A [[c/_complex|complex]], [[o/_organized|organized]] [[p/_process|process]] in [[l/_large|large]] [[o/_organizations|organizations]] for [[o/_obtaining|obtaining]] [[g/_goods|goods]] that [[m/_may|may]] [[i/_include|include]] [[i/_identification|identification]] of [[r/_requirements|requirements]], [[a/_approvals|approvals]], supplier [[m/_management|management]], [[n/_negotiation|negotiation]], [[r/_receipt|receipt]] of [[g/_goods|goods]], and [[p/_payment|payment]].**
-- **A [[p/_part|part]] of an [[o/_organization|organization]] that [[m/_manages|manages]] such [[p/_processes|processes]]**
+- **A [[p/_part|part]] of an [[o/_organization|organization]] that [[m/_manages|manages]] [[s/_such|such]] [[p/_processes|processes]]**
 ---
 ### Synonyms
 - [[p/_procurement|procurement]]

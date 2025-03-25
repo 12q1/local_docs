@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[p/_punctuation|punctuation]] [[m/_mark|mark]] ⟨,⟩ used to [[i/_indicate|indicate]] a [[s/_set|set]] [[o/_off|off]] [[p/_parts|parts]] of a [[s/_sentence|sentence]] or [[b/_between|between]] [[e/_elements|elements]] of a [[l/_list|list]].**
-- **A [[s/_similar|similar]]-[[l/_looking|looking]] subscript [[d/_diacritical|diacritical]] [[m/_mark|mark]].**
+- **A [[s/_similar|similar]]-[[l/_looking|looking]] [[s/_subscript|subscript]] [[d/_diacritical|diacritical]] [[m/_mark|mark]].**
 - **[[a/_any|Any]] of various [[n/_nymphalid|nymphalid]] [[b/_butterflies|butterflies]] of the [[g/_genus|genus]] [[p/_polygonia|Polygonia]], [[h/_having|having]] a [[c/_comma|comma]]-[[s/_shaped|shaped]] white [[m/_mark|mark]] on the underwings, [[e/_especially|especially]] [[p/_polygonia|Polygonia]] [[c/_c|c]]-[[a/_album|album]] and [[p/_polygonia|Polygonia]] [[c/_c|c]]-aureum of [[n/_north|North]] [[a/_africa|Africa]], [[e/_europe|Europe]], and [[a/_asia|Asia]].**
 - **A [[d/_difference|difference]] in the [[c/_calculation|calculation]] of [[n/_nearly|nearly]] [[i/_identical|identical]] [[i/_intervals|intervals]] by [[d/_different|different]] ways.**
 - **A [[d/_delimiting|delimiting]] [[m/_marker|marker]] [[b/_between|between]] [[i/_items|items]] in a [[g/_genetic|genetic]] [[s/_sequence|sequence]].**

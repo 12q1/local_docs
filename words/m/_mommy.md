@@ -9,7 +9,7 @@
 - **To treat [[s/_someone|someone]] [[l/_like|like]] a [[m/_mother|mother]] would; to [[m/_mother|mother]] [[s/_someone|someone]].**
 ---
 #adjective
-- **([[c/_chiefly|chiefly]] in the superlative) [[c/_characteristic|Characteristic]] of a [[m/_mother|mother]]; [[m/_motherly|motherly]].**
+- **([[c/_chiefly|chiefly]] in the [[s/_superlative|superlative]]) [[c/_characteristic|Characteristic]] of a [[m/_mother|mother]]; [[m/_motherly|motherly]].**
 	- _Example: She is the mommiest of mommies._
 ---
 ---

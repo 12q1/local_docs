@@ -11,7 +11,7 @@
 ### Synonyms
 - [[c/_criminality|criminality]], [[d/_delinquency|delinquency]]
 #verb
-- **To subject to [[d/_disciplinary|disciplinary]] [[p/_punishment|punishment]].**
+- **To [[s/_subject|subject]] to [[d/_disciplinary|disciplinary]] [[p/_punishment|punishment]].**
 - **To [[c/_commit|commit]] [[c/_crime|crime]]([[s/_s|s]]).**
 ---
 ---

@@ -1,7 +1,7 @@
 # Predicative
 ---
 #noun
-- **([[g/_grammar|grammar]]) An [[e/_element|element]] of the [[p/_predicate|predicate]] of a [[s/_sentence|sentence]] which supplements the subject or [[o/_object|object]] by [[m/_means|means]] of the verb. Predicatives [[m/_may|may]] be [[n/_nominal|nominal]] or [[a/_adjectival|adjectival]].**
+- **([[g/_grammar|grammar]]) An [[e/_element|element]] of the [[p/_predicate|predicate]] of a [[s/_sentence|sentence]] which supplements the [[s/_subject|subject]] or [[o/_object|object]] by [[m/_means|means]] of the verb. Predicatives [[m/_may|may]] be [[n/_nominal|nominal]] or [[a/_adjectival|adjectival]].**
 - **([[g/_grammar|grammar]]) In [[s/_some|some]] [[l/_languages|languages]], a [[s/_special|special]] [[p/_part|part]] of [[s/_speech|speech]] used as a [[p/_predicate|predicate]] and [[d/_denoting|denoting]] a [[s/_state|state]] of [[b/_being|being]].**
 ---
 #adjective

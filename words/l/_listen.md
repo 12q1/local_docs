@@ -9,7 +9,7 @@
 #verb
 - **To [[p/_pay|pay]] [[a/_attention|attention]] to a [[s/_sound|sound]] or [[s/_speech|speech]].**
 	- _Example: Please listen carefully as I explain.  I like to listen to music._
-- **To [[e/_expect|expect]] or wait for a [[s/_sound|sound]], such as a [[s/_signal|signal]].**
+- **To [[e/_expect|expect]] or wait for a [[s/_sound|sound]], [[s/_such|such]] as a [[s/_signal|signal]].**
 	- _Example: You should listen for the starting gun._
 - **To [[a/_accept|accept]] [[a/_advice|advice]] or [[o/_obey|obey]] [[i/_instruction|instruction]]; to [[a/_agree|agree]] or [[a/_assent|assent]].**
 	- _Example: Listen, the only reason I yelled at you was because I was upset, OK?  Good children listen to their parents._

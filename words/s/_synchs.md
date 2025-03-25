@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[h/_harmony|Harmony]].**
-- **A [[m/_music|music]] [[s/_synchronization|synchronization]] [[l/_license|license]], [[a/_allowing|allowing]] the [[m/_music|music]] to be [[s/_synchronized|synchronized]] with visual [[m/_media|media]] such as [[f/_films|films]].**
+- **A [[m/_music|music]] [[s/_synchronization|synchronization]] [[l/_license|license]], [[a/_allowing|allowing]] the [[m/_music|music]] to be [[s/_synchronized|synchronized]] with visual [[m/_media|media]] [[s/_such|such]] as [[f/_films|films]].**
 ---
 #noun
 - **The [[s/_state|state]] or [[p/_property|property]] of [[b/_being|being]] [[s/_synchronized|synchronized]].**

@@ -8,7 +8,7 @@
 	- _Example: After his arrest, his prospects went to pot._
 - **An [[i/_iron|iron]] [[h/_hat|hat]] with a [[b/_broad|broad]] [[b/_brim|brim]] worn as a [[h/_helmet|helmet]].**
 - **A [[p/_pot|pot]]-[[s/_shaped|shaped]] [[n/_non|non]]-[[c/_conducting|conducting]] (usually [[c/_ceramic|ceramic]]) [[s/_stand|stand]] that supports an [[e/_electrified|electrified]] [[r/_rail|rail]] while [[i/_insulating|insulating]] it from the [[g/_ground|ground]].**
-- **The [[m/_money|money]] [[a/_available|available]] to be won in a [[h/_hand|hand]] of [[p/_poker|poker]] or a [[r/_round|round]] of [[o/_other|other]] [[g/_games|games]] of [[c/_chance|chance]]; [[a/_any|any]] sum of [[m/_money|money]] [[b/_being|being]] used as an [[e/_enticement|enticement]].**
+- **The [[m/_money|money]] [[a/_available|available]] to be won in a [[h/_hand|hand]] of [[p/_poker|poker]] or a [[r/_round|round]] of [[o/_other|other]] [[g/_games|games]] of [[c/_chance|chance]]; [[a/_any|any]] [[s/_sum|sum]] of [[m/_money|money]] [[b/_being|being]] used as an [[e/_enticement|enticement]].**
 - **A [[f/_favorite|favorite]]: a [[h/_heavily|heavily]]-[[b/_backed|backed]] [[h/_horse|horse]].**
 - **A [[p/_plaster|plaster]] [[c/_cast|cast]].**
 ---
@@ -27,7 +27,7 @@
 - **To [[s/_secure|secure]]; [[g/_gain|gain]]; win; [[b/_bag|bag]].**
 - **To [[s/_send|send]] [[s/_someone|someone]] to [[g/_gaol|gaol]], [[e/_expeditiously|expeditiously]].**
 - **To tipple; to [[d/_drink|drink]].**
-- **To [[d/_drain|drain]] ([[e/_e|e]].[[g/_g|g]]. sugar of the [[m/_molasses|molasses]]) in a [[p/_perforated|perforated]] [[c/_cask|cask]].**
+- **To [[d/_drain|drain]] ([[e/_e|e]].[[g/_g|g]]. [[s/_sugar|sugar]] of the [[m/_molasses|molasses]]) in a [[p/_perforated|perforated]] [[c/_cask|cask]].**
 - **To [[s/_seat|seat]] a [[p/_person|person]], usually a [[y/_young|young]] [[c/_child|child]], on a [[p/_potty|potty]] or toilet, typically [[d/_during|during]] toilet teaching.**
 - **To [[a/_apply|apply]] a [[p/_plaster|plaster]] [[c/_cast|cast]] to a [[b/_broken|broken]] [[l/_limb|limb]].**
 ---

@@ -1,7 +1,7 @@
 # Mast
 ---
 #noun
-- **A tall, [[s/_slim|slim]] [[p/_post|post]] or tower, usually tapering upward, used to support, for [[e/_example|example]], the [[s/_sails|sails]] on a [[s/_ship|ship]], [[f/_flags|flags]], [[f/_floodlights|floodlights]], [[m/_meteorological|meteorological]] [[i/_instruments|instruments]] ,or [[c/_communications|communications]] [[e/_equipment|equipment]] such as an [[a/_aerial|aerial]], usually supported by [[g/_guy|guy]]-wires.**
+- **A tall, [[s/_slim|slim]] [[p/_post|post]] or tower, usually tapering upward, used to support, for [[e/_example|example]], the [[s/_sails|sails]] on a [[s/_ship|ship]], [[f/_flags|flags]], [[f/_floodlights|floodlights]], [[m/_meteorological|meteorological]] [[i/_instruments|instruments]] ,or [[c/_communications|communications]] [[e/_equipment|equipment]] [[s/_such|such]] as an [[a/_aerial|aerial]], usually supported by [[g/_guy|guy]]-wires.**
 - **A [[n/_non|non]]-[[j/_judicial|judicial]] [[p/_punishment|punishment]] ("NJP") [[d/_disciplinary|disciplinary]] [[h/_hearing|hearing]] under which a [[c/_commanding|commanding]] [[o/_officer|officer]] [[s/_studies|studies]] and [[d/_disposes|disposes]] of [[c/_cases|cases]] [[i/_involving|involving]] those under [[h/_his|his]] [[c/_command|command]].**
 ---
 #verb

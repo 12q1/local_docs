@@ -3,7 +3,7 @@
 #noun
 - **A [[n/_number|number]] of things or [[p/_persons|persons]] [[b/_being|being]] in [[s/_some|some]] [[r/_relation|relation]] to [[o/_one|one]] [[a/_another|another]].**
 	- _Example: A group of people gathered in front of the Parliament to demonstrate against the Prime Minister's proposals._
-- **A [[s/_set|set]] with an [[a/_associative|associative]] [[b/_binary|binary]] [[o/_operation|operation]], under which there [[e/_exists|exists]] an [[i/_identity|identity]] [[e/_element|element]], and such that [[e/_each|each]] [[e/_element|element]] [[h/_has|has]] an [[i/_inverse|inverse]].**
+- **A [[s/_set|set]] with an [[a/_associative|associative]] [[b/_binary|binary]] [[o/_operation|operation]], under which there [[e/_exists|exists]] an [[i/_identity|identity]] [[e/_element|element]], and [[s/_such|such]] that [[e/_each|each]] [[e/_element|element]] [[h/_has|has]] an [[i/_inverse|inverse]].**
 - **An [[e/_effective|effective]] [[d/_divisor|divisor]] on a [[c/_curve|curve]].**
 - **A (usually [[s/_small|small]]) [[g/_group|group]] of [[p/_people|people]] who [[p/_perform|perform]] [[m/_music|music]] together.**
 	- _Example: Did you see the new jazz group?_
@@ -11,7 +11,7 @@
 - **A [[c/_column|column]] in the [[p/_periodic|periodic]] table of [[c/_chemical|chemical]] [[e/_elements|elements]].**
 - **A [[f/_functional|functional]] [[g/_group|group]].**
 	- _Example: Nitro is an electron-withdrawing group._
-- **A subset of a [[c/_culture|culture]] or of a [[s/_society|society]].**
+- **A [[s/_subset|subset]] of a [[c/_culture|culture]] or of a [[s/_society|society]].**
 - **An [[a/_air|air]] [[f/_force|force]] [[f/_formation|formation]].**
 - **A [[c/_collection|collection]] of [[f/_formations|formations]] or [[r/_rock|rock]] [[s/_strata|strata]].**
 - **A [[n/_number|number]] of users with [[s/_same|same]] [[r/_rights|rights]] with [[r/_respect|respect]] to [[a/_accession|accession]], [[m/_modification|modification]], and [[e/_execution|execution]] of [[f/_files|files]], [[c/_computers|computers]] and [[p/_peripherals|peripherals]].**

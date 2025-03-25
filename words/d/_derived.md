@@ -6,7 +6,7 @@
 - **To [[f/_find|find]] the [[d/_derivation|derivation]] of (a word or [[p/_phrase|phrase]]).**
 - **To [[c/_create|create]] (a [[c/_compound|compound]]) from [[a/_another|another]] by [[m/_means|means]] of a [[r/_reaction|reaction]].**
 - **To [[o/_originate|originate]] or [[s/_stem|stem]] (from).**
-- **To turn the [[c/_course|course]] of (water, [[e/_etc|etc]].); to [[d/_divert|divert]] and [[d/_distribute|distribute]] [[i/_into|into]] subordinate [[c/_channels|channels]].**
+- **To turn the [[c/_course|course]] of (water, [[e/_etc|etc]].); to [[d/_divert|divert]] and [[d/_distribute|distribute]] [[i/_into|into]] [[s/_subordinate|subordinate]] [[c/_channels|channels]].**
 ---
 #adjective
 - **Of, or [[p/_pertaining|pertaining]] to, [[c/_conditions|conditions]] unique to the [[d/_descendant|descendant]] [[s/_species|species]] of a [[c/_clade|clade]], and not [[f/_found|found]] in [[e/_earlier|earlier]] [[a/_ancestral|ancestral]] [[s/_species|species]].**

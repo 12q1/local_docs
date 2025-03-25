@@ -15,16 +15,16 @@
 	- _Example: The mansion had a long, tree-lined drive._
 - **A type of [[p/_public|public]] [[r/_roadway|roadway]].**
 	- _Example: Beverly Hills’ most famous street is Rodeo Drive._
-- **A [[p/_place|place]] suitable or [[a/_agreeable|agreeable]] for [[d/_driving|driving]]; a [[r/_road|road]] [[p/_prepared|prepared]] for [[d/_driving|driving]].**
+- **A [[p/_place|place]] [[s/_suitable|suitable]] or [[a/_agreeable|agreeable]] for [[d/_driving|driving]]; a [[r/_road|road]] [[p/_prepared|prepared]] for [[d/_driving|driving]].**
 - **[[d/_desire|Desire]] or [[i/_interest|interest]].**
-- **An [[a/_apparatus|apparatus]] for [[r/_reading|reading]] and writing [[d/_data|data]] to or from a [[m/_mass|mass]] [[s/_storage|storage]] [[d/_device|device]] such as a [[d/_disk|disk]], as a [[f/_floppy|floppy]] [[d/_drive|drive]].**
+- **An [[a/_apparatus|apparatus]] for [[r/_reading|reading]] and writing [[d/_data|data]] to or from a [[m/_mass|mass]] [[s/_storage|storage]] [[d/_device|device]] [[s/_such|such]] as a [[d/_disk|disk]], as a [[f/_floppy|floppy]] [[d/_drive|drive]].**
 - **A [[m/_mass|mass]] [[s/_storage|storage]] [[d/_device|device]] in which the [[m/_mechanism|mechanism]] for [[r/_reading|reading]] and writing [[d/_data|data]] is [[i/_integrated|integrated]] with the [[m/_mechanism|mechanism]] for [[s/_storing|storing]] [[d/_data|data]], as a [[h/_hard|hard]] [[d/_drive|drive]], a [[f/_flash|flash]] [[d/_drive|drive]].**
 - **A [[s/_stroke|stroke]] [[m/_made|made]] with a [[d/_driver|driver]].**
 - **A [[b/_ball|ball]] [[s/_struck|struck]] in a [[f/_flat|flat]] trajectory.**
 - **A type of [[s/_shot|shot]] [[p/_played|played]] by swinging the [[b/_bat|bat]] in a vertical [[a/_arc|arc]], through the [[l/_line|line]] of the [[b/_ball|ball]], and [[h/_hitting|hitting]] it [[a/_along|along]] the [[g/_ground|ground]], [[n/_normally|normally]] [[b/_between|between]] [[c/_cover|cover]] and midwicket.**
 - **A [[s/_straight|straight]] [[l/_level|level]] [[s/_shot|shot]] or [[p/_pass|pass]].**
 - **An [[o/_offensive|offensive]] [[p/_possession|possession]], [[g/_generally|generally]] [[o/_one|one]] [[c/_consisting|consisting]] of [[s/_several|several]] [[p/_plays|plays]] and/ or [[f/_first|first]] [[d/_downs|downs]], [[o/_often|often]] [[l/_leading|leading]] to a [[s/_scoring|scoring]] [[o/_opportunity|opportunity]].**
-- **A [[c/_charity|charity]] [[e/_event|event]] such as a fundraiser, [[b/_bake|bake]] [[s/_sale|sale]], or toy [[d/_drive|drive]].**
+- **A [[c/_charity|charity]] [[e/_event|event]] [[s/_such|such]] as a fundraiser, [[b/_bake|bake]] [[s/_sale|sale]], or toy [[d/_drive|drive]].**
 	- _Example: a whist drive; a beetle drive_
 - **([[r/_retail|retail]]) A [[c/_campaign|campaign]] [[a/_aimed|aimed]] at [[s/_selling|selling]] [[m/_more|more]] of a [[c/_certain|certain]] [[p/_product|product]], [[e/_e|e]].[[g/_g|g]]. by [[o/_offering|offering]] a [[d/_discount|discount]].**
 - **An [[i/_impression|impression]] or [[m/_matrix|matrix]] [[f/_formed|formed]] by a [[p/_punch|punch]] [[d/_drift|drift]].**

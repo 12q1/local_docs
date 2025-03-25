@@ -16,7 +16,7 @@
 - **[[e/_existing|Existing]] or [[h/_holding|holding]] [[s/_some|some]] [[p/_position|position]] not [[l/_long|long]] [[a/_ago|ago]], but not [[n/_now|now]]; [[d/_departed|departed]], or [[g/_gone|gone]] [[o/_out|out]] of [[o/_office|office]].**
 	- _Example: the late administration_
 - **[[r/_recent|Recent]] — [[r/_relative|relative]] to the [[n/_noun|noun]] it [[m/_modifies|modifies]].**
-- **Of a [[s/_star|star]] or [[c/_class|class]] of [[s/_stars|stars]], [[c/_cooler|cooler]] than the sun.**
+- **Of a [[s/_star|star]] or [[c/_class|class]] of [[s/_stars|stars]], [[c/_cooler|cooler]] than the [[s/_sun|sun]].**
 ---
 #adverb
 - **[[a/_after|After]] a [[d/_deadline|deadline]] [[h/_has|has]] [[p/_passed|passed]], [[p/_past|past]] a [[d/_designated|designated]] time.**

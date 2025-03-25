@@ -6,7 +6,7 @@
 - **To write in [[s/_shorthand|shorthand]].**
 ---
 #adjective
-- **[[l/_lacking|Lacking]] sufficient [[s/_staff|staff]] or [[p/_people|people]], as for [[n/_normal|normal]] or [[e/_efficient|efficient]] [[o/_operations|operations]].**
+- **[[l/_lacking|Lacking]] [[s/_sufficient|sufficient]] [[s/_staff|staff]] or [[p/_people|people]], as for [[n/_normal|normal]] or [[e/_efficient|efficient]] [[o/_operations|operations]].**
 	- _Example: The tiny restaurant usually got by with three workers on that shift, but found itself shorthanded when the tour bus pulled in._
 - **[[h/_having|Having]] [[l/_less|less]] than a [[q/_quorum|quorum]].**
 - **(team [[s/_sports|sports]]) [[h/_having|Having]], or [[o/_occurring|occurring]] [[d/_during|during]] an [[i/_interval|interval]] with, [[f/_fewer|fewer]] than a [[f/_full|full]] [[c/_complement|complement]] of [[p/_players|players]], [[o/_often|often]] as the [[r/_result|result]] of a [[p/_penalty|penalty]].**

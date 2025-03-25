@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] or [[p/_process|process]] of [[g/_going|going]] [[o/_out|out]].**
-- **A [[q/_quantity|quantity]] of a substance or thing that [[h/_has|has]] [[f/_flowed|flowed]] [[o/_out|out]]; an [[o/_outflow|outflow]].**
+- **A [[q/_quantity|quantity]] of a [[s/_substance|substance]] or thing that [[h/_has|has]] [[f/_flowed|flowed]] [[o/_out|out]]; an [[o/_outflow|outflow]].**
 - **An [[e/_expenditure|expenditure]], [[c/_cost|cost]] or [[o/_outlay|outlay]].**
 ---
 ### Antonyms

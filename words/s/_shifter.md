@@ -12,6 +12,6 @@
 - **A [[p/_person|person]] [[e/_employed|employed]] to [[r/_repair|repair]] the horseways and [[o/_other|other]] [[p/_passages|passages]], and [[k/_keep|keep]] them unobstructed.**
 - **A switcher or [[s/_shunter|shunter]]: a [[r/_railroad|railroad]] [[l/_locomotive|locomotive]] used for [[s/_shunting|shunting]].**
 - **A [[s/_shape|shape]]-[[s/_shifter|shifter]], or a [[p/_person|person]] or [[o/_other|other]] [[b/_being|being]] [[c/_capable|capable]] of [[c/_changing|changing]] their [[p/_physical|physical]] [[f/_form|form]].**
-- **([[e/_erotica|erotica]]) A [[g/_genre|genre]] of [[e/_erotica|erotica]] [[f/_focusing|focusing]] on lycanthropes or [[o/_other|other]] shapeshifters, such as werewolves.**
+- **([[e/_erotica|erotica]]) A [[g/_genre|genre]] of [[e/_erotica|erotica]] [[f/_focusing|focusing]] on lycanthropes or [[o/_other|other]] shapeshifters, [[s/_such|such]] as werewolves.**
 ---
 ---

@@ -30,7 +30,7 @@
 	- _Example: A good magistrate commands the respect and affections of the people._
 - **To [[h/_hold|hold]], to [[c/_control|control]] the use of.**
 	- _Example: The fort commanded the bay._
-- **To [[h/_have|have]] a view, as from a superior [[p/_position|position]].**
+- **To [[h/_have|have]] a view, as from a [[s/_superior|superior]] [[p/_position|position]].**
 - **To [[d/_direct|direct]] to [[c/_come|come]]; to [[b/_bestow|bestow]].**
 ---
 ### Synonyms

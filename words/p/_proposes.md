@@ -1,7 +1,7 @@
 # Proposes
 ---
 #verb
-- **To suggest a [[p/_plan|plan]], [[c/_course|course]] of [[a/_action|action]], [[e/_etc|etc]].**
+- **To [[s/_suggest|suggest]] a [[p/_plan|plan]], [[c/_course|course]] of [[a/_action|action]], [[e/_etc|etc]].**
 	- _Example: I propose going to see a film._
 - **([[s/_sometimes|sometimes]] [[f/_followed|followed]] by to) To [[a/_ask|ask]] for a [[p/_person|person]]'[[s/_s|s]] [[h/_hand|hand]] in [[m/_marriage|marriage]].**
 	- _Example: He proposed to her last night and she accepted him._

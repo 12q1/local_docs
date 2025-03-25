@@ -1,7 +1,7 @@
 # Abashing
 ---
 #verb
-- **To [[m/_make|make]] [[a/_ashamed|ashamed]]; to [[e/_embarrass|embarrass]]; to [[d/_destroy|destroy]] the [[s/_self|self]]-[[p/_possession|possession]] of, as by [[e/_exciting|exciting]] suddenly a [[c/_consciousness|consciousness]] of [[g/_guilt|guilt]], [[m/_mistake|mistake]], or [[i/_inferiority|inferiority]]; to [[d/_disconcert|disconcert]]; to [[d/_discomfit|discomfit]].**
+- **To [[m/_make|make]] [[a/_ashamed|ashamed]]; to [[e/_embarrass|embarrass]]; to [[d/_destroy|destroy]] the [[s/_self|self]]-[[p/_possession|possession]] of, as by [[e/_exciting|exciting]] [[s/_suddenly|suddenly]] a [[c/_consciousness|consciousness]] of [[g/_guilt|guilt]], [[m/_mistake|mistake]], or [[i/_inferiority|inferiority]]; to [[d/_disconcert|disconcert]]; to [[d/_discomfit|discomfit]].**
 - **To [[l/_lose|lose]] [[s/_self|self]]-[[p/_possession|possession]]; to [[b/_become|become]] [[a/_ashamed|ashamed]].**
 ---
 ### Synonyms

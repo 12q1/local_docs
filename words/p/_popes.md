@@ -20,7 +20,7 @@
 - **To [[c/_convert|convert]] to [[r/_roman|Roman]] [[c/_catholicism|Catholicism]].**
 ---
 #noun
-- **([[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]]) [[a/_any|Any]] [[m/_mulled|mulled]] wine (traditionally [[i/_including|including]] tokay) [[c/_considered|considered]] [[s/_similar|similar]] and superior to [[b/_bishop|bishop]].**
+- **([[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]]) [[a/_any|Any]] [[m/_mulled|mulled]] wine (traditionally [[i/_including|including]] tokay) [[c/_considered|considered]] [[s/_similar|similar]] and [[s/_superior|superior]] to [[b/_bishop|bishop]].**
 ---
 #noun
 - **The whippoorwill ([[c/_caprimulgus|Caprimulgus]] vociferus).**

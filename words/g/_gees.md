@@ -18,10 +18,10 @@
 - **Vagina, vulva**
 ---
 #verb
-- **To suit or [[f/_fit|fit]]**
+- **To [[s/_suit|suit]] or [[f/_fit|fit]]**
 ---
 #noun
-- **([[p/_plural|plural]] "[[g/_grand|grand]]") A thousand of [[s/_some|some]] unit of [[c/_currency|currency]], such as [[d/_dollars|dollars]] or [[p/_pounds|pounds]]. ([[c/_compare|Compare]] [[g/_g|G]].)**
+- **([[p/_plural|plural]] "[[g/_grand|grand]]") A thousand of [[s/_some|some]] unit of [[c/_currency|currency]], [[s/_such|such]] as [[d/_dollars|dollars]] or [[p/_pounds|pounds]]. ([[c/_compare|Compare]] [[g/_g|G]].)**
 - **([[p/_plural|plural]] "[[g/_grands|grands]]") A [[g/_grand|grand]] [[p/_piano|piano]]**
 ---
 #noun

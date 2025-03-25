@@ -9,7 +9,7 @@
 - **[[o/_one|One]] of two [[p/_possible|possible]] [[c/_conformers|conformers]] of [[c/_cyclohexane|cyclohexane]] [[r/_rings|rings]] (the [[o/_other|other]] [[b/_being|being]] [[b/_boat|boat]]), [[s/_shaped|shaped]] [[r/_roughly|roughly]] [[l/_like|like]] a [[c/_chair|chair]].**
 - **A [[d/_distinguished|distinguished]] [[p/_professorship|professorship]] at a university.**
 - **A vehicle for [[o/_one|one]] [[p/_person|person]]; [[e/_either|either]] a [[s/_sedan|sedan]] [[b/_borne|borne]] upon [[p/_poles|poles]], or a two-wheeled [[c/_carriage|carriage]] [[d/_drawn|drawn]] by [[o/_one|one]] [[h/_horse|horse]]; a [[g/_gig|gig]].**
-- **The [[s/_seat|seat]] or [[o/_office|office]] of a [[p/_person|person]] in [[a/_authority|authority]], such as a [[j/_judge|judge]] or [[b/_bishop|bishop]].**
+- **The [[s/_seat|seat]] or [[o/_office|office]] of a [[p/_person|person]] in [[a/_authority|authority]], [[s/_such|such]] as a [[j/_judge|judge]] or [[b/_bishop|bishop]].**
 ---
 #verb
 - **To [[a/_act|act]] as [[c/_chairperson|chairperson]] at; to [[p/_preside|preside]] [[o/_over|over]].**

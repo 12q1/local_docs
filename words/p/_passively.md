@@ -2,7 +2,7 @@
 ---
 #adverb
 - **In a [[p/_passive|passive]] [[m/_manner|manner]]; without [[c/_conscious|conscious]] or [[s/_self|self]]-[[d/_directed|directed]] [[a/_action|action]].**
-- **In an [[a/_acquiescent|acquiescent]] [[m/_manner|manner]]; [[r/_resignedly|resignedly]] or submissively.**
+- **In an [[a/_acquiescent|acquiescent]] [[m/_manner|manner]]; [[r/_resignedly|resignedly]] or [[s/_submissively|submissively]].**
 - **([[g/_grammar|grammar]]) In the [[p/_passive|passive]] voice; [[h/_having|having]] a [[p/_passive|passive]] [[c/_construction|construction]].**
 ---
 ### Synonyms

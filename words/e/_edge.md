@@ -5,7 +5,7 @@
 - **A [[o/_one|one]]-[[d/_dimensional|dimensional]] [[f/_face|face]] of a [[p/_polytope|polytope]]. In [[p/_particular|particular]], the [[j/_joining|joining]] [[l/_line|line]] [[b/_between|between]] two vertices of a [[p/_polygon|polygon]]; the [[p/_place|place]] where two [[f/_faces|faces]] of a [[p/_polyhedron|polyhedron]] [[m/_meet|meet]].**
 - **An [[a/_advantage|advantage]].**
 	- _Example: I have the edge on him._
-- **The thin [[c/_cutting|cutting]] [[s/_side|side]] of the [[b/_blade|blade]] of an [[i/_instrument|instrument]], such as an [[a/_ax|ax]], [[k/_knife|knife]], sword, or [[s/_scythe|scythe]]; that which [[c/_cuts|cuts]] as an [[e/_edge|edge]] [[d/_does|does]], or wounds [[d/_deeply|deeply]], [[e/_etc|etc]].**
+- **The thin [[c/_cutting|cutting]] [[s/_side|side]] of the [[b/_blade|blade]] of an [[i/_instrument|instrument]], [[s/_such|such]] as an [[a/_ax|ax]], [[k/_knife|knife]], sword, or [[s/_scythe|scythe]]; that which [[c/_cuts|cuts]] as an [[e/_edge|edge]] [[d/_does|does]], or wounds [[d/_deeply|deeply]], [[e/_etc|etc]].**
 - **A [[s/_sharp|sharp]] terminating [[b/_border|border]]; a [[m/_margin|margin]]; a [[b/_brink|brink]]; an [[e/_extreme|extreme]] verge.**
 	- _Example: He is standing on the edge of a precipice._
 - **[[s/_sharpness|Sharpness]]; [[r/_readiness|readiness]] or [[f/_fitness|fitness]] to [[c/_cut|cut]]; [[k/_keenness|keenness]]; [[i/_intenseness|intenseness]] of [[d/_desire|desire]].**

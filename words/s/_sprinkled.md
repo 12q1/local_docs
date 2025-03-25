@@ -1,9 +1,9 @@
 # Sprinkled
 ---
 #verb
-- **To [[c/_cause|cause]] (a substance) to [[f/_fall|fall]] in [[f/_fine|fine]] [[d/_drops|drops]] (for a [[l/_liquid|liquid]] substance) or [[s/_small|small]] [[p/_pieces|pieces]] (for a [[s/_solid|solid]] substance).**
+- **To [[c/_cause|cause]] (a [[s/_substance|substance]]) to [[f/_fall|fall]] in [[f/_fine|fine]] [[d/_drops|drops]] (for a [[l/_liquid|liquid]] [[s/_substance|substance]]) or [[s/_small|small]] [[p/_pieces|pieces]] (for a [[s/_solid|solid]] [[s/_substance|substance]]).**
 	- _Example: The confectioner sprinkled icing sugar over the cakes._
-- **To [[c/_cover|cover]] (an [[o/_object|object]]) by [[s/_sprinkling|sprinkling]] a substance on to it.**
+- **To [[c/_cover|cover]] (an [[o/_object|object]]) by [[s/_sprinkling|sprinkling]] a [[s/_substance|substance]] on to it.**
 	- _Example: The confectioner sprinkled the cakes with icing sugar._
 - **To [[d/_drip|drip]] in [[f/_fine|fine]] [[d/_drops|drops]], [[s/_sometimes|sometimes]] [[s/_sporadically|sporadically]].**
 	- _Example: It sprinkled outside all day long._

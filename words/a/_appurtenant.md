@@ -7,6 +7,6 @@
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to an [[a/_appurtenance|appurtenance]].**
 	- _Example: a right of way appurtenant to land or buildings_
-- **[[a/_ancillary|Ancillary]] or subsidiary.**
+- **[[a/_ancillary|Ancillary]] or [[s/_subsidiary|subsidiary]].**
 ---
 ---

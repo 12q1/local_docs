@@ -15,7 +15,7 @@
 #adjective
 - **Uncomfortably [[r/_restricted|restricted]] in [[s/_size|size]], or [[f/_financially|financially]].**
 - **[[o/_overcrowded|Overcrowded]] or [[c/_congested|congested]].**
-- **Tight [[b/_because|because]] of or [[l/_like|like]] suffering a [[c/_cramp|cramp]].**
+- **Tight [[b/_because|because]] of or [[l/_like|like]] [[s/_suffering|suffering]] a [[c/_cramp|cramp]].**
 - **[[i/_illegible|Illegible]].**
 ---
 ---

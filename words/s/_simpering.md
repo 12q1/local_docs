@@ -8,6 +8,6 @@
 - **The [[a/_act|act]] of [[o/_one|one]] who [[s/_simpers|simpers]].**
 ---
 #adjective
-- **[[s/_smug|Smug]], [[a/_affected|affected]], and supercilious.**
+- **[[s/_smug|Smug]], [[a/_affected|affected]], and [[s/_supercilious|supercilious]].**
 ---
 ---

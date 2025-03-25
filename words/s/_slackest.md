@@ -7,7 +7,7 @@
 	- _Example: a slack hand_
 - **[[l/_lacking|Lacking]] [[d/_diligence|diligence]] or [[c/_care|care]]; not [[e/_earnest|earnest]] or [[e/_eager|eager]].**
 	- _Example: slack in duty or service_
-- **Not [[a/_active|active]],successful, or violent.**
+- **Not [[a/_active|active]],[[s/_successful|successful]], or violent.**
 	- _Example: Business is slack._
 - **[[e/_excess|Excess]]; surplus to [[r/_requirements|requirements]].**
 	- _Example: the slack capacity of an oil pipeline_

@@ -6,6 +6,6 @@
 ### Synonyms
 - 
 #noun
-- **A [[p/_person|person]] who wears a [[h/_hard|hard]] [[h/_hat|hat]], such as a [[c/_construction|construction]] worker.**
+- **A [[p/_person|person]] who wears a [[h/_hard|hard]] [[h/_hat|hat]], [[s/_such|such]] as a [[c/_construction|construction]] worker.**
 ---
 ---

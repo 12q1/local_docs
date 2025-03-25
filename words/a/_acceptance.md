@@ -14,7 +14,7 @@
 ### Synonyms
 - [[a/_accepting|accepting]], [[a/_approval|approval]], [[r/_receiving|receiving]], [[r/_reception|reception]], [[a/_assent|assent]], [[a/_acceptableness|acceptableness]]
 #noun
-- **A [[c/_conserved|conserved]] [[p/_property|property]] of the [[l/_light|light]] in an [[o/_optical|optical]] [[s/_system|system]] which [[c/_characterizes|characterizes]] [[h/_how|how]] "[[s/_spread|spread]] [[o/_out|out]]" the [[l/_light|light]] is in terms of [[a/_angle|angle]] and [[a/_area|area]]: it is the [[p/_product|product]] of [[i/_its|its]] [[c/_cross|cross]]-[[s/_sectional|sectional]] [[a/_area|area]] ([[n/_normal|normal]] to the [[d/_direction|direction]] of [[p/_propagation|propagation]]) and the [[s/_solid|solid]] [[a/_angle|angle]] it subtends.**
+- **A [[c/_conserved|conserved]] [[p/_property|property]] of the [[l/_light|light]] in an [[o/_optical|optical]] [[s/_system|system]] which [[c/_characterizes|characterizes]] [[h/_how|how]] "[[s/_spread|spread]] [[o/_out|out]]" the [[l/_light|light]] is in terms of [[a/_angle|angle]] and [[a/_area|area]]: it is the [[p/_product|product]] of [[i/_its|its]] [[c/_cross|cross]]-[[s/_sectional|sectional]] [[a/_area|area]] ([[n/_normal|normal]] to the [[d/_direction|direction]] of [[p/_propagation|propagation]]) and the [[s/_solid|solid]] [[a/_angle|angle]] it [[s/_subtends|subtends]].**
 ---
 ### Synonyms
 - [[a/_acceptance|acceptance]], [[t/_throughput|throughput]]

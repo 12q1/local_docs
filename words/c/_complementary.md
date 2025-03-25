@@ -8,6 +8,6 @@
 #adjective
 - **[[a/_acting|Acting]] as a [[c/_complement|complement]]; [[m/_making|making]] up a whole with [[s/_something|something]] [[e/_else|else]].**
 - **Of the [[s/_specific|specific]] [[p/_pairings|pairings]] of the [[b/_bases|bases]] in DNA and RNA.**
-- **[[p/_pertaining|Pertaining]] to [[p/_pairs|pairs]] of [[p/_properties|properties]] in [[q/_quantum|quantum]] [[m/_mechanics|mechanics]] that are [[i/_inversely|inversely]] [[r/_related|related]] to [[e/_each|each]] [[o/_other|other]], such as [[s/_speed|speed]] and [[p/_position|position]], or [[e/_energy|energy]] and time. ([[s/_see|See]] [[a/_also|also]] Heisenberg uncertainty [[p/_principle|principle]].)**
+- **[[p/_pertaining|Pertaining]] to [[p/_pairs|pairs]] of [[p/_properties|properties]] in [[q/_quantum|quantum]] [[m/_mechanics|mechanics]] that are [[i/_inversely|inversely]] [[r/_related|related]] to [[e/_each|each]] [[o/_other|other]], [[s/_such|such]] as [[s/_speed|speed]] and [[p/_position|position]], or [[e/_energy|energy]] and time. ([[s/_see|See]] [[a/_also|also]] Heisenberg uncertainty [[p/_principle|principle]].)**
 ---
 ---

@@ -8,7 +8,7 @@
 ---
 #noun
 - **That which is [[c/_chief|chief]] or [[p/_principal|principal]]; the [[c/_chief|chief]] or [[m/_main|main]] [[p/_portion|portion]]; the [[b/_bulk|bulk]], the [[g/_greater|greater]] [[p/_part|part]], [[g/_gross|gross]].**
-- **A [[l/_large|large]] [[c/_cable|cable]] or [[p/_pipe|pipe]] [[p/_providing|providing]] utility [[s/_service|service]] to an [[a/_area|area]] or a [[b/_building|building]], such as a water [[m/_main|main]] or [[e/_electric|electric]] [[m/_main|main]].**
+- **A [[l/_large|large]] [[c/_cable|cable]] or [[p/_pipe|pipe]] [[p/_providing|providing]] utility [[s/_service|service]] to an [[a/_area|area]] or a [[b/_building|building]], [[s/_such|such]] as a water [[m/_main|main]] or [[e/_electric|electric]] [[m/_main|main]].**
 - **[[s/_short|Short]] for [[m/_main|main]] [[c/_course|course]].**
 	- _Example: I had scampi and chips for my main and a slice of cheesecake for dessert._
 - **The [[h/_high|high]] [[s/_seas|seas]].**

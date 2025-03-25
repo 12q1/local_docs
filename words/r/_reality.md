@@ -6,7 +6,7 @@
 - **A [[r/_real|real]] [[e/_entity|entity]], [[e/_event|event]] or [[o/_other|other]] [[f/_fact|fact]].**
 	- _Example: The ultimate reality of life is that it ends in death._
 - **The [[e/_entirety|entirety]] of [[a/_all|all]] that is [[r/_real|real]].**
-- **An [[i/_individual|individual]] [[o/_observer|observer]]'[[s/_s|s]] [[o/_own|own]] subjective [[p/_perception|perception]] of that which is [[r/_real|real]].**
+- **An [[i/_individual|individual]] [[o/_observer|observer]]'[[s/_s|s]] [[o/_own|own]] [[s/_subjective|subjective]] [[p/_perception|perception]] of that which is [[r/_real|real]].**
 - **[[l/_loyalty|Loyalty]]; [[d/_devotion|devotion]].**
 - **[[r/_realty|Realty]]; [[r/_real|real]] [[e/_estate|estate]].**
 ---

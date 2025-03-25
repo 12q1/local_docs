@@ -1,7 +1,7 @@
 # Squeals
 ---
 #noun
-- **A [[h/_high|high]]-[[p/_pitched|pitched]] [[s/_sound|sound]], such as the [[s/_scream|scream]] of a [[c/_child|child]], or [[n/_noisy|noisy]] worn-[[d/_down|down]] [[b/_brake|brake]] [[p/_pads|pads]].**
+- **A [[h/_high|high]]-[[p/_pitched|pitched]] [[s/_sound|sound]], [[s/_such|such]] as the [[s/_scream|scream]] of a [[c/_child|child]], or [[n/_noisy|noisy]] worn-[[d/_down|down]] [[b/_brake|brake]] [[p/_pads|pads]].**
 - **The [[c/_cry|cry]] of a [[p/_pig|pig]].**
 ---
 #verb

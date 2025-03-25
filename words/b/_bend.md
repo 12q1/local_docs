@@ -26,10 +26,10 @@
 - **To be [[i/_inclined|inclined]]; to [[d/_direct|direct]] [[i/_itself|itself]].**
 - **(usually with "[[d/_down|down]]") To [[s/_stoop|stoop]].**
 	- _Example: He bent down to pick up the pieces._
-- **To [[b/_bow|bow]] in [[p/_prayer|prayer]], or in token of submission.**
-- **To [[f/_force|force]] to submit.**
+- **To [[b/_bow|bow]] in [[p/_prayer|prayer]], or in token of [[s/_submission|submission]].**
+- **To [[f/_force|force]] to [[s/_submit|submit]].**
 	- _Example: They bent me to their will._
-- **To submit.**
+- **To [[s/_submit|submit]].**
 	- _Example: I am bending to my desire to eat junk food._
 - **To [[a/_apply|apply]] to a task or [[p/_purpose|purpose]].**
 	- _Example: He bent the company's resources to gaining market share._

@@ -8,6 +8,6 @@
 - **[[n/_nitrogen|Nitrogen]], [[e/_especially|especially]] as [[l/_liquid|liquid]] [[n/_nitrogen|nitrogen]].**
 ---
 #adjective
-- **[[c/_containing|Containing]] the [[n/_nitro|nitro]] [[g/_group|group]]; such [[c/_compounds|compounds]] tend to be unstable and [[o/_often|often]] [[e/_explosive|explosive]]**
+- **[[c/_containing|Containing]] the [[n/_nitro|nitro]] [[g/_group|group]]; [[s/_such|such]] [[c/_compounds|compounds]] tend to be unstable and [[o/_often|often]] [[e/_explosive|explosive]]**
 ---
 ---

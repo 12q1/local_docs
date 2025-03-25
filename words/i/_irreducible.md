@@ -1,7 +1,7 @@
 # Irreducible
 ---
 #noun
-- **Such a [[p/_polynomial|polynomial]]**
+- **[[s/_such|Such]] a [[p/_polynomial|polynomial]]**
 ---
 #adjective
 - **Not [[a/_able|able]] to be [[r/_reduced|reduced]] or [[l/_lessened|lessened]].**

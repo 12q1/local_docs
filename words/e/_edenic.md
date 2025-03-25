@@ -1,6 +1,6 @@
 # Edenic
 ---
 #adjective
-- **Of or suggesting [[e/_eden|Eden]], the [[p/_paradise|paradise]] of the [[b/_bible|Bible]].**
+- **Of or [[s/_suggesting|suggesting]] [[e/_eden|Eden]], the [[p/_paradise|paradise]] of the [[b/_bible|Bible]].**
 ---
 ---

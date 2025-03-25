@@ -6,6 +6,6 @@
 ### Synonyms
 - [[p/_posh|posh]]
 #adjective
-- **[[r/_relating|Relating]] to things (such as [[c/_clothing|clothing]]) that are typical of [[s/_students|students]] at [[p/_prep|prep]] [[s/_schools|schools]]**
+- **[[r/_relating|Relating]] to things ([[s/_such|such]] as [[c/_clothing|clothing]]) that are typical of [[s/_students|students]] at [[p/_prep|prep]] [[s/_schools|schools]]**
 ---
 ---

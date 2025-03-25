@@ -1,7 +1,7 @@
 # Abilities
 ---
 #noun
-- **Suitableness.**
+- **[[s/_suitableness|Suitableness]].**
 - **The [[q/_quality|quality]] or [[s/_state|state]] of [[b/_being|being]] [[a/_able|able]]; [[c/_capacity|capacity]] to [[d/_do|do]] or of [[d/_doing|doing]] [[s/_something|something]]; [[h/_having|having]] the [[n/_necessary|necessary]] [[p/_power|power]].**
 	- _Example: This phone has the ability to have its software upgraded wirelessly._
 - **The [[l/_legal|legal]] wherewithal to [[a/_act|act]].**

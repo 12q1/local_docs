@@ -1,7 +1,7 @@
 # Concedes
 ---
 #verb
-- **To [[y/_yield|yield]] or suffer; to surrender; to [[g/_grant|grant]]**
+- **To [[y/_yield|yield]] or [[s/_suffer|suffer]]; to surrender; to [[g/_grant|grant]]**
 	- _Example: He conceded the race once it was clear he could not win._
 - **To [[g/_grant|grant]], as a [[r/_right|right]] or [[p/_privilege|privilege]]; to [[m/_make|make]] [[c/_concession|concession]] of.**
 - **To [[a/_admit|admit]] to be true; to [[a/_acknowledge|acknowledge]].**

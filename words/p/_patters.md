@@ -5,7 +5,7 @@
 	- _Example: I could hear the patter of mice running about in the dark._
 ---
 #noun
-- **[[g/_glib|Glib]] and [[r/_rapid|rapid]] [[s/_speech|speech]], such as from an [[a/_auctioneer|auctioneer]] or a [[s/_sports|sports]] [[c/_commentator|commentator]].**
+- **[[g/_glib|Glib]] and [[r/_rapid|rapid]] [[s/_speech|speech]], [[s/_such|such]] as from an [[a/_auctioneer|auctioneer]] or a [[s/_sports|sports]] [[c/_commentator|commentator]].**
 ---
 #noun
 - **[[o/_one|One]] who [[p/_pats|pats]].**

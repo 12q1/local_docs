@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[o/_one|One]] who [[r/_rides|rides]], [[o/_often|often]] on a [[h/_horse|horse]] or a [[m/_motorcycle|motorcycle]].**
-- **A [[p/_provision|provision]] [[a/_annexed|annexed]] to a [[b/_bill|bill]] under the [[c/_consideration|consideration]] of a [[l/_legislature|legislature]], [[h/_having|having]] [[l/_little|little]] [[c/_connection|connection]] with the subject [[m/_matter|matter]] of the [[b/_bill|bill]].**
+- **A [[p/_provision|provision]] [[a/_annexed|annexed]] to a [[b/_bill|bill]] under the [[c/_consideration|consideration]] of a [[l/_legislature|legislature]], [[h/_having|having]] [[l/_little|little]] [[c/_connection|connection]] with the [[s/_subject|subject]] [[m/_matter|matter]] of the [[b/_bill|bill]].**
 - **(by [[e/_extension|extension]]) [[s/_something|Something]] [[e/_extra|extra]] or [[b/_burdensome|burdensome]] that is [[i/_imposed|imposed]].**
 - **An [[a/_amendment|amendment]] or [[a/_addition|addition]] to an [[e/_entertainer|entertainer]]'[[s/_s|s]] [[p/_performance|performance]] [[c/_contract|contract]], [[o/_often|often]] [[c/_covering|covering]] a [[p/_performer|performer]]'[[s/_s|s]] [[e/_equipment|equipment]] or [[f/_food|food]], [[d/_drinks|drinks]], and [[g/_general|general]] [[c/_comfort|comfort]] [[r/_requirements|requirements]].**
 - **An [[a/_additional|additional]] [[b/_benefit|benefit]] [[a/_attached|attached]] to an [[i/_insurance|insurance]] [[c/_contract|contract]].**
@@ -17,6 +17,6 @@
 - **The [[s/_second|second]] tier of [[c/_casks|casks]] in a vessel'[[s/_s|s]] [[h/_hold|hold]].**
 - **A [[s/_small|small]] [[f/_forked|forked]] weight which [[s/_straddles|straddles]] the [[b/_beam|beam]] of a [[b/_balance|balance]], [[a/_along|along]] which it [[c/_can|can]] be [[m/_moved|moved]] in the [[m/_manner|manner]] of the weight on a [[s/_steelyard|steelyard]].**
 - **A [[r/_robber|robber]].**
-- **A [[p/_piece|piece]], such as the [[r/_rook|rook]] or [[b/_bishop|bishop]], which [[m/_moves|moves]] [[a/_any|any]] [[d/_distance|distance]] in [[o/_one|one]] [[d/_direction|direction]], as [[l/_long|long]] as [[n/_no|no]] [[o/_other|other]] [[p/_piece|piece]] is in the way.**
+- **A [[p/_piece|piece]], [[s/_such|such]] as the [[r/_rook|rook]] or [[b/_bishop|bishop]], which [[m/_moves|moves]] [[a/_any|any]] [[d/_distance|distance]] in [[o/_one|one]] [[d/_direction|direction]], as [[l/_long|long]] as [[n/_no|no]] [[o/_other|other]] [[p/_piece|piece]] is in the way.**
 ---
 ---

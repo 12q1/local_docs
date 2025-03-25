@@ -15,12 +15,12 @@
 - **To [[g/_gently|gently]] [[r/_rain|rain]].**
 ---
 #adjective
-- **Timely, suitable, [[a/_apt|apt]], [[o/_opportune|opportune]], [[r/_ready|ready]] for the [[o/_occasion|occasion]]; [[e/_especially|especially]] of things [[s/_spoken|spoken]].**
+- **Timely, [[s/_suitable|suitable]], [[a/_apt|apt]], [[o/_opportune|opportune]], [[r/_ready|ready]] for the [[o/_occasion|occasion]]; [[e/_especially|especially]] of things [[s/_spoken|spoken]].**
 	- _Example: a pat expression_
-- **Trite, [[b/_being|being]] superficially [[c/_complete|complete]], [[l/_lacking|lacking]] [[o/_originality|originality]].**
+- **Trite, [[b/_being|being]] [[s/_superficially|superficially]] [[c/_complete|complete]], [[l/_lacking|lacking]] [[o/_originality|originality]].**
 ---
 #adverb
-- **[[o/_opportunely|Opportunely]], in a timely or suitable way.**
+- **[[o/_opportunely|Opportunely]], in a timely or [[s/_suitable|suitable]] way.**
 - **[[p/_perfectly|Perfectly]].**
 	- _Example: He has the routine down pat._
 ---

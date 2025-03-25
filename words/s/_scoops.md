@@ -10,7 +10,7 @@
 - **An [[o/_opening|opening]] in a [[h/_hood|hood]]/[[b/_bonnet|bonnet]] or [[o/_other|other]] [[b/_body|body]] [[p/_panel|panel]] to [[a/_admit|admit]] [[a/_air|air]], usually for [[c/_cooling|cooling]] the [[e/_engine|engine]].**
 - **The [[d/_digging|digging]] [[a/_attachment|attachment]] on a [[f/_front|front]]-[[e/_end|end]] [[l/_loader|loader]].**
 - **A [[p/_place|place]] [[h/_hollowed|hollowed]] [[o/_out|out]]; a [[b/_basinlike|basinlike]] [[c/_cavity|cavity]]; a [[h/_hollow|hollow]].**
-- **A [[s/_spoon|spoon]]-[[s/_shaped|shaped]] surgical [[i/_instrument|instrument]], used in [[e/_extracting|extracting]] [[c/_certain|certain]] substances or [[f/_foreign|foreign]] [[b/_bodies|bodies]].**
+- **A [[s/_spoon|spoon]]-[[s/_shaped|shaped]] surgical [[i/_instrument|instrument]], used in [[e/_extracting|extracting]] [[c/_certain|certain]] [[s/_substances|substances]] or [[f/_foreign|foreign]] [[b/_bodies|bodies]].**
 - **A [[s/_special|special]] [[s/_spinal|spinal]] [[b/_board|board]] used by [[e/_emergency|emergency]] [[m/_medical|medical]] [[s/_service|service]] [[s/_staff|staff]] that [[d/_divides|divides]] [[l/_laterally|laterally]] to [[s/_scoop|scoop]] up [[p/_patients|patients]].**
 - **A sweep; a [[s/_stroke|stroke]]; a swoop.**
 - **The [[p/_peak|peak]] of a [[c/_cap|cap]].**

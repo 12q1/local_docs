@@ -1,7 +1,7 @@
 # Humanitarian
 ---
 #noun
-- **A [[s/_scholar|scholar]] of [[o/_one|one]] of the subjects in the [[h/_humanities|humanities]].**
+- **A [[s/_scholar|scholar]] of [[o/_one|one]] of the [[s/_subjects|subjects]] in the [[h/_humanities|humanities]].**
 - **A [[p/_person|person]] who [[b/_believes|believes]] in the [[p/_philosophy|philosophy]] of [[h/_humanism|humanism]].**
 - **In the [[r/_renaissance|Renaissance]], a [[s/_scholar|scholar]] of [[g/_greek|Greek]] and [[r/_roman|Roman]] [[c/_classics|classics]].**
 ---
@@ -20,7 +20,7 @@
 - **[[o/_one|One]] who [[b/_believes|believes]] that [[j/_jesus|Jesus]] [[c/_christ|Christ]] is [[f/_fully|fully]] [[h/_human|human]] and not [[d/_divine|divine]].**
 ---
 #adjective
-- **[[c/_concerned|Concerned]] with [[p/_people|people]]'[[s/_s|s]] welfare, and the [[a/_alleviation|alleviation]] of suffering; [[c/_compassionate|compassionate]], [[h/_humane|humane]].**
+- **[[c/_concerned|Concerned]] with [[p/_people|people]]'[[s/_s|s]] welfare, and the [[a/_alleviation|alleviation]] of [[s/_suffering|suffering]]; [[c/_compassionate|compassionate]], [[h/_humane|humane]].**
 - **Of or [[p/_pertaining|pertaining]] to the [[b/_belief|belief]] that [[j/_jesus|Jesus]] [[c/_christ|Christ]] is [[f/_fully|fully]] [[h/_human|human]] and not [[d/_divine|divine]].**
 ---
 ---

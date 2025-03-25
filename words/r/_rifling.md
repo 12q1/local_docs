@@ -1,7 +1,7 @@
 # Rifling
 ---
 #verb
-- **To [[q/_quickly|quickly]] [[s/_search|search]] through [[m/_many|many]] [[i/_items|items]] (such as [[p/_papers|papers]], the [[c/_contents|contents]] of a [[d/_drawer|drawer]], a [[p/_pile|pile]] of [[c/_clothing|clothing]]). ([[s/_see|See]] [[a/_also|also]] rifflehttp//verbmall.blogspot.[[c/_com|com]]/2008/05/[[r/_riffle|riffle]]-or-[[r/_rifle|rifle]].html)**
+- **To [[q/_quickly|quickly]] [[s/_search|search]] through [[m/_many|many]] [[i/_items|items]] ([[s/_such|such]] as [[p/_papers|papers]], the [[c/_contents|contents]] of a [[d/_drawer|drawer]], a [[p/_pile|pile]] of [[c/_clothing|clothing]]). ([[s/_see|See]] [[a/_also|also]] rifflehttp//verbmall.blogspot.[[c/_com|com]]/2008/05/[[r/_riffle|riffle]]-or-[[r/_rifle|rifle]].html)**
 	- _Example: She made a mess when she rifled through the stack of papers, looking for the title document._
 - **To [[c/_commit|commit]] [[r/_robbery|robbery]] or theft.**
 - **To [[s/_search|search]] with [[i/_intent|intent]] to [[s/_steal|steal]]; to [[r/_ransack|ransack]], [[p/_pillage|pillage]] or [[p/_plunder|plunder]].**

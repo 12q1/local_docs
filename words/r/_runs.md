@@ -22,9 +22,9 @@
 	- _Example: The military campaign near that creek was known as "The battle of Bull Run"._
 - **A [[q/_quick|quick]] [[p/_pace|pace]], [[f/_faster|faster]] than a walk.**
 	- _Example: He broke into a run._
-- **A sudden [[s/_series|series]] of [[d/_demands|demands]] on a [[b/_bank|bank]] or [[o/_other|other]] [[f/_financial|financial]] [[i/_institution|institution]], [[e/_especially|especially]] [[c/_characterised|characterised]] by [[g/_great|great]] withdrawals.**
+- **A [[s/_sudden|sudden]] [[s/_series|series]] of [[d/_demands|demands]] on a [[b/_bank|bank]] or [[o/_other|other]] [[f/_financial|financial]] [[i/_institution|institution]], [[e/_especially|especially]] [[c/_characterised|characterised]] by [[g/_great|great]] withdrawals.**
 	- _Example: Financial insecurity led to a run on the banks, as customers feared for the security of their savings._
-- **[[a/_any|Any]] sudden [[l/_large|large]] [[d/_demand|demand]] for [[s/_something|something]].**
+- **[[a/_any|Any]] [[s/_sudden|sudden]] [[l/_large|large]] [[d/_demand|demand]] for [[s/_something|something]].**
 	- _Example: There was a run on Christmas presents._
 - **Various [[h/_horizontal|horizontal]] [[d/_dimensions|dimensions]] or surfaces**
 - **A [[s/_standard|standard]] or unexceptional [[g/_group|group]] or [[c/_category|category]].**
@@ -33,7 +33,7 @@
 - **A [[l/_line|line]] of [[k/_knit|knit]] [[s/_stitches|stitches]] that [[h/_have|have]] unravelled, [[p/_particularly|particularly]] in a [[n/_nylon|nylon]] [[s/_stocking|stocking]].**
 	- _Example: I have a run in my stocking._
 - **The [[s/_stern|stern]] of the underwater [[b/_body|body]] of a [[s/_ship|ship]] from where it [[b/_begins|begins]] to [[c/_curve|curve]] upward and [[i/_inward|inward]].**
-- **The [[h/_horizontal|horizontal]] [[d/_distance|distance]] to which a [[d/_drift|drift]] [[m/_may|may]] be [[c/_carried|carried]], [[e/_either|either]] by [[l/_licence|licence]] of the [[p/_proprietor|proprietor]] of a [[m/_mine|mine]] or by the [[n/_nature|nature]] of the [[f/_formation|formation]]; [[a/_also|also]], the [[d/_direction|direction]] which a vein of [[o/_ore|ore]] or [[o/_other|other]] substance takes.**
+- **The [[h/_horizontal|horizontal]] [[d/_distance|distance]] to which a [[d/_drift|drift]] [[m/_may|may]] be [[c/_carried|carried]], [[e/_either|either]] by [[l/_licence|licence]] of the [[p/_proprietor|proprietor]] of a [[m/_mine|mine]] or by the [[n/_nature|nature]] of the [[f/_formation|formation]]; [[a/_also|also]], the [[d/_direction|direction]] which a vein of [[o/_ore|ore]] or [[o/_other|other]] [[s/_substance|substance]] takes.**
 - **A [[p/_pair|pair]] or [[s/_set|set]] of [[m/_millstones|millstones]].**
 ---
 ### Synonyms
@@ -91,8 +91,8 @@
 - **To tend, as to an [[e/_effect|effect]] or [[c/_consequence|consequence]]; to [[i/_incline|incline]].**
 - **To [[h/_have|have]] a [[l/_legal|legal]] [[c/_course|course]]; to be [[a/_attached|attached]]; to [[c/_continue|continue]] in [[f/_force|force]], [[e/_effect|effect]], or [[o/_operation|operation]]; to [[f/_follow|follow]]; to [[g/_go|go]] in [[c/_company|company]].**
 	- _Example: Certain covenants run with the land._
-- **To [[e/_encounter|encounter]] or suffer (a [[p/_particular|particular]], usually [[b/_bad|bad]], [[f/_fate|fate]] or [[m/_misfortune|misfortune]]).**
-- **To [[s/_strike|strike]] (the [[b/_ball|ball]]) in such a way as to [[c/_cause|cause]] it to [[r/_run|run]] [[a/_along|along]] the [[g/_ground|ground]], as when [[a/_approaching|approaching]] a [[h/_hole|hole]].**
+- **To [[e/_encounter|encounter]] or [[s/_suffer|suffer]] (a [[p/_particular|particular]], usually [[b/_bad|bad]], [[f/_fate|fate]] or [[m/_misfortune|misfortune]]).**
+- **To [[s/_strike|strike]] (the [[b/_ball|ball]]) in [[s/_such|such]] a way as to [[c/_cause|cause]] it to [[r/_run|run]] [[a/_along|along]] the [[g/_ground|ground]], as when [[a/_approaching|approaching]] a [[h/_hole|hole]].**
 - **To speedrun.**
 ---
 ---

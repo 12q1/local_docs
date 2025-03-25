@@ -6,7 +6,7 @@
 	- _Example: The soldiers took cover behind a ruined building._
 - **The [[f/_front|front]] and [[b/_back|back]] of a [[b/_book|book]], [[m/_magazine|magazine]], [[c/_cd|CD]] [[p/_package|package]], [[e/_etc|etc]].**
 - **The top [[s/_sheet|sheet]] of a [[b/_bed|bed]].**
-- **A [[c/_cloth|cloth]], usually [[f/_fitted|fitted]], [[p/_placed|placed]] [[o/_over|over]] an [[i/_item|item]] such as a [[c/_car|car]] or [[s/_sofa|sofa]] to [[p/_protect|protect]] it from [[d/_dust|dust]], [[r/_rain|rain]], [[e/_etc|etc]]. when not in use.**
+- **A [[c/_cloth|cloth]], usually [[f/_fitted|fitted]], [[p/_placed|placed]] [[o/_over|over]] an [[i/_item|item]] [[s/_such|such]] as a [[c/_car|car]] or [[s/_sofa|sofa]] to [[p/_protect|protect]] it from [[d/_dust|dust]], [[r/_rain|rain]], [[e/_etc|etc]]. when not in use.**
 - **A [[c/_cover|cover]] [[c/_charge|charge]].**
 	- _Example: There's a $15 cover tonight._
 - **A [[s/_setting|setting]] at a [[r/_restaurant|restaurant]] table or [[f/_formal|formal]] [[d/_dinner|dinner]].**

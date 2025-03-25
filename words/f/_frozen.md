@@ -9,7 +9,7 @@
 	- _Example: It didn't freeze this winter, but last winter was very harsh._
 - **To be [[a/_affected|affected]] by [[e/_extreme|extreme]] [[c/_cold|cold]].**
 	- _Example: Don't go outside wearing just a t-shirt; you'll freeze!_
-- **(of [[m/_machines|machines]] and [[s/_software|software]]) To [[c/_come|come]] to a sudden [[h/_halt|halt]], [[s/_stop|stop]] working ([[f/_functioning|functioning]]).**
+- **(of [[m/_machines|machines]] and [[s/_software|software]]) To [[c/_come|come]] to a [[s/_sudden|sudden]] [[h/_halt|halt]], [[s/_stop|stop]] working ([[f/_functioning|functioning]]).**
 	- _Example: Since the last update, the program freezes / freezes up after a few minutes of use._
 - **(of [[p/_people|people]] and [[o/_other|other]] [[a/_animals|animals]]) To [[s/_stop|stop]] ([[b/_become|become]] [[m/_motionless|motionless]]) or be [[s/_stopped|stopped]] [[d/_due|due]] to [[a/_attentiveness|attentiveness]], [[f/_fear|fear]], surprise, [[e/_etc|etc]].**
 	- _Example: Despite all of the rehearsals, I froze up as soon as I got on stage._
@@ -30,6 +30,6 @@
 	- _Example: The mammoth has been frozen for ten thousand years._
 - **[[i/_immobilized|Immobilized]].**
 	- _Example: I just stood frozen as the robber pointed at me with his gun._
-- **(of a [[b/_bank|bank]] [[a/_account|account]] or [[a/_assets|assets]]) In a [[s/_state|state]] such that transactions are not [[a/_allowed|allowed]].**
+- **(of a [[b/_bank|bank]] [[a/_account|account]] or [[a/_assets|assets]]) In a [[s/_state|state]] [[s/_such|such]] that transactions are not [[a/_allowed|allowed]].**
 ---
 ---

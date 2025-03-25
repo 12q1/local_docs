@@ -3,13 +3,13 @@
 #noun
 - **A tool for [[c/_chopping|chopping]].**
 - **A [[h/_hacking|hacking]] [[b/_blow|blow]].**
-- **A [[g/_gouge|gouge]] or [[n/_notch|notch]] [[m/_made|made]] by such a [[b/_blow|blow]].**
+- **A [[g/_gouge|gouge]] or [[n/_notch|notch]] [[m/_made|made]] by [[s/_such|such]] a [[b/_blow|blow]].**
 - **A [[d/_dry|dry]] [[c/_cough|cough]].**
 - **A [[h/_hacking|hacking]]; a [[c/_catch|catch]] in [[s/_speaking|speaking]]; a [[s/_short|short]], [[b/_broken|broken]] [[c/_cough|cough]].**
 - **A try, an [[a/_attempt|attempt]].**
 - **The [[f/_foothold|foothold]] traditionally [[c/_cut|cut]] [[i/_into|into]] the [[i/_ice|ice]] from which the [[p/_person|person]] who throws the [[r/_rock|rock]] [[p/_pushes|pushes]] [[o/_off|off]] for [[d/_delivery|delivery]].**
 - **A [[m/_mattock|mattock]] or a [[m/_miner|miner]]'[[s/_s|s]] [[p/_pickaxe|pickaxe]].**
-- **An [[e/_expedient|expedient]], temporary [[s/_solution|solution]], such as a [[s/_small|small]] [[p/_patch|patch]] or [[c/_change|change]] to [[c/_code|code]], [[m/_meant|meant]] to be [[r/_replaced|replaced]] with a [[m/_more|more]] [[e/_elegant|elegant]] [[s/_solution|solution]] at a [[l/_later|later]] [[d/_date|date]].**
+- **An [[e/_expedient|expedient]], temporary [[s/_solution|solution]], [[s/_such|such]] as a [[s/_small|small]] [[p/_patch|patch]] or [[c/_change|change]] to [[c/_code|code]], [[m/_meant|meant]] to be [[r/_replaced|replaced]] with a [[m/_more|more]] [[e/_elegant|elegant]] [[s/_solution|solution]] at a [[l/_later|later]] [[d/_date|date]].**
 - **An [[i/_interesting|interesting]] technical [[a/_achievement|achievement]], [[p/_particularly|particularly]] in [[c/_computer|computer]] [[p/_programming|programming]].**
 - **A trick, [[s/_shortcut|shortcut]], [[s/_skill|skill]], or [[n/_novelty|novelty]] [[m/_method|method]] to [[i/_increase|increase]] [[p/_productivity|productivity]], [[e/_efficiency|efficiency]] or [[e/_ease|ease]].**
 	- _Example: Putting your phone in a sandwich bag when you go to the beach is such a great hack._

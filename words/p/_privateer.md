@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_privately|privately]] [[o/_owned|owned]] warship that [[h/_had|had]] [[o/_official|official]] [[s/_sanction|sanction]] to [[a/_attack|attack]] [[e/_enemy|enemy]] [[s/_ships|ships]] and take [[p/_possession|possession]] of their [[c/_cargo|cargo]].**
-- **An [[o/_officer|officer]] or [[a/_any|any]] [[o/_other|other]] [[m/_member|member]] of the [[c/_crew|crew]] of such a [[s/_ship|ship]].**
+- **An [[o/_officer|officer]] or [[a/_any|any]] [[o/_other|other]] [[m/_member|member]] of the [[c/_crew|crew]] of [[s/_such|such]] a [[s/_ship|ship]].**
 - **An [[a/_advocate|advocate]] or [[b/_beneficiary|beneficiary]] of [[p/_privatization|privatization]] of a [[g/_government|government]] [[s/_service|service]] or [[a/_activity|activity]].**
 - **A [[p/_private|private]] [[i/_individual|individual]] [[e/_entrant|entrant]] [[i/_into|into]] a [[r/_race|race]] or [[c/_competition|competition]] who [[d/_does|does]] not [[h/_have|have]] the [[b/_backing|backing]] of a [[l/_large|large]], [[p/_professional|professional]] team.**
 ---

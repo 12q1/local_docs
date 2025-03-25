@@ -1,9 +1,9 @@
 # Airs
 ---
 #noun
-- **The substance [[c/_constituting|constituting]] [[e/_earth|earth]]'[[s/_s|s]] [[a/_atmosphere|atmosphere]], [[p/_particularly|particularly]]:**
+- **The [[s/_substance|substance]] [[c/_constituting|constituting]] [[e/_earth|earth]]'[[s/_s|s]] [[a/_atmosphere|atmosphere]], [[p/_particularly|particularly]]:**
 	- _Example: I'm going outside to get some air._
-- **(usually with the) The [[a/_apparently|apparently]] [[o/_open|open]] [[s/_space|space]] [[a/_above|above]] the [[g/_ground|ground]] which this substance [[f/_fills|fills]], [[f/_formerly|formerly]] thought to be [[l/_limited|limited]] by the [[f/_firmament|firmament]] but [[n/_now|now]] [[c/_considered|considered]] to be surrounded by the [[n/_near|near]] vacuum of [[o/_outer|outer]] [[s/_space|space]].**
+- **(usually with the) The [[a/_apparently|apparently]] [[o/_open|open]] [[s/_space|space]] [[a/_above|above]] the [[g/_ground|ground]] which this [[s/_substance|substance]] [[f/_fills|fills]], [[f/_formerly|formerly]] thought to be [[l/_limited|limited]] by the [[f/_firmament|firmament]] but [[n/_now|now]] [[c/_considered|considered]] to be surrounded by the [[n/_near|near]] vacuum of [[o/_outer|outer]] [[s/_space|space]].**
 	- _Example: The flock of birds took to the air._
 - **A [[b/_breeze|breeze]]; a [[g/_gentle|gentle]] wind.**
 - **A [[f/_feeling|feeling]] or [[s/_sense|sense]].**

@@ -5,7 +5,7 @@
 	- _Example: The CEO made a public apology for the scandal, and promised full cooperation with the authorities._
 - **A [[f/_formal|formal]] [[j/_justification|justification]], [[d/_defence|defence]].**
 	- _Example: The Apology of Socrates._
-- **[[a/_anything|Anything]] [[p/_provided|provided]] as a substitute; a [[m/_makeshift|makeshift]].**
+- **[[a/_anything|Anything]] [[p/_provided|provided]] as a [[s/_substitute|substitute]]; a [[m/_makeshift|makeshift]].**
 	- _Example: a poor apology for a hotel room_
 ---
 ### Synonyms

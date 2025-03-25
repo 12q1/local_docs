@@ -22,7 +22,7 @@
 	- _Example: That child is something of a genius._
 - **(of a [[p/_person|person]]) A talent or [[q/_quality|quality]] that is [[d/_difficult|difficult]] to [[s/_specify|specify]].**
 	- _Example: She has a certain something._
-- **([[o/_often|often]] with [[r/_really|really]] or [[q/_quite|quite]]) [[s/_somebody|Somebody]] who or [[s/_something|something]] that is superlative or [[n/_notable|notable]] in [[s/_some|some]] way.**
+- **([[o/_often|often]] with [[r/_really|really]] or [[q/_quite|quite]]) [[s/_somebody|Somebody]] who or [[s/_something|something]] that is [[s/_superlative|superlative]] or [[n/_notable|notable]] in [[s/_some|some]] way.**
 	- _Example: - Some marmosets are less than six inches tall.
 - Well, isn't that something?_
 ---

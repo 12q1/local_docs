@@ -62,7 +62,7 @@
 - **[[b/_bringing|Bringing]] [[d/_death|death]]; [[d/_deadly|deadly]].**
 - **[[c/_cut|Cut]] [[o/_off|off]] from the [[r/_rights|rights]] of a [[c/_citizen|citizen]]; [[d/_deprived|deprived]] of the [[p/_power|power]] of [[e/_enjoying|enjoying]] the [[r/_rights|rights]] of [[p/_property|property]].**
 	- _Example: A person who is banished or who becomes a monk is civilly dead._
-- **([[o/_often|often]] with "to") [[i/_indifferent|Indifferent]] to, [[n/_no|no]] [[l/_longer|longer]] subject to or [[r/_ruled|ruled]] by ([[s/_sin|sin]], [[g/_guilt|guilt]], [[p/_pleasure|pleasure]], [[e/_etc|etc]]).**
+- **([[o/_often|often]] with "to") [[i/_indifferent|Indifferent]] to, [[n/_no|no]] [[l/_longer|longer]] [[s/_subject|subject]] to or [[r/_ruled|ruled]] by ([[s/_sin|sin]], [[g/_guilt|guilt]], [[p/_pleasure|pleasure]], [[e/_etc|etc]]).**
 ---
 ### Antonyms
 - [[a/_alive|alive]], [[l/_living|living]]
@@ -71,7 +71,7 @@
 	- _Example: He hit the target dead in the centre._
 - **([[d/_degree|degree]]) Very, [[a/_absolutely|absolutely]], [[e/_extremely|extremely]].**
 	- _Example: dead wrong; dead set; dead serious; dead drunk; dead broke; dead earnest; dead certain; dead slow; dead sure; dead simple; dead honest; dead accurate; dead easy; dead scared; dead solid; dead black; dead white; dead empty_
-- **Suddenly and [[c/_completely|completely]].**
+- **[[s/_suddenly|Suddenly]] and [[c/_completely|completely]].**
 	- _Example: He stopped dead._
 - **As [[i/_if|if]] [[d/_dead|dead]].**
 	- _Example: dead tired; dead quiet; dead asleep; dead pale; dead cold; dead still_

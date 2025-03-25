@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] of [[s/_shuffling|shuffling]] [[c/_cards|cards]].**
 	- _Example: He made a real mess of the last shuffle._
-- **The [[a/_act|act]] of [[r/_reordering|reordering]] [[a/_anything|anything]], such as [[m/_music|music]] tracks in a [[m/_media|media]] [[p/_player|player]].**
+- **The [[a/_act|act]] of [[r/_reordering|reordering]] [[a/_anything|anything]], [[s/_such|such]] as [[m/_music|music]] tracks in a [[m/_media|media]] [[p/_player|player]].**
 - **An [[i/_instance|instance]] of walking without [[l/_lifting|lifting]] [[o/_one|one]]'[[s/_s|s]] [[f/_feet|feet]].**
 	- _Example: The sad young girl left with a tired shuffle._
 - **(by [[e/_extension|extension]]) A [[r/_rhythm|rhythm]] [[c/_commonly|commonly]] used in [[b/_blues|blues]] [[m/_music|music]]. [[c/_consists|Consists]] of a [[s/_series|series]] of triplet [[n/_notes|notes]] with the [[m/_middle|middle]] [[n/_note|note]] [[m/_missing|missing]], [[s/_so|so]] that it [[s/_sounds|sounds]] [[l/_like|like]] a [[l/_long|long]] [[n/_note|note]] [[f/_followed|followed]] by a [[s/_short|short]] [[n/_note|note]]. [[s/_sounds|Sounds]] [[l/_like|like]] a walker [[d/_dragging|dragging]] [[o/_one|one]] [[f/_foot|foot]].**

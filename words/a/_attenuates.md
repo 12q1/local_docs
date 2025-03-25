@@ -8,7 +8,7 @@
 - **To [[r/_rarefy|rarefy]].**
 - **To [[r/_reduce|reduce]] the virulence of a [[b/_bacterium|bacterium]] or virus.**
 - **To [[r/_reduce|reduce]] the [[a/_amplitude|amplitude]] of an [[e/_electrical|electrical]], [[r/_radio|radio]], or [[o/_optical|optical]] [[s/_signal|signal]].**
-- **(of a [[b/_beer|beer]]) To [[b/_become|become]] [[l/_less|less]] [[d/_dense|dense]] as a [[r/_result|result]] of the [[c/_conversion|conversion]] of sugar to [[a/_alcohol|alcohol]].**
+- **(of a [[b/_beer|beer]]) To [[b/_become|become]] [[l/_less|less]] [[d/_dense|dense]] as a [[r/_result|result]] of the [[c/_conversion|conversion]] of [[s/_sugar|sugar]] to [[a/_alcohol|alcohol]].**
 ---
 ### Antonyms
 - [[a/_amplify|amplify]]

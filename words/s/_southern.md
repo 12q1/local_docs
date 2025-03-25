@@ -18,7 +18,7 @@
 ### Antonyms
 - [[b/_boreal|boreal]], [[n/_northern|northern]], [[s/_septentrional|septentrional]]
 #noun
-- **A [[n/_native|native]] or [[i/_inhabitant|inhabitant]] of the [[s/_south|south]] of a [[r/_region|region]] (or of the world as a whole), such as the United [[k/_kingdom|Kingdom]].**
+- **A [[n/_native|native]] or [[i/_inhabitant|inhabitant]] of the [[s/_south|south]] of a [[r/_region|region]] (or of the world as a whole), [[s/_such|such]] as the United [[k/_kingdom|Kingdom]].**
 ---
 ### Synonyms
 - [[s/_southron|southron]]

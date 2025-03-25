@@ -1,7 +1,7 @@
 # Diamante
 ---
 #noun
-- **An [[a/_artificial|artificial]] [[d/_diamond|diamond]] used as [[a/_adornment|adornment]], such as a [[r/_rhinestone|rhinestone]].**
+- **An [[a/_artificial|artificial]] [[d/_diamond|diamond]] used as [[a/_adornment|adornment]], [[s/_such|such]] as a [[r/_rhinestone|rhinestone]].**
 - **A [[d/_diamante|diamante]] [[p/_poem|poem]].**
 ---
 #adjective

@@ -8,6 +8,6 @@
 - **To [[c/_crack|crack]], as the [[g/_glazing|glazing]] of [[p/_porcelain|porcelain]] or [[p/_pottery|pottery]].**
 ---
 #noun
-- **A [[c/_covering|covering]] of [[f/_fine|fine]] [[c/_cracks|cracks]] on a [[h/_hard|hard]] [[s/_smooth|smooth]] surface such as a [[g/_glazed|glazed]] [[o/_object|object]] or [[c/_car|car]] [[e/_exterior|exterior]].**
+- **A [[c/_covering|covering]] of [[f/_fine|fine]] [[c/_cracks|cracks]] on a [[h/_hard|hard]] [[s/_smooth|smooth]] surface [[s/_such|such]] as a [[g/_glazed|glazed]] [[o/_object|object]] or [[c/_car|car]] [[e/_exterior|exterior]].**
 ---
 ---

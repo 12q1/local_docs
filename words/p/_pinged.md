@@ -3,7 +3,7 @@
 #verb
 - **To [[m/_make|make]] a [[h/_high|high]]-[[p/_pitched|pitched]], [[s/_short|short]] and [[s/_somewhat|somewhat]] [[s/_sharp|sharp]] [[s/_sound|sound]].**
 	- _Example: My car was pinging until my last oil change._
-- **(submarine [[n/_navigation|navigation]]) To [[e/_emit|emit]] a [[s/_signal|signal]] and then [[l/_listen|listen]] for [[i/_its|its]] [[e/_echo|echo]] in [[o/_order|order]] to [[d/_detect|detect]] [[o/_objects|objects]].**
+- **([[s/_submarine|submarine]] [[n/_navigation|navigation]]) To [[e/_emit|emit]] a [[s/_signal|signal]] and then [[l/_listen|listen]] for [[i/_its|its]] [[e/_echo|echo]] in [[o/_order|order]] to [[d/_detect|detect]] [[o/_objects|objects]].**
 - **To [[s/_send|send]] a [[p/_packet|packet]] in [[o/_order|order]] to [[d/_determine|determine]] whether a [[h/_host|host]] is [[p/_present|present]], [[p/_particularly|particularly]] by use of the [[p/_ping|ping]] utility.**
 	- _Example: I'm pinging their server._
 - **(by [[e/_extension|extension]]) To [[s/_send|send]] an [[e/_email|email]] or [[o/_other|other]] [[m/_message|message]] to [[s/_someone|someone]] in [[h/_hopes|hopes]] of [[e/_eliciting|eliciting]] a [[r/_response|response]].**

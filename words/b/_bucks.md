@@ -1,7 +1,7 @@
 # Bucks
 ---
 #noun
-- **A [[m/_male|male]] [[d/_deer|deer]], [[a/_antelope|antelope]], [[s/_sheep|sheep]], [[g/_goat|goat]], [[r/_rabbit|rabbit]], [[h/_hare|hare]], and [[s/_sometimes|sometimes]] the [[m/_male|male]] of [[o/_other|other]] [[a/_animals|animals]] such as the [[h/_hamster|hamster]], [[f/_ferret|ferret]] and [[s/_shad|shad]].**
+- **A [[m/_male|male]] [[d/_deer|deer]], [[a/_antelope|antelope]], [[s/_sheep|sheep]], [[g/_goat|goat]], [[r/_rabbit|rabbit]], [[h/_hare|hare]], and [[s/_sometimes|sometimes]] the [[m/_male|male]] of [[o/_other|other]] [[a/_animals|animals]] [[s/_such|such]] as the [[h/_hamster|hamster]], [[f/_ferret|ferret]] and [[s/_shad|shad]].**
 - **An uncastrated [[s/_sheep|sheep]], a [[r/_ram|ram]].**
 - **A [[y/_young|young]] [[b/_buck|buck]]; an [[a/_adventurous|adventurous]], [[i/_impetuous|impetuous]], [[d/_dashing|dashing]], or [[h/_high|high]]-[[s/_spirited|spirited]] [[y/_young|young]] [[m/_man|man]].**
 - **A [[f/_fop|fop]] or [[d/_dandy|dandy]].**
@@ -13,7 +13,7 @@
 	- _Example: Corporations will do anything to make a buck._
 - **[[o/_one|One]] [[h/_hundred|hundred]].**
 	- _Example: That skinny guy? C'mon, he can't weigh more than a buck and a quarter [125 pounds]._
-- **An [[o/_object|object]] of various types, [[p/_placed|placed]] on a table to [[i/_indicate|indicate]] turn or [[s/_status|status]]; such as a [[b/_brass|brass]] [[o/_object|object]], [[p/_placed|placed]] in [[r/_rotation|rotation]] on a US [[n/_navy|Navy]] wardroom [[d/_dining|dining]] table to [[i/_indicate|indicate]] which [[o/_officer|officer]] is to be [[s/_served|served]] [[f/_first|first]], or an [[i/_item|item]] [[p/_passed|passed]] [[a/_around|around]] a [[p/_poker|poker]] table [[i/_indicating|indicating]] the [[d/_dealer|dealer]] or [[p/_placed|placed]] in the [[p/_pot|pot]] to [[r/_remind|remind]] the winner of [[s/_some|some]] [[p/_privilege|privilege]] or [[o/_obligation|obligation]] when [[h/_his|his]] or [[h/_her|her]] turn to [[d/_deal|deal]] [[n/_next|next]] [[c/_comes|comes]].**
+- **An [[o/_object|object]] of various types, [[p/_placed|placed]] on a table to [[i/_indicate|indicate]] turn or [[s/_status|status]]; [[s/_such|such]] as a [[b/_brass|brass]] [[o/_object|object]], [[p/_placed|placed]] in [[r/_rotation|rotation]] on a US [[n/_navy|Navy]] wardroom [[d/_dining|dining]] table to [[i/_indicate|indicate]] which [[o/_officer|officer]] is to be [[s/_served|served]] [[f/_first|first]], or an [[i/_item|item]] [[p/_passed|passed]] [[a/_around|around]] a [[p/_poker|poker]] table [[i/_indicating|indicating]] the [[d/_dealer|dealer]] or [[p/_placed|placed]] in the [[p/_pot|pot]] to [[r/_remind|remind]] the winner of [[s/_some|some]] [[p/_privilege|privilege]] or [[o/_obligation|obligation]] when [[h/_his|his]] or [[h/_her|her]] turn to [[d/_deal|deal]] [[n/_next|next]] [[c/_comes|comes]].**
 - **(in [[c/_certain|certain]] [[m/_metaphors|metaphors]] or [[p/_phrases|phrases]]) [[b/_blame|Blame]]; [[r/_responsibility|responsibility]]; [[s/_scapegoating|scapegoating]]; [[f/_finger|finger]]-[[p/_pointing|pointing]].**
 	- _Example: pass the buck_
 - **The [[b/_body|body]] of a [[p/_post|post]] [[m/_mill|mill]], [[p/_particularly|particularly]] in [[e/_east|East]] Anglia. [[s/_see|See]] Wikipedia:Windmill [[m/_machinery|machinery]].**
@@ -32,7 +32,7 @@
 - **To [[b/_bend|bend]]; [[b/_buckle|buckle]].**
 - **(of a [[h/_horse|horse]] or [[s/_similar|similar]] [[s/_saddle|saddle]] or [[p/_pack|pack]] [[a/_animal|animal]]) To [[l/_leap|leap]] upward [[a/_arching|arching]] [[i/_its|its]] [[b/_back|back]], [[c/_coming|coming]] [[d/_down|down]] with [[h/_head|head]] [[l/_low|low]] and [[f/_forelegs|forelegs]] [[s/_stiff|stiff]], [[f/_forcefully|forcefully]] [[k/_kicking|kicking]] [[i/_its|its]] [[h/_hind|hind]] [[l/_legs|legs]] upward, [[o/_often|often]] in an [[a/_attempt|attempt]] to [[d/_dislodge|dislodge]] or throw a [[r/_rider|rider]] or [[p/_pack|pack]].**
 - **(of a [[h/_horse|horse]] or [[s/_similar|similar]] [[s/_saddle|saddle]] or [[p/_pack|pack]] [[a/_animal|animal]]) To throw (a [[r/_rider|rider]] or [[p/_pack|pack]]) by [[b/_bucking|bucking]].**
-- **To subject to a [[m/_mode|mode]] of [[p/_punishment|punishment]] which [[c/_consists|consists]] of tying the wrists together, [[p/_passing|passing]] the [[a/_arms|arms]] [[o/_over|over]] the [[b/_bent|bent]] [[k/_knees|knees]], and [[p/_putting|putting]] a [[s/_stick|stick]] [[a/_across|across]] the [[a/_arms|arms]] and in the [[a/_angle|angle]] [[f/_formed|formed]] by the [[k/_knees|knees]].**
+- **To [[s/_subject|subject]] to a [[m/_mode|mode]] of [[p/_punishment|punishment]] which [[c/_consists|consists]] of tying the wrists together, [[p/_passing|passing]] the [[a/_arms|arms]] [[o/_over|over]] the [[b/_bent|bent]] [[k/_knees|knees]], and [[p/_putting|putting]] a [[s/_stick|stick]] [[a/_across|across]] the [[a/_arms|arms]] and in the [[a/_angle|angle]] [[f/_formed|formed]] by the [[k/_knees|knees]].**
 - **(by [[e/_extension|extension]]) To [[r/_resist|resist]] [[o/_obstinately|obstinately]]; [[o/_oppose|oppose]] or [[o/_object|object]] [[s/_strongly|strongly]].**
 	- _Example: The vice president bucked at the board's latest solution._
 - **(by [[e/_extension|extension]]) To [[m/_move|move]] or [[o/_operate|operate]] in a [[s/_sharp|sharp]], [[j/_jerking|jerking]], or uneven [[m/_manner|manner]].**
@@ -47,8 +47,8 @@
 - **The [[b/_beech|beech]] tree.**
 ---
 #verb
-- **To [[s/_soak|soak]], [[s/_steep|steep]] or [[b/_boil|boil]] in [[l/_lye|lye]] or suds, as [[p/_part|part]] of the [[b/_bleaching|bleaching]] [[p/_process|process]].**
-- **To wash ([[c/_clothes|clothes]]) in [[l/_lye|lye]] or suds, or, in [[l/_later|later]] usage, by [[b/_beating|beating]] them on [[s/_stones|stones]] in [[r/_running|running]] water.**
+- **To [[s/_soak|soak]], [[s/_steep|steep]] or [[b/_boil|boil]] in [[l/_lye|lye]] or [[s/_suds|suds]], as [[p/_part|part]] of the [[b/_bleaching|bleaching]] [[p/_process|process]].**
+- **To wash ([[c/_clothes|clothes]]) in [[l/_lye|lye]] or [[s/_suds|suds]], or, in [[l/_later|later]] usage, by [[b/_beating|beating]] them on [[s/_stones|stones]] in [[r/_running|running]] water.**
 - **To [[b/_break|break]] up or [[p/_pulverize|pulverize]], as [[o/_ores|ores]].**
 ---
 #noun

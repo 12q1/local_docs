@@ -40,7 +40,7 @@
 - **[[o/_one|One]] of the [[s/_series|series]] of [[d/_disks|disks]] or [[p/_pistons|pistons]] in the [[c/_chain|chain]] [[p/_pump|pump]].**
 - **[[o/_one|One]] of the [[p/_pieces|pieces]] or [[l/_levers|levers]] [[c/_connected|connected]] with the [[p/_pendulum|pendulum]] of a [[c/_clock|clock]], or the [[b/_balance|balance]] of a watch, which [[r/_receive|receive]] the [[i/_immediate|immediate]] [[i/_impulse|impulse]] of the [[s/_scape|scape]]-wheel, or [[b/_balance|balance]] wheel.**
 - **In the [[o/_organ|organ]], a valve [[b/_between|between]] the wind [[c/_chest|chest]] and the [[m/_mouth|mouth]] of a [[p/_pipe|pipe]] or [[r/_row|row]] of [[p/_pipes|pipes]].**
-- **[[o/_one|One]] of a [[p/_pair|pair]] of [[s/_shelly|shelly]] [[p/_plates|plates]] that [[p/_protect|protect]] the [[s/_siphon|siphon]] tubes of [[c/_certain|certain]] [[b/_bivalves|bivalves]], such as the Teredo.**
+- **[[o/_one|One]] of a [[p/_pair|pair]] of [[s/_shelly|shelly]] [[p/_plates|plates]] that [[p/_protect|protect]] the [[s/_siphon|siphon]] tubes of [[c/_certain|certain]] [[b/_bivalves|bivalves]], [[s/_such|such]] as the Teredo.**
 - **A [[c/_cup|cup]] [[c/_containing|containing]] three [[o/_ounces|ounces]], [[f/_formerly|formerly]] used by surgeons.**
 ---
 ---

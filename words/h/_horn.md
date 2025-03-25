@@ -2,11 +2,11 @@
 ---
 #noun
 - **A [[h/_hard|hard]] [[g/_growth|growth]] of [[k/_keratin|keratin]] that [[p/_protrudes|protrudes]] from the top of the [[h/_head|head]] of [[c/_certain|certain]] [[a/_animals|animals]], usually [[p/_paired|paired]].**
-- **[[a/_any|Any]] [[s/_similar|similar]] [[r/_real|real]] or [[i/_imaginary|imaginary]] [[g/_growth|growth]] or [[p/_projection|projection]] such as the [[e/_elongated|elongated]] tusk of a [[n/_narwhal|narwhal]], the [[e/_eyestalk|eyestalk]] of a [[s/_snail|snail]], the [[p/_pointed|pointed]] [[g/_growth|growth]] on the [[n/_nose|nose]] of a [[r/_rhinoceros|rhinoceros]], or the [[h/_hornlike|hornlike]] [[p/_projection|projection]] on the [[h/_head|head]] of a [[d/_demon|demon]] or [[s/_similar|similar]].**
+- **[[a/_any|Any]] [[s/_similar|similar]] [[r/_real|real]] or [[i/_imaginary|imaginary]] [[g/_growth|growth]] or [[p/_projection|projection]] [[s/_such|such]] as the [[e/_elongated|elongated]] tusk of a [[n/_narwhal|narwhal]], the [[e/_eyestalk|eyestalk]] of a [[s/_snail|snail]], the [[p/_pointed|pointed]] [[g/_growth|growth]] on the [[n/_nose|nose]] of a [[r/_rhinoceros|rhinoceros]], or the [[h/_hornlike|hornlike]] [[p/_projection|projection]] on the [[h/_head|head]] of a [[d/_demon|demon]] or [[s/_similar|similar]].**
 - **An [[a/_antler|antler]].**
-- **The [[h/_hard|hard]] substance from which [[a/_animals|animals]]' [[h/_horns|horns]] are [[m/_made|made]], [[s/_sometimes|sometimes]] used by [[m/_man|man]] as a [[m/_material|material]] for [[m/_making|making]] various [[o/_objects|objects]].**
+- **The [[h/_hard|hard]] [[s/_substance|substance]] from which [[a/_animals|animals]]' [[h/_horns|horns]] are [[m/_made|made]], [[s/_sometimes|sometimes]] used by [[m/_man|man]] as a [[m/_material|material]] for [[m/_making|making]] various [[o/_objects|objects]].**
 	- _Example: an umbrella with a handle made of horn_
-- **An [[o/_object|object]] whose [[s/_shape|shape]] [[r/_resembles|resembles]] a [[h/_horn|horn]], such as [[c/_cornucopia|cornucopia]], the [[p/_point|point]] of an [[a/_anvil|anvil]], or a vessel for [[g/_gunpowder|gunpowder]] or [[l/_liquid|liquid]].**
+- **An [[o/_object|object]] whose [[s/_shape|shape]] [[r/_resembles|resembles]] a [[h/_horn|horn]], [[s/_such|such]] as [[c/_cornucopia|cornucopia]], the [[p/_point|point]] of an [[a/_anvil|anvil]], or a vessel for [[g/_gunpowder|gunpowder]] or [[l/_liquid|liquid]].**
 - **[[a/_any|Any]] of [[s/_several|several]] [[m/_musical|musical]] wind [[i/_instruments|instruments]].**
 - **An [[i/_instrument|instrument]] [[r/_resembling|resembling]] a [[m/_musical|musical]] [[h/_horn|horn]] and used to [[s/_signal|signal]] [[o/_others|others]].**
 	- _Example: hunting horn_

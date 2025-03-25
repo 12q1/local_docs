@@ -4,10 +4,10 @@
 - **An [[o/_organized|organized]] [[p/_procession|procession]] [[c/_consisting|consisting]] of a [[s/_series|series]] of [[c/_consecutive|consecutive]] [[d/_displays|displays]], [[p/_performances|performances]], [[e/_exhibits|exhibits]], [[e/_etc|etc]]. [[d/_displayed|displayed]] by [[m/_moving|moving]] [[d/_down|down]] a [[s/_street|street]] [[p/_past|past]] a [[c/_crowd|crowd]] of [[s/_spectators|spectators]].**
 	- _Example: The floats and horses in the parade were impressive, but the marching bands were really amazing._
 - **A [[p/_procession|procession]] of [[p/_people|people]] [[m/_moving|moving]] [[d/_down|down]] a [[s/_street|street]], [[o/_organized|organized]] to [[p/_protest|protest]] [[s/_something|something]].**
-- **[[a/_any|Any]] succession, [[s/_series|series]], or [[d/_display|display]] of [[i/_items|items]].**
+- **[[a/_any|Any]] [[s/_succession|succession]], [[s/_series|series]], or [[d/_display|display]] of [[i/_items|items]].**
 	- _Example: The dinner was a parade of courses, each featuring foods more elaborate than the last._
 - **A [[l/_line|line]] of [[g/_goslings|goslings]] [[l/_led|led]] by [[o/_one|one]] [[p/_parent|parent]] and [[o/_often|often]] trailed by the [[o/_other|other]].**
-- **[[p/_pompous|Pompous]] [[s/_show|show]]; [[f/_formal|formal]] [[d/_display|display]] or [[e/_exhibition|exhibition]]; [[o/_outward|outward]] [[s/_show|show]] (as [[o/_opposed|opposed]] to substance).**
+- **[[p/_pompous|Pompous]] [[s/_show|show]]; [[f/_formal|formal]] [[d/_display|display]] or [[e/_exhibition|exhibition]]; [[o/_outward|outward]] [[s/_show|show]] (as [[o/_opposed|opposed]] to [[s/_substance|substance]]).**
 - **An [[a/_assembling|assembling]] of troops for [[i/_inspection|inspection]] or to [[r/_receive|receive]] [[o/_orders|orders]].**
 - **[[p/_posture|Posture]] of [[d/_defense|defense]]; [[g/_guard|guard]].**
 - **The [[g/_ground|ground]] where a [[m/_military|military]] [[d/_display|display]] is [[h/_held|held]], or where troops are [[d/_drilled|drilled]].**

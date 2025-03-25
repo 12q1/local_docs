@@ -7,7 +7,7 @@
 - **To [[r/_regard|regard]] as [[p/_proper|proper]], usual, true, or to [[b/_believe|believe]] in.**
 	- _Example: I accept the notion that Christ lived._
 - **To [[r/_receive|receive]] as [[a/_adequate|adequate]] or [[s/_satisfactory|satisfactory]].**
-- **To [[r/_receive|receive]] or [[a/_admit|admit]] to; to [[a/_agree|agree]] to; to [[a/_assent|assent]] to; to submit to.**
+- **To [[r/_receive|receive]] or [[a/_admit|admit]] to; to [[a/_agree|agree]] to; to [[a/_assent|assent]] to; to [[s/_submit|submit]] to.**
 	- _Example: I accept your proposal, amendment, or excuse._
 - **To [[e/_endure|endure]] [[p/_patiently|patiently]].**
 	- _Example: I accept my punishment._

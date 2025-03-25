@@ -24,7 +24,7 @@
 - **To [[o/_ornament|ornament]] (a [[s/_ship|ship]]) by [[h/_hoisting|hoisting]] the [[n/_national|national]] [[c/_colours|colours]] at the [[p/_peak|peak]] and [[m/_mastheads|mastheads]], and [[s/_setting|setting]] the [[j/_jack|jack]] [[f/_forward|forward]]; when "[[d/_dressed|dressed]] [[f/_full|full]]", the [[s/_signal|signal]] [[f/_flags|flags]] and [[p/_pennants|pennants]] are [[a/_added|added]].**
 - **To [[p/_prepare|prepare]] (a [[s/_set|set]]) by [[i/_installing|installing]] the [[p/_props|props]], [[s/_scenery|scenery]], [[e/_etc|etc]].**
 - **To treat (a wound, or wounded [[p/_person|person]]).**
-- **To [[p/_prepare|prepare]] for use; to [[f/_fit|fit]] for [[a/_any|any]] use; to [[r/_render|render]] suitable for an [[i/_intended|intended]] [[p/_purpose|purpose]]; to [[g/_get|get]] [[r/_ready|ready]].**
+- **To [[p/_prepare|prepare]] for use; to [[f/_fit|fit]] for [[a/_any|any]] use; to [[r/_render|render]] [[s/_suitable|suitable]] for an [[i/_intended|intended]] [[p/_purpose|purpose]]; to [[g/_get|get]] [[r/_ready|ready]].**
 	- _Example: to dress leather or cloth;  to dress a garden;  to dress grain, by cleansing it;  in mining and metallurgy, to dress ores, by sorting and separating them_
 - **To [[p/_prepare|prepare]] the surface of (a [[m/_material|material]]; usually [[s/_stone|stone]] or [[l/_lumber|lumber]]).**
 - **To [[m/_manure|manure]] ([[l/_land|land]]).**

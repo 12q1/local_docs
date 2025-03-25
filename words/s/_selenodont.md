@@ -1,7 +1,7 @@
 # Selenodont
 ---
 #noun
-- **[[a/_any|Any]] [[a/_animal|animal]] [[h/_having|having]] such teeth.**
+- **[[a/_any|Any]] [[a/_animal|animal]] [[h/_having|having]] [[s/_such|such]] teeth.**
 - **[[a/_any|Any]] [[m/_member|member]] of the [[s/_selenodonta|Selenodonta]].**
 ---
 #adjective

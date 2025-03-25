@@ -1,7 +1,7 @@
 # Blitz
 ---
 #noun
-- **A sudden [[a/_attack|attack]], [[e/_especially|especially]] an [[a/_air|air]] [[r/_raid|raid]]; usually with [[r/_reference|reference]] to the [[b/_blitz|Blitz]].**
+- **A [[s/_sudden|sudden]] [[a/_attack|attack]], [[e/_especially|especially]] an [[a/_air|air]] [[r/_raid|raid]]; usually with [[r/_reference|reference]] to the [[b/_blitz|Blitz]].**
 - **A swift and [[o/_overwhelming|overwhelming]] [[a/_attack|attack]] or [[e/_effort|effort]].**
 	- _Example: We embarked on a publicity blitz, putting posters and flyers all around town._
 - **A [[p/_play|play]] in which [[a/_additional|additional]] [[d/_defenders|defenders]] [[b/_beyond|beyond]] the [[d/_defensive|defensive]] [[l/_linemen|linemen]] [[r/_rush|rush]] the [[p/_passer|passer]].**
@@ -10,7 +10,7 @@
 ### Synonyms
 - 
 #verb
-- **To [[a/_attack|attack]] [[q/_quickly|quickly]] or suddenly, as by an [[a/_air|air]] [[r/_raid|raid]] or [[s/_similar|similar]] [[a/_action|action]].**
+- **To [[a/_attack|attack]] [[q/_quickly|quickly]] or [[s/_suddenly|suddenly]], as by an [[a/_air|air]] [[r/_raid|raid]] or [[s/_similar|similar]] [[a/_action|action]].**
 - **To [[p/_perform|perform]] a [[b/_blitz|blitz]].**
 	- _Example: The Washington High defense almost always blitzes on third down._
 - **To [[p/_pur|pur]]é[[e/_e|e]] or [[c/_chop|chop]] ([[f/_food|food]] [[p/_products|products]]) using a [[f/_food|food]] [[p/_processor|processor]] or [[b/_blender|blender]].**

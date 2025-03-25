@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_light|light]] [[b/_blow|blow]] or [[j/_jolting|jolting]] [[c/_collision|collision]].**
-- **The [[s/_sound|sound]] of such a [[c/_collision|collision]].**
+- **The [[s/_sound|sound]] of [[s/_such|such]] a [[c/_collision|collision]].**
 - **A [[p/_protuberance|protuberance]] on a [[l/_level|level]] surface.**
 - **A swelling on the [[s/_skin|skin]] [[c/_caused|caused]] by [[i/_illness|illness]] or [[i/_injury|injury]].**
 - **[[o/_one|One]] of the [[p/_protuberances|protuberances]] on the [[c/_cranium|cranium]] which, in [[p/_phrenology|phrenology]], are [[a/_associated|associated]] with [[d/_distinct|distinct]] [[f/_faculties|faculties]] or [[a/_affections|affections]] of the [[m/_mind|mind]]. [[a/_also|Also]] ([[m/_metonymically|metonymically]]) the [[f/_faculty|faculty]] [[i/_itself|itself]]**
@@ -12,7 +12,7 @@
 - **A [[p/_post|post]] in an [[i/_internet|Internet]] [[f/_forum|forum]] thread [[m/_made|made]] in [[o/_order|order]] to [[r/_raise|raise]] the thread'[[s/_s|s]] [[p/_profile|profile]] by [[r/_returning|returning]] it to the top of the [[l/_list|list]] of [[a/_active|active]] threads.**
 - **A temporary [[i/_increase|increase]] in a [[q/_quantity|quantity]], as [[s/_shown|shown]] in a [[g/_graph|graph]].**
 	- _Example: US presidential nominees get a post-convention bump in survey ratings._
-- **A [[d/_dose|dose]] of a [[d/_drug|drug]] such as ketamine or [[c/_cocaine|cocaine]], when [[s/_snorted|snorted]] [[r/_recreationally|recreationally]].**
+- **A [[d/_dose|dose]] of a [[d/_drug|drug]] [[s/_such|such]] as ketamine or [[c/_cocaine|cocaine]], when [[s/_snorted|snorted]] [[r/_recreationally|recreationally]].**
 - **The [[n/_noise|noise]] [[m/_made|made]] by the [[b/_bittern|bittern]]; a [[b/_boom|boom]].**
 - **([[p/_preceded|preceded]] by [[d/_definite|definite]] [[a/_article|article]]) A [[d/_disco|disco]] [[d/_dance|dance]] in which [[p/_partners|partners]] [[r/_rhythmically|rhythmically]] [[b/_bump|bump]] [[e/_each|each]] [[o/_other|other]]'[[s/_s|s]] [[h/_hips|hips]] together.**
 - **In [[s/_skipping|skipping]], a [[s/_single|single]] [[j/_jump|jump]] [[o/_over|over]] two [[c/_consecutive|consecutive]] turns of the [[r/_rope|rope]].**
@@ -26,7 +26,7 @@
 - **To [[m/_move|move]] up or [[d/_down|down]] by a [[s/_step|step]]; [[d/_displace|displace]].**
 	- _Example: I bumped the font size up to make my document easier to read._
 - **To [[p/_post|post]] in an [[i/_internet|Internet]] [[f/_forum|forum]] thread in [[o/_order|order]] to [[r/_raise|raise]] the thread'[[s/_s|s]] [[p/_profile|profile]] by [[r/_returning|returning]] it to the top of the [[l/_list|list]] of [[a/_active|active]] threads.**
-- **(of a superheated [[l/_liquid|liquid]]) To suddenly [[b/_boil|boil]], [[c/_causing|causing]] [[m/_movement|movement]] of the vessel and [[l/_loss|loss]] of [[l/_liquid|liquid]].**
+- **(of a [[s/_superheated|superheated]] [[l/_liquid|liquid]]) To [[s/_suddenly|suddenly]] [[b/_boil|boil]], [[c/_causing|causing]] [[m/_movement|movement]] of the vessel and [[l/_loss|loss]] of [[l/_liquid|liquid]].**
 - **To [[m/_move|move]] (a [[b/_booked|booked]] [[p/_passenger|passenger]]) to a [[l/_later|later]] [[f/_flight|flight]] [[b/_because|because]] of [[e/_earlier|earlier]] [[d/_delays|delays]] or [[c/_cancellations|cancellations]].**
 - **To [[m/_move|move]] the time of (a [[s/_scheduled|scheduled]] [[e/_event|event]]).**
 - **To [[p/_pick|pick]] (a [[l/_lock|lock]]) with a [[r/_repeated|repeated]] [[s/_striking|striking]] [[m/_motion|motion]] that [[d/_dislodges|dislodges]] the [[p/_pins|pins]].**

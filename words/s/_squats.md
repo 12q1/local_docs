@@ -9,7 +9,7 @@
 - **A [[b/_building|building]] [[o/_occupied|occupied]] without [[p/_permission|permission]], as [[p/_practiced|practiced]] by a [[s/_squatter|squatter]].**
 - **A [[p/_place|place]] of [[c/_concealment|concealment]] in which a [[h/_hare|hare]] [[s/_spends|spends]] time when [[i/_inactive|inactive]], [[e/_especially|especially]] [[d/_during|during]] the [[d/_day|day]]; a [[f/_form|form]].**
 - **A toilet used by [[s/_squatting|squatting]] as [[o/_opposed|opposed]] to [[s/_sitting|sitting]]; a [[s/_squat|squat]] toilet.**
-- **A sudden or [[c/_crushing|crushing]] [[f/_fall|fall]].**
+- **A [[s/_sudden|sudden]] or [[c/_crushing|crushing]] [[f/_fall|fall]].**
 - **A [[s/_small|small]] vein of [[o/_ore|ore]].**
 - **A [[m/_mineral|mineral]] [[c/_consisting|consisting]] of tin [[o/_ore|ore]] and [[s/_spar|spar]].**
 ---

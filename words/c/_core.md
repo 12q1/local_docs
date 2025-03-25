@@ -21,7 +21,7 @@
 - **A [[c/_cylindrical|cylindrical]] [[s/_sample|sample]] of [[r/_rock|rock]] or [[o/_other|other]] [[m/_materials|materials]] [[o/_obtained|obtained]] by [[c/_core|core]] [[d/_drilling|drilling]].**
 - **A tiny [[s/_sample|sample]] of [[o/_organic|organic]] [[m/_material|material]] [[o/_obtained|obtained]] by [[m/_means|means]] of a [[f/_fine|fine]]-[[n/_needle|needle]] [[b/_biopsy|biopsy]].**
 - **The [[c/_central|central]] [[p/_part|part]] of a [[p/_protein|protein]] [[s/_structure|structure]] [[c/_consisting|consisting]] in [[m/_mostly|mostly]] [[h/_hydrophobic|hydrophobic]] aminoacids.**
-- **The [[s/_set|set]] of [[f/_feasible|feasible]] [[a/_allocations|allocations]] that [[c/_cannot|cannot]] be [[i/_improved|improved]] upon by a subset (a [[c/_coalition|coalition]]) of the [[e/_economy|economy]]'[[s/_s|s]] [[a/_agents|agents]].**
+- **The [[s/_set|set]] of [[f/_feasible|feasible]] [[a/_allocations|allocations]] that [[c/_cannot|cannot]] be [[i/_improved|improved]] upon by a [[s/_subset|subset]] (a [[c/_coalition|coalition]]) of the [[e/_economy|economy]]'[[s/_s|s]] [[a/_agents|agents]].**
 - **A [[h/_hollow|hollow]] [[c/_cylindrical|cylindrical]] [[p/_piece|piece]] of [[c/_cardboard|cardboard]] [[a/_around|around]] which a web of [[p/_paper|paper]] or [[p/_plastic|plastic]] is winded.**
 - **An [[a/_atomic|atomic]] [[n/_nucleus|nucleus]] [[p/_plus|plus]] [[i/_inner|inner]] [[e/_electrons|electrons]] ([[i/_i|i]].[[e/_e|e]]. [[e/_except|except]] valence [[e/_electrons|electrons]]).**
 ---

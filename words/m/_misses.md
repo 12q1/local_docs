@@ -37,7 +37,7 @@
 	- _Example: You may sit here, Miss Jones._
 - **An unmarried woman; a [[g/_girl|girl]].**
 - **A [[k/_kept|kept]] woman; a [[m/_mistress|mistress]].**
-- **In the [[g/_game|game]] of three-[[c/_card|card]] [[l/_loo|loo]], an [[e/_extra|extra]] [[h/_hand|hand]], [[d/_dealt|dealt]] on the table, which [[m/_may|may]] be substituted for the [[h/_hand|hand]] [[d/_dealt|dealt]] to a [[p/_player|player]].**
+- **In the [[g/_game|game]] of three-[[c/_card|card]] [[l/_loo|loo]], an [[e/_extra|extra]] [[h/_hand|hand]], [[d/_dealt|dealt]] on the table, which [[m/_may|may]] be [[s/_substituted|substituted]] for the [[h/_hand|hand]] [[d/_dealt|dealt]] to a [[p/_player|player]].**
 ---
 #noun
 - **Wife or [[g/_girlfriend|girlfriend]].**

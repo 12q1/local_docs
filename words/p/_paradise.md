@@ -7,7 +7,7 @@
 - **A very [[p/_pleasant|pleasant]] [[p/_place|place]]; a [[p/_place|place]] [[f/_full|full]] of [[l/_lush|lush]] vegetation.**
 	- _Example: an island paradise in the Caribbean; a shoppers’ paradise_
 - **A very [[p/_pleasant|pleasant]] [[e/_experience|experience]].**
-- **An [[o/_open|open]] [[s/_space|space]] within a [[m/_monastery|monastery]] or [[a/_adjoining|adjoining]] a [[c/_church|church]], such as the [[s/_space|space]] within a [[c/_cloister|cloister]], the [[o/_open|open]] [[c/_court|court]] [[b/_before|before]] a [[b/_basilica|basilica]], [[e/_etc|etc]].**
+- **An [[o/_open|open]] [[s/_space|space]] within a [[m/_monastery|monastery]] or [[a/_adjoining|adjoining]] a [[c/_church|church]], [[s/_such|such]] as the [[s/_space|space]] within a [[c/_cloister|cloister]], the [[o/_open|open]] [[c/_court|court]] [[b/_before|before]] a [[b/_basilica|basilica]], [[e/_etc|etc]].**
 - **A [[c/_churchyard|churchyard]] or [[c/_cemetery|cemetery]].**
 - **The upper [[g/_gallery|gallery]] in a theatre.**
 ---

@@ -21,6 +21,6 @@
 - **To be, [[g/_generally|generally]] or on [[a/_average|average]].**
 ---
 #noun
-- **The [[s/_service|service]] that a tenant [[o/_owed|owed]] [[h/_his|his]] [[l/_lord|lord]], to be [[d/_done|done]] by the [[a/_animals|animals]] of the tenant, such as the transportation of wheat, turf, [[e/_etc|etc]].**
+- **The [[s/_service|service]] that a tenant [[o/_owed|owed]] [[h/_his|his]] [[l/_lord|lord]], to be [[d/_done|done]] by the [[a/_animals|animals]] of the tenant, [[s/_such|such]] as the transportation of wheat, turf, [[e/_etc|etc]].**
 ---
 ---

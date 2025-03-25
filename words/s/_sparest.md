@@ -4,7 +4,7 @@
 - **[[s/_scant|Scant]]; not [[a/_abundant|abundant]] or [[p/_plentiful|plentiful]].**
 	- _Example: a spare diet_
 - **[[s/_sparing|Sparing]]; [[f/_frugal|frugal]]; [[p/_parsimonious|parsimonious]]; not [[s/_spending|spending]] [[m/_much|much]] [[m/_money|money]].**
-- **[[b/_being|Being]] [[m/_more|more]] than what is [[n/_necessary|necessary]], or what [[m/_must|must]] be used or [[r/_reserved|reserved]]; not wanted, or not used; superfluous.**
+- **[[b/_being|Being]] [[m/_more|more]] than what is [[n/_necessary|necessary]], or what [[m/_must|must]] be used or [[r/_reserved|reserved]]; not wanted, or not used; [[s/_superfluous|superfluous]].**
 	- _Example: I have no spare time._
 - **[[h/_held|Held]] in [[r/_reserve|reserve]], to be used in an [[e/_emergency|emergency]].**
 	- _Example: a spare anchor; a spare bed or room_

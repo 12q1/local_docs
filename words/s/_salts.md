@@ -1,7 +1,7 @@
 # Salts
 ---
 #noun
-- **A [[c/_common|common]] substance, [[c/_chemically|chemically]] [[c/_consisting|consisting]] [[m/_mainly|mainly]] of [[s/_sodium|sodium]] [[c/_chloride|chloride]] (NaCl), used [[e/_extensively|extensively]] as a [[c/_condiment|condiment]] and [[p/_preservative|preservative]].**
+- **A [[c/_common|common]] [[s/_substance|substance]], [[c/_chemically|chemically]] [[c/_consisting|consisting]] [[m/_mainly|mainly]] of [[s/_sodium|sodium]] [[c/_chloride|chloride]] (NaCl), used [[e/_extensively|extensively]] as a [[c/_condiment|condiment]] and [[p/_preservative|preservative]].**
 - **[[o/_one|One]] of the [[c/_compounds|compounds]] [[f/_formed|formed]] from the [[r/_reaction|reaction]] of an [[a/_acid|acid]] with a [[b/_base|base]], where a [[p/_positive|positive]] [[i/_ion|ion]] [[r/_replaces|replaces]] a [[h/_hydrogen|hydrogen]] of the [[a/_acid|acid]].**
 - **A [[s/_salt|salt]] [[m/_marsh|marsh]], a [[s/_saline|saline]] [[m/_marsh|marsh]] at the [[s/_shore|shore]] of a [[s/_sea|sea]].**
 - **A [[s/_sailor|sailor]] ([[a/_also|also]] [[o/_old|old]] [[s/_salt|salt]]).**

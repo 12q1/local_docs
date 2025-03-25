@@ -12,7 +12,7 @@
 - **[[m/_mockery|Mockery]], [[m/_making|making]] [[f/_fun|fun]]; [[d/_derision|derision]].**
 - **A toy; a [[p/_plaything|plaything]]; an [[o/_object|object]] of [[m/_mockery|mockery]].**
 - **[[g/_gaming|Gaming]] for [[m/_money|money]] as in [[r/_racing|racing]], [[h/_hunting|hunting]], [[f/_fishing|fishing]].**
-- **A [[p/_plant|plant]] or an [[a/_animal|animal]], or [[p/_part|part]] of a [[p/_plant|plant]] or [[a/_animal|animal]], which [[h/_has|has]] [[s/_some|some]] [[p/_peculiarity|peculiarity]] not usually [[s/_seen|seen]] in the [[s/_species|species]]; an [[a/_abnormal|abnormal]] variety or [[g/_growth|growth]]. The term [[e/_encompasses|encompasses]] [[b/_both|both]] [[m/_mutants|mutants]] and [[o/_organisms|organisms]] with [[n/_non|non]]-[[g/_genetic|genetic]] [[d/_developmental|developmental]] [[a/_abnormalities|abnormalities]] such as [[b/_birth|birth]] [[d/_defects|defects]].**
+- **A [[p/_plant|plant]] or an [[a/_animal|animal]], or [[p/_part|part]] of a [[p/_plant|plant]] or [[a/_animal|animal]], which [[h/_has|has]] [[s/_some|some]] [[p/_peculiarity|peculiarity]] not usually [[s/_seen|seen]] in the [[s/_species|species]]; an [[a/_abnormal|abnormal]] variety or [[g/_growth|growth]]. The term [[e/_encompasses|encompasses]] [[b/_both|both]] [[m/_mutants|mutants]] and [[o/_organisms|organisms]] with [[n/_non|non]]-[[g/_genetic|genetic]] [[d/_developmental|developmental]] [[a/_abnormalities|abnormalities]] [[s/_such|such]] as [[b/_birth|birth]] [[d/_defects|defects]].**
 - **A [[s/_sportsman|sportsman]]; a [[g/_gambler|gambler]].**
 - **[[o/_one|One]] who [[c/_consorts|consorts]] with [[d/_disreputable|disreputable]] [[p/_people|people]], [[i/_including|including]] [[p/_prostitutes|prostitutes]].**
 - **An [[a/_amorous|amorous]] [[d/_dalliance|dalliance]].**
@@ -30,7 +30,7 @@
 - **To [[d/_divert|divert]]; to [[a/_amuse|amuse]]; to [[m/_make|make]] [[m/_merry|merry]].**
 - **To [[r/_represent|represent]] by [[a/_any|any]] [[k/_kind|kind]] of [[p/_play|play]].**
 - **To [[p/_practise|practise]] the [[d/_diversions|diversions]] of the [[f/_field|field]] or the turf; to be [[g/_given|given]] to [[b/_betting|betting]], as upon [[r/_races|races]].**
-- **To [[a/_assume|assume]] suddenly a [[n/_new|new]] and [[d/_different|different]] [[c/_character|character]] from the [[r/_rest|rest]] of the [[p/_plant|plant]] or from the type of the [[s/_species|species]]; [[s/_said|said]] of a [[b/_bud|bud]], [[s/_shoot|shoot]], [[p/_plant|plant]], or [[a/_animal|animal]].**
+- **To [[a/_assume|assume]] [[s/_suddenly|suddenly]] a [[n/_new|new]] and [[d/_different|different]] [[c/_character|character]] from the [[r/_rest|rest]] of the [[p/_plant|plant]] or from the type of the [[s/_species|species]]; [[s/_said|said]] of a [[b/_bud|bud]], [[s/_shoot|shoot]], [[p/_plant|plant]], or [[a/_animal|animal]].**
 - **To [[c/_close|close]] (a [[d/_door|door]]).**
 ---
 ---

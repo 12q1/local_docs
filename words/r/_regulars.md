@@ -6,7 +6,7 @@
 	- _Example: Bartenders usually know their regulars by name._
 - **A [[f/_frequent|frequent]] [[c/_customer|customer]], [[c/_client|client]] or [[b/_business|business]] [[p/_partner|partner]].**
 	- _Example: This gentleman was one of the architect's regulars._
-- **A [[c/_coffee|coffee]] with [[o/_one|one]] [[c/_cream|cream]] and [[o/_one|one]] sugar.**
+- **A [[c/_coffee|coffee]] with [[o/_one|one]] [[c/_cream|cream]] and [[o/_one|one]] [[s/_sugar|sugar]].**
 - **[[a/_anything|Anything]] that is [[n/_normal|normal]] or [[s/_standard|standard]].**
 - **A [[m/_member|member]] of a [[r/_religious|religious]] [[o/_order|order]] who [[h/_has|has]] taken the three [[o/_ordinary|ordinary]] vows.**
 - **A [[n/_number|number]] for [[e/_each|each]] [[y/_year|year]], [[g/_giving|giving]], [[a/_added|added]] to the concurrents, the [[n/_number|number]] of the [[d/_day|day]] of the week on which the [[p/_paschal|Paschal]] [[f/_full|full]] [[m/_moon|moon]] [[f/_falls|falls]].**

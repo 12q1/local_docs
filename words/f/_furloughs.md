@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_leave|leave]] of [[a/_absence|absence]] or vacation.**
-- **The [[d/_documents|documents]] [[a/_authorizing|authorizing]] such [[l/_leave|leave]].**
+- **The [[d/_documents|documents]] [[a/_authorizing|authorizing]] [[s/_such|such]] [[l/_leave|leave]].**
 - **A [[p/_period|period]] of unpaid time [[o/_off|off]], used by an [[e/_employer|employer]] to [[r/_reduce|reduce]] [[c/_costs|costs]].**
 ---
 #verb

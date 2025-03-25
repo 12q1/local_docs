@@ -3,7 +3,7 @@
 #noun
 - **[[s/_something|Something]] that [[h/_has|has]] [[i/_issued|issued]], or [[b/_been|been]] [[i/_issued|issued]] [[a/_again|again]].**
 	- _Example: Copies of the original comic are valued by collectors, but the reissues are worthless._
-- **A [[s/_second|second]] or subsequent [[p/_printing|printing]] of [[p/_postage|postage]] [[s/_stamps|stamps]] from [[o/_old|old]] [[p/_plates|plates]].**
+- **A [[s/_second|second]] or [[s/_subsequent|subsequent]] [[p/_printing|printing]] of [[p/_postage|postage]] [[s/_stamps|stamps]] from [[o/_old|old]] [[p/_plates|plates]].**
 ---
 #verb
 - **To [[i/_issue|issue]] [[a/_again|again]].**

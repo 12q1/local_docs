@@ -17,7 +17,7 @@
 	- _Example: You can't do that; it's just not on._
 - **[[d/_destined|Destined]], [[n/_normally|normally]] in the [[c/_context|context]] of a [[c/_challenge|challenge]] [[b/_being|being]] [[a/_accepted|accepted]]; [[i/_involved|involved]], [[d/_doomed|doomed]].**
 	- _Example: "Five bucks says the Cavs win tonight." ―"You're on!"_
-- **[[h/_having|Having]] [[r/_reached|reached]] a [[b/_base|base]] as a [[r/_runner|runner]] and [[b/_being|being]] [[p/_positioned|positioned]] there, [[a/_awaiting|awaiting]] [[f/_further|further]] [[a/_action|action]] from a subsequent [[b/_batter|batter]].**
+- **[[h/_having|Having]] [[r/_reached|reached]] a [[b/_base|base]] as a [[r/_runner|runner]] and [[b/_being|being]] [[p/_positioned|positioned]] there, [[a/_awaiting|awaiting]] [[f/_further|further]] [[a/_action|action]] from a [[s/_subsequent|subsequent]] [[b/_batter|batter]].**
 - **Within the [[h/_half|half]] of the [[f/_field|field]] on the [[s/_same|same]] [[s/_side|side]] as the [[b/_batsman|batsman]]'[[s/_s|s]] [[l/_legs|legs]]; the [[l/_left|left]] [[s/_side|side]] for a [[r/_right|right]]-[[h/_handed|handed]] [[b/_batsman|batsman]].**
 	- _Example: Ponsonby-Smythe hit a thumping on drive._
 - **[[m/_menstruating|Menstruating]].**
@@ -71,7 +71,7 @@
 	- _Example: Can I see you on a different day?_
 - **At a [[g/_given|given]] time [[a/_after|after]] the [[s/_start|start]] of [[s/_something|something]]; at.**
 	- _Example: Smith scored again on twelve minutes, doubling Mudchester Rovers' lead._
-- **[[d/_dealing|Dealing]] with the subject of; [[a/_about|about]]; [[c/_concerning|concerning]].**
+- **[[d/_dealing|Dealing]] with the [[s/_subject|subject]] of; [[a/_about|about]]; [[c/_concerning|concerning]].**
 	- _Example: I have no opinion on this subject._
 - **In the [[p/_possession|possession]] of.**
 	- _Example: I haven't got any money on me._
@@ -87,7 +87,7 @@
 	- _Example: Her words made a lasting impression on my mind._
 - **Toward; for; [[i/_indicating|indicating]] the [[o/_object|object]] of an [[e/_emotion|emotion]].**
 	- _Example: Have pity or compassion on him._
-- **[[i/_indicating|Indicating]] a [[m/_means|means]] of subsistence.**
+- **[[i/_indicating|Indicating]] a [[m/_means|means]] of [[s/_subsistence|subsistence]].**
 	- _Example: The dog survived three weeks on rainwater._
 - **[[a/_away|Away]] or [[o/_occupied|occupied]] with ([[e/_e|e]].[[g/_g|g]]. a [[s/_scheduled|scheduled]] [[a/_activity|activity]]).**
 	- _Example: He's on his lunch break._
@@ -101,7 +101,7 @@
 	- _Example: an operator on_
 - **[[g/_generated|Generated]] by.**
 	- _Example: the free group on four letters_
-- **In [[a/_addition|addition]] to; [[b/_besides|besides]]; [[i/_indicating|indicating]] [[m/_multiplication|multiplication]] or succession in a [[s/_series|series]].**
+- **In [[a/_addition|addition]] to; [[b/_besides|besides]]; [[i/_indicating|indicating]] [[m/_multiplication|multiplication]] or [[s/_succession|succession]] in a [[s/_series|series]].**
 	- _Example: heaps on heaps of food_
 - **Of**
 - **[[i/_indicating|Indicating]] [[d/_dependence|dependence]] or [[r/_reliance|reliance]]; with [[c/_confidence|confidence]] in.**

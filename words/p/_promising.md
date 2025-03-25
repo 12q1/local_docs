@@ -1,7 +1,7 @@
 # Promising
 ---
 #verb
-- **To [[c/_commit|commit]] to ([[s/_some|some]] [[a/_action|action]] or [[o/_outcome|outcome]]), or to [[a/_assure|assure]] (a [[p/_person|person]]) of such [[c/_commitment|commitment]]; to [[m/_make|make]] an [[o/_oath|oath]] or vow.**
+- **To [[c/_commit|commit]] to ([[s/_some|some]] [[a/_action|action]] or [[o/_outcome|outcome]]), or to [[a/_assure|assure]] (a [[p/_person|person]]) of [[s/_such|such]] [[c/_commitment|commitment]]; to [[m/_make|make]] an [[o/_oath|oath]] or vow.**
 	- _Example: He promised to never return to this town again._
 - **To [[g/_give|give]] [[g/_grounds|grounds]] for [[e/_expectation|expectation]], [[e/_especially|especially]] of [[s/_something|something]] [[g/_good|good]].**
 	- _Example: The clouds promise rain._

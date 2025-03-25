@@ -12,7 +12,7 @@
 - **A [[f/_fundamental|fundamental]] [[e/_essence|essence]], [[p/_particularly|particularly]] [[o/_one|one]] [[p/_producing|producing]] a [[g/_given|given]] [[q/_quality|quality]].**
 	- _Example: Many believe that life is the result of some vital principle._
 - **A [[b/_beginning|beginning]].**
-- **A [[s/_source|source]], or [[o/_origin|origin]]; that from which [[a/_anything|anything]] [[p/_proceeds|proceeds]]; [[f/_fundamental|fundamental]] substance or [[e/_energy|energy]]; [[p/_primordial|primordial]] substance; ultimate [[e/_element|element]], or [[c/_cause|cause]].**
+- **A [[s/_source|source]], or [[o/_origin|origin]]; that from which [[a/_anything|anything]] [[p/_proceeds|proceeds]]; [[f/_fundamental|fundamental]] [[s/_substance|substance]] or [[e/_energy|energy]]; [[p/_primordial|primordial]] [[s/_substance|substance]]; ultimate [[e/_element|element]], or [[c/_cause|cause]].**
 - **An [[o/_original|original]] [[f/_faculty|faculty]] or [[e/_endowment|endowment]].**
 ---
 ### Synonyms

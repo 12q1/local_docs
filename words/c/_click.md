@@ -1,7 +1,7 @@
 # Click
 ---
 #noun
-- **A [[b/_brief|brief]], [[s/_sharp|sharp]], not [[p/_particularly|particularly]] [[l/_loud|loud]], [[r/_relatively|relatively]] [[h/_high|high]]-[[p/_pitched|pitched]] [[s/_sound|sound]] [[p/_produced|produced]] by the [[i/_impact|impact]] of [[s/_something|something]] [[s/_small|small]] and [[h/_hard|hard]] [[a/_against|against]] [[s/_something|something]] [[h/_hard|hard]], such as by the [[o/_operation|operation]] of a switch, a [[l/_lock|lock]] or a [[l/_latch|latch]], or a [[f/_finger|finger]] [[p/_pressed|pressed]] [[a/_against|against]] the thumb and then [[r/_released|released]] to [[s/_strike|strike]] the [[h/_hand|hand]].**
+- **A [[b/_brief|brief]], [[s/_sharp|sharp]], not [[p/_particularly|particularly]] [[l/_loud|loud]], [[r/_relatively|relatively]] [[h/_high|high]]-[[p/_pitched|pitched]] [[s/_sound|sound]] [[p/_produced|produced]] by the [[i/_impact|impact]] of [[s/_something|something]] [[s/_small|small]] and [[h/_hard|hard]] [[a/_against|against]] [[s/_something|something]] [[h/_hard|hard]], [[s/_such|such]] as by the [[o/_operation|operation]] of a switch, a [[l/_lock|lock]] or a [[l/_latch|latch]], or a [[f/_finger|finger]] [[p/_pressed|pressed]] [[a/_against|against]] the thumb and then [[r/_released|released]] to [[s/_strike|strike]] the [[h/_hand|hand]].**
 	- _Example: I turned the key, the lock gave a click and the door opened;  a click of one’s fingers_
 - **An [[i/_ingressive|ingressive]] [[s/_sound|sound]] [[m/_made|made]] by coarticulating a velar or uvular [[c/_closure|closure]] with [[a/_another|another]] [[c/_closure|closure]].**
 - **[[s/_sound|Sound]] [[m/_made|made]] by a [[d/_dolphin|dolphin]].**
@@ -19,7 +19,7 @@
 	- _Example: From the home page, click through to the Products section._
 - **To [[e/_emit|emit]] a [[c/_click|click]].**
 	- _Example: He bent his fingers back until the joints clicked._
-- **To [[m/_make|make]] [[s/_sense|sense]] suddenly.**
+- **To [[m/_make|make]] [[s/_sense|sense]] [[s/_suddenly|suddenly]].**
 	- _Example: Then it clicked - I had been going the wrong way all that time._
 - **To [[g/_get|get]] on well.**
 	- _Example: When we met at the party, we just clicked and we’ve been best friends ever since._

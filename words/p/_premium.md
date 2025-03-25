@@ -11,7 +11,7 @@
 ### Antonyms
 - [[d/_discount|discount]]
 #adjective
-- **Superior in [[q/_quality|quality]]; [[h/_higher|higher]] in [[p/_price|price]] or value.**
+- **[[s/_superior|Superior]] in [[q/_quality|quality]]; [[h/_higher|higher]] in [[p/_price|price]] or value.**
 - **[[h/_high|High]]-[[e/_end|end]]; [[b/_belonging|belonging]] to the [[m/_market|market]] [[s/_segment|segment]] [[b/_between|between]] [[m/_mid|mid]]-[[m/_market|market]] and [[l/_luxury|luxury]].**
 ---
 ---

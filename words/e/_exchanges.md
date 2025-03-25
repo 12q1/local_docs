@@ -12,7 +12,7 @@
 	- _Example: After an exchange with the manager, we were no wiser._
 - **The [[l/_loss|loss]] of [[o/_one|one]] [[p/_piece|piece]] and [[a/_associated|associated]] [[c/_capture|capture]] of [[a/_another|another]]**
 - **The thing [[g/_given|given]] or [[r/_received|received]] in [[r/_return|return]]; [[e/_especially|especially]], a [[p/_publication|publication]] [[e/_exchanged|exchanged]] for [[a/_another|another]].**
-- **The transfer of substances or [[e/_elements|elements]] [[l/_like|like]] [[g/_gas|gas]], [[a/_amino|amino]]-[[a/_acids|acids]], [[i/_ions|ions]] [[e/_etc|etc]]. [[s/_sometimes|sometimes]] through a surface [[l/_like|like]] a [[m/_membrane|membrane]].**
+- **The transfer of [[s/_substances|substances]] or [[e/_elements|elements]] [[l/_like|like]] [[g/_gas|gas]], [[a/_amino|amino]]-[[a/_acids|acids]], [[i/_ions|ions]] [[e/_etc|etc]]. [[s/_sometimes|sometimes]] through a surface [[l/_like|like]] a [[m/_membrane|membrane]].**
 - **The [[d/_difference|difference]] [[b/_between|between]] the values of [[m/_money|money]] in [[d/_different|different]] [[p/_places|places]].**
 ---
 ---

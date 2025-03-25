@@ -7,8 +7,8 @@
 	- _Example: She needs to get her priorities straight and stop playing games._
 - **The [[q/_quality|quality]] of [[b/_being|being]] [[e/_earlier|earlier]] or [[c/_coming|coming]] [[f/_first|first]] [[c/_compared|compared]] to [[a/_another|another]] thing; the [[s/_state|state]] of [[b/_being|being]] [[p/_prior|prior]].**
 	- _Example: In bankruptcy law, a business' debt to its employees has priority over its debt to a landlord, so the employees must be paid first._
-- **(of a [[n/_name|name]]) A superior [[c/_claim|claim]] to use by virtue of [[b/_being|being]] validly [[p/_published|published]] at an [[e/_earlier|earlier]] [[d/_date|date]].**
-- **[[p/_precedence|Precedence]]; superior [[r/_rank|rank]].**
+- **(of a [[n/_name|name]]) A [[s/_superior|superior]] [[c/_claim|claim]] to use by virtue of [[b/_being|being]] validly [[p/_published|published]] at an [[e/_earlier|earlier]] [[d/_date|date]].**
+- **[[p/_precedence|Precedence]]; [[s/_superior|superior]] [[r/_rank|rank]].**
 ---
 ### Synonyms
 - [[d/_dignity|dignity]], [[e/_eminence|eminence]], [[s/_seniority|seniority]], [[s/_superiority|superiority]]

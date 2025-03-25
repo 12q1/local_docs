@@ -5,7 +5,7 @@
 - **To [[s/_strike|strike]] violently and [[r/_randomly|randomly]], [[p/_particularly|particularly]]:**
 - **To [[m/_move|move]] [[q/_quickly|quickly]] and violently.**
 - **To [[c/_crack|crack]] a whip with a [[s/_slashing|slashing]] [[m/_motion|motion]].**
-- **To [[c/_clear|clear]] [[l/_land|land]], ([[p/_particularly|particularly]] [[f/_forestry|forestry]]) with violent [[a/_action|action]] such as [[l/_logging|logging]] or [[b/_brushfires|brushfires]] or through [[g/_grazing|grazing]].**
+- **To [[c/_clear|clear]] [[l/_land|land]], ([[p/_particularly|particularly]] [[f/_forestry|forestry]]) with violent [[a/_action|action]] [[s/_such|such]] as [[l/_logging|logging]] or [[b/_brushfires|brushfires]] or through [[g/_grazing|grazing]].**
 	- _Example: The province's traditional slash-and-burn agriculture was only sustainable with a much smaller population._
 - **To write [[s/_slash|slash]] [[f/_fiction|fiction]].**
 ---

@@ -5,7 +5,7 @@
 - **[[d/_direction|Direction]] [[c/_conformable|conformable]] to that of [[a/_another|another]] [[l/_line|line]].**
 - **A [[l/_line|line]] of [[l/_latitude|latitude]].**
 	- _Example: The 31st parallel passes through the center of my town._
-- **An [[a/_arrangement|arrangement]] of [[e/_electrical|electrical]] [[c/_components|components]] such that a [[c/_current|current]] [[f/_flows|flows]] [[a/_along|along]] two or [[m/_more|more]] [[p/_paths|paths]]; [[s/_see|see]] in [[p/_parallel|parallel]].**
+- **An [[a/_arrangement|arrangement]] of [[e/_electrical|electrical]] [[c/_components|components]] [[s/_such|such]] that a [[c/_current|current]] [[f/_flows|flows]] [[a/_along|along]] two or [[m/_more|more]] [[p/_paths|paths]]; [[s/_see|see]] in [[p/_parallel|parallel]].**
 - **[[s/_something|Something]] [[i/_identical|identical]] or [[s/_similar|similar]] in [[e/_essential|essential]] [[r/_respects|respects]].**
 - **A [[c/_comparison|comparison]] [[m/_made|made]]; [[e/_elaborate|elaborate]] tracing of [[s/_similarity|similarity]].**
 	- _Example: Johnson's parallel between Dryden and Pope_

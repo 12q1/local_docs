@@ -36,7 +36,7 @@
 ---
 #noun
 - **[[s/_soft|Soft]], [[f/_fluffy|fluffy]] [[i/_immature|immature]] [[f/_feathers|feathers]] which [[g/_grow|grow]] on [[y/_young|young]] [[b/_birds|birds]]. Used as [[i/_insulating|insulating]] [[m/_material|material]] in duvets, [[s/_sleeping|sleeping]] [[b/_bags|bags]] and [[j/_jackets|jackets]].**
-- **The [[p/_pubescence|pubescence]] of [[p/_plants|plants]]; the [[h/_hairy|hairy]] [[c/_crown|crown]] or [[e/_envelope|envelope]] of the [[s/_seeds|seeds]] of [[c/_certain|certain]] [[p/_plants|plants]], such as the thistle.**
+- **The [[p/_pubescence|pubescence]] of [[p/_plants|plants]]; the [[h/_hairy|hairy]] [[c/_crown|crown]] or [[e/_envelope|envelope]] of the [[s/_seeds|seeds]] of [[c/_certain|certain]] [[p/_plants|plants]], [[s/_such|such]] as the thistle.**
 - **The [[s/_soft|soft]] [[h/_hair|hair]] of the [[f/_face|face]] when [[b/_beginning|beginning]] to [[a/_appear|appear]].**
 - **That which is [[m/_made|made]] of [[d/_down|down]], as a [[b/_bed|bed]] or [[p/_pillow|pillow]]; that which [[a/_affords|affords]] [[e/_ease|ease]] and [[r/_repose|repose]], [[l/_like|like]] a [[b/_bed|bed]] of [[d/_down|down]].**
 ---

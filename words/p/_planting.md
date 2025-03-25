@@ -1,7 +1,7 @@
 # Planting
 ---
 #verb
-- **To [[p/_place|place]] (a [[s/_seed|seed]] or [[p/_plant|plant]]) in [[s/_soil|soil]] or [[o/_other|other]] substrate in [[o/_order|order]] that it [[m/_may|may]] [[l/_live|live]] and [[g/_grow|grow]].**
+- **To [[p/_place|place]] (a [[s/_seed|seed]] or [[p/_plant|plant]]) in [[s/_soil|soil]] or [[o/_other|other]] [[s/_substrate|substrate]] in [[o/_order|order]] that it [[m/_may|may]] [[l/_live|live]] and [[g/_grow|grow]].**
 - **To [[p/_place|place]] (an [[o/_object|object]], or [[s/_sometimes|sometimes]] a [[p/_person|person]]), [[o/_often|often]] with the [[i/_implication|implication]] of [[i/_intending|intending]] [[d/_deceit|deceit]].**
 	- _Example: That gun's not mine! It was planted there by the real murderer!_
 - **To [[p/_place|place]] or [[s/_set|set]] [[s/_something|something]] [[f/_firmly|firmly]] or with [[c/_conviction|conviction]].**

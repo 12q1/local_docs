@@ -1,8 +1,8 @@
 # Gag
 ---
 #noun
-- **A [[d/_device|device]] to [[r/_restrain|restrain]] [[s/_speech|speech]], such as a [[r/_rag|rag]] in the [[m/_mouth|mouth]] [[s/_secured|secured]] with tape or a [[r/_rubber|rubber]] [[b/_ball|ball]] threaded [[o/_onto|onto]] a [[c/_cord|cord]] or [[s/_strap|strap]].**
-- **An [[o/_order|order]] or [[r/_rule|rule]] [[f/_forbidding|forbidding]] [[d/_discussion|discussion]] of a [[c/_case|case]] or subject.**
+- **A [[d/_device|device]] to [[r/_restrain|restrain]] [[s/_speech|speech]], [[s/_such|such]] as a [[r/_rag|rag]] in the [[m/_mouth|mouth]] [[s/_secured|secured]] with tape or a [[r/_rubber|rubber]] [[b/_ball|ball]] threaded [[o/_onto|onto]] a [[c/_cord|cord]] or [[s/_strap|strap]].**
+- **An [[o/_order|order]] or [[r/_rule|rule]] [[f/_forbidding|forbidding]] [[d/_discussion|discussion]] of a [[c/_case|case]] or [[s/_subject|subject]].**
 - **A [[j/_joke|joke]] or [[o/_other|other]] [[m/_mischievous|mischievous]] [[p/_prank|prank]].**
 - **A [[d/_device|device]] or trick used to [[c/_create|create]] a [[p/_practical|practical]] [[e/_effect|effect]]; a [[g/_gimmick|gimmick]]**
 - **A [[c/_convulsion|convulsion]] of the upper [[d/_digestive|digestive]] tract.**

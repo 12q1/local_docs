@@ -19,7 +19,7 @@
 ---
 #noun
 - **A thick washer or [[h/_hollow|hollow]] [[c/_cylinder|cylinder]] of [[m/_metal|metal]].**
-- **A [[m/_mechanical|mechanical]] [[a/_attachment|attachment]], usually a [[m/_metallic|metallic]] [[s/_socket|socket]] with a [[s/_screw|screw]] thread, such as the [[m/_mechanism|mechanism]] by which a [[c/_camera|camera]] is [[a/_attached|attached]] to a tripod [[s/_stand|stand]].**
+- **A [[m/_mechanical|mechanical]] [[a/_attachment|attachment]], usually a [[m/_metallic|metallic]] [[s/_socket|socket]] with a [[s/_screw|screw]] thread, [[s/_such|such]] as the [[m/_mechanism|mechanism]] by which a [[c/_camera|camera]] is [[a/_attached|attached]] to a tripod [[s/_stand|stand]].**
 - **A [[p/_piece|piece]] of [[c/_copper|copper]], [[s/_screwed|screwed]] [[i/_into|into]] a [[g/_gun|gun]], through which the venthole is [[b/_bored|bored]].**
 ---
 ### Synonyms

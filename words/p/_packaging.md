@@ -8,7 +8,7 @@
 #noun
 - **The [[a/_act|act]] of [[p/_packing|packing]] [[s/_something|something]].**
 - **The [[m/_materials|materials]] used to [[p/_pack|pack]] [[s/_something|something]].**
-- **The [[i/_industry|industry]] that [[p/_produces|produces]] such [[m/_material|material]].**
+- **The [[i/_industry|industry]] that [[p/_produces|produces]] [[s/_such|such]] [[m/_material|material]].**
 - **(by [[e/_extension|extension]]) The [[m/_manner|manner]] in which a [[p/_person|person]] or [[p/_product|product]] is [[p/_promoted|promoted]].**
 ---
 ---

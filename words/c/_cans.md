@@ -3,7 +3,7 @@
 #noun
 - **A [[m/_more|more]] or [[l/_less|less]] [[c/_cylindrical|cylindrical]] vessel for [[l/_liquids|liquids]], usually of [[s/_steel|steel]] or [[a/_aluminium|aluminium]], but [[s/_sometimes|sometimes]] of [[p/_plastic|plastic]], and with a [[c/_carrying|carrying]] [[h/_handle|handle]] [[o/_over|over]] the top.**
 - **A [[c/_container|container]] used to [[c/_carry|carry]] and [[d/_dispense|dispense]] water for [[p/_plants|plants]] (a watering [[c/_can|can]]).**
-- **A tin-[[p/_plate|plate]] [[c/_canister|canister]], [[o/_often|often]] [[c/_cylindrical|cylindrical]], for [[p/_preserved|preserved]] [[f/_foods|foods]] such as [[f/_fruit|fruit]], [[m/_meat|meat]], or [[f/_fish|fish]].**
+- **A tin-[[p/_plate|plate]] [[c/_canister|canister]], [[o/_often|often]] [[c/_cylindrical|cylindrical]], for [[p/_preserved|preserved]] [[f/_foods|foods]] [[s/_such|such]] as [[f/_fruit|fruit]], [[m/_meat|meat]], or [[f/_fish|fish]].**
 - **A [[c/_chamber|chamber]] [[p/_pot|pot]], [[n/_now|now]] a toilet or [[l/_lavatory|lavatory]].**
 	- _Example: Bob's in the can. You can wait a few minutes or just leave it with me._
 - **[[b/_buttocks|Buttocks]].**

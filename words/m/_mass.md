@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[p/_physical|physical]]) [[m/_matter|Matter]], [[m/_material|material]].**
-- **A [[l/_large|large]] [[q/_quantity|quantity]]; a sum.**
+- **A [[l/_large|large]] [[q/_quantity|quantity]]; a [[s/_sum|sum]].**
 ---
 #verb
 - **To [[f/_form|form]] or [[c/_collect|collect]] [[i/_into|into]] a [[m/_mass|mass]]; to [[f/_form|form]] [[i/_into|into]] a [[c/_collective|collective]] [[b/_body|body]]; to [[b/_bring|bring]] together [[i/_into|into]] [[m/_masses|masses]]; to [[a/_assemble|assemble]].**

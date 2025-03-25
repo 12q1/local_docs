@@ -17,7 +17,7 @@
 	- _Example: My watch is four minutes behind._
 - **[[e/_existing|Existing]] [[a/_afterwards|afterwards]]**
 	- _Example: He left behind a legacy of death and sorrow._
-- **[[b/_backward|Backward]] in time or [[o/_order|order]] of succession; [[p/_past|past]].**
+- **[[b/_backward|Backward]] in time or [[o/_order|order]] of [[s/_succession|succession]]; [[p/_past|past]].**
 - **[[b/_behind|Behind]] the [[s/_scenes|scenes]] in a theatre; [[b/_backstage|backstage]].**
 - **Not [[y/_yet|yet]] [[b/_brought|brought]] [[f/_forward|forward]], [[p/_produced|produced]], or [[e/_exhibited|exhibited]] to view; [[o/_out|out]] of [[s/_sight|sight]]; [[r/_remaining|remaining]].**
 ---

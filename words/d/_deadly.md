@@ -1,7 +1,7 @@
 # Deadly
 ---
 #adjective
-- **Subject to [[d/_death|death]]; [[m/_mortal|mortal]].**
+- **[[s/_subject|Subject]] to [[d/_death|death]]; [[m/_mortal|mortal]].**
 - **[[c/_causing|Causing]] [[d/_death|death]]; [[l/_lethal|lethal]].**
 - **[[a/_aiming|Aiming]] or willing to [[d/_destroy|destroy]]; [[i/_implacable|implacable]]; [[d/_desperately|desperately]] [[h/_hostile|hostile]].**
 	- _Example: deadly enemies_
@@ -11,7 +11,7 @@
 ---
 #adverb
 - **[[f/_fatally|Fatally]], [[m/_mortally|mortally]].**
-- **In a way which suggests [[d/_death|death]].**
+- **In a way which [[s/_suggests|suggests]] [[d/_death|death]].**
 	- _Example: Her face suddenly became deadly white._
 - **[[e/_extremely|Extremely]].**
 ---

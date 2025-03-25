@@ -7,7 +7,7 @@
 - **To [[s/_stop|stop]], [[c/_check|check]], [[b/_block|block]].**
 - **To [[s/_stop|stop]] [[s/_short|short]] and [[r/_refuse|refuse]] to [[g/_go|go]] on.**
 	- _Example: The horse balked._
-- **To [[r/_refuse|refuse]] suddenly.**
+- **To [[r/_refuse|refuse]] [[s/_suddenly|suddenly]].**
 - **To [[d/_disappoint|disappoint]]; to [[f/_frustrate|frustrate]].**
 	- _Example: to balk expectation_
 - **To [[e/_engage|engage]] in [[c/_contradiction|contradiction]]; to be in [[o/_opposition|opposition]].**

@@ -29,7 +29,7 @@
 	- _Example: an outside estimate_
 - **[[p/_positioned|Positioned]] towards the [[c/_central|central]] [[d/_division|division]] of a [[r/_road|road]]: towards the [[r/_right|right]]-[[h/_hand|hand]] [[s/_side|side]] [[i/_if|if]] [[o/_one|one]] [[d/_drives|drives]] on the [[l/_left|left]], or [[l/_left|left]]-[[h/_hand|hand]] [[s/_side|side]] [[i/_if|if]] [[o/_one|one]] [[d/_drives|drives]] on the [[r/_right|right]].**
 	- _Example: the outside lane of the motorway_
-- **(of a [[p/_person|person]]) Not [[l/_legally|legally]] [[m/_married|married]] to or [[r/_related|related]] to ([[e/_e|e]].[[g/_g|g]]. not [[b/_born|born]] in wedlock to), and/or not [[r/_residing|residing]] with, a [[s/_specified|specified]] [[o/_other|other]] [[p/_person|person]] ([[p/_parent|parent]], [[c/_child|child]], or [[p/_partner|partner]]); (of a [[m/_marriage|marriage]], [[r/_relationship|relationship]], [[e/_etc|etc]]) [[e/_existing|existing]] [[b/_between|between]] two such [[p/_people|people]]. ([[c/_compare|Compare]] [[o/_out|out]] of wedlock, [[n/_nonresidential|nonresidential]].)**
+- **(of a [[p/_person|person]]) Not [[l/_legally|legally]] [[m/_married|married]] to or [[r/_related|related]] to ([[e/_e|e]].[[g/_g|g]]. not [[b/_born|born]] in wedlock to), and/or not [[r/_residing|residing]] with, a [[s/_specified|specified]] [[o/_other|other]] [[p/_person|person]] ([[p/_parent|parent]], [[c/_child|child]], or [[p/_partner|partner]]); (of a [[m/_marriage|marriage]], [[r/_relationship|relationship]], [[e/_etc|etc]]) [[e/_existing|existing]] [[b/_between|between]] two [[s/_such|such]] [[p/_people|people]]. ([[c/_compare|Compare]] [[o/_out|out]] of wedlock, [[n/_nonresidential|nonresidential]].)**
 ---
 ### Antonyms
 - [[i/_inside|inside]]
@@ -40,7 +40,7 @@
 	- _Example: I slept outside last night._
 ---
 #preposition
-- **On the [[o/_outside|outside]] of, not [[i/_inside|inside]] ([[s/_something|something]], such as a [[b/_building|building]]).**
+- **On the [[o/_outside|outside]] of, not [[i/_inside|inside]] ([[s/_something|something]], [[s/_such|such]] as a [[b/_building|building]]).**
 - **[[b/_beyond|Beyond]] the [[s/_scope|scope]], [[l/_limits|limits]] or [[b/_borders|borders]] of.**
 	- _Example: tourists from outside the country_
 - **[[n/_near|Near]], but not in.**

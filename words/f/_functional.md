@@ -12,7 +12,7 @@
 - **[[o/_only|Only]] for [[f/_functional|functional]] [[p/_purposes|purposes]], [[n/_notably|notably]] in [[a/_architecture|architecture]]**
 	- _Example: A functional construction element generally must meet higher technical but lower aesthetical requirements_
 - **[[h/_having|Having]] [[s/_semantics|semantics]] [[d/_defined|defined]] [[p/_purely|purely]] in terms of [[m/_mathematical|mathematical]] [[f/_functions|functions]], without [[s/_side|side]]-[[e/_effects|effects]].**
-- **Of a [[d/_disease|disease]], such that [[i/_its|its]] [[s/_symptoms|symptoms]] [[c/_cannot|cannot]] be [[r/_referred|referred]] to [[a/_any|any]] [[a/_appreciable|appreciable]] [[l/_lesion|lesion]] or [[c/_change|change]] of [[s/_structure|structure]]; [[o/_opposed|opposed]] to [[o/_organic|organic]] [[d/_disease|disease]], in which the [[o/_organ|organ]] [[i/_itself|itself]] is [[a/_affected|affected]].**
+- **Of a [[d/_disease|disease]], [[s/_such|such]] that [[i/_its|its]] [[s/_symptoms|symptoms]] [[c/_cannot|cannot]] be [[r/_referred|referred]] to [[a/_any|any]] [[a/_appreciable|appreciable]] [[l/_lesion|lesion]] or [[c/_change|change]] of [[s/_structure|structure]]; [[o/_opposed|opposed]] to [[o/_organic|organic]] [[d/_disease|disease]], in which the [[o/_organ|organ]] [[i/_itself|itself]] is [[a/_affected|affected]].**
 ---
 ### Synonyms
 - [[f/_functioning|functioning]], [[w/_working|working]], [[u/_utilitarian|utilitarian]]

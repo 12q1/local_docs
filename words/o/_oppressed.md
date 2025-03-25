@@ -8,6 +8,6 @@
 - **[[p/_physically|Physically]] to [[p/_press|press]] [[d/_down|down]] on ([[s/_someone|someone]]) with [[h/_harmful|harmful]] [[e/_effects|effects]]; to [[s/_smother|smother]], [[c/_crush|crush]].**
 ---
 #adjective
-- **Subject to [[o/_oppression|oppression]].**
+- **[[s/_subject|Subject]] to [[o/_oppression|oppression]].**
 ---
 ---

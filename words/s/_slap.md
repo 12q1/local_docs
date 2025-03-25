@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[b/_blow|blow]], [[e/_especially|especially]] [[o/_one|one]] [[g/_given|given]] with the [[o/_open|open]] [[h/_hand|hand]], or with [[s/_something|something]] [[b/_broad|broad]] and [[f/_flat|flat]].**
-- **The [[s/_sound|sound]] of such a [[b/_blow|blow]].**
+- **The [[s/_sound|sound]] of [[s/_such|such]] a [[b/_blow|blow]].**
 - **[[m/_makeup|Makeup]]; [[c/_cosmetics|cosmetics]].**
 ---
 #verb

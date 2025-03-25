@@ -1,7 +1,7 @@
 # Prawn
 ---
 #noun
-- **A [[c/_crustacean|crustacean]] of the suborder Dendrobranchiata.**
+- **A [[c/_crustacean|crustacean]] of the [[s/_suborder|suborder]] Dendrobranchiata.**
 - **A [[c/_crustacean|crustacean]] [[s/_sometimes|sometimes]] [[c/_confused|confused]] with [[s/_shrimp|shrimp]].**
 - **A woman with a very toned [[b/_body|body]], but an unattractive [[f/_face|face]].**
 	- _Example: She's a prawn!_

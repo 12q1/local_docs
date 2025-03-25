@@ -1,7 +1,7 @@
 # Octopus
 ---
 #noun
-- **[[a/_any|Any]] of [[s/_several|several]] [[m/_marine|marine]] [[m/_molluscs|molluscs]] of the [[f/_family|family]] Octopodidae, [[h/_having|having]] [[n/_no|no]] [[i/_internal|internal]] or [[e/_external|external]] [[p/_protective|protective]] [[s/_shell|shell]] or [[b/_bone|bone]] (unlike the [[n/_nautilus|nautilus]], [[s/_squid|squid]] and [[c/_cuttlefish|cuttlefish]]) and [[e/_eight|eight]] [[a/_arms|arms]] [[e/_each|each]] [[c/_covered|covered]] with suckers.**
+- **[[a/_any|Any]] of [[s/_several|several]] [[m/_marine|marine]] [[m/_molluscs|molluscs]] of the [[f/_family|family]] Octopodidae, [[h/_having|having]] [[n/_no|no]] [[i/_internal|internal]] or [[e/_external|external]] [[p/_protective|protective]] [[s/_shell|shell]] or [[b/_bone|bone]] (unlike the [[n/_nautilus|nautilus]], [[s/_squid|squid]] and [[c/_cuttlefish|cuttlefish]]) and [[e/_eight|eight]] [[a/_arms|arms]] [[e/_each|each]] [[c/_covered|covered]] with [[s/_suckers|suckers]].**
 - **The [[f/_flesh|flesh]] of these [[m/_marine|marine]] [[m/_molluscs|molluscs]] [[e/_eaten|eaten]] as [[f/_food|food]].**
 - **An [[o/_organization|organization]] that [[h/_has|has]] [[m/_many|many]] [[p/_powerful|powerful]] [[b/_branches|branches]] [[c/_controlled|controlled]] from the [[c/_centre|centre]].**
 ---

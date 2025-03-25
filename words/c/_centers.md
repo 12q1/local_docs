@@ -6,7 +6,7 @@
 - **The [[m/_middle|middle]] [[p/_portion|portion]] of [[s/_something|something]]; the [[p/_part|part]] well [[a/_away|away]] from the [[e/_edges|edges]].**
 - **The [[p/_point|point]] on a [[l/_line|line]] that is [[m/_midway|midway]] [[b/_between|between]] the [[e/_ends|ends]].**
 - **The [[p/_point|point]] in the [[i/_interior|interior]] of [[a/_any|any]] [[f/_figure|figure]] of [[a/_any|any]] [[n/_number|number]] of [[d/_dimensions|dimensions]] that [[h/_has|has]] as [[i/_its|its]] [[c/_coordinates|coordinates]] the [[a/_arithmetic|arithmetic]] [[m/_mean|mean]] of the [[c/_coordinates|coordinates]] of [[a/_all|all]] [[p/_points|points]] on the [[p/_perimeter|perimeter]] of the [[f/_figure|figure]] (or of [[a/_all|all]] [[p/_points|points]] in the [[i/_interior|interior]] for a [[c/_center|center]] of volume).**
-- **The subgroup ([[r/_respectively|respectively]], subring), [[d/_denoted|denoted]] Z([[g/_g|G]]), of those [[e/_elements|elements]] of a [[g/_given|given]] [[g/_group|group]] ([[r/_respectively|respectively]], [[r/_ring|ring]]) [[g/_g|G]] that [[c/_commute|commute]] with [[e/_every|every]] [[e/_element|element]] of [[g/_g|G]].**
+- **The [[s/_subgroup|subgroup]] ([[r/_respectively|respectively]], [[s/_subring|subring]]), [[d/_denoted|denoted]] Z([[g/_g|G]]), of those [[e/_elements|elements]] of a [[g/_given|given]] [[g/_group|group]] ([[r/_respectively|respectively]], [[r/_ring|ring]]) [[g/_g|G]] that [[c/_commute|commute]] with [[e/_every|every]] [[e/_element|element]] of [[g/_g|G]].**
 - **A [[p/_place|place]] where the [[g/_greater|greater]] [[p/_part|part]] of [[s/_some|some]] [[f/_function|function]] or [[a/_activity|activity]] [[o/_occurs|occurs]].**
 	- _Example: shopping center, convention center, civic center, garment center, Lincoln Center for the Performing Arts, Rockefeller Center_
 - **A topic that is [[p/_particularly|particularly]] [[i/_important|important]] in a [[g/_given|given]] [[c/_context|context]].**
@@ -27,7 +27,7 @@
 #verb
 - **To [[c/_cause|cause]] (an [[o/_object|object]]) to [[o/_occupy|occupy]] the [[c/_center|center]] of an [[a/_area|area]].**
 	- _Example: He centered the heading of the document._
-- **To [[c/_cause|cause]] ([[s/_some|some]] [[a/_attribute|attribute]], such as a [[m/_mood|mood]] or voltage) to be [[a/_adjusted|adjusted]] to a value which is [[m/_midway|midway]] [[b/_between|between]] the [[e/_extremes|extremes]].**
+- **To [[c/_cause|cause]] ([[s/_some|some]] [[a/_attribute|attribute]], [[s/_such|such]] as a [[m/_mood|mood]] or voltage) to be [[a/_adjusted|adjusted]] to a value which is [[m/_midway|midway]] [[b/_between|between]] the [[e/_extremes|extremes]].**
 - **To [[g/_give|give]] ([[s/_something|something]]) a [[c/_central|central]] [[b/_basis|basis]].**
 - **To [[c/_concentrate|concentrate]] on ([[s/_something|something]]), to [[p/_pay|pay]] [[c/_close|close]] [[a/_attention|attention]] to ([[s/_something|something]]).**
 	- _Example: The discussion centered around the recent issues._

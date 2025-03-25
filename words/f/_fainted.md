@@ -1,7 +1,7 @@
 # Fainted
 ---
 #verb
-- **To [[l/_lose|lose]] [[c/_consciousness|consciousness]] through a [[l/_lack|lack]] of [[o/_oxygen|oxygen]] or [[n/_nutrients|nutrients]] to the [[b/_brain|brain]], usually as a [[r/_result|result]] of suddenly [[r/_reduced|reduced]] [[b/_blood|blood]] [[f/_flow|flow]] ([[m/_may|may]] be [[c/_caused|caused]] by [[e/_emotional|emotional]] trauma, [[l/_loss|loss]] of [[b/_blood|blood]] or various [[m/_medical|medical]] [[c/_conditions|conditions]]).**
+- **To [[l/_lose|lose]] [[c/_consciousness|consciousness]] through a [[l/_lack|lack]] of [[o/_oxygen|oxygen]] or [[n/_nutrients|nutrients]] to the [[b/_brain|brain]], usually as a [[r/_result|result]] of [[s/_suddenly|suddenly]] [[r/_reduced|reduced]] [[b/_blood|blood]] [[f/_flow|flow]] ([[m/_may|may]] be [[c/_caused|caused]] by [[e/_emotional|emotional]] trauma, [[l/_loss|loss]] of [[b/_blood|blood]] or various [[m/_medical|medical]] [[c/_conditions|conditions]]).**
 - **To [[s/_sink|sink]] [[i/_into|into]] [[d/_dejection|dejection]]; to [[l/_lose|lose]] [[c/_courage|courage]] or [[s/_spirit|spirit]]; to [[b/_become|become]] [[d/_depressed|depressed]] or [[d/_despondent|despondent]].**
 - **To [[d/_decay|decay]]; to [[d/_disappear|disappear]]; to vanish.**
 ---

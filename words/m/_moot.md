@@ -9,7 +9,7 @@
 - **A [[r/_ring|ring]] for [[g/_gauging|gauging]] wooden [[p/_pins|pins]].**
 ---
 #adjective
-- **Subject to [[d/_discussion|discussion]] ([[o/_originally|originally]] at a [[m/_moot|moot]]); [[a/_arguable|arguable]], [[d/_debatable|debatable]], unsolved or [[i/_impossible|impossible]] to [[s/_solve|solve]].**
+- **[[s/_subject|Subject]] to [[d/_discussion|discussion]] ([[o/_originally|originally]] at a [[m/_moot|moot]]); [[a/_arguable|arguable]], [[d/_debatable|debatable]], unsolved or [[i/_impossible|impossible]] to [[s/_solve|solve]].**
 	- _Example: 1903, Walter Crane and Lewis F. Day, Moot Points: Friendly Disputes on Art and Industry Between Walter Crane and Lewis F. Day_
 - **[[b/_being|Being]] an [[e/_exercise|exercise]] of thought; [[a/_academic|academic]].**
 - **[[h/_having|Having]] [[n/_no|no]] [[p/_practical|practical]] [[i/_impact|impact]] or [[r/_relevance|relevance]].**

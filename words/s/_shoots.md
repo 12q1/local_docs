@@ -15,10 +15,10 @@
 ---
 #verb
 - **To [[l/_launch|launch]] a [[p/_projectile|projectile]].**
-- **To [[m/_move|move]] or [[a/_act|act]] [[q/_quickly|quickly]] or suddenly.**
+- **To [[m/_move|move]] or [[a/_act|act]] [[q/_quickly|quickly]] or [[s/_suddenly|suddenly]].**
 - **To [[a/_act|act]] or [[a/_achieve|achieve]].**
 - **To [[m/_measure|measure]] the [[d/_distance|distance]] and [[d/_direction|direction]] to (a [[p/_point|point]]).**
-- **To [[i/_inject|inject]] a [[d/_drug|drug]] (such as [[h/_heroin|heroin]]) [[i/_intravenously|intravenously]].**
+- **To [[i/_inject|inject]] a [[d/_drug|drug]] ([[s/_such|such]] as [[h/_heroin|heroin]]) [[i/_intravenously|intravenously]].**
 - **To [[d/_develop|develop]], [[m/_move|move]] [[f/_forward|forward]].**
 - **To [[p/_protrude|protrude]]; to [[j/_jut|jut]]; to [[p/_project|project]]; to [[e/_extend|extend]].**
 	- _Example: The land shoots into a promontory._

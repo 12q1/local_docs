@@ -10,7 +10,7 @@
 - **A [[c/_characteristic|characteristic]] of a [[p/_person|person]], [[g/_group|group]] or [[c/_company|company]] [[e/_etc|etc]]., [[s/_style|style]], [[m/_manner|manner]] of [[d/_dress|dress]], [[h/_how|how]] [[o/_one|one]] is, or wishes to be, [[p/_perceived|perceived]] by [[o/_others|others]].**
 - **[[s/_something|Something]] [[m/_mapped|mapped]] to by a [[f/_function|function]].**
 	- _Example: The number 6 is the image of 3 under f that is defined as f(x) = 2x._
-- **The subset of a [[c/_codomain|codomain]] [[c/_comprising|comprising]] those [[e/_elements|elements]] that are [[i/_images|images]] of [[s/_something|something]].**
+- **The [[s/_subset|subset]] of a [[c/_codomain|codomain]] [[c/_comprising|comprising]] those [[e/_elements|elements]] that are [[i/_images|images]] of [[s/_something|something]].**
 - **A [[f/_form|form]] of [[i/_interference|interference]]: a weaker "[[c/_copy|copy]]" of a [[s/_strong|strong]] [[s/_signal|signal]] that [[o/_occurs|occurs]] at a [[d/_different|different]] [[f/_frequency|frequency]].**
 - **[[s/_show|Show]]; [[a/_appearance|appearance]]; [[c/_cast|cast]].**
 ---

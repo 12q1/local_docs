@@ -14,7 +14,7 @@
 - **(with of) [[l/_lacking|Lacking]] ([[s/_something|something]]).**
 - **[[l/_lawful|Lawful]]; [[p/_permitted|permitted]].**
 	- _Example: an innocent trade_
-- **Not [[c/_contraband|contraband]]; not subject to [[f/_forfeiture|forfeiture]].**
+- **Not [[c/_contraband|contraband]]; not [[s/_subject|subject]] to [[f/_forfeiture|forfeiture]].**
 	- _Example: innocent goods carried to a belligerent nation_
 ---
 ### Synonyms

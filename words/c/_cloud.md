@@ -3,7 +3,7 @@
 #noun
 - **A [[r/_rock|rock]]; [[b/_boulder|boulder]]; a [[h/_hill|hill]].**
 - **A visible [[m/_mass|mass]] of water [[d/_droplets|droplets]] suspended in the [[a/_air|air]].**
-- **[[a/_any|Any]] [[m/_mass|mass]] of [[d/_dust|dust]], [[s/_steam|steam]] or [[s/_smoke|smoke]] [[r/_resembling|resembling]] such a [[m/_mass|mass]].**
+- **[[a/_any|Any]] [[m/_mass|mass]] of [[d/_dust|dust]], [[s/_steam|steam]] or [[s/_smoke|smoke]] [[r/_resembling|resembling]] [[s/_such|such]] a [[m/_mass|mass]].**
 - **[[a/_anything|Anything]] which [[m/_makes|makes]] things [[f/_foggy|foggy]] or [[g/_gloomy|gloomy]].**
 - **[[a/_anything|Anything]] unsubstantial.**
 - **A [[d/_dark|dark]] [[s/_spot|spot]] on a [[l/_lighter|lighter]] [[m/_material|material]] or [[b/_background|background]].**
@@ -25,8 +25,8 @@
 	- _Example: All this talk about human rights is clouding the real issue._
 - **To [[m/_make|make]] [[l/_less|less]] [[a/_acute|acute]] or [[p/_perceptive|perceptive]].**
 	- _Example: The tears began to well up and cloud my vision._
-- **To [[m/_make|make]] [[g/_gloomy|gloomy]] or sullen.**
-- **To [[b/_blacken|blacken]]; to sully; to [[s/_stain|stain]]; to tarnish ([[r/_reputation|reputation]] or [[c/_character|character]]).**
+- **To [[m/_make|make]] [[g/_gloomy|gloomy]] or [[s/_sullen|sullen]].**
+- **To [[b/_blacken|blacken]]; to [[s/_sully|sully]]; to [[s/_stain|stain]]; to tarnish ([[r/_reputation|reputation]] or [[c/_character|character]]).**
 - **To [[m/_mark|mark]] with, or [[d/_darken|darken]] in, veins or [[s/_sports|sports]]; to variegate with [[c/_colors|colors]].**
 	- _Example: to cloud yarn_
 - **To [[b/_become|become]] [[m/_marked|marked]], [[d/_darkened|darkened]] or variegated in this way.**

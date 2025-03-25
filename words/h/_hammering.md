@@ -22,7 +22,7 @@
 #noun
 - **A [[p/_period|period]] of [[b/_being|being]] [[b/_beaten|beaten]] or [[h/_hammered|hammered]].**
 	- _Example: Hearing a hammering on the door, I ran downstairs to open it._
-- **A [[d/_dented|dented]] [[a/_appearance|appearance]] on [[s/_silverware|silverware]], [[p/_produced|produced]] by successive [[b/_blows|blows]] of a [[h/_hammer|hammer]].**
+- **A [[d/_dented|dented]] [[a/_appearance|appearance]] on [[s/_silverware|silverware]], [[p/_produced|produced]] by [[s/_successive|successive]] [[b/_blows|blows]] of a [[h/_hammer|hammer]].**
 - **A [[h/_heavy|heavy]] [[d/_defeat|defeat]].**
 ---
 ---

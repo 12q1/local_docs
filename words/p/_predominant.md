@@ -1,7 +1,7 @@
 # Predominant
 ---
 #noun
-- **A subdominant.**
+- **A [[s/_subdominant|subdominant]].**
 ---
 #adjective
 - **[[c/_common|Common]] or widespread; [[p/_prevalent|prevalent]].**

@@ -12,7 +12,7 @@
 ---
 #adjective
 - **Surprised, [[s/_startled|startled]], [[c/_confused|confused]], or taken [[a/_aback|aback]].**
-- **Suffering from [[s/_shock|shock]].**
+- **[[s/_suffering|Suffering]] from [[s/_shock|shock]].**
 	- _Example: Patient is shocked._
 ---
 ---

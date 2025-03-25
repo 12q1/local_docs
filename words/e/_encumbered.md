@@ -8,7 +8,7 @@
 ### Antonyms
 - [[d/_disencumber|disencumber]], [[u/_unencumber|unencumber]], [[u/_unload|unload]]
 #adjective
-- **Weighted [[d/_down|down]], [[l/_loaded|loaded]] sufficiently to [[m/_make|make]] [[s/_slow|slow]].**
+- **Weighted [[d/_down|down]], [[l/_loaded|loaded]] [[s/_sufficiently|sufficiently]] to [[m/_make|make]] [[s/_slow|slow]].**
 ---
 ### Antonyms
 - [[u/_unencumbered|unencumbered]]

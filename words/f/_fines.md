@@ -38,7 +38,7 @@
 #noun
 - **[[e/_end|End]]; [[c/_conclusion|conclusion]]; termination; [[e/_extinction|extinction]].**
 - **A [[f/_final|final]] [[a/_agreement|agreement]] [[c/_concerning|concerning]] [[l/_lands|lands]] or [[r/_rents|rents]] [[b/_between|between]] [[p/_persons|persons]], as the [[l/_lord|lord]] and [[h/_his|his]] vassal.**
-- **A sum of [[m/_money|money]] or [[p/_price|price]] [[p/_paid|paid]] for [[o/_obtaining|obtaining]] a [[b/_benefit|benefit]], [[f/_favor|favor]], or [[p/_privilege|privilege]], as for [[a/_admission|admission]] to a [[c/_copyhold|copyhold]], or for [[o/_obtaining|obtaining]] or [[r/_renewing|renewing]] a [[l/_lease|lease]].**
+- **A [[s/_sum|sum]] of [[m/_money|money]] or [[p/_price|price]] [[p/_paid|paid]] for [[o/_obtaining|obtaining]] a [[b/_benefit|benefit]], [[f/_favor|favor]], or [[p/_privilege|privilege]], as for [[a/_admission|admission]] to a [[c/_copyhold|copyhold]], or for [[o/_obtaining|obtaining]] or [[r/_renewing|renewing]] a [[l/_lease|lease]].**
 ---
 #verb
 - **To [[f/_finish|finish]]; to [[c/_cease|cease]].**

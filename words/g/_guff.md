@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[n/_nonsensical|Nonsensical]] talk or thinking.**
-- **Superfluous [[i/_information|information]].**
+- **[[s/_superfluous|Superfluous]] [[i/_information|information]].**
 - **[[i/_insolent|Insolent]] or [[o/_otherwise|otherwise]] unacceptable [[r/_remarks|remarks]].**
 - **A [[f/_fart|fart]]; [[a/_act|act]] of [[b/_breaking|breaking]] wind.**
 ---

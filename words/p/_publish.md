@@ -1,7 +1,7 @@
 # Publish
 ---
 #verb
-- **To [[i/_issue|issue]] ([[s/_something|something]], such as [[p/_printed|printed]] work) for [[d/_distribution|distribution]] and/or [[s/_sale|sale]].**
+- **To [[i/_issue|issue]] ([[s/_something|something]], [[s/_such|such]] as [[p/_printed|printed]] work) for [[d/_distribution|distribution]] and/or [[s/_sale|sale]].**
 	- _Example: Most of the sketches Faulkner published in 1925 appeared in the Sunday magazine section of the New Orleans Times-Picayune._
 - **To [[a/_announce|announce]] to the [[p/_public|public]].**
 	- _Example: No newspaper published the victim's name._

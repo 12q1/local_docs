@@ -10,7 +10,7 @@
 - **To [[d/_divert|divert]]; to [[a/_amuse|amuse]]; to [[m/_make|make]] [[m/_merry|merry]].**
 - **To [[r/_represent|represent]] by [[a/_any|any]] [[k/_kind|kind]] of [[p/_play|play]].**
 - **To [[p/_practise|practise]] the [[d/_diversions|diversions]] of the [[f/_field|field]] or the turf; to be [[g/_given|given]] to [[b/_betting|betting]], as upon [[r/_races|races]].**
-- **To [[a/_assume|assume]] suddenly a [[n/_new|new]] and [[d/_different|different]] [[c/_character|character]] from the [[r/_rest|rest]] of the [[p/_plant|plant]] or from the type of the [[s/_species|species]]; [[s/_said|said]] of a [[b/_bud|bud]], [[s/_shoot|shoot]], [[p/_plant|plant]], or [[a/_animal|animal]].**
+- **To [[a/_assume|assume]] [[s/_suddenly|suddenly]] a [[n/_new|new]] and [[d/_different|different]] [[c/_character|character]] from the [[r/_rest|rest]] of the [[p/_plant|plant]] or from the type of the [[s/_species|species]]; [[s/_said|said]] of a [[b/_bud|bud]], [[s/_shoot|shoot]], [[p/_plant|plant]], or [[a/_animal|animal]].**
 - **To [[c/_close|close]] (a [[d/_door|door]]).**
 ---
 #noun
@@ -21,7 +21,7 @@
 	- _Example: He got a job in a sporting goods store._
 - **[[e/_exhibiting|Exhibiting]] [[s/_sportsmanship|sportsmanship]].**
 	- _Example: Quite sporting of you to call that foul on yourself._
-- **[[h/_having|Having]] a [[r/_reasonable|reasonable]] [[c/_chance|chance]] of success.**
+- **[[h/_having|Having]] a [[r/_reasonable|reasonable]] [[c/_chance|chance]] of [[s/_success|success]].**
 	- _Example: You think he has a sporting chance? I wouldn't call even him a long shot!_
 - **[[f/_fair|Fair]], [[g/_generous|generous]]; ‘[[g/_game|game]]’.**
 	- _Example: It was very sporting of her to let us off like that._

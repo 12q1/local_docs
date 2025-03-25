@@ -1,7 +1,7 @@
 # Dyes
 ---
 #noun
-- **A colourant, [[e/_especially|especially]] [[o/_one|one]] that [[h/_has|has]] an [[a/_affinity|affinity]] to the substrate to which it is [[a/_applied|applied]].**
+- **A colourant, [[e/_especially|especially]] [[o/_one|one]] that [[h/_has|has]] an [[a/_affinity|affinity]] to the [[s/_substrate|substrate]] to which it is [[a/_applied|applied]].**
 - **[[a/_any|Any]] [[h/_hue|hue]], [[c/_color|color]], or [[b/_blee|blee]].**
 ---
 ### Synonyms

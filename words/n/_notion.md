@@ -6,7 +6,7 @@
 - **[[s/_sense|Sense]]; [[m/_mind|mind]].**
 - **An [[i/_invention|invention]]; an [[i/_ingenious|ingenious]] [[d/_device|device]]; a [[k/_knickknack|knickknack]].**
 	- _Example: Yankee notions_
-- **[[a/_any|Any]] [[s/_small|small]] [[a/_article|article]] used in [[s/_sewing|sewing]] and [[h/_haberdashery|haberdashery]], [[e/_either|either]] for [[a/_attachment|attachment]] to [[g/_garments|garments]] or as a tool, such as a [[b/_button|button]], zipper, or thimble.**
+- **[[a/_any|Any]] [[s/_small|small]] [[a/_article|article]] used in [[s/_sewing|sewing]] and [[h/_haberdashery|haberdashery]], [[e/_either|either]] for [[a/_attachment|attachment]] to [[g/_garments|garments]] or as a tool, [[s/_such|such]] as a [[b/_button|button]], zipper, or thimble.**
 - **[[i/_inclination|Inclination]]; [[i/_intention|intention]]; [[d/_disposition|disposition]].**
 	- _Example: I have a notion to do it._
 ---

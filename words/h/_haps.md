@@ -13,7 +13,7 @@
 ### Synonyms
 - [[o/_occur|occur]], [[t/_transpire|transpire]]
 #noun
-- **(Western [[p/_pennsylvania|Pennsylvania]]) A wrap, such as a [[q/_quilt|quilt]] or a [[c/_comforter|comforter]]. [[a/_also|Also]], a [[s/_small|small]] or [[f/_folded|folded]] [[b/_blanket|blanket]] [[p/_placed|placed]] on the [[e/_end|end]] of a [[b/_bed|bed]] to [[k/_keep|keep]] [[f/_feet|feet]] warm.**
+- **(Western [[p/_pennsylvania|Pennsylvania]]) A wrap, [[s/_such|such]] as a [[q/_quilt|quilt]] or a [[c/_comforter|comforter]]. [[a/_also|Also]], a [[s/_small|small]] or [[f/_folded|folded]] [[b/_blanket|blanket]] [[p/_placed|placed]] on the [[e/_end|end]] of a [[b/_bed|bed]] to [[k/_keep|keep]] [[f/_feet|feet]] warm.**
 ---
 #verb
 - **To wrap, [[c/_clothe|clothe]].**

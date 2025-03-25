@@ -10,7 +10,7 @@
 ---
 #verb
 - **To [[b/_beat|beat]] with a [[h/_heavy|heavy]] [[m/_mallet|mallet]].**
-- **To [[f/_finish|finish]] by subjecting to a [[h/_hammering|hammering]] [[p/_process|process]] in a [[b/_beetle|beetle]] or [[b/_beetling|beetling]] [[m/_machine|machine]].**
+- **To [[f/_finish|finish]] by [[s/_subjecting|subjecting]] to a [[h/_hammering|hammering]] [[p/_process|process]] in a [[b/_beetle|beetle]] or [[b/_beetling|beetling]] [[m/_machine|machine]].**
 	- _Example: to beetle cotton goods_
 ---
 #adjective

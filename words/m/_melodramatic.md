@@ -1,7 +1,7 @@
 # Melodramatic
 ---
 #adjective
-- **Of or [[p/_pertaining|pertaining]] to [[m/_melodrama|melodrama]]; [[l/_like|like]] or suitable to a [[m/_melodrama|melodrama]]; unnatural in [[s/_situation|situation]] or [[a/_action|action]].**
+- **Of or [[p/_pertaining|pertaining]] to [[m/_melodrama|melodrama]]; [[l/_like|like]] or [[s/_suitable|suitable]] to a [[m/_melodrama|melodrama]]; unnatural in [[s/_situation|situation]] or [[a/_action|action]].**
 - **[[e/_exaggeratedly|Exaggeratedly]] [[e/_emotional|emotional]] or [[s/_sentimental|sentimental]].**
 	- _Example: She wrote him a melodramatic letter, threatening to kill herself._
 ---

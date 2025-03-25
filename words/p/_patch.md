@@ -1,7 +1,7 @@
 # Patch
 ---
 #noun
-- **A [[p/_piece|piece]] of [[c/_cloth|cloth]], or [[o/_other|other]] suitable [[m/_material|material]], [[s/_sewed|sewed]] or [[o/_otherwise|otherwise]] [[f/_fixed|fixed]] upon a [[g/_garment|garment]] to [[r/_repair|repair]] or [[s/_strengthen|strengthen]] it, [[e/_especially|especially]] upon an [[o/_old|old]] [[g/_garment|garment]] to [[c/_cover|cover]] a [[h/_hole|hole]].**
+- **A [[p/_piece|piece]] of [[c/_cloth|cloth]], or [[o/_other|other]] [[s/_suitable|suitable]] [[m/_material|material]], [[s/_sewed|sewed]] or [[o/_otherwise|otherwise]] [[f/_fixed|fixed]] upon a [[g/_garment|garment]] to [[r/_repair|repair]] or [[s/_strengthen|strengthen]] it, [[e/_especially|especially]] upon an [[o/_old|old]] [[g/_garment|garment]] to [[c/_cover|cover]] a [[h/_hole|hole]].**
 	- _Example: His sleeves had patches on the elbows where different fabric had been sewn on to replace material that had worn away._
 - **A [[s/_small|small]] [[p/_piece|piece]] of [[a/_anything|anything]] used to [[r/_repair|repair]] [[d/_damage|damage]] or a [[b/_breach|breach]]; as, a [[p/_patch|patch]] on a [[k/_kettle|kettle]], a [[r/_roof|roof]], [[e/_etc|etc]].**
 	- _Example: I can't afford to replace the roof, which is what it really needs. I'll have the roofer apply a patch._

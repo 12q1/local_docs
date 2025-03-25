@@ -11,7 +11,7 @@
 ### Synonyms
 - [[a/_apply|apply]], [[c/_coat|coat]], [[c/_cover|cover]], [[p/_plaster|plaster]], [[s/_smear|smear]]
 #noun
-- **[[s/_something|Something]] [[d/_daubed|daubed]], such as [[g/_graffiti|graffiti]].**
+- **[[s/_something|Something]] [[d/_daubed|daubed]], [[s/_such|such]] as [[g/_graffiti|graffiti]].**
 - **A [[r/_rough|rough]] [[c/_coat|coat]] of [[m/_mortar|mortar]] [[p/_put|put]] upon a wall to [[g/_give|give]] it the [[a/_appearance|appearance]] of [[s/_stone|stone]]; [[r/_roughcast|roughcast]].**
 - **In [[c/_currying|currying]] [[h/_horses|horses]], a [[m/_mixture|mixture]] of [[f/_fish|fish]] [[o/_oil|oil]] and tallow worked [[i/_into|into]] [[l/_leather|leather]]; [[d/_dubbing|dubbing]].**
 ---

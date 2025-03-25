@@ -9,7 +9,7 @@
 	- _Example: He is much fatter than I remember him._
 - **[[o/_often|Often]]; [[f/_frequently|frequently]].**
 	- _Example: Does he get drunk much?_
-- **(in [[c/_combinations|combinations]] such as 'as [[m/_much|much]]', 'this [[m/_much|much]]') Used to [[i/_indicate|indicate]] or [[c/_compare|compare]] [[e/_extent|extent]].**
+- **(in [[c/_combinations|combinations]] [[s/_such|such]] as 'as [[m/_much|much]]', 'this [[m/_much|much]]') Used to [[i/_indicate|indicate]] or [[c/_compare|compare]] [[e/_extent|extent]].**
 	- _Example: I don't like Wagner as much as I like Mozart._
 - **[[a/_almost|Almost]].**
 ---

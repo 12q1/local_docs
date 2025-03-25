@@ -14,7 +14,7 @@
 - **To [[h/_have|have]] an [[e/_enlarged|enlarged]] [[b/_belly|belly]] and thus be [[r/_recognizable|recognizable]] as [[p/_pregnant|pregnant]].**
 - **([[r/_racing|racing]]) To [[f/_finish|finish]] third, [[e/_especially|especially]] of [[h/_horses|horses]] or [[d/_dogs|dogs]].**
 	- _Example: In the third race: Aces Up won, paying eight dollars; Blarney Stone placed, paying three dollars; and Cinnamon showed, paying five dollars._
-- **To [[h/_have|have]] a [[c/_certain|certain]] [[a/_appearance|appearance]], such as well or [[i/_ill|ill]], [[f/_fit|fit]] or unfit; to [[b/_become|become]] or suit; to [[a/_appear|appear]].**
+- **To [[h/_have|have]] a [[c/_certain|certain]] [[a/_appearance|appearance]], [[s/_such|such]] as well or [[i/_ill|ill]], [[f/_fit|fit]] or unfit; to [[b/_become|become]] or [[s/_suit|suit]]; to [[a/_appear|appear]].**
 ---
 ### Synonyms
 - [[d/_display|display]], [[e/_exhibit|exhibit]], [[i/_indicate|indicate]], [[r/_reveal|reveal]], [[d/_demonstrate|demonstrate]], [[p/_prove|prove]], [[a/_arrive|arrive]]

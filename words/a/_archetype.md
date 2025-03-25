@@ -8,6 +8,6 @@
 - **(textual [[c/_criticism|criticism]]) A [[p/_protograph|protograph]].**
 ---
 #verb
-- **To [[d/_depict|depict]] as, [[m/_model|model]] using, or [[o/_otherwise|otherwise]] [[a/_associate|associate]] an [[o/_object|object]] or subject with an [[a/_archetype|archetype]].**
+- **To [[d/_depict|depict]] as, [[m/_model|model]] using, or [[o/_otherwise|otherwise]] [[a/_associate|associate]] an [[o/_object|object]] or [[s/_subject|subject]] with an [[a/_archetype|archetype]].**
 ---
 ---

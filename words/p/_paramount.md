@@ -1,7 +1,7 @@
 # Paramount
 ---
 #noun
-- **A [[c/_chief|chief]] or superior.**
+- **A [[c/_chief|chief]] or [[s/_superior|superior]].**
 ---
 #adjective
 - **Supreme; [[h/_highest|highest]]; [[c/_chief|chief]].**

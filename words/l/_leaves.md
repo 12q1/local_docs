@@ -3,7 +3,7 @@
 #noun
 - **The usually [[g/_green|green]] and [[f/_flat|flat]] [[o/_organ|organ]] that [[r/_represents|represents]] the [[m/_most|most]] [[p/_prominent|prominent]] [[f/_feature|feature]] of [[m/_most|most]] vegetative [[p/_plants|plants]].**
 - **[[a/_anything|Anything]] [[r/_resembling|resembling]] the [[l/_leaf|leaf]] of a [[p/_plant|plant]].**
-- **A [[s/_sheet|sheet]] of [[a/_any|any]] substance [[b/_beaten|beaten]] or [[r/_rolled|rolled]] until very thin.**
+- **A [[s/_sheet|sheet]] of [[a/_any|any]] [[s/_substance|substance]] [[b/_beaten|beaten]] or [[r/_rolled|rolled]] until very thin.**
 	- _Example: gold leaf_
 - **A [[s/_sheet|sheet]] of a [[b/_book|book]], [[m/_magazine|magazine]], [[e/_etc|etc]] ([[c/_consisting|consisting]] of two [[p/_pages|pages]], [[o/_one|one]] on [[e/_each|each]] [[f/_face|face]] of the [[l/_leaf|leaf]]).**
 - **(in the [[p/_plural|plural]]) Tea [[l/_leaves|leaves]].**

@@ -7,7 +7,7 @@
 - **The [[c/_curved|curved]] [[p/_part|part]] of the [[c/_cushion|cushion]] at the [[e/_entrance|entrance]] to the [[p/_pockets|pockets]] on a [[c/_cue|cue]] [[s/_sports|sports]] table.**
 - **The kneejoint of a [[q/_quadruped|quadruped]], [[e/_especially|especially]] of a [[c/_calf|calf]]; [[f/_formerly|formerly]] used of the kneejoint of a [[h/_human|human]] [[b/_being|being]].**
 - **The [[j/_joint|joint]] of a [[p/_plant|plant]].**
-- **A [[c/_convex|convex]] [[p/_portion|portion]] of a vessel'[[s/_s|s]] [[f/_figure|figure]] where a sudden [[c/_change|change]] of [[s/_shape|shape]] [[o/_occurs|occurs]], as in a [[c/_canal|canal]] [[b/_boat|boat]], where a [[n/_nearly|nearly]] vertical [[s/_side|side]] [[j/_joins|joins]] a [[n/_nearly|nearly]] [[f/_flat|flat]] [[b/_bottom|bottom]].**
+- **A [[c/_convex|convex]] [[p/_portion|portion]] of a vessel'[[s/_s|s]] [[f/_figure|figure]] where a [[s/_sudden|sudden]] [[c/_change|change]] of [[s/_shape|shape]] [[o/_occurs|occurs]], as in a [[c/_canal|canal]] [[b/_boat|boat]], where a [[n/_nearly|nearly]] vertical [[s/_side|side]] [[j/_joins|joins]] a [[n/_nearly|nearly]] [[f/_flat|flat]] [[b/_bottom|bottom]].**
 - **A [[c/_contrivance|contrivance]], usually of [[b/_brass|brass]] or [[i/_iron|iron]], and [[f/_furnished|furnished]] with [[p/_points|points]], worn to [[p/_protect|protect]] the [[h/_hand|hand]], to [[a/_add|add]] [[f/_force|force]] to a [[b/_blow|blow]], and to [[d/_disfigure|disfigure]] the [[p/_person|person]] [[s/_struck|struck]]; a [[k/_knuckle|knuckle]] [[d/_duster|duster]].**
 	- _Example: brass knuckles_
 - **The [[r/_rounded|rounded]] [[p/_point|point]] where a [[f/_flat|flat]] [[c/_changes|changes]] to a [[s/_slope|slope]] on a [[p/_piste|piste]].**

@@ -18,7 +18,7 @@
 ### Antonyms
 - [[i/_interest|interest]]
 #adjective
-- **Suffering from [[b/_boredom|boredom]]; [[m/_mildly|mildly]] [[a/_annoyed|annoyed]] and [[r/_restless|restless]] through [[h/_having|having]] [[n/_nothing|nothing]] to [[d/_do|do]]**
+- **[[s/_suffering|Suffering]] from [[b/_boredom|boredom]]; [[m/_mildly|mildly]] [[a/_annoyed|annoyed]] and [[r/_restless|restless]] through [[h/_having|having]] [[n/_nothing|nothing]] to [[d/_do|do]]**
 - **Uninterested, without [[a/_attention|attention]]**
 	- _Example: The piano teacher's bored look indicated he wasn't paying much attention to his pupil's lackluster rendition of Mozart's Requiem_
 - **[[p/_perforated|Perforated]] by a [[h/_hole|hole]] or [[h/_holes|holes]] (through bioerosion or [[o/_other|other]])**

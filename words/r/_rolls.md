@@ -49,12 +49,12 @@
 - **To [[c/_compete|compete]], [[e/_especially|especially]] with vigor.**
 	- _Example: OK guys, we're only down by two points. Let's roll!_
 - **To [[b/_beat|beat]] with [[r/_rapid|rapid]], [[c/_continuous|continuous]] [[s/_strokes|strokes]], as a [[d/_drum|drum]]; to [[s/_sound|sound]] a [[r/_roll|roll]] upon.**
-- **To [[a/_apply|apply]] ([[o/_one|one]] [[l/_line|line]] or surface) to [[a/_another|another]] without [[s/_slipping|slipping]]; to [[b/_bring|bring]] [[a/_all|all]] the [[p/_parts|parts]] of ([[o/_one|one]] [[l/_line|line]] or surface) [[i/_into|into]] successive [[c/_contact|contact]] with [[a/_another|another]], in such a [[m/_manner|manner]] that at [[e/_every|every]] [[i/_instant|instant]] the [[p/_parts|parts]] that [[h/_have|have]] [[b/_been|been]] in [[c/_contact|contact]] are [[e/_equal|equal]].**
+- **To [[a/_apply|apply]] ([[o/_one|one]] [[l/_line|line]] or surface) to [[a/_another|another]] without [[s/_slipping|slipping]]; to [[b/_bring|bring]] [[a/_all|all]] the [[p/_parts|parts]] of ([[o/_one|one]] [[l/_line|line]] or surface) [[i/_into|into]] [[s/_successive|successive]] [[c/_contact|contact]] with [[a/_another|another]], in [[s/_such|such]] a [[m/_manner|manner]] that at [[e/_every|every]] [[i/_instant|instant]] the [[p/_parts|parts]] that [[h/_have|have]] [[b/_been|been]] in [[c/_contact|contact]] are [[e/_equal|equal]].**
 - **To turn [[o/_over|over]] in [[o/_one|one]]'[[s/_s|s]] [[m/_mind|mind]]; to [[r/_revolve|revolve]].**
 - **To [[b/_behave|behave]] in a [[c/_certain|certain]] way; to [[a/_adopt|adopt]] a [[g/_general|general]] [[d/_disposition|disposition]] toward a [[s/_situation|situation]].**
 	- _Example: I was going to kick his ass, but he wasn't worth getting all worked up over; I don't roll like that._
 - **To throw [[d/_dice|dice]].**
-- **To [[r/_roll|roll]] [[d/_dice|dice]] such that they [[f/_form|form]] a [[g/_given|given]] [[p/_pattern|pattern]] or total.**
+- **To [[r/_roll|roll]] [[d/_dice|dice]] [[s/_such|such]] that they [[f/_form|form]] a [[g/_given|given]] [[p/_pattern|pattern]] or total.**
 	- _Example: If you roll doubles, you get an extra turn._
 - **To [[c/_create|create]] a [[n/_new|new]] [[c/_character|character]] in a [[r/_role|role]]-[[p/_playing|playing]] [[g/_game|game]], [[e/_especially|especially]] by using [[d/_dice|dice]] to [[d/_determine|determine]] [[p/_properties|properties]].**
 	- _Example: I'm gonna go and roll a new shaman tonight._

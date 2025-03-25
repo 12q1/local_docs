@@ -7,7 +7,7 @@
 - **An [[a/_abnormal|abnormal]] [[r/_rapid|rapid]] [[p/_pulsation|pulsation]] of the [[h/_heart|heart]].**
 - **A [[s/_small|small]] [[b/_bet|bet]] or [[r/_risky|risky]] [[i/_investment|investment]].**
 - **A [[h/_hasty|hasty]] [[g/_game|game]] of [[c/_cards|cards]] or [[s/_similar|similar]].**
-- **([[a/_audio|audio]]) The [[r/_rapid|rapid]] variation of [[s/_signal|signal]] [[p/_parameters|parameters]], such as [[a/_amplitude|amplitude]], [[p/_phase|phase]], and [[f/_frequency|frequency]].**
+- **([[a/_audio|audio]]) The [[r/_rapid|rapid]] variation of [[s/_signal|signal]] [[p/_parameters|parameters]], [[s/_such|such]] as [[a/_amplitude|amplitude]], [[p/_phase|phase]], and [[f/_frequency|frequency]].**
 ---
 #verb
 - **To [[f/_flap|flap]] or wave [[q/_quickly|quickly]] but [[i/_irregularly|irregularly]].**

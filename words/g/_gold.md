@@ -18,7 +18,7 @@
 #adjective
 - **[[m/_made|Made]] of [[g/_gold|gold]].**
 - **[[h/_having|Having]] the [[c/_colour|colour]] of [[g/_gold|gold]].**
-- **(of [[c/_commercial|commercial]] [[s/_services|services]]) [[p/_premium|Premium]], superior.**
+- **(of [[c/_commercial|commercial]] [[s/_services|services]]) [[p/_premium|Premium]], [[s/_superior|superior]].**
 ---
 ### Synonyms
 - [[g/_golden|golden]]

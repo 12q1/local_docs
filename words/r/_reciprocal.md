@@ -8,11 +8,11 @@
 ### Synonyms
 - 
 #adjective
-- **Of a [[f/_feeling|feeling]], [[a/_action|action]] or such: [[m/_mutual|mutual]], uniformly [[f/_felt|felt]] or [[d/_done|done]] by [[e/_each|each]] [[p/_party|party]] towards the [[o/_other|other]] or [[o/_others|others]]; two-way.**
+- **Of a [[f/_feeling|feeling]], [[a/_action|action]] or [[s/_such|such]]: [[m/_mutual|mutual]], uniformly [[f/_felt|felt]] or [[d/_done|done]] by [[e/_each|each]] [[p/_party|party]] towards the [[o/_other|other]] or [[o/_others|others]]; two-way.**
 	- _Example: reciprocal love; reciprocal duties_
 - **[[m/_mutually|Mutually]] [[i/_interchangeable|interchangeable]].**
 - **([[g/_grammar|grammar]]) [[e/_expressing|expressing]] [[m/_mutual|mutual]] [[a/_action|action]], [[a/_applied|applied]] to [[p/_pronouns|pronouns]] and verbs; [[a/_also|also]] in a [[b/_broad|broad]] [[s/_sense|sense]]: [[r/_reflexive|reflexive]]**
-- **Used to [[d/_denote|denote]] [[d/_different|different]] [[k/_kinds|kinds]] of [[m/_mutual|mutual]] [[r/_relation|relation]]; [[o/_often|often]] with [[r/_reference|reference]] to the substitution of [[r/_reciprocals|reciprocals]] for [[g/_given|given]] [[q/_quantities|quantities]].**
+- **Used to [[d/_denote|denote]] [[d/_different|different]] [[k/_kinds|kinds]] of [[m/_mutual|mutual]] [[r/_relation|relation]]; [[o/_often|often]] with [[r/_reference|reference]] to the [[s/_substitution|substitution]] of [[r/_reciprocals|reciprocals]] for [[g/_given|given]] [[q/_quantities|quantities]].**
 - **[[d/_done|Done]], [[g/_given|given]], [[f/_felt|felt]], or [[o/_owed|owed]] in [[r/_return|return]]**
 	- _Example: a reciprocal invitation to lunch_
 ---

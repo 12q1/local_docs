@@ -11,7 +11,7 @@
 	- _Example: the independent candidate_
 - **[[p/_providing|Providing]] a [[c/_comfortable|comfortable]] [[l/_livelihood|livelihood]].**
 	- _Example: an independent property_
-- **Not subject to [[b/_bias|bias]] or [[i/_influence|influence]]; [[s/_self|self]]-[[d/_directing|directing]].**
+- **Not [[s/_subject|subject]] to [[b/_bias|bias]] or [[i/_influence|influence]]; [[s/_self|self]]-[[d/_directing|directing]].**
 	- _Example: a man of an independent mind_
 - **[[s/_separate|Separate]] from; [[e/_exclusive|exclusive]]; [[i/_irrespective|irrespective]].**
 ---

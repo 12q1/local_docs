@@ -24,7 +24,7 @@
 	- _Example: He was driving pretty fast, say, fifty miles per hour._
 ---
 #interjection
-- **Used to [[g/_gain|gain]] [[s/_someone|someone]]'[[s/_s|s]] [[a/_attention|attention]] [[b/_before|before]] [[m/_making|making]] an [[i/_inquiry|inquiry]] or suggestion**
+- **Used to [[g/_gain|gain]] [[s/_someone|someone]]'[[s/_s|s]] [[a/_attention|attention]] [[b/_before|before]] [[m/_making|making]] an [[i/_inquiry|inquiry]] or [[s/_suggestion|suggestion]]**
 	- _Example: Say, what did you think about the movie?_
 ---
 ### Synonyms

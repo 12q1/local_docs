@@ -1,7 +1,7 @@
 # Parlando
 ---
 #noun
-- **A [[p/_piece|piece]] of [[m/_music|music]] to be sung or [[p/_played|played]] in the [[s/_style|style]] of a [[r/_recitative|recitative]].**
+- **A [[p/_piece|piece]] of [[m/_music|music]] to be [[s/_sung|sung]] or [[p/_played|played]] in the [[s/_style|style]] of a [[r/_recitative|recitative]].**
 ---
 #adjective
 - **[[d/_declamatory|Declamatory]] in [[s/_style|style]]; in [[r/_recitative|recitative]].**

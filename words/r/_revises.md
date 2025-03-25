@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[r/_review|review]] or a [[r/_revision|revision]].**
-- **A [[s/_second|second]] [[p/_proof|proof]] [[s/_sheet|sheet]]; a [[p/_proof|proof]] [[s/_sheet|sheet]] taken [[a/_after|after]] the [[f/_first|first]] or a subsequent [[c/_correction|correction]].**
+- **A [[s/_second|second]] [[p/_proof|proof]] [[s/_sheet|sheet]]; a [[p/_proof|proof]] [[s/_sheet|sheet]] taken [[a/_after|after]] the [[f/_first|first]] or a [[s/_subsequent|subsequent]] [[c/_correction|correction]].**
 ---
 #verb
 - **To [[l/_look|look]] at [[a/_again|again]], to [[r/_reflect|reflect]] on.**

@@ -9,7 +9,7 @@
 	- _Example: He would often clap his teammates on the back for encouragement._
 - **To [[b/_bring|bring]] two surfaces together [[f/_forcefully|forcefully]], [[c/_creating|creating]] a [[s/_sharp|sharp]] [[s/_sound|sound]].**
 	- _Example: He clapped across the floor in his boots._
-- **To [[c/_come|come]] together suddenly with [[n/_noise|noise]].**
+- **To [[c/_come|come]] together [[s/_suddenly|suddenly]] with [[n/_noise|noise]].**
 - **To [[c/_create|create]] or [[a/_assemble|assemble]] ([[s/_something|something]]) [[h/_hastily|hastily]] (usually [[f/_followed|followed]] by up or together).**
 	- _Example: The rival factions clapped up a truce._
 - **To [[s/_set|set]] or [[p/_put|put]], usually in [[h/_haste|haste]].**

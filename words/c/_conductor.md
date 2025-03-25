@@ -7,7 +7,7 @@
 	- _Example: train conductor; tram conductor_
 - **[[s/_something|Something]] that [[c/_can|can]] transmit [[e/_electricity|electricity]], [[h/_heat|heat]], [[l/_light|light]] or [[s/_sound|sound]].**
 - **An [[i/_ideal|ideal]] of a [[r/_ring|ring]] that [[m/_measures|measures]] [[h/_how|how]] [[f/_far|far]] it is from [[b/_being|being]] [[i/_integrally|integrally]] [[c/_closed|closed]]**
-- **A [[g/_grooved|grooved]] [[s/_sound|sound]] or [[s/_staff|staff]] used for [[d/_directing|directing]] [[i/_instruments|instruments]], such as [[l/_lithontriptic|lithontriptic]] [[f/_forceps|forceps]]; a [[d/_director|director]].**
+- **A [[g/_grooved|grooved]] [[s/_sound|sound]] or [[s/_staff|staff]] used for [[d/_directing|directing]] [[i/_instruments|instruments]], [[s/_such|such]] as [[l/_lithontriptic|lithontriptic]] [[f/_forceps|forceps]]; a [[d/_director|director]].**
 - **A [[l/_leader|leader]].**
 ---
 ### Antonyms

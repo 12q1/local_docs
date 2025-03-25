@@ -10,7 +10,7 @@
 - **The [[p/_pen|pen]] of a [[s/_squid|squid]].**
 - **The [[p/_plectrum|plectrum]] with which [[m/_musicians|musicians]] [[s/_strike|strike]] the [[s/_strings|strings]] of [[c/_certain|certain]] [[i/_instruments|instruments]].**
 - **The tube of a [[m/_musical|musical]] [[i/_instrument|instrument]].**
-- **[[s/_something|Something]] [[h/_having|having]] the [[f/_form|form]] of a [[q/_quill|quill]], such as the [[f/_fold|fold]] or [[p/_plain|plain]] of a [[r/_ruff|ruff]], or a [[s/_spindle|spindle]], or [[s/_spool|spool]], upon which the thread for the woof is wound in a [[s/_shuttle|shuttle]].**
+- **[[s/_something|Something]] [[h/_having|having]] the [[f/_form|form]] of a [[q/_quill|quill]], [[s/_such|such]] as the [[f/_fold|fold]] or [[p/_plain|plain]] of a [[r/_ruff|ruff]], or a [[s/_spindle|spindle]], or [[s/_spool|spool]], upon which the thread for the woof is wound in a [[s/_shuttle|shuttle]].**
 ---
 ### Synonyms
 - 

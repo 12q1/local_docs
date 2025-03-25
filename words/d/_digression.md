@@ -1,9 +1,9 @@
 # Digression
 ---
 #noun
-- **An [[a/_aside|aside]], an [[a/_act|act]] of [[s/_straying|straying]] from the [[m/_main|main]] subject in [[s/_speech|speech]] or writing.**
+- **An [[a/_aside|aside]], an [[a/_act|act]] of [[s/_straying|straying]] from the [[m/_main|main]] [[s/_subject|subject]] in [[s/_speech|speech]] or writing.**
 	- _Example: The lectures included lengthy digressions on topics ranging from the professor's dog to the meaning of life._
-- **The [[a/_act|act]] of [[s/_straying|straying]] from the [[m/_main|main]] subject in [[s/_speech|speech]] or writing, [[p/_particularly|particularly]] for [[r/_rhetorical|rhetorical]] [[e/_effect|effect]].**
+- **The [[a/_act|act]] of [[s/_straying|straying]] from the [[m/_main|main]] [[s/_subject|subject]] in [[s/_speech|speech]] or writing, [[p/_particularly|particularly]] for [[r/_rhetorical|rhetorical]] [[e/_effect|effect]].**
 	- _Example: make digression... by way of digression..._
 - **A [[d/_deviancy|deviancy]], a [[s/_sin|sin]] or [[e/_error|error]], an [[a/_act|act]] of [[s/_straying|straying]] from the [[p/_path|path]] of [[r/_righteousness|righteousness]] or a [[g/_general|general]] [[r/_rule|rule]].**
 - **A [[d/_deviation|deviation]], an [[a/_act|act]] of [[s/_straying|straying]] from a [[p/_path|path]].**

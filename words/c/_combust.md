@@ -9,6 +9,6 @@
 ---
 #adjective
 - **[[b/_burnt|Burnt]].**
-- **In [[c/_close|close]] [[c/_conjunction|conjunction]] with the sun ([[s/_so|so]] that [[i/_its|its]] [[a/_astrological|astrological]] [[i/_influence|influence]] is "[[b/_burnt|burnt]] up"), [[s/_sometimes|sometimes]] [[s/_specified|specified]] to be within 8 [[d/_degrees|degrees]] 30'.**
+- **In [[c/_close|close]] [[c/_conjunction|conjunction]] with the [[s/_sun|sun]] ([[s/_so|so]] that [[i/_its|its]] [[a/_astrological|astrological]] [[i/_influence|influence]] is "[[b/_burnt|burnt]] up"), [[s/_sometimes|sometimes]] [[s/_specified|specified]] to be within 8 [[d/_degrees|degrees]] 30'.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Subaquatic
 ---
 #adjective
-- **[[l/_located|Located]] or [[l/_living|living]] under water; submarine.**
+- **[[l/_located|Located]] or [[l/_living|living]] under water; [[s/_submarine|submarine]].**
 ---
 ---

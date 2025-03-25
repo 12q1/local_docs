@@ -18,12 +18,12 @@
 - **To [[p/_plunge|plunge]] or [[e/_engage|engage]] thoroughly in [[a/_any|any]] [[a/_affair|affair]].**
 - **To take [[o/_out|out]], by [[d/_dipping|dipping]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]], or [[o/_other|other]] [[r/_receptacle|receptacle]], [[i/_into|into]] a [[f/_fluid|fluid]] and [[r/_removing|removing]] a [[p/_part|part]]; [[o/_often|often]] with [[o/_out|out]].**
 	- _Example: to dip water from a boiler; to dip out water_
-- **To [[p/_perform|perform]] the [[a/_action|action]] of [[p/_plunging|plunging]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]]. [[e/_etc|etc]]. [[i/_into|into]] a [[l/_liquid|liquid]] or [[s/_soft|soft]] substance and [[r/_removing|removing]] a [[p/_part|part]].**
+- **To [[p/_perform|perform]] the [[a/_action|action]] of [[p/_plunging|plunging]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]]. [[e/_etc|etc]]. [[i/_into|into]] a [[l/_liquid|liquid]] or [[s/_soft|soft]] [[s/_substance|substance]] and [[r/_removing|removing]] a [[p/_part|part]].**
 - **To [[e/_engage|engage]] as a [[p/_pledge|pledge]]; to [[m/_mortgage|mortgage]].**
 - **To [[p/_perform|perform]] (a [[b/_bow|bow]] or [[c/_curtsey|curtsey]]) by [[i/_inclining|inclining]] the [[b/_body|body]].**
 - **To [[i/_incline|incline]] [[d/_downward|downward]] from the [[p/_plane|plane]] of the [[h/_horizon|horizon]].**
 	- _Example: Strata of rock dip._
-- **To [[p/_perform|perform]] a [[d/_dip|dip]] [[d/_dance|dance]] [[m/_move|move]] ([[o/_often|often]] [[p/_phrased|phrased]] with the [[l/_leader|leader]] as the subject [[n/_noun|noun]] and the [[f/_follower|follower]] as the subject [[n/_noun|noun]] [[b/_being|being]] [[d/_dipped|dipped]])**
+- **To [[p/_perform|perform]] a [[d/_dip|dip]] [[d/_dance|dance]] [[m/_move|move]] ([[o/_often|often]] [[p/_phrased|phrased]] with the [[l/_leader|leader]] as the [[s/_subject|subject]] [[n/_noun|noun]] and the [[f/_follower|follower]] as the [[s/_subject|subject]] [[n/_noun|noun]] [[b/_being|being]] [[d/_dipped|dipped]])**
 - **To [[l/_lower|lower]] the [[b/_body|body]] by [[b/_bending|bending]] the [[k/_knees|knees]] while [[k/_keeping|keeping]] the [[b/_body|body]] in an upright [[p/_position|position]], as in [[m/_movement|movement]] to the [[r/_rhythm|rhythm]] of [[m/_music|music]].**
 - **To [[l/_leave|leave]].**
 	- _Example: He dipped out of the room so fast._

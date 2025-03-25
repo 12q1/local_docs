@@ -17,11 +17,11 @@
 	- _Example: a strong cup of coffee; a strong medicine_
 - **([[s/_specifically|specifically]]) [[h/_having|Having]] a [[h/_high|high]] [[a/_alcoholic|alcoholic]] [[c/_content|content]].**
 	- _Example: a strong drink_
-- **([[g/_grammar|grammar]]) [[i/_inflecting|Inflecting]] in a [[d/_different|different]] [[m/_manner|manner]] than the [[o/_one|one]] [[c/_called|called]] weak, such as [[g/_germanic|Germanic]] verbs which [[c/_change|change]] vowels.**
+- **([[g/_grammar|grammar]]) [[i/_inflecting|Inflecting]] in a [[d/_different|different]] [[m/_manner|manner]] than the [[o/_one|one]] [[c/_called|called]] weak, [[s/_such|such]] as [[g/_germanic|Germanic]] verbs which [[c/_change|change]] vowels.**
 	- _Example: a strong verb_
 - **That [[c/_completely|completely]] [[i/_ionizes|ionizes]] [[i/_into|into]] [[a/_anions|anions]] and [[c/_cations|cations]] in a [[s/_solution|solution]].**
 	- _Example: a strong acid;  a strong base_
-- **Not [[e/_easily|easily]] subdued or taken.**
+- **Not [[e/_easily|easily]] [[s/_subdued|subdued]] or taken.**
 	- _Example: a strong position_
 - **[[h/_having|Having]] wealth or [[r/_resources|resources]].**
 	- _Example: a strong economy_

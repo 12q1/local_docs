@@ -1,7 +1,7 @@
 # Attributive
 ---
 #noun
-- **([[g/_grammar|grammar]]) An [[a/_attributive|attributive]] word or [[p/_phrase|phrase]] ([[s/_see|see]] [[a/_above|above]]), [[c/_contrasted|contrasted]] with [[p/_predicative|predicative]] or substantive.**
+- **([[g/_grammar|grammar]]) An [[a/_attributive|attributive]] word or [[p/_phrase|phrase]] ([[s/_see|see]] [[a/_above|above]]), [[c/_contrasted|contrasted]] with [[p/_predicative|predicative]] or [[s/_substantive|substantive]].**
 	- _Example: In "this big house," "big" is an attributive, while in "this house is big," it is a predicative._
 ---
 #adjective

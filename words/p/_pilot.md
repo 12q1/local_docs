@@ -6,7 +6,7 @@
 - **A [[g/_guide|guide]] [[b/_book|book]] for [[m/_maritime|maritime]] [[n/_navigation|navigation]].**
 - **An [[i/_instrument|instrument]] for [[d/_detecting|detecting]] the [[c/_compass|compass]] [[e/_error|error]].**
 - **A [[p/_pilot|pilot]] vehicle.**
-- **A [[p/_person|person]] [[a/_authorised|authorised]] to [[d/_drive|drive]] such a vehicle [[d/_during|during]] an [[e/_escort|escort]].**
+- **A [[p/_person|person]] [[a/_authorised|authorised]] to [[d/_drive|drive]] [[s/_such|such]] a vehicle [[d/_during|during]] an [[e/_escort|escort]].**
 - **A [[g/_guide|guide]] or [[e/_escort|escort]] through an unknown or [[d/_dangerous|dangerous]] [[a/_area|area]].**
 - **[[s/_something|Something]] [[s/_serving|serving]] as a test or trial.**
 	- _Example: We would like to run a pilot in your facility before rolling out the program citywide._

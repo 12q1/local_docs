@@ -1,7 +1,7 @@
 # Abbots
 ---
 #noun
-- **The superior or [[h/_head|head]] of an [[a/_abbey|abbey]] or [[m/_monastery|monastery]].**
+- **The [[s/_superior|superior]] or [[h/_head|head]] of an [[a/_abbey|abbey]] or [[m/_monastery|monastery]].**
 	- _Example: The newly appointed abbot decided to take a tour of the abbey with the cardinal's emissary._
 - **The [[p/_pastor|pastor]] and/or [[a/_administrator|administrator]] of an [[o/_order|order]], [[i/_including|including]] [[m/_minor|minor]] and [[m/_major|major]] [[o/_orders|orders]] [[s/_starting|starting]] with the [[m/_minor|minor]] [[o/_order|order]] of [[p/_porter|porter]].**
 - **A [[l/_layman|layman]] who [[r/_received|received]] the [[a/_abbey|abbey]]'[[s/_s|s]] [[r/_revenues|revenues]], [[a/_after|after]] the [[c/_closing|closing]] of the [[m/_monasteries|monasteries]].**

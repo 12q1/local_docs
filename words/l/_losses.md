@@ -12,7 +12,7 @@
 	- _Example: The battle was won, but losses were great._
 - **The [[c/_condition|condition]] of [[g/_grief|grief]] [[c/_caused|caused]] by [[l/_losing|losing]] [[s/_someone|someone]] or [[s/_something|something]], [[e/_especially|especially]] [[s/_someone|someone]] who [[h/_has|has]] [[d/_died|died]].**
 	- _Example: Her daughter's sense of loss eventually led to depression._
-- **([[f/_financial|financial]]) The sum an [[e/_entity|entity]] [[l/_loses|loses]] on [[b/_balance|balance]].**
+- **([[f/_financial|financial]]) The [[s/_sum|sum]] an [[e/_entity|entity]] [[l/_loses|loses]] on [[b/_balance|balance]].**
 	- _Example: The sum of expenditures and taxes minus total income is a loss, when this difference is positive._
 - **[[e/_electricity|Electricity]] of [[k/_kinetic|kinetic]] [[p/_power|power]] [[e/_expended|expended]] without [[d/_doing|doing]] useful work.**
 	- _Example: The inefficiency of many old-fashioned power plants exceeds 60% loss before the subsequent losses during transport over the grid._

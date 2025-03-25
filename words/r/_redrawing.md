@@ -5,6 +5,6 @@
 	- _Example: The treaty proposed to redraw the border lines between the nations._
 ---
 #noun
-- **A [[s/_second|second]] or subsequent [[d/_drawing|drawing]]**
+- **A [[s/_second|second]] or [[s/_subsequent|subsequent]] [[d/_drawing|drawing]]**
 ---
 ---

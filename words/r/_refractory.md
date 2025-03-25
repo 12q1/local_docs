@@ -1,7 +1,7 @@
 # Refractory
 ---
 #noun
-- **A [[m/_material|material]] or [[p/_piece|piece]] of [[m/_material|material]], such as a [[b/_brick|brick]], that [[h/_has|has]] a very [[h/_high|high]] [[m/_melting|melting]] [[p/_point|point]].**
+- **A [[m/_material|material]] or [[p/_piece|piece]] of [[m/_material|material]], [[s/_such|such]] as a [[b/_brick|brick]], that [[h/_has|has]] a very [[h/_high|high]] [[m/_melting|melting]] [[p/_point|point]].**
 ---
 #adjective
 - **[[o/_obstinate|Obstinate]] and unruly; [[s/_strongly|strongly]] [[o/_opposed|opposed]] to [[s/_something|something]].**

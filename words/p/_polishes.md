@@ -1,7 +1,7 @@
 # Polishes
 ---
 #noun
-- **A substance used to [[p/_polish|polish]].**
+- **A [[s/_substance|substance]] used to [[p/_polish|polish]].**
 	- _Example: A good silver polish will remove tarnish easily._
 - **[[c/_cleanliness|Cleanliness]]; [[s/_smoothness|smoothness]], [[s/_shininess|shininess]].**
 	- _Example: The floor was waxed to a high polish._

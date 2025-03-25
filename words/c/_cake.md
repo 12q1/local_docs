@@ -1,7 +1,7 @@
 # Cake
 ---
 #noun
-- **A [[r/_rich|rich]], sweet [[d/_dessert|dessert]] [[f/_food|food]], typically [[m/_made|made]] of [[f/_flour|flour]], sugar and [[e/_eggs|eggs]] and [[b/_baked|baked]] in an [[o/_oven|oven]], and [[o/_often|often]] [[c/_covered|covered]] in [[i/_icing|icing]].**
+- **A [[r/_rich|rich]], sweet [[d/_dessert|dessert]] [[f/_food|food]], typically [[m/_made|made]] of [[f/_flour|flour]], [[s/_sugar|sugar]] and [[e/_eggs|eggs]] and [[b/_baked|baked]] in an [[o/_oven|oven]], and [[o/_often|often]] [[c/_covered|covered]] in [[i/_icing|icing]].**
 - **A [[s/_small|small]] [[m/_mass|mass]] of [[b/_baked|baked]] [[d/_dough|dough]], [[e/_especially|especially]] a thin [[l/_loaf|loaf]] from unleavened [[d/_dough|dough]].**
 	- _Example: a johnnycake_
 - **A thin wafer-[[s/_shaped|shaped]] [[m/_mass|mass]] of [[f/_fried|fried]] [[b/_batter|batter]]; a [[g/_griddlecake|griddlecake]] or [[p/_pancake|pancake]].**

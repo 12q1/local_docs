@@ -45,7 +45,7 @@
 ### Synonyms
 - [[a/_administer|administer]], [[a/_allot|allot]], [[d/_dispense|dispense]], [[d/_distribute|distribute]], [[l/_lot|lot]], [[p/_pitch|pitch]], [[t/_throw|throw]], [[a/_apportion|apportion]], [[s/_share|share]], [[s/_sell|sell]], [[b/_bargain|bargain]], [[s/_sell|sell]], [[t/_trade|trade]]
 #noun
-- **Wood that is [[e/_easy|easy]] to [[s/_saw|saw]] (from [[c/_conifers|conifers]] such as [[p/_pine|pine]] or [[f/_fir|fir]]).**
+- **Wood that is [[e/_easy|easy]] to [[s/_saw|saw]] (from [[c/_conifers|conifers]] [[s/_such|such]] as [[p/_pine|pine]] or [[f/_fir|fir]]).**
 - **A [[p/_plank|plank]] of [[s/_softwood|softwood]] ([[f/_fir|fir]] or [[p/_pine|pine]] [[b/_board|board]]).**
 - **A wooden [[b/_board|board]] or [[p/_plank|plank]], usually [[b/_between|between]] 12 or 14 [[f/_feet|feet]] in [[l/_length|length]], traded as a [[c/_commodity|commodity]] in [[s/_shipbuilding|shipbuilding]].**
 ---

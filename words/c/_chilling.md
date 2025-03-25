@@ -5,7 +5,7 @@
 	- _Example: Chill before serving._
 - **To [[b/_become|become]] [[c/_cold|cold]]**
 	- _Example: In the wind he chilled quickly._
-- **To [[h/_harden|harden]] a [[m/_metal|metal]] surface by sudden [[c/_cooling|cooling]]**
+- **To [[h/_harden|harden]] a [[m/_metal|metal]] surface by [[s/_sudden|sudden]] [[c/_cooling|cooling]]**
 - **To [[b/_become|become]] [[h/_hard|hard]] by [[r/_rapid|rapid]] [[c/_cooling|cooling]]**
 - **To [[r/_relax|relax]], [[l/_lie|lie]] [[b/_back|back]]**
 	- _Example: Chill, man, we've got a whole week to do it; no sense in getting worked up._

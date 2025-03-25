@@ -6,7 +6,7 @@
 - **[[c/_circular|Circular]] [[f/_features|features]] [[b/_believed|believed]] to be [[l/_lunar|lunar]] [[c/_craters|craters]] that [[h/_have|have]] [[b/_been|been]] [[o/_obliterated|obliterated]] by [[l/_later|later]] volcanic [[a/_activity|activity]].**
 - **[[g/_geological|Geological]] [[f/_features|features]] thought to be [[r/_related|related]] to [[f/_features|features]] or [[e/_effects|effects]] [[b/_below|below]] the surface.**
 - **[[m/_memory|Memory]] that [[h/_has|has]] [[b/_been|been]] [[e/_erased|erased]] and [[r/_re|re]]-written.**
-- **([[c/_cultural|cultural]] [[s/_studies|studies]]) The [[p/_partial|partial]] [[e/_erasure|erasure]] of or superimposition on an [[o/_older|older]] [[s/_society|society]] or [[c/_culture|culture]] by a [[n/_newer|newer]] [[o/_one|one]].**
+- **([[c/_cultural|cultural]] [[s/_studies|studies]]) The [[p/_partial|partial]] [[e/_erasure|erasure]] of or [[s/_superimposition|superimposition]] on an [[o/_older|older]] [[s/_society|society]] or [[c/_culture|culture]] by a [[n/_newer|newer]] [[o/_one|one]].**
 - **[[s/_something|Something]] [[b/_bearing|bearing]] the traces of an [[e/_earlier|earlier]], [[e/_erased|erased]] [[f/_form|form]].**
 ---
 ### Synonyms

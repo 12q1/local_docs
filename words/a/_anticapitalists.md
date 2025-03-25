@@ -1,6 +1,6 @@
 # Anticapitalists
 ---
 #noun
-- **[[o/_one|One]] who subscribes to [[a/_anticapitalism|anticapitalism]].**
+- **[[o/_one|One]] who [[s/_subscribes|subscribes]] to [[a/_anticapitalism|anticapitalism]].**
 ---
 ---

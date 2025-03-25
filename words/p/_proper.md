@@ -4,7 +4,7 @@
 - **[[s/_something|Something]] [[s/_set|set]] [[a/_apart|apart]] for a [[s/_special|special]] use.**
 ---
 #adjective
-- **([[h/_heading|heading]]) Suitable.**
+- **([[h/_heading|heading]]) [[s/_suitable|Suitable]].**
 - **([[h/_heading|heading]]) [[p/_possessed|Possessed]], [[r/_related|related]].**
 - **([[h/_heading|heading]]) [[a/_accurate|Accurate]], [[s/_strictly|strictly]] [[a/_applied|applied]].**
 ---

@@ -5,7 +5,7 @@
 - **A [[s/_small|small]] version of [[s/_something|something]]; a [[m/_model|model]] of [[r/_reduced|reduced]] [[s/_scale|scale]].**
 	- _Example: There was a miniature of a whaling ship in a glass bottle over the mantlepiece._
 - **A [[s/_small|small]], [[h/_highly|highly]] [[d/_detailed|detailed]] [[p/_painting|painting]], a [[p/_portrait|portrait]] [[m/_miniature|miniature]].**
-- **The [[a/_art|art]] of [[p/_painting|painting]] such [[h/_highly|highly]] [[d/_detailed|detailed]] [[m/_miniature|miniature]] works.**
+- **The [[a/_art|art]] of [[p/_painting|painting]] [[s/_such|such]] [[h/_highly|highly]] [[d/_detailed|detailed]] [[m/_miniature|miniature]] works.**
 - **An [[i/_illustration|illustration]] in an [[i/_illuminated|illuminated]] [[m/_manuscript|manuscript]].**
 - **A [[m/_musical|musical]] [[c/_composition|composition]] which is [[s/_short|short]] in [[d/_duration|duration]].**
 	- _Example: Sacha composed a miniature for strings as a final project at the conservatory._

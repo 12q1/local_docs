@@ -10,7 +10,7 @@
 	- _Example: Port arms!_
 - **To [[a/_adapt|adapt]], [[m/_modify|modify]], or [[c/_create|create]] a [[n/_new|new]] version of, a [[p/_program|program]] [[s/_so|so]] that it works on a [[d/_different|different]] [[p/_platform|platform]]. [[p/_porting|Porting]]**
 - **To [[c/_carry|carry]] or transfer an [[e/_existing|existing]] telephone [[n/_number|number]] from [[o/_one|one]] telephone [[s/_service|service]] [[p/_provider|provider]] to [[a/_another|another]].**
-- **To transfer a voucher or subsidy from [[o/_one|one]] [[j/_jurisdiction|jurisdiction]] to [[a/_another|another]].**
+- **To transfer a voucher or [[s/_subsidy|subsidy]] from [[o/_one|one]] [[j/_jurisdiction|jurisdiction]] to [[a/_another|another]].**
 ---
 #adjective
 - **[[h/_having|Having]] [[g/_gates|gates]].**

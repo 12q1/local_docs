@@ -9,7 +9,7 @@
 #adjective
 - **[[h/_having|Having]] a [[l/_lively|lively]] or volatile [[c/_character|character]]; [[a/_animated|animated]], [[c/_changeable|changeable]], [[q/_quick|quick]]-witted.**
 	- _Example: his mercurial temperament_
-- **[[p/_pertaining|Pertaining]] to the [[a/_astrological|astrological]] [[i/_influence|influence]] of the [[p/_planet|planet]] [[m/_mercury|Mercury]]; [[h/_having|having]] the [[c/_characteristics|characteristics]] of a [[p/_person|person]] under such [[i/_influence|influence]] ([[s/_see|see]] [[a/_adjective|adjective]] [[s/_sense|sense]] 1).**
+- **[[p/_pertaining|Pertaining]] to the [[a/_astrological|astrological]] [[i/_influence|influence]] of the [[p/_planet|planet]] [[m/_mercury|Mercury]]; [[h/_having|having]] the [[c/_characteristics|characteristics]] of a [[p/_person|person]] under [[s/_such|such]] [[i/_influence|influence]] ([[s/_see|see]] [[a/_adjective|adjective]] [[s/_sense|sense]] 1).**
 - **[[p/_pertaining|Pertaining]] to the [[p/_planet|planet]] [[m/_mercury|Mercury]].**
 - **Of or [[p/_pertaining|pertaining]] to the [[e/_element|element]] [[m/_mercury|mercury]] or [[q/_quicksilver|quicksilver]]; [[c/_containing|containing]] [[m/_mercury|mercury]].**
 - **[[c/_caused|Caused]] by the [[a/_action|action]] of [[m/_mercury|mercury]] or a [[m/_mercury|mercury]] [[c/_compound|compound]].**

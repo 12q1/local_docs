@@ -1,7 +1,7 @@
 # Decrement
 ---
 #noun
-- **A [[s/_small|small]] [[q/_quantity|quantity]] [[r/_removed|removed]] or [[l/_lost|lost]]. [[o/_one|One]] of a [[s/_series|series]] of [[r/_regular|regular]] subtractions.**
+- **A [[s/_small|small]] [[q/_quantity|quantity]] [[r/_removed|removed]] or [[l/_lost|lost]]. [[o/_one|One]] of a [[s/_series|series]] of [[r/_regular|regular]] [[s/_subtractions|subtractions]].**
 ---
 ### Antonyms
 - [[i/_increment|increment]]

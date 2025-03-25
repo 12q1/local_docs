@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[s/_stupid|Stupid]].**
-- **Unsophisticated; [[l/_lacking|lacking]] subtlety.**
+- **Unsophisticated; [[l/_lacking|lacking]] [[s/_subtlety|subtlety]].**
 ---
 ---

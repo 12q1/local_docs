@@ -3,7 +3,7 @@
 #noun
 - **An [[e/_earthenware|earthenware]] [[c/_container|container]], [[e/_either|either]] with two or [[n/_no|no]] [[h/_handles|handles]], for [[h/_holding|holding]] [[o/_oil|oil]], water, wine, [[e/_etc|etc]]., or used for [[b/_burial|burial]].**
 - **A [[s/_small|small]], [[a/_approximately|approximately]] [[c/_cylindrical|cylindrical]] [[c/_container|container]], [[n/_normally|normally]] [[m/_made|made]] of [[c/_clay|clay]] or [[g/_glass|glass]], for [[h/_holding|holding]] [[f/_fruit|fruit]], [[p/_preserves|preserves]], [[e/_etc|etc]]., or for [[o/_ornamental|ornamental]] [[p/_purposes|purposes]].**
-- **A [[j/_jar|jar]] and [[i/_its|its]] [[c/_contents|contents]]; as [[m/_much|much]] as [[f/_fills|fills]] such a [[c/_container|container]]; a [[j/_jarful|jarful]].**
+- **A [[j/_jar|jar]] and [[i/_its|its]] [[c/_contents|contents]]; as [[m/_much|much]] as [[f/_fills|fills]] [[s/_such|such]] a [[c/_container|container]]; a [[j/_jarful|jarful]].**
 ---
 ### Synonyms
 - [[c/_cruse|cruse]], [[p/_pot|pot]]
@@ -24,7 +24,7 @@
 #verb
 - **To [[k/_knock|knock]], [[s/_shake|shake]], or [[s/_strike|strike]] [[s/_sharply|sharply]], [[e/_especially|especially]] [[c/_causing|causing]] a [[q/_quivering|quivering]] or vibrating [[m/_movement|movement]].**
 	- _Example: He hit it with a hammer, hoping he could jar it loose._
-- **To [[h/_harm|harm]] or [[i/_injure|injure]] by such [[a/_action|action]].**
+- **To [[h/_harm|harm]] or [[i/_injure|injure]] by [[s/_such|such]] [[a/_action|action]].**
 - **To [[s/_shock|shock]] or surprise.**
 	- _Example: I think the accident jarred him, as he hasn’t got back in a car since._
 - **To [[a/_act|act]] in [[d/_disagreement|disagreement]] or [[o/_opposition|opposition]], to [[c/_clash|clash]], to be at [[o/_odds|odds]] with; to [[i/_interfere|interfere]]; to [[d/_dispute|dispute]], to [[q/_quarrel|quarrel]].**

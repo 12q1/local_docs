@@ -1,7 +1,7 @@
 # Garbling
 ---
 #verb
-- **To [[p/_pick|pick]] [[o/_out|out]] such [[p/_parts|parts]] (of a text) as [[m/_may|may]] [[s/_serve|serve]] a [[p/_purpose|purpose]]; to [[m/_mutilate|mutilate]]; to [[p/_pervert|pervert]]**
+- **To [[p/_pick|pick]] [[o/_out|out]] [[s/_such|such]] [[p/_parts|parts]] (of a text) as [[m/_may|may]] [[s/_serve|serve]] a [[p/_purpose|purpose]]; to [[m/_mutilate|mutilate]]; to [[p/_pervert|pervert]]**
 	- _Example: to garble a quotation_
 - **To [[m/_make|make]] [[f/_false|false]] by [[m/_mutilation|mutilation]] or [[a/_addition|addition]]**
 	- _Example: The editor garbled the story._
@@ -10,6 +10,6 @@
 ---
 #noun
 - **The [[a/_act|act]] by which [[s/_something|something]] is [[g/_garbled|garbled]] or [[c/_confused|confused]].**
-- **The [[p/_process|process]] of [[r/_removing|removing]] the unwanted substances [[p/_present|present]] in [[c/_crude|crude]] [[d/_drugs|drugs]] [[a/_after|after]] [[d/_drying|drying]].**
+- **The [[p/_process|process]] of [[r/_removing|removing]] the unwanted [[s/_substances|substances]] [[p/_present|present]] in [[c/_crude|crude]] [[d/_drugs|drugs]] [[a/_after|after]] [[d/_drying|drying]].**
 ---
 ---

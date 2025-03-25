@@ -7,6 +7,6 @@
 - [[c/_catlet|catlet]], [[s/_sheat|sheat]], [[s/_sheatfish|sheatfish]]
 #noun
 - **[[s/_someone|Someone]] who [[c/_creates|creates]] a [[f/_fake|fake]] [[p/_profile|profile]] on a [[s/_social|social]] [[m/_media|media]] [[p/_platform|platform]] in [[o/_order|order]] to [[d/_deceive|deceive]] [[p/_people|people]].**
-- **Such a [[f/_fake|fake]] [[p/_profile|profile]].**
+- **[[s/_such|Such]] a [[f/_fake|fake]] [[p/_profile|profile]].**
 ---
 ---

@@ -23,7 +23,7 @@
 	- _Example: His large round head was shaved slick._
 - **[[a/_appearing|Appearing]] [[e/_expensive|expensive]] or [[s/_sophisticated|sophisticated]].**
 	- _Example: They read all kinds of slick magazines._
-- **Superficially [[c/_convincing|convincing]] but [[a/_actually|actually]] untrustworthy.**
+- **[[s/_superficially|Superficially]] [[c/_convincing|convincing]] but [[a/_actually|actually]] untrustworthy.**
 	- _Example: That new sales rep is slick. Be sure to read the fine print before you buy anything._
 - **([[o/_often|often]] used [[s/_sarcastically|sarcastically]]) [[c/_clever|Clever]], [[m/_making|making]] an [[a/_apparently|apparently]] [[h/_hard|hard]] task [[e/_easy|easy]].**
 	- _Example: Our new process for extracting needles from haystacks is extremely slick._

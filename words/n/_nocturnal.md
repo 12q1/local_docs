@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_person|person]] or [[c/_creature|creature]] that is [[a/_active|active]] at [[n/_night|night]].**
-- **A [[d/_device|device]] for telling the time at [[n/_night|night]], [[r/_rather|rather]] [[l/_like|like]] a sundial but [[r/_read|read]] [[a/_according|according]] to the [[s/_stars|stars]].**
+- **A [[d/_device|device]] for telling the time at [[n/_night|night]], [[r/_rather|rather]] [[l/_like|like]] a [[s/_sundial|sundial]] but [[r/_read|read]] [[a/_according|according]] to the [[s/_stars|stars]].**
 ---
 ### Synonyms
 - 

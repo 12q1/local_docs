@@ -8,7 +8,7 @@
 - **Undifferentiated [[g/_goods|goods]] [[c/_characterized|characterized]] by a [[l/_low|low]] [[p/_profit|profit]] [[m/_margin|margin]], as [[d/_distinguished|distinguished]] from [[b/_branded|branded]] [[p/_products|products]].**
 	- _Example: Although they were once in the forefront of consumer electronics, the calculators have become a mere commodity._
 - **[[a/_anything|Anything]] which [[h/_has|has]] [[b/_both|both]] a use-value and an [[e/_exchange|exchange]]-value.**
-- **[[c/_convenience|Convenience]]; usefulness, suitability.**
+- **[[c/_convenience|Convenience]]; usefulness, [[s/_suitability|suitability]].**
 - **[[s/_self|Self]]-[[i/_interest|interest]]; [[p/_personal|personal]] [[c/_convenience|convenience]] or [[a/_advantage|advantage]].**
 ---
 ---

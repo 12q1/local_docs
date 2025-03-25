@@ -5,6 +5,6 @@
 - **A [[m/_mishap|mishap]], an unlucky [[c/_circumstance|circumstance]].**
 ---
 #verb
-- **To undergo (a [[m/_misfortune|misfortune]]); to suffer ([[s/_something|something]] unfortunate).**
+- **To undergo (a [[m/_misfortune|misfortune]]); to [[s/_suffer|suffer]] ([[s/_something|something]] unfortunate).**
 ---
 ---

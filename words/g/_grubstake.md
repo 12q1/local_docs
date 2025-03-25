@@ -6,6 +6,6 @@
 - **[[m/_money|Money]], [[n/_necessities|necessities]] [[s/_stockpiled|stockpiled]] to sustain an [[e/_effort|effort]] for a [[p/_period|period]] of time.**
 ---
 #verb
-- **To supply such [[f/_funds|funds]] to.**
+- **To supply [[s/_such|such]] [[f/_funds|funds]] to.**
 ---
 ---

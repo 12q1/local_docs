@@ -5,7 +5,7 @@
 	- _Example: Con artists are not cowed by the law._
 ---
 #adjective
-- **[[f/_frightened|Frightened]] [[i/_into|into]] submission.**
+- **[[f/_frightened|Frightened]] [[i/_into|into]] [[s/_submission|submission]].**
 ---
 ### Synonyms
 - [[i/_intimidated|intimidated]]

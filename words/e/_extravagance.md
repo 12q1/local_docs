@@ -1,7 +1,7 @@
 # Extravagance
 ---
 #noun
-- **[[e/_excessive|Excessive]] or superfluous [[e/_expenditure|expenditure]] of [[m/_money|money]].**
+- **[[e/_excessive|Excessive]] or [[s/_superfluous|superfluous]] [[e/_expenditure|expenditure]] of [[m/_money|money]].**
 - **[[p/_prodigality|Prodigality]], as of [[a/_anger|anger]], [[l/_love|love]], [[e/_expression|expression]], [[i/_imagination|imagination]], or [[d/_demands|demands]].**
 ---
 ### Synonyms

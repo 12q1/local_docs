@@ -1,7 +1,7 @@
 # Performant
 ---
 #noun
-- **[[s/_someone|Someone]] who [[p/_performs|performs]] [[s/_something|something]], such as a [[r/_ritual|ritual]].**
+- **[[s/_someone|Someone]] who [[p/_performs|performs]] [[s/_something|something]], [[s/_such|such]] as a [[r/_ritual|ritual]].**
 ---
 ### Synonyms
 - [[p/_performer|performer]]

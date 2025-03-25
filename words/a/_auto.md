@@ -24,7 +24,7 @@
 	- _Example: Absent-minded doodling is a form of automatic art._
 - **[[n/_necessary|Necessary]], [[i/_inevitable|inevitable]], [[p/_prescribed|prescribed]] by [[l/_logic|logic]], [[l/_law|law]], [[e/_etc|etc]].**
 	- _Example: Spitting at another player means an automatic red card._
-- **(of a [[f/_firearm|firearm]] such as a [[m/_machine|machine]] [[g/_gun|gun]]) [[f/_firing|Firing]] [[c/_continuously|continuously]] as [[l/_long|long]] as the trigger is [[p/_pressed|pressed]] until [[a/_ammunition|ammunition]] is [[e/_exhausted|exhausted]].**
+- **(of a [[f/_firearm|firearm]] [[s/_such|such]] as a [[m/_machine|machine]] [[g/_gun|gun]]) [[f/_firing|Firing]] [[c/_continuously|continuously]] as [[l/_long|long]] as the trigger is [[p/_pressed|pressed]] until [[a/_ammunition|ammunition]] is [[e/_exhausted|exhausted]].**
 	- _Example: Fully automatic weapons cannot be legally owned by private citizens in the US, except in very special circumstances, as by private security companies._
 - **(of a [[h/_handgun|handgun]]) An [[a/_autoloader|autoloader]]; a [[s/_semi|semi]]-[[a/_automatic|automatic]] or [[s/_self|self]]-[[l/_loading|loading]] [[p/_pistol|pistol]], as [[o/_opposed|opposed]] to a [[r/_revolver|revolver]] or [[o/_other|other]] [[m/_manually|manually]] [[a/_actuated|actuated]] [[h/_handgun|handgun]], which [[f/_fires|fires]] [[o/_one|one]] [[s/_shot|shot]] [[p/_per|per]] [[p/_pull|pull]] of the trigger; [[d/_distinct|distinct]] from [[m/_machine|machine]] [[g/_guns|guns]].**
 	- _Example: The US Army adopted John Browning's M1911 pistol as its sidearm, chambered in .45 ACP (Automatic Colt Pistol)._

@@ -4,7 +4,7 @@
 - **A [[s/_small|small]] [[b/_bag|bag]] for [[c/_carrying|carrying]] [[m/_money|money]].**
 - **A [[h/_handbag|handbag]] ([[s/_small|small]] [[b/_bag|bag]] usually used by women for [[c/_carrying|carrying]] various [[s/_small|small]] [[p/_personal|personal]] [[i/_items|items]])**
 - **A [[q/_quantity|quantity]] of [[m/_money|money]] [[g/_given|given]] for a [[p/_particular|particular]] [[p/_purpose|purpose]].**
-- **A [[s/_specific|specific]] sum of [[m/_money|money]] in [[c/_certain|certain]] [[c/_countries|countries]]: [[f/_formerly|formerly]] 500 [[p/_piastres|piastres]] in Turkey or 50 tomans in [[p/_persia|Persia]].**
+- **A [[s/_specific|specific]] [[s/_sum|sum]] of [[m/_money|money]] in [[c/_certain|certain]] [[c/_countries|countries]]: [[f/_formerly|formerly]] 500 [[p/_piastres|piastres]] in Turkey or 50 tomans in [[p/_persia|Persia]].**
 ---
 ### Synonyms
 - [[b/_bursary|bursary]], [[g/_grant|grant]], [[p/_pocketbook|pocketbook]], [[h/_handbag|handbag]]

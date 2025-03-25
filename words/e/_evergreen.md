@@ -12,7 +12,7 @@
 #adjective
 - **Of [[p/_plants|plants]], [[e/_especially|especially]] trees, that [[d/_do|do]] not [[s/_shed|shed]] their [[l/_leaves|leaves]] [[s/_seasonally|seasonally]].**
 - **[[c/_continually|Continually]] [[f/_fresh|fresh]] or [[s/_self|self]]-[[r/_renewing|renewing]].**
-- **Suitable for transmission at [[a/_any|any]] time; not urgent or time-[[d/_dependent|dependent]].**
+- **[[s/_suitable|Suitable]] for transmission at [[a/_any|any]] time; not urgent or time-[[d/_dependent|dependent]].**
 ---
 ### Synonyms
 - [[s/_sempervirent|sempervirent]], [[t/_timeless|timeless]]

@@ -8,11 +8,11 @@
 - **The way [[s/_something|something]] [[l/_looks|looks]]; [[p/_personal|personal]] [[p/_presence|presence]]**
 - **[[a/_apparent|Apparent]] [[l/_likeness|likeness]]; the way which [[s/_something|something]] or [[s/_someone|someone]] [[a/_appears|appears]] to [[o/_others|others]].**
 	- _Example: Some people say I'm shallow because I care so much about my appearance._
-- **That which is not substance, [[e/_essence|essence]], [[h/_hypostasis|hypostasis]]; the [[o/_outward|outward]] [[r/_reality|reality]] as [[o/_opposed|opposed]] to the underlying [[r/_reality|reality]]**
+- **That which is not [[s/_substance|substance]], [[e/_essence|essence]], [[h/_hypostasis|hypostasis]]; the [[o/_outward|outward]] [[r/_reality|reality]] as [[o/_opposed|opposed]] to the underlying [[r/_reality|reality]]**
 	- _Example: Catholicism teaches that the Eucharist, while remaining under the physical appearance of bread and wine, becomes really and truly the body and the blood of Christ._
 - **The [[a/_act|act]] of [[a/_appearing|appearing]] in a [[p/_particular|particular]] [[p/_place|place]], or in [[s/_society|society]], a [[c/_company|company]], or [[a/_any|any]] [[p/_proceedings|proceedings]]; a [[c/_coming|coming]] [[b/_before|before]] the [[p/_public|public]] in a [[p/_particular|particular]] [[c/_character|character]].**
 	- _Example: A person makes his appearance as an historian, an artist, or an orator._
-- **An [[i/_instance|instance]] of [[s/_someone|someone]] [[c/_coming|coming]] [[i/_into|into]] a [[c/_court|court]] of [[l/_law|law]] to be [[p/_part|part]] of a trial, [[e/_either|either]] in [[p/_person|person]] or [[r/_represented|represented]] by an [[a/_attorney|attorney]] or such [[l/_like|like]]; a [[c/_court|court]] [[a/_appearance|appearance]]**
+- **An [[i/_instance|instance]] of [[s/_someone|someone]] [[c/_coming|coming]] [[i/_into|into]] a [[c/_court|court]] of [[l/_law|law]] to be [[p/_part|part]] of a trial, [[e/_either|either]] in [[p/_person|person]] or [[r/_represented|represented]] by an [[a/_attorney|attorney]] or [[s/_such|such]] [[l/_like|like]]; a [[c/_court|court]] [[a/_appearance|appearance]]**
 - **[[c/_chiefly|Chiefly]] used by [[n/_nurses|nurses]]: the [[a/_act|act]] of [[d/_defecation|defecation]] by a [[p/_patient|patient]].**
 	- _Example: The patient had a small bowel obstruction and there was no appearance until after the obstruction resolved._
 ---

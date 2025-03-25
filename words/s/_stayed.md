@@ -23,7 +23,7 @@
 - **To [[r/_remain|remain]] in a [[p/_particular|particular]] [[p/_place|place]], [[e/_especially|especially]] for a [[d/_definite|definite]] or [[s/_short|short]] [[p/_period|period]] of time; [[s/_sojourn|sojourn]]; [[a/_abide|abide]].**
 	- _Example: We stayed in Hawaii for a week.  I can only stay for an hour._
 - **To wait; [[r/_rest|rest]] in [[p/_patience|patience]] or [[e/_expectation|expectation]].**
-- **(used with on or upon) To wait as an [[a/_attendant|attendant]]; [[g/_give|give]] [[c/_ceremonious|ceremonious]] or submissive [[a/_attendance|attendance]].**
+- **(used with on or upon) To wait as an [[a/_attendant|attendant]]; [[g/_give|give]] [[c/_ceremonious|ceremonious]] or [[s/_submissive|submissive]] [[a/_attendance|attendance]].**
 - **To [[c/_continue|continue]] to [[h/_have|have]] a [[p/_particular|particular]] [[q/_quality|quality]].**
 	- _Example: Wear gloves so your hands stay warm._
 - **To [[l/_live|live]]; [[r/_reside|reside]]**

@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[h/_hair|Hair]] [[h/_hanging|hanging]] [[o/_over|over]] the [[f/_forehead|forehead]].**
-- **A [[h/_hairstyle|hairstyle]] [[i/_including|including]] such [[h/_hair|hair]], [[e/_especially|especially]] [[c/_cut|cut]] [[s/_straight|straight]] [[a/_across|across]] the [[f/_forehead|forehead]].**
+- **A [[h/_hairstyle|hairstyle]] [[i/_including|including]] [[s/_such|such]] [[h/_hair|hair]], [[e/_especially|especially]] [[c/_cut|cut]] [[s/_straight|straight]] [[a/_across|across]] the [[f/_forehead|forehead]].**
 ---
 ### Synonyms
 - [[b/_bang|bang]], [[f/_forelocks|forelocks]], [[f/_fringe|fringe]], [[b/_bang|bang]], [[f/_fringe|fringe]]

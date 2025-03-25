@@ -1,11 +1,11 @@
 # Lurches
 ---
 #noun
-- **A sudden or unsteady [[m/_movement|movement]].**
+- **A [[s/_sudden|sudden]] or unsteady [[m/_movement|movement]].**
 	- _Example: the lurch of a ship, or of a drunkard_
 ---
 #verb
-- **To [[m/_make|make]] such a sudden, unsteady [[m/_movement|movement]].**
+- **To [[m/_make|make]] [[s/_such|such]] a [[s/_sudden|sudden]], unsteady [[m/_movement|movement]].**
 ---
 #verb
 - **To swallow or [[e/_eat|eat]] [[g/_greedily|greedily]]; to [[d/_devour|devour]]; [[h/_hence|hence]], to swallow up.**

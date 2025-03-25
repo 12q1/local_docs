@@ -11,7 +11,7 @@
 - **The [[l/_lateral|lateral]] [[s/_space|space]] [[o/_occupied|occupied]] by an [[e/_element|element]] [[m/_measured|measured]] from the [[e/_extremity|extremity]] of [[o/_one|one]] [[f/_flank|flank]] to the [[e/_extremity|extremity]] of the [[o/_other|other]] [[f/_flank|flank]].**
 - **The [[d/_direction|direction]] of the [[e/_enemy|enemy]].**
 - **When a [[c/_combat|combat]] [[s/_situation|situation]] [[d/_does|does]] not [[e/_exist|exist]] or is not [[a/_assumed|assumed]], the [[d/_direction|direction]] toward which the [[c/_command|command]] is [[f/_faced|faced]].**
-- **A [[m/_major|major]] [[m/_military|military]] subdivision of the [[s/_soviet|Soviet]] [[a/_army|Army]].**
+- **A [[m/_major|major]] [[m/_military|military]] [[s/_subdivision|subdivision]] of the [[s/_soviet|Soviet]] [[a/_army|Army]].**
 - **[[c/_cheek|Cheek]]; [[b/_boldness|boldness]]; [[i/_impudence|impudence]].**
 - **An [[a/_act|act]], [[s/_show|show]], [[f/_fa|fa]]ç[[a/_ade|ade]], [[p/_persona|persona]]: an [[i/_intentional|intentional]] and [[f/_false|false]] [[i/_impression|impression]] of [[o/_oneself|oneself]].**
 	- _Example: He says he likes hip-hop, but I think it's just a front._

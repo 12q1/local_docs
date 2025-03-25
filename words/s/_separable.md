@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[a/_able|Able]] to be [[s/_separated|separated]].**
-- **Of a topological [[s/_space|space]], [[h/_having|having]] a [[c/_countable|countable]] [[d/_dense|dense]] subset.**
+- **Of a topological [[s/_space|space]], [[h/_having|having]] a [[c/_countable|countable]] [[d/_dense|dense]] [[s/_subset|subset]].**
 ---
 ### Synonyms
 - [[d/_disunitable|disunitable]]

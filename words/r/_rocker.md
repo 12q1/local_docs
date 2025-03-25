@@ -10,8 +10,8 @@
 - **A [[m/_musician|musician]] who [[p/_plays|plays]] [[r/_rock|rock]] [[m/_music|music]].**
 - **A [[r/_rock|rock]] [[m/_music|music]] [[s/_song|song]].**
 - **[[o/_one|One]] who [[r/_rocks|rocks]] [[s/_something|something]].**
-- **A [[m/_member|member]] of a [[b/_british|British]] subculture of the 1960s, [[o/_opposed|opposed]] to the [[m/_mods|mods]], who [[d/_dressed|dressed]] in [[b/_black|black]] [[l/_leather|leather]] and were [[i/_interested|interested]] in 1950s [[m/_music|music]].**
-- **[[a/_any|Any]] [[i/_implement|implement]] or [[m/_machine|machine]] working with a [[r/_rocking|rocking]] [[m/_motion|motion]], such as a trough [[m/_mounted|mounted]] on [[r/_rockers|rockers]] for [[s/_separating|separating]] [[g/_gold|gold]] [[d/_dust|dust]] from [[g/_gravel|gravel]], [[e/_etc|etc]]., by [[a/_agitation|agitation]] in water.**
+- **A [[m/_member|member]] of a [[b/_british|British]] [[s/_subculture|subculture]] of the 1960s, [[o/_opposed|opposed]] to the [[m/_mods|mods]], who [[d/_dressed|dressed]] in [[b/_black|black]] [[l/_leather|leather]] and were [[i/_interested|interested]] in 1950s [[m/_music|music]].**
+- **[[a/_any|Any]] [[i/_implement|implement]] or [[m/_machine|machine]] working with a [[r/_rocking|rocking]] [[m/_motion|motion]], [[s/_such|such]] as a trough [[m/_mounted|mounted]] on [[r/_rockers|rockers]] for [[s/_separating|separating]] [[g/_gold|gold]] [[d/_dust|dust]] from [[g/_gravel|gravel]], [[e/_etc|etc]]., by [[a/_agitation|agitation]] in water.**
 - **A tool with [[s/_small|small]] teeth that [[r/_roughens|roughens]] a [[m/_metal|metal]] [[p/_plate|plate]] to [[p/_produce|produce]] tonality in mezzotints.**
 - **A [[r/_rocking|rocking]] [[h/_horse|horse]].**
 - **A [[r/_rocker|rocker]] [[b/_board|board]].**

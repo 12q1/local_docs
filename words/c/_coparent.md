@@ -1,7 +1,7 @@
 # Coparent
 ---
 #noun
-- **[[s/_someone|Someone]] who [[s/_shares|shares]] in the [[p/_parenting|parenting]] of a [[c/_child|child]] or [[c/_children|children]], such as:**
+- **[[s/_someone|Someone]] who [[s/_shares|shares]] in the [[p/_parenting|parenting]] of a [[c/_child|child]] or [[c/_children|children]], [[s/_such|such]] as:**
 	- _Example: a parent in a same-sex couple_
 ---
 #verb

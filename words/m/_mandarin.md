@@ -7,7 +7,7 @@
 - **A [[s/_senior|senior]] [[c/_civil|civil]] [[s/_servant|servant]]**
 ---
 #adjective
-- **[[p/_pertaining|Pertaining]] to or [[r/_reminiscent|reminiscent]] of [[m/_mandarins|mandarins]]; [[d/_deliberately|deliberately]] superior or [[c/_complex|complex]]; [[e/_esoteric|esoteric]], [[h/_highbrow|highbrow]], [[o/_obscurantist|obscurantist]]**
+- **[[p/_pertaining|Pertaining]] to or [[r/_reminiscent|reminiscent]] of [[m/_mandarins|mandarins]]; [[d/_deliberately|deliberately]] [[s/_superior|superior]] or [[c/_complex|complex]]; [[e/_esoteric|esoteric]], [[h/_highbrow|highbrow]], [[o/_obscurantist|obscurantist]]**
 ---
 #noun
 - **A [[p/_perching|perching]] [[d/_duck|duck]] that [[h/_has|has]] a [[r/_red|red]] [[b/_bill|bill]], [[l/_large|large]] white [[c/_crescent|crescent]] [[a/_above|above]] the [[e/_eye|eye]] and [[r/_reddish|reddish]] [[f/_face|face]], [[a/_aix|Aix]] galericulata.**

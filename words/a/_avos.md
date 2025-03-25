@@ -1,7 +1,7 @@
 # Avos
 ---
 #noun
-- **A subdivision of [[c/_currency|currency]], [[e/_equal|equal]] to [[o/_one|one]] [[h/_hundredth|hundredth]] of a [[m/_macanese|Macanese]] [[p/_pataca|pataca]].**
+- **A [[s/_subdivision|subdivision]] of [[c/_currency|currency]], [[e/_equal|equal]] to [[o/_one|one]] [[h/_hundredth|hundredth]] of a [[m/_macanese|Macanese]] [[p/_pataca|pataca]].**
 ---
 #noun
 - **The [[l/_large|large]], usually [[y/_yellowish|yellowish]]-[[g/_green|green]] or [[b/_black|black]], [[p/_pulpy|pulpy]] [[f/_fruit|fruit]] of the [[a/_avocado|avocado]] tree.**

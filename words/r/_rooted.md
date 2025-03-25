@@ -23,7 +23,7 @@
 ### Synonyms
 - [[b/_bang|bang]], [[d/_drill|drill]], [[s/_screw|screw]], [[s/_shag|shag]], [[r/_rummage|rummage]]
 #verb
-- **(with "for" or "on") To [[c/_cheer|cheer]] (on); to [[s/_show|show]] support (for) and [[h/_hope|hope]] for the success of. ([[s/_see|See]] [[r/_root|root]] for.)**
+- **(with "for" or "on") To [[c/_cheer|cheer]] (on); to [[s/_show|show]] support (for) and [[h/_hope|hope]] for the [[s/_success|success]] of. ([[s/_see|See]] [[r/_root|root]] for.)**
 	- _Example: I'm rooting for you, don't let me down!_
 ---
 ### Synonyms

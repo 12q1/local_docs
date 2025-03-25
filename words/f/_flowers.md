@@ -13,7 +13,7 @@
 - **The [[b/_best|best]] [[s/_state|state]] of things; the [[p/_prime|prime]].**
 	- _Example: She was in the flower of her life._
 - **[[f/_flour|Flour]].**
-- **(in the [[p/_plural|plural]]) A substance in the [[f/_form|form]] of a [[p/_powder|powder]], [[e/_especially|especially]] when [[c/_condensed|condensed]] from sublimation.**
+- **(in the [[p/_plural|plural]]) A [[s/_substance|substance]] in the [[f/_form|form]] of a [[p/_powder|powder]], [[e/_especially|especially]] when [[c/_condensed|condensed]] from [[s/_sublimation|sublimation]].**
 	- _Example: the flowers of sulphur_
 - **A [[f/_figure|figure]] of [[s/_speech|speech]]; an [[o/_ornament|ornament]] of [[s/_style|style]].**
 - **[[o/_ornamental|Ornamental]] type used [[c/_chiefly|chiefly]] for [[b/_borders|borders]] [[a/_around|around]] [[p/_pages|pages]], [[c/_cards|cards]], [[e/_etc|etc]].**
@@ -27,11 +27,11 @@
 - **To [[d/_decorate|decorate]] with [[p/_pictures|pictures]] of [[f/_flowers|flowers]].**
 - **To [[r/_reach|reach]] a [[s/_state|state]] of [[f/_full|full]] [[d/_development|development]] or [[a/_achievement|achievement]].**
 - **To [[f/_froth|froth]]; to [[f/_ferment|ferment]] [[g/_gently|gently]], as [[n/_new|new]] [[b/_beer|beer]].**
-- **To [[c/_come|come]] [[o/_off|off]] as [[f/_flowers|flowers]] by sublimation.**
+- **To [[c/_come|come]] [[o/_off|off]] as [[f/_flowers|flowers]] by [[s/_sublimation|sublimation]].**
 ---
 ### Synonyms
 - [[f/_flourish|flourish]], [[b/_bloom|bloom]], [[b/_blossom|blossom]]
 #noun
-- **[[s/_something|Something]] that [[f/_flows|flows]], such as a [[r/_river|river]].**
+- **[[s/_something|Something]] that [[f/_flows|flows]], [[s/_such|such]] as a [[r/_river|river]].**
 ---
 ---

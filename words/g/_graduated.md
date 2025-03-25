@@ -21,6 +21,6 @@
 - **[[m/_marked|Marked]] with [[g/_graduations|graduations]].**
 - **[[a/_arranged|Arranged]] by [[g/_grade|grade]], [[l/_level|level]], [[d/_degree|degree]].**
 - **[[i/_increasing|Increasing]] in [[r/_rate|rate]] with the taxable [[b/_base|base]].**
-- **Of a tail, [[h/_having|having]] successively [[l/_longer|longer]] [[f/_feathers|feathers]] towards the [[m/_middle|middle]].**
+- **Of a tail, [[h/_having|having]] [[s/_successively|successively]] [[l/_longer|longer]] [[f/_feathers|feathers]] towards the [[m/_middle|middle]].**
 ---
 ---

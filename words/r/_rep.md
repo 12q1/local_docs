@@ -6,7 +6,7 @@
 ---
 #noun
 - **A [[r/_repertoire|repertoire]]**
-- **A [[c/_collection|collection]] of things, or a [[p/_place|place]] where such a [[c/_collection|collection]] is [[k/_kept|kept]]**
+- **A [[c/_collection|collection]] of things, or a [[p/_place|place]] where [[s/_such|such]] a [[c/_collection|collection]] is [[k/_kept|kept]]**
 - **A [[s/_specific|specific]] [[s/_set|set]] of works that a [[c/_company|company]] [[p/_performs|performs]]**
 - **A theater in which a [[r/_resident|resident]] [[c/_company|company]] [[p/_presents|presents]] works from a [[s/_specified|specified]] [[r/_repertoire|repertoire]], usually in [[a/_alternation|alternation]].**
 - **A [[r/_repertory|repertory]] [[c/_company|company]].**
@@ -18,7 +18,7 @@
 ### Synonyms
 - [[r/_rep|rep]]
 #noun
-- **A [[p/_piece|piece]] of [[i/_information|information]] [[d/_describing|describing]], or an [[a/_account|account]] of [[c/_certain|certain]] [[e/_events|events]] [[g/_given|given]] or [[p/_presented|presented]] to [[s/_someone|someone]], with the [[m/_most|most]] [[c/_common|common]] adpositions [[b/_being|being]] by ([[r/_referring|referring]] to [[c/_creator|creator]] of the [[r/_report|report]]) and on ([[r/_referring|referring]] to the subject).**
+- **A [[p/_piece|piece]] of [[i/_information|information]] [[d/_describing|describing]], or an [[a/_account|account]] of [[c/_certain|certain]] [[e/_events|events]] [[g/_given|given]] or [[p/_presented|presented]] to [[s/_someone|someone]], with the [[m/_most|most]] [[c/_common|common]] adpositions [[b/_being|being]] by ([[r/_referring|referring]] to [[c/_creator|creator]] of the [[r/_report|report]]) and on ([[r/_referring|referring]] to the [[s/_subject|subject]]).**
 	- _Example: A report by the telecommunications ministry on the phone network revealed a severe capacity problem._
 - **[[r/_reputation|Reputation]].**
 - **The [[s/_sharp|sharp]], [[l/_loud|loud]] [[s/_sound|sound]] from a [[g/_gun|gun]] or [[e/_explosion|explosion]].**

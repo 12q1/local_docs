@@ -15,6 +15,6 @@
 ### Synonyms
 - [[m/_mereswine|mereswine]]
 #noun
-- **A [[m/_man|man]]-[[m/_made|made]] [[s/_semi|semi]] submerged [[m/_maritime|maritime]] [[s/_structure|structure]], usually [[i/_installed|installed]] to [[p/_provide|provide]] a [[f/_fixed|fixed]] [[s/_structure|structure]] for temporary [[m/_mooring|mooring]], to [[p/_prevent|prevent]] [[s/_ships|ships]] from [[d/_drifting|drifting]] to [[s/_shallow|shallow]] water or to [[s/_serve|serve]] as [[b/_base|base]] for [[n/_navigational|navigational]] [[a/_aids|aids]].**
+- **A [[m/_man|man]]-[[m/_made|made]] [[s/_semi|semi]] [[s/_submerged|submerged]] [[m/_maritime|maritime]] [[s/_structure|structure]], usually [[i/_installed|installed]] to [[p/_provide|provide]] a [[f/_fixed|fixed]] [[s/_structure|structure]] for temporary [[m/_mooring|mooring]], to [[p/_prevent|prevent]] [[s/_ships|ships]] from [[d/_drifting|drifting]] to [[s/_shallow|shallow]] water or to [[s/_serve|serve]] as [[b/_base|base]] for [[n/_navigational|navigational]] [[a/_aids|aids]].**
 ---
 ---

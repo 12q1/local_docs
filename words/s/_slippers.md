@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_low|low]] [[s/_soft|soft]] [[s/_shoe|shoe]] that [[c/_can|can]] be [[s/_slipped|slipped]] on and [[o/_off|off]] [[e/_easily|easily]].**
-- **Such a [[s/_shoe|shoe]] [[i/_intended|intended]] for [[i/_indoor|indoor]] use; a [[b/_bedroom|bedroom]] or [[h/_house|house]] [[s/_slipper|slipper]].**
+- **[[s/_such|Such]] a [[s/_shoe|shoe]] [[i/_intended|intended]] for [[i/_indoor|indoor]] use; a [[b/_bedroom|bedroom]] or [[h/_house|house]] [[s/_slipper|slipper]].**
 	- _Example: Get out of bed, put on your slippers, and come downstairs._
 - **A [[f/_flip|flip]]-[[f/_flop|flop]] (type of [[r/_rubber|rubber]] [[s/_sandal|sandal]]).**
 - **A [[p/_person|person]] who [[s/_slips|slips]].**

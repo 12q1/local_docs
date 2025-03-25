@@ -9,7 +9,7 @@
 ### Synonyms
 - [[w/_wizard|wizard]]
 #adjective
-- **[[h/_having|Having]] a subordinate or [[a/_auxiliary|auxiliary]] [[p/_position|position]].**
+- **[[h/_having|Having]] a [[s/_subordinate|subordinate]] or [[a/_auxiliary|auxiliary]] [[p/_position|position]].**
 	- _Example: an assistant surgeon_
 - **[[h/_helping|Helping]]; [[l/_lending|lending]] [[a/_aid|aid]] or support; [[a/_auxiliary|auxiliary]].**
 ---

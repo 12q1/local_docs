@@ -15,7 +15,7 @@
 ---
 #noun
 - **The [[p/_process|process]] by which [[s/_something|something]] is [[m/_mashed|mashed]] or [[b/_beaten|beaten]] to [[p/_pulp|pulp]].**
-- **The [[a/_action|action]] of [[s/_soaking|soaking]] [[m/_malted|malted]] [[b/_barley|barley]] [[e/_etc|etc]]., in [[o/_order|order]] to [[c/_convert|convert]] [[s/_starch|starch]] [[i/_into|into]] sugars as [[p/_part|part]] of the [[b/_brewing|brewing]] [[p/_process|process]].**
+- **The [[a/_action|action]] of [[s/_soaking|soaking]] [[m/_malted|malted]] [[b/_barley|barley]] [[e/_etc|etc]]., in [[o/_order|order]] to [[c/_convert|convert]] [[s/_starch|starch]] [[i/_into|into]] [[s/_sugars|sugars]] as [[p/_part|part]] of the [[b/_brewing|brewing]] [[p/_process|process]].**
 - **The [[p/_process|process]] of [[p/_preparing|preparing]] tea in a teapot.**
 ---
 ---

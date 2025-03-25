@@ -8,7 +8,7 @@
 - **[[o/_one|One]] who [[d/_dresses|dresses]] in a [[p/_particular|particular]] way.**
 	- _Example: He's a very snappy dresser._
 - **A wardrobe [[a/_assistant|assistant]] (who [[h/_helps|helps]] [[a/_actors|actors]] [[p/_put|put]] on their [[c/_costume|costume]]).**
-- **A [[s/_servant|servant]] to [[r/_royalty|royalty]] [[e/_etc|etc]]. who [[h/_helps|helps]] them with tasks such as [[d/_dressing|dressing]].**
+- **A [[s/_servant|servant]] to [[r/_royalty|royalty]] [[e/_etc|etc]]. who [[h/_helps|helps]] them with tasks [[s/_such|such]] as [[d/_dressing|dressing]].**
 - **A surgeon'[[s/_s|s]] [[a/_assistant|assistant]] who [[h/_helps|helps]] to [[d/_dress|dress]] wounds [[e/_etc|etc]].**
 - **A [[f/_football|football]] [[h/_hooligan|hooligan]] who wears [[d/_designer|designer]] [[c/_clothing|clothing]]; a [[c/_casual|casual]].**
 - **A [[m/_mechanical|mechanical]] [[d/_device|device]] used in [[g/_grain|grain]] [[m/_mills|mills]] for [[b/_bolting|bolting]].**

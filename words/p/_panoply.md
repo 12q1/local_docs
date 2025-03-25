@@ -9,7 +9,7 @@
 - **(by [[e/_extension|extension]]) A [[b/_broad|broad]] or [[f/_full|full]] [[r/_range|range]] or [[c/_complete|complete]] [[s/_set|set]].**
 ---
 #verb
-- **To [[f/_fit|fit]] [[o/_out|out]] in a suit of [[a/_armour|armour]]**
+- **To [[f/_fit|fit]] [[o/_out|out]] in a [[s/_suit|suit]] of [[a/_armour|armour]]**
 - **To [[a/_array|array]] or [[b/_bedeck|bedeck]]**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[d/_disdain|Disdain]], [[c/_contemptuous|contemptuous]] [[f/_feelings|feelings]], [[h/_hatred|hatred]].**
-- **[[a/_action|Action]] or [[b/_behaviour|behaviour]] [[d/_displaying|displaying]] such [[f/_feelings|feelings]]; an [[o/_outrage|outrage]], [[i/_insult|insult]].**
+- **[[a/_action|Action]] or [[b/_behaviour|behaviour]] [[d/_displaying|displaying]] [[s/_such|such]] [[f/_feelings|feelings]]; an [[o/_outrage|outrage]], [[i/_insult|insult]].**
 - **[[e/_evil|Evil]] [[f/_feeling|feeling]]; [[m/_malice|malice]], [[s/_spite|spite]].**
 ---
 #verb

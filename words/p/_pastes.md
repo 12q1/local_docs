@@ -2,10 +2,10 @@
 ---
 #noun
 - **A [[s/_soft|soft]] [[m/_moist|moist]] [[m/_mixture|mixture]], in [[p/_particular|particular]]:**
-- **A substance that [[b/_behaves|behaves]] as a [[s/_solid|solid]] until a sufficiently [[l/_large|large]] [[l/_load|load]] or [[s/_stress|stress]] is [[a/_applied|applied]], at which [[p/_point|point]] it [[f/_flows|flows]] [[l/_like|like]] a [[f/_fluid|fluid]]**
+- **A [[s/_substance|substance]] that [[b/_behaves|behaves]] as a [[s/_solid|solid]] until a [[s/_sufficiently|sufficiently]] [[l/_large|large]] [[l/_load|load]] or [[s/_stress|stress]] is [[a/_applied|applied]], at which [[p/_point|point]] it [[f/_flows|flows]] [[l/_like|like]] a [[f/_fluid|fluid]]**
 - **A [[h/_hard|hard]] [[l/_lead|lead]]-[[c/_containing|containing]] [[g/_glass|glass]], or an [[a/_artificial|artificial]] [[g/_gemstone|gemstone]] [[m/_made|made]] from this [[g/_glass|glass]].**
 - **[[p/_pasta|Pasta]].**
-- **The [[m/_mineral|mineral]] substance in which [[o/_other|other]] [[m/_minerals|minerals]] are [[e/_embedded|embedded]].**
+- **The [[m/_mineral|mineral]] [[s/_substance|substance]] in which [[o/_other|other]] [[m/_minerals|minerals]] are [[e/_embedded|embedded]].**
 ---
 #verb
 - **To [[s/_stick|stick]] with [[p/_paste|paste]]; to [[c/_cause|cause]] to [[a/_adhere|adhere]] by or as [[i/_if|if]] by [[p/_paste|paste]].**

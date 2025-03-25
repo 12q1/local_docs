@@ -1,7 +1,7 @@
 # Ambition
 ---
 #noun
-- **[[e/_eager|Eager]] or [[i/_inordinate|inordinate]] [[d/_desire|desire]] for [[s/_some|some]] [[o/_object|object]] that [[c/_confers|confers]] [[d/_distinction|distinction]], as [[p/_preferment|preferment]], [[h/_honor|honor]], superiority, [[p/_political|political]] [[p/_power|power]], or [[l/_literary|literary]] [[f/_fame|fame]]; [[d/_desire|desire]] to [[d/_distinguish|distinguish]] [[o/_one|one]]'[[s/_s|s]] [[s/_self|self]] from [[o/_other|other]] [[p/_people|people]].**
+- **[[e/_eager|Eager]] or [[i/_inordinate|inordinate]] [[d/_desire|desire]] for [[s/_some|some]] [[o/_object|object]] that [[c/_confers|confers]] [[d/_distinction|distinction]], as [[p/_preferment|preferment]], [[h/_honor|honor]], [[s/_superiority|superiority]], [[p/_political|political]] [[p/_power|power]], or [[l/_literary|literary]] [[f/_fame|fame]]; [[d/_desire|desire]] to [[d/_distinguish|distinguish]] [[o/_one|one]]'[[s/_s|s]] [[s/_self|self]] from [[o/_other|other]] [[p/_people|people]].**
 	- _Example: My son, John, wants to be a firefighter very much. He has a lot of ambition._
 - **An [[o/_object|object]] of an [[a/_ardent|ardent]] [[d/_desire|desire]].**
 	- _Example: My ambition is to own a helicopter._

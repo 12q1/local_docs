@@ -11,7 +11,7 @@
 ---
 #noun
 - **A [[c/_college|college]] [[s/_servant|servant]], [[o/_one|one]] who would [[a/_attend|attend]] upon a [[n/_number|number]] of [[s/_students|students]], [[b/_brushing|brushing]] their [[c/_clothes|clothes]], [[c/_carrying|carrying]] [[p/_parcels|parcels]], waiting at [[p/_parties|parties]] and [[o/_other|other]] tasks, [[d/_distinct|distinct]] from a [[c/_college|college]] [[p/_porter|porter]] or [[b/_bedder|bedder]].**
-- **The [[r/_room|room]] in which such [[c/_college|college]] [[s/_servants|servants]] work.**
+- **The [[r/_room|room]] in which [[s/_such|such]] [[c/_college|college]] [[s/_servants|servants]] work.**
 - **A [[s/_small|small]] [[k/_kitchen|kitchen]] for use by [[c/_college|college]] [[s/_students|students]].**
 ---
 #noun

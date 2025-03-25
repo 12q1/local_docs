@@ -4,6 +4,6 @@
 - **A [[m/_member|member]] of the [[p/_phylum|phylum]] [[c/_chordata|Chordata]]; [[n/_numerous|numerous]] [[a/_animals|animals]] [[h/_having|having]] a [[n/_notochord|notochord]] at [[s/_some|some]] [[s/_stage|stage]] of their [[d/_development|development]]; in vertebrates this [[d/_develops|develops]] [[i/_into|into]] the [[s/_spine|spine]]**
 ---
 #adjective
-- **Of such [[a/_animals|animals]].**
+- **Of [[s/_such|such]] [[a/_animals|animals]].**
 ---
 ---

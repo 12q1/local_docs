@@ -17,7 +17,7 @@
 #adjective
 - **[[m/_melted|Melted]].**
 	- _Example: molten metal_
-- **[[m/_made|Made]] from a [[m/_melted|melted]] substance.**
+- **[[m/_made|Made]] from a [[m/_melted|melted]] [[s/_substance|substance]].**
 - **[[g/_glowing|Glowing]] [[r/_red|red]]-[[h/_hot|hot]].**
 ---
 ---

@@ -9,7 +9,7 @@
 - [[b/_bergh|bergh]], [[b/_beshield|beshield]]
 #adjective
 - **[[d/_defended|Defended]]**
-- **(of a variable, [[m/_method|method]], [[e/_etc|etc]].) [[h/_having|Having]] the [[p/_protected|protected]] [[a/_access|access]] [[m/_modifier|modifier]], [[i/_indicating|indicating]] that a [[p/_program|program]] [[e/_element|element]] is [[a/_accessible|accessible]] to subclasses but not to the [[p/_program|program]] in [[g/_general|general]].**
+- **(of a variable, [[m/_method|method]], [[e/_etc|etc]].) [[h/_having|Having]] the [[p/_protected|protected]] [[a/_access|access]] [[m/_modifier|modifier]], [[i/_indicating|indicating]] that a [[p/_program|program]] [[e/_element|element]] is [[a/_accessible|accessible]] to [[s/_subclasses|subclasses]] but not to the [[p/_program|program]] in [[g/_general|general]].**
 ---
 ### Antonyms
 - [[u/_unprotected|unprotected]]

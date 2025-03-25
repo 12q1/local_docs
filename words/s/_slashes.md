@@ -3,7 +3,7 @@
 #noun
 - **A [[s/_slashing|slashing]] [[a/_action|action]] or [[m/_motion|motion]], [[p/_particularly|particularly]]:**
 - **A [[m/_mark|mark]] [[m/_made|made]] by a [[s/_slashing|slashing]] [[m/_motion|motion]], [[p/_particularly|particularly]]:**
-- **[[s/_something|Something]] [[r/_resembling|resembling]] such a [[m/_mark|mark]], [[p/_particularly|particularly]]:**
+- **[[s/_something|Something]] [[r/_resembling|resembling]] [[s/_such|such]] a [[m/_mark|mark]], [[p/_particularly|particularly]]:**
 - **The [[l/_loose|loose]] woody [[d/_debris|debris]] [[r/_remaining|remaining]] from a [[s/_slash|slash]], ([[p/_particularly|particularly]] [[f/_forestry|forestry]]) the trimmings [[l/_left|left]] while [[p/_preparing|preparing]] [[f/_felled|felled]] trees for [[r/_removal|removal]].**
 	- _Example: Slash generated during logging may constitute a fire hazard._
 - **[[s/_slash|Slash]] [[f/_fiction|fiction]].**
@@ -17,7 +17,7 @@
 - **To [[s/_strike|strike]] violently and [[r/_randomly|randomly]], [[p/_particularly|particularly]]:**
 - **To [[m/_move|move]] [[q/_quickly|quickly]] and violently.**
 - **To [[c/_crack|crack]] a whip with a [[s/_slashing|slashing]] [[m/_motion|motion]].**
-- **To [[c/_clear|clear]] [[l/_land|land]], ([[p/_particularly|particularly]] [[f/_forestry|forestry]]) with violent [[a/_action|action]] such as [[l/_logging|logging]] or [[b/_brushfires|brushfires]] or through [[g/_grazing|grazing]].**
+- **To [[c/_clear|clear]] [[l/_land|land]], ([[p/_particularly|particularly]] [[f/_forestry|forestry]]) with violent [[a/_action|action]] [[s/_such|such]] as [[l/_logging|logging]] or [[b/_brushfires|brushfires]] or through [[g/_grazing|grazing]].**
 	- _Example: The province's traditional slash-and-burn agriculture was only sustainable with a much smaller population._
 - **To write [[s/_slash|slash]] [[f/_fiction|fiction]].**
 ---
@@ -32,7 +32,7 @@
 ---
 #noun
 - **A swampy [[a/_area|area]]; a swamp.**
-- **A [[l/_large|large]] [[q/_quantity|quantity]] of watery [[f/_food|food]] such as [[b/_broth|broth]].**
+- **A [[l/_large|large]] [[q/_quantity|quantity]] of watery [[f/_food|food]] [[s/_such|such]] as [[b/_broth|broth]].**
 ---
 #verb
 - **To work in wet [[c/_conditions|conditions]].**

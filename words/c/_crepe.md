@@ -11,7 +11,7 @@
 ### Synonyms
 - [[c/_crape|crape]]
 #verb
-- **To [[c/_crease|crease]] ([[p/_paper|paper]]) in such a way to [[m/_make|make]] it [[l/_look|look]] [[l/_like|like]] [[c/_crepe|crepe]] [[p/_paper|paper]]**
+- **To [[c/_crease|crease]] ([[p/_paper|paper]]) in [[s/_such|such]] a way to [[m/_make|make]] it [[l/_look|look]] [[l/_like|like]] [[c/_crepe|crepe]] [[p/_paper|paper]]**
 - **To [[f/_frizz|frizz]] (the [[h/_hair|hair]]).**
 ---
 ---

@@ -10,7 +10,7 @@
 - **To [[j/_join|join]] at the [[b/_butt|butt]], [[e/_end|end]], or [[o/_outward|outward]] [[e/_extremity|extremity]]; to terminate; to be [[b/_bounded|bounded]]; to [[a/_abut|abut]].**
 ---
 #noun
-- **A [[p/_push|push]], thrust, or sudden [[b/_blow|blow]], [[g/_given|given]] by the [[h/_head|head]]; a [[h/_head|head]] [[b/_butt|butt]].**
+- **A [[p/_push|push]], thrust, or [[s/_sudden|sudden]] [[b/_blow|blow]], [[g/_given|given]] by the [[h/_head|head]]; a [[h/_head|head]] [[b/_butt|butt]].**
 	- _Example: Be careful in the pen, that ram can knock you down with a butt._
 - **A thrust in [[f/_fencing|fencing]].**
 ---
@@ -24,7 +24,7 @@
 - **A wooden [[c/_cask|cask]] for [[s/_storing|storing]] wine, usually [[c/_containing|containing]] 126 [[g/_gallons|gallons]].**
 ---
 #noun
-- **[[a/_any|Any]] of various [[f/_flatfish|flatfish]] such as [[s/_sole|sole]], [[p/_plaice|plaice]] or turbot**
+- **[[a/_any|Any]] of various [[f/_flatfish|flatfish]] [[s/_such|such]] as [[s/_sole|sole]], [[p/_plaice|plaice]] or turbot**
 ---
 #noun
 - **A [[h/_heavy|heavy]] two-wheeled [[c/_cart|cart]].**

@@ -8,7 +8,7 @@
 	- _Example: She was waiting for inspiration to write a book._
 - **A [[p/_person|person]], [[o/_object|object]], or [[s/_situation|situation]] which [[q/_quickens|quickens]] or [[s/_stimulates|stimulates]] an [[i/_influence|influence]] upon the [[i/_intellect|intellect]], [[e/_emotions|emotions]] or [[c/_creativity|creativity]].**
 	- _Example: The trip was an inspiration to her for writing a book._
-- **A [[n/_new|new]] [[i/_idea|idea]], [[e/_especially|especially]] [[o/_one|one]] which [[a/_arises|arises]] suddenly and is [[c/_clever|clever]] or [[c/_creative|creative]].**
+- **A [[n/_new|new]] [[i/_idea|idea]], [[e/_especially|especially]] [[o/_one|one]] which [[a/_arises|arises]] [[s/_suddenly|suddenly]] and is [[c/_clever|clever]] or [[c/_creative|creative]].**
 ---
 ### Synonyms
 - [[i/_inhalation|inhalation]], [[e/_eureka|eureka]], [[f/_flash|flash]], [[s/_spark|spark]]

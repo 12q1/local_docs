@@ -3,7 +3,7 @@
 #adjective
 - **Not very [[i/_illuminated|illuminated]]; [[d/_dim|dim]] [[b/_because|because]] of [[d/_darkness|darkness]], [[e/_especially|especially]] when [[a/_appearing|appearing]] [[d/_depressing|depressing]] or [[f/_frightening|frightening]].**
 	- _Example: The cavern was gloomy._
-- **Suffering from [[g/_gloom|gloom]]; [[m/_melancholy|melancholy]]; [[d/_dejected|dejected]].**
+- **[[s/_suffering|Suffering]] from [[g/_gloom|gloom]]; [[m/_melancholy|melancholy]]; [[d/_dejected|dejected]].**
 	- _Example: a gloomy temper or countenance_
 ---
 ### Synonyms

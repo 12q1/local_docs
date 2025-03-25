@@ -1,7 +1,7 @@
 # Raw
 ---
 #noun
-- **(sugar [[r/_refining|refining]], sugar trade) An unprocessed sugar; a [[b/_batch|batch]] of such.**
+- **([[s/_sugar|sugar]] [[r/_refining|refining]], [[s/_sugar|sugar]] trade) An unprocessed [[s/_sugar|sugar]]; a [[b/_batch|batch]] of [[s/_such|such]].**
 - **A [[g/_galled|galled]] [[p/_place|place]]; an [[i/_inveterate|inveterate]] [[s/_sore|sore]].**
 - **(by [[e/_extension|extension]]) A [[p/_point|point]] [[a/_about|about]] which a [[p/_person|person]] is [[p/_particularly|particularly]] [[s/_sensitive|sensitive]].**
 - **A [[r/_recording|recording]] or [[r/_rip|rip]] of a [[s/_show|show]] that [[h/_has|has]] not [[b/_been|been]] fansubbed.**

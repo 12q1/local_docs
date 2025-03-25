@@ -1,8 +1,8 @@
 # Mods
 ---
 #noun
-- **An unconventionally [[m/_modern|modern]] [[s/_style|style]] of [[f/_fashionable|fashionable]] [[d/_dress|dress]] [[o/_originating|originating]] in [[e/_england|England]] in the 1960s, [[c/_characterized|characterized]] by [[a/_ankle|ankle]]-[[l/_length|length]] [[b/_black|black]] trenchcoats and sunglasses.**
-- **A 1960s [[b/_british|British]] [[p/_person|person]] who [[d/_dressed|dressed]] in such a [[s/_style|style]] and was [[i/_interested|interested]] in [[m/_modernism|modernism]] and the [[m/_modern|modern]] [[m/_music|music]] of the time; the [[o/_opposite|opposite]] of a [[r/_rocker|rocker]].**
+- **An unconventionally [[m/_modern|modern]] [[s/_style|style]] of [[f/_fashionable|fashionable]] [[d/_dress|dress]] [[o/_originating|originating]] in [[e/_england|England]] in the 1960s, [[c/_characterized|characterized]] by [[a/_ankle|ankle]]-[[l/_length|length]] [[b/_black|black]] trenchcoats and [[s/_sunglasses|sunglasses]].**
+- **A 1960s [[b/_british|British]] [[p/_person|person]] who [[d/_dressed|dressed]] in [[s/_such|such]] a [[s/_style|style]] and was [[i/_interested|interested]] in [[m/_modernism|modernism]] and the [[m/_modern|modern]] [[m/_music|music]] of the time; the [[o/_opposite|opposite]] of a [[r/_rocker|rocker]].**
 - **A [[m/_modification|modification]].**
 - **An [[e/_end|end]] user-[[c/_created|created]] [[p/_package|package]] [[c/_containing|containing]] [[m/_modifications|modifications]] to the [[l/_look|look]] or [[b/_behaviour|behaviour]] of a video [[g/_game|game]].**
 - **A [[m/_moderator|moderator]], for [[e/_example|example]] on a [[d/_discussion|discussion]] [[f/_forum|forum]].**
@@ -34,9 +34,9 @@
 	- _Example: In insert mode, characters typed are directly inserted into the buffer._
 - **A [[s/_series|series]] of [[s/_settings|settings]] on a [[d/_device|device]] used for a [[s/_specific|specific]] [[p/_purpose|purpose]].**
 	- _Example: airplane mode; night mode_
-- **A variation in gameplay, such as a [[d/_difficulty|difficulty]] [[l/_level|level]].**
+- **A variation in gameplay, [[s/_such|such]] as a [[d/_difficulty|difficulty]] [[l/_level|level]].**
 - **([[g/_grammar|grammar]]) A verb [[f/_form|form]] that [[d/_depends|depends]] on [[h/_how|how]] [[i/_its|its]] [[c/_containing|containing]] [[c/_clause|clause]] [[r/_relates|relates]] to the [[s/_speaker|speaker]]’[[s/_s|s]] or writer’[[s/_s|s]] wish, [[i/_intent|intent]], or [[a/_assertion|assertion]] [[a/_about|about]] [[r/_reality|reality]].**
-- **That which [[e/_exists|exists]] [[o/_only|only]] as a [[q/_quality|quality]] of substance.**
+- **That which [[e/_exists|exists]] [[o/_only|only]] as a [[q/_quality|quality]] of [[s/_substance|substance]].**
 - **In [[l/_lace|lace]]-[[m/_making|making]], a [[s/_small|small]] [[d/_decorative|decorative]] [[p/_piece|piece]] [[i/_inserted|inserted]] [[i/_into|into]] a [[p/_pattern|pattern]].**
 - **The [[o/_openwork|openwork]] [[b/_between|between]] the [[s/_solid|solid]] [[p/_parts|parts]] of a [[p/_pattern|pattern]].**
 - **A woman'[[s/_s|s]] [[m/_mantle|mantle]] with a [[h/_hood|hood]].**
@@ -50,7 +50,7 @@
 #noun
 - **The [[b/_base|base]] with [[r/_respect|respect]] to which a [[c/_congruence|congruence]] is [[c/_computed|computed]].**
 - **The [[a/_absolute|absolute]] value of a [[c/_complex|complex]] [[n/_number|number]].**
-- **A [[c/_coefficient|coefficient]] that [[e/_expresses|expresses]] [[h/_how|how]] [[m/_much|much]] of a [[c/_certain|certain]] [[p/_property|property]] is [[p/_possessed|possessed]] by a [[c/_certain|certain]] substance.**
+- **A [[c/_coefficient|coefficient]] that [[e/_expresses|expresses]] [[h/_how|how]] [[m/_much|much]] of a [[c/_certain|certain]] [[p/_property|property]] is [[p/_possessed|possessed]] by a [[c/_certain|certain]] [[s/_substance|substance]].**
 - **An [[o/_operator|operator]] [[p/_placed|placed]] [[b/_between|between]] two [[n/_numbers|numbers]], to [[g/_get|get]] the [[r/_remainder|remainder]] of the [[d/_division|division]] of those [[n/_numbers|numbers]].**
 ---
 ### Synonyms

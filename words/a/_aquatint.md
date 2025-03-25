@@ -5,6 +5,6 @@
 - **An [[e/_etching|etching]] or [[p/_print|print]] [[m/_made|made]] using this [[m/_method|method]].**
 ---
 #verb
-- **To [[m/_make|make]] such [[e/_etchings|etchings]].**
+- **To [[m/_make|make]] [[s/_such|such]] [[e/_etchings|etchings]].**
 ---
 ---

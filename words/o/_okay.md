@@ -26,7 +26,7 @@
 ### Antonyms
 - [[f/_forbidden|forbidden]], [[i/_ill|ill]], [[p/_poorly|poorly]], [[s/_sick|sick]], [[u/_unwell|unwell]], [[b/_bad|bad]], [[i/_inadequate|inadequate]], [[p/_poor|poor]], [[u/_unsatisfactory|unsatisfactory]]
 #adverb
-- **[[s/_satisfactorily|Satisfactorily]], sufficiently well.**
+- **[[s/_satisfactorily|Satisfactorily]], [[s/_sufficiently|sufficiently]] well.**
 	- _Example: The team did OK in the playoffs._
 ---
 ### Synonyms

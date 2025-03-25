@@ -1,7 +1,7 @@
 # Gasping
 ---
 #verb
-- **To [[d/_draw|draw]] in the [[b/_breath|breath]] suddenly, as [[i/_if|if]] from a [[s/_shock|shock]].**
+- **To [[d/_draw|draw]] in the [[b/_breath|breath]] [[s/_suddenly|suddenly]], as [[i/_if|if]] from a [[s/_shock|shock]].**
 	- _Example: The audience gasped as the magician disappeared._
 - **To [[b/_breathe|breathe]] [[l/_laboriously|laboriously]] or [[c/_convulsively|convulsively]].**
 	- _Example: We were all gasping when we reached the summit._

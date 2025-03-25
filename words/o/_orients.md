@@ -1,7 +1,7 @@
 # Orients
 ---
 #noun
-- **The [[p/_part|part]] of the [[h/_horizon|horizon]] where the sun [[f/_first|first]] [[a/_appears|appears]] in the [[m/_morning|morning]]; the [[e/_east|east]].**
+- **The [[p/_part|part]] of the [[h/_horizon|horizon]] where the [[s/_sun|sun]] [[f/_first|first]] [[a/_appears|appears]] in the [[m/_morning|morning]]; the [[e/_east|east]].**
 - **A [[p/_pearl|pearl]] [[o/_originating|originating]] from the [[i/_indian|Indian]] [[r/_region|region]], [[r/_reputed|reputed]] to be of [[g/_great|great]] [[b/_brilliance|brilliance]]; (by [[e/_extension|extension]]) [[a/_any|any]] [[p/_pearl|pearl]] of [[p/_particular|particular]] [[b/_beauty|beauty]] and value.**
 - **(by [[e/_extension|extension]]) The [[b/_brilliance|brilliance]] or [[c/_colour|colour]] of a [[h/_high|high]]-[[q/_quality|quality]] [[p/_pearl|pearl]].**
 ---

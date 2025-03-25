@@ -15,7 +15,7 @@
 - **[[o/_one|One]] who [[g/_glides|glides]].**
 - **[[a/_any|Any]] [[h/_heavier|heavier]]-than-[[a/_air|air]] [[a/_aircraft|aircraft]] [[o/_optimised|optimised]] for unpowered [[f/_flight|flight]]; a [[s/_sailplane|sailplane]].**
 - **A [[p/_pilot|pilot]] of [[g/_glider|glider]] [[a/_aircraft|aircraft]].**
-- **[[a/_any|Any]] [[a/_animal|animal]] with the [[a/_ability|ability]] to [[g/_glide|glide]], such as the [[g/_gliding|gliding]] [[p/_possum|possum]].**
+- **[[a/_any|Any]] [[a/_animal|animal]] with the [[a/_ability|ability]] to [[g/_glide|glide]], [[s/_such|such]] as the [[g/_gliding|gliding]] [[p/_possum|possum]].**
 - **A [[k/_kind|kind]] of [[g/_garden|garden]] swing.**
 - **In the [[g/_game|Game]] of [[l/_life|Life]] [[c/_cellular|cellular]] [[a/_automaton|automaton]], a [[p/_particular|particular]] [[c/_configuration|configuration]] of [[f/_five|five]] [[c/_cells|cells]] that [[r/_recurs|recurs]] [[p/_periodically|periodically]] at [[f/_fixed|fixed]] [[o/_offsets|offsets]] and [[a/_appears|appears]] to "walk" [[a/_across|across]] the [[g/_grid|grid]].**
 - **A vehicle, of a usually [[m/_motorised|motorised]] type, without a powertrain.**

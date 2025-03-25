@@ -24,7 +24,7 @@
 	- _Example: I demand an immediate explanation._
 - **To [[r/_require|require]] of [[s/_someone|someone]].**
 	- _Example: This job demands a lot of patience._
-- **To [[i/_issue|issue]] a summons to [[c/_court|court]].**
+- **To [[i/_issue|issue]] a [[s/_summons|summons]] to [[c/_court|court]].**
 ---
 ### Synonyms
 - [[f/_frain|frain]], [[i/_insist|insist]]

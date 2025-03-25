@@ -3,7 +3,7 @@
 #noun
 - **A [[s/_sensation|sensation]] [[p/_perceived|perceived]] by the [[e/_ear|ear]] [[c/_caused|caused]] by the vibration of [[a/_air|air]] or [[s/_some|some]] [[o/_other|other]] [[m/_medium|medium]].**
 	- _Example: He turned when he heard the sound of footsteps behind him.  Nobody made a sound._
-- **A vibration [[c/_capable|capable]] of [[c/_causing|causing]] such [[s/_sensations|sensations]].**
+- **A vibration [[c/_capable|capable]] of [[c/_causing|causing]] [[s/_such|such]] [[s/_sensations|sensations]].**
 - **A [[d/_distinctive|distinctive]] [[s/_style|style]] and [[s/_sonority|sonority]] of a [[p/_particular|particular]] [[m/_musician|musician]], [[o/_orchestra|orchestra]] [[e/_etc|etc]]**
 - **[[n/_noise|Noise]] without [[m/_meaning|meaning]]; [[e/_empty|empty]] [[n/_noise|noise]].**
 - **[[e/_earshot|Earshot]], [[d/_distance|distance]] within which a [[c/_certain|certain]] [[n/_noise|noise]] [[m/_may|may]] be [[h/_heard|heard]].**
@@ -32,7 +32,7 @@
 - **A [[c/_cuttlefish|cuttlefish]].**
 ---
 #noun
-- **A [[l/_long|long]], thin [[p/_probe|probe]] for [[s/_sounding|sounding]] [[b/_body|body]] [[c/_cavities|cavities]] or [[c/_canals|canals]] such as the urethra.**
+- **A [[l/_long|long]], thin [[p/_probe|probe]] for [[s/_sounding|sounding]] [[b/_body|body]] [[c/_cavities|cavities]] or [[c/_canals|canals]] [[s/_such|such]] as the urethra.**
 ---
 #noun
 - **An [[i/_instrument|instrument]] for [[p/_probing|probing]] or [[d/_dilating|dilating]]; a [[s/_sonde|sonde]].**

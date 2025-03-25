@@ -5,7 +5,7 @@
 	- _Example: The cold stone walls of the prison had stood for over a century._
 - **[[c/_confinement|Confinement]] in [[p/_prison|prison]].**
 	- _Example: Prison was a harrowing experience for him._
-- **[[a/_any|Any]] [[r/_restrictive|restrictive]] [[e/_environment|environment]], such as a [[h/_harsh|harsh]] [[a/_academy|academy]] or [[h/_home|home]].**
+- **[[a/_any|Any]] [[r/_restrictive|restrictive]] [[e/_environment|environment]], [[s/_such|such]] as a [[h/_harsh|harsh]] [[a/_academy|academy]] or [[h/_home|home]].**
 	- _Example: The academy was a prison for many of its students because of its strict teachers._
 ---
 ### Synonyms

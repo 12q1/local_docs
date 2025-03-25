@@ -11,7 +11,7 @@
 	- _Example: You have three choices: vanilla, strawberry or chocolate_
 - **(usually with the) The [[b/_best|best]] or [[m/_most|most]] [[p/_preferable|preferable]] [[p/_part|part]].**
 - **[[c/_care|Care]] and [[j/_judgement|judgement]] in [[s/_selecting|selecting]]; [[d/_discrimination|discrimination]], [[s/_selectiveness|selectiveness]].**
-- **A sufficient [[n/_number|number]] to [[c/_choose|choose]] [[a/_among|among]].**
+- **A [[s/_sufficient|sufficient]] [[n/_number|number]] to [[c/_choose|choose]] [[a/_among|among]].**
 ---
 ### Synonyms
 - [[a/_assortment|assortment]], [[r/_range|range]], [[s/_selection|selection]], [[c/_cream|cream]], [[o/_option|option]], [[p/_possibility|possibility]], [[a/_abundance|abundance]], [[p/_profusion|profusion]]

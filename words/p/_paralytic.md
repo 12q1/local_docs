@@ -1,7 +1,7 @@
 # Paralytic
 ---
 #noun
-- **[[s/_someone|Someone]] suffering from [[p/_paralysis|paralysis]].**
+- **[[s/_someone|Someone]] [[s/_suffering|suffering]] from [[p/_paralysis|paralysis]].**
 - **A [[d/_drug|drug]] that [[p/_produces|produces]] [[p/_paralysis|paralysis]].**
 ---
 #adjective

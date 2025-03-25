@@ -10,7 +10,7 @@
 - **A [[d/_deviation|deviation]] from the [[l/_line|line]] of [[f/_fire|fire]], [[p/_peculiar|peculiar]] to [[o/_oblong|oblong]] [[p/_projectiles|projectiles]].**
 - **[[m/_minor|Minor]] [[d/_deviation|deviation]] of [[a/_audio|audio]] or video [[p/_playback|playback]] from [[i/_its|its]] [[c/_correct|correct]] [[s/_speed|speed]].**
 - **The [[s/_situation|situation]] where a [[p/_performer|performer]] [[g/_gradually|gradually]] and unintentionally [[m/_moves|moves]] from their [[p/_proper|proper]] [[l/_location|location]] within the [[s/_scene|scene]].**
-- **A [[p/_passage|passage]] [[d/_driven|driven]] or [[c/_cut|cut]] [[b/_between|between]] [[s/_shaft|shaft]] and [[s/_shaft|shaft]]; a [[d/_driftway|driftway]]; a [[s/_small|small]] subterranean [[g/_gallery|gallery]]; an [[a/_adit|adit]] or tunnel.**
+- **A [[p/_passage|passage]] [[d/_driven|driven]] or [[c/_cut|cut]] [[b/_between|between]] [[s/_shaft|shaft]] and [[s/_shaft|shaft]]; a [[d/_driftway|driftway]]; a [[s/_small|small]] [[s/_subterranean|subterranean]] [[g/_gallery|gallery]]; an [[a/_adit|adit]] or tunnel.**
 - **[[m/_movement|Movement]].**
 - **A [[s/_sideways|sideways]] [[m/_movement|movement]] of the [[b/_ball|ball]] through the [[a/_air|air]], when [[b/_bowled|bowled]] by a [[s/_spin|spin]] [[b/_bowler|bowler]].**
 - **[[s/_slow|Slow]], [[c/_cumulative|cumulative]] [[c/_change|change]].**

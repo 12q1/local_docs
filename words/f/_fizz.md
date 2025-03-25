@@ -3,7 +3,7 @@
 #noun
 - **An [[e/_emission|emission]] of a [[r/_rapid|rapid]] [[s/_stream|stream]] of [[b/_bubbles|bubbles]].**
 	- _Example: I poured a cola and waited for the fizz to settle down before topping off the glass._
-- **The [[s/_sound|sound]] of such an [[e/_emission|emission]].**
+- **The [[s/_sound|sound]] of [[s/_such|such]] an [[e/_emission|emission]].**
 	- _Example: Evan sat back in the hot tub and listened to the relaxing fizz and pops produced by the eruption of bubbles._
 - **A [[c/_carbonated|carbonated]] [[b/_beverage|beverage]], [[e/_especially|especially]] [[c/_champagne|champagne]].**
 	- _Example: Nathan ordered an orange fizz from the soda jerk at the counter._

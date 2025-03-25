@@ -14,7 +14,7 @@
 	- _Example: I dropped my glass; the water spread quickly over the tiled floor._
 - **To [[s/_smear|smear]], to [[d/_distribute|distribute]] in a thin [[l/_layer|layer]].**
 	- _Example: She liked to spread butter on her toast while it was still hot._
-- **To [[c/_cover|cover]] ([[s/_something|something]]) with a thin [[l/_layer|layer]] of [[s/_some|some]] substance, as of [[b/_butter|butter]].**
+- **To [[c/_cover|cover]] ([[s/_something|something]]) with a thin [[l/_layer|layer]] of [[s/_some|some]] [[s/_substance|substance]], as of [[b/_butter|butter]].**
 	- _Example: He always spreads his toast with peanut butter and strawberry jam._
 - **To [[p/_prepare|prepare]]; to [[s/_set|set]] and [[f/_furnish|furnish]] with [[p/_provisions|provisions]].**
 	- _Example: to spread a table_

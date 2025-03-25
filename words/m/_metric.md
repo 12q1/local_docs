@@ -20,7 +20,7 @@
 #noun
 - **The [[s/_system|system]] of [[m/_measurements|measurements]] [[d/_developed|developed]] in [[f/_france|France]] in the 1790s and [[n/_now|now]] used worldwide.**
 - **The [[m/_modern|modern]] version of that [[s/_system|system]], Systeme [[i/_internationale|Internationale]] [[d/_d|d]]'Unites ([[i/_international|International]] [[s/_system|System]] of Units), or [[s/_si|SI]] [[s/_system|system]] of [[m/_measurements|measurements]] that is [[b/_based|based]] on the [[b/_base|base]] units of the [[m/_meter|meter]]/[[m/_metre|metre]], the [[k/_kilogram|kilogram]], the [[s/_second|second]], the [[a/_ampere|ampere]], the [[k/_kelvin|kelvin]], the [[m/_mole|mole]], and the [[c/_candela|candela]].**
-- **[[a/_any|Any]] variant of that [[s/_system|system]], that was not [[c/_codified|codified]] as [[s/_si|SI]], such as [[c/_cgs|cgs]].**
+- **[[a/_any|Any]] variant of that [[s/_system|system]], that was not [[c/_codified|codified]] as [[s/_si|SI]], [[s/_such|such]] as [[c/_cgs|cgs]].**
 ---
 ### Synonyms
 - [[S/_SI|SI]], [[m/_metric|metric]]

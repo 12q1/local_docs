@@ -1,7 +1,7 @@
 # Rustproof
 ---
 #verb
-- **To [[m/_make|make]] [[r/_resistant|resistant]] to [[r/_rust|rust]], such as by [[a/_applying|applying]] a [[c/_coating|coating]].**
+- **To [[m/_make|make]] [[r/_resistant|resistant]] to [[r/_rust|rust]], [[s/_such|such]] as by [[a/_applying|applying]] a [[c/_coating|coating]].**
 	- _Example: We'll rustproof the metal with a good coat of paint and then we'll be able to leave it outdoors for years without damage._
 ---
 #adjective

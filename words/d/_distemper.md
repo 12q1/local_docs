@@ -1,7 +1,7 @@
 # Distemper
 ---
 #noun
-- **A viral [[d/_disease|disease]] of [[a/_animals|animals]], such as [[d/_dogs|dogs]] and [[c/_cats|cats]], [[c/_characterised|characterised]] by [[f/_fever|fever]], [[c/_coughing|coughing]] and [[c/_catarrh|catarrh]].**
+- **A viral [[d/_disease|disease]] of [[a/_animals|animals]], [[s/_such|such]] as [[d/_dogs|dogs]] and [[c/_cats|cats]], [[c/_characterised|characterised]] by [[f/_fever|fever]], [[c/_coughing|coughing]] and [[c/_catarrh|catarrh]].**
 - **A [[d/_disorder|disorder]] of the [[h/_humours|humours]] of the [[b/_body|body]]; a [[d/_disease|disease]].**
 - **A [[g/_glue|glue]]-[[b/_based|based]] [[p/_paint|paint]].**
 - **A [[p/_painting|painting]] [[p/_produced|produced]] with this [[k/_kind|kind]] of [[p/_paint|paint]].**

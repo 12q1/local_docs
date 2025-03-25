@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[l/_lift|lift]] ([[s/_something|something]]) and take it to [[a/_another|another]] [[p/_place|place]]; to transport ([[s/_something|something]]) by [[l/_lifting|lifting]].**
-- **To transfer from [[o/_one|one]] [[p/_place|place]] (such as a [[c/_country|country]], [[b/_book|book]], or [[c/_column|column]]) to [[a/_another|another]].**
+- **To transfer from [[o/_one|one]] [[p/_place|place]] ([[s/_such|such]] as a [[c/_country|country]], [[b/_book|book]], or [[c/_column|column]]) to [[a/_another|another]].**
 	- _Example: to carry an account to the ledger_
 - **To [[c/_convey|convey]] by [[e/_extension|extension]] or [[c/_continuance|continuance]]; to [[e/_extend|extend]].**
 	- _Example: The builders are going to carry the chimney through the roof.  They would have carried the road ten miles further, but ran out of materials._
@@ -32,8 +32,8 @@
 - **To [[h/_hold|hold]] the [[h/_head|head]]; [[s/_said|said]] of a [[h/_horse|horse]].**
 	- _Example: to carry well, i.e. to hold the head high, with arching neck_
 - **To [[h/_have|have]] [[e/_earth|earth]] or [[f/_frost|frost]] [[s/_stick|stick]] to the [[f/_feet|feet]] when [[r/_running|running]], as a [[h/_hare|hare]].**
-- **To [[b/_bear|bear]] or uphold successfully through [[c/_conflict|conflict]], for [[e/_example|example]] a [[l/_leader|leader]] or [[p/_principle|principle]]**
-- **To succeed in ([[e/_e|e]].[[g/_g|g]]. a [[c/_contest|contest]]); to succeed in; to win.**
+- **To [[b/_bear|bear]] or uphold [[s/_successfully|successfully]] through [[c/_conflict|conflict]], for [[e/_example|example]] a [[l/_leader|leader]] or [[p/_principle|principle]]**
+- **To [[s/_succeed|succeed]] in ([[e/_e|e]].[[g/_g|g]]. a [[c/_contest|contest]]); to [[s/_succeed|succeed]] in; to win.**
 	- _Example: The Tories carried the election._
 - **To [[g/_get|get]] [[p/_possession|possession]] of by [[f/_force|force]]; to [[c/_capture|capture]].**
 - **To [[c/_contain|contain]]; to [[c/_comprise|comprise]]; [[h/_have|have]] a [[p/_particular|particular]] [[a/_aspect|aspect]]; to [[s/_show|show]] or [[e/_exhibit|exhibit]]**
@@ -41,7 +41,7 @@
 - **To [[b/_bear|bear]] the [[c/_charges|charges]] or [[b/_burden|burden]] of [[h/_holding|holding]] or [[h/_having|having]], as [[s/_stocks|stocks]], [[m/_merchandise|merchandise]], [[e/_etc|etc]]., from [[o/_one|one]] time to [[a/_another|another]].**
 	- _Example: A merchant is carrying a large stock;  a farm carries a mortgage;  a broker carries stock for a customer;  to carry a life insurance._
 - **To [[h/_have|have]] a weapon on [[o/_one|one]]'[[s/_s|s]] [[p/_person|person]]; to be [[a/_armed|armed]].**
-- **To be [[d/_disproportionately|disproportionately]] [[r/_responsible|responsible]] for a team'[[s/_s|s]] success.**
+- **To be [[d/_disproportionately|disproportionately]] [[r/_responsible|responsible]] for a team'[[s/_s|s]] [[s/_success|success]].**
 	- _Example: He absolutely carried the game, to the point of killing the entire enemy team by himself._
 ---
 ### Synonyms

@@ -7,12 +7,12 @@
 	- _Example: He enjoyed the simple pleasure of watching the kickline kick._
 - **To [[d/_direct|direct]] to a [[p/_particular|particular]] [[p/_place|place]] by a [[b/_blow|blow]] with the [[f/_foot|foot]] or [[l/_leg|leg]].**
 	- _Example: Kick the ball into the goal._
-- **(with "[[o/_off|off]]" or "[[o/_out|out]]") To [[e/_eject|eject]] summarily.**
+- **(with "[[o/_off|off]]" or "[[o/_out|out]]") To [[e/_eject|eject]] [[s/_summarily|summarily]].**
 - **To [[f/_forcibly|forcibly]] [[r/_remove|remove]] a [[p/_participant|participant]] from an [[o/_online|online]] [[a/_activity|activity]].**
 	- _Example: He was kicked by ChanServ for flooding._
 - **To [[o/_overcome|overcome]] (a [[b/_bothersome|bothersome]] or [[d/_difficult|difficult]] [[i/_issue|issue]] or [[o/_obstacle|obstacle]]); to [[f/_free|free]] [[o/_oneself|oneself]] of (a [[p/_problem|problem]]).**
 	- _Example: I still smoke, but they keep telling me to kick the habit._
-- **To [[m/_move|move]] or [[p/_push|push]] suddenly and violently.**
+- **To [[m/_move|move]] or [[p/_push|push]] [[s/_suddenly|suddenly]] and violently.**
 	- _Example: He was kicked sideways by the force of the blast._
 - **(of a [[f/_firearm|firearm]]) To [[r/_recoil|recoil]]; to [[p/_push|push]] by [[r/_recoiling|recoiling]].**
 - **To [[a/_attack|attack]] (a [[p/_piece|piece]]) in [[o/_order|order]] to [[f/_force|force]] it to [[m/_move|move]].**

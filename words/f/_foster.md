@@ -17,9 +17,9 @@
 #adjective
 - **[[p/_providing|Providing]] [[p/_parental|parental]] [[c/_care|care]] to [[c/_children|children]] not [[r/_related|related]] to [[o/_oneself|oneself]].**
 	- _Example: foster parents_
-- **[[r/_receiving|Receiving]] such [[c/_care|care]].**
+- **[[r/_receiving|Receiving]] [[s/_such|such]] [[c/_care|care]].**
 	- _Example: a foster child_
-- **[[r/_related|Related]] by such [[c/_care|care]].**
+- **[[r/_related|Related]] by [[s/_such|such]] [[c/_care|care]].**
 	- _Example: We are a foster family._
 ---
 ---

@@ -9,7 +9,7 @@
 ### Synonyms
 - [[s/_soil|soil]], [[t/_taint|taint]], [[s/_sully|sully]]
 #adjective
-- **Unclean; [[c/_covered|covered]] with or [[c/_containing|containing]] unpleasant substances such as [[d/_dirt|dirt]] or [[g/_grime|grime]].**
+- **Unclean; [[c/_covered|covered]] with or [[c/_containing|containing]] unpleasant [[s/_substances|substances]] [[s/_such|such]] as [[d/_dirt|dirt]] or [[g/_grime|grime]].**
 	- _Example: Despite a walk in the rain, my shoes weren't too dirty._
 - **That [[m/_makes|makes]] [[o/_one|one]] unclean; [[c/_corrupting|corrupting]], [[i/_infecting|infecting]].**
 	- _Example: Don't put that in your mouth, dear. It's dirty._

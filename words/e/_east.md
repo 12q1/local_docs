@@ -1,7 +1,7 @@
 # East
 ---
 #noun
-- **[[o/_one|One]] of the [[f/_four|four]] [[p/_principal|principal]] [[c/_compass|compass]] [[p/_points|points]], [[s/_specifically|specifically]] 90°, [[c/_conventionally|conventionally]] [[d/_directed|directed]] to the [[r/_right|right]] on [[m/_maps|maps]]; the [[d/_direction|direction]] of the [[r/_rising|rising]] sun at an [[e/_equinox|equinox]]. [[a/_abbreviated|Abbreviated]] as [[e/_e|E]].**
+- **[[o/_one|One]] of the [[f/_four|four]] [[p/_principal|principal]] [[c/_compass|compass]] [[p/_points|points]], [[s/_specifically|specifically]] 90°, [[c/_conventionally|conventionally]] [[d/_directed|directed]] to the [[r/_right|right]] on [[m/_maps|maps]]; the [[d/_direction|direction]] of the [[r/_rising|rising]] [[s/_sun|sun]] at an [[e/_equinox|equinox]]. [[a/_abbreviated|Abbreviated]] as [[e/_e|E]].**
 ---
 #adjective
 - **[[s/_situated|Situated]] or [[l/_lying|lying]] in or towards the [[e/_east|east]]; [[e/_eastward|eastward]].**

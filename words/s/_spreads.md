@@ -6,9 +6,9 @@
 - **A [[l/_layout|layout]], [[p/_pattern|pattern]] or [[d/_design|design]] of [[c/_cards|cards]] [[a/_arranged|arranged]] for a [[r/_reading|reading]].**
 - **An [[e/_expanse|expanse]] of [[l/_land|land]].**
 - **A [[l/_large|large]] tract of [[l/_land|land]] used to [[r/_raise|raise]] [[l/_livestock|livestock]]; a [[c/_cattle|cattle]] [[r/_ranch|ranch]].**
-- **A [[p/_piece|piece]] of [[m/_material|material]] used as a [[c/_cover|cover]] (such as a [[b/_bedspread|bedspread]]).**
+- **A [[p/_piece|piece]] of [[m/_material|material]] used as a [[c/_cover|cover]] ([[s/_such|such]] as a [[b/_bedspread|bedspread]]).**
 - **A [[l/_large|large]] [[m/_meal|meal]], [[e/_especially|especially]] [[o/_one|one]] [[l/_laid|laid]] [[o/_out|out]] on a table.**
-- **([[b/_bread|bread]], [[e/_etc|etc]].) [[a/_any|Any]] [[f/_form|form]] of [[f/_food|food]] [[d/_designed|designed]] to be [[s/_spread|spread]], such as [[b/_butters|butters]] or [[j/_jams|jams]].**
+- **([[b/_bread|bread]], [[e/_etc|etc]].) [[a/_any|Any]] [[f/_form|form]] of [[f/_food|food]] [[d/_designed|designed]] to be [[s/_spread|spread]], [[s/_such|such]] as [[b/_butters|butters]] or [[j/_jams|jams]].**
 - **[[f/_food|Food]] [[i/_improvised|improvised]] by [[i/_inmates|inmates]] from various [[i/_ingredients|ingredients]] to [[r/_relieve|relieve]] the tedium of [[p/_prison|prison]] [[f/_food|food]].**
 - **An [[i/_item|item]] in a [[n/_newspaper|newspaper]] or [[m/_magazine|magazine]] that [[o/_occupies|occupies]] [[m/_more|more]] than [[o/_one|one]] [[c/_column|column]] or [[p/_page|page]].**
 - **Two [[f/_facing|facing]] [[p/_pages|pages]] in a [[b/_book|book]], [[n/_newspaper|newspaper]] [[e/_etc|etc]].**
@@ -39,7 +39,7 @@
 	- _Example: I dropped my glass; the water spread quickly over the tiled floor._
 - **To [[s/_smear|smear]], to [[d/_distribute|distribute]] in a thin [[l/_layer|layer]].**
 	- _Example: She liked to spread butter on her toast while it was still hot._
-- **To [[c/_cover|cover]] ([[s/_something|something]]) with a thin [[l/_layer|layer]] of [[s/_some|some]] substance, as of [[b/_butter|butter]].**
+- **To [[c/_cover|cover]] ([[s/_something|something]]) with a thin [[l/_layer|layer]] of [[s/_some|some]] [[s/_substance|substance]], as of [[b/_butter|butter]].**
 	- _Example: He always spreads his toast with peanut butter and strawberry jam._
 - **To [[p/_prepare|prepare]]; to [[s/_set|set]] and [[f/_furnish|furnish]] with [[p/_provisions|provisions]].**
 	- _Example: to spread a table_

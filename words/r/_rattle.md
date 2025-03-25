@@ -4,7 +4,7 @@
 - **A [[s/_sound|sound]] [[m/_made|made]] by [[l/_loose|loose]] [[o/_objects|objects]] [[s/_shaking|shaking]] or vibrating [[a/_against|against]] [[o/_one|one]] [[a/_another|another]].**
 	- _Example: I wish they would fix the rattle under my dashboard._
 - **A [[b/_baby|baby]]’[[s/_s|s]] toy [[d/_designed|designed]] to [[m/_make|make]] [[s/_sound|sound]] when [[s/_shaken|shaken]], usually [[c/_containing|containing]] [[l/_loose|loose]] [[g/_grains|grains]] or [[p/_pellets|pellets]] in a [[h/_hollow|hollow]] [[c/_container|container]].**
-- **A [[d/_device|device]] that [[m/_makes|makes]] a [[r/_rattling|rattling]] [[s/_sound|sound]] such as [[p/_put|put]] on an [[a/_animal|animal]] [[s/_so|so]] [[i/_its|its]] [[l/_location|location]] [[c/_can|can]] be [[h/_heard|heard]].**
+- **A [[d/_device|device]] that [[m/_makes|makes]] a [[r/_rattling|rattling]] [[s/_sound|sound]] [[s/_such|such]] as [[p/_put|put]] on an [[a/_animal|animal]] [[s/_so|so]] [[i/_its|its]] [[l/_location|location]] [[c/_can|can]] be [[h/_heard|heard]].**
 - **A [[m/_musical|musical]] [[i/_instrument|instrument]] that [[m/_makes|makes]] a [[r/_rattling|rattling]] [[s/_sound|sound]].**
 - **[[n/_noisy|Noisy]], [[r/_rapid|rapid]] talk.**
 - **Trivial [[c/_chatter|chatter]]; [[g/_gossip|gossip]].**

@@ -8,7 +8,7 @@
 ### Synonyms
 - [[h/_hotbox|hotbox]]
 #verb
-- **To [[s/_smoke|smoke]] [[m/_marijuana|marijuana]] in an [[e/_enclosed|enclosed]] [[s/_space|space]] such as a [[c/_car|car]] with the windows up.**
+- **To [[s/_smoke|smoke]] [[m/_marijuana|marijuana]] in an [[e/_enclosed|enclosed]] [[s/_space|space]] [[s/_such|such]] as a [[c/_car|car]] with the windows up.**
 - **To [[e/_enclose|enclose]] [[s/_something|something]] and [[f/_fill|fill]] it with [[s/_smoke|smoke]] by [[s/_smoking|smoking]] (usually [[m/_marijuana|marijuana]]) [[i/_inside|inside]] it.**
 	- _Example: We clambaked the car last night!_
 ---

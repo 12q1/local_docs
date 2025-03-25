@@ -1,8 +1,8 @@
 # Alternating
 ---
 #verb
-- **To [[p/_perform|perform]] by turns, or in succession; to [[c/_cause|cause]] to succeed by turns; to [[i/_interchange|interchange]] [[r/_regularly|regularly]].**
-- **To [[h/_happen|happen]], succeed, or [[a/_act|act]] by turns; to [[f/_follow|follow]] [[r/_reciprocally|reciprocally]] in [[p/_place|place]] or time; [[f/_followed|followed]] by with.**
+- **To [[p/_perform|perform]] by turns, or in [[s/_succession|succession]]; to [[c/_cause|cause]] to [[s/_succeed|succeed]] by turns; to [[i/_interchange|interchange]] [[r/_regularly|regularly]].**
+- **To [[h/_happen|happen]], [[s/_succeed|succeed]], or [[a/_act|act]] by turns; to [[f/_follow|follow]] [[r/_reciprocally|reciprocally]] in [[p/_place|place]] or time; [[f/_followed|followed]] by with.**
 	- _Example: The flood and ebb tides alternate with each other._
 - **To vary by turns.**
 	- _Example: The land alternates between rocky hills and sandy plains._

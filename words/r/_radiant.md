@@ -14,6 +14,6 @@
 - **[[e/_emitting|Emitting]] or [[p/_proceeding|proceeding]] as [[i/_if|if]] from a [[c/_center|center]].**
 - **[[g/_giving|Giving]] [[o/_off|off]] [[r/_rays|rays]]; [[s/_said|said]] of a [[b/_bearing|bearing]].**
 	- _Example: the sun radiant;  a crown radiant_
-- **[[h/_having|Having]] a [[r/_ray|ray]]-[[l/_like|like]] [[a/_appearance|appearance]], [[l/_like|like]] the [[l/_large|large]] [[m/_marginal|marginal]] [[f/_flowers|flowers]] of [[c/_certain|certain]] umbelliferous [[p/_plants|plants]]; [[s/_said|said]] [[a/_also|also]] of the [[c/_cluster|cluster]] which [[h/_has|has]] such [[m/_marginal|marginal]] [[f/_flowers|flowers]].**
+- **[[h/_having|Having]] a [[r/_ray|ray]]-[[l/_like|like]] [[a/_appearance|appearance]], [[l/_like|like]] the [[l/_large|large]] [[m/_marginal|marginal]] [[f/_flowers|flowers]] of [[c/_certain|certain]] umbelliferous [[p/_plants|plants]]; [[s/_said|said]] [[a/_also|also]] of the [[c/_cluster|cluster]] which [[h/_has|has]] [[s/_such|such]] [[m/_marginal|marginal]] [[f/_flowers|flowers]].**
 ---
 ---

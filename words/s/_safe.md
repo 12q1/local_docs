@@ -18,7 +18,7 @@
 	- _Example: It’s safe to eat this._
 - **[[p/_providing|Providing]] [[p/_protection|protection]] from [[d/_danger|danger]]; [[p/_providing|providing]] [[s/_shelter|shelter]].**
 	- _Example: We have to find a safe spot, where we can hide out until this is over._
-- **When a [[b/_batter|batter]] successfully [[r/_reaches|reaches]] [[f/_first|first]] [[b/_base|base]], or when a baserunner successfully [[a/_advances|advances]] to the [[n/_next|next]] [[b/_base|base]] or [[r/_returns|returns]] to the [[b/_base|base]] [[h/_he|he]] [[l/_last|last]] [[o/_occupied|occupied]]; not [[o/_out|out]].**
+- **When a [[b/_batter|batter]] [[s/_successfully|successfully]] [[r/_reaches|reaches]] [[f/_first|first]] [[b/_base|base]], or when a baserunner [[s/_successfully|successfully]] [[a/_advances|advances]] to the [[n/_next|next]] [[b/_base|base]] or [[r/_returns|returns]] to the [[b/_base|base]] [[h/_he|he]] [[l/_last|last]] [[o/_occupied|occupied]]; not [[o/_out|out]].**
 	- _Example: The pitcher attempted to pick off the runner at first, but he was safe._
 - **[[p/_properly|Properly]] [[s/_secured|secured]].**
 	- _Example: The documents are safe._

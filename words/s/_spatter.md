@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_spray|spray]] or [[s/_shower|shower]] of [[d/_droplets|droplets]] [[h/_hitting|hitting]] a surface.**
-- **A [[s/_spot|spot]] or [[s/_spots|spots]] of a substance [[s/_spattered|spattered]] on a surface.**
+- **A [[s/_spot|spot]] or [[s/_spots|spots]] of a [[s/_substance|substance]] [[s/_spattered|spattered]] on a surface.**
 	- _Example: There was what looked like a spatter of blood on one wall._
 - **The [[s/_sound|sound]] of [[d/_droplets|droplets]] [[h/_hitting|hitting]] a surface.**
 - **A [[b/_burst|burst]] or [[s/_series|series]] of [[s/_sounds|sounds]] [[r/_resembling|resembling]] the [[s/_sound|sound]] of [[d/_droplets|droplets]] [[h/_hitting|hitting]] a surface.**

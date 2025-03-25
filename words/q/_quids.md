@@ -14,6 +14,6 @@
 ---
 #noun
 - **A [[p/_piece|piece]] of [[c/_chewing|chewing]] tobacco.**
-- **The [[a/_act|act]] of [[c/_chewing|chewing]] such tobacco**
+- **The [[a/_act|act]] of [[c/_chewing|chewing]] [[s/_such|such]] tobacco**
 ---
 ---

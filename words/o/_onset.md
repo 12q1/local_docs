@@ -8,7 +8,7 @@
 - **([[a/_acoustics|acoustics]]) The [[b/_beginning|beginning]] of a [[m/_musical|musical]] [[n/_note|note]] or [[o/_other|other]] [[s/_sound|sound]], in which the [[a/_amplitude|amplitude]] [[r/_rises|rises]] from zero to an [[i/_initial|initial]] [[p/_peak|peak]].**
 - **A [[s/_setting|setting]] [[a/_about|about]]; a [[b/_beginning|beginning]].**
 	- _Example: the onset of puberty_
-- **[[a/_anything|Anything]] [[a/_added|added]], such as an [[o/_ornament|ornament]] or as a useful [[a/_appendage|appendage]].**
+- **[[a/_anything|Anything]] [[a/_added|added]], [[s/_such|such]] as an [[o/_ornament|ornament]] or as a useful [[a/_appendage|appendage]].**
 ---
 ### Synonyms
 - [[b/_beginning|beginning]], [[s/_start|start]], [[s/_storming|storming]]

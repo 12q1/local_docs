@@ -1,6 +1,6 @@
 # Magneton
 ---
 #noun
-- **[[a/_any|Any]] of [[s/_several|several]] units of [[m/_magnetic|magnetic]] [[m/_moment|moment]] of an [[a/_atom|atom]], [[m/_molecule|molecule]] or subatomic [[p/_particle|particle]]**
+- **[[a/_any|Any]] of [[s/_several|several]] units of [[m/_magnetic|magnetic]] [[m/_moment|moment]] of an [[a/_atom|atom]], [[m/_molecule|molecule]] or [[s/_subatomic|subatomic]] [[p/_particle|particle]]**
 ---
 ---

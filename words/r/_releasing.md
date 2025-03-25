@@ -15,7 +15,7 @@
 - **To [[l/_loosen|loosen]]; to [[r/_relax|relax]]; to [[r/_remove|remove]] the [[o/_obligation|obligation]] of.**
 	- _Example: to release an ordinance_
 - **To [[s/_set|set]] up; to [[p/_provide|provide]] with a [[g/_goal|goal]]-[[s/_scoring|scoring]] [[o/_opportunity|opportunity]]**
-- **To [[s/_set|set]] [[f/_free|free]] a [[c/_chemical|chemical]] substance.**
+- **To [[s/_set|set]] [[f/_free|free]] a [[c/_chemical|chemical]] [[s/_substance|substance]].**
 ---
 ### Antonyms
 - [[h/_hold|hold]]

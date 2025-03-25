@@ -7,7 +7,7 @@
 	- _Example: My plumbing was playing up, so I had to see the doctor._
 - **[[p/_practical|Practical]], [[c/_concrete|concrete]] work [[s/_serving|serving]] to support [[o/_other|other]] work.**
 	- _Example: This is not scientific research as such: it's just plumbing._
-- **A Murasugi sum where [[e/_each|each]] [[d/_disk|disk]] summed [[a/_along|along]] [[h/_has|has]] [[i/_its|its]] [[b/_boundary|boundary]] subdivided [[i/_into|into]] [[f/_four|four]] [[s/_segments|segments]].**
+- **A Murasugi [[s/_sum|sum]] where [[e/_each|each]] [[d/_disk|disk]] [[s/_summed|summed]] [[a/_along|along]] [[h/_has|has]] [[i/_its|its]] [[b/_boundary|boundary]] [[s/_subdivided|subdivided]] [[i/_into|into]] [[f/_four|four]] [[s/_segments|segments]].**
 ---
 ### Synonyms
 - [[w/_waterworks|waterworks]]

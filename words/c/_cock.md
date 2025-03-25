@@ -18,7 +18,7 @@
 - **A [[c/_chief|chief]] [[m/_man|man]]; a [[l/_leader|leader]] or [[m/_master|master]].**
 - **The [[c/_crow|crow]] of a [[c/_cock|cock]], [[e/_especially|especially]] the [[f/_first|first]] [[c/_crow|crow]] in the [[m/_morning|morning]]; [[c/_cockcrow|cockcrow]].**
 - **A [[m/_male|male]] [[f/_fish|fish]], [[e/_especially|especially]] a [[s/_salmon|salmon]] or trout.**
-- **The [[s/_style|style]] or [[g/_gnomon|gnomon]] of a sundial.**
+- **The [[s/_style|style]] or [[g/_gnomon|gnomon]] of a [[s/_sundial|sundial]].**
 - **The [[i/_indicator|indicator]] of a [[b/_balance|balance]].**
 - **The [[b/_bridge|bridge]] [[p/_piece|piece]] that [[a/_affords|affords]] a [[b/_bearing|bearing]] for the [[p/_pivot|pivot]] of a [[b/_balance|balance]] in a [[c/_clock|clock]] or watch.**
 ---

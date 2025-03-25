@@ -26,12 +26,12 @@
 ### Antonyms
 - [[c/_continue|continue]], [[m/_move|move]], [[c/_continue|continue]], [[m/_move|move]], [[c/_continue|continue]], [[g/_go|go]], [[m/_move|move]], [[p/_proceed|proceed]], [[c/_continue|continue]], [[p/_proceed|proceed]]
 #adjective
-- **(of a vehicle) Not [[m/_moving|moving]], but not [[p/_properly|properly]] [[p/_parked|parked]] or [[b/_berthed|berthed]]; [[s/_said|said]] [[a/_also|also]] of the [[o/_occupants|occupants]] of such a vehicle.**
+- **(of a vehicle) Not [[m/_moving|moving]], but not [[p/_properly|properly]] [[p/_parked|parked]] or [[b/_berthed|berthed]]; [[s/_said|said]] [[a/_also|also]] of the [[o/_occupants|occupants]] of [[s/_such|such]] a vehicle.**
 	- _Example: They passed a stopped car on the side of the road, but realized there was nothing they could do to help._
 - **([[m/_more|more]] [[g/_generally|generally]]) In the [[s/_state|state]] [[r/_resulting|resulting]] from [[h/_having|having]] [[s/_stopped|stopped]].**
 	- _Example: A stopped clock is right twice a day._
 - **(of a [[p/_pipe|pipe]]) [[h/_having|Having]] a [[s/_stop|stop]]; [[b/_being|being]] [[c/_closed|closed]] at [[o/_one|one]] [[e/_end|end]].**
 - **(of a [[p/_plant|plant]]) In a well-[[p/_pruned|pruned]] [[s/_state|state]].**
-- **[[m/_made|Made]] by [[c/_complete|complete]] [[c/_closure|closure]] of the [[o/_organs|organs]] in the [[m/_mouth|mouth]]; [[s/_said|said]] of [[c/_certain|certain]] [[c/_consonants|consonants]] such as [[b/_b|b]], [[d/_d|d]], [[p/_p|p]], and t.**
+- **[[m/_made|Made]] by [[c/_complete|complete]] [[c/_closure|closure]] of the [[o/_organs|organs]] in the [[m/_mouth|mouth]]; [[s/_said|said]] of [[c/_certain|certain]] [[c/_consonants|consonants]] [[s/_such|such]] as [[b/_b|b]], [[d/_d|d]], [[p/_p|p]], and t.**
 ---
 ---

@@ -9,13 +9,13 @@
 #noun
 - **A [[f/_formal|formal]] [[r/_recording|recording]] of [[n/_names|names]], [[e/_events|events]], transactions [[e/_etc|etc]].**
 	- _Example: The teacher took the register by calling out each child's name._
-- **A [[b/_book|book]] of such [[e/_entries|entries]].**
-- **An [[e/_entry|entry]] in such a [[b/_book|book]].**
+- **A [[b/_book|book]] of [[s/_such|such]] [[e/_entries|entries]].**
+- **An [[e/_entry|entry]] in [[s/_such|such]] a [[b/_book|book]].**
 - **The [[a/_act|act]] of [[r/_registering|registering]].**
 - **A [[c/_certificate|certificate]] [[i/_issued|issued]] by the [[c/_collector|collector]] of [[c/_customs|customs]] of a [[p/_port|port]] or [[d/_district|district]] to the [[o/_owner|owner]] of a vessel, [[c/_containing|containing]] the [[d/_description|description]] of a vessel, [[i/_its|its]] [[n/_name|name]], [[o/_ownership|ownership]], and [[o/_other|other]] [[m/_material|material]] [[f/_facts|facts]]. It is [[k/_kept|kept]] on [[b/_board|board]] the vessel, to be used as [[e/_evidence|evidence]] of [[n/_nationality|nationality]] or as a [[m/_muniment|muniment]] of title.**
 - **[[o/_one|One]] who [[r/_registers|registers]] or [[r/_records|records]]; a [[r/_registrar|registrar]]; [[e/_especially|especially]], a [[p/_public|public]] [[o/_officer|officer]] [[c/_charged|charged]] with the [[d/_duty|duty]] of [[r/_recording|recording]] [[c/_certain|certain]] transactions or [[e/_events|events]].**
 	- _Example: a register of deeds_
-- **A [[d/_distinct|distinct]] [[h/_horizontal|horizontal]] (or, [[m/_more|more]] [[r/_rarely|rarely]], vertical) [[s/_section|section]] of a work of [[a/_art|art]] or [[i/_inscription|inscription]] that is [[d/_divided|divided]] [[i/_into|into]] [[s/_several|several]] such [[s/_sections|sections]]**
+- **A [[d/_distinct|distinct]] [[h/_horizontal|horizontal]] (or, [[m/_more|more]] [[r/_rarely|rarely]], vertical) [[s/_section|section]] of a work of [[a/_art|art]] or [[i/_inscription|inscription]] that is [[d/_divided|divided]] [[i/_into|into]] [[s/_several|several]] [[s/_such|such]] [[s/_sections|sections]]**
 - **A [[d/_device|device]] that [[a/_automatically|automatically]] [[r/_records|records]] a [[q/_quantity|quantity]].**
 - **The [[p/_part|part]] of a telegraphic [[a/_apparatus|apparatus]] that [[a/_automatically|automatically]] [[r/_records|records]] the [[m/_message|message]] [[r/_received|received]].**
 - **A [[l/_list|list]] of [[r/_received|received]] [[c/_calls|calls]] in a [[p/_phone|phone]] [[s/_set|set]].**

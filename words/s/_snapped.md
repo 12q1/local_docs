@@ -1,7 +1,7 @@
 # Snapped
 ---
 #verb
-- **To [[f/_fracture|fracture]] or [[b/_break|break]] [[a/_apart|apart]] suddenly.**
+- **To [[f/_fracture|fracture]] or [[b/_break|break]] [[a/_apart|apart]] [[s/_suddenly|suddenly]].**
 	- _Example: He snapped his stick in anger._
 - **To [[g/_give|give]] [[f/_forth|forth]] or [[p/_produce|produce]] a [[s/_sharp|sharp]] [[c/_cracking|cracking]] [[n/_noise|noise]]; to [[c/_crack|crack]].**
 	- _Example: Blazing firewood snaps._
@@ -12,7 +12,7 @@
 - **To [[s/_speak|speak]] [[a/_abruptly|abruptly]] or [[s/_sharply|sharply]].**
 	- _Example: He snapped at me for the slightest mistake._
 - **To [[g/_give|give]] way [[a/_abruptly|abruptly]] and [[l/_loudly|loudly]].**
-- **To suffer a [[m/_mental|mental]] [[b/_breakdown|breakdown]], usually while under tension.**
+- **To [[s/_suffer|suffer]] a [[m/_mental|mental]] [[b/_breakdown|breakdown]], usually while under tension.**
 	- _Example: She should take a break before she snaps._
 - **To [[f/_flash|flash]] or [[a/_appear|appear]] to [[f/_flash|flash]] as with [[l/_light|light]].**
 - **To [[f/_fit|fit]] or [[f/_fasten|fasten]] together with a [[s/_snapping|snapping]] [[s/_sound|sound]].**
@@ -25,8 +25,8 @@
 - **To [[c/_cause|cause]] [[s/_something|something]] to [[e/_emit|emit]] a [[s/_snapping|snapping]] [[s/_sound|sound]].**
 	- _Example: to snap a fastener_
 - **To [[c/_close|close]] [[s/_something|something]] using a [[s/_snap|snap]] as a [[f/_fastener|fastener]].**
-- **To [[s/_snap|snap]] [[o/_one|one]]'[[s/_s|s]] [[f/_fingers|fingers]]: to [[m/_make|make]] a [[s/_snapping|snapping]] [[s/_sound|sound]], [[o/_often|often]] by [[p/_pressing|pressing]] the thumb and an [[o/_opposing|opposing]] [[f/_finger|finger]] of the [[s/_same|same]] [[h/_hand|hand]] together and suddenly [[r/_releasing|releasing]] the [[g/_grip|grip]] [[s/_so|so]] that the [[f/_finger|finger]] [[h/_hits|hits]] [[a/_against|against]] the [[p/_palm|palm]]; [[a/_alternatively|alternatively]], by [[b/_bringing|bringing]] the [[i/_index|index]] [[f/_finger|finger]] [[q/_quickly|quickly]] [[d/_down|down]] [[o/_onto|onto]] the [[m/_middle|middle]] [[f/_finger|finger]] and thumb.**
-- **To [[c/_cause|cause]] to [[m/_move|move]] suddenly and [[s/_smartly|smartly]].**
+- **To [[s/_snap|snap]] [[o/_one|one]]'[[s/_s|s]] [[f/_fingers|fingers]]: to [[m/_make|make]] a [[s/_snapping|snapping]] [[s/_sound|sound]], [[o/_often|often]] by [[p/_pressing|pressing]] the thumb and an [[o/_opposing|opposing]] [[f/_finger|finger]] of the [[s/_same|same]] [[h/_hand|hand]] together and [[s/_suddenly|suddenly]] [[r/_releasing|releasing]] the [[g/_grip|grip]] [[s/_so|so]] that the [[f/_finger|finger]] [[h/_hits|hits]] [[a/_against|against]] the [[p/_palm|palm]]; [[a/_alternatively|alternatively]], by [[b/_bringing|bringing]] the [[i/_index|index]] [[f/_finger|finger]] [[q/_quickly|quickly]] [[d/_down|down]] [[o/_onto|onto]] the [[m/_middle|middle]] [[f/_finger|finger]] and thumb.**
+- **To [[c/_cause|cause]] to [[m/_move|move]] [[s/_suddenly|suddenly]] and [[s/_smartly|smartly]].**
 - **To take a [[p/_photograph|photograph]]; to [[r/_release|release]] a [[c/_camera|camera]]'[[s/_s|s]] [[s/_shutter|shutter]] (which [[m/_may|may]] [[m/_make|make]] a [[s/_snapping|snapping]] [[s/_sound|sound]]).**
 	- _Example: He snapped a picture of me with my mouth open and my eyes closed._
 - **To [[p/_put|put]] (a [[f/_football|football]]) in [[p/_play|play]] by a [[b/_backward|backward]] [[p/_pass|pass]] or [[h/_handoff|handoff]] from [[i/_its|its]] [[p/_position|position]] on the [[g/_ground|ground]]; to [[h/_hike|hike]] (a [[f/_football|football]]).**

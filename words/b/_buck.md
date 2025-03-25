@@ -1,7 +1,7 @@
 # Buck
 ---
 #noun
-- **A [[m/_male|male]] [[d/_deer|deer]], [[a/_antelope|antelope]], [[s/_sheep|sheep]], [[g/_goat|goat]], [[r/_rabbit|rabbit]], [[h/_hare|hare]], and [[s/_sometimes|sometimes]] the [[m/_male|male]] of [[o/_other|other]] [[a/_animals|animals]] such as the [[h/_hamster|hamster]], [[f/_ferret|ferret]] and [[s/_shad|shad]].**
+- **A [[m/_male|male]] [[d/_deer|deer]], [[a/_antelope|antelope]], [[s/_sheep|sheep]], [[g/_goat|goat]], [[r/_rabbit|rabbit]], [[h/_hare|hare]], and [[s/_sometimes|sometimes]] the [[m/_male|male]] of [[o/_other|other]] [[a/_animals|animals]] [[s/_such|such]] as the [[h/_hamster|hamster]], [[f/_ferret|ferret]] and [[s/_shad|shad]].**
 - **An uncastrated [[s/_sheep|sheep]], a [[r/_ram|ram]].**
 - **A [[y/_young|young]] [[b/_buck|buck]]; an [[a/_adventurous|adventurous]], [[i/_impetuous|impetuous]], [[d/_dashing|dashing]], or [[h/_high|high]]-[[s/_spirited|spirited]] [[y/_young|young]] [[m/_man|man]].**
 - **A [[f/_fop|fop]] or [[d/_dandy|dandy]].**
@@ -13,7 +13,7 @@
 	- _Example: Corporations will do anything to make a buck._
 - **[[o/_one|One]] [[h/_hundred|hundred]].**
 	- _Example: That skinny guy? C'mon, he can't weigh more than a buck and a quarter [125 pounds]._
-- **An [[o/_object|object]] of various types, [[p/_placed|placed]] on a table to [[i/_indicate|indicate]] turn or [[s/_status|status]]; such as a [[b/_brass|brass]] [[o/_object|object]], [[p/_placed|placed]] in [[r/_rotation|rotation]] on a US [[n/_navy|Navy]] wardroom [[d/_dining|dining]] table to [[i/_indicate|indicate]] which [[o/_officer|officer]] is to be [[s/_served|served]] [[f/_first|first]], or an [[i/_item|item]] [[p/_passed|passed]] [[a/_around|around]] a [[p/_poker|poker]] table [[i/_indicating|indicating]] the [[d/_dealer|dealer]] or [[p/_placed|placed]] in the [[p/_pot|pot]] to [[r/_remind|remind]] the winner of [[s/_some|some]] [[p/_privilege|privilege]] or [[o/_obligation|obligation]] when [[h/_his|his]] or [[h/_her|her]] turn to [[d/_deal|deal]] [[n/_next|next]] [[c/_comes|comes]].**
+- **An [[o/_object|object]] of various types, [[p/_placed|placed]] on a table to [[i/_indicate|indicate]] turn or [[s/_status|status]]; [[s/_such|such]] as a [[b/_brass|brass]] [[o/_object|object]], [[p/_placed|placed]] in [[r/_rotation|rotation]] on a US [[n/_navy|Navy]] wardroom [[d/_dining|dining]] table to [[i/_indicate|indicate]] which [[o/_officer|officer]] is to be [[s/_served|served]] [[f/_first|first]], or an [[i/_item|item]] [[p/_passed|passed]] [[a/_around|around]] a [[p/_poker|poker]] table [[i/_indicating|indicating]] the [[d/_dealer|dealer]] or [[p/_placed|placed]] in the [[p/_pot|pot]] to [[r/_remind|remind]] the winner of [[s/_some|some]] [[p/_privilege|privilege]] or [[o/_obligation|obligation]] when [[h/_his|his]] or [[h/_her|her]] turn to [[d/_deal|deal]] [[n/_next|next]] [[c/_comes|comes]].**
 - **(in [[c/_certain|certain]] [[m/_metaphors|metaphors]] or [[p/_phrases|phrases]]) [[b/_blame|Blame]]; [[r/_responsibility|responsibility]]; [[s/_scapegoating|scapegoating]]; [[f/_finger|finger]]-[[p/_pointing|pointing]].**
 	- _Example: pass the buck_
 - **The [[b/_body|body]] of a [[p/_post|post]] [[m/_mill|mill]], [[p/_particularly|particularly]] in [[e/_east|East]] Anglia. [[s/_see|See]] Wikipedia:Windmill [[m/_machinery|machinery]].**

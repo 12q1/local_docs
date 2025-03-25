@@ -7,7 +7,7 @@
 	- _Example: Does the sink drip, or have I just spilt water over the floor?_
 - **To [[l/_let|let]] [[f/_fall|fall]] in [[d/_drops|drops]].**
 	- _Example: After putting oil on the side of the salad, the chef should drip a little vinegar in the oil._
-- **(usually with with) To [[h/_have|have]] a superabundance of valuable things.**
+- **(usually with with) To [[h/_have|have]] a [[s/_superabundance|superabundance]] of valuable things.**
 	- _Example: The Old Hall simply drips with masterpieces of the Flemish painters._
 - **(of the weather) To [[r/_rain|rain]] [[l/_lightly|lightly]].**
 	- _Example: The weather isn't so bad. I mean, it's dripping, but you're not going to get so wet._

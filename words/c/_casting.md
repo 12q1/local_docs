@@ -8,7 +8,7 @@
 - **To [[p/_perform|perform]], [[b/_bring|bring]] [[f/_forth|forth]] (a [[m/_magical|magical]] [[s/_spell|spell]] or [[e/_enchantment|enchantment]]).**
 - **To throw ([[l/_light|light]] [[e/_etc|etc]].) on or upon [[s/_something|something]], or in a [[g/_given|given]] [[d/_direction|direction]].**
 - **To [[g/_give|give]] [[b/_birth|birth]] to (a [[c/_child|child]]) [[p/_prematurely|prematurely]]; to [[m/_miscarry|miscarry]].**
-- **To [[s/_shape|shape]] ([[m/_molten|molten]] [[m/_metal|metal]] [[e/_etc|etc]].) by [[p/_pouring|pouring]] [[i/_into|into]] a [[m/_mould|mould]]; to [[m/_make|make]] (an [[o/_object|object]]) in such a way.**
+- **To [[s/_shape|shape]] ([[m/_molten|molten]] [[m/_metal|metal]] [[e/_etc|etc]].) by [[p/_pouring|pouring]] [[i/_into|into]] a [[m/_mould|mould]]; to [[m/_make|make]] (an [[o/_object|object]]) in [[s/_such|such]] a way.**
 - **To twist or warp (of [[f/_fabric|fabric]], timber [[e/_etc|etc]].).**
 - **To [[b/_bring|bring]] the [[b/_bows|bows]] of a [[s/_sailing|sailing]] [[s/_ship|ship]] on to the [[r/_required|required]] tack [[j/_just|just]] as the [[a/_anchor|anchor]] is weighed by use of the [[h/_headsail|headsail]]; to [[b/_bring|bring]] (a [[s/_ship|ship]]) [[r/_round|round]].**
 - **To [[d/_deposit|deposit]] (a [[b/_ballot|ballot]] or voting [[p/_paper|paper]]); to [[f/_formally|formally]] [[r/_register|register]] ([[o/_one|one]]'[[s/_s|s]] vote).**

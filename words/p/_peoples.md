@@ -3,8 +3,8 @@
 #noun
 - **Used as [[p/_plural|plural]] of [[p/_person|person]]; a [[b/_body|body]] of [[h/_human|human]] [[b/_beings|beings]] [[c/_considered|considered]] [[g/_generally|generally]] or [[c/_collectively|collectively]]; a [[g/_group|group]] of two or [[m/_more|more]] [[p/_persons|persons]].**
 	- _Example: There were so many people at the restaurant last night._
-- **[[p/_persons|Persons]] [[f/_forming|forming]] or [[b/_belonging|belonging]] to a [[p/_particular|particular]] [[g/_group|group]], such as a [[n/_nation|nation]], [[c/_class|class]], [[e/_ethnic|ethnic]] [[g/_group|group]], [[c/_country|country]], [[f/_family|family]], [[e/_etc|etc]].**
-- **A [[g/_group|group]] of [[p/_persons|persons]] [[r/_regarded|regarded]] as [[b/_being|being]] [[e/_employees|employees]], [[f/_followers|followers]], [[c/_companions|companions]] or subjects of a [[r/_ruler|ruler]].**
+- **[[p/_persons|Persons]] [[f/_forming|forming]] or [[b/_belonging|belonging]] to a [[p/_particular|particular]] [[g/_group|group]], [[s/_such|such]] as a [[n/_nation|nation]], [[c/_class|class]], [[e/_ethnic|ethnic]] [[g/_group|group]], [[c/_country|country]], [[f/_family|family]], [[e/_etc|etc]].**
+- **A [[g/_group|group]] of [[p/_persons|persons]] [[r/_regarded|regarded]] as [[b/_being|being]] [[e/_employees|employees]], [[f/_followers|followers]], [[c/_companions|companions]] or [[s/_subjects|subjects]] of a [[r/_ruler|ruler]].**
 - **[[o/_one|One]]'[[s/_s|s]] [[c/_colleagues|colleagues]] or [[e/_employees|employees]].**
 - **A [[p/_person|person]]'[[s/_s|s]] [[a/_ancestors|ancestors]], [[r/_relatives|relatives]] or [[f/_family|family]].**
 	- _Example: My people lived through the Black Plague and the Thirty Years War._

@@ -1,7 +1,7 @@
 # Dysphoria
 ---
 #noun
-- **A [[s/_state|state]] of [[f/_feeling|feeling]] unwell or unhappy; a [[f/_feeling|feeling]] of [[e/_emotional|emotional]] and [[m/_mental|mental]] [[d/_discomfort|discomfort]] and suffering from [[r/_restlessness|restlessness]], [[m/_malaise|malaise]], [[d/_depression|depression]] or [[a/_anxiety|anxiety]].**
+- **A [[s/_state|state]] of [[f/_feeling|feeling]] unwell or unhappy; a [[f/_feeling|feeling]] of [[e/_emotional|emotional]] and [[m/_mental|mental]] [[d/_discomfort|discomfort]] and [[s/_suffering|suffering]] from [[r/_restlessness|restlessness]], [[m/_malaise|malaise]], [[d/_depression|depression]] or [[a/_anxiety|anxiety]].**
 ---
 ### Antonyms
 - [[e/_euphoria|euphoria]]

@@ -9,7 +9,7 @@
 ---
 #noun
 - **A [[h/_house|house]] for [[c/_covered|covered]] [[c/_carriages|carriages]]; a [[c/_chaise|chaise]] [[h/_house|house]].**
-- **A [[h/_hired|hired]] [[l/_livery|livery]] [[c/_carriage|carriage]] of a [[k/_kind|kind]] superior to an [[o/_ordinary|ordinary]] [[f/_fiacre|fiacre]]; [[s/_so|so]] [[c/_called|called]] [[b/_because|because]] [[k/_kept|kept]] in a [[r/_remise|remise]].**
+- **A [[h/_hired|hired]] [[l/_livery|livery]] [[c/_carriage|carriage]] of a [[k/_kind|kind]] [[s/_superior|superior]] to an [[o/_ordinary|ordinary]] [[f/_fiacre|fiacre]]; [[s/_so|so]] [[c/_called|called]] [[b/_because|because]] [[k/_kept|kept]] in a [[r/_remise|remise]].**
 - **A [[r/_renewal|renewal]] of a [[f/_failed|failed]] [[a/_action|action]], without withdrawing the [[a/_arm|arm]].**
 - **The [[r/_repetition|repetition]] or [[r/_return|return]] of the [[o/_opening|opening]] [[m/_material|material]] [[l/_later|later]] in a [[c/_composition|composition]].**
 ---

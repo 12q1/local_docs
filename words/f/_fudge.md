@@ -1,7 +1,7 @@
 # Fudge
 ---
 #noun
-- **A type of very sweet [[c/_candy|candy]] or [[c/_confection|confection]], usually [[m/_made|made]] from sugar, [[b/_butter|butter]], and [[m/_milk|milk]] or [[c/_cream|cream]]. [[o/_often|Often]] used in the US [[s/_synonymously|synonymously]] with [[c/_chocolate|chocolate]] [[f/_fudge|fudge]].**
+- **A type of very sweet [[c/_candy|candy]] or [[c/_confection|confection]], usually [[m/_made|made]] from [[s/_sugar|sugar]], [[b/_butter|butter]], and [[m/_milk|milk]] or [[c/_cream|cream]]. [[o/_often|Often]] used in the US [[s/_synonymously|synonymously]] with [[c/_chocolate|chocolate]] [[f/_fudge|fudge]].**
 	- _Example: Have you tried the vanilla fudge? It's delicious!_
 - **[[l/_light|Light]] or [[f/_frothy|frothy]] [[n/_nonsense|nonsense]].**
 - **A [[d/_deliberately|deliberately]] [[m/_misleading|misleading]] or vague [[a/_answer|answer]].**

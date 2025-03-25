@@ -1,7 +1,7 @@
 # Spits
 ---
 #noun
-- **A sudden [[i/_impact|impact]] or [[b/_blow|blow]].**
+- **A [[s/_sudden|sudden]] [[i/_impact|impact]] or [[b/_blow|blow]].**
 - **The [[s/_shock|shock]] and [[n/_noise|noise]] [[p/_produced|produced]] by violently [[c/_closing|closing]] a [[d/_door|door]] or [[o/_other|other]] [[o/_object|object]].**
 - **A [[s/_slam|slam]] [[d/_dunk|dunk]].**
 - **An [[i/_insult|insult]].**
@@ -16,7 +16,7 @@
 - **A type of [[c/_card|card]] [[g/_game|game]], [[a/_also|also]] [[c/_called|called]] [[r/_ruff|ruff]] and [[h/_honours|honours]].**
 - **A [[c/_card|card]] [[g/_game|game]], [[p/_played|played]] [[a/_all|all]] at [[o/_once|once]] without [[s/_separate|separate]] turns, in which [[p/_players|players]] [[a/_attempt|attempt]] to [[g/_get|get]] [[r/_rid|rid]] of their [[c/_cards|cards]] as [[q/_quickly|quickly]] as [[p/_possible|possible]] [[a/_according|according]] to [[c/_certain|certain]] [[r/_rules|rules]].**
 - **[[l/_losing|Losing]] or winning [[a/_all|all]] the tricks in a [[g/_game|game]].**
-- **A [[b/_bid|bid]] of [[s/_six|six]] ([[s/_small|small]] [[s/_slam|slam]]) or [[s/_seven|seven]] ([[g/_grand|grand]] [[s/_slam|slam]]) in a suit or [[n/_no|no]] trump.**
+- **A [[b/_bid|bid]] of [[s/_six|six]] ([[s/_small|small]] [[s/_slam|slam]]) or [[s/_seven|seven]] ([[g/_grand|grand]] [[s/_slam|slam]]) in a [[s/_suit|suit]] or [[n/_no|no]] trump.**
 - **Winning [[a/_all|all]] (or [[a/_all|all]] but [[o/_one|one]]) of the [[a/_available|available]], [[m/_major|major]] or [[s/_specified|specified]] [[e/_events|events]] in a [[g/_given|given]] [[y/_year|year]] or [[s/_sports|sports]] [[s/_season|season]].**
 ---
 ### Synonyms
@@ -45,7 +45,7 @@
 ### Synonyms
 - [[e/_expectoration|expectoration]], [[s/_spittle|spittle]]
 #verb
-- **To [[e/_evacuate|evacuate]] ([[s/_saliva|saliva]] or [[a/_another|another]] substance) from the [[m/_mouth|mouth]], [[e/_etc|etc]].**
+- **To [[e/_evacuate|evacuate]] ([[s/_saliva|saliva]] or [[a/_another|another]] [[s/_substance|substance]]) from the [[m/_mouth|mouth]], [[e/_etc|etc]].**
 - **To [[e/_emit|emit]] or [[e/_expel|expel]] in a [[m/_manner|manner]] [[s/_similar|similar]] to [[e/_evacuating|evacuating]] [[s/_saliva|saliva]] from the [[m/_mouth|mouth]]; [[s/_specifically|specifically]], to [[r/_rain|rain]] or [[s/_snow|snow]] [[s/_slightly|slightly]].**
 	- _Example: a hot pan spitting droplets of fat_
 - **To utter ([[s/_something|something]]) violently.**

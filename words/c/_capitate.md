@@ -8,6 +8,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] a [[d/_distinct|distinct]] [[g/_globular|globular]] tip.**
-- **[[f/_forming|Forming]] a [[d/_dense|dense]], [[h/_head|head]]-[[l/_like|like]] [[c/_cluster|cluster]], such as the inflorescences of [[c/_composites|composites]].**
+- **[[f/_forming|Forming]] a [[d/_dense|dense]], [[h/_head|head]]-[[l/_like|like]] [[c/_cluster|cluster]], [[s/_such|such]] as the inflorescences of [[c/_composites|composites]].**
 ---
 ---

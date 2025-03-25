@@ -12,6 +12,6 @@
 - **To [[f/_fish|fish]] for [[l/_lobsters|lobsters]].**
 ---
 #adjective
-- **[[r/_red|Red]]-[[c/_colored|colored]], [[e/_especially|especially]] from a sunburn.**
+- **[[r/_red|Red]]-[[c/_colored|colored]], [[e/_especially|especially]] from a [[s/_sunburn|sunburn]].**
 ---
 ---

@@ -11,7 +11,7 @@
 - **A [[c/_celestial|celestial]] [[o/_object|object]] under the [[a/_astrological|astrological]] [[i/_influence|influence]] of the [[p/_planet|planet]] [[m/_mars|Mars]].**
 ---
 #adjective
-- **Of, [[r/_relating|relating]] to, or suggestive of war; warlike.**
+- **Of, [[r/_relating|relating]] to, or [[s/_suggestive|suggestive]] of war; warlike.**
 - **[[c/_connected|Connected]] with or [[r/_relating|relating]] to [[a/_armed|armed]] [[f/_forces|forces]] or the [[p/_profession|profession]] of [[a/_arms|arms]] or [[m/_military|military]] [[l/_life|life]].**
 - **[[c/_characteristic|Characteristic]] of or [[b/_befitting|befitting]] a warrior; [[h/_having|having]] a [[m/_military|military]] [[b/_bearing|bearing]]; [[s/_soldierly|soldierly]].**
 - **[[p/_pertaining|Pertaining]] to the [[a/_astrological|astrological]] [[i/_influence|influence]] of the [[p/_planet|planet]] [[m/_mars|Mars]].**

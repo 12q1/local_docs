@@ -10,7 +10,7 @@
 	- _Example: Travelling to work in the rush hour is a real drag._
 - **A [[l/_long|long]] [[o/_open|open]] [[h/_horse|horse]]-[[d/_drawn|drawn]] [[c/_carriage|carriage]] with transverse or [[s/_side|side]] [[s/_seats|seats]].**
 - **[[s/_street|Street]], as in '[[m/_main|main]] [[d/_drag|drag]]'.**
-- **The [[s/_scent|scent]]-[[p/_path|path]] [[l/_left|left]] by [[d/_dragging|dragging]] a [[f/_fox|fox]], or [[s/_some|some]] [[o/_other|other]] substance such as [[a/_aniseed|aniseed]], for training [[h/_hounds|hounds]] to [[f/_follow|follow]] [[s/_scents|scents]].**
+- **The [[s/_scent|scent]]-[[p/_path|path]] [[l/_left|left]] by [[d/_dragging|dragging]] a [[f/_fox|fox]], or [[s/_some|some]] [[o/_other|other]] [[s/_substance|substance]] [[s/_such|such]] as [[a/_aniseed|aniseed]], for training [[h/_hounds|hounds]] to [[f/_follow|follow]] [[s/_scents|scents]].**
 	- _Example: to run a drag_
 - **A [[l/_large|large]] [[a/_amount|amount]] of [[b/_backspin|backspin]] on the [[c/_cue|cue]] [[b/_ball|ball]], [[c/_causing|causing]] the [[c/_cue|cue]] [[b/_ball|ball]] to [[s/_slow|slow]] [[d/_down|down]].**
 - **A [[h/_heavy|heavy]] [[h/_harrow|harrow]] for [[b/_breaking|breaking]] up [[g/_ground|ground]].**
@@ -55,7 +55,7 @@
 - **Women'[[s/_s|s]] [[c/_clothing|clothing]] worn by [[m/_men|men]] for the [[p/_purpose|purpose]] of [[e/_entertainment|entertainment]].**
 	- _Example: He performed in drag._
 - **A [[m/_men|men]]'[[s/_s|s]] [[p/_party|party]] [[a/_attended|attended]] in women'[[s/_s|s]] [[c/_clothing|clothing]].**
-- **[[a/_any|Any]] type of [[c/_clothing|clothing]] or [[c/_costume|costume]] [[a/_associated|associated]] with a [[p/_particular|particular]] [[o/_occupation|occupation]] or subculture.**
+- **[[a/_any|Any]] type of [[c/_clothing|clothing]] or [[c/_costume|costume]] [[a/_associated|associated]] with a [[p/_particular|particular]] [[o/_occupation|occupation]] or [[s/_subculture|subculture]].**
 	- _Example: corporate drag_
 ---
 #verb

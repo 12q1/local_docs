@@ -11,7 +11,7 @@
 - **An [[e/_electric|electric]] [[c/_charge|charge]].**
 - **The [[s/_scope|scope]] of [[s/_someone|someone]]'[[s/_s|s]] [[r/_responsibility|responsibility]].**
 	- _Example: The child was in the nanny's charge._
-- **[[s/_someone|Someone]] or [[s/_something|something]] [[e/_entrusted|entrusted]] to [[o/_one|one]]'[[s/_s|s]] [[c/_care|care]], such as a [[c/_child|child]] to a [[b/_babysitter|babysitter]] or a [[s/_student|student]] to a teacher.**
+- **[[s/_someone|Someone]] or [[s/_something|something]] [[e/_entrusted|entrusted]] to [[o/_one|one]]'[[s/_s|s]] [[c/_care|care]], [[s/_such|such]] as a [[c/_child|child]] to a [[b/_babysitter|babysitter]] or a [[s/_student|student]] to a teacher.**
 	- _Example: The child was a charge of the nanny._
 - **A [[l/_load|load]] or [[b/_burden|burden]]; [[c/_cargo|cargo]].**
 	- _Example: The ship had a charge of colonists and their belongings._

@@ -25,6 +25,6 @@
 - **(in [[m/_muslim|Muslim]] usage, [[d/_due|due]] to the [[b/_belief|belief]] that [[a/_all|all]] [[p/_people|people]] are [[b/_born|born]] [[m/_muslim|Muslim]]) To [[c/_convert|convert]] to [[i/_islam|Islam]].**
 - **([[o/_originally|originally]] [[i/_india|India]], [[n/_now|now]] [[a/_also|also]] [[s/_singapore|Singapore]], [[m/_malaysia|Malaysia]], [[h/_hong|Hong]] [[k/_kong|Kong]]) To [[r/_reply|reply]] (to [[c/_correspondence|correspondence]], for [[e/_example|example]]).**
 	- _Example: Please revert before Monday._
-- **To treat (a [[s/_series|series]], such as [[y/_y|y]] = a + [[b/_bx|bx]] + cx2 + ..., where [[o/_one|one]] variable [[y/_y|y]] is [[e/_expressed|expressed]] in [[p/_powers|powers]] of a [[s/_second|second]] variable x), [[s/_so|so]] as to [[f/_find|find]] the [[s/_second|second]] variable x [[e/_expressed|expressed]] in a [[s/_series|series]] [[a/_arranged|arranged]] in [[p/_powers|powers]] of [[y/_y|y]].**
+- **To treat (a [[s/_series|series]], [[s/_such|such]] as [[y/_y|y]] = a + [[b/_bx|bx]] + cx2 + ..., where [[o/_one|one]] variable [[y/_y|y]] is [[e/_expressed|expressed]] in [[p/_powers|powers]] of a [[s/_second|second]] variable x), [[s/_so|so]] as to [[f/_find|find]] the [[s/_second|second]] variable x [[e/_expressed|expressed]] in a [[s/_series|series]] [[a/_arranged|arranged]] in [[p/_powers|powers]] of [[y/_y|y]].**
 ---
 ---

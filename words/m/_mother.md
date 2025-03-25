@@ -18,7 +18,7 @@
 - **[[a/_any|Any]] [[e/_elderly|elderly]] woman, [[e/_especially|especially]] within a [[p/_particular|particular]] [[c/_community|community]].**
 - **[[a/_any|Any]] [[p/_person|person]] or [[e/_entity|entity]] which [[p/_performs|performs]] [[m/_mothering|mothering]].**
 - **The [[p/_principal|principal]] [[p/_piece|piece]] of an [[a/_astrolabe|astrolabe]], [[i/_into|into]] which the [[o/_others|others]] are [[f/_fixed|fixed]].**
-- **The [[f/_female|female]] superior or [[h/_head|head]] of a [[r/_religious|religious]] [[h/_house|house]]; an [[a/_abbess|abbess]], [[e/_etc|etc]].**
+- **The [[f/_female|female]] [[s/_superior|superior]] or [[h/_head|head]] of a [[r/_religious|religious]] [[h/_house|house]]; an [[a/_abbess|abbess]], [[e/_etc|etc]].**
 - **[[h/_hysterical|Hysterical]] [[p/_passion|passion]]; [[h/_hysteria|hysteria]]; the uterus.**
 ---
 ### Synonyms

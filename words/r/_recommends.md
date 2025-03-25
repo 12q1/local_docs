@@ -1,7 +1,7 @@
 # Recommends
 ---
 #verb
-- **To [[b/_bestow|bestow]] [[c/_commendation|commendation]] on; to [[r/_represent|represent]] [[f/_favourably|favourably]]; to suggest, [[e/_endorse|endorse]] or [[e/_encourage|encourage]] as an [[a/_appropriate|appropriate]] [[c/_choice|choice]].**
+- **To [[b/_bestow|bestow]] [[c/_commendation|commendation]] on; to [[r/_represent|represent]] [[f/_favourably|favourably]]; to [[s/_suggest|suggest]], [[e/_endorse|endorse]] or [[e/_encourage|encourage]] as an [[a/_appropriate|appropriate]] [[c/_choice|choice]].**
 	- _Example: The board recommends Philips, given his ample experience in similar positions._
 - **To [[m/_make|make]] [[a/_acceptable|acceptable]]; to [[a/_attract|attract]] [[f/_favor|favor]] to.**
 	- _Example: A city that has much to recommend it._

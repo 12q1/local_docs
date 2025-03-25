@@ -5,6 +5,6 @@
 - **An [[a/_answering|answering]] [[p/_phrase|phrase]]; [[r/_repartee|repartee]].**
 ---
 #verb
-- **To [[m/_make|make]] such a [[l/_literal|literal]] translation.**
+- **To [[m/_make|make]] [[s/_such|such]] a [[l/_literal|literal]] translation.**
 ---
 ---

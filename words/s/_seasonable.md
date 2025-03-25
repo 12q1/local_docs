@@ -1,7 +1,7 @@
 # Seasonable
 ---
 #adjective
-- **[[o/_opportune|Opportune]]; [[o/_occurring|occurring]] at an [[a/_appropriate|appropriate]] or suitable time.**
+- **[[o/_opportune|Opportune]]; [[o/_occurring|occurring]] at an [[a/_appropriate|appropriate]] or [[s/_suitable|suitable]] time.**
 - **[[a/_appropriate|Appropriate]] to the [[c/_current|current]] [[s/_season|season]] of the [[y/_year|year]].**
 	- _Example: The temperature outside was quite seasonable, neither warmer nor colder than I had expected._
 - **[[e/_ephemeral|Ephemeral]]; [[l/_lasting|lasting]] for [[j/_just|just]] [[o/_one|one]] [[s/_season|season]].**

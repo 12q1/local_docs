@@ -7,7 +7,7 @@
 - **To [[d/_delay|delay]], to wait.**
 ---
 #verb
-- **To submit to the [[o/_opinion|opinion]] or [[d/_desire|desire]] of [[a/_another|another]] in [[r/_respect|respect]] to their [[j/_judgment|judgment]] or [[a/_authority|authority]].**
+- **To [[s/_submit|submit]] to the [[o/_opinion|opinion]] or [[d/_desire|desire]] of [[a/_another|another]] in [[r/_respect|respect]] to their [[j/_judgment|judgment]] or [[a/_authority|authority]].**
 - **To [[r/_render|render]], to [[o/_offer|offer]].**
 ---
 #noun

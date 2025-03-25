@@ -12,21 +12,21 @@
 - **To [[b/_briefly|briefly]], and [[o/_often|often]] unintentionally, [[e/_expose|expose]] [[o/_one|one]]'[[s/_s|s]] [[n/_naked|naked]] [[b/_body|body]] or underwear, or [[p/_part|part]] of it, in [[p/_public|public]]. ([[c/_contrast|Contrast]] [[s/_streak|streak]].)**
 	- _Example: Her skirt was so short that she flashed her underpants as she was getting out of her car._
 - **To [[s/_show|show]] or [[e/_expose|expose]] an "[[i/_inappropriate|inappropriate]]" [[p/_part|part]] of the [[b/_body|body]] to [[s/_someone|someone]] for [[h/_humorous|humorous]] [[r/_reasons|reasons]] or as an [[a/_act|act]] of [[c/_contempt|contempt]].**
-- **To [[b/_break|break]] [[f/_forth|forth]] [[l/_like|like]] a sudden [[f/_flood|flood]] of [[l/_light|light]]; to [[s/_show|show]] a [[m/_momentary|momentary]] [[b/_brilliance|brilliance]].**
+- **To [[b/_break|break]] [[f/_forth|forth]] [[l/_like|like]] a [[s/_sudden|sudden]] [[f/_flood|flood]] of [[l/_light|light]]; to [[s/_show|show]] a [[m/_momentary|momentary]] [[b/_brilliance|brilliance]].**
 - **To [[f/_flaunt|flaunt]]; to [[d/_display|display]] in a [[s/_showy|showy]] [[m/_manner|manner]].**
 	- _Example: He flashed a wad of hundred-dollar bills._
 - **To [[c/_communicate|communicate]] [[q/_quickly|quickly]].**
 	- _Example: The news services flashed the news about the end of the war to all corners of the globe._
-- **To [[m/_move|move]], or [[c/_cause|cause]] to [[m/_move|move]], suddenly.**
+- **To [[m/_move|move]], or [[c/_cause|cause]] to [[m/_move|move]], [[s/_suddenly|suddenly]].**
 	- _Example: Flash forward to the present day._
 - **To telephone a [[p/_person|person]], [[o/_only|only]] [[a/_allowing|allowing]] the [[p/_phone|phone]] to [[r/_ring|ring]] [[o/_once|once]], in [[o/_order|order]] to [[r/_request|request]] a [[c/_call|call]] [[b/_back|back]].**
 	- _Example: Susan flashed Jessica, and then Jessica called her back, because Susan didn't have enough credit on her phone to make the call._
-- **(of [[l/_liquid|liquid]]) To [[e/_evaporate|evaporate]] suddenly. ([[s/_see|See]] [[f/_flash|flash]] [[e/_evaporation|evaporation]].)**
-- **To [[c/_climb|climb]] (a [[r/_route|route]]) successfully on the [[f/_first|first]] [[a/_attempt|attempt]].**
-- **To write to the [[m/_memory|memory]] of (an updatable [[c/_component|component]] such as a [[b/_bios|BIOS]] [[c/_chip|chip]] or [[g/_games|games]] [[c/_cartridge|cartridge]]).**
+- **(of [[l/_liquid|liquid]]) To [[e/_evaporate|evaporate]] [[s/_suddenly|suddenly]]. ([[s/_see|See]] [[f/_flash|flash]] [[e/_evaporation|evaporation]].)**
+- **To [[c/_climb|climb]] (a [[r/_route|route]]) [[s/_successfully|successfully]] on the [[f/_first|first]] [[a/_attempt|attempt]].**
+- **To write to the [[m/_memory|memory]] of (an updatable [[c/_component|component]] [[s/_such|such]] as a [[b/_bios|BIOS]] [[c/_chip|chip]] or [[g/_games|games]] [[c/_cartridge|cartridge]]).**
 - **([[g/_glassmaking|glassmaking]]) To [[c/_cover|cover]] with a thin [[l/_layer|layer]], as [[o/_objects|objects]] of [[g/_glass|glass]] with [[g/_glass|glass]] of a [[d/_different|different]] [[c/_colour|colour]].**
 - **([[g/_glassmaking|glassmaking]]) To [[e/_expand|expand]] ([[b/_blown|blown]] [[g/_glass|glass]]) [[i/_into|into]] a [[d/_disc|disc]].**
-- **To [[s/_send|send]] by [[s/_some|some]] [[s/_startling|startling]] or sudden [[m/_means|means]].**
+- **To [[s/_send|send]] by [[s/_some|some]] [[s/_startling|startling]] or [[s/_sudden|sudden]] [[m/_means|means]].**
 - **To [[b/_burst|burst]] [[o/_out|out]] [[i/_into|into]] violence.**
 - **To [[p/_perform|perform]] a [[f/_flash|flash]].**
 - **To [[r/_release|release]] the [[p/_pressure|pressure]] from a [[p/_pressurized|pressurized]] vessel.**
@@ -36,10 +36,10 @@
 ### Synonyms
 - [[b/_beep|beep]], [[g/_glint|glint]]
 #noun
-- **A sudden [[b/_blazing|blazing]] or [[b/_bursting|bursting]], as of [[f/_fire|fire]] or water.**
+- **A [[s/_sudden|sudden]] [[b/_blazing|blazing]] or [[b/_bursting|bursting]], as of [[f/_fire|fire]] or water.**
 - **([[r/_roofing|roofing]]) [[c/_components|Components]] used to weatherproof or [[s/_seal|seal]] [[r/_roof|roof]] [[s/_system|system]] [[e/_edges|edges]] at [[p/_perimeters|perimeters]], [[p/_penetrations|penetrations]], walls, [[e/_expansion|expansion]] [[j/_joints|joints]], valleys, [[d/_drains|drains]] and [[o/_other|other]] [[p/_places|places]] where the [[r/_roof|roof]] [[c/_covering|covering]] is [[i/_interrupted|interrupted]] or terminated.**
 - **The [[p/_process|process]] of [[g/_getting|getting]] [[r/_rid|rid]] of [[g/_gaps|gaps]] on [[s/_shelves|shelves]] by [[b/_bringing|bringing]] [[p/_products|products]] from the [[b/_back|back]] of the [[s/_shelf|shelf]] to the [[f/_front|front]] to [[c/_create|create]] a '[[f/_fuller|fuller]]' [[s/_shelf|shelf]].**
-- **The [[b/_blinking|blinking]] of a [[l/_light|light]] [[s/_source|source]], such as a [[l/_light|light]] [[b/_bulb|bulb]] or [[c/_computer|computer]]'[[s/_s|s]] [[c/_cursor|cursor]].**
+- **The [[b/_blinking|blinking]] of a [[l/_light|light]] [[s/_source|source]], [[s/_such|such]] as a [[l/_light|light]] [[b/_bulb|bulb]] or [[c/_computer|computer]]'[[s/_s|s]] [[c/_cursor|cursor]].**
 	- _Example: The incessant flashing of the neon sign kept the neighborhood awake._
 - **The [[e/_exposing|exposing]] of [[o/_one|one]]'[[s/_s|s]] [[n/_naked|naked]] [[b/_body|body]], or [[p/_part|part]] of it, in [[p/_public|public]] [[b/_briefly|briefly]] (the [[a/_action|action]] of the verb to [[f/_flash|flash]]).**
 - **([[j/_jewellery|jewellery]]) The use of [[r/_rhodium|rhodium]] [[p/_plating|plating]] to temporarily [[e/_enhance|enhance]] a [[r/_ring|ring]]'[[s/_s|s]] [[d/_durability|durability]] and [[s/_shine|shine]].**

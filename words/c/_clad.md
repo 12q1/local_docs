@@ -7,7 +7,7 @@
 ---
 #adjective
 - **(in [[c/_compounds|compounds]]) Wearing [[c/_clothing|clothing]] of a [[s/_specified|specified]] type.**
-- **(in [[c/_compounds|compounds]]) [[c/_covered|Covered]], [[e/_enveloped|enveloped]] in or surrounded by a [[s/_specified|specified]] [[m/_material|material]] or substance.**
+- **(in [[c/_compounds|compounds]]) [[c/_covered|Covered]], [[e/_enveloped|enveloped]] in or surrounded by a [[s/_specified|specified]] [[m/_material|material]] or [[s/_substance|substance]].**
 ---
 ### Synonyms
 - [[d/_dressed|dressed]], [[r/_raimented|raimented]]

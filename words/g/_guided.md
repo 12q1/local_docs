@@ -8,6 +8,6 @@
 - **To [[a/_act|act]] as a [[g/_guide|guide]].**
 ---
 #adjective
-- **Subject to [[g/_guidance|guidance]].**
+- **[[s/_subject|Subject]] to [[g/_guidance|guidance]].**
 ---
 ---

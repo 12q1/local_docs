@@ -1,7 +1,7 @@
 # Recompense
 ---
 #noun
-- **An [[e/_equivalent|equivalent]] [[r/_returned|returned]] for [[a/_anything|anything]] [[g/_given|given]], [[d/_done|done]], or suffered; [[c/_compensation|compensation]]; [[r/_reward|reward]]; [[a/_amends|amends]]; [[r/_requital|requital]].**
+- **An [[e/_equivalent|equivalent]] [[r/_returned|returned]] for [[a/_anything|anything]] [[g/_given|given]], [[d/_done|done]], or [[s/_suffered|suffered]]; [[c/_compensation|compensation]]; [[r/_reward|reward]]; [[a/_amends|amends]]; [[r/_requital|requital]].**
 - **That which [[c/_compensates|compensates]] for an [[i/_injury|injury]], or [[o/_other|other]] type of [[h/_harm|harm]] or [[d/_damage|damage]].**
 	- _Example: He offered money as recompense for the damage, but what the injured party wanted was an apology._
 ---

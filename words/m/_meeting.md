@@ -5,7 +5,7 @@
 	- _Example: Meeting him will be exciting. I enjoy meeting new people._
 - **A [[g/_gathering|gathering]] of [[p/_persons|persons]] for a [[p/_purpose|purpose]]; an [[a/_assembly|assembly]].**
 	- _Example: We need to have a meeting about that soon._
-- **([[c/_collective|collective]]) The [[p/_people|people]] at such a [[g/_gathering|gathering]].**
+- **([[c/_collective|collective]]) The [[p/_people|people]] at [[s/_such|such]] a [[g/_gathering|gathering]].**
 	- _Example: What has the meeting decided._
 - **An [[e/_encounter|encounter]] [[b/_between|between]] [[p/_people|people]], [[e/_even|even]] [[a/_accidental|accidental]].**
 	- _Example: They came together in a chance meeting on the way home from work._

@@ -20,9 +20,9 @@
 - **[[o/_one|One]] of the two [[p/_parts|parts]] of a [[b/_brassiere|brassiere]] which [[e/_each|each]] [[c/_cover|cover]] a [[b/_breast|breast]].**
 	- _Example: The cups are made of a particularly uncomfortable material._
 - **The [[s/_symbol|symbol]] \[[c/_cup|cup]] [[d/_denoting|denoting]] union and [[s/_similar|similar]] [[o/_operations|operations]] ([[c/_confer|confer]] [[c/_cap|cap]]).**
-- **A suit of the [[m/_minor|minor]] [[a/_arcana|arcana]] in tarot, or [[o/_one|one]] of the [[c/_cards|cards]] from the suit.**
+- **A [[s/_suit|suit]] of the [[m/_minor|minor]] [[a/_arcana|arcana]] in tarot, or [[o/_one|one]] of the [[c/_cards|cards]] from the [[s/_suit|suit]].**
 - **(ultimate [[f/_frisbee|frisbee]]) A [[d/_defensive|defensive]] [[s/_style|style]] [[c/_characterized|characterized]] by a three [[p/_player|player]] [[n/_near|near]] [[d/_defense|defense]] [[c/_cupping|cupping]] the thrower; or those three [[p/_players|players]].**
-- **A [[f/_flexible|flexible]] [[c/_concave|concave]] [[m/_membrane|membrane]] used to temporarily [[a/_attach|attach]] a [[h/_handle|handle]] or [[h/_hook|hook]] to a [[f/_flat|flat]] surface by [[m/_means|means]] of suction (suction [[c/_cup|cup]]).**
+- **A [[f/_flexible|flexible]] [[c/_concave|concave]] [[m/_membrane|membrane]] used to temporarily [[a/_attach|attach]] a [[h/_handle|handle]] or [[h/_hook|hook]] to a [[f/_flat|flat]] surface by [[m/_means|means]] of [[s/_suction|suction]] ([[s/_suction|suction]] [[c/_cup|cup]]).**
 - **[[a/_anything|Anything]] [[s/_shaped|shaped]] [[l/_like|like]] a [[c/_cup|cup]].**
 	- _Example: the cup of an acorn_
 - **A [[c/_cupping|cupping]] [[g/_glass|glass]] or [[o/_other|other]] vessel or [[i/_instrument|instrument]] used to [[p/_produce|produce]] the vacuum in [[c/_cupping|cupping]].**
@@ -36,7 +36,7 @@
 - **To [[p/_pour|pour]] (a [[l/_liquid|liquid]], [[d/_drink|drink]], [[e/_etc|etc]].) [[i/_into|into]] a [[c/_cup|cup]].**
 	- _Example: We are cupping some new brands of coffee today._
 - **To supply with [[c/_cups|cups]] of wine.**
-- **To [[a/_apply|apply]] a [[c/_cupping|cupping]] [[a/_apparatus|apparatus]] to; to subject to the [[o/_operation|operation]] of [[c/_cupping|cupping]].**
+- **To [[a/_apply|apply]] a [[c/_cupping|cupping]] [[a/_apparatus|apparatus]] to; to [[s/_subject|subject]] to the [[o/_operation|operation]] of [[c/_cupping|cupping]].**
 - **To [[m/_make|make]] [[c/_concave|concave]] or in the [[f/_form|form]] of a [[c/_cup|cup]].**
 	- _Example: to cup the end of a screw_
 ---

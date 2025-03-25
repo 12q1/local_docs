@@ -1,7 +1,7 @@
 # Raves
 ---
 #noun
-- **An [[e/_enthusiastic|enthusiastic]] [[r/_review|review]] (such as of a [[p/_play|play]]).**
+- **An [[e/_enthusiastic|enthusiastic]] [[r/_review|review]] ([[s/_such|such]] as of a [[p/_play|play]]).**
 - **An [[a/_all|all]]-[[n/_night|night]] [[d/_dance|dance]] [[p/_party|party]] with [[e/_electronic|electronic]] [[d/_dance|dance]] [[m/_music|music]] (techno, trance, [[d/_drum|drum]] and [[b/_bass|bass]] [[e/_etc|etc]].) and [[p/_possibly|possibly]] [[d/_drug|drug]] use.**
 - **The [[g/_genres|genres]] of [[e/_electronic|electronic]] [[d/_dance|dance]] [[m/_music|music]] usually [[a/_associated|associated]] with [[r/_rave|rave]] [[p/_parties|parties]].**
 ---

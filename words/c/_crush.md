@@ -12,7 +12,7 @@
 	- _Example: I've had a huge crush on her since we met many years ago._
 - **A [[s/_standing|standing]] [[s/_stock|stock]] or [[c/_cage|cage]] with [[m/_movable|movable]] [[s/_sides|sides]] used to [[r/_restrain|restrain]] [[l/_livestock|livestock]] for [[s/_safe|safe]] [[h/_handling|handling]].**
 - **A [[p/_party|party]] or [[f/_festive|festive]] [[f/_function|function]].**
-- **The [[p/_process|process]] of [[c/_crushing|crushing]] [[c/_cane|cane]] to [[r/_remove|remove]] the [[r/_raw|raw]] sugar, or the [[s/_season|season]] when this [[p/_process|process]] takes [[p/_place|place]].**
+- **The [[p/_process|process]] of [[c/_crushing|crushing]] [[c/_cane|cane]] to [[r/_remove|remove]] the [[r/_raw|raw]] [[s/_sugar|sugar]], or the [[s/_season|season]] when this [[p/_process|process]] takes [[p/_place|place]].**
 ---
 #verb
 - **To [[p/_press|press]] [[b/_between|between]] two [[h/_hard|hard]] [[o/_objects|objects]]; to [[s/_squeeze|squeeze]] [[s/_so|so]] as to [[a/_alter|alter]] the [[n/_natural|natural]] [[s/_shape|shape]] or [[i/_integrity|integrity]] of it, or to [[f/_force|force]] together [[i/_into|into]] a [[m/_mass|mass]].**
@@ -22,7 +22,7 @@
 - **To [[o/_overwhelm|overwhelm]] by [[p/_pressure|pressure]] or weight.**
 	- _Example: After the corruption scandal, the opposition crushed the ruling party in the elections_
 - **To [[o/_oppress|oppress]] or [[g/_grievously|grievously]] [[b/_burden|burden]].**
-- **To [[o/_overcome|overcome]] [[c/_completely|completely]]; to subdue totally.**
+- **To [[o/_overcome|overcome]] [[c/_completely|completely]]; to [[s/_subdue|subdue]] totally.**
 	- _Example: The sultan's black guard crushed every resistance bloodily._
 - **To be or [[b/_become|become]] [[b/_broken|broken]] [[d/_down|down]] or in, or [[p/_pressed|pressed]] [[i/_into|into]] a [[s/_smaller|smaller]] [[c/_compass|compass]], by [[e/_external|external]] weight or [[f/_force|force]]**
 	- _Example: an eggshell crushes easily_

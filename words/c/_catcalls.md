@@ -6,7 +6,7 @@
 - **A whistle [[b/_blown|blown]] by a theatre-[[g/_goer|goer]] to [[e/_express|express]] [[d/_disapproval|disapproval]].**
 ---
 #verb
-- **To [[m/_make|make]] such an [[e/_exclamation|exclamation]].**
+- **To [[m/_make|make]] [[s/_such|such]] an [[e/_exclamation|exclamation]].**
 ---
 #noun
 - **In the [[e/_eiffel|Eiffel]] [[p/_programming|programming]] [[l/_language|language]], a [[r/_run|run]]-time [[e/_error|error]] [[c/_caused|caused]] by use of the wrong [[d/_data|data]] type.**

@@ -15,7 +15,7 @@
 #noun
 - **An [[i/_item|item]] [[p/_placed|placed]] on a [[s/_stage|stage]] or [[s/_set|set]] to [[c/_create|create]] a [[s/_scene|scene]] or [[s/_scenario|scenario]] in which [[a/_actors|actors]] [[p/_perform|perform]].**
 	- _Example: They used the trophy as a prop in the movie._
-- **An [[i/_item|item]] [[p/_placed|placed]] within an [[a/_advertisement|advertisement]] in [[o/_order|order]] to suggest a [[s/_style|style]] of [[l/_living|living]] [[e/_etc|etc]].**
+- **An [[i/_item|item]] [[p/_placed|placed]] within an [[a/_advertisement|advertisement]] in [[o/_order|order]] to [[s/_suggest|suggest]] a [[s/_style|style]] of [[l/_living|living]] [[e/_etc|etc]].**
 ---
 #noun
 - **The [[p/_propeller|propeller]] of an [[a/_aircraft|aircraft]].**

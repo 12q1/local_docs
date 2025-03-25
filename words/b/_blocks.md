@@ -1,7 +1,7 @@
 # Blocks
 ---
 #noun
-- **A substantial, [[o/_often|often]] [[a/_approximately|approximately]] [[c/_cuboid|cuboid]], [[p/_piece|piece]] of [[a/_any|any]] substance.**
+- **A [[s/_substantial|substantial]], [[o/_often|often]] [[a/_approximately|approximately]] [[c/_cuboid|cuboid]], [[p/_piece|piece]] of [[a/_any|any]] [[s/_substance|substance]].**
 	- _Example: a block of ice_
 - **A [[c/_chopping|chopping]] [[b/_block|block]]; [[c/_cuboid|cuboid]] [[b/_base|base]] for [[c/_cutting|cutting]] or [[b/_beheading|beheading]].**
 	- _Example: Anne Boleyn placed her head on the block and awaited her execution._
@@ -19,7 +19,7 @@
 - **A [[s/_set|set]] of [[s/_sheets|sheets]] (of [[p/_paper|paper]]) [[j/_joined|joined]] together at [[o/_one|one]] [[e/_end|end]].**
 	- _Example: a block of 100 tickets_
 - **A [[l/_logical|logical]] [[d/_data|data]] [[s/_storage|storage]] unit [[c/_containing|containing]] [[o/_one|one]] or [[m/_more|more]] [[p/_physical|physical]] [[s/_sectors|sectors]] ([[s/_see|see]] [[c/_cluster|cluster]]).**
-- **A [[r/_region|region]] of [[c/_code|code]] in a [[p/_program|program]] that [[a/_acts|acts]] as a [[s/_single|single]] unit, such as a [[f/_function|function]] or [[l/_loop|loop]].**
+- **A [[r/_region|region]] of [[c/_code|code]] in a [[p/_program|program]] that [[a/_acts|acts]] as a [[s/_single|single]] unit, [[s/_such|such]] as a [[f/_function|function]] or [[l/_loop|loop]].**
 - **A [[f/_fixed|fixed]]-[[l/_length|length]] [[g/_group|group]] of [[b/_bits|bits]] [[m/_making|making]] up [[p/_part|part]] of a [[m/_message|message]].**
 - **A [[c/_case|case]] with [[o/_one|one]] or [[m/_more|more]] [[s/_sheaves|sheaves]]/[[p/_pulleys|pulleys]], used with [[r/_ropes|ropes]] to [[i/_increase|increase]] or [[r/_redirect|redirect]] [[f/_force|force]], for [[e/_example|example]], as [[p/_part|part]] of the [[r/_rigging|rigging]] of a [[s/_sailing|sailing]] [[s/_ship|ship]].**
 - **A [[p/_portion|portion]] of a [[m/_macromolecule|macromolecule]], [[c/_comprising|comprising]] [[m/_many|many]] units, that [[h/_has|has]] at [[l/_least|least]] [[o/_one|one]] [[f/_feature|feature]] not [[p/_present|present]] in [[a/_adjacent|adjacent]] [[p/_portions|portions]].**

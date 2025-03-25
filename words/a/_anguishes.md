@@ -6,7 +6,7 @@
 ### Synonyms
 - [[a/_agony|agony]], [[c/_calvary|calvary]], [[c/_cross|cross]], [[p/_pang|pang]], [[t/_torment|torment]], [[t/_torture|torture]]
 #verb
-- **To suffer [[p/_pain|pain]].**
-- **To [[c/_cause|cause]] to suffer [[p/_pain|pain]].**
+- **To [[s/_suffer|suffer]] [[p/_pain|pain]].**
+- **To [[c/_cause|cause]] to [[s/_suffer|suffer]] [[p/_pain|pain]].**
 ---
 ---

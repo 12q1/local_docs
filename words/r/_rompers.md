@@ -8,7 +8,7 @@
 - **A onesie.**
 ---
 #noun
-- **A [[o/_one|one]]-[[p/_piece|piece]] [[g/_garment|garment]] for [[b/_babies|babies]] and [[s/_small|small]] [[c/_children|children]], [[c/_consisting|consisting]] of a top and trousers. A [[r/_romper|romper]] suit.**
+- **A [[o/_one|one]]-[[p/_piece|piece]] [[g/_garment|garment]] for [[b/_babies|babies]] and [[s/_small|small]] [[c/_children|children]], [[c/_consisting|consisting]] of a top and trousers. A [[r/_romper|romper]] [[s/_suit|suit]].**
 	- _Example: He is wearing the last clean rompers I had for him and they are getting dirtier by the minute._
 ---
 ---

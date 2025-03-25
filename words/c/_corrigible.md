@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[a/_able|Able]] to be [[c/_corrected|corrected]] or [[s/_set|set]] [[r/_right|right]].**
-- **Submissive to [[c/_correction|correction]]**
+- **[[s/_submissive|Submissive]] to [[c/_correction|correction]]**
 - **[[d/_deserving|Deserving]] [[c/_chastisement|chastisement]].**
 - **[[h/_having|Having]] [[p/_power|power]] to [[c/_correct|correct]].**
 ---

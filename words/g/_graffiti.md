@@ -7,6 +7,6 @@
 ### Synonyms
 - [[e/_epigraphy|epigraphy]]
 #verb
-- **To [[m/_mark|mark]] a surface with such [[i/_images|images]].**
+- **To [[m/_mark|mark]] a surface with [[s/_such|such]] [[i/_images|images]].**
 ---
 ---

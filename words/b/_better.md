@@ -1,7 +1,7 @@
 # Better
 ---
 #noun
-- **An [[e/_entity|entity]], usually [[a/_animate|animate]], [[d/_deemed|deemed]] superior to [[a/_another|another]]; [[o/_one|one]] who [[h/_has|has]] a [[c/_claim|claim]] to [[p/_precedence|precedence]]; a superior.**
+- **An [[e/_entity|entity]], usually [[a/_animate|animate]], [[d/_deemed|deemed]] [[s/_superior|superior]] to [[a/_another|another]]; [[o/_one|one]] who [[h/_has|has]] a [[c/_claim|claim]] to [[p/_precedence|precedence]]; a [[s/_superior|superior]].**
 	- _Example: He quickly found Ali his better in the ring._
 ---
 #adjective

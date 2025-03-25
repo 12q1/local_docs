@@ -23,7 +23,7 @@
 - **[[e/_exactly|Exactly]] [[i/_identical|identical]], [[h/_having|having]] the [[s/_same|same]] value.**
 	- _Example: All right angles are equal._
 - **[[f/_fair|Fair]], [[i/_impartial|impartial]].**
-- **[[a/_adequate|Adequate]]; sufficiently [[c/_capable|capable]] or [[q/_qualified|qualified]].**
+- **[[a/_adequate|Adequate]]; [[s/_sufficiently|sufficiently]] [[c/_capable|capable]] or [[q/_qualified|qualified]].**
 	- _Example: This test is pretty tough, but I think I'm equal to it._
 - **Not variable; [[e/_equable|equable]]; uniform; [[e/_even|even]].**
 	- _Example: an equal movement_

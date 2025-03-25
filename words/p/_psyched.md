@@ -8,7 +8,7 @@
 #adjective
 - **Thrilled.**
 - **[[f/_frightened|Frightened]].**
-- **[[e/_excited|Excited]] for a [[p/_particular|particular]] subject or [[i/_interest|interest]].**
+- **[[e/_excited|Excited]] for a [[p/_particular|particular]] [[s/_subject|subject]] or [[i/_interest|interest]].**
 	- _Example: She's psyched about the trip._
 ---
 ---

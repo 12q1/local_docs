@@ -1,7 +1,7 @@
 # Springing
 ---
 #verb
-- **To weaken, as a [[j/_joint|joint]], [[l/_ligament|ligament]], or [[m/_muscle|muscle]], by sudden and [[e/_excessive|excessive]] [[e/_exertion|exertion]], as by wrenching; to [[o/_overstrain|overstrain]], or [[s/_stretch|stretch]] [[i/_injuriously|injuriously]], but without [[l/_luxation|luxation]]**
+- **To weaken, as a [[j/_joint|joint]], [[l/_ligament|ligament]], or [[m/_muscle|muscle]], by [[s/_sudden|sudden]] and [[e/_excessive|excessive]] [[e/_exertion|exertion]], as by wrenching; to [[o/_overstrain|overstrain]], or [[s/_stretch|stretch]] [[i/_injuriously|injuriously]], but without [[l/_luxation|luxation]]**
 	- _Example: to sprain one's ankle_
 ---
 #verb
@@ -9,7 +9,7 @@
 - **(of [[b/_beards|beards]]) To [[g/_grow|grow]].**
 - **To [[c/_cause|cause]] to [[b/_burst|burst]] [[f/_forth|forth]].**
 - **To [[m/_make|make]] wet, to [[m/_moisten|moisten]].**
-- **(usually with "to" or "up") To [[r/_rise|rise]] suddenly, (of tears) to well up.**
+- **(usually with "to" or "up") To [[r/_rise|rise]] [[s/_suddenly|suddenly]], (of tears) to well up.**
 	- _Example: The documentary made tears spring to their eyes._
 - **([[n/_now|now]] usually with "[[a/_apart|apart]]" or "[[o/_open|open]]") To [[b/_burst|burst]] [[i/_into|into]] [[p/_pieces|pieces]], to [[e/_explode|explode]], to [[s/_shatter|shatter]].**
 - **To [[g/_go|go]] [[o/_off|off]].**
@@ -17,7 +17,7 @@
 - **(usually [[p/_perfective|perfective]]) To [[c/_crack|crack]].**
 - **To [[h/_have|have]] [[s/_something|something]] [[c/_crack|crack]].**
 - **To [[c/_cause|cause]] to [[c/_crack|crack]].**
-- **To surprise by sudden or [[d/_deft|deft]] [[a/_action|action]].**
+- **To surprise by [[s/_sudden|sudden]] or [[d/_deft|deft]] [[a/_action|action]].**
 - **(of [[a/_arches|arches]]) To [[b/_build|build]], to [[f/_form|form]] the [[i/_initial|initial]] [[c/_curve|curve]] of.**
 	- _Example: They sprung an arch over the lintel._
 - **(of [[a/_arches|arches]], with "from") To [[e/_extend|extend]], to [[c/_curve|curve]].**
@@ -25,7 +25,7 @@
 - **To turn a vessel using a [[s/_spring|spring]] [[a/_attached|attached]] to [[i/_its|its]] [[a/_anchor|anchor]] [[c/_cable|cable]].**
 - **To [[r/_raise|raise]] a vessel'[[s/_s|s]] [[s/_sheer|sheer]].**
 - **([[c/_cobblery|cobblery]]) To [[r/_raise|raise]] a [[l/_last|last]]'[[s/_s|s]] toe.**
-- **To [[p/_pay|pay]] or [[s/_spend|spend]] a [[c/_certain|certain]] sum, to [[c/_cough|cough]] up.**
+- **To [[p/_pay|pay]] or [[s/_spend|spend]] a [[c/_certain|certain]] [[s/_sum|sum]], to [[c/_cough|cough]] up.**
 - **To [[r/_raise|raise]] an [[o/_offered|offered]] [[p/_price|price]].**
 - **To [[a/_act|act]] as a [[s/_spring|spring]]: to [[s/_strongly|strongly]] [[r/_rebound|rebound]].**
 - **To [[e/_equip|equip]] with [[s/_springs|springs]], [[e/_especially|especially]] (of vehicles) to [[e/_equip|equip]] with a suspension.**

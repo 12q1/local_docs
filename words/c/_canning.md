@@ -15,6 +15,6 @@
 ---
 #noun
 - **The [[p/_process|process]] of [[p/_preserving|preserving]] [[f/_food|food]] by [[h/_heat|heat]] [[p/_processing|processing]] in a [[s/_sealed|sealed]] vessel (a [[s/_sealed|sealed]] [[j/_jar|jar]] or [[c/_can|can]]).**
-- **The [[p/_practice|practice]] of [[c/_collecting|collecting]] [[a/_aluminum|aluminum]] [[c/_cans|cans]] or [[o/_other|other]] [[r/_recyclable|recyclable]] [[o/_objects|objects]]; [[m/_making|making]] [[m/_money|money]] by [[c/_collecting|collecting]] and [[s/_selling|selling]] such things.**
+- **The [[p/_practice|practice]] of [[c/_collecting|collecting]] [[a/_aluminum|aluminum]] [[c/_cans|cans]] or [[o/_other|other]] [[r/_recyclable|recyclable]] [[o/_objects|objects]]; [[m/_making|making]] [[m/_money|money]] by [[c/_collecting|collecting]] and [[s/_selling|selling]] [[s/_such|such]] things.**
 ---
 ---

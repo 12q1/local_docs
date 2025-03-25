@@ -1,7 +1,7 @@
 # Prosperous
 ---
 #adjective
-- **[[c/_characterized|Characterized]] by success**
+- **[[c/_characterized|Characterized]] by [[s/_success|success]]**
 	- _Example: Trading Babe Ruth was far more prosperous for the Yankees than for the Red Sox._
 - **Well [[o/_off|off]]; [[a/_affluent|affluent]]**
 	- _Example: He was raised in a very prosperous household._

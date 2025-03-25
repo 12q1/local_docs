@@ -3,7 +3,7 @@
 #noun
 - **The [[f/_forces|forces]] or [[b/_behaviours|behaviours]] that are the [[e/_enemy|enemy]] of [[e/_evil|evil]]. Usually [[c/_consists|consists]] of [[h/_helping|helping]] [[o/_others|others]] and [[g/_general|general]] [[b/_benevolence|benevolence]].**
 - **A [[r/_result|result]] that is [[p/_positive|positive]] in the view of the [[s/_speaker|speaker]].**
-- **The [[a/_abstract|abstract]] [[i/_instantiation|instantiation]] of [[g/_goodness|goodness]]; that which [[p/_possesses|possesses]] [[d/_desirable|desirable]] [[q/_qualities|qualities]], [[p/_promotes|promotes]] success, welfare, or [[h/_happiness|happiness]], is [[s/_serviceable|serviceable]], [[f/_fit|fit]], [[e/_excellent|excellent]], [[k/_kind|kind]], [[b/_benevolent|benevolent]], [[e/_etc|etc]].**
+- **The [[a/_abstract|abstract]] [[i/_instantiation|instantiation]] of [[g/_goodness|goodness]]; that which [[p/_possesses|possesses]] [[d/_desirable|desirable]] [[q/_qualities|qualities]], [[p/_promotes|promotes]] [[s/_success|success]], welfare, or [[h/_happiness|happiness]], is [[s/_serviceable|serviceable]], [[f/_fit|fit]], [[e/_excellent|excellent]], [[k/_kind|kind]], [[b/_benevolent|benevolent]], [[e/_etc|etc]].**
 	- _Example: The best is the enemy of the good._
 - **(usually in the [[p/_plural|plural]]) An [[i/_item|item]] of [[m/_merchandise|merchandise]].**
 ---

@@ -4,7 +4,7 @@
 - **A [[y/_young|young]] [[s/_sexually|sexually]] [[a/_attractive|attractive]] woman.**
 ---
 #adjective
-- **Of an [[a/_age|age]] suitable for [[m/_marriage|marriage]]; [[m/_marriageable|marriageable]] ([[p/_principally|principally]] of a [[y/_young|young]] woman).**
+- **Of an [[a/_age|age]] [[s/_suitable|suitable]] for [[m/_marriage|marriage]]; [[m/_marriageable|marriageable]] ([[p/_principally|principally]] of a [[y/_young|young]] woman).**
 - **[[s/_sexually|Sexually]] [[a/_attractive|attractive]] ([[e/_especially|especially]] of a [[y/_young|young]] woman).**
 ---
 ### Synonyms

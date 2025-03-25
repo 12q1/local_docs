@@ -8,7 +8,7 @@
 - **To [[g/_give|give]] as [[r/_required|required]]; to surrender, [[r/_relinquish|relinquish]] or [[c/_capitulate|capitulate]].**
 	- _Example: They refuse to yield to the enemy._
 - **To [[g/_give|give]], or [[g/_give|give]] [[f/_forth|forth]], ([[a/_anything|anything]]).**
-- **To [[g/_give|give]] way; to succumb to a [[f/_force|force]].**
+- **To [[g/_give|give]] way; to [[s/_succumb|succumb]] to a [[f/_force|force]].**
 - **To [[p/_produce|produce]] as [[r/_return|return]], as from an [[i/_investment|investment]].**
 	- _Example: Historically, that security yields a high return._
 - **To [[p/_produce|produce]] as a [[r/_result|result]].**

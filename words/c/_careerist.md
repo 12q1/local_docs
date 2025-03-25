@@ -5,6 +5,6 @@
 - **A [[p/_person|person]] who takes a [[j/_job|job]], [[e/_especially|especially]] in the [[m/_military|military]], for a [[l/_long|long]] time [[r/_rather|rather]] than temporarily.**
 ---
 #adjective
-- **Of or [[p/_pertaining|pertaining]] to such a [[p/_person|person]] or way of [[l/_life|life]]**
+- **Of or [[p/_pertaining|pertaining]] to [[s/_such|such]] a [[p/_person|person]] or way of [[l/_life|life]]**
 ---
 ---

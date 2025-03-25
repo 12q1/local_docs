@@ -9,7 +9,7 @@
 	- _Example: The assignment the department gave him proved to be quite challenging._
 - **A [[p/_position|position]] to which [[s/_someone|someone]] is [[a/_assigned|assigned]].**
 	- _Example: Unbeknownst to Mr Smith, his new assignment was in fact a demotion._
-- **A task [[g/_given|given]] to [[s/_students|students]], such as [[h/_homework|homework]] or coursework.**
+- **A task [[g/_given|given]] to [[s/_students|students]], [[s/_such|such]] as [[h/_homework|homework]] or coursework.**
 	- _Example: Mrs Smith gave out our assignments, and said we had to finish them by Monday._
 - **A transfer of a [[r/_right|right]] or [[b/_benefit|benefit]] from [[o/_one|one]] [[p/_person|person]] to [[a/_another|another]].**
 	- _Example: The assignment of the lease has not been finalised yet._

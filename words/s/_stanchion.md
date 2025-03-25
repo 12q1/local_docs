@@ -2,7 +2,7 @@
 ---
 #noun
 - **A vertical [[p/_pole|pole]], [[p/_post|post]], or support.**
-- **A [[f/_framework|framework]] of such [[p/_posts|posts]], used to [[s/_secure|secure]] or [[c/_confine|confine]] [[c/_cattle|cattle]].**
+- **A [[f/_framework|framework]] of [[s/_such|such]] [[p/_posts|posts]], used to [[s/_secure|secure]] or [[c/_confine|confine]] [[c/_cattle|cattle]].**
 ---
 #verb
 - **To [[e/_erect|erect]] [[s/_stanchions|stanchions]], or [[e/_equip|equip]] [[s/_something|something]] with [[s/_stanchions|stanchions]].**

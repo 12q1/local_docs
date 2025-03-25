@@ -40,7 +40,7 @@
 	- _Example: a soft liniment_
 - **Not [[h/_harsh|harsh]] or [[o/_offensive|offensive]] to the [[s/_sight|sight]]; not [[g/_glaring|glaring]] or [[j/_jagged|jagged]]; [[p/_pleasing|pleasing]] to the [[e/_eye|eye]].**
 	- _Example: soft colours_
-- **(of [[l/_light|light]]) [[m/_made|Made]] up of [[n/_nonparallel|nonparallel]] [[r/_rays|rays]], tending to wrap [[a/_around|around]] a subject and [[p/_produce|produce]] [[d/_diffuse|diffuse]] [[s/_shadows|shadows]].**
+- **(of [[l/_light|light]]) [[m/_made|Made]] up of [[n/_nonparallel|nonparallel]] [[r/_rays|rays]], tending to wrap [[a/_around|around]] a [[s/_subject|subject]] and [[p/_produce|produce]] [[d/_diffuse|diffuse]] [[s/_shadows|shadows]].**
 - **[[e/_emulated|Emulated]] with [[s/_software|software]]; not [[p/_physically|physically]] [[r/_real|real]].**
 	- _Example: Press the red button on the soft phone to hang up._
 ---

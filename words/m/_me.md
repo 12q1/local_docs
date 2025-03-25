@@ -11,9 +11,9 @@
 - **[[m/_myself|Myself]]; as a [[r/_reflexive|reflexive]] [[i/_indirect|indirect]] [[o/_object|object]] of a verb; the [[e/_ethical|ethical]] [[d/_dative|dative]].**
 - **As the [[c/_complement|complement]] of the [[c/_copula|copula]] (be or is).**
 	- _Example: It wasn't me._
-- **(with and) As the subject of a verb.**
+- **(with and) As the [[s/_subject|subject]] of a verb.**
 	- _Example: Me and my friends played a game._
-- **(not with and) As the subject of a verb.**
+- **(not with and) As the [[s/_subject|subject]] of a verb.**
 ---
 ### Synonyms
 - [[I/_I|I]], [[u/_us|us]], [[m/_mine|mine]], [[m/_my|my]], [[I/_I|I]]

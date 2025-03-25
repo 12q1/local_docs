@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[d/_defined|defined]], [[n/_narrow|narrow]] [[s/_section|section]] of [[l/_land|land]] or an [[a/_artificial|artificial]] [[s/_structure|structure]] used for [[a/_access|access]].**
-- **The usual [[p/_path|path]] taken by [[d/_deer|deer]] or [[o/_other|other]] wild [[a/_animals|animals]], such as from a [[f/_forest|forest]] to a water [[s/_source|source]].**
+- **The usual [[p/_path|path]] taken by [[d/_deer|deer]] or [[o/_other|other]] wild [[a/_animals|animals]], [[s/_such|such]] as from a [[f/_forest|forest]] to a water [[s/_source|source]].**
 - **A [[n/_narrow|narrow]] walkway ([[o/_often|often]] on a [[p/_platform|platform]]) [[e/_extending|extending]] from a [[s/_stage|stage]] on which [[p/_people|people]] walk, [[e/_especially|especially]] [[o/_one|one]] used by [[m/_models|models]] [[d/_during|during]] [[f/_fashion|fashion]] [[s/_shows|shows]].**
 - **In [[j/_javelin|javelin]], [[l/_long|long]] [[j/_jump|jump]], and [[s/_similar|similar]] [[e/_events|events]]: a [[s/_short|short]] track [[a/_along|along]] which [[a/_athletes|athletes]] [[c/_can|can]] [[a/_accelerate|accelerate]] themselves for their [[j/_jumps|jumps]] or throws.**
 - **A [[s/_section|section]] of [[l/_land|land]], usually [[p/_paved|paved]], for [[a/_airplanes|airplanes]] to [[l/_land|land]] on or take [[o/_off|off]] from.**

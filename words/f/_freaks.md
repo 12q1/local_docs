@@ -1,7 +1,7 @@
 # Freaks
 ---
 #noun
-- **A sudden [[c/_change|change]] of [[m/_mind|mind]]**
+- **A [[s/_sudden|sudden]] [[c/_change|change]] of [[m/_mind|mind]]**
 - **[[s/_someone|Someone]] or [[s/_something|something]] that is [[m/_markedly|markedly]] unusual or unpredictable.**
 	- _Example: a freak genius_
 - **A [[h/_hippie|hippie]].**

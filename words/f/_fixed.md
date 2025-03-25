@@ -12,14 +12,14 @@
 	- _Example: A majority of voters believed the election was fixed in favor of the incumbent._
 - **To surgically [[r/_render|render]] an [[a/_animal|animal]], [[e/_especially|especially]] a [[p/_pet|pet]], [[i/_infertile|infertile]].**
 	- _Example: Rover stopped digging under the fence after we had the vet fix him._
-- **(sematics) To [[m/_map|map]] a ([[p/_point|point]] or subset) to [[i/_itself|itself]].**
+- **(sematics) To [[m/_map|map]] a ([[p/_point|point]] or [[s/_subset|subset]]) to [[i/_itself|itself]].**
 - **To take [[r/_revenge|revenge]] on, to [[b/_best|best]]; to [[s/_serve|serve]] [[j/_justice|justice]] on an [[a/_assumed|assumed]] [[m/_miscreant|miscreant]].**
 	- _Example: He got caught breaking into lockers, so a couple of guys fixed him after work._
-- **To [[r/_render|render]] (a [[p/_photographic|photographic]] [[i/_impression|impression]]) [[p/_permanent|permanent]] by treating with such [[a/_applications|applications]] as will [[m/_make|make]] it [[i/_insensitive|insensitive]] to the [[a/_action|action]] of [[l/_light|light]].**
+- **To [[r/_render|render]] (a [[p/_photographic|photographic]] [[i/_impression|impression]]) [[p/_permanent|permanent]] by treating with [[s/_such|such]] [[a/_applications|applications]] as will [[m/_make|make]] it [[i/_insensitive|insensitive]] to the [[a/_action|action]] of [[l/_light|light]].**
 - **To [[c/_convert|convert]] [[i/_into|into]] a [[s/_stable|stable]] or [[a/_available|available]] [[f/_form|form]].**
 	- _Example: Legumes are valued in crop rotation for their ability to fix nitrogen._
 - **To [[b/_become|become]] [[f/_fixed|fixed]]; to [[s/_settle|settle]] or [[r/_remain|remain]] [[p/_permanently|permanently]]; to [[c/_cease|cease]] from wandering; to [[r/_rest|rest]].**
-- **To [[b/_become|become]] [[f/_firm|firm]], [[s/_so|so]] as to [[r/_resist|resist]] volatilization; to [[c/_cease|cease]] to [[f/_flow|flow]] or be [[f/_fluid|fluid]]; to [[c/_congeal|congeal]]; to [[b/_become|become]] [[h/_hard|hard]] and [[m/_malleable|malleable]], as a [[m/_metallic|metallic]] substance.**
+- **To [[b/_become|become]] [[f/_firm|firm]], [[s/_so|so]] as to [[r/_resist|resist]] volatilization; to [[c/_cease|cease]] to [[f/_flow|flow]] or be [[f/_fluid|fluid]]; to [[c/_congeal|congeal]]; to [[b/_become|become]] [[h/_hard|hard]] and [[m/_malleable|malleable]], as a [[m/_metallic|metallic]] [[s/_substance|substance]].**
 ---
 ### Synonyms
 - [[j/_join|join]], [[u/_unite|unite]], [[d/_doctor|doctor]], [[r/_rig|rig]], [[p/_patch|patch]], [[r/_rectify|rectify]], [[i/_impale|impale]], [[s/_stick|stick]], [[c/_castrate|castrate]], [[d/_desex|desex]], [[n/_neuter|neuter]], [[s/_spay|spay]], [[e/_establish|establish]]

@@ -9,7 +9,7 @@
 	- _Example: Early results showed their winning 245 out of 300 seats in parliament. The main opponent locked up only 31 seats._
 - **[[h/_having|Having]] [[b/_begun|begun]] to [[o/_occur|occur]]; in [[i/_its|its]] [[e/_early|early]] [[s/_stages|stages]].**
 	- _Example: early cancer_
-- **Of a [[s/_star|star]] or [[c/_class|class]] of [[s/_stars|stars]], [[h/_hotter|hotter]] than the sun.**
+- **Of a [[s/_star|star]] or [[c/_class|class]] of [[s/_stars|stars]], [[h/_hotter|hotter]] than the [[s/_sun|sun]].**
 ---
 ### Synonyms
 - [[f/_first|first]], [[p/_premature|premature]]

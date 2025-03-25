@@ -8,6 +8,6 @@
 - **To [[a/_agree|agree]]; to [[h/_harmonize|harmonize]].**
 ---
 #verb
-- **To suit or [[f/_fit|fit]]**
+- **To [[s/_suit|suit]] or [[f/_fit|fit]]**
 ---
 ---

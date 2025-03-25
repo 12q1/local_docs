@@ -3,7 +3,7 @@
 #noun
 - **A [[s/_slashing|slashing]] [[a/_action|action]] or [[m/_motion|motion]], [[p/_particularly|particularly]]:**
 - **A [[m/_mark|mark]] [[m/_made|made]] by a [[s/_slashing|slashing]] [[m/_motion|motion]], [[p/_particularly|particularly]]:**
-- **[[s/_something|Something]] [[r/_resembling|resembling]] such a [[m/_mark|mark]], [[p/_particularly|particularly]]:**
+- **[[s/_something|Something]] [[r/_resembling|resembling]] [[s/_such|such]] a [[m/_mark|mark]], [[p/_particularly|particularly]]:**
 - **The [[l/_loose|loose]] woody [[d/_debris|debris]] [[r/_remaining|remaining]] from a [[s/_slash|slash]], ([[p/_particularly|particularly]] [[f/_forestry|forestry]]) the trimmings [[l/_left|left]] while [[p/_preparing|preparing]] [[f/_felled|felled]] trees for [[r/_removal|removal]].**
 	- _Example: Slash generated during logging may constitute a fire hazard._
 - **[[s/_slash|Slash]] [[f/_fiction|fiction]].**
@@ -18,7 +18,7 @@
 ---
 #noun
 - **A swampy [[a/_area|area]]; a swamp.**
-- **A [[l/_large|large]] [[q/_quantity|quantity]] of watery [[f/_food|food]] such as [[b/_broth|broth]].**
+- **A [[l/_large|large]] [[q/_quantity|quantity]] of watery [[f/_food|food]] [[s/_such|such]] as [[b/_broth|broth]].**
 ---
 #noun
 - **The [[p/_period|period]] of a transitory [[b/_breeze|breeze]].**
@@ -31,7 +31,7 @@
 - **A [[m/_medieval|medieval]] [[f/_french|French]] weight, 1/20 of the [[c/_carolingian|Carolingian]] [[p/_pound|pound]].**
 - **The [[f/_formal|formal]] [[n/_name|name]] of the [[o/_oblique|oblique]] strikethrough [[o/_overlay|overlay]] (as in A̷ and [[b/_b|B]]̸) in Unicode.**
 - **The [[d/_division|division]] [[l/_line|line]] [[b/_between|between]] the [[n/_numerator|numerator]] and the [[d/_denominator|denominator]] of a [[f/_fraction|fraction]], whether [[h/_horizontal|horizontal]] or [[o/_oblique|oblique]].**
-- **The [[l/_line|line]] in a [[p/_phase|phase]] [[d/_diagram|diagram]] [[m/_marking|marking]] the temperatures and [[p/_pressures|pressures]] [[b/_below|below]] which a [[g/_given|given]] substance is a [[s/_stable|stable]] [[s/_solid|solid]].**
+- **The [[l/_line|line]] in a [[p/_phase|phase]] [[d/_diagram|diagram]] [[m/_marking|marking]] the temperatures and [[p/_pressures|pressures]] [[b/_below|below]] which a [[g/_given|given]] [[s/_substance|substance]] is a [[s/_stable|stable]] [[s/_solid|solid]].**
 ---
 ### Synonyms
 - [[b/_bezant|bezant]], [[n/_nomisma|nomisma]], [[b/_bezant|bezant]], [[h/_hyperpyron|hyperpyron]], [[n/_nomisma|nomisma]], [[s/_slash|slash]], [[s/_strikethrough|strikethrough]]

@@ -1,6 +1,6 @@
 # Grubstaking
 ---
 #verb
-- **To supply such [[f/_funds|funds]] to.**
+- **To supply [[s/_such|such]] [[f/_funds|funds]] to.**
 ---
 ---

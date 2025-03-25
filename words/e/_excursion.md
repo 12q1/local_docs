@@ -3,7 +3,7 @@
 #noun
 - **A [[b/_brief|brief]] [[r/_recreational|recreational]] trip; a [[j/_journey|journey]] [[o/_out|out]] of the usual way.**
 	- _Example: While driving home I took an excursion and saw some deer._
-- **A wandering from the [[m/_main|main]] subject: a [[d/_digression|digression]].**
+- **A wandering from the [[m/_main|main]] [[s/_subject|subject]]: a [[d/_digression|digression]].**
 - **A [[d/_deviation|deviation]] in [[p/_pitch|pitch]], for [[e/_example|example]] in the [[s/_syllables|syllables]] of [[e/_enthusiastic|enthusiastic]] [[s/_speech|speech]].**
 ---
 ### Synonyms

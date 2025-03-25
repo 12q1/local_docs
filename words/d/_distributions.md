@@ -11,15 +11,15 @@
 - **The [[f/_frequency|frequency]] of [[o/_occurrence|occurrence]] or [[e/_extent|extent]] of [[e/_existence|existence]].**
 - **The [[a/_apportionment|apportionment]] of [[i/_income|income]] or wealth in a [[p/_population|population]].**
 	- _Example: The wealth distribution became extremely skewed in the kleptocracy._
-- **The way in which a [[p/_player|player]]'[[s/_s|s]] [[h/_hand|hand]] is [[d/_divided|divided]] in suits, or in which a [[p/_particular|particular]] suit is [[d/_divided|divided]] [[b/_between|between]] the [[p/_players|players]].**
+- **The way in which a [[p/_player|player]]'[[s/_s|s]] [[h/_hand|hand]] is [[d/_divided|divided]] in [[s/_suits|suits]], or in which a [[p/_particular|particular]] [[s/_suit|suit]] is [[d/_divided|divided]] [[b/_between|between]] the [[p/_players|players]].**
 	- _Example: The declarer had 3-6-2-2 distribution._
 - **A [[p/_probability|probability]] [[d/_distribution|distribution]]; the [[s/_set|set]] of [[r/_relative|relative]] [[l/_likelihoods|likelihoods]] that a variable will [[h/_have|have]] a value in a [[g/_given|given]] [[i/_interval|interval]].**
-- **A subset of the tangent [[b/_bundle|bundle]] of a [[m/_manifold|manifold]] that [[s/_satisfies|satisfies]] [[c/_certain|certain]] [[p/_properties|properties]]; used to [[c/_construct|construct]] the [[n/_notions|notions]] of [[i/_integrability|integrability]] and [[f/_foliation|foliation]] of a [[m/_manifold|manifold]].**
+- **A [[s/_subset|subset]] of the tangent [[b/_bundle|bundle]] of a [[m/_manifold|manifold]] that [[s/_satisfies|satisfies]] [[c/_certain|certain]] [[p/_properties|properties]]; used to [[c/_construct|construct]] the [[n/_notions|notions]] of [[i/_integrability|integrability]] and [[f/_foliation|foliation]] of a [[m/_manifold|manifold]].**
 - **A [[s/_set|set]] of [[b/_bundled|bundled]] [[s/_software|software]] [[c/_components|components]]; distro.**
 - **The [[p/_process|process]] or [[r/_result|result]] of the [[s/_sale|sale]] of [[s/_securities|securities]], [[e/_especially|especially]] their [[p/_placement|placement]] [[a/_among|among]] [[i/_investors|investors]] with [[l/_long|long]]-term [[i/_investment|investment]] [[s/_strategies|strategies]].**
 - **The [[r/_resolution|resolution]] of a whole [[i/_into|into]] [[i/_its|its]] [[p/_parts|parts]].**
 - **The [[p/_process|process]] of [[s/_sorting|sorting]] the types and [[p/_placing|placing]] them in their [[p/_proper|proper]] [[b/_boxes|boxes]] in the [[c/_cases|cases]].**
 - **([[s/_steam|steam]] [[e/_engines|engines]]) The [[s/_steps|steps]] or [[o/_operations|operations]] by which [[s/_steam|steam]] is supplied to and withdrawn from the [[c/_cylinder|cylinder]] at [[e/_each|each]] [[s/_stroke|stroke]] of the [[p/_piston|piston]]: [[a/_admission|admission]], suppression or [[c/_cutting|cutting]] [[o/_off|off]], [[r/_release|release]] or [[e/_exhaust|exhaust]], and [[c/_compression|compression]] of [[e/_exhaust|exhaust]] [[s/_steam|steam]] [[p/_prior|prior]] to the [[n/_next|next]] [[a/_admission|admission]].**
-- **A [[r/_rhetorical|rhetorical]] technique in which a subject is [[d/_divided|divided]] [[i/_into|into]] [[m/_multiple|multiple]] [[c/_cases|cases]] [[b/_based|based]] on [[s/_some|some]] [[p/_property|property]] or [[p/_properties|properties]], and [[e/_each|each]] [[c/_case|case]] is [[a/_addressed|addressed]] [[i/_individually|individually]].**
+- **A [[r/_rhetorical|rhetorical]] technique in which a [[s/_subject|subject]] is [[d/_divided|divided]] [[i/_into|into]] [[m/_multiple|multiple]] [[c/_cases|cases]] [[b/_based|based]] on [[s/_some|some]] [[p/_property|property]] or [[p/_properties|properties]], and [[e/_each|each]] [[c/_case|case]] is [[a/_addressed|addressed]] [[i/_individually|individually]].**
 ---
 ---

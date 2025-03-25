@@ -6,7 +6,7 @@
 - **[[c/_consecutive|Consecutive]] [[i/_interpretation|interpretation]].**
 ---
 #adjective
-- **[[f/_following|Following]], in succession, without [[i/_interruption|interruption]]**
+- **[[f/_following|Following]], in [[s/_succession|succession]], without [[i/_interruption|interruption]]**
 - **[[h/_having|Having]] [[s/_some|some]] [[l/_logical|logical]] [[s/_sequence|sequence]]**
 ---
 ### Antonyms

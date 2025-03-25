@@ -9,7 +9,7 @@
 #adjective
 - **[[e/_expending|Expending]] or [[b/_bestowing|bestowing]] [[p/_profusely|profusely]]; [[p/_profuse|profuse]]; [[p/_prodigal|prodigal]].**
 	- _Example: lavish of money;   lavish of praise_
-- **Superabundant; [[e/_excessive|excessive]]**
+- **[[s/_superabundant|Superabundant]]; [[e/_excessive|excessive]]**
 	- _Example: lavish meal_
 ---
 ### Synonyms

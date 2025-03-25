@@ -9,6 +9,6 @@
 #verb
 - **To [[s/_sacrifice|sacrifice]] and [[b/_burn|burn]] (an [[a/_animal|animal]]) [[c/_completely|completely]].**
 - **To [[d/_destroy|destroy]] [[c/_completely|completely]], [[e/_especially|especially]] by [[f/_fire|fire]].**
-- **([[p/_possibly|possibly]] [[n/_nonstandard|nonstandard]]) To subject to a [[h/_holocaust|holocaust]] ([[m/_mass|mass]] [[a/_annihilation|annihilation]]); to [[d/_destroy|destroy]] [[e/_en|en]] [[m/_masse|masse]]. ([[c/_compare|Compare]] [[g/_genocide|genocide]].)**
+- **([[p/_possibly|possibly]] [[n/_nonstandard|nonstandard]]) To [[s/_subject|subject]] to a [[h/_holocaust|holocaust]] ([[m/_mass|mass]] [[a/_annihilation|annihilation]]); to [[d/_destroy|destroy]] [[e/_en|en]] [[m/_masse|masse]]. ([[c/_compare|Compare]] [[g/_genocide|genocide]].)**
 ---
 ---

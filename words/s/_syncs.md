@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[h/_harmony|Harmony]].**
-- **A [[m/_music|music]] [[s/_synchronization|synchronization]] [[l/_license|license]], [[a/_allowing|allowing]] the [[m/_music|music]] to be [[s/_synchronized|synchronized]] with visual [[m/_media|media]] such as [[f/_films|films]].**
+- **A [[m/_music|music]] [[s/_synchronization|synchronization]] [[l/_license|license]], [[a/_allowing|allowing]] the [[m/_music|music]] to be [[s/_synchronized|synchronized]] with visual [[m/_media|media]] [[s/_such|such]] as [[f/_films|films]].**
 ---
 #verb
 - **To [[s/_synchronize|synchronize]], [[e/_especially|especially]] in the [[s/_senses|senses]] of [[d/_data|data]] [[s/_synchronization|synchronization]], time [[s/_synchronization|synchronization]], or [[s/_synchronizing|synchronizing]] [[m/_music|music]] with video.**

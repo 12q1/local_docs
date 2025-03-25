@@ -32,7 +32,7 @@
 - **[[f/_farther|Farther]] [[n/_north|north]] than.**
 	- _Example: Idaho is above Utah._
 - **[[r/_rising|Rising]]; [[a/_appearing|appearing]] [[o/_out|out]] of [[r/_reach|reach]] [[h/_height|height]]-wise.**
-- **[[h/_higher|Higher]] than; superior to in [[a/_any|any]] [[r/_respect|respect]]; surpassing; [[h/_higher|higher]] in [[m/_measure|measure]], [[d/_degree|degree]], volume, or [[p/_pitch|pitch]], [[e/_etc|etc]]. than; [[o/_out|out]] of [[r/_reach|reach]]; not [[e/_exposed|exposed]] to; not [[l/_likely|likely]] to be [[a/_affected|affected]] by; [[i/_incapable|incapable]] of [[n/_negative|negative]] [[a/_actions|actions]] or thoughts.**
+- **[[h/_higher|Higher]] than; [[s/_superior|superior]] to in [[a/_any|any]] [[r/_respect|respect]]; surpassing; [[h/_higher|higher]] in [[m/_measure|measure]], [[d/_degree|degree]], volume, or [[p/_pitch|pitch]], [[e/_etc|etc]]. than; [[o/_out|out]] of [[r/_reach|reach]]; not [[e/_exposed|exposed]] to; not [[l/_likely|likely]] to be [[a/_affected|affected]] by; [[i/_incapable|incapable]] of [[n/_negative|negative]] [[a/_actions|actions]] or thoughts.**
 	- _Example: Even the chief of police is not above suspicion._
 - **[[h/_higher|Higher]] in [[r/_rank|rank]], [[s/_status|status]], or [[p/_position|position]].**
 	- _Example: to stand head and shoulders above the rest_

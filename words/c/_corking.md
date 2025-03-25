@@ -11,7 +11,7 @@
 - **To [[p/_position|position]] [[o/_one|one]]'[[s/_s|s]] [[d/_drift|drift]] [[n/_net|net]] [[j/_just|just]] [[o/_outside|outside]] of [[a/_another|another]] [[p/_person|person]]'[[s/_s|s]] [[n/_net|net]], thereby [[i/_intercepting|intercepting]] and [[c/_catching|catching]] [[a/_all|all]] the [[f/_fish|fish]] that would [[h/_have|have]] [[g/_gone|gone]] [[i/_into|into]] that [[p/_person|person]]'[[s/_s|s]] [[n/_net|net]].**
 ---
 #verb
-- **To [[p/_perform|perform]] such a [[m/_maneuver|maneuver]].**
+- **To [[p/_perform|perform]] [[s/_such|such]] a [[m/_maneuver|maneuver]].**
 ---
 #noun
 - **The [[f/_formation|formation]] of white, [[c/_cork|cork]]-[[l/_like|like]] [[s/_striations|striations]] on a jalapeñ[[o/_o|o]] [[p/_pepper|pepper]].**

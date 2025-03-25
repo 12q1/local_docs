@@ -5,6 +5,6 @@
 - **To [[i/_infect|infect]] with a [[d/_disease|disease]].**
 ---
 #adjective
-- **[[a/_affected|Affected]] with or suffering from [[d/_disease|disease]].**
+- **[[a/_affected|Affected]] with or [[s/_suffering|suffering]] from [[d/_disease|disease]].**
 ---
 ---

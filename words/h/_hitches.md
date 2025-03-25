@@ -1,7 +1,7 @@
 # Hitches
 ---
 #noun
-- **A sudden [[p/_pull|pull]].**
+- **A [[s/_sudden|sudden]] [[p/_pull|pull]].**
 - **[[a/_any|Any]] of various [[k/_knots|knots]] used to [[a/_attach|attach]] a [[r/_rope|rope]] to an [[o/_object|object]] [[o/_other|other]] than [[a/_another|another]] [[r/_rope|rope]].**
 - **A [[f/_fastener|fastener]] or [[c/_connection|connection]] [[p/_point|point]], as for a trailer.**
 	- _Example: His truck sported a heavy-duty hitch for his boat._

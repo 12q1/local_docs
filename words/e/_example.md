@@ -1,7 +1,7 @@
 # Example
 ---
 #noun
-- **[[s/_something|Something]] that is [[r/_representative|representative]] of [[a/_all|all]] such things in a [[g/_group|group]].**
+- **[[s/_something|Something]] that is [[r/_representative|representative]] of [[a/_all|all]] [[s/_such|such]] things in a [[g/_group|group]].**
 - **[[s/_something|Something]] that [[s/_serves|serves]] to [[i/_illustrate|illustrate]] or [[e/_explain|explain]] a [[r/_rule|rule]].**
 - **[[s/_something|Something]] that [[s/_serves|serves]] as a [[p/_pattern|pattern]] of [[b/_behaviour|behaviour]] to be [[i/_imitated|imitated]] (a [[g/_good|good]] [[e/_example|example]]) or not to be [[i/_imitated|imitated]] (a [[b/_bad|bad]] [[e/_example|example]]).**
 - **A [[p/_person|person]] [[p/_punished|punished]] as a warning to [[o/_others|others]].**

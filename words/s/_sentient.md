@@ -1,7 +1,7 @@
 # Sentient
 ---
 #noun
-- **Lifeform with the [[c/_capability|capability]] to [[f/_feel|feel]] [[s/_sensation|sensation]], such as [[p/_pain|pain]].**
+- **Lifeform with the [[c/_capability|capability]] to [[f/_feel|feel]] [[s/_sensation|sensation]], [[s/_such|such]] as [[p/_pain|pain]].**
 - **An [[i/_intelligent|intelligent]], [[s/_self|self]]-[[a/_aware|aware]] [[b/_being|being]].**
 ---
 #adjective

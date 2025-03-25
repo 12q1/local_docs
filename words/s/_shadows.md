@@ -5,7 +5,7 @@
 	- _Example: My shadow lengthened as the sun began to set._
 - **[[r/_relative|Relative]] [[d/_darkness|darkness]], [[e/_especially|especially]] as [[c/_caused|caused]] by the [[i/_interruption|interruption]] of [[l/_light|light]]; [[g/_gloom|gloom]], [[o/_obscurity|obscurity]].**
 	- _Example: I immediately jumped into shadow as I saw them approach._
-- **A [[a/_area|area]] [[p/_protected|protected]] by an [[o/_obstacle|obstacle]] ([[l/_likened|likened]] to an [[o/_object|object]] [[b/_blocking|blocking]] [[o/_out|out]] sunlight).**
+- **A [[a/_area|area]] [[p/_protected|protected]] by an [[o/_obstacle|obstacle]] ([[l/_likened|likened]] to an [[o/_object|object]] [[b/_blocking|blocking]] [[o/_out|out]] [[s/_sunlight|sunlight]]).**
 	- _Example: The mountains block the passage of rain-producing weather systems and cast a "shadow" of dryness behind them._
 - **A [[r/_reflected|reflected]] [[i/_image|image]], as in a [[m/_mirror|mirror]] or in water.**
 - **That which [[l/_looms|looms]] as though a [[s/_shadow|shadow]].**

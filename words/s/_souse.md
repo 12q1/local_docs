@@ -3,7 +3,7 @@
 #noun
 - **[[s/_something|Something]] [[k/_kept|kept]] or [[s/_steeped|steeped]] in [[b/_brine|brine]]**
 - **The [[a/_act|act]] of [[s/_sousing|sousing]]; a [[p/_plunging|plunging]] [[i/_into|into]] water.**
-- **A [[p/_person|person]] suffering from [[a/_alcoholism|alcoholism]].**
+- **A [[p/_person|person]] [[s/_suffering|suffering]] from [[a/_alcoholism|alcoholism]].**
 ---
 ### Synonyms
 - [[a/_alcoholic|alcoholic]], [[s/_sot|sot]], [[s/_suck-pint|suck-pint]]

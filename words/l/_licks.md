@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] of [[l/_licking|licking]]; a [[s/_stroke|stroke]] of the tongue.**
 	- _Example: The cat gave its fur a lick._
-- **The [[a/_amount|amount]] of [[s/_some|some]] substance [[o/_obtainable|obtainable]] with a [[s/_single|single]] [[l/_lick|lick]].**
+- **The [[a/_amount|amount]] of [[s/_some|some]] [[s/_substance|substance]] [[o/_obtainable|obtainable]] with a [[s/_single|single]] [[l/_lick|lick]].**
 	- _Example: Give me a lick of ice cream._
 - **A [[q/_quick|quick]] and [[c/_careless|careless]] [[a/_application|application]] of [[a/_anything|anything]], as [[i/_if|if]] by a [[s/_stroke|stroke]] of the tongue.**
 	- _Example: a lick of paint_

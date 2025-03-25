@@ -13,6 +13,6 @@
 - **To [[s/_strike|strike]] (the [[b/_ball|ball]]) very [[h/_hard|hard]].**
 ---
 #verb
-- **To [[i/_induce|induce]] [[p/_piezoelectricity|piezoelectricity]] in (a substance) by [[a/_aligning|aligning]] the [[d/_dipoles|dipoles]].**
+- **To [[i/_induce|induce]] [[p/_piezoelectricity|piezoelectricity]] in (a [[s/_substance|substance]]) by [[a/_aligning|aligning]] the [[d/_dipoles|dipoles]].**
 ---
 ---

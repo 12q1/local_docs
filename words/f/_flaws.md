@@ -8,9 +8,9 @@
 - **A [[d/_defect|defect]], [[f/_fault|fault]], or [[i/_imperfection|imperfection]], [[e/_especially|especially]] [[o/_one|one]] that is [[h/_hidden|hidden]].**
 ---
 #noun
-- **A sudden [[b/_burst|burst]] or [[g/_gust|gust]] of wind of [[s/_short|short]] [[d/_duration|duration]]; windflaw.**
+- **A [[s/_sudden|sudden]] [[b/_burst|burst]] or [[g/_gust|gust]] of wind of [[s/_short|short]] [[d/_duration|duration]]; windflaw.**
 - **A [[s/_storm|storm]] of [[s/_short|short]] [[d/_duration|duration]].**
-- **A sudden [[b/_burst|burst]] of [[n/_noise|noise]] and [[d/_disorder|disorder]]**
+- **A [[s/_sudden|sudden]] [[b/_burst|burst]] of [[n/_noise|noise]] and [[d/_disorder|disorder]]**
 ---
 ### Synonyms
 - [[q/_quarrel|quarrel]], [[t/_tumult|tumult]], [[u/_uproar|uproar]]

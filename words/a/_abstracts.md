@@ -1,12 +1,12 @@
 # Abstracts
 ---
 #noun
-- **An [[a/_abridgement|abridgement]] or summary of a [[l/_longer|longer]] [[p/_publication|publication]].**
+- **An [[a/_abridgement|abridgement]] or [[s/_summary|summary]] of a [[l/_longer|longer]] [[p/_publication|publication]].**
 - **[[s/_something|Something]] that [[c/_concentrates|concentrates]] in [[i/_itself|itself]] the [[q/_qualities|qualities]] of a [[l/_larger|larger]] [[i/_item|item]], or [[m/_multiple|multiple]] [[i/_items|items]].**
 - **An [[a/_abstraction|abstraction]]; an [[a/_abstract|abstract]] term; that which is [[a/_abstract|abstract]].**
 - **The theoretical way of [[l/_looking|looking]] at things; [[s/_something|something]] that [[e/_exists|exists]] [[o/_only|only]] in [[i/_idealized|idealized]] [[f/_form|form]].**
 - **An [[a/_abstract|abstract]] work of [[a/_art|art]].**
-- **A summary title of the [[k/_key|key]] [[p/_points|points]] [[d/_detailing|detailing]] a tract of [[l/_land|land]], for [[o/_ownership|ownership]]; [[a/_abstract|abstract]] of title.**
+- **A [[s/_summary|summary]] title of the [[k/_key|key]] [[p/_points|points]] [[d/_detailing|detailing]] a tract of [[l/_land|land]], for [[o/_ownership|ownership]]; [[a/_abstract|abstract]] of title.**
 ---
 ### Synonyms
 - [[a/_abridgment|abridgment]], [[c/_compendium|compendium]], [[e/_epitome|epitome]], [[s/_synopsis|synopsis]]
@@ -14,8 +14,8 @@
 - **To [[s/_separate|separate]]; to [[d/_disengage|disengage]].**
 - **To [[r/_remove|remove]]; to take [[a/_away|away]]; withdraw.**
 - **To [[s/_steal|steal]]; to take [[a/_away|away]]; to [[r/_remove|remove]] without [[p/_permission|permission]].**
-- **To summarize; to [[a/_abridge|abridge]]; to [[e/_epitomize|epitomize]].**
-- **To [[c/_conceptualize|conceptualize]] an [[i/_ideal|ideal]] subgroup by [[m/_means|means]] of the [[g/_generalization|generalization]] of an [[a/_attribute|attribute]], as [[f/_follows|follows]]: by [[a/_apprehending|apprehending]] an [[a/_attribute|attribute]] [[i/_inherent|inherent]] to [[o/_one|one]] [[i/_individual|individual]], then [[s/_separating|separating]] that [[a/_attribute|attribute]] and [[c/_contemplating|contemplating]] it by [[i/_itself|itself]], then [[c/_conceiving|conceiving]] of that [[a/_attribute|attribute]] as a [[g/_general|general]] [[q/_quality|quality]], then despecifying that [[c/_conceived|conceived]] [[q/_quality|quality]] with [[r/_respect|respect]] to [[s/_several|several]] or [[m/_many|many]] [[i/_individuals|individuals]], and by then [[i/_ideating|ideating]] a [[g/_group|group]] [[c/_composed|composed]] of those [[i/_individuals|individuals]] [[p/_perceived|perceived]] to [[p/_possess|possess]] [[s/_said|said]] [[q/_quality|quality]].**
+- **To [[s/_summarize|summarize]]; to [[a/_abridge|abridge]]; to [[e/_epitomize|epitomize]].**
+- **To [[c/_conceptualize|conceptualize]] an [[i/_ideal|ideal]] [[s/_subgroup|subgroup]] by [[m/_means|means]] of the [[g/_generalization|generalization]] of an [[a/_attribute|attribute]], as [[f/_follows|follows]]: by [[a/_apprehending|apprehending]] an [[a/_attribute|attribute]] [[i/_inherent|inherent]] to [[o/_one|one]] [[i/_individual|individual]], then [[s/_separating|separating]] that [[a/_attribute|attribute]] and [[c/_contemplating|contemplating]] it by [[i/_itself|itself]], then [[c/_conceiving|conceiving]] of that [[a/_attribute|attribute]] as a [[g/_general|general]] [[q/_quality|quality]], then despecifying that [[c/_conceived|conceived]] [[q/_quality|quality]] with [[r/_respect|respect]] to [[s/_several|several]] or [[m/_many|many]] [[i/_individuals|individuals]], and by then [[i/_ideating|ideating]] a [[g/_group|group]] [[c/_composed|composed]] of those [[i/_individuals|individuals]] [[p/_perceived|perceived]] to [[p/_possess|possess]] [[s/_said|said]] [[q/_quality|quality]].**
 - **To [[e/_extract|extract]] by [[m/_means|means]] of [[d/_distillation|distillation]].**
 - **To [[c/_consider|consider]] [[a/_abstractly|abstractly]]; to [[c/_contemplate|contemplate]] [[s/_separately|separately]] or by [[i/_itself|itself]]; to [[c/_consider|consider]] theoretically; to [[l/_look|look]] at as a [[g/_general|general]] [[q/_quality|quality]].**
 - **To withdraw [[o/_oneself|oneself]]; to [[r/_retire|retire]].**

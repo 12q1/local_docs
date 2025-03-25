@@ -9,6 +9,6 @@
 ### Antonyms
 - [[d/_delete|delete]]
 #noun
-- **[[s/_something|Something]] [[i/_inserted|inserted]] or [[s/_set|set]] in, such as [[l/_lace|lace]] in [[g/_garments|garments]].**
+- **[[s/_something|Something]] [[i/_inserted|inserted]] or [[s/_set|set]] in, [[s/_such|such]] as [[l/_lace|lace]] in [[g/_garments|garments]].**
 ---
 ---

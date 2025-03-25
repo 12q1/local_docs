@@ -4,7 +4,7 @@
 - **A [[c/_coarse|coarse]] or [[s/_stupid|stupid]] [[f/_fellow|fellow]].**
 ---
 #noun
-- **([[s/_scriptwriting|scriptwriting]]) Superfluous [[s/_small|small]] talk that is [[f/_free|free]] of [[c/_conflict|conflict]], [[o/_offers|offers]] [[n/_no|no]] [[c/_character|character]] [[d/_development|development]], [[d/_description|description]] or [[i/_insight|insight]], and [[d/_does|does]] not [[a/_advance|advance]] the [[s/_story|story]] or [[p/_plot|plot]].**
+- **([[s/_scriptwriting|scriptwriting]]) [[s/_superfluous|Superfluous]] [[s/_small|small]] talk that is [[f/_free|free]] of [[c/_conflict|conflict]], [[o/_offers|offers]] [[n/_no|no]] [[c/_character|character]] [[d/_development|development]], [[d/_description|description]] or [[i/_insight|insight]], and [[d/_does|does]] not [[a/_advance|advance]] the [[s/_story|story]] or [[p/_plot|plot]].**
 - **A [[b/_breathy|breathy]] [[n/_noise|noise]] [[p/_produced|produced]] by a tiger, [[s/_similar|similar]] in [[f/_function|function]] to a [[c/_cat|cat]]'[[s/_s|s]] [[p/_purr|purr]].**
 ---
 #verb

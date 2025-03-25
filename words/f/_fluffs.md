@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_anything|Anything]] [[l/_light|light]], [[s/_soft|soft]] or [[f/_fuzzy|fuzzy]], [[e/_especially|especially]] [[f/_fur|fur]], [[h/_hair|hair]], [[f/_feathers|feathers]].**
-- **[[a/_anything|Anything]] [[i/_inconsequential|inconsequential]] or superficial.**
+- **[[a/_anything|Anything]] [[i/_inconsequential|inconsequential]] or [[s/_superficial|superficial]].**
 	- _Example: That article was basically a bunch of fluff. It didn't say anything substantive._
 - **A [[l/_lapse|lapse]] or [[m/_mistake|mistake]], [[e/_especially|especially]] a [[m/_mistake|mistake]] in an [[a/_actor|actor]]'[[s/_s|s]] [[l/_lines|lines]].**
 - **[[m/_marshmallow|Marshmallow]] [[c/_creme|creme]].**

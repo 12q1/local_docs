@@ -1,7 +1,7 @@
 # Bracing
 ---
 #verb
-- **To [[p/_prepare|prepare]] for [[s/_something|something]] [[b/_bad|bad]], such as an [[i/_impact|impact]] or [[b/_blow|blow]].**
+- **To [[p/_prepare|prepare]] for [[s/_something|something]] [[b/_bad|bad]], [[s/_such|such]] as an [[i/_impact|impact]] or [[b/_blow|blow]].**
 	- _Example: All hands, brace for impact!_
 - **To [[p/_place|place]] in a [[p/_position|position]] for [[r/_resisting|resisting]] [[p/_pressure|pressure]]; to [[h/_hold|hold]] [[f/_firmly|firmly]].**
 	- _Example: He braced himself against the crowd._

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_person|person]] with a [[c/_choleric|choleric]] temperament.**
-- **A [[p/_person|person]] suffering from [[c/_cholera|cholera]] ([[i/_infectious|infectious]] [[d/_disease|disease]]).**
+- **A [[p/_person|person]] [[s/_suffering|suffering]] from [[c/_cholera|cholera]] ([[i/_infectious|infectious]] [[d/_disease|disease]]).**
 ---
 #adjective
 - **([[a/_according|according]] to theories of the [[f/_four|four]] [[h/_humours|humours]] or temperaments) [[h/_having|Having]] a temperament [[c/_characterized|characterized]] by an [[e/_excess|excess]] of [[c/_choler|choler]]; [[e/_easily|easily]] [[b/_becoming|becoming]] [[a/_angry|angry]].**

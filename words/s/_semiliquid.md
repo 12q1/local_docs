@@ -1,7 +1,7 @@
 # Semiliquid
 ---
 #noun
-- **[[a/_any|Any]] substance with [[p/_properties|properties]] [[i/_intermediate|intermediate]] [[b/_between|between]] those of a [[s/_solid|solid]] and a [[l/_liquid|liquid]].**
+- **[[a/_any|Any]] [[s/_substance|substance]] with [[p/_properties|properties]] [[i/_intermediate|intermediate]] [[b/_between|between]] those of a [[s/_solid|solid]] and a [[l/_liquid|liquid]].**
 ---
 ### Synonyms
 - [[s/_semifluid|semifluid]]

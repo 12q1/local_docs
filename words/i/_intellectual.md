@@ -11,7 +11,7 @@
 	- _Example: intellectual powers, activities, etc._
 - **[[e/_endowed|Endowed]] with [[i/_intellect|intellect]]; [[h/_having|having]] the [[p/_power|power]] of understanding; [[h/_having|having]] [[c/_capacity|capacity]] for the [[h/_higher|higher]] [[f/_forms|forms]] of [[k/_knowledge|knowledge]] or thought; [[c/_characterized|characterized]] by [[i/_intelligence|intelligence]] or [[m/_mental|mental]] [[c/_capacity|capacity]]**
 	- _Example: an intellectual person_
-- **Suitable for [[e/_exercising|exercising]] the [[i/_intellect|intellect]]; [[f/_formed|formed]] by, and [[e/_existing|existing]] for, the [[i/_intellect|intellect]] [[a/_alone|alone]]; [[p/_perceived|perceived]] by the [[i/_intellect|intellect]]**
+- **[[s/_suitable|Suitable]] for [[e/_exercising|exercising]] the [[i/_intellect|intellect]]; [[f/_formed|formed]] by, and [[e/_existing|existing]] for, the [[i/_intellect|intellect]] [[a/_alone|alone]]; [[p/_perceived|perceived]] by the [[i/_intellect|intellect]]**
 	- _Example: intellectual employments_
 - **[[r/_relating|Relating]] to the understanding; treating of the [[m/_mind|mind]].**
 	- _Example: intellectual philosophy, sometimes called "mental" philosophy_

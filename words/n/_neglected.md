@@ -12,6 +12,6 @@
 ### Antonyms
 - [[c/_care|care]], [[m/_mind|mind]], [[r/_reck|reck]], [[c/_consider|consider]], [[n/_notice|notice]], [[r/_regard|regard]]
 #adjective
-- **Suffering from [[n/_neglect|neglect]].**
+- **[[s/_suffering|Suffering]] from [[n/_neglect|neglect]].**
 ---
 ---

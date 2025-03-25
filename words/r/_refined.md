@@ -7,7 +7,7 @@
 - **To [[p/_purify|purify]] of [[c/_coarseness|coarseness]], vulgarity, [[i/_inelegance|inelegance]], [[e/_etc|etc]].; to [[p/_polish|polish]].**
 	- _Example: a refined style_
 - **To [[i/_improve|improve]] in [[a/_accuracy|accuracy]], [[d/_delicacy|delicacy]], or [[e/_excellence|excellence]].**
-- **To [[m/_make|make]] [[n/_nice|nice]] or subtle.**
+- **To [[m/_make|make]] [[n/_nice|nice]] or [[s/_subtle|subtle]].**
 	- _Example: to refine someone's language_
 ---
 #noun
@@ -18,6 +18,6 @@
 - **[[p/_precise|Precise]], [[f/_freed|freed]] from [[i/_imprecision|imprecision]], [[p/_particularly|particularly]]:**
 - **[[c/_cultured|Cultured]], [[f/_freed|freed]] from vulgarity, [[p/_particularly|particularly]]:**
 - **[[p/_purified|Purified]], [[r/_reduced|reduced]] in or [[f/_freed|freed]] from [[i/_impurities|impurities]], [[p/_particularly|particularly]]:**
-- **(of a [[m/_market|market]]) [[d/_dealing|Dealing]] in a [[r/_refined|refined]] [[p/_product|product]] such as sugar or [[p/_petroleum|petroleum]].**
+- **(of a [[m/_market|market]]) [[d/_dealing|Dealing]] in a [[r/_refined|refined]] [[p/_product|product]] [[s/_such|such]] as [[s/_sugar|sugar]] or [[p/_petroleum|petroleum]].**
 ---
 ---

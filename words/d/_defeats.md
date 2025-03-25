@@ -13,7 +13,7 @@
 	- _Example: Licking their wounds after a temporary defeat, they planned their next move._
 - **The [[a/_act|act]] or [[i/_instance|instance]] of [[d/_defeating|defeating]], of [[o/_overcoming|overcoming]], vanquishing.**
 	- _Example: The inscription records her defeat of the country's enemies in a costly war._
-- **[[f/_frustration|Frustration]] (by [[p/_prevention|prevention]] of success), [[s/_stymieing|stymieing]]; [[n/_nullification|nullification]].**
+- **[[f/_frustration|Frustration]] (by [[p/_prevention|prevention]] of [[s/_success|success]]), [[s/_stymieing|stymieing]]; [[n/_nullification|nullification]].**
 - **[[d/_destruction|Destruction]], [[r/_ruin|ruin]].**
 ---
 ### Antonyms

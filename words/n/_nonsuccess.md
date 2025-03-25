@@ -1,6 +1,6 @@
 # Nonsuccess
 ---
 #noun
-- **[[a/_absence|Absence]] of success; [[f/_failure|failure]].**
+- **[[a/_absence|Absence]] of [[s/_success|success]]; [[f/_failure|failure]].**
 ---
 ---

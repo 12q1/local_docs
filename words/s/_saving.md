@@ -17,7 +17,7 @@
 - **[[p/_preserving|Preserving]]; [[r/_rescuing|rescuing]].**
 - **Thrifty; [[f/_frugal|frugal]].**
 	- _Example: a saving cook_
-- **[[b/_bringing|Bringing]] [[b/_back|back]] in [[r/_returns|returns]] or in [[r/_receipts|receipts]] the sum [[e/_expended|expended]]; [[i/_incurring|incurring]] [[n/_no|no]] [[l/_loss|loss]], though not [[g/_gainful|gainful]].**
+- **[[b/_bringing|Bringing]] [[b/_back|back]] in [[r/_returns|returns]] or in [[r/_receipts|receipts]] the [[s/_sum|sum]] [[e/_expended|expended]]; [[i/_incurring|incurring]] [[n/_no|no]] [[l/_loss|loss]], though not [[g/_gainful|gainful]].**
 	- _Example: The ship has made a saving voyage._
 - **[[m/_making|Making]] [[r/_reservation|reservation]] or [[e/_exception|exception]].**
 	- _Example: a saving clause_

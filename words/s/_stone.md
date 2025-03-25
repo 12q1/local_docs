@@ -1,7 +1,7 @@
 # Stone
 ---
 #noun
-- **A [[h/_hard|hard]] [[e/_earthen|earthen]] substance that [[c/_can|can]] [[f/_form|form]] [[l/_large|large]] [[r/_rocks|rocks]].**
+- **A [[h/_hard|hard]] [[e/_earthen|earthen]] [[s/_substance|substance]] that [[c/_can|can]] [[f/_form|form]] [[l/_large|large]] [[r/_rocks|rocks]].**
 - **A [[s/_small|small]] [[p/_piece|piece]] of [[s/_stone|stone]], a [[p/_pebble|pebble]].**
 - **A [[g/_gemstone|gemstone]], a [[j/_jewel|jewel]], [[e/_especially|especially]] a [[d/_diamond|diamond]].**
 - **([[p/_plural|plural]]: [[s/_stone|stone]]) A unit of [[m/_mass|mass]] [[e/_equal|equal]] to 14 [[p/_pounds|pounds]]. Used to [[m/_measure|measure]] the weights of [[p/_people|people]], [[a/_animals|animals]], [[c/_cheese|cheese]], wool, [[e/_etc|etc]]. 1 [[s/_stone|stone]] ≈ 6.3503 [[k/_kilograms|kilograms]]**
@@ -9,7 +9,7 @@
 	- _Example: a peach stone_
 - **A [[h/_hard|hard]], [[s/_stone|stone]]-[[l/_like|like]] [[d/_deposit|deposit]].**
 	- _Example: kidney stone_
-- **A [[p/_playing|playing]] [[p/_piece|piece]] [[m/_made|made]] of [[a/_any|any]] [[h/_hard|hard]] [[m/_material|material]], used in various [[b/_board|board]] [[g/_games|games]] such as [[b/_backgammon|backgammon]], and [[g/_go|go]].**
+- **A [[p/_playing|playing]] [[p/_piece|piece]] [[m/_made|made]] of [[a/_any|any]] [[h/_hard|hard]] [[m/_material|material]], used in various [[b/_board|board]] [[g/_games|games]] [[s/_such|such]] as [[b/_backgammon|backgammon]], and [[g/_go|go]].**
 - **A [[d/_dull|dull]] [[l/_light|light]] [[g/_grey|grey]] or [[b/_beige|beige]], [[l/_like|like]] that of [[s/_some|some]] [[s/_stones|stones]].**
 - **A 42-[[p/_pound|pound]], [[p/_precisely|precisely]] [[s/_shaped|shaped]] [[p/_piece|piece]] of [[g/_granite|granite]] with a [[h/_handle|handle]] [[a/_attached|attached]], which is [[b/_bowled|bowled]] [[d/_down|down]] the [[i/_ice|ice]].**
 - **A [[m/_monument|monument]] to the [[d/_dead|dead]]; a [[g/_gravestone|gravestone]] or tombstone.**

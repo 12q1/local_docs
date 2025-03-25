@@ -1,13 +1,13 @@
 # Crashes
 ---
 #noun
-- **A sudden, [[i/_intense|intense]], [[l/_loud|loud]] [[s/_sound|sound]], as [[m/_made|made]] for [[e/_example|example]] by [[c/_cymbals|cymbals]].**
+- **A [[s/_sudden|sudden]], [[i/_intense|intense]], [[l/_loud|loud]] [[s/_sound|sound]], as [[m/_made|made]] for [[e/_example|example]] by [[c/_cymbals|cymbals]].**
 	- _Example: After the lightning came the crash of thunder._
 - **An [[a/_automobile|automobile]], [[a/_airplane|airplane]], or [[o/_other|other]] vehicle [[a/_accident|accident]].**
 	- _Example: Nobody survived the plane crash_
 - **A [[m/_malfunction|malfunction]] of [[c/_computer|computer]] [[s/_software|software]] or [[h/_hardware|hardware]] which [[c/_causes|causes]] it to [[s/_shut|shut]] [[d/_down|down]] or [[b/_become|become]] [[p/_partially|partially]] or totally [[i/_inoperable|inoperable]].**
 	- _Example: My computer had a crash so I had to reboot it._
-- **A sudden [[l/_large|large]] [[d/_decline|decline]] of [[b/_business|business]] or the [[p/_prices|prices]] of [[s/_stocks|stocks]] ([[e/_especially|especially]] [[o/_one|one]] that [[c/_causes|causes]] [[a/_additional|additional]] [[f/_failures|failures]]).**
+- **A [[s/_sudden|sudden]] [[l/_large|large]] [[d/_decline|decline]] of [[b/_business|business]] or the [[p/_prices|prices]] of [[s/_stocks|stocks]] ([[e/_especially|especially]] [[o/_one|one]] that [[c/_causes|causes]] [[a/_additional|additional]] [[f/_failures|failures]]).**
 	- _Example: the stock market crash_
 - **A [[c/_comedown|comedown]] from a [[d/_drug|drug]].**
 - **([[c/_collective|collective]]) A [[g/_group|group]] of [[r/_rhinoceroses|rhinoceroses]].**
@@ -31,8 +31,8 @@
 	- _Example: Double-clicking this icon crashes the desktop._
 - **To [[e/_experience|experience]] a [[p/_period|period]] of [[d/_depression|depression]] and/or [[l/_lethargy|lethargy]] [[a/_after|after]] a [[p/_period|period]] of [[e/_euphoria|euphoria]], as [[a/_after|after]] the [[e/_euphoric|euphoric]] [[e/_effect|effect]] of a [[p/_psychotropic|psychotropic]] [[d/_drug|drug]] [[h/_has|has]] [[d/_dissipated|dissipated]].**
 - **To [[h/_hit|hit]] or [[s/_strike|strike]] with [[f/_force|force]]**
-- **(of a [[p/_patient|patient]]'[[s/_s|s]] [[c/_condition|condition]]) To take a sudden and [[s/_severe|severe]] turn for the worse; to [[r/_rapidly|rapidly]] [[d/_deteriorate|deteriorate]].**
-- **To [[m/_make|make]] a sudden [[l/_loud|loud]] [[n/_noise|noise]].**
+- **(of a [[p/_patient|patient]]'[[s/_s|s]] [[c/_condition|condition]]) To take a [[s/_sudden|sudden]] and [[s/_severe|severe]] turn for the worse; to [[r/_rapidly|rapidly]] [[d/_deteriorate|deteriorate]].**
+- **To [[m/_make|make]] a [[s/_sudden|sudden]] [[l/_loud|loud]] [[n/_noise|noise]].**
 	- _Example: Thunder crashed directly overhead._
 ---
 ---

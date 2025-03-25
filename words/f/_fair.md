@@ -32,7 +32,7 @@
 	- _Example: a fair sky;  a fair day_
 - **[[f/_free|Free]] from [[o/_obstacles|obstacles]] or [[h/_hindrances|hindrances]]; unobstructed; unencumbered; [[o/_open|open]]; [[d/_direct|direct]]; [[s/_said|said]] of a [[r/_road|road]], [[p/_passage|passage]], [[e/_etc|etc]].**
 	- _Example: a fair mark;  in fair sight;  a fair view_
-- **Without sudden [[c/_change|change]] of [[d/_direction|direction]] or [[c/_curvature|curvature]]; [[s/_smooth|smooth]]; [[f/_flowing|flowing]]; [[s/_said|said]] of the [[f/_figure|figure]] of a vessel, and of surfaces, water [[l/_lines|lines]], and [[o/_other|other]] [[l/_lines|lines]].**
+- **Without [[s/_sudden|sudden]] [[c/_change|change]] of [[d/_direction|direction]] or [[c/_curvature|curvature]]; [[s/_smooth|smooth]]; [[f/_flowing|flowing]]; [[s/_said|said]] of the [[f/_figure|figure]] of a vessel, and of surfaces, water [[l/_lines|lines]], and [[o/_other|other]] [[l/_lines|lines]].**
 - **[[b/_between|Between]] the [[b/_baselines|baselines]].**
 - **(of a [[c/_catch|catch]]) Taken [[d/_direct|direct]] from an [[o/_opponent|opponent]]'[[s/_s|s]] [[f/_foot|foot]], without the [[b/_ball|ball]] touching the [[g/_ground|ground]] or [[a/_another|another]] [[p/_player|player]].**
 - **(of a [[b/_ball|ball]] [[d/_delivered|delivered]] by the [[b/_bowler|bowler]]) Not a [[n/_no|no]]-[[b/_ball|ball]].**

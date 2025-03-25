@@ -19,13 +19,13 @@
 - **The [[e/_exterior|exterior]] [[l/_limit|limit]] of a [[f/_figure|figure]] or territory: a [[b/_boundary|boundary]], [[c/_contour|contour]], or [[o/_outline|outline]]; a [[d/_demarcation|demarcation]].**
 - **A [[l/_long|long]] tape or [[r/_ribbon|ribbon]] [[m/_marked|marked]] with units for [[m/_measuring|measuring]]; a tape [[m/_measure|measure]].**
 - **A [[m/_measuring|measuring]] [[l/_line|line]] or [[c/_cord|cord]].**
-- **That which was [[m/_measured|measured]] by a [[l/_line|line]], such as a [[f/_field|field]] or [[a/_any|any]] [[p/_piece|piece]] of [[l/_land|land]] [[s/_set|set]] [[a/_apart|apart]]; [[h/_hence|hence]], [[a/_allotted|allotted]] [[p/_place|place]] of [[a/_abode|abode]].**
+- **That which was [[m/_measured|measured]] by a [[l/_line|line]], [[s/_such|such]] as a [[f/_field|field]] or [[a/_any|any]] [[p/_piece|piece]] of [[l/_land|land]] [[s/_set|set]] [[a/_apart|apart]]; [[h/_hence|hence]], [[a/_allotted|allotted]] [[p/_place|place]] of [[a/_abode|abode]].**
 - **A threadlike [[c/_crease|crease]] or wrinkle [[m/_marking|marking]] the [[f/_face|face]], [[h/_hand|hand]], or [[b/_body|body]]; [[h/_hence|hence]], a [[c/_characteristic|characteristic]] [[m/_mark|mark]].**
 - **[[l/_lineament|Lineament]]; [[f/_feature|feature]]; [[f/_figure|figure]] (of [[o/_one|one]]'[[s/_s|s]] [[b/_body|body]]).**
 - **A [[m/_more|more]]-or-[[l/_less|less]] [[s/_straight|straight]] [[s/_sequence|sequence]] of [[p/_people|people]], [[o/_objects|objects]], [[e/_etc|etc]]., [[e/_either|either]] [[a/_arranged|arranged]] as a [[q/_queue|queue]] or [[c/_column|column]] and [[o/_often|often]] waiting to be [[p/_processed|processed]] or [[d/_dealt|dealt]] with, or [[a/_arranged|arranged]] [[a/_abreast|abreast]] of [[o/_one|one]] [[a/_another|another]] in a [[r/_row|row]] (and [[c/_contrasted|contrasted]] with a [[c/_column|column]]), as in a [[m/_military|military]] [[f/_formation|formation]].**
 	- _Example: The line forms on the right._
 - **The [[r/_regular|regular]] [[i/_infantry|infantry]] of an [[a/_army|army]], as [[d/_distinguished|distinguished]] from [[m/_militia|militia]], [[g/_guards|guards]], volunteer [[c/_corps|corps]], [[c/_cavalry|cavalry]], [[a/_artillery|artillery]] [[e/_etc|etc]].**
-- **A [[s/_series|series]] or succession of [[a/_ancestors|ancestors]] or [[d/_descendants|descendants]] of a [[g/_given|given]] [[p/_person|person]]; a [[f/_family|family]] or [[r/_race|race]]; [[c/_compare|compare]] [[l/_lineage|lineage]].**
+- **A [[s/_series|series]] or [[s/_succession|succession]] of [[a/_ancestors|ancestors]] or [[d/_descendants|descendants]] of a [[g/_given|given]] [[p/_person|person]]; a [[f/_family|family]] or [[r/_race|race]]; [[c/_compare|compare]] [[l/_lineage|lineage]].**
 - **A [[s/_small|small]] [[a/_amount|amount]] of text. [[s/_specifically|Specifically]]:**
 - **[[c/_course|Course]] of [[c/_conduct|conduct]], thought, [[o/_occupation|occupation]], or [[p/_policy|policy]]; [[m/_method|method]] of [[a/_argument|argument]]; [[d/_department|department]] of [[i/_industry|industry]], trade, or [[i/_intellectual|intellectual]] [[a/_activity|activity]].**
 - **The [[o/_official|official]], [[s/_stated|stated]] [[p/_position|position]] (or [[s/_set|set]] of [[p/_positions|positions]]) of an [[i/_individual|individual]] or [[g/_group|group]], [[p/_particularly|particularly]] a [[p/_political|political]] or [[r/_religious|religious]] [[f/_faction|faction]].**
@@ -68,7 +68,7 @@
 #verb
 - **To [[c/_cover|cover]] the [[i/_inner|inner]] surface of ([[s/_something|something]]), [[o/_originally|originally]] [[e/_especially|especially]] with [[l/_linen|linen]].**
 	- _Example: The bird lines its nest with soft grass._
-- **To [[r/_reinforce|reinforce]] (the [[b/_back|back]] of a [[b/_book|book]]) with [[g/_glue|glue]] and [[g/_glued|glued]] [[s/_scrap|scrap]] [[m/_material|material]] such as [[f/_fabric|fabric]] or [[p/_paper|paper]].**
+- **To [[r/_reinforce|reinforce]] (the [[b/_back|back]] of a [[b/_book|book]]) with [[g/_glue|glue]] and [[g/_glued|glued]] [[s/_scrap|scrap]] [[m/_material|material]] [[s/_such|such]] as [[f/_fabric|fabric]] or [[p/_paper|paper]].**
 - **To [[f/_fill|fill]] or supply ([[s/_something|something]]), as a [[p/_purse|purse]] with [[m/_money|money]].**
 	- _Example: to line the shelves_
 ---

@@ -16,7 +16,7 @@
 - **To [[d/_dispatch|dispatch]] [[s/_someone|someone]] or [[s/_something|something]] at [[s/_speed|speed]].**
 ---
 #noun
-- **A sudden [[f/_flow|flow]] of water; a [[s/_squirt|squirt]].**
+- **A [[s/_sudden|sudden]] [[f/_flow|flow]] of water; a [[s/_squirt|squirt]].**
 ---
 #verb
 - **To [[s/_squirt|squirt]].**

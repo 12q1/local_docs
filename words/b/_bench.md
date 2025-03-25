@@ -9,7 +9,7 @@
 	- _Example: She sat on the bench for 30 years before she retired._
 - **The [[d/_dignity|dignity]] of [[h/_holding|holding]] an [[o/_official|official]] [[s/_seat|seat]].**
 	- _Example: the bench of bishops_
-- **The [[p/_place|place]] where [[p/_players|players]] (substitutes) and [[c/_coaches|coaches]] [[s/_sit|sit]] when not [[p/_playing|playing]].**
+- **The [[p/_place|place]] where [[p/_players|players]] ([[s/_substitutes|substitutes]]) and [[c/_coaches|coaches]] [[s/_sit|sit]] when not [[p/_playing|playing]].**
 	- _Example: He spent the first three games on the bench, watching._
 - **The [[n/_number|number]] of [[p/_players|players]] on a team [[a/_able|able]] to [[p/_participate|participate]], [[e/_expressed|expressed]] in terms of [[l/_length|length]].**
 	- _Example: Injuries have shortened the bench._

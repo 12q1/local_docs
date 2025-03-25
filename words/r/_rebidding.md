@@ -4,6 +4,6 @@
 - **To [[b/_bid|bid]] [[a/_again|again]] on [[s/_something|something]].**
 - **To [[r/_require|require]] a [[n/_new|new]] [[s/_set|set]] of [[b/_bids|bids]] for.**
 	- _Example: We had to rebid the contract when accusations of fraud by other competitors occurred._
-- **To [[b/_bid|bid]] a [[h/_higher|higher]] value of the [[c/_current|current]] suit.**
+- **To [[b/_bid|bid]] a [[h/_higher|higher]] value of the [[c/_current|current]] [[s/_suit|suit]].**
 ---
 ---

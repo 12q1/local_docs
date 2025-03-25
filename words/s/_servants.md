@@ -10,6 +10,6 @@
 - **A [[p/_person|person]] of [[l/_low|low]] [[c/_condition|condition]] or [[s/_spirit|spirit]].**
 ---
 #verb
-- **To subject.**
+- **To [[s/_subject|subject]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[g/_group|group]] of [[s/_separate|separate]] things that [[c/_contribute|contribute]] to a [[c/_coordinated|coordinated]] whole.**
-- **A [[c/_coordinated|coordinated]] [[c/_costume|costume]] or [[o/_outfit|outfit]]; a suit.**
+- **A [[c/_coordinated|coordinated]] [[c/_costume|costume]] or [[o/_outfit|outfit]]; a [[s/_suit|suit]].**
 - **([[c/_collective|collective]]) A [[g/_group|group]] of [[m/_musicians|musicians]], [[d/_dancers|dancers]], [[a/_actors|actors]], [[e/_etc|etc]] who [[p/_perform|perform]] together; [[e/_e|e]].[[g/_g|g]]. the [[c/_chorus|chorus]] of a [[b/_ballet|ballet]] [[c/_company|company]].**
 - **A [[p/_piece|piece]] for [[s/_several|several]] [[i/_instrumentalists|instrumentalists]] or vocalists.**
 - **A [[p/_probability|probability]] [[d/_distribution|distribution]] for the [[s/_state|state]] of the [[s/_system|system]].**

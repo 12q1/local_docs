@@ -3,7 +3,7 @@
 #verb
 - **To [[m/_make|make]] [[s/_something|something]] [[f/_flat|flat]] or [[f/_flatter|flatter]].**
 	- _Example: As there was a lot of damage, we chose the heavy roller to flatten the pitch._
-- **To [[p/_press|press]] [[o/_one|one]]'[[s/_s|s]] [[b/_body|body]] tightly [[a/_against|against]] a surface, such as a wall or [[f/_floor|floor]], [[e/_especially|especially]] in [[o/_order|order]] to [[a/_avoid|avoid]] [[b/_being|being]] [[s/_seen|seen]] or [[h/_harmed|harmed]].**
+- **To [[p/_press|press]] [[o/_one|one]]'[[s/_s|s]] [[b/_body|body]] tightly [[a/_against|against]] a surface, [[s/_such|such]] as a wall or [[f/_floor|floor]], [[e/_especially|especially]] in [[o/_order|order]] to [[a/_avoid|avoid]] [[b/_being|being]] [[s/_seen|seen]] or [[h/_harmed|harmed]].**
 - **To [[k/_knock|knock]] [[d/_down|down]] or [[l/_lay|lay]] [[l/_low|low]].**
 	- _Example: The prize fighter quickly flattened his challenger._
 - **To [[b/_become|become]] [[f/_flat|flat]] or [[f/_flatter|flatter]]; to [[p/_plateau|plateau]].**

@@ -14,7 +14,7 @@
 - **(of a [[s/_school|school]]) teaching teachers [[h/_how|how]] to teach (to [[c/_certain|certain]] [[n/_norms|norms]])**
 	- _Example: My grandmother attended Mankato State Normal School._
 - **Of, [[r/_relating|relating]] to, or [[b/_being|being]] a [[s/_solution|solution]] [[c/_containing|containing]] [[o/_one|one]] [[e/_equivalent|equivalent]] weight of [[s/_solute|solute]] [[p/_per|per]] [[l/_litre|litre]] of [[s/_solution|solution]].**
-- **[[d/_describing|Describing]] a [[s/_straight|straight]] [[c/_chain|chain]] [[i/_isomer|isomer]] of an [[a/_aliphatic|aliphatic]] [[h/_hydrocarbon|hydrocarbon]], or an [[a/_aliphatic|aliphatic]] [[c/_compound|compound]] in which a substituent is in the 1- [[p/_position|position]] of such a [[h/_hydrocarbon|hydrocarbon]].**
+- **[[d/_describing|Describing]] a [[s/_straight|straight]] [[c/_chain|chain]] [[i/_isomer|isomer]] of an [[a/_aliphatic|aliphatic]] [[h/_hydrocarbon|hydrocarbon]], or an [[a/_aliphatic|aliphatic]] [[c/_compound|compound]] in which a [[s/_substituent|substituent]] is in the 1- [[p/_position|position]] of [[s/_such|such]] a [[h/_hydrocarbon|hydrocarbon]].**
 - **(of a [[m/_mode|mode]] in an [[o/_oscillating|oscillating]] [[s/_system|system]]) In which [[a/_all|all]] [[p/_parts|parts]] of an [[o/_object|object]] vibrate at the [[s/_same|same]] [[f/_frequency|frequency]] ([[s/_see|see]] [[n/_normal|normal]] [[m/_mode|mode]]).**
 - **(of [[p/_points|points]]) In the [[d/_default|default]] [[p/_position|position]], [[s/_set|set]] for the [[m/_most|most]] [[f/_frequently|frequently]] used [[r/_route|route]].**
 - **[[p/_perpendicular|Perpendicular]] to a tangent of a [[c/_curve|curve]] or [[d/_derivative|derivative]] of a surface.**

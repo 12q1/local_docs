@@ -8,12 +8,12 @@
 - **A [[r/_record|record]]-[[s/_setting|setting]] [[a/_amount|amount]].**
 ---
 #adverb
-- **[[f/_forms|Forms]] the superlative of [[m/_many|many]] [[a/_adjectives|adjectives]].**
+- **[[f/_forms|Forms]] the [[s/_superlative|superlative]] of [[m/_many|many]] [[a/_adjectives|adjectives]].**
 	- _Example: Correctness is most important._
 - **To a [[g/_great|great]] [[e/_extent|extent]] or [[d/_degree|degree]]; [[h/_highly|highly]]; very.**
 	- _Example: This is a most unusual specimen._
-- **Superlative of [[m/_many|many]]**
-- **Superlative of [[m/_much|much]]**
+- **[[s/_superlative|Superlative]] of [[m/_many|many]]**
+- **[[s/_superlative|Superlative]] of [[m/_much|much]]**
 ---
 ### Antonyms
 - [[l/_least|least]], [[l/_least|least]]

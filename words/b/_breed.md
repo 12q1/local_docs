@@ -1,7 +1,7 @@
 # Breed
 ---
 #noun
-- **[[a/_all|All]] [[a/_animals|animals]] or [[p/_plants|plants]] of the [[s/_same|same]] [[s/_species|species]] or subspecies.**
+- **[[a/_all|All]] [[a/_animals|animals]] or [[p/_plants|plants]] of the [[s/_same|same]] [[s/_species|species]] or [[s/_subspecies|subspecies]].**
 	- _Example: a breed of animal_
 - **A [[r/_race|race]] or [[l/_lineage|lineage]]; [[o/_offspring|offspring]] or [[i/_issue|issue]].**
 - **A [[g/_group|group]] of [[p/_people|people]] with [[s/_shared|shared]] [[c/_characteristics|characteristics]].**

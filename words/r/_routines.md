@@ -6,7 +6,7 @@
 	- _Example: Connie was completely robotic and emotionless by age 12; her entire life had become one big routine._
 - **A [[s/_set|set]] [[p/_piece|piece]] of an [[e/_entertainer|entertainer]]'[[s/_s|s]] [[a/_act|act]].**
 	- _Example: stand-up comedy routine_
-- **A [[s/_set|set]] of [[i/_instructions|instructions]] [[d/_designed|designed]] to [[p/_perform|perform]] a [[s/_specific|specific]] task; a subroutine.**
+- **A [[s/_set|set]] of [[i/_instructions|instructions]] [[d/_designed|designed]] to [[p/_perform|perform]] a [[s/_specific|specific]] task; a [[s/_subroutine|subroutine]].**
 ---
 ### Synonyms
 - [[f/_function|function]], [[p/_procedure|procedure]], [[s/_subroutine|subroutine]], [[r/_rut|rut]]

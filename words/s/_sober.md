@@ -12,7 +12,7 @@
 	- _Example: 1890, John Charles, The Godly, Righteous, And Sober Life_
 - **[[m/_moderate|Moderate]]; [[r/_realistic|realistic]]; [[s/_serious|serious]]; not [[p/_playful|playful]]; not [[p/_passionate|passionate]]; [[c/_cool|cool]]; [[s/_self|self]]-[[c/_controlled|controlled]]**
 - **[[d/_dull|Dull]]; not [[b/_bright|bright]] or [[c/_colorful|colorful]]**
-- **Subdued; [[s/_solemn|solemn]]; [[g/_grave|grave]]**
+- **[[s/_subdued|Subdued]]; [[s/_solemn|solemn]]; [[g/_grave|grave]]**
 - **[[p/_poor|Poor]]; [[f/_feeble|feeble]]**
 ---
 ### Antonyms

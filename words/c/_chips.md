@@ -6,8 +6,8 @@
 	- _Example: This cup has a chip in it._
 - **([[g/_games|games]]) A token used in [[p/_place|place]] of [[c/_cash|cash]].**
 - **A [[s/_sovereign|sovereign]] (the [[c/_coin|coin]]).**
-- **A [[c/_circuit|circuit]] [[f/_fabricated|fabricated]] in [[o/_one|one]] [[p/_piece|piece]] on a [[s/_small|small]], thin substrate.**
-- **A [[h/_hybrid|hybrid]] [[d/_device|device]] [[m/_mounted|mounted]] in a substrate, [[c/_containing|containing]] [[e/_electronic|electronic]] [[c/_circuitry|circuitry]] and miniaturised [[m/_mechanical|mechanical]], [[c/_chemical|chemical]] and/or [[b/_biochemical|biochemical]] [[d/_devices|devices]].**
+- **A [[c/_circuit|circuit]] [[f/_fabricated|fabricated]] in [[o/_one|one]] [[p/_piece|piece]] on a [[s/_small|small]], thin [[s/_substrate|substrate]].**
+- **A [[h/_hybrid|hybrid]] [[d/_device|device]] [[m/_mounted|mounted]] in a [[s/_substrate|substrate]], [[c/_containing|containing]] [[e/_electronic|electronic]] [[c/_circuitry|circuitry]] and miniaturised [[m/_mechanical|mechanical]], [[c/_chemical|chemical]] and/or [[b/_biochemical|biochemical]] [[d/_devices|devices]].**
 - **([[e/_especially|especially]] in the [[p/_plural|plural]]) A [[f/_fried|fried]] [[s/_strip|strip]] of [[p/_potato|potato]] of [[s/_square|square]] or [[r/_rectangular|rectangular]] [[c/_cross|cross]]-[[s/_section|section]]; a [[f/_french|french]] [[f/_fry|fry]].**
 	- _Example: Do you want sauce or mayonnaise on your chips?_
 - **([[e/_especially|especially]] in the [[p/_plural|plural]]) A thin, [[c/_crisp|crisp]], [[f/_fried|fried]] [[s/_slice|slice]] of [[p/_potato|potato]], or [[s/_sometimes|sometimes]] [[a/_another|another]] vegetable; a [[c/_crisp|crisp]].**

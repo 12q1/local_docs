@@ -18,7 +18,7 @@
 - **[[d/_drunk|Drunk]]; [[i/_intoxicated|intoxicated]] by [[a/_alcohol|alcohol]].**
 - **[[h/_high|High]] on [[d/_drugs|drugs]], [[e/_especially|especially]] [[c/_cannabis|cannabis]].**
 	- _Example: We got stoned and ate four bags of potato chips._
-- **[[e/_exhilarated|Exhilarated]], [[i/_intoxicated|intoxicated]] by [[s/_something|something]] (such as [[l/_love|love]]) [[o/_other|other]] than [[d/_drugs|drugs]] or [[a/_alcohol|alcohol]].**
+- **[[e/_exhilarated|Exhilarated]], [[i/_intoxicated|intoxicated]] by [[s/_something|something]] ([[s/_such|such]] as [[l/_love|love]]) [[o/_other|other]] than [[d/_drugs|drugs]] or [[a/_alcohol|alcohol]].**
 ---
 ### Synonyms
 - [[u/_unstoned|unstoned]], [[b/_blotto|blotto]], [[e/_ebrious|ebrious]], [[p/_paralytic|paralytic]], [[w/_wasted|wasted]], [[d/_destoned|destoned]], [[b/_baked|baked]], [[b/_blazed|blazed]], [[c/_chopped|chopped]], [[f/_fried|fried]], [[g/_geeked|geeked]], [[h/_high|high]], [[b/_baked|baked]], [[b/_blazed|blazed]], [[c/_chopped|chopped]], [[f/_fried|fried]], [[g/_geeked|geeked]], [[h/_high|high]]

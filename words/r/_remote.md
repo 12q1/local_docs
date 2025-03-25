@@ -23,7 +23,7 @@
 ### Antonyms
 - [[a/_attached|attached]], [[c/_connected|connected]], [[c/_contiguous|contiguous]], [[d/_direct|direct]], [[c/_close|close]], [[n/_near|near]], [[p/_proximate|proximate]], [[c/_companionable|companionable]], [[i/_intimate|intimate]], [[i/_involved|involved]], [[p/_passionate|passionate]], [[c/_considerable|considerable]], [[g/_great|great]], [[r/_reasonable|reasonable]], [[s/_sure|sure]]
 #noun
-- **A [[d/_device|device]] used to [[o/_operate|operate]] an [[a/_appliance|appliance]] (such as a television), vehicle or [[m/_mechanical|mechanical]] toy from a [[s/_short|short]] [[d/_distance|distance]] [[a/_away|away]].**
+- **A [[d/_device|device]] used to [[o/_operate|operate]] an [[a/_appliance|appliance]] ([[s/_such|such]] as a television), vehicle or [[m/_mechanical|mechanical]] toy from a [[s/_short|short]] [[d/_distance|distance]] [[a/_away|away]].**
 - **A [[m/_means|means]] of [[d/_doing|doing]] [[s/_something|something]] from a [[d/_distance|distance]].**
 	- _Example: The bomb was detonated by remote control._
 ---

@@ -4,7 +4,7 @@
 - **[[s/_something|Something]] that [[h/_has|has]] an [[o/_oblique|oblique]] or [[s/_slanted|slanted]] [[p/_position|position]].**
 - **An [[o/_oblique|oblique]] or [[s/_sideways|sideways]] [[m/_movement|movement]].**
 - **A [[b/_bias|bias]] or [[d/_distortion|distortion]] in a [[p/_particular|particular]] [[d/_direction|direction]].**
-- **A [[p/_phenomenon|phenomenon]] in [[s/_synchronous|synchronous]] [[d/_digital|digital]] [[c/_circuit|circuit]] [[s/_systems|systems]] (such as [[c/_computers|computers]]) in which the [[s/_same|same]] sourced [[c/_clock|clock]] [[s/_signal|signal]] [[a/_arrives|arrives]] at [[d/_different|different]] [[c/_components|components]] at [[d/_different|different]] times.**
+- **A [[p/_phenomenon|phenomenon]] in [[s/_synchronous|synchronous]] [[d/_digital|digital]] [[c/_circuit|circuit]] [[s/_systems|systems]] ([[s/_such|such]] as [[c/_computers|computers]]) in which the [[s/_same|same]] sourced [[c/_clock|clock]] [[s/_signal|signal]] [[a/_arrives|arrives]] at [[d/_different|different]] [[c/_components|components]] at [[d/_different|different]] times.**
 - **A [[s/_state|state]] of [[a/_asymmetry|asymmetry]] in a [[d/_distribution|distribution]]; [[s/_skewness|skewness]].**
 ---
 #verb

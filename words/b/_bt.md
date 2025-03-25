@@ -5,7 +5,7 @@
 	- _Example: I am not rich but [I am] poor  not John but Peter went there._
 - **[[h/_however|However]], [[a/_although|although]], [[n/_nevertheless|nevertheless]], on the [[o/_other|other]] [[h/_hand|hand]] ([[i/_introducing|introducing]] a [[c/_clause|clause]] [[c/_contrary|contrary]] to [[p/_prior|prior]] [[b/_belief|belief]] or in [[c/_contrast|contrast]] with the [[p/_preceding|preceding]] [[c/_clause|clause]] or [[s/_sentence|sentence]]).**
 	- _Example: She is very old but still attractive._
-- **[[e/_except|Except]] that ([[i/_introducing|introducing]] a subordinate [[c/_clause|clause]] which [[q/_qualifies|qualifies]] a [[n/_negative|negative]] [[s/_statement|statement]]); [[a/_also|also]], with [[o/_omission|omission]] of the subject of the subordinate [[c/_clause|clause]], [[a/_acting|acting]] as a [[n/_negative|negative]] [[r/_relative|relative]], "[[e/_except|except]] [[o/_one|one]] that", "[[e/_except|except]] such that".**
+- **[[e/_except|Except]] that ([[i/_introducing|introducing]] a [[s/_subordinate|subordinate]] [[c/_clause|clause]] which [[q/_qualifies|qualifies]] a [[n/_negative|negative]] [[s/_statement|statement]]); [[a/_also|also]], with [[o/_omission|omission]] of the [[s/_subject|subject]] of the [[s/_subordinate|subordinate]] [[c/_clause|clause]], [[a/_acting|acting]] as a [[n/_negative|negative]] [[r/_relative|relative]], "[[e/_except|except]] [[o/_one|one]] that", "[[e/_except|except]] [[s/_such|such]] that".**
 	- _Example: I cannot but feel offended._
 - **Without [[i/_its|its]] [[a/_also|also]] [[b/_being|being]] the [[c/_case|case]] that; unless that ([[i/_introducing|introducing]] a [[n/_necessary|necessary]] [[c/_concomitant|concomitant]]).**
 	- _Example: It never rains but it pours._

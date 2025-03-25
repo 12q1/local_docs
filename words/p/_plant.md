@@ -3,7 +3,7 @@
 #noun
 - **An [[o/_organism|organism]] that is not an [[a/_animal|animal]], [[e/_especially|especially]] an [[o/_organism|organism]] [[c/_capable|capable]] of [[p/_photosynthesis|photosynthesis]]. Typically a [[s/_small|small]] or [[h/_herbaceous|herbaceous]] [[o/_organism|organism]] of this [[k/_kind|kind]], [[r/_rather|rather]] than a tree.**
 	- _Example: The garden had a couple of trees, and a cluster of colourful plants around the border._
-- **An [[o/_organism|organism]] of the [[k/_kingdom|kingdom]] [[p/_plantae|Plantae]]; [[n/_now|now]] [[s/_specifically|specifically]], a [[l/_living|living]] [[o/_organism|organism]] of the [[e/_embryophyta|Embryophyta]] ([[l/_land|land]] [[p/_plants|plants]]) or of the Chlorophyta ([[g/_green|green]] [[a/_algae|algae]]), a [[e/_eukaryote|eukaryote]] that [[i/_includes|includes]] [[d/_double|double]]-[[m/_membraned|membraned]] [[c/_chloroplasts|chloroplasts]] in [[i/_its|its]] [[c/_cells|cells]] [[c/_containing|containing]] [[c/_chlorophyll|chlorophyll]] a and [[b/_b|b]], or [[a/_any|any]] [[o/_organism|organism]] [[c/_closely|closely]] [[r/_related|related]] to such an [[o/_organism|organism]].**
+- **An [[o/_organism|organism]] of the [[k/_kingdom|kingdom]] [[p/_plantae|Plantae]]; [[n/_now|now]] [[s/_specifically|specifically]], a [[l/_living|living]] [[o/_organism|organism]] of the [[e/_embryophyta|Embryophyta]] ([[l/_land|land]] [[p/_plants|plants]]) or of the Chlorophyta ([[g/_green|green]] [[a/_algae|algae]]), a [[e/_eukaryote|eukaryote]] that [[i/_includes|includes]] [[d/_double|double]]-[[m/_membraned|membraned]] [[c/_chloroplasts|chloroplasts]] in [[i/_its|its]] [[c/_cells|cells]] [[c/_containing|containing]] [[c/_chlorophyll|chlorophyll]] a and [[b/_b|b]], or [[a/_any|any]] [[o/_organism|organism]] [[c/_closely|closely]] [[r/_related|related]] to [[s/_such|such]] an [[o/_organism|organism]].**
 - **[[n/_now|Now]] [[s/_specifically|specifically]], a [[m/_multicellular|multicellular]] [[e/_eukaryote|eukaryote]] that [[i/_includes|includes]] [[c/_chloroplasts|chloroplasts]] in [[i/_its|its]] [[c/_cells|cells]], which [[h/_have|have]] a [[c/_cell|cell]] wall.**
 - **[[a/_any|Any]] [[c/_creature|creature]] that [[g/_grows|grows]] on [[s/_soil|soil]] or [[s/_similar|similar]] surfaces, [[i/_including|including]] [[p/_plants|plants]] and [[f/_fungi|fungi]].**
 - **A [[f/_factory|factory]] or [[o/_other|other]] [[i/_industrial|industrial]] or [[i/_institutional|institutional]] [[b/_building|building]] or [[f/_facility|facility]].**
@@ -12,15 +12,15 @@
 - **[[a/_anyone|Anyone]] [[a/_assigned|assigned]] to [[b/_behave|behave]] as a [[m/_member|member]] of the [[p/_public|public]] [[d/_during|during]] a [[c/_covert|covert]] [[o/_operation|operation]] (as in a [[p/_police|police]] [[i/_investigation|investigation]]).**
 - **A [[p/_person|person]], [[p/_placed|placed]] [[a/_amongst|amongst]] an [[a/_audience|audience]], whose [[r/_role|role]] is to [[c/_cause|cause]] [[c/_confusion|confusion]], [[l/_laughter|laughter]] [[e/_etc|etc]].**
 - **A [[p/_play|play]] in which the [[c/_cue|cue]] [[b/_ball|ball]] [[k/_knocks|knocks]] [[o/_one|one]] (usually [[r/_red|red]]) [[b/_ball|ball]] [[o/_onto|onto]] [[a/_another|another]], in [[o/_order|order]] to [[p/_pot|pot]] the [[s/_second|second]]; a [[s/_set|set]].**
-- **[[m/_machinery|Machinery]], such as the [[k/_kind|kind]] used in [[e/_earthmoving|earthmoving]] or [[c/_construction|construction]].**
+- **[[m/_machinery|Machinery]], [[s/_such|such]] as the [[k/_kind|kind]] used in [[e/_earthmoving|earthmoving]] or [[c/_construction|construction]].**
 - **A [[y/_young|young]] tree; a [[s/_sapling|sapling]]; [[h/_hence|hence]], a [[s/_stick|stick]] or [[s/_staff|staff]].**
 - **The [[s/_sole|sole]] of the [[f/_foot|foot]].**
 - **A [[p/_plan|plan]]; a swindle; a trick.**
 - **An [[o/_oyster|oyster]] which [[h/_has|has]] [[b/_been|been]] [[b/_bedded|bedded]], in [[d/_distinction|distinction]] from [[o/_one|one]] of [[n/_natural|natural]] [[g/_growth|growth]].**
-- **A [[y/_young|young]] [[o/_oyster|oyster]] suitable for transplanting.**
+- **A [[y/_young|young]] [[o/_oyster|oyster]] [[s/_suitable|suitable]] for transplanting.**
 ---
 #verb
-- **To [[p/_place|place]] (a [[s/_seed|seed]] or [[p/_plant|plant]]) in [[s/_soil|soil]] or [[o/_other|other]] substrate in [[o/_order|order]] that it [[m/_may|may]] [[l/_live|live]] and [[g/_grow|grow]].**
+- **To [[p/_place|place]] (a [[s/_seed|seed]] or [[p/_plant|plant]]) in [[s/_soil|soil]] or [[o/_other|other]] [[s/_substrate|substrate]] in [[o/_order|order]] that it [[m/_may|may]] [[l/_live|live]] and [[g/_grow|grow]].**
 - **To [[p/_place|place]] (an [[o/_object|object]], or [[s/_sometimes|sometimes]] a [[p/_person|person]]), [[o/_often|often]] with the [[i/_implication|implication]] of [[i/_intending|intending]] [[d/_deceit|deceit]].**
 	- _Example: That gun's not mine! It was planted there by the real murderer!_
 - **To [[p/_place|place]] or [[s/_set|set]] [[s/_something|something]] [[f/_firmly|firmly]] or with [[c/_conviction|conviction]].**

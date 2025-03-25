@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[e/_evidence|Evidence]] of a [[l/_long|long]]-term [[d/_debt|debt]], by which the [[b/_bond|bond]] [[i/_issuer|issuer]] (the [[b/_borrower|borrower]]) is [[o/_obliged|obliged]] to [[p/_pay|pay]] [[i/_interest|interest]] when [[d/_due|due]], and [[r/_repay|repay]] the [[p/_principal|principal]] at [[m/_maturity|maturity]], as [[s/_specified|specified]] on the [[f/_face|face]] of the [[b/_bond|bond]] [[c/_certificate|certificate]]. The [[r/_rights|rights]] of the [[h/_holder|holder]] are [[s/_specified|specified]] in the [[b/_bond|bond]] [[i/_indenture|indenture]], which [[c/_contains|contains]] the [[l/_legal|legal]] terms and [[c/_conditions|conditions]] under which the [[b/_bond|bond]] was [[i/_issued|issued]]. [[b/_bonds|Bonds]] are [[a/_available|available]] in two [[f/_forms|forms]]: [[r/_registered|registered]] [[b/_bonds|bonds]], and [[b/_bearer|bearer]] [[b/_bonds|bonds]].**
-- **A [[d/_documentary|documentary]] [[o/_obligation|obligation]] to [[p/_pay|pay]] a sum or to [[p/_perform|perform]] a [[c/_contract|contract]]; a [[d/_debenture|debenture]].**
+- **A [[d/_documentary|documentary]] [[o/_obligation|obligation]] to [[p/_pay|pay]] a [[s/_sum|sum]] or to [[p/_perform|perform]] a [[c/_contract|contract]]; a [[d/_debenture|debenture]].**
 	- _Example: Investors face a quandary. Cash offers a return of virtually zero in many developed countries; government-bond yields may have risen in recent weeks but they are still unattractive. Equities have suffered two big bear markets since 2000 and are wobbling again. It is hardly surprising that pension funds, insurers and endowments are searching for new sources of return._
 - **A [[p/_partial|partial]] [[p/_payment|payment]] [[m/_made|made]] to [[s/_show|show]] a [[p/_provider|provider]] that the [[c/_customer|customer]] is [[s/_sincere|sincere]] [[a/_about|about]] [[b/_buying|buying]] a [[p/_product|product]] or a [[s/_service|service]]. [[i/_if|If]] the [[p/_product|product]] or [[s/_service|service]] is not [[p/_purchased|purchased]] the [[c/_customer|customer]] then [[f/_forfeits|forfeits]] the [[b/_bond|bond]].**
 - **([[o/_often|often]] in the [[p/_plural|plural]]) A [[p/_physical|physical]] [[c/_connection|connection]] which [[b/_binds|binds]], a [[b/_band|band]].**
@@ -41,7 +41,7 @@
 ---
 #noun
 - **A [[p/_peasant|peasant]]; [[c/_churl|churl]].**
-- **A vassal; [[s/_serf|serf]]; [[o/_one|one]] [[h/_held|held]] in [[b/_bondage|bondage]] to a superior.**
+- **A vassal; [[s/_serf|serf]]; [[o/_one|one]] [[h/_held|held]] in [[b/_bondage|bondage]] to a [[s/_superior|superior]].**
 ---
 #noun
 - **[[i/_imprisonment|Imprisonment]], [[c/_captivity|captivity]]**

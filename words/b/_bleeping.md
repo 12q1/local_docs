@@ -8,6 +8,6 @@
 ### Synonyms
 - [[b/_blip|blip]]
 #adjective
-- **A [[g/_generic|generic]] [[i/_intensifier|intensifier]] which [[c/_can|can]] be substituted for [[a/_any|any]] [[p/_profane|profane]] [[i/_intensifier|intensifier]].**
+- **A [[g/_generic|generic]] [[i/_intensifier|intensifier]] which [[c/_can|can]] be [[s/_substituted|substituted]] for [[a/_any|any]] [[p/_profane|profane]] [[i/_intensifier|intensifier]].**
 ---
 ---

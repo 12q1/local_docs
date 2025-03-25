@@ -13,7 +13,7 @@
 	- _Example: She was laid to rest in the village cemetery._
 - **A [[p/_pause|pause]] of a [[s/_specified|specified]] [[l/_length|length]] in a [[p/_piece|piece]] of [[m/_music|music]].**
 	- _Example: Remember there's a rest at the end of the fourth bar._
-- **A written [[s/_symbol|symbol]] [[i/_indicating|indicating]] such a [[p/_pause|pause]] in a [[m/_musical|musical]] [[s/_score|score]] such as in [[s/_sheet|sheet]] [[m/_music|music]].**
+- **A written [[s/_symbol|symbol]] [[i/_indicating|indicating]] [[s/_such|such]] a [[p/_pause|pause]] in a [[m/_musical|musical]] [[s/_score|score]] [[s/_such|such]] as in [[s/_sheet|sheet]] [[m/_music|music]].**
 - **[[a/_absence|Absence]] of [[m/_motion|motion]].**
 	- _Example: The body's centre of gravity may affect its state of rest._
 - **A [[s/_stick|stick]] with a U-, V- or X-[[s/_shaped|shaped]] [[h/_head|head]] used to support the tip of a [[c/_cue|cue]] when the [[c/_cue|cue]] [[b/_ball|ball]] is [[o/_otherwise|otherwise]] [[o/_out|out]] of [[r/_reach|reach]].**

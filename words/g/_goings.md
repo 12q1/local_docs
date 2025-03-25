@@ -3,7 +3,7 @@
 #noun
 - **A [[d/_departure|departure]].**
 	- _Example: Thy going is not lonely, with thee goes thy Husband_
-- **The suitability of [[g/_ground|ground]] for [[r/_riding|riding]], walking [[e/_etc|etc]].**
+- **The [[s/_suitability|suitability]] of [[g/_ground|ground]] for [[r/_riding|riding]], walking [[e/_etc|etc]].**
 	- _Example: The going was very difficult over the ice._
 - **[[p/_progress|Progress]].**
 	- _Example: We made good going for a while, but then we came to the price._

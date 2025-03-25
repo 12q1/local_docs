@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[i/_illegal|illegal]] [[a/_act|act]] or technique.**
-- **([[p/_plural|plural]], as illegals) [[c/_contraband|Contraband]], [[e/_esp|esp]]. [[i/_illegal|illegal]] substances such as [[d/_drugs|drugs]].**
+- **([[p/_plural|plural]], as illegals) [[c/_contraband|Contraband]], [[e/_esp|esp]]. [[i/_illegal|illegal]] [[s/_substances|substances]] [[s/_such|such]] as [[d/_drugs|drugs]].**
 - **An [[i/_illegal|illegal]] [[i/_immigrant|immigrant]].**
 - **A [[s/_spy|spy]] working [[a/_abroad|abroad]] [[i/_illegally|illegally]] and undercover, without visible ties to [[h/_his|his]] or [[h/_her|her]] [[c/_country|country]]’[[s/_s|s]] [[a/_authorities|authorities]].**
 ---

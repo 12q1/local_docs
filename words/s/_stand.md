@@ -14,7 +14,7 @@
 	- _Example: She took the stand and quietly answered questions._
 - **A [[p/_particular|particular]] [[g/_grove|grove]] or [[o/_other|other]] [[g/_group|group]] of trees or [[s/_shrubs|shrubs]].**
 	- _Example: This stand of pines is older than the one next to it._
-- **A [[c/_contiguous|contiguous]] [[g/_group|group]] of trees sufficiently uniform in [[a/_age|age]]-[[c/_class|class]] [[d/_distribution|distribution]], [[c/_composition|composition]], and [[s/_structure|structure]], and [[g/_growing|growing]] on a [[s/_site|site]] of sufficiently uniform [[q/_quality|quality]], to be a [[d/_distinguishable|distinguishable]] unit.**
+- **A [[c/_contiguous|contiguous]] [[g/_group|group]] of trees [[s/_sufficiently|sufficiently]] uniform in [[a/_age|age]]-[[c/_class|class]] [[d/_distribution|distribution]], [[c/_composition|composition]], and [[s/_structure|structure]], and [[g/_growing|growing]] on a [[s/_site|site]] of [[s/_sufficiently|sufficiently]] uniform [[q/_quality|quality]], to be a [[d/_distinguishable|distinguishable]] unit.**
 - **A [[s/_standstill|standstill]], a [[m/_motionless|motionless]] [[s/_state|state]], as of [[s/_someone|someone]] [[c/_confused|confused]], or a [[h/_hunting|hunting]] [[d/_dog|dog]] who [[h/_has|has]] [[f/_found|found]] [[g/_game|game]].**
 - **A [[s/_small|small]] [[b/_building|building]], [[b/_booth|booth]], or [[s/_stage|stage]], as in a [[b/_bandstand|bandstand]] or [[h/_hamburger|hamburger]] [[s/_stand|stand]].**
 - **A [[d/_designated|designated]] [[s/_spot|spot]] where [[s/_someone|someone]] or [[s/_something|something]] [[m/_may|may]] [[s/_stand|stand]] or wait.**

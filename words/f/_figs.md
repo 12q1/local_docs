@@ -28,7 +28,7 @@
 - **A [[f/_figure|figure]] of [[s/_speech|speech]].**
 - **The [[f/_form|form]] of a [[s/_syllogism|syllogism]] with [[r/_respect|respect]] to the [[r/_relative|relative]] [[p/_position|position]] of the [[m/_middle|middle]] term.**
 - **A [[h/_horoscope|horoscope]]; the [[d/_diagram|diagram]] of the [[a/_aspects|aspects]] of the [[a/_astrological|astrological]] [[h/_houses|houses]].**
-- **[[a/_any|Any]] [[s/_short|short]] succession of [[n/_notes|notes]], [[e/_either|either]] as [[m/_melody|melody]] or as a [[g/_group|group]] of [[c/_chords|chords]], which [[p/_produce|produce]] a [[s/_single|single]] [[c/_complete|complete]] and [[d/_distinct|distinct]] [[i/_impression|impression]].**
+- **[[a/_any|Any]] [[s/_short|short]] [[s/_succession|succession]] of [[n/_notes|notes]], [[e/_either|either]] as [[m/_melody|melody]] or as a [[g/_group|group]] of [[c/_chords|chords]], which [[p/_produce|produce]] a [[s/_single|single]] [[c/_complete|complete]] and [[d/_distinct|distinct]] [[i/_impression|impression]].**
 - **A [[f/_form|form]] of [[m/_melody|melody]] or [[a/_accompaniment|accompaniment]] [[k/_kept|kept]] up through a [[s/_strain|strain]] or [[p/_passage|passage]]; a [[m/_motif|motif]]; a [[f/_florid|florid]] [[e/_embellishment|embellishment]].**
 ---
 ---

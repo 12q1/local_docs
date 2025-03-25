@@ -17,7 +17,7 @@
 - **To [[r/_render|render]] [[p/_physically|physically]] [[p/_possible|possible]].**
 - **To [[p/_praise|praise]]; to [[a/_approve|approve]] of; [[h/_hence|hence]], to [[s/_sanction|sanction]].**
 - **To [[s/_sanction|sanction]]; to [[i/_invest|invest]]; to [[e/_entrust|entrust]].**
-- **To [[l/_like|like]]; to be suited or [[p/_pleased|pleased]] with.**
+- **To [[l/_like|like]]; to be [[s/_suited|suited]] or [[p/_pleased|pleased]] with.**
 ---
 ### Synonyms
 - [[a/_admit|admit]], [[a/_allot|allot]], [[a/_assign|assign]], [[b/_bestow|bestow]], [[c/_concede|concede]], [[l/_let|let]], [[p/_permit|permit]], [[s/_suffer|suffer]], [[t/_tolerate|tolerate]]

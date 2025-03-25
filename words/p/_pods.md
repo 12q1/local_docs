@@ -6,7 +6,7 @@
 - **A [[b/_bag|bag]]; a [[p/_pouch|pouch]].**
 - **([[c/_collective|collective]]) A [[g/_group|group]] of whales, [[d/_dolphins|dolphins]], [[s/_seals|seals]], [[p/_porpoises|porpoises]] or [[h/_hippopotami|hippopotami]].**
 - **A [[s/_small|small]] [[s/_section|section]] of a [[l/_larger|larger]] [[o/_office|office]], compartmentalised for a [[s/_specific|specific]] [[p/_purpose|purpose]].**
-- **A subsection of a [[p/_prison|prison]], [[c/_containing|containing]] a [[n/_number|number]] of [[i/_inmates|inmates]].**
+- **A [[s/_subsection|subsection]] of a [[p/_prison|prison]], [[c/_containing|containing]] a [[n/_number|number]] of [[i/_inmates|inmates]].**
 - **A [[n/_nicotine|nicotine]] [[c/_cartridge|cartridge]].**
 - **A [[l/_lie|lie]]-[[f/_flat|flat]] [[b/_business|business]] or [[f/_first|first]] [[c/_class|class]] [[s/_seat|seat]].**
 ---

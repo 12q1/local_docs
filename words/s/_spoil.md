@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[a/_also|Also]] in [[p/_plural|plural]]: [[s/_spoils|spoils]]) [[p/_plunder|Plunder]] taken from an [[e/_enemy|enemy]] or victim.**
-- **[[m/_material|Material]] (such as [[r/_rock|rock]] or [[e/_earth|earth]]) [[r/_removed|removed]] in the [[c/_course|course]] of an [[e/_excavation|excavation]], or in [[m/_mining|mining]] or [[d/_dredging|dredging]]. Tailings.**
+- **[[m/_material|Material]] ([[s/_such|such]] as [[r/_rock|rock]] or [[e/_earth|earth]]) [[r/_removed|removed]] in the [[c/_course|course]] of an [[e/_excavation|excavation]], or in [[m/_mining|mining]] or [[d/_dredging|dredging]]. Tailings.**
 ---
 ### Synonyms
 - [[g/_gangue|gangue]], [[s/_slag|slag]], [[t/_tailings|tailings]]

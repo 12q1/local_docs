@@ -1,7 +1,7 @@
 # Howler
 ---
 #noun
-- **That which [[h/_howls|howls]], [[e/_especially|especially]] an [[a/_animal|animal]] such as a wolf or a [[h/_howler|howler]] [[m/_monkey|monkey]].**
+- **That which [[h/_howls|howls]], [[e/_especially|especially]] an [[a/_animal|animal]] [[s/_such|such]] as a wolf or a [[h/_howler|howler]] [[m/_monkey|monkey]].**
 - **A [[p/_person|person]] [[h/_hired|hired]] to [[h/_howl|howl]] at a [[f/_funeral|funeral]].**
 - **A [[p/_painfully|painfully]] [[o/_obvious|obvious]] [[m/_mistake|mistake]].**
 - **A [[h/_hilarious|hilarious]] [[j/_joke|joke]].**

@@ -11,7 +11,7 @@
 - **A [[s/_setting|setting]] or [[f/_feature|feature]] in [[e/_electronic|electronic]] [[m/_music|music]] that [[m/_makes|makes]] [[o/_one|one]] voice [[s/_sound|sound]] [[l/_like|like]] [[m/_many|many]].**
 - **A [[g/_group|group]] of [[p/_people|people]] or [[a/_animals|animals]] who [[m/_make|make]] [[s/_sounds|sounds]] together**
 	- _Example: a chorus of crickets_
-- **The [[n/_noise|noise]] [[m/_made|made]] by such a [[g/_group|group]].**
+- **The [[n/_noise|noise]] [[m/_made|made]] by [[s/_such|such]] a [[g/_group|group]].**
 	- _Example: a chorus of shouts and catcalls_
 - **An [[a/_actor|actor]] who [[r/_reads|reads]] the [[o/_opening|opening]] and [[c/_closing|closing]] [[l/_lines|lines]] of a [[p/_play|play]].**
 ---

@@ -1,7 +1,7 @@
 # Jerks
 ---
 #noun
-- **A sudden, [[o/_often|often]] uncontrolled [[m/_movement|movement]], [[e/_especially|especially]] of the [[b/_body|body]].**
+- **A [[s/_sudden|sudden]], [[o/_often|often]] uncontrolled [[m/_movement|movement]], [[e/_especially|especially]] of the [[b/_body|body]].**
 - **A [[q/_quick|quick]], [[o/_often|often]] unpleasant tug or [[s/_shake|shake]].**
 	- _Example: When I yell "OK," give the mooring line a good jerk!_
 - **A [[d/_dull|dull]] or [[s/_stupid|stupid]] [[p/_person|person]].**
@@ -14,16 +14,16 @@
 ### Synonyms
 - [[j/_jolt|jolt]], [[l/_lurch|lurch]], [[s/_surge|surge]], [[y/_yank|yank]], [[n/_numbskull|numbskull]], [[j/_jolt|jolt]], [[j/_jump|jump]], [[l/_lurch|lurch]], [[a/_asshole|asshole]], [[b/_bastard|bastard]], [[d/_dick|dick]], [[g/_git|git]], [[k/_knobhead|knobhead]], [[t/_tosser|tosser]], [[t/_twat|twat]], [[w/_wanker|wanker]]
 #verb
-- **To [[m/_make|make]] a sudden uncontrolled [[m/_movement|movement]].**
+- **To [[m/_make|make]] a [[s/_sudden|sudden]] uncontrolled [[m/_movement|movement]].**
 - **To [[g/_give|give]] a [[q/_quick|quick]], [[o/_often|often]] unpleasant tug or [[s/_shake|shake]].**
 - **To [[m/_masturbate|masturbate]].**
 - **To [[b/_beat|beat]], to [[h/_hit|hit]].**
-- **To throw with a [[q/_quick|quick]] and suddenly [[a/_arrested|arrested]] [[m/_motion|motion]] of the [[h/_hand|hand]].**
+- **To throw with a [[q/_quick|quick]] and [[s/_suddenly|suddenly]] [[a/_arrested|arrested]] [[m/_motion|motion]] of the [[h/_hand|hand]].**
 	- _Example: to jerk a stone_
 - **(usually transitive) To [[l/_lift|lift]] using a [[j/_jerk|jerk]].**
 - **To [[f/_flout|flout]] with [[c/_contempt|contempt]].**
 ---
 #verb
-- **To [[c/_cure|cure]] ([[m/_meat|meat]]) by [[c/_cutting|cutting]] it [[i/_into|into]] [[s/_strips|strips]] and [[d/_drying|drying]] it, [[o/_originally|originally]] in the sun.**
+- **To [[c/_cure|cure]] ([[m/_meat|meat]]) by [[c/_cutting|cutting]] it [[i/_into|into]] [[s/_strips|strips]] and [[d/_drying|drying]] it, [[o/_originally|originally]] in the [[s/_sun|sun]].**
 ---
 ---

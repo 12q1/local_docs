@@ -12,7 +12,7 @@
 - **A [[s/_sanitary|sanitary]] [[n/_napkin|napkin]].**
 - **A [[f/_floating|floating]] [[l/_leaf|leaf]] of a water [[l/_lily|lily]] or [[s/_similar|similar]] [[p/_plant|plant]].**
 - **A [[s/_soft|soft]] [[c/_cover|cover]] for a [[b/_batsman|batsman]]'[[s/_s|s]] [[l/_leg|leg]] that [[p/_protects|protects]] it from [[d/_damage|damage]] when [[h/_hit|hit]] by the [[b/_ball|ball]].**
-- **A [[k/_kind|kind]] of [[c/_cushion|cushion]] for writing upon, or for [[b/_blotting|blotting]], [[e/_especially|especially]] [[o/_one|one]] [[f/_formed|formed]] of [[m/_many|many]] [[f/_flat|flat]] [[s/_sheets|sheets]] of writing [[p/_paper|paper]]; [[n/_now|now]] [[e/_especially|especially]] such a [[b/_block|block]] of [[p/_paper|paper]] [[s/_sheets|sheets]] as used to write on.**
+- **A [[k/_kind|kind]] of [[c/_cushion|cushion]] for writing upon, or for [[b/_blotting|blotting]], [[e/_especially|especially]] [[o/_one|one]] [[f/_formed|formed]] of [[m/_many|many]] [[f/_flat|flat]] [[s/_sheets|sheets]] of writing [[p/_paper|paper]]; [[n/_now|now]] [[e/_especially|especially]] [[s/_such|such]] a [[b/_block|block]] of [[p/_paper|paper]] [[s/_sheets|sheets]] as used to write on.**
 - **A [[p/_panel|panel]] or [[s/_strip|strip]] of [[m/_material|material]] [[d/_designed|designed]] to be [[s/_sensitive|sensitive]] to [[p/_pressure|pressure]] or touch.**
 - **A [[k/_keypad|keypad]].**
 - **A [[f/_flat|flat]] surface or [[a/_area|area]] from which a [[h/_helicopter|helicopter]] or [[o/_other|other]] [[a/_aircraft|aircraft]] [[m/_may|may]] [[l/_land|land]] or be [[l/_launched|launched]].**
@@ -20,7 +20,7 @@
 - **The [[e/_effect|effect]] [[p/_produced|produced]] by sustained [[l/_lower|lower]] [[r/_reed|reed]] [[n/_notes|notes]] in a [[m/_musical|musical]] [[p/_piece|piece]], [[m/_most|most]] [[c/_common|common]] in [[b/_blues|blues]] [[m/_music|music]].**
 - **A [[s/_synthesizer|synthesizer]] [[i/_instrument|instrument]] [[s/_sound|sound]] used for sustained [[b/_background|background]] [[s/_sounds|sounds]].**
 - **A [[b/_bed|bed]].**
-- **A [[s/_small|small]] [[h/_house|house]], [[a/_apartment|apartment]], or [[m/_mobile|mobile]] [[h/_home|home]] [[o/_occupied|occupied]] by a [[s/_single|single]] [[p/_person|person]]; such as a [[b/_bachelor|bachelor]], [[p/_playboy|playboy]], [[e/_etc|etc]].**
+- **A [[s/_small|small]] [[h/_house|house]], [[a/_apartment|apartment]], or [[m/_mobile|mobile]] [[h/_home|home]] [[o/_occupied|occupied]] by a [[s/_single|single]] [[p/_person|person]]; [[s/_such|such]] as a [[b/_bachelor|bachelor]], [[p/_playboy|playboy]], [[e/_etc|etc]].**
 - **A [[p/_prison|prison]] [[c/_cell|cell]].**
 - **A [[r/_random|random]] [[k/_key|key]] ([[o/_originally|originally]] written on a [[d/_disposable|disposable]] [[p/_pad|pad]]) of the [[s/_same|same]] [[l/_length|length]] as the [[p/_plaintext|plaintext]].**
 - **A mousepad.**

@@ -7,7 +7,7 @@
 	- _Example: The arm and forearm are parts of the upper limb in the human body._
 - **A [[l/_limb|limb]], or [[l/_locomotive|locomotive]] or [[p/_prehensile|prehensile]] [[o/_organ|organ]], of an [[i/_invertebrate|invertebrate]] [[a/_animal|animal]].**
 	- _Example: the arms of an octopus_
-- **A [[l/_long|long]], [[n/_narrow|narrow]], [[m/_more|more]] or [[l/_less|less]] [[r/_rigid|rigid]] [[p/_part|part]] of an [[o/_object|object]] [[e/_extending|extending]] from the [[m/_main|main]] [[p/_part|part]] or [[c/_centre|centre]] of the [[o/_object|object]], such as the [[a/_arm|arm]] of an [[a/_armchair|armchair]], a [[c/_crane|crane]], a [[p/_pair|pair]] of [[s/_spectacles|spectacles]] or a [[p/_pair|pair]] of [[c/_compasses|compasses]].**
+- **A [[l/_long|long]], [[n/_narrow|narrow]], [[m/_more|more]] or [[l/_less|less]] [[r/_rigid|rigid]] [[p/_part|part]] of an [[o/_object|object]] [[e/_extending|extending]] from the [[m/_main|main]] [[p/_part|part]] or [[c/_centre|centre]] of the [[o/_object|object]], [[s/_such|such]] as the [[a/_arm|arm]] of an [[a/_armchair|armchair]], a [[c/_crane|crane]], a [[p/_pair|pair]] of [[s/_spectacles|spectacles]] or a [[p/_pair|pair]] of [[c/_compasses|compasses]].**
 	- _Example: The robot arm reached out and placed the part on the assembly line._
 - **A [[b/_bay|bay]] or [[i/_inlet|inlet]] [[o/_off|off]] a [[m/_main|main]] [[b/_body|body]] of water.**
 	- _Example: Shelburne Bay is an arm of Lake Champlain._

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[a/_abash|abash]]
 #adjective
-- **Subjected to [[i/_intimidation|intimidation]].**
+- **[[s/_subjected|Subjected]] to [[i/_intimidation|intimidation]].**
 ---
 ---

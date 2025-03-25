@@ -8,16 +8,16 @@
 - **A tuning [[f/_fork|fork]].**
 - **An [[i/_intersection|intersection]] in a [[r/_road|road]] or [[p/_path|path]] where [[o/_one|one]] [[r/_road|road]] is [[s/_split|split]] [[i/_into|into]] two.**
 - **[[o/_one|One]] of the [[p/_parts|parts]] [[i/_into|into]] which [[a/_anything|anything]] is [[f/_furcated|furcated]] or [[d/_divided|divided]]; a [[p/_prong|prong]]; a [[b/_branch|branch]] of a [[s/_stream|stream]], a [[r/_road|road]], [[e/_etc|etc]].; a [[b/_barbed|barbed]] [[p/_point|point]], as of an [[a/_arrow|arrow]].**
-- **A [[p/_point|point]] where a waterway, such as a [[r/_river|river]], [[s/_splits|splits]] and [[g/_goes|goes]] two (or [[m/_more|more]]) [[d/_different|different]] [[d/_directions|directions]].**
+- **A [[p/_point|point]] where a waterway, [[s/_such|such]] as a [[r/_river|river]], [[s/_splits|splits]] and [[g/_goes|goes]] two (or [[m/_more|more]]) [[d/_different|different]] [[d/_directions|directions]].**
 - **Used in the [[n/_names|names]] of [[s/_some|some]] [[r/_river|river]] tributaries.**
 	- _Example: West Fork White River and East Fork White River join together to form the White River of Indiana._
 - **A [[p/_point|point]] in time where [[o/_one|one]] [[h/_has|has]] to [[m/_make|make]] a [[d/_decision|decision]] [[b/_between|between]] two [[l/_life|life]] [[p/_paths|paths]].**
 - **The [[s/_simultaneous|simultaneous]] [[a/_attack|attack]] of two [[a/_adversary|adversary]] [[p/_pieces|pieces]] with [[o/_one|one]] [[s/_single|single]] [[a/_attacking|attacking]] [[p/_piece|piece]] ([[e/_especially|especially]] a [[k/_knight|knight]]).**
 - **A [[s/_splitting|splitting]]-up of an [[e/_existing|existing]] [[p/_process|process]] [[i/_into|into]] [[i/_itself|itself]] and a [[c/_child|child]] [[p/_process|process]] [[e/_executing|executing]] [[p/_parts|parts]] of the [[s/_same|same]] [[p/_program|program]].**
 - **The [[s/_splitting|splitting]] of a [[s/_software|software]] [[d/_development|development]] [[e/_effort|effort]] [[i/_into|into]] two or [[m/_more|more]] [[s/_separate|separate]] [[p/_projects|projects]], [[e/_especially|especially]] in [[f/_free|free]] and [[o/_open|open]]-[[s/_source|source]] [[s/_software|software]].**
-- **[[a/_any|Any]] of the [[s/_software|software]] [[p/_projects|projects]] [[r/_resulting|resulting]] from such a [[s/_split|split]].**
+- **[[a/_any|Any]] of the [[s/_software|software]] [[p/_projects|projects]] [[r/_resulting|resulting]] from [[s/_such|such]] a [[s/_split|split]].**
 	- _Example: LibreOffice is a fork of OpenOffice._
-- **(cryptocurrency, by [[e/_extension|extension]]) A [[s/_split|split]] in a blockchain [[r/_resulting|resulting]] from [[p/_protocol|protocol]] [[d/_disagreements|disagreements]], or a [[b/_branch|branch]] of the blockchain [[r/_resulting|resulting]] from such a [[s/_split|split]].**
+- **(cryptocurrency, by [[e/_extension|extension]]) A [[s/_split|split]] in a blockchain [[r/_resulting|resulting]] from [[p/_protocol|protocol]] [[d/_disagreements|disagreements]], or a [[b/_branch|branch]] of the blockchain [[r/_resulting|resulting]] from [[s/_such|such]] a [[s/_split|split]].**
 - **The [[c/_crotch|crotch]].**
 - **A [[f/_forklift|forklift]].**
 	- _Example: Are you qualified to drive a fork?_

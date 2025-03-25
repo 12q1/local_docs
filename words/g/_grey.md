@@ -7,7 +7,7 @@
 	- _Example: The room was red, with a dark-colored rug._
 - **[[h/_having|Having]] [[p/_prominent|prominent]] [[c/_colors|colors]]; [[c/_colorful|colorful]].**
 	- _Example: The singer wore a colored shirt._
-- **[[i/_influenced|Influenced]] [[p/_pervasively|pervasively]] but subtly.**
+- **[[i/_influenced|Influenced]] [[p/_pervasively|pervasively]] but [[s/_subtly|subtly]].**
 	- _Example: My opinions are colored by my upbringing._
 - **Of [[s/_skin|skin]] [[c/_color|color]] [[o/_other|other]] than white; in [[p/_particular|particular]], [[b/_black|black]].**
 - **Of [[n/_neither|neither]] [[b/_black|black]] [[n/_nor|nor]] white [[s/_skin|skin]] [[c/_color|color]].**
@@ -17,7 +17,7 @@
 ---
 #noun
 - **An [[a/_achromatic|achromatic]] [[c/_colour|colour]] [[i/_intermediate|intermediate]] [[b/_between|between]] [[b/_black|black]] and white.**
-- **An [[a/_animal|animal]] or thing of [[g/_grey|grey]] [[c/_colour|colour]], such as a [[h/_horse|horse]], [[b/_badger|badger]], or [[s/_salmon|salmon]].**
+- **An [[a/_animal|animal]] or thing of [[g/_grey|grey]] [[c/_colour|colour]], [[s/_such|such]] as a [[h/_horse|horse]], [[b/_badger|badger]], or [[s/_salmon|salmon]].**
 - **An [[e/_extraterrestrial|extraterrestrial]] [[h/_humanoid|humanoid]] with [[g/_greyish|greyish]] [[s/_skin|skin]], [[b/_bulbous|bulbous]] [[b/_black|black]] [[e/_eyes|eyes]], and an [[e/_enlarged|enlarged]] [[h/_head|head]].**
 ---
 #verb

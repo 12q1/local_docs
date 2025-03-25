@@ -22,7 +22,7 @@
 - **To [[m/_make|make]] a [[c/_call|call]] that will [[d/_double|double]] [[c/_certain|certain]] [[s/_scoring|scoring]] [[p/_points|points]] [[i/_if|if]] the [[p/_preceding|preceding]] [[b/_bid|bid]] [[b/_becomes|becomes]] the [[c/_contract|contract]].**
 - **To [[d/_double|double]] [[d/_down|down]].**
 - **To [[c/_cause|cause]] (a [[b/_ball|ball]]) to [[r/_rebound|rebound]] from a [[c/_cushion|cushion]] [[b/_before|before]] [[e/_entering|entering]] the [[p/_pocket|pocket]].**
-- **([[f/_followed|followed]] by for) To [[a/_act|act]] as substitute.**
+- **([[f/_followed|followed]] by for) To [[a/_act|act]] as [[s/_substitute|substitute]].**
 - **To [[g/_go|go]] or [[m/_march|march]] at twice the [[n/_normal|normal]] [[s/_speed|speed]].**
 - **To [[m/_multiply|multiply]] the [[s/_strength|strength]] or [[e/_effect|effect]] of by two.**
 	- _Example: Sorry, this store does not double coupons._

@@ -4,7 +4,7 @@
 - **[[o/_one|One]] who willingly [[a/_accepts|accepts]] [[b/_being|being]] [[p/_put|put]] to [[d/_death|death]] for [[a/_adhering|adhering]] [[o/_openly|openly]] to [[o/_one|one]]'[[s/_s|s]] [[r/_religious|religious]] [[b/_beliefs|beliefs]]; [[n/_notably|notably]], [[s/_saints|saints]] [[c/_canonized|canonized]] [[a/_after|after]] [[m/_martyrdom|martyrdom]].**
 	- _Example: Saint Stephen was the first Christian martyr._
 - **(by [[e/_extension|extension]]) [[o/_one|One]] who [[s/_sacrifices|sacrifices]] [[h/_his|his]] or [[h/_her|her]] [[l/_life|life]], [[s/_station|station]], or [[s/_something|something]] of [[g/_great|great]] [[p/_personal|personal]] value, for the [[s/_sake|sake]] of [[p/_principle|principle]] or to sustain a [[c/_cause|cause]].**
-- **(with a [[p/_prepositional|prepositional]] [[p/_phrase|phrase]] of [[c/_cause|cause]]) [[o/_one|One]] who suffers [[g/_greatly|greatly]] and/or [[c/_constantly|constantly]], [[e/_even|even]] [[i/_involuntarily|involuntarily]].**
+- **(with a [[p/_prepositional|prepositional]] [[p/_phrase|phrase]] of [[c/_cause|cause]]) [[o/_one|One]] who [[s/_suffers|suffers]] [[g/_greatly|greatly]] and/or [[c/_constantly|constantly]], [[e/_even|even]] [[i/_involuntarily|involuntarily]].**
 	- _Example: Stan is a martyr to arthritis, Chris a martyr to Stan's endless moaning about it._
 ---
 ### Synonyms

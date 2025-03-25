@@ -1,8 +1,8 @@
 # Brash
 ---
 #noun
-- **A [[r/_rash|rash]] or [[e/_eruption|eruption]]; a sudden or transient [[f/_fit|fit]] of [[s/_sickness|sickness]].**
-- **A sudden [[b/_burst|burst]] of [[r/_rain|rain]].**
+- **A [[r/_rash|rash]] or [[e/_eruption|eruption]]; a [[s/_sudden|sudden]] or transient [[f/_fit|fit]] of [[s/_sickness|sickness]].**
+- **A [[s/_sudden|sudden]] [[b/_burst|burst]] of [[r/_rain|rain]].**
 - **An [[a/_attack|attack]] or [[a/_assault|assault]].**
 ---
 #verb

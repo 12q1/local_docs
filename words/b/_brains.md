@@ -21,8 +21,8 @@
 - **To [[c/_conceive|conceive]] in the [[m/_mind|mind]]; to understand.**
 ---
 #noun
-- **The substance of a [[b/_brain|brain]] as a [[m/_material|material]] or [[f/_foodstuff|foodstuff]].**
-- **The [[f/_figurative|figurative]] substance of a [[b/_brain|brain]]: [[m/_mental|mental]] [[a/_ability|ability]], [[i/_intelligence|intelligence]].**
+- **The [[s/_substance|substance]] of a [[b/_brain|brain]] as a [[m/_material|material]] or [[f/_foodstuff|foodstuff]].**
+- **The [[f/_figurative|figurative]] [[s/_substance|substance]] of a [[b/_brain|brain]]: [[m/_mental|mental]] [[a/_ability|ability]], [[i/_intelligence|intelligence]].**
 	- _Example: Sadly, I got my brains from my mom and my looks from the mailman._
 - **(with 'the') The [[i/_intelligent|intelligent]] [[p/_person|person]] or [[p/_people|people]] in a [[g/_group|group]]: the [[d/_director|director]], [[p/_planner|planner]], [[a/_administrator|administrator]], &[[c/_c|c]].**
 	- _Example: Who's the brains behind this operation?_

@@ -1,7 +1,7 @@
 # Seemly
 ---
 #adjective
-- **(of [[b/_behavior|behavior]]) [[a/_appropriate|Appropriate]]; suited to the [[o/_occasion|occasion]] or [[p/_purpose|purpose]]; [[b/_becoming|becoming]].**
+- **(of [[b/_behavior|behavior]]) [[a/_appropriate|Appropriate]]; [[s/_suited|suited]] to the [[o/_occasion|occasion]] or [[p/_purpose|purpose]]; [[b/_becoming|becoming]].**
 	- _Example: His behavior was seemly, as befits a gentleman._
 ---
 ### Synonyms

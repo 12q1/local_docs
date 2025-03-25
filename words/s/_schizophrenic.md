@@ -1,7 +1,7 @@
 # Schizophrenic
 ---
 #noun
-- **A [[p/_person|person]] suffering from [[s/_schizophrenia|schizophrenia]].**
+- **A [[p/_person|person]] [[s/_suffering|suffering]] from [[s/_schizophrenia|schizophrenia]].**
 ---
 #adjective
 - **Of or [[r/_relating|relating]] to [[s/_schizophrenia|schizophrenia]].**

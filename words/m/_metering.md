@@ -3,7 +3,7 @@
 #verb
 - **To [[m/_measure|measure]] with a [[m/_metering|metering]] [[d/_device|device]].**
 - **To [[i/_imprint|imprint]] a [[p/_postage|postage]] [[m/_mark|mark]] with a [[p/_postage|postage]] [[m/_meter|meter]].**
-- **To [[r/_regulate|regulate]] the [[f/_flow|flow]] of or to [[d/_deliver|deliver]] in [[r/_regulated|regulated]] [[a/_amounts|amounts]] (usually of [[f/_fluids|fluids]] but [[s/_sometimes|sometimes]] of [[o/_other|other]] things such as [[a/_anticipation|anticipation]] or [[b/_breath|breath]]).**
+- **To [[r/_regulate|regulate]] the [[f/_flow|flow]] of or to [[d/_deliver|deliver]] in [[r/_regulated|regulated]] [[a/_amounts|amounts]] (usually of [[f/_fluids|fluids]] but [[s/_sometimes|sometimes]] of [[o/_other|other]] things [[s/_such|such]] as [[a/_anticipation|anticipation]] or [[b/_breath|breath]]).**
 ---
 #noun
 - **The [[p/_process|process]] of [[m/_marking|marking]] a [[s/_stamp|stamp]] with a [[m/_meter|meter]]**

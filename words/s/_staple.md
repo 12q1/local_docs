@@ -1,7 +1,7 @@
 # Staple
 ---
 #noun
-- **A town [[c/_containing|containing]] [[m/_merchants|merchants]] who [[h/_have|have]] [[e/_exclusive|exclusive]] [[r/_right|right]], under [[r/_royal|royal]] [[a/_authority|authority]], to [[p/_purchase|purchase]] or [[p/_produce|produce]] [[c/_certain|certain]] [[g/_goods|goods]] for [[e/_export|export]]; [[a/_also|also]], the [[b/_body|body]] of such [[m/_merchants|merchants]] [[s/_seen|seen]] as a [[g/_group|group]].**
+- **A town [[c/_containing|containing]] [[m/_merchants|merchants]] who [[h/_have|have]] [[e/_exclusive|exclusive]] [[r/_right|right]], under [[r/_royal|royal]] [[a/_authority|authority]], to [[p/_purchase|purchase]] or [[p/_produce|produce]] [[c/_certain|certain]] [[g/_goods|goods]] for [[e/_export|export]]; [[a/_also|also]], the [[b/_body|body]] of [[s/_such|such]] [[m/_merchants|merchants]] [[s/_seen|seen]] as a [[g/_group|group]].**
 - **(by [[e/_extension|extension]]) [[p/_place|Place]] of supply; [[s/_source|source]].**
 - **The [[p/_principal|principal]] [[c/_commodity|commodity]] [[p/_produced|produced]] in a town or [[r/_region|region]].**
 - **A [[b/_basic|basic]] or [[e/_essential|essential]] supply.**

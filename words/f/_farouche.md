@@ -1,6 +1,6 @@
 # Farouche
 ---
 #adjective
-- **Sullen or [[r/_recalcitrant|recalcitrant]].**
+- **[[s/_sullen|Sullen]] or [[r/_recalcitrant|recalcitrant]].**
 ---
 ---

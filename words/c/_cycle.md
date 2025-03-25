@@ -6,14 +6,14 @@
 - **A [[c/_complete|complete]] [[r/_rotation|rotation]] of [[a/_anything|anything]].**
 - **A [[p/_process|process]] that [[r/_returns|returns]] to [[i/_its|its]] [[b/_beginning|beginning]] and then [[r/_repeats|repeats]] [[i/_itself|itself]] in the [[s/_same|same]] [[s/_sequence|sequence]].**
 	- _Example: electoral cycle_
-- **The [[m/_members|members]] of the [[s/_sequence|sequence]] [[f/_formed|formed]] by such a [[p/_process|process]].**
+- **The [[m/_members|members]] of the [[s/_sequence|sequence]] [[f/_formed|formed]] by [[s/_such|such]] a [[p/_process|process]].**
 - **In [[m/_musical|musical]] [[s/_set|set]] theory, an [[i/_interval|interval]] [[c/_cycle|cycle]] is the [[s/_set|set]] of [[p/_pitch|pitch]] [[c/_classes|classes]] [[r/_resulting|resulting]] from [[r/_repeatedly|repeatedly]] [[a/_applying|applying]] the [[s/_same|same]] [[i/_interval|interval]] [[c/_class|class]] to the [[s/_starting|starting]] [[p/_pitch|pitch]] [[c/_class|class]].**
 	- _Example: The interval cycle C4 consists of the pitch classes 0, 4 and 8; when starting on E, it is realised as the pitches E, G# and C._
 - **A [[s/_series|series]] of [[p/_poems|poems]], [[s/_songs|songs]] or [[o/_other|other]] works of [[a/_art|art]].**
 	- _Example: The "Ring of the Nibelung" is a cycle of four operas by Richard Wagner._
-- **A [[p/_programme|programme]] on a washing [[m/_machine|machine]], [[d/_dishwasher|dishwasher]], or [[o/_other|other]] such [[d/_device|device]].**
+- **A [[p/_programme|programme]] on a washing [[m/_machine|machine]], [[d/_dishwasher|dishwasher]], or [[o/_other|other]] [[s/_such|such]] [[d/_device|device]].**
 	- _Example: Put the washing in on a warm cycle._
-- **A [[p/_pedal|pedal]]-[[p/_powered|powered]] vehicle, such as a unicycle, [[b/_bicycle|bicycle]], or tricycle, or a [[m/_motorized|motorized]] vehicle that [[h/_has|has]] [[e/_either|either]] two or three wheels.**
+- **A [[p/_pedal|pedal]]-[[p/_powered|powered]] vehicle, [[s/_such|such]] as a unicycle, [[b/_bicycle|bicycle]], or tricycle, or a [[m/_motorized|motorized]] vehicle that [[h/_has|has]] [[e/_either|either]] two or three wheels.**
 - **A [[s/_single|single]], a [[d/_double|double]], a triple, and a [[h/_home|home]] [[r/_run|run]] [[h/_hit|hit]] by the [[s/_same|same]] [[p/_player|player]] in the [[s/_same|same]] [[g/_game|game]].**
 	- _Example: Jones hit for the cycle in the game._
 - **A [[c/_closed|closed]] walk or [[p/_path|path]], with or without [[r/_repeated|repeated]] vertices [[a/_allowed|allowed]].**

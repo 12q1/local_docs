@@ -1,7 +1,7 @@
 # Banging
 ---
 #verb
-- **To [[m/_make|make]] sudden [[l/_loud|loud]] [[n/_noises|noises]], and [[o/_often|often]] [[r/_repeatedly|repeatedly]], [[e/_especially|especially]] by [[e/_exploding|exploding]] or [[h/_hitting|hitting]] [[s/_something|something]].**
+- **To [[m/_make|make]] [[s/_sudden|sudden]] [[l/_loud|loud]] [[n/_noises|noises]], and [[o/_often|often]] [[r/_repeatedly|repeatedly]], [[e/_especially|especially]] by [[e/_exploding|exploding]] or [[h/_hitting|hitting]] [[s/_something|something]].**
 	- _Example: My head was banging after drinking all night at the concert._
 - **To [[h/_hit|hit]] [[h/_hard|hard]].**
 	- _Example: David and Mary banged into each other._

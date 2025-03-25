@@ -5,10 +5,10 @@
 	- _Example: What is all that stuff on your bedroom floor?  He didn't want his pockets to bulge so he was walking around with all his stuff in his hands._
 - **Unspecified things or [[m/_matters|matters]].**
 	- _Example: I had to do some stuff._
-- **The tangible substance that [[g/_goes|goes]] [[i/_into|into]] the [[m/_makeup|makeup]] of a [[p/_physical|physical]] [[o/_object|object]].**
+- **The tangible [[s/_substance|substance]] that [[g/_goes|goes]] [[i/_into|into]] the [[m/_makeup|makeup]] of a [[p/_physical|physical]] [[o/_object|object]].**
 - **A [[m/_material|material]] for [[m/_making|making]] [[c/_clothing|clothing]]; [[a/_any|any]] woven textile, but [[e/_especially|especially]] a woollen [[f/_fabric|fabric]].**
 - **[[b/_boards|Boards]] used for [[b/_building|building]].**
-- **[[a/_abstract|Abstract]] substance or [[c/_character|character]].**
+- **[[a/_abstract|Abstract]] [[s/_substance|substance]] or [[c/_character|character]].**
 - **Used as [[p/_placeholder|placeholder]], usually for [[m/_material|material]] of unknown type or [[n/_name|name]].**
 	- _Example: Can I have some of that stuff on my ice-cream sundae?_
 - **[[n/_narcotic|Narcotic]] [[d/_drugs|drugs]], [[e/_especially|especially]] [[h/_heroin|heroin]].**

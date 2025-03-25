@@ -8,7 +8,7 @@
 - **To [[s/_sell|sell]] [[h/_horses|horses]] [[f/_fraudulently|fraudulently]], [[e/_exaggerating|exaggerating]] their [[m/_merits|merits]].**
 ---
 #noun
-- **[[s/_singing|Singing]], [[e/_especially|especially]] as a [[c/_chant|chant]] is sung.**
+- **[[s/_singing|Singing]], [[e/_especially|especially]] as a [[c/_chant|chant]] is [[s/_sung|sung]].**
 	- _Example: I remember much chanting in church during my childhood._
 ---
 ---

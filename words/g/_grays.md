@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_achromatic|achromatic]] [[c/_colour|colour]] [[i/_intermediate|intermediate]] [[b/_between|between]] [[b/_black|black]] and white.**
-- **An [[a/_animal|animal]] or thing of [[g/_grey|grey]] [[c/_colour|colour]], such as a [[h/_horse|horse]], [[b/_badger|badger]], or [[s/_salmon|salmon]].**
+- **An [[a/_animal|animal]] or thing of [[g/_grey|grey]] [[c/_colour|colour]], [[s/_such|such]] as a [[h/_horse|horse]], [[b/_badger|badger]], or [[s/_salmon|salmon]].**
 - **An [[e/_extraterrestrial|extraterrestrial]] [[h/_humanoid|humanoid]] with [[g/_grayish|grayish]] [[s/_skin|skin]], [[b/_bulbous|bulbous]] [[b/_black|black]] [[e/_eyes|eyes]], and an [[e/_enlarged|enlarged]] [[h/_head|head]].**
 - **A [[p/_penny|penny]] with a tail on [[b/_both|both]] [[s/_sides|sides]], used for [[c/_cheating|cheating]].**
 ---

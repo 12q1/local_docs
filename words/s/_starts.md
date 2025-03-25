@@ -3,7 +3,7 @@
 #noun
 - **The [[b/_beginning|beginning]] of an [[a/_activity|activity]].**
 	- _Example: The movie was entertaining from start to finish._
-- **A sudden [[i/_involuntary|involuntary]] [[m/_movement|movement]].**
+- **A [[s/_sudden|sudden]] [[i/_involuntary|involuntary]] [[m/_movement|movement]].**
 	- _Example: He woke with a start._
 - **The [[b/_beginning|beginning]] [[p/_point|point]] of a [[r/_race|race]], a [[b/_board|board]] [[g/_game|game]], [[e/_etc|etc]].**
 	- _Example: Captured pieces are returned to the start of the board._
@@ -19,7 +19,7 @@
 	- _Example: The rain started at 9:00._
 - **To [[h/_have|have]] [[i/_its|its]] [[o/_origin|origin]] (at), [[b/_begin|begin]].**
 	- _Example: The blue line starts one foot away from the wall._
-- **To [[s/_startle|startle]] or be [[s/_startled|startled]]; to [[m/_move|move]] or be [[m/_moved|moved]] suddenly.**
+- **To [[s/_startle|startle]] or be [[s/_startled|startled]]; to [[m/_move|move]] or be [[m/_moved|moved]] [[s/_suddenly|suddenly]].**
 - **To [[b/_break|break]] [[a/_away|away]], to [[c/_come|come]] [[l/_loose|loose]].**
 - **To [[p/_put|put]] [[i/_into|into]] [[p/_play|play]].**
 - **To [[p/_pour|pour]] [[o/_out|out]]; to [[e/_empty|empty]]; to tap and [[b/_begin|begin]] [[d/_drawing|drawing]] from.**

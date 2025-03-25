@@ -6,7 +6,7 @@
 	- _Example: Bartenders usually know their regulars by name._
 - **A [[f/_frequent|frequent]] [[c/_customer|customer]], [[c/_client|client]] or [[b/_business|business]] [[p/_partner|partner]].**
 	- _Example: This gentleman was one of the architect's regulars._
-- **A [[c/_coffee|coffee]] with [[o/_one|one]] [[c/_cream|cream]] and [[o/_one|one]] sugar.**
+- **A [[c/_coffee|coffee]] with [[o/_one|one]] [[c/_cream|cream]] and [[o/_one|one]] [[s/_sugar|sugar]].**
 - **[[a/_anything|Anything]] that is [[n/_normal|normal]] or [[s/_standard|standard]].**
 - **A [[m/_member|member]] of a [[r/_religious|religious]] [[o/_order|order]] who [[h/_has|has]] taken the three [[o/_ordinary|ordinary]] vows.**
 - **A [[n/_number|number]] for [[e/_each|each]] [[y/_year|year]], [[g/_giving|giving]], [[a/_added|added]] to the concurrents, the [[n/_number|number]] of the [[d/_day|day]] of the week on which the [[p/_paschal|Paschal]] [[f/_full|full]] [[m/_moon|moon]] [[f/_falls|falls]].**
@@ -38,7 +38,7 @@
 	- _Example: a regular flower; a regular sea urchin_
 - **[[i/_isometric|Isometric]].**
 - **[[r/_riding|Riding]] with the [[l/_left|left]] [[f/_foot|foot]] [[f/_forward|forward]].**
-- **(of a [[b/_borel|Borel]] [[m/_measure|measure]]) Such that [[e/_every|every]] [[s/_set|set]] in [[i/_its|its]] [[d/_domain|domain]] is [[b/_both|both]] [[o/_outer|outer]] [[r/_regular|regular]] and [[i/_inner|inner]] [[r/_regular|regular]].**
+- **(of a [[b/_borel|Borel]] [[m/_measure|measure]]) [[s/_such|Such]] that [[e/_every|every]] [[s/_set|set]] in [[i/_its|its]] [[d/_domain|domain]] is [[b/_both|both]] [[o/_outer|outer]] [[r/_regular|regular]] and [[i/_inner|inner]] [[r/_regular|regular]].**
 ---
 ### Synonyms
 - [[a/_absolute|absolute]], [[t/_thorough|thorough]], [[u/_unalloyed|unalloyed]], [[b/_basic|basic]], [[c/_common|common]], [[u/_unremarkable|unremarkable]], [[c/_chaotic|chaotic]], [[r/_ruly|ruly]], [[t/_tidy|tidy]], [[t/_tumultuous|tumultuous]], [[c/_cyclical|cyclical]], [[f/_frequent|frequent]], [[d/_decent|decent]], [[s/_seemly|seemly]], [[w/_well-mannered|well-mannered]], [[e/_equable|equable]], [[u/_uniform|uniform]], [[u/_unvarying|unvarying]], [[w/_weak|weak]]

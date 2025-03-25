@@ -14,7 +14,7 @@
 #adjective
 - **[[p/_parallel|Parallel]], [[a/_along|along]] the [[s/_same|same]] vein, [[s/_side|side]] by [[s/_side|side]].**
 - **[[c/_corresponding|Corresponding]]; [[a/_accompanying|accompanying]], [[c/_concomitant|concomitant]].**
-- **[[b/_being|Being]] [[a/_aside|aside]] from the [[m/_main|main]] subject, target, or [[g/_goal|goal]].**
+- **[[b/_being|Being]] [[a/_aside|aside]] from the [[m/_main|main]] [[s/_subject|subject]], target, or [[g/_goal|goal]].**
 	- _Example: Although not a direct cause, the border skirmish was certainly a collateral incitement for the war._
 - **([[g/_genealogy|genealogy]]) Of an [[i/_indirect|indirect]] [[a/_ancestral|ancestral]] [[r/_relationship|relationship]], as [[o/_opposed|opposed]] to [[l/_lineal|lineal]] descendency.**
 	- _Example: Uncles, aunts, cousins, nephews and nieces are collateral relatives._

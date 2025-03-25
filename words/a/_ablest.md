@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[e/_easy|Easy]] to use.**
-- **Suitable; [[c/_competent|competent]].**
+- **[[s/_suitable|Suitable]]; [[c/_competent|competent]].**
 - **[[l/_liable|Liable]] to.**
 - **[[h/_having|Having]] the [[n/_necessary|necessary]] [[p/_powers|powers]] or the [[n/_needed|needed]] [[r/_resources|resources]] to [[a/_accomplish|accomplish]] a task.**
 - **[[f/_free|Free]] from [[c/_constraints|constraints]] [[p/_preventing|preventing]] [[c/_completion|completion]] of task; [[p/_permitted|permitted]] to; not [[p/_prevented|prevented]] from.**

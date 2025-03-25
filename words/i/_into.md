@@ -7,7 +7,7 @@
 	- _Example: The eagle flew off into the wide blue sky._
 - **[[a/_against|Against]], [[e/_especially|especially]] with [[f/_force|force]] or violence.**
 	- _Example: I wasn't careful, and walked into a wall_
-- **[[i/_indicates|Indicates]] transition [[i/_into|into]] [[a/_another|another]] [[f/_form|form]] or substance.**
+- **[[i/_indicates|Indicates]] transition [[i/_into|into]] [[a/_another|another]] [[f/_form|form]] or [[s/_substance|substance]].**
 	- _Example: I carved the piece of driftwood into a sculpture of a whale._
 - **[[a/_after|After]] the [[s/_start|start]] of.**
 	- _Example: About 20 minutes into the flight, the pilot reported a fire on board._
@@ -17,7 +17,7 @@
 	- _Example: Five into three is fifteen._
 - **[[e/_expressing|Expressing]] the [[o/_operation|operation]] of [[d/_division|division]], with the [[d/_denominator|denominator]] [[g/_given|given]] [[f/_first|first]]. Usually with "[[g/_goes|goes]]".**
 	- _Example: 24 goes into 48 how many times?_
-- **[[i/_investigating|Investigating]] the subject (of).**
+- **[[i/_investigating|Investigating]] the [[s/_subject|subject]] (of).**
 	- _Example: There have been calls for research into the pesticides that are blamed for the decline in bee populations._
 ---
 ---

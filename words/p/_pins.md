@@ -9,7 +9,7 @@
 - **A [[c/_cylinder|cylinder]] [[o/_often|often]] of wood or [[m/_metal|metal]] used to [[f/_fasten|fasten]] or as a [[b/_bearing|bearing]] [[b/_between|between]] two [[p/_parts|parts]].**
 	- _Example: Pull the pin out of the grenade before throwing it at the enemy._
 - **The victory [[c/_condition|condition]] of [[h/_holding|holding]] the [[o/_opponent|opponent]]'[[s/_s|s]] [[s/_shoulders|shoulders]] on the wrestling [[m/_mat|mat]] for a [[p/_prescribed|prescribed]] [[p/_period|period]] of time.**
-- **A [[s/_slender|slender]] [[o/_object|object]] [[s/_specially|specially]] [[d/_designed|designed]] for use in a [[s/_specific|specific]] [[g/_game|game]] or [[s/_sport|sport]], such as [[s/_skittles|skittles]] or [[b/_bowling|bowling]].**
+- **A [[s/_slender|slender]] [[o/_object|object]] [[s/_specially|specially]] [[d/_designed|designed]] for use in a [[s/_specific|specific]] [[g/_game|game]] or [[s/_sport|sport]], [[s/_such|such]] as [[s/_skittles|skittles]] or [[b/_bowling|bowling]].**
 - **(in [[p/_plural|plural]]) A [[l/_leg|leg]].**
 	- _Example: I'm not so good on my pins these days._
 - **[[a/_any|Any]] of the [[i/_individual|individual]] [[c/_connecting|connecting]] [[e/_elements|elements]] of a [[m/_multipole|multipole]] [[e/_electrical|electrical]] [[c/_connector|connector]].**
@@ -34,7 +34,7 @@
 ### Synonyms
 - [[p/_peg|peg]], [[s/_skittle|skittle]], [[b/_brooch|brooch]], [[n/_nail|nail]], [[t/_tack|tack]], [[b/_badge|badge]]
 #verb
-- **([[o/_often|often]] [[f/_followed|followed]] by a [[p/_preposition|preposition]] such as "to" or "on") To [[f/_fasten|fasten]] or [[a/_attach|attach]] ([[s/_something|something]]) with a [[p/_pin|pin]].**
+- **([[o/_often|often]] [[f/_followed|followed]] by a [[p/_preposition|preposition]] [[s/_such|such]] as "to" or "on") To [[f/_fasten|fasten]] or [[a/_attach|attach]] ([[s/_something|something]]) with a [[p/_pin|pin]].**
 - **(usually in the [[p/_passive|passive]]) To [[c/_cause|cause]] (a [[p/_piece|piece]]) to be in a [[p/_pin|pin]].**
 - **To [[p/_pin|pin]] [[d/_down|down]] ([[s/_someone|someone]]).**
 - **To [[e/_enclose|enclose]]; to [[c/_confine|confine]]; to [[p/_pen|pen]]; to [[p/_pound|pound]].**

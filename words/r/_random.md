@@ -11,7 +11,7 @@
 ### Synonyms
 - [[f/_force|force]], [[m/_momentum|momentum]], [[s/_speed|speed]], [[v/_velocity|velocity]], [[n/_nobody|nobody]], [[n/_nonentity|nonentity]], [[r/_rando|rando]]
 #adjective
-- **[[h/_having|Having]] unpredictable [[o/_outcomes|outcomes]] and, in the [[i/_ideal|ideal]] [[c/_case|case]], [[a/_all|all]] [[o/_outcomes|outcomes]] [[e/_equally|equally]] [[p/_probable|probable]]; [[r/_resulting|resulting]] from such [[s/_selection|selection]]; [[l/_lacking|lacking]] [[s/_statistical|statistical]] [[c/_correlation|correlation]].**
+- **[[h/_having|Having]] unpredictable [[o/_outcomes|outcomes]] and, in the [[i/_ideal|ideal]] [[c/_case|case]], [[a/_all|all]] [[o/_outcomes|outcomes]] [[e/_equally|equally]] [[p/_probable|probable]]; [[r/_resulting|resulting]] from [[s/_such|such]] [[s/_selection|selection]]; [[l/_lacking|lacking]] [[s/_statistical|statistical]] [[c/_correlation|correlation]].**
 	- _Example: The flip of a fair coin is purely random._
 - **Of or [[r/_relating|relating]] to [[p/_probability|probability]] [[d/_distribution|distribution]].**
 	- _Example: A toss of loaded dice is still random, though biased._

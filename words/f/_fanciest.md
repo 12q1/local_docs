@@ -3,7 +3,7 @@
 #adjective
 - **[[d/_decorative|Decorative]].**
 	- _Example: This is a fancy shawl._
-- **Of a superior [[g/_grade|grade]].**
+- **Of a [[s/_superior|superior]] [[g/_grade|grade]].**
 	- _Example: This box contains bottles of the fancy grade of jelly._
 - **[[e/_executed|Executed]] with [[s/_skill|skill]].**
 	- _Example: He initiated the game winning play with a fancy, deked saucer pass to the winger._

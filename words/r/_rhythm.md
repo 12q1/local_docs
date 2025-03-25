@@ -1,9 +1,9 @@
 # Rhythm
 ---
 #noun
-- **The variation of [[s/_strong|strong]] and weak [[e/_elements|elements]] (such as [[d/_duration|duration]], [[a/_accent|accent]]) of [[s/_sounds|sounds]], [[n/_notably|notably]] in [[s/_speech|speech]] or [[m/_music|music]], [[o/_over|over]] time; a [[b/_beat|beat]] or [[m/_meter|meter]].**
+- **The variation of [[s/_strong|strong]] and weak [[e/_elements|elements]] ([[s/_such|such]] as [[d/_duration|duration]], [[a/_accent|accent]]) of [[s/_sounds|sounds]], [[n/_notably|notably]] in [[s/_speech|speech]] or [[m/_music|music]], [[o/_over|over]] time; a [[b/_beat|beat]] or [[m/_meter|meter]].**
 	- _Example: Dance to the rhythm of the music._
-- **A [[s/_specifically|specifically]] [[d/_defined|defined]] [[p/_pattern|pattern]] of such variation.**
+- **A [[s/_specifically|specifically]] [[d/_defined|defined]] [[p/_pattern|pattern]] of [[s/_such|such]] variation.**
 	- _Example: Most dances have a rhythm as distinctive as the Iambic verse in poetry_
 - **A [[f/_flow|flow]], [[r/_repetition|repetition]] or [[r/_regularity|regularity]].**
 	- _Example: Once you get the rhythm of it, the job will become easy._

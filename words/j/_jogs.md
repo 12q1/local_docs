@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[e/_energetic|energetic]] trot, [[s/_slower|slower]] than a [[r/_run|run]], [[o/_often|often]] used as a [[f/_form|form]] of [[e/_exercise|exercise]].**
-- **A sudden [[p/_push|push]] or [[n/_nudge|nudge]].**
+- **A [[s/_sudden|sudden]] [[p/_push|push]] or [[n/_nudge|nudge]].**
 - **A [[f/_flat|flat]] [[p/_placed|placed]] [[p/_perpendicularly|perpendicularly]] to [[b/_break|break]] up a [[f/_flat|flat]] surface.**
 ---
 ### Synonyms

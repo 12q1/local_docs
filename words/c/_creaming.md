@@ -15,7 +15,7 @@
 - **To [[g/_gather|gather]] or [[f/_form|form]] [[c/_cream|cream]].**
 ---
 #noun
-- **A [[c/_cookery|cookery]] technique in which [[f/_fat|fat]] and sugar are [[m/_mixed|mixed]] together with the [[i/_incorporation|incorporation]] of [[a/_air|air]] to [[f/_form|form]] a [[c/_cream|cream]].**
+- **A [[c/_cookery|cookery]] technique in which [[f/_fat|fat]] and [[s/_sugar|sugar]] are [[m/_mixed|mixed]] together with the [[i/_incorporation|incorporation]] of [[a/_air|air]] to [[f/_form|form]] a [[c/_cream|cream]].**
 - **The [[a/_act|act]] by which [[s/_something|something]] is [[c/_creamed|creamed]].**
 ---
 ---

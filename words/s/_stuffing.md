@@ -31,7 +31,7 @@
 ### Synonyms
 - [[f/_fuck|fuck]], [[r/_root|root]], [[s/_screw|screw]]
 #noun
-- **The [[m/_matter|matter]] used to [[s/_stuff|stuff]] [[h/_hollow|hollow]] [[o/_objects|objects]] such as [[p/_pillows|pillows]] and [[s/_saddles|saddles]].**
+- **The [[m/_matter|matter]] used to [[s/_stuff|stuff]] [[h/_hollow|hollow]] [[o/_objects|objects]] [[s/_such|such]] as [[p/_pillows|pillows]] and [[s/_saddles|saddles]].**
 - **[[a/_any|Any]] of [[m/_many|many]] [[f/_food|food]] [[i/_items|items]] used to [[s/_stuff|stuff]] [[a/_another|another]].**
 	- _Example: stuffing for a Christmas turkey_
 - **A [[m/_mixture|mixture]] of [[o/_oil|oil]] and tallow used in [[s/_softening|softening]] and [[d/_dressing|dressing]] [[l/_leather|leather]].**

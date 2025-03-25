@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_projectile|projectile]], usually of [[m/_metal|metal]], [[s/_shot|shot]] from a [[g/_gun|gun]] at [[h/_high|high]] [[s/_speed|speed]].**
 - **An [[e/_entire|entire]] [[r/_round|round]] of unfired [[a/_ammunition|ammunition]] for a [[f/_firearm|firearm]], [[i/_including|including]] the [[p/_projectile|projectile]], the [[c/_cartridge|cartridge]] [[c/_casing|casing]], the [[p/_propellant|propellant]] [[c/_charge|charge]], [[e/_etc|etc]].**
-- **[[a/_ammunition|Ammunition]] for a [[s/_sling|sling]] or [[s/_slingshot|slingshot]] which [[h/_has|has]] [[b/_been|been]] [[m/_manufactured|manufactured]] for such use.**
+- **[[a/_ammunition|Ammunition]] for a [[s/_sling|sling]] or [[s/_slingshot|slingshot]] which [[h/_has|has]] [[b/_been|been]] [[m/_manufactured|manufactured]] for [[s/_such|such]] use.**
 - **A [[p/_printed|printed]] [[s/_symbol|symbol]] in the [[f/_form|form]] of a [[s/_solid|solid]] [[c/_circle|circle]], (•), [[o/_often|often]] used in [[l/_lieu|lieu]] of [[n/_numbers|numbers]] for [[m/_marking|marking]] [[i/_items|items]] in a [[l/_list|list]]. ([[s/_see|see]] [[a/_also|also]] [[b/_bulleted|bulleted]])**
 - **A [[l/_large|large]] [[s/_scheduled|scheduled]] [[r/_repayment|repayment]] of the [[p/_principal|principal]] of a [[l/_loan|loan]]; a [[b/_balloon|balloon]] [[p/_payment|payment]].**
 - **A [[r/_rejection|rejection]] [[l/_letter|letter]], as for [[e/_employment|employment]], [[a/_admission|admission]] to a [[s/_school|school]] or a [[c/_competition|competition]].**

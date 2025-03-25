@@ -10,7 +10,7 @@
 ### Synonyms
 - [[m/_milksop|milksop]], [[s/_saphead|saphead]]
 #verb
-- **To [[d/_drain|drain]], suck or [[a/_absorb|absorb]] from (tree, [[e/_etc|etc]].).**
+- **To [[d/_drain|drain]], [[s/_suck|suck]] or [[a/_absorb|absorb]] from (tree, [[e/_etc|etc]].).**
 - **To [[e/_exhaust|exhaust]] the vitality of.**
 ---
 #noun
@@ -23,7 +23,7 @@
 - **A [[n/_narrow|narrow]] [[d/_ditch|ditch]] or trench [[m/_made|made]] from the [[f/_foremost|foremost]] [[p/_parallel|parallel]] toward the [[g/_glacis|glacis]] or [[c/_covert|covert]] way of a [[b/_besieged|besieged]] [[p/_place|place]] by [[d/_digging|digging]] under [[c/_cover|cover]] of [[g/_gabions|gabions]], [[e/_etc|etc]].**
 ---
 #verb
-- **To subvert by [[d/_digging|digging]] or wearing [[a/_away|away]]; to [[m/_mine|mine]]; to undermine; to [[d/_destroy|destroy]] the [[f/_foundation|foundation]] of.**
+- **To [[s/_subvert|subvert]] by [[d/_digging|digging]] or wearing [[a/_away|away]]; to [[m/_mine|mine]]; to undermine; to [[d/_destroy|destroy]] the [[f/_foundation|foundation]] of.**
 - **To [[p/_pierce|pierce]] with [[s/_saps|saps]].**
 - **To [[m/_make|make]] unstable or [[i/_infirm|infirm]]; to unsettle; to weaken.**
 - **To [[g/_gradually|gradually]] weaken.**

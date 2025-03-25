@@ -1,9 +1,9 @@
 # Conditioned
 ---
 #verb
-- **To subject to the [[p/_process|process]] of [[a/_acclimation|acclimation]].**
+- **To [[s/_subject|subject]] to the [[p/_process|process]] of [[a/_acclimation|acclimation]].**
 	- _Example: I became conditioned to the absence of seasons in San Diego._
-- **To subject to [[d/_different|different]] [[c/_conditions|conditions]], [[e/_especially|especially]] as an [[e/_exercise|exercise]].**
+- **To [[s/_subject|subject]] to [[d/_different|different]] [[c/_conditions|conditions]], [[e/_especially|especially]] as an [[e/_exercise|exercise]].**
 	- _Example: They were conditioning their shins in their karate class._
 - **To [[p/_place|place]] [[c/_conditions|conditions]] or [[l/_limitations|limitations]] upon.**
 - **To [[s/_shape|shape]] the [[b/_behaviour|behaviour]] of [[s/_someone|someone]] to [[d/_do|do]] [[s/_something|something]].**

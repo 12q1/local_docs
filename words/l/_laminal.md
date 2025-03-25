@@ -1,7 +1,7 @@
 # Laminal
 ---
 #noun
-- **Such a [[s/_sound|sound]]**
+- **[[s/_such|Such]] a [[s/_sound|sound]]**
 ---
 #adjective
 - **[[l/_laminar|Laminar]]**

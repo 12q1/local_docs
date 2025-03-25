@@ -22,7 +22,7 @@
 ### Synonyms
 - [[k/_kin|kin]], [[k/_kinfolk|kinfolk]]
 #adjective
-- **Suitable for [[c/_children|children]] and [[a/_adults|adults]].**
+- **[[s/_suitable|Suitable]] for [[c/_children|children]] and [[a/_adults|adults]].**
 	- _Example: It's not good for a date, it's a family restaurant._
 - **[[c/_conservative|Conservative]], traditional.**
 	- _Example: The cultural struggle is for the survival of family values against all manner of atheistic amorality._

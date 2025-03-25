@@ -5,7 +5,7 @@
 	- _Example: Stir the gravy until there are no more lumps._
 - **A [[g/_group|group]], [[s/_set|set]], or unit.**
 	- _Example: The money arrived all at once as one big lump sum payment._
-- **A [[s/_small|small]], [[s/_shaped|shaped]] [[m/_mass|mass]] of sugar, typically [[a/_about|about]] a teaspoonful.**
+- **A [[s/_small|small]], [[s/_shaped|shaped]] [[m/_mass|mass]] of [[s/_sugar|sugar]], typically [[a/_about|about]] a teaspoonful.**
 	- _Example: Do you want one lump or two with your coffee?_
 - **A [[d/_dull|dull]] or [[l/_lazy|lazy]] [[p/_person|person]].**
 	- _Example: Don't just sit there like a lump._

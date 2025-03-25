@@ -3,7 +3,7 @@
 #noun
 - **[[a/_any|Any]] of the three [[s/_species|species]] of [[s/_spiny|spiny]]-[[f/_finned|finned]] [[f/_freshwater|freshwater]] [[f/_fish|fish]] in the [[g/_genus|genus]] [[p/_perca|Perca]].**
 - **[[a/_any|Any]] of the [[a/_about|about]] 200 [[r/_related|related]] [[s/_species|species]] of [[f/_fish|fish]] in the taxonomic [[f/_family|family]] [[p/_percidae|Percidae]], [[e/_especially|especially]]:**
-- **[[s/_several|Several]] [[s/_similar|similar]] [[s/_species|species]] in the [[o/_order|order]] [[p/_perciformes|Perciformes]], such as the [[g/_grouper|grouper]].**
+- **[[s/_several|Several]] [[s/_similar|similar]] [[s/_species|species]] in the [[o/_order|order]] [[p/_perciformes|Perciformes]], [[s/_such|such]] as the [[g/_grouper|grouper]].**
 ---
 #noun
 - **A [[r/_rod|rod]], [[s/_staff|staff]], or [[b/_branch|branch]] of a tree [[e/_etc|etc]] used as a [[r/_roost|roost]] by a [[b/_bird|bird]]**

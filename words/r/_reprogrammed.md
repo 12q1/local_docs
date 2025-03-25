@@ -6,6 +6,6 @@
 - **To [[s/_shift|shift]] [[f/_funds|funds]] [[a/_appropriated|appropriated]] for [[o/_one|one]] [[g/_government|government]] [[p/_program|program]] to a [[d/_different|different]] [[g/_government|government]] [[p/_program|program]].**
 ---
 #adjective
-- **That [[h/_has|has]] [[b/_been|been]] subject to [[r/_reprogramming|reprogramming]]**
+- **That [[h/_has|has]] [[b/_been|been]] [[s/_subject|subject]] to [[r/_reprogramming|reprogramming]]**
 ---
 ---

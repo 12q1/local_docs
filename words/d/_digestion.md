@@ -1,7 +1,7 @@
 # Digestion
 ---
 #noun
-- **The [[p/_process|process]], in the [[g/_gastrointestinal|gastrointestinal]] tract, by which [[f/_food|food]] is [[c/_converted|converted]] [[i/_into|into]] substances that [[c/_can|can]] be utilized by the [[b/_body|body]].**
+- **The [[p/_process|process]], in the [[g/_gastrointestinal|gastrointestinal]] tract, by which [[f/_food|food]] is [[c/_converted|converted]] [[i/_into|into]] [[s/_substances|substances]] that [[c/_can|can]] be utilized by the [[b/_body|body]].**
 - **The [[r/_result|result]] of this [[p/_process|process]].**
 - **The [[a/_ability|ability]] to use this [[p/_process|process]].**
 - **The [[p/_processing|processing]] of [[d/_decay|decay]] in [[o/_organic|organic]] [[m/_matter|matter]] [[a/_assisted|assisted]] by [[m/_microorganisms|microorganisms]].**

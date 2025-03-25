@@ -3,7 +3,7 @@
 #noun
 - **[[o/_one|One]] who [[d/_drives|drives]] [[s/_something|something]], in [[a/_any|any]] [[s/_sense|sense]] of the verb to [[d/_drive|drive]].**
 - **[[s/_something|Something]] that [[d/_drives|drives]] [[s/_something|something]], in [[a/_any|any]] [[s/_sense|sense]] of the verb to [[d/_drive|drive]].**
-- **A [[p/_person|person]] who [[d/_drives|drives]] a [[m/_motorized|motorized]] vehicle such as a [[c/_car|car]] or a [[b/_bus|bus]].**
+- **A [[p/_person|person]] who [[d/_drives|drives]] a [[m/_motorized|motorized]] vehicle [[s/_such|such]] as a [[c/_car|car]] or a [[b/_bus|bus]].**
 - **A [[p/_person|person]] who [[d/_drives|drives]] [[s/_some|some]] [[o/_other|other]] vehicle.**
 - **A [[p/_program|program]] that [[a/_acts|acts]] as an [[i/_interface|interface]] [[b/_between|between]] an [[a/_application|application]] and [[h/_hardware|hardware]], written [[s/_specifically|specifically]] for the [[d/_device|device]] it [[c/_controls|controls]].**
 - **A [[g/_golf|golf]] [[c/_club|club]] used to [[d/_drive|drive]] the [[b/_ball|ball]] a [[g/_great|great]] [[d/_distance|distance]].**

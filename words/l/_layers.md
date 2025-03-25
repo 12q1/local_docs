@@ -17,7 +17,7 @@
 	- _Example: Layer the ribbons on top of one another to make an attractive pattern._
 ---
 #noun
-- **A [[p/_person|person]] who [[l/_lays|lays]] things, such as tiles.**
+- **A [[p/_person|person]] who [[l/_lays|lays]] things, [[s/_such|such]] as tiles.**
 - **A [[m/_mature|mature]] [[f/_female|female]] [[b/_bird|bird]], [[i/_insect|insect]], [[e/_etc|etc]]. that is [[a/_able|able]] to [[l/_lay|lay]] [[e/_eggs|eggs]].**
 	- _Example: When dealing with an infestation of headlice, the first step is to eliminate the layers._
 - **A [[h/_hen|hen]] [[k/_kept|kept]] to [[l/_lay|lay]] [[e/_eggs|eggs]].**

@@ -5,7 +5,7 @@
 	- _Example: This plant bottles vast quantities of spring water every day._
 - **To [[f/_feed|feed]] (an [[i/_infant|infant]]) [[b/_baby|baby]] [[f/_formula|formula]].**
 	- _Example: Because of complications she can't breast feed her baby and so she bottles him._
-- **To [[r/_refrain|refrain]] from [[d/_doing|doing]] ([[s/_something|something]]) at the [[l/_last|last]] [[m/_moment|moment]] [[b/_because|because]] of a sudden [[l/_loss|loss]] of [[c/_courage|courage]].**
+- **To [[r/_refrain|refrain]] from [[d/_doing|doing]] ([[s/_something|something]]) at the [[l/_last|last]] [[m/_moment|moment]] [[b/_because|because]] of a [[s/_sudden|sudden]] [[l/_loss|loss]] of [[c/_courage|courage]].**
 	- _Example: The rider bottled the big jump._
 - **To throw [[a/_away|away]] a [[l/_leading|leading]] [[p/_position|position]].**
 	- _Example: Liverpool bottled the Premier League._

@@ -5,7 +5,7 @@
 	- _Example: The candidate wearing the business suite made a favourable impression._
 - **Useful or [[h/_helpful|helpful]].**
 	- _Example: We made quick progress, due to favourable winds._
-- **[[c/_convenient|Convenient]] or at a suitable time; [[o/_opportune|opportune]].**
+- **[[c/_convenient|Convenient]] or at a [[s/_suitable|suitable]] time; [[o/_opportune|opportune]].**
 	- _Example: The rain stopped at a favourable time for our tennis match._
 - **[[a/_auspicious|Auspicious]] or [[l/_lucky|lucky]].**
 	- _Example: She says that she was born under a favourable star._

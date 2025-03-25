@@ -22,7 +22,7 @@
 	- _Example: He was a dream come true._
 - **To be supplied, or [[m/_made|made]] [[a/_available|available]]; to [[e/_exist|exist]].**
 	- _Example: A new sports car doesn't come cheap._
-- **To [[c/_carry|carry]] through; to succeed in.**
+- **To [[c/_carry|carry]] through; to [[s/_succeed|succeed]] in.**
 	- _Example: You can't come any tricks here._
 - **[[h/_happen|Happen]].**
 	- _Example: This kind of accident comes when you are careless._

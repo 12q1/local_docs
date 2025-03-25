@@ -10,7 +10,7 @@
 - **A [[l/_large|large]], [[l/_luxury|luxury]] [[p/_pre|pre]]-1980 [[g/_general|General]] [[m/_motors|Motors]] vehicle, [[p/_particularly|particularly]] a [[b/_buick|Buick]], [[o/_oldsmobile|Oldsmobile]] or [[c/_cadillac|Cadillac]].**
 - **A very [[l/_large|large]] wave.**
 - **A [[s/_sequence|sequence]] of 12 [[a/_adjacent|adjacent]] [[b/_bits|bits]], [[s/_serving|serving]] as a [[b/_byte|byte]] in [[s/_some|some]] [[c/_computers|computers]].**
-- **[[p/_part|Part]] of a tectonic [[p/_plate|plate]] that is [[b/_being|being]] subducted.**
+- **[[p/_part|Part]] of a tectonic [[p/_plate|plate]] that is [[b/_being|being]] [[s/_subducted|subducted]].**
 ---
 #verb
 - **To [[m/_make|make]] [[s/_something|something]] [[i/_into|into]] a [[s/_slab|slab]].**

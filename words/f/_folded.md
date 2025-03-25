@@ -1,7 +1,7 @@
 # Folded
 ---
 #verb
-- **To [[b/_bend|bend]] ([[a/_any|any]] thin [[m/_material|material]], such as [[p/_paper|paper]]) [[o/_over|over]] [[s/_so|so]] that it [[c/_comes|comes]] in [[c/_contact|contact]] with [[i/_itself|itself]].**
+- **To [[b/_bend|bend]] ([[a/_any|any]] thin [[m/_material|material]], [[s/_such|such]] as [[p/_paper|paper]]) [[o/_over|over]] [[s/_so|so]] that it [[c/_comes|comes]] in [[c/_contact|contact]] with [[i/_itself|itself]].**
 - **To [[m/_make|make]] the [[p/_proper|proper]] [[a/_arrangement|arrangement]] (in a thin [[m/_material|material]]) by [[b/_bending|bending]].**
 	- _Example: If you fold the sheets, they'll fit more easily in the drawer._
 - **To [[b/_become|become]] [[f/_folded|folded]]; to [[f/_form|form]] [[f/_folds|folds]].**

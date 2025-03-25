@@ -27,9 +27,9 @@
 	- _Example: You don't ever want to get rabies. The doctor will have to give you multiple shots and they really kill._
 - **To [[p/_punish|punish]] [[s/_severely|severely]].**
 	- _Example: My parents are going to kill me!_
-- **To [[s/_strike|strike]] (a [[b/_ball|ball]], [[e/_etc|etc]].) with such [[f/_force|force]] and [[p/_placement|placement]] as to [[m/_make|make]] a [[s/_shot|shot]] that is [[i/_impossible|impossible]] to [[d/_defend|defend]] [[a/_against|against]], usually winning a [[p/_point|point]].**
+- **To [[s/_strike|strike]] (a [[b/_ball|ball]], [[e/_etc|etc]].) with [[s/_such|such]] [[f/_force|force]] and [[p/_placement|placement]] as to [[m/_make|make]] a [[s/_shot|shot]] that is [[i/_impossible|impossible]] to [[d/_defend|defend]] [[a/_against|against]], usually winning a [[p/_point|point]].**
 - **To [[c/_cause|cause]] (a [[b/_ball|ball]], [[e/_etc|etc]].) to be [[o/_out|out]] of [[p/_play|play]], [[r/_resulting|resulting]] in a [[s/_stoppage|stoppage]] of gameplay.**
-- **To succeed with an [[a/_audience|audience]], [[e/_especially|especially]] in [[c/_comedy|comedy]].**
+- **To [[s/_succeed|succeed]] with an [[a/_audience|audience]], [[e/_especially|especially]] in [[c/_comedy|comedy]].**
 - **To [[c/_cause|cause]] to [[a/_assume|assume]] the value zero.**
 - **(IRC) To [[d/_disconnect|disconnect]] (a user) [[i/_involuntarily|involuntarily]] from the [[n/_network|network]].**
 - **To [[d/_deadmelt|deadmelt]].**

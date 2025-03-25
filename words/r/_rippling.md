@@ -5,7 +5,7 @@
 - **To [[p/_propagate|propagate]] [[l/_like|like]] a [[m/_moving|moving]] wave.**
 - **To [[m/_make|make]] a [[s/_sound|sound]] as of water [[r/_running|running]] [[g/_gently|gently]] [[o/_over|over]] a [[r/_rough|rough]] [[b/_bottom|bottom]], or the [[b/_breaking|breaking]] of [[r/_ripples|ripples]] on the [[s/_shore|shore]].**
 - **To [[s/_shape|shape]] [[i/_into|into]] a [[s/_series|series]] of [[r/_ripples|ripples]].**
-- **To [[l/_launch|launch]] or unleash in [[r/_rapid|rapid]] succession.**
+- **To [[l/_launch|launch]] or unleash in [[r/_rapid|rapid]] [[s/_succession|succession]].**
 ---
 #verb
 - **To [[s/_scratch|scratch]], tear, or [[b/_break|break]] [[s/_slightly|slightly]]; [[g/_graze|graze]]**

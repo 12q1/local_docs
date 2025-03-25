@@ -1,7 +1,7 @@
 # Grinder
 ---
 #noun
-- **[[o/_one|One]] who [[g/_grinds|grinds]] [[s/_something|something]], such as the teeth.**
+- **[[o/_one|One]] who [[g/_grinds|grinds]] [[s/_something|something]], [[s/_such|such]] as the teeth.**
 - **([[a/_anatomical|anatomical]]) A [[m/_molar|molar]].**
 - **A [[p/_power|power]] tool with a [[s/_spinning|spinning]] [[a/_abrasive|abrasive]] [[d/_disc|disc]], used for [[g/_grinding|grinding]], [[s/_smoothing|smoothing]], and [[s/_shaping|shaping]] [[m/_materials|materials]], usually [[m/_metal|metal]].**
 - **A [[s/_sandwich|sandwich]] [[m/_made|made]] on a [[l/_long|long]], [[c/_cylindrical|cylindrical]] [[r/_roll|roll]].**

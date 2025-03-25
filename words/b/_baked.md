@@ -1,9 +1,9 @@
 # Baked
 ---
 #verb
-- **(with [[p/_person|person]] as subject) To [[c/_cook|cook]] ([[s/_something|something]]) in an [[o/_oven|oven]].**
+- **(with [[p/_person|person]] as [[s/_subject|subject]]) To [[c/_cook|cook]] ([[s/_something|something]]) in an [[o/_oven|oven]].**
 	- _Example: I baked a delicious cherry pie._
-- **(with [[b/_baked|baked]] thing as subject) To be [[c/_cooked|cooked]] in an [[o/_oven|oven]].**
+- **(with [[b/_baked|baked]] thing as [[s/_subject|subject]]) To be [[c/_cooked|cooked]] in an [[o/_oven|oven]].**
 	- _Example: The cake baked at 350°F._
 - **To be warmed to [[d/_drying|drying]] and [[h/_hardening|hardening]].**
 	- _Example: The clay baked in the sun._

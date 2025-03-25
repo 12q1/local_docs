@@ -1,7 +1,7 @@
 # Harkening
 ---
 #verb
-- **To [[h/_hark|hark]] [[b/_back|back]], to [[r/_return|return]] or [[r/_revert|revert]] (to a subject, [[e/_etc|etc]].), to [[a/_allude|allude]] to, to [[e/_evoke|evoke]], to [[l/_long|long]] or [[p/_pine|pine]] for (a [[p/_past|past]] [[e/_event|event]] or [[e/_era|era]]).**
+- **To [[h/_hark|hark]] [[b/_back|back]], to [[r/_return|return]] or [[r/_revert|revert]] (to a [[s/_subject|subject]], [[e/_etc|etc]].), to [[a/_allude|allude]] to, to [[e/_evoke|evoke]], to [[l/_long|long]] or [[p/_pine|pine]] for (a [[p/_past|past]] [[e/_event|event]] or [[e/_era|era]]).**
 ---
 #noun
 - **The [[a/_act|act]] of [[o/_one|one]] who [[h/_harkens|harkens]] or [[l/_listens|listens]].**

@@ -15,7 +15,7 @@
 - **To treat or [[m/_make|make]] terms.**
 ---
 #noun
-- **An [[a/_articulated|articulated]] vehicle, such as a [[l/_locomotive|locomotive]].**
+- **An [[a/_articulated|articulated]] vehicle, [[s/_such|such]] as a [[l/_locomotive|locomotive]].**
 ---
 ### Synonyms
 - [[a/_artic|artic]]

@@ -1,7 +1,7 @@
 # Adamant
 ---
 #noun
-- **An [[i/_imaginary|imaginary]] [[r/_rock|rock]] or [[m/_mineral|mineral]] of [[i/_impenetrable|impenetrable]] [[h/_hardness|hardness]]; a [[n/_name|name]] [[g/_given|given]] to the [[d/_diamond|diamond]] and [[o/_other|other]] substances of [[e/_extreme|extreme]] [[h/_hardness|hardness]].**
+- **An [[i/_imaginary|imaginary]] [[r/_rock|rock]] or [[m/_mineral|mineral]] of [[i/_impenetrable|impenetrable]] [[h/_hardness|hardness]]; a [[n/_name|name]] [[g/_given|given]] to the [[d/_diamond|diamond]] and [[o/_other|other]] [[s/_substances|substances]] of [[e/_extreme|extreme]] [[h/_hardness|hardness]].**
 - **An [[e/_embodiment|embodiment]] of [[i/_impregnable|impregnable]] [[h/_hardness|hardness]].**
 - **A [[l/_lodestone|lodestone]].**
 ---

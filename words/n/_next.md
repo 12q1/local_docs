@@ -6,7 +6,7 @@
 ---
 #adjective
 - **[[n/_nearest|Nearest]] in [[p/_place|place]] or [[p/_position|position]], [[h/_having|having]] [[n/_nothing|nothing]] [[s/_similar|similar]] [[i/_intervening|intervening]]; [[a/_adjoining|adjoining]].**
-- **[[n/_nearest|Nearest]] in [[o/_order|order]], succession, or [[r/_rank|rank]]; [[i/_immediately|immediately]] [[f/_following|following]] (or [[s/_sometimes|sometimes]] [[p/_preceding|preceding]]) in [[o/_order|order]].**
+- **[[n/_nearest|Nearest]] in [[o/_order|order]], [[s/_succession|succession]], or [[r/_rank|rank]]; [[i/_immediately|immediately]] [[f/_following|following]] (or [[s/_sometimes|sometimes]] [[p/_preceding|preceding]]) in [[o/_order|order]].**
 	- _Example: the next chapter; the next man I see; the next week; the Sunday next before Easter_
 - **[[f/_following|Following]] in a [[h/_hypothetical|hypothetical]] [[s/_sequence|sequence]] of [[s/_some|some]] [[k/_kind|kind]].**
 	- _Example: The man was driven by his love for money and his desire to become the next Bill Gates._
@@ -17,7 +17,7 @@
 #adverb
 - **In a time, [[p/_place|place]], [[r/_rank|rank]] or [[s/_sequence|sequence]] [[c/_closest|closest]] or [[f/_following|following]].**
 	- _Example: It's the next best thing to ice cream._
-- **On the [[f/_first|first]] subsequent [[o/_occasion|occasion]].**
+- **On the [[f/_first|first]] [[s/_subsequent|subsequent]] [[o/_occasion|occasion]].**
 	- _Example: Financial panic, earthquakes, oil spills, riots. What comes next?_
 ---
 ### Antonyms

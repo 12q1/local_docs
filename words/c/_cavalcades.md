@@ -10,6 +10,6 @@
 ### Synonyms
 - [[c/_chain|chain]], [[s/_series|series]], [[c/_company|company]], [[p/_parade|parade]], [[p/_procession|procession]]
 #verb
-- **To [[m/_move|move]] as [[p/_part|part]] of a [[s/_series|series]] or [[g/_group|group]], such as [[m/_marchers|marchers]] in a [[p/_parade|parade]] or [[s/_snow|snow]] in an [[a/_avalanche|avalanche]], [[e/_especially|especially]] in [[l/_large|large]] [[n/_numbers|numbers]] or in a [[c/_chaotic|chaotic]] or [[d/_dangerous|dangerous]] [[f/_fashion|fashion]]**
+- **To [[m/_move|move]] as [[p/_part|part]] of a [[s/_series|series]] or [[g/_group|group]], [[s/_such|such]] as [[m/_marchers|marchers]] in a [[p/_parade|parade]] or [[s/_snow|snow]] in an [[a/_avalanche|avalanche]], [[e/_especially|especially]] in [[l/_large|large]] [[n/_numbers|numbers]] or in a [[c/_chaotic|chaotic]] or [[d/_dangerous|dangerous]] [[f/_fashion|fashion]]**
 ---
 ---

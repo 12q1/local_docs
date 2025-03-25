@@ -6,7 +6,7 @@
 - **(ditransitive) To [[g/_give|give]] a [[l/_label|label]] to ([[s/_someone|someone]] or [[s/_something|something]]) in [[o/_order|order]] to [[c/_categorise|categorise]] that [[p/_person|person]] or thing.**
 	- _Example: He's been unfairly labeled as a cheat, although he's only ever cheated once._
 - **To [[r/_replace|replace]] [[s/_specific|specific]] [[a/_atoms|atoms]] by their [[i/_isotope|isotope]] in [[o/_order|order]] to track the [[p/_presence|presence]] or [[m/_movement|movement]] of this [[i/_isotope|isotope]] through a [[r/_reaction|reaction]], [[m/_metabolic|metabolic]] [[p/_pathway|pathway]] or [[c/_cell|cell]].**
-- **To [[a/_add|add]] a [[d/_detectable|detectable]] substance, [[e/_either|either]] transiently or [[p/_permanently|permanently]], to a [[b/_biological|biological]] substance in [[o/_order|order]] to track the [[p/_presence|presence]] of the [[l/_label|label]]-substance [[c/_combination|combination]] [[e/_either|either]] in [[s/_situ|situ]] or in vitro**
+- **To [[a/_add|add]] a [[d/_detectable|detectable]] [[s/_substance|substance]], [[e/_either|either]] transiently or [[p/_permanently|permanently]], to a [[b/_biological|biological]] [[s/_substance|substance]] in [[o/_order|order]] to track the [[p/_presence|presence]] of the [[l/_label|label]]-[[s/_substance|substance]] [[c/_combination|combination]] [[e/_either|either]] in [[s/_situ|situ]] or in vitro**
 ---
 ### Synonyms
 - [[c/_categorise|categorise]], [[c/_compartmentalise|compartmentalise]], [[p/_peg|peg]], [[p/_pigeonhole|pigeonhole]], [[p/_price|price]], [[t/_tag|tag]]

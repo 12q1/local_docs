@@ -6,6 +6,6 @@
 ### Synonyms
 - 
 #adjective
-- **Not [[n/_negotiable|negotiable]]; not subject to [[n/_negotiation|negotiation]].**
+- **Not [[n/_negotiable|negotiable]]; not [[s/_subject|subject]] to [[n/_negotiation|negotiation]].**
 ---
 ---

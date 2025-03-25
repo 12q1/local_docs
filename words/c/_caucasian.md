@@ -9,7 +9,7 @@
 ---
 #adjective
 - **Of, or [[r/_relating|relating]] to the [[c/_caucasus|Caucasus]] [[r/_region|region]] or [[i/_its|its]] [[p/_people|people]], [[l/_languages|languages]] and [[c/_culture|culture]].**
-- **Of a [[r/_racial|racial]] [[c/_classification|classification]]; [[p/_pertaining|pertaining]] to [[p/_people|people]] [[h/_having|having]] [[c/_certain|certain]] [[p/_phenotypical|phenotypical]] [[f/_features|features]] such as [[s/_straight|straight]], wavy or [[c/_curly|curly]] [[h/_hair|hair]] and very [[l/_light|light]] to [[b/_brown|brown]] [[p/_pigmented|pigmented]] [[s/_skin|skin]], and [[o/_originating|originating]] from [[e/_europe|Europe]], [[p/_parts|parts]] of [[n/_northern|Northern]] [[a/_africa|Africa]] and Western, [[c/_central|Central]] and [[s/_south|South]] [[a/_asia|Asia]].**
+- **Of a [[r/_racial|racial]] [[c/_classification|classification]]; [[p/_pertaining|pertaining]] to [[p/_people|people]] [[h/_having|having]] [[c/_certain|certain]] [[p/_phenotypical|phenotypical]] [[f/_features|features]] [[s/_such|such]] as [[s/_straight|straight]], wavy or [[c/_curly|curly]] [[h/_hair|hair]] and very [[l/_light|light]] to [[b/_brown|brown]] [[p/_pigmented|pigmented]] [[s/_skin|skin]], and [[o/_originating|originating]] from [[e/_europe|Europe]], [[p/_parts|parts]] of [[n/_northern|Northern]] [[a/_africa|Africa]] and Western, [[c/_central|Central]] and [[s/_south|South]] [[a/_asia|Asia]].**
 - **(of a [[p/_person|person]]) White, [[b/_being|being]] a white [[p/_person|person]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Stevedores
 ---
 #noun
-- **A [[d/_dockworker|dockworker]] [[i/_involved|involved]] in [[l/_loading|loading]] and unloading [[c/_cargo|cargo]], or in supervising such work.**
+- **A [[d/_dockworker|dockworker]] [[i/_involved|involved]] in [[l/_loading|loading]] and unloading [[c/_cargo|cargo]], or in supervising [[s/_such|such]] work.**
 ---
 ### Synonyms
 - [[d/_docker|docker]], [[d/_dockworker|dockworker]], [[l/_longshoreman|longshoreman]], [[w/_wharfie|wharfie]]

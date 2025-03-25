@@ -16,7 +16,7 @@
 - **(by [[e/_extension|extension]]) To [[c/_congratulate|congratulate]] ([[o/_oneself|oneself]]) [[p/_proudly|proudly]], [[e/_especially|especially]] [[c/_concerning|concerning]] [[s/_something|something]] unimportant or when taking [[c/_credit|credit]] for [[a/_another|another]] [[p/_person|person]]'[[s/_s|s]] [[e/_effort|effort]]; to [[s/_self|self]]-[[c/_congratulate|congratulate]].**
 	- _Example: He plumes himself on his skill._
 - **To [[s/_strip|strip]] (a [[b/_bird|bird]]) of [[f/_feathers|feathers]]; to [[p/_pluck|pluck]].**
-- **Of a [[d/_dispersed|dispersed]] substance such as [[d/_dust|dust]] or [[s/_smoke|smoke]]: to [[f/_fan|fan]] [[o/_out|out]] or [[s/_spread|spread]] in a [[c/_cloud|cloud]].**
+- **Of a [[d/_dispersed|dispersed]] [[s/_substance|substance]] [[s/_such|such]] as [[d/_dust|dust]] or [[s/_smoke|smoke]]: to [[f/_fan|fan]] [[o/_out|out]] or [[s/_spread|spread]] in a [[c/_cloud|cloud]].**
 	- _Example: Smoke plumed from his pipe, then slowly settled towards the floor._
 ---
 ### Synonyms

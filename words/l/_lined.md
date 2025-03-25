@@ -19,7 +19,7 @@
 #verb
 - **To [[c/_cover|cover]] the [[i/_inner|inner]] surface of ([[s/_something|something]]), [[o/_originally|originally]] [[e/_especially|especially]] with [[l/_linen|linen]].**
 	- _Example: The bird lines its nest with soft grass._
-- **To [[r/_reinforce|reinforce]] (the [[b/_back|back]] of a [[b/_book|book]]) with [[g/_glue|glue]] and [[g/_glued|glued]] [[s/_scrap|scrap]] [[m/_material|material]] such as [[f/_fabric|fabric]] or [[p/_paper|paper]].**
+- **To [[r/_reinforce|reinforce]] (the [[b/_back|back]] of a [[b/_book|book]]) with [[g/_glue|glue]] and [[g/_glued|glued]] [[s/_scrap|scrap]] [[m/_material|material]] [[s/_such|such]] as [[f/_fabric|fabric]] or [[p/_paper|paper]].**
 - **To [[f/_fill|fill]] or supply ([[s/_something|something]]), as a [[p/_purse|purse]] with [[m/_money|money]].**
 	- _Example: to line the shelves_
 ---

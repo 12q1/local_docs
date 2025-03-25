@@ -9,7 +9,7 @@
 	- _Example: a right triangle, a right prism, a right cone_
 - **[[c/_complying|Complying]] with [[j/_justice|justice]], [[c/_correctness|correctness]] or [[r/_reason|reason]]; [[c/_correct|correct]], [[j/_just|just]], true.**
 	- _Example: I thought you'd made a mistake, but it seems you were right all along._
-- **[[a/_appropriate|Appropriate]], [[p/_perfectly|perfectly]] suitable; [[f/_fit|fit]] for [[p/_purpose|purpose]].**
+- **[[a/_appropriate|Appropriate]], [[p/_perfectly|perfectly]] [[s/_suitable|suitable]]; [[f/_fit|fit]] for [[p/_purpose|purpose]].**
 	- _Example: Is this the right software for my computer?_
 - **[[h/_healthy|Healthy]], [[s/_sane|sane]], [[c/_competent|competent]].**
 	- _Example: I'm afraid my father is no longer in his right mind._

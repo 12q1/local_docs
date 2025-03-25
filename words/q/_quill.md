@@ -10,7 +10,7 @@
 - **The [[p/_pen|pen]] of a [[s/_squid|squid]].**
 - **The [[p/_plectrum|plectrum]] with which [[m/_musicians|musicians]] [[s/_strike|strike]] the [[s/_strings|strings]] of [[c/_certain|certain]] [[i/_instruments|instruments]].**
 - **The tube of a [[m/_musical|musical]] [[i/_instrument|instrument]].**
-- **[[s/_something|Something]] [[h/_having|having]] the [[f/_form|form]] of a [[q/_quill|quill]], such as the [[f/_fold|fold]] or [[p/_plain|plain]] of a [[r/_ruff|ruff]], or a [[s/_spindle|spindle]], or [[s/_spool|spool]], upon which the thread for the woof is wound in a [[s/_shuttle|shuttle]].**
+- **[[s/_something|Something]] [[h/_having|having]] the [[f/_form|form]] of a [[q/_quill|quill]], [[s/_such|such]] as the [[f/_fold|fold]] or [[p/_plain|plain]] of a [[r/_ruff|ruff]], or a [[s/_spindle|spindle]], or [[s/_spool|spool]], upon which the thread for the woof is wound in a [[s/_shuttle|shuttle]].**
 ---
 ### Synonyms
 - 
@@ -19,6 +19,6 @@
 - **To write.**
 - **To [[f/_form|form]] [[f/_fabric|fabric]] [[i/_into|into]] [[s/_small|small]], [[r/_rounded|rounded]] [[f/_folds|folds]].**
 - **To [[d/_decorate|decorate]] with [[q/_quillwork|quillwork]].**
-- **To subject (a woman who is [[g/_giving|giving]] [[b/_birth|birth]]) to the [[p/_practice|practice]] of [[q/_quilling|quilling]] ([[b/_blowing|blowing]] [[p/_pepper|pepper]] [[i/_into|into]] [[h/_her|her]] [[n/_nose|nose]] to [[i/_induce|induce]] or [[h/_hasten|hasten]] [[l/_labor|labor]]).**
+- **To [[s/_subject|subject]] (a woman who is [[g/_giving|giving]] [[b/_birth|birth]]) to the [[p/_practice|practice]] of [[q/_quilling|quilling]] ([[b/_blowing|blowing]] [[p/_pepper|pepper]] [[i/_into|into]] [[h/_her|her]] [[n/_nose|nose]] to [[i/_induce|induce]] or [[h/_hasten|hasten]] [[l/_labor|labor]]).**
 ---
 ---

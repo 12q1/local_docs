@@ -11,6 +11,6 @@
 	- _Example: I tried to study, but in my half-awake state, all of the concepts seemed to jumble together._
 ---
 #noun
-- **A [[s/_small|small]], thin, sugared [[c/_cake|cake]], usually [[r/_ring|ring]]-[[s/_shaped|shaped]].**
+- **A [[s/_small|small]], thin, [[s/_sugared|sugared]] [[c/_cake|cake]], usually [[r/_ring|ring]]-[[s/_shaped|shaped]].**
 ---
 ---

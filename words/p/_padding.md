@@ -18,7 +18,7 @@
 ---
 #noun
 - **[[s/_soft|Soft]] [[f/_filling|filling]] [[m/_material|material]] used in [[c/_cushions|cushions]] [[e/_etc|etc]].**
-- **[[e/_extra|Extra]] [[c/_characters|characters]] such as [[s/_spaces|spaces]] [[a/_added|added]] to a [[r/_record|record]] to [[f/_fill|fill]] it [[o/_out|out]] to a [[f/_fixed|fixed]] [[l/_length|length]].**
+- **[[e/_extra|Extra]] [[c/_characters|characters]] [[s/_such|such]] as [[s/_spaces|spaces]] [[a/_added|added]] to a [[r/_record|record]] to [[f/_fill|fill]] it [[o/_out|out]] to a [[f/_fixed|fixed]] [[l/_length|length]].**
 - **[[e/_extraneous|Extraneous]] text [[a/_added|added]] to a [[m/_message|message]] for the [[p/_purpose|purpose]] of [[c/_concealing|concealing]] [[i/_its|its]] [[b/_beginning|beginning]], [[e/_ending|ending]], or [[l/_length|length]].**
 - **[[a/_anything|Anything]] of [[l/_little|little]] value used to [[f/_fill|fill]] up [[s/_space|space]].**
 	- _Example: That magazine is mostly advertisements; the rest is padding._

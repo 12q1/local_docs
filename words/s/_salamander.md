@@ -1,7 +1,7 @@
 # Salamander
 ---
 #noun
-- **A [[l/_long|long]], [[s/_slender|slender]], [[c/_chiefly|chiefly]] terrestrial [[a/_amphibian|amphibian]] of the [[o/_order|order]] [[c/_caudata|Caudata]], superficially [[r/_resembling|resembling]] a [[l/_lizard|lizard]].**
+- **A [[l/_long|long]], [[s/_slender|slender]], [[c/_chiefly|chiefly]] terrestrial [[a/_amphibian|amphibian]] of the [[o/_order|order]] [[c/_caudata|Caudata]], [[s/_superficially|superficially]] [[r/_resembling|resembling]] a [[l/_lizard|lizard]].**
 - **A [[c/_creature|creature]] [[m/_much|much]] [[l/_like|like]] a [[l/_lizard|lizard]] that is [[r/_resistant|resistant]] to and [[l/_lives|lives]] in [[f/_fire|fire]] (in which it is [[o/_often|often]] [[d/_depicted|depicted]] in [[h/_heraldry|heraldry]]), [[h/_hence|hence]] the [[e/_elemental|elemental]] [[b/_being|being]] of [[f/_fire|fire]].**
 - **A [[m/_metal|metal]] utensil with a [[f/_flat|flat]] [[h/_head|head]] which is [[h/_heated|heated]] and [[p/_put|put]] [[o/_over|over]] a [[d/_dish|dish]] to [[b/_brown|brown]] the top.**
 - **A [[s/_small|small]] [[b/_broiler|broiler]] ([[n/_north|North]] [[a/_america|America]]) or [[g/_grill|grill]] ([[b/_britain|Britain]]) that [[h/_heats|heats]] the [[f/_food|food]] from [[a/_above|above]], used in [[p/_professional|professional]] [[c/_cookery|cookery]] [[p/_primarily|primarily]] for [[b/_browning|browning]].**

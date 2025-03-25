@@ -1,7 +1,7 @@
 # Medium
 ---
 #noun
-- **([[p/_plural|plural]] [[m/_media|media]] or [[m/_mediums|mediums]]) The [[c/_chemistry|chemistry]] of the surrounding [[e/_environment|environment]], [[e/_e|e]].[[g/_g|g]]. [[s/_solid|solid]], [[l/_liquid|liquid]], [[g/_gas|gas]], vacuum, or a [[s/_specific|specific]] substance such as a [[s/_solvent|solvent]].**
+- **([[p/_plural|plural]] [[m/_media|media]] or [[m/_mediums|mediums]]) The [[c/_chemistry|chemistry]] of the surrounding [[e/_environment|environment]], [[e/_e|e]].[[g/_g|g]]. [[s/_solid|solid]], [[l/_liquid|liquid]], [[g/_gas|gas]], vacuum, or a [[s/_specific|specific]] [[s/_substance|substance]] [[s/_such|such]] as a [[s/_solvent|solvent]].**
 - **([[p/_plural|plural]] [[m/_media|media]] or [[m/_mediums|mediums]]) The [[m/_materials|materials]] or [[e/_empty|empty]] [[s/_space|space]] through which [[s/_signals|signals]], waves or [[f/_forces|forces]] [[p/_pass|pass]].**
 - **([[p/_plural|plural]] [[m/_media|media]] or [[m/_mediums|mediums]]) A [[f/_format|format]] for [[c/_communicating|communicating]] or [[p/_presenting|presenting]] [[i/_information|information]].**
 - **([[p/_plural|plural]] [[m/_media|media]] or [[m/_mediums|mediums]]) The [[m/_materials|materials]] used to [[f/_finish|finish]] a workpiece using a [[m/_mass|mass]] [[f/_finishing|finishing]] or [[a/_abrasive|abrasive]] [[b/_blasting|blasting]] [[p/_process|process]].**
@@ -11,7 +11,7 @@
 - **([[p/_plural|plural]] [[m/_mediums|mediums]] or [[m/_media|media]]) A tool used for [[p/_painting|painting]] or [[d/_drawing|drawing]].**
 	- _Example: Acrylics, oils, charcoal, and gouache are all mediums I used in my painting._
 - **([[p/_plural|plural]] [[m/_mediums|mediums]]) [[s/_someone|Someone]] who supposedly [[c/_conveys|conveys]] [[i/_information|information]] from the [[s/_spirit|spirit]] world.**
-- **([[p/_plural|plural]] [[m/_mediums|mediums]]) [[a/_anything|Anything]] [[h/_having|having]] a [[m/_measurement|measurement]] [[i/_intermediate|intermediate]] [[b/_between|between]] [[e/_extremes|extremes]], such as a [[g/_garment|garment]] or [[c/_container|container]].**
+- **([[p/_plural|plural]] [[m/_mediums|mediums]]) [[a/_anything|Anything]] [[h/_having|having]] a [[m/_measurement|measurement]] [[i/_intermediate|intermediate]] [[b/_between|between]] [[e/_extremes|extremes]], [[s/_such|such]] as a [[g/_garment|garment]] or [[c/_container|container]].**
 - **([[p/_plural|plural]] [[m/_mediums|mediums]]) A [[p/_person|person]] whom [[g/_garments|garments]] or [[a/_apparel|apparel]] of [[i/_intermediate|intermediate]] [[s/_size|size]] [[f/_fit|fit]].**
 - **([[p/_plural|plural]] [[m/_mediums|mediums]]) A [[h/_half|half]]-[[p/_pint|pint]] [[s/_serving|serving]] of [[g/_guinness|Guinness]] (or [[o/_other|other]] [[s/_stout|stout]] in [[s/_some|some]] [[r/_regions|regions]]).**
 - **A [[m/_middle|middle]] [[p/_place|place]] or [[d/_degree|degree]].**

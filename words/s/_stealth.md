@@ -1,7 +1,7 @@
 # Stealth
 ---
 #noun
-- **The [[a/_attribute|attribute]] or [[c/_characteristic|characteristic]] of [[a/_acting|acting]] in [[s/_secrecy|secrecy]], or in such a way that the [[a/_actions|actions]] are unnoticed or [[d/_difficult|difficult]] to [[d/_detect|detect]] by [[o/_others|others]].**
+- **The [[a/_attribute|attribute]] or [[c/_characteristic|characteristic]] of [[a/_acting|acting]] in [[s/_secrecy|secrecy]], or in [[s/_such|such]] a way that the [[a/_actions|actions]] are unnoticed or [[d/_difficult|difficult]] to [[d/_detect|detect]] by [[o/_others|others]].**
 - **An [[a/_act|act]] of [[s/_secrecy|secrecy]], [[e/_especially|especially]] [[o/_one|one]] [[i/_involving|involving]] thievery.**
 ---
 #verb

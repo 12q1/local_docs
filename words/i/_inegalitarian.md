@@ -1,7 +1,7 @@
 # Inegalitarian
 ---
 #noun
-- **[[o/_one|One]] who [[d/_does|does]] not support [[e/_equality|equality]]; a subscriber to inegalitarianism.**
+- **[[o/_one|One]] who [[d/_does|does]] not support [[e/_equality|equality]]; a [[s/_subscriber|subscriber]] to inegalitarianism.**
 ---
 ### Synonyms
 - [[i/_inequalitarian|inequalitarian]]

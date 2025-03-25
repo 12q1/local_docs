@@ -3,7 +3,7 @@
 #noun
 - **A [[m/_musical|musical]] [[a/_art|art]] [[f/_form|form]] [[r/_rooted|rooted]] in West [[a/_african|African]] [[c/_cultural|cultural]] and [[m/_musical|musical]] [[e/_expression|expression]] and in the [[a/_african|African]] [[a/_american|American]] [[b/_blues|blues]] tradition, with [[d/_diverse|diverse]] [[i/_influences|influences]] [[o/_over|over]] time, [[c/_commonly|commonly]] [[c/_characterized|characterized]] by [[b/_blue|blue]] [[n/_notes|notes]], [[s/_syncopation|syncopation]], swing, [[c/_call|call]] and [[r/_response|response]], polyrhythms and [[i/_improvisation|improvisation]].**
 - **[[e/_energy|Energy]], [[e/_excitement|excitement]], [[e/_excitability|excitability]].**
-- **The substance or [[m/_makeup|makeup]] of a thing.**
+- **The [[s/_substance|substance]] or [[m/_makeup|makeup]] of a thing.**
 	- _Example: What is all this jazz lying around?_
 - **Unspecified thing([[s/_s|s]]).**
 	- _Example: I'm just going down to the shops and jazz._

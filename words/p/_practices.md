@@ -3,17 +3,17 @@
 #noun
 - **[[r/_repetition|Repetition]] of an [[a/_activity|activity]] to [[i/_improve|improve]] a [[s/_skill|skill]].**
 	- _Example: He will need lots of practice with the lines before he performs them._
-- **An [[o/_organized|organized]] [[e/_event|event]] for the [[p/_purpose|purpose]] of [[p/_performing|performing]] such [[r/_repetition|repetition]].**
+- **An [[o/_organized|organized]] [[e/_event|event]] for the [[p/_purpose|purpose]] of [[p/_performing|performing]] [[s/_such|such]] [[r/_repetition|repetition]].**
 	- _Example: Being on a team is hard: you're always having to go to practice while everyone else is taking it easy._
 - **The [[o/_ongoing|ongoing]] [[p/_pursuit|pursuit]] of a [[c/_craft|craft]] or [[p/_profession|profession]], [[p/_particularly|particularly]] in [[m/_medicine|medicine]] or the [[f/_fine|fine]] [[a/_arts|arts]].**
-- **A [[p/_place|place]] where a [[p/_professional|professional]] [[s/_service|service]] is [[p/_provided|provided]], such as a [[g/_general|general]] [[p/_practice|practice]].**
+- **A [[p/_place|place]] where a [[p/_professional|professional]] [[s/_service|service]] is [[p/_provided|provided]], [[s/_such|such]] as a [[g/_general|general]] [[p/_practice|practice]].**
 	- _Example: She ran a thriving medical practice._
 - **The [[o/_observance|observance]] of [[r/_religious|religious]] [[d/_duties|duties]] that a [[c/_church|church]] [[r/_requires|requires]] of [[i/_its|its]] [[m/_members|members]].**
 - **A [[c/_customary|customary]] [[a/_action|action]], [[h/_habit|habit]], or [[b/_behaviour|behaviour]]; a [[m/_manner|manner]] or [[r/_routine|routine]].**
 	- _Example: It is good practice to check each door and window before leaving._
 - **[[a/_actual|Actual]] [[o/_operation|operation]] or [[e/_experiment|experiment]], in [[c/_contrast|contrast]] to theory.**
 	- _Example: That may work in theory, but will it work in practice?_
-- **The [[f/_form|form]], [[m/_manner|manner]], and [[o/_order|order]] of [[c/_conducting|conducting]] and [[c/_carrying|carrying]] on suits and [[p/_prosecutions|prosecutions]] through their various [[s/_stages|stages]], [[a/_according|according]] to the [[p/_principles|principles]] of [[l/_law|law]] and the [[r/_rules|rules]] [[l/_laid|laid]] [[d/_down|down]] by the [[c/_courts|courts]].**
+- **The [[f/_form|form]], [[m/_manner|manner]], and [[o/_order|order]] of [[c/_conducting|conducting]] and [[c/_carrying|carrying]] on [[s/_suits|suits]] and [[p/_prosecutions|prosecutions]] through their various [[s/_stages|stages]], [[a/_according|according]] to the [[p/_principles|principles]] of [[l/_law|law]] and the [[r/_rules|rules]] [[l/_laid|laid]] [[d/_down|down]] by the [[c/_courts|courts]].**
 	- _Example: This firm of solicitors is involved in family law practice._
 - **[[s/_skilful|Skilful]] or [[a/_artful|artful]] [[m/_management|management]]; [[d/_dexterity|dexterity]] in [[c/_contrivance|contrivance]] or the use of [[m/_means|means]]; [[s/_stratagem|stratagem]]; [[a/_artifice|artifice]].**
 - **A [[e/_easy|easy]] and [[c/_concise|concise]] [[m/_method|method]] of [[a/_applying|applying]] the [[r/_rules|rules]] of [[a/_arithmetic|arithmetic]] to [[q/_questions|questions]] which [[o/_occur|occur]] in trade and [[b/_business|business]].**

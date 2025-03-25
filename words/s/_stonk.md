@@ -5,7 +5,7 @@
 - **A [[s/_stock|stock]].**
 ---
 #verb
-- **To unleash such a [[b/_bombardment|bombardment]].**
+- **To unleash [[s/_such|such]] a [[b/_bombardment|bombardment]].**
 - **To [[o/_overwhelm|overwhelm]].**
 ---
 ---

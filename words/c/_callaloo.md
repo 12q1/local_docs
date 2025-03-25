@@ -2,6 +2,6 @@
 ---
 #noun
 - **[[a/_any|Any]] of various tropical [[p/_plants|plants]] [[g/_grown|grown]] in the [[a/_americas|Americas]], [[e/_especially|especially]] of the [[g/_genus|genus]] Xanthosoma, [[c/_cultivated|cultivated]] for their [[e/_edible|edible]] [[l/_leaves|leaves]].**
-- **A [[s/_spicy|spicy]] [[s/_soup|soup]] or [[s/_stew|stew]] [[m/_made|made]] from such [[l/_leaves|leaves]].**
+- **A [[s/_spicy|spicy]] [[s/_soup|soup]] or [[s/_stew|stew]] [[m/_made|made]] from [[s/_such|such]] [[l/_leaves|leaves]].**
 ---
 ---

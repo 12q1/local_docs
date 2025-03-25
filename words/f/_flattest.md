@@ -21,11 +21,11 @@
 - **[[a/_absolute|Absolute]]; [[d/_downright|downright]]; [[p/_peremptory|peremptory]].**
 	- _Example: His claim was in flat contradiction to experimental results._
 - **(of a [[c/_consonant|consonant]]) [[s/_sonant|sonant]]; vocal, as [[d/_distinguished|distinguished]] from a [[s/_sharp|sharp]] ([[n/_non|non]]-[[s/_sonant|sonant]]) [[c/_consonant|consonant]]**
-- **([[g/_grammar|grammar]]) Not [[h/_having|having]] an [[i/_inflectional|inflectional]] [[e/_ending|ending]] or [[s/_sign|sign]], such as a [[n/_noun|noun]] used as an [[a/_adjective|adjective]], or an [[a/_adjective|adjective]] as an [[a/_adverb|adverb]], without the [[a/_addition|addition]] of a [[f/_formative|formative]] suffix; or an [[i/_infinitive|infinitive]] without the [[s/_sign|sign]] "to".**
+- **([[g/_grammar|grammar]]) Not [[h/_having|having]] an [[i/_inflectional|inflectional]] [[e/_ending|ending]] or [[s/_sign|sign]], [[s/_such|such]] as a [[n/_noun|noun]] used as an [[a/_adjective|adjective]], or an [[a/_adjective|adjective]] as an [[a/_adverb|adverb]], without the [[a/_addition|addition]] of a [[f/_formative|formative]] [[s/_suffix|suffix]]; or an [[i/_infinitive|infinitive]] without the [[s/_sign|sign]] "to".**
 	- _Example: Many flat adverbs, as in 'run fast', 'buy cheap', etc. are from Old English._
 - **(of a [[g/_golf|golf]] [[c/_club|club]]) [[h/_having|Having]] a [[h/_head|head]] at a very [[o/_obtuse|obtuse]] [[a/_angle|angle]] to the [[s/_shaft|shaft]].**
 - **(of [[c/_certain|certain]] [[f/_fruits|fruits]]) [[f/_flattening|Flattening]] at the [[e/_ends|ends]].**
-- **([[a/_authorship|authorship]], [[e/_especially|especially]] of a [[c/_character|character]]) [[l/_lacking|Lacking]] in [[d/_depth|depth]], substance, or [[b/_believability|believability]]; underdeveloped; [[o/_one|one]]-[[d/_dimensional|dimensional]].**
+- **([[a/_authorship|authorship]], [[e/_especially|especially]] of a [[c/_character|character]]) [[l/_lacking|Lacking]] in [[d/_depth|depth]], [[s/_substance|substance]], or [[b/_believability|believability]]; underdeveloped; [[o/_one|one]]-[[d/_dimensional|dimensional]].**
 	- _Example: The author added a chapter to flesh out the books' flatter characters._
 - **[[f/_fixed|Fixed]]; unvarying.**
 	- _Example: a flat fare on public transport_

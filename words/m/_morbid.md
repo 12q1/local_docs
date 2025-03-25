@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Of, or [[r/_relating|relating]] to [[d/_disease|disease]].**
-- **(by [[e/_extension|extension]]) Taking an [[i/_interest|interest]] in unhealthy or unwholesome subjects such as [[d/_death|death]], [[d/_decay|decay]], [[d/_disease|disease]].**
-- **Suggesting the [[h/_horror|horror]] of [[d/_death|death]]; [[m/_macabre|macabre]] or [[g/_ghoulish|ghoulish]]**
+- **(by [[e/_extension|extension]]) Taking an [[i/_interest|interest]] in unhealthy or unwholesome [[s/_subjects|subjects]] [[s/_such|such]] as [[d/_death|death]], [[d/_decay|decay]], [[d/_disease|disease]].**
+- **[[s/_suggesting|Suggesting]] the [[h/_horror|horror]] of [[d/_death|death]]; [[m/_macabre|macabre]] or [[g/_ghoulish|ghoulish]]**
 - **[[g/_grisly|Grisly]] or [[g/_gruesome|gruesome]].**
 ---
 ### Synonyms

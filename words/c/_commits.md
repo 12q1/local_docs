@@ -6,7 +6,7 @@
 #verb
 - **To [[g/_give|give]] in trust; to [[p/_put|put]] [[i/_into|into]] [[c/_charge|charge]] or [[k/_keeping|keeping]]; to [[e/_entrust|entrust]]; to [[c/_consign|consign]]; used with to or [[f/_formerly|formerly]] unto.**
 - **To [[p/_put|put]] in [[c/_charge|charge]] of a [[j/_jailer|jailer]]; to [[i/_imprison|imprison]].**
-- **To [[h/_have|have]] (a [[p/_person|person]]) [[e/_enter|enter]] an [[e/_establishment|establishment]], such as a [[h/_hospital|hospital]] or [[a/_asylum|asylum]], as a [[p/_patient|patient]].**
+- **To [[h/_have|have]] (a [[p/_person|person]]) [[e/_enter|enter]] an [[e/_establishment|establishment]], [[s/_such|such]] as a [[h/_hospital|hospital]] or [[a/_asylum|asylum]], as a [[p/_patient|patient]].**
 	- _Example: Tony should be committed to a nuthouse!_
 - **To [[d/_do|do]] ([[s/_something|something]] [[b/_bad|bad]]); to [[p/_perpetrate|perpetrate]], as a [[c/_crime|crime]], [[s/_sin|sin]], or [[f/_fault|fault]].**
 	- _Example: to commit a series of heinous crimes_

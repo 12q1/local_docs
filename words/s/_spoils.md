@@ -16,7 +16,7 @@
 - [[c/_coddle|coddle]], [[i/_indulge|indulge]], [[m/_mollycoddle|mollycoddle]], [[p/_pamper|pamper]], [[d/_damage|damage]], [[d/_destroy|destroy]], [[r/_ruin|ruin]]
 #noun
 - **That which is taken from [[a/_another|another]] by violence; [[e/_especially|especially]], the [[p/_plunder|plunder]] taken from an [[e/_enemy|enemy]]; [[p/_pillage|pillage]]; [[b/_booty|booty]].**
-- **[[p/_public|Public]] [[o/_offices|offices]] and their [[b/_benefits|benefits]] [[r/_regarded|regarded]] as the [[p/_peculiar|peculiar]] [[p/_property|property]] of a successful [[p/_party|party]] or [[f/_faction|faction]], to be [[b/_bestowed|bestowed]] for [[i/_its|its]] [[o/_own|own]] [[a/_advantage|advantage]].**
+- **[[p/_public|Public]] [[o/_offices|offices]] and their [[b/_benefits|benefits]] [[r/_regarded|regarded]] as the [[p/_peculiar|peculiar]] [[p/_property|property]] of a [[s/_successful|successful]] [[p/_party|party]] or [[f/_faction|faction]], to be [[b/_bestowed|bestowed]] for [[i/_its|its]] [[o/_own|own]] [[a/_advantage|advantage]].**
 	- _Example: To the victor belong the spoils._
 ---
 ---

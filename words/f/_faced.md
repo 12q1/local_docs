@@ -21,7 +21,7 @@
 	- _Example: a building faced with marble_
 - **To [[l/_line|line]] [[n/_near|near]] the [[e/_edge|edge]], [[e/_especially|especially]] with a [[d/_different|different]] [[m/_material|material]].**
 	- _Example: to face the front of a coat, or the bottom of a dress_
-- **To [[c/_cover|cover]] with [[b/_better|better]], or [[b/_better|better]] [[a/_appearing|appearing]], [[m/_material|material]] than the [[m/_mass|mass]] [[c/_consists|consists]] of, for [[p/_purpose|purpose]] of [[d/_deception|deception]], as the surface of a [[b/_box|box]] of tea, a [[b/_barrel|barrel]] of sugar, [[e/_etc|etc]].**
+- **To [[c/_cover|cover]] with [[b/_better|better]], or [[b/_better|better]] [[a/_appearing|appearing]], [[m/_material|material]] than the [[m/_mass|mass]] [[c/_consists|consists]] of, for [[p/_purpose|purpose]] of [[d/_deception|deception]], as the surface of a [[b/_box|box]] of tea, a [[b/_barrel|barrel]] of [[s/_sugar|sugar]], [[e/_etc|etc]].**
 - **To [[m/_make|make]] the surface of ([[a/_anything|anything]]) [[f/_flat|flat]] or [[s/_smooth|smooth]]; to [[d/_dress|dress]] the [[f/_face|face]] of (a [[s/_stone|stone]], a [[c/_casting|casting]], [[e/_etc|etc]].); [[e/_especially|especially]], in turning, to [[s/_shape|shape]] or [[s/_smooth|smooth]] the [[f/_flat|flat]] surface of, as [[d/_distinguished|distinguished]] from the [[c/_cylindrical|cylindrical]] surface.**
 - **([[r/_retail|retail]]) To [[a/_arrange|arrange]] the [[p/_products|products]] in (a [[s/_store|store]]) [[s/_so|so]] that they are tidy and [[a/_attractive|attractive]].**
 	- _Example: In my first job, I learned how to operate a till and to face the store to high standards._

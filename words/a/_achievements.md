@@ -1,7 +1,7 @@
 # Achievements
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_achieving|achieving]] or [[p/_performing|performing]]; a successful [[p/_performance|performance]]; [[a/_accomplishment|accomplishment]]**
+- **The [[a/_act|act]] of [[a/_achieving|achieving]] or [[p/_performing|performing]]; a [[s/_successful|successful]] [[p/_performance|performance]]; [[a/_accomplishment|accomplishment]]**
 - **A [[g/_great|great]] or [[h/_heroic|heroic]] [[d/_deed|deed]] or [[f/_feat|feat]]; [[s/_something|something]] [[a/_accomplished|accomplished]] by valor or [[b/_boldness|boldness]]**
 - **An [[e/_escutcheon|escutcheon]] or [[e/_ensign|ensign]] [[a/_armorial|armorial]]; [[n/_now|now]] [[g/_generally|generally]] [[a/_applied|applied]] to the [[f/_funeral|funeral]] [[s/_shield|shield]] [[c/_commonly|commonly]] [[c/_called|called]] [[h/_hatchment|hatchment]].**
 - **An [[a/_award|award]] for [[c/_completing|completing]] a [[p/_particular|particular]] task or [[m/_meeting|meeting]] an [[o/_objective|objective]] in a video [[g/_game|game]].**

@@ -29,7 +29,7 @@
 - **The [[f/_formation|formation]] of a [[l/_layer|layer]] of [[s/_scale|scale]] on a surface.**
 - **The [[r/_removal|removal]] of a [[l/_layer|layer]] of [[s/_scale|scale]] from a surface.**
 - **The [[m/_measurement|measurement]] of [[d/_dimensions|dimensions]] using a [[s/_scale|scale]].**
-- **The [[p/_process|process]] of [[a/_adjusting|adjusting]] [[r/_raw|raw]] [[m/_measurement|measurement]] [[d/_data|data]] to [[f/_fit|fit]] an [[e/_expected|expected]] [[d/_distribution|distribution]], such [[f/_fitting|fitting]] [[e/_examination|examination]] [[r/_results|results]] to a [[n/_normal|normal]] [[d/_distribution|distribution]].**
+- **The [[p/_process|process]] of [[a/_adjusting|adjusting]] [[r/_raw|raw]] [[m/_measurement|measurement]] [[d/_data|data]] to [[f/_fit|fit]] an [[e/_expected|expected]] [[d/_distribution|distribution]], [[s/_such|such]] [[f/_fitting|fitting]] [[e/_examination|examination]] [[r/_results|results]] to a [[n/_normal|normal]] [[d/_distribution|distribution]].**
 - **The [[e/_expression|expression]] of the terms of an [[e/_equation|equation]] using [[p/_powers|powers]] of nondimensional [[q/_quantities|quantities]].**
 - **The [[p/_process|process]] of [[a/_adjusting|adjusting]] [[s/_sights|sights]] to a [[s/_ship|ship]]'[[s/_s|s]] [[g/_guns|guns]].**
 ---

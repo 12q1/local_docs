@@ -1,7 +1,7 @@
 # Stationary
 ---
 #noun
-- **[[o/_one|One]] who, or that which, is [[s/_stationary|stationary]], such as a [[p/_planet|planet]] when [[a/_apparently|apparently]] it [[h/_has|has]] [[n/_neither|neither]] [[p/_progressive|progressive]] [[n/_nor|nor]] [[r/_retrograde|retrograde]] [[m/_motion|motion]].**
+- **[[o/_one|One]] who, or that which, is [[s/_stationary|stationary]], [[s/_such|such]] as a [[p/_planet|planet]] when [[a/_apparently|apparently]] it [[h/_has|has]] [[n/_neither|neither]] [[p/_progressive|progressive]] [[n/_nor|nor]] [[r/_retrograde|retrograde]] [[m/_motion|motion]].**
 ---
 #adjective
 - **Not [[m/_moving|moving]].**

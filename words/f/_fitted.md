@@ -1,7 +1,7 @@
 # Fitted
 ---
 #verb
-- **To be suitable for.**
+- **To be [[s/_suitable|suitable]] for.**
 	- _Example: It fits the purpose._
 - **To [[c/_conform|conform]] to in [[s/_size|size]] and [[s/_shape|shape]].**
 	- _Example: If I lose a few kilos, the gorgeous wedding dress might fit me._
@@ -24,7 +24,7 @@
 	- _Example: The paint, the fabrics, the rugs all fit._
 ---
 #verb
-- **To suffer a [[f/_fit|fit]].**
+- **To [[s/_suffer|suffer]] a [[f/_fit|fit]].**
 ---
 #adjective
 - **(of a [[k/_kitchen|kitchen]], [[b/_bathroom|bathroom]], [[e/_etc|etc]].) [[i/_incorporating|Incorporating]] [[a/_all|all]] of the [[f/_fittings|fittings]] [[i/_into|into]] [[c/_connected|connected]] units.**

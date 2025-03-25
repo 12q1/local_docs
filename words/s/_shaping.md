@@ -7,7 +7,7 @@
 	- _Example: Shape the dough into a pretzel.   For my art project, I plan to shape my clay lump into a bowl._
 - **To [[f/_form|form]] or [[m/_manipulate|manipulate]] [[s/_something|something]] [[i/_into|into]] a [[c/_certain|certain]] [[s/_shape|shape]].**
 - **(of a [[c/_country|country]], [[p/_person|person]], [[e/_etc|etc]]) To [[g/_give|give]] [[i/_influence|influence]] to.**
-- **To suit; to be [[a/_adjusted|adjusted]] or [[c/_conformable|conformable]].**
+- **To [[s/_suit|suit]]; to be [[a/_adjusted|adjusted]] or [[c/_conformable|conformable]].**
 - **To [[i/_imagine|imagine]]; to [[c/_conceive|conceive]].**
 ---
 ### Synonyms

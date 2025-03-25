@@ -3,7 +3,7 @@
 #noun
 - **A team; a [[g/_group|group]] of [[p/_people|people]] who work together [[p/_professionally|professionally]].**
 - **A [[s/_small|small]] [[g/_group|group]] of [[b/_birds|birds]] or [[a/_animals|animals]].**
-- **An [[e/_entity|entity]] [[h/_having|having]] [[l/_legal|legal]] [[p/_personality|personality]], and thus [[a/_able|able]] to [[o/_own|own]] [[p/_property|property]] and to sue and be sued in [[i/_its|its]] [[o/_own|own]] [[n/_name|name]]; a [[c/_corporation|corporation]].**
+- **An [[e/_entity|entity]] [[h/_having|having]] [[l/_legal|legal]] [[p/_personality|personality]], and thus [[a/_able|able]] to [[o/_own|own]] [[p/_property|property]] and to [[s/_sue|sue]] and be [[s/_sued|sued]] in [[i/_its|its]] [[o/_own|own]] [[n/_name|name]]; a [[c/_corporation|corporation]].**
 - **[[a/_any|Any]] [[b/_business|business]], whether [[i/_incorporated|incorporated]] or not, that [[m/_manufactures|manufactures]] or [[s/_sells|sells]] [[p/_products|products]] ([[a/_also|also]] [[k/_known|known]] as [[g/_goods|goods]]), or [[p/_provides|provides]] [[s/_services|services]] as a [[c/_commercial|commercial]] venture.**
 - **[[s/_social|Social]] visitors or [[c/_companions|companions]].**
 	- _Example: Keep the house clean; I have company coming._

@@ -1,7 +1,7 @@
 # Redundant
 ---
 #adjective
-- **Superfluous; [[e/_exceeding|exceeding]] what is [[n/_necessary|necessary]].**
+- **[[s/_superfluous|Superfluous]]; [[e/_exceeding|exceeding]] what is [[n/_necessary|necessary]].**
 - **(of words, writing, [[e/_etc|etc]]) [[r/_repetitive|Repetitive]] or [[n/_needlessly|needlessly]] wordy.**
 - **[[d/_dismissed|Dismissed]] from [[e/_employment|employment]] [[b/_because|because]] [[n/_no|no]] [[l/_longer|longer]] [[n/_needed|needed]].**
 	- _Example: Four employees were made redundant._

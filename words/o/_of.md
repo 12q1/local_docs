@@ -5,8 +5,8 @@
 - **[[e/_expressing|Expressing]] [[s/_separation|separation]].**
 - **[[e/_expressing|Expressing]] [[o/_origin|origin]].**
 - **[[e/_expressing|Expressing]] [[a/_agency|agency]].**
-- **[[e/_expressing|Expressing]] [[c/_composition|composition]], substance.**
-- **[[i/_introducing|Introducing]] subject [[m/_matter|matter]].**
+- **[[e/_expressing|Expressing]] [[c/_composition|composition]], [[s/_substance|substance]].**
+- **[[i/_introducing|Introducing]] [[s/_subject|subject]] [[m/_matter|matter]].**
 - **[[h/_having|Having]] [[p/_partitive|partitive]] [[e/_effect|effect]].**
 - **[[e/_expressing|Expressing]] [[p/_possession|possession]].**
 - **[[f/_forming|Forming]] the "[[o/_objective|objective]] [[g/_genitive|genitive]]".**

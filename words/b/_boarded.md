@@ -17,6 +17,6 @@
 ### Antonyms
 - [[a/_alight|alight]], [[d/_disembark|disembark]]
 #adjective
-- **(of a [[s/_structure|structure]], such as a [[r/_roof|roof]], window, [[e/_etc|etc]].) wooden, [[b/_built|built]] with [[p/_pieces|pieces]] of wood**
+- **(of a [[s/_structure|structure]], [[s/_such|such]] as a [[r/_roof|roof]], window, [[e/_etc|etc]].) wooden, [[b/_built|built]] with [[p/_pieces|pieces]] of wood**
 ---
 ---

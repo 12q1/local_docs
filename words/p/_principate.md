@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[e/_early|early]] [[p/_period|period]] of the [[r/_roman|Roman]] [[e/_empire|Empire]], [[d/_during|during]] which [[s/_some|some]] [[c/_characteristics|characteristics]] of the [[g/_government|government]] of the [[r/_roman|Roman]] [[r/_republic|Republic]] were [[r/_retained|retained]]; the [[r/_reign|reign]] of [[a/_any|any]] [[p/_particular|particular]] [[e/_emperor|emperor]] [[d/_during|during]] [[s/_said|said]] [[p/_period|period]].**
-- **The [[o/_office|office]] of [[o/_one|one]] who is [[p/_principal|principal]] or [[p/_preeminent|preeminent]] (such as a [[p/_prince|prince]]); the [[q/_quality|quality]] or [[s/_status|status]] of [[b/_being|being]] [[p/_principal|principal]]; [[p/_preeminence|preeminence]].**
+- **The [[o/_office|office]] of [[o/_one|one]] who is [[p/_principal|principal]] or [[p/_preeminent|preeminent]] ([[s/_such|such]] as a [[p/_prince|prince]]); the [[q/_quality|quality]] or [[s/_status|status]] of [[b/_being|being]] [[p/_principal|principal]]; [[p/_preeminence|preeminence]].**
 - **A [[s/_state|state]] [[r/_ruled|ruled]] by a [[p/_prince|prince]]; a [[p/_principality|principality]].**
 ---
 ### Synonyms

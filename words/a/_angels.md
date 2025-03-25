@@ -2,8 +2,8 @@
 ---
 #noun
 - **An [[i/_incorporeal|incorporeal]] and [[s/_sometimes|sometimes]] [[d/_divine|divine]] [[m/_messenger|messenger]] from a [[d/_deity|deity]], or [[o/_other|other]] [[d/_divine|divine]] [[e/_entity|entity]], [[o/_often|often]] [[d/_depicted|depicted]] in [[a/_art|art]] as a [[y/_youthful|youthful]] winged [[f/_figure|figure]] in [[f/_flowing|flowing]] [[r/_robes|robes]].**
-- **([[a/_abrahamic|Abrahamic]] tradition) [[o/_one|One]] of the [[l/_lowest|lowest]] [[o/_order|order]] of such [[b/_beings|beings]], [[b/_below|below]] virtues.**
-- **A [[p/_person|person]] [[h/_having|having]] the [[q/_qualities|qualities]] [[a/_attributed|attributed]] to [[a/_angels|angels]], such as [[p/_purity|purity]] or [[s/_selflessness|selflessness]].**
+- **([[a/_abrahamic|Abrahamic]] tradition) [[o/_one|One]] of the [[l/_lowest|lowest]] [[o/_order|order]] of [[s/_such|such]] [[b/_beings|beings]], [[b/_below|below]] virtues.**
+- **A [[p/_person|person]] [[h/_having|having]] the [[q/_qualities|qualities]] [[a/_attributed|attributed]] to [[a/_angels|angels]], [[s/_such|such]] as [[p/_purity|purity]] or [[s/_selflessness|selflessness]].**
 	- _Example: Thanks for making me breakfast in bed, you little angel._
 - **[[a/_attendant|Attendant]] [[s/_spirit|spirit]]; [[g/_genius|genius]]; [[d/_demon|demon]].**
 - **([[p/_possibly|possibly]] [[o/_obsolete|obsolete]]) An [[o/_official|official]] (a [[b/_bishop|bishop]], or [[s/_sometimes|sometimes]] a [[m/_minister|minister]]) who [[h/_heads|heads]] a [[c/_christian|Christian]] [[c/_church|church]], [[e/_especially|especially]] a [[c/_catholic|Catholic]] [[a/_apostolic|Apostolic]] [[c/_church|church]].**

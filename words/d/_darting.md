@@ -1,8 +1,8 @@
 # Darting
 ---
 #verb
-- **To throw with a sudden [[e/_effort|effort]] or thrust; to [[h/_hurl|hurl]] or [[l/_launch|launch]].**
-- **To [[s/_send|send]] [[f/_forth|forth]] suddenly or [[r/_rapidly|rapidly]]; to [[e/_emit|emit]]; to [[s/_shoot|shoot]]**
+- **To throw with a [[s/_sudden|sudden]] [[e/_effort|effort]] or thrust; to [[h/_hurl|hurl]] or [[l/_launch|launch]].**
+- **To [[s/_send|send]] [[f/_forth|forth]] [[s/_suddenly|suddenly]] or [[r/_rapidly|rapidly]]; to [[e/_emit|emit]]; to [[s/_shoot|shoot]]**
 	- _Example: The sun darts forth his beams._
 - **To [[s/_shoot|shoot]] with a [[d/_dart|dart]], [[e/_especially|especially]] a tranquilizer [[d/_dart|dart]]**
 	- _Example: They had to dart the animal to get close enough to help_

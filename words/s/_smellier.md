@@ -5,7 +5,7 @@
 	- _Example: She was hesitant to remove her shoes, as her socks were rather smelly._
 - **[[h/_having|Having]] a [[q/_quality|quality]] that [[a/_arouses|arouses]] suspicion.**
 	- _Example: The detective read the documents and thought, "Something sure is smelly about this case."_
-- **(in [[e/_extreme|extreme]] [[p/_programming|programming]]) [[h/_having|Having]] [[s/_signs|signs]] that suggest a [[d/_design|design]] [[p/_problem|problem]]; [[h/_having|having]] a [[c/_code|code]] [[s/_smell|smell]].**
+- **(in [[e/_extreme|extreme]] [[p/_programming|programming]]) [[h/_having|Having]] [[s/_signs|signs]] that [[s/_suggest|suggest]] a [[d/_design|design]] [[p/_problem|problem]]; [[h/_having|having]] a [[c/_code|code]] [[s/_smell|smell]].**
 	- _Example: That smelly code needs to be refactored._
 ---
 ### Synonyms

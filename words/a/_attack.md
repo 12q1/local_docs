@@ -12,7 +12,7 @@
 - **[[c/_collectively|Collectively]], the [[b/_bowlers|bowlers]] of a [[c/_cricket|cricket]] [[s/_side|side]].**
 - **[[a/_any|Any]] [[c/_contact|contact]] with the [[b/_ball|ball]] [[o/_other|other]] than a [[s/_serve|serve]] or [[b/_block|block]] which [[s/_sends|sends]] the [[b/_ball|ball]] [[a/_across|across]] the [[p/_plane|plane]] of the [[n/_net|net]].**
 - **The three attackmen on the [[f/_field|field]] or [[a/_all|all]] the attackmen of a team.**
-- **The sudden [[o/_onset|onset]] of a [[d/_disease|disease]] or [[c/_condition|condition]].**
+- **The [[s/_sudden|sudden]] [[o/_onset|onset]] of a [[d/_disease|disease]] or [[c/_condition|condition]].**
 	- _Example: I've had an attack of the flu._
 - **An [[a/_active|active]] [[e/_episode|episode]] of a [[c/_chronic|chronic]] or [[r/_recurrent|recurrent]] [[d/_disease|disease]].**
 - **The [[o/_onset|onset]] of a [[m/_musical|musical]] [[n/_note|note]], [[p/_particularly|particularly]] with [[r/_respect|respect]] to the [[s/_strength|strength]] (and [[d/_duration|duration]]) of that [[o/_onset|onset]].**

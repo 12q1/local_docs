@@ -30,7 +30,7 @@
 - **To [[m/_make|make]] an [[o/_opening|opening]] in; to [[b/_breach|breach]].**
 - **To [[c/_check|check]] the [[s/_size|size]] of a [[g/_gap|gap]].**
 	- _Example: I gapped all the spark plugs in my car, but then realized I had used the wrong manual and had made them too small._
-- **To [[l/_leave|leave]] suddenly.**
+- **To [[l/_leave|leave]] [[s/_suddenly|suddenly]].**
 ---
 #noun
 - **An [[e/_elected|elected]] [[h/_head|head]] of a gewog in [[b/_bhutan|Bhutan]].**

@@ -1,10 +1,10 @@
 # Daylights
 ---
 #noun
-- **The [[l/_light|light]] from the Sun, as [[o/_opposed|opposed]] to that from [[a/_any|any]] [[o/_other|other]] [[s/_source|source]].**
+- **The [[l/_light|light]] from the [[s/_sun|Sun]], as [[o/_opposed|opposed]] to that from [[a/_any|any]] [[o/_other|other]] [[s/_source|source]].**
 - **A [[l/_light|light]] [[s/_source|source]] that [[s/_simulates|simulates]] [[d/_daylight|daylight]].**
-- **([[p/_photometry|photometry]]) The [[i/_intensity|intensity]] [[d/_distribution|distribution]] of [[l/_light|light]] [[o/_over|over]] the visible [[s/_spectrum|spectrum]] [[g/_generated|generated]] by the Sun under various [[c/_conditions|conditions]] or by [[o/_other|other]] [[l/_light|light]] [[s/_sources|sources]] [[i/_intended|intended]] to [[s/_simulate|simulate]] [[n/_natural|natural]] [[d/_daylight|daylight]].**
-- **The [[p/_period|period]] of time [[b/_between|between]] sunrise and sunset.**
+- **([[p/_photometry|photometry]]) The [[i/_intensity|intensity]] [[d/_distribution|distribution]] of [[l/_light|light]] [[o/_over|over]] the visible [[s/_spectrum|spectrum]] [[g/_generated|generated]] by the [[s/_sun|Sun]] under various [[c/_conditions|conditions]] or by [[o/_other|other]] [[l/_light|light]] [[s/_sources|sources]] [[i/_intended|intended]] to [[s/_simulate|simulate]] [[n/_natural|natural]] [[d/_daylight|daylight]].**
+- **The [[p/_period|period]] of time [[b/_between|between]] [[s/_sunrise|sunrise]] and [[s/_sunset|sunset]].**
 	- _Example: We should get home while it's still daylight._
 - **[[d/_daybreak|Daybreak]].**
 	- _Example: We had only two hours to work before daylight._

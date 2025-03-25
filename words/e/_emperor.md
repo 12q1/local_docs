@@ -8,6 +8,6 @@
 - **The [[f/_fourth|fourth]] trump or [[m/_major|major]] [[a/_arcana|arcana]] [[c/_card|card]] of the tarot [[d/_deck|deck]].**
 - **A [[l/_large|large]], [[r/_relatively|relatively]] valuable [[m/_marble|marble]] in [[c/_children|children]]'[[s/_s|s]] [[g/_games|games]].**
 - **[[a/_any|Any]] [[f/_fish|fish]] of the [[f/_family|family]] Lethrinidae.**
-- **[[a/_any|Any]] various [[b/_butterflies|butterflies]] of the subfamily Charaxinae.**
+- **[[a/_any|Any]] various [[b/_butterflies|butterflies]] of the [[s/_subfamily|subfamily]] Charaxinae.**
 ---
 ---

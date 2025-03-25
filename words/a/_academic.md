@@ -19,7 +19,7 @@
 	- _Example: I'm more academic than athletic — I get lower marks in phys. ed. than in anything else._
 - **[[c/_conforming|Conforming]] to [[s/_set|set]] [[r/_rules|rules]] and traditions; [[c/_conventional|conventional]]; [[f/_formalistic|formalistic]].**
 - **[[s/_so|So]] [[s/_scholarly|scholarly]] as to be unaware of the [[o/_outside|outside]] world; [[l/_lacking|lacking]] in worldliness.**
-- **Subscribing to the [[a/_architectural|architectural]] [[s/_standards|standards]] of Vitruvius.**
+- **[[s/_subscribing|Subscribing]] to the [[a/_architectural|architectural]] [[s/_standards|standards]] of Vitruvius.**
 - **[[s/_study|Study]] of [[h/_humanities|humanities]] topics [[r/_rather|rather]] than [[s/_science|science]] and [[e/_engineering|engineering]].**
 ---
 ---

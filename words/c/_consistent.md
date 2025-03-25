@@ -8,7 +8,7 @@
 - **Of a [[r/_regularly|regularly]] [[o/_occurring|occurring]], [[d/_dependable|dependable]] [[n/_nature|nature]].**
 	- _Example: He is very consistent in his political choices: economy good or bad, he always votes Labour!_
 - **[[c/_compatible|Compatible]], [[a/_accordant|accordant]].**
-- **Of a [[s/_set|set]] of [[s/_statements|statements]]: such that [[n/_no|no]] [[c/_contradiction|contradiction]] [[l/_logically|logically]] [[f/_follows|follows]] from them.**
+- **Of a [[s/_set|set]] of [[s/_statements|statements]]: [[s/_such|such]] that [[n/_no|no]] [[c/_contradiction|contradiction]] [[l/_logically|logically]] [[f/_follows|follows]] from them.**
 ---
 ### Antonyms
 - [[c/_contradictory|contradictory]], [[i/_incompatible|incompatible]], [[i/_inconsistent|inconsistent]]

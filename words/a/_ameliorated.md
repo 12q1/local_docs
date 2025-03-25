@@ -8,6 +8,6 @@
 ### Antonyms
 - [[d/_deteriorate|deteriorate]], [[w/_worsen|worsen]]
 #adjective
-- **[[h/_having|Having]] [[h/_had|had]] [[p/_problem|problem]]([[s/_s|s]]) [[i/_improved|improved]] upon; [[h/_having|having]] [[b/_been|been]] the subject of [[a/_amelioration|amelioration]].**
+- **[[h/_having|Having]] [[h/_had|had]] [[p/_problem|problem]]([[s/_s|s]]) [[i/_improved|improved]] upon; [[h/_having|having]] [[b/_been|been]] the [[s/_subject|subject]] of [[a/_amelioration|amelioration]].**
 ---
 ---

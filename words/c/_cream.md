@@ -4,7 +4,7 @@
 - **The [[b/_butterfat|butterfat]]/milkfat [[p/_part|part]] of [[m/_milk|milk]] which [[r/_rises|rises]] to the top; this [[p/_part|part]] when [[s/_separated|separated]] from the [[r/_remainder|remainder]].**
 	- _Example: Take 100 ml of cream and 50 grams of sugar…_
 - **A [[y/_yellowish|yellowish]] white [[c/_colour|colour]]; the [[c/_colour|colour]] of [[c/_cream|cream]].**
-- **[[f/_frosting|Frosting]], [[c/_custard|custard]], [[c/_creamer|creamer]] or [[a/_another|another]] substance [[s/_similar|similar]] to the [[o/_oily|oily]] [[p/_part|part]] of [[m/_milk|milk]] or to whipped [[c/_cream|cream]].**
+- **[[f/_frosting|Frosting]], [[c/_custard|custard]], [[c/_creamer|creamer]] or [[a/_another|another]] [[s/_substance|substance]] [[s/_similar|similar]] to the [[o/_oily|oily]] [[p/_part|part]] of [[m/_milk|milk]] or to whipped [[c/_cream|cream]].**
 - **The [[b/_best|best]] [[p/_part|part]] of [[s/_something|something]].**
 	- _Example: the cream of the crop;  the cream of a collection of books or pictures_
 - **A viscous [[a/_aqueous|aqueous]] [[o/_oil|oil]]/[[f/_fat|fat]] [[e/_emulsion|emulsion]] with a [[m/_medicament|medicament]] [[a/_added|added]], used to [[a/_apply|apply]] that [[m/_medicament|medicament]] to the [[s/_skin|skin]]. ([[c/_compare|compare]] with [[o/_ointment|ointment]])**

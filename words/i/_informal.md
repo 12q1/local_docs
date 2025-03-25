@@ -5,7 +5,7 @@
 	- _Example: an informal get-together_
 - **Not in [[a/_accord|accord]] with the usual [[r/_regulations|regulations]].**
 	- _Example: an informal agreement_
-- **Suited for [[e/_everyday|everyday]] use.**
+- **[[s/_suited|Suited]] for [[e/_everyday|everyday]] use.**
 	- _Example: informal clothes_
 - **(of [[l/_language|language]]) [[r/_reflecting|Reflecting]] [[e/_everyday|everyday]], [[n/_non|non]]-[[c/_ceremonious|ceremonious]] usage.**
 - **Not [[o/_organized|organized]]; not [[s/_structured|structured]] or [[p/_planned|planned]].**

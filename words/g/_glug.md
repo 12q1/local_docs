@@ -1,7 +1,7 @@
 # Glug
 ---
 #noun
-- **The [[s/_sound|sound]] [[m/_made|made]] when a [[s/_significant|significant]] [[a/_amount|amount]] of [[l/_liquid|liquid]] is [[p/_poured|poured]] suddenly [[o/_out|out]] of [[s/_something|something]], such as a [[j/_jug|jug]] or [[b/_bottle|bottle]].**
+- **The [[s/_sound|sound]] [[m/_made|made]] when a [[s/_significant|significant]] [[a/_amount|amount]] of [[l/_liquid|liquid]] is [[p/_poured|poured]] [[s/_suddenly|suddenly]] [[o/_out|out]] of [[s/_something|something]], [[s/_such|such]] as a [[j/_jug|jug]] or [[b/_bottle|bottle]].**
 - **The [[a/_amount|amount]] of [[l/_liquid|liquid]] [[i/_issued|issued]] when the "[[g/_glug|glug]]" [[s/_sound|sound]] is [[h/_heard|heard]].**
 	- _Example: Pour a glug of bleach into the toilet._
 ---

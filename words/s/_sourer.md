@@ -11,7 +11,7 @@
 	- _Example: He gave me a sour look._
 - **(of [[s/_soil|soil]]) [[e/_excessively|Excessively]] [[a/_acidic|acidic]] and thus [[i/_infertile|infertile]].**
 	- _Example: a sour marsh_
-- **(of [[p/_petroleum|petroleum]]) [[c/_containing|Containing]] [[e/_excess|excess]] sulfur.**
+- **(of [[p/_petroleum|petroleum]]) [[c/_containing|Containing]] [[e/_excess|excess]] [[s/_sulfur|sulfur]].**
 	- _Example: sour gas smells like rotten eggs_
 - **Unfortunate or unfavorable.**
 - **[[o/_off|Off]]-[[p/_pitch|pitch]], [[o/_out|out]] of tune.**

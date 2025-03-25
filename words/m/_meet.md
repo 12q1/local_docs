@@ -18,7 +18,7 @@
 - **To [[s/_satisfy|satisfy]]; to [[c/_comply|comply]] with.**
 	- _Example: This proposal meets my requirements. The company agrees to meet the cost of any repairs._
 - **To [[b/_balance|balance]] or [[c/_come|come]] [[o/_out|out]] [[c/_correct|correct]].**
-- **To [[p/_perceive|perceive]]; to [[c/_come|come]] to a [[k/_knowledge|knowledge]] of; to [[h/_have|have]] [[p/_personal|personal]] [[a/_acquaintance|acquaintance]] with; to [[e/_experience|experience]]; to suffer.**
+- **To [[p/_perceive|perceive]]; to [[c/_come|come]] to a [[k/_knowledge|knowledge]] of; to [[h/_have|have]] [[p/_personal|personal]] [[a/_acquaintance|acquaintance]] with; to [[e/_experience|experience]]; to [[s/_suffer|suffer]].**
 	- _Example: The eye met a horrid sight. He met his fate._
 - **To be [[m/_mixed|mixed]] with, to be [[c/_combined|combined]] with [[a/_aspects|aspects]] of.**
 ---

@@ -14,7 +14,7 @@
 - [[d/_downbear|downbear]]
 #adjective
 - **Unhappy; [[d/_despondent|despondent]]**
-- **Suffering [[d/_damaging|damaging]] [[e/_effects|effects]] of [[e/_economic|economic]] [[r/_recession|recession]].**
+- **[[s/_suffering|Suffering]] [[d/_damaging|damaging]] [[e/_effects|effects]] of [[e/_economic|economic]] [[r/_recession|recession]].**
 ---
 ### Synonyms
 - [[d/_despondent|despondent]], [[e/_emo|emo]], [[g/_gloomy|gloomy]], [[m/_melancholy|melancholy]], [[m/_miserable|miserable]], [[s/_sad|sad]], [[u/_unhappy|unhappy]]

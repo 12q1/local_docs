@@ -12,7 +12,7 @@
 	- _Example: Foreign markets were lost as our currency rose versus their valuta._
 - **A [[f/_formally|formally]] [[o/_organized|organized]], [[s/_sometimes|sometimes]] [[m/_monopolistic|monopolistic]], [[s/_system|system]] of trading in [[s/_specified|specified]] [[g/_goods|goods]] or [[e/_effects|effects]].**
 	- _Example: The stock market ceased to be monopolized by the paper-shuffling national stock exchanges with the advent of Internet markets._
-- **The sum total traded in a [[p/_process|process]] of [[i/_individuals|individuals]] trading for [[c/_certain|certain]] [[c/_commodities|commodities]].**
+- **The [[s/_sum|sum]] total traded in a [[p/_process|process]] of [[i/_individuals|individuals]] trading for [[c/_certain|certain]] [[c/_commodities|commodities]].**
 - **The [[p/_price|price]] for which a thing is [[s/_sold|sold]] in a [[m/_market|market]]; [[h/_hence|hence]], value; worth.**
 ---
 ### Synonyms

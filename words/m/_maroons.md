@@ -13,7 +13,7 @@
 - **A [[r/_rich|rich]] [[d/_dark|dark]] [[r/_red|red]], [[s/_somewhat|somewhat]] [[b/_brownish|brownish]], [[c/_color|color]].**
 ---
 #noun
-- **A [[r/_rocket|rocket]]-[[p/_propelled|propelled]] [[f/_firework|firework]] or [[s/_skyrocket|skyrocket]], [[o/_often|often]] [[o/_one|one]] used as a [[s/_signal|signal]] ([[e/_e|e]].[[g/_g|g]]. to summon the [[c/_crew|crew]] of a [[l/_lifeboat|lifeboat]] or warn of an [[a/_air|air]] [[r/_raid|raid]]).**
+- **A [[r/_rocket|rocket]]-[[p/_propelled|propelled]] [[f/_firework|firework]] or [[s/_skyrocket|skyrocket]], [[o/_often|often]] [[o/_one|one]] used as a [[s/_signal|signal]] ([[e/_e|e]].[[g/_g|g]]. to [[s/_summon|summon]] the [[c/_crew|crew]] of a [[l/_lifeboat|lifeboat]] or warn of an [[a/_air|air]] [[r/_raid|raid]]).**
 ---
 #noun
 - **An [[i/_idiot|idiot]]; a [[f/_fool|fool]].**

@@ -14,7 +14,7 @@
 	- _Example: the determination of the level of salt in sea water_
 - **The [[a/_act|act]] of [[d/_defining|defining]] a [[c/_concept|concept]] or [[n/_notion|notion]] by [[g/_giving|giving]] [[i/_its|its]] [[e/_essential|essential]] [[c/_constituents|constituents]].**
 - **The [[a/_addition|addition]] of a [[d/_distinguishing|distinguishing]] [[f/_feature|feature]] to a [[c/_concept|concept]] or [[n/_notion|notion]], thus [[l/_limiting|limiting]] [[i/_its|its]] [[e/_extent|extent]]; -- the [[o/_opposite|opposite]] of [[g/_generalization|generalization]].**
-- **The [[a/_act|act]] of [[d/_determining|determining]] the [[r/_relations|relations]] of an [[o/_object|object]], such as [[g/_genus|genus]] and [[s/_species|species]]; the [[r/_referring|referring]] of [[m/_minerals|minerals]], [[p/_plants|plants]], or [[a/_animals|animals]], to the [[s/_species|species]] to which they [[b/_belong|belong]]; [[c/_classification|classification]]**
+- **The [[a/_act|act]] of [[d/_determining|determining]] the [[r/_relations|relations]] of an [[o/_object|object]], [[s/_such|such]] as [[g/_genus|genus]] and [[s/_species|species]]; the [[r/_referring|referring]] of [[m/_minerals|minerals]], [[p/_plants|plants]], or [[a/_animals|animals]], to the [[s/_species|species]] to which they [[b/_belong|belong]]; [[c/_classification|classification]]**
 	- _Example: I am indebted to a friend for the determination of most of these shells._
 ---
 ---

@@ -6,7 +6,7 @@
 - **[[s/_sexually|Sexually]] [[p/_provocative|provocative]]; [[n/_now|now]] in weakened [[s/_sense|sense]], [[r/_risqu|risqu]]é, [[c/_cheeky|cheeky]].**
 	- _Example: I bought some naughty lingerie for my honeymoon._
 - **[[e/_evil|Evil]], wicked, [[m/_morally|morally]] [[r/_reprehensible|reprehensible]].**
-- **[[b/_bad|Bad]], worthless, substandard.**
+- **[[b/_bad|Bad]], worthless, [[s/_substandard|substandard]].**
 ---
 ### Synonyms
 - [[d/_dirty|dirty]], [[m/_mischievous|mischievous]]

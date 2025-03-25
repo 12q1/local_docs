@@ -13,7 +13,7 @@
 - **A weight of twenty [[p/_pounds|pounds]].**
 - **The written [[f/_form|form]] of a [[m/_musical|musical]] [[c/_composition|composition]] [[s/_showing|showing]] [[a/_all|all]] [[i/_instrumental|instrumental]] and vocal [[p/_parts|parts]] [[b/_below|below]] [[e/_each|each]] [[o/_other|other]].**
 - **The [[m/_music|music]] of a [[m/_movie|movie]] or [[p/_play|play]].**
-- **Subject.**
+- **[[s/_subject|Subject]].**
 - **[[a/_account|Account]]; [[r/_reason|reason]]; [[m/_motive|motive]]; [[s/_sake|sake]]; [[b/_behalf|behalf]].**
 - **A [[n/_notch|notch]] or [[i/_incision|incision]]; [[e/_especially|especially]], [[o/_one|one]] that is [[m/_made|made]] as a tally [[m/_mark|mark]]; [[h/_hence|hence]], a [[m/_mark|mark]], or [[l/_line|line]], [[m/_made|made]] for the [[p/_purpose|purpose]] of [[a/_account|account]].**
 - **An [[a/_account|account]] or [[r/_reckoning|reckoning]]; [[a/_account|account]] of [[d/_dues|dues]]; [[b/_bill|bill]]; [[d/_debt|debt]].**

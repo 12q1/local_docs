@@ -19,7 +19,7 @@
 #noun
 - **A [[c/_cigarette|cigarette]] [[b/_butt|butt]].**
 - **An [[a/_animated|animated]] [[p/_promotional|promotional]] [[l/_logo|logo]] [[d/_during|during]] a television [[s/_show|show]].**
-- **A [[s/_strip|strip]] of [[c/_copy|copy]] [[a/_announcing|announcing]] [[s/_some|some]] [[l/_late|late]] [[b/_breaking|breaking]] [[n/_news|news]] or [[i/_item|item]] of [[i/_interest|interest]], typically [[p/_placed|placed]] in a [[p/_print|print]] [[a/_advertisement|advertisement]] in such a way that it [[s/_stands|stands]] [[o/_out|out]] from the [[a/_ad|ad]].**
+- **A [[s/_strip|strip]] of [[c/_copy|copy]] [[a/_announcing|announcing]] [[s/_some|some]] [[l/_late|late]] [[b/_breaking|breaking]] [[n/_news|news]] or [[i/_item|item]] of [[i/_interest|interest]], typically [[p/_placed|placed]] in a [[p/_print|print]] [[a/_advertisement|advertisement]] in [[s/_such|such]] a way that it [[s/_stands|stands]] [[o/_out|out]] from the [[a/_ad|ad]].**
 - **A [[b/_bottle|bottle]] of wine [[m/_measuring|measuring]] 0.1875 [[l/_liters|liters]], [[o/_one|one]] [[f/_fourth|fourth]] the volume of a [[s/_standard|standard]] [[b/_bottle|bottle]]; a [[q/_quarter|quarter]] [[b/_bottle|bottle]] or [[p/_piccolo|piccolo]].**
 ---
 #noun

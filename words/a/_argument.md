@@ -13,7 +13,7 @@
 - **[[a/_any|Any]] of the [[p/_phrases|phrases]] that [[b/_bears|bears]] a [[s/_syntactic|syntactic]] [[c/_connection|connection]] to the verb of a [[c/_clause|clause]].**
 - **The [[q/_quantity|quantity]] on which [[a/_another|another]] [[q/_quantity|quantity]] in a table [[d/_depends|depends]].**
 	- _Example: The altitude is the argument of the refraction._
-- **The subject [[m/_matter|matter]] of a [[d/_discourse|discourse]], writing, or [[a/_artistic|artistic]] [[r/_representation|representation]]; theme or topic; [[a/_also|also]], an [[a/_abstract|abstract]] or summary, as of the [[c/_contents|contents]] of a [[b/_book|book]], [[c/_chapter|chapter]], [[p/_poem|poem]].**
+- **The [[s/_subject|subject]] [[m/_matter|matter]] of a [[d/_discourse|discourse]], writing, or [[a/_artistic|artistic]] [[r/_representation|representation]]; theme or topic; [[a/_also|also]], an [[a/_abstract|abstract]] or [[s/_summary|summary]], as of the [[c/_contents|contents]] of a [[b/_book|book]], [[c/_chapter|chapter]], [[p/_poem|poem]].**
 - **[[m/_matter|Matter]] for [[q/_question|question]]; [[b/_business|business]] in [[h/_hand|hand]].**
 ---
 ### Synonyms

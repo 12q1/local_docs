@@ -3,7 +3,7 @@
 #noun
 - **[[s/_someone|Someone]] or [[s/_something|something]] that [[b/_bumps|bumps]].**
 - **A [[d/_drinking|drinking]] vessel [[f/_filled|filled]] to the [[b/_brim|brim]].**
-- **[[a/_anything|Anything]] [[l/_large|large]] or successful.**
+- **[[a/_anything|Anything]] [[l/_large|large]] or [[s/_successful|successful]].**
 - **[[p/_parts|Parts]] at the [[f/_front|front]] and [[b/_back|back]] of a vehicle which are [[m/_meant|meant]] to [[a/_absorb|absorb]] the [[i/_impact|impact]] of a [[c/_collision|collision]]; [[f/_fender|fender]].**
 - **[[a/_any|Any]] [[m/_mechanical|mechanical]] [[d/_device|device]] used to [[a/_absorb|absorb]] an [[i/_impact|impact]], [[s/_soften|soften]] a [[c/_collision|collision]], or [[p/_protect|protect]] [[a/_against|against]] [[i/_impact|impact]].**
 	- _Example: The company sells screw-on rubber bumpers and feet._

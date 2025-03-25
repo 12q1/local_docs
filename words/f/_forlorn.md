@@ -10,7 +10,7 @@
 #adjective
 - **[[a/_abandoned|Abandoned]], [[d/_deserted|deserted]], [[l/_left|left]] [[b/_behind|behind]].**
 - **[[m/_miserable|Miserable]], as when [[l/_lonely|lonely]] [[a/_after|after]] [[b/_being|being]] [[a/_abandoned|abandoned]].**
-- **Unlikely to succeed; [[h/_hopeless|hopeless]].**
+- **Unlikely to [[s/_succeed|succeed]]; [[h/_hopeless|hopeless]].**
 ---
 ### Synonyms
 - [[f/_forsaken|forsaken]]

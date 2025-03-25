@@ -11,7 +11,7 @@
 - [[l/_lark|lark]]
 #noun
 - **A [[y/_young|young]] [[o/_owl|owl]]; [[o/_owling|owling]].**
-- **[[o/_one|One]] of a [[s/_species|species]] of [[s/_small|small]] [[o/_owls|owls]], such as Athene [[n/_noctua|noctua]].**
+- **[[o/_one|One]] of a [[s/_species|species]] of [[s/_small|small]] [[o/_owls|owls]], [[s/_such|such]] as Athene [[n/_noctua|noctua]].**
 - **An [[o/_owlet|owlet]] [[m/_moth|moth]].**
 ---
 ### Synonyms

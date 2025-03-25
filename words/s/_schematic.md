@@ -7,7 +7,7 @@
 ### Synonyms
 - [[d/_diagram|diagram]]
 #adjective
-- **[[r/_represented|Represented]] too [[s/_simply|simply]] or in an [[o/_overly|overly]] [[f/_formulaic|formulaic]] way, [[r/_reflecting|reflecting]] a [[s/_shallow|shallow]] or [[i/_incomplete|incomplete]] understanding of [[c/_complex|complex]] subject [[m/_matter|matter]]**
+- **[[r/_represented|Represented]] too [[s/_simply|simply]] or in an [[o/_overly|overly]] [[f/_formulaic|formulaic]] way, [[r/_reflecting|reflecting]] a [[s/_shallow|shallow]] or [[i/_incomplete|incomplete]] understanding of [[c/_complex|complex]] [[s/_subject|subject]] [[m/_matter|matter]]**
 - **[[s/_sketchy|Sketchy]], [[i/_incomplete|incomplete]]**
 - **[[r/_relating|Relating]] to a [[s/_schema|schema]]**
 ---

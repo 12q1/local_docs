@@ -7,6 +7,6 @@
 ### Synonyms
 - [[r/_revise|revise]]
 #adjective
-- **That [[h/_has|has]] [[b/_been|been]] subjected to [[r/_reorganization|reorganization]]**
+- **That [[h/_has|has]] [[b/_been|been]] [[s/_subjected|subjected]] to [[r/_reorganization|reorganization]]**
 ---
 ---

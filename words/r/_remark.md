@@ -16,6 +16,6 @@
 #noun
 - **([[e/_engraving|engraving]]) A [[s/_small|small]] [[d/_design|design]] [[e/_etched|etched]] on the [[m/_margin|margin]] of a [[p/_plate|plate]] and supposed to be [[r/_removed|removed]] [[a/_after|after]] the [[e/_earliest|earliest]] [[p/_proofs|proofs]] [[h/_have|have]] [[b/_been|been]] taken.**
 - **([[e/_engraving|engraving]]) [[a/_any|Any]] [[f/_feature|feature]] [[d/_distinguishing|distinguishing]] a [[p/_particular|particular]] [[s/_stage|stage]] of the [[p/_plate|plate]].**
-- **([[e/_engraving|engraving]]) A [[p/_print|print]] or [[p/_proof|proof]] [[d/_distinguished|distinguished]] by such a [[m/_mark|mark]].**
+- **([[e/_engraving|engraving]]) A [[p/_print|print]] or [[p/_proof|proof]] [[d/_distinguished|distinguished]] by [[s/_such|such]] a [[m/_mark|mark]].**
 ---
 ---

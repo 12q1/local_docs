@@ -4,12 +4,12 @@
 - **A [[c/_current|current]] of [[a/_air|air]], usually [[c/_coming|coming]] [[i/_into|into]] a [[r/_room|room]] or vehicle.**
 - **[[d/_draw|Draw]] through a [[f/_flue|flue]] of [[g/_gasses|gasses]] ([[s/_smoke|smoke]]) [[r/_resulting|resulting]] from a [[c/_combustion|combustion]] [[p/_process|process]].**
 - **An [[a/_act|act]] of [[d/_drinking|drinking]].**
-- **The [[q/_quantity|quantity]] of [[l/_liquid|liquid]] (such as water, [[a/_alcohol|alcohol]], or [[m/_medicine|medicine]]) [[d/_drunk|drunk]] in [[o/_one|one]] swallow.**
+- **The [[q/_quantity|quantity]] of [[l/_liquid|liquid]] ([[s/_such|such]] as water, [[a/_alcohol|alcohol]], or [[m/_medicine|medicine]]) [[d/_drunk|drunk]] in [[o/_one|one]] swallow.**
 	- _Example: She took a deep draft from the bottle of water._
 - **A [[d/_dose|dose]] (of [[m/_medicine|medicine]], [[a/_alcohol|alcohol]], [[e/_etc|etc]].)**
 - **[[b/_beer|Beer]] [[d/_drawn|drawn]] from a [[c/_cask|cask]] or [[k/_keg|keg]] [[r/_rather|rather]] than a [[b/_bottle|bottle]] or [[c/_can|can]].**
 - **[[d/_depth|Depth]] of water [[n/_needed|needed]] to [[f/_float|float]] a [[s/_ship|ship]]; [[d/_depth|depth]] [[b/_below|below]] the water [[l/_line|line]] to the [[b/_bottom|bottom]] of a vessel'[[s/_s|s]] [[h/_hull|hull]]; [[d/_depth|depth]] of water [[d/_drawn|drawn]] by a vessel.**
-- **An [[e/_early|early]] version of a written work (such as a [[b/_book|book]] or [[e/_e|e]]-[[m/_mail|mail]]) or [[d/_drawing|drawing]].**
+- **An [[e/_early|early]] version of a written work ([[s/_such|such]] as a [[b/_book|book]] or [[e/_e|e]]-[[m/_mail|mail]]) or [[d/_drawing|drawing]].**
 	- _Example: His first drafts were better than most authors' final products._
 - **A [[p/_preliminary|preliminary]] [[s/_sketch|sketch]] or [[o/_outline|outline]] for a [[p/_plan|plan]].**
 - **A [[c/_cheque|cheque]], an [[o/_order|order]] for [[m/_money|money]] to be [[p/_paid|paid]].**
@@ -50,7 +50,7 @@
 - **A [[m/_mild|mild]] vesicatory.**
 - **An [[o/_outhouse|outhouse]]: an [[o/_outbuilding|outbuilding]] used as a [[l/_lavatory|lavatory]].**
 - **[[a/_any|Any]] [[p/_picture|picture]] or [[d/_drawing|drawing]].**
-- **A sudden [[a/_attack|attack]] upon an [[e/_enemy|enemy]].**
+- **A [[s/_sudden|sudden]] [[a/_attack|attack]] upon an [[e/_enemy|enemy]].**
 ---
 ### Synonyms
 - [[c/_checker|checker]], [[c/_checkers|checkers]], [[d/_draught-house|draught-house]]

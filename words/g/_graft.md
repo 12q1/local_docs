@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_small|small]] [[s/_shoot|shoot]] or [[s/_scion|scion]] of a tree [[i/_inserted|inserted]] in [[a/_another|another]] tree, the [[s/_stock|stock]] of which is to support and [[n/_nourish|nourish]] it. The two unite and [[b/_become|become]] [[o/_one|one]] tree, but the [[g/_graft|graft]] [[d/_determines|determines]] the [[k/_kind|kind]] of [[f/_fruit|fruit]].**
-- **A [[b/_branch|branch]] or [[p/_portion|portion]] of a tree [[g/_growing|growing]] from such a [[s/_shoot|shoot]].**
+- **A [[b/_branch|branch]] or [[p/_portion|portion]] of a tree [[g/_growing|growing]] from [[s/_such|such]] a [[s/_shoot|shoot]].**
 - **A [[p/_portion|portion]] of [[l/_living|living]] tissue used in the [[o/_operation|operation]] of [[a/_autoplasty|autoplasty]].**
 ---
 #verb

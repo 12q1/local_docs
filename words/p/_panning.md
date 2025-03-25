@@ -3,7 +3,7 @@
 #verb
 - **To wash in a [[p/_pan|pan]] (of [[e/_earth|earth]], [[s/_sand|sand]] [[e/_etc|etc]]. when [[s/_searching|searching]] for [[g/_gold|gold]]).**
 - **To [[d/_disparage|disparage]]; to [[b/_belittle|belittle]]; to [[p/_put|put]] [[d/_down|down]]; to [[c/_criticise|criticise]] [[s/_severely|severely]].**
-- **With "[[o/_out|out]]" (to [[p/_pan|pan]] [[o/_out|out]]), to turn [[o/_out|out]] well; to be successful.**
+- **With "[[o/_out|out]]" (to [[p/_pan|pan]] [[o/_out|out]]), to turn [[o/_out|out]] well; to be [[s/_successful|successful]].**
 - **(of a [[c/_contest|contest]]) To [[b/_beat|beat]] [[o/_one|one]]'[[s/_s|s]] [[o/_opposition|opposition]] [[c/_convincingly|convincingly]].**
 - **To [[c/_criticize|criticize]] [[h/_harshly|harshly]] a work ([[l/_like|like]] a [[b/_book|book]], [[m/_movie|movie]], [[e/_etc|etc]].)**
 ---

@@ -14,7 +14,7 @@
 - **[[a/_aggression|Aggression]] toward an [[o/_organism|organism]] [[r/_resulting|resulting]] in a [[r/_response|response]] in an [[a/_attempt|attempt]] to [[r/_restore|restore]] [[p/_previous|previous]] [[c/_conditions|conditions]].**
 - **The [[i/_internal|internal]] [[d/_distribution|distribution]] of [[f/_force|force]] [[a/_across|across]] a [[s/_small|small]] [[b/_boundary|boundary]] [[p/_per|per]] unit [[a/_area|area]] of that [[b/_boundary|boundary]] ([[p/_pressure|pressure]]) within a [[b/_body|body]]. It [[c/_causes|causes]] [[s/_strain|strain]] or [[d/_deformation|deformation]] and is typically [[s/_symbolised|symbolised]] by σ or τ.**
 - **[[f/_force|Force]] [[e/_externally|externally]] [[a/_applied|applied]] to a [[b/_body|body]] which [[c/_cause|cause]] [[i/_internal|internal]] [[s/_stress|stress]] within the [[b/_body|body]].**
-- **[[e/_emotional|Emotional]] [[p/_pressure|pressure]] suffered by a [[h/_human|human]] [[b/_being|being]] or [[o/_other|other]] [[a/_animal|animal]].**
+- **[[e/_emotional|Emotional]] [[p/_pressure|pressure]] [[s/_suffered|suffered]] by a [[h/_human|human]] [[b/_being|being]] or [[o/_other|other]] [[a/_animal|animal]].**
 	- _Example: Go easy on him, he's been under a lot of stress lately._
 - **The [[e/_emphasis|emphasis]] [[p/_placed|placed]] on a [[s/_syllable|syllable]] of a word.**
 	- _Example: Some people put the stress on the first syllable of “controversy”; others put it on the second._
@@ -27,7 +27,7 @@
 #verb
 - **To [[a/_apply|apply]] [[f/_force|force]] to (a [[b/_body|body]] or [[s/_structure|structure]]) [[c/_causing|causing]] [[s/_strain|strain]].**
 - **To [[a/_apply|apply]] [[e/_emotional|emotional]] [[p/_pressure|pressure]] to (a [[p/_person|person]] or [[a/_animal|animal]]).**
-- **To suffer [[s/_stress|stress]]; to worry or be [[a/_agitated|agitated]].**
+- **To [[s/_suffer|suffer]] [[s/_stress|stress]]; to worry or be [[a/_agitated|agitated]].**
 - **To [[e/_emphasise|emphasise]] (a [[s/_syllable|syllable]] of a word).**
 	- _Example: “Emphasis” is stressed on the first syllable, but “emphatic” is stressed on the second._
 - **To [[e/_emphasise|emphasise]] (words in [[s/_speaking|speaking]]).**

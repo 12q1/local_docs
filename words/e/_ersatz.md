@@ -1,7 +1,7 @@
 # Ersatz
 ---
 #noun
-- **[[s/_something|Something]] [[m/_made|made]] in [[i/_imitation|imitation]]; an [[e/_effigy|effigy]] or substitute**
+- **[[s/_something|Something]] [[m/_made|made]] in [[i/_imitation|imitation]]; an [[e/_effigy|effigy]] or [[s/_substitute|substitute]]**
 ---
 ### Synonyms
 - [[i/_imitation|imitation]]

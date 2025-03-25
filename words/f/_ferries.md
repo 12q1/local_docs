@@ -2,8 +2,8 @@
 ---
 #noun
 - **A [[s/_ship|ship]] used to transport [[p/_people|people]], [[s/_smaller|smaller]] vehicles and [[g/_goods|goods]] from [[o/_one|one]] [[p/_port|port]] to [[a/_another|another]], usually on a [[r/_regular|regular]] [[s/_schedule|schedule]].**
-- **A [[p/_place|place]] where [[p/_passengers|passengers]] are transported [[a/_across|across]] water in such a [[s/_ship|ship]].**
-- **The [[l/_legal|legal]] [[r/_right|right]] or [[f/_franchise|franchise]] that [[e/_entitles|entitles]] a [[c/_corporate|corporate]] [[b/_body|body]] or an [[i/_individual|individual]] to [[o/_operate|operate]] such a [[s/_service|service]].**
+- **A [[p/_place|place]] where [[p/_passengers|passengers]] are transported [[a/_across|across]] water in [[s/_such|such]] a [[s/_ship|ship]].**
+- **The [[l/_legal|legal]] [[r/_right|right]] or [[f/_franchise|franchise]] that [[e/_entitles|entitles]] a [[c/_corporate|corporate]] [[b/_body|body]] or an [[i/_individual|individual]] to [[o/_operate|operate]] [[s/_such|such]] a [[s/_service|service]].**
 ---
 #verb
 - **To [[c/_carry|carry]]; transport; [[c/_convey|convey]].**

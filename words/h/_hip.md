@@ -9,7 +9,7 @@
 #verb
 - **To use [[o/_one|one]]'[[s/_s|s]] [[h/_hips|hips]] to [[b/_bump|bump]] [[i/_into|into]] [[s/_someone|someone]].**
 - **To throw ([[o/_one|one]]'[[s/_s|s]] [[a/_adversary|adversary]]) [[o/_over|over]] [[o/_one|one]]'[[s/_s|s]] [[h/_hip|hip]] ("[[c/_cross|cross]]-[[b/_buttock|buttock]]").**
-- **To [[d/_dislocate|dislocate]] or [[s/_sprain|sprain]] the [[h/_hip|hip]] of, to [[f/_fracture|fracture]] or [[i/_injure|injure]] the [[h/_hip|hip]] [[b/_bone|bone]] of (a [[q/_quadruped|quadruped]]) in such a [[m/_manner|manner]] as to [[p/_produce|produce]] a [[p/_permanent|permanent]] [[d/_depression|depression]] of that [[s/_side|side]].**
+- **To [[d/_dislocate|dislocate]] or [[s/_sprain|sprain]] the [[h/_hip|hip]] of, to [[f/_fracture|fracture]] or [[i/_injure|injure]] the [[h/_hip|hip]] [[b/_bone|bone]] of (a [[q/_quadruped|quadruped]]) in [[s/_such|such]] a [[m/_manner|manner]] as to [[p/_produce|produce]] a [[p/_permanent|permanent]] [[d/_depression|depression]] of that [[s/_side|side]].**
 - **To [[m/_make|make]] with a [[h/_hip|hip]] or [[h/_hips|hips]], as a [[r/_roof|roof]].**
 ---
 ---

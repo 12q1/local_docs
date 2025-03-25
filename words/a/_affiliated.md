@@ -9,7 +9,7 @@
 - **([[f/_followed|followed]] by "to" or "with") To [[a/_attach|attach]] (to) or unite (with); to [[r/_receive|receive]] [[i/_into|into]] a [[s/_society|society]] as a [[m/_member|member]], and [[i/_initiate|initiate]] [[i/_into|into]] [[i/_its|its]] [[m/_mysteries|mysteries]], [[p/_plans|plans]], [[e/_etc|etc]].**
 ---
 #adjective
-- **[[a/_associated|Associated]], [[r/_related|related]], or united; subject to a [[p/_particular|particular]] [[a/_affiliation|affiliation]].**
+- **[[a/_associated|Associated]], [[r/_related|related]], or united; [[s/_subject|subject]] to a [[p/_particular|particular]] [[a/_affiliation|affiliation]].**
 	- _Example: We are not affiliated with any commercial publisher._
 ---
 ### Antonyms

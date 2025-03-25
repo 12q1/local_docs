@@ -1,7 +1,7 @@
 # Coral
 ---
 #noun
-- **A [[h/_hard|hard]] substance [[m/_made|made]] of the [[l/_limestone|limestone]] [[s/_skeletons|skeletons]] of [[m/_marine|marine]] [[p/_polyps|polyps]].**
+- **A [[h/_hard|hard]] [[s/_substance|substance]] [[m/_made|made]] of the [[l/_limestone|limestone]] [[s/_skeletons|skeletons]] of [[m/_marine|marine]] [[p/_polyps|polyps]].**
 - **A [[c/_colony|colony]] of [[m/_marine|marine]] [[p/_polyps|polyps]].**
 - **A [[s/_somewhat|somewhat]] [[y/_yellowish|yellowish]] [[p/_pink|pink]] [[c/_colour|colour]], the [[c/_colour|colour]] of [[r/_red|red]] [[c/_coral|coral]].**
 - **The [[o/_ovaries|ovaries]] of a [[c/_cooked|cooked]] [[l/_lobster|lobster]]; [[s/_so|so]] [[c/_called|called]] from their [[c/_colour|colour]].**

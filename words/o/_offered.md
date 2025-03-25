@@ -3,7 +3,7 @@
 #verb
 - **To [[p/_propose|propose]] or [[e/_express|express]] [[o/_one|one]]'[[s/_s|s]] willingness (to [[d/_do|do]] [[s/_something|something]]).**
 	- _Example: She offered to help with her homework._
-- **To [[p/_present|present]] in words; to [[p/_proffer|proffer]]; to [[m/_make|make]] a [[p/_proposal|proposal]] of; to suggest.**
+- **To [[p/_present|present]] in words; to [[p/_proffer|proffer]]; to [[m/_make|make]] a [[p/_proposal|proposal]] of; to [[s/_suggest|suggest]].**
 	- _Example: Everybody offered an opinion._
 - **To [[p/_place|place]] at [[s/_someone|someone]]’[[s/_s|s]] [[d/_disposal|disposal]]; to [[p/_present|present]] ([[s/_something|something]]) to be [[e/_either|either]] [[a/_accepted|accepted]] or turned [[d/_down|down]].**
 	- _Example: He offered use of his car for the week.  He offered his good will for the Councilman's vote._

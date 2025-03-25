@@ -7,7 +7,7 @@
 - **(by [[e/_extension|extension]]) a [[g/_group|group]] [[d/_dedicated|dedicated]] to a [[p/_particular|particular]] [[c/_cause|cause]] or [[i/_interest|interest]]**
 ---
 #adjective
-- **[[f/_formed|Formed]] by [[g/_gathering|gathering]] or [[c/_collecting|collecting]]; [[g/_gathered|gathered]] [[i/_into|into]] a [[m/_mass|mass]], sum, or [[b/_body|body]]; [[c/_congregated|congregated]] or [[a/_aggregated|aggregated]]**
+- **[[f/_formed|Formed]] by [[g/_gathering|gathering]] or [[c/_collecting|collecting]]; [[g/_gathered|gathered]] [[i/_into|into]] a [[m/_mass|mass]], [[s/_sum|sum]], or [[b/_body|body]]; [[c/_congregated|congregated]] or [[a/_aggregated|aggregated]]**
 	- _Example: the collective body of a nation_
 - **Tending to [[c/_collect|collect]]; [[f/_forming|forming]] a [[c/_collection|collection]]**
 - **[[h/_having|Having]] [[p/_plurality|plurality]] of [[o/_origin|origin]] or [[a/_authority|authority]]**

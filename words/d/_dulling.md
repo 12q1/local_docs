@@ -7,7 +7,7 @@
 	- _Example: He drinks to dull the pain._
 - **To [[l/_lose|lose]] a [[s/_sharp|sharp]] [[e/_edge|edge]]; to [[b/_become|become]] [[d/_dull|dull]].**
 	- _Example: A razor will dull with use._
-- **To [[r/_render|render]] [[d/_dim|dim]] or [[o/_obscure|obscure]]; to sully; to tarnish.**
+- **To [[r/_render|render]] [[d/_dim|dim]] or [[o/_obscure|obscure]]; to [[s/_sully|sully]]; to tarnish.**
 ---
 ### Synonyms
 - [[d/_dullen|dullen]]

@@ -24,7 +24,7 @@
 - **The [[l/_lowest|lowest]] [[p/_place|place]], [[p/_position|position]], or [[p/_part|part]].**
 - **In UNIX terminology, the [[f/_first|first]] user [[a/_account|account]] with [[c/_complete|complete]] [[a/_access|access]] to the [[o/_operating|operating]] [[s/_system|system]] and [[i/_its|its]] [[c/_configuration|configuration]], [[f/_found|found]] at the [[r/_root|root]] of the [[d/_directory|directory]] [[s/_structure|structure]]; the [[p/_person|person]] who [[m/_manages|manages]] [[a/_accounts|accounts]] on a UNIX [[s/_system|system]].**
 	- _Example: I have to log in as root before I do that._
-- **The [[h/_highest|highest]] [[d/_directory|directory]] of a [[d/_directory|directory]] [[s/_structure|structure]] which [[m/_may|may]] [[c/_contain|contain]] [[b/_both|both]] [[f/_files|files]] and subdirectories.**
+- **The [[h/_highest|highest]] [[d/_directory|directory]] of a [[d/_directory|directory]] [[s/_structure|structure]] which [[m/_may|may]] [[c/_contain|contain]] [[b/_both|both]] [[f/_files|files]] and [[s/_subdirectories|subdirectories]].**
 	- _Example: I installed the files in the root directory._
 - **A [[p/_penis|penis]], [[e/_especially|especially]] the [[b/_base|base]] of a [[p/_penis|penis]].**
 ---

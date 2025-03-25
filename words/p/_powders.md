@@ -1,7 +1,7 @@
 # Powders
 ---
 #noun
-- **The [[f/_fine|fine]] [[p/_particles|particles]] which are the [[r/_result|result]] of [[r/_reducing|reducing]] [[d/_dry|dry]] substance by [[p/_pounding|pounding]], [[g/_grinding|grinding]], or triturating, or the [[r/_result|result]] of [[d/_decay|decay]]; [[d/_dust|dust]].**
+- **The [[f/_fine|fine]] [[p/_particles|particles]] which are the [[r/_result|result]] of [[r/_reducing|reducing]] [[d/_dry|dry]] [[s/_substance|substance]] by [[p/_pounding|pounding]], [[g/_grinding|grinding]], or triturating, or the [[r/_result|result]] of [[d/_decay|decay]]; [[d/_dust|dust]].**
 - **A [[m/_mixture|mixture]] of [[f/_fine|fine]] [[d/_dry|dry]], sweet-[[s/_smelling|smelling]] [[p/_particles|particles]] [[a/_applied|applied]] to the [[f/_face|face]] or [[o/_other|other]] [[b/_body|body]] [[p/_parts|parts]], to [[r/_reduce|reduce]] [[s/_shine|shine]] or to [[a/_alleviate|alleviate]] [[c/_chaffing|chaffing]].**
 - **An [[e/_explosive|explosive]] [[m/_mixture|mixture]] used in [[g/_gunnery|gunnery]], [[b/_blasting|blasting]], [[e/_etc|etc]].; [[g/_gunpowder|gunpowder]].**
 ---

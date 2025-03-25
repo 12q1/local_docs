@@ -1,8 +1,8 @@
 # Accounts
 ---
 #noun
-- **A [[r/_registry|registry]] of [[p/_pecuniary|pecuniary]] transactions; a written or [[p/_printed|printed]] [[s/_statement|statement]] of [[b/_business|business]] [[d/_dealings|dealings]] or [[d/_debts|debts]] and [[c/_credits|credits]], and [[a/_also|also]] of [[o/_other|other]] things subjected to a [[r/_reckoning|reckoning]] or [[r/_review|review]].**
-- **A sum of [[m/_money|money]] [[d/_deposited|deposited]] at a [[b/_bank|bank]] and subject to withdrawal.**
+- **A [[r/_registry|registry]] of [[p/_pecuniary|pecuniary]] transactions; a written or [[p/_printed|printed]] [[s/_statement|statement]] of [[b/_business|business]] [[d/_dealings|dealings]] or [[d/_debts|debts]] and [[c/_credits|credits]], and [[a/_also|also]] of [[o/_other|other]] things [[s/_subjected|subjected]] to a [[r/_reckoning|reckoning]] or [[r/_review|review]].**
+- **A [[s/_sum|sum]] of [[m/_money|money]] [[d/_deposited|deposited]] at a [[b/_bank|bank]] and [[s/_subject|subject]] to withdrawal.**
 	- _Example: to keep one's account at the bank._
 - **A [[s/_statement|statement]] in [[g/_general|general]] of [[r/_reasons|reasons]], [[c/_causes|causes]], [[g/_grounds|grounds]], [[e/_etc|etc]]., [[e/_explanatory|explanatory]] of [[s/_some|some]] [[e/_event|event]]; a [[r/_reason|reason]] of an [[a/_action|action]] to be [[d/_done|done]].**
 	- _Example: No satisfactory account has been given of these phenomena._

@@ -18,8 +18,8 @@
 - **A [[f/_formal|formal]] [[s/_statement|statement]] [[a/_adopted|adopted]] by an [[a/_assembly|assembly]], or [[d/_during|during]] [[a/_any|any]] [[o/_other|other]] [[f/_formal|formal]] [[m/_meeting|meeting]].**
 	- _Example: The resolution was passed by a two-thirds majority._
 - **The [[s/_separation|separation]] of the [[c/_constituent|constituent]] [[p/_parts|parts]] (of a [[s/_spectrum|spectrum]] [[e/_etc|etc]]).**
-- **The [[d/_degree|degree]] of [[f/_fineness|fineness]] of such a [[s/_separation|separation]].**
-- **[[p/_progression|Progression]] from [[d/_dissonance|dissonance]] to [[c/_consonance|consonance]]; a [[c/_chord|chord]] to which such [[p/_progression|progression]] is [[m/_made|made]].**
+- **The [[d/_degree|degree]] of [[f/_fineness|fineness]] of [[s/_such|such]] a [[s/_separation|separation]].**
+- **[[p/_progression|Progression]] from [[d/_dissonance|dissonance]] to [[c/_consonance|consonance]]; a [[c/_chord|chord]] to which [[s/_such|such]] [[p/_progression|progression]] is [[m/_made|made]].**
 - **The [[m/_moment|moment]] in which the [[c/_conflict|conflict]] [[e/_ends|ends]] and the [[o/_outcome|outcome]] of the [[a/_action|action]] is [[c/_clear|clear]].**
 - **In a [[p/_pathological|pathological]] [[p/_process|process]], the [[p/_phase|phase]] [[d/_during|during]] which [[p/_pathogens|pathogens]] and [[d/_damaged|damaged]] tissues are [[r/_removed|removed]] by macrophages.**
 ---

@@ -1,7 +1,7 @@
 # Articulate
 ---
 #noun
-- **An [[a/_animal|animal]] of the subkingdom [[a/_articulata|Articulata]].**
+- **An [[a/_animal|animal]] of the [[s/_subkingdom|subkingdom]] [[a/_articulata|Articulata]].**
 ---
 #adjective
 - **[[c/_clear|Clear]]; [[e/_effective|effective]].**

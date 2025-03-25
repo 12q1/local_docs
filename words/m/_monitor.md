@@ -14,7 +14,7 @@
 - **An [[i/_ironclad|ironclad]].**
 - **A [[m/_monitor|monitor]] [[l/_lizard|lizard]].**
 - **[[o/_one|One]] who [[a/_admonishes|admonishes]]; [[o/_one|one]] who warns of [[f/_faults|faults]], [[i/_informs|informs]] of [[d/_duty|duty]], or [[g/_gives|gives]] [[a/_advice|advice]] and [[i/_instruction|instruction]] by way of [[r/_reproof|reproof]] or [[c/_caution|caution]].**
-- **A tool [[h/_holder|holder]], as for a [[l/_lathe|lathe]], [[s/_shaped|shaped]] [[l/_like|like]] a [[l/_low|low]] turret, and [[c/_capable|capable]] of [[b/_being|being]] [[r/_revolved|revolved]] on a vertical [[p/_pivot|pivot]] [[s/_so|so]] as to [[b/_bring|bring]] the [[s/_several|several]] tools successively [[i/_into|into]] [[p/_position|position]].**
+- **A tool [[h/_holder|holder]], as for a [[l/_lathe|lathe]], [[s/_shaped|shaped]] [[l/_like|like]] a [[l/_low|low]] turret, and [[c/_capable|capable]] of [[b/_being|being]] [[r/_revolved|revolved]] on a vertical [[p/_pivot|pivot]] [[s/_so|so]] as to [[b/_bring|bring]] the [[s/_several|several]] tools [[s/_successively|successively]] [[i/_into|into]] [[p/_position|position]].**
 - **A [[m/_monitor|monitor]] [[n/_nozzle|nozzle]].**
 ---
 #verb

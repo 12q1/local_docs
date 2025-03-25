@@ -8,7 +8,7 @@
 - **A [[p/_particular|particular]] [[c/_cannabis|cannabis]] [[h/_hybrid|hybrid]].**
 ---
 #verb
-- **To [[i/_ignite|ignite]] a substance by using the [[h/_heat|heat]] [[g/_generated|generated]] by [[c/_compression|compression]]**
+- **To [[i/_ignite|ignite]] a [[s/_substance|substance]] by using the [[h/_heat|heat]] [[g/_generated|generated]] by [[c/_compression|compression]]**
 - **For a [[s/_spark|spark]]-[[i/_ignition|ignition]] [[i/_internal|internal]] [[c/_combustion|combustion]] [[e/_engine|engine]] to [[c/_continue|continue]] [[r/_running|running]] [[a/_after|after]] the [[e/_electrical|electrical]] [[c/_current|current]] to the [[s/_spark|spark]] [[p/_plugs|plugs]] [[h/_has|has]] [[b/_been|been]] turned [[o/_off|off]]. This [[o/_occurs|occurs]] when there'[[s/_s|s]] [[e/_enough|enough]] [[h/_heat|heat]] in the [[c/_combustion|combustion]] [[c/_chamber|chamber]] to [[i/_ignite|ignite]] the [[a/_air|air]] and [[f/_fuel|fuel]] [[m/_mixture|mixture]] without a [[s/_spark|spark]], the [[s/_same|same]] way that [[h/_heat|heat]] and [[p/_pressure|pressure]] [[c/_cause|cause]] [[i/_ignition|ignition]] in a [[d/_diesel|diesel]] [[e/_engine|engine]].**
 	- _Example: The only reason the VW bug has a solenoid is to prevent it from dieseling._
 ---

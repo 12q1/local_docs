@@ -17,8 +17,8 @@
 - **An [[i/_intermediate|intermediate]]-[[g/_grade|grade]] [[f/_file|file]]; [[a/_also|also]] [[b/_bastard|bastard]] [[f/_file|file]].**
 - **A sweet wine.**
 - **A sword that is [[m/_midway|midway]] in [[l/_length|length]] [[b/_between|between]] a [[s/_short|short]]-sword and a [[l/_long|long]] sword; [[a/_also|also]] [[b/_bastard|bastard]] sword.**
-- **An [[i/_inferior|inferior]] [[q/_quality|quality]] of [[s/_soft|soft]] [[b/_brown|brown]] sugar, [[o/_obtained|obtained]] from [[s/_syrups|syrups]] that [[h/_have|have]] [[b/_been|been]] [[b/_boiled|boiled]] [[s/_several|several]] times.**
-- **A [[l/_large|large]] [[m/_mould|mould]] for [[s/_straining|straining]] sugar.**
+- **An [[i/_inferior|inferior]] [[q/_quality|quality]] of [[s/_soft|soft]] [[b/_brown|brown]] [[s/_sugar|sugar]], [[o/_obtained|obtained]] from [[s/_syrups|syrups]] that [[h/_have|have]] [[b/_been|been]] [[b/_boiled|boiled]] [[s/_several|several]] times.**
+- **A [[l/_large|large]] [[m/_mould|mould]] for [[s/_straining|straining]] [[s/_sugar|sugar]].**
 - **A writing [[p/_paper|paper]] of a [[p/_particular|particular]] [[s/_size|size]].**
 - **A Eurosceptic [[c/_conservative|Conservative]] [[m/_mp|MP]], [[e/_especially|especially]] in the [[g/_government|government]] of [[j/_john|John]] [[m/_major|Major]].**
 ---

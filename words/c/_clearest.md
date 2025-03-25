@@ -13,7 +13,7 @@
 	- _Example: The court cleared the man of murder._
 - **To [[p/_pass|pass]] without [[i/_interference|interference]]; to [[m/_miss|miss]].**
 	- _Example: The door just barely clears the table as it closes._
-- **([[a/_activities|activities]] such as [[j/_jumping|jumping]] or throwing) To [[e/_exceed|exceed]] a [[s/_stated|stated]] [[m/_mark|mark]].**
+- **([[a/_activities|activities]] [[s/_such|such]] as [[j/_jumping|jumping]] or throwing) To [[e/_exceed|exceed]] a [[s/_stated|stated]] [[m/_mark|mark]].**
 	- _Example: She was the first female high jumper to clear two metres._
 - **To [[f/_finish|finish]] or [[c/_complete|complete]] (a [[s/_stage|stage]], [[c/_challenge|challenge]], or [[g/_game|game]]).**
 	- _Example: I cleared the first level in 36 seconds._
@@ -46,7 +46,7 @@
 	- _Example: The coast is clear._
 - **Without [[c/_clouds|clouds]].**
 	- _Example: clear weather; a clear day_
-- **Of the [[s/_sky|sky]], such that [[l/_less|less]] than [[o/_one|one]] [[e/_eighth|eighth]] of [[i/_its|its]] [[a/_area|area]] is [[o/_obscured|obscured]] by [[c/_clouds|clouds]].**
+- **Of the [[s/_sky|sky]], [[s/_such|such]] that [[l/_less|less]] than [[o/_one|one]] [[e/_eighth|eighth]] of [[i/_its|its]] [[a/_area|area]] is [[o/_obscured|obscured]] by [[c/_clouds|clouds]].**
 - **[[f/_free|Free]] of [[a/_ambiguity|ambiguity]] or [[d/_doubt|doubt]].**
 	- _Example: Do I make myself clear? Crystal clear._
 - **[[d/_distinct|Distinct]], [[s/_sharp|sharp]], well-[[m/_marked|marked]].**
@@ -62,7 +62,7 @@
 - **[[e/_easily|Easily]] or [[d/_distinctly|distinctly]] [[h/_heard|heard]]; [[a/_audible|audible]].**
 - **Unmixed; [[e/_entirely|entirely]] [[p/_pure|pure]].**
 	- _Example: clear sand_
-- **Without [[d/_defects|defects]] or [[b/_blemishes|blemishes]], such as [[f/_freckles|freckles]] or [[k/_knots|knots]].**
+- **Without [[d/_defects|defects]] or [[b/_blemishes|blemishes]], [[s/_such|such]] as [[f/_freckles|freckles]] or [[k/_knots|knots]].**
 	- _Example: a clear complexion; clear lumber_
 - **Without [[d/_diminution|diminution]]; in [[f/_full|full]]; [[n/_net|net]].**
 	- _Example: a clear profit_

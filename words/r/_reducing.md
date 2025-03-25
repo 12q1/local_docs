@@ -6,7 +6,7 @@
 - **To [[l/_lose|lose]] weight.**
 - **To [[b/_bring|bring]] to an [[i/_inferior|inferior]] [[r/_rank|rank]]; to [[d/_degrade|degrade]], to [[d/_demote|demote]].**
 	- _Example: Hester Prynne was shocked at the condition to which she found the clergyman reduced._
-- **To [[h/_humble|humble]]; to [[c/_conquer|conquer]]; to subdue; to [[c/_capture|capture]].**
+- **To [[h/_humble|humble]]; to [[c/_conquer|conquer]]; to [[s/_subdue|subdue]]; to [[c/_capture|capture]].**
 	- _Example: to reduce a province or a fort_
 - **To [[b/_bring|bring]] to an [[i/_inferior|inferior]] [[s/_state|state]] or [[c/_condition|condition]].**
 	- _Example: to reduce a city to ashes_

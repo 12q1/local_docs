@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[c/_coarse|Coarse]] woody [[d/_debris|debris]].**
-- **[[p/_people|People]] or things [[j/_judged|judged]] to be superfluous to an [[o/_organization|organization]] or [[p/_project|project]].**
+- **[[p/_people|People]] or things [[j/_judged|judged]] to be [[s/_superfluous|superfluous]] to an [[o/_organization|organization]] or [[p/_project|project]].**
 - **[[m/_money|Money]] not [[r/_realized|realized]] by [[e/_exiting|exiting]] a winning [[p/_pump|pump]] trade too [[e/_early|early]].**
 - **[[p/_pins|Pins]] that [[h/_have|have]] [[f/_fallen|fallen]] and [[h/_have|have]] not [[b/_been|been]] [[c/_cleared|cleared]] from the [[a/_alley|alley]].**
 - **Vertical [[p/_planks|planks]] [[b/_between|between]] the [[k/_keel|keel]] and the [[s/_sternpost|sternpost]] that [[a/_act|act]] as [[r/_reinforcement|reinforcement]].**

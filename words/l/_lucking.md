@@ -1,7 +1,7 @@
 # Lucking
 ---
 #verb
-- **To succeed by [[c/_chance|chance]].**
+- **To [[s/_succeed|succeed]] by [[c/_chance|chance]].**
 	- _Example: His plan lucked out._
 - **To [[r/_rely|rely]] on [[l/_luck|luck]].**
 	- _Example: No plan. We're just to going to have to luck through._

@@ -1,7 +1,7 @@
 # Off
 ---
 #noun
-- **(usually in [[p/_phrases|phrases]] such as 'from the [[o/_off|off]]', 'at the [[o/_off|off]]', [[e/_etc|etc]].) [[b/_beginning|Beginning]]; [[s/_starting|starting]] [[p/_point|point]].**
+- **(usually in [[p/_phrases|phrases]] [[s/_such|such]] as 'from the [[o/_off|off]]', 'at the [[o/_off|off]]', [[e/_etc|etc]].) [[b/_beginning|Beginning]]; [[s/_starting|starting]] [[p/_point|point]].**
 	- _Example: He has been very obviously an untrustworthy narrator right from the off._
 ---
 #verb
@@ -23,14 +23,14 @@
 	- _Example: sales are off this quarter_
 - **[[i/_inappropriate|Inappropriate]]; untoward.**
 	- _Example: I felt that his comments were a bit off._
-- **(in [[p/_phrases|phrases]] such as 'well [[o/_off|off]]', '[[b/_better|better]] [[o/_off|off]]', '[[p/_poorly|poorly]] [[o/_off|off]]') [[c/_circumstanced|Circumstanced]].**
+- **(in [[p/_phrases|phrases]] [[s/_such|such]] as 'well [[o/_off|off]]', '[[b/_better|better]] [[o/_off|off]]', '[[p/_poorly|poorly]] [[o/_off|off]]') [[c/_circumstanced|Circumstanced]].**
 - **[[s/_started|Started]] on the way.**
 	- _Example: And they're off! Whatsmyname takes an early lead, with Remember The Mane behind by a nose._
 - **[[f/_far|Far]]; [[o/_off|off]] to the [[s/_side|side]].**
 	- _Example: He took me down the corridor and into an off room._
 - **[[d/_designating|Designating]] a time when [[o/_one|one]] is not [[s/_strictly|strictly]] [[a/_attentive|attentive]] to [[b/_business|business]] or [[a/_affairs|affairs]], or is [[a/_absent|absent]] from a [[p/_post|post]], and, [[h/_hence|hence]], a time when [[a/_affairs|affairs]] are not urgent.**
 	- _Example: He took an off day for fishing.  an off year in politics; the off season_
-- **(in [[p/_phrases|phrases]] such as '[[o/_off|off]] [[d/_day|day]]') [[d/_designating|Designating]] a time when [[o/_one|one]] is not [[p/_performing|performing]] to the [[b/_best|best]] of [[o/_one|one]]'[[s/_s|s]] [[a/_abilities|abilities]].**
+- **(in [[p/_phrases|phrases]] [[s/_such|such]] as '[[o/_off|off]] [[d/_day|day]]') [[d/_designating|Designating]] a time when [[o/_one|one]] is not [[p/_performing|performing]] to the [[b/_best|best]] of [[o/_one|one]]'[[s/_s|s]] [[a/_abilities|abilities]].**
 - **(of a [[d/_dish|dish]] on a [[m/_menu|menu]]) [[p/_presently|Presently]] unavailable.**
 	- _Example: — I'll have the chicken please._
 - **(in [[r/_relation|relation]] to a vehicle) On the [[s/_side|side]] [[f/_furthest|furthest]] from the [[k/_kerb|kerb]] (the [[r/_right|right]]-[[h/_hand|hand]] [[s/_side|side]] [[i/_if|if]] [[o/_one|one]] [[d/_drives|drives]] on the [[l/_left|left]]).**
@@ -57,7 +57,7 @@
 	- _Example: His office is off this corridor on the right._
 - **Used to [[e/_express|express]] [[l/_location|location]] at [[s/_sea|sea]] [[r/_relative|relative]] to [[l/_land|land]] or [[m/_mainland|mainland]].**
 	- _Example: The island is 23 miles off the cape._
-- **[[r/_removed|Removed]] or subtracted from.**
+- **[[r/_removed|Removed]] or [[s/_subtracted|subtracted]] from.**
 	- _Example: There's 20% off the list price._
 - **[[n/_no|No]] [[l/_longer|longer]] wanting or taking.**
 	- _Example: He's been off his feed since Tuesday._

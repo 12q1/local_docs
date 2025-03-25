@@ -11,7 +11,7 @@
 	- _Example: to execute a contract_
 - **To [[s/_start|start]], [[l/_launch|launch]] or [[r/_run|run]]**
 	- _Example: to execute a program_
-- **To [[r/_run|run]], usually successfully.**
+- **To [[r/_run|run]], usually [[s/_successfully|successfully]].**
 	- _Example: The program executed, but data problems were discovered._
 ---
 ### Synonyms

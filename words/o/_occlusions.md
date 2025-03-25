@@ -6,7 +6,7 @@
 - **The [[a/_alignment|alignment]] of the teeth when upper and [[l/_lower|lower]] [[j/_jaws|jaws]] are [[b/_brought|brought]] together.**
 - **An [[o/_occluded|occluded]] [[f/_front|front]].**
 - **A [[c/_closure|closure]] within the vocal tract that [[p/_produces|produces]] an [[o/_oral|oral]] [[s/_stop|stop]] or [[n/_nasal|nasal]] [[s/_stop|stop]].**
-- **The [[a/_absorption|absorption]] of a [[g/_gas|gas]] or [[l/_liquid|liquid]] by a substance such as a [[m/_metal|metal]].**
+- **The [[a/_absorption|absorption]] of a [[g/_gas|gas]] or [[l/_liquid|liquid]] by a [[s/_substance|substance]] [[s/_such|such]] as a [[m/_metal|metal]].**
 - **The [[b/_blocking|blocking]] of the view of [[p/_part|part]] of an [[i/_image|image]] by [[a/_another|another]].**
 ---
 ---

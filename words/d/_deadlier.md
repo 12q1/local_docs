@@ -1,7 +1,7 @@
 # Deadlier
 ---
 #adjective
-- **Subject to [[d/_death|death]]; [[m/_mortal|mortal]].**
+- **[[s/_subject|Subject]] to [[d/_death|death]]; [[m/_mortal|mortal]].**
 - **[[c/_causing|Causing]] [[d/_death|death]]; [[l/_lethal|lethal]].**
 - **[[a/_aiming|Aiming]] or willing to [[d/_destroy|destroy]]; [[i/_implacable|implacable]]; [[d/_desperately|desperately]] [[h/_hostile|hostile]].**
 	- _Example: deadly enemies_

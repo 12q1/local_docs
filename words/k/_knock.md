@@ -1,7 +1,7 @@
 # Knock
 ---
 #noun
-- **Sudden [[f/_fatigue|fatigue]] as a [[r/_result|result]] of [[g/_glycogen|glycogen]] [[d/_depletion|depletion]] from not [[h/_having|having]] taken in [[e/_enough|enough]] [[n/_nutrition|nutrition]].**
+- **[[s/_sudden|Sudden]] [[f/_fatigue|fatigue]] as a [[r/_result|result]] of [[g/_glycogen|glycogen]] [[d/_depletion|depletion]] from not [[h/_having|having]] taken in [[e/_enough|enough]] [[n/_nutrition|nutrition]].**
 ---
 #noun
 - **An [[a/_abrupt|abrupt]] [[r/_rapping|rapping]] [[s/_sound|sound]], as from an [[i/_impact|impact]] of a [[h/_hard|hard]] [[o/_object|object]] [[a/_against|against]] wood.**

@@ -10,7 +10,7 @@
 ---
 #adjective
 - **[[p/_prominent|Prominent]] or [[n/_noticeable|noticeable]]; [[s/_standing|standing]] [[o/_out|out]] from [[o/_others|others]].**
-- **[[e/_exceptionally|Exceptionally]] [[g/_good|good]]; [[d/_distinguished|distinguished]] from [[o/_others|others]] by [[i/_its|its]] superiority.**
+- **[[e/_exceptionally|Exceptionally]] [[g/_good|good]]; [[d/_distinguished|distinguished]] from [[o/_others|others]] by [[i/_its|its]] [[s/_superiority|superiority]].**
 - **[[p/_projecting|Projecting]] [[o/_outwards|outwards]].**
 - **Unresolved; not [[s/_settled|settled]] or [[f/_finished|finished]].**
 - **[[o/_owed|Owed]] as a [[d/_debt|debt]].**

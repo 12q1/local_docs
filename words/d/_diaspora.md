@@ -5,8 +5,8 @@
 - **(by [[e/_extension|extension]]) [[a/_any|Any]] [[s/_similar|similar]] [[d/_dispersion|dispersion]].**
 	- _Example: The African diaspora caused a melding of cultures, both African cultures and Western ones, in many places._
 - **([[c/_collective|collective]]) A [[g/_group|group]] [[s/_so|so]] [[d/_dispersed|dispersed]], [[e/_especially|especially]] [[j/_jews|Jews]] [[o/_outside|outside]] of the [[l/_land|land]] of [[i/_israel|Israel]].**
-- **The [[r/_regions|regions]] where such a [[d/_dispersed|dispersed]] [[g/_group|group]] ([[e/_especially|especially]] the [[j/_jews|Jews]]) [[r/_resides|resides]], taken [[c/_collectively|collectively]].**
+- **The [[r/_regions|regions]] where [[s/_such|such]] a [[d/_dispersed|dispersed]] [[g/_group|group]] ([[e/_especially|especially]] the [[j/_jews|Jews]]) [[r/_resides|resides]], taken [[c/_collectively|collectively]].**
 	- _Example: Jews in the diaspora often have a different perspective of anti-Semitism from Israeli Jews._
-- **[[a/_any|Any]] [[d/_dispersion|dispersion]] of an [[o/_originally|originally]] [[h/_homogeneous|homogeneous]] [[e/_entity|entity]], such as a [[l/_language|language]] or [[c/_culture|culture]].**
+- **[[a/_any|Any]] [[d/_dispersion|dispersion]] of an [[o/_originally|originally]] [[h/_homogeneous|homogeneous]] [[e/_entity|entity]], [[s/_such|such]] as a [[l/_language|language]] or [[c/_culture|culture]].**
 ---
 ---

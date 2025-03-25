@@ -15,6 +15,6 @@
 ---
 #adjective
 - **Of a [[p/_pale|pale]] [[b/_brown|brown]] [[c/_colour|colour]], [[l/_like|like]] that of [[m/_milk|milk]] [[c/_coffee|coffee]].**
-- **Of a table: a [[s/_small|small]], [[l/_low|low]] table suitable for [[p/_people|people]] in [[l/_lounge|lounge]] [[s/_seating|seating]] to [[p/_put|put]] [[c/_coffee|coffee]] [[c/_cups|cups]] on.**
+- **Of a table: a [[s/_small|small]], [[l/_low|low]] table [[s/_suitable|suitable]] for [[p/_people|people]] in [[l/_lounge|lounge]] [[s/_seating|seating]] to [[p/_put|put]] [[c/_coffee|coffee]] [[c/_cups|cups]] on.**
 ---
 ---

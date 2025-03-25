@@ -15,7 +15,7 @@
 - **A [[d/_device|device]] on trains and [[c/_carriages|carriages]] [[d/_designed|designed]] to [[c/_cushion|cushion]] the [[i/_impact|impact]] [[b/_between|between]] them.**
 - **The [[m/_metal|metal]] [[b/_barrier|barrier]] to [[h/_help|help]] [[p/_prevent|prevent]] trains from [[r/_running|running]] [[o/_off|off]] the [[e/_end|end]] of the track.**
 - **An [[i/_isolating|isolating]] [[c/_circuit|circuit]], [[o/_often|often]] an [[a/_amplifier|amplifier]], used to [[m/_minimize|minimize]] the [[i/_influence|influence]] of a [[d/_driven|driven]] [[c/_circuit|circuit]] on the [[d/_driving|driving]] [[c/_circuit|circuit]].**
-- **([[i/_international|international]] [[r/_relations|relations]]) A [[b/_buffer|buffer]] zone (such as a [[d/_demilitarized|demilitarized]] zone) or a [[b/_buffer|buffer]] [[s/_state|state]].**
+- **([[i/_international|international]] [[r/_relations|relations]]) A [[b/_buffer|buffer]] zone ([[s/_such|such]] as a [[d/_demilitarized|demilitarized]] zone) or a [[b/_buffer|buffer]] [[s/_state|state]].**
 - **A [[g/_good|good]]-[[h/_humoured|humoured]], [[s/_slow|slow]]-witted [[f/_fellow|fellow]], usually an [[e/_elderly|elderly]] [[m/_man|man]].**
 - **A [[g/_gap|gap]] that [[i/_isolates|isolates]] or [[s/_separates|separates]] two things.**
 ---

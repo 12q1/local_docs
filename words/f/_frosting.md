@@ -9,7 +9,7 @@
 - **To [[s/_sharpen|sharpen]] (the [[p/_points|points]] of a [[h/_horse|horse]]'[[s/_s|s]] [[s/_shoe|shoe]]) to [[p/_prevent|prevent]] it from [[s/_slipping|slipping]] on [[i/_ice|ice]].**
 ---
 #noun
-- **A sugary [[c/_coating|coating]] for [[c/_cakes|cakes]] and [[o/_other|other]] [[b/_baked|baked]] [[g/_goods|goods]].**
+- **A [[s/_sugary|sugary]] [[c/_coating|coating]] for [[c/_cakes|cakes]] and [[o/_other|other]] [[b/_baked|baked]] [[g/_goods|goods]].**
 - **A [[l/_layer|layer]] of [[f/_frost|frost]].**
 - **The theft of a [[c/_car|car]] while it is [[l/_left|left]] unattended, [[e/_especially|especially]] when [[i/_its|its]] [[e/_engine|engine]] is [[l/_left|left]] [[r/_running|running]] in the winter to [[d/_defrost|defrost]] the [[c/_car|car]].**
 ---

@@ -11,7 +11,7 @@
 - **A [[s/_specialized|specialized]] [[p/_piece|piece]] of [[f/_film|film]] [[e/_equipment|equipment]] [[r/_resembling|resembling]] a [[l/_little|little]] [[c/_cart|cart]] on which a [[c/_camera|camera]] is [[m/_mounted|mounted]].**
 - **A [[y/_young|young]] woman, [[e/_especially|especially]] [[o/_one|one]] who is [[f/_frivolous|frivolous]] or vapid.**
 - **A [[f/_fashionable|fashionable]] [[y/_young|young]] woman, [[o/_one|one]] who [[f/_follows|follows]] the [[l/_latest|latest]] [[m/_music|music]] or [[c/_clothing|clothing]] [[f/_fashions|fashions]].**
-- **A [[b/_ball|ball]] [[h/_hit|hit]] by a [[b/_batsman|batsman]] such that it [[g/_goes|goes]] [[g/_gently|gently]] to a [[f/_fielder|fielder]] for a [[s/_simple|simple]] [[c/_catch|catch]].**
+- **A [[b/_ball|ball]] [[h/_hit|hit]] by a [[b/_batsman|batsman]] [[s/_such|such]] that it [[g/_goes|goes]] [[g/_gently|gently]] to a [[f/_fielder|fielder]] for a [[s/_simple|simple]] [[c/_catch|catch]].**
 - **A [[m/_marker|marker]] [[p/_placed|placed]] on the winning [[n/_number|number]] by the [[d/_dealer|dealer]] at [[r/_roulette|roulette]].**
 ---
 #noun

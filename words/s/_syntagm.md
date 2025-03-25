@@ -1,7 +1,7 @@
 # Syntagm
 ---
 #noun
-- **A [[c/_constituent|constituent]] [[s/_segment|segment]] within a text, such as a word or a [[p/_phrase|phrase]] that [[f/_forms|forms]] a [[s/_syntactic|syntactic]] unit.**
+- **A [[c/_constituent|constituent]] [[s/_segment|segment]] within a text, [[s/_such|such]] as a word or a [[p/_phrase|phrase]] that [[f/_forms|forms]] a [[s/_syntactic|syntactic]] unit.**
 	- _Example: The syntagma “the God of peace” (in Greek ὁ Θεὸς τῆς εἰρήνης) occurs in all undisputed Pauline letters._
 - **An [[a/_arrangement|arrangement]] of units that together [[b/_bears|bears]] a [[m/_meaning|meaning]].**
 	- _Example: To combine a sequence of shots into a larger syntagma, there has to be a connection between the successive shots._

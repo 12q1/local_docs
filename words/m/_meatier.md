@@ -5,7 +5,7 @@
 - **[[r/_resembling|Resembling]] [[m/_meat|meat]] in [[f/_flavour|flavour]], [[e/_etc|etc]].**
 	- _Example: This tastes rather meaty. Are you sure it's vegetarian?_
 - **Of a [[p/_person|person]] or a [[b/_body|body]] [[p/_part|part]], [[l/_large|large]] and [[s/_solid|solid]].**
-- **Substantial.**
+- **[[s/_substantial|Substantial]].**
 	- _Example: I got a nice, meaty bonus._
 ---
 ### Synonyms

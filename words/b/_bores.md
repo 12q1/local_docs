@@ -4,7 +4,7 @@
 - **A [[h/_hole|hole]] [[d/_drilled|drilled]] or [[m/_milled|milled]] through [[s/_something|something]], or (by [[e/_extension|extension]]) [[i/_its|its]] [[d/_diameter|diameter]].**
 	- _Example: the bore of a cannon_
 - **The tunnel [[i/_inside|inside]] of a [[g/_gun|gun]]'[[s/_s|s]] [[b/_barrel|barrel]] through which the [[b/_bullet|bullet]] travels when [[f/_fired|fired]], or (by [[e/_extension|extension]]) [[i/_its|its]] [[d/_diameter|diameter]].**
-- **A tool, such as an [[a/_auger|auger]], for [[m/_making|making]] a [[h/_hole|hole]] by [[b/_boring|boring]].**
+- **A tool, [[s/_such|such]] as an [[a/_auger|auger]], for [[m/_making|making]] a [[h/_hole|hole]] by [[b/_boring|boring]].**
 - **A [[c/_capped|capped]] well [[d/_drilled|drilled]] to tap [[a/_artesian|artesian]] water. The [[p/_place|place]] where the well [[e/_exists|exists]].**
 - **[[o/_one|One]] who [[i/_inspires|inspires]] [[b/_boredom|boredom]] or [[l/_lack|lack]] of [[i/_interest|interest]]; an uninteresting [[p/_person|person]].**
 - **[[s/_something|Something]] [[d/_dull|dull]] or uninteresting**
@@ -28,7 +28,7 @@
 ### Antonyms
 - [[i/_interest|interest]]
 #noun
-- **A sudden and [[r/_rapid|rapid]] [[f/_flow|flow]] of tide occuring in [[c/_certain|certain]] [[r/_rivers|rivers]] and [[e/_estuaries|estuaries]] which [[r/_rolls|rolls]] up as a wave.**
+- **A [[s/_sudden|sudden]] and [[r/_rapid|rapid]] [[f/_flow|flow]] of tide occuring in [[c/_certain|certain]] [[r/_rivers|rivers]] and [[e/_estuaries|estuaries]] which [[r/_rolls|rolls]] up as a wave.**
 ---
 ### Synonyms
 - [[e/_eagre|eagre]]

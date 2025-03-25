@@ -12,10 +12,10 @@
 - **To [[r/_revoke|revoke]] a [[l/_law|law]], or to [[c/_change|change]] a [[d/_decision|decision]] [[i/_into|into]] [[i/_its|its]] [[o/_opposite|opposite]].**
 	- _Example: to reverse a judgment, sentence, or decree_
 - **To [[c/_cause|cause]] a [[m/_mechanism|mechanism]] or a vehicle to [[o/_operate|operate]] or [[m/_move|move]] in the [[o/_opposite|opposite]] [[d/_direction|direction]] to [[n/_normal|normal]].**
-- **To [[c/_change|change]] the [[d/_direction|direction]] of a [[r/_reaction|reaction]] such that the [[p/_products|products]] [[b/_become|become]] the [[r/_reactants|reactants]] and vice-versa.**
+- **To [[c/_change|change]] the [[d/_direction|direction]] of a [[r/_reaction|reaction]] [[s/_such|such]] that the [[p/_products|products]] [[b/_become|become]] the [[r/_reactants|reactants]] and vice-versa.**
 - **To [[p/_place|place]] a [[s/_set|set]] of [[p/_points|points]] in the [[r/_reverse|reverse]] [[p/_position|position]]**
 - **(of [[p/_points|points]]) to [[m/_move|move]] from the [[n/_normal|normal]] [[p/_position|position]] to the [[r/_reverse|reverse]] [[p/_position|position]]**
-- **To [[o/_overthrow|overthrow]]; to subvert.**
+- **To [[o/_overthrow|overthrow]]; to [[s/_subvert|subvert]].**
 ---
 ### Antonyms
 - [[n/_normalise|normalise]], [[n/_normalize|normalize]], [[u/_unreverse|unreverse]]

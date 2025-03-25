@@ -13,6 +13,6 @@
 - [[c/_crown|crown]], [[b/_bestow|bestow]]
 #noun
 - **The [[a/_act|act]] of [[b/_bestowing|bestowing]] an [[a/_award|award]].**
-- **The [[a/_act|act]] of [[g/_giving|giving]] by [[o/_official|official]] [[d/_decision|decision]] such as [[g/_giving|giving]] a [[c/_contract|contract]].**
+- **The [[a/_act|act]] of [[g/_giving|giving]] by [[o/_official|official]] [[d/_decision|decision]] [[s/_such|such]] as [[g/_giving|giving]] a [[c/_contract|contract]].**
 ---
 ---

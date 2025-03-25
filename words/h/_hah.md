@@ -12,7 +12,7 @@
 - **[[s/_said|Said]] when [[m/_making|making]] a vigorous [[a/_attack|attack]].**
 ---
 #interjection
-- **(with [[f/_falling|falling]] [[p/_pitch|pitch]]) used to [[e/_express|express]] [[a/_amusement|amusement]] or subtle surprise.**
+- **(with [[f/_falling|falling]] [[p/_pitch|pitch]]) used to [[e/_express|express]] [[a/_amusement|amusement]] or [[s/_subtle|subtle]] surprise.**
 	- _Example: Huh! I'm sure I locked it when I left._
 - **Used to [[e/_express|express]] [[d/_doubt|doubt]] or [[c/_confusion|confusion]].**
 	- _Example: Huh? Where did they go?_

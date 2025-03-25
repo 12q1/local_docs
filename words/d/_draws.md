@@ -13,7 +13,7 @@
 - **A [[b/_bag|bag]] of [[c/_cannabis|cannabis]].**
 - **[[c/_cannabis|Cannabis]].**
 - **In a [[c/_commission|commission]]-[[b/_based|based]] [[j/_job|job]], an [[a/_advance|advance]] on [[f/_future|future]] ([[p/_potential|potential]]) [[c/_commissions|commissions]] [[g/_given|given]] to an [[e/_employee|employee]] by the [[e/_employer|employer]].**
-- **A [[s/_situation|situation]] in which [[o/_one|one]] or [[m/_more|more]] [[p/_players|players]] [[h/_has|has]] [[f/_four|four]] [[c/_cards|cards]] of the [[s/_same|same]] suit or [[f/_four|four]] [[o/_out|out]] of [[f/_five|five]] [[n/_necessary|necessary]] [[c/_cards|cards]] for a [[s/_straight|straight]] and [[r/_requires|requires]] a [[f/_further|further]] [[c/_card|card]] to [[m/_make|make]] their [[f/_flush|flush]] or [[s/_straight|straight]].**
+- **A [[s/_situation|situation]] in which [[o/_one|one]] or [[m/_more|more]] [[p/_players|players]] [[h/_has|has]] [[f/_four|four]] [[c/_cards|cards]] of the [[s/_same|same]] [[s/_suit|suit]] or [[f/_four|four]] [[o/_out|out]] of [[f/_five|five]] [[n/_necessary|necessary]] [[c/_cards|cards]] for a [[s/_straight|straight]] and [[r/_requires|requires]] a [[f/_further|further]] [[c/_card|card]] to [[m/_make|make]] their [[f/_flush|flush]] or [[s/_straight|straight]].**
 - **The [[a/_act|act]] of [[p/_pulling|pulling]] [[b/_back|back]] the [[s/_strings|strings]] in [[p/_preparation|preparation]] of [[f/_firing|firing]].**
 - **The [[s/_spin|spin]] or twist [[i/_imparted|imparted]] to a [[b/_ball|ball]] [[e/_etc|etc]]. by a [[d/_drawing|drawing]] [[s/_stroke|stroke]].**
 ---

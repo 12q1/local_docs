@@ -1,10 +1,10 @@
 # Kips
 ---
 #noun
-- **The untanned [[h/_hide|hide]] of a [[y/_young|young]] or [[s/_small|small]] [[b/_beast|beast]], such as a [[c/_calf|calf]], [[l/_lamb|lamb]], or [[y/_young|young]] [[g/_goat|goat]].**
-- **A [[b/_bundle|bundle]] or [[s/_set|set]] of such [[h/_hides|hides]].**
+- **The untanned [[h/_hide|hide]] of a [[y/_young|young]] or [[s/_small|small]] [[b/_beast|beast]], [[s/_such|such]] as a [[c/_calf|calf]], [[l/_lamb|lamb]], or [[y/_young|young]] [[g/_goat|goat]].**
+- **A [[b/_bundle|bundle]] or [[s/_set|set]] of [[s/_such|such]] [[h/_hides|hides]].**
 - **A unit of [[c/_count|count]] for [[s/_skins|skins]], 30 for [[l/_lamb|lamb]] and 50 for [[g/_goat|goat]].**
-- **The [[l/_leather|leather]] [[m/_made|made]] from such [[h/_hide|hide]]; [[k/_kip|kip]] [[l/_leather|leather]].**
+- **The [[l/_leather|leather]] [[m/_made|made]] from [[s/_such|such]] [[h/_hide|hide]]; [[k/_kip|kip]] [[l/_leather|leather]].**
 ---
 #noun
 - **([[c/_chiefly|chiefly]] UK) A [[p/_place|place]] to [[s/_sleep|sleep]]; a [[r/_rooming|rooming]] [[h/_house|house]]; a [[b/_bed|bed]].**
@@ -30,7 +30,7 @@
 - **A unit of [[m/_mass|mass]] [[e/_equal|equal]] to 1000 [[a/_avoirdupois|avoirdupois]] [[p/_pounds|pounds]].**
 ---
 #noun
-- **A [[b/_basic|basic]] [[s/_skill|skill]] or [[m/_maneuver|maneuver]] in [[a/_artistic|artistic]] [[g/_gymnastics|gymnastics]] on the uneven [[b/_bars|bars]], [[p/_parallel|parallel]] [[b/_bars|bars]], [[h/_high|high]] [[b/_bar|bar]] and [[s/_still|still]] [[r/_rings|rings]] used, for [[e/_example|example]], as a way of [[m/_mounting|mounting]] the [[b/_bar|bar]] in a [[f/_front|front]] support [[p/_position|position]], or [[a/_achieving|achieving]] a [[h/_handstand|handstand]] from a [[h/_hanging|hanging]] [[p/_position|position]]. In [[i/_its|its]] [[b/_basic|basic]] [[f/_form|form]], the [[l/_legs|legs]] are swung [[f/_forward|forward]] and upward by [[b/_bending|bending]] the [[h/_hips|hips]], then suddenly [[d/_down|down]] [[a/_again|again]], which [[g/_gives|gives]] the upward [[i/_impulse|impulse]] to the [[b/_body|body]].**
+- **A [[b/_basic|basic]] [[s/_skill|skill]] or [[m/_maneuver|maneuver]] in [[a/_artistic|artistic]] [[g/_gymnastics|gymnastics]] on the uneven [[b/_bars|bars]], [[p/_parallel|parallel]] [[b/_bars|bars]], [[h/_high|high]] [[b/_bar|bar]] and [[s/_still|still]] [[r/_rings|rings]] used, for [[e/_example|example]], as a way of [[m/_mounting|mounting]] the [[b/_bar|bar]] in a [[f/_front|front]] support [[p/_position|position]], or [[a/_achieving|achieving]] a [[h/_handstand|handstand]] from a [[h/_hanging|hanging]] [[p/_position|position]]. In [[i/_its|its]] [[b/_basic|basic]] [[f/_form|form]], the [[l/_legs|legs]] are swung [[f/_forward|forward]] and upward by [[b/_bending|bending]] the [[h/_hips|hips]], then [[s/_suddenly|suddenly]] [[d/_down|down]] [[a/_again|again]], which [[g/_gives|gives]] the upward [[i/_impulse|impulse]] to the [[b/_body|body]].**
 - **([[g/_games|games]]) A [[p/_piece|piece]] of [[f/_flat|flat]] wood used to throw the [[c/_coins|coins]] in a [[g/_game|game]] of two-up.**
 - **A [[s/_sharp|sharp]]-[[p/_pointed|pointed]] [[h/_hill|hill]]; a [[p/_projecting|projecting]] [[p/_point|point]], as on a [[h/_hill|hill]].**
 ---

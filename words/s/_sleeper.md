@@ -9,7 +9,7 @@
 - **A [[r/_railway|railway]] [[s/_sleeping|sleeping]] [[c/_car|car]].**
 	- _Example: We spent a night on an uncomfortable sleeper between Athens and Vienna._
 - **A [[s/_sleeper|sleeper]] [[h/_hold|hold]].**
-- **[[s/_something|Something]] that [[a/_achieves|achieves]] unexpected success [[a/_after|after]] an [[i/_interval|interval]] of time.**
+- **[[s/_something|Something]] that [[a/_achieves|achieves]] unexpected [[s/_success|success]] [[a/_after|after]] an [[i/_interval|interval]] of time.**
 	- _Example: A box-office bomb when it first came out, the film was a sleeper, becoming much more popular decades after being released._
 - **A [[g/_goby|goby]]-[[l/_like|like]] [[b/_bottom|bottom]]-[[f/_feeding|feeding]] [[f/_freshwater|freshwater]] [[f/_fish|fish]] of the [[f/_family|family]] Odontobutidae.**
 - **A [[n/_nurse|nurse]] [[s/_shark|shark]] ([[f/_family|family]] Ginglymostomatidae).**

@@ -1,7 +1,7 @@
 # Metamorphic
 ---
 #noun
-- **A [[r/_rock|rock]] that [[h/_has|has]] [[b/_been|been]] [[c/_changed|changed]] from [[i/_its|its]] [[o/_original|original]] [[f/_form|form]] by subjection to [[h/_heat|heat]] and/or [[p/_pressure|pressure]].**
+- **A [[r/_rock|rock]] that [[h/_has|has]] [[b/_been|been]] [[c/_changed|changed]] from [[i/_its|its]] [[o/_original|original]] [[f/_form|form]] by [[s/_subjection|subjection]] to [[h/_heat|heat]] and/or [[p/_pressure|pressure]].**
 ---
 #adjective
 - **[[c/_characterised|Characterised]] by or [[e/_exhibiting|exhibiting]] a [[c/_change|change]] in [[f/_form|form]] or [[c/_character|character]].**

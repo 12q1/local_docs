@@ -9,7 +9,7 @@
 - [[c/_crib|crib]]
 #noun
 - **A [[c/_cottage|cottage]] or [[s/_small|small]] [[h/_homestead|homestead]].**
-- **A [[p/_pen|pen]], [[c/_coop|coop]], or [[s/_similar|similar]] [[s/_shelter|shelter]] for [[s/_small|small]] [[d/_domestic|domestic]] [[a/_animals|animals]], such as [[s/_sheep|sheep]] or [[p/_pigeons|pigeons]].**
+- **A [[p/_pen|pen]], [[c/_coop|coop]], or [[s/_similar|similar]] [[s/_shelter|shelter]] for [[s/_small|small]] [[d/_domestic|domestic]] [[a/_animals|animals]], [[s/_such|such]] as [[s/_sheep|sheep]] or [[p/_pigeons|pigeons]].**
 ---
 ### Synonyms
 - [[c/_cote|cote]]

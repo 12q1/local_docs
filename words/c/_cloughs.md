@@ -8,6 +8,6 @@
 - **A wood; weald.**
 ---
 #noun
-- **[[f/_formerly|Formerly]] an [[a/_allowance|allowance]] of two [[p/_pounds|pounds]] in [[e/_every|every]] three [[h/_hundredweight|hundredweight]] [[a/_after|after]] the tare and tret are subtracted; [[n/_now|now]] used [[o/_only|only]] in a [[g/_general|general]] [[s/_sense|sense]], of [[s/_small|small]] [[d/_deductions|deductions]] from the [[o/_original|original]] weight.**
+- **[[f/_formerly|Formerly]] an [[a/_allowance|allowance]] of two [[p/_pounds|pounds]] in [[e/_every|every]] three [[h/_hundredweight|hundredweight]] [[a/_after|after]] the tare and tret are [[s/_subtracted|subtracted]]; [[n/_now|now]] used [[o/_only|only]] in a [[g/_general|general]] [[s/_sense|sense]], of [[s/_small|small]] [[d/_deductions|deductions]] from the [[o/_original|original]] weight.**
 ---
 ---

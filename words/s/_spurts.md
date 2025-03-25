@@ -9,12 +9,12 @@
 ### Synonyms
 - [[s/_spout|spout]]
 #verb
-- **To [[c/_cause|cause]] to [[g/_gush|gush]] [[o/_out|out]] suddenly or violently in a [[s/_stream|stream]] or [[j/_jet|jet]].**
+- **To [[c/_cause|cause]] to [[g/_gush|gush]] [[o/_out|out]] [[s/_suddenly|suddenly]] or violently in a [[s/_stream|stream]] or [[j/_jet|jet]].**
 - **To [[r/_rush|rush]] from a [[c/_confined|confined]] [[p/_place|place]] in a [[s/_small|small]] [[s/_stream|stream]] or [[j/_jet|jet]].**
 ---
 #noun
 - **A [[m/_moment|moment]], a [[s/_short|short]] [[p/_period|period]] of time.**
-- **A sudden [[b/_brief|brief]] [[b/_burst|burst]] of, or [[i/_increase|increase]] in, [[s/_speed|speed]], [[e/_effort|effort]], [[a/_activity|activity]], [[e/_emotion|emotion]] or [[d/_development|development]].**
+- **A [[s/_sudden|sudden]] [[b/_brief|brief]] [[b/_burst|burst]] of, or [[i/_increase|increase]] in, [[s/_speed|speed]], [[e/_effort|effort]], [[a/_activity|activity]], [[e/_emotion|emotion]] or [[d/_development|development]].**
 	- _Example: The boss's visit prompted a brief spurt of activity._
 ---
 #verb

@@ -3,7 +3,7 @@
 #noun
 - **An [[a/_act|act]] of [[i/_interchanging|interchanging]].**
 - **A [[h/_highway|highway]] [[j/_junction|junction]] in which traffic [[m/_may|may]] [[c/_change|change]] from [[o/_one|one]] [[r/_road|road]] to [[a/_another|another]] without [[c/_crossing|crossing]] a [[s/_stream|stream]] of traffic.**
-- **A [[c/_connection|connection]] [[b/_between|between]] two or [[m/_more|more]] [[l/_lines|lines]], [[s/_services|services]] or [[m/_modes|modes]] of transport; a [[s/_station|station]] at which such a [[c/_connection|connection]] [[c/_can|can]] be [[m/_made|made]].**
+- **A [[c/_connection|connection]] [[b/_between|between]] two or [[m/_more|more]] [[l/_lines|lines]], [[s/_services|services]] or [[m/_modes|modes]] of transport; a [[s/_station|station]] at which [[s/_such|such]] a [[c/_connection|connection]] [[c/_can|can]] be [[m/_made|made]].**
 	- _Example: Holborn tube station is the only interchange between the London Underground Central and Piccadilly Lines_
 ---
 ### Antonyms

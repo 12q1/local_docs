@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[i/_inhabitant|inhabitant]], [[r/_resident|resident]], or [[p/_person|person]] of [[d/_descent|descent]] from [[g/_greece|Greece]].**
-- **Unintelligible [[s/_speech|speech]] or text, such as [[f/_foreign|foreign]] [[s/_speech|speech]] or text, or [[r/_regarding|regarding]] subjects the [[l/_listener|listener]] is not [[f/_familiar|familiar]] with, such as [[m/_mathematics|mathematics]] or technical [[j/_jargon|jargon]]; or [[s/_statements|statements]] that the [[l/_listener|listener]] [[d/_does|does]] not understand or [[a/_agree|agree]] with.**
+- **Unintelligible [[s/_speech|speech]] or text, [[s/_such|such]] as [[f/_foreign|foreign]] [[s/_speech|speech]] or text, or [[r/_regarding|regarding]] [[s/_subjects|subjects]] the [[l/_listener|listener]] is not [[f/_familiar|familiar]] with, [[s/_such|such]] as [[m/_mathematics|mathematics]] or technical [[j/_jargon|jargon]]; or [[s/_statements|statements]] that the [[l/_listener|listener]] [[d/_does|does]] not understand or [[a/_agree|agree]] with.**
 - **A [[m/_member|member]] of a [[c/_college|college]] [[f/_fraternity|fraternity]] or [[s/_sorority|sorority]], which are [[c/_characterised|characterised]] by [[b/_being|being]] [[n/_named|named]] [[a/_after|after]] [[g/_greek|Greek]] [[l/_letters|letters]]. ([[s/_see|See]] [[a/_also|also]] [[g/_greek|Greek]] [[s/_system|system]].)**
 	- _Example: Was Joe a Greek in college?_
 - **A [[c/_cunning|cunning]] [[r/_rogue|rogue]]; a [[m/_merry|merry]] [[f/_fellow|fellow]].**

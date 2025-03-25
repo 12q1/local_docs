@@ -25,7 +25,7 @@
 - **A thin, weak [[g/_glue|glue]] used as [[p/_primer|primer]] for [[p/_paper|paper]] or [[c/_canvas|canvas]] [[i/_intended|intended]] to be [[p/_painted|painted]] upon.**
 - **Wallpaper [[p/_paste|paste]].**
 - **The thickened [[c/_crust|crust]] on [[c/_coagulated|coagulated]] [[b/_blood|blood]].**
-- **[[a/_any|Any]] viscous substance, such as [[g/_gilder|gilder]]'[[s/_s|s]] varnish.**
+- **[[a/_any|Any]] viscous [[s/_substance|substance]], [[s/_such|such]] as [[g/_gilder|gilder]]'[[s/_s|s]] varnish.**
 ---
 #verb
 - **To [[a/_apply|apply]] [[g/_glue|glue]] or [[o/_other|other]] [[p/_primer|primer]] to a surface which is to be [[p/_painted|painted]].**

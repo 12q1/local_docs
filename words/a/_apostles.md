@@ -10,7 +10,7 @@
 - [[d/_disciple|disciple]]
 #noun
 - **A [[l/_letter|letter]] [[d/_dismissory|dismissory]].**
-- **A [[n/_note|note]] [[s/_sent|sent]] to an [[a/_appeals|appeals]] [[c/_court|court]] [[p/_presenting|presenting]] the [[a/_appeal|appeal]] in summary.**
+- **A [[n/_note|note]] [[s/_sent|sent]] to an [[a/_appeals|appeals]] [[c/_court|court]] [[p/_presenting|presenting]] the [[a/_appeal|appeal]] in [[s/_summary|summary]].**
 - **The trial [[c/_court|court]] [[r/_record|record]] [[s/_sent|sent]] to an [[a/_appeal|appeal]] [[c/_court|court]] [[c/_concerning|concerning]] an [[a/_appeal|appeal]].**
 ---
 ---

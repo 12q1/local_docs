@@ -1,7 +1,7 @@
 # Pity
 ---
 #noun
-- **A [[f/_feeling|feeling]] of [[s/_sympathy|sympathy]] at the [[m/_misfortune|misfortune]] or suffering of [[s/_someone|someone]] or [[s/_something|something]].**
+- **A [[f/_feeling|feeling]] of [[s/_sympathy|sympathy]] at the [[m/_misfortune|misfortune]] or [[s/_suffering|suffering]] of [[s/_someone|someone]] or [[s/_something|something]].**
 	- _Example: I can't feel any pity towards the gang, who got injured while attempting to break into a flat._
 - **[[s/_something|Something]] [[r/_regrettable|regrettable]].**
 	- _Example: It's a pity you're feeling unwell because there's a party on tonight._

@@ -3,7 +3,7 @@
 #noun
 - **A [[h/_heavy|heavy]] [[r/_release|release]] of [[b/_blood|blood]] within or from a [[b/_body|body]].**
 	- _Example: We got news that he died of a haemorrhage!_
-- **A sudden or [[s/_significant|significant]] [[l/_loss|loss]]**
+- **A [[s/_sudden|sudden]] or [[s/_significant|significant]] [[l/_loss|loss]]**
 ---
 ### Synonyms
 - [[b/_bleed|bleed]], [[b/_bleeding|bleeding]], [[h/_hæmatorrhœa|hæmatorrhœa]], [[h/_hæmorrhœa|hæmorrhœa]]

@@ -6,7 +6,7 @@
 - **A [[s/_segment|segment]] of a [[c/_canal|canal]] or [[o/_other|other]] waterway [[e/_enclosed|enclosed]] by [[g/_gates|gates]], used for [[r/_raising|raising]] and [[l/_lowering|lowering]] [[b/_boats|boats]] [[b/_between|between]] [[l/_levels|levels]].**
 - **The [[f/_firing|firing]] [[m/_mechanism|mechanism]].**
 - **[[c/_complete|Complete]] [[c/_control|control]] [[o/_over|over]] a [[s/_situation|situation]].**
-- **[[s/_something|Something]] sure to be a success.**
+- **[[s/_something|Something]] sure to be a [[s/_success|success]].**
 - **A [[p/_player|player]] in the [[s/_scrum|scrum]] [[b/_behind|behind]] the [[f/_front|front]] [[r/_row|row]], usually the tallest [[m/_members|members]] of the team.**
 - **A [[f/_fastening|fastening]] together or [[i/_interlacing|interlacing]]; a [[c/_closing|closing]] of [[o/_one|one]] thing upon [[a/_another|another]]; a [[s/_state|state]] of [[b/_being|being]] [[f/_fixed|fixed]] or [[i/_immovable|immovable]].**
 - **A [[p/_place|place]] from which [[e/_egress|egress]] is [[p/_prevented|prevented]], as by a [[l/_lock|lock]].**

@@ -1,7 +1,7 @@
 # Flour
 ---
 #noun
-- **[[p/_powder|Powder]] [[o/_obtained|obtained]] by [[g/_grinding|grinding]] or [[m/_milling|milling]] [[c/_cereal|cereal]] [[g/_grains|grains]], [[e/_especially|especially]] wheat, or [[o/_other|other]] [[f/_foodstuffs|foodstuffs]] such as [[s/_soybeans|soybeans]] and [[p/_potatoes|potatoes]], and used to [[b/_bake|bake]] [[b/_bread|bread]], [[c/_cakes|cakes]], and [[p/_pastry|pastry]].**
+- **[[p/_powder|Powder]] [[o/_obtained|obtained]] by [[g/_grinding|grinding]] or [[m/_milling|milling]] [[c/_cereal|cereal]] [[g/_grains|grains]], [[e/_especially|especially]] wheat, or [[o/_other|other]] [[f/_foodstuffs|foodstuffs]] [[s/_such|such]] as [[s/_soybeans|soybeans]] and [[p/_potatoes|potatoes]], and used to [[b/_bake|bake]] [[b/_bread|bread]], [[c/_cakes|cakes]], and [[p/_pastry|pastry]].**
 - **The [[f/_food|food]] [[m/_made|made]] by [[g/_grinding|grinding]] and [[b/_bolting|bolting]] [[c/_cleaned|cleaned]] wheat (not [[d/_durum|durum]] or [[r/_red|red]] [[d/_durum|durum]]) until it [[m/_meets|meets]] [[s/_specified|specified]] [[l/_levels|levels]] of [[f/_fineness|fineness]], [[d/_dryness|dryness]] and [[f/_freedom|freedom]] from [[b/_bran|bran]] and [[g/_germ|germ]], [[a/_also|also]] [[c/_containing|containing]] [[a/_any|any]] of [[c/_certain|certain]] [[e/_enzymes|enzymes]], [[a/_ascorbic|ascorbic]] [[a/_acid|acid]] and [[c/_certain|certain]] [[b/_bleaching|bleaching]] [[a/_agents|agents]].**
 - **[[p/_powder|Powder]] of [[o/_other|other]] [[m/_material|material]].**
 	- _Example: mustard flour_
@@ -26,7 +26,7 @@
 - **The [[b/_best|best]] [[s/_state|state]] of things; the [[p/_prime|prime]].**
 	- _Example: She was in the flower of her life._
 - **[[f/_flour|Flour]].**
-- **(in the [[p/_plural|plural]]) A substance in the [[f/_form|form]] of a [[p/_powder|powder]], [[e/_especially|especially]] when [[c/_condensed|condensed]] from sublimation.**
+- **(in the [[p/_plural|plural]]) A [[s/_substance|substance]] in the [[f/_form|form]] of a [[p/_powder|powder]], [[e/_especially|especially]] when [[c/_condensed|condensed]] from [[s/_sublimation|sublimation]].**
 	- _Example: the flowers of sulphur_
 - **A [[f/_figure|figure]] of [[s/_speech|speech]]; an [[o/_ornament|ornament]] of [[s/_style|style]].**
 - **[[o/_ornamental|Ornamental]] type used [[c/_chiefly|chiefly]] for [[b/_borders|borders]] [[a/_around|around]] [[p/_pages|pages]], [[c/_cards|cards]], [[e/_etc|etc]].**
@@ -35,6 +35,6 @@
 ### Synonyms
 - [[c/_cream|cream]], [[p/_prime|prime]], [[h/_head|head]], [[p/_pseudanthium|pseudanthium]]
 #noun
-- **[[s/_something|Something]] that [[f/_flows|flows]], such as a [[r/_river|river]].**
+- **[[s/_something|Something]] that [[f/_flows|flows]], [[s/_such|such]] as a [[r/_river|river]].**
 ---
 ---

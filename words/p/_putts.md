@@ -27,7 +27,7 @@
 - **To [[l/_lightly|lightly]] [[s/_strike|strike]] a [[g/_golf|golf]] [[b/_ball|ball]] with a [[p/_putter|putter]].**
 ---
 #noun
-- **A [[r/_regular|regular]] [[s/_sound|sound]] [[c/_characterized|characterized]] by the [[s/_sound|sound]] of "[[p/_putt|putt]] [[p/_putt|putt]] [[p/_putt|putt]] [[p/_putt|putt]]...", such as [[m/_made|made]] by [[s/_some|some]] [[s/_slowly|slowly]] [[s/_stroking|stroking]] [[i/_internal|internal]] [[c/_combustion|combustion]] [[e/_engines|engines]].**
+- **A [[r/_regular|regular]] [[s/_sound|sound]] [[c/_characterized|characterized]] by the [[s/_sound|sound]] of "[[p/_putt|putt]] [[p/_putt|putt]] [[p/_putt|putt]] [[p/_putt|putt]]...", [[s/_such|such]] as [[m/_made|made]] by [[s/_some|some]] [[s/_slowly|slowly]] [[s/_stroking|stroking]] [[i/_internal|internal]] [[c/_combustion|combustion]] [[e/_engines|engines]].**
 - **A [[m/_motorcycle|motorcycle]].**
 ---
 #verb

@@ -7,7 +7,7 @@
 	- _Example: My favorite subjects at school are science, mathematics, and history._
 - **[[k/_knowledge|Knowledge]] [[g/_gained|gained]] through [[s/_study|study]] or [[p/_practice|practice]]; [[m/_mastery|mastery]] of a [[p/_particular|particular]] [[d/_discipline|discipline]] or [[a/_area|area]].**
 - **The [[f/_fact|fact]] of [[k/_knowing|knowing]] [[s/_something|something]]; [[k/_knowledge|knowledge]] or understanding of a truth.**
-- **The [[c/_collective|collective]] [[d/_discipline|discipline]] of [[s/_study|study]] or [[l/_learning|learning]] [[a/_acquired|acquired]] through the [[s/_scientific|scientific]] [[m/_method|method]]; the sum of [[k/_knowledge|knowledge]] [[g/_gained|gained]] from such [[m/_methods|methods]] and [[d/_discipline|discipline]].**
+- **The [[c/_collective|collective]] [[d/_discipline|discipline]] of [[s/_study|study]] or [[l/_learning|learning]] [[a/_acquired|acquired]] through the [[s/_scientific|scientific]] [[m/_method|method]]; the [[s/_sum|sum]] of [[k/_knowledge|knowledge]] [[g/_gained|gained]] from [[s/_such|such]] [[m/_methods|methods]] and [[d/_discipline|discipline]].**
 - **[[k/_knowledge|Knowledge]] [[d/_derived|derived]] from [[s/_scientific|scientific]] [[d/_disciplines|disciplines]], [[s/_scientific|scientific]] [[m/_method|method]], or [[a/_any|any]] [[s/_systematic|systematic]] [[e/_effort|effort]].**
 - **([[c/_collective|collective]]) The [[s/_scientific|scientific]] [[c/_community|community]].**
 ---

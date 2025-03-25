@@ -1,7 +1,7 @@
 # Nursing
 ---
 #verb
-- **To breastfeed: to [[f/_feed|feed]] (a [[b/_baby|baby]]) at the [[b/_breast|breast]]; to suckle.**
+- **To breastfeed: to [[f/_feed|feed]] (a [[b/_baby|baby]]) at the [[b/_breast|breast]]; to [[s/_suckle|suckle]].**
 	- _Example: She believes that nursing her baby will make him strong and healthy._
 - **To breastfeed: to be [[f/_fed|fed]] at the [[b/_breast|breast]].**
 - **To [[c/_care|care]] for ([[s/_someone|someone]]), [[e/_especially|especially]] in [[s/_sickness|sickness]]; to tend to.**
@@ -18,12 +18,12 @@
 ### Synonyms
 - [[s/_sip|sip]], [[h/_husband|husband]]
 #noun
-- **Suckling, such as [[b/_breastfeeding|breastfeeding]].**
+- **[[s/_suckling|Suckling]], [[s/_such|such]] as [[b/_breastfeeding|breastfeeding]].**
 - **The [[p/_process|process]] or [[p/_profession|profession]] of [[c/_caring|caring]] for [[p/_patients|patients]] as a [[n/_nurse|nurse]].**
 	- _Example: She went into nursing as a career._
 ---
 #adjective
-- **In the [[s/_state|state]] of suckling [[y/_young|young]], [[l/_lactating|lactating]].**
+- **In the [[s/_state|state]] of [[s/_suckling|suckling]] [[y/_young|young]], [[l/_lactating|lactating]].**
 	- _Example: The nursing bear wouldn't move far until her cubs were older._
 - **[[r/_referring|Referring]] to [[n/_nurses|nurses]].**
 	- _Example: The nursing staff worked overtime at the hospital._

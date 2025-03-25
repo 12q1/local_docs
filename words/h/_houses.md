@@ -16,7 +16,7 @@
 - **A [[p/_place|place]] of [[r/_rest|rest]] or [[r/_repose|repose]].**
 - **A [[g/_grouping|grouping]] of [[s/_schoolchildren|schoolchildren]] for the [[p/_purposes|purposes]] of [[c/_competition|competition]] in [[s/_sports|sports]] and [[o/_other|other]] [[a/_activities|activities]].**
 	- _Example: I was a member of Spenser house when I was at school._
-- **An [[a/_animal|animal]]'[[s/_s|s]] [[s/_shelter|shelter]] or [[d/_den|den]], or the [[s/_shell|shell]] of an [[a/_animal|animal]] such as a [[s/_snail|snail]], used for [[p/_protection|protection]].**
+- **An [[a/_animal|animal]]'[[s/_s|s]] [[s/_shelter|shelter]] or [[d/_den|den]], or the [[s/_shell|shell]] of an [[a/_animal|animal]] [[s/_such|such]] as a [[s/_snail|snail]], used for [[p/_protection|protection]].**
 - **[[o/_one|One]] of the twelve [[d/_divisions|divisions]] of an [[a/_astrological|astrological]] [[c/_chart|chart]].**
 - **The [[f/_fourth|fourth]] Lenormand [[c/_card|card]].**
 - **A [[s/_square|square]] on a [[c/_chessboard|chessboard]], [[r/_regarded|regarded]] as the [[p/_proper|proper]] [[p/_place|place]] of a [[p/_piece|piece]].**
@@ -25,7 +25,7 @@
 - **A [[c/_children|children]]'[[s/_s|s]] [[g/_game|game]] in which the [[p/_players|players]] [[p/_pretend|pretend]] to be [[m/_members|members]] of a [[h/_household|household]].**
 	- _Example: As the babysitter, Emma always acted as the mother whenever the kids demanded to play house._
 - **A [[s/_small|small]] [[s/_stand|stand]] of trees in a swamp.**
-- **(sudoku) A [[s/_set|set]] of [[c/_cells|cells]] in a Sudoku [[p/_puzzle|puzzle]] which [[m/_must|must]] [[c/_contain|contain]] [[e/_each|each]] [[d/_digit|digit]] [[e/_exactly|exactly]] [[o/_once|once]], such as a [[r/_row|row]], [[c/_column|column]], or 3×3 [[b/_box|box]] in [[c/_classic|classic]] Sudoku.**
+- **(sudoku) A [[s/_set|set]] of [[c/_cells|cells]] in a Sudoku [[p/_puzzle|puzzle]] which [[m/_must|must]] [[c/_contain|contain]] [[e/_each|each]] [[d/_digit|digit]] [[e/_exactly|exactly]] [[o/_once|once]], [[s/_such|such]] as a [[r/_row|row]], [[c/_column|column]], or 3×3 [[b/_box|box]] in [[c/_classic|classic]] Sudoku.**
 ---
 ### Synonyms
 - [[s/_shop|shop]], [[s/_shop|shop]]

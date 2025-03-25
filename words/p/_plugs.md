@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_pronged|pronged]] [[c/_connecting|connecting]] [[d/_device|device]] which [[f/_fits|fits]] [[i/_into|into]] a [[m/_mating|mating]] [[s/_socket|socket]], [[e/_especially|especially]] an [[e/_electrical|electrical]] [[o/_one|one]].**
 	- _Example: I pushed the plug back into the electrical socket and the lamp began to glow again._
-- **[[a/_any|Any]] [[p/_piece|piece]] of wood, [[m/_metal|metal]], or [[o/_other|other]] substance used to [[s/_stop|stop]] or [[f/_fill|fill]] a [[h/_hole|hole]].**
+- **[[a/_any|Any]] [[p/_piece|piece]] of wood, [[m/_metal|metal]], or [[o/_other|other]] [[s/_substance|substance]] used to [[s/_stop|stop]] or [[f/_fill|fill]] a [[h/_hole|hole]].**
 	- _Example: Pull the plug out of the tub so it can drain._
 - **A [[f/_flat|flat]] [[o/_oblong|oblong]] [[c/_cake|cake]] of [[p/_pressed|pressed]] tobacco.**
 	- _Example: He preferred a plug of tobacco to loose chaw._
@@ -18,7 +18,7 @@
 	- _Example: Pressure built beneath the plug in the caldera, eventually resulting in a catastrophic explosion of pyroclastic shrapnel and ash._
 - **A type of [[l/_lure|lure]] [[c/_consisting|consisting]] of a [[r/_rigid|rigid]], [[b/_buoyant|buoyant]] or [[s/_semi|semi]]-[[b/_buoyant|buoyant]] [[b/_body|body]] and [[o/_one|one]] or [[m/_more|more]] [[h/_hooks|hooks]].**
 	- _Example: The fisherman cast the plug into a likely pool, hoping to catch a whopper._
-- **A [[s/_small|small]] [[s/_seedling|seedling]] [[g/_grown|grown]] in a tray from [[e/_expanded|expanded]] [[p/_polystyrene|polystyrene]] or [[p/_polythene|polythene]] [[f/_filled|filled]] usually with a [[p/_peat|peat]] or [[c/_compost|compost]] substrate.**
+- **A [[s/_small|small]] [[s/_seedling|seedling]] [[g/_grown|grown]] in a tray from [[e/_expanded|expanded]] [[p/_polystyrene|polystyrene]] or [[p/_polythene|polythene]] [[f/_filled|filled]] usually with a [[p/_peat|peat]] or [[c/_compost|compost]] [[s/_substrate|substrate]].**
 - **([[j/_jewellery|jewellery]]) A [[s/_short|short]] [[c/_cylindrical|cylindrical]] [[p/_piece|piece]] of [[j/_jewellery|jewellery]] [[c/_commonly|commonly]] worn in [[l/_larger|larger]]-[[g/_gauge|gauge]] [[b/_body|body]] piercings, [[e/_especially|especially]] in the [[e/_ear|ear]].**
 - **A [[d/_drug|drug]] [[d/_dealer|dealer]].**
 - **A [[b/_branch|branch]] from a water-[[p/_pipe|pipe]] to supply a [[h/_hose|hose]].**

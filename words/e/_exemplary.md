@@ -8,7 +8,7 @@
 - [[e/_exemplar|exemplar]], [[p/_paradigm|paradigm]]
 #adjective
 - **[[d/_deserving|Deserving]] [[h/_honour|honour]], [[r/_respect|respect]] and [[a/_admiration|admiration]].**
-- **Of such [[h/_high|high]] [[q/_quality|quality]] that it [[s/_should|should]] [[s/_serve|serve]] as an [[e/_example|example]] to be [[i/_imitated|imitated]]; [[i/_ideal|ideal]], [[p/_perfect|perfect]].**
+- **Of [[s/_such|such]] [[h/_high|high]] [[q/_quality|quality]] that it [[s/_should|should]] [[s/_serve|serve]] as an [[e/_example|example]] to be [[i/_imitated|imitated]]; [[i/_ideal|ideal]], [[p/_perfect|perfect]].**
 	- _Example: Her behaviour was always exemplary._
 - **[[s/_serving|Serving]] as a warning; [[m/_monitory|monitory]].**
 	- _Example: exemplary justice, exemplary punishment, exemplary damages_

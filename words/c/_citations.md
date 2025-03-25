@@ -1,8 +1,8 @@
 # Citations
 ---
 #noun
-- **An [[o/_official|official]] summons or [[n/_notice|notice]] [[g/_given|given]] to a [[p/_person|person]] to [[a/_appear|appear]].**
-- **The [[p/_paper|paper]] [[c/_containing|containing]] such summons or [[n/_notice|notice]].**
+- **An [[o/_official|official]] [[s/_summons|summons]] or [[n/_notice|notice]] [[g/_given|given]] to a [[p/_person|person]] to [[a/_appear|appear]].**
+- **The [[p/_paper|paper]] [[c/_containing|containing]] [[s/_such|such]] [[s/_summons|summons]] or [[n/_notice|notice]].**
 - **The [[a/_act|act]] of [[c/_citing|citing]] a [[p/_passage|passage]] from a [[b/_book|book]], or from [[a/_another|another]] [[p/_person|person]], in [[h/_his|his]]/[[h/_her|her]] [[o/_own|own]] words.**
 - **An [[e/_entry|entry]] in a [[l/_list|list]] of [[s/_source|source]]([[s/_s|s]]) from which [[o/_one|one]] took [[i/_information|information]], words or [[l/_literary|literary]] or verbal [[c/_context|context]].**
 - **The [[p/_passage|passage]] or words [[q/_quoted|quoted]]; [[q/_quotation|quotation]].**

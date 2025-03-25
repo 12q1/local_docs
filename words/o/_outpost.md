@@ -3,7 +3,7 @@
 #noun
 - **A [[m/_military|military]] [[p/_post|post]] [[s/_stationed|stationed]] at a [[d/_distance|distance]] from the [[m/_main|main]] [[b/_body|body]] of troops.**
 	- _Example: The outpost did not have enough ammunition to resist a determined assault._
-- **The [[b/_body|body]] of troops [[m/_manning|manning]] such a [[p/_post|post]].**
+- **The [[b/_body|body]] of troops [[m/_manning|manning]] [[s/_such|such]] a [[p/_post|post]].**
 	- _Example: Sgt. Smith fleeced most of the rest of the outpost of their earnings in their weekly game of craps._
 - **An [[o/_outlying|outlying]] [[s/_settlement|settlement]].**
 	- _Example: Beyond the border proper, there are three small outposts not officially under government protection._

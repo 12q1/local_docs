@@ -7,7 +7,7 @@
 	- _Example: We wanted to embed our reporter with the Fifth Infantry Division, but the Army would have none of it._
 - **To [[e/_encapsulate|encapsulate]] within [[a/_another|another]] [[d/_document|document]] or [[d/_data|data]] [[f/_file|file]].**
 	- _Example: The instructions showed how to embed a chart from the spreadsheet within the wordprocessor document._
-- **To [[d/_define|define]] a [[o/_one|one]]-to-[[o/_one|one]] [[f/_function|function]] from ([[o/_one|one]] [[s/_set|set]]) to [[a/_another|another]] [[s/_so|so]] that [[c/_certain|certain]] [[p/_properties|properties]] of the [[d/_domain|domain]] are [[p/_preserved|preserved]] when [[c/_considering|considering]] the [[i/_image|image]] as a subset of the [[c/_codomain|codomain]].**
+- **To [[d/_define|define]] a [[o/_one|one]]-to-[[o/_one|one]] [[f/_function|function]] from ([[o/_one|one]] [[s/_set|set]]) to [[a/_another|another]] [[s/_so|so]] that [[c/_certain|certain]] [[p/_properties|properties]] of the [[d/_domain|domain]] are [[p/_preserved|preserved]] when [[c/_considering|considering]] the [[i/_image|image]] as a [[s/_subset|subset]] of the [[c/_codomain|codomain]].**
 ---
 #adjective
 - **[[p/_part|Part]] of; [[f/_firmly|firmly]], or [[s/_securely|securely]] surrounded; [[l/_lodged|lodged]] [[s/_solidly|solidly]] [[i/_into|into]]; [[d/_deep|deep]]-[[r/_rooted|rooted]].**

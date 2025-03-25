@@ -3,9 +3,9 @@
 #noun
 - **A [[s/_small|small]] valley [[b/_between|between]] [[m/_mountains|mountains]].**
 	- _Example: He built himself a cabin in a hollow high up in the Rockies._
-- **A sunken [[a/_area|area]] or unfilled [[s/_space|space]] in [[s/_something|something]] [[s/_solid|solid]]; a [[c/_cavity|cavity]], [[n/_natural|natural]] or [[a/_artificial|artificial]].**
+- **A [[s/_sunken|sunken]] [[a/_area|area]] or unfilled [[s/_space|space]] in [[s/_something|something]] [[s/_solid|solid]]; a [[c/_cavity|cavity]], [[n/_natural|natural]] or [[a/_artificial|artificial]].**
 	- _Example: the hollow of the hand or of a tree_
-- **A sunken [[a/_area|area]].**
+- **A [[s/_sunken|sunken]] [[a/_area|area]].**
 - **A [[f/_feeling|feeling]] of [[e/_emptiness|emptiness]].**
 	- _Example: a hollow in the pit of one's stomach_
 ---

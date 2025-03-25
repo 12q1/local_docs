@@ -6,6 +6,6 @@
 #adjective
 - **[[a/_adhering|Adhering]] [[o/_only|only]] to [[p/_principles|principles]] which are true a [[p/_priori|priori]], [[r/_rather|rather]] than truths [[b/_based|based]] on [[e/_evidence|evidence]] or [[d/_deduction|deduction]].**
 - **[[p/_pertaining|Pertaining]] to [[d/_dogmas|dogmas]]; [[d/_doctrinal|doctrinal]].**
-- **[[a/_asserting|Asserting]] [[d/_dogmas|dogmas]] or [[b/_beliefs|beliefs]] in a superior or [[a/_arrogant|arrogant]] way; [[o/_opinionated|opinionated]], [[d/_dictatorial|dictatorial]].**
+- **[[a/_asserting|Asserting]] [[d/_dogmas|dogmas]] or [[b/_beliefs|beliefs]] in a [[s/_superior|superior]] or [[a/_arrogant|arrogant]] way; [[o/_opinionated|opinionated]], [[d/_dictatorial|dictatorial]].**
 ---
 ---

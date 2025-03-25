@@ -6,13 +6,13 @@
 ---
 #adjective
 - **Wealthy: [[h/_having|having]] a [[l/_lot|lot]] of [[m/_money|money]] and [[p/_possessions|possessions]].**
-- **[[h/_having|Having]] an [[i/_intense|intense]] [[f/_fatty|fatty]] or sugary [[f/_flavour|flavour]].**
+- **[[h/_having|Having]] an [[i/_intense|intense]] [[f/_fatty|fatty]] or [[s/_sugary|sugary]] [[f/_flavour|flavour]].**
 	- _Example: a rich dish; rich cream or soup; rich pastry_
 - **[[p/_plentiful|Plentiful]], [[a/_abounding|abounding]], [[a/_abundant|abundant]], [[f/_fulfilling|fulfilling]].**
 	- _Example: a rich treasury; a rich entertainment; a rich crop_
 - **[[y/_yielding|Yielding]] [[l/_large|large]] [[r/_returns|returns]]; [[p/_productive|productive]] or [[f/_fertile|fertile]]; [[f/_fruitful|fruitful]].**
 	- _Example: rich soil or land; a rich mine_
-- **[[c/_composed|Composed]] of valuable or [[c/_costly|costly]] [[m/_materials|materials]] or [[i/_ingredients|ingredients]]; [[p/_procured|procured]] at [[g/_great|great]] [[o/_outlay|outlay]]; [[h/_highly|highly]] valued; [[p/_precious|precious]]; sumptuous; [[c/_costly|costly]].**
+- **[[c/_composed|Composed]] of valuable or [[c/_costly|costly]] [[m/_materials|materials]] or [[i/_ingredients|ingredients]]; [[p/_procured|procured]] at [[g/_great|great]] [[o/_outlay|outlay]]; [[h/_highly|highly]] valued; [[p/_precious|precious]]; [[s/_sumptuous|sumptuous]]; [[c/_costly|costly]].**
 	- _Example: a rich endowment; a rich dress; rich silk or fur; rich presents_
 - **Not [[f/_faint|faint]] or [[d/_delicate|delicate]]; vivid.**
 	- _Example: a rich red colour_

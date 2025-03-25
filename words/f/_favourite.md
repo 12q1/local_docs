@@ -16,7 +16,7 @@
 #verb
 - **To [[f/_favour|favour]].**
 - **To [[b/_bookmark|bookmark]].**
-- **To [[a/_add|add]] to [[o/_one|one]]'[[s/_s|s]] [[l/_list|list]] of [[f/_favourite|favourite]] [[i/_items|items]] on a website that [[a/_allows|allows]] users to [[c/_compile|compile]] such [[l/_lists|lists]].**
+- **To [[a/_add|add]] to [[o/_one|one]]'[[s/_s|s]] [[l/_list|list]] of [[f/_favourite|favourite]] [[i/_items|items]] on a website that [[a/_allows|allows]] users to [[c/_compile|compile]] [[s/_such|such]] [[l/_lists|lists]].**
 ---
 ### Antonyms
 - [[u/_unfavorite|unfavorite]], [[u/_unfavourite|unfavourite]]

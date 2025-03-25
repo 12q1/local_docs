@@ -12,6 +12,6 @@
 - **To [[s/_sort|sort]] or [[a/_arrange|arrange]] [[b/_beforehand|beforehand]].**
 ---
 #adjective
-- **(of a traversal of a tree) Such that, [[r/_recursively|recursively]], the [[r/_root|root]] is visited [[b/_before|before]] the [[l/_left|left]] and [[r/_right|right]] subtrees.**
+- **(of a traversal of a tree) [[s/_such|Such]] that, [[r/_recursively|recursively]], the [[r/_root|root]] is visited [[b/_before|before]] the [[l/_left|left]] and [[r/_right|right]] [[s/_subtrees|subtrees]].**
 ---
 ---

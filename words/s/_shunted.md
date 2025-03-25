@@ -1,7 +1,7 @@
 # Shunted
 ---
 #verb
-- **To [[c/_cause|cause]] to [[m/_move|move]] (suddenly), as by [[p/_pushing|pushing]] or [[s/_shoving|shoving]]; to [[g/_give|give]] a (sudden) [[s/_start|start]] to.**
+- **To [[c/_cause|cause]] to [[m/_move|move]] ([[s/_suddenly|suddenly]]), as by [[p/_pushing|pushing]] or [[s/_shoving|shoving]]; to [[g/_give|give]] a ([[s/_sudden|sudden]]) [[s/_start|start]] to.**
 - **To [[d/_divert|divert]] to a [[l/_less|less]] [[i/_important|important]] [[p/_place|place]], [[p/_position|position]], or [[s/_state|state]].**
 - **To [[p/_provide|provide]] with a [[s/_shunt|shunt]].**
 	- _Example: to shunt a galvanometer_

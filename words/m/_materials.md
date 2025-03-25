@@ -11,7 +11,7 @@
 - **The [[p/_people|people]] [[c/_collectively|collectively]] who are [[q/_qualified|qualified]] for a [[c/_certain|certain]] [[p/_position|position]] or [[a/_activity|activity]].**
 	- _Example: He is not the only one. I believe we have lots of presidential material in various public offices._
 - **[[r/_related|Related]] [[d/_data|data]] of various [[k/_kinds|kinds]], [[e/_especially|especially]] [[i/_if|if]] [[c/_collected|collected]] as the [[b/_basis|basis]] for a [[d/_document|document]] or [[b/_book|book]].**
-- **The substance that [[s/_something|something]] is [[m/_made|made]] or [[c/_composed|composed]] of.**
+- **The [[s/_substance|substance]] that [[s/_something|something]] is [[m/_made|made]] or [[c/_composed|composed]] of.**
 - **[[a/_all|All]] of a [[p/_player|player]]'[[s/_s|s]] [[p/_pieces|pieces]] and [[p/_pawns|pawns]] on the [[c/_chessboard|chessboard]].**
 ---
 #verb

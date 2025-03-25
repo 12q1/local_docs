@@ -16,7 +16,7 @@
 - **([[p/_pharmaceutical|pharmaceutical]]) [[s/_sanctioned|Sanctioned]] by the [[p/_pharmacopoeia|pharmacopoeia]]; [[a/_appointed|appointed]] to be used in [[m/_medicine|medicine]]; [[o/_officinal|officinal]].**
 	- _Example: an official drug or preparation_
 - **[[d/_discharging|Discharging]] an [[o/_office|office]] or [[f/_function|function]].**
-- **[[r/_relating|Relating]] to an [[o/_office|office]]; [[e/_especially|especially]], to a subordinate [[e/_executive|executive]] [[o/_officer|officer]] or [[a/_attendant|attendant]].**
+- **[[r/_relating|Relating]] to an [[o/_office|office]]; [[e/_especially|especially]], to a [[s/_subordinate|subordinate]] [[e/_executive|executive]] [[o/_officer|officer]] or [[a/_attendant|attendant]].**
 - **[[r/_relating|Relating]] to an [[e/_ecclesiastical|ecclesiastical]] [[j/_judge|judge]] [[a/_appointed|appointed]] by a [[b/_bishop|bishop]], [[c/_chapter|chapter]], [[a/_archdeacon|archdeacon]], [[e/_etc|etc]]., with [[c/_charge|charge]] of the [[s/_spiritual|spiritual]] [[j/_jurisdiction|jurisdiction]].**
 - **True, [[r/_real|real]], [[b/_beyond|beyond]] [[d/_doubt|doubt]].**
 	- _Example: Well, it's official: you lost your mind!_

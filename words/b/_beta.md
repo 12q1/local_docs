@@ -6,7 +6,7 @@
 - **[[a/_average|Average]] [[s/_sensitivity|sensitivity]] of a [[s/_security|security]]'[[s/_s|s]] [[p/_price|price]] to [[o/_overall|overall]] [[s/_securities|securities]] [[m/_market|market]] [[p/_prices|prices]].**
 - **The [[p/_phase|phase]] of [[d/_development|development]] [[a/_after|after]] [[a/_alpha|alpha]] testing and [[b/_before|before]] [[l/_launch|launch]], in which [[s/_software|software]], while not [[c/_complete|complete]], [[h/_has|has]] [[b/_been|been]] [[r/_released|released]] to [[p/_potential|potential]] users for testing.**
 	- _Example: The company is offering a public beta program to test the software._
-- **[[s/_software|Software]] in such a [[p/_phase|phase]]; a [[p/_preliminary|preliminary]] version.**
+- **[[s/_software|Software]] in [[s/_such|such]] a [[p/_phase|phase]]; a [[p/_preliminary|preliminary]] version.**
 - **[[i/_information|Information]] [[a/_about|about]] a [[r/_route|route]] which [[m/_may|may]] [[a/_aid|aid]] [[s/_someone|someone]] in [[c/_climbing|climbing]] it.**
 - **A [[b/_beta|beta]] [[p/_particle|particle]] or [[b/_beta|beta]] [[r/_ray|ray]].**
 - **In omegaverse [[f/_fiction|fiction]], a [[p/_person|person]] of a (usually [[s/_secondary|secondary]]) [[g/_gender|gender]]/[[s/_sex|sex]] that [[m/_mirrors|mirrors]] the [[b/_biology|biology]] of a [[n/_normal|normal]] [[h/_human|human]], [[b/_being|being]] [[f/_free|free]] from the [[b/_biological|biological]] [[d/_drives|drives]] of [[a/_alphas|alphas]] and [[o/_omegas|omegas]] but [[g/_generally|generally]] [[c/_capable|capable]] of [[b/_bonding|bonding]] and [[m/_mating|mating]] with [[e/_either|either]].**

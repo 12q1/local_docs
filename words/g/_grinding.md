@@ -8,10 +8,10 @@
 - **To [[b/_become|become]] [[g/_ground|ground]], [[p/_pulverized|pulverized]], or [[p/_polished|polished]] by [[f/_friction|friction]].**
 	- _Example: Steel grinds to a sharp edge._
 - **To [[m/_move|move]] with [[m/_much|much]] [[d/_difficulty|difficulty]] or [[f/_friction|friction]]; to [[g/_grate|grate]].**
-- **To [[s/_slide|slide]] the [[f/_flat|flat]] [[p/_portion|portion]] of a [[s/_skateboard|skateboard]] or snowboard [[a/_across|across]] an [[o/_obstacle|obstacle]] such as a [[r/_railing|railing]].**
+- **To [[s/_slide|slide]] the [[f/_flat|flat]] [[p/_portion|portion]] of a [[s/_skateboard|skateboard]] or snowboard [[a/_across|across]] an [[o/_obstacle|obstacle]] [[s/_such|such]] as a [[r/_railing|railing]].**
 - **To [[o/_oppress|oppress]], [[h/_hold|hold]] [[d/_down|down]] or weaken.**
 - **To [[r/_rotate|rotate]] the [[h/_hips|hips]] [[e/_erotically|erotically]].**
-- **To [[d/_dance|dance]] in a [[s/_sexually|sexually]] suggestive way with [[b/_both|both]] [[p/_partners|partners]] in very [[c/_close|close]] [[p/_proximity|proximity]], [[o/_often|often]] [[p/_pressed|pressed]] [[a/_against|against]] [[e/_each|each]] [[o/_other|other]].**
+- **To [[d/_dance|dance]] in a [[s/_sexually|sexually]] [[s/_suggestive|suggestive]] way with [[b/_both|both]] [[p/_partners|partners]] in very [[c/_close|close]] [[p/_proximity|proximity]], [[o/_often|often]] [[p/_pressed|pressed]] [[a/_against|against]] [[e/_each|each]] [[o/_other|other]].**
 - **To [[r/_repeat|repeat]] a task a [[l/_large|large]] [[n/_number|number]] of times in a [[r/_row|row]] to [[a/_achieve|achieve]] a [[s/_specific|specific]] [[g/_goal|goal]].**
 - **To [[o/_operate|operate]] by turning a [[c/_crank|crank]].**
 	- _Example: to grind an organ_

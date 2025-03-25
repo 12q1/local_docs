@@ -1,7 +1,7 @@
 # Articles
 ---
 #noun
-- **A [[p/_piece|piece]] of [[n/_nonfictional|nonfictional]] writing such as a [[s/_story|story]], [[r/_report|report]], [[o/_opinion|opinion]] [[p/_piece|piece]], or [[e/_entry|entry]] in a [[n/_newspaper|newspaper]], [[m/_magazine|magazine]], [[j/_journal|journal]], [[d/_dictionary|dictionary]], [[e/_encyclopedia|encyclopedia]], [[e/_etc|etc]].**
+- **A [[p/_piece|piece]] of [[n/_nonfictional|nonfictional]] writing [[s/_such|such]] as a [[s/_story|story]], [[r/_report|report]], [[o/_opinion|opinion]] [[p/_piece|piece]], or [[e/_entry|entry]] in a [[n/_newspaper|newspaper]], [[m/_magazine|magazine]], [[j/_journal|journal]], [[d/_dictionary|dictionary]], [[e/_encyclopedia|encyclopedia]], [[e/_etc|etc]].**
 - **An [[o/_object|object]], a [[m/_member|member]] of a [[g/_group|group]] or [[c/_class|class]].**
 	- _Example: a sales article_
 - **([[g/_grammar|grammar]]) A [[p/_part|part]] of [[s/_speech|speech]] that [[i/_indicates|indicates]], [[s/_specifies|specifies]] and [[l/_limits|limits]] a [[n/_noun|noun]] (a, an, or the in [[e/_english|English]]). In [[s/_some|some]] [[l/_languages|languages]] the [[a/_article|article]] [[m/_may|may]] [[a/_appear|appear]] as an [[e/_ending|ending]] ([[e/_e|e]].[[g/_g|g]]. [[d/_definite|definite]] [[a/_article|article]] in Swedish) or there [[m/_may|may]] be [[n/_none|none]] ([[e/_e|e]].[[g/_g|g]]. [[r/_russian|Russian]], [[p/_pashto|Pashto]]).**
@@ -14,7 +14,7 @@
 	- _Example: a shrewd article_
 - **A wench.**
 	- _Example: She's a prime article (whip slang), she's a devilish good piece, a hell of a goer._
-- **Subject [[m/_matter|matter]]; [[c/_concern|concern]].**
+- **[[s/_subject|Subject]] [[m/_matter|matter]]; [[c/_concern|concern]].**
 - **A [[d/_distinct|distinct]] [[p/_part|part]].**
 - **A [[p/_precise|precise]] [[p/_point|point]] in time; a [[m/_moment|moment]].**
 ---

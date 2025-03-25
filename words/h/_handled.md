@@ -7,7 +7,7 @@
 - **To [[m/_manage|manage]], [[c/_control|control]], or [[d/_direct|direct]].**
 - **To treat, to [[d/_deal|deal]] with (in a [[s/_specified|specified]] way).**
 	- _Example: she handled the news with grace, the Persians handled the French ambassador shamefully_
-- **To [[d/_deal|deal]] with (a subject, [[a/_argument|argument]], topic, or theme) in [[s/_speaking|speaking]], in writing, or in [[a/_art|art]].**
+- **To [[d/_deal|deal]] with (a [[s/_subject|subject]], [[a/_argument|argument]], topic, or theme) in [[s/_speaking|speaking]], in writing, or in [[a/_art|art]].**
 - **To [[r/_receive|receive]] and transfer; to [[h/_have|have]] [[p/_pass|pass]] through [[o/_one|one]]'[[s/_s|s]] [[h/_hands|hands]]; [[h/_hence|hence]], to [[b/_buy|buy]] and [[s/_sell|sell]].**
 	- _Example: a merchant handles a variety of goods, or a large stock_
 - **To be [[c/_concerned|concerned]] with; to be an [[e/_expert|expert]] in.**

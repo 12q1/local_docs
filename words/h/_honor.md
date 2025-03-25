@@ -1,11 +1,11 @@
 # Honor
 ---
 #noun
-- **[[r/_recognition|Recognition]] of [[i/_importance|importance]] or value; [[r/_respect|respect]]; veneration (of [[s/_someone|someone]], usually for [[b/_being|being]] [[m/_morally|morally]] upright or successful)**
+- **[[r/_recognition|Recognition]] of [[i/_importance|importance]] or value; [[r/_respect|respect]]; veneration (of [[s/_someone|someone]], usually for [[b/_being|being]] [[m/_morally|morally]] upright or [[s/_successful|successful]])**
 	- _Example: The crowds gave the returning general much honor and praise._
-- **The [[s/_state|state]] of [[b/_being|being]] [[m/_morally|morally]] upright, [[h/_honest|honest]], [[n/_noble|noble]], virtuous, and [[m/_magnanimous|magnanimous]]; [[e/_excellence|excellence]] of [[c/_character|character]]; the [[p/_perception|perception]] of such a [[s/_state|state]]; [[f/_favourable|favourable]] [[r/_reputation|reputation]]; [[d/_dignity|dignity]]**
+- **The [[s/_state|state]] of [[b/_being|being]] [[m/_morally|morally]] upright, [[h/_honest|honest]], [[n/_noble|noble]], virtuous, and [[m/_magnanimous|magnanimous]]; [[e/_excellence|excellence]] of [[c/_character|character]]; the [[p/_perception|perception]] of [[s/_such|such]] a [[s/_state|state]]; [[f/_favourable|favourable]] [[r/_reputation|reputation]]; [[d/_dignity|dignity]]**
 	- _Example: He was a most perfect knight, for he had great honor and chivalry._
-- **A token of [[p/_praise|praise]] or [[r/_respect|respect]]; [[s/_something|something]] that [[r/_represents|represents]] [[p/_praiseworthiness|praiseworthiness]] or [[r/_respect|respect]], such as a [[p/_prize|prize]] or [[a/_award|award]] [[g/_given|given]] by the [[s/_state|state]] to a [[c/_citizen|citizen]]**
+- **A token of [[p/_praise|praise]] or [[r/_respect|respect]]; [[s/_something|something]] that [[r/_represents|represents]] [[p/_praiseworthiness|praiseworthiness]] or [[r/_respect|respect]], [[s/_such|such]] as a [[p/_prize|prize]] or [[a/_award|award]] [[g/_given|given]] by the [[s/_state|state]] to a [[c/_citizen|citizen]]**
 	- _Example: Audie Murphy received many honors, such as the Distinguished Service Cross._
 - **A [[p/_privilege|privilege]]**
 	- _Example: I had the honour of dining with the ambassador._
@@ -15,7 +15,7 @@
 	- _Example: He is an honour to his nation._
 - **([[f/_feudal|feudal]] [[l/_law|law]]) a [[s/_seigniory|seigniory]] or [[l/_lordship|lordship]] [[h/_held|held]] of the [[k/_king|king]], on which [[o/_other|other]] [[l/_lordships|lordships]] and [[m/_manors|manors]] [[d/_depended|depended]]**
 - **The [[c/_center|center]] [[p/_point|point]] of the upper [[h/_half|half]] of an [[a/_armorial|armorial]] [[e/_escutcheon|escutcheon]] ([[c/_compare|compare]] [[h/_honour|honour]] [[p/_point|point]])**
-- **In [[b/_bridge|bridge]], an [[a/_ace|ace]], [[k/_king|king]], [[q/_queen|queen]], [[j/_jack|jack]], or ten [[e/_especially|especially]] of the trump suit. In [[s/_some|some]] [[o/_other|other]] [[g/_games|games]], an [[a/_ace|ace]], [[k/_king|king]], [[q/_queen|queen]] or [[j/_jack|jack]].**
+- **In [[b/_bridge|bridge]], an [[a/_ace|ace]], [[k/_king|king]], [[q/_queen|queen]], [[j/_jack|jack]], or ten [[e/_especially|especially]] of the trump [[s/_suit|suit]]. In [[s/_some|some]] [[o/_other|other]] [[g/_games|games]], an [[a/_ace|ace]], [[k/_king|king]], [[q/_queen|queen]] or [[j/_jack|jack]].**
 - **(in the [[p/_plural|plural]]) ([[c/_courses|courses]] for) an [[h/_honours|honours]] [[d/_degree|degree]]: a university [[q/_qualification|qualification]] of the [[h/_highest|highest]] [[r/_rank|rank]]**
 	- _Example: At university I took honours in modern history._
 ---

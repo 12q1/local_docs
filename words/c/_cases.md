@@ -24,12 +24,12 @@
 - **A [[b/_box|box]] that [[c/_contains|contains]] or [[c/_can|can]] [[c/_contain|contain]] a [[n/_number|number]] of [[i/_identical|identical]] [[i/_items|items]] of [[m/_manufacture|manufacture]].**
 - **A [[b/_box|box]], [[s/_sheath|sheath]], or [[c/_covering|covering]] [[g/_generally|generally]].**
 	- _Example: a case for spectacles; the case of a watch_
-- **A [[p/_piece|piece]] of [[l/_luggage|luggage]] that [[c/_can|can]] be used to transport an [[a/_apparatus|apparatus]] such as a [[s/_sewing|sewing]] [[m/_machine|machine]].**
+- **A [[p/_piece|piece]] of [[l/_luggage|luggage]] that [[c/_can|can]] be used to transport an [[a/_apparatus|apparatus]] [[s/_such|such]] as a [[s/_sewing|sewing]] [[m/_machine|machine]].**
 - **An [[e/_enclosing|enclosing]] [[f/_frame|frame]] or [[c/_casing|casing]].**
 	- _Example: a door case; a window case_
-- **A suitcase.**
+- **A [[s/_suitcase|suitcase]].**
 - **A [[p/_piece|piece]] of [[f/_furniture|furniture]], [[c/_constructed|constructed]] [[p/_partially|partially]] of transparent [[g/_glass|glass]] or [[p/_plastic|plastic]], within which [[i/_items|items]] [[c/_can|can]] be [[d/_displayed|displayed]].**
-- **The [[o/_outer|outer]] [[c/_covering|covering]] or [[f/_framework|framework]] of a [[p/_piece|piece]] of [[a/_apparatus|apparatus]] such as a [[c/_computer|computer]].**
+- **The [[o/_outer|outer]] [[c/_covering|covering]] or [[f/_framework|framework]] of a [[p/_piece|piece]] of [[a/_apparatus|apparatus]] [[s/_such|such]] as a [[c/_computer|computer]].**
 - **A [[s/_shallow|shallow]] tray [[d/_divided|divided]] [[i/_into|into]] [[c/_compartments|compartments]] or "[[b/_boxes|boxes]]" for [[h/_holding|holding]] type, traditionally [[a/_arranged|arranged]] in [[s/_sets|sets]] of two, the "upper [[c/_case|case]]" ([[c/_containing|containing]] [[c/_capitals|capitals]], [[s/_small|small]] [[c/_capitals|capitals]], [[a/_accented|accented]]) and "[[l/_lower|lower]] [[c/_case|case]]" ([[s/_small|small]] [[l/_letters|letters]], [[f/_figures|figures]], [[p/_punctuation|punctuation]] [[m/_marks|marks]], [[q/_quadrats|quadrats]], and [[s/_spaces|spaces]]).**
 - **(by [[e/_extension|extension]]) The [[n/_nature|nature]] of a [[p/_piece|piece]] of [[a/_alphabetic|alphabetic]] type, whether a “[[c/_capital|capital]]” (upper [[c/_case|case]]) or “[[s/_small|small]]” ([[l/_lower|lower]] [[c/_case|case]]) [[l/_letter|letter]].**
 - **[[f/_four|Four]] of a [[k/_kind|kind]].**

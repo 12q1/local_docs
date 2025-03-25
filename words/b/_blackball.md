@@ -2,10 +2,10 @@
 ---
 #noun
 - **A [[r/_rejection|rejection]]; a vote [[a/_against|against]] [[a/_admitting|admitting]] [[s/_someone|someone]].**
-- **A [[b/_black|black]] [[b/_ball|ball]] used to [[i/_indicate|indicate]] such a [[n/_negative|negative]] vote.**
+- **A [[b/_black|black]] [[b/_ball|ball]] used to [[i/_indicate|indicate]] [[s/_such|such]] a [[n/_negative|negative]] vote.**
 	- _Example: Regardless how many other people may have voted to approve a candidate for membership, a single blackball will reject the candidate._
 - **A [[k/_kind|kind]] of [[l/_large|large]] [[b/_black|black]] sweet; a niggerball.**
-- **A substance for [[b/_blacking|blacking]] [[s/_shoes|shoes]], [[b/_boots|boots]], [[e/_etc|etc]]. or for taking [[i/_impressions|impressions]] of [[e/_engraved|engraved]] work.**
+- **A [[s/_substance|substance]] for [[b/_blacking|blacking]] [[s/_shoes|shoes]], [[b/_boots|boots]], [[e/_etc|etc]]. or for taking [[i/_impressions|impressions]] of [[e/_engraved|engraved]] work.**
 ---
 #verb
 - **To vote [[a/_against|against]], [[e/_especially|especially]] in an [[e/_exclusive|exclusive]] [[o/_organization|organization]].**

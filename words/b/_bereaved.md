@@ -9,7 +9,7 @@
 - **To [[d/_destroy|destroy]] [[l/_life|life]]; [[c/_cut|cut]] [[o/_off|off]].**
 ---
 #adjective
-- **[[h/_having|Having]] suffered the [[d/_death|death]] of a [[l/_loved|loved]] [[o/_one|one]]**
+- **[[h/_having|Having]] [[s/_suffered|suffered]] the [[d/_death|death]] of a [[l/_loved|loved]] [[o/_one|one]]**
 	- _Example: bereaved relatives_
 ---
 ---

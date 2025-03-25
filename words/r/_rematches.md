@@ -5,8 +5,8 @@
 	- _Example: After being beaten in pool by Melanie, John asked for a rematch._
 ---
 #verb
-- **To [[b/_bring|bring]] [[o/_opponents|opponents]] together for such a [[c/_contest|contest]].**
-- **To [[s/_stage|stage]] such a [[c/_contest|contest]].**
+- **To [[b/_bring|bring]] [[o/_opponents|opponents]] together for [[s/_such|such]] a [[c/_contest|contest]].**
+- **To [[s/_stage|stage]] [[s/_such|such]] a [[c/_contest|contest]].**
 - **To [[m/_match|match]] [[a/_again|again]] or [[a/_anew|anew]].**
 	- _Example: We had to rematch the mixed-up parts._
 ---

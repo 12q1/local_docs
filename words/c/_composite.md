@@ -16,7 +16,7 @@
 - **[[b/_being|Being]] a [[m/_mixture|mixture]] of [[i/_ionic|Ionic]] and [[c/_corinthian|Corinthian]] [[s/_styles|styles]].**
 - **[[h/_having|Having]] [[f/_factors|factors]] [[o/_other|other]] than [[i/_itself|itself]] and [[o/_one|one]]; not [[p/_prime|prime]] and not [[o/_one|one]].**
 - **[[b/_belonging|Belonging]] to the [[a/_asteraceae|Asteraceae]] [[f/_family|family]] ([[f/_formerly|formerly]] [[k/_known|known]] as [[c/_compositae|Compositae]]), [[b/_bearing|bearing]] [[i/_involucrate|involucrate]] [[h/_heads|heads]] of [[m/_many|many]] [[s/_small|small]] [[f/_florets|florets]].**
-- **[[e/_employing|Employing]] [[m/_multiple|multiple]] [[e/_exposures|exposures]] on a [[s/_single|single]] [[p/_plate|plate]], [[s/_so|so]] as to [[c/_create|create]] an [[a/_average|average]] view of [[s/_something|something]], such as [[f/_faces|faces]] in [[p/_physiognomy|physiognomy]].**
+- **[[e/_employing|Employing]] [[m/_multiple|multiple]] [[e/_exposures|exposures]] on a [[s/_single|single]] [[p/_plate|plate]], [[s/_so|so]] as to [[c/_create|create]] an [[a/_average|average]] view of [[s/_something|something]], [[s/_such|such]] as [[f/_faces|faces]] in [[p/_physiognomy|physiognomy]].**
 	- _Example: composite portraiture; a composite photograph_
 ---
 #noun

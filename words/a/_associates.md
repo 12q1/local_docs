@@ -6,7 +6,7 @@
 - **A [[c/_companion|companion]]; a [[c/_comrade|comrade]].**
 - **[[o/_one|One]] that [[h/_habitually|habitually]] [[a/_accompanies|accompanies]] or is [[a/_associated|associated]] with [[a/_another|another]]; an [[a/_attendant|attendant]] [[c/_circumstance|circumstance]].**
 - **A [[m/_member|member]] of an [[i/_institution|institution]] or [[s/_society|society]] who is [[g/_granted|granted]] [[o/_only|only]] [[p/_partial|partial]] [[s/_status|status]] or [[p/_privileges|privileges]].**
-- **[[o/_one|One]] of a [[p/_pair|pair]] of [[e/_elements|elements]] of an [[i/_integral|integral]] [[d/_domain|domain]] (or a [[r/_ring|ring]]) such that the two [[e/_elements|elements]] are [[d/_divisible|divisible]] by [[e/_each|each]] [[o/_other|other]] (or, [[e/_equivalently|equivalently]], such that [[e/_each|each]] [[o/_one|one]] [[c/_can|can]] be [[e/_expressed|expressed]] as the [[p/_product|product]] of the [[o/_other|other]] with a unit).**
+- **[[o/_one|One]] of a [[p/_pair|pair]] of [[e/_elements|elements]] of an [[i/_integral|integral]] [[d/_domain|domain]] (or a [[r/_ring|ring]]) [[s/_such|such]] that the two [[e/_elements|elements]] are [[d/_divisible|divisible]] by [[e/_each|each]] [[o/_other|other]] (or, [[e/_equivalently|equivalently]], [[s/_such|such]] that [[e/_each|each]] [[o/_one|one]] [[c/_can|can]] be [[e/_expressed|expressed]] as the [[p/_product|product]] of the [[o/_other|other]] with a unit).**
 ---
 #verb
 - **To [[j/_join|join]] in or [[f/_form|form]] a [[l/_league|league]], union, or [[a/_association|association]].**

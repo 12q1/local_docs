@@ -1,7 +1,7 @@
 # Marrow
 ---
 #noun
-- **The substance [[i/_inside|inside]] [[b/_bones|bones]] which [[p/_produces|produces]] [[b/_blood|blood]] [[c/_cells|cells]].**
+- **The [[s/_substance|substance]] [[i/_inside|inside]] [[b/_bones|bones]] which [[p/_produces|produces]] [[b/_blood|blood]] [[c/_cells|cells]].**
 - **A [[k/_kind|kind]] of vegetable [[l/_like|like]] a [[l/_large|large]] [[c/_courgette|courgette]]/zucchini or [[s/_squash|squash]].**
 - **The [[p/_pith|pith]] of [[c/_certain|certain]] [[p/_plants|plants]].**
 - **The [[e/_essence|essence]]; the [[b/_best|best]] [[p/_part|part]].**

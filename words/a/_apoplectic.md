@@ -1,7 +1,7 @@
 # Apoplectic
 ---
 #noun
-- **A [[p/_person|person]] suffering from [[a/_apoplexy|apoplexy]].**
+- **A [[p/_person|person]] [[s/_suffering|suffering]] from [[a/_apoplexy|apoplexy]].**
 ---
 #adjective
 - **Of, or [[r/_relating|relating]] to [[a/_apoplexy|apoplexy]].**

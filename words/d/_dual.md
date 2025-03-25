@@ -15,7 +15,7 @@
 - **[[a/_acting|Acting]] as a [[c/_counterpart|counterpart]].**
 - **[[d/_double|Double]].**
 	- _Example: a dual-headed computer_
-- **([[g/_grammar|grammar]]) [[p/_pertaining|Pertaining]] to [[g/_grammatical|grammatical]] [[n/_number|number]] (as in [[s/_singular|singular]] and [[p/_plural|plural]]), [[r/_referring|referring]] to two of [[s/_something|something]], such as a [[p/_pair|pair]] of [[s/_shoes|shoes]], in the [[c/_context|context]] of the [[s/_singular|singular]], [[p/_plural|plural]] and, in [[s/_some|some]] [[l/_languages|languages]], trial [[g/_grammatical|grammatical]] [[n/_number|number]].**
+- **([[g/_grammar|grammar]]) [[p/_pertaining|Pertaining]] to [[g/_grammatical|grammatical]] [[n/_number|number]] (as in [[s/_singular|singular]] and [[p/_plural|plural]]), [[r/_referring|referring]] to two of [[s/_something|something]], [[s/_such|such]] as a [[p/_pair|pair]] of [[s/_shoes|shoes]], in the [[c/_context|context]] of the [[s/_singular|singular]], [[p/_plural|plural]] and, in [[s/_some|some]] [[l/_languages|languages]], trial [[g/_grammatical|grammatical]] [[n/_number|number]].**
 	- _Example: Modern Arabic displays a dual number, as did Homeric Greek._
 - **[[b/_being|Being]] the [[s/_space|space]] of [[a/_all|all]] [[l/_linear|linear]] [[f/_functionals|functionals]] of ([[s/_some|some]] [[o/_other|other]] [[s/_space|space]]).**
 - **[[b/_being|Being]] the [[d/_dual|dual]] of [[s/_some|some]] [[o/_other|other]] [[c/_category|category]]; [[c/_containing|containing]] the [[s/_same|same]] [[o/_objects|objects]] but with [[s/_source|source]] and target [[r/_reversed|reversed]] for [[a/_all|all]] [[m/_morphisms|morphisms]].**

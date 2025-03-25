@@ -16,7 +16,7 @@
 - [[g/_game|game]]
 #verb
 - **To [[p/_pursue|pursue]].**
-- **To [[c/_consume|consume]] [[a/_another|another]] [[b/_beverage|beverage]] [[i/_immediately|immediately]] [[a/_after|after]] [[d/_drinking|drinking]] [[h/_hard|hard]] [[l/_liquor|liquor]], typically [[s/_something|something]] [[b/_better|better]] tasting or [[l/_less|less]] [[h/_harsh|harsh]] such as [[s/_soda|soda]] or [[b/_beer|beer]]; to use a [[d/_drink|drink]] as a [[c/_chaser|chaser]]**
+- **To [[c/_consume|consume]] [[a/_another|another]] [[b/_beverage|beverage]] [[i/_immediately|immediately]] [[a/_after|after]] [[d/_drinking|drinking]] [[h/_hard|hard]] [[l/_liquor|liquor]], typically [[s/_something|something]] [[b/_better|better]] tasting or [[l/_less|less]] [[h/_harsh|harsh]] [[s/_such|such]] as [[s/_soda|soda]] or [[b/_beer|beer]]; to use a [[d/_drink|drink]] as a [[c/_chaser|chaser]]**
 	- _Example: I need something to chase this shot with._
 - **To [[a/_attempt|attempt]] to win by [[s/_scoring|scoring]] the [[r/_required|required]] [[n/_number|number]] of [[r/_runs|runs]] in the [[f/_final|final]] [[i/_innings|innings]].**
 	- _Example: Australia will be chasing 217 for victory on the final day._

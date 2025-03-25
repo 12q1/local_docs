@@ -1,7 +1,7 @@
 # Pyramid
 ---
 #noun
-- **An [[a/_ancient|ancient]] [[m/_massive|massive]] [[c/_construction|construction]] with a [[s/_square|square]] or [[r/_rectangular|rectangular]] [[b/_base|base]] and [[f/_four|four]] triangular [[s/_sides|sides]] [[m/_meeting|meeting]] in an [[a/_apex|apex]], such as those [[b/_built|built]] as tombs in [[e/_egypt|Egypt]] or as [[b/_bases|bases]] for temples in Mesoamerica.**
+- **An [[a/_ancient|ancient]] [[m/_massive|massive]] [[c/_construction|construction]] with a [[s/_square|square]] or [[r/_rectangular|rectangular]] [[b/_base|base]] and [[f/_four|four]] triangular [[s/_sides|sides]] [[m/_meeting|meeting]] in an [[a/_apex|apex]], [[s/_such|such]] as those [[b/_built|built]] as tombs in [[e/_egypt|Egypt]] or as [[b/_bases|bases]] for temples in Mesoamerica.**
 - **A [[c/_construction|construction]] in the [[s/_shape|shape]] of a [[p/_pyramid|pyramid]], usually with a [[s/_square|square]] or [[r/_rectangular|rectangular]] [[b/_base|base]].**
 - **A [[s/_solid|solid]] with triangular [[l/_lateral|lateral]] [[f/_faces|faces]] and a [[p/_polygonal|polygonal]] ([[o/_often|often]] [[s/_square|square]] or [[r/_rectangular|rectangular]]) [[b/_base|base]].**
 - **A [[m/_medullary|medullary]] [[p/_pyramid|pyramid]], the [[m/_medial|medial]]-[[m/_most|most]] [[b/_bumps|bumps]] on the ventral [[s/_side|side]] of the [[m/_medulla|medulla]] [[o/_oblongata|oblongata]]**

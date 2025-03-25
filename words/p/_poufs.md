@@ -12,7 +12,7 @@
 - **[[p/_part|Part]] of an [[i/_item|item]] of [[c/_clothing|clothing]] [[c/_consisting|consisting]] of [[g/_gathered|gathered]] [[f/_fabric|fabric]] in a [[b/_bunch|bunch]].**
 - **A [[l/_low|low]] [[c/_cushioned|cushioned]] [[s/_seat|seat]] with [[n/_no|no]] [[b/_back|back]]; a [[p/_padded|padded]] [[f/_footstool|footstool]].**
 - **A [[s/_short|short]] [[s/_skirt|skirt]] [[g/_gathered|gathered]] [[i/_into|into]] a [[r/_rounded|rounded]] [[p/_puffy|puffy]] [[s/_shape|shape]]; a [[p/_puffball|puffball]].**
-- **A [[b/_ball|ball]] of [[f/_fabric|fabric]] (such as [[n/_nylon|nylon]] [[m/_monofilament|monofilament]] [[n/_netting|netting]]) used for washing (as an [[a/_alternative|alternative]] to a [[f/_flannel|flannel]], washcloth, [[s/_sponge|sponge]], [[e/_etc|etc]].).**
+- **A [[b/_ball|ball]] of [[f/_fabric|fabric]] ([[s/_such|such]] as [[n/_nylon|nylon]] [[m/_monofilament|monofilament]] [[n/_netting|netting]]) used for washing (as an [[a/_alternative|alternative]] to a [[f/_flannel|flannel]], washcloth, [[s/_sponge|sponge]], [[e/_etc|etc]].).**
 - **A [[s/_small|small]] [[s/_saddle|saddle]] [[c/_cushion|cushion]] worn [[a/_atop|atop]] the [[b/_buttocks|buttocks]] (as a [[f/_fashion|fashion]] trend – [[s/_similar|similar]] to a [[b/_bustle|bustle]]).**
 ---
 ### Synonyms
@@ -23,7 +23,7 @@
 	- _Example: out of puff_
 - **A [[s/_small|small]] [[q/_quantity|quantity]] of [[g/_gas|gas]] or [[s/_smoke|smoke]] in the [[a/_air|air]].**
 	- _Example: puff of smoke_
-- **A sudden [[g/_gust|gust]].**
+- **A [[s/_sudden|sudden]] [[g/_gust|gust]].**
 - **An [[a/_act|act]] of [[i/_inhaling|inhaling]] [[s/_smoke|smoke]] from a [[c/_cigarette|cigarette]], [[c/_cigar|cigar]] or [[p/_pipe|pipe]].**
 - **A [[f/_flamboyant|flamboyant]] or [[a/_alluring|alluring]] [[s/_statement|statement]] of [[p/_praise|praise]].**
 - **A [[p/_puffer|puffer]], [[o/_one|one]] who is [[e/_employed|employed]] by the [[o/_owner|owner]] or [[s/_seller|seller]] of [[g/_goods|goods]] [[s/_sold|sold]] at [[a/_auction|auction]] to [[b/_bid|bid]] up the [[p/_price|price]]; an [[a/_act|act]] or [[s/_scam|scam]] of that type.**

@@ -1,7 +1,7 @@
 # Jettisoning
 ---
 #verb
-- **To [[e/_eject|eject]] from a [[b/_boat|boat]], submarine, [[a/_aircraft|aircraft]], [[s/_spaceship|spaceship]] or [[h/_hot|hot]]-[[a/_air|air]] [[b/_balloon|balloon]], [[s/_so|so]] as to [[l/_lighten|lighten]] the [[l/_load|load]].**
+- **To [[e/_eject|eject]] from a [[b/_boat|boat]], [[s/_submarine|submarine]], [[a/_aircraft|aircraft]], [[s/_spaceship|spaceship]] or [[h/_hot|hot]]-[[a/_air|air]] [[b/_balloon|balloon]], [[s/_so|so]] as to [[l/_lighten|lighten]] the [[l/_load|load]].**
 	- _Example: The ballooners had to jettison all of their sand bags to make it over the final hill._
 - **To [[l/_let|let]] [[g/_go|go]] or [[g/_get|get]] [[r/_rid|rid]] of as [[b/_being|being]] useless or [[d/_defective|defective]].**
 ---

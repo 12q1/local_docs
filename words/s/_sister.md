@@ -7,7 +7,7 @@
 	- _Example: Michelle left behind her bank job and became a sister at the local convent._
 - **[[a/_any|Any]] [[b/_butterfly|butterfly]] in the [[g/_genus|genus]] Adelpha, [[s/_so|so]] [[n/_named|named]] for the [[r/_resemblance|resemblance]] of the [[d/_dark|dark]]-[[c/_colored|colored]] wings to the [[b/_black|black]] [[h/_habit|habit]] traditionally worn by [[n/_nuns|nuns]].**
 - **A [[s/_senior|senior]] or supervisory [[n/_nurse|nurse]], [[o/_often|often]] in a [[h/_hospital|hospital]].**
-- **[[a/_any|Any]] woman or [[g/_girl|girl]] with whom a [[b/_bond|bond]] is [[f/_felt|felt]] through [[c/_common|common]] [[m/_membership|membership]] of a [[r/_race|race]], [[p/_profession|profession]], [[r/_religion|religion]] or [[o/_organization|organization]], such as [[f/_feminism|feminism]].**
+- **[[a/_any|Any]] woman or [[g/_girl|girl]] with whom a [[b/_bond|bond]] is [[f/_felt|felt]] through [[c/_common|common]] [[m/_membership|membership]] of a [[r/_race|race]], [[p/_profession|profession]], [[r/_religion|religion]] or [[o/_organization|organization]], [[s/_such|such]] as [[f/_feminism|feminism]].**
 	- _Example: Connie was very close to her friend Judy and considered her to be her sister._
 - **([[s/_sometimes|sometimes]] [[c/_capitalized|capitalized]]) A [[b/_black|black]] woman.**
 - **A [[f/_form|form]] of [[a/_address|address]] to a woman.**

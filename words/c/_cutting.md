@@ -13,11 +13,11 @@
 	- _Example: Select the text, cut it, and then paste it in the other application._
 - **To [[e/_enter|enter]] a [[q/_queue|queue]] in the wrong [[p/_place|place]].**
 	- _Example: One student kept trying to cut in front of the line._
-- **To [[i/_intersect|intersect]] or [[c/_cross|cross]] in such a way as to [[d/_divide|divide]] in [[h/_half|half]] or [[n/_nearly|nearly]] [[s/_so|so]].**
+- **To [[i/_intersect|intersect]] or [[c/_cross|cross]] in [[s/_such|such]] a way as to [[d/_divide|divide]] in [[h/_half|half]] or [[n/_nearly|nearly]] [[s/_so|so]].**
 	- _Example: This road cuts right through downtown._
 - **To [[m/_make|make]] the [[b/_ball|ball]] [[s/_spin|spin]] [[s/_sideways|sideways]] by [[r/_running|running]] [[o/_one|one]]'[[s/_s|s]] [[f/_fingers|fingers]] [[d/_down|down]] the [[s/_side|side]] of the [[b/_ball|ball]] while [[b/_bowling|bowling]] it.**
 - **To [[d/_deflect|deflect]] (a [[b/_bowled|bowled]] [[b/_ball|ball]]) to the [[o/_off|off]], with a [[c/_chopping|chopping]] [[m/_movement|movement]] of the [[b/_bat|bat]].**
-- **To [[c/_change|change]] [[d/_direction|direction]] suddenly.**
+- **To [[c/_change|change]] [[d/_direction|direction]] [[s/_suddenly|suddenly]].**
 	- _Example: The football player cut to his left to evade a tackle._
 - **To [[d/_divide|divide]] a [[p/_pack|pack]] of [[p/_playing|playing]] [[c/_cards|cards]] [[i/_into|into]] two.**
 	- _Example: If you cut then I'll deal._

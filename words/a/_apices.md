@@ -4,12 +4,12 @@
 - **[[c/_conical|Conical]] [[p/_priest|priest]] [[c/_cap|cap]]**
 - **The [[h/_highest|highest]] or the [[g/_greatest|greatest]] [[p/_point|point]] of [[s/_something|something]].**
 	- _Example: the apex of the building_
-- **The [[m/_moment|moment]] of [[g/_greatest|greatest]] success, [[e/_expansion|expansion]], [[e/_etc|etc]].**
+- **The [[m/_moment|moment]] of [[g/_greatest|greatest]] [[s/_success|success]], [[e/_expansion|expansion]], [[e/_etc|etc]].**
 	- _Example: the apex of civilization_
 - **The topmost vertex of a [[c/_cone|cone]] or [[p/_pyramid|pyramid]] (in their [[c/_conventional|conventional]] [[o/_orientation|orientation]]).**
 - **The "[[p/_pointed|pointed]]" [[f/_fine|fine]] [[e/_end|end]] of [[s/_something|something]].**
 - **The [[e/_end|end]] of a [[l/_leaf|leaf]], [[p/_petal|petal]] or [[s/_similar|similar]] [[o/_organ|organ]] [[o/_opposed|opposed]] to the [[e/_end|end]] where it is [[a/_attached|attached]] to [[i/_its|its]] support; the tip.**
-- **The [[p/_point|point]] on the [[c/_celestial|celestial]] [[s/_sphere|sphere]] toward which the sun [[a/_appears|appears]] to [[m/_move|move]] [[r/_relative|relative]] to [[n/_nearby|nearby]] [[s/_stars|stars]].**
+- **The [[p/_point|point]] on the [[c/_celestial|celestial]] [[s/_sphere|sphere]] toward which the [[s/_sun|sun]] [[a/_appears|appears]] to [[m/_move|move]] [[r/_relative|relative]] to [[n/_nearby|nearby]] [[s/_stars|stars]].**
 - **The [[l/_lowest|lowest]] [[p/_point|point]] on a [[p/_pendant|pendant]] [[d/_drop|drop]] of a [[l/_liquid|liquid]].**
 - **The [[e/_end|end]] or [[e/_edge|edge]] of a vein [[n/_nearest|nearest]] the surface.**
 - **A [[d/_diacritic|diacritic]] in [[c/_classical|Classical]] [[l/_latin|Latin]] that [[r/_resembles|resembles]] and [[g/_gave|gave]] [[r/_rise|rise]] to the [[a/_acute|acute]].**

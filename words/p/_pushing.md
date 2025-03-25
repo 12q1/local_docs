@@ -1,7 +1,7 @@
 # Pushing
 ---
 #verb
-- **To [[a/_apply|apply]] a [[f/_force|force]] to (an [[o/_object|object]]) such that it [[m/_moves|moves]] [[a/_away|away]] from the [[p/_person|person]] or thing [[a/_applying|applying]] the [[f/_force|force]].**
+- **To [[a/_apply|apply]] a [[f/_force|force]] to (an [[o/_object|object]]) [[s/_such|such]] that it [[m/_moves|moves]] [[a/_away|away]] from the [[p/_person|person]] or thing [[a/_applying|applying]] the [[f/_force|force]].**
 	- _Example: In his anger he pushed me against the wall and threatened me._
 - **To [[c/_continually|continually]] [[a/_attempt|attempt]] to [[p/_persuade|persuade]] (a [[p/_person|person]]) [[i/_into|into]] a [[p/_particular|particular]] [[c/_course|course]] of [[a/_action|action]].**
 - **To [[p/_press|press]] or urge [[f/_forward|forward]]; to [[d/_drive|drive]].**
@@ -21,7 +21,7 @@
 - **To [[p/_publish|publish]] (an update, [[e/_etc|etc]].) by transmitting it to [[o/_other|other]] [[c/_computers|computers]].**
 - **To thrust the [[p/_points|points]] of the [[h/_horns|horns]] [[a/_against|against]]; to [[g/_gore|gore]].**
 - **To [[b/_burst|burst]] [[o/_out|out]] of [[i/_its|its]] [[p/_pot|pot]], as a [[b/_bud|bud]] or [[s/_shoot|shoot]].**
-- **To [[s/_strike|strike]] the [[c/_cue|cue]] [[b/_ball|ball]] in such a way that it [[s/_stays|stays]] in [[c/_contact|contact]] with the [[c/_cue|cue]] and [[o/_object|object]] [[b/_ball|ball]] at the [[s/_same|same]] time (a [[f/_foul|foul]] [[s/_shot|shot]]).**
+- **To [[s/_strike|strike]] the [[c/_cue|cue]] [[b/_ball|ball]] in [[s/_such|such]] a way that it [[s/_stays|stays]] in [[c/_contact|contact]] with the [[c/_cue|cue]] and [[o/_object|object]] [[b/_ball|ball]] at the [[s/_same|same]] time (a [[f/_foul|foul]] [[s/_shot|shot]]).**
 ---
 ### Synonyms
 - [[a/_approach|approach]], [[n/_near|near]], [[p/_press|press]], [[u/_urge|urge]], [[a/_advertise|advertise]], [[p/_press|press]], [[p/_promote|promote]], [[p/_press|press]], [[s/_shove|shove]], [[t/_thring|thring]], [[p/_press|press]], [[s/_shove|shove]], [[t/_thrutch|thrutch]]

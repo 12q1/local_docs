@@ -1,7 +1,7 @@
 # Cough
 ---
 #noun
-- **A sudden, usually [[n/_noisy|noisy]] [[e/_expulsion|expulsion]] of [[a/_air|air]] from the [[l/_lungs|lungs]], [[o/_often|often]] [[i/_involuntary|involuntary]].**
+- **A [[s/_sudden|sudden]], usually [[n/_noisy|noisy]] [[e/_expulsion|expulsion]] of [[a/_air|air]] from the [[l/_lungs|lungs]], [[o/_often|often]] [[i/_involuntary|involuntary]].**
 	- _Example: Behind me, I heard a distinct, dry cough._
 - **A [[c/_condition|condition]] that [[c/_causes|causes]] [[o/_one|one]] to [[c/_cough|cough]]; a tendency to [[c/_cough|cough]].**
 	- _Example: Sorry, I can't come to work today – I've got a nasty cough._

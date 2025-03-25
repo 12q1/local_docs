@@ -3,8 +3,8 @@
 #noun
 - **A [[s/_slightly|slightly]] [[c/_curved|curved]] but [[a/_almost|almost]] [[f/_flat|flat]] [[d/_dish|dish]] from which [[f/_food|food]] is [[s/_served|served]] or [[e/_eaten|eaten]].**
 	- _Example: I filled my plate from the bountiful table._
-- **Such [[d/_dishes|dishes]] [[c/_collectively|collectively]].**
-- **The [[c/_contents|contents]] of such a [[d/_dish|dish]].**
+- **[[s/_such|Such]] [[d/_dishes|dishes]] [[c/_collectively|collectively]].**
+- **The [[c/_contents|contents]] of [[s/_such|such]] a [[d/_dish|dish]].**
 	- _Example: I ate a plate of beans._
 - **A [[c/_course|course]] at a [[m/_meal|meal]].**
 	- _Example: The meat plate was particularly tasty._
@@ -17,7 +17,7 @@
 - **A taxi [[p/_permit|permit]], [[e/_especially|especially]] of a [[m/_metal|metal]] [[d/_disc|disc]].**
 - **A [[l/_layer|layer]] of a [[m/_material|material]] on the surface of [[s/_something|something]], usually [[q/_qualified|qualified]] by the type of the [[m/_material|material]]; [[p/_plating|plating]]**
 	- _Example: The bullets just bounced off the steel plate on its hull._
-- **A [[m/_material|material]] [[c/_covered|covered]] with such a [[l/_layer|layer]].**
+- **A [[m/_material|material]] [[c/_covered|covered]] with [[s/_such|such]] a [[l/_layer|layer]].**
 	- _Example: If you're not careful, someone will sell you silverware that's really only silver plate._
 - **A [[d/_decorative|decorative]] or [[f/_food|food]] [[s/_service|service]] [[i/_item|item]] [[c/_coated|coated]] with [[s/_silver|silver]] or [[g/_gold|gold]].**
 	- _Example: The tea was served in the plate._
@@ -36,13 +36,13 @@
 - **[[p/_plate|Plate]] [[a/_armour|armour]].**
 	- _Example: He was confronted by two knights in full plate._
 - **[[a/_any|Any]] of various [[l/_larger|larger]] [[s/_scales|scales]] [[f/_found|found]] in [[s/_some|some]] [[r/_reptiles|reptiles]].**
-- **A [[f/_flat|flat]] [[e/_electrode|electrode]] such as [[c/_can|can]] be [[f/_found|found]] in an [[a/_accumulator|accumulator]] [[b/_battery|battery]], or in an [[e/_electrolysis|electrolysis]] tank.**
+- **A [[f/_flat|flat]] [[e/_electrode|electrode]] [[s/_such|such]] as [[c/_can|can]] be [[f/_found|found]] in an [[a/_accumulator|accumulator]] [[b/_battery|battery]], or in an [[e/_electrolysis|electrolysis]] tank.**
 - **The [[a/_anode|anode]] of a vacuum tube.**
 	- _Example: Regulating the oscillator plate voltage greatly improves the keying._
 - **[[s/_silver|Silver]] or [[g/_gold|gold]], in the [[f/_form|form]] of a [[c/_coin|coin]], or [[l/_less|less]] [[o/_often|often]] [[s/_silver|silver]] or [[g/_gold|gold]] utensils or [[d/_dishes|dishes]] (from [[s/_spanish|Spanish]] plata ("[[s/_silver|silver]]")).**
 - **A [[r/_roundel|roundel]] of [[s/_silver|silver]] or tinctured [[a/_argent|argent]].**
 - **A [[p/_prize|prize]] [[g/_given|given]] to the winner in a [[c/_contest|contest]].**
-- **[[a/_any|Any]] [[f/_flat|flat]] [[p/_piece|piece]] of [[m/_material|material]] such as [[c/_coated|coated]] [[g/_glass|glass]] or [[p/_plastic|plastic]].**
+- **[[a/_any|Any]] [[f/_flat|flat]] [[p/_piece|piece]] of [[m/_material|material]] [[s/_such|such]] as [[c/_coated|coated]] [[g/_glass|glass]] or [[p/_plastic|plastic]].**
 - **(travel [[i/_industry|industry]]) A [[m/_metallic|metallic]] [[c/_card|card]], used to [[i/_imprint|imprint]] tickets with an [[a/_airline|airline]]'[[s/_s|s]] [[l/_logo|logo]], [[n/_name|name]], and [[n/_numeric|numeric]] [[c/_code|code]].**
 - **(travel [[i/_industry|industry]], by [[e/_extension|extension]]) The [[a/_ability|ability]] of a travel [[a/_agent|agent]] to [[i/_issue|issue]] tickets on [[b/_behalf|behalf]] of a [[p/_particular|particular]] [[a/_airline|airline]].**
 - **A VIN [[p/_plate|plate]], [[p/_particularly|particularly]] with [[r/_regard|regard]] to the [[c/_car|car]]'[[s/_s|s]] [[y/_year|year]] of [[m/_manufacture|manufacture]].**

@@ -5,6 +5,6 @@
 	- _Example: Lexa sent me a nude last week._
 - **(with [[a/_article|article]], "the [[n/_nude|nude]]") The [[s/_state|state]] of total [[n/_nudity|nudity]].**
 	- _Example: she caught him in the nude_
-- **A [[c/_color|color]] that [[r/_resembles|resembles]] or [[e/_evokes|evokes]] [[b/_bare|bare]] [[f/_flesh|flesh]]; a [[p/_paint|paint]], [[d/_dye|dye]], [[e/_etc|etc]]. of such [[c/_color|color]].**
+- **A [[c/_color|color]] that [[r/_resembles|resembles]] or [[e/_evokes|evokes]] [[b/_bare|bare]] [[f/_flesh|flesh]]; a [[p/_paint|paint]], [[d/_dye|dye]], [[e/_etc|etc]]. of [[s/_such|such]] [[c/_color|color]].**
 ---
 ---

@@ -7,7 +7,7 @@
 - **A [[p/_person|person]] who is [[f/_frequently|frequently]] unsuccessful in [[l/_life|life]].**
 	- _Example: I'm a constant loser in love._
 - **A [[c/_contemptible|contemptible]] or unfashionable [[p/_person|person]].**
-- **[[o/_one|One]] who or that which [[l/_loses|loses]] [[s/_something|something]], such as [[e/_extra|extra]] weight, [[c/_car|car]] [[k/_keys|keys]], [[e/_etc|etc]].**
+- **[[o/_one|One]] who or that which [[l/_loses|loses]] [[s/_something|something]], [[s/_such|such]] as [[e/_extra|extra]] weight, [[c/_car|car]] [[k/_keys|keys]], [[e/_etc|etc]].**
 ---
 ### Synonyms
 - [[c/_crumb|crumb]], [[l/_losel|losel]], [[l/_louse|louse]], [[f/_failure|failure]]

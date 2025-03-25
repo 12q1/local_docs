@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_large|large]] or [[d/_disorderly|disorderly]] [[g/_group|group]] of [[p/_people|people]]; [[e/_especially|especially]] [[o/_one|one]] [[b/_bent|bent]] on [[r/_riotous|riotous]] or [[d/_destructive|destructive]] [[a/_action|action]].**
-- **A [[g/_group|group]] of [[a/_animals|animals]] such as [[h/_horses|horses]] or [[c/_cattle|cattle]].**
+- **A [[g/_group|group]] of [[a/_animals|animals]] [[s/_such|such]] as [[h/_horses|horses]] or [[c/_cattle|cattle]].**
 - **A [[f/_flock|flock]] of [[e/_emus|emus]].**
 - **The [[m/_mafia|Mafia]], or a [[s/_similar|similar]] [[g/_group|group]] that [[e/_engages|engages]] in [[o/_organized|organized]] [[c/_crime|crime]] ([[p/_preceded|preceded]] by the).**
 - **A [[n/_non|non]]-[[p/_player|player]] [[c/_character|character]], [[e/_especially|especially]] [[o/_one|one]] that [[e/_exists|exists]] to be [[f/_fought|fought]] or [[k/_killed|killed]] to [[f/_further|further]] the [[p/_progression|progression]] of the [[s/_story|story]] or [[g/_game|game]].**

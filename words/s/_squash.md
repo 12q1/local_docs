@@ -8,14 +8,14 @@
 	- _Example: It's a bit of a squash in this small room._
 - **[[s/_something|Something]] [[s/_soft|soft]] and [[e/_easily|easily]] [[c/_crushed|crushed]]; [[e/_especially|especially]], an unripe [[p/_pod|pod]] of [[p/_peas|peas]].**
 - **[[s/_something|Something]] unripe or [[s/_soft|soft]].**
-- **A sudden [[f/_fall|fall]] of a [[h/_heavy|heavy]], [[s/_soft|soft]] [[b/_body|body]]; [[a/_also|also]], a [[s/_shock|shock]] of [[s/_soft|soft]] [[b/_bodies|bodies]].**
+- **A [[s/_sudden|sudden]] [[f/_fall|fall]] of a [[h/_heavy|heavy]], [[s/_soft|soft]] [[b/_body|body]]; [[a/_also|also]], a [[s/_shock|shock]] of [[s/_soft|soft]] [[b/_bodies|bodies]].**
 - **An [[e/_extremely|extremely]] [[o/_one|one]]-[[s/_sided|sided]], usually [[s/_short|short]], [[m/_match|match]].**
 ---
 #verb
 - **To [[b/_beat|beat]] or [[p/_press|press]] [[i/_into|into]] [[p/_pulp|pulp]] or a [[f/_flat|flat]] [[m/_mass|mass]]; to [[c/_crush|crush]].**
 - **To [[c/_compress|compress]] or [[r/_restrict|restrict]] ([[o/_oneself|oneself]]) [[i/_into|into]] a [[s/_small|small]] [[s/_space|space]]; to [[s/_squeeze|squeeze]].**
 	- _Example: Somehow, she squashed all her books into her backpack, which was now too heavy to carry._
-- **To suppress; to [[f/_force|force]] [[i/_into|into]] submission.**
+- **To suppress; to [[f/_force|force]] [[i/_into|into]] [[s/_submission|submission]].**
 ---
 ### Synonyms
 - [[c/_condense|condense]], [[p/_press|press]]

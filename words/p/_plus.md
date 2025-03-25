@@ -11,10 +11,10 @@
 ### Antonyms
 - [[m/_minus|minus]], [[l/_liability|liability]], [[m/_minus|minus]]
 #verb
-- **To [[a/_add|add]]; to subject to [[a/_addition|addition]].**
+- **To [[a/_add|add]]; to [[s/_subject|subject]] to [[a/_addition|addition]].**
 - **([[o/_often|often]] [[f/_followed|followed]] by 'up') To [[i/_increase|increase]] in [[m/_magnitude|magnitude]].**
 - **To [[i/_improve|improve]].**
-- **To [[p/_provide|provide]] [[c/_critical|critical]] [[f/_feedback|feedback]] by [[g/_giving|giving]] suggestions for [[i/_improvement|improvement]] [[r/_rather|rather]] than [[c/_criticisms|criticisms]].**
+- **To [[p/_provide|provide]] [[c/_critical|critical]] [[f/_feedback|feedback]] by [[g/_giving|giving]] [[s/_suggestions|suggestions]] for [[i/_improvement|improvement]] [[r/_rather|rather]] than [[c/_criticisms|criticisms]].**
 - **([[s/_sales|sales]]) To [[s/_sell|sell]] [[a/_additional|additional]] [[r/_related|related]] [[i/_items|items]] with an [[o/_original|original]] [[p/_purchase|purchase]].**
 - **To [[f/_frame|frame]] in a [[p/_positive|positive]] [[l/_light|light]]; to [[p/_provide|provide]] a [[s/_sympathetic|sympathetic]] [[i/_interpretation|interpretation]].**
 - **([[s/_social|social]] [[m/_media|media]]) To [[g/_give|give]] a [[m/_mark|mark]] of [[a/_approval|approval]] on Google+.**
@@ -36,7 +36,7 @@
 ### Antonyms
 - [[m/_minus|minus]], [[n/_negative|negative]], [[b/_bad|bad]], [[d/_disadvantageous|disadvantageous]], [[m/_minus|minus]], [[n/_negative|negative]]
 #preposition
-- **And; sum of the [[p/_previous|previous]] [[o/_one|one]] and the [[f/_following|following]] [[o/_one|one]].**
+- **And; [[s/_sum|sum]] of the [[p/_previous|previous]] [[o/_one|one]] and the [[f/_following|following]] [[o/_one|one]].**
 	- _Example: A water molecule is made up of two hydrogen atoms plus one of oxygen._
 - **With; [[h/_having|having]] in [[a/_addition|addition]].**
 	- _Example: I've won a holiday to France plus five hundred euros in spending money!_

@@ -9,7 +9,7 @@
 - **To [[p/_push|push]] [[c/_continuous|continuous]] [[d/_data|data]] ([[e/_e|e]].[[g/_g|g]]. [[m/_music|music]]) from a [[s/_server|server]] to a [[c/_client|client]] [[c/_computer|computer]] while it is [[b/_being|being]] used ([[p/_played|played]]) on the [[c/_client|client]].**
 ---
 #adjective
-- **[[f/_flowing|Flowing]] or [[m/_moving|moving]] in [[c/_continuous|continuous]] succession, [[l/_like|like]] [[f/_fluid|fluid]] in a [[s/_stream|stream]].**
+- **[[f/_flowing|Flowing]] or [[m/_moving|moving]] in [[c/_continuous|continuous]] [[s/_succession|succession]], [[l/_like|like]] [[f/_fluid|fluid]] in a [[s/_stream|stream]].**
 ---
 ### Synonyms
 - [[f/_fluent|fluent]], [[o/_onrushing|onrushing]]

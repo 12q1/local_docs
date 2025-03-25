@@ -1,10 +1,10 @@
 # Fund
 ---
 #noun
-- **A sum or [[s/_source|source]] of [[m/_money|money]].**
+- **A [[s/_sum|sum]] or [[s/_source|source]] of [[m/_money|money]].**
 	- _Example: a fund for the maintenance of underprivileged students_
-- **An [[o/_organization|organization]] [[m/_managing|managing]] such [[m/_money|money]].**
-- **A [[m/_money|money]]-[[m/_management|management]] [[o/_operation|operation]], such as a [[m/_mutual|mutual]] [[f/_fund|fund]].**
+- **An [[o/_organization|organization]] [[m/_managing|managing]] [[s/_such|such]] [[m/_money|money]].**
+- **A [[m/_money|money]]-[[m/_management|management]] [[o/_operation|operation]], [[s/_such|such]] as a [[m/_mutual|mutual]] [[f/_fund|fund]].**
 	- _Example: Several major funds were declared insolvent recently._
 - **A [[l/_large|large]] supply of [[s/_something|something]] to be [[d/_drawn|drawn]] upon.**
 	- _Example: He drew on his immense fund of knowledge._

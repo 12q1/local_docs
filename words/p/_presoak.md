@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[i/_initial|initial]] [[s/_soak|soak]].**
-- **A [[p/_preparation|preparation]] used in such a [[s/_soak|soak]].**
+- **A [[p/_preparation|preparation]] used in [[s/_such|such]] a [[s/_soak|soak]].**
 - **A [[c/_cycle|cycle]] of a washing [[m/_machine|machine]] [[d/_during|during]] which this [[o/_occurs|occurs]].**
 ---
 #verb

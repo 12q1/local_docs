@@ -1,6 +1,6 @@
 # Impleads
 ---
 #verb
-- **To sue in [[c/_court|court]], [[r/_raise|raise]] an [[a/_action|action]] [[a/_against|against]] a [[d/_defendant|defendant]]**
+- **To [[s/_sue|sue]] in [[c/_court|court]], [[r/_raise|raise]] an [[a/_action|action]] [[a/_against|against]] a [[d/_defendant|defendant]]**
 ---
 ---

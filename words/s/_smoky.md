@@ -11,7 +11,7 @@
 - **[[r/_resembling|Resembling]] or [[c/_composed|composed]] of [[s/_smoke|smoke]].**
 - **[[b/_blackened|Blackened]] by [[s/_smoke|smoke]].**
 - **(of a [[p/_person|person]]'[[s/_s|s]] voice) [[h/_having|Having]] a [[d/_deep|deep]], [[r/_raspy|raspy]] [[q/_quality|quality]], [[o/_often|often]] as a [[r/_result|result]] of [[s/_smoking|smoking]] tobacco.**
-- **[[a/_attractive|Attractive]] in a [[s/_sensual|sensual]] way; sultry.**
+- **[[a/_attractive|Attractive]] in a [[s/_sensual|sensual]] way; [[s/_sultry|sultry]].**
 - **[[h/_having|Having]] a [[d/_dark|dark]], thick, [[b/_bass|bass]] [[s/_sound|sound]].**
 	- _Example: a few smoky jazz notes_
 - **[[g/_giving|Giving]] [[o/_off|off]] [[s/_steam|steam]] or vapour.**

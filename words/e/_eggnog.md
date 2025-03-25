@@ -1,7 +1,7 @@
 # Eggnog
 ---
 #noun
-- **A [[b/_beverage|beverage]] [[b/_based|based]] on [[m/_milk|milk]], [[e/_eggs|eggs]], sugar, and [[n/_nutmeg|nutmeg]]; [[o/_often|often]] [[m/_made|made]] [[a/_alcoholic|alcoholic]] with [[r/_rum|rum]], [[b/_brandy|brandy]] or whisky; [[p/_popular|popular]] at [[c/_christmas|Christmas]].**
+- **A [[b/_beverage|beverage]] [[b/_based|based]] on [[m/_milk|milk]], [[e/_eggs|eggs]], [[s/_sugar|sugar]], and [[n/_nutmeg|nutmeg]]; [[o/_often|often]] [[m/_made|made]] [[a/_alcoholic|alcoholic]] with [[r/_rum|rum]], [[b/_brandy|brandy]] or whisky; [[p/_popular|popular]] at [[c/_christmas|Christmas]].**
 ---
 ### Synonyms
 - 

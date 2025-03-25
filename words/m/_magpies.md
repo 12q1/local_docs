@@ -2,8 +2,8 @@
 ---
 #noun
 - **[[o/_one|One]] of [[s/_several|several]] [[k/_kinds|kinds]] of [[b/_bird|bird]] in the [[f/_family|family]] [[c/_corvidae|Corvidae]]**
-- **A superficially [[s/_similar|similar]] [[a/_australian|Australian]] [[b/_bird|bird]], [[g/_gymnorhina|Gymnorhina]] tibicen or Cracticus tibicen.**
-- **[[s/_someone|Someone]] who [[d/_displays|displays]] a [[m/_magpie|magpie]]-[[l/_like|like]] [[q/_quality|quality]] such as [[h/_hoarding|hoarding]] or [[s/_stealing|stealing]] [[o/_objects|objects]].**
+- **A [[s/_superficially|superficially]] [[s/_similar|similar]] [[a/_australian|Australian]] [[b/_bird|bird]], [[g/_gymnorhina|Gymnorhina]] tibicen or Cracticus tibicen.**
+- **[[s/_someone|Someone]] who [[d/_displays|displays]] a [[m/_magpie|magpie]]-[[l/_like|like]] [[q/_quality|quality]] [[s/_such|such]] as [[h/_hoarding|hoarding]] or [[s/_stealing|stealing]] [[o/_objects|objects]].**
 - **A [[f/_fan|fan]] or [[m/_member|member]] of [[n/_newcastle|Newcastle]] United [[f/_f|F]].[[c/_c|C]].**
 - **The 3rd [[c/_circle|circle]] on a target, [[b/_between|between]] the [[i/_inner|inner]] and [[o/_outer|outer]].**
 - **A [[h/_halfpenny|halfpenny]].**

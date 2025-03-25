@@ -20,7 +20,7 @@
 ### Synonyms
 - [[b/_belittle|belittle]], [[d/_dismiss|dismiss]], [[d/_dwarf|dwarf]]
 #adjective
-- **[[r/_resulting|Resulting]] from the substitution of a [[n/_nucleotide|nucleotide]] in a [[s/_sense|sense]] [[c/_codon|codon]], [[c/_causing|causing]] it to [[b/_become|become]] a [[s/_stop|stop]] [[c/_codon|codon]] (not [[c/_coding|coding]] for an [[a/_amino|amino]]-[[a/_acid|acid]]).**
+- **[[r/_resulting|Resulting]] from the [[s/_substitution|substitution]] of a [[n/_nucleotide|nucleotide]] in a [[s/_sense|sense]] [[c/_codon|codon]], [[c/_causing|causing]] it to [[b/_become|become]] a [[s/_stop|stop]] [[c/_codon|codon]] (not [[c/_coding|coding]] for an [[a/_amino|amino]]-[[a/_acid|acid]]).**
 - **[[n/_nonsensical|Nonsensical]]**
 ---
 #interjection

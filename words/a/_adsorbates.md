@@ -1,6 +1,6 @@
 # Adsorbates
 ---
 #noun
-- **A substance which [[h/_has|has]] [[b/_been|been]] [[a/_adsorbed|adsorbed]]**
+- **A [[s/_substance|substance]] which [[h/_has|has]] [[b/_been|been]] [[a/_adsorbed|adsorbed]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Emblems
 ---
 #noun
-- **A [[r/_representative|representative]] [[s/_symbol|symbol]], such as a trademark or [[l/_logo|logo]].**
+- **A [[r/_representative|representative]] [[s/_symbol|symbol]], [[s/_such|such]] as a trademark or [[l/_logo|logo]].**
 - **[[s/_something|Something]] which [[r/_represents|represents]] a [[l/_larger|larger]] whole.**
 	- _Example: The rampant poverty in the ethnic slums was just an emblem of the group's disenfranchisement by the society as a whole._
 - **[[i/_inlay|Inlay]]; [[i/_inlaid|inlaid]] or [[m/_mosaic|mosaic]] work; [[s/_something|something]] [[o/_ornamental|ornamental]] [[i/_inserted|inserted]] in a surface.**

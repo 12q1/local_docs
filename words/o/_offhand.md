@@ -3,7 +3,7 @@
 #adjective
 - **Without [[p/_planning|planning]] or thinking [[a/_ahead|ahead]].**
 	- _Example: She gave an offhand speech._
-- **[[c/_careless|Careless]]; without sufficient thought or [[c/_consideration|consideration]].**
+- **[[c/_careless|Careless]]; without [[s/_sufficient|sufficient]] thought or [[c/_consideration|consideration]].**
 	- _Example: He doesn't realise how hurtful his offhand remarks can be._
 - **[[c/_curt|Curt]], [[a/_abrupt|abrupt]], unfriendly.**
 	- _Example: She was quite offhand with me yesterday._

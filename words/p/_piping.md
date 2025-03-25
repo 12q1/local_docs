@@ -1,7 +1,7 @@
 # Piping
 ---
 #verb
-- **To [[p/_play|play]] ([[m/_music|music]]) on a [[p/_pipe|pipe]] [[i/_instrument|instrument]], such as a [[b/_bagpipe|bagpipe]] or a [[f/_flute|flute]].**
+- **To [[p/_play|play]] ([[m/_music|music]]) on a [[p/_pipe|pipe]] [[i/_instrument|instrument]], [[s/_such|such]] as a [[b/_bagpipe|bagpipe]] or a [[f/_flute|flute]].**
 - **To [[s/_shout|shout]] [[l/_loudly|loudly]] and at [[h/_high|high]] [[p/_pitch|pitch]].**
 - **To [[e/_emit|emit]] or [[h/_have|have]] a [[s/_shrill|shrill]] [[s/_sound|sound]] [[l/_like|like]] that of a [[p/_pipe|pipe]]; to whistle.**
 - **Of a [[m/_metal|metal]] [[i/_ingot|ingot]]: to [[b/_become|become]] [[h/_hollow|hollow]] in the [[p/_process|process]] of [[s/_solidifying|solidifying]].**

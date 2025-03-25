@@ -15,6 +15,6 @@
 - **To [[o/_offer|offer]].**
 ---
 #noun
-- **Temporary [[b/_bracing|bracing]] used to [[p/_prevent|prevent]] [[s/_something|something]], such as a tunnel, trench, or wall, from [[c/_collapse|collapse]].**
+- **Temporary [[b/_bracing|bracing]] used to [[p/_prevent|prevent]] [[s/_something|something]], [[s/_such|such]] as a tunnel, trench, or wall, from [[c/_collapse|collapse]].**
 ---
 ---

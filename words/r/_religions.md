@@ -3,7 +3,7 @@
 #noun
 - **[[b/_belief|Belief]] in a [[s/_spiritual|spiritual]] or [[m/_metaphysical|metaphysical]] [[r/_reality|reality]] ([[o/_often|often]] [[i/_including|including]] at [[l/_least|least]] [[o/_one|one]] [[d/_deity|deity]]), [[a/_accompanied|accompanied]] by [[p/_practices|practices]] or [[r/_rituals|rituals]] [[p/_pertaining|pertaining]] to the [[b/_belief|belief]].**
 	- _Example: My brother tends to value religion, but my sister not as much._
-- **A [[p/_particular|particular]] [[s/_system|system]] of such [[b/_belief|belief]], and the [[r/_rituals|rituals]] and [[p/_practices|practices]] [[p/_proper|proper]] to it.**
+- **A [[p/_particular|particular]] [[s/_system|system]] of [[s/_such|such]] [[b/_belief|belief]], and the [[r/_rituals|rituals]] and [[p/_practices|practices]] [[p/_proper|proper]] to it.**
 	- _Example: Eckankar is a new religion but Zoroastrianism is an old religion._
 - **The way of [[l/_life|life]] [[c/_committed|committed]] to by [[m/_monks|monks]] and [[n/_nuns|nuns]].**
 	- _Example: The monk entered religion when he was 20 years of age._

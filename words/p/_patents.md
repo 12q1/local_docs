@@ -7,6 +7,6 @@
 - **[[p/_patent|Patent]] [[l/_leather|leather]]: a varnished, [[h/_high|high]]-[[g/_gloss|gloss]] [[l/_leather|leather]] typically used for [[s/_shoes|shoes]] and [[a/_accessories|accessories]].**
 ---
 #verb
-- **To successfully [[r/_register|register]] an [[i/_invention|invention]] with a [[g/_government|government]] [[a/_agency|agency]]; to [[s/_secure|secure]] a [[l/_letter|letter]] [[p/_patent|patent]].**
+- **To [[s/_successfully|successfully]] [[r/_register|register]] an [[i/_invention|invention]] with a [[g/_government|government]] [[a/_agency|agency]]; to [[s/_secure|secure]] a [[l/_letter|letter]] [[p/_patent|patent]].**
 ---
 ---

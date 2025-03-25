@@ -23,12 +23,12 @@
 ### Synonyms
 - [[r/_roughy|roughy]]
 #noun
-- **An [[i/_instance|instance]] of [[r/_ruffing|ruffing]], or an [[o/_opportunity|opportunity]] to [[r/_ruff|ruff]], when unable to [[f/_follow|follow]] suit.**
+- **An [[i/_instance|instance]] of [[r/_ruffing|ruffing]], or an [[o/_opportunity|opportunity]] to [[r/_ruff|ruff]], when unable to [[f/_follow|follow]] [[s/_suit|suit]].**
 - **A [[g/_game|game]] [[s/_similar|similar]] to whist and [[i/_its|its]] [[p/_predecessor|predecessor]].**
 ---
 #verb
-- **To [[p/_play|play]] a trump [[c/_card|card]] to a trick when unable to [[f/_follow|follow]] suit (that is, to [[p/_play|play]] a [[c/_card|card]] of the [[s/_same|same]] suit as the [[p/_previous|previous]] or [[l/_leading|leading]] [[c/_card|card]]).**
-- **[[e/_especially|Especially]] in the [[f/_form|form]] [[r/_ruff|ruff]] [[o/_out|out]]: to [[d/_defeat|defeat]] (a [[c/_card|card]], [[e/_etc|etc]].) by [[r/_ruffing|ruffing]], thus [[e/_establishing|establishing]] the [[m/_master|master]] [[c/_card|card]] in the suit [[l/_led|led]].**
+- **To [[p/_play|play]] a trump [[c/_card|card]] to a trick when unable to [[f/_follow|follow]] [[s/_suit|suit]] (that is, to [[p/_play|play]] a [[c/_card|card]] of the [[s/_same|same]] [[s/_suit|suit]] as the [[p/_previous|previous]] or [[l/_leading|leading]] [[c/_card|card]]).**
+- **[[e/_especially|Especially]] in the [[f/_form|form]] [[r/_ruff|ruff]] [[o/_out|out]]: to [[d/_defeat|defeat]] (a [[c/_card|card]], [[e/_etc|etc]].) by [[r/_ruffing|ruffing]], thus [[e/_establishing|establishing]] the [[m/_master|master]] [[c/_card|card]] in the [[s/_suit|suit]] [[l/_led|led]].**
 ---
 ### Synonyms
 - [[t/_trump|trump]]

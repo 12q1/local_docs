@@ -2,8 +2,8 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[l/_leaving|leaving]] [[r/_real|real]] [[p/_property|property]] in a will.**
-- **Such a will, or a [[c/_clause|clause]] in such a will.**
-- **The [[r/_real|real]] [[p/_property|property]] [[l/_left|left]] in such a will.**
+- **[[s/_such|Such]] a will, or a [[c/_clause|clause]] in [[s/_such|such]] a will.**
+- **The [[r/_real|real]] [[p/_property|property]] [[l/_left|left]] in [[s/_such|such]] a will.**
 - **[[d/_design|Design]], [[d/_devising|devising]].**
 ---
 #verb

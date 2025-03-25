@@ -16,7 +16,7 @@
 - **(usually in [[p/_passive|passive]]) To [[m/_make|make]] [[a/_addicted|addicted]]; to [[c/_captivate|captivate]].**
 	- _Example: He had gotten hooked on cigarettes in his youth._
 - **To [[p/_play|play]] a [[h/_hook|hook]] [[s/_shot|shot]].**
-- **To succeed in [[h/_heeling|heeling]] the [[b/_ball|ball]] [[b/_back|back]] [[o/_out|out]] of a [[s/_scrum|scrum]] (used [[p/_particularly|particularly]] of the team'[[s/_s|s]] [[d/_designated|designated]] [[h/_hooker|hooker]]).**
+- **To [[s/_succeed|succeed]] in [[h/_heeling|heeling]] the [[b/_ball|ball]] [[b/_back|back]] [[o/_out|out]] of a [[s/_scrum|scrum]] (used [[p/_particularly|particularly]] of the team'[[s/_s|s]] [[d/_designated|designated]] [[h/_hooker|hooker]]).**
 - **To [[e/_engage|engage]] in the [[i/_illegal|illegal]] [[m/_maneuver|maneuver]] of [[h/_hooking|hooking]] ([[i/_i|i]].[[e/_e|e]]., using the [[h/_hockey|hockey]] [[s/_stick|stick]] to trip or [[b/_block|block]] [[a/_another|another]] [[p/_player|player]])**
 	- _Example: The opposing team's forward hooked me, but the referee didn't see it, so no penalty._
 - **To swerve a [[b/_ball|ball]]; [[k/_kick|kick]] a [[b/_ball|ball]] [[s/_so|so]] it swerves or [[b/_bends|bends]].**
@@ -25,7 +25,7 @@
 - **([[s/_scrabble|Scrabble]]) To [[p/_play|play]] a word [[p/_perpendicular|perpendicular]] to [[a/_another|another]] word by [[a/_adding|adding]] a [[s/_single|single]] [[l/_letter|letter]] to the [[e/_existing|existing]] word.**
 - **To [[f/_finesse|finesse]].**
 - **To [[s/_seize|seize]] or [[p/_pierce|pierce]] with the [[p/_points|points]] of the [[h/_horns|horns]], as [[c/_cattle|cattle]] in [[a/_attacking|attacking]] [[e/_enemies|enemies]]; to [[g/_gore|gore]].**
-- **To [[m/_move|move]] or [[g/_go|go]] with a sudden turn.**
+- **To [[m/_move|move]] or [[g/_go|go]] with a [[s/_sudden|sudden]] turn.**
 ---
 #adjective
 - **[[h/_having|Having]] a [[s/_sharp|sharp]] [[c/_curve|curve]] at the [[e/_end|end]]; [[r/_resembling|resembling]] a [[h/_hook|hook]].**

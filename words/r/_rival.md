@@ -14,7 +14,7 @@
 - **To [[s/_strive|strive]] to [[e/_equal|equal]] or [[e/_excel|excel]]; to [[e/_emulate|emulate]].**
 ---
 #adjective
-- **[[h/_having|Having]] the [[s/_same|same]] [[p/_pretensions|pretensions]] or [[c/_claims|claims]]; [[s/_standing|standing]] in [[c/_competition|competition]] for superiority.**
+- **[[h/_having|Having]] the [[s/_same|same]] [[p/_pretensions|pretensions]] or [[c/_claims|claims]]; [[s/_standing|standing]] in [[c/_competition|competition]] for [[s/_superiority|superiority]].**
 	- _Example: rival lovers; rival claims or pretensions_
 ---
 ---

@@ -1,6 +1,6 @@
 # Purgatives
 ---
 #noun
-- **[[s/_something|Something]], such as a substance or [[m/_medicine|medicine]], that [[p/_purges|purges]]; [[l/_laxative|laxative]]**
+- **[[s/_something|Something]], [[s/_such|such]] as a [[s/_substance|substance]] or [[m/_medicine|medicine]], that [[p/_purges|purges]]; [[l/_laxative|laxative]]**
 ---
 ---

@@ -22,7 +22,7 @@
 ### Synonyms
 - [[h/_hustle|hustle]], [[p/_prostitute|prostitute]]
 #noun
-- **[[a/_any|Any]] [[m/_material|material]] used as tinder for [[l/_lighting|lighting]] [[f/_fires|fires]], such as [[a/_agaric|agaric]], [[d/_dried|dried]] wood, or touchwood, but [[e/_especially|especially]] wood [[a/_altered|altered]] by [[c/_certain|certain]] [[f/_fungi|fungi]].**
-- **A utensil for [[l/_lighting|lighting]] wicks or [[f/_fuses|fuses]] (such as those of [[f/_fireworks|fireworks]]) [[r/_resembling|resembling]] [[s/_stick|stick]] [[i/_incense|incense]].**
+- **[[a/_any|Any]] [[m/_material|material]] used as tinder for [[l/_lighting|lighting]] [[f/_fires|fires]], [[s/_such|such]] as [[a/_agaric|agaric]], [[d/_dried|dried]] wood, or touchwood, but [[e/_especially|especially]] wood [[a/_altered|altered]] by [[c/_certain|certain]] [[f/_fungi|fungi]].**
+- **A utensil for [[l/_lighting|lighting]] wicks or [[f/_fuses|fuses]] ([[s/_such|such]] as those of [[f/_fireworks|fireworks]]) [[r/_resembling|resembling]] [[s/_stick|stick]] [[i/_incense|incense]].**
 ---
 ---

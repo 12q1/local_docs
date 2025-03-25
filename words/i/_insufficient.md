@@ -1,7 +1,7 @@
 # Insufficient
 ---
 #adjective
-- **Not sufficient.**
+- **Not [[s/_sufficient|sufficient]].**
 	- _Example: Insufficient time is available to reflect on the problem_
 ---
 ### Synonyms

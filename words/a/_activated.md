@@ -5,7 +5,7 @@
 - **To [[p/_put|put]] a [[d/_device|device]], [[m/_mechanism|mechanism]] ([[a/_alarm|alarm]] [[e/_etc|etc]].) or [[s/_system|system]] [[i/_into|into]] [[a/_action|action]] or [[m/_motion|motion]]; to trigger, to [[a/_actuate|actuate]], to [[s/_set|set]] [[o/_off|off]], to [[e/_enable|enable]].**
 - **To [[r/_render|render]] [[m/_more|more]] [[r/_reactive|reactive]]; [[e/_excite|excite]].**
 - **To [[r/_render|render]] a [[m/_molecule|molecule]] [[r/_reactive|reactive]], [[a/_active|active]], or [[e/_effective|effective]] in [[p/_performing|performing]] [[i/_its|its]] [[f/_function|function]].**
-- **To [[r/_render|render]] a substance [[r/_radioactive|radioactive]].**
+- **To [[r/_render|render]] a [[s/_substance|substance]] [[r/_radioactive|radioactive]].**
 - **To [[h/_hasten|hasten]] a [[c/_chemical|chemical]] [[r/_reaction|reaction]], [[e/_especially|especially]] by [[h/_heating|heating]].**
 - **To [[r/_remove|remove]] the [[l/_limitations|limitations]] of demoware by [[p/_providing|providing]] a [[l/_license|license]]; to unlock.**
 - **To [[a/_aerate|aerate]] in [[o/_order|order]] to [[a/_aid|aid]] [[d/_decomposition|decomposition]] of [[o/_organic|organic]] [[m/_matter|matter]].**

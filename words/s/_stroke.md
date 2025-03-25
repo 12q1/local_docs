@@ -8,7 +8,7 @@
 - **A [[s/_single|single]] [[m/_movement|movement]] with a tool.**
 - **[[o/_one|One]] of a [[s/_series|series]] of [[b/_beats|beats]] or [[m/_movements|movements]] [[a/_against|against]] a [[r/_resisting|resisting]] [[m/_medium|medium]], by [[m/_means|means]] of which [[m/_movement|movement]] through or upon it is [[a/_accomplished|accomplished]].**
 	- _Example: the stroke of a bird's wing in flying, or of an oar in rowing_
-- **A [[p/_powerful|powerful]] or sudden [[e/_effort|effort]] by which [[s/_something|something]] is [[d/_done|done]], [[p/_produced|produced]], or [[a/_accomplished|accomplished]]; [[a/_also|also]], [[s/_something|something]] [[d/_done|done]] or [[a/_accomplished|accomplished]] by such an [[e/_effort|effort]].**
+- **A [[p/_powerful|powerful]] or [[s/_sudden|sudden]] [[e/_effort|effort]] by which [[s/_something|something]] is [[d/_done|done]], [[p/_produced|produced]], or [[a/_accomplished|accomplished]]; [[a/_also|also]], [[s/_something|something]] [[d/_done|done]] or [[a/_accomplished|accomplished]] by [[s/_such|such]] an [[e/_effort|effort]].**
 	- _Example: a stroke of genius; a stroke of business; a master stroke of policy_
 - **A [[l/_line|line]] [[d/_drawn|drawn]] with a [[p/_pen|pen]] or [[o/_other|other]] writing [[i/_implement|implement]], [[p/_particularly|particularly]]:**
 - **A [[s/_streak|streak]] [[m/_made|made]] with a [[b/_brush|brush]].**
@@ -16,8 +16,8 @@
 	- _Example: on the stroke of midnight_
 - **A [[s/_style|style]], a [[s/_single|single]] [[m/_movement|movement]] within a [[s/_style|style]].**
 	- _Example: butterfly stroke_
-- **The [[l/_loss|loss]] of [[b/_brain|brain]] [[f/_function|function]] [[a/_arising|arising]] when the [[b/_blood|blood]] supply to the [[b/_brain|brain]] is suddenly [[i/_interrupted|interrupted]].**
-- **A sudden [[a/_attack|attack]] of [[a/_any|any]] [[d/_disease|disease]], [[e/_especially|especially]] when [[f/_fatal|fatal]]; [[a/_any|any]] sudden, [[s/_severe|severe]] [[a/_affliction|affliction]] or [[c/_calamity|calamity]].**
+- **The [[l/_loss|loss]] of [[b/_brain|brain]] [[f/_function|function]] [[a/_arising|arising]] when the [[b/_blood|blood]] supply to the [[b/_brain|brain]] is [[s/_suddenly|suddenly]] [[i/_interrupted|interrupted]].**
+- **A [[s/_sudden|sudden]] [[a/_attack|attack]] of [[a/_any|any]] [[d/_disease|disease]], [[e/_especially|especially]] when [[f/_fatal|fatal]]; [[a/_any|any]] [[s/_sudden|sudden]], [[s/_severe|severe]] [[a/_affliction|affliction]] or [[c/_calamity|calamity]].**
 	- _Example: a stroke of apoplexy; the stroke of death_
 - **The [[o/_oar|oar]] [[n/_nearest|nearest]] the [[s/_stern|stern]] of a [[b/_boat|boat]], by which the [[o/_other|other]] [[o/_oars|oars]] are [[g/_guided|guided]].**
 - **The [[r/_rower|rower]] who is [[n/_nearest|nearest]] the [[s/_stern|stern]] of the [[b/_boat|boat]].**

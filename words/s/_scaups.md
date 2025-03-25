@@ -8,7 +8,7 @@
 - **The [[s/_skin|skin]] of the [[h/_head|head]] of a [[s/_stag|stag]] with the [[h/_horns|horns]] [[a/_attached|attached]].**
 - **A victory, [[e/_especially|especially]] at the [[e/_expense|expense]] of [[s/_someone|someone]] [[e/_else|else]].**
 - **A [[b/_bed|bed]] or [[s/_stratum|stratum]] of [[s/_shellfish|shellfish]].**
-- **The top; the summit.**
+- **The top; the [[s/_summit|summit]].**
 ---
 ### Synonyms
 - [[s/_scaup|scaup]], [[s/_skull|skull]], [[s/_summit|summit]]

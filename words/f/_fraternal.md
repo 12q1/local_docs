@@ -1,7 +1,7 @@
 # Fraternal
 ---
 #noun
-- **A [[s/_society|society]] [[f/_formed|formed]] to [[p/_provide|provide]] [[m/_mutual|mutual]] [[a/_aid|aid]], such as [[i/_insurance|insurance]].**
+- **A [[s/_society|society]] [[f/_formed|formed]] to [[p/_provide|provide]] [[m/_mutual|mutual]] [[a/_aid|aid]], [[s/_such|such]] as [[i/_insurance|insurance]].**
 - **A [[f/_fraternal|fraternal]] twin.**
 ---
 #adjective

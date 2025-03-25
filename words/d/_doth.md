@@ -5,7 +5,7 @@
 - **To [[p/_perform|perform]]; to [[e/_execute|execute]].**
 	- _Example: All you ever do is surf the Internet. What will you do this afternoon?_
 - **To [[c/_cause|cause]], [[m/_make|make]] ([[s/_someone|someone]]) ([[d/_do|do]] [[s/_something|something]]).**
-- **To suffice.**
+- **To [[s/_suffice|suffice]].**
 	- _Example: it’s not the best broom, but it will have to do;  this will do me, thanks._
 - **To be [[r/_reasonable|reasonable]] or [[a/_acceptable|acceptable]].**
 	- _Example: It simply will not do to have dozens of children running around such a quiet event._

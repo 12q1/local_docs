@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_plant|plant]] [[d/_disease|disease]] [[m/_marked|marked]] by [[g/_gradual|gradual]] [[d/_decay|decay]].**
-- **A [[r/_region|region]] of [[d/_dead|dead]] [[p/_plant|plant]] tissue [[c/_caused|caused]] by such a [[d/_disease|disease]].**
+- **A [[r/_region|region]] of [[d/_dead|dead]] [[p/_plant|plant]] tissue [[c/_caused|caused]] by [[s/_such|such]] a [[d/_disease|disease]].**
 - **A worm or [[g/_grub|grub]] that [[d/_destroys|destroys]] [[p/_plant|plant]] [[b/_buds|buds]] or [[l/_leaves|leaves]]; [[c/_cankerworm|cankerworm]].**
 - **A [[c/_corroding|corroding]] or [[s/_sloughing|sloughing]] ulcer; [[e/_especially|especially]] a [[s/_spreading|spreading]] [[g/_gangrenous|gangrenous]] ulcer or [[c/_collection|collection]] of ulcers in or [[a/_about|about]] the [[m/_mouth|mouth]].**
 - **[[a/_anything|Anything]] which [[c/_corrodes|corrodes]], [[c/_corrupts|corrupts]], or [[d/_destroys|destroys]].**

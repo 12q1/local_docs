@@ -15,7 +15,7 @@
 ---
 #noun
 - **The [[p/_practice|practice]] of [[l/_living|living]], with [[o/_others|others]], in a [[f/_flat|flat]].**
-- **A type of [[p/_paint|paint]] that [[d/_dries|dries]] with a [[f/_flat|flat]] ([[m/_matt|matt]]) [[f/_finish|finish]]; a [[c/_coating|coating]] of such [[p/_paint|paint]].**
+- **A type of [[p/_paint|paint]] that [[d/_dries|dries]] with a [[f/_flat|flat]] ([[m/_matt|matt]]) [[f/_finish|finish]]; a [[c/_coating|coating]] of [[s/_such|such]] [[p/_paint|paint]].**
 - **The [[p/_process|process]] of [[a/_applying|applying]] a [[c/_coating|coating]] of [[f/_flatting|flatting]] [[p/_paint|paint]].**
 - **A [[f/_flat|flat]] [[p/_part|part]] of [[s/_something|something]], a [[f/_flattening|flattening]].**
 - **The [[p/_process|process]] of [[b/_becoming|becoming]] [[f/_flat|flat]].**

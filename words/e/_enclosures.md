@@ -9,7 +9,7 @@
 	- _Example: He faced punishment for creating the fenced enclosure in a public park._
 - **The [[a/_act|act]] of [[s/_separating|separating]] and surrounding an [[a/_area|area]], [[d/_domain|domain]], or [[a/_amount|amount]] of [[s/_something|something]] with a [[b/_barrier|barrier]].**
 	- _Example: At first, untrained horses resist enclosure._
-- **([[b/_british|British]] [[h/_history|History]]) The [[p/_post|post]]-[[f/_feudal|feudal]] [[p/_process|process]] of subdivision of [[c/_common|common]] [[l/_lands|lands]] for [[i/_individual|individual]] [[o/_ownership|ownership]].**
+- **([[b/_british|British]] [[h/_history|History]]) The [[p/_post|post]]-[[f/_feudal|feudal]] [[p/_process|process]] of [[s/_subdivision|subdivision]] of [[c/_common|common]] [[l/_lands|lands]] for [[i/_individual|individual]] [[o/_ownership|ownership]].**
 	- _Example: Strip-farming disappeared after enclosure._
 - **The [[a/_area|area]] of a [[c/_convent|convent]], [[m/_monastery|monastery]], [[e/_etc|etc]] where [[a/_access|access]] is [[r/_restricted|restricted]] to [[c/_community|community]] [[m/_members|members]].**
 ---

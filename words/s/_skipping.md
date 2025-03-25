@@ -13,7 +13,7 @@
 - **To [[p/_place|place]] an [[i/_item|item]] in a [[s/_skip|skip]].**
 - **Not to [[a/_attend|attend]] ([[s/_some|some]] [[e/_event|event]], [[e/_especially|especially]] a [[c/_class|class]] or a [[m/_meeting|meeting]]).**
 	- _Example: Yeah, I really should go to the quarterly meeting but I think I'm going to skip it._
-- **To [[l/_leave|leave]], [[e/_especially|especially]] in a sudden and [[c/_covert|covert]] [[m/_manner|manner]].**
+- **To [[l/_leave|leave]], [[e/_especially|especially]] in a [[s/_sudden|sudden]] and [[c/_covert|covert]] [[m/_manner|manner]].**
 	- _Example: a customer who skipped town without paying her hotel bill_
 - **To [[l/_leap|leap]] [[l/_lightly|lightly]] [[o/_over|over]].**
 	- _Example: to skip the rope_

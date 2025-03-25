@@ -23,6 +23,6 @@
 	- _Example: The courtier had practiced his bowing._
 - **A [[b/_bending|bending]].**
 	- _Example: The heavy books caused a bowing in the shelf._
-- **A technique for using the [[b/_bow|bow]] on a [[s/_string|string]] [[i/_instrument|instrument]] such as a violin.**
+- **A technique for using the [[b/_bow|bow]] on a [[s/_string|string]] [[i/_instrument|instrument]] [[s/_such|such]] as a violin.**
 ---
 ---

@@ -3,7 +3,7 @@
 #noun
 - **A [[c/_collection|collection]] of [[s/_sheets|sheets]] of [[p/_paper|paper]] [[b/_bound|bound]] together to [[h/_hinge|hinge]] at [[o/_one|one]] [[e/_edge|edge]], [[c/_containing|containing]] [[p/_printed|printed]] or written [[m/_material|material]], [[p/_pictures|pictures]], [[e/_etc|etc]].**
 	- _Example: He was frustrated because he couldn't find anything about dinosaurs in the book._
-- **A [[l/_long|long]] work [[f/_fit|fit]] for [[p/_publication|publication]], typically [[p/_prose|prose]], such as a [[n/_novel|novel]] or textbook, and typically [[p/_published|published]] as such a [[b/_bound|bound]] [[c/_collection|collection]] of [[s/_sheets|sheets]], but [[n/_now|now]] [[s/_sometimes|sometimes]] [[e/_electronically|electronically]] as an [[e/_e|e]]-[[b/_book|book]].**
+- **A [[l/_long|long]] work [[f/_fit|fit]] for [[p/_publication|publication]], typically [[p/_prose|prose]], [[s/_such|such]] as a [[n/_novel|novel]] or textbook, and typically [[p/_published|published]] as [[s/_such|such]] a [[b/_bound|bound]] [[c/_collection|collection]] of [[s/_sheets|sheets]], but [[n/_now|now]] [[s/_sometimes|sometimes]] [[e/_electronically|electronically]] as an [[e/_e|e]]-[[b/_book|book]].**
 	- _Example: I have three copies of his first book._
 - **A [[m/_major|major]] [[d/_division|division]] of a [[l/_long|long]] work.**
 	- _Example: Genesis is the first book of the Bible._

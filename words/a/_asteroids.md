@@ -5,6 +5,6 @@
 ---
 #noun
 - **A [[n/_naturally|naturally]] [[o/_occurring|occurring]] [[s/_solid|solid]] [[o/_object|object]], which is [[s/_smaller|smaller]] than a [[p/_planet|planet]] and is not a [[c/_comet|comet]], that [[o/_orbits|orbits]] a [[s/_star|star]]**
-- **In the [[s/_solar|Solar]] [[s/_system|system]], such a [[b/_body|body]] that [[o/_orbits|orbits]] within the [[o/_orbit|orbit]] of [[j/_jupiter|Jupiter]]**
+- **In the [[s/_solar|Solar]] [[s/_system|system]], [[s/_such|such]] a [[b/_body|body]] that [[o/_orbits|orbits]] within the [[o/_orbit|orbit]] of [[j/_jupiter|Jupiter]]**
 ---
 ---

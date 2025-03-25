@@ -8,7 +8,7 @@
 	- _Example: You'll need to focus the microscope carefully in order to capture the full detail of this surface._
 - **To [[c/_concentrate|concentrate]] [[o/_one|one]]’[[s/_s|s]] [[a/_attention|attention]].**
 	- _Example: If you're going to beat your competitors, you need to focus._
-- **To transfer the [[i/_input|input]] [[f/_focus|focus]] to (a visual [[e/_element|element]]), [[s/_so|so]] that it [[r/_receives|receives]] subsequent [[i/_input|input]].**
+- **To transfer the [[i/_input|input]] [[f/_focus|focus]] to (a visual [[e/_element|element]]), [[s/_so|so]] that it [[r/_receives|receives]] [[s/_subsequent|subsequent]] [[i/_input|input]].**
 	- _Example: The text box won't receive the user's keystrokes unless you explicitly focus it._
 ---
 #noun

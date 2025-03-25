@@ -32,7 +32,7 @@
 - **[[p/_possessing|Possessing]] [[k/_knowledge|knowledge]] or understanding; [[i/_intelligent|intelligent]].**
 - **[[s/_shrewd|Shrewd]] or [[s/_showing|showing]] [[c/_clever|clever]] [[a/_awareness|awareness]].**
 	- _Example: a knowing rascal_
-- **Suggestive of [[p/_private|private]] [[k/_knowledge|knowledge]].**
+- **[[s/_suggestive|Suggestive]] of [[p/_private|private]] [[k/_knowledge|knowledge]].**
 - **[[d/_deliberate|Deliberate]]**
 ---
 ---

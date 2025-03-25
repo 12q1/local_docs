@@ -1,6 +1,6 @@
 # Grumpish
 ---
 #adjective
-- **Surly; sullen; [[g/_gruff|gruff]]; [[g/_grumpy|grumpy]]**
+- **Surly; [[s/_sullen|sullen]]; [[g/_gruff|gruff]]; [[g/_grumpy|grumpy]]**
 ---
 ---

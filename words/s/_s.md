@@ -10,7 +10,7 @@
 ### Synonyms
 - [[s/_s.ap.|s.ap.]]
 #noun
-- **[[e/_each|Each]] of the [[f/_four|four]] [[d/_divisions|divisions]] of a [[y/_year|year]]: [[s/_spring|spring]], summer, [[a/_autumn|autumn]] ([[f/_fall|fall]]) and winter**
+- **[[e/_each|Each]] of the [[f/_four|four]] [[d/_divisions|divisions]] of a [[y/_year|year]]: [[s/_spring|spring]], [[s/_summer|summer]], [[a/_autumn|autumn]] ([[f/_fall|fall]]) and winter**
 - **A [[p/_part|part]] of a [[y/_year|year]] when [[s/_something|something]] [[p/_particular|particular]] [[h/_happens|happens]]**
 	- _Example: mating season_
 - **That which [[g/_gives|gives]] [[r/_relish|relish]]; [[s/_seasoning|seasoning]].**

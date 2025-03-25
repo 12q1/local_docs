@@ -1,6 +1,6 @@
 # Electrotyped
 ---
 #verb
-- **To [[m/_make|make]] such a [[p/_plate|plate]]**
+- **To [[m/_make|make]] [[s/_such|such]] a [[p/_plate|plate]]**
 ---
 ---

@@ -14,7 +14,7 @@
 - **A [[p/_piece|piece]] of [[m/_metal|metal]] type used to [[p/_print|print]] [[o/_one|one]] [[l/_letter|letter]], [[c/_character|character]], or [[s/_symbol|symbol]] in a [[p/_particular|particular]] [[s/_size|size]] and [[s/_style|style]].**
 - **A type.**
 - **[[c/_chance|Chance]]; [[l/_lot|lot]]; [[d/_destiny|destiny]].**
-- **A [[f/_full|full]] [[s/_set|set]] of [[a/_anything|anything]], such as a [[p/_pair|pair]] of [[s/_shoes|shoes]], or a suit of [[c/_clothes|clothes]].**
+- **A [[f/_full|full]] [[s/_set|set]] of [[a/_anything|anything]], [[s/_such|such]] as a [[p/_pair|pair]] of [[s/_shoes|shoes]], or a [[s/_suit|suit]] of [[c/_clothes|clothes]].**
 ---
 ### Synonyms
 - [[s/_sort-out|sort-out]], [[a/_algorithm|algorithm]], [[c/_character|character]], [[i/_individual|individual]], [[p/_person|person]], [[t/_type|type]], [[g/_genre|genre]], [[g/_genus|genus]], [[k/_kind|kind]], [[t/_type|type]], [[v/_variety|variety]], [[g/_glyph|glyph]], [[t/_type|type]]

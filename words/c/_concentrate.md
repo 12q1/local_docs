@@ -1,7 +1,7 @@
 # Concentrate
 ---
 #noun
-- **A substance that is in a [[c/_condensed|condensed]] [[f/_form|form]].**
+- **A [[s/_substance|substance]] that is in a [[c/_condensed|condensed]] [[f/_form|form]].**
 ---
 #verb
 - **To [[b/_bring|bring]] to, or [[d/_direct|direct]] toward, a [[c/_common|common]] [[c/_center|center]]; to unite [[m/_more|more]] [[c/_closely|closely]]; to [[g/_gather|gather]] [[i/_into|into]] [[o/_one|one]] [[b/_body|body]], [[m/_mass|mass]], or [[f/_force|force]].**

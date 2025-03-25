@@ -6,7 +6,7 @@
 - **The [[p/_production|production]] of a thin [[f/_film|film]] of [[m/_material|material]] [[o/_onto|onto]] an [[e/_existing|existing]] surface.**
 - **The [[p/_process|process]] of taking sworn testimony [[o/_out|out]] of [[c/_court|court]]; the testimony [[s/_so|so]] taken.**
 - **The [[f/_formation|formation]] of [[s/_snow|snow]] or [[f/_frost|frost]] [[d/_directly|directly]] from water vapor.**
-- **The transformation of a [[g/_gas|gas]] [[i/_into|into]] a [[s/_solid|solid]] without an [[i/_intermediate|intermediate]] [[l/_liquid|liquid]] [[p/_phase|phase]] ([[r/_reverse|reverse]] of sublimation)**
+- **The transformation of a [[g/_gas|gas]] [[i/_into|into]] a [[s/_solid|solid]] without an [[i/_intermediate|intermediate]] [[l/_liquid|liquid]] [[p/_phase|phase]] ([[r/_reverse|reverse]] of [[s/_sublimation|sublimation]])**
 - **The [[f/_formal|formal]] [[p/_placement|placement]] of [[r/_relics|relics]] in a [[c/_church|church]] or [[s/_shrine|shrine]], and the [[f/_feast|feast]] [[d/_day|day]] [[c/_commemorating|commemorating]] it.**
 ---
 ### Synonyms

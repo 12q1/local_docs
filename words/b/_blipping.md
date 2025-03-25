@@ -8,6 +8,6 @@
 ### Synonyms
 - [[b/_blip|blip]]
 #verb
-- **To [[c/_change|change]] [[s/_state|state]] [[a/_abruptly|abruptly]], such as [[b/_between|between]] [[o/_off|off]] and on or [[d/_dark|dark]] and [[l/_light|light]], [[s/_sometimes|sometimes]] [[i/_implying|implying]] [[m/_motion|motion]].**
+- **To [[c/_change|change]] [[s/_state|state]] [[a/_abruptly|abruptly]], [[s/_such|such]] as [[b/_between|between]] [[o/_off|off]] and on or [[d/_dark|dark]] and [[l/_light|light]], [[s/_sometimes|sometimes]] [[i/_implying|implying]] [[m/_motion|motion]].**
 ---
 ---

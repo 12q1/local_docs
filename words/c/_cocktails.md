@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[m/_mixed|mixed]] [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]].**
-- **A [[m/_mixture|mixture]] of [[o/_other|other]] substances or things.**
+- **A [[m/_mixture|mixture]] of [[o/_other|other]] [[s/_substances|substances]] or things.**
 	- _Example: Scientists found a cocktail of pollutants in the river downstream from the chemical factory._
 - **A [[h/_horse|horse]], not of [[p/_pure|pure]] [[b/_breed|breed]], but [[h/_having|having]] [[o/_only|only]] [[o/_one|one]] [[e/_eighth|eighth]] or [[o/_one|one]] [[s/_sixteenth|sixteenth]] [[i/_impure|impure]] [[b/_blood|blood]] in [[i/_its|its]] veins.**
 - **A [[m/_mean|mean]], [[h/_half|half]]-[[h/_hearted|hearted]] [[f/_fellow|fellow]]; a [[c/_coward|coward]].**

@@ -1,7 +1,7 @@
 # Experimental
 ---
 #noun
-- **The subject of an [[e/_experiment|experiment]].**
+- **The [[s/_subject|subject]] of an [[e/_experiment|experiment]].**
 ---
 #adjective
 - **[[p/_pertaining|Pertaining]] to or [[f/_founded|founded]] on [[e/_experiment|experiment]].**

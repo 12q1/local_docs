@@ -22,12 +22,12 @@
 	- _Example: That routine should not have used an int; it should be a float._
 - **A [[s/_soft|soft]] [[b/_beverage|beverage]] with a [[s/_scoop|scoop]] of [[i/_ice|ice]]-[[c/_cream|cream]] [[f/_floating|floating]] in it.**
 	- _Example: It's true - I don't consider anything other than root-beer with vanilla ice-cream to be a "real" float._
-- **A [[s/_small|small]] sum of [[m/_money|money]] [[p/_put|put]] in a [[c/_cashier|cashier]]'[[s/_s|s]] till at the [[s/_start|start]] of [[b/_business|business]] to [[e/_enable|enable]] [[c/_change|change]] to be [[m/_made|made]].**
-- **A [[m/_maneuver|maneuver]] where a [[p/_player|player]] [[c/_calls|calls]] on the [[f/_flop|flop]] or turn with a weak [[h/_hand|hand]], with the [[i/_intention|intention]] of [[b/_bluffing|bluffing]] [[a/_after|after]] a subsequent [[c/_community|community]] [[c/_card|card]].**
+- **A [[s/_small|small]] [[s/_sum|sum]] of [[m/_money|money]] [[p/_put|put]] in a [[c/_cashier|cashier]]'[[s/_s|s]] till at the [[s/_start|start]] of [[b/_business|business]] to [[e/_enable|enable]] [[c/_change|change]] to be [[m/_made|made]].**
+- **A [[m/_maneuver|maneuver]] where a [[p/_player|player]] [[c/_calls|calls]] on the [[f/_flop|flop]] or turn with a weak [[h/_hand|hand]], with the [[i/_intention|intention]] of [[b/_bluffing|bluffing]] [[a/_after|after]] a [[s/_subsequent|subsequent]] [[c/_community|community]] [[c/_card|card]].**
 - **[[o/_one|One]] of the [[l/_loose|loose]] [[e/_ends|ends]] of [[y/_yarn|yarn]] on an unfinished work.**
 - **A [[c/_car|car]] [[c/_carrier|carrier]] or [[c/_car|car]] transporter truck or truck-and-trailer [[c/_combination|combination]]**
 - **A [[l/_lowboy|lowboy]] trailer**
-- **(tempering) A [[d/_device|device]] [[s/_sending|sending]] a [[c/_copious|copious]] [[s/_stream|stream]] of water to the [[h/_heated|heated]] surface of a [[b/_bulky|bulky]] [[o/_object|object]], such as an [[a/_anvil|anvil]] or [[d/_die|die]].**
+- **(tempering) A [[d/_device|device]] [[s/_sending|sending]] a [[c/_copious|copious]] [[s/_stream|stream]] of water to the [[h/_heated|heated]] surface of a [[b/_bulky|bulky]] [[o/_object|object]], [[s/_such|such]] as an [[a/_anvil|anvil]] or [[d/_die|die]].**
 - **The [[a/_act|act]] of [[f/_flowing|flowing]]; [[f/_flux|flux]]; [[f/_flow|flow]].**
 - **A [[q/_quantity|quantity]] of [[e/_earth|earth]], [[e/_eighteen|eighteen]] [[f/_feet|feet]] [[s/_square|square]] and [[o/_one|one]] [[f/_foot|foot]] [[d/_deep|deep]].**
 - **A [[p/_polishing|polishing]] [[b/_block|block]] used in [[m/_marble|marble]] working; a [[r/_runner|runner]].**
@@ -38,7 +38,7 @@
 ### Synonyms
 - 
 #verb
-- **Of an [[o/_object|object]] or substance, to be supported by a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]] than the [[o/_object|object]] [[s/_so|so]] as that [[p/_part|part]] of the [[o/_object|object]] or substance [[r/_remains|remains]] [[a/_above|above]] the surface.**
+- **Of an [[o/_object|object]] or [[s/_substance|substance]], to be supported by a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]] than the [[o/_object|object]] [[s/_so|so]] as that [[p/_part|part]] of the [[o/_object|object]] or [[s/_substance|substance]] [[r/_remains|remains]] [[a/_above|above]] the surface.**
 	- _Example: The boat floated on the water._
 - **To [[c/_cause|cause]] [[s/_something|something]] to be suspended in a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]].**
 	- _Example: to float a boat_

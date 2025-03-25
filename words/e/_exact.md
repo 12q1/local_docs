@@ -13,7 +13,7 @@
 - **[[h/_habitually|Habitually]] [[c/_careful|careful]] to [[a/_agree|agree]] with a [[s/_standard|standard]], a [[r/_rule|rule]], or a [[p/_promise|promise]]; [[a/_accurate|accurate]]; [[m/_methodical|methodical]]; [[p/_punctual|punctual]].**
 	- _Example: In my doings I was exact._
 - **[[p/_precisely|Precisely]] or [[d/_definitely|definitely]] [[c/_conceived|conceived]] or [[s/_stated|stated]]; [[s/_strict|strict]].**
-- **(of a [[s/_sequence|sequence]] of [[g/_groups|groups]] [[c/_connected|connected]] by [[h/_homomorphisms|homomorphisms]]) Such that the [[k/_kernel|kernel]] of [[o/_one|one]] [[h/_homomorphism|homomorphism]] is the [[i/_image|image]] of the [[p/_preceding|preceding]] [[o/_one|one]].**
+- **(of a [[s/_sequence|sequence]] of [[g/_groups|groups]] [[c/_connected|connected]] by [[h/_homomorphisms|homomorphisms]]) [[s/_such|Such]] that the [[k/_kernel|kernel]] of [[o/_one|one]] [[h/_homomorphism|homomorphism]] is the [[i/_image|image]] of the [[p/_preceding|preceding]] [[o/_one|one]].**
 ---
 ### Synonyms
 - [[c/_correct|correct]], [[p/_perfect|perfect]], [[p/_precise|precise]], [[t/_true|true]], [[s/_strict|strict]]

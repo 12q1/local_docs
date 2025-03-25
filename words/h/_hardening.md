@@ -12,6 +12,6 @@
 - [[i/_inure|inure]]
 #noun
 - **The [[p/_process|process]] by which [[s/_something|something]] [[h/_hardens|hardens]].**
-- **That which [[h/_hardens|hardens]], such as a [[m/_material|material]] used for [[c/_converting|converting]] the surface of [[i/_iron|iron]] [[i/_into|into]] [[s/_steel|steel]].**
+- **That which [[h/_hardens|hardens]], [[s/_such|such]] as a [[m/_material|material]] used for [[c/_converting|converting]] the surface of [[i/_iron|iron]] [[i/_into|into]] [[s/_steel|steel]].**
 ---
 ---

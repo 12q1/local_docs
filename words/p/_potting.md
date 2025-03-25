@@ -13,7 +13,7 @@
 - **To [[s/_secure|secure]]; [[g/_gain|gain]]; win; [[b/_bag|bag]].**
 - **To [[s/_send|send]] [[s/_someone|someone]] to [[g/_gaol|gaol]], [[e/_expeditiously|expeditiously]].**
 - **To tipple; to [[d/_drink|drink]].**
-- **To [[d/_drain|drain]] ([[e/_e|e]].[[g/_g|g]]. sugar of the [[m/_molasses|molasses]]) in a [[p/_perforated|perforated]] [[c/_cask|cask]].**
+- **To [[d/_drain|drain]] ([[e/_e|e]].[[g/_g|g]]. [[s/_sugar|sugar]] of the [[m/_molasses|molasses]]) in a [[p/_perforated|perforated]] [[c/_cask|cask]].**
 - **To [[s/_seat|seat]] a [[p/_person|person]], usually a [[y/_young|young]] [[c/_child|child]], on a [[p/_potty|potty]] or toilet, typically [[d/_during|during]] toilet teaching.**
 - **To [[a/_apply|apply]] a [[p/_plaster|plaster]] [[c/_cast|cast]] to a [[b/_broken|broken]] [[l/_limb|limb]].**
 ---

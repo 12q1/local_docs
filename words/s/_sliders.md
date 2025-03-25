@@ -11,9 +11,9 @@
 - **The [[a/_act|act]] of [[s/_sliding|sliding]]; [[s/_smooth|smooth]], [[e/_even|even]] [[p/_passage|passage]] or [[p/_progress|progress]].**
 	- _Example: a slide on the ice_
 - **A [[l/_lever|lever]] that [[c/_can|can]] be [[m/_moved|moved]] in two [[d/_directions|directions]].**
-- **A valve that works by [[s/_sliding|sliding]], such as in a trombone.**
+- **A valve that works by [[s/_sliding|sliding]], [[s/_such|such]] as in a trombone.**
 - **A transparent [[p/_plate|plate]] [[b/_bearing|bearing]] an [[i/_image|image]] to be [[p/_projected|projected]] to a [[s/_screen|screen]].**
-- **(by [[e/_extension|extension]]) A [[p/_page|page]] of a [[c/_computer|computer]] [[p/_presentation|presentation]] [[p/_package|package]] such as PowerPoint.**
+- **(by [[e/_extension|extension]]) A [[p/_page|page]] of a [[c/_computer|computer]] [[p/_presentation|presentation]] [[p/_package|package]] [[s/_such|such]] as PowerPoint.**
 	- _Example: I still need to prepare some slides for my presentation tomorrow._
 - **A [[f/_flat|flat]], usually [[r/_rectangular|rectangular]] [[p/_piece|piece]] of [[g/_glass|glass]] or [[s/_similar|similar]] [[m/_material|material]] on which a [[p/_prepared|prepared]] [[s/_sample|sample]] [[m/_may|may]] be viewed through a [[m/_microscope|microscope]] [[g/_generally|Generally]] [[r/_referred|referred]] to as a [[m/_microscope|microscope]] [[s/_slide|slide]].**
 - **The [[a/_act|act]] of [[d/_dropping|dropping]] [[d/_down|down]] and [[s/_skidding|skidding]] [[i/_into|into]] a [[b/_base|base]]**

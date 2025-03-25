@@ -5,7 +5,7 @@
 	- _Example: The youth group organises annual residentials._
 ---
 #adjective
-- **Of or [[p/_pertaining|pertaining]] to a [[p/_place|place]] of [[p/_personal|personal]] [[r/_residence|residence]] or to a [[l/_location|location]] for such [[p/_places|places]].**
+- **Of or [[p/_pertaining|pertaining]] to a [[p/_place|place]] of [[p/_personal|personal]] [[r/_residence|residence]] or to a [[l/_location|location]] for [[s/_such|such]] [[p/_places|places]].**
 	- _Example: They live in a residential neighborhood._
 - **Used as a [[r/_residence|residence]] or by [[r/_residents|residents]].**
 - **Of or [[p/_pertaining|pertaining]] to [[r/_residency|residency]].**

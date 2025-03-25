@@ -23,7 +23,7 @@
 - [[h/_hustle|hustle]], [[p/_prostitute|prostitute]]
 #adjective
 - **Worthless, [[c/_contemptible|contemptible]], [[p/_particularly|particularly]]**
-- **Of or [[c/_concerning|concerning]] [[p/_punk|punk]] [[r/_rock|rock]] or [[i/_its|its]] [[a/_associated|associated]] subculture.**
+- **Of or [[c/_concerning|concerning]] [[p/_punk|punk]] [[r/_rock|rock]] or [[i/_its|its]] [[a/_associated|associated]] [[s/_subculture|subculture]].**
 	- _Example: You look very punk with your t-shirt, piercing, and chains._
 ---
 ---

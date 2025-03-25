@@ -10,13 +10,13 @@
 - **To train (a [[g/_gun|gun]]) for [[h/_horizontal|horizontal]] [[f/_firing|firing]].**
 - **To [[s/_square|square]].**
 	- _Example: quadrating the circle_
-- **To [[s/_square|square]]; to [[a/_agree|agree]]; to suit; to [[c/_correspond|correspond]] (with).**
+- **To [[s/_square|square]]; to [[a/_agree|agree]]; to [[s/_suit|suit]]; to [[c/_correspond|correspond]] (with).**
 	- _Example: not quadrating with American ideas of right, justice and reason_
 ---
 #adjective
 - **[[h/_having|Having]] [[f/_four|four]] [[e/_equal|equal]] [[s/_sides|sides]], the [[o/_opposite|opposite]] [[s/_sides|sides]] [[p/_parallel|parallel]], and [[f/_four|four]] [[r/_right|right]] [[a/_angles|angles]]; [[s/_square|square]].**
 - **[[p/_produced|Produced]] by [[m/_multiplying|multiplying]] a [[n/_number|number]] by [[i/_itself|itself]]; [[s/_square|square]].**
 - **[[s/_square|Square]]; [[e/_even|even]]; [[b/_balanced|balanced]]; [[e/_equal|equal]]; [[e/_exact|exact]].**
-- **[[s/_squared|Squared]]; suited; [[c/_correspondent|correspondent]].**
+- **[[s/_squared|Squared]]; [[s/_suited|suited]]; [[c/_correspondent|correspondent]].**
 ---
 ---

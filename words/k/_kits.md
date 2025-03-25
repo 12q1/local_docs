@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_circular|circular]] wooden vessel, [[m/_made|made]] of [[h/_hooped|hooped]] [[s/_staves|staves]].**
-- **A [[k/_kind|kind]] of [[b/_basket|basket]] [[m/_made|made]] [[e/_especially|especially]] from [[s/_straw|straw]] of [[r/_rushes|rushes]], [[e/_especially|especially]] for [[h/_holding|holding]] [[f/_fish|fish]]; by [[e/_extension|extension]], the [[c/_contents|contents]] of such a [[b/_basket|basket]] or [[s/_similar|similar]] [[c/_container|container]], used as a [[m/_measure|measure]] of weight.**
+- **A [[k/_kind|kind]] of [[b/_basket|basket]] [[m/_made|made]] [[e/_especially|especially]] from [[s/_straw|straw]] of [[r/_rushes|rushes]], [[e/_especially|especially]] for [[h/_holding|holding]] [[f/_fish|fish]]; by [[e/_extension|extension]], the [[c/_contents|contents]] of [[s/_such|such]] a [[b/_basket|basket]] or [[s/_similar|similar]] [[c/_container|container]], used as a [[m/_measure|measure]] of weight.**
 	- _Example: 1961 18 Jan, Guardian (cited after OED):_
 - **A [[c/_collection|collection]] of [[i/_items|items]] [[f/_forming|forming]] the [[e/_equipment|equipment]] of a [[s/_soldier|soldier]], [[c/_carried|carried]] in a [[k/_knapsack|knapsack]].**
 - **[[a/_any|Any]] [[c/_collection|collection]] of [[i/_items|items]] [[n/_needed|needed]] for a [[s/_specific|specific]] [[p/_purpose|purpose]], [[e/_especially|especially]] for use by a workman, or [[p/_personal|personal]] [[e/_effects|effects]] [[p/_packed|packed]] for travelling.**

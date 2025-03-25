@@ -7,7 +7,7 @@
 - **To [[p/_purify|purify]] of [[c/_coarseness|coarseness]], vulgarity, [[i/_inelegance|inelegance]], [[e/_etc|etc]].; to [[p/_polish|polish]].**
 	- _Example: a refined style_
 - **To [[i/_improve|improve]] in [[a/_accuracy|accuracy]], [[d/_delicacy|delicacy]], or [[e/_excellence|excellence]].**
-- **To [[m/_make|make]] [[n/_nice|nice]] or subtle.**
+- **To [[m/_make|make]] [[n/_nice|nice]] or [[s/_subtle|subtle]].**
 	- _Example: to refine someone's language_
 ---
 ---

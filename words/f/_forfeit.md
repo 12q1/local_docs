@@ -8,7 +8,7 @@
 - **[[i/_injury|Injury]]; wrong; [[m/_mischief|mischief]].**
 ---
 #verb
-- **To suffer the [[l/_loss|loss]] of [[s/_something|something]] by wrongdoing or [[n/_non|non]]-[[c/_compliance|compliance]]**
+- **To [[s/_suffer|suffer]] the [[l/_loss|loss]] of [[s/_something|something]] by wrongdoing or [[n/_non|non]]-[[c/_compliance|compliance]]**
 	- _Example: He forfeited his last chance of an early release from jail by repeatedly attacking another inmate._
 - **To [[l/_lose|lose]] a [[c/_contest|contest]], [[g/_game|game]], [[m/_match|match]], or [[o/_other|other]] [[f/_form|form]] of [[c/_competition|competition]] by voluntary withdrawal, by [[f/_failing|failing]] to [[a/_attend|attend]] or [[p/_participate|participate]], or by violation of the [[r/_rules|rules]]**
 	- _Example: Because only nine players were present, the football team was forced to forfeit the game._

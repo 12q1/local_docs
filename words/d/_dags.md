@@ -27,7 +27,7 @@
 ### Synonyms
 - [[d/_dirtball|dirtball]], [[s/_scruffbag|scruffbag]], [[s/_slob|slob]]
 #noun
-- **A [[d/_directed|directed]] [[a/_acyclic|acyclic]] [[g/_graph|graph]]; an [[o/_ordered|ordered]] [[p/_pair|pair]] (V, [[e/_e|E]]) such that [[e/_e|E]] is a subset of [[s/_some|some]] [[p/_partial|partial]] [[o/_ordering|ordering]] [[r/_relation|relation]] on V.**
+- **A [[d/_directed|directed]] [[a/_acyclic|acyclic]] [[g/_graph|graph]]; an [[o/_ordered|ordered]] [[p/_pair|pair]] (V, [[e/_e|E]]) [[s/_such|such]] that [[e/_e|E]] is a [[s/_subset|subset]] of [[s/_some|some]] [[p/_partial|partial]] [[o/_ordering|ordering]] [[r/_relation|relation]] on V.**
 ---
 #noun
 - **A [[m/_misty|misty]] [[s/_shower|shower]]; [[d/_dew|dew]].**

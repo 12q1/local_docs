@@ -10,7 +10,7 @@
 - **([[n/_now|now]] [[r/_rare|rare]]) To [[c/_conduct|conduct]]; to [[b/_behave|behave]]; to [[c/_comport|comport]]; [[f/_followed|followed]] by the [[r/_reflexive|reflexive]] [[p/_pronoun|pronoun]].**
 ---
 #verb
-- **To subtract the [[m/_mean|mean]] from (a value, or [[e/_every|every]] [[o/_observation|observation]] in a [[d/_dataset|dataset]]).**
+- **To [[s/_subtract|subtract]] the [[m/_mean|mean]] from (a value, or [[e/_every|every]] [[o/_observation|observation]] in a [[d/_dataset|dataset]]).**
 ---
 #adjective
 - **[[d/_degrading|Degrading]]; that [[d/_degrades|degrades]]**

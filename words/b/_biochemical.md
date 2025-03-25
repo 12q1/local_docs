@@ -1,7 +1,7 @@
 # Biochemical
 ---
 #noun
-- **A [[c/_chemical|chemical]] substance [[d/_derived|derived]] from a [[b/_biological|biological]] [[s/_source|source]]**
+- **A [[c/_chemical|chemical]] [[s/_substance|substance]] [[d/_derived|derived]] from a [[b/_biological|biological]] [[s/_source|source]]**
 ---
 #adjective
 - **Of, or [[r/_relating|relating]] to [[b/_biochemistry|biochemistry]]**

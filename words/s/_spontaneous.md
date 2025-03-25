@@ -9,7 +9,7 @@
 - **[[c/_controlled|Controlled]] and [[d/_directed|directed]] [[i/_internally|internally]]; [[s/_self|self]]-[[a/_active|active]]; [[s/_spontaneous|spontaneous]] [[m/_movement|movement]] [[c/_characteristic|characteristic]] of [[l/_living|living]] things**
 - **[[p/_produced|Produced]] without [[b/_being|being]] [[p/_planted|planted]] or without [[h/_human|human]] [[c/_cultivation|cultivation]] or [[l/_labor|labor]].**
 - **[[r/_random|Random]].**
-- **Sudden, without warning.**
+- **[[s/_sudden|Sudden]], without warning.**
 ---
 ### Synonyms
 - [[a/_autonomous|autonomous]], [[a/_autonomous|autonomous]], [[a/_autonomous|autonomous]], [[a/_abrupt|abrupt]], [[p/_precipitous|precipitous]], [[s/_subitaneous|subitaneous]]

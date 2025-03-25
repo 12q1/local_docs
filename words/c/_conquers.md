@@ -1,7 +1,7 @@
 # Conquers
 ---
 #verb
-- **To [[d/_defeat|defeat]] in [[c/_combat|combat]]; to subjugate.**
+- **To [[d/_defeat|defeat]] in [[c/_combat|combat]]; to [[s/_subjugate|subjugate]].**
 - **To [[a/_acquire|acquire]] by [[f/_force|force]] of [[a/_arms|arms]], win in war.**
 	- _Example: In 1453, the Ottoman Empire conquered Istanbul._
 - **To [[o/_overcome|overcome]] an [[a/_abstract|abstract]] [[o/_obstacle|obstacle]].**

@@ -1,7 +1,7 @@
 # Segued
 ---
 #verb
-- **To [[m/_move|move]] [[s/_smoothly|smoothly]] from [[o/_one|one]] [[s/_state|state]] or subject to [[a/_another|another]].**
+- **To [[m/_move|move]] [[s/_smoothly|smoothly]] from [[o/_one|one]] [[s/_state|state]] or [[s/_subject|subject]] to [[a/_another|another]].**
 	- _Example: I can tell she’s going to segue from our conversation about school to the topic of marriage._
 - **To [[m/_make|make]] a [[s/_smooth|smooth]] transition from [[o/_one|one]] theme to [[a/_another|another]].**
 	- _Example: Beethoven’s symphonies effortlessly segue from one theme to the next._

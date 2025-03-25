@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[s/_size|size]] of type [[b/_between|between]] [[n/_norse|Norse]] and [[b/_brilliant|brilliant]], [[s/_standardized|standardized]] as 3-[[p/_point|point]].**
-- **[[s/_stuffing|Stuffing]] [[m/_material|material]] (as for [[f/_furniture|furniture]] and [[m/_mattresses|mattresses]]) [[m/_made|made]] of [[s/_slender|slender]], [[c/_curled|curled]] wood [[s/_shavings|shavings]], as a substitute for [[h/_hair|hair]].**
+- **[[s/_stuffing|Stuffing]] [[m/_material|material]] (as for [[f/_furniture|furniture]] and [[m/_mattresses|mattresses]]) [[m/_made|made]] of [[s/_slender|slender]], [[c/_curled|curled]] wood [[s/_shavings|shavings]], as a [[s/_substitute|substitute]] for [[h/_hair|hair]].**
 ---
 ### Synonyms
 - [[m/_minikin|minikin]]

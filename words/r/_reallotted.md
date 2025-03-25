@@ -1,6 +1,6 @@
 # Reallotted
 ---
 #verb
-- **To [[a/_allot|allot]] for a [[s/_second|second]] or subsequent time**
+- **To [[a/_allot|allot]] for a [[s/_second|second]] or [[s/_subsequent|subsequent]] time**
 ---
 ---

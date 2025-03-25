@@ -1,7 +1,7 @@
 # Chimaera
 ---
 #noun
-- **A [[c/_cartilaginous|cartilaginous]] [[m/_marine|marine]] [[f/_fish|fish]] in the subclass [[h/_holocephali|Holocephali]] and [[e/_especially|especially]] the [[o/_order|order]] Chimaeriformes, with a [[b/_blunt|blunt]] [[s/_snout|snout]], [[l/_long|long]] tail, and a [[s/_spine|spine]] [[b/_before|before]] the [[f/_first|first]] [[d/_dorsal|dorsal]] [[f/_fin|fin]]**
+- **A [[c/_cartilaginous|cartilaginous]] [[m/_marine|marine]] [[f/_fish|fish]] in the [[s/_subclass|subclass]] [[h/_holocephali|Holocephali]] and [[e/_especially|especially]] the [[o/_order|order]] Chimaeriformes, with a [[b/_blunt|blunt]] [[s/_snout|snout]], [[l/_long|long]] tail, and a [[s/_spine|spine]] [[b/_before|before]] the [[f/_first|first]] [[d/_dorsal|dorsal]] [[f/_fin|fin]]**
 ---
 #noun
 - **[[a/_alternative|Alternative]] [[l/_letter|letter]]-[[c/_case|case]] [[f/_form|form]] of [[c/_chimera|Chimera]] (a [[f/_flame|flame]]-[[s/_spewing|spewing]] [[m/_monster|monster]] [[o/_often|often]] [[r/_represented|represented]] as [[h/_having|having]] two [[h/_heads|heads]], [[o/_one|one]] of a [[g/_goat|goat]] and the [[o/_other|other]] of a [[l/_lion|lion]]; the [[b/_body|body]] of a [[g/_goat|goat]]; and a [[s/_serpent|serpent]] as a tail).**
@@ -11,7 +11,7 @@
 - **A [[f/_foolish|foolish]], [[i/_incongruous|incongruous]], or vain thought or [[p/_product|product]] of the [[i/_imagination|imagination]].**
 - **A [[g/_grotesque|grotesque]] [[l/_like|like]] a [[g/_gargoyle|gargoyle]], but without a [[s/_spout|spout]] for [[r/_rainwater|rainwater]].**
 - **An [[o/_organism|organism]] with [[g/_genetically|genetically]] [[d/_distinct|distinct]] [[c/_cells|cells]] [[o/_originating|originating]] from two or [[m/_more|more]] zygotes.**
-- **Usually [[c/_chimaera|chimaera]]: a [[c/_cartilaginous|cartilaginous]] [[m/_marine|marine]] [[f/_fish|fish]] in the subclass [[h/_holocephali|Holocephali]] and [[e/_especially|especially]] the [[o/_order|order]] Chimaeriformes, with a [[b/_blunt|blunt]] [[s/_snout|snout]], [[l/_long|long]] tail, and a [[s/_spine|spine]] [[b/_before|before]] the [[f/_first|first]] [[d/_dorsal|dorsal]] [[f/_fin|fin]].**
+- **Usually [[c/_chimaera|chimaera]]: a [[c/_cartilaginous|cartilaginous]] [[m/_marine|marine]] [[f/_fish|fish]] in the [[s/_subclass|subclass]] [[h/_holocephali|Holocephali]] and [[e/_especially|especially]] the [[o/_order|order]] Chimaeriformes, with a [[b/_blunt|blunt]] [[s/_snout|snout]], [[l/_long|long]] tail, and a [[s/_spine|spine]] [[b/_before|before]] the [[f/_first|first]] [[d/_dorsal|dorsal]] [[f/_fin|fin]].**
 ---
 ### Synonyms
 - [[r/_rabbitfish|rabbitfish]], [[r/_ratfish|ratfish]]

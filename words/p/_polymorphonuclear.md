@@ -1,7 +1,7 @@
 # Polymorphonuclear
 ---
 #noun
-- **Such a [[l/_leucocyte|leucocyte]]; a [[n/_neutrophil|neutrophil]]**
+- **[[s/_such|Such]] a [[l/_leucocyte|leucocyte]]; a [[n/_neutrophil|neutrophil]]**
 ---
 ### Synonyms
 - [[P/_PMN|PMN]]

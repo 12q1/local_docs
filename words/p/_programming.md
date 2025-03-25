@@ -16,7 +16,7 @@
 - **[[b/_brain|Brain]]-washing**
 - **The [[a/_act|act]] of writing a [[c/_computer|computer]] [[p/_program|program]].**
 	- _Example: Management wanted to know how much programming the project would need._
-- **The [[s/_software|software]] that [[c/_controls|controls]] a [[m/_machine|machine]], or the [[l/_logic|logic]] [[e/_expressed|expressed]] in such [[s/_software|software]]; [[o/_operating|operating]] [[i/_instructions|instructions]].**
+- **The [[s/_software|software]] that [[c/_controls|controls]] a [[m/_machine|machine]], or the [[l/_logic|logic]] [[e/_expressed|expressed]] in [[s/_such|such]] [[s/_software|software]]; [[o/_operating|operating]] [[i/_instructions|instructions]].**
 	- _Example: A robot's programming doesn't allow for love._
 ---
 ---

@@ -1,8 +1,8 @@
 # Pith
 ---
 #noun
-- **The [[s/_soft|soft]], [[s/_spongy|spongy]] substance in the [[c/_center|center]] of the [[s/_stems|stems]] of [[m/_many|many]] [[p/_plants|plants]] and trees.**
-- **The [[s/_spongy|spongy]] [[i/_interior|interior]] substance of a [[f/_feather|feather]] or [[h/_horn|horn]].**
+- **The [[s/_soft|soft]], [[s/_spongy|spongy]] [[s/_substance|substance]] in the [[c/_center|center]] of the [[s/_stems|stems]] of [[m/_many|many]] [[p/_plants|plants]] and trees.**
+- **The [[s/_spongy|spongy]] [[i/_interior|interior]] [[s/_substance|substance]] of a [[f/_feather|feather]] or [[h/_horn|horn]].**
 - **The [[s/_spinal|spinal]] [[c/_cord|cord]]; the [[m/_marrow|marrow]].**
 - **The [[a/_albedo|albedo]] of a [[c/_citrus|citrus]] [[f/_fruit|fruit]].**
 - **The [[e/_essential|essential]] or vital [[p/_part|part]]; [[f/_force|force]]; [[e/_energy|energy]]; [[i/_importance|importance]].**

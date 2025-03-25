@@ -9,7 +9,7 @@
 	- _Example: There is a great divide between us._
 - **A [[l/_large|large]] [[c/_chasm|chasm]], [[g/_gorge|gorge]], or [[r/_ravine|ravine]] [[b/_between|between]] two [[a/_areas|areas]] of [[l/_land|land]].**
 	- _Example: If you're heading to the coast, you'll have to cross the divide first._
-- **The topographical [[b/_boundary|boundary]] [[d/_dividing|dividing]] two [[a/_adjacent|adjacent]] [[c/_catchment|catchment]] [[b/_basins|basins]], such as a [[r/_ridge|ridge]] or a [[c/_crest|crest]].**
+- **The topographical [[b/_boundary|boundary]] [[d/_dividing|dividing]] two [[a/_adjacent|adjacent]] [[c/_catchment|catchment]] [[b/_basins|basins]], [[s/_such|such]] as a [[r/_ridge|ridge]] or a [[c/_crest|crest]].**
 ---
 #verb
 - **To [[s/_split|split]] or [[s/_separate|separate]] ([[s/_something|something]]) [[i/_into|into]] two or [[m/_more|more]] [[p/_parts|parts]].**

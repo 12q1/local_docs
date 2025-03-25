@@ -1,7 +1,7 @@
 # Exfiltrate
 ---
 #noun
-- **That which is exfiltrated, the [[r/_removed|removed]] substance or [[i/_item|item]]**
+- **That which is exfiltrated, the [[r/_removed|removed]] [[s/_substance|substance]] or [[i/_item|item]]**
 ---
 #verb
 - **To withdraw troops surreptitiously from a [[d/_dangerous|dangerous]] [[p/_position|position]]**

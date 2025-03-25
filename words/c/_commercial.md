@@ -7,6 +7,6 @@
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to [[c/_commerce|commerce]].**
 - **([[a/_aviation|aviation]]) [[d/_designating|Designating]] an [[a/_airport|airport]] that [[s/_serves|serves]] [[p/_passenger|passenger]] and/or [[c/_cargo|cargo]] [[f/_flights|flights]].**
-- **([[a/_aviation|aviation]]) [[d/_designating|Designating]] such an [[a/_airplane|airplane]] [[f/_flight|flight]].**
+- **([[a/_aviation|aviation]]) [[d/_designating|Designating]] [[s/_such|such]] an [[a/_airplane|airplane]] [[f/_flight|flight]].**
 ---
 ---

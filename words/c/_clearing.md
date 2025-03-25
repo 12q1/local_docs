@@ -13,7 +13,7 @@
 	- _Example: The court cleared the man of murder._
 - **To [[p/_pass|pass]] without [[i/_interference|interference]]; to [[m/_miss|miss]].**
 	- _Example: The door just barely clears the table as it closes._
-- **([[a/_activities|activities]] such as [[j/_jumping|jumping]] or throwing) To [[e/_exceed|exceed]] a [[s/_stated|stated]] [[m/_mark|mark]].**
+- **([[a/_activities|activities]] [[s/_such|such]] as [[j/_jumping|jumping]] or throwing) To [[e/_exceed|exceed]] a [[s/_stated|stated]] [[m/_mark|mark]].**
 	- _Example: She was the first female high jumper to clear two metres._
 - **To [[f/_finish|finish]] or [[c/_complete|complete]] (a [[s/_stage|stage]], [[c/_challenge|challenge]], or [[g/_game|game]]).**
 	- _Example: I cleared the first level in 36 seconds._

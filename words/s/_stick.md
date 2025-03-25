@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[e/_elongated|elongated]] [[p/_piece|piece]] of wood or [[s/_similar|similar]] [[m/_material|material]], typically [[p/_put|put]] to [[s/_some|some]] use, for [[e/_example|example]] as a wand or [[b/_baton|baton]].**
-- **[[a/_any|Any]] [[r/_roughly|roughly]] [[c/_cylindrical|cylindrical]] (or [[r/_rectangular|rectangular]]) unit of a substance.**
+- **[[a/_any|Any]] [[r/_roughly|roughly]] [[c/_cylindrical|cylindrical]] (or [[r/_rectangular|rectangular]]) unit of a [[s/_substance|substance]].**
 	- _Example: Sealing wax is available as a cylindrical or rectangular stick._
 - **[[m/_material|Material]] or [[o/_objects|objects]] [[a/_attached|attached]] to a [[s/_stick|stick]] or the [[l/_like|like]].**
 - **A tool, [[c/_control|control]], or [[i/_instrument|instrument]] [[s/_shaped|shaped]] [[s/_somewhat|somewhat]] [[l/_like|like]] a [[s/_stick|stick]].**

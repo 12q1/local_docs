@@ -5,7 +5,7 @@
 ---
 #noun
 - **A [[y/_year|year]] in the [[j/_julian|Julian]] or [[g/_gregorian|Gregorian]] [[c/_calendars|calendars]] with an [[i/_intercalary|intercalary]] [[d/_day|day]] [[a/_added|added]] to [[f/_february|February]], used to [[a/_adjust|adjust]] for the [[e/_extra|extra]] [[h/_hours|hours]] of the [[s/_solar|solar]] [[y/_year|year]]; a 366-[[d/_day|day]] [[y/_year|year]].**
-- **([[i/_inexact|inexact]]) [[a/_any|Any]] [[o/_other|other]] [[y/_year|year]] [[f/_featuring|featuring]] [[i/_intercalation|intercalation]], such as a [[y/_year|year]] in a [[l/_lunisolar|lunisolar]] [[c/_calendar|calendar]] with 13 [[m/_months|months]] [[i/_instead|instead]] of 12, used to [[m/_maintain|maintain]] [[i/_its|its]] [[a/_alignment|alignment]] with the [[s/_seasons|seasons]] of the [[s/_solar|solar]] [[y/_year|year]].**
+- **([[i/_inexact|inexact]]) [[a/_any|Any]] [[o/_other|other]] [[y/_year|year]] [[f/_featuring|featuring]] [[i/_intercalation|intercalation]], [[s/_such|such]] as a [[y/_year|year]] in a [[l/_lunisolar|lunisolar]] [[c/_calendar|calendar]] with 13 [[m/_months|months]] [[i/_instead|instead]] of 12, used to [[m/_maintain|maintain]] [[i/_its|its]] [[a/_alignment|alignment]] with the [[s/_seasons|seasons]] of the [[s/_solar|solar]] [[y/_year|year]].**
 ---
 ### Synonyms
 - [[b/_bissext|bissext]], [[b/_bissextile|bissextile]]

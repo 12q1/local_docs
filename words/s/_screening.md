@@ -11,9 +11,9 @@
 - **To [[f/_fit|fit]] with a [[s/_screen|screen]].**
 	- _Example: We need to screen this porch. These bugs are driving me crazy._
 - **To [[e/_examine|examine]] [[p/_patients|patients]] or treat a [[s/_sample|sample]] in [[o/_order|order]] to [[d/_detect|detect]] a [[c/_chemical|chemical]] or a [[d/_disease|disease]], or to [[a/_assess|assess]] susceptibility to a [[d/_disease|disease]].**
-- **To [[s/_search|search]] [[c/_chemical|chemical]] [[l/_libraries|libraries]] by [[m/_means|means]] of a [[c/_computational|computational]] technique in [[o/_order|order]] to [[i/_identify|identify]] [[c/_chemical|chemical]] [[c/_compounds|compounds]] which would [[p/_potentially|potentially]] [[b/_bind|bind]] to a [[g/_given|given]] [[b/_biological|biological]] target such as a [[p/_protein|protein]].**
+- **To [[s/_search|search]] [[c/_chemical|chemical]] [[l/_libraries|libraries]] by [[m/_means|means]] of a [[c/_computational|computational]] technique in [[o/_order|order]] to [[i/_identify|identify]] [[c/_chemical|chemical]] [[c/_compounds|compounds]] which would [[p/_potentially|potentially]] [[b/_bind|bind]] to a [[g/_given|given]] [[b/_biological|biological]] target [[s/_such|such]] as a [[p/_protein|protein]].**
 - **To [[s/_stand|stand]] [[s/_so|so]] as to [[b/_block|block]] a [[d/_defender|defender]] from [[r/_reaching|reaching]] a teammate.**
-- **To [[d/_determine|determine]] the [[s/_source|source]] or subject [[m/_matter|matter]] of a [[c/_call|call]] [[b/_before|before]] [[d/_deciding|deciding]] whether to [[a/_answer|answer]] the [[p/_phone|phone]].**
+- **To [[d/_determine|determine]] the [[s/_source|source]] or [[s/_subject|subject]] [[m/_matter|matter]] of a [[c/_call|call]] [[b/_before|before]] [[d/_deciding|deciding]] whether to [[a/_answer|answer]] the [[p/_phone|phone]].**
 ---
 ### Synonyms
 - [[p/_pick|pick]]
@@ -24,7 +24,7 @@
 	- _Example: The airports are slow now because the pre-boarding screening is so inefficient._
 - **The [[s/_showing|showing]] of a [[f/_film|film]]**
 - **The [[e/_examination|examination]] and treatment of a [[m/_material|material]] to [[d/_detect|detect]] and [[r/_remove|remove]] unwanted [[f/_fractions|fractions]]**
-- **(in the [[p/_plural|plural]]) [[m/_material|Material]] [[r/_removed|removed]] by such a [[p/_process|process]]; [[r/_refuse|refuse]] [[l/_left|left]] [[a/_after|after]] [[s/_screening|screening]] [[s/_sand|sand]], [[c/_coal|coal]], [[a/_ashes|ashes]], [[e/_etc|etc]].**
+- **(in the [[p/_plural|plural]]) [[m/_material|Material]] [[r/_removed|removed]] by [[s/_such|such]] a [[p/_process|process]]; [[r/_refuse|refuse]] [[l/_left|left]] [[a/_after|after]] [[s/_screening|screening]] [[s/_sand|sand]], [[c/_coal|coal]], [[a/_ashes|ashes]], [[e/_etc|etc]].**
 - **[[s/_shielding|Shielding]]**
 - **A [[m/_method|method]] to [[i/_identify|identify]] a [[d/_disease|disease]] in a [[p/_population|population]] which is not [[s/_showing|showing]] [[a/_any|any]] [[s/_symptoms|symptoms]] of this [[d/_disease|disease]].**
 - **[[a/_action|Action]] [[d/_done|done]] by the [[s/_serving|serving]] team to [[p/_prevent|prevent]] the [[o/_opposing|opposing]] team from [[s/_seeing|seeing]] the [[s/_server|server]] and the [[f/_flight|flight]] [[p/_path|path]] of the [[b/_ball|ball]].**

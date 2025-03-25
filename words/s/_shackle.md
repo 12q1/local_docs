@@ -1,7 +1,7 @@
 # Shackle
 ---
 #noun
-- **(usually in the [[p/_plural|plural]]) A [[r/_restraint|restraint]] [[f/_fit|fit]] [[o/_over|over]] a [[h/_human|human]] or [[a/_animal|animal]] [[a/_appendage|appendage]], such as a wrist, [[a/_ankle|ankle]] or [[f/_finger|finger]]; [[n/_normally|normally]] used in [[p/_pairs|pairs]] [[j/_joined|joined]] by a [[c/_chain|chain]].**
+- **(usually in the [[p/_plural|plural]]) A [[r/_restraint|restraint]] [[f/_fit|fit]] [[o/_over|over]] a [[h/_human|human]] or [[a/_animal|animal]] [[a/_appendage|appendage]], [[s/_such|such]] as a wrist, [[a/_ankle|ankle]] or [[f/_finger|finger]]; [[n/_normally|normally]] used in [[p/_pairs|pairs]] [[j/_joined|joined]] by a [[c/_chain|chain]].**
 	- _Example: The prisoner lay in shackles in his gloomy cell._
 - **A U-[[s/_shaped|shaped]] [[p/_piece|piece]] of [[m/_metal|metal]] [[s/_secured|secured]] with a [[p/_pin|pin]] or [[b/_bolt|bolt]] [[a/_across|across]] the [[o/_opening|opening]], or a [[h/_hinged|hinged]] [[m/_metal|metal]] [[l/_loop|loop]] [[s/_secured|secured]] with a [[q/_quick|quick]]-[[r/_release|release]] [[l/_locking|locking]] [[p/_pin|pin]] [[m/_mechanism|mechanism]].**
 - **(usually in the [[p/_plural|plural]]) A [[r/_restraint|restraint]] on [[o/_one|one]]'[[s/_s|s]] [[a/_action|action]], [[a/_activity|activity]], or [[p/_progress|progress]].**

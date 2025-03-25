@@ -5,7 +5,7 @@
 - **([[p/_physical|physical]]) A [[g/_group|group]] of [[o/_objects|objects]] [[a/_arranged|arranged]] in a [[c/_circle|circle]].**
 - **A [[p/_piece|piece]] of [[f/_food|food]] in the [[s/_shape|shape]] of a [[r/_ring|ring]].**
 	- _Example: onion rings_
-- **A [[p/_place|place]] where [[s/_some|some]] [[s/_sports|sports]] or [[e/_exhibitions|exhibitions]] take [[p/_place|place]]; [[n/_notably|notably]] a [[c/_circular|circular]] or [[c/_comparable|comparable]] [[a/_arena|arena]], such as a [[b/_boxing|boxing]] [[r/_ring|ring]] or a [[c/_circus|circus]] [[r/_ring|ring]]; [[h/_hence|hence]] the [[f/_field|field]] of a [[p/_political|political]] [[c/_contest|contest]].**
+- **A [[p/_place|place]] where [[s/_some|some]] [[s/_sports|sports]] or [[e/_exhibitions|exhibitions]] take [[p/_place|place]]; [[n/_notably|notably]] a [[c/_circular|circular]] or [[c/_comparable|comparable]] [[a/_arena|arena]], [[s/_such|such]] as a [[b/_boxing|boxing]] [[r/_ring|ring]] or a [[c/_circus|circus]] [[r/_ring|ring]]; [[h/_hence|hence]] the [[f/_field|field]] of a [[p/_political|political]] [[c/_contest|contest]].**
 - **An [[e/_exclusive|exclusive]] [[g/_group|group]] of [[p/_people|people]], usually [[i/_involving|involving]] [[s/_some|some]] unethical or [[i/_illegal|illegal]] [[p/_practices|practices]].**
 	- _Example: a crime ring; a prostitution ring; a bidding ring (at an auction sale)_
 - **A [[g/_group|group]] of [[a/_atoms|atoms]] [[l/_linked|linked]] by [[b/_bonds|bonds]] to [[f/_form|form]] a [[c/_closed|closed]] [[c/_chain|chain]] in a [[m/_molecule|molecule]].**

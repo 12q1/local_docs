@@ -7,7 +7,7 @@
 - **[[s/_smart|Smart]], [[i/_intelligent|intelligent]], or witty; [[m/_mentally|mentally]] [[q/_quick|quick]] or [[s/_sharp|sharp]].**
 - **[[s/_showing|Showing]] [[i/_inventiveness|inventiveness]] or [[o/_originality|originality]]; witty.**
 - **(of an [[a/_aboriginal|Aboriginal]] [[a/_australian|Australian]]) [[p/_possessing|Possessing]] [[m/_magical|magical]] [[a/_abilities|abilities]].**
-- **[[f/_fit|Fit]]; suitable; [[h/_having|having]] [[p/_propriety|propriety]].**
+- **[[f/_fit|Fit]]; [[s/_suitable|suitable]]; [[h/_having|having]] [[p/_propriety|propriety]].**
 - **Well-[[s/_shaped|shaped]]; [[h/_handsome|handsome]].**
 - **[[g/_good|Good]]-[[n/_natured|natured]]; [[o/_obliging|obliging]].**
 - **[[f/_fit|Fit]] and [[h/_healthy|healthy]]; [[f/_free|free]] from [[f/_fatigue|fatigue]] or [[i/_illness|illness]].**

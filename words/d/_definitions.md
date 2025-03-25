@@ -15,7 +15,7 @@
 - **[[s/_sharp|Sharp]] [[d/_demarcation|demarcation]] of [[o/_outlines|outlines]] or [[l/_limits|limits]].**
 	- _Example: A jacket with distinct waist definition._
 - **The [[d/_degree|degree]] to which [[i/_individual|individual]] [[m/_muscles|muscles]] are [[d/_distinct|distinct]] on the [[b/_body|body]].**
-- **A [[s/_statement|statement]] which [[p/_provides|provides]] a [[p/_previous|previous]] [[d/_declaration|declaration]] with a value or [[b/_body|body]] of a subroutine (in the [[c/_case|case]] of [[f/_function|function]]).**
+- **A [[s/_statement|statement]] which [[p/_provides|provides]] a [[p/_previous|previous]] [[d/_declaration|declaration]] with a value or [[b/_body|body]] of a [[s/_subroutine|subroutine]] (in the [[c/_case|case]] of [[f/_function|function]]).**
 - **A [[s/_statement|statement]] that [[e/_establishes|establishes]] the [[r/_referent|referent]] of a term or [[n/_notation|notation]].**
 ---
 ---

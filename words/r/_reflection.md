@@ -2,8 +2,8 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[r/_reflecting|reflecting]] or the [[s/_state|state]] of [[b/_being|being]] [[r/_reflected|reflected]].**
-- **The [[p/_property|property]] of a [[p/_propagated|propagated]] wave [[b/_being|being]] thrown [[b/_back|back]] from a surface (such as a [[m/_mirror|mirror]]).**
-- **[[s/_something|Something]], such as an [[i/_image|image]], that is [[r/_reflected|reflected]].**
+- **The [[p/_property|property]] of a [[p/_propagated|propagated]] wave [[b/_being|being]] thrown [[b/_back|back]] from a surface ([[s/_such|such]] as a [[m/_mirror|mirror]]).**
+- **[[s/_something|Something]], [[s/_such|such]] as an [[i/_image|image]], that is [[r/_reflected|reflected]].**
 	- _Example: The dog barked at his own reflection in the mirror._
 - **[[c/_careful|Careful]] thought or [[c/_consideration|consideration]].**
 	- _Example: After careful reflection, I have decided not to vote for that proposition._

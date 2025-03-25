@@ -8,6 +8,6 @@
 ---
 #verb
 - **To [[c/_construct|construct]] a [[q/_quilt|quilt]].**
-- **To [[c/_construct|construct]] [[s/_something|something]], such as [[c/_clothing|clothing]], using the [[s/_same|same]] technique.**
+- **To [[c/_construct|construct]] [[s/_something|something]], [[s/_such|such]] as [[c/_clothing|clothing]], using the [[s/_same|same]] technique.**
 ---
 ---

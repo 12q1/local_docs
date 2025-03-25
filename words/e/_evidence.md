@@ -8,7 +8,7 @@
 - **A [[b/_body|body]] of [[o/_objectively|objectively]] verifiable [[f/_facts|facts]] that are [[p/_positively|positively]] [[i/_indicative|indicative]] of, and/or [[e/_exclusively|exclusively]] [[c/_concordant|concordant]] with, that [[o/_one|one]] [[c/_conclusion|conclusion]] [[o/_over|over]] [[a/_any|any]] [[o/_other|other]].**
 ---
 #verb
-- **To [[p/_provide|provide]] [[e/_evidence|evidence]] for, or suggest the truth of.**
+- **To [[p/_provide|provide]] [[e/_evidence|evidence]] for, or [[s/_suggest|suggest]] the truth of.**
 	- _Example: She was furious, as evidenced by her slamming the door._
 ---
 ---

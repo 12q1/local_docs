@@ -9,7 +9,7 @@
 	- _Example: The coast is clear._
 - **Without [[c/_clouds|clouds]].**
 	- _Example: clear weather; a clear day_
-- **Of the [[s/_sky|sky]], such that [[l/_less|less]] than [[o/_one|one]] [[e/_eighth|eighth]] of [[i/_its|its]] [[a/_area|area]] is [[o/_obscured|obscured]] by [[c/_clouds|clouds]].**
+- **Of the [[s/_sky|sky]], [[s/_such|such]] that [[l/_less|less]] than [[o/_one|one]] [[e/_eighth|eighth]] of [[i/_its|its]] [[a/_area|area]] is [[o/_obscured|obscured]] by [[c/_clouds|clouds]].**
 - **[[f/_free|Free]] of [[a/_ambiguity|ambiguity]] or [[d/_doubt|doubt]].**
 	- _Example: Do I make myself clear? Crystal clear._
 - **[[d/_distinct|Distinct]], [[s/_sharp|sharp]], well-[[m/_marked|marked]].**
@@ -25,7 +25,7 @@
 - **[[e/_easily|Easily]] or [[d/_distinctly|distinctly]] [[h/_heard|heard]]; [[a/_audible|audible]].**
 - **Unmixed; [[e/_entirely|entirely]] [[p/_pure|pure]].**
 	- _Example: clear sand_
-- **Without [[d/_defects|defects]] or [[b/_blemishes|blemishes]], such as [[f/_freckles|freckles]] or [[k/_knots|knots]].**
+- **Without [[d/_defects|defects]] or [[b/_blemishes|blemishes]], [[s/_such|such]] as [[f/_freckles|freckles]] or [[k/_knots|knots]].**
 	- _Example: a clear complexion; clear lumber_
 - **Without [[d/_diminution|diminution]]; in [[f/_full|full]]; [[n/_net|net]].**
 	- _Example: a clear profit_

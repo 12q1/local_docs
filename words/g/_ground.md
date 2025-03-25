@@ -18,12 +18,12 @@
 - **In [[s/_sculpture|sculpture]], a [[f/_flat|flat]] surface upon which [[f/_figures|figures]] are [[r/_raised|raised]] in [[r/_relief|relief]].**
 - **In [[p/_point|point]] [[l/_lace|lace]], the [[n/_net|net]] of [[s/_small|small]] [[m/_meshes|meshes]] upon which the [[e/_embroidered|embroidered]] [[p/_pattern|pattern]] is [[a/_applied|applied]].**
 	- _Example: Brussels ground_
-- **In [[e/_etching|etching]], a [[g/_gummy|gummy]] substance [[s/_spread|spread]] [[o/_over|over]] the surface of a [[m/_metal|metal]] to be [[e/_etched|etched]], to [[p/_prevent|prevent]] the [[a/_acid|acid]] from [[e/_eating|eating]] [[e/_except|except]] where an [[o/_opening|opening]] is [[m/_made|made]] by the [[n/_needle|needle]].**
+- **In [[e/_etching|etching]], a [[g/_gummy|gummy]] [[s/_substance|substance]] [[s/_spread|spread]] [[o/_over|over]] the surface of a [[m/_metal|metal]] to be [[e/_etched|etched]], to [[p/_prevent|prevent]] the [[a/_acid|acid]] from [[e/_eating|eating]] [[e/_except|except]] where an [[o/_opening|opening]] is [[m/_made|made]] by the [[n/_needle|needle]].**
 - **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[o/_one|One]] of the [[p/_pieces|pieces]] of wood, [[f/_flush|flush]] with the [[p/_plastering|plastering]], to which [[m/_mouldings|mouldings]] [[e/_etc|etc]]. are [[a/_attached|attached]].**
 	- _Example: Grounds are usually put up first and the plastering floated flush with them._
 - **A [[s/_soccer|soccer]] [[s/_stadium|stadium]].**
 	- _Example: Manchester United's ground is known as Old Trafford._
-- **An [[e/_electrical|electrical]] [[c/_conductor|conductor]] [[c/_connected|connected]] to the [[e/_earth|earth]], or a [[l/_large|large]] [[c/_conductor|conductor]] whose [[e/_electrical|electrical]] [[p/_potential|potential]] is taken as zero (such as a [[s/_steel|steel]] [[c/_chassis|chassis]]).**
+- **An [[e/_electrical|electrical]] [[c/_conductor|conductor]] [[c/_connected|connected]] to the [[e/_earth|earth]], or a [[l/_large|large]] [[c/_conductor|conductor]] whose [[e/_electrical|electrical]] [[p/_potential|potential]] is taken as zero ([[s/_such|such]] as a [[s/_steel|steel]] [[c/_chassis|chassis]]).**
 - **The [[a/_area|area]] of [[g/_grass|grass]] on which a [[m/_match|match]] is [[p/_played|played]] (a [[c/_cricket|cricket]] [[f/_field|field]]); the [[e/_entire|entire]] [[a/_arena|arena]] in which it is [[p/_played|played]]; the [[p/_part|part]] of the [[f/_field|field]] [[b/_behind|behind]] a [[b/_batsman|batsman]]'[[s/_s|s]] [[p/_popping|popping]] [[c/_crease|crease]] where [[h/_he|he]] [[c/_can|can]] not be [[r/_run|run]] [[o/_out|out]] ([[h/_hence|hence]] to [[m/_make|make]] [[o/_one|one]]'[[s/_s|s]] [[g/_ground|ground]]).**
 - **A [[c/_composition|composition]] in which the [[b/_bass|bass]], [[c/_consisting|consisting]] of a [[f/_few|few]] [[b/_bars|bars]] of [[i/_independent|independent]] [[n/_notes|notes]], is [[c/_continually|continually]] [[r/_repeated|repeated]] to a varying [[m/_melody|melody]].**
 - **The tune on which [[d/_descants|descants]] are [[r/_raised|raised]]; the [[p/_plain|plain]] [[s/_song|song]].**
@@ -37,7 +37,7 @@
 	- _Example: Eric, you are grounded until further notice for lying to us about where you were last night!_
 - **To [[f/_forbid|forbid]] (an [[a/_aircraft|aircraft]] or [[p/_pilot|pilot]]) to [[f/_fly|fly]].**
 	- _Example: Because of the bad weather, all flights were grounded._
-- **To [[g/_give|give]] a [[b/_basic|basic]] [[e/_education|education]] in a [[p/_particular|particular]] subject; to [[i/_instruct|instruct]] in [[e/_elements|elements]] or [[f/_first|first]] [[p/_principles|principles]].**
+- **To [[g/_give|give]] a [[b/_basic|basic]] [[e/_education|education]] in a [[p/_particular|particular]] [[s/_subject|subject]]; to [[i/_instruct|instruct]] in [[e/_elements|elements]] or [[f/_first|first]] [[p/_principles|principles]].**
 	- _Example: Jim was grounded in maths._
 - **To [[h/_hit|hit]] a [[g/_ground|ground]] [[b/_ball|ball]]. [[c/_compare|Compare]] [[f/_fly|fly]] (verb([[r/_regular|regular]])) and [[l/_line|line]] (verb).**
 - **To [[p/_place|place]] [[s/_something|something]] on the [[g/_ground|ground]].**

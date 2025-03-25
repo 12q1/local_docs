@@ -1,8 +1,8 @@
 # Par
 ---
 #noun
-- **A [[p/_passage|passage]] in text that is [[a/_about|about]] a [[d/_different|different]] subject from the [[p/_preceding|preceding]] text, [[m/_marked|marked]] by [[c/_commencing|commencing]] on a [[n/_new|new]] [[l/_line|line]], the [[f/_first|first]] [[l/_line|line]] [[s/_sometimes|sometimes]] [[b/_being|being]] [[i/_indented|indented]].**
-- **A [[m/_mark|mark]] or [[n/_note|note]] [[s/_set|set]] in the [[m/_margin|margin]] to [[c/_call|call]] [[a/_attention|attention]] to [[s/_something|something]] in the text, such as a [[c/_change|change]] of subject.**
+- **A [[p/_passage|passage]] in text that is [[a/_about|about]] a [[d/_different|different]] [[s/_subject|subject]] from the [[p/_preceding|preceding]] text, [[m/_marked|marked]] by [[c/_commencing|commencing]] on a [[n/_new|new]] [[l/_line|line]], the [[f/_first|first]] [[l/_line|line]] [[s/_sometimes|sometimes]] [[b/_being|being]] [[i/_indented|indented]].**
+- **A [[m/_mark|mark]] or [[n/_note|note]] [[s/_set|set]] in the [[m/_margin|margin]] to [[c/_call|call]] [[a/_attention|attention]] to [[s/_something|something]] in the text, [[s/_such|such]] as a [[c/_change|change]] of [[s/_subject|subject]].**
 - **An [[o/_offset|offset]] of 16 [[b/_bytes|bytes]] in [[i/_intel|Intel]] [[m/_memory|memory]] [[a/_architectures|architectures]].**
 ---
 #adjective
@@ -19,8 +19,8 @@
 #noun
 - **A [[c/_clause|clause]], [[p/_phrase|phrase]] or word which is [[i/_inserted|inserted]] (usually for [[e/_explanation|explanation]] or [[a/_amplification|amplification]]) [[i/_into|into]] a [[p/_passage|passage]] which is [[a/_already|already]] [[g/_grammatically|grammatically]] [[c/_complete|complete]], and usually [[m/_marked|marked]] [[o/_off|off]] with [[b/_brackets|brackets]], [[c/_commas|commas]] or [[d/_dashes|dashes]].**
 - **[[e/_either|Either]] of a [[p/_pair|pair]] of [[b/_brackets|brackets]], [[e/_especially|especially]] [[r/_round|round]] [[b/_brackets|brackets]], ( and ) (used to [[e/_enclose|enclose]] [[p/_parenthetical|parenthetical]] [[m/_material|material]] in a text).**
-- **A [[d/_digression|digression]]; the use of such [[d/_digressions|digressions]].**
-- **Such [[b/_brackets|brackets]] as used to [[c/_clarify|clarify]] [[e/_expressions|expressions]] by [[g/_grouping|grouping]] those terms [[a/_affected|affected]] by a [[c/_common|common]] [[o/_operator|operator]], or to [[e/_enclose|enclose]] the [[c/_components|components]] of a vector or the [[e/_elements|elements]] of a [[m/_matrix|matrix]].**
+- **A [[d/_digression|digression]]; the use of [[s/_such|such]] [[d/_digressions|digressions]].**
+- **[[s/_such|Such]] [[b/_brackets|brackets]] as used to [[c/_clarify|clarify]] [[e/_expressions|expressions]] by [[g/_grouping|grouping]] those terms [[a/_affected|affected]] by a [[c/_common|common]] [[o/_operator|operator]], or to [[e/_enclose|enclose]] the [[c/_components|components]] of a vector or the [[e/_elements|elements]] of a [[m/_matrix|matrix]].**
 ---
 ### Synonyms
 - [[p/_parenthesis-point|parenthesis-point]], [[p/_paren|paren]]
@@ -28,7 +28,7 @@
 - **In the [[a/_anglican|Anglican]], [[e/_eastern|Eastern]] [[o/_orthodox|Orthodox]], [[l/_lutheran|Lutheran]] and [[r/_roman|Roman]] [[c/_catholic|Catholic]] [[c/_church|Church]], an [[a/_administrative|administrative]] [[p/_part|part]] of a [[d/_diocese|diocese]] that [[h/_has|has]] [[i/_its|its]] [[o/_own|own]] [[c/_church|church]].**
 - **The [[c/_community|community]] [[a/_attending|attending]] that [[c/_church|church]]; the [[m/_members|members]] of the [[p/_parish|parish]].**
 - **An [[e/_ecclesiastical|ecclesiastical]] [[s/_society|society]], usually not [[b/_bounded|bounded]] by territorial [[l/_limits|limits]], but [[c/_composed|composed]] of those [[p/_persons|persons]] who [[c/_choose|choose]] to unite under the [[c/_charge|charge]] of a [[p/_particular|particular]] [[p/_priest|priest]], [[c/_clergyman|clergyman]], or [[m/_minister|minister]]; [[a/_also|also]], [[l/_loosely|loosely]], the territory in which the [[m/_members|members]] of a [[c/_congregation|congregation]] [[l/_live|live]].**
-- **A [[c/_civil|civil]] subdivision of a [[b/_british|British]] [[c/_county|county]], [[o/_often|often]] [[c/_corresponding|corresponding]] to an [[e/_earlier|earlier]] [[e/_ecclesiastical|ecclesiastical]] [[p/_parish|parish]].**
-- **An [[a/_administrative|administrative]] subdivision in the U.[[s/_s|S]]. [[s/_state|state]] of [[l/_louisiana|Louisiana]] that is [[e/_equivalent|equivalent]] to a [[c/_county|county]] in [[o/_other|other]] U.[[s/_s|S]]. [[s/_states|states]].**
+- **A [[c/_civil|civil]] [[s/_subdivision|subdivision]] of a [[b/_british|British]] [[c/_county|county]], [[o/_often|often]] [[c/_corresponding|corresponding]] to an [[e/_earlier|earlier]] [[e/_ecclesiastical|ecclesiastical]] [[p/_parish|parish]].**
+- **An [[a/_administrative|administrative]] [[s/_subdivision|subdivision]] in the U.[[s/_s|S]]. [[s/_state|state]] of [[l/_louisiana|Louisiana]] that is [[e/_equivalent|equivalent]] to a [[c/_county|county]] in [[o/_other|other]] U.[[s/_s|S]]. [[s/_states|states]].**
 ---
 ---

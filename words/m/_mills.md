@@ -1,23 +1,23 @@
 # Mills
 ---
 #noun
-- **A [[g/_grinding|grinding]] [[a/_apparatus|apparatus]] for substances such as [[g/_grains|grains]], [[s/_seeds|seeds]], [[e/_etc|etc]].**
+- **A [[g/_grinding|grinding]] [[a/_apparatus|apparatus]] for [[s/_substances|substances]] [[s/_such|such]] as [[g/_grains|grains]], [[s/_seeds|seeds]], [[e/_etc|etc]].**
 	- _Example: Pepper has a stronger flavor when it is ground straight from a mill._
-- **The [[b/_building|building]] [[h/_housing|housing]] such a [[g/_grinding|grinding]] [[a/_apparatus|apparatus]].**
+- **The [[b/_building|building]] [[h/_housing|housing]] [[s/_such|such]] a [[g/_grinding|grinding]] [[a/_apparatus|apparatus]].**
 	- _Example: My grandfather worked in a mill._
 - **A [[m/_machine|machine]] used for [[e/_expelling|expelling]] the [[j/_juice|juice]], [[s/_sap|sap]], [[e/_etc|etc]]., from vegetable tissues by [[p/_pressure|pressure]], or by [[p/_pressure|pressure]] in [[c/_combination|combination]] with a [[g/_grinding|grinding]], or [[c/_cutting|cutting]] [[p/_process|process]].**
 	- _Example: a cider mill; a cane mill_
 - **A [[m/_machine|machine]] for [[g/_grinding|grinding]] and [[p/_polishing|polishing]].**
 	- _Example: a lapidary mill_
-- **The [[r/_raised|raised]] or [[r/_ridged|ridged]] [[e/_edge|edge]] or surface [[m/_made|made]] in [[m/_milling|milling]] [[a/_anything|anything]], such as a [[c/_coin|coin]] or [[s/_screw|screw]].**
+- **The [[r/_raised|raised]] or [[r/_ridged|ridged]] [[e/_edge|edge]] or surface [[m/_made|made]] in [[m/_milling|milling]] [[a/_anything|anything]], [[s/_such|such]] as a [[c/_coin|coin]] or [[s/_screw|screw]].**
 - **A [[m/_manufacturing|manufacturing]] [[p/_plant|plant]] for [[p/_paper|paper]], [[s/_steel|steel]], textiles, [[e/_etc|etc]].**
 	- _Example: a steel mill_
-- **A [[b/_building|building]] [[h/_housing|housing]] such a [[p/_plant|plant]].**
-- **An [[e/_establishment|establishment]] that [[h/_handles|handles]] a [[c/_certain|certain]] type of [[s/_situation|situation]] or [[p/_procedure|procedure]] [[r/_routinely|routinely]], or [[p/_produces|produces]] [[l/_large|large]] [[q/_quantities|quantities]] of an [[i/_item|item]] without [[m/_much|much]] [[r/_regard|regard]] to [[q/_quality|quality]], such as a [[d/_divorce|divorce]] [[m/_mill|mill]], a [[p/_puppy|puppy]] [[m/_mill|mill]], [[e/_etc|etc]].**
+- **A [[b/_building|building]] [[h/_housing|housing]] [[s/_such|such]] a [[p/_plant|plant]].**
+- **An [[e/_establishment|establishment]] that [[h/_handles|handles]] a [[c/_certain|certain]] type of [[s/_situation|situation]] or [[p/_procedure|procedure]] [[r/_routinely|routinely]], or [[p/_produces|produces]] [[l/_large|large]] [[q/_quantities|quantities]] of an [[i/_item|item]] without [[m/_much|much]] [[r/_regard|regard]] to [[q/_quality|quality]], [[s/_such|such]] as a [[d/_divorce|divorce]] [[m/_mill|mill]], a [[p/_puppy|puppy]] [[m/_mill|mill]], [[e/_etc|etc]].**
 - **An [[i/_institution|institution]] [[a/_awarding|awarding]] [[e/_educational|educational]] [[c/_certificates|certificates]] not [[o/_officially|officially]] [[r/_recognised|recognised]]**
 - **An [[e/_engine|engine]].**
 - **A [[b/_boxing|boxing]] [[m/_match|match]], [[f/_fistfight|fistfight]].**
-- **([[d/_die|die]] [[s/_sinking|sinking]]) A [[h/_hardened|hardened]] [[s/_steel|steel]] [[r/_roller|roller]] with a [[d/_design|design]] in [[r/_relief|relief]], used for [[i/_imprinting|imprinting]] a [[r/_reversed|reversed]] [[c/_copy|copy]] of the [[d/_design|design]] in a [[s/_softer|softer]] [[m/_metal|metal]], such as [[c/_copper|copper]].**
+- **([[d/_die|die]] [[s/_sinking|sinking]]) A [[h/_hardened|hardened]] [[s/_steel|steel]] [[r/_roller|roller]] with a [[d/_design|design]] in [[r/_relief|relief]], used for [[i/_imprinting|imprinting]] a [[r/_reversed|reversed]] [[c/_copy|copy]] of the [[d/_design|design]] in a [[s/_softer|softer]] [[m/_metal|metal]], [[s/_such|such]] as [[c/_copper|copper]].**
 - **An [[e/_excavation|excavation]] in [[r/_rock|rock]], transverse to the workings, from which [[m/_material|material]] for [[f/_filling|filling]] is [[o/_obtained|obtained]].**
 - **A [[p/_passage|passage]] underground through which [[o/_ore|ore]] is [[s/_shot|shot]].**
 - **A [[m/_milling|milling]] [[c/_cutter|cutter]].**
@@ -30,13 +30,13 @@
 - **To [[g/_grind|grind]] or [[o/_otherwise|otherwise]] [[p/_process|process]] in a [[m/_mill|mill]] or [[o/_other|other]] [[m/_machine|machine]].**
 	- _Example: to mill flour_
 - **To [[s/_shape|shape]], [[p/_polish|polish]], [[d/_dress|dress]] or [[f/_finish|finish]] using a [[m/_machine|machine]].**
-- **To [[e/_engrave|engrave]] [[o/_one|one]] or [[m/_more|more]] [[g/_grooves|grooves]] or a [[p/_pattern|pattern]] [[a/_around|around]] the [[e/_edge|edge]] of (a [[c/_cylindrical|cylindrical]] [[o/_object|object]] such as a [[c/_coin|coin]]).**
+- **To [[e/_engrave|engrave]] [[o/_one|one]] or [[m/_more|more]] [[g/_grooves|grooves]] or a [[p/_pattern|pattern]] [[a/_around|around]] the [[e/_edge|edge]] of (a [[c/_cylindrical|cylindrical]] [[o/_object|object]] [[s/_such|such]] as a [[c/_coin|coin]]).**
 - **([[f/_followed|followed]] by [[a/_around|around]], [[a/_about|about]], [[e/_etc|etc]].) To [[m/_move|move]] [[a/_about|about]] in an [[a/_aimless|aimless]] [[f/_fashion|fashion]].**
 	- _Example: I didn't have much to do, so I just milled around the town looking at the shops._
 - **To [[c/_cause|cause]] to [[m/_mill|mill]], or [[c/_circle|circle]] [[a/_around|around]].**
 	- _Example: to mill cattle_
 - **(of [[a/_air|air]]-[[b/_breathing|breathing]] [[c/_creatures|creatures]]) To swim underwater.**
-- **(of a whale) To swim suddenly in a [[n/_new|new]] [[d/_direction|direction]].**
+- **(of a whale) To swim [[s/_suddenly|suddenly]] in a [[n/_new|new]] [[d/_direction|direction]].**
 - **To [[b/_beat|beat]]; to [[p/_pound|pound]].**
 - **To [[p/_pass|pass]] through a [[f/_fulling|fulling]] [[m/_mill|mill]]; to [[f/_full|full]], as [[c/_cloth|cloth]].**
 - **To [[r/_roll|roll]] ([[s/_steel|steel]], [[e/_etc|etc]].) [[i/_into|into]] [[b/_bars|bars]].**

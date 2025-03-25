@@ -10,6 +10,6 @@
 ---
 #noun
 - **The [[r/_removal|removal]] of [[d/_dead|dead]] [[f/_flowers|flowers]] from a [[p/_plant|plant]] in [[o/_order|order]] to [[e/_encourage|encourage]] the [[g/_growth|growth]] of [[n/_new|new]] [[o/_ones|ones]], and to [[p/_prevent|prevent]] the [[p/_production|production]] of [[s/_seeds|seeds]].**
-- **The [[d/_driving|driving]] of an unladen vehicle, such as a [[b/_bus|bus]] with [[n/_no|no]] [[p/_passengers|passengers]], in [[o/_order|order]] to take it from [[o/_one|one]] [[p/_place|place]] to [[a/_another|another]].**
+- **The [[d/_driving|driving]] of an unladen vehicle, [[s/_such|such]] as a [[b/_bus|bus]] with [[n/_no|no]] [[p/_passengers|passengers]], in [[o/_order|order]] to take it from [[o/_one|one]] [[p/_place|place]] to [[a/_another|another]].**
 ---
 ---

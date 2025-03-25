@@ -10,7 +10,7 @@
 - [[b/_bewater|bewater]]
 #adjective
 - **[[c/_combined|Combined]] [[c/_chemically|chemically]] with water.**
-- **(of a [[p/_person|person]]) Not suffering from [[d/_dehydration|dehydration]].**
+- **(of a [[p/_person|person]]) Not [[s/_suffering|suffering]] from [[d/_dehydration|dehydration]].**
 	- _Example: Stay hydrated._
 ---
 ### Antonyms

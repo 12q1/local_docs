@@ -7,7 +7,7 @@
 - **A [[b/_bonefish|bonefish]]**
 - **[[o/_one|One]] of the [[r/_rigid|rigid]] [[p/_parts|parts]] of a [[c/_corset|corset]] that [[f/_forms|forms]] [[i/_its|its]] [[f/_frame|frame]], the [[b/_boning|boning]], [[o/_originally|originally]] [[m/_made|made]] of whalebone.**
 - **[[o/_one|One]] of the [[f/_fragments|fragments]] of [[b/_bone|bone]] [[h/_held|held]] [[b/_between|between]] the [[f/_fingers|fingers]] of the [[h/_hand|hand]] and [[r/_rattled|rattled]] together to [[k/_keep|keep]] time to [[m/_music|music]].**
-- **[[a/_anything|Anything]] [[m/_made|made]] of [[b/_bone|bone]], such as a [[b/_bobbin|bobbin]] for weaving [[b/_bone|bone]] [[l/_lace|lace]].**
+- **[[a/_anything|Anything]] [[m/_made|made]] of [[b/_bone|bone]], [[s/_such|such]] as a [[b/_bobbin|bobbin]] for weaving [[b/_bone|bone]] [[l/_lace|lace]].**
 - **The [[f/_framework|framework]] of [[a/_anything|anything]].**
 - **An [[o/_off|off]]-white [[c/_colour|colour]], [[l/_like|like]] the [[c/_colour|colour]] of [[b/_bone|bone]].**
 - **A [[d/_dollar|dollar]].**

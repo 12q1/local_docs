@@ -10,7 +10,7 @@
 	- _Example: Did you take out the trash? No, I did not._
 - **To [[n/_no|no]] [[d/_degree|degree]].**
 	- _Example: It's not you, it's me._
-- **(understatement, [[l/_litotes|litotes]]) Used to [[m/_modify|modify]] superlatives to [[i/_indicate|indicate]] the [[o/_opposite|opposite]] or [[n/_near|near]] [[o/_opposite|opposite]], [[o/_often|often]] in a [[f/_form|form]] of understatement.**
+- **(understatement, [[l/_litotes|litotes]]) Used to [[m/_modify|modify]] [[s/_superlatives|superlatives]] to [[i/_indicate|indicate]] the [[o/_opposite|opposite]] or [[n/_near|near]] [[o/_opposite|opposite]], [[o/_often|often]] in a [[f/_form|form]] of understatement.**
 	- _Example: It was not my favorite movie of all time._
 ---
 #conjunction

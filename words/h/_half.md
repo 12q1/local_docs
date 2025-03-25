@@ -7,7 +7,7 @@
 - **([[p/_preceded|preceded]] by “a” or a [[n/_number|number]]) The [[f/_fraction|fraction]] [[o/_obtained|obtained]] by [[d/_dividing|dividing]] 1 by 2.**
 	- _Example: Three-quarters minus a quarter is a half._
 - **[[p/_part|Part]]; [[s/_side|side]]; [[b/_behalf|behalf]].**
-- **[[a/_any|Any]] of the three terms at [[e/_eton|Eton]] [[c/_college|College]], for [[m/_michaelmas|Michaelmas]], [[l/_lent|Lent]], and summer.**
+- **[[a/_any|Any]] of the three terms at [[e/_eton|Eton]] [[c/_college|College]], for [[m/_michaelmas|Michaelmas]], [[l/_lent|Lent]], and [[s/_summer|summer]].**
 - **A [[h/_half|half]] [[s/_sibling|sibling]].**
 - **A [[c/_child|child]] ticket.**
 ---

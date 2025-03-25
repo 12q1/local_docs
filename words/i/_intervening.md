@@ -10,7 +10,7 @@
 - **To [[s/_say|say]] ([[s/_something|something]]) in the [[m/_middle|middle]] of a [[c/_conversation|conversation]] or [[d/_discussion|discussion]] [[b/_between|between]] [[o/_other|other]] [[p/_people|people]], or to [[r/_respond|respond]] to a [[s/_situation|situation]] [[i/_involving|involving]] [[o/_other|other]] [[p/_people|people]].**
 - **To [[c/_come|come]] [[b/_between|between]], or to be [[b/_between|between]], [[p/_persons|persons]] or things.**
 	- _Example: The Mediterranean intervenes between Europe and Africa._
-- **In a suit to which [[o/_one|one]] [[h/_has|has]] not [[b/_been|been]] [[m/_made|made]] a [[p/_party|party]], to [[p/_put|put]] [[f/_forward|forward]] a [[d/_defense|defense]] of [[o/_one|one]]'[[s/_s|s]] [[i/_interest|interest]] in the subject [[m/_matter|matter]].**
+- **In a [[s/_suit|suit]] to which [[o/_one|one]] [[h/_has|has]] not [[b/_been|been]] [[m/_made|made]] a [[p/_party|party]], to [[p/_put|put]] [[f/_forward|forward]] a [[d/_defense|defense]] of [[o/_one|one]]'[[s/_s|s]] [[i/_interest|interest]] in the [[s/_subject|subject]] [[m/_matter|matter]].**
 	- _Example: an application for leave (i.e. permission) to intervene_
 ---
 ### Synonyms

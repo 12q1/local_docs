@@ -23,6 +23,6 @@
 - **The [[a/_act|act]] of [[p/_pinching|pinching]] [[o/_off|off]] [[n/_new|new]] [[g/_growth|growth]].**
 ---
 #adjective
-- **That [[p/_pinches|pinches]], or [[c/_causes|causes]] such a [[s/_sensation|sensation]]**
+- **That [[p/_pinches|pinches]], or [[c/_causes|causes]] [[s/_such|such]] a [[s/_sensation|sensation]]**
 ---
 ---

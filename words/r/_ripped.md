@@ -1,7 +1,7 @@
 # Ripped
 ---
 #verb
-- **To [[d/_divide|divide]] or [[s/_separate|separate]] the [[p/_parts|parts]] of ([[e/_especially|especially]] [[s/_something|something]] [[f/_flimsy|flimsy]] such as [[p/_paper|paper]] or [[f/_fabric|fabric]]), by [[c/_cutting|cutting]] or tearing; to tear [[o/_off|off]] or [[o/_out|out]] by violence.**
+- **To [[d/_divide|divide]] or [[s/_separate|separate]] the [[p/_parts|parts]] of ([[e/_especially|especially]] [[s/_something|something]] [[f/_flimsy|flimsy]] [[s/_such|such]] as [[p/_paper|paper]] or [[f/_fabric|fabric]]), by [[c/_cutting|cutting]] or tearing; to tear [[o/_off|off]] or [[o/_out|out]] by violence.**
 	- _Example: to rip a garment; to rip up a floor_
 - **To tear [[a/_apart|apart]]; to [[r/_rapidly|rapidly]] [[b/_become|become]] two [[p/_parts|parts]].**
 	- _Example: My shirt ripped when it was caught on a bramble._

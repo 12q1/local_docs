@@ -3,14 +3,14 @@
 #verb
 - **(of a [[p/_person|person]]) To be in a [[p/_position|position]] in which the upper [[b/_body|body]] is upright and supported by the [[b/_buttocks|buttocks]].**
 	- _Example: After a long day of walking, it was good just to sit and relax._
-- **(of a [[p/_person|person]]) To [[m/_move|move]] [[o/_oneself|oneself]] [[i/_into|into]] such a [[p/_position|position]].**
+- **(of a [[p/_person|person]]) To [[m/_move|move]] [[o/_oneself|oneself]] [[i/_into|into]] [[s/_such|such]] a [[p/_position|position]].**
 	- _Example: I asked him to sit._
 - **(of an [[o/_object|object]]) To [[o/_occupy|occupy]] a [[g/_given|given]] [[p/_position|position]] [[p/_permanently|permanently]].**
 	- _Example: The temple has sat atop that hill for centuries._
 - **To [[r/_remain|remain]] in a [[s/_state|state]] of [[r/_repose|repose]]; to [[r/_rest|rest]]; to [[a/_abide|abide]]; to [[r/_rest|rest]] in [[a/_any|any]] [[p/_position|position]] or [[c/_condition|condition]].**
 - **To be a [[m/_member|member]] of a [[d/_deliberative|deliberative]] [[b/_body|body]].**
 	- _Example: I currently sit on a standards committee._
-- **Of a [[l/_legislative|legislative]] or, [[e/_especially|especially]], a [[j/_judicial|judicial]] [[b/_body|body]] such as a [[c/_court|court]], to be in [[s/_session|session]].**
+- **Of a [[l/_legislative|legislative]] or, [[e/_especially|especially]], a [[j/_judicial|judicial]] [[b/_body|body]] [[s/_such|such]] as a [[c/_court|court]], to be in [[s/_session|session]].**
 	- _Example: In what city is the circuit court sitting for this session._
 - **To [[l/_lie|lie]], [[r/_rest|rest]], or [[b/_bear|bear]]; to [[p/_press|press]] or weigh.**
 - **To be [[a/_adjusted|adjusted]]; to [[f/_fit|fit]].**
@@ -25,7 +25,7 @@
 	- _Example: I need to find someone to sit my kids on Friday evening for four hours._
 - **To take, to undergo or [[c/_complete|complete]] (an [[e/_examination|examination]] or test).**
 - **To [[c/_cover|cover]] and warm [[e/_eggs|eggs]] for [[h/_hatching|hatching]], as a [[f/_fowl|fowl]]; to [[b/_brood|brood]]; to [[i/_incubate|incubate]].**
-- **To take a [[p/_position|position]] for the [[p/_purpose|purpose]] of [[h/_having|having]] [[s/_some|some]] [[a/_artistic|artistic]] [[r/_representation|representation]] of [[o/_oneself|oneself]] [[m/_made|made]], such as a [[p/_picture|picture]] or a [[b/_bust|bust]].**
+- **To take a [[p/_position|position]] for the [[p/_purpose|purpose]] of [[h/_having|having]] [[s/_some|some]] [[a/_artistic|artistic]] [[r/_representation|representation]] of [[o/_oneself|oneself]] [[m/_made|made]], [[s/_such|such]] as a [[p/_picture|picture]] or a [[b/_bust|bust]].**
 	- _Example: I'm sitting for a painter this evening._
 - **To [[h/_have|have]] [[p/_position|position]], as at the [[p/_point|point]] [[b/_blown|blown]] from; to [[h/_hold|hold]] a [[r/_relative|relative]] [[p/_position|position]]; to [[h/_have|have]] [[d/_direction|direction]].**
 ---

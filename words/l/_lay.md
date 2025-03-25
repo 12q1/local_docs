@@ -18,7 +18,7 @@
 #verb
 - **To [[p/_place|place]] [[d/_down|down]] in a [[p/_position|position]] of [[r/_rest|rest]], or in a [[h/_horizontal|horizontal]] [[p/_position|position]].**
 	- _Example: A shower of rain lays the dust._
-- **To [[c/_cause|cause]] to subside or [[a/_abate|abate]].**
+- **To [[c/_cause|cause]] to [[s/_subside|subside]] or [[a/_abate|abate]].**
 - **To [[p/_prepare|prepare]] (a [[p/_plan|plan]], [[p/_project|project]] [[e/_etc|etc]].); to [[s/_set|set]] [[o/_out|out]], [[e/_establish|establish]] (a [[l/_law|law]], [[p/_principle|principle]]).**
 - **To [[i/_install|install]] [[c/_certain|certain]] [[b/_building|building]] [[m/_materials|materials]], [[l/_laying|laying]] [[o/_one|one]] thing on top of [[a/_another|another]].**
 	- _Example: lay brick;  lay flooring_

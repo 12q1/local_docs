@@ -1,6 +1,6 @@
 # Formamide
 ---
 #noun
-- **The [[a/_amide|amide]] of [[f/_formic|formic]] [[a/_acid|acid]] HCO-NH2 or [[a/_any|any]] [[n/_n|N]]-substituted [[d/_derivative|derivative]]; they are used in the [[s/_synthesis|synthesis]] of [[p/_pharmaceuticals|pharmaceuticals]]**
+- **The [[a/_amide|amide]] of [[f/_formic|formic]] [[a/_acid|acid]] HCO-NH2 or [[a/_any|any]] [[n/_n|N]]-[[s/_substituted|substituted]] [[d/_derivative|derivative]]; they are used in the [[s/_synthesis|synthesis]] of [[p/_pharmaceuticals|pharmaceuticals]]**
 ---
 ---

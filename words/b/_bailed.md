@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[s/_secure|secure]] the [[r/_release|release]] of an [[a/_arrested|arrested]] [[p/_person|person]] by [[p/_providing|providing]] [[b/_bail|bail]].**
-- **To [[r/_release|release]] a [[p/_person|person]] under such [[g/_guarantee|guarantee]].**
+- **To [[r/_release|release]] a [[p/_person|person]] under [[s/_such|such]] [[g/_guarantee|guarantee]].**
 - **To [[h/_hand|hand]] [[o/_over|over]] [[p/_personal|personal]] [[p/_property|property]] to be [[h/_held|held]] temporarily by [[a/_another|another]] as a [[b/_bailment|bailment]].**
 	- _Example: to bail cloth to a tailor to be made into a garment; to bail goods to a carrier_
 - **To [[r/_remove|remove]] (water) from a [[b/_boat|boat]] by [[s/_scooping|scooping]] it [[o/_out|out]].**

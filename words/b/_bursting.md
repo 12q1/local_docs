@@ -9,11 +9,11 @@
 - **To [[s/_separate|separate]] ([[p/_printer|printer]] [[p/_paper|paper]]) at [[p/_perforation|perforation]] [[l/_lines|lines]].**
 	- _Example: I printed the report on form-feed paper, then burst the sheets._
 - **To [[e/_enter|enter]] or [[e/_exit|exit]] [[h/_hurriedly|hurriedly]] and unexpectedly.**
-- **To [[e/_erupt|erupt]]; to [[c/_change|change]] [[s/_state|state]] suddenly as [[i/_if|if]] [[b/_bursting|bursting]].**
+- **To [[e/_erupt|erupt]]; to [[c/_change|change]] [[s/_state|state]] [[s/_suddenly|suddenly]] as [[i/_if|if]] [[b/_bursting|bursting]].**
 	- _Example: The flowers burst into bloom on the first day of spring._
 - **To [[p/_produce|produce]] as an [[e/_effect|effect]] of [[b/_bursting|bursting]].**
 	- _Example: to burst a hole through the wall_
-- **To [[i/_interrupt|interrupt]] suddenly in a violent or [[e/_explosive|explosive]] [[m/_manner|manner]]; to [[s/_shatter|shatter]].**
+- **To [[i/_interrupt|interrupt]] [[s/_suddenly|suddenly]] in a violent or [[e/_explosive|explosive]] [[m/_manner|manner]]; to [[s/_shatter|shatter]].**
 ---
 #noun
 - **The [[a/_act|act]] by which [[s/_something|something]] [[b/_bursts|bursts]].**

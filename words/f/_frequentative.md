@@ -1,7 +1,7 @@
 # Frequentative
 ---
 #noun
-- **([[g/_grammar|grammar]]) [[a/_any|Any]] of a subclass of [[i/_imperfective|imperfective]] verbs that [[d/_denote|denote]] a [[r/_repeated|repeated]] [[a/_action|action]], [[n/_no|no]] [[l/_longer|longer]] [[p/_productive|productive]] in [[e/_english|English]], but [[f/_found|found]] in [[e/_e|e]].[[g/_g|g]]. [[f/_finnish|Finnish]], [[l/_latin|Latin]], [[r/_russian|Russian]], and Turkish.**
+- **([[g/_grammar|grammar]]) [[a/_any|Any]] of a [[s/_subclass|subclass]] of [[i/_imperfective|imperfective]] verbs that [[d/_denote|denote]] a [[r/_repeated|repeated]] [[a/_action|action]], [[n/_no|no]] [[l/_longer|longer]] [[p/_productive|productive]] in [[e/_english|English]], but [[f/_found|found]] in [[e/_e|e]].[[g/_g|g]]. [[f/_finnish|Finnish]], [[l/_latin|Latin]], [[r/_russian|Russian]], and Turkish.**
 ---
 ### Synonyms
 - [[i/_iterative|iterative]]

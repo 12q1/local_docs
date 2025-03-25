@@ -12,7 +12,7 @@
 - **To [[a/_adopt|adopt]] (an [[i/_idea|idea]]) as [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]].**
 	- _Example: to borrow the style, manner, or opinions of another_
 - **To [[a/_adopt|adopt]] a word from [[a/_another|another]] [[l/_language|language]].**
-- **In a subtraction, to [[d/_deduct|deduct]] ([[o/_one|one]]) from a [[d/_digit|digit]] of the [[m/_minuend|minuend]] and [[a/_add|add]] ten to the [[f/_following|following]] [[d/_digit|digit]], in [[o/_order|order]] that the subtraction of a [[l/_larger|larger]] [[d/_digit|digit]] in the subtrahend from the [[d/_digit|digit]] in the [[m/_minuend|minuend]] to which ten is [[a/_added|added]] [[g/_gives|gives]] a [[p/_positive|positive]] [[r/_result|result]].**
+- **In a [[s/_subtraction|subtraction]], to [[d/_deduct|deduct]] ([[o/_one|one]]) from a [[d/_digit|digit]] of the [[m/_minuend|minuend]] and [[a/_add|add]] ten to the [[f/_following|following]] [[d/_digit|digit]], in [[o/_order|order]] that the [[s/_subtraction|subtraction]] of a [[l/_larger|larger]] [[d/_digit|digit]] in the [[s/_subtrahend|subtrahend]] from the [[d/_digit|digit]] in the [[m/_minuend|minuend]] to which ten is [[a/_added|added]] [[g/_gives|gives]] a [[p/_positive|positive]] [[r/_result|result]].**
 - **(Upper [[m/_midwestern|Midwestern]] United [[s/_states|States]]) To [[l/_lend|lend]].**
 - **To temporarily [[o/_obtain|obtain]] ([[s/_something|something]]) for ([[s/_someone|someone]]).**
 - **To [[f/_feign|feign]] or [[c/_counterfeit|counterfeit]].**

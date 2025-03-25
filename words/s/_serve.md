@@ -12,7 +12,7 @@
 #verb
 - **([[p/_personal|personal]]) To [[p/_provide|provide]] a [[s/_service|service]] (or, by [[e/_extension|extension]], a [[p/_product|product]], [[e/_especially|especially]] [[f/_food|food]] or [[d/_drink|drink]]).**
 - **To treat ([[s/_someone|someone]]) in a [[g/_given|given]] [[m/_manner|manner]].**
-- **To be suitor to; to be the [[l/_lover|lover]] of.**
+- **To be [[s/_suitor|suitor]] to; to be the [[l/_lover|lover]] of.**
 - **To be [[e/_effective|effective]].**
 - **To [[d/_deliver|deliver]] a [[d/_document|document]].**
 - **To [[l/_lead|lead]] [[o/_off|off]] with the [[f/_first|first]] [[d/_delivery|delivery]] [[o/_over|over]] the [[n/_net|net]] in tennis, volleyball, [[p/_ping|ping]] [[p/_pong|pong]], [[b/_badminton|badminton]] [[e/_etc|etc]].**

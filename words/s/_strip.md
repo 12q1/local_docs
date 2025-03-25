@@ -3,7 +3,7 @@
 #noun
 - **A [[l/_long|long]], thin [[p/_piece|piece]] of [[l/_land|land]]; [[a/_any|any]] [[l/_long|long]], thin [[a/_area|area]].**
 	- _Example: The countries were in dispute over the ownership of a strip of desert about 100 metres wide._
-- **(usually [[c/_countable|countable]], [[s/_sometimes|sometimes]] uncountable) A [[l/_long|long]], thin [[p/_piece|piece]] of [[a/_any|any]] [[m/_material|material]]; [[a/_any|any]] such [[m/_material|material]] [[c/_collectively|collectively]].**
+- **(usually [[c/_countable|countable]], [[s/_sometimes|sometimes]] uncountable) A [[l/_long|long]], thin [[p/_piece|piece]] of [[a/_any|any]] [[m/_material|material]]; [[a/_any|any]] [[s/_such|such]] [[m/_material|material]] [[c/_collectively|collectively]].**
 	- _Example: I have some strip left over after fitting out the kitchen._
 - **A [[c/_comic|comic]] [[s/_strip|strip]].**
 - **A [[l/_landing|landing]] [[s/_strip|strip]].**

@@ -18,8 +18,8 @@
 ### Synonyms
 - [[m/_midday|midday]], [[n/_noon|noon]], [[n/_noontide|noontide]], [[n/_none|none]], [[n/_none|none]], [[n/_noon|noon]]
 #noun
-- **The [[n/_ninth|ninth]] [[h/_hour|hour]] of the [[d/_day|day]] [[c/_counted|counted]] from sunrise; [[a/_around|around]] three [[o/_o|o]]'[[c/_clock|clock]] in the [[a/_afternoon|afternoon]].**
-- **Time of [[d/_day|day]] when the sun is in [[i/_its|its]] zenith; twelve [[o/_o|o]]'[[c/_clock|clock]] in the [[d/_day|day]], [[m/_midday|midday]].**
+- **The [[n/_ninth|ninth]] [[h/_hour|hour]] of the [[d/_day|day]] [[c/_counted|counted]] from [[s/_sunrise|sunrise]]; [[a/_around|around]] three [[o/_o|o]]'[[c/_clock|clock]] in the [[a/_afternoon|afternoon]].**
+- **Time of [[d/_day|day]] when the [[s/_sun|sun]] is in [[i/_its|its]] zenith; twelve [[o/_o|o]]'[[c/_clock|clock]] in the [[d/_day|day]], [[m/_midday|midday]].**
 - **The [[c/_corresponding|corresponding]] time in the [[m/_middle|middle]] of the [[n/_night|night]]; [[m/_midnight|midnight]].**
 	- _Example: 1885, When night was at its noon I heard a voice chanting the Koran in sweetest accents — Sir Richard Burton, The Book of the Thousand Nights and One Night, Night 17:_
 - **The [[h/_highest|highest]] [[p/_point|point]]; [[c/_culmination|culmination]].**

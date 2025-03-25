@@ -6,7 +6,7 @@
 - **A [[s/_structural|structural]] [[d/_derivative|derivative]] of a [[p/_parent|parent]] [[c/_compound|compound]] that [[o/_often|often]] [[d/_differs|differs]] from it by a [[s/_single|single]] [[e/_element|element]]**
 ---
 #adjective
-- **(of a [[d/_device|device]] or [[s/_system|system]]) in which the value of a [[d/_data|data]] [[i/_item|item]] (such as time) is [[r/_represented|represented]] by a [[c/_continuous|continuous]]([[l/_ly|ly]]) variable [[p/_physical|physical]] [[q/_quantity|quantity]] that [[c/_can|can]] be [[m/_measured|measured]] (such as the [[s/_shadow|shadow]] of a sundial)**
+- **(of a [[d/_device|device]] or [[s/_system|system]]) in which the value of a [[d/_data|data]] [[i/_item|item]] ([[s/_such|such]] as time) is [[r/_represented|represented]] by a [[c/_continuous|continuous]]([[l/_ly|ly]]) variable [[p/_physical|physical]] [[q/_quantity|quantity]] that [[c/_can|can]] be [[m/_measured|measured]] ([[s/_such|such]] as the [[s/_shadow|shadow]] of a [[s/_sundial|sundial]])**
 ---
 ### Antonyms
 - [[d/_digital|digital]], [[d/_discrete|discrete]]

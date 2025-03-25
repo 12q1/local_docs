@@ -16,7 +16,7 @@
 - **To [[a/_act|act]] [[h/_habitually|habitually]] in [[c/_conformity|conformity]] with; to [[p/_practice|practice]]; to [[e/_exemplify|exemplify]] in [[o/_one|one]]'[[s/_s|s]] way of [[l/_life|life]].**
 - **To [[o/_outlast|outlast]] [[d/_danger|danger]]; to [[f/_float|float]] ([[s/_said|said]] of a [[s/_ship|ship]], [[b/_boat|boat]], [[e/_etc|etc]]).**
 	- _Example: No ship could live in such a storm._
-- **([[f/_followed|followed]] by "on" or "upon") To [[m/_maintain|maintain]] or support [[o/_one|one]]'[[s/_s|s]] [[e/_existence|existence]]; to [[p/_provide|provide]] for [[o/_oneself|oneself]]; to [[f/_feed|feed]]; to subsist.**
+- **([[f/_followed|followed]] by "on" or "upon") To [[m/_maintain|maintain]] or support [[o/_one|one]]'[[s/_s|s]] [[e/_existence|existence]]; to [[p/_provide|provide]] for [[o/_oneself|oneself]]; to [[f/_feed|feed]]; to [[s/_subsist|subsist]].**
 	- _Example: It is hard to live on the minimum wage.   They lived on stale bread._
 - **To [[m/_make|make]] the [[m/_most|most]] of [[l/_life|life]]; to [[e/_experience|experience]] a [[f/_full|full]], [[r/_rich|rich]] [[l/_life|life]].**
 	- _Example: I'm sick of spending every day studying at home: I want to go out there and live!_

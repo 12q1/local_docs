@@ -20,7 +20,7 @@
 	- _Example: That's a very deep shade of blue._
 - **([[s/_sleep|sleep]]) [[s/_sound|Sound]], [[h/_heavy|heavy]] ([[d/_describing|describing]] a [[s/_state|state]] of [[s/_sleep|sleep]] from which [[o/_one|one]] is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
 	- _Example: He was in a deep sleep._
-- **[[i/_immersed|Immersed]], submerged (in).**
+- **[[i/_immersed|Immersed]], [[s/_submerged|submerged]] (in).**
 	- _Example: deep in debt_
 - **[[m/_muddy|Muddy]]; [[b/_boggy|boggy]]; [[s/_sandy|sandy]]; [[s/_said|said]] of [[r/_roads|roads]].**
 - **(of time) [[d/_distant|Distant]] in the [[p/_past|past]], [[a/_ancient|ancient]].**

@@ -15,7 +15,7 @@
 - [[c/_comeback|comeback]], [[r/_rejoinder|rejoinder]]
 #noun
 - **A [[f/_flask|flask]] with a [[r/_rounded|rounded]] [[b/_base|base]] and a [[l/_long|long]] [[n/_neck|neck]] that is [[b/_bent|bent]] [[d/_down|down]] and tapered, used to [[h/_heat|heat]] a [[l/_liquid|liquid]] for [[d/_distillation|distillation]].**
-- **A [[a/_airtight|airtight]] vessel in which [[m/_material|material]] is subjected to [[h/_high|high]] temperatures in the [[c/_chemical|chemical]] [[i/_industry|industry]] or as [[p/_part|part]] of an [[i/_industrial|industrial]] [[m/_manufacturing|manufacturing]] [[p/_process|process]], [[e/_especially|especially]] [[d/_during|during]] the [[s/_smelting|smelting]] and [[f/_forging|forging]] of [[m/_metal|metal]].**
+- **A [[a/_airtight|airtight]] vessel in which [[m/_material|material]] is [[s/_subjected|subjected]] to [[h/_high|high]] temperatures in the [[c/_chemical|chemical]] [[i/_industry|industry]] or as [[p/_part|part]] of an [[i/_industrial|industrial]] [[m/_manufacturing|manufacturing]] [[p/_process|process]], [[e/_especially|especially]] [[d/_during|during]] the [[s/_smelting|smelting]] and [[f/_forging|forging]] of [[m/_metal|metal]].**
 - **A [[p/_pressure|pressure]] [[c/_cooker|cooker]]**
 ---
 #verb

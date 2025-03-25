@@ -3,8 +3,8 @@
 #noun
 - **A [[m/_means|means]] of [[e/_exit|exit]], [[e/_escape|escape]], [[r/_reprieve|reprieve]], [[e/_etc|etc]].**
 	- _Example: They wrote the law to give those organizations an out._
-- **A [[s/_state|state]] in which a [[m/_member|member]] of the [[b/_batting|batting]] team is [[r/_removed|removed]] from [[p/_play|play]] [[d/_due|due]] to the [[a/_application|application]] of various [[r/_rules|rules]] of the [[g/_game|game]] such as [[s/_striking|striking]] [[o/_out|out]], [[h/_hitting|hitting]] a [[f/_fly|fly]] [[b/_ball|ball]] which is [[c/_caught|caught]] by the [[f/_fielding|fielding]] team [[b/_before|before]] [[b/_bouncing|bouncing]], [[e/_etc|etc]].**
-- **A [[d/_dismissal|dismissal]]; a [[s/_state|state]] in which a [[m/_member|member]] of the [[b/_batting|batting]] team [[f/_finishes|finishes]] [[h/_his|his]] turn at [[b/_bat|bat]], [[d/_due|due]] to the [[a/_application|application]] of various [[r/_rules|rules]] of the [[g/_game|game]], such as the [[b/_bowler|bowler]] [[k/_knocking|knocking]] [[o/_over|over]] the [[b/_batsman|batsman]]'[[s/_s|s]] wicket with the [[b/_ball|ball]].**
+- **A [[s/_state|state]] in which a [[m/_member|member]] of the [[b/_batting|batting]] team is [[r/_removed|removed]] from [[p/_play|play]] [[d/_due|due]] to the [[a/_application|application]] of various [[r/_rules|rules]] of the [[g/_game|game]] [[s/_such|such]] as [[s/_striking|striking]] [[o/_out|out]], [[h/_hitting|hitting]] a [[f/_fly|fly]] [[b/_ball|ball]] which is [[c/_caught|caught]] by the [[f/_fielding|fielding]] team [[b/_before|before]] [[b/_bouncing|bouncing]], [[e/_etc|etc]].**
+- **A [[d/_dismissal|dismissal]]; a [[s/_state|state]] in which a [[m/_member|member]] of the [[b/_batting|batting]] team [[f/_finishes|finishes]] [[h/_his|his]] turn at [[b/_bat|bat]], [[d/_due|due]] to the [[a/_application|application]] of various [[r/_rules|rules]] of the [[g/_game|game]], [[s/_such|such]] as the [[b/_bowler|bowler]] [[k/_knocking|knocking]] [[o/_over|over]] the [[b/_batsman|batsman]]'[[s/_s|s]] wicket with the [[b/_ball|ball]].**
 - **A [[c/_card|card]] which [[c/_can|can]] [[m/_make|make]] a [[h/_hand|hand]] a winner.**
 - **A trip [[o/_out|out]]; an [[o/_outing|outing]].**
 - **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[o/_one|One]] who, or that which, is [[o/_out|out]]; [[e/_especially|especially]], [[o/_one|one]] who is [[o/_out|out]] of [[o/_office|office]].**
@@ -16,7 +16,7 @@
 #verb
 - **To [[e/_eject|eject]]; to [[e/_expel|expel]].**
 - **To [[r/_reveal|reveal]] (a [[p/_person|person]]) as LGBT+ ([[g/_gay|gay]], trans, [[e/_etc|etc]]).**
-- **To [[r/_reveal|reveal]] (a [[p/_person|person]] or [[o/_organization|organization]]) as [[h/_having|having]] a [[c/_certain|certain]] [[s/_secret|secret]], such as a [[b/_being|being]] a [[s/_secret|secret]] [[a/_agent|agent]] or undercover [[d/_detective|detective]].**
+- **To [[r/_reveal|reveal]] (a [[p/_person|person]] or [[o/_organization|organization]]) as [[h/_having|having]] a [[c/_certain|certain]] [[s/_secret|secret]], [[s/_such|such]] as a [[b/_being|being]] a [[s/_secret|secret]] [[a/_agent|agent]] or undercover [[d/_detective|detective]].**
 - **To [[r/_reveal|reveal]] (a [[s/_secret|secret]]).**
 	- _Example: A Brazilian company outed the new mobile phone design._
 - **To [[c/_come|come]] or [[g/_go|go]] [[o/_out|out]]; to [[g/_get|get]] [[o/_out|out]] or [[a/_away|away]]; to [[b/_become|become]] [[p/_public|public]] or [[a/_apparent|apparent]].**
@@ -41,7 +41,7 @@
 - **(by [[e/_extension|extension]]) [[o/_open|Open]], [[p/_public|public]]; [[p/_public|public]] [[a/_about|about]] or [[o/_openly|openly]] [[a/_acknowledging|acknowledging]] [[s/_some|some]] (usually [[s/_specified|specified]]) [[i/_identity|identity]].**
 - **(of [[f/_flowers|flowers]]) In [[b/_bloom|bloom]].**
 	- _Example: The garden looks beautiful now that the roses are out._
-- **(of the sun, [[m/_moon|moon]] or [[s/_stars|stars]]) Visible in the [[s/_sky|sky]]; not [[o/_obscured|obscured]] by [[c/_clouds|clouds]].**
+- **(of the [[s/_sun|sun]], [[m/_moon|moon]] or [[s/_stars|stars]]) Visible in the [[s/_sky|sky]]; not [[o/_obscured|obscured]] by [[c/_clouds|clouds]].**
 	- _Example: The sun is out, and it's a lovely day._
 - **(of [[l/_lamps|lamps]], [[f/_fires|fires]] [[e/_etc|etc]].) Not [[s/_shining|shining]] or [[b/_burning|burning]].**
 	- _Example: I called round to the house but all the lights were out and no one was home._
@@ -82,9 +82,9 @@
 	- _Example: I haven't finished. Hear me out._
 - **Used to [[i/_intensify|intensify]] or [[e/_emphasize|emphasize]].**
 	- _Example: The place was all decked out for the holidays._
-- **(of the sun, [[m/_moon|moon]], [[s/_stars|stars]], [[e/_etc|etc]].) [[s/_so|So]] as to be visible in the [[s/_sky|sky]], and not [[c/_covered|covered]] by [[c/_clouds|clouds]], [[f/_fog|fog]], [[e/_etc|etc]].**
+- **(of the [[s/_sun|sun]], [[m/_moon|moon]], [[s/_stars|stars]], [[e/_etc|etc]].) [[s/_so|So]] as to be visible in the [[s/_sky|sky]], and not [[c/_covered|covered]] by [[c/_clouds|clouds]], [[f/_fog|fog]], [[e/_etc|etc]].**
 	- _Example: The sun came out after the rain, and we saw a rainbow._
-- **Of a [[p/_player|player]], [[s/_so|so]] as to be [[d/_disqualified|disqualified]] from [[p/_playing|playing]] [[f/_further|further]] by [[s/_some|some]] [[a/_action|action]] of a [[m/_member|member]] of the [[o/_opposing|opposing]] team (such as [[b/_being|being]] [[s/_stumped|stumped]] in [[c/_cricket|cricket]]).**
+- **Of a [[p/_player|player]], [[s/_so|so]] as to be [[d/_disqualified|disqualified]] from [[p/_playing|playing]] [[f/_further|further]] by [[s/_some|some]] [[a/_action|action]] of a [[m/_member|member]] of the [[o/_opposing|opposing]] team ([[s/_such|such]] as [[b/_being|being]] [[s/_stumped|stumped]] in [[c/_cricket|cricket]]).**
 	- _Example: Wilson was bowled out for five runs._
 ---
 ### Synonyms

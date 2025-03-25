@@ -21,9 +21,9 @@
 - **To [[d/_defile|defile]]; to [[s/_soil|soil]].**
 ---
 #noun
-- **The [[a/_act|act]] by which [[s/_something|something]] is [[f/_foiled|foiled]]; [[p/_prevention|prevention]] of success.**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[f/_foiled|foiled]]; [[p/_prevention|prevention]] of [[s/_success|success]].**
 	- _Example: the foilings of our expectations_
-- **The track of [[g/_game|game]], such as [[d/_deer|deer]], in the [[g/_grass|grass]].**
+- **The track of [[g/_game|game]], [[s/_such|such]] as [[d/_deer|deer]], in the [[g/_grass|grass]].**
 - **A [[f/_foil|foil]].**
 ---
 ---

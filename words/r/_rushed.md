@@ -9,7 +9,7 @@
 - **([[c/_contact|contact]] [[s/_sports|sports]]) To [[r/_run|run]] [[d/_directly|directly]] at [[a/_another|another]] [[p/_player|player]] in [[o/_order|order]] to [[b/_block|block]] or [[d/_disrupt|disrupt]] [[p/_play|play]].**
 - **To [[c/_cause|cause]] to [[m/_move|move]] or [[a/_act|act]] with unusual [[h/_haste|haste]].**
 	- _Example: Don't rush your client or he may withdraw._
-- **To [[m/_make|make]] a swift or sudden [[a/_attack|attack]].**
+- **To [[m/_make|make]] a swift or [[s/_sudden|sudden]] [[a/_attack|attack]].**
 - **To swiftly [[a/_attack|attack]] without warning.**
 - **To [[a/_attack|attack]] (an [[o/_opponent|opponent]]) with a [[l/_large|large]] swarm of units.**
 - **([[c/_college|college]]) To [[a/_attempt|attempt]] to [[j/_join|join]] a [[f/_fraternity|fraternity]] or [[s/_sorority|sorority]]; to undergo [[h/_hazing|hazing]] or [[i/_initiation|initiation]] in [[o/_order|order]] to [[j/_join|join]] a [[f/_fraternity|fraternity]] or [[s/_sorority|sorority]].**

@@ -8,6 +8,6 @@
 ---
 #noun
 - **A [[l/_long|long]]-[[h/_handled|handled]] [[s/_spear|spear]] with a triangular, [[d/_double|double]]-[[e/_edged|edged]] [[b/_blade|blade]] [[h/_having|having]] [[l/_lateral|lateral]] [[p/_projections|projections]], in [[s/_some|some]] [[f/_forms|forms]] [[a/_also|also]] used in [[b/_boar|boar]] [[h/_hunting|hunting]].**
-- **A [[s/_soldier|soldier]] [[a/_armed|armed]] with such a weapon.**
+- **A [[s/_soldier|soldier]] [[a/_armed|armed]] with [[s/_such|such]] a weapon.**
 ---
 ---

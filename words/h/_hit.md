@@ -3,7 +3,7 @@
 #noun
 - **A [[b/_blow|blow]]; a [[p/_punch|punch]]; a [[s/_striking|striking]] [[a/_against|against]]; the [[c/_collision|collision]] of [[o/_one|one]] [[b/_body|body]] [[a/_against|against]] [[a/_another|another]]; the [[s/_stroke|stroke]] that touches [[a/_anything|anything]].**
 	- _Example: The hit was very slight._
-- **[[s/_something|Something]] very successful, such as a [[s/_song|song]], [[f/_film|film]], or video [[g/_game|game]], that [[r/_receives|receives]] widespread [[r/_recognition|recognition]] and [[a/_acclaim|acclaim]].**
+- **[[s/_something|Something]] very [[s/_successful|successful]], [[s/_such|such]] as a [[s/_song|song]], [[f/_film|film]], or video [[g/_game|game]], that [[r/_receives|receives]] widespread [[r/_recognition|recognition]] and [[a/_acclaim|acclaim]].**
 - **An [[a/_attack|attack]] on a [[l/_location|location]], [[p/_person|person]] or [[p/_people|people]].**
 - **A [[c/_collision|collision]] of a [[p/_projectile|projectile]] with the target.**
 - **A [[m/_match|match]] [[f/_found|found]] by [[s/_searching|searching]] a [[c/_computer|computer]] [[s/_system|system]] or [[s/_search|search]] [[e/_engine|engine]]**
@@ -40,14 +40,14 @@
 	- _Example: The external web servers hit DBSRV7, but the internal web server hits DBSRV3._
 - **To [[h/_have|have]] [[s/_sex|sex]] with.**
 	- _Example: I'd hit that._
-- **To [[i/_inhale|inhale]] an [[a/_amount|amount]] of [[s/_smoke|smoke]] from a [[n/_narcotic|narcotic]] substance, [[p/_particularly|particularly]] [[m/_marijuana|marijuana]].**
+- **To [[i/_inhale|inhale]] an [[a/_amount|amount]] of [[s/_smoke|smoke]] from a [[n/_narcotic|narcotic]] [[s/_substance|substance]], [[p/_particularly|particularly]] [[m/_marijuana|marijuana]].**
 ---
 ### Synonyms
 - [[b/_beat|beat]], [[p/_pelt|pelt]], [[t/_thump|thump]], [[b/_beset|beset]], [[b/_bang|bang]], [[r/_ram|ram]], [[s/_smash|smash]], [[w/_whack|whack]], [[t/_toke|toke]]
 ### Antonyms
 - [[m/_miss|miss]], [[c/_cut|cut]], [[k/_kill|kill]], [[m/_miss|miss]]
 #adjective
-- **Very successful.**
+- **Very [[s/_successful|successful]].**
 	- _Example: The band played their hit song to the delight of the fans._
 ---
 ---

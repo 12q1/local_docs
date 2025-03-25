@@ -20,6 +20,6 @@
 #noun
 - **The [[f/_fibrous|fibrous]] [[i/_inner|inner]] [[b/_bark|bark]] of the [[l/_linden|linden]] or [[l/_lime|lime]] tree, used for [[m/_making|making]] [[m/_mats|mats]].**
 - **[[f/_fibers|Fibers]] from [[o/_other|other]] [[p/_plants|plants]], [[e/_especially|especially]] [[p/_palm|palm]] trees**
-- **[[a/_anything|Anything]] [[m/_made|made]] from such [[f/_fibers|fibers]], such as a [[h/_hassock|hassock]], [[b/_basket|basket]] or thick [[m/_mat|mat]].**
+- **[[a/_anything|Anything]] [[m/_made|made]] from [[s/_such|such]] [[f/_fibers|fibers]], [[s/_such|such]] as a [[h/_hassock|hassock]], [[b/_basket|basket]] or thick [[m/_mat|mat]].**
 ---
 ---

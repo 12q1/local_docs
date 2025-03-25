@@ -10,7 +10,7 @@
 - **[[a/_any|Any]] of a [[s/_series|series]] of [[s/_strokes|strokes]] on a [[b/_bell|bell]] (or [[s/_similar|similar]]), [[s/_struck|struck]] [[e/_every|every]] [[h/_half|half]] [[h/_hour|hour]] to [[i/_indicate|indicate]] the time (within a [[f/_four|four]] [[h/_hour|hour]] watch)**
 - **The [[f/_flared|flared]] [[e/_end|end]] of a [[p/_pipe|pipe]], [[d/_designed|designed]] to [[m/_mate|mate]] with a [[n/_narrow|narrow]] [[s/_spigot|spigot]].**
 - **A [[d/_device|device]] [[c/_control|control]] [[c/_code|code]] that [[p/_produces|produces]] a [[b/_beep|beep]] (or [[r/_rings|rings]] a [[s/_small|small]] [[e/_electromechanical|electromechanical]] [[b/_bell|bell]] on [[o/_older|older]] teleprinters [[e/_etc|etc]].).**
-- **[[a/_anything|Anything]] [[s/_shaped|shaped]] [[l/_like|like]] a [[b/_bell|bell]], such as the [[c/_cup|cup]] or [[c/_corolla|corolla]] of a [[f/_flower|flower]].**
+- **[[a/_anything|Anything]] [[s/_shaped|shaped]] [[l/_like|like]] a [[b/_bell|bell]], [[s/_such|such]] as the [[c/_cup|cup]] or [[c/_corolla|corolla]] of a [[f/_flower|flower]].**
 - **The [[p/_part|part]] of the [[c/_capital|capital]] of a [[c/_column|column]] [[i/_included|included]] [[b/_between|between]] the [[a/_abacus|abacus]] and [[n/_neck|neck]] [[m/_molding|molding]]; [[a/_also|also]] used for the [[n/_naked|naked]] [[c/_core|core]] of [[n/_nearly|nearly]] [[c/_cylindrical|cylindrical]] [[s/_shape|shape]], [[a/_assumed|assumed]] to [[e/_exist|exist]] within the [[l/_leafage|leafage]] of a [[c/_capital|capital]].**
 - **An [[i/_instrument|instrument]] [[s/_situated|situated]] on a [[b/_bicycle|bicycle]]'[[s/_s|s]] [[h/_handlebar|handlebar]], used by the [[c/_cyclist|cyclist]] to warn of [[h/_his|his]] or [[h/_her|her]] [[p/_presence|presence]].**
 ---
@@ -26,7 +26,7 @@
 	- _Example: Hops bell._
 ---
 #noun
-- **The [[b/_bellow|bellow]] or [[b/_bay|bay]] of [[c/_certain|certain]] [[a/_animals|animals]], such as a [[h/_hound|hound]] on the [[h/_hunt|hunt]] or a [[s/_stag|stag]] in [[r/_rut|rut]].**
+- **The [[b/_bellow|bellow]] or [[b/_bay|bay]] of [[c/_certain|certain]] [[a/_animals|animals]], [[s/_such|such]] as a [[h/_hound|hound]] on the [[h/_hunt|hunt]] or a [[s/_stag|stag]] in [[r/_rut|rut]].**
 ---
 #verb
 - **To [[b/_bellow|bellow]] or [[r/_roar|roar]].**

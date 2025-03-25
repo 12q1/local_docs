@@ -1,7 +1,7 @@
 # Blotted
 ---
 #verb
-- **To [[c/_cause|cause]] a [[b/_blot|blot]] (on [[s/_something|something]]) by [[s/_spilling|spilling]] a [[c/_coloured|coloured]] substance.**
+- **To [[c/_cause|cause]] a [[b/_blot|blot]] (on [[s/_something|something]]) by [[s/_spilling|spilling]] a [[c/_coloured|coloured]] [[s/_substance|substance]].**
 - **To [[s/_soak|soak]] up or [[a/_absorb|absorb]] [[l/_liquid|liquid]].**
 	- _Example: This paper blots easily._
 - **To [[d/_dry|dry]] (writing, [[e/_etc|etc]].) with [[b/_blotting|blotting]] [[p/_paper|paper]].**

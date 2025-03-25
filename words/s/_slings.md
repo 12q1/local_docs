@@ -3,7 +3,7 @@
 #noun
 - **An [[i/_instrument|instrument]] for throwing [[s/_stones|stones]] or [[o/_other|other]] [[m/_missiles|missiles]], [[c/_consisting|consisting]] of a [[s/_short|short]] [[s/_strap|strap]] with two [[s/_strings|strings]] [[f/_fastened|fastened]] to [[i/_its|its]] [[e/_ends|ends]], or with a [[s/_string|string]] [[f/_fastened|fastened]] to [[o/_one|one]] [[e/_end|end]] and a [[l/_light|light]] [[s/_stick|stick]] to the [[o/_other|other]].**
 - **A [[k/_kind|kind]] of [[h/_hanging|hanging]] [[b/_bandage|bandage]] [[p/_put|put]] [[a/_around|around]] the [[n/_neck|neck]], in which a wounded [[a/_arm|arm]] or [[h/_hand|hand]] is supported.**
-- **A [[l/_loop|loop]] of [[c/_cloth|cloth]], worn [[a/_around|around]] the [[n/_neck|neck]], for supporting a [[b/_baby|baby]] or [[o/_other|other]] such [[l/_load|load]].**
+- **A [[l/_loop|loop]] of [[c/_cloth|cloth]], worn [[a/_around|around]] the [[n/_neck|neck]], for supporting a [[b/_baby|baby]] or [[o/_other|other]] [[s/_such|such]] [[l/_load|load]].**
 - **A [[l/_loop|loop]] of [[r/_rope|rope]], or a [[r/_rope|rope]] or [[c/_chain|chain]] with [[h/_hooks|hooks]], for suspending a [[b/_barrel|barrel]], [[b/_bale|bale]], or [[o/_other|other]] [[h/_heavy|heavy]] [[o/_object|object]], in [[h/_hoisting|hoisting]] or [[l/_lowering|lowering]].**
 - **A [[s/_strap|strap]] [[a/_attached|attached]] to a [[f/_firearm|firearm]], for suspending it from the [[s/_shoulder|shoulder]].**
 - **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[b/_band|band]] of [[r/_rope|rope]] or [[i/_iron|iron]] for [[s/_securing|securing]] a [[y/_yard|yard]] to a [[m/_mast|mast]].**
@@ -19,6 +19,6 @@
 - **To [[s/_sell|sell]], [[p/_peddle|peddle]], or [[d/_distribute|distribute]] [[i/_illicitly|illicitly]] ([[e/_e|e]].[[g/_g|g]]. [[d/_drugs|drugs]], [[s/_sex|sex]], [[e/_etc|etc]].).**
 ---
 #noun
-- **A [[y/_young|young]] or [[i/_infant|infant]] [[s/_spider|spider]], such as [[o/_one|one]] [[r/_raised|raised]] in [[c/_captivity|captivity]].**
+- **A [[y/_young|young]] or [[i/_infant|infant]] [[s/_spider|spider]], [[s/_such|such]] as [[o/_one|one]] [[r/_raised|raised]] in [[c/_captivity|captivity]].**
 ---
 ---

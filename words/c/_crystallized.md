@@ -9,7 +9,7 @@
 	- _Example: After some thought, I crystallized my ideas for the paper._
 - **To take a [[d/_definite|definite]] [[f/_form|form]]**
 	- _Example: My ideas crystallized overnight._
-- **To [[c/_coat|coat]] [[s/_something|something]] with [[c/_crystals|crystals]], [[e/_especially|especially]] with sugar**
+- **To [[c/_coat|coat]] [[s/_something|something]] with [[c/_crystals|crystals]], [[e/_especially|especially]] with [[s/_sugar|sugar]]**
 	- _Example: We crystallized the fruit by coating in sugar._
 ---
 #adjective

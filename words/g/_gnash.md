@@ -1,7 +1,7 @@
 # Gnash
 ---
 #noun
-- **A sudden [[s/_snapping|snapping]] of the teeth.**
+- **A [[s/_sudden|sudden]] [[s/_snapping|snapping]] of the teeth.**
 ---
 #verb
 - **To [[g/_grind|grind]] ([[o/_one|one]]'[[s/_s|s]] teeth) in [[p/_pain|pain]] or in [[a/_anger|anger]].**

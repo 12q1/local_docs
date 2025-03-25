@@ -13,7 +13,7 @@
 ### Antonyms
 - [[a/_alleviate|alleviate]], [[m/_mitigate|mitigate]]
 #adjective
-- **[[h/_having|Having]] [[b/_been|been]] the subject of [[a/_aggravation|aggravation]]; [[f/_frustrated|frustrated]] and [[a/_angry|angry]].**
+- **[[h/_having|Having]] [[b/_been|been]] the [[s/_subject|subject]] of [[a/_aggravation|aggravation]]; [[f/_frustrated|frustrated]] and [[a/_angry|angry]].**
 ---
 ### Synonyms
 - [[a/_aggro|aggro]]

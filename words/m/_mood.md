@@ -4,7 +4,7 @@
 - **A [[m/_mental|mental]] or [[e/_emotional|emotional]] [[s/_state|state]], [[c/_composure|composure]].**
 	- _Example: I've been in a bad mood since I dumped my boyfriend._
 - **[[e/_emotional|Emotional]] [[c/_character|character]] (of a work of [[m/_music|music]], [[l/_literature|literature]], or [[o/_other|other]] [[a/_art|art]]).**
-- **A sullen, [[g/_gloomy|gloomy]] or [[a/_angry|angry]] [[m/_mental|mental]] [[s/_state|state]]; a [[b/_bad|bad]] [[m/_mood|mood]].**
+- **A [[s/_sullen|sullen]], [[g/_gloomy|gloomy]] or [[a/_angry|angry]] [[m/_mental|mental]] [[s/_state|state]]; a [[b/_bad|bad]] [[m/_mood|mood]].**
 	- _Example: He's in a mood with me today._
 - **A [[d/_disposition|disposition]] to [[d/_do|do]] [[s/_something|something]], a [[s/_state|state]] of [[m/_mind|mind]] [[r/_receptive|receptive]] or [[d/_disposed|disposed]] to [[d/_do|do]] [[s/_something|something]].**
 	- _Example: I'm not in the mood for running today._

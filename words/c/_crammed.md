@@ -1,7 +1,7 @@
 # Crammed
 ---
 #verb
-- **To [[p/_press|press]], [[f/_force|force]], or [[d/_drive|drive]], [[p/_particularly|particularly]] in [[f/_filling|filling]], or in thrusting [[o/_one|one]] thing [[i/_into|into]] [[a/_another|another]]; to [[s/_stuff|stuff]]; to [[f/_fill|fill]] to superfluity.**
+- **To [[p/_press|press]], [[f/_force|force]], or [[d/_drive|drive]], [[p/_particularly|particularly]] in [[f/_filling|filling]], or in thrusting [[o/_one|one]] thing [[i/_into|into]] [[a/_another|another]]; to [[s/_stuff|stuff]]; to [[f/_fill|fill]] to [[s/_superfluity|superfluity]].**
 	- _Example: to cram fruit into a basket; to cram a room with people_
 - **To [[f/_fill|fill]] with [[f/_food|food]] to [[s/_satiety|satiety]]; to [[s/_stuff|stuff]].**
 	- _Example: The boy crammed himself with cake_

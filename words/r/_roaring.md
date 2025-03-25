@@ -20,7 +20,7 @@
 ---
 #adjective
 - **[[i/_intensive|Intensive]]; [[e/_extreme|extreme]].**
-- **Very successful; [[l/_lively|lively]].**
+- **Very [[s/_successful|successful]]; [[l/_lively|lively]].**
 	- _Example: The ice-cream sellers did a roaring trade in the midday heat._
 ---
 ### Synonyms

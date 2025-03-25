@@ -5,7 +5,7 @@
 	- _Example: I found a scrap of cloth to patch the hole._
 - **(usually in the [[p/_plural|plural]]) [[l/_leftover|Leftover]] [[f/_food|food]].**
 	- _Example: Give the scraps to the dogs and watch them fight._
-- **The [[c/_crisp|crisp]] substance that [[r/_remains|remains]] [[a/_after|after]] [[d/_drying|drying]] [[o/_out|out]] [[a/_animal|animal]] [[f/_fat|fat]].**
+- **The [[c/_crisp|crisp]] [[s/_substance|substance]] that [[r/_remains|remains]] [[a/_after|after]] [[d/_drying|drying]] [[o/_out|out]] [[a/_animal|animal]] [[f/_fat|fat]].**
 	- _Example: pork scraps_
 - **[[d/_discarded|Discarded]] [[o/_objects|objects]] ([[e/_especially|especially]] [[m/_metal|metal]]) that [[m/_may|may]] be [[d/_dismantled|dismantled]] to [[r/_recover|recover]] their [[c/_constituent|constituent]] [[m/_materials|materials]], [[j/_junk|junk]].**
 	- _Example: That car isn't good for anything but scrap._

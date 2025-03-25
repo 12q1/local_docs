@@ -1,7 +1,7 @@
 # Happier
 ---
 #adjective
-- **[[h/_having|Having]] a [[f/_feeling|feeling]] [[a/_arising|arising]] from a [[c/_consciousness|consciousness]] of well-[[b/_being|being]] or of [[e/_enjoyment|enjoyment]]; [[e/_enjoying|enjoying]] [[g/_good|good]] of [[a/_any|any]] [[k/_kind|kind]], such as [[c/_comfort|comfort]], [[p/_peace|peace]], or tranquillity; [[b/_blissful|blissful]], [[c/_contented|contented]], [[j/_joyous|joyous]].**
+- **[[h/_having|Having]] a [[f/_feeling|feeling]] [[a/_arising|arising]] from a [[c/_consciousness|consciousness]] of well-[[b/_being|being]] or of [[e/_enjoyment|enjoyment]]; [[e/_enjoying|enjoying]] [[g/_good|good]] of [[a/_any|any]] [[k/_kind|kind]], [[s/_such|such]] as [[c/_comfort|comfort]], [[p/_peace|peace]], or tranquillity; [[b/_blissful|blissful]], [[c/_contented|contented]], [[j/_joyous|joyous]].**
 	- _Example: Music makes me feel happy._
 - **[[e/_experiencing|Experiencing]] the [[e/_effect|effect]] of [[f/_favourable|favourable]] [[f/_fortune|fortune]]; [[f/_favored|favored]] by [[f/_fortune|fortune]] or [[l/_luck|luck]]; [[f/_fortunate|fortunate]], [[l/_lucky|lucky]], [[p/_propitious|propitious]].**
 - **[[c/_content|Content]], [[s/_satisfied|satisfied]] (with or to [[d/_do|do]] [[s/_something|something]]); [[h/_having|having]] [[n/_no|no]] [[o/_objection|objection]] (to [[s/_something|something]]).**

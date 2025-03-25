@@ -12,6 +12,6 @@
 - [[H/_Hooverize|Hooverize]]
 #noun
 - **A [[r/_ration|ration]].**
-- **[[c/_controlled|Controlled]] [[d/_distribution|distribution]] of [[s/_scarce|scarce]] [[r/_resources|resources]] such as [[f/_food|food]] or [[f/_fuel|fuel]]; used typically in wartime.**
+- **[[c/_controlled|Controlled]] [[d/_distribution|distribution]] of [[s/_scarce|scarce]] [[r/_resources|resources]] [[s/_such|such]] as [[f/_food|food]] or [[f/_fuel|fuel]]; used typically in wartime.**
 ---
 ---

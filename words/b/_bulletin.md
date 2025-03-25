@@ -6,6 +6,6 @@
 - **A [[s/_short|short]] [[p/_printed|printed]] [[p/_publication|publication]], [[e/_especially|especially]] [[o/_one|one]] [[p/_produced|produced]] by an [[o/_organization|organization]].**
 ---
 #verb
-- **To [[a/_announce|announce]] [[s/_something|something]] by [[m/_means|means]] of such a [[r/_report|report]] or [[p/_publication|publication]].**
+- **To [[a/_announce|announce]] [[s/_something|something]] by [[m/_means|means]] of [[s/_such|such]] a [[r/_report|report]] or [[p/_publication|publication]].**
 ---
 ---

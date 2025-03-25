@@ -5,6 +5,6 @@
 - **(of two [[s/_signals|signals]]) to [[b/_become|become]] [[i/_indistinguishable|indistinguishable]]**
 ---
 #noun
-- **([[g/_graphics|graphics]], [[s/_sound|sound]] [[r/_recording|recording]]) [[d/_distortion|Distortion]] [[c/_caused|caused]] by a [[l/_low|low]] [[s/_sampling|sampling]] [[r/_rate|rate]], such as a [[m/_moir|moir]]é [[e/_effect|effect]] or jaggies.**
+- **([[g/_graphics|graphics]], [[s/_sound|sound]] [[r/_recording|recording]]) [[d/_distortion|Distortion]] [[c/_caused|caused]] by a [[l/_low|low]] [[s/_sampling|sampling]] [[r/_rate|rate]], [[s/_such|such]] as a [[m/_moir|moir]]é [[e/_effect|effect]] or jaggies.**
 ---
 ---

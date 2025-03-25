@@ -3,7 +3,7 @@
 #verb
 - **To [[a/_attach|attach]].**
 	- _Example: to affix a stigma to a person_
-- **To subjoin, [[a/_annex|annex]], or [[a/_add|add]] at the [[c/_close|close]] or [[e/_end|end]]; to [[a/_append|append]] to.**
+- **To [[s/_subjoin|subjoin]], [[a/_annex|annex]], or [[a/_add|add]] at the [[c/_close|close]] or [[e/_end|end]]; to [[a/_append|append]] to.**
 	- _Example: to affix a seal to an instrument_
 - **To [[f/_fix|fix]] or [[f/_fasten|fasten]] [[f/_figuratively|figuratively]]; with on or upon.**
 	- _Example: eyes affixed upon the ground_

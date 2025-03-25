@@ -13,7 +13,7 @@
 - [[c/_clean|clean]], [[p/_purify|purify]], [[s/_sanctify|sanctify]]
 #noun
 - **A [[n/_narrow|narrow]] way or [[p/_passage|passage]], [[e/_e|e]].[[g/_g|g]]. [[b/_between|between]] [[m/_mountains|mountains]].**
-- **A [[s/_single|single]] [[f/_file|file]], such as of [[s/_soldiers|soldiers]].**
+- **A [[s/_single|single]] [[f/_file|file]], [[s/_such|such]] as of [[s/_soldiers|soldiers]].**
 - **The [[a/_act|act]] of [[d/_defilading|defilading]] a [[f/_fortress|fortress]], or of [[r/_raising|raising]] the [[e/_exterior|exterior]] works in [[o/_order|order]] to [[p/_protect|protect]] the [[i/_interior|interior]].**
 ---
 #verb

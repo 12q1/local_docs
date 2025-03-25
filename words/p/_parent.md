@@ -9,7 +9,7 @@
 - **The [[s/_source|source]] or [[o/_origin|origin]] of [[s/_something|something]].**
 - **An [[o/_organism|organism]] from which a [[p/_plant|plant]] or [[a/_animal|animal]] is [[i/_immediately|immediately]] [[b/_biologically|biologically]] [[d/_descended|descended]].**
 - **[[s/_sponsor|Sponsor]], supporter, [[o/_owner|owner]], [[p/_protector|protector]].**
-- **The [[o/_object|object]] from which a [[c/_child|child]] or [[d/_derived|derived]] [[o/_object|object]] is [[d/_descended|descended]]; a [[n/_node|node]] superior to [[a/_another|another]] [[n/_node|node]].**
+- **The [[o/_object|object]] from which a [[c/_child|child]] or [[d/_derived|derived]] [[o/_object|object]] is [[d/_descended|descended]]; a [[n/_node|node]] [[s/_superior|superior]] to [[a/_another|another]] [[n/_node|node]].**
 ---
 ### Synonyms
 - [[m/_mother|mother]], [[p/_progenitor|progenitor]]

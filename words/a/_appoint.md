@@ -1,7 +1,7 @@
 # Appoint
 ---
 #verb
-- **To [[s/_set|set]], [[f/_fix|fix]] or [[d/_determine|determine]] (a time or [[p/_place|place]] for [[s/_something|something]] such as a [[m/_meeting|meeting]], or the [[m/_meeting|meeting]] [[i/_itself|itself]]) by [[a/_authority|authority]] or [[a/_agreement|agreement]].**
+- **To [[s/_set|set]], [[f/_fix|fix]] or [[d/_determine|determine]] (a time or [[p/_place|place]] for [[s/_something|something]] [[s/_such|such]] as a [[m/_meeting|meeting]], or the [[m/_meeting|meeting]] [[i/_itself|itself]]) by [[a/_authority|authority]] or [[a/_agreement|agreement]].**
 - **To [[n/_name|name]] ([[s/_someone|someone]] to a [[p/_post|post]] or [[r/_role|role]]).**
 - **To [[f/_furnish|furnish]] or [[e/_equip|equip]] (a [[p/_place|place]]) [[c/_completely|completely]]; to [[p/_provide|provide]] with [[a/_all|all]] the [[e/_equipment|equipment]] or [[f/_furnishings|furnishings]] [[n/_necessary|necessary]]; to [[f/_fit|fit]] [[o/_out|out]].**
 - **To [[e/_equip|equip]] ([[s/_someone|someone]]) with ([[s/_something|something]]); to [[a/_assign|assign]] ([[s/_someone|someone]]) [[a/_authoritatively|authoritatively]] ([[s/_some|some]] [[e/_equipment|equipment]]).**

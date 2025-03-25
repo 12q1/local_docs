@@ -11,7 +11,7 @@
 	- _Example: I think the balance of opinion is that we should get out while we're ahead._
 - **[[a/_apparent|Apparent]] [[h/_harmony|harmony]] in [[a/_art|art]] ([[b/_between|between]] [[d/_differing|differing]] [[c/_colours|colours]], [[s/_sounds|sounds]], [[e/_etc|etc]].).**
 - **A [[l/_list|list]] [[a/_accounting|accounting]] for the [[d/_debits|debits]] on [[o/_one|one]] [[s/_side|side]], and for the [[c/_credits|credits]] on the [[o/_other|other]].**
-- **The [[r/_result|result]] of such a [[p/_procedure|procedure]]; the [[d/_difference|difference]] [[b/_between|between]] [[c/_credit|credit]] and [[d/_debit|debit]] of an [[a/_account|account]].**
+- **The [[r/_result|result]] of [[s/_such|such]] a [[p/_procedure|procedure]]; the [[d/_difference|difference]] [[b/_between|between]] [[c/_credit|credit]] and [[d/_debit|debit]] of an [[a/_account|account]].**
 	- _Example: I just need to nip to a bank and check my balance._
 - **A [[d/_device|device]] used to [[r/_regulate|regulate]] the [[s/_speed|speed]] of a watch, [[c/_clock|clock]] [[e/_etc|etc]].**
 - **The [[r/_remainder|remainder]].**

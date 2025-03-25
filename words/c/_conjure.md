@@ -6,7 +6,7 @@
 #verb
 - **To [[p/_perform|perform]] [[m/_magic|magic]] tricks.**
 	- _Example: He started conjuring at the age of 15, and is now a famous stage magician._
-- **To summon (a [[d/_devil|devil]], [[e/_etc|etc]].) using supernatural [[p/_power|power]].**
+- **To [[s/_summon|summon]] (a [[d/_devil|devil]], [[e/_etc|etc]].) using supernatural [[p/_power|power]].**
 - **To [[p/_practice|practice]] [[b/_black|black]] [[m/_magic|magic]].**
 - **To [[e/_enchant|enchant]] or [[b/_bewitch|bewitch]].**
 - **To [[e/_evoke|evoke]].**

@@ -6,6 +6,6 @@
 ---
 #noun
 - **The [[p/_process|process]] of [[m/_making|making]] [[s/_something|something]] [[r/_resistant|resistant]] to [[f/_fire|fire]].**
-- **A [[f/_fire|fire]]-[[r/_resistant|resistant]] [[c/_coating|coating]] or substance.**
+- **A [[f/_fire|fire]]-[[r/_resistant|resistant]] [[c/_coating|coating]] or [[s/_substance|substance]].**
 ---
 ---

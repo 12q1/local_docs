@@ -10,7 +10,7 @@
 - **[[p/_plentiful|Plentiful]]**
 ---
 #adverb
-- **[[m/_more|More]] than sufficiently.**
+- **[[m/_more|More]] than [[s/_sufficiently|sufficiently]].**
 - **Used as an [[i/_intensifier|intensifier]], very.**
 	- _Example: She was plenty mad at him._
 ---

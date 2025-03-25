@@ -1,7 +1,7 @@
 # Insoluble
 ---
 #noun
-- **[[a/_any|Any]] substance that [[c/_cannot|cannot]] be [[d/_dissolved|dissolved]].**
+- **[[a/_any|Any]] [[s/_substance|substance]] that [[c/_cannot|cannot]] be [[d/_dissolved|dissolved]].**
 ---
 #adjective
 - **That [[c/_cannot|cannot]] be [[d/_dissolved|dissolved]].**

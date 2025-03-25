@@ -9,7 +9,7 @@
 	- _Example: It didn't freeze this winter, but last winter was very harsh._
 - **To be [[a/_affected|affected]] by [[e/_extreme|extreme]] [[c/_cold|cold]].**
 	- _Example: Don't go outside wearing just a t-shirt; you'll freeze!_
-- **(of [[m/_machines|machines]] and [[s/_software|software]]) To [[c/_come|come]] to a sudden [[h/_halt|halt]], [[s/_stop|stop]] working ([[f/_functioning|functioning]]).**
+- **(of [[m/_machines|machines]] and [[s/_software|software]]) To [[c/_come|come]] to a [[s/_sudden|sudden]] [[h/_halt|halt]], [[s/_stop|stop]] working ([[f/_functioning|functioning]]).**
 	- _Example: Since the last update, the program freezes / freezes up after a few minutes of use._
 - **(of [[p/_people|people]] and [[o/_other|other]] [[a/_animals|animals]]) To [[s/_stop|stop]] ([[b/_become|become]] [[m/_motionless|motionless]]) or be [[s/_stopped|stopped]] [[d/_due|due]] to [[a/_attentiveness|attentiveness]], [[f/_fear|fear]], surprise, [[e/_etc|etc]].**
 	- _Example: Despite all of the rehearsals, I froze up as soon as I got on stage._
@@ -26,13 +26,13 @@
 ### Antonyms
 - [[d/_defrost|defrost]], [[l/_liquify|liquify]], [[u/_unfreeze|unfreeze]]
 #noun
-- **The [[c/_change|change]] in [[s/_state|state]] of a substance from [[l/_liquid|liquid]] to [[s/_solid|solid]] by [[c/_cooling|cooling]] to a [[c/_critically|critically]] [[l/_low|low]] temperature.**
+- **The [[c/_change|change]] in [[s/_state|state]] of a [[s/_substance|substance]] from [[l/_liquid|liquid]] to [[s/_solid|solid]] by [[c/_cooling|cooling]] to a [[c/_critically|critically]] [[l/_low|low]] temperature.**
 - **The [[a/_action|action]] of [[n/_numbing|numbing]] with [[a/_anesthetics|anesthetics]].**
 ---
 ### Synonyms
 - [[f/_frost|frost]]
 #adjective
-- **Suffering or [[c/_causing|causing]] [[f/_frost|frost]]**
+- **[[s/_suffering|Suffering]] or [[c/_causing|causing]] [[f/_frost|frost]]**
 - **(by [[e/_extension|extension]]) Very [[c/_cold|cold]]**
 ---
 ### Synonyms

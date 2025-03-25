@@ -3,7 +3,7 @@
 #noun
 - **A thing [[c/_capable|capable]] of [[b/_being|being]] [[a/_affirmed|affirmed]]; [[s/_something|something]] [[r/_real|real]] or [[a/_actual|actual]].**
 - **A [[f/_favourable|favourable]] [[p/_point|point]] or [[c/_characteristic|characteristic]].**
-- **[[s/_something|Something]] [[h/_having|having]] a [[p/_positive|positive]] value in [[p/_physics|physics]], such as an [[e/_electric|electric]] [[c/_charge|charge]].**
+- **[[s/_something|Something]] [[h/_having|having]] a [[p/_positive|positive]] value in [[p/_physics|physics]], [[s/_such|such]] as an [[e/_electric|electric]] [[c/_charge|charge]].**
 - **([[g/_grammar|grammar]]) A [[d/_degree|degree]] of [[c/_comparison|comparison]] of [[a/_adjectives|adjectives]] and [[a/_adverbs|adverbs]].**
 - **([[g/_grammar|grammar]]) An [[a/_adjective|adjective]] or [[a/_adverb|adverb]] in the [[p/_positive|positive]] [[d/_degree|degree]].**
 - **A [[p/_positive|positive]] [[i/_image|image]]; [[o/_one|one]] that [[d/_displays|displays]] true [[c/_colors|colors]] and [[s/_shades|shades]], as [[o/_opposed|opposed]] to a [[n/_negative|negative]].**
@@ -21,7 +21,7 @@
 - **[[o/_overconfident|Overconfident]], [[d/_dogmatic|dogmatic]].**
 - **[[a/_actual|Actual]], [[r/_real|real]], [[c/_concrete|concrete]], not theoretical or [[s/_speculative|speculative]].**
 - **[[h/_having|Having]] [[m/_more|more]] [[p/_protons|protons]] than [[e/_electrons|electrons]].**
-- **([[g/_grammar|grammar]]) [[d/_describing|Describing]] the [[p/_primary|primary]] [[s/_sense|sense]] of an [[a/_adjective|adjective]], [[a/_adverb|adverb]] or [[n/_noun|noun]]; not [[c/_comparative|comparative]], superlative, [[a/_augmentative|augmentative]] [[n/_nor|nor]] [[d/_diminutive|diminutive]].**
+- **([[g/_grammar|grammar]]) [[d/_describing|Describing]] the [[p/_primary|primary]] [[s/_sense|sense]] of an [[a/_adjective|adjective]], [[a/_adverb|adverb]] or [[n/_noun|noun]]; not [[c/_comparative|comparative]], [[s/_superlative|superlative]], [[a/_augmentative|augmentative]] [[n/_nor|nor]] [[d/_diminutive|diminutive]].**
 	- _Example: ‘Better’ is an irregular comparative of the positive form ‘good’._
 - **[[d/_derived|Derived]] from an [[o/_object|object]] by [[i/_itself|itself]]; not [[d/_dependent|dependent]] on [[c/_changing|changing]] [[c/_circumstances|circumstances]] or [[r/_relations|relations]]; [[a/_absolute|absolute]].**
 	- _Example: The idea of beauty is not positive, but depends on the different tastes of individuals._

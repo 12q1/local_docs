@@ -7,6 +7,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] [[s/_special|special]] [[p/_privileges|privileges]].**
-- **Not subject to [[l/_legal|legal]] [[d/_discovery|discovery]] [[d/_due|due]] to a [[p/_protected|protected]] [[s/_status|status]].**
+- **Not [[s/_subject|subject]] to [[l/_legal|legal]] [[d/_discovery|discovery]] [[d/_due|due]] to a [[p/_protected|protected]] [[s/_status|status]].**
 ---
 ---

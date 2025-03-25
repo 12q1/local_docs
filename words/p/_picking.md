@@ -16,7 +16,7 @@
 - **To [[s/_seek|seek]] (a [[f/_fight|fight]] or [[q/_quarrel|quarrel]]) where the [[o/_opportunity|opportunity]] [[a/_arises|arises]].**
 - **To [[r/_recognise|recognise]] the type of [[b/_ball|ball]] [[b/_being|being]] [[b/_bowled|bowled]] by a [[b/_bowler|bowler]] by [[s/_studying|studying]] the [[p/_position|position]] of the [[h/_hand|hand]] and [[a/_arm|arm]] as the [[b/_ball|ball]] is [[r/_released|released]].**
 	- _Example: He didn't pick the googly, and was bowled._
-- **To [[p/_pluck|pluck]] the [[i/_individual|individual]] [[s/_strings|strings]] of a [[m/_musical|musical]] [[i/_instrument|instrument]] or to [[p/_play|play]] such an [[i/_instrument|instrument]].**
+- **To [[p/_pluck|pluck]] the [[i/_individual|individual]] [[s/_strings|strings]] of a [[m/_musical|musical]] [[i/_instrument|instrument]] or to [[p/_play|play]] [[s/_such|such]] an [[i/_instrument|instrument]].**
 	- _Example: He picked a tune on his banjo._
 - **To [[o/_open|open]] (a [[l/_lock|lock]]) with a wire, [[l/_lock|lock]] [[p/_pick|pick]], [[e/_etc|etc]].**
 - **To [[e/_eat|eat]] [[s/_slowly|slowly]], [[s/_sparingly|sparingly]], or by [[m/_morsels|morsels]]; to [[n/_nibble|nibble]].**

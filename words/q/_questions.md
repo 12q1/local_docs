@@ -3,7 +3,7 @@
 #noun
 - **A [[s/_sentence|sentence]], [[p/_phrase|phrase]] or word which [[a/_asks|asks]] for [[i/_information|information]], [[r/_reply|reply]] or [[r/_response|response]]; an [[i/_interrogative|interrogative]].**
 	- _Example: What is your question?_
-- **A subject or topic for [[c/_consideration|consideration]] or [[i/_investigation|investigation]].**
+- **A [[s/_subject|subject]] or topic for [[c/_consideration|consideration]] or [[i/_investigation|investigation]].**
 	- _Example: The question of seniority will be discussed at the meeting._
 - **A [[d/_doubt|doubt]] or [[c/_challenge|challenge]] [[a/_about|about]] the truth or [[a/_accuracy|accuracy]] of a [[m/_matter|matter]].**
 	- _Example: He obeyed without question._

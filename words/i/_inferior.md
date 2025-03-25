@@ -14,7 +14,7 @@
 - **[[l/_located|Located]] [[b/_below|below]]**
 - **[[s/_situated|Situated]] [[b/_below|below]] [[s/_some|some]] [[o/_other|other]] [[o/_organ|organ]]; [[s/_said|said]] of a [[c/_calyx|calyx]] when [[f/_free|free]] from the [[o/_ovary|ovary]], and therefore [[b/_below|below]] it, or of an [[o/_ovary|ovary]] with an [[a/_adherent|adherent]] and therefore [[i/_inferior|inferior]] [[c/_calyx|calyx]].**
 - **On the [[s/_side|side]] of a [[f/_flower|flower]] which is [[n/_next|next]] to the [[b/_bract|bract]]; [[a/_anterior|anterior]].**
-- **[[n/_nearer|Nearer]] to the Sun than the [[e/_earth|Earth]] is.**
+- **[[n/_nearer|Nearer]] to the [[s/_sun|Sun]] than the [[e/_earth|Earth]] is.**
 	- _Example: the inferior or interior planets; an inferior conjunction of Mercury or Venus_
 - **[[b/_below|Below]] the [[h/_horizon|horizon]].**
 	- _Example: the inferior part of a meridian_

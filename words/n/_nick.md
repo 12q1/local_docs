@@ -11,7 +11,7 @@
 #verb
 - **To [[m/_make|make]] a [[n/_nick|nick]] or [[n/_notch|notch]] in; to [[c/_cut|cut]] or [[s/_scratch|scratch]] in a [[m/_minor|minor]] way.**
 	- _Example: I nicked myself while I was shaving._
-- **To [[f/_fit|fit]] [[i/_into|into]] or suit, as by a [[c/_correspondence|correspondence]] of [[n/_nicks|nicks]]; to tally with.**
+- **To [[f/_fit|fit]] [[i/_into|into]] or [[s/_suit|suit]], as by a [[c/_correspondence|correspondence]] of [[n/_nicks|nicks]]; to tally with.**
 - **To [[m/_make|make]] a [[c/_cut|cut]] at the [[s/_side|side]] of the [[f/_face|face]].**
 - **To [[s/_steal|steal]].**
 	- _Example: Someone’s nicked my bike!_

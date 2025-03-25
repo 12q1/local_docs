@@ -10,7 +10,7 @@
 - **An [[i/_impersonation|impersonation]], an [[i/_imitation|imitation]] of the [[m/_mannerisms|mannerisms]] of [[a/_another|another]] [[i/_individual|individual]].**
 - **An [[o/_outward|outward]] [[a/_appearance|appearance]].**
 - **An [[o/_online|online]] [[a/_advertising|advertising]] [[p/_performance|performance]] [[m/_metric|metric]] [[r/_representing|representing]] an [[i/_instance|instance]] where an [[a/_ad|ad]] is [[s/_shown|shown]] [[o/_once|once]].**
-- **The [[f/_first|first]] [[c/_coat|coat]] of [[c/_colour|colour]], such as the [[p/_priming|priming]] in [[h/_house|house]]-[[p/_painting|painting]] [[e/_etc|etc]].**
+- **The [[f/_first|first]] [[c/_coat|coat]] of [[c/_colour|colour]], [[s/_such|such]] as the [[p/_priming|priming]] in [[h/_house|house]]-[[p/_painting|painting]] [[e/_etc|etc]].**
 - **([[e/_engraving|engraving]]) A [[p/_print|print]] on [[p/_paper|paper]] from a wood [[b/_block|block]], [[m/_metal|metal]] [[p/_plate|plate]], [[e/_etc|etc]].**
 - **The vivid [[p/_perception|perception]] of [[s/_something|something]] as it is [[e/_experienced|experienced]], in [[c/_contrast|contrast]] to [[i/_ideas|ideas]] or thoughts [[d/_drawn|drawn]] from [[m/_memory|memory]] or the [[i/_imagination|imagination]].**
 ---

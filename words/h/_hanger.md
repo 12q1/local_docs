@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[o/_one|One]] who [[h/_hangs|hangs]], or [[c/_causes|causes]] to be [[h/_hanged|hanged]]; a [[h/_hangman|hangman]], [[p/_paper|paper]] [[h/_hanger|hanger]], [[e/_etc|etc]].**
-- **A [[p/_person|person]] who [[a/_attempts|attempts]] suicide by [[h/_hanging|hanging]].**
+- **A [[p/_person|person]] who [[a/_attempts|attempts]] [[s/_suicide|suicide]] by [[h/_hanging|hanging]].**
 - **That by which a thing is suspended.**
 - **A [[s/_short|short]] and [[b/_broad|broad]] [[b/_backsword|backsword]], worn [[s/_so|so]] to [[h/_hang|hang]] at the [[s/_side|side]], [[e/_especially|especially]] [[p/_popular|popular]] in the 18th [[c/_century|century]].**
 - **A [[s/_steep|steep]], wooded [[s/_slope|slope]].**

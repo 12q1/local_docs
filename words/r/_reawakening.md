@@ -5,6 +5,6 @@
 - **To [[r/_reactivate|reactivate]] or [[r/_reanimate|reanimate]].**
 ---
 #noun
-- **A [[s/_second|second]] or subsequent [[a/_awakening|awakening]].**
+- **A [[s/_second|second]] or [[s/_subsequent|subsequent]] [[a/_awakening|awakening]].**
 ---
 ---

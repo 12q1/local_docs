@@ -1,7 +1,7 @@
 # Divisible
 ---
 #noun
-- **[[a/_any|Any]] substance that [[c/_can|can]] be [[d/_divided|divided]].**
+- **[[a/_any|Any]] [[s/_substance|substance]] that [[c/_can|can]] be [[d/_divided|divided]].**
 ---
 #adjective
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[d/_divided|divided]] or [[s/_split|split]].**

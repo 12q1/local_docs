@@ -9,7 +9,7 @@
 	- _Example: Place the napkin on the table just so. If that's what you mean, then say so; (or do so)._
 - **In the [[s/_same|same]] [[m/_manner|manner]] or to the [[s/_same|same]] [[e/_extent|extent]] as [[a/_aforementioned|aforementioned]]; [[a/_also|also]].**
 	- _Example: Just as you have the right to your free speech, so I have the right to mine.  Many people say she's the world's greatest athlete, but I don't think so.  "I can count backwards from one hundred." "So can I."_
-- **With as To such an [[e/_extent|extent]] or [[d/_degree|degree]]; as.**
+- **With as To [[s/_such|such]] an [[e/_extent|extent]] or [[d/_degree|degree]]; as.**
 	- _Example: so far as;  so long as;  so much as_
 ---
 ### Synonyms

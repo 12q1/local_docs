@@ -1,7 +1,7 @@
 # Boom
 ---
 #noun
-- **A [[l/_low|low]]-[[p/_pitched|pitched]], [[r/_resonant|resonant]] [[s/_sound|sound]], such as of an [[e/_explosion|explosion]].**
+- **A [[l/_low|low]]-[[p/_pitched|pitched]], [[r/_resonant|resonant]] [[s/_sound|sound]], [[s/_such|such]] as of an [[e/_explosion|explosion]].**
 	- _Example: The boom of the surf._
 - **A [[r/_rapid|rapid]] [[e/_expansion|expansion]] or [[i/_increase|increase]].**
 	- _Example: You should prepare for the coming boom in the tech industry._
@@ -17,7 +17,7 @@
 - **To [[r/_rush|rush]] with violence and [[n/_noise|noise]], as a [[s/_ship|ship]] under a [[p/_press|press]] of [[s/_sail|sail]], [[b/_before|before]] a [[f/_free|free]] wind.**
 ---
 #interjection
-- **Used to suggest the [[s/_sound|sound]] of an [[e/_explosion|explosion]].**
-- **Used to suggest [[s/_something|something]] [[h/_happening|happening]] suddenly and unexpectedly.**
+- **Used to [[s/_suggest|suggest]] the [[s/_sound|sound]] of an [[e/_explosion|explosion]].**
+- **Used to [[s/_suggest|suggest]] [[s/_something|something]] [[h/_happening|happening]] [[s/_suddenly|suddenly]] and unexpectedly.**
 ---
 ---

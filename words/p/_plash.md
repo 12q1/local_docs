@@ -3,7 +3,7 @@
 #noun
 - **A [[s/_small|small]] [[p/_pool|pool]] of [[s/_standing|standing]] water; a [[p/_puddle|puddle]].**
 - **A [[s/_splash|splash]], or the [[s/_sound|sound]] [[m/_made|made]] by a [[s/_splash|splash]].**
-- **A sudden [[d/_downpour|downpour]].**
+- **A [[s/_sudden|sudden]] [[d/_downpour|downpour]].**
 ---
 #verb
 - **To [[s/_splash|splash]].**

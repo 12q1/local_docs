@@ -1,7 +1,7 @@
 # Blitzed
 ---
 #verb
-- **To [[a/_attack|attack]] [[q/_quickly|quickly]] or suddenly, as by an [[a/_air|air]] [[r/_raid|raid]] or [[s/_similar|similar]] [[a/_action|action]].**
+- **To [[a/_attack|attack]] [[q/_quickly|quickly]] or [[s/_suddenly|suddenly]], as by an [[a/_air|air]] [[r/_raid|raid]] or [[s/_similar|similar]] [[a/_action|action]].**
 - **To [[p/_perform|perform]] a [[b/_blitz|blitz]].**
 	- _Example: The Washington High defense almost always blitzes on third down._
 - **To [[p/_pur|pur]]é[[e/_e|e]] or [[c/_chop|chop]] ([[f/_food|food]] [[p/_products|products]]) using a [[f/_food|food]] [[p/_processor|processor]] or [[b/_blender|blender]].**

@@ -23,7 +23,7 @@
 - **[[p/_prevalent|Prevalent]] or widespread [[a/_among|among]] a [[g/_given|given]] [[c/_class|class]] or [[a/_area|area]]; [[c/_common|common]], usual.**
 - **Not [[l/_limited|limited]] in use or [[a/_application|application]]; [[a/_applicable|applicable]] to the whole or [[e/_every|every]] [[m/_member|member]] of a [[c/_class|class]] or [[c/_category|category]].**
 - **[[g/_giving|Giving]] or [[c/_consisting|consisting]] of [[o/_only|only]] the [[m/_most|most]] [[i/_important|important]] [[a/_aspects|aspects]] of [[s/_something|something]], [[i/_ignoring|ignoring]] [[m/_minor|minor]] [[d/_details|details]]; [[i/_indefinite|indefinite]].**
-- **Not [[l/_limited|limited]] to a [[s/_specific|specific]] [[c/_class|class]]; [[m/_miscellaneous|miscellaneous]], [[c/_concerned|concerned]] with [[a/_all|all]] [[b/_branches|branches]] of a [[g/_given|given]] subject or [[a/_area|area]].**
+- **Not [[l/_limited|limited]] to a [[s/_specific|specific]] [[c/_class|class]]; [[m/_miscellaneous|miscellaneous]], [[c/_concerned|concerned]] with [[a/_all|all]] [[b/_branches|branches]] of a [[g/_given|given]] [[s/_subject|subject]] or [[a/_area|area]].**
 ---
 ### Synonyms
 - [[b/_broad|broad]], [[g/_generic|generic]], [[t/_typical|typical]]

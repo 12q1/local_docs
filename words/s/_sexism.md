@@ -1,7 +1,7 @@
 # Sexism
 ---
 #noun
-- **The [[b/_belief|belief]] that [[p/_people|people]] of [[o/_one|one]] [[s/_sex|sex]] or [[g/_gender|gender]] are [[i/_inherently|inherently]] superior to [[o/_others|others]].**
+- **The [[b/_belief|belief]] that [[p/_people|people]] of [[o/_one|one]] [[s/_sex|sex]] or [[g/_gender|gender]] are [[i/_inherently|inherently]] [[s/_superior|superior]] to [[o/_others|others]].**
 	- _Example: The notion that either gender is superior is sexism._
 - **[[d/_discrimination|Discrimination]] or [[d/_different|different]] treatment ([[e/_e|e]].[[g/_g|g]]. in [[j/_job|job]] [[o/_opportunities|opportunities]]) [[b/_based|based]] on [[s/_sex|sex]] or [[g/_gender|gender]].**
 	- _Example: The fact that there is only one woman in a management position in that company makes it easy to believe that sexism runs rampant there._

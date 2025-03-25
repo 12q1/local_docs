@@ -1,7 +1,7 @@
 # Ascendants
 ---
 #noun
-- **[[b/_being|Being]] in [[c/_control|control]]; superiority, or [[c/_commanding|commanding]] [[i/_influence|influence]]; [[a/_ascendency|ascendency]].**
+- **[[b/_being|Being]] in [[c/_control|control]]; [[s/_superiority|superiority]], or [[c/_commanding|commanding]] [[i/_influence|influence]]; [[a/_ascendency|ascendency]].**
 	- _Example: One man has the ascendant over another._
 - **An [[a/_ancestor|ancestor]] ([[a/_antonym|antonym]] of [[d/_descendant|descendant]])**
 - **(usu. [[f/_followed|followed]] by to) A [[r/_royal|royal]] [[h/_heir|heir]] [[a/_assuming|assuming]] (a [[p/_place|place]] of [[p/_power|power]])**

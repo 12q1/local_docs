@@ -10,6 +10,6 @@
 #adjective
 - **[[h/_having|Having]] the [[c/_color|color]] or [[q/_quality|quality]] of [[g/_gold|gold]].**
 - **[[m/_made|Made]] of [[g/_gold|gold]] or [[c/_covered|covered]] by a thin [[l/_layer|layer]] of [[g/_gold|gold]].**
-- **[[h/_having|Having]] a [[f/_falsely|falsely]] [[p/_pleasant|pleasant]] [[a/_appearance|appearance]]; sugarcoated.**
+- **[[h/_having|Having]] a [[f/_falsely|falsely]] [[p/_pleasant|pleasant]] [[a/_appearance|appearance]]; [[s/_sugarcoated|sugarcoated]].**
 ---
 ---

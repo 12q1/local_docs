@@ -7,7 +7,7 @@
 - **To [[s/_set|set]] [[a/_apart|apart]]; to [[p/_put|put]] [[a/_aside|aside]]; to [[r/_remove|remove]]; to [[s/_separate|separate]] from [[o/_other|other]] things.**
 - **To [[p/_prevent|prevent]] an [[i/_ion|ion]] in [[s/_solution|solution]] from [[b/_behaving|behaving]] [[n/_normally|normally]] by [[f/_forming|forming]] a [[c/_coordination|coordination]] [[c/_compound|compound]]**
 - **To temporarily [[r/_remove|remove]] ([[p/_property|property]]) from the [[p/_possession|possession]] of [[i/_its|its]] [[o/_owner|owner]] and [[h/_hold|hold]] it as [[s/_security|security]] [[a/_against|against]] [[l/_legal|legal]] [[c/_claims|claims]].**
-- **To [[c/_cause|cause]] ([[o/_one|one]]) to submit to the [[p/_process|process]] of [[s/_sequestration|sequestration]]; to [[d/_deprive|deprive]] ([[o/_one|one]]) of [[o/_one|one]]'[[s/_s|s]] [[e/_estate|estate]], [[p/_property|property]], [[e/_etc|etc]].**
+- **To [[c/_cause|cause]] ([[o/_one|one]]) to [[s/_submit|submit]] to the [[p/_process|process]] of [[s/_sequestration|sequestration]]; to [[d/_deprive|deprive]] ([[o/_one|one]]) of [[o/_one|one]]'[[s/_s|s]] [[e/_estate|estate]], [[p/_property|property]], [[e/_etc|etc]].**
 - **To [[r/_remove|remove]] ([[c/_certain|certain]] [[f/_funds|funds]]) [[a/_automatically|automatically]] from a [[b/_budget|budget]].**
 	- _Example: The Budget Control Act of 2011 sequestered 1.2 trillion dollars over 10 years on January 2, 2013._
 - **To [[s/_seize|seize]] and [[h/_hold|hold]] [[e/_enemy|enemy]] [[p/_property|property]].**

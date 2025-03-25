@@ -17,6 +17,6 @@
 #adjective
 - **(of a [[l/_living|living]] thing) [[k/_killed|Killed]], [[p/_paralysed|paralysed]], or [[h/_harmed|harmed]] by [[r/_receiving|receiving]] a [[d/_dose|dose]] of [[p/_poison|poison]].**
 - **(of [[f/_food|food]] or [[d/_drink|drink]]) [[c/_containing|Containing]] [[p/_poison|poison]].**
-- **(of a [[p/_pawn|pawn]]) Such that [[i/_its|its]] [[c/_capture|capture]] will [[l/_lessen|lessen]] the [[c/_capturing|capturing]] [[p/_player|player]]'[[s/_s|s]] [[c/_chance|chance]] of winning.**
+- **(of a [[p/_pawn|pawn]]) [[s/_such|Such]] that [[i/_its|its]] [[c/_capture|capture]] will [[l/_lessen|lessen]] the [[c/_capturing|capturing]] [[p/_player|player]]'[[s/_s|s]] [[c/_chance|chance]] of winning.**
 ---
 ---

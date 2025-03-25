@@ -11,7 +11,7 @@
 - **To [[r/_relieve|relieve]] of an [[o/_office|office]] or [[e/_employment|employment]]; to [[s/_send|send]] [[a/_away|away]] from [[s/_service|service]]; to [[d/_dismiss|dismiss]].**
 - **To [[r/_release|release]] [[l/_legally|legally]] from [[c/_confinement|confinement]]; to [[s/_set|set]] at [[l/_liberty|liberty]].**
 	- _Example: to discharge a prisoner_
-- **To [[o/_operate|operate]] ([[a/_any|any]] weapon that [[f/_fires|fires]] a [[p/_projectile|projectile]], such as a [[s/_shotgun|shotgun]] or [[s/_sling|sling]]).**
+- **To [[o/_operate|operate]] ([[a/_any|any]] weapon that [[f/_fires|fires]] a [[p/_projectile|projectile]], [[s/_such|such]] as a [[s/_shotgun|shotgun]] or [[s/_sling|sling]]).**
 - **To [[r/_release|release]] (an [[a/_auxiliary|auxiliary]] [[a/_assumption|assumption]]) from the [[l/_list|list]] of [[a/_assumptions|assumptions]] used in [[a/_arguments|arguments]], and [[r/_return|return]] to the [[m/_main|main]] [[a/_argument|argument]].**
 - **To unload a [[s/_ship|ship]] or [[a/_another|another]] [[m/_means|means]] of transport.**
 - **To [[p/_put|put]] [[f/_forth|forth]], or [[r/_remove|remove]], as a [[c/_charge|charge]] or [[b/_burden|burden]]; to take [[o/_out|out]], as that with which [[a/_anything|anything]] is [[l/_loaded|loaded]] or [[f/_filled|filled]].**

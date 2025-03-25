@@ -1,7 +1,7 @@
 # Groove
 ---
 #noun
-- **A [[l/_long|long]], [[n/_narrow|narrow]] [[c/_channel|channel]] or [[d/_depression|depression]]; [[e/_e|e]].[[g/_g|g]]., such a [[s/_slot|slot]] [[c/_cut|cut]] [[i/_into|into]] a [[h/_hard|hard]] [[m/_material|material]] to [[p/_provide|provide]] a [[l/_location|location]] for an [[e/_engineering|engineering]] [[c/_component|component]], a tyre [[g/_groove|groove]], or a [[g/_geological|geological]] [[c/_channel|channel]] or [[d/_depression|depression]].**
+- **A [[l/_long|long]], [[n/_narrow|narrow]] [[c/_channel|channel]] or [[d/_depression|depression]]; [[e/_e|e]].[[g/_g|g]]., [[s/_such|such]] a [[s/_slot|slot]] [[c/_cut|cut]] [[i/_into|into]] a [[h/_hard|hard]] [[m/_material|material]] to [[p/_provide|provide]] a [[l/_location|location]] for an [[e/_engineering|engineering]] [[c/_component|component]], a tyre [[g/_groove|groove]], or a [[g/_geological|geological]] [[c/_channel|channel]] or [[d/_depression|depression]].**
 - **A [[f/_fixed|fixed]] [[r/_routine|routine]].**
 - **The [[m/_middle|middle]] of the [[s/_strike|strike]] zone in [[b/_baseball|baseball]] where a [[p/_pitch|pitch]] is [[m/_most|most]] [[e/_easily|easily]] [[h/_hit|hit]].**
 - **A [[p/_pronounced|pronounced]], [[e/_enjoyable|enjoyable]] [[r/_rhythm|rhythm]].**

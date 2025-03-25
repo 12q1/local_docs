@@ -9,7 +9,7 @@
 - **[[s/_something|Something]] that [[h/_hinders|hinders]] [[f/_freedom|freedom]].**
 - **The [[a/_area|area]] from which [[c/_competitors|competitors]] throw a [[d/_discus|discus]] or [[h/_hammer|hammer]].**
 - **An [[o/_outer|outer]] [[f/_framework|framework]] of timber, [[e/_enclosing|enclosing]] [[s/_something|something]] within it.**
-- **A [[s/_skeleton|skeleton]] [[f/_frame|frame]] to [[l/_limit|limit]] the [[m/_motion|motion]] of a [[l/_loose|loose]] [[p/_piece|piece]], such as a [[b/_ball|ball]] valve.**
+- **A [[s/_skeleton|skeleton]] [[f/_frame|frame]] to [[l/_limit|limit]] the [[m/_motion|motion]] of a [[l/_loose|loose]] [[p/_piece|piece]], [[s/_such|such]] as a [[b/_ball|ball]] valve.**
 - **A wirework [[s/_strainer|strainer]], used in [[c/_connection|connection]] with [[p/_pumps|pumps]] and [[p/_pipes|pipes]].**
 - **The [[d/_drum|drum]] on which the [[r/_rope|rope]] is wound in a [[h/_hoisting|hoisting]] whim.**
 - **The [[c/_catcher|catcher]]'[[s/_s|s]] wire [[m/_mask|mask]].**

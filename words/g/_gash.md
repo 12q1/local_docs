@@ -13,6 +13,6 @@
 - **To [[m/_make|make]] a [[d/_deep|deep]], [[l/_long|long]] [[c/_cut|cut]]; to [[s/_slash|slash]].**
 ---
 #adjective
-- **Of [[p/_poor|poor]] [[q/_quality|quality]]; [[m/_makeshift|makeshift]]; [[i/_improvised|improvised]]; temporary; substituted.**
+- **Of [[p/_poor|poor]] [[q/_quality|quality]]; [[m/_makeshift|makeshift]]; [[i/_improvised|improvised]]; temporary; [[s/_substituted|substituted]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[b/_bags|bags]] and [[o/_other|other]] [[c/_containers|containers]] that [[h/_hold|hold]] a traveller'[[s/_s|s]] [[b/_belongings|belongings]].**
-- **The [[c/_contents|contents]] of such [[c/_containers|containers]].**
+- **The [[c/_contents|contents]] of [[s/_such|such]] [[c/_containers|containers]].**
 - **A [[s/_specific|specific]] [[b/_bag|bag]] or [[c/_container|container]] [[h/_holding|holding]] a traveller'[[s/_s|s]] [[b/_belongings|belongings]].**
 ---
 ### Synonyms

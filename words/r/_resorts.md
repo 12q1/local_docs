@@ -1,7 +1,7 @@
 # Resorts
 ---
 #noun
-- **A [[p/_place|place]] where [[p/_people|people]] [[g/_go|go]] for [[r/_recreation|recreation]], [[e/_especially|especially]] [[o/_one|one]] with [[f/_facilities|facilities]] such as [[l/_lodgings|lodgings]], [[e/_entertainment|entertainment]], and a [[r/_relaxing|relaxing]] [[e/_environment|environment]].**
+- **A [[p/_place|place]] where [[p/_people|people]] [[g/_go|go]] for [[r/_recreation|recreation]], [[e/_especially|especially]] [[o/_one|one]] with [[f/_facilities|facilities]] [[s/_such|such]] as [[l/_lodgings|lodgings]], [[e/_entertainment|entertainment]], and a [[r/_relaxing|relaxing]] [[e/_environment|environment]].**
 - **[[r/_recourse|Recourse]], [[r/_refuge|refuge]] ([[s/_something|something]] or [[s/_someone|someone]] turned to for [[s/_safety|safety]]).**
 	- _Example: to have resort to violence_
 - **A [[p/_place|place]] where [[o/_one|one]] [[g/_goes|goes]] [[h/_habitually|habitually]]; a [[h/_haunt|haunt]].**

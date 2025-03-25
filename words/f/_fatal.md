@@ -9,7 +9,7 @@
 - **[[f/_foreboding|Foreboding]] [[d/_death|death]] or [[g/_great|great]] [[d/_disaster|disaster]].**
 - **[[c/_causing|Causing]] [[d/_death|death]] or [[d/_destruction|destruction]].**
 	- _Example: a fatal wound; a fatal disease; that fatal day; a fatal mistake_
-- **[[c/_causing|Causing]] a sudden [[e/_end|end]] to the [[r/_running|running]] of a [[p/_program|program]].**
+- **[[c/_causing|Causing]] a [[s/_sudden|sudden]] [[e/_end|end]] to the [[r/_running|running]] of a [[p/_program|program]].**
 	- _Example: a fatal error; a fatal exception_
 ---
 ### Synonyms

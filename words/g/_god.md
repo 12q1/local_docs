@@ -1,7 +1,7 @@
 # God
 ---
 #noun
-- **A [[b/_being|being]] such as a [[m/_monotheistic|monotheistic]] [[g/_god|God]]: a [[s/_single|single]] [[d/_divine|divine]] [[c/_creator|creator]] and [[r/_ruler|ruler]] of the universe.**
+- **A [[b/_being|being]] [[s/_such|such]] as a [[m/_monotheistic|monotheistic]] [[g/_god|God]]: a [[s/_single|single]] [[d/_divine|divine]] [[c/_creator|creator]] and [[r/_ruler|ruler]] of the universe.**
 ---
 #propernoun
 - **The [[s/_single|single]] [[d/_deity|deity]] of various [[m/_monotheistic|monotheistic]] [[r/_religions|religions]], [[e/_especially|especially]] the [[d/_deity|deity]] of [[j/_judaism|Judaism]], [[c/_christianity|Christianity]], and [[i/_islam|Islam]].**
@@ -9,7 +9,7 @@
 - **The [[s/_single|single]] [[m/_male|male]] [[d/_deity|deity]] of various bitheistic or duotheistic [[r/_religions|religions]].**
 ---
 #noun
-- **A [[d/_deity|deity]] or supreme [[b/_being|being]]; a supernatural, typically [[i/_immortal|immortal]], [[b/_being|being]] with superior [[p/_powers|powers]], to which [[p/_personhood|personhood]] is [[a/_attributed|attributed]].**
+- **A [[d/_deity|deity]] or supreme [[b/_being|being]]; a supernatural, typically [[i/_immortal|immortal]], [[b/_being|being]] with [[s/_superior|superior]] [[p/_powers|powers]], to which [[p/_personhood|personhood]] is [[a/_attributed|attributed]].**
 	- _Example: The most frequently used name for the Islamic god is Allah._
 - **An [[i/_idol|idol]].**
 	- _Example: Leo Messi is my god!_

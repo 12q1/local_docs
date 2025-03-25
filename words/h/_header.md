@@ -3,7 +3,7 @@
 #noun
 - **The upper [[p/_portion|portion]] of a [[p/_page|page]] (or [[o/_other|other]]) [[l/_layout|layout]].**
 	- _Example: If you reduce the header of this document, the body will fit onto a single page._
-- **Text, or [[o/_other|other]] visual [[i/_information|information]], used to [[m/_mark|mark]] [[o/_off|off]] a [[q/_quantity|quantity]] of text, [[o/_often|often]] titling or summarizing it.**
+- **Text, or [[o/_other|other]] visual [[i/_information|information]], used to [[m/_mark|mark]] [[o/_off|off]] a [[q/_quantity|quantity]] of text, [[o/_often|often]] titling or [[s/_summarizing|summarizing]] it.**
 	- _Example: Your header is too long; "Local Cannibals" will suffice._
 - **Text, or [[o/_other|other]] visual [[i/_information|information]], that [[g/_goes|goes]] at the top of a [[c/_column|column]] of [[i/_information|information]] in a table.**
 	- _Example: That column should have the header "payment status"._

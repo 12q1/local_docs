@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_place|place]] from which [[s/_something|something]] [[c/_can|can]] be viewed.**
 	- _Example: Perched on the edge of the cliff was a hidden outlook._
-- **The view from such a [[p/_place|place]].**
+- **The view from [[s/_such|such]] a [[p/_place|place]].**
 - **An [[a/_attitude|attitude]] or [[p/_point|point]] of view.**
 	- _Example: He has a positive outlook on life._
 - **[[e/_expectation|Expectation]] for the [[f/_future|future]].**

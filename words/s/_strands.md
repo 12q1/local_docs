@@ -19,10 +19,10 @@
 #noun
 - **[[e/_each|Each]] of the [[s/_strings|strings]] which, twisted together, [[m/_make|make]] up a [[y/_yarn|yarn]], [[r/_rope|rope]] or [[c/_cord|cord]].**
 - **A [[s/_string|string]].**
-- **An [[i/_individual|individual]] [[l/_length|length]] of [[a/_any|any]] [[f/_fine|fine]], [[s/_string|string]]-[[l/_like|like]] substance.**
+- **An [[i/_individual|individual]] [[l/_length|length]] of [[a/_any|any]] [[f/_fine|fine]], [[s/_string|string]]-[[l/_like|like]] [[s/_substance|substance]].**
 	- _Example: strand of hair._
 - **A [[g/_group|group]] of wires, usually twisted or [[b/_braided|braided]].**
-- **A [[s/_series|series]] of [[p/_programmes|programmes]] on a [[p/_particular|particular]] theme or [[l/_linked|linked]] subject.**
+- **A [[s/_series|series]] of [[p/_programmes|programmes]] on a [[p/_particular|particular]] theme or [[l/_linked|linked]] [[s/_subject|subject]].**
 - **An [[e/_element|element]] in a [[c/_composite|composite]] whole; a [[s/_sequence|sequence]] of [[l/_linked|linked]] [[e/_events|events]] or [[f/_facts|facts]]; a [[l/_logical|logical]] thread.**
 	- _Example: strand of truth_
 - **A [[n/_nucleotide|nucleotide]] [[c/_chain|chain]].**

@@ -10,7 +10,7 @@
 - **To [[b/_bind|bind]] in [[c/_conversation|conversation]].**
 	- _Example: I managed to collar Fred in the office for an hour._
 - **To [[r/_roll|roll]] up ([[b/_beef|beef]] or [[o/_other|other]] [[m/_meat|meat]]) and [[b/_bind|bind]] it with [[s/_string|string]] [[p/_preparatory|preparatory]] to [[c/_cooking|cooking]].**
-- **(BDSM) To [[b/_bind|bind]] (a submissive) to a [[d/_dominant|dominant]] under [[s/_specific|specific]] [[c/_conditions|conditions]] or [[o/_obligations|obligations]].**
+- **(BDSM) To [[b/_bind|bind]] (a [[s/_submissive|submissive]]) to a [[d/_dominant|dominant]] under [[s/_specific|specific]] [[c/_conditions|conditions]] or [[o/_obligations|obligations]].**
 ---
 #adjective
 - **[[h/_having|Having]] a [[c/_collar|collar]] (or [[o/_other|other]] [[e/_encircling|encircling]] [[d/_demarcation|demarcation]]).**

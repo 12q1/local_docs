@@ -6,7 +6,7 @@
 - **An [[e/_extracellular|extracellular]] [[m/_matrix|matrix]], the [[m/_material|material]] or tissue [[b/_between|between]] the [[c/_cells|cells]] of [[a/_animals|animals]] or [[p/_plants|plants]].**
 - **[[p/_part|Part]] of the [[m/_mitochondrion|mitochondrion]].**
 - **The [[m/_medium|medium]] in which [[b/_bacteria|bacteria]] are [[c/_cultured|cultured]].**
-- **A [[r/_rectangular|rectangular]] [[a/_arrangement|arrangement]] of [[n/_numbers|numbers]] or terms [[h/_having|having]] various uses such as transforming [[c/_coordinates|coordinates]] in [[g/_geometry|geometry]], [[s/_solving|solving]] [[s/_systems|systems]] of [[l/_linear|linear]] [[e/_equations|equations]] in [[l/_linear|linear]] [[a/_algebra|algebra]] and [[r/_representing|representing]] [[g/_graphs|graphs]] in [[g/_graph|graph]] theory.**
+- **A [[r/_rectangular|rectangular]] [[a/_arrangement|arrangement]] of [[n/_numbers|numbers]] or terms [[h/_having|having]] various uses [[s/_such|such]] as transforming [[c/_coordinates|coordinates]] in [[g/_geometry|geometry]], [[s/_solving|solving]] [[s/_systems|systems]] of [[l/_linear|linear]] [[e/_equations|equations]] in [[l/_linear|linear]] [[a/_algebra|algebra]] and [[r/_representing|representing]] [[g/_graphs|graphs]] in [[g/_graph|graph]] theory.**
 - **A two-[[d/_dimensional|dimensional]] [[a/_array|array]].**
 - **A [[g/_grid|grid]]-[[l/_like|like]] [[a/_arrangement|arrangement]] of [[e/_electronic|electronic]] [[c/_components|components]], [[e/_especially|especially]] [[o/_one|one]] [[i/_intended|intended]] for [[i/_information|information]] [[c/_coding|coding]], [[d/_decoding|decoding]] or [[s/_storage|storage]].**
 - **A table of [[d/_data|data]].**

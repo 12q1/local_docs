@@ -12,6 +12,6 @@
 - **An [[e/_eight|eight]]-[[d/_day|day]] [[p/_period|period]] [[b/_beginning|beginning]] on a [[f/_feast|feast]] [[d/_day|day]] in the [[l/_latin|Latin]] [[r/_rite|rite]] of the [[c/_catholic|Catholic]] [[c/_church|Church]].**
 - **An [[o/_octonion|octonion]].**
 - **[[a/_any|Any]] of a [[n/_number|number]] of [[c/_coherent|coherent]]-[[n/_noise|noise]] [[f/_functions|functions]] of [[d/_differing|differing]] [[f/_frequency|frequency]] that are [[a/_added|added]] together to [[f/_form|form]] Perlin [[n/_noise|noise]].**
-- **The subjective vibration of a [[p/_planet|planet]].**
+- **The [[s/_subjective|subjective]] vibration of a [[p/_planet|planet]].**
 ---
 ---

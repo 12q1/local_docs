@@ -27,11 +27,11 @@
 - **To tend; to [[c/_contribute|contribute]]; to [[h/_have|have]] [[e/_effect|effect]]; with for or [[a/_against|against]].**
 - **To [[c/_constitute|constitute]].**
 	- _Example: One swallow does not a summer make._
-- **To [[a/_add|add]] up to, [[h/_have|have]] a sum of.**
+- **To [[a/_add|add]] up to, [[h/_have|have]] a [[s/_sum|sum]] of.**
 	- _Example: Two and four make six._
 - **([[c/_construed|construed]] with of, typically [[i/_interrogative|interrogative]]) To [[i/_interpret|interpret]].**
 	- _Example: I don’t know what to make of it._
-- **(usually [[s/_stressed|stressed]]) To [[b/_bring|bring]] [[i/_into|into]] success.**
+- **(usually [[s/_stressed|stressed]]) To [[b/_bring|bring]] [[i/_into|into]] [[s/_success|success]].**
 	- _Example: She married into wealth and so has it made._
 - **(ditransitive, [[s/_second|second]] [[o/_object|object]] is an [[a/_adjective|adjective]] or [[p/_participle|participle]]) To [[c/_cause|cause]] to be.**
 	- _Example: Did I make myself heard?_
@@ -40,7 +40,7 @@
 	- _Example: I was made to feel like a criminal._
 - **(ditransitive, [[s/_second|second]] [[o/_object|object]] is a verb, [[c/_can|can]] be [[s/_stressed|stressed]] for [[e/_emphasis|emphasis]] or [[c/_clarity|clarity]]) To [[f/_force|force]] to [[d/_do|do]].**
 	- _Example: Don’t let them make you suffer._
-- **(ditransitive, of a [[f/_fact|fact]]) To [[i/_indicate|indicate]] or suggest to be.**
+- **(ditransitive, of a [[f/_fact|fact]]) To [[i/_indicate|indicate]] or [[s/_suggest|suggest]] to be.**
 	- _Example: His past mistakes don’t make him a bad person._
 - **(of a [[b/_bed|bed]]) To [[c/_cover|cover]] [[n/_neatly|neatly]] with [[b/_bedclothes|bedclothes]].**
 - **([[l/_law|law]] [[e/_enforcement|enforcement]]) To [[r/_recognise|recognise]], [[i/_identify|identify]], [[s/_spot|spot]].**
@@ -65,12 +65,12 @@
 	- _Example: made a questionable decision_
 - **To [[p/_perform|perform]] a [[f/_feat|feat]].**
 	- _Example: make a leap_
-- **To [[g/_gain|gain]] sufficient [[a/_audience|audience]] to warrant [[i/_its|its]] [[e/_existence|existence]].**
+- **To [[g/_gain|gain]] [[s/_sufficient|sufficient]] [[a/_audience|audience]] to warrant [[i/_its|its]] [[e/_existence|existence]].**
 	- _Example: In the end, my class didn't make, which left me with a bit of free time._
 - **To [[a/_act|act]] in a [[c/_certain|certain]] [[m/_manner|manner]]; to [[h/_have|have]] to [[d/_do|do]]; to [[m/_manage|manage]]; to [[i/_interfere|interfere]]; to be [[a/_active|active]]; [[o/_often|often]] in the [[p/_phrase|phrase]] to [[m/_meddle|meddle]] or [[m/_make|make]].**
 - **To [[i/_increase|increase]]; to [[a/_augment|augment]]; to [[a/_accrue|accrue]].**
 - **To be [[e/_engaged|engaged]] or [[c/_concerned|concerned]] in.**
-- **To [[c/_cause|cause]] to be (in a [[s/_specified|specified]] [[p/_place|place]]), used [[a/_after|after]] a subjective what.**
+- **To [[c/_cause|cause]] to be (in a [[s/_specified|specified]] [[p/_place|place]]), used [[a/_after|after]] a [[s/_subjective|subjective]] what.**
 - **To take the virginity of.**
 - **To [[h/_have|have]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]] with.**
 ---

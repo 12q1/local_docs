@@ -7,7 +7,7 @@
 - **The [[p/_projecting|projecting]] [[s/_solid|solid]] [[a/_angle|angle]] [[f/_formed|formed]] by the [[m/_meeting|meeting]] of two vaults**
 - **The [[g/_genitals|genitals]].**
 	- _Example: He got kicked in the groin and was writhing in pain._
-- **The surface [[f/_formed|formed]] by two such vaults.**
+- **The surface [[f/_formed|formed]] by two [[s/_such|such]] vaults.**
 ---
 #verb
 - **To [[d/_deliver|deliver]] a [[b/_blow|blow]] to the [[g/_genitals|genitals]] of.**

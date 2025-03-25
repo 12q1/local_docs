@@ -11,6 +11,6 @@
 #adjective
 - **[[i/_inclined|Inclined]] to [[f/_forgive|forgive]].**
 	- _Example: I am inclined to take a forgiving attitude, since this is his first offence._
-- **User-[[f/_friendly|friendly]], such that [[h/_harmful|harmful]] [[m/_mistakes|mistakes]] are not [[e/_easily|easily]] [[m/_made|made]].**
+- **User-[[f/_friendly|friendly]], [[s/_such|such]] that [[h/_harmful|harmful]] [[m/_mistakes|mistakes]] are not [[e/_easily|easily]] [[m/_made|made]].**
 ---
 ---

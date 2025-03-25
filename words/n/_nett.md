@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[g/_good|Good]], [[d/_desirable|desirable]]; [[c/_clean|clean]], [[d/_decent|decent]], [[c/_clear|clear]].**
-- **[[f/_free|Free]] from [[e/_extraneous|extraneous]] substances; [[p/_pure|pure]]; unadulterated; [[n/_neat|neat]].**
+- **[[f/_free|Free]] from [[e/_extraneous|extraneous]] [[s/_substances|substances]]; [[p/_pure|pure]]; unadulterated; [[n/_neat|neat]].**
 	- _Example: net wine_
 - **[[r/_remaining|Remaining]] [[a/_after|after]] [[e/_expenses|expenses]] or [[d/_deductions|deductions]].**
 	- _Example: net profit; net weight_

@@ -32,7 +32,7 @@
 - **To [[o/_operate|operate]] [[c/_cumulatively|cumulatively]].**
 	- _Example: A magical widget will double your mojo. And yes, they do stack: if you manage to get two magical widgets, your mojo will be quadrupled. With three, it will be octupled, and so forth._
 - **To [[p/_place|place]] ([[a/_aircraft|aircraft]]) [[i/_into|into]] a [[h/_holding|holding]] [[p/_pattern|pattern]].**
-- **To [[c/_collect|collect]] [[p/_precious|precious]] [[m/_metal|metal]] in the [[f/_form|form]] of various [[s/_small|small]] [[o/_objects|objects]] such as [[c/_coins|coins]] and [[b/_bars|bars]].**
+- **To [[c/_collect|collect]] [[p/_precious|precious]] [[m/_metal|metal]] in the [[f/_form|form]] of various [[s/_small|small]] [[o/_objects|objects]] [[s/_such|such]] as [[c/_coins|coins]] and [[b/_bars|bars]].**
 ---
 ### Synonyms
 - [[g/_gerrymander|gerrymander]], [[s/_smash|smash]], [[w/_wreck|wreck]]

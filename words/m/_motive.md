@@ -7,7 +7,7 @@
 - **[[s/_something|Something]] which [[c/_causes|causes]] [[s/_someone|someone]] to want to [[c/_commit|commit]] a [[c/_crime|crime]]; a [[r/_reason|reason]] for [[c/_criminal|criminal]] [[b/_behaviour|behaviour]].**
 	- _Example: No-one could understand why she had hidden the shovel; her motives were obscure at best._
 - **A [[m/_motif|motif]].**
-- **A [[m/_motif|motif]]; a theme or subject, [[e/_especially|especially]] [[o/_one|one]] that is [[c/_central|central]] to the work or [[o/_often|often]] [[r/_repeated|repeated]].**
+- **A [[m/_motif|motif]]; a theme or [[s/_subject|subject]], [[e/_especially|especially]] [[o/_one|one]] that is [[c/_central|central]] to the work or [[o/_often|often]] [[r/_repeated|repeated]].**
 	- _Example: If you listen carefully, you can hear the flutes mimicking the cello motive._
 ---
 ### Synonyms

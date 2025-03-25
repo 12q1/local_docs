@@ -1,7 +1,7 @@
 # Firmaments
 ---
 #noun
-- **(usually uncountable) The vault of the [[h/_heavens|heavens]], where the [[c/_clouds|clouds]], sun, [[m/_moon|moon]], and [[s/_stars|stars]] [[c/_can|can]] be [[s/_seen|seen]]; the [[h/_heavens|heavens]], the [[s/_sky|sky]].**
+- **(usually uncountable) The vault of the [[h/_heavens|heavens]], where the [[c/_clouds|clouds]], [[s/_sun|sun]], [[m/_moon|moon]], and [[s/_stars|stars]] [[c/_can|can]] be [[s/_seen|seen]]; the [[h/_heavens|heavens]], the [[s/_sky|sky]].**
 - **The [[f/_field|field]] or [[s/_sphere|sphere]] of an [[a/_activity|activity]] or [[i/_interest|interest]].**
 	- _Example: the international fashion firmament_
 - **In the [[g/_geocentric|geocentric]] [[p/_ptolemaic|Ptolemaic]] [[s/_system|system]], the [[e/_eighth|eighth]] [[c/_celestial|celestial]] [[s/_sphere|sphere]] which [[c/_carried|carried]] the [[f/_fixed|fixed]] [[s/_stars|stars]]; (by [[e/_extension|extension]]) [[a/_any|any]] [[c/_celestial|celestial]] [[s/_sphere|sphere]].**

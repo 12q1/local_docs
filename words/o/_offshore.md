@@ -6,7 +6,7 @@
 - **[[s/_something|Something]] or [[s/_someone|someone]] in, from, or [[a/_associated|associated]] with [[a/_another|another]] [[c/_country|country]].**
 ---
 #verb
-- **To use [[f/_foreign|foreign]] [[l/_labor|labor]] to substitute for [[l/_local|local]] [[l/_labor|labor]].**
+- **To use [[f/_foreign|foreign]] [[l/_labor|labor]] to [[s/_substitute|substitute]] for [[l/_local|local]] [[l/_labor|labor]].**
 ---
 #adjective
 - **[[m/_moving|Moving]] [[a/_away|away]] from the [[s/_shore|shore]].**

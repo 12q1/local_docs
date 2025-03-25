@@ -7,9 +7,9 @@
 	- _Example: Today’s panel includes John Smith._
 - **An [[i/_individual|individual]] [[f/_frame|frame]] or [[d/_drawing|drawing]] in a [[c/_comic|comic]].**
 	- _Example: The last panel of a comic strip usually contains a punchline._
-- **A type of GUI widget, such as a [[c/_control|control]] [[p/_panel|panel]].**
+- **A type of GUI widget, [[s/_such|such]] as a [[c/_control|control]] [[p/_panel|panel]].**
 	- _Example: admin panel_
-- **A [[d/_document|document]] [[c/_containing|containing]] the [[n/_names|names]] of [[p/_persons|persons]] summoned as [[j/_jurors|jurors]] by the [[s/_sheriff|sheriff]]; [[h/_hence|hence]], [[m/_more|more]] [[g/_generally|generally]], the whole [[j/_jury|jury]].**
+- **A [[d/_document|document]] [[c/_containing|containing]] the [[n/_names|names]] of [[p/_persons|persons]] [[s/_summoned|summoned]] as [[j/_jurors|jurors]] by the [[s/_sheriff|sheriff]]; [[h/_hence|hence]], [[m/_more|more]] [[g/_generally|generally]], the whole [[j/_jury|jury]].**
 - **A [[p/_prisoner|prisoner]] [[a/_arraigned|arraigned]] for trial at the [[b/_bar|bar]] of a [[c/_criminal|criminal]] [[c/_court|court]].**
 - **A [[p/_piece|piece]] of [[c/_cloth|cloth]] [[s/_serving|serving]] as a [[s/_saddle|saddle]].**
 - **A [[s/_soft|soft]] [[p/_pad|pad]] [[b/_beneath|beneath]] a [[s/_saddletree|saddletree]] to [[p/_prevent|prevent]] [[c/_chafing|chafing]].**

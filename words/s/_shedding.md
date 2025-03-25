@@ -16,7 +16,7 @@
 - **To [[d/_divide|divide]], as the warp threads, [[s/_so|so]] as to [[f/_form|form]] a [[s/_shed|shed]], or [[p/_passageway|passageway]], for the [[s/_shuttle|shuttle]].**
 ---
 #verb
-- **To [[p/_place|place]] or [[a/_allocate|allocate]] a vehicle, such as a [[l/_locomotive|locomotive]], in or to a [[d/_depot|depot]] or [[s/_shed|shed]].**
+- **To [[p/_place|place]] or [[a/_allocate|allocate]] a vehicle, [[s/_such|such]] as a [[l/_locomotive|locomotive]], in or to a [[d/_depot|depot]] or [[s/_shed|shed]].**
 ---
 #noun
 - **The [[a/_act|act]] of [[s/_shedding|shedding]], [[s/_separating|separating]], or [[c/_casting|casting]] [[o/_off|off]].**

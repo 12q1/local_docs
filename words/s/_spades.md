@@ -15,7 +15,7 @@
 - **A [[c/_castrated|castrated]] [[m/_man|man]] or [[a/_animal|animal]].**
 ---
 #noun
-- **[[o/_one|One]] of the [[f/_four|four]] suits of [[p/_playing|playing]] [[c/_cards|cards]], [[m/_marked|marked]] with the [[s/_symbol|symbol]] ♠.**
-- **A [[c/_card|card]] [[g/_game|game]] in which the [[s/_spade|spade]] suit [[c/_cards|cards]] are trumps.**
+- **[[o/_one|One]] of the [[f/_four|four]] [[s/_suits|suits]] of [[p/_playing|playing]] [[c/_cards|cards]], [[m/_marked|marked]] with the [[s/_symbol|symbol]] ♠.**
+- **A [[c/_card|card]] [[g/_game|game]] in which the [[s/_spade|spade]] [[s/_suit|suit]] [[c/_cards|cards]] are trumps.**
 ---
 ---

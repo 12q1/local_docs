@@ -5,9 +5,9 @@
 	- _Example: This product of last month's quality standards committee is quite good, even though the process was flawed._
 - **A [[s/_set|set]] of [[p/_procedures|procedures]] used to [[p/_produce|produce]] a [[p/_product|product]], [[m/_most|most]] [[c/_commonly|commonly]] in the [[f/_food|food]] and [[c/_chemical|chemical]] [[i/_industries|industries]].**
 	- _Example: 1960, Mack Tyner, Process Engineering Calculations: Material and Energy Balances – Ordinarily a process plant will use a steam boiler to supply its process heat requirements and to drive a steam-turbine generator._
-- **A [[p/_path|path]] of succession of [[s/_states|states]] through which a [[s/_system|system]] [[p/_passes|passes]].**
-- **Successive [[p/_physiological|physiological]] [[r/_responses|responses]] to [[k/_keep|keep]] or [[r/_restore|restore]] [[h/_health|health]].**
-- **[[d/_documents|Documents]] [[i/_issued|issued]] by a [[c/_court|court]] in the [[c/_course|course]] of a [[l/_lawsuit|lawsuit]] or [[a/_action|action]] at [[l/_law|law]], such as a summons, [[m/_mandate|mandate]], or writ.**
+- **A [[p/_path|path]] of [[s/_succession|succession]] of [[s/_states|states]] through which a [[s/_system|system]] [[p/_passes|passes]].**
+- **[[s/_successive|Successive]] [[p/_physiological|physiological]] [[r/_responses|responses]] to [[k/_keep|keep]] or [[r/_restore|restore]] [[h/_health|health]].**
+- **[[d/_documents|Documents]] [[i/_issued|issued]] by a [[c/_court|court]] in the [[c/_course|course]] of a [[l/_lawsuit|lawsuit]] or [[a/_action|action]] at [[l/_law|law]], [[s/_such|such]] as a [[s/_summons|summons]], [[m/_mandate|mandate]], or writ.**
 - **An [[o/_outgrowth|outgrowth]] of tissue or [[c/_cell|cell]].**
 - **A [[s/_structure|structure]] that [[a/_arises|arises]] [[a/_above|above]] a surface.**
 - **An [[e/_executable|executable]] task or [[p/_program|program]].**

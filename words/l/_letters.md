@@ -25,12 +25,12 @@
 - **[[o/_one|One]] who [[r/_retards|retards]] or [[h/_hinders|hinders]].**
 ---
 #noun
-- **[[l/_literature|Literature]] ([[s/_school|school]] subject).**
+- **[[l/_literature|Literature]] ([[s/_school|school]] [[s/_subject|subject]]).**
 	- _Example: Rickert was the first woman (and second individual) to be awarded a Ph.D. in English letters and philology with that academic honor at the University of Chicago._
 - **The [[l/_liberal|liberal]] [[a/_arts|arts]], [[h/_humanities|humanities]], [[l/_learning|learning]] ([[b/_broad|broad]] [[a/_accumulated|accumulated]] [[c/_cultural|cultural]] [[k/_knowledge|knowledge]]).**
 	- _Example: Though architecture in ancient Rome was not generally considered to belong to the artes liberales, Vitruvius easily qualified as a man of letters because of his wide learning._
 ---
 #noun
-- **An [[i/_identifying|identifying]] [[i/_initial|initial]] of the [[a/_academic|academic]] [[i/_institution|institution]] that is [[a/_awarded|awarded]] to a [[m/_member|member]] of a varsity team. It is [[m/_made|made]] from [[s/_structured|structured]] [[c/_cloth|cloth]], and [[i/_intended|intended]] to be [[s/_sewn|sewn]] to a [[p/_piece|piece]] of [[c/_clothing|clothing]] such as a varsity sweater or varsity [[j/_jacket|jacket]].**
+- **An [[i/_identifying|identifying]] [[i/_initial|initial]] of the [[a/_academic|academic]] [[i/_institution|institution]] that is [[a/_awarded|awarded]] to a [[m/_member|member]] of a varsity team. It is [[m/_made|made]] from [[s/_structured|structured]] [[c/_cloth|cloth]], and [[i/_intended|intended]] to be [[s/_sewn|sewn]] to a [[p/_piece|piece]] of [[c/_clothing|clothing]] [[s/_such|such]] as a varsity sweater or varsity [[j/_jacket|jacket]].**
 ---
 ---

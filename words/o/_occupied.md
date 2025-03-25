@@ -5,7 +5,7 @@
 	- _Example: The stall on the left is occupied._
 - **[[b/_busy|Busy]], unavailable.**
 	- _Example: She is occupied at the moment._
-- **Subjugated, under the [[c/_control|control]] of a [[f/_foreign|foreign]] [[m/_military|military]] [[p/_presence|presence]].**
+- **[[s/_subjugated|Subjugated]], under the [[c/_control|control]] of a [[f/_foreign|foreign]] [[m/_military|military]] [[p/_presence|presence]].**
 	- _Example: My father travelled to occupied Japan in December 1945._
 ---
 #verb

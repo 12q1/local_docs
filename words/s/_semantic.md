@@ -1,7 +1,7 @@
 # Semantic
 ---
 #noun
-- **In such writing [[s/_systems|systems]] as the [[c/_chinese|Chinese]] writing [[s/_system|system]], the [[p/_portion|portion]] of a [[p/_phono|phono]]-[[s/_semantic|semantic]] [[c/_character|character]] that [[p/_provides|provides]] an [[i/_indication|indication]] of [[i/_its|its]] [[m/_meaning|meaning]]; [[c/_contrasted|contrasted]] with [[p/_phonetic|phonetic]].**
+- **In [[s/_such|such]] writing [[s/_systems|systems]] as the [[c/_chinese|Chinese]] writing [[s/_system|system]], the [[p/_portion|portion]] of a [[p/_phono|phono]]-[[s/_semantic|semantic]] [[c/_character|character]] that [[p/_provides|provides]] an [[i/_indication|indication]] of [[i/_its|its]] [[m/_meaning|meaning]]; [[c/_contrasted|contrasted]] with [[p/_phonetic|phonetic]].**
 ---
 #adjective
 - **Of or [[r/_relating|relating]] to [[s/_semantics|semantics]] or the [[m/_meanings|meanings]] of words.**

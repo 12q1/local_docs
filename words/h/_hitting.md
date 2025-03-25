@@ -19,7 +19,7 @@
 	- _Example: The external web servers hit DBSRV7, but the internal web server hits DBSRV3._
 - **To [[h/_have|have]] [[s/_sex|sex]] with.**
 	- _Example: I'd hit that._
-- **To [[i/_inhale|inhale]] an [[a/_amount|amount]] of [[s/_smoke|smoke]] from a [[n/_narcotic|narcotic]] substance, [[p/_particularly|particularly]] [[m/_marijuana|marijuana]].**
+- **To [[i/_inhale|inhale]] an [[a/_amount|amount]] of [[s/_smoke|smoke]] from a [[n/_narcotic|narcotic]] [[s/_substance|substance]], [[p/_particularly|particularly]] [[m/_marijuana|marijuana]].**
 ---
 ### Synonyms
 - [[b/_beat|beat]], [[p/_pelt|pelt]], [[t/_thump|thump]], [[b/_beset|beset]], [[b/_bang|bang]], [[r/_ram|ram]], [[s/_smash|smash]], [[w/_whack|whack]], [[t/_toke|toke]]

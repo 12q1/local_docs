@@ -20,7 +20,7 @@
 	- _Example: Dog breeds called 'retrievers' were selected for retrieving._
 - **To [[f/_fetch|fetch]] or [[c/_carry|carry]] [[b/_back|back]] [[s/_systematically|systematically]], [[n/_notably|notably]] as a [[g/_game|game]].**
 	- _Example: Most dogs love retrieving, regardless of what object is thrown._
-- **To [[m/_make|make]] a [[d/_difficult|difficult]] but successful [[r/_return|return]] of the [[b/_ball|ball]].**
+- **To [[m/_make|make]] a [[d/_difficult|difficult]] but [[s/_successful|successful]] [[r/_return|return]] of the [[b/_ball|ball]].**
 - **To [[r/_remedy|remedy]] the [[e/_evil|evil]] [[c/_consequence|consequence]] of, to [[r/_repair|repair]] (a [[l/_loss|loss]] or [[d/_damage|damage]]).**
 ---
 ---

@@ -4,7 +4,7 @@
 - **To [[s/_shape|shape]] [[m/_metal|metal]] by [[s/_striking|striking]] it, [[e/_especially|especially]] with a [[p/_peen|peen]].**
 ---
 #verb
-- **([[o/_often|often]] [[f/_followed|followed]] by a [[p/_preposition|preposition]] such as "to" or "on") To [[f/_fasten|fasten]] or [[a/_attach|attach]] ([[s/_something|something]]) with a [[p/_pin|pin]].**
+- **([[o/_often|often]] [[f/_followed|followed]] by a [[p/_preposition|preposition]] [[s/_such|such]] as "to" or "on") To [[f/_fasten|fasten]] or [[a/_attach|attach]] ([[s/_something|something]]) with a [[p/_pin|pin]].**
 - **(usually in the [[p/_passive|passive]]) To [[c/_cause|cause]] (a [[p/_piece|piece]]) to be in a [[p/_pin|pin]].**
 - **To [[p/_pin|pin]] [[d/_down|down]] ([[s/_someone|someone]]).**
 - **To [[e/_enclose|enclose]]; to [[c/_confine|confine]]; to [[p/_pen|pen]]; to [[p/_pound|pound]].**

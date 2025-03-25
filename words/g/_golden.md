@@ -6,7 +6,7 @@
 #adjective
 - **[[m/_made|Made]] of, or [[r/_relating|relating]] to, [[g/_gold|gold]].**
 	- _Example: She wore a golden crown._
-- **[[h/_having|Having]] a [[c/_colour|colour]] or [[o/_other|other]] [[r/_richness|richness]] suggestive of [[g/_gold|gold]].**
+- **[[h/_having|Having]] a [[c/_colour|colour]] or [[o/_other|other]] [[r/_richness|richness]] [[s/_suggestive|suggestive]] of [[g/_gold|gold]].**
 	- _Example: Under a golden sun._
 - **Of a [[b/_beverage|beverage]], [[f/_flavoured|flavoured]] or [[c/_colored|colored]] with turmeric.**
 - **[[m/_marked|Marked]] by [[p/_prosperity|prosperity]], [[c/_creativity|creativity]] [[e/_etc|etc]].**

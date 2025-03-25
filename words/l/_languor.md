@@ -7,7 +7,7 @@
 - **[[d/_dullness|Dullness]], [[s/_sluggishness|sluggishness]]; [[l/_lack|lack]] of vigour; [[s/_stagnation|stagnation]].**
 - **[[l/_listless|Listless]] [[i/_indolence|indolence]] or [[i/_inactivity|inactivity]], [[e/_especially|especially]] [[i/_if|if]] [[e/_enjoyable|enjoyable]] or [[r/_relaxing|relaxing]]; [[d/_dreaminess|dreaminess]]; an [[i/_instance|instance]] of this.**
 - **[[h/_heavy|Heavy]] [[h/_humidity|humidity]] and [[s/_stillness|stillness]] of the [[a/_air|air]].**
-- **[[s/_sorrow|Sorrow]]; suffering; [[a/_also|also]], [[e/_enfeebling|enfeebling]] [[d/_disease|disease]] or [[i/_illness|illness]]; an [[i/_instance|instance]] of this.**
+- **[[s/_sorrow|Sorrow]]; [[s/_suffering|suffering]]; [[a/_also|also]], [[e/_enfeebling|enfeebling]] [[d/_disease|disease]] or [[i/_illness|illness]]; an [[i/_instance|instance]] of this.**
 ---
 ### Synonyms
 - [[t/_torpor|torpor]]

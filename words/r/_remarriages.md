@@ -1,6 +1,6 @@
 # Remarriages
 ---
 #noun
-- **A [[s/_second|second]] or subsequent [[m/_marriage|marriage]]**
+- **A [[s/_second|second]] or [[s/_subsequent|subsequent]] [[m/_marriage|marriage]]**
 ---
 ---

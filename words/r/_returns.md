@@ -13,7 +13,7 @@
 	- _Example: election returns; a return of the amount of goods produced or sold_
 - **[[g/_gain|Gain]] or [[l/_loss|loss]] from an [[i/_investment|investment]].**
 	- _Example: It yielded a return of 5%._
-- **: A [[r/_report|report]] of [[i/_income|income]] submitted to a [[g/_government|government]] for [[p/_purposes|purposes]] of [[s/_specifying|specifying]] [[e/_exact|exact]] tax [[p/_payment|payment]] [[a/_amounts|amounts]]. A tax [[r/_return|return]].**
+- **: A [[r/_report|report]] of [[i/_income|income]] [[s/_submitted|submitted]] to a [[g/_government|government]] for [[p/_purposes|purposes]] of [[s/_specifying|specifying]] [[e/_exact|exact]] tax [[p/_payment|payment]] [[a/_amounts|amounts]]. A tax [[r/_return|return]].**
 	- _Example: Hand in your return by the end of the tax year._
 - **A [[c/_carriage|carriage]] [[r/_return|return]] [[c/_character|character]].**
 - **The [[a/_act|act]] of [[r/_relinquishing|relinquishing]] [[c/_control|control]] to the [[c/_calling|calling]] [[p/_procedure|procedure]].**
@@ -23,7 +23,7 @@
 - **A [[s/_short|short]] [[p/_perpendicular|perpendicular]] [[e/_extension|extension]] of a [[d/_desk|desk]], usually [[s/_slightly|slightly]] [[l/_lower|lower]].**
 - **[[c/_catching|Catching]] a [[b/_ball|ball]] [[a/_after|after]] a [[p/_punt|punt]] and [[r/_running|running]] it [[b/_back|back]] towards the [[o/_opposing|opposing]] team.**
 - **A throw from a [[f/_fielder|fielder]] to the wicket-[[k/_keeper|keeper]] or to [[a/_another|another]] [[f/_fielder|fielder]] at the wicket.**
-- **The [[c/_continuation|continuation]] in a [[d/_different|different]] [[d/_direction|direction]], [[m/_most|most]] [[o/_often|often]] at a [[r/_right|right]] [[a/_angle|angle]], of a [[b/_building|building]], [[f/_face|face]] of a [[b/_building|building]], or [[a/_any|any]] [[m/_member|member]], such as a [[m/_moulding|moulding]]; [[a/_applied|applied]] to the [[s/_shorter|shorter]] in [[c/_contradistinction|contradistinction]] to the [[l/_longer|longer]].**
+- **The [[c/_continuation|continuation]] in a [[d/_different|different]] [[d/_direction|direction]], [[m/_most|most]] [[o/_often|often]] at a [[r/_right|right]] [[a/_angle|angle]], of a [[b/_building|building]], [[f/_face|face]] of a [[b/_building|building]], or [[a/_any|any]] [[m/_member|member]], [[s/_such|such]] as a [[m/_moulding|moulding]]; [[a/_applied|applied]] to the [[s/_shorter|shorter]] in [[c/_contradistinction|contradistinction]] to the [[l/_longer|longer]].**
 	- _Example: A facade of sixty feet east and west has a return of twenty feet north and south._
 ---
 ### Synonyms

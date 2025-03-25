@@ -3,11 +3,11 @@
 #noun
 - **[[o/_one|One]] who [[f/_follows|follows]], [[c/_comes|comes]] [[a/_after|after]] [[a/_another|another]].**
 - **[[s/_something|Something]] that [[c/_comes|comes]] [[a/_after|after]] [[a/_another|another]] thing.**
-- **[[o/_one|One]] who is a [[p/_part|part]] of [[m/_master|master]]'[[s/_s|s]] [[p/_physical|physical]] [[g/_group|group]], such as a [[s/_servant|servant]] or [[r/_retainer|retainer]].**
+- **[[o/_one|One]] who is a [[p/_part|part]] of [[m/_master|master]]'[[s/_s|s]] [[p/_physical|physical]] [[g/_group|group]], [[s/_such|such]] as a [[s/_servant|servant]] or [[r/_retainer|retainer]].**
 - **[[o/_one|One]] who [[f/_follows|follows]] [[m/_mentally|mentally]], [[a/_adherer|adherer]] to the [[o/_opinions|opinions]], [[i/_ideas|ideas]] or teachings of [[a/_another|another]], a [[m/_movement|movement]] [[e/_etc|etc]].**
 - **An [[i/_imitator|imitator]], who [[f/_follows|follows]] [[a/_another|another]]'[[s/_s|s]] [[e/_example|example]].**
 - **A [[p/_pursuer|pursuer]].**
-- **An [[a/_account|account]] [[h/_holder|holder]] who subscribes to [[s/_see|see]] [[c/_content|content]] from [[a/_another|another]] [[a/_account|account]] on a [[s/_social|social]] [[m/_media|media]] [[p/_platform|platform]].**
+- **An [[a/_account|account]] [[h/_holder|holder]] who [[s/_subscribes|subscribes]] to [[s/_see|see]] [[c/_content|content]] from [[a/_another|another]] [[a/_account|account]] on a [[s/_social|social]] [[m/_media|media]] [[p/_platform|platform]].**
 	- _Example: I have over 50 followers on Twitter, but all my tweets only get 10 likes._
 - **A [[m/_machine|machine]] [[p/_part|part]] [[r/_receiving|receiving]] [[m/_motion|motion]] from [[a/_another|another]].**
 - **A [[m/_man|man]] [[c/_courting|courting]] a [[m/_maidservant|maidservant]].**

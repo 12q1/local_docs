@@ -1,7 +1,7 @@
 # Nonprofit
 ---
 #noun
-- **An [[o/_organization|organization]] that [[e/_exists|exists]] for [[r/_reasons|reasons]] [[o/_other|other]] than to [[m/_make|make]] a [[p/_profit|profit]], such as a [[c/_charitable|charitable]], [[e/_educational|educational]] or [[s/_service|service]] [[o/_organization|organization]].**
+- **An [[o/_organization|organization]] that [[e/_exists|exists]] for [[r/_reasons|reasons]] [[o/_other|other]] than to [[m/_make|make]] a [[p/_profit|profit]], [[s/_such|such]] as a [[c/_charitable|charitable]], [[e/_educational|educational]] or [[s/_service|service]] [[o/_organization|organization]].**
 	- _Example: Employees of a nonprofit rarely make as much as greedy counterparts in the commercial world._
 ---
 ### Synonyms

@@ -4,8 +4,8 @@
 - **A [[h/_hinny|hinny]]; [[h/_hybrid|hybrid]] of [[m/_male|male]] [[h/_horse|horse]] and [[f/_female|female]] [[d/_donkey|donkey]].**
 ---
 #noun
-- **A utensil in the [[s/_shape|shape]] of an [[i/_inverted|inverted]] [[h/_hollow|hollow]] [[c/_cone|cone]] terminating in a [[n/_narrow|narrow]] [[p/_pipe|pipe]], for [[c/_channeling|channeling]] [[l/_liquids|liquids]] or [[g/_granular|granular]] [[m/_material|material]]; typically used when transferring [[s/_said|said]] substances from [[a/_any|any]] [[c/_container|container]] [[i/_into|into]] [[o/_ones|ones]] with a [[s/_significantly|significantly]] [[s/_smaller|smaller]] [[o/_opening|opening]].**
-- **A [[p/_passage|passage]] or [[a/_avenue|avenue]] for a [[f/_fluid|fluid]] or [[f/_flowing|flowing]] substance; [[s/_specifically|specifically]], a [[s/_smoke|smoke]] [[f/_flue|flue]] or [[p/_pipe|pipe]]; the [[c/_chimney|chimney]] of a [[s/_steamship|steamship]] or the [[l/_like|like]].**
+- **A utensil in the [[s/_shape|shape]] of an [[i/_inverted|inverted]] [[h/_hollow|hollow]] [[c/_cone|cone]] terminating in a [[n/_narrow|narrow]] [[p/_pipe|pipe]], for [[c/_channeling|channeling]] [[l/_liquids|liquids]] or [[g/_granular|granular]] [[m/_material|material]]; typically used when transferring [[s/_said|said]] [[s/_substances|substances]] from [[a/_any|any]] [[c/_container|container]] [[i/_into|into]] [[o/_ones|ones]] with a [[s/_significantly|significantly]] [[s/_smaller|smaller]] [[o/_opening|opening]].**
+- **A [[p/_passage|passage]] or [[a/_avenue|avenue]] for a [[f/_fluid|fluid]] or [[f/_flowing|flowing]] [[s/_substance|substance]]; [[s/_specifically|specifically]], a [[s/_smoke|smoke]] [[f/_flue|flue]] or [[p/_pipe|pipe]]; the [[c/_chimney|chimney]] of a [[s/_steamship|steamship]] or the [[l/_like|like]].**
 ---
 #verb
 - **To use a [[f/_funnel|funnel]].**

@@ -1,7 +1,7 @@
 # Inert
 ---
 #noun
-- **A substance that [[d/_does|does]] not [[r/_react|react]] [[c/_chemically|chemically]].**
+- **A [[s/_substance|substance]] that [[d/_does|does]] not [[r/_react|react]] [[c/_chemically|chemically]].**
 ---
 #verb
 - **To [[f/_fill|fill]] with an [[i/_inert|inert]] [[g/_gas|gas]] to [[r/_reduce|reduce]] the [[r/_risk|risk]] of [[e/_explosion|explosion]].**

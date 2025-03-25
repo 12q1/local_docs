@@ -5,7 +5,7 @@
 	- _Example: The girl wore a red skirt._
 - **(of [[h/_hair|hair]]) [[h/_having|Having]] an [[o/_orange|orange]]-[[b/_brown|brown]] or [[o/_orange|orange]]-[[b/_blond|blond]] [[c/_colour|colour]]; [[g/_ginger|ginger]].**
 	- _Example: Her hair had red highlights._
-- **(of a [[c/_card|card]]) Of the [[h/_hearts|hearts]] or [[d/_diamonds|diamonds]] suits. [[c/_compare|Compare]] [[b/_black|black]]**
+- **(of a [[c/_card|card]]) Of the [[h/_hearts|hearts]] or [[d/_diamonds|diamonds]] [[s/_suits|suits]]. [[c/_compare|Compare]] [[b/_black|black]]**
 	- _Example: I got two red queens, and he got one of the black queens._
 - **([[o/_often|often]] [[c/_capitalized|capitalized]]) Supportive of, [[r/_related|related]] to, or [[d/_dominated|dominated]] by a [[p/_political|political]] [[p/_party|party]] or [[m/_movement|movement]] [[r/_represented|represented]] by the [[c/_color|color]] [[r/_red|red]]:**
 - **[[a/_amerind|Amerind]]; [[r/_relating|relating]] to [[a/_amerindians|Amerindians]] or [[f/_first|First]] [[n/_nations|Nations]]**

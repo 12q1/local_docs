@@ -12,9 +12,9 @@
 	- _Example: When you update the file, the system will only save the deltas._
 - **A [[c/_change|change]] in a [[q/_quantity|quantity]], [[l/_likely|likely]] from "[[d/_d|d]]" for "[[d/_difference|difference]]".**
 	- _Example: ΔV - "delta vee"(change in velocity, used in rocketry and orbital mechanics)_
-- **The [[a/_angle|angle]] subtended at the [[c/_center|center]] of a [[c/_circular|circular]] [[a/_arc|arc]].**
+- **The [[a/_angle|angle]] [[s/_subtended|subtended]] at the [[c/_center|center]] of a [[c/_circular|circular]] [[a/_arc|arc]].**
 - **A type of [[c/_cargo|cargo]] [[b/_bike|bike]] that [[h/_has|has]] [[o/_one|one]] wheel in [[f/_front|front]] and two in [[b/_back|back]].**
-- **The [[c/_closed|closed]] [[f/_figure|figure]] [[p/_produced|produced]] by [[c/_connecting|connecting]] three [[c/_coils|coils]] or [[c/_circuits|circuits]] successively, [[e/_end|end]] for [[e/_end|end]], [[e/_especially|especially]] in a three-[[p/_phase|phase]] [[s/_system|system]].**
+- **The [[c/_closed|closed]] [[f/_figure|figure]] [[p/_produced|produced]] by [[c/_connecting|connecting]] three [[c/_coils|coils]] or [[c/_circuits|circuits]] [[s/_successively|successively]], [[e/_end|end]] for [[e/_end|end]], [[e/_especially|especially]] in a three-[[p/_phase|phase]] [[s/_system|system]].**
 	- _Example: delta winding; delta connection; delta current_
 - **The [[r/_rate|rate]] of [[c/_change|change]] in an [[o/_option|option]] value with [[r/_respect|respect]] to the underlying [[a/_asset|asset]]'[[s/_s|s]] [[p/_price|price]].**
 - **A value in [[d/_delta|delta]] [[n/_notation|notation]] [[i/_indicating|indicating]] the [[r/_relative|relative]] [[a/_abundances|abundances]] of [[i/_isotopes|isotopes]].**

@@ -10,7 +10,7 @@
 	- _Example: The orchestra's third violin several times was sharp about an eighth of a tone._
 - **[[h/_having|Having]] an [[i/_intense|intense]], [[a/_acrid|acrid]] [[f/_flavour|flavour]].**
 	- _Example: Milly couldn't stand sharp cheeses when she was pregnant, because they made her nauseated._
-- **Sudden and [[i/_intense|intense]].**
+- **[[s/_sudden|Sudden]] and [[i/_intense|intense]].**
 	- _Example: A pregnant woman during labor normally experiences a number of sharp contractions._
 - **[[i/_illegal|Illegal]] or [[d/_dishonest|dishonest]].**
 	- _Example: Michael had a number of sharp ventures that he kept off the books._

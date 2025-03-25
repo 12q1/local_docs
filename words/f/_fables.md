@@ -4,7 +4,7 @@
 - **A [[f/_fictitious|fictitious]] [[n/_narrative|narrative]] [[i/_intended|intended]] to [[e/_enforce|enforce]] [[s/_some|some]] useful truth or [[p/_precept|precept]], usually with [[a/_animals|animals]], [[e/_etc|etc]]. as [[c/_characters|characters]]; an [[a/_apologue|apologue]]. [[p/_prototypically|Prototypically]], [[a/_aesop|Aesop]]'[[s/_s|s]] [[f/_fables|Fables]].**
 - **[[a/_any|Any]] [[s/_story|story]] told to [[e/_excite|excite]] wonder; [[c/_common|common]] talk; the theme of talk.**
 - **[[f/_fiction|Fiction]]; untruth; [[f/_falsehood|falsehood]].**
-- **The [[p/_plot|plot]], [[s/_story|story]], or [[c/_connected|connected]] [[s/_series|series]] of [[e/_events|events]] [[f/_forming|forming]] the subject of an [[e/_epic|epic]] or [[d/_dramatic|dramatic]] [[p/_poem|poem]].**
+- **The [[p/_plot|plot]], [[s/_story|story]], or [[c/_connected|connected]] [[s/_series|series]] of [[e/_events|events]] [[f/_forming|forming]] the [[s/_subject|subject]] of an [[e/_epic|epic]] or [[d/_dramatic|dramatic]] [[p/_poem|poem]].**
 ---
 ### Synonyms
 - [[l/_legend|legend]]

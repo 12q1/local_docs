@@ -48,7 +48,7 @@
 - **To [[m/_mention|mention]] [[c/_casually|casually]] or [[i/_incidentally|incidentally]], usually in [[c/_conversation|conversation]].**
 	- _Example: The moderator would drop hints whenever the students struggled._
 - **To [[p/_part|part]] with or [[s/_spend|spend]] ([[m/_money|money]]).**
-- **To [[c/_cease|cease]] [[c/_concerning|concerning]] [[o/_oneself|oneself]] [[o/_over|over]]; to [[h/_have|have]] [[n/_nothing|nothing]] [[m/_more|more]] to [[d/_do|do]] with (a subject, [[d/_discussion|discussion]] [[e/_etc|etc]].).**
+- **To [[c/_cease|cease]] [[c/_concerning|concerning]] [[o/_oneself|oneself]] [[o/_over|over]]; to [[h/_have|have]] [[n/_nothing|nothing]] [[m/_more|more]] to [[d/_do|do]] with (a [[s/_subject|subject]], [[d/_discussion|discussion]] [[e/_etc|etc]].).**
 	- _Example: I'm tired of this subject. Will you just drop it?_
 - **To [[l/_lessen|lessen]], [[d/_decrease|decrease]], or [[d/_diminish|diminish]] in value, [[c/_condition|condition]], [[d/_degree|degree]], [[e/_etc|etc]].**
 	- _Example: The stock dropped 1.5% yesterday.   We can take our vacation when the price of fuel drops.   Watch for the temperature to drop sharply, then you'll know the reaction is complete._

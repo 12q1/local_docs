@@ -7,7 +7,7 @@
 - **[[s/_state|State]] of [[r/_remaining|remaining]]; [[s/_stay|stay]].**
 ---
 #verb
-- **To [[s/_stay|stay]] [[b/_behind|behind]] while [[o/_others|others]] withdraw; to be [[l/_left|left]] [[a/_after|after]] [[o/_others|others]] [[h/_have|have]] [[b/_been|been]] [[r/_removed|removed]] or [[d/_destroyed|destroyed]]; to be [[l/_left|left]] [[a/_after|after]] a [[n/_number|number]] or [[q/_quantity|quantity]] [[h/_has|has]] [[b/_been|been]] subtracted or [[c/_cut|cut]] [[o/_off|off]]; to be [[l/_left|left]] as not [[i/_included|included]] or [[c/_comprised|comprised]].**
+- **To [[s/_stay|stay]] [[b/_behind|behind]] while [[o/_others|others]] withdraw; to be [[l/_left|left]] [[a/_after|after]] [[o/_others|others]] [[h/_have|have]] [[b/_been|been]] [[r/_removed|removed]] or [[d/_destroyed|destroyed]]; to be [[l/_left|left]] [[a/_after|after]] a [[n/_number|number]] or [[q/_quantity|quantity]] [[h/_has|has]] [[b/_been|been]] [[s/_subtracted|subtracted]] or [[c/_cut|cut]] [[o/_off|off]]; to be [[l/_left|left]] as not [[i/_included|included]] or [[c/_comprised|comprised]].**
 - **To [[c/_continue|continue]] unchanged in [[p/_place|place]], [[f/_form|form]], or [[c/_condition|condition]], or undiminished in [[q/_quantity|quantity]]; to [[a/_abide|abide]]; to [[s/_stay|stay]]; to [[e/_endure|endure]]; to [[l/_last|last]].**
 	- _Example: There was no food in the house, so I had to remain hungry._
 - **To [[a/_await|await]]; to be [[l/_left|left]] to.**

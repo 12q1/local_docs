@@ -8,7 +8,7 @@
 - **([[b/_british|British]] [[r/_royal|Royal]] [[n/_navy|Navy]]) [[a/_any|Any]] [[c/_command|command]] of vessels [[e/_exceeding|exceeding]] a [[s/_squadron|squadron]] in [[s/_size|size]], or a [[r/_rear|rear]] [[a/_admiral|admiral]]'[[s/_s|s]] [[c/_command|command]], [[c/_composed|composed]] of [[f/_five|five]] [[s/_sail|sail]]-of-the-[[l/_line|line]], with [[a/_any|any]] [[n/_number|number]] of [[s/_smaller|smaller]] vessels.**
 ---
 #noun
-- **An [[a/_arm|arm]] of the [[s/_sea|sea]]; a [[r/_run|run]] of water, such as an [[i/_inlet|inlet]] or a [[c/_creek|creek]].**
+- **An [[a/_arm|arm]] of the [[s/_sea|sea]]; a [[r/_run|run]] of water, [[s/_such|such]] as an [[i/_inlet|inlet]] or a [[c/_creek|creek]].**
 - **A [[l/_location|location]], as on a [[n/_navigable|navigable]] [[r/_river|river]], where [[b/_barges|barges]] are [[s/_secured|secured]].**
 ---
 #verb

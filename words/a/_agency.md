@@ -7,8 +7,8 @@
 - **A [[m/_medium|medium]] through which [[p/_power|power]] is [[e/_exerted|exerted]] or an [[e/_end|end]] is [[a/_achieved|achieved]].**
 - **The [[o/_office|office]] or [[f/_function|function]] of an [[a/_agent|agent]]; [[a/_also|also]], the [[r/_relationship|relationship]] [[b/_between|between]] a [[p/_principal|principal]] and that [[p/_person|person]]'[[s/_s|s]] [[a/_agent|agent]].**
 	- _Example: authority of agency_
-- **An [[e/_establishment|establishment]] [[e/_engaged|engaged]] in [[d/_doing|doing]] [[b/_business|business]] for [[a/_another|another]]; [[a/_also|also]], the [[p/_place|place]] of [[b/_business|business]] or the [[d/_district|district]] of such an [[a/_agency|agency]].**
-- **A [[d/_department|department]] or [[o/_other|other]] [[a/_administrative|administrative]] unit of a [[g/_government|government]]; [[a/_also|also]], the [[o/_office|office]] or [[h/_headquarters|headquarters]] of, or the [[d/_district|district]] [[a/_administered|administered]] by such unit of [[g/_government|government]].**
+- **An [[e/_establishment|establishment]] [[e/_engaged|engaged]] in [[d/_doing|doing]] [[b/_business|business]] for [[a/_another|another]]; [[a/_also|also]], the [[p/_place|place]] of [[b/_business|business]] or the [[d/_district|district]] of [[s/_such|such]] an [[a/_agency|agency]].**
+- **A [[d/_department|department]] or [[o/_other|other]] [[a/_administrative|administrative]] unit of a [[g/_government|government]]; [[a/_also|also]], the [[o/_office|office]] or [[h/_headquarters|headquarters]] of, or the [[d/_district|district]] [[a/_administered|administered]] by [[s/_such|such]] unit of [[g/_government|government]].**
 	- _Example: Agency for Toxic Substances and Disease Registry_
 ---
 ### Synonyms

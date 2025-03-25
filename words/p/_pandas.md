@@ -8,6 +8,6 @@
 ### Synonyms
 - [[w/_wah|wah]]
 #noun
-- **A [[b/_brahmin|brahmin]] who [[a/_acts|acts]] as the [[h/_hereditary|hereditary]] superintendent of a [[p/_particular|particular]] [[g/_ghat|ghat]] or temple, and is [[r/_regarded|regarded]] as [[k/_knowledgeable|knowledgeable]] in [[m/_matters|matters]] of [[g/_genealogy|genealogy]] and [[r/_ritual|ritual]].**
+- **A [[b/_brahmin|brahmin]] who [[a/_acts|acts]] as the [[h/_hereditary|hereditary]] [[s/_superintendent|superintendent]] of a [[p/_particular|particular]] [[g/_ghat|ghat]] or temple, and is [[r/_regarded|regarded]] as [[k/_knowledgeable|knowledgeable]] in [[m/_matters|matters]] of [[g/_genealogy|genealogy]] and [[r/_ritual|ritual]].**
 ---
 ---

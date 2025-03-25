@@ -9,7 +9,7 @@
 ### Antonyms
 - [[i/_ignorize|ignorize]]
 #adjective
-- **[[h/_having|Having]] [[a/_attained|attained]] a [[l/_level|level]] of [[h/_higher|higher]] [[e/_education|education]], such as a [[c/_college|college]] [[d/_degree|degree]].**
+- **[[h/_having|Having]] [[a/_attained|attained]] a [[l/_level|level]] of [[h/_higher|higher]] [[e/_education|education]], [[s/_such|such]] as a [[c/_college|college]] [[d/_degree|degree]].**
 - **[[b/_based|Based]] on [[r/_relevant|relevant]] [[i/_information|information]].**
 ---
 ### Antonyms

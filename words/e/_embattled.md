@@ -10,7 +10,7 @@
 	- _Example: to embattle a wall_
 ---
 #adjective
-- **Subject to or troubled by [[b/_battles|battles]], [[c/_controversy|controversy]] or [[d/_debates|debates]].**
+- **[[s/_subject|Subject]] to or troubled by [[b/_battles|battles]], [[c/_controversy|controversy]] or [[d/_debates|debates]].**
 - **[[p/_prepared|Prepared]] or [[a/_armed|armed]] for [[b/_battle|battle]].**
 - **Of a wall, [[f/_fortress|fortress]], [[e/_etc|etc]]., [[h/_having|having]] [[b/_battlements|battlements]] or crenellations.**
 - **[[d/_drawn|Drawn]] with a [[l/_line|line]] of [[a/_alternating|alternating]] [[s/_square|square]] [[i/_indentations|indentations]] and [[e/_extensions|extensions]].**

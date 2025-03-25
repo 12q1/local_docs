@@ -12,14 +12,14 @@
 ### Synonyms
 - [[s/_spend|spend]], [[p/_pledge|pledge]], [[p/_promise|promise]], [[v/_vow|vow]]
 #noun
-- **An [[o/_opening|opening]], [[r/_road|road]], or track, [[a/_available|available]] for [[p/_passing|passing]]; [[e/_especially|especially]], [[o/_one|one]] through or [[o/_over|over]] [[s/_some|some]] [[d/_dangerous|dangerous]] or [[o/_otherwise|otherwise]] [[i/_impracticable|impracticable]] [[b/_barrier|barrier]] such as a [[m/_mountain|mountain]] [[r/_range|range]]; a [[p/_passageway|passageway]]; a [[d/_defile|defile]]; a [[f/_ford|ford]].**
+- **An [[o/_opening|opening]], [[r/_road|road]], or track, [[a/_available|available]] for [[p/_passing|passing]]; [[e/_especially|especially]], [[o/_one|one]] through or [[o/_over|over]] [[s/_some|some]] [[d/_dangerous|dangerous]] or [[o/_otherwise|otherwise]] [[i/_impracticable|impracticable]] [[b/_barrier|barrier]] [[s/_such|such]] as a [[m/_mountain|mountain]] [[r/_range|range]]; a [[p/_passageway|passageway]]; a [[d/_defile|defile]]; a [[f/_ford|ford]].**
 - **A [[c/_channel|channel]] [[c/_connecting|connecting]] a [[r/_river|river]] or [[b/_body|body]] of water to the [[s/_sea|sea]], for [[e/_example|example]] at the [[m/_mouth|mouth]] ([[d/_delta|delta]]) of a [[r/_river|river]].**
 	- _Example: the passes of the Mississippi_
 - **A [[s/_single|single]] [[m/_movement|movement]], [[e/_especially|especially]] of a [[h/_hand|hand]], at, [[o/_over|over]] or [[a/_along|along]] [[a/_anything|anything]].**
 - **A [[s/_single|single]] [[p/_passage|passage]] of a tool [[o/_over|over]] [[s/_something|something]], or of [[s/_something|something]] [[o/_over|over]] a tool.**
 - **An [[a/_attempt|attempt]].**
 	- _Example: My first pass at a career of writing proved unsuccessful._
-- **Success in an [[e/_examination|examination]] or [[s/_similar|similar]] test.**
+- **[[s/_success|Success]] in an [[e/_examination|examination]] or [[s/_similar|similar]] test.**
 	- _Example: I gained three passes at A-level, in mathematics, French, and English literature._
 - **A thrust or [[p/_push|push]]; an [[a/_attempt|attempt]] to [[s/_stab|stab]] or [[s/_strike|strike]] an [[a/_adversary|adversary]].**
 - **A thrust; a [[s/_sally|sally]] of wit.**

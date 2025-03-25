@@ -5,14 +5,14 @@
 - **[[s/_similar|Similar]] works [[i/_issued|issued]] in [[e/_england|England]] for [[p/_private|private]] [[p/_prayer|prayer]] in [[a/_accordance|accordance]] with the [[b/_book|Book]] of [[c/_common|Common]] [[p/_prayer|Prayer]].**
 - **A [[c/_children|children]]'[[s/_s|s]] [[b/_book|book]] [[i/_intended|intended]] to teach [[l/_literacy|literacy]]: [[h/_how|how]] to [[r/_read|read]], write, and [[s/_spell|spell]].**
 	- _Example: 1545, The A.B.C. Primers_
-- **An [[i/_introductory|introductory]] text on [[a/_any|any]] subject, [[p/_particularly|particularly]] [[b/_basic|basic]] [[c/_concepts|concepts]].**
+- **An [[i/_introductory|introductory]] text on [[a/_any|any]] [[s/_subject|subject]], [[p/_particularly|particularly]] [[b/_basic|basic]] [[c/_concepts|concepts]].**
 - **An [[e/_elementary|elementary]] [[s/_school|school]] [[c/_class|class]]; an [[e/_elementary|elementary]] [[s/_school|school]] [[s/_student|student]].**
 ---
 #noun
-- **[[a/_any|Any]] substance or [[d/_device|device]], such as [[p/_priming|priming]] wire or [[b/_blasting|blasting]] [[c/_cap|cap]], used to [[i/_ignite|ignite]] [[g/_gunpowder|gunpowder]] or [[o/_other|other]] [[e/_explosive|explosive]].**
+- **[[a/_any|Any]] [[s/_substance|substance]] or [[d/_device|device]], [[s/_such|such]] as [[p/_priming|priming]] wire or [[b/_blasting|blasting]] [[c/_cap|cap]], used to [[i/_ignite|ignite]] [[g/_gunpowder|gunpowder]] or [[o/_other|other]] [[e/_explosive|explosive]].**
 - **A [[p/_person|person]] who [[p/_primes|primes]] [[e/_explosives|explosives]].**
-- **A substance used to [[p/_prime|prime]] wood, [[m/_metal|metal]], [[e/_etc|etc]]. in [[p/_preparation|preparation]] for [[p/_painting|painting]].**
-- **A [[l/_layer|layer]] of such a substance.**
+- **A [[s/_substance|substance]] used to [[p/_prime|prime]] wood, [[m/_metal|metal]], [[e/_etc|etc]]. in [[p/_preparation|preparation]] for [[p/_painting|painting]].**
+- **A [[l/_layer|layer]] of [[s/_such|such]] a [[s/_substance|substance]].**
 - **A [[l/_layer|layer]] of [[m/_makeup|makeup]] that [[g/_goes|goes]] [[b/_beneath|beneath]] the [[f/_foundation|foundation]]; undermakeup.**
 - **A [[p/_person|person]] who [[p/_primes|primes]] wood, [[m/_metal|metal]], [[e/_etc|etc]].**
 - **A [[m/_molecule|molecule]] which [[i/_initiates|initiates]] the [[s/_synthesis|synthesis]] of an [[e/_enzyme|enzyme]], a [[s/_single|single]]-[[s/_stranded|stranded]] [[n/_nucleic|nucleic]] [[a/_acid|acid]] [[m/_molecule|molecule]] which [[i/_initiates|initiates]] DNA [[r/_replication|replication]].**

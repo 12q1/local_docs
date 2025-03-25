@@ -5,7 +5,7 @@
 	- _Example: That girl has a pretty face._
 - **[[o/_one|One]]'[[s/_s|s]] [[f/_facial|facial]] [[e/_expression|expression]].**
 	- _Example: Why the sad face?_
-- **(in [[e/_expressions|expressions]] such as '[[m/_make|make]] a [[f/_face|face]]') A [[d/_distorted|distorted]] [[f/_facial|facial]] [[e/_expression|expression]]; an [[e/_expression|expression]] of [[d/_displeasure|displeasure]], [[i/_insult|insult]], [[e/_etc|etc]].**
+- **(in [[e/_expressions|expressions]] [[s/_such|such]] as '[[m/_make|make]] a [[f/_face|face]]') A [[d/_distorted|distorted]] [[f/_facial|facial]] [[e/_expression|expression]]; an [[e/_expression|expression]] of [[d/_displeasure|displeasure]], [[i/_insult|insult]], [[e/_etc|etc]].**
 	- _Example: Children! Stop making faces at each other!_
 - **The [[p/_public|public]] [[i/_image|image]]; [[o/_outward|outward]] [[a/_appearance|appearance]].**
 	- _Example: He managed to show a bold face despite his embarrassment._
@@ -30,7 +30,7 @@
 	- _Example: I'll be out in a sec. Just let me put on my face._
 - **([[m/_metonymic|metonymic]]) A [[p/_person|person]].**
 	- _Example: It was just the usual faces at the pub tonight._
-- **A [[f/_familiar|familiar]] or well-[[k/_known|known]] [[p/_person|person]]; a [[m/_member|member]] of a [[p/_particular|particular]] [[s/_scene|scene]], such as [[m/_music|music]] or [[f/_fashion|fashion]] [[s/_scene|scene]].**
+- **A [[f/_familiar|familiar]] or well-[[k/_known|known]] [[p/_person|person]]; a [[m/_member|member]] of a [[p/_particular|particular]] [[s/_scene|scene]], [[s/_such|such]] as [[m/_music|music]] or [[f/_fashion|fashion]] [[s/_scene|scene]].**
 	- _Example: He owned several local businesses and was a face around town._
 - **A [[h/_headlining|headlining]] wrestler with a [[p/_persona|persona]] [[e/_embodying|embodying]] [[h/_heroic|heroic]] or virtuous traits and who is [[r/_regarded|regarded]] as a "[[g/_good|good]] [[g/_guy|guy]]", [[e/_especially|especially]] [[o/_one|one]] who is [[h/_handsome|handsome]] and well-[[c/_conditioned|conditioned]]; a [[b/_baby|baby]] [[f/_face|face]].**
 	- _Example: The fans cheered on the face as he made his comeback._
@@ -69,7 +69,7 @@
 	- _Example: a building faced with marble_
 - **To [[l/_line|line]] [[n/_near|near]] the [[e/_edge|edge]], [[e/_especially|especially]] with a [[d/_different|different]] [[m/_material|material]].**
 	- _Example: to face the front of a coat, or the bottom of a dress_
-- **To [[c/_cover|cover]] with [[b/_better|better]], or [[b/_better|better]] [[a/_appearing|appearing]], [[m/_material|material]] than the [[m/_mass|mass]] [[c/_consists|consists]] of, for [[p/_purpose|purpose]] of [[d/_deception|deception]], as the surface of a [[b/_box|box]] of tea, a [[b/_barrel|barrel]] of sugar, [[e/_etc|etc]].**
+- **To [[c/_cover|cover]] with [[b/_better|better]], or [[b/_better|better]] [[a/_appearing|appearing]], [[m/_material|material]] than the [[m/_mass|mass]] [[c/_consists|consists]] of, for [[p/_purpose|purpose]] of [[d/_deception|deception]], as the surface of a [[b/_box|box]] of tea, a [[b/_barrel|barrel]] of [[s/_sugar|sugar]], [[e/_etc|etc]].**
 - **To [[m/_make|make]] the surface of ([[a/_anything|anything]]) [[f/_flat|flat]] or [[s/_smooth|smooth]]; to [[d/_dress|dress]] the [[f/_face|face]] of (a [[s/_stone|stone]], a [[c/_casting|casting]], [[e/_etc|etc]].); [[e/_especially|especially]], in turning, to [[s/_shape|shape]] or [[s/_smooth|smooth]] the [[f/_flat|flat]] surface of, as [[d/_distinguished|distinguished]] from the [[c/_cylindrical|cylindrical]] surface.**
 - **([[r/_retail|retail]]) To [[a/_arrange|arrange]] the [[p/_products|products]] in (a [[s/_store|store]]) [[s/_so|so]] that they are tidy and [[a/_attractive|attractive]].**
 	- _Example: In my first job, I learned how to operate a till and to face the store to high standards._

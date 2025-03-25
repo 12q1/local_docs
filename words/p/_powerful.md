@@ -12,7 +12,7 @@
 - **To a [[g/_great|great]] [[e/_extent|extent]] or [[d/_degree|degree]].**
 	- _Example: Not very many (of them) had been damaged._
 - **[[c/_conforming|Conforming]] to [[f/_fact|fact]], [[r/_reality|reality]] or [[r/_rule|rule]]; true.**
-- **(with superlatives) Used to [[f/_firmly|firmly]] [[e/_establish|establish]] that [[n/_nothing|nothing]] [[e/_else|else]] surpasses in [[s/_some|some]] [[r/_respect|respect]].**
+- **(with [[s/_superlatives|superlatives]]) Used to [[f/_firmly|firmly]] [[e/_establish|establish]] that [[n/_nothing|nothing]] [[e/_else|else]] surpasses in [[s/_some|some]] [[r/_respect|respect]].**
 	- _Example: He was the very best runner there._
 ---
 ### Synonyms

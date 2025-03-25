@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[s/_state|state]] of [[b/_being|being]] [[p/_passive|passive]].**
-- **Submissiveness.**
+- **[[s/_submissiveness|Submissiveness]].**
 - **A [[l/_lack|lack]] of [[i/_initiative|initiative]].**
 ---
 ### Synonyms

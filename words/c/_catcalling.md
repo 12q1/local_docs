@@ -1,6 +1,6 @@
 # Catcalling
 ---
 #verb
-- **To [[m/_make|make]] such an [[e/_exclamation|exclamation]].**
+- **To [[m/_make|make]] [[s/_such|such]] an [[e/_exclamation|exclamation]].**
 ---
 ---

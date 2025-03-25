@@ -1,9 +1,9 @@
 # Bangs
 ---
 #noun
-- **A sudden [[p/_percussive|percussive]] [[n/_noise|noise]].**
+- **A [[s/_sudden|sudden]] [[p/_percussive|percussive]] [[n/_noise|noise]].**
 	- _Example: When he struck it with a hammer, there was a loud bang._
-- **A [[s/_strike|strike]] upon an [[o/_object|object]] [[c/_causing|causing]] such a [[n/_noise|noise]].**
+- **A [[s/_strike|strike]] upon an [[o/_object|object]] [[c/_causing|causing]] [[s/_such|such]] a [[n/_noise|noise]].**
 - **An [[e/_explosion|explosion]].**
 - **The [[s/_symbol|symbol]] !, [[k/_known|known]] as an [[e/_exclamation|exclamation]] [[p/_point|point]].**
 	- _Example: An e-mail address with an ! is called a bang path._
@@ -23,7 +23,7 @@
 ### Antonyms
 - [[h/_hang|hang]]
 #verb
-- **To [[m/_make|make]] sudden [[l/_loud|loud]] [[n/_noises|noises]], and [[o/_often|often]] [[r/_repeatedly|repeatedly]], [[e/_especially|especially]] by [[e/_exploding|exploding]] or [[h/_hitting|hitting]] [[s/_something|something]].**
+- **To [[m/_make|make]] [[s/_sudden|sudden]] [[l/_loud|loud]] [[n/_noises|noises]], and [[o/_often|often]] [[r/_repeatedly|repeatedly]], [[e/_especially|especially]] by [[e/_exploding|exploding]] or [[h/_hitting|hitting]] [[s/_something|something]].**
 	- _Example: My head was banging after drinking all night at the concert._
 - **To [[h/_hit|hit]] [[h/_hard|hard]].**
 	- _Example: David and Mary banged into each other._
@@ -39,7 +39,7 @@
 - [[n/_nail|nail]]
 #noun
 - **[[h/_hair|Hair]] [[h/_hanging|hanging]] [[o/_over|over]] the [[f/_forehead|forehead]].**
-- **A [[h/_hairstyle|hairstyle]] [[i/_including|including]] such [[h/_hair|hair]], [[e/_especially|especially]] [[c/_cut|cut]] [[s/_straight|straight]] [[a/_across|across]] the [[f/_forehead|forehead]].**
+- **A [[h/_hairstyle|hairstyle]] [[i/_including|including]] [[s/_such|such]] [[h/_hair|hair]], [[e/_especially|especially]] [[c/_cut|cut]] [[s/_straight|straight]] [[a/_across|across]] the [[f/_forehead|forehead]].**
 ---
 ### Synonyms
 - [[b/_bang|bang]], [[f/_forelocks|forelocks]], [[f/_fringe|fringe]], [[b/_bang|bang]], [[f/_fringe|fringe]]

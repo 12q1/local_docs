@@ -3,7 +3,7 @@
 #noun
 - **A [[f/_flexible|flexible]] [[c/_container|container]] [[m/_made|made]] of [[c/_cloth|cloth]], [[p/_paper|paper]], [[p/_plastic|plastic]], [[e/_etc|etc]].**
 - **A [[h/_handbag|handbag]]**
-- **A suitcase.**
+- **A [[s/_suitcase|suitcase]].**
 - **A [[s/_schoolbag|schoolbag]], [[e/_especially|especially]] a [[b/_backpack|backpack]].**
 - **[[o/_one|One]]’[[s/_s|s]] [[p/_preference|preference]].**
 	- _Example: Acid House is not my bag: I prefer the more traditional styles of music._
@@ -15,7 +15,7 @@
 - **([[p/_preceded|preceded]] by "the") A breathalyzer, [[s/_so|so]] [[n/_named|named]] [[b/_because|because]] it [[f/_formerly|formerly]] [[h/_had|had]] a [[p/_plastic|plastic]] [[b/_bag|bag]] [[o/_over|over]] the [[e/_end|end]] to [[m/_measure|measure]] a [[s/_set|set]] [[a/_amount|amount]] of [[b/_breath|breath]].**
 - **A [[c/_collection|collection]] of [[o/_objects|objects]], [[d/_disregarding|disregarding]] [[o/_order|order]], but (unlike a [[s/_set|set]]) in which [[e/_elements|elements]] [[m/_may|may]] be [[r/_repeated|repeated]].**
 	- _Example: If one has a bag of three apples and the letter 'a' is taken to denote 'apple', then such bag could be represented symbolically as {a,a,a}. Note that in an ordinary context, when talking about a bag of apples, one does not care about identifying the individual apples, although one might be interested in distinguishing apples by species, for example, letting 'r' denote 'red apple' and 'g' denote 'green apple', then a bag of three red apples and two green apples could be denoted as {r,r,r,g,g}._
-- **A [[s/_sac|sac]] in [[a/_animal|animal]] [[b/_bodies|bodies]], [[c/_containing|containing]] [[s/_some|some]] [[f/_fluid|fluid]] or [[o/_other|other]] substance.**
+- **A [[s/_sac|sac]] in [[a/_animal|animal]] [[b/_bodies|bodies]], [[c/_containing|containing]] [[s/_some|some]] [[f/_fluid|fluid]] or [[o/_other|other]] [[s/_substance|substance]].**
 	- _Example: the bag of a cow_
 - **A [[p/_pouch|pouch]] tied [[b/_behind|behind]] a [[m/_man|man]]'[[s/_s|s]] [[h/_head|head]] to [[h/_hold|hold]] the [[b/_back|back]]-[[h/_hair|hair]] of a wig; a [[b/_bag|bag]] wig.**
 - **The [[q/_quantity|quantity]] of [[g/_game|game]] [[b/_bagged|bagged]] in a [[h/_hunt|hunt]].**

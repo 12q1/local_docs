@@ -1,7 +1,7 @@
 # Prebiotic
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in [[p/_plural|plural]]) A substance in [[f/_food|food]] that is [[h/_hard|hard]] to [[d/_digest|digest]] and [[p/_promotes|promotes]] the [[g/_growth|growth]] of [[b/_beneficial|beneficial]] [[i/_intestinal|intestinal]] [[m/_microorganisms|microorganisms]].**
+- **([[c/_chiefly|chiefly]] in [[p/_plural|plural]]) A [[s/_substance|substance]] in [[f/_food|food]] that is [[h/_hard|hard]] to [[d/_digest|digest]] and [[p/_promotes|promotes]] the [[g/_growth|growth]] of [[b/_beneficial|beneficial]] [[i/_intestinal|intestinal]] [[m/_microorganisms|microorganisms]].**
 ---
 #adjective
 - **[[b/_before|Before]] the [[a/_advent|advent]] of [[l/_life|life]].**

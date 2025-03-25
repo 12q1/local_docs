@@ -5,7 +5,7 @@
 	- _Example: Looks like you've gained a new friend._
 - **To [[h/_have|have]] or [[r/_receive|receive]] [[a/_advantage|advantage]] or [[p/_profit|profit]]; to [[a/_acquire|acquire]] [[g/_gain|gain]]; to [[g/_grow|grow]] [[r/_rich|rich]]; to [[a/_advance|advance]] in [[i/_interest|interest]], [[h/_health|health]], or [[h/_happiness|happiness]]; to [[m/_make|make]] [[p/_progress|progress]].**
 	- _Example: The sick man gains daily._
-- **To [[c/_come|come]] [[o/_off|off]] winner or victor in; to be successful in; to [[o/_obtain|obtain]] by [[c/_competition|competition]].**
+- **To [[c/_come|come]] [[o/_off|off]] winner or victor in; to be [[s/_successful|successful]] in; to [[o/_obtain|obtain]] by [[c/_competition|competition]].**
 	- _Example: to gain a battle; to gain a case at law_
 - **To [[i/_increase|increase]].**
 - **To be [[m/_more|more]] [[l/_likely|likely]] to [[c/_catch|catch]] or [[o/_overtake|overtake]] an [[i/_individual|individual]].**

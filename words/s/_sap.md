@@ -10,7 +10,7 @@
 ### Synonyms
 - [[m/_milksop|milksop]], [[s/_saphead|saphead]]
 #verb
-- **To [[d/_drain|drain]], suck or [[a/_absorb|absorb]] from (tree, [[e/_etc|etc]].).**
+- **To [[d/_drain|drain]], [[s/_suck|suck]] or [[a/_absorb|absorb]] from (tree, [[e/_etc|etc]].).**
 - **To [[e/_exhaust|exhaust]] the vitality of.**
 ---
 ---

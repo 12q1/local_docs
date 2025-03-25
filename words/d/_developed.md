@@ -20,7 +20,7 @@
 #adjective
 - **([[s/_said|said]] of a [[c/_country|country]]) Not [[p/_primitive|primitive]]; not third-world.**
 - **[[m/_mature|Mature]].**
-- **[[c/_containing|Containing]] [[m/_man|man]]-[[m/_made|made]] [[s/_structures|structures]] such as [[r/_roads|roads]], [[s/_sewers|sewers]], [[e/_electric|electric]] [[l/_lines|lines]], [[b/_buildings|buildings]], and [[s/_so|so]] on.**
+- **[[c/_containing|Containing]] [[m/_man|man]]-[[m/_made|made]] [[s/_structures|structures]] [[s/_such|such]] as [[r/_roads|roads]], [[s/_sewers|sewers]], [[e/_electric|electric]] [[l/_lines|lines]], [[b/_buildings|buildings]], and [[s/_so|so]] on.**
 - **[[h/_having|Having]] useful or [[n/_necessary|necessary]] [[i/_infrastructure|infrastructure]].**
 - **[[a/_advanced|Advanced]], [[f/_fully|fully]] [[f/_formed|formed]].**
 ---

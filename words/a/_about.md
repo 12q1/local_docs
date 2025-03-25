@@ -15,7 +15,7 @@
 	- _Example: I looked about at the scenery that surrounded me._
 - **[[h/_here|Here]] and there; [[a/_around|around]]; in [[o/_one|one]] [[p/_place|place]] and [[a/_another|another]]; up and [[d/_down|down]].**
 	- _Example: Bits of old machinery were lying about._
-- **From [[o/_one|one]] [[p/_place|place]] or [[p/_position|position]] to [[a/_another|another]] in succession; [[i/_indicating|indicating]] [[r/_repeated|repeated]] [[m/_movement|movement]] or [[a/_activity|activity]].**
+- **From [[o/_one|one]] [[p/_place|place]] or [[p/_position|position]] to [[a/_another|another]] in [[s/_succession|succession]]; [[i/_indicating|indicating]] [[r/_repeated|repeated]] [[m/_movement|movement]] or [[a/_activity|activity]].**
 	- _Example: walking about;  rushing about;  jumping about;  thrashing about_
 - **[[i/_indicating|Indicating]] unproductive or unstructured [[a/_activity|activity]].**
 	- _Example: messing about;   fooling about;  loafing about_
@@ -24,7 +24,7 @@
 - **[[n/_near|Near]]; in the vicinity.**
 - **To a [[r/_reversed|reversed]] [[o/_order|order]]; [[h/_half|half]] [[r/_round|round]]; [[f/_facing|facing]] in the [[o/_opposite|opposite]] [[d/_direction|direction]]; from a [[c/_contrary|contrary]] [[p/_point|point]] of view.**
 	- _Example: to face about;  to turn oneself about_
-- **In succession; [[o/_one|one]] [[a/_after|after]] [[a/_another|another]]; in the [[c/_course|course]] of [[e/_events|events]].**
+- **In [[s/_succession|succession]]; [[o/_one|one]] [[a/_after|after]] [[a/_another|another]]; in the [[c/_course|course]] of [[e/_events|events]].**
 - **In [[c/_circuit|circuit]]; [[c/_circularly|circularly]]; by a [[c/_circuitous|circuitous]] way; [[a/_around|around]] the [[o/_outside|outside]]; in [[c/_circumference|circumference]].**
 	- _Example: a mile about, and a third of a mile across_
 ---
@@ -36,7 +36,7 @@
 - **[[o/_over|Over]] or upon [[d/_different|different]] [[p/_parts|parts]] of; through or [[o/_over|over]] in various [[d/_directions|directions]]; [[h/_here|here]] and there in; to and [[f/_fro|fro]] in; throughout.**
 	- _Example: He was well known about town._
 - **[[i/_indicates|Indicates]] that [[s/_something|something]] will [[h/_happen|happen]] very [[s/_soon|soon]]; [[i/_indicates|indicates]] a [[p/_plan|plan]] or [[i/_intention|intention]] to [[d/_do|do]] [[s/_something|something]].**
-- **[[c/_concerning|Concerning]]; with [[r/_regard|regard]] to; on [[a/_account|account]] of; on the subject of; to [[a/_affect|affect]].**
+- **[[c/_concerning|Concerning]]; with [[r/_regard|regard]] to; on [[a/_account|account]] of; on the [[s/_subject|subject]] of; to [[a/_affect|affect]].**
 	- _Example: He talked a lot about his childhood._
 - **[[c/_concerned|Concerned]] with; [[e/_engaged|engaged]] in; [[i/_intent|intent]] on.**
 	- _Example: to be about one's business_

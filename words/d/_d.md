@@ -19,10 +19,10 @@
 - **Towards the [[o/_opponent|opponent]]'[[s/_s|s]] [[s/_side|side]] (in [[b/_ball|ball]]-[[s/_sports|sports]]).**
 - **[[i/_into|Into]] a [[s/_state|state]] of [[n/_non|non]]-[[o/_operation|operation]].**
 	- _Example: The computer has been shut down._
-- **To a subordinate or [[l/_less|less]] [[p/_prestigious|prestigious]] [[p/_position|position]] or [[r/_rank|rank]].**
+- **To a [[s/_subordinate|subordinate]] or [[l/_less|less]] [[p/_prestigious|prestigious]] [[p/_position|position]] or [[r/_rank|rank]].**
 	- _Example: After the incident, Kelly went down to Second Lieutenant._
 - **In the [[d/_direction|direction]] [[l/_leading|leading]] [[a/_away|away]] from the [[p/_principal|principal]] terminus, [[a/_away|away]] from [[m/_milepost|milepost]] zero.**
-- **([[s/_sentence|sentence]] substitute) [[g/_get|Get]] [[d/_down|down]].**
+- **([[s/_sentence|sentence]] [[s/_substitute|substitute]]) [[g/_get|Get]] [[d/_down|down]].**
 	- _Example: Down, boy! (such as to direct a dog to stand on four legs from two, or to sit from standing on four legs.)_
 - **([[a/_academia|academia]]) [[a/_away|Away]] from [[o/_oxford|Oxford]] or [[c/_cambridge|Cambridge]].**
 	- _Example: He's gone back down to Newcastle for Christmas._

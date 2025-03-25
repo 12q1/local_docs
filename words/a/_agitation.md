@@ -7,7 +7,7 @@
 	- _Example: She causes great agitation within me._
 - **[[e/_excitement|Excitement]] of [[p/_public|public]] [[f/_feeling|feeling]] by [[d/_discussion|discussion]], [[a/_appeals|appeals]], [[e/_etc|etc]].**
 	- _Example: After this conflict pro-independence agitation temporarily died down._
-- **[[e/_examination|Examination]] or [[c/_consideration|consideration]] of a subject in [[c/_controversy|controversy]], or of a [[p/_plan|plan]] [[p/_proposed|proposed]] for [[a/_adoption|adoption]]; [[e/_earnest|earnest]] [[d/_discussion|discussion]]; [[d/_debate|debate]].**
+- **[[e/_examination|Examination]] or [[c/_consideration|consideration]] of a [[s/_subject|subject]] in [[c/_controversy|controversy]], or of a [[p/_plan|plan]] [[p/_proposed|proposed]] for [[a/_adoption|adoption]]; [[e/_earnest|earnest]] [[d/_discussion|discussion]]; [[d/_debate|debate]].**
 ---
 ### Synonyms
 - [[c/_commotion|commotion]], [[e/_emotion|emotion]], [[e/_excitement|excitement]], [[p/_perturbation|perturbation]], [[t/_tremor|tremor]], [[t/_trepidation|trepidation]]

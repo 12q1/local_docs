@@ -7,6 +7,6 @@
 ### Synonyms
 - [[p/_purse|purse]]
 #verb
-- **[[f/_figuratively|Figuratively]], to [[h/_hit|hit]] with a [[h/_handbag|handbag]]; to [[a/_attack|attack]] verbally or subject to [[c/_criticism|criticism]] (used of [[m/_margaret|Margaret]] Thatcher).**
+- **[[f/_figuratively|Figuratively]], to [[h/_hit|hit]] with a [[h/_handbag|handbag]]; to [[a/_attack|attack]] verbally or [[s/_subject|subject]] to [[c/_criticism|criticism]] (used of [[m/_margaret|Margaret]] Thatcher).**
 ---
 ---

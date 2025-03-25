@@ -8,7 +8,7 @@
 - **The [[b/_best|best]] [[m/_moment|moment]] or [[h/_highest|highest]] [[p/_point|point]] in the [[d/_development|development]] of [[s/_something|something]], for [[e/_example|example]] of a [[l/_life|life]] or [[c/_career|career]]; the [[a/_apex|apex]], [[c/_culmination|culmination]], or [[c/_climax|climax]] (of a [[d/_development|development]]).**
 	- _Example: The apotheosis of her career was her appointment as chairman._
 - **[[r/_release|Release]] from [[e/_earthly|earthly]] [[l/_life|life]], [[a/_ascension|ascension]] to [[h/_heaven|heaven]]; [[d/_death|death]].**
-- **The [[l/_latent|latent]] [[e/_entity|entity]] that [[m/_mediates|mediates]] [[b/_between|between]] a [[p/_person|person]]'[[s/_s|s]] [[p/_psyche|psyche]] and their thoughts. The [[i/_id|id]], [[e/_ego|ego]] and superego in [[f/_freudian|Freudian]] [[p/_psychology|Psychology]] are [[e/_examples|examples]] of this.**
+- **The [[l/_latent|latent]] [[e/_entity|entity]] that [[m/_mediates|mediates]] [[b/_between|between]] a [[p/_person|person]]'[[s/_s|s]] [[p/_psyche|psyche]] and their thoughts. The [[i/_id|id]], [[e/_ego|ego]] and [[s/_superego|superego]] in [[f/_freudian|Freudian]] [[p/_psychology|Psychology]] are [[e/_examples|examples]] of this.**
 ---
 ### Synonyms
 - [[a/_apex|apex]], [[c/_climax|climax]], [[c/_culmination|culmination]], [[p/_peak|peak]], [[p/_pinnacle|pinnacle]], [[a/_apex|apex]], [[p/_paragon|paragon]], [[d/_death|death]], [[d/_deification|deification]], [[e/_exaltation|exaltation]], [[g/_glorification|glorification]]

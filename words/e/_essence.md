@@ -3,7 +3,7 @@
 #noun
 - **The [[i/_inherent|inherent]] [[n/_nature|nature]] of a thing or [[i/_idea|idea]].**
 - **The true [[n/_nature|nature]] of [[a/_anything|anything]], not [[a/_accidental|accidental]] or [[i/_illusory|illusory]].**
-- **[[c/_constituent|Constituent]] substance.**
+- **[[c/_constituent|Constituent]] [[s/_substance|substance]].**
 - **A [[b/_being|being]]; [[e/_especially|especially]], a [[p/_purely|purely]] [[s/_spiritual|spiritual]] [[b/_being|being]].**
 - **A [[s/_significant|significant]] [[f/_feature|feature]] of [[s/_something|something]].**
 - **The [[c/_concentrated|concentrated]] [[f/_form|form]] of a [[p/_plant|plant]] or [[d/_drug|drug]] [[o/_obtained|obtained]] through a [[d/_distillation|distillation]] [[p/_process|process]].**

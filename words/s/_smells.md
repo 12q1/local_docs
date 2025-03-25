@@ -1,7 +1,7 @@
 # Smells
 ---
 #noun
-- **A [[s/_sensation|sensation]], [[p/_pleasant|pleasant]] or unpleasant, [[d/_detected|detected]] by [[i/_inhaling|inhaling]] [[a/_air|air]] (or, the [[c/_case|case]] of water-[[b/_breathing|breathing]] [[a/_animals|animals]], water) [[c/_carrying|carrying]] [[a/_airborne|airborne]] [[m/_molecules|molecules]] of a substance.**
+- **A [[s/_sensation|sensation]], [[p/_pleasant|pleasant]] or unpleasant, [[d/_detected|detected]] by [[i/_inhaling|inhaling]] [[a/_air|air]] (or, the [[c/_case|case]] of water-[[b/_breathing|breathing]] [[a/_animals|animals]], water) [[c/_carrying|carrying]] [[a/_airborne|airborne]] [[m/_molecules|molecules]] of a [[s/_substance|substance]].**
 	- _Example: I love the smell of fresh bread._
 - **The [[s/_sense|sense]] that [[d/_detects|detects]] [[o/_odours|odours]].**
 - **A [[c/_conclusion|conclusion]] or [[i/_intuition|intuition]] that a [[s/_situation|situation]] is wrong, [[m/_more|more]] [[c/_complex|complex]] than it [[s/_seems|seems]], or [[o/_otherwise|otherwise]] [[i/_inappropriate|inappropriate]].**

@@ -1,7 +1,7 @@
 # Angering
 ---
 #verb
-- **To [[c/_cause|cause]] such a [[f/_feeling|feeling]] of [[a/_antagonism|antagonism]] in.**
+- **To [[c/_cause|cause]] [[s/_such|such]] a [[f/_feeling|feeling]] of [[a/_antagonism|antagonism]] in.**
 	- _Example: He who angers you conquers you._
 - **To [[b/_become|become]] [[a/_angry|angry]].**
 	- _Example: You anger too easily._

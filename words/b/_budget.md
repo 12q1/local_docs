@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_amount|amount]] of [[m/_money|money]] or [[r/_resources|resources]] [[e/_earmarked|earmarked]] for a [[p/_particular|particular]] [[i/_institution|institution]], [[a/_activity|activity]] or time-[[f/_frame|frame]].**
-- **An [[i/_itemized|itemized]] summary of [[i/_intended|intended]] [[e/_expenditure|expenditure]]; usually [[c/_coupled|coupled]] with [[e/_expected|expected]] [[r/_revenue|revenue]].**
+- **An [[i/_itemized|itemized]] [[s/_summary|summary]] of [[i/_intended|intended]] [[e/_expenditure|expenditure]]; usually [[c/_coupled|coupled]] with [[e/_expected|expected]] [[r/_revenue|revenue]].**
 - **A wallet, [[p/_purse|purse]] or [[b/_bag|bag]].**
 - **A [[c/_compact|compact]] [[c/_collection|collection]] of things.**
 - **A [[s/_socket|socket]] in which the [[e/_end|end]] of a [[c/_cavalry|cavalry]] [[c/_carbine|carbine]] [[r/_rests|rests]].**

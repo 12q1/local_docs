@@ -1,7 +1,7 @@
 # Medicine
 ---
 #noun
-- **A substance which [[s/_specifically|specifically]] [[p/_promotes|promotes]] [[h/_healing|healing]] when [[i/_ingested|ingested]] or [[c/_consumed|consumed]] in [[s/_some|some]] way.**
+- **A [[s/_substance|substance]] which [[s/_specifically|specifically]] [[p/_promotes|promotes]] [[h/_healing|healing]] when [[i/_ingested|ingested]] or [[c/_consumed|consumed]] in [[s/_some|some]] way.**
 - **A treatment or [[c/_cure|cure]].**
 - **The [[s/_study|study]] of the [[c/_cause|cause]], [[d/_diagnosis|diagnosis]], [[p/_prognosis|prognosis]] and treatment of [[d/_disease|disease]] or [[i/_illness|illness]].**
 	- _Example: She's studying medicine at university because she wants to be a doctor in the future._

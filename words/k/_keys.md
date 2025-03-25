@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[o/_object|object]] [[d/_designed|designed]] to [[o/_open|open]] and [[c/_close|close]] a [[l/_lock|lock]].**
-- **An [[o/_object|object]] [[d/_designed|designed]] to [[f/_fit|fit]] [[b/_between|between]] two [[o/_other|other]] [[o/_objects|objects]] (such as a [[s/_shaft|shaft]] and a wheel) in a [[m/_mechanism|mechanism]] and [[m/_maintain|maintain]] their [[r/_relative|relative]] [[o/_orientation|orientation]].**
+- **An [[o/_object|object]] [[d/_designed|designed]] to [[f/_fit|fit]] [[b/_between|between]] two [[o/_other|other]] [[o/_objects|objects]] ([[s/_such|such]] as a [[s/_shaft|shaft]] and a wheel) in a [[m/_mechanism|mechanism]] and [[m/_maintain|maintain]] their [[r/_relative|relative]] [[o/_orientation|orientation]].**
 - **A [[c/_crucial|crucial]] [[s/_step|step]] or [[r/_requirement|requirement]].**
 	- _Example: The key to solving this problem is persistence._
 - **A [[g/_guide|guide]] [[e/_explaining|explaining]] the [[s/_symbols|symbols]] or terminology of a [[m/_map|map]] or [[c/_chart|chart]]; a [[l/_legend|legend]].**
@@ -11,15 +11,15 @@
 	- _Example: Some students cheated by using the answer key._
 - **[[o/_one|One]] of [[s/_several|several]] [[s/_small|small]], usually [[s/_square|square]] [[b/_buttons|buttons]] on a typewriter or [[c/_computer|computer]] [[k/_keyboard|keyboard]], [[m/_mostly|mostly]] [[c/_corresponding|corresponding]] to text [[c/_characters|characters]].**
 	- _Example: Press the Escape key._
-- **In [[m/_musical|musical]] [[i/_instruments|instruments]], [[o/_one|one]] of the valve [[l/_levers|levers]] used to [[s/_select|select]] [[n/_notes|notes]], such as a [[l/_lever|lever]] [[o/_opening|opening]] a [[h/_hole|hole]] on a woodwind.**
-- **In [[i/_instruments|instruments]] with a [[k/_keyboard|keyboard]] such as an [[o/_organ|organ]] or [[p/_piano|piano]], [[o/_one|one]] of the [[l/_levers|levers]], or [[e/_especially|especially]] the [[e/_exposed|exposed]] [[f/_front|front]] [[e/_end|end]] of it, which are [[d/_depressed|depressed]] to [[c/_cause|cause]] a [[p/_particular|particular]] [[s/_sound|sound]] or [[n/_note|note]] to be [[p/_produced|produced]].**
+- **In [[m/_musical|musical]] [[i/_instruments|instruments]], [[o/_one|one]] of the valve [[l/_levers|levers]] used to [[s/_select|select]] [[n/_notes|notes]], [[s/_such|such]] as a [[l/_lever|lever]] [[o/_opening|opening]] a [[h/_hole|hole]] on a woodwind.**
+- **In [[i/_instruments|instruments]] with a [[k/_keyboard|keyboard]] [[s/_such|such]] as an [[o/_organ|organ]] or [[p/_piano|piano]], [[o/_one|one]] of the [[l/_levers|levers]], or [[e/_especially|especially]] the [[e/_exposed|exposed]] [[f/_front|front]] [[e/_end|end]] of it, which are [[d/_depressed|depressed]] to [[c/_cause|cause]] a [[p/_particular|particular]] [[s/_sound|sound]] or [[n/_note|note]] to be [[p/_produced|produced]].**
 - **The [[l/_lowest|lowest]] [[n/_note|note]] of a [[s/_scale|scale]]; [[k/_keynote|keynote]].**
 - **In [[m/_musical|musical]] theory, the total [[m/_melodic|melodic]] and [[h/_harmonic|harmonic]] [[r/_relations|relations]], which [[e/_exist|exist]] [[b/_between|between]] the tones of an [[i/_ideal|ideal]] [[s/_scale|scale]], [[m/_major|major]] or [[m/_minor|minor]]; tonality.**
 - **In [[m/_musical|musical]] theory and [[n/_notation|notation]], the tonality [[c/_centering|centering]] in a [[g/_given|given]] tone, or the [[s/_several|several]] tones taken [[c/_collectively|collectively]], of a [[g/_given|given]] [[s/_scale|scale]], [[m/_major|major]] or [[m/_minor|minor]].**
 - **In [[m/_musical|musical]] [[n/_notation|notation]], a [[s/_sign|sign]] at the [[h/_head|head]] of a [[s/_staff|staff]] [[i/_indicating|indicating]] the [[m/_musical|musical]] [[k/_key|key]].**
 - **The [[g/_general|general]] [[p/_pitch|pitch]] or tone of a [[s/_sentence|sentence]] or utterance.**
 - **A [[m/_modification|modification]] of an [[a/_advertisement|advertisement]] [[s/_so|so]] as to target a [[p/_particular|particular]] [[g/_group|group]] or [[d/_demographic|demographic]].**
-- **An [[i/_indehiscent|indehiscent]], [[o/_one|one]]-[[s/_seeded|seeded]] [[f/_fruit|fruit]] [[f/_furnished|furnished]] with a wing, such as the [[f/_fruit|fruit]] of the [[a/_ash|ash]] and [[m/_maple|maple]]; a [[s/_samara|samara]].**
+- **An [[i/_indehiscent|indehiscent]], [[o/_one|one]]-[[s/_seeded|seeded]] [[f/_fruit|fruit]] [[f/_furnished|furnished]] with a wing, [[s/_such|such]] as the [[f/_fruit|fruit]] of the [[a/_ash|ash]] and [[m/_maple|maple]]; a [[s/_samara|samara]].**
 - **A [[m/_manual|manual]] [[e/_electrical|electrical]] switching [[d/_device|device]] [[p/_primarily|primarily]] used for the transmission of [[m/_morse|Morse]] [[c/_code|code]].**
 - **A [[p/_piece|piece]] of [[i/_information|information]] ([[e/_e|e]].[[g/_g|g]]. a passphrase) used to [[e/_encode|encode]] or [[d/_decode|decode]] a [[m/_message|message]] or [[m/_messages|messages]].**
 - **A [[p/_password|password]] [[r/_restricting|restricting]] [[a/_access|access]] to an IRC [[c/_channel|channel]].**
@@ -33,7 +33,7 @@
 - **A [[k/_keystone|keystone]].**
 - **That [[p/_part|part]] of the [[p/_plastering|plastering]] which is [[f/_forced|forced]] through [[b/_between|between]] the [[l/_laths|laths]] and [[h/_holds|holds]] the [[r/_rest|rest]] in [[p/_place|place]].**
 - **A wooden support for a [[r/_rail|rail]] on the [[b/_bullhead|bullhead]] [[r/_rail|rail]] [[s/_system|system]].**
-- **The [[d/_degree|degree]] of [[r/_roughness|roughness]], or [[r/_retention|retention]] [[a/_ability|ability]] of a surface to [[h/_have|have]] [[a/_applied|applied]] a [[l/_liquid|liquid]] such as [[p/_paint|paint]], or [[g/_glue|glue]].**
+- **The [[d/_degree|degree]] of [[r/_roughness|roughness]], or [[r/_retention|retention]] [[a/_ability|ability]] of a surface to [[h/_have|have]] [[a/_applied|applied]] a [[l/_liquid|liquid]] [[s/_such|such]] as [[p/_paint|paint]], or [[g/_glue|glue]].**
 	- _Example: The door panel should be sanded down carefully to provide a good key for the new paint._
 - **The thirty-third [[c/_card|card]] of the Lenormand [[d/_deck|deck]].**
 - **([[p/_print|print]] and [[f/_film|film]]) The [[b/_black|black]] [[i/_ink|ink]] [[l/_layer|layer]], [[e/_especially|especially]] in [[r/_relation|relation]] to the three [[c/_color|color]] [[l/_layers|layers]] of [[c/_cyan|cyan]], [[m/_magenta|magenta]], and [[y/_yellow|yellow]]. [[s/_see|See]] [[a/_also|also]] CMYK.**
@@ -47,7 +47,7 @@
 - **To [[o/_operate|operate]] (the transmitter switch of a two-way [[r/_radio|radio]]).**
 - **([[m/_more|more]] usually to [[k/_key|key]] in) To [[e/_enter|enter]] ([[i/_information|information]]) by typing on a [[k/_keyboard|keyboard]] or [[k/_keypad|keypad]].**
 	- _Example: Our instructor told us to key in our user IDs._
-- **To vandalize (a [[c/_car|car]], [[e/_etc|etc]].) by [[s/_scratching|scratching]] with an [[i/_implement|implement]] such as a [[k/_key|key]].**
+- **To vandalize (a [[c/_car|car]], [[e/_etc|etc]].) by [[s/_scratching|scratching]] with an [[i/_implement|implement]] [[s/_such|such]] as a [[k/_key|key]].**
 	- _Example: He keyed the car that had taken his parking spot._
 - **To [[l/_link|link]] (as [[o/_one|one]] [[m/_might|might]] [[d/_do|do]] with a [[k/_key|key]] or [[l/_legend|legend]]).**
 - **To be [[i/_identified|identified]] as a [[c/_certain|certain]] taxon when using a [[k/_key|key]].**
@@ -61,7 +61,7 @@
 ---
 #noun
 - **In the [[i/_international|International]] [[s/_system|System]] of Units, the [[b/_base|base]] unit of [[m/_mass|mass]]; [[c/_conceived|conceived]] of as the [[m/_mass|mass]] of [[o/_one|one]] [[l/_litre|litre]] of water, but [[n/_now|now]] [[d/_defined|defined]] by taking the [[f/_fixed|fixed]] [[n/_numerical|numerical]] value of the Planck [[c/_constant|constant]] [[h/_h|h]] to be 6.626 070 15 × 10-34 when [[e/_expressed|expressed]] in units of [[k/_kg|kg]]⋅m2⋅[[s/_s|s]]−1. [[s/_symbol|Symbol]]: [[k/_kg|kg]]**
-- **The unit of weight such that a [[o/_one|one]]-[[k/_kilogram|kilogram]] [[m/_mass|mass]] is [[a/_also|also]] a [[o/_one|one]]-[[k/_kilogram|kilogram]] weight.**
+- **The unit of weight [[s/_such|such]] that a [[o/_one|one]]-[[k/_kilogram|kilogram]] [[m/_mass|mass]] is [[a/_also|also]] a [[o/_one|one]]-[[k/_kilogram|kilogram]] weight.**
 ---
 ### Synonyms
 - [[k/_kg|kg]], [[k/_kilo|kilo]]

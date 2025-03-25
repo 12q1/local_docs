@@ -15,7 +15,7 @@
 	- _Example: I'm really seeing you in a different light today._
 - **A [[f/_flame|flame]] or [[s/_something|something]] used to [[c/_create|create]] [[f/_fire|fire]].**
 	- _Example: Hey, buddy, you got a light?_
-- **A [[f/_firework|firework]] [[m/_made|made]] by [[f/_filling|filling]] a [[c/_case|case]] with a substance which [[b/_burns|burns]] [[b/_brilliantly|brilliantly]] with a white or [[c/_coloured|coloured]] [[f/_flame|flame]].**
+- **A [[f/_firework|firework]] [[m/_made|made]] by [[f/_filling|filling]] a [[c/_case|case]] with a [[s/_substance|substance]] which [[b/_burns|burns]] [[b/_brilliantly|brilliantly]] with a white or [[c/_coloured|coloured]] [[f/_flame|flame]].**
 	- _Example: a Bengal light_
 - **A window, or [[s/_space|space]] for a window in [[a/_architecture|architecture]].**
 	- _Example: This facade has eight south-facing lights._

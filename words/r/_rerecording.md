@@ -6,6 +6,6 @@
 	- _Example: When making a tool-assisted speedrun, re-recording is inevitable if you want to attain a good time._
 ---
 #noun
-- **A [[s/_second|second]] or subsequent [[r/_recording|recording]].**
+- **A [[s/_second|second]] or [[s/_subsequent|subsequent]] [[r/_recording|recording]].**
 ---
 ---

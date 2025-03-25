@@ -1,13 +1,13 @@
 # Steers
 ---
 #noun
-- **A suggestion [[a/_about|about]] a [[c/_course|course]] of [[a/_action|action]].**
+- **A [[s/_suggestion|suggestion]] [[a/_about|about]] a [[c/_course|course]] of [[a/_action|action]].**
 - **A [[h/_helmsman|helmsman]]; a [[p/_pilot|pilot]].**
 ---
 #verb
-- **To [[g/_guide|guide]] the [[c/_course|course]] of a vessel, vehicle, [[a/_aircraft|aircraft]] [[e/_etc|etc]]. (by [[m/_means|means]] of a [[d/_device|device]] such as a [[r/_rudder|rudder]], [[p/_paddle|paddle]], or [[s/_steering|steering]] wheel).**
+- **To [[g/_guide|guide]] the [[c/_course|course]] of a vessel, vehicle, [[a/_aircraft|aircraft]] [[e/_etc|etc]]. (by [[m/_means|means]] of a [[d/_device|device]] [[s/_such|such]] as a [[r/_rudder|rudder]], [[p/_paddle|paddle]], or [[s/_steering|steering]] wheel).**
 	- _Example: I steered homeward._
-- **To [[g/_guide|guide]] the [[c/_course|course]] of a vessel, vehicle, [[a/_aircraft|aircraft]] [[e/_etc|etc]]. (by [[m/_means|means]] of a [[d/_device|device]] such as a [[r/_rudder|rudder]], [[p/_paddle|paddle]], or [[s/_steering|steering]] wheel).**
+- **To [[g/_guide|guide]] the [[c/_course|course]] of a vessel, vehicle, [[a/_aircraft|aircraft]] [[e/_etc|etc]]. (by [[m/_means|means]] of a [[d/_device|device]] [[s/_such|such]] as a [[r/_rudder|rudder]], [[p/_paddle|paddle]], or [[s/_steering|steering]] wheel).**
 	- _Example: I find it very difficult to steer a skateboard._
 - **To be [[d/_directed|directed]] and [[g/_governed|governed]]; to take a [[d/_direction|direction]], or [[c/_course|course]]; to [[o/_obey|obey]] the [[h/_helm|helm]].**
 	- _Example: The boat steers easily._

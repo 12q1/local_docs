@@ -6,8 +6,8 @@
 - **To tolerate or [[p/_put|put]] up with [[s/_something|something]] unpleasant.**
 - **To [[l/_last|last]].**
 	- _Example: Our love will endure forever._
-- **To [[r/_remain|remain]] [[f/_firm|firm]], as under trial or suffering; to suffer [[p/_patiently|patiently]] or without [[y/_yielding|yielding]]; to [[b/_bear|bear]] up under [[a/_adversity|adversity]]; to [[h/_hold|hold]] [[o/_out|out]].**
-- **To suffer [[p/_patiently|patiently]].**
+- **To [[r/_remain|remain]] [[f/_firm|firm]], as under trial or [[s/_suffering|suffering]]; to [[s/_suffer|suffer]] [[p/_patiently|patiently]] or without [[y/_yielding|yielding]]; to [[b/_bear|bear]] up under [[a/_adversity|adversity]]; to [[h/_hold|hold]] [[o/_out|out]].**
+- **To [[s/_suffer|suffer]] [[p/_patiently|patiently]].**
 	- _Example: He endured years of pain._
 - **To [[i/_indurate|indurate]].**
 ---

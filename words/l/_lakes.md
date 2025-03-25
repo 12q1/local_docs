@@ -19,7 +19,7 @@
 ---
 #noun
 - **In [[d/_dyeing|dyeing]] and [[p/_painting|painting]], an [[o/_often|often]] [[f/_fugitive|fugitive]] [[c/_crimson|crimson]] or vermillion [[p/_pigment|pigment]] [[d/_derived|derived]] from an [[o/_organic|organic]] [[c/_colorant|colorant]] ([[c/_cochineal|cochineal]] or [[m/_madder|madder]], for [[e/_example|example]]) and an [[i/_inorganic|inorganic]], [[g/_generally|generally]] [[m/_metallic|metallic]] [[m/_mordant|mordant]].**
-- **In the [[c/_composition|composition]] of [[c/_colors|colors]] for use in [[p/_products|products]] [[i/_intended|intended]] for [[h/_human|human]] [[c/_consumption|consumption]], [[m/_made|made]] by [[e/_extending|extending]] on a substratum of [[a/_alumina|alumina]], a [[s/_salt|salt]] [[p/_prepared|prepared]] from [[o/_one|one]] of the [[c/_certified|certified]] water-[[s/_soluble|soluble]] [[s/_straight|straight]] [[c/_colors|colors]].**
+- **In the [[c/_composition|composition]] of [[c/_colors|colors]] for use in [[p/_products|products]] [[i/_intended|intended]] for [[h/_human|human]] [[c/_consumption|consumption]], [[m/_made|made]] by [[e/_extending|extending]] on a [[s/_substratum|substratum]] of [[a/_alumina|alumina]], a [[s/_salt|salt]] [[p/_prepared|prepared]] from [[o/_one|one]] of the [[c/_certified|certified]] water-[[s/_soluble|soluble]] [[s/_straight|straight]] [[c/_colors|colors]].**
 	- _Example: For example, the name of a lake prepared by extending the aluminum salt prepared from FD&C Blue No. 1 upon the substratum would be FD&C Blue No. 1--Aluminum Lake._
 ---
 #verb

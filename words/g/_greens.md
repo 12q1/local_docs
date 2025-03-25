@@ -1,7 +1,7 @@
 # Greens
 ---
 #noun
-- **The [[c/_colour|colour]] of [[g/_growing|growing]] [[f/_foliage|foliage]], as well as [[o/_other|other]] [[p/_plant|plant]] [[c/_cells|cells]] [[c/_containing|containing]] [[c/_chlorophyll|chlorophyll]]; the [[c/_colour|colour]] [[b/_between|between]] [[y/_yellow|yellow]] and [[b/_blue|blue]] in the visible [[s/_spectrum|spectrum]]; [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colour|colour]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting [[r/_red|red]] and [[b/_blue|blue]] from white [[l/_light|light]] using [[c/_cyan|cyan]] and [[y/_yellow|yellow]] [[f/_filters|filters]].**
+- **The [[c/_colour|colour]] of [[g/_growing|growing]] [[f/_foliage|foliage]], as well as [[o/_other|other]] [[p/_plant|plant]] [[c/_cells|cells]] [[c/_containing|containing]] [[c/_chlorophyll|chlorophyll]]; the [[c/_colour|colour]] [[b/_between|between]] [[y/_yellow|yellow]] and [[b/_blue|blue]] in the visible [[s/_spectrum|spectrum]]; [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colour|colour]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by [[s/_subtracting|subtracting]] [[r/_red|red]] and [[b/_blue|blue]] from white [[l/_light|light]] using [[c/_cyan|cyan]] and [[y/_yellow|yellow]] [[f/_filters|filters]].**
 - **([[s/_sometimes|sometimes]] [[c/_capitalised|capitalised]]) A [[m/_member|member]] of a [[g/_green|green]] [[p/_party|party]]; an [[e/_environmentalist|environmentalist]].**
 - **A [[p/_putting|putting]] [[g/_green|green]], the [[p/_part|part]] of a [[g/_golf|golf]] [[c/_course|course]] [[n/_near|near]] the [[h/_hole|hole]].**
 - **([[b/_bowls|bowls]]) The surface upon which [[b/_bowls|bowls]] is [[p/_played|played]].**
@@ -9,7 +9,7 @@
 - **A [[p/_public|public]] [[p/_patch|patch]] of [[l/_land|land]] in the [[m/_middle|middle]] of a [[s/_settlement|settlement]].**
 - **A [[g/_grassy|grassy]] [[p/_plain|plain]]; a [[p/_piece|piece]] of [[g/_ground|ground]] [[c/_covered|covered]] with verdant [[h/_herbage|herbage]].**
 - **([[c/_chiefly|chiefly]] in [[p/_plural|plural]]) [[f/_fresh|Fresh]] [[l/_leaves|leaves]] or [[b/_branches|branches]] of trees or [[o/_other|other]] [[p/_plants|plants]]; wreaths.**
-- **[[a/_any|Any]] substance or [[p/_pigment|pigment]] of a [[g/_green|green]] [[c/_colour|colour]].**
+- **[[a/_any|Any]] [[s/_substance|substance]] or [[p/_pigment|pigment]] of a [[g/_green|green]] [[c/_colour|colour]].**
 - **[[m/_marijuana|Marijuana]].**
 - **[[m/_money|Money]].**
 - **[[o/_one|One]] of the three [[c/_color|color]] [[c/_charges|charges]] for [[q/_quarks|quarks]].**

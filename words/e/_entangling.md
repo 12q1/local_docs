@@ -1,9 +1,9 @@
 # Entangling
 ---
 #verb
-- **To tangle up; to twist or [[i/_interweave|interweave]] in such a [[m/_manner|manner]] as not to be [[e/_easily|easily]] [[s/_separated|separated]]**
+- **To tangle up; to twist or [[i/_interweave|interweave]] in [[s/_such|such]] a [[m/_manner|manner]] as not to be [[e/_easily|easily]] [[s/_separated|separated]]**
 	- _Example: The dolphins became entangled in a fishing net._
-- **To [[i/_involve|involve]] in such [[c/_complications|complications]] as to [[r/_render|render]] [[e/_extrication|extrication]] [[d/_difficult|difficult]]**
+- **To [[i/_involve|involve]] in [[s/_such|such]] [[c/_complications|complications]] as to [[r/_render|render]] [[e/_extrication|extrication]] [[d/_difficult|difficult]]**
 - **, to [[e/_ensnare|ensnare]]**
 - **To [[i/_involve|involve]] in [[d/_difficulties|difficulties]] or [[e/_embarrassments|embarrassments]]; to [[e/_embarrass|embarrass]], [[p/_puzzle|puzzle]], or [[d/_distract|distract]] by [[a/_adverse|adverse]] or [[p/_perplexing|perplexing]] [[c/_circumstances|circumstances]], [[i/_interests|interests]], [[d/_demands|demands]], [[e/_etc|etc]].; to [[h/_hamper|hamper]]; to [[b/_bewilder|bewilder]].**
 ---

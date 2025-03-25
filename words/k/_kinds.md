@@ -1,7 +1,7 @@
 # Kinds
 ---
 #noun
-- **A type, [[r/_race|race]] or [[c/_category|category]]; a [[g/_group|group]] of [[e/_entities|entities]] that [[h/_have|have]] [[c/_common|common]] [[c/_characteristics|characteristics]] such that they [[m/_may|may]] be [[g/_grouped|grouped]] together.**
+- **A type, [[r/_race|race]] or [[c/_category|category]]; a [[g/_group|group]] of [[e/_entities|entities]] that [[h/_have|have]] [[c/_common|common]] [[c/_characteristics|characteristics]] [[s/_such|such]] that they [[m/_may|may]] be [[g/_grouped|grouped]] together.**
 	- _Example: This is a strange kind of tobacco._
 - **A [[m/_makeshift|makeshift]] or [[o/_otherwise|otherwise]] [[a/_atypical|atypical]] [[s/_specimen|specimen]].**
 	- _Example: The opening served as a kind of window._

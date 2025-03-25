@@ -1,10 +1,10 @@
 # Cent
 ---
 #noun
-- **([[m/_money|money]]) A subunit of [[c/_currency|currency]] [[e/_equal|equal]] to [[o/_one|one]]-[[h/_hundredth|hundredth]] of the [[m/_main|main]] unit of [[c/_currency|currency]] in [[m/_many|many]] [[c/_countries|countries]]. [[s/_symbol|Symbol]]: ¢.**
-- **A [[s/_small|small]] sum of [[m/_money|money]].**
+- **([[m/_money|money]]) A [[s/_subunit|subunit]] of [[c/_currency|currency]] [[e/_equal|equal]] to [[o/_one|one]]-[[h/_hundredth|hundredth]] of the [[m/_main|main]] unit of [[c/_currency|currency]] in [[m/_many|many]] [[c/_countries|countries]]. [[s/_symbol|Symbol]]: ¢.**
+- **A [[s/_small|small]] [[s/_sum|sum]] of [[m/_money|money]].**
 	- _Example: He blew every last cent._
-- **([[m/_money|money]]) A subunit of [[c/_currency|currency]] [[e/_equal|equal]] to [[o/_one|one]]-[[h/_hundredth|hundredth]] of the [[e/_euro|euro]].**
+- **([[m/_money|money]]) A [[s/_subunit|subunit]] of [[c/_currency|currency]] [[e/_equal|equal]] to [[o/_one|one]]-[[h/_hundredth|hundredth]] of the [[e/_euro|euro]].**
 - **([[m/_money|money]]) A [[c/_coin|coin]] [[h/_having|having]] [[f/_face|face]] value of [[o/_one|one]] [[c/_cent|cent]] (in [[e/_either|either]] of the [[a/_above|above]] [[s/_senses|senses]]).**
 - **A [[h/_hundredth|hundredth]] of a [[s/_semitone|semitone]] or [[h/_half|half]] [[s/_step|step]].**
 ---
@@ -16,7 +16,7 @@
 - **The [[m/_middle|middle]] [[p/_portion|portion]] of [[s/_something|something]]; the [[p/_part|part]] well [[a/_away|away]] from the [[e/_edges|edges]].**
 - **The [[p/_point|point]] on a [[l/_line|line]] that is [[m/_midway|midway]] [[b/_between|between]] the [[e/_ends|ends]].**
 - **The [[p/_point|point]] in the [[i/_interior|interior]] of [[a/_any|any]] [[f/_figure|figure]] of [[a/_any|any]] [[n/_number|number]] of [[d/_dimensions|dimensions]] that [[h/_has|has]] as [[i/_its|its]] [[c/_coordinates|coordinates]] the [[a/_arithmetic|arithmetic]] [[m/_mean|mean]] of the [[c/_coordinates|coordinates]] of [[a/_all|all]] [[p/_points|points]] on the [[p/_perimeter|perimeter]] of the [[f/_figure|figure]] (or of [[a/_all|all]] [[p/_points|points]] in the [[i/_interior|interior]] for a [[c/_center|center]] of volume).**
-- **The subgroup ([[r/_respectively|respectively]], subring), [[d/_denoted|denoted]] Z([[g/_g|G]]), of those [[e/_elements|elements]] of a [[g/_given|given]] [[g/_group|group]] ([[r/_respectively|respectively]], [[r/_ring|ring]]) [[g/_g|G]] that [[c/_commute|commute]] with [[e/_every|every]] [[e/_element|element]] of [[g/_g|G]].**
+- **The [[s/_subgroup|subgroup]] ([[r/_respectively|respectively]], [[s/_subring|subring]]), [[d/_denoted|denoted]] Z([[g/_g|G]]), of those [[e/_elements|elements]] of a [[g/_given|given]] [[g/_group|group]] ([[r/_respectively|respectively]], [[r/_ring|ring]]) [[g/_g|G]] that [[c/_commute|commute]] with [[e/_every|every]] [[e/_element|element]] of [[g/_g|G]].**
 - **A [[p/_place|place]] where the [[g/_greater|greater]] [[p/_part|part]] of [[s/_some|some]] [[f/_function|function]] or [[a/_activity|activity]] [[o/_occurs|occurs]].**
 	- _Example: shopping center, convention center, civic center, garment center, Lincoln Center for the Performing Arts, Rockefeller Center_
 - **A topic that is [[p/_particularly|particularly]] [[i/_important|important]] in a [[g/_given|given]] [[c/_context|context]].**

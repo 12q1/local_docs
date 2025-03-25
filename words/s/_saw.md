@@ -1,7 +1,7 @@
 # Saw
 ---
 #noun
-- **A tool with a toothed [[b/_blade|blade]] used for [[c/_cutting|cutting]] [[h/_hard|hard]] substances, in [[p/_particular|particular]] wood or [[m/_metal|metal]]**
+- **A tool with a toothed [[b/_blade|blade]] used for [[c/_cutting|cutting]] [[h/_hard|hard]] [[s/_substances|substances]], in [[p/_particular|particular]] wood or [[m/_metal|metal]]**
 - **A [[m/_musical|musical]] [[s/_saw|saw]].**
 - **A [[s/_sawtooth|sawtooth]] wave.**
 ---

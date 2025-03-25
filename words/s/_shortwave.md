@@ -10,6 +10,6 @@
 - [[H/_HF|HF]]
 #adjective
 - **(of [[r/_radio|radio]] waves) [[h/_having|Having]] a wavelength of [[a/_approximately|approximately]] 10 to 100 [[m/_meters|meters]]**
-- **(of [[r/_radio|radio]] [[e/_equipment|equipment]]) [[c/_capable|Capable]] of transmitting or [[r/_receiving|receiving]] [[s/_signals|signals]] at such a wavelength.**
+- **(of [[r/_radio|radio]] [[e/_equipment|equipment]]) [[c/_capable|Capable]] of transmitting or [[r/_receiving|receiving]] [[s/_signals|signals]] at [[s/_such|such]] a wavelength.**
 ---
 ---

@@ -5,8 +5,8 @@
 - **A [[b/_bottle|bottle]] [[s/_stopper|stopper]] [[m/_made|made]] from this or [[a/_any|any]] [[o/_other|other]] [[m/_material|material]].**
 	- _Example: Snobs feel it's hard to call it wine with a straight face when the cork is made of plastic._
 - **An [[a/_angling|angling]] [[f/_float|float]], [[a/_also|also]] traditionally [[m/_made|made]] of [[o/_oak|oak]] [[c/_cork|cork]].**
-- **The [[c/_cork|cork]] [[o/_oak|oak]], [[q/_quercus|Quercus]] suber.**
-- **The [[d/_dead|dead]] [[p/_protective|protective]] tissue [[b/_between|between]] the [[b/_bark|bark]] and [[c/_cambium|cambium]] in woody [[p/_plants|plants]], with suberin [[d/_deposits|deposits]] [[m/_making|making]] it [[i/_impervious|impervious]] to [[g/_gasses|gasses]] and water.**
+- **The [[c/_cork|cork]] [[o/_oak|oak]], [[q/_quercus|Quercus]] [[s/_suber|suber]].**
+- **The [[d/_dead|dead]] [[p/_protective|protective]] tissue [[b/_between|between]] the [[b/_bark|bark]] and [[c/_cambium|cambium]] in woody [[p/_plants|plants]], with [[s/_suberin|suberin]] [[d/_deposits|deposits]] [[m/_making|making]] it [[i/_impervious|impervious]] to [[g/_gasses|gasses]] and water.**
 ---
 #verb
 - **To [[s/_seal|seal]] or [[s/_stop|stop]] up, [[e/_especially|especially]] with a [[c/_cork|cork]] [[s/_stopper|stopper]].**

@@ -5,7 +5,7 @@
 ---
 #verb
 - **To [[f/_flavor|flavor]] or treat (wine) with a [[l/_liqueur|liqueur]]**
-- **To top up [[b/_bottles|bottles]] of [[s/_sparkling|sparkling]] wine with a sugar [[s/_solution|solution]]**
+- **To top up [[b/_bottles|bottles]] of [[s/_sparkling|sparkling]] wine with a [[s/_sugar|sugar]] [[s/_solution|solution]]**
 	- _Example: Every champagne has to be liqueured after its disgorgement, to replace the inevitable loss._
 ---
 ---

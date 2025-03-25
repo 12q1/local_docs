@@ -1,7 +1,7 @@
 # Soap
 ---
 #noun
-- **A substance [[a/_able|able]] to [[m/_mix|mix]] with [[b/_both|both]] [[o/_oil|oil]] and water, used for [[c/_cleaning|cleaning]], [[o/_often|often]] in the [[f/_form|form]] of a [[s/_solid|solid]] [[b/_bar|bar]] or in [[l/_liquid|liquid]] [[f/_form|form]], [[d/_derived|derived]] from [[f/_fats|fats]] or [[m/_made|made]] [[s/_synthetically|synthetically]].**
+- **A [[s/_substance|substance]] [[a/_able|able]] to [[m/_mix|mix]] with [[b/_both|both]] [[o/_oil|oil]] and water, used for [[c/_cleaning|cleaning]], [[o/_often|often]] in the [[f/_form|form]] of a [[s/_solid|solid]] [[b/_bar|bar]] or in [[l/_liquid|liquid]] [[f/_form|form]], [[d/_derived|derived]] from [[f/_fats|fats]] or [[m/_made|made]] [[s/_synthetically|synthetically]].**
 	- _Example: I tried washing my hands with soap, but the stain wouldn't go away._
 - **A [[m/_metallic|metallic]] [[s/_salt|salt]] [[d/_derived|derived]] from a [[f/_fatty|fatty]] [[a/_acid|acid]]**
 - **[[f/_flattery|Flattery]] or [[e/_excessively|excessively]] [[c/_complacent|complacent]] [[c/_conversation|conversation]].**

@@ -9,7 +9,7 @@
 - **To [[c/_cause|cause]] ([[s/_someone|someone]]) to worry.**
 	- _Example: What’s eating you?_
 - **To take the [[l/_loss|loss]] in a transaction.**
-- **To be [[i/_injured|injured]] or [[k/_killed|killed]] by ([[s/_something|something]] such as a [[f/_firearm|firearm]] or [[i/_its|its]] [[p/_projectile|projectile]]), [[e/_especially|especially]] in the [[m/_mouth|mouth]].**
+- **To be [[i/_injured|injured]] or [[k/_killed|killed]] by ([[s/_something|something]] [[s/_such|such]] as a [[f/_firearm|firearm]] or [[i/_its|its]] [[p/_projectile|projectile]]), [[e/_especially|especially]] in the [[m/_mouth|mouth]].**
 - **To [[c/_corrode|corrode]] or [[e/_erode|erode]].**
 	- _Example: The acid rain ate away the statue.  The strong acid eats through the metal._
 - **To [[p/_perform|perform]] [[o/_oral|oral]] [[s/_sex|sex]] (on a [[p/_person|person]] or [[b/_body|body]] [[p/_part|part]]).**

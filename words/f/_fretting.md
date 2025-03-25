@@ -13,7 +13,7 @@
 - **To be [[a/_anxious|anxious]], to worry.**
 - **To be [[a/_agitated|agitated]]; to [[r/_rankle|rankle]]; to be in violent [[c/_commotion|commotion]].**
 	- _Example: Rancour frets in the malignant breast._
-- **To [[h/_have|have]] [[s/_secondary|secondary]] [[f/_fermentation|fermentation]] ([[f/_fermentation|fermentation]] [[o/_occurring|occurring]] [[a/_after|after]] the [[c/_conversion|conversion]] of sugar to [[a/_alcohol|alcohol]] in [[b/_beers|beers]] and wine) take [[p/_place|place]].**
+- **To [[h/_have|have]] [[s/_secondary|secondary]] [[f/_fermentation|fermentation]] ([[f/_fermentation|fermentation]] [[o/_occurring|occurring]] [[a/_after|after]] the [[c/_conversion|conversion]] of [[s/_sugar|sugar]] to [[a/_alcohol|alcohol]] in [[b/_beers|beers]] and wine) take [[p/_place|place]].**
 ---
 #verb
 - **To [[d/_decorate|decorate]] or [[o/_ornament|ornament]], [[e/_especially|especially]] with an [[i/_interlaced|interlaced]] or [[i/_interwoven|interwoven]] [[p/_pattern|pattern]], or with [[c/_carving|carving]] or [[r/_relief|relief]] ([[r/_raised|raised]]) work.**

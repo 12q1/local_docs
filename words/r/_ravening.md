@@ -7,6 +7,6 @@
 #adjective
 - **Voracious and [[g/_greedy|greedy]].**
 	- _Example: There is no shortage of ravening friends and relatives on the day one hits the lottery._
-- **Subject to the voracity of a [[p/_predator|predator]].**
+- **[[s/_subject|Subject]] to the voracity of a [[p/_predator|predator]].**
 ---
 ---

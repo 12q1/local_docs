@@ -1,7 +1,7 @@
 # Desperate
 ---
 #noun
-- **A [[p/_person|person]] in [[d/_desperate|desperate]] [[c/_circumstances|circumstances]] or who is at the [[p/_point|point]] of [[d/_desperation|desperation]], such as a [[d/_down|down]]-and-[[o/_outer|outer]], [[a/_addict|addict]], [[e/_etc|etc]].**
+- **A [[p/_person|person]] in [[d/_desperate|desperate]] [[c/_circumstances|circumstances]] or who is at the [[p/_point|point]] of [[d/_desperation|desperation]], [[s/_such|such]] as a [[d/_down|down]]-and-[[o/_outer|outer]], [[a/_addict|addict]], [[e/_etc|etc]].**
 ---
 #adjective
 - **In [[d/_dire|dire]] [[n/_need|need]] of [[s/_something|something]].**

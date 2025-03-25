@@ -12,8 +12,8 @@
 - **[[s/_something|Something]] that [[m/_makes|makes]] a [[b/_booming|booming]] [[s/_sound|sound]].**
 - **([[m/_mainly|mainly]] 1920–1930) A transient worker who would [[m/_move|move]] from [[b/_boom|boom]] town to [[b/_boom|boom]] town in [[s/_search|search]] of temporary work.**
 - **A [[d/_device|device]] used to [[b/_bind|bind]] or tighten [[c/_chain|chain]].**
-- **A [[n/_nuclear|nuclear]] [[b/_ballistic|ballistic]] [[m/_missile|missile]] submarine, SSBN.**
-- **A [[b/_bittern|bittern]] (subfamily [[b/_botaurinae|Botaurinae]]).**
+- **A [[n/_nuclear|nuclear]] [[b/_ballistic|ballistic]] [[m/_missile|missile]] [[s/_submarine|submarine]], SSBN.**
+- **A [[b/_bittern|bittern]] ([[s/_subfamily|subfamily]] [[b/_botaurinae|Botaurinae]]).**
 - **A [[r/_red|red]] [[s/_squirrel|squirrel]] (Tamiasciurus hudsonicus).**
 - **A [[m/_mountain|mountain]] [[b/_beaver|beaver]] ([[a/_aplodontia|Aplodontia]] rufa).**
 ---

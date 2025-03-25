@@ -10,7 +10,7 @@
 - **A [[c/_close|close]] union.**
 - **A [[j/_joining|joining]] of two [[p/_parts|parts]].**
 - **A [[k/_king|king]] and a [[q/_queen|queen]], when [[h/_held|held]] as a [[h/_hand|hand]] in Texas [[h/_hold|hold]] '[[e/_em|em]] or [[m/_melded|melded]] in [[p/_pinochle|pinochle]].**
-- **In [[s/_solitaire|solitaire]] or [[p/_patience|patience]] [[g/_games|games]], the [[p/_placing|placing]] a [[c/_card|card]] of the [[s/_same|same]] suit on the [[n/_next|next]] [[o/_one|one]] [[a/_above|above]] or [[b/_below|below]] it in value.**
+- **In [[s/_solitaire|solitaire]] or [[p/_patience|patience]] [[g/_games|games]], the [[p/_placing|placing]] a [[c/_card|card]] of the [[s/_same|same]] [[s/_suit|suit]] on the [[n/_next|next]] [[o/_one|one]] [[a/_above|above]] or [[b/_below|below]] it in value.**
 ---
 ### Synonyms
 - [[m/_matrimony|matrimony]], [[w/_wedding|wedding]]

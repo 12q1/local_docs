@@ -1,7 +1,7 @@
 # Fittest
 ---
 #verb
-- **To be suitable for.**
+- **To be [[s/_suitable|suitable]] for.**
 	- _Example: It fits the purpose._
 - **To [[c/_conform|conform]] to in [[s/_size|size]] and [[s/_shape|shape]].**
 	- _Example: If I lose a few kilos, the gorgeous wedding dress might fit me._
@@ -24,7 +24,7 @@
 	- _Example: The paint, the fabrics, the rugs all fit._
 ---
 #adjective
-- **Suitable, [[p/_proper|proper]].**
+- **[[s/_suitable|Suitable]], [[p/_proper|proper]].**
 	- _Example: You have nothing to say about it. I'll do exactly as I see fit._
 - **[[a/_adapted|Adapted]] to a [[p/_purpose|purpose]] or [[e/_environment|environment]].**
 	- _Example: survival of the fittest_
@@ -35,6 +35,6 @@
 - **[[p/_prepared|Prepared]]; [[r/_ready|ready]].**
 ---
 #verb
-- **To suffer a [[f/_fit|fit]].**
+- **To [[s/_suffer|suffer]] a [[f/_fit|fit]].**
 ---
 ---

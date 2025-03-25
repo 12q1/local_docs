@@ -1,7 +1,7 @@
 # Interstadial
 ---
 #noun
-- **Such a [[p/_period|period]].**
+- **[[s/_such|Such]] a [[p/_period|period]].**
 ---
 #adjective
 - **[[b/_between|Between]] [[d/_developmental|developmental]] [[s/_stages|stages]].**

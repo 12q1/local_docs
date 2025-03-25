@@ -1,7 +1,7 @@
 # Explosive
 ---
 #noun
-- **[[a/_any|Any]] [[e/_explosive|explosive]] substance.**
+- **[[a/_any|Any]] [[e/_explosive|explosive]] [[s/_substance|substance]].**
 ---
 #adjective
 - **With the [[c/_capability|capability]] to, or [[l/_likely|likely]] to, [[e/_explode|explode]].**

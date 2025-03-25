@@ -11,10 +11,10 @@
 - **The [[f/_flat|flat]] [[p/_part|part]] of [[s/_something|something]]:**
 - **A wide, [[s/_shallow|shallow]] [[c/_container|container]] or [[p/_pallet|pallet]].**
 	- _Example: a flat of strawberries_
-- **([[m/_mail|mail]]) A [[l/_large|large]] [[m/_mail|mail]] [[p/_piece|piece]] [[m/_measuring|measuring]] at [[l/_least|least]] 8 1/2 by 11 [[i/_inches|inches]], such as [[c/_catalogs|catalogs]], [[m/_magazines|magazines]], and unfolded [[p/_paper|paper]] [[e/_enclosed|enclosed]] in [[l/_large|large]] [[e/_envelopes|envelopes]].**
+- **([[m/_mail|mail]]) A [[l/_large|large]] [[m/_mail|mail]] [[p/_piece|piece]] [[m/_measuring|measuring]] at [[l/_least|least]] 8 1/2 by 11 [[i/_inches|inches]], [[s/_such|such]] as [[c/_catalogs|catalogs]], [[m/_magazines|magazines]], and unfolded [[p/_paper|paper]] [[e/_enclosed|enclosed]] in [[l/_large|large]] [[e/_envelopes|envelopes]].**
 - **A [[r/_railroad|railroad]] [[c/_car|car]] without a [[r/_roof|roof]], and whose [[b/_body|body]] is a [[p/_platform|platform]] without [[s/_sides|sides]]; a [[p/_platform|platform]] [[c/_car|car]] or [[f/_flatcar|flatcar]].**
 - **A [[f/_flat|flat]]-[[b/_bottomed|bottomed]] [[b/_boat|boat]], without [[k/_keel|keel]], and of [[s/_small|small]] [[d/_draught|draught]].**
-- **A subset of [[n/_n|n]]-[[d/_dimensional|dimensional]] [[s/_space|space]] that is [[c/_congruent|congruent]] to a [[e/_euclidean|Euclidean]] [[s/_space|space]] of [[l/_lower|lower]] [[d/_dimension|dimension]].**
+- **A [[s/_subset|subset]] of [[n/_n|n]]-[[d/_dimensional|dimensional]] [[s/_space|space]] that is [[c/_congruent|congruent]] to a [[e/_euclidean|Euclidean]] [[s/_space|space]] of [[l/_lower|lower]] [[d/_dimension|dimension]].**
 - **A [[s/_straw|straw]] [[h/_hat|hat]], [[b/_broad|broad]]-[[b/_brimmed|brimmed]] and [[l/_low|low]]-[[c/_crowned|crowned]].**
 - **A [[f/_flat|flat]] [[s/_sheet|sheet]] for use on a [[b/_bed|bed]].**
 - **A [[p/_platform|platform]] on a wheel, upon which [[e/_emblematic|emblematic]] [[d/_designs|designs]] [[e/_etc|etc]]. are [[c/_carried|carried]] in [[p/_processions|processions]].**
@@ -55,11 +55,11 @@
 - **[[a/_absolute|Absolute]]; [[d/_downright|downright]]; [[p/_peremptory|peremptory]].**
 	- _Example: His claim was in flat contradiction to experimental results._
 - **(of a [[c/_consonant|consonant]]) [[s/_sonant|sonant]]; vocal, as [[d/_distinguished|distinguished]] from a [[s/_sharp|sharp]] ([[n/_non|non]]-[[s/_sonant|sonant]]) [[c/_consonant|consonant]]**
-- **([[g/_grammar|grammar]]) Not [[h/_having|having]] an [[i/_inflectional|inflectional]] [[e/_ending|ending]] or [[s/_sign|sign]], such as a [[n/_noun|noun]] used as an [[a/_adjective|adjective]], or an [[a/_adjective|adjective]] as an [[a/_adverb|adverb]], without the [[a/_addition|addition]] of a [[f/_formative|formative]] suffix; or an [[i/_infinitive|infinitive]] without the [[s/_sign|sign]] "to".**
+- **([[g/_grammar|grammar]]) Not [[h/_having|having]] an [[i/_inflectional|inflectional]] [[e/_ending|ending]] or [[s/_sign|sign]], [[s/_such|such]] as a [[n/_noun|noun]] used as an [[a/_adjective|adjective]], or an [[a/_adjective|adjective]] as an [[a/_adverb|adverb]], without the [[a/_addition|addition]] of a [[f/_formative|formative]] [[s/_suffix|suffix]]; or an [[i/_infinitive|infinitive]] without the [[s/_sign|sign]] "to".**
 	- _Example: Many flat adverbs, as in 'run fast', 'buy cheap', etc. are from Old English._
 - **(of a [[g/_golf|golf]] [[c/_club|club]]) [[h/_having|Having]] a [[h/_head|head]] at a very [[o/_obtuse|obtuse]] [[a/_angle|angle]] to the [[s/_shaft|shaft]].**
 - **(of [[c/_certain|certain]] [[f/_fruits|fruits]]) [[f/_flattening|Flattening]] at the [[e/_ends|ends]].**
-- **([[a/_authorship|authorship]], [[e/_especially|especially]] of a [[c/_character|character]]) [[l/_lacking|Lacking]] in [[d/_depth|depth]], substance, or [[b/_believability|believability]]; underdeveloped; [[o/_one|one]]-[[d/_dimensional|dimensional]].**
+- **([[a/_authorship|authorship]], [[e/_especially|especially]] of a [[c/_character|character]]) [[l/_lacking|Lacking]] in [[d/_depth|depth]], [[s/_substance|substance]], or [[b/_believability|believability]]; underdeveloped; [[o/_one|one]]-[[d/_dimensional|dimensional]].**
 	- _Example: The author added a chapter to flesh out the books' flatter characters._
 - **[[f/_fixed|Fixed]]; unvarying.**
 	- _Example: a flat fare on public transport_

@@ -3,7 +3,7 @@
 #noun
 - **An [[a/_act|act]] of [[p/_parsing|parsing]].**
 	- _Example: The parse will fail if the program contains an unrecognised keyword._
-- **The [[r/_result|result]] of such an [[a/_act|act]].**
+- **The [[r/_result|result]] of [[s/_such|such]] an [[a/_act|act]].**
 	- _Example: This parse is incorrect and indicates a fault in the parser._
 ---
 #verb

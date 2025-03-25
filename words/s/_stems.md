@@ -13,10 +13,10 @@
 - **The [[s/_stock|stock]] of a [[f/_family|family]]; a [[r/_race|race]] or [[g/_generation|generation]] of [[p/_progenitors|progenitors]].**
 - **A [[b/_branch|branch]] of a [[f/_family|family]].**
 - **An [[a/_advanced|advanced]] or [[l/_leading|leading]] [[p/_position|position]]; the [[l/_lookout|lookout]].**
-- **The [[a/_above|above]]-[[g/_ground|ground]] [[s/_stalk|stalk]] (technically [[a/_axis|axis]]) of a vascular [[p/_plant|plant]], and [[c/_certain|certain]] [[a/_anatomically|anatomically]] [[s/_similar|similar]], [[b/_below|below]]-[[g/_ground|ground]] [[o/_organs|organs]] such as [[r/_rhizomes|rhizomes]], [[b/_bulbs|bulbs]], tubers, and [[c/_corms|corms]].**
-- **A [[s/_slender|slender]] supporting [[m/_member|member]] of an [[i/_individual|individual]] [[p/_part|part]] of a [[p/_plant|plant]] such as a [[f/_flower|flower]] or a [[l/_leaf|leaf]]; [[a/_also|also]], by [[a/_analogy|analogy]], the [[s/_shaft|shaft]] of a [[f/_feather|feather]].**
+- **The [[a/_above|above]]-[[g/_ground|ground]] [[s/_stalk|stalk]] (technically [[a/_axis|axis]]) of a vascular [[p/_plant|plant]], and [[c/_certain|certain]] [[a/_anatomically|anatomically]] [[s/_similar|similar]], [[b/_below|below]]-[[g/_ground|ground]] [[o/_organs|organs]] [[s/_such|such]] as [[r/_rhizomes|rhizomes]], [[b/_bulbs|bulbs]], tubers, and [[c/_corms|corms]].**
+- **A [[s/_slender|slender]] supporting [[m/_member|member]] of an [[i/_individual|individual]] [[p/_part|part]] of a [[p/_plant|plant]] [[s/_such|such]] as a [[f/_flower|flower]] or a [[l/_leaf|leaf]]; [[a/_also|also]], by [[a/_analogy|analogy]], the [[s/_shaft|shaft]] of a [[f/_feather|feather]].**
 	- _Example: the stem of an apple or a cherry_
-- **A [[n/_narrow|narrow]] [[p/_part|part]] on [[c/_certain|certain]] [[m/_man|man]]-[[m/_made|made]] [[o/_objects|objects]], such as a wine [[g/_glass|glass]], a tobacco [[p/_pipe|pipe]], a [[s/_spoon|spoon]].**
+- **A [[n/_narrow|narrow]] [[p/_part|part]] on [[c/_certain|certain]] [[m/_man|man]]-[[m/_made|made]] [[o/_objects|objects]], [[s/_such|such]] as a wine [[g/_glass|glass]], a tobacco [[p/_pipe|pipe]], a [[s/_spoon|spoon]].**
 - **The [[m/_main|main]] [[p/_part|part]] of an uninflected word to which [[a/_affixes|affixes]] [[m/_may|may]] be [[a/_added|added]] to [[f/_form|form]] [[i/_inflections|inflections]] of the word. A [[s/_stem|stem]] [[o/_often|often]] [[h/_has|has]] a [[m/_more|more]] [[f/_fundamental|fundamental]] [[r/_root|root]]. [[s/_systematic|Systematic]] [[c/_conjugations|conjugations]] and [[d/_declensions|declensions]] [[d/_derive|derive]] from their [[s/_stems|stems]].**
 - **A [[p/_person|person]]'[[s/_s|s]] [[l/_leg|leg]].**
 - **The [[p/_penis|penis]].**

@@ -3,7 +3,7 @@
 #noun
 - **A [[d/_discoloured|discoloured]] [[s/_spot|spot]] or [[a/_area|area]].**
 - **A [[b/_blemish|blemish]] on [[o/_one|one]]'[[s/_s|s]] [[c/_character|character]] or [[r/_reputation|reputation]].**
-- **A substance used to [[s/_soak|soak]] [[i/_into|into]] a surface and [[c/_colour|colour]] it.**
+- **A [[s/_substance|substance]] used to [[s/_soak|soak]] [[i/_into|into]] a surface and [[c/_colour|colour]] it.**
 - **A [[r/_reagent|reagent]] or [[d/_dye|dye]] used to [[s/_stain|stain]] [[m/_microscope|microscope]] [[s/_specimens|specimens]] [[s/_so|so]] as to [[m/_make|make]] [[s/_some|some]] [[s/_structures|structures]] visible.**
 - **[[a/_any|Any]] of a [[n/_number|number]] of [[n/_non|non]]-[[s/_standard|standard]] tinctures used in [[m/_modern|modern]] [[h/_heraldry|heraldry]].**
 ---

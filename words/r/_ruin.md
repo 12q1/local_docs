@@ -1,7 +1,7 @@
 # Ruin
 ---
 #noun
-- **([[s/_sometimes|sometimes]] in the [[p/_plural|plural]]) The [[r/_remains|remains]] of a [[d/_destroyed|destroyed]] or [[d/_dilapidated|dilapidated]] [[c/_construction|construction]], such as a [[h/_house|house]] or [[c/_castle|castle]].**
+- **([[s/_sometimes|sometimes]] in the [[p/_plural|plural]]) The [[r/_remains|remains]] of a [[d/_destroyed|destroyed]] or [[d/_dilapidated|dilapidated]] [[c/_construction|construction]], [[s/_such|such]] as a [[h/_house|house]] or [[c/_castle|castle]].**
 - **The [[s/_state|state]] of [[b/_being|being]] a [[r/_ruin|ruin]], [[d/_destroyed|destroyed]] or [[d/_decayed|decayed]].**
 	- _Example: The monastery has fallen into ruin._
 - **[[s/_something|Something]] that [[l/_leads|leads]] to [[s/_serious|serious]] trouble or [[d/_destruction|destruction]].**

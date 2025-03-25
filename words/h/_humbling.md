@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[d/_defeat|defeat]] or [[r/_reduce|reduce]] the [[p/_power|power]], [[i/_independence|independence]], or [[p/_pride|pride]] of**
-- **To [[m/_make|make]] [[h/_humble|humble]] or [[l/_lowly|lowly]]; to [[m/_make|make]] [[l/_less|less]] [[p/_proud|proud]] or [[a/_arrogant|arrogant]]; to [[m/_make|make]] [[m/_meek|meek]] and submissive.**
+- **To [[m/_make|make]] [[h/_humble|humble]] or [[l/_lowly|lowly]]; to [[m/_make|make]] [[l/_less|less]] [[p/_proud|proud]] or [[a/_arrogant|arrogant]]; to [[m/_make|make]] [[m/_meek|meek]] and [[s/_submissive|submissive]].**
 ---
 ### Synonyms
 - [[a/_abase|abase]], [[d/_degrade|degrade]], [[d/_depress|depress]], [[d/_disgrace|disgrace]], [[h/_humiliate|humiliate]], [[l/_lower|lower]], [[m/_mortify|mortify]]

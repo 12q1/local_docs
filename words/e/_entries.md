@@ -10,7 +10,7 @@
 - **A [[p/_passageway|passageway]] [[b/_between|between]] terraced [[h/_houses|houses]] that [[p/_provides|provides]] a [[m/_means|means]] of [[e/_entering|entering]] a [[b/_back|back]] [[g/_garden|garden]] or [[y/_yard|yard]].**
 - **A [[s/_small|small]] [[r/_room|room]] [[i/_immediately|immediately]] [[i/_inside|inside]] the [[f/_front|front]] [[d/_door|door]] of a [[h/_house|house]] or [[o/_other|other]] [[b/_building|building]], [[o/_often|often]] [[h/_having|having]] an [[a/_access|access]] to a [[s/_stairway|stairway]] and [[l/_leading|leading]] on to [[o/_other|other]] [[r/_rooms|rooms]]**
 - **A [[s/_small|small]] [[g/_group|group]] [[f/_formed|formed]] within a [[c/_church|church]], [[e/_especially|especially]] [[e/_episcopal|Episcopal]], for [[s/_simple|simple]] [[d/_dinner|dinner]] and [[f/_fellowship|fellowship]], and to [[h/_help|help]] [[f/_facilitate|facilitate]] [[n/_new|new]] [[f/_friendships|friendships]]**
-- **An [[i/_item|item]] in a [[l/_list|list]], such as an [[a/_article|article]] in a [[d/_dictionary|dictionary]] or [[e/_encyclopedia|encyclopedia]].**
+- **An [[i/_item|item]] in a [[l/_list|list]], [[s/_such|such]] as an [[a/_article|article]] in a [[d/_dictionary|dictionary]] or [[e/_encyclopedia|encyclopedia]].**
 - **A [[r/_record|record]] [[m/_made|made]] in a [[l/_log|log]], [[d/_diary|diary]] or [[a/_anything|anything]] [[s/_similarly|similarly]] [[o/_organized|organized]]; a [[d/_datum|datum]] in a [[d/_database|database]].**
 	- _Example: What does the entry for 2 August 2005 say?_
 - **A term at [[a/_any|any]] [[p/_position|position]] in a [[m/_matrix|matrix]].**

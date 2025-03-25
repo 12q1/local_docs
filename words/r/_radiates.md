@@ -7,7 +7,7 @@
 - **To [[c/_come|come]] [[o/_out|out]] or [[p/_proceed|proceed]] in [[r/_rays|rays]] or waves.**
 	- _Example: The heat radiates from a stove._
 - **To [[i/_illuminate|illuminate]].**
-- **To [[e/_expose|expose]] to [[i/_ionizing|ionizing]] [[r/_radiation|radiation]], such as by [[r/_radiography|radiography]].**
+- **To [[e/_expose|expose]] to [[i/_ionizing|ionizing]] [[r/_radiation|radiation]], [[s/_such|such]] as by [[r/_radiography|radiography]].**
 - **To [[m/_manifest|manifest]] [[o/_oneself|oneself]] in a [[g/_glowing|glowing]] [[m/_manner|manner]].**
 - **([[e/_ecology|ecology]], [[i/_intransitive|intransitive]]) to [[s/_spread|spread]] [[i/_into|into]] [[n/_new|new]] [[h/_habitats|habitats]], [[m/_migrate|migrate]].**
 ---

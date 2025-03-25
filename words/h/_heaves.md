@@ -1,7 +1,7 @@
 # Heaves
 ---
 #noun
-- **An [[e/_effort|effort]] to [[r/_raise|raise]] [[s/_something|something]], such as a weight or [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[b/_body|body]], or to [[m/_move|move]] [[s/_something|something]] [[h/_heavy|heavy]].**
+- **An [[e/_effort|effort]] to [[r/_raise|raise]] [[s/_something|something]], [[s/_such|such]] as a weight or [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] [[b/_body|body]], or to [[m/_move|move]] [[s/_something|something]] [[h/_heavy|heavy]].**
 - **An upward [[m/_motion|motion]]; a [[r/_rising|rising]]; a swell or [[d/_distention|distention]], as of the [[b/_breast|breast]] in [[d/_difficult|difficult]] [[b/_breathing|breathing]], of the waves, of the [[e/_earth|earth]] in an [[e/_earthquake|earthquake]], [[e/_etc|etc]].**
 - **A [[h/_horizontal|horizontal]] [[d/_dislocation|dislocation]] in a [[m/_metallic|metallic]] [[l/_lode|lode]], taking [[p/_place|place]] at an [[i/_intersection|intersection]] with [[a/_another|another]] [[l/_lode|lode]].**
 - **The [[m/_measure|measure]] of [[e/_extent|extent]] to which a [[n/_nautical|nautical]] vessel [[g/_goes|goes]] up and [[d/_down|down]] in a [[s/_short|short]] [[p/_period|period]] of time. [[c/_compare|Compare]] [[p/_pitch|pitch]].**

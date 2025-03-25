@@ -4,7 +4,7 @@
 - **[[m/_money|Money]].**
 ---
 #noun
-- **A [[f/_female|female]] [[a/_animal|animal]], such as a [[e/_ewe|ewe]] or [[c/_cow|cow]], that is not [[p/_pregnant|pregnant]].**
+- **A [[f/_female|female]] [[a/_animal|animal]], [[s/_such|such]] as a [[e/_ewe|ewe]] or [[c/_cow|cow]], that is not [[p/_pregnant|pregnant]].**
 ---
 #verb
 - **To [[c/_castrate|castrate]] a [[m/_male|male]] (usually an [[a/_animal|animal]]).**

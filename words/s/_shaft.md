@@ -1,18 +1,18 @@
 # Shaft
 ---
 #noun
-- **The [[e/_entire|entire]] [[b/_body|body]] of a [[l/_long|long]] weapon, such as an [[a/_arrow|arrow]].**
+- **The [[e/_entire|entire]] [[b/_body|body]] of a [[l/_long|long]] weapon, [[s/_such|such]] as an [[a/_arrow|arrow]].**
 - **The [[l/_long|long]], [[n/_narrow|narrow]], [[c/_central|central]] [[b/_body|body]] of a [[s/_spear|spear]], [[a/_arrow|arrow]], or [[j/_javelin|javelin]].**
 	- _Example: Her hand slipped off the javelin's shaft towards the spearpoint and that's why her score was lowered._
 - **(by [[e/_extension|extension]]) [[a/_anything|Anything]] [[c/_cast|cast]] or thrown as a [[s/_spear|spear]] or [[j/_javelin|javelin]].**
-- **[[a/_any|Any]] [[l/_long|long]] thin [[o/_object|object]], such as the [[h/_handle|handle]] of a tool, [[o/_one|one]] of the [[p/_poles|poles]] [[b/_between|between]] which an [[a/_animal|animal]] is [[h/_harnessed|harnessed]] to a vehicle, the driveshaft of a [[m/_motorized|motorized]] vehicle with [[r/_rear|rear]]-wheel [[d/_drive|drive]], an [[a/_axle|axle]], [[e/_etc|etc]].**
+- **[[a/_any|Any]] [[l/_long|long]] thin [[o/_object|object]], [[s/_such|such]] as the [[h/_handle|handle]] of a tool, [[o/_one|one]] of the [[p/_poles|poles]] [[b/_between|between]] which an [[a/_animal|animal]] is [[h/_harnessed|harnessed]] to a vehicle, the driveshaft of a [[m/_motorized|motorized]] vehicle with [[r/_rear|rear]]-wheel [[d/_drive|drive]], an [[a/_axle|axle]], [[e/_etc|etc]].**
 - **A [[b/_beam|beam]] or [[r/_ray|ray]] of [[l/_light|light]].**
 	- _Example: Isn't that shaft of light from that opening in the cave beautiful?_
 - **The [[m/_main|main]] [[a/_axis|axis]] of a [[f/_feather|feather]].**
 	- _Example: I had no idea that they removed the feathers' shafts to make the pillows softer!_
 - **The [[l/_long|long]] [[n/_narrow|narrow]] [[b/_body|body]] of a [[l/_lacrosse|lacrosse]] [[s/_stick|stick]].**
 	- _Example: Sarah, if you wear gloves your hands might not slip on your shaft and you can up your game, girl!_
-- **A vertical or [[i/_inclined|inclined]] [[p/_passage|passage]] sunk [[i/_into|into]] the [[e/_earth|earth]] as [[p/_part|part]] of a [[m/_mine|mine]]**
+- **A vertical or [[i/_inclined|inclined]] [[p/_passage|passage]] [[s/_sunk|sunk]] [[i/_into|into]] the [[e/_earth|earth]] as [[p/_part|part]] of a [[m/_mine|mine]]**
 	- _Example: Your grandfather used to work with a crane hauling ore out of the gold mine's shafts._
 - **A vertical [[p/_passage|passage]] [[h/_housing|housing]] a [[l/_lift|lift]] or [[e/_elevator|elevator]]; a liftshaft.**
 	- _Example: Darn it, my keys fell through the gap and into the elevator shaft._

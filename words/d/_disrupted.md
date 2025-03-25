@@ -9,6 +9,6 @@
 	- _Example: The internet makes it easier for leaner businesses to disrupt the larger and more unwieldy ones._
 ---
 #adjective
-- **Subject to [[d/_disruption|disruption]].**
+- **[[s/_subject|Subject]] to [[d/_disruption|disruption]].**
 ---
 ---

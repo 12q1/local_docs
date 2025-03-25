@@ -9,7 +9,7 @@
 - **[[a/_any|Any]] [[p/_part|part]] of a [[l/_letter|letter]] which [[e/_extends|extends]] [[i/_into|into]] the [[s/_space|space]] used by [[a/_another|another]] [[l/_letter|letter]].**
 ---
 #verb
-- **([[c/_chiefly|chiefly]] [[p/_proportional|proportional]] [[f/_font|font]] [[p/_printing|printing]]) To [[a/_adjust|adjust]] the [[h/_horizontal|horizontal]] [[s/_space|space]] [[b/_between|between]] [[s/_selected|selected]] [[p/_pairs|pairs]] of [[l/_letters|letters]] ([[c/_characters|characters]] or [[g/_glyphs|glyphs]]); to [[p/_perform|perform]] such [[a/_adjustments|adjustments]] to a [[p/_portion|portion]] of text, [[a/_according|according]] to [[p/_preset|preset]] [[r/_rules|rules]].**
+- **([[c/_chiefly|chiefly]] [[p/_proportional|proportional]] [[f/_font|font]] [[p/_printing|printing]]) To [[a/_adjust|adjust]] the [[h/_horizontal|horizontal]] [[s/_space|space]] [[b/_between|between]] [[s/_selected|selected]] [[p/_pairs|pairs]] of [[l/_letters|letters]] ([[c/_characters|characters]] or [[g/_glyphs|glyphs]]); to [[p/_perform|perform]] [[s/_such|such]] [[a/_adjustments|adjustments]] to a [[p/_portion|portion]] of text, [[a/_according|according]] to [[p/_preset|preset]] [[r/_rules|rules]].**
 ---
 #noun
 - **A [[l/_light|light]]-[[a/_armed|armed]] [[f/_foot|foot]] [[s/_soldier|soldier]] of the [[a/_ancient|ancient]] [[m/_militia|militia]] of [[i/_ireland|Ireland]] and [[s/_scotland|Scotland]]; in [[a/_archaic|archaic]] [[c/_contexts|contexts]] [[o/_often|often]] used as a term of [[c/_contempt|contempt]].**

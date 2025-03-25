@@ -1,7 +1,7 @@
 # Dopaminergic
 ---
 #noun
-- **[[a/_any|Any]] substance that [[a/_affects|affects]] the [[p/_production|production]] of [[d/_dopamine|dopamine]]**
+- **[[a/_any|Any]] [[s/_substance|substance]] that [[a/_affects|affects]] the [[p/_production|production]] of [[d/_dopamine|dopamine]]**
 ---
 #adjective
 - **[[c/_containing|Containing]], [[i/_involving|involving]], or transmitting [[d/_dopamine|dopamine]].**

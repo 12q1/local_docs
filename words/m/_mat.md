@@ -10,7 +10,7 @@
 - **A thickly tangled [[m/_mess|mess]].**
 	- _Example: a mat of hair_
 - **A thin [[l/_layer|layer]] of woven, [[n/_non|non]]-woven, or [[k/_knitted|knitted]] [[f/_fiber|fiber]] that [[s/_serves|serves]] as [[r/_reinforcement|reinforcement]] to a [[m/_material|material]].**
-- **A thin surface [[l/_layer|layer]]; superficial [[c/_cover|cover]].**
+- **A thin surface [[l/_layer|layer]]; [[s/_superficial|superficial]] [[c/_cover|cover]].**
 	- _Example: Iceland moss growing in a mat_
 ---
 #verb

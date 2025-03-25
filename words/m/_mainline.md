@@ -1,7 +1,7 @@
 # Mainline
 ---
 #noun
-- **An [[a/_airline|airline]]'[[s/_s|s]] [[m/_main|main]] [[o/_operating|operating]] unit, as [[o/_opposed|opposed]] to codeshares or [[r/_regional|regional]] subsidiaries.**
+- **An [[a/_airline|airline]]'[[s/_s|s]] [[m/_main|main]] [[o/_operating|operating]] unit, as [[o/_opposed|opposed]] to codeshares or [[r/_regional|regional]] [[s/_subsidiaries|subsidiaries]].**
 - **The [[m/_main|main]] [[r/_repository|repository]] for a [[s/_software|software]] [[p/_project|project]], from which [[d/_different|different]] versions ([[f/_forks|forks]]) [[m/_may|may]] be [[s/_split|split]] [[o/_off|off]].**
 ---
 #verb

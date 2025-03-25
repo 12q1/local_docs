@@ -3,7 +3,7 @@
 #noun
 - **The [[r/_remains|remains]] of [[s/_something|something]] that [[h/_has|has]] [[b/_been|been]] [[c/_cut|cut]] [[o/_off|off]]; [[e/_especially|especially]] the [[r/_remains|remains]] of a tree, the [[r/_remains|remains]] of a [[l/_limb|limb]].**
 - **The [[p/_place|place]] or [[o/_occasion|occasion]] at which a [[c/_campaign|campaign]] takes [[p/_place|place]]; the [[h/_husting|husting]].**
-- **A [[p/_place|place]] or [[o/_occasion|occasion]] at which a [[p/_person|person]] [[h/_harangues|harangues]] or [[o/_otherwise|otherwise]] [[a/_addresses|addresses]] a [[g/_group|group]] in a [[m/_manner|manner]] suggesting [[p/_political|political]] [[o/_oration|oration]].**
+- **A [[p/_place|place]] or [[o/_occasion|occasion]] at which a [[p/_person|person]] [[h/_harangues|harangues]] or [[o/_otherwise|otherwise]] [[a/_addresses|addresses]] a [[g/_group|group]] in a [[m/_manner|manner]] [[s/_suggesting|suggesting]] [[p/_political|political]] [[o/_oration|oration]].**
 - **[[o/_one|One]] of three [[s/_small|small]] wooden [[p/_posts|posts]] which together with the [[b/_bails|bails]] [[m/_make|make]] the wicket and that the [[f/_fielding|fielding]] team [[a/_attempt|attempt]] to [[h/_hit|hit]] with the [[b/_ball|ball]].**
 - **([[d/_drawing|drawing]]) An [[a/_artists|artists]]’ [[d/_drawing|drawing]] tool [[m/_made|made]] of [[r/_rolled|rolled]] [[p/_paper|paper]] used to [[s/_smudge|smudge]] or [[b/_blend|blend]] [[m/_marks|marks]] [[m/_made|made]] with [[c/_charcoal|charcoal]], [[c/_cont|Cont]]é [[c/_crayon|crayon]], [[p/_pencil|pencil]] or [[o/_other|other]] [[d/_drawing|drawing]] [[m/_media|media]].**
 - **A wooden or [[c/_concrete|concrete]] [[p/_pole|pole]] used to support a [[h/_house|house]].**

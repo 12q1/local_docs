@@ -13,7 +13,7 @@
 ### Antonyms
 - [[e/_exclude|exclude]]
 #preposition
-- **Such as, [[a/_among|among]] which; [[i/_introducing|introducing]] [[o/_one|one]] or [[m/_more|more]] [[p/_parts|parts]] of the [[g/_group|group]] or topic [[j/_just|just]] [[m/_mentioned|mentioned]].**
+- **[[s/_such|Such]] as, [[a/_among|among]] which; [[i/_introducing|introducing]] [[o/_one|one]] or [[m/_more|more]] [[p/_parts|parts]] of the [[g/_group|group]] or topic [[j/_just|just]] [[m/_mentioned|mentioned]].**
 	- _Example: All you have to do is to fill in the details, including your name and address and the amount you wish to give._
 ---
 ---

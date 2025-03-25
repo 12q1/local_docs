@@ -5,7 +5,7 @@
 - **(in the [[p/_plural|plural]]) Trousers.**
 ---
 #adjective
-- **Not [[a/_admitting|admitting]] [[e/_ecclesiastical|ecclesiastical]] [[d/_dispensation|dispensation]]; not subject to [[r/_release|release]] or [[e/_exemption|exemption]]; that [[c/_cannot|cannot]] be [[a/_allowed|allowed]] by [[b/_bending|bending]] the [[c/_canonical|canonical]] [[r/_rules|rules]].**
+- **Not [[a/_admitting|admitting]] [[e/_ecclesiastical|ecclesiastical]] [[d/_dispensation|dispensation]]; not [[s/_subject|subject]] to [[r/_release|release]] or [[e/_exemption|exemption]]; that [[c/_cannot|cannot]] be [[a/_allowed|allowed]] by [[b/_bending|bending]] the [[c/_canonical|canonical]] [[r/_rules|rules]].**
 - **(of [[d/_duties|duties]], [[r/_rules|rules]] [[e/_etc|etc]].) Unbendable, that [[c/_cannot|cannot]] be [[s/_set|set]] [[a/_aside|aside]] or [[i/_ignored|ignored]].**
 	- _Example: The law was moral and indispensable. -Bp. Burnet_
 - **[[a/_absolutely|Absolutely]] [[n/_necessary|necessary]] or [[r/_requisite|requisite]]; that [[o/_one|one]] [[c/_cannot|cannot]] [[d/_do|do]] without.**

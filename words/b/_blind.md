@@ -5,14 +5,14 @@
 - **A [[d/_destination|destination]] [[s/_sign|sign]] [[m/_mounted|mounted]] on a [[p/_public|public]] transport vehicle [[d/_displaying|displaying]] the [[r/_route|route]] [[d/_destination|destination]], [[n/_number|number]], [[n/_name|name]] and/or via [[p/_points|points]], [[e/_etc|etc]].**
 - **[[a/_any|Any]] [[d/_device|device]] [[i/_intended|intended]] to [[c/_conceal|conceal]] or [[h/_hide|hide]].**
 	- _Example: a duck blind_
-- **[[s/_something|Something]] to [[m/_mislead|mislead]] the [[e/_eye|eye]] or the understanding, or to [[c/_conceal|conceal]] [[s/_some|some]] [[c/_covert|covert]] [[d/_deed|deed]] or [[d/_design|design]]; a subterfuge.**
+- **[[s/_something|Something]] to [[m/_mislead|mislead]] the [[e/_eye|eye]] or the understanding, or to [[c/_conceal|conceal]] [[s/_some|some]] [[c/_covert|covert]] [[d/_deed|deed]] or [[d/_design|design]]; a [[s/_subterfuge|subterfuge]].**
 - **A [[b/_blindage|blindage]].**
 - **A [[h/_halting|halting]] [[p/_place|place]].**
 - **The blindside.**
 - **(1800s) [[n/_no|No]] [[s/_score|score]].**
 - **A [[f/_forced|forced]] [[b/_bet|bet]]: the [[s/_small|small]] [[b/_blind|blind]] or the [[b/_big|big]] [[b/_blind|blind]].**
 	- _Example: The blinds are $10/$20 and the ante is $1._
-- **A [[p/_player|player]] who is [[f/_forced|forced]] to [[p/_pay|pay]] such a [[b/_bet|bet]].**
+- **A [[p/_player|player]] who is [[f/_forced|forced]] to [[p/_pay|pay]] [[s/_such|such]] a [[b/_bet|bet]].**
 	- _Example: The blinds immediately folded when I reraised._
 - **(as a [[p/_plural|plural]]) Those who are [[b/_blind|blind]], taken as a [[g/_group|group]].**
 ---

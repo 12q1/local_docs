@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[m/_memory|Memory]]; [[r/_recollection|recollection]].**
-- **[[s/_something|Something]], such as a [[m/_monument|monument]], by which [[s/_someone|someone]] or [[s/_something|something]] is [[r/_remembered|remembered]].**
+- **[[s/_something|Something]], [[s/_such|such]] as a [[m/_monument|monument]], by which [[s/_someone|someone]] or [[s/_something|something]] is [[r/_remembered|remembered]].**
 - **A [[c/_chronicle|chronicle]] or [[m/_memoir|memoir]].**
 - **A [[n/_note|note]] or [[m/_memorandum|memorandum]].**
 - **A [[s/_service|service]] of [[r/_remembrance|remembrance]] or [[c/_commemoration|commemoration]].**

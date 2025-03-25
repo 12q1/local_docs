@@ -5,7 +5,7 @@
 ---
 #noun
 - **An [[a/_association|association]] for the [[a/_advancement|advancement]] of [[l/_learning|learning]], [[p/_particularly|particularly]] in [[s/_science|science]] or [[l/_literature|literature]].**
-- **The [[r/_reading|reading]] [[r/_room|room]] or [[l/_library|library]] of such an [[a/_association|association]]; [[a/_any|any]] [[r/_reading|reading]] [[r/_room|room]] or [[l/_library|library]].**
+- **The [[r/_reading|reading]] [[r/_room|room]] or [[l/_library|library]] of [[s/_such|such]] an [[a/_association|association]]; [[a/_any|any]] [[r/_reading|reading]] [[r/_room|room]] or [[l/_library|library]].**
 - **A [[l/_literary|literary]] or [[s/_scientific|scientific]] [[p/_periodical|periodical]], [[e/_especially|especially]] [[o/_one|one]] [[s/_similar|similar]] to the [[l/_london|London]] [[a/_athenaeum|Athenaeum]].**
 ---
 ---

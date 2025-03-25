@@ -6,7 +6,7 @@
 - **In [[h/_humans|humans]], the [[l/_lower|lower]] [[l/_limb|limb]] [[e/_extending|extending]] from the [[g/_groin|groin]] to the [[a/_ankle|ankle]].**
 	- _Example: Dan won't be able to come to the party, since he broke his leg last week and is now on crutches._
 - **The [[p/_portion|portion]] of the [[l/_lower|lower]] [[l/_limb|limb]] of a [[h/_human|human]] that [[e/_extends|extends]] from the [[k/_knee|knee]] to the [[a/_ankle|ankle]].**
-- **A [[p/_part|part]] of [[g/_garment|garment]], such as a [[p/_pair|pair]] of trousers/[[p/_pants|pants]], that [[c/_covers|covers]] a [[l/_leg|leg]].**
+- **A [[p/_part|part]] of [[g/_garment|garment]], [[s/_such|such]] as a [[p/_pair|pair]] of trousers/[[p/_pants|pants]], that [[c/_covers|covers]] a [[l/_leg|leg]].**
 	- _Example: The left leg of these jeans has a tear._
 - **A [[r/_rod|rod]]-[[l/_like|like]] [[p/_protrusion|protrusion]] from an [[i/_inanimate|inanimate]] [[o/_object|object]], supporting it from underneath.**
 	- _Example: the legs of a chair or table_
@@ -19,7 +19,7 @@
 - **A [[s/_single|single]] [[g/_game|game]] or [[m/_match|match]] [[p/_played|played]] in a tournament or [[o/_other|other]] [[s/_sporting|sporting]] [[c/_contest|contest]].**
 - **[[o/_one|One]] of the two [[s/_sides|sides]] of a [[r/_right|right]] triangle that is not the [[h/_hypotenuse|hypotenuse]].**
 - **[[o/_one|One]] of the [[b/_branches|branches]] of a [[h/_hyperbola|hyperbola]] or [[o/_other|other]] [[c/_curve|curve]] which [[e/_extend|extend]] [[o/_outward|outward]] [[i/_indefinitely|indefinitely]].**
-- **(usually used in [[p/_plural|plural]]) The [[a/_ability|ability]] of [[s/_something|something]] to [[p/_persist|persist]] or succeed [[o/_over|over]] a [[l/_long|long]] [[p/_period|period]] of time.**
+- **(usually used in [[p/_plural|plural]]) The [[a/_ability|ability]] of [[s/_something|something]] to [[p/_persist|persist]] or [[s/_succeed|succeed]] [[o/_over|over]] a [[l/_long|long]] [[p/_period|period]] of time.**
 	- _Example: This proposal has no legs. Almost everyone opposes it._
 - **A [[d/_disreputable|disreputable]] [[s/_sporting|sporting]] [[c/_character|character]]; a [[b/_blackleg|blackleg]].**
 - **An [[e/_extension|extension]] of a [[s/_steam|steam]] [[b/_boiler|boiler]] [[d/_downward|downward]], in the [[f/_form|form]] of a [[n/_narrow|narrow]] [[s/_space|space]] [[b/_between|between]] vertical [[p/_plates|plates]], [[s/_sometimes|sometimes]] [[n/_nearly|nearly]] surrounding the [[f/_furnace|furnace]] and [[a/_ash|ash]] [[p/_pit|pit]], and [[s/_serving|serving]] to support the [[b/_boiler|boiler]]; [[c/_called|called]] [[a/_also|also]] water [[l/_leg|leg]].**
@@ -30,7 +30,7 @@
 - **A [[b/_branch|branch]] [[c/_circuit|circuit]]; [[o/_one|one]] [[p/_phase|phase]] of a [[p/_polyphase|polyphase]] [[s/_system|system]].**
 - **An underlying [[i/_instrument|instrument]] of a [[d/_derivatives|derivatives]] [[s/_strategy|strategy]].**
 - **An [[a/_army|army]] [[s/_soldier|soldier]] [[a/_assigned|assigned]] to a [[p/_paratrooper|paratrooper]] unit who [[h/_has|has]] not [[y/_yet|yet]] [[b/_been|been]] [[q/_qualified|qualified]] as a [[p/_paratrooper|paratrooper]].**
-- **A [[g/_gesture|gesture]] of submission; a [[b/_bow|bow]] or [[c/_curtsey|curtsey]]. [[c/_chiefly|Chiefly]] in [[p/_phrase|phrase]] [[m/_make|make]] a [[l/_leg|leg]].**
+- **A [[g/_gesture|gesture]] of [[s/_submission|submission]]; a [[b/_bow|bow]] or [[c/_curtsey|curtsey]]. [[c/_chiefly|Chiefly]] in [[p/_phrase|phrase]] [[m/_make|make]] a [[l/_leg|leg]].**
 ---
 ### Synonyms
 - [[c/_cathetus|cathetus]], [[o/_on|on]]

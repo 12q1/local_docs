@@ -14,7 +14,7 @@
 - **(of a [[p/_proposal|proposal]], [[p/_project|project]] or [[i/_idea|idea]]) To be [[a/_accepted|accepted]], [[c/_come|come]] [[a/_about|about]] or work [[o/_out|out]].**
 	- _Example: Let's see if that idea flies._
 - **To travel very [[f/_fast|fast]], [[h/_hasten|hasten]].**
-- **To [[m/_move|move]] suddenly, or with violence; to [[d/_do|do]] an [[a/_act|act]] suddenly or swiftly.**
+- **To [[m/_move|move]] [[s/_suddenly|suddenly]], or with violence; to [[d/_do|do]] an [[a/_act|act]] [[s/_suddenly|suddenly]] or swiftly.**
 	- _Example: a door flies open;  a bomb flies apart_
 - **To [[d/_display|display]] (a [[f/_flag|flag]]) on a [[f/_flagpole|flagpole]].**
 - **To [[h/_hunt|hunt]] with a [[h/_hawk|hawk]].**

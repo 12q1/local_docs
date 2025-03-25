@@ -1,7 +1,7 @@
 # Biff
 ---
 #noun
-- **A sudden, [[s/_sharp|sharp]] [[b/_blow|blow]] or [[p/_punch|punch]].**
+- **A [[s/_sudden|sudden]], [[s/_sharp|sharp]] [[b/_blow|blow]] or [[p/_punch|punch]].**
 - **A wipeout.**
 ---
 #verb

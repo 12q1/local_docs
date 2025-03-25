@@ -1,7 +1,7 @@
 # Consumptive
 ---
 #noun
-- **A [[p/_person|person]] suffering from [[p/_pulmonary|pulmonary]] tuberculosis.**
+- **A [[p/_person|person]] [[s/_suffering|suffering]] from [[p/_pulmonary|pulmonary]] tuberculosis.**
 ---
 #adjective
 - **[[h/_having|Having]] a tendency to [[c/_consume|consume]]; [[d/_dissipating|dissipating]]; [[d/_destructive|destructive]]; wasteful.**

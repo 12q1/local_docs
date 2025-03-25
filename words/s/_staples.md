@@ -1,7 +1,7 @@
 # Staples
 ---
 #noun
-- **A town [[c/_containing|containing]] [[m/_merchants|merchants]] who [[h/_have|have]] [[e/_exclusive|exclusive]] [[r/_right|right]], under [[r/_royal|royal]] [[a/_authority|authority]], to [[p/_purchase|purchase]] or [[p/_produce|produce]] [[c/_certain|certain]] [[g/_goods|goods]] for [[e/_export|export]]; [[a/_also|also]], the [[b/_body|body]] of such [[m/_merchants|merchants]] [[s/_seen|seen]] as a [[g/_group|group]].**
+- **A town [[c/_containing|containing]] [[m/_merchants|merchants]] who [[h/_have|have]] [[e/_exclusive|exclusive]] [[r/_right|right]], under [[r/_royal|royal]] [[a/_authority|authority]], to [[p/_purchase|purchase]] or [[p/_produce|produce]] [[c/_certain|certain]] [[g/_goods|goods]] for [[e/_export|export]]; [[a/_also|also]], the [[b/_body|body]] of [[s/_such|such]] [[m/_merchants|merchants]] [[s/_seen|seen]] as a [[g/_group|group]].**
 - **(by [[e/_extension|extension]]) [[p/_place|Place]] of supply; [[s/_source|source]].**
 - **The [[p/_principal|principal]] [[c/_commodity|commodity]] [[p/_produced|produced]] in a town or [[r/_region|region]].**
 - **A [[b/_basic|basic]] or [[e/_essential|essential]] supply.**
@@ -20,7 +20,7 @@
 	- _Example: Can you believe they use staples to hold cars together these days?_
 - **A U-[[s/_shaped|shaped]] [[m/_metal|metal]] [[f/_fastener|fastener]], used to [[a/_attach|attach]] [[f/_fence|fence]] wire or [[o/_other|other]] [[m/_material|material]] to [[p/_posts|posts]] or [[s/_structures|structures]].**
 	- _Example: The rancher used staples to attach the barbed wire to the fence-posts._
-- **[[o/_one|One]] of a [[s/_set|set]] of U-[[s/_shaped|shaped]] [[m/_metal|metal]] [[r/_rods|rods]] [[h/_hammered|hammered]] [[i/_into|into]] a [[s/_structure|structure]], such as a [[p/_piling|piling]] or wharf, which [[s/_serve|serve]] as a [[l/_ladder|ladder]].**
+- **[[o/_one|One]] of a [[s/_set|set]] of U-[[s/_shaped|shaped]] [[m/_metal|metal]] [[r/_rods|rods]] [[h/_hammered|hammered]] [[i/_into|into]] a [[s/_structure|structure]], [[s/_such|such]] as a [[p/_piling|piling]] or wharf, which [[s/_serve|serve]] as a [[l/_ladder|ladder]].**
 	- _Example: Fortunately, there were staples in the quay wall, and she was able to climb out of the water._
 - **A [[s/_shaft|shaft]], [[s/_smaller|smaller]] and [[s/_shorter|shorter]] than the [[p/_principal|principal]] [[o/_one|one]], [[j/_joining|joining]] [[d/_different|different]] [[l/_levels|levels]].**
 - **A [[s/_small|small]] [[p/_pit|pit]].**

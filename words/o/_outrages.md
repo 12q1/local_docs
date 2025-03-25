@@ -3,7 +3,7 @@
 #noun
 - **An [[e/_excessively|excessively]] violent or vicious [[a/_attack|attack]]; an [[a/_atrocity|atrocity]].**
 - **An [[o/_offensive|offensive]], [[i/_immoral|immoral]] or [[i/_indecent|indecent]] [[a/_act|act]].**
-- **The [[r/_resentful|resentful]] [[a/_anger|anger]] [[a/_aroused|aroused]] by such [[a/_acts|acts]].**
+- **The [[r/_resentful|resentful]] [[a/_anger|anger]] [[a/_aroused|aroused]] by [[s/_such|such]] [[a/_acts|acts]].**
 - **A [[d/_destructive|destructive]] [[r/_rampage|rampage]].**
 ---
 #verb

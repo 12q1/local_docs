@@ -9,7 +9,7 @@
 - **In a [[s/_state|state]] of [[c/_comfort|comfort]] and [[c/_content|content]].**
 	- _Example: What a great guestroom! I'll be quite comfortable here._
 - **[[c/_comforting|Comforting]], [[p/_providing|providing]] [[c/_comfort|comfort]]; [[c/_consolatory|consolatory]].**
-- **[[a/_amply|Amply]] sufficient, [[s/_satisfactory|satisfactory]].**
+- **[[a/_amply|Amply]] [[s/_sufficient|sufficient]], [[s/_satisfactory|satisfactory]].**
 	- _Example: A comfortable income should suffice to consider oneself rich._
 - **[[s/_strong|Strong]]; vigorous; valiant.**
 - **[[s/_serviceable|Serviceable]]; [[h/_helpful|helpful]].**

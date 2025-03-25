@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[c/_cancellation|cancellation]] or [[p/_postponement|postponement]] of a [[p/_punishment|punishment]].**
-- **A [[d/_document|document]] [[a/_authorizing|authorizing]] such an [[a/_action|action]].**
+- **A [[d/_document|document]] [[a/_authorizing|authorizing]] [[s/_such|such]] an [[a/_action|action]].**
 - **[[r/_relief|Relief]] from [[p/_pain|pain]] [[e/_etc|etc]]., [[e/_especially|especially]] temporary.**
 ---
 #verb

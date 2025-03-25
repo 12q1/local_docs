@@ -1,7 +1,7 @@
 # Floating
 ---
 #verb
-- **Of an [[o/_object|object]] or substance, to be supported by a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]] than the [[o/_object|object]] [[s/_so|so]] as that [[p/_part|part]] of the [[o/_object|object]] or substance [[r/_remains|remains]] [[a/_above|above]] the surface.**
+- **Of an [[o/_object|object]] or [[s/_substance|substance]], to be supported by a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]] than the [[o/_object|object]] [[s/_so|so]] as that [[p/_part|part]] of the [[o/_object|object]] or [[s/_substance|substance]] [[r/_remains|remains]] [[a/_above|above]] the surface.**
 	- _Example: The boat floated on the water._
 - **To [[c/_cause|cause]] [[s/_something|something]] to be suspended in a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]].**
 	- _Example: to float a boat_

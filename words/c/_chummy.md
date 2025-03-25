@@ -6,7 +6,7 @@
 - **A [[r/_roommate|roommate]], [[e/_especially|especially]] in a [[c/_college|college]] or university.**
 ---
 #noun
-- **A [[m/_mixture|mixture]] of ([[f/_frequently|frequently]] [[r/_rancid|rancid]]) [[f/_fish|fish]] [[p/_parts|parts]] and [[b/_blood|blood]], [[d/_dumped|dumped]] [[i/_into|into]] the water to [[a/_attract|attract]] [[p/_predator|predator]] [[f/_fish|fish]], such as [[s/_sharks|sharks]]**
+- **A [[m/_mixture|mixture]] of ([[f/_frequently|frequently]] [[r/_rancid|rancid]]) [[f/_fish|fish]] [[p/_parts|parts]] and [[b/_blood|blood]], [[d/_dumped|dumped]] [[i/_into|into]] the water to [[a/_attract|attract]] [[p/_predator|predator]] [[f/_fish|fish]], [[s/_such|such]] as [[s/_sharks|sharks]]**
 ---
 #noun
 - **A [[c/_coarse|coarse]] [[m/_mould|mould]] for [[h/_holding|holding]] the [[c/_clay|clay]] while [[b/_being|being]] worked on a whirler, [[l/_lathe|lathe]] or [[m/_manually|manually]].**

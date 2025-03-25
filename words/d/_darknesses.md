@@ -7,7 +7,7 @@
 - **The [[p/_product|product]] of [[b/_being|being]] [[d/_dark|dark]].**
 - **The [[s/_state|state]] or [[q/_quality|quality]] of [[r/_reflecting|reflecting]] [[l/_little|little]] [[l/_light|light]], of tending to a [[b/_blackish|blackish]] or [[b/_brownish|brownish]] [[c/_color|color]].**
 	- _Example: The darkness of her skin betrayed her Mediterranean heritage._
-- **[[e/_evilness|Evilness]], [[l/_lack|lack]] of understanding or [[c/_compassion|compassion]], [[r/_reference|reference]] to [[d/_death|death]] or suffering.**
+- **[[e/_evilness|Evilness]], [[l/_lack|lack]] of understanding or [[c/_compassion|compassion]], [[r/_reference|reference]] to [[d/_death|death]] or [[s/_suffering|suffering]].**
 ---
 ### Antonyms
 - [[l/_light|light]], [[l/_lightness|lightness]]

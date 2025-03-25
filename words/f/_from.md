@@ -13,7 +13,7 @@
 	- _Example: A parasol protects from the sun._
 - **[[i/_indicating|Indicating]] [[d/_differentiation|differentiation]].**
 	- _Example: He knows right from wrong._
-- **[[p/_produced|Produced]] with or [[o/_out|out]] of (a substance or [[m/_material|material]]).**
+- **[[p/_produced|Produced]] with or [[o/_out|out]] of (a [[s/_substance|substance]] or [[m/_material|material]]).**
 	- _Example: It's made from pure gold._
 - **Used to [[i/_indicate|indicate]] [[c/_causation|causation]]; [[b/_because|because]] of, as a [[r/_result|result]] of.**
 	- _Example: Too many people die from breast cancer._

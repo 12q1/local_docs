@@ -9,7 +9,7 @@
 #adjective
 - **[[h/_helping|Helping]]; [[g/_giving|giving]] [[a/_assistance|assistance]] or support.**
 	- _Example: auxiliary troops_
-- **Supplementary or subsidiary.**
+- **Supplementary or [[s/_subsidiary|subsidiary]].**
 - **[[h/_held|Held]] in [[r/_reserve|reserve]] for [[e/_exceptional|exceptional]] [[c/_circumstances|circumstances]].**
 - **Of a [[s/_ship|ship]], [[h/_having|having]] [[b/_both|both]] [[s/_sails|sails]] and an [[e/_engine|engine]].**
 - **([[g/_grammar|grammar]]) [[r/_relating|Relating]] to an [[a/_auxiliary|auxiliary]] verb.**

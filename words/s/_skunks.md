@@ -13,7 +13,7 @@
 - **(of [[b/_beer|beer]]) To [[g/_go|go]] [[b/_bad|bad]], to [[s/_spoil|spoil]].**
 ---
 #noun
-- **A [[m/_member|member]] of a [[h/_hybrid|hybrid]] [[s/_skinhead|skinhead]] and [[p/_punk|punk]] subculture.**
+- **A [[m/_member|member]] of a [[h/_hybrid|hybrid]] [[s/_skinhead|skinhead]] and [[p/_punk|punk]] [[s/_subculture|subculture]].**
 ---
 #noun
 - **[[a/_any|Any]] of the [[s/_strains|strains]] of [[h/_hybrids|hybrids]] of [[c/_cannabis|Cannabis]] [[s/_sativa|sativa]] and [[c/_cannabis|Cannabis]] indica that [[m/_may|may]] [[h/_have|have]] THC [[l/_levels|levels]] [[e/_exceeding|exceeding]] those of typical [[h/_hashish|hashish]].**

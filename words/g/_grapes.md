@@ -11,7 +11,7 @@
 #verb
 - **To [[p/_pick|pick]] [[g/_grapes|grapes]].**
 - **(of [[l/_livestock|livestock]]) To [[d/_develop|develop]] tubercules as a [[r/_result|result]] of tuberculosis.**
-- **To [[d/_develop|develop]] a texture with [[s/_small|small]] [[g/_grape|grape]]-[[l/_like|like]] [[c/_clusters|clusters]] of a [[c/_contaminant|contaminant]] or [[f/_foreign|foreign]] substance.**
+- **To [[d/_develop|develop]] a texture with [[s/_small|small]] [[g/_grape|grape]]-[[l/_like|like]] [[c/_clusters|clusters]] of a [[c/_contaminant|contaminant]] or [[f/_foreign|foreign]] [[s/_substance|substance]].**
 - **([[n/_north|north]]) To [[g/_grope|grope]].**
 ---
 ---

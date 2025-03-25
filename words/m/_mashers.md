@@ -6,7 +6,7 @@
 ---
 #noun
 - **A [[f/_fashionable|fashionable]] [[m/_man|man]] in the [[l/_late|late]] Victorian [[e/_era|era]].**
-- **A [[m/_man|man]] who [[m/_makes|makes]] [[o/_often|often]] unwelcome [[a/_advances|advances]] to women, as in a subway.**
+- **A [[m/_man|man]] who [[m/_makes|makes]] [[o/_often|often]] unwelcome [[a/_advances|advances]] to women, as in a [[s/_subway|subway]].**
 ---
 ### Synonyms
 - [[d/_dandy|dandy]], [[f/_fop|fop]]

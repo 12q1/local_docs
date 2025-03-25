@@ -6,7 +6,7 @@
 - **A [[s/_skirmish|skirmish]], a [[h/_hostile|hostile]] [[e/_encounter|encounter]].**
 - **A [[m/_match|match]]; a [[g/_game|game]] [[b/_between|between]] two [[s/_sides|sides]].**
 - **An [[a/_angry|angry]] [[a/_argument|argument]]**
-- **[[o/_opposition|Opposition]]; [[c/_contradiction|contradiction]]; such as [[b/_between|between]] [[d/_differing|differing]] or [[c/_contending|contending]] [[i/_interests|interests]], views, [[p/_purposes|purposes]] [[e/_etc|etc]].**
+- **[[o/_opposition|Opposition]]; [[c/_contradiction|contradiction]]; [[s/_such|such]] as [[b/_between|between]] [[d/_differing|differing]] or [[c/_contending|contending]] [[i/_interests|interests]], views, [[p/_purposes|purposes]] [[e/_etc|etc]].**
 	- _Example: a clash of beliefs_
 - **A [[c/_combination|combination]] of [[g/_garments|garments]] that [[d/_do|do]] not [[l/_look|look]] [[g/_good|good]] together, [[e/_especially|especially]] [[b/_because|because]] of [[c/_conflicting|conflicting]] [[c/_colours|colours]].**
 	- _Example: She was wearing a horrible clash of red and orange._

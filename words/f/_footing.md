@@ -9,7 +9,7 @@
 	- _Example: to foot the green_
 - **To [[s/_set|set]] on [[f/_foot|foot]]; to [[e/_establish|establish]]; to [[l/_land|land]].**
 - **To [[r/_renew|renew]] the [[f/_foot|foot]] of (a [[s/_stocking|stocking]], [[e/_etc|etc]].).**
-- **To sum up, as the [[n/_numbers|numbers]] in a [[c/_column|column]]; [[s/_sometimes|sometimes]] with up.**
+- **To [[s/_sum|sum]] up, as the [[n/_numbers|numbers]] in a [[c/_column|column]]; [[s/_sometimes|sometimes]] with up.**
 	- _Example: to foot (or foot up) an account_
 ---
 #noun
@@ -19,7 +19,7 @@
 - **A tread; [[s/_step|step]]; [[e/_especially|especially]], [[m/_measured|measured]] tread.**
 - **A [[f/_footprint|footprint]] or [[f/_footprints|footprints]]; tracks, [[s/_someone|someone]]'[[s/_s|s]] trail.**
 - **[[s/_stability|Stability]] or [[b/_balance|balance]] when [[s/_standing|standing]] on [[o/_one|one]]'[[s/_s|s]] [[f/_feet|feet]]**
-- **The [[a/_act|act]] of [[a/_adding|adding]] up a [[c/_column|column]] of [[f/_figures|figures]]; the [[a/_amount|amount]] or sum total of such a [[c/_column|column]].**
+- **The [[a/_act|act]] of [[a/_adding|adding]] up a [[c/_column|column]] of [[f/_figures|figures]]; the [[a/_amount|amount]] or [[s/_sum|sum]] total of [[s/_such|such]] a [[c/_column|column]].**
 - **The [[a/_act|act]] of [[p/_putting|putting]] a [[f/_foot|foot]] to [[a/_anything|anything]]; [[a/_also|also]], that which is [[a/_added|added]] as a [[f/_foot|foot]]**
 - **A [[n/_narrow|narrow]] [[c/_cotton|cotton]] [[l/_lace|lace]], without [[f/_figures|figures]].**
 - **The [[f/_finer|finer]] [[r/_refuse|refuse]] [[p/_part|part]] of whale [[b/_blubber|blubber]], not wholly [[d/_deprived|deprived]] of [[o/_oil|oil]].**

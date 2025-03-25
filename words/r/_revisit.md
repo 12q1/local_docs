@@ -1,7 +1,7 @@
 # Revisit
 ---
 #noun
-- **An [[a/_act|act]] of [[r/_revisiting|revisiting]]; a [[s/_second|second]] or subsequent visit.**
+- **An [[a/_act|act]] of [[r/_revisiting|revisiting]]; a [[s/_second|second]] or [[s/_subsequent|subsequent]] visit.**
 ---
 #verb
 - **To visit [[a/_again|again]].**

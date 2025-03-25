@@ -1,7 +1,7 @@
 # Bogged
 ---
 #verb
-- **([[n/_now|now]] [[o/_often|often]] with "[[d/_down|down]]") To [[s/_sink|sink]] or submerge [[s/_someone|someone]] or [[s/_something|something]] [[i/_into|into]] [[b/_bogland|bogland]].**
+- **([[n/_now|now]] [[o/_often|often]] with "[[d/_down|down]]") To [[s/_sink|sink]] or [[s/_submerge|submerge]] [[s/_someone|someone]] or [[s/_something|something]] [[i/_into|into]] [[b/_bogland|bogland]].**
 - **To [[p/_prevent|prevent]] or [[s/_slow|slow]] [[s/_someone|someone]] or [[s/_something|something]] from [[m/_making|making]] [[p/_progress|progress]].**
 - **([[n/_now|now]] [[o/_often|often]] with "[[d/_down|down]]") To [[s/_sink|sink]] and [[s/_stick|stick]] in [[b/_bogland|bogland]].**
 - **To be [[p/_prevented|prevented]] or [[i/_impeded|impeded]] from [[m/_making|making]] [[p/_progress|progress]], to [[b/_become|become]] [[s/_stuck|stuck]].**

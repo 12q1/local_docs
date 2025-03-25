@@ -13,7 +13,7 @@
 	- _Example: The containers load quickly and easily._
 - **To [[f/_fill|fill]] (a [[f/_firearm|firearm]] or [[a/_artillery|artillery]]) with [[m/_munition|munition]].**
 	- _Example: I pulled the trigger, but nothing happened. I had forgotten to load the gun._
-- **To [[i/_insert|insert]] (an [[i/_item|item]] or [[i/_items|items]]) [[i/_into|into]] an [[a/_apparatus|apparatus]] [[s/_so|so]] as to [[r/_ready|ready]] it for [[o/_operation|operation]], such as a [[r/_reel|reel]] of [[f/_film|film]] [[i/_into|into]] a [[c/_camera|camera]], [[s/_sheets|sheets]] of [[p/_paper|paper]] [[i/_into|into]] a [[p/_printer|printer]] [[e/_etc|etc]].**
+- **To [[i/_insert|insert]] (an [[i/_item|item]] or [[i/_items|items]]) [[i/_into|into]] an [[a/_apparatus|apparatus]] [[s/_so|so]] as to [[r/_ready|ready]] it for [[o/_operation|operation]], [[s/_such|such]] as a [[r/_reel|reel]] of [[f/_film|film]] [[i/_into|into]] a [[c/_camera|camera]], [[s/_sheets|sheets]] of [[p/_paper|paper]] [[i/_into|into]] a [[p/_printer|printer]] [[e/_etc|etc]].**
 	- _Example: Now that you've loaded the camera [with film], you're ready to start shooting._
 - **To [[f/_fill|fill]] (an [[a/_apparatus|apparatus]]) with [[r/_raw|raw]] [[m/_material|material]].**
 	- _Example: The workers loaded the blast furnace with coke and ore._
@@ -42,7 +42,7 @@
 	- _Example: The loading of hazardous cargoes is not permitted._
 - **A [[l/_load|load]], [[e/_especially|especially]] in the [[e/_engineering|engineering]] and [[e/_electrical|electrical]] [[e/_engineering|engineering]] [[s/_senses|senses]] of [[f/_force|force]] [[e/_exerted|exerted]], or [[e/_electrical|electrical]] [[c/_current|current]] or [[p/_power|power]] supplied.**
 	- _Example: I need to recheck the loadings on the external walls._
-- **([[i/_industrial|industrial]] [[r/_relations|relations]]) A [[h/_hourly|hourly]] [[p/_pay|pay]] [[r/_rate|rate]] [[g/_given|given]] to a [[c/_casual|casual]] [[e/_employee|employee]] which is [[h/_higher|higher]] than the [[e/_equivalent|equivalent]] [[f/_full|full]]-time or [[p/_part|part]]-time [[e/_employee|employee]]'[[s/_s|s]] [[r/_rate|rate]], usually [[p/_paid|paid]] to [[c/_compensate|compensate]] for a [[l/_lack|lack]] of [[b/_benefits|benefits]] such as [[s/_sick|sick]] [[l/_leave|leave]] or [[a/_annual|annual]] [[l/_leave|leave]].**
+- **([[i/_industrial|industrial]] [[r/_relations|relations]]) A [[h/_hourly|hourly]] [[p/_pay|pay]] [[r/_rate|rate]] [[g/_given|given]] to a [[c/_casual|casual]] [[e/_employee|employee]] which is [[h/_higher|higher]] than the [[e/_equivalent|equivalent]] [[f/_full|full]]-time or [[p/_part|part]]-time [[e/_employee|employee]]'[[s/_s|s]] [[r/_rate|rate]], usually [[p/_paid|paid]] to [[c/_compensate|compensate]] for a [[l/_lack|lack]] of [[b/_benefits|benefits]] [[s/_such|such]] as [[s/_sick|sick]] [[l/_leave|leave]] or [[a/_annual|annual]] [[l/_leave|leave]].**
 - **A weighting or [[b/_bias|bias]].**
 ---
 ---

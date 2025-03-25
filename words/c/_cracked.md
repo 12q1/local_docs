@@ -37,7 +37,7 @@
 	- _Example: The performance was fine until he cracked that dead baby joke._
 - **To [[b/_break|break]] [[d/_down|down]] (a [[c/_complex|complex]] [[m/_molecule|molecule]]), [[e/_especially|especially]] with the [[a/_application|application]] of [[h/_heat|heat]]: to [[p/_pyrolyse|pyrolyse]].**
 	- _Example: Acetone is cracked to ketene and methane at 700°C._
-- **To [[c/_circumvent|circumvent]] [[s/_software|software]] [[r/_restrictions|restrictions]] such as [[r/_regional|regional]] [[c/_coding|coding]] or time [[l/_limits|limits]].**
+- **To [[c/_circumvent|circumvent]] [[s/_software|software]] [[r/_restrictions|restrictions]] [[s/_such|such]] as [[r/_regional|regional]] [[c/_coding|coding]] or time [[l/_limits|limits]].**
 	- _Example: That software licence will expire tomorrow unless we can crack it._
 - **To [[o/_open|open]] a [[c/_canned|canned]] [[b/_beverage|beverage]], or [[a/_any|any]] [[p/_packaged|packaged]] [[d/_drink|drink]] or [[f/_food|food]].**
 	- _Example: I'd love to crack open a beer._

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A very [[y/_young|young]] [[h/_human|human]], [[p/_particularly|particularly]] from [[b/_birth|birth]] to a [[c/_couple|couple]] of [[y/_years|years]] [[o/_old|old]] or until walking is [[f/_fully|fully]] [[m/_mastered|mastered]].**
-- **[[a/_any|Any]] very [[y/_young|young]] [[a/_animal|animal]], [[e/_especially|especially]] a vertebrate; [[m/_many|many]] [[s/_species|species]] [[h/_have|have]] [[s/_specific|specific]] [[n/_names|names]] for their [[b/_babies|babies]], such as [[k/_kittens|kittens]] for the [[b/_babies|babies]] of [[c/_cats|cats]], [[p/_puppies|puppies]] for the [[b/_babies|babies]] of [[d/_dogs|dogs]], and [[c/_chickens|chickens]] for the [[b/_babies|babies]] of [[b/_birds|birds]]. [[s/_see|See]] for [[m/_more|more]].**
+- **[[a/_any|Any]] very [[y/_young|young]] [[a/_animal|animal]], [[e/_especially|especially]] a vertebrate; [[m/_many|many]] [[s/_species|species]] [[h/_have|have]] [[s/_specific|specific]] [[n/_names|names]] for their [[b/_babies|babies]], [[s/_such|such]] as [[k/_kittens|kittens]] for the [[b/_babies|babies]] of [[c/_cats|cats]], [[p/_puppies|puppies]] for the [[b/_babies|babies]] of [[d/_dogs|dogs]], and [[c/_chickens|chickens]] for the [[b/_babies|babies]] of [[b/_birds|birds]]. [[s/_see|See]] for [[m/_more|more]].**
 - **Unborn [[y/_young|young]]; a [[f/_fetus|fetus]].**
 	- _Example: When is your baby due?_
 - **A [[p/_person|person]] who is [[i/_immature|immature]], [[i/_infantile|infantile]] or [[f/_feeble|feeble]].**

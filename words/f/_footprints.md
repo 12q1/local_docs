@@ -1,7 +1,7 @@
 # Footprints
 ---
 #noun
-- **The [[i/_impression|impression]] of the [[f/_foot|foot]] in a [[s/_soft|soft]] substance such as [[s/_sand|sand]] or [[s/_snow|snow]].**
+- **The [[i/_impression|impression]] of the [[f/_foot|foot]] in a [[s/_soft|soft]] [[s/_substance|substance]] [[s/_such|such]] as [[s/_sand|sand]] or [[s/_snow|snow]].**
 - **[[s/_space|Space]] [[r/_required|required]] by a [[p/_piece|piece]] of [[e/_equipment|equipment]].**
 	- _Example: This computer has a smaller footprint._
 - **The [[a/_amount|amount]] of [[h/_hard|hard]] [[d/_drive|drive]] [[s/_space|space]] [[r/_required|required]] for a [[p/_program|program]].**

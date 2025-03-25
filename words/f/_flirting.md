@@ -1,7 +1,7 @@
 # Flirting
 ---
 #verb
-- **To throw ([[s/_something|something]]) with a [[j/_jerk|jerk]] or sudden [[m/_movement|movement]]; to [[f/_fling|fling]].**
+- **To throw ([[s/_something|something]]) with a [[j/_jerk|jerk]] or [[s/_sudden|sudden]] [[m/_movement|movement]]; to [[f/_fling|fling]].**
 	- _Example: They flirt water in each other's faces._
 - **To [[j/_jeer|jeer]] at; to [[m/_mock|mock]].**
 - **To [[d/_dart|dart]] [[a/_about|about]]; to [[m/_move|move]] with [[q/_quick|quick]], [[j/_jerky|jerky]] [[m/_motions|motions]].**

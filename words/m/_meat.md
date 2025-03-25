@@ -12,7 +12,7 @@
 - **[[a/_any|Any]] [[r/_relatively|relatively]] thick, [[s/_solid|solid]] [[p/_part|part]] of a [[f/_fruit|fruit]], [[n/_nut|nut]] [[e/_etc|etc]].**
 	- _Example: The apple looked fine on the outside, but the meat was not very firm._
 - **A [[p/_penis|penis]].**
-- **The [[b/_best|best]] or [[m/_most|most]] substantial [[p/_part|part]] of [[s/_something|something]].**
+- **The [[b/_best|best]] or [[m/_most|most]] [[s/_substantial|substantial]] [[p/_part|part]] of [[s/_something|something]].**
 	- _Example: We recruited him right from the meat of our competitor._
 - **The sweet [[s/_spot|spot]] of a [[b/_bat|bat]] or [[c/_club|club]] (in [[c/_cricket|cricket]], [[g/_golf|golf]], [[b/_baseball|baseball]] [[e/_etc|etc]].).**
 	- _Example: He hit it right on the meat of the bat._

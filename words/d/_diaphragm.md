@@ -8,7 +8,7 @@
 - **([[a/_acoustics|acoustics]]) In a [[s/_speaker|speaker]], the thin, [[s/_semi|semi]]-[[r/_rigid|rigid]] [[m/_membrane|membrane]] which vibrates to [[p/_produce|produce]] [[s/_sound|sound]].**
 - **A thin [[o/_opaque|opaque]] [[s/_structure|structure]] with a [[c/_central|central]] [[a/_aperture|aperture]], used to [[l/_limit|limit]] the [[p/_passage|passage]] of [[l/_light|light]] [[i/_into|into]] a [[c/_camera|camera]] or [[s/_similar|similar]] [[d/_device|device]].**
 - **A [[p/_permeable|permeable]] or [[s/_semipermeable|semipermeable]] [[m/_membrane|membrane]].**
-- **A [[f/_floor|floor]] [[s/_slab|slab]], [[m/_metal|metal]] wall [[p/_panel|panel]], [[r/_roof|roof]] [[p/_panel|panel]] or the [[l/_like|like]], [[h/_having|having]] a sufficiently [[l/_large|large]] in-[[p/_plane|plane]] [[s/_shear|shear]] [[s/_stiffness|stiffness]] and sufficient [[s/_strength|strength]] to transmit [[h/_horizontal|horizontal]] [[f/_forces|forces]] to [[r/_resisting|resisting]] [[s/_systems|systems]].**
+- **A [[f/_floor|floor]] [[s/_slab|slab]], [[m/_metal|metal]] wall [[p/_panel|panel]], [[r/_roof|roof]] [[p/_panel|panel]] or the [[l/_like|like]], [[h/_having|having]] a [[s/_sufficiently|sufficiently]] [[l/_large|large]] in-[[p/_plane|plane]] [[s/_shear|shear]] [[s/_stiffness|stiffness]] and [[s/_sufficient|sufficient]] [[s/_strength|strength]] to transmit [[h/_horizontal|horizontal]] [[f/_forces|forces]] to [[r/_resisting|resisting]] [[s/_systems|systems]].**
 ---
 #verb
 - **To [[r/_reduce|reduce]] [[l/_lens|lens]] [[a/_aperture|aperture]] using an [[o/_optical|optical]] [[d/_diaphragm|diaphragm]].**

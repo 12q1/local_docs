@@ -18,6 +18,6 @@
 ### Synonyms
 - [[b/_blow|blow]], [[s/_suck|suck]], [[f/_fishy|fishy]], [[p/_pong|pong]], [[r/_reek|reek]]
 #noun
-- **[[c/_chemistry|Chemistry]] (as a subject taught in [[s/_school|school]])**
+- **[[c/_chemistry|Chemistry]] (as a [[s/_subject|subject]] taught in [[s/_school|school]])**
 ---
 ---

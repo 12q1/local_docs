@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_cat|cat]].**
-- **An [[a/_affectionate|affectionate]] term for a woman or [[g/_girl|girl]], [[s/_seen|seen]] as [[h/_having|having]] [[c/_characteristics|characteristics]] [[a/_associated|associated]] with [[c/_cats|cats]] such as sweetness.**
+- **An [[a/_affectionate|affectionate]] term for a woman or [[g/_girl|girl]], [[s/_seen|seen]] as [[h/_having|having]] [[c/_characteristics|characteristics]] [[a/_associated|associated]] with [[c/_cats|cats]] [[s/_such|such]] as sweetness.**
 - **The [[f/_female|female]] [[g/_genitalia|genitalia]]; the vulva and/or vagina.**
 	- _Example: You have a lovely pussy!_
 - **[[a/_anything|Anything]] [[s/_soft|soft]] and [[f/_furry|furry]]; a [[b/_bloom|bloom]] [[f/_form|form]], or [[c/_catkin|catkin]], as on the [[p/_pussy|pussy]] willow.**

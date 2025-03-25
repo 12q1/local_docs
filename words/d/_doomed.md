@@ -9,7 +9,7 @@
 - **To [[a/_assess|assess]] a tax upon, by [[e/_estimate|estimate]] or at [[d/_discretion|discretion]].**
 ---
 #adjective
-- **[[a/_assured|Assured]] to suffer [[d/_death|death]], [[f/_failure|failure]], or a [[s/_similarly|similarly]] [[n/_negative|negative]] [[o/_outcome|outcome]].**
+- **[[a/_assured|Assured]] to [[s/_suffer|suffer]] [[d/_death|death]], [[f/_failure|failure]], or a [[s/_similarly|similarly]] [[n/_negative|negative]] [[o/_outcome|outcome]].**
 ---
 ### Antonyms
 - [[b/_blessed|blessed]]

@@ -10,7 +10,7 @@
 	- _Example: to bespeak a calm hearing;  I bespeak your patience in advance._
 - **To [[f/_forbode|forbode]]; [[f/_foretell|foretell]].**
 - **To [[s/_speak|speak]] to; [[a/_address|address]].**
-- **To [[b/_betoken|betoken]]; [[s/_show|show]]; [[i/_indicate|indicate]]; [[f/_foretell|foretell]]; suggest; [[a/_allude|allude]] to.**
+- **To [[b/_betoken|betoken]]; [[s/_show|show]]; [[i/_indicate|indicate]]; [[f/_foretell|foretell]]; [[s/_suggest|suggest]]; [[a/_allude|allude]] to.**
 	- _Example: This act bespeaks his kindness._
 - **To [[s/_speak|speak]] up or [[o/_out|out]]; [[e/_exclaim|exclaim]]; [[s/_speak|speak]].**
 ---

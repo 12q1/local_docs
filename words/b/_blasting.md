@@ -4,7 +4,7 @@
 - **To [[m/_make|make]] an [[i/_impression|impression]] on, by [[m/_making|making]] a [[l/_loud|loud]] [[b/_blast|blast]] or [[d/_din|din]].**
 - **To [[m/_make|make]] a [[l/_loud|loud]] [[n/_noise|noise]].**
 - **To [[s/_shatter|shatter]], as [[i/_if|if]] by an [[e/_explosion|explosion]].**
-- **To [[o/_open|open]] up a [[h/_hole|hole]] in, usually by [[m/_means|means]] of a sudden and [[i/_imprecise|imprecise]] [[m/_method|method]] (such as an [[e/_explosion|explosion]]).**
+- **To [[o/_open|open]] up a [[h/_hole|hole]] in, usually by [[m/_means|means]] of a [[s/_sudden|sudden]] and [[i/_imprecise|imprecise]] [[m/_method|method]] ([[s/_such|such]] as an [[e/_explosion|explosion]]).**
 	- _Example: Blast right through it._
 - **To [[c/_curse|curse]]; to [[d/_damn|damn]].**
 	- _Example: Blast it! Foiled again._

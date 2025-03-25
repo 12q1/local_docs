@@ -9,6 +9,6 @@
 ### Antonyms
 - [[e/_encode|encode]]
 #noun
-- **An [[i/_instance|instance]] of the translation of [[s/_something|something]] [[i/_into|into]] a [[f/_form|form]] [[m/_more|more]] suitable for subsequent [[p/_processing|processing]].**
+- **An [[i/_instance|instance]] of the translation of [[s/_something|something]] [[i/_into|into]] a [[f/_form|form]] [[m/_more|more]] [[s/_suitable|suitable]] for [[s/_subsequent|subsequent]] [[p/_processing|processing]].**
 ---
 ---

@@ -29,7 +29,7 @@
 - **[[s/_secretive|Secretive]]; [[r/_reserved|reserved]].**
 	- _Example: He is a very private person._
 - **(of a [[r/_room|room]] in a [[m/_medical|medical]] [[f/_facility|facility]]) Not [[s/_shared|shared]] with [[a/_another|another]] [[p/_patient|patient]].**
-- **[[a/_accessible|Accessible]] [[o/_only|only]] to the [[c/_class|class]] [[i/_itself|itself]] or [[i/_instances|instances]] of it, and not to [[o/_other|other]] [[c/_classes|classes]] or [[e/_even|even]] subclasses.**
+- **[[a/_accessible|Accessible]] [[o/_only|only]] to the [[c/_class|class]] [[i/_itself|itself]] or [[i/_instances|instances]] of it, and not to [[o/_other|other]] [[c/_classes|classes]] or [[e/_even|even]] [[s/_subclasses|subclasses]].**
 ---
 ### Synonyms
 - [[s/_secret|secret]], [[p/_personal|personal]], [[s/_secluded|secluded]]

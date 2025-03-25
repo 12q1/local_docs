@@ -14,7 +14,7 @@
 - **[[m/_making|Making]] [[l/_light|light]] by [[a/_aeration|aeration]].**
 ---
 #noun
-- **[[a/_any|Any]] [[o/_organism|organism]] or substance [[a/_added|added]] to a [[f/_food|food]] [[p/_product|product]] (such as [[d/_dough|dough]] or [[b/_batter|batter]]) that [[m/_makes|makes]] it [[r/_rise|rise]] when [[c/_cooked|cooked]].**
+- **[[a/_any|Any]] [[o/_organism|organism]] or [[s/_substance|substance]] [[a/_added|added]] to a [[f/_food|food]] [[p/_product|product]] ([[s/_such|such]] as [[d/_dough|dough]] or [[b/_batter|batter]]) that [[m/_makes|makes]] it [[r/_rise|rise]] when [[c/_cooked|cooked]].**
 ---
 ### Synonyms
 - [[l/_leaven|leaven]], [[l/_leavening|leavening]]

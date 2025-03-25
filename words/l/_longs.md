@@ -8,7 +8,7 @@
 - **An [[e/_entity|entity]] with a [[l/_long|long]] [[p/_position|position]] in an [[a/_asset|asset]].**
 	- _Example: Every uptick made the longs cheer._
 - **A [[l/_long|long]]-term [[i/_investment|investment]].**
-- **The [[l/_long|long]] summer vacation at the [[e/_english|English]] universities.**
+- **The [[l/_long|long]] [[s/_summer|summer]] vacation at the [[e/_english|English]] universities.**
 ---
 #verb
 - **To take a [[l/_long|long]] [[p/_position|position]] in.**

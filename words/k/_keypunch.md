@@ -5,6 +5,6 @@
 - **An [[e/_electric|electric]] [[m/_machine|machine]] with a [[k/_keyboard|keyboard]] that [[h/_has|has]] the [[s/_same|same]] [[f/_function|function]].**
 ---
 #verb
-- **To use such a [[d/_device|device]] or [[m/_machine|machine]]**
+- **To use [[s/_such|such]] a [[d/_device|device]] or [[m/_machine|machine]]**
 ---
 ---

@@ -7,7 +7,7 @@
 	- _Example: The gutters must be cleared of leaves a few times a year._
 - **A [[g/_groove|groove]] [[d/_down|down]] the [[s/_sides|sides]] of a [[b/_bowling|bowling]] [[l/_lane|lane]].**
 - **A [[l/_large|large]] [[g/_groove|groove]] ([[c/_commonly|commonly]] [[b/_behind|behind]] [[a/_animals|animals]]) in a [[b/_barn|barn]] used for the [[c/_collection|collection]] and [[r/_removal|removal]] of [[a/_animal|animal]] [[e/_excrement|excrement]].**
-- **[[a/_any|Any]] [[n/_narrow|narrow]] [[c/_channel|channel]] or [[g/_groove|groove]], such as [[o/_one|one]] [[f/_formed|formed]] by [[e/_erosion|erosion]] in the vent of a [[g/_gun|gun]] from [[r/_repeated|repeated]] [[f/_firing|firing]].**
+- **[[a/_any|Any]] [[n/_narrow|narrow]] [[c/_channel|channel]] or [[g/_groove|groove]], [[s/_such|such]] as [[o/_one|one]] [[f/_formed|formed]] by [[e/_erosion|erosion]] in the vent of a [[g/_gun|gun]] from [[r/_repeated|repeated]] [[f/_firing|firing]].**
 - **A [[s/_space|space]] [[b/_between|between]] [[p/_printed|printed]] [[c/_columns|columns]] of text.**
 - **[[o/_one|One]] of a [[n/_number|number]] of [[p/_pieces|pieces]] of wood or [[m/_metal|metal]], [[g/_grooved|grooved]] in the [[c/_centre|centre]], used to [[s/_separate|separate]] the [[p/_pages|pages]] of type in a [[f/_form|form]].**
 - **An unprinted [[s/_space|space]] [[b/_between|between]] [[r/_rows|rows]] of [[s/_stamps|stamps]].**

@@ -13,7 +13,7 @@
 	- _Example: That was a good call._
 - **The [[c/_characteristic|characteristic]] [[c/_cry|cry]] of a [[b/_bird|bird]] or [[o/_other|other]] [[a/_animal|animal]].**
 	- _Example: That sound is the distinctive call of the cuckoo bird._
-- **A [[b/_beckoning|beckoning]] or summoning.**
+- **A [[b/_beckoning|beckoning]] or [[s/_summoning|summoning]].**
 	- _Example: I had to yield to the call of the wild._
 - **The [[r/_right|right]] to [[s/_speak|speak]] at a [[g/_given|given]] time [[d/_during|during]] a [[d/_debate|debate]] or [[o/_other|other]] [[p/_public|public]] [[e/_event|event]]; the [[f/_floor|floor]].**
 	- _Example: I give the call to the Manager of Opposition Business._
@@ -21,12 +21,12 @@
 - **The [[a/_act|act]] of [[c/_calling|calling]] to the [[o/_other|other]] [[b/_batsman|batsman]].**
 - **The [[s/_state|state]] of [[b/_being|being]] the [[b/_batsman|batsman]] whose [[r/_role|role]] it is to [[c/_call|call]] ([[d/_depends|depends]] on where the [[b/_ball|ball]] [[g/_goes|goes]].)**
 - **A work [[s/_shift|shift]] which [[r/_requires|requires]] [[o/_one|one]] to be [[a/_available|available]] when [[r/_requested|requested]] ([[s/_see|see]] on [[c/_call|call]]).**
-- **The [[a/_act|act]] of [[j/_jumping|jumping]] to a subprogram, [[s/_saving|saving]] the [[m/_means|means]] to [[r/_return|return]] to the [[o/_original|original]] [[p/_point|point]].**
-- **A [[s/_statement|statement]] of a [[p/_particular|particular]] [[s/_state|state]], or [[r/_rule|rule]], [[m/_made|made]] in [[m/_many|many]] [[g/_games|games]] such as [[b/_bridge|bridge]], [[c/_craps|craps]], [[j/_jacks|jacks]], and [[s/_so|so]] on.**
+- **The [[a/_act|act]] of [[j/_jumping|jumping]] to a [[s/_subprogram|subprogram]], [[s/_saving|saving]] the [[m/_means|means]] to [[r/_return|return]] to the [[o/_original|original]] [[p/_point|point]].**
+- **A [[s/_statement|statement]] of a [[p/_particular|particular]] [[s/_state|state]], or [[r/_rule|rule]], [[m/_made|made]] in [[m/_many|many]] [[g/_games|games]] [[s/_such|such]] as [[b/_bridge|bridge]], [[c/_craps|craps]], [[j/_jacks|jacks]], and [[s/_so|so]] on.**
 	- _Example: There was a 20 dollar bet on the table, and my call was 9._
 - **The [[a/_act|act]] of [[m/_matching|matching]] a [[b/_bet|bet]] [[m/_made|made]] by a [[p/_player|player]] who [[h/_has|has]] [[p/_previously|previously]] [[b/_bet|bet]] in the [[s/_same|same]] [[r/_round|round]] of [[b/_betting|betting]].**
 - **A [[n/_note|note]] [[b/_blown|blown]] on the [[h/_horn|horn]] to [[e/_encourage|encourage]] the [[d/_dogs|dogs]] in a [[h/_hunt|hunt]].**
-- **A whistle or [[p/_pipe|pipe]], used by the [[b/_boatswain|boatswain]] and [[h/_his|his]] [[m/_mate|mate]] to summon the [[s/_sailors|sailors]] to [[d/_duty|duty]].**
+- **A whistle or [[p/_pipe|pipe]], used by the [[b/_boatswain|boatswain]] and [[h/_his|his]] [[m/_mate|mate]] to [[s/_summon|summon]] the [[s/_sailors|sailors]] to [[d/_duty|duty]].**
 - **A [[p/_pipe|pipe]] or [[o/_other|other]] [[i/_instrument|instrument]] to [[c/_call|call]] [[b/_birds|birds]] or [[a/_animals|animals]] by [[i/_imitating|imitating]] their [[n/_note|note]] or [[c/_cry|cry]]. A [[g/_game|game]] [[c/_call|call]].**
 - **An [[i/_invitation|invitation]] to take [[c/_charge|charge]] of or [[s/_serve|serve]] a [[c/_church|church]] as [[i/_its|its]] [[p/_pastor|pastor]].**
 - **Vocation; [[e/_employment|employment]]; [[c/_calling|calling]].**

@@ -1,7 +1,7 @@
 # Straight
 ---
 #noun
-- **[[s/_something|Something]] that is not [[c/_crooked|crooked]] or [[b/_bent|bent]] such as a [[p/_part|part]] of a [[r/_road|road]] or track.**
+- **[[s/_something|Something]] that is not [[c/_crooked|crooked]] or [[b/_bent|bent]] [[s/_such|such]] as a [[p/_part|part]] of a [[r/_road|road]] or track.**
 - **[[f/_five|Five]] [[c/_cards|cards]] in [[s/_sequence|sequence]].**
 - **A [[h/_heterosexual|heterosexual]].**
 	- _Example: My friends call straights "heteros"._
@@ -47,7 +47,7 @@
 ### Antonyms
 - [[b/_bent|bent]], [[c/_crooked|crooked]], [[c/_curved|curved]]
 #adverb
-- **Of a [[d/_direction|direction]] [[r/_relative|relative]] to the subject, [[p/_precisely|precisely]]; as [[i/_if|if]] [[f/_following|following]] a [[d/_direct|direct]] [[l/_line|line]].**
+- **Of a [[d/_direction|direction]] [[r/_relative|relative]] to the [[s/_subject|subject]], [[p/_precisely|precisely]]; as [[i/_if|if]] [[f/_following|following]] a [[d/_direct|direct]] [[l/_line|line]].**
 	- _Example: Go straight back._
 - **[[d/_directly|Directly]]; without [[p/_pause|pause]], [[d/_delay|delay]] or [[d/_detour|detour]].**
 	- _Example: On arriving at work, he went straight to his office._

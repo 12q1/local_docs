@@ -5,7 +5,7 @@
 	- _Example: to repress a vinyl record_
 ---
 #adjective
-- **Subjected to [[r/_repression|repression]].**
+- **[[s/_subjected|Subjected]] to [[r/_repression|repression]].**
 - **[[s/_showing|Showing]] the suppression of [[e/_emotions|emotions]] or [[i/_impulses|impulses]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Denotation
 ---
 #noun
-- **The [[a/_act|act]] of [[d/_denoting|denoting]], or [[s/_something|something]] (such as a [[s/_symbol|symbol]]) that [[d/_denotes|denotes]]**
-- **The [[p/_primary|primary]], surface, [[l/_literal|literal]], or [[e/_explicit|explicit]] [[m/_meaning|meaning]] of a [[s/_signifier|signifier]] such as a word, [[p/_phrase|phrase]], or [[s/_symbol|symbol]]; that which a word [[d/_denotes|denotes]], as [[c/_contrasted|contrasted]] with [[i/_its|its]] [[c/_connotation|connotation]]; the [[a/_aggregate|aggregate]] or [[s/_set|set]] of [[o/_objects|objects]] of which a word [[m/_may|may]] be [[p/_predicated|predicated]].**
+- **The [[a/_act|act]] of [[d/_denoting|denoting]], or [[s/_something|something]] ([[s/_such|such]] as a [[s/_symbol|symbol]]) that [[d/_denotes|denotes]]**
+- **The [[p/_primary|primary]], surface, [[l/_literal|literal]], or [[e/_explicit|explicit]] [[m/_meaning|meaning]] of a [[s/_signifier|signifier]] [[s/_such|such]] as a word, [[p/_phrase|phrase]], or [[s/_symbol|symbol]]; that which a word [[d/_denotes|denotes]], as [[c/_contrasted|contrasted]] with [[i/_its|its]] [[c/_connotation|connotation]]; the [[a/_aggregate|aggregate]] or [[s/_set|set]] of [[o/_objects|objects]] of which a word [[m/_may|may]] be [[p/_predicated|predicated]].**
 	- _Example: The denotations of the two expressions "the morning star" and "the evening star" are the same (i.e. both expressions denote the planet Venus), but their connotations are different._
 - **The [[i/_intension|intension]] and [[e/_extension|extension]] of a word**
 - **[[s/_something|Something]] [[s/_signified|signified]] or [[r/_referred|referred]] to; a [[p/_particular|particular]] [[m/_meaning|meaning]] of a [[s/_symbol|symbol]]**

@@ -10,7 +10,7 @@
 - **An [[a/_act|act]] of [[f/_fellatio|fellatio]].**
 - **A [[m/_member|member]] of a [[y/_youth|youth]] [[g/_gang|gang]] who [[e/_engages|engages]] in [[s/_steaming|steaming]] ([[r/_robbing|robbing]] and [[e/_escaping|escaping]] in a [[l/_large|large]] [[g/_group|group]]).**
 - **A [[d/_drinking|drinking]] [[s/_session|session]].**
-- **A [[d/_dish|dish]] [[m/_made|made]] by [[c/_cooking|cooking]] [[d/_diced|diced]] [[m/_meat|meat]] very [[s/_slowly|slowly]] in a tightly [[s/_sealed|sealed]] [[p/_pot|pot]] with a [[m/_minimum|minimum]] of flavourings, [[a/_allowing|allowing]] it to [[s/_steam|steam]] in [[i/_its|its]] [[o/_own|own]] [[j/_juices|juices]]; [[s/_specifically|specifically]] such a [[d/_dish|dish]] [[m/_made|made]] with [[k/_kangaroo|kangaroo]] [[m/_meat|meat]].**
+- **A [[d/_dish|dish]] [[m/_made|made]] by [[c/_cooking|cooking]] [[d/_diced|diced]] [[m/_meat|meat]] very [[s/_slowly|slowly]] in a tightly [[s/_sealed|sealed]] [[p/_pot|pot]] with a [[m/_minimum|minimum]] of flavourings, [[a/_allowing|allowing]] it to [[s/_steam|steam]] in [[i/_its|its]] [[o/_own|own]] [[j/_juices|juices]]; [[s/_specifically|specifically]] [[s/_such|such]] a [[d/_dish|dish]] [[m/_made|made]] with [[k/_kangaroo|kangaroo]] [[m/_meat|meat]].**
 ---
 ### Synonyms
 - [[b/_bender|bender]], [[b/_binge|binge]], [[c/_carouse|carouse]], [[p/_piss-up|piss-up]]

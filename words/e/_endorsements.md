@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] or [[q/_quality|quality]] of [[e/_endorsing|endorsing]]**
 	- _Example: Companies sometimes pay millions for product endorsement by celebrities._
-- **An [[a/_amendment|amendment]] or [[a/_annotation|annotation]] to an [[i/_insurance|insurance]] [[c/_contract|contract]] or [[o/_other|other]] [[o/_official|official]] [[d/_document|document]] (such as a [[d/_driving|driving]] [[l/_licence|licence]]).**
+- **An [[a/_amendment|amendment]] or [[a/_annotation|annotation]] to an [[i/_insurance|insurance]] [[c/_contract|contract]] or [[o/_other|other]] [[o/_official|official]] [[d/_document|document]] ([[s/_such|such]] as a [[d/_driving|driving]] [[l/_licence|licence]]).**
 	- _Example: Mr. Jones paid extra for the flood damage endorsement on his house insurance._
 - **An [[i/_instructor|instructor]]'[[s/_s|s]] [[s/_signed|signed]] [[a/_acknowledgement|acknowledgement]] of time [[p/_practising|practising]] [[s/_specific|specific]] [[f/_flying|flying]] [[s/_skills|skills]].**
 	- _Example: Once she obtained the endorsement of her night flying hours, Joanna was approved to take the pilot's examination._

@@ -13,7 +13,7 @@
 ### Synonyms
 - [[b/_bow|bow]], [[f/_flex|flex]], [[i/_incurvate|incurvate]], [[b/_behedge|behedge]], [[c/_curtail|curtail]], [[l/_limit|limit]], [[b/_bend|bend]], [[f/_fawn|fawn]], [[s/_stoop|stoop]]
 #noun
-- **A [[r/_row|row]] of [[c/_curbstones|curbstones]]; the [[m/_material|material]] used to [[c/_construct|construct]] such a [[c/_curb|curb]]**
+- **A [[r/_row|row]] of [[c/_curbstones|curbstones]]; the [[m/_material|material]] used to [[c/_construct|construct]] [[s/_such|such]] a [[c/_curb|curb]]**
 - **The [[d/_damage|damage]] [[c/_caused|caused]] to a wheel or tire by [[c/_curbing|curbing]] ([[r/_running|running]] the wheel or tire [[i/_into|into]] or [[o/_over|over]] a [[c/_curb|curb]]).**
 ---
 ---

@@ -8,7 +8,7 @@
 	- _Example: Because the conference room is filled, we will have our meeting in the adjacent room._
 - **[[j/_just|Just]] [[b/_before|before]], [[a/_after|after]], or [[f/_facing|facing]].**
 	- _Example: The picture is on the adjacent page._
-- **[[r/_related|Related]] to; suggestive of; [[b/_bordering|bordering]] on.**
+- **[[r/_related|Related]] to; [[s/_suggestive|suggestive]] of; [[b/_bordering|bordering]] on.**
 ---
 ### Synonyms
 - [[a/_abutting|abutting]], [[a/_adjoining|adjoining]], [[c/_contiguous|contiguous]], [[j/_juxtaposed|juxtaposed]], [[n/_near|near]]
@@ -17,6 +17,6 @@
 #preposition
 - **[[n/_next|Next]] to; [[b/_beside|beside]].**
 	- _Example: A notice was sent to the house adjacent the school._
-- **[[r/_related|Related]] to; suggestive of; [[b/_bordering|bordering]] on.**
+- **[[r/_related|Related]] to; [[s/_suggestive|suggestive]] of; [[b/_bordering|bordering]] on.**
 ---
 ---

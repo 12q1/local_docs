@@ -1,7 +1,7 @@
 # Chinking
 ---
 #verb
-- **To [[f/_fill|fill]] an [[o/_opening|opening]] such as the [[s/_space|space]] [[b/_between|between]] [[l/_logs|logs]] in a [[l/_log|log]] [[h/_house|house]] with [[c/_chinking|chinking]]; to [[c/_caulk|caulk]].**
+- **To [[f/_fill|fill]] an [[o/_opening|opening]] [[s/_such|such]] as the [[s/_space|space]] [[b/_between|between]] [[l/_logs|logs]] in a [[l/_log|log]] [[h/_house|house]] with [[c/_chinking|chinking]]; to [[c/_caulk|caulk]].**
 	- _Example: to chink a wall_
 - **To [[c/_crack|crack]]; to [[o/_open|open]].**
 - **To [[c/_cause|cause]] to [[o/_open|open]] in [[c/_cracks|cracks]] or [[f/_fissures|fissures]].**

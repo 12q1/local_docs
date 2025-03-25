@@ -3,7 +3,7 @@
 #verb
 - **To [[q/_quickly|quickly]] [[l/_lower|lower]] the [[h/_head|head]] or [[b/_body|body]] in [[o/_order|order]] to [[p/_prevent|prevent]] it from [[b/_being|being]] [[s/_struck|struck]] by [[s/_something|something]].**
 - **To [[q/_quickly|quickly]] [[l/_lower|lower]] (the [[h/_head|head]]) in [[o/_order|order]] to [[p/_prevent|prevent]] it from [[b/_being|being]] [[s/_struck|struck]] by [[s/_something|something]].**
-- **To [[l/_lower|lower]] ([[s/_something|something]]) [[i/_into|into]] water; to thrust or [[p/_plunge|plunge]] under [[l/_liquid|liquid]] and suddenly withdraw.**
+- **To [[l/_lower|lower]] ([[s/_something|something]]) [[i/_into|into]] water; to thrust or [[p/_plunge|plunge]] under [[l/_liquid|liquid]] and [[s/_suddenly|suddenly]] withdraw.**
 - **To [[g/_go|go]] under the surface of water and [[i/_immediately|immediately]] [[r/_reappear|reappear]]; to [[p/_plunge|plunge]] [[o/_one|one]]'[[s/_s|s]] [[h/_head|head]] [[i/_into|into]] water or [[o/_other|other]] [[l/_liquid|liquid]].**
 - **To [[b/_bow|bow]].**
 - **To [[e/_evade|evade]] [[d/_doing|doing]] [[s/_something|something]].**

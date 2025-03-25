@@ -5,7 +5,7 @@
 - **To [[p/_perform|perform]]; to [[e/_execute|execute]].**
 	- _Example: All you ever do is surf the Internet. What will you do this afternoon?_
 - **To [[c/_cause|cause]], [[m/_make|make]] ([[s/_someone|someone]]) ([[d/_do|do]] [[s/_something|something]]).**
-- **To suffice.**
+- **To [[s/_suffice|suffice]].**
 	- _Example: it’s not the best broom, but it will have to do;  this will do me, thanks._
 - **To be [[r/_reasonable|reasonable]] or [[a/_acceptable|acceptable]].**
 	- _Example: It simply will not do to have dozens of children running around such a quiet event._
@@ -62,7 +62,7 @@
 	- _Example: He pushed his empty plate away, sighed and pronounced "I am done."_
 - **[[b/_being|Being]] [[e/_exhausted|exhausted]] or [[f/_fully|fully]] [[s/_spent|spent]].**
 	- _Example: When the water is done we will only be able to go on for a few days._
-- **Without [[h/_hope|hope]] or [[p/_prospect|prospect]] of [[c/_completion|completion]] or success.**
+- **Without [[h/_hope|hope]] or [[p/_prospect|prospect]] of [[c/_completion|completion]] or [[s/_success|success]].**
 	- _Example: He is done, after three falls there is no chance he will be able to finish._
 - **[[f/_fashionable|Fashionable]], [[s/_socially|socially]] [[a/_acceptable|acceptable]], tasteful.**
 	- _Example: I can't believe he just walked up and spoke to her like that, those kind of things just aren't done!_

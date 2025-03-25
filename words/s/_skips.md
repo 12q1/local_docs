@@ -20,7 +20,7 @@
 - **To [[p/_place|place]] an [[i/_item|item]] in a [[s/_skip|skip]].**
 - **Not to [[a/_attend|attend]] ([[s/_some|some]] [[e/_event|event]], [[e/_especially|especially]] a [[c/_class|class]] or a [[m/_meeting|meeting]]).**
 	- _Example: Yeah, I really should go to the quarterly meeting but I think I'm going to skip it._
-- **To [[l/_leave|leave]], [[e/_especially|especially]] in a sudden and [[c/_covert|covert]] [[m/_manner|manner]].**
+- **To [[l/_leave|leave]], [[e/_especially|especially]] in a [[s/_sudden|sudden]] and [[c/_covert|covert]] [[m/_manner|manner]].**
 	- _Example: a customer who skipped town without paying her hotel bill_
 - **To [[l/_leap|leap]] [[l/_lightly|lightly]] [[o/_over|over]].**
 	- _Example: to skip the rope_
@@ -35,7 +35,7 @@
 - **A transportation [[c/_container|container]] in a [[m/_mine|mine]], usually for [[o/_ore|ore]] or [[m/_mullock|mullock]].**
 - **A [[s/_skep|skep]], or [[b/_basket|basket]].**
 - **A wheeled [[b/_basket|basket]] used in [[c/_cotton|cotton]] [[f/_factories|factories]].**
-- **(sugar [[m/_manufacture|manufacture]]) A [[c/_charge|charge]] of [[s/_syrup|syrup]] in the [[p/_pans|pans]].**
+- **([[s/_sugar|sugar]] [[m/_manufacture|manufacture]]) A [[c/_charge|charge]] of [[s/_syrup|syrup]] in the [[p/_pans|pans]].**
 - **A [[b/_beehive|beehive]].**
 ---
 ### Synonyms

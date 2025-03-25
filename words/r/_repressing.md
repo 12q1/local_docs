@@ -5,7 +5,7 @@
 	- _Example: to repress a vinyl record_
 ---
 #noun
-- **A [[s/_second|second]] or subsequent [[p/_pressing|pressing]].**
+- **A [[s/_second|second]] or [[s/_subsequent|subsequent]] [[p/_pressing|pressing]].**
 	- _Example: repressings of a vinyl record_
 ---
 ---

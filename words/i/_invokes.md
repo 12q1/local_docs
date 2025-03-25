@@ -11,7 +11,7 @@
 	- _Example: This satanist ritual invokes Beelzebub._
 - **To [[b/_bring|bring]] [[a/_about|about]] as an [[i/_inevitable|inevitable]] [[c/_consequence|consequence]].**
 	- _Example: Blasphemy is taboo as it may invoke divine wrath._
-- **To [[c/_cause|cause]] (a [[p/_program|program]] or subroutine) to [[e/_execute|execute]].**
+- **To [[c/_cause|cause]] (a [[p/_program|program]] or [[s/_subroutine|subroutine]]) to [[e/_execute|execute]].**
 	- _Example: Interactive programs let the users enter choices and invoke the corresponding routines._
 ---
 ### Synonyms

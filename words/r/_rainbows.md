@@ -8,7 +8,7 @@
 - **An [[i/_illusion|illusion]], [[m/_mirage|mirage]].**
 	- _Example: Many electoral promises are rainbows, vanishing soon after poll day._
 - **A [[c/_curveball|curveball]], [[p/_particularly|particularly]] a [[s/_slow|slow]] [[o/_one|one]].**
-- **In Texas [[h/_hold|hold]] '[[e/_em|em]] or [[o/_omaha|Omaha]] [[h/_hold|hold]] '[[e/_em|em]], a [[f/_flop|flop]] that [[c/_contains|contains]] three [[d/_different|different]] suits.**
+- **In Texas [[h/_hold|hold]] '[[e/_em|em]] or [[o/_omaha|Omaha]] [[h/_hold|hold]] '[[e/_em|em]], a [[f/_flop|flop]] that [[c/_contains|contains]] three [[d/_different|different]] [[s/_suits|suits]].**
 - **[[r/_rainbow|Rainbow]] trout.**
 ---
 ### Synonyms

@@ -7,7 +7,7 @@
 - **A tread; [[s/_step|step]]; [[e/_especially|especially]], [[m/_measured|measured]] tread.**
 - **A [[f/_footprint|footprint]] or [[f/_footprints|footprints]]; tracks, [[s/_someone|someone]]'[[s/_s|s]] trail.**
 - **[[s/_stability|Stability]] or [[b/_balance|balance]] when [[s/_standing|standing]] on [[o/_one|one]]'[[s/_s|s]] [[f/_feet|feet]]**
-- **The [[a/_act|act]] of [[a/_adding|adding]] up a [[c/_column|column]] of [[f/_figures|figures]]; the [[a/_amount|amount]] or sum total of such a [[c/_column|column]].**
+- **The [[a/_act|act]] of [[a/_adding|adding]] up a [[c/_column|column]] of [[f/_figures|figures]]; the [[a/_amount|amount]] or [[s/_sum|sum]] total of [[s/_such|such]] a [[c/_column|column]].**
 - **The [[a/_act|act]] of [[p/_putting|putting]] a [[f/_foot|foot]] to [[a/_anything|anything]]; [[a/_also|also]], that which is [[a/_added|added]] as a [[f/_foot|foot]]**
 - **A [[n/_narrow|narrow]] [[c/_cotton|cotton]] [[l/_lace|lace]], without [[f/_figures|figures]].**
 - **The [[f/_finer|finer]] [[r/_refuse|refuse]] [[p/_part|part]] of whale [[b/_blubber|blubber]], not wholly [[d/_deprived|deprived]] of [[o/_oil|oil]].**

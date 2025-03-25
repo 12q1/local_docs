@@ -5,7 +5,7 @@
 	- _Example: When the two-dimensional curve is a circle, the cylinder is called a circular cylinder. When the axis is perpendicular to the plane of the curve, the cylinder is called a right cylinder. In non-mathematical usage, both right and circular are usually implied._
 - **A [[s/_solid|solid]] [[f/_figure|figure]] [[b/_bounded|bounded]] by a [[c/_cylinder|cylinder]] and two [[p/_parallel|parallel]] [[p/_planes|planes]] [[i/_intersecting|intersecting]] the [[c/_cylinder|cylinder]].**
 - **[[a/_any|Any]] [[o/_object|object]] in the [[f/_form|form]] of a [[c/_circular|circular]] [[c/_cylinder|cylinder]].**
-- **A [[c/_cylindrical|cylindrical]] [[c/_cavity|cavity]] or [[c/_chamber|chamber]] in a [[m/_mechanism|mechanism]], such as the [[c/_counterpart|counterpart]] to a [[p/_piston|piston]] [[f/_found|found]] in a [[p/_piston|piston]]-[[d/_driven|driven]] [[e/_engine|engine]].**
+- **A [[c/_cylindrical|cylindrical]] [[c/_cavity|cavity]] or [[c/_chamber|chamber]] in a [[m/_mechanism|mechanism]], [[s/_such|such]] as the [[c/_counterpart|counterpart]] to a [[p/_piston|piston]] [[f/_found|found]] in a [[p/_piston|piston]]-[[d/_driven|driven]] [[e/_engine|engine]].**
 - **The [[s/_space|space]] in which a [[p/_piston|piston]] travels [[i/_inside|inside]] a [[r/_reciprocating|reciprocating]] [[e/_engine|engine]] or [[p/_pump|pump]].**
 - **A [[c/_container|container]] in the [[f/_form|form]] of a [[c/_cylinder|cylinder]] with [[r/_rounded|rounded]] [[e/_ends|ends]] for [[s/_storing|storing]] [[p/_pressurized|pressurized]] [[g/_gas|gas]]; a [[g/_gas|gas]] [[c/_cylinder|cylinder]].**
 - **An [[e/_early|early]] [[f/_form|form]] of [[p/_phonograph|phonograph]] [[r/_recording|recording]], [[m/_made|made]] on a wax [[c/_cylinder|cylinder]].**

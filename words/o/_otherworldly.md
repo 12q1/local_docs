@@ -1,7 +1,7 @@
 # Otherworldly
 ---
 #adjective
-- **Of, [[c/_concerned|concerned]] with, or [[p/_preoccupied|preoccupied]] with a [[d/_different|different]] world than that of the tangible [[h/_here|here]] and [[n/_now|now]], such as a [[h/_heavenly|heavenly]], [[s/_spiritual|spiritual]], or [[i/_imaginary|imaginary]] world.**
+- **Of, [[c/_concerned|concerned]] with, or [[p/_preoccupied|preoccupied]] with a [[d/_different|different]] world than that of the tangible [[h/_here|here]] and [[n/_now|now]], [[s/_such|such]] as a [[h/_heavenly|heavenly]], [[s/_spiritual|spiritual]], or [[i/_imaginary|imaginary]] world.**
 - **Not [[b/_belonging|belonging]] to the [[r/_real|real]] world; unnatural; [[o/_odd|odd]] and unfamiliar.**
 ---
 ### Synonyms

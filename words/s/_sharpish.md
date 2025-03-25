@@ -1,7 +1,7 @@
 # Sharpish
 ---
 #adjective
-- **[[s/_somewhat|Somewhat]] [[s/_sharp|sharp]] (sudden, [[a/_abrupt|abrupt]]).**
+- **[[s/_somewhat|Somewhat]] [[s/_sharp|sharp]] ([[s/_sudden|sudden]], [[a/_abrupt|abrupt]]).**
 	- _Example: The car made a sharpish turn._
 - **[[s/_somewhat|Somewhat]] [[s/_sharp|sharp]]; not [[b/_blunt|blunt]].**
 	- _Example: a sharpish knife_

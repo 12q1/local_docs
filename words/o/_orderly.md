@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[h/_hospital|hospital]] [[a/_attendant|attendant]] [[g/_given|given]] a variety of [[n/_non|non]]-[[m/_medical|medical]] [[d/_duties|duties]].**
-- **A [[s/_soldier|soldier]] who [[c/_carries|carries]] [[o/_out|out]] [[m/_minor|minor]] tasks for a superior [[o/_officer|officer]].**
+- **A [[s/_soldier|soldier]] who [[c/_carries|carries]] [[o/_out|out]] [[m/_minor|minor]] tasks for a [[s/_superior|superior]] [[o/_officer|officer]].**
 ---
 #adjective
 - **[[n/_neat|Neat]] and tidy; [[p/_possessing|possessing]] [[o/_order|order]].**
@@ -17,7 +17,7 @@
 - [[r/_regular|regular]], [[t/_trim|trim]], [[w/_well-kept|well-kept]]
 #adverb
 - **[[a/_according|According]] to [[g/_good|good]] [[o/_order|order]] or [[p/_practice|practice]]; [[a/_appropriately|appropriately]], in a well-[[b/_behaved|behaved]] or [[o/_orderly|orderly]] way.**
-- **In [[o/_order|order]]; in a [[p/_particular|particular]] [[o/_order|order]] or succession; with a suitable [[a/_arrangement|arrangement]].**
+- **In [[o/_order|order]]; in a [[p/_particular|particular]] [[o/_order|order]] or [[s/_succession|succession]]; with a [[s/_suitable|suitable]] [[a/_arrangement|arrangement]].**
 ---
 ### Synonyms
 - [[m/_methodically|methodically]], [[s/_systematically|systematically]]

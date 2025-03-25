@@ -1,7 +1,7 @@
 # Manager
 ---
 #noun
-- **A [[p/_person|person]] whose [[j/_job|job]] is to [[m/_manage|manage]] [[s/_something|something]], such as a [[b/_business|business]], a [[r/_restaurant|restaurant]], or a [[s/_sports|sports]] team.**
+- **A [[p/_person|person]] whose [[j/_job|job]] is to [[m/_manage|manage]] [[s/_something|something]], [[s/_such|such]] as a [[b/_business|business]], a [[r/_restaurant|restaurant]], or a [[s/_sports|sports]] team.**
 - **The [[h/_head|head]] [[c/_coach|coach]].**
 - **An [[a/_administrator|administrator]], for a [[s/_singer|singer]] or [[g/_group|group]].**
 - **([[c/_computer|computer]] [[s/_software|software]]) A window or [[a/_application|application]] whose [[p/_purpose|purpose]] is to [[g/_give|give]] the user the [[c/_control|control]] [[o/_over|over]] [[s/_some|some]] [[a/_aspect|aspect]] of the [[s/_system|system]].**

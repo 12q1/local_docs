@@ -5,7 +5,7 @@
 - **[[e/_each|Each]] in a [[s/_string|string]] of [[s/_small|small]] [[b/_balls|balls]] [[m/_making|making]] up the [[r/_rosary|rosary]] or [[p/_paternoster|paternoster]].**
 - **A [[s/_small|small]], [[r/_round|round]] [[o/_object|object]].**
 - **([[h/_heading|heading]]) A [[r/_ridge|ridge]], [[b/_band|band]], or [[m/_molding|molding]].**
-- **[[k/_knowledge|Knowledge]] sufficient to [[d/_direct|direct]] [[o/_one|one]]'[[s/_s|s]] [[a/_activities|activities]] to a [[p/_purpose|purpose]].**
+- **[[k/_knowledge|Knowledge]] [[s/_sufficient|sufficient]] to [[d/_direct|direct]] [[o/_one|one]]'[[s/_s|s]] [[a/_activities|activities]] to a [[p/_purpose|purpose]].**
 	- _Example: We now have a bead on the main technical issues for the project_
 - **A [[g/_glassy|glassy]] [[d/_drop|drop]] of [[m/_molten|molten]] [[f/_flux|flux]], as [[b/_borax|borax]] or [[m/_microcosmic|microcosmic]] [[s/_salt|salt]], used as a [[s/_solvent|solvent]] and [[c/_color|color]] test for [[s/_several|several]] [[m/_mineral|mineral]] [[e/_earths|earths]] and [[o/_oxides|oxides]], as of [[i/_iron|iron]], [[m/_manganese|manganese]], [[e/_etc|etc]]., [[b/_before|before]] the [[b/_blowpipe|blowpipe]].**
 	- _Example: the borax bead;  the iron bead, etc._

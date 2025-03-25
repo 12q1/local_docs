@@ -9,11 +9,11 @@
 - **[[m/_measure|Measure]] of [[h/_how|how]] well a [[p/_particular|particular]] [[c/_commercial|commercial]] [[e/_execution|execution]] [[c/_captures|captures]] the [[c/_character|character]] or values of a [[b/_brand|brand]].**
 	- _Example: The Wonder Bread advertising research results showed the “White Picket Fence” commercial had strong fit ratings._
 - **[[g/_goodness|Goodness]] of [[f/_fit|fit]].**
-- **The [[q/_quality|quality]] of a [[p/_partnership|partnership]]'[[s/_s|s]] [[c/_combined|combined]] [[h/_holding|holding]] of [[c/_cards|cards]] in a suit, [[p/_particularly|particularly]] of trump.**
+- **The [[q/_quality|quality]] of a [[p/_partnership|partnership]]'[[s/_s|s]] [[c/_combined|combined]] [[h/_holding|holding]] of [[c/_cards|cards]] in a [[s/_suit|suit]], [[p/_particularly|particularly]] of trump.**
 	- _Example: During the auction, it is often a partnership's goal to find an eight-card major suit fit._
 ---
 #verb
-- **To be suitable for.**
+- **To be [[s/_suitable|suitable]] for.**
 	- _Example: It fits the purpose._
 - **To [[c/_conform|conform]] to in [[s/_size|size]] and [[s/_shape|shape]].**
 	- _Example: If I lose a few kilos, the gorgeous wedding dress might fit me._
@@ -41,14 +41,14 @@
 #noun
 - **A [[s/_seizure|seizure]] or [[c/_convulsion|convulsion]].**
 	- _Example: My grandfather died after having a fit._
-- **A sudden and vigorous [[a/_appearance|appearance]] of a [[s/_symptom|symptom]] [[o/_over|over]] a [[s/_short|short]] [[p/_period|period]] of time.**
-- **A sudden [[o/_outburst|outburst]] of [[e/_emotion|emotion]].**
+- **A [[s/_sudden|sudden]] and vigorous [[a/_appearance|appearance]] of a [[s/_symptom|symptom]] [[o/_over|over]] a [[s/_short|short]] [[p/_period|period]] of time.**
+- **A [[s/_sudden|sudden]] [[o/_outburst|outburst]] of [[e/_emotion|emotion]].**
 	- _Example: He had a laughing fit which lasted more than ten minutes._
-- **A sudden [[b/_burst|burst]] (of an [[a/_activity|activity]]).**
+- **A [[s/_sudden|sudden]] [[b/_burst|burst]] (of an [[a/_activity|activity]]).**
 ---
 ### Synonyms
 - [[b/_blowout|blowout]], [[h/_hissy|hissy]], [[m/_moment|moment]], [[s/_spell|spell]], [[t/_tantrum|tantrum]], [[f/_flurry|flurry]], [[f/_frenzy|frenzy]], [[p/_paroxysm|paroxysm]]
 #verb
-- **To suffer a [[f/_fit|fit]].**
+- **To [[s/_suffer|suffer]] a [[f/_fit|fit]].**
 ---
 ---

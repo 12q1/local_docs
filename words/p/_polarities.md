@@ -5,7 +5,7 @@
 ---
 #noun
 - **The [[s/_separation|separation]], [[a/_alignment|alignment]] or [[o/_orientation|orientation]] of [[s/_something|something]] [[i/_into|into]] two [[o/_opposed|opposed]] [[p/_poles|poles]].**
-- **[[e/_either|Either]] of the two [[e/_extremes|extremes]] of such [[a/_attributes|attributes]].**
+- **[[e/_either|Either]] of the two [[e/_extremes|extremes]] of [[s/_such|such]] [[a/_attributes|attributes]].**
 - **The [[d/_dipole|dipole]]-[[d/_dipole|dipole]] [[i/_intermolecular|intermolecular]] [[f/_forces|forces]] [[b/_between|between]] the [[s/_slightly|slightly]] [[p/_positively|positively]]-[[c/_charged|charged]] [[e/_end|end]] of [[o/_one|one]] [[m/_molecule|molecule]] to the [[n/_negative|negative]] [[e/_end|end]] of [[a/_another|another]] or the [[s/_same|same]] [[m/_molecule|molecule]]. Wp**
 - **The [[d/_division|division]] of an [[e/_embryo|embryo]] [[i/_into|into]] an [[a/_animal|animal]] [[p/_pole|pole]] and a vegetal [[p/_pole|pole]] within a [[b/_blastula|blastula]]. Wp**
 - **[[s/_spatial|Spatial]] [[d/_differences|differences]] in [[s/_shape|shape]], [[s/_structure|structure]], and [[f/_function|function]] within a [[c/_cell|cell]]. Wp**

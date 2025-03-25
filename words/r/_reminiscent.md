@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Of, or [[r/_relating|relating]] to [[r/_reminiscence|reminiscence]]**
-- **Suggestive of an [[e/_earlier|earlier]] [[e/_event|event]] or times**
+- **[[s/_suggestive|Suggestive]] of an [[e/_earlier|earlier]] [[e/_event|event]] or times**
 - **Tending to [[b/_bring|bring]] [[s/_some|some]] [[m/_memory|memory]] [[e/_etc|etc]]. to [[m/_mind|mind]] ([[f/_followed|followed]] by of)**
 - **[[r/_remembering|Remembering]]; undergoing [[r/_reminiscence|reminiscence]].**
 ---

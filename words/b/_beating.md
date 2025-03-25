@@ -22,7 +22,7 @@
 - **To be in [[a/_agitation|agitation]] or [[d/_doubt|doubt]].**
 - **To [[m/_make|make]] a [[s/_sound|sound]] when [[s/_struck|struck]].**
 	- _Example: The drums beat._
-- **To [[m/_make|make]] a succession of [[s/_strokes|strokes]] on a [[d/_drum|drum]].**
+- **To [[m/_make|make]] a [[s/_succession|succession]] of [[s/_strokes|strokes]] on a [[d/_drum|drum]].**
 	- _Example: The drummers beat to call soldiers to their quarters._
 - **To [[s/_sound|sound]] with [[m/_more|more]] or [[l/_less|less]] [[r/_rapid|rapid]] [[a/_alternations|alternations]] of [[g/_greater|greater]] and [[l/_less|less]] [[i/_intensity|intensity]], [[s/_so|so]] as to [[p/_produce|produce]] a [[p/_pulsating|pulsating]] [[e/_effect|effect]]; [[s/_said|said]] of [[i/_instruments|instruments]], tones, or vibrations, not [[p/_perfectly|perfectly]] in unison.**
 - **To [[a/_arrive|arrive]] at a [[p/_place|place]] [[b/_before|before]] [[s/_someone|someone]].**

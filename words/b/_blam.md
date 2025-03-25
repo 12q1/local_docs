@@ -1,7 +1,7 @@
 # Blam
 ---
 #noun
-- **A sudden, [[e/_explosive|explosive]] [[s/_sound|sound]], such as is [[m/_made|made]] by a [[g/_gunshot|gunshot]]**
+- **A [[s/_sudden|sudden]], [[e/_explosive|explosive]] [[s/_sound|sound]], [[s/_such|such]] as is [[m/_made|made]] by a [[g/_gunshot|gunshot]]**
 	- _Example: He kicked in the door with a blam._
 ---
 #verb

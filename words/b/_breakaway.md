@@ -17,6 +17,6 @@
 - **[[c/_capable|Capable]] of [[b/_breaking|breaking]] [[o/_off|off]] without [[d/_damaging|damaging]] the [[l/_larger|larger]] [[s/_structure|structure]].**
 	- _Example: a breakaway wall_
 - **[[o/_occurring|Occurring]] [[d/_during|during]] or as a [[r/_result|result]] of a [[b/_breakaway|breakaway]] ([[s/_see|see]] [[n/_noun|Noun]])**
-- **([[e/_entertainment|entertainment]] [[i/_industry|industry]]) [[e/_enjoying|Enjoying]] [[r/_rapid|rapid]] [[p/_popular|popular]] success.**
+- **([[e/_entertainment|entertainment]] [[i/_industry|industry]]) [[e/_enjoying|Enjoying]] [[r/_rapid|rapid]] [[p/_popular|popular]] [[s/_success|success]].**
 ---
 ---

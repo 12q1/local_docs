@@ -1,7 +1,7 @@
 # Livery
 ---
 #noun
-- **[[a/_any|Any]] [[d/_distinctive|distinctive]] [[i/_identifying|identifying]] uniform worn by a [[g/_group|group]], such as the uniform worn by [[c/_chauffeurs|chauffeurs]] and [[m/_male|male]] [[s/_servants|servants]].**
+- **[[a/_any|Any]] [[d/_distinctive|distinctive]] [[i/_identifying|identifying]] uniform worn by a [[g/_group|group]], [[s/_such|such]] as the uniform worn by [[c/_chauffeurs|chauffeurs]] and [[m/_male|male]] [[s/_servants|servants]].**
 - **The whole [[b/_body|body]] of [[l/_liverymen|liverymen]], [[m/_members|members]] of [[l/_livery|livery]] [[c/_companies|companies]].**
 - **The [[p/_paint|paint]] [[s/_scheme|scheme]] of a vehicle or [[f/_fleet|fleet]] of vehicles.**
 	- _Example: The airline's new livery  received a mixed reaction from the press._

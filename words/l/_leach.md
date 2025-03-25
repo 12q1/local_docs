@@ -7,7 +7,7 @@
 	- _Example: 1670 Hannah Woolley The Queen-like Closet, Or, Rich Cabinet https//en.m.wikipedia.org/wiki/The_Queen-Like_Closet "To make Leach and to colour it"_
 ---
 #noun
-- **An [[a/_aquatic|aquatic]] [[b/_blood|blood]]-sucking [[a/_annelid|annelid]] of [[c/_class|class]] [[h/_hirudinea|Hirudinea]], [[e/_especially|especially]] [[h/_hirudo|Hirudo]] medicinalis.**
+- **An [[a/_aquatic|aquatic]] [[b/_blood|blood]]-[[s/_sucking|sucking]] [[a/_annelid|annelid]] of [[c/_class|class]] [[h/_hirudinea|Hirudinea]], [[e/_especially|especially]] [[h/_hirudo|Hirudo]] medicinalis.**
 - **A [[p/_person|person]] who [[d/_derives|derives]] [[p/_profit|profit]] from [[o/_others|others]] in a [[p/_parasitic|parasitic]] [[f/_fashion|fashion]].**
 - **A [[g/_glass|glass]] tube [[d/_designed|designed]] for [[d/_drawing|drawing]] [[b/_blood|blood]] from [[d/_damaged|damaged]] tissue by [[m/_means|means]] of a vacuum.**
 ---

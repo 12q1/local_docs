@@ -11,6 +11,6 @@
 - **A [[r/_rope|rope]] [[f/_fastening|fastening]] a [[b/_bowsprit|bowsprit]] to the [[s/_stem|stem]] of a [[s/_ship|ship]] (usually [[c/_called|called]] a [[g/_gammoning|gammoning]]).**
 ---
 #noun
-- **A [[m/_middle|middle]]-[[a/_aged|aged]] or [[o/_older|older]] [[r/_right|right]]-wing, [[r/_reactionary|reactionary]] white [[m/_man|man]], or such [[m/_men|men]] [[c/_collectively|collectively]].**
+- **A [[m/_middle|middle]]-[[a/_aged|aged]] or [[o/_older|older]] [[r/_right|right]]-wing, [[r/_reactionary|reactionary]] white [[m/_man|man]], or [[s/_such|such]] [[m/_men|men]] [[c/_collectively|collectively]].**
 ---
 ---

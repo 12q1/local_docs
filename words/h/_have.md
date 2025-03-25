@@ -11,15 +11,15 @@
 	- _Example: I have a house and a car._
 - **To [[h/_hold|hold]], as [[s/_something|something]] at [[s/_someone|someone]]'[[s/_s|s]] [[d/_disposal|disposal]].**
 	- _Example: Do you have the key? (not necessarily one's own key)_
-- **Used to [[s/_state|state]] the [[e/_existence|existence]] or [[p/_presence|presence]] of [[s/_someone|someone]] in a [[s/_specified|specified]] [[r/_relationship|relationship]] with the subject.**
+- **Used to [[s/_state|state]] the [[e/_existence|existence]] or [[p/_presence|presence]] of [[s/_someone|someone]] in a [[s/_specified|specified]] [[r/_relationship|relationship]] with the [[s/_subject|subject]].**
 	- _Example: I have a really mean boss._
-- **To [[p/_partake|partake]] of (a [[p/_particular|particular]] substance, [[e/_especially|especially]] [[f/_food|food]] or [[d/_drink|drink]], or [[a/_action|action]] or [[a/_activity|activity]]).**
+- **To [[p/_partake|partake]] of (a [[p/_particular|particular]] [[s/_substance|substance]], [[e/_especially|especially]] [[f/_food|food]] or [[d/_drink|drink]], or [[a/_action|action]] or [[a/_activity|activity]]).**
 	- _Example: Can I have a look at that?_
 - **To be [[s/_scheduled|scheduled]] to [[a/_attend|attend]], undertake or [[p/_participate|participate]] in.**
 	- _Example: Fred won't be able to come to the party; he has a meeting that day._
 - **To [[e/_experience|experience]], [[g/_go|go]] through, undergo.**
 	- _Example: He had surgery on his hip yesterday._
-- **To be [[a/_afflicted|afflicted]] with, suffer from.**
+- **To be [[a/_afflicted|afflicted]] with, [[s/_suffer|suffer]] from.**
 	- _Example: He had a cold last week._
 - **([[a/_auxiliary|auxiliary]] verb, taking a [[p/_past|past]] [[p/_participle|participle]]) Used in [[f/_forming|forming]] the [[p/_perfect|perfect]] [[a/_aspect|aspect]].**
 	- _Example: I had already eaten._

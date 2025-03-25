@@ -9,11 +9,11 @@
 - **[[m/_measure|Measure]] of [[h/_how|how]] well a [[p/_particular|particular]] [[c/_commercial|commercial]] [[e/_execution|execution]] [[c/_captures|captures]] the [[c/_character|character]] or values of a [[b/_brand|brand]].**
 	- _Example: The Wonder Bread advertising research results showed the “White Picket Fence” commercial had strong fit ratings._
 - **[[g/_goodness|Goodness]] of [[f/_fit|fit]].**
-- **The [[q/_quality|quality]] of a [[p/_partnership|partnership]]'[[s/_s|s]] [[c/_combined|combined]] [[h/_holding|holding]] of [[c/_cards|cards]] in a suit, [[p/_particularly|particularly]] of trump.**
+- **The [[q/_quality|quality]] of a [[p/_partnership|partnership]]'[[s/_s|s]] [[c/_combined|combined]] [[h/_holding|holding]] of [[c/_cards|cards]] in a [[s/_suit|suit]], [[p/_particularly|particularly]] of trump.**
 	- _Example: During the auction, it is often a partnership's goal to find an eight-card major suit fit._
 ---
 #verb
-- **To be suitable for.**
+- **To be [[s/_suitable|suitable]] for.**
 	- _Example: It fits the purpose._
 - **To [[c/_conform|conform]] to in [[s/_size|size]] and [[s/_shape|shape]].**
 	- _Example: If I lose a few kilos, the gorgeous wedding dress might fit me._
@@ -36,7 +36,7 @@
 	- _Example: The paint, the fabrics, the rugs all fit._
 ---
 #adjective
-- **Suitable, [[p/_proper|proper]].**
+- **[[s/_suitable|Suitable]], [[p/_proper|proper]].**
 	- _Example: You have nothing to say about it. I'll do exactly as I see fit._
 - **[[a/_adapted|Adapted]] to a [[p/_purpose|purpose]] or [[e/_environment|environment]].**
 	- _Example: survival of the fittest_

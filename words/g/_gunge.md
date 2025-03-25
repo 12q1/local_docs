@@ -12,6 +12,6 @@
 - [[g/_gonghouse|gonghouse]]
 #noun
 - **A [[k/_kind|kind]] of [[c/_cultivation|cultivation]] [[e/_energy|energy]], [[m/_more|more]] [[p/_powerful|powerful]] than qi.**
-- **An [[a/_advanced|advanced]] [[p/_practice|practice]] that [[c/_cultivates|cultivates]] such [[e/_energy|energy]].**
+- **An [[a/_advanced|advanced]] [[p/_practice|practice]] that [[c/_cultivates|cultivates]] [[s/_such|such]] [[e/_energy|energy]].**
 ---
 ---

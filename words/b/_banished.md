@@ -6,6 +6,6 @@
 	- _Example: banish fear, qualm._
 ---
 #adjective
-- **[[h/_having|Having]] [[b/_been|been]] subject to [[b/_banishment|banishment]]; [[k/_kicked|kicked]] [[o/_out|out]] and [[f/_forbidden|forbidden]] from [[r/_returning|returning]]; [[f/_forbidden|forbidden]] and [[p/_prohibited|prohibited]].**
+- **[[h/_having|Having]] [[b/_been|been]] [[s/_subject|subject]] to [[b/_banishment|banishment]]; [[k/_kicked|kicked]] [[o/_out|out]] and [[f/_forbidden|forbidden]] from [[r/_returning|returning]]; [[f/_forbidden|forbidden]] and [[p/_prohibited|prohibited]].**
 ---
 ---

@@ -6,8 +6,8 @@
 - **A [[l/_light|light]], [[s/_slightly|slightly]] [[g/_greenish|greenish]], [[y/_yellow|yellow]] [[c/_colour|colour]].**
 - **A [[l/_light|light]], sweet, white wine from the [[c/_canary|Canary]] [[i/_islands|Islands]].**
 - **A [[l/_lively|lively]] [[d/_dance|dance]], [[p/_possibly|possibly]] of [[s/_spanish|Spanish]] [[o/_origin|origin]] ([[a/_also|also]] [[c/_called|called]] [[c/_canaries|canaries]]).**
-- **[[a/_any|Any]] test subject, [[e/_especially|especially]] an [[i/_inadvertent|inadvertent]] or unwilling [[o/_one|one]]. (From the [[m/_mining|mining]] [[p/_practice|practice]] of using [[c/_canaries|canaries]] to [[d/_detect|detect]] [[d/_dangerous|dangerous]] [[g/_gases|gases]].)**
-- **A value [[p/_placed|placed]] in [[m/_memory|memory]] such that it will be the [[f/_first|first]] [[d/_data|data]] [[c/_corrupted|corrupted]] by a [[b/_buffer|buffer]] [[o/_overflow|overflow]], [[a/_allowing|allowing]] the [[p/_program|program]] to [[i/_identify|identify]] and [[r/_recover|recover]] from it.**
+- **[[a/_any|Any]] test [[s/_subject|subject]], [[e/_especially|especially]] an [[i/_inadvertent|inadvertent]] or unwilling [[o/_one|one]]. (From the [[m/_mining|mining]] [[p/_practice|practice]] of using [[c/_canaries|canaries]] to [[d/_detect|detect]] [[d/_dangerous|dangerous]] [[g/_gases|gases]].)**
+- **A value [[p/_placed|placed]] in [[m/_memory|memory]] [[s/_such|such]] that it will be the [[f/_first|first]] [[d/_data|data]] [[c/_corrupted|corrupted]] by a [[b/_buffer|buffer]] [[o/_overflow|overflow]], [[a/_allowing|allowing]] the [[p/_program|program]] to [[i/_identify|identify]] and [[r/_recover|recover]] from it.**
 - **A [[f/_female|female]] [[s/_singer|singer]], [[s/_soprano|soprano]], a [[c/_coloratura|coloratura]] [[s/_singer|singer]].**
 - **An [[i/_informer|informer]] or [[s/_snitch|snitch]]; a [[s/_squealer|squealer]].**
 - **A (usually [[y/_yellow|yellow]]) [[c/_capsule|capsule]] of the [[s/_short|short]]-[[a/_acting|acting]] [[b/_barbiturate|barbiturate]] [[p/_pentobarbital|pentobarbital]]/[[p/_pentobarbitone|pentobarbitone]] ([[n/_nembutal|Nembutal]]).**

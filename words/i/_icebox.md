@@ -8,6 +8,6 @@
 - **A [[m/_morgue|morgue]].**
 ---
 #adjective
-- **[[a/_agreeable|Agreeable]], [[a/_awesome|awesome]]. (as a superlative of [[c/_cool|cool]])**
+- **[[a/_agreeable|Agreeable]], [[a/_awesome|awesome]]. (as a [[s/_superlative|superlative]] of [[c/_cool|cool]])**
 ---
 ---

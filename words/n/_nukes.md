@@ -22,8 +22,8 @@
 - **A [[n/_nuclear|nuclear]] weapon.**
 - **(by [[e/_extension|extension]]) [[s/_something|Something]] that [[d/_destroys|destroys]] or [[n/_negates|negates]], [[e/_especially|especially]] on a [[c/_catastrophic|catastrophic]] [[s/_scale|scale]].**
 - **A [[n/_nuclear|nuclear]] [[p/_power|power]] [[s/_station|station]].**
-- **A vessel such as a [[s/_ship|ship]] or submarine [[r/_running|running]] on [[n/_nuclear|nuclear]] [[p/_power|power]].**
-- **A [[p/_person|person]] (such as a [[s/_sailor|sailor]] in a [[n/_navy|navy]] or a [[s/_scientist|scientist]]) who works with [[n/_nuclear|nuclear]] weapons or [[n/_nuclear|nuclear]] [[p/_power|power]].**
+- **A vessel [[s/_such|such]] as a [[s/_ship|ship]] or [[s/_submarine|submarine]] [[r/_running|running]] on [[n/_nuclear|nuclear]] [[p/_power|power]].**
+- **A [[p/_person|person]] ([[s/_such|such]] as a [[s/_sailor|sailor]] in a [[n/_navy|navy]] or a [[s/_scientist|scientist]]) who works with [[n/_nuclear|nuclear]] weapons or [[n/_nuclear|nuclear]] [[p/_power|power]].**
 - **A [[m/_microwave|microwave]] [[o/_oven|oven]].**
 	- _Example: Just put it in the nuke for two minutes and it will be ready to eat._
 ---

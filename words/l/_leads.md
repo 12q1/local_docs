@@ -26,7 +26,7 @@
 - **An [[i/_insulated|insulated]] [[m/_metallic|metallic]] wire for [[e/_electrical|electrical]] [[d/_devices|devices]] and [[e/_equipment|equipment]].**
 - **The [[s/_situation|situation]] where a [[r/_runner|runner]] [[s/_steps|steps]] [[a/_away|away]] from a [[b/_base|base]] while waiting for the [[p/_pitch|pitch]] to be thrown.**
 	- _Example: The runner took his lead from first._
-- **The [[a/_act|act]] or [[r/_right|right]] of [[p/_playing|playing]] [[f/_first|first]] in a [[g/_game|game]] or [[r/_round|round]]; the [[c/_card|card]] suit, or [[p/_piece|piece]], [[s/_so|so]] [[p/_played|played]]**
+- **The [[a/_act|act]] or [[r/_right|right]] of [[p/_playing|playing]] [[f/_first|first]] in a [[g/_game|game]] or [[r/_round|round]]; the [[c/_card|card]] [[s/_suit|suit]], or [[p/_piece|piece]], [[s/_so|so]] [[p/_played|played]]**
 	- _Example: your partner has the lead_
 - **The [[m/_main|main]] [[r/_role|role]] in a [[p/_play|play]] or [[f/_film|film]]; the [[l/_lead|lead]] [[r/_role|role]].**
 - **The [[a/_actor|actor]] who [[p/_plays|plays]] the [[m/_main|main]] [[r/_role|role]]; [[l/_lead|lead]] [[a/_actor|actor]].**
@@ -38,14 +38,14 @@
 	- _Example: Usage note: When used alone it means outside lead, or lead for the admission of steam. Inside lead refers to the release or exhaust._
 - **[[c/_charging|Charging]] [[l/_lead|lead]].**
 - **The [[d/_distance|distance]] of [[h/_haul|haul]], as from a [[c/_cutting|cutting]] to an [[e/_embankment|embankment]].**
-- **The [[a/_action|action]] of a tooth, such as a tooth of a wheel, in [[i/_impelling|impelling]] [[a/_another|another]] tooth or a [[p/_pallet|pallet]].**
+- **The [[a/_action|action]] of a tooth, [[s/_such|such]] as a tooth of a wheel, in [[i/_impelling|impelling]] [[a/_another|another]] tooth or a [[p/_pallet|pallet]].**
 - **[[h/_hypothesis|Hypothesis]] that [[h/_has|has]] not [[b/_been|been]] [[p/_pursued|pursued]]**
 	- _Example: The investigation stalled when all leads turned out to be dead ends._
 - **[[i/_information|Information]] [[o/_obtained|obtained]] by a [[d/_detective|detective]] or [[p/_police|police]] [[o/_officer|officer]] that [[a/_allows|allows]] [[h/_him|him]] or [[h/_her|her]] to [[d/_discover|discover]] [[f/_further|further]] [[d/_details|details]] [[a/_about|about]] a [[c/_crime|crime]] or [[i/_incident|incident]].**
 	- _Example: The police have a couple of leads they will follow to solve the case._
 - **[[p/_potential|Potential]] [[o/_opportunity|opportunity]] for a [[s/_sale|sale]] or transaction, a [[p/_potential|potential]] [[c/_customer|customer]].**
 	- _Example: Joe is a great addition to our sales team, he has numerous leads in the paper industry._
-- **[[i/_information|Information]] [[o/_obtained|obtained]] by a [[n/_news|news]] [[r/_reporter|reporter]] [[a/_about|about]] an [[i/_issue|issue]] or subject that [[a/_allows|allows]] [[h/_him|him]] or [[h/_her|her]] to [[d/_discover|discover]] [[m/_more|more]] [[d/_details|details]].**
+- **[[i/_information|Information]] [[o/_obtained|obtained]] by a [[n/_news|news]] [[r/_reporter|reporter]] [[a/_about|about]] an [[i/_issue|issue]] or [[s/_subject|subject]] that [[a/_allows|allows]] [[h/_him|him]] or [[h/_her|her]] to [[d/_discover|discover]] [[m/_more|more]] [[d/_details|details]].**
 - **The [[p/_player|player]] who throws the [[f/_first|first]] two [[r/_rocks|rocks]] for a team.**
 - **([[n/_newspapers|newspapers]]) A teaser; a [[l/_lead|lead]]-in; the [[s/_start|start]] of a [[n/_newspaper|newspaper]] [[c/_column|column]], telling who, what, when, where, why and [[h/_how|how]]. ([[s/_sometimes|Sometimes]] [[s/_spelled|spelled]] as [[l/_lede|lede]] for this usage to [[a/_avoid|avoid]] [[a/_ambiguity|ambiguity]].)**
 - **An [[i/_important|important]] [[n/_news|news]] [[s/_story|story]] that [[a/_appears|appears]] on the [[f/_front|front]] [[p/_page|page]] of a [[n/_newspaper|newspaper]] or at the [[b/_beginning|beginning]] of a [[n/_news|news]] [[b/_broadcast|broadcast]]**

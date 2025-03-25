@@ -10,7 +10,7 @@
 	- _Example: The waters overflowed into the Ninth Ward._
 - **To [[e/_exceed|exceed]] [[l/_limits|limits]] or [[c/_capacity|capacity]].**
 	- _Example: The hospital ER was overflowing with flu cases._
-- **To be superabundant; to [[a/_abound|abound]].**
+- **To be [[s/_superabundant|superabundant]]; to [[a/_abound|abound]].**
 ---
 #noun
 - **[[o/_overflow|Overflow]]**

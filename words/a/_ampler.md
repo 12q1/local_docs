@@ -3,7 +3,7 @@
 #adjective
 - **[[l/_large|Large]]; [[g/_great|great]] in [[s/_size|size]], [[e/_extent|extent]], [[c/_capacity|capacity]], or [[b/_bulk|bulk]]; for [[e/_example|example]] [[s/_spacious|spacious]], [[r/_roomy|roomy]] or widely [[e/_extended|extended]].**
 	- _Example: an ample house_
-- **[[f/_fully|Fully]] sufficient; [[a/_abundant|abundant]]; [[p/_plenty|plenty]]**
+- **[[f/_fully|Fully]] [[s/_sufficient|sufficient]]; [[a/_abundant|abundant]]; [[p/_plenty|plenty]]**
 	- _Example: ample material_
 - **Not [[c/_contracted|contracted]] or [[b/_brief|brief]]; not [[c/_concise|concise]]; [[e/_extended|extended]]; [[d/_diffusive|diffusive]]**
 	- _Example: an ample story_

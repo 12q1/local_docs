@@ -7,7 +7,7 @@
 - **[[m/_more|More]] [[g/_generally|generally]], [[s/_something|something]] [[o/_owned|owned]] by [[s/_someone|someone]]; a [[p/_possession|possession]].**
 - **The [[f/_fact|fact]] of [[p/_possessing|possessing]] [[s/_something|something]]; [[o/_ownership|ownership]].**
 - **[[c/_correct|Correct]] [[l/_language|language]] or [[p/_pronunciation|pronunciation]].**
-- **Suitability, [[f/_fitness|fitness]]; the [[q/_quality|quality]] of [[b/_being|being]] [[a/_appropriate|appropriate]].**
+- **[[s/_suitability|Suitability]], [[f/_fitness|fitness]]; the [[q/_quality|quality]] of [[b/_being|being]] [[a/_appropriate|appropriate]].**
 - **([[o/_often|often]] in the [[p/_plural|plural]]) [[c/_correctness|Correctness]] in [[b/_behaviour|behaviour]] and [[m/_morals|morals]]; [[g/_good|good]] [[m/_manners|manners]], [[s/_seemliness|seemliness]].**
 ---
 ---

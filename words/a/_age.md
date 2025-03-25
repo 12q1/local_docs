@@ -17,7 +17,7 @@
 	- _Example: There are three ages living in her house._
 - **A [[l/_long|long]] time.**
 	- _Example: It’s been an age since we last saw you._
-- **A unit of [[g/_geologic|geologic]] time subdividing an [[e/_epoch|epoch]] [[i/_into|into]] [[s/_smaller|smaller]] [[p/_parts|parts]].**
+- **A unit of [[g/_geologic|geologic]] time [[s/_subdividing|subdividing]] an [[e/_epoch|epoch]] [[i/_into|into]] [[s/_smaller|smaller]] [[p/_parts|parts]].**
 - **The [[r/_right|right]] of the [[p/_player|player]] to the [[l/_left|left]] of the [[d/_dealer|dealer]] to [[p/_pass|pass]] the [[f/_first|first]] [[r/_round|round]] in [[b/_betting|betting]], and then to [[c/_come|come]] in [[l/_last|last]] or [[s/_stay|stay]] [[o/_out|out]]; [[a/_also|also]], the [[p/_player|player]] [[h/_holding|holding]] this [[p/_position|position]]; the [[e/_eldest|eldest]] [[h/_hand|hand]].**
 - **That [[p/_part|part]] of the [[d/_duration|duration]] of a [[b/_being|being]] or a thing which is [[b/_between|between]] [[i/_its|its]] [[b/_beginning|beginning]] and [[a/_any|any]] [[g/_given|given]] time; [[s/_specifically|specifically]] the [[s/_size|size]] of that [[p/_part|part]].**
 	- _Example: What is the present age of a man, or of the earth?_

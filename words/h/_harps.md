@@ -6,7 +6,7 @@
 - **A [[g/_grain|grain]] [[s/_sieve|sieve]].**
 ---
 #verb
-- **(usually with on) To [[r/_repeatedly|repeatedly]] [[m/_mention|mention]] a subject.**
+- **(usually with on) To [[r/_repeatedly|repeatedly]] [[m/_mention|mention]] a [[s/_subject|subject]].**
 	- _Example: Why do you harp on a single small mistake?_
 - **To [[p/_play|play]] on (a [[h/_harp|harp]] or [[s/_similar|similar]] [[i/_instrument|instrument]])**
 - **To [[p/_play|play]] (a tune) on the [[h/_harp|harp]].**

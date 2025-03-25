@@ -13,7 +13,7 @@
 	- _Example: The word "scrub" begins with a cluster of three consonants._
 - **A [[g/_group|group]] of [[c/_computers|computers]] that work together.**
 - **A [[l/_logical|logical]] [[d/_data|data]] [[s/_storage|storage]] unit [[c/_containing|containing]] [[o/_one|one]] or [[m/_more|more]] [[p/_physical|physical]] [[s/_sectors|sectors]] ([[s/_see|see]] [[b/_block|block]]).**
-- **A [[s/_significant|significant]] subset within a [[p/_population|population]].**
+- **A [[s/_significant|significant]] [[s/_subset|subset]] within a [[p/_population|population]].**
 - **[[s/_set|Set]] of [[b/_bombs|bombs]] or [[m/_mines|mines]].**
 - **A [[s/_small|small]] [[m/_metal|metal]] [[d/_design|design]] that [[i/_indicates|indicates]] that a [[m/_medal|medal]] [[h/_has|has]] [[b/_been|been]] [[a/_awarded|awarded]] to the [[s/_same|same]] [[p/_person|person]] [[b/_before|before]].**
 - **[[e/_euphemism|Euphemism]] of clusterfuck.**

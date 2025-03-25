@@ -1,7 +1,7 @@
 # Habitual
 ---
 #noun
-- **[[o/_one|One]] who [[d/_does|does]] [[s/_something|something]] [[h/_habitually|habitually]], such as a [[s/_serial|serial]] [[c/_criminal|criminal]] [[o/_offender|offender]].**
+- **[[o/_one|One]] who [[d/_does|does]] [[s/_something|something]] [[h/_habitually|habitually]], [[s/_such|such]] as a [[s/_serial|serial]] [[c/_criminal|criminal]] [[o/_offender|offender]].**
 - **([[g/_grammar|grammar]]) A [[c/_construction|construction]] [[r/_representing|representing]] [[s/_something|something]] [[d/_done|done]] [[h/_habitually|habitually]].**
 ---
 #adjective

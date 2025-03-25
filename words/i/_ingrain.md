@@ -1,7 +1,7 @@
 # Ingrain
 ---
 #noun
-- **An [[i/_ingrain|ingrain]] [[f/_fabric|fabric]], such as a [[c/_carpet|carpet]].**
+- **An [[i/_ingrain|ingrain]] [[f/_fabric|fabric]], [[s/_such|such]] as a [[c/_carpet|carpet]].**
 ---
 #verb
 - **To [[d/_dye|dye]] with a [[f/_fast|fast]] or [[l/_lasting|lasting]] [[c/_colour|colour]].**
@@ -12,6 +12,6 @@
 - [[e/_embed|embed]], [[i/_infix|infix]], [[i/_instill|instill]], [[r/_radicate|radicate]]
 #adjective
 - **[[d/_dyed|Dyed]] with [[g/_grain|grain]], or [[k/_kermes|kermes]].**
-- **[[d/_dyed|Dyed]] [[b/_before|before]] [[m/_manufacture|manufacture]]; [[s/_said|said]] of the [[m/_material|material]] of a textile [[f/_fabric|fabric]]; [[h/_hence|hence]], in [[g/_general|general]], thoroughly [[i/_inwrought|inwrought]]; [[f/_forming|forming]] an [[e/_essential|essential]] [[p/_part|part]] of the substance.**
+- **[[d/_dyed|Dyed]] [[b/_before|before]] [[m/_manufacture|manufacture]]; [[s/_said|said]] of the [[m/_material|material]] of a textile [[f/_fabric|fabric]]; [[h/_hence|hence]], in [[g/_general|general]], thoroughly [[i/_inwrought|inwrought]]; [[f/_forming|forming]] an [[e/_essential|essential]] [[p/_part|part]] of the [[s/_substance|substance]].**
 ---
 ---

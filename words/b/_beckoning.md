@@ -5,7 +5,7 @@
 - **To [[s/_seem|seem]] [[a/_attractive|attractive]] and [[i/_inviting|inviting]]**
 ---
 #noun
-- **Such a wave or [[s/_similar|similar]] [[a/_action|action]].**
+- **[[s/_such|Such]] a wave or [[s/_similar|similar]] [[a/_action|action]].**
 ---
 #adjective
 - **That [[b/_beckons|beckons]].**

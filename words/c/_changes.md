@@ -6,7 +6,7 @@
 - **[[s/_small|Small]] [[d/_denominations|denominations]] of [[m/_money|money]] [[g/_given|given]] in [[e/_exchange|exchange]] for a [[l/_larger|larger]] [[d/_denomination|denomination]].**
 	- _Example: Can I get change for this $100 bill please?_
 - **A [[r/_replacement|replacement]], [[e/_e|e]].[[g/_g|g]]. a [[c/_change|change]] of [[c/_clothes|clothes]]**
-- **[[b/_balance|Balance]] of [[m/_money|money]] [[r/_returned|returned]] from the sum [[p/_paid|paid]] [[a/_after|after]] [[d/_deducting|deducting]] the [[p/_price|price]] of a [[p/_purchase|purchase]].**
+- **[[b/_balance|Balance]] of [[m/_money|money]] [[r/_returned|returned]] from the [[s/_sum|sum]] [[p/_paid|paid]] [[a/_after|after]] [[d/_deducting|deducting]] the [[p/_price|price]] of a [[p/_purchase|purchase]].**
 	- _Example: A customer who pays with a 10-pound note for a £9 item receives one pound in change._
 - **Usually [[c/_coins|coins]] (as [[o/_opposed|opposed]] to [[p/_paper|paper]] [[m/_money|money]]), but [[s/_sometimes|sometimes]] [[i/_inclusive|inclusive]] of [[p/_paper|paper]] [[m/_money|money]]**
 	- _Example: Do you have any change on you? I need to make a phone call._

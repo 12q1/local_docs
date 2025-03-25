@@ -7,6 +7,6 @@
 #noun
 - **The [[b/_borders|borders]] or [[l/_limits|limits]] of an [[a/_area|area]].**
 - **[[e/_elements|Elements]] that [[r/_restrain|restrain]] [[s/_someone|someone]].**
-- **The [[s/_scope|scope]] or [[r/_range|range]] of a subject.**
+- **The [[s/_scope|scope]] or [[r/_range|range]] of a [[s/_subject|subject]].**
 ---
 ---

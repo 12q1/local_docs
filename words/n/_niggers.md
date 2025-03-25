@@ -7,7 +7,7 @@
 - **A [[f/_friend|friend]].**
 - **A [[f/_fish|fish]], the luderick ([[g/_girella|Girella]] tricuspidata).**
 - **A [[d/_dark|dark]] [[b/_brown|brown]] [[b/_butterfly|butterfly]], Orsotriaena medus.**
-- **An [[i/_impurity|impurity]] in the [[c/_covering|covering]] of an [[e/_electrical|electrical]] [[c/_conductor|conductor]] which [[s/_serves|serves]] to [[m/_make|make]] a [[p/_partial|partial]] [[s/_short|short]] [[c/_circuit|circuit]], and thus [[b/_becomes|becomes]] sufficiently [[h/_heated|heated]] to [[b/_burn|burn]] and [[d/_destroy|destroy]] the [[i/_insulation|insulation]].**
+- **An [[i/_impurity|impurity]] in the [[c/_covering|covering]] of an [[e/_electrical|electrical]] [[c/_conductor|conductor]] which [[s/_serves|serves]] to [[m/_make|make]] a [[p/_partial|partial]] [[s/_short|short]] [[c/_circuit|circuit]], and thus [[b/_becomes|becomes]] [[s/_sufficiently|sufficiently]] [[h/_heated|heated]] to [[b/_burn|burn]] and [[d/_destroy|destroy]] the [[i/_insulation|insulation]].**
 - **A [[k/_kind|kind]] of [[s/_sea|sea]] [[c/_cucumber|cucumber]], [[h/_holothuria|Holothuria]] forskali, the [[c/_cotton|cotton]] [[s/_spinner|spinner]].**
 - **The [[l/_larva|larva]] of the turnip [[s/_sawfly|sawfly]], an [[a/_agricultural|agricultural]] [[p/_pest|pest]].**
 - **A [[s/_strong|strong]] [[i/_iron|iron]]-[[b/_bound|bound]] timber with [[s/_sharp|sharp]] teeth or [[s/_spikes|spikes]] [[p/_protruding|protruding]] from [[i/_its|its]] [[f/_front|front]] [[f/_face|face]], [[f/_forming|forming]] [[p/_part|part]] of the [[m/_machinery|machinery]] of a [[s/_sawmill|sawmill]], and used in [[c/_canting|canting]] [[l/_logs|logs]], [[e/_etc|etc]].**

@@ -8,6 +8,6 @@
 - **To [[f/_furnish|furnish]] with [[c/_credentials|credentials]]**
 ---
 #noun
-- **[[d/_documentary|Documentary]] [[e/_evidence|evidence]] of [[s/_someone|someone]]'[[s/_s|s]] [[r/_right|right]] to [[c/_credit|credit]] or [[a/_authority|authority]], [[e/_especially|especially]] such a [[d/_document|document]] [[g/_given|given]] to an [[a/_ambassador|ambassador]] by a [[c/_country|country]].**
+- **[[d/_documentary|Documentary]] [[e/_evidence|evidence]] of [[s/_someone|someone]]'[[s/_s|s]] [[r/_right|right]] to [[c/_credit|credit]] or [[a/_authority|authority]], [[e/_especially|especially]] [[s/_such|such]] a [[d/_document|document]] [[g/_given|given]] to an [[a/_ambassador|ambassador]] by a [[c/_country|country]].**
 ---
 ---

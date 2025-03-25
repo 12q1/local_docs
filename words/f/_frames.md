@@ -19,7 +19,7 @@
 	- _Example: a forcing-frame; a cucumber frame_
 - **The [[o/_outer|outer]] [[d/_decorated|decorated]] [[p/_portion|portion]] of a [[s/_stamp|stamp]]'[[s/_s|s]] [[i/_image|image]], [[o/_often|often]] [[r/_repeated|repeated]] on [[s/_several|several]] [[i/_issues|issues]] [[a/_although|although]] the [[i/_inner|inner]] [[p/_picture|picture]] [[m/_may|may]] [[c/_change|change]].**
 - **The [[o/_outer|outer]] [[c/_circle|circle]] of a [[c/_cancellation|cancellation]] [[m/_mark|mark]].**
-- **A [[d/_division|division]] of time on a [[m/_multimedia|multimedia]] timeline, such as 1/30th or 1/60th of a [[s/_second|second]].**
+- **A [[d/_division|division]] of time on a [[m/_multimedia|multimedia]] timeline, [[s/_such|such]] as 1/30th or 1/60th of a [[s/_second|second]].**
 - **An [[i/_individually|individually]] scrollable [[r/_region|region]] of a webpage.**
 - **An [[i/_inning|inning]].**
 - **[[a/_any|Any]] of [[c/_certain|certain]] [[m/_machines|machines]] [[b/_built|built]] upon or within [[f/_framework|framework]].**
@@ -33,12 +33,12 @@
 - **A [[c/_complete|complete]] [[l/_lattice|lattice]] in which [[m/_meets|meets]] [[d/_distribute|distribute]] [[o/_over|over]] [[a/_arbitrary|arbitrary]] [[j/_joins|joins]].**
 ---
 #verb
-- **To [[f/_fit|fit]], as for a [[s/_specific|specific]] [[e/_end|end]] or [[p/_purpose|purpose]]; [[m/_make|make]] suitable or [[c/_comfortable|comfortable]]; [[a/_adapt|adapt]]; [[a/_adjust|adjust]].**
+- **To [[f/_fit|fit]], as for a [[s/_specific|specific]] [[e/_end|end]] or [[p/_purpose|purpose]]; [[m/_make|make]] [[s/_suitable|suitable]] or [[c/_comfortable|comfortable]]; [[a/_adapt|adapt]]; [[a/_adjust|adjust]].**
 - **To [[c/_construct|construct]] by [[f/_fitting|fitting]] or uniting together various [[p/_parts|parts]]; [[f/_fabricate|fabricate]] by union of [[c/_constituent|constituent]] [[p/_parts|parts]].**
 - **To [[b/_bring|bring]] or [[p/_put|put]] [[i/_into|into]] [[f/_form|form]] or [[o/_order|order]]; [[a/_adjust|adjust]] the [[p/_parts|parts]] or [[e/_elements|elements]] of; [[c/_compose|compose]]; [[c/_contrive|contrive]]; [[p/_plan|plan]]; [[d/_devise|devise]].**
-- **Of a [[c/_constructed|constructed]] [[o/_object|object]] such as a [[b/_building|building]], to [[p/_put|put]] together the [[s/_structural|structural]] [[e/_elements|elements]].**
+- **Of a [[c/_constructed|constructed]] [[o/_object|object]] [[s/_such|such]] as a [[b/_building|building]], to [[p/_put|put]] together the [[s/_structural|structural]] [[e/_elements|elements]].**
 	- _Example: Once we finish framing the house, we'll hang tin on the roof._
-- **Of a [[p/_picture|picture]] such as a [[p/_painting|painting]] or [[p/_photograph|photograph]], to [[p/_place|place]] [[i/_inside|inside]] a [[d/_decorative|decorative]] [[b/_border|border]].**
+- **Of a [[p/_picture|picture]] [[s/_such|such]] as a [[p/_painting|painting]] or [[p/_photograph|photograph]], to [[p/_place|place]] [[i/_inside|inside]] a [[d/_decorative|decorative]] [[b/_border|border]].**
 - **To [[p/_position|position]] visually within a [[f/_fixed|fixed]] [[b/_boundary|boundary]].**
 	- _Example: The director frames the fishing scene very well._
 - **To [[c/_construct|construct]] in words [[s/_so|so]] as to [[e/_establish|establish]] a [[c/_context|context]] for understanding or [[i/_interpretation|interpretation]].**
@@ -55,7 +55,7 @@
 - **To [[c/_cause|cause]]; to [[b/_bring|bring]] [[a/_about|about]]; to [[p/_produce|produce]].**
 - **To [[p/_profit|profit]]; [[a/_avail|avail]].**
 - **To [[f/_fit|fit]]; [[a/_accord|accord]].**
-- **To succeed in [[d/_doing|doing]] or trying to [[d/_do|do]] [[s/_something|something]]; [[m/_manage|manage]].**
+- **To [[s/_succeed|succeed]] in [[d/_doing|doing]] or trying to [[d/_do|do]] [[s/_something|something]]; [[m/_manage|manage]].**
 ---
 ### Synonyms
 - 

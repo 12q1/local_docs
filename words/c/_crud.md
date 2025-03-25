@@ -13,6 +13,6 @@
 ### Synonyms
 - [[c/_crap|crap]]
 #interjection
-- **[[n/_non|Non]]-vulgar [[i/_interjection|interjection]] [[e/_expressing|expressing]] [[a/_annoyance|annoyance]], [[a/_anxiety|anxiety]], [[e/_etc|etc]].; sugar, [[d/_damn|damn]].**
+- **[[n/_non|Non]]-vulgar [[i/_interjection|interjection]] [[e/_expressing|expressing]] [[a/_annoyance|annoyance]], [[a/_anxiety|anxiety]], [[e/_etc|etc]].; [[s/_sugar|sugar]], [[d/_damn|damn]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Corinthian
 ---
 #noun
-- **An [[i/_inhabitant|inhabitant]] or a [[r/_resident|resident]] of [[c/_corinth|Corinth]], and [[i/_its|its]] suburbs.**
+- **An [[i/_inhabitant|inhabitant]] or a [[r/_resident|resident]] of [[c/_corinth|Corinth]], and [[i/_its|its]] [[s/_suburbs|suburbs]].**
 - **An [[i/_inhabitant|inhabitant]], a [[r/_resident|resident]] of; a thing that [[o/_originates|originates]] from Corinthia**
 - **An [[a/_accomplished|accomplished]] [[a/_amateur|amateur]] [[a/_athlete|athlete]].**
 - **A [[s/_sailboat|sailboat]] [[o/_owner|owner]] who [[h/_helms|helms]] [[h/_his|his]] or [[h/_her|her]] [[o/_own|own]] [[b/_boat|boat]] in [[c/_competitive|competitive]] [[r/_racing|racing]].**

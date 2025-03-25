@@ -4,7 +4,7 @@
 - **To [[p/_pass|pass]] from a [[h/_higher|higher]] to a [[l/_lower|lower]] [[p/_place|place]]; to [[m/_move|move]] [[d/_downwards|downwards]]; to [[c/_come|come]] or [[g/_go|go]] [[d/_down|down]] in [[a/_any|any]] way, for [[e/_example|example]] by [[f/_falling|falling]], [[f/_flowing|flowing]], walking, [[c/_climbing|climbing]] [[e/_etc|etc]].**
 	- _Example: The rain descended, and the floods came._
 - **To [[e/_enter|enter]] [[m/_mentally|mentally]]; to [[r/_retire|retire]].**
-- **(with on or upon) To [[m/_make|make]] an [[a/_attack|attack]], or [[i/_incursion|incursion]], as [[i/_if|if]] from a vantage [[g/_ground|ground]]; to [[c/_come|come]] suddenly and with violence.**
+- **(with on or upon) To [[m/_make|make]] an [[a/_attack|attack]], or [[i/_incursion|incursion]], as [[i/_if|if]] from a vantage [[g/_ground|ground]]; to [[c/_come|come]] [[s/_suddenly|suddenly]] and with violence.**
 	- _Example: And on the suitors let thy wrath descend._
 - **To [[c/_come|come]] [[d/_down|down]] to a [[l/_lower|lower]], [[l/_less|less]] [[f/_fortunate|fortunate]], [[h/_humbler|humbler]], [[l/_less|less]] virtuous, or worse, [[s/_state|state]] or [[r/_rank|rank]]; to [[l/_lower|lower]] or [[a/_abase|abase]] [[o/_oneself|oneself]]**
 	- _Example: he descended from his high estate_
@@ -27,7 +27,7 @@
 	- _Example: continual ascendings and descendings_
 ---
 #adjective
-- **(of a [[s/_sequence|sequence]]) [[o/_ordered|Ordered]] such that [[e/_each|each]] [[e/_element|element]] is [[l/_less|less]] than or [[e/_equal|equal]] to the [[p/_previous|previous]] [[e/_element|element]].**
+- **(of a [[s/_sequence|sequence]]) [[o/_ordered|Ordered]] [[s/_such|such]] that [[e/_each|each]] [[e/_element|element]] is [[l/_less|less]] than or [[e/_equal|equal]] to the [[p/_previous|previous]] [[e/_element|element]].**
 	- _Example: Please arrange these numbers in a descending order._
 - **That [[c/_causes|causes]] a [[s/_sequence|sequence]] to [[f/_follow|follow]] a [[d/_descending|descending]] [[o/_order|order]].**
 	- _Example: We used a descending sort._

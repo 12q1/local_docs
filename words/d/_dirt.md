@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[s/_soil|Soil]] or [[e/_earth|earth]].**
-- **A [[s/_stain|stain]] or [[s/_spot|spot]] (on [[c/_clothes|clothes]] [[e/_etc|etc]]); [[a/_any|any]] [[f/_foreign|foreign]] substance that worsens [[a/_appearance|appearance]].**
+- **A [[s/_stain|stain]] or [[s/_spot|spot]] (on [[c/_clothes|clothes]] [[e/_etc|etc]]); [[a/_any|any]] [[f/_foreign|foreign]] [[s/_substance|substance]] that worsens [[a/_appearance|appearance]].**
 - **[[p/_previously|Previously]] unknown [[f/_facts|facts]], or the [[i/_invented|invented]] "[[f/_facts|facts]]", [[a/_about|about]] a [[p/_person|person]].**
 	- _Example: The reporter uncovered the dirt on the businessman by going undercover._
 - **[[m/_meanness|Meanness]]; [[s/_sordidness|sordidness]].**

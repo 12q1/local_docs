@@ -8,7 +8,7 @@
 - **To [[o/_overwhelm|overwhelm]] by [[p/_pressure|pressure]] or weight.**
 	- _Example: After the corruption scandal, the opposition crushed the ruling party in the elections_
 - **To [[o/_oppress|oppress]] or [[g/_grievously|grievously]] [[b/_burden|burden]].**
-- **To [[o/_overcome|overcome]] [[c/_completely|completely]]; to subdue totally.**
+- **To [[o/_overcome|overcome]] [[c/_completely|completely]]; to [[s/_subdue|subdue]] totally.**
 	- _Example: The sultan's black guard crushed every resistance bloodily._
 - **To be or [[b/_become|become]] [[b/_broken|broken]] [[d/_down|down]] or in, or [[p/_pressed|pressed]] [[i/_into|into]] a [[s/_smaller|smaller]] [[c/_compass|compass]], by [[e/_external|external]] weight or [[f/_force|force]]**
 	- _Example: an eggshell crushes easily_

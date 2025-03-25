@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[e/_excessive|excessive]] [[l/_load|load]].**
-- **The [[d/_damage|damage]] [[d/_done|done]], or the [[o/_outage|outage]] [[c/_caused|caused]] by such a [[l/_load|load]].**
+- **The [[d/_damage|damage]] [[d/_done|done]], or the [[o/_outage|outage]] [[c/_caused|caused]] by [[s/_such|such]] a [[l/_load|load]].**
 - **An [[o/_overloaded|overloaded]] version of a [[f/_function|function]].**
 ---
 #verb

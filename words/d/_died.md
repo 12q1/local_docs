@@ -19,7 +19,7 @@
 - **(of a [[c/_computer|computer]] [[p/_program|program]]) To [[a/_abort|abort]], to terminate (as an [[e/_error|error]] [[c/_condition|condition]]).**
 - **To [[p/_perish|perish]]; to [[c/_cease|cease]] to [[e/_exist|exist]]; to [[b/_become|become]] [[l/_lost|lost]] or [[e/_extinct|extinct]].**
 - **To [[s/_sink|sink]]; to [[f/_faint|faint]]; to [[p/_pine|pine]]; to [[l/_languish|languish]], with weakness, [[d/_discouragement|discouragement]], [[l/_love|love]], [[e/_etc|etc]].**
-- **([[o/_often|often]] with "to") To [[b/_become|become]] [[i/_indifferent|indifferent]]; to [[c/_cease|cease]] to be subject.**
+- **([[o/_often|often]] with "to") To [[b/_become|become]] [[i/_indifferent|indifferent]]; to [[c/_cease|cease]] to be [[s/_subject|subject]].**
 	- _Example: to die to pleasure or to sin_
 - **To [[d/_disappear|disappear]] [[g/_gradually|gradually]] in [[a/_another|another]] surface, as where [[m/_mouldings|mouldings]] are [[l/_lost|lost]] in a [[s/_sloped|sloped]] or [[c/_curved|curved]] [[f/_face|face]].**
 - **To [[b/_become|become]] vapid, [[f/_flat|flat]], or [[s/_spiritless|spiritless]], as [[l/_liquor|liquor]].**

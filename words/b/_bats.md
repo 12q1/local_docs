@@ -7,7 +7,7 @@
 ### Synonyms
 - [[c/_chiropter|chiropter]], [[c/_chiropteran|chiropteran]], [[f/_flindermouse|flindermouse]], [[f/_flittermouse|flittermouse]], [[f/_fluttermouse|fluttermouse]], [[f/_flying-mouse|flying-mouse]], [[r/_rearmouse|rearmouse]], [[r/_reremouse|reremouse]]
 #noun
-- **A [[c/_club|club]] [[m/_made|made]] of wood or [[a/_aluminium|aluminium]] used for [[s/_striking|striking]] the [[b/_ball|ball]] in [[s/_sports|sports]] such as [[b/_baseball|baseball]], [[s/_softball|softball]] and [[c/_cricket|cricket]].**
+- **A [[c/_club|club]] [[m/_made|made]] of wood or [[a/_aluminium|aluminium]] used for [[s/_striking|striking]] the [[b/_ball|ball]] in [[s/_sports|sports]] [[s/_such|such]] as [[b/_baseball|baseball]], [[s/_softball|softball]] and [[c/_cricket|cricket]].**
 - **A turn at [[h/_hitting|hitting]] the [[b/_ball|ball]] with a [[b/_bat|bat]] in a [[g/_game|game]].**
 	- _Example: You've been in for ages. Can I have a bat now?_
 - **The [[p/_piece|piece]] of wood on which the [[s/_spinner|spinner]] [[p/_places|places]] the [[c/_coins|coins]] and then uses for throwing them.**

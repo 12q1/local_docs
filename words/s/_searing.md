@@ -13,6 +13,6 @@
 ---
 #adjective
 - **Very [[h/_hot|hot]]; [[b/_blistering|blistering]] or [[b/_boiling|boiling]]**
-- **(of a [[p/_pain|pain]]) [[h/_having|having]] a [[s/_sensation|sensation]] of [[i/_intense|intense]] sudden [[h/_heat|heat]]**
+- **(of a [[p/_pain|pain]]) [[h/_having|having]] a [[s/_sensation|sensation]] of [[i/_intense|intense]] [[s/_sudden|sudden]] [[h/_heat|heat]]**
 ---
 ---

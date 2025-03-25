@@ -9,7 +9,7 @@
 - **To [[d/_drive|drive]] (an [[a/_animal|animal]]) to [[c/_covert|covert]].**
 - **To supply with a [[r/_room|room]] or [[p/_place|place]] to [[s/_sleep|sleep]] in for a time.**
 - **To [[p/_put|put]] [[m/_money|money]], [[j/_jewellery|jewellery]], or [[o/_other|other]] valuables for [[s/_safety|safety]].**
-- **To [[p/_place|place]] (a [[s/_statement|statement]], [[e/_etc|etc]].) with the [[p/_proper|proper]] [[a/_authorities|authorities]] (such as [[c/_courts|courts]], [[e/_etc|etc]].).**
+- **To [[p/_place|place]] (a [[s/_statement|statement]], [[e/_etc|etc]].) with the [[p/_proper|proper]] [[a/_authorities|authorities]] ([[s/_such|such]] as [[c/_courts|courts]], [[e/_etc|etc]].).**
 - **To [[b/_become|become]] [[f/_flattened|flattened]], as [[g/_grass|grass]] or [[g/_grain|grain]], when [[o/_overgrown|overgrown]] or [[b/_beaten|beaten]] [[d/_down|down]] by the wind.**
 	- _Example: The heavy rain caused the wheat to lodge._
 - **To [[c/_cause|cause]] to [[f/_flatten|flatten]], as [[g/_grass|grass]] or [[g/_grain|grain]].**

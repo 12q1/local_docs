@@ -7,6 +7,6 @@
 - **A [[c/_circular|circular]] [[b/_building|building]] in which [[l/_locomotives|locomotives]] are [[h/_housed|housed]].**
 - **A [[p/_prehistoric|prehistoric]] [[d/_dwelling|dwelling]] typical of [[n/_northwest|northwest]] [[e/_europe|Europe]] in the [[i/_iron|Iron]] [[a/_age|Age]] and [[b/_bronze|Bronze]] [[a/_age|Age]].**
 - **A [[p/_punch|punch]] or [[k/_kick|kick]] [[d/_delivered|delivered]] with an [[e/_exaggerated|exaggerated]] sweeping [[m/_movement|movement]].**
-- **In the [[g/_game|game]] of [[p/_pinochle|pinochle]], a [[m/_meld|meld]] [[c/_consisting|consisting]] of a [[q/_queen|queen]] and [[k/_king|king]] in [[e/_each|each]] of the [[f/_four|four]] suits.**
+- **In the [[g/_game|game]] of [[p/_pinochle|pinochle]], a [[m/_meld|meld]] [[c/_consisting|consisting]] of a [[q/_queen|queen]] and [[k/_king|king]] in [[e/_each|each]] of the [[f/_four|four]] [[s/_suits|suits]].**
 ---
 ---

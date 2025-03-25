@@ -4,10 +4,10 @@
 - **The [[a/_amount|amount]] of [[s/_space|space]] [[b/_between|between]] two [[p/_points|points]], usually [[g/_geographical|geographical]] [[p/_points|points]], usually (but not [[n/_necessarily|necessarily]]) [[m/_measured|measured]] [[a/_along|along]] a [[s/_straight|straight]] [[l/_line|line]].**
 	- _Example: From Moscow, the distance is relatively short to Saint Petersburg, relatively long to Novosibirsk, but even greater to Vladivostok._
 - **[[l/_length|Length]] or [[i/_interval|interval]] of time.**
-- **The [[d/_difference|difference]]; the subjective [[m/_measure|measure]] [[b/_between|between]] two [[q/_quantities|quantities]].**
+- **The [[d/_difference|difference]]; the [[s/_subjective|subjective]] [[m/_measure|measure]] [[b/_between|between]] two [[q/_quantities|quantities]].**
 	- _Example: We're narrowing the distance between the two versions of the bill.  The distance between the lowest and next gear on my bicycle is annoying._
 - **[[r/_remoteness|Remoteness]] of [[p/_place|place]]; a [[r/_remote|remote]] [[p/_place|place]].**
-- **[[r/_remoteness|Remoteness]] in succession or [[r/_relation|relation]].**
+- **[[r/_remoteness|Remoteness]] in [[s/_succession|succession]] or [[r/_relation|relation]].**
 	- _Example: the distance between a descendant and his ancestor_
 - **A [[s/_space|space]] [[m/_marked|marked]] [[o/_out|out]] in the [[l/_last|last]] [[p/_part|part]] of a [[r/_racecourse|racecourse]].**
 - **The [[e/_entire|entire]] [[a/_amount|amount]] of [[p/_progress|progress]] to an [[o/_objective|objective]].**

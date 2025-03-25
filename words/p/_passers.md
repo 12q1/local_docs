@@ -1,7 +1,7 @@
 # Passers
 ---
 #noun
-- **[[o/_one|One]] who succeeds in [[p/_passing|passing]] a test, [[e/_etc|etc]].**
+- **[[o/_one|One]] who [[s/_succeeds|succeeds]] in [[p/_passing|passing]] a test, [[e/_etc|etc]].**
 - **[[s/_someone|Someone]] who [[p/_passes|passes]], [[s/_someone|someone]] who [[m/_makes|makes]] a [[p/_pass|pass]].**
 - **A [[p/_passed|passed]] [[p/_pawn|pawn]].**
 - **[[o/_one|One]] who [[p/_passes|passes]]; a [[p/_passer|passer]]-by.**

@@ -51,8 +51,8 @@
 - **To tend, as to an [[e/_effect|effect]] or [[c/_consequence|consequence]]; to [[i/_incline|incline]].**
 - **To [[h/_have|have]] a [[l/_legal|legal]] [[c/_course|course]]; to be [[a/_attached|attached]]; to [[c/_continue|continue]] in [[f/_force|force]], [[e/_effect|effect]], or [[o/_operation|operation]]; to [[f/_follow|follow]]; to [[g/_go|go]] in [[c/_company|company]].**
 	- _Example: Certain covenants run with the land._
-- **To [[e/_encounter|encounter]] or suffer (a [[p/_particular|particular]], usually [[b/_bad|bad]], [[f/_fate|fate]] or [[m/_misfortune|misfortune]]).**
-- **To [[s/_strike|strike]] (the [[b/_ball|ball]]) in such a way as to [[c/_cause|cause]] it to [[r/_run|run]] [[a/_along|along]] the [[g/_ground|ground]], as when [[a/_approaching|approaching]] a [[h/_hole|hole]].**
+- **To [[e/_encounter|encounter]] or [[s/_suffer|suffer]] (a [[p/_particular|particular]], usually [[b/_bad|bad]], [[f/_fate|fate]] or [[m/_misfortune|misfortune]]).**
+- **To [[s/_strike|strike]] (the [[b/_ball|ball]]) in [[s/_such|such]] a way as to [[c/_cause|cause]] it to [[r/_run|run]] [[a/_along|along]] the [[g/_ground|ground]], as when [[a/_approaching|approaching]] a [[h/_hole|hole]].**
 - **To speedrun.**
 ---
 #noun

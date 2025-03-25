@@ -9,7 +9,7 @@
 - **A thong used to [[r/_regulate|regulate]] the tension of a [[d/_drum|drum]].**
 - **The [[s/_state|state]] of [[b/_being|being]] [[b/_braced|braced]] or tight; tension.**
 - **[[h/_harness|Harness]]; warlike [[p/_preparation|preparation]].**
-- **A [[c/_curved|curved]], [[p/_pointed|pointed]] [[l/_line|line]], [[a/_also|also]] [[k/_known|known]] as "[[c/_curly|curly]] [[b/_bracket|bracket]]": { or } [[c/_connecting|connecting]] two or [[m/_more|more]] words or [[l/_lines|lines]], which are to be [[c/_considered|considered]] together, such as in {[[r/_role|role]], [[r/_roll|roll]]}; in [[m/_music|music]], used to [[c/_connect|connect]] [[s/_staves|staves]].**
+- **A [[c/_curved|curved]], [[p/_pointed|pointed]] [[l/_line|line]], [[a/_also|also]] [[k/_known|known]] as "[[c/_curly|curly]] [[b/_bracket|bracket]]": { or } [[c/_connecting|connecting]] two or [[m/_more|more]] words or [[l/_lines|lines]], which are to be [[c/_considered|considered]] together, [[s/_such|such]] as in {[[r/_role|role]], [[r/_roll|roll]]}; in [[m/_music|music]], used to [[c/_connect|connect]] [[s/_staves|staves]].**
 - **A [[p/_pair|pair]], a [[c/_couple|couple]]; [[o/_originally|originally]] used of [[d/_dogs|dogs]], and [[l/_later|later]] of [[a/_animals|animals]] [[g/_generally|generally]] ([[e/_e|e]].[[g/_g|g]]., a [[b/_brace|brace]] of [[c/_conies|conies]]) and then [[o/_other|other]] things, but [[r/_rarely|rarely]] [[h/_human|human]] [[p/_persons|persons]]. (The [[p/_plural|plural]] in this [[s/_sense|sense]] is unchanged.) In [[b/_british|British]] use (as [[p/_plural|plural]]), this is a [[p/_particularly|particularly]] [[c/_common|common]] [[r/_reference|reference]] to [[g/_game|game]] [[b/_birds|birds]].**
 - **A [[p/_piece|piece]] of [[m/_material|material]] used to transmit, or [[c/_change|change]] the [[d/_direction|direction]] of, weight or [[p/_pressure|pressure]]; [[a/_any|any]] [[o/_one|one]] of the [[p/_pieces|pieces]], in a [[f/_frame|frame]] or truss, which [[d/_divide|divide]] the [[s/_structure|structure]] [[i/_into|into]] triangular [[p/_parts|parts]]. It [[m/_may|may]] [[a/_act|act]] as a tie, or as a [[s/_strut|strut]], and [[s/_serves|serves]] to [[p/_prevent|prevent]] [[d/_distortion|distortion]] of the [[s/_structure|structure]], and transverse [[s/_strains|strains]] in [[i/_its|its]] [[m/_members|members]]. A [[b/_boiler|boiler]] [[b/_brace|brace]] is a [[d/_diagonal|diagonal]] [[s/_stay|stay]], [[c/_connecting|connecting]] the [[h/_head|head]] with the [[s/_shell|shell]].**
 - **A [[r/_rope|rope]] [[r/_reeved|reeved]] through a [[b/_block|block]] at the [[e/_end|end]] of a [[y/_yard|yard]], by which the [[y/_yard|yard]] is [[m/_moved|moved]] [[h/_horizontally|horizontally]]; [[a/_also|also]], a [[r/_rudder|rudder]] [[g/_gudgeon|gudgeon]].**
@@ -21,7 +21,7 @@
 ### Synonyms
 - [[f/_fathom|fathom]], [[d/_dyad|dyad]], [[t/_twosome|twosome]]
 #verb
-- **To [[p/_prepare|prepare]] for [[s/_something|something]] [[b/_bad|bad]], such as an [[i/_impact|impact]] or [[b/_blow|blow]].**
+- **To [[p/_prepare|prepare]] for [[s/_something|something]] [[b/_bad|bad]], [[s/_such|such]] as an [[i/_impact|impact]] or [[b/_blow|blow]].**
 	- _Example: All hands, brace for impact!_
 - **To [[p/_place|place]] in a [[p/_position|position]] for [[r/_resisting|resisting]] [[p/_pressure|pressure]]; to [[h/_hold|hold]] [[f/_firmly|firmly]].**
 	- _Example: He braced himself against the crowd._

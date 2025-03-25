@@ -1,7 +1,7 @@
 # Poking
 ---
 #verb
-- **To [[p/_prod|prod]] or [[j/_jab|jab]] with an [[o/_object|object]] such as a [[f/_finger|finger]] or a [[s/_stick|stick]].**
+- **To [[p/_prod|prod]] or [[j/_jab|jab]] with an [[o/_object|object]] [[s/_such|such]] as a [[f/_finger|finger]] or a [[s/_stick|stick]].**
 - **To [[s/_stir|stir]] up a [[f/_fire|fire]] to [[r/_remove|remove]] [[a/_ash|ash]] or [[p/_promote|promote]] [[b/_burning|burning]].**
 - **To [[r/_rummage|rummage]]; to [[f/_feel|feel]] or [[g/_grope|grope]] [[a/_around|around]].**
 	- _Example: I poked about in the rubble, trying to find my lost keys._
@@ -10,7 +10,7 @@
 	- _Example: to poke an ox_
 - **To thrust at with the [[h/_horns|horns]]; to [[g/_gore|gore]].**
 - **To [[n/_notify|notify]] ([[a/_another|another]] user) of [[a/_activity|activity]] on [[s/_social|social]] [[m/_media|media]] or an [[i/_instant|instant]] [[m/_messenger|messenger]].**
-- **To thrust ([[s/_something|something]]) in a [[p/_particular|particular]] [[d/_direction|direction]] such as the tongue.**
+- **To thrust ([[s/_something|something]]) in a [[p/_particular|particular]] [[d/_direction|direction]] [[s/_such|such]] as the tongue.**
 - **To [[p/_penetrate|penetrate]] in [[s/_sexual|sexual]] [[i/_intercourse|intercourse]].**
 	- _Example: If she smokes, she pokes._
 ---

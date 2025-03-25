@@ -5,6 +5,6 @@
 - **(with "within") A [[s/_short|short]] [[d/_distance|distance]]; [[h/_hailing|hailing]] [[d/_distance|distance]].**
 ---
 #verb
-- **To [[m/_make|make]] such a [[c/_call|call]].**
+- **To [[m/_make|make]] [[s/_such|such]] a [[c/_call|call]].**
 ---
 ---

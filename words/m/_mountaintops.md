@@ -1,6 +1,6 @@
 # Mountaintops
 ---
 #noun
-- **The summit of a [[m/_mountain|mountain]].**
+- **The [[s/_summit|summit]] of a [[m/_mountain|mountain]].**
 ---
 ---

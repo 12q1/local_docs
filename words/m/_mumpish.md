@@ -1,6 +1,6 @@
 # Mumpish
 ---
 #adjective
-- **Sulking, [[m/_mopey|mopey]]**
+- **[[s/_sulking|Sulking]], [[m/_mopey|mopey]]**
 ---
 ---

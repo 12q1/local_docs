@@ -17,7 +17,7 @@
 #verb
 - **To [[g/_grasp|grasp]] and [[r/_remove|remove]] [[q/_quickly|quickly]].**
 	- _Example: He snatched up the phone._
-- **To [[a/_attempt|attempt]] to [[s/_seize|seize]] [[s/_something|something]] suddenly.**
+- **To [[a/_attempt|attempt]] to [[s/_seize|seize]] [[s/_something|something]] [[s/_suddenly|suddenly]].**
 	- _Example: to snatch at a rope_
 - **To take or [[s/_seize|seize]] [[h/_hastily|hastily]], [[a/_abruptly|abruptly]], or without [[p/_permission|permission]] or [[c/_ceremony|ceremony]].**
 	- _Example: to snatch a kiss_

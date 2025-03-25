@@ -8,6 +8,6 @@
 ### Synonyms
 - [[b/_bismarck|bismarck]], [[j/_jambuster|jambuster]], [[m/_midi|midi]]
 #noun
-- **A [[c/_coat|coat]] or [[s/_skirt|skirt]] [[h/_having|having]] such a [[h/_hemline|hemline]].**
+- **A [[c/_coat|coat]] or [[s/_skirt|skirt]] [[h/_having|having]] [[s/_such|such]] a [[h/_hemline|hemline]].**
 ---
 ---

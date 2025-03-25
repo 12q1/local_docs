@@ -14,10 +14,10 @@ A skitter of gooseflesh._
 ### Synonyms
 - [[s/_scamper|scamper]], [[s/_scurry|scurry]], [[s/_skip|skip]], [[s/_skite|skite]]
 #noun
-- **[[o/_often|Often]] [[s/_skitters|skitters]]: the [[c/_condition|condition]] of suffering from [[d/_diarrhea|diarrhea]]; thin [[e/_excrement|excrement]].**
+- **[[o/_often|Often]] [[s/_skitters|skitters]]: the [[c/_condition|condition]] of [[s/_suffering|suffering]] from [[d/_diarrhea|diarrhea]]; thin [[e/_excrement|excrement]].**
 ---
 #verb
 - **To [[c/_cause|cause]] to [[h/_have|have]] [[d/_diarrhea|diarrhea]].**
-- **To suffer from a [[b/_bout|bout]] of [[d/_diarrhea|diarrhea]]; to [[p/_produce|produce]] thin [[e/_excrement|excrement]].**
+- **To [[s/_suffer|suffer]] from a [[b/_bout|bout]] of [[d/_diarrhea|diarrhea]]; to [[p/_produce|produce]] thin [[e/_excrement|excrement]].**
 ---
 ---

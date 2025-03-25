@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[c/_chromium|Chromium]], when used to [[p/_plate|plate]] [[o/_other|other]] [[m/_metals|metals]].**
-- **The [[b/_basic|basic]] [[s/_structural|structural]] [[e/_elements|elements]] used in a [[g/_graphical|graphical]] user [[i/_interface|interface]], such as window [[f/_frames|frames]] and [[s/_scroll|scroll]] [[b/_bars|bars]], as [[o/_opposed|opposed]] to the [[c/_content|content]].**
+- **The [[b/_basic|basic]] [[s/_structural|structural]] [[e/_elements|elements]] used in a [[g/_graphical|graphical]] user [[i/_interface|interface]], [[s/_such|such]] as window [[f/_frames|frames]] and [[s/_scroll|scroll]] [[b/_bars|bars]], as [[o/_opposed|opposed]] to the [[c/_content|content]].**
 - **[[h/_handguns|Handguns]] ([[c/_collectively|collectively]])**
 ---
 ### Synonyms

@@ -6,7 +6,7 @@
 - **That which [[s/_serves|serves]] for [[p/_payment|payment]] or [[r/_recompense|recompense]].**
 - **[[m/_money|Money]] in [[g/_general|general]], not [[l/_limited|limited]] to [[c/_coins|coins]].**
 	- _Example: She spent some serious coin on that car!_
-- **[[o/_one|One]] of the suits of [[m/_minor|minor]] [[a/_arcana|arcana]] in tarot, or a [[c/_card|card]] of that suit.**
+- **[[o/_one|One]] of the [[s/_suits|suits]] of [[m/_minor|minor]] [[a/_arcana|arcana]] in tarot, or a [[c/_card|card]] of that [[s/_suit|suit]].**
 - **A [[c/_corner|corner]] or [[e/_external|external]] [[a/_angle|angle]].**
 - **A [[s/_small|small]] [[c/_circular|circular]] [[s/_slice|slice]] of [[f/_food|food]].**
 - **A cryptocurrency.**

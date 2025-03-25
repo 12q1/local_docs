@@ -3,7 +3,7 @@
 #verb
 - **To [[a/_apply|apply]] [[f/_force|force]] to (a [[b/_body|body]] or [[s/_structure|structure]]) [[c/_causing|causing]] [[s/_strain|strain]].**
 - **To [[a/_apply|apply]] [[e/_emotional|emotional]] [[p/_pressure|pressure]] to (a [[p/_person|person]] or [[a/_animal|animal]]).**
-- **To suffer [[s/_stress|stress]]; to worry or be [[a/_agitated|agitated]].**
+- **To [[s/_suffer|suffer]] [[s/_stress|stress]]; to worry or be [[a/_agitated|agitated]].**
 - **To [[e/_emphasise|emphasise]] (a [[s/_syllable|syllable]] of a word).**
 	- _Example: “Emphasis” is stressed on the first syllable, but “emphatic” is stressed on the second._
 - **To [[e/_emphasise|emphasise]] (words in [[s/_speaking|speaking]]).**

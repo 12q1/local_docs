@@ -13,7 +13,7 @@
 - **To [[s/_strike|strike]] (the [[b/_ball|ball]]) very [[h/_hard|hard]].**
 ---
 #verb
-- **To [[i/_induce|induce]] [[p/_piezoelectricity|piezoelectricity]] in (a substance) by [[a/_aligning|aligning]] the [[d/_dipoles|dipoles]].**
+- **To [[i/_induce|induce]] [[p/_piezoelectricity|piezoelectricity]] in (a [[s/_substance|substance]]) by [[a/_aligning|aligning]] the [[d/_dipoles|dipoles]].**
 ---
 #noun
 - **The [[a/_act|act]] of supporting or of [[p/_propelling|propelling]] by [[m/_means|means]] of a [[p/_pole|pole]] or [[p/_poles|poles]].**

@@ -3,7 +3,7 @@
 #noun
 - **A [[s/_sheet|sheet]] of [[c/_copper|copper]] or [[s/_steel|steel]] used in the [[c/_construction|construction]] of a [[b/_boiler|boiler]].**
 - **The [[r/_rating|rating]] [[p/_plate|plate]] or [[n/_nameplate|nameplate]] [[r/_required|required]] to be [[a/_affixed|affixed]] to a [[b/_boiler|boiler]] by the (UK) [[b/_boiler|Boiler]] [[e/_explosions|Explosions]] [[a/_act|Act]] (1882).**
-- **A [[p/_plate|plate]] [[a/_attached|attached]] to [[i/_industrial|industrial]] [[m/_machinery|machinery]], [[i/_identifying|identifying]] [[i/_information|information]] such as [[m/_manufacturer|manufacturer]], [[m/_model|model]] [[n/_number|number]], [[s/_serial|serial]] [[n/_number|number]], and [[p/_power|power]] [[r/_requirements|requirements]].**
+- **A [[p/_plate|plate]] [[a/_attached|attached]] to [[i/_industrial|industrial]] [[m/_machinery|machinery]], [[i/_identifying|identifying]] [[i/_information|information]] [[s/_such|such]] as [[m/_manufacturer|manufacturer]], [[m/_model|model]] [[n/_number|number]], [[s/_serial|serial]] [[n/_number|number]], and [[p/_power|power]] [[r/_requirements|requirements]].**
 - **[[s/_syndicated|Syndicated]] [[m/_material|material]].**
 - **[[s/_standard|Standard]] text or [[p/_program|program]] [[c/_code|code]] used [[r/_routinely|routinely]] and [[a/_added|added]] with a text [[e/_editor|editor]] or word [[p/_processor|processor]]; text of a [[l/_legal|legal]] or [[o/_official|official]] [[n/_nature|nature]] [[a/_added|added]] to [[d/_documents|documents]] or [[l/_labels|labels]].**
 	- _Example: They put that boilerplate on all the warning labels._

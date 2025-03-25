@@ -11,7 +11,7 @@
 - **A [[r/_ringlike|ringlike]] [[p/_part|part]] of a [[m/_mollusk|mollusk]] in [[c/_connection|connection]] with the [[e/_esophagus|esophagus]].**
 - **An [[e/_eye|eye]] [[f/_formed|formed]] in the [[b/_bight|bight]] or [[b/_bend|bend]] of a [[s/_shroud|shroud]] or [[s/_stay|stay]] to [[g/_go|go]] [[o/_over|over]] the [[m/_masthead|masthead]]; [[a/_also|also]], a [[r/_rope|rope]] to which [[c/_certain|certain]] [[p/_parts|parts]] of [[r/_rigging|rigging]], as [[d/_dead|dead]]-[[e/_eyes|eyes]], are [[s/_secured|secured]].**
 - **An [[a/_arrest|arrest]].**
-- **A trading [[s/_strategy|strategy]] using [[o/_options|options]] such that there is [[b/_both|both]] an upper [[l/_limit|limit]] on [[p/_profit|profit]] and a [[l/_lower|lower]] [[l/_limit|limit]] on [[l/_loss|loss]], [[c/_constructed|constructed]] through taking [[e/_equal|equal]] but [[o/_opposite|opposite]] [[p/_positions|positions]] in a [[p/_put|put]] and a [[c/_call|call]] with [[d/_different|different]] [[s/_strike|strike]] [[p/_prices|prices]].**
+- **A trading [[s/_strategy|strategy]] using [[o/_options|options]] [[s/_such|such]] that there is [[b/_both|both]] an upper [[l/_limit|limit]] on [[p/_profit|profit]] and a [[l/_lower|lower]] [[l/_limit|limit]] on [[l/_loss|loss]], [[c/_constructed|constructed]] through taking [[e/_equal|equal]] but [[o/_opposite|opposite]] [[p/_positions|positions]] in a [[p/_put|put]] and a [[c/_call|call]] with [[d/_different|different]] [[s/_strike|strike]] [[p/_prices|prices]].**
 ---
 #verb
 - **To [[g/_grab|grab]] or [[s/_seize|seize]] by the [[c/_collar|collar]] or [[n/_neck|neck]].**
@@ -23,6 +23,6 @@
 - **To [[b/_bind|bind]] in [[c/_conversation|conversation]].**
 	- _Example: I managed to collar Fred in the office for an hour._
 - **To [[r/_roll|roll]] up ([[b/_beef|beef]] or [[o/_other|other]] [[m/_meat|meat]]) and [[b/_bind|bind]] it with [[s/_string|string]] [[p/_preparatory|preparatory]] to [[c/_cooking|cooking]].**
-- **(BDSM) To [[b/_bind|bind]] (a submissive) to a [[d/_dominant|dominant]] under [[s/_specific|specific]] [[c/_conditions|conditions]] or [[o/_obligations|obligations]].**
+- **(BDSM) To [[b/_bind|bind]] (a [[s/_submissive|submissive]]) to a [[d/_dominant|dominant]] under [[s/_specific|specific]] [[c/_conditions|conditions]] or [[o/_obligations|obligations]].**
 ---
 ---

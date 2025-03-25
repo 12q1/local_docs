@@ -14,7 +14,7 @@
 ### Antonyms
 - [[j/_junior|junior]]
 #adjective
-- **[[o/_older|Older]]; superior**
+- **[[o/_older|Older]]; [[s/_superior|superior]]**
 	- _Example: senior citizen_
 - **[[h/_higher|Higher]] in [[r/_rank|rank]], [[d/_dignity|dignity]], or [[o/_office|office]].**
 	- _Example: senior member; senior counsel_

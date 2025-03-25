@@ -70,7 +70,7 @@
 - **To value; to [[r/_rate|rate]]; used with at.**
 - **To [[e/_establish|establish]] as a [[r/_rule|rule]]; to [[f/_furnish|furnish]]; to [[p/_prescribe|prescribe]]; to [[a/_assign|assign]].**
 	- _Example: to set a good example_
-- **To suit; to [[b/_become|become]].**
+- **To [[s/_suit|suit]]; to [[b/_become|become]].**
 	- _Example: It sets him ill._
 ---
 ### Synonyms

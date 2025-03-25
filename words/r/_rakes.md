@@ -28,7 +28,7 @@
 #noun
 - **A [[c/_course|course]], a [[p/_path|path]], [[e/_especially|especially]] a [[n/_narrow|narrow]] and [[s/_steep|steep]] [[p/_path|path]] or [[r/_route|route]] up a [[h/_hillside|hillside]].**
 - **A [[f/_fissure|fissure]] or [[m/_mineral|mineral]] vein of [[o/_ore|ore]] traversing the [[s/_strata|strata]] vertically, or [[n/_nearly|nearly]] [[s/_so|so]].**
-- **([[o/_originally|originally]] [[n/_northern|Northern]] [[e/_england|England]]) A [[s/_series|series]], a succession; [[s/_specifically|specifically]] a [[s/_set|set]] of [[c/_coupled|coupled]] [[r/_rail|rail]] vehicles, [[n/_normally|normally]] [[c/_coaches|coaches]] or wagons.**
+- **([[o/_originally|originally]] [[n/_northern|Northern]] [[e/_england|England]]) A [[s/_series|series]], a [[s/_succession|succession]]; [[s/_specifically|specifically]] a [[s/_set|set]] of [[c/_coupled|coupled]] [[r/_rail|rail]] vehicles, [[n/_normally|normally]] [[c/_coaches|coaches]] or wagons.**
 	- _Example: The train was formed of a locomotive and a rake of six coaches._
 - **([[s/_systems|systems]] theory) In [[c/_cellular|cellular]] [[a/_automata|automata]]: a [[p/_puffer|puffer]] that [[e/_emits|emits]] a [[s/_stream|stream]] of [[s/_spaceships|spaceships]] [[r/_rather|rather]] than a trail of [[d/_debris|debris]].**
 ---

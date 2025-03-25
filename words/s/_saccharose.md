@@ -1,6 +1,6 @@
 # Saccharose
 ---
 #noun
-- **Sucrose**
+- **[[s/_sucrose|Sucrose]]**
 ---
 ---

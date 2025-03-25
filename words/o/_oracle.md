@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_shrine|shrine]] [[d/_dedicated|dedicated]] to [[s/_some|some]] [[p/_prophetic|prophetic]] [[d/_deity|deity]].**
-- **A [[p/_person|person]] such as a [[p/_priest|priest]] through whom the [[d/_deity|deity]] is supposed to [[r/_respond|respond]] with [[p/_prophecy|prophecy]] or [[a/_advice|advice]].**
+- **A [[p/_person|person]] [[s/_such|such]] as a [[p/_priest|priest]] through whom the [[d/_deity|deity]] is supposed to [[r/_respond|respond]] with [[p/_prophecy|prophecy]] or [[a/_advice|advice]].**
 - **A [[p/_prophetic|prophetic]] [[r/_response|response]], [[o/_often|often]] [[e/_enigmatic|enigmatic]] or [[a/_allegorical|allegorical]], [[s/_so|so]] [[g/_given|given]].**
 - **A [[p/_person|person]] [[c/_considered|considered]] to be a [[s/_source|source]] of wisdom.**
 	- _Example: a literary oracle_

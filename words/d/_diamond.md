@@ -14,7 +14,7 @@
 - **The [[e/_entire|entire]] [[f/_field|field]] of [[p/_play|play]] used in the [[g/_game|game]].**
 - **The [[i/_infield|infield]] of a [[b/_baseball|baseball]] [[f/_field|field]].**
 	- _Example: The teams met on the diamond._
-- **A [[c/_card|card]] of the [[d/_diamonds|diamonds]] suit.**
+- **A [[c/_card|card]] of the [[d/_diamonds|diamonds]] [[s/_suit|suit]].**
 	- _Example: I have only one diamond in my hand._
 - **A [[s/_size|size]] of type, [[s/_standardised|standardised]] as 4 1/2 [[p/_point|point]].**
 ---

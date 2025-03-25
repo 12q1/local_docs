@@ -24,7 +24,7 @@
 #noun
 - **[[c/_certain|Certain]] [[p/_private|private]] [[s/_schools|schools]], [[p/_particularly|particularly]] ([[i/_initially|initially]]) [[a/_any|any]] [[g/_grammar|grammar]] [[s/_school|school]] [[o/_operated|operated]] [[a/_apart|apart]] from the [[p/_personal|personal]] [[l/_lands|lands]] of [[i/_its|its]] [[s/_students|students]] or (from the 19th [[c/_century|century]]) the feepaying [[s/_secondary|secondary]] [[s/_schools|schools]] which [[d/_developed|developed]] from or were [[m/_modelled|modelled]] upon them; a [[b/_british|British]] [[b/_boarding|boarding]] [[s/_school|school]]**
 - **A [[c/_college|college]] or university**
-- **([[f/_formerly|formerly]] [[s/_scottish|Scottish]]) A [[p/_publicly|publicly]] [[f/_funded|funded]] and [[a/_administered|administered]] [[s/_school|school]]; such [[s/_schools|schools]] in the [[c/_context|context]] of [[o/_other|other]] [[c/_countries|countries]]**
+- **([[f/_formerly|formerly]] [[s/_scottish|Scottish]]) A [[p/_publicly|publicly]] [[f/_funded|funded]] and [[a/_administered|administered]] [[s/_school|school]]; [[s/_such|such]] [[s/_schools|schools]] in the [[c/_context|context]] of [[o/_other|other]] [[c/_countries|countries]]**
 ---
 ### Synonyms
 - 

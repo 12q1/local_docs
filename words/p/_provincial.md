@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_person|person]] [[b/_belonging|belonging]] to a [[p/_province|province]]; [[o/_one|one]] who is [[p/_provincial|provincial]].**
-- **A [[m/_monastic|monastic]] superior, who, under the [[g/_general|general]] of [[h/_his|his]] [[o/_order|order]], [[h/_has|has]] the [[d/_direction|direction]] of [[a/_all|all]] the [[r/_religious|religious]] [[h/_houses|houses]] of the [[s/_same|same]] [[f/_fraternity|fraternity]] in a [[g/_given|given]] [[d/_district|district]], [[c/_called|called]] a [[p/_province|province]] of the [[o/_order|order]].**
+- **A [[m/_monastic|monastic]] [[s/_superior|superior]], who, under the [[g/_general|general]] of [[h/_his|his]] [[o/_order|order]], [[h/_has|has]] the [[d/_direction|direction]] of [[a/_all|all]] the [[r/_religious|religious]] [[h/_houses|houses]] of the [[s/_same|same]] [[f/_fraternity|fraternity]] in a [[g/_given|given]] [[d/_district|district]], [[c/_called|called]] a [[p/_province|province]] of the [[o/_order|order]].**
 - **A [[c/_country|country]] [[b/_bumpkin|bumpkin]].**
 ---
 #adjective

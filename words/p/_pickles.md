@@ -16,19 +16,19 @@
 - **A [[p/_penis|penis]].**
 - **A [[p/_pipe|pipe]] for [[s/_smoking|smoking]] [[m/_methamphetamine|methamphetamine]].**
 	- _Example: Load some shards in that pickle._
-- **A [[b/_bath|bath]] of [[d/_dilute|dilute]] sulphuric or [[n/_nitric|nitric]] [[a/_acid|acid]], [[e/_etc|etc]]., to [[r/_remove|remove]] [[b/_burnt|burnt]] [[s/_sand|sand]], [[s/_scale|scale]], [[r/_rust|rust]], [[e/_etc|etc]]., from the surface of [[c/_castings|castings]], or [[o/_other|other]] [[a/_articles|articles]] of [[m/_metal|metal]], or to [[b/_brighten|brighten]] them or [[i/_improve|improve]] their [[c/_colour|colour]].**
+- **A [[b/_bath|bath]] of [[d/_dilute|dilute]] [[s/_sulphuric|sulphuric]] or [[n/_nitric|nitric]] [[a/_acid|acid]], [[e/_etc|etc]]., to [[r/_remove|remove]] [[b/_burnt|burnt]] [[s/_sand|sand]], [[s/_scale|scale]], [[r/_rust|rust]], [[e/_etc|etc]]., from the surface of [[c/_castings|castings]], or [[o/_other|other]] [[a/_articles|articles]] of [[m/_metal|metal]], or to [[b/_brighten|brighten]] them or [[i/_improve|improve]] their [[c/_colour|colour]].**
 - **In an [[o/_optical|optical]] [[l/_landing|landing]] [[s/_system|system]], the [[h/_hand|hand]]-[[h/_held|held]] [[c/_controller|controller]] [[c/_connected|connected]] to the [[l/_lens|lens]], or [[a/_apparatus|apparatus]] on which the [[l/_lights|lights]] are [[m/_mounted|mounted]].**
 ---
 #verb
-- **To [[p/_preserve|preserve]] [[f/_food|food]] (or [[s/_sometimes|sometimes]] [[o/_other|other]] things) in a [[s/_salt|salt]], sugar or vinegar [[s/_solution|solution]].**
+- **To [[p/_preserve|preserve]] [[f/_food|food]] (or [[s/_sometimes|sometimes]] [[o/_other|other]] things) in a [[s/_salt|salt]], [[s/_sugar|sugar]] or vinegar [[s/_solution|solution]].**
 	- _Example: These cucumbers pickle very well._
-- **To [[r/_remove|remove]] [[h/_high|high]]-temperature [[s/_scale|scale]] and [[o/_oxidation|oxidation]] from [[m/_metal|metal]] with [[h/_heated|heated]] ([[o/_often|often]] sulphuric) [[i/_industrial|industrial]] [[a/_acid|acid]].**
+- **To [[r/_remove|remove]] [[h/_high|high]]-temperature [[s/_scale|scale]] and [[o/_oxidation|oxidation]] from [[m/_metal|metal]] with [[h/_heated|heated]] ([[o/_often|often]] [[s/_sulphuric|sulphuric]]) [[i/_industrial|industrial]] [[a/_acid|acid]].**
 	- _Example: The crew will pickle the fittings in the morning._
 - **(in the [[p/_python|Python]] [[p/_programming|programming]] [[l/_language|language]]) To [[s/_serialize|serialize]].**
 - **To [[p/_pour|pour]] [[b/_brine|brine]] [[o/_over|over]] a [[p/_person|person]] [[a/_after|after]] [[f/_flogging|flogging]] them, as a [[m/_method|method]] of [[p/_punishment|punishment]].**
 ---
 #noun
-- **A [[k/_kernel|kernel]]; a [[g/_grain|grain]] (of [[s/_salt|salt]], sugar, [[e/_etc|etc]].)**
+- **A [[k/_kernel|kernel]]; a [[g/_grain|grain]] (of [[s/_salt|salt]], [[s/_sugar|sugar]], [[e/_etc|etc]].)**
 - **A [[s/_small|small]] or [[i/_indefinite|indefinite]] [[q/_quantity|quantity]] or [[a/_amount|amount]] (of [[s/_something|something]]); a [[l/_little|little]], a [[b/_bit|bit]], a [[f/_few|few]]. Usually in [[p/_partitive|partitive]] [[c/_construction|construction]], [[f/_frequently|frequently]] without "of"; a [[s/_single|single]] [[g/_grain|grain]] or [[k/_kernel|kernel]] of wheat, [[b/_barley|barley]], [[o/_oats|oats]], [[s/_sand|sand]] or [[d/_dust|dust]].**
 ---
 #verb

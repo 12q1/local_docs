@@ -7,7 +7,7 @@
 - **A [[m/_mechanism|mechanism]] that [[c/_controls|controls]] or [[r/_regulates|regulates]] the [[o/_operation|operation]] of a [[m/_machine|machine]], [[e/_especially|especially]] a [[p/_peripheral|peripheral]] [[d/_device|device]] in a [[c/_computer|computer]].**
 - **An [[i/_iron|iron]] [[b/_block|block]], usually [[b/_bolted|bolted]] to a [[s/_ship|ship]]'[[s/_s|s]] [[d/_deck|deck]], for [[c/_controlling|controlling]] the [[r/_running|running]] [[o/_out|out]] of a [[c/_chain|chain]] [[c/_cable|cable]]. The [[l/_links|links]] of the [[c/_cable|cable]] tend to [[d/_drop|drop]] [[i/_into|into]] [[h/_hollows|hollows]] in the [[b/_block|block]], and thus [[h/_hold|hold]] [[f/_fast|fast]] until [[d/_disengaged|disengaged]].**
 - **The [[p/_person|person]] who supervises and [[h/_handles|handles]] [[c/_communication|communication]] with an [[a/_agent|agent]] in the [[f/_field|field]].**
-- **The subject of a [[c/_control|control]] verb. [[s/_see|See]] [[c/_control|Control]] ([[l/_linguistics|linguistics]])**
+- **The [[s/_subject|subject]] of a [[c/_control|control]] verb. [[s/_see|See]] [[c/_control|Control]] ([[l/_linguistics|linguistics]])**
 - **In [[s/_software|software]] [[a/_applications|applications]] using the [[m/_model|model]]-view-[[c/_controller|controller]] [[d/_design|design]] [[p/_pattern|pattern]], the [[p/_part|part]] or [[p/_parts|parts]] of the [[a/_application|application]] that treat [[i/_input|input]] and [[o/_output|output]], [[f/_forming|forming]] an [[i/_interface|interface]] [[b/_between|between]] [[m/_models|models]] and views.**
 ---
 ### Synonyms

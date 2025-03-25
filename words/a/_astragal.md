@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_semicircular|semicircular]] [[m/_molding|molding]] [[s/_separating|separating]] the [[a/_architrave|architrave]] at the top or [[b/_bottom|bottom]] of a [[c/_column|column]].**
-- **A tool used to [[m/_mold|mold]] such [[f/_features|features]]; [[s/_similar|similar]] tools used for [[c/_connecting|connecting]] [[p/_panes|panes]] of [[g/_glass|glass]] in a window.**
+- **A tool used to [[m/_mold|mold]] [[s/_such|such]] [[f/_features|features]]; [[s/_similar|similar]] tools used for [[c/_connecting|connecting]] [[p/_panes|panes]] of [[g/_glass|glass]] in a window.**
 - **A [[c/_circular|circular]] [[m/_molding|molding]] [[n/_near|near]] the [[m/_mouth|mouth]] of a [[c/_cannon|cannon]].**
 - **A [[m/_molding|molding]] [[a/_attached|attached]] to [[d/_double|double]] [[d/_doors|doors]] to [[p/_prevent|prevent]] [[d/_drafts|drafts]].**
 - **([[r/_roof|roof]] [[p/_plumbing|plumbing]]) A [[b/_bracket|bracket]] used to [[f/_fix|fix]] downpipes to the wall of a [[b/_building|building]].**

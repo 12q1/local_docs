@@ -1,7 +1,7 @@
 # Barrage
 ---
 #noun
-- **An [[a/_artificial|artificial]] [[o/_obstruction|obstruction]], such as a [[d/_dam|dam]], in a [[r/_river|river]] [[d/_designed|designed]] to [[i/_increase|increase]] [[i/_its|its]] [[d/_depth|depth]] or to [[d/_divert|divert]] [[i/_its|its]] [[f/_flow|flow]].**
+- **An [[a/_artificial|artificial]] [[o/_obstruction|obstruction]], [[s/_such|such]] as a [[d/_dam|dam]], in a [[r/_river|river]] [[d/_designed|designed]] to [[i/_increase|increase]] [[i/_its|its]] [[d/_depth|depth]] or to [[d/_divert|divert]] [[i/_its|its]] [[f/_flow|flow]].**
 - **A [[h/_heavy|heavy]] [[c/_curtain|curtain]] of [[a/_artillery|artillery]] [[f/_fire|fire]] [[d/_directed|directed]] in [[f/_front|front]] of [[o/_one|one]]'[[s/_s|s]] [[o/_own|own]] troops to [[s/_screen|screen]] and [[p/_protect|protect]] them.**
 - **A [[c/_concentrated|concentrated]] [[d/_discharge|discharge]] of [[p/_projectile|projectile]] weapons.**
 - **(by [[e/_extension|extension]]) An [[o/_overwhelming|overwhelming]] [[o/_outburst|outburst]] of words, [[e/_especially|especially]] of [[c/_criticism|criticism]].**

@@ -8,11 +8,11 @@
 - **To ([[o/_operate|operate]] an [[a/_aircraft|aircraft]] to) transition from [[d/_downward|downward]] [[f/_flight|flight]] to [[l/_level|level]] [[f/_flight|flight]] [[j/_just|just]] [[b/_before|before]] [[l/_landing|landing]].**
 - **To [[b/_blaze|blaze]] [[b/_brightly|brightly]].**
 	- _Example: The blast furnace flared in the night._
-- **To [[s/_shine|shine]] [[o/_out|out]] with a sudden and unsteady [[l/_light|light]]; to [[e/_emit|emit]] a [[d/_dazzling|dazzling]] or [[p/_painfully|painfully]] [[b/_bright|bright]] [[l/_light|light]].**
+- **To [[s/_shine|shine]] [[o/_out|out]] with a [[s/_sudden|sudden]] and unsteady [[l/_light|light]]; to [[e/_emit|emit]] a [[d/_dazzling|dazzling]] or [[p/_painfully|painfully]] [[b/_bright|bright]] [[l/_light|light]].**
 	- _Example: The candle flared in a sudden draught._
 - **To [[s/_shine|shine]] [[o/_out|out]] with [[g/_gaudy|gaudy]] [[c/_colours|colours]]; to be [[o/_offensively|offensively]] [[b/_bright|bright]] or [[s/_showy|showy]].**
-- **To suddenly [[h/_happen|happen]] or [[i/_intensify|intensify]].**
-- **To suddenly [[e/_erupt|erupt]] in [[a/_anger|anger]].**
+- **To [[s/_suddenly|suddenly]] [[h/_happen|happen]] or [[i/_intensify|intensify]].**
+- **To [[s/_suddenly|suddenly]] [[e/_erupt|erupt]] in [[a/_anger|anger]].**
 - **To be [[e/_exposed|exposed]] to too [[m/_much|much]] [[l/_light|light]].**
 ---
 ### Synonyms

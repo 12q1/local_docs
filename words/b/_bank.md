@@ -2,12 +2,12 @@
 ---
 #noun
 - **An [[i/_institution|institution]] where [[o/_one|one]] [[c/_can|can]] [[p/_place|place]] and [[b/_borrow|borrow]] [[m/_money|money]] and take [[c/_care|care]] of [[f/_financial|financial]] [[a/_affairs|affairs]].**
-- **A [[b/_branch|branch]] [[o/_office|office]] of such an [[i/_institution|institution]].**
+- **A [[b/_branch|branch]] [[o/_office|office]] of [[s/_such|such]] an [[i/_institution|institution]].**
 - **An underwriter or [[c/_controller|controller]] of a [[c/_card|card]] [[g/_game|game]]; [[a/_also|also]] [[b/_banque|banque]].**
 - **A [[f/_fund|fund]] from [[d/_deposits|deposits]] or [[c/_contributions|contributions]], to be used in transacting [[b/_business|business]]; a [[j/_joint|joint]] [[s/_stock|stock]] or [[c/_capital|capital]].**
-- **The sum of [[m/_money|money]] [[e/_etc|etc]]. which the [[d/_dealer|dealer]] or [[b/_banker|banker]] [[h/_has|has]] as a [[f/_fund|fund]] from which to [[d/_draw|draw]] [[s/_stakes|stakes]] and [[p/_pay|pay]] [[l/_losses|losses]].**
+- **The [[s/_sum|sum]] of [[m/_money|money]] [[e/_etc|etc]]. which the [[d/_dealer|dealer]] or [[b/_banker|banker]] [[h/_has|has]] as a [[f/_fund|fund]] from which to [[d/_draw|draw]] [[s/_stakes|stakes]] and [[p/_pay|pay]] [[l/_losses|losses]].**
 - **[[m/_money|Money]]; [[p/_profit|profit]]**
-- **In [[c/_certain|certain]] [[g/_games|games]], such as [[d/_dominos|dominos]], a [[f/_fund|fund]] of [[p/_pieces|pieces]] from which the [[p/_players|players]] are [[a/_allowed|allowed]] to [[d/_draw|draw]].**
+- **In [[c/_certain|certain]] [[g/_games|games]], [[s/_such|such]] as [[d/_dominos|dominos]], a [[f/_fund|fund]] of [[p/_pieces|pieces]] from which the [[p/_players|players]] are [[a/_allowed|allowed]] to [[d/_draw|draw]].**
 - **A [[s/_safe|safe]] and [[g/_guaranteed|guaranteed]] [[p/_place|place]] of [[s/_storage|storage]] for and [[r/_retrieval|retrieval]] of [[i/_important|important]] [[i/_items|items]] or [[g/_goods|goods]].**
 	- _Example: blood bank; sperm bank; data bank_
 - **A [[d/_device|device]] used to [[s/_store|store]] [[c/_coins|coins]] or [[c/_currency|currency]].**

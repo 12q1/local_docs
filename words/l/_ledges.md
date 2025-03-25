@@ -1,7 +1,7 @@
 # Ledges
 ---
 #noun
-- **A [[s/_shelf|shelf]] on which [[a/_articles|articles]] [[m/_may|may]] be [[l/_laid|laid]]; [[a/_also|also]], that which [[r/_resembles|resembles]] such a [[s/_shelf|shelf]] in [[f/_form|form]] or use, as a [[p/_projecting|projecting]] [[r/_ridge|ridge]] or [[p/_part|part]], or a [[m/_molding|molding]] or [[e/_edge|edge]] in [[j/_joinery|joinery]].**
+- **A [[s/_shelf|shelf]] on which [[a/_articles|articles]] [[m/_may|may]] be [[l/_laid|laid]]; [[a/_also|also]], that which [[r/_resembles|resembles]] [[s/_such|such]] a [[s/_shelf|shelf]] in [[f/_form|form]] or use, as a [[p/_projecting|projecting]] [[r/_ridge|ridge]] or [[p/_part|part]], or a [[m/_molding|molding]] or [[e/_edge|edge]] in [[j/_joinery|joinery]].**
 - **A [[s/_shelf|shelf]], [[r/_ridge|ridge]], or [[r/_reef|reef]], of [[r/_rocks|rocks]].**
 - **A [[l/_layer|layer]] or [[s/_stratum|stratum]].**
 - **A [[l/_lode|lode]]; a [[l/_limited|limited]] [[m/_mass|mass]] of [[r/_rock|rock]] [[b/_bearing|bearing]] valuable [[m/_mineral|mineral]].**

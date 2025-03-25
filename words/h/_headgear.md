@@ -1,7 +1,7 @@
 # Headgear
 ---
 #noun
-- **[[a/_anything|Anything]] worn on the [[h/_head|head]], such as a [[h/_helmet|helmet]].**
+- **[[a/_anything|Anything]] worn on the [[h/_head|head]], [[s/_such|such]] as a [[h/_helmet|helmet]].**
 - **The [[h/_harness|harness]] that [[f/_fits|fits]] on a [[h/_horse|horse]]'[[s/_s|s]] [[h/_head|head]].**
 - **The [[l/_lifting|lifting]] [[g/_gear|gear]] at the [[h/_head|head]] of a [[m/_mine|mine]] or [[d/_deep|deep]] well.**
 - **The [[r/_rigging|rigging]] on the [[f/_foresail|foresail]]**

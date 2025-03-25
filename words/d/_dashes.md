@@ -6,7 +6,7 @@
 - **A [[s/_short|short]] [[r/_run|run]], [[f/_flight|flight]].**
 - **A [[r/_rushing|rushing]] or violent [[o/_onset|onset]].**
 - **Violent [[s/_strike|strike]]; a whack.**
-- **A [[s/_small|small]] [[q/_quantity|quantity]] of a [[l/_liquid|liquid]] substance [[e/_etc|etc]].; [[l/_less|less]] than 1/8 of a teaspoon.**
+- **A [[s/_small|small]] [[q/_quantity|quantity]] of a [[l/_liquid|liquid]] [[s/_substance|substance]] [[e/_etc|etc]].; [[l/_less|less]] than 1/8 of a teaspoon.**
 	- _Example: Add a dash of vinegar._
 - **(by [[e/_extension|extension]]) A [[s/_slight|slight]] [[a/_admixture|admixture]].**
 	- _Example: There is a dash of craziness in his personality._

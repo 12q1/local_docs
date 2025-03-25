@@ -6,7 +6,7 @@
 - **A [[h/_hole|hole]], [[d/_depression|depression]], or [[g/_gap|gap]] in [[e/_earth|earth]] or [[r/_rock|rock]], whether [[n/_natural|natural]] or [[m/_man|man]]-[[m/_made|made]].**
 - **A [[s/_storage|storage]] [[c/_cellar|cellar]], [[e/_especially|especially]] for wine or [[c/_cheese|cheese]].**
 	- _Example: This wine has been aged in our cave for thirty years._
-- **A [[p/_place|place]] of [[r/_retreat|retreat]], such as a [[m/_man|man]] [[c/_cave|cave]].**
+- **A [[p/_place|place]] of [[r/_retreat|retreat]], [[s/_such|such]] as a [[m/_man|man]] [[c/_cave|cave]].**
 	- _Example: My room was a cozy cave where I could escape from my family._
 - **A [[n/_naturally|naturally]]-[[o/_occurring|occurring]] [[c/_cavity|cavity]] in [[b/_bedrock|bedrock]] which is [[l/_large|large]] [[e/_enough|enough]] to be [[e/_entered|entered]] by an [[a/_adult|adult]].**
 	- _Example: It was not strictly a cave, but a narrow fissure in the rock._

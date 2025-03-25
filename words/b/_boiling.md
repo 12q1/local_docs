@@ -25,7 +25,7 @@
 ### Antonyms
 - [[c/_condense|condense]]
 #noun
-- **The [[p/_process|process]] of [[c/_changing|changing]] the [[s/_state|state]] of a substance from [[l/_liquid|liquid]] to [[g/_gas|gas]] by [[h/_heating|heating]] it to [[i/_its|its]] [[b/_boiling|boiling]] [[p/_point|point]].**
+- **The [[p/_process|process]] of [[c/_changing|changing]] the [[s/_state|state]] of a [[s/_substance|substance]] from [[l/_liquid|liquid]] to [[g/_gas|gas]] by [[h/_heating|heating]] it to [[i/_its|its]] [[b/_boiling|boiling]] [[p/_point|point]].**
 - **An [[a/_animation|animation]] [[s/_style|style]] with [[c/_constantly|constantly]] [[c/_changing|changing]] wavy [[o/_outlines|outlines]], [[g/_giving|giving]] a [[s/_shimmering|shimmering]] or wobbling [[a/_appearance|appearance]].**
 ---
 #adjective

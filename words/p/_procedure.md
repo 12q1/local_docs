@@ -7,7 +7,7 @@
 	- _Example: Ensure that you follow procedure when accessing customers' personal information._
 - **The [[s/_steps|steps]] taken in an [[a/_action|action]] or [[o/_other|other]] [[l/_legal|legal]] [[p/_proceeding|proceeding]].**
 - **That which [[r/_results|results]]; [[i/_issue|issue]]; [[p/_product|product]].**
-- **A subroutine or [[f/_function|function]] [[c/_coded|coded]] to [[p/_perform|perform]] a [[s/_specific|specific]] task.**
+- **A [[s/_subroutine|subroutine]] or [[f/_function|function]] [[c/_coded|coded]] to [[p/_perform|perform]] a [[s/_specific|specific]] task.**
 - **A surgical [[o/_operation|operation]].**
 ---
 ### Synonyms

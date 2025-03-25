@@ -1,18 +1,18 @@
 # Studies
 ---
 #noun
-- **An [[a/_academic|academic]] [[f/_field|field]] of [[s/_study|study]] [[c/_concerning|concerning]] the [[g/_given|given]] subject.**
+- **An [[a/_academic|academic]] [[f/_field|field]] of [[s/_study|study]] [[c/_concerning|concerning]] the [[g/_given|given]] [[s/_subject|subject]].**
 ---
 #verb
 - **(usually [[a/_academic|academic]]) To [[r/_review|review]] [[m/_materials|materials]] [[a/_already|already]] [[l/_learned|learned]] in [[o/_order|order]] to [[m/_make|make]] sure [[o/_one|one]] [[d/_does|does]] not [[f/_forget|forget]] them, usually in [[p/_preparation|preparation]] for an [[e/_examination|examination]].**
 	- _Example: I need to study my biology notes._
-- **([[a/_academic|academic]]) To take a [[c/_course|course]] or [[c/_courses|courses]] on a subject.**
+- **([[a/_academic|academic]]) To take a [[c/_course|course]] or [[c/_courses|courses]] on a [[s/_subject|subject]].**
 	- _Example: I study medicine at the university._
-- **To [[a/_acquire|acquire]] [[k/_knowledge|knowledge]] on a subject with the [[i/_intention|intention]] of [[a/_applying|applying]] it in [[p/_practice|practice]].**
+- **To [[a/_acquire|acquire]] [[k/_knowledge|knowledge]] on a [[s/_subject|subject]] with the [[i/_intention|intention]] of [[a/_applying|applying]] it in [[p/_practice|practice]].**
 	- _Example: Biologists study living things._
 - **To [[l/_look|look]] at [[m/_minutely|minutely]].**
 	- _Example: He studied the map in preparation for the hike._
-- **To [[f/_fix|fix]] the [[m/_mind|mind]] [[c/_closely|closely]] upon a subject; to [[d/_dwell|dwell]] upon [[a/_anything|anything]] in thought; to [[m/_muse|muse]]; to [[p/_ponder|ponder]].**
+- **To [[f/_fix|fix]] the [[m/_mind|mind]] [[c/_closely|closely]] upon a [[s/_subject|subject]]; to [[d/_dwell|dwell]] upon [[a/_anything|anything]] in thought; to [[m/_muse|muse]]; to [[p/_ponder|ponder]].**
 - **To [[e/_endeavor|endeavor]] [[d/_diligently|diligently]]; to be zealous.**
 ---
 ### Synonyms
@@ -25,7 +25,7 @@
 - **[[a/_any|Any]] [[p/_particular|particular]] [[b/_branch|branch]] of [[l/_learning|learning]] that is [[s/_studied|studied]]; [[a/_any|any]] [[o/_object|object]] of [[a/_attentive|attentive]] [[c/_consideration|consideration]].**
 - **A [[r/_room|room]] in a [[h/_house|house]] [[i/_intended|intended]] for [[r/_reading|reading]] and writing; traditionally the [[p/_private|private]] [[r/_room|room]] of the [[m/_male|male]] [[h/_head|head]] of [[h/_household|household]].**
 	- _Example: Father spends all his time in the study poring over manuscripts._
-- **An [[a/_artwork|artwork]] [[m/_made|made]] in [[o/_order|order]] to [[p/_practise|practise]] or [[d/_demonstrate|demonstrate]] a subject or technique.**
+- **An [[a/_artwork|artwork]] [[m/_made|made]] in [[o/_order|order]] to [[p/_practise|practise]] or [[d/_demonstrate|demonstrate]] a [[s/_subject|subject]] or technique.**
 	- _Example: a study of heads or of hands for a figure picture_
 - **The [[h/_human|human]] [[f/_face|face]], [[b/_bearing|bearing]] an [[e/_expression|expression]] which the [[o/_observer|observer]] [[f/_finds|finds]] [[a/_amusingly|amusingly]] typical of a [[p/_particular|particular]] [[e/_emotion|emotion]] or [[s/_state|state]] of [[m/_mind|mind]].**
 	- _Example: Geoffrey's face was a study in amazement [or in bewilderment, irritation, distress etc.]_

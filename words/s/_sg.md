@@ -5,7 +5,7 @@
 	- _Example: A singular experiment cannot be regarded as scientific proof of the existence of a phenomenon._
 - **[[b/_being|Being]] the [[o/_only|only]] [[o/_one|one]] of the [[k/_kind|kind]]; unique.**
 	- _Example: She has a singular personality._
-- **[[d/_distinguished|Distinguished]] by superiority: [[p/_peerless|peerless]], unmatched, [[e/_eminent|eminent]], [[e/_exceptional|exceptional]], [[e/_extraordinary|extraordinary]].**
+- **[[d/_distinguished|Distinguished]] by [[s/_superiority|superiority]]: [[p/_peerless|peerless]], unmatched, [[e/_eminent|eminent]], [[e/_exceptional|exceptional]], [[e/_extraordinary|extraordinary]].**
 	- _Example: a man of singular gravity or attainments_
 - **[[o/_out|Out]] of the [[o/_ordinary|ordinary]]; [[c/_curious|curious]].**
 	- _Example: It was very singular; I don't know why he did it._

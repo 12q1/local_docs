@@ -5,7 +5,7 @@
 ---
 #verb
 - **To [[c/_coerce|coerce]] or [[h/_hurry|hurry]] [[a/_along|along]], as by [[p/_persistent|persistent]] [[r/_request|request]].**
-- **To subject to [[h/_harassment|harassment]] or verbal [[a/_abuse|abuse]].**
+- **To [[s/_subject|subject]] to [[h/_harassment|harassment]] or verbal [[a/_abuse|abuse]].**
 - **To [[s/_sneak|sneak]] up on or [[r/_rapidly|rapidly]] [[a/_approach|approach]].**
 - **To [[p/_pursue|pursue]] as in a [[h/_hunt|hunt]].**
 	- _Example: to chivvy the fox_

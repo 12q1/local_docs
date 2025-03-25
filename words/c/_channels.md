@@ -19,15 +19,15 @@
 	- _Example: A channel stretches between them._
 - **([[c/_communication|communication]]) A [[p/_path|path]] for [[c/_conveying|conveying]] [[e/_electrical|electrical]] or [[e/_electromagnetic|electromagnetic]] [[s/_signals|signals]], usually [[d/_distinguished|distinguished]] from [[o/_other|other]] [[p/_parallel|parallel]] [[p/_paths|paths]].**
 	- _Example: We are using one of the 24 channels._
-- **([[c/_communication|communication]]) A [[s/_single|single]] [[p/_path|path]] [[p/_provided|provided]] by a transmission [[m/_medium|medium]] via [[p/_physical|physical]] [[s/_separation|separation]], such as by multipair [[c/_cable|cable]].**
+- **([[c/_communication|communication]]) A [[s/_single|single]] [[p/_path|path]] [[p/_provided|provided]] by a transmission [[m/_medium|medium]] via [[p/_physical|physical]] [[s/_separation|separation]], [[s/_such|such]] as by multipair [[c/_cable|cable]].**
 	- _Example: The channel is created by bonding the signals from these four pairs._
-- **([[c/_communication|communication]]) A [[s/_single|single]] [[p/_path|path]] [[p/_provided|provided]] by a transmission [[m/_medium|medium]] via [[s/_spectral|spectral]] or [[p/_protocol|protocol]] [[s/_separation|separation]], such as by [[f/_frequency|frequency]] or time-[[d/_division|division]] [[m/_multiplexing|multiplexing]].**
+- **([[c/_communication|communication]]) A [[s/_single|single]] [[p/_path|path]] [[p/_provided|provided]] by a transmission [[m/_medium|medium]] via [[s/_spectral|spectral]] or [[p/_protocol|protocol]] [[s/_separation|separation]], [[s/_such|such]] as by [[f/_frequency|frequency]] or time-[[d/_division|division]] [[m/_multiplexing|multiplexing]].**
 	- _Example: Their call is being carried on channel 6 of the T-1 line._
 - **A [[s/_specific|specific]] [[r/_radio|radio]] [[f/_frequency|frequency]] or [[b/_band|band]] of [[f/_frequencies|frequencies]], usually in [[c/_conjunction|conjunction]] with a [[p/_predetermined|predetermined]] [[l/_letter|letter]], [[n/_number|number]], or [[c/_codeword|codeword]], and [[a/_allocated|allocated]] by [[i/_international|international]] [[a/_agreement|agreement]].**
 	- _Example: KNDD is the channel at 107.7 MHz in Seattle._
 - **A [[s/_specific|specific]] [[r/_radio|radio]] [[f/_frequency|frequency]] or [[b/_band|band]] of [[f/_frequencies|frequencies]] used for transmitting television.**
 	- _Example: NBC is on channel 11 in San Jose._
-- **([[s/_storage|storage]]) The [[p/_portion|portion]] of a [[s/_storage|storage]] [[m/_medium|medium]], such as a track or a [[b/_band|band]], that is [[a/_accessible|accessible]] to a [[g/_given|given]] [[r/_reading|reading]] or writing [[s/_station|station]] or [[h/_head|head]].**
+- **([[s/_storage|storage]]) The [[p/_portion|portion]] of a [[s/_storage|storage]] [[m/_medium|medium]], [[s/_such|such]] as a track or a [[b/_band|band]], that is [[a/_accessible|accessible]] to a [[g/_given|given]] [[r/_reading|reading]] or writing [[s/_station|station]] or [[h/_head|head]].**
 	- _Example: This chip in this disk drive is the channel device._
 - **(technic) The way in a turbine [[p/_pump|pump]] where the [[p/_pressure|pressure]] is [[b/_built|built]] up.**
 	- _Example: The liquid is pressurized in the lateral channel._

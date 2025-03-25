@@ -10,7 +10,7 @@
 - **A [[n/_normal|normal]] [[c/_condition|condition]] or [[s/_state|state]] of [[a/_affairs|affairs]].**
 	- _Example: As a rule, our senior editors are serious-minded._
 - **[[c/_conduct|Conduct]]; [[b/_behaviour|behaviour]].**
-- **An [[o/_order|order]] [[r/_regulating|regulating]] the [[p/_practice|practice]] of the [[c/_courts|courts]], or an [[o/_order|order]] [[m/_made|made]] [[b/_between|between]] [[p/_parties|parties]] to an [[a/_action|action]] or a suit.**
+- **An [[o/_order|order]] [[r/_regulating|regulating]] the [[p/_practice|practice]] of the [[c/_courts|courts]], or an [[o/_order|order]] [[m/_made|made]] [[b/_between|between]] [[p/_parties|parties]] to an [[a/_action|action]] or a [[s/_suit|suit]].**
 - **A [[d/_determinate|determinate]] [[m/_method|method]] [[p/_prescribed|prescribed]] for [[p/_performing|performing]] [[a/_any|any]] [[o/_operation|operation]] and [[p/_producing|producing]] a [[c/_certain|certain]] [[r/_result|result]].**
 	- _Example: a rule for extracting the cube root_
 - **A thin [[p/_plate|plate]] of [[b/_brass|brass]] or [[o/_other|other]] [[m/_metal|metal]], of the [[s/_same|same]] [[h/_height|height]] as the type, and used for [[p/_printing|printing]] [[l/_lines|lines]], as [[b/_between|between]] [[c/_columns|columns]] on the [[s/_same|same]] [[p/_page|page]], or in tabular work.**

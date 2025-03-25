@@ -1,7 +1,7 @@
 # Limbs
 ---
 #noun
-- **A [[m/_major|major]] [[a/_appendage|appendage]] of [[h/_human|human]] or [[a/_animal|animal]], used for [[l/_locomotion|locomotion]] (such as an [[a/_arm|arm]], [[l/_leg|leg]] or wing).**
+- **A [[m/_major|major]] [[a/_appendage|appendage]] of [[h/_human|human]] or [[a/_animal|animal]], used for [[l/_locomotion|locomotion]] ([[s/_such|such]] as an [[a/_arm|arm]], [[l/_leg|leg]] or wing).**
 - **A [[b/_branch|branch]] of a tree.**
 - **The [[p/_part|part]] of the [[b/_bow|bow]], from the [[h/_handle|handle]] to the tip.**
 - **An [[e/_elementary|elementary]] [[p/_piece|piece]] of the [[m/_mechanism|mechanism]] of a [[l/_lock|lock]].**

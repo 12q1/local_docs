@@ -14,7 +14,7 @@
 	- _Example: a cold heart_
 - **A wight or [[b/_being|being]].**
 - **A [[c/_conventional|conventional]] [[s/_shape|shape]] or [[s/_symbol|symbol]] used to [[r/_represent|represent]] the [[h/_heart|heart]], [[l/_love|love]], or [[e/_emotion|emotion]]: ♥ or [[s/_sometimes|sometimes]] <3.**
-- **A [[p/_playing|playing]] [[c/_card|card]] of the suit [[h/_hearts|hearts]] [[f/_featuring|featuring]] [[o/_one|one]] or [[m/_more|more]] [[h/_heart|heart]]-[[s/_shaped|shaped]] [[s/_symbols|symbols]].**
+- **A [[p/_playing|playing]] [[c/_card|card]] of the [[s/_suit|suit]] [[h/_hearts|hearts]] [[f/_featuring|featuring]] [[o/_one|one]] or [[m/_more|more]] [[h/_heart|heart]]-[[s/_shaped|shaped]] [[s/_symbols|symbols]].**
 - **The twenty-[[f/_fourth|fourth]] Lenormand [[c/_card|card]].**
 - **The [[c/_centre|centre]], [[e/_essence|essence]], or [[c/_core|core]].**
 	- _Example: Buddhists believe that suffering is right at the heart of all life._
@@ -31,7 +31,7 @@
 ### Synonyms
 - [[l/_love|love]]
 #noun
-- **[[o/_one|One]] of the [[f/_four|four]] suits of [[p/_playing|playing]] [[c/_cards|cards]], in [[r/_red|red]], [[m/_marked|marked]] with the [[s/_symbol|symbol]] ♥.**
+- **[[o/_one|One]] of the [[f/_four|four]] [[s/_suits|suits]] of [[p/_playing|playing]] [[c/_cards|cards]], in [[r/_red|red]], [[m/_marked|marked]] with the [[s/_symbol|symbol]] ♥.**
 - **A trick-taking [[c/_card|card]] [[g/_game|game]] in which [[p/_players|players]] are [[p/_penalized|penalized]] for taking [[h/_hearts|hearts]] and ([[e/_especially|especially]]) the [[q/_queen|queen]] of [[s/_spades|spades]].**
 ---
 ---

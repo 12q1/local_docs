@@ -8,8 +8,8 @@
 - **That which is [[r/_released|released]], untied or [[l/_let|let]] [[g/_go|go]].**
 	- _Example: They marked the occasion with a release of butterflies._
 - **The [[g/_giving|giving]] up of a [[c/_claim|claim]], [[e/_especially|especially]] a [[d/_debt|debt]].**
-- **[[l/_liberation|Liberation]] from [[p/_pain|pain]] or suffering.**
-- **The [[p/_process|process]] by which a [[c/_chemical|chemical]] substance is [[s/_set|set]] [[f/_free|free]].**
+- **[[l/_liberation|Liberation]] from [[p/_pain|pain]] or [[s/_suffering|suffering]].**
+- **The [[p/_process|process]] by which a [[c/_chemical|chemical]] [[s/_substance|substance]] is [[s/_set|set]] [[f/_free|free]].**
 - **([[s/_sound|sound]] [[s/_synthesis|synthesis]]) The [[a/_act|act]] or [[m/_manner|manner]] of [[e/_ending|ending]] a [[s/_sound|sound]].**
 - **In the [[b/_block|block]] [[s/_system|system]], a [[p/_printed|printed]] [[c/_card|card]] [[c/_conveying|conveying]] [[i/_information|information]] and [[i/_instructions|instructions]] to be used at [[i/_intermediate|intermediate]] [[s/_sidings|sidings]] without telegraphic [[s/_stations|stations]].**
 - **A [[d/_device|device]] [[a/_adapted|adapted]] to [[h/_hold|hold]] or [[r/_release|release]] a [[d/_device|device]] or [[m/_mechanism|mechanism]] as [[r/_required|required]].**
@@ -29,7 +29,7 @@
 - **To [[l/_loosen|loosen]]; to [[r/_relax|relax]]; to [[r/_remove|remove]] the [[o/_obligation|obligation]] of.**
 	- _Example: to release an ordinance_
 - **To [[s/_set|set]] up; to [[p/_provide|provide]] with a [[g/_goal|goal]]-[[s/_scoring|scoring]] [[o/_opportunity|opportunity]]**
-- **To [[s/_set|set]] [[f/_free|free]] a [[c/_chemical|chemical]] substance.**
+- **To [[s/_set|set]] [[f/_free|free]] a [[c/_chemical|chemical]] [[s/_substance|substance]].**
 ---
 ### Antonyms
 - [[h/_hold|hold]]

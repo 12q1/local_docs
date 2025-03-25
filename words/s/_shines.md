@@ -5,7 +5,7 @@
 - **[[b/_brightness|Brightness]] from [[r/_reflected|reflected]] [[l/_light|light]].**
 - **[[e/_excellence|Excellence]] in [[q/_quality|quality]] or [[a/_appearance|appearance]]; [[s/_splendour|splendour]].**
 - **[[s/_shoeshine|Shoeshine]].**
-- **Sunshine.**
+- **[[s/_sunshine|Sunshine]].**
 - **[[m/_moonshine|Moonshine]]; [[i/_illicitly|illicitly]] [[b/_brewed|brewed]] [[a/_alcoholic|alcoholic]] [[d/_drink|drink]].**
 - **The [[a/_amount|amount]] of [[s/_shininess|shininess]] on a [[c/_cricket|cricket]] [[b/_ball|ball]], or on [[e/_each|each]] [[s/_side|side]] of the [[b/_ball|ball]].**
 - **A [[l/_liking|liking]] for a [[p/_person|person]]; a [[f/_fancy|fancy]].**

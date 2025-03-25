@@ -53,7 +53,7 @@
 - **A [[c/_component|component]] of a [[p/_phrase|phrase]] that is [[n/_non|non]]-[[r/_recursive|recursive]] and not [[f/_found|found]] as a [[s/_sister|sister]] of the [[h/_head|head]] of the [[p/_phrase|phrase]], but [[r/_rather|rather]] as a [[d/_daughter|daughter]] of the [[m/_maximal|maximal]] [[p/_projection|projection]] of the [[p/_phrase|phrase]].**
 ---
 #noun
-- **The [[p/_process|process]] of thinking or [[m/_meditating|meditating]] on a subject.**
+- **The [[p/_process|process]] of thinking or [[m/_meditating|meditating]] on a [[s/_subject|subject]].**
 - **The [[a/_act|act]] or [[p/_process|process]] of [[r/_reasoning|reasoning]] a [[p/_priori|priori]] from [[p/_premises|premises]] [[g/_given|given]] or [[a/_assumed|assumed]].**
 - **A [[c/_conclusion|conclusion]] to which the [[m/_mind|mind]] [[c/_comes|comes]] by [[s/_speculating|speculating]]; [[m/_mere|mere]] theory; [[n/_notion|notion]]; [[c/_conjecture|conjecture]].**
 - **An [[i/_investment|investment]] [[i/_involving|involving]] [[h/_higher|higher]]-than-[[n/_normal|normal]] [[r/_risk|risk]] in [[o/_order|order]] to [[o/_obtain|obtain]] a [[h/_higher|higher]]-than-[[n/_normal|normal]] [[r/_return|return]].**

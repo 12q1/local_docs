@@ -1,7 +1,7 @@
 # Hallucinogenic
 ---
 #noun
-- **A substance that is a [[h/_hallucinogen|hallucinogen]].**
+- **A [[s/_substance|substance]] that is a [[h/_hallucinogen|hallucinogen]].**
 	- _Example: hallucinogenics are sometimes used in indigenous people's religious rites._
 ---
 #adjective

@@ -1,7 +1,7 @@
 # Earned
 ---
 #verb
-- **To [[g/_gain|gain]] (success, [[r/_reward|reward]], [[r/_recognition|recognition]]) through [[a/_applied|applied]] [[e/_effort|effort]] or work.**
+- **To [[g/_gain|gain]] ([[s/_success|success]], [[r/_reward|reward]], [[r/_recognition|recognition]]) through [[a/_applied|applied]] [[e/_effort|effort]] or work.**
 	- _Example: You can have the s'mores: you earned them, clearing the walkway of snow so well._
 - **To [[r/_receive|receive]] [[p/_payment|payment]] for work.**
 	- _Example: He earns seven million dollars a year as CEO.  My bank account is only earning one percent interest._

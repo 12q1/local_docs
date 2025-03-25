@@ -5,7 +5,7 @@
 	- _Example: a precipitous cliff_
 - **[[h/_headlong|Headlong]]**
 	- _Example: a precipitous fall_
-- **[[h/_hasty|Hasty]]; [[r/_rash|rash]]; [[q/_quick|quick]]; sudden**
+- **[[h/_hasty|Hasty]]; [[r/_rash|rash]]; [[q/_quick|quick]]; [[s/_sudden|sudden]]**
 	- _Example: precipitous attempts_
 ---
 ### Synonyms

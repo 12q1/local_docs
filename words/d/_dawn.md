@@ -1,9 +1,9 @@
 # Dawn
 ---
 #noun
-- **The [[m/_morning|morning]] twilight [[p/_period|period]] [[i/_immediately|immediately]] [[b/_before|before]] sunrise.**
-- **The [[r/_rising|rising]] of the sun.**
-- **The time when the sun [[r/_rises|rises]].**
+- **The [[m/_morning|morning]] twilight [[p/_period|period]] [[i/_immediately|immediately]] [[b/_before|before]] [[s/_sunrise|sunrise]].**
+- **The [[r/_rising|rising]] of the [[s/_sun|sun]].**
+- **The time when the [[s/_sun|sun]] [[r/_rises|rises]].**
 	- _Example: She rose before dawn to meet the train._
 - **The [[e/_earliest|earliest]] [[p/_phase|phase]] of [[s/_something|something]].**
 	- _Example: the dawn of civilization_

@@ -7,7 +7,7 @@
 	- _Example: 10,000 weekly readers_
 - **A [[p/_person|person]] who [[r/_recites|recites]] [[l/_literary|literary]] works, usually to an [[a/_audience|audience]].**
 - **A [[p/_proofreader|proofreader]].**
-- **A [[p/_person|person]] [[e/_employed|employed]] by a [[p/_publisher|publisher]] to [[r/_read|read]] works submitted for [[p/_publication|publication]] and [[d/_determine|determine]] their [[m/_merits|merits]]**
+- **A [[p/_person|person]] [[e/_employed|employed]] by a [[p/_publisher|publisher]] to [[r/_read|read]] works [[s/_submitted|submitted]] for [[p/_publication|publication]] and [[d/_determine|determine]] their [[m/_merits|merits]]**
 - **A university [[l/_lecturer|lecturer]] [[r/_ranking|ranking]] [[b/_below|below]] a [[p/_professor|professor]].**
 - **[[a/_any|Any]] [[d/_device|device]] that [[r/_reads|reads]] [[s/_something|something]].**
 	- _Example: a card reader, a microfilm reader_

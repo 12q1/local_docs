@@ -16,7 +16,7 @@
 ---
 #noun
 - **The [[a/_act|act]] or [[p/_process|process]] of [[l/_lapping|lapping]].**
-- **That [[p/_part|part]] of [[a/_any|any]] substance or [[f/_fixture|fixture]] which [[e/_extends|extends]] [[o/_over|over]], or [[l/_lies|lies]] upon, or by the [[s/_side|side]] of, a [[p/_part|part]] of [[a/_another|another]].**
+- **That [[p/_part|part]] of [[a/_any|any]] [[s/_substance|substance]] or [[f/_fixture|fixture]] which [[e/_extends|extends]] [[o/_over|over]], or [[l/_lies|lies]] upon, or by the [[s/_side|side]] of, a [[p/_part|part]] of [[a/_another|another]].**
 	- _Example: the lap of a board_
 - **The [[s/_state|state]] or [[c/_condition|condition]] of [[b/_being|being]] in [[p/_part|part]] [[e/_extended|extended]] [[o/_over|over]] or by the [[s/_side|side]] of [[s/_something|something]] [[e/_else|else]]; or the [[e/_extent|extent]] of the [[o/_overlapping|overlapping]].**
 	- _Example: The second boat got a lap of half its length on the leader._

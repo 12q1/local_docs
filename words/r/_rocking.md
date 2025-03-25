@@ -25,7 +25,7 @@
 	- _Example: Let's rock this joint!_
 - **To [[d/_do|do]] [[s/_something|something]] with [[e/_excitement|excitement]] [[y/_yet|yet]] [[s/_skillfully|skillfully]]**
 	- _Example: I need to rock a piss._
-- **To wear (a [[p/_piece|piece]] of [[c/_clothing|clothing]], [[o/_outfit|outfit]] [[e/_etc|etc]].) successfully or with [[s/_style|style]]; to [[c/_carry|carry]] [[o/_off|off]] (a [[p/_particular|particular]] [[l/_look|look]], [[s/_style|style]]).**
+- **To wear (a [[p/_piece|piece]] of [[c/_clothing|clothing]], [[o/_outfit|outfit]] [[e/_etc|etc]].) [[s/_successfully|successfully]] or with [[s/_style|style]]; to [[c/_carry|carry]] [[o/_off|off]] (a [[p/_particular|particular]] [[l/_look|look]], [[s/_style|style]]).**
 ---
 ### Synonyms
 - [[r/_rule|rule]]

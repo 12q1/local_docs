@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_any|Any]] of [[s/_several|several]] [[c/_carnivorous|carnivorous]] [[m/_marine|marine]] [[c/_cephalopod|cephalopod]] [[m/_mollusks|mollusks]], of the [[o/_order|order]] Teuthida, [[h/_having|having]] a [[m/_mantle|mantle]], [[e/_eight|eight]] [[a/_arms|arms]], and a [[p/_pair|pair]] of tentacles**
-- **A [[f/_fishhook|fishhook]] with a [[p/_piece|piece]] of [[b/_bright|bright]] [[l/_lead|lead]], [[b/_bone|bone]], or [[o/_other|other]] substance [[f/_fastened|fastened]] on [[i/_its|its]] [[s/_shank|shank]] to [[i/_imitate|imitate]] a [[s/_squid|squid]].**
+- **A [[f/_fishhook|fishhook]] with a [[p/_piece|piece]] of [[b/_bright|bright]] [[l/_lead|lead]], [[b/_bone|bone]], or [[o/_other|other]] [[s/_substance|substance]] [[f/_fastened|fastened]] on [[i/_its|its]] [[s/_shank|shank]] to [[i/_imitate|imitate]] a [[s/_squid|squid]].**
 - **([[m/_mildly|mildly]]) A [[s/_sailor|sailor]] in the [[n/_navy|Navy]].**
 - **A [[q/_quid|quid]]; [[o/_one|one]] [[p/_pound|pound]] [[s/_sterling|sterling]].**
 	- _Example: Can you lend me five squid? I feel like a bacon sarnie._

@@ -1,7 +1,7 @@
 # Corkscrews
 ---
 #noun
-- **An [[i/_implement|implement]] for [[o/_opening|opening]] [[b/_bottles|bottles]] that are [[s/_sealed|sealed]] by a [[c/_cork|cork]]. [[s/_sometimes|Sometimes]] [[s/_specifically|specifically]] such an [[i/_implement|implement]] that [[i/_includes|includes]] a [[s/_screw|screw]]-[[s/_shaped|shaped]] [[p/_part|part]], or worm.**
+- **An [[i/_implement|implement]] for [[o/_opening|opening]] [[b/_bottles|bottles]] that are [[s/_sealed|sealed]] by a [[c/_cork|cork]]. [[s/_sometimes|Sometimes]] [[s/_specifically|specifically]] [[s/_such|such]] an [[i/_implement|implement]] that [[i/_includes|includes]] a [[s/_screw|screw]]-[[s/_shaped|shaped]] [[p/_part|part]], or worm.**
 	- _Example: I opened the wine with a corkscrew._
 - **The [[s/_screw|screw]]-[[s/_shaped|shaped]] worm of a typical [[c/_corkscrew|corkscrew]].**
 - **A type of [[s/_sharp|sharp]], twisting [[p/_punch|punch]], [[o/_often|often]] [[o/_one|one]] thrown [[c/_close|close]] and from the [[s/_side|side]].**

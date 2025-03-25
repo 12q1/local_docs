@@ -4,7 +4,7 @@
 - **An [[a/_advantage|advantage]]; [[h/_help|help]] or [[a/_aid|aid]] from [[s/_something|something]].**
 	- _Example: It was for her benefit.   His benefit was free beer._
 - **A [[p/_payment|payment]] [[m/_made|made]] in [[a/_accordance|accordance]] with an [[i/_insurance|insurance]] [[p/_policy|policy]] or a [[p/_public|public]] [[a/_assistance|assistance]] [[s/_scheme|scheme]].**
-- **An [[e/_event|event]] such as a [[p/_performance|performance]], [[g/_given|given]] to [[r/_raise|raise]] [[f/_funds|funds]] for [[s/_some|some]] [[c/_cause|cause]].**
+- **An [[e/_event|event]] [[s/_such|such]] as a [[p/_performance|performance]], [[g/_given|given]] to [[r/_raise|raise]] [[f/_funds|funds]] for [[s/_some|some]] [[c/_cause|cause]].**
 - **[[b/_beneficence|Beneficence]]; [[l/_liberality|liberality]]**
 ---
 ### Synonyms

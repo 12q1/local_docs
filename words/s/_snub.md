@@ -3,7 +3,7 @@
 #noun
 - **A [[d/_deliberate|deliberate]] [[a/_affront|affront]] or [[s/_slight|slight]].**
 	- _Example: I hope the people we couldn't invite don't see it as a snub._
-- **A sudden [[c/_checking|checking]] of a [[c/_cable|cable]] or [[r/_rope|rope]].**
+- **A [[s/_sudden|sudden]] [[c/_checking|checking]] of a [[c/_cable|cable]] or [[r/_rope|rope]].**
 - **A [[k/_knot|knot]]; a [[p/_protuberance|protuberance]]; a [[s/_snag|snag]].**
 ---
 #verb

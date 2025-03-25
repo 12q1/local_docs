@@ -13,6 +13,6 @@
 ---
 #adjective
 - **[[p/_pertaining|Pertaining]] to the [[g/_god|god]] [[p/_pan|Pan]].**
-- **Of [[f/_fear|fear]], [[f/_fright|fright]] [[e/_etc|etc]]: sudden or [[o/_overwhelming|overwhelming]] ([[a/_attributed|attributed]] by the [[a/_ancient|ancient]] [[g/_greeks|Greeks]] to the [[i/_influence|influence]] of [[p/_pan|Pan]]).**
+- **Of [[f/_fear|fear]], [[f/_fright|fright]] [[e/_etc|etc]]: [[s/_sudden|sudden]] or [[o/_overwhelming|overwhelming]] ([[a/_attributed|attributed]] by the [[a/_ancient|ancient]] [[g/_greeks|Greeks]] to the [[i/_influence|influence]] of [[p/_pan|Pan]]).**
 ---
 ---

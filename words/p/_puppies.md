@@ -5,7 +5,7 @@
 - **A [[y/_young|young]] [[r/_rat|rat]].**
 - **A [[y/_young|young]] [[s/_seal|seal]].**
 - **(usually in the [[p/_plural|plural]]) A woman’[[s/_s|s]] [[b/_breast|breast]].**
-- **A ([[g/_generic|generic]]) thing; [[p/_particularly|particularly]] [[s/_something|something]] that is a [[n/_nuisance|nuisance]]; a sucker.**
+- **A ([[g/_generic|generic]]) thing; [[p/_particularly|particularly]] [[s/_something|something]] that is a [[n/_nuisance|nuisance]]; a [[s/_sucker|sucker]].**
 	- _Example: I have another two dozen of these puppies to finish before I can go home._
 - **A [[c/_conceited|conceited]] and [[i/_impertinent|impertinent]] [[p/_person|person]], [[e/_especially|especially]] a [[y/_young|young]] [[m/_man|man]].**
 ---

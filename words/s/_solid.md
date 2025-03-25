@@ -1,7 +1,7 @@
 # Solid
 ---
 #noun
-- **A substance in the [[f/_fundamental|fundamental]] [[s/_state|state]] of [[m/_matter|matter]] that [[r/_retains|retains]] [[i/_its|its]] [[s/_size|size]] and [[s/_shape|shape]] without [[n/_need|need]] of a [[c/_container|container]] (as [[o/_opposed|opposed]] to a [[l/_liquid|liquid]] or [[g/_gas|gas]]).**
+- **A [[s/_substance|substance]] in the [[f/_fundamental|fundamental]] [[s/_state|state]] of [[m/_matter|matter]] that [[r/_retains|retains]] [[i/_its|its]] [[s/_size|size]] and [[s/_shape|shape]] without [[n/_need|need]] of a [[c/_container|container]] (as [[o/_opposed|opposed]] to a [[l/_liquid|liquid]] or [[g/_gas|gas]]).**
 - **A three-[[d/_dimensional|dimensional]] [[f/_figure|figure]] (as [[o/_opposed|opposed]] to a surface, an [[a/_area|area]], or a [[c/_curve|curve]]).**
 - **A [[f/_favor|favor]].**
 	- _Example: I owe him; he did me a solid last year._
@@ -11,7 +11,7 @@
 	- _Example: The doctor said I can't eat any solids four hours before the operation._
 ---
 #adjective
-- **(of an [[o/_object|object]] or substance) That [[c/_can|can]] be [[p/_picked|picked]] up or [[h/_held|held]], [[h/_having|having]] a texture, and usually [[f/_firm|firm]]. Unlike a [[l/_liquid|liquid]] or a [[g/_gas|gas]].**
+- **(of an [[o/_object|object]] or [[s/_substance|substance]]) That [[c/_can|can]] be [[p/_picked|picked]] up or [[h/_held|held]], [[h/_having|having]] a texture, and usually [[f/_firm|firm]]. Unlike a [[l/_liquid|liquid]] or a [[g/_gas|gas]].**
 	- _Example: Almost all metals are solid at room temperature._
 - **[[l/_large|Large]] in [[s/_size|size]], [[q/_quantity|quantity]], or value.**
 - **[[l/_lacking|Lacking]] [[h/_holes|holes]], [[h/_hollows|hollows]] or [[a/_admixtures|admixtures]] of [[o/_other|other]] [[m/_materials|materials]].**
@@ -22,7 +22,7 @@
 	- _Example: I don't think Dave would have done that. He's a solid dude._
 - **[[h/_hearty|Hearty]]; [[f/_filling|filling]].**
 	- _Example: a solid meal_
-- **Worthy of [[c/_credit|credit]], trust, or [[e/_esteem|esteem]]; substantial; not [[f/_frivolous|frivolous]] or [[f/_fallacious|fallacious]].**
+- **Worthy of [[c/_credit|credit]], trust, or [[e/_esteem|esteem]]; [[s/_substantial|substantial]]; not [[f/_frivolous|frivolous]] or [[f/_fallacious|fallacious]].**
 - **[[f/_financially|Financially]] well [[o/_off|off]]; wealthy.**
 - **[[s/_sound|Sound]]; not weak.**
 	- _Example: a solid constitution of body_

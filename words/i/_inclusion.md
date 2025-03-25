@@ -7,9 +7,9 @@
 	- _Example: The inclusion of the poem added value to the course._
 - **[[a/_anything|Anything]] [[f/_foreign|foreign]] that is [[i/_included|included]] in a [[m/_material|material]],**
 - **[[a/_any|Any]] [[m/_material|material]] that is trapped [[i/_inside|inside]] a [[m/_mineral|mineral]] [[d/_during|during]] [[i/_its|its]] [[f/_formation|formation]], as a [[d/_defect|defect]] in a [[p/_precious|precious]] [[s/_stone|stone]].**
-- **A [[n/_nuclear|nuclear]] or [[c/_cytoplasmic|cytoplasmic]] [[a/_aggregate|aggregate]] of [[s/_stainable|stainable]] substances.**
-- **An [[o/_object|object]] [[c/_completely|completely]] [[i/_inside|inside]] a tissue, such as [[e/_epidermal|epidermal]] [[i/_inclusion|inclusion]] [[c/_cyst|cyst]], a [[c/_cyst|cyst]] in the [[e/_epidermis|epidermis]].**
-- **A [[m/_mapping|mapping]] where the [[d/_domain|domain]] is a subset of the [[i/_image|image]].**
+- **A [[n/_nuclear|nuclear]] or [[c/_cytoplasmic|cytoplasmic]] [[a/_aggregate|aggregate]] of [[s/_stainable|stainable]] [[s/_substances|substances]].**
+- **An [[o/_object|object]] [[c/_completely|completely]] [[i/_inside|inside]] a tissue, [[s/_such|such]] as [[e/_epidermal|epidermal]] [[i/_inclusion|inclusion]] [[c/_cyst|cyst]], a [[c/_cyst|cyst]] in the [[e/_epidermis|epidermis]].**
+- **A [[m/_mapping|mapping]] where the [[d/_domain|domain]] is a [[s/_subset|subset]] of the [[i/_image|image]].**
 - **[[r/_restriction|Restriction]]; [[l/_limitation|limitation]].**
 ---
 ### Antonyms

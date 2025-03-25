@@ -11,7 +11,7 @@
 	- _Example: to extend credit to a valued customer_
 - **To [[i/_increase|increase]] in [[q/_quantity|quantity]] by weakening or [[a/_adulterating|adulterating]] [[a/_additions|additions]].**
 - **To value, as [[l/_lands|lands]] taken by a writ of [[e/_extent|extent]] in [[s/_satisfaction|satisfaction]] of a [[d/_debt|debt]]; to [[a/_assign|assign]] by writ of [[e/_extent|extent]].**
-- **Of a [[c/_class|class]]: to be an [[e/_extension|extension]] or subtype of, or to be [[b/_based|based]] on, a [[p/_prototype|prototype]] or a [[m/_more|more]] [[a/_abstract|abstract]] [[c/_class|class]].**
+- **Of a [[c/_class|class]]: to be an [[e/_extension|extension]] or [[s/_subtype|subtype]] of, or to be [[b/_based|based]] on, a [[p/_prototype|prototype]] or a [[m/_more|more]] [[a/_abstract|abstract]] [[c/_class|class]].**
 	- _Example: The classes Person and Dog extend the class Animal._
 - **To [[r/_reenlist|reenlist]] for a [[f/_further|further]] [[p/_period|period]].**
 ---

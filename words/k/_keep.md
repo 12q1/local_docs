@@ -8,7 +8,7 @@
 - **The [[s/_state|state]] of [[b/_being|being]] [[k/_kept|kept]]; [[h/_hence|hence]], the [[r/_resulting|resulting]] [[c/_condition|condition]]; [[c/_case|case]].**
 	- _Example: to be in good keep_
 - **That which is [[k/_kept|kept]] in [[c/_charge|charge]]; a [[c/_charge|charge]].**
-- **A [[c/_cap|cap]] for [[h/_holding|holding]] [[s/_something|something]], such as a [[j/_journal|journal]] [[b/_box|box]], in [[p/_place|place]].**
+- **A [[c/_cap|cap]] for [[h/_holding|holding]] [[s/_something|something]], [[s/_such|such]] as a [[j/_journal|journal]] [[b/_box|box]], in [[p/_place|place]].**
 ---
 ### Synonyms
 - [[d/_donjon|donjon]]

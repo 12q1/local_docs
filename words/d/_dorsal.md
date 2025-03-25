@@ -9,7 +9,7 @@
 - **[[r/_relating|Relating]] to the top surface of the [[f/_foot|foot]] or [[h/_hand|hand]].**
 - **(of a [[s/_sound|sound]]) [[p/_produced|Produced]] using the [[d/_dorsum|dorsum]] of the tongue.**
 - **[[r/_relating|Relating]] to the surface [[n/_naturally|naturally]] [[i/_inferior|inferior]], as of a [[l/_leaf|leaf]].**
-- **[[r/_relating|Relating]] to the surface [[n/_naturally|naturally]] superior, as of a [[c/_creeping|creeping]] [[h/_hepatic|hepatic]] [[m/_moss|moss]].**
+- **[[r/_relating|Relating]] to the surface [[n/_naturally|naturally]] [[s/_superior|superior]], as of a [[c/_creeping|creeping]] [[h/_hepatic|hepatic]] [[m/_moss|moss]].**
 ---
 ### Antonyms
 - [[v/_ventral|ventral]]

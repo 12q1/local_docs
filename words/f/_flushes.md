@@ -1,28 +1,28 @@
 # Flushes
 ---
 #noun
-- **A [[g/_group|group]] of [[b/_birds|birds]] that [[h/_have|have]] suddenly [[s/_started|started]] up from undergrowth, trees [[e/_etc|etc]].**
+- **A [[g/_group|group]] of [[b/_birds|birds]] that [[h/_have|have]] [[s/_suddenly|suddenly]] [[s/_started|started]] up from undergrowth, trees [[e/_etc|etc]].**
 ---
 #verb
 - **To [[c/_cause|cause]] to take [[f/_flight|flight]] from [[c/_concealment|concealment]].**
 	- _Example: The hunters flushed the tiger from the canebrake._
-- **To take suddenly to [[f/_flight|flight]], [[e/_especially|especially]] from [[c/_cover|cover]].**
+- **To take [[s/_suddenly|suddenly]] to [[f/_flight|flight]], [[e/_especially|especially]] from [[c/_cover|cover]].**
 	- _Example: A covey of quail flushed from the undergrowth._
 ---
 #noun
-- **A sudden [[f/_flowing|flowing]]; a [[r/_rush|rush]] which [[f/_fills|fills]] or [[o/_overflows|overflows]], as of water for [[c/_cleansing|cleansing]] [[p/_purposes|purposes]].**
-- **[[p/_particularly|Particularly]], such a [[c/_cleansing|cleansing]] of a toilet.**
-- **A suffusion of the [[f/_face|face]] with [[b/_blood|blood]], as from [[f/_fear|fear]], [[s/_shame|shame]], [[m/_modesty|modesty]], or [[i/_intensity|intensity]] of [[f/_feeling|feeling]] of [[a/_any|any]] [[k/_kind|kind]]; a [[b/_blush|blush]]; a [[g/_glow|glow]].**
-- **[[a/_any|Any]] tinge of [[r/_red|red]] [[c/_colour|colour]] [[l/_like|like]] that [[p/_produced|produced]] on the [[c/_cheeks|cheeks]] by a sudden [[r/_rush|rush]] of [[b/_blood|blood]].**
+- **A [[s/_sudden|sudden]] [[f/_flowing|flowing]]; a [[r/_rush|rush]] which [[f/_fills|fills]] or [[o/_overflows|overflows]], as of water for [[c/_cleansing|cleansing]] [[p/_purposes|purposes]].**
+- **[[p/_particularly|Particularly]], [[s/_such|such]] a [[c/_cleansing|cleansing]] of a toilet.**
+- **A [[s/_suffusion|suffusion]] of the [[f/_face|face]] with [[b/_blood|blood]], as from [[f/_fear|fear]], [[s/_shame|shame]], [[m/_modesty|modesty]], or [[i/_intensity|intensity]] of [[f/_feeling|feeling]] of [[a/_any|any]] [[k/_kind|kind]]; a [[b/_blush|blush]]; a [[g/_glow|glow]].**
+- **[[a/_any|Any]] tinge of [[r/_red|red]] [[c/_colour|colour]] [[l/_like|like]] that [[p/_produced|produced]] on the [[c/_cheeks|cheeks]] by a [[s/_sudden|sudden]] [[r/_rush|rush]] of [[b/_blood|blood]].**
 	- _Example: the flush on the side of a peach; the flush on the clouds at sunset_
-- **A sudden [[f/_flood|flood]] or [[r/_rush|rush]] of [[f/_feeling|feeling]]; a thrill of [[e/_excitement|excitement]], [[a/_animation|animation]], [[e/_etc|etc]].**
+- **A [[s/_sudden|sudden]] [[f/_flood|flood]] or [[r/_rush|rush]] of [[f/_feeling|feeling]]; a thrill of [[e/_excitement|excitement]], [[a/_animation|animation]], [[e/_etc|etc]].**
 	- _Example: a flush of joy_
 ---
 #verb
 - **To [[c/_cleanse|cleanse]] by [[f/_flooding|flooding]] with [[g/_generous|generous]] [[q/_quantities|quantities]] of a [[f/_fluid|fluid]].**
 	- _Example: Flush the injury with plenty of water._
 - **[[p/_particularly|Particularly]], to [[c/_cleanse|cleanse]] a toilet by [[i/_introducing|introducing]] a [[l/_large|large]] [[a/_amount|amount]] of water.**
-- **To [[b/_become|become]] suffused with [[r/_reddish|reddish]] [[c/_color|color]] [[d/_due|due]] to [[e/_embarrassment|embarrassment]], [[e/_excitement|excitement]], [[o/_overheating|overheating]], or [[o/_other|other]] [[s/_systemic|systemic]] [[d/_disturbance|disturbance]], to [[b/_blush|blush]].**
+- **To [[b/_become|become]] [[s/_suffused|suffused]] with [[r/_reddish|reddish]] [[c/_color|color]] [[d/_due|due]] to [[e/_embarrassment|embarrassment]], [[e/_excitement|excitement]], [[o/_overheating|overheating]], or [[o/_other|other]] [[s/_systemic|systemic]] [[d/_disturbance|disturbance]], to [[b/_blush|blush]].**
 	- _Example: The damsel flushed at the scoundrel's suggestion._
 - **To [[c/_cause|cause]] to [[b/_blush|blush]].**
 - **To [[c/_cause|cause]] to be [[f/_full|full]]; to [[f/_flood|flood]]; to [[o/_overflow|overflow]]; to [[o/_overwhelm|overwhelm]] with water.**
@@ -31,9 +31,9 @@
 - **(of a toilet) To be [[c/_cleansed|cleansed]] by [[b/_being|being]] [[f/_flooded|flooded]] with [[g/_generous|generous]] [[q/_quantities|quantities]] of water.**
 	- _Example: There must be somebody home: I just heard the toilet flushing._
 - **To [[c/_clear|clear]] (a [[b/_buffer|buffer]]) of [[i/_its|its]] [[c/_contents|contents]].**
-- **To [[f/_flow|flow]] and [[s/_spread|spread]] suddenly; to [[r/_rush|rush]].**
+- **To [[f/_flow|flow]] and [[s/_spread|spread]] [[s/_suddenly|suddenly]]; to [[r/_rush|rush]].**
 	- _Example: Blood flushes into the face._
-- **To [[s/_show|show]] [[r/_red|red]]; to [[s/_shine|shine]] suddenly; to [[g/_glow|glow]].**
+- **To [[s/_show|show]] [[r/_red|red]]; to [[s/_shine|shine]] [[s/_suddenly|suddenly]]; to [[g/_glow|glow]].**
 - **To [[f/_fill|fill]] in ([[j/_joints|joints]]); to [[p/_point|point]] the [[l/_level|level]]; to [[m/_make|make]] them [[f/_flush|flush]].**
 - **To [[o/_operate|operate]] a [[p/_placer|placer]] [[m/_mine|mine]], where the [[c/_continuous|continuous]] supply of water is [[i/_insufficient|insufficient]], by [[h/_holding|holding]] [[b/_back|back]] the water, and [[r/_releasing|releasing]] it [[p/_periodically|periodically]] in a [[f/_flood|flood]].**
 - **To [[f/_fill|fill]] underground [[s/_spaces|spaces]], [[e/_especially|especially]] in [[c/_coal|coal]] [[m/_mines|mines]], with [[m/_material|material]] [[c/_carried|carried]] by water, which, [[a/_after|after]] [[d/_drainage|drainage]], [[c/_constitutes|constitutes]] a [[c/_compact|compact]] [[m/_mass|mass]].**
@@ -42,6 +42,6 @@
 ### Synonyms
 - [[b/_blush|blush]]
 #noun
-- **A [[h/_hand|hand]] [[c/_consisting|consisting]] of [[a/_all|all]] [[c/_cards|cards]] with the [[s/_same|same]] suit.**
+- **A [[h/_hand|hand]] [[c/_consisting|consisting]] of [[a/_all|all]] [[c/_cards|cards]] with the [[s/_same|same]] [[s/_suit|suit]].**
 ---
 ---

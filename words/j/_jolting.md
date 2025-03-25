@@ -15,7 +15,7 @@
 - **A [[m/_movement|movement]] or [[a/_action|action]] that [[j/_jolts|jolts]].**
 ---
 #adjective
-- **[[c/_causing|Causing]] or [[c/_characterized|characterized]] by sudden [[a/_abrupt|abrupt]] [[m/_movements|movements]].**
+- **[[c/_causing|Causing]] or [[c/_characterized|characterized]] by [[s/_sudden|sudden]] [[a/_abrupt|abrupt]] [[m/_movements|movements]].**
 ---
 #adjective
 - **[[i/_inspiring|Inspiring]] [[s/_shock|shock]]; [[s/_startling|startling]].**

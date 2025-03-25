@@ -1,7 +1,7 @@
 # Mountain
 ---
 #noun
-- **An [[e/_elevation|elevation]] of [[l/_land|land]] of [[c/_considerable|considerable]] [[d/_dimensions|dimensions]] [[r/_rising|rising]] [[m/_more|more]] or [[l/_less|less]] [[a/_abruptly|abruptly]], [[f/_forming|forming]] a [[c/_conspicuous|conspicuous]] [[f/_figure|figure]] in the [[l/_landscape|landscape]], usually [[h/_having|having]] a [[s/_small|small]] [[e/_extent|extent]] of surface at [[i/_its|its]] summit.**
+- **An [[e/_elevation|elevation]] of [[l/_land|land]] of [[c/_considerable|considerable]] [[d/_dimensions|dimensions]] [[r/_rising|rising]] [[m/_more|more]] or [[l/_less|less]] [[a/_abruptly|abruptly]], [[f/_forming|forming]] a [[c/_conspicuous|conspicuous]] [[f/_figure|figure]] in the [[l/_landscape|landscape]], usually [[h/_having|having]] a [[s/_small|small]] [[e/_extent|extent]] of surface at [[i/_its|its]] [[s/_summit|summit]].**
 	- _Example: We spent the weekend hiking in the mountains._
 - **[[s/_something|Something]] very [[l/_large|large]] in [[s/_size|size]] or [[q/_quantity|quantity]]; a [[h/_huge|huge]] [[a/_amount|amount]]; a [[g/_great|great]] [[h/_heap|heap]].**
 	- _Example: He was a real mountain of a man, standing seven feet tall._

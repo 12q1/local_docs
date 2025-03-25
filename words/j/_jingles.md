@@ -3,7 +3,7 @@
 #noun
 - **The [[s/_sound|sound]] of [[m/_metal|metal]] or [[g/_glass|glass]] [[c/_clattering|clattering]] [[a/_against|against]] [[i/_itself|itself]].**
 	- _Example: He heard the jingle of her keys in the door and turned off the screen._
-- **A [[s/_small|small]] [[p/_piece|piece]] of [[m/_metal|metal]] [[a/_attached|attached]] to a [[m/_musical|musical]] [[i/_instrument|instrument]], such as a tambourine, [[s/_so|so]] as to [[m/_make|make]] a [[j/_jangling|jangling]] [[s/_sound|sound]] when the [[i/_instrument|instrument]] is [[p/_played|played]].**
+- **A [[s/_small|small]] [[p/_piece|piece]] of [[m/_metal|metal]] [[a/_attached|attached]] to a [[m/_musical|musical]] [[i/_instrument|instrument]], [[s/_such|such]] as a tambourine, [[s/_so|so]] as to [[m/_make|make]] a [[j/_jangling|jangling]] [[s/_sound|sound]] when the [[i/_instrument|instrument]] is [[p/_played|played]].**
 	- _Example: Her tambourine didn't come with any jingles attached._
 - **A [[m/_memorable|memorable]] [[s/_short|short]] [[s/_song|song]], or in [[s/_some|some]] [[c/_cases|cases]] a [[s/_snippet|snippet]] of a [[p/_popular|popular]] [[s/_song|song]] with [[i/_its|its]] [[l/_lyrics|lyrics]] [[m/_modified|modified]], used for the [[p/_purposes|purposes]] of [[a/_advertising|advertising]] a [[p/_product|product]] or [[s/_service|service]] in a TV or [[r/_radio|radio]] [[c/_commercial|commercial]].**
 	- _Example: That used-car dealership's jingle has been stuck in my head since we heard that song._

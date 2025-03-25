@@ -2,14 +2,14 @@
 ---
 #noun
 - **That which [[a/_alternates|alternates]] with [[s/_something|something]] [[e/_else|else]]; vicissitude.**
-- **A substitute; an [[a/_alternative|alternative]]; [[o/_one|one]] [[d/_designated|designated]] to take the [[p/_place|place]] of [[a/_another|another]], [[i/_if|if]] [[n/_necessary|necessary]], in [[p/_performing|performing]] [[s/_some|some]] [[d/_duty|duty]].**
+- **A [[s/_substitute|substitute]]; an [[a/_alternative|alternative]]; [[o/_one|one]] [[d/_designated|designated]] to take the [[p/_place|place]] of [[a/_another|another]], [[i/_if|if]] [[n/_necessary|necessary]], in [[p/_performing|performing]] [[s/_some|some]] [[d/_duty|duty]].**
 - **A [[p/_proportion|proportion]] [[d/_derived|derived]] from [[a/_another|another]] [[p/_proportion|proportion]] by [[i/_interchanging|interchanging]] the [[m/_means|means]].**
 - **A [[r/_replacement|replacement]] of [[e/_equal|equal]] or [[g/_greater|greater]] value or [[f/_function|function]].**
-- **[[f/_figures|Figures]] or tinctures that succeed [[e/_each|each]] [[o/_other|other]] by turns.**
+- **[[f/_figures|Figures]] or tinctures that [[s/_succeed|succeed]] [[e/_each|each]] [[o/_other|other]] by turns.**
 ---
 #verb
-- **To [[p/_perform|perform]] by turns, or in succession; to [[c/_cause|cause]] to succeed by turns; to [[i/_interchange|interchange]] [[r/_regularly|regularly]].**
-- **To [[h/_happen|happen]], succeed, or [[a/_act|act]] by turns; to [[f/_follow|follow]] [[r/_reciprocally|reciprocally]] in [[p/_place|place]] or time; [[f/_followed|followed]] by with.**
+- **To [[p/_perform|perform]] by turns, or in [[s/_succession|succession]]; to [[c/_cause|cause]] to [[s/_succeed|succeed]] by turns; to [[i/_interchange|interchange]] [[r/_regularly|regularly]].**
+- **To [[h/_happen|happen]], [[s/_succeed|succeed]], or [[a/_act|act]] by turns; to [[f/_follow|follow]] [[r/_reciprocally|reciprocally]] in [[p/_place|place]] or time; [[f/_followed|followed]] by with.**
 	- _Example: The flood and ebb tides alternate with each other._
 - **To vary by turns.**
 	- _Example: The land alternates between rocky hills and sandy plains._

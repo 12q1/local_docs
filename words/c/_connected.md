@@ -28,7 +28,7 @@
 - **(of a topological [[s/_space|space]]) That [[c/_cannot|cannot]] be [[p/_partitioned|partitioned]] [[i/_into|into]] two [[n/_nonempty|nonempty]] [[o/_open|open]] [[s/_sets|sets]].**
 - **(of a [[g/_graph|graph]]) [[h/_having|Having]] a [[p/_path|path]], [[e/_either|either]] [[d/_directed|directed]] or undirected, [[c/_connecting|connecting]] [[e/_every|every]] [[p/_pair|pair]] of vertices.**
 	- _Example: In a connected graph, there is no section (proper subset that includes all edges from each vertex in said subset) of the graph that is isolated from the rest._
-- **[[h/_having|Having]] or supporting [[c/_connections|connections]], [[e/_especially|especially]] when through technology such as [[n/_networking|networking]] [[s/_software|software]] or a transportation [[n/_network|network]].**
+- **[[h/_having|Having]] or supporting [[c/_connections|connections]], [[e/_especially|especially]] when through technology [[s/_such|such]] as [[n/_networking|networking]] [[s/_software|software]] or a transportation [[n/_network|network]].**
 ---
 ### Antonyms
 - [[d/_disconnected|disconnected]]

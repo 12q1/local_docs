@@ -1,7 +1,7 @@
 # Arbitrary
 ---
 #noun
-- **[[a/_anything|Anything]] [[a/_arbitrary|arbitrary]], such as an [[a/_arithmetical|arithmetical]] value or a [[f/_fee|fee]].**
+- **[[a/_anything|Anything]] [[a/_arbitrary|arbitrary]], [[s/_such|such]] as an [[a/_arithmetical|arithmetical]] value or a [[f/_fee|fee]].**
 ---
 #adjective
 - **(usually of a [[d/_decision|decision]]) [[b/_based|Based]] on [[i/_individual|individual]] [[d/_discretion|discretion]] or [[j/_judgment|judgment]]; not [[b/_based|based]] on [[a/_any|any]] [[o/_objective|objective]] [[d/_distinction|distinction]], [[p/_perhaps|perhaps]] [[e/_even|even]] [[m/_made|made]] at [[r/_random|random]].**

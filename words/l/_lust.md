@@ -1,7 +1,7 @@
 # Lust
 ---
 #noun
-- **A [[f/_feeling|feeling]] of [[s/_strong|strong]] [[d/_desire|desire]], [[e/_especially|especially]] such a [[f/_feeling|feeling]] [[d/_driven|driven]] by [[s/_sexual|sexual]] [[a/_arousal|arousal]].**
+- **A [[f/_feeling|feeling]] of [[s/_strong|strong]] [[d/_desire|desire]], [[e/_especially|especially]] [[s/_such|such]] a [[f/_feeling|feeling]] [[d/_driven|driven]] by [[s/_sexual|sexual]] [[a/_arousal|arousal]].**
 	- _Example: Seeing Kim fills me with a passionate lust._
 - **A [[g/_general|general]] want or [[l/_longing|longing]], not [[n/_necessarily|necessarily]] [[s/_sexual|sexual]].**
 	- _Example: The boarders hide their lust to go home._

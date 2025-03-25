@@ -1,7 +1,7 @@
 # Conquest
 ---
 #noun
-- **Victory [[g/_gained|gained]] through [[c/_combat|combat]]; the subjugation of an [[e/_enemy|enemy]].**
+- **Victory [[g/_gained|gained]] through [[c/_combat|combat]]; the [[s/_subjugation|subjugation]] of an [[e/_enemy|enemy]].**
 - **(by extenstion) An [[a/_act|act]] or [[i/_instance|instance]] of [[o/_overcoming|overcoming]] an [[o/_obstacle|obstacle]].**
 - **That which is [[c/_conquered|conquered]]; [[p/_possession|possession]] [[g/_gained|gained]] by [[f/_force|force]], [[p/_physical|physical]] or [[m/_moral|moral]].**
 - **([[f/_feudal|feudal]] [[l/_law|law]]) The [[a/_acquiring|acquiring]] of [[p/_property|property]] by [[o/_other|other]] [[m/_means|means]] than by [[i/_inheritance|inheritance]]; [[a/_acquisition|acquisition]].**

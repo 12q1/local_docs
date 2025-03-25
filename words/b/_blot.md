@@ -1,13 +1,13 @@
 # Blot
 ---
 #noun
-- **A [[b/_blemish|blemish]], [[s/_spot|spot]] or [[s/_stain|stain]] [[m/_made|made]] by a [[c/_coloured|coloured]] substance.**
+- **A [[b/_blemish|blemish]], [[s/_spot|spot]] or [[s/_stain|stain]] [[m/_made|made]] by a [[c/_coloured|coloured]] [[s/_substance|substance]].**
 - **(by [[e/_extension|extension]]) A [[s/_stain|stain]] on [[s/_someone|someone]]'[[s/_s|s]] [[r/_reputation|reputation]] or [[c/_character|character]]; a [[d/_disgrace|disgrace]].**
 - **A [[m/_method|method]] of transferring [[p/_proteins|proteins]], DNA or RNA, [[o/_onto|onto]] a [[c/_carrier|carrier]].**
 - **An [[e/_exposed|exposed]] [[p/_piece|piece]] in [[b/_backgammon|backgammon]].**
 ---
 #verb
-- **To [[c/_cause|cause]] a [[b/_blot|blot]] (on [[s/_something|something]]) by [[s/_spilling|spilling]] a [[c/_coloured|coloured]] substance.**
+- **To [[c/_cause|cause]] a [[b/_blot|blot]] (on [[s/_something|something]]) by [[s/_spilling|spilling]] a [[c/_coloured|coloured]] [[s/_substance|substance]].**
 - **To [[s/_soak|soak]] up or [[a/_absorb|absorb]] [[l/_liquid|liquid]].**
 	- _Example: This paper blots easily._
 - **To [[d/_dry|dry]] (writing, [[e/_etc|etc]].) with [[b/_blotting|blotting]] [[p/_paper|paper]].**

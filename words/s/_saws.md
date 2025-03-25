@@ -1,7 +1,7 @@
 # Saws
 ---
 #noun
-- **A tool with a toothed [[b/_blade|blade]] used for [[c/_cutting|cutting]] [[h/_hard|hard]] substances, in [[p/_particular|particular]] wood or [[m/_metal|metal]]**
+- **A tool with a toothed [[b/_blade|blade]] used for [[c/_cutting|cutting]] [[h/_hard|hard]] [[s/_substances|substances]], in [[p/_particular|particular]] wood or [[m/_metal|metal]]**
 - **A [[m/_musical|musical]] [[s/_saw|saw]].**
 - **A [[s/_sawtooth|sawtooth]] wave.**
 ---
@@ -21,7 +21,7 @@
 	- _Example: old saw_
 - **[[o/_opinion|Opinion]], [[i/_idea|idea]], [[b/_belief|belief]].**
 	- _Example: by thy saw_
-- **[[p/_proposal|Proposal]], suggestion; [[p/_possibility|possibility]].**
+- **[[p/_proposal|Proposal]], [[s/_suggestion|suggestion]]; [[p/_possibility|possibility]].**
 - **[[d/_dictate|Dictate]]; [[c/_command|command]]; [[d/_decree|decree]].**
 ---
 ---

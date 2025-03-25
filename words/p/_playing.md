@@ -1,7 +1,7 @@
 # Playing
 ---
 #verb
-- **To [[a/_act|act]] in a [[m/_manner|manner]] such that [[o/_one|one]] [[h/_has|has]] [[f/_fun|fun]]; to [[e/_engage|engage]] in [[a/_activities|activities]] [[e/_expressly|expressly]] for the [[p/_purpose|purpose]] of [[r/_recreation|recreation]] or [[e/_entertainment|entertainment]].**
+- **To [[a/_act|act]] in a [[m/_manner|manner]] [[s/_such|such]] that [[o/_one|one]] [[h/_has|has]] [[f/_fun|fun]]; to [[e/_engage|engage]] in [[a/_activities|activities]] [[e/_expressly|expressly]] for the [[p/_purpose|purpose]] of [[r/_recreation|recreation]] or [[e/_entertainment|entertainment]].**
 	- _Example: They played long and hard._
 - **To [[p/_perform|perform]] in (a [[s/_sport|sport]]); to [[p/_participate|participate]] in (a [[g/_game|game]]).**
 	- _Example: He plays on three teams_
@@ -22,6 +22,6 @@
 ### Synonyms
 - [[d/_defraud|defraud]]
 #noun
-- **([[g/_gerund|gerund]] of [[p/_play|play]]) An [[o/_occasion|occasion]] on which [[s/_something|something]], such as a [[s/_song|song]] or [[s/_show|show]], is [[p/_played|played]].**
+- **([[g/_gerund|gerund]] of [[p/_play|play]]) An [[o/_occasion|occasion]] on which [[s/_something|something]], [[s/_such|such]] as a [[s/_song|song]] or [[s/_show|show]], is [[p/_played|played]].**
 ---
 ---

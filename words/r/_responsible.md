@@ -9,7 +9,7 @@
 	- _Example: Parents are responsible for their child's behaviour._
 - **([[f/_followed|followed]] by "for") [[b/_being|Being]] a [[p/_primary|primary]] [[c/_cause|cause]] of a [[s/_situation|situation]] or [[a/_action|action]] and thus [[a/_able|able]] to be [[b/_blamed|blamed]] or [[c/_credited|credited]] for it.**
 	- _Example: Who is responsible for this mess?_
-- **([[f/_followed|followed]] by "to") [[a/_answerable|Answerable]] to (a superior).**
+- **([[f/_followed|followed]] by "to") [[a/_answerable|Answerable]] to (a [[s/_superior|superior]]).**
 - **(of a [[j/_job|job]] or [[p/_position|position]]) [[i/_involving|Involving]] [[i/_important|important]] [[d/_duties|duties]]; [[i/_involving|involving]] a [[d/_degree|degree]] of [[p/_personal|personal]] [[a/_accountability|accountability]] on the [[p/_part|part]] of the [[p/_person|person]] [[c/_concerned|concerned]].**
 	- _Example: She has a responsible position in the firm._
 - **[[h/_having|Having]] [[g/_good|good]] [[j/_judgment|judgment]] in [[d/_decision|decision]]-[[m/_making|making]].**

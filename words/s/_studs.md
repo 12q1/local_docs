@@ -3,9 +3,9 @@
 #noun
 - **A [[m/_male|male]] [[a/_animal|animal]], [[e/_especially|especially]] a [[s/_stud|stud]] [[h/_horse|horse]] ([[s/_stallion|stallion]]), [[k/_kept|kept]] for [[b/_breeding|breeding]].**
 - **A [[f/_female|female]] [[a/_animal|animal]], [[e/_especially|especially]] a studmare ([[b/_broodmare|broodmare]]), [[k/_kept|kept]] for [[b/_breeding|breeding]].**
-- **([[a/_also|also]] by [[e/_extension|extension]]) A [[g/_group|group]] of such [[a/_animals|animals]].**
+- **([[a/_also|also]] by [[e/_extension|extension]]) A [[g/_group|group]] of [[s/_such|such]] [[a/_animals|animals]].**
 - **An [[a/_animal|animal]] (usually [[l/_livestock|livestock]]) that [[h/_has|has]] [[b/_been|been]] [[r/_registered|registered]] and is [[r/_retained|retained]] for [[b/_breeding|breeding]].**
-- **A [[p/_place|place]], such as a [[r/_ranch|ranch]], where such [[a/_animals|animals]] are [[k/_kept|kept]].**
+- **A [[p/_place|place]], [[s/_such|such]] as a [[r/_ranch|ranch]], where [[s/_such|such]] [[a/_animals|animals]] are [[k/_kept|kept]].**
 - **A [[s/_sexually|sexually]] [[a/_attractive|attractive]] [[m/_male|male]]; [[a/_also|also]] a [[l/_lover|lover]] in [[g/_great|great]] [[d/_demand|demand]].**
 ---
 ### Synonyms
@@ -23,7 +23,7 @@
 - **An [[i/_iron|iron]] [[b/_brace|brace]] [[a/_across|across]] the [[s/_shorter|shorter]] [[d/_diameter|diameter]] of the [[l/_link|link]] of a [[c/_chain|chain]] [[c/_cable|cable]].**
 ---
 #noun
-- **A [[p/_person|person]] who [[s/_studies|studies]] or [[l/_learns|learns]] [[a/_about|about]] a [[p/_particular|particular]] subject.**
+- **A [[p/_person|person]] who [[s/_studies|studies]] or [[l/_learns|learns]] [[a/_about|about]] a [[p/_particular|particular]] [[s/_subject|subject]].**
 	- _Example: He is a student of life._
 - **A [[p/_person|person]] who is [[f/_formally|formally]] [[e/_enrolled|enrolled]] at a [[s/_school|school]], a [[c/_college|college]] or university, or [[a/_another|another]] [[e/_educational|educational]] [[i/_institution|institution]].**
 ---

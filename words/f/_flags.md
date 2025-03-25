@@ -10,8 +10,8 @@
 - **In a [[c/_command|command]] [[l/_line|line]] [[i/_interface|interface]], a [[c/_command|command]] [[p/_parameter|parameter]] [[r/_requesting|requesting]] [[o/_optional|optional]] [[b/_behavior|behavior]] or [[o/_otherwise|otherwise]] [[m/_modifying|modifying]] the [[a/_action|action]] of the [[c/_command|command]] [[b/_being|being]] [[i/_invoked|invoked]].**
 - **A [[m/_mechanical|mechanical]] [[i/_indicator|indicator]] that [[p/_pops|pops]] up to [[d/_draw|draw]] the [[p/_pilot|pilot]]'[[s/_s|s]] [[a/_attention|attention]] to a [[p/_problem|problem]] or [[m/_malfunction|malfunction]].**
 - **The [[g/_game|game]] of [[c/_capture|capture]] the [[f/_flag|flag]].**
-- **A [[s/_sequence|sequence]] of [[f/_faces|faces]] of a [[g/_given|given]] [[p/_polytope|polytope]], [[o/_one|one]] of [[e/_each|each]] [[d/_dimension|dimension]] up to that of the [[p/_polytope|polytope]] ([[f/_formally|formally]], though in [[p/_practice|practice]] not [[a/_always|always]] [[e/_explicitly|explicitly]], [[i/_including|including]] the [[n/_null|null]] [[f/_face|face]] and the [[p/_polytope|polytope]] [[i/_itself|itself]]), such that [[e/_each|each]] [[f/_face|face]] in the [[s/_sequence|sequence]] is [[p/_part|part]] of the [[n/_next|next]]-[[h/_higher|higher]] [[d/_dimension|dimension]] [[f/_face|face]].**
-- **A [[s/_sequence|sequence]] of subspaces of a vector [[s/_space|space]], [[b/_beginning|beginning]] with the [[n/_null|null]] [[s/_space|space]] and [[e/_ending|ending]] with the vector [[s/_space|space]] [[i/_itself|itself]], such that [[e/_each|each]] [[m/_member|member]] of the [[s/_sequence|sequence]] (until the [[l/_last|last]]) is a [[p/_proper|proper]] subspace of the [[n/_next|next]].**
+- **A [[s/_sequence|sequence]] of [[f/_faces|faces]] of a [[g/_given|given]] [[p/_polytope|polytope]], [[o/_one|one]] of [[e/_each|each]] [[d/_dimension|dimension]] up to that of the [[p/_polytope|polytope]] ([[f/_formally|formally]], though in [[p/_practice|practice]] not [[a/_always|always]] [[e/_explicitly|explicitly]], [[i/_including|including]] the [[n/_null|null]] [[f/_face|face]] and the [[p/_polytope|polytope]] [[i/_itself|itself]]), [[s/_such|such]] that [[e/_each|each]] [[f/_face|face]] in the [[s/_sequence|sequence]] is [[p/_part|part]] of the [[n/_next|next]]-[[h/_higher|higher]] [[d/_dimension|dimension]] [[f/_face|face]].**
+- **A [[s/_sequence|sequence]] of [[s/_subspaces|subspaces]] of a vector [[s/_space|space]], [[b/_beginning|beginning]] with the [[n/_null|null]] [[s/_space|space]] and [[e/_ending|ending]] with the vector [[s/_space|space]] [[i/_itself|itself]], [[s/_such|such]] that [[e/_each|each]] [[m/_member|member]] of the [[s/_sequence|sequence]] (until the [[l/_last|last]]) is a [[p/_proper|proper]] [[s/_subspace|subspace]] of the [[n/_next|next]].**
 ---
 ### Synonyms
 - [[o/_option|option]], [[s/_switch|switch]], [[B/_Boolean|Boolean]], [[d/_dart|dart]]
@@ -37,7 +37,7 @@
 - **To weaken, [[b/_become|become]] [[f/_feeble|feeble]].**
 	- _Example: His strength flagged toward the end of the race._
 - **To [[h/_hang|hang]] [[l/_loose|loose]] without [[s/_stiffness|stiffness]]; to [[b/_bend|bend]] [[d/_down|down]], as [[f/_flexible|flexible]] [[b/_bodies|bodies]]; to be [[l/_loose|loose]], [[y/_yielding|yielding]], [[l/_limp|limp]].**
-- **To [[l/_let|let]] [[d/_droop|droop]]; to suffer to [[f/_fall|fall]], or [[l/_let|let]] [[f/_fall|fall]], [[i/_into|into]] [[f/_feebleness|feebleness]].**
+- **To [[l/_let|let]] [[d/_droop|droop]]; to [[s/_suffer|suffer]] to [[f/_fall|fall]], or [[l/_let|let]] [[f/_fall|fall]], [[i/_into|into]] [[f/_feebleness|feebleness]].**
 	- _Example: to flag the wings_
 - **To [[e/_enervate|enervate]]; to [[e/_exhaust|exhaust]] the vigour or [[e/_elasticity|elasticity]] of.**
 ---
@@ -47,7 +47,7 @@
 #noun
 - **A [[s/_slice|slice]] of turf; a [[s/_sod|sod]].**
 - **A [[s/_slab|slab]] of [[s/_stone|stone]]; a [[f/_flagstone|flagstone]], a [[f/_flat|flat]] [[p/_piece|piece]] of [[s/_stone|stone]] used for [[p/_paving|paving]].**
-- **[[a/_any|Any]] [[h/_hard|hard]], [[e/_evenly|evenly]] [[s/_stratified|stratified]] [[s/_sandstone|sandstone]], which [[s/_splits|splits]] [[i/_into|into]] [[l/_layers|layers]] suitable for [[f/_flagstones|flagstones]].**
+- **[[a/_any|Any]] [[h/_hard|hard]], [[e/_evenly|evenly]] [[s/_stratified|stratified]] [[s/_sandstone|sandstone]], which [[s/_splits|splits]] [[i/_into|into]] [[l/_layers|layers]] [[s/_suitable|suitable]] for [[f/_flagstones|flagstones]].**
 ---
 #verb
 - **To [[p/_pave|pave]] with [[f/_flagstones|flagstones]].**
@@ -56,7 +56,7 @@
 #noun
 - **A [[g/_group|group]] of [[f/_feathers|feathers]] on the [[l/_lower|lower]] [[p/_part|part]] of the [[l/_legs|legs]] of [[c/_certain|certain]] [[h/_hawks|hawks]], [[o/_owls|owls]], [[e/_etc|etc]].**
 - **A [[g/_group|group]] of [[e/_elongated|elongated]] wing [[f/_feathers|feathers]] in [[c/_certain|certain]] [[h/_hawks|hawks]].**
-- **The [[b/_bushy|bushy]] tail of a [[d/_dog|dog]] such as a [[s/_setter|setter]].**
+- **The [[b/_bushy|bushy]] tail of a [[d/_dog|dog]] [[s/_such|such]] as a [[s/_setter|setter]].**
 - **A [[h/_hook|hook]] [[a/_attached|attached]] to the [[s/_stem|stem]] of a written [[n/_note|note]] that [[a/_assigns|assigns]] [[i/_its|its]] [[r/_rhythmic|rhythmic]] value**
 ---
 ---

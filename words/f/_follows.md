@@ -17,7 +17,7 @@
 	- _Example: Do you follow me?_
 - **To watch, to [[k/_keep|keep]] track of ([[r/_reports|reports]] of) [[s/_some|some]] [[e/_event|event]] or [[p/_person|person]].**
 	- _Example: I followed the incumbent throughout the election._
-- **To subscribe to [[s/_see|see]] [[c/_content|content]] from an [[a/_account|account]] on a [[s/_social|social]] [[m/_media|media]] [[p/_platform|platform]].**
+- **To [[s/_subscribe|subscribe]] to [[s/_see|see]] [[c/_content|content]] from an [[a/_account|account]] on a [[s/_social|social]] [[m/_media|media]] [[p/_platform|platform]].**
 	- _Example: If you want to see more of our articles, follow us on Twitter._
 - **To be a [[l/_logical|logical]] [[c/_consequence|consequence]] of [[s/_something|something]].**
 	- _Example: If you don't practise proper hygiene, illness is sure to follow._

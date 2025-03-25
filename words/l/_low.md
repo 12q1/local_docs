@@ -45,7 +45,7 @@
 - **[[q/_quiet|Quiet]]; [[s/_soft|soft]]; not [[l/_loud|loud]].**
 	- _Example: They spoke in low voices so I would not hear what they were saying._
 - **[[m/_made|Made]] with a [[r/_relatively|relatively]] [[l/_large|large]] [[o/_opening|opening]] [[b/_between|between]] the tongue and the [[p/_palate|palate]]; [[m/_made|made]] with ([[p/_part|part]] of) the tongue [[p/_positioned|positioned]] [[l/_low|low]] in the [[m/_mouth|mouth]], [[r/_relative|relative]] to the [[p/_palate|palate]].**
-- **[[l/_lesser|Lesser]] in value than [[o/_other|other]] [[c/_cards|cards]], [[d/_denominations|denominations]], suits, [[e/_etc|etc]].**
+- **[[l/_lesser|Lesser]] in value than [[o/_other|other]] [[c/_cards|cards]], [[d/_denominations|denominations]], [[s/_suits|suits]], [[e/_etc|etc]].**
 	- _Example: a low card_
 - **Not [[r/_rich|rich]] or [[s/_seasoned|seasoned]]; [[o/_offering|offering]] the [[m/_minimum|minimum]] of [[n/_nutritional|nutritional]] [[r/_requirements|requirements]]; [[p/_plain|plain]], [[s/_simple|simple]].**
 - **(of an [[a/_automobile|automobile]], [[g/_gear|gear]], [[e/_etc|etc]]) [[d/_designed|Designed]] for a [[s/_slow|slow]] (or the [[s/_slowest|slowest]]) [[s/_speed|speed]].**

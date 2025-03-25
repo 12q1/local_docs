@@ -9,7 +9,7 @@
 - **To [[m/_make|make]] [[r/_resistant|resistant]] to [[b/_bomb|bomb]] [[b/_blasts|blasts]].**
 ---
 #adjective
-- **Sufficiently [[s/_strong|strong]] to [[r/_resist|resist]] the [[e/_effects|effects]] of a [[b/_blast|blast]] from a [[b/_bomb|bomb]].**
+- **[[s/_sufficiently|Sufficiently]] [[s/_strong|strong]] to [[r/_resist|resist]] the [[e/_effects|effects]] of a [[b/_blast|blast]] from a [[b/_bomb|bomb]].**
 	- _Example: bombproof buildings_
 ---
 ### Synonyms

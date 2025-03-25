@@ -9,7 +9,7 @@
 - **To [[d/_disunite|disunite]] from a [[g/_group|group]] or [[m/_mass|mass]]; to [[d/_disconnect|disconnect]].**
 - **To [[c/_cause|cause]] (things or [[p/_people|people]]) to be [[s/_separate|separate]].**
 	- _Example: If the kids get too noisy, separate them for a few minutes._
-- **To [[d/_divide|divide]] [[i/_itself|itself]] [[i/_into|into]] [[s/_separate|separate]] [[p/_pieces|pieces]] or substances.**
+- **To [[d/_divide|divide]] [[i/_itself|itself]] [[i/_into|into]] [[s/_separate|separate]] [[p/_pieces|pieces]] or [[s/_substances|substances]].**
 	- _Example: The sauce will separate if you don't keep stirring._
 - **To [[s/_set|set]] [[a/_apart|apart]]; to [[s/_select|select]] from [[a/_among|among]] [[o/_others|others]], as for a [[s/_special|special]] use or [[s/_service|service]].**
 ---

@@ -25,6 +25,6 @@
 #noun
 - **[[o/_one|One]]'[[s/_s|s]] [[m/_mood|mood]] or [[i/_inclination|inclination]]; [[m/_mental|mental]] [[s/_state|state]].**
 - **A [[d/_desire|desire]], an [[a/_appetite|appetite]].**
-- **A subjective [[f/_feeling|feeling]] [[e/_experienced|experienced]] in [[r/_response|response]] to a thought or [[o/_other|other]] [[s/_stimulus|stimulus]]; [[m/_mood|mood]], [[e/_emotion|emotion]], [[e/_especially|especially]] as [[d/_demonstrated|demonstrated]] in [[e/_external|external]] [[p/_physical|physical]] [[s/_signs|signs]].**
+- **A [[s/_subjective|subjective]] [[f/_feeling|feeling]] [[e/_experienced|experienced]] in [[r/_response|response]] to a thought or [[o/_other|other]] [[s/_stimulus|stimulus]]; [[m/_mood|mood]], [[e/_emotion|emotion]], [[e/_especially|especially]] as [[d/_demonstrated|demonstrated]] in [[e/_external|external]] [[p/_physical|physical]] [[s/_signs|signs]].**
 ---
 ---

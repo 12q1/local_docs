@@ -5,7 +5,7 @@
 - **An [[a/_act|act]] of [[i/_issuing|issuing]] [[m/_more|more]] [[s/_stock|stock]] by an [[a/_already|already]] [[p/_publicly|publicly]] traded [[c/_corporation|corporation]].**
 - **The [[d/_defensive|defensive]] [[b/_backs|backs]].**
 - **An [[i/_inductive|inductive]] [[c/_coil|coil]] or [[l/_loop|loop]] that is [[m/_magnetically|magnetically]] [[p/_powered|powered]] by a [[p/_primary|primary]] in a transformer or [[s/_similar|similar]]**
-- **[[o/_one|One]] who [[o/_occupies|occupies]] a subordinate or [[a/_auxiliary|auxiliary]] [[p/_place|place]]; a [[d/_delegate|delegate]] [[d/_deputy|deputy]].**
+- **[[o/_one|One]] who [[o/_occupies|occupies]] a [[s/_subordinate|subordinate]] or [[a/_auxiliary|auxiliary]] [[p/_place|place]]; a [[d/_delegate|delegate]] [[d/_deputy|deputy]].**
 	- _Example: the secondary, or undersheriff, of the city of London_
 - **A [[s/_secondary|secondary]] [[c/_circle|circle]].**
 - **A [[s/_satellite|satellite]].**
@@ -18,7 +18,7 @@
 - **[[o/_originating|Originating]] from a [[d/_deputy|deputy]] or [[d/_delegated|delegated]] [[p/_person|person]] or [[b/_body|body]]**
 	- _Example: the work of secondary hands_
 - **[[d/_derived|Derived]] from a [[p/_parent|parent]] [[c/_compound|compound]] by [[r/_replacement|replacement]] of two [[a/_atoms|atoms]] of [[h/_hydrogen|hydrogen]] by [[o/_organic|organic]] [[r/_radicals|radicals]]**
-- **[[p/_produced|Produced]] by [[a/_alteration|alteration]] or [[d/_deposition|deposition]] subsequent to the [[f/_formation|formation]] of the [[o/_original|original]] [[r/_rock|rock]] [[m/_mass|mass]].**
+- **[[p/_produced|Produced]] by [[a/_alteration|alteration]] or [[d/_deposition|deposition]] [[s/_subsequent|subsequent]] to the [[f/_formation|formation]] of the [[o/_original|original]] [[r/_rock|rock]] [[m/_mass|mass]].**
 - **[[d/_developed|Developed]] by [[p/_pressure|pressure]] or [[o/_other|other]] [[c/_causes|causes]].**
 	- _Example: secondary cleavage_
 - **[[p/_pertaining|Pertaining]] to the [[s/_second|second]] [[j/_joint|joint]] of the wing of a [[b/_bird|bird]].**

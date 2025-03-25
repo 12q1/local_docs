@@ -8,7 +8,7 @@
 - **A [[p/_production|production]] of [[f/_feces|feces]] or [[e/_excrement|excrement]], an [[a/_act|act]] of [[d/_defecation|defecation]], [[s/_stooling|stooling]].**
 - **A [[d/_decoy|decoy]]; a [[p/_portable|portable]] [[p/_piece|piece]] of wood to which a [[p/_pigeon|pigeon]] is [[f/_fastened|fastened]] to [[l/_lure|lure]] wild [[b/_birds|birds]].**
 - **A [[s/_small|small]] [[c/_channel|channel]] on the [[s/_side|side]] of a vessel, for the [[d/_deadeyes|deadeyes]] of the [[b/_backstays|backstays]].**
-- **[[m/_material|Material]], such as [[o/_oyster|oyster]] [[s/_shells|shells]], [[s/_spread|spread]] on the [[s/_sea|sea]] [[b/_bottom|bottom]] for [[o/_oyster|oyster]] [[s/_spat|spat]] to [[a/_adhere|adhere]] to.**
+- **[[m/_material|Material]], [[s/_such|such]] as [[o/_oyster|oyster]] [[s/_shells|shells]], [[s/_spread|spread]] on the [[s/_sea|sea]] [[b/_bottom|bottom]] for [[o/_oyster|oyster]] [[s/_spat|spat]] to [[a/_adhere|adhere]] to.**
 ---
 #verb
 - **To [[p/_produce|produce]] [[s/_stool|stool]]: to [[d/_defecate|defecate]].**

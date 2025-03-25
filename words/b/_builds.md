@@ -5,7 +5,7 @@
 	- _Example: Rugby players are of sturdy build._
 - **[[a/_any|Any]] of various versions of a [[s/_software|software]] [[p/_product|product]] as it is [[b/_being|being]] [[d/_developed|developed]] for [[r/_release|release]] to users.**
 	- _Example: The computer company has introduced a new prototype build to beta testers._
-- **[[a/_any|Any]] [[s/_structure|structure]], such as a [[b/_building|building]], [[s/_statue|statue]], [[p/_pool|pool]] or [[f/_forest|forest]], [[c/_created|created]] by the [[p/_player|player]].**
+- **[[a/_any|Any]] [[s/_structure|structure]], [[s/_such|such]] as a [[b/_building|building]], [[s/_statue|statue]], [[p/_pool|pool]] or [[f/_forest|forest]], [[c/_created|created]] by the [[p/_player|player]].**
 	- _Example: I made a build that looked like the Parthenon in that game._
 ---
 #verb

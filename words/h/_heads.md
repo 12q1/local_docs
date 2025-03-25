@@ -9,7 +9,7 @@
 - **A [[s/_significant|significant]] or [[i/_important|important]] [[p/_part|part]].**
 - **[[h/_headway|Headway]]; [[p/_progress|progress]].**
 	- _Example: We are having a difficult time making head against this wind._
-- **Topic; subject.**
+- **Topic; [[s/_subject|subject]].**
 	- _Example: We will consider performance issues under the head of future improvements._
 - **[[d/_denouement|Denouement]]; [[c/_crisis|crisis]].**
 	- _Example: These isses are going to come to a head today._

@@ -13,6 +13,6 @@
 - **The [[b/_bearer|bearer]] of a [[f/_flag|flag]]; [[e/_ensign|ensign]]**
 ---
 #noun
-- **The [[p/_people|people]] of [[c/_classical|classical]] [[a/_antiquity|antiquity]], [[e/_especially|especially]] such writers and [[p/_philosophers|philosophers]].**
+- **The [[p/_people|people]] of [[c/_classical|classical]] [[a/_antiquity|antiquity]], [[e/_especially|especially]] [[s/_such|such]] writers and [[p/_philosophers|philosophers]].**
 ---
 ---

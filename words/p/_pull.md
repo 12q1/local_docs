@@ -14,7 +14,7 @@
 - **A [[j/_journey|journey]] [[m/_made|made]] by [[r/_rowing|rowing]]**
 - **A [[c/_contest|contest]]; a [[s/_struggle|struggle]].**
 	- _Example: va wrestling pull}}_
-- **[[l/_loss|Loss]] or violence suffered.**
+- **[[l/_loss|Loss]] or violence [[s/_suffered|suffered]].**
 - **The [[a/_act|act]] of [[d/_drinking|drinking]]; a [[m/_mouthful|mouthful]] or swig of a [[d/_drink|drink]].**
 	- _Example: to take a pull at a mug of beer_
 - **A [[k/_kind|kind]] of [[s/_stroke|stroke]] by which a [[l/_leg|leg]] [[b/_ball|ball]] is [[s/_sent|sent]] to the [[o/_off|off]] [[s/_side|side]], or an [[o/_off|off]] [[b/_ball|ball]] to the [[s/_side|side]].**

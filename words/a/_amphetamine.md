@@ -3,7 +3,7 @@
 #noun
 - **([[p/_proper|proper]]) The [[r/_racemic|racemic]] freebase of 1-phenylpropan-2-[[a/_amine|amine]]; an [[e/_equal|equal]] [[p/_parts|parts]] [[m/_mixture|mixture]] of levoamphetamine and [[d/_dextroamphetamine|dextroamphetamine]] in their [[p/_pure|pure]] [[a/_amine|amine]] [[f/_forms|forms]].**
 - **[[a/_any|Any]] [[m/_mixture|mixture]] of the two [[a/_amphetamine|amphetamine]] enantiomers, [[d/_dextroamphetamine|dextroamphetamine]] and levoamphetamine.**
-- **[[r/_referring|Referring]] to a substituted [[a/_amphetamine|amphetamine]]; a [[m/_member|member]] of the [[a/_amphetamine|amphetamine]] [[c/_class|class]] of [[c/_chemicals|chemicals]].**
+- **[[r/_referring|Referring]] to a [[s/_substituted|substituted]] [[a/_amphetamine|amphetamine]]; a [[m/_member|member]] of the [[a/_amphetamine|amphetamine]] [[c/_class|class]] of [[c/_chemicals|chemicals]].**
 - **A [[p/_potent|potent]] [[c/_central|central]] [[n/_nervous|nervous]] [[s/_system|system]] [[s/_stimulant|stimulant]] of the phenethylamine [[c/_chemical|chemical]] [[c/_class|class]] that is used to treat ADHD, [[n/_narcolepsy|narcolepsy]], and [[o/_obesity|obesity]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Slims
 ---
 #noun
-- **A type of [[c/_cigarette|cigarette]] substantially [[l/_longer|longer]] and thinner than [[n/_normal|normal]] [[c/_cigarettes|cigarettes]].**
+- **A type of [[c/_cigarette|cigarette]] [[s/_substantially|substantially]] [[l/_longer|longer]] and thinner than [[n/_normal|normal]] [[c/_cigarettes|cigarettes]].**
 	- _Example: I only smoke slims._
 - **A [[p/_potato|potato]] [[f/_farl|farl]].**
 - **[[a/_aids|AIDS]], or the [[c/_chronic|chronic]] wasting [[a/_associated|associated]] with [[i/_its|its]] [[l/_later|later]] [[s/_stages|stages]].**

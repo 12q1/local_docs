@@ -11,7 +11,7 @@
 - **A [[m/_meal|meal]].**
 - **A [[g/_gathering|gathering]] to [[e/_eat|eat]], [[e/_especially|especially]] in [[q/_quantity|quantity]].**
 	- _Example: They held a crab feed on the beach._
-- **[[e/_encapsulated|Encapsulated]] [[o/_online|online]] [[c/_content|content]], such as [[n/_news|news]] or a blog, that [[c/_can|can]] be subscribed to.**
+- **[[e/_encapsulated|Encapsulated]] [[o/_online|online]] [[c/_content|content]], [[s/_such|such]] as [[n/_news|news]] or a blog, that [[c/_can|can]] be [[s/_subscribed|subscribed]] to.**
 	- _Example: I've subscribed to the feeds of my favourite blogs, so I can find out when new posts are added without having to visit those sites._
 ---
 #verb

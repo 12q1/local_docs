@@ -7,7 +7,7 @@
 ---
 #noun
 - **[[c/_clothing|Clothing]]; [[c/_clothes|clothes]].**
-- **[[a/_any|Any]] [[h/_hard|hard]] [[c/_coating|coating]], [[b/_bonded|bonded]] [[o/_onto|onto]] the [[o/_outside|outside]] of [[s/_something|something]] to [[a/_add|add]] [[p/_protection|protection]], such as the [[p/_plastic|plastic]] [[s/_sheath|sheath]] [[a/_around|around]] an [[o/_optical|optical]] [[f/_fibre|fibre]].**
+- **[[a/_any|Any]] [[h/_hard|hard]] [[c/_coating|coating]], [[b/_bonded|bonded]] [[o/_onto|onto]] the [[o/_outside|outside]] of [[s/_something|something]] to [[a/_add|add]] [[p/_protection|protection]], [[s/_such|such]] as the [[p/_plastic|plastic]] [[s/_sheath|sheath]] [[a/_around|around]] an [[o/_optical|optical]] [[f/_fibre|fibre]].**
 - **A weatherproof, [[i/_insulating|insulating]] or [[d/_decorative|decorative]] [[c/_covering|covering]] [[f/_fixed|fixed]] to the [[o/_outside|outside]] of a [[b/_building|building]] ([[c/_called|called]] [[s/_siding|siding]] in the US).**
 ---
 ---

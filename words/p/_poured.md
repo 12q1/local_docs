@@ -1,7 +1,7 @@
 # Poured
 ---
 #verb
-- **To [[c/_cause|cause]] ([[l/_liquid|liquid]], or [[l/_liquid|liquid]]-[[l/_like|like]] substance) to [[f/_flow|flow]] in a [[s/_stream|stream]], [[e/_either|either]] [[o/_out|out]] of a [[c/_container|container]] or [[i/_into|into]] it.**
+- **To [[c/_cause|cause]] ([[l/_liquid|liquid]], or [[l/_liquid|liquid]]-[[l/_like|like]] [[s/_substance|substance]]) to [[f/_flow|flow]] in a [[s/_stream|stream]], [[e/_either|either]] [[o/_out|out]] of a [[c/_container|container]] or [[i/_into|into]] it.**
 	- _Example: pour water from a jug_
 - **To [[s/_send|send]] [[o/_out|out]] as in a [[s/_stream|stream]] or a [[f/_flood|flood]]; to [[c/_cause|cause]] (an [[e/_emotion|emotion]]) to [[c/_come|come]] [[o/_out|out]]; to [[c/_cause|cause]] to [[e/_escape|escape]].**
 - **To [[s/_send|send]] [[f/_forth|forth]] from, as in a [[s/_stream|stream]]; to [[d/_discharge|discharge]] uninterruptedly.**

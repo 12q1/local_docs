@@ -7,7 +7,7 @@
 	- _Example: The babies' diapers had big leaks._
 - **A [[d/_divulgation|divulgation]], or [[d/_disclosure|disclosure]], of [[i/_information|information]] [[p/_previously|previously]] [[h/_held|held]] [[s/_secret|secret]].**
 	- _Example: The leaks by Chelsea Manning showed the secrets of the US military._
-- **The [[p/_person|person]] through whom such [[d/_divulgation|divulgation]], or [[d/_disclosure|disclosure]], [[o/_occurs|occurs]].**
+- **The [[p/_person|person]] through whom [[s/_such|such]] [[d/_divulgation|divulgation]], or [[d/_disclosure|disclosure]], [[o/_occurs|occurs]].**
 	- _Example: The press must have learned about the plan through a leak._
 - **A [[l/_loss|loss]] of [[e/_electricity|electricity]] through [[i/_imperfect|imperfect]] [[i/_insulation|insulation]], or the [[p/_point|point]] where it [[o/_occurs|occurs]].**
 - **The [[g/_gradual|gradual]] [[l/_loss|loss]] of a [[s/_system|system]] [[r/_resource|resource]] [[c/_caused|caused]] by [[f/_failure|failure]] to [[d/_deallocate|deallocate]] [[p/_previously|previously]] [[r/_reserved|reserved]] [[p/_portions|portions]].**

@@ -1,7 +1,7 @@
 # Sexy
 ---
 #adjective
-- **(of a [[p/_person|person]]) [[h/_having|Having]] [[s/_sex|sex]] [[a/_appeal|appeal]]; suggestive of [[s/_sex|sex]].**
+- **(of a [[p/_person|person]]) [[h/_having|Having]] [[s/_sex|sex]] [[a/_appeal|appeal]]; [[s/_suggestive|suggestive]] of [[s/_sex|sex]].**
 	- _Example: The participants in the swimsuit competition are all very sexy._
 - **That [[c/_can|can]] [[s/_sexually|sexually]] [[a/_attract|attract]] or [[a/_arouse|arouse]].**
 	- _Example: She has a sexy voice!_

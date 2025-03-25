@@ -1,7 +1,7 @@
 # Phylogeny
 ---
 #noun
-- **The [[e/_evolutionary|evolutionary]] [[h/_history|history]] of [[g/_groups|groups]] of [[o/_organisms|organisms]], such as [[s/_species|species]] or clades.**
+- **The [[e/_evolutionary|evolutionary]] [[h/_history|history]] of [[g/_groups|groups]] of [[o/_organisms|organisms]], [[s/_such|such]] as [[s/_species|species]] or clades.**
 - **A [[p/_phylogenetic|phylogenetic]] [[d/_diagram|diagram]].**
 - **The [[h/_historical|historical]] [[d/_development|development]] of a [[h/_human|human]] [[s/_social|social]] or [[r/_racial|racial]] [[g/_group|group]].**
 	- _Example: Understanding the phylogeny of this musical group helps us understand its music._

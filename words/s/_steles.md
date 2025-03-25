@@ -33,7 +33,7 @@
 #noun
 - **An upright (or [[f/_formerly|formerly]] upright) [[s/_slab|slab]] [[c/_containing|containing]] [[e/_engraved|engraved]] or [[p/_painted|painted]] [[d/_decorations|decorations]] or [[i/_inscriptions|inscriptions]]; a [[s/_stela|stela]].**
 - **[[a/_any|Any]] [[c/_carved|carved]] or [[e/_engraved|engraved]] surface.**
-- **An [[a/_acroterion|acroterion]], the [[d/_decoration|decoration]] on the [[r/_ridge|ridge]] of an [[a/_ancient|ancient]] [[g/_greek|Greek]] [[b/_building|building]] such as a temple.**
+- **An [[a/_acroterion|acroterion]], the [[d/_decoration|decoration]] on the [[r/_ridge|ridge]] of an [[a/_ancient|ancient]] [[g/_greek|Greek]] [[b/_building|building]] [[s/_such|such]] as a temple.**
 ---
 ### Synonyms
 - [[s/_stela|stela]]

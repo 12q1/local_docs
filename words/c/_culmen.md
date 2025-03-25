@@ -1,7 +1,7 @@
 # Culmen
 ---
 #noun
-- **Top; summit.**
+- **Top; [[s/_summit|summit]].**
 - **The [[d/_dorsal|dorsal]] [[r/_ridge|ridge]] of a [[b/_bird|bird]]'[[s/_s|s]] [[b/_bill|bill]].**
 ---
 ### Synonyms

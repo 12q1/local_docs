@@ -6,6 +6,6 @@
 - **A whistle [[b/_blown|blown]] by a theatre-[[g/_goer|goer]] to [[e/_express|express]] [[d/_disapproval|disapproval]].**
 ---
 #verb
-- **To [[m/_make|make]] such an [[e/_exclamation|exclamation]].**
+- **To [[m/_make|make]] [[s/_such|such]] an [[e/_exclamation|exclamation]].**
 ---
 ---

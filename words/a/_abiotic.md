@@ -1,7 +1,7 @@
 # Abiotic
 ---
 #noun
-- **[[a/_any|Any]] such [[m/_material|material]]**
+- **[[a/_any|Any]] [[s/_such|such]] [[m/_material|material]]**
 ---
 #adjective
 - **[[n/_nonliving|Nonliving]], [[i/_inanimate|inanimate]], [[c/_characterised|characterised]] by the [[a/_absence|absence]] of [[l/_life|life]]; of [[i/_inorganic|inorganic]] [[m/_matter|matter]].**

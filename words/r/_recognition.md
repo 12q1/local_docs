@@ -9,6 +9,6 @@
 - **[[h/_honour|Honour]], [[f/_favourable|favourable]] [[n/_note|note]], or [[a/_attention|attention]]**
 	- _Example: The charity gained plenty of recognition for its efforts, but little money._
 - **The [[p/_propriety|propriety]] [[c/_consisting|consisting]] for [[a/_antibodies|antibodies]] to [[b/_bind|bind]] to [[s/_some|some]] [[s/_specific|specific]] [[a/_antigens|antigens]] and not to [[o/_others|others]].**
-- **A [[r/_return|return]] of the [[f/_feu|feu]] to the superior.**
+- **A [[r/_return|return]] of the [[f/_feu|feu]] to the [[s/_superior|superior]].**
 ---
 ---

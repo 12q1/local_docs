@@ -7,6 +7,6 @@
 - **The tapering of a [[l/_leaf|leaf]] [[e/_etc|etc]] to a [[f/_fine|fine]] [[p/_point|point]].**
 - **A [[f/_fabrication|fabrication]] [[p/_process|process]] in which a [[m/_material|material]] is [[s/_stretched|stretched]] [[o/_out|out]] [[i/_into|into]] a thin [[s/_shape|shape]].**
 - **The [[r/_reduction|reduction]] of the [[a/_active|active]] [[p/_principles|principles]] of [[m/_medicines|medicines]] to [[m/_minute|minute]] [[d/_doses|doses]].**
-- **The [[p/_proportion|proportion]] of sugar that is [[c/_converted|converted]] to [[e/_ethanol|ethanol]] by a [[y/_yeast|yeast]].**
+- **The [[p/_proportion|proportion]] of [[s/_sugar|sugar]] that is [[c/_converted|converted]] to [[e/_ethanol|ethanol]] by a [[y/_yeast|yeast]].**
 ---
 ---

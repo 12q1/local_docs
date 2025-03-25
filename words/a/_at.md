@@ -27,7 +27,7 @@
 - **[[i/_indicates|Indicates]] a [[m/_means|means]], [[m/_method|method]], or [[m/_manner|manner]].**
 - **[[h/_holding|Holding]] a [[g/_given|given]] [[s/_speed|speed]] or [[r/_rate|rate]].**
 	- _Example: It is growing at the rate of 3% a year.  Cruising along at fifty miles per hour._
-- **(used for [[s/_skills|skills]] ([[i/_including|including]] in [[a/_activities|activities]]) or [[a/_areas|areas]] of [[k/_knowledge|knowledge]]) On the subject of; [[r/_regarding|regarding]].**
+- **(used for [[s/_skills|skills]] ([[i/_including|including]] in [[a/_activities|activities]]) or [[a/_areas|areas]] of [[k/_knowledge|knowledge]]) On the [[s/_subject|subject]] of; [[r/_regarding|regarding]].**
 	- _Example: He slipped at marksmanship over his extended vacation._
 - **([[s/_stressed|stressed]] [[p/_pronunciation|pronunciation]]) [[b/_bothering|Bothering]], [[i/_irritating|irritating]], [[c/_causing|causing]] [[d/_discomfort|discomfort]] to**
 ---

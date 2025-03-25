@@ -19,7 +19,7 @@
 #adjective
 - **[[a/_acting|Acting]] as a [[c/_champion|champion]]; that [[h/_has|has]] [[d/_defeated|defeated]] [[a/_all|all]] [[o/_one|one]]'[[s/_s|s]] [[c/_competitors|competitors]].**
 - **[[e/_excellent|Excellent]]; [[b/_beyond|beyond]] [[c/_compare|compare]].**
-- **([[p/_predicative|predicative]]) [[e/_excellent|Excellent]]; [[b/_brilliant|brilliant]]; superb; [[d/_deserving|deserving]] of [[h/_high|high]] [[p/_praise|praise]].**
+- **([[p/_predicative|predicative]]) [[e/_excellent|Excellent]]; [[b/_brilliant|brilliant]]; [[s/_superb|superb]]; [[d/_deserving|deserving]] of [[h/_high|high]] [[p/_praise|praise]].**
 	- _Example: "That rollercoaster was champion," laughed Vinny._
 ---
 ---

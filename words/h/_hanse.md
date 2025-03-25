@@ -1,8 +1,8 @@
 # Hanse
 ---
 #noun
-- **A [[m/_merchant|merchant]] [[g/_guild|guild]], [[p/_particularly|particularly]] the [[f/_fellowship|Fellowship]] of [[l/_london|London]] [[m/_merchants|Merchants]] (the "[[o/_old|Old]] [[h/_hanse|Hanse]]") [[g/_given|given]] a [[m/_monopoly|monopoly]] on [[l/_london|London]]'[[s/_s|s]] [[f/_foreign|foreign]] trade by the [[n/_normans|Normans]] or [[i/_its|its]] successor, the [[c/_company|Company]] of [[m/_merchant|Merchant]] [[a/_adventurers|Adventurers]] (the "[[n/_new|New]] [[h/_hanse|Hanse]]"), [[i/_incorporated|incorporated]] in 1497 and [[c/_chartered|chartered]] under [[h/_henry|Henry]] VII and [[e/_elizabeth|Elizabeth]] [[i/_i|I]].**
-- **The [[r/_rights|rights]] and [[p/_privileges|privileges]] of such [[g/_guilds|guilds]], [[p/_particularly|particularly]] their trade [[m/_monopolies|monopolies]].**
+- **A [[m/_merchant|merchant]] [[g/_guild|guild]], [[p/_particularly|particularly]] the [[f/_fellowship|Fellowship]] of [[l/_london|London]] [[m/_merchants|Merchants]] (the "[[o/_old|Old]] [[h/_hanse|Hanse]]") [[g/_given|given]] a [[m/_monopoly|monopoly]] on [[l/_london|London]]'[[s/_s|s]] [[f/_foreign|foreign]] trade by the [[n/_normans|Normans]] or [[i/_its|its]] [[s/_successor|successor]], the [[c/_company|Company]] of [[m/_merchant|Merchant]] [[a/_adventurers|Adventurers]] (the "[[n/_new|New]] [[h/_hanse|Hanse]]"), [[i/_incorporated|incorporated]] in 1497 and [[c/_chartered|chartered]] under [[h/_henry|Henry]] VII and [[e/_elizabeth|Elizabeth]] [[i/_i|I]].**
+- **The [[r/_rights|rights]] and [[p/_privileges|privileges]] of [[s/_such|such]] [[g/_guilds|guilds]], [[p/_particularly|particularly]] their trade [[m/_monopolies|monopolies]].**
 - **A [[c/_commercial|commercial]] [[a/_association|association]] of [[s/_scottish|Scottish]] [[f/_free|free]] [[b/_burghs|burghs]] in the [[m/_middle|Middle]] [[a/_ages|Ages]].**
 - **The [[h/_hanseatic|Hanseatic]] [[l/_league|League]]: a [[c/_commercial|commercial]] [[a/_association|association]] of [[g/_german|German]] towns in the [[m/_middle|Middle]] [[a/_ages|Ages]].**
 ---

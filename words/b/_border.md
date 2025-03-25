@@ -9,7 +9,7 @@
 - **The [[l/_line|line]] or [[f/_frontier|frontier]] [[a/_area|area]] [[s/_separating|separating]] [[p/_political|political]] or [[g/_geographical|geographical]] [[r/_regions|regions]].**
 	- _Example: The border between Canada and USA is the longest in the world._
 - **[[b/_border|Border]] [[m/_morris|morris]] or [[b/_border|border]] [[d/_dancing|dancing]]; a vigorous [[s/_style|style]] of traditional [[e/_english|English]] [[d/_dance|dance]] [[o/_originating|originating]] from villages [[a/_along|along]] the [[b/_border|border]] [[b/_between|between]] [[e/_england|England]] and Wales, [[p/_performed|performed]] by a team of [[d/_dancers|dancers]] usually with their [[f/_faces|faces]] [[d/_disguised|disguised]] with [[b/_black|black]] [[m/_makeup|makeup]].**
-- **A [[s/_string|string]] that is [[b/_both|both]] a [[p/_prefix|prefix]] and a suffix of [[a/_another|another]] [[p/_particular|particular]] [[s/_string|string]].**
+- **A [[s/_string|string]] that is [[b/_both|both]] a [[p/_prefix|prefix]] and a [[s/_suffix|suffix]] of [[a/_another|another]] [[p/_particular|particular]] [[s/_string|string]].**
 ---
 #verb
 - **To [[p/_put|put]] a [[b/_border|border]] on [[s/_something|something]].**

@@ -2,7 +2,7 @@
 ---
 #noun
 - **Veneration; [[p/_profound|profound]] [[a/_awe|awe]] and [[r/_respect|respect]], [[n/_normally|normally]] in a [[s/_sacred|sacred]] [[c/_context|context]].**
-- **An [[a/_act|act]] of [[s/_showing|showing]] [[r/_respect|respect]], such as a [[b/_bow|bow]].**
+- **An [[a/_act|act]] of [[s/_showing|showing]] [[r/_respect|respect]], [[s/_such|such]] as a [[b/_bow|bow]].**
 - **The [[s/_state|state]] of [[b/_being|being]] [[r/_revered|revered]].**
 - **A [[f/_form|form]] of [[a/_address|address]] for [[s/_some|some]] [[m/_members|members]] of the [[c/_clergy|clergy]].**
 	- _Example: your reverence_

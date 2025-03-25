@@ -13,7 +13,7 @@
 	- _Example: The court ordered the disposition of all assets._
 - **[[f/_final|Final]] [[d/_decision|decision]] or [[s/_settlement|settlement]].**
 	- _Example: The disposition of the case will be announced tomorrow._
-- **The [[d/_destination|destination]] of a [[p/_patient|patient]] [[a/_after|after]] [[m/_medical|medical]] treatment such as surgery.**
+- **The [[d/_destination|destination]] of a [[p/_patient|patient]] [[a/_after|after]] [[m/_medical|medical]] treatment [[s/_such|such]] as surgery.**
 	- _Example: The patient was given a disposition for outpatient care._
 - **The [[s/_set|set]] of [[c/_choirs|choirs]] of [[s/_strings|strings]] on a [[h/_harpsichord|harpsichord]].**
 	- _Example: This small harpsichord has a 1 x 4' disposition._

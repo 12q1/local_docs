@@ -11,7 +11,7 @@
 - **To throw a [[p/_pitch|pitch]] at or [[n/_near|near]] the [[b/_batter|batter]]'[[s/_s|s]] [[h/_hands|hands]].**
 	- _Example: Jones was jammed by the pitch._
 - **To [[p/_play|play]] [[m/_music|music]] ([[e/_especially|especially]] [[i/_improvisation|improvisation]] as a [[g/_group|group]], or an [[i/_informal|informal]] unrehearsed [[s/_session|session]]).**
-- **To [[i/_injure|injure]] a [[f/_finger|finger]] or toe by sudden [[c/_compression|compression]] of the [[d/_digit|digit]]'[[s/_s|s]] tip.**
+- **To [[i/_injure|injure]] a [[f/_finger|finger]] or toe by [[s/_sudden|sudden]] [[c/_compression|compression]] of the [[d/_digit|digit]]'[[s/_s|s]] tip.**
 	- _Example: When he tripped on the step he jammed his toe._
 - **To [[a/_attempt|attempt]] to [[s/_score|score]] [[p/_points|points]].**
 	- _Example: Toughie jammed four times in the second period._

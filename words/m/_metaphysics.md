@@ -15,7 +15,7 @@
 - **(by [[e/_extension|extension]] from the [[p/_philosophical|philosophical]] [[s/_sense|sense]]) [[a/_any|Any]] [[f/_fundamental|fundamental]] [[p/_principles|principles]] or [[r/_rules|rules]].**
 - **The [[s/_study|study]] of a supersensual [[r/_realm|realm]] or of [[p/_phenomena|phenomena]] which transcend the [[p/_physical|physical]] world.**
 	- _Example: I have a collection of books on metaphysics, covering astral projection, reincarnation, and communication with spirits._
-- **[[d/_displeasingly|Displeasingly]] [[a/_abstruse|abstruse]], [[c/_complex|complex]] [[m/_material|material]] on [[a/_any|any]] subject.**
+- **[[d/_displeasingly|Displeasingly]] [[a/_abstruse|abstruse]], [[c/_complex|complex]] [[m/_material|material]] on [[a/_any|any]] [[s/_subject|subject]].**
 	- _Example: This political polemic strikes me as a protracted piece of overwrought, fog-shrouded metaphysics!_
 ---
 ---

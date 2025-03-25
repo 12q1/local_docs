@@ -1,12 +1,12 @@
 # Franchise
 ---
 #noun
-- **The [[r/_right|right]] to vote at a [[p/_public|public]] [[e/_election|election]] or [[r/_referendum|referendum]]; [[s/_see|see]]: suffrage, suffragette.**
+- **The [[r/_right|right]] to vote at a [[p/_public|public]] [[e/_election|election]] or [[r/_referendum|referendum]]; [[s/_see|see]]: [[s/_suffrage|suffrage]], [[s/_suffragette|suffragette]].**
 - **A [[r/_right|right]] or [[p/_privilege|privilege]] [[o/_officially|officially]] [[g/_granted|granted]] to a [[p/_person|person]], a [[g/_group|group]] of [[p/_people|people]], or a [[c/_company|company]] by a [[g/_government|government]].**
 - **An [[a/_acknowledgment|acknowledgment]] of a [[c/_corporation|corporation]]'[[s/_s|s]] [[e/_existence|existence]] and [[o/_ownership|ownership]].**
 - **The [[a/_authorization|authorization]] [[g/_granted|granted]] by a [[c/_company|company]] to [[s/_sell|sell]] or [[d/_distribute|distribute]] [[i/_its|its]] [[g/_goods|goods]] or [[s/_services|services]] in a [[c/_certain|certain]] [[a/_area|area]].**
 	- _Example: McDonalds has exported its franchise._
-- **A [[b/_business|business]] [[o/_operating|operating]] under such [[a/_authorization|authorization]], a [[f/_franchisee|franchisee]].**
+- **A [[b/_business|business]] [[o/_operating|operating]] under [[s/_such|such]] [[a/_authorization|authorization]], a [[f/_franchisee|franchisee]].**
 - **A [[l/_legal|legal]] [[e/_exemption|exemption]] from [[j/_jurisdiction|jurisdiction]].**
 - **The [[m/_membership|membership]] of a [[c/_corporation|corporation]] or [[s/_state|state]]; [[c/_citizenship|citizenship]].**
 - **The [[d/_district|district]] or [[j/_jurisdiction|jurisdiction]] to which a [[p/_particular|particular]] [[p/_privilege|privilege]] [[e/_extends|extends]]; the [[l/_limits|limits]] of an [[i/_immunity|immunity]]; [[h/_hence|hence]], an [[a/_asylum|asylum]] or [[s/_sanctuary|sanctuary]].**

@@ -19,7 +19,7 @@
 - **([[c/_chiefly|chiefly]] US and [[s/_south|South]] [[a/_africa|Africa]]) To transport ([[s/_someone|someone]]) in a vehicle.**
 	- _Example: The cab rode him downtown._
 - **Of a [[s/_ship|ship]]: to [[s/_sail|sail]], to [[f/_float|float]] on the water.**
-- **To be [[c/_carried|carried]] or supported by [[s/_something|something]] [[l/_lightly|lightly]] and [[q/_quickly|quickly]]; to travel in such a way, as though on [[h/_horseback|horseback]].**
+- **To be [[c/_carried|carried]] or supported by [[s/_something|something]] [[l/_lightly|lightly]] and [[q/_quickly|quickly]]; to travel in [[s/_such|such]] a way, as though on [[h/_horseback|horseback]].**
 	- _Example: The witch cackled and rode away on her broomstick._
 - **To traverse by [[r/_riding|riding]].**
 - **To [[c/_convey|convey]], as by [[r/_riding|riding]]; to [[m/_make|make]] or [[d/_do|do]] by [[r/_riding|riding]].**

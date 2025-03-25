@@ -8,14 +8,14 @@
 - **([[n/_newspapers|newspapers]]) The [[d/_division|division]] [[b/_between|between]] the top and [[b/_bottom|bottom]] [[h/_halves|halves]] of a [[b/_broadsheet|broadsheet]]: [[h/_headlines|headlines]] [[a/_above|above]] the [[f/_fold|fold]] will be [[r/_readable|readable]] in a [[n/_newsstand|newsstand]] [[d/_display|display]]; usually the [[f/_fold|fold]].**
 - **(by [[e/_extension|extension]]) The [[d/_division|division]] [[b/_between|between]] the [[p/_part|part]] of a web [[p/_page|page]] visible in a web [[b/_browser|browser]] window without [[s/_scrolling|scrolling]]; usually the [[f/_fold|fold]].**
 - **That which is [[f/_folded|folded]] together, or which [[e/_enfolds|enfolds]] or [[e/_envelops|envelops]]; [[e/_embrace|embrace]].**
-- **The [[b/_bending|bending]] or [[c/_curving|curving]] of [[o/_one|one]] or a [[s/_stack|stack]] of [[o/_originally|originally]] [[f/_flat|flat]] and [[p/_planar|planar]] surfaces, such as [[s/_sedimentary|sedimentary]] [[s/_strata|strata]], as a [[r/_result|result]] of [[p/_plastic|plastic]] ([[i/_i|i]].[[e/_e|e]]. [[p/_permanent|permanent]]) [[d/_deformation|deformation]].**
+- **The [[b/_bending|bending]] or [[c/_curving|curving]] of [[o/_one|one]] or a [[s/_stack|stack]] of [[o/_originally|originally]] [[f/_flat|flat]] and [[p/_planar|planar]] surfaces, [[s/_such|such]] as [[s/_sedimentary|sedimentary]] [[s/_strata|strata]], as a [[r/_result|result]] of [[p/_plastic|plastic]] ([[i/_i|i]].[[e/_e|e]]. [[p/_permanent|permanent]]) [[d/_deformation|deformation]].**
 - **In [[f/_functional|functional]] [[p/_programming|programming]], [[a/_any|any]] of a [[f/_family|family]] of [[h/_higher|higher]]-[[o/_order|order]] [[f/_functions|functions]] that [[p/_process|process]] a [[d/_data|data]] [[s/_structure|structure]] [[r/_recursively|recursively]] to [[b/_build|build]] up a value.**
 - **A [[s/_section|section]] of [[s/_source|source]] [[c/_code|code]] that [[c/_can|can]] be [[c/_collapsed|collapsed]] [[o/_out|out]] of view in an [[e/_editor|editor]] to [[a/_aid|aid]] [[r/_readability|readability]].**
 ---
 ### Synonyms
 - [[b/_bend|bend]], [[c/_crease|crease]], [[b/_bending|bending]], [[c/_creasing|creasing]]
 #verb
-- **To [[b/_bend|bend]] ([[a/_any|any]] thin [[m/_material|material]], such as [[p/_paper|paper]]) [[o/_over|over]] [[s/_so|so]] that it [[c/_comes|comes]] in [[c/_contact|contact]] with [[i/_itself|itself]].**
+- **To [[b/_bend|bend]] ([[a/_any|any]] thin [[m/_material|material]], [[s/_such|such]] as [[p/_paper|paper]]) [[o/_over|over]] [[s/_so|so]] that it [[c/_comes|comes]] in [[c/_contact|contact]] with [[i/_itself|itself]].**
 - **To [[m/_make|make]] the [[p/_proper|proper]] [[a/_arrangement|arrangement]] (in a thin [[m/_material|material]]) by [[b/_bending|bending]].**
 	- _Example: If you fold the sheets, they'll fit more easily in the drawer._
 - **To [[b/_become|become]] [[f/_folded|folded]]; to [[f/_form|form]] [[f/_folds|folds]].**

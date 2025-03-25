@@ -7,7 +7,7 @@
 - **A [[c/_condition|condition]] of [[h/_hovering|hovering]], or [[b/_being|being]] suspended.**
 - **A [[c/_cgs|CGS]] unit of [[d/_dynamic|dynamic]] viscosity [[e/_equal|equal]] to [[o/_one|one]] [[d/_dyne|dyne]]-[[s/_second|second]] [[p/_per|per]] [[s/_square|square]] [[c/_centimetre|centimetre]].**
 - **Weight; an [[a/_amount|amount]] of weight, the [[a/_amount|amount]] [[s/_something|something]] weighs.**
-- **The weight, or [[m/_mass|mass]] of [[m/_metal|metal]], used in weighing, to [[b/_balance|balance]] the substance weighed.**
+- **The weight, or [[m/_mass|mass]] of [[m/_metal|metal]], used in weighing, to [[b/_balance|balance]] the [[s/_substance|substance]] weighed.**
 - **That which [[c/_causes|causes]] a [[b/_balance|balance]]; a [[c/_counterweight|counterweight]].**
 ---
 #verb

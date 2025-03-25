@@ -7,7 +7,7 @@
 	- _Example: A pension had somewhat less to offer than a hotel; it was always smaller, and never elegant; it sometimes offered breakfast, and sometimes not (John Irving)._
 - **A wage or [[f/_fee|fee]].**
 - **A [[c/_charge|charge]] or [[e/_expense|expense]] of [[s/_some|some]] [[k/_kind|kind]]; a tax.**
-- **A sum [[p/_paid|paid]] to a [[c/_clergyman|clergyman]] in [[p/_place|place]] of tithes.**
+- **A [[s/_sum|sum]] [[p/_paid|paid]] to a [[c/_clergyman|clergyman]] in [[p/_place|place]] of tithes.**
 - **A [[r/_regular|regular]] [[a/_allowance|allowance]] [[p/_paid|paid]] to support a [[r/_royal|royal]] [[f/_favourite|favourite]], or as [[p/_patronage|patronage]] of an [[a/_artist|artist]] or [[s/_scholar|scholar]].**
 - **A [[b/_boarding|boarding]] [[s/_school|school]] in [[f/_france|France]], [[b/_belgium|Belgium]], Switzerland, [[e/_etc|etc]].**
 ---

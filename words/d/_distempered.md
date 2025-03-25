@@ -10,7 +10,7 @@
 	- _Example: to distemper colors with size_
 ---
 #adjective
-- **[[a/_affected|Affected]] with or suffering from [[d/_distemper|distemper]].**
+- **[[a/_affected|Affected]] with or [[s/_suffering|suffering]] from [[d/_distemper|distemper]].**
 ---
 ### Synonyms
 - [[d/_diseased|diseased]]

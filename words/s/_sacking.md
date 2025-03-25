@@ -19,7 +19,7 @@
 ### Synonyms
 - [[l/_loot|loot]], [[r/_ransack|ransack]], [[r/_rack|rack]], [[a/_axe|axe]], [[c/_can|can]], [[d/_dismiss|dismiss]], [[f/_fire|fire]], [[r/_redundant|redundant]], [[t/_terminate|terminate]]
 #noun
-- **[[c/_cheap|Cheap]] [[r/_rough|rough]] [[c/_cloth|cloth]] such as would be used to [[m/_make|make]] [[b/_bags|bags]] ([[s/_sacks|sacks]]).**
+- **[[c/_cheap|Cheap]] [[r/_rough|rough]] [[c/_cloth|cloth]] [[s/_such|such]] as would be used to [[m/_make|make]] [[b/_bags|bags]] ([[s/_sacks|sacks]]).**
 	- _Example: The farmer grabbed a handful of sacking and rubbed down the cow._
 - **[[f/_firing|Firing]] or termination of an [[e/_employee|employee]].**
 	- _Example: He followed his sacking with a good drink._

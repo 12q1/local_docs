@@ -6,7 +6,7 @@
 - **A [[p/_piece|piece]] of [[m/_metal|metal]] [[d/_designed|designed]] to be [[a/_attached|attached]] to a [[h/_horse|horse]]'[[s/_s|s]] [[f/_foot|foot]] as a [[m/_means|means]] of [[p/_protection|protection]]; a [[h/_horseshoe|horseshoe]].**
 	- _Example: Throw the shoe from behind the line, and try to get it to land circling (a ringer) or touching the far stake._
 - **A [[d/_device|device]] for [[h/_holding|holding]] [[m/_multiple|multiple]] [[d/_decks|decks]] of [[p/_playing|playing]] [[c/_cards|cards]], [[a/_allowing|allowing]] [[m/_more|more]] [[g/_games|games]] to be [[p/_played|played]] by [[r/_reducing|reducing]] the time [[b/_between|between]] [[s/_shuffles|shuffles]].**
-- **[[s/_something|Something]] [[r/_resembling|resembling]] a [[s/_shoe|shoe]] in [[f/_form|form]], [[p/_position|position]], or [[f/_function|function]], such as a [[b/_brake|brake]] [[s/_shoe|shoe]].**
+- **[[s/_something|Something]] [[r/_resembling|resembling]] a [[s/_shoe|shoe]] in [[f/_form|form]], [[p/_position|position]], or [[f/_function|function]], [[s/_such|such]] as a [[b/_brake|brake]] [[s/_shoe|shoe]].**
 	- _Example: Remember to turn the rotors when replacing the brake shoes, or they will wear out unevenly._
 - **The [[o/_outer|outer]] [[c/_cover|cover]] or tread of a [[p/_pneumatic|pneumatic]] tire, [[e/_especially|especially]] for an [[a/_automobile|automobile]].**
 ---

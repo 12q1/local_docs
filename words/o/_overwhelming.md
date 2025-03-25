@@ -1,7 +1,7 @@
 # Overwhelming
 ---
 #verb
-- **To [[e/_engulf|engulf]], surge [[o/_over|over]] and submerge.**
+- **To [[e/_engulf|engulf]], surge [[o/_over|over]] and [[s/_submerge|submerge]].**
 	- _Example: The dinghy was overwhelmed by the great wave._
 - **To [[o/_overpower|overpower]], [[c/_crush|crush]].**
 	- _Example: In December 1939 the Soviet Union attacked Finland with overwhelming force._

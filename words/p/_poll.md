@@ -25,7 +25,7 @@
 - **To [[r/_remove|remove]] the [[h/_horns|horns]] of (an [[a/_animal|animal]]).**
 - **To [[r/_remove|remove]] the top or [[e/_end|end]] of; to [[c/_clip|clip]]; to [[l/_lop|lop]].**
 	- _Example: to poll a tree_
-- **([[c/_communication|communication]]) To ([[r/_repeatedly|repeatedly]]) [[r/_request|request]] the [[s/_status|status]] of [[s/_something|something]] (such as a [[c/_computer|computer]] or [[p/_printer|printer]] on a [[n/_network|network]]).**
+- **([[c/_communication|communication]]) To ([[r/_repeatedly|repeatedly]]) [[r/_request|request]] the [[s/_status|status]] of [[s/_something|something]] ([[s/_such|such]] as a [[c/_computer|computer]] or [[p/_printer|printer]] on a [[n/_network|network]]).**
 	- _Example: The network hub polled the department's computers to determine which ones could still respond._
 - **(with [[a/_adverb|adverb]]) To be [[j/_judged|judged]] in a [[p/_poll|poll]].**
 - **To [[e/_extort|extort]] from; to [[p/_plunder|plunder]]; to [[s/_strip|strip]].**

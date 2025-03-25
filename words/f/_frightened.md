@@ -5,6 +5,6 @@
 	- _Example: Avery puts a sheet over her head, pretending to be a ghost to frighten Emily._
 ---
 #adjective
-- **[[a/_afraid|Afraid]]; suffering from [[f/_fear|fear]].**
+- **[[a/_afraid|Afraid]]; [[s/_suffering|suffering]] from [[f/_fear|fear]].**
 ---
 ---

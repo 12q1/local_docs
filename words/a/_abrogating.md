@@ -1,7 +1,7 @@
 # Abrogating
 ---
 #verb
-- **To [[a/_annul|annul]] by an [[a/_authoritative|authoritative]] [[a/_act|act]]; to [[a/_abolish|abolish]] by the [[a/_authority|authority]] of the [[m/_maker|maker]] or [[h/_her|her]] or [[h/_his|his]] successor; to [[r/_repeal|repeal]]; — [[a/_applied|applied]] to the [[r/_repeal|repeal]] of [[l/_laws|laws]], [[d/_decrees|decrees]], [[o/_ordinances|ordinances]], the [[a/_abolition|abolition]] of [[c/_customs|customs]], [[e/_etc|etc]].**
+- **To [[a/_annul|annul]] by an [[a/_authoritative|authoritative]] [[a/_act|act]]; to [[a/_abolish|abolish]] by the [[a/_authority|authority]] of the [[m/_maker|maker]] or [[h/_her|her]] or [[h/_his|his]] [[s/_successor|successor]]; to [[r/_repeal|repeal]]; — [[a/_applied|applied]] to the [[r/_repeal|repeal]] of [[l/_laws|laws]], [[d/_decrees|decrees]], [[o/_ordinances|ordinances]], the [[a/_abolition|abolition]] of [[c/_customs|customs]], [[e/_etc|etc]].**
 - **To [[p/_put|put]] an [[e/_end|end]] to; to [[d/_do|do]] [[a/_away|away]] with.**
 - **To [[b/_block|block]] a [[p/_process|process]] or [[f/_function|function]].**
 ---

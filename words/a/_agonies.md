@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[e/_extreme|Extreme]] [[p/_pain|pain]].**
-- **The sufferings of [[j/_jesus|Jesus]] [[c/_christ|Christ]] in the [[g/_garden|garden]] of [[g/_gethsemane|Gethsemane]].**
+- **The [[s/_sufferings|sufferings]] of [[j/_jesus|Jesus]] [[c/_christ|Christ]] in the [[g/_garden|garden]] of [[g/_gethsemane|Gethsemane]].**
 - **Violent [[c/_contest|contest]] or [[s/_striving|striving]].**
 - **[[p/_paroxysm|Paroxysm]] of [[j/_joy|joy]]; [[k/_keen|keen]] [[e/_emotion|emotion]].**
 - **The [[l/_last|last]] [[s/_struggle|struggle]] of [[l/_life|life]]; [[d/_death|death]] [[s/_struggle|struggle]].**

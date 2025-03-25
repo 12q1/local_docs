@@ -13,7 +13,7 @@
 - **A [[p/_period|period]] of [[m/_meditation|meditation]], [[p/_prayer|prayer]] or [[s/_study|study]].**
 - **Withdrawal by [[m/_military|military]] [[f/_force|force]] from a [[d/_dangerous|dangerous]] [[p/_position|position]] or from [[e/_enemy|enemy]] [[a/_attack|attack]].**
 - **A [[s/_signal|signal]] for a [[m/_military|military]] withdrawal.**
-- **A [[b/_bugle|bugle]] [[c/_call|call]] or [[d/_drumbeat|drumbeat]] [[s/_signaling|signaling]] the [[l/_lowering|lowering]] of the [[f/_flag|flag]] at sunset, as on a [[m/_military|military]] [[b/_base|base]].**
+- **A [[b/_bugle|bugle]] [[c/_call|call]] or [[d/_drumbeat|drumbeat]] [[s/_signaling|signaling]] the [[l/_lowering|lowering]] of the [[f/_flag|flag]] at [[s/_sunset|sunset]], as on a [[m/_military|military]] [[b/_base|base]].**
 - **A [[m/_military|military]] [[c/_ceremony|ceremony]] to [[l/_lower|lower]] the [[f/_flag|flag]].**
 - **The [[m/_move|move]] of a [[p/_piece|piece]] from a threatened [[p/_position|position]].**
 ---

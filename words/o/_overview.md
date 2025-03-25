@@ -1,10 +1,10 @@
 # Overview
 ---
 #noun
-- **A [[b/_brief|brief]] summary, as of a [[b/_book|book]] or a [[p/_presentation|presentation]].**
+- **A [[b/_brief|brief]] [[s/_summary|summary]], as of a [[b/_book|book]] or a [[p/_presentation|presentation]].**
 - **An [[i/_inspection|inspection]].**
 ---
 #verb
-- **To [[e/_engage|engage]] in an [[o/_overview|overview]]; to [[p/_provide|provide]] a [[b/_brief|brief]] summary.**
+- **To [[e/_engage|engage]] in an [[o/_overview|overview]]; to [[p/_provide|provide]] a [[b/_brief|brief]] [[s/_summary|summary]].**
 ---
 ---

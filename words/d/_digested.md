@@ -12,7 +12,7 @@
 - **To suppurate; to [[g/_generate|generate]] [[p/_pus|pus]], as an ulcer.**
 - **To [[c/_cause|cause]] to suppurate, or [[g/_generate|generate]] [[p/_pus|pus]], as an ulcer or wound.**
 - **To [[r/_ripen|ripen]]; to [[m/_mature|mature]].**
-- **To [[q/_quieten|quieten]] or [[r/_reduce|reduce]] (a [[n/_negative|negative]] [[f/_feeling|feeling]], such as [[a/_anger|anger]] or [[g/_grief|grief]])**
+- **To [[q/_quieten|quieten]] or [[r/_reduce|reduce]] (a [[n/_negative|negative]] [[f/_feeling|feeling]], [[s/_such|such]] as [[a/_anger|anger]] or [[g/_grief|grief]])**
 ---
 ### Synonyms
 - [[a/_arrange|arrange]], [[s/_sort|sort]]

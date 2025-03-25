@@ -10,7 +10,7 @@
 - **The [[a/_act|act]] of [[m/_making|making]] [[m/_menaces|menaces]] or threats.**
 ---
 #adjective
-- **Suggesting [[i/_imminent|imminent]] [[h/_harm|harm]].**
+- **[[s/_suggesting|Suggesting]] [[i/_imminent|imminent]] [[h/_harm|harm]].**
 - **Threatening.**
 ---
 ---

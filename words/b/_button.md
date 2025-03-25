@@ -22,7 +22,7 @@
 - **A [[p/_person|person]] who [[a/_acts|acts]] as a [[d/_decoy|decoy]].**
 - **A [[r/_raised|raised]] [[p/_pavement|pavement]] [[m/_marker|marker]] to [[f/_further|further]] [[i/_indicate|indicate]] the [[p/_presence|presence]] of a [[p/_pavement|pavement]] [[m/_marking|marking]] [[p/_painted|painted]] [[s/_stripe|stripe]].**
 - **A [[m/_methaqualone|methaqualone]] tablet (used as a [[r/_recreational|recreational]] [[d/_drug|drug]]).**
-- **A [[p/_piece|piece]] of wood or [[m/_metal|metal]], usually [[f/_flat|flat]] and [[e/_elongated|elongated]], turning on a [[n/_nail|nail]] or [[s/_screw|screw]], to [[f/_fasten|fasten]] [[s/_something|something]], such as a [[d/_door|door]].**
+- **A [[p/_piece|piece]] of wood or [[m/_metal|metal]], usually [[f/_flat|flat]] and [[e/_elongated|elongated]], turning on a [[n/_nail|nail]] or [[s/_screw|screw]], to [[f/_fasten|fasten]] [[s/_something|something]], [[s/_such|such]] as a [[d/_door|door]].**
 - **A [[g/_globule|globule]] of [[m/_metal|metal]] [[r/_remaining|remaining]] on an [[a/_assay|assay]] [[c/_cupel|cupel]] or in a [[c/_crucible|crucible]], [[a/_after|after]] [[f/_fusion|fusion]].**
 - **A [[k/_knob|knob]]; a [[s/_small|small]] [[b/_ball|ball]]; a [[s/_small|small]], [[r/_roundish|roundish]] [[m/_mass|mass]].**
 - **A [[s/_small|small]] white [[b/_blotch|blotch]] on a [[c/_cat|cat]]'[[s/_s|s]] [[c/_coat|coat]].**
@@ -30,7 +30,7 @@
 - **The [[m/_means|means]] for [[i/_initiating|initiating]] a [[n/_nuclear|nuclear]] [[s/_strike|strike]] or [[s/_similar|similar]] [[c/_cataclysmic|cataclysmic]] [[o/_occurrence|occurrence]].**
 - **In an [[i/_instrument|instrument]] of the violin [[f/_family|family]], the [[n/_near|near]]-[[s/_semicircular|semicircular]] [[s/_shape|shape]] [[e/_extending|extending]] from the top of the [[b/_back|back]] [[p/_plate|plate]] of the [[i/_instrument|instrument]], [[m/_meeting|meeting]] the [[h/_heel|heel]] of the [[n/_neck|neck]].**
 - **The [[l/_least|least]] [[a/_amount|amount]] of [[c/_care|care]] or [[i/_interest|interest]]; a whit or [[j/_jot|jot]].**
-- **The [[f/_final|final]] [[j/_joke|joke]] at the [[e/_end|end]] of a [[c/_comedic|comedic]] [[a/_act|act]] (such as a [[s/_sketch|sketch]], [[s/_set|set]], or [[s/_scene|scene]]).**
+- **The [[f/_final|final]] [[j/_joke|joke]] at the [[e/_end|end]] of a [[c/_comedic|comedic]] [[a/_act|act]] ([[s/_such|such]] as a [[s/_sketch|sketch]], [[s/_set|set]], or [[s/_scene|scene]]).**
 - **A [[b/_button|button]] [[m/_man|man]]; a [[p/_professional|professional]] [[a/_assassin|assassin]].**
 - **The [[f/_final|final]] [[s/_segment|segment]] of a [[r/_rattlesnake|rattlesnake]]'[[s/_s|s]] [[r/_rattle|rattle]].**
 ---

@@ -7,7 +7,7 @@
 	- _Example: It is his persuasion that abortion should never be condoned._
 - **[[o/_one|One]]'[[s/_s|s]] [[a/_ability|ability]] or [[p/_power|power]] to [[i/_influence|influence]] [[s/_someone|someone]]'[[s/_s|s]] [[o/_opinions|opinions]] or [[f/_feelings|feelings]]; [[p/_persuasiveness|persuasiveness]].**
 - **A [[s/_specified|specified]] [[r/_religious|religious]] [[a/_adherence|adherence]], a [[c/_creed|creed]]; [[a/_any|any]] [[s/_school|school]] of thought or [[i/_ideology|ideology]].**
-- **(by [[e/_extension|extension]], [[o/_often|often]] [[h/_humorous|humorous]]) [[a/_another|Another]] [[p/_personal|personal]], [[a/_animal|animal]] or [[i/_inanimate|inanimate]] trait that is not (very) [[l/_liable|liable]] to be [[c/_changed|changed]] by [[p/_persuasion|persuasion]], such as [[s/_sex|sex]], [[g/_gender|gender]], [[e/_ethnicity|ethnicity]], [[o/_origin|origin]], [[p/_profession|profession]] or [[n/_nature|nature]].**
+- **(by [[e/_extension|extension]], [[o/_often|often]] [[h/_humorous|humorous]]) [[a/_another|Another]] [[p/_personal|personal]], [[a/_animal|animal]] or [[i/_inanimate|inanimate]] trait that is not (very) [[l/_liable|liable]] to be [[c/_changed|changed]] by [[p/_persuasion|persuasion]], [[s/_such|such]] as [[s/_sex|sex]], [[g/_gender|gender]], [[e/_ethnicity|ethnicity]], [[o/_origin|origin]], [[p/_profession|profession]] or [[n/_nature|nature]].**
 ---
 ### Antonyms
 - [[d/_dissuasion|dissuasion]]

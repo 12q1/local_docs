@@ -2,9 +2,9 @@
 ---
 #noun
 - **An [[i/_inflatable|inflatable]] [[b/_buoyant|buoyant]] [[o/_object|object]], [[o/_often|often]] (but not [[n/_necessarily|necessarily]]) [[r/_round|round]] and [[f/_flexible|flexible]].**
-- **Such an [[o/_object|object]] as a [[c/_child|child]]’[[s/_s|s]] toy or [[p/_party|party]] [[d/_decoration|decoration]].**
-- **Such an [[o/_object|object]] [[d/_designed|designed]] to transport [[p/_people|people]] through the [[a/_air|air]].**
-- **A [[s/_sac|sac]] [[i/_inserted|inserted]] [[i/_into|into]] [[p/_part|part]] of the [[b/_body|body]] for therapeutic [[r/_reasons|reasons]]; such as [[a/_angioplasty|angioplasty]].**
+- **[[s/_such|Such]] an [[o/_object|object]] as a [[c/_child|child]]’[[s/_s|s]] toy or [[p/_party|party]] [[d/_decoration|decoration]].**
+- **[[s/_such|Such]] an [[o/_object|object]] [[d/_designed|designed]] to transport [[p/_people|people]] through the [[a/_air|air]].**
+- **A [[s/_sac|sac]] [[i/_inserted|inserted]] [[i/_into|into]] [[p/_part|part]] of the [[b/_body|body]] for therapeutic [[r/_reasons|reasons]]; [[s/_such|such]] as [[a/_angioplasty|angioplasty]].**
 - **A [[s/_speech|speech]] [[b/_bubble|bubble]].**
 - **A type of [[g/_glass|glass]] [[c/_cup|cup]], [[s/_sometimes|sometimes]] used for [[b/_brandy|brandy]].**
 - **A [[b/_ball|ball]] or [[g/_globe|globe]] on the top of a [[p/_pillar|pillar]], [[c/_church|church]], [[e/_etc|etc]].**

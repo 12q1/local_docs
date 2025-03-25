@@ -7,6 +7,6 @@
 ### Synonyms
 - [[e/_equilibrize|equilibrize]]
 #adjective
-- **Subject to [[e/_equilibration|equilibration]]**
+- **[[s/_subject|Subject]] to [[e/_equilibration|equilibration]]**
 ---
 ---

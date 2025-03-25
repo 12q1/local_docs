@@ -2,7 +2,7 @@
 ---
 #noun
 - **A worm that [[l/_lives|lives]] in the [[g/_ground|ground]].**
-- **A worm of the [[f/_family|family]] [[l/_lumbricidae|Lumbricidae]], or, [[m/_more|more]] [[g/_generally|generally]], of the suborder Lumbricina.**
+- **A worm of the [[f/_family|family]] [[l/_lumbricidae|Lumbricidae]], or, [[m/_more|more]] [[g/_generally|generally]], of the [[s/_suborder|suborder]] Lumbricina.**
 - **A [[c/_contemptible|contemptible]] [[p/_person|person]]; a [[g/_groveller|groveller]].**
 ---
 ### Synonyms

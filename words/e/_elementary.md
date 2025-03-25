@@ -7,7 +7,7 @@
 #adjective
 - **[[r/_relating|Relating]] to the [[b/_basic|basic]], [[e/_essential|essential]] or [[f/_fundamental|fundamental]] [[p/_part|part]] of [[s/_something|something]].**
 - **[[r/_relating|Relating]] to an [[e/_elementary|elementary]] [[s/_school|school]].**
-- **[[r/_relating|Relating]] to a subatomic [[p/_particle|particle]].**
-- **Sublunary; not [[c/_celestial|celestial]]; [[b/_belonging|belonging]] to the sublunary [[s/_sphere|sphere]], to which the [[f/_four|four]] [[c/_classical|classical]] [[e/_elements|elements]] ([[e/_earth|earth]], [[a/_air|air]], [[f/_fire|fire]] and water) were [[c/_confined|confined]]; [[c/_composed|composed]] of or [[p/_pertaining|pertaining]] to these [[f/_four|four]] [[e/_elements|elements]].**
+- **[[r/_relating|Relating]] to a [[s/_subatomic|subatomic]] [[p/_particle|particle]].**
+- **[[s/_sublunary|Sublunary]]; not [[c/_celestial|celestial]]; [[b/_belonging|belonging]] to the [[s/_sublunary|sublunary]] [[s/_sphere|sphere]], to which the [[f/_four|four]] [[c/_classical|classical]] [[e/_elements|elements]] ([[e/_earth|earth]], [[a/_air|air]], [[f/_fire|fire]] and water) were [[c/_confined|confined]]; [[c/_composed|composed]] of or [[p/_pertaining|pertaining]] to these [[f/_four|four]] [[e/_elements|elements]].**
 ---
 ---

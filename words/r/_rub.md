@@ -6,7 +6,7 @@
 - **A [[d/_difficulty|difficulty]] or [[p/_problem|problem]].**
 - **A [[q/_quip|quip]] or [[s/_sarcastic|sarcastic]] [[r/_remark|remark]].**
 - **In the [[g/_game|game]] of [[c/_crown|crown]] [[g/_green|green]] [[b/_bowls|bowls]], [[a/_any|any]] [[o/_obstacle|obstacle]] by which a [[b/_bowl|bowl]] is [[d/_diverted|diverted]] from [[i/_its|its]] [[n/_normal|normal]] [[c/_course|course]].**
-- **[[a/_any|Any]] substance [[d/_designed|designed]] to be [[a/_applied|applied]] by [[r/_rubbing|rubbing]].**
+- **[[a/_any|Any]] [[s/_substance|substance]] [[d/_designed|designed]] to be [[a/_applied|applied]] by [[r/_rubbing|rubbing]].**
 	- _Example: a heat rub intended for muscular strains_
 ---
 ### Synonyms
@@ -18,7 +18,7 @@
 	- _Example: I rubbed the glass with the cloth._
 - **To be [[r/_rubbed|rubbed]] [[a/_against|against]] [[s/_something|something]].**
 	- _Example: My shoes are beginning to rub._
-- **To [[s/_spread|spread]] a substance thinly [[o/_over|over]]; to [[s/_smear|smear]].**
+- **To [[s/_spread|spread]] a [[s/_substance|substance]] thinly [[o/_over|over]]; to [[s/_smear|smear]].**
 	- _Example: meat rubbed with spices before barbecuing_
 - **To [[m/_move|move]] or [[p/_pass|pass]] with [[d/_difficulty|difficulty]].**
 	- _Example: to rub through woods, as huntsmen_

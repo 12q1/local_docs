@@ -1,7 +1,7 @@
 # Preliterate
 ---
 #noun
-- **A [[m/_member|member]] of such a [[c/_culture|culture]]**
+- **A [[m/_member|member]] of [[s/_such|such]] a [[c/_culture|culture]]**
 ---
 #adjective
 - **(of a [[c/_culture|culture]]) that [[h/_has|has]] not [[y/_yet|yet]] [[d/_developed|developed]] a written [[l/_language|language]]**

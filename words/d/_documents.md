@@ -1,8 +1,8 @@
 # Documents
 ---
 #noun
-- **An [[o/_original|original]] or [[o/_official|official]] [[p/_paper|paper]] used as the [[b/_basis|basis]], [[p/_proof|proof]], or support of [[a/_anything|anything]] [[e/_else|else]], [[i/_including|including]] [[a/_any|any]] writing, [[b/_book|book]], or [[o/_other|other]] [[i/_instrument|instrument]] [[c/_conveying|conveying]] [[i/_information|information]] [[p/_pertinent|pertinent]] to such [[p/_proof|proof]] or support.**
-- **[[a/_any|Any]] [[m/_material|material]] substance on which the [[i/_information|information]] is [[r/_represented|represented]] by writing.**
+- **An [[o/_original|original]] or [[o/_official|official]] [[p/_paper|paper]] used as the [[b/_basis|basis]], [[p/_proof|proof]], or support of [[a/_anything|anything]] [[e/_else|else]], [[i/_including|including]] [[a/_any|any]] writing, [[b/_book|book]], or [[o/_other|other]] [[i/_instrument|instrument]] [[c/_conveying|conveying]] [[i/_information|information]] [[p/_pertinent|pertinent]] to [[s/_such|such]] [[p/_proof|proof]] or support.**
+- **[[a/_any|Any]] [[m/_material|material]] [[s/_substance|substance]] on which the [[i/_information|information]] is [[r/_represented|represented]] by writing.**
 - **A [[f/_file|file]] that [[c/_contains|contains]] text.**
 - **That which is taught or [[a/_authoritatively|authoritatively]] [[s/_set|set]] [[f/_forth|forth]]; [[p/_precept|precept]]; [[i/_instruction|instruction]]; [[d/_dogma|dogma]].**
 - **An [[e/_example|example]] for [[i/_instruction|instruction]] or warning.**

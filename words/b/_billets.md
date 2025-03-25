@@ -20,7 +20,7 @@
 #noun
 - **A [[s/_semi|semi]]-[[f/_finished|finished]] [[l/_length|length]] of [[m/_metal|metal]].**
 - **A [[s/_short|short]] [[p/_piece|piece]] of wood, [[e/_especially|especially]] [[o/_one|one]] used as [[f/_firewood|firewood]].**
-- **A [[s/_short|short]] [[c/_cutting|cutting]] of sugar [[c/_cane|cane]] [[p/_produced|produced]] by a [[h/_harvester|harvester]] or used for [[p/_planting|planting]].**
+- **A [[s/_short|short]] [[c/_cutting|cutting]] of [[s/_sugar|sugar]] [[c/_cane|cane]] [[p/_produced|produced]] by a [[h/_harvester|harvester]] or used for [[p/_planting|planting]].**
 - **A [[r/_rectangle|rectangle]] used as a [[c/_charge|charge]] on an [[e/_escutcheon|escutcheon]].**
 - **An [[o/_ornament|ornament]] in [[n/_norman|Norman]] work, [[r/_resembling|resembling]] a [[b/_billet|billet]] of wood, [[e/_either|either]] [[s/_square|square]] or [[r/_round|round]].**
 - **([[s/_saddlery|saddlery]]) A [[s/_strap|strap]] that [[e/_enters|enters]] a [[b/_buckle|buckle]].**

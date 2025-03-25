@@ -1,7 +1,7 @@
 # Bicameral
 ---
 #adjective
-- **[[b/_being|Being]] or [[h/_having|having]] a [[s/_system|system]] with two, [[o/_often|often]] unequal, [[c/_chambers|chambers]] or [[c/_compartments|compartments]]; of, [[s/_signifying|signifying]], [[r/_relating|relating]] to, or [[b/_being|being]] the [[p/_product|product]] of such a two-[[c/_chambered|chambered]] [[s/_system|system]].**
+- **[[b/_being|Being]] or [[h/_having|having]] a [[s/_system|system]] with two, [[o/_often|often]] unequal, [[c/_chambers|chambers]] or [[c/_compartments|compartments]]; of, [[s/_signifying|signifying]], [[r/_relating|relating]] to, or [[b/_being|being]] the [[p/_product|product]] of [[s/_such|such]] a two-[[c/_chambered|chambered]] [[s/_system|system]].**
 	- _Example: the bicameral anatomy of the brain_
 - **Of, [[h/_having|having]] or [[r/_relating|relating]] to two [[s/_separate|separate]] [[l/_legislative|legislative]] [[c/_chambers|chambers]] or [[h/_houses|houses]].**
 - **Of a [[s/_script|script]] or typeface: [[h/_having|having]] two [[c/_cases|cases]], upper [[c/_case|case]] and [[l/_lower|lower]] [[c/_case|case]].**

@@ -12,7 +12,7 @@
 - **The [[s/_straight|straight]] [[p/_part|part]] or [[s/_shank|shank]] of an [[a/_anchor|anchor]].**
 - **The [[c/_central|central]] [[b/_bar|bar]] of a [[p/_plow|plow]], to which the [[h/_handles|handles]] and [[c/_colter|colter]] are [[s/_secured|secured]], and to the [[e/_end|end]] of which are [[a/_attached|attached]] the [[o/_oxen|oxen]] or [[h/_horses|horses]] that [[d/_draw|draw]] it.**
 - **In [[s/_steam|steam]] [[e/_engines|engines]], a [[h/_heavy|heavy]] [[i/_iron|iron]] [[l/_lever|lever]] [[h/_having|having]] an [[o/_oscillating|oscillating]] [[m/_motion|motion]] on a [[c/_central|central]] [[a/_axis|axis]], [[o/_one|one]] [[e/_end|end]] of which is [[c/_connected|connected]] with the [[p/_piston|piston]] [[r/_rod|rod]] from which it [[r/_receives|receives]] [[m/_motion|motion]], and the [[o/_other|other]] with the [[c/_crank|crank]] of the wheel [[s/_shaft|shaft]].**
-- **A [[r/_ray|ray]] or [[c/_collection|collection]] of [[a/_approximately|approximately]] [[p/_parallel|parallel]] [[r/_rays|rays]] [[e/_emitted|emitted]] from the sun or [[o/_other|other]] [[l/_luminous|luminous]] [[b/_body|body]].**
+- **A [[r/_ray|ray]] or [[c/_collection|collection]] of [[a/_approximately|approximately]] [[p/_parallel|parallel]] [[r/_rays|rays]] [[e/_emitted|emitted]] from the [[s/_sun|sun]] or [[o/_other|other]] [[l/_luminous|luminous]] [[b/_body|body]].**
 	- _Example: a beam of energy_
 - **A [[r/_ray|ray]]; a [[g/_gleam|gleam]].**
 	- _Example: a beam of hope, or of comfort_

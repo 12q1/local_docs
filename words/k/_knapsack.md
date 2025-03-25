@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_case|case]] of [[c/_canvas|canvas]] or [[l/_leather|leather]], for [[c/_carrying|carrying]] [[i/_items|items]] on the [[b/_back|back]].**
-- **A [[s/_set|set]] of values from which a subset is [[c/_chosen|chosen]].**
+- **A [[s/_set|set]] of values from which a [[s/_subset|subset]] is [[c/_chosen|chosen]].**
 ---
 ### Synonyms
 - [[b/_backpack|backpack]], [[r/_rucksack|rucksack]]

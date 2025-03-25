@@ -2,13 +2,13 @@
 ---
 #noun
 - **A [[c/_cutting|cutting]]; a [[p/_part|part]] [[c/_cut|cut]] [[o/_out|out]] from the [[r/_rest|rest]] of [[s/_something|something]].**
-- **A [[p/_part|part]], [[p/_piece|piece]], subdivision of [[a/_anything|anything]].**
+- **A [[p/_part|part]], [[p/_piece|piece]], [[s/_subdivision|subdivision]] of [[a/_anything|anything]].**
 - **A [[p/_part|part]] of a [[d/_document|document]].**
 - **An [[a/_act|act]] or [[i/_instance|instance]] of [[c/_cutting|cutting]].**
 - **A [[c/_cross|cross]]-[[s/_section|section]] ([[i/_image|image]] that [[s/_shows|shows]] an [[o/_object|object]] as [[i/_if|if]] [[c/_cut|cut]] [[a/_along|along]] a [[p/_plane|plane]]).**
 - **An [[i/_incision|incision]] or the [[a/_act|act]] of [[m/_making|making]] an [[i/_incision|incision]].**
 - **A thin [[s/_slice|slice]] of [[m/_material|material]] [[p/_prepared|prepared]] as a [[s/_specimen|specimen]] for [[r/_research|research]].**
-- **A taxonomic [[r/_rank|rank]] [[b/_below|below]] the [[g/_genus|genus]] (and subgenus [[i/_if|if]] [[p/_present|present]]), but [[a/_above|above]] the [[s/_species|species]].**
+- **A taxonomic [[r/_rank|rank]] [[b/_below|below]] the [[g/_genus|genus]] (and [[s/_subgenus|subgenus]] [[i/_if|if]] [[p/_present|present]]), but [[a/_above|above]] the [[s/_species|species]].**
 - **An [[i/_informal|informal]] taxonomic [[r/_rank|rank]] [[b/_below|below]] the [[o/_order|order]] [[r/_ranks|ranks]] and [[a/_above|above]] the [[f/_family|family]] [[r/_ranks|ranks]].**
 - **A [[g/_group|group]] of 10-15 [[s/_soldiers|soldiers]] [[l/_led|led]] by a [[n/_non|non]]-[[c/_commissioned|commissioned]] [[o/_officer|officer]] and [[f/_forming|forming]] [[p/_part|part]] of a [[p/_platoon|platoon]].**
 - **A [[r/_right|right]] [[i/_inverse|inverse]].**

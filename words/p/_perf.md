@@ -9,7 +9,7 @@
 	- _Example: Practice makes perfect._
 - **[[e/_excellent|Excellent]] and [[d/_delightful|delightful]] in [[a/_all|all]] [[r/_respects|respects]].**
 	- _Example: a perfect day_
-- **Of a [[n/_number|number]]: [[e/_equal|equal]] to the sum of [[i/_its|its]] [[p/_proper|proper]] [[d/_divisors|divisors]].**
+- **Of a [[n/_number|number]]: [[e/_equal|equal]] to the [[s/_sum|sum]] of [[i/_its|its]] [[p/_proper|proper]] [[d/_divisors|divisors]].**
 	- _Example: 6 is perfect because the sum of its proper divisors, 1, 2, and 3, which is 6, is equal to the number itself._
 - **([[g/_grammar|grammar]], of a tense or verb [[f/_form|form]]) [[r/_representing|Representing]] a [[c/_completed|completed]] [[a/_action|action]].**
 - **[[s/_sexually|Sexually]] [[m/_mature|mature]] and [[f/_fully|fully]] [[d/_differentiated|differentiated]].**
@@ -42,7 +42,7 @@
 #noun
 - **The [[a/_act|act]] of [[p/_perforating|perforating]] or the [[s/_state|state]] of [[b/_being|being]] [[p/_perforated|perforated]].**
 - **[[a/_any|Any]] [[o/_opening|opening]] in a [[s/_solid|solid]] [[o/_object|object]].**
-- **An [[a/_abnormal|abnormal]] [[o/_opening|opening]] in an [[o/_organ|organ]], such as a [[r/_rupture|rupture]].**
+- **An [[a/_abnormal|abnormal]] [[o/_opening|opening]] in an [[o/_organ|organ]], [[s/_such|such]] as a [[r/_rupture|rupture]].**
 - **A [[s/_series|series]] of [[h/_holes|holes]] [[p/_punched|punched]] through [[s/_something|something]] in [[o/_order|order]] to [[a/_assist|assist]] in [[s/_separating|separating]] [[p/_parts|parts]].**
 - **That [[p/_portion|portion]] of a surface that [[r/_remains|remains]] [[a/_after|after]] an [[o/_open|open]] [[d/_disk|disk]] is [[r/_removed|removed]] from it.**
 ---

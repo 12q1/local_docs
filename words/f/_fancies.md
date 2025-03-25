@@ -11,7 +11,7 @@
 - **The [[o/_object|object]] of [[i/_inclination|inclination]] or [[l/_liking|liking]].**
 - **[[a/_any|Any]] [[s/_sport|sport]] or [[h/_hobby|hobby]] [[p/_pursued|pursued]] by a [[g/_group|group]].**
 	- _Example: Trainspotting is the fancy of a special lot._
-- **The [[e/_enthusiasts|enthusiasts]] of such a [[p/_pursuit|pursuit]].**
+- **The [[e/_enthusiasts|enthusiasts]] of [[s/_such|such]] a [[p/_pursuit|pursuit]].**
 	- _Example: He fell out of favor with the boxing fancy after the incident._
 - **A [[d/_diamond|diamond]] with a [[d/_distinctive|distinctive]] [[c/_colour|colour]].**
 - **That which [[p/_pleases|pleases]] or [[e/_entertains|entertains]] the taste or [[c/_caprice|caprice]] without [[m/_much|much]] use or value.**

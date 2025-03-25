@@ -8,7 +8,7 @@
 - **The [[d/_displaying|displaying]] on the [[c/_command|command]] [[l/_line|line]] of the [[c/_command|command]] that [[h/_has|has]] [[j/_just|just]] [[b/_been|been]] [[e/_executed|executed]].**
 - **The [[l/_letter|letter]] [[e/_e|E]] in the ICAO [[s/_spelling|spelling]] [[a/_alphabet|alphabet]].**
 - **(whist) A [[s/_signal|signal]], [[p/_played|played]] in the [[s/_same|same]] [[m/_manner|manner]] as a trump [[s/_signal|signal]], [[m/_made|made]] by a [[p/_player|player]] who [[h/_holds|holds]] [[f/_four|four]] or [[m/_more|more]] trumps (or, as [[p/_played|played]] by [[s/_some|some]], [[e/_exactly|exactly]] three trumps) and whose [[p/_partner|partner]] [[h/_has|has]] [[l/_led|led]] trumps or [[s/_signalled|signalled]] for trumps.**
-- **(whist) A [[s/_signal|signal]] [[s/_showing|showing]] the [[n/_number|number]] [[h/_held|held]] of a [[p/_plain|plain]] suit when a [[h/_high|high]] [[c/_card|card]] in that suit is [[l/_led|led]] by [[o/_one|one]]'[[s/_s|s]] [[p/_partner|partner]].**
+- **(whist) A [[s/_signal|signal]] [[s/_showing|showing]] the [[n/_number|number]] [[h/_held|held]] of a [[p/_plain|plain]] [[s/_suit|suit]] when a [[h/_high|high]] [[c/_card|card]] in that [[s/_suit|suit]] is [[l/_led|led]] by [[o/_one|one]]'[[s/_s|s]] [[p/_partner|partner]].**
 ---
 #verb
 - **(of a [[s/_sound|sound]] or [[s/_sound|sound]] waves) To [[r/_reflect|reflect]] [[o/_off|off]] a surface and [[r/_return|return]].**

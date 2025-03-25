@@ -7,7 +7,7 @@
 - **A supporting [[f/_framework|framework]] in a [[s/_sculpture|sculpture]].**
 - **A [[k/_kinematic|kinematic]] [[c/_chain|chain]] (a [[s/_system|system]] of [[b/_bones|bones]] or [[r/_rigid|rigid]] [[b/_bodies|bodies]] [[c/_connected|connected]] by [[j/_joints|joints]]) that is used to [[p/_pose|pose]] and [[d/_deform|deform]] [[m/_models|models]], [[o/_often|often]] [[c/_character|character]] [[m/_models|models]].**
 - **A [[p/_protective|protective]] [[o/_organ|organ]], [[s/_structure|structure]], or [[c/_covering|covering]] of an [[a/_animal|animal]] or [[p/_plant|plant]], for [[d/_defense|defense]] or [[o/_offense|offense]], [[l/_like|like]] [[c/_claws|claws]], teeth, thorns, or the [[s/_shell|shell]] of a turtle.**
-- **[[a/_armor|Armor]], or a suit of [[a/_armor|armor]].**
+- **[[a/_armor|Armor]], or a [[s/_suit|suit]] of [[a/_armor|armor]].**
 - **[[a/_any|Any]] [[a/_apparatus|apparatus]] for [[d/_defence|defence]].**
 - **The [[f/_frame|frame]] of a [[p/_pair|pair]] of [[g/_glasses|glasses]].**
 ---

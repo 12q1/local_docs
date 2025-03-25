@@ -3,7 +3,7 @@
 #noun
 - **Thick [[s/_strings|strings]], [[y/_yarn|yarn]], monofilaments, [[m/_metal|metal]] wires, or [[s/_strands|strands]] of [[o/_other|other]] [[c/_cordage|cordage]] that are twisted together to [[f/_form|form]] a [[s/_stronger|stronger]] [[l/_line|line]].**
 	- _Example: Nylon rope is usually stronger than similar rope made of plant fibers._
-- **An [[i/_individual|individual]] [[l/_length|length]] of such [[m/_material|material]].**
+- **An [[i/_individual|individual]] [[l/_length|length]] of [[s/_such|such]] [[m/_material|material]].**
 	- _Example: The swinging bridge is constructed of 40 logs and 30 ropes._
 - **A [[c/_cohesive|cohesive]] [[s/_strand|strand]] of [[s/_something|something]].**
 	- _Example: The duchess wore a rope of pearls to the soirée._
@@ -14,7 +14,7 @@
 - **A [[d/_data|data]] [[s/_structure|structure]] [[r/_resembling|resembling]] a [[s/_string|string]], using a [[c/_concatenation|concatenation]] tree in which [[e/_each|each]] [[l/_leaf|leaf]] [[r/_represents|represents]] a [[c/_character|character]].**
 - **A unit of [[d/_distance|distance]] [[e/_equivalent|equivalent]] to the [[d/_distance|distance]] [[c/_covered|covered]] in [[s/_six|six]] [[m/_months|months]] by a [[g/_god|god]] [[f/_flying|flying]] at ten [[m/_million|million]] [[m/_miles|miles]] [[p/_per|per]] [[s/_second|second]].**
 - **([[j/_jewelry|jewelry]]) A [[n/_necklace|necklace]] of at [[l/_least|least]] 1 [[m/_meter|meter]] in [[l/_length|length]].**
-- **[[c/_cordage|Cordage]] of at [[l/_least|least]] 1 [[i/_inch|inch]] in [[d/_diameter|diameter]], or a [[l/_length|length]] of such [[c/_cordage|cordage]].**
+- **[[c/_cordage|Cordage]] of at [[l/_least|least]] 1 [[i/_inch|inch]] in [[d/_diameter|diameter]], or a [[l/_length|length]] of [[s/_such|such]] [[c/_cordage|cordage]].**
 - **A unit of [[l/_length|length]] [[e/_equal|equal]] to 20 [[f/_feet|feet]].**
 - **Flunitrazepam, [[a/_also|also]] [[k/_known|known]] as Rohypnol.**
 - **A [[s/_shot|shot]] of [[s/_semen|semen]] that a [[m/_man|man]] [[r/_releases|releases]] [[d/_during|during]] [[e/_ejaculation|ejaculation]].**
@@ -29,7 +29,7 @@
 - **To throw a [[r/_rope|rope]] (or [[s/_something|something]] [[s/_similar|similar]], [[e/_e|e]].[[g/_g|g]]. a [[l/_lasso|lasso]], [[c/_cable|cable]], wire, [[e/_etc|etc]].) [[a/_around|around]] ([[s/_something|something]]).**
 	- _Example: The cowboy roped the calf._
 - **To be [[f/_formed|formed]] [[i/_into|into]] [[r/_rope|rope]]; to [[d/_draw|draw]] [[o/_out|out]] or [[e/_extend|extend]] [[i/_into|into]] a [[f/_filament|filament]] or thread.**
-- **To [[c/_commit|commit]] suicide.**
+- **To [[c/_commit|commit]] [[s/_suicide|suicide]].**
 	- _Example: My life is a mess; I might as well rope._
 ---
 ### Synonyms

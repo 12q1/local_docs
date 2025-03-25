@@ -1,7 +1,7 @@
 # Blue
 ---
 #noun
-- **The [[c/_colour|colour]] of the [[c/_clear|clear]] [[s/_sky|sky]] or the [[d/_deep|deep]] [[s/_sea|sea]], [[b/_between|between]] [[g/_green|green]] and violet in the visible [[s/_spectrum|spectrum]], and [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colours|colours]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting [[r/_red|red]] and [[g/_green|green]] from white [[l/_light|light]] using [[m/_magenta|magenta]] and [[c/_cyan|cyan]] [[f/_filters|filters]]; or [[a/_any|any]] [[c/_colour|colour]] [[r/_resembling|resembling]] this.**
+- **The [[c/_colour|colour]] of the [[c/_clear|clear]] [[s/_sky|sky]] or the [[d/_deep|deep]] [[s/_sea|sea]], [[b/_between|between]] [[g/_green|green]] and violet in the visible [[s/_spectrum|spectrum]], and [[o/_one|one]] of the [[p/_primary|primary]] [[a/_additive|additive]] [[c/_colours|colours]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by [[s/_subtracting|subtracting]] [[r/_red|red]] and [[g/_green|green]] from white [[l/_light|light]] using [[m/_magenta|magenta]] and [[c/_cyan|cyan]] [[f/_filters|filters]]; or [[a/_any|any]] [[c/_colour|colour]] [[r/_resembling|resembling]] this.**
 - **A [[b/_blue|blue]] [[d/_dye|dye]] or [[p/_pigment|pigment]].**
 - **[[a/_any|Any]] of [[s/_several|several]] [[p/_processes|processes]] to [[p/_protect|protect]] [[m/_metal|metal]] [[a/_against|against]] [[r/_rust|rust]].**
 - **[[b/_blue|Blue]] [[c/_clothing|clothing]]**
@@ -15,7 +15,7 @@
 - **[[a/_anything|Anything]] [[b/_blue|blue]], [[e/_especially|especially]] to [[d/_distinguish|distinguish]] it from [[s/_similar|similar]] [[o/_objects|objects]] [[d/_differing|differing]] [[o/_only|only]] in [[c/_color|color]].**
 - **A [[d/_dog|dog]] or [[c/_cat|cat]] with a [[s/_slaty|slaty]] [[g/_gray|gray]] [[c/_coat|coat]].**
 - **[[o/_one|One]] of the [[c/_colour|colour]] [[b/_balls|balls]] used in [[s/_snooker|snooker]], with a value of [[f/_five|five]] [[p/_points|points]].**
-- **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the subfamily Polyommatinae in the [[f/_family|family]] [[l/_lycaenidae|Lycaenidae]], [[m/_most|most]] of which [[h/_have|have]] [[b/_blue|blue]] on their wings.**
+- **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the [[s/_subfamily|subfamily]] Polyommatinae in the [[f/_family|family]] [[l/_lycaenidae|Lycaenidae]], [[m/_most|most]] of which [[h/_have|have]] [[b/_blue|blue]] on their wings.**
 - **A [[b/_bluefish|bluefish]].**
 - **An [[a/_argument|argument]].**
 - **A [[l/_liquid|liquid]] with an [[i/_intense|intense]] [[b/_blue|blue]] [[c/_colour|colour]], [[a/_added|added]] to a [[l/_laundry|laundry]] wash to [[p/_prevent|prevent]] [[y/_yellowing|yellowing]] of white [[c/_clothes|clothes]].**

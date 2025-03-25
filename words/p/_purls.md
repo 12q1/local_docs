@@ -20,7 +20,7 @@
 ---
 #noun
 - **A [[c/_circle|circle]] [[m/_made|made]] by the [[m/_motion|motion]] of a [[f/_fluid|fluid]]; an [[e/_eddy|eddy]]; a [[r/_ripple|ripple]].**
-- **A [[g/_gentle|gentle]] [[m/_murmuring|murmuring]] [[s/_sound|sound]], such as that [[p/_produced|produced]] by the [[r/_running|running]] of a [[l/_liquid|liquid]] [[a/_among|among]] [[o/_obstructions|obstructions]].**
+- **A [[g/_gentle|gentle]] [[m/_murmuring|murmuring]] [[s/_sound|sound]], [[s/_such|such]] as that [[p/_produced|produced]] by the [[r/_running|running]] of a [[l/_liquid|liquid]] [[a/_among|among]] [[o/_obstructions|obstructions]].**
 	- _Example: the purl of a brook_
 ---
 #verb

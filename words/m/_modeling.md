@@ -7,7 +7,7 @@
 	- _Example: They modelled the data with a computer to analyze the experiment’s results._
 - **To [[m/_make|make]] a [[m/_miniature|miniature]] [[m/_model|model]] of**
 	- _Example: He takes great pride in his skill at modeling airplanes._
-- **To [[c/_create|create]] from a substance such as [[c/_clay|clay]]**
+- **To [[c/_create|create]] from a [[s/_substance|substance]] [[s/_such|such]] as [[c/_clay|clay]]**
 	- _Example: The sculptor modelled the clay into the form of a dolphin._
 - **To [[m/_make|make]] a [[m/_model|model]] or [[m/_models|models]]**
 - **To be a [[m/_model|model]] of [[a/_any|any]] [[k/_kind|kind]]**

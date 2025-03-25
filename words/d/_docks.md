@@ -23,7 +23,7 @@
 - **The [[p/_place|place]] of [[a/_arrival|arrival]] and [[d/_departure|departure]] of a train in a [[r/_railway|railway]] [[s/_station|station]].**
 - **A [[s/_section|section]] of a [[h/_hotel|hotel]] or [[r/_restaurant|restaurant]].**
 	- _Example: coffee dock_
-- **A [[d/_device|device]] [[d/_designed|designed]] as a [[b/_base|base]] for [[h/_holding|holding]] a [[c/_connected|connected]] [[p/_portable|portable]] [[a/_appliance|appliance]] such as a [[l/_laptop|laptop]] [[c/_computer|computer]] (in this [[c/_case|case]], [[r/_referred|referred]] to as a [[d/_docking|docking]] [[s/_station|station]]), or a [[m/_mobile|mobile]] telephone, for [[p/_providing|providing]] the [[n/_necessary|necessary]] [[e/_electrical|electrical]] [[c/_charge|charge]] for [[i/_its|its]] [[a/_autonomy|autonomy]], or as a [[h/_hardware|hardware]] [[e/_extension|extension]] for [[a/_additional|additional]] [[c/_capabilities|capabilities]].**
+- **A [[d/_device|device]] [[d/_designed|designed]] as a [[b/_base|base]] for [[h/_holding|holding]] a [[c/_connected|connected]] [[p/_portable|portable]] [[a/_appliance|appliance]] [[s/_such|such]] as a [[l/_laptop|laptop]] [[c/_computer|computer]] (in this [[c/_case|case]], [[r/_referred|referred]] to as a [[d/_docking|docking]] [[s/_station|station]]), or a [[m/_mobile|mobile]] telephone, for [[p/_providing|providing]] the [[n/_necessary|necessary]] [[e/_electrical|electrical]] [[c/_charge|charge]] for [[i/_its|its]] [[a/_autonomy|autonomy]], or as a [[h/_hardware|hardware]] [[e/_extension|extension]] for [[a/_additional|additional]] [[c/_capabilities|capabilities]].**
 - **A toolbar that [[p/_provides|provides]] the user with a way of [[l/_launching|launching]] [[a/_applications|applications]], and switching [[b/_between|between]] [[r/_running|running]] [[a/_applications|applications]].**
 - **An [[a/_act|act]] of [[d/_docking|docking]]; [[j/_joining|joining]] two things together.**
 ---
@@ -32,7 +32,7 @@
 #verb
 - **To [[l/_land|land]] at a [[h/_harbour|harbour]].**
 - **To [[j/_join|join]] two [[m/_moving|moving]] [[i/_items|items]].**
-- **To [[d/_drag|drag]] a user [[i/_interface|interface]] [[e/_element|element]] (such as a toolbar) to a [[p/_position|position]] on [[s/_screen|screen]] where it [[s/_snaps|snaps]] [[i/_into|into]] [[p/_place|place]].**
+- **To [[d/_drag|drag]] a user [[i/_interface|interface]] [[e/_element|element]] ([[s/_such|such]] as a toolbar) to a [[p/_position|position]] on [[s/_screen|screen]] where it [[s/_snaps|snaps]] [[i/_into|into]] [[p/_place|place]].**
 - **To [[p/_place|place]] (an [[e/_electronic|electronic]] [[d/_device|device]]) in [[i/_its|its]] [[d/_dock|dock]].**
 	- _Example: I docked the laptop and allowed it to recharge for an hour._
 ---

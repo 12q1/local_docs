@@ -7,7 +7,7 @@
 ### Synonyms
 - [[f/_food|food]]
 #adjective
-- **That [[c/_can|can]] be [[e/_eaten|eaten]] without [[h/_harm|harm]]; [[i/_innocuous|innocuous]] to [[h/_humans|humans]]; suitable for [[c/_consumption|consumption]].**
+- **That [[c/_can|can]] be [[e/_eaten|eaten]] without [[h/_harm|harm]]; [[i/_innocuous|innocuous]] to [[h/_humans|humans]]; [[s/_suitable|suitable]] for [[c/_consumption|consumption]].**
 	- _Example: edible fruit_
 - **That [[c/_can|can]] be [[e/_eaten|eaten]] without [[d/_disgust|disgust]].**
 	- _Example: Although stale, the bread was edible._

@@ -1,7 +1,7 @@
 # Reviews
 ---
 #noun
-- **A [[s/_second|second]] or subsequent [[r/_reading|reading]] of a text or [[a/_artifact|artifact]] in an [[a/_attempt|attempt]] to [[g/_gain|gain]] [[n/_new|new]] [[i/_insights|insights]].**
+- **A [[s/_second|second]] or [[s/_subsequent|subsequent]] [[r/_reading|reading]] of a text or [[a/_artifact|artifact]] in an [[a/_attempt|attempt]] to [[g/_gain|gain]] [[n/_new|new]] [[i/_insights|insights]].**
 	- _Example: I need to make a review of the book before I can understand it._
 - **An [[a/_account|account]] [[i/_intended|intended]] as a [[c/_critical|critical]] [[e/_evaluation|evaluation]] of a text or a [[p/_piece|piece]] of work.**
 	- _Example: The newspaper review was full of praise for the play._
@@ -13,7 +13,7 @@
 	- _Example: The magazine contained a review of Paris restaurants._
 - **A [[p/_periodical|periodical]] which [[m/_makes|makes]] a survey of the [[a/_arts|arts]] or [[s/_some|some]] [[o/_other|other]] [[f/_field|field]].**
 	- _Example: The Times Literary Review is published in London._
-- **A [[m/_military|military]] [[i/_inspection|inspection]] or [[d/_display|display]] for the [[b/_benefit|benefit]] of superiors or VIPs.**
+- **A [[m/_military|military]] [[i/_inspection|inspection]] or [[d/_display|display]] for the [[b/_benefit|benefit]] of [[s/_superiors|superiors]] or VIPs.**
 	- _Example: The troops assembled for a review by the Queen._
 - **A [[f/_forensic|forensic]] [[i/_inspection|inspection]] to [[a/_assess|assess]] [[c/_compliance|compliance]] with [[r/_regulations|regulations]] or [[s/_some|some]] [[c/_code|code]].**
 	- _Example: The regulators demanded a review against NYSE practices._

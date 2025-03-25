@@ -1,7 +1,7 @@
 # Immaterial
 ---
 #adjective
-- **[[h/_having|Having]] [[n/_no|no]] [[m/_matter|matter]] or substance.**
+- **[[h/_having|Having]] [[n/_no|no]] [[m/_matter|matter]] or [[s/_substance|substance]].**
 	- _Example: Because ghosts are immaterial, they can pass through walls._
 - **[[s/_so|So]] [[i/_insubstantial|insubstantial]] as to be [[i/_irrelevant|irrelevant]].**
 	- _Example: Objection, Your Honour! The defendant's criminal record is immaterial to this case._

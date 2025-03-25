@@ -7,7 +7,7 @@
 #verb
 - **To [[f/_fatigue|fatigue]] or to tire with [[r/_repeated|repeated]] and [[e/_exhausting|exhausting]] [[e/_efforts|efforts]].**
 - **To [[a/_annoy|annoy]] [[e/_endlessly|endlessly]] or [[s/_systematically|systematically]]; to [[m/_molest|molest]].**
-- **To [[p/_put|put]] [[e/_excessive|excessive]] [[b/_burdens|burdens]] upon; to subject to [[a/_anxieties|anxieties]].**
+- **To [[p/_put|put]] [[e/_excessive|excessive]] [[b/_burdens|burdens]] upon; to [[s/_subject|subject]] to [[a/_anxieties|anxieties]].**
 	- _Example: To harass good people is no different than speaking ill of them._
 ---
 ### Synonyms

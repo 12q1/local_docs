@@ -13,7 +13,7 @@
 - **To transfer the [[o/_ownership|ownership]] of [[s/_something|something]].**
 ---
 #adjective
-- **Not [[b/_belonging|belonging]] to the [[s/_same|same]] [[c/_country|country]], [[l/_land|land]], or [[g/_government|government]], or to the [[c/_citizens|citizens]] or subjects thereof; [[f/_foreign|foreign]].**
+- **Not [[b/_belonging|belonging]] to the [[s/_same|same]] [[c/_country|country]], [[l/_land|land]], or [[g/_government|government]], or to the [[c/_citizens|citizens]] or [[s/_subjects|subjects]] thereof; [[f/_foreign|foreign]].**
 	- _Example: alien subjects, enemies, property, or shores_
 - **Very unfamiliar, [[s/_strange|strange]], or [[r/_removed|removed]].**
 	- _Example: principles alien to our religion_

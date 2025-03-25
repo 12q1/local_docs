@@ -8,7 +8,7 @@
 - **A [[s/_slender|slender]] [[p/_piece|piece]] of [[a/_anything|anything]].**
 - **[[o/_one|One]] of the thick [[l/_laths|laths]] or [[p/_poles|poles]] [[d/_driven|driven]] [[h/_horizontally|horizontally]] [[a/_ahead|ahead]] of the [[m/_main|main]] timbering in [[a/_advancing|advancing]] a [[l/_level|level]] in [[l/_loose|loose]] [[g/_ground|ground]].**
 - **([[s/_sound|sound]] [[r/_recording|recording]]) The [[s/_situation|situation]] where [[s/_sound|sound]] is [[p/_picked|picked]] up by a [[m/_microphone|microphone]] from a [[s/_source|source]] [[o/_other|other]] than that which is [[i/_intended|intended]].**
-- **A [[s/_small|small]] sum of [[m/_money|money]].**
+- **A [[s/_small|small]] [[s/_sum|sum]] of [[m/_money|money]].**
 - **([[a/_australian|Australian]] [[p/_politics|politics]]) A [[d/_declaration|declaration]] that the [[l/_leadership|leadership]] of a [[p/_parliamentary|parliamentary]] [[p/_party|party]] is vacant, and [[o/_open|open]] for [[r/_re|re]]-[[e/_election|election]]. [[s/_short|Short]] [[f/_form|form]] of [[l/_leadership|leadership]] [[s/_spill|spill]].**
 ---
 #verb

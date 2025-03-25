@@ -4,7 +4,7 @@
 - **An [[a/_adult|adult]] [[m/_male|male]] of [[d/_domesticated|domesticated]] [[c/_cattle|cattle]] or [[o/_oxen|oxen]].**
 - **A [[m/_male|male]] of [[d/_domesticated|domesticated]] [[c/_cattle|cattle]] or [[o/_oxen|oxen]] of [[a/_any|any]] [[a/_age|age]].**
 - **[[a/_any|Any]] [[a/_adult|adult]] [[m/_male|male]] [[b/_bovine|bovine]].**
-- **An [[a/_adult|adult]] [[m/_male|male]] of [[c/_certain|certain]] [[l/_large|large]] [[m/_mammals|mammals]], such as whales, [[e/_elephants|elephants]], [[c/_camels|camels]] and [[s/_seals|seals]].**
+- **An [[a/_adult|adult]] [[m/_male|male]] of [[c/_certain|certain]] [[l/_large|large]] [[m/_mammals|mammals]], [[s/_such|such]] as whales, [[e/_elephants|elephants]], [[c/_camels|camels]] and [[s/_seals|seals]].**
 - **A [[l/_large|large]], [[s/_strong|strong]] [[m/_man|man]].**
 - **An [[i/_investor|investor]] who [[b/_buys|buys]] ([[c/_commodities|commodities]] or [[s/_securities|securities]]) in [[a/_anticipation|anticipation]] of a [[r/_rise|rise]] in [[p/_prices|prices]].**
 - **A [[p/_policeman|policeman]].**

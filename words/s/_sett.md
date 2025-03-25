@@ -70,7 +70,7 @@
 - **To value; to [[r/_rate|rate]]; used with at.**
 - **To [[e/_establish|establish]] as a [[r/_rule|rule]]; to [[f/_furnish|furnish]]; to [[p/_prescribe|prescribe]]; to [[a/_assign|assign]].**
 	- _Example: to set a good example_
-- **To suit; to [[b/_become|become]].**
+- **To [[s/_suit|suit]]; to [[b/_become|become]].**
 	- _Example: It sets him ill._
 ---
 ### Synonyms
@@ -78,7 +78,7 @@
 ### Antonyms
 - [[e/_extinguish|extinguish]], [[q/_quench|quench]]
 #verb
-- **To [[d/_divide|divide]] a [[c/_class|class]] [[g/_group|group]] in a subject [[a/_according|according]] to [[a/_ability|ability]]**
+- **To [[d/_divide|divide]] a [[c/_class|class]] [[g/_group|group]] in a [[s/_subject|subject]] [[a/_according|according]] to [[a/_ability|ability]]**
 ---
 #noun
 - **The [[s/_system|system]] of tunnels that is the [[h/_home|home]] of a [[b/_badger|badger]].**

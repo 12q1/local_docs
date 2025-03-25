@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[s/_small|small]] tailless [[a/_amphibian|amphibian]] of the [[o/_order|order]] [[a/_anura|Anura]] that typically [[h/_hops|hops]].**
-- **The [[p/_part|part]] of a violin [[b/_bow|bow]] (or that of [[o/_other|other]] [[s/_similar|similar]] [[s/_string|string]] [[i/_instruments|instruments]] such as the viola, [[c/_cello|cello]] and [[c/_contrabass|contrabass]]) [[l/_located|located]] at the [[e/_end|end]] [[h/_held|held]] by the [[p/_player|player]], to which the [[h/_horsehair|horsehair]] is [[a/_attached|attached]].**
+- **The [[p/_part|part]] of a violin [[b/_bow|bow]] (or that of [[o/_other|other]] [[s/_similar|similar]] [[s/_string|string]] [[i/_instruments|instruments]] [[s/_such|such]] as the viola, [[c/_cello|cello]] and [[c/_contrabass|contrabass]]) [[l/_located|located]] at the [[e/_end|end]] [[h/_held|held]] by the [[p/_player|player]], to which the [[h/_horsehair|horsehair]] is [[a/_attached|attached]].**
 - **[[r/_road|Road]]. [[s/_shorter|Shorter]], [[m/_more|more]] [[c/_common|common]] [[f/_form|form]] of [[f/_frog|frog]] and toad.**
 - **The [[d/_depression|depression]] in the upper [[f/_face|face]] of a [[p/_pressed|pressed]] or [[h/_handmade|handmade]] [[c/_clay|clay]] [[b/_brick|brick]].**
 - **An [[o/_organ|organ]] on the [[b/_bottom|bottom]] of a [[h/_horse|horse]]’[[s/_s|s]] [[h/_hoof|hoof]] that [[a/_assists|assists]] in the [[c/_circulation|circulation]] of [[b/_blood|blood]].**

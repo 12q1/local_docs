@@ -3,7 +3,7 @@
 #noun
 - **The [[l/_layout|layout]] of a [[p/_publication|publication]] or [[d/_document|document]].**
 - **([[h/_hence|hence]]) The [[f/_form|form]] of [[p/_presentation|presentation]] of [[s/_something|something]].**
-- **The type of [[p/_programming|programming]] that a [[r/_radio|radio]] [[s/_station|station]] [[b/_broadcasts|broadcasts]]; such as a [[c/_certain|certain]] [[g/_genre|genre]] of [[m/_music|music]], [[n/_news|news]], [[s/_sports|sports]], talk, [[e/_etc|etc]].**
+- **The type of [[p/_programming|programming]] that a [[r/_radio|radio]] [[s/_station|station]] [[b/_broadcasts|broadcasts]]; [[s/_such|such]] as a [[c/_certain|certain]] [[g/_genre|genre]] of [[m/_music|music]], [[n/_news|news]], [[s/_sports|sports]], talk, [[e/_etc|etc]].**
 	- _Example: The radio station changed the format of its evening program._
 - **A [[f/_file|file]] type.**
 ---

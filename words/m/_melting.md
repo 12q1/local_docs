@@ -15,7 +15,7 @@
 ### Synonyms
 - [[f/_found|found]], [[t/_thaw|thaw]]
 #noun
-- **The [[p/_process|process]] of [[c/_changing|changing]] the [[s/_state|state]] of a substance from [[s/_solid|solid]] to [[l/_liquid|liquid]] by [[h/_heating|heating]] it [[p/_past|past]] [[i/_its|its]] [[m/_melting|melting]] [[p/_point|point]].**
+- **The [[p/_process|process]] of [[c/_changing|changing]] the [[s/_state|state]] of a [[s/_substance|substance]] from [[s/_solid|solid]] to [[l/_liquid|liquid]] by [[h/_heating|heating]] it [[p/_past|past]] [[i/_its|its]] [[m/_melting|melting]] [[p/_point|point]].**
 - **The [[a/_act|act]] of [[s/_softening|softening]] or [[m/_mitigating|mitigating]].**
 ---
 #adjective

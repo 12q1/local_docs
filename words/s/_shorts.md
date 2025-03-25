@@ -11,7 +11,7 @@
 	- _Example: The market decline was terrible, but the shorts were buying champagne._
 - **A [[s/_short|short]] [[s/_sale|sale]].**
 	- _Example: He closed out his short at a modest loss after three months._
-- **A summary [[a/_account|account]].**
+- **A [[s/_summary|summary]] [[a/_account|account]].**
 - **A [[s/_short|short]] [[s/_sound|sound]], [[s/_syllable|syllable]], or vowel.**
 - **An [[i/_integer|integer]] variable [[h/_having|having]] a [[s/_smaller|smaller]] [[r/_range|range]] than [[n/_normal|normal]] [[i/_integers|integers]]; usually two [[b/_bytes|bytes]] [[l/_long|long]].**
 - **An [[a/_automobile|automobile]]; [[e/_especially|especially]] in [[c/_crack|crack]] [[s/_shorts|shorts]], to [[b/_break|break]] [[i/_into|into]] [[a/_automobiles|automobiles]].**

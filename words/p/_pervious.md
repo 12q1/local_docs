@@ -1,7 +1,7 @@
 # Pervious
 ---
 #adjective
-- **[[a/_admitting|Admitting]] [[p/_passage|passage]]; [[c/_capable|capable]] of [[b/_being|being]] [[p/_penetrated|penetrated]] by [[a/_another|another]] [[b/_body|body]] or substance; [[p/_permeable|permeable]].**
+- **[[a/_admitting|Admitting]] [[p/_passage|passage]]; [[c/_capable|capable]] of [[b/_being|being]] [[p/_penetrated|penetrated]] by [[a/_another|another]] [[b/_body|body]] or [[s/_substance|substance]]; [[p/_permeable|permeable]].**
 	- _Example: a pervious soil_
 - **[[a/_accepting|Accepting]] of [[n/_new|new]] [[i/_ideas|ideas]].**
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[p/_penetrated|penetrated]], or [[s/_seen|seen]] through, by [[p/_physical|physical]] or [[m/_mental|mental]] vision.**

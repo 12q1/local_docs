@@ -1,7 +1,7 @@
 # Amnesics
 ---
 #noun
-- **A [[p/_person|person]] suffering from [[a/_amnesia|amnesia]]**
+- **A [[p/_person|person]] [[s/_suffering|suffering]] from [[a/_amnesia|amnesia]]**
 ---
 ### Synonyms
 - [[a/_amnesiac|amnesiac]]

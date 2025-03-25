@@ -1,7 +1,7 @@
 # Crest
 ---
 #noun
-- **The summit of a [[h/_hill|hill]] or [[m/_mountain|mountain]] [[r/_ridge|ridge]].**
+- **The [[s/_summit|summit]] of a [[h/_hill|hill]] or [[m/_mountain|mountain]] [[r/_ridge|ridge]].**
 - **A tuft, or [[o/_other|other]] [[n/_natural|natural]] [[o/_ornament|ornament]], [[g/_growing|growing]] on an [[a/_animal|animal]]'[[s/_s|s]] [[h/_head|head]], for [[e/_example|example]] the [[c/_comb|comb]] of a [[c/_cockerel|cockerel]], the swelling on the [[h/_head|head]] of a [[s/_snake|snake]], the [[l/_lengthened|lengthened]] [[f/_feathers|feathers]] of the [[c/_crown|crown]] or [[n/_nape|nape]] of [[b/_bird|bird]], [[e/_etc|etc]].**
 - **The [[p/_plume|plume]] of [[f/_feathers|feathers]], or [[o/_other|other]] [[d/_decoration|decoration]], worn on or [[d/_displayed|displayed]] on a [[h/_helmet|helmet]]; the [[d/_distinctive|distinctive]] [[o/_ornament|ornament]] of a [[h/_helmet|helmet]].**
 - **A [[b/_bearing|bearing]] worn, not upon the [[s/_shield|shield]], but usually on a [[h/_helmet|helmet]] [[a/_above|above]] it, [[s/_sometimes|sometimes]] (as for [[c/_clerics|clerics]]) [[s/_separately|separately]] [[a/_above|above]] the [[s/_shield|shield]] or [[s/_separately|separately]] as a [[m/_mark|mark]] for [[p/_plate|plate]], in [[l/_letterheads|letterheads]], and the [[l/_like|like]].**

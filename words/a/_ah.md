@@ -1,7 +1,7 @@
 # Ah
 ---
 #pronoun
-- **The [[s/_speaker|speaker]] or writer, [[r/_referred|referred]] to as the [[g/_grammatical|grammatical]] subject, of a [[s/_sentence|sentence]].**
+- **The [[s/_speaker|speaker]] or writer, [[r/_referred|referred]] to as the [[g/_grammatical|grammatical]] [[s/_subject|subject]], of a [[s/_sentence|sentence]].**
 - **The [[s/_speaker|speaker]] or writer, [[r/_referred|referred]] to as the [[g/_grammatical|grammatical]] [[o/_object|object]], of a [[s/_sentence|sentence]].**
 	- _Example: Mom drove my sister and I to school._
 ---

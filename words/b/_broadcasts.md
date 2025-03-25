@@ -4,7 +4,7 @@
 - **A transmission of a [[r/_radio|radio]] or television [[p/_programme|programme]] [[i/_intended|intended]] to be [[r/_received|received]] by [[a/_anyone|anyone]] with a [[r/_receiver|receiver]].**
 - **A [[p/_programme|programme]] ([[b/_bulletin|bulletin]], [[d/_documentary|documentary]], [[s/_show|show]], [[e/_etc|etc]].) [[s/_so|so]] transmitted.**
 	- _Example: The DJ was feeling nervous before his first national broadcast._
-- **The [[a/_act|act]] of [[s/_scattering|scattering]] [[s/_seed|seed]]; a [[c/_crop|crop]] [[g/_grown|grown]] from such [[s/_seed|seed]].**
+- **The [[a/_act|act]] of [[s/_scattering|scattering]] [[s/_seed|seed]]; a [[c/_crop|crop]] [[g/_grown|grown]] from [[s/_such|such]] [[s/_seed|seed]].**
 ---
 ### Antonyms
 - [[n/_narrowcast|narrowcast]]

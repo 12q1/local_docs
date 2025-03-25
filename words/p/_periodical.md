@@ -9,7 +9,7 @@
 #adjective
 - **[[p/_periodic|Periodic]].**
 - **[[p/_published|Published]] at [[r/_regular|regular]] [[i/_intervals|intervals]] of [[m/_more|more]] than [[o/_one|one]] [[d/_day|day]], [[e/_especially|especially]] weekly, [[m/_monthly|monthly]], or [[q/_quarterly|quarterly]].**
-- **Of, or [[r/_relating|relating]] to such a [[p/_publication|publication]].**
+- **Of, or [[r/_relating|relating]] to [[s/_such|such]] a [[p/_publication|publication]].**
 ---
 ### Synonyms
 - [[c/_cyclic|cyclic]]

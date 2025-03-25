@@ -11,7 +11,7 @@
 	- _Example: This is a critical moment._
 - **[[e/_extremely|Extremely]] [[i/_important|important]].**
 	- _Example: It's critical that you deliver this on time._
-- **[[r/_relating|Relating]] to [[c/_criticism|criticism]] or [[c/_careful|careful]] [[a/_analysis|analysis]], such as [[l/_literary|literary]] or [[f/_film|film]] [[c/_criticism|criticism]].**
+- **[[r/_relating|Relating]] to [[c/_criticism|criticism]] or [[c/_careful|careful]] [[a/_analysis|analysis]], [[s/_such|such]] as [[l/_literary|literary]] or [[f/_film|film]] [[c/_criticism|criticism]].**
 	- _Example: The movie was a critical success, but bombed at the box-office._
 - **Of a [[p/_patient|patient]] [[c/_condition|condition]] [[i/_involving|involving]] unstable vital [[s/_signs|signs]] and a [[p/_prognosis|prognosis]] that [[p/_predicts|predicts]] the [[c/_condition|condition]] [[c/_could|could]] worsen; or, a [[p/_patient|patient]] [[c/_condition|condition]] that [[r/_requires|requires]] urgent treatment in an [[i/_intensive|intensive]] [[c/_care|care]] or [[c/_critical|critical]] [[c/_care|care]] [[m/_medical|medical]] [[f/_facility|facility]].**
 	- _Example: The patient's condition is critical._
@@ -19,7 +19,7 @@
 	- _Example: The political situation was so critical that the government declared the state of siege._
 - **Of the [[p/_point|point]] (in temperature, [[r/_reagent|reagent]] [[c/_concentration|concentration]] [[e/_etc|etc]].) where a [[n/_nuclear|nuclear]] or [[c/_chemical|chemical]] [[r/_reaction|reaction]] [[b/_becomes|becomes]] [[s/_self|self]]-sustaining.**
 	- _Example: The reaction was about to become critical._
-- **([[p/_physics|physics]]) Of a temperature that is [[e/_equal|equal]] to the temperature of the [[c/_critical|critical]] [[p/_point|point]] of a substance, [[i/_i|i]].[[e/_e|e]]. the temperature [[a/_above|above]] which the substance [[c/_cannot|cannot]] be [[l/_liquefied|liquefied]].**
+- **([[p/_physics|physics]]) Of a temperature that is [[e/_equal|equal]] to the temperature of the [[c/_critical|critical]] [[p/_point|point]] of a [[s/_substance|substance]], [[i/_i|i]].[[e/_e|e]]. the temperature [[a/_above|above]] which the [[s/_substance|substance]] [[c/_cannot|cannot]] be [[l/_liquefied|liquefied]].**
 ---
 ### Synonyms
 - [[c/_captious|captious]], [[c/_censorious|censorious]], [[e/_exacting|exacting]], [[f/_fastidious|fastidious]]

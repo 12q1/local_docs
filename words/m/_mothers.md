@@ -21,7 +21,7 @@
 - **[[a/_any|Any]] [[e/_elderly|elderly]] woman, [[e/_especially|especially]] within a [[p/_particular|particular]] [[c/_community|community]].**
 - **[[a/_any|Any]] [[p/_person|person]] or [[e/_entity|entity]] which [[p/_performs|performs]] [[m/_mothering|mothering]].**
 - **The [[p/_principal|principal]] [[p/_piece|piece]] of an [[a/_astrolabe|astrolabe]], [[i/_into|into]] which the [[o/_others|others]] are [[f/_fixed|fixed]].**
-- **The [[f/_female|female]] superior or [[h/_head|head]] of a [[r/_religious|religious]] [[h/_house|house]]; an [[a/_abbess|abbess]], [[e/_etc|etc]].**
+- **The [[f/_female|female]] [[s/_superior|superior]] or [[h/_head|head]] of a [[r/_religious|religious]] [[h/_house|house]]; an [[a/_abbess|abbess]], [[e/_etc|etc]].**
 - **[[h/_hysterical|Hysterical]] [[p/_passion|passion]]; [[h/_hysteria|hysteria]]; the uterus.**
 ---
 ### Synonyms
@@ -33,7 +33,7 @@
 - **To treat as a [[m/_mother|mother]] would be [[e/_expected|expected]] to treat [[h/_her|her]] [[c/_child|child]]; to [[n/_nurture|nurture]].**
 ---
 #noun
-- **A [[s/_stringy|stringy]], [[m/_mucilaginous|mucilaginous]] or [[f/_film|film]]- or [[m/_membrane|membrane]]-[[l/_like|like]] substance ([[c/_consisting|consisting]] of acetobacters) which [[d/_develops|develops]] in [[f/_fermenting|fermenting]] [[a/_alcoholic|alcoholic]] [[l/_liquids|liquids]] (such as wine, or [[c/_cider|cider]]), and turns the [[a/_alcohol|alcohol]] [[i/_into|into]] [[a/_acetic|acetic]] [[a/_acid|acid]] with the [[h/_help|help]] of [[o/_oxygen|oxygen]] from the [[a/_air|air]].**
+- **A [[s/_stringy|stringy]], [[m/_mucilaginous|mucilaginous]] or [[f/_film|film]]- or [[m/_membrane|membrane]]-[[l/_like|like]] [[s/_substance|substance]] ([[c/_consisting|consisting]] of acetobacters) which [[d/_develops|develops]] in [[f/_fermenting|fermenting]] [[a/_alcoholic|alcoholic]] [[l/_liquids|liquids]] ([[s/_such|such]] as wine, or [[c/_cider|cider]]), and turns the [[a/_alcohol|alcohol]] [[i/_into|into]] [[a/_acetic|acetic]] [[a/_acid|acid]] with the [[h/_help|help]] of [[o/_oxygen|oxygen]] from the [[a/_air|air]].**
 	- _Example: pieces of mother, adding mother to vinegar_
 ---
 #verb

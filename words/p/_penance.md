@@ -5,7 +5,7 @@
 - **A [[s/_sacrament|sacrament]] in [[s/_some|some]] [[c/_christian|Christian]] [[c/_churches|churches]].**
 - **[[a/_any|Any]] [[i/_instrument|instrument]] of [[s/_self|self]]-[[p/_punishment|punishment]].**
 - **[[r/_repentance|Repentance]]**
-- **[[p/_pain|Pain]]; [[s/_sorrow|sorrow]]; suffering**
+- **[[p/_pain|Pain]]; [[s/_sorrow|sorrow]]; [[s/_suffering|suffering]]**
 ---
 ### Synonyms
 - [[a/_atonement|atonement]], [[p/_penitence|penitence]]

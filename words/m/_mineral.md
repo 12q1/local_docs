@@ -7,7 +7,7 @@
 - **[[m/_mineral|Mineral]] water.**
 - **A [[s/_soft|soft]] [[d/_drink|drink]], [[p/_particularly|particularly]] a [[s/_single|single]] [[s/_serve|serve]] [[b/_bottle|bottle]] or [[c/_can|can]].**
 - **A [[m/_mine|mine]] or [[m/_mineral|mineral]] [[d/_deposit|deposit]].**
-- **A [[p/_poisonous|poisonous]] or [[d/_dangerous|dangerous]] substance.**
+- **A [[p/_poisonous|poisonous]] or [[d/_dangerous|dangerous]] [[s/_substance|substance]].**
 ---
 #adjective
 - **Of, [[r/_related|related]] to, or [[c/_containing|containing]] [[m/_minerals|minerals]]**

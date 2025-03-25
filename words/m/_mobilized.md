@@ -6,6 +6,6 @@
 - **To [[b/_become|become]] [[m/_made|made]] [[r/_ready|ready]] for war.**
 ---
 #adjective
-- **Subject to [[m/_mobilization|mobilization]]**
+- **[[s/_subject|Subject]] to [[m/_mobilization|mobilization]]**
 ---
 ---

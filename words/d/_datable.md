@@ -2,7 +2,7 @@
 ---
 #adjective
 - **That [[m/_may|may]] be [[a/_ascribed|ascribed]] a [[d/_date|date]] or [[a/_age|age]].**
-- **Suitable for [[d/_dating|dating]] ([[r/_romantic|romantic]] [[o/_outings|outings]]).**
+- **[[s/_suitable|Suitable]] for [[d/_dating|dating]] ([[r/_romantic|romantic]] [[o/_outings|outings]]).**
 ---
 ### Synonyms
 - [[a/_attractive|attractive]]

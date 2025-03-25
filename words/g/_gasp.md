@@ -1,13 +1,13 @@
 # Gasp
 ---
 #noun
-- **A [[s/_short|short]], sudden [[i/_intake|intake]] of [[b/_breath|breath]].**
+- **A [[s/_short|short]], [[s/_sudden|sudden]] [[i/_intake|intake]] of [[b/_breath|breath]].**
 	- _Example: The audience gave a gasp of astonishment_
 - **: A [[d/_draw|draw]] or [[d/_drag|drag]] on a [[c/_cigarette|cigarette]] (or [[g/_gasper|gasper]]).**
 	- _Example: I'm popping out for a gasp._
 ---
 #verb
-- **To [[d/_draw|draw]] in the [[b/_breath|breath]] suddenly, as [[i/_if|if]] from a [[s/_shock|shock]].**
+- **To [[d/_draw|draw]] in the [[b/_breath|breath]] [[s/_suddenly|suddenly]], as [[i/_if|if]] from a [[s/_shock|shock]].**
 	- _Example: The audience gasped as the magician disappeared._
 - **To [[b/_breathe|breathe]] [[l/_laboriously|laboriously]] or [[c/_convulsively|convulsively]].**
 	- _Example: We were all gasping when we reached the summit._

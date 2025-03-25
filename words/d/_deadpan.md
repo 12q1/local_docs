@@ -10,7 +10,7 @@
 ---
 #adjective
 - **[[d/_deliberately|Deliberately]] [[i/_impassive|impassive]] or [[e/_expressionless|expressionless]].**
-- **[[h/_having|Having]] such a [[f/_face|face]] or [[l/_look|look]].**
+- **[[h/_having|Having]] [[s/_such|such]] a [[f/_face|face]] or [[l/_look|look]].**
 	- _Example: The comedian remained deadpan._
 - **[[i/_impassive|Impassive]].**
 ---

@@ -3,7 +3,7 @@
 #noun
 - **[[m/_moisture|Moisture]]; [[h/_humidity|humidity]]; [[d/_dampness|dampness]].**
 - **[[f/_fog|Fog]]; [[f/_fogginess|fogginess]]; vapor.**
-- **[[d/_dejection|Dejection]] or [[d/_depression|depression]]; [[s/_something|something]] that [[s/_spoils|spoils]] a [[p/_positive|positive]] [[e/_emotion|emotion]] (such as [[e/_enjoyment|enjoyment]], [[s/_satisfaction|satisfaction]], [[e/_expectation|expectation]] or [[c/_courage|courage]]) or a [[d/_desired|desired]] [[a/_activity|activity]].**
+- **[[d/_dejection|Dejection]] or [[d/_depression|depression]]; [[s/_something|something]] that [[s/_spoils|spoils]] a [[p/_positive|positive]] [[e/_emotion|emotion]] ([[s/_such|such]] as [[e/_enjoyment|enjoyment]], [[s/_satisfaction|satisfaction]], [[e/_expectation|expectation]] or [[c/_courage|courage]]) or a [[d/_desired|desired]] [[a/_activity|activity]].**
 - **A [[g/_gaseous|gaseous]] [[p/_product|product]], [[f/_formed|formed]] in [[c/_coal|coal]] [[m/_mines|mines]], [[o/_old|old]] wells, [[p/_pits|pits]], [[e/_etc|etc]].**
 ---
 #verb

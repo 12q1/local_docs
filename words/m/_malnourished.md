@@ -4,7 +4,7 @@
 - **To [[f/_feed|feed]] [[i/_insufficiently|insufficiently]], to [[c/_cause|cause]] [[m/_malnutrition|malnutrition]].**
 ---
 #adjective
-- **Suffering from [[m/_malnutrition|malnutrition]]**
+- **[[s/_suffering|Suffering]] from [[m/_malnutrition|malnutrition]]**
 ---
 ### Synonyms
 - [[u/_underfed|underfed]], [[u/_undernourished|undernourished]]

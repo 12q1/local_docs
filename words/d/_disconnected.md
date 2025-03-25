@@ -11,7 +11,7 @@
 - **[[f/_feeling|Feeling]] a [[l/_lack|lack]] of [[e/_empathy|empathy]] or [[a/_association|association]] with [[s/_something|something]].**
 	- _Example: I just feel so disconnected from people living on the other side of the world._
 - **[[i/_incoherent|Incoherent]]; [[d/_disjointed|disjointed]].**
-- **(of a topological [[s/_space|space]]) That [[c/_can|can]] be [[p/_partitioned|partitioned]] [[i/_into|into]] two [[n/_nonempty|nonempty]] subsets which are [[b/_both|both]] [[o/_open|open]] and [[c/_closed|closed]].**
+- **(of a topological [[s/_space|space]]) That [[c/_can|can]] be [[p/_partitioned|partitioned]] [[i/_into|into]] two [[n/_nonempty|nonempty]] [[s/_subsets|subsets]] which are [[b/_both|both]] [[o/_open|open]] and [[c/_closed|closed]].**
 ---
 ### Antonyms
 - [[c/_connected|connected]]

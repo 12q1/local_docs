@@ -11,9 +11,9 @@
 #adjective
 - **[[d/_descending|Descending]] [[f/_far|far]] [[b/_below|below]] the surface; [[o/_opening|opening]] or [[r/_reaching|reaching]] to [[g/_great|great]] [[d/_depth|depth]]; [[d/_deep|deep]].**
 - **Very [[d/_deep|deep]]; very [[s/_serious|serious]]**
-- **[[i/_intellectually|Intellectually]] [[d/_deep|deep]]; [[e/_entering|entering]] [[f/_far|far]] [[i/_into|into]] subjects; [[r/_reaching|reaching]] to the [[b/_bottom|bottom]] of a [[m/_matter|matter]], or of a [[b/_branch|branch]] of [[l/_learning|learning]]; thorough**
+- **[[i/_intellectually|Intellectually]] [[d/_deep|deep]]; [[e/_entering|entering]] [[f/_far|far]] [[i/_into|into]] [[s/_subjects|subjects]]; [[r/_reaching|reaching]] to the [[b/_bottom|bottom]] of a [[m/_matter|matter]], or of a [[b/_branch|branch]] of [[l/_learning|learning]]; thorough**
 	- _Example: a profound investigation_
 - **[[c/_characterized|Characterized]] by [[i/_intensity|intensity]]; [[d/_deeply|deeply]] [[f/_felt|felt]]; [[p/_pervading|pervading]]**
-- **[[b/_bending|Bending]] [[l/_low|low]], [[e/_exhibiting|exhibiting]] or [[e/_expressing|expressing]] [[d/_deep|deep]] [[h/_humility|humility]]; [[l/_lowly|lowly]]; submissive**
+- **[[b/_bending|Bending]] [[l/_low|low]], [[e/_exhibiting|exhibiting]] or [[e/_expressing|expressing]] [[d/_deep|deep]] [[h/_humility|humility]]; [[l/_lowly|lowly]]; [[s/_submissive|submissive]]**
 ---
 ---

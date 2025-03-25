@@ -5,6 +5,6 @@
 - **The [[s/_sound|sound]] of [[l/_liquid|liquid]] [[c/_coming|coming]] [[o/_out|out]] of a [[b/_bottle|bottle]], [[e/_etc|etc]].; a glucking [[s/_sound|sound]].**
 ---
 #verb
-- **To [[m/_make|make]] such a [[s/_sound|sound]]**
+- **To [[m/_make|make]] [[s/_such|such]] a [[s/_sound|sound]]**
 ---
 ---

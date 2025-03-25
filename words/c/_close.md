@@ -17,7 +17,7 @@
 - **([[p/_physical|physical]]) To [[r/_remove|remove]] a [[g/_gap|gap]].**
 - **([[s/_social|social]]) To [[f/_finish|finish]], to terminate.**
 - **To [[c/_come|come]] or [[g/_gather|gather]] [[a/_around|around]]; to [[e/_enclose|enclose]]; to [[e/_encompass|encompass]]; to [[c/_confine|confine]].**
-- **To [[h/_have|have]] a vector sum of 0; that is, to [[f/_form|form]] a [[c/_closed|closed]] [[p/_polygon|polygon]].**
+- **To [[h/_have|have]] a vector [[s/_sum|sum]] of 0; that is, to [[f/_form|form]] a [[c/_closed|closed]] [[p/_polygon|polygon]].**
 ---
 ### Synonyms
 - [[n/_narrow|narrow]], [[s/_shut|shut]], [[c/_cover|cover]], [[s/_shut|shut]], [[e/_end|end]], [[f/_finish|finish]], [[t/_terminate|terminate]], [[e/_exit|exit]]

@@ -1,7 +1,7 @@
 # Lanceolate
 ---
 #noun
-- **[[a/_any|Any]] such [[a/_artefact|artefact]]**
+- **[[a/_any|Any]] [[s/_such|such]] [[a/_artefact|artefact]]**
 ---
 #adjective
 - **[[h/_having|Having]] the [[g/_general|general]] [[s/_shape|shape]] of a [[l/_lance|lance]]; [[m/_much|much]] [[l/_longer|longer]] than wide, with the widest [[p/_part|part]] [[l/_lower|lower]] than the [[m/_middle|middle]] and a [[p/_pointed|pointed]] [[a/_apex|apex]].**

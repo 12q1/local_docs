@@ -1,7 +1,7 @@
 # Anorexics
 ---
 #noun
-- **[[s/_somebody|Somebody]] suffering from [[a/_anorexia|anorexia]] [[n/_nervosa|nervosa]].**
+- **[[s/_somebody|Somebody]] [[s/_suffering|suffering]] from [[a/_anorexia|anorexia]] [[n/_nervosa|nervosa]].**
 - **A [[m/_medicine|medicine]] which suppresses [[a/_appetite|appetite]].**
 ---
 ### Synonyms

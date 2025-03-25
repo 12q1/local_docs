@@ -1,7 +1,7 @@
 # Montages
 ---
 #noun
-- **A [[c/_composite|composite]] work, [[p/_particularly|particularly]] an [[a/_artwork|artwork]], [[c/_created|created]] by [[a/_assembling|assembling]] or [[p/_putting|putting]] together [[o/_other|other]] [[e/_elements|elements]] such as [[p/_pieces|pieces]] of [[m/_music|music]], [[p/_pictures|pictures]], texts, videos, [[e/_etc|etc]].**
+- **A [[c/_composite|composite]] work, [[p/_particularly|particularly]] an [[a/_artwork|artwork]], [[c/_created|created]] by [[a/_assembling|assembling]] or [[p/_putting|putting]] together [[o/_other|other]] [[e/_elements|elements]] [[s/_such|such]] as [[p/_pieces|pieces]] of [[m/_music|music]], [[p/_pictures|pictures]], texts, videos, [[e/_etc|etc]].**
 - **The [[a/_art|art]] or [[p/_process|process]] of [[d/_doing|doing]] this.**
 ---
 ---

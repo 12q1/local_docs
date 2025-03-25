@@ -22,9 +22,9 @@
 	- _Example: The military campaign near that creek was known as "The battle of Bull Run"._
 - **A [[q/_quick|quick]] [[p/_pace|pace]], [[f/_faster|faster]] than a walk.**
 	- _Example: He broke into a run._
-- **A sudden [[s/_series|series]] of [[d/_demands|demands]] on a [[b/_bank|bank]] or [[o/_other|other]] [[f/_financial|financial]] [[i/_institution|institution]], [[e/_especially|especially]] [[c/_characterised|characterised]] by [[g/_great|great]] withdrawals.**
+- **A [[s/_sudden|sudden]] [[s/_series|series]] of [[d/_demands|demands]] on a [[b/_bank|bank]] or [[o/_other|other]] [[f/_financial|financial]] [[i/_institution|institution]], [[e/_especially|especially]] [[c/_characterised|characterised]] by [[g/_great|great]] withdrawals.**
 	- _Example: Financial insecurity led to a run on the banks, as customers feared for the security of their savings._
-- **[[a/_any|Any]] sudden [[l/_large|large]] [[d/_demand|demand]] for [[s/_something|something]].**
+- **[[a/_any|Any]] [[s/_sudden|sudden]] [[l/_large|large]] [[d/_demand|demand]] for [[s/_something|something]].**
 	- _Example: There was a run on Christmas presents._
 - **Various [[h/_horizontal|horizontal]] [[d/_dimensions|dimensions]] or surfaces**
 - **A [[s/_standard|standard]] or unexceptional [[g/_group|group]] or [[c/_category|category]].**
@@ -33,7 +33,7 @@
 - **A [[l/_line|line]] of [[k/_knit|knit]] [[s/_stitches|stitches]] that [[h/_have|have]] unravelled, [[p/_particularly|particularly]] in a [[n/_nylon|nylon]] [[s/_stocking|stocking]].**
 	- _Example: I have a run in my stocking._
 - **The [[s/_stern|stern]] of the underwater [[b/_body|body]] of a [[s/_ship|ship]] from where it [[b/_begins|begins]] to [[c/_curve|curve]] upward and [[i/_inward|inward]].**
-- **The [[h/_horizontal|horizontal]] [[d/_distance|distance]] to which a [[d/_drift|drift]] [[m/_may|may]] be [[c/_carried|carried]], [[e/_either|either]] by [[l/_licence|licence]] of the [[p/_proprietor|proprietor]] of a [[m/_mine|mine]] or by the [[n/_nature|nature]] of the [[f/_formation|formation]]; [[a/_also|also]], the [[d/_direction|direction]] which a vein of [[o/_ore|ore]] or [[o/_other|other]] substance takes.**
+- **The [[h/_horizontal|horizontal]] [[d/_distance|distance]] to which a [[d/_drift|drift]] [[m/_may|may]] be [[c/_carried|carried]], [[e/_either|either]] by [[l/_licence|licence]] of the [[p/_proprietor|proprietor]] of a [[m/_mine|mine]] or by the [[n/_nature|nature]] of the [[f/_formation|formation]]; [[a/_also|also]], the [[d/_direction|direction]] which a vein of [[o/_ore|ore]] or [[o/_other|other]] [[s/_substance|substance]] takes.**
 - **A [[p/_pair|pair]] or [[s/_set|set]] of [[m/_millstones|millstones]].**
 ---
 ### Synonyms
@@ -53,11 +53,11 @@
 	- _Example: Is that old Mercedes on the forecourt a runner? / No, it has no gearbox._
 - **A [[s/_strip|strip]] of [[f/_fabric|fabric]] used to [[d/_decorate|decorate]] or [[p/_protect|protect]] a table or [[d/_dressing|dressing]] table.**
 	- _Example: The red runner makes the table so festive._
-- **A [[l/_long|long]], [[n/_narrow|narrow]] [[c/_carpet|carpet]] for a [[h/_high|high]] traffic [[a/_area|area]] such as a [[h/_hall|hall]] or [[s/_stairs|stairs]].**
+- **A [[l/_long|long]], [[n/_narrow|narrow]] [[c/_carpet|carpet]] for a [[h/_high|high]] traffic [[a/_area|area]] [[s/_such|such]] as a [[h/_hall|hall]] or [[s/_stairs|stairs]].**
 	- _Example: How about we put down a clear runner in the front hall._
 - **A [[p/_part|part]] of a [[c/_cigarette|cigarette]] that is [[b/_burning|burning]] unevenly.**
-- **A [[l/_long|long]] [[s/_stolon|stolon]] [[s/_sent|sent]] [[o/_out|out]] by a [[p/_plant|plant]] (such as [[s/_strawberry|strawberry]]), in [[o/_order|order]] to [[r/_root|root]] [[n/_new|new]] plantlets, or a [[p/_plant|plant]] that [[p/_propagates|propagates]] by using such [[r/_runners|runners]].**
-- **A [[s/_short|short]] [[s/_sling|sling]] with a [[c/_carabiner|carabiner]] on [[e/_either|either]] [[e/_end|end]], used to [[l/_link|link]] the [[c/_climbing|climbing]] [[r/_rope|rope]] to a [[b/_bolt|bolt]] or [[o/_other|other]] [[p/_protection|protection]] such as a [[n/_nut|nut]] or [[f/_friend|friend]].**
+- **A [[l/_long|long]] [[s/_stolon|stolon]] [[s/_sent|sent]] [[o/_out|out]] by a [[p/_plant|plant]] ([[s/_such|such]] as [[s/_strawberry|strawberry]]), in [[o/_order|order]] to [[r/_root|root]] [[n/_new|new]] plantlets, or a [[p/_plant|plant]] that [[p/_propagates|propagates]] by using [[s/_such|such]] [[r/_runners|runners]].**
+- **A [[s/_short|short]] [[s/_sling|sling]] with a [[c/_carabiner|carabiner]] on [[e/_either|either]] [[e/_end|end]], used to [[l/_link|link]] the [[c/_climbing|climbing]] [[r/_rope|rope]] to a [[b/_bolt|bolt]] or [[o/_other|other]] [[p/_protection|protection]] [[s/_such|such]] as a [[n/_nut|nut]] or [[f/_friend|friend]].**
 - **A [[c/_competitor|competitor]] in a [[p/_poker|poker]] tournament.**
 - **A [[r/_restaurant|restaurant]] [[e/_employee|employee]] [[r/_responsible|responsible]] for taking [[f/_food|food]] from the [[k/_kitchens|kitchens]] to the tables.**
 - **A [[l/_leaping|leaping]] [[f/_food|food]] [[f/_fish|fish]] (Elagatis pinnulatis) of [[f/_florida|Florida]] and the West [[i/_indies|Indies]]; the [[s/_skipjack|skipjack]], [[s/_shoemaker|shoemaker]], or [[y/_yellowtail|yellowtail]].**

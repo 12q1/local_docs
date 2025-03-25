@@ -5,7 +5,7 @@
 - **A [[c/_companion|companion]]; a [[c/_comrade|comrade]].**
 - **A [[m/_man|man]] without [[g/_good|good]] [[b/_breeding|breeding]] or worth; an [[i/_ignoble|ignoble]] or [[m/_mean|mean]] [[m/_man|man]].**
 - **An [[e/_equal|equal]] in [[p/_power|power]], [[r/_rank|rank]], [[c/_character|character]], [[e/_etc|etc]].**
-- **[[o/_one|One]] of a [[p/_pair|pair]], or of two things used together or suited to [[e/_each|each]] [[o/_other|other]]; a [[m/_mate|mate]].**
+- **[[o/_one|One]] of a [[p/_pair|pair]], or of two things used together or [[s/_suited|suited]] to [[e/_each|each]] [[o/_other|other]]; a [[m/_mate|mate]].**
 - **A [[p/_person|person]] with [[c/_common|common]] [[c/_characteristics|characteristics]], [[b/_being|being]] of the [[s/_same|same]] [[k/_kind|kind]], or in the [[s/_same|same]] [[g/_group|group]].**
 	- _Example: Roger and his fellow workers are to go on strike._
 - **A [[m/_male|male]] [[p/_person|person]]; a [[m/_man|man]].**
@@ -14,7 +14,7 @@
 - **([[a/_aboriginal|Aboriginal]] [[e/_english|English]]) Used as a [[g/_general|general]] [[i/_intensifier|intensifier]]**
 ---
 #verb
-- **To suit with; to [[p/_pair|pair]] with; to [[m/_match|match]].**
+- **To [[s/_suit|suit]] with; to [[p/_pair|pair]] with; to [[m/_match|match]].**
 ---
 #noun
 - **A [[p/_person|person]] who was a [[f/_fellow|fellow]] [[a/_attendee|attendee]] at [[o/_one|one]]'[[s/_s|s]] [[s/_school|school]].**

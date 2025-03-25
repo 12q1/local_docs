@@ -2,7 +2,7 @@
 ---
 #noun
 - **A surface [[s/_shine|shine]] or [[l/_luster|luster]]/[[l/_lustre|lustre]]**
-- **A superficially or [[d/_deceptively|deceptively]] [[a/_attractive|attractive]] [[a/_appearance|appearance]]**
+- **A [[s/_superficially|superficially]] or [[d/_deceptively|deceptively]] [[a/_attractive|attractive]] [[a/_appearance|appearance]]**
 ---
 ### Synonyms
 - [[f/_façade|façade]], [[f/_front|front]], [[v/_veneer|veneer]], [[b/_brilliance|brilliance]], [[g/_gleam|gleam]], [[l/_luster|luster]], [[l/_lustre|lustre]], [[s/_sheen|sheen]], [[s/_shine|shine]]

@@ -9,7 +9,7 @@
 ### Antonyms
 - [[e/_exterior|exterior]]
 #adjective
-- **Within [[a/_any|any]] [[l/_limits|limits]], [[e/_enclosure|enclosure]], or substance; [[i/_inside|inside]]; [[i/_internal|internal]]; [[i/_inner|inner]].**
+- **Within [[a/_any|any]] [[l/_limits|limits]], [[e/_enclosure|enclosure]], or [[s/_substance|substance]]; [[i/_inside|inside]]; [[i/_internal|internal]]; [[i/_inner|inner]].**
 	- _Example: the interior apartments of a house; the interior surface of a hollow ball_
 - **[[r/_remote|Remote]] from the [[l/_limits|limits]], [[f/_frontier|frontier]], or [[s/_shore|shore]]; [[i/_inland|inland]].**
 	- _Example: the interior parts of a region or country_

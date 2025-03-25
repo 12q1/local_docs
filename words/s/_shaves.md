@@ -1,7 +1,7 @@
 # Shaves
 ---
 #verb
-- **To [[m/_make|make]] [[b/_bald|bald]] or [[s/_shorter|shorter]] by using a tool such as a [[r/_razor|razor]] or [[p/_pair|pair]] of [[e/_electric|electric]] [[c/_clippers|clippers]] to [[c/_cut|cut]] the [[h/_hair|hair]] [[c/_close|close]] to the [[s/_skin|skin]].**
+- **To [[m/_make|make]] [[b/_bald|bald]] or [[s/_shorter|shorter]] by using a tool [[s/_such|such]] as a [[r/_razor|razor]] or [[p/_pair|pair]] of [[e/_electric|electric]] [[c/_clippers|clippers]] to [[c/_cut|cut]] the [[h/_hair|hair]] [[c/_close|close]] to the [[s/_skin|skin]].**
 - **To [[c/_cut|cut]] [[a/_anything|anything]] in this [[f/_fashion|fashion]].**
 	- _Example: The labourer with the bending scythe is seen / Shaving the surface of the waving green._
 - **To [[r/_remove|remove]] [[h/_hair|hair]] from [[o/_one|one]]'[[s/_s|s]] [[f/_face|face]] by this [[m/_means|means]].**

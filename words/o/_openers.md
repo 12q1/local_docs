@@ -6,7 +6,7 @@
 - **(in [[c/_combination|combination]]) An [[e/_establishment|establishment]] that [[o/_opens|opens]].**
 	- _Example: The late-night openers in the mall include two restaurants and a clothing store._
 - **The [[p/_player|player]] who [[s/_starts|starts]] the [[b/_betting|betting]].**
-- **(in the [[p/_plural|plural]]) [[c/_cards|Cards]] of sufficient value to [[e/_enable|enable]] a [[p/_player|player]] to [[o/_open|open]] the [[b/_betting|betting]].**
+- **(in the [[p/_plural|plural]]) [[c/_cards|Cards]] of [[s/_sufficient|sufficient]] value to [[e/_enable|enable]] a [[p/_player|player]] to [[o/_open|open]] the [[b/_betting|betting]].**
 - **A [[p/_person|person]] [[e/_employed|employed]] to [[s/_separate|separate]] [[s/_sheets|sheets]] of [[h/_hot|hot]] [[m/_metal|metal]] that [[b/_become|become]] [[s/_stuck|stuck]] together.**
 - **The [[f/_first|first]] [[a/_act|act]] in a variety [[s/_show|show]] or [[c/_concert|concert]].**
 - **A [[b/_batsman|batsman]] who [[n/_normally|normally]] [[p/_plays|plays]] in the [[f/_first|first]] two [[p/_positions|positions]] of an [[i/_innings|innings]].**

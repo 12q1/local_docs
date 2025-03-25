@@ -45,7 +45,7 @@
 - **While using, [[e/_especially|especially]] while [[c/_consuming|consuming]].**
 - **[[c/_concerning|Concerning]] or [[r/_regarding|regarding]].**
 	- _Example: The two boys had a fight over whose girlfriend was the best._
-- **[[a/_above|Above]], [[i/_implying|implying]] superiority [[a/_after|after]] a [[c/_contest|contest]]; in [[s/_spite|spite]] of; [[n/_notwithstanding|notwithstanding]].**
+- **[[a/_above|Above]], [[i/_implying|implying]] [[s/_superiority|superiority]] [[a/_after|after]] a [[c/_contest|contest]]; in [[s/_spite|spite]] of; [[n/_notwithstanding|notwithstanding]].**
 	- _Example: It was a fine victory over their opponents._
 ---
 #interjection

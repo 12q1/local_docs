@@ -20,7 +20,7 @@
 ---
 #noun
 - **([[c/_crafts|crafts]]) The [[b/_ball|ball]] of thread wound on to the [[s/_spindle|spindle]] in a [[s/_spinning|spinning]] [[m/_machine|machine]].**
-- **The top, summit, [[e/_especially|especially]] of a [[h/_hill|hill]].**
+- **The top, [[s/_summit|summit]], [[e/_especially|especially]] of a [[h/_hill|hill]].**
 - **The [[c/_crown|crown]] (of the [[h/_head|head]]); [[a/_also|also]] the [[h/_head|head]] [[i/_itself|itself]].**
 	- _Example: The stature is bowed down in age, the cop is depressed._
 - **A tube or [[q/_quill|quill]] upon which [[s/_silk|silk]] is wound.**

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[n/_narrow|narrow]] [[o/_ornamental|ornamental]] [[f/_fabric|fabric]] or [[b/_braid|braid]] of [[s/_silk|silk]], wool, or [[c/_cotton|cotton]], [[o/_often|often]] [[s/_stiffened|stiffened]] with [[m/_metallic|metallic]] wire or [[c/_coarse|coarse]] [[c/_cord|cord]] [[r/_running|running]] through it, used as trimming for [[d/_dresses|dresses]], [[c/_curtains|curtains]], [[f/_furniture|furniture]], [[e/_etc|etc]]. [[a/_also|Also]] [[g/_guimpe|guimpe]].**
-- **[[a/_any|Any]] [[c/_coarse|coarse]] or [[r/_reinforced|reinforced]] thread, such as a [[g/_glazed|glazed]] thread [[e/_employed|employed]] in [[l/_lacemaking|lacemaking]] to [[o/_outline|outline]] [[d/_designs|designs]], or [[s/_silk|silk]] thread used as a [[f/_fishing|fishing]] [[l/_leader|leader]], [[p/_protected|protected]] from the [[b/_bite|bite]] of [[f/_fish|fish]] by a wrapping of [[f/_fine|fine]] wire.**
+- **[[a/_any|Any]] [[c/_coarse|coarse]] or [[r/_reinforced|reinforced]] thread, [[s/_such|such]] as a [[g/_glazed|glazed]] thread [[e/_employed|employed]] in [[l/_lacemaking|lacemaking]] to [[o/_outline|outline]] [[d/_designs|designs]], or [[s/_silk|silk]] thread used as a [[f/_fishing|fishing]] [[l/_leader|leader]], [[p/_protected|protected]] from the [[b/_bite|bite]] of [[f/_fish|fish]] by a wrapping of [[f/_fine|fine]] wire.**
 - **The [[p/_plastic|plastic]] [[c/_cord|cord]] used in the [[p/_plaiting|plaiting]] and [[k/_knotting|knotting]] [[c/_craft|craft]] Scoubidou ([[l/_lanyard|lanyard]] [[m/_making|making]]); or, the [[p/_process|process]] [[i/_itself|itself]].**
 - **([[c/_chiefly|chiefly]] [[n/_north|North]] [[e/_eastern|Eastern]] US) [[g/_gumption|Gumption]]**
 ---
@@ -17,7 +17,7 @@
 - **A [[c/_crippled|crippled]] [[l/_leg|leg]].**
 - **A [[l/_limp|limp]] or a [[l/_limping|limping]] [[g/_gait|gait]].**
 - **A [[n/_name|name]]-[[c/_calling|calling]] word, [[g/_generally|generally]] for a [[p/_person|person]] who is [[p/_perceived|perceived]] to be [[i/_inept|inept]], [[d/_deficient|deficient]] or [[p/_peculiar|peculiar]]**
-- **(BDSM) A [[s/_sexual|sexual]] submissive, [[a/_almost|almost]] [[a/_always|always]] [[m/_male|male]], [[d/_dressed|dressed]] [[g/_generally|generally]] in a [[b/_black|black]] [[l/_leather|leather]] suit. [[s/_see|See]] [[g/_gimp|Gimp]] ([[s/_sadomasochism|sadomasochism]]) in Wikipedia.**
+- **(BDSM) A [[s/_sexual|sexual]] [[s/_submissive|submissive]], [[a/_almost|almost]] [[a/_always|always]] [[m/_male|male]], [[d/_dressed|dressed]] [[g/_generally|generally]] in a [[b/_black|black]] [[l/_leather|leather]] [[s/_suit|suit]]. [[s/_see|See]] [[g/_gimp|Gimp]] ([[s/_sadomasochism|sadomasochism]]) in Wikipedia.**
 - **A [[c/_character|character]] or [[a/_ability|ability]] that is underpowered.**
 ---
 ### Synonyms

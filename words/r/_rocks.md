@@ -15,7 +15,7 @@
 - **[[s/_something|Something]] that is [[s/_strong|strong]], [[s/_stable|stable]], and [[d/_dependable|dependable]]; a [[p/_person|person]] who [[p/_provides|provides]] [[s/_security|security]] or support to [[a/_another|another]].**
 - **A [[l/_lump|lump]] or [[c/_cube|cube]] of [[i/_ice|ice]].**
 	- _Example: I'll have a whisky on the rocks, please._
-- **A type of [[c/_confectionery|confectionery]] [[m/_made|made]] from sugar in the [[s/_shape|shape]] of a [[s/_stick|stick]], traditionally [[h/_having|having]] [[s/_some|some]] text [[r/_running|running]] through [[i/_its|its]] [[l/_length|length]].**
+- **A type of [[c/_confectionery|confectionery]] [[m/_made|made]] from [[s/_sugar|sugar]] in the [[s/_shape|shape]] of a [[s/_stick|stick]], traditionally [[h/_having|having]] [[s/_some|some]] text [[r/_running|running]] through [[i/_its|its]] [[l/_length|length]].**
 	- _Example: While we're in Brighton, let's get a stick of rock!_
 - **A [[c/_crystallized|crystallized]] [[l/_lump|lump]] of [[c/_crack|crack]] [[c/_cocaine|cocaine]].**
 - **An unintelligent [[p/_person|person]], [[e/_especially|especially]] [[o/_one|one]] who [[r/_repeats|repeats]] [[m/_mistakes|mistakes]].**
@@ -58,7 +58,7 @@
 	- _Example: Let's rock this joint!_
 - **To [[d/_do|do]] [[s/_something|something]] with [[e/_excitement|excitement]] [[y/_yet|yet]] [[s/_skillfully|skillfully]]**
 	- _Example: I need to rock a piss._
-- **To wear (a [[p/_piece|piece]] of [[c/_clothing|clothing]], [[o/_outfit|outfit]] [[e/_etc|etc]].) successfully or with [[s/_style|style]]; to [[c/_carry|carry]] [[o/_off|off]] (a [[p/_particular|particular]] [[l/_look|look]], [[s/_style|style]]).**
+- **To wear (a [[p/_piece|piece]] of [[c/_clothing|clothing]], [[o/_outfit|outfit]] [[e/_etc|etc]].) [[s/_successfully|successfully]] or with [[s/_style|style]]; to [[c/_carry|carry]] [[o/_off|off]] (a [[p/_particular|particular]] [[l/_look|look]], [[s/_style|style]]).**
 ---
 ### Synonyms
 - [[r/_rule|rule]]

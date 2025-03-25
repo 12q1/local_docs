@@ -5,7 +5,7 @@
 	- _Example: Deaf and mute people communicate using languages like ASL._
 - **The [[a/_ability|ability]] to [[c/_communicate|communicate]] using words.**
 	- _Example: the gift of language_
-- **A sublanguage: the [[s/_slang|slang]] of a [[p/_particular|particular]] [[c/_community|community]] or [[j/_jargon|jargon]] of a [[p/_particular|particular]] [[s/_specialist|specialist]] [[f/_field|field]].**
+- **A [[s/_sublanguage|sublanguage]]: the [[s/_slang|slang]] of a [[p/_particular|particular]] [[c/_community|community]] or [[j/_jargon|jargon]] of a [[p/_particular|particular]] [[s/_specialist|specialist]] [[f/_field|field]].**
 	- _Example: legal language;   the language of chemistry_
 - **The [[e/_expression|expression]] of thought (the [[c/_communication|communication]] of [[m/_meaning|meaning]]) in a [[s/_specified|specified]] way; that which [[c/_communicates|communicates]] [[s/_something|something]], as [[l/_language|language]] [[d/_does|does]].**
 	- _Example: body language;   the language of the eyes_

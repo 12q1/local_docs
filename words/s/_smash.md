@@ -5,7 +5,7 @@
 	- _Example: I could hear the screech of the brakes, then the horrible smash of cars colliding._
 - **A traffic [[c/_collision|collision]].**
 	- _Example: The driver and two passengers were badly injured in the smash._
-- **[[s/_something|Something]] very successful or [[p/_popular|popular]] (as [[m/_music|music]], [[f/_food|food]], [[f/_fashion|fashion]], [[e/_etc|etc]]); a [[h/_hit|hit]].**
+- **[[s/_something|Something]] very [[s/_successful|successful]] or [[p/_popular|popular]] (as [[m/_music|music]], [[f/_food|food]], [[f/_fashion|fashion]], [[e/_etc|etc]]); a [[h/_hit|hit]].**
 	- _Example: This new show is sure to be a smash._
 - **A very [[h/_hard|hard]] [[o/_overhead|overhead]] [[s/_shot|shot]] [[h/_hit|hit]] [[s/_sharply|sharply]] [[d/_downward|downward]].**
 	- _Example: A smash may not be as pretty as a good half volley, but it can still win points._
@@ -21,9 +21,9 @@
 	- _Example: The crockery smashed as it hit the floor._
 - **To [[h/_hit|hit]] [[e/_extremely|extremely]] [[h/_hard|hard]].**
 	- _Example: Bonds smashed the ball 467 feet, the second longest home run in the history of the park._
-- **To [[r/_ruin|ruin]] [[c/_completely|completely]] and suddenly.**
+- **To [[r/_ruin|ruin]] [[c/_completely|completely]] and [[s/_suddenly|suddenly]].**
 	- _Example: The news smashed any hopes of a reunion._
-- **To [[d/_defeat|defeat]] [[o/_overwhelmingly|overwhelmingly]]; to [[g/_gain|gain]] a [[c/_comprehensive|comprehensive]] success.**
+- **To [[d/_defeat|defeat]] [[o/_overwhelmingly|overwhelmingly]]; to [[g/_gain|gain]] a [[c/_comprehensive|comprehensive]] [[s/_success|success]].**
 	- _Example: I really smashed that English exam._
 - **To [[d/_deform|deform]] through [[c/_continuous|continuous]] [[p/_pressure|pressure]].**
 	- _Example: I slowly smashed the modeling clay flat with the palm of my hand._

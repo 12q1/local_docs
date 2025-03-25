@@ -7,7 +7,7 @@
 - **The [[l/_lower|lower]] [[i/_inside|inside]] surface of a [[h/_hollow|hollow]] [[s/_space|space]].**
 	- _Example: Many sunken ships rest on the ocean floor._
 - **A [[s/_structure|structure]] [[f/_formed|formed]] of [[b/_beams|beams]], [[g/_girders|girders]], [[e/_etc|etc]], with [[p/_proper|proper]] [[c/_covering|covering]], which [[d/_divides|divides]] a [[b/_building|building]] [[h/_horizontally|horizontally]] [[i/_into|into]] [[s/_storeys|storeys]]/[[s/_stories|stories]].**
-- **The supporting surface or [[p/_platform|platform]] of a [[s/_structure|structure]] such as a [[b/_bridge|bridge]].**
+- **The supporting surface or [[p/_platform|platform]] of a [[s/_structure|structure]] [[s/_such|such]] as a [[b/_bridge|bridge]].**
 	- _Example: Wooden planks of the old bridge's floor were nearly rotten._
 - **A [[s/_storey|storey]]/[[s/_story|story]] of a [[b/_building|building]].**
 	- _Example: For years we lived on the third floor._

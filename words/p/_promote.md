@@ -11,7 +11,7 @@
 - **To [[i/_increase|increase]] the [[a/_activity|activity]] of (a [[c/_catalyst|catalyst]]) by [[c/_changing|changing]] [[i/_its|its]] surface [[s/_structure|structure]].**
 - **To [[e/_exchange|exchange]] (a [[p/_pawn|pawn]]) for a [[q/_queen|queen]] or [[o/_other|other]] [[p/_piece|piece]] when it [[r/_reaches|reaches]] the [[e/_eighth|eighth]] [[r/_rank|rank]].**
 	- _Example: Having crossed the chessboard, his pawn was promoted to a queen._
-- **To [[m/_move|move]] on to a subsequent [[s/_stage|stage]] of [[e/_education|education]].**
+- **To [[m/_move|move]] on to a [[s/_subsequent|subsequent]] [[s/_stage|stage]] of [[e/_education|education]].**
 	- _Example: At the end of Primary 6 students can promote directly to the secondary section of SIS._
 ---
 ### Antonyms

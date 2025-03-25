@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_ability|ability]] to [[h/_hold|hold]], [[r/_receive|receive]] or [[a/_absorb|absorb]]**
-- **A [[m/_measure|measure]] of such [[a/_ability|ability]]; volume**
+- **A [[m/_measure|measure]] of [[s/_such|such]] [[a/_ability|ability]]; volume**
 - **The [[m/_maximum|maximum]] [[a/_amount|amount]] that [[c/_can|can]] be [[h/_held|held]]**
 	- _Example: It was hauling a capacity load._
 - **[[c/_capability|Capability]]; the [[a/_ability|ability]] to [[p/_perform|perform]] [[s/_some|some]] task**

@@ -5,7 +5,7 @@
 - **To [[j/_jump|jump]] on [[o/_one|one]] [[f/_foot|foot]].**
 - **To be in [[s/_state|state]] of [[e/_energetic|energetic]] [[a/_activity|activity]].**
 	- _Example: Sorry, can't chat. Got to hop._
-- **To suddenly take a [[m/_mode|mode]] of transportation that [[o/_one|one]] [[d/_does|does]] not [[d/_drive|drive]] [[o/_oneself|oneself]], [[o/_often|often]] surreptitiously.**
+- **To [[s/_suddenly|suddenly]] take a [[m/_mode|mode]] of transportation that [[o/_one|one]] [[d/_does|does]] not [[d/_drive|drive]] [[o/_oneself|oneself]], [[o/_often|often]] surreptitiously.**
 	- _Example: He hopped a train to California._
 - **To [[j/_jump|jump]] [[o/_onto|onto]], or [[o/_over|over]]**
 - **(usually in [[c/_combination|combination]]) To [[m/_move|move]] [[f/_frequently|frequently]] from [[o/_one|one]] [[p/_place|place]] or [[s/_situation|situation]] to [[a/_another|another]] [[s/_similar|similar]] [[o/_one|one]].**

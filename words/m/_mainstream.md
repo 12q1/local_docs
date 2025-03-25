@@ -1,7 +1,7 @@
 # Mainstream
 ---
 #noun
-- **The [[p/_principal|principal]] [[c/_current|current]] in a [[f/_flow|flow]], such as a [[r/_river|river]] or [[f/_flow|flow]] of [[a/_air|air]]**
+- **The [[p/_principal|principal]] [[c/_current|current]] in a [[f/_flow|flow]], [[s/_such|such]] as a [[r/_river|river]] or [[f/_flow|flow]] of [[a/_air|air]]**
 - **(usually with the) That which is [[c/_common|common]]; the [[n/_norm|norm]].**
 	- _Example: His ideas were well outside the mainstream, but he presented them intelligently, and we were impressed if not convinced._
 ---

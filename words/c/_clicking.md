@@ -10,7 +10,7 @@
 	- _Example: From the home page, click through to the Products section._
 - **To [[e/_emit|emit]] a [[c/_click|click]].**
 	- _Example: He bent his fingers back until the joints clicked._
-- **To [[m/_make|make]] [[s/_sense|sense]] suddenly.**
+- **To [[m/_make|make]] [[s/_sense|sense]] [[s/_suddenly|suddenly]].**
 	- _Example: Then it clicked - I had been going the wrong way all that time._
 - **To [[g/_get|get]] on well.**
 	- _Example: When we met at the party, we just clicked and we’ve been best friends ever since._

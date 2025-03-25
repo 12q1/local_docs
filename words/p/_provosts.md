@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[o/_one|One]] [[p/_placed|placed]] in [[c/_charge|charge]]: a [[h/_head|head]], a [[c/_chief|chief]], [[p/_particularly|particularly]]:**
-- **A [[s/_senior|senior]] [[d/_deputy|deputy]], a superintendent, [[p/_particularly|particularly]]:**
+- **A [[s/_senior|senior]] [[d/_deputy|deputy]], a [[s/_superintendent|superintendent]], [[p/_particularly|particularly]]:**
 - **A [[p/_provost|provost]] [[c/_cell|cell]]: a [[m/_military|military]] [[c/_cell|cell]] or [[p/_prison|prison]].**
 ---
 ### Synonyms

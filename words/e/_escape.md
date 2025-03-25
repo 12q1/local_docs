@@ -9,7 +9,7 @@
 - **[[e/_escape|Escape]] [[k/_key|key]]**
 - **The text [[c/_character|character]] [[r/_represented|represented]] by 27 ([[d/_decimal|decimal]]) or 1B ([[h/_hexadecimal|hexadecimal]]).**
 	- _Example: You forgot to insert an escape in the datastream._
-- **A successful [[s/_shot|shot]] from a [[s/_snooker|snooker]] [[p/_position|position]].**
+- **A [[s/_successful|successful]] [[s/_shot|shot]] from a [[s/_snooker|snooker]] [[p/_position|position]].**
 - **A [[d/_defective|defective]] [[p/_product|product]] that is [[a/_allowed|allowed]] to [[l/_leave|leave]] a [[m/_manufacturing|manufacturing]] [[f/_facility|facility]].**
 - **That which [[e/_escapes|escapes]] [[a/_attention|attention]] or [[r/_restraint|restraint]]; a [[m/_mistake|mistake]], [[o/_oversight|oversight]], or transgression.**
 - **A [[s/_sally|sally]].**
@@ -24,8 +24,8 @@
 	- _Example: Luckily, I escaped with only a fine._
 - **To [[e/_elude|elude]] the [[o/_observation|observation]] or [[n/_notice|notice]] of; to not be [[s/_seen|seen]] or [[r/_remembered|remembered]] by.**
 	- _Example: The name of the hotel escapes me at present._
-- **To [[c/_cause|cause]] (a [[s/_single|single]] [[c/_character|character]], or [[a/_all|all]] such [[c/_characters|characters]] in a [[s/_string|string]]) to be [[i/_interpreted|interpreted]] [[l/_literally|literally]], [[i/_instead|instead]] of with [[a/_any|any]] [[s/_special|special]] [[m/_meaning|meaning]] it would usually [[h/_have|have]] in the [[s/_same|same]] [[c/_context|context]], [[o/_often|often]] by [[p/_prefixing|prefixing]] with [[a/_another|another]] [[c/_character|character]].**
+- **To [[c/_cause|cause]] (a [[s/_single|single]] [[c/_character|character]], or [[a/_all|all]] [[s/_such|such]] [[c/_characters|characters]] in a [[s/_string|string]]) to be [[i/_interpreted|interpreted]] [[l/_literally|literally]], [[i/_instead|instead]] of with [[a/_any|any]] [[s/_special|special]] [[m/_meaning|meaning]] it would usually [[h/_have|have]] in the [[s/_same|same]] [[c/_context|context]], [[o/_often|often]] by [[p/_prefixing|prefixing]] with [[a/_another|another]] [[c/_character|character]].**
 	- _Example: Brion escaped the double quote character on Windows by adding a second double quote within the literal._
-- **To [[h/_halt|halt]] a [[p/_program|program]] or [[c/_command|command]] by [[p/_pressing|pressing]] a [[k/_key|key]] (such as the "[[e/_esc|Esc]]" [[k/_key|key]]) or [[c/_combination|combination]] of [[k/_keys|keys]].**
+- **To [[h/_halt|halt]] a [[p/_program|program]] or [[c/_command|command]] by [[p/_pressing|pressing]] a [[k/_key|key]] ([[s/_such|such]] as the "[[e/_esc|Esc]]" [[k/_key|key]]) or [[c/_combination|combination]] of [[k/_keys|keys]].**
 ---
 ---

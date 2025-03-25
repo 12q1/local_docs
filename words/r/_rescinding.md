@@ -1,7 +1,7 @@
 # Rescinding
 ---
 #verb
-- **To [[r/_repeal|repeal]], [[a/_annul|annul]], or [[d/_declare|declare]] void; to take ([[s/_something|something]] such as a [[r/_rule|rule]] or [[c/_contract|contract]]) [[o/_out|out]] of [[e/_effect|effect]].**
+- **To [[r/_repeal|repeal]], [[a/_annul|annul]], or [[d/_declare|declare]] void; to take ([[s/_something|something]] [[s/_such|such]] as a [[r/_rule|rule]] or [[c/_contract|contract]]) [[o/_out|out]] of [[e/_effect|effect]].**
 	- _Example: The agency will rescind the policy because many people are dissatisfied with it._
 - **To [[c/_cut|cut]] [[a/_away|away]] or [[o/_off|off]].**
 ---

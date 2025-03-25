@@ -12,7 +12,7 @@
 ---
 #adjective
 - **[[s/_strong|Strong]] in the [[f/_face|face]] of [[f/_fear|fear]]; [[c/_courageous|courageous]].**
-- **[[h/_having|Having]] [[a/_any|any]] [[s/_sort|sort]] of superiority or [[e/_excellence|excellence]].**
+- **[[h/_having|Having]] [[a/_any|any]] [[s/_sort|sort]] of [[s/_superiority|superiority]] or [[e/_excellence|excellence]].**
 - **[[m/_making|Making]] a [[f/_fine|fine]] [[s/_show|show]] or [[d/_display|display]].**
 ---
 ### Synonyms

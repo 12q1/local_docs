@@ -4,7 +4,7 @@
 - **A [[f/_fertilized|fertilized]] and [[r/_ripened|ripened]] [[o/_ovule|ovule]], [[c/_containing|containing]] an [[e/_embryonic|embryonic]] [[p/_plant|plant]].**
 - **[[a/_any|Any]] [[s/_small|small]] [[s/_seed|seed]]-[[l/_like|like]] [[f/_fruit|fruit]].**
 	- _Example: If you plant a seed in the spring, you may have a pleasant surprise in the autumn._
-- **[[a/_any|Any]] [[p/_propagative|propagative]] [[p/_portion|portion]] of a [[p/_plant|plant]] which [[m/_may|may]] be [[s/_sown|sown]], such as true [[s/_seeds|seeds]], [[s/_seed|seed]]-[[l/_like|like]] [[f/_fruits|fruits]], tubers, or [[b/_bulbs|bulbs]].**
+- **[[a/_any|Any]] [[p/_propagative|propagative]] [[p/_portion|portion]] of a [[p/_plant|plant]] which [[m/_may|may]] be [[s/_sown|sown]], [[s/_such|such]] as true [[s/_seeds|seeds]], [[s/_seed|seed]]-[[l/_like|like]] [[f/_fruits|fruits]], tubers, or [[b/_bulbs|bulbs]].**
 - **([[c/_collective|collective]]) An [[a/_amount|amount]] of [[s/_seeds|seeds]] that [[c/_cannot|cannot]] be [[r/_readily|readily]] [[c/_counted|counted]].**
 	- _Example: The entire field was covered with geese eating the freshly sown seed._
 - **A [[f/_fragment|fragment]] of [[c/_coral|coral]].**

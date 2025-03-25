@@ -14,11 +14,11 @@
 - **[[i/_initialism|Initialism]] of [[m/_medium|medium]] coeli, the [[m/_midheaven|midheaven]] or [[h/_highest|highest]] [[p/_point|point]] in the [[s/_sky|sky]]. [[c/_contrasted|Contrasted]] to Imum Coeli.**
 ---
 #noun
-- **A [[m/_medical|medical]] [[f/_facility|facility]], such as a [[h/_hospital|hospital]], [[e/_especially|especially]] [[o/_one|one]] for the treatment and [[d/_diagnosis|diagnosis]] of [[o/_outpatients|outpatients]].**
+- **A [[m/_medical|medical]] [[f/_facility|facility]], [[s/_such|such]] as a [[h/_hospital|hospital]], [[e/_especially|especially]] [[o/_one|one]] for the treatment and [[d/_diagnosis|diagnosis]] of [[o/_outpatients|outpatients]].**
 - **(by [[e/_extension|extension]]) A [[h/_hospital|hospital]] [[s/_session|session]] to [[d/_diagnose|diagnose]] or treat [[p/_patients|patients]].**
 - **A [[s/_school|school]], or a [[s/_session|session]] of a [[s/_school|school]] or [[c/_class|class]], in which [[m/_medicine|medicine]] or surgery is taught by the [[e/_examination|examination]] and treatment of [[p/_patients|patients]] in the [[p/_presence|presence]] of the [[p/_pupils|pupils]].**
 - **A [[g/_group|group]] [[p/_practice|practice]] of [[s/_several|several]] [[p/_physicians|physicians]].**
-- **A [[m/_meeting|meeting]] for the [[d/_diagnosis|diagnosis]] of [[p/_problems|problems]], or training, on a [[p/_particular|particular]] subject.**
+- **A [[m/_meeting|meeting]] for the [[d/_diagnosis|diagnosis]] of [[p/_problems|problems]], or training, on a [[p/_particular|particular]] [[s/_subject|subject]].**
 - **A temporary [[o/_office|office]] [[a/_arranged|arranged]] on a [[r/_regular|regular]] [[b/_basis|basis]] to [[a/_allow|allow]] [[p/_politicians|politicians]] to [[m/_meet|meet]] their [[c/_constituents|constituents]].**
 - **A [[s/_series|series]] of workouts used to [[b/_build|build]] [[s/_skills|skills]] of [[p/_practitioners|practitioners]] [[r/_regardless|regardless]] of team [[a/_affiliation|affiliation]].**
 - **[[o/_one|One]] [[c/_confined|confined]] to [[b/_bed|bed]] by [[s/_sickness|sickness]].**
@@ -32,7 +32,7 @@
 - [[c/_compere|compere]], [[r/_rap|rap]]
 #noun
 - **A [[l/_large|large]] [[m/_medical|medical]] [[f/_facility|facility]], usually in a [[b/_building|building]] with [[m/_multiple|multiple]] [[f/_floors|floors]], where [[s/_seriously|seriously]] [[i/_ill|ill]] or [[i/_injured|injured]] [[p/_patients|patients]] are [[g/_given|given]] [[e/_extensive|extensive]] [[m/_medical|medical]] and/or surgical treatment.**
-- **A [[b/_building|building]] [[f/_founded|founded]] for the [[l/_long|long]]-term [[c/_care|care]] of [[i/_its|its]] [[r/_residents|residents]], such as an [[a/_almshouse|almshouse]]. The [[r/_residents|residents]] [[m/_may|may]] [[h/_have|have]] [[n/_no|no]] [[p/_physical|physical]] [[a/_ailments|ailments]], but [[s/_simply|simply]] [[n/_need|need]] [[f/_financial|financial]] support.**
+- **A [[b/_building|building]] [[f/_founded|founded]] for the [[l/_long|long]]-term [[c/_care|care]] of [[i/_its|its]] [[r/_residents|residents]], [[s/_such|such]] as an [[a/_almshouse|almshouse]]. The [[r/_residents|residents]] [[m/_may|may]] [[h/_have|have]] [[n/_no|no]] [[p/_physical|physical]] [[a/_ailments|ailments]], but [[s/_simply|simply]] [[n/_need|need]] [[f/_financial|financial]] support.**
 - **A [[p/_place|place]] of [[l/_lodging|lodging]].**
 ---
 ### Synonyms

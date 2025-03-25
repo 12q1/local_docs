@@ -5,7 +5,7 @@
 	- _Example: There were stalls for fourteen horses in the squire's stables._
 - **([[m/_metonymy|metonymy]]) [[a/_all|All]] the [[r/_racehorses|racehorses]] of a [[p/_particular|particular]] [[s/_stable|stable]], [[i/_i|i]].[[e/_e|e]]. [[b/_belonging|belonging]] to a [[g/_given|given]] [[o/_owner|owner]].**
 - **A [[s/_set|set]] of [[a/_advocates|advocates]]; a [[b/_barristers|barristers]]' [[c/_chambers|chambers]].**
-- **An [[o/_organization|organization]] of sumo wrestlers who [[l/_live|live]] and train together.**
+- **An [[o/_organization|organization]] of [[s/_sumo|sumo]] wrestlers who [[l/_live|live]] and train together.**
 - **A [[g/_group|group]] of [[p/_prostitutes|prostitutes]] [[m/_managed|managed]] by [[o/_one|one]] [[p/_pimp|pimp]].**
 ---
 ### Synonyms
@@ -20,7 +20,7 @@
 - **An [[a/_act|act]] of [[f/_fellatio|fellatio]].**
 - **A [[m/_member|member]] of a [[y/_youth|youth]] [[g/_gang|gang]] who [[e/_engages|engages]] in [[s/_steaming|steaming]] ([[r/_robbing|robbing]] and [[e/_escaping|escaping]] in a [[l/_large|large]] [[g/_group|group]]).**
 - **A [[d/_drinking|drinking]] [[s/_session|session]].**
-- **A [[d/_dish|dish]] [[m/_made|made]] by [[c/_cooking|cooking]] [[d/_diced|diced]] [[m/_meat|meat]] very [[s/_slowly|slowly]] in a tightly [[s/_sealed|sealed]] [[p/_pot|pot]] with a [[m/_minimum|minimum]] of flavourings, [[a/_allowing|allowing]] it to [[s/_steam|steam]] in [[i/_its|its]] [[o/_own|own]] [[j/_juices|juices]]; [[s/_specifically|specifically]] such a [[d/_dish|dish]] [[m/_made|made]] with [[k/_kangaroo|kangaroo]] [[m/_meat|meat]].**
+- **A [[d/_dish|dish]] [[m/_made|made]] by [[c/_cooking|cooking]] [[d/_diced|diced]] [[m/_meat|meat]] very [[s/_slowly|slowly]] in a tightly [[s/_sealed|sealed]] [[p/_pot|pot]] with a [[m/_minimum|minimum]] of flavourings, [[a/_allowing|allowing]] it to [[s/_steam|steam]] in [[i/_its|its]] [[o/_own|own]] [[j/_juices|juices]]; [[s/_specifically|specifically]] [[s/_such|such]] a [[d/_dish|dish]] [[m/_made|made]] with [[k/_kangaroo|kangaroo]] [[m/_meat|meat]].**
 ---
 ### Synonyms
 - [[b/_bender|bender]], [[b/_binge|binge]], [[c/_carouse|carouse]], [[p/_piss-up|piss-up]]
@@ -78,7 +78,7 @@
 - **[[a/_any|Any]] sustained [[n/_note|note]] or [[m/_movement|movement]]; a [[s/_song|song]]; a [[d/_distinct|distinct]] [[p/_portion|portion]] of an [[o/_ode|ode]] or [[o/_other|other]] [[p/_poem|poem]]; [[a/_also|also]], the [[p/_pervading|pervading]] [[n/_note|note]], or [[b/_burden|burden]], of a [[s/_song|song]], [[p/_poem|poem]], [[o/_oration|oration]], [[b/_book|book]], [[e/_etc|etc]].; theme; [[m/_motive|motive]]; [[m/_manner|manner]]; [[s/_style|style]]**
 - **A [[p/_particular|particular]] [[b/_breed|breed]] or [[r/_race|race]] of [[a/_animal|animal]], [[m/_microbe|microbe]] [[e/_etc|etc]].**
 	- _Example: They say this year's flu virus is a particularly virulent strain._
-- **A [[p/_portion|portion]] of [[m/_music|music]] [[d/_divided|divided]] [[o/_off|off]] by a [[d/_double|double]] [[b/_bar|bar]]; a [[c/_complete|complete]] [[m/_musical|musical]] [[p/_period|period]] or [[s/_sentence|sentence]]; a [[m/_movement|movement]], or [[a/_any|any]] [[r/_rounded|rounded]] subdivision of a [[m/_movement|movement]].**
+- **A [[p/_portion|portion]] of [[m/_music|music]] [[d/_divided|divided]] [[o/_off|off]] by a [[d/_double|double]] [[b/_bar|bar]]; a [[c/_complete|complete]] [[m/_musical|musical]] [[p/_period|period]] or [[s/_sentence|sentence]]; a [[m/_movement|movement]], or [[a/_any|any]] [[r/_rounded|rounded]] [[s/_subdivision|subdivision]] of a [[m/_movement|movement]].**
 - **A [[k/_kind|kind]] or [[s/_sort|sort]] (of [[p/_person|person]] [[e/_etc|etc]].).**
 - **[[l/_language|Language]] that is [[e/_eloquent|eloquent]], [[p/_poetic|poetic]], or [[o/_otherwise|otherwise]] [[h/_heightened|heightened]].**
 ---
@@ -135,16 +135,16 @@
 ---
 #noun
 - **A [[l/_long|long]], thin and [[f/_flexible|flexible]] [[s/_structure|structure]] [[m/_made|made]] from threads twisted together.**
-- **Such a [[s/_structure|structure]] [[c/_considered|considered]] as a substance.**
+- **[[s/_such|Such]] a [[s/_structure|structure]] [[c/_considered|considered]] as a [[s/_substance|substance]].**
 - **[[a/_any|Any]] [[s/_similar|similar]] [[l/_long|long]], thin and [[f/_flexible|flexible]] [[o/_object|object]].**
 	- _Example: a bowstring_
-- **A thread or [[c/_cord|cord]] on which a [[n/_number|number]] of [[o/_objects|objects]] or [[p/_parts|parts]] are [[s/_strung|strung]] or [[a/_arranged|arranged]] in [[c/_close|close]] and [[o/_orderly|orderly]] succession; [[h/_hence|hence]], a [[l/_line|line]] or [[s/_series|series]] of things [[a/_arranged|arranged]] on a thread, or as [[i/_if|if]] [[s/_so|so]] [[a/_arranged|arranged]].**
+- **A thread or [[c/_cord|cord]] on which a [[n/_number|number]] of [[o/_objects|objects]] or [[p/_parts|parts]] are [[s/_strung|strung]] or [[a/_arranged|arranged]] in [[c/_close|close]] and [[o/_orderly|orderly]] [[s/_succession|succession]]; [[h/_hence|hence]], a [[l/_line|line]] or [[s/_series|series]] of things [[a/_arranged|arranged]] on a thread, or as [[i/_if|if]] [[s/_so|so]] [[a/_arranged|arranged]].**
 	- _Example: a string of sausages_
-- **A [[c/_cohesive|cohesive]] substance taking the [[f/_form|form]] of a [[s/_string|string]].**
+- **A [[c/_cohesive|cohesive]] [[s/_substance|substance]] taking the [[f/_form|form]] of a [[s/_string|string]].**
 	- _Example: The string of spittle dangling from his chin was most unattractive_
 - **A [[s/_series|series]] of [[i/_items|items]] or [[e/_events|events]].**
 	- _Example: a string of successes_
-- **The [[m/_members|members]] of a [[s/_sports|sports]] team or [[s/_squad|squad]] [[r/_regarded|regarded]] as [[m/_most|most]] [[l/_likely|likely]] to [[a/_achieve|achieve]] success. ([[p/_perhaps|Perhaps]] [[m/_metaphorical|metaphorical]] as the "[[s/_strings|strings]]" that [[h/_hold|hold]] the [[s/_squad|squad]] together.) [[o/_often|Often]] [[f/_first|first]] [[s/_string|string]], [[s/_second|second]] [[s/_string|string]] [[e/_etc|etc]].**
+- **The [[m/_members|members]] of a [[s/_sports|sports]] team or [[s/_squad|squad]] [[r/_regarded|regarded]] as [[m/_most|most]] [[l/_likely|likely]] to [[a/_achieve|achieve]] [[s/_success|success]]. ([[p/_perhaps|Perhaps]] [[m/_metaphorical|metaphorical]] as the "[[s/_strings|strings]]" that [[h/_hold|hold]] the [[s/_squad|squad]] together.) [[o/_often|Often]] [[f/_first|first]] [[s/_string|string]], [[s/_second|second]] [[s/_string|string]] [[e/_etc|etc]].**
 - **In various [[g/_games|games]] and [[c/_competitions|competitions]], a [[c/_certain|certain]] [[n/_number|number]] of turns at [[p/_play|play]], of [[r/_rounds|rounds]], [[e/_etc|etc]].**
 - **A [[d/_drove|drove]] of [[h/_horses|horses]], or a [[g/_group|group]] of [[r/_racehorses|racehorses]] [[k/_kept|kept]] by [[o/_one|one]] [[o/_owner|owner]] or at [[o/_one|one]] [[s/_stable|stable]].**
 - **An [[o/_ordered|ordered]] [[s/_sequence|sequence]] of text [[c/_characters|characters]] [[s/_stored|stored]] [[c/_consecutively|consecutively]] in [[m/_memory|memory]] and [[c/_capable|capable]] of [[b/_being|being]] [[p/_processed|processed]] as a [[s/_single|single]] [[e/_entity|entity]].**
@@ -162,7 +162,7 @@
 - **A [[f/_fibre|fibre]], as of a [[p/_plant|plant]]; a [[l/_little|little]] [[f/_fibrous|fibrous]] [[r/_root|root]].**
 - **A [[n/_nerve|nerve]] or tendon of an [[a/_animal|animal]] [[b/_body|body]].**
 - **An [[i/_inside|inside]] [[r/_range|range]] of [[c/_ceiling|ceiling]] [[p/_planks|planks]], [[c/_corresponding|corresponding]] to the [[s/_sheer|sheer]] [[s/_strake|strake]] on the [[o/_outside|outside]] and [[b/_bolted|bolted]] to it.**
-- **The tough [[f/_fibrous|fibrous]] substance that unites the valves of the [[p/_pericarp|pericarp]] of [[l/_leguminous|leguminous]] [[p/_plants|plants]].**
+- **The tough [[f/_fibrous|fibrous]] [[s/_substance|substance]] that unites the valves of the [[p/_pericarp|pericarp]] of [[l/_leguminous|leguminous]] [[p/_plants|plants]].**
 	- _Example: the strings of beans_
 - **A [[s/_small|small]], [[f/_filamentous|filamentous]] [[r/_ramification|ramification]] of a [[m/_metallic|metallic]] vein.**
 - **A [[s/_stringcourse|stringcourse]].**
@@ -187,11 +187,11 @@
 	- _Example: a strong cup of coffee; a strong medicine_
 - **([[s/_specifically|specifically]]) [[h/_having|Having]] a [[h/_high|high]] [[a/_alcoholic|alcoholic]] [[c/_content|content]].**
 	- _Example: a strong drink_
-- **([[g/_grammar|grammar]]) [[i/_inflecting|Inflecting]] in a [[d/_different|different]] [[m/_manner|manner]] than the [[o/_one|one]] [[c/_called|called]] weak, such as [[g/_germanic|Germanic]] verbs which [[c/_change|change]] vowels.**
+- **([[g/_grammar|grammar]]) [[i/_inflecting|Inflecting]] in a [[d/_different|different]] [[m/_manner|manner]] than the [[o/_one|one]] [[c/_called|called]] weak, [[s/_such|such]] as [[g/_germanic|Germanic]] verbs which [[c/_change|change]] vowels.**
 	- _Example: a strong verb_
 - **That [[c/_completely|completely]] [[i/_ionizes|ionizes]] [[i/_into|into]] [[a/_anions|anions]] and [[c/_cations|cations]] in a [[s/_solution|solution]].**
 	- _Example: a strong acid;  a strong base_
-- **Not [[e/_easily|easily]] subdued or taken.**
+- **Not [[e/_easily|easily]] [[s/_subdued|subdued]] or taken.**
 	- _Example: a strong position_
 - **[[h/_having|Having]] wealth or [[r/_resources|resources]].**
 	- _Example: a strong economy_

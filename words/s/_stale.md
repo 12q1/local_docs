@@ -13,7 +13,7 @@
 - **([[a/_alcohol|alcohol]]) [[c/_clear|Clear]], [[f/_free|free]] of [[d/_dregs|dregs]] and [[l/_lees|lees]]; [[o/_old|old]] and [[s/_strong|strong]].**
 - **[[n/_no|No]] [[l/_longer|longer]] [[f/_fresh|fresh]], in [[r/_reference|reference]] to [[f/_food|food]], urine, [[s/_straw|straw]], wounds, [[e/_etc|etc]].**
 - **[[n/_no|No]] [[l/_longer|longer]] [[f/_fresh|fresh]], [[n/_new|new]], or [[i/_interesting|interesting]], in [[r/_reference|reference]] to [[i/_ideas|ideas]] and [[i/_immaterial|immaterial]] things; [[c/_cliche|cliche]], [[h/_hackneyed|hackneyed]], [[d/_dated|dated]].**
-- **[[n/_no|No]] [[l/_longer|longer]] [[n/_nubile|nubile]] or suitable for [[m/_marriage|marriage]], in [[r/_reference|reference]] to [[p/_people|people]]; [[p/_past|past]] [[o/_one|one]]'[[s/_s|s]] [[p/_prime|prime]].**
+- **[[n/_no|No]] [[l/_longer|longer]] [[n/_nubile|nubile]] or [[s/_suitable|suitable]] for [[m/_marriage|marriage]], in [[r/_reference|reference]] to [[p/_people|people]]; [[p/_past|past]] [[o/_one|one]]'[[s/_s|s]] [[p/_prime|prime]].**
 - **[[f/_fallow|Fallow]], in [[r/_reference|reference]] to [[l/_land|land]].**
 - **Unreasonably [[l/_long|long]] in [[c/_coming|coming]], in [[r/_reference|reference]] to [[c/_claims|claims]] and [[a/_actions|actions]].**
 	- _Example: a stale affidavit_

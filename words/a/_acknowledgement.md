@@ -8,7 +8,7 @@
 	- _Example: the acknowledgment of a favor_
 - **A [[m/_message|message]] from the [[a/_addressee|addressee]] [[i/_informing|informing]] the [[o/_originator|originator]] that the [[o/_originator|originator]]'[[s/_s|s]] [[c/_communication|communication]] [[h/_has|has]] [[b/_been|been]] [[r/_received|received]] and understood.**
 	- _Example: the acknowledgment of a wedding invitation_
-- **A [[r/_response|response]] ([[a/_ack|ACK]]) [[s/_sent|sent]] by a [[r/_receiver|receiver]] to [[i/_indicate|indicate]] successful [[r/_receipt|receipt]] of a transmission ([[s/_see|See]] Wikipedia [[a/_article|article]] on transmission).**
+- **A [[r/_response|response]] ([[a/_ack|ACK]]) [[s/_sent|sent]] by a [[r/_receiver|receiver]] to [[i/_indicate|indicate]] [[s/_successful|successful]] [[r/_receipt|receipt]] of a transmission ([[s/_see|See]] Wikipedia [[a/_article|article]] on transmission).**
 - **A [[r/_recognition|recognition]] as [[g/_genuine|genuine]] or valid; an [[a/_avowing|avowing]] or [[a/_admission|admission]] in [[l/_legal|legal]] [[f/_form|form]].**
 	- _Example: acknowledgment of a deed_
 - **The [[a/_act|act]] of a [[p/_person|person]] [[a/_admitting|admitting]] a [[c/_child|child]] as their [[o/_own|own]].**

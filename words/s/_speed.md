@@ -10,7 +10,7 @@
 - **The [[l/_largest|largest]] [[s/_size|size]] of the [[l/_lens|lens]] [[o/_opening|opening]] at which a [[l/_lens|lens]] [[c/_can|can]] be used.**
 - **The [[r/_ratio|ratio]] of the [[f/_focal|focal]] [[l/_length|length]] to the [[d/_diameter|diameter]] of a [[p/_photographic|photographic]] [[o/_objective|objective]].**
 - **[[a/_amphetamine|Amphetamine]] or [[a/_any|any]] [[a/_amphetamine|amphetamine]]-[[b/_based|based]] [[d/_drug|drug]] ([[e/_especially|especially]] [[m/_methamphetamine|methamphetamine]]) used as a [[s/_stimulant|stimulant]], [[e/_especially|especially]] [[i/_illegally|illegally]].**
-- **[[l/_luck|Luck]], success, [[p/_prosperity|prosperity]].**
+- **[[l/_luck|Luck]], [[s/_success|success]], [[p/_prosperity|prosperity]].**
 - **[[p/_personal|Personal]] [[p/_preference|preference]].**
 	- _Example: We could go to the shore next week, or somewhere else if that's not your speed._
 - **A third-[[o/_order|order]] [[m/_measure|measure]] of [[d/_derivative|derivative]] [[p/_price|price]] [[s/_sensitivity|sensitivity]], [[e/_expressed|expressed]] as the [[r/_rate|rate]] of [[c/_change|change]] of [[g/_gamma|gamma]] with [[r/_respect|respect]] to [[c/_changes|changes]] in the underlying [[a/_asset|asset]] [[p/_price|price]].**

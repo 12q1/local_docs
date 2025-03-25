@@ -14,7 +14,7 @@
 - [[m/_mature|mature]], [[e/_elden|elden]]
 #noun
 - **The [[p/_process|process]] of [[b/_becoming|becoming]] [[o/_older|older]] or [[m/_more|more]] [[m/_mature|mature]].**
-- **The [[d/_deliberate|deliberate]] [[p/_process|process]] of [[m/_making|making]] [[s/_something|something]] (such as an [[a/_antique|antique]]) [[a/_appear|appear]] (or, in [[s/_science|science]] [[f/_fiction|fiction]], [[b/_become|become]]) [[o/_older|older]] than it is.**
+- **The [[d/_deliberate|deliberate]] [[p/_process|process]] of [[m/_making|making]] [[s/_something|something]] ([[s/_such|such]] as an [[a/_antique|antique]]) [[a/_appear|appear]] (or, in [[s/_science|science]] [[f/_fiction|fiction]], [[b/_become|become]]) [[o/_older|older]] than it is.**
 - **[[b/_becoming|Becoming]] [[s/_senescent|senescent]]; [[a/_accumulating|accumulating]] [[d/_damage|damage]] to [[m/_macromolecules|macromolecules]], [[c/_cells|cells]], tissues and [[o/_organs|organs]] with the [[p/_passage|passage]] of time; [[p/_progressing|progressing]] [[l/_loss|loss]] of [[h/_health|health]], [[m/_mobility|mobility]], vibrancy and [[b/_body|body]] [[f/_functionality|functionality]], [[r/_resulting|resulting]] in [[b/_biological|biological]] [[d/_death|death]].**
 - **Wear, wear and tear.**
 ---

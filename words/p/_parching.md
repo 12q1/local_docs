@@ -9,11 +9,11 @@
 - **To [[m/_make|make]] thirsty.**
 	- _Example: We're parched, hon. Could you send up an ale from the cooler?_
 - **To [[b/_boil|boil]] [[s/_something|something]] [[s/_slowly|slowly]] ([[s/_still|Still]] used in [[l/_lancashire|Lancashire]] in [[p/_parched|parched]] [[p/_peas|peas]], a type of [[m/_mushy|mushy]] [[p/_peas|peas]]).**
-- **To [[b/_become|become]] superficially [[b/_burnt|burnt]]; be [[b/_become|become]] sunburned.**
+- **To [[b/_become|become]] [[s/_superficially|superficially]] [[b/_burnt|burnt]]; be [[b/_become|become]] [[s/_sunburned|sunburned]].**
 	- _Example: The locals watched, amused, as the tourists parched in the sun, having neglected to apply sunscreen or bring water._
 ---
 #noun
-- **The [[p/_process|process]] of [[p/_parching|parching]] or [[r/_roasting|roasting]] [[s/_something|something]], such as [[c/_corn|corn]].**
+- **The [[p/_process|process]] of [[p/_parching|parching]] or [[r/_roasting|roasting]] [[s/_something|something]], [[s/_such|such]] as [[c/_corn|corn]].**
 - **The [[c/_condition|condition]] of [[b/_being|being]] [[p/_parched|parched]]; [[a/_absolute|absolute]] [[d/_dryness|dryness]].**
 ---
 #adjective

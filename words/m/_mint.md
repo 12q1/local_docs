@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[b/_building|building]] or [[i/_institution|institution]] where [[m/_money|money]] ([[o/_originally|originally]], [[o/_only|only]] [[c/_coins|coins]]) is [[p/_produced|produced]] under [[g/_government|government]] [[l/_licence|licence]].**
-- **A [[l/_large|large]] [[a/_amount|amount]] of [[m/_money|money]]. A vast sum or [[a/_amount|amount]], [[e/_etc|etc]].**
+- **A [[l/_large|large]] [[a/_amount|amount]] of [[m/_money|money]]. A vast [[s/_sum|sum]] or [[a/_amount|amount]], [[e/_etc|etc]].**
 	- _Example: It must have cost a mint to produce!_
 - **[[a/_any|Any]] [[p/_place|place]] [[r/_regarded|regarded]] as a [[s/_source|source]] of unlimited supply; the supply [[i/_itself|itself]].**
 ---

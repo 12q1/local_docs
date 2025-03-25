@@ -5,7 +5,7 @@
 - **A [[b/_bag|bag]] [[c/_containing|containing]] [[l/_letters|letters]] to be [[d/_delivered|delivered]] by [[p/_post|post]].**
 - **The [[m/_material|material]] [[c/_conveyed|conveyed]] by the [[p/_postal|postal]] [[s/_service|service]].**
 	- _Example: Don't forget to pick up the mail on your way._
-- **A [[s/_stagecoach|stagecoach]], train or [[s/_ship|ship]] that [[d/_delivers|delivers]] such [[p/_post|post]].**
+- **A [[s/_stagecoach|stagecoach]], train or [[s/_ship|ship]] that [[d/_delivers|delivers]] [[s/_such|such]] [[p/_post|post]].**
 - **The [[p/_postal|postal]] [[s/_service|service]] or [[s/_system|system]] in [[g/_general|general]].**
 	- _Example: He decided to send his declaration by mail._
 - **The [[l/_letters|letters]], [[p/_parcels|parcels]], [[e/_etc|etc]]. [[d/_delivered|delivered]] to a [[p/_particular|particular]] [[a/_address|address]] or [[p/_person|person]].**

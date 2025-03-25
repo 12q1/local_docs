@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[i/_insane|Insane]] or [[m/_mentally|mentally]] [[i/_ill|ill]].**
-- **Suffering from [[d/_dementia|dementia]].**
+- **[[s/_suffering|Suffering]] from [[d/_dementia|dementia]].**
 - **[[c/_crazy|Crazy]]; [[r/_ridiculous|ridiculous]].**
 	- _Example: a demented idea_
 ---

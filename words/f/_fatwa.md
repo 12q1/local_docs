@@ -5,6 +5,6 @@
 	- _Example: I think the fatwas on that website are totally unreliable._
 ---
 #verb
-- **To [[m/_make|make]] [[s/_somebody|somebody]] the subject of a [[f/_fatwa|fatwa]], [[e/_especially|especially]] a [[b/_ban|ban]] or [[d/_death|death]] [[s/_sentence|sentence]].**
+- **To [[m/_make|make]] [[s/_somebody|somebody]] the [[s/_subject|subject]] of a [[f/_fatwa|fatwa]], [[e/_especially|especially]] a [[b/_ban|ban]] or [[d/_death|death]] [[s/_sentence|sentence]].**
 ---
 ---

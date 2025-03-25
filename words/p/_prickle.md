@@ -1,7 +1,7 @@
 # Prickle
 ---
 #noun
-- **A [[s/_small|small]], [[s/_sharp|sharp]] [[p/_pointed|pointed]] [[o/_object|object]], such as a thorn.**
+- **A [[s/_small|small]], [[s/_sharp|sharp]] [[p/_pointed|pointed]] [[o/_object|object]], [[s/_such|such]] as a thorn.**
 - **A tingling [[s/_sensation|sensation]] of [[m/_mild|mild]] [[d/_discomfort|discomfort]].**
 - **A [[k/_kind|kind]] of willow [[b/_basket|basket]].**
 - **A [[s/_sieve|sieve]] of [[h/_hazelnuts|hazelnuts]], weighing [[a/_about|about]] [[f/_fifty|fifty]] [[p/_pounds|pounds]].**

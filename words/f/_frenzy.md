@@ -7,7 +7,7 @@
 ---
 #verb
 - **To [[r/_render|render]] [[f/_frantic|frantic]].**
-- **To [[e/_exhibit|exhibit]] a [[f/_frenzy|frenzy]], such as a [[f/_feeding|feeding]] [[f/_frenzy|frenzy]].**
+- **To [[e/_exhibit|exhibit]] a [[f/_frenzy|frenzy]], [[s/_such|such]] as a [[f/_feeding|feeding]] [[f/_frenzy|frenzy]].**
 ---
 #adjective
 - **[[m/_mad|Mad]]; [[f/_frantic|frantic]].**

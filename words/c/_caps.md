@@ -9,7 +9,7 @@
 	- _Example: He took the cap off the bottle and splashed himself with some cologne._
 - **A [[c/_crown|crown]] for [[c/_covering|covering]] a tooth.**
 	- _Example: He had golden caps on his teeth._
-- **The summit of a [[m/_mountain|mountain]], [[e/_etc|etc]].**
+- **The [[s/_summit|summit]] of a [[m/_mountain|mountain]], [[e/_etc|etc]].**
 	- _Example: There was snow on the cap of the mountain._
 - **An [[a/_artificial|artificial]] upper [[l/_limit|limit]] or [[c/_ceiling|ceiling]].**
 	- _Example: We should put a cap on the salaries, to keep them under control._

@@ -10,12 +10,12 @@
 - **A [[l/_large|large]], [[l/_luxury|luxury]] [[p/_pre|pre]]-1980 [[g/_general|General]] [[m/_motors|Motors]] vehicle, [[p/_particularly|particularly]] a [[b/_buick|Buick]], [[o/_oldsmobile|Oldsmobile]] or [[c/_cadillac|Cadillac]].**
 - **A very [[l/_large|large]] wave.**
 - **A [[s/_sequence|sequence]] of 12 [[a/_adjacent|adjacent]] [[b/_bits|bits]], [[s/_serving|serving]] as a [[b/_byte|byte]] in [[s/_some|some]] [[c/_computers|computers]].**
-- **[[p/_part|Part]] of a tectonic [[p/_plate|plate]] that is [[b/_being|being]] subducted.**
+- **[[p/_part|Part]] of a tectonic [[p/_plate|plate]] that is [[b/_being|being]] [[s/_subducted|subducted]].**
 ---
 #noun
 - **[[m/_mud|Mud]], [[s/_sludge|sludge]].**
 ---
 #noun
-- **A [[c/_car|car]] that [[h/_has|has]] [[b/_been|been]] [[m/_modified|modified]] with [[e/_equipment|equipment]] such as [[l/_loudspeakers|loudspeakers]], [[l/_lights|lights]], [[s/_special|special]] [[p/_paint|paint]], [[h/_hydraulics|hydraulics]], and [[o/_other|other]] [[a/_accessories|accessories]].**
+- **A [[c/_car|car]] that [[h/_has|has]] [[b/_been|been]] [[m/_modified|modified]] with [[e/_equipment|equipment]] [[s/_such|such]] as [[l/_loudspeakers|loudspeakers]], [[l/_lights|lights]], [[s/_special|special]] [[p/_paint|paint]], [[h/_hydraulics|hydraulics]], and [[o/_other|other]] [[a/_accessories|accessories]].**
 ---
 ---

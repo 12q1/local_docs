@@ -10,7 +10,7 @@
 	- _Example: The fields were planted with grain._
 - **A [[l/_linear|linear]] texture of a [[m/_material|material]] or surface.**
 	- _Example: Cut along the grain of the wood._
-- **A [[s/_single|single]] [[p/_particle|particle]] of a substance.**
+- **A [[s/_single|single]] [[p/_particle|particle]] of a [[s/_substance|substance]].**
 	- _Example: a grain of salt_
 - **A very [[s/_small|small]] unit of weight, in [[e/_england|England]] [[e/_equal|equal]] to 1/480 of an [[o/_ounce|ounce]] troy, 0.0648 [[g/_grams|grams]] or, to be [[m/_more|more]] [[e/_exact|exact]], 64.79891 [[m/_milligrams|milligrams]] (0.002285714 [[a/_avoirdupois|avoirdupois]] [[o/_ounce|ounce]]). A [[c/_carat|carat]] [[g/_grain|grain]] or [[p/_pearl|pearl]] [[g/_grain|grain]] is 1/4 [[c/_carat|carat]] or 50 [[m/_milligrams|milligrams]]. The [[o/_old|old]] [[f/_french|French]] [[g/_grain|grain]] was 1/9216 [[l/_livre|livre]] or 53.11 [[m/_milligrams|milligrams]], and in the mesures usuelles [[p/_permitted|permitted]] from 1812 to 1839, with the [[l/_livre|livre]] [[r/_redefined|redefined]] as 500 [[g/_grams|grams]], it was 54.25 [[m/_milligrams|milligrams]].**
 - **A [[f/_former|former]] unit of [[g/_gold|gold]] [[p/_purity|purity]], [[a/_also|also]] [[k/_known|known]] as [[c/_carat|carat]] [[g/_grain|grain]], [[e/_equal|equal]] to 1/4 "[[c/_carat|carat]]" ([[k/_karat|karat]]).**
@@ -26,7 +26,7 @@
 - **To [[f/_feed|feed]] [[g/_grain|grain]] to.**
 - **To [[m/_make|make]] [[g/_granular|granular]]; to [[f/_form|form]] [[i/_into|into]] [[g/_grains|grains]].**
 - **To [[f/_form|form]] [[g/_grains|grains]], or to [[a/_assume|assume]] a [[g/_granular|granular]] [[f/_form|form]], as the [[r/_result|result]] of [[c/_crystallization|crystallization]]; to [[g/_granulate|granulate]].**
-- **To texture a surface in [[i/_imitation|imitation]] of the [[g/_grain|grain]] of a substance such as wood.**
+- **To texture a surface in [[i/_imitation|imitation]] of the [[g/_grain|grain]] of a [[s/_substance|substance]] [[s/_such|such]] as wood.**
 - **(tanning) To [[r/_remove|remove]] the [[h/_hair|hair]] or [[f/_fat|fat]] from a [[s/_skin|skin]].**
 - **(tanning) To [[s/_soften|soften]] [[l/_leather|leather]].**
 - **To [[y/_yield|yield]] [[f/_fruit|fruit]].**

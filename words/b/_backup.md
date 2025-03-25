@@ -1,7 +1,7 @@
 # Backup
 ---
 #noun
-- **A [[r/_reserve|reserve]] or substitute.**
+- **A [[r/_reserve|reserve]] or [[s/_substitute|substitute]].**
 	- _Example: If the goalkeeper is injured, we have a backup._
 - **A [[c/_copy|copy]] of a [[f/_file|file]] or [[r/_record|record]], [[s/_stored|stored]] [[s/_separately|separately]] from the [[o/_original|original]], that [[c/_can|can]] be used to [[r/_recover|recover]] the [[o/_original|original]] [[i/_if|if]] it is [[d/_destroyed|destroyed]] or [[d/_damaged|damaged]].**
 	- _Example: After the power failure, we had to restore the database from backup._

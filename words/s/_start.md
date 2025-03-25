@@ -3,7 +3,7 @@
 #noun
 - **The [[b/_beginning|beginning]] of an [[a/_activity|activity]].**
 	- _Example: The movie was entertaining from start to finish._
-- **A sudden [[i/_involuntary|involuntary]] [[m/_movement|movement]].**
+- **A [[s/_sudden|sudden]] [[i/_involuntary|involuntary]] [[m/_movement|movement]].**
 	- _Example: He woke with a start._
 - **The [[b/_beginning|beginning]] [[p/_point|point]] of a [[r/_race|race]], a [[b/_board|board]] [[g/_game|game]], [[e/_etc|etc]].**
 	- _Example: Captured pieces are returned to the start of the board._

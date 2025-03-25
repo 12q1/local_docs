@@ -7,7 +7,7 @@
 - **To [[a/_allow|allow]], to [[a/_admit|admit]] (of).**
 - **([[p/_pronounced|pronounced]] [[l/_like|like]] [[n/_noun|noun]]) To [[g/_grant|grant]] [[f/_formal|formal]] [[a/_authorization|authorization]] for ([[s/_something|something]]).**
 	- _Example: The Building Department permitted that project last week._
-- **([[p/_pronounced|pronounced]] [[l/_like|like]] [[n/_noun|noun]]) To [[a/_attempt|attempt]] to [[o/_obtain|obtain]] or succeed in [[o/_obtaining|obtaining]] [[f/_formal|formal]] [[a/_authorization|authorization]] for ([[s/_something|something]]).**
+- **([[p/_pronounced|pronounced]] [[l/_like|like]] [[n/_noun|noun]]) To [[a/_attempt|attempt]] to [[o/_obtain|obtain]] or [[s/_succeed|succeed]] in [[o/_obtaining|obtaining]] [[f/_formal|formal]] [[a/_authorization|authorization]] for ([[s/_something|something]]).**
 	- _Example: We've been busy permitting the State Street development._
 - **To [[h/_hand|hand]] [[o/_over|over]], [[r/_resign|resign]] ([[s/_something|something]] to [[s/_someone|someone]]).**
 ---

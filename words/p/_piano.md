@@ -8,6 +8,6 @@
 - [[p/_pianoforte|pianoforte]]
 #adjective
 - **[[s/_soft|Soft]], [[q/_quiet|quiet]]**
-- **In [[e/_extended|extended]] use; [[q/_quiet|quiet]], subdued**
+- **In [[e/_extended|extended]] use; [[q/_quiet|quiet]], [[s/_subdued|subdued]]**
 ---
 ---

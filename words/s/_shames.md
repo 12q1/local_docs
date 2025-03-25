@@ -5,7 +5,7 @@
 	- _Example: The teenager couldn’t bear the shame of introducing his parents._
 - **[[s/_something|Something]] to [[r/_regret|regret]].**
 	- _Example: It was a shame not to see the show after driving all that way._
-- **[[r/_reproach|Reproach]] [[i/_incurred|incurred]] or suffered; [[d/_dishonour|dishonour]]; [[i/_ignominy|ignominy]]; [[d/_derision|derision]].**
+- **[[r/_reproach|Reproach]] [[i/_incurred|incurred]] or [[s/_suffered|suffered]]; [[d/_dishonour|dishonour]]; [[i/_ignominy|ignominy]]; [[d/_derision|derision]].**
 - **The [[c/_cause|cause]] or [[r/_reason|reason]] of [[s/_shame|shame]]; that which [[b/_brings|brings]] [[r/_reproach|reproach]] and [[i/_ignominy|ignominy]].**
 - **That which is [[s/_shameful|shameful]] and [[p/_private|private]], [[e/_especially|especially]] [[p/_private|private]] [[p/_parts|parts]].**
 ---

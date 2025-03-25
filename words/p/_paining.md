@@ -5,6 +5,6 @@
 	- _Example: The wound pained him._
 - **To [[r/_render|render]] uneasy in [[m/_mind|mind]]; to [[d/_disquiet|disquiet]]; to [[d/_distress|distress]]; to [[g/_grieve|grieve]].**
 	- _Example: It pains me to say that I must let you go._
-- **To [[i/_inflict|inflict]] suffering upon as a [[p/_penalty|penalty]]; to [[p/_punish|punish]].**
+- **To [[i/_inflict|inflict]] [[s/_suffering|suffering]] upon as a [[p/_penalty|penalty]]; to [[p/_punish|punish]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Pollards
 ---
 #noun
-- **A [[p/_pruned|pruned]] tree; the wood of such trees.**
+- **A [[p/_pruned|pruned]] tree; the wood of [[s/_such|such]] trees.**
 - **A [[b/_buck|buck]] [[d/_deer|deer]] that [[h/_has|has]] [[s/_shed|shed]] [[i/_its|its]] [[a/_antlers|antlers]].**
 - **A [[h/_hornless|hornless]] variety of [[d/_domestic|domestic]] [[a/_animal|animal]], as [[c/_cattle|cattle]] or [[g/_goats|goats]].**
 - **A [[e/_european|European]] [[c/_chub|chub]] (Squalius cephalus, [[s/_syn|syn]]. Leuciscus cephalus), a [[k/_kind|kind]] of [[f/_fish|fish]].**

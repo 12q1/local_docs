@@ -3,7 +3,7 @@
 #noun
 - **A [[m/_mound|mound]] of [[e/_earth|earth]].**
 - **A [[d/_deformity|deformity]] in [[h/_humans|humans]] [[c/_caused|caused]] by [[a/_abnormal|abnormal]] [[c/_curvature|curvature]] of the upper [[s/_spine|spine]].**
-- **([[a/_animals|animals]]) A [[r/_rounded|rounded]] [[f/_fleshy|fleshy]] [[m/_mass|mass]], such as on a [[c/_camel|camel]] or zebu.**
+- **([[a/_animals|animals]]) A [[r/_rounded|rounded]] [[f/_fleshy|fleshy]] [[m/_mass|mass]], [[s/_such|such]] as on a [[c/_camel|camel]] or zebu.**
 - **An [[a/_act|act]] of [[s/_sexual|sexual]] [[i/_intercourse|intercourse]].**
 - **(with [[d/_definite|definite]] [[a/_article|article]]) A [[b/_bad|bad]] [[m/_mood|mood]].**
 	- _Example: get the hump, have the hump, take the hump, give someone the hump_

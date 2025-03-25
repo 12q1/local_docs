@@ -8,6 +8,6 @@
 - **A [[p/_postal|postal]] or [[o/_other|other]] written [[c/_communication|communication]].**
 - **[[p/_postal|Postal]] or [[o/_other|other]] written [[c/_communications|communications]].**
 - **A [[r/_relation|relation]].**
-- **[[a/_according|According]] to Swedenborg, a [[r/_relationship|relationship]] of [[s/_similarity|similarity]] [[b/_between|between]] [[p/_physical|physical]] and [[s/_spiritual|spiritual]] things, such as that of [[l/_light|light]] to wisdom, or warmth to [[l/_love|love]].**
+- **[[a/_according|According]] to Swedenborg, a [[r/_relationship|relationship]] of [[s/_similarity|similarity]] [[b/_between|between]] [[p/_physical|physical]] and [[s/_spiritual|spiritual]] things, [[s/_such|such]] as that of [[l/_light|light]] to wisdom, or warmth to [[l/_love|love]].**
 ---
 ---

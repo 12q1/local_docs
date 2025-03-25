@@ -8,7 +8,7 @@
 	- _Example: Ann gossiped about me and mocked my work; sometimes she can be a real bitch!_
 - **A woman.**
 - **A [[m/_man|man]] [[c/_considered|considered]] weak, [[e/_effeminate|effeminate]], timid or [[p/_pathetic|pathetic]] in [[s/_some|some]] way**
-- **A submissive [[p/_person|person]] who [[d/_does|does]] what [[o/_others|others]] want; a [[m/_man|man]] [[f/_forced|forced]] or [[c/_coerced|coerced]] [[i/_into|into]] a [[h/_homoerotic|homoerotic]] [[r/_relationship|relationship]].**
+- **A [[s/_submissive|submissive]] [[p/_person|person]] who [[d/_does|does]] what [[o/_others|others]] want; a [[m/_man|man]] [[f/_forced|forced]] or [[c/_coerced|coerced]] [[i/_into|into]] a [[h/_homoerotic|homoerotic]] [[r/_relationship|relationship]].**
 	- _Example: Dude, don't be such a bitch. Assert yourself._
 - **(of a [[m/_man|man]]) A [[p/_playful|playful]] variation on [[d/_dog|dog]] ([[s/_sense|sense]] "[[m/_man|man]]").**
 - **(used with a [[p/_possessive|possessive]] [[p/_pronoun|pronoun]]) [[f/_friend|Friend]].**
@@ -34,7 +34,7 @@
 - **A [[c/_cargo|cargo]] vessel, a [[s/_ship|ship]].**
 - **[[c/_certain|Certain]] [[p/_parts|parts]] of a vessel, [[p/_particularly|particularly]] the [[c/_cargo|cargo]] [[h/_hold|hold]] or the [[p/_portion|portion]] of the [[s/_ship|ship]] that is [[a/_always|always]] underwater.**
 - **The [[s/_second|second]] [[h/_half|half]] of an [[i/_inning|inning]], the [[h/_home|home]] team'[[s/_s|s]] turn at [[b/_bat|bat]].**
-- **(BDSM) A submissive in [[s/_sadomasochistic|sadomasochistic]] [[s/_sexual|sexual]] [[a/_activity|activity]].**
+- **(BDSM) A [[s/_submissive|submissive]] in [[s/_sadomasochistic|sadomasochistic]] [[s/_sexual|sexual]] [[a/_activity|activity]].**
 - **A [[p/_person|person]] with a [[p/_preference|preference]] for [[b/_being|being]] [[p/_penetrated|penetrated]] [[d/_during|during]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]].**
 - **A [[b/_bottom|bottom]] [[q/_quark|quark]].**
 - **The [[l/_lowest|lowest]] [[p/_part|part]] of a [[c/_container|container]].**

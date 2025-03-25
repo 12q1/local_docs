@@ -2,7 +2,7 @@
 ---
 #noun
 - **A sweet-[[s/_smelling|smelling]] [[o/_oil|oil]] or [[r/_resin|resin]] [[d/_derived|derived]] from various [[p/_plants|plants]].**
-- **A [[p/_plant|plant]] or tree [[y/_yielding|yielding]] such substance.**
+- **A [[p/_plant|plant]] or tree [[y/_yielding|yielding]] [[s/_such|such]] [[s/_substance|substance]].**
 - **A [[s/_soothing|soothing]] [[o/_ointment|ointment]].**
 - **[[s/_something|Something]] [[s/_soothing|soothing]].**
 	- _Example: Classical music is a sweet balsam for our sorrows_

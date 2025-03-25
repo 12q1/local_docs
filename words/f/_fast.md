@@ -18,7 +18,7 @@
 	- _Example: a fast billiard table_
 - **(of a [[p/_piece|piece]] of [[h/_hardware|hardware]]) [[a/_able|Able]] to transfer [[d/_data|data]] in a [[s/_short|short]] [[p/_period|period]] of time.**
 - **[[d/_deep|Deep]] or [[s/_sound|sound]] (of [[s/_sleep|sleep]]); [[f/_fast|fast]] [[a/_asleep|asleep]] (of [[p/_people|people]]).**
-- **(of [[d/_dyes|dyes]] or [[c/_colours|colours]]) Not [[r/_running|running]] or [[f/_fading|fading]] when subjected to [[d/_detrimental|detrimental]] [[c/_conditions|conditions]] such as wetness or [[i/_intense|intense]] [[l/_light|light]]; [[p/_permanent|permanent]].**
+- **(of [[d/_dyes|dyes]] or [[c/_colours|colours]]) Not [[r/_running|running]] or [[f/_fading|fading]] when [[s/_subjected|subjected]] to [[d/_detrimental|detrimental]] [[c/_conditions|conditions]] [[s/_such|such]] as wetness or [[i/_intense|intense]] [[l/_light|light]]; [[p/_permanent|permanent]].**
 	- _Example: All the washing has come out pink. That red tee-shirt was not fast._
 - **Tenacious; [[r/_retentive|retentive]].**
 - **[[h/_having|Having]] an [[e/_extravagant|extravagant]] [[l/_lifestyle|lifestyle]] or [[i/_immoral|immoral]] [[h/_habits|habits]].**
@@ -32,7 +32,7 @@
 ### Antonyms
 - [[s/_slow|slow]], [[b/_behind|behind]], [[s/_slow|slow]], [[l/_light|light]], [[l/_loose|loose]], [[p/_penetrable|penetrable]], [[w/_weak|weak]]
 #adverb
-- **In a [[f/_firm|firm]] or [[s/_secure|secure]] [[m/_manner|manner]], [[s/_securely|securely]]; in such a way as not to be [[m/_moved|moved]]; [[s/_safe|safe]], [[s/_sound|sound]] .**
+- **In a [[f/_firm|firm]] or [[s/_secure|secure]] [[m/_manner|manner]], [[s/_securely|securely]]; in [[s/_such|such]] a way as not to be [[m/_moved|moved]]; [[s/_safe|safe]], [[s/_sound|sound]] .**
 	- _Example: Hold this rope as fast as you can._
 - **(of [[s/_sleeping|sleeping]]) [[d/_deeply|Deeply]] or [[s/_soundly|soundly]] .**
 	- _Example: He is fast asleep._

@@ -1,9 +1,9 @@
 # Models
 ---
 #noun
-- **A [[p/_person|person]] who [[s/_serves|serves]] as a subject for [[a/_artwork|artwork]] or [[f/_fashion|fashion]], usually in the [[m/_medium|medium]] of [[p/_photography|photography]] but [[a/_also|also]] for [[p/_painting|painting]] or [[d/_drawing|drawing]].**
+- **A [[p/_person|person]] who [[s/_serves|serves]] as a [[s/_subject|subject]] for [[a/_artwork|artwork]] or [[f/_fashion|fashion]], usually in the [[m/_medium|medium]] of [[p/_photography|photography]] but [[a/_also|also]] for [[p/_painting|painting]] or [[d/_drawing|drawing]].**
 	- _Example: The beautiful model had her face on the cover of almost every fashion magazine imaginable._
-- **A [[p/_person|person]], usually an [[a/_attractive|attractive]] [[f/_female|female]], [[h/_hired|hired]] to [[s/_show|show]] [[i/_items|items]] or [[g/_goods|goods]] to the [[p/_public|public]], such as [[i/_items|items]] [[g/_given|given]] [[a/_away|away]] as [[p/_prizes|prizes]] on a TV [[g/_game|game]] [[s/_show|show]].**
+- **A [[p/_person|person]], usually an [[a/_attractive|attractive]] [[f/_female|female]], [[h/_hired|hired]] to [[s/_show|show]] [[i/_items|items]] or [[g/_goods|goods]] to the [[p/_public|public]], [[s/_such|such]] as [[i/_items|items]] [[g/_given|given]] [[a/_away|away]] as [[p/_prizes|prizes]] on a TV [[g/_game|game]] [[s/_show|show]].**
 - **A [[r/_representation|representation]] of a [[p/_physical|physical]] [[o/_object|object]], usually in [[m/_miniature|miniature]].**
 	- _Example: The boy played with a model of a World War II fighter plane._
 - **A [[s/_simplified|simplified]] [[r/_representation|representation]] used to [[e/_explain|explain]] the workings of a [[r/_real|real]] world [[s/_system|system]] or [[e/_event|event]].**
@@ -12,7 +12,7 @@
 	- _Example: He decided to buy the turbo engine model of the sports car._
 - **The [[s/_structural|structural]] [[d/_design|design]] of a [[c/_complex|complex]] [[s/_system|system]].**
 	- _Example: The team developed a sound business model._
-- **A successful [[e/_example|example]] to be [[c/_copied|copied]], with or without [[m/_modifications|modifications]].**
+- **A [[s/_successful|successful]] [[e/_example|example]] to be [[c/_copied|copied]], with or without [[m/_modifications|modifications]].**
 	- _Example: British parliamentary democracy was seen as a model for other countries to follow._
 - **An [[i/_interpretation|interpretation]] [[f/_function|function]] which [[a/_assigns|assigns]] a truth value to [[e/_each|each]] [[a/_atomic|atomic]] [[p/_proposition|proposition]].**
 - **An [[i/_interpretation|interpretation]] which [[m/_makes|makes]] a [[s/_set|set]] of [[s/_sentences|sentences]] true, in which [[c/_case|case]] that [[i/_interpretation|interpretation]] is [[c/_called|called]] a [[m/_model|model]] of that [[s/_set|set]].**
@@ -27,7 +27,7 @@
 	- _Example: They modelled the data with a computer to analyze the experiment’s results._
 - **To [[m/_make|make]] a [[m/_miniature|miniature]] [[m/_model|model]] of**
 	- _Example: He takes great pride in his skill at modeling airplanes._
-- **To [[c/_create|create]] from a substance such as [[c/_clay|clay]]**
+- **To [[c/_create|create]] from a [[s/_substance|substance]] [[s/_such|such]] as [[c/_clay|clay]]**
 	- _Example: The sculptor modelled the clay into the form of a dolphin._
 - **To [[m/_make|make]] a [[m/_model|model]] or [[m/_models|models]]**
 - **To be a [[m/_model|model]] of [[a/_any|any]] [[k/_kind|kind]]**

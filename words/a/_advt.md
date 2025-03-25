@@ -8,7 +8,7 @@
 - **A [[r/_recommendation|recommendation]] of a [[p/_particular|particular]] [[p/_product|product]], [[s/_service|service]] or [[p/_person|person]].**
 	- _Example: The good manners and intelligence of the students are an advertisement for the school._
 - **[[n/_notoriety|Notoriety]].**
-- **In [[g/_gin|gin]] [[r/_rummy|rummy]], the [[d/_discarding|discarding]] of a [[c/_card|card]] of [[o/_one|one]]'[[s/_s|s]] [[p/_preferred|preferred]] suit [[s/_so|so]] as to [[m/_mislead|mislead]] the [[o/_opponent|opponent]] [[i/_into|into]] thinking [[y/_you|you]] [[d/_do|do]] not want it.**
+- **In [[g/_gin|gin]] [[r/_rummy|rummy]], the [[d/_discarding|discarding]] of a [[c/_card|card]] of [[o/_one|one]]'[[s/_s|s]] [[p/_preferred|preferred]] [[s/_suit|suit]] [[s/_so|so]] as to [[m/_mislead|mislead]] the [[o/_opponent|opponent]] [[i/_into|into]] thinking [[y/_you|you]] [[d/_do|do]] not want it.**
 ---
 ### Synonyms
 - [[a/_ad|ad]], [[a/_advert|advert]]

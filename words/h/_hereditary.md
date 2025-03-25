@@ -11,7 +11,7 @@
 	- _Example: hereditary rulers_
 - **Of a [[d/_disease|disease]] or trait: [[p/_passed|passed]] from a [[p/_parent|parent]] to [[o/_offspring|offspring]] in the [[g/_genes|genes]]**
 	- _Example: Haemophilia is hereditary in his family._
-- **Of a [[r/_ring|ring]]: such that [[a/_all|all]] submodules of [[p/_projective|projective]] [[m/_modules|modules]] [[o/_over|over]] the [[r/_ring|ring]] are [[a/_also|also]] [[p/_projective|projective]].**
+- **Of a [[r/_ring|ring]]: [[s/_such|such]] that [[a/_all|all]] [[s/_submodules|submodules]] of [[p/_projective|projective]] [[m/_modules|modules]] [[o/_over|over]] the [[r/_ring|ring]] are [[a/_also|also]] [[p/_projective|projective]].**
 ---
 ### Synonyms
 - [[i/_inhereditary|inhereditary]]

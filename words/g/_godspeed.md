@@ -1,7 +1,7 @@
 # Godspeed
 ---
 #noun
-- **A [[s/_statement|statement]] of wishing [[s/_someone|someone]] a [[p/_prosperous|prosperous]] [[j/_journey|journey]], or success.**
+- **A [[s/_statement|statement]] of wishing [[s/_someone|someone]] a [[p/_prosperous|prosperous]] [[j/_journey|journey]], or [[s/_success|success]].**
 ---
 ### Synonyms
 - [[f/_farewell|farewell]], [[g/_goodbye|goodbye]]

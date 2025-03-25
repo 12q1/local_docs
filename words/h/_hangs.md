@@ -25,7 +25,7 @@
 - **To [[r/_remain|remain]] [[p/_persistently|persistently]] in [[o/_one|one]]'[[s/_s|s]] thoughts.**
 - **To [[p/_prevent|prevent]] from [[r/_reaching|reaching]] a [[d/_decision|decision]], [[e/_especially|especially]] by [[r/_refusing|refusing]] to [[j/_join|join]] in a verdict that [[m/_must|must]] be unanimous.**
 	- _Example: One obstinate juror can hang a jury._
-- **To [[s/_stop|stop]] [[r/_responding|responding]] to [[m/_manual|manual]] [[i/_input|input]] [[d/_devices|devices]] such as [[k/_keyboard|keyboard]] and [[m/_mouse|mouse]].**
+- **To [[s/_stop|stop]] [[r/_responding|responding]] to [[m/_manual|manual]] [[i/_input|input]] [[d/_devices|devices]] [[s/_such|such]] as [[k/_keyboard|keyboard]] and [[m/_mouse|mouse]].**
 	- _Example: The computer has hung again. Not even pressing ++ works.  When I push this button the program hangs._
 - **To [[c/_cause|cause]] (a [[p/_program|program]] or [[c/_computer|computer]]) to [[s/_stop|stop]] [[r/_responding|responding]].**
 	- _Example: The program has a bug that can hang the system._

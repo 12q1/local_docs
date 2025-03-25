@@ -13,9 +13,9 @@
 - **A [[d/_disagreement|disagreement]]; a [[d/_difference|difference]] of viewpoint [[b/_between|between]] two [[s/_sides|sides]] of an [[a/_argument|argument]].**
 - **A [[m/_method|method]] by which a [[l/_legislature|legislature]] is [[s/_separated|separated]] [[i/_into|into]] [[g/_groups|groups]] in [[o/_order|order]] to take a [[b/_better|better]] [[e/_estimate|estimate]] of vote than a voice vote.**
 	- _Example: The House of Commons has voted to approve the third reading of the bill without a division. The bill will now progress to the House of Lords._
-- **A [[f/_florid|florid]] [[i/_instrumental|instrumental]] variation of a [[m/_melody|melody]] in the 17th and 18th [[c/_centuries|centuries]], [[o/_originally|originally]] [[c/_conceived|conceived]] as the [[d/_dividing|dividing]] of [[e/_each|each]] of a succession of [[l/_long|long]] [[n/_notes|notes]] [[i/_into|into]] [[s/_several|several]] [[s/_short|short]] [[o/_ones|ones]].**
+- **A [[f/_florid|florid]] [[i/_instrumental|instrumental]] variation of a [[m/_melody|melody]] in the 17th and 18th [[c/_centuries|centuries]], [[o/_originally|originally]] [[c/_conceived|conceived]] as the [[d/_dividing|dividing]] of [[e/_each|each]] of a [[s/_succession|succession]] of [[l/_long|long]] [[n/_notes|notes]] [[i/_into|into]] [[s/_several|several]] [[s/_short|short]] [[o/_ones|ones]].**
 - **A [[s/_set|set]] of [[p/_pipes|pipes]] in a [[p/_pipe|pipe]] [[o/_organ|organ]] which are [[i/_independently|independently]] [[c/_controlled|controlled]] and supplied.**
-- **A [[c/_concept|concept]] whereby a [[c/_common|common]] [[g/_group|group]] of [[d/_debtors|debtors]] are [[o/_only|only]] [[r/_responsible|responsible]] for their [[p/_proportionate|proportionate]] sum of the total [[d/_debt|debt]].**
+- **A [[c/_concept|concept]] whereby a [[c/_common|common]] [[g/_group|group]] of [[d/_debtors|debtors]] are [[o/_only|only]] [[r/_responsible|responsible]] for their [[p/_proportionate|proportionate]] [[s/_sum|sum]] of the total [[d/_debt|debt]].**
 - **[[a/_any|Any]] of the [[f/_four|four]] [[m/_major|major]] [[p/_parts|parts]] of a [[c/_cobol|COBOL]] [[p/_program|program]] [[s/_source|source]] [[c/_code|code]]**
 - **([[e/_eton|Eton]] [[c/_college|College]]) A [[l/_lesson|lesson]]; a [[c/_class|class]].**
 ---

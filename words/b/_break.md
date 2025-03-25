@@ -73,10 +73,10 @@
 	- _Example: He survived the jump out the window because the bushes below broke his fall._
 - **To [[d/_disclose|disclose]] or [[m/_make|make]] [[k/_known|known]] an [[i/_item|item]] of [[n/_news|news]], [[e/_etc|etc]].**
 	- _Example: I don't know how to break this to you, but your cat is not coming back._
-- **(of a [[s/_sound|sound]]) To [[b/_become|become]] [[a/_audible|audible]] suddenly.**
+- **(of a [[s/_sound|sound]]) To [[b/_become|become]] [[a/_audible|audible]] [[s/_suddenly|suddenly]].**
 - **To [[c/_change|change]] a [[s/_steady|steady]] [[s/_state|state]] [[a/_abruptly|abruptly]].**
 	- _Example: His coughing broke the silence._
-- **To suddenly [[b/_become|become]].**
+- **To [[s/_suddenly|suddenly]] [[b/_become|become]].**
 	- _Example: The arrest was standard, when suddenly the suspect broke ugly._
 - **Of a [[m/_male|male]] voice, to [[b/_become|become]] [[d/_deeper|deeper]] at [[p/_puberty|puberty]].**
 - **Of a voice, to [[a/_alter|alter]] in type [[d/_due|due]] to [[e/_emotion|emotion]] or [[s/_strain|strain]]: in [[m/_men|men]] [[g/_generally|generally]] to [[g/_go|go]] up, in women [[s/_sometimes|sometimes]] to [[g/_go|go]] [[d/_down|down]]; to [[c/_crack|crack]].**
@@ -95,7 +95,7 @@
 - **To [[d/_destroy|destroy]] the [[s/_strength|strength]], [[f/_firmness|firmness]], or [[c/_consistency|consistency]] of.**
 	- _Example: to break flax_
 - **To [[d/_destroy|destroy]] the [[o/_official|official]] [[c/_character|character]] and [[s/_standing|standing]] of; to [[c/_cashier|cashier]]; to [[d/_dismiss|dismiss]].**
-- **To [[m/_make|make]] an [[a/_abrupt|abrupt]] or sudden [[c/_change|change]]; to [[c/_change|change]] the [[g/_gait|gait]].**
+- **To [[m/_make|make]] an [[a/_abrupt|abrupt]] or [[s/_sudden|sudden]] [[c/_change|change]]; to [[c/_change|change]] the [[g/_gait|gait]].**
 	- _Example: to break into a run or gallop_
 - **To [[f/_fall|fall]] [[o/_out|out]]; to terminate [[f/_friendship|friendship]].**
 - **To terminate the [[e/_execution|execution]] of a [[p/_program|program]] [[b/_before|before]] [[n/_normal|normal]] [[c/_completion|completion]].**

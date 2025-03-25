@@ -3,9 +3,9 @@
 #noun
 - **A [[m/_mesh|mesh]] of [[s/_string|string]], [[c/_cord|cord]] or [[r/_rope|rope]].**
 	- _Example: a net for the hair; a mosquito net; a tennis net_
-- **A [[d/_device|device]] [[m/_made|made]] from such [[m/_mesh|mesh]], used for [[c/_catching|catching]] [[f/_fish|fish]], [[b/_butterflies|butterflies]], [[e/_etc|etc]].**
-- **A [[d/_device|device]] [[m/_made|made]] from such [[m/_mesh|mesh]], [[g/_generally|generally]] used for trapping [[s/_something|something]].**
-- **[[a/_anything|Anything]] that [[h/_has|has]] the [[a/_appearance|appearance]] of such a [[d/_device|device]].**
+- **A [[d/_device|device]] [[m/_made|made]] from [[s/_such|such]] [[m/_mesh|mesh]], used for [[c/_catching|catching]] [[f/_fish|fish]], [[b/_butterflies|butterflies]], [[e/_etc|etc]].**
+- **A [[d/_device|device]] [[m/_made|made]] from [[s/_such|such]] [[m/_mesh|mesh]], [[g/_generally|generally]] used for trapping [[s/_something|something]].**
+- **[[a/_anything|Anything]] that [[h/_has|has]] the [[a/_appearance|appearance]] of [[s/_such|such]] a [[d/_device|device]].**
 	- _Example: Petri net_
 - **(by [[e/_extension|extension]]) A trap.**
 	- _Example: caught in the prosecuting attorney's net_

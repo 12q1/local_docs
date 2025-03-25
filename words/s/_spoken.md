@@ -5,7 +5,7 @@
 	- _Example: I was so surprised I couldn't speak._
 - **To [[h/_have|have]] a [[c/_conversation|conversation]].**
 	- _Example: It's been ages since we've spoken._
-- **(by [[e/_extension|extension]]) To [[c/_communicate|communicate]] or [[c/_converse|converse]] by [[s/_some|some]] [[m/_means|means]] [[o/_other|other]] than [[o/_orally|orally]], such as writing or [[f/_facial|facial]] [[e/_expressions|expressions]].**
+- **(by [[e/_extension|extension]]) To [[c/_communicate|communicate]] or [[c/_converse|converse]] by [[s/_some|some]] [[m/_means|means]] [[o/_other|other]] than [[o/_orally|orally]], [[s/_such|such]] as writing or [[f/_facial|facial]] [[e/_expressions|expressions]].**
 	- _Example: Actions speak louder than words._
 - **To [[d/_deliver|deliver]] a [[m/_message|message]] to a [[g/_group|group]]; to [[d/_deliver|deliver]] a [[s/_speech|speech]].**
 	- _Example: This evening I shall speak on the topic of correct English usage._

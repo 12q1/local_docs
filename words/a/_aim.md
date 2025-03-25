@@ -1,7 +1,7 @@
 # Aim
 ---
 #noun
-- **The [[p/_pointing|pointing]] of a weapon, as a [[g/_gun|gun]], a [[d/_dart|dart]], or an [[a/_arrow|arrow]], or [[o/_object|object]], in the [[l/_line|line]] of [[d/_direction|direction]] with the [[o/_object|object]] [[i/_intended|intended]] to be [[s/_struck|struck]]; the [[l/_line|line]] of [[f/_fire|fire]]; the [[d/_direction|direction]] of [[a/_anything|anything]], such as a [[s/_spear|spear]], a [[b/_blow|blow]], a [[d/_discourse|discourse]], a [[r/_remark|remark]], towards a [[p/_particular|particular]] [[p/_point|point]] or [[o/_object|object]], with a view to [[s/_strike|strike]] or [[a/_affect|affect]] it.**
+- **The [[p/_pointing|pointing]] of a weapon, as a [[g/_gun|gun]], a [[d/_dart|dart]], or an [[a/_arrow|arrow]], or [[o/_object|object]], in the [[l/_line|line]] of [[d/_direction|direction]] with the [[o/_object|object]] [[i/_intended|intended]] to be [[s/_struck|struck]]; the [[l/_line|line]] of [[f/_fire|fire]]; the [[d/_direction|direction]] of [[a/_anything|anything]], [[s/_such|such]] as a [[s/_spear|spear]], a [[b/_blow|blow]], a [[d/_discourse|discourse]], a [[r/_remark|remark]], towards a [[p/_particular|particular]] [[p/_point|point]] or [[o/_object|object]], with a view to [[s/_strike|strike]] or [[a/_affect|affect]] it.**
 	- _Example: Take time with the aim of your gun._
 - **The [[p/_point|point]] [[i/_intended|intended]] to be [[h/_hit|hit]], or [[o/_object|object]] [[i/_intended|intended]] to be [[a/_attained|attained]] or [[a/_affected|affected]].**
 - **[[i/_intention|Intention]] or [[g/_goal|goal]]**

@@ -2,7 +2,7 @@
 ---
 #verb
 - **To treat or [[m/_mix|mix]] with a [[s/_spatula|spatula]].**
-- **To [[i/_incise|incise]] the [[e/_end|end]] of a [[p/_pliable|pliable]] [[c/_cylindrical|cylindrical]] [[s/_structure|structure]] such that the [[c/_cut|cut]] [[e/_end|end]] [[c/_can|can]] be [[s/_splayed|splayed]] [[a/_apart|apart]] and [[f/_flattened|flattened]]**
+- **To [[i/_incise|incise]] the [[e/_end|end]] of a [[p/_pliable|pliable]] [[c/_cylindrical|cylindrical]] [[s/_structure|structure]] [[s/_such|such]] that the [[c/_cut|cut]] [[e/_end|end]] [[c/_can|can]] be [[s/_splayed|splayed]] [[a/_apart|apart]] and [[f/_flattened|flattened]]**
 ---
 #adjective
 - **[[s/_shaped|Shaped]] [[l/_like|like]] a [[s/_spatula|spatula]]; [[h/_having|having]] a [[r/_rounded|rounded]], [[f/_flattened|flattened]] [[e/_extremity|extremity]].**

@@ -6,9 +6,9 @@
 - **A [[s/_small|small]] [[p/_part|part]] of the whole.**
 	- _Example: an element of doubt;  an element of the picture_
 - **The [[s/_sky|sky]].**
-- **(with "the") [[a/_atmospheric|Atmospheric]] [[f/_forces|forces]] such as [[s/_strong|strong]] winds and [[r/_rains|rains]].**
+- **(with "the") [[a/_atmospheric|Atmospheric]] [[f/_forces|forces]] [[s/_such|such]] as [[s/_strong|strong]] winds and [[r/_rains|rains]].**
 	- _Example: exposed to the elements_
-- **A [[p/_place|place]] or [[s/_state|state]] of [[b/_being|being]] that an [[i/_individual|individual]] or [[o/_object|object]] is [[b/_best|best]] suited to.**
+- **A [[p/_place|place]] or [[s/_state|state]] of [[b/_being|being]] that an [[i/_individual|individual]] or [[o/_object|object]] is [[b/_best|best]] [[s/_suited|suited]] to.**
 	- _Example: to be in one's element_
 - **(usually in the [[p/_plural|plural]]) The [[b/_bread|bread]] and wine taken at [[h/_holy|Holy]] [[c/_communion|Communion]].**
 - **A [[g/_group|group]] of [[p/_people|people]] within a [[l/_larger|larger]] [[g/_group|group]] [[h/_having|having]] a [[p/_particular|particular]] [[c/_common|common]] [[c/_characteristic|characteristic]].**
@@ -20,7 +20,7 @@
 ### Synonyms
 - [[f/_firststuff|firststuff]], [[m/_member|member]]
 #noun
-- **[[o/_outdoor|Outdoor]] weather, such as wind or [[r/_rain|rain]].**
+- **[[o/_outdoor|Outdoor]] weather, [[s/_such|such]] as wind or [[r/_rain|rain]].**
 - **The [[b/_basic|basic]] tenets of an [[a/_area|area]] of [[k/_knowledge|knowledge]].**
 - **The [[b/_bread|bread]] and wine of the [[e/_eucharist|Eucharist]].**
 ---

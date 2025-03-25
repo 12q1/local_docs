@@ -6,7 +6,7 @@
 - **A [[c/_cut|cut]] of [[m/_meat|meat]] [[e/_enclosing|enclosing]] [[o/_one|one]] or [[m/_more|more]] [[r/_rib|rib]] [[b/_bones|bones]]**
 - **[[a/_any|Any]] of [[s/_several|several]] [[c/_curved|curved]] [[m/_members|members]] [[a/_attached|attached]] to a [[s/_ship|ship]]'[[s/_s|s]] [[k/_keel|keel]] and [[e/_extending|extending]] upward and [[o/_outward|outward]] to [[f/_form|form]] the [[f/_framework|framework]] of the [[h/_hull|hull]]**
 - **[[a/_any|Any]] of [[s/_several|several]] transverse [[p/_pieces|pieces]] that [[p/_provide|provide]] an [[a/_aircraft|aircraft]] wing with [[s/_shape|shape]] and [[s/_strength|strength]]**
-- **A [[l/_long|long]], [[n/_narrow|narrow]], usually [[a/_arched|arched]] [[m/_member|member]] [[p/_projecting|projecting]] from the surface of a [[s/_structure|structure]], [[e/_especially|especially]] such a [[m/_member|member]] [[s/_separating|separating]] the webs of a vault**
+- **A [[l/_long|long]], [[n/_narrow|narrow]], usually [[a/_arched|arched]] [[m/_member|member]] [[p/_projecting|projecting]] from the surface of a [[s/_structure|structure]], [[e/_especially|especially]] [[s/_such|such]] a [[m/_member|member]] [[s/_separating|separating]] the webs of a vault**
 - **A [[r/_raised|raised]] [[r/_ridge|ridge]] in [[k/_knitted|knitted]] [[m/_material|material]] or in [[c/_cloth|cloth]]**
 - **The [[m/_main|main]], or [[a/_any|any]] of the [[p/_prominent|prominent]] veins of a [[l/_leaf|leaf]]**
 - **A teasing [[j/_joke|joke]]**

@@ -5,7 +5,7 @@
 	- _Example: the kernel of an argument_
 - **The [[c/_central|central]] (usually [[e/_edible|edible]]) [[p/_part|part]] of a [[n/_nut|nut]], [[e/_especially|especially]] [[o/_once|once]] the [[h/_hard|hard]] [[s/_shell|shell]] [[h/_has|has]] [[b/_been|been]] [[r/_removed|removed]].**
 - **A [[s/_single|single]] [[s/_seed|seed]] or [[g/_grain|grain]], [[e/_especially|especially]] of [[c/_corn|corn]] or wheat.**
-- **The [[s/_stone|stone]] of [[c/_certain|certain]] [[f/_fruits|fruits]], such as [[p/_peaches|peaches]] or [[p/_plums|plums]].**
+- **The [[s/_stone|stone]] of [[c/_certain|certain]] [[f/_fruits|fruits]], [[s/_such|such]] as [[p/_peaches|peaches]] or [[p/_plums|plums]].**
 - **A [[s/_small|small]] [[m/_mass|mass]] [[a/_around|around]] which [[o/_other|other]] [[m/_matter|matter]] is [[c/_concreted|concreted]]; a [[n/_nucleus|nucleus]]; a [[c/_concretion|concretion]] or [[h/_hard|hard]] [[l/_lump|lump]] in the [[f/_flesh|flesh]].**
 - **The [[c/_central|central]] [[p/_part|part]] of [[m/_many|many]] [[c/_computer|computer]] [[o/_operating|operating]] [[s/_systems|systems]] which [[m/_manages|manages]] the [[s/_system|system]]'[[s/_s|s]] [[r/_resources|resources]] and the [[c/_communication|communication]] [[b/_between|between]] [[h/_hardware|hardware]] and [[s/_software|software]] [[c/_components|components]].**
 	- _Example: The Linux kernel is open-source._

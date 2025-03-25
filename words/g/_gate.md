@@ -14,7 +14,7 @@
 - **The [[c/_controlling|controlling]] terminal of a [[f/_field|field]] [[e/_effect|effect]] transistor ([[f/_fet|FET]]).**
 - **In a [[l/_lock|lock]] tumbler, the [[o/_opening|opening]] for the [[s/_stump|stump]] of the [[b/_bolt|bolt]] to [[p/_pass|pass]] through or [[i/_into|into]].**
 - **The [[c/_channel|channel]] or [[o/_opening|opening]] through which [[m/_metal|metal]] is [[p/_poured|poured]] [[i/_into|into]] the [[m/_mould|mould]]; the [[i/_ingate|ingate]].**
-- **The waste [[p/_piece|piece]] of [[m/_metal|metal]] [[c/_cast|cast]] in the [[o/_opening|opening]]; a [[s/_sprue|sprue]] or sullage [[p/_piece|piece]]. [[a/_also|Also]] written [[g/_geat|geat]] and [[g/_git|git]].**
+- **The waste [[p/_piece|piece]] of [[m/_metal|metal]] [[c/_cast|cast]] in the [[o/_opening|opening]]; a [[s/_sprue|sprue]] or [[s/_sullage|sullage]] [[p/_piece|piece]]. [[a/_also|Also]] written [[g/_geat|geat]] and [[g/_git|git]].**
 - **A [[m/_mechanism|mechanism]], in a [[f/_film|film]] [[c/_camera|camera]] and [[p/_projector|projector]], that [[h/_holds|holds]] [[e/_each|each]] [[f/_frame|frame]] [[m/_momentarily|momentarily]] [[s/_stationary|stationary]] [[b/_behind|behind]] the [[a/_aperture|aperture]].**
 - **A tally [[m/_mark|mark]] [[c/_consisting|consisting]] of [[f/_four|four]] vertical [[b/_bars|bars]] [[c/_crossed|crossed]] by a [[d/_diagonal|diagonal]], [[r/_representing|representing]] a [[c/_count|count]] of [[f/_five|five]].**
 ---

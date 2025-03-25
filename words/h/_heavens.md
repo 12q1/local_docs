@@ -18,7 +18,7 @@
 - **To [[b/_beautify|beautify]], to [[m/_make|make]] [[i/_into|into]] a [[p/_paradise|paradise]].**
 ---
 #noun
-- **([[o/_often|often]] with 'the') The [[d/_distant|distant]] [[s/_sky|sky]] of the sun, [[m/_moon|moon]], and [[s/_stars|stars]].**
+- **([[o/_often|often]] with 'the') The [[d/_distant|distant]] [[s/_sky|sky]] of the [[s/_sun|sun]], [[m/_moon|moon]], and [[s/_stars|stars]].**
 ---
 #interjection
 - **An [[e/_expression|expression]] of surprise, [[c/_contempt|contempt]], [[o/_outrage|outrage]], [[d/_disgust|disgust]], [[b/_boredom|boredom]], or [[f/_frustration|frustration]].**

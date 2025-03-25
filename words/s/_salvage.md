@@ -6,7 +6,7 @@
 - **The [[c/_compensation|compensation]] [[p/_paid|paid]] to the [[r/_rescuers|rescuers]].**
 - **The [[m/_money|money]] from the [[s/_sale|sale]] of [[r/_rescued|rescued]] [[g/_goods|goods]].**
 - **The [[s/_similar|similar]] [[r/_rescue|rescue]] of [[p/_property|property]] [[l/_liable|liable]] to [[l/_loss|loss]]; the [[p/_property|property]] [[s/_so|so]] [[r/_rescued|rescued]].**
-- **([[s/_sometimes|sometimes]] [[a/_attributive|attributive]]) [[a/_anything|Anything]] [[p/_put|put]] to [[g/_good|good]] use that would [[o/_otherwise|otherwise]] [[h/_have|have]] [[b/_been|been]] wasted, such as [[d/_damaged|damaged]] [[g/_goods|goods]].**
+- **([[s/_sometimes|sometimes]] [[a/_attributive|attributive]]) [[a/_anything|Anything]] [[p/_put|put]] to [[g/_good|good]] use that would [[o/_otherwise|otherwise]] [[h/_have|have]] [[b/_been|been]] wasted, [[s/_such|such]] as [[d/_damaged|damaged]] [[g/_goods|goods]].**
 	- _Example: salvage cars auction_
 ---
 #verb

@@ -1,7 +1,7 @@
 # Peekaboo
 ---
 #noun
-- **([[g/_games|games]]) A [[g/_game|game]] for a [[s/_small|small]] [[c/_child|child]] in which [[o/_one|one]] [[c/_covers|covers]] [[o/_one|one]]'[[s/_s|s]] [[f/_face|face]], then suddenly [[r/_reveals|reveals]] it, [[s/_saying|saying]] "[[b/_boo|Boo]]!" or "[[p/_peekaboo|Peekaboo]]!".**
+- **([[g/_games|games]]) A [[g/_game|game]] for a [[s/_small|small]] [[c/_child|child]] in which [[o/_one|one]] [[c/_covers|covers]] [[o/_one|one]]'[[s/_s|s]] [[f/_face|face]], then [[s/_suddenly|suddenly]] [[r/_reveals|reveals]] it, [[s/_saying|saying]] "[[b/_boo|Boo]]!" or "[[p/_peekaboo|Peekaboo]]!".**
 ---
 #verb
 - **To [[p/_peep|peep]] [[o/_out|out]].**

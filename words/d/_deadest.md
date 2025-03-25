@@ -40,7 +40,7 @@
 - **[[b/_bringing|Bringing]] [[d/_death|death]]; [[d/_deadly|deadly]].**
 - **[[c/_cut|Cut]] [[o/_off|off]] from the [[r/_rights|rights]] of a [[c/_citizen|citizen]]; [[d/_deprived|deprived]] of the [[p/_power|power]] of [[e/_enjoying|enjoying]] the [[r/_rights|rights]] of [[p/_property|property]].**
 	- _Example: A person who is banished or who becomes a monk is civilly dead._
-- **([[o/_often|often]] with "to") [[i/_indifferent|Indifferent]] to, [[n/_no|no]] [[l/_longer|longer]] subject to or [[r/_ruled|ruled]] by ([[s/_sin|sin]], [[g/_guilt|guilt]], [[p/_pleasure|pleasure]], [[e/_etc|etc]]).**
+- **([[o/_often|often]] with "to") [[i/_indifferent|Indifferent]] to, [[n/_no|no]] [[l/_longer|longer]] [[s/_subject|subject]] to or [[r/_ruled|ruled]] by ([[s/_sin|sin]], [[g/_guilt|guilt]], [[p/_pleasure|pleasure]], [[e/_etc|etc]]).**
 ---
 ### Antonyms
 - [[a/_alive|alive]], [[l/_living|living]]

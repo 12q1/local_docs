@@ -10,7 +10,7 @@
 - **[[s/_silly|Silly]], [[i/_ignorant|ignorant]]; [[f/_foolish|foolish]].**
 - **[[p/_particular|Particular]] in [[o/_one|one]]'[[s/_s|s]] [[c/_conduct|conduct]]; [[s/_scrupulous|scrupulous]], [[p/_painstaking|painstaking]]; [[c/_choosy|choosy]].**
 - **[[p/_particular|Particular]] as [[r/_regards|regards]] [[r/_rules|rules]] or [[q/_qualities|qualities]]; [[s/_strict|strict]].**
-- **[[s/_showing|Showing]] or [[r/_requiring|requiring]] [[g/_great|great]] [[p/_precision|precision]] or [[s/_sensitive|sensitive]] [[d/_discernment|discernment]]; subtle.**
+- **[[s/_showing|Showing]] or [[r/_requiring|requiring]] [[g/_great|great]] [[p/_precision|precision]] or [[s/_sensitive|sensitive]] [[d/_discernment|discernment]]; [[s/_subtle|subtle]].**
 - **[[e/_easily|Easily]] [[i/_injured|injured]]; [[d/_delicate|delicate]]; [[d/_dainty|dainty]].**
 - **[[d/_doubtful|Doubtful]], as to the [[o/_outcome|outcome]]; [[r/_risky|risky]].**
 ---

@@ -3,7 +3,7 @@
 #verb
 - **To [[i/_include|include]] [[s/_so|so]] that it [[n/_no|no]] [[l/_longer|longer]] [[h/_has|has]] [[s/_separate|separate]] [[e/_existence|existence]]; to [[o/_overwhelm|overwhelm]]; to [[c/_cause|cause]] to [[d/_disappear|disappear]] as [[i/_if|if]] by swallowing up; to [[i/_incorporate|incorporate]]; to [[a/_assimilate|assimilate]]; to take in and use up.**
 - **To [[e/_engulf|engulf]], as in water; to swallow up.**
-- **To suck up; to [[d/_drink|drink]] in; to [[i/_imbibe|imbibe]], [[l/_like|like]] a [[s/_sponge|sponge]] or as the [[l/_lacteals|lacteals]] of the [[b/_body|body]]; to [[c/_chemically|chemically]] take in.**
+- **To [[s/_suck|suck]] up; to [[d/_drink|drink]] in; to [[i/_imbibe|imbibe]], [[l/_like|like]] a [[s/_sponge|sponge]] or as the [[l/_lacteals|lacteals]] of the [[b/_body|body]]; to [[c/_chemically|chemically]] take in.**
 - **To take in [[e/_energy|energy]] and [[c/_convert|convert]] it, as**
 	- _Example: Heat, light, and electricity are absorbed in the substances into which they pass._
 - **To [[e/_engross|engross]] or [[e/_engage|engage]] wholly; to [[o/_occupy|occupy]] [[f/_fully|fully]]**

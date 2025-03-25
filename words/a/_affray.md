@@ -1,7 +1,7 @@
 # Affray
 ---
 #noun
-- **The [[a/_act|act]] of suddenly [[d/_disturbing|disturbing]] [[a/_anyone|anyone]]; an [[a/_assault|assault]] or [[a/_attack|attack]].**
+- **The [[a/_act|act]] of [[s/_suddenly|suddenly]] [[d/_disturbing|disturbing]] [[a/_anyone|anyone]]; an [[a/_assault|assault]] or [[a/_attack|attack]].**
 - **A tumultuous [[a/_assault|assault]] or [[q/_quarrel|quarrel]].**
 - **The [[f/_fighting|fighting]] of two or [[m/_more|more]] [[p/_persons|persons]], in a [[p/_public|public]] [[p/_place|place]], to the terror of [[o/_others|others]].**
 	- _Example: The affray in the busy marketplace caused great terror and disorder._

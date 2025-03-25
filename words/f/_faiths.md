@@ -7,7 +7,7 @@
 	- _Example: I have faith in the healing power of crystals._
 - **A [[r/_religious|religious]] or [[s/_spiritual|spiritual]] [[b/_belief|belief]] [[s/_system|system]].**
 	- _Example: The Christian faith._
-- **An [[o/_obligation|obligation]] of [[l/_loyalty|loyalty]] or [[f/_fidelity|fidelity]] and the [[o/_observance|observance]] of such an [[o/_obligation|obligation]].**
+- **An [[o/_obligation|obligation]] of [[l/_loyalty|loyalty]] or [[f/_fidelity|fidelity]] and the [[o/_observance|observance]] of [[s/_such|such]] an [[o/_obligation|obligation]].**
 	- _Example: He acted in good faith to restore broken diplomatic ties after defeating the incumbent._
 - **[[c/_credibility|Credibility]] or truth.**
 ---

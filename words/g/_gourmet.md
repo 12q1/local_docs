@@ -6,7 +6,7 @@
 ### Synonyms
 - [[f/_foodie|foodie]]
 #adjective
-- **(of [[f/_food|food]] and [[d/_drink|drink]]) [[f/_fine|Fine]]; of superior [[q/_quality|quality]].**
+- **(of [[f/_food|food]] and [[d/_drink|drink]]) [[f/_fine|Fine]]; of [[s/_superior|superior]] [[q/_quality|quality]].**
 	- _Example: The restaurant offered gourmet coffee and cigars after the meal._
 ---
 ---

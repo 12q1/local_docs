@@ -51,7 +51,7 @@
 	- _Example: As the story goes, he got the idea for the song while sitting in traffic._
 - **To [[r/_resort|resort]] (to).**
 	- _Example: I'll go to court if I have to._
-- **To [[a/_apply|apply]] or subject [[o/_oneself|oneself]] to:**
+- **To [[a/_apply|apply]] or [[s/_subject|subject]] [[o/_oneself|oneself]] to:**
 - **To [[f/_fit|fit]] (in a [[p/_place|place]], or together with [[s/_something|something]]):**
 - **To [[d/_date|date]].**
 	- _Example: He's been going with her for two weeks._
@@ -76,7 +76,7 @@
 #noun
 - **A [[d/_departure|departure]].**
 	- _Example: Thy going is not lonely, with thee goes thy Husband_
-- **The suitability of [[g/_ground|ground]] for [[r/_riding|riding]], walking [[e/_etc|etc]].**
+- **The [[s/_suitability|suitability]] of [[g/_ground|ground]] for [[r/_riding|riding]], walking [[e/_etc|etc]].**
 	- _Example: The going was very difficult over the ice._
 - **[[p/_progress|Progress]].**
 	- _Example: We made good going for a while, but then we came to the price._
@@ -92,7 +92,7 @@
 	- _Example: He didn't want to make an unsecured loan to the business because it didn't look like a going concern._
 - **[[c/_current|Current]], [[p/_prevailing|prevailing]].**
 	- _Example: The going rate for manual snow-shoveling is $25 an hour._
-- **([[e/_especially|especially]] [[a/_after|after]] a [[n/_noun|noun]] [[p/_phrase|phrase]] with a superlative) [[a/_available|Available]].**
+- **([[e/_especially|especially]] [[a/_after|after]] a [[n/_noun|noun]] [[p/_phrase|phrase]] with a [[s/_superlative|superlative]]) [[a/_available|Available]].**
 	- _Example: He has the easiest job going._
 ---
 ---

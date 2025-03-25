@@ -18,7 +18,7 @@
 - **A [[s/_sideways|sideways]] [[l/_look|look]]; a [[g/_glance|glance]].**
 ---
 #adjective
-- **[[m/_making|Making]] superficial, [[o/_obtuse|obtuse]] [[c/_contact|contact]] with [[s/_something|something]].**
+- **[[m/_making|Making]] [[s/_superficial|superficial]], [[o/_obtuse|obtuse]] [[c/_contact|contact]] with [[s/_something|something]].**
 	- _Example: His fist caught a glancing blow to my jaw._
 ---
 ---

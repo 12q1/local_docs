@@ -7,7 +7,7 @@
 ---
 #noun
 - **A swelling from a [[b/_blow|blow]]; a [[b/_bump|bump]].**
-- **A sudden [[e/_enlargement|enlargement]] or [[m/_mass|mass]] of [[o/_ore|ore]], as [[o/_opposed|opposed]] to a vein or [[l/_lode|lode]].**
+- **A [[s/_sudden|sudden]] [[e/_enlargement|enlargement]] or [[m/_mass|mass]] of [[o/_ore|ore]], as [[o/_opposed|opposed]] to a vein or [[l/_lode|lode]].**
 ---
 #noun
 - **A [[c/_culvert|culvert]] or [[s/_short|short]] [[c/_covered|covered]] [[d/_drain|drain]] [[c/_connecting|connecting]] two [[d/_ditches|ditches]].**

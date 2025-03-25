@@ -3,7 +3,7 @@
 #adjective
 - **[[a/_artfully|Artfully]] [[c/_cunning|cunning]]; [[s/_secretly|secretly]] [[m/_mischievous|mischievous]]; wily.**
 - **([[h/_having|having]] a [[p/_positive|positive]] [[s/_sense|sense]]) [[d/_dexterous|Dexterous]] in [[p/_performing|performing]] an [[a/_action|action]], [[s/_so|so]] as to [[e/_escape|escape]] [[n/_notice|notice]]**
-- **[[d/_done|Done]] with, and [[m/_marked|marked]] by, [[a/_artful|artful]] and [[d/_dexterous|dexterous]] [[s/_secrecy|secrecy]]; subtle**
+- **[[d/_done|Done]] with, and [[m/_marked|marked]] by, [[a/_artful|artful]] and [[d/_dexterous|dexterous]] [[s/_secrecy|secrecy]]; [[s/_subtle|subtle]]**
 	- _Example: a sly trick_
 - **[[l/_light|Light]] or [[d/_delicate|delicate]]; [[s/_slight|slight]]; thin.**
 ---

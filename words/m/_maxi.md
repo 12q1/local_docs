@@ -1,7 +1,7 @@
 # Maxi
 ---
 #noun
-- **A [[c/_coat|coat]] or [[s/_skirt|skirt]] [[h/_having|having]] such a [[h/_hemline|hemline]]**
+- **A [[c/_coat|coat]] or [[s/_skirt|skirt]] [[h/_having|having]] [[s/_such|such]] a [[h/_hemline|hemline]]**
 ---
 ### Synonyms
 - [[m/_max|max]]

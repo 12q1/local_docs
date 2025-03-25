@@ -5,13 +5,13 @@
 - **The [[r/_religious|religious]] [[s/_service|service]] [[a/_appointed|appointed]] to this [[h/_hour|hour]].**
 - **The [[e/_early|early]] [[m/_morning|morning]] [[g/_generally|generally]].**
 - **The [[e/_earliest|earliest]] [[s/_stage|stage]] of [[s/_something|something]].**
-- **The [[m/_most|most]] [[a/_active|active]], thriving, or successful [[s/_stage|stage]] or [[p/_period|period]].**
+- **The [[m/_most|most]] [[a/_active|active]], thriving, or [[s/_successful|successful]] [[s/_stage|stage]] or [[p/_period|period]].**
 - **The [[c/_chief|chief]] or [[b/_best|best]] [[i/_individual|individual]] or [[p/_part|part]].**
 - **The [[f/_first|first]] [[n/_note|note]] or tone of a [[m/_musical|musical]] [[s/_scale|scale]].**
 - **The [[f/_first|first]] [[d/_defensive|defensive]] [[p/_position|position]], with the sword [[h/_hand|hand]] [[h/_held|held]] at [[h/_head|head]] [[h/_height|height]], and the tip of the sword at [[h/_head|head]] [[h/_height|height]].**
 - **A [[p/_prime|prime]] [[e/_element|element]] of a [[m/_mathematical|mathematical]] [[s/_structure|structure]], [[p/_particularly|particularly]] a [[p/_prime|prime]] [[n/_number|number]].**
 	- _Example: 3 is a prime._
-- **A [[f/_four|four]]-[[c/_card|card]] [[h/_hand|hand]] [[c/_containing|containing]] [[o/_one|one]] [[c/_card|card]] of [[e/_each|each]] suit in the [[g/_game|game]] of [[p/_primero|primero]]; the [[o/_opposite|opposite]] of a [[f/_flush|flush]] in [[p/_poker|poker]].**
+- **A [[f/_four|four]]-[[c/_card|card]] [[h/_hand|hand]] [[c/_containing|containing]] [[o/_one|one]] [[c/_card|card]] of [[e/_each|each]] [[s/_suit|suit]] in the [[g/_game|game]] of [[p/_primero|primero]]; the [[o/_opposite|opposite]] of a [[f/_flush|flush]] in [[p/_poker|poker]].**
 - **[[s/_six|Six]] [[c/_consecutive|consecutive]] [[b/_blocks|blocks]], which [[p/_prevent|prevent]] the [[o/_opponent|opponent]]'[[s/_s|s]] [[p/_pieces|pieces]] from [[p/_passing|passing]].**
 	- _Example: I'm threatening to build a prime here._
 - **The [[s/_symbol|symbol]] ′ used to [[i/_indicate|indicate]] [[f/_feet|feet]], [[m/_minutes|minutes]], [[d/_derivation|derivation]] and [[o/_other|other]] [[m/_measures|measures]] and [[m/_mathematical|mathematical]] [[o/_operations|operations]].**

@@ -1,14 +1,14 @@
 # Jumping
 ---
 #verb
-- **To [[p/_propel|propel]] [[o/_oneself|oneself]] [[r/_rapidly|rapidly]] upward, [[d/_downward|downward]] and/or in [[a/_any|any]] [[h/_horizontal|horizontal]] [[d/_direction|direction]] such that [[m/_momentum|momentum]] [[c/_causes|causes]] the [[b/_body|body]] to [[b/_become|become]] [[a/_airborne|airborne]].**
+- **To [[p/_propel|propel]] [[o/_oneself|oneself]] [[r/_rapidly|rapidly]] upward, [[d/_downward|downward]] and/or in [[a/_any|any]] [[h/_horizontal|horizontal]] [[d/_direction|direction]] [[s/_such|such]] that [[m/_momentum|momentum]] [[c/_causes|causes]] the [[b/_body|body]] to [[b/_become|become]] [[a/_airborne|airborne]].**
 	- _Example: Kangaroos are known for their ability to jump high._
 - **To [[c/_cause|cause]] [[o/_oneself|oneself]] to [[l/_leave|leave]] an [[e/_elevated|elevated]] [[l/_location|location]] and [[f/_fall|fall]] [[d/_downward|downward]].**
 	- _Example: She is going to jump from the diving board._
 - **To [[p/_pass|pass]] by a [[s/_spring|spring]] or [[l/_leap|leap]]; to [[o/_overleap|overleap]].**
 	- _Example: to jump a stream_
 - **To [[e/_employ|employ]] a [[p/_parachute|parachute]] to [[l/_leave|leave]] an [[a/_aircraft|aircraft]] or [[e/_elevated|elevated]] [[l/_location|location]].**
-- **To [[r/_react|react]] to a sudden, [[o/_often|often]] unexpected, [[s/_stimulus|stimulus]] (such as a [[s/_sharp|sharp]] [[p/_prick|prick]] or a [[l/_loud|loud]] [[s/_sound|sound]]) by [[j/_jerking|jerking]] the [[b/_body|body]] violently.**
+- **To [[r/_react|react]] to a [[s/_sudden|sudden]], [[o/_often|often]] unexpected, [[s/_stimulus|stimulus]] ([[s/_such|such]] as a [[s/_sharp|sharp]] [[p/_prick|prick]] or a [[l/_loud|loud]] [[s/_sound|sound]]) by [[j/_jerking|jerking]] the [[b/_body|body]] violently.**
 	- _Example: The sudden sharp sound made me jump._
 - **To [[i/_increase|increase]] [[s/_sharply|sharply]], to [[r/_rise|rise]], to [[s/_shoot|shoot]] up.**
 	- _Example: Share prices jumped by 10% after the company announced record profits._
@@ -16,12 +16,12 @@
 	- _Example: The player's knight jumped the opponent's bishop._
 - **To [[m/_move|move]] to a [[p/_position|position]] (in a [[q/_queue|queue]]/[[l/_line|line]]) that is [[f/_further|further]] [[f/_forward|forward]].**
 	- _Example: I hate it when people jump the queue._
-- **To [[a/_attack|attack]] suddenly and violently.**
+- **To [[a/_attack|attack]] [[s/_suddenly|suddenly]] and violently.**
 	- _Example: The hoodlum jumped a woman in the alley._
 - **To [[e/_engage|engage]] in [[s/_sexual|sexual]] [[i/_intercourse|intercourse]] with (a [[p/_person|person]]).**
 - **To [[c/_cause|cause]] to [[j/_jump|jump]].**
 	- _Example: The rider jumped the horse over the fence._
-- **To [[m/_move|move]] the [[d/_distance|distance]] [[b/_between|between]] two [[o/_opposing|opposing]] subjects.**
+- **To [[m/_move|move]] the [[d/_distance|distance]] [[b/_between|between]] two [[o/_opposing|opposing]] [[s/_subjects|subjects]].**
 - **To [[i/_increase|increase]] the [[h/_height|height]] of a tower [[c/_crane|crane]] by [[i/_inserting|inserting]] a [[s/_section|section]] at the [[b/_base|base]] of the tower and [[j/_jacking|jacking]] up [[e/_everything|everything]] [[a/_above|above]] it.**
 - **To [[i/_increase|increase]] [[s/_speed|speed]] [[a/_aggressively|aggressively]] and without warning.**
 - **To [[e/_expose|expose]] to [[d/_danger|danger]]; to [[r/_risk|risk]]; to [[h/_hazard|hazard]].**

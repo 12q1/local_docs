@@ -5,9 +5,9 @@
 	- _Example: He flopped down in front of the television, exhausted from work._
 - **To [[c/_cause|cause]] to [[d/_drop|drop]] [[h/_heavily|heavily]].**
 	- _Example: The tired mule flopped its ears forward and trudged on._
-- **To [[f/_fail|fail]] [[c/_completely|completely]]; not to be successful at [[a/_all|all]] (of a [[m/_movie|movie]], [[p/_play|play]], [[b/_book|book]], [[s/_song|song]] [[e/_etc|etc]].).**
+- **To [[f/_fail|fail]] [[c/_completely|completely]]; not to be [[s/_successful|successful]] at [[a/_all|all]] (of a [[m/_movie|movie]], [[p/_play|play]], [[b/_book|book]], [[s/_song|song]] [[e/_etc|etc]].).**
 	- _Example: The latest album flopped and so the studio canceled her contract._
-- **To [[p/_pretend|pretend]] to be [[f/_fouled|fouled]] in [[s/_sports|sports]], such as [[b/_basketball|basketball]], [[h/_hockey|hockey]] (the [[s/_same|same]] as to [[d/_dive|dive]] in [[s/_soccer|soccer]])**
+- **To [[p/_pretend|pretend]] to be [[f/_fouled|fouled]] in [[s/_sports|sports]], [[s/_such|such]] as [[b/_basketball|basketball]], [[h/_hockey|hockey]] (the [[s/_same|same]] as to [[d/_dive|dive]] in [[s/_soccer|soccer]])**
 	- _Example: It starts with Chris Paul, because Blake didn't really used to flop like that, you know, last year._
 - **To [[s/_strike|strike]] [[a/_about|about]] with [[s/_something|something]] [[b/_broad|broad]] and [[f/_flat|flat]], as a [[f/_fish|fish]] with [[i/_its|its]] tail, or a [[b/_bird|bird]] with [[i/_its|its]] wings; to [[r/_rise|rise]] and [[f/_fall|fall]]; to [[f/_flap|flap]].**
 	- _Example: The brim of a hat flops._

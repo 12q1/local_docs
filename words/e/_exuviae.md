@@ -1,7 +1,7 @@
 # Exuviae
 ---
 #noun
-- **The [[r/_remains|remains]] of the [[e/_exoskeleton|exoskeleton]] [[a/_after|after]] [[a/_any|any]] [[m/_member|member]] of the [[a/_arthropoda|Arthropoda]], such as an [[i/_insect|insect]], [[c/_crustacean|crustacean]] or [[a/_arachnid|arachnid]] [[h/_has|has]] [[s/_sloughed|sloughed]], [[d/_discarding|discarding]] [[i/_its|its]] [[o/_old|old]] [[i/_integument|integument]] and [[d/_developing|developing]] the [[n/_new|new]] [[o/_one|one]].**
+- **The [[r/_remains|remains]] of the [[e/_exoskeleton|exoskeleton]] [[a/_after|after]] [[a/_any|any]] [[m/_member|member]] of the [[a/_arthropoda|Arthropoda]], [[s/_such|such]] as an [[i/_insect|insect]], [[c/_crustacean|crustacean]] or [[a/_arachnid|arachnid]] [[h/_has|has]] [[s/_sloughed|sloughed]], [[d/_discarding|discarding]] [[i/_its|its]] [[o/_old|old]] [[i/_integument|integument]] and [[d/_developing|developing]] the [[n/_new|new]] [[o/_one|one]].**
 ---
 ### Synonyms
 - [[m/_moult|moult]]

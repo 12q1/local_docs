@@ -8,9 +8,9 @@
 	- _Example: He's been reading a steady diet of nonfiction for the last several years._
 ---
 #adjective
-- **(of a [[f/_food|food]] or [[b/_beverage|beverage]]) [[c/_containing|Containing]] [[l/_less|less]] [[f/_fat|fat]], [[s/_salt|salt]], sugar, or [[c/_calories|calories]] than [[n/_normal|normal]], or [[c/_claimed|claimed]] to [[h/_have|have]] such.**
+- **(of a [[f/_food|food]] or [[b/_beverage|beverage]]) [[c/_containing|Containing]] [[l/_less|less]] [[f/_fat|fat]], [[s/_salt|salt]], [[s/_sugar|sugar]], or [[c/_calories|calories]] than [[n/_normal|normal]], or [[c/_claimed|claimed]] to [[h/_have|have]] [[s/_such|such]].**
 	- _Example: diet soda_
-- **[[h/_having|Having]] [[c/_certain|certain]] traits subtracted.**
+- **[[h/_having|Having]] [[c/_certain|certain]] traits [[s/_subtracted|subtracted]].**
 	- _Example: You folks reduce it to the bible only as being authoritative, impoverishing the faith. "Christianity Lite", diet Christianity for those who can't handle the Whole Meal._
 ---
 ### Synonyms

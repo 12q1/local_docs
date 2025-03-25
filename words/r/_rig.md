@@ -1,10 +1,10 @@
 # Rig
 ---
 #noun
-- **The [[r/_rigging|rigging]] of a [[s/_sailing|sailing]] [[s/_ship|ship]] or [[o/_other|other]] such [[c/_craft|craft]].**
+- **The [[r/_rigging|rigging]] of a [[s/_sailing|sailing]] [[s/_ship|ship]] or [[o/_other|other]] [[s/_such|such]] [[c/_craft|craft]].**
 - **[[s/_special|Special]] [[e/_equipment|equipment]] or [[g/_gear|gear]] used for a [[p/_particular|particular]] [[p/_purpose|purpose]].**
 	- _Example: The climbers each had a different rig for climbing that particular rockface._
-- **A [[l/_large|large]] truck such as a [[s/_semi|semi]]-tractor.**
+- **A [[l/_large|large]] truck [[s/_such|such]] as a [[s/_semi|semi]]-tractor.**
 	- _Example: Every rig at the truckstop had custom-made mud-flaps._
 - **The [[s/_special|special]] [[a/_apparatus|apparatus]] used for [[d/_drilling|drilling]] wells.**
 - **A [[c/_costume|costume]] or an [[o/_outfit|outfit]].**

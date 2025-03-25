@@ -7,7 +7,7 @@
 - 
 #adjective
 - **[[f/_flocculated|Flocculated]], [[r/_resembling|resembling]] [[b/_bits|bits]] of wool; woolly.**
-- **[[c/_covered|Covered]] in a woolly substance; [[d/_downy|downy]].**
+- **[[c/_covered|Covered]] in a woolly [[s/_substance|substance]]; [[d/_downy|downy]].**
 - **[[f/_flaky|Flaky]].**
 ---
 ---

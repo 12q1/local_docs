@@ -9,7 +9,7 @@
 ---
 #verb
 - **To [[g/_get|get]] the [[f/_flavor|flavor]] of.**
-- **To [[i/_indicate|indicate]] or suggest [[s/_something|something]]; used with of.**
+- **To [[i/_indicate|indicate]] or [[s/_suggest|suggest]] [[s/_something|something]]; used with of.**
 	- _Example: Her reckless behavior smacks of pride._
 - **To [[h/_have|have]] a [[p/_particular|particular]] taste; used with of.**
 ---
@@ -20,7 +20,7 @@
 #noun
 - **A [[s/_sharp|sharp]] [[b/_blow|blow]]; a [[s/_slap|slap]]. [[s/_see|See]] [[a/_also|also]]: [[s/_spank|spank]].**
 - **The [[s/_sound|sound]] of a [[l/_loud|loud]] [[k/_kiss|kiss]].**
-- **A [[q/_quick|quick]], [[s/_sharp|sharp]] [[n/_noise|noise]], as of the [[l/_lips|lips]] when suddenly [[s/_separated|separated]], or of a whip.**
+- **A [[q/_quick|quick]], [[s/_sharp|sharp]] [[n/_noise|noise]], as of the [[l/_lips|lips]] when [[s/_suddenly|suddenly]] [[s/_separated|separated]], or of a whip.**
 ---
 #verb
 - **To [[s/_slap|slap]] [[s/_someone|someone]].**

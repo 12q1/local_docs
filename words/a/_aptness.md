@@ -1,7 +1,7 @@
 # Aptness
 ---
 #noun
-- **Suitability; the [[q/_quality|quality]] of [[b/_being|being]] [[a/_apt|apt]] or suitable**
+- **[[s/_suitability|Suitability]]; the [[q/_quality|quality]] of [[b/_being|being]] [[a/_apt|apt]] or [[s/_suitable|suitable]]**
 - **[[d/_disposition|Disposition]] of the [[m/_mind|mind]]; [[p/_propensity|propensity]]**
 	- _Example: the aptness of men to follow example_
 - **[[s/_speed|Speed]] or [[r/_readiness|readiness]] in [[l/_learning|learning]]; [[d/_docility|docility]]**

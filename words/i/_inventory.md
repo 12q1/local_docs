@@ -5,7 +5,7 @@
 	- _Example: Due to an undersized inventory at the Boston outlet, customers had to travel to Providence to find the item._
 - **([[o/_operations|operations]]) A [[d/_detailed|detailed]] [[l/_list|list]] of [[a/_all|all]] of the [[i/_items|items]] on [[h/_hand|hand]].**
 	- _Example: The inventory included several items that one wouldn't normally think to find at a cheese shop._
-- **([[o/_operations|operations]]) The [[p/_process|process]] of [[p/_producing|producing]] or updating such a [[l/_list|list]].**
+- **([[o/_operations|operations]]) The [[p/_process|process]] of [[p/_producing|producing]] or updating [[s/_such|such]] a [[l/_list|list]].**
 	- _Example: This month's inventory took nearly three days._
 - **A [[s/_space|space]] [[c/_containing|containing]] the [[i/_items|items]] [[a/_available|available]] to a [[c/_character|character]] for [[i/_immediate|immediate]] use.**
 	- _Example: You can't get through the underground tunnel if there are more than three items in your inventory._

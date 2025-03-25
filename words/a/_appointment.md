@@ -11,7 +11,7 @@
 - **[[d/_decree|Decree]]; [[d/_direction|direction]]; [[e/_established|established]] [[o/_order|order]] or [[c/_constitution|constitution]].**
 	- _Example: To submit to the divine appointments._
 - **The [[e/_exercise|exercise]] of the [[p/_power|power]] of [[d/_designating|designating]] (under a [[p/_power|power]] of [[a/_appointment|appointment]]) a [[p/_person|person]] to [[e/_enjoy|enjoy]] an [[e/_estate|estate]] or [[o/_other|other]] [[s/_specific|specific]] [[p/_property|property]]; [[a/_also|also]], the [[i/_instrument|instrument]] by which the [[d/_designation|designation]] is [[m/_made|made]].**
-- **The [[a/_assignment|assignment]] of a [[p/_person|person]] by an [[o/_official|official]] to [[p/_perform|perform]] a [[d/_duty|duty]], such as a [[p/_presidential|presidential]] [[a/_appointment|appointment]] of a [[j/_judge|judge]] to a [[c/_court|court]].**
+- **The [[a/_assignment|assignment]] of a [[p/_person|person]] by an [[o/_official|official]] to [[p/_perform|perform]] a [[d/_duty|duty]], [[s/_such|such]] as a [[p/_presidential|presidential]] [[a/_appointment|appointment]] of a [[j/_judge|judge]] to a [[c/_court|court]].**
 - **([[n/_now|now]] in the [[p/_plural|plural]]) [[e/_equipment|Equipment]], [[f/_furniture|furniture]].**
 - **A [[h/_honorary|honorary]] [[p/_part|part]] or [[e/_exercise|exercise]], as an [[o/_oration|oration]], [[e/_etc|etc]]., at a [[p/_public|public]] [[e/_exhibition|exhibition]] of a [[c/_college|college]].**
 	- _Example: to have an appointment_
