@@ -1,6 +1,6 @@
 # Dysarthria
 ---
 #noun
-- **[[d/_difficulty|Difficulty]] in [[a/_articulating|articulating]] words [[d/_due|due]] to [[d/_disturbance|disturbance]] in the form or function of the structures that modulate voice into speech; one of the first indicative symptoms of myasthenia gravis, [[b/_brought|brought]] [[a/_about|about]] by an [[a/_autoimmune|autoimmune]] response to [[a/_acetylcholine|acetylcholine]] receptors.**
+- **[[d/_difficulty|Difficulty]] in [[a/_articulating|articulating]] words [[d/_due|due]] to [[d/_disturbance|disturbance]] in the [[f/_form|form]] or [[f/_function|function]] of the structures that [[m/_modulate|modulate]] voice [[i/_into|into]] speech; [[o/_one|one]] of the [[f/_first|first]] [[i/_indicative|indicative]] symptoms of [[m/_myasthenia|myasthenia]] gravis, [[b/_brought|brought]] [[a/_about|about]] by an [[a/_autoimmune|autoimmune]] response to [[a/_acetylcholine|acetylcholine]] receptors.**
 ---
 ---

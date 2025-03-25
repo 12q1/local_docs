@@ -1,6 +1,6 @@
 # Elvers
 ---
 #noun
-- **A young [[e/_eel|eel]].**
+- **A [[y/_young|young]] [[e/_eel|eel]].**
 ---
 ---

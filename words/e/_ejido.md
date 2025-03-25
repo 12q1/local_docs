@@ -1,6 +1,6 @@
 # Ejido
 ---
 #noun
-- **A Mexican [[c/_cooperative|cooperative]] farm.**
+- **A [[m/_mexican|Mexican]] [[c/_cooperative|cooperative]] [[f/_farm|farm]].**
 ---
 ---

@@ -1,0 +1,14 @@
+# Havoc
+---
+#noun
+- **Widespread [[d/_devastation|devastation]], [[d/_destruction|destruction]]**
+- **[[m/_mayhem|Mayhem]]**
+---
+#verb
+- **To pillage.**
+- **To [[c/_cause|cause]] [[h/_havoc|havoc]].**
+---
+#interjection
+- **A [[c/_cry|cry]] in war as the signal for [[i/_indiscriminate|indiscriminate]] slaughter.**
+---
+---

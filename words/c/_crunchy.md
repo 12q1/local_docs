@@ -1,11 +1,11 @@
 # Crunchy
 ---
 #noun
-- **(usually in the plural) A pellet of [[d/_dry|dry]] [[c/_cat|cat]] food.**
+- **(usually in the plural) A pellet of [[d/_dry|dry]] [[c/_cat|cat]] [[f/_food|food]].**
 ---
 #adjective
-- **Likely to [[c/_crunch|crunch]], [[e/_especially|especially]] with reference to food when it is [[e/_eaten|eaten]].**
-- **Having sensibilities of a [[c/_counter|counter]]-[[c/_culture|culture]] nature lover or hippie; [[d/_derived|derived]] from the [[c/_concept|concept]] of [[c/_crunchy|crunchy]] granola.**
+- **[[l/_likely|Likely]] to [[c/_crunch|crunch]], [[e/_especially|especially]] with reference to [[f/_food|food]] when it is [[e/_eaten|eaten]].**
+- **[[h/_having|Having]] sensibilities of a [[c/_counter|counter]]-[[c/_culture|culture]] [[n/_nature|nature]] [[l/_lover|lover]] or [[h/_hippie|hippie]]; [[d/_derived|derived]] from the [[c/_concept|concept]] of [[c/_crunchy|crunchy]] [[g/_granola|granola]].**
 	- _Example: San Francisco is a very crunchy town._
 ---
 ### Synonyms

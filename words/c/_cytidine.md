@@ -1,6 +1,6 @@
 # Cytidine
 ---
 #noun
-- **A nucleoside [[c/_consisting|consisting]] of [[c/_cytosine|cytosine]] linked to ribose, occurring in human RNA**
+- **A [[n/_nucleoside|nucleoside]] [[c/_consisting|consisting]] of [[c/_cytosine|cytosine]] [[l/_linked|linked]] to ribose, [[o/_occurring|occurring]] in [[h/_human|human]] RNA**
 ---
 ---

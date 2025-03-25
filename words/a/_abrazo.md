@@ -1,6 +1,6 @@
 # Abrazo
 ---
 #noun
-- **A Latin [[a/_american|American]] [[e/_embrace|embrace]].**
+- **A [[l/_latin|Latin]] [[a/_american|American]] [[e/_embrace|embrace]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Crafted
 ---
 #verb
-- **To make by hand and with much skill.**
-- **To [[c/_construct|construct]], [[d/_develop|develop]] something (like a skilled [[c/_craftsman|craftsman]]).**
+- **To [[m/_make|make]] by [[h/_hand|hand]] and with [[m/_much|much]] skill.**
+- **To [[c/_construct|construct]], [[d/_develop|develop]] something ([[l/_like|like]] a skilled [[c/_craftsman|craftsman]]).**
 	- _Example: state crafting; the process of crafting global policing_
-- **To [[c/_combine|combine]] multiple items to form a new item, such as [[a/_armour|armour]] or medicine.**
+- **To [[c/_combine|combine]] [[m/_multiple|multiple]] [[i/_items|items]] to [[f/_form|form]] a [[n/_new|new]] [[i/_item|item]], such as [[a/_armour|armour]] or [[m/_medicine|medicine]].**
 ---
 #adjective
-- **Manufactured**
+- **[[m/_manufactured|Manufactured]]**
 	- _Example: The well-crafted table lasted for many years of use and abuse._
 ---
 ---

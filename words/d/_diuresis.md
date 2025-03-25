@@ -1,6 +1,6 @@
 # Diuresis
 ---
 #noun
-- **Excessive production of urine; polyuria.**
+- **[[e/_excessive|Excessive]] production of urine; polyuria.**
 ---
 ---

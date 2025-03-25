@@ -1,10 +1,10 @@
 # Abduction
 ---
 #noun
-- **Leading [[a/_away|away]]; a [[c/_carrying|carrying]] [[a/_away|away]].**
-- **The [[a/_act|act]] of [[a/_abducing|abducing]] or [[a/_abducting|abducting]]; a [[d/_drawing|drawing]] [[a/_apart|apart]]; the movement which separates a limb or other part from the [[a/_axis|axis]], or middle line, of the [[b/_body|body]].**
-- **A syllogism or form of [[a/_argument|argument]] in which the major premise is evident, but the minor is only probable.**
-- **The wrongful, and usually forcible, [[c/_carrying|carrying]] off of a human [[b/_being|being]].**
+- **[[l/_leading|Leading]] [[a/_away|away]]; a [[c/_carrying|carrying]] [[a/_away|away]].**
+- **The [[a/_act|act]] of [[a/_abducing|abducing]] or [[a/_abducting|abducting]]; a [[d/_drawing|drawing]] [[a/_apart|apart]]; the [[m/_movement|movement]] which separates a [[l/_limb|limb]] or [[o/_other|other]] part from the [[a/_axis|axis]], or [[m/_middle|middle]] [[l/_line|line]], of the [[b/_body|body]].**
+- **A syllogism or [[f/_form|form]] of [[a/_argument|argument]] in which the [[m/_major|major]] premise is [[e/_evident|evident]], but the [[m/_minor|minor]] is [[o/_only|only]] probable.**
+- **The wrongful, and usually [[f/_forcible|forcible]], [[c/_carrying|carrying]] [[o/_off|off]] of a [[h/_human|human]] [[b/_being|being]].**
 	- _Example: the abduction of a child_
 ---
 ### Synonyms

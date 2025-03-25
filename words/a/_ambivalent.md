@@ -1,8 +1,8 @@
 # Ambivalent
 ---
 #adjective
-- **Simultaneously experiencing or expressing opposing or [[c/_contradictory|contradictory]] feelings, [[b/_beliefs|beliefs]], or motivations.**
-- **[[a/_alternately|Alternately]] having one opinion or feeling, and then the opposite.**
+- **Simultaneously [[e/_experiencing|experiencing]] or [[e/_expressing|expressing]] [[o/_opposing|opposing]] or [[c/_contradictory|contradictory]] [[f/_feelings|feelings]], [[b/_beliefs|beliefs]], or [[m/_motivations|motivations]].**
+- **[[a/_alternately|Alternately]] [[h/_having|having]] [[o/_one|one]] [[o/_opinion|opinion]] or [[f/_feeling|feeling]], and then the [[o/_opposite|opposite]].**
 	- _Example: He has an ambivalent relationship towards his parents._
 ---
 ### Synonyms

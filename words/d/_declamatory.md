@@ -1,7 +1,7 @@
 # Declamatory
 ---
 #adjective
-- **Having the quality of a [[d/_declamation|declamation]].**
-- **Pretentiously lofty in style; [[b/_bombastic|bombastic]].**
+- **[[h/_having|Having]] the quality of a [[d/_declamation|declamation]].**
+- **Pretentiously [[l/_lofty|lofty]] in style; [[b/_bombastic|bombastic]].**
 ---
 ---

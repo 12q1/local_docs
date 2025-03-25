@@ -1,6 +1,6 @@
 # Anovulatory
 ---
 #adjective
-- **Not ovulatory; [[c/_characterized|characterized]] by anovulation (a lack of ovulation).**
+- **Not [[o/_ovulatory|ovulatory]]; [[c/_characterized|characterized]] by anovulation (a [[l/_lack|lack]] of [[o/_ovulation|ovulation]]).**
 ---
 ---

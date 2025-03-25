@@ -1,7 +1,7 @@
 # Centimeter
 ---
 #noun
-- **An SI unit of length [[e/_equal|equal]] to 10-2 metres. Symbol: [[c/_cm|cm]]**
+- **An SI unit of [[l/_length|length]] [[e/_equal|equal]] to 10-2 [[m/_metres|metres]]. Symbol: [[c/_cm|cm]]**
 ---
 ### Synonyms
 - [[c/_cm|cm]], [[㎝/_㎝|㎝]]

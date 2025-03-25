@@ -1,6 +1,6 @@
 # Caserns
 ---
 #noun
-- **A lodging for soldiers in garrison towns, usually near the rampart; [[b/_barracks|barracks]].**
+- **A [[l/_lodging|lodging]] for soldiers in [[g/_garrison|garrison]] towns, usually [[n/_near|near]] the rampart; [[b/_barracks|barracks]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Clocks
 ---
 #noun
-- **An instrument used to measure or keep track of time; a non-portable timepiece.**
-- **The odometer of a motor vehicle.**
+- **An [[i/_instrument|instrument]] used to [[m/_measure|measure]] or [[k/_keep|keep]] track of time; a [[n/_non|non]]-portable timepiece.**
+- **The [[o/_odometer|odometer]] of a [[m/_motor|motor]] vehicle.**
 	- _Example: This car has over 300,000 miles on the clock._
-- **An [[e/_electrical|electrical]] signal that synchronizes timing [[a/_among|among]] [[d/_digital|digital]] [[c/_circuits|circuits]] of semiconductor [[c/_chips|chips]] or modules.**
-- **The seed head of a [[d/_dandelion|dandelion]].**
+- **An [[e/_electrical|electrical]] signal that synchronizes timing [[a/_among|among]] [[d/_digital|digital]] [[c/_circuits|circuits]] of semiconductor [[c/_chips|chips]] or [[m/_modules|modules]].**
+- **The seed [[h/_head|head]] of a [[d/_dandelion|dandelion]].**
 - **A time [[c/_clock|clock]].**
 	- _Example: I can't go off to lunch yet: I'm still on the clock._
 - **A [[c/_cpu|CPU]] [[c/_clock|clock]] [[c/_cycle|cycle]], or T-state.**
@@ -13,31 +13,31 @@
 ### Synonyms
 - [[t/_timepiece|timepiece]], [[o/_odometer|odometer]]
 #verb
-- **To measure the [[d/_duration|duration]] of.**
-- **To measure the speed of.**
+- **To [[m/_measure|measure]] the [[d/_duration|duration]] of.**
+- **To [[m/_measure|measure]] the speed of.**
 	- _Example: He was clocked at 155 miles per hour._
-- **To hit (someone) heavily.**
+- **To [[h/_hit|hit]] (someone) [[h/_heavily|heavily]].**
 	- _Example: When the boxer let down his guard, his opponent clocked him._
-- **To take notice of; to realise; to recognize someone or something**
+- **To take [[n/_notice|notice]] of; to realise; to recognize someone or something**
 	- _Example: A trans person may be able to easily clock other trans people._
-- **To falsify the reading of the odometer of a vehicle.**
+- **To [[f/_falsify|falsify]] the reading of the [[o/_odometer|odometer]] of a vehicle.**
 	- _Example: I don't believe that car has done only 40,000 miles. It's been clocked._
-- **To [[b/_beat|beat]] a video game.**
+- **To [[b/_beat|beat]] a video [[g/_game|game]].**
 	- _Example: Have you clocked that game yet?_
 ---
 ### Synonyms
 - [[s/_slug|slug]], [[s/_smack|smack]], [[t/_thump|thump]], [[w/_whack|whack]], [[t/_time|time]]
 #noun
-- **A pattern near the heel of a sock or stocking.**
+- **A pattern [[n/_near|near]] the [[h/_heel|heel]] of a sock or stocking.**
 ---
 #verb
-- **To ornament ([[e/_e|e]].g. the side of a stocking) with figured work.**
+- **To [[o/_ornament|ornament]] ([[e/_e|e]].[[g/_g|g]]. the side of a stocking) with [[f/_figured|figured]] work.**
 ---
 #noun
-- **A large [[b/_beetle|beetle]], [[e/_especially|especially]] the European [[d/_dung|dung]] [[b/_beetle|beetle]] (Geotrupes stercorarius).**
+- **A [[l/_large|large]] [[b/_beetle|beetle]], [[e/_especially|especially]] the [[e/_european|European]] [[d/_dung|dung]] [[b/_beetle|beetle]] (Geotrupes stercorarius).**
 ---
 #verb
-- **To make the sound of a hen; to [[c/_cluck|cluck]].**
-- **To hatch.**
+- **To [[m/_make|make]] the sound of a [[h/_hen|hen]]; to [[c/_cluck|cluck]].**
+- **To [[h/_hatch|hatch]].**
 ---
 ---

@@ -1,17 +1,17 @@
 # Displeased
 ---
 #verb
-- **To make not pleased; to [[c/_cause|cause]] a feeling of [[d/_disapprobation|disapprobation]] or [[d/_dislike|dislike]] in; to be [[d/_disagreeable|disagreeable]] to; to vex slightly.**
+- **To [[m/_make|make]] not pleased; to [[c/_cause|cause]] a [[f/_feeling|feeling]] of [[d/_disapprobation|disapprobation]] or [[d/_dislike|dislike]] in; to be [[d/_disagreeable|disagreeable]] to; to vex slightly.**
 	- _Example: I felt displeased with the boy._
-- **To give [[d/_displeasure|displeasure]] or offense.**
-- **To fail to satisfy; to miss of.**
+- **To [[g/_give|give]] [[d/_displeasure|displeasure]] or [[o/_offense|offense]].**
+- **To [[f/_fail|fail]] to satisfy; to [[m/_miss|miss]] of.**
 ---
 ### Synonyms
 - [[m/_misplease|misplease]]
 ### Antonyms
 - [[p/_please|please]]
 #adjective
-- **Not pleased or happy with something.**
+- **Not pleased or [[h/_happy|happy]] with something.**
 	- _Example: a displeased customer_
 ---
 ---

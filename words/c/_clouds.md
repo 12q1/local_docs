@@ -1,34 +1,34 @@
 # Clouds
 ---
 #noun
-- **A rock; [[b/_boulder|boulder]]; a hill.**
-- **A visible mass of water [[d/_droplets|droplets]] suspended in the [[a/_air|air]].**
-- **[[a/_any|Any]] mass of [[d/_dust|dust]], steam or smoke resembling such a mass.**
-- **[[a/_anything|Anything]] which makes things foggy or gloomy.**
+- **A rock; [[b/_boulder|boulder]]; a [[h/_hill|hill]].**
+- **A visible [[m/_mass|mass]] of water [[d/_droplets|droplets]] suspended in the [[a/_air|air]].**
+- **[[a/_any|Any]] [[m/_mass|mass]] of [[d/_dust|dust]], steam or smoke resembling such a [[m/_mass|mass]].**
+- **[[a/_anything|Anything]] which [[m/_makes|makes]] things [[f/_foggy|foggy]] or [[g/_gloomy|gloomy]].**
 - **[[a/_anything|Anything]] unsubstantial.**
-- **A [[d/_dark|dark]] spot on a lighter material or [[b/_background|background]].**
-- **A group or swarm, [[e/_especially|especially]] suspended [[a/_above|above]] the ground or flying.**
+- **A [[d/_dark|dark]] spot on a [[l/_lighter|lighter]] [[m/_material|material]] or [[b/_background|background]].**
+- **A [[g/_group|group]] or swarm, [[e/_especially|especially]] suspended [[a/_above|above]] the [[g/_ground|ground]] or [[f/_flying|flying]].**
 	- _Example: He opened the door and was greeted by a cloud of bats._
-- **An [[e/_elliptical|elliptical]] shape or symbol whose outline is a series of semicircles, supposed to resemble a [[c/_cloud|cloud]].**
+- **An [[e/_elliptical|elliptical]] shape or symbol whose [[o/_outline|outline]] is a series of semicircles, supposed to resemble a [[c/_cloud|cloud]].**
 	- _Example: The comic-book character's thoughts appeared in a cloud above his head._
-- **(with "the") The Internet, regarded as an [[a/_abstract|abstract]] [[a/_amorphous|amorphous]] omnipresent space for processing and storage, the focus of [[c/_cloud|cloud]] [[c/_computing|computing]].**
-- **A negative or foreboding [[a/_aspect|aspect]] of something positive: see every [[c/_cloud|cloud]] has a silver lining or every silver lining has a [[c/_cloud|cloud]].**
-- **[[c/_crystal|Crystal]] methamphetamine.**
-- **A large, loosely-knitted headscarf worn by women.**
+- **(with "the") The [[i/_internet|Internet]], regarded as an [[a/_abstract|abstract]] [[a/_amorphous|amorphous]] [[o/_omnipresent|omnipresent]] space for processing and storage, the [[f/_focus|focus]] of [[c/_cloud|cloud]] [[c/_computing|computing]].**
+- **A [[n/_negative|negative]] or [[f/_foreboding|foreboding]] [[a/_aspect|aspect]] of something positive: see [[e/_every|every]] [[c/_cloud|cloud]] [[h/_has|has]] a silver [[l/_lining|lining]] or [[e/_every|every]] silver [[l/_lining|lining]] [[h/_has|has]] a [[c/_cloud|cloud]].**
+- **[[c/_crystal|Crystal]] [[m/_methamphetamine|methamphetamine]].**
+- **A [[l/_large|large]], [[l/_loosely|loosely]]-[[k/_knitted|knitted]] [[h/_headscarf|headscarf]] worn by women.**
 ---
 #verb
-- **To [[b/_become|become]] foggy or gloomy, or obscured from sight.**
+- **To [[b/_become|become]] [[f/_foggy|foggy]] or [[g/_gloomy|gloomy]], or [[o/_obscured|obscured]] from sight.**
 	- _Example: The glass clouds when you breathe on it._
-- **To overspread or hide with a [[c/_cloud|cloud]] or [[c/_clouds|clouds]].**
+- **To [[o/_overspread|overspread]] or [[h/_hide|hide]] with a [[c/_cloud|cloud]] or [[c/_clouds|clouds]].**
 	- _Example: The sky is clouded._
-- **To make obscure.**
+- **To [[m/_make|make]] [[o/_obscure|obscure]].**
 	- _Example: All this talk about human rights is clouding the real issue._
-- **To make less [[a/_acute|acute]] or perceptive.**
+- **To [[m/_make|make]] [[l/_less|less]] [[a/_acute|acute]] or perceptive.**
 	- _Example: The tears began to well up and cloud my vision._
-- **To make gloomy or sullen.**
+- **To [[m/_make|make]] [[g/_gloomy|gloomy]] or sullen.**
 - **To [[b/_blacken|blacken]]; to sully; to stain; to tarnish (reputation or [[c/_character|character]]).**
-- **To mark with, or [[d/_darken|darken]] in, veins or sports; to variegate with [[c/_colors|colors]].**
+- **To [[m/_mark|mark]] with, or [[d/_darken|darken]] in, veins or sports; to variegate with [[c/_colors|colors]].**
 	- _Example: to cloud yarn_
-- **To [[b/_become|become]] marked, [[d/_darkened|darkened]] or variegated in this way.**
+- **To [[b/_become|become]] [[m/_marked|marked]], [[d/_darkened|darkened]] or variegated in this way.**
 ---
 ---

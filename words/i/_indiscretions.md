@@ -1,0 +1,10 @@
+# Indiscretions
+---
+#noun
+- **The quality or state of [[b/_being|being]] [[i/_indiscreet|indiscreet]]; [[l/_lack|lack]] of [[d/_discretion|discretion]]**
+- **An [[i/_indiscreet|indiscreet]] or [[i/_imprudent|imprudent]] [[a/_act|act]]; [[i/_indiscreet|indiscreet]] [[b/_behavior|behavior]].**
+- **A [[b/_brief|brief]] sexual [[l/_liaison|liaison]].**
+---
+### Synonyms
+- [[i/_imprudence|imprudence]], [[r/_rashness|rashness]]
+---

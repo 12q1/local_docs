@@ -1,6 +1,6 @@
 # Arum
 ---
 #noun
-- **A flower or plant in the genus [[a/_arum|Arum]]**
+- **A [[f/_flower|flower]] or plant in the [[g/_genus|genus]] [[a/_arum|Arum]]**
 ---
 ---

@@ -1,8 +1,8 @@
 # Aconite
 ---
 #noun
-- **The herb wolfsbane, or monkshood; [[a/_any|any]] plant of the genus [[a/_aconitum|Aconitum]], [[a/_all|all]] the species of which are poisonous.**
-- **An extract or tincture obtained from [[a/_aconitum|Aconitum]] napellus, used as a poison and medicinally.**
+- **The [[h/_herb|herb]] wolfsbane, or [[m/_monkshood|monkshood]]; [[a/_any|any]] plant of the [[g/_genus|genus]] [[a/_aconitum|Aconitum]], [[a/_all|all]] the species of which are poisonous.**
+- **An [[e/_extract|extract]] or tincture [[o/_obtained|obtained]] from [[a/_aconitum|Aconitum]] [[n/_napellus|napellus]], used as a poison and [[m/_medicinally|medicinally]].**
 ---
 ### Synonyms
 - [[m/_monkshood|monkshood]], [[w/_wolfsbane|wolfsbane]]

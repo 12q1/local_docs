@@ -1,8 +1,8 @@
 # Eelpouts
 ---
 #noun
-- **[[a/_any|Any]] fish of the family Zoarcidae.**
-- **A yellow flower of uncertain type, possibly the [[e/_eel|eel]]-ware, Ranunculus fluitans.**
+- **[[a/_any|Any]] [[f/_fish|fish]] of the [[f/_family|family]] Zoarcidae.**
+- **A [[y/_yellow|yellow]] [[f/_flower|flower]] of uncertain type, possibly the [[e/_eel|eel]]-ware, Ranunculus fluitans.**
 ---
 ### Synonyms
 - [[d/_dogfish|dogfish]], [[s/_slipskin|slipskin]]

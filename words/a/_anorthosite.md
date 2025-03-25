@@ -1,6 +1,6 @@
 # Anorthosite
 ---
 #noun
-- **A phaneritic, intrusive igneous rock [[c/_characterized|characterized]] by a predominance of plagioclase feldspar.**
+- **A phaneritic, [[i/_intrusive|intrusive]] [[i/_igneous|igneous]] rock [[c/_characterized|characterized]] by a predominance of plagioclase [[f/_feldspar|feldspar]].**
 ---
 ---

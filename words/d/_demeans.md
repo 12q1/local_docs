@@ -1,15 +1,15 @@
 # Demeans
 ---
 #verb
-- **To [[d/_debase|debase]]; to lower; to [[d/_degrade|degrade]].**
-- **To humble, humble oneself; to humiliate.**
-- **To mortify.**
+- **To [[d/_debase|debase]]; to [[l/_lower|lower]]; to [[d/_degrade|degrade]].**
+- **To [[h/_humble|humble]], [[h/_humble|humble]] [[o/_oneself|oneself]]; to [[h/_humiliate|humiliate]].**
+- **To [[m/_mortify|mortify]].**
 ---
 #verb
-- **To manage; to [[c/_conduct|conduct]]; to treat.**
-- **(now rare) To [[c/_conduct|conduct]]; to [[b/_behave|behave]]; to [[c/_comport|comport]]; followed by the reflexive pronoun.**
+- **To [[m/_manage|manage]]; to [[c/_conduct|conduct]]; to treat.**
+- **([[n/_now|now]] rare) To [[c/_conduct|conduct]]; to [[b/_behave|behave]]; to [[c/_comport|comport]]; [[f/_followed|followed]] by the reflexive pronoun.**
 ---
 #verb
-- **To subtract the mean from (a value, or every observation in a [[d/_dataset|dataset]]).**
+- **To subtract the [[m/_mean|mean]] from (a value, or [[e/_every|every]] [[o/_observation|observation]] in a [[d/_dataset|dataset]]).**
 ---
 ---

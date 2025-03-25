@@ -1,6 +1,6 @@
 # Cesser
 ---
 #noun
-- **A neglect of a tenant to perform services, or make payment, for two years.**
+- **A [[n/_neglect|neglect]] of a tenant to perform services, or [[m/_make|make]] [[p/_payment|payment]], for two [[y/_years|years]].**
 ---
 ---

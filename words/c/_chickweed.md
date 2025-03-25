@@ -1,7 +1,7 @@
 # Chickweed
 ---
 #noun
-- **[[a/_any|Any]] of several small-leaved herbs of the genera [[c/_cerastium|Cerastium]] and Stellaria.**
-- **Other plants of similar [[a/_appearance|appearance]] and habit:**
+- **[[a/_any|Any]] of several small-[[l/_leaved|leaved]] [[h/_herbs|herbs]] of the [[g/_genera|genera]] [[c/_cerastium|Cerastium]] and Stellaria.**
+- **[[o/_other|Other]] plants of similar [[a/_appearance|appearance]] and [[h/_habit|habit]]:**
 ---
 ---

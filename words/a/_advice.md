@@ -1,20 +1,20 @@
 # Advice
 ---
 #noun
-- **An opinion offered in an [[e/_effort|effort]] to be helpful.**
+- **An [[o/_opinion|opinion]] [[o/_offered|offered]] in an [[e/_effort|effort]] to be [[h/_helpful|helpful]].**
 	- _Example: She was offered various piece of advice on what to do with her new-found wealth._
-- **[[d/_deliberate|Deliberate]] [[c/_consideration|consideration]]; knowledge.**
-- **([[c/_commonly|commonly]] in plural) Information or news given; intelligence**
+- **[[d/_deliberate|Deliberate]] [[c/_consideration|consideration]]; [[k/_knowledge|knowledge]].**
+- **([[c/_commonly|commonly]] in plural) [[i/_information|Information]] or [[n/_news|news]] [[g/_given|given]]; [[i/_intelligence|intelligence]]**
 	- _Example: late advices from France_
-- **In language [[a/_about|about]] financial transactions executed by formal [[d/_documents|documents]], an [[a/_advisory|advisory]] [[d/_document|document]].**
+- **In [[l/_language|language]] [[a/_about|about]] [[f/_financial|financial]] transactions [[e/_executed|executed]] by [[f/_formal|formal]] [[d/_documents|documents]], an [[a/_advisory|advisory]] [[d/_document|document]].**
 	- _Example: An advice of an incoming settlement payment order may be given to an off-line receiving bank._
-- **In [[c/_commercial|commercial]] language, information [[c/_communicated|communicated]] by letter; used [[c/_chiefly|chiefly]] in reference to [[d/_drafts|drafts]] or [[b/_bills|bills]] of exchange**
+- **In [[c/_commercial|commercial]] [[l/_language|language]], [[i/_information|information]] [[c/_communicated|communicated]] by [[l/_letter|letter]]; used [[c/_chiefly|chiefly]] in reference to [[d/_drafts|drafts]] or [[b/_bills|bills]] of [[e/_exchange|exchange]]**
 	- _Example: a letter of advice_
-- **A [[c/_communication|communication]] providing information, such as how an uncertain [[a/_area|area]] of law might [[a/_apply|apply]] to possible future [[a/_actions|actions]]**
+- **A [[c/_communication|communication]] providing [[i/_information|information]], such as [[h/_how|how]] an uncertain [[a/_area|area]] of [[l/_law|law]] [[m/_might|might]] [[a/_apply|apply]] to possible [[f/_future|future]] [[a/_actions|actions]]**
 	- _Example: An advice issued by a Monitoring Committee could be applicable in a Dutch court_
-- **[[c/_counseling|Counseling]] to perform a specific legal [[a/_act|act]].**
-- **[[c/_counseling|Counseling]] to perform a specific illegal [[a/_act|act]].**
-- **In [[a/_aspect|aspect]]-oriented programming, the [[c/_code|code]] whose execution is triggered when a join point is reached.**
+- **[[c/_counseling|Counseling]] to perform a specific [[l/_legal|legal]] [[a/_act|act]].**
+- **[[c/_counseling|Counseling]] to perform a specific [[i/_illegal|illegal]] [[a/_act|act]].**
+- **In [[a/_aspect|aspect]]-[[o/_oriented|oriented]] programming, the [[c/_code|code]] whose [[e/_execution|execution]] is triggered when a [[j/_join|join]] point is reached.**
 ---
 ### Synonyms
 - [[a/_admonition|admonition]], [[c/_counsel|counsel]], [[e/_exhortation|exhortation]], [[i/_information|information]], [[n/_notice|notice]], [[r/_recommendation|recommendation]], [[r/_rede|rede]], [[s/_suggestion|suggestion]], [[t/_tip|tip]]

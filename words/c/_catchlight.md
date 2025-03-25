@@ -1,6 +1,6 @@
 # Catchlight
 ---
 #noun
-- **A gleam of reflected light in a subject's [[e/_eye|eye]].**
+- **A [[g/_gleam|gleam]] of reflected [[l/_light|light]] in a subject's [[e/_eye|eye]].**
 ---
 ---

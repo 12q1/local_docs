@@ -1,7 +1,7 @@
 # Ashore
 ---
 #adverb
-- **On the land as opposed to onboard.**
+- **On the [[l/_land|land]] as [[o/_opposed|opposed]] to [[o/_onboard|onboard]].**
 - **On, or towards the shore.**
 	- _Example: The canoe sailed ashore._
 ---

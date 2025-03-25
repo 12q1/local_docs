@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Of or pertaining to an [[e/_epoch|epoch]]**
-- **Highly important or significant; monumental, [[e/_epoch|epoch]]-making**
+- **[[h/_highly|Highly]] [[i/_important|important]] or significant; [[m/_monumental|monumental]], [[e/_epoch|epoch]]-[[m/_making|making]]**
 ---
 ---

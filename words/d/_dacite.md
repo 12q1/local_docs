@@ -1,6 +1,6 @@
 # Dacite
 ---
 #noun
-- **An igneous, volcanic rock with a high iron [[c/_content|content]].**
+- **An [[i/_igneous|igneous]], volcanic rock with a [[h/_high|high]] [[i/_iron|iron]] [[c/_content|content]].**
 ---
 ---

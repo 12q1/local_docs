@@ -1,6 +1,6 @@
 # Eurhythmic
 ---
 #adjective
-- **Harmonious**
+- **[[h/_harmonious|Harmonious]]**
 ---
 ---

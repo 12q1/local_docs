@@ -1,6 +1,6 @@
 # Bifilar
 ---
 #adjective
-- **Having two wires, threads or filaments**
+- **[[h/_having|Having]] two wires, threads or [[f/_filaments|filaments]]**
 ---
 ---

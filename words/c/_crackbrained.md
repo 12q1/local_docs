@@ -1,6 +1,6 @@
 # Crackbrained
 ---
 #adjective
-- **Idiotic.**
+- **[[i/_idiotic|Idiotic]].**
 ---
 ---

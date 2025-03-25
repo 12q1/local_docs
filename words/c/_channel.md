@@ -3,38 +3,38 @@
 #noun
 - **The physical [[c/_confine|confine]] of a river or slough, [[c/_consisting|consisting]] of a [[b/_bed|bed]] and [[b/_banks|banks]].**
 	- _Example: The water coming out of the waterwheel created a standing wave in the channel._
-- **The natural or man-made [[d/_deeper|deeper]] [[c/_course|course]] through a reef, [[b/_bar|bar]], [[b/_bay|bay]], or [[a/_any|any]] shallow [[b/_body|body]] of water.**
+- **The [[n/_natural|natural]] or [[m/_man|man]]-[[m/_made|made]] [[d/_deeper|deeper]] [[c/_course|course]] through a reef, [[b/_bar|bar]], [[b/_bay|bay]], or [[a/_any|any]] shallow [[b/_body|body]] of water.**
 	- _Example: A channel was dredged to allow ocean-going vessels to reach the city._
-- **The navigable part of a river.**
+- **The [[n/_navigable|navigable]] part of a river.**
 	- _Example: We were careful to keep our boat in the channel._
-- **A narrow [[b/_body|body]] of water [[b/_between|between]] two land masses.**
+- **A [[n/_narrow|narrow]] [[b/_body|body]] of water [[b/_between|between]] two [[l/_land|land]] [[m/_masses|masses]].**
 	- _Example: The English Channel lies between France and England._
-- **Something through which [[a/_another|another]] thing passes; a means of [[c/_conveying|conveying]] or transmitting.**
+- **Something through which [[a/_another|another]] thing passes; a [[m/_means|means]] of [[c/_conveying|conveying]] or transmitting.**
 	- _Example: The news was conveyed to us by different channels._
-- **A gutter; a groove, as in a fluted [[c/_column|column]].**
-- **A [[c/_connection|connection]] [[b/_between|between]] initiating and terminating nodes of a [[c/_circuit|circuit]].**
+- **A [[g/_gutter|gutter]]; a [[g/_groove|groove]], as in a [[f/_fluted|fluted]] [[c/_column|column]].**
+- **A [[c/_connection|connection]] [[b/_between|between]] [[i/_initiating|initiating]] and terminating [[n/_nodes|nodes]] of a [[c/_circuit|circuit]].**
 	- _Example: The guard-rail provided the channel between the downed wire and the tree._
-- **The narrow [[c/_conducting|conducting]] portion of a MOSFET transistor.**
+- **The [[n/_narrow|narrow]] [[c/_conducting|conducting]] portion of a MOSFET transistor.**
 - **([[c/_communication|communication]]) The part that [[c/_connects|connects]] a [[d/_data|data]] source to a [[d/_data|data]] sink.**
 	- _Example: A channel stretches between them._
-- **([[c/_communication|communication]]) A path for [[c/_conveying|conveying]] [[e/_electrical|electrical]] or [[e/_electromagnetic|electromagnetic]] signals, usually [[d/_distinguished|distinguished]] from other parallel paths.**
+- **([[c/_communication|communication]]) A path for [[c/_conveying|conveying]] [[e/_electrical|electrical]] or [[e/_electromagnetic|electromagnetic]] signals, usually [[d/_distinguished|distinguished]] from [[o/_other|other]] parallel paths.**
 	- _Example: We are using one of the 24 channels._
-- **([[c/_communication|communication]]) A single path provided by a transmission medium via physical separation, such as by multipair [[c/_cable|cable]].**
+- **([[c/_communication|communication]]) A single path provided by a transmission [[m/_medium|medium]] via physical separation, such as by multipair [[c/_cable|cable]].**
 	- _Example: The channel is created by bonding the signals from these four pairs._
-- **([[c/_communication|communication]]) A single path provided by a transmission medium via spectral or protocol separation, such as by frequency or time-[[d/_division|division]] multiplexing.**
+- **([[c/_communication|communication]]) A single path provided by a transmission [[m/_medium|medium]] via spectral or protocol separation, such as by [[f/_frequency|frequency]] or time-[[d/_division|division]] [[m/_multiplexing|multiplexing]].**
 	- _Example: Their call is being carried on channel 6 of the T-1 line._
-- **A specific radio frequency or [[b/_band|band]] of frequencies, usually in [[c/_conjunction|conjunction]] with a predetermined letter, number, or [[c/_codeword|codeword]], and [[a/_allocated|allocated]] by international [[a/_agreement|agreement]].**
+- **A specific radio [[f/_frequency|frequency]] or [[b/_band|band]] of [[f/_frequencies|frequencies]], usually in [[c/_conjunction|conjunction]] with a predetermined [[l/_letter|letter]], [[n/_number|number]], or [[c/_codeword|codeword]], and [[a/_allocated|allocated]] by [[i/_international|international]] [[a/_agreement|agreement]].**
 	- _Example: KNDD is the channel at 107.7 MHz in Seattle._
-- **A specific radio frequency or [[b/_band|band]] of frequencies used for transmitting television.**
+- **A specific radio [[f/_frequency|frequency]] or [[b/_band|band]] of [[f/_frequencies|frequencies]] used for transmitting television.**
 	- _Example: NBC is on channel 11 in San Jose._
-- **(storage) The portion of a storage medium, such as a track or a [[b/_band|band]], that is [[a/_accessible|accessible]] to a given reading or writing station or head.**
+- **(storage) The portion of a storage [[m/_medium|medium]], such as a track or a [[b/_band|band]], that is [[a/_accessible|accessible]] to a [[g/_given|given]] reading or writing station or [[h/_head|head]].**
 	- _Example: This chip in this disk drive is the channel device._
 - **(technic) The way in a turbine pump where the pressure is [[b/_built|built]] up.**
 	- _Example: The liquid is pressurized in the lateral channel._
 - **A [[d/_distribution|distribution]] [[c/_channel|channel]]**
-- **A particular [[a/_area|area]] for [[c/_conversations|conversations]] on an IRC network, [[a/_analogous|analogous]] to a [[c/_chat|chat]] room and often [[d/_dedicated|dedicated]] to a specific topic.**
-- **An obsolete means of [[d/_delivering|delivering]] up-to-[[d/_date|date]] Internet [[c/_content|content]].**
-- **A psychic or medium who temporarily takes on the personality of somebody [[e/_else|else]].**
+- **A particular [[a/_area|area]] for [[c/_conversations|conversations]] on an IRC [[n/_network|network]], [[a/_analogous|analogous]] to a [[c/_chat|chat]] room and [[o/_often|often]] [[d/_dedicated|dedicated]] to a specific topic.**
+- **An [[o/_obsolete|obsolete]] [[m/_means|means]] of [[d/_delivering|delivering]] up-to-[[d/_date|date]] [[i/_internet|Internet]] [[c/_content|content]].**
+- **A psychic or [[m/_medium|medium]] who temporarily takes on the personality of somebody [[e/_else|else]].**
 ---
 ### Synonyms
 - [[g/_groove|groove]], [[g/_gutter|gutter]], [[p/_passage|passage]], [[s/_sound|sound]], [[s/_strait|strait]], [[s/_side|side]], [[s/_station|station]]

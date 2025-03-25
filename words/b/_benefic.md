@@ -1,11 +1,11 @@
 # Benefic
 ---
 #noun
-- **A favorable planet**
+- **A [[f/_favorable|favorable]] planet**
 ---
 ### Antonyms
 - [[m/_malefic|malefic]]
 #adjective
-- **Favorable; [[b/_beneficent|beneficent]].**
+- **[[f/_favorable|Favorable]]; [[b/_beneficent|beneficent]].**
 ---
 ---

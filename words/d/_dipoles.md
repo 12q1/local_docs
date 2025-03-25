@@ -1,8 +1,8 @@
 # Dipoles
 ---
 #noun
-- **[[a/_any|Any]] object (such as a magnet, polar molecule or [[a/_antenna|antenna]]) that is oppositely [[c/_charged|charged]] at two points (or poles)**
-- **[[a/_any|Any]] molecule or radical that has [[d/_delocalised|delocalised]] positive and negative [[c/_charges|charges]]**
+- **[[a/_any|Any]] [[o/_object|object]] (such as a [[m/_magnet|magnet]], polar [[m/_molecule|molecule]] or [[a/_antenna|antenna]]) that is [[o/_oppositely|oppositely]] [[c/_charged|charged]] at two points (or poles)**
+- **[[a/_any|Any]] [[m/_molecule|molecule]] or radical that [[h/_has|has]] [[d/_delocalised|delocalised]] positive and [[n/_negative|negative]] [[c/_charges|charges]]**
 - **A [[d/_dipole|dipole]] [[a/_antenna|antenna]]**
 ---
 ---

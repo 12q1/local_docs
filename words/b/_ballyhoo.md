@@ -2,9 +2,9 @@
 ---
 #noun
 - **Sensational or [[c/_clamorous|clamorous]] [[a/_advertising|advertising]] or publicity.**
-- **Noisy shouting or uproar.**
+- **[[n/_noisy|Noisy]] shouting or uproar.**
 ---
 #verb
-- **To sensationalise or make grand [[c/_claims|claims]].**
+- **To sensationalise or [[m/_make|make]] [[g/_grand|grand]] [[c/_claims|claims]].**
 ---
 ---

@@ -1,14 +1,14 @@
 # Concertinas
 ---
 #noun
-- **A musical instrument, like the various [[a/_accordions|accordions]], that is a member of the free-reed family of musical instruments, typically having [[b/_buttons|buttons]] on [[b/_both|both]] [[e/_ends|ends]].**
-- **Something resembling a [[c/_concertina|concertina]], such as a folded [[b/_book|book]], a [[b/_bus|bus]] [[d/_door|door]] or a set of picture frames that are folded together.**
-- **[[c/_coiled|Coiled]] [[b/_barbed|barbed]] wire for use as an obstacle.**
-- **A type of [[b/_booklet|booklet]] label, [[c/_consisting|consisting]] of up to 32 pages of [[b/_booklet|booklet]] as an insert.**
+- **A [[m/_musical|musical]] [[i/_instrument|instrument]], [[l/_like|like]] the various [[a/_accordions|accordions]], that is a [[m/_member|member]] of the [[f/_free|free]]-reed [[f/_family|family]] of [[m/_musical|musical]] [[i/_instruments|instruments]], typically [[h/_having|having]] [[b/_buttons|buttons]] on [[b/_both|both]] [[e/_ends|ends]].**
+- **Something resembling a [[c/_concertina|concertina]], such as a [[f/_folded|folded]] [[b/_book|book]], a [[b/_bus|bus]] [[d/_door|door]] or a set of picture [[f/_frames|frames]] that are [[f/_folded|folded]] together.**
+- **[[c/_coiled|Coiled]] [[b/_barbed|barbed]] wire for use as an [[o/_obstacle|obstacle]].**
+- **A type of [[b/_booklet|booklet]] [[l/_label|label]], [[c/_consisting|consisting]] of up to 32 [[p/_pages|pages]] of [[b/_booklet|booklet]] as an [[i/_insert|insert]].**
 ---
 #verb
-- **To [[b/_become|become]] [[c/_compressed|compressed]] into a shape reminiscent of a [[c/_concertina|concertina]]**
+- **To [[b/_become|become]] [[c/_compressed|compressed]] [[i/_into|into]] a shape reminiscent of a [[c/_concertina|concertina]]**
 	- _Example: The car concertinaed into the wall._
-- **To be [[d/_drawn|drawn]] [[c/_closer|closer]] and farther [[a/_apart|apart]] repeatedly, or up and [[d/_down|down]], as if situated on a working [[c/_concertina|concertina]]'s folds**
+- **To be [[d/_drawn|drawn]] [[c/_closer|closer]] and [[f/_farther|farther]] [[a/_apart|apart]] repeatedly, or up and [[d/_down|down]], as [[i/_if|if]] situated on a working [[c/_concertina|concertina]]'s [[f/_folds|folds]]**
 ---
 ---

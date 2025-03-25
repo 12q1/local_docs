@@ -1,6 +1,6 @@
 # Candlelight
 ---
 #noun
-- **The light [[e/_emitted|emitted]] by a [[c/_candle|candle]].**
+- **The [[l/_light|light]] [[e/_emitted|emitted]] by a [[c/_candle|candle]].**
 ---
 ---

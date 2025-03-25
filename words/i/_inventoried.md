@@ -1,0 +1,9 @@
+# Inventoried
+---
+#verb
+- **([[o/_operations|operations]]) To take stock of the resources or [[i/_items|items]] on [[h/_hand|hand]]; to produce an [[i/_inventory|inventory]].**
+	- _Example: The main job of the night shift was to inventory the store, and restock when necessary._
+---
+### Synonyms
+- [[i/_index|index]], [[i/_inventorize|inventorize]]
+---

@@ -1,6 +1,6 @@
 # Epimysium
 ---
 #noun
-- **A layer of [[c/_connective|connective]] tissue which surrounds individual muscles**
+- **A [[l/_layer|layer]] of [[c/_connective|connective]] tissue which surrounds [[i/_individual|individual]] [[m/_muscles|muscles]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Editorialize
 ---
 #verb
-- **To express one's opinion as if in an [[e/_editorial|editorial]], or as if it were an objective statement.**
+- **To [[e/_express|express]] [[o/_one|one]]'s [[o/_opinion|opinion]] as [[i/_if|if]] in an [[e/_editorial|editorial]], or as [[i/_if|if]] it were an [[o/_objective|objective]] statement.**
 ---
 ---

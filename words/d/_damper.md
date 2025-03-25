@@ -1,7 +1,7 @@
 # Damper
 ---
 #adjective
-- **In a state [[b/_between|between]] [[d/_dry|dry]] and wet; moderately wet; moist.**
+- **In a state [[b/_between|between]] [[d/_dry|dry]] and wet; [[m/_moderately|moderately]] wet; [[m/_moist|moist]].**
 	- _Example: The lawn was still damp so we decided not to sit down._
 - **[[d/_despondent|Despondent]]; [[d/_dispirited|dispirited]], [[d/_downcast|downcast]].**
 - **Permitting the possession of [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]], but not their sale.**
@@ -10,6 +10,6 @@
 - [[g/_glum|glum]], [[m/_melancholy|melancholy]], [[s/_sorrowful|sorrowful]], [[m/_moist|moist]], [[t/_thoan|thoan]], [[t/_thone|thone]]
 #noun
 - **Something that [[d/_damps|damps]] or [[c/_checks|checks]]:**
-- **[[b/_bread|Bread]] made from a [[b/_basic|basic]] recipe of flour, water, milk, and salt, but without yeast.**
+- **[[b/_bread|Bread]] [[m/_made|made]] from a [[b/_basic|basic]] recipe of [[f/_flour|flour]], water, [[m/_milk|milk]], and salt, but without [[y/_yeast|yeast]].**
 ---
 ---

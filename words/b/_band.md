@@ -1,24 +1,24 @@
 # Band
 ---
 #noun
-- **A strip of material used for strengthening or [[c/_coupling|coupling]].**
-- **A long strip of material, [[c/_color|color]], [[e/_etc|etc]], that is [[d/_different|different]] from the surrounding [[a/_area|area]].**
+- **A strip of [[m/_material|material]] used for strengthening or [[c/_coupling|coupling]].**
+- **A [[l/_long|long]] strip of [[m/_material|material]], [[c/_color|color]], [[e/_etc|etc]], that is [[d/_different|different]] from the surrounding [[a/_area|area]].**
 - **A strip of [[d/_decoration|decoration]].**
-- **That which serves as the means of union or [[c/_connection|connection]] [[b/_between|between]] persons; a tie.**
-- **A linen [[c/_collar|collar]] or ruff worn in the 16th and 17th [[c/_centuries|centuries]].**
-- **(in the plural) Two strips of linen hanging from the neck in front as part of a [[c/_clerical|clerical]], legal, or [[a/_academic|academic]] [[d/_dress|dress]].**
+- **That which serves as the [[m/_means|means]] of union or [[c/_connection|connection]] [[b/_between|between]] persons; a tie.**
+- **A [[l/_linen|linen]] [[c/_collar|collar]] or ruff worn in the 16th and 17th [[c/_centuries|centuries]].**
+- **(in the plural) Two strips of [[l/_linen|linen]] [[h/_hanging|hanging]] from the [[n/_neck|neck]] in [[f/_front|front]] as part of a [[c/_clerical|clerical]], [[l/_legal|legal]], or [[a/_academic|academic]] [[d/_dress|dress]].**
 - **A part of the [[e/_electromagnetic|electromagnetic]] spectrum.**
-- **A group of [[e/_energy|energy]] levels in a solid state material.**
+- **A [[g/_group|group]] of [[e/_energy|energy]] [[l/_levels|levels]] in a solid state [[m/_material|material]].**
 	- _Example: valence band;  conduction band_
 - **A [[b/_bond|bond]].**
 - **Pledge; security.**
-- **A ring, such as a wedding ring (wedding [[b/_band|band]]), or a ring put on a [[b/_bird|bird]]'s leg to identify it.**
-- **[[a/_any|Any]] [[d/_distinguishing|distinguishing]] line formed by [[c/_chromatography|chromatography]], [[e/_electrophoresis|electrophoresis]] [[e/_etc|etc]]**
+- **A ring, such as a wedding ring (wedding [[b/_band|band]]), or a ring put on a [[b/_bird|bird]]'s [[l/_leg|leg]] to [[i/_identify|identify]] it.**
+- **[[a/_any|Any]] [[d/_distinguishing|distinguishing]] [[l/_line|line]] [[f/_formed|formed]] by [[c/_chromatography|chromatography]], [[e/_electrophoresis|electrophoresis]] [[e/_etc|etc]]**
 - **Short for [[b/_band|band]] [[c/_cell|cell]].**
-- **(hiphop, often in the plural) A wad of money totaling $1K, held together by a [[b/_band|band]]; (by extension) money**
+- **(hiphop, [[o/_often|often]] in the plural) A wad of [[m/_money|money]] totaling $1K, [[h/_held|held]] together by a [[b/_band|band]]; (by [[e/_extension|extension]]) [[m/_money|money]]**
 ---
 #verb
-- **To fasten with a [[b/_band|band]].**
-- **To fasten an identifying [[b/_band|band]] [[a/_around|around]] the leg of (a [[b/_bird|bird]]).**
+- **To [[f/_fasten|fasten]] with a [[b/_band|band]].**
+- **To [[f/_fasten|fasten]] an [[i/_identifying|identifying]] [[b/_band|band]] [[a/_around|around]] the [[l/_leg|leg]] of (a [[b/_bird|bird]]).**
 ---
 ---

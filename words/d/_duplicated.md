@@ -1,7 +1,7 @@
 # Duplicated
 ---
 #verb
-- **To make a [[c/_copy|copy]] of.**
+- **To [[m/_make|make]] a [[c/_copy|copy]] of.**
 	- _Example: Can you duplicate this kind of key?_
 - **To [[d/_do|do]] repeatedly; to [[d/_do|do]] [[a/_again|again]].**
 	- _Example: You don't need to duplicate my efforts._

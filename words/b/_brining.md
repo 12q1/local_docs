@@ -1,8 +1,8 @@
 # Brining
 ---
 #verb
-- **To preserve food in a salt solution.**
-- **To prepare and flavor food ([[e/_especially|especially]] meat) for [[c/_cooking|cooking]] by soaking in a salt solution.**
+- **To preserve [[f/_food|food]] in a salt solution.**
+- **To prepare and [[f/_flavor|flavor]] [[f/_food|food]] ([[e/_especially|especially]] [[m/_meat|meat]]) for [[c/_cooking|cooking]] by soaking in a salt solution.**
 ---
 ### Antonyms
 - [[d/_debrine|debrine]], [[d/_desalinate|desalinate]]

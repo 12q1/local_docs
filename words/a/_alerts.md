@@ -2,11 +2,11 @@
 ---
 #noun
 - **An [[a/_alarm|alarm]].**
-- **A notification of higher importance than an [[a/_advisory|advisory]].**
+- **A [[n/_notification|notification]] of [[h/_higher|higher]] [[i/_importance|importance]] than an [[a/_advisory|advisory]].**
 - **A state of readiness for potential [[c/_combat|combat]].**
 	- _Example: an airborne alert; ground alert_
 ---
 #verb
-- **To give warning to.**
+- **To [[g/_give|give]] warning to.**
 ---
 ---

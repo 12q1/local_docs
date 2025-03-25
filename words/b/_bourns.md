@@ -5,6 +5,6 @@
 ---
 #noun
 - **[[d/_destination|Destination]].**
-- **Limit.**
+- **[[l/_limit|Limit]].**
 ---
 ---

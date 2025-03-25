@@ -1,12 +1,12 @@
 # Eternal
 ---
 #noun
-- **One who lives forever; an immortal.**
+- **[[o/_one|One]] who [[l/_lives|lives]] [[f/_forever|forever]]; an [[i/_immortal|immortal]].**
 ---
 #adjective
-- **Lasting forever; unending.**
-- **Existing outside time; as opposed to sempiternal, existing within time but everlastingly**
-- **Exceedingly great or [[b/_bad|bad]]; used as an intensifier.**
+- **[[l/_lasting|Lasting]] [[f/_forever|forever]]; unending.**
+- **[[e/_existing|Existing]] [[o/_outside|outside]] time; as [[o/_opposed|opposed]] to sempiternal, [[e/_existing|existing]] within time but [[e/_everlastingly|everlastingly]]**
+- **[[e/_exceedingly|Exceedingly]] [[g/_great|great]] or [[b/_bad|bad]]; used as an [[i/_intensifier|intensifier]].**
 	- _Example: some eternal villain_
 ---
 ### Synonyms

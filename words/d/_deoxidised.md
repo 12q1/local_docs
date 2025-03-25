@@ -1,6 +1,6 @@
 # Deoxidised
 ---
 #verb
-- **To remove oxygen from.**
+- **To remove [[o/_oxygen|oxygen]] from.**
 ---
 ---

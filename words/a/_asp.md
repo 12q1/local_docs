@@ -2,8 +2,8 @@
 ---
 #noun
 - **A water snake.**
-- **A venomous viper native to southwestern Europe (Vipera [[a/_aspis|aspis]]).**
-- **The [[e/_egyptian|Egyptian]] [[c/_cobra|cobra]] (Naja haje)**
-- **A type of European fish (Aspius aspius).**
+- **A venomous viper [[n/_native|native]] to southwestern [[e/_europe|Europe]] (Vipera [[a/_aspis|aspis]]).**
+- **The [[e/_egyptian|Egyptian]] [[c/_cobra|cobra]] ([[n/_naja|Naja]] [[h/_haje|haje]])**
+- **A type of [[e/_european|European]] [[f/_fish|fish]] (Aspius aspius).**
 ---
 ---

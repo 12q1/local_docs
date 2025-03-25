@@ -1,8 +1,8 @@
 # Anomia
 ---
 #noun
-- **The inability to remember names.**
-- **The [[d/_difficulty|difficulty]] in finding the right word.**
+- **The [[i/_inability|inability]] to remember [[n/_names|names]].**
+- **The [[d/_difficulty|difficulty]] in [[f/_finding|finding]] the right word.**
 ---
 ### Synonyms
 - [[d/_dysnomia|dysnomia]]

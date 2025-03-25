@@ -1,0 +1,6 @@
+# Godowns
+---
+#noun
+- **A warehouse.**
+---
+---

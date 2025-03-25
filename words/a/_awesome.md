@@ -9,9 +9,9 @@
 ### Antonyms
 - [[f/_fail|fail]], [[s/_shit|shit]], [[w/_weaksauce|weaksauce]]
 #adjective
-- **[[c/_causing|Causing]] [[a/_awe|awe]] or terror; inspiring wonder or excitement.**
+- **[[c/_causing|Causing]] [[a/_awe|awe]] or terror; [[i/_inspiring|inspiring]] wonder or [[e/_excitement|excitement]].**
 	- _Example: The tsunami was awesome in its destructive power._
-- **Excellent, exciting, remarkable.**
+- **[[e/_excellent|Excellent]], [[e/_exciting|exciting]], remarkable.**
 	- _Example: Awesome, dude!_
 ---
 ### Antonyms

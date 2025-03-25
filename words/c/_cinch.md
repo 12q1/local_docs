@@ -1,10 +1,10 @@
 # Cinch
 ---
 #noun
-- **A simple saddle girth used in Mexico.**
+- **A simple saddle [[g/_girth|girth]] used in [[m/_mexico|Mexico]].**
 - **Something that is very [[e/_easy|easy]] to [[d/_do|do]].**
 	- _Example: No problem. It's a cinch._
-- **A firm hold.**
+- **A [[f/_firm|firm]] [[h/_hold|hold]].**
 ---
 ### Synonyms
 - [[b/_breeze|breeze]], [[c/_cakewalk|cakewalk]], [[d/_doddle|doddle]], [[w/_walkover|walkover]]

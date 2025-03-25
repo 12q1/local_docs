@@ -1,10 +1,10 @@
 # Bloke
 ---
 #noun
-- **A man, a fellow; an ordinary man, a man on the street.**
-- **A man who [[b/_behaves|behaves]] in a particularly laddish or overtly heterosexual manner.**
-- **(A lower [[d/_deck|deck]] term for) the [[c/_captain|Captain]] or Executive Officer of a warship, with particular reference to [[d/_discipline|discipline]] and punishment.**
-- **An exemplar of a [[c/_certain|certain]] masculine, independent male [[a/_archetype|archetype]].**
-- **An anglophone man.**
+- **A [[m/_man|man]], a [[f/_fellow|fellow]]; an [[o/_ordinary|ordinary]] [[m/_man|man]], a [[m/_man|man]] on the street.**
+- **A [[m/_man|man]] who [[b/_behaves|behaves]] in a particularly [[l/_laddish|laddish]] or [[o/_overtly|overtly]] [[h/_heterosexual|heterosexual]] [[m/_manner|manner]].**
+- **(A [[l/_lower|lower]] [[d/_deck|deck]] term for) the [[c/_captain|Captain]] or [[e/_executive|Executive]] [[o/_officer|Officer]] of a warship, with particular reference to [[d/_discipline|discipline]] and punishment.**
+- **An [[e/_exemplar|exemplar]] of a [[c/_certain|certain]] [[m/_masculine|masculine]], [[i/_independent|independent]] [[m/_male|male]] [[a/_archetype|archetype]].**
+- **An anglophone [[m/_man|man]].**
 ---
 ---

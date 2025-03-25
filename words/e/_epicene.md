@@ -1,18 +1,18 @@
 # Epicene
 ---
 #noun
-- **An [[e/_epicene|epicene]] word; preceded by the: the [[e/_epicene|epicene]] words of a language as a [[c/_class|class]].**
-- **An [[e/_epicene|epicene]] person, whether [[b/_biologically|biologically]] [[a/_asexual|asexual]], [[a/_androgynous|androgynous]], hermaphrodite, or intersex; an [[a/_androgyne|androgyne]], a hermaphrodite.**
-- **(by extension) A transsexual; [[a/_also|also]], a transvestite.**
-- **(by extension, usually [[d/_derogatory|derogatory]]) An [[e/_effeminate|effeminate]] man.**
+- **An [[e/_epicene|epicene]] word; preceded by the: the [[e/_epicene|epicene]] words of a [[l/_language|language]] as a [[c/_class|class]].**
+- **An [[e/_epicene|epicene]] person, whether [[b/_biologically|biologically]] [[a/_asexual|asexual]], [[a/_androgynous|androgynous]], [[h/_hermaphrodite|hermaphrodite]], or [[i/_intersex|intersex]]; an [[a/_androgyne|androgyne]], a [[h/_hermaphrodite|hermaphrodite]].**
+- **(by [[e/_extension|extension]]) A transsexual; [[a/_also|also]], a transvestite.**
+- **(by [[e/_extension|extension]], usually [[d/_derogatory|derogatory]]) An [[e/_effeminate|effeminate]] [[m/_man|man]].**
 ---
 #adjective
-- **Of or relating to a [[c/_class|class]] of Greek and Latin nouns that may refer to males or females but have a fixed grammatical gender (feminine, masculine, neuter, [[e/_etc|etc]].).**
-- **Of or relating to nouns or pronouns in [[a/_any|any]] language that have a single form for male and female referents.**
-- **(by extension) Suitable for use regardless of sex; unisex.**
-- **Of indeterminate sex, whether [[a/_asexual|asexual]], [[a/_androgynous|androgynous]], hermaphrodite, or intersex; of a human face, intermediate in form [[b/_between|between]] a man's face and a woman's face.**
-- **(by extension) Indeterminate; mixed.**
-- **(by extension, usually [[d/_derogatory|derogatory]]) Of a man: [[e/_effeminate|effeminate]].**
+- **Of or relating to a [[c/_class|class]] of [[g/_greek|Greek]] and [[l/_latin|Latin]] [[n/_nouns|nouns]] that [[m/_may|may]] refer to [[m/_males|males]] or [[f/_females|females]] but [[h/_have|have]] a [[f/_fixed|fixed]] [[g/_grammatical|grammatical]] [[g/_gender|gender]] ([[f/_feminine|feminine]], [[m/_masculine|masculine]], [[n/_neuter|neuter]], [[e/_etc|etc]].).**
+- **Of or relating to [[n/_nouns|nouns]] or pronouns in [[a/_any|any]] [[l/_language|language]] that [[h/_have|have]] a single [[f/_form|form]] for [[m/_male|male]] and [[f/_female|female]] referents.**
+- **(by [[e/_extension|extension]]) Suitable for use regardless of sex; unisex.**
+- **Of [[i/_indeterminate|indeterminate]] sex, whether [[a/_asexual|asexual]], [[a/_androgynous|androgynous]], [[h/_hermaphrodite|hermaphrodite]], or [[i/_intersex|intersex]]; of a [[h/_human|human]] [[f/_face|face]], [[i/_intermediate|intermediate]] in [[f/_form|form]] [[b/_between|between]] a [[m/_man|man]]'s [[f/_face|face]] and a woman's [[f/_face|face]].**
+- **(by [[e/_extension|extension]]) [[i/_indeterminate|Indeterminate]]; [[m/_mixed|mixed]].**
+- **(by [[e/_extension|extension]], usually [[d/_derogatory|derogatory]]) Of a [[m/_man|man]]: [[e/_effeminate|effeminate]].**
 ---
 ### Synonyms
 - [[c/_common|common]], [[g/_gynandromorphic|gynandromorphic]], [[g/_gynandrous|gynandrous]]

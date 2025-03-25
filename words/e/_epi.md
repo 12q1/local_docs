@@ -1,7 +1,7 @@
 # Epi
 ---
 #noun
-- **A syringe or autoinjector filled with [[e/_epinephrine|epinephrine]], most frequently used for the treatment of [[a/_acute|acute]] [[a/_allergic|allergic]] reactions to [[a/_avoid|avoid]] or treat the onset of [[a/_anaphylactic|anaphylactic]] shock.**
-- **(medical jargon) [[e/_epinephrine|epinephrine]]**
+- **A syringe or autoinjector [[f/_filled|filled]] with [[e/_epinephrine|epinephrine]], [[m/_most|most]] [[f/_frequently|frequently]] used for the treatment of [[a/_acute|acute]] [[a/_allergic|allergic]] reactions to [[a/_avoid|avoid]] or treat the [[o/_onset|onset]] of [[a/_anaphylactic|anaphylactic]] shock.**
+- **([[m/_medical|medical]] [[j/_jargon|jargon]]) [[e/_epinephrine|epinephrine]]**
 ---
 ---

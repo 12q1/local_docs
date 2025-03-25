@@ -1,10 +1,10 @@
 # Anguishing
 ---
 #verb
-- **To suffer pain.**
-- **To [[c/_cause|cause]] to suffer pain.**
+- **To suffer [[p/_pain|pain]].**
+- **To [[c/_cause|cause]] to suffer [[p/_pain|pain]].**
 ---
 #noun
-- **A feeling or expression of [[a/_anguish|anguish]].**
+- **A [[f/_feeling|feeling]] or [[e/_expression|expression]] of [[a/_anguish|anguish]].**
 ---
 ---

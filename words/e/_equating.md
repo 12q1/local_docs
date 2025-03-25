@@ -7,6 +7,6 @@
 ### Antonyms
 - [[d/_differentiate|differentiate]]
 #noun
-- **The [[a/_act|act]] by which things are [[e/_equated|equated]]; the evaluation of things as [[e/_equivalent|equivalent]].**
+- **The [[a/_act|act]] by which things are [[e/_equated|equated]]; the [[e/_evaluation|evaluation]] of things as [[e/_equivalent|equivalent]].**
 ---
 ---

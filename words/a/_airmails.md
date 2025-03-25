@@ -1,10 +1,10 @@
 # Airmails
 ---
 #verb
-- **To send mail by [[a/_air|air]].**
-- **To (unintentionally) throw the [[b/_ball|ball]] well over a fielder's head where that fielder is unable to make a play on the [[b/_ball|ball]].**
+- **To send [[m/_mail|mail]] by [[a/_air|air]].**
+- **To (unintentionally) throw the [[b/_ball|ball]] well [[o/_over|over]] a [[f/_fielder|fielder]]'s [[h/_head|head]] where that [[f/_fielder|fielder]] is unable to [[m/_make|make]] a play on the [[b/_ball|ball]].**
 ---
 #noun
-- **The items of mail [[c/_conveyed|conveyed]] using [[a/_aircraft|aircraft]].**
+- **The [[i/_items|items]] of [[m/_mail|mail]] [[c/_conveyed|conveyed]] using [[a/_aircraft|aircraft]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Contemporary
 ---
 #noun
-- **Someone or something living at the same time, or of roughly the same [[a/_age|age]] as [[a/_another|another]].**
+- **Someone or something [[l/_living|living]] at the same time, or of roughly the same [[a/_age|age]] as [[a/_another|another]].**
 	- _Example: Cervantes was a contemporary of Shakespeare._
-- **Something existing at the same time.**
+- **Something [[e/_existing|existing]] at the same time.**
 ---
 #adjective
 - **From the same time period, [[c/_coexistent|coexistent]] in time.**
-- **Modern, of the present [[a/_age|age]].**
+- **[[m/_modern|Modern]], of the present [[a/_age|age]].**
 ---
 ### Synonyms
 - [[c/_contemporaneous|contemporaneous]], [[c/_current|current]]

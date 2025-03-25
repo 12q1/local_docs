@@ -1,6 +1,6 @@
 # Elector
 ---
 #noun
-- **A person [[e/_eligible|eligible]] to vote in an [[e/_election|election]]; a member of an [[e/_electorate|electorate]], a voter.**
+- **A person [[e/_eligible|eligible]] to vote in an [[e/_election|election]]; a [[m/_member|member]] of an [[e/_electorate|electorate]], a voter.**
 ---
 ---

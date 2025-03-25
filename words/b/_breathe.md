@@ -1,32 +1,32 @@
 # Breathe
 ---
 #verb
-- **To [[d/_draw|draw]] [[a/_air|air]] into (inhale), and expel [[a/_air|air]] from (exhale), the lungs in order to extract oxygen and excrete waste gases.**
-- **To take in needed gases and expel waste gases in a similar way.**
+- **To [[d/_draw|draw]] [[a/_air|air]] [[i/_into|into]] ([[i/_inhale|inhale]]), and [[e/_expel|expel]] [[a/_air|air]] from ([[e/_exhale|exhale]]), the [[l/_lungs|lungs]] in [[o/_order|order]] to [[e/_extract|extract]] [[o/_oxygen|oxygen]] and [[e/_excrete|excrete]] waste [[g/_gases|gases]].**
+- **To take in [[n/_needed|needed]] [[g/_gases|gases]] and [[e/_expel|expel]] waste [[g/_gases|gases]] in a similar way.**
 	- _Example: Fish have gills so they can breathe underwater._
-- **To inhale (a gas) to sustain life.**
+- **To [[i/_inhale|inhale]] (a [[g/_gas|gas]]) to sustain [[l/_life|life]].**
 	- _Example: While life as we know it depends on oxygen, scientists have speculated that alien life forms might breathe chlorine or methane._
-- **To live.**
+- **To [[l/_live|live]].**
 	- _Example: I will not allow it, as long as I still breathe._
-- **To [[d/_draw|draw]] something into the lungs.**
+- **To [[d/_draw|draw]] something [[i/_into|into]] the [[l/_lungs|lungs]].**
 	- _Example: Try not to breathe too much smoke._
-- **To expel [[a/_air|air]] from the lungs, exhale.**
+- **To [[e/_expel|expel]] [[a/_air|air]] from the [[l/_lungs|lungs]], [[e/_exhale|exhale]].**
 	- _Example: If you breathe on a mirror, it will fog up._
-- **To exhale or expel (something) in the manner of [[b/_breath|breath]].**
+- **To [[e/_exhale|exhale]] or [[e/_expel|expel]] (something) in the [[m/_manner|manner]] of [[b/_breath|breath]].**
 	- _Example: The flowers breathed a heady perfume._
-- **To give an impression of, to exude.**
+- **To [[g/_give|give]] an [[i/_impression|impression]] of, to [[e/_exude|exude]].**
 	- _Example: The decor positively breathes classical elegance._
 - **To whisper quietly.**
 	- _Example: He breathed the words into her ear, but she understood them all._
-- **To pass like [[b/_breath|breath]]; noiselessly or gently; to [[e/_emanate|emanate]]; to [[b/_blow|blow]] gently.**
+- **To pass [[l/_like|like]] [[b/_breath|breath]]; [[n/_noiselessly|noiselessly]] or [[g/_gently|gently]]; to [[e/_emanate|emanate]]; to [[b/_blow|blow]] [[g/_gently|gently]].**
 	- _Example: The wind breathes through the trees._
-- **To exchange gases with the [[e/_environment|environment]].**
+- **To [[e/_exchange|exchange]] [[g/_gases|gases]] with the [[e/_environment|environment]].**
 	- _Example: Garments made of certain new materials breathe well and keep the skin relatively dry during exercise._
-- **To rest; to stop and [[c/_catch|catch]] one's [[b/_breath|breath]].**
-- **To stop, to give (a horse) an opportunity to [[c/_catch|catch]] its [[b/_breath|breath]].**
+- **To rest; to stop and [[c/_catch|catch]] [[o/_one|one]]'s [[b/_breath|breath]].**
+- **To stop, to [[g/_give|give]] (a [[h/_horse|horse]]) an [[o/_opportunity|opportunity]] to [[c/_catch|catch]] [[i/_its|its]] [[b/_breath|breath]].**
 	- _Example: At higher altitudes you need to breathe your horse more often._
-- **To exercise; to tire by [[b/_brisk|brisk]] exercise.**
-- **To passionately [[d/_devote|devote]] much of one's life to (an [[a/_activity|activity]], [[e/_etc|etc]].).**
+- **To [[e/_exercise|exercise]]; to tire by [[b/_brisk|brisk]] [[e/_exercise|exercise]].**
+- **To passionately [[d/_devote|devote]] [[m/_much|much]] of [[o/_one|one]]'s [[l/_life|life]] to (an [[a/_activity|activity]], [[e/_etc|etc]].).**
 	- _Example: Do you like hiking?  Are you kidding? I breathe hiking._
 ---
 ### Synonyms

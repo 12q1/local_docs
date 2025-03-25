@@ -1,11 +1,11 @@
 # Ar
 ---
 #noun
-- **The name of the Latin-script letter R.**
+- **The [[n/_name|name]] of the [[l/_latin|Latin]]-script [[l/_letter|letter]] R.**
 	- _Example: All the ars in the inscription._
 ---
 #interjection
-- **Yes.**
-- **Used stereotypically in imitation of pirates.**
+- **[[y/_yes|Yes]].**
+- **Used stereotypically in [[i/_imitation|imitation]] of pirates.**
 ---
 ---

@@ -1,21 +1,21 @@
 # Appealing
 ---
 #verb
-- **To [[c/_call|call]] upon [[a/_another|another]] to [[d/_decide|decide]] a question [[c/_controverted|controverted]], to [[c/_corroborate|corroborate]] a statement, to vindicate one's rights, [[e/_etc|etc]].**
+- **To [[c/_call|call]] upon [[a/_another|another]] to [[d/_decide|decide]] a question [[c/_controverted|controverted]], to [[c/_corroborate|corroborate]] a statement, to vindicate [[o/_one|one]]'s rights, [[e/_etc|etc]].**
 - **To [[c/_call|call]] on (someone) for [[a/_aid|aid]]**
 	- _Example: I appeal to all of you to help the orphans._
-- **(informal [[e/_elsewhere|elsewhere]]) To [[a/_apply|apply]] for the removal of a [[c/_cause|cause]] from an inferior to a superior judge or [[c/_court|court]] for the purpose of reexamination or for [[d/_decision|decision]].**
+- **([[i/_informal|informal]] [[e/_elsewhere|elsewhere]]) To [[a/_apply|apply]] for the removal of a [[c/_cause|cause]] from an [[i/_inferior|inferior]] to a superior [[j/_judge|judge]] or [[c/_court|court]] for the purpose of reexamination or for [[d/_decision|decision]].**
 - **To be [[a/_attractive|attractive]].**
 	- _Example: That idea appeals to me._
-- **To [[a/_ask|ask]] an umpire for a [[d/_decision|decision]] on whether a [[b/_batsman|batsman]] is out or not, usually by saying "How's that" or "Howzat".**
+- **To [[a/_ask|ask]] an umpire for a [[d/_decision|decision]] on whether a [[b/_batsman|batsman]] is [[o/_out|out]] or not, usually by saying "[[h/_how|How]]'s that" or "Howzat".**
 - **To [[a/_accuse|accuse]] (someone of something).**
 - **To summon; to [[c/_challenge|challenge]].**
-- **To invoke (used with to).**
+- **To [[i/_invoke|invoke]] (used with to).**
 ---
 #noun
-- **The [[a/_act|act]] of making an [[a/_appeal|appeal]].**
+- **The [[a/_act|act]] of [[m/_making|making]] an [[a/_appeal|appeal]].**
 ---
 #adjective
-- **Having [[a/_appeal|appeal]]; [[a/_attractive|attractive]].**
+- **[[h/_having|Having]] [[a/_appeal|appeal]]; [[a/_attractive|attractive]].**
 ---
 ---

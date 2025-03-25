@@ -1,0 +1,24 @@
+# Glancing
+---
+#verb
+- **To [[l/_look|look]] [[b/_briefly|briefly]] (at something).**
+	- _Example: She glanced at her reflection as she passed the mirror._
+- **To [[g/_graze|graze]] a surface.**
+- **To sparkle.**
+	- _Example: The spring sunlight was glancing on the water of the pond._
+- **To [[m/_move|move]] quickly, [[a/_appearing|appearing]] and [[d/_disappearing|disappearing]] rapidly; to be visible [[o/_only|only]] for an [[i/_instant|instant]] at a time; to [[m/_move|move]] [[i/_interruptedly|interruptedly]]; to twinkle.**
+- **To strike and [[f/_fly|fly]] [[o/_off|off]] in an [[o/_oblique|oblique]] [[d/_direction|direction]]; to [[d/_dart|dart]] [[a/_aside|aside]].**
+- **To [[h/_hit|hit]] [[l/_lightly|lightly]] with the [[h/_head|head]], [[m/_make|make]] a [[d/_deft|deft]] [[h/_header|header]].**
+- **To [[m/_make|make]] an [[i/_incidental|incidental]] or passing reflection; to [[a/_allude|allude]]; to [[h/_hint|hint]]; [[o/_often|often]] with at.**
+- **A type of [[i/_interaction|interaction]] [[b/_between|between]] parent [[f/_fish|fish]] and [[o/_offspring|offspring]] in which [[j/_juveniles|juveniles]] swim toward and rapidly touch the sides of the parent, in [[m/_most|most]] [[c/_cases|cases]] [[f/_feeding|feeding]] on parental [[m/_mucus|mucus]]. Relatively [[f/_few|few]] species [[g/_glance|glance]], [[m/_mainly|mainly]] some [[c/_cichlidae|Cichlidae]].**
+---
+### Synonyms
+- [[g/_glimpse|glimpse]]
+#noun
+- **A sideways [[l/_look|look]]; a [[g/_glance|glance]].**
+---
+#adjective
+- **[[m/_making|Making]] superficial, [[o/_obtuse|obtuse]] [[c/_contact|contact]] with something.**
+	- _Example: His fist caught a glancing blow to my jaw._
+---
+---

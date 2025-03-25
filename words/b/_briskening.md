@@ -1,6 +1,6 @@
 # Briskening
 ---
 #verb
-- **To [[b/_become|become]], or make, [[b/_brisk|brisk]]; to hasten.**
+- **To [[b/_become|become]], or [[m/_make|make]], [[b/_brisk|brisk]]; to [[h/_hasten|hasten]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Electrotypes
 ---
 #noun
-- **A plate, made by [[e/_electroplating|electroplating]] a mold, such as used in letterpress printing**
+- **A plate, [[m/_made|made]] by [[e/_electroplating|electroplating]] a [[m/_mold|mold]], such as used in [[l/_letterpress|letterpress]] printing**
 ---
 ---

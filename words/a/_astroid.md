@@ -1,6 +1,6 @@
 # Astroid
 ---
 #noun
-- **A hypocycloid with four [[c/_cusps|cusps]].**
+- **A [[h/_hypocycloid|hypocycloid]] with [[f/_four|four]] [[c/_cusps|cusps]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Caskets
 ---
 #noun
-- **A little [[b/_box|box]], [[e/_e|e]].g. for jewellery.**
+- **A [[l/_little|little]] [[b/_box|box]], [[e/_e|e]].[[g/_g|g]]. for [[j/_jewellery|jewellery]].**
 - **An urn.**
 - **A [[c/_coffin|coffin]].**
-- **A gasket.**
+- **A [[g/_gasket|gasket]].**
 ---
 ---

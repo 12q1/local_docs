@@ -1,6 +1,6 @@
 # Climatic
 ---
 #adjective
-- **Of, relating to or influenced by [[c/_climate|climate]].**
+- **Of, relating to or [[i/_influenced|influenced]] by [[c/_climate|climate]].**
 ---
 ---

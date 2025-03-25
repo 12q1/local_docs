@@ -1,6 +1,6 @@
 # Demyelinate
 ---
 #verb
-- **To remove the myelin sheath from a nerve**
+- **To remove the [[m/_myelin|myelin]] sheath from a [[n/_nerve|nerve]]**
 ---
 ---

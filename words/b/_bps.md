@@ -1,12 +1,12 @@
 # Bps
 ---
 #noun
-- **One hundredth of one percentage point.**
+- **[[o/_one|One]] [[h/_hundredth|hundredth]] of [[o/_one|one]] percentage point.**
 ---
 ### Synonyms
 - [[p/_permyriad|permyriad]], [[‱/_‱|‱]]
 #noun
-- **Initialism of [[b/_bits|bits]] per second, a measure of speed of [[d/_digital|digital]] [[c/_communication|communication]].**
+- **[[i/_initialism|Initialism]] of [[b/_bits|bits]] per second, a [[m/_measure|measure]] of speed of [[d/_digital|digital]] [[c/_communication|communication]].**
 - **[[b/_baud|Baud]] rate**
 ---
 ### Synonyms

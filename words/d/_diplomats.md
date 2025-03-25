@@ -1,8 +1,8 @@
 # Diplomats
 ---
 #noun
-- **A person, such as an [[a/_ambassador|ambassador]], who is [[a/_accredited|accredited]] to represent a government officially in its relations with other governments or international organisations**
-- **Someone who uses skill and tact in [[d/_dealing|dealing]] with other people**
+- **A person, such as an [[a/_ambassador|ambassador]], who is [[a/_accredited|accredited]] to represent a [[g/_government|government]] [[o/_officially|officially]] in [[i/_its|its]] relations with [[o/_other|other]] [[g/_governments|governments]] or [[i/_international|international]] organisations**
+- **Someone who uses skill and tact in [[d/_dealing|dealing]] with [[o/_other|other]] people**
 ---
 ### Synonyms
 - [[d/_diplomatist|diplomatist]]

@@ -1,7 +1,7 @@
 # Almost
 ---
 #noun
-- **Something or someone that [[d/_doesn|doesn]]'t quite make it.**
+- **Something or someone that [[d/_doesn|doesn]]'t quite [[m/_make|make]] it.**
 	- _Example: In all the submissions, they found four papers that were clearly worth publishing and another dozen almosts._
 ---
 #adverb

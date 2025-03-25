@@ -1,6 +1,6 @@
 # Duckweed
 ---
 #noun
-- **[[a/_any|Any]] of several reduced floating [[a/_aquatic|aquatic]] plants in the subfamily Lemnoideae of the family [[a/_araceae|Araceae]].**
+- **[[a/_any|Any]] of several reduced [[f/_floating|floating]] [[a/_aquatic|aquatic]] plants in the subfamily Lemnoideae of the [[f/_family|family]] [[a/_araceae|Araceae]].**
 ---
 ---

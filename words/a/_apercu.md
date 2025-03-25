@@ -1,7 +1,7 @@
 # Apercu
 ---
 #noun
-- **A [[c/_clever|clever]] insight.**
-- **A summary or outline; words that summarize.**
+- **A [[c/_clever|clever]] [[i/_insight|insight]].**
+- **A summary or [[o/_outline|outline]]; words that summarize.**
 ---
 ---

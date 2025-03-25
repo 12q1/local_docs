@@ -2,13 +2,13 @@
 ---
 #noun
 - **Sensational or [[c/_clamorous|clamorous]] [[a/_advertising|advertising]] or publicity.**
-- **Noisy shouting or uproar.**
+- **[[n/_noisy|Noisy]] shouting or uproar.**
 ---
 #verb
-- **To sensationalise or make grand [[c/_claims|claims]].**
+- **To sensationalise or [[m/_make|make]] [[g/_grand|grand]] [[c/_claims|claims]].**
 ---
 #noun
-- **[[c/_certain|Certain]] species in family Hemiramphidae, inshore, surface-[[d/_dwelling|dwelling]] needlefish forming sizeable schools.**
+- **[[c/_certain|Certain]] species in [[f/_family|family]] [[h/_hemiramphidae|Hemiramphidae]], [[i/_inshore|inshore]], surface-[[d/_dwelling|dwelling]] [[n/_needlefish|needlefish]] [[f/_forming|forming]] sizeable schools.**
 ---
 #noun
 - **An unseaworthy or slovenly ship.**

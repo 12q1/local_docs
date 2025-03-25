@@ -1,12 +1,12 @@
 # Antioxidant
 ---
 #noun
-- **[[a/_any|Any]] substance that [[a/_acts|acts]] to slow or prevent the oxidation of [[a/_another|another]] [[c/_chemical|chemical]].**
-- **(nutrition) One of a group of vitamins that [[a/_act|act]] [[a/_against|against]] the [[e/_effects|effects]] of free radicals.**
+- **[[a/_any|Any]] substance that [[a/_acts|acts]] to slow or prevent the [[o/_oxidation|oxidation]] of [[a/_another|another]] [[c/_chemical|chemical]].**
+- **([[n/_nutrition|nutrition]]) [[o/_one|One]] of a [[g/_group|group]] of vitamins that [[a/_act|act]] [[a/_against|against]] the [[e/_effects|effects]] of [[f/_free|free]] radicals.**
 ---
 ### Antonyms
 - [[o/_oxidant|oxidant]]
 #adjective
-- **[[a/_acting|Acting]] or having [[a/_agents|agents]] that [[a/_act|act]] [[a/_against|against]] oxidation.**
+- **[[a/_acting|Acting]] or [[h/_having|having]] [[a/_agents|agents]] that [[a/_act|act]] [[a/_against|against]] [[o/_oxidation|oxidation]].**
 ---
 ---

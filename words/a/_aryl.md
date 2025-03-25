@@ -1,6 +1,6 @@
 # Aryl
 ---
 #noun
-- **[[a/_any|Any]] univalent organic radical [[d/_derived|derived]] from an [[a/_aromatic|aromatic]] hydrocarbon by removing a hydrogen [[a/_atom|atom]].**
+- **[[a/_any|Any]] univalent [[o/_organic|organic]] radical [[d/_derived|derived]] from an [[a/_aromatic|aromatic]] [[h/_hydrocarbon|hydrocarbon]] by removing a [[h/_hydrogen|hydrogen]] [[a/_atom|atom]].**
 ---
 ---

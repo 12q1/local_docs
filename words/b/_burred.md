@@ -2,6 +2,6 @@
 ---
 #verb
 - **To pronounce with a uvular "r".**
-- **To make a rough humming sound.**
+- **To [[m/_make|make]] a rough [[h/_humming|humming]] sound.**
 ---
 ---

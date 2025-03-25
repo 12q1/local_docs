@@ -1,12 +1,12 @@
 # Entrancing
 ---
 #verb
-- **To [[d/_delight|delight]] and fill with wonder.**
+- **To [[d/_delight|delight]] and [[f/_fill|fill]] with wonder.**
 	- _Example: The children were immediately entranced by all the balloons._
-- **To put into a trance.**
+- **To put [[i/_into|into]] a trance.**
 ---
 #adjective
-- **Hypnotic**
+- **[[h/_hypnotic|Hypnotic]]**
 - **[[c/_charming|Charming]]**
 ---
 ---

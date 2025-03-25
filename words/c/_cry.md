@@ -7,25 +7,25 @@
 	- _Example: I heard a cry from afar._
 - **Words shouted or screamed.**
 	- _Example: a battle cry_
-- **A [[c/_clamour|clamour]] or outcry.**
-- **A group of hounds.**
-- **(by extension) A pack or [[c/_company|company]] of people.**
-- **(of an [[a/_animal|animal]]) A typical sound made by the species in question.**
+- **A [[c/_clamour|clamour]] or [[o/_outcry|outcry]].**
+- **A [[g/_group|group]] of [[h/_hounds|hounds]].**
+- **(by [[e/_extension|extension]]) A [[p/_pack|pack]] or [[c/_company|company]] of people.**
+- **(of an [[a/_animal|animal]]) A typical sound [[m/_made|made]] by the species in question.**
 	- _Example: "Woof" is the cry of a dog, while "neigh" is the cry of a horse._
 - **A [[d/_desperate|desperate]] or urgent request.**
-- **[[c/_common|Common]] report; gossip.**
+- **[[c/_common|Common]] report; [[g/_gossip|gossip]].**
 ---
 #verb
 - **To shed tears; to weep.**
 	- _Example: That sad movie always makes me cry._
-- **To utter loudly; to [[c/_call|call]] out; to [[d/_declare|declare]] publicly.**
-- **To shout, scream, yell.**
-- **To utter inarticulate sounds, as [[a/_animals|animals]] [[d/_do|do]].**
+- **To utter [[l/_loudly|loudly]]; to [[c/_call|call]] [[o/_out|out]]; to [[d/_declare|declare]] publicly.**
+- **To shout, scream, [[y/_yell|yell]].**
+- **To utter [[i/_inarticulate|inarticulate]] sounds, as [[a/_animals|animals]] [[d/_do|do]].**
 - **To [[c/_cause|cause]] to [[d/_do|do]] something, or [[b/_bring|bring]] to some state, by [[c/_crying|crying]] or weeping.**
 	- _Example: Tonight I'll cry myself to sleep._
-- **To make oral and public proclamation of; to notify or [[a/_advertise|advertise]] by outcry, [[e/_especially|especially]] things lost or found, goods to be sold, [[e/_etc|etc]].**
+- **To [[m/_make|make]] [[o/_oral|oral]] and public proclamation of; to [[n/_notify|notify]] or [[a/_advertise|advertise]] by [[o/_outcry|outcry]], [[e/_especially|especially]] things [[l/_lost|lost]] or [[f/_found|found]], [[g/_goods|goods]] to be sold, [[e/_etc|etc]].**
 	- _Example: to cry goods_
-- **Hence, to publish the [[b/_banns|banns]] of, as for marriage.**
+- **[[h/_hence|Hence]], to publish the [[b/_banns|banns]] of, as for [[m/_marriage|marriage]].**
 ---
 ### Synonyms
 - [[b/_bawl|bawl]], [[b/_blubber|blubber]], [[s/_sob|sob]], [[w/_wail|wail]], [[w/_weep|weep]], [[w/_whimper|whimper]]

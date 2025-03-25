@@ -1,7 +1,7 @@
 # Equinoctial
 ---
 #noun
-- **The great [[c/_circle|circle]] midway [[b/_between|between]] the [[c/_celestial|celestial]] poles; the [[c/_celestial|celestial]] [[e/_equator|equator]].**
+- **The [[g/_great|great]] [[c/_circle|circle]] [[m/_midway|midway]] [[b/_between|between]] the [[c/_celestial|celestial]] poles; the [[c/_celestial|celestial]] [[e/_equator|equator]].**
 - **The terrestrial [[e/_equator|equator]].**
 ---
 #adjective

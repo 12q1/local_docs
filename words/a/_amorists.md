@@ -1,7 +1,7 @@
 # Amorists
 ---
 #noun
-- **Someone who is in love.**
-- **Someone who writes [[a/_about|about]] love.**
+- **Someone who is in [[l/_love|love]].**
+- **Someone who writes [[a/_about|about]] [[l/_love|love]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Amperages
 ---
 #noun
-- **The [[e/_electric|electric]] [[c/_current|current]]; [[c/_charge|charge]] transmitted per unit time, measured in [[a/_amperes|amperes]].**
+- **The [[e/_electric|electric]] [[c/_current|current]]; [[c/_charge|charge]] transmitted per unit time, [[m/_measured|measured]] in [[a/_amperes|amperes]].**
 ---
 ---

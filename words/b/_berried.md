@@ -11,7 +11,7 @@
 - **To [[b/_bear|bear]] or produce [[b/_berries|berries]].**
 ---
 #verb
-- **To [[b/_beat|beat]]; give a [[b/_beating|beating]] to; thrash.**
-- **To thresh (grain).**
+- **To [[b/_beat|beat]]; [[g/_give|give]] a [[b/_beating|beating]] to; thrash.**
+- **To thresh ([[g/_grain|grain]]).**
 ---
 ---

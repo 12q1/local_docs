@@ -1,7 +1,7 @@
 # Estriol
 ---
 #noun
-- **A steroid hormone produced mostly [[d/_during|during]] pregnancy.**
+- **A steroid [[h/_hormone|hormone]] produced [[m/_mostly|mostly]] [[d/_during|during]] pregnancy.**
 ---
 ### Synonyms
 - [[t/_theelol|theelol]]

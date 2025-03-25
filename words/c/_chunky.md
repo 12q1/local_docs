@@ -1,11 +1,11 @@
 # Chunky
 ---
 #adjective
-- **Having [[c/_chunks|chunks]].**
+- **[[h/_having|Having]] [[c/_chunks|chunks]].**
 	- _Example: I ate a chunky bar of chocolate._
-- **(of a person) Fat.**
+- **(of a person) [[f/_fat|Fat]].**
 	- _Example: I prefer chunky blonde girls to skinny brunettes._
-- **Of a [[c/_cat|cat]]: having a large, solid bodyline.**
+- **Of a [[c/_cat|cat]]: [[h/_having|having]] a [[l/_large|large]], solid bodyline.**
 	- _Example: The British Shorthair has a distinctively chunky body, dense coat and broad face._
 ---
 ### Synonyms

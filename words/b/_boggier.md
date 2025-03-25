@@ -1,7 +1,7 @@
 # Boggier
 ---
 #adjective
-- **Having the qualities of a [[b/_bog|bog]]; i.[[e/_e|e]]. [[d/_dank|dank]], squishy, muddy, and full of water and rotting vegetation.**
+- **[[h/_having|Having]] the qualities of a [[b/_bog|bog]]; [[i/_i|i]].[[e/_e|e]]. [[d/_dank|dank]], squishy, [[m/_muddy|muddy]], and [[f/_full|full]] of water and rotting vegetation.**
 	- _Example: The edge of the woods led out onto a noisome, boggy fen, a paradise for mosquitos and small frogs._
 ---
 ### Synonyms

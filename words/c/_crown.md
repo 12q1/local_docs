@@ -1,56 +1,56 @@
 # Crown
 ---
 #noun
-- **A royal, imperial or princely headdress; a [[d/_diadem|diadem]].**
-- **A wreath or [[b/_band|band]] for the head, [[e/_especially|especially]] one given as reward of victory or a mark of honor.**
-- **(by extension) [[a/_any|Any]] reward of victory or mark of honor.**
+- **A royal, [[i/_imperial|imperial]] or princely [[h/_headdress|headdress]]; a [[d/_diadem|diadem]].**
+- **A wreath or [[b/_band|band]] for the [[h/_head|head]], [[e/_especially|especially]] [[o/_one|one]] [[g/_given|given]] as reward of victory or a [[m/_mark|mark]] of [[h/_honor|honor]].**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] reward of victory or [[m/_mark|mark]] of [[h/_honor|honor]].**
 	- _Example: the martyr's crown_
-- **Imperial or regal power, or those who wield it.**
-- **(metonym) The sovereign (in a monarchy), as head of state.**
-- **(by extension) The state, the government (headed by a monarch).**
+- **[[i/_imperial|Imperial]] or regal power, or those who wield it.**
+- **([[m/_metonym|metonym]]) The sovereign (in a [[m/_monarchy|monarchy]]), as [[h/_head|head]] of state.**
+- **(by [[e/_extension|extension]]) The state, the [[g/_government|government]] ([[h/_headed|headed]] by a [[m/_monarch|monarch]]).**
 	- _Example: Treasure recovered from shipwrecks automatically becomes property of the Crown._
 - **The top part of something:**
-- **A kind of spire or lantern formed by [[c/_converging|converging]] flying [[b/_buttresses|buttresses]].**
+- **A [[k/_kind|kind]] of spire or [[l/_lantern|lantern]] [[f/_formed|formed]] by [[c/_converging|converging]] [[f/_flying|flying]] [[b/_buttresses|buttresses]].**
 - **Splendor; [[c/_culmination|culmination]]; [[a/_acme|acme]].**
-- **[[a/_any|Any]] [[c/_currency|currency]] (originally) issued by the [[c/_crown|crown]] (regal power) and often [[b/_bearing|bearing]] a [[c/_crown|crown]] (headdress); (translation) various [[c/_currencies|currencies]] known by similar names in their native languages, such as the koruna, kruna, krone, korona.**
-- **A former pre-[[d/_decimalization|decimalization]] [[b/_british|British]] [[c/_coin|coin]] worth five shillings.**
-- **The part of a plant where the root and stem meet.**
+- **[[a/_any|Any]] [[c/_currency|currency]] ([[o/_originally|originally]]) [[i/_issued|issued]] by the [[c/_crown|crown]] (regal power) and [[o/_often|often]] [[b/_bearing|bearing]] a [[c/_crown|crown]] ([[h/_headdress|headdress]]); (translation) various [[c/_currencies|currencies]] [[k/_known|known]] by similar [[n/_names|names]] in their [[n/_native|native]] [[l/_languages|languages]], such as the [[k/_koruna|koruna]], kruna, [[k/_krone|krone]], [[k/_korona|korona]].**
+- **A [[f/_former|former]] pre-[[d/_decimalization|decimalization]] [[b/_british|British]] [[c/_coin|coin]] worth [[f/_five|five]] shillings.**
+- **The part of a plant where the root and stem [[m/_meet|meet]].**
 - **The top of a tree.**
-- **The part of a tooth [[a/_above|above]] the gums.**
+- **The part of a tooth [[a/_above|above]] the [[g/_gums|gums]].**
 - **A prosthetic [[c/_covering|covering]] for a tooth.**
-- **A knot formed in the [[e/_end|end]] of a rope by tucking in the strands to prevent them from unravelling**
-- **The part of an [[a/_anchor|anchor]] where the [[a/_arms|arms]] and the shank meet**
-- **The rounding, or rounded part, of the [[d/_deck|deck]] from a level line.**
-- **(in the plural) The [[b/_bights|bights]] formed by the turns of a [[c/_cable|cable]].**
-- **In [[e/_england|England]], a standard size of printing paper measuring 20 × 15 inches.**
-- **In [[a/_american|American]], a standard size of writing paper measuring 19 × 15 inches.**
-- **A monocyclic ligand having three or more [[b/_binding|binding]] sites, [[c/_capable|capable]] of holding a guest in a [[c/_central|central]] location**
-- **[[d/_during|During]] [[c/_childbirth|childbirth]], the [[a/_appearance|appearance]] of the [[b/_baby|baby]]'s head from the mother's vagina**
-- **A rounding or smoothing of the [[b/_barrel|barrel]] opening**
+- **A [[k/_knot|knot]] [[f/_formed|formed]] in the [[e/_end|end]] of a rope by tucking in the strands to prevent them from unravelling**
+- **The part of an [[a/_anchor|anchor]] where the [[a/_arms|arms]] and the shank [[m/_meet|meet]]**
+- **The rounding, or rounded part, of the [[d/_deck|deck]] from a [[l/_level|level]] [[l/_line|line]].**
+- **(in the plural) The [[b/_bights|bights]] [[f/_formed|formed]] by the turns of a [[c/_cable|cable]].**
+- **In [[e/_england|England]], a standard size of printing paper [[m/_measuring|measuring]] 20 × 15 [[i/_inches|inches]].**
+- **In [[a/_american|American]], a standard size of writing paper [[m/_measuring|measuring]] 19 × 15 [[i/_inches|inches]].**
+- **A [[m/_monocyclic|monocyclic]] [[l/_ligand|ligand]] [[h/_having|having]] three or [[m/_more|more]] [[b/_binding|binding]] sites, [[c/_capable|capable]] of [[h/_holding|holding]] a [[g/_guest|guest]] in a [[c/_central|central]] [[l/_location|location]]**
+- **[[d/_during|During]] [[c/_childbirth|childbirth]], the [[a/_appearance|appearance]] of the [[b/_baby|baby]]'s [[h/_head|head]] from the [[m/_mother|mother]]'s vagina**
+- **A rounding or smoothing of the [[b/_barrel|barrel]] [[o/_opening|opening]]**
 - **The [[a/_area|area]] [[e/_enclosed|enclosed]] [[b/_between|between]] two [[c/_concentric|concentric]] perimeters.**
-- **A round spot shaved [[c/_clean|clean]] on the top of the head, as a mark of the [[c/_clerical|clerical]] state; the tonsure.**
-- **A whole [[b/_bird|bird]] with the legs and wings removed to produce a joint of white meat.**
-- **A formal hat worn by women to Sunday [[c/_church|church]] services; a [[c/_church|church]] [[c/_crown|crown]].**
-- **The knurled knob or [[d/_dial|dial]], on the outside of a watch [[c/_case|case]], used to wind it or [[a/_adjust|adjust]] the hands.**
+- **A round spot shaved [[c/_clean|clean]] on the top of the [[h/_head|head]], as a [[m/_mark|mark]] of the [[c/_clerical|clerical]] state; the tonsure.**
+- **A whole [[b/_bird|bird]] with the [[l/_legs|legs]] and wings removed to produce a [[j/_joint|joint]] of white [[m/_meat|meat]].**
+- **A [[f/_formal|formal]] [[h/_hat|hat]] worn by women to Sunday [[c/_church|church]] services; a [[c/_church|church]] [[c/_crown|crown]].**
+- **The [[k/_knurled|knurled]] [[k/_knob|knob]] or [[d/_dial|dial]], on the [[o/_outside|outside]] of a watch [[c/_case|case]], used to wind it or [[a/_adjust|adjust]] the [[h/_hands|hands]].**
 ---
 ### Synonyms
 - [[a/_award|award]], [[g/_garland|garland]], [[h/_honor|honor]], [[p/_prize|prize]], [[w/_wreath|wreath]], [[b/_bull|bull]], [[c/_caroon|caroon]], [[c/_cartwheel|cartwheel]], [[c/_caser|caser]], [[c/_coachwheel|coachwheel]], [[t/_thick-un|thick-un]], [[t/_tosh|tosh]], [[t/_tosheroon|tosheroon]], [[t/_tush|tush]], [[t/_tusheroon|tusheroon]], [[c/_completion|completion]], [[c/_culmination|culmination]], [[f/_finish|finish]], [[s/_splendor|splendor]], [[c/_corona|corona]], [[c/_coronet|coronet]], [[d/_diadem|diadem]], [[g/_garland|garland]], [[w/_wreath|wreath]], [[m/_monarchy|monarchy]], [[r/_royalty|royalty]]
 #verb
-- **To place a [[c/_crown|crown]] on the head of.**
-- **To formally [[d/_declare|declare]] (someone) a king, queen, [[e/_emperor|emperor]], [[e/_etc|etc]].**
-- **To [[b/_bestow|bestow]] something upon as a mark of honour, [[d/_dignity|dignity]], or recompense; to [[a/_adorn|adorn]]; to [[d/_dignify|dignify]].**
-- **To form the topmost or finishing part of; to [[c/_complete|complete]]; to [[c/_consummate|consummate]]; to perfect.**
+- **To place a [[c/_crown|crown]] on the [[h/_head|head]] of.**
+- **To [[f/_formally|formally]] [[d/_declare|declare]] (someone) a [[k/_king|king]], queen, [[e/_emperor|emperor]], [[e/_etc|etc]].**
+- **To [[b/_bestow|bestow]] something upon as a [[m/_mark|mark]] of [[h/_honour|honour]], [[d/_dignity|dignity]], or recompense; to [[a/_adorn|adorn]]; to [[d/_dignify|dignify]].**
+- **To [[f/_form|form]] the topmost or [[f/_finishing|finishing]] part of; to [[c/_complete|complete]]; to [[c/_consummate|consummate]]; to perfect.**
 - **To [[d/_declare|declare]] (someone) a winner.**
-- **Of a [[b/_baby|baby]], [[d/_during|during]] the [[b/_birthing|birthing]] process; for the surface of the [[b/_baby|baby]]'s head to [[a/_appear|appear]] in the vaginal opening.**
+- **Of a [[b/_baby|baby]], [[d/_during|during]] the [[b/_birthing|birthing]] process; for the surface of the [[b/_baby|baby]]'s [[h/_head|head]] to [[a/_appear|appear]] in the vaginal [[o/_opening|opening]].**
 	- _Example: The mother was in the second stage of labor and the fetus had just crowned, prompting a round of encouragement from the midwives._
-- **To [[c/_cause|cause]] to round upward; to make [[a/_anything|anything]] higher at the middle than at the [[e/_edges|edges]], such as the face of a machine pulley.**
-- **To hit on the head.**
-- **To shoot an opponent in the [[b/_back|back]] of the head with a shotgun in a first-person shooter video game.**
-- **In [[c/_checkers|checkers]], to stack two [[c/_checkers|checkers]] to indicate that the piece has [[b/_become|become]] a king.**
+- **To [[c/_cause|cause]] to round upward; to [[m/_make|make]] [[a/_anything|anything]] [[h/_higher|higher]] at the [[m/_middle|middle]] than at the [[e/_edges|edges]], such as the [[f/_face|face]] of a [[m/_machine|machine]] pulley.**
+- **To [[h/_hit|hit]] on the [[h/_head|head]].**
+- **To shoot an [[o/_opponent|opponent]] in the [[b/_back|back]] of the [[h/_head|head]] with a shotgun in a [[f/_first|first]]-person shooter video [[g/_game|game]].**
+- **In [[c/_checkers|checkers]], to stack two [[c/_checkers|checkers]] to [[i/_indicate|indicate]] that the piece [[h/_has|has]] [[b/_become|become]] a [[k/_king|king]].**
 	- _Example: “Crown me!” I said, as I moved my checker to the back row._
-- **To widen the opening of the [[b/_barrel|barrel]].**
-- **To [[e/_effect|effect]] a lodgment upon, as upon the [[c/_crest|crest]] of the glacis, or the summit of the [[b/_breach|breach]].**
-- **To lay the [[e/_ends|ends]] of the strands of (a knot) over and under [[e/_each|each]] other.**
+- **To widen the [[o/_opening|opening]] of the [[b/_barrel|barrel]].**
+- **To [[e/_effect|effect]] a [[l/_lodgment|lodgment]] upon, as upon the [[c/_crest|crest]] of the [[g/_glacis|glacis]], or the summit of the [[b/_breach|breach]].**
+- **To [[l/_lay|lay]] the [[e/_ends|ends]] of the strands of (a [[k/_knot|knot]]) [[o/_over|over]] and under [[e/_each|each]] [[o/_other|other]].**
 ---
 #adjective
 - **Of, related to, or pertaining to a [[c/_crown|crown]].**

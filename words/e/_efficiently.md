@@ -1,6 +1,6 @@
 # Efficiently
 ---
 #adverb
-- **In an [[e/_efficient|efficient]] manner.**
+- **In an [[e/_efficient|efficient]] [[m/_manner|manner]].**
 ---
 ---

@@ -7,13 +7,13 @@
 	- _Example: Credit accounts receivable with the amount of the invoice._
 - **To [[a/_acknowledge|acknowledge]] the [[c/_contribution|contribution]] of.**
 	- _Example: Credit the point guard with another assist._
-- **To [[b/_bring|bring]] honour or repute upon; to [[d/_do|do]] [[c/_credit|credit]] to; to raise the [[e/_estimation|estimation]] of.**
+- **To [[b/_bring|bring]] [[h/_honour|honour]] or repute upon; to [[d/_do|do]] [[c/_credit|credit]] to; to raise the [[e/_estimation|estimation]] of.**
 ---
 ### Synonyms
 - [[a/_accept|accept]], [[b/_believe|believe]]
 ### Antonyms
 - [[d/_debit|debit]]
 #noun
-- **The [[a/_act|act]] of making a [[c/_credit|credit]] in [[a/_accounting|accounting]].**
+- **The [[a/_act|act]] of [[m/_making|making]] a [[c/_credit|credit]] in [[a/_accounting|accounting]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Crystallizing
 ---
 #verb
-- **To make something form into [[c/_crystals|crystals]]**
+- **To [[m/_make|make]] something [[f/_form|form]] [[i/_into|into]] [[c/_crystals|crystals]]**
 	- _Example: I crystallized the copper sulphate by slowly cooling a saturated solution._
-- **To [[a/_assume|assume]] a [[c/_crystalline|crystalline]] form**
+- **To [[a/_assume|assume]] a [[c/_crystalline|crystalline]] [[f/_form|form]]**
 	- _Example: The copper sulphate crystallized from solution._
-- **To give something a [[d/_definite|definite]] or precise form**
+- **To [[g/_give|give]] something a [[d/_definite|definite]] or precise [[f/_form|form]]**
 	- _Example: After some thought, I crystallized my ideas for the paper._
-- **To take a [[d/_definite|definite]] form**
+- **To take a [[d/_definite|definite]] [[f/_form|form]]**
 	- _Example: My ideas crystallized overnight._
 - **To [[c/_coat|coat]] something with [[c/_crystals|crystals]], [[e/_especially|especially]] with sugar**
 	- _Example: We crystallized the fruit by coating in sugar._

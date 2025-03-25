@@ -1,6 +1,6 @@
 # Boiserie
 ---
 #noun
-- **Panelling; wood trim**
+- **[[p/_panelling|Panelling]]; wood trim**
 ---
 ---

@@ -1,6 +1,6 @@
 # Andouille
 ---
 #noun
-- **A spiced, heavily smoked [[c/_cajun|Cajun]] pork sausage, often made from the [[e/_entire|entire]] gastrointestinal system of the pig.**
+- **A spiced, [[h/_heavily|heavily]] smoked [[c/_cajun|Cajun]] pork sausage, [[o/_often|often]] [[m/_made|made]] from the [[e/_entire|entire]] [[g/_gastrointestinal|gastrointestinal]] system of the pig.**
 ---
 ---

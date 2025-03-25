@@ -1,12 +1,12 @@
 # Bushels
 ---
 #noun
-- **A [[d/_dry|dry]] measure, [[c/_containing|containing]] four pecks, [[e/_eight|eight]] gallons, or thirty-two quarts.**
-- **A vessel of the [[c/_capacity|capacity]] of a [[b/_bushel|bushel]], used in measuring; a [[b/_bushel|bushel]] measure.**
-- **A quantity that fills a [[b/_bushel|bushel]] measure.**
+- **A [[d/_dry|dry]] [[m/_measure|measure]], [[c/_containing|containing]] [[f/_four|four]] pecks, [[e/_eight|eight]] [[g/_gallons|gallons]], or thirty-two quarts.**
+- **A vessel of the [[c/_capacity|capacity]] of a [[b/_bushel|bushel]], used in [[m/_measuring|measuring]]; a [[b/_bushel|bushel]] [[m/_measure|measure]].**
+- **A quantity that [[f/_fills|fills]] a [[b/_bushel|bushel]] [[m/_measure|measure]].**
 	- _Example: a heap containing ten bushels of apples_
-- **A large indefinite quantity.**
-- **The iron lining in the nave of a wheel.**
+- **A [[l/_large|large]] [[i/_indefinite|indefinite]] quantity.**
+- **The [[i/_iron|iron]] [[l/_lining|lining]] in the [[n/_nave|nave]] of a wheel.**
 ---
 ### Synonyms
 - [[b/_box|box]]

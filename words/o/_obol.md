@@ -1,0 +1,8 @@
+# Obol
+---
+#noun
+- **A silver [[c/_coin|coin]] of [[a/_ancient|Ancient]] [[g/_greece|Greece]].**
+	- _Example: In Classical Athens, there were six obols to one drachma._
+- **A weight, [[e/_equivalent|equivalent]] to [[o/_one|one]] sixth of a [[d/_drachma|drachma]].**
+---
+---

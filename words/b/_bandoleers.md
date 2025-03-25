@@ -1,6 +1,6 @@
 # Bandoleers
 ---
 #noun
-- **A pocketed [[b/_belt|belt]] for holding [[a/_ammunition|ammunition]], worn over the shoulder.**
+- **A pocketed [[b/_belt|belt]] for [[h/_holding|holding]] [[a/_ammunition|ammunition]], worn [[o/_over|over]] the shoulder.**
 ---
 ---

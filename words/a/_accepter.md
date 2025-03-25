@@ -2,7 +2,7 @@
 ---
 #noun
 - **A person who [[a/_accepts|accepts]]; a taker.**
-- **A respecter; one who views others with partiality.**
-- **An [[a/_acceptor|acceptor]]; one who [[a/_accepts|accepts]] an order or a [[b/_bill|bill]] of exchange.**
+- **A respecter; [[o/_one|one]] who views [[o/_others|others]] with partiality.**
+- **An [[a/_acceptor|acceptor]]; [[o/_one|one]] who [[a/_accepts|accepts]] an [[o/_order|order]] or a [[b/_bill|bill]] of [[e/_exchange|exchange]].**
 ---
 ---

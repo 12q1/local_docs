@@ -1,7 +1,7 @@
 # Eme
 ---
 #noun
-- **(obsolete outside Scotland) An uncle.**
-- **Friend.**
+- **([[o/_obsolete|obsolete]] [[o/_outside|outside]] Scotland) An uncle.**
+- **[[f/_friend|Friend]].**
 ---
 ---

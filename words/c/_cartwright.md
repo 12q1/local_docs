@@ -1,6 +1,6 @@
 # Cartwright
 ---
 #noun
-- **A person who makes [[c/_carts|carts]]; a wainwright**
+- **A person who [[m/_makes|makes]] [[c/_carts|carts]]; a wainwright**
 ---
 ---

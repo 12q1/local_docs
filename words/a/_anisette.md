@@ -1,6 +1,6 @@
 # Anisette
 ---
 #noun
-- **A French [[a/_alcoholic|alcoholic]] liqueur flavored with [[a/_anise|anise]]**
+- **A [[f/_french|French]] [[a/_alcoholic|alcoholic]] [[l/_liqueur|liqueur]] [[f/_flavored|flavored]] with [[a/_anise|anise]]**
 ---
 ---

@@ -1,10 +1,10 @@
 # Bivariate
 ---
 #noun
-- **A polynomial or function with exactly two variables.**
+- **A polynomial or [[f/_function|function]] with [[e/_exactly|exactly]] two variables.**
 ---
 #adjective
-- **Having or involving exactly two variables.**
+- **[[h/_having|Having]] or [[i/_involving|involving]] [[e/_exactly|exactly]] two variables.**
 ---
 ### Synonyms
 - [[t/_two-way|two-way]]

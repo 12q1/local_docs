@@ -7,6 +7,6 @@
 ### Synonyms
 - [[d/_draughtboard|draughtboard]]
 #verb
-- **To [[c/_checker|checker]]; to mark with an [[a/_alternating|alternating]] pattern of light and [[d/_dark|dark]].**
+- **To [[c/_checker|checker]]; to [[m/_mark|mark]] with an [[a/_alternating|alternating]] pattern of [[l/_light|light]] and [[d/_dark|dark]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Acinus
 ---
 #noun
-- **One of the small grains or [[d/_drupelets|drupelets]] which make up some kinds of fruit, as the [[b/_blackberry|blackberry]], raspberry, [[e/_etc|etc]].**
-- **A grape-stone.**
-- **One of the granular masses which [[c/_constitute|constitute]] a racemose or [[c/_compound|compound]] gland, as the pancreas; [[a/_also|also]], one of the saccular recesses in the lobules of a racemose gland.**
+- **[[o/_one|One]] of the small [[g/_grains|grains]] or [[d/_drupelets|drupelets]] which [[m/_make|make]] up some [[k/_kinds|kinds]] of [[f/_fruit|fruit]], as the [[b/_blackberry|blackberry]], raspberry, [[e/_etc|etc]].**
+- **A [[g/_grape|grape]]-stone.**
+- **[[o/_one|One]] of the [[g/_granular|granular]] [[m/_masses|masses]] which [[c/_constitute|constitute]] a racemose or [[c/_compound|compound]] [[g/_gland|gland]], as the [[p/_pancreas|pancreas]]; [[a/_also|also]], [[o/_one|one]] of the saccular recesses in the [[l/_lobules|lobules]] of a racemose [[g/_gland|gland]].**
 ---
 ---

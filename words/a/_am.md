@@ -1,7 +1,7 @@
 # Am
 ---
 #adverb
-- **[[b/_before|Before]] noon.**
+- **[[b/_before|Before]] [[n/_noon|noon]].**
 ---
 ### Synonyms
 - [[f/_forenoon|forenoon]]

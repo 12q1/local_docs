@@ -1,16 +1,16 @@
 # Diary
 ---
 #noun
-- **A [[d/_daily|daily]] log of experiences, [[e/_especially|especially]] those of the writer.**
+- **A [[d/_daily|daily]] [[l/_log|log]] of [[e/_experiences|experiences]], [[e/_especially|especially]] those of the writer.**
 	- _Example: They kept separate diaries. His was on paper and her diary was on her computer's hard drive._
-- **A personal organizer or [[a/_appointment|appointment]] [[d/_diary|diary]].**
+- **A personal [[o/_organizer|organizer]] or [[a/_appointment|appointment]] [[d/_diary|diary]].**
 ---
 ### Synonyms
 - [[d/_daybook|daybook]], [[j/_journal|journal]]
 #verb
-- **To keep a [[d/_diary|diary]] or journal.**
+- **To [[k/_keep|keep]] a [[d/_diary|diary]] or [[j/_journal|journal]].**
 ---
 #adjective
-- **Lasting for one [[d/_day|day]].**
+- **[[l/_lasting|Lasting]] for [[o/_one|one]] [[d/_day|day]].**
 ---
 ---

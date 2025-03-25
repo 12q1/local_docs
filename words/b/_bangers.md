@@ -2,20 +2,20 @@
 ---
 #noun
 - **A thing or person which [[b/_bangs|bangs]], in [[a/_any|any]] sense.**
-- **: A firework that makes a [[b/_bang|bang]].**
+- **: A [[f/_firework|firework]] that [[m/_makes|makes]] a [[b/_bang|bang]].**
 - **A woman's [[b/_breast|breast]].**
 - **A sausage.**
-- **An old, worn-out [[c/_car|car]].**
+- **An [[o/_old|old]], worn-[[o/_out|out]] [[c/_car|car]].**
 - **A [[c/_cylinder|cylinder]] in a [[c/_car|car]].**
 	- _Example: He drives a little four-banger to work._
-- **A powerfully [[e/_energetic|energetic]] piece of music, [[e/_especially|especially]] [[d/_dance|dance]] music.**
-- **(by extension) [[a/_any|Any]] particularly good or pleasing thing.**
+- **A powerfully [[e/_energetic|energetic]] piece of [[m/_music|music]], [[e/_especially|especially]] [[d/_dance|dance]] [[m/_music|music]].**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] particularly [[g/_good|good]] or pleasing thing.**
 ---
 ### Synonyms
 - [[b/_beater|beater]], [[b/_bucket|bucket]], [[c/_crock|crock]], [[h/_hooptie|hooptie]], [[j/_jalopy|jalopy]], [[s/_shitbox|shitbox]], [[w/_wreck|wreck]], [[s/_snag|snag]]
 #noun
-- **Someone who indulges in group sex -- see gangbang.**
-- **A member of a violent gang.**
+- **Someone who [[i/_indulges|indulges]] in [[g/_group|group]] sex -- see [[g/_gangbang|gangbang]].**
+- **A [[m/_member|member]] of a violent [[g/_gang|gang]].**
 - **A violent person.**
 ---
 ---

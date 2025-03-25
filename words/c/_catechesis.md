@@ -1,6 +1,6 @@
 # Catechesis
 ---
 #noun
-- **Religious instruction given orally to [[c/_catechumens|catechumens]].**
+- **Religious [[i/_instruction|instruction]] [[g/_given|given]] [[o/_orally|orally]] to [[c/_catechumens|catechumens]].**
 ---
 ---

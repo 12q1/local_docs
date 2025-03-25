@@ -1,7 +1,7 @@
 # Caesarean
 ---
 #noun
-- **An inhabitant/[[c/_citizen|citizen]] of Caesarea.**
+- **An [[i/_inhabitant|inhabitant]]/[[c/_citizen|citizen]] of Caesarea.**
 ---
 #noun
 - **A [[c/_caesarean|Caesarean]] section.**

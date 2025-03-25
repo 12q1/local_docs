@@ -8,13 +8,13 @@
 	- _Example: I’m considering going to the beach tomorrow._
 - **(ditransitive) To [[a/_assign|assign]] some quality to.**
 	- _Example: Consider yourself lucky, but consider your opponent skillful._
-- **To look at [[a/_attentively|attentively]].**
+- **To [[l/_look|look]] at [[a/_attentively|attentively]].**
 	- _Example: She sat there for a moment, considering him._
-- **To take up as an example.**
+- **To take up as an [[e/_example|example]].**
 	- _Example: Consider a triangle having three equal sides._
-- **(parliamentary procedure) To [[d/_debate|debate]] (or [[d/_dispose|dispose]] of) a motion.**
+- **(parliamentary procedure) To [[d/_debate|debate]] (or [[d/_dispose|dispose]] of) a [[m/_motion|motion]].**
 	- _Example: This body will now consider the proposed amendments to Section 453 of the zoning code._
-- **To have regard to; to take into view or [[a/_account|account]]; to pay [[d/_due|due]] [[a/_attention|attention]] to; to respect.**
+- **To [[h/_have|have]] regard to; to take [[i/_into|into]] view or [[a/_account|account]]; to [[p/_pay|pay]] [[d/_due|due]] [[a/_attention|attention]] to; to respect.**
 	- _Example: He never seems to consider the feelings of others._
 ---
 ### Synonyms
@@ -23,11 +23,11 @@
 - **[[c/_consideration|Consideration]].**
 ---
 #adverb
-- **Given the [[c/_circumstances|circumstances]].**
+- **[[g/_given|Given]] the [[c/_circumstances|circumstances]].**
 	- _Example: Your wound doesn't look that bad, considering._
 ---
 #preposition
-- **Taking into [[a/_account|account]].**
+- **Taking [[i/_into|into]] [[a/_account|account]].**
 	- _Example: Considering the extent of his crimes, he was given a surprisingly short sentence._
 ---
 ### Synonyms

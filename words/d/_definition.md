@@ -1,21 +1,21 @@
 # Definition
 ---
 #noun
-- **A statement of the meaning of a word or word group or a sign or symbol ([[d/_dictionary|dictionary]] [[d/_definitions|definitions]]).**
-- **(usually with the [[d/_definite|definite]] [[a/_article|article]] the) A [[c/_clear|clear]] instance [[c/_conforming|conforming]] to the [[d/_dictionary|dictionary]] or textbook [[d/_definition|definition]].**
-- **A statement expressing the [[e/_essential|essential]] nature of something; formulation**
+- **A statement of the [[m/_meaning|meaning]] of a word or word [[g/_group|group]] or a sign or symbol ([[d/_dictionary|dictionary]] [[d/_definitions|definitions]]).**
+- **(usually with the [[d/_definite|definite]] [[a/_article|article]] the) A [[c/_clear|clear]] [[i/_instance|instance]] [[c/_conforming|conforming]] to the [[d/_dictionary|dictionary]] or textbook [[d/_definition|definition]].**
+- **A statement [[e/_expressing|expressing]] the [[e/_essential|essential]] [[n/_nature|nature]] of something; [[f/_formulation|formulation]]**
 - **The [[a/_action|action]] or process of [[d/_defining|defining]].**
-- **The [[a/_act|act]] of [[d/_defining|defining]]; [[d/_determination|determination]] of the limits.**
+- **The [[a/_act|act]] of [[d/_defining|defining]]; [[d/_determination|determination]] of the [[l/_limits|limits]].**
 - **A product of [[d/_defining|defining]].**
-- **The [[a/_action|action]] or power of [[d/_describing|describing]], explaining, or making [[d/_definite|definite]] and [[c/_clear|clear]].**
+- **The [[a/_action|action]] or power of [[d/_describing|describing]], [[e/_explaining|explaining]], or [[m/_making|making]] [[d/_definite|definite]] and [[c/_clear|clear]].**
 	- _Example: Her comic genius is beyond definition._
-- **[[c/_clarity|Clarity]] of visual presentation, [[d/_distinctness|distinctness]] of outline or [[d/_detail|detail]].**
+- **[[c/_clarity|Clarity]] of visual presentation, [[d/_distinctness|distinctness]] of [[o/_outline|outline]] or [[d/_detail|detail]].**
 	- _Example: Improve the definition of an image._
-- **[[c/_clarity|Clarity]], [[e/_especially|especially]] of musical sound in reproduction.**
-- **Sharp [[d/_demarcation|demarcation]] of outlines or limits.**
+- **[[c/_clarity|Clarity]], [[e/_especially|especially]] of [[m/_musical|musical]] sound in reproduction.**
+- **Sharp [[d/_demarcation|demarcation]] of [[o/_outlines|outlines]] or [[l/_limits|limits]].**
 	- _Example: A jacket with distinct waist definition._
-- **The [[d/_degree|degree]] to which individual muscles are [[d/_distinct|distinct]] on the [[b/_body|body]].**
-- **A statement which provides a previous [[d/_declaration|declaration]] with a value or [[b/_body|body]] of a subroutine (in the [[c/_case|case]] of function).**
-- **A statement that [[e/_establishes|establishes]] the referent of a term or notation.**
+- **The [[d/_degree|degree]] to which [[i/_individual|individual]] [[m/_muscles|muscles]] are [[d/_distinct|distinct]] on the [[b/_body|body]].**
+- **A statement which provides a previous [[d/_declaration|declaration]] with a value or [[b/_body|body]] of a subroutine (in the [[c/_case|case]] of [[f/_function|function]]).**
+- **A statement that [[e/_establishes|establishes]] the referent of a term or [[n/_notation|notation]].**
 ---
 ---

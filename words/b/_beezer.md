@@ -1,10 +1,10 @@
 # Beezer
 ---
 #noun
-- **Nose.**
+- **[[n/_nose|Nose]].**
 ---
 #adjective
-- **Excellent, super**
+- **[[e/_excellent|Excellent]], super**
 	- _Example: We had a beezer time at the party._
 ---
 ---

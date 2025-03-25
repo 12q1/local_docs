@@ -1,10 +1,10 @@
 # Beings
 ---
 #noun
-- **A living [[c/_creature|creature]].**
-- **The state or fact of existence, [[c/_consciousness|consciousness]], or life, or something in such a state.**
-- **That which has [[a/_actuality|actuality]] (materially or in [[c/_concept|concept]]).**
-- **One's [[b/_basic|basic]] nature, or the qualities thereof; [[e/_essence|essence]] or personality.**
+- **A [[l/_living|living]] [[c/_creature|creature]].**
+- **The state or [[f/_fact|fact]] of [[e/_existence|existence]], [[c/_consciousness|consciousness]], or [[l/_life|life]], or something in such a state.**
+- **That which [[h/_has|has]] [[a/_actuality|actuality]] ([[m/_materially|materially]] or in [[c/_concept|concept]]).**
+- **[[o/_one|One]]'s [[b/_basic|basic]] [[n/_nature|nature]], or the qualities thereof; [[e/_essence|essence]] or personality.**
 - **An [[a/_abode|abode]]; a [[c/_cottage|cottage]].**
 ---
 ---

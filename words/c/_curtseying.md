@@ -1,7 +1,7 @@
 # Curtseying
 ---
 #verb
-- **To make a [[c/_curtsey|curtsey]].**
+- **To [[m/_make|make]] a [[c/_curtsey|curtsey]].**
 	- _Example: The hotel's staff variously curtsied, nodded, and bowed to the owner as she passed._
 ---
 #noun

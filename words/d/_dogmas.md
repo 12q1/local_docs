@@ -1,8 +1,8 @@
 # Dogmas
 ---
 #noun
-- **An [[a/_authoritative|authoritative]] principle, [[b/_belief|belief]] or statement of opinion, [[e/_especially|especially]] one [[c/_considered|considered]] to be [[a/_absolutely|absolutely]] true and indisputable, regardless of evidence or without evidence to support it.**
-- **A [[d/_doctrine|doctrine]] (or set of [[d/_doctrines|doctrines]]) relating to matters such as morality and faith, set forth [[a/_authoritatively|authoritatively]] by a religious organization or leader.**
+- **An [[a/_authoritative|authoritative]] principle, [[b/_belief|belief]] or statement of [[o/_opinion|opinion]], [[e/_especially|especially]] [[o/_one|one]] [[c/_considered|considered]] to be [[a/_absolutely|absolutely]] true and [[i/_indisputable|indisputable]], regardless of [[e/_evidence|evidence]] or without [[e/_evidence|evidence]] to support it.**
+- **A [[d/_doctrine|doctrine]] (or set of [[d/_doctrines|doctrines]]) relating to [[m/_matters|matters]] such as [[m/_morality|morality]] and [[f/_faith|faith]], set [[f/_forth|forth]] [[a/_authoritatively|authoritatively]] by a religious [[o/_organization|organization]] or [[l/_leader|leader]].**
 	- _Example: In the Catholic Church, new dogmas can only be declared by the pope after the extremely rare procedure ex cathedra to make them part of the official faith._
 ---
 ---

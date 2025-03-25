@@ -1,9 +1,9 @@
 # Attentive
 ---
 #adjective
-- **Paying [[a/_attention|attention]]; noticing, watching, listening, or [[a/_attending|attending]] [[c/_closely|closely]].**
+- **[[p/_paying|Paying]] [[a/_attention|attention]]; [[n/_noticing|noticing]], watching, [[l/_listening|listening]], or [[a/_attending|attending]] [[c/_closely|closely]].**
 	- _Example: She is an attentive listener, but does not like to talk much._
-- **[[c/_courteous|Courteous]]; mindful.**
+- **[[c/_courteous|Courteous]]; [[m/_mindful|mindful]].**
 	- _Example: a husband attentive to his wife's needs_
 ---
 ### Synonyms

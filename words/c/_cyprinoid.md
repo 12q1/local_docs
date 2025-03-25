@@ -1,9 +1,9 @@
 # Cyprinoid
 ---
 #noun
-- **A fish of that order.**
+- **A [[f/_fish|fish]] of that [[o/_order|order]].**
 ---
 #adjective
-- **Of, pertaining to, or resembling fish of the order Cypriniformes: [[c/_carps|carps]], minnows and loaches.**
+- **Of, pertaining to, or resembling [[f/_fish|fish]] of the [[o/_order|order]] Cypriniformes: [[c/_carps|carps]], [[m/_minnows|minnows]] and [[l/_loaches|loaches]].**
 ---
 ---

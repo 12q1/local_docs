@@ -1,12 +1,12 @@
 # Dottiest
 ---
 #adjective
-- **Mildly insane or [[e/_eccentric|eccentric]]; often, senile.**
+- **[[m/_mildly|Mildly]] [[i/_insane|insane]] or [[e/_eccentric|eccentric]]; [[o/_often|often]], senile.**
 	- _Example: My nan has got dottier and dottier since passing the age of eighty._
-- **Having an unsteady gait.**
+- **[[h/_having|Having]] an unsteady [[g/_gait|gait]].**
 ---
 #adjective
-- **Having many [[d/_dots|dots]].**
+- **[[h/_having|Having]] [[m/_many|many]] [[d/_dots|dots]].**
 	- _Example: Look at the dotty pattern on that cheetah's fur._
 ---
 ---

@@ -1,8 +1,8 @@
 # Circumcise
 ---
 #verb
-- **To surgically remove the foreskin (prepuce) from a penis (male).**
-- **(sometimes proscribed) To surgically remove the [[c/_clitoris|clitoris]] ([[c/_clitoridectomy|clitoridectomy]]), [[c/_clitoral|clitoral]] hood, or labia (female).**
+- **To surgically remove the [[f/_foreskin|foreskin]] (prepuce) from a penis ([[m/_male|male]]).**
+- **(sometimes proscribed) To surgically remove the [[c/_clitoris|clitoris]] ([[c/_clitoridectomy|clitoridectomy]]), [[c/_clitoral|clitoral]] [[h/_hood|hood]], or [[l/_labia|labia]] ([[f/_female|female]]).**
 ---
 ### Synonyms
 - [[c/_circ|circ]], [[s/_snip|snip]], [[c/_cut|cut]]

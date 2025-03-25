@@ -1,9 +1,9 @@
 # Carnivore
 ---
 #noun
-- **An organism that feeds [[c/_chiefly|chiefly]] on [[a/_animals|animals]]; an [[a/_animal|animal]] that feeds on meat as the main part of its [[d/_diet|diet]].**
+- **An [[o/_organism|organism]] that [[f/_feeds|feeds]] [[c/_chiefly|chiefly]] on [[a/_animals|animals]]; an [[a/_animal|animal]] that [[f/_feeds|feeds]] on [[m/_meat|meat]] as the [[m/_main|main]] part of [[i/_its|its]] [[d/_diet|diet]].**
 	- _Example: As juveniles the crocodiles are frequently predated by larger carnivores._
-- **A mammal [[b/_belonging|belonging]] to the order [[c/_carnivora|Carnivora]].**
+- **A [[m/_mammal|mammal]] [[b/_belonging|belonging]] to the [[o/_order|order]] [[c/_carnivora|Carnivora]].**
 	- _Example: The panda and the panther are both carnivores._
 - **A person who is not a vegetarian.**
 ---

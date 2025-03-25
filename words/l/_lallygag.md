@@ -1,0 +1,11 @@
+# Lallygag
+---
+#noun
+- **[[h/_horseplay|Horseplay]], [[f/_fooling|fooling]] [[a/_around|around]].**
+- **A [[l/_layabout|layabout]], [[o/_one|one]] who [[l/_lallygags|lallygags]].**
+---
+#verb
+- **(See [[l/_lollygag|lollygag]].) To [[d/_dawdle|dawdle]]; to be [[l/_lazy|lazy]] or [[i/_idle|idle]]; to [[a/_avoid|avoid]] [[n/_necessary|necessary]] work or [[e/_effort|effort]].**
+- **To pet, [[k/_kiss|kiss]], or [[o/_otherwise|otherwise]] [[d/_demonstrate|demonstrate]] [[o/_overt|overt]] [[a/_affection|affection]], [[g/_generally|generally]] in public.**
+---
+---

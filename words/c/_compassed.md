@@ -2,8 +2,8 @@
 ---
 #verb
 - **To surround; to [[e/_encircle|encircle]]; to [[e/_environ|environ]]; to stretch round.**
-- **To go [[a/_about|about]] or round [[e/_entirely|entirely]]; to traverse.**
-- **To [[a/_accomplish|accomplish]]; to reach; to [[a/_achieve|achieve]]; to obtain.**
+- **To [[g/_go|go]] [[a/_about|about]] or round [[e/_entirely|entirely]]; to traverse.**
+- **To [[a/_accomplish|accomplish]]; to reach; to [[a/_achieve|achieve]]; to [[o/_obtain|obtain]].**
 - **To plot; to scheme ([[a/_against|against]] someone).**
 ---
 ### Synonyms

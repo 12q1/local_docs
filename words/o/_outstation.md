@@ -1,0 +1,12 @@
+# Outstation
+---
+#noun
+- **A station or post in a remote position; an [[o/_outpost|outpost]].**
+---
+#adjective
+- **[[o/_out|Out]] of town (but usually within the same [[c/_country|country]]).**
+---
+#adverb
+- **[[o/_out|Out]] of town (but usually within the same [[c/_country|country]]).**
+---
+---

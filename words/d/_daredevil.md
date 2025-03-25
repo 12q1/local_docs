@@ -1,13 +1,13 @@
 # Daredevil
 ---
 #noun
-- **A person who [[e/_engages|engages]] in very risky [[b/_behavior|behavior]], [[e/_especially|especially]] one who is motivated by a [[c/_craving|craving]] for excitement or [[a/_attention|attention]].**
+- **A person who [[e/_engages|engages]] in very risky [[b/_behavior|behavior]], [[e/_especially|especially]] [[o/_one|one]] who is [[m/_motivated|motivated]] by a [[c/_craving|craving]] for [[e/_excitement|excitement]] or [[a/_attention|attention]].**
 	- _Example: Even as a youngster, Steven was a bit of a daredevil riding up homemade wooden ramps on his BMX._
 ---
 ### Synonyms
 - [[a/_adventurer|adventurer]], [[t/_thrill-seeker|thrill-seeker]]
 #verb
-- **To [[b/_behave|behave]] in a reckless, [[a/_adventurous|adventurous]], or physically risky manner**
+- **To [[b/_behave|behave]] in a reckless, [[a/_adventurous|adventurous]], or physically risky [[m/_manner|manner]]**
 ---
 #adjective
 - **Recklessly [[b/_bold|bold]]; [[a/_adventurous|adventurous]].**

@@ -1,8 +1,8 @@
 # Chevies
 ---
 #noun
-- **A hunt or pursuit; a [[c/_chase|chase]].**
-- **A [[c/_cry|cry]] used in hunting.**
-- **The game of prisoners' [[b/_bars|bars]].**
+- **A [[h/_hunt|hunt]] or pursuit; a [[c/_chase|chase]].**
+- **A [[c/_cry|cry]] used in [[h/_hunting|hunting]].**
+- **The [[g/_game|game]] of prisoners' [[b/_bars|bars]].**
 ---
 ---

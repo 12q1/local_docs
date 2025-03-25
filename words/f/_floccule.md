@@ -1,0 +1,6 @@
+# Floccule
+---
+#noun
+- **A small, [[l/_loosely|loosely]] [[a/_aggregated|aggregated]] [[m/_mass|mass]] of [[m/_material|material]] suspended in, or precipitated from a solution; a [[f/_floc|floc]].**
+---
+---

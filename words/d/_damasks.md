@@ -1,13 +1,13 @@
 # Damasks
 ---
 #noun
-- **An ornate silk fabric originating from [[d/_damascus|Damascus]].**
+- **An [[o/_ornate|ornate]] silk [[f/_fabric|fabric]] [[o/_originating|originating]] from [[d/_damascus|Damascus]].**
 	- _Example: True damasks are pure silk._
-- **Linen so woven that a pattern is produced by the [[d/_different|different]] [[d/_directions|directions]] of the thread, without [[c/_contrast|contrast]] of [[c/_colour|colour]].**
-- **A heavy woolen or worsted stuff with a pattern woven in the same way as the linen [[d/_damask|damask]]; made for furniture [[c/_covering|covering]] and hangings.**
+- **[[l/_linen|Linen]] so woven that a pattern is produced by the [[d/_different|different]] [[d/_directions|directions]] of the thread, without [[c/_contrast|contrast]] of [[c/_colour|colour]].**
+- **A [[h/_heavy|heavy]] woolen or worsted stuff with a pattern woven in the same way as the [[l/_linen|linen]] [[d/_damask|damask]]; [[m/_made|made]] for [[f/_furniture|furniture]] [[c/_covering|covering]] and [[h/_hangings|hangings]].**
 - **[[d/_damascus|Damascus]] steel**
-- **The peculiar markings or water of such steel.**
+- **The peculiar [[m/_markings|markings]] or water of such steel.**
 - **A [[d/_damask|damask]] rose, Rosa × damascena.**
-- **A grayish-pink [[c/_color|color]], like that of the [[d/_damask|damask]] rose.**
+- **A [[g/_grayish|grayish]]-pink [[c/_color|color]], [[l/_like|like]] that of the [[d/_damask|damask]] rose.**
 ---
 ---

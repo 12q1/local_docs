@@ -1,10 +1,10 @@
 # Consequential
 ---
 #adjective
-- **Following as a result.**
-- **Having significant [[c/_consequences|consequences]]; of importance.**
-- **Important or significant.**
-- **(of a person) Self-important.**
+- **[[f/_following|Following]] as a result.**
+- **[[h/_having|Having]] significant [[c/_consequences|consequences]]; of [[i/_importance|importance]].**
+- **[[i/_important|Important]] or significant.**
+- **(of a person) Self-[[i/_important|important]].**
 ---
 ### Synonyms
 - [[c/_considerable|considerable]], [[i/_important|important]]

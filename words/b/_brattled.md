@@ -1,6 +1,6 @@
 # Brattled
 ---
 #verb
-- **To rattle; to make a scampering noise.**
+- **To rattle; to [[m/_make|make]] a scampering [[n/_noise|noise]].**
 ---
 ---

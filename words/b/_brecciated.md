@@ -1,6 +1,6 @@
 # Brecciated
 ---
 #adjective
-- **Formed or [[b/_broken|broken]] into [[b/_breccia|breccia]]**
+- **[[f/_formed|Formed]] or [[b/_broken|broken]] [[i/_into|into]] [[b/_breccia|breccia]]**
 ---
 ---

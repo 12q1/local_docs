@@ -1,7 +1,7 @@
 # Arrogant
 ---
 #adjective
-- **Having excessive pride in oneself, often with [[c/_contempt|contempt]] or [[d/_disrespect|disrespect]] for others.**
+- **[[h/_having|Having]] [[e/_excessive|excessive]] pride in [[o/_oneself|oneself]], [[o/_often|often]] with [[c/_contempt|contempt]] or [[d/_disrespect|disrespect]] for [[o/_others|others]].**
 ---
 ### Synonyms
 - [[a/_authoritarian|authoritarian]], [[c/_cocky|cocky]], [[c/_conceited|conceited]], [[c/_condescending|condescending]], [[d/_disdainful|disdainful]], [[h/_haughty|haughty]], [[h/_high-handed|high-handed]], [[n/_narcissistic|narcissistic]], [[o/_overbearing|overbearing]], [[p/_presumptuous|presumptuous]], [[p/_proud|proud]], [[s/_supercilious|supercilious]], [[v/_vain|vain]]

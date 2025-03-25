@@ -1,6 +1,6 @@
 # Brookweed
 ---
 #noun
-- **A small white-flowered herb (Samolus valerandi) usually found in wet places; the water pimpernel.**
+- **A small white-[[f/_flowered|flowered]] [[h/_herb|herb]] (Samolus valerandi) usually [[f/_found|found]] in wet places; the water pimpernel.**
 ---
 ---

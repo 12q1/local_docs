@@ -1,15 +1,15 @@
 # Classified
 ---
 #adjective
-- **Sorted into [[c/_classes|classes]] or [[c/_categories|categories]]**
-- **Formally [[a/_assigned|assigned]] by a government to one of several levels of sensitivity, usually (in [[e/_english|English]]) top secret, secret, [[c/_confidential|confidential]], and, in some [[c/_countries|countries]], restricted; thereby making [[d/_disclosure|disclosure]] to unauthorized persons illegal.**
+- **Sorted [[i/_into|into]] [[c/_classes|classes]] or [[c/_categories|categories]]**
+- **[[f/_formally|Formally]] [[a/_assigned|assigned]] by a [[g/_government|government]] to [[o/_one|one]] of several [[l/_levels|levels]] of sensitivity, usually (in [[e/_english|English]]) top secret, secret, [[c/_confidential|confidential]], and, in some [[c/_countries|countries]], restricted; thereby [[m/_making|making]] [[d/_disclosure|disclosure]] to unauthorized persons [[i/_illegal|illegal]].**
 	- _Example: We do not discuss specific interrogation techniques because they are classified information._
-- **Not meant to be [[d/_disclosed|disclosed]] by a person or organization.**
+- **Not [[m/_meant|meant]] to be [[d/_disclosed|disclosed]] by a person or [[o/_organization|organization]].**
 ---
 #verb
-- **To identify by or [[d/_divide|divide]] into [[c/_classes|classes]]; to [[c/_categorize|categorize]]**
+- **To [[i/_identify|identify]] by or [[d/_divide|divide]] [[i/_into|into]] [[c/_classes|classes]]; to [[c/_categorize|categorize]]**
 	- _Example: Should we classify "make up" as an idiom or as a phrasal verb?_
-- **To [[d/_declare|declare]] something a secret, [[e/_especially|especially]] a government secret**
+- **To [[d/_declare|declare]] something a secret, [[e/_especially|especially]] a [[g/_government|government]] secret**
 	- _Example: They decided to classify that information._
 ---
 ### Antonyms

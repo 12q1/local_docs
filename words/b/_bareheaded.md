@@ -1,9 +1,9 @@
 # Bareheaded
 ---
 #adjective
-- **Having no [[c/_covering|covering]] on the head.**
+- **[[h/_having|Having]] [[n/_no|no]] [[c/_covering|covering]] on the [[h/_head|head]].**
 ---
 #adverb
-- **With no [[c/_covering|covering]] on the head.**
+- **With [[n/_no|no]] [[c/_covering|covering]] on the [[h/_head|head]].**
 ---
 ---

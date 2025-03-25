@@ -1,6 +1,6 @@
 # Corbelled
 ---
 #adjective
-- **Having [[c/_corbels|corbels]].**
+- **[[h/_having|Having]] [[c/_corbels|corbels]].**
 ---
 ---

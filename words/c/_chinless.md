@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Without a (pronounced) [[c/_chin|chin]].**
-- **Having a weak or indecisive [[c/_character|character]]; ineffectual or [[d/_dim|dim]]-witted.**
+- **[[h/_having|Having]] a weak or [[i/_indecisive|indecisive]] [[c/_character|character]]; [[i/_ineffectual|ineffectual]] or [[d/_dim|dim]]-witted.**
 ---
 ### Synonyms
 - [[g/_gormless|gormless]]

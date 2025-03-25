@@ -1,6 +1,6 @@
 # Dammed
 ---
 #verb
-- **To [[b/_block|block]] the flow of water.**
+- **To [[b/_block|block]] the [[f/_flow|flow]] of water.**
 ---
 ---

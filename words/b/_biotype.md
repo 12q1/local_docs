@@ -1,9 +1,9 @@
 # Biotype
 ---
 #noun
-- **A group of organisms having the same specific genotype**
+- **A [[g/_group|group]] of [[o/_organisms|organisms]] [[h/_having|having]] the same specific [[g/_genotype|genotype]]**
 ---
 #verb
-- **To sort, [[a/_arrange|arrange]] of [[c/_classify|classify]] into such groups**
+- **To sort, [[a/_arrange|arrange]] of [[c/_classify|classify]] [[i/_into|into]] such [[g/_groups|groups]]**
 ---
 ---

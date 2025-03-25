@@ -1,6 +1,6 @@
 # Complexation
 ---
 #noun
-- **The formation of a [[c/_complex|complex]]**
+- **The [[f/_formation|formation]] of a [[c/_complex|complex]]**
 ---
 ---

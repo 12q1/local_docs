@@ -1,46 +1,46 @@
 # Belt
 ---
 #noun
-- **A [[b/_band|band]] worn [[a/_around|around]] the waist to hold [[c/_clothing|clothing]] to one's [[b/_body|body]] (usually pants), hold weapons (such as a gun or sword), or serve as a [[d/_decorative|decorative]] piece of [[c/_clothing|clothing]].**
+- **A [[b/_band|band]] worn [[a/_around|around]] the waist to [[h/_hold|hold]] [[c/_clothing|clothing]] to [[o/_one|one]]'s [[b/_body|body]] (usually pants), [[h/_hold|hold]] weapons (such as a [[g/_gun|gun]] or sword), or serve as a [[d/_decorative|decorative]] piece of [[c/_clothing|clothing]].**
 	- _Example: As part of the act, the fat clown's belt broke, causing his pants to fall down._
 - **A [[b/_band|band]] used as a restraint for safety purposes, such as a seat [[b/_belt|belt]].**
 	- _Example: Keep your belt fastened; this is going to be quite a bumpy ride._
-- **A [[b/_band|band]] that is used in a machine to help transfer motion or power.**
+- **A [[b/_band|band]] that is used in a [[m/_machine|machine]] to [[h/_help|help]] transfer [[m/_motion|motion]] or power.**
 	- _Example: The motor had a single belt that snaked its way back and forth around a variety of wheels._
-- **[[a/_anything|Anything]] that resembles a [[b/_belt|belt]], or that [[e/_encircles|encircles]] or [[c/_crosses|crosses]] like a [[b/_belt|belt]]; a strip or stripe.**
+- **[[a/_anything|Anything]] that resembles a [[b/_belt|belt]], or that [[e/_encircles|encircles]] or [[c/_crosses|crosses]] [[l/_like|like]] a [[b/_belt|belt]]; a strip or stripe.**
 	- _Example: a belt of trees; a belt of sand_
-- **A trophy in the shape of a [[b/_belt|belt]], generally [[a/_awarded|awarded]] for martial [[a/_arts|arts]].**
+- **A trophy in the shape of a [[b/_belt|belt]], [[g/_generally|generally]] [[a/_awarded|awarded]] for [[m/_martial|martial]] [[a/_arts|arts]].**
 	- _Example: the heavyweight belt_
-- **A [[c/_collection|collection]] of rocky-[[c/_constituted|constituted]] [[b/_bodies|bodies]] (such as [[a/_asteroids|asteroids]]) which orbit a star.**
-- **One of [[c/_certain|certain]] girdles or zones on the surface of the planets Jupiter and Saturn, supposed to be of the nature of [[c/_clouds|clouds]].**
-- **A powerful [[b/_blow|blow]], often made with a fist or heavy object.**
+- **A [[c/_collection|collection]] of rocky-[[c/_constituted|constituted]] [[b/_bodies|bodies]] (such as [[a/_asteroids|asteroids]]) which [[o/_orbit|orbit]] a star.**
+- **[[o/_one|One]] of [[c/_certain|certain]] [[g/_girdles|girdles]] or zones on the surface of the planets [[j/_jupiter|Jupiter]] and Saturn, supposed to be of the [[n/_nature|nature]] of [[c/_clouds|clouds]].**
+- **A powerful [[b/_blow|blow]], [[o/_often|often]] [[m/_made|made]] with a [[f/_fist|fist]] or [[h/_heavy|heavy]] [[o/_object|object]].**
 	- _Example: After the bouncer gave him a solid belt to the gut, Simon had suddenly had enough of barfighting._
-- **A quick [[d/_drink|drink]] of liquor.**
+- **A quick [[d/_drink|drink]] of [[l/_liquor|liquor]].**
 	- _Example: Care to join me in a belt of scotch?_
-- **(usually [[c/_capitalized|capitalized]]) A geographical region known for a particular product, feature or [[d/_demographic|demographic]] ([[c/_corn|Corn]] [[b/_belt|Belt]], [[b/_bible|Bible]] [[b/_belt|Belt]], [[b/_black|Black]] [[b/_belt|Belt]], Green [[b/_belt|Belt]]).**
-- **The part of the strike zone at the height of the [[b/_batter|batter]]'s waist.**
+- **(usually [[c/_capitalized|capitalized]]) A [[g/_geographical|geographical]] region [[k/_known|known]] for a particular product, [[f/_feature|feature]] or [[d/_demographic|demographic]] ([[c/_corn|Corn]] [[b/_belt|Belt]], [[b/_bible|Bible]] [[b/_belt|Belt]], [[b/_black|Black]] [[b/_belt|Belt]], [[g/_green|Green]] [[b/_belt|Belt]]).**
+- **The part of the strike zone at the [[h/_height|height]] of the [[b/_batter|batter]]'s waist.**
 	- _Example: That umpire called that pitch a strike at the belt._
-- **[[d/_device|Device]] that holds and feeds [[c/_cartridges|cartridges]] into a [[b/_belt|belt]]-fed weapon**
+- **[[d/_device|Device]] that [[h/_holds|holds]] and [[f/_feeds|feeds]] [[c/_cartridges|cartridges]] [[i/_into|into]] a [[b/_belt|belt]]-[[f/_fed|fed]] weapon**
 ---
 ### Synonyms
 - [[r/_restraint|restraint]], [[g/_girdle|girdle]], [[s/_sash|sash]], [[s/_strap|strap]], [[w/_waistband|waistband]], [[b/_blow|blow]], [[p/_punch|punch]], [[s/_sock|sock]], [[w/_wallop|wallop]], [[d/_dram|dram]], [[n/_nip|nip]]
 #verb
 - **To [[e/_encircle|encircle]].**
 	- _Example: The small town was belted by cornfields in all directions._
-- **To fasten a [[b/_belt|belt]] on.**
+- **To [[f/_fasten|fasten]] a [[b/_belt|belt]] on.**
 	- _Example: Edgar belted himself in and turned the car's ignition._
-- **To invest (a person) with a [[b/_belt|belt]] as part of a formal [[c/_ceremony|ceremony]] such as knighthood.**
-- **To hit with a [[b/_belt|belt]].**
+- **To [[i/_invest|invest]] (a person) with a [[b/_belt|belt]] as part of a [[f/_formal|formal]] [[c/_ceremony|ceremony]] such as [[k/_knighthood|knighthood]].**
+- **To [[h/_hit|hit]] with a [[b/_belt|belt]].**
 	- _Example: The child was misbehaving so he was belted as punishment._
-- **To scream or sing in a loud manner.**
+- **To scream or sing in a [[l/_loud|loud]] [[m/_manner|manner]].**
 	- _Example: He belted out the national anthem._
-- **To [[d/_drink|drink]] quickly, often in gulps.**
+- **To [[d/_drink|drink]] quickly, [[o/_often|often]] in [[g/_gulps|gulps]].**
 	- _Example: He belted down a shot of whisky._
-- **To hit someone or something.**
+- **To [[h/_hit|hit]] someone or something.**
 	- _Example: The angry player belted the official across the face, and as a result was ejected from the game._
-- **To hit a pitched [[b/_ball|ball]] a long [[d/_distance|distance]], usually for a home run.**
+- **To [[h/_hit|hit]] a pitched [[b/_ball|ball]] a [[l/_long|long]] [[d/_distance|distance]], usually for a [[h/_home|home]] run.**
 	- _Example: He belted that pitch over the grandstand._
-- **To move very fast**
+- **To [[m/_move|move]] very [[f/_fast|fast]]**
 	- _Example: He was really belting along._
 ---
 ### Synonyms

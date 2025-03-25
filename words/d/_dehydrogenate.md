@@ -1,6 +1,6 @@
 # Dehydrogenate
 ---
 #verb
-- **To remove hydrogen from (a substance).**
+- **To remove [[h/_hydrogen|hydrogen]] from (a substance).**
 ---
 ---

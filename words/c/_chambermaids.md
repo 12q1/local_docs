@@ -1,6 +1,6 @@
 # Chambermaids
 ---
 #noun
-- **A maid who handles the [[c/_chores|chores]] in a [[b/_bedroom|bedroom]].**
+- **A [[m/_maid|maid]] who [[h/_handles|handles]] the [[c/_chores|chores]] in a [[b/_bedroom|bedroom]].**
 ---
 ---

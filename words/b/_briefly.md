@@ -1,7 +1,7 @@
 # Briefly
 ---
 #adverb
-- **(manner) In a [[b/_brief|brief]] manner, summarily.**
+- **([[m/_manner|manner]]) In a [[b/_brief|brief]] [[m/_manner|manner]], summarily.**
 	- _Example: He covered the subject briefly in his book._
 - **([[d/_duration|duration]]) For a [[b/_brief|brief]] period.**
 	- _Example: He only worked here briefly._

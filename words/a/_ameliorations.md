@@ -1,9 +1,9 @@
 # Ameliorations
 ---
 #noun
-- **The [[a/_act|act]] of making [[b/_better|better]].**
-- **An improvement.**
-- **The process by which a term gains a more positive [[c/_connotation|connotation]] over time.**
+- **The [[a/_act|act]] of [[m/_making|making]] [[b/_better|better]].**
+- **An [[i/_improvement|improvement]].**
+- **The process by which a term [[g/_gains|gains]] a [[m/_more|more]] positive [[c/_connotation|connotation]] [[o/_over|over]] time.**
 ---
 ### Synonyms
 - [[r/_revamp|revamp]]

@@ -1,16 +1,16 @@
 # Cockers
 ---
 #noun
-- **One who [[b/_breeds|breeds]] gamecocks or [[e/_engages|engages]] in the sport of [[c/_cockfighting|cockfighting]].**
-- **One who hunts woodcocks.**
+- **[[o/_one|One]] who [[b/_breeds|breeds]] [[g/_gamecocks|gamecocks]] or [[e/_engages|engages]] in the sport of [[c/_cockfighting|cockfighting]].**
+- **[[o/_one|One]] who [[h/_hunts|hunts]] woodcocks.**
 - **A [[d/_device|device]] that [[a/_aids|aids]] in [[c/_cocking|cocking]] a [[c/_crossbow|crossbow]].**
 ---
 ### Synonyms
 - [[c/_cockfighter|cockfighter]]
 #noun
-- **A rustic high shoe; half-[[b/_boot|boot]].**
+- **A rustic [[h/_high|high]] shoe; [[h/_half|half]]-[[b/_boot|boot]].**
 ---
 #noun
-- **Friend, mate.**
+- **[[f/_friend|Friend]], [[m/_mate|mate]].**
 ---
 ---

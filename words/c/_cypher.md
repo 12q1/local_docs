@@ -1,21 +1,21 @@
 # Cypher
 ---
 #noun
-- **A numeric [[c/_character|character]].**
+- **A [[n/_numeric|numeric]] [[c/_character|character]].**
 - **[[a/_any|Any]] text [[c/_character|character]].**
-- **A [[c/_combination|combination]] or interweaving of letters, as the initials of a name; a [[d/_device|device]]; a monogram.**
+- **A [[c/_combination|combination]] or [[i/_interweaving|interweaving]] of [[l/_letters|letters]], as the [[i/_initials|initials]] of a [[n/_name|name]]; a [[d/_device|device]]; a [[m/_monogram|monogram]].**
 	- _Example: a painter's cipher, an engraver's cipher, etc._
-- **A method of transforming a text in order to [[c/_conceal|conceal]] its meaning.**
+- **A [[m/_method|method]] of transforming a text in [[o/_order|order]] to [[c/_conceal|conceal]] [[i/_its|its]] [[m/_meaning|meaning]].**
 	- _Example: The message was written in a simple cipher. Anyone could figure it out._
-- **A [[c/_cryptographic|cryptographic]] system using an [[a/_algorithm|algorithm]] that [[c/_converts|converts]] letters or sequences of [[b/_bits|bits]] into [[c/_ciphertext|ciphertext]].**
-- **[[c/_ciphertext|Ciphertext]]; a message [[c/_concealed|concealed]] via a [[c/_cipher|cipher]].**
+- **A [[c/_cryptographic|cryptographic]] system using an [[a/_algorithm|algorithm]] that [[c/_converts|converts]] [[l/_letters|letters]] or sequences of [[b/_bits|bits]] [[i/_into|into]] [[c/_ciphertext|ciphertext]].**
+- **[[c/_ciphertext|Ciphertext]]; a [[m/_message|message]] [[c/_concealed|concealed]] via a [[c/_cipher|cipher]].**
 	- _Example: The message is clearly a cipher, but I can't figure it out._
-- **A grouping of three [[d/_digits|digits]] in a number, [[e/_especially|especially]] when [[d/_delimited|delimited]] by [[c/_commas|commas]] or periods:**
+- **A [[g/_grouping|grouping]] of three [[d/_digits|digits]] in a [[n/_number|number]], [[e/_especially|especially]] when [[d/_delimited|delimited]] by [[c/_commas|commas]] or periods:**
 	- _Example: The probability is 1 in 1,000,000,000,000,000 — a number having five ciphers of zeros._
-- **A fault in an organ valve which [[c/_causes|causes]] a pipe to sound [[c/_continuously|continuously]] without the key having [[b/_been|been]] pressed.**
-- **A hip-hop jam session.**
-- **The path (usually [[c/_circular|circular]]) shared [[c/_cannabis|cannabis]] takes through a group, an occasion of [[c/_cannabis|cannabis]] smoking.**
-- **Someone or something of no importance.**
+- **A [[f/_fault|fault]] in an [[o/_organ|organ]] valve which [[c/_causes|causes]] a pipe to sound [[c/_continuously|continuously]] without the [[k/_key|key]] [[h/_having|having]] [[b/_been|been]] pressed.**
+- **A [[h/_hip|hip]]-[[h/_hop|hop]] [[j/_jam|jam]] session.**
+- **The path (usually [[c/_circular|circular]]) shared [[c/_cannabis|cannabis]] takes through a [[g/_group|group]], an [[o/_occasion|occasion]] of [[c/_cannabis|cannabis]] smoking.**
+- **Someone or something of [[n/_no|no]] [[i/_importance|importance]].**
 - **Zero.**
 ---
 ### Synonyms
@@ -24,7 +24,7 @@
 - **To [[c/_calculate|calculate]].**
 	- _Example: I never learned much more than how to read and cipher._
 - **To write in [[c/_code|code]] or [[c/_cipher|cipher]].**
-- **Of an organ pipe: to sound independent of the organ.**
+- **Of an [[o/_organ|organ]] pipe: to sound [[i/_independent|independent]] of the [[o/_organ|organ]].**
 - **To [[d/_decipher|decipher]].**
 ---
 ---

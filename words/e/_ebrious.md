@@ -1,7 +1,7 @@
 # Ebrious
 ---
 #adjective
-- **Having a tendency towards [[a/_alcohol|alcohol]] [[a/_abuse|abuse]].**
+- **[[h/_having|Having]] a tendency towards [[a/_alcohol|alcohol]] [[a/_abuse|abuse]].**
 - **[[d/_drunk|Drunk]], tipsy.**
 - **Similar to that of a [[d/_drunk|drunk]].**
 ---

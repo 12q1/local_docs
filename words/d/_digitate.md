@@ -1,11 +1,11 @@
 # Digitate
 ---
 #verb
-- **To point out as with the finger.**
-- **To spread out from a [[c/_common|common]] point in a finger-like manner.**
+- **To point [[o/_out|out]] as with the [[f/_finger|finger]].**
+- **To spread [[o/_out|out]] from a [[c/_common|common]] point in a [[f/_finger|finger]]-[[l/_like|like]] [[m/_manner|manner]].**
 ---
 #adjective
-- **Having [[d/_digits|digits]], fingers or things shaped like fingers; fingerlike**
-- **Having parts that spread out from a [[c/_common|common]] point in a finger-like manner.**
+- **[[h/_having|Having]] [[d/_digits|digits]], [[f/_fingers|fingers]] or things shaped [[l/_like|like]] [[f/_fingers|fingers]]; [[f/_fingerlike|fingerlike]]**
+- **[[h/_having|Having]] parts that spread [[o/_out|out]] from a [[c/_common|common]] point in a [[f/_finger|finger]]-[[l/_like|like]] [[m/_manner|manner]].**
 ---
 ---

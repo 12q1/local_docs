@@ -1,6 +1,6 @@
 # Dieselizing
 ---
 #verb
-- **To [[c/_convert|convert]] or [[a/_adapt|adapt]] an [[e/_engine|engine]] to [[d/_diesel|diesel]] fuel.**
+- **To [[c/_convert|convert]] or [[a/_adapt|adapt]] an [[e/_engine|engine]] to [[d/_diesel|diesel]] [[f/_fuel|fuel]].**
 ---
 ---

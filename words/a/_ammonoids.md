@@ -1,6 +1,6 @@
 # Ammonoids
 ---
 #noun
-- **An extinct [[c/_cephalopod|cephalopod]] of the subclass [[a/_ammonoidea|Ammonoidea]] (including [[a/_ammonites|ammonites]]).**
+- **An [[e/_extinct|extinct]] [[c/_cephalopod|cephalopod]] of the subclass [[a/_ammonoidea|Ammonoidea]] ([[i/_including|including]] [[a/_ammonites|ammonites]]).**
 ---
 ---

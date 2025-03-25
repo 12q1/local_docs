@@ -1,6 +1,6 @@
 # Endorphin
 ---
 #noun
-- **[[a/_any|Any]] of a group of peptide hormones found in the [[b/_brain|brain]] that [[a/_act|act]] as neurotransmitters and have properties similar to morphine.**
+- **[[a/_any|Any]] of a [[g/_group|group]] of peptide [[h/_hormones|hormones]] [[f/_found|found]] in the [[b/_brain|brain]] that [[a/_act|act]] as [[n/_neurotransmitters|neurotransmitters]] and [[h/_have|have]] properties similar to [[m/_morphine|morphine]].**
 ---
 ---

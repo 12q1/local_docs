@@ -1,7 +1,7 @@
 # Bloodstock
 ---
 #noun
-- **Thoroughbred [[a/_animals|animals]] in general, but [[e/_especially|especially]] horses.**
-- **The [[b/_breeding|breeding]] line of a thoroughbred horse or other [[a/_animal|animal]].**
+- **Thoroughbred [[a/_animals|animals]] in [[g/_general|general]], but [[e/_especially|especially]] [[h/_horses|horses]].**
+- **The [[b/_breeding|breeding]] [[l/_line|line]] of a thoroughbred [[h/_horse|horse]] or [[o/_other|other]] [[a/_animal|animal]].**
 ---
 ---

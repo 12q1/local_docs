@@ -1,7 +1,7 @@
 # Ecdysis
 ---
 #noun
-- **The shedding of an outer layer of skin in snakes and [[c/_certain|certain]] other [[a/_animals|animals]]; moulting**
-- **The shedding of an exoskeleton, as in insects and [[c/_crustaceans|crustaceans]].**
+- **The shedding of an [[o/_outer|outer]] [[l/_layer|layer]] of skin in snakes and [[c/_certain|certain]] [[o/_other|other]] [[a/_animals|animals]]; [[m/_moulting|moulting]]**
+- **The shedding of an [[e/_exoskeleton|exoskeleton]], as in [[i/_insects|insects]] and [[c/_crustaceans|crustaceans]].**
 ---
 ---

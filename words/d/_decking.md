@@ -1,17 +1,17 @@
 # Decking
 ---
 #verb
-- **To furnish with a [[d/_deck|deck]], as a vessel.**
-- **To knock someone to the floor, [[e/_especially|especially]] with a single punch.**
+- **To [[f/_furnish|furnish]] with a [[d/_deck|deck]], as a vessel.**
+- **To [[k/_knock|knock]] someone to the [[f/_floor|floor]], [[e/_especially|especially]] with a single punch.**
 	- _Example: Wow, did you see her deck that guy who pinched her?_
-- **To [[c/_cause|cause]] a player to run out of [[c/_cards|cards]] to [[d/_draw|draw]] and usually lose the game as a result.**
+- **To [[c/_cause|cause]] a player to run [[o/_out|out]] of [[c/_cards|cards]] to [[d/_draw|draw]] and usually [[l/_lose|lose]] the [[g/_game|game]] as a result.**
 ---
 #verb
-- **(sometimes with out) To [[d/_dress|dress]] (someone) up, to [[c/_clothe|clothe]] with more than ordinary [[e/_elegance|elegance]]**
-- **(sometimes with out) To [[d/_decorate|decorate]] (something).**
-- **To [[c/_cover|cover]]; to overspread.**
+- **(sometimes with [[o/_out|out]]) To [[d/_dress|dress]] (someone) up, to [[c/_clothe|clothe]] with [[m/_more|more]] than [[o/_ordinary|ordinary]] [[e/_elegance|elegance]]**
+- **(sometimes with [[o/_out|out]]) To [[d/_decorate|decorate]] (something).**
+- **To [[c/_cover|cover]]; to [[o/_overspread|overspread]].**
 ---
 #noun
-- **The material from which a [[d/_deck|deck]] is made.**
+- **The [[m/_material|material]] from which a [[d/_deck|deck]] is [[m/_made|made]].**
 ---
 ---

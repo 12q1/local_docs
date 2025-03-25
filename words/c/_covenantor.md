@@ -1,6 +1,6 @@
 # Covenantor
 ---
 #noun
-- **The party who makes a [[c/_covenant|covenant]].**
+- **The party who [[m/_makes|makes]] a [[c/_covenant|covenant]].**
 ---
 ---

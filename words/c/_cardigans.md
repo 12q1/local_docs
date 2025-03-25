@@ -1,7 +1,7 @@
 # Cardigans
 ---
 #noun
-- **A type of sweater or jumper that fastens up the front with [[b/_buttons|buttons]] or a zipper, usually machine- or hand-knitted from wool.**
+- **A type of sweater or [[j/_jumper|jumper]] that [[f/_fastens|fastens]] up the [[f/_front|front]] with [[b/_buttons|buttons]] or a zipper, usually [[m/_machine|machine]]- or [[h/_hand|hand]]-[[k/_knitted|knitted]] from wool.**
 ---
 ### Synonyms
 - [[c/_cardi|cardi]], [[c/_cardie|cardie]], [[c/_cardy|cardy]]

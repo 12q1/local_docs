@@ -1,13 +1,13 @@
 # Brat
 ---
 #noun
-- **A [[c/_child|child]] who is regarded as mischievous, unruly, spoiled, or selfish.**
+- **A [[c/_child|child]] who is regarded as [[m/_mischievous|mischievous]], unruly, spoiled, or selfish.**
 	- _Example: Get that little brat away from me!_
-- **A son or [[d/_daughter|daughter]] (at [[a/_any|any]] [[a/_age|age]]) of an [[a/_active|active]] military service member.**
+- **A son or [[d/_daughter|daughter]] (at [[a/_any|any]] [[a/_age|age]]) of an [[a/_active|active]] [[m/_military|military]] service [[m/_member|member]].**
 	- _Example: an army brat_
-- **A turbot or flatfish**
-- **A rough [[c/_cloak|cloak]] or ragged garment**
-- **A [[c/_coarse|coarse]] kind of [[a/_apron|apron]] for keeping the [[c/_clothes|clothes]] [[c/_clean|clean]]; a [[b/_bib|bib]].**
-- **The young of an [[a/_animal|animal]].**
+- **A turbot or [[f/_flatfish|flatfish]]**
+- **A rough [[c/_cloak|cloak]] or ragged [[g/_garment|garment]]**
+- **A [[c/_coarse|coarse]] [[k/_kind|kind]] of [[a/_apron|apron]] for [[k/_keeping|keeping]] the [[c/_clothes|clothes]] [[c/_clean|clean]]; a [[b/_bib|bib]].**
+- **The [[y/_young|young]] of an [[a/_animal|animal]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Caricaturing
 ---
 #verb
-- **To represent someone in an exaggerated or [[d/_distorted|distorted]] manner.**
+- **To represent someone in an [[e/_exaggerated|exaggerated]] or [[d/_distorted|distorted]] [[m/_manner|manner]].**
 ---
 ---

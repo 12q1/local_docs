@@ -1,0 +1,6 @@
+# Macintosh
+---
+#noun
+- **A raincoat.**
+---
+---

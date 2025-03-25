@@ -1,7 +1,7 @@
 # Autobiographies
 ---
 #noun
-- **A self-written [[b/_biography|biography]]; the story of one's own life.**
+- **A self-written [[b/_biography|biography]]; the story of [[o/_one|one]]'s [[o/_own|own]] [[l/_life|life]].**
 ---
 ### Synonyms
 - [[m/_memoir|memoir]]

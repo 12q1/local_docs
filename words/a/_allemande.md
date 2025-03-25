@@ -1,7 +1,7 @@
 # Allemande
 ---
 #noun
-- **A popular instrumental [[d/_dance|dance]] form in [[b/_baroque|Baroque]] music, and a standard [[e/_element|element]] of a suite, generally the first or second movement.**
+- **A popular [[i/_instrumental|instrumental]] [[d/_dance|dance]] [[f/_form|form]] in [[b/_baroque|Baroque]] [[m/_music|music]], and a standard [[e/_element|element]] of a suite, [[g/_generally|generally]] the [[f/_first|first]] or second [[m/_movement|movement]].**
 ---
 ### Synonyms
 - [[a/_allemanda|allemanda]], [[a/_almain|almain]], [[a/_alman|alman]]

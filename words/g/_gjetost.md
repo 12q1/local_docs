@@ -1,0 +1,6 @@
+# Gjetost
+---
+#noun
+- **Brunost**
+---
+---

@@ -1,7 +1,7 @@
 # Deking
 ---
 #verb
-- **To [[a/_avoid|avoid]], go [[a/_around|around]], or [[d/_dodge|dodge]] an object, person, or [[c/_conversation|conversation]] topic; often by using trickery.**
-- **To execute a [[d/_deke|deke]] in ice hockey or other sports.**
+- **To [[a/_avoid|avoid]], [[g/_go|go]] [[a/_around|around]], or [[d/_dodge|dodge]] an [[o/_object|object]], person, or [[c/_conversation|conversation]] topic; [[o/_often|often]] by using trickery.**
+- **To [[e/_execute|execute]] a [[d/_deke|deke]] in [[i/_ice|ice]] [[h/_hockey|hockey]] or [[o/_other|other]] sports.**
 ---
 ---

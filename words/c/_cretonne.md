@@ -1,6 +1,6 @@
 # Cretonne
 ---
 #noun
-- **A strong, heavy fabric of [[c/_cotton|cotton]], linen or rayon, used to make [[c/_curtains|curtains]] and upholstery.**
+- **A strong, [[h/_heavy|heavy]] [[f/_fabric|fabric]] of [[c/_cotton|cotton]], [[l/_linen|linen]] or rayon, used to [[m/_make|make]] [[c/_curtains|curtains]] and upholstery.**
 ---
 ---

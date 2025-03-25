@@ -1,0 +1,7 @@
+# Nourishment
+---
+#noun
+- **The [[a/_act|act]] of [[n/_nourishing|nourishing]] or the state of [[b/_being|being]] [[n/_nourished|nourished]]**
+- **Something that [[n/_nourishes|nourishes]]; [[f/_food|food]]**
+---
+---

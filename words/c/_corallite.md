@@ -1,6 +1,6 @@
 # Corallite
 ---
 #noun
-- **The hard outer [[c/_cup|cup]] of a [[c/_coral|coral]] polyp**
+- **The [[h/_hard|hard]] [[o/_outer|outer]] [[c/_cup|cup]] of a [[c/_coral|coral]] polyp**
 ---
 ---

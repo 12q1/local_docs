@@ -4,13 +4,13 @@
 - **Someone or something that is [[a/_awkward|awkward]].**
 ---
 #adjective
-- **Lacking [[d/_dexterity|dexterity]] in the use of the hands, or of instruments.**
+- **[[l/_lacking|Lacking]] [[d/_dexterity|dexterity]] in the use of the [[h/_hands|hands]], or of [[i/_instruments|instruments]].**
 	- _Example: John was awkward at performing the trick. He'll have to practice to improve._
-- **Not [[e/_easily|easily]] managed or [[e/_effected|effected]]; [[e/_embarrassing|embarrassing]].**
+- **Not [[e/_easily|easily]] [[m/_managed|managed]] or [[e/_effected|effected]]; [[e/_embarrassing|embarrassing]].**
 	- _Example: An awkward silence had fallen._
-- **Lacking social skills, or uncomfortable with social interaction.**
+- **[[l/_lacking|Lacking]] social skills, or uncomfortable with social [[i/_interaction|interaction]].**
 	- _Example: I'm very awkward at parties._
-- **Perverse; [[a/_adverse|adverse]]; [[d/_difficult|difficult]] to handle.**
+- **Perverse; [[a/_adverse|adverse]]; [[d/_difficult|difficult]] to [[h/_handle|handle]].**
 	- _Example: He's a right awkward chap._
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Brimful
 ---
 #adjective
-- **Filled to maximum [[c/_capacity|capacity]].**
+- **[[f/_filled|Filled]] to [[m/_maximum|maximum]] [[c/_capacity|capacity]].**
 ---
 ---

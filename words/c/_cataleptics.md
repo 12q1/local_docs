@@ -1,6 +1,6 @@
 # Cataleptics
 ---
 #noun
-- **A person experiencing [[c/_catalepsy|catalepsy]].**
+- **A person [[e/_experiencing|experiencing]] [[c/_catalepsy|catalepsy]].**
 ---
 ---

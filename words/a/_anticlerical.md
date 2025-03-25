@@ -1,9 +1,9 @@
 # Anticlerical
 ---
 #noun
-- **One who opposes the political influence of [[c/_clerics|clerics]].**
+- **[[o/_one|One]] who [[o/_opposes|opposes]] the political [[i/_influence|influence]] of [[c/_clerics|clerics]].**
 ---
 #adjective
-- **Opposed to political influence of [[c/_clerics|clerics]].**
+- **[[o/_opposed|Opposed]] to political [[i/_influence|influence]] of [[c/_clerics|clerics]].**
 ---
 ---

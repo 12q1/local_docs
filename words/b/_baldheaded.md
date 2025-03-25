@@ -1,8 +1,8 @@
 # Baldheaded
 ---
 #adjective
-- **Having a [[b/_bald|bald]] head.**
-- **(of a square-rigged ship) not having the royals set.**
-- **(of a fore-and-[[a/_aft|aft]] rigged ship) having the topmasts struck [[d/_down|down]].**
+- **[[h/_having|Having]] a [[b/_bald|bald]] [[h/_head|head]].**
+- **(of a square-rigged ship) not [[h/_having|having]] the royals set.**
+- **(of a [[f/_fore|fore]]-and-[[a/_aft|aft]] rigged ship) [[h/_having|having]] the topmasts struck [[d/_down|down]].**
 ---
 ---

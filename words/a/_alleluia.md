@@ -1,14 +1,14 @@
 # Alleluia
 ---
 #noun
-- **A liturgical form of hallelujah.**
-- **A [[c/_choral|choral]] [[c/_composition|composition]] incorporating [[a/_alleluia|alleluia]] in its text.**
+- **A [[l/_liturgical|liturgical]] [[f/_form|form]] of [[h/_hallelujah|hallelujah]].**
+- **A [[c/_choral|choral]] [[c/_composition|composition]] [[i/_incorporating|incorporating]] [[a/_alleluia|alleluia]] in [[i/_its|its]] text.**
 - **The plant wood sorrel.**
 ---
 #interjection
-- **A liturgical or variant form of hallelujah.**
+- **A [[l/_liturgical|liturgical]] or variant [[f/_form|form]] of [[h/_hallelujah|hallelujah]].**
 ---
 #verb
-- **To [[c/_cry|cry]] "hallelujah" in praise.**
+- **To [[c/_cry|cry]] "[[h/_hallelujah|hallelujah]]" in praise.**
 ---
 ---

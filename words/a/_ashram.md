@@ -1,7 +1,7 @@
 # Ashram
 ---
 #noun
-- **A secluded religious hermitage inhabited by gurus, or the population of such a hermitage.**
+- **A secluded religious [[h/_hermitage|hermitage]] [[i/_inhabited|inhabited]] by [[g/_gurus|gurus]], or the population of such a [[h/_hermitage|hermitage]].**
 	- _Example: The entire ashram was excited._
 ---
 ---

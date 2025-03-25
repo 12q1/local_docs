@@ -4,11 +4,11 @@
 - **An [[e/_effeminate|effeminate]] person.**
 ---
 #verb
-- **To make womanly; to unman.**
+- **To [[m/_make|make]] womanly; to unman.**
 - **To [[b/_become|become]] womanly.**
 ---
 #adjective
-- **(of a man or [[b/_boy|boy]]) Exhibiting [[b/_behaviour|behaviour]] or mannerisms [[c/_considered|considered]] typical of a female; unmasculine.**
+- **(of a [[m/_man|man]] or [[b/_boy|boy]]) [[e/_exhibiting|Exhibiting]] [[b/_behaviour|behaviour]] or [[m/_mannerisms|mannerisms]] [[c/_considered|considered]] typical of a [[f/_female|female]]; unmasculine.**
 - **Womanly; tender, [[a/_affectionate|affectionate]], [[c/_caring|caring]].**
 ---
 ### Synonyms

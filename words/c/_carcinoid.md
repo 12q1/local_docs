@@ -1,6 +1,6 @@
 # Carcinoid
 ---
 #noun
-- **A form of slow-growing tumour originating in the neuroendocrine system.**
+- **A [[f/_form|form]] of slow-[[g/_growing|growing]] tumour [[o/_originating|originating]] in the [[n/_neuroendocrine|neuroendocrine]] system.**
 ---
 ---

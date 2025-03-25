@@ -1,13 +1,13 @@
 # Blowholes
 ---
 #noun
-- **The spiracle, on the top of the head, through which [[c/_cetaceans|cetaceans]] [[b/_breathe|breathe]].**
-- **A vent for the [[e/_escape|escape]] of gas.**
-- **A top-facing opening to a [[c/_cavity|cavity]] in the ground very near an ocean's shore, leading to a marine [[c/_cave|cave]] from which wave water or [[b/_bursts|bursts]] of [[a/_air|air]] are expelled.**
-- **An unintended [[c/_cavity|cavity]] filled with [[a/_air|air]] in a [[c/_casting|casting]] product.**
-- **A vertical opening in the top of [[c/_computer|computer]] [[c/_cases|cases]], that let hot [[a/_air|air]], primarily from the [[c/_cpu|CPU]] heat sink, [[e/_escape|escape]] quickly.**
+- **The spiracle, on the top of the [[h/_head|head]], through which [[c/_cetaceans|cetaceans]] [[b/_breathe|breathe]].**
+- **A vent for the [[e/_escape|escape]] of [[g/_gas|gas]].**
+- **A top-[[f/_facing|facing]] [[o/_opening|opening]] to a [[c/_cavity|cavity]] in the [[g/_ground|ground]] very [[n/_near|near]] an [[o/_ocean|ocean]]'s shore, [[l/_leading|leading]] to a [[m/_marine|marine]] [[c/_cave|cave]] from which wave water or [[b/_bursts|bursts]] of [[a/_air|air]] are [[e/_expelled|expelled]].**
+- **An unintended [[c/_cavity|cavity]] [[f/_filled|filled]] with [[a/_air|air]] in a [[c/_casting|casting]] product.**
+- **A vertical [[o/_opening|opening]] in the top of [[c/_computer|computer]] [[c/_cases|cases]], that [[l/_let|let]] [[h/_hot|hot]] [[a/_air|air]], primarily from the [[c/_cpu|CPU]] [[h/_heat|heat]] sink, [[e/_escape|escape]] quickly.**
 ---
 #verb
-- **To fill or be filled with [[a/_air|air]] in an unintended [[c/_cavity|cavity]].**
+- **To [[f/_fill|fill]] or be [[f/_filled|filled]] with [[a/_air|air]] in an unintended [[c/_cavity|cavity]].**
 ---
 ---

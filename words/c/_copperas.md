@@ -1,6 +1,6 @@
 # Copperas
 ---
 #noun
-- **Iron(II) sulfate.**
+- **[[i/_iron|Iron]]([[i/_ii|II]]) sulfate.**
 ---
 ---

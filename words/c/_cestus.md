@@ -1,6 +1,6 @@
 # Cestus
 ---
 #noun
-- **A leather fighting glove, frequently weighted with metal.**
+- **A [[l/_leather|leather]] [[f/_fighting|fighting]] [[g/_glove|glove]], [[f/_frequently|frequently]] weighted with [[m/_metal|metal]].**
 ---
 ---

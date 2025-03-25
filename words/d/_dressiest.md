@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[e/_elegant|Elegant]], smart or stylish.**
-- **Fond of [[d/_dressing|dressing]] up; keen on fashion.**
+- **[[f/_fond|Fond]] of [[d/_dressing|dressing]] up; [[k/_keen|keen]] on [[f/_fashion|fashion]].**
 ---
 ---

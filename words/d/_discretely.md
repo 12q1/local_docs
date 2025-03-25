@@ -1,6 +1,6 @@
 # Discretely
 ---
 #adverb
-- **As a separate independent unit.**
+- **As a separate [[i/_independent|independent]] unit.**
 ---
 ---

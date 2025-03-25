@@ -1,0 +1,10 @@
+# Mumchance
+---
+#noun
+- **An [[o/_old|old]] [[g/_game|game]] of [[c/_chance|chance]] played with [[c/_cards|cards]] in silence.**
+- **A silent, stupid person.**
+---
+#adjective
+- **[[m/_mute|Mute]], or not speaking; silent.**
+---
+---

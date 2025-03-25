@@ -1,9 +1,9 @@
 # Delicatessen
 ---
 #noun
-- **[[d/_delicacies|Delicacies]]; exotic or expensive foods.**
+- **[[d/_delicacies|Delicacies]]; [[e/_exotic|exotic]] or [[e/_expensive|expensive]] [[f/_foods|foods]].**
 ---
 #noun
-- **A shop that sells [[c/_cooked|cooked]] or prepared foods ready for serving.**
+- **A shop that sells [[c/_cooked|cooked]] or prepared [[f/_foods|foods]] ready for serving.**
 ---
 ---

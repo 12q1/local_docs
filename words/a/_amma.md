@@ -1,6 +1,6 @@
 # Amma
 ---
 #noun
-- **Mother**
+- **[[m/_mother|Mother]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Coreligionist
 ---
 #noun
-- **A fellow follower of one's religion.**
+- **A [[f/_fellow|fellow]] [[f/_follower|follower]] of [[o/_one|one]]'s religion.**
 ---
 ### Synonyms
 - [[c/_co-religionary|co-religionary]]

@@ -2,7 +2,7 @@
 ---
 #noun
 - **The quality of [[b/_being|being]] [[b/_bright|bright]].**
-- **The perceived luminance of an object.**
-- **Intelligence, [[c/_cleverness|cleverness]].**
+- **The perceived [[l/_luminance|luminance]] of an [[o/_object|object]].**
+- **[[i/_intelligence|Intelligence]], [[c/_cleverness|cleverness]].**
 ---
 ---

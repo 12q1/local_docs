@@ -1,9 +1,9 @@
 # Discus
 ---
 #noun
-- **A round plate-like object that is thrown for sport.**
+- **A round plate-[[l/_like|like]] [[o/_object|object]] that is thrown for sport.**
 - **The [[a/_athletics|athletics]] sport of [[d/_discus|discus]] throwing.**
-- **(plural: [[d/_discus|discus]]) A [[d/_discus|discus]] fish (genus Symphysodon)**
+- **(plural: [[d/_discus|discus]]) A [[d/_discus|discus]] [[f/_fish|fish]] ([[g/_genus|genus]] Symphysodon)**
 - **A [[c/_chakram|chakram]].**
 ---
 ### Synonyms

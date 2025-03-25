@@ -1,14 +1,14 @@
 # Blaze
 ---
 #noun
-- **A fire, [[e/_especially|especially]] a fast-[[b/_burning|burning]] fire producing a lot of flames and light.**
-- **Intense, [[d/_direct|direct]] light [[a/_accompanied|accompanied]] with heat.**
+- **A [[f/_fire|fire]], [[e/_especially|especially]] a [[f/_fast|fast]]-[[b/_burning|burning]] [[f/_fire|fire]] producing a [[l/_lot|lot]] of [[f/_flames|flames]] and [[l/_light|light]].**
+- **[[i/_intense|Intense]], [[d/_direct|direct]] [[l/_light|light]] [[a/_accompanied|accompanied]] with [[h/_heat|heat]].**
 	- _Example: to seek shelter from the blaze of the sun_
-- **The white or lighter-[[c/_coloured|coloured]] markings on a horse's face.**
+- **The white or [[l/_lighter|lighter]]-[[c/_coloured|coloured]] [[m/_markings|markings]] on a [[h/_horse|horse]]'s [[f/_face|face]].**
 	- _Example: The palomino had a white blaze on its face._
-- **A high-visibility orange [[c/_colour|colour]], typically used in warning signs and hunters' [[c/_clothing|clothing]].**
-- **A [[b/_bursting|bursting]] out, or [[a/_active|active]] [[d/_display|display]] of [[a/_any|any]] quality; an outburst.**
-- **A spot made on trees by [[c/_chipping|chipping]] off a piece of the [[b/_bark|bark]], usually as a surveyor's mark.**
-- **A hand [[c/_consisting|consisting]] of five face [[c/_cards|cards]].**
+- **A [[h/_high|high]]-visibility [[o/_orange|orange]] [[c/_colour|colour]], typically used in warning signs and [[h/_hunters|hunters]]' [[c/_clothing|clothing]].**
+- **A [[b/_bursting|bursting]] [[o/_out|out]], or [[a/_active|active]] [[d/_display|display]] of [[a/_any|any]] quality; an [[o/_outburst|outburst]].**
+- **A spot [[m/_made|made]] on trees by [[c/_chipping|chipping]] [[o/_off|off]] a piece of the [[b/_bark|bark]], usually as a surveyor's [[m/_mark|mark]].**
+- **A [[h/_hand|hand]] [[c/_consisting|consisting]] of [[f/_five|five]] [[f/_face|face]] [[c/_cards|cards]].**
 ---
 ---

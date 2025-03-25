@@ -4,7 +4,7 @@
 - **A [[c/_categorical|categorical]] proposition.**
 ---
 #adjective
-- **[[a/_absolute|Absolute]]; having no exception.**
+- **[[a/_absolute|Absolute]]; [[h/_having|having]] [[n/_no|no]] [[e/_exception|exception]].**
 - **Of, pertaining to, or using a [[c/_category|category]] or [[c/_categories|categories]].**
 ---
 ### Synonyms

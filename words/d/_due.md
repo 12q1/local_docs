@@ -3,28 +3,28 @@
 #noun
 - **[[d/_deserved|Deserved]] [[a/_acknowledgment|acknowledgment]].**
 	- _Example: Give him his due — he is a good actor._
-- **(in plural [[d/_dues|dues]]) A membership fee.**
-- **That which is owed; [[d/_debt|debt]]; that which [[b/_belongs|belongs]] or may be [[c/_claimed|claimed]] as a right; whatever [[c/_custom|custom]], law, or morality requires to be [[d/_done|done]], [[d/_duty|duty]].**
-- **Right; just title or [[c/_claim|claim]].**
+- **(in plural [[d/_dues|dues]]) A [[m/_membership|membership]] [[f/_fee|fee]].**
+- **That which is [[o/_owed|owed]]; [[d/_debt|debt]]; that which [[b/_belongs|belongs]] or [[m/_may|may]] be [[c/_claimed|claimed]] as a right; whatever [[c/_custom|custom]], [[l/_law|law]], or [[m/_morality|morality]] requires to be [[d/_done|done]], [[d/_duty|duty]].**
+- **Right; [[j/_just|just]] title or [[c/_claim|claim]].**
 ---
 #adjective
-- **Owed or owing.**
+- **[[o/_owed|Owed]] or [[o/_owing|owing]].**
 	- _Example: He can wait for the amount due him._
 - **[[a/_appropriate|Appropriate]].**
 	- _Example: With all due respect, you're wrong about that._
-- **Scheduled; expected.**
+- **Scheduled; [[e/_expected|expected]].**
 	- _Example: Rain is due this afternoon._
-- **Having reached the expected, scheduled, or natural time.**
+- **[[h/_having|Having]] reached the [[e/_expected|expected]], scheduled, or [[n/_natural|natural]] time.**
 	- _Example: The baby is just about due._
-- **Owing; [[a/_ascribable|ascribable]], as to a [[c/_cause|cause]].**
+- **[[o/_owing|Owing]]; [[a/_ascribable|ascribable]], as to a [[c/_cause|cause]].**
 	- _Example: The dangerously low water table is due to rapidly growing pumping._
-- **On a [[d/_direct|direct]] [[b/_bearing|bearing]], [[e/_especially|especially]] for the four points of the [[c/_compass|compass]]**
+- **On a [[d/_direct|direct]] [[b/_bearing|bearing]], [[e/_especially|especially]] for the [[f/_four|four]] points of the [[c/_compass|compass]]**
 	- _Example: The town is 5 miles due North of the bridge._
 ---
 ### Synonyms
 - [[e/_expected|expected]], [[e/_expected|expected]], [[f/_forecast|forecast]], [[n/_needed|needed]], [[o/_owing|owing]], [[r/_required|required]]
 #adverb
-- **(used with [[c/_compass|compass]] [[d/_directions|directions]]) [[d/_directly|Directly]]; exactly.**
+- **(used with [[c/_compass|compass]] [[d/_directions|directions]]) [[d/_directly|Directly]]; [[e/_exactly|exactly]].**
 	- _Example: The river runs due north for about a mile._
 ---
 ---

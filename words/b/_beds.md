@@ -1,15 +1,15 @@
 # Beds
 ---
 #noun
-- **A piece of furniture, usually flat and soft, on which to rest or sleep.**
+- **A piece of [[f/_furniture|furniture]], usually [[f/_flat|flat]] and soft, on which to rest or sleep.**
 	- _Example: My cat often sleeps on my bed.
 I keep a glass of water next to my bed when I sleep._
-- **A place, or flat surface or layer, on which something [[e/_else|else]] rests or is laid.**
+- **A place, or [[f/_flat|flat]] surface or [[l/_layer|layer]], on which something [[e/_else|else]] rests or is [[l/_laid|laid]].**
 	- _Example: The meats and cheeses lay on a bed of lettuce._
-- **(heading) A layer or surface.**
+- **([[h/_heading|heading]]) A [[l/_layer|layer]] or surface.**
 ---
 #verb
 - **Senses relating to a [[b/_bed|bed]] as a place for resting or sleeping.**
-- **Senses relating to a [[b/_bed|bed]] as a place or layer on which something [[e/_else|else]] rests or is laid.**
+- **Senses relating to a [[b/_bed|bed]] as a place or [[l/_layer|layer]] on which something [[e/_else|else]] rests or is [[l/_laid|laid]].**
 ---
 ---

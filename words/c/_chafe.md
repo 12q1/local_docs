@@ -1,19 +1,19 @@
 # Chafe
 ---
 #noun
-- **Heat excited by friction.**
-- **Injury or wear [[c/_caused|caused]] by friction.**
-- **Vexation; irritation of mind; rage.**
-- **An expression of opinionated [[c/_conflict|conflict]].**
+- **[[h/_heat|Heat]] [[e/_excited|excited]] by [[f/_friction|friction]].**
+- **[[i/_injury|Injury]] or wear [[c/_caused|caused]] by [[f/_friction|friction]].**
+- **Vexation; [[i/_irritation|irritation]] of [[m/_mind|mind]]; rage.**
+- **An [[e/_expression|expression]] of [[o/_opinionated|opinionated]] [[c/_conflict|conflict]].**
 ---
 #verb
-- **To excite heat in by friction; to rub in order to stimulate and make warm.**
-- **To excite passion or [[a/_anger|anger]] in; to fret; to irritate.**
-- **To fret and wear by rubbing.**
+- **To [[e/_excite|excite]] [[h/_heat|heat]] in by [[f/_friction|friction]]; to rub in [[o/_order|order]] to stimulate and [[m/_make|make]] warm.**
+- **To [[e/_excite|excite]] passion or [[a/_anger|anger]] in; to [[f/_fret|fret]]; to [[i/_irritate|irritate]].**
+- **To [[f/_fret|fret]] and wear by rubbing.**
 	- _Example: to chafe a cable_
-- **To rub; to [[c/_come|come]] together so as to wear by rubbing; to wear by friction.**
+- **To rub; to [[c/_come|come]] together so as to wear by rubbing; to wear by [[f/_friction|friction]].**
 - **To be worn by rubbing.**
 	- _Example: A cable chafes._
-- **To have a feeling of vexation; to be vexed; to fret; to be irritated.**
+- **To [[h/_have|have]] a [[f/_feeling|feeling]] of vexation; to be vexed; to [[f/_fret|fret]]; to be [[i/_irritated|irritated]].**
 ---
 ---

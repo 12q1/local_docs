@@ -8,6 +8,6 @@
 ### Antonyms
 - [[s/_salinate|salinate]], [[s/_salt|salt]]
 #noun
-- **A process in which salt is removed from a material; [[d/_desalination|desalination]]**
+- **A process in which salt is removed from a [[m/_material|material]]; [[d/_desalination|desalination]]**
 ---
 ---

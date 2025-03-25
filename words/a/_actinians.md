@@ -1,6 +1,6 @@
 # Actinians
 ---
 #noun
-- **A sea [[a/_anemone|anemone]] (of the order [[a/_actiniaria|Actiniaria]]).**
+- **A sea [[a/_anemone|anemone]] (of the [[o/_order|order]] [[a/_actiniaria|Actiniaria]]).**
 ---
 ---

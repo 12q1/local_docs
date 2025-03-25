@@ -1,8 +1,8 @@
 # Cottonwood
 ---
 #noun
-- **A tree from one of number of species of tree in the genus Populus (poplars), typically growing [[a/_along|along]] watercourses, with fluffy [[c/_catkins|catkins]].**
-- **Populus sect. Aigeiros, a taxonomic section of the poplar genus**
-- **[[c/_cottonwood|Cottonwood]] hibiscus (Talipariti tiliaceum, syn. Hibiscus tiliaceus), a flowering shrub or tree in the mallow family**
+- **A tree from [[o/_one|one]] of [[n/_number|number]] of species of tree in the [[g/_genus|genus]] Populus (poplars), typically [[g/_growing|growing]] [[a/_along|along]] watercourses, with [[f/_fluffy|fluffy]] [[c/_catkins|catkins]].**
+- **Populus sect. Aigeiros, a taxonomic section of the poplar [[g/_genus|genus]]**
+- **[[c/_cottonwood|Cottonwood]] [[h/_hibiscus|hibiscus]] (Talipariti tiliaceum, syn. [[h/_hibiscus|Hibiscus]] tiliaceus), a [[f/_flowering|flowering]] shrub or tree in the [[m/_mallow|mallow]] [[f/_family|family]]**
 ---
 ---

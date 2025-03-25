@@ -1,6 +1,6 @@
 # Dyslexics
 ---
 #noun
-- **A person who has [[d/_dyslexia|dyslexia]].**
+- **A person who [[h/_has|has]] [[d/_dyslexia|dyslexia]].**
 ---
 ---

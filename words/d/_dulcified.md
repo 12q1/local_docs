@@ -1,6 +1,6 @@
 # Dulcified
 ---
 #adjective
-- **Sweetened; mollified**
+- **Sweetened; [[m/_mollified|mollified]]**
 ---
 ---

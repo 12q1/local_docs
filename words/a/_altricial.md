@@ -4,7 +4,7 @@
 - **Such an [[a/_animal|animal]]**
 ---
 #adjective
-- **Helpless at [[b/_birth|birth]] (of young [[a/_animals|animals]]); or having young which are helpless at [[b/_birth|birth]].**
+- **[[h/_helpless|Helpless]] at [[b/_birth|birth]] (of [[y/_young|young]] [[a/_animals|animals]]); or [[h/_having|having]] [[y/_young|young]] which are [[h/_helpless|helpless]] at [[b/_birth|birth]].**
 ---
 ### Synonyms
 - [[n/_nidicolous|nidicolous]]

@@ -1,15 +1,15 @@
 # Ablaze
 ---
 #adjective
-- **[[b/_burning|Burning]] fiercely; in a [[b/_blaze|blaze]]; on fire.**
-- **Radiant with [[b/_bright|bright]] light and [[c/_color|color]].**
-- **In a state of glowing excitement or [[a/_ardent|ardent]] [[d/_desire|desire]].**
+- **[[b/_burning|Burning]] [[f/_fiercely|fiercely]]; in a [[b/_blaze|blaze]]; on [[f/_fire|fire]].**
+- **Radiant with [[b/_bright|bright]] [[l/_light|light]] and [[c/_color|color]].**
+- **In a state of [[g/_glowing|glowing]] [[e/_excitement|excitement]] or [[a/_ardent|ardent]] [[d/_desire|desire]].**
 ---
 ### Synonyms
 - [[a/_afire|afire]], [[a/_aflame|aflame]]
 #adverb
-- **On fire; in a [[b/_blaze|blaze]], gleaming.**
-- **Lit up [[b/_brightly|brightly]] and with [[c/_color|color]].**
-- **In a state of glowing excitement or [[a/_ardent|ardent]] [[d/_desire|desire]].**
+- **On [[f/_fire|fire]]; in a [[b/_blaze|blaze]], [[g/_gleaming|gleaming]].**
+- **[[l/_lit|Lit]] up [[b/_brightly|brightly]] and with [[c/_color|color]].**
+- **In a state of [[g/_glowing|glowing]] [[e/_excitement|excitement]] or [[a/_ardent|ardent]] [[d/_desire|desire]].**
 ---
 ---

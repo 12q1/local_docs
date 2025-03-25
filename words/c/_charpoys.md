@@ -1,6 +1,6 @@
 # Charpoys
 ---
 #noun
-- **A traditional [[b/_bedstead|bedstead]] in India, [[c/_consisting|consisting]] of a wooden frame [[b/_bordering|bordering]] a set of knotted ropes.**
+- **A traditional [[b/_bedstead|bedstead]] in [[i/_india|India]], [[c/_consisting|consisting]] of a wooden [[f/_frame|frame]] [[b/_bordering|bordering]] a set of [[k/_knotted|knotted]] ropes.**
 ---
 ---

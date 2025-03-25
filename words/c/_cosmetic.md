@@ -1,15 +1,15 @@
 # Cosmetic
 ---
 #noun
-- **[[a/_any|Any]] substances [[a/_applied|applied]] to [[e/_enhance|enhance]] the external [[c/_color|color]] or texture of the skin, [[e/_e|e]].g. lipstick, eyeshadow, [[e/_eyeliner|eyeliner]]; makeup.**
-- **A feature existing only on the surface.**
+- **[[a/_any|Any]] substances [[a/_applied|applied]] to [[e/_enhance|enhance]] the [[e/_external|external]] [[c/_color|color]] or texture of the skin, [[e/_e|e]].[[g/_g|g]]. [[l/_lipstick|lipstick]], eyeshadow, [[e/_eyeliner|eyeliner]]; [[m/_makeup|makeup]].**
+- **A [[f/_feature|feature]] [[e/_existing|existing]] [[o/_only|only]] on the surface.**
 ---
 ### Synonyms
 - [[m/_makeup|makeup]], [[p/_product|product]], [[s/_slap|slap]]
 #adjective
-- **Imparting or improving [[b/_beauty|beauty]], particularly the [[b/_beauty|beauty]] of the [[c/_complexion|complexion]].**
+- **[[i/_imparting|Imparting]] or [[i/_improving|improving]] [[b/_beauty|beauty]], particularly the [[b/_beauty|beauty]] of the [[c/_complexion|complexion]].**
 	- _Example: a cosmetic preparation_
-- **External or superficial; pertaining only to the surface or [[a/_appearance|appearance]] of something.**
+- **[[e/_external|External]] or superficial; pertaining [[o/_only|only]] to the surface or [[a/_appearance|appearance]] of something.**
 	- _Example: Fortunately, the damage to the house was mostly cosmetic and a bit of paint covered it nicely._
 ---
 ---

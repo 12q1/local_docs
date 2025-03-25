@@ -1,7 +1,7 @@
 # Entomology
 ---
 #noun
-- **The scientific study of insects, and (informally) of other [[a/_arthropods|arthropods]] (and occasionally other invertebrates).**
+- **The scientific study of [[i/_insects|insects]], and ([[i/_informally|informally]]) of [[o/_other|other]] [[a/_arthropods|arthropods]] (and [[o/_occasionally|occasionally]] [[o/_other|other]] [[i/_invertebrates|invertebrates]]).**
 	- _Example: Entomology is an important field of study within biology._
 ---
 ### Synonyms

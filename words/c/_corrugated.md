@@ -2,10 +2,10 @@
 ---
 #verb
 - **(of the skin) To wrinkle.**
-- **To fold into parallel folds, grooves or ridges.**
+- **To [[f/_fold|fold]] [[i/_into|into]] parallel [[f/_folds|folds]], [[g/_grooves|grooves]] or ridges.**
 ---
 #adjective
-- **Marked with parallel folds, ridges or furrows.**
-- **[[b/_bent|Bent]] into regular [[c/_curved|curved]] folds or grooves.**
+- **[[m/_marked|Marked]] with parallel [[f/_folds|folds]], ridges or [[f/_furrows|furrows]].**
+- **[[b/_bent|Bent]] [[i/_into|into]] regular [[c/_curved|curved]] [[f/_folds|folds]] or [[g/_grooves|grooves]].**
 ---
 ---

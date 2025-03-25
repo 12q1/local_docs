@@ -1,0 +1,15 @@
+# Germ
+---
+#noun
+- **The small [[m/_mass|mass]] of [[c/_cells|cells]] from which a [[n/_new|new]] [[o/_organism|organism]] [[d/_develops|develops]]; a seed, [[b/_bud|bud]] or spore.**
+- **A pathogenic [[m/_microorganism|microorganism]].**
+- **The [[e/_embryo|embryo]] of a seed, [[e/_especially|especially]] of a seed used as a [[c/_cereal|cereal]] or [[g/_grain|grain]]. See Wikipedia [[a/_article|article]] on [[c/_cereal|cereal]] [[g/_germ|germ]].**
+- **The [[o/_origin|origin]] of an [[i/_idea|idea]] or project.**
+	- _Example: the germ of civil liberty_
+- **An [[e/_equivalence|equivalence]] [[c/_class|class]] that [[i/_includes|includes]] a specified [[f/_function|function]] [[d/_defined|defined]] in an [[o/_open|open]] [[n/_neighborhood|neighborhood]].**
+---
+#verb
+- **To [[g/_germinate|germinate]].**
+- **To [[g/_grow|grow]], as [[i/_if|if]] parasitic.**
+---
+---

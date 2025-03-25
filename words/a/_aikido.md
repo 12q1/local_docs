@@ -1,7 +1,7 @@
 # Aikido
 ---
 #noun
-- **A Japanese martial [[a/_art|art]] [[d/_developed|developed]] from jujitsu and making use of holds and throws.**
-- **A school of the martial [[a/_art|art]].**
+- **A [[j/_japanese|Japanese]] [[m/_martial|martial]] [[a/_art|art]] [[d/_developed|developed]] from [[j/_jujitsu|jujitsu]] and [[m/_making|making]] use of [[h/_holds|holds]] and throws.**
+- **A school of the [[m/_martial|martial]] [[a/_art|art]].**
 ---
 ---

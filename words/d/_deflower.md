@@ -1,9 +1,9 @@
 # Deflower
 ---
 #verb
-- **To take the virginity of (somebody), [[e/_especially|especially]] a woman or girl.**
-- **To [[d/_deprive|deprive]] of flowers.**
-- **To [[d/_deprive|deprive]] of grace and [[b/_beauty|beauty]].**
+- **To take the virginity of (somebody), [[e/_especially|especially]] a woman or [[g/_girl|girl]].**
+- **To [[d/_deprive|deprive]] of [[f/_flowers|flowers]].**
+- **To [[d/_deprive|deprive]] of [[g/_grace|grace]] and [[b/_beauty|beauty]].**
 ---
 ### Synonyms
 - [[d/_deflorate|deflorate]]

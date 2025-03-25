@@ -1,15 +1,15 @@
 # Counterbalance
 ---
 #noun
-- **A weight that is put in opposition to an [[e/_equal|equal]] weight so it keeps that in [[b/_balance|balance]].**
-- **A force or influence that [[b/_balances|balances]], [[c/_checks|checks]] or limits an opposite one.**
+- **A weight that is put in [[o/_opposition|opposition]] to an [[e/_equal|equal]] weight so it [[k/_keeps|keeps]] that in [[b/_balance|balance]].**
+- **A [[f/_force|force]] or [[i/_influence|influence]] that [[b/_balances|balances]], [[c/_checks|checks]] or [[l/_limits|limits]] an [[o/_opposite|opposite]] [[o/_one|one]].**
 ---
 ### Synonyms
 - [[c/_counterpoise|counterpoise]], [[c/_counterweight|counterweight]]
 #verb
-- **To [[a/_apply|apply]] weight in order to [[b/_balance|balance]] an opposing weight.**
+- **To [[a/_apply|apply]] weight in [[o/_order|order]] to [[b/_balance|balance]] an [[o/_opposing|opposing]] weight.**
 	- _Example: Big brother counterbalances his two siblings to the pound._
-- **To match or [[e/_equal|equal]] in [[e/_effect|effect]] when [[a/_applying|applying]] opposing force**
+- **To [[m/_match|match]] or [[e/_equal|equal]] in [[e/_effect|effect]] when [[a/_applying|applying]] [[o/_opposing|opposing]] [[f/_force|force]]**
 	- _Example: Arm wrestling is undecided as long as the opponents counterbalance each-other_
 ---
 ### Synonyms

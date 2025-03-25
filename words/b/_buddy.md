@@ -1,11 +1,11 @@
 # Buddy
 ---
 #noun
-- **A friend or [[c/_casual|casual]] [[a/_acquaintance|acquaintance]].**
+- **A [[f/_friend|friend]] or [[c/_casual|casual]] [[a/_acquaintance|acquaintance]].**
 	- _Example: They have been buddies since they were in school._
 - **A partner for a particular [[a/_activity|activity]].**
 	- _Example: drinking buddies_
-- **An informal and friendly [[a/_address|address]] to a stranger; a friendly (or occasionally [[a/_antagonistic|antagonistic]]) placeholder name for a person one [[d/_does|does]] not know.**
+- **An [[i/_informal|informal]] and [[f/_friendly|friendly]] [[a/_address|address]] to a stranger; a [[f/_friendly|friendly]] (or [[o/_occasionally|occasionally]] [[a/_antagonistic|antagonistic]]) placeholder [[n/_name|name]] for a person [[o/_one|one]] [[d/_does|does]] not [[k/_know|know]].**
 	- _Example: Hey, buddy, I think you dropped this._
 ---
 ### Synonyms

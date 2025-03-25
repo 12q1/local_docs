@@ -1,7 +1,7 @@
 # Concertmaster
 ---
 #noun
-- **The first violin in a symphony orchestra; normally plays violin solos**
+- **The [[f/_first|first]] violin in a symphony [[o/_orchestra|orchestra]]; [[n/_normally|normally]] plays violin solos**
 ---
 ### Synonyms
 - [[l/_leader|leader]]

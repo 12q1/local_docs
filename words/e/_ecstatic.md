@@ -5,9 +5,9 @@
 - **A person in a state of [[e/_ecstasy|ecstasy]].**
 ---
 #adjective
-- **Feeling or [[c/_characterized|characterized]] by [[e/_ecstasy|ecstasy]].**
-- **Extremely happy.**
-- **Relating to, or [[c/_caused|caused]] by, [[e/_ecstasy|ecstasy]] or excessive [[e/_emotion|emotion]].**
+- **[[f/_feeling|Feeling]] or [[c/_characterized|characterized]] by [[e/_ecstasy|ecstasy]].**
+- **[[e/_extremely|Extremely]] [[h/_happy|happy]].**
+- **Relating to, or [[c/_caused|caused]] by, [[e/_ecstasy|ecstasy]] or [[e/_excessive|excessive]] [[e/_emotion|emotion]].**
 	- _Example: ecstatic gaze; ecstatic trance_
 ---
 ### Synonyms

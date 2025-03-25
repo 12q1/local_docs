@@ -1,6 +1,6 @@
 # Disinvestment
 ---
 #noun
-- **The process of disinvesting; negative investment.**
+- **The process of disinvesting; [[n/_negative|negative]] [[i/_investment|investment]].**
 ---
 ---

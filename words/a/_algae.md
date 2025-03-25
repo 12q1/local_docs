@@ -1,10 +1,10 @@
 # Algae
 ---
 #noun
-- **[[a/_any|Any]] of many [[a/_aquatic|aquatic]] photosynthetic organisms, including the seaweeds, whose size ranges from a single [[c/_cell|cell]] to giant kelps and whose [[b/_biochemistry|biochemistry]] and forms are very [[d/_diverse|diverse]], some [[b/_being|being]] eukaryotic.**
+- **[[a/_any|Any]] of [[m/_many|many]] [[a/_aquatic|aquatic]] photosynthetic [[o/_organisms|organisms]], [[i/_including|including]] the seaweeds, whose size ranges from a single [[c/_cell|cell]] to [[g/_giant|giant]] [[k/_kelps|kelps]] and whose [[b/_biochemistry|biochemistry]] and [[f/_forms|forms]] are very [[d/_diverse|diverse]], some [[b/_being|being]] eukaryotic.**
 ---
 #noun
-- **[[a/_algal|Algal]] organisms viewed [[c/_collectively|collectively]] or as a mass; [[a/_algal|algal]] growth.**
-- **A particular kind of [[a/_algae|algae]].**
+- **[[a/_algal|Algal]] [[o/_organisms|organisms]] viewed [[c/_collectively|collectively]] or as a [[m/_mass|mass]]; [[a/_algal|algal]] [[g/_growth|growth]].**
+- **A particular [[k/_kind|kind]] of [[a/_algae|algae]].**
 ---
 ---

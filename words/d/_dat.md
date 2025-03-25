@@ -1,42 +1,42 @@
 # Dat
 ---
 #adverb
-- **([[d/_degree|degree]]) To a given extent or [[d/_degree|degree]].**
+- **([[d/_degree|degree]]) To a [[g/_given|given]] [[e/_extent|extent]] or [[d/_degree|degree]].**
 	- _Example: "The ribbon was that thin." "I disagree, I say it was not that thin, it was thicker... or maybe thinner..."_
-- **([[d/_degree|degree]]) To a great extent or [[d/_degree|degree]]; very, particularly (in negative [[c/_constructions|constructions]]).**
+- **([[d/_degree|degree]]) To a [[g/_great|great]] [[e/_extent|extent]] or [[d/_degree|degree]]; very, particularly (in [[n/_negative|negative]] [[c/_constructions|constructions]]).**
 	- _Example: I did the run last year, and it wasn't that difficult._
-- **To such an extent; so. (in positive [[c/_constructions|constructions]]).**
+- **To such an [[e/_extent|extent]]; so. (in positive [[c/_constructions|constructions]]).**
 	- _Example: Ooh, I was that happy I nearly kissed her._
 ---
 ### Synonyms
 - [[s/_so|so]]
 #pronoun
-- **([[d/_demonstrative|demonstrative]]) The thing, person, idea, quality, event, [[a/_action|action]] or time indicated or understood from [[c/_context|context]], [[e/_especially|especially]] if more remote geographically, temporally or mentally than one [[d/_designated|designated]] as "this", or if expressing [[d/_distinction|distinction]].**
+- **([[d/_demonstrative|demonstrative]]) The thing, person, [[i/_idea|idea]], quality, [[e/_event|event]], [[a/_action|action]] or time [[i/_indicated|indicated]] or understood from [[c/_context|context]], [[e/_especially|especially]] [[i/_if|if]] [[m/_more|more]] remote [[g/_geographically|geographically]], temporally or [[m/_mentally|mentally]] than [[o/_one|one]] [[d/_designated|designated]] as "this", or [[i/_if|if]] [[e/_expressing|expressing]] [[d/_distinction|distinction]].**
 	- _Example: He went home, and after that I never saw him again._
-- **The known (thing); used to refer to something just said.**
+- **The [[k/_known|known]] (thing); used to refer to something [[j/_just|just]] said.**
 	- _Example: They're getting divorced. What do you think about that?_
 - **([[d/_demonstrative|demonstrative]]) The [[a/_aforementioned|aforementioned]] quality or proposition; used to [[e/_emphatically|emphatically]] [[a/_affirm|affirm]] or [[d/_deny|deny]] a previous statement or question.**
 	- _Example: The water is so cold! — That it is._
-- **(relative) (plural that) Which, who; representing a subject, [[d/_direct|direct]] object, indirect object, or object of a preposition.**
+- **(relative) (plural that) Which, who; representing a subject, [[d/_direct|direct]] [[o/_object|object]], [[i/_indirect|indirect]] [[o/_object|object]], or [[o/_object|object]] of a preposition.**
 	- _Example: The CPR course that she took really came in handy._
-- **Used in place of relative [[a/_adverbs|adverbs]] such as where or when; often omitted.**
+- **Used in place of relative [[a/_adverbs|adverbs]] such as where or when; [[o/_often|often]] [[o/_omitted|omitted]].**
 	- _Example: the last time that [= when] I went to Europe_
 ---
 ### Antonyms
 - [[h/_here|here]], [[t/_there|there]], [[t/_this|this]], [[y/_yon|yon]], [[y/_yonder|yonder]]
 #conjunction
-- **Introducing a [[c/_clause|clause]] which is the subject or object of a verb (such as one involving reported speech), or which is a [[c/_complement|complement]] to a previous statement.**
+- **[[i/_introducing|Introducing]] a [[c/_clause|clause]] which is the subject or [[o/_object|object]] of a verb (such as [[o/_one|one]] [[i/_involving|involving]] reported speech), or which is a [[c/_complement|complement]] to a previous statement.**
 	- _Example: He told me that the book is a good read._
-- **Introducing a subordinate [[c/_clause|clause]] expressing a reason or [[c/_cause|cause]]: [[b/_because|because]], in that.**
+- **[[i/_introducing|Introducing]] a subordinate [[c/_clause|clause]] [[e/_expressing|expressing]] a reason or [[c/_cause|cause]]: [[b/_because|because]], in that.**
 	- _Example: Be glad that you have enough to eat._
-- **Introducing a subordinate [[c/_clause|clause]] that expresses an [[a/_aim|aim]], purpose or goal ("final"), and usually [[c/_contains|contains]] the [[a/_auxiliaries|auxiliaries]] may, might or should: so, so that.**
-- **Introducing — [[e/_especially|especially]], but not exclusively, with an [[a/_antecedent|antecedent]] like so or such — a subordinate [[c/_clause|clause]] expressing a result, [[c/_consequence|consequence]] or [[e/_effect|effect]].**
+- **[[i/_introducing|Introducing]] a subordinate [[c/_clause|clause]] that [[e/_expresses|expresses]] an [[a/_aim|aim]], purpose or [[g/_goal|goal]] ("[[f/_final|final]]"), and usually [[c/_contains|contains]] the [[a/_auxiliaries|auxiliaries]] [[m/_may|may]], [[m/_might|might]] or should: so, so that.**
+- **[[i/_introducing|Introducing]] — [[e/_especially|especially]], but not [[e/_exclusively|exclusively]], with an [[a/_antecedent|antecedent]] [[l/_like|like]] so or such — a subordinate [[c/_clause|clause]] [[e/_expressing|expressing]] a result, [[c/_consequence|consequence]] or [[e/_effect|effect]].**
 	- _Example: The noise was so loud that she woke up._
-- **Introducing a premise or supposition for [[c/_consideration|consideration]]: seeing as; inasmuch as; given that; as would [[a/_appear|appear]] from the fact that.**
-- **Introducing a subordinate [[c/_clause|clause]] modifying an [[a/_adverb|adverb]].**
+- **[[i/_introducing|Introducing]] a premise or supposition for [[c/_consideration|consideration]]: seeing as; [[i/_inasmuch|inasmuch]] as; [[g/_given|given]] that; as would [[a/_appear|appear]] from the [[f/_fact|fact]] that.**
+- **[[i/_introducing|Introducing]] a subordinate [[c/_clause|clause]] [[m/_modifying|modifying]] an [[a/_adverb|adverb]].**
 	- _Example: How often did she visit him? — Twice that I saw._
-- **Introducing an exclamation expressing a [[d/_desire|desire]] or wish.**
+- **[[i/_introducing|Introducing]] an [[e/_exclamation|exclamation]] [[e/_expressing|expressing]] a [[d/_desire|desire]] or wish.**
 	- _Example: Oh that spring would come!_
-- **Introducing an exclamation expressing a strong [[e/_emotion|emotion]] such as sadness or surprise.**
+- **[[i/_introducing|Introducing]] an [[e/_exclamation|exclamation]] [[e/_expressing|expressing]] a strong [[e/_emotion|emotion]] such as sadness or surprise.**
 ---
 ---

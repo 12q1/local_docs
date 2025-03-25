@@ -1,9 +1,9 @@
 # Eeriest
 ---
 #adjective
-- **Strange, weird, fear-inspiring.**
+- **Strange, weird, [[f/_fear|fear]]-[[i/_inspiring|inspiring]].**
 	- _Example: The eerie sounds seemed to come from the graveyard after midnight._
-- **Frightened, timid.**
+- **[[f/_frightened|Frightened]], timid.**
 ---
 ### Synonyms
 - [[c/_creepy|creepy]], [[s/_spooky|spooky]]

@@ -2,10 +2,10 @@
 ---
 #noun
 - **A thumping or [[b/_beating|beating]].**
-- **A [[b/_bash|bash]] on say the head, typically with a tool or object rather than with fists.**
+- **A [[b/_bash|bash]] on say the [[h/_head|head]], typically with a tool or [[o/_object|object]] rather than with [[f/_fists|fists]].**
 ---
 #verb
-- **To hit or [[b/_bash|bash]] severely; to seriously harm or [[d/_damage|damage]].**
-- **To overwrite ([[d/_data|data]]) or override (an [[a/_assignment|assignment]] of a value), often unintentionally or unexpectedly.**
+- **To [[h/_hit|hit]] or [[b/_bash|bash]] severely; to seriously [[h/_harm|harm]] or [[d/_damage|damage]].**
+- **To [[o/_overwrite|overwrite]] ([[d/_data|data]]) or [[o/_override|override]] (an [[a/_assignment|assignment]] of a value), [[o/_often|often]] unintentionally or unexpectedly.**
 ---
 ---

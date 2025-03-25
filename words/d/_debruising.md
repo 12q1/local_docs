@@ -1,6 +1,6 @@
 # Debruising
 ---
 #verb
-- **To partially obscure one [[c/_charge|charge]] with [[a/_another|another]]**
+- **To partially [[o/_obscure|obscure]] [[o/_one|one]] [[c/_charge|charge]] with [[a/_another|another]]**
 ---
 ---

@@ -4,7 +4,7 @@
 - **A [[c/_ctenoidean|ctenoidean]].**
 ---
 #adjective
-- **Having a toothed margin, usually fish scales**
-- **[[c/_comb|Comb]]-like in shape.**
+- **[[h/_having|Having]] a toothed [[m/_margin|margin]], usually [[f/_fish|fish]] scales**
+- **[[c/_comb|Comb]]-[[l/_like|like]] in shape.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Crosshatches
 ---
 #noun
-- **A pattern of [[c/_crossing|crossing]] lines.**
+- **A pattern of [[c/_crossing|crossing]] [[l/_lines|lines]].**
 ---
 #verb
-- **To mark or fill with a [[c/_crosshatch|crosshatch]] pattern.**
+- **To [[m/_mark|mark]] or [[f/_fill|fill]] with a [[c/_crosshatch|crosshatch]] pattern.**
 ---
 ---

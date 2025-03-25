@@ -1,12 +1,12 @@
 # Ersatz
 ---
 #noun
-- **Something made in imitation; an [[e/_effigy|effigy]] or substitute**
+- **Something [[m/_made|made]] in [[i/_imitation|imitation]]; an [[e/_effigy|effigy]] or substitute**
 ---
 ### Synonyms
 - [[i/_imitation|imitation]]
 #adjective
-- **Made in imitation; [[a/_artificial|artificial]], [[e/_especially|especially]] of a poor quality**
+- **[[m/_made|Made]] in [[i/_imitation|imitation]]; [[a/_artificial|artificial]], [[e/_especially|especially]] of a poor quality**
 	- _Example: Back then, we could only get ersatz coffee._
 ---
 ### Synonyms

@@ -1,0 +1,11 @@
+# Flensing
+---
+#verb
+- **To strip the [[b/_blubber|blubber]] or skin from, as from a whale, seal, [[e/_etc|etc]].**
+---
+### Synonyms
+- [[f/_flay|flay]], [[f/_fleece|fleece]], [[s/_skin|skin]]
+#noun
+- **The [[a/_act|act]] of [[o/_one|one]] who [[f/_flenses|flenses]]; the [[o/_operation|operation]] of stripping [[o/_off|off]] [[b/_blubber|blubber]].**
+---
+---

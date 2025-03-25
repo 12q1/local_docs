@@ -1,8 +1,8 @@
 # Coppersmith
 ---
 #noun
-- **A person who forges things out of [[c/_copper|copper]].**
-- **A South [[a/_asian|Asian]] [[b/_barbet|barbet]], Psilopogon haemacephala, with [[c/_crimson|crimson]] forehead and throat, [[b/_best|best]] known for its metronomic [[c/_call|call]] that has [[b/_been|been]] likened to a [[c/_coppersmith|coppersmith]] striking metal with a hammer.**
+- **A person who [[f/_forges|forges]] things [[o/_out|out]] of [[c/_copper|copper]].**
+- **A South [[a/_asian|Asian]] [[b/_barbet|barbet]], Psilopogon haemacephala, with [[c/_crimson|crimson]] [[f/_forehead|forehead]] and throat, [[b/_best|best]] [[k/_known|known]] for [[i/_its|its]] [[m/_metronomic|metronomic]] [[c/_call|call]] that [[h/_has|has]] [[b/_been|been]] [[l/_likened|likened]] to a [[c/_coppersmith|coppersmith]] striking [[m/_metal|metal]] with a [[h/_hammer|hammer]].**
 ---
 ### Synonyms
 - [[r/_redsmith|redsmith]]

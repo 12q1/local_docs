@@ -4,7 +4,7 @@
 - **A [[b/_bicyclic|bicyclic]] [[c/_compound|compound]].**
 ---
 #adjective
-- **Having two [[c/_cycles|cycles]].**
-- **Having two rings of [[a/_atoms|atoms]] in the molecule; the rings may be fused, as in naphthalene, or separate, as in [[b/_biphenyl|biphenyl]].**
+- **[[h/_having|Having]] two [[c/_cycles|cycles]].**
+- **[[h/_having|Having]] two rings of [[a/_atoms|atoms]] in the [[m/_molecule|molecule]]; the rings [[m/_may|may]] be [[f/_fused|fused]], as in [[n/_naphthalene|naphthalene]], or separate, as in [[b/_biphenyl|biphenyl]].**
 ---
 ---

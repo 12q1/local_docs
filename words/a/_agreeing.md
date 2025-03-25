@@ -1,17 +1,17 @@
 # Agreeing
 ---
 #verb
-- **To harmonize in opinion, statement, or [[a/_action|action]]; to be in unison or [[c/_concord|concord]]; to be or [[b/_become|become]] united or [[c/_consistent|consistent]]; to [[c/_concur|concur]].**
+- **To [[h/_harmonize|harmonize]] in [[o/_opinion|opinion]], statement, or [[a/_action|action]]; to be in unison or [[c/_concord|concord]]; to be or [[b/_become|become]] united or [[c/_consistent|consistent]]; to [[c/_concur|concur]].**
 	- _Example: all parties agree in the expediency of the law._
-- **To yield [[a/_assent|assent]]; to [[a/_accede|accede]];—followed by to.**
+- **To [[y/_yield|yield]] [[a/_assent|assent]]; to [[a/_accede|accede]];—[[f/_followed|followed]] by to.**
 	- _Example: to agree to an offer, or to opinion._
-- **To yield [[a/_assent|assent]] to; to [[a/_approve|approve]].**
-- **To make a stipulation by way of settling [[d/_differences|differences]] or [[d/_determining|determining]] a price; to exchange promises; to [[c/_come|come]] to terms or to a [[c/_common|common]] resolve; to promise.**
+- **To [[y/_yield|yield]] [[a/_assent|assent]] to; to [[a/_approve|approve]].**
+- **To [[m/_make|make]] a stipulation by way of settling [[d/_differences|differences]] or [[d/_determining|determining]] a price; to [[e/_exchange|exchange]] promises; to [[c/_come|come]] to terms or to a [[c/_common|common]] resolve; to promise.**
 - **To be [[c/_conformable|conformable]]; to resemble; to [[c/_coincide|coincide]]; to [[c/_correspond|correspond]].**
 	- _Example: the picture does not agree with the original; the two scales agree exactly._
-- **(now [[a/_always|always]] with with) To suit or be [[a/_adapted|adapted]] in its [[e/_effects|effects]]; to [[d/_do|do]] well.**
+- **([[n/_now|now]] [[a/_always|always]] with with) To suit or be [[a/_adapted|adapted]] in [[i/_its|its]] [[e/_effects|effects]]; to [[d/_do|do]] well.**
 	- _Example: the same food does not agree with every constitution._
-- **(grammar) To [[c/_correspond|correspond]] to ([[a/_another|another]] word) in a grammatical [[c/_category|category]], such as gender, number, [[c/_case|case]], or person.**
+- **([[g/_grammar|grammar]]) To [[c/_correspond|correspond]] to ([[a/_another|another]] word) in a [[g/_grammatical|grammatical]] [[c/_category|category]], such as [[g/_gender|gender]], [[n/_number|number]], [[c/_case|case]], or person.**
 	- _Example: In Romanian, the articles, adjectives, pronouns agree in gender, number and case with the noun they refer to._
 - **To [[c/_consent|consent]] to a [[c/_contract|contract]] or to an [[e/_element|element]] of a [[c/_contract|contract]].**
 ---

@@ -1,10 +1,10 @@
 # Asymptote
 ---
 #noun
-- **A straight line which a [[c/_curve|curve]] [[a/_approaches|approaches]] [[a/_arbitrarily|arbitrarily]] [[c/_closely|closely]], as they go to infinity. The limit of the [[c/_curve|curve]], its tangent "at infinity".**
-- **(by extension) [[a/_anything|Anything]] which [[c/_comes|comes]] near to but never meets something [[e/_else|else]].**
+- **A straight [[l/_line|line]] which a [[c/_curve|curve]] [[a/_approaches|approaches]] [[a/_arbitrarily|arbitrarily]] [[c/_closely|closely]], as they [[g/_go|go]] to [[i/_infinity|infinity]]. The [[l/_limit|limit]] of the [[c/_curve|curve]], [[i/_its|its]] tangent "at [[i/_infinity|infinity]]".**
+- **(by [[e/_extension|extension]]) [[a/_anything|Anything]] which [[c/_comes|comes]] [[n/_near|near]] to but [[n/_never|never]] [[m/_meets|meets]] something [[e/_else|else]].**
 ---
 #verb
-- **To [[a/_approach|approach]], but never quite touch, a straight line, as something goes to infinity.**
+- **To [[a/_approach|approach]], but [[n/_never|never]] quite touch, a straight [[l/_line|line]], as something [[g/_goes|goes]] to [[i/_infinity|infinity]].**
 ---
 ---

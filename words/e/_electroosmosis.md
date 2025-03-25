@@ -1,6 +1,6 @@
 # Electroosmosis
 ---
 #noun
-- **The migration of ions in a solvent through the [[c/_capillaries|capillaries]] of a membrane under the influence of an [[a/_applied|applied]] [[e/_electric|electric]] field**
+- **The [[m/_migration|migration]] of [[i/_ions|ions]] in a solvent through the [[c/_capillaries|capillaries]] of a [[m/_membrane|membrane]] under the [[i/_influence|influence]] of an [[a/_applied|applied]] [[e/_electric|electric]] [[f/_field|field]]**
 ---
 ---

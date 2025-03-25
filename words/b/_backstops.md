@@ -1,13 +1,13 @@
 # Backstops
 ---
 #noun
-- **A thing or a person put in the rear or in the [[b/_back|back]] of something to reinforce, hold, support.**
-- **A [[d/_default|default]] [[a/_arrangement|arrangement]] that holds if [[a/_all|all]] [[e/_else|else]] fails.**
-- **A wall or fence [[b/_behind|behind]] home plate.**
+- **A thing or a person put in the rear or in the [[b/_back|back]] of something to reinforce, [[h/_hold|hold]], support.**
+- **A [[d/_default|default]] [[a/_arrangement|arrangement]] that [[h/_holds|holds]] [[i/_if|if]] [[a/_all|all]] [[e/_else|else]] [[f/_fails|fails]].**
+- **A wall or [[f/_fence|fence]] [[b/_behind|behind]] [[h/_home|home]] plate.**
 - **A [[c/_catcher|catcher]]; the position of [[c/_catcher|catcher]].**
-- **(rounders) The player who stands immediately [[b/_behind|behind]] the striking [[b/_base|base]].**
+- **(rounders) The player who stands [[i/_immediately|immediately]] [[b/_behind|behind]] the striking [[b/_base|base]].**
 - **The longstop.**
-- **The wicket-keeper.**
+- **The wicket-[[k/_keeper|keeper]].**
 - **Something serving to [[b/_bolster|bolster]] or support a [[c/_cover|cover]] story [[e/_etc|etc]].**
 ---
 #verb

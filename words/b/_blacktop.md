@@ -1,7 +1,7 @@
 # Blacktop
 ---
 #noun
-- **[[a/_asphalt|Asphalt]] [[c/_concrete|concrete]] or similar [[b/_bituminous|bituminous]] [[b/_black|black]] paving material used for the surface of roads ([[e/_e|e]].g., tarmacadam, tarmac).**
+- **[[a/_asphalt|Asphalt]] [[c/_concrete|concrete]] or similar [[b/_bituminous|bituminous]] [[b/_black|black]] paving [[m/_material|material]] used for the surface of roads ([[e/_e|e]].[[g/_g|g]]., tarmacadam, tarmac).**
 - **A road so paved.**
 ---
 #verb

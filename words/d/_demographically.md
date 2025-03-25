@@ -1,6 +1,6 @@
 # Demographically
 ---
 #adverb
-- **In a [[d/_demographic|demographic]] manner.**
+- **In a [[d/_demographic|demographic]] [[m/_manner|manner]].**
 ---
 ---

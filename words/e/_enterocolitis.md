@@ -1,6 +1,6 @@
 # Enterocolitis
 ---
 #noun
-- **Inflammation of the mucous membranes of the small intestine and of the [[c/_colon|colon]]**
+- **[[i/_inflammation|Inflammation]] of the [[m/_mucous|mucous]] [[m/_membranes|membranes]] of the small [[i/_intestine|intestine]] and of the [[c/_colon|colon]]**
 ---
 ---

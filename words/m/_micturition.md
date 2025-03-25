@@ -1,0 +1,6 @@
+# Micturition
+---
+#noun
+- **Urination**
+---
+---

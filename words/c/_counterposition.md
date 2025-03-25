@@ -1,7 +1,7 @@
 # Counterposition
 ---
 #noun
-- **An opposite or opposing position**
+- **An [[o/_opposite|opposite]] or [[o/_opposing|opposing]] position**
 ---
 ### Synonyms
 - [[c/_contraposition|contraposition]]

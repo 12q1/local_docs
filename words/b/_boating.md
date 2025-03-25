@@ -8,7 +8,7 @@
 	- _Example: to boat oars_
 ---
 #noun
-- **The [[a/_activity|activity]] of going out onto a [[b/_body|body]] of water in a [[b/_boat|boat]].**
-- **In Persia, a punishment of [[c/_capital|capital]] offenders, by laying them on the [[b/_back|back]] in a [[c/_covered|covered]] [[b/_boat|boat]], where they are left to perish.**
+- **The [[a/_activity|activity]] of [[g/_going|going]] [[o/_out|out]] [[o/_onto|onto]] a [[b/_body|body]] of water in a [[b/_boat|boat]].**
+- **In Persia, a punishment of [[c/_capital|capital]] [[o/_offenders|offenders]], by [[l/_laying|laying]] them on the [[b/_back|back]] in a [[c/_covered|covered]] [[b/_boat|boat]], where they are [[l/_left|left]] to perish.**
 ---
 ---

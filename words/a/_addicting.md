@@ -1,12 +1,12 @@
 # Addicting
 ---
 #verb
-- **To [[d/_deliver|deliver]] (someone or something) following a judicial [[d/_decision|decision]].**
-- **To [[d/_devote|devote]] (oneself) to a given [[a/_activity|activity]], occupation, thing [[e/_etc|etc]].**
+- **To [[d/_deliver|deliver]] (someone or something) [[f/_following|following]] a [[j/_judicial|judicial]] [[d/_decision|decision]].**
+- **To [[d/_devote|devote]] ([[o/_oneself|oneself]]) to a [[g/_given|given]] [[a/_activity|activity]], [[o/_occupation|occupation]], thing [[e/_etc|etc]].**
 - **To [[b/_bind|bind]] (a person or thing) to the service of something.**
-- **To [[d/_devote|devote]] or pledge (oneself) to a given person, [[c/_cause|cause]] [[e/_etc|etc]].**
-- **To [[d/_devote|devote]] (one's mind, talent [[e/_etc|etc]].) to a given [[a/_activity|activity]], occupation, thing [[e/_etc|etc]].**
-- **To make (someone) [[b/_become|become]] [[d/_devoted|devoted]] to a given thing or [[a/_activity|activity]]; to [[c/_cause|cause]] to be [[a/_addicted|addicted]].**
+- **To [[d/_devote|devote]] or pledge ([[o/_oneself|oneself]]) to a [[g/_given|given]] person, [[c/_cause|cause]] [[e/_etc|etc]].**
+- **To [[d/_devote|devote]] ([[o/_one|one]]'s [[m/_mind|mind]], talent [[e/_etc|etc]].) to a [[g/_given|given]] [[a/_activity|activity]], [[o/_occupation|occupation]], thing [[e/_etc|etc]].**
+- **To [[m/_make|make]] (someone) [[b/_become|become]] [[d/_devoted|devoted]] to a [[g/_given|given]] thing or [[a/_activity|activity]]; to [[c/_cause|cause]] to be [[a/_addicted|addicted]].**
 ---
 ### Synonyms
 - [[a/_adapt|adapt]], [[f/_fit|fit]], [[h/_hooked|hooked]], [[c/_consecrate|consecrate]], [[d/_dedicate|dedicate]], [[d/_devote|devote]]

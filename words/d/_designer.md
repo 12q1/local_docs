@@ -7,7 +7,7 @@
 	- _Example: a font designer_
 ---
 #adjective
-- **[[c/_created|Created]] by a [[d/_designer|designer]], [[e/_especially|especially]] a fashion [[d/_designer|designer]].**
+- **[[c/_created|Created]] by a [[d/_designer|designer]], [[e/_especially|especially]] a [[f/_fashion|fashion]] [[d/_designer|designer]].**
 	- _Example: a designer briefcase_
 ---
 ---

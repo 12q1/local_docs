@@ -1,11 +1,11 @@
 # Best
 ---
 #noun
-- **The supreme [[e/_effort|effort]] one [[c/_can|can]] make, or has made.**
+- **The supreme [[e/_effort|effort]] [[o/_one|one]] [[c/_can|can]] [[m/_make|make]], or [[h/_has|has]] [[m/_made|made]].**
 	- _Example: I did my best._
-- **One's [[b/_best|best]] [[b/_behavior|behavior]].**
+- **[[o/_one|One]]'s [[b/_best|best]] [[b/_behavior|behavior]].**
 	- _Example: I was somewhat distant lately, and my lady promised me head every Tuesday of the week when I'm nice to her, so I better be on my best._
-- **The person (or persons; or thing or things) that is (are) most excellent.**
+- **The person (or persons; or thing or things) that is (are) [[m/_most|most]] [[e/_excellent|excellent]].**
 ---
 #verb
 - **To surpass in skill or [[a/_achievement|achievement]].**
@@ -14,9 +14,9 @@
 ### Antonyms
 - [[w/_worst|worst]]
 #adjective
-- **Most; largest.**
+- **[[m/_most|Most]]; [[l/_largest|largest]].**
 	- _Example: Unpacking took the best part of a week._
-- **Most superior; most favorable.**
+- **[[m/_most|Most]] superior; [[m/_most|most]] [[f/_favorable|favorable]].**
 	- _Example: In my opinion, mushrooms are the best pizza toppings._
 ---
 ### Antonyms
@@ -25,9 +25,9 @@
 - **(of people)**
 - **(of [[c/_capabilities|capabilities]])**
 - **(properties and qualities)**
-- **(when with and) Very, extremely. See good and.**
+- **(when with and) Very, [[e/_extremely|extremely]]. See [[g/_good|good]] and.**
 	- _Example: The soup is good and hot._
-- **Holy ([[e/_especially|especially]] when [[c/_capitalized|capitalized]]) .**
+- **[[h/_holy|Holy]] ([[e/_especially|especially]] when [[c/_capitalized|capitalized]]) .**
 	- _Example: Good Friday_
 - **(of quantities)**
 ---
@@ -36,13 +36,13 @@
 ### Antonyms
 - [[b/_bad|bad]], [[e/_evil|evil]], [[b/_bad|bad]], [[p/_poor|poor]]
 #adverb
-- **(manner) [[a/_accurately|Accurately]], [[c/_competently|competently]], satisfactorily.**
+- **([[m/_manner|manner]]) [[a/_accurately|Accurately]], [[c/_competently|competently]], satisfactorily.**
 	- _Example: He does his job well._
-- **(manner) [[c/_completely|Completely]], fully.**
+- **([[m/_manner|manner]]) [[c/_completely|Completely]], [[f/_fully|fully]].**
 	- _Example: We’re well beat now._
 - **([[d/_degree|degree]]) To a significant [[d/_degree|degree]].**
 	- _Example: That author is well known._
-- **([[d/_degree|degree]]) Very (as a general-purpose intensifier).**
-- **In a [[d/_desirable|desirable]] manner; so as one [[c/_could|could]] wish; satisfactorily; favourably; [[a/_advantageously|advantageously]].**
+- **([[d/_degree|degree]]) Very (as a [[g/_general|general]]-purpose [[i/_intensifier|intensifier]]).**
+- **In a [[d/_desirable|desirable]] [[m/_manner|manner]]; so as [[o/_one|one]] [[c/_could|could]] wish; satisfactorily; [[f/_favourably|favourably]]; [[a/_advantageously|advantageously]].**
 ---
 ---

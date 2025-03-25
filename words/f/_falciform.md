@@ -1,0 +1,6 @@
+# Falciform
+---
+#adjective
+- **Sickle-shaped.**
+---
+---

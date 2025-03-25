@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Of, or relating to a [[c/_cherub|cherub]]; [[a/_angelic|angelic]].**
-- **Of, or like a [[b/_baby|baby]]; infantile**
+- **Of, or [[l/_like|like]] a [[b/_baby|baby]]; [[i/_infantile|infantile]]**
 ---
 ### Synonyms
 - [[c/_cherubical|cherubical]], [[c/_cherublike|cherublike]]

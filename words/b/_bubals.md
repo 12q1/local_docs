@@ -1,6 +1,6 @@
 # Bubals
 ---
 #noun
-- **An extinct subspecies of the hartebeest, [[a/_alcelaphus|Alcelaphus]] buselaphus buselaphus, which was formerly native to northern [[a/_africa|Africa]].**
+- **An [[e/_extinct|extinct]] subspecies of the [[h/_hartebeest|hartebeest]], [[a/_alcelaphus|Alcelaphus]] buselaphus buselaphus, which was [[f/_formerly|formerly]] [[n/_native|native]] to [[n/_northern|northern]] [[a/_africa|Africa]].**
 ---
 ---

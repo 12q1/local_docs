@@ -1,7 +1,7 @@
 # Digitalis
 ---
 #noun
-- **[[a/_any|Any]] plant of the genus [[d/_digitalis|Digitalis]] (herbaceous plants of the Plantaginaceae family, including the foxglove, [[d/_digitalis|Digitalis]] purpurea).**
-- **A medical extract of [[d/_digitalis|Digitalis]] purpurea prescribed for heart failure [[e/_etc|etc]].**
+- **[[a/_any|Any]] plant of the [[g/_genus|genus]] [[d/_digitalis|Digitalis]] ([[h/_herbaceous|herbaceous]] plants of the Plantaginaceae [[f/_family|family]], [[i/_including|including]] the [[f/_foxglove|foxglove]], [[d/_digitalis|Digitalis]] purpurea).**
+- **A [[m/_medical|medical]] [[e/_extract|extract]] of [[d/_digitalis|Digitalis]] purpurea prescribed for [[h/_heart|heart]] [[f/_failure|failure]] [[e/_etc|etc]].**
 ---
 ---

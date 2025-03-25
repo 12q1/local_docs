@@ -1,6 +1,6 @@
 # Eroticize
 ---
 #verb
-- **To make [[e/_erotic|erotic]].**
+- **To [[m/_make|make]] [[e/_erotic|erotic]].**
 ---
 ---

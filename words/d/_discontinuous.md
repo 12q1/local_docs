@@ -1,8 +1,8 @@
 # Discontinuous
 ---
 #adjective
-- **Having [[b/_breaks|breaks]] or interruptions; intermittent**
-- **Having at least one [[d/_discontinuity|discontinuity]]**
+- **[[h/_having|Having]] [[b/_breaks|breaks]] or [[i/_interruptions|interruptions]]; [[i/_intermittent|intermittent]]**
+- **[[h/_having|Having]] at [[l/_least|least]] [[o/_one|one]] [[d/_discontinuity|discontinuity]]**
 ---
 ### Synonyms
 - [[p/_patchy|patchy]], [[s/_spasmodic|spasmodic]]

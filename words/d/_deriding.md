@@ -1,6 +1,6 @@
 # Deriding
 ---
 #verb
-- **To harshly mock; ridicule.**
+- **To [[h/_harshly|harshly]] [[m/_mock|mock]]; ridicule.**
 ---
 ---

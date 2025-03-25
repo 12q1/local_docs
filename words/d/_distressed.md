@@ -2,8 +2,8 @@
 ---
 #verb
 - **To [[c/_cause|cause]] strain or [[a/_anxiety|anxiety]] to someone.**
-- **To retain someone’s property [[a/_against|against]] the payment of a [[d/_debt|debt]]; to [[d/_distrain|distrain]].**
-- **To treat a new object to give it an [[a/_appearance|appearance]] of [[a/_age|age]].**
+- **To retain someone’s property [[a/_against|against]] the [[p/_payment|payment]] of a [[d/_debt|debt]]; to [[d/_distrain|distrain]].**
+- **To treat a [[n/_new|new]] [[o/_object|object]] to [[g/_give|give]] it an [[a/_appearance|appearance]] of [[a/_age|age]].**
 	- _Example: She distressed the new media cabinet so that it fit with the other furniture in the room._
 ---
 ### Synonyms
@@ -11,8 +11,8 @@
 #adjective
 - **[[a/_anxious|Anxious]] or uneasy**
 	- _Example: I'm distressed that John hasn't answered my calls. I hope nothing bad happened to him on the way here._
-- **(of merchandise, [[e/_etc|etc]].) [[d/_damaged|damaged]]**
-- **(of a property) offered for sale [[a/_after|after]] foreclosure**
-- **(of furniture, [[e/_etc|etc]].) faded or [[a/_abused|abused]] in order to [[a/_appear|appear]] old, or [[a/_antique|antique]]**
+- **(of [[m/_merchandise|merchandise]], [[e/_etc|etc]].) [[d/_damaged|damaged]]**
+- **(of a property) [[o/_offered|offered]] for sale [[a/_after|after]] [[f/_foreclosure|foreclosure]]**
+- **(of [[f/_furniture|furniture]], [[e/_etc|etc]].) [[f/_faded|faded]] or [[a/_abused|abused]] in [[o/_order|order]] to [[a/_appear|appear]] [[o/_old|old]], or [[a/_antique|antique]]**
 ---
 ---

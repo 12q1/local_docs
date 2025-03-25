@@ -1,6 +1,6 @@
 # Arteritis
 ---
 #noun
-- **The inflammation of [[a/_arterial|arterial]] walls, often [[d/_due|due]] to infection or an [[a/_autoimmune|autoimmune]] response.**
+- **The [[i/_inflammation|inflammation]] of [[a/_arterial|arterial]] walls, [[o/_often|often]] [[d/_due|due]] to [[i/_infection|infection]] or an [[a/_autoimmune|autoimmune]] response.**
 ---
 ---

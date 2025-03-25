@@ -4,6 +4,6 @@
 - **A [[c/_coward|coward]].**
 ---
 #verb
-- **To make [[c/_craven|craven]].**
+- **To [[m/_make|make]] [[c/_craven|craven]].**
 ---
 ---

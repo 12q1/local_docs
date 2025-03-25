@@ -1,9 +1,9 @@
 # Classify
 ---
 #verb
-- **To identify by or [[d/_divide|divide]] into [[c/_classes|classes]]; to [[c/_categorize|categorize]]**
+- **To [[i/_identify|identify]] by or [[d/_divide|divide]] [[i/_into|into]] [[c/_classes|classes]]; to [[c/_categorize|categorize]]**
 	- _Example: Should we classify "make up" as an idiom or as a phrasal verb?_
-- **To [[d/_declare|declare]] something a secret, [[e/_especially|especially]] a government secret**
+- **To [[d/_declare|declare]] something a secret, [[e/_especially|especially]] a [[g/_government|government]] secret**
 	- _Example: They decided to classify that information._
 ---
 ### Antonyms

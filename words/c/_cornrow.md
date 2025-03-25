@@ -1,9 +1,9 @@
 # Cornrow
 ---
 #noun
-- **A hairstyle, of [[a/_african|African]] origin, having rows of tightly [[b/_braided|braided]] hair [[c/_close|close]] to the scalp**
+- **A [[h/_hairstyle|hairstyle]], of [[a/_african|African]] [[o/_origin|origin]], [[h/_having|having]] rows of tightly [[b/_braided|braided]] [[h/_hair|hair]] [[c/_close|close]] to the scalp**
 ---
 #verb
-- **To [[b/_braid|braid]] the hair in this fashion.**
+- **To [[b/_braid|braid]] the [[h/_hair|hair]] in this [[f/_fashion|fashion]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **The state of [[b/_being|being]] unequal; [[d/_difference|difference]].**
-- **Incongruity.**
+- **[[i/_incongruity|Incongruity]].**
 ---
 ### Synonyms
 - [[u/_unalikeness|unalikeness]]

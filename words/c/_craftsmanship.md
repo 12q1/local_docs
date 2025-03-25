@@ -2,7 +2,7 @@
 ---
 #noun
 - **The quality of [[b/_being|being]] a [[c/_craftsman|craftsman]].**
-- **An example of a [[c/_craftsman|craftsman]]'s work.**
+- **An [[e/_example|example]] of a [[c/_craftsman|craftsman]]'s work.**
 	- _Example: The craftsmanship on the antique chair was exquisite._
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Cravings
 ---
 #noun
-- **A strong [[d/_desire|desire]]; yearning.**
+- **A strong [[d/_desire|desire]]; [[y/_yearning|yearning]].**
 ---
 ---

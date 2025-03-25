@@ -1,10 +1,10 @@
 # Acceding
 ---
 #verb
-- **To [[a/_approach|approach]]; to [[a/_arrive|arrive]], to [[c/_come|come]] forward.**
-- **To give one's [[a/_adhesion|adhesion]]; to join up with (a group, [[e/_etc|etc]].); to [[b/_become|become]] part of.**
-- **To [[a/_agree|agree]] or [[a/_assent|assent]] to a proposal or a view; to give way.**
-- **To [[c/_come|come]] to an office, state or [[d/_dignity|dignity]]; to [[a/_attain|attain]], [[a/_assume|assume]] (a position).**
+- **To [[a/_approach|approach]]; to [[a/_arrive|arrive]], to [[c/_come|come]] [[f/_forward|forward]].**
+- **To [[g/_give|give]] [[o/_one|one]]'s [[a/_adhesion|adhesion]]; to [[j/_join|join]] up with (a [[g/_group|group]], [[e/_etc|etc]].); to [[b/_become|become]] part of.**
+- **To [[a/_agree|agree]] or [[a/_assent|assent]] to a proposal or a view; to [[g/_give|give]] way.**
+- **To [[c/_come|come]] to an [[o/_office|office]], state or [[d/_dignity|dignity]]; to [[a/_attain|attain]], [[a/_assume|assume]] (a position).**
 - **To [[b/_become|become]] a party to an [[a/_agreement|agreement]] or a treaty.**
 ---
 ### Synonyms

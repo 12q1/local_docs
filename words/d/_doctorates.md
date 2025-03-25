@@ -1,6 +1,6 @@
 # Doctorates
 ---
 #noun
-- **The highest [[d/_degree|degree]] [[a/_awarded|awarded]] by a university faculty.**
+- **The [[h/_highest|highest]] [[d/_degree|degree]] [[a/_awarded|awarded]] by a university [[f/_faculty|faculty]].**
 ---
 ---

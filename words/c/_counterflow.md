@@ -1,9 +1,9 @@
 # Counterflow
 ---
 #noun
-- **A flow in the opposite [[d/_direction|direction]]; or the flow of two fluids in opposite [[d/_directions|directions]]**
+- **A [[f/_flow|flow]] in the [[o/_opposite|opposite]] [[d/_direction|direction]]; or the [[f/_flow|flow]] of two [[f/_fluids|fluids]] in [[o/_opposite|opposite]] [[d/_directions|directions]]**
 ---
 #verb
-- **To flow in the opposite [[d/_direction|direction]]**
+- **To [[f/_flow|flow]] in the [[o/_opposite|opposite]] [[d/_direction|direction]]**
 ---
 ---

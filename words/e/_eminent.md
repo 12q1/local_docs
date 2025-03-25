@@ -1,10 +1,10 @@
 # Eminent
 ---
 #adjective
-- **High, lofty.**
-- **Noteworthy, remarkable, great.**
+- **[[h/_high|High]], [[l/_lofty|lofty]].**
+- **[[n/_noteworthy|Noteworthy]], remarkable, [[g/_great|great]].**
 	- _Example: His eminent good sense has been a godsend to this project._
-- **(of a person) [[d/_distinguished|distinguished]], important, noteworthy.**
+- **(of a person) [[d/_distinguished|distinguished]], [[i/_important|important]], [[n/_noteworthy|noteworthy]].**
 	- _Example: In later years, the professor became known as an eminent historian._
 ---
 ### Synonyms

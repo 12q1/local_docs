@@ -1,21 +1,21 @@
 # Erase
 ---
 #noun
-- **The operation of [[d/_deleting|deleting]] [[d/_data|data]].**
+- **The [[o/_operation|operation]] of [[d/_deleting|deleting]] [[d/_data|data]].**
 ---
 #verb
-- **To remove markings or information**
+- **To remove [[m/_markings|markings]] or [[i/_information|information]]**
 	- _Example: I erased that note because it was wrong._
-- **To obliterate information from (a storage medium), such as to [[c/_clear|clear]] or (with magnetic storage) to [[d/_demagnetize|demagnetize]].**
+- **To [[o/_obliterate|obliterate]] [[i/_information|information]] from (a storage [[m/_medium|medium]]), such as to [[c/_clear|clear]] or (with [[m/_magnetic|magnetic]] storage) to [[d/_demagnetize|demagnetize]].**
 	- _Example: I'm going to erase this tape._
-- **To obliterate (information) from a storage medium, such as to [[c/_clear|clear]] or to overwrite.**
+- **To [[o/_obliterate|obliterate]] ([[i/_information|information]]) from a storage [[m/_medium|medium]], such as to [[c/_clear|clear]] or to [[o/_overwrite|overwrite]].**
 	- _Example: I'm going to erase those files._
-- **To remove a runner from the [[b/_bases|bases]] via a [[d/_double|double]] play or pick off play**
+- **To remove a runner from the [[b/_bases|bases]] via a [[d/_double|double]] play or pick [[o/_off|off]] play**
 	- _Example: Jones was erased by a 6-4-3 double play._
-- **To be [[e/_erased|erased]] (have markings removed, have information removed or be [[c/_cleared|cleared]] of information).**
+- **To be [[e/_erased|erased]] ([[h/_have|have]] [[m/_markings|markings]] removed, [[h/_have|have]] [[i/_information|information]] removed or be [[c/_cleared|cleared]] of [[i/_information|information]]).**
 	- _Example: The chalkboard erased easily._
-- **To [[d/_disregard|disregard]] (a group, an orientation, [[e/_etc|etc]].); to prevent from having an [[a/_active|active]] role in society.**
-- **To kill; [[a/_assassinate|assassinate]].**
+- **To [[d/_disregard|disregard]] (a [[g/_group|group]], an [[o/_orientation|orientation]], [[e/_etc|etc]].); to prevent from [[h/_having|having]] an [[a/_active|active]] role in society.**
+- **To [[k/_kill|kill]]; [[a/_assassinate|assassinate]].**
 ---
 ### Antonyms
 - [[r/_record|record]]

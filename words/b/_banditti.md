@@ -1,6 +1,6 @@
 # Banditti
 ---
 #noun
-- **Robbers or outlaws.**
+- **Robbers or [[o/_outlaws|outlaws]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Colligative
 ---
 #adjective
-- **[[d/_describing|Describing]] [[a/_any|any]] property that [[d/_depends|depends]] only on the number of molecules present.**
+- **[[d/_describing|Describing]] [[a/_any|any]] property that [[d/_depends|depends]] [[o/_only|only]] on the [[n/_number|number]] of [[m/_molecules|molecules]] present.**
 ---
 ---

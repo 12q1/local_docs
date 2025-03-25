@@ -1,7 +1,7 @@
 # Arsenopyrite
 ---
 #noun
-- **A silvery-grey ore of [[a/_arsenic|arsenic]], a mixed [[a/_arsenide|arsenide]] and sulfide of iron, FeAsS.**
+- **A silvery-[[g/_grey|grey]] [[o/_ore|ore]] of [[a/_arsenic|arsenic]], a [[m/_mixed|mixed]] [[a/_arsenide|arsenide]] and sulfide of [[i/_iron|iron]], FeAsS.**
 ---
 ### Synonyms
 - [[A/_AsPy|AsPy]], [[F/_FeAsS|FeAsS]], [[m/_mispickel|mispickel]]

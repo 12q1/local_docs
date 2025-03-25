@@ -6,6 +6,6 @@
 - **[[a/_according|According]] to the [[d/_doctrines|doctrines]] of the [[a/_apostles|apostles]]; [[d/_delivered|delivered]] or taught by the [[a/_apostles|apostles]].**
 	- _Example: apostolic faith or practice_
 - **Of or pertaining to the pope or the papacy; papal.**
-- **Of or pertaining to the [[c/_catholic|Catholic]] missions.**
+- **Of or pertaining to the [[c/_catholic|Catholic]] [[m/_missions|missions]].**
 ---
 ---

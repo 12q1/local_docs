@@ -1,6 +1,6 @@
 # Doltish
 ---
 #adjective
-- **Like a [[d/_dolt|dolt]]; [[d/_dull|dull]] in intellect; stupid.**
+- **[[l/_like|Like]] a [[d/_dolt|dolt]]; [[d/_dull|dull]] in [[i/_intellect|intellect]]; stupid.**
 ---
 ---

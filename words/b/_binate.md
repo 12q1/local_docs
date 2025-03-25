@@ -1,9 +1,9 @@
 # Binate
 ---
 #verb
-- **To perform [[b/_bination|bination]]; to hold Mass twice on the same [[d/_day|day]].**
+- **To perform [[b/_bination|bination]]; to [[h/_hold|hold]] [[m/_mass|Mass]] twice on the same [[d/_day|day]].**
 ---
 #adjective
-- **[[d/_double|Double]]; growing in pairs or [[c/_couples|couples]].**
+- **[[d/_double|Double]]; [[g/_growing|growing]] in [[p/_pairs|pairs]] or [[c/_couples|couples]].**
 ---
 ---

@@ -2,20 +2,20 @@
 ---
 #noun
 - **The [[b/_ball|ball]] of the [[e/_eye|eye]]**
-- **([[c/_cb|CB]]) a meeting**
+- **([[c/_cb|CB]]) a [[m/_meeting|meeting]]**
 	- _Example: We had an eyeball last year._
-- **As a synecdoche, a person's focus of [[a/_attention|attention]]**
+- **As a synecdoche, a person's [[f/_focus|focus]] of [[a/_attention|attention]]**
 - **(in the plural) readership or viewership**
-- **A favourite or pet; the [[a/_apple|apple]] of someone's [[e/_eye|eye]].**
+- **A [[f/_favourite|favourite]] or pet; the [[a/_apple|apple]] of someone's [[e/_eye|eye]].**
 ---
 ### Synonyms
 - [[e/_eye-apple|eye-apple]]
 #verb
-- **To gauge, [[e/_estimate|estimate]] or judge by [[e/_eye|eye]], rather than measuring precisely; to look or glance at.**
+- **To [[g/_gauge|gauge]], [[e/_estimate|estimate]] or [[j/_judge|judge]] by [[e/_eye|eye]], rather than [[m/_measuring|measuring]] precisely; to [[l/_look|look]] or [[g/_glance|glance]] at.**
 	- _Example: A good cook can often just eyeball the correct quantities of ingredients._
 - **To scrutinize**
-- **To stare at intently**
+- **To stare at [[i/_intently|intently]]**
 	- _Example: Are you eyeballing my girl?_
-- **To roll one's [[e/_eyes|eyes]].**
+- **To roll [[o/_one|one]]'s [[e/_eyes|eyes]].**
 ---
 ---

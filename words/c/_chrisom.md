@@ -1,7 +1,7 @@
 # Chrisom
 ---
 #noun
-- **A white [[c/_cloth|cloth]], [[a/_anointed|anointed]] with [[c/_chrism|chrism]], or a white mantle thrown over a [[c/_child|child]] when [[b/_baptized|baptized]] or [[c/_christened|christened]].**
-- **A [[c/_child|child]] that [[d/_died|died]] within a month [[a/_after|after]] its [[b/_baptism|baptism]]; so [[c/_called|called]] from the [[c/_chrisom|chrisom]] [[c/_cloth|cloth]] used as a shroud for it.**
+- **A white [[c/_cloth|cloth]], [[a/_anointed|anointed]] with [[c/_chrism|chrism]], or a white [[m/_mantle|mantle]] thrown [[o/_over|over]] a [[c/_child|child]] when [[b/_baptized|baptized]] or [[c/_christened|christened]].**
+- **A [[c/_child|child]] that [[d/_died|died]] within a [[m/_month|month]] [[a/_after|after]] [[i/_its|its]] [[b/_baptism|baptism]]; so [[c/_called|called]] from the [[c/_chrisom|chrisom]] [[c/_cloth|cloth]] used as a shroud for it.**
 ---
 ---

@@ -1,0 +1,17 @@
+# Lightweight
+---
+#noun
+- **A particular weight [[c/_class|class]], or [[m/_member|member]] of such, as prescribed by the rules, [[b/_between|between]] that of the [[h/_heavier|heavier]] welterweight and the [[l/_lighter|lighter]] [[f/_featherweight|featherweight]]. See Wikipedia for the specifics of [[e/_each|each]] sport.**
+- **A particular weight [[c/_category|category]] as prescribed by the rules, separate from an [[o/_open|open]] or [[h/_heavyweight|heavyweight]] [[c/_class|class]].**
+- **A [[c/_competitive|competitive]] weight [[d/_division|division]] as prescribed by the rules, [[b/_between|between]] the [[h/_heavier|heavier]] [[m/_middleweight|middleweight]] and the [[l/_lighter|lighter]] [[f/_featherweight|featherweight]].**
+- **[[o/_one|One]] of [[l/_little|little]] [[c/_consequence|consequence]] or [[a/_ability|ability]].**
+- **A person who [[c/_cannot|cannot]] [[h/_handle|handle]] their [[d/_drink|drink]]; [[o/_one|one]] who [[g/_gets|gets]] [[d/_drunk|drunk]] on very [[l/_little|little]] [[a/_alcohol|alcohol]].**
+- **A political [[c/_candidate|candidate]] with [[l/_little|little]] [[c/_chance|chance]] of winning**
+---
+#adjective
+- **[[l/_lacking|Lacking]] in [[e/_earnestness|earnestness]], [[a/_ability|ability]], or profundity**
+- **[[h/_having|Having]] [[l/_less|less]] than [[a/_average|average]] weight**
+- **[[l/_lacking|Lacking]] in strength**
+- **[[h/_having|Having]] a small [[f/_footprint|footprint]] or performance [[i/_impact|impact]]**
+---
+---

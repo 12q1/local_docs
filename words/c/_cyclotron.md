@@ -1,6 +1,6 @@
 # Cyclotron
 ---
 #noun
-- **An [[e/_early|early]] particle [[a/_accelerator|accelerator]] in which [[c/_charged|charged]] particles were generated at a [[c/_central|central]] source and [[a/_accelerated|accelerated]] spirally outward through a fixed magnetic field and [[a/_alternating|alternating]] [[e/_electric|electric]] fields.**
+- **An [[e/_early|early]] particle [[a/_accelerator|accelerator]] in which [[c/_charged|charged]] particles were [[g/_generated|generated]] at a [[c/_central|central]] source and [[a/_accelerated|accelerated]] spirally [[o/_outward|outward]] through a [[f/_fixed|fixed]] [[m/_magnetic|magnetic]] [[f/_field|field]] and [[a/_alternating|alternating]] [[e/_electric|electric]] [[f/_fields|fields]].**
 ---
 ---

@@ -1,0 +1,31 @@
+# Panel
+---
+#noun
+- **A (usually) rectangular section of a surface, or of a [[c/_covering|covering]] or of a wall, [[f/_fence|fence]] [[e/_etc|etc]].**
+	- _Example: Behind the picture was a panel on the wall._
+- **A [[g/_group|group]] of people [[g/_gathered|gathered]] to [[j/_judge|judge]], [[i/_interview|interview]], [[d/_discuss|discuss]] [[e/_etc|etc]]. as on a television or radio [[b/_broadcast|broadcast]] for [[e/_example|example]].**
+	- _Example: Today’s panel includes John Smith._
+- **An [[i/_individual|individual]] [[f/_frame|frame]] or [[d/_drawing|drawing]] in a [[c/_comic|comic]].**
+	- _Example: The last panel of a comic strip usually contains a punchline._
+- **A type of GUI widget, such as a [[c/_control|control]] [[p/_panel|panel]].**
+	- _Example: admin panel_
+- **A [[d/_document|document]] [[c/_containing|containing]] the [[n/_names|names]] of persons summoned as [[j/_jurors|jurors]] by the sheriff; [[h/_hence|hence]], [[m/_more|more]] [[g/_generally|generally]], the whole [[j/_jury|jury]].**
+- **A prisoner [[a/_arraigned|arraigned]] for trial at the [[b/_bar|bar]] of a [[c/_criminal|criminal]] [[c/_court|court]].**
+- **A piece of [[c/_cloth|cloth]] serving as a saddle.**
+- **A soft [[p/_pad|pad]] [[b/_beneath|beneath]] a saddletree to prevent [[c/_chafing|chafing]].**
+- **([[j/_joinery|joinery]]) A [[b/_board|board]] [[h/_having|having]] [[i/_its|its]] [[e/_edges|edges]] [[i/_inserted|inserted]] in the [[g/_groove|groove]] of a surrounding [[f/_frame|frame]].**
+	- _Example: the panel of a door_
+- **[[o/_one|One]] of the [[f/_faces|faces]] of a [[h/_hewn|hewn]] stone.**
+- **A slab or plank of wood used [[i/_instead|instead]] of a [[c/_canvas|canvas]] for [[p/_painting|painting]] on.**
+- **A [[h/_heap|heap]] of [[d/_dressed|dressed]] [[o/_ore|ore]].**
+- **[[o/_one|One]] of the [[d/_districts|districts]] [[d/_divided|divided]] by pillars of [[e/_extra|extra]] size, [[i/_into|into]] which a [[m/_mine|mine]] is [[l/_laid|laid]] [[o/_off|off]] in [[o/_one|one]] system of [[e/_extracting|extracting]] [[c/_coal|coal]].**
+- **A [[f/_frame|frame]] for [[c/_carrying|carrying]] a [[m/_mortar|mortar]].**
+- **A plain strip or [[b/_band|band]], as of velvet or plush, placed at [[i/_intervals|intervals]] [[l/_lengthwise|lengthwise]] on the skirt of a [[d/_dress|dress]], for [[o/_ornament|ornament]].**
+- **A portion of a [[f/_framed|framed]] structure [[b/_between|between]] [[a/_adjacent|adjacent]] posts or struts, as in a [[b/_bridge|bridge]] truss.**
+- **A [[l/_list|list]] of [[d/_doctors|doctors]] who [[c/_could|could]] provide [[l/_limited|limited]] [[f/_free|free]] [[h/_healthcare|healthcare]] prior to the [[i/_introduction|introduction]] of the NHS.**
+- **A [[g/_group|group]] of tests or [[a/_assays|assays]], a [[b/_battery|battery]].**
+---
+#verb
+- **To [[f/_fit|fit]] with [[p/_panels|panels]].**
+---
+---

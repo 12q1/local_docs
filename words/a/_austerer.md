@@ -1,9 +1,9 @@
 # Austerer
 ---
 #adjective
-- **Grim or severe in manner or [[a/_appearance|appearance]]**
+- **[[g/_grim|Grim]] or severe in [[m/_manner|manner]] or [[a/_appearance|appearance]]**
 	- _Example: The headmistress was an austere old woman._
-- **Lacking [[d/_decoration|decoration]]; trivial; not extravagant or gaudy**
+- **[[l/_lacking|Lacking]] [[d/_decoration|decoration]]; trivial; not [[e/_extravagant|extravagant]] or [[g/_gaudy|gaudy]]**
 	- _Example: The interior of the church was as austere as the parishioners were dour._
 ---
 ### Synonyms

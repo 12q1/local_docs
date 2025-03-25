@@ -1,6 +1,6 @@
 # Baddest
 ---
 #adjective
-- **Fantastic.**
+- **[[f/_fantastic|Fantastic]].**
 ---
 ---

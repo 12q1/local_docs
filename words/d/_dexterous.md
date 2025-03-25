@@ -1,9 +1,9 @@
 # Dexterous
 ---
 #adjective
-- **Skillful with one's hands.**
+- **Skillful with [[o/_one|one]]'s [[h/_hands|hands]].**
 - **Skillful in some specific thing.**
-- **[[a/_agile|Agile]]; flexible; [[a/_able|able]] to move fluidly and gracefully.**
-- **Skilled at [[a/_argumentation|argumentation]]; mentally skillful.**
+- **[[a/_agile|Agile]]; [[f/_flexible|flexible]]; [[a/_able|able]] to [[m/_move|move]] [[f/_fluidly|fluidly]] and [[g/_gracefully|gracefully]].**
+- **Skilled at [[a/_argumentation|argumentation]]; [[m/_mentally|mentally]] skillful.**
 ---
 ---

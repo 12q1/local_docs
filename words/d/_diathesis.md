@@ -1,7 +1,7 @@
 # Diathesis
 ---
 #noun
-- **A hereditary or [[c/_constitutional|constitutional]] predisposition to a [[d/_disease|disease]] or other [[d/_disorder|disorder]].**
-- **(grammar) Voice ([[a/_active|active]] or passive).**
+- **A [[h/_hereditary|hereditary]] or [[c/_constitutional|constitutional]] predisposition to a [[d/_disease|disease]] or [[o/_other|other]] [[d/_disorder|disorder]].**
+- **([[g/_grammar|grammar]]) Voice ([[a/_active|active]] or passive).**
 ---
 ---

@@ -4,8 +4,8 @@
 - **[[a/_any|Any]] [[b/_bivalent|bivalent]] [[c/_chromosome|chromosome]].**
 ---
 #adjective
-- **Having a valence of 2; having two ligands**
-- **Of, or relating to a pair of homologous synapsed [[c/_chromosomes|chromosomes]] that occur [[d/_during|during]] meiosis.**
+- **[[h/_having|Having]] a valence of 2; [[h/_having|having]] two [[l/_ligands|ligands]]**
+- **Of, or relating to a [[p/_pair|pair]] of [[h/_homologous|homologous]] synapsed [[c/_chromosomes|chromosomes]] that [[o/_occur|occur]] [[d/_during|during]] [[m/_meiosis|meiosis]].**
 - **(of a vaccine) Protecting [[a/_against|against]] two [[d/_different|different]] viruses.**
 ---
 ---

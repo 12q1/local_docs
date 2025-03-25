@@ -1,0 +1,11 @@
+# Metered
+---
+#verb
+- **To [[m/_measure|measure]] with a [[m/_metering|metering]] [[d/_device|device]].**
+- **To [[i/_imprint|imprint]] a postage [[m/_mark|mark]] with a postage [[m/_meter|meter]].**
+- **To regulate the [[f/_flow|flow]] of or to [[d/_deliver|deliver]] in regulated [[a/_amounts|amounts]] (usually of [[f/_fluids|fluids]] but sometimes of [[o/_other|other]] things such as [[a/_anticipation|anticipation]] or [[b/_breath|breath]]).**
+---
+#adjective
+- **[[f/_fitted|Fitted]] with a [[m/_meter|meter]], such as a [[g/_gas|gas]] [[m/_meter|meter]], parking [[m/_meter|meter]], [[e/_etc|etc]].**
+---
+---

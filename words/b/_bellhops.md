@@ -1,6 +1,6 @@
 # Bellhops
 ---
 #noun
-- **An [[e/_employee|employee]] of a hotel who [[c/_carries|carries]] a guest's luggage and runs [[e/_errands|errands]].**
+- **An [[e/_employee|employee]] of a [[h/_hotel|hotel]] who [[c/_carries|carries]] a [[g/_guest|guest]]'s [[l/_luggage|luggage]] and runs [[e/_errands|errands]].**
 ---
 ---

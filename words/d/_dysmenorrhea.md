@@ -1,7 +1,7 @@
 # Dysmenorrhea
 ---
 #noun
-- **Painful menstruation.**
+- **[[p/_painful|Painful]] [[m/_menstruation|menstruation]].**
 ---
 ### Synonyms
 - [[m/_menorrhalgia|menorrhalgia]]

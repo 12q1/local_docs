@@ -1,9 +1,9 @@
 # Bistable
 ---
 #noun
-- **A flip-flop.**
+- **A [[f/_flip|flip]]-[[f/_flop|flop]].**
 ---
 #adjective
-- **Having two stable states.**
+- **[[h/_having|Having]] two stable states.**
 ---
 ---

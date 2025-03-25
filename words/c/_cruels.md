@@ -1,6 +1,6 @@
 # Cruels
 ---
 #noun
-- **Glandular scrofulous swellings in the neck.**
+- **[[g/_glandular|Glandular]] scrofulous swellings in the [[n/_neck|neck]].**
 ---
 ---

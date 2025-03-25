@@ -2,7 +2,7 @@
 ---
 #noun
 - **Someone who [[a/_attacks|attacks]].**
-- **One of the players on a team in football (soccer) in the row nearest to the opposing team's goal, who are therefore principally responsible for scoring goals.**
+- **[[o/_one|One]] of the players on a team in [[f/_football|football]] (soccer) in the row [[n/_nearest|nearest]] to the [[o/_opposing|opposing]] team's [[g/_goal|goal]], who are therefore principally responsible for scoring [[g/_goals|goals]].**
 ---
 ### Synonyms
 - [[f/_forward|forward]], [[s/_striker|striker]]

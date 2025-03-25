@@ -1,8 +1,8 @@
 # Broomsticks
 ---
 #noun
-- **The handle of a [[b/_broom|broom]] (sweeping tool).**
-- **A [[b/_broom|broom]] imbued with magic, [[e/_enabling|enabling]] one to fly [[a/_astride|astride]] the handle.**
-- **Like plain [[b/_broom|broom]], a gun.**
+- **The [[h/_handle|handle]] of a [[b/_broom|broom]] (sweeping tool).**
+- **A [[b/_broom|broom]] [[i/_imbued|imbued]] with [[m/_magic|magic]], [[e/_enabling|enabling]] [[o/_one|one]] to [[f/_fly|fly]] [[a/_astride|astride]] the [[h/_handle|handle]].**
+- **[[l/_like|Like]] plain [[b/_broom|broom]], a [[g/_gun|gun]].**
 ---
 ---

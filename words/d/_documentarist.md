@@ -1,6 +1,6 @@
 # Documentarist
 ---
 #noun
-- **A maker of [[d/_documentaries|documentaries]].**
+- **A [[m/_maker|maker]] of [[d/_documentaries|documentaries]].**
 ---
 ---

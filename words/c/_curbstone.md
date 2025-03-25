@@ -1,6 +1,6 @@
 # Curbstone
 ---
 #noun
-- **A paving stone that forms part of a kerb**
+- **A paving stone that [[f/_forms|forms]] part of a [[k/_kerb|kerb]]**
 ---
 ---

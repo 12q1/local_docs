@@ -1,6 +1,6 @@
 # Candelas
 ---
 #noun
-- **In the International System of Units, the [[b/_base|base]] unit of luminous intensity; the luminous intensity, in a given [[d/_direction|direction]], of a source that [[e/_emits|emits]] monochromatic radiation of frequency 540 × 1012 hertz and that has a radiant intensity in that [[d/_direction|direction]] of 1/683 watt per steradian. Symbol: [[c/_cd|cd]]**
+- **In the [[i/_international|International]] System of Units, the [[b/_base|base]] unit of [[l/_luminous|luminous]] [[i/_intensity|intensity]]; the [[l/_luminous|luminous]] [[i/_intensity|intensity]], in a [[g/_given|given]] [[d/_direction|direction]], of a source that [[e/_emits|emits]] [[m/_monochromatic|monochromatic]] radiation of [[f/_frequency|frequency]] 540 × 1012 [[h/_hertz|hertz]] and that [[h/_has|has]] a radiant [[i/_intensity|intensity]] in that [[d/_direction|direction]] of 1/683 watt per steradian. Symbol: [[c/_cd|cd]]**
 ---
 ---

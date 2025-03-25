@@ -1,16 +1,16 @@
 # Chink
 ---
 #noun
-- **A narrow opening such as a fissure or [[c/_crack|crack]].**
-- **A [[c/_chip|chip]] or [[d/_dent|dent]] in something metallic.**
+- **A [[n/_narrow|narrow]] [[o/_opening|opening]] such as a [[f/_fissure|fissure]] or [[c/_crack|crack]].**
+- **A [[c/_chip|chip]] or [[d/_dent|dent]] in something [[m/_metallic|metallic]].**
 	- _Example: The warrior saw a chink in her enemy's armor, and aimed her spear accordingly._
-- **A vulnerability or flaw in a protection system or in [[a/_any|any]] otherwise formidable system.**
+- **A vulnerability or [[f/_flaw|flaw]] in a protection system or in [[a/_any|any]] [[o/_otherwise|otherwise]] [[f/_formidable|formidable]] system.**
 	- _Example: The chink in the theory is that the invaders have superior muskets._
 ---
 #verb
-- **To fill an opening such as the space [[b/_between|between]] logs in a log house with [[c/_chinking|chinking]]; to [[c/_caulk|caulk]].**
+- **To [[f/_fill|fill]] an [[o/_opening|opening]] such as the space [[b/_between|between]] [[l/_logs|logs]] in a [[l/_log|log]] [[h/_house|house]] with [[c/_chinking|chinking]]; to [[c/_caulk|caulk]].**
 	- _Example: to chink a wall_
-- **To [[c/_crack|crack]]; to open.**
-- **To [[c/_cause|cause]] to open in [[c/_cracks|cracks]] or fissures.**
+- **To [[c/_crack|crack]]; to [[o/_open|open]].**
+- **To [[c/_cause|cause]] to [[o/_open|open]] in [[c/_cracks|cracks]] or [[f/_fissures|fissures]].**
 ---
 ---

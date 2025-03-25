@@ -1,6 +1,6 @@
 # Carpology
 ---
 #noun
-- **The study of the structure of seeds and fruit**
+- **The study of the structure of seeds and [[f/_fruit|fruit]]**
 ---
 ---

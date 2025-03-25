@@ -1,8 +1,8 @@
 # Ammonia
 ---
 #noun
-- **A gaseous [[c/_compound|compound]] of hydrogen and nitrogen, NH3, with a pungent smell and taste.**
-- **A solution of this [[c/_compound|compound]] in water used [[d/_domestically|domestically]] as a [[c/_cleaning|cleaning]] fluid.**
+- **A [[g/_gaseous|gaseous]] [[c/_compound|compound]] of [[h/_hydrogen|hydrogen]] and [[n/_nitrogen|nitrogen]], NH3, with a pungent smell and taste.**
+- **A solution of this [[c/_compound|compound]] in water used [[d/_domestically|domestically]] as a [[c/_cleaning|cleaning]] [[f/_fluid|fluid]].**
 ---
 ### Synonyms
 - 

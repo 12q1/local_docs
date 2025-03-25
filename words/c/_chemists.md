@@ -1,7 +1,7 @@
 # Chemists
 ---
 #noun
-- **A person who specializes in the science of [[c/_chemistry|chemistry]], [[e/_especially|especially]] at a professional level.**
+- **A person who specializes in the science of [[c/_chemistry|chemistry]], [[e/_especially|especially]] at a professional [[l/_level|level]].**
 - **A pharmacist.**
 - **A pharmacy.**
 - **An [[a/_alchemist|alchemist]].**

@@ -1,7 +1,7 @@
 # Defrosted
 ---
 #verb
-- **To remove frost from.**
+- **To remove [[f/_frost|frost]] from.**
 	- _Example: I have just defrosted the fridge._
 - **To thaw something.**
 	- _Example: Will you defrost the chops for supper tonight?_

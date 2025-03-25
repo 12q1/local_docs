@@ -1,14 +1,14 @@
 # Dapple
 ---
 #noun
-- **A mottled marking, usually in [[c/_clusters|clusters]].**
-- **An [[a/_animal|animal]] with a mottled or spotted skin or [[c/_coat|coat]].**
+- **A [[m/_mottled|mottled]] [[m/_marking|marking]], usually in [[c/_clusters|clusters]].**
+- **An [[a/_animal|animal]] with a [[m/_mottled|mottled]] or spotted skin or [[c/_coat|coat]].**
 ---
 #verb
-- **To mark or [[b/_become|become]] marked with mottling or spots.**
+- **To [[m/_mark|mark]] or [[b/_become|become]] [[m/_marked|marked]] with [[m/_mottling|mottling]] or spots.**
 ---
 #adjective
-- **Having a mottled or spotted skin or [[c/_coat|coat]], [[d/_dappled|dappled]].**
+- **[[h/_having|Having]] a [[m/_mottled|mottled]] or spotted skin or [[c/_coat|coat]], [[d/_dappled|dappled]].**
 	- _Example: a dapple horse_
 ---
 ---

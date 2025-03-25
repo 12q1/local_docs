@@ -2,6 +2,6 @@
 ---
 #verb
 - **To smear upon; to soil.**
-- **To ornament garishly; to overdecorate.**
+- **To [[o/_ornament|ornament]] [[g/_garishly|garishly]]; to [[o/_overdecorate|overdecorate]].**
 ---
 ---

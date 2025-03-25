@@ -1,14 +1,14 @@
 # Emancipated
 ---
 #verb
-- **To set free from the power of [[a/_another|another]]; to liberate; as:**
-- **To free from [[a/_any|any]] [[c/_controlling|controlling]] influence, [[e/_especially|especially]] from [[a/_anything|anything]] which exerts undue or evil influence**
+- **To set [[f/_free|free]] from the power of [[a/_another|another]]; to [[l/_liberate|liberate]]; as:**
+- **To [[f/_free|free]] from [[a/_any|any]] [[c/_controlling|controlling]] [[i/_influence|influence]], [[e/_especially|especially]] from [[a/_anything|anything]] which [[e/_exerts|exerts]] undue or [[e/_evil|evil]] [[i/_influence|influence]]**
 	- _Example: emancipate someone from prejudices or error_
 ---
 ### Synonyms
 - [[l/_liberate|liberate]], [[m/_manumit|manumit]]
 #adjective
-- **Something which has [[b/_been|been]] set free.**
+- **Something which [[h/_has|has]] [[b/_been|been]] set [[f/_free|free]].**
 	- _Example: Austin is an emancipated minor._
 ---
 ---

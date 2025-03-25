@@ -1,6 +1,6 @@
 # Brucite
 ---
 #noun
-- **A mineral form of magnesium hydroxide, Mg(OH)2, often found in thin foliated plates, but may be fibrous (see nemalite), of a white or greenish [[c/_color|color]] and vitreous to pearly luster.**
+- **A [[m/_mineral|mineral]] [[f/_form|form]] of [[m/_magnesium|magnesium]] [[h/_hydroxide|hydroxide]], [[m/_mg|Mg]]([[o/_oh|OH]])2, [[o/_often|often]] [[f/_found|found]] in thin [[f/_foliated|foliated]] plates, but [[m/_may|may]] be [[f/_fibrous|fibrous]] (see [[n/_nemalite|nemalite]]), of a white or [[g/_greenish|greenish]] [[c/_color|color]] and vitreous to pearly [[l/_luster|luster]].**
 ---
 ---

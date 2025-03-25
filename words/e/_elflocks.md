@@ -1,6 +1,6 @@
 # Elflocks
 ---
 #noun
-- **A lock of hair that is tangled.**
+- **A [[l/_lock|lock]] of [[h/_hair|hair]] that is tangled.**
 ---
 ---

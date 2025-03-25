@@ -1,11 +1,11 @@
 # Concussed
 ---
 #verb
-- **To injure the [[b/_brain|brain]] of, usually temporarily, by violent impact.**
+- **To [[i/_injure|injure]] the [[b/_brain|brain]] of, usually temporarily, by violent [[i/_impact|impact]].**
 	- _Example: The blow will concuss him._
-- **To force to [[d/_do|do]] something, or give up something, by intimidation; to [[c/_coerce|coerce]].**
+- **To [[f/_force|force]] to [[d/_do|do]] something, or [[g/_give|give]] up something, by [[i/_intimidation|intimidation]]; to [[c/_coerce|coerce]].**
 ---
 #adjective
-- **Knocked out, temporarily [[c/_confused|confused]] or unconscious [[d/_due|due]] to a [[b/_blow|blow]] to the head**
+- **[[k/_knocked|Knocked]] [[o/_out|out]], temporarily [[c/_confused|confused]] or unconscious [[d/_due|due]] to a [[b/_blow|blow]] to the [[h/_head|head]]**
 ---
 ---

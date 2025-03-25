@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Of or relating to [[a/_astronomy|astronomy]].**
-- **Very large; of vast measure.**
+- **Very [[l/_large|large]]; of vast [[m/_measure|measure]].**
 ---
 ### Synonyms
 - [[a/_astronomic|astronomic]]

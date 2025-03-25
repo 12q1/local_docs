@@ -1,7 +1,7 @@
 # Acceptant
 ---
 #noun
-- **One who [[a/_accepts|accepts]] something.**
+- **[[o/_one|One]] who [[a/_accepts|accepts]] something.**
 ---
 #adjective
 - **[[a/_accepting|Accepting]]; receiving.**

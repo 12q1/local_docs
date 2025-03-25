@@ -1,6 +1,6 @@
 # Disembroil
 ---
 #verb
-- **To free or extricate from [[c/_confusion|confusion]]**
+- **To [[f/_free|free]] or [[e/_extricate|extricate]] from [[c/_confusion|confusion]]**
 ---
 ---

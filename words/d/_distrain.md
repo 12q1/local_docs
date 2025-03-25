@@ -1,11 +1,11 @@
 # Distrain
 ---
 #verb
-- **To squeeze, press, [[e/_embrace|embrace]]; to [[c/_constrain|constrain]], oppress.**
-- **To force (someone) to [[d/_do|do]] something by seizing their property.**
+- **To squeeze, press, [[e/_embrace|embrace]]; to [[c/_constrain|constrain]], [[o/_oppress|oppress]].**
+- **To [[f/_force|force]] (someone) to [[d/_do|do]] something by seizing their property.**
 	- _Example: to distrain a person by his goods and chattels_
-- **To seize somebody's property in place of, or to force, payment of a [[d/_debt|debt]].**
-- **To pull off, tear [[a/_apart|apart]].**
+- **To seize somebody's property in place of, or to [[f/_force|force]], [[p/_payment|payment]] of a [[d/_debt|debt]].**
+- **To pull [[o/_off|off]], tear [[a/_apart|apart]].**
 ---
 ### Synonyms
 - [[d/_distress|distress]]

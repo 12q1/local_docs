@@ -1,6 +1,6 @@
 # Allegrettos
 ---
 #noun
-- **A movement in this time.**
+- **A [[m/_movement|movement]] in this time.**
 ---
 ---

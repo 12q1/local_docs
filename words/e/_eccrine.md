@@ -1,8 +1,8 @@
 # Eccrine
 ---
 #adjective
-- **Pertaining to a sweat gland; merocrine**
+- **Pertaining to a sweat [[g/_gland|gland]]; [[m/_merocrine|merocrine]]**
 - **Pertaining to sweat**
-- **Exocrine**
+- **[[e/_exocrine|Exocrine]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Brumous
 ---
 #adjective
-- **Foggy or misty; wintry.**
+- **[[f/_foggy|Foggy]] or [[m/_misty|misty]]; wintry.**
 ---
 ---

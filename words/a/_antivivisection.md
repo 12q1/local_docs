@@ -1,6 +1,6 @@
 # Antivivisection
 ---
 #adjective
-- **Opposed to vivisection**
+- **[[o/_opposed|Opposed]] to vivisection**
 ---
 ---

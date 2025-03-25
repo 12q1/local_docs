@@ -1,7 +1,7 @@
 # Courant
 ---
 #noun
-- **A piece of music in triple time.**
-- **A lively [[d/_dance|dance]]; a [[c/_coranto|coranto]].**
+- **A piece of [[m/_music|music]] in triple time.**
+- **A [[l/_lively|lively]] [[d/_dance|dance]]; a [[c/_coranto|coranto]].**
 ---
 ---

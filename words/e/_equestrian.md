@@ -6,7 +6,7 @@
 ### Synonyms
 - [[h/_horseman|horseman]], [[h/_horserider|horserider]]
 #adjective
-- **Of horseback riding or horseback riders.**
+- **Of [[h/_horseback|horseback]] riding or [[h/_horseback|horseback]] riders.**
 	- _Example: After his death an equestrian statue was created._
 - **Of or relating to the [[a/_ancient|ancient]] Roman [[c/_class|class]] of [[e/_equites|equites]]/[[e/_equestrians|equestrians]]**
 ---

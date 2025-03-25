@@ -1,9 +1,9 @@
 # Completely
 ---
 #adverb
-- **(manner) In a [[c/_complete|complete]] manner**
+- **([[m/_manner|manner]]) In a [[c/_complete|complete]] [[m/_manner|manner]]**
 	- _Example: Please completely fill in the box for your answer, using a number 2 pencil._
-- **([[d/_degree|degree]]) To the fullest extent or [[d/_degree|degree]]; totally.**
+- **([[d/_degree|degree]]) To the [[f/_fullest|fullest]] [[e/_extent|extent]] or [[d/_degree|degree]]; totally.**
 	- _Example: He is completely mad._
 ---
 ### Synonyms

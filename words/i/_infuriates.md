@@ -1,0 +1,8 @@
+# Infuriates
+---
+#verb
+- **To [[m/_make|make]] [[f/_furious|furious]] or [[m/_mad|mad]] with [[a/_anger|anger]]; to [[f/_fill|fill]] with [[f/_fury|fury]].**
+---
+### Synonyms
+- [[e/_enrage|enrage]], [[m/_madden|madden]]
+---

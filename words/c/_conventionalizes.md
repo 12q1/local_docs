@@ -1,6 +1,6 @@
 # Conventionalizes
 ---
 #verb
-- **To make something [[c/_conventional|conventional]].**
+- **To [[m/_make|make]] something [[c/_conventional|conventional]].**
 ---
 ---

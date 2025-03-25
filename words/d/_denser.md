@@ -1,13 +1,13 @@
 # Denser
 ---
 #adjective
-- **Having relatively high [[d/_density|density]].**
+- **[[h/_having|Having]] relatively [[h/_high|high]] [[d/_density|density]].**
 - **[[c/_compact|Compact]]; [[c/_crowded|crowded]] together.**
 - **Thick; [[d/_difficult|difficult]] to penetrate.**
-- **Opaque; [[a/_allowing|allowing]] little light to pass through.**
-- **Obscure, or [[d/_difficult|difficult]] to understand.**
-- **[[b/_being|Being]] a subset of a topological space that [[a/_approximates|approximates]] the space well. See Wikipedia [[a/_article|article]] on [[d/_dense|dense]] sets for mathematical [[d/_definition|definition]].**
-- **(of a person) Slow to [[c/_comprehend|comprehend]]; of low intelligence.**
+- **[[o/_opaque|Opaque]]; [[a/_allowing|allowing]] [[l/_little|little]] [[l/_light|light]] to pass through.**
+- **[[o/_obscure|Obscure]], or [[d/_difficult|difficult]] to understand.**
+- **[[b/_being|Being]] a subset of a topological space that [[a/_approximates|approximates]] the space well. See Wikipedia [[a/_article|article]] on [[d/_dense|dense]] sets for [[m/_mathematical|mathematical]] [[d/_definition|definition]].**
+- **(of a person) Slow to [[c/_comprehend|comprehend]]; of [[l/_low|low]] [[i/_intelligence|intelligence]].**
 ---
 ### Synonyms
 - [[a/_abstruse|abstruse]], [[d/_difficult|difficult]], [[h/_hard|hard]], [[i/_incomprehensible|incomprehensible]], [[o/_obscure|obscure]], [[t/_tough|tough]], [[c/_cloudy|cloudy]], [[o/_opaque|opaque]], [[c/_compact|compact]], [[c/_crowded|crowded]], [[p/_packed|packed]], [[d/_dumb|dumb]], [[s/_slow|slow]], [[s/_stupid|stupid]], [[t/_thick|thick]], [[s/_solid|solid]], [[s/_solid|solid]], [[t/_thick|thick]]

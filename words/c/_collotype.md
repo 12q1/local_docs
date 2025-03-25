@@ -1,7 +1,7 @@
 # Collotype
 ---
 #noun
-- **A [[d/_dichromate|dichromate]]-[[b/_based|based]] photographic process formerly used for large-volume mechanical printing.**
-- **An image produced by this process.**
+- **A [[d/_dichromate|dichromate]]-[[b/_based|based]] photographic process [[f/_formerly|formerly]] used for [[l/_large|large]]-volume [[m/_mechanical|mechanical]] printing.**
+- **An [[i/_image|image]] produced by this process.**
 ---
 ---

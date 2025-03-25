@@ -1,0 +1,6 @@
+# Mycobacteria
+---
+#noun
+- **[[a/_any|Any]] of [[m/_many|many]] rod-shaped, [[a/_aerobic|aerobic]] [[b/_bacteria|bacteria]], of the [[g/_genus|genus]] [[m/_mycobacterium|Mycobacterium]], that [[c/_cause|cause]] [[d/_diseases|diseases]] such as tuberculosis and [[l/_leprosy|leprosy]].**
+---
+---

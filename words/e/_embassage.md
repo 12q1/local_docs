@@ -2,6 +2,6 @@
 ---
 #noun
 - **An [[e/_embassy|embassy]].**
-- **Message; [[e/_errand|errand]].**
+- **[[m/_message|Message]]; [[e/_errand|errand]].**
 ---
 ---

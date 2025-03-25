@@ -1,0 +1,13 @@
+# Meatier
+---
+#adjective
+- **Of, relating to, or [[c/_containing|containing]] [[m/_meat|meat]].**
+- **Resembling [[m/_meat|meat]] in [[f/_flavour|flavour]], [[e/_etc|etc]].**
+	- _Example: This tastes rather meaty. Are you sure it's vegetarian?_
+- **Of a person or a [[b/_body|body]] part, [[l/_large|large]] and solid.**
+- **Substantial.**
+	- _Example: I got a nice, meaty bonus._
+---
+### Synonyms
+- [[b/_bulky|bulky]], [[c/_chunky|chunky]], [[m/_muscular|muscular]], [[s/_solid|solid]], [[s/_stocky|stocky]], [[f/_fleshy|fleshy]], [[s/_substantial|substantial]]
+---

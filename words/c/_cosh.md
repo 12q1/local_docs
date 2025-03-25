@@ -1,11 +1,11 @@
 # Cosh
 ---
 #noun
-- **A weapon made of leather-[[c/_covered|covered]] metal similar to a [[b/_blackjack|blackjack]].**
-- **A [[b/_blunt|blunt]] instrument such as a [[b/_bludgeon|bludgeon]] or truncheon.**
+- **A weapon [[m/_made|made]] of [[l/_leather|leather]]-[[c/_covered|covered]] [[m/_metal|metal]] similar to a [[b/_blackjack|blackjack]].**
+- **A [[b/_blunt|blunt]] [[i/_instrument|instrument]] such as a [[b/_bludgeon|bludgeon]] or truncheon.**
 - **The [[c/_cane|cane]].**
 ---
 #verb
-- **To strike with a weapon of this kind.**
+- **To strike with a weapon of this [[k/_kind|kind]].**
 ---
 ---

@@ -1,22 +1,22 @@
 # Dealt
 ---
 #verb
-- **To [[d/_distribute|distribute]] [[a/_among|among]] a number of recipients, to give out as one’s portion or share.**
+- **To [[d/_distribute|distribute]] [[a/_among|among]] a [[n/_number|number]] of recipients, to [[g/_give|give]] [[o/_out|out]] as [[o/_one|one]]’s portion or share.**
 	- _Example: The fighting is over; now we deal out the spoils of victory._
-- **To [[a/_administer|administer]] or give out, as in small portions.**
-- **To [[d/_distribute|distribute]] [[c/_cards|cards]] to the players in a game.**
+- **To [[a/_administer|administer]] or [[g/_give|give]] [[o/_out|out]], as in small portions.**
+- **To [[d/_distribute|distribute]] [[c/_cards|cards]] to the players in a [[g/_game|game]].**
 	- _Example: I was dealt four aces._
 - **To pitch.**
 	- _Example: The whole crowd waited for him to deal a real humdinger._
-- **To have [[d/_dealings|dealings]] or [[b/_business|business]].**
-- **To [[c/_conduct|conduct]] oneself, to [[b/_behave|behave]].**
+- **To [[h/_have|have]] [[d/_dealings|dealings]] or [[b/_business|business]].**
+- **To [[c/_conduct|conduct]] [[o/_oneself|oneself]], to [[b/_behave|behave]].**
 - **To take [[a/_action|action]]; to [[a/_act|act]].**
-- **To trade professionally (followed by in).**
+- **To trade professionally ([[f/_followed|followed]] by in).**
 	- _Example: She deals in gold._
-- **To sell, [[e/_especially|especially]] to sell illicit [[d/_drugs|drugs]].**
+- **To sell, [[e/_especially|especially]] to sell [[i/_illicit|illicit]] [[d/_drugs|drugs]].**
 	- _Example: This club takes a dim view of members who deal drugs._
 - **To be [[c/_concerned|concerned]] with.**
-- **To handle, to manage, to [[c/_cope|cope]].**
+- **To [[h/_handle|handle]], to [[m/_manage|manage]], to [[c/_cope|cope]].**
 	- _Example: I can't deal with this._
 ---
 ### Synonyms

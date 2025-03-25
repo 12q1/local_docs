@@ -1,8 +1,8 @@
 # Diva
 ---
 #noun
-- **[[a/_any|Any]] female [[c/_celebrity|celebrity]], usually a well known singer or [[a/_actress|actress]].**
-- **A person who may be [[c/_considered|considered]] or who [[c/_considers|considers]] herself (or by extension himself) much more important than others, has high expectations of others and who is extremely [[d/_demanding|demanding]] and fussy when it [[c/_comes|comes]] to personal privileges.**
+- **[[a/_any|Any]] [[f/_female|female]] [[c/_celebrity|celebrity]], usually a well [[k/_known|known]] singer or [[a/_actress|actress]].**
+- **A person who [[m/_may|may]] be [[c/_considered|considered]] or who [[c/_considers|considers]] [[h/_herself|herself]] (or by [[e/_extension|extension]] [[h/_himself|himself]]) [[m/_much|much]] [[m/_more|more]] [[i/_important|important]] than [[o/_others|others]], [[h/_has|has]] [[h/_high|high]] [[e/_expectations|expectations]] of [[o/_others|others]] and who is [[e/_extremely|extremely]] [[d/_demanding|demanding]] and [[f/_fussy|fussy]] when it [[c/_comes|comes]] to personal privileges.**
 ---
 ### Synonyms
 - 

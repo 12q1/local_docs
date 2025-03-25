@@ -1,0 +1,35 @@
+# Finks
+---
+#noun
+- **A [[c/_contemptible|contemptible]] person.**
+- **An [[i/_informer|informer]].**
+- **A strikebreaker.**
+---
+#verb
+- **To [[b/_betray|betray]] a trust; to [[i/_inform|inform]] on.**
+---
+### Synonyms
+- [[i/_inform|inform]], [[s/_snitch|snitch]]
+#noun
+- **[[a/_any|Any]] of several [[b/_birds|birds]] in the [[f/_family|family]] Ploceidae [[n/_native|native]] to southern [[a/_africa|Africa]].**
+---
+#verb
+- **To ponder, to [[g/_go|go]] [[o/_over|over]] in [[o/_one|one]]'s [[h/_head|head]].**
+	- _Example: Idly, the detective thought what his next move should be._
+- **To [[c/_communicate|communicate]] to [[o/_oneself|oneself]] in [[o/_one|one]]'s [[m/_mind|mind]], to try to [[f/_find|find]] a solution to a problem.**
+	- _Example: I thought for three hours about the problem and still couldn’t find the solution._
+- **To [[c/_conceive|conceive]] of something or someone (usually [[f/_followed|followed]] by of; [[i/_infrequently|infrequently]], by on).**
+	- _Example: I tend to think of her as rather ugly._
+- **To be of [[o/_opinion|opinion]] (that); to [[c/_consider|consider]], [[j/_judge|judge]], regard, or [[l/_look|look]] upon (something) as.**
+	- _Example: At the time I thought his adamant refusal to give in right._
+- **To [[g/_guess|guess]]; to reckon.**
+	- _Example: I think she’ll pass the examination._
+- **To plan; to be [[c/_considering|considering]]; to be of a [[m/_mind|mind]] (to [[d/_do|do]] something).**
+- **To presume; to venture.**
+---
+### Synonyms
+- [[g/_guess|guess]]
+#verb
+- **To seem, to [[a/_appear|appear]].**
+---
+---

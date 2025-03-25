@@ -1,15 +1,15 @@
 # Bodied
 ---
 #adjective
-- **(in [[c/_combination|combination]]) Having a specified form of [[b/_body|body]].**
-- **Having a [[b/_bodily|bodily]] form; [[c/_corporeal|corporeal]] or incarnate.**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[f/_form|form]] of [[b/_body|body]].**
+- **[[h/_having|Having]] a [[b/_bodily|bodily]] [[f/_form|form]]; [[c/_corporeal|corporeal]] or [[i/_incarnate|incarnate]].**
 ---
 #verb
-- **To give [[b/_body|body]] or shape to something.**
+- **To [[g/_give|give]] [[b/_body|body]] or shape to something.**
 - **To [[c/_construct|construct]] the [[b/_bodywork|bodywork]] of a [[c/_car|car]].**
 - **To [[e/_embody|embody]].**
-- **To murder someone.**
-- **(by extension) To utterly [[d/_defeat|defeat]] someone.**
-- **To hard [[c/_counter|counter]] a particular [[c/_character|character]] [[b/_build|build]] or play style. Frequently used in the passive voice form, get [[b/_bodied|bodied]] by.**
+- **To [[m/_murder|murder]] someone.**
+- **(by [[e/_extension|extension]]) To utterly [[d/_defeat|defeat]] someone.**
+- **To [[h/_hard|hard]] [[c/_counter|counter]] a particular [[c/_character|character]] [[b/_build|build]] or play style. [[f/_frequently|Frequently]] used in the passive voice [[f/_form|form]], [[g/_get|get]] [[b/_bodied|bodied]] by.**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A priestess of [[b/_bacchus|Bacchus]]**
-- **A female [[b/_bacchanal|bacchanal]]**
+- **A [[f/_female|female]] [[b/_bacchanal|bacchanal]]**
 ---
 ### Synonyms
 - [[m/_maenad|maenad]]

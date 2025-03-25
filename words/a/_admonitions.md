@@ -1,6 +1,6 @@
 # Admonitions
 ---
 #noun
-- **Gentle or friendly reproof; [[c/_counseling|counseling]] [[a/_against|against]] fault or oversight; warning.**
+- **[[g/_gentle|Gentle]] or [[f/_friendly|friendly]] reproof; [[c/_counseling|counseling]] [[a/_against|against]] [[f/_fault|fault]] or [[o/_oversight|oversight]]; warning.**
 ---
 ---

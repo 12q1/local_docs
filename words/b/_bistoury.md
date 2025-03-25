@@ -1,6 +1,6 @@
 # Bistoury
 ---
 #noun
-- **A narrow-[[b/_bladed|bladed]] surgical knife.**
+- **A [[n/_narrow|narrow]]-[[b/_bladed|bladed]] surgical [[k/_knife|knife]].**
 ---
 ---

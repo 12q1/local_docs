@@ -4,7 +4,7 @@
 - **Something that [[c/_can|can]] or should be [[a/_avoided|avoided]].**
 ---
 #adjective
-- **[[c/_capable|Capable]] of [[b/_being|being]] vacated; liable to be [[a/_annulled|annulled]] or made invalid; voidable.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] vacated; [[l/_liable|liable]] to be [[a/_annulled|annulled]] or [[m/_made|made]] [[i/_invalid|invalid]]; voidable.**
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[a/_avoided|avoided]], shunned, or [[e/_escaped|escaped]].**
 ---
 ### Synonyms

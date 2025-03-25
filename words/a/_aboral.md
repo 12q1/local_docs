@@ -1,6 +1,6 @@
 # Aboral
 ---
 #adjective
-- **Situated opposite to, or [[a/_away|away]] from, the mouth.**
+- **Situated [[o/_opposite|opposite]] to, or [[a/_away|away]] from, the [[m/_mouth|mouth]].**
 ---
 ---

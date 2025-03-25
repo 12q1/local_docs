@@ -1,7 +1,7 @@
 # Aerology
 ---
 #noun
-- **The [[b/_branch|branch]] of meteorology involving the observation of the [[a/_atmosphere|atmosphere]] by means of [[b/_balloons|balloons]], [[a/_airplanes|airplanes]], [[e/_etc|etc]].**
-- **The study of the [[a/_air|air]] and of the [[a/_atmosphere|atmosphere]]. Used in the US Navy until [[e/_early|early]] 1957. The same as meteorology; however, this usage tended to be more [[a/_administrative|administrative]] than scientific.**
+- **The [[b/_branch|branch]] of [[m/_meteorology|meteorology]] [[i/_involving|involving]] the [[o/_observation|observation]] of the [[a/_atmosphere|atmosphere]] by [[m/_means|means]] of [[b/_balloons|balloons]], [[a/_airplanes|airplanes]], [[e/_etc|etc]].**
+- **The study of the [[a/_air|air]] and of the [[a/_atmosphere|atmosphere]]. Used in the US [[n/_navy|Navy]] until [[e/_early|early]] 1957. The same as [[m/_meteorology|meteorology]]; [[h/_however|however]], this usage tended to be [[m/_more|more]] [[a/_administrative|administrative]] than scientific.**
 ---
 ---

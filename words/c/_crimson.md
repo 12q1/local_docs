@@ -8,7 +8,7 @@
 - **To [[d/_dye|dye]] with [[c/_crimson|crimson]] or [[d/_deep|deep]] red; to redden.**
 ---
 #adjective
-- **Having a [[d/_deep|deep]] red [[c/_colour|colour]].**
-- **Immodest.**
+- **[[h/_having|Having]] a [[d/_deep|deep]] red [[c/_colour|colour]].**
+- **[[i/_immodest|Immodest]].**
 ---
 ---

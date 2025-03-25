@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Twelvefold.**
-- **Of the twelfth order.**
+- **Of the twelfth [[o/_order|order]].**
 - **[[d/_duodecimal|Duodecimal]].**
 ---
 ---

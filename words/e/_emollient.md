@@ -1,11 +1,11 @@
 # Emollient
 ---
 #noun
-- **Something which softens or lubricates the skin; moisturizer.**
-- **[[a/_anything|Anything]] soothing the mind, or that makes something more [[a/_acceptable|acceptable]].**
+- **Something which softens or [[l/_lubricates|lubricates]] the skin; [[m/_moisturizer|moisturizer]].**
+- **[[a/_anything|Anything]] soothing the [[m/_mind|mind]], or that [[m/_makes|makes]] something [[m/_more|more]] [[a/_acceptable|acceptable]].**
 ---
 #adjective
-- **Moisturizing.**
-- **Soothing or mollifying.**
+- **[[m/_moisturizing|Moisturizing]].**
+- **Soothing or [[m/_mollifying|mollifying]].**
 ---
 ---

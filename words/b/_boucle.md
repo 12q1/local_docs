@@ -1,7 +1,7 @@
 # Boucle
 ---
 #noun
-- **A fabric knitted or woven of uneven yarn with a surface of loops and [[c/_curls|curls]].**
-- **Yarn with multiple plies, one of which is looser than the others, producing loops and [[c/_curls|curls]].**
+- **A [[f/_fabric|fabric]] [[k/_knitted|knitted]] or woven of uneven [[y/_yarn|yarn]] with a surface of [[l/_loops|loops]] and [[c/_curls|curls]].**
+- **[[y/_yarn|Yarn]] with [[m/_multiple|multiple]] plies, [[o/_one|one]] of which is [[l/_looser|looser]] than the [[o/_others|others]], producing [[l/_loops|loops]] and [[c/_curls|curls]].**
 ---
 ---

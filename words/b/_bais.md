@@ -1,6 +1,6 @@
 # Bais
 ---
 #noun
-- **A marshy meadow.**
+- **A [[m/_marshy|marshy]] [[m/_meadow|meadow]].**
 ---
 ---

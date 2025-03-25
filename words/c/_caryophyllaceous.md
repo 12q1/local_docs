@@ -1,6 +1,6 @@
 # Caryophyllaceous
 ---
 #adjective
-- **Of or pertaining to the pinks (of family [[c/_caryophyllaceae|Caryophyllaceae]]), [[e/_especially|especially]] [[d/_describing|describing]] plants that have their [[d/_distinctive|distinctive]] [[c/_corollas|corollas]]**
+- **Of or pertaining to the pinks (of [[f/_family|family]] [[c/_caryophyllaceae|Caryophyllaceae]]), [[e/_especially|especially]] [[d/_describing|describing]] plants that [[h/_have|have]] their [[d/_distinctive|distinctive]] [[c/_corollas|corollas]]**
 ---
 ---

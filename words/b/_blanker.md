@@ -1,25 +1,25 @@
 # Blanker
 ---
 #adjective
-- **White or pale; without [[c/_colour|colour]].**
-- **Free from writing, printing, or marks; having an [[e/_empty|empty]] space to be filled in**
+- **White or [[p/_pale|pale]]; without [[c/_colour|colour]].**
+- **[[f/_free|Free]] from writing, printing, or [[m/_marks|marks]]; [[h/_having|having]] an [[e/_empty|empty]] space to be [[f/_filled|filled]] in**
 	- _Example: a blank ballot_
-- **Scoreless; without [[a/_any|any]] goals or points.**
-- **Lacking [[c/_characteristics|characteristics]] which give variety; uniform.**
+- **Scoreless; without [[a/_any|any]] [[g/_goals|goals]] or points.**
+- **[[l/_lacking|Lacking]] [[c/_characteristics|characteristics]] which [[g/_give|give]] variety; uniform.**
 	- _Example: a blank desert; a blank wall; blank unconsciousness_
 - **[[a/_absolute|Absolute]]; [[d/_downright|downright]]; sheer.**
 	- _Example: There was a look of blank terror on his face._
-- **Without expression.**
+- **Without [[e/_expression|expression]].**
 	- _Example: Failing to understand the question, he gave me a blank stare._
 - **Utterly [[c/_confounded|confounded]] or [[d/_discomfited|discomfited]].**
-- **[[e/_empty|Empty]]; void; without result; fruitless.**
+- **[[e/_empty|Empty]]; void; without result; [[f/_fruitless|fruitless]].**
 	- _Example: a blank day_
-- **[[d/_devoid|Devoid]] of thoughts, memory, or inspiration.**
+- **[[d/_devoid|Devoid]] of thoughts, [[m/_memory|memory]], or [[i/_inspiration|inspiration]].**
 	- _Example: The shock left his memory blank._
-- **Of [[a/_ammunition|ammunition]]: having propellant but no [[b/_bullets|bullets]]; unbulleted.**
+- **Of [[a/_ammunition|ammunition]]: [[h/_having|having]] propellant but [[n/_no|no]] [[b/_bullets|bullets]]; unbulleted.**
 	- _Example: The recruits were issued with blank rounds for a training exercise._
 ---
 #noun
-- **An [[e/_early|early]] form of screensaver that [[b/_blanked|blanked]] out the screen [[d/_display|display]] when it was not in use.**
+- **An [[e/_early|early]] [[f/_form|form]] of screensaver that [[b/_blanked|blanked]] [[o/_out|out]] the screen [[d/_display|display]] when it was not in use.**
 ---
 ---

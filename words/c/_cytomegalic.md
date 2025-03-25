@@ -1,6 +1,6 @@
 # Cytomegalic
 ---
 #adjective
-- **Relating to or exhibiting cytomegaly.**
+- **Relating to or [[e/_exhibiting|exhibiting]] cytomegaly.**
 ---
 ---

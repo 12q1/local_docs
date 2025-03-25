@@ -1,6 +1,6 @@
 # Damnum
 ---
 #noun
-- **Harm; [[d/_detriment|detriment]]**
+- **[[h/_harm|Harm]]; [[d/_detriment|detriment]]**
 ---
 ---

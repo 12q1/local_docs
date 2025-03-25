@@ -1,7 +1,7 @@
 # Anecdotally
 ---
 #adverb
-- **In an [[a/_anecdotal|anecdotal]] manner; by means of a recounted incident.**
+- **In an [[a/_anecdotal|anecdotal]] [[m/_manner|manner]]; by [[m/_means|means]] of a recounted [[i/_incident|incident]].**
 	- _Example: As it was an informal hearing, the evidence was presented anecdotally._
 ---
 ---

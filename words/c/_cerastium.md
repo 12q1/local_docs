@@ -1,6 +1,6 @@
 # Cerastium
 ---
 #noun
-- **[[a/_any|Any]] of several plants of the genus [[c/_cerastium|Cerastium]], such as mouse-[[e/_eared|eared]] [[c/_chickweed|chickweed]]**
+- **[[a/_any|Any]] of several plants of the [[g/_genus|genus]] [[c/_cerastium|Cerastium]], such as [[m/_mouse|mouse]]-[[e/_eared|eared]] [[c/_chickweed|chickweed]]**
 ---
 ---

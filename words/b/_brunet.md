@@ -1,10 +1,10 @@
 # Brunet
 ---
 #noun
-- **A man or [[b/_boy|boy]] with [[b/_brown|brown]] or [[b/_black|black]] hair.**
+- **A [[m/_man|man]] or [[b/_boy|boy]] with [[b/_brown|brown]] or [[b/_black|black]] [[h/_hair|hair]].**
 ---
 #adjective
-- **Of a man's or [[b/_boy|boy]]'s hair: [[b/_brown|brown]] or [[b/_black|black]].**
-- **Of a man or [[b/_boy|boy]], having [[b/_brown|brown]] or [[b/_black|black]] hair.**
+- **Of a [[m/_man|man]]'s or [[b/_boy|boy]]'s [[h/_hair|hair]]: [[b/_brown|brown]] or [[b/_black|black]].**
+- **Of a [[m/_man|man]] or [[b/_boy|boy]], [[h/_having|having]] [[b/_brown|brown]] or [[b/_black|black]] [[h/_hair|hair]].**
 ---
 ---

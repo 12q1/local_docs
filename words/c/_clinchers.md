@@ -1,8 +1,8 @@
 # Clinchers
 ---
 #noun
-- **That which [[c/_clinches|clinches]]; that which makes something final or firm.**
+- **That which [[c/_clinches|clinches]]; that which [[m/_makes|makes]] something [[f/_final|final]] or [[f/_firm|firm]].**
 	- _Example: The clincher was that we couldn't wait any longer to leave, or it would get dark._
-- **A tyre with a [[b/_bead|bead]] [[a/_around|around]] the [[e/_edge|edge]] to [[a/_attach|attach]] to the rim of the wheel when inflated.**
+- **A tyre with a [[b/_bead|bead]] [[a/_around|around]] the [[e/_edge|edge]] to [[a/_attach|attach]] to the rim of the wheel when [[i/_inflated|inflated]].**
 ---
 ---

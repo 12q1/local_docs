@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Of or relating to [[a/_autumn|autumn]].**
-- **Past the middle of life; in the third stage.**
+- **Past the [[m/_middle|middle]] of [[l/_life|life]]; in the third stage.**
 ---
 ---

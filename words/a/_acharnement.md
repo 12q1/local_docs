@@ -1,6 +1,6 @@
 # Acharnement
 ---
 #noun
-- **Savage fierceness; ferocity.**
+- **Savage [[f/_fierceness|fierceness]]; [[f/_ferocity|ferocity]].**
 ---
 ---

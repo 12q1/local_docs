@@ -1,0 +1,47 @@
+# Hand
+---
+#noun
+- **The part of the [[f/_forelimb|forelimb]] [[b/_below|below]] the [[f/_forearm|forearm]] or wrist in a [[h/_human|human]], and the [[c/_corresponding|corresponding]] part in [[m/_many|many]] [[o/_other|other]] [[a/_animals|animals]].**
+	- _Example: Her hands are really strong._
+- **That which resembles, or to some [[e/_extent|extent]] performs the [[o/_office|office]] of, a [[h/_human|human]] [[h/_hand|hand]].**
+- **In [[l/_linear|linear]] [[m/_measurement|measurement]]:**
+- **A side; part, [[c/_camp|camp]]; [[d/_direction|direction]], [[e/_either|either]] right or [[l/_left|left]].**
+- **Power of performance; [[m/_means|means]] of [[e/_execution|execution]]; [[a/_ability|ability]]; skill; [[d/_dexterity|dexterity]].**
+- **An [[a/_agent|agent]]; a servant, or [[m/_manual|manual]] [[l/_laborer|laborer]], [[e/_especially|especially]] in [[c/_compounds|compounds]]; a workman, trained or [[c/_competent|competent]] for special service or [[d/_duty|duty]]; a performer [[m/_more|more]] or [[l/_less|less]] skillful.**
+	- _Example: an old hand at speaking;  large farms need many farm hands_
+- **An [[i/_instance|instance]] of [[h/_helping|helping]].**
+	- _Example: Bob gave Alice a hand to move the furniture._
+- **[[h/_handwriting|Handwriting]]; style of penmanship.**
+	- _Example: a good hand_
+- **A person's [[a/_autograph|autograph]] or signature.**
+	- _Example: Given under my Hand and Seal of the State this 1st Day of January, 2010._
+- **Personal possession; [[o/_ownership|ownership]].**
+- **(usually in the plural, [[h/_hands|hands]]) [[m/_management|Management]], [[d/_domain|domain]], [[c/_control|control]].**
+	- _Example: in safe hands;  in good hands;  He lost his job when the factory changed hands.  With the business back in the founder's hands, there is new hope for the company.  With John in charge of the project, it's in good hands._
+- **That which is, or [[m/_may|may]] be, [[h/_held|held]] in a [[h/_hand|hand]] at [[o/_once|once]].**
+- **[[a/_applause|Applause]].**
+	- _Example: Give him a hand._
+- **A [[n/_native|Native]] [[a/_american|American]] [[g/_gambling|gambling]] [[g/_game|game]], [[i/_involving|involving]] [[g/_guessing|guessing]] the whereabouts of [[b/_bits|bits]] of [[i/_ivory|ivory]] or similar, which are passed rapidly from [[h/_hand|hand]] to [[h/_hand|hand]].**
+- **The small part of a [[g/_gunstock|gunstock]] [[n/_near|near]] the [[l/_lock|lock]], which is [[g/_grasped|grasped]] by the [[h/_hand|hand]] in taking [[a/_aim|aim]].**
+- **A whole rhizome of [[g/_ginger|ginger]].**
+- **The [[f/_feel|feel]] of a [[f/_fabric|fabric]]; the [[i/_impression|impression]] or quality of the [[f/_fabric|fabric]] as [[j/_judged|judged]] qualitatively by the sense of touch.**
+	- _Example: This fabric has a smooth, soft hand._
+- **[[a/_actual|Actual]] performance; [[d/_deed|deed]]; [[a/_act|act]]; workmanship; [[a/_agency|agency]]; [[h/_hence|hence]], [[m/_manner|manner]] of performance.**
+- **[[a/_agency|Agency]] in transmission from [[o/_one|one]] person to [[a/_another|another]].**
+	- _Example: to buy at first hand (from the producer, or when new);  to buy at second hand (when no longer in the producer’s hand, or when not new);  It's not a rumor. I heard it at first hand._
+- **Rate; price.**
+---
+### Synonyms
+- [[m/_manus|manus]], [[p/_paw|paw]]
+#verb
+- **To [[g/_give|give]], pass, or transmit with the [[h/_hand|hand]], [[l/_literally|literally]] or [[f/_figuratively|figuratively]].**
+	- _Example: He handed them the letter.   She handed responsibility over to her deputy._
+- **To [[l/_lead|lead]], [[g/_guide|guide]], or [[a/_assist|assist]] with the [[h/_hand|hand]]; to [[c/_conduct|conduct]].**
+	- _Example: to hand a lady into a carriage_
+- **To [[m/_manage|manage]].**
+- **To seize; to [[l/_lay|lay]] [[h/_hands|hands]] on.**
+- **To pledge by the [[h/_hand|hand]]; to [[h/_handfast|handfast]].**
+- **(said of a sail) To [[f/_furl|furl]].**
+- **To [[c/_cooperate|cooperate]].**
+---
+---

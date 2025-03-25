@@ -2,7 +2,7 @@
 ---
 #noun
 - **A state of [[d/_discord|discord]].**
-- **Lack of harmony; [[d/_dissonance|dissonance]].**
-- **The presence of a specific genetic trait in only one of a set of [[c/_clones|clones]] (or identical twins).**
+- **[[l/_lack|Lack]] of [[h/_harmony|harmony]]; [[d/_dissonance|dissonance]].**
+- **The presence of a specific [[g/_genetic|genetic]] trait in [[o/_only|only]] [[o/_one|one]] of a set of [[c/_clones|clones]] (or [[i/_identical|identical]] twins).**
 ---
 ---

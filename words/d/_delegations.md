@@ -2,8 +2,8 @@
 ---
 #noun
 - **An [[a/_act|act]] of [[d/_delegating|delegating]].**
-- **A group of [[d/_delegates|delegates]] used to [[d/_discuss|discuss]] issues with an opponent.**
-- **A method-[[d/_dispatching|dispatching]] technique [[d/_describing|describing]] the lookup and inheritance rules for self-referential [[c/_calls|calls]].**
-- **A [[c/_contract|contract]] whereby the original [[d/_debtor|debtor]] substitutes a new [[d/_debtor|debtor]] in his stead, with the [[c/_creditor|creditor]]’s permission.**
+- **A [[g/_group|group]] of [[d/_delegates|delegates]] used to [[d/_discuss|discuss]] [[i/_issues|issues]] with an [[o/_opponent|opponent]].**
+- **A [[m/_method|method]]-[[d/_dispatching|dispatching]] technique [[d/_describing|describing]] the [[l/_lookup|lookup]] and [[i/_inheritance|inheritance]] rules for self-referential [[c/_calls|calls]].**
+- **A [[c/_contract|contract]] whereby the [[o/_original|original]] [[d/_debtor|debtor]] substitutes a [[n/_new|new]] [[d/_debtor|debtor]] in [[h/_his|his]] stead, with the [[c/_creditor|creditor]]’s permission.**
 ---
 ---

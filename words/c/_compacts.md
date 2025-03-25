@@ -6,12 +6,12 @@
 ### Synonyms
 - [[a/_agreement|agreement]], [[c/_contract|contract]], [[p/_pact|pact]], [[t/_treaty|treaty]]
 #noun
-- **A small, slim folding [[c/_case|case]], often featuring a mirror, powder and a powderpuff; that fits into a woman's purse or handbag, or that slips into one's pocket.**
-- **A [[b/_broadsheet|broadsheet]] newspaper published in the size of a tabloid but keeping its non-sensational style.**
+- **A small, slim [[f/_folding|folding]] [[c/_case|case]], [[o/_often|often]] [[f/_featuring|featuring]] a [[m/_mirror|mirror]], powder and a powderpuff; that [[f/_fits|fits]] [[i/_into|into]] a woman's purse or [[h/_handbag|handbag]], or that slips [[i/_into|into]] [[o/_one|one]]'s pocket.**
+- **A [[b/_broadsheet|broadsheet]] [[n/_newspaper|newspaper]] published in the size of a tabloid but [[k/_keeping|keeping]] [[i/_its|its]] [[n/_non|non]]-sensational style.**
 ---
 #verb
-- **To make more [[d/_dense|dense]]; to [[c/_compress|compress]].**
-- **To unite or [[c/_connect|connect]] firmly, as in a system.**
+- **To [[m/_make|make]] [[m/_more|more]] [[d/_dense|dense]]; to [[c/_compress|compress]].**
+- **To unite or [[c/_connect|connect]] [[f/_firmly|firmly]], as in a system.**
 ---
 ### Synonyms
 - [[c/_compress|compress]], [[c/_condense|condense]]

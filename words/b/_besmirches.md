@@ -1,7 +1,7 @@
 # Besmirches
 ---
 #verb
-- **To make [[d/_dirty|dirty]].**
+- **To [[m/_make|make]] [[d/_dirty|dirty]].**
 - **To tarnish something, [[e/_especially|especially]] someone's reputation.**
 	- _Example: The newspaper was on a campaign to besmirch the actor._
 ---

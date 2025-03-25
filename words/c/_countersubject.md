@@ -1,6 +1,6 @@
 # Countersubject
 ---
 #noun
-- **The secondary melody in [[c/_contrapuntal|contrapuntal]] music**
+- **The secondary [[m/_melody|melody]] in [[c/_contrapuntal|contrapuntal]] [[m/_music|music]]**
 ---
 ---

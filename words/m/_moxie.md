@@ -1,0 +1,10 @@
+# Moxie
+---
+#noun
+- **[[n/_nerve|Nerve]], spunk, strength of [[c/_character|character]].**
+- **Verve.**
+- **Wit, smarts, skill.**
+---
+### Synonyms
+- [[b/_backbone|backbone]], [[d/_determination|determination]], [[f/_fortitude|fortitude]], [[s/_spirit|spirit]], [[e/_energy|energy]], [[i/_initiative|initiative]], [[p/_pep|pep]], [[v/_vigor|vigor]], [[k/_know-how|know-how]]
+---

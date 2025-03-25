@@ -1,6 +1,6 @@
 # Eighteenmo
 ---
 #noun
-- **Octodecimo (as a paper size in printing).**
+- **[[o/_octodecimo|Octodecimo]] (as a paper size in printing).**
 ---
 ---

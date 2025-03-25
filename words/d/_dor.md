@@ -1,7 +1,7 @@
 # Dor
 ---
 #noun
-- **A large European [[d/_dung|dung]] [[b/_beetle|beetle]], Geotrupes stercorarius, that makes a [[d/_droning|droning]] noise while flying**
-- **[[a/_any|Any]] flying insect which makes a loud humming noise, such as the June [[b/_bug|bug]] or a [[b/_bumblebee|bumblebee]]**
+- **A [[l/_large|large]] [[e/_european|European]] [[d/_dung|dung]] [[b/_beetle|beetle]], Geotrupes stercorarius, that [[m/_makes|makes]] a [[d/_droning|droning]] [[n/_noise|noise]] while [[f/_flying|flying]]**
+- **[[a/_any|Any]] [[f/_flying|flying]] [[i/_insect|insect]] which [[m/_makes|makes]] a [[l/_loud|loud]] [[h/_humming|humming]] [[n/_noise|noise]], such as the [[j/_june|June]] [[b/_bug|bug]] or a [[b/_bumblebee|bumblebee]]**
 ---
 ---

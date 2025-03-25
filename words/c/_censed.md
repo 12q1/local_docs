@@ -1,6 +1,6 @@
 # Censed
 ---
 #verb
-- **To perfume with incense.**
+- **To perfume with [[i/_incense|incense]].**
 ---
 ---

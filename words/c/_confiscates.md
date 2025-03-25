@@ -1,7 +1,7 @@
 # Confiscates
 ---
 #verb
-- **To use one's [[a/_authority|authority]] to lay [[c/_claim|claim]] to and separate a possession from its holder.**
+- **To use [[o/_one|one]]'s [[a/_authority|authority]] to [[l/_lay|lay]] [[c/_claim|claim]] to and separate a possession from [[i/_its|its]] [[h/_holder|holder]].**
 	- _Example: In schools it is common for teachers to confiscate electronic games and other distractions._
 ---
 ### Synonyms

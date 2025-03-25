@@ -1,6 +1,6 @@
 # Charbroiling
 ---
 #verb
-- **To [[c/_cook|cook]] on a flat, lined metal surface that is heated from [[b/_below|below]]; to chargrill.**
+- **To [[c/_cook|cook]] on a [[f/_flat|flat]], [[l/_lined|lined]] [[m/_metal|metal]] surface that is [[h/_heated|heated]] from [[b/_below|below]]; to chargrill.**
 ---
 ---

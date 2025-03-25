@@ -1,6 +1,6 @@
 # Aquanaut
 ---
 #noun
-- **An underwater explorer.**
+- **An underwater [[e/_explorer|explorer]].**
 ---
 ---

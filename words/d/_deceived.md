@@ -1,6 +1,6 @@
 # Deceived
 ---
 #verb
-- **To trick or mislead.**
+- **To trick or [[m/_mislead|mislead]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Boutiques
 ---
 #noun
-- **A small shop, [[e/_especially|especially]] one that sells fashionable [[c/_clothes|clothes]], jewelry and the like.**
-- **A small shop located within a larger one.**
-- **A film production [[c/_company|company]] making only a few movies per year.**
+- **A small shop, [[e/_especially|especially]] [[o/_one|one]] that sells [[f/_fashionable|fashionable]] [[c/_clothes|clothes]], [[j/_jewelry|jewelry]] and the [[l/_like|like]].**
+- **A small shop [[l/_located|located]] within a [[l/_larger|larger]] [[o/_one|one]].**
+- **A [[f/_film|film]] production [[c/_company|company]] [[m/_making|making]] [[o/_only|only]] a [[f/_few|few]] [[m/_movies|movies]] per [[y/_year|year]].**
 ---
 ---

@@ -8,6 +8,6 @@
 ### Synonyms
 - [[c/_clerkish|clerkish]], [[c/_clerky|clerky]]
 #adverb
-- **In a scholarly manner.**
+- **In a scholarly [[m/_manner|manner]].**
 ---
 ---

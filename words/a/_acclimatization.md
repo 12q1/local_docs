@@ -1,7 +1,7 @@
 # Acclimatization
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_acclimatizing|acclimatizing]]; the process of inuring to a new [[c/_climate|climate]], or the state of [[b/_being|being]] so inured.**
-- **The [[c/_climatic|climatic]] [[a/_adaptation|adaptation]] of an organism that has [[b/_been|been]] moved to a new [[e/_environment|environment]].**
+- **The [[a/_act|act]] of [[a/_acclimatizing|acclimatizing]]; the process of [[i/_inuring|inuring]] to a [[n/_new|new]] [[c/_climate|climate]], or the state of [[b/_being|being]] so [[i/_inured|inured]].**
+- **The [[c/_climatic|climatic]] [[a/_adaptation|adaptation]] of an [[o/_organism|organism]] that [[h/_has|has]] [[b/_been|been]] [[m/_moved|moved]] to a [[n/_new|new]] [[e/_environment|environment]].**
 ---
 ---

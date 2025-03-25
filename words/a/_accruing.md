@@ -1,9 +1,9 @@
 # Accruing
 ---
 #verb
-- **To increase, to rise**
-- **To reach or [[c/_come|come]] to by way of increase; to [[a/_arise|arise]] or spring up [[b/_because|because]] of growth or result, [[e/_especially|especially]] as the produce of money lent.**
-- **To be incurred as a result of the passage of time.**
+- **To [[i/_increase|increase]], to rise**
+- **To reach or [[c/_come|come]] to by way of [[i/_increase|increase]]; to [[a/_arise|arise]] or spring up [[b/_because|because]] of [[g/_growth|growth]] or result, [[e/_especially|especially]] as the produce of [[m/_money|money]] [[l/_lent|lent]].**
+- **To be [[i/_incurred|incurred]] as a result of the passage of time.**
 	- _Example: The monthly financial statements show all the actual but only some of the accrued expenses._
 - **To [[a/_accumulate|accumulate]]**
 	- _Example: He has accrued nine sick days._

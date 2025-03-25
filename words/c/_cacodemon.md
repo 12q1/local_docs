@@ -1,8 +1,8 @@
 # Cacodemon
 ---
 #noun
-- **An evil or malevolent spirit.**
-- **The twelfth [[a/_astrological|astrological]] House, from which only evil prognostics are [[a/_alleged|alleged]] to proceed.**
+- **An [[e/_evil|evil]] or [[m/_malevolent|malevolent]] spirit.**
+- **The twelfth [[a/_astrological|astrological]] [[h/_house|House]], from which [[o/_only|only]] [[e/_evil|evil]] prognostics are [[a/_alleged|alleged]] to proceed.**
 ---
 ### Antonyms
 - [[a/_agathodemon|agathodemon]]

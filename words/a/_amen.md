@@ -1,8 +1,8 @@
 # Amen
 ---
 #noun
-- **An instance of saying ‘[[a/_amen|amen]]’.**
-- **A title of [[c/_christ|Christ]]; the Faithful One ([[e/_especially|especially]] with reference to Revelation 3:14)**
+- **An [[i/_instance|instance]] of saying ‘[[a/_amen|amen]]’.**
+- **A title of [[c/_christ|Christ]]; the [[f/_faithful|Faithful]] [[o/_one|One]] ([[e/_especially|especially]] with reference to Revelation 3:14)**
 ---
 #verb
 - **To say [[a/_amen|amen]].**
@@ -10,9 +10,9 @@
 ---
 #adverb
 - **At the [[e/_end|end]] of religious prayers: so be it.**
-- **In many [[a/_abrahamic|Abrahamic]] religious texts and [[c/_creeds|creeds]]: truly, verily.**
+- **In [[m/_many|many]] [[a/_abrahamic|Abrahamic]] religious texts and [[c/_creeds|creeds]]: truly, verily.**
 ---
 #interjection
-- **An expression of strong [[a/_agreement|agreement]]. Often, though [[d/_dated|dated]], in the phrase "[[a/_amen|Amen]] to that".**
+- **An [[e/_expression|expression]] of strong [[a/_agreement|agreement]]. [[o/_often|Often]], though [[d/_dated|dated]], in the phrase "[[a/_amen|Amen]] to that".**
 ---
 ---

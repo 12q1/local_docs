@@ -4,6 +4,6 @@
 - **To [[b/_brace|brace]], reinforce, secure, or support.**
 ---
 #adjective
-- **Padded**
+- **[[p/_padded|Padded]]**
 ---
 ---

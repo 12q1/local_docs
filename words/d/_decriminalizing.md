@@ -1,7 +1,7 @@
 # Decriminalizing
 ---
 #verb
-- **To [[c/_change|change]] the laws so something is no longer a [[c/_crime|crime]].**
+- **To [[c/_change|change]] the [[l/_laws|laws]] so something is [[n/_no|no]] [[l/_longer|longer]] a [[c/_crime|crime]].**
 ---
 ### Synonyms
 - [[l/_legalize|legalize]]

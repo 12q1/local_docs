@@ -1,13 +1,13 @@
 # Cutest
 ---
 #adjective
-- **Possessing physical features, [[b/_behaviors|behaviors]], personality traits or other properties that are mainly [[a/_attributed|attributed]] to infants and small or [[c/_cuddly|cuddly]] [[a/_animals|animals]]; [[e/_e|e]].g. fair, [[d/_dainty|dainty]], round, and soft physical features, [[d/_disproportionately|disproportionately]] large [[e/_eyes|eyes]] and head, playfulness, fragility, helplessness, [[c/_curiosity|curiosity]] or shyness, innocence, [[a/_affectionate|affectionate]] [[b/_behavior|behavior]].**
+- **Possessing physical [[f/_features|features]], [[b/_behaviors|behaviors]], personality traits or [[o/_other|other]] properties that are [[m/_mainly|mainly]] [[a/_attributed|attributed]] to [[i/_infants|infants]] and small or [[c/_cuddly|cuddly]] [[a/_animals|animals]]; [[e/_e|e]].[[g/_g|g]]. [[f/_fair|fair]], [[d/_dainty|dainty]], round, and soft physical [[f/_features|features]], [[d/_disproportionately|disproportionately]] [[l/_large|large]] [[e/_eyes|eyes]] and [[h/_head|head]], playfulness, [[f/_fragility|fragility]], [[h/_helplessness|helplessness]], [[c/_curiosity|curiosity]] or shyness, [[i/_innocence|innocence]], [[a/_affectionate|affectionate]] [[b/_behavior|behavior]].**
 	- _Example: Our reaction to cute attributes is understood as the way nature ensures mammals care for their young._
-- **Generally, [[a/_attractive|attractive]] or pleasing, [[e/_especially|especially]] in a youthful, [[d/_dainty|dainty]], quaint or fun-spirited way.**
+- **[[g/_generally|Generally]], [[a/_attractive|attractive]] or pleasing, [[e/_especially|especially]] in a [[y/_youthful|youthful]], [[d/_dainty|dainty]], quaint or [[f/_fun|fun]]-spirited way.**
 	- _Example: Let's go to the mall and look for cute girls._
-- **[[a/_affected|Affected]] or [[c/_contrived|contrived]] to [[c/_charm|charm]]; mincingly [[c/_clever|clever]]; precious; [[c/_cutesy|cutesy]].**
+- **[[a/_affected|Affected]] or [[c/_contrived|contrived]] to [[c/_charm|charm]]; [[m/_mincingly|mincingly]] [[c/_clever|clever]]; precious; [[c/_cutesy|cutesy]].**
 	- _Example: Don't get cute with me, boy!_
-- **Mentally keen or [[d/_discerning|discerning]] (See [[a/_also|also]] [[a/_acute|acute]])**
+- **[[m/_mentally|Mentally]] [[k/_keen|keen]] or [[d/_discerning|discerning]] (See [[a/_also|also]] [[a/_acute|acute]])**
 	- _Example: Cute trick, but can you do it consistently?_
 ---
 ### Synonyms

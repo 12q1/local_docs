@@ -1,8 +1,8 @@
 # Catlike
 ---
 #adjective
-- **Resembling a [[c/_cat|cat]]; feline**
-- **Nimble, quick, graceful**
+- **Resembling a [[c/_cat|cat]]; [[f/_feline|feline]]**
+- **[[n/_nimble|Nimble]], quick, [[g/_graceful|graceful]]**
 - **Slow, [[d/_deliberate|deliberate]], quiet and stealthy**
 ---
 ### Synonyms

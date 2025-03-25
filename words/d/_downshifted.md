@@ -1,9 +1,9 @@
 # Downshifted
 ---
 #verb
-- **To shift a transmission into a lower gear.**
-- **To function at a lower rate.**
-- **To make less [[c/_controversial|controversial]] or risky.**
+- **To shift a transmission [[i/_into|into]] a [[l/_lower|lower]] [[g/_gear|gear]].**
+- **To [[f/_function|function]] at a [[l/_lower|lower]] rate.**
+- **To [[m/_make|make]] [[l/_less|less]] [[c/_controversial|controversial]] or risky.**
 ---
 ### Antonyms
 - [[u/_upshift|upshift]]

@@ -1,17 +1,17 @@
 # Adjusted
 ---
 #verb
-- **To modify.**
+- **To [[m/_modify|modify]].**
 	- _Example: Morimoto's recipes are adjusted to suit the American palate._
-- **To improve or rectify.**
+- **To [[i/_improve|improve]] or rectify.**
 	- _Example: He adjusted his initial conclusion to reflect the new data._
-- **To settle an insurance [[c/_claim|claim]].**
-- **To [[c/_change|change]] to fit [[c/_circumstances|circumstances]].**
+- **To settle an [[i/_insurance|insurance]] [[c/_claim|claim]].**
+- **To [[c/_change|change]] to [[f/_fit|fit]] [[c/_circumstances|circumstances]].**
 	- _Example: Most immigrants adjust quickly to a new community.   She waited for her eyes to adjust to the darkness._
 ---
 ### Synonyms
 - [[c/_change|change]], [[e/_edit|edit]], [[m/_modify|modify]], [[s/_set|set]]
 #adjective
-- **Which has [[b/_been|been]] [[c/_compensated|compensated]] in order to [[a/_avoid|avoid]] [[b/_bias|bias]].**
+- **Which [[h/_has|has]] [[b/_been|been]] [[c/_compensated|compensated]] in [[o/_order|order]] to [[a/_avoid|avoid]] [[b/_bias|bias]].**
 ---
 ---

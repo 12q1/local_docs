@@ -1,8 +1,8 @@
 # Antipathies
 ---
 #noun
-- **A feeling of [[d/_dislike|dislike]] (normally towards someone, less often towards something); repugnance or [[d/_distaste|distaste]].**
-- **Natural [[c/_contrariety|contrariety]] or incompatibility**
+- **A [[f/_feeling|feeling]] of [[d/_dislike|dislike]] ([[n/_normally|normally]] towards someone, [[l/_less|less]] [[o/_often|often]] towards something); repugnance or [[d/_distaste|distaste]].**
+- **[[n/_natural|Natural]] [[c/_contrariety|contrariety]] or [[i/_incompatibility|incompatibility]]**
 	- _Example: oil and water have antipathy_
 ---
 ### Synonyms

@@ -1,12 +1,12 @@
 # Affluence
 ---
 #noun
-- **An [[a/_abundant|abundant]] flow or supply.**
+- **An [[a/_abundant|abundant]] [[f/_flow|flow]] or supply.**
 - **An [[a/_abundance|abundance]] of wealth.**
 	- _Example: His affluence was surpassed by no man._
-- **A moderate level of wealth.**
+- **A [[m/_moderate|moderate]] [[l/_level|level]] of wealth.**
 	- _Example: They had achieved affluence, but aspired to true wealth._
-- **An influx.**
+- **An [[i/_influx|influx]].**
 ---
 ### Synonyms
 - [[r/_richdom|richdom]]

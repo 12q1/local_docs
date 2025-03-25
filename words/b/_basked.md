@@ -1,9 +1,9 @@
 # Basked
 ---
 #verb
-- **To [[b/_bathe|bathe]] in warmth; to be exposed to pleasant heat.**
+- **To [[b/_bathe|bathe]] in warmth; to be [[e/_exposed|exposed]] to pleasant [[h/_heat|heat]].**
 	- _Example: to bask in the sun_
-- **To take great pleasure or satisfaction; to feel warmth or happiness. (This verb is usually followed by "in").**
+- **To take [[g/_great|great]] pleasure or satisfaction; to [[f/_feel|feel]] warmth or [[h/_happiness|happiness]]. (This verb is usually [[f/_followed|followed]] by "in").**
 	- _Example: I basked in her love._
 ---
 ---

@@ -1,8 +1,8 @@
 # Conjectured
 ---
 #verb
-- **To guess; to venture an unproven idea.**
+- **To [[g/_guess|guess]]; to venture an unproven [[i/_idea|idea]].**
 	- _Example: I do not know if it is true; I am simply conjecturing here._
-- **To infer on slight evidence; to guess at.**
+- **To [[i/_infer|infer]] on slight [[e/_evidence|evidence]]; to [[g/_guess|guess]] at.**
 ---
 ---

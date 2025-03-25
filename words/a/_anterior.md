@@ -3,7 +3,7 @@
 #adjective
 - **[[b/_before|Before]] in place.**
 - **[[b/_before|Before]] or [[e/_earlier|earlier]] in time; prior to; preceding.**
-- **Nearer the forward [[e/_end|end]]; nearer the head of an [[a/_animal|animal]] or the front of a human.**
+- **[[n/_nearer|Nearer]] the [[f/_forward|forward]] [[e/_end|end]]; [[n/_nearer|nearer]] the [[h/_head|head]] of an [[a/_animal|animal]] or the [[f/_front|front]] of a [[h/_human|human]].**
 ---
 ### Antonyms
 - [[p/_posterior|posterior]], [[p/_posterior|posterior]]

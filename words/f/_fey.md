@@ -1,0 +1,11 @@
+# Fey
+---
+#adjective
+- **[[a/_about|About]] to [[d/_die|die]]; [[d/_doomed|doomed]]; on the verge of sudden or violent [[d/_death|death]].**
+- **[[d/_dying|Dying]]; [[d/_dead|dead]].**
+- **Possessing second sight, [[c/_clairvoyance|clairvoyance]], or [[c/_clairaudience|clairaudience]].**
+- **[[o/_overrefined|Overrefined]], [[a/_affected|affected]].**
+- **Strange or [[o/_otherworldly|otherworldly]].**
+- **Spellbound.**
+---
+---

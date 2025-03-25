@@ -1,11 +1,11 @@
 # Complimentary
 ---
 #adjective
-- **In the nature of a [[c/_compliment|compliment]].**
+- **In the [[n/_nature|nature]] of a [[c/_compliment|compliment]].**
 	- _Example: a complimentary remark_
-- **Free; provided at no [[c/_charge|charge]].**
+- **[[f/_free|Free]]; provided at [[n/_no|no]] [[c/_charge|charge]].**
 	- _Example: complimentary drinks_
-- **With respect to the [[c/_closing|closing]] of a letter, formal and professional.**
+- **With respect to the [[c/_closing|closing]] of a [[l/_letter|letter]], [[f/_formal|formal]] and professional.**
 ---
 ### Synonyms
 - 

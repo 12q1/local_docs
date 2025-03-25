@@ -1,30 +1,30 @@
 # Dings
 ---
 #noun
-- **Very minor [[d/_damage|damage]], a small [[d/_dent|dent]] or [[c/_chip|chip]].**
+- **Very [[m/_minor|minor]] [[d/_damage|damage]], a small [[d/_dent|dent]] or [[c/_chip|chip]].**
 - **A rejection.**
 	- _Example: I just got my first ding letter._
 ---
 #verb
-- **To hit or strike.**
+- **To [[h/_hit|hit]] or strike.**
 - **To [[d/_dash|dash]]; to throw violently.**
-- **To inflict minor [[d/_damage|damage]] upon, [[e/_especially|especially]] by hitting or striking.**
-- **To fire or reject.**
+- **To [[i/_inflict|inflict]] [[m/_minor|minor]] [[d/_damage|damage]] upon, [[e/_especially|especially]] by [[h/_hitting|hitting]] or striking.**
+- **To [[f/_fire|fire]] or reject.**
 	- _Example: His top school dinged him last week._
-- **To [[d/_deduct|deduct]], as points, from [[a/_another|another]], in the manner of a penalty; to penalize.**
+- **To [[d/_deduct|deduct]], as points, from [[a/_another|another]], in the [[m/_manner|manner]] of a penalty; to penalize.**
 	- _Example: My bank dinged me three bucks for using their competitor's ATM._
-- **To mishit (a golf [[b/_ball|ball]]).**
+- **To [[m/_mishit|mishit]] (a [[g/_golf|golf]] [[b/_ball|ball]]).**
 ---
 #noun
-- **The high-pitched resonant sound of a [[b/_bell|bell]].**
-- **The [[a/_act|act]] of levelling up.**
+- **The [[h/_high|high]]-pitched resonant sound of a [[b/_bell|bell]].**
+- **The [[a/_act|act]] of [[l/_levelling|levelling]] up.**
 ---
 #verb
-- **To make high-pitched sound like a [[b/_bell|bell]].**
-- **To keep repeating; impress by reiteration, with reference to the monotonous striking of a [[b/_bell|bell]].**
-- **To level up.**
+- **To [[m/_make|make]] [[h/_high|high]]-pitched sound [[l/_like|like]] a [[b/_bell|bell]].**
+- **To [[k/_keep|keep]] repeating; [[i/_impress|impress]] by reiteration, with reference to the [[m/_monotonous|monotonous]] striking of a [[b/_bell|bell]].**
+- **To [[l/_level|level]] up.**
 ---
 #noun
-- **An [[a/_ancient|ancient]] [[c/_chinese|Chinese]] vessel with legs and a lid.**
+- **An [[a/_ancient|ancient]] [[c/_chinese|Chinese]] vessel with [[l/_legs|legs]] and a [[l/_lid|lid]].**
 ---
 ---

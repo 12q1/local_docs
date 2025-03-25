@@ -1,13 +1,13 @@
 # Droning
 ---
 #verb
-- **To kill with a missile fired by unmanned [[a/_aircraft|aircraft]].**
+- **To [[k/_kill|kill]] with a [[m/_missile|missile]] [[f/_fired|fired]] by unmanned [[a/_aircraft|aircraft]].**
 ---
 #verb
-- **To produce a low-pitched hum or [[b/_buzz|buzz]].**
-- **To speak in a monotone way.**
+- **To produce a [[l/_low|low]]-pitched [[h/_hum|hum]] or [[b/_buzz|buzz]].**
+- **To speak in a [[m/_monotone|monotone]] way.**
 ---
 #noun
-- **A [[d/_dull|dull]] humming.**
+- **A [[d/_dull|dull]] [[h/_humming|humming]].**
 ---
 ---

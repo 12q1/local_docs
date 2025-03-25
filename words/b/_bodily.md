@@ -3,15 +3,15 @@
 #adjective
 - **Of, relating to, or [[c/_concerning|concerning]] the [[b/_body|body]].**
 	- _Example: His bodily deficiencies were a heavy burden to him._
-- **Having a [[b/_body|body]] or material form; physical; [[c/_corporeal|corporeal]].**
-- **Real; [[a/_actual|actual]]; put into execution.**
+- **[[h/_having|Having]] a [[b/_body|body]] or [[m/_material|material]] [[f/_form|form]]; physical; [[c/_corporeal|corporeal]].**
+- **Real; [[a/_actual|actual]]; put [[i/_into|into]] [[e/_execution|execution]].**
 ---
 ### Synonyms
 - [[c/_corporal|corporal]], [[c/_corporeal|corporeal]]
 #adverb
-- **In [[b/_bodily|bodily]] form; physically, [[c/_corporally|corporally]].**
-- **Pertaining to the whole [[b/_body|body]] or mass; wholly.**
-- **Forcefully, vigorously.**
+- **In [[b/_bodily|bodily]] [[f/_form|form]]; physically, [[c/_corporally|corporally]].**
+- **Pertaining to the whole [[b/_body|body]] or [[m/_mass|mass]]; wholly.**
+- **[[f/_forcefully|Forcefully]], vigorously.**
 	- _Example: He was thrown bodily out of the house._
 ---
 ### Synonyms

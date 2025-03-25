@@ -1,8 +1,8 @@
 # Effusive
 ---
 #adjective
-- **Gushy; unrestrained, extravagant or excessive (in [[e/_emotional|emotional]] expression).**
-- **Pouring, spilling out freely; overflowing.**
-- **(of igneous rock) Extrusive; having solidified [[a/_after|after]] [[b/_being|being]] poured out as molten lava.**
+- **[[g/_gushy|Gushy]]; unrestrained, [[e/_extravagant|extravagant]] or [[e/_excessive|excessive]] (in [[e/_emotional|emotional]] [[e/_expression|expression]]).**
+- **Pouring, spilling [[o/_out|out]] [[f/_freely|freely]]; [[o/_overflowing|overflowing]].**
+- **(of [[i/_igneous|igneous]] rock) [[e/_extrusive|Extrusive]]; [[h/_having|having]] solidified [[a/_after|after]] [[b/_being|being]] poured [[o/_out|out]] as [[m/_molten|molten]] [[l/_lava|lava]].**
 ---
 ---

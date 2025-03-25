@@ -1,7 +1,7 @@
 # Andantes
 ---
 #noun
-- **A tempo mark [[d/_directing|directing]] that a passage is to be played in a moderately slow tempo; faster than [[a/_adagio|adagio]] but slower than moderato.**
-- **A passage having this mark.**
+- **A tempo [[m/_mark|mark]] [[d/_directing|directing]] that a passage is to be played in a [[m/_moderately|moderately]] slow tempo; [[f/_faster|faster]] than [[a/_adagio|adagio]] but slower than [[m/_moderato|moderato]].**
+- **A passage [[h/_having|having]] this [[m/_mark|mark]].**
 ---
 ---

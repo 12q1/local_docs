@@ -1,13 +1,13 @@
 # Accusative
 ---
 #noun
-- **(grammar) The [[a/_accusative|accusative]] [[c/_case|case]].**
+- **([[g/_grammar|grammar]]) The [[a/_accusative|accusative]] [[c/_case|case]].**
 ---
 ### Synonyms
 - [[A/_A.|A.]], [[a/_acc.|acc.]]
 #adjective
-- **Producing [[a/_accusations|accusations]]; in a manner that reflects a finding of fault or [[b/_blame|blame]]**
-- **(grammar) [[a/_applied|Applied]] to the [[c/_case|case]] (as the fourth [[c/_case|case]] of Latin, Lithuanian and Greek nouns) which expresses the immediate object on which the [[a/_action|action]] or influence of a transitive verb has its limited influence. Other parts of speech, including secondary or predicate [[d/_direct|direct]] objects, will [[a/_also|also]] influence a sentence’s [[c/_construction|construction]]. In German the [[c/_case|case]] used for [[d/_direct|direct]] objects.**
+- **Producing [[a/_accusations|accusations]]; in a [[m/_manner|manner]] that reflects a [[f/_finding|finding]] of [[f/_fault|fault]] or [[b/_blame|blame]]**
+- **([[g/_grammar|grammar]]) [[a/_applied|Applied]] to the [[c/_case|case]] (as the [[f/_fourth|fourth]] [[c/_case|case]] of [[l/_latin|Latin]], [[l/_lithuanian|Lithuanian]] and [[g/_greek|Greek]] [[n/_nouns|nouns]]) which [[e/_expresses|expresses]] the [[i/_immediate|immediate]] [[o/_object|object]] on which the [[a/_action|action]] or [[i/_influence|influence]] of a transitive verb [[h/_has|has]] [[i/_its|its]] [[l/_limited|limited]] [[i/_influence|influence]]. [[o/_other|Other]] parts of speech, [[i/_including|including]] secondary or predicate [[d/_direct|direct]] [[o/_objects|objects]], will [[a/_also|also]] [[i/_influence|influence]] a sentence’s [[c/_construction|construction]]. In [[g/_german|German]] the [[c/_case|case]] used for [[d/_direct|direct]] [[o/_objects|objects]].**
 ---
 ### Synonyms
 - [[a/_accusatorial|accusatorial]], [[a/_accusatory|accusatory]]

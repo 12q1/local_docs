@@ -1,9 +1,9 @@
 # Duads
 ---
 #noun
-- **A pair or [[c/_couple|couple]].**
+- **A [[p/_pair|pair]] or [[c/_couple|couple]].**
 - **Dwadasama.**
-- **An unordered pair.**
+- **An unordered [[p/_pair|pair]].**
 ---
 ### Synonyms
 - [[d/_dyad|dyad]], [[t/_twosome|twosome]]

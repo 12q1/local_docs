@@ -4,6 +4,6 @@
 - **A two-thousandth [[a/_anniversary|anniversary]]**
 ---
 #adjective
-- **Relating to, or happening every two thousand years**
+- **Relating to, or [[h/_happening|happening]] [[e/_every|every]] two thousand [[y/_years|years]]**
 ---
 ---

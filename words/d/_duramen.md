@@ -1,6 +1,6 @@
 # Duramen
 ---
 #noun
-- **Heartwood**
+- **[[h/_heartwood|Heartwood]]**
 ---
 ---

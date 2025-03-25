@@ -1,6 +1,6 @@
 # Cephalometry
 ---
 #noun
-- **The measurement of the skull, [[e/_especially|especially]] in order to study its growth and [[d/_development|development]]**
+- **The [[m/_measurement|measurement]] of the skull, [[e/_especially|especially]] in [[o/_order|order]] to study [[i/_its|its]] [[g/_growth|growth]] and [[d/_development|development]]**
 ---
 ---

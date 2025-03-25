@@ -1,6 +1,6 @@
 # Equiprobable
 ---
 #adjective
-- **Having [[e/_equal|equal]] probability**
+- **[[h/_having|Having]] [[e/_equal|equal]] probability**
 ---
 ---

@@ -1,7 +1,7 @@
 # Conchology
 ---
 #noun
-- **The study of molluscs and their shells**
-- **The hobby of shell [[c/_collecting|collecting]]**
+- **The study of [[m/_molluscs|molluscs]] and their shells**
+- **The [[h/_hobby|hobby]] of shell [[c/_collecting|collecting]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Communicating
 ---
 #verb
-- **To impart**
+- **To [[i/_impart|impart]]**
 - **To share**
 ---
 #adjective

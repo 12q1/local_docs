@@ -1,6 +1,6 @@
 # Buckthorn
 ---
 #noun
-- **[[a/_any|Any]] of several, often thorny shrubs or small trees, [[e/_especially|especially]]**
+- **[[a/_any|Any]] of several, [[o/_often|often]] thorny shrubs or small trees, [[e/_especially|especially]]**
 ---
 ---

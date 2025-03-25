@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_amphetamine|amphetamine]] tablet.**
-- **A tantrum; a fit of furious or [[e/_erratic|erratic]] [[b/_behaviour|behaviour]].**
+- **A tantrum; a [[f/_fit|fit]] of [[f/_furious|furious]] or [[e/_erratic|erratic]] [[b/_behaviour|behaviour]].**
 ---
 #verb
 - **(usually with "up") To take [[a/_amphetamines|amphetamines]].**
@@ -11,11 +11,11 @@
 - **A [[b/_benefit|benefit]].**
 ---
 #noun
-- **An overcoat.**
-- **A straw hat.**
+- **An [[o/_overcoat|overcoat]].**
+- **A straw [[h/_hat|hat]].**
 ---
 #noun
-- **(originally United States) A [[d/_dish|dish]] [[c/_consisting|consisting]] of slices of [[e/_english|English]] muffins with poached [[e/_eggs|eggs]], ham or [[b/_bacon|bacon]] and hollandaise sauce.**
+- **([[o/_originally|originally]] United States) A [[d/_dish|dish]] [[c/_consisting|consisting]] of slices of [[e/_english|English]] [[m/_muffins|muffins]] with poached [[e/_eggs|eggs]], [[h/_ham|ham]] or [[b/_bacon|bacon]] and [[h/_hollandaise|hollandaise]] sauce.**
 ---
 ### Synonyms
 - 

@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Resembling a [[c/_crustacean|crustacean]].**
-- **Hard, thin and [[b/_brittle|brittle]].**
+- **[[h/_hard|Hard]], thin and [[b/_brittle|brittle]].**
 ---
 ---

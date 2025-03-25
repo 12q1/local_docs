@@ -1,0 +1,41 @@
+# Levels
+---
+#noun
+- **A tool for [[f/_finding|finding]] whether a surface is [[l/_level|level]], or for [[c/_creating|creating]] a [[h/_horizontal|horizontal]] or vertical [[l/_line|line]] of reference.**
+	- _Example: Hand me the level so I can tell if this is correctly installed._
+- **A [[d/_distance|distance]] relative to a [[g/_given|given]] reference [[e/_elevation|elevation]].**
+	- _Example: By the end of the day, we'd dug down to the level of the old basement floor._
+- **[[d/_degree|Degree]] or [[a/_amount|amount]].**
+	- _Example: The sound level is much too high; this hurts my ears.   We've reached a new level of success._
+- **[[a/_achievement|Achievement]] or qualification.**
+	- _Example: She achieved a high level of distinction._
+- **[[d/_distance|Distance]] from the root [[n/_node|node]] of a tree structure.**
+- **[[o/_one|One]] of several [[d/_discrete|discrete]] segments of a [[g/_game|game]], [[g/_generally|generally]] [[i/_increasing|increasing]] in [[d/_difficulty|difficulty]] and representing [[d/_different|different]] [[l/_locations|locations]] in the [[g/_game|game]] world.**
+	- _Example: It took me weeks to get to level seven.   Watch out for the next level; the bad guys there are really overpowered._
+- **A [[n/_numeric|numeric]] value that quantifies a [[c/_character|character]]'s [[e/_experience|experience]] and power.**
+	- _Example: My half-orc barbarian reached fifth level before he was squashed by a troll._
+- **A [[f/_floor|floor]] of a [[m/_multi|multi]]-storey [[b/_building|building]].**
+	- _Example: Take the elevator and get off at the promenade level._
+- **An [[a/_area|area]] of [[a/_almost|almost]] perfectly [[f/_flat|flat]] [[l/_land|land]].**
+- **A school [[g/_grade|grade]] or [[y/_year|year]].**
+---
+### Synonyms
+- [[s/_stage|stage]], [[w/_world|world]], [[z/_zone|zone]]
+#verb
+- **To [[a/_adjust|adjust]] so as to [[m/_make|make]] as [[f/_flat|flat]] or perpendicular to the [[g/_ground|ground]] as possible.**
+	- _Example: You can level the table by turning the pads that screw into the feet._
+- **To [[d/_destroy|destroy]] by reducing to [[g/_ground|ground]] [[l/_level|level]]; to raze.**
+	- _Example: The hurricane leveled the forest._
+- **To progress to the [[n/_next|next]] [[l/_level|level]].**
+	- _Example: I levelled after defeating the dragon._
+- **To [[a/_aim|aim]] or [[d/_direct|direct]] (a weapon, a stare, an [[a/_accusation|accusation]], [[e/_etc|etc]]).**
+	- _Example: He levelled an accusation of fraud at the directors.  The hunter levels the gun before taking a shot._
+- **To [[d/_direct|direct]] or [[i/_impose|impose]] (a penalty, [[f/_fine|fine]], [[e/_etc|etc]]) at or upon (someone).**
+- **To [[m/_make|make]] the score of a [[g/_game|game]] [[e/_equal|equal]].**
+- **To [[b/_bring|bring]] to a [[c/_common|common]] [[l/_level|level]] or plane, in respect of rank, [[c/_condition|condition]], [[c/_character|character]], privilege, [[e/_etc|etc]].**
+	- _Example: to level all the ranks and conditions of men_
+- **To [[a/_adjust|adjust]] or [[a/_adapt|adapt]] to a [[c/_certain|certain]] [[l/_level|level]].**
+	- _Example: to level remarks to the capacity of children_
+- **(usually with "with") To speak [[h/_honestly|honestly]] and [[o/_openly|openly]] with.**
+---
+---

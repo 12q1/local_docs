@@ -1,7 +1,7 @@
 # Crated
 ---
 #verb
-- **To put into a [[c/_crate|crate]].**
-- **To keep in a [[c/_crate|crate]].**
+- **To put [[i/_into|into]] a [[c/_crate|crate]].**
+- **To [[k/_keep|keep]] in a [[c/_crate|crate]].**
 ---
 ---

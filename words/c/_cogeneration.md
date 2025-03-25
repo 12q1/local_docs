@@ -1,9 +1,9 @@
 # Cogeneration
 ---
 #noun
-- **The production of heat and/or power from the waste [[e/_energy|energy]] of an industrial process.**
-- **The simultaneous or serial production of heat and [[e/_electricity|electricity]] from the same source.**
-- **Joint generation; cocreation.**
+- **The production of [[h/_heat|heat]] and/or power from the waste [[e/_energy|energy]] of an [[i/_industrial|industrial]] process.**
+- **The simultaneous or serial production of [[h/_heat|heat]] and [[e/_electricity|electricity]] from the same source.**
+- **[[j/_joint|Joint]] [[g/_generation|generation]]; cocreation.**
 ---
 ### Synonyms
 - [[C/_CHP|CHP]]

@@ -1,7 +1,7 @@
 # Dustup
 ---
 #noun
-- **A scuffle or fight.**
-- **(by extension) An [[a/_argument|argument]] or [[d/_dispute|dispute]].**
+- **A scuffle or [[f/_fight|fight]].**
+- **(by [[e/_extension|extension]]) An [[a/_argument|argument]] or [[d/_dispute|dispute]].**
 ---
 ---

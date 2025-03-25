@@ -1,0 +1,6 @@
+# Laccase
+---
+#noun
+- **[[a/_any|Any]] of several [[c/_copper|copper]]-[[c/_containing|containing]] [[o/_oxidase|oxidase]] [[e/_enzymes|enzymes]] [[f/_found|found]] in plants and [[m/_microorganisms|microorganisms]].**
+---
+---

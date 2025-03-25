@@ -6,21 +6,21 @@
 - **To [[d/_do|do]] (something); to perform.**
 - **To perform a theatrical role.**
 	- _Example: I started acting at the age of eleven in my local theatre._
-- **Of a play: to be [[a/_acted|acted]] out (well or [[b/_badly|badly]]).**
-- **To [[b/_behave|behave]] in a [[c/_certain|certain]] manner for an indefinite length of time.**
+- **Of a play: to be [[a/_acted|acted]] [[o/_out|out]] (well or [[b/_badly|badly]]).**
+- **To [[b/_behave|behave]] in a [[c/_certain|certain]] [[m/_manner|manner]] for an [[i/_indefinite|indefinite]] [[l/_length|length]] of time.**
 	- _Example: A dog which acts aggressively is likely to bite._
 - **To [[c/_convey|convey]] an [[a/_appearance|appearance]] of [[b/_being|being]].**
 	- _Example: He acted unconcerned so the others wouldn't worry._
 - **To [[d/_do|do]] something that [[c/_causes|causes]] a [[c/_change|change]] [[b/_binding|binding]] on the [[d/_doer|doer]].**
 	- _Example: act on behalf of John_
-- **([[c/_construed|construed]] with on or upon) To have an [[e/_effect|effect]] (on).**
+- **([[c/_construed|construed]] with on or upon) To [[h/_have|have]] an [[e/_effect|effect]] (on).**
 	- _Example: Gravitational force acts on heavy bodies._
 - **To play (a role).**
 	- _Example: He's been acting Shakespearean leads since he was twelve._
-- **To feign.**
+- **To [[f/_feign|feign]].**
 	- _Example: He acted the angry parent, but was secretly amused._
-- **([[c/_construed|construed]] with on or upon, of a group) To map via a homomorphism to a group of automorphisms (of).**
+- **([[c/_construed|construed]] with on or upon, of a [[g/_group|group]]) To [[m/_map|map]] via a [[h/_homomorphism|homomorphism]] to a [[g/_group|group]] of automorphisms (of).**
 	- _Example: This group acts on the circle, so it can't be left-orderable!_
-- **To move to [[a/_action|action]]; to [[a/_actuate|actuate]]; to [[a/_animate|animate]].**
+- **To [[m/_move|move]] to [[a/_action|action]]; to [[a/_actuate|actuate]]; to [[a/_animate|animate]].**
 ---
 ---

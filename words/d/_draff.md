@@ -1,6 +1,6 @@
 # Draff
 ---
 #noun
-- **[[d/_dregs|Dregs]]; the wash given to swine or [[c/_cows|cows]]; hogwash or waste matter.**
+- **[[d/_dregs|Dregs]]; the wash [[g/_given|given]] to swine or [[c/_cows|cows]]; [[h/_hogwash|hogwash]] or waste [[m/_matter|matter]].**
 ---
 ---

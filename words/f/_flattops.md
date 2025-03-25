@@ -1,0 +1,10 @@
+# Flattops
+---
+#noun
+- **A short [[h/_haircut|haircut]] in which the [[h/_hair|hair]] is [[b/_brushed|brushed]] straight up then [[c/_cut|cut]] [[f/_flat|flat]] [[a/_across|across]] the top.**
+- **An [[a/_aircraft|aircraft]] [[c/_carrier|carrier]].**
+- **A type of stringed [[i/_instrument|instrument]], [[m/_most|most]] [[o/_often|often]] an [[a/_acoustic|acoustic]] [[g/_guitar|guitar]], with a [[f/_flat|flat]] top (as [[o/_opposed|opposed]] to an archtop), with strings [[h/_held|held]] in place with pins, and with a [[c/_complex|complex]] system of [[b/_bracing|bracing]] struts on the top.**
+---
+### Synonyms
+- 
+---

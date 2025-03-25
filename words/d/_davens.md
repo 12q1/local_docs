@@ -1,6 +1,6 @@
 # Davens
 ---
 #verb
-- **To recite the Jewish liturgy; to pray**
+- **To recite the [[j/_jewish|Jewish]] [[l/_liturgy|liturgy]]; to pray**
 ---
 ---

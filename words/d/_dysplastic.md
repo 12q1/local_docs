@@ -1,6 +1,6 @@
 # Dysplastic
 ---
 #adjective
-- **Relating to or exhibiting [[d/_dysplasia|dysplasia]].**
+- **Relating to or [[e/_exhibiting|exhibiting]] [[d/_dysplasia|dysplasia]].**
 ---
 ---

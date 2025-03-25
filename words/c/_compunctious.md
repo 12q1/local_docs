@@ -1,6 +1,6 @@
 # Compunctious
 ---
 #adjective
-- **Exhibiting [[c/_compunctions|compunctions]], scruples, feelings of guilt.**
+- **[[e/_exhibiting|Exhibiting]] [[c/_compunctions|compunctions]], scruples, [[f/_feelings|feelings]] of [[g/_guilt|guilt]].**
 ---
 ---

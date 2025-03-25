@@ -1,7 +1,7 @@
 # Breadline
 ---
 #noun
-- **A line of people waiting to receive food from a [[c/_charity|charity]].**
-- **Subsistence level.**
+- **A [[l/_line|line]] of people waiting to receive [[f/_food|food]] from a [[c/_charity|charity]].**
+- **Subsistence [[l/_level|level]].**
 ---
 ---

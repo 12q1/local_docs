@@ -1,8 +1,8 @@
 # Earthling
 ---
 #noun
-- **A sentient [[b/_being|being]] who's a member of a species native to [[e/_earth|Earth]].**
-- **A lesbian woman.**
+- **A sentient [[b/_being|being]] who's a [[m/_member|member]] of a species [[n/_native|native]] to [[e/_earth|Earth]].**
+- **A [[l/_lesbian|lesbian]] woman.**
 ---
 ### Synonyms
 - [[E/_Earthican|Earthican]], [[T/_Tellurian|Tellurian]], [[T/_Terran|Terran]]

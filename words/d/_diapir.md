@@ -1,6 +1,6 @@
 # Diapir
 ---
 #noun
-- **An intrusion of a [[d/_ductile|ductile]] rock into an overburden.**
+- **An [[i/_intrusion|intrusion]] of a [[d/_ductile|ductile]] rock [[i/_into|into]] an [[o/_overburden|overburden]].**
 ---
 ---

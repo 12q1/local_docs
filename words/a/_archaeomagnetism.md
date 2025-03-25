@@ -1,6 +1,6 @@
 # Archaeomagnetism
 ---
 #noun
-- **Magnetism of the [[e/_earth|Earth]] in the geologic past; the measurement of this magnetism in order to [[d/_date|date]] a specimen.**
+- **[[m/_magnetism|Magnetism]] of the [[e/_earth|Earth]] in the [[g/_geologic|geologic]] past; the [[m/_measurement|measurement]] of this [[m/_magnetism|magnetism]] in [[o/_order|order]] to [[d/_date|date]] a specimen.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Comradeship
 ---
 #noun
-- **The [[c/_company|company]] or friendship of others, or sharing a goal.**
+- **The [[c/_company|company]] or [[f/_friendship|friendship]] of [[o/_others|others]], or sharing a [[g/_goal|goal]].**
 ---
 ---

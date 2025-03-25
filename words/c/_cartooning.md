@@ -1,8 +1,8 @@
 # Cartooning
 ---
 #verb
-- **To [[d/_draw|draw]] a [[c/_cartoon|cartoon]], a humorous [[d/_drawing|drawing]].**
-- **To make a preliminary sketch.**
+- **To [[d/_draw|draw]] a [[c/_cartoon|cartoon]], a [[h/_humorous|humorous]] [[d/_drawing|drawing]].**
+- **To [[m/_make|make]] a preliminary sketch.**
 ---
 #noun
 - **The [[a/_act|act]] of [[d/_drawing|drawing]] a [[c/_cartoon|cartoon]] or [[c/_caricature|caricature]].**

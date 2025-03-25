@@ -1,6 +1,6 @@
 # Bondager
 ---
 #noun
-- **A field worker, [[e/_especially|especially]] a woman.**
+- **A [[f/_field|field]] worker, [[e/_especially|especially]] a woman.**
 ---
 ---

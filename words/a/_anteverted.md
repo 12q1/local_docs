@@ -5,6 +5,6 @@
 - **To [[d/_displace|displace]] by [[a/_anteversion|anteversion]].**
 ---
 #adjective
-- **Turned or tipped forward.**
+- **Turned or tipped [[f/_forward|forward]].**
 ---
 ---

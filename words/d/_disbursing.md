@@ -1,6 +1,6 @@
 # Disbursing
 ---
 #verb
-- **To pay out, expend; usually from a public fund or treasury.**
+- **To [[p/_pay|pay]] [[o/_out|out]], [[e/_expend|expend]]; usually from a public [[f/_fund|fund]] or treasury.**
 ---
 ---

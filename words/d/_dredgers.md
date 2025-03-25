@@ -2,8 +2,8 @@
 ---
 #noun
 - **A vessel [[e/_equipped|equipped]] for the removal of sand or sediment from the seabed.**
-- **One who fishes with a [[d/_dredge|dredge]].**
-- **A [[d/_dredging|dredging]] machine.**
-- **A [[c/_container|container]] with a perforated lid, used to sprinkle sugar or flour.**
+- **[[o/_one|One]] who [[f/_fishes|fishes]] with a [[d/_dredge|dredge]].**
+- **A [[d/_dredging|dredging]] [[m/_machine|machine]].**
+- **A [[c/_container|container]] with a perforated [[l/_lid|lid]], used to sprinkle sugar or [[f/_flour|flour]].**
 ---
 ---

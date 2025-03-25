@@ -1,18 +1,18 @@
 # Defence
 ---
 #noun
-- **The [[a/_action|action]] of [[d/_defending|defending]], of protecting from [[a/_attack|attack]], [[d/_danger|danger]] or injury.**
-- **Something used to oppose [[a/_attacks|attacks]].**
-- **An [[a/_argument|argument]] in support or justification of something.**
-- **A strategy and tactics [[e/_employed|employed]] to prevent the other team from scoring; [[c/_contrasted|contrasted]] with offence.**
-- **The portion of a team [[d/_dedicated|dedicated]] to preventing the other team from scoring; [[c/_contrasted|contrasted]] with offence.**
-- **Government policy or (infra)structure related to the military.**
+- **The [[a/_action|action]] of [[d/_defending|defending]], of protecting from [[a/_attack|attack]], [[d/_danger|danger]] or [[i/_injury|injury]].**
+- **Something used to [[o/_oppose|oppose]] [[a/_attacks|attacks]].**
+- **An [[a/_argument|argument]] in support or [[j/_justification|justification]] of something.**
+- **A strategy and tactics [[e/_employed|employed]] to prevent the [[o/_other|other]] team from scoring; [[c/_contrasted|contrasted]] with [[o/_offence|offence]].**
+- **The portion of a team [[d/_dedicated|dedicated]] to preventing the [[o/_other|other]] team from scoring; [[c/_contrasted|contrasted]] with [[o/_offence|offence]].**
+- **[[g/_government|Government]] policy or ([[i/_infra|infra]])structure related to the [[m/_military|military]].**
 	- _Example: Department of Defence_
-- **Prohibition; a prohibitory ordinance.**
+- **Prohibition; a prohibitory [[o/_ordinance|ordinance]].**
 ---
 ### Antonyms
 - [[o/_offence|offence]], [[o/_offense|offense]]
 #verb
-- **To furnish with [[d/_defences|defences]]; to fortify.**
+- **To [[f/_furnish|furnish]] with [[d/_defences|defences]]; to [[f/_fortify|fortify]].**
 ---
 ---

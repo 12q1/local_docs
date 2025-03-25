@@ -1,7 +1,7 @@
 # Endolymph
 ---
 #noun
-- **The fluid inside the labyrinth of the inner [[e/_ear|ear]].**
+- **The [[f/_fluid|fluid]] [[i/_inside|inside]] the [[l/_labyrinth|labyrinth]] of the [[i/_inner|inner]] [[e/_ear|ear]].**
 ---
 ### Synonyms
 - 

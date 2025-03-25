@@ -1,6 +1,6 @@
 # Convincingly
 ---
 #adverb
-- **In a [[c/_convincing|convincing]] manner.**
+- **In a [[c/_convincing|convincing]] [[m/_manner|manner]].**
 ---
 ---

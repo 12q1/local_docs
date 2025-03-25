@@ -1,0 +1,6 @@
+# Hookworms
+---
+#noun
+- **[[a/_any|Any]] of various parasitic [[b/_bloodsucking|bloodsucking]] roundworms which [[c/_cause|cause]] [[d/_disease|disease]], [[e/_especially|especially]] the species [[a/_ancylostoma|Ancylostoma]] duodenale and [[n/_necator|Necator]] americanus, [[h/_having|having]] [[h/_hooked|hooked]] [[m/_mouthparts|mouthparts]] and [[e/_entering|entering]] their [[h/_hosts|hosts]] by [[b/_boring|boring]] through the skin.**
+---
+---

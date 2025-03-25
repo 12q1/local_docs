@@ -1,7 +1,7 @@
 # Debilitates
 ---
 #verb
-- **To make feeble; to weaken.**
+- **To [[m/_make|make]] [[f/_feeble|feeble]]; to weaken.**
 	- _Example: The American Dream suffered a debilitating effect after the subprime crisis._
 ---
 ### Synonyms

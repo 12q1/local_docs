@@ -1,8 +1,8 @@
 # Boxfish
 ---
 #noun
-- **[[a/_any|Any]] of the family Ostraciidae of often [[c/_colorful|colorful]], squared, [[b/_bony|bony]] fishes.**
-- **[[c/_certain|Certain]] species in Ostraciidae, principally in genus Ostracion.**
+- **[[a/_any|Any]] of the [[f/_family|family]] [[o/_ostraciidae|Ostraciidae]] of [[o/_often|often]] [[c/_colorful|colorful]], squared, [[b/_bony|bony]] [[f/_fishes|fishes]].**
+- **[[c/_certain|Certain]] species in [[o/_ostraciidae|Ostraciidae]], principally in [[g/_genus|genus]] [[o/_ostracion|Ostracion]].**
 ---
 ### Synonyms
 - [[c/_cofferfish|cofferfish]]

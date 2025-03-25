@@ -1,6 +1,6 @@
 # Atrazine
 ---
 #noun
-- **A triazine herbicide that inhibits photosynthesis**
+- **A triazine [[h/_herbicide|herbicide]] that [[i/_inhibits|inhibits]] photosynthesis**
 ---
 ---

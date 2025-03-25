@@ -1,7 +1,7 @@
 # Deductibles
 ---
 #noun
-- **An [[a/_amount|amount]] of expenses that must be paid out of pocket [[b/_before|before]] an insurer will pay further expenses.**
+- **An [[a/_amount|amount]] of [[e/_expenses|expenses]] that [[m/_must|must]] be [[p/_paid|paid]] [[o/_out|out]] of pocket [[b/_before|before]] an [[i/_insurer|insurer]] will [[p/_pay|pay]] [[f/_further|further]] [[e/_expenses|expenses]].**
 ---
 ### Synonyms
 - [[e/_excess|excess]]

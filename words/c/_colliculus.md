@@ -1,6 +1,6 @@
 # Colliculus
 ---
 #noun
-- **A small [[e/_elevation|elevation]]; a knoll**
+- **A small [[e/_elevation|elevation]]; a [[k/_knoll|knoll]]**
 ---
 ---

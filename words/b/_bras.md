@@ -1,17 +1,17 @@
 # Bras
 ---
 #noun
-- **One of the two vectors in the standard notation for [[d/_describing|describing]] quantum states in quantum mechanics, the other [[b/_being|being]] the ket.**
+- **[[o/_one|One]] of the two vectors in the standard [[n/_notation|notation]] for [[d/_describing|describing]] quantum states in quantum [[m/_mechanics|mechanics]], the [[o/_other|other]] [[b/_being|being]] the [[k/_ket|ket]].**
 ---
 ### Antonyms
 - [[k/_ket|ket]]
 #noun
-- **Friend**
+- **[[f/_friend|Friend]]**
 	- _Example: Take it easy, bra!_
-- **Female version of [[b/_bro|bro]]**
+- **[[f/_female|Female]] version of [[b/_bro|bro]]**
 ---
 #noun
-- **An item of underwear worn to support the [[b/_breasts|breasts]]; now [[c/_commonly|commonly]] shortened to [[b/_bra|bra]].**
+- **An [[i/_item|item]] of underwear worn to support the [[b/_breasts|breasts]]; [[n/_now|now]] [[c/_commonly|commonly]] shortened to [[b/_bra|bra]].**
 ---
 ### Synonyms
 - [[b/_bra|bra]]

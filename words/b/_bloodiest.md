@@ -5,7 +5,7 @@
 	- _Example: All that remained of his right hand after the accident was a bloody stump._
 - **[[c/_characterised|Characterised]] by [[b/_bloodshed|bloodshed]].**
 	- _Example: There have been bloody battles between the two tribes._
-- **Used as an intensifier.**
+- **Used as an [[i/_intensifier|intensifier]].**
 - **[[b/_badly|Badly]] [[b/_behaved|behaved]]; unpleasant; [[b/_beastly|beastly]].**
 ---
 ### Synonyms

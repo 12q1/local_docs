@@ -1,13 +1,13 @@
 # Departed
 ---
 #verb
-- **To leave.**
-- **To set out on a journey.**
+- **To [[l/_leave|leave]].**
+- **To set [[o/_out|out]] on a [[j/_journey|journey]].**
 - **To [[d/_die|die]].**
-- **To [[d/_disappear|disappear]], vanish; to [[c/_cease|cease]] to exist.**
-- **To [[d/_deviate|deviate]] (from), be [[d/_different|different]] (from), fail to [[c/_conform|conform]].**
+- **To [[d/_disappear|disappear]], vanish; to [[c/_cease|cease]] to [[e/_exist|exist]].**
+- **To [[d/_deviate|deviate]] (from), be [[d/_different|different]] (from), [[f/_fail|fail]] to [[c/_conform|conform]].**
 	- _Example: His latest statements seemed to depart from party policy somewhat._
-- **To go [[a/_away|away]] from; to leave.**
+- **To [[g/_go|go]] [[a/_away|away]] from; to [[l/_leave|leave]].**
 - **To [[d/_divide|divide]] up; to [[d/_distribute|distribute]], share.**
 - **To separate, part.**
 ---

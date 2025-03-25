@@ -1,6 +1,6 @@
 # Codicils
 ---
 #noun
-- **An [[a/_addition|addition]] or supplement that explains, modifies, or revokes a will or part of one.**
+- **An [[a/_addition|addition]] or supplement that [[e/_explains|explains]], [[m/_modifies|modifies]], or revokes a will or part of [[o/_one|one]].**
 ---
 ---

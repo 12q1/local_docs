@@ -1,8 +1,8 @@
 # Actress
 ---
 #noun
-- **A female who performs on the stage or in films.**
-- **A female [[d/_doer|doer]] or "[[a/_actor|actor]]" (in a general sense).**
+- **A [[f/_female|female]] who performs on the stage or in [[f/_films|films]].**
+- **A [[f/_female|female]] [[d/_doer|doer]] or "[[a/_actor|actor]]" (in a [[g/_general|general]] sense).**
 ---
 ### Synonyms
 - [[a/_actorine|actorine]]

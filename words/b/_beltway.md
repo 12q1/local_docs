@@ -1,7 +1,7 @@
 # Beltway
 ---
 #noun
-- **A freeway that [[e/_encircles|encircles]] a [[c/_city|city]].**
+- **A [[f/_freeway|freeway]] that [[e/_encircles|encircles]] a [[c/_city|city]].**
 ---
 ### Synonyms
 - 

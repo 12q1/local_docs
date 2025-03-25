@@ -1,6 +1,6 @@
 # Cholecyst
 ---
 #noun
-- **The gall [[b/_bladder|bladder]].**
+- **The [[g/_gall|gall]] [[b/_bladder|bladder]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Blighting
 ---
 #verb
-- **To [[a/_affect|affect]] with [[b/_blight|blight]]; to [[b/_blast|blast]]; to prevent the growth and fertility of.**
+- **To [[a/_affect|affect]] with [[b/_blight|blight]]; to [[b/_blast|blast]]; to prevent the [[g/_growth|growth]] and [[f/_fertility|fertility]] of.**
 - **To suffer [[b/_blight|blight]].**
 	- _Example: This vine never blights._
 - **To spoil or ruin (something).**

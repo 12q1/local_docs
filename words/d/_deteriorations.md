@@ -1,7 +1,7 @@
 # Deteriorations
 ---
 #noun
-- **The process of making or growing worse, or the state of having grown worse.**
+- **The process of [[m/_making|making]] or [[g/_growing|growing]] worse, or the state of [[h/_having|having]] [[g/_grown|grown]] worse.**
 ---
 ### Synonyms
 - [[r/_retrogression|retrogression]]

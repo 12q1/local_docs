@@ -1,6 +1,6 @@
 # Adulating
 ---
 #verb
-- **To flatter [[e/_effusively|effusively]].**
+- **To [[f/_flatter|flatter]] [[e/_effusively|effusively]].**
 ---
 ---

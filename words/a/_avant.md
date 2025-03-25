@@ -1,6 +1,6 @@
 # Avant
 ---
 #noun
-- **The front of an [[a/_army|army]]; the vanguard.**
+- **The [[f/_front|front]] of an [[a/_army|army]]; the vanguard.**
 ---
 ---

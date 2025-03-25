@@ -1,8 +1,8 @@
 # Buoyancy
 ---
 #noun
-- **The upward force on a [[b/_body|body]] immersed or partly immersed in a fluid.**
-- **The [[a/_ability|ability]] of an object to stay [[a/_afloat|afloat]] in a fluid.**
-- **(by extension) Resilience or [[c/_cheerfulness|cheerfulness]].**
+- **The upward [[f/_force|force]] on a [[b/_body|body]] [[i/_immersed|immersed]] or partly [[i/_immersed|immersed]] in a [[f/_fluid|fluid]].**
+- **The [[a/_ability|ability]] of an [[o/_object|object]] to stay [[a/_afloat|afloat]] in a [[f/_fluid|fluid]].**
+- **(by [[e/_extension|extension]]) Resilience or [[c/_cheerfulness|cheerfulness]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Dingus
 ---
 #noun
-- **A gadget, [[d/_device|device]], or object whose name is [[e/_either|either]] unknown, forgotten, or omitted for the purpose of humor.**
-- **A fool or incompetent person.**
+- **A [[g/_gadget|gadget]], [[d/_device|device]], or [[o/_object|object]] whose [[n/_name|name]] is [[e/_either|either]] unknown, [[f/_forgotten|forgotten]], or [[o/_omitted|omitted]] for the purpose of [[h/_humor|humor]].**
+- **A [[f/_fool|fool]] or [[i/_incompetent|incompetent]] person.**
 	- _Example: I just lost my keys again. Now I feel like a dingus._
 - **Penis**
 ---

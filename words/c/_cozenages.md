@@ -1,7 +1,7 @@
 # Cozenages
 ---
 #noun
-- **The fact or practice of [[c/_cozening|cozening]]; [[c/_cheating|cheating]], [[d/_deception|deception]].**
-- **An instance of [[c/_cozening|cozening]]; a scam.**
+- **The [[f/_fact|fact]] or practice of [[c/_cozening|cozening]]; [[c/_cheating|cheating]], [[d/_deception|deception]].**
+- **An [[i/_instance|instance]] of [[c/_cozening|cozening]]; a scam.**
 ---
 ---

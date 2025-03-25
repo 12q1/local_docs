@@ -1,8 +1,8 @@
 # Cabaret
 ---
 #noun
-- **Live [[e/_entertainment|entertainment]] held in a restaurant or nightclub; the genre of music [[a/_associated|associated]] with this form of [[e/_entertainment|entertainment]], [[e/_especially|especially]] in [[e/_early|early]] 20th [[c/_century|century]] Europe.**
-- **The nightclub or restaurant where such [[e/_entertainment|entertainment]] is held.**
+- **[[l/_live|Live]] [[e/_entertainment|entertainment]] [[h/_held|held]] in a restaurant or [[n/_nightclub|nightclub]]; the [[g/_genre|genre]] of [[m/_music|music]] [[a/_associated|associated]] with this [[f/_form|form]] of [[e/_entertainment|entertainment]], [[e/_especially|especially]] in [[e/_early|early]] 20th [[c/_century|century]] [[e/_europe|Europe]].**
+- **The [[n/_nightclub|nightclub]] or restaurant where such [[e/_entertainment|entertainment]] is [[h/_held|held]].**
 - **A strip [[c/_club|club]].**
 ---
 ---

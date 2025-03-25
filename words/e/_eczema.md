@@ -1,6 +1,6 @@
 # Eczema
 ---
 #noun
-- **A non-[[c/_contagious|contagious]] [[a/_acute|acute]] or [[c/_chronic|chronic]] inflammation of the skin, [[c/_characterized|characterized]] by redness, itching, and the outbreak of oozing vesicular lesions which [[b/_become|become]] [[e/_encrusted|encrusted]] and scaly.**
+- **A [[n/_non|non]]-[[c/_contagious|contagious]] [[a/_acute|acute]] or [[c/_chronic|chronic]] [[i/_inflammation|inflammation]] of the skin, [[c/_characterized|characterized]] by redness, [[i/_itching|itching]], and the [[o/_outbreak|outbreak]] of [[o/_oozing|oozing]] vesicular [[l/_lesions|lesions]] which [[b/_become|become]] [[e/_encrusted|encrusted]] and scaly.**
 ---
 ---

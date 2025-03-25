@@ -1,9 +1,9 @@
 # Brunt
 ---
 #noun
-- **The full [[a/_adverse|adverse]] [[e/_effects|effects]]; the [[c/_chief|chief]] [[c/_consequences|consequences]] or negative results of a thing or event.**
+- **The [[f/_full|full]] [[a/_adverse|adverse]] [[e/_effects|effects]]; the [[c/_chief|chief]] [[c/_consequences|consequences]] or [[n/_negative|negative]] results of a thing or [[e/_event|event]].**
 	- _Example: Unfortunately, poor areas such as those in New Orleans bore the brunt of Hurricane Katrina’s winds._
-- **The major part of something; the [[b/_bulk|bulk]].**
+- **The [[m/_major|major]] part of something; the [[b/_bulk|bulk]].**
 	- _Example: If you feel tired of walking, just think of the poor donkey who has carried the brunt of our load._
 ---
 #verb

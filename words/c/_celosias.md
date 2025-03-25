@@ -1,6 +1,6 @@
 # Celosias
 ---
 #noun
-- **An ornamental [[a/_amaranth|amaranth]] of the genus [[c/_celosia|Celosia]]**
+- **An [[o/_ornamental|ornamental]] [[a/_amaranth|amaranth]] of the [[g/_genus|genus]] [[c/_celosia|Celosia]]**
 ---
 ---

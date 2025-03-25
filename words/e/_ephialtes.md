@@ -1,6 +1,6 @@
 # Ephialtes
 ---
 #noun
-- **An incubus; a nightmare**
+- **An [[i/_incubus|incubus]]; a [[n/_nightmare|nightmare]]**
 ---
 ---

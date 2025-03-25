@@ -1,11 +1,11 @@
 # Blest
 ---
 #adjective
-- **Having [[d/_divine|divine]] [[a/_aid|aid]], or protection, or other [[b/_blessing|blessing]].**
-- **A title indicating the [[b/_beatification|beatification]] of a person, thus [[a/_allowing|allowing]] public veneration of those who have lived in sanctity or [[d/_died|died]] as martyrs.**
-- **Held in veneration; revered.**
-- **Worthy of worship; holy.**
-- **An intensifier; [[d/_damned|damned]].**
+- **[[h/_having|Having]] [[d/_divine|divine]] [[a/_aid|aid]], or protection, or [[o/_other|other]] [[b/_blessing|blessing]].**
+- **A title [[i/_indicating|indicating]] the [[b/_beatification|beatification]] of a person, thus [[a/_allowing|allowing]] public veneration of those who [[h/_have|have]] [[l/_lived|lived]] in sanctity or [[d/_died|died]] as [[m/_martyrs|martyrs]].**
+- **[[h/_held|Held]] in veneration; revered.**
+- **Worthy of worship; [[h/_holy|holy]].**
+- **An [[i/_intensifier|intensifier]]; [[d/_damned|damned]].**
 	- _Example: Not one blessed person offered to help me out._
 ---
 ### Synonyms

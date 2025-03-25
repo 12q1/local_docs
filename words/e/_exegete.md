@@ -1,0 +1,9 @@
+# Exegete
+---
+#noun
+- **A person skilled in [[e/_exegesis|exegesis]]; an [[i/_interpreter|interpreter]] of texts, signs, the words of an [[o/_oracle|oracle]], and similar [[o/_obscure|obscure]] or [[e/_esoteric|esoteric]] sources.**
+---
+#verb
+- **To [[i/_interpret|interpret]]; to perform an [[e/_exegesis|exegesis]].**
+---
+---

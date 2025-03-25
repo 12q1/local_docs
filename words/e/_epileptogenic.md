@@ -1,6 +1,6 @@
 # Epileptogenic
 ---
 #adjective
-- **Of, pertaining to or giving rise to epileptogenesis.**
+- **Of, pertaining to or [[g/_giving|giving]] rise to epileptogenesis.**
 ---
 ---

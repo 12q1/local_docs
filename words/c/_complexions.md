@@ -1,11 +1,11 @@
 # Complexions
 ---
 #noun
-- **The [[c/_combination|combination]] of humours making up one's physiological "temperament", [[b/_being|being]] [[e/_either|either]] hot or [[c/_cold|cold]], and moist or [[d/_dry|dry]].**
-- **The quality, [[c/_colour|colour]], or [[a/_appearance|appearance]] of the skin on the face.**
+- **The [[c/_combination|combination]] of [[h/_humours|humours]] [[m/_making|making]] up [[o/_one|one]]'s physiological "temperament", [[b/_being|being]] [[e/_either|either]] [[h/_hot|hot]] or [[c/_cold|cold]], and [[m/_moist|moist]] or [[d/_dry|dry]].**
+- **The quality, [[c/_colour|colour]], or [[a/_appearance|appearance]] of the skin on the [[f/_face|face]].**
 	- _Example: a rugged complexion;  a sunburnt complexion_
-- **The outward [[a/_appearance|appearance]] of something.**
-- **Outlook, [[a/_attitude|attitude]], or point of view.**
-- **(loanword, [[e/_especially|especially]] in scientific works translated from German) An [[a/_arrangement|arrangement]].**
+- **The [[o/_outward|outward]] [[a/_appearance|appearance]] of something.**
+- **[[o/_outlook|Outlook]], [[a/_attitude|attitude]], or point of view.**
+- **([[l/_loanword|loanword]], [[e/_especially|especially]] in scientific works translated from [[g/_german|German]]) An [[a/_arrangement|arrangement]].**
 ---
 ---

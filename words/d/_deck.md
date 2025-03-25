@@ -1,24 +1,24 @@
 # Deck
 ---
 #noun
-- **[[a/_any|Any]] raised flat surface that [[c/_can|can]] be walked on: a [[b/_balcony|balcony]]; a porch; a raised patio; a flat rooftop.**
-- **The floorlike [[c/_covering|covering]] of the horizontal sections, or [[c/_compartments|compartments]], of a ship. Small vessels have only one [[d/_deck|deck]]; larger ships have two or three [[d/_decks|decks]].**
+- **[[a/_any|Any]] raised [[f/_flat|flat]] surface that [[c/_can|can]] be walked on: a [[b/_balcony|balcony]]; a porch; a raised patio; a [[f/_flat|flat]] rooftop.**
+- **The floorlike [[c/_covering|covering]] of the [[h/_horizontal|horizontal]] sections, or [[c/_compartments|compartments]], of a ship. Small vessels [[h/_have|have]] [[o/_only|only]] [[o/_one|one]] [[d/_deck|deck]]; [[l/_larger|larger]] ships [[h/_have|have]] two or three [[d/_decks|decks]].**
 	- _Example: to swab the deck_
-- **A main [[a/_aeroplane|aeroplane]] surface, [[e/_especially|especially]] of a [[b/_biplane|biplane]] or multiplane.**
-- **A pack or set of playing [[c/_cards|cards]].**
-- **(by extension) A set of [[c/_cards|cards]] owned by [[e/_each|each]] individual player and from which they [[d/_draw|draw]] when playing.**
+- **A [[m/_main|main]] [[a/_aeroplane|aeroplane]] surface, [[e/_especially|especially]] of a [[b/_biplane|biplane]] or [[m/_multiplane|multiplane]].**
+- **A [[p/_pack|pack]] or set of playing [[c/_cards|cards]].**
+- **(by [[e/_extension|extension]]) A set of [[c/_cards|cards]] [[o/_owned|owned]] by [[e/_each|each]] [[i/_individual|individual]] player and from which they [[d/_draw|draw]] when playing.**
 - **A set of slides for a presentation.**
-- **A heap or store.**
-- **A folded paper used for [[d/_distributing|distributing]] illicit [[d/_drugs|drugs]].**
-- **The floor.**
+- **A [[h/_heap|heap]] or store.**
+- **A [[f/_folded|folded]] paper used for [[d/_distributing|distributing]] [[i/_illicit|illicit]] [[d/_drugs|drugs]].**
+- **The [[f/_floor|floor]].**
 	- _Example: We hit the deck as bullets began to fly._
 ---
 ### Synonyms
 - [[l/_library|library]]
 #verb
-- **To furnish with a [[d/_deck|deck]], as a vessel.**
-- **To knock someone to the floor, [[e/_especially|especially]] with a single punch.**
+- **To [[f/_furnish|furnish]] with a [[d/_deck|deck]], as a vessel.**
+- **To [[k/_knock|knock]] someone to the [[f/_floor|floor]], [[e/_especially|especially]] with a single punch.**
 	- _Example: Wow, did you see her deck that guy who pinched her?_
-- **To [[c/_cause|cause]] a player to run out of [[c/_cards|cards]] to [[d/_draw|draw]] and usually lose the game as a result.**
+- **To [[c/_cause|cause]] a player to run [[o/_out|out]] of [[c/_cards|cards]] to [[d/_draw|draw]] and usually [[l/_lose|lose]] the [[g/_game|game]] as a result.**
 ---
 ---

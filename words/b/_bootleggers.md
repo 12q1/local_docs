@@ -1,6 +1,6 @@
 # Bootleggers
 ---
 #noun
-- **An illegal trader of goods, [[e/_especially|especially]] of [[a/_alcohol|alcohol]].**
+- **An [[i/_illegal|illegal]] trader of [[g/_goods|goods]], [[e/_especially|especially]] of [[a/_alcohol|alcohol]].**
 ---
 ---

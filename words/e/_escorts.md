@@ -1,19 +1,19 @@
 # Escorts
 ---
 #noun
-- **A group of people or vehicles, generally [[a/_armed|armed]], who go with a person or people of importance to safeguard them on a journey or mission.**
-- **An [[a/_accompanying|accompanying]] person in such a group.**
-- **A guard who travels with a [[d/_dangerous|dangerous]] person, such as a [[c/_criminal|criminal]], for the protection of others.**
-- **A group of people [[a/_attending|attending]] as a mark of respect or honor.**
-- **An [[a/_accompanying|accompanying]] person in a social gathering, [[e/_etc|etc]].**
-- **Protection, [[c/_care|care]], or safeguard on a journey or excursion.**
-- **(somewhat [[e/_euphemistic|euphemistic]]) A sex worker who [[d/_does|does]] not operate in a [[b/_brothel|brothel]], but with whom [[c/_clients|clients]] make [[a/_appointments|appointments]]; a [[c/_call|call]] girl or male [[e/_equivalent|equivalent]].**
+- **A [[g/_group|group]] of people or vehicles, [[g/_generally|generally]] [[a/_armed|armed]], who [[g/_go|go]] with a person or people of [[i/_importance|importance]] to safeguard them on a [[j/_journey|journey]] or [[m/_mission|mission]].**
+- **An [[a/_accompanying|accompanying]] person in such a [[g/_group|group]].**
+- **A [[g/_guard|guard]] who travels with a [[d/_dangerous|dangerous]] person, such as a [[c/_criminal|criminal]], for the protection of [[o/_others|others]].**
+- **A [[g/_group|group]] of people [[a/_attending|attending]] as a [[m/_mark|mark]] of respect or [[h/_honor|honor]].**
+- **An [[a/_accompanying|accompanying]] person in a social [[g/_gathering|gathering]], [[e/_etc|etc]].**
+- **Protection, [[c/_care|care]], or safeguard on a [[j/_journey|journey]] or [[e/_excursion|excursion]].**
+- **(somewhat [[e/_euphemistic|euphemistic]]) A sex worker who [[d/_does|does]] not [[o/_operate|operate]] in a [[b/_brothel|brothel]], but with whom [[c/_clients|clients]] [[m/_make|make]] [[a/_appointments|appointments]]; a [[c/_call|call]] [[g/_girl|girl]] or [[m/_male|male]] [[e/_equivalent|equivalent]].**
 ---
 #verb
-- **To [[a/_attend|attend]] to in order to guard and protect; to [[a/_accompany|accompany]] as a safeguard (for the person [[e/_escorted|escorted]] or for others); to give honorable or [[c/_ceremonious|ceremonious]] [[a/_attendance|attendance]] to**
-- **To [[a/_accompany|accompany]] (a person) in order to [[c/_compel|compel]] them to go somewhere ([[e/_e|e]].g. to leave a [[b/_building|building]]).**
+- **To [[a/_attend|attend]] to in [[o/_order|order]] to [[g/_guard|guard]] and protect; to [[a/_accompany|accompany]] as a safeguard (for the person [[e/_escorted|escorted]] or for [[o/_others|others]]); to [[g/_give|give]] [[h/_honorable|honorable]] or [[c/_ceremonious|ceremonious]] [[a/_attendance|attendance]] to**
+- **To [[a/_accompany|accompany]] (a person) in [[o/_order|order]] to [[c/_compel|compel]] them to [[g/_go|go]] somewhere ([[e/_e|e]].[[g/_g|g]]. to [[l/_leave|leave]] a [[b/_building|building]]).**
 	- _Example: 2018, TST-00493-18 (Re), Ontario Landlord and Tenant Board (Anna Solomon, member)_
-- **To go with someone as a partner, for example on a formal [[d/_date|date]].**
+- **To [[g/_go|go]] with someone as a partner, for [[e/_example|example]] on a [[f/_formal|formal]] [[d/_date|date]].**
 ---
 ### Synonyms
 - [[s/_squire|squire]], [[a/_accompany|accompany]], [[a/_attend|attend]]

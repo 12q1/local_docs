@@ -1,0 +1,6 @@
+# Marcato
+---
+#adverb
+- **Stressed; pronounced.**
+---
+---

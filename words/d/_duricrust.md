@@ -1,6 +1,6 @@
 # Duricrust
 ---
 #noun
-- **A thin hard layer found near the surface in soil.**
+- **A thin [[h/_hard|hard]] [[l/_layer|layer]] [[f/_found|found]] [[n/_near|near]] the surface in soil.**
 ---
 ---

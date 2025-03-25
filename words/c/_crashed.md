@@ -1,24 +1,24 @@
 # Crashed
 ---
 #verb
-- **To [[c/_collide|collide]] with something [[d/_destructively|destructively]], fall or [[c/_come|come]] [[d/_down|down]] violently.**
+- **To [[c/_collide|collide]] with something [[d/_destructively|destructively]], [[f/_fall|fall]] or [[c/_come|come]] [[d/_down|down]] violently.**
 - **To severely [[d/_damage|damage]] or [[d/_destroy|destroy]] something by [[c/_causing|causing]] it to [[c/_collide|collide]] with something [[e/_else|else]].**
 	- _Example: I'm sorry for crashing the bike into a wall. I'll pay for repairs._
-- **(via gatecrash) To [[a/_attend|attend]] a social event without invitation, usually with unfavorable intentions.**
+- **(via gatecrash) To [[a/_attend|attend]] a social [[e/_event|event]] without [[i/_invitation|invitation]], usually with unfavorable [[i/_intentions|intentions]].**
 	- _Example: We weren't invited to the party so we decided to crash it._
-- **To [[a/_accelerate|accelerate]] a project or a task or its schedule by [[d/_devoting|devoting]] more resources to it.**
-- **To make or experience informal temporary living [[a/_arrangements|arrangements]], [[e/_especially|especially]] overnight.**
+- **To [[a/_accelerate|accelerate]] a project or a task or [[i/_its|its]] schedule by [[d/_devoting|devoting]] [[m/_more|more]] resources to it.**
+- **To [[m/_make|make]] or [[e/_experience|experience]] [[i/_informal|informal]] temporary [[l/_living|living]] [[a/_arrangements|arrangements]], [[e/_especially|especially]] [[o/_overnight|overnight]].**
 	- _Example: Hey dude, can I crash at your pad?_
-- **To give, as a favor.**
-- **To lie [[d/_down|down]] for a long rest, sleep or nap, as from tiredness or exhaustion.**
-- **(hardware) To terminate extraordinarily.**
+- **To [[g/_give|give]], as a [[f/_favor|favor]].**
+- **To [[l/_lie|lie]] [[d/_down|down]] for a [[l/_long|long]] rest, sleep or [[n/_nap|nap]], as from tiredness or [[e/_exhaustion|exhaustion]].**
+- **([[h/_hardware|hardware]]) To terminate [[e/_extraordinarily|extraordinarily]].**
 	- _Example: If the system crashes again, we'll have it fixed in the computer shop._
-- **(hardware) To [[c/_cause|cause]] to terminate extraordinarily.**
+- **([[h/_hardware|hardware]]) To [[c/_cause|cause]] to terminate [[e/_extraordinarily|extraordinarily]].**
 	- _Example: Double-clicking this icon crashes the desktop._
-- **To experience a period of [[d/_depression|depression]] and/or lethargy [[a/_after|after]] a period of [[e/_euphoria|euphoria]], as [[a/_after|after]] the [[e/_euphoric|euphoric]] [[e/_effect|effect]] of a psychotropic [[d/_drug|drug]] has [[d/_dissipated|dissipated]].**
-- **To hit or strike with force**
+- **To [[e/_experience|experience]] a period of [[d/_depression|depression]] and/or [[l/_lethargy|lethargy]] [[a/_after|after]] a period of [[e/_euphoria|euphoria]], as [[a/_after|after]] the [[e/_euphoric|euphoric]] [[e/_effect|effect]] of a psychotropic [[d/_drug|drug]] [[h/_has|has]] [[d/_dissipated|dissipated]].**
+- **To [[h/_hit|hit]] or strike with [[f/_force|force]]**
 - **(of a patient's [[c/_condition|condition]]) To take a sudden and severe turn for the worse; to rapidly [[d/_deteriorate|deteriorate]].**
-- **To make a sudden loud noise.**
+- **To [[m/_make|make]] a sudden [[l/_loud|loud]] [[n/_noise|noise]].**
 	- _Example: Thunder crashed directly overhead._
 ---
 ---

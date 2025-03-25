@@ -1,6 +1,6 @@
 # Embrocating
 ---
 #verb
-- **To moisten and rub (a [[d/_diseased|diseased]] part) with a liquid substance, as with spirit, oil, [[e/_etc|etc]]., by means of a [[c/_cloth|cloth]] or sponge.**
+- **To [[m/_moisten|moisten]] and rub (a [[d/_diseased|diseased]] part) with a [[l/_liquid|liquid]] substance, as with spirit, [[o/_oil|oil]], [[e/_etc|etc]]., by [[m/_means|means]] of a [[c/_cloth|cloth]] or sponge.**
 ---
 ---

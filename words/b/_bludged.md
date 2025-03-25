@@ -1,11 +1,11 @@
 # Bludged
 ---
 #verb
-- **To live off the [[e/_earnings|earnings]] of a prostitute.**
-- **To not [[e/_earn|earn]] one's keep, to live off someone [[e/_else|else]] or off welfare when one [[c/_could|could]] be working.**
-- **To [[a/_avoid|avoid]] one's responsibilities; to leave it to others to perform [[d/_duties|duties]] that one is expected to perform.**
-- **To [[d/_do|do]] nothing, to be idle, [[e/_especially|especially]] when there is work to be [[d/_done|done]].**
-- **To take some [[b/_benefit|benefit]] and give nothing in return.**
+- **To [[l/_live|live]] [[o/_off|off]] the [[e/_earnings|earnings]] of a prostitute.**
+- **To not [[e/_earn|earn]] [[o/_one|one]]'s [[k/_keep|keep]], to [[l/_live|live]] [[o/_off|off]] someone [[e/_else|else]] or [[o/_off|off]] welfare when [[o/_one|one]] [[c/_could|could]] be working.**
+- **To [[a/_avoid|avoid]] [[o/_one|one]]'s responsibilities; to [[l/_leave|leave]] it to [[o/_others|others]] to perform [[d/_duties|duties]] that [[o/_one|one]] is [[e/_expected|expected]] to perform.**
+- **To [[d/_do|do]] [[n/_nothing|nothing]], to be [[i/_idle|idle]], [[e/_especially|especially]] when there is work to be [[d/_done|done]].**
+- **To take some [[b/_benefit|benefit]] and [[g/_give|give]] [[n/_nothing|nothing]] in return.**
 	- _Example: Can I bludge a cigarette off you?_
 ---
 ### Synonyms

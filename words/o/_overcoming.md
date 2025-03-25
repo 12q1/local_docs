@@ -1,0 +1,15 @@
+# Overcoming
+---
+#verb
+- **To surmount (a physical or [[a/_abstract|abstract]] [[o/_obstacle|obstacle]]); to prevail [[o/_over|over]], to [[g/_get|get]] the [[b/_better|better]] of.**
+	- _Example: to overcome enemies in battle_
+- **To win or prevail in some sort of [[b/_battle|battle]], [[c/_contest|contest]], [[e/_etc|etc]].**
+	- _Example: We shall overcome._
+- **To [[c/_come|come]] or pass [[o/_over|over]]; to spread [[o/_over|over]].**
+	- _Example: I was overcome with anger._
+- **To [[o/_overflow|overflow]]; to surcharge.**
+---
+#noun
+- **The [[a/_act|act]] by which something is [[o/_overcome|overcome]], or surmounted.**
+---
+---

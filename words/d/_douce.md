@@ -1,7 +1,7 @@
 # Douce
 ---
 #adjective
-- **Sweet; nice; pleasant.**
-- **Serious and quiet; steady, not flighty or [[c/_casual|casual]]; sober.**
+- **Sweet; [[n/_nice|nice]]; pleasant.**
+- **Serious and quiet; steady, not [[f/_flighty|flighty]] or [[c/_casual|casual]]; sober.**
 ---
 ---

@@ -1,14 +1,14 @@
 # Downward
 ---
 #adjective
-- **Moving, sloping or oriented [[d/_downward|downward]].**
+- **[[m/_moving|Moving]], sloping or [[o/_oriented|oriented]] [[d/_downward|downward]].**
 	- _Example: He spoke with a downward glance._
-- **Located at a lower level.**
+- **[[l/_located|Located]] at a [[l/_lower|lower]] [[l/_level|level]].**
 ---
 #adverb
-- **Toward a lower level, whether in physical space, in a hierarchy, or in [[a/_amount|amount]] or value.**
+- **Toward a [[l/_lower|lower]] [[l/_level|level]], whether in physical space, in a [[h/_hierarchy|hierarchy]], or in [[a/_amount|amount]] or value.**
 	- _Example: His position in society moved ever downward._
-- **At a lower level.**
+- **At a [[l/_lower|lower]] [[l/_level|level]].**
 - **Southward**
 ---
 ### Synonyms

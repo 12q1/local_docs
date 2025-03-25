@@ -1,7 +1,7 @@
 # Bongs
 ---
 #noun
-- **The [[c/_clang|clang]] of a large [[b/_bell|bell]].**
+- **The [[c/_clang|clang]] of a [[l/_large|large]] [[b/_bell|bell]].**
 - **[[d/_doorbell|Doorbell]] [[c/_chimes|chimes]].**
 ---
 #verb
@@ -9,9 +9,9 @@
 - **To ring a [[d/_doorbell|doorbell]].**
 ---
 #noun
-- **A vessel, usually made of glass or [[c/_ceramic|ceramic]] and filled with water, used in smoking various substances; [[e/_especially|especially]] marijuana or pot.**
-- **An [[a/_act|act]] of smoking one serving of [[d/_drugs|drugs]] from a [[b/_bong|bong]].**
-- **A [[d/_device|device]] for rapidly [[c/_consuming|consuming]] [[b/_beer|beer]], usually [[c/_consisting|consisting]] of a funnel or reservoir of [[b/_beer|beer]] and a length of tubing.**
+- **A vessel, usually [[m/_made|made]] of [[g/_glass|glass]] or [[c/_ceramic|ceramic]] and [[f/_filled|filled]] with water, used in smoking various substances; [[e/_especially|especially]] [[m/_marijuana|marijuana]] or pot.**
+- **An [[a/_act|act]] of smoking [[o/_one|one]] serving of [[d/_drugs|drugs]] from a [[b/_bong|bong]].**
+- **A [[d/_device|device]] for rapidly [[c/_consuming|consuming]] [[b/_beer|beer]], usually [[c/_consisting|consisting]] of a [[f/_funnel|funnel]] or reservoir of [[b/_beer|beer]] and a [[l/_length|length]] of tubing.**
 ---
 ### Synonyms
 - 

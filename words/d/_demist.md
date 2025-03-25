@@ -1,6 +1,6 @@
 # Demist
 ---
 #verb
-- **To remove the layer of fine liquid particles from the surface of (a window or mirror).**
+- **To remove the [[l/_layer|layer]] of [[f/_fine|fine]] [[l/_liquid|liquid]] particles from the surface of (a window or [[m/_mirror|mirror]]).**
 ---
 ---

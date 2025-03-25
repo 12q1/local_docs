@@ -1,7 +1,7 @@
 # Calcines
 ---
 #verb
-- **To heat something without melting in order to [[d/_drive|drive]] off water [[e/_etc|etc]]., and to [[d/_decompose|decompose]] [[c/_carbonates|carbonates]] into oxides or to oxidize or reduce it; [[e/_especially|especially]] to heat limestone to form quicklime, i.[[e/_e|e]]. to [[c/_calcinate|calcinate]].**
-- **To undergo such heating**
+- **To [[h/_heat|heat]] something without [[m/_melting|melting]] in [[o/_order|order]] to [[d/_drive|drive]] [[o/_off|off]] water [[e/_etc|etc]]., and to [[d/_decompose|decompose]] [[c/_carbonates|carbonates]] [[i/_into|into]] [[o/_oxides|oxides]] or to [[o/_oxidize|oxidize]] or reduce it; [[e/_especially|especially]] to [[h/_heat|heat]] [[l/_limestone|limestone]] to [[f/_form|form]] quicklime, [[i/_i|i]].[[e/_e|e]]. to [[c/_calcinate|calcinate]].**
+- **To undergo such [[h/_heating|heating]]**
 ---
 ---

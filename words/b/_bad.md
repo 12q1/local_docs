@@ -1,45 +1,45 @@
 # Bad
 ---
 #noun
-- **[[e/_error|Error]], mistake.**
-- **An item (or kind of item) of merchandise with negative value; an unwanted good.**
+- **[[e/_error|Error]], [[m/_mistake|mistake]].**
+- **An [[i/_item|item]] (or [[k/_kind|kind]] of [[i/_item|item]]) of [[m/_merchandise|merchandise]] with [[n/_negative|negative]] value; an unwanted [[g/_good|good]].**
 ---
 #adjective
-- **Unfavorable; negative; not good.**
+- **Unfavorable; [[n/_negative|negative]]; not [[g/_good|good]].**
 	- _Example: Abducting children is bad for mothers._
-- **Not suitable or fitting.**
+- **Not suitable or [[f/_fitting|fitting]].**
 	- _Example: Do you think it is a bad idea to confront him directly?_
-- **Not [[a/_appropriate|appropriate]], of manners [[e/_etc|etc]].**
+- **Not [[a/_appropriate|appropriate]], of [[m/_manners|manners]] [[e/_etc|etc]].**
 	- _Example: It is bad manners to talk with your mouth full._
-- **Unhealthy; liable to [[c/_cause|cause]] health problems.**
+- **Unhealthy; [[l/_liable|liable]] to [[c/_cause|cause]] [[h/_health|health]] problems.**
 	- _Example: Lard is bad for you. Smoking is bad for you, too. Grapes are bad for dogs but not for humans._
 - **Sickly, unhealthy, unwell.**
 	- _Example: I went to the hospital to see how my grandfather was doing. Unfortunately, he's in a bad state._
-- **Not [[b/_behaving|behaving]]; [[b/_behaving|behaving]] [[b/_badly|badly]]; misbehaving; mischievous or [[d/_disobedient|disobedient]].**
+- **Not [[b/_behaving|behaving]]; [[b/_behaving|behaving]] [[b/_badly|badly]]; [[m/_misbehaving|misbehaving]]; [[m/_mischievous|mischievous]] or [[d/_disobedient|disobedient]].**
 	- _Example: Stop being bad, or you will get a spanking!_
 - **Tricky; stressful; unpleasant.**
 	- _Example: Divorce is usually a bad experience for everybody involved._
-- **Evil; wicked.**
+- **[[e/_evil|Evil]]; wicked.**
 	- _Example: Be careful. There are bad people in the world._
-- **Faulty; not functional.**
+- **[[f/_faulty|Faulty]]; not [[f/_functional|functional]].**
 	- _Example: I had a bad headlight._
-- **(of food) Spoiled, rotten, overripe.**
+- **(of [[f/_food|food]]) Spoiled, rotten, [[o/_overripe|overripe]].**
 	- _Example: These apples have gone bad._
-- **(of [[b/_breath|breath]]) Malodorous; foul.**
+- **(of [[b/_breath|breath]]) [[m/_malodorous|Malodorous]]; [[f/_foul|foul]].**
 	- _Example: Bad breath is not pleasant for anyone._
-- **False; [[c/_counterfeit|counterfeit]]; illegitimate.**
+- **[[f/_false|False]]; [[c/_counterfeit|counterfeit]]; [[i/_illegitimate|illegitimate]].**
 	- _Example: They were caught trying to pass bad coinage._
-- **Unskilled; of limited [[a/_ability|ability]]; not good.**
+- **Unskilled; of [[l/_limited|limited]] [[a/_ability|ability]]; not [[g/_good|good]].**
 	- _Example: He's a bad gardener; everything he tries to grow ends up dying._
 - **Of poor physical [[a/_appearance|appearance]].**
 	- _Example: I don't look bad in this dress, do I?_
 - **[[b/_bold|Bold]] and [[d/_daring|daring]].**
-- **Good, superlative, excellent, [[c/_cool|cool]].**
+- **[[g/_good|Good]], superlative, [[e/_excellent|excellent]], [[c/_cool|cool]].**
 	- _Example: Man, that new car you bought is bad!_
-- **(of a need, want, or pain) Severe, urgent.**
+- **(of a [[n/_need|need]], want, or [[p/_pain|pain]]) Severe, urgent.**
 	- _Example: He is in bad need of a haircut._
-- **Overly promiscuous, licentious.**
-- **(of a [[d/_draft|draft]]/[[c/_check|check]]) Not [[c/_covered|covered]] by funds on [[a/_account|account]].**
+- **[[o/_overly|Overly]] promiscuous, [[l/_licentious|licentious]].**
+- **(of a [[d/_draft|draft]]/[[c/_check|check]]) Not [[c/_covered|covered]] by [[f/_funds|funds]] on [[a/_account|account]].**
 	- _Example: He gave me a bad check._
 ---
 ### Synonyms

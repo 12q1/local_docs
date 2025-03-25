@@ -1,6 +1,6 @@
 # Engirding
 ---
 #verb
-- **To gird [[a/_around|around]]; to ingirt.**
+- **To [[g/_gird|gird]] [[a/_around|around]]; to [[i/_ingirt|ingirt]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Begrudger
 ---
 #noun
-- **One who [[b/_begrudges|begrudges]].**
+- **[[o/_one|One]] who [[b/_begrudges|begrudges]].**
 ---
 ---

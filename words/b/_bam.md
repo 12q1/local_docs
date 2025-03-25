@@ -1,9 +1,9 @@
 # Bam
 ---
 #interjection
-- **Representing a loud noise or heavy impact.**
+- **Representing a [[l/_loud|loud]] [[n/_noise|noise]] or [[h/_heavy|heavy]] [[i/_impact|impact]].**
 	- _Example: The wind knocked the tree over last night. Bam! It nearly scared me to death._
-- **Representing a sudden or [[a/_abrupt|abrupt]] occurrence.**
+- **Representing a sudden or [[a/_abrupt|abrupt]] [[o/_occurrence|occurrence]].**
 	- _Example: She said she dumped him. Now — bam! — they're back together._
 ---
 ### Synonyms

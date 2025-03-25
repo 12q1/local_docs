@@ -1,6 +1,6 @@
 # Ballon
 ---
 #noun
-- **The quality of a jump by which a [[b/_ballet|ballet]] [[d/_dancer|dancer]] [[a/_appears|appears]] to pause in midair**
+- **The quality of a [[j/_jump|jump]] by which a [[b/_ballet|ballet]] [[d/_dancer|dancer]] [[a/_appears|appears]] to pause in [[m/_midair|midair]]**
 ---
 ---

@@ -1,16 +1,16 @@
 # Droves
 ---
 #noun
-- **A number of [[c/_cattle|cattle]] [[d/_driven|driven]] to market or new pastures.**
-- **(usually in the plural) A large number of people on the move (literally or figuratively).**
-- **([[c/_collective|collective]]) A group of hares.**
-- **A road or track [[a/_along|along]] which [[c/_cattle|cattle]] are habitually [[d/_driven|driven]].**
-- **A narrow [[d/_drain|drain]] or [[c/_channel|channel]] used in the irrigation of land.**
-- **A [[b/_broad|broad]] [[c/_chisel|chisel]] used to [[b/_bring|bring]] stone to a nearly smooth surface.**
-- **The grooved surface of stone finished by the [[d/_drove|drove]] [[c/_chisel|chisel]].**
+- **A [[n/_number|number]] of [[c/_cattle|cattle]] [[d/_driven|driven]] to [[m/_market|market]] or [[n/_new|new]] pastures.**
+- **(usually in the plural) A [[l/_large|large]] [[n/_number|number]] of people on the [[m/_move|move]] ([[l/_literally|literally]] or [[f/_figuratively|figuratively]]).**
+- **([[c/_collective|collective]]) A [[g/_group|group]] of [[h/_hares|hares]].**
+- **A road or track [[a/_along|along]] which [[c/_cattle|cattle]] are [[h/_habitually|habitually]] [[d/_driven|driven]].**
+- **A [[n/_narrow|narrow]] [[d/_drain|drain]] or [[c/_channel|channel]] used in the [[i/_irrigation|irrigation]] of [[l/_land|land]].**
+- **A [[b/_broad|broad]] [[c/_chisel|chisel]] used to [[b/_bring|bring]] stone to a [[n/_nearly|nearly]] smooth surface.**
+- **The [[g/_grooved|grooved]] surface of stone [[f/_finished|finished]] by the [[d/_drove|drove]] [[c/_chisel|chisel]].**
 ---
 #verb
-- **To herd [[c/_cattle|cattle]]; particularly over a long [[d/_distance|distance]].**
-- **To finish (stone) with a [[d/_drove|drove]] [[c/_chisel|chisel]].**
+- **To [[h/_herd|herd]] [[c/_cattle|cattle]]; particularly [[o/_over|over]] a [[l/_long|long]] [[d/_distance|distance]].**
+- **To [[f/_finish|finish]] (stone) with a [[d/_drove|drove]] [[c/_chisel|chisel]].**
 ---
 ---

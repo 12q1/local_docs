@@ -1,6 +1,6 @@
 # Devas
 ---
 #noun
-- **A god in Vedic mythology, Hinduism and [[b/_buddhism|Buddhism]].**
+- **A [[g/_god|god]] in Vedic [[m/_mythology|mythology]], [[h/_hinduism|Hinduism]] and [[b/_buddhism|Buddhism]].**
 ---
 ---

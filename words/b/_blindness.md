@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[c/_condition|condition]] of [[b/_being|being]] [[b/_blind|blind]]; unable to see.**
-- **Want of intellectual or moral [[d/_discernment|discernment]]; mental [[d/_darkness|darkness]]; ignorance, heedlessness.**
+- **Want of [[i/_intellectual|intellectual]] or [[m/_moral|moral]] [[d/_discernment|discernment]]; [[m/_mental|mental]] [[d/_darkness|darkness]]; [[i/_ignorance|ignorance]], [[h/_heedlessness|heedlessness]].**
 - **[[c/_concealment|Concealment]]**
 ---
 ### Synonyms

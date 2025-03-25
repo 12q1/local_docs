@@ -1,6 +1,6 @@
 # Croustade
 ---
 #noun
-- **A [[e/_edible|edible]] [[c/_container|container]] (often of pastry) filled with a savoury food**
+- **A [[e/_edible|edible]] [[c/_container|container]] ([[o/_often|often]] of pastry) [[f/_filled|filled]] with a savoury [[f/_food|food]]**
 ---
 ---

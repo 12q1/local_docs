@@ -1,7 +1,7 @@
 # Credulous
 ---
 #adjective
-- **Excessively ready to [[b/_believe|believe]] things; gullible.**
+- **[[e/_excessively|Excessively]] ready to [[b/_believe|believe]] things; [[g/_gullible|gullible]].**
 - **[[b/_believed|Believed]] too readily.**
 ---
 ### Synonyms

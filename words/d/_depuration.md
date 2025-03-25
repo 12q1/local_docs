@@ -1,6 +1,6 @@
 # Depuration
 ---
 #noun
-- **The removal of impurities, [[e/_especially|especially]] from [[b/_bodily|bodily]] fluids; purification, [[c/_cleansing|cleansing]].**
+- **The removal of [[i/_impurities|impurities]], [[e/_especially|especially]] from [[b/_bodily|bodily]] [[f/_fluids|fluids]]; purification, [[c/_cleansing|cleansing]].**
 ---
 ---

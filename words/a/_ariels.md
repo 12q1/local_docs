@@ -1,6 +1,6 @@
 # Ariels
 ---
 #noun
-- **A kind of mountain gazelle, native to [[a/_arabia|Arabia]].**
+- **A [[k/_kind|kind]] of [[m/_mountain|mountain]] [[g/_gazelle|gazelle]], [[n/_native|native]] to [[a/_arabia|Arabia]].**
 ---
 ---

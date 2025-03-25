@@ -1,0 +1,16 @@
+# Explosive
+---
+#noun
+- **[[a/_any|Any]] [[e/_explosive|explosive]] substance.**
+---
+#adjective
+- **With the [[c/_capability|capability]] to, or [[l/_likely|likely]] to, [[e/_explode|explode]].**
+	- _Example: an explosive device_
+- **[[h/_having|Having]] the [[c/_character|character]] of an [[e/_explosion|explosion]].**
+	- _Example: an explosive fire_
+- **Shocking; startling.**
+	- _Example: an explosive accusation_
+- **[[e/_easily|Easily]] [[d/_driven|driven]] to [[a/_anger|anger]], usually with reference to a person.**
+	- _Example: He has an explosive personality._
+---
+---

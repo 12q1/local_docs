@@ -1,6 +1,6 @@
 # Demantoid
 ---
 #noun
-- **A green garnet.**
+- **A [[g/_green|green]] [[g/_garnet|garnet]].**
 ---
 ---

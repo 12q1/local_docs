@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Pretty**
-- **Good**
+- **[[g/_good|Good]]**
 ---
 ---

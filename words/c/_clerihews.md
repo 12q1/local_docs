@@ -1,6 +1,6 @@
 # Clerihews
 ---
 #noun
-- **A humorous rhyme of four lines with the rhyming scheme AABB, usually regarding a person mentioned in the first line.**
+- **A [[h/_humorous|humorous]] rhyme of [[f/_four|four]] [[l/_lines|lines]] with the rhyming scheme AABB, usually regarding a person [[m/_mentioned|mentioned]] in the [[f/_first|first]] [[l/_line|line]].**
 ---
 ---

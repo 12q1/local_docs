@@ -1,9 +1,9 @@
 # Crews
 ---
 #noun
-- **A pen for livestock such as [[c/_chickens|chickens]] or pigs**
+- **A pen for [[l/_livestock|livestock]] such as [[c/_chickens|chickens]] or pigs**
 ---
 #noun
-- **The Manx shearwater.**
+- **The [[m/_manx|Manx]] shearwater.**
 ---
 ---

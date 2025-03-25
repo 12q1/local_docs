@@ -1,6 +1,6 @@
 # Aquamaniles
 ---
 #noun
-- **A ewer or jug-like vessel, shaped like an [[a/_animal|animal]] or human figure, used for washing the hands.**
+- **A [[e/_ewer|ewer]] or [[j/_jug|jug]]-[[l/_like|like]] vessel, shaped [[l/_like|like]] an [[a/_animal|animal]] or [[h/_human|human]] [[f/_figure|figure]], used for washing the [[h/_hands|hands]].**
 ---
 ---

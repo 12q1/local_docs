@@ -1,7 +1,7 @@
 # Bimodal
 ---
 #adjective
-- **Having two modes or forms**
-- **(of a [[d/_distribution|distribution]]) Having two modes (local maxima)**
+- **[[h/_having|Having]] two [[m/_modes|modes]] or [[f/_forms|forms]]**
+- **(of a [[d/_distribution|distribution]]) [[h/_having|Having]] two [[m/_modes|modes]] ([[l/_local|local]] [[m/_maxima|maxima]])**
 ---
 ---

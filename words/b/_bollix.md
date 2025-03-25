@@ -2,8 +2,8 @@
 ---
 #noun
 - **[[c/_confusion|Confusion]]**
-- **Mess**
-- **Fool, jerk**
+- **[[m/_mess|Mess]]**
+- **[[f/_fool|Fool]], [[j/_jerk|jerk]]**
 ---
 #verb
 - **To [[c/_confuse|confuse]].**

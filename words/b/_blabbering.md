@@ -1,11 +1,11 @@
 # Blabbering
 ---
 #verb
-- **To [[b/_blather|blather]]; to talk foolishly or incoherently.**
+- **To [[b/_blather|blather]]; to talk [[f/_foolishly|foolishly]] or [[i/_incoherently|incoherently]].**
 - **To [[b/_blab|blab]]; to reveal a secret.**
-- **To stick out one's tongue.**
+- **To stick [[o/_out|out]] [[o/_one|one]]'s tongue.**
 ---
 #noun
-- **Foolish or incoherent talk; [[b/_blather|blather]]; [[b/_babble|babble]].**
+- **[[f/_foolish|Foolish]] or [[i/_incoherent|incoherent]] talk; [[b/_blather|blather]]; [[b/_babble|babble]].**
 ---
 ---

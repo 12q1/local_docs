@@ -1,6 +1,6 @@
 # Alcazars
 ---
 #noun
-- **[[a/_any|Any]] Moorish fortress in Spain.**
+- **[[a/_any|Any]] [[m/_moorish|Moorish]] [[f/_fortress|fortress]] in Spain.**
 ---
 ---

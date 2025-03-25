@@ -1,0 +1,6 @@
+# Goofy
+---
+#adjective
+- **Silly, quirky**
+---
+---

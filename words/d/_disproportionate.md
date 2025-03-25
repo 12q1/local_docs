@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Not proportionate.**
-- **Out of proportion.**
+- **[[o/_out|Out]] of proportion.**
 ---
 ---

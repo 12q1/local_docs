@@ -1,6 +1,6 @@
 # Epicontinental
 ---
 #adjective
-- **Located on a [[c/_continental|continental]] shelf**
+- **[[l/_located|Located]] on a [[c/_continental|continental]] shelf**
 ---
 ---

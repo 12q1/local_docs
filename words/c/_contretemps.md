@@ -1,8 +1,8 @@
 # Contretemps
 ---
 #noun
-- **An unforeseen, inopportune, or [[e/_embarrassing|embarrassing]] event; a hitch**
-- **An ill-timed pass.**
+- **An unforeseen, [[i/_inopportune|inopportune]], or [[e/_embarrassing|embarrassing]] [[e/_event|event]]; a [[h/_hitch|hitch]]**
+- **An [[i/_ill|ill]]-timed pass.**
 ---
 ### Synonyms
 - [[h/_hitch|hitch]], [[m/_mishap|mishap]]

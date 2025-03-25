@@ -1,7 +1,7 @@
 # Circumfluent
 ---
 #adjective
-- **Flowing round; surrounding in the manner of a fluid.**
+- **[[f/_flowing|Flowing]] round; surrounding in the [[m/_manner|manner]] of a [[f/_fluid|fluid]].**
 ---
 ### Synonyms
 - [[c/_circumfluous|circumfluous]]

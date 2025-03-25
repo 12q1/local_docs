@@ -1,6 +1,6 @@
 # Euchring
 ---
 #verb
-- **To [[d/_deceive|deceive]] or outwit.**
+- **To [[d/_deceive|deceive]] or [[o/_outwit|outwit]].**
 ---
 ---

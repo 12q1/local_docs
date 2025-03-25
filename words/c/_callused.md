@@ -1,9 +1,9 @@
 # Callused
 ---
 #verb
-- **To form such hardened tissue.**
+- **To [[f/_form|form]] such [[h/_hardened|hardened]] tissue.**
 ---
 #adjective
-- **Having [[c/_calluses|calluses]].**
+- **[[h/_having|Having]] [[c/_calluses|calluses]].**
 ---
 ---

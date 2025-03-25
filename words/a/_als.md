@@ -1,6 +1,6 @@
 # Als
 ---
 #noun
-- **The Indian mulberry, Morinda citrifolia, [[e/_especially|especially]] as used to make [[d/_dye|dye]].**
+- **The [[i/_indian|Indian]] [[m/_mulberry|mulberry]], [[m/_morinda|Morinda]] citrifolia, [[e/_especially|especially]] as used to [[m/_make|make]] [[d/_dye|dye]].**
 ---
 ---

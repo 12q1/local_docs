@@ -1,7 +1,7 @@
 # Chaffs
 ---
 #verb
-- **To use light, idle language by way of fun or ridicule; to [[b/_banter|banter]].**
-- **To make fun of; to turn into ridicule by [[a/_addressing|addressing]] in ironical or [[b/_bantering|bantering]] language; to quiz.**
+- **To use [[l/_light|light]], [[i/_idle|idle]] [[l/_language|language]] by way of [[f/_fun|fun]] or ridicule; to [[b/_banter|banter]].**
+- **To [[m/_make|make]] [[f/_fun|fun]] of; to turn [[i/_into|into]] ridicule by [[a/_addressing|addressing]] in [[i/_ironical|ironical]] or [[b/_bantering|bantering]] [[l/_language|language]]; to quiz.**
 ---
 ---

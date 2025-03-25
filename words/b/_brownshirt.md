@@ -1,7 +1,7 @@
 # Brownshirt
 ---
 #noun
-- **A uniformed member of the German Nazi Party (NSDAP), [[e/_especially|especially]] a storm trooper of the Sturmabteilung.**
-- **[[a/_any|Any]] member of a fascist party; [[a/_any|any]] fascist or neo-Nazi.**
+- **A uniformed [[m/_member|member]] of the [[g/_german|German]] [[n/_nazi|Nazi]] Party (NSDAP), [[e/_especially|especially]] a storm trooper of the Sturmabteilung.**
+- **[[a/_any|Any]] [[m/_member|member]] of a [[f/_fascist|fascist]] party; [[a/_any|any]] [[f/_fascist|fascist]] or [[n/_neo|neo]]-[[n/_nazi|Nazi]].**
 ---
 ---

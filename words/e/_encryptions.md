@@ -1,7 +1,7 @@
 # Encryptions
 ---
 #noun
-- **The process of obscuring information to make it unreadable without special knowledge, key files, or passwords.**
-- **A [[c/_ciphertext|ciphertext]], a [[c/_cryptogram|cryptogram]], an [[e/_encrypted|encrypted]] value. Usually used with the preposition "of" followed by the value that is hidden in it.**
+- **The process of [[o/_obscuring|obscuring]] [[i/_information|information]] to [[m/_make|make]] it unreadable without special [[k/_knowledge|knowledge]], [[k/_key|key]] [[f/_files|files]], or passwords.**
+- **A [[c/_ciphertext|ciphertext]], a [[c/_cryptogram|cryptogram]], an [[e/_encrypted|encrypted]] value. Usually used with the preposition "of" [[f/_followed|followed]] by the value that is [[h/_hidden|hidden]] in it.**
 ---
 ---

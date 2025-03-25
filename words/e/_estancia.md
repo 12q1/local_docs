@@ -1,6 +1,6 @@
 # Estancia
 ---
 #noun
-- **A large rural [[e/_estate|estate]] in Latin [[a/_america|America]]; a kind of ranch.**
+- **A [[l/_large|large]] rural [[e/_estate|estate]] in [[l/_latin|Latin]] [[a/_america|America]]; a [[k/_kind|kind]] of ranch.**
 ---
 ---

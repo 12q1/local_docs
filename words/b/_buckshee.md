@@ -1,11 +1,11 @@
 # Buckshee
 ---
 #noun
-- **A gift or [[b/_bribe|bribe]].**
-- **An extra portion, ration [[e/_etc|etc]].**
-- **A wound that is relatively minor but sufficient to get a soldier sent [[a/_away|away]] from the front to the hospital.**
+- **A [[g/_gift|gift]] or [[b/_bribe|bribe]].**
+- **An [[e/_extra|extra]] portion, ration [[e/_etc|etc]].**
+- **A wound that is relatively [[m/_minor|minor]] but sufficient to [[g/_get|get]] a soldier sent [[a/_away|away]] from the [[f/_front|front]] to the [[h/_hospital|hospital]].**
 ---
 #adjective
-- **Extra, spare.**
+- **[[e/_extra|Extra]], spare.**
 ---
 ---

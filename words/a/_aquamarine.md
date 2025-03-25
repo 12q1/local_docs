@@ -1,10 +1,10 @@
 # Aquamarine
 ---
 #noun
-- **The [[b/_bluish|bluish]]-green [[c/_colour|colour]] of the sea.**
-- **A [[b/_bluish|bluish]]-green variety of [[b/_beryl|beryl]].**
+- **The [[b/_bluish|bluish]]-[[g/_green|green]] [[c/_colour|colour]] of the sea.**
+- **A [[b/_bluish|bluish]]-[[g/_green|green]] variety of [[b/_beryl|beryl]].**
 ---
 #adjective
-- **Of a [[b/_bluish|bluish]]-green [[c/_colour|colour]].**
+- **Of a [[b/_bluish|bluish]]-[[g/_green|green]] [[c/_colour|colour]].**
 ---
 ---

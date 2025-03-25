@@ -1,7 +1,7 @@
 # Chummier
 ---
 #adjective
-- **Friendly; on, or trying to be on, intimate terms.**
+- **[[f/_friendly|Friendly]]; on, or trying to be on, [[i/_intimate|intimate]] terms.**
 ---
 ### Synonyms
 - [[f/_familiar|familiar]]

@@ -1,6 +1,6 @@
 # Biphasic
 ---
 #adjective
-- **Having two phases.**
+- **[[h/_having|Having]] two phases.**
 ---
 ---

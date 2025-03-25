@@ -1,9 +1,9 @@
 # Dishonest
 ---
 #adjective
-- **Not honest.**
-- **Interfering with honesty.**
-- **[[d/_dishonourable|Dishonourable]]; shameful; indecent; unchaste; lewd.**
+- **Not [[h/_honest|honest]].**
+- **[[i/_interfering|Interfering]] with [[h/_honesty|honesty]].**
+- **[[d/_dishonourable|Dishonourable]]; shameful; [[i/_indecent|indecent]]; unchaste; [[l/_lewd|lewd]].**
 - **[[d/_dishonoured|Dishonoured]]; [[d/_disgraced|disgraced]]; [[d/_disfigured|disfigured]].**
 ---
 ### Antonyms

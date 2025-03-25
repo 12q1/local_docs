@@ -1,6 +1,6 @@
 # Ensepulcher
 ---
 #verb
-- **To lay in a sepulcher; to [[e/_entomb|entomb]].**
+- **To [[l/_lay|lay]] in a sepulcher; to [[e/_entomb|entomb]].**
 ---
 ---

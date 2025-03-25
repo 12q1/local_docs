@@ -1,6 +1,6 @@
 # Cornfield
 ---
 #noun
-- **A field of [[c/_corn|corn]], wheat or other [[c/_cereal|cereal]] [[c/_crop|crop]]**
+- **A [[f/_field|field]] of [[c/_corn|corn]], wheat or [[o/_other|other]] [[c/_cereal|cereal]] [[c/_crop|crop]]**
 ---
 ---

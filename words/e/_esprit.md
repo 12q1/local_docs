@@ -3,6 +3,6 @@
 #noun
 - **Spirit, [[e/_enthusiasm|enthusiasm]].**
 - **A wit.**
-- **Liveliness, or [[a/_active|active]] mind and spirit.**
+- **[[l/_liveliness|Liveliness]], or [[a/_active|active]] [[m/_mind|mind]] and spirit.**
 ---
 ---

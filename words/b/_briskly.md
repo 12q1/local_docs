@@ -1,6 +1,6 @@
 # Briskly
 ---
 #adverb
-- **Fast, quickly, swiftly.**
+- **[[f/_fast|Fast]], quickly, swiftly.**
 ---
 ---

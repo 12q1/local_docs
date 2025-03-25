@@ -1,6 +1,6 @@
 # Cloque
 ---
 #noun
-- **A fabric with an [[e/_embossed|embossed]] [[d/_design|design]].**
+- **A [[f/_fabric|fabric]] with an [[e/_embossed|embossed]] [[d/_design|design]].**
 ---
 ---

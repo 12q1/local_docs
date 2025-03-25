@@ -1,6 +1,6 @@
 # Camas
 ---
 #noun
-- **[[a/_any|Any]] of the North [[a/_american|American]] flowering plants of the genus [[c/_camassia|Camassia]].**
+- **[[a/_any|Any]] of the [[n/_north|North]] [[a/_american|American]] [[f/_flowering|flowering]] plants of the [[g/_genus|genus]] [[c/_camassia|Camassia]].**
 ---
 ---

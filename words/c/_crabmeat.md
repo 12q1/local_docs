@@ -1,6 +1,6 @@
 # Crabmeat
 ---
 #noun
-- **The meat of a [[c/_crab|crab]].**
+- **The [[m/_meat|meat]] of a [[c/_crab|crab]].**
 ---
 ---

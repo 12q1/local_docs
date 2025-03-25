@@ -1,0 +1,7 @@
+# Lungwort
+---
+#noun
+- **[[a/_any|Any]] of various [[e/_european|European]] plants, of the [[g/_genus|genus]] Pulmonaria ([[f/_family|family]] [[b/_boraginaceae|Boraginaceae]]), that were [[o/_once|once]] used to treat respiratory [[d/_disorders|disorders]].**
+- **[[a/_any|Any]] of several [[o/_other|other]], unrelated plants, used to treat respiratory [[d/_disorders|disorders]]**
+---
+---

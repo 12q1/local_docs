@@ -1,14 +1,14 @@
 # Contrast
 ---
 #noun
-- **A [[d/_difference|difference]] in lightness, [[b/_brightness|brightness]] and/or hue [[b/_between|between]] two [[c/_colours|colours]] that makes them more or less [[d/_distinguishable|distinguishable]].**
-- **A [[d/_difference|difference]] [[b/_between|between]] two objects, people or [[c/_concepts|concepts]].**
+- **A [[d/_difference|difference]] in [[l/_lightness|lightness]], [[b/_brightness|brightness]] and/or [[h/_hue|hue]] [[b/_between|between]] two [[c/_colours|colours]] that [[m/_makes|makes]] them [[m/_more|more]] or [[l/_less|less]] [[d/_distinguishable|distinguishable]].**
+- **A [[d/_difference|difference]] [[b/_between|between]] two [[o/_objects|objects]], people or [[c/_concepts|concepts]].**
 	- _Example: Israel is a country of many contrasts._
 - **[[a/_antithesis|Antithesis]].**
 ---
 #verb
-- **To set in opposition in order to show the [[d/_difference|difference]] or [[d/_differences|differences]] [[b/_between|between]].**
-- **To form a [[c/_contrast|contrast]].**
+- **To set in [[o/_opposition|opposition]] in [[o/_order|order]] to show the [[d/_difference|difference]] or [[d/_differences|differences]] [[b/_between|between]].**
+- **To [[f/_form|form]] a [[c/_contrast|contrast]].**
 	- _Example: Foreground and background strongly contrast._
 ---
 ---

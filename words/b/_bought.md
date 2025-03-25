@@ -1,9 +1,9 @@
 # Bought
 ---
 #verb
-- **To obtain (something) in exchange for money or goods**
+- **To [[o/_obtain|obtain]] (something) in [[e/_exchange|exchange]] for [[m/_money|money]] or [[g/_goods|goods]]**
 	- _Example: I'm going to buy my father something nice for his birthday._
-- **To obtain by some sacrifice.**
+- **To [[o/_obtain|obtain]] by some sacrifice.**
 	- _Example: I've bought material comfort by foregoing my dreams._
 - **To [[b/_bribe|bribe]].**
 	- _Example: He tried to buy me with gifts, but I wouldn't give up my beliefs._
@@ -11,9 +11,9 @@
 	- _Example: The dollar doesn't buy as much as it used to._
 - **To [[a/_accept|accept]] as true; to [[b/_believe|believe]]**
 	- _Example: I'm not going to buy your stupid excuses anymore!_
-- **To make a purchase or purchases, to treat (for a meal)**
+- **To [[m/_make|make]] a purchase or purchases, to treat (for a [[m/_meal|meal]])**
 	- _Example: Let's go out for dinner. I'm buying._
-- **To make a [[b/_bluff|bluff]], usually a large one.**
+- **To [[m/_make|make]] a [[b/_bluff|bluff]], usually a [[l/_large|large]] [[o/_one|one]].**
 	- _Example: Smith tried to buy the pot on the river with a huge bluff_
 ---
 ### Synonyms

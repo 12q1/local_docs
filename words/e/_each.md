@@ -1,14 +1,14 @@
 # Each
 ---
 #noun
-- **(operations) An individual item: the least quantitative unit in a grouping.**
+- **([[o/_operations|operations]]) An [[i/_individual|individual]] [[i/_item|item]]: the [[l/_least|least]] quantitative unit in a [[g/_grouping|grouping]].**
 ---
 #adverb
-- **For one; [[a/_apiece|apiece]]; per.**
+- **For [[o/_one|one]]; [[a/_apiece|apiece]]; per.**
 	- _Example: The apples cost 50 cents each._
 ---
 #pronoun
-- **Every one; every thing.**
+- **[[e/_every|Every]] [[o/_one|one]]; [[e/_every|every]] thing.**
 	- _Example: From each according to his ability, to each according to his needs._
 ---
 ---

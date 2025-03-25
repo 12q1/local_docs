@@ -1,7 +1,7 @@
 # Dionysian
 ---
 #adjective
-- **Wild, irrational, and undisciplined**
+- **Wild, [[i/_irrational|irrational]], and undisciplined**
 ---
 ### Antonyms
 - [[a/_apollonian|apollonian]]

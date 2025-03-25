@@ -1,7 +1,7 @@
 # Colloquialism
 ---
 #noun
-- **A [[c/_colloquial|colloquial]] word or phrase; a [[c/_common|common]] spoken expression.**
+- **A [[c/_colloquial|colloquial]] word or phrase; a [[c/_common|common]] spoken [[e/_expression|expression]].**
 - **[[c/_colloquial|Colloquial]] style of speaking.**
 ---
 ---

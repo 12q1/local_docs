@@ -1,7 +1,7 @@
 # Biasing
 ---
 #verb
-- **To place [[b/_bias|bias]] upon; to influence.**
+- **To place [[b/_bias|bias]] upon; to [[i/_influence|influence]].**
 	- _Example: Our prejudices bias our views._
 ---
 #noun

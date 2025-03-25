@@ -2,7 +2,7 @@
 ---
 #adjective
 - **(of soil) Sandy.**
-- **(of a plant) Growing in sandy soil.**
+- **(of a plant) [[g/_growing|Growing]] in sandy soil.**
 - **Arenitic.**
 ---
 ---

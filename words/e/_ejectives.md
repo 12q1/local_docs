@@ -1,6 +1,6 @@
 # Ejectives
 ---
 #noun
-- **A nonpulmonic [[c/_consonant|consonant]] formed by squeezing [[a/_air|air]] trapped [[b/_between|between]] the glottis and an [[a/_articulator|articulator]] further forward, and releasing it suddenly.**
+- **A nonpulmonic [[c/_consonant|consonant]] [[f/_formed|formed]] by squeezing [[a/_air|air]] trapped [[b/_between|between]] the [[g/_glottis|glottis]] and an [[a/_articulator|articulator]] [[f/_further|further]] [[f/_forward|forward]], and releasing it suddenly.**
 ---
 ---

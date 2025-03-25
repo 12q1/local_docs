@@ -1,13 +1,13 @@
 # Athletic
 ---
 #adjective
-- **Having to [[d/_do|do]] with [[a/_athletes|athletes]].**
+- **[[h/_having|Having]] to [[d/_do|do]] with [[a/_athletes|athletes]].**
 	- _Example: Are you a member of the American Athletic Association?_
 - **Physically [[a/_active|active]].**
 	- _Example: Since you're such an athletic person, you may wish to consider joining._
-- **Having a muscular, well [[d/_developed|developed]] [[b/_body|body]], [[b/_being|being]] in shape.**
+- **[[h/_having|Having]] a [[m/_muscular|muscular]], well [[d/_developed|developed]] [[b/_body|body]], [[b/_being|being]] in shape.**
 	- _Example: You have such an athletic build—you must work out regularly._
-- **An [[a/_attribute|attribute]] of a motion or play which requires fine physical [[a/_ability|ability]].**
+- **An [[a/_attribute|attribute]] of a [[m/_motion|motion]] or play which requires [[f/_fine|fine]] physical [[a/_ability|ability]].**
 	- _Example: The center fielder made an athletic play to snatch the ball from over the fence._
 ---
 ---

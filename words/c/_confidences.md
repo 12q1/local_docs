@@ -2,8 +2,8 @@
 ---
 #noun
 - **Self-[[a/_assurance|assurance]].**
-- **A feeling of [[c/_certainty|certainty]]; firm trust or [[b/_belief|belief]]; faith.**
-- **Information held in secret.**
+- **A [[f/_feeling|feeling]] of [[c/_certainty|certainty]]; [[f/_firm|firm]] trust or [[b/_belief|belief]]; [[f/_faith|faith]].**
+- **[[i/_information|Information]] [[h/_held|held]] in secret.**
 - **[[b/_boldness|Boldness]]; presumption.**
 ---
 ### Antonyms

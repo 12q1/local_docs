@@ -1,6 +1,6 @@
 # Cephalon
 ---
 #noun
-- **The head of a trilobite.**
+- **The [[h/_head|head]] of a trilobite.**
 ---
 ---

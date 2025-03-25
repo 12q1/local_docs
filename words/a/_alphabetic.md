@@ -1,6 +1,6 @@
 # Alphabetic
 ---
 #adjective
-- **Of or relating to an [[a/_alphabet|alphabet]], [[e/_especially|especially]] the [[c/_characters|characters]] A to Z, [[b/_both|both]] uppercase and lowercase.**
+- **Of or relating to an [[a/_alphabet|alphabet]], [[e/_especially|especially]] the [[c/_characters|characters]] A to Z, [[b/_both|both]] uppercase and [[l/_lowercase|lowercase]].**
 ---
 ---

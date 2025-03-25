@@ -1,7 +1,7 @@
 # Dimeter
 ---
 #noun
-- **A line in a poem having two metrical feet.**
-- **A poetic metre in which [[e/_each|each]] line has two feet.**
+- **A [[l/_line|line]] in a poem [[h/_having|having]] two [[m/_metrical|metrical]] [[f/_feet|feet]].**
+- **A poetic [[m/_metre|metre]] in which [[e/_each|each]] [[l/_line|line]] [[h/_has|has]] two [[f/_feet|feet]].**
 ---
 ---

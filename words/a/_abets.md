@@ -1,14 +1,14 @@
 # Abets
 ---
 #noun
-- **Fraud or [[c/_cunning|cunning]].**
-- **An [[a/_act|act]] of [[a/_abetting|abetting]]; of helping; of giving [[a/_aid|aid]].**
+- **[[f/_fraud|Fraud]] or [[c/_cunning|cunning]].**
+- **An [[a/_act|act]] of [[a/_abetting|abetting]]; of [[h/_helping|helping]]; of [[g/_giving|giving]] [[a/_aid|aid]].**
 ---
 #verb
 - **To urge on, stimulate (a person to [[d/_do|do]]) something [[d/_desirable|desirable]].**
-- **To incite; to [[a/_assist|assist]] or [[e/_encourage|encourage]] by [[a/_aid|aid]] or [[c/_countenance|countenance]] in [[c/_crime|crime]].**
-- **To support, [[c/_countenance|countenance]], maintain, uphold, or [[a/_aid|aid]] ([[a/_any|any]] good [[c/_cause|cause]], opinion, or [[a/_action|action]]); to maintain.**
-- **To [[b/_back|back]] up one's forecast of a [[d/_doubtful|doubtful]] issue, by staking money, [[e/_etc|etc]]., to [[b/_bet|bet]].**
+- **To [[i/_incite|incite]]; to [[a/_assist|assist]] or [[e/_encourage|encourage]] by [[a/_aid|aid]] or [[c/_countenance|countenance]] in [[c/_crime|crime]].**
+- **To support, [[c/_countenance|countenance]], [[m/_maintain|maintain]], uphold, or [[a/_aid|aid]] ([[a/_any|any]] [[g/_good|good]] [[c/_cause|cause]], [[o/_opinion|opinion]], or [[a/_action|action]]); to [[m/_maintain|maintain]].**
+- **To [[b/_back|back]] up [[o/_one|one]]'s [[f/_forecast|forecast]] of a [[d/_doubtful|doubtful]] [[i/_issue|issue]], by staking [[m/_money|money]], [[e/_etc|etc]]., to [[b/_bet|bet]].**
 ---
 ### Synonyms
 - [[a/_advocate|advocate]], [[a/_aid|aid]], [[a/_assist|assist]], [[b/_back|back]], [[c/_connive|connive]], [[c/_cooperate|cooperate]], [[c/_countenance|countenance]], [[e/_embolden|embolden]], [[e/_encourage|encourage]], [[f/_favor|favor]], [[f/_foment|foment]], [[i/_incite|incite]], [[i/_instigate|instigate]], [[p/_promote|promote]], [[s/_sanction|sanction]], [[s/_second|second]], [[s/_support|support]], [[s/_sustain|sustain]], [[u/_uphold|uphold]]

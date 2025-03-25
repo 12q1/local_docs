@@ -1,6 +1,6 @@
 # Duco
 ---
 #noun
-- **[[a/_automotive|Automotive]] paint**
+- **[[a/_automotive|Automotive]] [[p/_paint|paint]]**
 ---
 ---

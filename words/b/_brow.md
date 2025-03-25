@@ -1,19 +1,19 @@
 # Brow
 ---
 #noun
-- **The ridge over the [[e/_eyes|eyes]]; the [[e/_eyebrow|eyebrow]].**
-- **The first tine of an [[a/_antler|antler]]'s [[b/_beam|beam]].**
-- **The forehead.**
-- **The projecting upper [[e/_edge|edge]] of a steep place such as a hill.**
+- **The ridge [[o/_over|over]] the [[e/_eyes|eyes]]; the [[e/_eyebrow|eyebrow]].**
+- **The [[f/_first|first]] tine of an [[a/_antler|antler]]'s [[b/_beam|beam]].**
+- **The [[f/_forehead|forehead]].**
+- **The projecting upper [[e/_edge|edge]] of a steep place such as a [[h/_hill|hill]].**
 	- _Example: the brow of a precipice_
-- **A gallery in a [[c/_coal|coal]] mine running [[a/_across|across]] the face of the [[c/_coal|coal]].**
+- **A [[g/_gallery|gallery]] in a [[c/_coal|coal]] [[m/_mine|mine]] running [[a/_across|across]] the [[f/_face|face]] of the [[c/_coal|coal]].**
 - **[[a/_aspect|Aspect]]; [[a/_appearance|appearance]].**
-- **The gangway from ship to shore when a ship is lying [[a/_alongside|alongside]] a quay.**
-- **The hinged part of a landing [[c/_craft|craft]] or ferry which is lowered to form a landing platform; a ramp.**
+- **The [[g/_gangway|gangway]] from ship to shore when a ship is [[l/_lying|lying]] [[a/_alongside|alongside]] a quay.**
+- **The [[h/_hinged|hinged]] part of a [[l/_landing|landing]] [[c/_craft|craft]] or [[f/_ferry|ferry]] which is [[l/_lowered|lowered]] to [[f/_form|form]] a [[l/_landing|landing]] platform; a ramp.**
 ---
 ### Synonyms
 - [[f/_forehead|forehead]]
 #verb
-- **To [[b/_bound|bound]] or limit; to be at, or form, the [[e/_edge|edge]] of.**
+- **To [[b/_bound|bound]] or [[l/_limit|limit]]; to be at, or [[f/_form|form]], the [[e/_edge|edge]] of.**
 ---
 ---

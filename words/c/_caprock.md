@@ -1,6 +1,6 @@
 # Caprock
 ---
 #noun
-- **A harder or more resistant rock type overlying a weaker or less resistant rock type.**
+- **A [[h/_harder|harder]] or [[m/_more|more]] resistant rock type [[o/_overlying|overlying]] a weaker or [[l/_less|less]] resistant rock type.**
 ---
 ---

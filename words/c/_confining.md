@@ -1,10 +1,10 @@
 # Confining
 ---
 #verb
-- **To restrict; to keep within [[b/_bounds|bounds]]; to shut or keep in a limited space or [[a/_area|area]].**
-- **To have a [[c/_common|common]] [[b/_boundary|boundary]]; to [[b/_border|border]]; to lie [[c/_contiguous|contiguous]]; to touch; followed by on or with.**
+- **To restrict; to [[k/_keep|keep]] within [[b/_bounds|bounds]]; to shut or [[k/_keep|keep]] in a [[l/_limited|limited]] space or [[a/_area|area]].**
+- **To [[h/_have|have]] a [[c/_common|common]] [[b/_boundary|boundary]]; to [[b/_border|border]]; to [[l/_lie|lie]] [[c/_contiguous|contiguous]]; to touch; [[f/_followed|followed]] by on or with.**
 ---
 #adjective
-- **Limiting; restrictive**
+- **[[l/_limiting|Limiting]]; restrictive**
 ---
 ---

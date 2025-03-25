@@ -1,7 +1,7 @@
 # Broadly
 ---
 #adverb
-- **Widely and openly.**
-- **In a wide manner; liberally; in a loose sense.**
+- **Widely and [[o/_openly|openly]].**
+- **In a wide [[m/_manner|manner]]; [[l/_liberally|liberally]]; in a [[l/_loose|loose]] sense.**
 ---
 ---

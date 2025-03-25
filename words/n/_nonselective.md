@@ -1,0 +1,6 @@
+# Nonselective
+---
+#adjective
+- **Not selective**
+---
+---

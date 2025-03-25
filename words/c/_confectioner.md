@@ -1,6 +1,6 @@
 # Confectioner
 ---
 #noun
-- **A manufacturer of or [[d/_dealer|dealer]] in [[c/_confections|confections]].**
+- **A [[m/_manufacturer|manufacturer]] of or [[d/_dealer|dealer]] in [[c/_confections|confections]].**
 ---
 ---

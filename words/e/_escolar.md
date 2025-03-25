@@ -1,9 +1,9 @@
 # Escolar
 ---
 #noun
-- **Lepidocybium flavobrunneum, one of the snake mackerels.**
-- **[[a/_any|Any]] fish of species Ruvettus pretiosus, oilfish.**
-- **[[a/_any|Any]] of several other perciform fish of the family Gempylidae (snake mackerels).**
+- **Lepidocybium flavobrunneum, [[o/_one|one]] of the snake [[m/_mackerels|mackerels]].**
+- **[[a/_any|Any]] [[f/_fish|fish]] of species Ruvettus pretiosus, [[o/_oilfish|oilfish]].**
+- **[[a/_any|Any]] of several [[o/_other|other]] perciform [[f/_fish|fish]] of the [[f/_family|family]] Gempylidae (snake [[m/_mackerels|mackerels]]).**
 ---
 ### Synonyms
 - [[b/_butterfish|butterfish]]

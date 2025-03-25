@@ -1,8 +1,8 @@
 # Beforehand
 ---
 #adjective
-- **In [[c/_comfortable|comfortable]] [[c/_circumstances|circumstances]] as regards property; forehanded.**
-- **(often followed by with) In a state of [[a/_anticipation|anticipation]] or preoccupation.**
+- **In [[c/_comfortable|comfortable]] [[c/_circumstances|circumstances]] as regards property; [[f/_forehanded|forehanded]].**
+- **([[o/_often|often]] [[f/_followed|followed]] by with) In a state of [[a/_anticipation|anticipation]] or preoccupation.**
 ---
 #adverb
 - **At an [[e/_earlier|earlier]] or preceding time.**

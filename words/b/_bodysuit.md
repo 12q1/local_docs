@@ -1,7 +1,7 @@
 # Bodysuit
 ---
 #noun
-- **A one-piece, skin-tight garment rather like a leotard.**
+- **A [[o/_one|one]]-piece, skin-tight [[g/_garment|garment]] rather [[l/_like|like]] a [[l/_leotard|leotard]].**
 ---
 ### Synonyms
 - [[b/_bodyliner|bodyliner]]

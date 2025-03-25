@@ -1,6 +1,6 @@
 # Cero
 ---
 #noun
-- **A large scombroid food fish (Scomberomorus regalis) found [[c/_chiefly|chiefly]] in the West Indies.**
+- **A [[l/_large|large]] scombroid [[f/_food|food]] [[f/_fish|fish]] (Scomberomorus regalis) [[f/_found|found]] [[c/_chiefly|chiefly]] in the West [[i/_indies|Indies]].**
 ---
 ---

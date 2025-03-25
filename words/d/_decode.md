@@ -2,11 +2,11 @@
 ---
 #noun
 - **A product of [[d/_decoding|decoding]]**
-- **Output from a program or [[d/_device|device]] used to interpret [[c/_communication|communication]] protocols**
+- **[[o/_output|Output]] from a program or [[d/_device|device]] used to [[i/_interpret|interpret]] [[c/_communication|communication]] protocols**
 ---
 #verb
-- **To [[c/_convert|convert]] from an [[e/_encrypted|encrypted]] form to plain text.**
-- **To figure out something [[d/_difficult|difficult]] to interpret.**
+- **To [[c/_convert|convert]] from an [[e/_encrypted|encrypted]] [[f/_form|form]] to plain text.**
+- **To [[f/_figure|figure]] [[o/_out|out]] something [[d/_difficult|difficult]] to [[i/_interpret|interpret]].**
 ---
 ### Synonyms
 - [[d/_decipher|decipher]]

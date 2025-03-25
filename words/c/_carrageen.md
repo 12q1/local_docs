@@ -1,6 +1,6 @@
 # Carrageen
 ---
 #noun
-- **Irish moss ([[c/_chondrus|Chondrus]] crispus)**
+- **[[i/_irish|Irish]] [[m/_moss|moss]] ([[c/_chondrus|Chondrus]] crispus)**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cyclothymia
 ---
 #noun
-- **A [[c/_chronic|chronic]] mental [[d/_disturbance|disturbance]] [[c/_characterized|characterized]] by mood swings and [[d/_depression|depression]].**
+- **A [[c/_chronic|chronic]] [[m/_mental|mental]] [[d/_disturbance|disturbance]] [[c/_characterized|characterized]] by [[m/_mood|mood]] swings and [[d/_depression|depression]].**
 ---
 ---

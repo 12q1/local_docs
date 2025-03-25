@@ -1,6 +1,6 @@
 # Cavendish
 ---
 #noun
-- **Leaf tobacco softened, sweetened, and pressed into plugs or [[c/_cakes|cakes]].**
+- **[[l/_leaf|Leaf]] tobacco softened, sweetened, and pressed [[i/_into|into]] plugs or [[c/_cakes|cakes]].**
 ---
 ---

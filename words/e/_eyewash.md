@@ -1,13 +1,13 @@
 # Eyewash
 ---
 #noun
-- **A soothing medicated lotion for the [[e/_eyes|eyes]]**
-- **Nonsense; flattery; pretentiousness.**
+- **A soothing [[m/_medicated|medicated]] [[l/_lotion|lotion]] for the [[e/_eyes|eyes]]**
+- **[[n/_nonsense|Nonsense]]; [[f/_flattery|flattery]]; pretentiousness.**
 ---
 ### Synonyms
 - 
 #verb
-- **To fool with nonsense or flattery.**
-- **(intelligence) To keep information secret by sending false information to many people in one's own organization, and [[c/_correct|correct]] information to a select few.**
+- **To [[f/_fool|fool]] with [[n/_nonsense|nonsense]] or [[f/_flattery|flattery]].**
+- **([[i/_intelligence|intelligence]]) To [[k/_keep|keep]] [[i/_information|information]] secret by sending [[f/_false|false]] [[i/_information|information]] to [[m/_many|many]] people in [[o/_one|one]]'s [[o/_own|own]] [[o/_organization|organization]], and [[c/_correct|correct]] [[i/_information|information]] to a select [[f/_few|few]].**
 ---
 ---

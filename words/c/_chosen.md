@@ -1,7 +1,7 @@
 # Chosen
 ---
 #verb
-- **To pick; to make the [[c/_choice|choice]] of; to select.**
+- **To pick; to [[m/_make|make]] the [[c/_choice|choice]] of; to select.**
 	- _Example: I chose a nice ripe apple from the fruit bowl._
 - **To [[e/_elect|elect]].**
 	- _Example: He was chosen as president in 1990._

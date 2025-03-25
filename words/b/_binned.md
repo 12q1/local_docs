@@ -1,10 +1,10 @@
 # Binned
 ---
 #verb
-- **To [[d/_dispose|dispose]] of (something) by putting it into a [[b/_bin|bin]], or as if putting it into a [[b/_bin|bin]].**
-- **To throw [[a/_away|away]], reject, give up.**
-- **To [[c/_convert|convert]] [[c/_continuous|continuous]] [[d/_data|data]] into [[d/_discrete|discrete]] groups.**
-- **To place into a [[b/_bin|bin]] for storage.**
+- **To [[d/_dispose|dispose]] of (something) by putting it [[i/_into|into]] a [[b/_bin|bin]], or as [[i/_if|if]] putting it [[i/_into|into]] a [[b/_bin|bin]].**
+- **To throw [[a/_away|away]], reject, [[g/_give|give]] up.**
+- **To [[c/_convert|convert]] [[c/_continuous|continuous]] [[d/_data|data]] [[i/_into|into]] [[d/_discrete|discrete]] [[g/_groups|groups]].**
+- **To place [[i/_into|into]] a [[b/_bin|bin]] for storage.**
 	- _Example: to bin wine_
 ---
 ### Synonyms

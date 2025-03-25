@@ -1,6 +1,6 @@
 # Agrobiology
 ---
 #noun
-- **The science of plant life and nutrition.**
+- **The science of plant [[l/_life|life]] and [[n/_nutrition|nutrition]].**
 ---
 ---

@@ -2,20 +2,20 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_clearing|clearing]] or something (such as a space) [[c/_cleared|cleared]]**
-- **The [[d/_distance|distance]] [[b/_between|between]] two moving objects, [[e/_especially|especially]] [[b/_between|between]] parts of a machine**
-- **The height or width of a tunnel, [[b/_bridge|bridge]] or other passage, or the [[d/_distance|distance]] [[b/_between|between]] a vehicle and the walls or roof of such passage; a gap, headroom.**
+- **The [[d/_distance|distance]] [[b/_between|between]] two [[m/_moving|moving]] [[o/_objects|objects]], [[e/_especially|especially]] [[b/_between|between]] parts of a [[m/_machine|machine]]**
+- **The [[h/_height|height]] or width of a tunnel, [[b/_bridge|bridge]] or [[o/_other|other]] passage, or the [[d/_distance|distance]] [[b/_between|between]] a vehicle and the walls or roof of such passage; a [[g/_gap|gap]], [[h/_headroom|headroom]].**
 - **A permission for a vehicle to proceed, or for a person to travel.**
 	- _Example: He got clearance to travel to America, even though he had previous links to terrorists_
-- **A permission to have [[a/_access|access]] to sensitive or secret [[d/_documents|documents]] or other information.**
-- **A permission to use something, usually intellectual property, that is legally, but not otherwise, protected.**
-- **(retail) A sale of merchandise, [[e/_especially|especially]] at significantly reduced prices in order to make room for new merchandise or updated versions of the same merchandise.**
-- **The settlement of transactions involving securities or means of payment such as [[c/_checks|checks]] by means of a [[c/_clearing|clearing]] house.**
-- **The removal of harmful substances from the [[b/_blood|blood]]; renal [[c/_clearance|clearance]].**
-- **The [[a/_act|act]] of potting [[a/_all|all]] the remaining [[b/_balls|balls]] on a table at one visit.**
-- **The [[a/_act|act]] of kicking a [[b/_ball|ball]] [[a/_away|away]] from the goal one is [[d/_defending|defending]].**
-- **Removal of pieces from a rank, file or [[d/_diagonal|diagonal]] so that a [[b/_bishop|bishop]], rook or queen is free to move [[a/_along|along]] it.**
-- **[[c/_clear|Clear]] or net profit.**
-- **The first [[d/_disposal|disposal]] in a [[c/_chain|chain]] that leaves the [[a/_area|area]] of a stoppage, or a [[d/_disposal|disposal]] that leaves the [[a/_area|area]] of a stoppage itself.**
-- **The [[a/_act|act]] of leaving the [[a/_area|area]] of a stoppage.**
+- **A permission to [[h/_have|have]] [[a/_access|access]] to sensitive or secret [[d/_documents|documents]] or [[o/_other|other]] [[i/_information|information]].**
+- **A permission to use something, usually [[i/_intellectual|intellectual]] property, that is [[l/_legally|legally]], but not [[o/_otherwise|otherwise]], protected.**
+- **(retail) A sale of [[m/_merchandise|merchandise]], [[e/_especially|especially]] at significantly reduced prices in [[o/_order|order]] to [[m/_make|make]] room for [[n/_new|new]] [[m/_merchandise|merchandise]] or updated versions of the same [[m/_merchandise|merchandise]].**
+- **The settlement of transactions [[i/_involving|involving]] securities or [[m/_means|means]] of [[p/_payment|payment]] such as [[c/_checks|checks]] by [[m/_means|means]] of a [[c/_clearing|clearing]] [[h/_house|house]].**
+- **The removal of [[h/_harmful|harmful]] substances from the [[b/_blood|blood]]; renal [[c/_clearance|clearance]].**
+- **The [[a/_act|act]] of potting [[a/_all|all]] the remaining [[b/_balls|balls]] on a table at [[o/_one|one]] visit.**
+- **The [[a/_act|act]] of [[k/_kicking|kicking]] a [[b/_ball|ball]] [[a/_away|away]] from the [[g/_goal|goal]] [[o/_one|one]] is [[d/_defending|defending]].**
+- **Removal of pieces from a rank, [[f/_file|file]] or [[d/_diagonal|diagonal]] so that a [[b/_bishop|bishop]], rook or queen is [[f/_free|free]] to [[m/_move|move]] [[a/_along|along]] it.**
+- **[[c/_clear|Clear]] or [[n/_net|net]] profit.**
+- **The [[f/_first|first]] [[d/_disposal|disposal]] in a [[c/_chain|chain]] that [[l/_leaves|leaves]] the [[a/_area|area]] of a stoppage, or a [[d/_disposal|disposal]] that [[l/_leaves|leaves]] the [[a/_area|area]] of a stoppage [[i/_itself|itself]].**
+- **The [[a/_act|act]] of [[l/_leaving|leaving]] the [[a/_area|area]] of a stoppage.**
 ---
 ---

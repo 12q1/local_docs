@@ -1,6 +1,6 @@
 # Bozos
 ---
 #noun
-- **A stupid, foolish, or ridiculous person, [[e/_especially|especially]] a man.**
+- **A stupid, [[f/_foolish|foolish]], or ridiculous person, [[e/_especially|especially]] a [[m/_man|man]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cooeeing
 ---
 #verb
-- **To make such a [[c/_call|call]].**
+- **To [[m/_make|make]] such a [[c/_call|call]].**
 ---
 ---

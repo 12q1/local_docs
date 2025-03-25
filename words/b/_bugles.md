@@ -1,22 +1,22 @@
 # Bugles
 ---
 #noun
-- **A horn used by hunters.**
-- **A simple [[b/_brass|brass]] instrument [[c/_consisting|consisting]] of a horn with no valves, playing only pitches in its harmonic series**
-- **A plant in the family Lamiaceae grown as a ground [[c/_cover|cover]], [[a/_ajuga|Ajuga]] reptans, and other plants in the genus [[a/_ajuga|Ajuga]].**
-- **[[a/_anything|Anything]] shaped like a [[b/_bugle|bugle]], round or [[c/_conical|conical]] and having a [[b/_bell|bell]] on one [[e/_end|end]].**
+- **A [[h/_horn|horn]] used by [[h/_hunters|hunters]].**
+- **A simple [[b/_brass|brass]] [[i/_instrument|instrument]] [[c/_consisting|consisting]] of a [[h/_horn|horn]] with [[n/_no|no]] valves, playing [[o/_only|only]] pitches in [[i/_its|its]] [[h/_harmonic|harmonic]] series**
+- **A plant in the [[f/_family|family]] [[l/_lamiaceae|Lamiaceae]] [[g/_grown|grown]] as a [[g/_ground|ground]] [[c/_cover|cover]], [[a/_ajuga|Ajuga]] reptans, and [[o/_other|other]] plants in the [[g/_genus|genus]] [[a/_ajuga|Ajuga]].**
+- **[[a/_anything|Anything]] shaped [[l/_like|like]] a [[b/_bugle|bugle]], round or [[c/_conical|conical]] and [[h/_having|having]] a [[b/_bell|bell]] on [[o/_one|one]] [[e/_end|end]].**
 ---
 ### Synonyms
 - [[c/_cone|cone]], [[f/_funnel|funnel]], [[b/_bugleweed|bugleweed]]
 #verb
-- **To [[a/_announce|announce]], sing, or [[c/_cry|cry]] in the manner of a musical [[b/_bugle|bugle]]**
+- **To [[a/_announce|announce]], sing, or [[c/_cry|cry]] in the [[m/_manner|manner]] of a [[m/_musical|musical]] [[b/_bugle|bugle]]**
 ---
 ### Synonyms
 - [[t/_trumpet|trumpet]]
 #noun
-- **A tubular glass or plastic [[b/_bead|bead]] sewn onto [[c/_clothes|clothes]] as a [[d/_decorative|decorative]] trim**
+- **A tubular [[g/_glass|glass]] or plastic [[b/_bead|bead]] sewn [[o/_onto|onto]] [[c/_clothes|clothes]] as a [[d/_decorative|decorative]] trim**
 ---
 #noun
-- **A sort of wild ox; a [[b/_buffalo|buffalo]].**
+- **A sort of wild [[o/_ox|ox]]; a [[b/_buffalo|buffalo]].**
 ---
 ---

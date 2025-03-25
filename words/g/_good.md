@@ -1,0 +1,21 @@
+# Good
+---
+#adjective
+- **(of people)**
+- **(of [[c/_capabilities|capabilities]])**
+- **(properties and qualities)**
+- **(when with and) Very, [[e/_extremely|extremely]]. See [[g/_good|good]] and.**
+	- _Example: The soup is good and hot._
+- **[[h/_holy|Holy]] ([[e/_especially|especially]] when [[c/_capitalized|capitalized]]) .**
+	- _Example: Good Friday_
+- **(of quantities)**
+---
+### Synonyms
+- [[a/_accomplished|accomplished]], [[d/_decent|decent]], [[s/_satisfactory|satisfactory]], [[w/_well|well]]
+### Antonyms
+- [[b/_bad|bad]], [[e/_evil|evil]], [[b/_bad|bad]], [[p/_poor|poor]]
+#interjection
+- **That is [[g/_good|good]]; an [[e/_elliptical|elliptical]] [[e/_exclamation|exclamation]] of satisfaction or [[c/_commendation|commendation]].**
+	- _Example: Good! I can leave now._
+---
+---

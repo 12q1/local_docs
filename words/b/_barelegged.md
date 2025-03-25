@@ -1,9 +1,9 @@
 # Barelegged
 ---
 #adjective
-- **Having uncovered legs.**
+- **[[h/_having|Having]] uncovered [[l/_legs|legs]].**
 ---
 #adverb
-- **With uncovered legs.**
+- **With uncovered [[l/_legs|legs]].**
 ---
 ---

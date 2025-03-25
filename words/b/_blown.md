@@ -6,55 +6,55 @@
 	- _Example: Blow the dust off that book and open it up._
 - **To be propelled by an [[a/_air|air]] [[c/_current|current]].**
 	- _Example: The leaves blow through the streets in the fall._
-- **To [[c/_create|create]] or shape by [[b/_blowing|blowing]]; as in to [[b/_blow|blow]] [[b/_bubbles|bubbles]], to [[b/_blow|blow]] glass.**
-- **To force a [[c/_current|current]] of [[a/_air|air]] upon with the mouth, or by other means.**
+- **To [[c/_create|create]] or shape by [[b/_blowing|blowing]]; as in to [[b/_blow|blow]] [[b/_bubbles|bubbles]], to [[b/_blow|blow]] [[g/_glass|glass]].**
+- **To [[f/_force|force]] a [[c/_current|current]] of [[a/_air|air]] upon with the [[m/_mouth|mouth]], or by [[o/_other|other]] [[m/_means|means]].**
 	- _Example: to blow the fire_
-- **To [[c/_clear|clear]] of [[c/_contents|contents]] by forcing [[a/_air|air]] through.**
+- **To [[c/_clear|clear]] of [[c/_contents|contents]] by [[f/_forcing|forcing]] [[a/_air|air]] through.**
 	- _Example: to blow an egg_
-- **To [[c/_cause|cause]] to make sound by [[b/_blowing|blowing]], as a musical instrument.**
-- **To make a sound as the result of [[b/_being|being]] [[b/_blown|blown]].**
+- **To [[c/_cause|cause]] to [[m/_make|make]] sound by [[b/_blowing|blowing]], as a [[m/_musical|musical]] [[i/_instrument|instrument]].**
+- **To [[m/_make|make]] a sound as the result of [[b/_being|being]] [[b/_blown|blown]].**
 	- _Example: In the harbor, the ships' horns blew._
-- **(of a [[c/_cetacean|cetacean]]) To exhale visibly through the spout the seawater which it has taken in while feeding.**
+- **(of a [[c/_cetacean|cetacean]]) To [[e/_exhale|exhale]] visibly through the spout the seawater which it [[h/_has|has]] taken in while [[f/_feeding|feeding]].**
 	- _Example: There she blows! (i.e. "I see a whale spouting!")_
-- **To explode.**
+- **To [[e/_explode|explode]].**
 	- _Example: Get away from that burning gas tank! It's about to blow!_
-- **(with "up" or with prep phrase headed by "to") To [[c/_cause|cause]] to explode, shatter, or be utterly [[d/_destroyed|destroyed]].**
+- **(with "up" or with prep phrase [[h/_headed|headed]] by "to") To [[c/_cause|cause]] to [[e/_explode|explode]], shatter, or be utterly [[d/_destroyed|destroyed]].**
 	- _Example: The aerosol can was blown to bits._
 - **To [[c/_cause|cause]] sudden [[d/_destruction|destruction]] of.**
 	- _Example: He blew the tires and the engine._
-- **To suddenly fail [[d/_destructively|destructively]].**
+- **To suddenly [[f/_fail|fail]] [[d/_destructively|destructively]].**
 	- _Example: He tried to sprint, but his ligaments blew and he was barely able to walk to the finish line._
-- **(used to express [[d/_displeasure|displeasure]] or frustration) [[d/_damn|Damn]].**
+- **(used to [[e/_express|express]] [[d/_displeasure|displeasure]] or [[f/_frustration|frustration]]) [[d/_damn|Damn]].**
 - **To be very undesirable. (See [[a/_also|also]] suck.)**
 	- _Example: This blows!_
 - **To recklessly squander.**
 	- _Example: I blew $35 thou on a car._
-- **To fellate; to perform oral sex on (usually a man)**
+- **To [[f/_fellate|fellate]]; to perform [[o/_oral|oral]] sex on (usually a [[m/_man|man]])**
 	- _Example: Who did you have to blow to get those backstage passes?_
-- **To leave, [[e/_especially|especially]] suddenly or in a hurry.**
+- **To [[l/_leave|leave]], [[e/_especially|especially]] suddenly or in a [[h/_hurry|hurry]].**
 	- _Example: Let's blow this joint._
-- **To make flyblown, to [[d/_defile|defile]], [[e/_especially|especially]] with fly [[e/_eggs|eggs]].**
+- **To [[m/_make|make]] [[f/_flyblown|flyblown]], to [[d/_defile|defile]], [[e/_especially|especially]] with [[f/_fly|fly]] [[e/_eggs|eggs]].**
 - **To spread by report; to publish; to [[d/_disclose|disclose]].**
-- **To inflate, as with pride; to puff up.**
-- **To [[b/_breathe|breathe]] hard or quick; to pant; to puff.**
-- **To put out of [[b/_breath|breath]]; to [[c/_cause|cause]] to [[b/_blow|blow]] from fatigue.**
+- **To [[i/_inflate|inflate]], as with pride; to puff up.**
+- **To [[b/_breathe|breathe]] [[h/_hard|hard]] or quick; to pant; to puff.**
+- **To put [[o/_out|out]] of [[b/_breath|breath]]; to [[c/_cause|cause]] to [[b/_blow|blow]] from [[f/_fatigue|fatigue]].**
 	- _Example: to blow a horse_
-- **To talk loudly; to [[b/_boast|boast]]; to storm.**
+- **To talk [[l/_loudly|loudly]]; to [[b/_boast|boast]]; to storm.**
 - **To sing.**
 	- _Example: That girl has a wonderful voice; just listen to her blow!_
-- **To leave the [[c/_church|Church]] of Scientology in an unauthorized manner.**
+- **To [[l/_leave|leave]] the [[c/_church|Church]] of Scientology in an unauthorized [[m/_manner|manner]].**
 ---
 #verb
 - **To [[b/_blossom|blossom]]; to [[c/_cause|cause]] to [[b/_bloom|bloom]] or [[b/_blossom|blossom]].**
 ---
 #adjective
-- **[[d/_distended|Distended]], swollen or inflated**
+- **[[d/_distended|Distended]], swollen or [[i/_inflated|inflated]]**
 	- _Example: Cattle are said to be blown when gorged with green food which develops gas._
-- **Panting and out of [[b/_breath|breath]]**
-- **(of glass) Formed by [[b/_blowing|blowing]]**
-- **Under the influence of [[d/_drugs|drugs]], [[e/_especially|especially]] marijuana.**
+- **Panting and [[o/_out|out]] of [[b/_breath|breath]]**
+- **(of [[g/_glass|glass]]) [[f/_formed|Formed]] by [[b/_blowing|blowing]]**
+- **Under the [[i/_influence|influence]] of [[d/_drugs|drugs]], [[e/_especially|especially]] [[m/_marijuana|marijuana]].**
 - **Stale; worthless**
-- **[[c/_covered|Covered]] with the [[e/_eggs|eggs]] and larvae of flies; flyblown.**
-- **Given a hot rod [[b/_blower|blower]].**
+- **[[c/_covered|Covered]] with the [[e/_eggs|eggs]] and [[l/_larvae|larvae]] of [[f/_flies|flies]]; [[f/_flyblown|flyblown]].**
+- **[[g/_given|Given]] a [[h/_hot|hot]] rod [[b/_blower|blower]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bootlaces
 ---
 #noun
-- **A long lace for fastening [[b/_boots|boots]].**
-- **A long, thin, [[c/_chewy|chewy]] [[c/_confectionery|confectionery]], typically with liquorice or fruit flavour.**
+- **A [[l/_long|long]] [[l/_lace|lace]] for [[f/_fastening|fastening]] [[b/_boots|boots]].**
+- **A [[l/_long|long]], thin, [[c/_chewy|chewy]] [[c/_confectionery|confectionery]], typically with [[l/_liquorice|liquorice]] or [[f/_fruit|fruit]] [[f/_flavour|flavour]].**
 ---
 ---

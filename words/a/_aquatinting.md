@@ -1,6 +1,6 @@
 # Aquatinting
 ---
 #verb
-- **To make such [[e/_etchings|etchings]].**
+- **To [[m/_make|make]] such [[e/_etchings|etchings]].**
 ---
 ---

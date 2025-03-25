@@ -1,46 +1,46 @@
 # Complement
 ---
 #noun
-- **A protective substance that exists in the serum or other [[b/_bodily|bodily]] fluid and is [[c/_capable|capable]] of killing microorganisms; [[c/_complement|complement]].**
+- **A protective substance that [[e/_exists|exists]] in the serum or [[o/_other|other]] [[b/_bodily|bodily]] [[f/_fluid|fluid]] and is [[c/_capable|capable]] of [[k/_killing|killing]] [[m/_microorganisms|microorganisms]]; [[c/_complement|complement]].**
 ---
 #noun
 - **Something (or someone) that [[c/_completes|completes]]; the [[c/_consummation|consummation]].**
-- **The [[a/_act|act]] of [[c/_completing|completing]] something, or the fact of [[b/_being|being]] [[c/_complete|complete]]; [[c/_completion|completion]], [[c/_completeness|completeness]], fulfilment.**
-- **The totality, the full [[a/_amount|amount]] or number which [[c/_completes|completes]] something.**
-- **Something which [[c/_completes|completes]] one's [[e/_equipment|equipment]], [[d/_dress|dress]] [[e/_etc|etc]].; an [[a/_accessory|accessory]].**
-- **The whole working force of a vessel.**
-- **Fullness (of the moon).**
-- **An [[a/_angle|angle]] which, together with a given [[a/_angle|angle]], makes a right [[a/_angle|angle]].**
-- **Something which [[c/_completes|completes]], something which [[c/_combines|combines]] with something [[e/_else|else]] to make up a [[c/_complete|complete]] whole; loosely, something perceived to be a harmonious or [[d/_desirable|desirable]] partner or [[a/_addition|addition]].**
-- **(grammar) A word or group of words that [[c/_completes|completes]] a grammatical [[c/_construction|construction]] in the predicate and that [[d/_describes|describes]] or is identified with the subject or object.**
-- **An interval which, together with the given interval, makes an octave.**
-- **The [[c/_color|color]] which, when mixed with the given [[c/_color|color]], gives [[b/_black|black]] (for mixing pigments) or white (for mixing light).**
+- **The [[a/_act|act]] of [[c/_completing|completing]] something, or the [[f/_fact|fact]] of [[b/_being|being]] [[c/_complete|complete]]; [[c/_completion|completion]], [[c/_completeness|completeness]], [[f/_fulfilment|fulfilment]].**
+- **The totality, the [[f/_full|full]] [[a/_amount|amount]] or [[n/_number|number]] which [[c/_completes|completes]] something.**
+- **Something which [[c/_completes|completes]] [[o/_one|one]]'s [[e/_equipment|equipment]], [[d/_dress|dress]] [[e/_etc|etc]].; an [[a/_accessory|accessory]].**
+- **The whole working [[f/_force|force]] of a vessel.**
+- **[[f/_fullness|Fullness]] (of the [[m/_moon|moon]]).**
+- **An [[a/_angle|angle]] which, together with a [[g/_given|given]] [[a/_angle|angle]], [[m/_makes|makes]] a right [[a/_angle|angle]].**
+- **Something which [[c/_completes|completes]], something which [[c/_combines|combines]] with something [[e/_else|else]] to [[m/_make|make]] up a [[c/_complete|complete]] whole; [[l/_loosely|loosely]], something perceived to be a [[h/_harmonious|harmonious]] or [[d/_desirable|desirable]] partner or [[a/_addition|addition]].**
+- **([[g/_grammar|grammar]]) A word or [[g/_group|group]] of words that [[c/_completes|completes]] a [[g/_grammatical|grammatical]] [[c/_construction|construction]] in the predicate and that [[d/_describes|describes]] or is [[i/_identified|identified]] with the subject or [[o/_object|object]].**
+- **An [[i/_interval|interval]] which, together with the [[g/_given|given]] [[i/_interval|interval]], [[m/_makes|makes]] an [[o/_octave|octave]].**
+- **The [[c/_color|color]] which, when [[m/_mixed|mixed]] with the [[g/_given|given]] [[c/_color|color]], [[g/_gives|gives]] [[b/_black|black]] (for [[m/_mixing|mixing]] pigments) or white (for [[m/_mixing|mixing]] [[l/_light|light]]).**
 	- _Example: The complement of blue is orange._
-- **Given two sets, the set [[c/_containing|containing]] one set's [[e/_elements|elements]] that are not members of the other set (whether a relative [[c/_complement|complement]] or an [[a/_absolute|absolute]] [[c/_complement|complement]]).**
+- **[[g/_given|Given]] two sets, the set [[c/_containing|containing]] [[o/_one|one]] set's [[e/_elements|elements]] that are not [[m/_members|members]] of the [[o/_other|other]] set (whether a relative [[c/_complement|complement]] or an [[a/_absolute|absolute]] [[c/_complement|complement]]).**
 	- _Example: The complement of the odd numbers is the even numbers, relative to the natural numbers._
-- **One of several [[b/_blood|blood]] proteins that work with [[a/_antibodies|antibodies]] [[d/_during|during]] an immune response.**
-- **An expression related to some other expression such that it is true under the same [[c/_conditions|conditions]] that make other false, and vice versa.**
-- **A voltage level with the opposite logical sense to the given one.**
-- **A [[b/_bit|bit]] with the opposite value to the given one; the logical [[c/_complement|complement]] of a number.**
-- **The [[d/_diminished|diminished]] radix [[c/_complement|complement]] of a number; the nines' [[c/_complement|complement]] of a [[d/_decimal|decimal]] number; the ones' [[c/_complement|complement]] of a [[b/_binary|binary]] number.**
+- **[[o/_one|One]] of several [[b/_blood|blood]] proteins that work with [[a/_antibodies|antibodies]] [[d/_during|during]] an [[i/_immune|immune]] response.**
+- **An [[e/_expression|expression]] related to some [[o/_other|other]] [[e/_expression|expression]] such that it is true under the same [[c/_conditions|conditions]] that [[m/_make|make]] [[o/_other|other]] [[f/_false|false]], and vice versa.**
+- **A voltage [[l/_level|level]] with the [[o/_opposite|opposite]] [[l/_logical|logical]] sense to the [[g/_given|given]] [[o/_one|one]].**
+- **A [[b/_bit|bit]] with the [[o/_opposite|opposite]] value to the [[g/_given|given]] [[o/_one|one]]; the [[l/_logical|logical]] [[c/_complement|complement]] of a [[n/_number|number]].**
+- **The [[d/_diminished|diminished]] radix [[c/_complement|complement]] of a [[n/_number|number]]; the [[n/_nines|nines]]' [[c/_complement|complement]] of a [[d/_decimal|decimal]] [[n/_number|number]]; the [[o/_ones|ones]]' [[c/_complement|complement]] of a [[b/_binary|binary]] [[n/_number|number]].**
 	- _Example: The complement of 01100101_2 is 10011010_2._
-- **The radix [[c/_complement|complement]] of a number; the two's [[c/_complement|complement]] of a [[b/_binary|binary]] number.**
+- **The radix [[c/_complement|complement]] of a [[n/_number|number]]; the two's [[c/_complement|complement]] of a [[b/_binary|binary]] [[n/_number|number]].**
 	- _Example: The complement of 01100101_2 is 10011011_2._
-- **The numeric [[c/_complement|complement]] of a number.**
+- **The [[n/_numeric|numeric]] [[c/_complement|complement]] of a [[n/_number|number]].**
 	- _Example: The complement of −123 is 123._
-- **A nucleotide sequence in which [[e/_each|each]] [[b/_base|base]] is replaced by the [[c/_complementary|complementary]] [[b/_base|base]] of the given sequence: [[a/_adenine|adenine]] (A) by thymine (T) or uracil (U), [[c/_cytosine|cytosine]] ([[c/_c|C]]) by guanine (G), and vice versa.**
+- **A [[n/_nucleotide|nucleotide]] sequence in which [[e/_each|each]] [[b/_base|base]] is replaced by the [[c/_complementary|complementary]] [[b/_base|base]] of the [[g/_given|given]] sequence: [[a/_adenine|adenine]] (A) by thymine (T) or uracil (U), [[c/_cytosine|cytosine]] ([[c/_c|C]]) by [[g/_guanine|guanine]] ([[g/_g|G]]), and vice versa.**
 	- _Example: A DNA molecule is formed from two strands, each of which is the complement of the other._
-- **Old spelling of [[c/_compliment|compliment]]**
+- **[[o/_old|Old]] spelling of [[c/_compliment|compliment]]**
 ---
 #verb
-- **To [[c/_complete|complete]], to [[b/_bring|bring]] to perfection, to make whole.**
+- **To [[c/_complete|complete]], to [[b/_bring|bring]] to perfection, to [[m/_make|make]] whole.**
 	- _Example: We believe your addition will complement the team._
-- **To provide what the partner lacks and lack what the partner provides, thus forming part of a whole.**
+- **To provide what the partner [[l/_lacks|lacks]] and [[l/_lack|lack]] what the partner provides, thus [[f/_forming|forming]] part of a whole.**
 	- _Example: I believe our talents really complement each other._
-- **To [[c/_change|change]] a voltage, number, [[c/_color|color]], [[e/_etc|etc]]. to its [[c/_complement|complement]].**
-- **Old form of [[c/_compliment|compliment]]**
+- **To [[c/_change|change]] a voltage, [[n/_number|number]], [[c/_color|color]], [[e/_etc|etc]]. to [[i/_its|its]] [[c/_complement|complement]].**
+- **[[o/_old|Old]] [[f/_form|form]] of [[c/_compliment|compliment]]**
 ---
 #noun
-- **A good whose [[a/_appeal|appeal]] increases with the popularity of its [[c/_complement|complement]]**
+- **A [[g/_good|good]] whose [[a/_appeal|appeal]] [[i/_increases|increases]] with the popularity of [[i/_its|its]] [[c/_complement|complement]]**
 ---
 ---

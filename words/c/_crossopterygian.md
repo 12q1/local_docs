@@ -1,9 +1,9 @@
 # Crossopterygian
 ---
 #noun
-- **One of the [[c/_crossopterygii|Crossopterygii]].**
+- **[[o/_one|One]] of the [[c/_crossopterygii|Crossopterygii]].**
 ---
 #adjective
-- **Of or pertaining to the [[c/_crossopterygii|Crossopterygii]], an infraclass of [[b/_bony|bony]] fish.**
+- **Of or pertaining to the [[c/_crossopterygii|Crossopterygii]], an infraclass of [[b/_bony|bony]] [[f/_fish|fish]].**
 ---
 ---

@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Relating to [[e/_ectopia|ectopia]].**
-- **[[b/_being|Being]] out of place, having an [[a/_abnormal|abnormal]] position.**
+- **[[b/_being|Being]] [[o/_out|out]] of place, [[h/_having|having]] an [[a/_abnormal|abnormal]] position.**
 ---
 ### Antonyms
 - [[e/_entopic|entopic]]

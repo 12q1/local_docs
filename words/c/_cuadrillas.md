@@ -1,6 +1,6 @@
 # Cuadrillas
 ---
 #noun
-- **The team which supports the matador.**
+- **The team which supports the [[m/_matador|matador]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Decerebrated
 ---
 #verb
-- **To remove the [[c/_cerebrum|cerebrum]] in order to [[e/_eliminate|eliminate]] [[b/_brain|brain]] function.**
+- **To remove the [[c/_cerebrum|cerebrum]] in [[o/_order|order]] to [[e/_eliminate|eliminate]] [[b/_brain|brain]] [[f/_function|function]].**
 ---
 ---

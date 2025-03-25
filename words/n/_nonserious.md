@@ -1,0 +1,6 @@
+# Nonserious
+---
+#adjective
+- **Not serious**
+---
+---

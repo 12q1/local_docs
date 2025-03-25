@@ -1,6 +1,6 @@
 # Boarfish
 ---
 #noun
-- **[[a/_any|Any]] of a number of fish that have a projecting snout, in [[e/_either|either]] of two families:**
+- **[[a/_any|Any]] of a [[n/_number|number]] of [[f/_fish|fish]] that [[h/_have|have]] a projecting snout, in [[e/_either|either]] of two [[f/_families|families]]:**
 ---
 ---

@@ -1,7 +1,7 @@
 # Distichs
 ---
 #noun
-- **A [[c/_couplet|couplet]], a two-line stanza making [[c/_complete|complete]] sense.**
+- **A [[c/_couplet|couplet]], a two-[[l/_line|line]] stanza [[m/_making|making]] [[c/_complete|complete]] sense.**
 - **[[a/_any|Any]] [[c/_couplet|couplet]].**
 ---
 ---

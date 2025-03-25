@@ -1,6 +1,6 @@
 # Disinherited
 ---
 #verb
-- **To exclude from inheritance; to [[d/_disown|disown]].**
+- **To [[e/_exclude|exclude]] from [[i/_inheritance|inheritance]]; to [[d/_disown|disown]].**
 ---
 ---

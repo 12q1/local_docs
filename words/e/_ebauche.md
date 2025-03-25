@@ -2,7 +2,7 @@
 ---
 #noun
 - **A sketch**
-- **A maquette**
+- **A [[m/_maquette|maquette]]**
 - **The plates and [[b/_bridges|bridges]] of an unfinished watch**
 ---
 ---

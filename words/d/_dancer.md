@@ -1,7 +1,7 @@
 # Dancer
 ---
 #noun
-- **A person who [[d/_dances|dances]], usually as a job or profession.**
+- **A person who [[d/_dances|dances]], usually as a [[j/_job|job]] or profession.**
 - **A stripper.**
 ---
 ### Synonyms

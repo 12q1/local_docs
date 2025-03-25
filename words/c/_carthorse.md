@@ -1,6 +1,6 @@
 # Carthorse
 ---
 #noun
-- **A large, strong horse used for pulling heavy loads.**
+- **A [[l/_large|large]], strong [[h/_horse|horse]] used for pulling [[h/_heavy|heavy]] [[l/_loads|loads]].**
 ---
 ---

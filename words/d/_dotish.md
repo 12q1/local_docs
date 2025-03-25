@@ -1,6 +1,6 @@
 # Dotish
 ---
 #adjective
-- **Foolish; weak; imbecile**
+- **[[f/_foolish|Foolish]]; weak; [[i/_imbecile|imbecile]]**
 ---
 ---

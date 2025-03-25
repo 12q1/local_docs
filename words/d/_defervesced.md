@@ -1,7 +1,7 @@
 # Defervesced
 ---
 #verb
-- **To experience an [[a/_abatement|abatement]] or resolution of fever.**
-- **To [[b/_become|become]] less [[a/_agitated|agitated]]; to [[c/_cool|cool]] [[d/_down|down]].**
+- **To [[e/_experience|experience]] an [[a/_abatement|abatement]] or resolution of [[f/_fever|fever]].**
+- **To [[b/_become|become]] [[l/_less|less]] [[a/_agitated|agitated]]; to [[c/_cool|cool]] [[d/_down|down]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Esses
 ---
 #noun
-- **The name of the Latin-script letter S.**
-- **Something shaped like the letter S.**
+- **The [[n/_name|name]] of the [[l/_latin|Latin]]-script [[l/_letter|letter]] S.**
+- **Something shaped [[l/_like|like]] the [[l/_letter|letter]] S.**
 ---
 #verb
-- **To move in a [[c/_changing|changing]] [[d/_direction|direction]], forming the shape of a letter S.**
+- **To [[m/_move|move]] in a [[c/_changing|changing]] [[d/_direction|direction]], [[f/_forming|forming]] the shape of a [[l/_letter|letter]] S.**
 ---
 #noun
 - **(usually plural) A sequence of winding turns.**

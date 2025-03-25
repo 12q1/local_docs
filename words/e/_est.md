@@ -1,6 +1,6 @@
 # Est
 ---
 #noun
-- **Grace; favour.**
+- **[[g/_grace|Grace]]; [[f/_favour|favour]].**
 ---
 ---

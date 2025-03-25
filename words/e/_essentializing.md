@@ -1,6 +1,6 @@
 # Essentializing
 ---
 #verb
-- **To reduce to its [[e/_essence|essence]].**
+- **To reduce to [[i/_its|its]] [[e/_essence|essence]].**
 ---
 ---

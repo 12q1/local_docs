@@ -9,40 +9,40 @@
 	- _Example: The ship made a call at Southampton._
 - **A [[c/_cry|cry]] or shout.**
 	- _Example: He heard a call from the other side of the room._
-- **A [[d/_decision|decision]] or judgement.**
+- **A [[d/_decision|decision]] or [[j/_judgement|judgement]].**
 	- _Example: That was a good call._
-- **The [[c/_characteristic|characteristic]] [[c/_cry|cry]] of a [[b/_bird|bird]] or other [[a/_animal|animal]].**
+- **The [[c/_characteristic|characteristic]] [[c/_cry|cry]] of a [[b/_bird|bird]] or [[o/_other|other]] [[a/_animal|animal]].**
 	- _Example: That sound is the distinctive call of the cuckoo bird._
 - **A [[b/_beckoning|beckoning]] or summoning.**
 	- _Example: I had to yield to the call of the wild._
-- **The right to speak at a given time [[d/_during|during]] a [[d/_debate|debate]] or other public event; the floor.**
+- **The right to speak at a [[g/_given|given]] time [[d/_during|during]] a [[d/_debate|debate]] or [[o/_other|other]] public [[e/_event|event]]; the [[f/_floor|floor]].**
 	- _Example: I give the call to the Manager of Opposition Business._
-- **An option to [[b/_buy|buy]] stock at a specified price [[d/_during|during]] or at a specified time.**
-- **The [[a/_act|act]] of [[c/_calling|calling]] to the other [[b/_batsman|batsman]].**
-- **The state of [[b/_being|being]] the [[b/_batsman|batsman]] whose role it is to [[c/_call|call]] ([[d/_depends|depends]] on where the [[b/_ball|ball]] goes.)**
-- **A work shift which requires one to be [[a/_available|available]] when requested (see on [[c/_call|call]]).**
-- **The [[a/_act|act]] of jumping to a subprogram, saving the means to return to the original point.**
-- **A statement of a particular state, or rule, made in many games such as [[b/_bridge|bridge]], [[c/_craps|craps]], jacks, and so on.**
+- **An [[o/_option|option]] to [[b/_buy|buy]] stock at a specified price [[d/_during|during]] or at a specified time.**
+- **The [[a/_act|act]] of [[c/_calling|calling]] to the [[o/_other|other]] [[b/_batsman|batsman]].**
+- **The state of [[b/_being|being]] the [[b/_batsman|batsman]] whose role it is to [[c/_call|call]] ([[d/_depends|depends]] on where the [[b/_ball|ball]] [[g/_goes|goes]].)**
+- **A work shift which requires [[o/_one|one]] to be [[a/_available|available]] when requested (see on [[c/_call|call]]).**
+- **The [[a/_act|act]] of [[j/_jumping|jumping]] to a subprogram, saving the [[m/_means|means]] to return to the [[o/_original|original]] point.**
+- **A statement of a particular state, or rule, [[m/_made|made]] in [[m/_many|many]] [[g/_games|games]] such as [[b/_bridge|bridge]], [[c/_craps|craps]], [[j/_jacks|jacks]], and so on.**
 	- _Example: There was a 20 dollar bet on the table, and my call was 9._
-- **The [[a/_act|act]] of matching a [[b/_bet|bet]] made by a player who has previously [[b/_bet|bet]] in the same round of [[b/_betting|betting]].**
-- **A note [[b/_blown|blown]] on the horn to [[e/_encourage|encourage]] the [[d/_dogs|dogs]] in a hunt.**
-- **A whistle or pipe, used by the [[b/_boatswain|boatswain]] and his mate to summon the sailors to [[d/_duty|duty]].**
-- **A pipe or other instrument to [[c/_call|call]] [[b/_birds|birds]] or [[a/_animals|animals]] by imitating their note or [[c/_cry|cry]]. A game [[c/_call|call]].**
-- **An invitation to take [[c/_charge|charge]] of or serve a [[c/_church|church]] as its pastor.**
+- **The [[a/_act|act]] of [[m/_matching|matching]] a [[b/_bet|bet]] [[m/_made|made]] by a player who [[h/_has|has]] previously [[b/_bet|bet]] in the same round of [[b/_betting|betting]].**
+- **A [[n/_note|note]] [[b/_blown|blown]] on the [[h/_horn|horn]] to [[e/_encourage|encourage]] the [[d/_dogs|dogs]] in a [[h/_hunt|hunt]].**
+- **A whistle or pipe, used by the [[b/_boatswain|boatswain]] and [[h/_his|his]] [[m/_mate|mate]] to summon the sailors to [[d/_duty|duty]].**
+- **A pipe or [[o/_other|other]] [[i/_instrument|instrument]] to [[c/_call|call]] [[b/_birds|birds]] or [[a/_animals|animals]] by [[i/_imitating|imitating]] their [[n/_note|note]] or [[c/_cry|cry]]. A [[g/_game|game]] [[c/_call|call]].**
+- **An [[i/_invitation|invitation]] to take [[c/_charge|charge]] of or serve a [[c/_church|church]] as [[i/_its|its]] pastor.**
 - **Vocation; [[e/_employment|employment]]; [[c/_calling|calling]].**
-- **A reference to, or statement of, an object, [[c/_course|course]], [[d/_distance|distance]], or other matter of [[d/_description|description]] in a survey or grant requiring or [[c/_calling|calling]] for a [[c/_corresponding|corresponding]] object, [[e/_etc|etc]]., on the land.**
-- **(prostitution) A meeting with a [[c/_client|client]] for paid sex; hookup; job.**
+- **A reference to, or statement of, an [[o/_object|object]], [[c/_course|course]], [[d/_distance|distance]], or [[o/_other|other]] [[m/_matter|matter]] of [[d/_description|description]] in a survey or [[g/_grant|grant]] requiring or [[c/_calling|calling]] for a [[c/_corresponding|corresponding]] [[o/_object|object]], [[e/_etc|etc]]., on the [[l/_land|land]].**
+- **(prostitution) A [[m/_meeting|meeting]] with a [[c/_client|client]] for [[p/_paid|paid]] sex; [[h/_hookup|hookup]]; [[j/_job|job]].**
 ---
 #verb
-- **(heading) To use one's voice.**
-- **(heading) To visit.**
-- **(heading) To name, identify or [[d/_describe|describe]].**
-- **(heading) [[d/_direct|Direct]] or indirect use of the voice.**
+- **([[h/_heading|heading]]) To use [[o/_one|one]]'s voice.**
+- **([[h/_heading|heading]]) To visit.**
+- **([[h/_heading|heading]]) To [[n/_name|name]], [[i/_identify|identify]] or [[d/_describe|describe]].**
+- **([[h/_heading|heading]]) [[d/_direct|Direct]] or [[i/_indirect|indirect]] use of the voice.**
 - **(sometimes with for) To require, [[d/_demand|demand]].**
 	- _Example: He felt called to help the old man._
-- **To [[a/_announce|announce]] the [[e/_early|early]] extinction of a [[d/_debt|debt]] by prepayment, usually at a premium.**
-- **To [[d/_demand|demand]] repayment of a loan.**
-- **To jump to ([[a/_another|another]] part of a program) to perform some operation, returning to the original point on [[c/_completion|completion]].**
+- **To [[a/_announce|announce]] the [[e/_early|early]] [[e/_extinction|extinction]] of a [[d/_debt|debt]] by prepayment, usually at a premium.**
+- **To [[d/_demand|demand]] repayment of a [[l/_loan|loan]].**
+- **To [[j/_jump|jump]] to ([[a/_another|another]] part of a program) to perform some [[o/_operation|operation]], returning to the [[o/_original|original]] point on [[c/_completion|completion]].**
 	- _Example: A recursive function is one that calls itself._
 ---
 ### Synonyms

@@ -1,31 +1,31 @@
 # Accent
 ---
 #noun
-- **A higher-pitched or stronger [[a/_articulation|articulation]] of a particular syllable of a word or phrase in order to [[d/_distinguish|distinguish]] it from the others or to [[e/_emphasize|emphasize]] it.**
+- **A [[h/_higher|higher]]-pitched or stronger [[a/_articulation|articulation]] of a particular syllable of a word or phrase in [[o/_order|order]] to [[d/_distinguish|distinguish]] it from the [[o/_others|others]] or to [[e/_emphasize|emphasize]] it.**
 	- _Example: In the word "careful", the accent is placed on the first syllable._
-- **[[e/_emphasis|Emphasis]] or importance in general.**
+- **[[e/_emphasis|Emphasis]] or [[i/_importance|importance]] in [[g/_general|general]].**
 	- _Example: At this hotel, the accent is on luxury._
-- **A mark or [[c/_character|character]] used in writing, in order to indicate the place of the spoken [[a/_accent|accent]], or to indicate the nature or quality of the vowel marked.**
+- **A [[m/_mark|mark]] or [[c/_character|character]] used in writing, in [[o/_order|order]] to [[i/_indicate|indicate]] the place of the spoken [[a/_accent|accent]], or to [[i/_indicate|indicate]] the [[n/_nature|nature]] or quality of the vowel [[m/_marked|marked]].**
 	- _Example: The name Cézanne is written with an acute accent._
-- **Modulation of the voice in speaking; the manner of speaking or pronouncing; a peculiar or [[c/_characteristic|characteristic]] modification of the voice, expressing [[e/_emotion|emotion]]; tone.**
-- **The [[d/_distinctive|distinctive]] manner of pronouncing a language [[a/_associated|associated]] with a particular region, social group, [[e/_etc|etc]]., whether of a native speaker or a foreign speaker; the phonetic and phonological [[a/_aspects|aspects]] of a [[d/_dialect|dialect]].**
+- **[[m/_modulation|Modulation]] of the voice in speaking; the [[m/_manner|manner]] of speaking or pronouncing; a peculiar or [[c/_characteristic|characteristic]] [[m/_modification|modification]] of the voice, [[e/_expressing|expressing]] [[e/_emotion|emotion]]; tone.**
+- **The [[d/_distinctive|distinctive]] [[m/_manner|manner]] of pronouncing a [[l/_language|language]] [[a/_associated|associated]] with a particular region, social [[g/_group|group]], [[e/_etc|etc]]., whether of a [[n/_native|native]] speaker or a [[f/_foreign|foreign]] speaker; the phonetic and phonological [[a/_aspects|aspects]] of a [[d/_dialect|dialect]].**
 	- _Example: a broad Irish accent_
-- **(sign languages) A [[d/_distinctive|distinctive]] manner of producing a sign language, such as someone who [[d/_does|does]] not normally use a [[c/_certain|certain]] sign language might have when using it.**
+- **(sign [[l/_languages|languages]]) A [[d/_distinctive|distinctive]] [[m/_manner|manner]] of producing a sign [[l/_language|language]], such as someone who [[d/_does|does]] not [[n/_normally|normally]] use a [[c/_certain|certain]] sign [[l/_language|language]] [[m/_might|might]] [[h/_have|have]] when using it.**
 	- _Example: 2015 December 3, [./http//www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia accent in American Sign Language]_
 - **A word; a significant tone or sound.**
-- **(usually plurale tantum) Expressions in general; speech.**
-- **Stress laid on [[c/_certain|certain]] syllables of a verse.**
-- **A regularly recurring stress upon the tone to mark the [[b/_beginning|beginning]], and, more feebly, the third part of the measure.**
-- **A special [[e/_emphasis|emphasis]] of a tone, even in the weaker part of the measure.**
-- **The rhythmical [[a/_accent|accent]], which marks phrases and sections of a period.**
-- **The expressive [[e/_emphasis|emphasis]] and shading of a passage.**
-- **A mark used to represent specific stress on a note.**
-- **A mark placed at the right hand of a letter, and a little [[a/_above|above]] it, to [[d/_distinguish|distinguish]] magnitudes of a similar kind expressed by the same letter, but [[d/_differing|differing]] in value, as y', y''.**
-- **A mark at the right hand of a number, indicating minutes of a [[d/_degree|degree]], seconds, [[e/_etc|etc]]., as in 12' 27'', meaning twelve minutes and twenty-seven seconds.**
-- **A mark used to [[d/_denote|denote]] feet and inches, as in 6' 10'', meaning six feet ten inches.**
-- **[[e/_emphasis|Emphasis]] laid on a part of an [[a/_artistic|artistic]] [[d/_design|design]] or [[c/_composition|composition]]; an [[e/_emphasized|emphasized]] [[d/_detail|detail]], in particular a [[d/_detail|detail]] in sharp [[c/_contrast|contrast]] to its surroundings.**
-- **A very small gemstone set into a piece of jewellery.**
-- **A [[d/_distinctive|distinctive]] feature or quality.**
+- **(usually plurale tantum) [[e/_expressions|Expressions]] in [[g/_general|general]]; speech.**
+- **Stress [[l/_laid|laid]] on [[c/_certain|certain]] syllables of a verse.**
+- **A regularly recurring stress upon the tone to [[m/_mark|mark]] the [[b/_beginning|beginning]], and, [[m/_more|more]] [[f/_feebly|feebly]], the third part of the [[m/_measure|measure]].**
+- **A special [[e/_emphasis|emphasis]] of a tone, [[e/_even|even]] in the weaker part of the [[m/_measure|measure]].**
+- **The rhythmical [[a/_accent|accent]], which [[m/_marks|marks]] phrases and sections of a period.**
+- **The [[e/_expressive|expressive]] [[e/_emphasis|emphasis]] and shading of a passage.**
+- **A [[m/_mark|mark]] used to represent specific stress on a [[n/_note|note]].**
+- **A [[m/_mark|mark]] placed at the right [[h/_hand|hand]] of a [[l/_letter|letter]], and a [[l/_little|little]] [[a/_above|above]] it, to [[d/_distinguish|distinguish]] [[m/_magnitudes|magnitudes]] of a similar [[k/_kind|kind]] [[e/_expressed|expressed]] by the same [[l/_letter|letter]], but [[d/_differing|differing]] in value, as [[y/_y|y]]', [[y/_y|y]]''.**
+- **A [[m/_mark|mark]] at the right [[h/_hand|hand]] of a [[n/_number|number]], [[i/_indicating|indicating]] [[m/_minutes|minutes]] of a [[d/_degree|degree]], seconds, [[e/_etc|etc]]., as in 12' 27'', [[m/_meaning|meaning]] twelve [[m/_minutes|minutes]] and twenty-seven seconds.**
+- **A [[m/_mark|mark]] used to [[d/_denote|denote]] [[f/_feet|feet]] and [[i/_inches|inches]], as in 6' 10'', [[m/_meaning|meaning]] six [[f/_feet|feet]] ten [[i/_inches|inches]].**
+- **[[e/_emphasis|Emphasis]] [[l/_laid|laid]] on a part of an [[a/_artistic|artistic]] [[d/_design|design]] or [[c/_composition|composition]]; an [[e/_emphasized|emphasized]] [[d/_detail|detail]], in particular a [[d/_detail|detail]] in sharp [[c/_contrast|contrast]] to [[i/_its|its]] surroundings.**
+- **A very small [[g/_gemstone|gemstone]] set [[i/_into|into]] a piece of [[j/_jewellery|jewellery]].**
+- **A [[d/_distinctive|distinctive]] [[f/_feature|feature]] or quality.**
 - **Utterance.**
 ---
 ---

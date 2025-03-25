@@ -1,7 +1,7 @@
 # Ellipticity
 ---
 #noun
-- **The [[c/_condition|condition]] of [[b/_being|being]] [[e/_elliptical|elliptical]] (flattened from perfect [[c/_circular|circular]] or spherical form)**
-- **A measure of this flattening that is a function of the [[e/_ellipse|ellipse]]'s [[e/_equatorial|equatorial]] and polar radii**
+- **The [[c/_condition|condition]] of [[b/_being|being]] [[e/_elliptical|elliptical]] ([[f/_flattened|flattened]] from perfect [[c/_circular|circular]] or spherical [[f/_form|form]])**
+- **A [[m/_measure|measure]] of this [[f/_flattening|flattening]] that is a [[f/_function|function]] of the [[e/_ellipse|ellipse]]'s [[e/_equatorial|equatorial]] and polar radii**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cattleman
 ---
 #noun
-- **A man who raises or tends [[c/_cattle|cattle]].**
+- **A [[m/_man|man]] who raises or tends [[c/_cattle|cattle]].**
 ---
 ---

@@ -1,10 +1,10 @@
 # Below
 ---
 #adverb
-- **In a lower place.**
-- **On a lower storey.**
-- **Further [[d/_down|down]].**
-- **On a lower [[d/_deck|deck]].**
+- **In a [[l/_lower|lower]] place.**
+- **On a [[l/_lower|lower]] storey.**
+- **[[f/_further|Further]] [[d/_down|down]].**
+- **On a [[l/_lower|lower]] [[d/_deck|deck]].**
 	- _Example: the landlubbers lying down below_
 - **(of a temperature) [[b/_below|Below]] zero.**
 ---
@@ -13,11 +13,11 @@
 ### Antonyms
 - [[u/_upwards|upwards]], [[a/_aloft|aloft]], [[o/_overhead|overhead]], [[u/_up|up]], [[u/_upstairs|upstairs]]
 #preposition
-- **Lower in spatial position than.**
+- **[[l/_lower|Lower]] in spatial position than.**
 	- _Example: The treasure is buried two meters below the surface._
-- **Within the writing of a given [[d/_document|document]] which follows a particular [[a/_appearance|appearance]] of the word "[[b/_below|below]]".**
+- **Within the writing of a [[g/_given|given]] [[d/_document|document]] which [[f/_follows|follows]] a particular [[a/_appearance|appearance]] of the word "[[b/_below|below]]".**
 	- _Example: "By their execution hereof, the Parties incur a legal obligation to pass consideration under this Loan Contract as is set forth below."_
-- **Lower in value, price, rank or [[c/_concentration|concentration]] than.**
+- **[[l/_lower|Lower]] in value, price, rank or [[c/_concentration|concentration]] than.**
 	- _Example: The temperature is below zero._
 - **[[d/_downstream|Downstream]] of.**
 - **South of.**

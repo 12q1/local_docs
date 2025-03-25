@@ -1,6 +1,6 @@
 # Entrammel
 ---
 #verb
-- **To hamper by [[e/_entangling|entangling]].**
+- **To [[h/_hamper|hamper]] by [[e/_entangling|entangling]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_anatomical|Anatomical]] uses.**
-- **Figurative uses.**
+- **[[f/_figurative|Figurative]] uses.**
 - **[[c/_colloquial|Colloquial]] uses.**
 ---
 ### Synonyms

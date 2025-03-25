@@ -1,9 +1,9 @@
 # Deracine
 ---
 #noun
-- **A person who has [[b/_been|been]] uprooted.**
+- **A person who [[h/_has|has]] [[b/_been|been]] uprooted.**
 ---
 #adjective
-- **Having [[b/_been|been]] uprooted.**
+- **[[h/_having|Having]] [[b/_been|been]] uprooted.**
 ---
 ---

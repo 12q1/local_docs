@@ -1,10 +1,10 @@
 # Abjures
 ---
 #verb
-- **To renounce upon oath; to forswear; to [[d/_disavow|disavow]].**
+- **To renounce upon [[o/_oath|oath]]; to [[f/_forswear|forswear]]; to [[d/_disavow|disavow]].**
 	- _Example: To abjure allegiance to a prince._
-- **To [[c/_cause|cause]] one to renounce or recant.**
-- **To reject with solemnity; to [[a/_abandon|abandon]] forever; to repudiate; to [[d/_disclaim|disclaim]].**
+- **To [[c/_cause|cause]] [[o/_one|one]] to renounce or recant.**
+- **To reject with solemnity; to [[a/_abandon|abandon]] [[f/_forever|forever]]; to repudiate; to [[d/_disclaim|disclaim]].**
 	- _Example: To abjure errors._
 - **To [[a/_abstain|abstain]] from; to [[a/_avoid|avoid]]; to shun.**
 ---

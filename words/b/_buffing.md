@@ -1,16 +1,16 @@
 # Buffing
 ---
 #verb
-- **To polish and make shiny by rubbing.**
+- **To polish and [[m/_make|make]] shiny by rubbing.**
 	- _Example: He was already buffing the car's hubs._
-- **To make a [[c/_character|character]] or an item stronger.**
+- **To [[m/_make|make]] a [[c/_character|character]] or an [[i/_item|item]] stronger.**
 	- _Example: I noticed that the pistols were buffed in the update._
-- **To modify a medical [[c/_chart|chart]], [[e/_especially|especially]] in a [[d/_dishonest|dishonest]] manner.**
+- **To [[m/_modify|modify]] a [[m/_medical|medical]] [[c/_chart|chart]], [[e/_especially|especially]] in a [[d/_dishonest|dishonest]] [[m/_manner|manner]].**
 ---
 #verb
 - **To strike.**
 ---
 #noun
-- **Material removed by the [[a/_action|action]] of someone who [[b/_buffs|buffs]].**
+- **[[m/_material|Material]] removed by the [[a/_action|action]] of someone who [[b/_buffs|buffs]].**
 ---
 ---

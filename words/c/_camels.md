@@ -1,16 +1,16 @@
 # Camels
 ---
 #noun
-- **A [[b/_beast|beast]] of [[b/_burden|burden]], much used in [[d/_desert|desert]] [[a/_areas|areas]], of the genus [[c/_camelus|Camelus]].**
-- **A light [[b/_brownish|brownish]] [[c/_color|color]], like that of a [[c/_camel|camel]] ([[a/_also|also]] [[c/_called|called]] [[c/_camel|camel]] [[b/_brown|brown]]).**
-- **Loaded vessels lashed tightly, one on [[e/_each|each]] side of [[a/_another|another]] vessel, and then [[e/_emptied|emptied]] to reduce the [[d/_draught|draught]] of the ship in the middle.**
+- **A [[b/_beast|beast]] of [[b/_burden|burden]], [[m/_much|much]] used in [[d/_desert|desert]] [[a/_areas|areas]], of the [[g/_genus|genus]] [[c/_camelus|Camelus]].**
+- **A [[l/_light|light]] [[b/_brownish|brownish]] [[c/_color|color]], [[l/_like|like]] that of a [[c/_camel|camel]] ([[a/_also|also]] [[c/_called|called]] [[c/_camel|camel]] [[b/_brown|brown]]).**
+- **[[l/_loaded|Loaded]] vessels [[l/_lashed|lashed]] tightly, [[o/_one|one]] on [[e/_each|each]] side of [[a/_another|another]] vessel, and then [[e/_emptied|emptied]] to reduce the [[d/_draught|draught]] of the ship in the [[m/_middle|middle]].**
 ---
 ### Synonyms
 - [[o/_oont|oont]]
 #noun
-- **A ruminant, of the genus Giraffa, of the [[a/_african|African]] savannah with long legs and highly [[e/_elongated|elongated]] neck, which make it the tallest living [[a/_animal|animal]]; yellow fur patterned with [[d/_dark|dark]] spots, often in the form of a network; and two or more short, skin-[[c/_covered|covered]] horns, so-[[c/_called|called]]; strictly speaking the horn-like projections are ossicones.**
-- **A giraffe unicycle.**
-- **A laugh.**
+- **A ruminant, of the [[g/_genus|genus]] [[g/_giraffa|Giraffa]], of the [[a/_african|African]] savannah with [[l/_long|long]] [[l/_legs|legs]] and [[h/_highly|highly]] [[e/_elongated|elongated]] [[n/_neck|neck]], which [[m/_make|make]] it the tallest [[l/_living|living]] [[a/_animal|animal]]; [[y/_yellow|yellow]] [[f/_fur|fur]] patterned with [[d/_dark|dark]] spots, [[o/_often|often]] in the [[f/_form|form]] of a [[n/_network|network]]; and two or [[m/_more|more]] short, skin-[[c/_covered|covered]] [[h/_horns|horns]], so-[[c/_called|called]]; strictly speaking the [[h/_horn|horn]]-[[l/_like|like]] projections are ossicones.**
+- **A [[g/_giraffe|giraffe]] unicycle.**
+- **A [[l/_laugh|laugh]].**
 	- _Example: Are you having a giraffe?!_
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Asportation
 ---
 #noun
-- **The illegal movement of goods.**
+- **The [[i/_illegal|illegal]] [[m/_movement|movement]] of [[g/_goods|goods]].**
 ---
 ---

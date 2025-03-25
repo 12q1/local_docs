@@ -1,7 +1,7 @@
 # Chaffweed
 ---
 #noun
-- **A low glabrous weedy [[b/_branching|branching]] herb ([[c/_centunculus|Centunculus]] minimus) of the family Primulaceae, having short [[d/_dry|dry]] [[c/_chafflike|chafflike]] leaves.**
+- **A [[l/_low|low]] [[g/_glabrous|glabrous]] weedy [[b/_branching|branching]] [[h/_herb|herb]] ([[c/_centunculus|Centunculus]] [[m/_minimus|minimus]]) of the [[f/_family|family]] Primulaceae, [[h/_having|having]] short [[d/_dry|dry]] [[c/_chafflike|chafflike]] [[l/_leaves|leaves]].**
 ---
 ### Synonyms
 - 

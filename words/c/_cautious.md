@@ -1,7 +1,7 @@
 # Cautious
 ---
 #adjective
-- **[[c/_careful|Careful]]; using or exercising [[c/_caution|caution]]; tentative**
+- **[[c/_careful|Careful]]; using or [[e/_exercising|exercising]] [[c/_caution|caution]]; tentative**
 	- _Example: He took a few cautious steps toward the cave._
 ---
 ### Antonyms

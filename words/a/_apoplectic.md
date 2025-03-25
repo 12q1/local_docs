@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Of, or relating to [[a/_apoplexy|apoplexy]].**
-- **Marked by extreme [[a/_anger|anger]] or fury.**
+- **[[m/_marked|Marked]] by [[e/_extreme|extreme]] [[a/_anger|anger]] or [[f/_fury|fury]].**
 - **[[e/_effused|Effused]] with [[b/_blood|blood]].**
 ---
 ---

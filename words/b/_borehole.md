@@ -1,9 +1,9 @@
 # Borehole
 ---
 #noun
-- **A hole [[b/_bored|bored]] into the ground to [[c/_collect|collect]] samples for [[a/_analysis|analysis]] or to extract oil or water.**
+- **A [[h/_hole|hole]] [[b/_bored|bored]] [[i/_into|into]] the [[g/_ground|ground]] to [[c/_collect|collect]] samples for [[a/_analysis|analysis]] or to [[e/_extract|extract]] [[o/_oil|oil]] or water.**
 ---
 #verb
-- **To [[b/_bore|bore]] a hole of this kind (in).**
+- **To [[b/_bore|bore]] a [[h/_hole|hole]] of this [[k/_kind|kind]] (in).**
 ---
 ---

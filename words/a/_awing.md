@@ -1,6 +1,6 @@
 # Awing
 ---
 #adverb
-- **On the wing; flying; fluttering.**
+- **On the wing; [[f/_flying|flying]]; [[f/_fluttering|fluttering]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Campaign
 ---
 #noun
-- **A series of operations undertaken to [[a/_achieve|achieve]] a set goal.**
+- **A series of [[o/_operations|operations]] undertaken to [[a/_achieve|achieve]] a set [[g/_goal|goal]].**
 	- _Example: The company is targeting children in their latest advertising campaign._
-- **The period [[d/_during|during]] which a [[b/_blast|blast]] furnace is [[c/_continuously|continuously]] in operation.**
-- **An open field; a large, open plain without [[c/_considerable|considerable]] hills; a [[c/_champaign|champaign]].**
-- **An excursion into the [[c/_countryside|countryside]].**
+- **The period [[d/_during|during]] which a [[b/_blast|blast]] [[f/_furnace|furnace]] is [[c/_continuously|continuously]] in [[o/_operation|operation]].**
+- **An [[o/_open|open]] [[f/_field|field]]; a [[l/_large|large]], [[o/_open|open]] plain without [[c/_considerable|considerable]] [[h/_hills|hills]]; a [[c/_champaign|champaign]].**
+- **An [[e/_excursion|excursion]] [[i/_into|into]] the [[c/_countryside|countryside]].**
 ---
 #verb
 - **To take part in a [[c/_campaign|campaign]].**

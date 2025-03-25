@@ -1,7 +1,7 @@
 # Eternally
 ---
 #adverb
-- **For [[e/_eternity|eternity]]; forever.**
+- **For [[e/_eternity|eternity]]; [[f/_forever|forever]].**
 	- _Example: I shall be eternally grateful for your assistance._
 - **Unceasingly, recurringly.**
 ---

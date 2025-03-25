@@ -2,17 +2,17 @@
 ---
 #noun
 - **An [[a/_act|act]] of [[d/_dodging|dodging]].**
-- **A trick, evasion or wile.**
-- **A line of work.**
+- **A trick, [[e/_evasion|evasion]] or wile.**
+- **A [[l/_line|line]] of work.**
 ---
 #verb
-- **To [[a/_avoid|avoid]] (something) by moving suddenly out of the way.**
+- **To [[a/_avoid|avoid]] (something) by [[m/_moving|moving]] suddenly [[o/_out|out]] of the way.**
 	- _Example: He dodged traffic crossing the street._
 - **To [[a/_avoid|avoid]]; to sidestep.**
 	- _Example: The politician dodged the question with a meaningless reply._
-- **To go hither and thither.**
-- **(videography) To [[d/_decrease|decrease]] the exposure for [[c/_certain|certain]] [[a/_areas|areas]] of an image in order to make them [[d/_darker|darker]] ([[c/_compare|compare]] [[b/_burn|burn]]).**
-- **To follow by [[d/_dodging|dodging]], or suddenly shifting from place to place.**
+- **To [[g/_go|go]] [[h/_hither|hither]] and thither.**
+- **(videography) To [[d/_decrease|decrease]] the [[e/_exposure|exposure]] for [[c/_certain|certain]] [[a/_areas|areas]] of an [[i/_image|image]] in [[o/_order|order]] to [[m/_make|make]] them [[d/_darker|darker]] ([[c/_compare|compare]] [[b/_burn|burn]]).**
+- **To [[f/_follow|follow]] by [[d/_dodging|dodging]], or suddenly shifting from place to place.**
 - **To trick somebody.**
 ---
 ### Synonyms

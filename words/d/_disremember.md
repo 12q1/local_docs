@@ -1,6 +1,6 @@
 # Disremember
 ---
 #verb
-- **To fail to remember; to forget.**
+- **To [[f/_fail|fail]] to remember; to [[f/_forget|forget]].**
 ---
 ---

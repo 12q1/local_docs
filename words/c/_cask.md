@@ -1,14 +1,14 @@
 # Cask
 ---
 #noun
-- **A large [[b/_barrel|barrel]] for the storage of liquid, [[e/_especially|especially]] of [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]].**
-- **A [[c/_casket|casket]]; a small [[b/_box|box]] for jewels.**
+- **A [[l/_large|large]] [[b/_barrel|barrel]] for the storage of [[l/_liquid|liquid]], [[e/_especially|especially]] of [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]].**
+- **A [[c/_casket|casket]]; a small [[b/_box|box]] for [[j/_jewels|jewels]].**
 ---
 #verb
-- **To put into a [[c/_cask|cask]].**
+- **To put [[i/_into|into]] a [[c/_cask|cask]].**
 ---
 #noun
-- **A helmet.**
-- **A hard structure on the head of some [[b/_birds|birds]], such as the hornbill or [[c/_cassowary|cassowary]].**
+- **A [[h/_helmet|helmet]].**
+- **A [[h/_hard|hard]] structure on the [[h/_head|head]] of some [[b/_birds|birds]], such as the [[h/_hornbill|hornbill]] or [[c/_cassowary|cassowary]].**
 ---
 ---

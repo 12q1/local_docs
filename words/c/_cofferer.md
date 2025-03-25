@@ -1,6 +1,6 @@
 # Cofferer
 ---
 #noun
-- **One who keeps treasures in a [[c/_coffer|coffer]].**
+- **[[o/_one|One]] who [[k/_keeps|keeps]] treasures in a [[c/_coffer|coffer]].**
 ---
 ---

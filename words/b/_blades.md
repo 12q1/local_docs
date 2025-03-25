@@ -1,39 +1,39 @@
 # Blades
 ---
 #noun
-- **The sharp [[c/_cutting|cutting]] [[e/_edge|edge]] of a knife, [[c/_chisel|chisel]], or other tool, a razor [[b/_blade|blade]]/sword.**
-- **The flat functional [[e/_end|end]] of a propeller, oar, hockey stick, screwdriver, skate, [[e/_etc|etc]].**
-- **The narrow leaf of a grass or [[c/_cereal|cereal]].**
-- **The thin, flat part of a plant leaf, [[a/_attached|attached]] to a stem (petiole). The lamina.**
-- **A flat [[b/_bone|bone]], [[e/_especially|especially]] the shoulder [[b/_blade|blade]].**
-- **A [[c/_cut|cut]] of [[b/_beef|beef]] from near the shoulder [[b/_blade|blade]] (part of the [[c/_chuck|chuck]]).**
-- **The part of the tongue just [[b/_behind|behind]] the tip, used to make laminal [[c/_consonants|consonants]].**
-- **A sword or knife.**
-- **A piece of prepared, sharp-[[e/_edged|edged]] stone, often flint, at least twice as long as it is wide; a long flake of ground-[[e/_edge|edge]] stone or knapped vitreous stone.**
-- **(ultimate frisbee) A throw [[c/_characterized|characterized]] by a tight parabolic trajectory [[d/_due|due]] to a steep lateral [[a/_attitude|attitude]].**
+- **The sharp [[c/_cutting|cutting]] [[e/_edge|edge]] of a [[k/_knife|knife]], [[c/_chisel|chisel]], or [[o/_other|other]] tool, a razor [[b/_blade|blade]]/sword.**
+- **The [[f/_flat|flat]] [[f/_functional|functional]] [[e/_end|end]] of a propeller, [[o/_oar|oar]], [[h/_hockey|hockey]] stick, screwdriver, skate, [[e/_etc|etc]].**
+- **The [[n/_narrow|narrow]] [[l/_leaf|leaf]] of a [[g/_grass|grass]] or [[c/_cereal|cereal]].**
+- **The thin, [[f/_flat|flat]] part of a plant [[l/_leaf|leaf]], [[a/_attached|attached]] to a stem (petiole). The [[l/_lamina|lamina]].**
+- **A [[f/_flat|flat]] [[b/_bone|bone]], [[e/_especially|especially]] the shoulder [[b/_blade|blade]].**
+- **A [[c/_cut|cut]] of [[b/_beef|beef]] from [[n/_near|near]] the shoulder [[b/_blade|blade]] (part of the [[c/_chuck|chuck]]).**
+- **The part of the tongue [[j/_just|just]] [[b/_behind|behind]] the tip, used to [[m/_make|make]] [[l/_laminal|laminal]] [[c/_consonants|consonants]].**
+- **A sword or [[k/_knife|knife]].**
+- **A piece of prepared, sharp-[[e/_edged|edged]] stone, [[o/_often|often]] [[f/_flint|flint]], at [[l/_least|least]] twice as [[l/_long|long]] as it is wide; a [[l/_long|long]] [[f/_flake|flake]] of [[g/_ground|ground]]-[[e/_edge|edge]] stone or [[k/_knapped|knapped]] vitreous stone.**
+- **(ultimate [[f/_frisbee|frisbee]]) A throw [[c/_characterized|characterized]] by a tight parabolic trajectory [[d/_due|due]] to a steep [[l/_lateral|lateral]] [[a/_attitude|attitude]].**
 - **The rudder, [[d/_daggerboard|daggerboard]], or [[c/_centerboard|centerboard]] of a vessel.**
-- **A [[b/_bulldozer|bulldozer]] or surface-grading machine with mechanically [[a/_adjustable|adjustable]] [[b/_blade|blade]] that is nominally perpendicular to the forward motion of the vehicle.**
-- **A [[d/_dashing|dashing]] young man.**
-- **A homosexual, usually male.**
-- **Thin plate, foil.**
-- **One of a series of small plates that make up the [[a/_aperture|aperture]] or the shutter of a [[c/_camera|camera]].**
+- **A [[b/_bulldozer|bulldozer]] or surface-[[g/_grading|grading]] [[m/_machine|machine]] with [[m/_mechanically|mechanically]] [[a/_adjustable|adjustable]] [[b/_blade|blade]] that is [[n/_nominally|nominally]] perpendicular to the [[f/_forward|forward]] [[m/_motion|motion]] of the vehicle.**
+- **A [[d/_dashing|dashing]] [[y/_young|young]] [[m/_man|man]].**
+- **A [[h/_homosexual|homosexual]], usually [[m/_male|male]].**
+- **Thin plate, [[f/_foil|foil]].**
+- **[[o/_one|One]] of a series of small plates that [[m/_make|make]] up the [[a/_aperture|aperture]] or the shutter of a [[c/_camera|camera]].**
 - **(in the plural) The principal rafters of a roof.**
-- **The four large shell plates on the sides, and the five large ones of the middle, of the [[c/_carapace|carapace]] of the sea turtle, which yield the [[b/_best|best]] tortoise shell.**
+- **The [[f/_four|four]] [[l/_large|large]] shell plates on the sides, and the [[f/_five|five]] [[l/_large|large]] [[o/_ones|ones]] of the [[m/_middle|middle]], of the [[c/_carapace|carapace]] of the sea turtle, which [[y/_yield|yield]] the [[b/_best|best]] tortoise shell.**
 - **[[a/_airfoil|Airfoil]] in windmills and windturbines.**
 - **A [[b/_blade|blade]] server.**
-- **An exterior product of vectors. (The product may have more than two factors. [[a/_also|Also]], a scalar [[c/_counts|counts]] as a 0-[[b/_blade|blade]], a vector as a 1-[[b/_blade|blade]]; an exterior product of k vectors may be [[c/_called|called]] a k-[[b/_blade|blade]].)**
-- **The part of a key that is inserted into the lock.**
+- **An [[e/_exterior|exterior]] product of vectors. (The product [[m/_may|may]] [[h/_have|have]] [[m/_more|more]] than two [[f/_factors|factors]]. [[a/_also|Also]], a scalar [[c/_counts|counts]] as a 0-[[b/_blade|blade]], a vector as a 1-[[b/_blade|blade]]; an [[e/_exterior|exterior]] product of [[k/_k|k]] vectors [[m/_may|may]] be [[c/_called|called]] a [[k/_k|k]]-[[b/_blade|blade]].)**
+- **The part of a [[k/_key|key]] that is [[i/_inserted|inserted]] [[i/_into|into]] the [[l/_lock|lock]].**
 ---
 #verb
 - **To skate on rollerblades.**
 	- _Example: Want to go blading with me later in the park?_
-- **To furnish with a [[b/_blade|blade]].**
-- **To put forth or have a [[b/_blade|blade]].**
+- **To [[f/_furnish|furnish]] with a [[b/_blade|blade]].**
+- **To put [[f/_forth|forth]] or [[h/_have|have]] a [[b/_blade|blade]].**
 - **To stab with a [[b/_blade|blade]]**
 	- _Example: The gang member got bladed in a fight._
 - **To [[c/_cut|cut]] (a person) so as to provoke [[b/_bleeding|bleeding]].**
 ---
 #noun
-- **A kind of piton used in thin [[c/_cracks|cracks]].**
+- **A [[k/_kind|kind]] of piton used in thin [[c/_cracks|cracks]].**
 ---
 ---

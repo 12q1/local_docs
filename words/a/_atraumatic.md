@@ -1,6 +1,6 @@
 # Atraumatic
 ---
 #adjective
-- **That minimises trauma**
+- **That [[m/_minimises|minimises]] trauma**
 ---
 ---

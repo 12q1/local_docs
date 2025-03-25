@@ -1,9 +1,9 @@
 # Counterclaim
 ---
 #noun
-- **A suit filed by a [[d/_defendant|defendant]] [[a/_against|against]] a plaintiff secondary to the original [[c/_complaint|complaint]].**
+- **A suit [[f/_filed|filed]] by a [[d/_defendant|defendant]] [[a/_against|against]] a plaintiff secondary to the [[o/_original|original]] [[c/_complaint|complaint]].**
 ---
 #verb
-- **To file a [[c/_counterclaim|counterclaim]].**
+- **To [[f/_file|file]] a [[c/_counterclaim|counterclaim]].**
 ---
 ---

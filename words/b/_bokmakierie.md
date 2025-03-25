@@ -1,6 +1,6 @@
 # Bokmakierie
 ---
 #noun
-- **A shrike [[e/_endemic|endemic]] to Southern [[a/_africa|Africa]], with olive upper parts, a yellow underside, and a [[d/_deep|deep]] [[b/_black|black]] gorget.**
+- **A shrike [[e/_endemic|endemic]] to Southern [[a/_africa|Africa]], with [[o/_olive|olive]] upper parts, a [[y/_yellow|yellow]] underside, and a [[d/_deep|deep]] [[b/_black|black]] [[g/_gorget|gorget]].**
 ---
 ---

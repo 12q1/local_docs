@@ -1,6 +1,6 @@
 # Eclogite
 ---
 #noun
-- **A [[c/_coarse|coarse]]-grained metamorphic rock, a mixture of pyroxene, quartz, and feldspar with inclusions of red garnet.**
+- **A [[c/_coarse|coarse]]-[[g/_grained|grained]] [[m/_metamorphic|metamorphic]] rock, a [[m/_mixture|mixture]] of pyroxene, quartz, and [[f/_feldspar|feldspar]] with [[i/_inclusions|inclusions]] of red [[g/_garnet|garnet]].**
 ---
 ---

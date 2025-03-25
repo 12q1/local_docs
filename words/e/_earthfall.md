@@ -1,6 +1,6 @@
 # Earthfall
 ---
 #noun
-- **A landslide.**
+- **A [[l/_landslide|landslide]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Disloyalty
 ---
 #noun
-- **An [[a/_act|act]] of [[b/_being|being]] [[d/_disloyal|disloyal]]; a [[b/_betrayal|betrayal]], faithbreach.**
+- **An [[a/_act|act]] of [[b/_being|being]] [[d/_disloyal|disloyal]]; a [[b/_betrayal|betrayal]], [[f/_faithbreach|faithbreach]].**
 - **The quality of [[b/_being|being]] [[d/_disloyal|disloyal]].**
 ---
 ---

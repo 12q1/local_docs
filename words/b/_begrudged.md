@@ -1,8 +1,8 @@
 # Begrudged
 ---
 #verb
-- **To grudge [[a/_about|about]] or over; be [[e/_envious|envious]] or [[c/_covetous|covetous]].**
+- **To [[g/_grudge|grudge]] [[a/_about|about]] or [[o/_over|over]]; be [[e/_envious|envious]] or [[c/_covetous|covetous]].**
 - **To be reluctant**
-- **To give reluctantly.**
+- **To [[g/_give|give]] reluctantly.**
 ---
 ---

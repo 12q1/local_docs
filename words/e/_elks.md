@@ -1,11 +1,11 @@
 # Elks
 ---
 #noun
-- **[[a/_any|Any]] of various large species of [[d/_deer|deer]] such as the red [[d/_deer|deer]], moose or wapiti (see usage notes).**
+- **[[a/_any|Any]] of various [[l/_large|large]] species of [[d/_deer|deer]] such as the red [[d/_deer|deer]], [[m/_moose|moose]] or wapiti (see usage [[n/_notes|notes]]).**
 ---
 ### Synonyms
 - [[m/_moose|moose]], [[w/_wapiti|wapiti]]
 #noun
-- **The European wild, whistling, or [[c/_common|common]] swan ([[c/_cygnus|Cygnus]] [[c/_cygnus|cygnus]], syn. [[c/_cygnus|Cygnus]] ferus).**
+- **The [[e/_european|European]] wild, whistling, or [[c/_common|common]] swan ([[c/_cygnus|Cygnus]] [[c/_cygnus|cygnus]], syn. [[c/_cygnus|Cygnus]] ferus).**
 ---
 ---

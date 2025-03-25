@@ -6,6 +6,6 @@
 ### Synonyms
 - [[b/_bub|bub]]
 #noun
-- **Familiar term of [[a/_address|address]] for a [[b/_boy|boy]]; [[b/_bub|bub]]; [[b/_bubba|bubba]].**
+- **[[f/_familiar|Familiar]] term of [[a/_address|address]] for a [[b/_boy|boy]]; [[b/_bub|bub]]; [[b/_bubba|bubba]].**
 ---
 ---

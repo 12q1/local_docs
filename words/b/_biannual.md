@@ -1,11 +1,11 @@
 # Biannual
 ---
 #noun
-- **Something occurring twice [[e/_each|each]] year.**
+- **Something [[o/_occurring|occurring]] twice [[e/_each|each]] [[y/_year|year]].**
 ---
 #adjective
-- **Occurring twice a year; semiannual.**
-- **Occurring once every two years; [[b/_biennial|biennial]].**
+- **[[o/_occurring|Occurring]] twice a [[y/_year|year]]; semiannual.**
+- **[[o/_occurring|Occurring]] [[o/_once|once]] [[e/_every|every]] two [[y/_years|years]]; [[b/_biennial|biennial]].**
 ---
 ### Synonyms
 - [[h/_half-yearly|half-yearly]], [[s/_semiannual|semiannual]], [[t/_twice-yearly|twice-yearly]]

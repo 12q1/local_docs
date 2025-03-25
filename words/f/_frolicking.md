@@ -1,0 +1,11 @@
+# Frolicking
+---
+#verb
+- **To [[m/_make|make]] [[m/_merry|merry]]; to [[h/_have|have]] [[f/_fun|fun]]; to romp; to [[b/_behave|behave]] playfully and uninhibitedly.**
+	- _Example: We saw the lambs frolicking in the meadow._
+- **To [[c/_cause|cause]] to be [[m/_merry|merry]].**
+---
+#noun
+- **The [[a/_act|act]] of [[o/_one|one]] who [[f/_frolics|frolics]].**
+---
+---

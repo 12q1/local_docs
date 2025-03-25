@@ -2,6 +2,6 @@
 ---
 #noun
 - **A place where [[d/_dairy|dairy]] products are prepared or sold.**
-- **An ice [[c/_cream|cream]] parlour.**
+- **An [[i/_ice|ice]] [[c/_cream|cream]] parlour.**
 ---
 ---

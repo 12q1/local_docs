@@ -1,9 +1,9 @@
 # Chanced
 ---
 #verb
-- **To happen by [[c/_chance|chance]], to occur.**
+- **To [[h/_happen|happen]] by [[c/_chance|chance]], to [[o/_occur|occur]].**
 	- _Example: It chanced that I found a solution the very next day._
-- **To [[b/_befall|befall]]; to happen to.**
+- **To [[b/_befall|befall]]; to [[h/_happen|happen]] to.**
 - **To try or risk.**
 	- _Example: Shall we carry the umbrella, or chance a rainstorm?_
 - **To [[d/_discover|discover]] something by [[c/_chance|chance]].**

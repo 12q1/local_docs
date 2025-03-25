@@ -1,6 +1,6 @@
 # Cist
 ---
 #noun
-- **A small receptacle for sacred utensils [[c/_carried|carried]] in festivals in [[a/_ancient|Ancient]] Greece.**
+- **A small receptacle for sacred utensils [[c/_carried|carried]] in [[f/_festivals|festivals]] in [[a/_ancient|Ancient]] [[g/_greece|Greece]].**
 ---
 ---

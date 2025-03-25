@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Pertaining to [[c/_chauvinism|chauvinism]].**
-- **[[c/_chauvinistic|Chauvinistic]]; excessively patriotic or heavily [[b/_biased|biased]].**
+- **[[c/_chauvinistic|Chauvinistic]]; [[e/_excessively|excessively]] patriotic or [[h/_heavily|heavily]] [[b/_biased|biased]].**
 ---
 ---

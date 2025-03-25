@@ -1,6 +1,6 @@
 # Ensouling
 ---
 #verb
-- **To give a soul or place in the soul.**
+- **To [[g/_give|give]] a soul or place in the soul.**
 ---
 ---

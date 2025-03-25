@@ -2,7 +2,7 @@
 ---
 #noun
 - **Scholar; scribe**
-- **One who makes a reservation**
-- **One who records transactions, such as reservations.**
+- **[[o/_one|One]] who [[m/_makes|makes]] a reservation**
+- **[[o/_one|One]] who records transactions, such as reservations.**
 ---
 ---

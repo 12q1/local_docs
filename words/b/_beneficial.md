@@ -4,7 +4,7 @@
 - **Something that is [[b/_beneficial|beneficial]].**
 ---
 #adjective
-- **Helpful or good to something or someone.**
+- **[[h/_helpful|Helpful]] or [[g/_good|good]] to something or someone.**
 	- _Example: Recycling and reusing garbage can be beneficial to the environment._
 - **Relating to a [[b/_benefice|benefice]].**
 ---

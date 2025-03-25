@@ -1,6 +1,6 @@
 # Estafa
 ---
 #noun
-- **Fraud, [[c/_con|con]]**
+- **[[f/_fraud|Fraud]], [[c/_con|con]]**
 ---
 ---

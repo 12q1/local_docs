@@ -1,0 +1,6 @@
+# Mavises
+---
+#noun
+- **Song thrush.**
+---
+---

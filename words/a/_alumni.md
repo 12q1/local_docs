@@ -1,14 +1,14 @@
 # Alumni
 ---
 #noun
-- **An individual [[a/_alumnus|alumnus]] or [[a/_alumna|alumna]].**
+- **An [[i/_individual|individual]] [[a/_alumnus|alumnus]] or [[a/_alumna|alumna]].**
 ---
 ### Synonyms
 - [[a/_alum|alum]], [[a/_alumn|alumn]], [[a/_alumnx|alumnx]]
 #noun
-- **A male pupil or student.**
-- **A male graduate.**
-- **A student of [[a/_any|any]] gender.**
-- **A graduate of [[a/_any|any]] gender.**
+- **A [[m/_male|male]] pupil or student.**
+- **A [[m/_male|male]] [[g/_graduate|graduate]].**
+- **A student of [[a/_any|any]] [[g/_gender|gender]].**
+- **A [[g/_graduate|graduate]] of [[a/_any|any]] [[g/_gender|gender]].**
 ---
 ---

@@ -1,12 +1,12 @@
 # Difficult
 ---
 #verb
-- **To make [[d/_difficult|difficult]]; to impede; to perplex.**
+- **To [[m/_make|make]] [[d/_difficult|difficult]]; to [[i/_impede|impede]]; to perplex.**
 ---
 #adjective
-- **Hard, not [[e/_easy|easy]], requiring much [[e/_effort|effort]].**
+- **[[h/_hard|Hard]], not [[e/_easy|easy]], requiring [[m/_much|much]] [[e/_effort|effort]].**
 	- _Example: However, the difficult weather conditions will ensure Yunnan has plenty of freshwater._
-- **(often of a person, or a horse, [[e/_etc|etc]]) Hard to manage, uncooperative, troublesome.**
+- **([[o/_often|often]] of a person, or a [[h/_horse|horse]], [[e/_etc|etc]]) [[h/_hard|Hard]] to [[m/_manage|manage]], uncooperative, troublesome.**
 	- _Example: Stop being difficult and eat your broccoli—you know it's good for you._
 - **Unable or unwilling.**
 ---

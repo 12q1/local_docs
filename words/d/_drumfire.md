@@ -1,6 +1,6 @@
 # Drumfire
 ---
 #noun
-- **Heavy, [[c/_continuous|continuous]], rapid gunfire.**
+- **[[h/_heavy|Heavy]], [[c/_continuous|continuous]], rapid [[g/_gunfire|gunfire]].**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #noun
 - **A short, [[c/_complete|complete]] summary; an [[a/_abstract|abstract]].**
-- **A list or [[c/_collection|collection]] of various items.**
+- **A [[l/_list|list]] or [[c/_collection|collection]] of various [[i/_items|items]].**
 ---
 ---

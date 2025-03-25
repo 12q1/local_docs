@@ -1,23 +1,23 @@
 # Dude
 ---
 #noun
-- **A man, generally a younger man.**
+- **A [[m/_man|man]], [[g/_generally|generally]] a [[y/_younger|younger]] [[m/_man|man]].**
 	- _Example: So we were at the mall and these two dudes just walk up to us and say "hi"._
-- **(used in the vocative) A term of [[a/_address|address]] for someone, typically a man, particularly when [[c/_cautioning|cautioning]] him or offering him [[a/_advice|advice]].**
+- **(used in the vocative) A term of [[a/_address|address]] for someone, typically a [[m/_man|man]], particularly when [[c/_cautioning|cautioning]] [[h/_him|him]] or [[o/_offering|offering]] [[h/_him|him]] [[a/_advice|advice]].**
 	- _Example: Dude, I'd be careful around the principal; he's having a bad day._
-- **An inexperienced [[c/_cowboy|cowboy]].**
+- **An [[i/_inexperienced|inexperienced]] [[c/_cowboy|cowboy]].**
 - **A tourist.**
-- **A man who is very [[c/_concerned|concerned]] [[a/_about|about]] his [[d/_dress|dress]] and [[a/_appearance|appearance]]; a [[d/_dandy|dandy]], a fop.**
+- **A [[m/_man|man]] who is very [[c/_concerned|concerned]] [[a/_about|about]] [[h/_his|his]] [[d/_dress|dress]] and [[a/_appearance|appearance]]; a [[d/_dandy|dandy]], a [[f/_fop|fop]].**
 ---
 ### Synonyms
 - [[b/_bloke|bloke]], [[c/_chap|chap]], [[c/_cove|cove]], [[g/_guy|guy]], [[d/_dandy|dandy]], [[f/_fop|fop]], [[m/_masher|masher]], [[m/_mate|mate]]
 #verb
 - **To [[a/_address|address]] someone as [[d/_dude|dude]].**
 - **To take a vacation in a [[d/_dude|dude]] ranch.**
-- **Usually followed by up: to [[d/_dress|dress]] up, to wear smart or special [[c/_clothes|clothes]].**
+- **Usually [[f/_followed|followed]] by up: to [[d/_dress|dress]] up, to wear smart or special [[c/_clothes|clothes]].**
 ---
 #interjection
-- **A term of [[a/_address|address]], usually for a man, [[c/_conveying|conveying]] [[a/_awe|awe]], excitement, surprise, [[e/_etc|etc]].**
+- **A term of [[a/_address|address]], usually for a [[m/_man|man]], [[c/_conveying|conveying]] [[a/_awe|awe]], [[e/_excitement|excitement]], surprise, [[e/_etc|etc]].**
 	- _Example: Dude! You finally called!_
 ---
 ---

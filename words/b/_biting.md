@@ -1,47 +1,47 @@
 # Biting
 ---
 #verb
-- **To [[c/_cut|cut]] into something by [[c/_clamping|clamping]] the teeth.**
+- **To [[c/_cut|cut]] [[i/_into|into]] something by [[c/_clamping|clamping]] the teeth.**
 	- _Example: As soon as you bite that sandwich, you'll know how good it is._
-- **To hold something by [[c/_clamping|clamping]] one's teeth.**
+- **To [[h/_hold|hold]] something by [[c/_clamping|clamping]] [[o/_one|one]]'s teeth.**
 - **To [[a/_attack|attack]] with the teeth.**
 	- _Example: That dog is about to bite!_
 - **To [[b/_behave|behave]] [[a/_aggressively|aggressively]]; to reject [[a/_advances|advances]].**
 	- _Example: If you see me, come and say hello. I don't bite._
-- **To take hold; to [[e/_establish|establish]] firm [[c/_contact|contact]] with.**
+- **To take [[h/_hold|hold]]; to [[e/_establish|establish]] [[f/_firm|firm]] [[c/_contact|contact]] with.**
 	- _Example: I needed snow chains to make the tires bite._
-- **To have significant [[e/_effect|effect]], often negative.**
+- **To [[h/_have|have]] significant [[e/_effect|effect]], [[o/_often|often]] [[n/_negative|negative]].**
 	- _Example: For homeowners with adjustable rate mortgages, rising interest will really bite._
-- **(of a fish) To [[b/_bite|bite]] a [[b/_baited|baited]] hook or other lure and thus be [[c/_caught|caught]].**
+- **(of a [[f/_fish|fish]]) To [[b/_bite|bite]] a [[b/_baited|baited]] [[h/_hook|hook]] or [[o/_other|other]] [[l/_lure|lure]] and thus be [[c/_caught|caught]].**
 	- _Example: Are the fish biting today?_
-- **To [[a/_accept|accept]] something offered, often secretly or [[d/_deceptively|deceptively]], to [[c/_cause|cause]] some [[a/_action|action]] by the [[a/_acceptor|acceptor]].**
+- **To [[a/_accept|accept]] something [[o/_offered|offered]], [[o/_often|often]] secretly or [[d/_deceptively|deceptively]], to [[c/_cause|cause]] some [[a/_action|action]] by the [[a/_acceptor|acceptor]].**
 	- _Example: I've planted the story. Do you think they'll bite?_
-- **(of an insect) To sting.**
+- **(of an [[i/_insect|insect]]) To sting.**
 	- _Example: These mosquitoes are really biting today!_
-- **To [[c/_cause|cause]] a smarting sensation; to have a property which [[c/_causes|causes]] such a sensation; to be pungent.**
+- **To [[c/_cause|cause]] a smarting sensation; to [[h/_have|have]] a property which [[c/_causes|causes]] such a sensation; to be pungent.**
 	- _Example: It bites like pepper or mustard._
-- **(sometimes figurative) To [[c/_cause|cause]] sharp pain or [[d/_damage|damage]] to; to hurt or injure.**
+- **(sometimes [[f/_figurative|figurative]]) To [[c/_cause|cause]] sharp [[p/_pain|pain]] or [[d/_damage|damage]] to; to [[h/_hurt|hurt]] or [[i/_injure|injure]].**
 	- _Example: Pepper bites the mouth._
-- **To [[c/_cause|cause]] sharp pain; to produce [[a/_anguish|anguish]]; to hurt or injure; to have the property of so [[d/_doing|doing]].**
-- **To take or keep a firm hold.**
+- **To [[c/_cause|cause]] sharp [[p/_pain|pain]]; to produce [[a/_anguish|anguish]]; to [[h/_hurt|hurt]] or [[i/_injure|injure]]; to [[h/_have|have]] the property of so [[d/_doing|doing]].**
+- **To take or [[k/_keep|keep]] a [[f/_firm|firm]] [[h/_hold|hold]].**
 	- _Example: The anchor bites._
-- **To take hold of; to hold fast; to [[a/_adhere|adhere]] to.**
+- **To take [[h/_hold|hold]] of; to [[h/_hold|hold]] [[f/_fast|fast]]; to [[a/_adhere|adhere]] to.**
 	- _Example: The anchor bites the ground._
-- **To lack quality; to be worthy of [[d/_derision|derision]]; to suck.**
+- **To [[l/_lack|lack]] quality; to be worthy of [[d/_derision|derision]]; to suck.**
 	- _Example: This music really bites._
-- **To perform oral sex on. Used in invective.**
+- **To perform [[o/_oral|oral]] sex on. Used in [[i/_invective|invective]].**
 	- _Example: You don't like that I sat on your car? Bite me._
-- **To plagiarize, to imitate.**
+- **To plagiarize, to [[i/_imitate|imitate]].**
 	- _Example: He always be biting my moves._
 - **To [[d/_deceive|deceive]] or [[d/_defraud|defraud]]; to take in.**
 ---
 #noun
-- **An instance of something [[b/_being|being]] [[b/_bitten|bitten]].**
+- **An [[i/_instance|instance]] of something [[b/_being|being]] [[b/_bitten|bitten]].**
 ---
 #adjective
 - **[[c/_causing|Causing]] a stinging sensation.**
 	- _Example: a biting wind_
-- **[[c/_cutting|Cutting]] or incisive.**
+- **[[c/_cutting|Cutting]] or [[i/_incisive|incisive]].**
 	- _Example: a biting criticism_
 - **Tending to [[b/_bite|bite]].**
 	- _Example: a biting insect_

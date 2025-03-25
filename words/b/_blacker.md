@@ -1,6 +1,6 @@
 # Blacker
 ---
 #noun
-- **One who [[b/_blacks|blacks]].**
+- **[[o/_one|One]] who [[b/_blacks|blacks]].**
 ---
 ---

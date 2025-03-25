@@ -1,0 +1,6 @@
+# Nonrural
+---
+#adjective
+- **Not rural.**
+---
+---

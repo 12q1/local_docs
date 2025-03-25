@@ -1,14 +1,14 @@
 # Area
 ---
 #noun
-- **A measure of the extent of a surface; it is measured in square units.**
-- **A particular geographic region.**
-- **[[a/_any|Any]] particular extent of surface, [[e/_especially|especially]] an [[e/_empty|empty]] or unused extent.**
+- **A [[m/_measure|measure]] of the [[e/_extent|extent]] of a surface; it is [[m/_measured|measured]] in square units.**
+- **A particular [[g/_geographic|geographic]] region.**
+- **[[a/_any|Any]] particular [[e/_extent|extent]] of surface, [[e/_especially|especially]] an [[e/_empty|empty]] or unused [[e/_extent|extent]].**
 	- _Example: The photo is a little dark in that area._
-- **The extent, scope, or range of an object or [[c/_concept|concept]].**
+- **The [[e/_extent|extent]], scope, or range of an [[o/_object|object]] or [[c/_concept|concept]].**
 	- _Example: The plans are a bit vague in that area._
-- **An open space, [[b/_below|below]] ground level, [[b/_between|between]] the front of a house and the pavement.**
+- **An [[o/_open|open]] space, [[b/_below|below]] [[g/_ground|ground]] [[l/_level|level]], [[b/_between|between]] the [[f/_front|front]] of a [[h/_house|house]] and the pavement.**
 - **Penalty [[b/_box|box]]; penalty [[a/_area|area]].**
-- **Genitals.**
+- **[[g/_genitals|Genitals]].**
 ---
 ---

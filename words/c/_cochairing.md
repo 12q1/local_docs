@@ -1,6 +1,6 @@
 # Cochairing
 ---
 #verb
-- **To [[c/_chair|chair]] (a meeting) jointly.**
+- **To [[c/_chair|chair]] (a [[m/_meeting|meeting]]) [[j/_jointly|jointly]].**
 ---
 ---

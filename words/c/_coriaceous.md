@@ -1,6 +1,6 @@
 # Coriaceous
 ---
 #adjective
-- **Resembling leather; leathery.**
+- **Resembling [[l/_leather|leather]]; [[l/_leathery|leathery]].**
 ---
 ---

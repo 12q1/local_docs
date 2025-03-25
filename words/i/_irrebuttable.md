@@ -1,0 +1,6 @@
+# Irrebuttable
+---
+#adjective
+- **Not rebuttable.**
+---
+---

@@ -1,8 +1,8 @@
 # Diaspores
 ---
 #noun
-- **A natural hydrate of [[a/_aluminium|aluminium]], sometimes forming stalactites.**
-- **A gemstone [[c/_consisting|consisting]] of hydrate of [[a/_aluminium|aluminium]] in [[c/_crystal|crystal]] form.**
-- **Seeds and fruit together regarded as a [[d/_dispersal|dispersal]] unit.**
+- **A [[n/_natural|natural]] [[h/_hydrate|hydrate]] of [[a/_aluminium|aluminium]], sometimes [[f/_forming|forming]] stalactites.**
+- **A [[g/_gemstone|gemstone]] [[c/_consisting|consisting]] of [[h/_hydrate|hydrate]] of [[a/_aluminium|aluminium]] in [[c/_crystal|crystal]] [[f/_form|form]].**
+- **Seeds and [[f/_fruit|fruit]] together regarded as a [[d/_dispersal|dispersal]] unit.**
 ---
 ---

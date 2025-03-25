@@ -1,6 +1,6 @@
 # Burgee
 ---
 #noun
-- **A flag, usually a [[b/_broad|broad]] tapering pennant, often with a swallowtail, flown by yachts to identify the owner's yacht [[c/_club|club]].**
+- **A [[f/_flag|flag]], usually a [[b/_broad|broad]] tapering pennant, [[o/_often|often]] with a swallowtail, [[f/_flown|flown]] by [[y/_yachts|yachts]] to [[i/_identify|identify]] the [[o/_owner|owner]]'s [[y/_yacht|yacht]] [[c/_club|club]].**
 ---
 ---

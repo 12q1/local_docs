@@ -1,9 +1,9 @@
 # Abscesses
 ---
 #noun
-- **A [[c/_cavity|cavity]] [[c/_caused|caused]] by tissue [[d/_destruction|destruction]], usually [[b/_because|because]] of infection, filled with pus and surrounded by inflamed tissue.**
+- **A [[c/_cavity|cavity]] [[c/_caused|caused]] by tissue [[d/_destruction|destruction]], usually [[b/_because|because]] of [[i/_infection|infection]], [[f/_filled|filled]] with pus and surrounded by [[i/_inflamed|inflamed]] tissue.**
 ---
 #verb
-- **To form a pus-filled, [[c/_cavity|cavity]] typically from an infection.**
+- **To [[f/_form|form]] a pus-[[f/_filled|filled]], [[c/_cavity|cavity]] typically from an [[i/_infection|infection]].**
 ---
 ---

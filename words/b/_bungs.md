@@ -1,10 +1,10 @@
 # Bungs
 ---
 #noun
-- **A stopper, [[a/_alternative|alternative]] to a [[c/_cork|cork]], often made of rubber used to prevent fluid passing through the neck of a [[b/_bottle|bottle]], vat, a hole in a vessel [[e/_etc|etc]].**
+- **A stopper, [[a/_alternative|alternative]] to a [[c/_cork|cork]], [[o/_often|often]] [[m/_made|made]] of rubber used to prevent [[f/_fluid|fluid]] passing through the [[n/_neck|neck]] of a [[b/_bottle|bottle]], vat, a [[h/_hole|hole]] in a vessel [[e/_etc|etc]].**
 - **A [[c/_cecum|cecum]] or [[a/_anus|anus]], [[e/_especially|especially]] of a slaughter [[a/_animal|animal]].**
 - **A [[b/_bribe|bribe]].**
-- **The orifice in the [[b/_bilge|bilge]] of a [[c/_cask|cask]] through which it is filled; [[b/_bunghole|bunghole]].**
+- **The [[o/_orifice|orifice]] in the [[b/_bilge|bilge]] of a [[c/_cask|cask]] through which it is [[f/_filled|filled]]; [[b/_bunghole|bunghole]].**
 - **A sharper or pickpocket.**
 ---
 #verb

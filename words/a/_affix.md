@@ -2,10 +2,10 @@
 ---
 #noun
 - **That which is [[a/_affixed|affixed]]; an [[a/_appendage|appendage]].**
-- **A [[b/_bound|bound]] morpheme [[a/_added|added]] to the word’s stem's [[e/_end|end]].**
-- **([[b/_broadly|broadly]]) A [[b/_bound|bound]] morpheme [[a/_added|added]] to a word’s stem; a prefix, suffix [[e/_etc|etc]].**
-- **The [[c/_complex|complex]] number a+[[b/_bi|bi]] [[a/_associated|associated]] with the point in the Gauss plane with [[c/_coordinates|coordinates]] (a,[[b/_b|b]]).**
-- **([[d/_decorative|decorative]] [[a/_art|art]]) [[a/_any|Any]] small feature, as a figure, a flower, or the like, [[a/_added|added]] for ornament to a vessel or other utensil, to an [[a/_architectural|architectural]] feature.**
+- **A [[b/_bound|bound]] [[m/_morpheme|morpheme]] [[a/_added|added]] to the word’s stem's [[e/_end|end]].**
+- **([[b/_broadly|broadly]]) A [[b/_bound|bound]] [[m/_morpheme|morpheme]] [[a/_added|added]] to a word’s stem; a prefix, suffix [[e/_etc|etc]].**
+- **The [[c/_complex|complex]] [[n/_number|number]] a+[[b/_bi|bi]] [[a/_associated|associated]] with the point in the [[g/_gauss|Gauss]] plane with [[c/_coordinates|coordinates]] (a,[[b/_b|b]]).**
+- **([[d/_decorative|decorative]] [[a/_art|art]]) [[a/_any|Any]] small [[f/_feature|feature]], as a [[f/_figure|figure]], a [[f/_flower|flower]], or the [[l/_like|like]], [[a/_added|added]] for [[o/_ornament|ornament]] to a vessel or [[o/_other|other]] utensil, to an [[a/_architectural|architectural]] [[f/_feature|feature]].**
 ---
 ### Synonyms
 - [[a/_addition|addition]], [[s/_supplement|supplement]], [[p/_postfix|postfix]], [[s/_suffix|suffix]]
@@ -16,7 +16,7 @@
 	- _Example: to affix a stigma to a person_
 - **To subjoin, [[a/_annex|annex]], or [[a/_add|add]] at the [[c/_close|close]] or [[e/_end|end]]; to [[a/_append|append]] to.**
 	- _Example: to affix a seal to an instrument_
-- **To fix or fasten figuratively; with on or upon.**
+- **To [[f/_fix|fix]] or [[f/_fasten|fasten]] [[f/_figuratively|figuratively]]; with on or upon.**
 	- _Example: eyes affixed upon the ground_
 ---
 ### Synonyms

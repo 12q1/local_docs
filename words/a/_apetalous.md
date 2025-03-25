@@ -1,6 +1,6 @@
 # Apetalous
 ---
 #adjective
-- **Having no petals.**
+- **[[h/_having|Having]] [[n/_no|no]] petals.**
 ---
 ---

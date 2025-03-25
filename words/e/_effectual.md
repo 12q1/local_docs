@@ -1,7 +1,7 @@
 # Effectual
 ---
 #adjective
-- **Producing the intended result; [[e/_entirely|entirely]] [[a/_adequate|adequate]].**
+- **Producing the [[i/_intended|intended]] result; [[e/_entirely|entirely]] [[a/_adequate|adequate]].**
 ---
 ### Antonyms
 - [[i/_ineffectual|ineffectual]]

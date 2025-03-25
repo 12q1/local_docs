@@ -1,40 +1,40 @@
 # Dipping
 ---
 #verb
-- **To lower into a liquid.**
+- **To [[l/_lower|lower]] [[i/_into|into]] a [[l/_liquid|liquid]].**
 	- _Example: Dip your biscuit into your tea._
-- **To immerse oneself; to [[b/_become|become]] plunged in a liquid; to sink.**
+- **To [[i/_immerse|immerse]] [[o/_oneself|oneself]]; to [[b/_become|become]] plunged in a [[l/_liquid|liquid]]; to sink.**
 - **(of a value or rate) To [[d/_decrease|decrease]] slightly.**
-- **To lower a light's [[b/_beam|beam]].**
+- **To [[l/_lower|lower]] a [[l/_light|light]]'s [[b/_beam|beam]].**
 	- _Example: Dip your lights as you meet an oncoming car._
-- **To lower (a flag), particularly a national [[e/_ensign|ensign]], to a partially hoisted position in order to render or to return a salute. While lowered, the flag is said to be “at the [[d/_dip|dip]].” A flag [[b/_being|being]] [[c/_carried|carried]] on a staff may be [[d/_dipped|dipped]] by leaning it forward at an [[a/_approximate|approximate]] [[a/_angle|angle]] of 45 [[d/_degrees|degrees]].**
+- **To [[l/_lower|lower]] (a [[f/_flag|flag]]), particularly a [[n/_national|national]] [[e/_ensign|ensign]], to a partially [[h/_hoisted|hoisted]] position in [[o/_order|order]] to render or to return a salute. While [[l/_lowered|lowered]], the [[f/_flag|flag]] is said to be “at the [[d/_dip|dip]].” A [[f/_flag|flag]] [[b/_being|being]] [[c/_carried|carried]] on a staff [[m/_may|may]] be [[d/_dipped|dipped]] by [[l/_leaning|leaning]] it [[f/_forward|forward]] at an [[a/_approximate|approximate]] [[a/_angle|angle]] of 45 [[d/_degrees|degrees]].**
 	- _Example: “The sailor rushed to the flag hoist to dip the flag in return.”_
-- **To treat [[c/_cattle|cattle]] or sheep by immersion in [[c/_chemical|chemical]] solution.**
+- **To treat [[c/_cattle|cattle]] or sheep by [[i/_immersion|immersion]] in [[c/_chemical|chemical]] solution.**
 	- _Example: The farmer is going to dip the cattle today._
-- **To use a [[d/_dip|dip]] stick to [[c/_check|check]] oil level in an [[e/_engine|engine]].**
-- **To [[c/_consume|consume]] snuff by placing a pinch [[b/_behind|behind]] the lip or under the tongue so that the [[a/_active|active]] [[c/_chemical|chemical]] [[c/_constituents|constituents]] of the snuff may be [[a/_absorbed|absorbed]] into the system for their narcotic [[e/_effect|effect]].**
-- **To immerse for [[b/_baptism|baptism]].**
-- **To wet, as if by immersing; to moisten.**
+- **To use a [[d/_dip|dip]] stick to [[c/_check|check]] [[o/_oil|oil]] [[l/_level|level]] in an [[e/_engine|engine]].**
+- **To [[c/_consume|consume]] snuff by placing a pinch [[b/_behind|behind]] the [[l/_lip|lip]] or under the tongue so that the [[a/_active|active]] [[c/_chemical|chemical]] [[c/_constituents|constituents]] of the snuff [[m/_may|may]] be [[a/_absorbed|absorbed]] [[i/_into|into]] the system for their [[n/_narcotic|narcotic]] [[e/_effect|effect]].**
+- **To [[i/_immerse|immerse]] for [[b/_baptism|baptism]].**
+- **To wet, as [[i/_if|if]] by [[i/_immersing|immersing]]; to [[m/_moisten|moisten]].**
 - **To plunge or [[e/_engage|engage]] thoroughly in [[a/_any|any]] [[a/_affair|affair]].**
-- **To take out, by [[d/_dipping|dipping]] a [[d/_dipper|dipper]], ladle, or other receptacle, into a fluid and removing a part; often with out.**
+- **To take [[o/_out|out]], by [[d/_dipping|dipping]] a [[d/_dipper|dipper]], [[l/_ladle|ladle]], or [[o/_other|other]] receptacle, [[i/_into|into]] a [[f/_fluid|fluid]] and removing a part; [[o/_often|often]] with [[o/_out|out]].**
 	- _Example: to dip water from a boiler; to dip out water_
-- **To perform the [[a/_action|action]] of plunging a [[d/_dipper|dipper]], ladle. [[e/_etc|etc]]. into a liquid or soft substance and removing a part.**
-- **To [[e/_engage|engage]] as a pledge; to mortgage.**
-- **To perform (a [[b/_bow|bow]] or [[c/_curtsey|curtsey]]) by inclining the [[b/_body|body]].**
-- **To incline [[d/_downward|downward]] from the plane of the horizon.**
+- **To perform the [[a/_action|action]] of plunging a [[d/_dipper|dipper]], [[l/_ladle|ladle]]. [[e/_etc|etc]]. [[i/_into|into]] a [[l/_liquid|liquid]] or soft substance and removing a part.**
+- **To [[e/_engage|engage]] as a pledge; to [[m/_mortgage|mortgage]].**
+- **To perform (a [[b/_bow|bow]] or [[c/_curtsey|curtsey]]) by [[i/_inclining|inclining]] the [[b/_body|body]].**
+- **To [[i/_incline|incline]] [[d/_downward|downward]] from the plane of the [[h/_horizon|horizon]].**
 	- _Example: Strata of rock dip._
-- **To perform a [[d/_dip|dip]] [[d/_dance|dance]] move (often phrased with the leader as the subject noun and the follower as the subject noun [[b/_being|being]] [[d/_dipped|dipped]])**
-- **To lower the [[b/_body|body]] by [[b/_bending|bending]] the knees while keeping the [[b/_body|body]] in an upright position, as in movement to the rhythm of music.**
-- **To leave.**
+- **To perform a [[d/_dip|dip]] [[d/_dance|dance]] [[m/_move|move]] ([[o/_often|often]] phrased with the [[l/_leader|leader]] as the subject [[n/_noun|noun]] and the [[f/_follower|follower]] as the subject [[n/_noun|noun]] [[b/_being|being]] [[d/_dipped|dipped]])**
+- **To [[l/_lower|lower]] the [[b/_body|body]] by [[b/_bending|bending]] the [[k/_knees|knees]] while [[k/_keeping|keeping]] the [[b/_body|body]] in an upright position, as in [[m/_movement|movement]] to the rhythm of [[m/_music|music]].**
+- **To [[l/_leave|leave]].**
 	- _Example: He dipped out of the room so fast._
-- **To miss out on seeing a sought [[a/_after|after]] [[b/_bird|bird]].**
+- **To [[m/_miss|miss]] [[o/_out|out]] on seeing a sought [[a/_after|after]] [[b/_bird|bird]].**
 ---
 #noun
-- **An [[a/_act|act]] or process of immersing.**
-- **The [[a/_act|act]] of inclining [[d/_downward|downward]].**
-- **The [[a/_act|act]] of lifting or moving a liquid with a [[d/_dipper|dipper]], ladle, or the like.**
-- **The process of [[c/_cleaning|cleaning]] or [[b/_brightening|brightening]] sheet metal or metalware, [[e/_especially|especially]] [[b/_brass|brass]], by [[d/_dipping|dipping]] it in [[a/_acids|acids]], [[e/_etc|etc]].**
-- **The use of [[d/_dipping|dipping]] tobacco (moist snuff) in the mouth, usually [[b/_between|between]] the lip and gum or [[c/_cheek|cheek]] and gum in the lower or upper part of the mouth.**
-- **The [[a/_act|act]] or fact of missing out on seeing a [[b/_bird|bird]].**
+- **An [[a/_act|act]] or process of [[i/_immersing|immersing]].**
+- **The [[a/_act|act]] of [[i/_inclining|inclining]] [[d/_downward|downward]].**
+- **The [[a/_act|act]] of [[l/_lifting|lifting]] or [[m/_moving|moving]] a [[l/_liquid|liquid]] with a [[d/_dipper|dipper]], [[l/_ladle|ladle]], or the [[l/_like|like]].**
+- **The process of [[c/_cleaning|cleaning]] or [[b/_brightening|brightening]] sheet [[m/_metal|metal]] or [[m/_metalware|metalware]], [[e/_especially|especially]] [[b/_brass|brass]], by [[d/_dipping|dipping]] it in [[a/_acids|acids]], [[e/_etc|etc]].**
+- **The use of [[d/_dipping|dipping]] tobacco ([[m/_moist|moist]] snuff) in the [[m/_mouth|mouth]], usually [[b/_between|between]] the [[l/_lip|lip]] and [[g/_gum|gum]] or [[c/_cheek|cheek]] and [[g/_gum|gum]] in the [[l/_lower|lower]] or upper part of the [[m/_mouth|mouth]].**
+- **The [[a/_act|act]] or [[f/_fact|fact]] of [[m/_missing|missing]] [[o/_out|out]] on seeing a [[b/_bird|bird]].**
 ---
 ---

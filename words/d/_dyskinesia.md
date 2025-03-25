@@ -1,6 +1,6 @@
 # Dyskinesia
 ---
 #noun
-- **Impairment of voluntary movements resulting in fragmented or jerky motions**
+- **[[i/_impairment|Impairment]] of voluntary [[m/_movements|movements]] resulting in [[f/_fragmented|fragmented]] or [[j/_jerky|jerky]] [[m/_motions|motions]]**
 ---
 ---

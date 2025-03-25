@@ -2,6 +2,6 @@
 ---
 #verb
 - **To [[b/_blather|blather]].**
-- **To hurry or rush noisily.**
+- **To [[h/_hurry|hurry]] or rush [[n/_noisily|noisily]].**
 ---
 ---

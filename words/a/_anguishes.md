@@ -1,12 +1,12 @@
 # Anguishes
 ---
 #noun
-- **Extreme pain, [[e/_either|either]] of [[b/_body|body]] or mind; excruciating [[d/_distress|distress]].**
+- **[[e/_extreme|Extreme]] [[p/_pain|pain]], [[e/_either|either]] of [[b/_body|body]] or [[m/_mind|mind]]; [[e/_excruciating|excruciating]] [[d/_distress|distress]].**
 ---
 ### Synonyms
 - [[a/_agony|agony]], [[c/_calvary|calvary]], [[c/_cross|cross]], [[p/_pang|pang]], [[t/_torment|torment]], [[t/_torture|torture]]
 #verb
-- **To suffer pain.**
-- **To [[c/_cause|cause]] to suffer pain.**
+- **To suffer [[p/_pain|pain]].**
+- **To [[c/_cause|cause]] to suffer [[p/_pain|pain]].**
 ---
 ---

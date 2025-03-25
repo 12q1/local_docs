@@ -1,6 +1,6 @@
 # Dolmas
 ---
 #noun
-- **[[a/_any|Any]] of a family of stuffed vegetable [[d/_dishes|dishes]]. The filling generally [[c/_consists|consists]] of rice, minced meat or grains, together with onion, herbs and spices.**
+- **[[a/_any|Any]] of a [[f/_family|family]] of stuffed vegetable [[d/_dishes|dishes]]. The [[f/_filling|filling]] [[g/_generally|generally]] [[c/_consists|consists]] of rice, [[m/_minced|minced]] [[m/_meat|meat]] or [[g/_grains|grains]], together with [[o/_onion|onion]], [[h/_herbs|herbs]] and spices.**
 ---
 ---

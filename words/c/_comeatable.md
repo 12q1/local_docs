@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[e/_easily|Easily]] [[a/_accessible|accessible]].**
-- **[[c/_capable|Capable]] of [[b/_being|being]] reached, fetched or [[a/_attained|attained]].**
+- **[[c/_capable|Capable]] of [[b/_being|being]] reached, [[f/_fetched|fetched]] or [[a/_attained|attained]].**
 ---
 ---

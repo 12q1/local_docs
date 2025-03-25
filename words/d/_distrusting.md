@@ -1,7 +1,7 @@
 # Distrusting
 ---
 #verb
-- **To put no trust in; to have no [[c/_confidence|confidence]] in.**
+- **To put [[n/_no|no]] trust in; to [[h/_have|have]] [[n/_no|no]] [[c/_confidence|confidence]] in.**
 ---
 ### Synonyms
 - [[m/_mistrust|mistrust]]

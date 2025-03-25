@@ -1,6 +1,6 @@
 # Dimwitted
 ---
 #adjective
-- **[[b/_being|Being]] a [[d/_dimwit|dimwit]]; stupid; foolish; simple.**
+- **[[b/_being|Being]] a [[d/_dimwit|dimwit]]; stupid; [[f/_foolish|foolish]]; simple.**
 ---
 ---

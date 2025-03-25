@@ -1,6 +1,6 @@
 # Chametz
 ---
 #noun
-- **Food products made from leavened grain flour, which may not be [[c/_consumed|consumed]] on Passover in Judaism.**
+- **[[f/_food|Food]] products [[m/_made|made]] from [[l/_leavened|leavened]] [[g/_grain|grain]] [[f/_flour|flour]], which [[m/_may|may]] not be [[c/_consumed|consumed]] on Passover in [[j/_judaism|Judaism]].**
 ---
 ---

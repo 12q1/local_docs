@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Relating to or [[a/_affected|affected]] with [[c/_cancer|cancer]].**
-- **Growing or spreading rapidly to the point of harm.**
-- **Extremely unpleasant; [[d/_detestable|detestable]].**
+- **[[g/_growing|Growing]] or spreading rapidly to the point of [[h/_harm|harm]].**
+- **[[e/_extremely|Extremely]] unpleasant; [[d/_detestable|detestable]].**
 ---
 ### Antonyms
 - [[n/_noncancerous|noncancerous]]

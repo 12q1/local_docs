@@ -1,6 +1,6 @@
 # Deodorise
 ---
 #verb
-- **To mask or [[e/_eliminate|eliminate]] the odor of, or an odor in, (something).**
+- **To [[m/_mask|mask]] or [[e/_eliminate|eliminate]] the [[o/_odor|odor]] of, or an [[o/_odor|odor]] in, (something).**
 ---
 ---

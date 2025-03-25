@@ -1,7 +1,7 @@
 # Cudweed
 ---
 #noun
-- **[[a/_any|Any]] of many of species of flowering plants in family [[a/_asteraceae|Asteraceae]]:**
-- **[[c/_cudbear|Cudbear]] (Lecanora tartarea)**
+- **[[a/_any|Any]] of [[m/_many|many]] of species of [[f/_flowering|flowering]] plants in [[f/_family|family]] [[a/_asteraceae|Asteraceae]]:**
+- **[[c/_cudbear|Cudbear]] ([[l/_lecanora|Lecanora]] tartarea)**
 ---
 ---

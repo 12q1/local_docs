@@ -1,6 +1,6 @@
 # Candescent
 ---
 #adjective
-- **Glowing with heat; white-hot, incandescent**
+- **[[g/_glowing|Glowing]] with [[h/_heat|heat]]; white-[[h/_hot|hot]], [[i/_incandescent|incandescent]]**
 ---
 ---

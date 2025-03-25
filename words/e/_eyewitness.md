@@ -1,9 +1,9 @@
 # Eyewitness
 ---
 #noun
-- **Someone who sees an event and [[c/_can|can]] report or testify [[a/_about|about]] it.**
+- **Someone who sees an [[e/_event|event]] and [[c/_can|can]] report or testify [[a/_about|about]] it.**
 ---
 #verb
-- **To be present at an event, and see it**
+- **To be present at an [[e/_event|event]], and see it**
 ---
 ---

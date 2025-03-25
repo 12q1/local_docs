@@ -1,6 +1,6 @@
 # Erythropoietin
 ---
 #noun
-- **A glycoprotein hormone that functions as a cytokine for [[e/_erythrocyte|erythrocyte]] precursors in [[b/_bone|bone]] marrow**
+- **A [[g/_glycoprotein|glycoprotein]] [[h/_hormone|hormone]] that [[f/_functions|functions]] as a cytokine for [[e/_erythrocyte|erythrocyte]] precursors in [[b/_bone|bone]] [[m/_marrow|marrow]]**
 ---
 ---

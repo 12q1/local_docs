@@ -1,8 +1,8 @@
 # Crusading
 ---
 #verb
-- **To go on a military [[c/_crusade|crusade]].**
-- **To make a grand [[c/_concerted|concerted]] [[e/_effort|effort]] toward some purportedly worthy [[c/_cause|cause]].**
+- **To [[g/_go|go]] on a [[m/_military|military]] [[c/_crusade|crusade]].**
+- **To [[m/_make|make]] a [[g/_grand|grand]] [[c/_concerted|concerted]] [[e/_effort|effort]] toward some purportedly worthy [[c/_cause|cause]].**
 	- _Example: He crusaded against similar injustices for the rest of his life._
 ---
 ---

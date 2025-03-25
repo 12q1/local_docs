@@ -1,6 +1,6 @@
 # Couching
 ---
 #noun
-- **The [[a/_act|act]] of one who [[c/_couches|couches]].**
+- **The [[a/_act|act]] of [[o/_one|one]] who [[c/_couches|couches]].**
 ---
 ---

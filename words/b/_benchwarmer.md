@@ -1,6 +1,6 @@
 # Benchwarmer
 ---
 #noun
-- **A player who rarely or never gets to play in the games or matches, and is most often a substitute.**
+- **A player who rarely or [[n/_never|never]] [[g/_gets|gets]] to play in the [[g/_games|games]] or [[m/_matches|matches]], and is [[m/_most|most]] [[o/_often|often]] a substitute.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Disvalue
 ---
 #noun
-- **Harm, [[d/_demerit|demerit]]**
+- **[[h/_harm|Harm]], [[d/_demerit|demerit]]**
 ---
 #verb
-- **To regard something as having little or no value.**
+- **To regard something as [[h/_having|having]] [[l/_little|little]] or [[n/_no|no]] value.**
 - **To undervalue; to [[d/_depreciate|depreciate]].**
 ---
 ---

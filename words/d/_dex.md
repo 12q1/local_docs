@@ -1,6 +1,6 @@
 # Dex
 ---
 #noun
-- **An order or factor of ten.**
+- **An [[o/_order|order]] or [[f/_factor|factor]] of ten.**
 ---
 ---

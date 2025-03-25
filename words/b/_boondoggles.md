@@ -1,8 +1,8 @@
 # Boondoggles
 ---
 #noun
-- **A [[b/_braided|braided]] ring to hold a neckerchief.**
-- **A waste of time and/or money; a pointless [[a/_activity|activity]].**
+- **A [[b/_braided|braided]] ring to [[h/_hold|hold]] a [[n/_neckerchief|neckerchief]].**
+- **A waste of time and/or [[m/_money|money]]; a pointless [[a/_activity|activity]].**
 	- _Example: Opponents consider this another billion-dollar government boondoggle._
 ---
 ### Synonyms

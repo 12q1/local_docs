@@ -1,7 +1,7 @@
 # Etalon
 ---
 #noun
-- **An optical [[d/_device|device]] [[c/_containing|containing]] parallel mirrors, used as a narrow [[b/_band|band]] filter, often in laser [[d/_design|design]].**
+- **An [[o/_optical|optical]] [[d/_device|device]] [[c/_containing|containing]] parallel [[m/_mirrors|mirrors]], used as a [[n/_narrow|narrow]] [[b/_band|band]] [[f/_filter|filter]], [[o/_often|often]] in [[l/_laser|laser]] [[d/_design|design]].**
 ---
 ### Synonyms
 - 

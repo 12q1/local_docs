@@ -1,6 +1,6 @@
 # Dan
 ---
 #noun
-- **A title of honour similar to "master" or "father", used of historical and legendary figures of the past.**
+- **A title of [[h/_honour|honour]] similar to "[[m/_master|master]]" or "[[f/_father|father]]", used of [[h/_historical|historical]] and [[l/_legendary|legendary]] [[f/_figures|figures]] of the past.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Corals
 ---
 #noun
-- **A hard substance made of the limestone skeletons of marine polyps.**
-- **A [[c/_colony|colony]] of marine polyps.**
-- **A somewhat yellowish pink [[c/_colour|colour]], the [[c/_colour|colour]] of red [[c/_coral|coral]].**
-- **The ovaries of a [[c/_cooked|cooked]] lobster; so [[c/_called|called]] from their [[c/_colour|colour]].**
-- **A piece of [[c/_coral|coral]], usually fitted with small [[b/_bells|bells]] and other [[a/_appurtenances|appurtenances]], used by [[c/_children|children]] as a plaything.**
+- **A [[h/_hard|hard]] substance [[m/_made|made]] of the [[l/_limestone|limestone]] skeletons of [[m/_marine|marine]] polyps.**
+- **A [[c/_colony|colony]] of [[m/_marine|marine]] polyps.**
+- **A somewhat [[y/_yellowish|yellowish]] pink [[c/_colour|colour]], the [[c/_colour|colour]] of red [[c/_coral|coral]].**
+- **The [[o/_ovaries|ovaries]] of a [[c/_cooked|cooked]] [[l/_lobster|lobster]]; so [[c/_called|called]] from their [[c/_colour|colour]].**
+- **A piece of [[c/_coral|coral]], usually [[f/_fitted|fitted]] with small [[b/_bells|bells]] and [[o/_other|other]] [[a/_appurtenances|appurtenances]], used by [[c/_children|children]] as a plaything.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Defeaters
 ---
 #noun
-- **One who [[d/_defeats|defeats]].**
+- **[[o/_one|One]] who [[d/_defeats|defeats]].**
 	- _Example: defeater of the rebel hordes_
-- **A [[b/_belief|belief]] which, if proved to be true, would imply outright or indirectly that [[a/_another|another]] [[b/_belief|belief]] were false.**
+- **A [[b/_belief|belief]] which, [[i/_if|if]] proved to be true, would [[i/_imply|imply]] [[o/_outright|outright]] or [[i/_indirectly|indirectly]] that [[a/_another|another]] [[b/_belief|belief]] were [[f/_false|false]].**
 ---
 ---

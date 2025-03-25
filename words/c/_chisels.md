@@ -1,16 +1,16 @@
 # Chisels
 ---
 #noun
-- **A [[c/_cutting|cutting]] tool [[c/_consisting|consisting]] of a slim, oblong [[b/_block|block]] of metal with a sharp wedge or [[b/_bevel|bevel]] formed on one [[e/_end|end]]. It may be provided with a handle at the other [[e/_end|end]]. It is used to remove parts of stone, wood or metal by placing the sharp [[e/_edge|edge]] [[a/_against|against]] the material to be [[c/_cut|cut]] and pushing or pounding the other [[e/_end|end]] with a hammer or mallet.**
+- **A [[c/_cutting|cutting]] tool [[c/_consisting|consisting]] of a slim, [[o/_oblong|oblong]] [[b/_block|block]] of [[m/_metal|metal]] with a sharp wedge or [[b/_bevel|bevel]] [[f/_formed|formed]] on [[o/_one|one]] [[e/_end|end]]. It [[m/_may|may]] be provided with a [[h/_handle|handle]] at the [[o/_other|other]] [[e/_end|end]]. It is used to remove parts of stone, wood or [[m/_metal|metal]] by placing the sharp [[e/_edge|edge]] [[a/_against|against]] the [[m/_material|material]] to be [[c/_cut|cut]] and pushing or pounding the [[o/_other|other]] [[e/_end|end]] with a [[h/_hammer|hammer]] or [[m/_mallet|mallet]].**
 ---
 #verb
 - **To use a [[c/_chisel|chisel]].**
 - **To work something with a [[c/_chisel|chisel]].**
 	- _Example: She chiselled a sculpture out of the block of wood._
-- **To [[c/_cheat|cheat]], to get something by [[c/_cheating|cheating]].**
+- **To [[c/_cheat|cheat]], to [[g/_get|get]] something by [[c/_cheating|cheating]].**
 ---
 #noun
-- **Gravel.**
-- **(usually in the plural) [[c/_coarse|Coarse]] flour; [[b/_bran|bran]]; the [[c/_coarser|coarser]] part of [[b/_bran|bran]] or flour.**
+- **[[g/_gravel|Gravel]].**
+- **(usually in the plural) [[c/_coarse|Coarse]] [[f/_flour|flour]]; [[b/_bran|bran]]; the [[c/_coarser|coarser]] part of [[b/_bran|bran]] or [[f/_flour|flour]].**
 ---
 ---

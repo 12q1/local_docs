@@ -1,10 +1,10 @@
 # Anemic
 ---
 #noun
-- **An individual who has [[a/_anemia|anemia]].**
+- **An [[i/_individual|individual]] who [[h/_has|has]] [[a/_anemia|anemia]].**
 ---
 #adjective
 - **Of, pertaining to, or suffering from [[a/_anemia|anemia]].**
-- **(by extension) Weak; listless; lacking power, vigor, vitality, or [[c/_colorfulness|colorfulness]].**
+- **(by [[e/_extension|extension]]) Weak; [[l/_listless|listless]]; [[l/_lacking|lacking]] power, vigor, vitality, or [[c/_colorfulness|colorfulness]].**
 ---
 ---

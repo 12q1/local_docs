@@ -2,7 +2,7 @@
 ---
 #noun
 - **A woman's [[b/_breast|breast]].**
-- **A fool, a tit.**
+- **A [[f/_fool|fool]], a tit.**
 ---
 #adjective
 - **Very small, tiny**

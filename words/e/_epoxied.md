@@ -1,6 +1,6 @@
 # Epoxied
 ---
 #verb
-- **To glue with [[e/_epoxy|epoxy]].**
+- **To [[g/_glue|glue]] with [[e/_epoxy|epoxy]].**
 ---
 ---

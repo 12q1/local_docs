@@ -1,7 +1,7 @@
 # Alleviating
 ---
 #verb
-- **To make less severe, as a pain or [[d/_difficulty|difficulty]].**
+- **To [[m/_make|make]] [[l/_less|less]] severe, as a [[p/_pain|pain]] or [[d/_difficulty|difficulty]].**
 	- _Example: Alcohol is often a cheap tool to alleviate the stress of a hard day._
 ---
 ### Synonyms

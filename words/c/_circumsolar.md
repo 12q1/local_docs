@@ -1,6 +1,6 @@
 # Circumsolar
 ---
 #adjective
-- **Surrounding or moving [[a/_around|around]] the Sun**
+- **Surrounding or [[m/_moving|moving]] [[a/_around|around]] the Sun**
 ---
 ---

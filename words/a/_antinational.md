@@ -1,10 +1,10 @@
 # Antinational
 ---
 #noun
-- **One who is opposed to India, usually suggesting pro-Pakistan [[a/_associations|associations]].**
+- **[[o/_one|One]] who is [[o/_opposed|opposed]] to [[i/_india|India]], usually suggesting pro-[[p/_pakistan|Pakistan]] [[a/_associations|associations]].**
 ---
 #adjective
-- **Opposed to one's own nation; unpatriotic.**
-- **Opposed to purely national [[c/_concerns|concerns]]; not founded on the idea of the nation.**
+- **[[o/_opposed|Opposed]] to [[o/_one|one]]'s [[o/_own|own]] [[n/_nation|nation]]; unpatriotic.**
+- **[[o/_opposed|Opposed]] to purely [[n/_national|national]] [[c/_concerns|concerns]]; not [[f/_founded|founded]] on the [[i/_idea|idea]] of the [[n/_nation|nation]].**
 ---
 ---

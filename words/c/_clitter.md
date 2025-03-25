@@ -1,11 +1,11 @@
 # Clitter
 ---
 #noun
-- **Loose stones on hillsides [[d/_deposited|deposited]] by weathering.**
+- **[[l/_loose|Loose]] stones on [[h/_hillsides|hillsides]] [[d/_deposited|deposited]] by weathering.**
 ---
 ### Synonyms
 - [[s/_scree|scree]]
 #verb
-- **To [[c/_clatter|clatter]] lightly; to make a soft rattling noise.**
+- **To [[c/_clatter|clatter]] [[l/_lightly|lightly]]; to [[m/_make|make]] a soft rattling [[n/_noise|noise]].**
 ---
 ---

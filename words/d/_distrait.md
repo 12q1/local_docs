@@ -1,6 +1,6 @@
 # Distrait
 ---
 #adjective
-- **[[a/_absent|Absent]]-minded, troubled, [[d/_distracted|distracted]]**
+- **[[a/_absent|Absent]]-[[m/_minded|minded]], troubled, [[d/_distracted|distracted]]**
 ---
 ---

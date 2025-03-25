@@ -1,11 +1,11 @@
 # Digastric
 ---
 #noun
-- **The [[d/_digastric|digastric]] muscle.**
+- **The [[d/_digastric|digastric]] [[m/_muscle|muscle]].**
 ---
 #adjective
-- **Having two [[b/_bellies|bellies]]; [[b/_biventral|biventral]]**
-- **Having two fleshy [[e/_ends|ends]] [[c/_connected|connected]] by a tendon.**
+- **[[h/_having|Having]] two [[b/_bellies|bellies]]; [[b/_biventral|biventral]]**
+- **[[h/_having|Having]] two [[f/_fleshy|fleshy]] [[e/_ends|ends]] [[c/_connected|connected]] by a tendon.**
 	- _Example: the digastric muscle of the lower jaw_
 ---
 ---

@@ -1,7 +1,7 @@
 # Diplomate
 ---
 #noun
-- **A professional who has [[e/_earned|earned]] a [[d/_diploma|diploma]].**
+- **A professional who [[h/_has|has]] [[e/_earned|earned]] a [[d/_diploma|diploma]].**
 ---
 #verb
 - **To [[a/_award|award]] a [[d/_diploma|diploma]] to.**

@@ -1,16 +1,16 @@
 # Caned
 ---
 #verb
-- **To strike or [[b/_beat|beat]] with a [[c/_cane|cane]] or similar implement**
+- **To strike or [[b/_beat|beat]] with a [[c/_cane|cane]] or similar [[i/_implement|implement]]**
 - **To [[d/_destroy|destroy]]; to [[c/_comprehensively|comprehensively]] [[d/_defeat|defeat]]**
 	- _Example: Mudchester Rovers were caned 10-0._
-- **To [[d/_do|do]] something well, in a [[c/_competent|competent]] fashion**
-- **To produce extreme pain**
+- **To [[d/_do|do]] something well, in a [[c/_competent|competent]] [[f/_fashion|fashion]]**
+- **To produce [[e/_extreme|extreme]] [[p/_pain|pain]]**
 	- _Example: Don't hit me with that. It really canes!_
-- **To make or furnish with [[c/_cane|cane]] or rattan.**
+- **To [[m/_make|make]] or [[f/_furnish|furnish]] with [[c/_cane|cane]] or rattan.**
 	- _Example: to cane chairs_
 ---
 #adjective
-- **Intoxicated by [[a/_alcohol|alcohol]] or [[d/_drugs|drugs]]**
+- **[[i/_intoxicated|Intoxicated]] by [[a/_alcohol|alcohol]] or [[d/_drugs|drugs]]**
 ---
 ---

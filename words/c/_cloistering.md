@@ -6,7 +6,7 @@
 - **To [[d/_deliberately|deliberately]] withdraw from worldly things.**
 - **To provide with a [[c/_cloister|cloister]] or [[c/_cloisters|cloisters]].**
 	- _Example: The architect cloistered the college just like the monastery which founded it._
-- **To protect or isolate.**
+- **To protect or [[i/_isolate|isolate]].**
 ---
 ### Synonyms
 - 

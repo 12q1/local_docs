@@ -1,0 +1,6 @@
+# Ferous
+---
+#adjective
+- **Wild; savage**
+---
+---

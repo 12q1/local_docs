@@ -1,6 +1,6 @@
 # Epistases
 ---
 #noun
-- **The modification of the expression of a gene by [[a/_another|another]] unrelated one.**
+- **The [[m/_modification|modification]] of the [[e/_expression|expression]] of a [[g/_gene|gene]] by [[a/_another|another]] unrelated [[o/_one|one]].**
 ---
 ---

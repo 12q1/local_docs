@@ -1,8 +1,8 @@
 # Discomforts
 ---
 #noun
-- **Mental or [[b/_bodily|bodily]] [[d/_distress|distress]].**
-- **Something that [[d/_disturbs|disturbs]] one’s [[c/_comfort|comfort]]; an [[a/_annoyance|annoyance]].**
+- **[[m/_mental|Mental]] or [[b/_bodily|bodily]] [[d/_distress|distress]].**
+- **Something that [[d/_disturbs|disturbs]] [[o/_one|one]]’s [[c/_comfort|comfort]]; an [[a/_annoyance|annoyance]].**
 ---
 #verb
 - **To [[c/_cause|cause]] [[a/_annoyance|annoyance]] or [[d/_distress|distress]] to.**

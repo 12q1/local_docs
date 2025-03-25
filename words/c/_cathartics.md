@@ -1,6 +1,6 @@
 # Cathartics
 ---
 #noun
-- **A laxative.**
+- **A [[l/_laxative|laxative]].**
 ---
 ---

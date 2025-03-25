@@ -6,7 +6,7 @@
 #adjective
 - **[[c/_carrying|Carrying]] [[a/_away|away]] from.**
 	- _Example: An efferent nerve carries impulses from the brain to the body._
-- **[[c/_carried|Carried]] outward.**
+- **[[c/_carried|Carried]] [[o/_outward|outward]].**
 	- _Example: Efferent impulses are those conveyed by the motor or efferent nerves from the central nervous organ outwards._
 ---
 ### Antonyms

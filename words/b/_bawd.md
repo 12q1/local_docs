@@ -1,13 +1,13 @@
 # Bawd
 ---
 #noun
-- **A person who keeps a house of prostitution, or procures women for prostitution; a procurer, a madame.**
-- **A lewd person.**
+- **A person who [[k/_keeps|keeps]] a [[h/_house|house]] of prostitution, or procures women for prostitution; a procurer, a [[m/_madame|madame]].**
+- **A [[l/_lewd|lewd]] person.**
 ---
 #verb
-- **To procure women for lewd purposes.**
+- **To procure women for [[l/_lewd|lewd]] purposes.**
 ---
 #adjective
-- **Joyous; riotously gay.**
+- **[[j/_joyous|Joyous]]; riotously [[g/_gay|gay]].**
 ---
 ---

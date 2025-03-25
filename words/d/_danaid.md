@@ -1,6 +1,6 @@
 # Danaid
 ---
 #noun
-- **[[a/_any|Any]] member of the [[d/_danaidae|Danaidae]], now [[c/_considered|considered]] to be the nymphalid subfamily [[d/_danainae|Danainae]].**
+- **[[a/_any|Any]] [[m/_member|member]] of the [[d/_danaidae|Danaidae]], [[n/_now|now]] [[c/_considered|considered]] to be the [[n/_nymphalid|nymphalid]] subfamily [[d/_danainae|Danainae]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Desorbed
 ---
 #verb
-- **(of a substance) To remove (or be removed) from a surface onto which it was [[a/_adsorbed|adsorbed]] or through which it was [[a/_absorbed|absorbed]]**
+- **(of a substance) To remove (or be removed) from a surface [[o/_onto|onto]] which it was [[a/_adsorbed|adsorbed]] or through which it was [[a/_absorbed|absorbed]]**
 ---
 #adjective
 - **Removed by [[d/_desorption|desorption]]**

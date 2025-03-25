@@ -1,6 +1,6 @@
 # Begrime
 ---
 #verb
-- **To make something [[d/_dirty|dirty]]; to soil.**
+- **To [[m/_make|make]] something [[d/_dirty|dirty]]; to soil.**
 ---
 ---

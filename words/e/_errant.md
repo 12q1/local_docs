@@ -1,14 +1,14 @@
 # Errant
 ---
 #noun
-- **A knight-[[e/_errant|errant]].**
+- **A [[k/_knight|knight]]-[[e/_errant|errant]].**
 ---
 #adjective
-- **Straying from the proper [[c/_course|course]] or standard, or outside [[e/_established|established]] limits.**
+- **Straying from the proper [[c/_course|course]] or standard, or [[o/_outside|outside]] [[e/_established|established]] [[l/_limits|limits]].**
 - **Wandering; roving [[a/_around|around]].**
-- **Prone to making [[e/_errors|errors]]; misbehaved.**
+- **Prone to [[m/_making|making]] [[e/_errors|errors]]; [[m/_misbehaved|misbehaved]].**
 	- _Example: We ran down the street in pursuit of the errant dog._
-- **Utter, [[c/_complete|complete]] (negative); [[a/_arrant|arrant]].**
+- **Utter, [[c/_complete|complete]] ([[n/_negative|negative]]); [[a/_arrant|arrant]].**
 ---
 ### Synonyms
 - [[a/_arrant|arrant]]

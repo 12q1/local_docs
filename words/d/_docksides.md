@@ -1,6 +1,6 @@
 # Docksides
 ---
 #noun
-- **The [[a/_area|area]] near a [[d/_dock|dock]], or next to a [[d/_docked|docked]] ship.**
+- **The [[a/_area|area]] [[n/_near|near]] a [[d/_dock|dock]], or [[n/_next|next]] to a [[d/_docked|docked]] ship.**
 ---
 ---

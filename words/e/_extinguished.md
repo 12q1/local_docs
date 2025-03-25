@@ -1,0 +1,20 @@
+# Extinguished
+---
+#verb
+- **To put [[o/_out|out]], as in [[f/_fire|fire]]; to [[e/_end|end]] [[b/_burning|burning]]; to quench**
+- **To [[d/_destroy|destroy]] or [[a/_abolish|abolish]] something**
+	- _Example: She extinguished all my hopes._
+- **To [[o/_obscure|obscure]] or [[e/_eclipse|eclipse]] something**
+	- _Example: The rays of the sun were extinguished by the thunder clouds._
+- **To [[b/_bring|bring]] [[a/_about|about]] the [[e/_extinction|extinction]] of a [[c/_conditioned|conditioned]] reflex**
+	- _Example: Many patients can extinguish their phobias after a few months of treatment._
+- **To [[h/_hunt|hunt]] [[d/_down|down]] (a species) to [[e/_extinction|extinction]]**
+- **To [[d/_die|die]] [[o/_out|out]].**
+---
+### Synonyms
+- [[d/_douse|douse]], [[q/_quench|quench]]
+#adjective
+- **[[h/_having|Having]] [[b/_been|been]] quenched or [[e/_eliminated|eliminated]].**
+	- _Example: The cowboys buried their trash next to the extinguished fire._
+---
+---

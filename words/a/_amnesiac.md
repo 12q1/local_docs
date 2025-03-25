@@ -1,6 +1,6 @@
 # Amnesiac
 ---
 #noun
-- **Person who suffers from loss of memory ([[a/_amnesia|amnesia]]).**
+- **Person who suffers from [[l/_loss|loss]] of [[m/_memory|memory]] ([[a/_amnesia|amnesia]]).**
 ---
 ---

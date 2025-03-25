@@ -1,8 +1,8 @@
 # Azo
 ---
 #adjective
-- **[[a/_azote|Azote]], nitrogen**
-- **[[a/_applied|Applied]] loosely to [[c/_compounds|compounds]] having nitrogen variously [[c/_combined|combined]], as in [[c/_cyanides|cyanides]], nitrates, [[e/_etc|etc]].**
-- **Now [[e/_especially|especially]] [[a/_applied|applied]] to [[c/_compounds|compounds]] [[c/_containing|containing]] a two [[a/_atom|atom]] nitrogen group (-N=N-) uniting two hydrocarbon radicals, as in [[a/_azobenzene|azobenzene]] [[e/_etc|etc]].**
+- **[[a/_azote|Azote]], [[n/_nitrogen|nitrogen]]**
+- **[[a/_applied|Applied]] [[l/_loosely|loosely]] to [[c/_compounds|compounds]] [[h/_having|having]] [[n/_nitrogen|nitrogen]] variously [[c/_combined|combined]], as in [[c/_cyanides|cyanides]], [[n/_nitrates|nitrates]], [[e/_etc|etc]].**
+- **[[n/_now|Now]] [[e/_especially|especially]] [[a/_applied|applied]] to [[c/_compounds|compounds]] [[c/_containing|containing]] a two [[a/_atom|atom]] [[n/_nitrogen|nitrogen]] [[g/_group|group]] (-[[n/_n|N]]=[[n/_n|N]]-) uniting two [[h/_hydrocarbon|hydrocarbon]] radicals, as in [[a/_azobenzene|azobenzene]] [[e/_etc|etc]].**
 ---
 ---

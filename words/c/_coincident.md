@@ -1,11 +1,11 @@
 # Coincident
 ---
 #noun
-- **[[e/_either|Either]] of multiple simultaneous related incidents**
+- **[[e/_either|Either]] of [[m/_multiple|multiple]] simultaneous related [[i/_incidents|incidents]]**
 ---
 #adjective
-- **(of two events) Occurring at the same time.**
-- **(of two objects) [[b/_being|Being]] in the same location.**
-- **[[b/_being|Being]] in [[a/_accordance|accordance]], matching.**
+- **(of two [[e/_events|events]]) [[o/_occurring|Occurring]] at the same time.**
+- **(of two [[o/_objects|objects]]) [[b/_being|Being]] in the same [[l/_location|location]].**
+- **[[b/_being|Being]] in [[a/_accordance|accordance]], [[m/_matching|matching]].**
 ---
 ---

@@ -1,0 +1,8 @@
+# Featherweights
+---
+#noun
+- **A weight [[c/_class|class]] in [[m/_many|many]] [[c/_combat|combat]] sports; [[e/_e|e]].[[g/_g|g]]. in professional [[b/_boxing|boxing]] of a [[m/_maximum|maximum]] of 126 pounds or 57.2 [[k/_kilograms|kilograms]].**
+- **A sportsman who [[f/_fights|fights]] in this [[d/_division|division]].**
+- **The [[l/_lightest|lightest]] weight that [[m/_may|may]] be [[c/_carried|carried]] by a racehorse.**
+---
+---

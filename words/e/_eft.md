@@ -1,6 +1,6 @@
 # Eft
 ---
 #noun
-- **A newt, [[e/_especially|especially]] the European smooth newt (Lissotriton vulgaris, syn. Triturus punctatus).**
+- **A [[n/_newt|newt]], [[e/_especially|especially]] the [[e/_european|European]] smooth [[n/_newt|newt]] (Lissotriton vulgaris, syn. Triturus punctatus).**
 ---
 ---

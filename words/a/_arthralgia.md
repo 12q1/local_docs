@@ -1,6 +1,6 @@
 # Arthralgia
 ---
 #noun
-- **Pain in a joint, [[e/_especially|especially]] when not [[c/_caused|caused]] by [[a/_arthritis|arthritis]].**
+- **[[p/_pain|Pain]] in a [[j/_joint|joint]], [[e/_especially|especially]] when not [[c/_caused|caused]] by [[a/_arthritis|arthritis]].**
 ---
 ---

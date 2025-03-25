@@ -1,12 +1,12 @@
 # Chattier
 ---
 #adjective
-- **Of a person, [[c/_chatting|chatting]] a lot or fond of [[c/_chatting|chatting]].**
-- **Of a text or speech, expressed in a [[c/_conversational|conversational]] style.**
-- **Supplying more information than necessary; verbose.**
+- **Of a person, [[c/_chatting|chatting]] a [[l/_lot|lot]] or [[f/_fond|fond]] of [[c/_chatting|chatting]].**
+- **Of a text or speech, [[e/_expressed|expressed]] in a [[c/_conversational|conversational]] style.**
+- **Supplying [[m/_more|more]] [[i/_information|information]] than [[n/_necessary|necessary]]; verbose.**
 	- _Example: Chatty error messages may help attackers to compromise your server._
 ---
 #adjective
-- **Infested with lice; or, [[d/_dirty|dirty]], worn or of poor quality; lousy.**
+- **[[i/_infested|Infested]] with [[l/_lice|lice]]; or, [[d/_dirty|dirty]], worn or of poor quality; [[l/_lousy|lousy]].**
 ---
 ---

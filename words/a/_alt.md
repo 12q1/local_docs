@@ -1,7 +1,7 @@
 # Alt
 ---
 #noun
-- **High pitch, of a voice or instrument; [[e/_especially|especially]], the octave [[a/_above|above]] the top line of the treble stave.**
-- **A state of excitement, a heightened [[e/_emotional|emotional]] [[c/_condition|condition]].**
+- **[[h/_high|High]] pitch, of a voice or [[i/_instrument|instrument]]; [[e/_especially|especially]], the [[o/_octave|octave]] [[a/_above|above]] the top [[l/_line|line]] of the treble stave.**
+- **A state of [[e/_excitement|excitement]], a [[h/_heightened|heightened]] [[e/_emotional|emotional]] [[c/_condition|condition]].**
 ---
 ---

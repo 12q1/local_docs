@@ -1,6 +1,6 @@
 # Bowsprit
 ---
 #noun
-- **A spar projecting over the prow of a sailing vessel to provide the means of [[a/_adding|adding]] sail surface.**
+- **A spar projecting [[o/_over|over]] the prow of a sailing vessel to provide the [[m/_means|means]] of [[a/_adding|adding]] sail surface.**
 ---
 ---

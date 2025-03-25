@@ -1,9 +1,9 @@
 # Chubbiest
 ---
 #adjective
-- **Of a person: slightly overweight, somewhat fat, and hence plump, rounded, and soft.**
+- **Of a person: slightly [[o/_overweight|overweight]], somewhat [[f/_fat|fat]], and [[h/_hence|hence]] plump, rounded, and soft.**
 	- _Example: Obviously the chubby child was eating too much._
-- **Of a [[b/_body|body]] part: [[c/_containing|containing]] a moderate [[a/_amount|amount]] of fat.**
+- **Of a [[b/_body|body]] part: [[c/_containing|containing]] a [[m/_moderate|moderate]] [[a/_amount|amount]] of [[f/_fat|fat]].**
 	- _Example: It’s quite normal for babies to have chubby cheeks._
 ---
 ### Synonyms

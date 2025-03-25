@@ -1,6 +1,6 @@
 # An
 ---
 #numeral
-- **One**
+- **[[o/_one|One]]**
 ---
 ---

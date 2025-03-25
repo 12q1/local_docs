@@ -1,8 +1,8 @@
 # Asters
 ---
 #noun
-- **[[a/_any|Any]] of several plants of the genus [[a/_aster|Aster]]; one of its flowers.**
-- **A star-shaped structure formed [[d/_during|during]] the mitosis of a [[c/_cell|cell]].**
+- **[[a/_any|Any]] of several plants of the [[g/_genus|genus]] [[a/_aster|Aster]]; [[o/_one|one]] of [[i/_its|its]] [[f/_flowers|flowers]].**
+- **A star-shaped structure [[f/_formed|formed]] [[d/_during|during]] the [[m/_mitosis|mitosis]] of a [[c/_cell|cell]].**
 - **A star.**
 ---
 ---

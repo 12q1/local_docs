@@ -1,6 +1,6 @@
 # Diadelphous
 ---
 #adjective
-- **Having its stamens fused together at least partly by the filaments so that they form two separate [[b/_bundles|bundles]], or a [[b/_bundle|bundle]] and a lone separate stamen.**
+- **[[h/_having|Having]] [[i/_its|its]] stamens [[f/_fused|fused]] together at [[l/_least|least]] partly by the [[f/_filaments|filaments]] so that they [[f/_form|form]] two separate [[b/_bundles|bundles]], or a [[b/_bundle|bundle]] and a [[l/_lone|lone]] separate stamen.**
 ---
 ---

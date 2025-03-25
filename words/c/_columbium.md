@@ -1,6 +1,6 @@
 # Columbium
 ---
 #noun
-- **A former name of niobium.**
+- **A [[f/_former|former]] [[n/_name|name]] of [[n/_niobium|niobium]].**
 ---
 ---

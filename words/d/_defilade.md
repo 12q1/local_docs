@@ -1,9 +1,9 @@
 # Defilade
 ---
 #noun
-- **A fortification having such protection.**
+- **A [[f/_fortification|fortification]] [[h/_having|having]] such protection.**
 ---
 #verb
-- **To fortify (something) as a protection from [[e/_enfilading|enfilading]] fire.**
+- **To [[f/_fortify|fortify]] (something) as a protection from [[e/_enfilading|enfilading]] [[f/_fire|fire]].**
 ---
 ---

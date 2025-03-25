@@ -1,6 +1,6 @@
 # Deflocculated
 ---
 #verb
-- **To [[d/_disperse|disperse]] an [[a/_agglomerate|agglomerate]] into fine particles and form a [[c/_colloid|colloid]]**
+- **To [[d/_disperse|disperse]] an [[a/_agglomerate|agglomerate]] [[i/_into|into]] [[f/_fine|fine]] particles and [[f/_form|form]] a [[c/_colloid|colloid]]**
 ---
 ---

@@ -2,8 +2,8 @@
 ---
 #noun
 - **The state of [[b/_being|being]] [[c/_certain|certain]].**
-- **An instance of [[b/_being|being]] [[c/_certain|certain]].**
-- **A fact or truth unquestionably [[e/_established|established]].**
+- **An [[i/_instance|instance]] of [[b/_being|being]] [[c/_certain|certain]].**
+- **A [[f/_fact|fact]] or truth unquestionably [[e/_established|established]].**
 ---
 ### Synonyms
 - [[c/_certitude|certitude]], [[s/_sureness|sureness]]

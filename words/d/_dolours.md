@@ -1,6 +1,6 @@
 # Dolours
 ---
 #noun
-- **A painful grief or suffering.**
+- **A [[p/_painful|painful]] [[g/_grief|grief]] or suffering.**
 ---
 ---

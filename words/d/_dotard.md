@@ -1,8 +1,8 @@
 # Dotard
 ---
 #noun
-- **An old person with impaired intellect; one in his or her [[d/_dotage|dotage]].**
-- **One who [[d/_dotes|dotes]] on [[a/_another|another]], showing excessive fondness.**
+- **An [[o/_old|old]] person with [[i/_impaired|impaired]] [[i/_intellect|intellect]]; [[o/_one|one]] in [[h/_his|his]] or [[h/_her|her]] [[d/_dotage|dotage]].**
+- **[[o/_one|One]] who [[d/_dotes|dotes]] on [[a/_another|another]], showing [[e/_excessive|excessive]] [[f/_fondness|fondness]].**
 ---
 ### Synonyms
 - [[m/_mimmerkin|mimmerkin]]

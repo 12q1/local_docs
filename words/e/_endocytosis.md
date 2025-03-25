@@ -1,6 +1,6 @@
 # Endocytosis
 ---
 #noun
-- **The process by which the plasma membrane of a [[c/_cell|cell]] folds inwards to ingest material.**
+- **The process by which the plasma [[m/_membrane|membrane]] of a [[c/_cell|cell]] [[f/_folds|folds]] [[i/_inwards|inwards]] to [[i/_ingest|ingest]] [[m/_material|material]].**
 ---
 ---

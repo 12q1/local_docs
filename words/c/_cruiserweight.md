@@ -1,8 +1,8 @@
 # Cruiserweight
 ---
 #noun
-- **Light heavyweight**
-- **A [[b/_boxer|boxer]] weighing less than 200lb; heavier than a light heavyweight and lighter than a heavyweight.**
-- **A wrestler weighing less than 210lb; heavier than a light heavyweight and lighter than a heavyweight.**
+- **[[l/_light|Light]] [[h/_heavyweight|heavyweight]]**
+- **A [[b/_boxer|boxer]] weighing [[l/_less|less]] than 200lb; [[h/_heavier|heavier]] than a [[l/_light|light]] [[h/_heavyweight|heavyweight]] and [[l/_lighter|lighter]] than a [[h/_heavyweight|heavyweight]].**
+- **A wrestler weighing [[l/_less|less]] than 210lb; [[h/_heavier|heavier]] than a [[l/_light|light]] [[h/_heavyweight|heavyweight]] and [[l/_lighter|lighter]] than a [[h/_heavyweight|heavyweight]].**
 ---
 ---

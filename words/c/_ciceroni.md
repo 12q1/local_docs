@@ -1,6 +1,6 @@
 # Ciceroni
 ---
 #noun
-- **A guide who shows people [[a/_around|around]] tourist sights.**
+- **A [[g/_guide|guide]] who shows people [[a/_around|around]] tourist sights.**
 ---
 ---

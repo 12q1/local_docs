@@ -1,11 +1,11 @@
 # Acephalous
 ---
 #adjective
-- **Headless**
-- **([[a/_applied|applied]] to [[b/_bivalve|bivalve]] mollusks) Without a [[d/_distinct|distinct]] head.**
-- **Having the style spring from the [[b/_base|base]], instead of from the [[a/_apex|apex]], as is the [[c/_case|case]] in [[c/_certain|certain]] ovaries**
-- **Without a leader or [[c/_chief|chief]].**
+- **[[h/_headless|Headless]]**
+- **([[a/_applied|applied]] to [[b/_bivalve|bivalve]] [[m/_mollusks|mollusks]]) Without a [[d/_distinct|distinct]] [[h/_head|head]].**
+- **[[h/_having|Having]] the style spring from the [[b/_base|base]], [[i/_instead|instead]] of from the [[a/_apex|apex]], as is the [[c/_case|case]] in [[c/_certain|certain]] [[o/_ovaries|ovaries]]**
+- **Without a [[l/_leader|leader]] or [[c/_chief|chief]].**
 - **Without a [[b/_beginning|beginning]]**
-- **[[d/_deficient|Deficient]] in the [[b/_beginning|beginning]], as a line of poetry that is missing its expected opening syllable**
+- **[[d/_deficient|Deficient]] in the [[b/_beginning|beginning]], as a [[l/_line|line]] of poetry that is [[m/_missing|missing]] [[i/_its|its]] [[e/_expected|expected]] [[o/_opening|opening]] syllable**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bluesman
 ---
 #noun
-- **A male [[b/_blues|blues]] musician**
+- **A [[m/_male|male]] [[b/_blues|blues]] [[m/_musician|musician]]**
 ---
 ---

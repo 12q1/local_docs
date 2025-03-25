@@ -1,9 +1,9 @@
 # Apotropaic
 ---
 #noun
-- **An [[a/_agent|agent]] intended to ward off evil.**
+- **An [[a/_agent|agent]] [[i/_intended|intended]] to ward [[o/_off|off]] [[e/_evil|evil]].**
 ---
 #adjective
-- **(mysticism) Intended to ward off evil.**
+- **([[m/_mysticism|mysticism]]) [[i/_intended|Intended]] to ward [[o/_off|off]] [[e/_evil|evil]].**
 ---
 ---

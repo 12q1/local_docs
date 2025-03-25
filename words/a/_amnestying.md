@@ -1,6 +1,6 @@
 # Amnestying
 ---
 #verb
-- **To grant a pardon (to a group)**
+- **To [[g/_grant|grant]] a pardon (to a [[g/_group|group]])**
 ---
 ---

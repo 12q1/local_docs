@@ -1,10 +1,10 @@
 # Bridal
 ---
 #noun
-- **A wedding feast or festival; a wedding.**
+- **A wedding [[f/_feast|feast]] or [[f/_festival|festival]]; a wedding.**
 ---
 #adjective
-- **Of or pertaining to a [[b/_bride|bride]], or to wedding; nuptial.**
+- **Of or pertaining to a [[b/_bride|bride]], or to wedding; [[n/_nuptial|nuptial]].**
 	- _Example: bridal ornaments; a bridal outfit; a bridal chamber_
 ---
 ---

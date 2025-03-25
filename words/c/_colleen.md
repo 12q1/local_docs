@@ -1,7 +1,7 @@
 # Colleen
 ---
 #noun
-- **Girl**
-- **Young single woman**
+- **[[g/_girl|Girl]]**
+- **[[y/_young|Young]] single woman**
 ---
 ---

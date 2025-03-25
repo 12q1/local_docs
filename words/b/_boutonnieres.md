@@ -1,7 +1,7 @@
 # Boutonnieres
 ---
 #noun
-- **A small flower or [[b/_bunch|bunch]] of flowers worn in a [[b/_buttonhole|buttonhole]] or pinned to the lapel of a jacket.**
+- **A small [[f/_flower|flower]] or [[b/_bunch|bunch]] of [[f/_flowers|flowers]] worn in a [[b/_buttonhole|buttonhole]] or pinned to the [[l/_lapel|lapel]] of a [[j/_jacket|jacket]].**
 ---
 ### Synonyms
 - [[b/_buttonhole|buttonhole]]

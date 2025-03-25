@@ -1,7 +1,7 @@
 # Breaststroke
 ---
 #noun
-- **A swimming stroke in which the swimmer lies face [[d/_down|down]], the [[a/_arms|arms]] [[b/_being|being]] swept forward, outward and [[b/_back|back]] under the water and the legs are kicked like a frog's**
+- **A swimming stroke in which the swimmer [[l/_lies|lies]] [[f/_face|face]] [[d/_down|down]], the [[a/_arms|arms]] [[b/_being|being]] swept [[f/_forward|forward]], [[o/_outward|outward]] and [[b/_back|back]] under the water and the [[l/_legs|legs]] are [[k/_kicked|kicked]] [[l/_like|like]] a [[f/_frog|frog]]'s**
 ---
 #verb
 - **To swim using this stroke**

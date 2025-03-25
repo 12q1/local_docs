@@ -1,6 +1,6 @@
 # Dermestid
 ---
 #noun
-- **[[a/_any|Any]] [[b/_beetle|beetle]] of the family [[d/_dermestidae|Dermestidae]], most of which are scavengers that feed on [[d/_dry|dry]] [[a/_animal|animal]] or plant material.**
+- **[[a/_any|Any]] [[b/_beetle|beetle]] of the [[f/_family|family]] [[d/_dermestidae|Dermestidae]], [[m/_most|most]] of which are scavengers that [[f/_feed|feed]] on [[d/_dry|dry]] [[a/_animal|animal]] or plant [[m/_material|material]].**
 ---
 ---

@@ -1,0 +1,6 @@
+# Nontypical
+---
+#adjective
+- **Not typical**
+---
+---

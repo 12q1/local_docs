@@ -1,6 +1,6 @@
 # Djibbah
 ---
 #noun
-- **A long outer garment worn by Muslims.**
+- **A [[l/_long|long]] [[o/_outer|outer]] [[g/_garment|garment]] worn by [[m/_muslims|Muslims]].**
 ---
 ---

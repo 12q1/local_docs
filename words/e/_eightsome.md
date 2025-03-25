@@ -1,6 +1,6 @@
 # Eightsome
 ---
 #noun
-- **A group of [[e/_eight|eight]] persons or things.**
+- **A [[g/_group|group]] of [[e/_eight|eight]] persons or things.**
 ---
 ---

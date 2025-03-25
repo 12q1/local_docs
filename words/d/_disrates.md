@@ -1,7 +1,7 @@
 # Disrates
 ---
 #verb
-- **To lower a rate or rating**
-- **To [[d/_demote|demote]] a sailor to a lower rank**
+- **To [[l/_lower|lower]] a rate or rating**
+- **To [[d/_demote|demote]] a sailor to a [[l/_lower|lower]] rank**
 ---
 ---

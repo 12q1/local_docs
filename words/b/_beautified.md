@@ -1,10 +1,10 @@
 # Beautified
 ---
 #adjective
-- **Having [[b/_been|been]] made [[b/_beautiful|beautiful]].**
+- **[[h/_having|Having]] [[b/_been|been]] [[m/_made|made]] [[b/_beautiful|beautiful]].**
 ---
 #verb
-- **To make [[b/_beautiful|beautiful]], or to increase the [[b/_beauty|beauty]] of.**
+- **To [[m/_make|make]] [[b/_beautiful|beautiful]], or to [[i/_increase|increase]] the [[b/_beauty|beauty]] of.**
 - **To [[b/_become|become]] [[b/_beautiful|beautiful]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Canorous
 ---
 #adjective
-- **Melodious**
+- **[[m/_melodious|Melodious]]**
 - **Resonant**
 ---
 ### Synonyms

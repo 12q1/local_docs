@@ -2,9 +2,9 @@
 ---
 #noun
 - **A woman's [[b/_breast|breast]].**
-- **A fool, a tit.**
+- **A [[f/_fool|fool]], a tit.**
 ---
 #noun
-- **A gypsy.**
+- **A [[g/_gypsy|gypsy]].**
 ---
 ---

@@ -1,15 +1,15 @@
 # Breakfast
 ---
 #noun
-- **The first meal of the [[d/_day|day]], usually [[e/_eaten|eaten]] in the morning.**
+- **The [[f/_first|first]] [[m/_meal|meal]] of the [[d/_day|day]], usually [[e/_eaten|eaten]] in the [[m/_morning|morning]].**
 	- _Example: You should put more protein in her breakfast so she will grow._
-- **(by extension) A meal [[c/_consisting|consisting]] of food normally [[e/_eaten|eaten]] in the morning, which may typically include [[e/_eggs|eggs]], sausages, toast, [[b/_bacon|bacon]], [[e/_etc|etc]].**
+- **(by [[e/_extension|extension]]) A [[m/_meal|meal]] [[c/_consisting|consisting]] of [[f/_food|food]] [[n/_normally|normally]] [[e/_eaten|eaten]] in the [[m/_morning|morning]], which [[m/_may|may]] typically [[i/_include|include]] [[e/_eggs|eggs]], sausages, toast, [[b/_bacon|bacon]], [[e/_etc|etc]].**
 	- _Example: We serve breakfast all day._
-- **The [[c/_celebratory|celebratory]] meal served [[a/_after|after]] a wedding (and occasionally [[a/_after|after]] other solemnities [[e/_e|e]].g. a funeral).**
-- **(largely obsolete outside religion) A meal [[e/_eaten|eaten]] [[a/_after|after]] a period of (now often religious) fasting.**
+- **The [[c/_celebratory|celebratory]] [[m/_meal|meal]] served [[a/_after|after]] a wedding (and [[o/_occasionally|occasionally]] [[a/_after|after]] [[o/_other|other]] solemnities [[e/_e|e]].[[g/_g|g]]. a [[f/_funeral|funeral]]).**
+- **([[l/_largely|largely]] [[o/_obsolete|obsolete]] [[o/_outside|outside]] religion) A [[m/_meal|meal]] [[e/_eaten|eaten]] [[a/_after|after]] a period of ([[n/_now|now]] [[o/_often|often]] religious) [[f/_fasting|fasting]].**
 ---
 #verb
-- **To [[e/_eat|eat]] the morning meal.**
+- **To [[e/_eat|eat]] the [[m/_morning|morning]] [[m/_meal|meal]].**
 - **To serve [[b/_breakfast|breakfast]] to.**
 ---
 ### Synonyms

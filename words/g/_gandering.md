@@ -1,0 +1,6 @@
+# Gandering
+---
+#verb
+- **Ramble, wander**
+---
+---

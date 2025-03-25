@@ -1,6 +1,6 @@
 # Brills
 ---
 #noun
-- **A type of flatfish, Scophthalmus rhombus.**
+- **A type of [[f/_flatfish|flatfish]], Scophthalmus rhombus.**
 ---
 ---

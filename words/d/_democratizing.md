@@ -1,6 +1,6 @@
 # Democratizing
 ---
 #verb
-- **To make [[d/_democratic|democratic]].**
+- **To [[m/_make|make]] [[d/_democratic|democratic]].**
 ---
 ---

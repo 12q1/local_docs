@@ -1,6 +1,6 @@
 # Comically
 ---
 #adverb
-- **In a [[c/_comical|comical]] manner**
+- **In a [[c/_comical|comical]] [[m/_manner|manner]]**
 ---
 ---

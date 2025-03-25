@@ -1,9 +1,9 @@
 # Caws
 ---
 #noun
-- **The harsh [[c/_cry|cry]] of a [[c/_crow|crow]].**
+- **The [[h/_harsh|harsh]] [[c/_cry|cry]] of a [[c/_crow|crow]].**
 ---
 #verb
-- **To make the harsh [[c/_cry|cry]] of a [[c/_crow|crow]], rook, or raven.**
+- **To [[m/_make|make]] the [[h/_harsh|harsh]] [[c/_cry|cry]] of a [[c/_crow|crow]], rook, or raven.**
 ---
 ---

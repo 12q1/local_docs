@@ -1,0 +1,9 @@
+# Negroid
+---
+#noun
+- **([[e/_ethnology|ethnology]]) A person with [[n/_negroid|negroid]] [[c/_characteristics|characteristics]], particularly [[c/_coiled|coiled]] [[h/_hair|hair]] and very [[h/_high|high]] [[m/_melanin|melanin]] [[c/_content|content]] [[g/_giving|giving]] them [[d/_dark|dark]] [[b/_brown|brown]] skin**
+---
+#adjective
+- **([[e/_ethnology|ethnology]]) [[h/_having|having]] [[n/_negro|negro]] [[f/_features|features]] racially. Pertaining to the racial [[c/_classification|classification]] of [[h/_humanity|humanity]] [[i/_including|including]] people [[i/_indigenous|indigenous]] to sub-Saharan [[a/_africa|Africa]] and their [[d/_diaspora|diaspora]] in [[o/_other|other]] parts of the world.**
+---
+---

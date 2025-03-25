@@ -4,9 +4,9 @@
 - **A [[c/_coward|coward]].**
 ---
 #verb
-- **To make [[c/_craven|craven]].**
+- **To [[m/_make|make]] [[c/_craven|craven]].**
 ---
 #adjective
-- **Unwilling to fight; lacking even the rudiments of [[c/_courage|courage]]; extremely [[c/_cowardly|cowardly]].**
+- **Unwilling to [[f/_fight|fight]]; [[l/_lacking|lacking]] [[e/_even|even]] the rudiments of [[c/_courage|courage]]; [[e/_extremely|extremely]] [[c/_cowardly|cowardly]].**
 ---
 ---

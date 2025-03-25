@@ -1,8 +1,8 @@
 # Boisterous
 ---
 #adjective
-- **Full of [[e/_energy|energy]]; exuberant; noisy.**
+- **[[f/_full|Full]] of [[e/_energy|energy]]; [[e/_exuberant|exuberant]]; [[n/_noisy|noisy]].**
 - **[[c/_characterized|Characterized]] by violence and [[a/_agitation|agitation]]; wild; stormy.**
-- **Having or resembling [[a/_animal|animal]] exuberance.**
+- **[[h/_having|Having]] or resembling [[a/_animal|animal]] [[e/_exuberance|exuberance]].**
 ---
 ---

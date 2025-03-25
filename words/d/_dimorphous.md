@@ -1,6 +1,6 @@
 # Dimorphous
 ---
 #adjective
-- **[[d/_dimorphic|Dimorphic]]; occurring or existing in two [[d/_different|different]] forms.**
+- **[[d/_dimorphic|Dimorphic]]; [[o/_occurring|occurring]] or [[e/_existing|existing]] in two [[d/_different|different]] [[f/_forms|forms]].**
 ---
 ---

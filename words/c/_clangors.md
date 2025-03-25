@@ -1,9 +1,9 @@
 # Clangors
 ---
 #noun
-- **A loud, repeating [[c/_clanging|clanging]] sound; a loud racket; a [[d/_din|din]].**
+- **A [[l/_loud|loud]], repeating [[c/_clanging|clanging]] sound; a [[l/_loud|loud]] racket; a [[d/_din|din]].**
 ---
 #verb
-- **To make a [[c/_clanging|clanging]] sound.**
+- **To [[m/_make|make]] a [[c/_clanging|clanging]] sound.**
 ---
 ---

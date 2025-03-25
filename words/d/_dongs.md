@@ -5,12 +5,12 @@
 ---
 #noun
 - **A penis.**
-- **(by extension) A [[d/_dildo|dildo]], specifically a synthetic [[a/_anatomical|anatomical]] replica of the penis.**
+- **(by [[e/_extension|extension]]) A [[d/_dildo|dildo]], specifically a synthetic [[a/_anatomical|anatomical]] replica of the penis.**
 ---
 #noun
-- **Onomatopoeia for the ringing sound made by a [[b/_bell|bell]] with a low pitch.**
+- **[[o/_onomatopoeia|Onomatopoeia]] for the ringing sound [[m/_made|made]] by a [[b/_bell|bell]] with a [[l/_low|low]] pitch.**
 ---
 #noun
-- **A submunicipal [[a/_administrative|administrative]] unit of a [[c/_city|city]] in North or South Korea.**
+- **A submunicipal [[a/_administrative|administrative]] unit of a [[c/_city|city]] in [[n/_north|North]] or South [[k/_korea|Korea]].**
 ---
 ---

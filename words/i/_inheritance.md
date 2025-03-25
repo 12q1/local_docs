@@ -1,0 +1,11 @@
+# Inheritance
+---
+#noun
+- **The passing of title to an [[e/_estate|estate]] upon [[d/_death|death]].**
+- **That which a person is [[e/_entitled|entitled]] to [[i/_inherit|inherit]], by [[l/_law|law]] or testament.**
+- **The [[a/_act|act]] or [[m/_mechanism|mechanism]] of [[i/_inheriting|inheriting]]; the state of [[h/_having|having]] [[i/_inherited|inherited]]**
+	- _Example: The Indo-European languages share various similarities as a result of their inheritance from a common ancestor._
+- **([[g/_genetic|genetic]] [[a/_algorithms|algorithms]]) The [[b/_biological|biological]] [[a/_attributes|attributes]] passed [[h/_hereditarily|hereditarily]] from [[a/_ancestors|ancestors]] to their [[o/_offspring|offspring]].**
+- **The [[m/_mechanism|mechanism]] whereby parts of a superclass are [[a/_available|available]] to [[i/_instances|instances]] of [[i/_its|its]] subclass.**
+---
+---

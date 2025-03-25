@@ -1,6 +1,6 @@
 # Bushranging
 ---
 #noun
-- **The outlaw lifestyle of a [[b/_bushranger|bushranger]].**
+- **The [[o/_outlaw|outlaw]] [[l/_lifestyle|lifestyle]] of a [[b/_bushranger|bushranger]].**
 ---
 ---

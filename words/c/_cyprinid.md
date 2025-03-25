@@ -1,9 +1,9 @@
 # Cyprinid
 ---
 #noun
-- **[[a/_any|Any]] fish of this family.**
+- **[[a/_any|Any]] [[f/_fish|fish]] of this [[f/_family|family]].**
 ---
 #adjective
-- **Of, pertaining to or [[c/_characteristic|characteristic]] of the [[c/_cyprinidae|Cyprinidae]] family of fish that includes [[c/_carps|carps]] and minnows.**
+- **Of, pertaining to or [[c/_characteristic|characteristic]] of the [[c/_cyprinidae|Cyprinidae]] [[f/_family|family]] of [[f/_fish|fish]] that [[i/_includes|includes]] [[c/_carps|carps]] and [[m/_minnows|minnows]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Departmentalism
 ---
 #noun
-- **Excessive [[a/_adherence|adherence]] to [[d/_departmental|departmental]] methods, rules or structure**
+- **[[e/_excessive|Excessive]] [[a/_adherence|adherence]] to [[d/_departmental|departmental]] [[m/_methods|methods]], rules or structure**
 ---
 ---

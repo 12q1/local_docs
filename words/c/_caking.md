@@ -1,16 +1,16 @@
 # Caking
 ---
 #verb
-- **[[c/_coat|Coat]] (something) with a [[c/_crust|crust]] of solid material.**
+- **[[c/_coat|Coat]] (something) with a [[c/_crust|crust]] of solid [[m/_material|material]].**
 	- _Example: His shoes are caked with mud._
-- **To form into a [[c/_cake|cake]], or mass.**
+- **To [[f/_form|form]] [[i/_into|into]] a [[c/_cake|cake]], or [[m/_mass|mass]].**
 ---
 ### Synonyms
 - [[c/_crust|crust]], [[e/_encrust|encrust]]
 #verb
-- **To [[c/_cackle|cackle]] like a goose.**
+- **To [[c/_cackle|cackle]] [[l/_like|like]] a [[g/_goose|goose]].**
 ---
 #noun
-- **A layer or [[d/_deposit|deposit]] of [[c/_caked|caked]] material.**
+- **A [[l/_layer|layer]] or [[d/_deposit|deposit]] of [[c/_caked|caked]] [[m/_material|material]].**
 ---
 ---

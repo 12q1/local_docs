@@ -1,6 +1,6 @@
 # Dashpots
 ---
 #noun
-- **A mechanical [[d/_damping|damping]] [[d/_device|device]] [[c/_consisting|consisting]] of a piston that moves through a viscous fluid (usually oil); used, in [[c/_conjunction|conjunction]] with a spring, in shock [[a/_absorbers|absorbers]].**
+- **A [[m/_mechanical|mechanical]] [[d/_damping|damping]] [[d/_device|device]] [[c/_consisting|consisting]] of a piston that [[m/_moves|moves]] through a viscous [[f/_fluid|fluid]] (usually [[o/_oil|oil]]); used, in [[c/_conjunction|conjunction]] with a spring, in shock [[a/_absorbers|absorbers]].**
 ---
 ---

@@ -1,20 +1,20 @@
 # Ebbs
 ---
 #noun
-- **The receding movement of the tide.**
+- **The receding [[m/_movement|movement]] of the tide.**
 	- _Example: The boats will go out on the ebb._
-- **A gradual [[d/_decline|decline]].**
-- **A low state; a state of [[d/_depression|depression]].**
-- **A European [[b/_bunting|bunting]], the [[c/_corn|corn]] [[b/_bunting|bunting]] ([[e/_emberiza|Emberiza]] [[c/_calandra|calandra]], syns. [[e/_emberiza|Emberiza]] miliaria, Milaria [[c/_calandra|calandra]]).**
+- **A [[g/_gradual|gradual]] [[d/_decline|decline]].**
+- **A [[l/_low|low]] state; a state of [[d/_depression|depression]].**
+- **A [[e/_european|European]] [[b/_bunting|bunting]], the [[c/_corn|corn]] [[b/_bunting|bunting]] ([[e/_emberiza|Emberiza]] [[c/_calandra|calandra]], syns. [[e/_emberiza|Emberiza]] [[m/_miliaria|miliaria]], Milaria [[c/_calandra|calandra]]).**
 ---
 ### Antonyms
 - [[f/_flood|flood]], [[f/_flow|flow]]
 #verb
-- **To flow [[b/_back|back]] or recede**
+- **To [[f/_flow|flow]] [[b/_back|back]] or recede**
 	- _Example: The tides ebbed at noon._
-- **To fall [[a/_away|away]] or [[d/_decline|decline]]**
+- **To [[f/_fall|fall]] [[a/_away|away]] or [[d/_decline|decline]]**
 	- _Example: The dying man's strength ebbed away._
-- **To fish with stakes and nets that serve to prevent the fish from getting [[b/_back|back]] into the sea with the [[e/_ebb|ebb]]**
-- **To [[c/_cause|cause]] to flow [[b/_back|back]].**
+- **To [[f/_fish|fish]] with stakes and [[n/_nets|nets]] that serve to prevent the [[f/_fish|fish]] from [[g/_getting|getting]] [[b/_back|back]] [[i/_into|into]] the sea with the [[e/_ebb|ebb]]**
+- **To [[c/_cause|cause]] to [[f/_flow|flow]] [[b/_back|back]].**
 ---
 ---

@@ -1,12 +1,12 @@
 # Crenelated
 ---
 #verb
-- **To furnish with [[c/_crenelles|crenelles]].**
-- **To indent; to notch.**
+- **To [[f/_furnish|furnish]] with [[c/_crenelles|crenelles]].**
+- **To [[i/_indent|indent]]; to [[n/_notch|notch]].**
 	- _Example: a crenelated leaf_
 ---
 #adjective
-- **Having crenellations or [[b/_battlements|battlements]]**
-- **Having a series of square indentations**
+- **[[h/_having|Having]] crenellations or [[b/_battlements|battlements]]**
+- **[[h/_having|Having]] a series of square [[i/_indentations|indentations]]**
 ---
 ---

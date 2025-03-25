@@ -1,41 +1,41 @@
 # Classes
 ---
 #noun
-- **A group, [[c/_collection|collection]], [[c/_category|category]] or set sharing [[c/_characteristics|characteristics]] or [[a/_attributes|attributes]].**
+- **A [[g/_group|group]], [[c/_collection|collection]], [[c/_category|category]] or set sharing [[c/_characteristics|characteristics]] or [[a/_attributes|attributes]].**
 	- _Example: Often used to imply membership of a large class._
-- **A social grouping, [[b/_based|based]] on job, wealth, [[e/_etc|etc]]. In [[b/_britain|Britain]], society is [[c/_commonly|commonly]] split into three main [[c/_classes|classes]]; upper [[c/_class|class]], middle [[c/_class|class]] and working [[c/_class|class]].**
-- **The [[d/_division|division]] of society into [[c/_classes|classes]].**
+- **A social [[g/_grouping|grouping]], [[b/_based|based]] on [[j/_job|job]], wealth, [[e/_etc|etc]]. In [[b/_britain|Britain]], society is [[c/_commonly|commonly]] split [[i/_into|into]] three [[m/_main|main]] [[c/_classes|classes]]; upper [[c/_class|class]], [[m/_middle|middle]] [[c/_class|class]] and working [[c/_class|class]].**
+- **The [[d/_division|division]] of society [[i/_into|into]] [[c/_classes|classes]].**
 	- _Example: Jane Austen's works deal with class in 18th-century England._
 - **[[a/_admirable|Admirable]] [[b/_behavior|behavior]]; [[e/_elegance|elegance]].**
 	- _Example: Apologizing for losing your temper, even though you were badly provoked, showed real class._
-- **A group of students in a regularly scheduled meeting with a teacher.**
+- **A [[g/_group|group]] of students in a regularly scheduled [[m/_meeting|meeting]] with a teacher.**
 	- _Example: The class was noisy, but the teacher was able to get their attention with a story._
-- **A series of lessons [[c/_covering|covering]] a single subject.**
+- **A series of [[l/_lessons|lessons]] [[c/_covering|covering]] a single subject.**
 	- _Example: I took the cooking class for enjoyment, but I also learned a lot._
-- **A group of students who [[c/_commenced|commenced]] or [[c/_completed|completed]] their [[e/_education|education]] [[d/_during|during]] a particular year. A school [[c/_class|class]].**
+- **A [[g/_group|group]] of students who [[c/_commenced|commenced]] or [[c/_completed|completed]] their [[e/_education|education]] [[d/_during|during]] a particular [[y/_year|year]]. A school [[c/_class|class]].**
 	- _Example: The class of 1982 was particularly noteworthy._
-- **A [[c/_category|category]] of seats in an [[a/_airplane|airplane]], train or other means of mass transportation.**
+- **A [[c/_category|category]] of seats in an [[a/_airplane|airplane]], train or [[o/_other|other]] [[m/_means|means]] of [[m/_mass|mass]] transportation.**
 	- _Example: I used to fly business class, but now my company can only afford economy._
-- **A rank in the [[c/_classification|classification]] of organisms, [[b/_below|below]] phylum and [[a/_above|above]] order; a taxon of that rank.**
+- **A rank in the [[c/_classification|classification]] of [[o/_organisms|organisms]], [[b/_below|below]] phylum and [[a/_above|above]] [[o/_order|order]]; a taxon of that rank.**
 	- _Example: Magnolias belong to the class Magnoliopsida._
-- **[[b/_best|Best]] of its kind.**
+- **[[b/_best|Best]] of [[i/_its|its]] [[k/_kind|kind]].**
 	- _Example: It is the class of Italian bottled waters._
-- **A grouping of [[d/_data|data]] values in an interval, often used for [[c/_computation|computation]] of a frequency [[d/_distribution|distribution]].**
+- **A [[g/_grouping|grouping]] of [[d/_data|data]] values in an [[i/_interval|interval]], [[o/_often|often]] used for [[c/_computation|computation]] of a [[f/_frequency|frequency]] [[d/_distribution|distribution]].**
 - **A [[c/_collection|collection]] of sets [[d/_definable|definable]] by a shared property.**
 	- _Example: Every set is a class, but classes are not generally sets. A class that is not a set is called a proper class._
-- **A group of people subject to be [[c/_conscripted|conscripted]] in the same military [[d/_draft|draft]], or more narrowly those persons [[a/_actually|actually]] [[c/_conscripted|conscripted]] in a particular [[d/_draft|draft]].**
-- **A set of objects having the same [[b/_behavior|behavior]] (but typically [[d/_differing|differing]] in state), or a template [[d/_defining|defining]] such a set.**
+- **A [[g/_group|group]] of people subject to be [[c/_conscripted|conscripted]] in the same [[m/_military|military]] [[d/_draft|draft]], or [[m/_more|more]] [[n/_narrowly|narrowly]] those persons [[a/_actually|actually]] [[c/_conscripted|conscripted]] in a particular [[d/_draft|draft]].**
+- **A set of [[o/_objects|objects]] [[h/_having|having]] the same [[b/_behavior|behavior]] (but typically [[d/_differing|differing]] in state), or a template [[d/_defining|defining]] such a set.**
 	- _Example: an abstract base class_
-- **One of the sections into which a Methodist [[c/_church|church]] or [[c/_congregation|congregation]] is [[d/_divided|divided]], supervised by a [[c/_class|class]] leader.**
+- **[[o/_one|One]] of the sections [[i/_into|into]] which a [[m/_methodist|Methodist]] [[c/_church|church]] or [[c/_congregation|congregation]] is [[d/_divided|divided]], supervised by a [[c/_class|class]] [[l/_leader|leader]].**
 ---
 #verb
 - **To [[a/_assign|assign]] to a [[c/_class|class]]; to [[c/_classify|classify]].**
 	- _Example: I would class this with most of the other mediocre works of the period._
-- **To be grouped or [[c/_classed|classed]].**
-- **To [[d/_divide|divide]] into [[c/_classes|classes]], as students; to form into, or place in, a [[c/_class|class]] or [[c/_classes|classes]].**
+- **To be [[g/_grouped|grouped]] or [[c/_classed|classed]].**
+- **To [[d/_divide|divide]] [[i/_into|into]] [[c/_classes|classes]], as students; to [[f/_form|form]] [[i/_into|into]], or place in, a [[c/_class|class]] or [[c/_classes|classes]].**
 ---
 #noun
-- **A [[c/_class|class]] or order; sort; kind.**
-- **An [[e/_ecclesiastical|ecclesiastical]] [[b/_body|body]] or judicatory in [[c/_certain|certain]] [[c/_churches|churches]], such as the Reformed [[d/_dutch|Dutch]]. It is intermediate [[b/_between|between]] the [[c/_consistory|consistory]] and the synod, and [[c/_corresponds|corresponds]] to the presbytery in the Presbyterian [[c/_church|church]].**
+- **A [[c/_class|class]] or [[o/_order|order]]; sort; [[k/_kind|kind]].**
+- **An [[e/_ecclesiastical|ecclesiastical]] [[b/_body|body]] or [[j/_judicatory|judicatory]] in [[c/_certain|certain]] [[c/_churches|churches]], such as the Reformed [[d/_dutch|Dutch]]. It is [[i/_intermediate|intermediate]] [[b/_between|between]] the [[c/_consistory|consistory]] and the synod, and [[c/_corresponds|corresponds]] to the presbytery in the Presbyterian [[c/_church|church]].**
 ---
 ---

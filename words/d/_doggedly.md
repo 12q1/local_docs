@@ -2,6 +2,6 @@
 ---
 #adverb
 - **In a way that is stubbornly persistent.**
-- **Sullenly, gloomily**
+- **Sullenly, [[g/_gloomily|gloomily]]**
 ---
 ---

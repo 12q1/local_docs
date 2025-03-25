@@ -1,0 +1,8 @@
+# Excogitate
+---
+#verb
+- **To think [[o/_over|over]] something [[c/_carefully|carefully]]; to [[c/_consider|consider]] [[f/_fully|fully]]; [[c/_cogitate|cogitate]].**
+- **To reach as a [[c/_conclusion|conclusion]] through reason or [[c/_careful|careful]] thought.**
+	- _Example: After many years of study, he excogitated a solution._
+---
+---

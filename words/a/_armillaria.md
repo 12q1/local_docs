@@ -1,6 +1,6 @@
 # Armillaria
 ---
 #noun
-- **[[a/_any|Any]] of the genus [[a/_armillaria|Armillaria]] of parasitic fungi; a honey fungus.**
+- **[[a/_any|Any]] of the [[g/_genus|genus]] [[a/_armillaria|Armillaria]] of parasitic [[f/_fungi|fungi]]; a [[h/_honey|honey]] [[f/_fungus|fungus]].**
 ---
 ---

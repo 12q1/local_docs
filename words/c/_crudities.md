@@ -3,7 +3,7 @@
 #noun
 - **The state of [[b/_being|being]] [[c/_crude|crude]].**
 - **A [[c/_crude|crude]] [[a/_act|act]] or [[c/_characteristic|characteristic]].**
-- **Indigestion; undigested food in the stomach; [[b/_badly|badly]]-[[c/_concocted|concocted]] humours.**
+- **[[i/_indigestion|Indigestion]]; undigested [[f/_food|food]] in the stomach; [[b/_badly|badly]]-[[c/_concocted|concocted]] [[h/_humours|humours]].**
 ---
 ### Synonyms
 - [[c/_crudeness|crudeness]]

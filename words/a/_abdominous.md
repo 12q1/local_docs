@@ -1,6 +1,6 @@
 # Abdominous
 ---
 #adjective
-- **Having a protuberant [[b/_belly|belly]]; potbellied.**
+- **[[h/_having|Having]] a protuberant [[b/_belly|belly]]; potbellied.**
 ---
 ---

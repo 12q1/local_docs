@@ -6,6 +6,6 @@
 - **To produce (a substance) by [[c/_catabolism|catabolism]].**
 ---
 #adjective
-- **Modified by [[c/_catabolism|catabolism]]**
+- **[[m/_modified|Modified]] by [[c/_catabolism|catabolism]]**
 ---
 ---

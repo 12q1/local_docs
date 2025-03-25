@@ -1,6 +1,6 @@
 # Cnidarian
 ---
 #noun
-- **[[a/_any|Any]] of various invertebrate [[a/_animals|animals]], such as jellyfish, hydras, sea [[a/_anemones|anemones]], [[c/_corals|corals]] and formerly sponges and ctenophores that [[b/_belong|belong]] to the phylum [[c/_cnidaria|Cnidaria]].**
+- **[[a/_any|Any]] of various [[i/_invertebrate|invertebrate]] [[a/_animals|animals]], such as [[j/_jellyfish|jellyfish]], [[h/_hydras|hydras]], sea [[a/_anemones|anemones]], [[c/_corals|corals]] and [[f/_formerly|formerly]] sponges and ctenophores that [[b/_belong|belong]] to the phylum [[c/_cnidaria|Cnidaria]].**
 ---
 ---

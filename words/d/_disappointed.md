@@ -1,11 +1,11 @@
 # Disappointed
 ---
 #verb
-- **To sadden or [[d/_displease|displease]] (someone) by underperforming, or by not [[d/_delivering|delivering]] something promised or hoped for.**
+- **To sadden or [[d/_displease|displease]] (someone) by underperforming, or by not [[d/_delivering|delivering]] something promised or [[h/_hoped|hoped]] for.**
 	- _Example: His lack of respect disappointed her._
-- **To [[d/_deprive|deprive]] (someone of something expected or hoped for).**
-- **To fail to meet (an expectation); to fail to fulfil (a hope).**
-- **To show (an opinion, [[b/_belief|belief]], [[e/_etc|etc]].) to be mistaken.**
+- **To [[d/_deprive|deprive]] (someone of something [[e/_expected|expected]] or [[h/_hoped|hoped]] for).**
+- **To [[f/_fail|fail]] to [[m/_meet|meet]] (an [[e/_expectation|expectation]]); to [[f/_fail|fail]] to [[f/_fulfil|fulfil]] (a [[h/_hope|hope]]).**
+- **To show (an [[o/_opinion|opinion]], [[b/_belief|belief]], [[e/_etc|etc]].) to be [[m/_mistaken|mistaken]].**
 - **To prevent (something planned or [[a/_attempted|attempted]]).**
 ---
 ### Synonyms
@@ -13,9 +13,9 @@
 ### Antonyms
 - [[s/_satisfy|satisfy]]
 #adjective
-- **[[d/_defeated|Defeated]] of expectations or hope; experiencing [[d/_disappointment|disappointment]]; let [[d/_down|down]].**
+- **[[d/_defeated|Defeated]] of [[e/_expectations|expectations]] or [[h/_hope|hope]]; [[e/_experiencing|experiencing]] [[d/_disappointment|disappointment]]; [[l/_let|let]] [[d/_down|down]].**
 	- _Example: After all his anticipation, the trip left him deeply disappointed._
-- **Expressing or indicating [[d/_disappointment|disappointment]].**
+- **[[e/_expressing|Expressing]] or [[i/_indicating|indicating]] [[d/_disappointment|disappointment]].**
 	- _Example: a disappointed tone / face / silence_
 ---
 ### Synonyms

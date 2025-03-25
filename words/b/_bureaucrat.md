@@ -1,7 +1,7 @@
 # Bureaucrat
 ---
 #noun
-- **An official who is part of a [[b/_bureaucracy|bureaucracy]].**
-- **(WMF jargon) A wiki user with the right to [[c/_change|change]] user [[a/_access|access]] levels.**
+- **An [[o/_official|official]] who is part of a [[b/_bureaucracy|bureaucracy]].**
+- **(WMF [[j/_jargon|jargon]]) A wiki user with the right to [[c/_change|change]] user [[a/_access|access]] [[l/_levels|levels]].**
 ---
 ---

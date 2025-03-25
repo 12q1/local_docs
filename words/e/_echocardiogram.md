@@ -1,6 +1,6 @@
 # Echocardiogram
 ---
 #noun
-- **The visual image formed by an echocardiograph.**
+- **The visual [[i/_image|image]] [[f/_formed|formed]] by an echocardiograph.**
 ---
 ---

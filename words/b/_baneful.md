@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Poisonous, [[d/_deadly|deadly]].**
-- **Harmful, injurious.**
+- **[[h/_harmful|Harmful]], [[i/_injurious|injurious]].**
 ---
 ### Synonyms
 - [[f/_fatal|fatal]], [[m/_mortal|mortal]]

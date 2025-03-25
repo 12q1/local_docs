@@ -1,0 +1,6 @@
+# Ghyll
+---
+#noun
+- **A ravine.**
+---
+---

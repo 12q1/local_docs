@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Plain and unfashionable in style or [[d/_dress|dress]].**
-- **Lacking stylishness or neatness; shabby.**
+- **[[l/_lacking|Lacking]] stylishness or [[n/_neatness|neatness]]; shabby.**
 ---
 ---

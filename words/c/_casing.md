@@ -1,19 +1,19 @@
 # Casing
 ---
 #verb
-- **To propose hypothetical [[c/_cases|cases]].**
+- **To propose [[h/_hypothetical|hypothetical]] [[c/_cases|cases]].**
 ---
 #verb
-- **To place (an item or items of manufacture) into a [[b/_box|box]], as in preparation for shipment.**
-- **To [[c/_cover|cover]] or protect with, or as if with, a [[c/_case|case]]; to [[e/_enclose|enclose]].**
-- **To survey (a [[b/_building|building]] or other location) surreptitiously, as in preparation for a robbery.**
+- **To place (an [[i/_item|item]] or [[i/_items|items]] of [[m/_manufacture|manufacture]]) [[i/_into|into]] a [[b/_box|box]], as in preparation for shipment.**
+- **To [[c/_cover|cover]] or protect with, or as [[i/_if|if]] with, a [[c/_case|case]]; to [[e/_enclose|enclose]].**
+- **To survey (a [[b/_building|building]] or [[o/_other|other]] [[l/_location|location]]) surreptitiously, as in preparation for a robbery.**
 ---
 #noun
 - **That which [[e/_encloses|encloses]] or [[e/_encases|encases]].**
 	- _Example: Some people like to split the casing of a sausage before cooking so it doesn't burst._
 - **The [[d/_decorative|decorative]] trim [[a/_around|around]] a [[d/_door|door]] or window.**
-- **A metal pipe used to line the [[b/_borehole|borehole]] of a well.**
-- **The [[c/_collective|collective]] states of upper and lower [[c/_case|case]] letters.**
+- **A [[m/_metal|metal]] pipe used to [[l/_line|line]] the [[b/_borehole|borehole]] of a well.**
+- **The [[c/_collective|collective]] states of upper and [[l/_lower|lower]] [[c/_case|case]] [[l/_letters|letters]].**
 	- _Example: The replacement string should have the same casing as the matched text._
 ---
 ---

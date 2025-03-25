@@ -2,7 +2,7 @@
 ---
 #verb
 - **To regard (someone or something) with strong [[c/_contempt|contempt]].**
-- **To be indignant or offended.**
+- **To be [[i/_indignant|indignant]] or [[o/_offended|offended]].**
 ---
 ### Synonyms
 - [[a/_abominate|abominate]], [[c/_contemn|contemn]]

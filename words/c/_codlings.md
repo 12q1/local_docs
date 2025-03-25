@@ -1,11 +1,11 @@
 # Codlings
 ---
 #noun
-- **A young small [[c/_cod|cod]].**
-- **A hake ([[c/_cod|cod]]-related food fish), notably from the genus Urophycis.**
+- **A [[y/_young|young]] small [[c/_cod|cod]].**
+- **A [[h/_hake|hake]] ([[c/_cod|cod]]-related [[f/_food|food]] [[f/_fish|fish]]), [[n/_notably|notably]] from the [[g/_genus|genus]] Urophycis.**
 ---
 #noun
-- **A small, immature [[a/_apple|apple]]**
-- **[[a/_any|Any]] of various greenish, [[e/_elongated|elongated]] [[e/_english|English]] [[a/_apple|apple]] varieties, used for [[c/_cooking|cooking]]**
+- **A small, [[i/_immature|immature]] [[a/_apple|apple]]**
+- **[[a/_any|Any]] of various [[g/_greenish|greenish]], [[e/_elongated|elongated]] [[e/_english|English]] [[a/_apple|apple]] varieties, used for [[c/_cooking|cooking]]**
 ---
 ---

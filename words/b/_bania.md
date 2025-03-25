@@ -1,6 +1,6 @@
 # Bania
 ---
 #noun
-- **A merchant or trader.**
+- **A [[m/_merchant|merchant]] or trader.**
 ---
 ---

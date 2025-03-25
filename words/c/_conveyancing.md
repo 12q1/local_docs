@@ -1,9 +1,9 @@
 # Conveyancing
 ---
 #verb
-- **To transfer (the title) of an object from one person or group of persons to [[a/_another|another]].**
+- **To transfer (the title) of an [[o/_object|object]] from [[o/_one|one]] person or [[g/_group|group]] of persons to [[a/_another|another]].**
 ---
 #noun
-- **The [[d/_drawing|drawing]] of [[d/_deeds|deeds]] [[e/_etc|etc]]. [[c/_concerning|concerning]] transfer of property, and the legal execution of such transfers.**
+- **The [[d/_drawing|drawing]] of [[d/_deeds|deeds]] [[e/_etc|etc]]. [[c/_concerning|concerning]] transfer of property, and the [[l/_legal|legal]] [[e/_execution|execution]] of such transfers.**
 ---
 ---

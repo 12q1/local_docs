@@ -1,6 +1,6 @@
 # Acuity
 ---
 #noun
-- **Sharpness or [[a/_acuteness|acuteness]], as of a needle, wit, [[e/_etc|etc]].**
+- **Sharpness or [[a/_acuteness|acuteness]], as of a [[n/_needle|needle]], wit, [[e/_etc|etc]].**
 ---
 ---

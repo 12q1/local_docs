@@ -1,19 +1,19 @@
 # Elevates
 ---
 #verb
-- **To raise (something) to a higher position.**
+- **To raise (something) to a [[h/_higher|higher]] position.**
 	- _Example: The doctor told me elevating my legs would help reduce the swelling._
-- **To promote (someone) to a higher rank.**
-- **To [[c/_confer|confer]] honor or nobility on (someone).**
+- **To promote (someone) to a [[h/_higher|higher]] rank.**
+- **To [[c/_confer|confer]] [[h/_honor|honor]] or [[n/_nobility|nobility]] on (someone).**
 	- _Example: The traditional worldview elevates man as the pinnacle of creation._
-- **To make (something or someone) more worthy or of greater value.**
+- **To [[m/_make|make]] (something or someone) [[m/_more|more]] worthy or of [[g/_greater|greater]] value.**
 	- _Example: A talented chef can elevate everyday ingredients into gourmet delights._
-- **To [[d/_direct|direct]] (the mind, thoughts, [[e/_etc|etc]].) toward more worthy things.**
-- **To increase the intensity or [[d/_degree|degree]] of (something).**
+- **To [[d/_direct|direct]] (the [[m/_mind|mind]], thoughts, [[e/_etc|etc]].) toward [[m/_more|more]] worthy things.**
+- **To [[i/_increase|increase]] the [[i/_intensity|intensity]] or [[d/_degree|degree]] of (something).**
 	- _Example: Some drugs have the side effect of elevating your blood sugar level._
-- **To lift the spirits of (someone)**
-- **To intoxicate in a slight [[d/_degree|degree]]; to make (someone) tipsy.**
-- **(Latinism) To [[a/_attempt|attempt]] to make (something) seem less important, remarkable, [[e/_etc|etc]].**
+- **To [[l/_lift|lift]] the spirits of (someone)**
+- **To [[i/_intoxicate|intoxicate]] in a slight [[d/_degree|degree]]; to [[m/_make|make]] (someone) tipsy.**
+- **([[l/_latinism|Latinism]]) To [[a/_attempt|attempt]] to [[m/_make|make]] (something) seem [[l/_less|less]] [[i/_important|important]], remarkable, [[e/_etc|etc]].**
 ---
 ### Synonyms
 - [[e/_elate|elate]], [[d/_detract|detract]], [[d/_disparage|disparage]], [[l/_lessen|lessen]], [[e/_ennoble|ennoble]], [[e/_exalt|exalt]], [[h/_honor|honor]], [[e/_exalt|exalt]], [[p/_promote|promote]], [[i/_increase|increase]], [[r/_raise|raise]], [[l/_lift|lift]], [[r/_raise|raise]]

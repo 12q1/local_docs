@@ -6,7 +6,7 @@
 #adjective
 - **Significant; worth [[c/_considering|considering]].**
 	- _Example: I've spent a considerable amount of time on this._
-- **Large in [[a/_amount|amount]].**
+- **[[l/_large|Large]] in [[a/_amount|amount]].**
 ---
 ### Antonyms
 - [[i/_ignorable|ignorable]], [[n/_negligible|negligible]]

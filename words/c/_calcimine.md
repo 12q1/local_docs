@@ -1,7 +1,7 @@
 # Calcimine
 ---
 #noun
-- **A form of whitewash (inexpensive white paint) made from [[c/_calcium|calcium]] [[c/_carbonate|carbonate]], glue and water, used to [[c/_coat|coat]] wooden or plaster surfaces.**
+- **A [[f/_form|form]] of whitewash ([[i/_inexpensive|inexpensive]] white [[p/_paint|paint]]) [[m/_made|made]] from [[c/_calcium|calcium]] [[c/_carbonate|carbonate]], [[g/_glue|glue]] and water, used to [[c/_coat|coat]] wooden or plaster surfaces.**
 ---
 ### Synonyms
 - [[k/_kalsomine|kalsomine]]

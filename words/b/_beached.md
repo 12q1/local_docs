@@ -1,6 +1,6 @@
 # Beached
 ---
 #adjective
-- **Having a [[b/_beach|beach]].**
+- **[[h/_having|Having]] a [[b/_beach|beach]].**
 ---
 ---

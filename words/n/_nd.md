@@ -1,0 +1,6 @@
+# Nd
+---
+#conjunction
+- **And**
+---
+---

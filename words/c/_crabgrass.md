@@ -1,6 +1,6 @@
 # Crabgrass
 ---
 #noun
-- **Those members of the genus [[d/_digitaria|Digitaria]], grasses of tropical to temperate [[c/_climates|climates]], which are pests of lawns, mainly from their invasive habits and the fact they [[d/_die|die]] off in the fall and winter, leaving ugly [[b/_bare|bare]] patches.**
+- **Those [[m/_members|members]] of the [[g/_genus|genus]] [[d/_digitaria|Digitaria]], [[g/_grasses|grasses]] of tropical to temperate [[c/_climates|climates]], which are pests of [[l/_lawns|lawns]], [[m/_mainly|mainly]] from their [[i/_invasive|invasive]] [[h/_habits|habits]] and the [[f/_fact|fact]] they [[d/_die|die]] [[o/_off|off]] in the [[f/_fall|fall]] and winter, [[l/_leaving|leaving]] ugly [[b/_bare|bare]] patches.**
 ---
 ---

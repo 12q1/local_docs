@@ -1,6 +1,6 @@
 # Breadwinners
 ---
 #noun
-- **The primary income-[[e/_earner|earner]] in a household.**
+- **The primary [[i/_income|income]]-[[e/_earner|earner]] in a [[h/_household|household]].**
 ---
 ---

@@ -1,12 +1,12 @@
 # Decrescent
 ---
 #noun
-- **A [[c/_crescent|crescent]] oriented with horns turned to sinister (pointing right).**
+- **A [[c/_crescent|crescent]] [[o/_oriented|oriented]] with [[h/_horns|horns]] turned to sinister (pointing right).**
 ---
 ### Antonyms
 - [[i/_increscent|increscent]]
 #adjective
-- **[[b/_becoming|Becoming]] gradually less; [[d/_diminishing|diminishing]].**
+- **[[b/_becoming|Becoming]] [[g/_gradually|gradually]] [[l/_less|less]]; [[d/_diminishing|diminishing]].**
 - **Waning.**
 	- _Example: a decrescent moon_
 ---

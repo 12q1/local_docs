@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[c/_condition|condition]] of [[b/_being|being]] [[d/_dichromatic|dichromatic]]**
-- **A form of colourblindness in which only two of the three primary [[c/_colours|colours]] [[c/_can|can]] be [[d/_distinguished|distinguished]]**
-- **The [[c/_condition|condition]] when male and female [[b/_birds|birds]] have [[d/_different|different]] plumage [[c/_colors|colors]].**
+- **A [[f/_form|form]] of colourblindness in which [[o/_only|only]] two of the three primary [[c/_colours|colours]] [[c/_can|can]] be [[d/_distinguished|distinguished]]**
+- **The [[c/_condition|condition]] when [[m/_male|male]] and [[f/_female|female]] [[b/_birds|birds]] [[h/_have|have]] [[d/_different|different]] plumage [[c/_colors|colors]].**
 ---
 ---

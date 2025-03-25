@@ -2,20 +2,20 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_connecting|connecting]].**
-- **The point at which two or more things are [[c/_connected|connected]].**
+- **The point at which two or [[m/_more|more]] things are [[c/_connected|connected]].**
 	- _Example: My headache has no connection with me going out last night._
-- **A feeling of understanding and [[e/_ease|ease]] of [[c/_communication|communication]] [[b/_between|between]] two or more people.**
+- **A [[f/_feeling|feeling]] of understanding and [[e/_ease|ease]] of [[c/_communication|communication]] [[b/_between|between]] two or [[m/_more|more]] people.**
 	- _Example: As we were the only people in the room to laugh at the joke, I felt a connection between us._
-- **An [[e/_established|established]] [[c/_communications|communications]] or transportation link.**
+- **An [[e/_established|established]] [[c/_communications|communications]] or transportation [[l/_link|link]].**
 	- _Example: I was talking to him, but there was lightning and we lost the connection._
-- **A transfer from one transportation vehicle to [[a/_another|another]] in scheduled transportation service**
+- **A transfer from [[o/_one|one]] transportation vehicle to [[a/_another|another]] in scheduled transportation service**
 	- _Example: The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train._
-- **A kinship relationship [[b/_between|between]] people.**
-- **An individual who is related to oneself, through [[e/_either|either]] family or [[b/_business|business]].**
+- **A [[k/_kinship|kinship]] relationship [[b/_between|between]] people.**
+- **An [[i/_individual|individual]] who is related to [[o/_oneself|oneself]], through [[e/_either|either]] [[f/_family|family]] or [[b/_business|business]].**
 	- _Example: I have some connections in Lancashire._
-- **A set of sets that [[c/_contains|contains]] the [[e/_empty|empty]] set, [[a/_all|all]] one-[[e/_element|element]] sets for [[a/_any|any]] [[e/_element|element]] that is included in [[a/_any|any]] of the sets, and the union of [[a/_any|any]] group of sets that are [[e/_elements|elements]] where the intersections of those sets is non-[[e/_empty|empty]].**
-- **[[c/_coherence|Coherence]]; lack of [[d/_disjointedness|disjointedness]]**
-- **The [[d/_description|description]] for a Methodist [[d/_denomination|denomination]] as a whole, as opposed to its [[c/_constituent|constituent]] [[c/_churches|churches]], [[c/_circuits|circuits]], [[d/_districts|districts]] and [[c/_conferences|conferences]].**
-- **Sexual intercourse**
+- **A set of sets that [[c/_contains|contains]] the [[e/_empty|empty]] set, [[a/_all|all]] [[o/_one|one]]-[[e/_element|element]] sets for [[a/_any|any]] [[e/_element|element]] that is [[i/_included|included]] in [[a/_any|any]] of the sets, and the union of [[a/_any|any]] [[g/_group|group]] of sets that are [[e/_elements|elements]] where the [[i/_intersections|intersections]] of those sets is [[n/_non|non]]-[[e/_empty|empty]].**
+- **[[c/_coherence|Coherence]]; [[l/_lack|lack]] of [[d/_disjointedness|disjointedness]]**
+- **The [[d/_description|description]] for a [[m/_methodist|Methodist]] [[d/_denomination|denomination]] as a whole, as [[o/_opposed|opposed]] to [[i/_its|its]] [[c/_constituent|constituent]] [[c/_churches|churches]], [[c/_circuits|circuits]], [[d/_districts|districts]] and [[c/_conferences|conferences]].**
+- **Sexual [[i/_intercourse|intercourse]]**
 ---
 ---

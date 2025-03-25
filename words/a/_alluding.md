@@ -1,6 +1,6 @@
 # Alluding
 ---
 #verb
-- **To refer to something indirectly or by suggestion.**
+- **To refer to something [[i/_indirectly|indirectly]] or by suggestion.**
 ---
 ---

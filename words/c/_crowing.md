@@ -1,12 +1,12 @@
 # Crowing
 ---
 #verb
-- **To make the shrill sound [[c/_characteristic|characteristic]] of a rooster; to make a sound in this manner, [[e/_either|either]] in gaiety, joy, pleasure, or [[d/_defiance|defiance]].**
-- **To shout in exultation or [[d/_defiance|defiance]]; to [[b/_brag|brag]].**
+- **To [[m/_make|make]] the shrill sound [[c/_characteristic|characteristic]] of a rooster; to [[m/_make|make]] a sound in this [[m/_manner|manner]], [[e/_either|either]] in [[g/_gaiety|gaiety]], [[j/_joy|joy]], pleasure, or [[d/_defiance|defiance]].**
+- **To shout in [[e/_exultation|exultation]] or [[d/_defiance|defiance]]; to [[b/_brag|brag]].**
 	- _Example: He’s been crowing all day about winning the game of cards._
-- **To test the reed of a [[d/_double|double]] reed instrument by placing the reed [[a/_alone|alone]] in the mouth and [[b/_blowing|blowing]] it.**
+- **To test the reed of a [[d/_double|double]] reed [[i/_instrument|instrument]] by placing the reed [[a/_alone|alone]] in the [[m/_mouth|mouth]] and [[b/_blowing|blowing]] it.**
 ---
 #noun
-- **A [[c/_cry|cry]] of joy or pleasure.**
+- **A [[c/_cry|cry]] of [[j/_joy|joy]] or pleasure.**
 ---
 ---

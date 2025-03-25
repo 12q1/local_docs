@@ -1,46 +1,46 @@
 # But
 ---
 #noun
-- **An instance or example of using the word "but".**
+- **An [[i/_instance|instance]] or [[e/_example|example]] of using the word "but".**
 	- _Example: It has to be done – no ifs or buts._
-- **The outer room of a small two-room [[c/_cottage|cottage]].**
-- **A limit; a [[b/_boundary|boundary]].**
-- **The [[e/_end|end]]; [[e/_especially|especially]] the larger or thicker [[e/_end|end]], or the [[b/_blunt|blunt]], in [[d/_distinction|distinction]] from the sharp, [[e/_end|end]]; the [[b/_butt|butt]].**
+- **The [[o/_outer|outer]] room of a small two-room [[c/_cottage|cottage]].**
+- **A [[l/_limit|limit]]; a [[b/_boundary|boundary]].**
+- **The [[e/_end|end]]; [[e/_especially|especially]] the [[l/_larger|larger]] or thicker [[e/_end|end]], or the [[b/_blunt|blunt]], in [[d/_distinction|distinction]] from the sharp, [[e/_end|end]]; the [[b/_butt|butt]].**
 ---
 #verb
 - **Use the word "but".**
 	- _Example: But me no buts._
 ---
 #adverb
-- **Merely, only, just.**
+- **[[m/_merely|Merely]], [[o/_only|only]], [[j/_just|just]].**
 	- _Example: Christmas comes  but once a year._
-- **Though, however.**
+- **Though, [[h/_however|however]].**
 	- _Example: I'll have to go home early but._
-- **Used as an intensifier.**
+- **Used as an [[i/_intensifier|intensifier]].**
 	- _Example: Nobody, but nobody, crosses me and gets away with it._
 ---
 ### Synonyms
 - [[n/_nevertheless|nevertheless]], [[n/_notwithstanding|notwithstanding]], [[y/_yet|yet]]
 #preposition
-- **[[a/_apart|Apart]] from, except (for), excluding.**
+- **[[a/_apart|Apart]] from, [[e/_except|except]] (for), [[e/_excluding|excluding]].**
 	- _Example: Everyone but Father left early._
-- **(obsolete outside Scotland) Outside of.**
+- **([[o/_obsolete|obsolete]] [[o/_outside|outside]] Scotland) [[o/_outside|Outside]] of.**
 ---
 ### Synonyms
 - [[b/_barring|barring]]
 #conjunction
-- **On the [[c/_contrary|contrary]], rather (as a regular [[a/_adversative|adversative]] [[c/_conjunction|conjunction]], introducing a word or [[c/_clause|clause]] in [[c/_contrast|contrast]] or [[c/_contradiction|contradiction]] with the preceding negative [[c/_clause|clause]] or sentence).**
+- **On the [[c/_contrary|contrary]], rather (as a regular [[a/_adversative|adversative]] [[c/_conjunction|conjunction]], [[i/_introducing|introducing]] a word or [[c/_clause|clause]] in [[c/_contrast|contrast]] or [[c/_contradiction|contradiction]] with the preceding [[n/_negative|negative]] [[c/_clause|clause]] or sentence).**
 	- _Example: I am not rich but [I am] poor  not John but Peter went there._
-- **However, [[a/_although|although]], nevertheless, on the other hand (introducing a [[c/_clause|clause]] [[c/_contrary|contrary]] to prior [[b/_belief|belief]] or in [[c/_contrast|contrast]] with the preceding [[c/_clause|clause]] or sentence).**
+- **[[h/_however|However]], [[a/_although|although]], [[n/_nevertheless|nevertheless]], on the [[o/_other|other]] [[h/_hand|hand]] ([[i/_introducing|introducing]] a [[c/_clause|clause]] [[c/_contrary|contrary]] to prior [[b/_belief|belief]] or in [[c/_contrast|contrast]] with the preceding [[c/_clause|clause]] or sentence).**
 	- _Example: She is very old but still attractive._
-- **Except that (introducing a subordinate [[c/_clause|clause]] which qualifies a negative statement); [[a/_also|also]], with omission of the subject of the subordinate [[c/_clause|clause]], [[a/_acting|acting]] as a negative relative, "except one that", "except such that".**
+- **[[e/_except|Except]] that ([[i/_introducing|introducing]] a subordinate [[c/_clause|clause]] which qualifies a [[n/_negative|negative]] statement); [[a/_also|also]], with [[o/_omission|omission]] of the subject of the subordinate [[c/_clause|clause]], [[a/_acting|acting]] as a [[n/_negative|negative]] relative, "[[e/_except|except]] [[o/_one|one]] that", "[[e/_except|except]] such that".**
 	- _Example: I cannot but feel offended._
-- **Without its [[a/_also|also]] [[b/_being|being]] the [[c/_case|case]] that; unless that (introducing a necessary [[c/_concomitant|concomitant]]).**
+- **Without [[i/_its|its]] [[a/_also|also]] [[b/_being|being]] the [[c/_case|case]] that; unless that ([[i/_introducing|introducing]] a [[n/_necessary|necessary]] [[c/_concomitant|concomitant]]).**
 	- _Example: It never rains but it pours._
-- **Except with; unless with; without.**
-- **Only; solely; merely.**
+- **[[e/_except|Except]] with; unless with; without.**
+- **[[o/_only|Only]]; solely; [[m/_merely|merely]].**
 - **Until.**
-- **(following a negated expression of improbability) That.**
+- **([[f/_following|following]] a [[n/_negated|negated]] [[e/_expression|expression]] of [[i/_improbability|improbability]]) That.**
 ---
 ### Synonyms
 - [[b/_bar|bar]], [[e/_excepting|excepting]], [[e/_excluding|excluding]], [[u/_unless|unless]], [[w/_without|without]], [[a/_ac|ac]], [[a/_although|although]], [[y/_yet|yet]]

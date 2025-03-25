@@ -1,6 +1,6 @@
 # Detestable
 ---
 #adjective
-- **Stimulating [[d/_disgust|disgust]] or [[d/_detestation|detestation]]; offensive; shocking.**
+- **Stimulating [[d/_disgust|disgust]] or [[d/_detestation|detestation]]; [[o/_offensive|offensive]]; shocking.**
 ---
 ---

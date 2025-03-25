@@ -1,12 +1,12 @@
 # Dispensed
 ---
 #verb
-- **To issue, [[d/_distribute|distribute]], or give out.**
-- **To [[a/_apply|apply]], as laws to particular [[c/_cases|cases]]; to [[a/_administer|administer]]; to execute; to manage; to [[d/_direct|direct]].**
+- **To [[i/_issue|issue]], [[d/_distribute|distribute]], or [[g/_give|give]] [[o/_out|out]].**
+- **To [[a/_apply|apply]], as [[l/_laws|laws]] to particular [[c/_cases|cases]]; to [[a/_administer|administer]]; to [[e/_execute|execute]]; to [[m/_manage|manage]]; to [[d/_direct|direct]].**
 	- _Example: to dispense justice_
-- **To supply or make up a medicine or prescription.**
+- **To supply or [[m/_make|make]] up a [[m/_medicine|medicine]] or prescription.**
 	- _Example: An optician can dispense spectacles._
-- **To give a [[d/_dispensation|dispensation]] to (someone); to excuse.**
-- **To [[c/_compensate|compensate]]; to make up; to make [[a/_amends|amends]].**
+- **To [[g/_give|give]] a [[d/_dispensation|dispensation]] to (someone); to [[e/_excuse|excuse]].**
+- **To [[c/_compensate|compensate]]; to [[m/_make|make]] up; to [[m/_make|make]] [[a/_amends|amends]].**
 ---
 ---

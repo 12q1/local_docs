@@ -1,8 +1,8 @@
 # Bellicose
 ---
 #adjective
-- **Warlike in nature; [[a/_aggressive|aggressive]]; hostile.**
-- **Showing or having the impulse to be [[c/_combative|combative]].**
+- **Warlike in [[n/_nature|nature]]; [[a/_aggressive|aggressive]]; [[h/_hostile|hostile]].**
+- **Showing or [[h/_having|having]] the [[i/_impulse|impulse]] to be [[c/_combative|combative]].**
 ---
 ### Antonyms
 - [[p/_pacific|pacific]]

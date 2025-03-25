@@ -1,6 +1,6 @@
 # Dreamworld
 ---
 #noun
-- **An imaginary world, such as experienced while [[d/_dreaming|dreaming]].**
+- **An [[i/_imaginary|imaginary]] world, such as [[e/_experienced|experienced]] while [[d/_dreaming|dreaming]].**
 ---
 ---

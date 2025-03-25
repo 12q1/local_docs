@@ -1,6 +1,6 @@
 # Eohippus
 ---
 #noun
-- **An extinct [[e/_early|early]] [[e/_eocene|Eocene]] mammal, Hyracotherium leporinum**
+- **An [[e/_extinct|extinct]] [[e/_early|early]] [[e/_eocene|Eocene]] [[m/_mammal|mammal]], [[h/_hyracotherium|Hyracotherium]] leporinum**
 ---
 ---

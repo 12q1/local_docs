@@ -1,17 +1,17 @@
 # Deafening
 ---
 #verb
-- **To make [[d/_deaf|deaf]], [[e/_either|either]] temporarily or permanently.**
-- **To make soundproof.**
+- **To [[m/_make|make]] [[d/_deaf|deaf]], [[e/_either|either]] temporarily or permanently.**
+- **To [[m/_make|make]] soundproof.**
 	- _Example: to deafen a wall or a floor_
-- **(sometimes figurative) To stun, as with noise.**
+- **(sometimes [[f/_figurative|figurative]]) To stun, as with [[n/_noise|noise]].**
 ---
 #noun
 - **Pugging**
 - **The process by which something is [[d/_deafened|deafened]].**
 ---
 #adjective
-- **Loud [[e/_enough|enough]] to [[c/_cause|cause]] temporary or permanent hearing loss.**
-- **Very loud.**
+- **[[l/_loud|Loud]] [[e/_enough|enough]] to [[c/_cause|cause]] temporary or permanent [[h/_hearing|hearing]] [[l/_loss|loss]].**
+- **Very [[l/_loud|loud]].**
 ---
 ---

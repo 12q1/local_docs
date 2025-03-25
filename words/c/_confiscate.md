@@ -1,12 +1,12 @@
 # Confiscate
 ---
 #verb
-- **To use one's [[a/_authority|authority]] to lay [[c/_claim|claim]] to and separate a possession from its holder.**
+- **To use [[o/_one|one]]'s [[a/_authority|authority]] to [[l/_lay|lay]] [[c/_claim|claim]] to and separate a possession from [[i/_its|its]] [[h/_holder|holder]].**
 	- _Example: In schools it is common for teachers to confiscate electronic games and other distractions._
 ---
 ### Synonyms
 - [[a/_appropriate|appropriate]], [[a/_arrogate|arrogate]], [[c/_commandeer|commandeer]], [[e/_expropriate|expropriate]], [[r/_requisition|requisition]], [[r/_rob|rob]], [[s/_steal|steal]], [[u/_usurp|usurp]]
 #adjective
-- **[[c/_confiscated|Confiscated]]; seized and [[a/_appropriated|appropriated]] by the government for public use; forfeit.**
+- **[[c/_confiscated|Confiscated]]; seized and [[a/_appropriated|appropriated]] by the [[g/_government|government]] for public use; [[f/_forfeit|forfeit]].**
 ---
 ---

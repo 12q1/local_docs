@@ -1,7 +1,7 @@
 # Decrement
 ---
 #noun
-- **A small quantity removed or lost. One of a series of regular subtractions.**
+- **A small quantity removed or [[l/_lost|lost]]. [[o/_one|One]] of a series of regular subtractions.**
 ---
 ### Antonyms
 - [[i/_increment|increment]]

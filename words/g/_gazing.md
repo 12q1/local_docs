@@ -1,0 +1,13 @@
+# Gazing
+---
+#verb
+- **To stare [[i/_intently|intently]] or [[e/_earnestly|earnestly]].**
+	- _Example: In fact, for Antonioni this gazing is probably the most fundamental of all cognitive activities ... (from Thinking in the Absence of Image)_
+- **To stare at.**
+---
+### Synonyms
+- [[g/_gape|gape]], [[l/_look|look]], [[s/_stare|stare]]
+#noun
+- **The [[a/_act|act]] by which somebody [[g/_gazes|gazes]].**
+---
+---

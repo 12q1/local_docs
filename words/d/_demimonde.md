@@ -1,9 +1,9 @@
 # Demimonde
 ---
 #noun
-- **A [[c/_class|class]] of women maintained by wealthy protectors; female [[c/_courtesans|courtesans]] or prostitutes as a group.**
-- **(by extension) A group having little respect or reputation.**
+- **A [[c/_class|class]] of women [[m/_maintained|maintained]] by wealthy protectors; [[f/_female|female]] [[c/_courtesans|courtesans]] or prostitutes as a [[g/_group|group]].**
+- **(by [[e/_extension|extension]]) A [[g/_group|group]] [[h/_having|having]] [[l/_little|little]] respect or reputation.**
 	- _Example: the literary demimonde_
-- **(by extension) A member of such a [[c/_class|class]] or group of persons.**
+- **(by [[e/_extension|extension]]) A [[m/_member|member]] of such a [[c/_class|class]] or [[g/_group|group]] of persons.**
 ---
 ---

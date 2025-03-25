@@ -1,9 +1,9 @@
 # Baileys
 ---
 #noun
-- **The outer wall of a feudal [[c/_castle|castle]].**
-- **The space immediately within the outer wall of a [[c/_castle|castle]] or fortress.**
-- **(in [[c/_certain|certain]] proper names) A prison or [[c/_court|court]] of justice.**
+- **The [[o/_outer|outer]] wall of a [[f/_feudal|feudal]] [[c/_castle|castle]].**
+- **The space [[i/_immediately|immediately]] within the [[o/_outer|outer]] wall of a [[c/_castle|castle]] or [[f/_fortress|fortress]].**
+- **(in [[c/_certain|certain]] proper [[n/_names|names]]) A prison or [[c/_court|court]] of [[j/_justice|justice]].**
 	- _Example: the Old Bailey in London; the New Bailey in Manchester_
 ---
 ---

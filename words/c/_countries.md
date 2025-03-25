@@ -1,15 +1,15 @@
 # Countries
 ---
 #noun
-- **([[c/_chiefly|chiefly]] [[b/_british|British]]) An [[a/_area|area]] of land; a [[d/_district|district]], region.**
-- **A set region of land having particular human occupation or [[a/_agreed|agreed]] limits, [[e/_especially|especially]] inhabited by members of the same race, speakers of the same language [[e/_etc|etc]]., or [[a/_associated|associated]] with a given person, occupation, species [[e/_etc|etc]].**
-- **The territory of a nation, [[e/_especially|especially]] an independent nation state or formerly independent nation; a political [[e/_entity|entity]] [[a/_asserting|asserting]] ultimate [[a/_authority|authority]] over a geographical [[a/_area|area]]; a sovereign state.**
-- **(usually preceded by “the”) A rural [[a/_area|area]], as opposed to a town or [[c/_city|city]]; the [[c/_countryside|countryside]].**
+- **([[c/_chiefly|chiefly]] [[b/_british|British]]) An [[a/_area|area]] of [[l/_land|land]]; a [[d/_district|district]], region.**
+- **A set region of [[l/_land|land]] [[h/_having|having]] particular [[h/_human|human]] [[o/_occupation|occupation]] or [[a/_agreed|agreed]] [[l/_limits|limits]], [[e/_especially|especially]] [[i/_inhabited|inhabited]] by [[m/_members|members]] of the same race, speakers of the same [[l/_language|language]] [[e/_etc|etc]]., or [[a/_associated|associated]] with a [[g/_given|given]] person, [[o/_occupation|occupation]], species [[e/_etc|etc]].**
+- **The territory of a [[n/_nation|nation]], [[e/_especially|especially]] an [[i/_independent|independent]] [[n/_nation|nation]] state or [[f/_formerly|formerly]] [[i/_independent|independent]] [[n/_nation|nation]]; a political [[e/_entity|entity]] [[a/_asserting|asserting]] ultimate [[a/_authority|authority]] [[o/_over|over]] a [[g/_geographical|geographical]] [[a/_area|area]]; a sovereign state.**
+- **(usually preceded by “the”) A rural [[a/_area|area]], as [[o/_opposed|opposed]] to a town or [[c/_city|city]]; the [[c/_countryside|countryside]].**
 - **The rock through which a vein runs.**
-- **The female genitalia, [[e/_especially|especially]] the vagina.**
+- **The [[f/_female|female]] [[g/_genitalia|genitalia]], [[e/_especially|especially]] the vagina.**
 ---
 #noun
-- **A style of popular music that originated in the folk music of the rural population of the southern and western United States and [[c/_characterized|characterized]] by string-[[b/_band|band]] instruments and simple melodies.**
+- **A style of popular [[m/_music|music]] that [[o/_originated|originated]] in the [[f/_folk|folk]] [[m/_music|music]] of the rural population of the southern and western United States and [[c/_characterized|characterized]] by string-[[b/_band|band]] [[i/_instruments|instruments]] and simple [[m/_melodies|melodies]].**
 ---
 ### Synonyms
 - [[c/_country|country]]

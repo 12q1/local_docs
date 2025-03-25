@@ -1,6 +1,6 @@
 # Boraginaceous
 ---
 #adjective
-- **Of, relating to, or resembling the [[b/_boraginaceae|Boraginaceae]], a plant family which includes the [[b/_borage|borage]], heliotrope, [[b/_beggar|beggar]]'s lice, and many pestiferous plants.**
+- **Of, relating to, or resembling the [[b/_boraginaceae|Boraginaceae]], a plant [[f/_family|family]] which [[i/_includes|includes]] the [[b/_borage|borage]], [[h/_heliotrope|heliotrope]], [[b/_beggar|beggar]]'s [[l/_lice|lice]], and [[m/_many|many]] pestiferous plants.**
 ---
 ---

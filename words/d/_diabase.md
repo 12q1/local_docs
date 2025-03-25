@@ -1,7 +1,7 @@
 # Diabase
 ---
 #noun
-- **A fine-grained igneous rock [[c/_composed|composed]] mostly of pyroxene and feldspar.**
+- **A [[f/_fine|fine]]-[[g/_grained|grained]] [[i/_igneous|igneous]] rock [[c/_composed|composed]] [[m/_mostly|mostly]] of pyroxene and [[f/_feldspar|feldspar]].**
 ---
 ### Synonyms
 - [[d/_dolerite|dolerite]]

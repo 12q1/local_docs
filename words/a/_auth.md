@@ -6,22 +6,22 @@
 ---
 #noun
 - **Something which validates or [[c/_confirms|confirms]] the [[a/_authenticity|authenticity]] of something**
-- **Proof of the identity of a user logging on to some network**
-- **A hallmark or [[a/_assay|assay]]-mark on a piece of metalwork**
+- **Proof of the [[i/_identity|identity]] of a user [[l/_logging|logging]] on to some [[n/_network|network]]**
+- **A [[h/_hallmark|hallmark]] or [[a/_assay|assay]]-[[m/_mark|mark]] on a piece of [[m/_metalwork|metalwork]]**
 ---
 #noun
-- **One who [[c/_commands|commands]] [[a/_absolute|absolute]] obedience to his or her [[a/_authority|authority]].**
+- **[[o/_one|One]] who [[c/_commands|commands]] [[a/_absolute|absolute]] [[o/_obedience|obedience]] to [[h/_his|his]] or [[h/_her|her]] [[a/_authority|authority]].**
 	- _Example: The dictator was an authoritarian._
-- **One who follows and is excessively obedient to [[a/_authority|authority]].**
+- **[[o/_one|One]] who [[f/_follows|follows]] and is [[e/_excessively|excessively]] [[o/_obedient|obedient]] to [[a/_authority|authority]].**
 	- _Example: 2006, Robert Altemeyer, The Authoritarians_
 ---
 #noun
 - **Permission.**
 	- _Example: I've got authorization. Call the office and you'll see._
 - **An [[a/_act|act]] of [[a/_authorizing|authorizing]].**
-- **(A [[d/_document|document]] giving) formal sanction, permission or warrant.**
+- **(A [[d/_document|document]] [[g/_giving|giving]]) [[f/_formal|formal]] sanction, permission or warrant.**
 	- _Example: Can I see your authorization?_
-- **Permission, possibly limited, to spend funds for a specific [[b/_budgetary|budgetary]] purpose.**
+- **Permission, possibly [[l/_limited|limited]], to spend [[f/_funds|funds]] for a specific [[b/_budgetary|budgetary]] purpose.**
 	- _Example: We've had the authorization for years, but we've never gotten an appropriation._
 ---
 ---

@@ -1,14 +1,14 @@
 # Comparing
 ---
 #verb
-- **To [[a/_assess|assess]] the similarities and [[d/_differences|differences]] [[b/_between|between]] two or more things ["to [[c/_compare|compare]] X with Y"]. Having made the [[c/_comparison|comparison]] of X with Y, one might have found it similar to Y or [[d/_different|different]] from Y.**
+- **To [[a/_assess|assess]] the similarities and [[d/_differences|differences]] [[b/_between|between]] two or [[m/_more|more]] things ["to [[c/_compare|compare]] X with [[y/_y|Y]]"]. [[h/_having|Having]] [[m/_made|made]] the [[c/_comparison|comparison]] of X with [[y/_y|Y]], [[o/_one|one]] [[m/_might|might]] [[h/_have|have]] [[f/_found|found]] it similar to [[y/_y|Y]] or [[d/_different|different]] from [[y/_y|Y]].**
 	- _Example: Compare the tiger's coloration with that of the zebra._
-- **To [[d/_declare|declare]] two things to be similar in some respect ["to [[c/_compare|compare]] X to Y"].**
+- **To [[d/_declare|declare]] two things to be similar in some respect ["to [[c/_compare|compare]] X to [[y/_y|Y]]"].**
 	- _Example: Astronomers have compared comets to dirty snowballs._
-- **(grammar) To form the three [[d/_degrees|degrees]] of [[c/_comparison|comparison]] of (an [[a/_adjective|adjective]]).**
+- **([[g/_grammar|grammar]]) To [[f/_form|form]] the three [[d/_degrees|degrees]] of [[c/_comparison|comparison]] of (an [[a/_adjective|adjective]]).**
 	- _Example: We compare "good" as "good", "better", "best"._
-- **To be similar (often used in the negative).**
+- **To be similar ([[o/_often|often]] used in the [[n/_negative|negative]]).**
 	- _Example: A sapling and a fully-grown oak tree do not compare._
-- **To get; to obtain.**
+- **To [[g/_get|get]]; to [[o/_obtain|obtain]].**
 ---
 ---

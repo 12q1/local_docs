@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Serving to [[c/_commend|commend]] or [[c/_compliment|compliment]]; [[c/_complimentary|complimentary]].**
-- **Holding a [[b/_benefice|benefice]] in [[c/_commendam|commendam]].**
+- **[[h/_holding|Holding]] a [[b/_benefice|benefice]] in [[c/_commendam|commendam]].**
 	- _Example: a commendatory bishop_
 ---
 ---

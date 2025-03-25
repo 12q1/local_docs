@@ -1,22 +1,22 @@
 # Chat
 ---
 #noun
-- **Informal [[c/_conversation|conversation]].**
+- **[[i/_informal|Informal]] [[c/_conversation|conversation]].**
 - **A [[c/_conversation|conversation]] to stop an [[a/_argument|argument]] or settle situations.**
-- **(totum pro parte, typically with [[d/_definite|definite]] [[a/_article|article]]) The [[e/_entirety|entirety]] of users in a chatroom or a single member thereof.**
+- **(totum pro parte, typically with [[d/_definite|definite]] [[a/_article|article]]) The [[e/_entirety|entirety]] of users in a chatroom or a single [[m/_member|member]] thereof.**
 	- _Example: The Chat just made a joke about my skills._
-- **An exchange of text or voice messages in real time through a [[c/_computer|computer]] network, resembling a face-to-face [[c/_conversation|conversation]].**
-- **[[a/_any|Any]] of various small Old World passerine [[b/_birds|birds]] in the muscicapid tribe Saxicolini or subfamily Saxicolinae that feed on insects.**
-- **[[a/_any|Any]] of several small [[a/_australian|Australian]] honeyeaters in the genus Epthianura.**
+- **An [[e/_exchange|exchange]] of text or voice [[m/_messages|messages]] in real time through a [[c/_computer|computer]] [[n/_network|network]], resembling a [[f/_face|face]]-to-[[f/_face|face]] [[c/_conversation|conversation]].**
+- **[[a/_any|Any]] of various small [[o/_old|Old]] World passerine [[b/_birds|birds]] in the muscicapid tribe Saxicolini or subfamily Saxicolinae that [[f/_feed|feed]] on [[i/_insects|insects]].**
+- **[[a/_any|Any]] of several small [[a/_australian|Australian]] honeyeaters in the [[g/_genus|genus]] Epthianura.**
 ---
 #verb
-- **To be [[e/_engaged|engaged]] in informal [[c/_conversation|conversation]].**
+- **To be [[e/_engaged|engaged]] in [[i/_informal|informal]] [[c/_conversation|conversation]].**
 	- _Example: I like to chat over a coffee with a friend._
-- **To talk more than a few words.**
+- **To talk [[m/_more|more]] than a [[f/_few|few]] words.**
 	- _Example: I met my old friend in the street, so we chatted for a while._
 - **To talk of; to [[d/_discuss|discuss]].**
 	- _Example: They chatted politics for a while._
-- **To exchange text or voice messages in real time through a [[c/_computer|computer]] network, as if having a face-to-face [[c/_conversation|conversation]].**
+- **To [[e/_exchange|exchange]] text or voice [[m/_messages|messages]] in real time through a [[c/_computer|computer]] [[n/_network|network]], as [[i/_if|if]] [[h/_having|having]] a [[f/_face|face]]-to-[[f/_face|face]] [[c/_conversation|conversation]].**
 	- _Example: Do you want to chat online later?_
 ---
 ---

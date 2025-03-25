@@ -1,12 +1,12 @@
 # Dung
 ---
 #noun
-- **Manure; [[a/_animal|animal]] excrement.**
-- **A type of manure, as from a particular species or type of [[a/_animal|animal]].**
+- **[[m/_manure|Manure]]; [[a/_animal|animal]] [[e/_excrement|excrement]].**
+- **A type of [[m/_manure|manure]], as from a particular species or type of [[a/_animal|animal]].**
 ---
 #verb
-- **To fertilize with [[d/_dung|dung]].**
-- **([[c/_calico|calico]] printing) To immerse or steep, as [[c/_calico|calico]], in a [[b/_bath|bath]] of hot water [[c/_containing|containing]] [[c/_cow|cow]] [[d/_dung|dung]], [[d/_done|done]] to remove the superfluous mordant.**
+- **To [[f/_fertilize|fertilize]] with [[d/_dung|dung]].**
+- **([[c/_calico|calico]] printing) To [[i/_immerse|immerse]] or steep, as [[c/_calico|calico]], in a [[b/_bath|bath]] of [[h/_hot|hot]] water [[c/_containing|containing]] [[c/_cow|cow]] [[d/_dung|dung]], [[d/_done|done]] to remove the superfluous [[m/_mordant|mordant]].**
 - **To release [[d/_dung|dung]]: to [[d/_defecate|defecate]].**
 ---
 ---

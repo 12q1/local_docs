@@ -1,12 +1,12 @@
 # Beheaded
 ---
 #verb
-- **To remove the head of; to [[c/_cut|cut]] someone's head off.**
+- **To remove the [[h/_head|head]] of; to [[c/_cut|cut]] someone's [[h/_head|head]] [[o/_off|off]].**
 ---
 ### Synonyms
 - [[d/_decapitate|decapitate]], [[d/_decollate|decollate]]
 #adjective
-- **Having had one's head [[c/_cut|cut]] off.**
+- **[[h/_having|Having]] [[h/_had|had]] [[o/_one|one]]'s [[h/_head|head]] [[c/_cut|cut]] [[o/_off|off]].**
 	- _Example: They gasped at the sight of the beheaded king._
 ---
 ---

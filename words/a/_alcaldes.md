@@ -1,6 +1,6 @@
 # Alcaldes
 ---
 #noun
-- **In Spain or Latin [[a/_america|America]], a municipal magistrate who has [[b/_both|both]] judicial and [[a/_administrative|administrative]] functions.**
+- **In Spain or [[l/_latin|Latin]] [[a/_america|America]], a [[m/_municipal|municipal]] [[m/_magistrate|magistrate]] who [[h/_has|has]] [[b/_both|both]] [[j/_judicial|judicial]] and [[a/_administrative|administrative]] [[f/_functions|functions]].**
 ---
 ---

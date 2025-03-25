@@ -1,11 +1,11 @@
 # Duppy
 ---
 #noun
-- **A ghost or spirit, often [[a/_appearing|appearing]] in the form of a [[d/_dog|dog]] [[b/_barking|barking]] or howling through the night.**
-- **(game) A [[d/_drawn|drawn]] game of noughts and [[c/_crosses|crosses]] (in Jamaica tii-taa-tuo).**
+- **A [[g/_ghost|ghost]] or spirit, [[o/_often|often]] [[a/_appearing|appearing]] in the [[f/_form|form]] of a [[d/_dog|dog]] [[b/_barking|barking]] or [[h/_howling|howling]] through the [[n/_night|night]].**
+- **([[g/_game|game]]) A [[d/_drawn|drawn]] [[g/_game|game]] of [[n/_noughts|noughts]] and [[c/_crosses|crosses]] (in [[j/_jamaica|Jamaica]] tii-taa-tuo).**
 ---
 #verb
-- **To kill; to murder.**
-- **(by extension) To excel in.**
+- **To [[k/_kill|kill]]; to [[m/_murder|murder]].**
+- **(by [[e/_extension|extension]]) To [[e/_excel|excel]] in.**
 ---
 ---

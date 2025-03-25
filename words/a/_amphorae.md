@@ -1,9 +1,9 @@
 # Amphorae
 ---
 #noun
-- **A two-handled jar with a narrow neck that was used in [[a/_ancient|ancient]] times to store or [[c/_carry|carry]] wine or oil.**
-- **One of various units for measuring liquid or volume [[d/_during|during]] the Roman [[e/_empire|Empire]], measuring [[b/_between|between]] 18.5 and 39 litres [[d/_depending|depending]] on the variant.**
-- **[[a/_ancient|Ancient]] unit of volume, for the measurement of the internal [[c/_capacity|capacity]] of a ship.**
-- **In [[b/_botany|botany]], the lower valve of the fruit that opens transversely.**
+- **A two-[[h/_handled|handled]] [[j/_jar|jar]] with a [[n/_narrow|narrow]] [[n/_neck|neck]] that was used in [[a/_ancient|ancient]] times to store or [[c/_carry|carry]] wine or [[o/_oil|oil]].**
+- **[[o/_one|One]] of various units for [[m/_measuring|measuring]] [[l/_liquid|liquid]] or volume [[d/_during|during]] the Roman [[e/_empire|Empire]], [[m/_measuring|measuring]] [[b/_between|between]] 18.5 and 39 [[l/_litres|litres]] [[d/_depending|depending]] on the variant.**
+- **[[a/_ancient|Ancient]] unit of volume, for the [[m/_measurement|measurement]] of the [[i/_internal|internal]] [[c/_capacity|capacity]] of a ship.**
+- **In [[b/_botany|botany]], the [[l/_lower|lower]] valve of the [[f/_fruit|fruit]] that [[o/_opens|opens]] transversely.**
 ---
 ---

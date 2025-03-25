@@ -1,7 +1,7 @@
 # Actin
 ---
 #noun
-- **A globular structural protein that polymerizes in a helical fashion to form an [[a/_actin|actin]] filament (or microfilament).**
-- **One of the six isoforms of [[a/_actin|actin]].**
+- **A [[g/_globular|globular]] structural protein that polymerizes in a [[h/_helical|helical]] [[f/_fashion|fashion]] to [[f/_form|form]] an [[a/_actin|actin]] [[f/_filament|filament]] (or microfilament).**
+- **[[o/_one|One]] of the six isoforms of [[a/_actin|actin]].**
 ---
 ---

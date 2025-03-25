@@ -1,7 +1,7 @@
 # Churchy
 ---
 #noun
-- **(mildly pejorative) one who is piously [[c/_christian|Christian]]**
+- **([[m/_mildly|mildly]] pejorative) [[o/_one|one]] who is piously [[c/_christian|Christian]]**
 ---
 #adjective
 - **Piously [[c/_christian|Christian]].**

@@ -1,6 +1,6 @@
 # Epistaxis
 ---
 #noun
-- **Nosebleed**
+- **[[n/_nosebleed|Nosebleed]]**
 ---
 ---

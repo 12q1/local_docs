@@ -1,50 +1,50 @@
 # Clearing
 ---
 #verb
-- **To remove obstructions, impediments or other unwanted items from.**
+- **To remove [[o/_obstructions|obstructions]], [[i/_impediments|impediments]] or [[o/_other|other]] unwanted [[i/_items|items]] from.**
 	- _Example: If you clear the table, I'll wash up._
-- **To remove (items or material) so as to leave something unobstructed or open.**
+- **To remove ([[i/_items|items]] or [[m/_material|material]]) so as to [[l/_leave|leave]] something unobstructed or [[o/_open|open]].**
 	- _Example: Please clear all this stuff off the table._
-- **To [[b/_become|become]] free from obstruction or obscurement; to [[b/_become|become]] transparent.**
+- **To [[b/_become|become]] [[f/_free|free]] from [[o/_obstruction|obstruction]] or [[o/_obscurement|obscurement]]; to [[b/_become|become]] transparent.**
 	- _Example: After a heavy rain, the sky cleared nicely for the evening._
-- **To [[e/_eliminate|eliminate]] [[a/_ambiguity|ambiguity]] or [[d/_doubt|doubt]] from (a matter); to [[c/_clarify|clarify]] or resolve; to [[c/_clear|clear]] up.**
+- **To [[e/_eliminate|eliminate]] [[a/_ambiguity|ambiguity]] or [[d/_doubt|doubt]] from (a [[m/_matter|matter]]); to [[c/_clarify|clarify]] or resolve; to [[c/_clear|clear]] up.**
 	- _Example: We need to clear this issue once and for all._
-- **To remove from suspicion, [[e/_especially|especially]] of having [[c/_committed|committed]] a [[c/_crime|crime]].**
+- **To remove from suspicion, [[e/_especially|especially]] of [[h/_having|having]] [[c/_committed|committed]] a [[c/_crime|crime]].**
 	- _Example: The court cleared the man of murder._
-- **To pass without interference; to miss.**
+- **To pass without [[i/_interference|interference]]; to [[m/_miss|miss]].**
 	- _Example: The door just barely clears the table as it closes._
-- **([[a/_activities|activities]] such as jumping or throwing) To exceed a stated mark.**
+- **([[a/_activities|activities]] such as [[j/_jumping|jumping]] or throwing) To [[e/_exceed|exceed]] a stated [[m/_mark|mark]].**
 	- _Example: She was the first female high jumper to clear two metres._
-- **To finish or [[c/_complete|complete]] (a stage, [[c/_challenge|challenge]], or game).**
+- **To [[f/_finish|finish]] or [[c/_complete|complete]] (a stage, [[c/_challenge|challenge]], or [[g/_game|game]]).**
 	- _Example: I cleared the first level in 36 seconds._
-- **Of a [[c/_check|check]] or financial transaction, to go through as payment; to be processed so that the money is transferred.**
+- **Of a [[c/_check|check]] or [[f/_financial|financial]] transaction, to [[g/_go|go]] through as [[p/_payment|payment]]; to be processed so that the [[m/_money|money]] is transferred.**
 	- _Example: The check might not clear for a couple of days._
-- **To [[e/_earn|earn]] a profit of; to net.**
+- **To [[e/_earn|earn]] a profit of; to [[n/_net|net]].**
 	- _Example: He's been clearing seven thousand a week._
-- **To [[a/_approve|approve]] or [[a/_authorise|authorise]] for a particular purpose or [[a/_action|action]]; to give [[c/_clearance|clearance]] to.**
+- **To [[a/_approve|approve]] or [[a/_authorise|authorise]] for a particular purpose or [[a/_action|action]]; to [[g/_give|give]] [[c/_clearance|clearance]] to.**
 	- _Example: Air traffic control cleared the plane to land._
-- **To obtain [[a/_approval|approval]] or [[a/_authorisation|authorisation]] in respect of.**
+- **To [[o/_obtain|obtain]] [[a/_approval|approval]] or [[a/_authorisation|authorisation]] in respect of.**
 	- _Example: I've cleared the press release with the marketing department, so go ahead and publish it._
-- **To obtain a [[c/_clearance|clearance]].**
+- **To [[o/_obtain|obtain]] a [[c/_clearance|clearance]].**
 	- _Example: The steamer cleared for Liverpool today._
-- **To obtain permission to use (a sample of [[c/_copyrighted|copyrighted]] [[a/_audio|audio]]) in [[a/_another|another]] track.**
-- **To [[d/_disengage|disengage]] oneself from incumbrances, [[d/_distress|distress]], or [[e/_entanglements|entanglements]]; to [[b/_become|become]] free.**
-- **To hit, kick, head, punch [[e/_etc|etc]]. (a [[b/_ball|ball]], puck) [[a/_away|away]] in order to [[d/_defend|defend]] one's goal.**
+- **To [[o/_obtain|obtain]] permission to use (a sample of [[c/_copyrighted|copyrighted]] [[a/_audio|audio]]) in [[a/_another|another]] track.**
+- **To [[d/_disengage|disengage]] [[o/_oneself|oneself]] from [[i/_incumbrances|incumbrances]], [[d/_distress|distress]], or [[e/_entanglements|entanglements]]; to [[b/_become|become]] [[f/_free|free]].**
+- **To [[h/_hit|hit]], [[k/_kick|kick]], [[h/_head|head]], punch [[e/_etc|etc]]. (a [[b/_ball|ball]], puck) [[a/_away|away]] in [[o/_order|order]] to [[d/_defend|defend]] [[o/_one|one]]'s [[g/_goal|goal]].**
 	- _Example: A low cross came in, and Smith cleared._
 - **To reset or unset; to return to an [[e/_empty|empty]] state or to zero.**
 	- _Example: to clear an array;  to clear a single bit (binary digit) in a value_
-- **To style (an [[e/_element|element]] within a [[d/_document|document]]) so that it is not permitted to float at a given position.**
+- **To style (an [[e/_element|element]] within a [[d/_document|document]]) so that it is not permitted to [[f/_float|float]] at a [[g/_given|given]] position.**
 ---
 ### Synonyms
 - [[s/_stub|stub]]
 #noun
-- **The [[a/_act|act]] or process of making or [[b/_becoming|becoming]] [[c/_clear|clear]].**
-- **An [[a/_area|area]] of land within a wood or forest [[d/_devoid|devoid]] of trees.**
-- **An open space in the fog [[e/_etc|etc]].**
-- **A process of exchanging transaction information and [[a/_authorisation|authorisation]] through a [[c/_central|central]] institution or system to [[c/_complete|complete]] and settle those transactions.**
-- **A sequence of events used to [[d/_disconnect|disconnect]] a [[c/_call|call]], and return to the ready state.**
+- **The [[a/_act|act]] or process of [[m/_making|making]] or [[b/_becoming|becoming]] [[c/_clear|clear]].**
+- **An [[a/_area|area]] of [[l/_land|land]] within a wood or [[f/_forest|forest]] [[d/_devoid|devoid]] of trees.**
+- **An [[o/_open|open]] space in the [[f/_fog|fog]] [[e/_etc|etc]].**
+- **A process of [[e/_exchanging|exchanging]] transaction [[i/_information|information]] and [[a/_authorisation|authorisation]] through a [[c/_central|central]] [[i/_institution|institution]] or system to [[c/_complete|complete]] and settle those transactions.**
+- **A sequence of [[e/_events|events]] used to [[d/_disconnect|disconnect]] a [[c/_call|call]], and return to the ready state.**
 - **The period in which remaining university places are [[a/_allocated|allocated]] to remaining students.**
-- **The [[a/_act|act]] of removing the [[b/_ball|ball]] from one's own goal [[a/_area|area]] by kicking it.**
+- **The [[a/_act|act]] of removing the [[b/_ball|ball]] from [[o/_one|one]]'s [[o/_own|own]] [[g/_goal|goal]] [[a/_area|area]] by [[k/_kicking|kicking]] it.**
 ---
 ### Synonyms
 - [[g/_glade|glade]]

@@ -1,6 +1,6 @@
 # Agronomics
 ---
 #noun
-- **The science of soil management and the production of field [[c/_crops|crops]].**
+- **The science of soil [[m/_management|management]] and the production of [[f/_field|field]] [[c/_crops|crops]].**
 ---
 ---

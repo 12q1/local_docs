@@ -1,8 +1,8 @@
 # Banister
 ---
 #noun
-- **The handrail on the side of a staircase.**
-- **One of the vertical supports of a handrail; a [[b/_baluster|baluster]].**
+- **The [[h/_handrail|handrail]] on the side of a staircase.**
+- **[[o/_one|One]] of the vertical supports of a [[h/_handrail|handrail]]; a [[b/_baluster|baluster]].**
 ---
 #verb
 - **To [[c/_construct|construct]] a [[b/_banister|banister]]**

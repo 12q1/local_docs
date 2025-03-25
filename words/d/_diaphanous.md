@@ -1,9 +1,9 @@
 # Diaphanous
 ---
 #adjective
-- **Transparent or translucent; [[a/_allowing|allowing]] light to pass through; [[c/_capable|capable]] of [[b/_being|being]] seen through.**
-- **Of a fine, [[a/_almost|almost]] transparent, texture; gossamer; light and insubstantial.**
-- **Isorefractive, having an identical refractive index.**
+- **Transparent or translucent; [[a/_allowing|allowing]] [[l/_light|light]] to pass through; [[c/_capable|capable]] of [[b/_being|being]] seen through.**
+- **Of a [[f/_fine|fine]], [[a/_almost|almost]] transparent, texture; [[g/_gossamer|gossamer]]; [[l/_light|light]] and [[i/_insubstantial|insubstantial]].**
+- **Isorefractive, [[h/_having|having]] an [[i/_identical|identical]] refractive [[i/_index|index]].**
 ---
 ### Synonyms
 - [[t/_translucent|translucent]], [[t/_transparent|transparent]], [[d/_delicate|delicate]], [[i/_insubstantial|insubstantial]]

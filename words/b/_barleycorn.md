@@ -1,8 +1,8 @@
 # Barleycorn
 ---
 #noun
-- **A grain of [[b/_barley|barley]].**
-- **The length of such a grain; a unit of length of [[a/_approximately|approximately]] one third (or sometimes one quarter) of an inch or [[e/_eight|eight]] millimetres, still used as a [[b/_basis|basis]] for shoe sizes**
-- **A small groove [[b/_between|between]] two mouldings.**
+- **A [[g/_grain|grain]] of [[b/_barley|barley]].**
+- **The [[l/_length|length]] of such a [[g/_grain|grain]]; a unit of [[l/_length|length]] of [[a/_approximately|approximately]] [[o/_one|one]] third (or sometimes [[o/_one|one]] quarter) of an [[i/_inch|inch]] or [[e/_eight|eight]] [[m/_millimetres|millimetres]], still used as a [[b/_basis|basis]] for shoe sizes**
+- **A small [[g/_groove|groove]] [[b/_between|between]] two [[m/_mouldings|mouldings]].**
 ---
 ---

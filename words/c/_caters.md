@@ -7,27 +7,27 @@
 - **To provide, particularly:**
 ---
 #verb
-- **To place, set, move, or [[c/_cut|cut]] [[d/_diagonally|diagonally]] or rhomboidally.**
+- **To place, set, [[m/_move|move]], or [[c/_cut|cut]] [[d/_diagonally|diagonally]] or rhomboidally.**
 ---
 #noun
-- **Four.**
-- **The four of [[c/_cards|cards]] or [[d/_dice|dice]].**
-- **A method of ringing nine [[b/_bells|bells]] in four pairs with a ninth tenor [[b/_bell|bell]].**
+- **[[f/_four|Four]].**
+- **The [[f/_four|four]] of [[c/_cards|cards]] or [[d/_dice|dice]].**
+- **A [[m/_method|method]] of ringing [[n/_nine|nine]] [[b/_bells|bells]] in [[f/_four|four]] [[p/_pairs|pairs]] with a [[n/_ninth|ninth]] tenor [[b/_bell|bell]].**
 ---
 #noun
-- **A person [[e/_employed|employed]] to obtain and maintain the storage of provisions, [[e/_especially|especially]] food.**
-- **A person or [[c/_company|company]] hired to provide and serve food, usually for a large group and at a location separate from where the food is prepared.**
+- **A person [[e/_employed|employed]] to [[o/_obtain|obtain]] and [[m/_maintain|maintain]] the storage of provisions, [[e/_especially|especially]] [[f/_food|food]].**
+- **A person or [[c/_company|company]] [[h/_hired|hired]] to provide and serve [[f/_food|food]], usually for a [[l/_large|large]] [[g/_group|group]] and at a [[l/_location|location]] separate from where the [[f/_food|food]] is prepared.**
 ---
 ### Synonyms
 - [[c/_cater|cater]], [[m/_manciple|manciple]], [[o/_obsonator|obsonator]], [[s/_steward|steward]]
 #noun
-- **([[c/_campanology|campanology]]) [[b/_bell|bell]] [[c/_changes|changes]] rung on nine [[b/_bells|bells]]**
+- **([[c/_campanology|campanology]]) [[b/_bell|bell]] [[c/_changes|changes]] rung on [[n/_nine|nine]] [[b/_bells|bells]]**
 	- _Example: A quarter peal of plain bob caters was rung._
 ---
 #noun
-- **Someone who supplies what is needed, [[e/_especially|especially]] food.**
+- **Someone who supplies what is [[n/_needed|needed]], [[e/_especially|especially]] [[f/_food|food]].**
 	- _Example: The merchants are the purveyors of fine selections._
-- **An officer who provided provisions for the king's household.**
+- **An [[o/_officer|officer]] who provided provisions for the [[k/_king|king]]'s [[h/_household|household]].**
 - **A procurer; a pimp.**
 ---
 ### Synonyms

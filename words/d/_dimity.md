@@ -1,6 +1,6 @@
 # Dimity
 ---
 #noun
-- **A light strong fabric with woven stripes or squares.**
+- **A [[l/_light|light]] strong [[f/_fabric|fabric]] with woven stripes or squares.**
 ---
 ---

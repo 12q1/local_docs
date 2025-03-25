@@ -1,7 +1,7 @@
 # Eardrum
 ---
 #noun
-- **A thin membrane that separates the outer [[e/_ear|ear]] from the middle [[e/_ear|ear]] and transmits sound from the [[a/_air|air]] to the malleus.**
+- **A thin [[m/_membrane|membrane]] that separates the [[o/_outer|outer]] [[e/_ear|ear]] from the [[m/_middle|middle]] [[e/_ear|ear]] and transmits sound from the [[a/_air|air]] to the [[m/_malleus|malleus]].**
 ---
 ### Synonyms
 - 

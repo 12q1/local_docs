@@ -1,7 +1,7 @@
 # Curbside
 ---
 #noun
-- **A location next to the [[c/_curb|curb]]**
+- **A [[l/_location|location]] [[n/_next|next]] to the [[c/_curb|curb]]**
 ---
 ### Synonyms
 - [[k/_kerbside|kerbside]]

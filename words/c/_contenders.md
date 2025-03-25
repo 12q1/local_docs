@@ -1,7 +1,7 @@
 # Contenders
 ---
 #noun
-- **Someone who [[c/_competes|competes]] with one or more other people.**
-- **Someone who has a viable [[c/_chance|chance]] of winning a [[c/_competition|competition]].**
+- **Someone who [[c/_competes|competes]] with [[o/_one|one]] or [[m/_more|more]] [[o/_other|other]] people.**
+- **Someone who [[h/_has|has]] a viable [[c/_chance|chance]] of winning a [[c/_competition|competition]].**
 ---
 ---

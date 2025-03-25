@@ -1,15 +1,15 @@
 # Coward
 ---
 #noun
-- **A person who lacks [[c/_courage|courage]].**
+- **A person who [[l/_lacks|lacks]] [[c/_courage|courage]].**
 ---
 ### Synonyms
 - [[c/_chicken|chicken]], [[y/_yellowbelly|yellowbelly]]
 #verb
-- **To intimidate.**
+- **To [[i/_intimidate|intimidate]].**
 ---
 #adjective
 - **[[c/_cowardly|Cowardly]].**
-- **(of a lion) [[b/_borne|Borne]] in the [[e/_escutcheon|escutcheon]] with his tail [[d/_doubled|doubled]] [[b/_between|between]] his legs.**
+- **(of a [[l/_lion|lion]]) [[b/_borne|Borne]] in the [[e/_escutcheon|escutcheon]] with [[h/_his|his]] tail [[d/_doubled|doubled]] [[b/_between|between]] [[h/_his|his]] [[l/_legs|legs]].**
 ---
 ---

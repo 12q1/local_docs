@@ -1,9 +1,9 @@
 # Allograft
 ---
 #noun
-- **A surgical transplant of tissue [[b/_between|between]] genetically [[d/_different|different]] individuals of the same species; a homograft or homotransplant**
+- **A surgical transplant of tissue [[b/_between|between]] [[g/_genetically|genetically]] [[d/_different|different]] [[i/_individuals|individuals]] of the same species; a [[h/_homograft|homograft]] or [[h/_homotransplant|homotransplant]]**
 ---
 #verb
-- **To perform a transplant of this kind.**
+- **To perform a transplant of this [[k/_kind|kind]].**
 ---
 ---

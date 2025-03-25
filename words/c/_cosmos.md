@@ -2,6 +2,6 @@
 ---
 #noun
 - **The universe.**
-- **An ordered, harmonious whole.**
+- **An [[o/_ordered|ordered]], [[h/_harmonious|harmonious]] whole.**
 ---
 ---

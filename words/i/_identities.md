@@ -1,0 +1,17 @@
+# Identities
+---
+#noun
+- **Sameness, [[i/_identicalness|identicalness]]; the quality or [[f/_fact|fact]] of (several specified things) [[b/_being|being]] the same.**
+- **The [[d/_difference|difference]] or [[c/_character|character]] that [[m/_marks|marks]] [[o/_off|off]] an [[i/_individual|individual]] or [[c/_collective|collective]] from the rest of the same [[k/_kind|kind]], selfhood, sense of who something or someone or [[o/_oneself|oneself]] is, or the recurring [[c/_characteristics|characteristics]] that [[e/_enable|enable]] the recognition of such an [[i/_individual|individual]] or [[g/_group|group]] by [[o/_others|others]] or themself.**
+	- _Example: I've been through so many changes, I have no sense of identity._
+- **A [[n/_name|name]] or persona—a [[m/_mask|mask]] or [[a/_appearance|appearance]] [[o/_one|one]] presents to the world—by which [[o/_one|one]] is [[k/_known|known]].**
+	- _Example: This criminal has taken on several identities._
+- **An [[e/_equation|equation]] which [[a/_always|always]] [[h/_holds|holds]] true regardless of the [[c/_choice|choice]] of [[i/_input|input]] variables.**
+- **[[a/_any|Any]] [[f/_function|function]] which [[m/_maps|maps]] [[a/_all|all]] [[e/_elements|elements]] of [[i/_its|its]] [[d/_domain|domain]] to themselves.**
+- **An [[e/_element|element]] of an [[a/_algebraic|algebraic]] structure which, when [[a/_applied|applied]] to [[a/_another|another]] [[e/_element|element]] under an [[o/_operation|operation]] in that structure, [[y/_yields|yields]] this second [[e/_element|element]].**
+- **A well-[[k/_known|known]] or [[f/_famous|famous]] person.**
+	- _Example: 2013 April 4, "Cricket identities consult lawyers", New Zealand Herald_
+---
+### Synonyms
+- [[i/_individuality|individuality]], [[s/_selfhood|selfhood]], [[c/_celebrity|celebrity]], [[p/_personality|personality]]
+---

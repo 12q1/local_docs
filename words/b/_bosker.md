@@ -1,9 +1,9 @@
 # Bosker
 ---
 #noun
-- **Someone or something impressive and wonderful.**
+- **Someone or something [[i/_impressive|impressive]] and wonderful.**
 ---
 #adjective
-- **Excellent; wonderful; [[b/_bonzer|bonzer]].**
+- **[[e/_excellent|Excellent]]; wonderful; [[b/_bonzer|bonzer]].**
 ---
 ---

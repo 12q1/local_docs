@@ -1,6 +1,6 @@
 # Amplexus
 ---
 #noun
-- **A form of pseudocopulation, found [[c/_chiefly|chiefly]] in [[a/_amphibians|amphibians]] and horseshoe [[c/_crabs|crabs]], in which a male grasps a female with his front legs as part of the mating process.**
+- **A [[f/_form|form]] of pseudocopulation, [[f/_found|found]] [[c/_chiefly|chiefly]] in [[a/_amphibians|amphibians]] and [[h/_horseshoe|horseshoe]] [[c/_crabs|crabs]], in which a [[m/_male|male]] [[g/_grasps|grasps]] a [[f/_female|female]] with [[h/_his|his]] [[f/_front|front]] [[l/_legs|legs]] as part of the [[m/_mating|mating]] process.**
 ---
 ---

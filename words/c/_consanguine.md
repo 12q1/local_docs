@@ -4,7 +4,7 @@
 - **A person related to [[a/_another|another]] by [[b/_birth|birth]].**
 ---
 #adjective
-- **Related by [[b/_birth|birth]] or "by [[b/_blood|blood]]", i.[[e/_e|e]]. having [[c/_close|close]] [[a/_ancestors|ancestors]] in [[c/_common|common]].**
+- **Related by [[b/_birth|birth]] or "by [[b/_blood|blood]]", [[i/_i|i]].[[e/_e|e]]. [[h/_having|having]] [[c/_close|close]] [[a/_ancestors|ancestors]] in [[c/_common|common]].**
 ---
 ### Synonyms
 - [[c/_consanguineous|consanguineous]]

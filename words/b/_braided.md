@@ -1,10 +1,10 @@
 # Braided
 ---
 #verb
-- **To make a sudden movement with, to jerk.**
-- **To start into motion.**
-- **To weave together, intertwine (strands of fibers, ribbons, [[e/_etc|etc]].); to [[a/_arrange|arrange]] (hair) in [[b/_braids|braids]].**
-- **To mix, or make uniformly soft, by [[b/_beating|beating]], rubbing, or straining, as in preparing food.**
+- **To [[m/_make|make]] a sudden [[m/_movement|movement]] with, to [[j/_jerk|jerk]].**
+- **To start [[i/_into|into]] [[m/_motion|motion]].**
+- **To weave together, [[i/_intertwine|intertwine]] (strands of [[f/_fibers|fibers]], ribbons, [[e/_etc|etc]].); to [[a/_arrange|arrange]] ([[h/_hair|hair]]) in [[b/_braids|braids]].**
+- **To [[m/_mix|mix]], or [[m/_make|make]] uniformly soft, by [[b/_beating|beating]], rubbing, or straining, as in preparing [[f/_food|food]].**
 - **To reproach; to upbraid.**
 ---
 ---

@@ -4,9 +4,9 @@
 - **A cisgender or cissexual person.**
 ---
 #noun
-- **An [[e/_effeminate|effeminate]] [[b/_boy|boy]] or man.**
+- **An [[e/_effeminate|effeminate]] [[b/_boy|boy]] or [[m/_man|man]].**
 - **A timid, unassertive or [[c/_cowardly|cowardly]] person.**
-- **(BDSM) A male crossdresser who [[a/_adopts|adopts]] feminine [[b/_behaviours|behaviours]].**
+- **(BDSM) A [[m/_male|male]] crossdresser who [[a/_adopts|adopts]] [[f/_feminine|feminine]] [[b/_behaviours|behaviours]].**
 - **Sister.**
 ---
 ### Synonyms

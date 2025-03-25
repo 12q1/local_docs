@@ -1,6 +1,6 @@
 # Autosome
 ---
 #noun
-- **[[a/_any|Any]] [[c/_chromosome|chromosome]] other than sex [[c/_chromosomes|chromosomes]].**
+- **[[a/_any|Any]] [[c/_chromosome|chromosome]] [[o/_other|other]] than sex [[c/_chromosomes|chromosomes]].**
 ---
 ---

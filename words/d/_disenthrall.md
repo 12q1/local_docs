@@ -1,6 +1,6 @@
 # Disenthrall
 ---
 #verb
-- **To free from slavery or [[c/_captivation|captivation]].**
+- **To [[f/_free|free]] from slavery or [[c/_captivation|captivation]].**
 ---
 ---

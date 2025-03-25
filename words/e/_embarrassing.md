@@ -1,11 +1,11 @@
 # Embarrassing
 ---
 #verb
-- **To humiliate; to [[d/_disrupt|disrupt]] somebody's [[c/_composure|composure]] or [[c/_comfort|comfort]] with [[a/_acting|acting]] publicly or freely; to [[d/_disconcert|disconcert]]; to [[a/_abash|abash]]**
+- **To [[h/_humiliate|humiliate]]; to [[d/_disrupt|disrupt]] somebody's [[c/_composure|composure]] or [[c/_comfort|comfort]] with [[a/_acting|acting]] publicly or [[f/_freely|freely]]; to [[d/_disconcert|disconcert]]; to [[a/_abash|abash]]**
 	- _Example: The crowd's laughter and jeers embarrassed him._
-- **To hinder from liberty of movement; to impede; to obstruct.**
+- **To [[h/_hinder|hinder]] from [[l/_liberty|liberty]] of [[m/_movement|movement]]; to [[i/_impede|impede]]; to [[o/_obstruct|obstruct]].**
 	- _Example: The motion was advanced in order to embarrass the progress of the bill._
-- **To involve in [[d/_difficulties|difficulties]] [[c/_concerning|concerning]] money matters; to [[e/_encumber|encumber]] with [[d/_debt|debt]]; to [[b/_beset|beset]] with urgent [[c/_claims|claims]] or [[d/_demands|demands]].**
+- **To [[i/_involve|involve]] in [[d/_difficulties|difficulties]] [[c/_concerning|concerning]] [[m/_money|money]] [[m/_matters|matters]]; to [[e/_encumber|encumber]] with [[d/_debt|debt]]; to [[b/_beset|beset]] with urgent [[c/_claims|claims]] or [[d/_demands|demands]].**
 	- _Example: A man or his business is embarrassed when he cannot meet his pecuniary engagements._
 ---
 ### Synonyms
@@ -14,7 +14,7 @@
 - **The [[a/_action|action]] of the verb to [[e/_embarrass|embarrass]]; [[e/_embarrassment|embarrassment]].**
 ---
 #adjective
-- **[[c/_causing|Causing]] [[e/_embarrassment|embarrassment]]; leading to a feeling of uncomfortable shame or self-[[c/_consciousness|consciousness]].**
+- **[[c/_causing|Causing]] [[e/_embarrassment|embarrassment]]; [[l/_leading|leading]] to a [[f/_feeling|feeling]] of uncomfortable shame or self-[[c/_consciousness|consciousness]].**
 ---
 ### Synonyms
 - [[a/_awkward|awkward]], [[s/_shameful|shameful]]

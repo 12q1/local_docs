@@ -2,12 +2,12 @@
 ---
 #verb
 - **To [[d/_drive|drive]] together, round up**
-- **To overpower; to subdue.**
-- **To force, [[c/_constrain|constrain]] or [[c/_coerce|coerce]].**
+- **To [[o/_overpower|overpower]]; to subdue.**
+- **To [[f/_force|force]], [[c/_constrain|constrain]] or [[c/_coerce|coerce]].**
 	- _Example: Logic compels the wise, while fools feel compelled by emotions._
-- **To exact, extort, (make) produce by force.**
-- **To force to yield; to overpower; to subjugate.**
-- **To gather or unite in a [[c/_crowd|crowd]] or [[c/_company|company]].**
-- **To [[c/_call|call]] forth; to summon.**
+- **To [[e/_exact|exact]], [[e/_extort|extort]], ([[m/_make|make]]) produce by [[f/_force|force]].**
+- **To [[f/_force|force]] to [[y/_yield|yield]]; to [[o/_overpower|overpower]]; to subjugate.**
+- **To [[g/_gather|gather]] or unite in a [[c/_crowd|crowd]] or [[c/_company|company]].**
+- **To [[c/_call|call]] [[f/_forth|forth]]; to summon.**
 ---
 ---

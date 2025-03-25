@@ -1,6 +1,6 @@
 # Electromagnet
 ---
 #noun
-- **A magnet which [[a/_attracts|attracts]] metals only when [[e/_electrically|electrically]] [[a/_activated|activated]]**
+- **A [[m/_magnet|magnet]] which [[a/_attracts|attracts]] [[m/_metals|metals]] [[o/_only|only]] when [[e/_electrically|electrically]] [[a/_activated|activated]]**
 ---
 ---

@@ -2,10 +2,10 @@
 ---
 #noun
 - **An [[a/_action|action]] or [[a/_act|act]]; something that is [[d/_done|done]].**
-- **A [[b/_brave|brave]] or noteworthy [[a/_action|action]]; a feat or exploit.**
-- **[[a/_action|Action]] or fact, as opposed to rhetoric or [[d/_deliberation|deliberation]].**
+- **A [[b/_brave|brave]] or [[n/_noteworthy|noteworthy]] [[a/_action|action]]; a [[f/_feat|feat]] or [[e/_exploit|exploit]].**
+- **[[a/_action|Action]] or [[f/_fact|fact]], as [[o/_opposed|opposed]] to rhetoric or [[d/_deliberation|deliberation]].**
 	- _Example: I have fulfilled my promise in word and in deed._
-- **A legal instrument that is executed under seal or [[b/_before|before]] witnesses.**
+- **A [[l/_legal|legal]] [[i/_instrument|instrument]] that is [[e/_executed|executed]] under seal or [[b/_before|before]] witnesses.**
 	- _Example: I inherited the deed to the house._
 ---
 ### Synonyms

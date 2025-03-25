@@ -1,31 +1,31 @@
 # Blocking
 ---
 #verb
-- **To fill (something) so that it is not possible to pass.**
+- **To [[f/_fill|fill]] (something) so that it is not possible to pass.**
 	- _Example: The pipe is blocked._
 - **To prevent (something or someone) from passing.**
 	- _Example: You're blocking the road – I can't get through!_
-- **To prevent (something from happening or someone from [[d/_doing|doing]] something).**
+- **To prevent (something from [[h/_happening|happening]] or someone from [[d/_doing|doing]] something).**
 	- _Example: His plan to take over the business was blocked by the boss._
-- **To impede an opponent.**
+- **To [[i/_impede|impede]] an [[o/_opponent|opponent]].**
 	- _Example: He blocked the basketball player's shot._
-- **To specify the positions and movements of the [[a/_actors|actors]].**
+- **To specify the positions and [[m/_movements|movements]] of the [[a/_actors|actors]].**
 	- _Example: It was very difficult to block this scene convincingly._
-- **To hit with a [[b/_block|block]].**
+- **To [[h/_hit|hit]] with a [[b/_block|block]].**
 - **To play a [[b/_block|block]] shot.**
-- **To [[d/_disable|disable]] [[c/_communication|communication]] via telephone, instant messaging, [[e/_etc|etc]]., with an undesirable someone.**
+- **To [[d/_disable|disable]] [[c/_communication|communication]] via telephone, [[i/_instant|instant]] [[m/_messaging|messaging]], [[e/_etc|etc]]., with an undesirable someone.**
 	- _Example: I tried to send you a message, but you've blocked me!_
 - **To wait.**
 	- _Example: When the condition expression is false, the thread blocks on the condition variable._
-- **To stretch or mould (a knitted item, a hat, [[e/_etc|etc]].) into the [[d/_desired|desired]] shape.**
+- **To stretch or [[m/_mould|mould]] (a [[k/_knitted|knitted]] [[i/_item|item]], a [[h/_hat|hat]], [[e/_etc|etc]].) [[i/_into|into]] the [[d/_desired|desired]] shape.**
 	- _Example: I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard._
-- **To shape or sketch out roughly.**
+- **To shape or sketch [[o/_out|out]] roughly.**
 ---
 #noun
-- **The [[a/_act|act]] by which something is [[b/_blocked|blocked]]; an obstruction.**
+- **The [[a/_act|act]] by which something is [[b/_blocked|blocked]]; an [[o/_obstruction|obstruction]].**
 	- _Example: blocking of major opposition sites_
-- **The precise movement and positioning of [[a/_actors|actors]] on a stage in order to facilitate the performance of a play, [[b/_ballet|ballet]], film or opera (originally planned using miniature [[b/_blocks|blocks]]).**
+- **The precise [[m/_movement|movement]] and positioning of [[a/_actors|actors]] on a stage in [[o/_order|order]] to [[f/_facilitate|facilitate]] the performance of a play, [[b/_ballet|ballet]], [[f/_film|film]] or [[o/_opera|opera]] ([[o/_originally|originally]] planned using [[m/_miniature|miniature]] [[b/_blocks|blocks]]).**
 - **[[b/_blocks|Blocks]] used to support (a [[b/_building|building]], [[e/_etc|etc]].) temporarily.**
-- **A feature that prevents a keyboard from registering multiple simultaneous keypresses that would [[c/_cause|cause]] ghosting.**
+- **A [[f/_feature|feature]] that prevents a [[k/_keyboard|keyboard]] from registering [[m/_multiple|multiple]] simultaneous [[k/_keypresses|keypresses]] that would [[c/_cause|cause]] [[g/_ghosting|ghosting]].**
 ---
 ---

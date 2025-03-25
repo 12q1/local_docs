@@ -2,6 +2,6 @@
 ---
 #verb
 - **To [[e/_establish|establish]] a [[c/_camp|camp]] or temporary shelter.**
-- **To form into a [[c/_camp|camp]].**
+- **To [[f/_form|form]] [[i/_into|into]] a [[c/_camp|camp]].**
 ---
 ---

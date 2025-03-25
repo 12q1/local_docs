@@ -1,8 +1,8 @@
 # Caballero
 ---
 #noun
-- **A horseman, particularly in the Latin [[a/_american|American]] [[c/_context|context]]**
-- **A Spanish gentleman.**
-- **A Spanish line [[d/_dance|dance]].**
+- **A [[h/_horseman|horseman]], particularly in the [[l/_latin|Latin]] [[a/_american|American]] [[c/_context|context]]**
+- **A Spanish [[g/_gentleman|gentleman]].**
+- **A Spanish [[l/_line|line]] [[d/_dance|dance]].**
 ---
 ---

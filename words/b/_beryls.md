@@ -1,9 +1,9 @@
 # Beryls
 ---
 #noun
-- **A mineral of pegmatite [[d/_deposits|deposits]], often used as a gemstone.**
-- **An example (a stone) of the mineral [[b/_beryl|beryl]].**
+- **A [[m/_mineral|mineral]] of pegmatite [[d/_deposits|deposits]], [[o/_often|often]] used as a [[g/_gemstone|gemstone]].**
+- **An [[e/_example|example]] (a stone) of the [[m/_mineral|mineral]] [[b/_beryl|beryl]].**
 	- _Example: The crown was set with six beryls of excellent size and color._
-- **A [[d/_dull|dull]] [[b/_blueish|blueish]] green [[c/_colour|colour]].**
+- **A [[d/_dull|dull]] [[b/_blueish|blueish]] [[g/_green|green]] [[c/_colour|colour]].**
 ---
 ---

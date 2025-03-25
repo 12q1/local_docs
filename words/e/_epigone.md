@@ -1,8 +1,8 @@
 # Epigone
 ---
 #noun
-- **A follower or [[d/_disciple|disciple]].**
-- **An undistinguished or inferior imitator of a well known [[a/_artist|artist]] or their style.**
+- **A [[f/_follower|follower]] or [[d/_disciple|disciple]].**
+- **An undistinguished or [[i/_inferior|inferior]] [[i/_imitator|imitator]] of a well [[k/_known|known]] [[a/_artist|artist]] or their style.**
 ---
 ### Synonyms
 - [[i/_imitator|imitator]]

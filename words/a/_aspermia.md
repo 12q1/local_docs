@@ -1,6 +1,6 @@
 # Aspermia
 ---
 #noun
-- **A form of infertility [[a/_associated|associated]] with a failure to produce semen.**
+- **A [[f/_form|form]] of [[i/_infertility|infertility]] [[a/_associated|associated]] with a [[f/_failure|failure]] to produce semen.**
 ---
 ---

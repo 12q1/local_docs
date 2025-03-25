@@ -1,30 +1,30 @@
 # Demand
 ---
 #noun
-- **The [[d/_desire|desire]] to purchase goods and services.**
+- **The [[d/_desire|desire]] to purchase [[g/_goods|goods]] and services.**
 	- _Example: Prices usually go up when demand exceeds supply._
-- **The [[a/_amount|amount]] of a good or service that [[c/_consumers|consumers]] are willing to [[b/_buy|buy]] at a particular price.**
-- **A forceful [[c/_claim|claim]] for something.**
+- **The [[a/_amount|amount]] of a [[g/_good|good]] or service that [[c/_consumers|consumers]] are willing to [[b/_buy|buy]] at a particular price.**
+- **A [[f/_forceful|forceful]] [[c/_claim|claim]] for something.**
 	- _Example: Modern society is responding to women's demands for equality._
 - **A requirement.**
 	- _Example: His job makes many demands on his time._
 - **An urgent request.**
 	- _Example: She couldn't ignore the newborn baby's demands for attention._
-- **An order.**
-- **([[e/_electricity|electricity]] supply) More precisely peak [[d/_demand|demand]] or peak load, a measure of the maximum power load of a utility's [[c/_customer|customer]] over a short period of time; the power load integrated over a specified time interval.**
+- **An [[o/_order|order]].**
+- **([[e/_electricity|electricity]] supply) [[m/_more|More]] precisely peak [[d/_demand|demand]] or peak [[l/_load|load]], a [[m/_measure|measure]] of the [[m/_maximum|maximum]] power [[l/_load|load]] of a utility's [[c/_customer|customer]] [[o/_over|over]] a short period of time; the power [[l/_load|load]] [[i/_integrated|integrated]] [[o/_over|over]] a specified time [[i/_interval|interval]].**
 ---
 ### Synonyms
 - [[i/_imposition|imposition]]
 #verb
-- **To request forcefully.**
+- **To request [[f/_forcefully|forcefully]].**
 	- _Example: I demand to see the manager._
 - **To [[c/_claim|claim]] a right to something.**
 	- _Example: The bank is demanding the mortgage payment._
-- **To [[a/_ask|ask]] forcefully for information.**
+- **To [[a/_ask|ask]] [[f/_forcefully|forcefully]] for [[i/_information|information]].**
 	- _Example: I demand an immediate explanation._
 - **To require of someone.**
 	- _Example: This job demands a lot of patience._
-- **To issue a summons to [[c/_court|court]].**
+- **To [[i/_issue|issue]] a summons to [[c/_court|court]].**
 ---
 ### Synonyms
 - [[f/_frain|frain]], [[i/_insist|insist]]

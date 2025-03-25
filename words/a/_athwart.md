@@ -10,11 +10,11 @@
 ### Synonyms
 - [[o/_overthwart|overthwart]]
 #preposition
-- **From one side to the other side of.**
+- **From [[o/_one|one]] side to the [[o/_other|other]] side of.**
 	- _Example: The stars moved slowly athwart the sky._
-- **[[a/_across|Across]] the line of a ship's [[c/_course|course]] or [[a/_across|across]] its [[d/_deck|deck]].**
+- **[[a/_across|Across]] the [[l/_line|line]] of a ship's [[c/_course|course]] or [[a/_across|across]] [[i/_its|its]] [[d/_deck|deck]].**
 	- _Example: The damaged mainmast fell athwart the deck, destroying the ship's boat._
-- **[[a/_across|Across]] the path or [[c/_course|course]] of; opposing.**
+- **[[a/_across|Across]] the path or [[c/_course|course]] of; [[o/_opposing|opposing]].**
 ---
 ### Synonyms
 - [[o/_opposing|opposing]], [[o/_overthwart|overthwart]]

@@ -1,6 +1,6 @@
 # Capeskin
 ---
 #noun
-- **A soft sheepskin leather [[e/_especially|especially]] used for gloves.**
+- **A soft sheepskin [[l/_leather|leather]] [[e/_especially|especially]] used for [[g/_gloves|gloves]].**
 ---
 ---

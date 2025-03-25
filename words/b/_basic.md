@@ -1,19 +1,19 @@
 # Basic
 ---
 #noun
-- **A necessary [[c/_commodity|commodity]], a staple requirement.**
+- **A [[n/_necessary|necessary]] [[c/_commodity|commodity]], a staple requirement.**
 	- _Example: Rice is a basic for many Asian villagers._
-- **An [[e/_elementary|elementary]] [[b/_building|building]] [[b/_block|block]], [[e/_e|e]].g. a fundamental piece of knowledge.**
+- **An [[e/_elementary|elementary]] [[b/_building|building]] [[b/_block|block]], [[e/_e|e]].[[g/_g|g]]. a [[f/_fundamental|fundamental]] piece of [[k/_knowledge|knowledge]].**
 	- _Example: Arithmetic is a basic for the study of mathematics._
 - **[[b/_basic|Basic]] training.**
 	- _Example: The drill sergeants gave him hell in basic._
 ---
 #adjective
-- **Necessary, [[e/_essential|essential]] for life or some process.**
+- **[[n/_necessary|Necessary]], [[e/_essential|essential]] for [[l/_life|life]] or some process.**
 	- _Example: Flour is a basic ingredient of bread._
-- **[[e/_elementary|Elementary]], simple, fundamental, merely functional.**
+- **[[e/_elementary|Elementary]], simple, [[f/_fundamental|fundamental]], [[m/_merely|merely]] [[f/_functional|functional]].**
 	- _Example: The Hotel Sparta’s accommodation is very basic._
-- **Of or pertaining to a [[b/_base|base]]; having a pH greater than 7.**
+- **Of or pertaining to a [[b/_base|base]]; [[h/_having|having]] a pH [[g/_greater|greater]] than 7.**
 - **Unremarkable or uninteresting; [[b/_boring|boring]]; uncool.**
 ---
 ### Synonyms

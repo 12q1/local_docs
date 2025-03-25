@@ -2,8 +2,8 @@
 ---
 #noun
 - **A [[b/_bay|bay]]. (the water)**
-- **The shoreline of a [[b/_bay|bay]], an indentation in a shoreline. (the land, not the water)**
-- **A topographical feature that used to be a [[b/_bay|bay]], like the Mississippi [[e/_embayment|embayment]].**
-- **The process by which a [[b/_bay|bay]] is formed.**
+- **The shoreline of a [[b/_bay|bay]], an [[i/_indentation|indentation]] in a shoreline. (the [[l/_land|land]], not the water)**
+- **A topographical [[f/_feature|feature]] that used to be a [[b/_bay|bay]], [[l/_like|like]] the [[m/_mississippi|Mississippi]] [[e/_embayment|embayment]].**
+- **The process by which a [[b/_bay|bay]] is [[f/_formed|formed]].**
 ---
 ---

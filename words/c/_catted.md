@@ -1,14 +1,14 @@
 # Catted
 ---
 #verb
-- **To hoist (the [[a/_anchor|anchor]]) by its ring so that it hangs at the [[c/_cathead|cathead]].**
-- **To flog with a [[c/_cat|cat]]-o'-nine-tails.**
+- **To [[h/_hoist|hoist]] (the [[a/_anchor|anchor]]) by [[i/_its|its]] ring so that it [[h/_hangs|hangs]] at the [[c/_cathead|cathead]].**
+- **To [[f/_flog|flog]] with a [[c/_cat|cat]]-[[o/_o|o]]'-[[n/_nine|nine]]-tails.**
 - **To vomit.**
-- **To go wandering at night.**
-- **To gossip in a [[c/_catty|catty]] manner.**
+- **To [[g/_go|go]] wandering at [[n/_night|night]].**
+- **To [[g/_gossip|gossip]] in a [[c/_catty|catty]] [[m/_manner|manner]].**
 ---
 #verb
-- **To [[a/_apply|apply]] the [[c/_cat|cat]] [[c/_command|command]] to (one or more files).**
-- **To [[d/_dump|dump]] large [[a/_amounts|amounts]] of [[d/_data|data]] on (an unprepared target) usually with no intention of [[b/_browsing|browsing]] it [[c/_carefully|carefully]].**
+- **To [[a/_apply|apply]] the [[c/_cat|cat]] [[c/_command|command]] to ([[o/_one|one]] or [[m/_more|more]] [[f/_files|files]]).**
+- **To [[d/_dump|dump]] [[l/_large|large]] [[a/_amounts|amounts]] of [[d/_data|data]] on (an unprepared target) usually with [[n/_no|no]] [[i/_intention|intention]] of [[b/_browsing|browsing]] it [[c/_carefully|carefully]].**
 ---
 ---

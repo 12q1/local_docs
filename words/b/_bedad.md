@@ -1,6 +1,6 @@
 # Bedad
 ---
 #interjection
-- **By God**
+- **By [[g/_god|God]]**
 ---
 ---

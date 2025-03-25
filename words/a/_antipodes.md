@@ -1,12 +1,12 @@
 # Antipodes
 ---
 #noun
-- **Something [[d/_directly|directly]] opposite or [[d/_diametrically|diametrically]] opposed.**
+- **Something [[d/_directly|directly]] [[o/_opposite|opposite]] or [[d/_diametrically|diametrically]] [[o/_opposed|opposed]].**
 ---
 #noun
-- **The place on the [[d/_diametrically|diametrically]] opposite side of the [[e/_earth|earth]] from a given point.**
-- **The Southern Hemisphere.**
-- **[[a/_australia|Australia]] and New Zealand.**
-- **(by extension) The opposite of something.**
+- **The place on the [[d/_diametrically|diametrically]] [[o/_opposite|opposite]] side of the [[e/_earth|earth]] from a [[g/_given|given]] point.**
+- **The Southern [[h/_hemisphere|Hemisphere]].**
+- **[[a/_australia|Australia]] and [[n/_new|New]] Zealand.**
+- **(by [[e/_extension|extension]]) The [[o/_opposite|opposite]] of something.**
 ---
 ---

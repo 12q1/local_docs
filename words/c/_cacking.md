@@ -2,11 +2,11 @@
 ---
 #verb
 - **To [[d/_defecate|defecate]].**
-- **To kill.**
+- **To [[k/_kill|kill]].**
 	- _Example: “He tried to shoot me, so I cacked him.”_
 ---
 #verb
-- **To laugh.**
+- **To [[l/_laugh|laugh]].**
 	- _Example: I had to cack when you fell down the stairs._
 ---
 ---

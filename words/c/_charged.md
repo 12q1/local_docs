@@ -4,20 +4,20 @@
 - **To [[a/_assign|assign]] a [[d/_duty|duty]] or responsibility to**
 - **To [[a/_assign|assign]] (a [[d/_debit|debit]]) to an [[a/_account|account]]**
 	- _Example: Let's charge this to marketing._
-- **To pay on [[a/_account|account]], as by using a [[c/_credit|credit]] [[c/_card|card]]**
+- **To [[p/_pay|pay]] on [[a/_account|account]], as by using a [[c/_credit|credit]] [[c/_card|card]]**
 	- _Example: Can I charge my purchase to my credit card?_
-- **To require payment (of) (a price or fee, for goods, services, [[e/_etc|etc]].)**
+- **To require [[p/_payment|payment]] (of) (a price or [[f/_fee|fee]], for [[g/_goods|goods]], services, [[e/_etc|etc]].)**
 	- _Example: I won't charge you for the wheat_
-- **(possibly [[a/_archaic|archaic]]) to sell at a given price.**
+- **(possibly [[a/_archaic|archaic]]) to sell at a [[g/_given|given]] price.**
 	- _Example: to charge coal at $5 per unit_
-- **To formally [[a/_accuse|accuse]] (a person) of a [[c/_crime|crime]].**
+- **To [[f/_formally|formally]] [[a/_accuse|accuse]] (a person) of a [[c/_crime|crime]].**
 	- _Example: I'm charging you with assault and battery._
-- **To impute or [[a/_ascribe|ascribe]]**
+- **To [[i/_impute|impute]] or [[a/_ascribe|ascribe]]**
 - **To [[c/_call|call]] to [[a/_account|account]]; to [[c/_challenge|challenge]]**
-- **To place a [[b/_burden|burden]] or load on or in**
-- **To load [[e/_equipment|equipment]] with material required for its use, as a firearm with powder, a fire hose with water, a [[c/_chemical|chemical]] reactor with raw materials**
+- **To place a [[b/_burden|burden]] or [[l/_load|load]] on or in**
+- **To [[l/_load|load]] [[e/_equipment|equipment]] with [[m/_material|material]] required for [[i/_its|its]] use, as a [[f/_firearm|firearm]] with powder, a [[f/_fire|fire]] [[h/_hose|hose]] with water, a [[c/_chemical|chemical]] reactor with raw [[m/_materials|materials]]**
 	- _Example: Charge your weapons; we're moving up._
-- **To move forward quickly and forcefully, particularly in [[c/_combat|combat]] and/or on horseback**
-- **(of a hunting [[d/_dog|dog]]) to lie on the [[b/_belly|belly]] and be still (A [[c/_command|command]] given by a hunter to a [[d/_dog|dog]])**
+- **To [[m/_move|move]] [[f/_forward|forward]] quickly and [[f/_forcefully|forcefully]], particularly in [[c/_combat|combat]] and/or on [[h/_horseback|horseback]]**
+- **(of a [[h/_hunting|hunting]] [[d/_dog|dog]]) to [[l/_lie|lie]] on the [[b/_belly|belly]] and be still (A [[c/_command|command]] [[g/_given|given]] by a [[h/_hunter|hunter]] to a [[d/_dog|dog]])**
 ---
 ---

@@ -1,7 +1,7 @@
 # Caterpillars
 ---
 #noun
-- **The larva of a [[b/_butterfly|butterfly]] or moth; leafworm.**
+- **The [[l/_larva|larva]] of a [[b/_butterfly|butterfly]] or [[m/_moth|moth]]; [[l/_leafworm|leafworm]].**
 	- _Example: The bird just ate that green caterpillar._
 - **A vehicle with a [[c/_caterpillar|caterpillar]] track; a [[c/_crawler|crawler]].**
 ---

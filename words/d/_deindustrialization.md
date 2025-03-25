@@ -1,7 +1,7 @@
 # Deindustrialization
 ---
 #noun
-- **The loss or [[d/_deprivation|deprivation]] of industrial [[c/_capacity|capacity]] or strength.**
+- **The [[l/_loss|loss]] or [[d/_deprivation|deprivation]] of [[i/_industrial|industrial]] [[c/_capacity|capacity]] or strength.**
 ---
 ### Antonyms
 - [[i/_industrialization|industrialization]]

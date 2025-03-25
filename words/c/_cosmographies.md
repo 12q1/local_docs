@@ -1,7 +1,7 @@
 # Cosmographies
 ---
 #noun
-- **The [[c/_creation|creation]] of maps of the universe.**
-- **The study of the size and geometry of the universe and [[c/_changes|changes]] in those with [[c/_cosmic|cosmic]] time.**
+- **The [[c/_creation|creation]] of [[m/_maps|maps]] of the universe.**
+- **The study of the size and [[g/_geometry|geometry]] of the universe and [[c/_changes|changes]] in those with [[c/_cosmic|cosmic]] time.**
 ---
 ---

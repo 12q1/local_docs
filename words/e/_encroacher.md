@@ -1,6 +1,6 @@
 # Encroacher
 ---
 #noun
-- **One who [[e/_encroaches|encroaches]].**
+- **[[o/_one|One]] who [[e/_encroaches|encroaches]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Diatomic
 ---
 #noun
-- **A [[d/_diatomic|diatomic]] molecule or other species**
+- **A [[d/_diatomic|diatomic]] [[m/_molecule|molecule]] or [[o/_other|other]] species**
 ---
 #adjective
-- **(of a molecule [[e/_etc|etc]].) [[c/_consisting|Consisting]] of two [[a/_atoms|atoms]].**
+- **(of a [[m/_molecule|molecule]] [[e/_etc|etc]].) [[c/_consisting|Consisting]] of two [[a/_atoms|atoms]].**
 ---
 ---

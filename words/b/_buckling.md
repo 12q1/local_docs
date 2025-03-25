@@ -2,23 +2,23 @@
 ---
 #verb
 - **To [[d/_distort|distort]] or [[c/_collapse|collapse]] under physical pressure; [[e/_especially|especially]], of a slender structure in [[c/_compression|compression]].**
-- **To make [[b/_bend|bend]]; to [[c/_cause|cause]] to [[b/_become|become]] [[d/_distorted|distorted]].**
-- **To give in; to react suddenly or [[a/_adversely|adversely]] to stress or pressure (of a person).**
+- **To [[m/_make|make]] [[b/_bend|bend]]; to [[c/_cause|cause]] to [[b/_become|become]] [[d/_distorted|distorted]].**
+- **To [[g/_give|give]] in; to react suddenly or [[a/_adversely|adversely]] to stress or pressure (of a person).**
 	- _Example: It is amazing that he has never buckled after so many years of doing such urgent work._
-- **To yield; to give way; to [[c/_cease|cease]] opposing.**
-- **To [[e/_enter|enter]] upon some labour or [[c/_contest|contest]]; to join in [[c/_close|close]] fight; to [[c/_contend|contend]].**
-- **To [[b/_buckle|buckle]] [[d/_down|down]]; to [[a/_apply|apply]] oneself.**
+- **To [[y/_yield|yield]]; to [[g/_give|give]] way; to [[c/_cease|cease]] [[o/_opposing|opposing]].**
+- **To [[e/_enter|enter]] upon some [[l/_labour|labour]] or [[c/_contest|contest]]; to [[j/_join|join]] in [[c/_close|close]] [[f/_fight|fight]]; to [[c/_contend|contend]].**
+- **To [[b/_buckle|buckle]] [[d/_down|down]]; to [[a/_apply|apply]] [[o/_oneself|oneself]].**
 ---
 #verb
-- **To fasten using a [[b/_buckle|buckle]].**
-- **To unite in marriage.**
+- **To [[f/_fasten|fasten]] using a [[b/_buckle|buckle]].**
+- **To unite in [[m/_marriage|marriage]].**
 ---
 #noun
-- **The [[a/_act|act]] of fastening a [[b/_buckle|buckle]].**
-- **A folding into hills and valleys.**
+- **The [[a/_act|act]] of [[f/_fastening|fastening]] a [[b/_buckle|buckle]].**
+- **A [[f/_folding|folding]] [[i/_into|into]] [[h/_hills|hills]] and valleys.**
 - **The [[a/_action|action]] of [[c/_collapsing|collapsing]] under pressure or stress.**
 ---
 #adjective
-- **Wavy; [[c/_curly|curly]], as hair.**
+- **Wavy; [[c/_curly|curly]], as [[h/_hair|hair]].**
 ---
 ---

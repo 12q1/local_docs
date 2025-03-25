@@ -1,12 +1,12 @@
 # Cark
 ---
 #noun
-- **A noxious or [[c/_corroding|corroding]] worry.**
-- **The state of [[b/_being|being]] filled with worry.**
+- **A [[n/_noxious|noxious]] or [[c/_corroding|corroding]] worry.**
+- **The state of [[b/_being|being]] [[f/_filled|filled]] with worry.**
 ---
 #verb
-- **To be filled with worry, solicitude, or troubles.**
+- **To be [[f/_filled|filled]] with worry, solicitude, or troubles.**
 - **To [[b/_bring|bring]] worry, vexation, or [[a/_anxiety|anxiety]].**
-- **To labor [[a/_anxiously|anxiously]].**
+- **To [[l/_labor|labor]] [[a/_anxiously|anxiously]].**
 ---
 ---

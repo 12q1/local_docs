@@ -1,0 +1,6 @@
+# Inutile
+---
+#adjective
+- **Useless; unprofitable**
+---
+---

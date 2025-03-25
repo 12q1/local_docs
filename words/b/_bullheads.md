@@ -1,12 +1,12 @@
 # Bullheads
 ---
 #noun
-- **[[a/_any|Any]] of a variety of related species of generally [[d/_dark|dark]]-[[c/_colored|colored]] [[c/_catfish|catfish]] in the family Ictaluridae.**
-- **(Europe, [[a/_asia|Asia]]) [[a/_any|Any]] of various sculpins of the suborder Scorpaenoidei**
-- **(Europe, [[a/_asia|Asia]]) The European [[b/_bullhead|bullhead]], [[c/_cottus|Cottus]] gobio.**
-- **A fish of species Gobiomorphus gobioides.**
-- **An obstinate person.**
+- **[[a/_any|Any]] of a variety of related species of [[g/_generally|generally]] [[d/_dark|dark]]-[[c/_colored|colored]] [[c/_catfish|catfish]] in the [[f/_family|family]] Ictaluridae.**
+- **([[e/_europe|Europe]], [[a/_asia|Asia]]) [[a/_any|Any]] of various sculpins of the suborder Scorpaenoidei**
+- **([[e/_europe|Europe]], [[a/_asia|Asia]]) The [[e/_european|European]] [[b/_bullhead|bullhead]], [[c/_cottus|Cottus]] [[g/_gobio|gobio]].**
+- **A [[f/_fish|fish]] of species Gobiomorphus gobioides.**
+- **An [[o/_obstinate|obstinate]] person.**
 - **A [[b/_bullhead|bullhead]] rail.**
-- **A [[c/_chronograph|chronograph]] (watch or stopwatch) with two push [[b/_buttons|buttons]] [[a/_arranged|arranged]] like the horns of a [[b/_bull|bull]] on the top [[e/_end|end]] of the [[c/_case|case]], typically with the [[c/_crown|crown]] [[b/_between|between]] them.**
+- **A [[c/_chronograph|chronograph]] (watch or stopwatch) with two push [[b/_buttons|buttons]] [[a/_arranged|arranged]] [[l/_like|like]] the [[h/_horns|horns]] of a [[b/_bull|bull]] on the top [[e/_end|end]] of the [[c/_case|case]], typically with the [[c/_crown|crown]] [[b/_between|between]] them.**
 ---
 ---

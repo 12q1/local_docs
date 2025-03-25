@@ -1,6 +1,6 @@
 # Amperes
 ---
 #noun
-- **A unit of [[e/_electrical|electrical]] [[c/_current|current]], the standard [[b/_base|base]] unit in the International System of Units; [[c/_colloquially|colloquially]] [[a/_amp|amp]]. [[a/_abbreviation|Abbreviation]]: [[a/_amp|amp]], Symbol: A**
+- **A unit of [[e/_electrical|electrical]] [[c/_current|current]], the standard [[b/_base|base]] unit in the [[i/_international|International]] System of Units; [[c/_colloquially|colloquially]] [[a/_amp|amp]]. [[a/_abbreviation|Abbreviation]]: [[a/_amp|amp]], Symbol: A**
 ---
 ---

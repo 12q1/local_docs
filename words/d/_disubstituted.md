@@ -1,6 +1,6 @@
 # Disubstituted
 ---
 #adjective
-- **Having two substituents**
+- **[[h/_having|Having]] two substituents**
 ---
 ---

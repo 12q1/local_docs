@@ -1,6 +1,6 @@
 # Challis
 ---
 #noun
-- **A light, soft fabric of silk and worsted, having a printed [[d/_design|design]].**
+- **A [[l/_light|light]], soft [[f/_fabric|fabric]] of silk and worsted, [[h/_having|having]] a printed [[d/_design|design]].**
 ---
 ---

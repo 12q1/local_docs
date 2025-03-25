@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Soiled, [[d/_dirty|dirty]].**
-- **Obscene; filthy; unchaste.**
-- **(of language) Sexual in nature and usually meant to be humorous but [[c/_considered|considered]] rude.**
+- **[[o/_obscene|Obscene]]; [[f/_filthy|filthy]]; unchaste.**
+- **(of [[l/_language|language]]) Sexual in [[n/_nature|nature]] and usually [[m/_meant|meant]] to be [[h/_humorous|humorous]] but [[c/_considered|considered]] rude.**
 ---
 ---

@@ -1,0 +1,6 @@
+# Micturated
+---
+#verb
+- **To urinate.**
+---
+---

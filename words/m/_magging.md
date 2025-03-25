@@ -1,0 +1,6 @@
+# Magging
+---
+#verb
+- **To steal.**
+---
+---

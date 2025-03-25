@@ -1,17 +1,17 @@
 # Deepest
 ---
 #adjective
-- **(of a physical [[d/_distance|distance]]) Extending far [[a/_away|away]] from a point of reference, [[e/_especially|especially]] [[d/_downwards|downwards]].**
-- **(intellectual, social) [[c/_complex|Complex]], involved.**
-- **(sound, voice) Low in pitch.**
+- **(of a physical [[d/_distance|distance]]) [[e/_extending|Extending]] [[f/_far|far]] [[a/_away|away]] from a point of reference, [[e/_especially|especially]] [[d/_downwards|downwards]].**
+- **([[i/_intellectual|intellectual]], social) [[c/_complex|Complex]], [[i/_involved|involved]].**
+- **(sound, voice) [[l/_low|Low]] in pitch.**
 	- _Example: She has a very deep contralto voice._
-- **(of a [[c/_color|color]]) Highly saturated.**
+- **(of a [[c/_color|color]]) [[h/_highly|Highly]] saturated.**
 	- _Example: That's a very deep shade of blue._
-- **(sleep) Sound, heavy ([[d/_describing|describing]] a state of sleep from which one is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
+- **(sleep) Sound, [[h/_heavy|heavy]] ([[d/_describing|describing]] a state of sleep from which [[o/_one|one]] is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
 	- _Example: He was in a deep sleep._
-- **Immersed, submerged (in).**
+- **[[i/_immersed|Immersed]], submerged (in).**
 	- _Example: deep in debt_
-- **Muddy; [[b/_boggy|boggy]]; sandy; said of roads.**
+- **[[m/_muddy|Muddy]]; [[b/_boggy|boggy]]; sandy; said of roads.**
 - **(of time) [[d/_distant|Distant]] in the past, [[a/_ancient|ancient]].**
 	- _Example: deep time_
 ---

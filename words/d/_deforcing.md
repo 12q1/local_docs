@@ -1,7 +1,7 @@
 # Deforcing
 ---
 #verb
-- **To withhold land unlawfully from its true owner or from [[a/_any|any]] other person who has a right to the possession of it, [[a/_after|after]] one has lawfully [[e/_entered|entered]] and taken possession of it.**
-- **To resist an officer of the law in the execution of his [[d/_duty|duty]].**
+- **To withhold [[l/_land|land]] unlawfully from [[i/_its|its]] true [[o/_owner|owner]] or from [[a/_any|any]] [[o/_other|other]] person who [[h/_has|has]] a right to the possession of it, [[a/_after|after]] [[o/_one|one]] [[h/_has|has]] [[l/_lawfully|lawfully]] [[e/_entered|entered]] and taken possession of it.**
+- **To resist an [[o/_officer|officer]] of the [[l/_law|law]] in the [[e/_execution|execution]] of [[h/_his|his]] [[d/_duty|duty]].**
 ---
 ---

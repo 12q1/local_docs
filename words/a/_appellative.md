@@ -1,11 +1,11 @@
 # Appellative
 ---
 #noun
-- **A [[c/_common|common]] noun**
+- **A [[c/_common|common]] [[n/_noun|noun]]**
 - **An [[e/_epithet|epithet]]**
 ---
 #adjective
-- **(grammar) of or pertaining to an [[a/_appellative|appellative]] noun or [[c/_common|common]] noun**
-- **Of or pertaining to [[a/_ascribing|ascribing]] names**
+- **([[g/_grammar|grammar]]) of or pertaining to an [[a/_appellative|appellative]] [[n/_noun|noun]] or [[c/_common|common]] [[n/_noun|noun]]**
+- **Of or pertaining to [[a/_ascribing|ascribing]] [[n/_names|names]]**
 ---
 ---

@@ -1,0 +1,9 @@
+# Infective
+---
+#noun
+- **A person who is [[c/_capable|capable]] of spreading a [[d/_disease|disease]] by [[i/_infecting|infecting]] [[o/_others|others]].**
+---
+#adjective
+- **[[a/_able|Able]] to [[c/_cause|cause]] [[i/_infection|infection]]; [[i/_infectious|infectious]]**
+---
+---

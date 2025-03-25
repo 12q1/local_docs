@@ -5,7 +5,7 @@
 	- _Example: I wanted to go to the party, but I was denied._
 - **To [[a/_assert|assert]] that something is not true.**
 	- _Example: Everyone knows he committed the crime, but he still denies it._
-- **(ditransitive) To refuse to give or grant something to someone.**
+- **(ditransitive) To refuse to [[g/_give|give]] or [[g/_grant|grant]] something to someone.**
 	- _Example: My father denied me a good education._
 - **To take something [[a/_away|away]] from someone; to [[d/_deprive|deprive]] of.**
 - **To prevent from scoring.**

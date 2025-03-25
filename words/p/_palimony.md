@@ -1,0 +1,6 @@
+# Palimony
+---
+#noun
+- **A [[f/_form|form]] of [[a/_alimony|alimony]] [[p/_paid|paid]] to a [[f/_former|former]] partner in a [[n/_nonmarital|nonmarital]] relationship.**
+---
+---

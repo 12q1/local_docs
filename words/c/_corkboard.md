@@ -1,6 +1,6 @@
 # Corkboard
 ---
 #noun
-- **A kind of strawboard or [[c/_cardboard|cardboard]] in which ground [[c/_cork|cork]] is mixed with the paper pulp.**
+- **A [[k/_kind|kind]] of strawboard or [[c/_cardboard|cardboard]] in which [[g/_ground|ground]] [[c/_cork|cork]] is [[m/_mixed|mixed]] with the paper pulp.**
 ---
 ---

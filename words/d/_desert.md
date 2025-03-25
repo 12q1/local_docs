@@ -1,6 +1,6 @@
 # Desert
 ---
 #noun
-- **(usually in the plural) That which is [[d/_deserved|deserved]] or merited; a just punishment or reward**
+- **(usually in the plural) That which is [[d/_deserved|deserved]] or [[m/_merited|merited]]; a [[j/_just|just]] punishment or reward**
 ---
 ---

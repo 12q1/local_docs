@@ -1,6 +1,6 @@
 # Ardently
 ---
 #adverb
-- **Fervently**
+- **[[f/_fervently|Fervently]]**
 ---
 ---

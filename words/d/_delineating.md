@@ -1,10 +1,10 @@
 # Delineating
 ---
 #verb
-- **To sketch out, [[d/_draw|draw]] or trace an outline.**
+- **To sketch [[o/_out|out]], [[d/_draw|draw]] or trace an [[o/_outline|outline]].**
 - **To [[d/_depict|depict]], represent with pictures.**
-- **To [[d/_describe|describe]] or [[d/_depict|depict]] with words or gestures.**
-- **To outline or mark out.**
+- **To [[d/_describe|describe]] or [[d/_depict|depict]] with words or [[g/_gestures|gestures]].**
+- **To [[o/_outline|outline]] or [[m/_mark|mark]] [[o/_out|out]].**
 ---
 ### Synonyms
 - [[d/_delimit|delimit]], [[d/_demarcate|demarcate]], [[d/_demark|demark]]

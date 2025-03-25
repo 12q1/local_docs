@@ -1,6 +1,6 @@
 # Croquette
 ---
 #noun
-- **A minced, [[c/_cooked|cooked]] food (usually meat or vegetables), which is [[d/_deep|deep]]-fried in fat and sometimes sprinkled with breadcrumbs.**
+- **A [[m/_minced|minced]], [[c/_cooked|cooked]] [[f/_food|food]] (usually [[m/_meat|meat]] or vegetables), which is [[d/_deep|deep]]-[[f/_fried|fried]] in [[f/_fat|fat]] and sometimes sprinkled with breadcrumbs.**
 ---
 ---

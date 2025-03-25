@@ -1,6 +1,6 @@
 # Enraging
 ---
 #verb
-- **To fill with rage; to provoke to frenzy or madness; to make furious.**
+- **To [[f/_fill|fill]] with rage; to provoke to [[f/_frenzy|frenzy]] or [[m/_madness|madness]]; to [[m/_make|make]] [[f/_furious|furious]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Conure
 ---
 #noun
-- **[[a/_any|Any]] of many New World parakeets of the former genus [[c/_conurus|Conurus]], now reassigned to other genera in subfamily Arinae, principally Psittacara and Eupsittula.**
+- **[[a/_any|Any]] of [[m/_many|many]] [[n/_new|New]] World parakeets of the [[f/_former|former]] [[g/_genus|genus]] [[c/_conurus|Conurus]], [[n/_now|now]] reassigned to [[o/_other|other]] [[g/_genera|genera]] in subfamily Arinae, principally Psittacara and Eupsittula.**
 ---
 ---

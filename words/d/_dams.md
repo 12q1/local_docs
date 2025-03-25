@@ -1,23 +1,23 @@
 # Dams
 ---
 #noun
-- **A structure placed [[a/_across|across]] a flowing [[b/_body|body]] of water to stop the flow or part of the flow, generally for purposes such as retaining or [[d/_diverting|diverting]] some of the water or retarding the release of [[a/_accumulated|accumulated]] water to [[a/_avoid|avoid]] [[a/_abrupt|abrupt]] flooding.**
+- **A structure placed [[a/_across|across]] a [[f/_flowing|flowing]] [[b/_body|body]] of water to stop the [[f/_flow|flow]] or part of the [[f/_flow|flow]], [[g/_generally|generally]] for purposes such as retaining or [[d/_diverting|diverting]] some of the water or retarding the release of [[a/_accumulated|accumulated]] water to [[a/_avoid|avoid]] [[a/_abrupt|abrupt]] [[f/_flooding|flooding]].**
 	- _Example: A dam is often an essential source of water to farmers of hilly country._
 - **The water reservoir resulting from placing such structure.**
 	- _Example: Boats may only be used at places set aside for boating on the dam._
-- **A [[d/_device|device]] to prevent a tooth from getting wet [[d/_during|during]] [[d/_dental|dental]] work, [[c/_consisting|consisting]] of a rubber sheet held with a [[b/_band|band]].**
+- **A [[d/_device|device]] to prevent a tooth from [[g/_getting|getting]] wet [[d/_during|during]] [[d/_dental|dental]] work, [[c/_consisting|consisting]] of a rubber sheet [[h/_held|held]] with a [[b/_band|band]].**
 - **A reservoir.**
-- **A firebrick wall, or a stone, which forms the front of the hearth of a [[b/_blast|blast]] furnace.**
+- **A [[f/_firebrick|firebrick]] wall, or a stone, which [[f/_forms|forms]] the [[f/_front|front]] of the [[h/_hearth|hearth]] of a [[b/_blast|blast]] [[f/_furnace|furnace]].**
 ---
 #verb
-- **To [[b/_block|block]] the flow of water.**
+- **To [[b/_block|block]] the [[f/_flow|flow]] of water.**
 ---
 #noun
-- **Female parent, mother, generally regarding [[b/_breeding|breeding]] of [[a/_animals|animals]] ([[c/_correlative|correlative]] to sire).**
-- **A kind of [[c/_crowned|crowned]] piece in the game of [[d/_draughts|draughts]].**
+- **[[f/_female|Female]] parent, [[m/_mother|mother]], [[g/_generally|generally]] regarding [[b/_breeding|breeding]] of [[a/_animals|animals]] ([[c/_correlative|correlative]] to sire).**
+- **A [[k/_kind|kind]] of [[c/_crowned|crowned]] piece in the [[g/_game|game]] of [[d/_draughts|draughts]].**
 ---
 #noun
-- **An obsolete Indian [[c/_copper|copper]] [[c/_coin|coin]], [[e/_equal|equal]] to a fortieth of a rupee.**
-- **A former [[c/_coin|coin]] of Nepal, 128 of which were worth one mohar.**
+- **An [[o/_obsolete|obsolete]] [[i/_indian|Indian]] [[c/_copper|copper]] [[c/_coin|coin]], [[e/_equal|equal]] to a [[f/_fortieth|fortieth]] of a rupee.**
+- **A [[f/_former|former]] [[c/_coin|coin]] of [[n/_nepal|Nepal]], 128 of which were worth [[o/_one|one]] [[m/_mohar|mohar]].**
 ---
 ---

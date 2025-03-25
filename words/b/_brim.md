@@ -1,6 +1,6 @@
 # Brim
 ---
 #noun
-- **The sea; ocean; water; flood.**
+- **The sea; [[o/_ocean|ocean]]; water; [[f/_flood|flood]].**
 ---
 ---

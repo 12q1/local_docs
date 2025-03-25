@@ -1,6 +1,6 @@
 # Dimethoate
 ---
 #noun
-- **A particular organophosphate insecticide.**
+- **A particular [[o/_organophosphate|organophosphate]] [[i/_insecticide|insecticide]].**
 ---
 ---

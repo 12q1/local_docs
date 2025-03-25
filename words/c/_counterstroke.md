@@ -1,7 +1,7 @@
 # Counterstroke
 ---
 #noun
-- **A [[b/_blow|blow]] given in return.**
+- **A [[b/_blow|blow]] [[g/_given|given]] in return.**
 - **A retaliation.**
 ---
 ---

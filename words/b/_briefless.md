@@ -1,6 +1,6 @@
 # Briefless
 ---
 #adjective
-- **Lacking [[b/_briefs|briefs]] ([[c/_clients|clients]])**
+- **[[l/_lacking|Lacking]] [[b/_briefs|briefs]] ([[c/_clients|clients]])**
 ---
 ---

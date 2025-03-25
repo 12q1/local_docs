@@ -1,9 +1,9 @@
 # Estrus
 ---
 #noun
-- **A [[b/_biting|biting]] fly of the genus Oestrus; a [[b/_botfly|botfly]].**
+- **A [[b/_biting|biting]] [[f/_fly|fly]] of the [[g/_genus|genus]] [[o/_oestrus|Oestrus]]; a [[b/_botfly|botfly]].**
 - **A [[b/_bite|bite]] or sting.**
-- **A passion or frenzy.**
-- **A female [[a/_animal|animal]]'s readiness to mate; heat, rut.**
+- **A passion or [[f/_frenzy|frenzy]].**
+- **A [[f/_female|female]] [[a/_animal|animal]]'s readiness to [[m/_mate|mate]]; [[h/_heat|heat]], rut.**
 ---
 ---

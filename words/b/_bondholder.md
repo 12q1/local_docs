@@ -1,6 +1,6 @@
 # Bondholder
 ---
 #noun
-- **The registered owner of a financial [[b/_bond|bond]].**
+- **The registered [[o/_owner|owner]] of a [[f/_financial|financial]] [[b/_bond|bond]].**
 ---
 ---

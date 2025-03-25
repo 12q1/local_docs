@@ -1,6 +1,6 @@
 # Cardiomegaly
 ---
 #noun
-- **Megalocardia**
+- **[[m/_megalocardia|Megalocardia]]**
 ---
 ---

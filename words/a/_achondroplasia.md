@@ -1,6 +1,6 @@
 # Achondroplasia
 ---
 #noun
-- **A genetic [[d/_disorder|disorder]], the most [[c/_common|common]] form of short limb [[d/_dwarfism|dwarfism]].**
+- **A [[g/_genetic|genetic]] [[d/_disorder|disorder]], the [[m/_most|most]] [[c/_common|common]] [[f/_form|form]] of short [[l/_limb|limb]] [[d/_dwarfism|dwarfism]].**
 ---
 ---

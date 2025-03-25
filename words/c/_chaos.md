@@ -1,13 +1,13 @@
 # Chaos
 ---
 #noun
-- **The unordered state of matter in [[c/_classical|classical]] [[a/_accounts|accounts]] of [[c/_cosmogony|cosmogony]].**
-- **[[a/_any|Any]] state of [[d/_disorder|disorder]]; a [[c/_confused|confused]] or [[a/_amorphous|amorphous]] mixture or [[c/_conglomeration|conglomeration]].**
+- **The unordered state of [[m/_matter|matter]] in [[c/_classical|classical]] [[a/_accounts|accounts]] of [[c/_cosmogony|cosmogony]].**
+- **[[a/_any|Any]] state of [[d/_disorder|disorder]]; a [[c/_confused|confused]] or [[a/_amorphous|amorphous]] [[m/_mixture|mixture]] or [[c/_conglomeration|conglomeration]].**
 	- _Example: After the earthquake, the local hospital was in chaos_
-- **A [[b/_behaviour|behaviour]] of iterative non-linear systems in which [[a/_arbitrarily|arbitrarily]] small variations in initial [[c/_conditions|conditions]] [[b/_become|become]] magnified over time.**
-- **One of the two metaphysical forces of the world in some fantasy settings, as opposed to law.**
+- **A [[b/_behaviour|behaviour]] of [[i/_iterative|iterative]] [[n/_non|non]]-[[l/_linear|linear]] systems in which [[a/_arbitrarily|arbitrarily]] small variations in [[i/_initial|initial]] [[c/_conditions|conditions]] [[b/_become|become]] [[m/_magnified|magnified]] [[o/_over|over]] time.**
+- **[[o/_one|One]] of the two [[m/_metaphysical|metaphysical]] [[f/_forces|forces]] of the world in some [[f/_fantasy|fantasy]] settings, as [[o/_opposed|opposed]] to [[l/_law|law]].**
 - **A vast [[c/_chasm|chasm]] or [[a/_abyss|abyss]].**
-- **A given medium; a space in which something exists or lives; an [[e/_environment|environment]].**
+- **A [[g/_given|given]] [[m/_medium|medium]]; a space in which something [[e/_exists|exists]] or [[l/_lives|lives]]; an [[e/_environment|environment]].**
 ---
 ### Antonyms
 - [[c/_cosmos|cosmos]], [[o/_order|order]]

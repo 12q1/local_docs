@@ -1,7 +1,7 @@
 # Bespectacled
 ---
 #adjective
-- **Wearing spectacles (glasses).**
+- **Wearing spectacles ([[g/_glasses|glasses]]).**
 ---
 ### Synonyms
 - [[f/_four-eyed|four-eyed]], [[s/_spectacled|spectacled]]

@@ -1,6 +1,6 @@
 # Buroo
 ---
 #noun
-- **The Labour [[b/_bureau|Bureau]]; hence, unemployment [[b/_benefits|benefits]]; the [[d/_dole|dole]].**
+- **The [[l/_labour|Labour]] [[b/_bureau|Bureau]]; [[h/_hence|hence]], unemployment [[b/_benefits|benefits]]; the [[d/_dole|dole]].**
 ---
 ---

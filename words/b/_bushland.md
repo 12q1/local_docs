@@ -1,6 +1,6 @@
 # Bushland
 ---
 #noun
-- **An [[a/_area|area]] of land in a natural, uncultivated state; wilderness, open forest.**
+- **An [[a/_area|area]] of [[l/_land|land]] in a [[n/_natural|natural]], uncultivated state; wilderness, [[o/_open|open]] [[f/_forest|forest]].**
 ---
 ---

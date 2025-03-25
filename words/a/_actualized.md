@@ -1,11 +1,11 @@
 # Actualized
 ---
 #verb
-- **To make real; to realize.**
+- **To [[m/_make|make]] real; to realize.**
 - **To [[b/_become|become]] [[a/_actual|actual]] or real.**
-- **To realize one's full potential.**
+- **To realize [[o/_one|one]]'s [[f/_full|full]] potential.**
 ---
 #adjective
-- **Having [[b/_become|become]] [[a/_actual|actual]]; having [[b/_been|been]] realized or made real.**
+- **[[h/_having|Having]] [[b/_become|become]] [[a/_actual|actual]]; [[h/_having|having]] [[b/_been|been]] realized or [[m/_made|made]] real.**
 ---
 ---

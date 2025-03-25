@@ -5,6 +5,6 @@
 - **To [[c/_challenge|challenge]].**
 ---
 #noun
-- **The [[a/_act|act]] of one who [[c/_champions|champions]] something; fervent support.**
+- **The [[a/_act|act]] of [[o/_one|one]] who [[c/_champions|champions]] something; [[f/_fervent|fervent]] support.**
 ---
 ---

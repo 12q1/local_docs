@@ -1,6 +1,6 @@
 # Dulcianas
 ---
 #noun
-- **An organ stop with a sweet tone.**
+- **An [[o/_organ|organ]] stop with a sweet tone.**
 ---
 ---

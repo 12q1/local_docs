@@ -1,0 +1,11 @@
+# Fullness
+---
+#noun
+- **[[b/_being|Being]] [[f/_full|full]]; [[c/_completeness|completeness]].**
+- **The [[d/_degree|degree]] to which a space is [[f/_full|full]].**
+- **The [[d/_degree|degree]] to which [[f/_fate|fate]] [[h/_has|has]] [[b/_become|become]] [[k/_known|known]].**
+- **: A [[m/_measure|measure]] of the [[d/_degree|degree]] to which a [[m/_muscle|muscle]] [[h/_has|has]] [[i/_increased|increased]] in size parallel to the [[a/_axis|axis]] of [[i/_its|its]] [[c/_contraction|contraction]]. A [[f/_full|full]] [[m/_muscle|muscle]] [[f/_fills|fills]] [[m/_more|more]] of the space [[a/_along|along]] the part of the [[b/_body|body]] where it is [[c/_connected|connected]].**
+---
+### Synonyms
+- [[e/_entirety|entirety]], [[w/_whole|whole]]
+---

@@ -1,8 +1,8 @@
 # Charivari
 ---
 #noun
-- **The noisy [[b/_banging|banging]] of pots and pans as a mock serenade to a newly married [[c/_couple|couple]], or similar occasion.**
-- **(by extension) [[a/_any|Any]] loud, [[c/_cacophonous|cacophonous]] noise or hubbub.**
+- **The [[n/_noisy|noisy]] [[b/_banging|banging]] of pots and pans as a [[m/_mock|mock]] serenade to a [[n/_newly|newly]] [[m/_married|married]] [[c/_couple|couple]], or similar [[o/_occasion|occasion]].**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[l/_loud|loud]], [[c/_cacophonous|cacophonous]] [[n/_noise|noise]] or [[h/_hubbub|hubbub]].**
 ---
 ### Synonyms
 - [[s/_skimmington|skimmington]], [[s/_skimmity|skimmity]], [[s/_skimmity-ride|skimmity-ride]]

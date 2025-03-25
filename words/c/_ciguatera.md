@@ -1,6 +1,6 @@
 # Ciguatera
 ---
 #noun
-- **A foodborne poisoning in humans [[c/_caused|caused]] by [[e/_eating|eating]] marine species whose flesh is [[c/_contaminated|contaminated]] with ciguatoxin.**
+- **A foodborne poisoning in [[h/_humans|humans]] [[c/_caused|caused]] by [[e/_eating|eating]] [[m/_marine|marine]] species whose [[f/_flesh|flesh]] is [[c/_contaminated|contaminated]] with ciguatoxin.**
 ---
 ---

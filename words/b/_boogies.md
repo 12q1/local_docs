@@ -1,16 +1,16 @@
 # Boogies
 ---
 #noun
-- **A piece of solid or semisolid mucus in or removed from the nostril [[c/_cavity|cavity]].**
+- **A piece of solid or semisolid [[m/_mucus|mucus]] in or removed from the [[n/_nostril|nostril]] [[c/_cavity|cavity]].**
 - **A [[b/_black|black]] person.**
-- **[[d/_dancing|Dancing]] usually prominently exhibiting movements of the [[b/_buttocks|buttocks]].**
-- **(skydiving) A large, organised skydiving event.**
+- **[[d/_dancing|Dancing]] usually prominently [[e/_exhibiting|exhibiting]] [[m/_movements|movements]] of the [[b/_buttocks|buttocks]].**
+- **(skydiving) A [[l/_large|large]], [[o/_organised|organised]] skydiving [[e/_event|event]].**
 ---
 ### Synonyms
 - [[b/_booger|booger]]
 #verb
 - **To [[d/_dance|dance]] a [[b/_boogie|boogie]].**
-- **To move, walk, leave, exit.**
+- **To [[m/_move|move]], walk, [[l/_leave|leave]], [[e/_exit|exit]].**
 	- _Example: Let's boogie on out of here._
 ---
 ---

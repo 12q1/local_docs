@@ -1,6 +1,6 @@
 # Ankuses
 ---
 #noun
-- **The hooked goad that is used in India to [[c/_control|control]] [[e/_elephants|elephants]].**
+- **The [[h/_hooked|hooked]] [[g/_goad|goad]] that is used in [[i/_india|India]] to [[c/_control|control]] [[e/_elephants|elephants]].**
 ---
 ---

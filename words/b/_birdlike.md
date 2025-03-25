@@ -5,6 +5,6 @@
 	- _Example: a birdlike song_
 ---
 #adverb
-- **In the manner of a [[b/_bird|bird]]; as, to fly [[b/_birdlike|birdlike]]**
+- **In the [[m/_manner|manner]] of a [[b/_bird|bird]]; as, to [[f/_fly|fly]] [[b/_birdlike|birdlike]]**
 ---
 ---

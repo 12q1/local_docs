@@ -5,8 +5,8 @@
 	- _Example: The schoolboy was commended for raising the alarm about the burning building._
 - **To praise or [[a/_acclaim|acclaim]].**
 - **To [[e/_entrust|entrust]] or [[c/_commit|commit]] to the [[c/_care|care]] of someone [[e/_else|else]].**
-- **To mention by way of [[c/_courtesy|courtesy]], implying remembrance and goodwill.**
+- **To [[m/_mention|mention]] by way of [[c/_courtesy|courtesy]], [[i/_implying|implying]] remembrance and [[g/_goodwill|goodwill]].**
 - **To recommend.**
-- **To [[a/_adorn|adorn]]; to set off.**
+- **To [[a/_adorn|adorn]]; to set [[o/_off|off]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Afterimage
 ---
 #noun
-- **An image which persists or remains in negative [[a/_after|after]] the original stimulation has [[e/_ended|ended]].**
+- **An [[i/_image|image]] which persists or remains in [[n/_negative|negative]] [[a/_after|after]] the [[o/_original|original]] stimulation [[h/_has|has]] [[e/_ended|ended]].**
 ---
 ### Synonyms
 - [[p/_photogene|photogene]]

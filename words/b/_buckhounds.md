@@ -1,6 +1,6 @@
 # Buckhounds
 ---
 #noun
-- **A hound for hunting [[d/_deer|deer]].**
+- **A [[h/_hound|hound]] for [[h/_hunting|hunting]] [[d/_deer|deer]].**
 ---
 ---

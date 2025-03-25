@@ -1,6 +1,6 @@
 # Cytisus
 ---
 #noun
-- **[[a/_any|Any]] flowering plant in the genus [[c/_cytisus|Cytisus]].**
+- **[[a/_any|Any]] [[f/_flowering|flowering]] plant in the [[g/_genus|genus]] [[c/_cytisus|Cytisus]].**
 ---
 ---

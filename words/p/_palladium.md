@@ -1,0 +1,6 @@
+# Palladium
+---
+#noun
+- **A safeguard.**
+---
+---

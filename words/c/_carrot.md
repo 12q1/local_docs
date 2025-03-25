@@ -1,11 +1,11 @@
 # Carrot
 ---
 #noun
-- **A vegetable with a nutritious, juicy, sweet root that is often orange in [[c/_colour|colour]], [[d/_daucus|Daucus]] carota, [[e/_especially|especially]] the subspecies sativus in the family [[a/_apiaceae|Apiaceae]].**
-- **A shade of orange similar to the flesh of most [[c/_carrots|carrots]] ([[a/_also|also]] [[c/_called|called]] [[c/_carrot|carrot]] orange).**
-- **[[a/_any|Any]] motivational tool.**
+- **A vegetable with a [[n/_nutritious|nutritious]], [[j/_juicy|juicy]], sweet root that is [[o/_often|often]] [[o/_orange|orange]] in [[c/_colour|colour]], [[d/_daucus|Daucus]] carota, [[e/_especially|especially]] the subspecies sativus in the [[f/_family|family]] [[a/_apiaceae|Apiaceae]].**
+- **A shade of [[o/_orange|orange]] similar to the [[f/_flesh|flesh]] of [[m/_most|most]] [[c/_carrots|carrots]] ([[a/_also|also]] [[c/_called|called]] [[c/_carrot|carrot]] [[o/_orange|orange]]).**
+- **[[a/_any|Any]] [[m/_motivational|motivational]] tool.**
 ---
 #verb
-- **To treat (an [[a/_animal|animal]] pelt) with a solution of mercuric nitrate as part of felt manufacture.**
+- **To treat (an [[a/_animal|animal]] pelt) with a solution of [[m/_mercuric|mercuric]] [[n/_nitrate|nitrate]] as part of [[f/_felt|felt]] [[m/_manufacture|manufacture]].**
 ---
 ---

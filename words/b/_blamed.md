@@ -2,14 +2,14 @@
 ---
 #verb
 - **To [[c/_censure|censure]] (someone or something); to [[c/_criticize|criticize]].**
-- **To [[b/_bring|bring]] into [[d/_disrepute|disrepute]].**
-- **(usually followed by "for") To [[a/_assert|assert]] or [[c/_consider|consider]] that someone is the [[c/_cause|cause]] of something negative; to place [[b/_blame|blame]], to [[a/_attribute|attribute]] responsibility (for something negative or for [[d/_doing|doing]] something negative).**
+- **To [[b/_bring|bring]] [[i/_into|into]] [[d/_disrepute|disrepute]].**
+- **(usually [[f/_followed|followed]] by "for") To [[a/_assert|assert]] or [[c/_consider|consider]] that someone is the [[c/_cause|cause]] of something [[n/_negative|negative]]; to place [[b/_blame|blame]], to [[a/_attribute|attribute]] responsibility (for something [[n/_negative|negative]] or for [[d/_doing|doing]] something [[n/_negative|negative]]).**
 	- _Example: The arsonist was blamed for the fire._
 ---
 ### Synonyms
 - [[r/_reproach|reproach]], [[s/_shend|shend]], [[u/_upbraid|upbraid]]
 #adjective
-- **God-forsaken.**
+- **[[g/_god|God]]-[[f/_forsaken|forsaken]].**
 - **Variant of profane [[d/_damn|damn]].**
 	- _Example: His damned cards are scattered!_
 ---

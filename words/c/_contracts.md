@@ -1,27 +1,27 @@
 # Contracts
 ---
 #noun
-- **An [[a/_agreement|agreement]] [[b/_between|between]] two or more parties, to perform a specific job or work order, often temporary or of fixed [[d/_duration|duration]] and usually governed by a written [[a/_agreement|agreement]].**
+- **An [[a/_agreement|agreement]] [[b/_between|between]] two or [[m/_more|more]] parties, to perform a specific [[j/_job|job]] or work [[o/_order|order]], [[o/_often|often]] temporary or of [[f/_fixed|fixed]] [[d/_duration|duration]] and usually [[g/_governed|governed]] by a written [[a/_agreement|agreement]].**
 	- _Example: Marriage is a contract._
-- **An [[a/_agreement|agreement]] which the law will [[e/_enforce|enforce]] in some way. A legally [[b/_binding|binding]] [[c/_contract|contract]] must [[c/_contain|contain]] at least one promise, i.[[e/_e|e]]., a [[c/_commitment|commitment]] or offer, by an offeror to and [[a/_accepted|accepted]] by an offeree to [[d/_do|do]] something in the future. A [[c/_contract|contract]] is thus executory rather than executed.**
-- **A part of legal studies [[d/_dealing|dealing]] with laws and jurisdiction related to [[c/_contracts|contracts]].**
-- **An order, usually given to a hired [[a/_assassin|assassin]], to kill someone.**
+- **An [[a/_agreement|agreement]] which the [[l/_law|law]] will [[e/_enforce|enforce]] in some way. A [[l/_legally|legally]] [[b/_binding|binding]] [[c/_contract|contract]] [[m/_must|must]] [[c/_contain|contain]] at [[l/_least|least]] [[o/_one|one]] promise, [[i/_i|i]].[[e/_e|e]]., a [[c/_commitment|commitment]] or [[o/_offer|offer]], by an [[o/_offeror|offeror]] to and [[a/_accepted|accepted]] by an [[o/_offeree|offeree]] to [[d/_do|do]] something in the [[f/_future|future]]. A [[c/_contract|contract]] is thus [[e/_executory|executory]] rather than [[e/_executed|executed]].**
+- **A part of [[l/_legal|legal]] studies [[d/_dealing|dealing]] with [[l/_laws|laws]] and [[j/_jurisdiction|jurisdiction]] related to [[c/_contracts|contracts]].**
+- **An [[o/_order|order]], usually [[g/_given|given]] to a [[h/_hired|hired]] [[a/_assassin|assassin]], to [[k/_kill|kill]] someone.**
 	- _Example: The mafia boss put a contract out on the man who betrayed him._
-- **The [[d/_declarer|declarer]]'s undertaking to win the number of tricks [[b/_bid|bid]] with a stated suit as trump.**
+- **The [[d/_declarer|declarer]]'s undertaking to win the [[n/_number|number]] of tricks [[b/_bid|bid]] with a stated suit as trump.**
 ---
 #verb
-- **To [[d/_draw|draw]] together or nearer; to shorten, narrow, or lessen.**
+- **To [[d/_draw|draw]] together or [[n/_nearer|nearer]]; to shorten, [[n/_narrow|narrow]], or [[l/_lessen|lessen]].**
 	- _Example: The snail's body contracted into its shell._
-- **(grammar) To shorten by omitting a letter or letters or by reducing two or more vowels or syllables to one.**
+- **([[g/_grammar|grammar]]) To shorten by [[o/_omitting|omitting]] a [[l/_letter|letter]] or [[l/_letters|letters]] or by reducing two or [[m/_more|more]] vowels or syllables to [[o/_one|one]].**
 	- _Example: The word "cannot" is often contracted into "can't"._
-- **To [[e/_enter|enter]] into a [[c/_contract|contract]] with.**
-- **To [[e/_enter|enter]] into, with mutual obligations; to make a [[b/_bargain|bargain]] or [[c/_covenant|covenant]] for.**
-- **To make an [[a/_agreement|agreement]] or [[c/_contract|contract]]; to [[c/_covenant|covenant]]; to [[a/_agree|agree]]; to [[b/_bargain|bargain]].**
+- **To [[e/_enter|enter]] [[i/_into|into]] a [[c/_contract|contract]] with.**
+- **To [[e/_enter|enter]] [[i/_into|into]], with [[m/_mutual|mutual]] [[o/_obligations|obligations]]; to [[m/_make|make]] a [[b/_bargain|bargain]] or [[c/_covenant|covenant]] for.**
+- **To [[m/_make|make]] an [[a/_agreement|agreement]] or [[c/_contract|contract]]; to [[c/_covenant|covenant]]; to [[a/_agree|agree]]; to [[b/_bargain|bargain]].**
 	- _Example: to contract for carrying the mail_
-- **To [[b/_bring|bring]] on; to incur; to [[a/_acquire|acquire]].**
+- **To [[b/_bring|bring]] on; to [[i/_incur|incur]]; to [[a/_acquire|acquire]].**
 	- _Example: She contracted the habit of smoking in her teens._
-- **To gain or [[a/_acquire|acquire]] (an illness).**
-- **To [[d/_draw|draw]] together so as to wrinkle; to knit.**
+- **To [[g/_gain|gain]] or [[a/_acquire|acquire]] (an [[i/_illness|illness]]).**
+- **To [[d/_draw|draw]] together so as to wrinkle; to [[k/_knit|knit]].**
 - **To [[b/_betroth|betroth]]; to [[a/_affiance|affiance]].**
 ---
 ### Synonyms

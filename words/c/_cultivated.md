@@ -1,15 +1,15 @@
 # Cultivated
 ---
 #verb
-- **To grow plants, notably [[c/_crops|crops]]**
+- **To [[g/_grow|grow]] plants, [[n/_notably|notably]] [[c/_crops|crops]]**
 	- _Example: Most farmers in this region cultivate maize._
-- **To nurture; to foster; to tend.**
+- **To [[n/_nurture|nurture]]; to [[f/_foster|foster]]; to tend.**
 	- _Example: They tried to cultivate an interest in learning among their students._
 - **To turn or stir soil in preparation for planting.**
 ---
 #adjective
 - **(of a person) [[c/_cultured|cultured]], refined, [[e/_educated|educated]]**
-- **(of a plant) grown by [[c/_cultivation|cultivation]] (not wild)**
-- **(of land) farmed**
+- **(of a plant) [[g/_grown|grown]] by [[c/_cultivation|cultivation]] (not wild)**
+- **(of [[l/_land|land]]) [[f/_farmed|farmed]]**
 ---
 ---

@@ -1,46 +1,46 @@
 # Bound
 ---
 #verb
-- **To tie; to [[c/_confine|confine]] by [[a/_any|any]] ligature.**
-- **To [[c/_cohere|cohere]] or stick together in a mass.**
+- **To tie; to [[c/_confine|confine]] by [[a/_any|any]] [[l/_ligature|ligature]].**
+- **To [[c/_cohere|cohere]] or stick together in a [[m/_mass|mass]].**
 	- _Example: Just to make the cheese more binding_
-- **To be restrained from motion, or from [[c/_customary|customary]] or natural [[a/_action|action]], as by friction.**
+- **To be restrained from [[m/_motion|motion]], or from [[c/_customary|customary]] or [[n/_natural|natural]] [[a/_action|action]], as by [[f/_friction|friction]].**
 	- _Example: I wish I knew why the sewing machine binds up after I use it for a while._
-- **To exert a [[b/_binding|binding]] or restraining influence.**
+- **To [[e/_exert|exert]] a [[b/_binding|binding]] or restraining [[i/_influence|influence]].**
 	- _Example: These are the ties that bind._
-- **To tie or fasten tightly together, with a [[c/_cord|cord]], [[b/_band|band]], ligature, [[c/_chain|chain]], [[e/_etc|etc]].**
+- **To tie or [[f/_fasten|fasten]] tightly together, with a [[c/_cord|cord]], [[b/_band|band]], [[l/_ligature|ligature]], [[c/_chain|chain]], [[e/_etc|etc]].**
 	- _Example: to bind grain in bundles  to bind a prisoner_
-- **To [[c/_confine|confine]], restrain, or hold by physical force or influence of [[a/_any|any]] kind.**
+- **To [[c/_confine|confine]], restrain, or [[h/_hold|hold]] by physical [[f/_force|force]] or [[i/_influence|influence]] of [[a/_any|any]] [[k/_kind|kind]].**
 	- _Example: Frost binds the earth._
 - **To [[c/_couple|couple]].**
-- **To oblige, restrain, or hold, by [[a/_authority|authority]], law, [[d/_duty|duty]], promise, vow, [[a/_affection|affection]], or other social tie.**
+- **To [[o/_oblige|oblige]], restrain, or [[h/_hold|hold]], by [[a/_authority|authority]], [[l/_law|law]], [[d/_duty|duty]], promise, vow, [[a/_affection|affection]], or [[o/_other|other]] social tie.**
 	- _Example: to bind the conscience  to bind by kindness  bound by affection  commerce binds nations to each other_
-- **To put (a person) under [[d/_definite|definite]] legal obligations, [[e/_especially|especially]], under the obligation of a [[b/_bond|bond]] or [[c/_covenant|covenant]].**
-- **To place under legal obligation to serve.**
+- **To put (a person) under [[d/_definite|definite]] [[l/_legal|legal]] [[o/_obligations|obligations]], [[e/_especially|especially]], under the [[o/_obligation|obligation]] of a [[b/_bond|bond]] or [[c/_covenant|covenant]].**
+- **To place under [[l/_legal|legal]] [[o/_obligation|obligation]] to serve.**
 	- _Example: to bind an apprentice  bound out to service_
-- **To protect or strengthen by [[a/_applying|applying]] a [[b/_band|band]] or [[b/_binding|binding]], as the [[e/_edge|edge]] of a [[c/_carpet|carpet]] or garment.**
-- **To make fast (a thing) [[a/_about|about]] or upon something, as by tying; to [[e/_encircle|encircle]] with something.**
+- **To protect or strengthen by [[a/_applying|applying]] a [[b/_band|band]] or [[b/_binding|binding]], as the [[e/_edge|edge]] of a [[c/_carpet|carpet]] or [[g/_garment|garment]].**
+- **To [[m/_make|make]] [[f/_fast|fast]] (a thing) [[a/_about|about]] or upon something, as by tying; to [[e/_encircle|encircle]] with something.**
 	- _Example: to bind a belt about one  to bind a compress upon a wound_
 - **To [[c/_cover|cover]], as with a [[b/_bandage|bandage]].**
 	- _Example: to bind up a wound_
-- **To prevent or restrain from [[c/_customary|customary]] or natural [[a/_action|action]], as by producing [[c/_constipation|constipation]].**
+- **To prevent or restrain from [[c/_customary|customary]] or [[n/_natural|natural]] [[a/_action|action]], as by producing [[c/_constipation|constipation]].**
 	- _Example: Certain drugs bind the bowels._
 - **To put together in a [[c/_cover|cover]], as of [[b/_books|books]].**
 	- _Example: The three novels were bound together._
-- **To make two or more [[e/_elements|elements]] stick together.**
-- **To [[a/_associate|associate]] an identifier with a value; to [[a/_associate|associate]] a variable name, method name, [[e/_etc|etc]]. with the [[c/_content|content]] of a storage location.**
+- **To [[m/_make|make]] two or [[m/_more|more]] [[e/_elements|elements]] stick together.**
+- **To [[a/_associate|associate]] an [[i/_identifier|identifier]] with a value; to [[a/_associate|associate]] a variable [[n/_name|name]], [[m/_method|method]] [[n/_name|name]], [[e/_etc|etc]]. with the [[c/_content|content]] of a storage [[l/_location|location]].**
 - **To [[c/_complain|complain]]; to whine [[a/_about|about]] something.**
 ---
 ### Synonyms
 - [[b/_bandage|bandage]], [[d/_dress|dress]], [[f/_fasten|fasten]], [[f/_fetter|fetter]], [[r/_restrain|restrain]], [[t/_tie|tie]], [[i/_indenture|indenture]], [[o/_obligate|obligate]], [[r/_restrain|restrain]], [[r/_restrict|restrict]]
 #adjective
-- **(with infinitive) Obliged (to).**
+- **(with [[i/_infinitive|infinitive]]) [[o/_obliged|Obliged]] (to).**
 	- _Example: You are not legally bound to reply._
-- **(of a morpheme) That [[c/_cannot|cannot]] stand [[a/_alone|alone]] as a free word.**
+- **(of a [[m/_morpheme|morpheme]]) That [[c/_cannot|cannot]] stand [[a/_alone|alone]] as a [[f/_free|free]] word.**
 - **(of a variable) [[c/_constrained|Constrained]] by a quantifier.**
 - **[[c/_constipated|Constipated]]; [[c/_costive|costive]].**
-- **[[c/_confined|Confined]] or restricted to a [[c/_certain|certain]] place; [[e/_e|e]].g. railbound.**
-- **Unable to move in [[c/_certain|certain]] [[c/_conditions|conditions]]; [[e/_e|e]].g. snowbound.**
+- **[[c/_confined|Confined]] or restricted to a [[c/_certain|certain]] place; [[e/_e|e]].[[g/_g|g]]. railbound.**
+- **Unable to [[m/_move|move]] in [[c/_certain|certain]] [[c/_conditions|conditions]]; [[e/_e|e]].[[g/_g|g]]. snowbound.**
 ---
 ### Antonyms
 - [[f/_free|free]]

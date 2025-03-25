@@ -1,7 +1,7 @@
 # Costliest
 ---
 #adjective
-- **Of high [[c/_cost|cost]]; expensive.**
+- **Of [[h/_high|high]] [[c/_cost|cost]]; [[e/_expensive|expensive]].**
 	- _Example: a costly activity_
 ---
 ### Antonyms

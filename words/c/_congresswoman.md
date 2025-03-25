@@ -1,7 +1,7 @@
 # Congresswoman
 ---
 #noun
-- **A female member of [[c/_congress|congress]]**
-- **A female member of the House of Representatives**
+- **A [[f/_female|female]] [[m/_member|member]] of [[c/_congress|congress]]**
+- **A [[f/_female|female]] [[m/_member|member]] of the [[h/_house|House]] of Representatives**
 ---
 ---

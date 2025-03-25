@@ -1,6 +1,6 @@
 # Blanquette
 ---
 #noun
-- **A white meat stew in which neither the meat nor the sauce is [[b/_browned|browned]].**
+- **A white [[m/_meat|meat]] stew in which [[n/_neither|neither]] the [[m/_meat|meat]] [[n/_nor|nor]] the sauce is [[b/_browned|browned]].**
 ---
 ---

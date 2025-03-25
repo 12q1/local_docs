@@ -1,6 +1,6 @@
 # Chronometry
 ---
 #noun
-- **The science of the measurement of time**
+- **The science of the [[m/_measurement|measurement]] of time**
 ---
 ---

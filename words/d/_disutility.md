@@ -1,7 +1,7 @@
 # Disutility
 ---
 #noun
-- **Uselessness, a lack of utility**
+- **Uselessness, a [[l/_lack|lack]] of utility**
 - **Illbeing**
 ---
 ---

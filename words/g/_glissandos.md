@@ -1,0 +1,7 @@
+# Glissandos
+---
+#noun
+- **[[e/_either|Either]] a [[c/_continuous|continuous]] sliding from [[o/_one|one]] pitch to [[a/_another|another]] ("true" [[g/_glissando|glissando]]), or an [[i/_incidental|incidental]] scale played while [[m/_moving|moving]] from [[o/_one|one]] [[m/_melodic|melodic]] [[n/_note|note]] to [[a/_another|another]] ("[[e/_effective|effective]]" [[g/_glissando|glissando]]).**
+- **A [[m/_method|method]] of playing an [[e/_electric|electric]] [[g/_guitar|guitar]] in which a [[m/_metal|metal]] [[b/_bar|bar]] is [[h/_held|held]] at right [[a/_angles|angles]] [[a/_across|across]] the strings and rapidly [[m/_moved|moved]] up and [[d/_down|down]], [[c/_creating|creating]] a smooth, [[l/_lush|lush]] sound.**
+---
+---

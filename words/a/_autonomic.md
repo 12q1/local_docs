@@ -1,7 +1,7 @@
 # Autonomic
 ---
 #adjective
-- **[[a/_acting|Acting]] or occurring involuntarily, without [[c/_conscious|conscious]] [[c/_control|control]].**
-- **Pertaining to the [[a/_autonomic|autonomic]] nervous system.**
+- **[[a/_acting|Acting]] or [[o/_occurring|occurring]] [[i/_involuntarily|involuntarily]], without [[c/_conscious|conscious]] [[c/_control|control]].**
+- **Pertaining to the [[a/_autonomic|autonomic]] [[n/_nervous|nervous]] system.**
 ---
 ---

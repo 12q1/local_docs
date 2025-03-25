@@ -1,12 +1,12 @@
 # Aggravates
 ---
 #verb
-- **To make (an offence) worse or more severe; to increase in offensiveness or heinousness.**
-- **(by extension) To make worse; to exacerbate.**
-- **To give extra weight or intensity to; to exaggerate, to magnify.**
+- **To [[m/_make|make]] (an [[o/_offence|offence]]) worse or [[m/_more|more]] severe; to [[i/_increase|increase]] in [[o/_offensiveness|offensiveness]] or [[h/_heinousness|heinousness]].**
+- **(by [[e/_extension|extension]]) To [[m/_make|make]] worse; to [[e/_exacerbate|exacerbate]].**
+- **To [[g/_give|give]] [[e/_extra|extra]] weight or [[i/_intensity|intensity]] to; to [[e/_exaggerate|exaggerate]], to [[m/_magnify|magnify]].**
 	- _Example: He aggravated the story._
-- **To pile or heap (something heavy or onerous) on or upon someone.**
-- **To exasperate; to provoke or irritate.**
+- **To pile or [[h/_heap|heap]] (something [[h/_heavy|heavy]] or [[o/_onerous|onerous]]) on or upon someone.**
+- **To [[e/_exasperate|exasperate]]; to provoke or [[i/_irritate|irritate]].**
 ---
 ### Synonyms
 - [[e/_exasperate|exasperate]], [[i/_irritate|irritate]], [[p/_provoke|provoke]], [[e/_exacerbate|exacerbate]], [[e/_exaggerate|exaggerate]], [[h/_heighten|heighten]], [[i/_increase|increase]], [[i/_intensify|intensify]], [[m/_magnify|magnify]]

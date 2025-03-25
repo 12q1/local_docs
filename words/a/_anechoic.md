@@ -1,7 +1,7 @@
 # Anechoic
 ---
 #adjective
-- **([[a/_acoustics|acoustics]]) lacking [[e/_echoes|echoes]]; that [[a/_absorbs|absorbs]] sound**
+- **([[a/_acoustics|acoustics]]) [[l/_lacking|lacking]] [[e/_echoes|echoes]]; that [[a/_absorbs|absorbs]] sound**
 	- _Example: The bassoonist settled into the anechoic chamber and prepared for another grueling recording session._
 ---
 ### Antonyms

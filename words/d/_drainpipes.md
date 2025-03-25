@@ -1,9 +1,9 @@
 # Drainpipes
 ---
 #noun
-- **A pipe that [[c/_carries|carries]] fluid which is [[b/_being|being]] [[d/_drained|drained]].**
+- **A pipe that [[c/_carries|carries]] [[f/_fluid|fluid]] which is [[b/_being|being]] [[d/_drained|drained]].**
 - **The type of pipe that is used to [[c/_construct|construct]] a [[d/_drainpipe|drainpipe]].**
-- **A type of form-fitting trousers with highly tapered legs.**
+- **A type of [[f/_form|form]]-[[f/_fitting|fitting]] trousers with [[h/_highly|highly]] tapered [[l/_legs|legs]].**
 ---
 ### Synonyms
 - [[c/_culvert|culvert]], [[s/_stovepipe|stovepipe]], [[d/_downpipe|downpipe]], [[d/_downspout|downspout]], [[l/_leader|leader]]

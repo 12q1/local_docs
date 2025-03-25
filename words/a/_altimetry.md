@@ -1,6 +1,6 @@
 # Altimetry
 ---
 #noun
-- **The science of measuring [[a/_altitude|altitude]]**
+- **The science of [[m/_measuring|measuring]] [[a/_altitude|altitude]]**
 ---
 ---

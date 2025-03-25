@@ -1,6 +1,6 @@
 # Coconspirator
 ---
 #noun
-- **A person involved with others in a [[c/_conspiracy|conspiracy]].**
+- **A person [[i/_involved|involved]] with [[o/_others|others]] in a [[c/_conspiracy|conspiracy]].**
 ---
 ---

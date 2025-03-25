@@ -3,20 +3,20 @@
 #verb
 - **To [[e/_encircle|encircle]].**
 	- _Example: The small town was belted by cornfields in all directions._
-- **To fasten a [[b/_belt|belt]] on.**
+- **To [[f/_fasten|fasten]] a [[b/_belt|belt]] on.**
 	- _Example: Edgar belted himself in and turned the car's ignition._
-- **To invest (a person) with a [[b/_belt|belt]] as part of a formal [[c/_ceremony|ceremony]] such as knighthood.**
-- **To hit with a [[b/_belt|belt]].**
+- **To [[i/_invest|invest]] (a person) with a [[b/_belt|belt]] as part of a [[f/_formal|formal]] [[c/_ceremony|ceremony]] such as [[k/_knighthood|knighthood]].**
+- **To [[h/_hit|hit]] with a [[b/_belt|belt]].**
 	- _Example: The child was misbehaving so he was belted as punishment._
-- **To scream or sing in a loud manner.**
+- **To scream or sing in a [[l/_loud|loud]] [[m/_manner|manner]].**
 	- _Example: He belted out the national anthem._
-- **To [[d/_drink|drink]] quickly, often in gulps.**
+- **To [[d/_drink|drink]] quickly, [[o/_often|often]] in [[g/_gulps|gulps]].**
 	- _Example: He belted down a shot of whisky._
-- **To hit someone or something.**
+- **To [[h/_hit|hit]] someone or something.**
 	- _Example: The angry player belted the official across the face, and as a result was ejected from the game._
-- **To hit a pitched [[b/_ball|ball]] a long [[d/_distance|distance]], usually for a home run.**
+- **To [[h/_hit|hit]] a pitched [[b/_ball|ball]] a [[l/_long|long]] [[d/_distance|distance]], usually for a [[h/_home|home]] run.**
 	- _Example: He belted that pitch over the grandstand._
-- **To move very fast**
+- **To [[m/_move|move]] very [[f/_fast|fast]]**
 	- _Example: He was really belting along._
 ---
 ### Synonyms
@@ -24,11 +24,11 @@
 #noun
 - **A [[b/_beating|beating]] with a [[b/_belt|belt]].**
 - **A thorough [[d/_defeat|defeat]]; a thrashing.**
-- **A system of beltwork, as in a [[c/_conveyor|conveyor]] or other mechanical [[d/_device|device]].**
-- **The material from which [[b/_belts|belts]] for machinery are made.**
+- **A system of beltwork, as in a [[c/_conveyor|conveyor]] or [[o/_other|other]] [[m/_mechanical|mechanical]] [[d/_device|device]].**
+- **The [[m/_material|material]] from which [[b/_belts|belts]] for [[m/_machinery|machinery]] are [[m/_made|made]].**
 ---
 #adjective
-- **Very good; exceptional ([[c/_can|can]] [[a/_also|also]] be used [[a/_adverbially|adverbially]])**
+- **Very [[g/_good|good]]; [[e/_exceptional|exceptional]] ([[c/_can|can]] [[a/_also|also]] be used [[a/_adverbially|adverbially]])**
 	- _Example: She cooks belting good food._
 ---
 ---

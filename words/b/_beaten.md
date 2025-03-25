@@ -1,33 +1,33 @@
 # Beaten
 ---
 #verb
-- **To hit; strike**
+- **To [[h/_hit|hit]]; strike**
 	- _Example: As soon as she heard that her father had died, she went into a rage and beat the wall with her fists until her knuckles bled._
 - **To strike or pound repeatedly, usually in some sort of rhythm.**
 	- _Example: He danced hypnotically while she beat the atabaque._
-- **To strike repeatedly; to inflict repeated [[b/_blows|blows]]; to knock vigorously or loudly.**
-- **To move with pulsation or throbbing.**
-- **To win [[a/_against|against]]; to [[d/_defeat|defeat]] or overcome; to [[d/_do|do]] [[b/_better|better]] than, outdo, or excel (someone) in a particular, [[c/_competitive|competitive]] event.**
+- **To strike repeatedly; to [[i/_inflict|inflict]] repeated [[b/_blows|blows]]; to [[k/_knock|knock]] vigorously or [[l/_loudly|loudly]].**
+- **To [[m/_move|move]] with pulsation or throbbing.**
+- **To win [[a/_against|against]]; to [[d/_defeat|defeat]] or [[o/_overcome|overcome]]; to [[d/_do|do]] [[b/_better|better]] than, [[o/_outdo|outdo]], or [[e/_excel|excel]] (someone) in a particular, [[c/_competitive|competitive]] [[e/_event|event]].**
 	- _Example: I just can't seem to beat the last level of this video game._
 - **To sail to windward using a series of [[a/_alternate|alternate]] tacks [[a/_across|across]] the wind.**
-- **To strike (water, foliage [[e/_etc|etc]].) in order to [[d/_drive|drive]] out game; to travel through (a forest [[e/_etc|etc]].) for hunting.**
-- **To mix food in a rapid fashion. [[c/_compare|Compare]] whip.**
+- **To strike (water, [[f/_foliage|foliage]] [[e/_etc|etc]].) in [[o/_order|order]] to [[d/_drive|drive]] [[o/_out|out]] [[g/_game|game]]; to travel through (a [[f/_forest|forest]] [[e/_etc|etc]].) for [[h/_hunting|hunting]].**
+- **To [[m/_mix|mix]] [[f/_food|food]] in a rapid [[f/_fashion|fashion]]. [[c/_compare|Compare]] whip.**
 	- _Example: Beat the eggs and whip the cream._
-- **(In haggling for a price) of a [[b/_buyer|buyer]], to persuade the seller to reduce a price**
+- **(In [[h/_haggling|haggling]] for a price) of a [[b/_buyer|buyer]], to persuade the seller to reduce a price**
 	- _Example: He wanted $50 for it, but I managed to beat him down to $35._
-- **To indicate by [[b/_beating|beating]] or [[d/_drumming|drumming]].**
+- **To [[i/_indicate|indicate]] by [[b/_beating|beating]] or [[d/_drumming|drumming]].**
 	- _Example: to beat a retreat; to beat to quarters_
 - **To tread, as a path.**
-- **To exercise severely; to perplex; to trouble.**
+- **To [[e/_exercise|exercise]] severely; to perplex; to trouble.**
 - **To be in [[a/_agitation|agitation]] or [[d/_doubt|doubt]].**
-- **To make a sound when struck.**
+- **To [[m/_make|make]] a sound when struck.**
 	- _Example: The drums beat._
-- **To make a succession of strokes on a [[d/_drum|drum]].**
+- **To [[m/_make|make]] a succession of strokes on a [[d/_drum|drum]].**
 	- _Example: The drummers beat to call soldiers to their quarters._
-- **To sound with more or less rapid [[a/_alternations|alternations]] of greater and less intensity, so as to produce a pulsating [[e/_effect|effect]]; said of instruments, tones, or vibrations, not perfectly in unison.**
+- **To sound with [[m/_more|more]] or [[l/_less|less]] rapid [[a/_alternations|alternations]] of [[g/_greater|greater]] and [[l/_less|less]] [[i/_intensity|intensity]], so as to produce a pulsating [[e/_effect|effect]]; said of [[i/_instruments|instruments]], tones, or vibrations, not perfectly in unison.**
 - **To [[a/_arrive|arrive]] at a place [[b/_before|before]] someone.**
 	- _Example: He beat me there._
-- **To have sexual intercourse.**
+- **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]].**
 	- _Example: Bruv, she came in just as we started to beat._
 - **To rob.**
 	- _Example: He beat me out of 12 bucks last night._
@@ -36,9 +36,9 @@
 - [[s/_shag|shag]], [[h/_hammer|hammer]], [[k/_knock|knock]], [[p/_pound|pound]], [[s/_strike|strike]], [[w/_whack|whack]], [[n/_negotiate|negotiate]]
 #adjective
 - **[[d/_defeated|Defeated]]**
-- **Repeatedly struck, or formed or flattened by [[b/_blows|blows]]**
+- **Repeatedly struck, or [[f/_formed|formed]] or [[f/_flattened|flattened]] by [[b/_blows|blows]]**
 	- _Example: a beaten path; beaten gold; the beaten victims of the attack_
-- **(of a liquid) mixed by paddling with a wooden spoon or other implement**
-- **Trite; hackneyed**
+- **(of a [[l/_liquid|liquid]]) [[m/_mixed|mixed]] by [[p/_paddling|paddling]] with a wooden spoon or [[o/_other|other]] [[i/_implement|implement]]**
+- **Trite; [[h/_hackneyed|hackneyed]]**
 ---
 ---

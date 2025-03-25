@@ -1,16 +1,16 @@
 # Child
 ---
 #noun
-- **A person who has not yet reached [[a/_adulthood|adulthood]], whether natural (puberty), [[c/_cultural|cultural]] (initiation), or legal (majority)**
+- **A person who [[h/_has|has]] not [[y/_yet|yet]] reached [[a/_adulthood|adulthood]], whether [[n/_natural|natural]] (puberty), [[c/_cultural|cultural]] ([[i/_initiation|initiation]]), or [[l/_legal|legal]] ([[m/_majority|majority]])**
 	- _Example: Go easy on him: he is but a child._
-- **(specifically) A female [[c/_child|child]], a girl.**
-- **(with possessive) One's [[d/_direct|direct]] [[d/_descendant|descendant]] by [[b/_birth|birth]], regardless of [[a/_age|age]]; a son or [[d/_daughter|daughter]].**
+- **(specifically) A [[f/_female|female]] [[c/_child|child]], a [[g/_girl|girl]].**
+- **(with possessive) [[o/_one|One]]'s [[d/_direct|direct]] [[d/_descendant|descendant]] by [[b/_birth|birth]], regardless of [[a/_age|age]]; a son or [[d/_daughter|daughter]].**
 	- _Example: My youngest child is forty-three this year._
 - **The thirteenth Lenormand [[c/_card|card]].**
-- **A figurative offspring, particularly:**
+- **A [[f/_figurative|figurative]] [[o/_offspring|offspring]], particularly:**
 ---
 #noun
-- **A [[c/_child|child]] of noble [[b/_birth|birth]].**
-- **The [[c/_cognomen|cognomen]] given to the oldest son prior to his taking his father's title.**
+- **A [[c/_child|child]] of [[n/_noble|noble]] [[b/_birth|birth]].**
+- **The [[c/_cognomen|cognomen]] [[g/_given|given]] to the [[o/_oldest|oldest]] son prior to [[h/_his|his]] taking [[h/_his|his]] [[f/_father|father]]'s title.**
 ---
 ---

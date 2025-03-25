@@ -1,7 +1,7 @@
 # Disobedience
 ---
 #noun
-- **Refusal to obey.**
+- **Refusal to [[o/_obey|obey]].**
 	- _Example: The teacher complained of the child's disobedience._
 ---
 ### Synonyms

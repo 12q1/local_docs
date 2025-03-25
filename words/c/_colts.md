@@ -1,15 +1,15 @@
 # Colts
 ---
 #noun
-- **A young male horse.**
-- **A young [[c/_crane|crane]] ([[b/_bird|bird]]).**
-- **A youthful or inexperienced person; a novice.**
-- **A short piece of rope once used by petty officers as an instrument of punishment.**
-- **A young [[c/_camel|camel]] or [[d/_donkey|donkey]].**
+- **A [[y/_young|young]] [[m/_male|male]] [[h/_horse|horse]].**
+- **A [[y/_young|young]] [[c/_crane|crane]] ([[b/_bird|bird]]).**
+- **A [[y/_youthful|youthful]] or [[i/_inexperienced|inexperienced]] person; a [[n/_novice|novice]].**
+- **A short piece of rope [[o/_once|once]] used by petty [[o/_officers|officers]] as an [[i/_instrument|instrument]] of punishment.**
+- **A [[y/_young|young]] [[c/_camel|camel]] or [[d/_donkey|donkey]].**
 ---
 #verb
-- **To horse; to get with young.**
+- **To [[h/_horse|horse]]; to [[g/_get|get]] with [[y/_young|young]].**
 - **To [[b/_befool|befool]].**
-- **To frisk or frolic like a [[c/_colt|colt]]; to [[a/_act|act]] licentiously or wantonly.**
+- **To [[f/_frisk|frisk]] or [[f/_frolic|frolic]] [[l/_like|like]] a [[c/_colt|colt]]; to [[a/_act|act]] [[l/_licentiously|licentiously]] or wantonly.**
 ---
 ---

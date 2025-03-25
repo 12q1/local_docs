@@ -1,0 +1,9 @@
+# Hatchel
+---
+#noun
+- **A [[c/_comb|comb]] used to separate [[f/_flax|flax]] [[f/_fibers|fibers]].**
+---
+#verb
+- **To separate ([[f/_flax|flax]] [[f/_fibers|fibers]]) with a [[h/_hatchel|hatchel]], or [[c/_comb|comb]].**
+---
+---

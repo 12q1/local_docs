@@ -1,6 +1,6 @@
 # Bowered
 ---
 #adjective
-- **Furnished with a [[b/_bower|bower]].**
+- **[[f/_furnished|Furnished]] with a [[b/_bower|bower]].**
 ---
 ---

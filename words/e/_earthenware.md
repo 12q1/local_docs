@@ -1,7 +1,7 @@
 # Earthenware
 ---
 #noun
-- **An opaque, semi-porous [[c/_ceramic|ceramic]] made from [[c/_clay|clay]] and other [[c/_compounds|compounds]].**
+- **An [[o/_opaque|opaque]], semi-porous [[c/_ceramic|ceramic]] [[m/_made|made]] from [[c/_clay|clay]] and [[o/_other|other]] [[c/_compounds|compounds]].**
 	- _Example: earthenware bowl_
 ---
 ---

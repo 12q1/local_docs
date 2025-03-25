@@ -1,11 +1,11 @@
 # Brandy
 ---
 #noun
-- **An [[a/_alcoholic|alcoholic]] liquor [[d/_distilled|distilled]] from wine or fermented fruit juice.**
+- **An [[a/_alcoholic|alcoholic]] [[l/_liquor|liquor]] [[d/_distilled|distilled]] from wine or [[f/_fermented|fermented]] [[f/_fruit|fruit]] [[j/_juice|juice]].**
 - **[[a/_any|Any]] variety of [[b/_brandy|brandy]].**
-- **A glass of [[b/_brandy|brandy]].**
+- **A [[g/_glass|glass]] of [[b/_brandy|brandy]].**
 ---
 #verb
-- **To preserve, flavour, or mix with [[b/_brandy|brandy]].**
+- **To preserve, [[f/_flavour|flavour]], or [[m/_mix|mix]] with [[b/_brandy|brandy]].**
 ---
 ---

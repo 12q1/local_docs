@@ -1,0 +1,6 @@
+# Jowar
+---
+#noun
+- **Sorghum**
+---
+---

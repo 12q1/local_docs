@@ -1,7 +1,7 @@
 # Bobby
 ---
 #noun
-- **A police officer.**
+- **A police [[o/_officer|officer]].**
 - **A railway signaller.**
 ---
 ---

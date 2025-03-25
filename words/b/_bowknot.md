@@ -1,6 +1,6 @@
 # Bowknot
 ---
 #noun
-- **A knot that has two loops and two loose [[e/_ends|ends]], [[e/_either|either]] used [[d/_decoratively|decoratively]], or to tie shoelaces.**
+- **A [[k/_knot|knot]] that [[h/_has|has]] two [[l/_loops|loops]] and two [[l/_loose|loose]] [[e/_ends|ends]], [[e/_either|either]] used [[d/_decoratively|decoratively]], or to tie shoelaces.**
 ---
 ---

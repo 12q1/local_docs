@@ -1,7 +1,7 @@
 # Antenuptial
 ---
 #adjective
-- **Occurring [[b/_before|before]] marriage; prenuptial.**
+- **[[o/_occurring|Occurring]] [[b/_before|before]] [[m/_marriage|marriage]]; prenuptial.**
 ---
 ### Synonyms
 - [[p/_prenuptial|prenuptial]]

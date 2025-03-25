@@ -1,6 +1,6 @@
 # Ductless
 ---
 #adjective
-- **Having no [[d/_duct|duct]].**
+- **[[h/_having|Having]] [[n/_no|no]] [[d/_duct|duct]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Disposable
 ---
 #noun
-- **[[a/_any|Any]] object that is [[d/_designed|designed]] to be [[d/_disposed|disposed]] of rather than refilled or repaired.**
+- **[[a/_any|Any]] [[o/_object|object]] that is [[d/_designed|designed]] to be [[d/_disposed|disposed]] of rather than refilled or repaired.**
 ---
 #adjective
 - **That [[c/_can|can]] be [[d/_disposed|disposed]] of.**

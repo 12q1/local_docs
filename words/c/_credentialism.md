@@ -1,6 +1,6 @@
 # Credentialism
 ---
 #noun
-- **Excessive [[e/_emphasis|emphasis]] on the importance of [[e/_educational|educational]], [[a/_academic|academic]], legal, or regulatory qualifications.**
+- **[[e/_excessive|Excessive]] [[e/_emphasis|emphasis]] on the [[i/_importance|importance]] of [[e/_educational|educational]], [[a/_academic|academic]], [[l/_legal|legal]], or regulatory qualifications.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Conjoint
 ---
 #adjective
-- **Joined together; [[c/_combined|combined]]; joint**
+- **[[j/_joined|Joined]] together; [[c/_combined|combined]]; [[j/_joint|joint]]**
 ---
 ---

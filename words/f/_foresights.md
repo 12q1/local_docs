@@ -1,0 +1,13 @@
+# Foresights
+---
+#noun
+- **The [[a/_ability|ability]] to [[f/_foresee|foresee]] or prepare wisely for the [[f/_future|future]].**
+	- _Example: Having the foresight to prepare an evacuation plan may have saved their lives._
+- **The [[f/_front|front]] sight on a rifle or similar weapon**
+- **A [[b/_bearing|bearing]] taken [[f/_forwards|forwards]] towards a [[n/_new|new]] [[o/_object|object]]**
+---
+### Synonyms
+- [[c/_clairvoyance|clairvoyance]], [[d/_divination|divination]], [[f/_foreknowledge|foreknowledge]], [[p/_prescience|prescience]], [[p/_prophecy|prophecy]]
+### Antonyms
+- [[h/_hindsight|hindsight]]
+---

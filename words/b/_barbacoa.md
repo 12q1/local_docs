@@ -1,6 +1,6 @@
 # Barbacoa
 ---
 #noun
-- **Meat slow-[[c/_cooked|cooked]] over an open fire, [[c/_characteristic|characteristic]] of Latin [[a/_american|American]] [[c/_cuisine|cuisine]].**
+- **[[m/_meat|Meat]] slow-[[c/_cooked|cooked]] [[o/_over|over]] an [[o/_open|open]] [[f/_fire|fire]], [[c/_characteristic|characteristic]] of [[l/_latin|Latin]] [[a/_american|American]] [[c/_cuisine|cuisine]].**
 ---
 ---

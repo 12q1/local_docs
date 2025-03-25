@@ -1,15 +1,15 @@
 # Banded
 ---
 #verb
-- **To fasten with a [[b/_band|band]].**
-- **To fasten an identifying [[b/_band|band]] [[a/_around|around]] the leg of (a [[b/_bird|bird]]).**
+- **To [[f/_fasten|fasten]] with a [[b/_band|band]].**
+- **To [[f/_fasten|fasten]] an [[i/_identifying|identifying]] [[b/_band|band]] [[a/_around|around]] the [[l/_leg|leg]] of (a [[b/_bird|bird]]).**
 ---
 #verb
-- **To group together for a [[c/_common|common]] purpose; to [[c/_confederate|confederate]].**
-- **To group (students) together by perceived [[a/_ability|ability]]; to stream.**
+- **To [[g/_group|group]] together for a [[c/_common|common]] purpose; to [[c/_confederate|confederate]].**
+- **To [[g/_group|group]] (students) together by perceived [[a/_ability|ability]]; to stream.**
 ---
 #adjective
-- **Marked with [[b/_bands|bands]] of [[c/_colour|colour]]**
-- **[[d/_divided|Divided]] into [[b/_bands|bands]]**
+- **[[m/_marked|Marked]] with [[b/_bands|bands]] of [[c/_colour|colour]]**
+- **[[d/_divided|Divided]] [[i/_into|into]] [[b/_bands|bands]]**
 ---
 ---

@@ -1,8 +1,8 @@
 # Claggy
 ---
 #adjective
-- **(of mud, tar, glue or the like) Sticky or tacky.**
-- **(specifically, of a roof in a mine) [[a/_adhesive|Adhesive]], having [[c/_coal|coal]] [[c/_clinging|clinging]] to it.**
+- **(of [[m/_mud|mud]], tar, [[g/_glue|glue]] or the [[l/_like|like]]) Sticky or tacky.**
+- **(specifically, of a roof in a [[m/_mine|mine]]) [[a/_adhesive|Adhesive]], [[h/_having|having]] [[c/_coal|coal]] [[c/_clinging|clinging]] to it.**
 ---
 ### Synonyms
 - [[a/_agglutinative|agglutinative]], [[t/_tenacious|tenacious]]

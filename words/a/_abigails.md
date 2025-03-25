@@ -1,6 +1,6 @@
 # Abigails
 ---
 #noun
-- **A lady's maid.**
+- **A [[l/_lady|lady]]'s [[m/_maid|maid]].**
 ---
 ---

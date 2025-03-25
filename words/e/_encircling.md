@@ -1,8 +1,8 @@
 # Encircling
 ---
 #verb
-- **To surround, form a [[c/_circle|circle]] [[a/_around|around]].**
-- **To move or go [[a/_around|around]] [[c/_completely|completely]].**
+- **To surround, [[f/_form|form]] a [[c/_circle|circle]] [[a/_around|around]].**
+- **To [[m/_move|move]] or [[g/_go|go]] [[a/_around|around]] [[c/_completely|completely]].**
 ---
 #noun
 - **[[e/_encirclement|Encirclement]]**

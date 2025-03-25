@@ -1,9 +1,9 @@
 # Bullrushes
 ---
 #noun
-- **A headlong rush into something, heedless of [[d/_danger|danger]].**
+- **A [[h/_headlong|headlong]] rush [[i/_into|into]] something, [[h/_heedless|heedless]] of [[d/_danger|danger]].**
 ---
 #noun
-- **[[a/_any|Any]] of several wetland plants, mostly in the family [[c/_cyperaceae|Cyperaceae]] (the sedges):**
+- **[[a/_any|Any]] of several wetland plants, [[m/_mostly|mostly]] in the [[f/_family|family]] [[c/_cyperaceae|Cyperaceae]] (the sedges):**
 ---
 ---

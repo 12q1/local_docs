@@ -1,16 +1,16 @@
 # Coining
 ---
 #verb
-- **To make of a [[d/_definite|definite]] fineness, and [[c/_convert|convert]] into [[c/_coins|coins]], as a mass of metal.**
+- **To [[m/_make|make]] of a [[d/_definite|definite]] [[f/_fineness|fineness]], and [[c/_convert|convert]] [[i/_into|into]] [[c/_coins|coins]], as a [[m/_mass|mass]] of [[m/_metal|metal]].**
 	- _Example: to coin a medal_
-- **(by extension) To make or fabricate.**
+- **(by [[e/_extension|extension]]) To [[m/_make|make]] or [[f/_fabricate|fabricate]].**
 	- _Example: Over the last century the advance in science has led to many new words being coined._
-- **To [[a/_acquire|acquire]] rapidly, as money; to make.**
+- **To [[a/_acquire|acquire]] rapidly, as [[m/_money|money]]; to [[m/_make|make]].**
 ---
 ### Synonyms
 - [[i/_invent|invent]], [[o/_originate|originate]], [[m/_manufacture|manufacture]], [[m/_mint|mint]]
 #noun
-- **A form of [[a/_alternative|alternative]] medicine from Southeast [[a/_asia|Asia]] where a [[c/_coin|coin]] is rubbed vigorously on a patient's oiled skin.**
+- **A [[f/_form|form]] of [[a/_alternative|alternative]] [[m/_medicine|medicine]] from Southeast [[a/_asia|Asia]] where a [[c/_coin|coin]] is rubbed vigorously on a patient's [[o/_oiled|oiled]] skin.**
 - **A [[c/_created|created]] word or phrase.**
 ---
 ### Synonyms

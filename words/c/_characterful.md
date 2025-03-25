@@ -1,6 +1,6 @@
 # Characterful
 ---
 #adjective
-- **Full of [[c/_character|character]].**
+- **[[f/_full|Full]] of [[c/_character|character]].**
 ---
 ---

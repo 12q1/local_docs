@@ -1,6 +1,6 @@
 # Deuteranope
 ---
 #noun
-- **One who has [[d/_deuteranopia|deuteranopia]].**
+- **[[o/_one|One]] who [[h/_has|has]] [[d/_deuteranopia|deuteranopia]].**
 ---
 ---

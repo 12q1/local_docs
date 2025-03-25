@@ -1,0 +1,6 @@
+# Fitchews
+---
+#noun
+- **Polecat**
+---
+---

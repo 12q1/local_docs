@@ -1,12 +1,12 @@
 # Capos
 ---
 #noun
-- **A movable [[b/_bar|bar]] placed [[a/_across|across]] the fingerboard of a guitar used to raise the pitch of [[a/_all|all]] strings.**
+- **A [[m/_movable|movable]] [[b/_bar|bar]] placed [[a/_across|across]] the [[f/_fingerboard|fingerboard]] of a [[g/_guitar|guitar]] used to raise the pitch of [[a/_all|all]] strings.**
 ---
 ### Synonyms
 - [[c/_capotasto|capotasto]]
 #noun
-- **A leader in the Mafia; a caporegime.**
-- **A leader and organizer of supporters at a sporting event, particularly [[a/_association|association]] football matches.**
+- **A [[l/_leader|leader]] in the [[m/_mafia|Mafia]]; a caporegime.**
+- **A [[l/_leader|leader]] and [[o/_organizer|organizer]] of supporters at a sporting [[e/_event|event]], particularly [[a/_association|association]] [[f/_football|football]] [[m/_matches|matches]].**
 ---
 ---

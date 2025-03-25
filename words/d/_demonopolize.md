@@ -1,6 +1,6 @@
 # Demonopolize
 ---
 #verb
-- **To [[b/_break|break]] up (a monopoly), sometimes by privatizing a previously nationalized industry.**
+- **To [[b/_break|break]] up (a [[m/_monopoly|monopoly]]), sometimes by privatizing a previously [[n/_nationalized|nationalized]] [[i/_industry|industry]].**
 ---
 ---

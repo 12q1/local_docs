@@ -1,6 +1,6 @@
 # Cardiologists
 ---
 #noun
-- **A physician who specializes in medical problems related to the heart.**
+- **A physician who specializes in [[m/_medical|medical]] problems related to the [[h/_heart|heart]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Disconformity
 ---
 #noun
-- **A type of unconformity in which [[e/_erosion|erosion]] or lack of [[d/_deposition|deposition]] has occurred [[b/_between|between]] two parallel sedimentary strata.**
-- **Nonconformity**
+- **A type of unconformity in which [[e/_erosion|erosion]] or [[l/_lack|lack]] of [[d/_deposition|deposition]] [[h/_has|has]] [[o/_occurred|occurred]] [[b/_between|between]] two parallel sedimentary strata.**
+- **[[n/_nonconformity|Nonconformity]]**
 ---
 ---

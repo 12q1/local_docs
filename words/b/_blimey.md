@@ -1,7 +1,7 @@
 # Blimey
 ---
 #interjection
-- **Used to express [[a/_anger|anger]], excitement, surprise, [[e/_etc|etc]].**
+- **Used to [[e/_express|express]] [[a/_anger|anger]], [[e/_excitement|excitement]], surprise, [[e/_etc|etc]].**
 	- _Example: Blimey! I didn’t see that!_
 ---
 ### Synonyms

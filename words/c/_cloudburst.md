@@ -1,7 +1,7 @@
 # Cloudburst
 ---
 #noun
-- **A sudden heavy rainstorm.**
+- **A sudden [[h/_heavy|heavy]] rainstorm.**
 ---
 ### Synonyms
 - [[c/_cloudbust|cloudbust]]

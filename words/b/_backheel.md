@@ -1,11 +1,11 @@
 # Backheel
 ---
 #noun
-- **A kick played by the heel which typically travels in the opposite [[d/_direction|direction]] from which the player is facing.**
-- **A method of tripping or throwing by getting the leg [[b/_back|back]] of the opponent's heel on the outside and pulling forward while pushing his [[b/_body|body]] [[b/_back|back]].**
+- **A [[k/_kick|kick]] played by the [[h/_heel|heel]] which typically travels in the [[o/_opposite|opposite]] [[d/_direction|direction]] from which the player is [[f/_facing|facing]].**
+- **A [[m/_method|method]] of tripping or throwing by [[g/_getting|getting]] the [[l/_leg|leg]] [[b/_back|back]] of the [[o/_opponent|opponent]]'s [[h/_heel|heel]] on the [[o/_outside|outside]] and pulling [[f/_forward|forward]] while pushing [[h/_his|his]] [[b/_body|body]] [[b/_back|back]].**
 ---
 #verb
-- **To perform such a kick.**
+- **To perform such a [[k/_kick|kick]].**
 - **To perform such a trip or throw.**
 ---
 ---

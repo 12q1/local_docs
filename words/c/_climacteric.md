@@ -2,13 +2,13 @@
 ---
 #noun
 - **A [[c/_critical|critical]] stage or [[d/_decisive|decisive]] point; a turning point.**
-- **A period in human life in which some great [[c/_change|change]] is supposed to take place, [[c/_calculated|calculated]] in [[d/_different|different]] ways by [[d/_different|different]] [[a/_authorities|authorities]] (often identified as every seventh or ninth year).**
-- **The period of life that leads up to and follows the [[e/_end|end]] of menstruation in women; the menopause.**
+- **A period in [[h/_human|human]] [[l/_life|life]] in which some [[g/_great|great]] [[c/_change|change]] is supposed to take place, [[c/_calculated|calculated]] in [[d/_different|different]] ways by [[d/_different|different]] [[a/_authorities|authorities]] ([[o/_often|often]] [[i/_identified|identified]] as [[e/_every|every]] seventh or [[n/_ninth|ninth]] [[y/_year|year]]).**
+- **The period of [[l/_life|life]] that [[l/_leads|leads]] up to and [[f/_follows|follows]] the [[e/_end|end]] of [[m/_menstruation|menstruation]] in women; the [[m/_menopause|menopause]].**
 ---
 #adjective
-- **Pertaining to [[a/_any|any]] of several supposedly [[c/_critical|critical]] years of a person's life.**
+- **Pertaining to [[a/_any|any]] of several supposedly [[c/_critical|critical]] [[y/_years|years]] of a person's [[l/_life|life]].**
 - **[[c/_critical|Critical]] or [[c/_crucial|crucial]]; [[d/_decisive|decisive]].**
-- **Relating to a period of physiological [[c/_change|change]] [[d/_during|during]] middle [[a/_age|age]]; [[e/_especially|especially]], menopausal.**
+- **Relating to a period of physiological [[c/_change|change]] [[d/_during|during]] [[m/_middle|middle]] [[a/_age|age]]; [[e/_especially|especially]], [[m/_menopausal|menopausal]].**
 - **[[c/_climactic|Climactic]].**
 ---
 ---

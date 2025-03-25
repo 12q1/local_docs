@@ -1,7 +1,7 @@
 # Dancette
 ---
 #noun
-- **A zigzag or indented line or figure.**
-- **The [[c/_chevron|chevron]] or zigzag moulding [[c/_common|common]] in Romanesque [[a/_architecture|architecture]].**
+- **A zigzag or [[i/_indented|indented]] [[l/_line|line]] or [[f/_figure|figure]].**
+- **The [[c/_chevron|chevron]] or zigzag [[m/_moulding|moulding]] [[c/_common|common]] in Romanesque [[a/_architecture|architecture]].**
 ---
 ---

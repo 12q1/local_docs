@@ -1,13 +1,13 @@
 # Cheep
 ---
 #noun
-- **A short, high-pitched sound made by a small [[b/_bird|bird]].**
+- **A short, [[h/_high|high]]-pitched sound [[m/_made|made]] by a small [[b/_bird|bird]].**
 ---
 #verb
-- **Of a small [[b/_bird|bird]], to make short, high-pitched sounds sounding like "[[c/_cheep|cheep]]".**
-- **To express in a [[c/_chirping|chirping]] tone.**
+- **Of a small [[b/_bird|bird]], to [[m/_make|make]] short, [[h/_high|high]]-pitched sounds sounding [[l/_like|like]] "[[c/_cheep|cheep]]".**
+- **To [[e/_express|express]] in a [[c/_chirping|chirping]] tone.**
 ---
 #interjection
-- **The short, high-pitched sound made by a small [[b/_bird|bird]].**
+- **The short, [[h/_high|high]]-pitched sound [[m/_made|made]] by a small [[b/_bird|bird]].**
 ---
 ---

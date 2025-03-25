@@ -1,11 +1,11 @@
 # Blatter
 ---
 #noun
-- **[[b/_blather|Blather]]; foolish talk.**
-- **A sound of rapid motion.**
+- **[[b/_blather|Blather]]; [[f/_foolish|foolish]] talk.**
+- **A sound of rapid [[m/_motion|motion]].**
 ---
 #verb
 - **To [[b/_blather|blather]].**
-- **To hurry or rush noisily.**
+- **To [[h/_hurry|hurry]] or rush [[n/_noisily|noisily]].**
 ---
 ---

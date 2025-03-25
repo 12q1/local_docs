@@ -1,6 +1,6 @@
 # Bandleader
 ---
 #noun
-- **A musician who leads a [[b/_band|band]] of musicians.**
+- **A [[m/_musician|musician]] who [[l/_leads|leads]] a [[b/_band|band]] of [[m/_musicians|musicians]].**
 ---
 ---

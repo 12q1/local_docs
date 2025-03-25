@@ -1,8 +1,8 @@
 # Apprehensive
 ---
 #adjective
-- **[[a/_anticipating|Anticipating]] something with [[a/_anxiety|anxiety]] or fear.**
-- **Perceptive; quick to learn; [[c/_capable|capable]] of understanding using one's intellect.**
+- **[[a/_anticipating|Anticipating]] something with [[a/_anxiety|anxiety]] or [[f/_fear|fear]].**
+- **Perceptive; quick to [[l/_learn|learn]]; [[c/_capable|capable]] of understanding using [[o/_one|one]]'s [[i/_intellect|intellect]].**
 ---
 ### Synonyms
 - 

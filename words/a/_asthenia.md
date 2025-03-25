@@ -1,6 +1,6 @@
 # Asthenia
 ---
 #noun
-- **Weakness; loss of strength.**
+- **Weakness; [[l/_loss|loss]] of strength.**
 ---
 ---

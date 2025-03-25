@@ -1,6 +1,6 @@
 # Bogland
 ---
 #noun
-- **Land that is predominantly [[b/_boggy|boggy]]; marshland.**
+- **[[l/_land|Land]] that is predominantly [[b/_boggy|boggy]]; [[m/_marshland|marshland]].**
 ---
 ---

@@ -1,12 +1,12 @@
 # Declaratives
 ---
 #noun
-- **A written or oral indication of a fact, opinion, or [[b/_belief|belief]].**
-- **A list of items for various legal purposes, [[e/_e|e]].g. [[c/_customs|customs]] [[d/_declaration|declaration]].**
+- **A written or [[o/_oral|oral]] [[i/_indication|indication]] of a [[f/_fact|fact]], [[o/_opinion|opinion]], or [[b/_belief|belief]].**
+- **A [[l/_list|list]] of [[i/_items|items]] for various [[l/_legal|legal]] purposes, [[e/_e|e]].[[g/_g|g]]. [[c/_customs|customs]] [[d/_declaration|declaration]].**
 - **The [[a/_act|act]] or process of [[d/_declaring|declaring]].**
-- **The [[a/_act|act]], by the [[c/_captain|captain]] of a [[b/_batting|batting]] side, of [[d/_declaring|declaring]] an innings [[c/_closed|closed]].**
-- **In [[c/_common|common]] law, the formal [[d/_document|document]] specifying plaintiff's [[c/_cause|cause]] of [[a/_action|action]], including the facts necessary to sustain a proper [[c/_cause|cause]] of [[a/_action|action]], and to [[a/_advise|advise]] the [[d/_defendant|defendant]] of the grounds upon which he is [[b/_being|being]] sued.**
-- **The specification of an object, such as a variable or function, [[e/_establishing|establishing]] its existence but not necessarily [[d/_describing|describing]] its [[c/_contents|contents]].**
+- **The [[a/_act|act]], by the [[c/_captain|captain]] of a [[b/_batting|batting]] side, of [[d/_declaring|declaring]] an [[i/_innings|innings]] [[c/_closed|closed]].**
+- **In [[c/_common|common]] [[l/_law|law]], the [[f/_formal|formal]] [[d/_document|document]] specifying plaintiff's [[c/_cause|cause]] of [[a/_action|action]], [[i/_including|including]] the [[f/_facts|facts]] [[n/_necessary|necessary]] to sustain a proper [[c/_cause|cause]] of [[a/_action|action]], and to [[a/_advise|advise]] the [[d/_defendant|defendant]] of the [[g/_grounds|grounds]] upon which [[h/_he|he]] is [[b/_being|being]] sued.**
+- **The specification of an [[o/_object|object]], such as a variable or [[f/_function|function]], [[e/_establishing|establishing]] [[i/_its|its]] [[e/_existence|existence]] but not [[n/_necessarily|necessarily]] [[d/_describing|describing]] [[i/_its|its]] [[c/_contents|contents]].**
 ---
 ### Synonyms
 - [[n/_notice|notice]], [[n/_notice|notice]], [[s/_statement|statement]], [[a/_avowal|avowal]], [[n/_notice|notice]], [[s/_statement|statement]]

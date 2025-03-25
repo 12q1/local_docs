@@ -1,0 +1,11 @@
+# Greetings
+---
+#noun
+- **A [[c/_conventional|conventional]] phrase used to start a [[l/_letter|letter]] or [[c/_conversation|conversation]] or [[o/_otherwise|otherwise]] to [[a/_acknowledge|acknowledge]] a person's [[a/_arrival|arrival]] or presence.**
+	- _Example: It's polite to begin a letter with a greeting, but this practice is less common in email._
+- **The [[a/_action|action]] of the verb to [[g/_greet|greet]].**
+---
+#interjection
+- **(sometimes [[f/_formal|formal]], sometimes [[h/_humorous|humorous]]) [[h/_hello|hello]]**
+---
+---

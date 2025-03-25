@@ -1,6 +1,6 @@
 # Arrah
 ---
 #interjection
-- **An expletive.**
+- **An [[e/_expletive|expletive]].**
 ---
 ---

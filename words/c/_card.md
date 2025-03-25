@@ -2,38 +2,38 @@
 ---
 #noun
 - **A playing [[c/_card|card]].**
-- **(in the plural) [[a/_any|Any]] game using playing [[c/_cards|cards]]; a [[c/_card|card]] game.**
+- **(in the plural) [[a/_any|Any]] [[g/_game|game]] using playing [[c/_cards|cards]]; a [[c/_card|card]] [[g/_game|game]].**
 	- _Example: He played cards with his friends._
 - **A resource or an [[a/_argument|argument]], used to [[a/_achieve|achieve]] a purpose.**
 	- _Example: He accused them of playing the race card._
-- **[[a/_any|Any]] flat, normally rectangular piece of stiff paper, plastic [[e/_etc|etc]].**
-- **A map or [[c/_chart|chart]].**
-- **An [[a/_amusing|amusing]] or [[e/_entertaining|entertaining]] person, often slightly [[e/_eccentrically|eccentrically]] so.**
-- **A list of scheduled events or of performers or [[c/_contestants|contestants]].**
+- **[[a/_any|Any]] [[f/_flat|flat]], [[n/_normally|normally]] rectangular piece of stiff paper, plastic [[e/_etc|etc]].**
+- **A [[m/_map|map]] or [[c/_chart|chart]].**
+- **An [[a/_amusing|amusing]] or [[e/_entertaining|entertaining]] person, [[o/_often|often]] slightly [[e/_eccentrically|eccentrically]] so.**
+- **A [[l/_list|list]] of scheduled [[e/_events|events]] or of performers or [[c/_contestants|contestants]].**
 	- _Example: What’s on the card for tonight?_
-- **A tabular presentation of the key statistics of an innings or match: [[b/_batsmen|batsmen]]’s scores and how they were [[d/_dismissed|dismissed]], extras, total score and [[b/_bowling|bowling]] figures.**
-- **A removable [[e/_electronic|electronic]] [[d/_device|device]] that may be inserted into a powered [[e/_electronic|electronic]] [[d/_device|device]] to provide [[a/_additional|additional]] [[c/_capability|capability]].**
+- **A tabular presentation of the [[k/_key|key]] statistics of an [[i/_innings|innings]] or [[m/_match|match]]: [[b/_batsmen|batsmen]]’s scores and [[h/_how|how]] they were [[d/_dismissed|dismissed]], [[e/_extras|extras]], total score and [[b/_bowling|bowling]] [[f/_figures|figures]].**
+- **A removable [[e/_electronic|electronic]] [[d/_device|device]] that [[m/_may|may]] be [[i/_inserted|inserted]] [[i/_into|into]] a powered [[e/_electronic|electronic]] [[d/_device|device]] to provide [[a/_additional|additional]] [[c/_capability|capability]].**
 	- _Example: He needed to replace the card his computer used to connect to the internet._
-- **A greeting [[c/_card|card]].**
+- **A [[g/_greeting|greeting]] [[c/_card|card]].**
 	- _Example: She gave her neighbors a card congratulating them on their new baby._
 - **A [[b/_business|business]] [[c/_card|card]].**
 	- _Example: The realtor gave me her card so I could call if I had any questions about buying a house._
-- **Title [[c/_card|card]] / Intertitle: A piece of filmed, printed text [[e/_edited|edited]] into the midst of the photographed [[a/_action|action]] at various points, generally to [[c/_convey|convey]] [[c/_character|character]] [[d/_dialogue|dialogue]] or [[d/_descriptive|descriptive]] narrative material related to the plot.**
+- **Title [[c/_card|card]] / Intertitle: A piece of [[f/_filmed|filmed]], printed text [[e/_edited|edited]] [[i/_into|into]] the [[m/_midst|midst]] of the photographed [[a/_action|action]] at various points, [[g/_generally|generally]] to [[c/_convey|convey]] [[c/_character|character]] [[d/_dialogue|dialogue]] or [[d/_descriptive|descriptive]] [[n/_narrative|narrative]] [[m/_material|material]] related to the plot.**
 - **A test [[c/_card|card]].**
-- **A published note, [[c/_containing|containing]] a [[b/_brief|brief]] statement, explanation, request, expression of thanks, [[e/_etc|etc]].**
+- **A published [[n/_note|note]], [[c/_containing|containing]] a [[b/_brief|brief]] statement, [[e/_explanation|explanation]], request, [[e/_expression|expression]] of thanks, [[e/_etc|etc]].**
 	- _Example: to put a card in the newspapers_
 - **A printed programme.**
-- **(by extension) An [[a/_attraction|attraction]] or inducement.**
+- **(by [[e/_extension|extension]]) An [[a/_attraction|attraction]] or [[i/_inducement|inducement]].**
 	- _Example: This will be a good card for the last day of the fair._
-- **A paper on which the points of the [[c/_compass|compass]] are marked; the [[d/_dial|dial]] or face of the mariner's [[c/_compass|compass]].**
-- **A perforated pasteboard or sheet-metal plate for warp threads, making part of the Jacquard [[a/_apparatus|apparatus]] of a loom.**
-- **An indicator [[c/_card|card]].**
+- **A paper on which the points of the [[c/_compass|compass]] are [[m/_marked|marked]]; the [[d/_dial|dial]] or [[f/_face|face]] of the [[m/_mariner|mariner]]'s [[c/_compass|compass]].**
+- **A perforated pasteboard or sheet-[[m/_metal|metal]] plate for warp threads, [[m/_making|making]] part of the [[j/_jacquard|Jacquard]] [[a/_apparatus|apparatus]] of a [[l/_loom|loom]].**
+- **An [[i/_indicator|indicator]] [[c/_card|card]].**
 ---
 #verb
-- **To [[c/_check|check]] IDs, [[e/_especially|especially]] [[a/_against|against]] a minimum [[a/_age|age]] requirement.**
+- **To [[c/_check|check]] [[i/_ids|IDs]], [[e/_especially|especially]] [[a/_against|against]] a [[m/_minimum|minimum]] [[a/_age|age]] requirement.**
 	- _Example: I heard you don't get carded at the other liquor store._
 - **To play [[c/_cards|cards]].**
-- **To make (a stated score), as recorded on a scoring [[c/_card|card]].**
+- **To [[m/_make|make]] (a stated score), as recorded on a scoring [[c/_card|card]].**
 	- _Example: McIlroy carded a stellar nine-under-par 61 in the final round._
 ---
 ---

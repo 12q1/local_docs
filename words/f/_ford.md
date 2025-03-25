@@ -1,0 +1,10 @@
+# Ford
+---
+#noun
+- **A [[l/_location|location]] where a stream is shallow and the [[b/_bottom|bottom]] [[h/_has|has]] [[g/_good|good]] [[f/_footing|footing]], [[m/_making|making]] it possible to [[c/_cross|cross]] from [[o/_one|one]] side to the [[o/_other|other]] with [[n/_no|no]] [[b/_bridge|bridge]], by walking, riding, or [[d/_driving|driving]] through the water; a [[c/_crossing|crossing]].**
+- **A stream; a [[c/_current|current]].**
+---
+#verb
+- **To [[c/_cross|cross]] a stream using a [[f/_ford|ford]].**
+---
+---

@@ -1,7 +1,7 @@
 # Eastward
 ---
 #noun
-- **The [[d/_direction|direction]] or [[a/_area|area]] lying to the [[e/_east|east]].**
+- **The [[d/_direction|direction]] or [[a/_area|area]] [[l/_lying|lying]] to the [[e/_east|east]].**
 ---
 #adjective
 - **Situated or [[d/_directed|directed]] towards the [[e/_east|east]].**

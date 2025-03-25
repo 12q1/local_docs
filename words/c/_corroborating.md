@@ -1,8 +1,8 @@
 # Corroborating
 ---
 #verb
-- **To [[c/_confirm|confirm]] or support something with [[a/_additional|additional]] evidence; to [[a/_attest|attest]] or vouch for.**
-- **To make strong; to strengthen.**
+- **To [[c/_confirm|confirm]] or support something with [[a/_additional|additional]] [[e/_evidence|evidence]]; to [[a/_attest|attest]] or vouch for.**
+- **To [[m/_make|make]] strong; to strengthen.**
 ---
 #adjective
 - **Supporting**

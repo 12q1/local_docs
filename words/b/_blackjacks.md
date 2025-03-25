@@ -1,12 +1,12 @@
 # Blackjacks
 ---
 #noun
-- **A [[c/_common|common]] gambling [[c/_card|card]] game in [[c/_casinos|casinos]], where the object is to get as [[c/_close|close]] to 21 without going over.**
-- **A hand in the game of [[b/_blackjack|blackjack]] [[c/_consisting|consisting]] of a face [[c/_card|card]] and an [[a/_ace|ace]].**
-- **The flag (i.[[e/_e|e]]., a jack) traditionally flown by pirate ships; popularly thought to be a white skull and [[c/_crossed|crossed]] [[b/_bones|bones]] on a [[b/_black|black]] field (the Jolly Roger).**
-- **A small, flat, [[b/_blunt|blunt]], usually leather-[[c/_covered|covered]] weapon loaded with heavy material such as lead or [[b/_ball|ball]] [[b/_bearings|bearings]], intended to inflict a [[b/_blow|blow]] to the head that renders the victim unconscious with [[d/_diminished|diminished]] risk of lasting [[c/_cranial|cranial]] trauma.**
-- **[[a/_any|Any]] of several species of weed of genus [[b/_bidens|Bidens]], such as [[b/_bidens|Bidens]] pilosa, in the family [[c/_compositae|Compositae]].**
-- **A [[b/_blackjack|blackjack]] oak.**
+- **A [[c/_common|common]] [[g/_gambling|gambling]] [[c/_card|card]] [[g/_game|game]] in [[c/_casinos|casinos]], where the [[o/_object|object]] is to [[g/_get|get]] as [[c/_close|close]] to 21 without [[g/_going|going]] [[o/_over|over]].**
+- **A [[h/_hand|hand]] in the [[g/_game|game]] of [[b/_blackjack|blackjack]] [[c/_consisting|consisting]] of a [[f/_face|face]] [[c/_card|card]] and an [[a/_ace|ace]].**
+- **The [[f/_flag|flag]] ([[i/_i|i]].[[e/_e|e]]., a [[j/_jack|jack]]) traditionally [[f/_flown|flown]] by pirate ships; popularly thought to be a white skull and [[c/_crossed|crossed]] [[b/_bones|bones]] on a [[b/_black|black]] [[f/_field|field]] (the [[j/_jolly|Jolly]] Roger).**
+- **A small, [[f/_flat|flat]], [[b/_blunt|blunt]], usually [[l/_leather|leather]]-[[c/_covered|covered]] weapon [[l/_loaded|loaded]] with [[h/_heavy|heavy]] [[m/_material|material]] such as [[l/_lead|lead]] or [[b/_ball|ball]] [[b/_bearings|bearings]], [[i/_intended|intended]] to [[i/_inflict|inflict]] a [[b/_blow|blow]] to the [[h/_head|head]] that renders the victim unconscious with [[d/_diminished|diminished]] risk of [[l/_lasting|lasting]] [[c/_cranial|cranial]] trauma.**
+- **[[a/_any|Any]] of several species of weed of [[g/_genus|genus]] [[b/_bidens|Bidens]], such as [[b/_bidens|Bidens]] pilosa, in the [[f/_family|family]] [[c/_compositae|Compositae]].**
+- **A [[b/_blackjack|blackjack]] [[o/_oak|oak]].**
 ---
 #verb
 - **To strike with a [[b/_blackjack|blackjack]] or similar weapon.**

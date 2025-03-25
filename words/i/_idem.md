@@ -1,0 +1,6 @@
+# Idem
+---
+#pronoun
+- **The same.**
+---
+---

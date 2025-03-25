@@ -1,8 +1,8 @@
 # Bimolecular
 ---
 #adjective
-- **(of a reaction) involving two molecules**
-- **[[c/_consisting|Consisting]] of two layers of molecules**
+- **(of a reaction) [[i/_involving|involving]] two [[m/_molecules|molecules]]**
+- **[[c/_consisting|Consisting]] of two [[l/_layers|layers]] of [[m/_molecules|molecules]]**
 - **Relating to bimolecules**
 ---
 ---

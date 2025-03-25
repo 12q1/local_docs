@@ -1,6 +1,6 @@
 # Dogger
 ---
 #noun
-- **A two-masted fishing vessel, used by the [[d/_dutch|Dutch]].**
+- **A two-[[m/_masted|masted]] [[f/_fishing|fishing]] vessel, used by the [[d/_dutch|Dutch]].**
 ---
 ---

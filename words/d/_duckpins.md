@@ -1,6 +1,6 @@
 # Duckpins
 ---
 #noun
-- **A short, squat form of tenpin.**
+- **A short, squat [[f/_form|form]] of tenpin.**
 ---
 ---

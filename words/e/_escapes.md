@@ -1,31 +1,31 @@
 # Escapes
 ---
 #noun
-- **The [[a/_act|act]] of leaving a [[d/_dangerous|dangerous]] or unpleasant situation.**
+- **The [[a/_act|act]] of [[l/_leaving|leaving]] a [[d/_dangerous|dangerous]] or unpleasant situation.**
 	- _Example: The prisoners made their escape by digging a tunnel._
-- **Leakage or outflow, as of steam or a liquid, or an [[e/_electric|electric]] [[c/_current|current]] through [[d/_defective|defective]] insulation.**
-- **Something that has [[e/_escaped|escaped]]; an [[e/_escapee|escapee]].**
-- **A holiday, viewed as time [[a/_away|away]] from the vicissitudes of life.**
-- **[[e/_escape|Escape]] key**
-- **The text [[c/_character|character]] represented by 27 ([[d/_decimal|decimal]]) or 1B (hexadecimal).**
+- **[[l/_leakage|Leakage]] or [[o/_outflow|outflow]], as of steam or a [[l/_liquid|liquid]], or an [[e/_electric|electric]] [[c/_current|current]] through [[d/_defective|defective]] [[i/_insulation|insulation]].**
+- **Something that [[h/_has|has]] [[e/_escaped|escaped]]; an [[e/_escapee|escapee]].**
+- **A [[h/_holiday|holiday]], viewed as time [[a/_away|away]] from the vicissitudes of [[l/_life|life]].**
+- **[[e/_escape|Escape]] [[k/_key|key]]**
+- **The text [[c/_character|character]] represented by 27 ([[d/_decimal|decimal]]) or 1B ([[h/_hexadecimal|hexadecimal]]).**
 	- _Example: You forgot to insert an escape in the datastream._
 - **A successful shot from a snooker position.**
-- **A [[d/_defective|defective]] product that is [[a/_allowed|allowed]] to leave a manufacturing facility.**
-- **That which [[e/_escapes|escapes]] [[a/_attention|attention]] or restraint; a mistake, oversight, or transgression.**
+- **A [[d/_defective|defective]] product that is [[a/_allowed|allowed]] to [[l/_leave|leave]] a [[m/_manufacturing|manufacturing]] [[f/_facility|facility]].**
+- **That which [[e/_escapes|escapes]] [[a/_attention|attention]] or restraint; a [[m/_mistake|mistake]], [[o/_oversight|oversight]], or transgression.**
 - **A sally.**
 - **An [[a/_apophyge|apophyge]].**
 ---
 #verb
-- **To get free; to free oneself.**
+- **To [[g/_get|get]] [[f/_free|free]]; to [[f/_free|free]] [[o/_oneself|oneself]].**
 	- _Example: The factory was evacuated after toxic gases escaped from a pipe._
-- **To [[a/_avoid|avoid]] ([[a/_any|any]] unpleasant person or thing); to [[e/_elude|elude]], get [[a/_away|away]] from.**
+- **To [[a/_avoid|avoid]] ([[a/_any|any]] unpleasant person or thing); to [[e/_elude|elude]], [[g/_get|get]] [[a/_away|away]] from.**
 	- _Example: He only got a fine and so escaped going to jail._
-- **To [[a/_avoid|avoid]] [[c/_capture|capture]]; to get [[a/_away|away]] with something, [[a/_avoid|avoid]] punishment.**
+- **To [[a/_avoid|avoid]] [[c/_capture|capture]]; to [[g/_get|get]] [[a/_away|away]] with something, [[a/_avoid|avoid]] punishment.**
 	- _Example: Luckily, I escaped with only a fine._
-- **To [[e/_elude|elude]] the observation or notice of; to not be seen or remembered by.**
+- **To [[e/_elude|elude]] the [[o/_observation|observation]] or [[n/_notice|notice]] of; to not be seen or remembered by.**
 	- _Example: The name of the hotel escapes me at present._
-- **To [[c/_cause|cause]] (a single [[c/_character|character]], or [[a/_all|all]] such [[c/_characters|characters]] in a string) to be interpreted literally, instead of with [[a/_any|any]] special meaning it would usually have in the same [[c/_context|context]], often by prefixing with [[a/_another|another]] [[c/_character|character]].**
+- **To [[c/_cause|cause]] (a single [[c/_character|character]], or [[a/_all|all]] such [[c/_characters|characters]] in a string) to be [[i/_interpreted|interpreted]] [[l/_literally|literally]], [[i/_instead|instead]] of with [[a/_any|any]] special [[m/_meaning|meaning]] it would usually [[h/_have|have]] in the same [[c/_context|context]], [[o/_often|often]] by prefixing with [[a/_another|another]] [[c/_character|character]].**
 	- _Example: Brion escaped the double quote character on Windows by adding a second double quote within the literal._
-- **To halt a program or [[c/_command|command]] by pressing a key (such as the "[[e/_esc|Esc]]" key) or [[c/_combination|combination]] of keys.**
+- **To [[h/_halt|halt]] a program or [[c/_command|command]] by pressing a [[k/_key|key]] (such as the "[[e/_esc|Esc]]" [[k/_key|key]]) or [[c/_combination|combination]] of [[k/_keys|keys]].**
 ---
 ---

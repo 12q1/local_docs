@@ -1,6 +1,6 @@
 # Countershaft
 ---
 #noun
-- **A jackshaft**
+- **A [[j/_jackshaft|jackshaft]]**
 ---
 ---

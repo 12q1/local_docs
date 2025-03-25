@@ -1,6 +1,6 @@
 # Didymium
 ---
 #noun
-- **A mixture of praseodymium and neodymium once thought to be an [[e/_element|element]] (symbol [[d/_di|Di]]).**
+- **A [[m/_mixture|mixture]] of praseodymium and [[n/_neodymium|neodymium]] [[o/_once|once]] thought to be an [[e/_element|element]] (symbol [[d/_di|Di]]).**
 ---
 ---

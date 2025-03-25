@@ -1,7 +1,7 @@
 # Bustiest
 ---
 #adjective
-- **Having large [[b/_breasts|breasts]].**
+- **[[h/_having|Having]] [[l/_large|large]] [[b/_breasts|breasts]].**
 	- _Example: a busty blonde_
 ---
 ### Synonyms

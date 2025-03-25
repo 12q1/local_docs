@@ -1,9 +1,9 @@
 # Artillery
 ---
 #noun
-- **Large [[c/_cannon|cannon]]-like weapons, transportable and usually operated by more than one person.**
+- **[[l/_large|Large]] [[c/_cannon|cannon]]-[[l/_like|like]] weapons, transportable and usually [[o/_operated|operated]] by [[m/_more|more]] than [[o/_one|one]] person.**
 - **An [[a/_army|army]] unit that uses such weapons.**
-- **Gunnery.**
-- **A military formation using projectile weapons, such as [[a/_archers|archers]].**
+- **[[g/_gunnery|Gunnery]].**
+- **A [[m/_military|military]] [[f/_formation|formation]] using projectile weapons, such as [[a/_archers|archers]].**
 ---
 ---

@@ -1,16 +1,16 @@
 # Essence
 ---
 #noun
-- **The inherent nature of a thing or idea.**
-- **The true nature of [[a/_anything|anything]], not [[a/_accidental|accidental]] or illusory.**
+- **The [[i/_inherent|inherent]] [[n/_nature|nature]] of a thing or [[i/_idea|idea]].**
+- **The true [[n/_nature|nature]] of [[a/_anything|anything]], not [[a/_accidental|accidental]] or [[i/_illusory|illusory]].**
 - **[[c/_constituent|Constituent]] substance.**
 - **A [[b/_being|being]]; [[e/_especially|especially]], a purely spiritual [[b/_being|being]].**
-- **A significant feature of something.**
-- **The [[c/_concentrated|concentrated]] form of a plant or [[d/_drug|drug]] obtained through a [[d/_distillation|distillation]] process.**
+- **A significant [[f/_feature|feature]] of something.**
+- **The [[c/_concentrated|concentrated]] [[f/_form|form]] of a plant or [[d/_drug|drug]] [[o/_obtained|obtained]] through a [[d/_distillation|distillation]] process.**
 	- _Example: essence of Jojoba_
-- **An extract or [[c/_concentrate|concentrate]] obtained from a plant or other matter used for flavouring.**
+- **An [[e/_extract|extract]] or [[c/_concentrate|concentrate]] [[o/_obtained|obtained]] from a plant or [[o/_other|other]] [[m/_matter|matter]] used for [[f/_flavouring|flavouring]].**
 	- _Example: vanilla essence_
-- **Fragrance, a perfume.**
+- **[[f/_fragrance|Fragrance]], a perfume.**
 ---
 ### Synonyms
 - [[a/_aroma|aroma]], [[b/_bouquet|bouquet]], [[q/_quintessence|quintessence]], [[w/_whatness|whatness]], [[c/_crux|crux]], [[g/_gist|gist]]

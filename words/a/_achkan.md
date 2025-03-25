@@ -1,6 +1,6 @@
 # Achkan
 ---
 #noun
-- **A man's knee-length jacket worn in parts of India, [[b/_bangladesh|Bangladesh]] and Pakistan.**
+- **A [[m/_man|man]]'s [[k/_knee|knee]]-[[l/_length|length]] [[j/_jacket|jacket]] worn in parts of [[i/_india|India]], [[b/_bangladesh|Bangladesh]] and [[p/_pakistan|Pakistan]].**
 ---
 ---

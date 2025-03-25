@@ -1,6 +1,6 @@
 # Erythroblastosis
 ---
 #noun
-- **A medical [[c/_condition|condition]] in which erythroblasts are [[a/_abnormally|abnormally]] found in the [[b/_blood|blood]]**
+- **A [[m/_medical|medical]] [[c/_condition|condition]] in which erythroblasts are [[a/_abnormally|abnormally]] [[f/_found|found]] in the [[b/_blood|blood]]**
 ---
 ---

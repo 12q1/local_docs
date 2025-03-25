@@ -2,12 +2,12 @@
 ---
 #verb
 - **To write [[c/_chords|chords]] for.**
-- **To [[a/_accord|accord]]; to harmonize together.**
+- **To [[a/_accord|accord]]; to [[h/_harmonize|harmonize]] together.**
 	- _Example: This note chords with that one._
-- **To provide with musical [[c/_chords|chords]] or strings; to string; to tune.**
+- **To provide with [[m/_musical|musical]] [[c/_chords|chords]] or strings; to string; to tune.**
 ---
 #noun
-- **An [[a/_arrangement|arrangement]] of musical [[c/_chords|chords]].**
-- **The [[a/_ability|ability]], using a keyboard or similar [[d/_device|device]], to [[e/_enter|enter]] [[c/_characters|characters]] or [[c/_commands|commands]] in the form of "[[c/_chords|chords]]" by pressing several keys simultaneously.**
+- **An [[a/_arrangement|arrangement]] of [[m/_musical|musical]] [[c/_chords|chords]].**
+- **The [[a/_ability|ability]], using a [[k/_keyboard|keyboard]] or similar [[d/_device|device]], to [[e/_enter|enter]] [[c/_characters|characters]] or [[c/_commands|commands]] in the [[f/_form|form]] of "[[c/_chords|chords]]" by pressing several [[k/_keys|keys]] simultaneously.**
 ---
 ---

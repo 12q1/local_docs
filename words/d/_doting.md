@@ -1,16 +1,16 @@
 # Doting
 ---
 #verb
-- **(usually with on) To be weakly or foolishly fond of somebody.**
+- **(usually with on) To be weakly or [[f/_foolishly|foolishly]] [[f/_fond|fond]] of somebody.**
 	- _Example: Little Bill's parents just keep doting on him._
-- **To [[a/_act|act]] in a foolish manner; to be senile.**
+- **To [[a/_act|act]] in a [[f/_foolish|foolish]] [[m/_manner|manner]]; to be senile.**
 ---
 ### Synonyms
 - [[a/_adore|adore]], [[l/_love|love]]
 #noun
-- **Excessive fondness; reverence.**
+- **[[e/_excessive|Excessive]] [[f/_fondness|fondness]]; reverence.**
 ---
 #adjective
-- **[[c/_characterized|Characterized]] by giving love and [[a/_affection|affection]].**
+- **[[c/_characterized|Characterized]] by [[g/_giving|giving]] [[l/_love|love]] and [[a/_affection|affection]].**
 ---
 ---

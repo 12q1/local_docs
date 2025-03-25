@@ -1,6 +1,6 @@
 # Claviers
 ---
 #noun
-- **The keyboard of an organ, pianoforte, or harmonium.**
+- **The [[k/_keyboard|keyboard]] of an [[o/_organ|organ]], pianoforte, or [[h/_harmonium|harmonium]].**
 ---
 ---

@@ -1,21 +1,21 @@
 # Cursed
 ---
 #verb
-- **To place a [[c/_curse|curse]] upon (a person or object).**
-- **To [[c/_call|call]] upon [[d/_divine|divine]] or supernatural power to send injury upon; to imprecate evil upon; to execrate.**
+- **To place a [[c/_curse|curse]] upon (a person or [[o/_object|object]]).**
+- **To [[c/_call|call]] upon [[d/_divine|divine]] or supernatural power to send [[i/_injury|injury]] upon; to [[i/_imprecate|imprecate]] [[e/_evil|evil]] upon; to [[e/_execrate|execrate]].**
 - **To speak or shout a vulgar [[c/_curse|curse]] or [[e/_epithet|epithet]].**
-- **To use offensive or morally inappropriate language.**
-- **To [[b/_bring|bring]] great evil upon; to be the [[c/_cause|cause]] of serious harm or unhappiness to; to furnish with that which will be a [[c/_cause|cause]] of [[d/_deep|deep]] trouble; to [[a/_afflict|afflict]] or injure grievously; to harass or torment.**
+- **To use [[o/_offensive|offensive]] or [[m/_morally|morally]] [[i/_inappropriate|inappropriate]] [[l/_language|language]].**
+- **To [[b/_bring|bring]] [[g/_great|great]] [[e/_evil|evil]] upon; to be the [[c/_cause|cause]] of serious [[h/_harm|harm]] or unhappiness to; to [[f/_furnish|furnish]] with that which will be a [[c/_cause|cause]] of [[d/_deep|deep]] trouble; to [[a/_afflict|afflict]] or [[i/_injure|injure]] [[g/_grievously|grievously]]; to [[h/_harass|harass]] or torment.**
 ---
 ### Synonyms
 - [[s/_swear|swear]]
 ### Antonyms
 - [[b/_bless|bless]]
 #adjective
-- **Under some [[d/_divine|divine]] harm, malady, or other [[c/_curse|curse]].**
-- **Shrewish, ill-tempered (often [[a/_applied|applied]] to women).**
-- **Hateful; [[d/_damnable|damnable]]; [[a/_accursed|accursed]]**
+- **Under some [[d/_divine|divine]] [[h/_harm|harm]], [[m/_malady|malady]], or [[o/_other|other]] [[c/_curse|curse]].**
+- **Shrewish, [[i/_ill|ill]]-tempered ([[o/_often|often]] [[a/_applied|applied]] to women).**
+- **[[h/_hateful|Hateful]]; [[d/_damnable|damnable]]; [[a/_accursed|accursed]]**
 	- _Example: That cursed bird keeps stealing my milk!_
-- **Frightening or unsettling.**
+- **[[f/_frightening|Frightening]] or unsettling.**
 ---
 ---

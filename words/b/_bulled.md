@@ -1,12 +1,12 @@
 # Bulled
 ---
 #verb
-- **To force oneself (in a particular [[d/_direction|direction]]).**
+- **To [[f/_force|force]] [[o/_oneself|oneself]] (in a particular [[d/_direction|direction]]).**
 	- _Example: He bulled his way in._
-- **To lie, to tell untruths.**
-- **To be in heat; to manifest sexual [[d/_desire|desire]] as [[c/_cows|cows]] [[d/_do|do]].**
-- **To polish [[b/_boots|boots]] to a high shine.**
-- **To [[e/_endeavour|endeavour]] to raise the market price of.**
+- **To [[l/_lie|lie]], to tell untruths.**
+- **To be in [[h/_heat|heat]]; to [[m/_manifest|manifest]] sexual [[d/_desire|desire]] as [[c/_cows|cows]] [[d/_do|do]].**
+- **To polish [[b/_boots|boots]] to a [[h/_high|high]] shine.**
+- **To [[e/_endeavour|endeavour]] to raise the [[m/_market|market]] price of.**
 	- _Example: to bull railroad bonds_
 - **To [[e/_endeavour|endeavour]] to raise prices in.**
 	- _Example: to bull the market_
@@ -15,7 +15,7 @@
 - **(17th [[c/_century|century]]) to publish in a Papal [[b/_bull|bull]]**
 ---
 #verb
-- **To mock; to [[c/_cheat|cheat]].**
+- **To [[m/_mock|mock]]; to [[c/_cheat|cheat]].**
 ---
 #adjective
 - **Swollen.**

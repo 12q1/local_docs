@@ -1,6 +1,6 @@
 # Checkroom
 ---
 #noun
-- **A room where outdoor [[c/_clothing|clothing]] or luggage may be temporarily stored.**
+- **A room where [[o/_outdoor|outdoor]] [[c/_clothing|clothing]] or [[l/_luggage|luggage]] [[m/_may|may]] be temporarily stored.**
 ---
 ---

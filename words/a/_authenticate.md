@@ -1,11 +1,11 @@
 # Authenticate
 ---
 #adjective
-- **Of the same origin as [[c/_claimed|claimed]]; genuine.**
+- **Of the same [[o/_origin|origin]] as [[c/_claimed|claimed]]; [[g/_genuine|genuine]].**
 	- _Example: The experts confirmed it was an authentic signature._
 - **[[c/_conforming|Conforming]] to reality and therefore worthy of trust, reliance, or [[b/_belief|belief]].**
 	- _Example: The report was completely authentic._
-- **(of a Gregorian mode) Having the final as the lowest note of the mode.**
+- **(of a [[g/_gregorian|Gregorian]] [[m/_mode|mode]]) [[h/_having|Having]] the [[f/_final|final]] as the [[l/_lowest|lowest]] [[n/_note|note]] of the [[m/_mode|mode]].**
 - **[[a/_authoritative|Authoritative]]**
 ---
 ### Synonyms
@@ -13,7 +13,7 @@
 ### Antonyms
 - [[f/_fake|fake]], [[i/_ingenuine|ingenuine]], [[p/_phony|phony]]
 #verb
-- **To render [[a/_authentic|authentic]]; to give [[a/_authority|authority]] to, by the proof, [[a/_attestation|attestation]], or formalities required by law, or sufficient to [[e/_entitle|entitle]] to [[c/_credit|credit]].**
+- **To render [[a/_authentic|authentic]]; to [[g/_give|give]] [[a/_authority|authority]] to, by the proof, [[a/_attestation|attestation]], or [[f/_formalities|formalities]] required by [[l/_law|law]], or sufficient to [[e/_entitle|entitle]] to [[c/_credit|credit]].**
 - **To prove [[a/_authentic|authentic]]; to [[d/_determine|determine]] as real and true.**
 	- _Example: He didn't manage to authenticate the portrait: it's probably a fake._
 ---

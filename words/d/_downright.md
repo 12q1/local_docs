@@ -3,7 +3,7 @@
 #adjective
 - **[[d/_directed|Directed]] vertically; [[c/_coming|coming]] straight [[d/_down|down]].**
 - **[[d/_directly|Directly]] to the point; plain**
-- **Using plain [[d/_direct|direct]] language; [[a/_accustomed|accustomed]] to express opinions [[d/_directly|directly]] and [[b/_bluntly|bluntly]]; [[b/_blunt|blunt]].**
+- **Using plain [[d/_direct|direct]] [[l/_language|language]]; [[a/_accustomed|accustomed]] to [[e/_express|express]] [[o/_opinions|opinions]] [[d/_directly|directly]] and [[b/_bluntly|bluntly]]; [[b/_blunt|blunt]].**
 - **[[c/_complete|Complete]]; [[a/_absolute|absolute]]**
 ---
 ### Synonyms
@@ -13,7 +13,7 @@
 	- _Example: He wasn’t just cool to me, he was downright rude._
 - **Straight [[d/_down|down]]; perpendicularly.**
 - **Plainly, unambiguously; [[d/_directly|directly]].**
-- **Without [[d/_delay|delay]]; at once.**
+- **Without [[d/_delay|delay]]; at [[o/_once|once]].**
 ---
 ### Synonyms
 - [[r/_right-down|right-down]], [[t/_thoroughly|thoroughly]], [[u/_utterly|utterly]]

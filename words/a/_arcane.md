@@ -1,12 +1,12 @@
 # Arcane
 ---
 #adjective
-- **Understood by only a few.**
+- **Understood by [[o/_only|only]] a [[f/_few|few]].**
 	- _Example: arcane rituals_
-- **(by extension) Obscure, mysterious.**
+- **(by [[e/_extension|extension]]) [[o/_obscure|Obscure]], [[m/_mysterious|mysterious]].**
 	- _Example: arcane details_
-- **Requiring secret or mysterious knowledge to understand.**
-- **Extremely old ([[e/_e|e]].g. interpretation or knowledge), and possibly irrelevant.**
+- **Requiring secret or [[m/_mysterious|mysterious]] [[k/_knowledge|knowledge]] to understand.**
+- **[[e/_extremely|Extremely]] [[o/_old|old]] ([[e/_e|e]].[[g/_g|g]]. [[i/_interpretation|interpretation]] or [[k/_knowledge|knowledge]]), and possibly [[i/_irrelevant|irrelevant]].**
 	- _Example: An arcane law_
 ---
 ### Synonyms

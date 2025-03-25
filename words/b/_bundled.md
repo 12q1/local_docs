@@ -1,19 +1,19 @@
 # Bundled
 ---
 #verb
-- **To tie or wrap together into a [[b/_bundle|bundle]].**
-- **To hustle; to [[d/_dispatch|dispatch]] something or someone quickly.**
-- **To prepare for [[d/_departure|departure]]; to set off in a hurry or without [[c/_ceremony|ceremony]]; used with [[a/_away|away]], off, out.**
+- **To tie or wrap together [[i/_into|into]] a [[b/_bundle|bundle]].**
+- **To [[h/_hustle|hustle]]; to [[d/_dispatch|dispatch]] something or someone quickly.**
+- **To prepare for [[d/_departure|departure]]; to set [[o/_off|off]] in a [[h/_hurry|hurry]] or without [[c/_ceremony|ceremony]]; used with [[a/_away|away]], [[o/_off|off]], [[o/_out|out]].**
 - **To [[d/_dress|dress]] someone warmly.**
 - **To [[d/_dress|dress]] warmly. Usually [[b/_bundle|bundle]] up**
-- **To sell hardware and software as a single product.**
-- **To hurry.**
-- **To hastily or [[c/_clumsily|clumsily]] push, put, [[c/_carry|carry]] or otherwise send something into a particular place.**
+- **To sell [[h/_hardware|hardware]] and software as a single product.**
+- **To [[h/_hurry|hurry]].**
+- **To [[h/_hastily|hastily]] or [[c/_clumsily|clumsily]] push, put, [[c/_carry|carry]] or [[o/_otherwise|otherwise]] send something [[i/_into|into]] a particular place.**
 - **To sleep on the same [[b/_bed|bed]] without undressing.**
 ---
 #verb
-- **(often with 'on') To jump into a dogpile.**
-- **To pile on, to overwhelm in other senses.**
+- **([[o/_often|often]] with 'on') To [[j/_jump|jump]] [[i/_into|into]] a dogpile.**
+- **To pile on, to [[o/_overwhelm|overwhelm]] in [[o/_other|other]] senses.**
 ---
 ### Synonyms
 - [[b/_bundle|bundle]]

@@ -1,9 +1,9 @@
 # Backbend
 ---
 #noun
-- **A move in which the performer [[b/_bends|bends]] [[b/_backwards|backwards]] until the hands touch the floor or [[c/_catches|catches]] him/herself with the hands**
+- **A [[m/_move|move]] in which the performer [[b/_bends|bends]] [[b/_backwards|backwards]] until the [[h/_hands|hands]] touch the [[f/_floor|floor]] or [[c/_catches|catches]] [[h/_him|him]]/[[h/_herself|herself]] with the [[h/_hands|hands]]**
 ---
 #verb
-- **To perform such a move.**
+- **To perform such a [[m/_move|move]].**
 ---
 ---

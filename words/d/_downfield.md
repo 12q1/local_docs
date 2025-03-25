@@ -1,13 +1,13 @@
 # Downfield
 ---
 #adjective
-- **Toward the [[d/_defending|defending]] team's [[e/_end|end]] of the playing field**
-- **[[d/_describing|Describing]] an NMR resonance at a higher frequency to that of a reference signal**
+- **Toward the [[d/_defending|defending]] team's [[e/_end|end]] of the playing [[f/_field|field]]**
+- **[[d/_describing|Describing]] an NMR resonance at a [[h/_higher|higher]] [[f/_frequency|frequency]] to that of a reference signal**
 ---
 ### Antonyms
 - [[u/_upfield|upfield]]
 #adverb
-- **Towards the lower part of a field**
+- **Towards the [[l/_lower|lower]] part of a [[f/_field|field]]**
 	- _Example: "Still, he stole an occasional glance as the mule again worked its way downfield."_
 ---
 ---

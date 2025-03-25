@@ -1,6 +1,6 @@
 # Dullards
 ---
 #noun
-- **A stupid person; a fool.**
+- **A stupid person; a [[f/_fool|fool]].**
 ---
 ---

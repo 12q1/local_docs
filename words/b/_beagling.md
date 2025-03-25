@@ -1,7 +1,7 @@
 # Beagling
 ---
 #verb
-- **To hunt with [[b/_beagles|beagles]].**
+- **To [[h/_hunt|hunt]] with [[b/_beagles|beagles]].**
 - **To search.**
 ---
 ---

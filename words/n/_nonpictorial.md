@@ -1,0 +1,6 @@
+# Nonpictorial
+---
+#adjective
+- **Not pictorial.**
+---
+---

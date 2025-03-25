@@ -1,7 +1,7 @@
 # Equitant
 ---
 #adjective
-- **Mounted on, or sitting upon, a horse; riding on horseback.**
-- **Overlapping at the [[b/_base|base]].**
+- **[[m/_mounted|Mounted]] on, or sitting upon, a [[h/_horse|horse]]; riding on [[h/_horseback|horseback]].**
+- **[[o/_overlapping|Overlapping]] at the [[b/_base|base]].**
 ---
 ---

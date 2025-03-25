@@ -1,7 +1,7 @@
 # Eyas
 ---
 #noun
-- **A young hawk or falcon in the nest, or that has not yet fledged, [[e/_especially|especially]] one that will be trained for falconry.**
+- **A [[y/_young|young]] [[h/_hawk|hawk]] or [[f/_falcon|falcon]] in the [[n/_nest|nest]], or that [[h/_has|has]] not [[y/_yet|yet]] [[f/_fledged|fledged]], [[e/_especially|especially]] [[o/_one|one]] that will be trained for [[f/_falconry|falconry]].**
 ---
 ### Synonyms
 - [[e/_eyasmusket|eyasmusket]]

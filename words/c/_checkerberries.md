@@ -1,6 +1,6 @@
 # Checkerberries
 ---
 #noun
-- **The teaberry, Gaultheria procumbens.**
+- **The teaberry, [[g/_gaultheria|Gaultheria]] procumbens.**
 ---
 ---

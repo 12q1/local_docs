@@ -1,6 +1,6 @@
 # Booboisie
 ---
 #noun
-- **A social [[c/_class|class]] made up of ignorant and uncultured people.**
+- **A social [[c/_class|class]] [[m/_made|made]] up of [[i/_ignorant|ignorant]] and uncultured people.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Automats
 ---
 #noun
-- **A vending machine for food.**
-- **A [[c/_cafeteria|cafeteria]] [[c/_consisting|consisting]] of vending machines.**
+- **A vending [[m/_machine|machine]] for [[f/_food|food]].**
+- **A [[c/_cafeteria|cafeteria]] [[c/_consisting|consisting]] of vending [[m/_machines|machines]].**
 ---
 ---

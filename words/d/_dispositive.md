@@ -1,12 +1,12 @@
 # Dispositive
 ---
 #noun
-- **A [[d/_document|document]] that [[c/_communicates|communicates]] the general stance taken by some organization or nation on a particular issue.**
+- **A [[d/_document|document]] that [[c/_communicates|communicates]] the [[g/_general|general]] stance taken by some [[o/_organization|organization]] or [[n/_nation|nation]] on a particular [[i/_issue|issue]].**
 	- _Example: Thereafter the court ruled unanimously in paragraph 2c of its dispositif that threat or use of force by means of nuclear weapons is contrary to the UN charter and is unlawful._
-- **[[a/_according|According]] to Michel Foucault, the [[a/_aggregate|aggregate]] of institutional, physical and [[a/_administrative|administrative]] mechanisms and knowledge structures that [[e/_enhance|enhance]] and maintain the exercise of power within society.**
+- **[[a/_according|According]] to [[m/_michel|Michel]] Foucault, the [[a/_aggregate|aggregate]] of [[i/_institutional|institutional]], physical and [[a/_administrative|administrative]] [[m/_mechanisms|mechanisms]] and [[k/_knowledge|knowledge]] structures that [[e/_enhance|enhance]] and [[m/_maintain|maintain]] the [[e/_exercise|exercise]] of power within society.**
 ---
 #adjective
-- **Intending to or resulting in [[d/_disposition|disposition]] ([[d/_disposing|disposing]] of or settling a matter).**
+- **[[i/_intending|Intending]] to or resulting in [[d/_disposition|disposition]] ([[d/_disposing|disposing]] of or settling a [[m/_matter|matter]]).**
 	- _Example: We were unable to produce any dispositive evidence to support our case._
 ---
 ---

@@ -1,10 +1,10 @@
 # Doffing
 ---
 #verb
-- **([[c/_clothing|clothing]]) To remove or take off, [[e/_especially|especially]] of [[c/_clothing|clothing]].**
-- **To remove or tip a hat, as in greeting, salutation or as a mark of respect.**
+- **([[c/_clothing|clothing]]) To remove or take [[o/_off|off]], [[e/_especially|especially]] of [[c/_clothing|clothing]].**
+- **To remove or tip a [[h/_hat|hat]], as in [[g/_greeting|greeting]], salutation or as a [[m/_mark|mark]] of respect.**
 	- _Example: The rustics doffed their hats at the clergy._
-- **To get rid of, to throw off.**
+- **To [[g/_get|get]] rid of, to throw [[o/_off|off]].**
 	- _Example: Doff that stupid idea: it would never work._
 - **To strip; to [[d/_divest|divest]]; to undress.**
 ---
@@ -13,6 +13,6 @@
 ### Antonyms
 - [[d/_don|don]]
 #noun
-- **The [[a/_act|act]] by which an item of [[c/_clothing|clothing]] is [[d/_doffed|doffed]].**
+- **The [[a/_act|act]] by which an [[i/_item|item]] of [[c/_clothing|clothing]] is [[d/_doffed|doffed]].**
 ---
 ---

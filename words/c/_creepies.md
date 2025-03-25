@@ -1,6 +1,6 @@
 # Creepies
 ---
 #noun
-- **A low stool.**
+- **A [[l/_low|low]] stool.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Eccoprotic
 ---
 #noun
-- **A mild laxative.**
+- **A [[m/_mild|mild]] [[l/_laxative|laxative]].**
 ---
 #adjective
-- **Having a mild laxative [[e/_effect|effect]].**
+- **[[h/_having|Having]] a [[m/_mild|mild]] [[l/_laxative|laxative]] [[e/_effect|effect]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Benefactor
 ---
 #noun
-- **Somebody who gives a gift, often money to a [[c/_charity|charity]].**
-- **Someone who performs good or noble [[d/_deeds|deeds]].**
+- **Somebody who [[g/_gives|gives]] a [[g/_gift|gift]], [[o/_often|often]] [[m/_money|money]] to a [[c/_charity|charity]].**
+- **Someone who performs [[g/_good|good]] or [[n/_noble|noble]] [[d/_deeds|deeds]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Agrostology
 ---
 #noun
-- **The study of grasses**
+- **The study of [[g/_grasses|grasses]]**
 ---
 ---

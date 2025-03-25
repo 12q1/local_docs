@@ -1,7 +1,7 @@
 # Commensals
 ---
 #noun
-- **An organism partaking in a [[c/_commensal|commensal]] relationship.**
-- **One who [[e/_eats|eats]] at the same table.**
+- **An [[o/_organism|organism]] partaking in a [[c/_commensal|commensal]] relationship.**
+- **[[o/_one|One]] who [[e/_eats|eats]] at the same table.**
 ---
 ---

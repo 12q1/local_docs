@@ -1,7 +1,7 @@
 # Chalumeaux
 ---
 #noun
-- **A woodwind instrument which was the predecessor of the [[c/_clarinet|clarinet]].**
-- **The lowest range of the [[c/_clarinet|clarinet]], reaching up to written [[b/_b|B]]♭ ([[b/_b|B]] flat) [[a/_above|above]] middle [[c/_c|C]].**
+- **A woodwind [[i/_instrument|instrument]] which was the predecessor of the [[c/_clarinet|clarinet]].**
+- **The [[l/_lowest|lowest]] range of the [[c/_clarinet|clarinet]], reaching up to written [[b/_b|B]]♭ ([[b/_b|B]] [[f/_flat|flat]]) [[a/_above|above]] [[m/_middle|middle]] [[c/_c|C]].**
 ---
 ---

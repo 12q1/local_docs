@@ -1,7 +1,7 @@
 # Brrr
 ---
 #interjection
-- **Used to express [[b/_being|being]] [[c/_cold|cold]], to show shivering.**
-- **An expression of [[d/_disgust|disgust]] or [[a/_aversion|aversion]], as if shuddering.**
+- **Used to [[e/_express|express]] [[b/_being|being]] [[c/_cold|cold]], to show shivering.**
+- **An [[e/_expression|expression]] of [[d/_disgust|disgust]] or [[a/_aversion|aversion]], as [[i/_if|if]] shuddering.**
 ---
 ---

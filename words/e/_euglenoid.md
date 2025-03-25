@@ -1,6 +1,6 @@
 # Euglenoid
 ---
 #noun
-- **A kind of flagellate [[d/_distinguished|distinguished]] mainly by the presence of a pellicle [[c/_composed|composed]] of proteinaceous strips underneath the [[c/_cell|cell]] membrane, supported by [[d/_dorsal|dorsal]] and ventral microtubules.**
+- **A [[k/_kind|kind]] of [[f/_flagellate|flagellate]] [[d/_distinguished|distinguished]] [[m/_mainly|mainly]] by the presence of a pellicle [[c/_composed|composed]] of proteinaceous strips underneath the [[c/_cell|cell]] [[m/_membrane|membrane]], supported by [[d/_dorsal|dorsal]] and ventral microtubules.**
 ---
 ---

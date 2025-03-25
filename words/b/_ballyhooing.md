@@ -1,6 +1,6 @@
 # Ballyhooing
 ---
 #verb
-- **To sensationalise or make grand [[c/_claims|claims]].**
+- **To sensationalise or [[m/_make|make]] [[g/_grand|grand]] [[c/_claims|claims]].**
 ---
 ---

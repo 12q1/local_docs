@@ -1,9 +1,9 @@
 # Backfired
 ---
 #verb
-- **(of a gun, [[c/_cannon|cannon]], [[b/_bunsen|Bunsen]] [[b/_burner|burner]], [[e/_etc|etc]].) To fire in the opposite [[d/_direction|direction]], for example [[d/_due|due]] to an obstruction in the [[b/_barrel|barrel]].**
-- **(of an [[e/_engine|engine]]) To experience a premature ignition of fuel or an ignition of exhaust gases, making a popping sound.**
-- **To fail in a manner that [[b/_brings|brings]] [[d/_down|down]] further misfortune.**
+- **(of a [[g/_gun|gun]], [[c/_cannon|cannon]], [[b/_bunsen|Bunsen]] [[b/_burner|burner]], [[e/_etc|etc]].) To [[f/_fire|fire]] in the [[o/_opposite|opposite]] [[d/_direction|direction]], for [[e/_example|example]] [[d/_due|due]] to an [[o/_obstruction|obstruction]] in the [[b/_barrel|barrel]].**
+- **(of an [[e/_engine|engine]]) To [[e/_experience|experience]] a premature [[i/_ignition|ignition]] of [[f/_fuel|fuel]] or an [[i/_ignition|ignition]] of [[e/_exhaust|exhaust]] [[g/_gases|gases]], [[m/_making|making]] a popping sound.**
+- **To [[f/_fail|fail]] in a [[m/_manner|manner]] that [[b/_brings|brings]] [[d/_down|down]] [[f/_further|further]] [[m/_misfortune|misfortune]].**
 	- _Example: His attempt to make money by importing luxury cars backfired horribly when fuel prices tripled._
 ---
 ---

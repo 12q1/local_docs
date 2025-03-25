@@ -1,6 +1,6 @@
 # Eidos
 ---
 #noun
-- **Form; [[e/_essence|essence]]; type; species.**
+- **[[f/_form|Form]]; [[e/_essence|essence]]; type; species.**
 ---
 ---

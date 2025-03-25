@@ -6,6 +6,6 @@
 ---
 #adjective
 - **Of or relating to the [[c/_cinema|cinema]].**
-- **Relating to kinematics; kinematic.**
+- **Relating to [[k/_kinematics|kinematics]]; [[k/_kinematic|kinematic]].**
 ---
 ---

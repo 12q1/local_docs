@@ -1,6 +1,6 @@
 # Annal
 ---
 #noun
-- **The record of a single event or item.**
+- **The record of a single [[e/_event|event]] or [[i/_item|item]].**
 ---
 ---

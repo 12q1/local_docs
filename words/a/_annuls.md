@@ -1,7 +1,7 @@
 # Annuls
 ---
 #verb
-- **To formally revoke the validity of.**
-- **To [[d/_dissolve|dissolve]] (a marital union) on the grounds that it is not valid.**
+- **To [[f/_formally|formally]] revoke the validity of.**
+- **To [[d/_dissolve|dissolve]] (a [[m/_marital|marital]] union) on the [[g/_grounds|grounds]] that it is not valid.**
 ---
 ---

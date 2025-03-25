@@ -1,8 +1,8 @@
 # Buns
 ---
 #noun
-- **A small [[b/_bread|bread]] roll, often sweetened or spiced.**
-- **A tight roll of hair worn at the [[b/_back|back]] of the head.**
+- **A small [[b/_bread|bread]] roll, [[o/_often|often]] sweetened or spiced.**
+- **A tight roll of [[h/_hair|hair]] worn at the [[b/_back|back]] of the [[h/_head|head]].**
 - **A [[c/_cupcake|cupcake]].**
 - **A [[d/_drunken|drunken]] spree.**
 - **A newbie.**
@@ -15,9 +15,9 @@
 - **A rabbit or sometimes a squirrel.**
 ---
 #noun
-- **Marijuana [[c/_cigarette|cigarette]], joint**
+- **[[m/_marijuana|Marijuana]] [[c/_cigarette|cigarette]], [[j/_joint|joint]]**
 ---
 #noun
-- **A Korean unit of length [[e/_equivalent|equivalent]] to [[a/_about|about]] 0.3 [[c/_cm|cm]].**
+- **A [[k/_korean|Korean]] unit of [[l/_length|length]] [[e/_equivalent|equivalent]] to [[a/_about|about]] 0.3 [[c/_cm|cm]].**
 ---
 ---

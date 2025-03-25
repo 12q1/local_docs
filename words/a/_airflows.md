@@ -1,6 +1,6 @@
 # Airflows
 ---
 #noun
-- **[[a/_any|Any]] flow of [[a/_air|air]], [[e/_especially|especially]] the motion of [[a/_air|air]] [[a/_around|around]] a moving [[a/_aircraft|aircraft]] or [[a/_aerofoil|aerofoil]].**
+- **[[a/_any|Any]] [[f/_flow|flow]] of [[a/_air|air]], [[e/_especially|especially]] the [[m/_motion|motion]] of [[a/_air|air]] [[a/_around|around]] a [[m/_moving|moving]] [[a/_aircraft|aircraft]] or [[a/_aerofoil|aerofoil]].**
 ---
 ---

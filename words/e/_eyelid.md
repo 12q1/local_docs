@@ -1,7 +1,7 @@
 # Eyelid
 ---
 #noun
-- **A thin skin membrane that [[c/_covers|covers]] and moves over an [[e/_eye|eye]].**
+- **A thin skin [[m/_membrane|membrane]] that [[c/_covers|covers]] and [[m/_moves|moves]] [[o/_over|over]] an [[e/_eye|eye]].**
 ---
 ### Synonyms
 - [[b/_blepharon|blepharon]]

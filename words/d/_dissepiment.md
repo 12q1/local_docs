@@ -1,6 +1,6 @@
 # Dissepiment
 ---
 #noun
-- **Partition (in an organ); septum**
+- **Partition (in an [[o/_organ|organ]]); septum**
 ---
 ---

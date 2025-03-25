@@ -1,6 +1,6 @@
 # Dabchicks
 ---
 #noun
-- **The little grebe, Tachybaptus ruficollis.**
+- **The [[l/_little|little]] [[g/_grebe|grebe]], Tachybaptus ruficollis.**
 ---
 ---

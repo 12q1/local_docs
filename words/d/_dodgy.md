@@ -1,7 +1,7 @@
 # Dodgy
 ---
 #adjective
-- **Evasive and shifty**
+- **[[e/_evasive|Evasive]] and shifty**
 	- _Example: Asked why, a spokesman gave a dodgy answer about legal ramifications._
 - **Unsound and unreliable**
 	- _Example: Never listen to dodgy advice._

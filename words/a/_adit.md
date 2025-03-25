@@ -1,6 +1,6 @@
 # Adit
 ---
 #noun
-- **A horizontal or nearly horizontal passage from the surface into a mine, as [[c/_contrasted|contrasted]] with a shaft or vertical [[e/_entry|entry]] passage. An [[a/_adit|adit]] may be used for ventilation, haulage, [[d/_drainage|drainage]], or other purposes.**
+- **A [[h/_horizontal|horizontal]] or [[n/_nearly|nearly]] [[h/_horizontal|horizontal]] passage from the surface [[i/_into|into]] a [[m/_mine|mine]], as [[c/_contrasted|contrasted]] with a shaft or vertical [[e/_entry|entry]] passage. An [[a/_adit|adit]] [[m/_may|may]] be used for ventilation, [[h/_haulage|haulage]], [[d/_drainage|drainage]], or [[o/_other|other]] purposes.**
 ---
 ---

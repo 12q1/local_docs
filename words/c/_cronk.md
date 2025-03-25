@@ -1,9 +1,9 @@
 # Cronk
 ---
 #noun
-- **The honking sound of a goose.**
+- **The [[h/_honking|honking]] sound of a [[g/_goose|goose]].**
 ---
 #verb
-- **To honk like a goose.**
+- **To [[h/_honk|honk]] [[l/_like|like]] a [[g/_goose|goose]].**
 ---
 ---

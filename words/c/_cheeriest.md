@@ -1,6 +1,6 @@
 # Cheeriest
 ---
 #adjective
-- **(often sarcastic) In a good mood, happy, [[c/_cheerful|cheerful]].**
+- **([[o/_often|often]] sarcastic) In a [[g/_good|good]] [[m/_mood|mood]], [[h/_happy|happy]], [[c/_cheerful|cheerful]].**
 ---
 ---

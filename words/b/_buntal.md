@@ -1,6 +1,6 @@
 # Buntal
 ---
 #noun
-- **A fibre obtained from palms of the genus [[c/_corypha|Corypha]].**
+- **A [[f/_fibre|fibre]] [[o/_obtained|obtained]] from [[p/_palms|palms]] of the [[g/_genus|genus]] [[c/_corypha|Corypha]].**
 ---
 ---

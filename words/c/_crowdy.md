@@ -1,6 +1,6 @@
 # Crowdy
 ---
 #noun
-- **A thick gruel of oatmeal and milk or water.**
+- **A thick [[g/_gruel|gruel]] of [[o/_oatmeal|oatmeal]] and [[m/_milk|milk]] or water.**
 ---
 ---

@@ -6,11 +6,11 @@
 - **To put a request to (someone); to [[e/_entreat|entreat]].**
 - **To want [[e/_emotionally|emotionally]] or sexually.**
 	- _Example: She has desired him since they first met._
-- **To express a wish for; to [[e/_entreat|entreat]]; to request.**
+- **To [[e/_express|express]] a wish for; to [[e/_entreat|entreat]]; to request.**
 - **To require; to [[d/_demand|demand]]; to [[c/_claim|claim]].**
-- **To miss; to regret.**
+- **To [[m/_miss|miss]]; to regret.**
 ---
 #adjective
-- **Wished-for, longed-for**
+- **Wished-for, [[l/_longed|longed]]-for**
 ---
 ---

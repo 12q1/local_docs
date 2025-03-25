@@ -1,8 +1,8 @@
 # Blacklight
 ---
 #noun
-- **A light [[b/_bulb|bulb]] that [[e/_emits|emits]] ultraviolet light, usually used to [[c/_create|create]] the illusion that [[a/_anything|anything]] white is glowing.**
-- **Ultraviolet radiation/light**
+- **A [[l/_light|light]] [[b/_bulb|bulb]] that [[e/_emits|emits]] ultraviolet [[l/_light|light]], usually used to [[c/_create|create]] the [[i/_illusion|illusion]] that [[a/_anything|anything]] white is [[g/_glowing|glowing]].**
+- **Ultraviolet radiation/[[l/_light|light]]**
 ---
 ### Synonyms
 - 

@@ -1,9 +1,9 @@
 # Buttonhole
 ---
 #noun
-- **A hole through which a [[b/_button|button]] is pushed to secure a garment or some part of one.**
-- **A flower worn in a [[b/_buttonhole|buttonhole]] for [[d/_decoration|decoration]].**
-- **A small slot-like [[c/_cut|cut]] or incision, made for example by an [[a/_accident|accident]] with the scalpel.**
+- **A [[h/_hole|hole]] through which a [[b/_button|button]] is pushed to secure a [[g/_garment|garment]] or some part of [[o/_one|one]].**
+- **A [[f/_flower|flower]] worn in a [[b/_buttonhole|buttonhole]] for [[d/_decoration|decoration]].**
+- **A small slot-[[l/_like|like]] [[c/_cut|cut]] or [[i/_incision|incision]], [[m/_made|made]] for [[e/_example|example]] by an [[a/_accident|accident]] with the scalpel.**
 ---
 ### Synonyms
 - [[b/_boutonniere|boutonniere]]

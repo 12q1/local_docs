@@ -1,7 +1,7 @@
 # Calmest
 ---
 #verb
-- **To make [[c/_calm|calm]].**
+- **To [[m/_make|make]] [[c/_calm|calm]].**
 	- _Example: to calm a crying baby_
 - **To [[b/_become|become]] [[c/_calm|calm]].**
 ---
@@ -10,9 +10,9 @@
 ### Antonyms
 - [[a/_agitate|agitate]], [[e/_excite|excite]]
 #adjective
-- **(of a person) Peaceful, quiet, [[e/_especially|especially]] free from [[a/_anger|anger]] and [[a/_anxiety|anxiety]].**
-- **(of a place or situation) Free of noise and [[d/_disturbance|disturbance]].**
-- **(of water) with few or no waves on the surface; not rippled.**
+- **(of a person) Peaceful, quiet, [[e/_especially|especially]] [[f/_free|free]] from [[a/_anger|anger]] and [[a/_anxiety|anxiety]].**
+- **(of a place or situation) [[f/_free|Free]] of [[n/_noise|noise]] and [[d/_disturbance|disturbance]].**
+- **(of water) with [[f/_few|few]] or [[n/_no|no]] waves on the surface; not rippled.**
 - **Without wind or storm.**
 ---
 ### Antonyms

@@ -1,6 +1,6 @@
 # Cwt
 ---
 #noun
-- **Hundredweight.**
+- **[[h/_hundredweight|Hundredweight]].**
 ---
 ---

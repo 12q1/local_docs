@@ -1,7 +1,7 @@
 # Chippings
 ---
 #noun
-- **A fragment [[b/_broken|broken]] off a larger material.**
-- **The [[a/_act|act]] of [[b/_breaking|breaking]] something into small fragments, or of removing fragments from pottery [[e/_etc|etc]].**
+- **A [[f/_fragment|fragment]] [[b/_broken|broken]] [[o/_off|off]] a [[l/_larger|larger]] [[m/_material|material]].**
+- **The [[a/_act|act]] of [[b/_breaking|breaking]] something [[i/_into|into]] small [[f/_fragments|fragments]], or of removing [[f/_fragments|fragments]] from pottery [[e/_etc|etc]].**
 ---
 ---

@@ -1,0 +1,6 @@
+# Fibrolite
+---
+#noun
+- **Sillimanite.**
+---
+---

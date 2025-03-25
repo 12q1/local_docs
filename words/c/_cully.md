@@ -1,11 +1,11 @@
 # Cully
 ---
 #noun
-- **A person who is [[e/_easily|easily]] tricked or imposed on; a [[d/_dupe|dupe]], a gullible person.**
+- **A person who is [[e/_easily|easily]] tricked or [[i/_imposed|imposed]] on; a [[d/_dupe|dupe]], a [[g/_gullible|gullible]] person.**
 - **A [[c/_companion|companion]].**
-- **A male [[c/_client|client]] of a prostitute; a john, a gonk.**
+- **A [[m/_male|male]] [[c/_client|client]] of a prostitute; a [[j/_john|john]], a [[g/_gonk|gonk]].**
 ---
 #verb
-- **To trick, to impose on, to [[d/_dupe|dupe]].**
+- **To trick, to [[i/_impose|impose]] on, to [[d/_dupe|dupe]].**
 ---
 ---

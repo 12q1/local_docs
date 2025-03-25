@@ -1,9 +1,9 @@
 # Conscience
 ---
 #noun
-- **The moral sense of right and wrong, [[c/_chiefly|chiefly]] as it [[a/_affects|affects]] one's own [[b/_behaviour|behaviour]].**
+- **The [[m/_moral|moral]] sense of right and wrong, [[c/_chiefly|chiefly]] as it [[a/_affects|affects]] [[o/_one|one]]'s [[o/_own|own]] [[b/_behaviour|behaviour]].**
 	- _Example: Your conscience is your highest authority._
-- **([[c/_chiefly|chiefly]] fiction) A personification of the moral sense of right and wrong, usually in the form of a person, a [[b/_being|being]] or merely a voice that gives moral lessons and [[a/_advices|advices]].**
+- **([[c/_chiefly|chiefly]] [[f/_fiction|fiction]]) A personification of the [[m/_moral|moral]] sense of right and wrong, usually in the [[f/_form|form]] of a person, a [[b/_being|being]] or [[m/_merely|merely]] a voice that [[g/_gives|gives]] [[m/_moral|moral]] [[l/_lessons|lessons]] and [[a/_advices|advices]].**
 - **[[c/_consciousness|Consciousness]]; thinking; [[a/_awareness|awareness]], [[e/_especially|especially]] self-[[a/_awareness|awareness]].**
 ---
 ---

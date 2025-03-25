@@ -1,10 +1,10 @@
 # Blab
 ---
 #noun
-- **One who [[b/_blabs|blabs]]; a [[b/_babbler|babbler]]; a telltale; a gossip or gossiper.**
-- **Gossip; prattle.**
+- **[[o/_one|One]] who [[b/_blabs|blabs]]; a [[b/_babbler|babbler]]; a telltale; a [[g/_gossip|gossip]] or [[g/_gossiper|gossiper]].**
+- **[[g/_gossip|Gossip]]; prattle.**
 ---
 #verb
-- **To tell tales; to gossip without reserve or [[d/_discretion|discretion]].**
+- **To tell tales; to [[g/_gossip|gossip]] without reserve or [[d/_discretion|discretion]].**
 ---
 ---

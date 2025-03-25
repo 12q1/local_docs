@@ -1,6 +1,6 @@
 # Cryosurgery
 ---
 #noun
-- **The use of a probe [[c/_containing|containing]] liquid nitrogen to freeze and thus [[d/_destroy|destroy]] tissue.**
+- **The use of a probe [[c/_containing|containing]] [[l/_liquid|liquid]] [[n/_nitrogen|nitrogen]] to [[f/_freeze|freeze]] and thus [[d/_destroy|destroy]] tissue.**
 ---
 ---

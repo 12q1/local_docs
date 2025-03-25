@@ -1,6 +1,6 @@
 # Aftermost
 ---
 #adjective
-- **Nearest the stern of a vessel; hindmost.**
+- **[[n/_nearest|Nearest]] the stern of a vessel; [[h/_hindmost|hindmost]].**
 ---
 ---

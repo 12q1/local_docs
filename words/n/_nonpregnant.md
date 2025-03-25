@@ -1,0 +1,6 @@
+# Nonpregnant
+---
+#adjective
+- **Not pregnant.**
+---
+---

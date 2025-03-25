@@ -1,20 +1,20 @@
 # Cheating
 ---
 #verb
-- **To violate rules in order to gain [[a/_advantage|advantage]] from a situation.**
+- **To violate rules in [[o/_order|order]] to [[g/_gain|gain]] [[a/_advantage|advantage]] from a situation.**
 	- _Example: My brother flunked biology because he cheated on his mid-term._
-- **To be unfaithful to one's spouse or partner.**
+- **To be unfaithful to [[o/_one|one]]'s spouse or partner.**
 	- _Example: After he found out his wife cheated, he left her._
-- **To manage to [[a/_avoid|avoid]] something even though it seemed unlikely.**
+- **To [[m/_manage|manage]] to [[a/_avoid|avoid]] something [[e/_even|even]] though it seemed unlikely.**
 	- _Example: He cheated death when his car collided with a moving train._
-- **To [[d/_deceive|deceive]]; to fool; to trick.**
+- **To [[d/_deceive|deceive]]; to [[f/_fool|fool]]; to trick.**
 	- _Example: He cheated his way into office._
 ---
 ### Synonyms
 - [[b/_belirt|belirt]], [[b/_blench|blench]], [[l/_lirt|lirt]]
 #noun
-- **An [[a/_act|act]] of [[d/_deception|deception]], fraud, trickery, imposture, imposition or infidelity.**
-- **The [[a/_arrangement|arrangement]] of people or items in a film so as to give the (false) impression that shots are taken from [[d/_different|different]] [[a/_angles|angles]] in the same location.**
+- **An [[a/_act|act]] of [[d/_deception|deception]], [[f/_fraud|fraud]], trickery, [[i/_imposture|imposture]], [[i/_imposition|imposition]] or [[i/_infidelity|infidelity]].**
+- **The [[a/_arrangement|arrangement]] of people or [[i/_items|items]] in a [[f/_film|film]] so as to [[g/_give|give]] the ([[f/_false|false]]) [[i/_impression|impression]] that shots are taken from [[d/_different|different]] [[a/_angles|angles]] in the same [[l/_location|location]].**
 ---
 #adjective
 - **Unsporting or underhand.**

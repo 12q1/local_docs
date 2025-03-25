@@ -1,0 +1,6 @@
+# Kiva
+---
+#noun
+- **A [[c/_ceremonial|ceremonial]] underground [[c/_chamber|chamber]] in a Pueblo village.**
+---
+---

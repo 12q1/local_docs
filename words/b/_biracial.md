@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Of or pertaining to two races**
-- **Having parents of two races**
+- **[[h/_having|Having]] parents of two races**
 ---
 ---

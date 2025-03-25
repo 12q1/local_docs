@@ -1,9 +1,9 @@
 # Copartner
 ---
 #noun
-- **A joint partner (in a [[b/_business|business]]).**
+- **A [[j/_joint|joint]] partner (in a [[b/_business|business]]).**
 ---
 #verb
-- **To form a joint partnership with somebody.**
+- **To [[f/_form|form]] a [[j/_joint|joint]] partnership with somebody.**
 ---
 ---

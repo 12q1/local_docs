@@ -1,9 +1,9 @@
 # Detribalized
 ---
 #verb
-- **To [[c/_cause|cause]] (the members of a tribe) to lose their tribal [[c/_culture|culture]].**
+- **To [[c/_cause|cause]] (the [[m/_members|members]] of a tribe) to [[l/_lose|lose]] their tribal [[c/_culture|culture]].**
 ---
 #adjective
-- **[[d/_detached|Detached]] from one's tribe, or from tribal traditions.**
+- **[[d/_detached|Detached]] from [[o/_one|one]]'s tribe, or from tribal traditions.**
 ---
 ---

@@ -1,17 +1,17 @@
 # Cockle
 ---
 #noun
-- **[[a/_any|Any]] of various [[e/_edible|edible]] European [[b/_bivalve|bivalve]] mollusks, of the family [[c/_cardiidae|Cardiidae]], having heart-shaped shells.**
-- **The shell of such a mollusk.**
-- **(in the plural) One’s innermost feelings (only in the expression “the [[c/_cockles|cockles]] of one’s heart”).**
-- **([[d/_directly|directly]] from French [[c/_coquille|coquille]]) A wrinkle, pucker**
-- **(by extension) A [[d/_defect|defect]] in sheepskin; firm [[d/_dark|dark]] nodules [[c/_caused|caused]] by the [[b/_bites|bites]] of keds on live sheep**
-- **The mineral [[b/_black|black]] tourmaline or schorl.**
-- **The fire [[c/_chamber|chamber]] of a furnace.**
-- **A kiln for [[d/_drying|drying]] hops; an oast.**
-- **The [[d/_dome|dome]] of a heating furnace.**
+- **[[a/_any|Any]] of various [[e/_edible|edible]] [[e/_european|European]] [[b/_bivalve|bivalve]] [[m/_mollusks|mollusks]], of the [[f/_family|family]] [[c/_cardiidae|Cardiidae]], [[h/_having|having]] [[h/_heart|heart]]-shaped shells.**
+- **The shell of such a [[m/_mollusk|mollusk]].**
+- **(in the plural) [[o/_one|One]]’s [[i/_innermost|innermost]] [[f/_feelings|feelings]] ([[o/_only|only]] in the [[e/_expression|expression]] “the [[c/_cockles|cockles]] of [[o/_one|one]]’s [[h/_heart|heart]]”).**
+- **([[d/_directly|directly]] from [[f/_french|French]] [[c/_coquille|coquille]]) A wrinkle, pucker**
+- **(by [[e/_extension|extension]]) A [[d/_defect|defect]] in sheepskin; [[f/_firm|firm]] [[d/_dark|dark]] [[n/_nodules|nodules]] [[c/_caused|caused]] by the [[b/_bites|bites]] of keds on [[l/_live|live]] sheep**
+- **The [[m/_mineral|mineral]] [[b/_black|black]] tourmaline or schorl.**
+- **The [[f/_fire|fire]] [[c/_chamber|chamber]] of a [[f/_furnace|furnace]].**
+- **A [[k/_kiln|kiln]] for [[d/_drying|drying]] [[h/_hops|hops]]; an [[o/_oast|oast]].**
+- **The [[d/_dome|dome]] of a [[h/_heating|heating]] [[f/_furnace|furnace]].**
 ---
 #verb
-- **To [[c/_cause|cause]] to [[c/_contract|contract]] into wrinkles or ridges, as some kinds of [[c/_cloth|cloth]] [[a/_after|after]] a wetting; to pucker.**
+- **To [[c/_cause|cause]] to [[c/_contract|contract]] [[i/_into|into]] wrinkles or ridges, as some [[k/_kinds|kinds]] of [[c/_cloth|cloth]] [[a/_after|after]] a wetting; to pucker.**
 ---
 ---

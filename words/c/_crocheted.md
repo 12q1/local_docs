@@ -1,6 +1,6 @@
 # Crocheted
 ---
 #verb
-- **To make (a piece of) needlework using a hooked needle; to make interlocking loops of thread.**
+- **To [[m/_make|make]] (a piece of) [[n/_needlework|needlework]] using a [[h/_hooked|hooked]] [[n/_needle|needle]]; to [[m/_make|make]] [[i/_interlocking|interlocking]] [[l/_loops|loops]] of thread.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Birthmark
 ---
 #noun
-- **A mark on the skin formed [[b/_before|before]] [[b/_birth|birth]].**
+- **A [[m/_mark|mark]] on the skin [[f/_formed|formed]] [[b/_before|before]] [[b/_birth|birth]].**
 ---
 ---

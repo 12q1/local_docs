@@ -1,10 +1,10 @@
 # Calico
 ---
 #noun
-- **A kind of rough [[c/_cloth|cloth]] made from unbleached and not fully processed [[c/_cotton|cotton]], often printed with a [[b/_bright|bright]] pattern.**
+- **A [[k/_kind|kind]] of rough [[c/_cloth|cloth]] [[m/_made|made]] from unbleached and not [[f/_fully|fully]] processed [[c/_cotton|cotton]], [[o/_often|often]] printed with a [[b/_bright|bright]] pattern.**
 ---
 #adjective
-- **Having a pattern of red and [[c/_contrasting|contrasting]] [[a/_areas|areas]], resembling the [[c/_color|color]] of [[c/_calico|calico]] [[c/_cloth|cloth]].**
+- **[[h/_having|Having]] a pattern of red and [[c/_contrasting|contrasting]] [[a/_areas|areas]], resembling the [[c/_color|color]] of [[c/_calico|calico]] [[c/_cloth|cloth]].**
 	- _Example: The calico cat had distinctive red and dark markings._
 ---
 ### Synonyms

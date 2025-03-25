@@ -1,8 +1,8 @@
 # Caducous
 ---
 #adjective
-- **Of a part of an organism, [[d/_disappearing|disappearing]] in the normal [[c/_course|course]] of [[d/_development|development]].**
-- **Tending to fall [[e/_early|early]].**
+- **Of a part of an [[o/_organism|organism]], [[d/_disappearing|disappearing]] in the [[n/_normal|normal]] [[c/_course|course]] of [[d/_development|development]].**
+- **Tending to [[f/_fall|fall]] [[e/_early|early]].**
 	- _Example: caducous leaves_
 ---
 ---

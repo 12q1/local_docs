@@ -1,8 +1,8 @@
 # Creosotes
 ---
 #noun
-- **A pale yellow oily liquid, [[c/_containing|containing]] phenols and similar [[c/_compounds|compounds]], obtained by the [[d/_destructive|destructive]] [[d/_distillation|distillation]] of wood tar, once used medicinally.**
-- **A similar [[b/_brown|brown]] liquid obtained from [[c/_coal|coal]] tar used as a wood preservative.**
+- **A [[p/_pale|pale]] [[y/_yellow|yellow]] [[o/_oily|oily]] [[l/_liquid|liquid]], [[c/_containing|containing]] phenols and similar [[c/_compounds|compounds]], [[o/_obtained|obtained]] by the [[d/_destructive|destructive]] [[d/_distillation|distillation]] of wood tar, [[o/_once|once]] used [[m/_medicinally|medicinally]].**
+- **A similar [[b/_brown|brown]] [[l/_liquid|liquid]] [[o/_obtained|obtained]] from [[c/_coal|coal]] tar used as a wood preservative.**
 - **The [[c/_creosote|creosote]] [[b/_bush|bush]].**
 ---
 #verb

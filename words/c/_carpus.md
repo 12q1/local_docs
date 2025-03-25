@@ -1,6 +1,6 @@
 # Carpus
 ---
 #noun
-- **The group of [[b/_bones|bones]] that make up the wrist.**
+- **The [[g/_group|group]] of [[b/_bones|bones]] that [[m/_make|make]] up the wrist.**
 ---
 ---

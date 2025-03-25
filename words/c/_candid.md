@@ -5,8 +5,8 @@
 	- _Example: His portraits looked stiff and formal but his candids showed life being lived._
 ---
 #adjective
-- **Impartial and free from prejudice.**
-- **Straightforward, open and sincere.**
+- **[[i/_impartial|Impartial]] and [[f/_free|free]] from prejudice.**
+- **Straightforward, [[o/_open|open]] and sincere.**
 - **Not posed or rehearsed.**
 ---
 ### Synonyms

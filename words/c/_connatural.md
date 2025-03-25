@@ -1,7 +1,7 @@
 # Connatural
 ---
 #adjective
-- **Similar in nature.**
-- **Inborn; inherent; natural**
+- **Similar in [[n/_nature|nature]].**
+- **[[i/_inborn|Inborn]]; [[i/_inherent|inherent]]; [[n/_natural|natural]]**
 ---
 ---

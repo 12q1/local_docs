@@ -1,12 +1,12 @@
 # Bulb
 ---
 #noun
-- **[[a/_any|Any]] solid object rounded at one [[e/_end|end]] and tapering on the other, possibly [[a/_attached|attached]] to a larger object at the tapered [[e/_end|end]].**
+- **[[a/_any|Any]] solid [[o/_object|object]] rounded at [[o/_one|one]] [[e/_end|end]] and tapering on the [[o/_other|other]], possibly [[a/_attached|attached]] to a [[l/_larger|larger]] [[o/_object|object]] at the tapered [[e/_end|end]].**
 	- _Example: the bulb of the aorta_
-- **A light [[b/_bulb|bulb]].**
-- **The [[b/_bulb|bulb]]-shaped root portion of a plant such as a tulip, from which the rest of the plant may be regrown.**
-- **A [[b/_bulbous|bulbous]] protuberance at the forefoot of [[c/_certain|certain]] vessels to reduce turbulence.**
-- **The medulla oblongata.**
+- **A [[l/_light|light]] [[b/_bulb|bulb]].**
+- **The [[b/_bulb|bulb]]-shaped root portion of a plant such as a tulip, from which the rest of the plant [[m/_may|may]] be regrown.**
+- **A [[b/_bulbous|bulbous]] protuberance at the [[f/_forefoot|forefoot]] of [[c/_certain|certain]] vessels to reduce turbulence.**
+- **The [[m/_medulla|medulla]] [[o/_oblongata|oblongata]].**
 ---
 #verb
 - **To take the shape of a [[b/_bulb|bulb]]; to swell.**

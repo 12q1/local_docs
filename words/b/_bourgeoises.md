@@ -1,9 +1,9 @@
 # Bourgeoises
 ---
 #verb
-- **To make [[b/_bourgeois|bourgeois]].**
+- **To [[m/_make|make]] [[b/_bourgeois|bourgeois]].**
 ---
 #noun
-- **A female member of the [[b/_bourgeoisie|bourgeoisie]]; a wealthy woman**
+- **A [[f/_female|female]] [[m/_member|member]] of the [[b/_bourgeoisie|bourgeoisie]]; a wealthy woman**
 ---
 ---

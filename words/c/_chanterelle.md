@@ -1,7 +1,7 @@
 # Chanterelle
 ---
 #noun
-- **A widely [[d/_distributed|distributed]] [[e/_edible|edible]] mushroom, [[c/_cantharellus|Cantharellus]] cibarius, [[b/_being|being]] yellow and trumpet-shaped; or [[a/_any|any]] similar mushroom of the genera [[c/_cantharellus|Cantharellus]], Polyozellus or Gomphus, not [[a/_all|all]] of which are [[e/_edible|edible]].**
-- **The highest string of the violin or similar instrument.**
+- **A widely [[d/_distributed|distributed]] [[e/_edible|edible]] [[m/_mushroom|mushroom]], [[c/_cantharellus|Cantharellus]] cibarius, [[b/_being|being]] [[y/_yellow|yellow]] and trumpet-shaped; or [[a/_any|any]] similar [[m/_mushroom|mushroom]] of the [[g/_genera|genera]] [[c/_cantharellus|Cantharellus]], Polyozellus or Gomphus, not [[a/_all|all]] of which are [[e/_edible|edible]].**
+- **The [[h/_highest|highest]] string of the violin or similar [[i/_instrument|instrument]].**
 ---
 ---

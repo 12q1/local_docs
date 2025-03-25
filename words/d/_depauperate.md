@@ -1,12 +1,12 @@
 # Depauperate
 ---
 #verb
-- **To impoverish.**
-- **To stunt the growth of.**
+- **To [[i/_impoverish|impoverish]].**
+- **To stunt the [[g/_growth|growth]] of.**
 ---
 #adjective
-- **(of a plant [[e/_etc|etc]]) Having stunted growth.**
-- **Impoverished.**
-- **Having a limited biodiversity.**
+- **(of a plant [[e/_etc|etc]]) [[h/_having|Having]] stunted [[g/_growth|growth]].**
+- **[[i/_impoverished|Impoverished]].**
+- **[[h/_having|Having]] a [[l/_limited|limited]] biodiversity.**
 ---
 ---

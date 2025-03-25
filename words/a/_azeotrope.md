@@ -1,6 +1,6 @@
 # Azeotrope
 ---
 #noun
-- **A mixture of two or more substances whose liquid and gaseous forms have the same [[c/_composition|composition]] (at a [[c/_certain|certain]] pressure); the substances [[c/_cannot|cannot]] be separated by normal [[d/_distillation|distillation]].**
+- **A [[m/_mixture|mixture]] of two or [[m/_more|more]] substances whose [[l/_liquid|liquid]] and [[g/_gaseous|gaseous]] [[f/_forms|forms]] [[h/_have|have]] the same [[c/_composition|composition]] (at a [[c/_certain|certain]] pressure); the substances [[c/_cannot|cannot]] be separated by [[n/_normal|normal]] [[d/_distillation|distillation]].**
 ---
 ---

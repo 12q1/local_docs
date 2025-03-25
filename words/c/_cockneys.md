@@ -1,8 +1,8 @@
 # Cockneys
 ---
 #noun
-- **A native or inhabitant of parts of the [[e/_east|East]] [[e/_end|End]] of London**
-- **The [[a/_accent|accent]] and speech mannerisms of these people**
+- **A [[n/_native|native]] or [[i/_inhabitant|inhabitant]] of parts of the [[e/_east|East]] [[e/_end|End]] of [[l/_london|London]]**
+- **The [[a/_accent|accent]] and speech [[m/_mannerisms|mannerisms]] of these people**
 - **An [[e/_effeminate|effeminate]] person; a spoilt [[c/_child|child]].**
 ---
 ### Synonyms

@@ -6,6 +6,6 @@
 - **To [[d/_disintegrate|disintegrate]]; to [[c/_come|come]] [[a/_apart|apart]].**
 ---
 #adjective
-- **Lacking unity; not united.**
+- **[[l/_lacking|Lacking]] unity; not united.**
 ---
 ---

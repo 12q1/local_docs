@@ -1,7 +1,7 @@
 # Cor
 ---
 #interjection
-- **Expression of surprise.**
+- **[[e/_expression|Expression]] of surprise.**
 	- _Example: Cor blimey!_
 ---
 ---

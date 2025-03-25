@@ -2,14 +2,14 @@
 ---
 #noun
 - **Somebody who is wealthy.**
-- **A stream or river flowing into a larger river or into a lake; a tributary stream; a tributary.**
+- **A stream or river [[f/_flowing|flowing]] [[i/_into|into]] a [[l/_larger|larger]] river or [[i/_into|into]] a [[l/_lake|lake]]; a tributary stream; a tributary.**
 ---
 #adjective
 - **[[a/_abundant|Abundant]]; [[c/_copious|copious]]; plenteous.**
-- **(by extension) [[a/_abounding|Abounding]] in goods or riches; having a moderate level of material wealth.**
+- **(by [[e/_extension|extension]]) [[a/_abounding|Abounding]] in [[g/_goods|goods]] or riches; [[h/_having|having]] a [[m/_moderate|moderate]] [[l/_level|level]] of [[m/_material|material]] wealth.**
 	- _Example: They were affluent, but aspired to true wealth._
 - **Tributary.**
-- **Flowing to; flowing [[a/_abundantly|abundantly]].**
+- **[[f/_flowing|Flowing]] to; [[f/_flowing|flowing]] [[a/_abundantly|abundantly]].**
 ---
 ### Antonyms
 - [[i/_indigent|indigent]]

@@ -1,0 +1,18 @@
+# Panes
+---
+#noun
+- **An [[i/_individual|individual]] sheet of [[g/_glass|glass]] in a window, [[d/_door|door]], [[e/_etc|etc]].**
+- **A [[l/_layer|layer]] in the [[b/_build|build]]-up of a GUI.**
+- **A [[d/_division|division]]; a [[d/_distinct|distinct]] piece or [[c/_compartment|compartment]] of [[a/_any|any]] surface.**
+- **A square of a [[c/_checkered|checkered]] or plaid pattern.**
+- **[[o/_one|One]] of the [[o/_openings|openings]] in a slashed [[g/_garment|garment]], showing the [[b/_bright|bright]] [[c/_colored|colored]] silk, or the [[l/_like|like]], within; [[h/_hence|hence]], the piece of [[c/_colored|colored]] or [[o/_other|other]] stuff so shown.**
+- **A [[c/_compartment|compartment]] of a surface, or a [[f/_flat|flat]] space; [[h/_hence|hence]], [[o/_one|one]] side or [[f/_face|face]] of a [[b/_building|building]].**
+	- _Example: An octagonal tower is said to have eight panes._
+- **A subdivision of an [[i/_irrigated|irrigated]] surface [[b/_between|between]] a [[f/_feeder|feeder]] and an [[o/_outlet|outlet]] [[d/_drain|drain]].**
+- **[[o/_one|One]] of the [[f/_flat|flat]] surfaces, or [[f/_facets|facets]], of [[a/_any|any]] [[o/_object|object]] [[h/_having|having]] several sides.**
+- **[[o/_one|One]] of the [[e/_eight|eight]] [[f/_facets|facets]] surrounding the table of a [[b/_brilliant|brilliant]]-[[c/_cut|cut]] [[d/_diamond|diamond]].**
+---
+#noun
+- **The ([[o/_often|often]] spherical) [[e/_end|end]] of the [[h/_head|head]] of a [[h/_hammer|hammer]] [[o/_opposite|opposite]] the [[m/_main|main]] [[h/_hammering|hammering]] [[e/_end|end]].**
+---
+---

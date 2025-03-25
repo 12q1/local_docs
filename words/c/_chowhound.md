@@ -1,6 +1,6 @@
 # Chowhound
 ---
 #noun
-- **A foodie or glutton.**
+- **A foodie or [[g/_glutton|glutton]].**
 ---
 ---

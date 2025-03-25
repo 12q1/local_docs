@@ -1,6 +1,6 @@
 # Bullfights
 ---
 #noun
-- **A public spectacle, in Spain and some other Latin [[c/_countries|countries]], in which a person [[b/_baits|baits]] and often kills a [[b/_bull|bull]].**
+- **A public spectacle, in Spain and some [[o/_other|other]] [[l/_latin|Latin]] [[c/_countries|countries]], in which a person [[b/_baits|baits]] and [[o/_often|often]] [[k/_kills|kills]] a [[b/_bull|bull]].**
 ---
 ---

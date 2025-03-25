@@ -1,6 +1,6 @@
 # Aitch
 ---
 #noun
-- **The name of the Latin-script letter H.**
+- **The [[n/_name|name]] of the [[l/_latin|Latin]]-script [[l/_letter|letter]] [[h/_h|H]].**
 ---
 ---

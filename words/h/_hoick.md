@@ -1,0 +1,13 @@
+# Hoick
+---
+#noun
+- **A wild [[h/_hook|hook]] shot played without style.**
+- **Sputum.**
+---
+#verb
+- **To play such a shot.**
+- **To [[l/_lift|lift]] (a [[h/_heavy|heavy]] [[o/_object|object]]) [[c/_carelessly|carelessly]]; [[h/_hoist|hoist]].**
+- **To throw something [[o/_out|out]].**
+- **To spit.**
+---
+---

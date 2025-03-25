@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Twittering**
-- **Nervously excited**
+- **[[n/_nervously|Nervously]] [[e/_excited|excited]]**
 ---
 ---

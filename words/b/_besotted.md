@@ -1,12 +1,12 @@
 # Besotted
 ---
 #verb
-- **To muddle, stupefy, or [[c/_cause|cause]] to [[a/_act|act]] foolishly, as with [[a/_alcoholic|alcoholic]] liquor or infatuation.**
+- **To [[m/_muddle|muddle]], stupefy, or [[c/_cause|cause]] to [[a/_act|act]] [[f/_foolishly|foolishly]], as with [[a/_alcoholic|alcoholic]] [[l/_liquor|liquor]] or [[i/_infatuation|infatuation]].**
 ---
 #adjective
-- **Infatuated**
-- **Intellectually or morally [[b/_blinded|blinded]]**
-- **Intoxicated**
+- **[[i/_infatuated|Infatuated]]**
+- **[[i/_intellectually|Intellectually]] or [[m/_morally|morally]] [[b/_blinded|blinded]]**
+- **[[i/_intoxicated|Intoxicated]]**
 ---
 ### Synonyms
 - [[s/_smitten|smitten]]

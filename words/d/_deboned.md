@@ -7,7 +7,7 @@
 ### Synonyms
 - [[b/_bone|bone]], [[u/_unbone|unbone]]
 #adjective
-- **Having its [[b/_bones|bones]] removed.**
+- **[[h/_having|Having]] [[i/_its|its]] [[b/_bones|bones]] removed.**
 	- _Example: This deboned fish will be safe for the cat to eat._
 ---
 ---

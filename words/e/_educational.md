@@ -1,12 +1,12 @@
 # Educational
 ---
 #noun
-- **A free (or low [[c/_cost|cost]]) trip for travel [[c/_consultants|consultants]], provided by a travel operator or [[a/_airline|airline]] as a means of promoting their service. A fam trip**
+- **A [[f/_free|free]] (or [[l/_low|low]] [[c/_cost|cost]]) trip for travel [[c/_consultants|consultants]], provided by a travel [[o/_operator|operator]] or [[a/_airline|airline]] as a [[m/_means|means]] of promoting their service. A [[f/_fam|fam]] trip**
 ---
 #adjective
 - **Of, or relating to [[e/_education|education]].**
 	- _Example: A school is an educational establishment._
-- **Instructive, or helping to [[e/_educate|educate]].**
+- **[[i/_instructive|Instructive]], or [[h/_helping|helping]] to [[e/_educate|educate]].**
 	- _Example: They were shown an educational film about VD._
 ---
 ### Synonyms

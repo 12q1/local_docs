@@ -1,9 +1,9 @@
 # Copers
 ---
 #noun
-- **One who [[c/_copes|copes]].**
+- **[[o/_one|One]] who [[c/_copes|copes]].**
 ---
 #noun
-- **A floating grog shop supplying the North Sea fishing industry.**
+- **A [[f/_floating|floating]] [[g/_grog|grog]] shop supplying the [[n/_north|North]] Sea [[f/_fishing|fishing]] [[i/_industry|industry]].**
 ---
 ---

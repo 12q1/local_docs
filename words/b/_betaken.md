@@ -4,13 +4,13 @@
 - **To [[b/_beteach|beteach]].**
 ---
 #verb
-- **To take over to; take [[a/_across|across]] (to); [[d/_deliver|deliver]].**
-- **To seize; lay hold of; take.**
-- **To take oneself to; go or move; repair; resort; have recourse.**
+- **To take [[o/_over|over]] to; take [[a/_across|across]] (to); [[d/_deliver|deliver]].**
+- **To seize; [[l/_lay|lay]] [[h/_hold|hold]] of; take.**
+- **To take [[o/_oneself|oneself]] to; [[g/_go|go]] or [[m/_move|move]]; repair; resort; [[h/_have|have]] recourse.**
 	- _Example: The rest, in imitation, to like arms / Betook them. — Milton._
 - **To [[c/_commit|commit]] to a specified [[a/_action|action]].**
 - **To [[c/_commend|commend]] or [[e/_entrust|entrust]] to; to [[c/_commit|commit]] to.**
-- **To take oneself.**
+- **To take [[o/_oneself|oneself]].**
 ---
 ### Synonyms
 - [[w/_wend|wend]]

@@ -1,6 +1,6 @@
 # Esophagoscope
 ---
 #noun
-- **A form of [[e/_endoscope|endoscope]] for inspecting the [[e/_esophagus|esophagus]].**
+- **A [[f/_form|form]] of [[e/_endoscope|endoscope]] for [[i/_inspecting|inspecting]] the [[e/_esophagus|esophagus]].**
 ---
 ---

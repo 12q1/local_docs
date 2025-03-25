@@ -1,25 +1,25 @@
 # Crook
 ---
 #noun
-- **A [[b/_bend|bend]]; turn; [[c/_curve|curve]]; [[c/_curvature|curvature]]; a flexure.**
+- **A [[b/_bend|bend]]; turn; [[c/_curve|curve]]; [[c/_curvature|curvature]]; a [[f/_flexure|flexure]].**
 	- _Example: She held the baby in the crook of her arm._
-- **A [[b/_bending|bending]] of the knee; a genuflection.**
+- **A [[b/_bending|bending]] of the [[k/_knee|knee]]; a [[g/_genuflection|genuflection]].**
 - **A [[b/_bent|bent]] or [[c/_curved|curved]] part; a [[c/_curving|curving]] piece or portion (of [[a/_anything|anything]]).**
 	- _Example: the crook of a cane_
-- **A lock or [[c/_curl|curl]] of hair.**
-- **A gibbet.**
-- **A support [[b/_beam|beam]] [[c/_consisting|consisting]] of a post with a [[c/_cross|cross]]-[[b/_beam|beam]] resting upon it; a [[b/_bracket|bracket]] or truss [[c/_consisting|consisting]] of a vertical piece, a horizontal piece, and a strut.**
-- **A shepherd's [[c/_crook|crook]]; a staff with a semi-[[c/_circular|circular]] [[b/_bend|bend]] ("hook") at one [[e/_end|end]] used by shepherds.**
-- **A [[b/_bishop|bishop]]'s staff of office.**
+- **A [[l/_lock|lock]] or [[c/_curl|curl]] of [[h/_hair|hair]].**
+- **A [[g/_gibbet|gibbet]].**
+- **A support [[b/_beam|beam]] [[c/_consisting|consisting]] of a post with a [[c/_cross|cross]]-[[b/_beam|beam]] resting upon it; a [[b/_bracket|bracket]] or truss [[c/_consisting|consisting]] of a vertical piece, a [[h/_horizontal|horizontal]] piece, and a strut.**
+- **A shepherd's [[c/_crook|crook]]; a staff with a semi-[[c/_circular|circular]] [[b/_bend|bend]] ("[[h/_hook|hook]]") at [[o/_one|one]] [[e/_end|end]] used by shepherds.**
+- **A [[b/_bishop|bishop]]'s staff of [[o/_office|office]].**
 - **An [[a/_artifice|artifice]]; a trick; a [[c/_contrivance|contrivance]].**
-- **A person who steals, lies, [[c/_cheats|cheats]] or [[d/_does|does]] other [[d/_dishonest|dishonest]] or illegal things; a [[c/_criminal|criminal]].**
+- **A person who steals, [[l/_lies|lies]], [[c/_cheats|cheats]] or [[d/_does|does]] [[o/_other|other]] [[d/_dishonest|dishonest]] or [[i/_illegal|illegal]] things; a [[c/_criminal|criminal]].**
 - **A pothook.**
-- **A small tube, usually [[c/_curved|curved]], [[a/_applied|applied]] to a trumpet, horn, [[e/_etc|etc]]., to [[c/_change|change]] its pitch or key.**
+- **A small tube, usually [[c/_curved|curved]], [[a/_applied|applied]] to a trumpet, [[h/_horn|horn]], [[e/_etc|etc]]., to [[c/_change|change]] [[i/_its|its]] pitch or [[k/_key|key]].**
 ---
 #verb
-- **To [[b/_bend|bend]], or form into a hook.**
+- **To [[b/_bend|bend]], or [[f/_form|form]] [[i/_into|into]] a [[h/_hook|hook]].**
 	- _Example: He crooked his finger toward me._
-- **To [[b/_become|become]] [[b/_bent|bent]] or hooked.**
-- **To turn from the path of rectitude; to pervert; to misapply; to twist.**
+- **To [[b/_become|become]] [[b/_bent|bent]] or [[h/_hooked|hooked]].**
+- **To turn from the path of rectitude; to pervert; to [[m/_misapply|misapply]]; to twist.**
 ---
 ---

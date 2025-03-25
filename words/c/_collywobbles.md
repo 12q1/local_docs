@@ -3,7 +3,7 @@
 #noun
 - **Stomachache or stomach upset.**
 	- _Example: Petunia's off school today with a touch of the collywobbles._
-- **[[a/_anxiety|Anxiety]], fear, uneasiness.**
+- **[[a/_anxiety|Anxiety]], [[f/_fear|fear]], uneasiness.**
 	- _Example: I don't like walking through the forest at night. It gives me the collywobbles._
 ---
 ### Synonyms

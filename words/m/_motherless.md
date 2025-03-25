@@ -1,0 +1,11 @@
+# Motherless
+---
+#adjective
+- **Without a ([[l/_living|living]]) [[m/_mother|mother]].**
+- **Without [[m/_mother|mother]] ([[m/_mucilaginous|mucilaginous]] substance in [[f/_fermenting|fermenting]] [[l/_liquid|liquid]]).**
+- **Without a [[h/_history|history]] or predecessor.**
+---
+#adverb
+- **Very, [[c/_completely|completely]] ([[e/_especially|especially]] in reference to [[d/_drunkenness|drunkenness]])**
+---
+---

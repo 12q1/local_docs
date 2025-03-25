@@ -1,7 +1,7 @@
 # Doohickey
 ---
 #noun
-- **A thing (used in a vague way to refer to something whose name one [[c/_cannot|cannot]] recall)**
+- **A thing (used in a vague way to refer to something whose [[n/_name|name]] [[o/_one|one]] [[c/_cannot|cannot]] recall)**
 	- _Example: What does this doohickey do?_
 ---
 ### Synonyms

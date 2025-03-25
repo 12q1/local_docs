@@ -1,8 +1,8 @@
 # Coltsfoot
 ---
 #noun
-- **An herbaceous plant, species Tussilago farfara, that grows in Europe and the Middle [[e/_east|East]].**
-- **Various flowering plants in the genus Petasites native to Europe or [[a/_asia|Asia]].**
-- **Homogyne alpina ([[a/_alpine|alpine]] [[c/_coltsfoot|coltsfoot]] or purple [[c/_colt|colt]]'s-foot).**
+- **An [[h/_herbaceous|herbaceous]] plant, species Tussilago [[f/_farfara|farfara]], that [[g/_grows|grows]] in [[e/_europe|Europe]] and the [[m/_middle|Middle]] [[e/_east|East]].**
+- **Various [[f/_flowering|flowering]] plants in the [[g/_genus|genus]] Petasites [[n/_native|native]] to [[e/_europe|Europe]] or [[a/_asia|Asia]].**
+- **Homogyne alpina ([[a/_alpine|alpine]] [[c/_coltsfoot|coltsfoot]] or purple [[c/_colt|colt]]'s-[[f/_foot|foot]]).**
 ---
 ---

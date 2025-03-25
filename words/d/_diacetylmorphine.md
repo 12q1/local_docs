@@ -1,7 +1,7 @@
 # Diacetylmorphine
 ---
 #noun
-- **The INN name for the [[d/_drug|drug]] heroin.**
+- **The [[i/_inn|INN]] [[n/_name|name]] for the [[d/_drug|drug]] [[h/_heroin|heroin]].**
 ---
 ### Synonyms
 - [[d/_diamorphine|diamorphine]]

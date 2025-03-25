@@ -1,6 +1,6 @@
 # Cutin
 ---
 #noun
-- **A waxy polymer of hydroxy [[a/_acids|acids]] that is the main [[c/_constituent|constituent]] of plant [[c/_cuticle|cuticle]].**
+- **A waxy polymer of [[h/_hydroxy|hydroxy]] [[a/_acids|acids]] that is the [[m/_main|main]] [[c/_constituent|constituent]] of plant [[c/_cuticle|cuticle]].**
 ---
 ---

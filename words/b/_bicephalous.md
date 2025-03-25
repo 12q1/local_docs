@@ -1,7 +1,7 @@
 # Bicephalous
 ---
 #adjective
-- **Having two heads.**
+- **[[h/_having|Having]] two [[h/_heads|heads]].**
 ---
 ### Synonyms
 - [[b/_bicephalic|bicephalic]]

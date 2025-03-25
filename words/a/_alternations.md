@@ -1,15 +1,15 @@
 # Alternations
 ---
 #noun
-- **The reciprocal succession of (normally two) things in time or place; the [[a/_act|act]] of following and [[b/_being|being]] followed by turns; [[a/_alternate|alternate]] succession, performance, or occurrence**
+- **The reciprocal succession of ([[n/_normally|normally]] two) things in time or place; the [[a/_act|act]] of [[f/_following|following]] and [[b/_being|being]] [[f/_followed|followed]] by turns; [[a/_alternate|alternate]] succession, performance, or [[o/_occurrence|occurrence]]**
 	- _Example: alternation between night shifts and day shifts_
-- **The response of the [[c/_congregation|congregation]] speaking [[a/_alternately|alternately]] with the minister.**
+- **The response of the [[c/_congregation|congregation]] speaking [[a/_alternately|alternately]] with the [[m/_minister|minister]].**
 - **[[a/_ablaut|Ablaut]].**
-- **A pattern by which more than one [[c/_construct|construct]] is possible, as with "[[a/_alice|Alice]] [[c/_cooked|cooked]] [[b/_bob|Bob]] [[d/_dinner|dinner]]" and "[[a/_alice|Alice]] [[c/_cooked|cooked]] [[d/_dinner|dinner]] for [[b/_bob|Bob]]".**
+- **A pattern by which [[m/_more|more]] than [[o/_one|one]] [[c/_construct|construct]] is possible, as with "[[a/_alice|Alice]] [[c/_cooked|cooked]] [[b/_bob|Bob]] [[d/_dinner|dinner]]" and "[[a/_alice|Alice]] [[c/_cooked|cooked]] [[d/_dinner|dinner]] for [[b/_bob|Bob]]".**
 	- _Example: dative alternation; locative alternation_
-- **The "inclusive or" truth function.**
-- **A sequence that [[a/_alternates|alternates]] [[b/_between|between]] positive and negative values; sometimes incorrectly used to mean permutation.**
-- **A [[c/_construct|construct]] in a regular expression that [[c/_can|can]] match [[a/_any|any]] of several specified subexpressions.**
+- **The "[[i/_inclusive|inclusive]] or" truth [[f/_function|function]].**
+- **A sequence that [[a/_alternates|alternates]] [[b/_between|between]] positive and [[n/_negative|negative]] values; sometimes [[i/_incorrectly|incorrectly]] used to [[m/_mean|mean]] permutation.**
+- **A [[c/_construct|construct]] in a regular [[e/_expression|expression]] that [[c/_can|can]] [[m/_match|match]] [[a/_any|any]] of several specified subexpressions.**
 - **A type of partial truncation of a polygon, polyhedron or tiling in which [[a/_alternate|alternate]] vertices are removed.**
 ---
 ---

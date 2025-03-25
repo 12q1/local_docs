@@ -1,64 +1,64 @@
 # Caps
 ---
 #noun
-- **A [[c/_close|close]]-fitting hat, [[e/_either|either]] [[b/_brimless|brimless]] or peaked.**
+- **A [[c/_close|close]]-[[f/_fitting|fitting]] [[h/_hat|hat]], [[e/_either|either]] [[b/_brimless|brimless]] or peaked.**
 	- _Example: The children were all wearing caps to protect them from the sun._
-- **A special hat to indicate rank, occupation, [[e/_etc|etc]].**
-- **An [[a/_academic|academic]] mortarboard.**
+- **A special [[h/_hat|hat]] to [[i/_indicate|indicate]] rank, [[o/_occupation|occupation]], [[e/_etc|etc]].**
+- **An [[a/_academic|academic]] [[m/_mortarboard|mortarboard]].**
 - **A protective [[c/_cover|cover]] or seal.**
 	- _Example: He took the cap off the bottle and splashed himself with some cologne._
 - **A [[c/_crown|crown]] for [[c/_covering|covering]] a tooth.**
 	- _Example: He had golden caps on his teeth._
-- **The summit of a mountain, [[e/_etc|etc]].**
+- **The summit of a [[m/_mountain|mountain]], [[e/_etc|etc]].**
 	- _Example: There was snow on the cap of the mountain._
-- **An [[a/_artificial|artificial]] upper limit or [[c/_ceiling|ceiling]].**
+- **An [[a/_artificial|artificial]] upper [[l/_limit|limit]] or [[c/_ceiling|ceiling]].**
 	- _Example: We should put a cap on the salaries, to keep them under control._
-- **The top part of a mushroom.**
-- **(toy) A small [[a/_amount|amount]] of percussive explosive in a paper strip or plastic [[c/_cup|cup]] for use in a toy gun.**
+- **The top part of a [[m/_mushroom|mushroom]].**
+- **(toy) A small [[a/_amount|amount]] of percussive [[e/_explosive|explosive]] in a paper strip or plastic [[c/_cup|cup]] for use in a toy [[g/_gun|gun]].**
 	- _Example: Billy spent all morning firing caps with his friends, re-enacting storming the beach at Normandy._
-- **A small explosive [[d/_device|device]] used to [[d/_detonate|detonate]] a larger [[c/_charge|charge]] of explosives.**
+- **A small [[e/_explosive|explosive]] [[d/_device|device]] used to [[d/_detonate|detonate]] a [[l/_larger|larger]] [[c/_charge|charge]] of [[e/_explosives|explosives]].**
 	- _Example: He wired the cap to the bundle of dynamite, then detonated it remotely._
 - **A [[b/_bullet|bullet]] used to shoot someone.**
-- **An international [[a/_appearance|appearance]].**
+- **An [[i/_international|international]] [[a/_appearance|appearance]].**
 	- _Example: Rio Ferdinand won his 50th cap for England in a game against Sweden._
 - **The top, or uppermost part; the [[c/_chief|chief]].**
-- **A respectful uncovering of the head.**
-- **The whole top of the head of a [[b/_bird|bird]] from the [[b/_base|base]] of the [[b/_bill|bill]] to the nape of the neck.**
+- **A respectful uncovering of the [[h/_head|head]].**
+- **The whole top of the [[h/_head|head]] of a [[b/_bird|bird]] from the [[b/_base|base]] of the [[b/_bill|bill]] to the [[n/_nape|nape]] of the [[n/_neck|neck]].**
 - **The uppermost of [[a/_any|any]] [[a/_assemblage|assemblage]] of parts.**
 	- _Example: the cap of column, door, etc.; a capital, coping, cornice, lintel, or plate_
-- **Something [[c/_covering|covering]] the top or [[e/_end|end]] of a thing for protection or ornament.**
-- **A [[c/_collar|collar]] of iron or wood used in joining spars, as the mast and the topmast, the [[b/_bowsprit|bowsprit]] and the jib [[b/_boom|boom]]; [[a/_also|also]], a [[c/_covering|covering]] of tarred [[c/_canvas|canvas]] at the [[e/_end|end]] of a rope.**
-- **A portion of a spherical or other [[c/_convex|convex]] surface.**
-- **A large size of writing paper.**
+- **Something [[c/_covering|covering]] the top or [[e/_end|end]] of a thing for protection or [[o/_ornament|ornament]].**
+- **A [[c/_collar|collar]] of [[i/_iron|iron]] or wood used in [[j/_joining|joining]] spars, as the [[m/_mast|mast]] and the topmast, the [[b/_bowsprit|bowsprit]] and the [[j/_jib|jib]] [[b/_boom|boom]]; [[a/_also|also]], a [[c/_covering|covering]] of tarred [[c/_canvas|canvas]] at the [[e/_end|end]] of a rope.**
+- **A portion of a spherical or [[o/_other|other]] [[c/_convex|convex]] surface.**
+- **A [[l/_large|large]] size of writing paper.**
 	- _Example: flat cap; foolscap; legal cap_
-- **A lie or exaggeration.**
+- **A [[l/_lie|lie]] or [[e/_exaggeration|exaggeration]].**
 	- _Example: no cap_
 ---
 ### Antonyms
 - [[f/_floor|floor]]
 #verb
 - **To [[c/_cover|cover]] or seal with a [[c/_cap|cap]].**
-- **To [[a/_award|award]] a [[c/_cap|cap]] as a mark of [[d/_distinction|distinction]].**
-- **To lie over or on top of something.**
-- **To surpass or outdo.**
-- **To set an upper limit on something.**
+- **To [[a/_award|award]] a [[c/_cap|cap]] as a [[m/_mark|mark]] of [[d/_distinction|distinction]].**
+- **To [[l/_lie|lie]] [[o/_over|over]] or on top of something.**
+- **To surpass or [[o/_outdo|outdo]].**
+- **To set an upper [[l/_limit|limit]] on something.**
 	- _Example: cap wages._
-- **To make something even more wonderful at the [[e/_end|end]].**
+- **To [[m/_make|make]] something [[e/_even|even]] [[m/_more|more]] wonderful at the [[e/_end|end]].**
 	- _Example: That really capped my day._
 - **To select a player to play for a specified side.**
-- **To shoot (someone) with a firearm.**
+- **To shoot (someone) with a [[f/_firearm|firearm]].**
 	- _Example: In a school shooting, where some kid caps a bunch of other kids, where did he get the weapon? From a family member, probably their gun cabinet._
-- **To select to play for the national team.**
+- **To select to play for the [[n/_national|national]] team.**
 	- _Example: Peter Shilton is the most capped English footballer._
-- **To salute by uncovering the head respectfully.**
+- **To salute by uncovering the [[h/_head|head]] respectfully.**
 - **To [[d/_deprive|deprive]] of a [[c/_cap|cap]].**
-- **To tell a lie.**
+- **To tell a [[l/_lie|lie]].**
 ---
 #noun
 - **[[c/_capitalization|Capitalization]].**
 ---
 #noun
-- **An uppercase letter.**
+- **An uppercase [[l/_letter|letter]].**
 ---
 #verb
 - **To [[c/_convert|convert]] text to uppercase.**
@@ -78,9 +78,9 @@
 - **A [[c/_capsule|capsule]] of a [[d/_drug|drug]].**
 ---
 #noun
-- **A wooden [[d/_drinking|drinking]]-[[b/_bowl|bowl]] with two handles.**
+- **A wooden [[d/_drinking|drinking]]-[[b/_bowl|bowl]] with two [[h/_handles|handles]].**
 ---
 #noun
-- **[[c/_capital|Capital]] letters; [[c/_capitals|capitals]].**
+- **[[c/_capital|Capital]] [[l/_letters|letters]]; [[c/_capitals|capitals]].**
 ---
 ---

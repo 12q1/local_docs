@@ -1,35 +1,35 @@
 # Axed
 ---
 #verb
-- **To request (information, or an [[a/_answer|answer]] to a question).**
+- **To request ([[i/_information|information]], or an [[a/_answer|answer]] to a question).**
 	- _Example: I asked her age._
-- **To put forward (a question) to be [[a/_answered|answered]].**
+- **To put [[f/_forward|forward]] (a question) to be [[a/_answered|answered]].**
 	- _Example: to ask a question_
-- **To interrogate or [[e/_enquire|enquire]] of (a person).**
+- **To [[i/_interrogate|interrogate]] or [[e/_enquire|enquire]] of (a person).**
 	- _Example: I'm going to ask this lady for directions._
 - **To request or petition; usually with for.**
 	- _Example: to ask for a second helping at dinner_
 - **To request permission to [[d/_do|do]] something.**
 	- _Example: Did you ask to use the car?_
-- **To require, [[d/_demand|demand]], [[c/_claim|claim]], or expect, whether by way of remuneration or return, or as a matter of necessity.**
+- **To require, [[d/_demand|demand]], [[c/_claim|claim]], or [[e/_expect|expect]], whether by way of remuneration or return, or as a [[m/_matter|matter]] of [[n/_necessity|necessity]].**
 	- _Example: What price are you asking for the house?_
-- **To invite.**
+- **To [[i/_invite|invite]].**
 	- _Example: Don't ask them to the wedding._
-- **To publish in [[c/_church|church]] for marriage; said of [[b/_both|both]] the [[b/_banns|banns]] and the persons.**
-- **To take (a person's situation) as an example.**
+- **To publish in [[c/_church|church]] for [[m/_marriage|marriage]]; said of [[b/_both|both]] the [[b/_banns|banns]] and the persons.**
+- **To take (a person's situation) as an [[e/_example|example]].**
 ---
 #verb
-- **To fell or [[c/_chop|chop]] with an [[a/_axe|axe]].**
-- **To lay off, terminate or [[d/_drastically|drastically]] reduce, [[e/_especially|especially]] in a rough or ruthless manner; to [[c/_cancel|cancel]].**
+- **To [[f/_fell|fell]] or [[c/_chop|chop]] with an [[a/_axe|axe]].**
+- **To [[l/_lay|lay]] [[o/_off|off]], terminate or [[d/_drastically|drastically]] reduce, [[e/_especially|especially]] in a rough or ruthless [[m/_manner|manner]]; to [[c/_cancel|cancel]].**
 	- _Example: He got axed in the last round of firings._
 ---
 ### Synonyms
 - [[d/_downsize|downsize]], [[f/_fire|fire]]
 #verb
-- **To furnish with an [[a/_axle|axle]].**
+- **To [[f/_furnish|furnish]] with an [[a/_axle|axle]].**
 ---
 #adjective
-- **Having a specified number of type of [[a/_axis|axis]].**
+- **[[h/_having|Having]] a specified [[n/_number|number]] of type of [[a/_axis|axis]].**
 	- _Example: a two-axed crystal_
 ---
 ---

@@ -1,7 +1,7 @@
 # Divalent
 ---
 #adjective
-- **Having an [[a/_atomic|atomic]] valence of 2.**
-- **Having a vaccine valence of 2.**
+- **[[h/_having|Having]] an [[a/_atomic|atomic]] valence of 2.**
+- **[[h/_having|Having]] a vaccine valence of 2.**
 ---
 ---

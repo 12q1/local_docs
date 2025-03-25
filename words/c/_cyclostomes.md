@@ -1,6 +1,6 @@
 # Cyclostomes
 ---
 #noun
-- **[[a/_any|Any]] of various primitive jawless fish of the [[c/_class|class]] [[c/_cyclostomata|Cyclostomata]], such as the lamprey or hagfish.**
+- **[[a/_any|Any]] of various primitive [[j/_jawless|jawless]] [[f/_fish|fish]] of the [[c/_class|class]] [[c/_cyclostomata|Cyclostomata]], such as the [[l/_lamprey|lamprey]] or [[h/_hagfish|hagfish]].**
 ---
 ---

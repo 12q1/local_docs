@@ -1,7 +1,7 @@
 # Cordwood
 ---
 #noun
-- **Wood suitable for use as firewood; firewood [[c/_cut|cut]] and split into [[c/_conveniently|conveniently]] sized pieces for [[e/_easy|easy]] stacking into [[c/_cords|cords]].**
-- **Split and [[c/_cut|cut]] firewood as an [[e/_economic|economic]] [[c/_commodity|commodity]].**
+- **Wood suitable for use as [[f/_firewood|firewood]]; [[f/_firewood|firewood]] [[c/_cut|cut]] and split [[i/_into|into]] [[c/_conveniently|conveniently]] sized pieces for [[e/_easy|easy]] stacking [[i/_into|into]] [[c/_cords|cords]].**
+- **Split and [[c/_cut|cut]] [[f/_firewood|firewood]] as an [[e/_economic|economic]] [[c/_commodity|commodity]].**
 ---
 ---

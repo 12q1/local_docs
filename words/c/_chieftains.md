@@ -1,8 +1,8 @@
 # Chieftains
 ---
 #noun
-- **A leader of a [[c/_clan|clan]] or tribe.**
-- **(by extension) A leader of a group.**
+- **A [[l/_leader|leader]] of a [[c/_clan|clan]] or tribe.**
+- **(by [[e/_extension|extension]]) A [[l/_leader|leader]] of a [[g/_group|group]].**
 	- _Example: The robber chieftain divided up the spoils._
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Afterdamp
 ---
 #noun
-- **Suffocating gases present in a [[c/_coal|coal]] mine [[a/_after|after]] an explosion [[c/_caused|caused]] by firedamp, [[c/_consisting|consisting]] of nitrogen, [[c/_carbon|carbon]] monoxide, [[c/_carbon|carbon]] [[d/_dioxide|dioxide]], and sometimes hydrogen sulfide.**
+- **Suffocating [[g/_gases|gases]] present in a [[c/_coal|coal]] [[m/_mine|mine]] [[a/_after|after]] an [[e/_explosion|explosion]] [[c/_caused|caused]] by [[f/_firedamp|firedamp]], [[c/_consisting|consisting]] of [[n/_nitrogen|nitrogen]], [[c/_carbon|carbon]] [[m/_monoxide|monoxide]], [[c/_carbon|carbon]] [[d/_dioxide|dioxide]], and sometimes [[h/_hydrogen|hydrogen]] sulfide.**
 ---
 ---

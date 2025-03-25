@@ -1,12 +1,12 @@
 # Begetting
 ---
 #verb
-- **To father; to sire; to produce (a [[c/_child|child]]).**
+- **To [[f/_father|father]]; to sire; to produce (a [[c/_child|child]]).**
 - **To [[c/_cause|cause]]; to produce.**
-- **To [[b/_bring|bring]] forth.**
-- **To happen to; [[b/_befall|befall]].**
+- **To [[b/_bring|bring]] [[f/_forth|forth]].**
+- **To [[h/_happen|happen]] to; [[b/_befall|befall]].**
 ---
 #noun
-- **The [[a/_act|act]] or product of one who [[b/_begets|begets]].**
+- **The [[a/_act|act]] or product of [[o/_one|one]] who [[b/_begets|begets]].**
 ---
 ---

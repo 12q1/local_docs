@@ -1,7 +1,7 @@
 # Aerofoil
 ---
 #noun
-- **A structure shaped to produce lift when moving in [[a/_air|air]].**
+- **A structure shaped to produce [[l/_lift|lift]] when [[m/_moving|moving]] in [[a/_air|air]].**
 - **A wing of an [[a/_aircraft|aircraft]].**
 ---
 ### Synonyms

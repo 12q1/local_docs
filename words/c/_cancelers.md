@@ -1,10 +1,10 @@
 # Cancelers
 ---
 #noun
-- **A [[c/_cancellation|cancellation]] (US); (nonstandard in some kinds of [[e/_english|English]]).**
-- **An [[e/_enclosure|enclosure]]; a [[b/_boundary|boundary]]; a limit.**
-- **The suppression on striking out of matter in type, or of a printed page or pages.**
-- **The page thus suppressed.**
-- **The page that replaces it.**
+- **A [[c/_cancellation|cancellation]] (US); ([[n/_nonstandard|nonstandard]] in some [[k/_kinds|kinds]] of [[e/_english|English]]).**
+- **An [[e/_enclosure|enclosure]]; a [[b/_boundary|boundary]]; a [[l/_limit|limit]].**
+- **The suppression on striking [[o/_out|out]] of [[m/_matter|matter]] in type, or of a printed [[p/_page|page]] or [[p/_pages|pages]].**
+- **The [[p/_page|page]] thus suppressed.**
+- **The [[p/_page|page]] that replaces it.**
 ---
 ---

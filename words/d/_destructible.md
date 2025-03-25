@@ -1,7 +1,7 @@
 # Destructible
 ---
 #adjective
-- **Liable to [[d/_destruction|destruction]]; [[c/_capable|capable]] of [[b/_being|being]] [[d/_destroyed|destroyed]].**
+- **[[l/_liable|Liable]] to [[d/_destruction|destruction]]; [[c/_capable|capable]] of [[b/_being|being]] [[d/_destroyed|destroyed]].**
 ---
 ### Synonyms
 - [[b/_breakable|breakable]], [[d/_destroyable|destroyable]], [[w/_wreckable|wreckable]]

@@ -1,8 +1,8 @@
 # Cambiums
 ---
 #noun
-- **A layer of [[c/_cells|cells]] [[b/_between|between]] the xylem and the phloem that is responsible for the secondary growth of roots and stems.**
-- **Periosteum, a membrane that [[c/_covers|covers]] the outer surface of [[b/_bones|bones]]**
-- **One of the humours formerly [[b/_believed|believed]] to nourish the [[b/_bodily|bodily]] organs.**
+- **A [[l/_layer|layer]] of [[c/_cells|cells]] [[b/_between|between]] the xylem and the phloem that is responsible for the secondary [[g/_growth|growth]] of roots and stems.**
+- **Periosteum, a [[m/_membrane|membrane]] that [[c/_covers|covers]] the [[o/_outer|outer]] surface of [[b/_bones|bones]]**
+- **[[o/_one|One]] of the [[h/_humours|humours]] [[f/_formerly|formerly]] [[b/_believed|believed]] to [[n/_nourish|nourish]] the [[b/_bodily|bodily]] [[o/_organs|organs]].**
 ---
 ---

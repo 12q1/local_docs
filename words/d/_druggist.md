@@ -1,7 +1,7 @@
 # Druggist
 ---
 #noun
-- **A manufacturer and vendor of [[d/_drugs|drugs]] and medicines.**
+- **A [[m/_manufacturer|manufacturer]] and vendor of [[d/_drugs|drugs]] and [[m/_medicines|medicines]].**
 	- _Example: For sale by all druggists_
 ---
 ### Synonyms

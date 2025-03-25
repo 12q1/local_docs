@@ -1,9 +1,9 @@
 # Autograft
 ---
 #noun
-- **A tissue graft taken from one part to [[a/_another|another]] of the same individual's [[b/_body|body]].**
+- **A tissue [[g/_graft|graft]] taken from [[o/_one|one]] part to [[a/_another|another]] of the same [[i/_individual|individual]]'s [[b/_body|body]].**
 ---
 #verb
-- **To graft in this manner.**
+- **To [[g/_graft|graft]] in this [[m/_manner|manner]].**
 ---
 ---

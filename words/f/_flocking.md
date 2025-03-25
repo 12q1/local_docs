@@ -1,0 +1,16 @@
+# Flocking
+---
+#verb
+- **To [[c/_congregate|congregate]] in or [[h/_head|head]] towards a place in [[l/_large|large]] [[n/_numbers|numbers]].**
+	- _Example: People flocked to the cinema to see the new film._
+- **To [[f/_flock|flock]] to; to [[c/_crowd|crowd]].**
+- **To treat a pool with [[c/_chemicals|chemicals]] to remove suspended particles.**
+---
+#verb
+- **To [[c/_coat|coat]] a surface with [[d/_dense|dense]] [[f/_fibers|fibers]] or particles.**
+---
+#noun
+- **The process of [[a/_adding|adding]] small particles to a surface for the sake of texture.**
+- **A [[m/_material|material]] textured in this way.**
+---
+---

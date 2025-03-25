@@ -1,8 +1,8 @@
 # Bootlicking
 ---
 #verb
-- **To seek favor from by fawning, servile [[b/_behavior|behavior]].**
-- **To [[e/_engage|engage]] in fawning, servile [[b/_behavior|behavior]].**
+- **To seek [[f/_favor|favor]] from by [[f/_fawning|fawning]], servile [[b/_behavior|behavior]].**
+- **To [[e/_engage|engage]] in [[f/_fawning|fawning]], servile [[b/_behavior|behavior]].**
 ---
 #noun
 - **Servile [[b/_behaviour|behaviour]]**

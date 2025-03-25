@@ -1,6 +1,6 @@
 # Aye
 ---
 #adverb
-- **Ever, [[a/_always|always]]**
+- **[[e/_ever|Ever]], [[a/_always|always]]**
 ---
 ---

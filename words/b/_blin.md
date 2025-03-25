@@ -4,6 +4,6 @@
 - **[[c/_cessation|Cessation]]; [[e/_end|end]].**
 ---
 #verb
-- **To [[c/_cease|cease]] (from); to stop; to [[d/_desist|desist]], to let up.**
+- **To [[c/_cease|cease]] (from); to stop; to [[d/_desist|desist]], to [[l/_let|let]] up.**
 ---
 ---

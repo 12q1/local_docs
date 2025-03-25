@@ -1,6 +1,6 @@
 # Covellite
 ---
 #noun
-- **A shiny indigo-[[b/_blue|blue]] sulfide mineral, CuS, that is an ore of [[c/_copper|copper]].**
+- **A shiny [[i/_indigo|indigo]]-[[b/_blue|blue]] sulfide [[m/_mineral|mineral]], CuS, that is an [[o/_ore|ore]] of [[c/_copper|copper]].**
 ---
 ---

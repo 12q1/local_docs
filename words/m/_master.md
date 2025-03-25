@@ -1,0 +1,50 @@
+# Master
+---
+#noun
+- **Someone who [[h/_has|has]] [[c/_control|control]] [[o/_over|over]] something or someone.**
+- **The [[o/_owner|owner]] of an [[a/_animal|animal]] or slave.**
+- **The [[c/_captain|captain]] of a [[m/_merchant|merchant]] ship; a [[m/_master|master]] [[m/_mariner|mariner]].**
+- **The [[h/_head|head]] of a [[h/_household|household]].**
+- **Someone who [[e/_employs|employs]] [[o/_others|others]].**
+- **An [[e/_expert|expert]] at something.**
+	- _Example: Mark Twain was a master of fiction._
+- **A tradesman who is qualified to teach [[a/_apprentices|apprentices]].**
+- **A schoolmaster.**
+- **A skilled [[a/_artist|artist]].**
+- **A [[m/_man|man]] or a [[b/_boy|boy]]; [[m/_mister|mister]]. See [[m/_master|Master]].**
+- **A [[m/_master|master]]'s [[d/_degree|degree]]; a type of postgraduate [[d/_degree|degree]], usually undertaken [[a/_after|after]] a [[b/_bachelor|bachelor]] [[d/_degree|degree]].**
+	- _Example: She has a master in psychology._
+- **A person [[h/_holding|holding]] such a [[d/_degree|degree]].**
+	- _Example: He is a master of marine biology._
+- **The [[o/_original|original]] of a [[d/_document|document]] or of a recording.**
+	- _Example: The band couldn't find the master, so they re-recorded their tracks._
+- **The primary wide shot of a scene, [[i/_into|into]] which the [[c/_closeups|closeups]] will be [[e/_edited|edited]] [[l/_later|later]].**
+- **A parajudicial [[o/_officer|officer]] (such as a referee, an [[a/_auditor|auditor]], an [[e/_examiner|examiner]], or an [[a/_assessor|assessor]]) specially [[a/_appointed|appointed]] to [[h/_help|help]] a [[c/_court|court]] with [[i/_its|its]] proceedings.**
+	- _Example: The case was tried by a master, who concluded that the plaintiffs were the equitable owners of the property. [...]_
+- **A [[d/_device|device]] that is [[c/_controlling|controlling]] [[o/_other|other]] [[d/_devices|devices]] or is an [[a/_authoritative|authoritative]] source.**
+	- _Example: a master database_
+- **A person [[h/_holding|holding]] an [[o/_office|office]] of [[a/_authority|authority]], [[e/_especially|especially]] the presiding [[o/_officer|officer]].**
+- **(by [[e/_extension|extension]]) A person [[h/_holding|holding]] a similar [[o/_office|office]] in [[o/_other|other]] [[c/_civic|civic]] societies.**
+---
+### Synonyms
+- [[m/_magistrate|magistrate]], [[m/_master's|master's]], [[m/_masters|masters]], [[c/_captain|captain]], [[s/_skipper|skipper]]
+#verb
+- **To be a [[m/_master|master]].**
+- **To [[b/_become|become]] the [[m/_master|master]] of; to subject to [[o/_one|one]]'s will, [[c/_control|control]], or [[a/_authority|authority]]; to [[c/_conquer|conquer]]; to [[o/_overpower|overpower]]; to subdue.**
+- **To [[l/_learn|learn]] to a [[h/_high|high]] [[d/_degree|degree]] of proficiency.**
+	- _Example: It took her years to master the art of needlecraft._
+- **To [[o/_own|own]]; to possess.**
+- **([[e/_especially|especially]] of a [[m/_musical|musical]] performance) To [[m/_make|make]] a [[m/_master|master]] [[c/_copy|copy]] of.**
+- **(usually with in) To [[e/_earn|earn]] a [[m/_master|Master]]'s [[d/_degree|degree]].**
+	- _Example: He mastered in English at the state college._
+---
+#adjective
+- **[[m/_masterful|Masterful]].**
+	- _Example: a master performance_
+- **[[m/_main|Main]], principal or predominant.**
+- **[[h/_highly|Highly]] skilled.**
+	- _Example: master batsman_
+- **[[o/_original|Original]].**
+	- _Example: master copy_
+---
+---

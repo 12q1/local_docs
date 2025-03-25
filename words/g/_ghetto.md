@@ -1,0 +1,20 @@
+# Ghetto
+---
+#noun
+- **An ([[o/_often|often]] walled) [[a/_area|area]] of a [[c/_city|city]] in which [[j/_jews|Jews]] are [[c/_concentrated|concentrated]] by [[f/_force|force]] and [[l/_law|law]]. (Used particularly of [[a/_areas|areas]] in [[m/_medieval|medieval]] [[i/_italy|Italy]] and in [[n/_nazi|Nazi]]-[[c/_controlled|controlled]] [[e/_europe|Europe]].)**
+- **An ([[o/_often|often]] [[i/_impoverished|impoverished]]) [[a/_area|area]] of a [[c/_city|city]] [[i/_inhabited|inhabited]] predominantly by [[m/_members|members]] of a specific [[n/_nationality|nationality]], [[e/_ethnicity|ethnicity]] or race.**
+- **An [[a/_area|area]] in which people who are [[d/_distinguished|distinguished]] by sharing something [[o/_other|other]] than [[e/_ethnicity|ethnicity]] [[c/_concentrate|concentrate]] or are [[c/_concentrated|concentrated]].**
+- **(sometimes [[d/_derogatory|derogatory]]) An [[i/_isolated|isolated]], self-[[c/_contained|contained]], segregated subsection, [[a/_area|area]] or [[f/_field|field]] of [[i/_interest|interest]]; [[o/_often|often]] of [[m/_minority|minority]] or specialist [[i/_interest|interest]].**
+---
+### Synonyms
+- 
+#verb
+- **To [[c/_confine|confine]] (a specified [[g/_group|group]] of people) to a [[g/_ghetto|ghetto]].**
+---
+#adjective
+- **Of or relating to a [[g/_ghetto|ghetto]] or to [[g/_ghettos|ghettos]] in [[g/_general|general]].**
+- **Unseemly and [[i/_indecorous|indecorous]] or of [[l/_low|low]] quality; [[c/_cheap|cheap]]; shabby, [[c/_crude|crude]].**
+- **[[c/_characteristic|Characteristic]] of the style, speech, or [[b/_behavior|behavior]] of residents of a predominantly [[b/_black|black]] or [[o/_other|other]] [[g/_ghetto|ghetto]] in the United States.**
+- **[[h/_having|Having]] [[b/_been|been]] raised in a [[g/_ghetto|ghetto]] in the United States.**
+---
+---

@@ -1,7 +1,7 @@
 # Dopping
 ---
 #verb
-- **To fail or to plug (an examination, standard or grade)**
+- **To [[f/_fail|fail]] or to plug (an [[e/_examination|examination]], standard or [[g/_grade|grade]])**
 	- _Example: I dopped my exams._
 - **To [[d/_dip|dip]] or [[d/_duck|duck]].**
 ---

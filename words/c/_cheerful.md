@@ -1,7 +1,7 @@
 # Cheerful
 ---
 #adjective
-- **Noticeably happy and optimistic.**
+- **[[n/_noticeably|Noticeably]] [[h/_happy|happy]] and [[o/_optimistic|optimistic]].**
 - **[[b/_bright|Bright]] and pleasant.**
 	- _Example: They enjoyed a cheerful room._
 ---

@@ -1,9 +1,9 @@
 # Censuring
 ---
 #verb
-- **To [[c/_criticize|criticize]] harshly.**
-- **To formally rebuke.**
-- **To form or express a judgment in regard to; to [[e/_estimate|estimate]]; to judge.**
+- **To [[c/_criticize|criticize]] [[h/_harshly|harshly]].**
+- **To [[f/_formally|formally]] rebuke.**
+- **To [[f/_form|form]] or [[e/_express|express]] a [[j/_judgment|judgment]] in regard to; to [[e/_estimate|estimate]]; to [[j/_judge|judge]].**
 ---
 #noun
 - **An [[a/_act|act]] of [[c/_censure|censure]].**

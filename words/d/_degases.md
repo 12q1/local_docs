@@ -1,6 +1,6 @@
 # Degases
 ---
 #verb
-- **To remove the gas from.**
+- **To remove the [[g/_gas|gas]] from.**
 ---
 ---

@@ -2,24 +2,24 @@
 ---
 #noun
 - **An [[a/_act|act]] of [[d/_distributing|distributing]] or state of [[b/_being|being]] [[d/_distributed|distributed]].**
-- **An [[a/_apportionment|apportionment]] by law (of funds, property).**
-- **The process by which goods get to final [[c/_consumers|consumers]] over a geographical market, including storing, selling, shipping and [[a/_advertising|advertising]].**
+- **An [[a/_apportionment|apportionment]] by [[l/_law|law]] (of [[f/_funds|funds]], property).**
+- **The process by which [[g/_goods|goods]] [[g/_get|get]] to [[f/_final|final]] [[c/_consumers|consumers]] [[o/_over|over]] a [[g/_geographical|geographical]] [[m/_market|market]], [[i/_including|including]] storing, selling, shipping and [[a/_advertising|advertising]].**
 - **[[a/_anything|Anything]] [[d/_distributed|distributed]]; portion; share.**
 - **The result of [[d/_distributing|distributing]]; [[a/_arrangement|arrangement]].**
-- **The total number of something sold or [[d/_delivered|delivered]] to the [[c/_clients|clients]].**
+- **The total [[n/_number|number]] of something sold or [[d/_delivered|delivered]] to the [[c/_clients|clients]].**
 	- _Example: The distribution of my little rock magazine is about 3,000._
-- **The frequency of occurrence or extent of existence.**
-- **The [[a/_apportionment|apportionment]] of income or wealth in a population.**
+- **The [[f/_frequency|frequency]] of [[o/_occurrence|occurrence]] or [[e/_extent|extent]] of [[e/_existence|existence]].**
+- **The [[a/_apportionment|apportionment]] of [[i/_income|income]] or wealth in a population.**
 	- _Example: The wealth distribution became extremely skewed in the kleptocracy._
-- **The way in which a player's hand is [[d/_divided|divided]] in suits, or in which a particular suit is [[d/_divided|divided]] [[b/_between|between]] the players.**
+- **The way in which a player's [[h/_hand|hand]] is [[d/_divided|divided]] in suits, or in which a particular suit is [[d/_divided|divided]] [[b/_between|between]] the players.**
 	- _Example: The declarer had 3-6-2-2 distribution._
-- **A probability [[d/_distribution|distribution]]; the set of relative likelihoods that a variable will have a value in a given interval.**
-- **A subset of the tangent [[b/_bundle|bundle]] of a manifold that satisfies [[c/_certain|certain]] properties; used to [[c/_construct|construct]] the notions of integrability and foliation of a manifold.**
+- **A probability [[d/_distribution|distribution]]; the set of relative [[l/_likelihoods|likelihoods]] that a variable will [[h/_have|have]] a value in a [[g/_given|given]] [[i/_interval|interval]].**
+- **A subset of the tangent [[b/_bundle|bundle]] of a [[m/_manifold|manifold]] that satisfies [[c/_certain|certain]] properties; used to [[c/_construct|construct]] the [[n/_notions|notions]] of [[i/_integrability|integrability]] and [[f/_foliation|foliation]] of a [[m/_manifold|manifold]].**
 - **A set of [[b/_bundled|bundled]] software [[c/_components|components]]; distro.**
-- **The process or result of the sale of securities, [[e/_especially|especially]] their placement [[a/_among|among]] investors with long-term investment strategies.**
-- **The resolution of a whole into its parts.**
+- **The process or result of the sale of securities, [[e/_especially|especially]] their placement [[a/_among|among]] [[i/_investors|investors]] with [[l/_long|long]]-term [[i/_investment|investment]] strategies.**
+- **The resolution of a whole [[i/_into|into]] [[i/_its|its]] parts.**
 - **The process of sorting the types and placing them in their proper [[b/_boxes|boxes]] in the [[c/_cases|cases]].**
-- **(steam [[e/_engines|engines]]) The steps or operations by which steam is supplied to and withdrawn from the [[c/_cylinder|cylinder]] at [[e/_each|each]] stroke of the piston: [[a/_admission|admission]], suppression or [[c/_cutting|cutting]] off, release or exhaust, and [[c/_compression|compression]] of exhaust steam prior to the next [[a/_admission|admission]].**
-- **A rhetorical technique in which a subject is [[d/_divided|divided]] into multiple [[c/_cases|cases]] [[b/_based|based]] on some property or properties, and [[e/_each|each]] [[c/_case|case]] is [[a/_addressed|addressed]] individually.**
+- **(steam [[e/_engines|engines]]) The steps or [[o/_operations|operations]] by which steam is supplied to and withdrawn from the [[c/_cylinder|cylinder]] at [[e/_each|each]] stroke of the piston: [[a/_admission|admission]], suppression or [[c/_cutting|cutting]] [[o/_off|off]], release or [[e/_exhaust|exhaust]], and [[c/_compression|compression]] of [[e/_exhaust|exhaust]] steam prior to the [[n/_next|next]] [[a/_admission|admission]].**
+- **A rhetorical technique in which a subject is [[d/_divided|divided]] [[i/_into|into]] [[m/_multiple|multiple]] [[c/_cases|cases]] [[b/_based|based]] on some property or properties, and [[e/_each|each]] [[c/_case|case]] is [[a/_addressed|addressed]] [[i/_individually|individually]].**
 ---
 ---

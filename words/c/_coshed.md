@@ -1,6 +1,6 @@
 # Coshed
 ---
 #verb
-- **To strike with a weapon of this kind.**
+- **To strike with a weapon of this [[k/_kind|kind]].**
 ---
 ---

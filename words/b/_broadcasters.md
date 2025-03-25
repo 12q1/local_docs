@@ -1,7 +1,7 @@
 # Broadcasters
 ---
 #noun
-- **An organisation that [[e/_engages|engages]] in the [[a/_activity|activity]] of [[b/_broadcasting|broadcasting]].**
-- **A person whose job it is to [[b/_broadcast|broadcast]].**
+- **An [[o/_organisation|organisation]] that [[e/_engages|engages]] in the [[a/_activity|activity]] of [[b/_broadcasting|broadcasting]].**
+- **A person whose [[j/_job|job]] it is to [[b/_broadcast|broadcast]].**
 ---
 ---

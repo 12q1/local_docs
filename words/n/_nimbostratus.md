@@ -1,0 +1,6 @@
+# Nimbostratus
+---
+#noun
+- **[[a/_according|According]] to the World [[m/_meteorological|Meteorological]] [[o/_organization|Organization]], a [[m/_mid|mid]]-[[l/_level|level]], principal [[c/_cloud|cloud]] type, [[g/_generally|generally]] [[f/_formless|formless]] and [[d/_dark|dark]] [[g/_grey|grey]] in [[c/_colour|colour]], which [[f/_forms|forms]] from [[a/_altostratus|altostratus]] [[o/_occurring|occurring]] in [[l/_layers|layers]] at the [[m/_middle|middle]] [[a/_altitude|altitude]] of the troposphere (usually [[a/_above|above]] 2400 [[m/_metres|metres]]). [[n/_nimbostratus|Nimbostratus]] usually [[b/_brings|brings]] precipitation as the [[m/_mid|mid]]-[[l/_level|level]] [[c/_clouds|clouds]] thicken and subside [[i/_into|into]] the [[l/_low|low]] [[l/_level|level]] of the troposphere. [[f/_frontal|Frontal]] or [[c/_cyclonic|cyclonic]] [[l/_lift|lift]] [[c/_can|can]] [[a/_also|also]] [[c/_carry|carry]] the top of a [[d/_deep|deep]] [[n/_nimbostratus|nimbostratus]] [[l/_layer|layer]] [[i/_into|into]] the [[h/_high|high]] [[l/_levels|levels]] of the troposphere. [[a/_also|Also]] [[c/_classified|classified]] or [[c/_characterized|characterized]] as [[m/_multi|multi]]-[[l/_level|level]]; [[a/_abbreviated|abbreviated]] [[n/_ns|Ns]].**
+---
+---

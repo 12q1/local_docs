@@ -1,9 +1,9 @@
 # Coffle
 ---
 #noun
-- **A line of people or [[a/_animals|animals]] fastened together, [[e/_especially|especially]] a [[c/_chain|chain]] of prisoners or slaves.**
+- **A [[l/_line|line]] of people or [[a/_animals|animals]] [[f/_fastened|fastened]] together, [[e/_especially|especially]] a [[c/_chain|chain]] of prisoners or slaves.**
 ---
 #verb
-- **To fasten (a line of people or [[a/_animals|animals]]) together.**
+- **To [[f/_fasten|fasten]] (a [[l/_line|line]] of people or [[a/_animals|animals]]) together.**
 ---
 ---

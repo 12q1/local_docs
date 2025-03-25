@@ -1,7 +1,7 @@
 # Demoting
 ---
 #verb
-- **To lower the rank or status of.**
+- **To [[l/_lower|lower]] the rank or status of.**
 - **To relegate.**
 ---
 ### Antonyms

@@ -1,7 +1,7 @@
 # Cheeped
 ---
 #verb
-- **Of a small [[b/_bird|bird]], to make short, high-pitched sounds sounding like "[[c/_cheep|cheep]]".**
-- **To express in a [[c/_chirping|chirping]] tone.**
+- **Of a small [[b/_bird|bird]], to [[m/_make|make]] short, [[h/_high|high]]-pitched sounds sounding [[l/_like|like]] "[[c/_cheep|cheep]]".**
+- **To [[e/_express|express]] in a [[c/_chirping|chirping]] tone.**
 ---
 ---

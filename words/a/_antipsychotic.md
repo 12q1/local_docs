@@ -1,7 +1,7 @@
 # Antipsychotic
 ---
 #noun
-- **[[a/_any|Any]] of a group of [[d/_drugs|drugs]] used to treat psychosis.**
+- **[[a/_any|Any]] of a [[g/_group|group]] of [[d/_drugs|drugs]] used to treat psychosis.**
 ---
 ### Synonyms
 - [[n/_neuroleptic|neuroleptic]]

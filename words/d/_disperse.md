@@ -5,10 +5,10 @@
 	- _Example: The Jews are dispersed among all nations._
 - **To [[b/_break|break]] up and [[d/_disappear|disappear]]; to [[d/_dissipate|dissipate]]**
 - **To [[d/_disseminate|disseminate]]**
-- **To separate rays of light [[e/_etc|etc]]. [[a/_according|according]] to wavelength; to refract**
+- **To separate rays of [[l/_light|light]] [[e/_etc|etc]]. [[a/_according|according]] to wavelength; to refract**
 - **To [[d/_distribute|distribute]] throughout**
 ---
 #adjective
-- **Scattered or spread out.**
+- **Scattered or spread [[o/_out|out]].**
 ---
 ---

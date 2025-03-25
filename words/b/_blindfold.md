@@ -1,19 +1,19 @@
 # Blindfold
 ---
 #noun
-- **A [[c/_covering|covering]], usually a [[b/_bandage|bandage]], for the [[e/_eyes|eyes]], [[b/_blocking|blocking]] light to the [[e/_eyes|eyes]].**
+- **A [[c/_covering|covering]], usually a [[b/_bandage|bandage]], for the [[e/_eyes|eyes]], [[b/_blocking|blocking]] [[l/_light|light]] to the [[e/_eyes|eyes]].**
 	- _Example: I put a blindfold over my boyfriend's eyes and told him I had a surprise for him._
-- **Something that obscures vision (literally or metaphorically).**
+- **Something that [[o/_obscures|obscures]] vision ([[l/_literally|literally]] or [[m/_metaphorically|metaphorically]]).**
 ---
 #verb
-- **To [[c/_cover|cover]] the [[e/_eyes|eyes]], in order to make someone unable to see.**
-- **To obscure understanding or [[c/_comprehension|comprehension]].**
+- **To [[c/_cover|cover]] the [[e/_eyes|eyes]], in [[o/_order|order]] to [[m/_make|make]] someone unable to see.**
+- **To [[o/_obscure|obscure]] understanding or [[c/_comprehension|comprehension]].**
 ---
 #adjective
-- **Having the [[e/_eyes|eyes]] [[c/_covered|covered]] so as to obscure vision**
+- **[[h/_having|Having]] the [[e/_eyes|eyes]] [[c/_covered|covered]] so as to [[o/_obscure|obscure]] vision**
 - **Thoughtless; reckless.**
 ---
 #adverb
-- **With the [[e/_eyes|eyes]] [[c/_covered|covered]] so as to obscure vision**
+- **With the [[e/_eyes|eyes]] [[c/_covered|covered]] so as to [[o/_obscure|obscure]] vision**
 ---
 ---

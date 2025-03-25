@@ -1,6 +1,6 @@
 # Anions
 ---
 #noun
-- **A negatively [[c/_charged|charged]] ion.**
+- **A [[n/_negatively|negatively]] [[c/_charged|charged]] [[i/_ion|ion]].**
 ---
 ---

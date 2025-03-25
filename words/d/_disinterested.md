@@ -1,7 +1,7 @@
 # Disinterested
 ---
 #adjective
-- **Having no stake or interest in the outcome; free of [[b/_bias|bias]], impartial.**
-- **Uninterested, lacking interest.**
+- **[[h/_having|Having]] [[n/_no|no]] stake or [[i/_interest|interest]] in the [[o/_outcome|outcome]]; [[f/_free|free]] of [[b/_bias|bias]], [[i/_impartial|impartial]].**
+- **Uninterested, [[l/_lacking|lacking]] [[i/_interest|interest]].**
 ---
 ---

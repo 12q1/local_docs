@@ -1,67 +1,67 @@
 # Block
 ---
 #noun
-- **A substantial, often [[a/_approximately|approximately]] [[c/_cuboid|cuboid]], piece of [[a/_any|any]] substance.**
+- **A substantial, [[o/_often|often]] [[a/_approximately|approximately]] [[c/_cuboid|cuboid]], piece of [[a/_any|any]] substance.**
 	- _Example: a block of ice_
 - **A [[c/_chopping|chopping]] [[b/_block|block]]; [[c/_cuboid|cuboid]] [[b/_base|base]] for [[c/_cutting|cutting]] or [[b/_beheading|beheading]].**
 	- _Example: Anne Boleyn placed her head on the block and awaited her execution._
-- **A group of urban lots of property, several [[a/_acres|acres]] in extent, not [[c/_crossed|crossed]] by public streets.**
+- **A [[g/_group|group]] of urban [[l/_lots|lots]] of property, several [[a/_acres|acres]] in [[e/_extent|extent]], not [[c/_crossed|crossed]] by public streets.**
 	- _Example: I'm going for a walk around the block._
-- **A residential [[b/_building|building]] [[c/_consisting|consisting]] of flats.**
+- **A residential [[b/_building|building]] [[c/_consisting|consisting]] of [[f/_flats|flats]].**
 	- _Example: a block of flats_
-- **The [[d/_distance|distance]] from one street to [[a/_another|another]] in a [[c/_city|city]] that is [[b/_built|built]] ([[a/_approximately|approximately]]) to a grid pattern.**
+- **The [[d/_distance|distance]] from [[o/_one|one]] street to [[a/_another|another]] in a [[c/_city|city]] that is [[b/_built|built]] ([[a/_approximately|approximately]]) to a [[g/_grid|grid]] pattern.**
 	- _Example: The place you are looking for is two long blocks east and one short block north._
-- **Interference or obstruction of [[c/_cognitive|cognitive]] processes.**
-- **The human head.**
+- **[[i/_interference|Interference]] or [[o/_obstruction|obstruction]] of [[c/_cognitive|cognitive]] processes.**
+- **The [[h/_human|human]] [[h/_head|head]].**
 	- _Example: I'll knock your block off!_
-- **A wig [[b/_block|block]]: a simplified head model upon which wigs are worn.**
-- **A mould on which hats, [[b/_bonnets|bonnets]], [[e/_etc|etc]]., are shaped.**
-- **A set of sheets (of paper) joined together at one [[e/_end|end]].**
+- **A wig [[b/_block|block]]: a simplified [[h/_head|head]] [[m/_model|model]] upon which wigs are worn.**
+- **A [[m/_mould|mould]] on which [[h/_hats|hats]], [[b/_bonnets|bonnets]], [[e/_etc|etc]]., are shaped.**
+- **A set of sheets (of paper) [[j/_joined|joined]] together at [[o/_one|one]] [[e/_end|end]].**
 	- _Example: a block of 100 tickets_
-- **A logical [[d/_data|data]] storage unit [[c/_containing|containing]] one or more physical sectors (see [[c/_cluster|cluster]]).**
-- **A region of [[c/_code|code]] in a program that [[a/_acts|acts]] as a single unit, such as a function or loop.**
-- **A fixed-length group of [[b/_bits|bits]] making up part of a message.**
-- **A [[c/_case|case]] with one or more sheaves/pulleys, used with ropes to increase or redirect force, for example, as part of the rigging of a sailing ship.**
-- **A portion of a macromolecule, [[c/_comprising|comprising]] many units, that has at least one feature not present in [[a/_adjacent|adjacent]] portions.**
+- **A [[l/_logical|logical]] [[d/_data|data]] storage unit [[c/_containing|containing]] [[o/_one|one]] or [[m/_more|more]] physical sectors (see [[c/_cluster|cluster]]).**
+- **A region of [[c/_code|code]] in a program that [[a/_acts|acts]] as a single unit, such as a [[f/_function|function]] or [[l/_loop|loop]].**
+- **A [[f/_fixed|fixed]]-[[l/_length|length]] [[g/_group|group]] of [[b/_bits|bits]] [[m/_making|making]] up part of a [[m/_message|message]].**
+- **A [[c/_case|case]] with [[o/_one|one]] or [[m/_more|more]] sheaves/pulleys, used with ropes to [[i/_increase|increase]] or redirect [[f/_force|force]], for [[e/_example|example]], as part of the rigging of a sailing ship.**
+- **A portion of a [[m/_macromolecule|macromolecule]], [[c/_comprising|comprising]] [[m/_many|many]] units, that [[h/_has|has]] at [[l/_least|least]] [[o/_one|one]] [[f/_feature|feature]] not present in [[a/_adjacent|adjacent]] portions.**
 - **Something that prevents something from passing.**
 	- _Example: There's a block in the pipe that means the water can't get through._
-- **An [[a/_action|action]] to interfere with the movement of an opposing player or of the object of play ([[b/_ball|ball]], puck).**
-- **A shot played by holding the [[b/_bat|bat]] vertically in the path of the [[b/_ball|ball]], so that it loses momentum and [[d/_drops|drops]] to the ground.**
-- **A [[d/_defensive|defensive]] play by one or more players meant to [[d/_deflect|deflect]] a spiked [[b/_ball|ball]] [[b/_back|back]] to the hitter’s [[c/_court|court]].**
-- **A joined group of four (or in some [[c/_cases|cases]] nine) postage stamps, forming a roughly square shape.**
-- **A section of split logs used as fuel.**
+- **An [[a/_action|action]] to [[i/_interfere|interfere]] with the [[m/_movement|movement]] of an [[o/_opposing|opposing]] player or of the [[o/_object|object]] of play ([[b/_ball|ball]], puck).**
+- **A shot played by [[h/_holding|holding]] the [[b/_bat|bat]] vertically in the path of the [[b/_ball|ball]], so that it [[l/_loses|loses]] [[m/_momentum|momentum]] and [[d/_drops|drops]] to the [[g/_ground|ground]].**
+- **A [[d/_defensive|defensive]] play by [[o/_one|one]] or [[m/_more|more]] players [[m/_meant|meant]] to [[d/_deflect|deflect]] a spiked [[b/_ball|ball]] [[b/_back|back]] to the [[h/_hitter|hitter]]’s [[c/_court|court]].**
+- **A [[j/_joined|joined]] [[g/_group|group]] of [[f/_four|four]] (or in some [[c/_cases|cases]] [[n/_nine|nine]]) postage stamps, [[f/_forming|forming]] a roughly square shape.**
+- **A section of split [[l/_logs|logs]] used as [[f/_fuel|fuel]].**
 - **Solitary [[c/_confinement|confinement]].**
 - **A [[c/_cellblock|cellblock]].**
-- **The perch on which a [[b/_bird|bird]] of prey is kept.**
-- **A piece of hard wood on which a stereotype or [[e/_electrotype|electrotype]] plate is mounted.**
-- **A [[b/_blockhead|blockhead]]; a stupid fellow; a [[d/_dolt|dolt]].**
+- **The perch on which a [[b/_bird|bird]] of prey is [[k/_kept|kept]].**
+- **A piece of [[h/_hard|hard]] wood on which a stereotype or [[e/_electrotype|electrotype]] plate is [[m/_mounted|mounted]].**
+- **A [[b/_blockhead|blockhead]]; a stupid [[f/_fellow|fellow]]; a [[d/_dolt|dolt]].**
 - **A section of a railroad where the [[b/_block|block]] system is used.**
-- **The position of a player or [[b/_bat|bat]] when guarding the wicket.**
+- **The position of a player or [[b/_bat|bat]] when [[g/_guarding|guarding]] the wicket.**
 - **A [[b/_blockhole|blockhole]].**
 - **The popping [[c/_crease|crease]].**
-- **A [[d/_discrete|discrete]] group of vines in a vineyard, often [[d/_distinguished|distinguished]] from others by variety, [[c/_clone|clone]], [[c/_canopy|canopy]] training method, irrigation infrastructure, or some [[c/_combination|combination]] thereof.**
+- **A [[d/_discrete|discrete]] [[g/_group|group]] of vines in a vineyard, [[o/_often|often]] [[d/_distinguished|distinguished]] from [[o/_others|others]] by variety, [[c/_clone|clone]], [[c/_canopy|canopy]] training [[m/_method|method]], [[i/_irrigation|irrigation]] [[i/_infrastructure|infrastructure]], or some [[c/_combination|combination]] thereof.**
 ---
 ### Synonyms
 - [[r/_roof|roof]], [[s/_stuff|stuff]], [[w/_wall|wall]], [[b/_barrier|barrier]], [[b/_blockage|blockage]], [[o/_obstruction|obstruction]]
 #verb
-- **To fill (something) so that it is not possible to pass.**
+- **To [[f/_fill|fill]] (something) so that it is not possible to pass.**
 	- _Example: The pipe is blocked._
 - **To prevent (something or someone) from passing.**
 	- _Example: You're blocking the road – I can't get through!_
-- **To prevent (something from happening or someone from [[d/_doing|doing]] something).**
+- **To prevent (something from [[h/_happening|happening]] or someone from [[d/_doing|doing]] something).**
 	- _Example: His plan to take over the business was blocked by the boss._
-- **To impede an opponent.**
+- **To [[i/_impede|impede]] an [[o/_opponent|opponent]].**
 	- _Example: He blocked the basketball player's shot._
-- **To specify the positions and movements of the [[a/_actors|actors]].**
+- **To specify the positions and [[m/_movements|movements]] of the [[a/_actors|actors]].**
 	- _Example: It was very difficult to block this scene convincingly._
-- **To hit with a [[b/_block|block]].**
+- **To [[h/_hit|hit]] with a [[b/_block|block]].**
 - **To play a [[b/_block|block]] shot.**
-- **To [[d/_disable|disable]] [[c/_communication|communication]] via telephone, instant messaging, [[e/_etc|etc]]., with an undesirable someone.**
+- **To [[d/_disable|disable]] [[c/_communication|communication]] via telephone, [[i/_instant|instant]] [[m/_messaging|messaging]], [[e/_etc|etc]]., with an undesirable someone.**
 	- _Example: I tried to send you a message, but you've blocked me!_
 - **To wait.**
 	- _Example: When the condition expression is false, the thread blocks on the condition variable._
-- **To stretch or mould (a knitted item, a hat, [[e/_etc|etc]].) into the [[d/_desired|desired]] shape.**
+- **To stretch or [[m/_mould|mould]] (a [[k/_knitted|knitted]] [[i/_item|item]], a [[h/_hat|hat]], [[e/_etc|etc]].) [[i/_into|into]] the [[d/_desired|desired]] shape.**
 	- _Example: I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard._
-- **To shape or sketch out roughly.**
+- **To shape or sketch [[o/_out|out]] roughly.**
 ---
 ---

@@ -4,9 +4,9 @@
 - **To praise, recommend, or promote.**
 ---
 #verb
-- **To inhabit; occupy**
-- **To locate oneself**
-- **To [[b/_build|build]]; [[e/_erect|erect]]; fashion**
-- **To [[d/_dwell|dwell]]; have a [[d/_dwelling|dwelling]]**
+- **To [[i/_inhabit|inhabit]]; [[o/_occupy|occupy]]**
+- **To [[l/_locate|locate]] [[o/_oneself|oneself]]**
+- **To [[b/_build|build]]; [[e/_erect|erect]]; [[f/_fashion|fashion]]**
+- **To [[d/_dwell|dwell]]; [[h/_have|have]] a [[d/_dwelling|dwelling]]**
 ---
 ---

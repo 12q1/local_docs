@@ -1,9 +1,9 @@
 # Ductile
 ---
 #adjective
-- **[[c/_capable|Capable]] of [[b/_being|being]] pulled or stretched into thin wire by mechanical force without [[b/_breaking|breaking]].**
-- **Molded [[e/_easily|easily]] into a new form.**
-- **Led [[e/_easily|easily]]; prone to follow.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] pulled or stretched [[i/_into|into]] thin wire by [[m/_mechanical|mechanical]] [[f/_force|force]] without [[b/_breaking|breaking]].**
+- **[[m/_molded|Molded]] [[e/_easily|easily]] [[i/_into|into]] a [[n/_new|new]] [[f/_form|form]].**
+- **[[l/_led|Led]] [[e/_easily|easily]]; prone to [[f/_follow|follow]].**
 ---
 ### Synonyms
 - [[t/_tractable|tractable]], [[f/_flexible|flexible]], [[p/_plastic|plastic]], [[p/_pliant|pliant]]

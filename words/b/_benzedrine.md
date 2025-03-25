@@ -1,6 +1,6 @@
 # Benzedrine
 ---
 #noun
-- **The racemic mixture of [[a/_amphetamine|amphetamine]] ([[d/_dl|dl]]-[[a/_amphetamine|amphetamine]]).**
+- **The racemic [[m/_mixture|mixture]] of [[a/_amphetamine|amphetamine]] ([[d/_dl|dl]]-[[a/_amphetamine|amphetamine]]).**
 ---
 ---

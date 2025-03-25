@@ -1,7 +1,7 @@
 # Euhedral
 ---
 #adjective
-- **Having sharp, recognisable [[c/_crystal|crystal]] faces.**
+- **[[h/_having|Having]] sharp, recognisable [[c/_crystal|crystal]] [[f/_faces|faces]].**
 ---
 ### Antonyms
 - [[a/_anhedral|anhedral]]

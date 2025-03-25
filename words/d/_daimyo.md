@@ -1,6 +1,6 @@
 # Daimyo
 ---
 #noun
-- **A lord [[d/_during|during]] the Japanese feudal period.**
+- **A [[l/_lord|lord]] [[d/_during|during]] the [[j/_japanese|Japanese]] [[f/_feudal|feudal]] period.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Dromedaries
 ---
 #noun
-- **The single-humped [[c/_camel|camel]] ([[c/_camelus|Camelus]] dromedarius).**
+- **The single-[[h/_humped|humped]] [[c/_camel|camel]] ([[c/_camelus|Camelus]] dromedarius).**
 - **[[a/_any|Any]] swift riding [[c/_camel|camel]].**
 ---
 ### Synonyms

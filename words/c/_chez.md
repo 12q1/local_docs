@@ -1,6 +1,6 @@
 # Chez
 ---
 #preposition
-- **At the home of**
+- **At the [[h/_home|home]] of**
 ---
 ---

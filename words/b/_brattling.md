@@ -1,10 +1,10 @@
 # Brattling
 ---
 #verb
-- **To rattle; to make a scampering noise.**
+- **To rattle; to [[m/_make|make]] a scampering [[n/_noise|noise]].**
 ---
 #noun
-- **A rattling or scampering noise.**
-- **(in the plural, Northamptonshire) Loppings from felled trees.**
+- **A rattling or scampering [[n/_noise|noise]].**
+- **(in the plural, Northamptonshire) Loppings from [[f/_felled|felled]] trees.**
 ---
 ---

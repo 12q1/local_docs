@@ -1,6 +1,6 @@
 # Brises
 ---
 #noun
-- **A tract of land that has [[b/_been|been]] left untilled for a long time.**
+- **A tract of [[l/_land|land]] that [[h/_has|has]] [[b/_been|been]] [[l/_left|left]] untilled for a [[l/_long|long]] time.**
 ---
 ---

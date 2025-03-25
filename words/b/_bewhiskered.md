@@ -1,6 +1,6 @@
 # Bewhiskered
 ---
 #adjective
-- **Having whiskers**
+- **[[h/_having|Having]] whiskers**
 ---
 ---

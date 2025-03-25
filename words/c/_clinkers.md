@@ -1,15 +1,15 @@
 # Clinkers
 ---
 #noun
-- **A very hard [[b/_brick|brick]] used for paving [[c/_customarily|customarily]] made in the Netherlands.**
-- **A mass of [[b/_bricks|bricks]] fused together by intense heat.**
-- **Slag or [[a/_ash|ash]] produced by intense heat in a furnace, kiln or [[b/_boiler|boiler]] that forms a hard residue upon [[c/_cooling|cooling]].**
-- **An intermediate product in the manufacture of Portland [[c/_cement|cement]], obtained by sintering limestone and alumino-silicate materials such as [[c/_clay|clay]] into nodules in a [[c/_cement|cement]] kiln.**
-- **Hardened volcanic lava.**
-- **A scum of oxide of iron formed in forging.**
+- **A very [[h/_hard|hard]] [[b/_brick|brick]] used for paving [[c/_customarily|customarily]] [[m/_made|made]] in the [[n/_netherlands|Netherlands]].**
+- **A [[m/_mass|mass]] of [[b/_bricks|bricks]] [[f/_fused|fused]] together by [[i/_intense|intense]] [[h/_heat|heat]].**
+- **Slag or [[a/_ash|ash]] produced by [[i/_intense|intense]] [[h/_heat|heat]] in a [[f/_furnace|furnace]], [[k/_kiln|kiln]] or [[b/_boiler|boiler]] that [[f/_forms|forms]] a [[h/_hard|hard]] residue upon [[c/_cooling|cooling]].**
+- **An [[i/_intermediate|intermediate]] product in the [[m/_manufacture|manufacture]] of Portland [[c/_cement|cement]], [[o/_obtained|obtained]] by sintering [[l/_limestone|limestone]] and alumino-silicate [[m/_materials|materials]] such as [[c/_clay|clay]] [[i/_into|into]] [[n/_nodules|nodules]] in a [[c/_cement|cement]] [[k/_kiln|kiln]].**
+- **[[h/_hardened|Hardened]] volcanic [[l/_lava|lava]].**
+- **A scum of [[o/_oxide|oxide]] of [[i/_iron|iron]] [[f/_formed|formed]] in [[f/_forging|forging]].**
 ---
 #noun
 - **Someone or something that [[c/_clinks|clinks]].**
-- **(in the plural) Fetters.**
+- **(in the plural) [[f/_fetters|Fetters]].**
 ---
 ---

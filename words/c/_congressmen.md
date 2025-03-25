@@ -1,7 +1,7 @@
 # Congressmen
 ---
 #noun
-- **A male member of [[c/_congress|congress]].**
-- **A male member of the House of Representatives.**
+- **A [[m/_male|male]] [[m/_member|member]] of [[c/_congress|congress]].**
+- **A [[m/_male|male]] [[m/_member|member]] of the [[h/_house|House]] of Representatives.**
 ---
 ---

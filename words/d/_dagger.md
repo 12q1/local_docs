@@ -2,8 +2,8 @@
 ---
 #noun
 - **A stabbing weapon, similar to a sword but with a short, [[d/_double|double]]-[[e/_edged|edged]] [[b/_blade|blade]].**
-- **The text [[c/_character|character]] †; the obelus.**
-- **A point scored near the [[e/_end|end]] of the game ([[c/_clutch|clutch]] time) to take or increase the scorer's team lead, so that they are likely to win**
+- **The text [[c/_character|character]] †; the [[o/_obelus|obelus]].**
+- **A point scored [[n/_near|near]] the [[e/_end|end]] of the [[g/_game|game]] ([[c/_clutch|clutch]] time) to take or [[i/_increase|increase]] the scorer's team [[l/_lead|lead]], so that they are [[l/_likely|likely]] to win**
 	- _Example: Curry's last-minute 3-point dagger silenced the criticism for his so-called failure to come up big in big moments._
 ---
 ### Synonyms

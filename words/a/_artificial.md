@@ -1,9 +1,9 @@
 # Artificial
 ---
 #adjective
-- **Man-made; of [[a/_artifice|artifice]].**
+- **[[m/_man|Man]]-[[m/_made|made]]; of [[a/_artifice|artifice]].**
 	- _Example: The flowers were artificial, and he thought them rather tacky._
-- **False, misleading.**
+- **[[f/_false|False]], [[m/_misleading|misleading]].**
 	- _Example: Her manner was somewhat artificial._
 - **Unnatural.**
 ---

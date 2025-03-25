@@ -1,0 +1,6 @@
+# Goofiest
+---
+#adjective
+- **Silly, quirky**
+---
+---

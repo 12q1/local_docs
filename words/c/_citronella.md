@@ -1,7 +1,7 @@
 # Citronella
 ---
 #noun
-- **A tropical [[a/_asian|Asian]] grass, [[c/_cymbopogon|Cymbopogon]] nardus, that has [[c/_citrus|citrus]]-scented leaves.**
-- **An [[e/_essential|essential]] oil obtained from this plant, often used as an insect repellent.**
+- **A tropical [[a/_asian|Asian]] [[g/_grass|grass]], [[c/_cymbopogon|Cymbopogon]] [[n/_nardus|nardus]], that [[h/_has|has]] [[c/_citrus|citrus]]-scented [[l/_leaves|leaves]].**
+- **An [[e/_essential|essential]] [[o/_oil|oil]] [[o/_obtained|obtained]] from this plant, [[o/_often|often]] used as an [[i/_insect|insect]] repellent.**
 ---
 ---

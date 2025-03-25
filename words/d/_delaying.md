@@ -1,8 +1,8 @@
 # Delaying
 ---
 #verb
-- **To put off until a later time; to [[d/_defer|defer]].**
-- **To retard; to stop, [[d/_detain|detain]], or hinder, for a time.**
+- **To put [[o/_off|off]] until a [[l/_later|later]] time; to [[d/_defer|defer]].**
+- **To retard; to stop, [[d/_detain|detain]], or [[h/_hinder|hinder]], for a time.**
 	- _Example: The mail is delayed by a heavy fall of snow._
 - **To [[a/_allay|allay]]; to temper.**
 ---

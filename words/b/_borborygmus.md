@@ -1,7 +1,7 @@
 # Borborygmus
 ---
 #noun
-- **A rumbling sound made by the movement of gas in the intestines.**
+- **A rumbling sound [[m/_made|made]] by the [[m/_movement|movement]] of [[g/_gas|gas]] in the [[i/_intestines|intestines]].**
 - **Something resembling [[b/_borborygmus|borborygmus]].**
 ---
 ### Synonyms

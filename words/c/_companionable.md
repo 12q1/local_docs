@@ -1,6 +1,6 @@
 # Companionable
 ---
 #adjective
-- **Having the [[c/_characteristics|characteristics]] of a worthy [[c/_companion|companion]]; friendly and sociable.**
+- **[[h/_having|Having]] the [[c/_characteristics|characteristics]] of a worthy [[c/_companion|companion]]; [[f/_friendly|friendly]] and sociable.**
 ---
 ---

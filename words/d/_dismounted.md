@@ -1,17 +1,17 @@
 # Dismounted
 ---
 #verb
-- **To ([[c/_cause|cause]] to) get off (something).**
+- **To ([[c/_cause|cause]] to) [[g/_get|get]] [[o/_off|off]] (something).**
 	- _Example: She carefully dismounted from the horse._
-- **To make (a mounted [[d/_drive|drive]]) unavailable for use.**
+- **To [[m/_make|make]] (a [[m/_mounted|mounted]] [[d/_drive|drive]]) unavailable for use.**
 - **To [[c/_come|come]] [[d/_down|down]]; to [[d/_descend|descend]].**
-- **To throw ([[c/_cannon|cannon]]) off their [[c/_carriages|carriages]].**
+- **To throw ([[c/_cannon|cannon]]) [[o/_off|off]] their [[c/_carriages|carriages]].**
 ---
 ### Synonyms
 - [[u/_umount|umount]], [[u/_unmount|unmount]]
 ### Antonyms
 - [[m/_mount|mount]]
 #adjective
-- **Having gotten off one's horse, or [[b/_been|been]] removed from its usual mounting, as with a statue off its pedestal, a framed picture from a wall, or a [[c/_chandelier|chandelier]] hanging from a [[c/_ceiling|ceiling]].**
+- **[[h/_having|Having]] [[g/_gotten|gotten]] [[o/_off|off]] [[o/_one|one]]'s [[h/_horse|horse]], or [[b/_been|been]] removed from [[i/_its|its]] usual [[m/_mounting|mounting]], as with a statue [[o/_off|off]] [[i/_its|its]] pedestal, a [[f/_framed|framed]] picture from a wall, or a [[c/_chandelier|chandelier]] [[h/_hanging|hanging]] from a [[c/_ceiling|ceiling]].**
 ---
 ---

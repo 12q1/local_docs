@@ -1,10 +1,10 @@
 # Bade
 ---
 #verb
-- **To issue a [[c/_command|command]]; to tell.**
+- **To [[i/_issue|issue]] a [[c/_command|command]]; to tell.**
 	- _Example: He bade me come in._
-- **To invite; to summon.**
+- **To [[i/_invite|invite]]; to summon.**
 	- _Example: She was bidden to the wedding._
-- **To utter a greeting or salutation.**
+- **To utter a [[g/_greeting|greeting]] or salutation.**
 ---
 ---

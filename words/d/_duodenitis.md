@@ -1,6 +1,6 @@
 # Duodenitis
 ---
 #noun
-- **Inflammation of the [[d/_duodenum|duodenum]].**
+- **[[i/_inflammation|Inflammation]] of the [[d/_duodenum|duodenum]].**
 ---
 ---

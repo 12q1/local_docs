@@ -1,6 +1,6 @@
 # Babesiasis
 ---
 #noun
-- **A [[d/_disease|disease]] [[c/_caused|caused]] by infection by protozoa of the genus [[b/_babesia|Babesia]], normally transmitted by ticks**
+- **A [[d/_disease|disease]] [[c/_caused|caused]] by [[i/_infection|infection]] by protozoa of the [[g/_genus|genus]] [[b/_babesia|Babesia]], [[n/_normally|normally]] transmitted by ticks**
 ---
 ---

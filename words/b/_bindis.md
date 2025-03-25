@@ -1,15 +1,15 @@
 # Bindis
 ---
 #noun
-- **The “holy [[d/_dot|dot]]” traditionally worn on the forehead of married Hindu women.**
-- **Makeup or jewellery worn in imitation of such a [[d/_dot|dot]].**
+- **The “[[h/_holy|holy]] [[d/_dot|dot]]” traditionally worn on the [[f/_forehead|forehead]] of [[m/_married|married]] [[h/_hindu|Hindu]] women.**
+- **[[m/_makeup|Makeup]] or [[j/_jewellery|jewellery]] worn in [[i/_imitation|imitation]] of such a [[d/_dot|dot]].**
 ---
 ### Synonyms
 - [[k/_kumkum|kumkum]], [[p/_pottu|pottu]], [[s/_sindoor|sindoor]], [[t/_tika|tika]], [[t/_tilak|tilak]], [[t/_tilakam|tilakam]]
 #noun
-- **The [[c/_common|common]] lawn weed, Soliva sessilis, introduced to [[a/_australia|Australia]] from South [[a/_america|America]].**
-- **A seed of this plant, having small sharp spines which stick painfully into [[b/_bare|bare]] feet.**
-- **[[a/_any|Any]] of a number of plants of the genus Calotis which have small [[b/_burrs|burrs]] with fine [[b/_barbed|barbed]] [[a/_awns|awns]].**
-- **[[a/_any|Any]] of a various plants of the genus Sclerolaena.**
+- **The [[c/_common|common]] [[l/_lawn|lawn]] weed, Soliva sessilis, [[i/_introduced|introduced]] to [[a/_australia|Australia]] from South [[a/_america|America]].**
+- **A seed of this plant, [[h/_having|having]] small sharp spines which stick [[p/_painfully|painfully]] [[i/_into|into]] [[b/_bare|bare]] [[f/_feet|feet]].**
+- **[[a/_any|Any]] of a [[n/_number|number]] of plants of the [[g/_genus|genus]] Calotis which [[h/_have|have]] small [[b/_burrs|burrs]] with [[f/_fine|fine]] [[b/_barbed|barbed]] [[a/_awns|awns]].**
+- **[[a/_any|Any]] of a various plants of the [[g/_genus|genus]] Sclerolaena.**
 ---
 ---

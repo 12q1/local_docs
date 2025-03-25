@@ -1,6 +1,6 @@
 # Etymon
 ---
 #noun
-- **The source word, or words, of a given word or expression.**
+- **The source word, or words, of a [[g/_given|given]] word or [[e/_expression|expression]].**
 ---
 ---

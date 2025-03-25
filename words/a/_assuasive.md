@@ -4,6 +4,6 @@
 - **[[a/_anything|Anything]] that soothes.**
 ---
 #adjective
-- **Mild, soothing.**
+- **[[m/_mild|Mild]], soothing.**
 ---
 ---

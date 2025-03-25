@@ -1,6 +1,6 @@
 # Coiffeuse
 ---
 #noun
-- **A female hairdresser**
+- **A [[f/_female|female]] [[h/_hairdresser|hairdresser]]**
 ---
 ---

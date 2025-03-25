@@ -1,17 +1,17 @@
 # Clucking
 ---
 #verb
-- **To make such a sound.**
-- **To [[c/_cause|cause]] (the tongue) to make a [[c/_clicking|clicking]] sound.**
+- **To [[m/_make|make]] such a sound.**
+- **To [[c/_cause|cause]] (the tongue) to [[m/_make|make]] a [[c/_clicking|clicking]] sound.**
 	- _Example: My mother clucked her tongue in disapproval._
-- **To [[c/_call|call]] together, or [[c/_call|call]] to follow, as a hen [[d/_does|does]] her [[c/_chickens|chickens]].**
-- **To suffer withdrawal from heroin.**
+- **To [[c/_call|call]] together, or [[c/_call|call]] to [[f/_follow|follow]], as a [[h/_hen|hen]] [[d/_does|does]] [[h/_her|her]] [[c/_chickens|chickens]].**
+- **To suffer withdrawal from [[h/_heroin|heroin]].**
 ---
 #noun
 - **The [[a/_action|action]] of the verb [[c/_cluck|cluck]]; a [[c/_cluck|cluck]] sound.**
 ---
 #adjective
-- **Fucking (as intensifier)**
+- **[[f/_fucking|Fucking]] (as [[i/_intensifier|intensifier]])**
 	- _Example: That clucking bastard!_
 ---
 ---

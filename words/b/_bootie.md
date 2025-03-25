@@ -1,10 +1,10 @@
 # Bootie
 ---
 #noun
-- **A soft, woolen shoe, usually knitted, for a [[b/_baby|baby]] or small pet.**
+- **A soft, woolen shoe, usually [[k/_knitted|knitted]], for a [[b/_baby|baby]] or small pet.**
 	- _Example: Take off the baby's bootees before you put her in the crib._
 - **A thick sock worn under a wetsuit.**
-- **An overshoe or sock worn to [[c/_cover|cover]] [[d/_dirty|dirty]] shoes or feet.**
+- **An [[o/_overshoe|overshoe]] or sock worn to [[c/_cover|cover]] [[d/_dirty|dirty]] shoes or [[f/_feet|feet]].**
 	- _Example: Surgeons often slip on bootees before entering the operating room._
 ---
 ---

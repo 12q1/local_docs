@@ -5,7 +5,7 @@
 	- _Example: Drat you and your evil schemes!_
 ---
 #adjective
-- **Expressing [[a/_annoyance|annoyance]] or irritation towards the mentioned thing.**
+- **[[e/_expressing|Expressing]] [[a/_annoyance|annoyance]] or [[i/_irritation|irritation]] towards the [[m/_mentioned|mentioned]] thing.**
 	- _Example: That dratted cat's been in the vegetable patch again._
 ---
 ---

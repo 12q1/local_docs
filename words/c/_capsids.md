@@ -1,6 +1,6 @@
 # Capsids
 ---
 #noun
-- **The outer protein shell of a virus**
+- **The [[o/_outer|outer]] protein shell of a virus**
 ---
 ---

@@ -1,10 +1,10 @@
 # Annoyed
 ---
 #verb
-- **To [[d/_disturb|disturb]] or irritate, [[e/_especially|especially]] by [[c/_continued|continued]] or repeated [[a/_acts|acts]]; to [[b/_bother|bother]] with unpleasant [[d/_deeds|deeds]].**
+- **To [[d/_disturb|disturb]] or [[i/_irritate|irritate]], [[e/_especially|especially]] by [[c/_continued|continued]] or repeated [[a/_acts|acts]]; to [[b/_bother|bother]] with unpleasant [[d/_deeds|deeds]].**
 	- _Example: Marc loved his sister, but when she annoyed him he wanted to switch her off._
 - **To [[d/_do|do]] something to upset or [[a/_anger|anger]] someone; to be troublesome.**
-- **To molest; to harm; to injure.**
+- **To [[m/_molest|molest]]; to [[h/_harm|harm]]; to [[i/_injure|injure]].**
 	- _Example: to annoy an army by impeding its march, or by a cannonade_
 ---
 ### Synonyms
@@ -12,6 +12,6 @@
 ### Antonyms
 - [[p/_please|please]]
 #adjective
-- **Troubled, irritated by something unwanted or unliked (an [[a/_annoyance|annoyance]]); vexed.**
+- **Troubled, [[i/_irritated|irritated]] by something unwanted or unliked (an [[a/_annoyance|annoyance]]); vexed.**
 ---
 ---

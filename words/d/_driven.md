@@ -1,49 +1,49 @@
 # Driven
 ---
 #verb
-- **To provide an impetus for motion or other physical [[c/_change|change]], to move an object by means of the provision of force thereto.**
+- **To provide an [[i/_impetus|impetus]] for [[m/_motion|motion]] or [[o/_other|other]] physical [[c/_change|change]], to [[m/_move|move]] an [[o/_object|object]] by [[m/_means|means]] of the provision of [[f/_force|force]] thereto.**
 	- _Example: You drive nails into wood with a hammer._
-- **To provide an impetus for a non-physical [[c/_change|change]], [[e/_especially|especially]] a [[c/_change|change]] in one's state of mind.**
+- **To provide an [[i/_impetus|impetus]] for a [[n/_non|non]]-physical [[c/_change|change]], [[e/_especially|especially]] a [[c/_change|change]] in [[o/_one|one]]'s state of [[m/_mind|mind]].**
 	- _Example: My wife's constant harping about the condition of the house threatens to drive me to distraction._
-- **To [[d/_displace|displace]] [[e/_either|either]] physically or non-physically, through the [[a/_application|application]] of force.**
-- **To [[c/_cause|cause]] intrinsic motivation through the [[a/_application|application]] or [[d/_demonstration|demonstration]] of force: to impel or urge onward thusly, to [[c/_compel|compel]] to move on, to [[c/_coerce|coerce]], intimidate or threaten.**
-- **([[e/_especially|especially]] of [[a/_animals|animals]]) To impel or urge onward by force; to push forward; to [[c/_compel|compel]] to move on.**
+- **To [[d/_displace|displace]] [[e/_either|either]] physically or [[n/_non|non]]-physically, through the [[a/_application|application]] of [[f/_force|force]].**
+- **To [[c/_cause|cause]] [[i/_intrinsic|intrinsic]] [[m/_motivation|motivation]] through the [[a/_application|application]] or [[d/_demonstration|demonstration]] of [[f/_force|force]]: to [[i/_impel|impel]] or urge [[o/_onward|onward]] thusly, to [[c/_compel|compel]] to [[m/_move|move]] on, to [[c/_coerce|coerce]], [[i/_intimidate|intimidate]] or threaten.**
+- **([[e/_especially|especially]] of [[a/_animals|animals]]) To [[i/_impel|impel]] or urge [[o/_onward|onward]] by [[f/_force|force]]; to push [[f/_forward|forward]]; to [[c/_compel|compel]] to [[m/_move|move]] on.**
 	- _Example: to drive twenty thousand head of cattle from Texas to the Kansas railheads; to drive sheep out of a field_
-- **To [[d/_direct|direct]] a vehicle powered by a horse, ox or similar [[a/_animal|animal]].**
-- **To [[c/_cause|cause]] [[a/_animals|animals]] to flee out of.**
+- **To [[d/_direct|direct]] a vehicle powered by a [[h/_horse|horse]], [[o/_ox|ox]] or similar [[a/_animal|animal]].**
+- **To [[c/_cause|cause]] [[a/_animals|animals]] to [[f/_flee|flee]] [[o/_out|out]] of.**
 	- _Example: The beaters drove the brambles, causing a great rush of rabbits and other creatures._
-- **To move (something) by hitting it with great force.**
+- **To [[m/_move|move]] (something) by [[h/_hitting|hitting]] it with [[g/_great|great]] [[f/_force|force]].**
 	- _Example: You drive nails into wood with a hammer._
-- **To [[c/_cause|cause]] (a mechanism) to operate.**
+- **To [[c/_cause|cause]] (a [[m/_mechanism|mechanism]]) to [[o/_operate|operate]].**
 	- _Example: The pistons drive the crankshaft._
-- **To operate (a wheeled motorized vehicle).**
+- **To [[o/_operate|operate]] (a wheeled [[m/_motorized|motorized]] vehicle).**
 	- _Example: drive a car_
-- **To motivate; to provide an incentive for.**
+- **To [[m/_motivate|motivate]]; to provide an [[i/_incentive|incentive]] for.**
 	- _Example: What drives a person to run a marathon?_
 - **To [[c/_compel|compel]] (to [[d/_do|do]] something).**
 	- _Example: Their debts finally drove them to sell the business._
 - **To [[c/_cause|cause]] to [[b/_become|become]].**
 	- _Example: This constant complaining is going to drive me to insanity.   You are driving me crazy!_
-- **To hit the [[b/_ball|ball]] with a [[d/_drive|drive]].**
-- **To travel by operating a wheeled motorized vehicle.**
+- **To [[h/_hit|hit]] the [[b/_ball|ball]] with a [[d/_drive|drive]].**
+- **To travel by [[o/_operating|operating]] a wheeled [[m/_motorized|motorized]] vehicle.**
 	- _Example: I drive to work every day._
-- **To [[c/_convey|convey]] (a person, [[e/_etc|etc]]) in a wheeled motorized vehicle.**
+- **To [[c/_convey|convey]] (a person, [[e/_etc|etc]]) in a wheeled [[m/_motorized|motorized]] vehicle.**
 	- _Example: My wife drove me to the airport._
-- **To move forcefully.**
-- **To be moved or propelled forcefully ([[e/_especially|especially]] of a ship).**
+- **To [[m/_move|move]] [[f/_forcefully|forcefully]].**
+- **To be [[m/_moved|moved]] or propelled [[f/_forcefully|forcefully]] ([[e/_especially|especially]] of a ship).**
 - **To urge, press, or [[b/_bring|bring]] to a point or state.**
-- **To [[c/_carry|carry]] or to keep in motion; to [[c/_conduct|conduct]]; to prosecute.**
-- **To [[c/_clear|clear]], by forcing [[a/_away|away]] what is [[c/_contained|contained]].**
-- **To [[d/_dig|dig]] horizontally; to [[c/_cut|cut]] a horizontal gallery or tunnel.**
-- **To put together a [[d/_drive|drive]] (n.): to string together offensive plays and [[a/_advance|advance]] the [[b/_ball|ball]] [[d/_down|down]] the field.**
+- **To [[c/_carry|carry]] or to [[k/_keep|keep]] in [[m/_motion|motion]]; to [[c/_conduct|conduct]]; to prosecute.**
+- **To [[c/_clear|clear]], by [[f/_forcing|forcing]] [[a/_away|away]] what is [[c/_contained|contained]].**
+- **To [[d/_dig|dig]] [[h/_horizontally|horizontally]]; to [[c/_cut|cut]] a [[h/_horizontal|horizontal]] [[g/_gallery|gallery]] or tunnel.**
+- **To put together a [[d/_drive|drive]] ([[n/_n|n]].): to string together [[o/_offensive|offensive]] plays and [[a/_advance|advance]] the [[b/_ball|ball]] [[d/_down|down]] the [[f/_field|field]].**
 - **To [[d/_distrain|distrain]] for rent.**
-- **To separate the lighter (feathers or [[d/_down|down]]) from the heavier, by exposing them to a [[c/_current|current]] of [[a/_air|air]].**
+- **To separate the [[l/_lighter|lighter]] ([[f/_feathers|feathers]] or [[d/_down|down]]) from the [[h/_heavier|heavier]], by [[e/_exposing|exposing]] them to a [[c/_current|current]] of [[a/_air|air]].**
 - **To be the [[d/_dominant|dominant]] party in a sex [[a/_act|act]].**
 ---
 ### Synonyms
 - [[m/_move|move]], [[o/_operate|operate]], [[m/_make|make]], [[r/_render|render]], [[s/_send|send]], [[c/_compel|compel]], [[f/_force|force]], [[o/_oblige|oblige]], [[p/_push|push]], [[r/_require|require]], [[t/_take|take]], [[h/_herd|herd]], [[i/_impel|impel]], [[i/_incentivise|incentivise]], [[i/_incentivize|incentivize]], [[m/_motivate|motivate]], [[p/_push|push]], [[u/_urge|urge]], [[f/_force|force]], [[p/_push|push]], [[m/_motorvate|motorvate]]
 #adjective
-- **Obsessed; passionately motivated to [[a/_achieve|achieve]] goals.**
-- **(of snow) Formed into snowdrifts by wind.**
+- **[[o/_obsessed|Obsessed]]; passionately [[m/_motivated|motivated]] to [[a/_achieve|achieve]] [[g/_goals|goals]].**
+- **(of snow) [[f/_formed|Formed]] [[i/_into|into]] snowdrifts by wind.**
 ---
 ---

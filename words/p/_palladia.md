@@ -1,0 +1,6 @@
+# Palladia
+---
+#noun
+- **A safeguard.**
+---
+---

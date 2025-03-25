@@ -1,0 +1,8 @@
+# Glaciation
+---
+#noun
+- **The process of [[c/_covering|covering]] with a [[g/_glacier|glacier]], or the state of [[b/_being|being]] [[g/_glaciated|glaciated]]; the production of [[g/_glacial|glacial]] phenomena; an [[i/_ice|ice]] [[a/_age|age]]**
+- **A particular [[i/_instance|instance]] of [[g/_glacier|glacier]] [[f/_formation|formation]].**
+- **The [[a/_act|act]] of [[f/_freezing|freezing]].**
+---
+---

@@ -1,11 +1,11 @@
 # Blackguard
 ---
 #noun
-- **(old-fashioned, usually used only of men) A scoundrel; an unprincipled [[c/_contemptible|contemptible]] person; an untrustworthy person.**
-- **A man who uses foul language in front of a woman, typically a woman of high standing in society.**
+- **([[o/_old|old]]-[[f/_fashioned|fashioned]], usually used [[o/_only|only]] of [[m/_men|men]]) A scoundrel; an unprincipled [[c/_contemptible|contemptible]] person; an untrustworthy person.**
+- **A [[m/_man|man]] who uses [[f/_foul|foul]] [[l/_language|language]] in [[f/_front|front]] of a woman, typically a woman of [[h/_high|high]] standing in society.**
 ---
 #verb
-- **To revile or [[a/_abuse|abuse]] in scurrilous language.**
-- **To [[a/_act|act]] like a [[b/_blackguard|blackguard]]; to be a scoundrel.**
+- **To revile or [[a/_abuse|abuse]] in scurrilous [[l/_language|language]].**
+- **To [[a/_act|act]] [[l/_like|like]] a [[b/_blackguard|blackguard]]; to be a scoundrel.**
 ---
 ---

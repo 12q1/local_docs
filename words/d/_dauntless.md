@@ -1,7 +1,7 @@
 # Dauntless
 ---
 #adjective
-- **Invulnerable to fear or intimidation.**
+- **[[i/_invulnerable|Invulnerable]] to [[f/_fear|fear]] or [[i/_intimidation|intimidation]].**
 ---
 ### Synonyms
 - [[d/_daredevil|daredevil]]

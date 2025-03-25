@@ -1,6 +1,6 @@
 # El
 ---
 #noun
-- **The name of the Latin-script letter L.**
+- **The [[n/_name|name]] of the [[l/_latin|Latin]]-script [[l/_letter|letter]] [[l/_l|L]].**
 ---
 ---

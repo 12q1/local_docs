@@ -2,6 +2,6 @@
 ---
 #adverb
 - **In an [[a/_alternative|alternative]] way**
-- **Used to link a pair of possibilities**
+- **Used to [[l/_link|link]] a [[p/_pair|pair]] of possibilities**
 ---
 ---

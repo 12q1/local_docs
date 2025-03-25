@@ -1,8 +1,8 @@
 # Cassava
 ---
 #noun
-- **Manioc (Manihot esculenta), a tropical plant which is the source of tapioca.**
-- **Tapioca, a starchy pulp made with manioc roots.**
+- **[[m/_manioc|Manioc]] ([[m/_manihot|Manihot]] esculenta), a tropical plant which is the source of tapioca.**
+- **Tapioca, a starchy pulp [[m/_made|made]] with [[m/_manioc|manioc]] roots.**
 ---
 ### Synonyms
 - [[y/_yuca|yuca]]

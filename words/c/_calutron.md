@@ -1,6 +1,6 @@
 # Calutron
 ---
 #noun
-- **A form of mass spectrometer used to separate the isotopes of uranium.**
+- **A [[f/_form|form]] of [[m/_mass|mass]] spectrometer used to separate the [[i/_isotopes|isotopes]] of uranium.**
 ---
 ---

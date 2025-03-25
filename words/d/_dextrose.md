@@ -1,7 +1,7 @@
 # Dextrose
 ---
 #noun
-- **The naturally-occurring [[d/_dextrorotatory|dextrorotatory]] form of glucose monosaccharide molecule.**
+- **The [[n/_naturally|naturally]]-[[o/_occurring|occurring]] [[d/_dextrorotatory|dextrorotatory]] [[f/_form|form]] of [[g/_glucose|glucose]] [[m/_monosaccharide|monosaccharide]] [[m/_molecule|molecule]].**
 ---
 ### Synonyms
 - [[D/_D-Glucose|D-Glucose]], [[D/_D-glucose|D-glucose]], [[d/_dextroglucose|dextroglucose]]

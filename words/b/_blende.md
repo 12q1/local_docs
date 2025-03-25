@@ -1,6 +1,6 @@
 # Blende
 ---
 #noun
-- **Sphalerite (a naturally-occurring sulfide of zinc)**
+- **Sphalerite (a [[n/_naturally|naturally]]-[[o/_occurring|occurring]] sulfide of zinc)**
 ---
 ---

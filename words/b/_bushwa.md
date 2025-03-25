@@ -1,6 +1,6 @@
 # Bushwa
 ---
 #noun
-- **Nonsense.**
+- **[[n/_nonsense|Nonsense]].**
 ---
 ---

@@ -1,16 +1,16 @@
 # Authoritarian
 ---
 #noun
-- **One who [[c/_commands|commands]] [[a/_absolute|absolute]] obedience to his or her [[a/_authority|authority]].**
+- **[[o/_one|One]] who [[c/_commands|commands]] [[a/_absolute|absolute]] [[o/_obedience|obedience]] to [[h/_his|his]] or [[h/_her|her]] [[a/_authority|authority]].**
 	- _Example: The dictator was an authoritarian._
-- **One who follows and is excessively obedient to [[a/_authority|authority]].**
+- **[[o/_one|One]] who [[f/_follows|follows]] and is [[e/_excessively|excessively]] [[o/_obedient|obedient]] to [[a/_authority|authority]].**
 	- _Example: 2006, Robert Altemeyer, The Authoritarians_
 ---
 #adjective
-- **Of, or relating to, or exhibiting strict obedience to an [[a/_authority|authority]]; favoring [[a/_authoritarianism|authoritarianism]] over [[c/_civic|civic]] and individual liberties.**
-- **[[d/_demanding|Demanding]] obedience to [[a/_authority|authority]]; marked by [[a/_authoritarianism|authoritarianism]]; [[d/_dictatorial|dictatorial]], tyrannical.**
+- **Of, or relating to, or [[e/_exhibiting|exhibiting]] strict [[o/_obedience|obedience]] to an [[a/_authority|authority]]; [[f/_favoring|favoring]] [[a/_authoritarianism|authoritarianism]] [[o/_over|over]] [[c/_civic|civic]] and [[i/_individual|individual]] [[l/_liberties|liberties]].**
+- **[[d/_demanding|Demanding]] [[o/_obedience|obedience]] to [[a/_authority|authority]]; [[m/_marked|marked]] by [[a/_authoritarianism|authoritarianism]]; [[d/_dictatorial|dictatorial]], tyrannical.**
 	- _Example: The authoritarian government was demanding stricter laws for low-wage peasants._
-- **Tending to impose one's [[d/_demands|demands]] upon others as if one were an [[a/_authority|authority]].**
+- **Tending to [[i/_impose|impose]] [[o/_one|one]]'s [[d/_demands|demands]] upon [[o/_others|others]] as [[i/_if|if]] [[o/_one|one]] were an [[a/_authority|authority]].**
 ---
 ### Synonyms
 - [[i/_illiberal|illiberal]], [[o/_oppressive|oppressive]], [[a/_arrogant|arrogant]], [[c/_commanding|commanding]], [[h/_haughty|haughty]], [[i/_imperious|imperious]]

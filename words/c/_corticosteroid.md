@@ -1,7 +1,7 @@
 # Corticosteroid
 ---
 #noun
-- **[[a/_any|Any]] of a group of steroid hormones, secreted by the [[a/_adrenal|adrenal]] [[c/_cortex|cortex]], that are involved in a large range of physiological systems.**
-- **[[a/_any|Any]] of several synthetic hormones of related structure.**
+- **[[a/_any|Any]] of a [[g/_group|group]] of steroid [[h/_hormones|hormones]], secreted by the [[a/_adrenal|adrenal]] [[c/_cortex|cortex]], that are [[i/_involved|involved]] in a [[l/_large|large]] range of physiological systems.**
+- **[[a/_any|Any]] of several synthetic [[h/_hormones|hormones]] of related structure.**
 ---
 ---

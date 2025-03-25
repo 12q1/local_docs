@@ -1,7 +1,7 @@
 # Diplotene
 ---
 #noun
-- **The fourth stage of prophase of meiosis, [[d/_during|during]] which homologous [[c/_chromosome|chromosome]] pairs [[b/_begin|begin]] to separate and [[c/_chiasmata|chiasmata]] [[b/_become|become]] visible**
+- **The [[f/_fourth|fourth]] stage of prophase of [[m/_meiosis|meiosis]], [[d/_during|during]] which [[h/_homologous|homologous]] [[c/_chromosome|chromosome]] [[p/_pairs|pairs]] [[b/_begin|begin]] to separate and [[c/_chiasmata|chiasmata]] [[b/_become|become]] visible**
 ---
 ### Synonyms
 - [[d/_diplonema|diplonema]]

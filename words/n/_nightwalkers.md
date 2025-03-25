@@ -1,0 +1,6 @@
+# Nightwalkers
+---
+#noun
+- **A vampire.**
+---
+---

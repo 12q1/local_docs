@@ -1,6 +1,6 @@
 # Eident
 ---
 #adjective
-- **[[b/_busy|Busy]], industrious, [[d/_diligent|diligent]].**
+- **[[b/_busy|Busy]], [[i/_industrious|industrious]], [[d/_diligent|diligent]].**
 ---
 ---

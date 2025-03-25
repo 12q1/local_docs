@@ -1,20 +1,20 @@
 # Chopped
 ---
 #verb
-- **To [[c/_cut|cut]] into pieces with short, vigorous [[c/_cutting|cutting]] motions.**
+- **To [[c/_cut|cut]] [[i/_into|into]] pieces with short, vigorous [[c/_cutting|cutting]] [[m/_motions|motions]].**
 	- _Example: chop wood; chop an onion_
-- **To sever with an [[a/_axe|axe]] or similar implement.**
+- **To sever with an [[a/_axe|axe]] or similar [[i/_implement|implement]].**
 	- _Example: Chop off his head._
-- **To give a [[d/_downward|downward]] [[c/_cutting|cutting]] [[b/_blow|blow]] or movement, typically with the side of the hand.**
-- **To hit the [[b/_ball|ball]] [[d/_downward|downward]] so that it takes a high [[b/_bounce|bounce]].**
-- **To [[d/_divide|divide]] the pot (or tournament prize) [[b/_between|between]] two or more players.**
-- **To make a quick, heavy stroke or a series of strokes, with or as with an [[a/_ax|ax]].**
-- **To [[d/_do|do]] something suddenly with an unexpected motion; to [[c/_catch|catch]] or [[a/_attempt|attempt]] to seize.**
-- **To interrupt; with in or out.**
-- **(Perl) To remove the final [[c/_character|character]] from (a text string).**
+- **To [[g/_give|give]] a [[d/_downward|downward]] [[c/_cutting|cutting]] [[b/_blow|blow]] or [[m/_movement|movement]], typically with the side of the [[h/_hand|hand]].**
+- **To [[h/_hit|hit]] the [[b/_ball|ball]] [[d/_downward|downward]] so that it takes a [[h/_high|high]] [[b/_bounce|bounce]].**
+- **To [[d/_divide|divide]] the pot (or tournament prize) [[b/_between|between]] two or [[m/_more|more]] players.**
+- **To [[m/_make|make]] a quick, [[h/_heavy|heavy]] stroke or a series of strokes, with or as with an [[a/_ax|ax]].**
+- **To [[d/_do|do]] something suddenly with an unexpected [[m/_motion|motion]]; to [[c/_catch|catch]] or [[a/_attempt|attempt]] to seize.**
+- **To [[i/_interrupt|interrupt]]; with in or [[o/_out|out]].**
+- **(Perl) To remove the [[f/_final|final]] [[c/_character|character]] from (a text string).**
 ---
 #verb
-- **To exchange, to [[b/_barter|barter]]; to swap.**
+- **To [[e/_exchange|exchange]], to [[b/_barter|barter]]; to swap.**
 - **To [[c/_chap|chap]] or [[c/_crack|crack]].**
 - **To vary or shift suddenly.**
 	- _Example: The wind chops about._
@@ -22,10 +22,10 @@
 - **To [[c/_converse|converse]], [[d/_discuss|discuss]], or speak with [[a/_another|another]].**
 ---
 #adjective
-- **[[c/_cut|Cut]] or [[d/_diced|diced]] into small pieces.**
-- **([[c/_chiefly|chiefly]] of meat) Ground, having [[b/_been|been]] processed by grinding.**
-- **Having a vehicle's height reduced by horizontal trimming of the roofline.**
-- **High on [[d/_drugs|drugs]].**
-- **Fired from a job or [[c/_cut|cut]] from a team or training program; having got the [[c/_chop|chop]].**
+- **[[c/_cut|Cut]] or [[d/_diced|diced]] [[i/_into|into]] small pieces.**
+- **([[c/_chiefly|chiefly]] of [[m/_meat|meat]]) [[g/_ground|Ground]], [[h/_having|having]] [[b/_been|been]] processed by [[g/_grinding|grinding]].**
+- **[[h/_having|Having]] a vehicle's [[h/_height|height]] reduced by [[h/_horizontal|horizontal]] trimming of the roofline.**
+- **[[h/_high|High]] on [[d/_drugs|drugs]].**
+- **[[f/_fired|Fired]] from a [[j/_job|job]] or [[c/_cut|cut]] from a team or training program; [[h/_having|having]] [[g/_got|got]] the [[c/_chop|chop]].**
 ---
 ---

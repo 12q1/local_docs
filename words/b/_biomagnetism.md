@@ -1,6 +1,6 @@
 # Biomagnetism
 ---
 #noun
-- **The production or [[d/_detection|detection]] of a magnetic field by a living organism.**
+- **The production or [[d/_detection|detection]] of a [[m/_magnetic|magnetic]] [[f/_field|field]] by a [[l/_living|living]] [[o/_organism|organism]].**
 ---
 ---

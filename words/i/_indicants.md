@@ -1,0 +1,7 @@
+# Indicants
+---
+#noun
+- **That which [[i/_indicates|indicates]] or points [[o/_out|out]].**
+	- _Example: an indicant of the remedy for a disease_
+---
+---

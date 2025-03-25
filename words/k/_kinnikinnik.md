@@ -1,0 +1,8 @@
+# Kinnikinnik
+---
+#noun
+- **A [[m/_mixture|mixture]] of [[b/_bark|bark]], [[d/_dried|dried]] [[l/_leaves|leaves]] and [[o/_often|often]] [[b/_berries|berries]] and/or tobacco, which is smoked.**
+- **[[a/_any|Any]] of the plants whose [[b/_berries|berries]], [[l/_leaves|leaves]] or [[b/_bark|bark]] used in this [[m/_mixture|mixture]].**
+	- _Example: He ate kinnikinnick berries._
+---
+---

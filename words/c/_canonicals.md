@@ -1,7 +1,7 @@
 # Canonicals
 ---
 #noun
-- **The formal robes of a priest.**
-- **A URL presented in [[c/_canonical|canonical]] form.**
+- **The [[f/_formal|formal]] robes of a priest.**
+- **A URL presented in [[c/_canonical|canonical]] [[f/_form|form]].**
 ---
 ---

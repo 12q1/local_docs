@@ -1,6 +1,6 @@
 # Amniocentesis
 ---
 #noun
-- **A procedure for obtaining [[a/_amniotic|amniotic]] fluid from a pregnant [[a/_animal|animal]], by inserting a hollow needle through the [[a/_abdominal|abdominal]] wall and into the [[a/_amniotic|amniotic]] sac. Used in [[d/_diagnosing|diagnosing]] possible genetic [[d/_defects|defects]] and/or obstetric [[c/_complications|complications]].**
+- **A procedure for [[o/_obtaining|obtaining]] [[a/_amniotic|amniotic]] [[f/_fluid|fluid]] from a pregnant [[a/_animal|animal]], by [[i/_inserting|inserting]] a [[h/_hollow|hollow]] [[n/_needle|needle]] through the [[a/_abdominal|abdominal]] wall and [[i/_into|into]] the [[a/_amniotic|amniotic]] sac. Used in [[d/_diagnosing|diagnosing]] possible [[g/_genetic|genetic]] [[d/_defects|defects]] and/or [[o/_obstetric|obstetric]] [[c/_complications|complications]].**
 ---
 ---

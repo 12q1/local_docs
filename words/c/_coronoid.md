@@ -1,10 +1,10 @@
 # Coronoid
 ---
 #noun
-- **A slender [[b/_bone|bone]] that forms part of the lower jaw of primitive vertebrates.**
-- **[[a/_any|Any]] polycyclic [[a/_aromatic|aromatic]] hydrocarbon [[d/_derived|derived]] from [[c/_coronene|coronene]].**
+- **A slender [[b/_bone|bone]] that [[f/_forms|forms]] part of the [[l/_lower|lower]] [[j/_jaw|jaw]] of primitive vertebrates.**
+- **[[a/_any|Any]] polycyclic [[a/_aromatic|aromatic]] [[h/_hydrocarbon|hydrocarbon]] [[d/_derived|derived]] from [[c/_coronene|coronene]].**
 ---
 #adjective
-- **Shaped like the [[b/_beak|beak]] of a [[c/_crow|crow]].**
+- **Shaped [[l/_like|like]] the [[b/_beak|beak]] of a [[c/_crow|crow]].**
 ---
 ---

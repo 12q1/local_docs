@@ -1,0 +1,6 @@
+# Nonparticipating
+---
+#adjective
+- **Not participating**
+---
+---

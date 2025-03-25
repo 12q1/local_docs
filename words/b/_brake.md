@@ -1,6 +1,6 @@
 # Brake
 ---
 #noun
-- **A fern; [[b/_bracken|bracken]].**
+- **A [[f/_fern|fern]]; [[b/_bracken|bracken]].**
 ---
 ---

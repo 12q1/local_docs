@@ -1,10 +1,10 @@
 # Crabwise
 ---
 #adjective
-- **In the manner of a [[c/_crab|crab]]; sideways.**
-- **Incidental.**
+- **In the [[m/_manner|manner]] of a [[c/_crab|crab]]; sideways.**
+- **[[i/_incidental|Incidental]].**
 ---
 #adverb
-- **In the manner of a [[c/_crab|crab]]; sideways.**
+- **In the [[m/_manner|manner]] of a [[c/_crab|crab]]; sideways.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Aptest
 ---
 #adjective
-- **Suitable; [[a/_appropriate|appropriate]]; fit or fitted; suited.**
+- **Suitable; [[a/_appropriate|appropriate]]; [[f/_fit|fit]] or [[f/_fitted|fitted]]; suited.**
 	- _Example: an apt metaphor_
-- **(of persons or things) Having a habitual tendency; habitually liable or likely; [[d/_disposed|disposed]] towards.**
-- **Ready; [[e/_especially|especially]] fitted or qualified (to [[d/_do|do]] something); quick to learn.**
+- **(of persons or things) [[h/_having|Having]] a [[h/_habitual|habitual]] tendency; [[h/_habitually|habitually]] [[l/_liable|liable]] or [[l/_likely|likely]]; [[d/_disposed|disposed]] towards.**
+- **Ready; [[e/_especially|especially]] [[f/_fitted|fitted]] or qualified (to [[d/_do|do]] something); quick to [[l/_learn|learn]].**
 	- _Example: a pupil apt to learn_
 ---
 ### Synonyms

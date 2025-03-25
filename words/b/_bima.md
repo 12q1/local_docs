@@ -1,6 +1,6 @@
 # Bima
 ---
 #noun
-- **The raised platform in the front of a synagogue where the Torah is read on a podium.**
+- **The raised platform in the [[f/_front|front]] of a synagogue where the Torah is read on a podium.**
 ---
 ---

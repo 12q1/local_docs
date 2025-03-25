@@ -1,6 +1,6 @@
 # Estivating
 ---
 #verb
-- **To go into stasis or torpor in the summer months.**
+- **To [[g/_go|go]] [[i/_into|into]] stasis or torpor in the summer [[m/_months|months]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bierkeller
 ---
 #noun
-- **An underground pub where German [[b/_beer|beer]] is served.**
+- **An underground pub where [[g/_german|German]] [[b/_beer|beer]] is served.**
 ---
 ---

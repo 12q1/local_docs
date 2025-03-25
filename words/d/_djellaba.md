@@ -1,6 +1,6 @@
 # Djellaba
 ---
 #noun
-- **A loose-fitting, [[a/_ankle|ankle]]-length hooded robe worn by men in North [[a/_africa|Africa]].**
+- **A [[l/_loose|loose]]-[[f/_fitting|fitting]], [[a/_ankle|ankle]]-[[l/_length|length]] [[h/_hooded|hooded]] robe worn by [[m/_men|men]] in [[n/_north|North]] [[a/_africa|Africa]].**
 ---
 ---

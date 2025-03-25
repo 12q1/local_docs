@@ -1,7 +1,7 @@
 # Brushwork
 ---
 #noun
-- **The technique or practice of [[a/_applying|applying]] and manipulating paint (usually oil or gouache) in a painting.**
+- **The technique or practice of [[a/_applying|applying]] and [[m/_manipulating|manipulating]] [[p/_paint|paint]] (usually [[o/_oil|oil]] or [[g/_gouache|gouache]]) in a [[p/_painting|painting]].**
 	- _Example: The fake was easy to spot because of its inferior brushwork._
 ---
 ---

@@ -1,0 +1,35 @@
+# Heat
+---
+#noun
+- **Thermal [[e/_energy|energy]].**
+	- _Example: This furnace puts out 5000 BTUs of heat.   That engine is really throwing off some heat.   Removal of heat from the liquid caused it to turn into a solid._
+- **The [[c/_condition|condition]] or quality of [[b/_being|being]] [[h/_hot|hot]].**
+	- _Example: Stay out of the heat of the sun!_
+- **An [[a/_attribute|attribute]] of a spice that [[c/_causes|causes]] a [[b/_burning|burning]] sensation in the [[m/_mouth|mouth]].**
+	- _Example: The chili sauce gave the dish heat._
+- **A period of [[i/_intensity|intensity]], particularly of [[e/_emotion|emotion]].**
+	- _Example: It's easy to make bad decisions in the heat of the moment._
+- **An undesirable [[a/_amount|amount]] of [[a/_attention|attention]].**
+	- _Example: The heat from her family after her DUI arrest was unbearable._
+- **The police.**
+	- _Example: The heat! Scram!_
+- **[[o/_one|One]] or [[m/_more|more]] [[f/_firearms|firearms]].**
+- **A [[f/_fastball|fastball]].**
+	- _Example: The catcher called for the heat, high and tight._
+- **A [[c/_condition|condition]] where a [[m/_mammal|mammal]] is [[a/_aroused|aroused]] sexually or where it is [[e/_especially|especially]] [[f/_fertile|fertile]] and therefore [[e/_eager|eager]] to [[m/_mate|mate]].**
+	- _Example: The male canines were attracted by the female in heat._
+- **A preliminary race, used to [[d/_determine|determine]] the participants in a [[f/_final|final]] race**
+	- _Example: The runner had high hopes, but was out of contention after the first heat._
+- **[[o/_one|One]] [[c/_cycle|cycle]] of [[b/_bringing|bringing]] [[m/_metal|metal]] to [[m/_maximum|maximum]] temperature and working it until it is too [[c/_cool|cool]] to work [[f/_further|further]].**
+	- _Example: I can make a scroll like that in a single heat._
+- **A [[h/_hot|hot]] spell.**
+	- _Example: The children stayed indoors during this year's summer heat._
+- **[[h/_heating|Heating]] system; a system that raises the temperature of a room or [[b/_building|building]].**
+	- _Example: I'm freezing; could you turn on the heat?_
+- **The [[o/_output|output]] of a [[h/_heating|heating]] system.**
+	- _Example: During the power outage we had no heat because the controls are electric.   Older folks like more heat than the young._
+- **In omegaverse [[f/_fiction|fiction]], a [[c/_cyclical|cyclical]] period in which [[a/_alphas|alphas]] and [[o/_omegas|omegas]] [[e/_experience|experience]] an [[i/_intense|intense]], sometimes [[i/_irresistible|irresistible]] [[b/_biological|biological]] urge to [[m/_mate|mate]].**
+---
+### Synonyms
+- [[p/_passion|passion]], [[v/_vehemence|vehemence]]
+---

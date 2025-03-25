@@ -1,9 +1,9 @@
 # Engrailed
 ---
 #noun
-- **A European moth, Ectropis crepuscularia.**
+- **A [[e/_european|European]] [[m/_moth|moth]], Ectropis crepuscularia.**
 ---
 #adjective
-- **Having an [[e/_edge|edge]] or [[b/_border|border]] indented with semicircles with points outwards. Usually the saltire and the [[d/_dexter|dexter]] [[e/_edge|edge]] of the [[b/_border|border]] of the shield [[b/_both|both]] have [[c/_cuts|cuts]] [[a/_along|along]] their [[e/_entire|entire]] length the shape of [[c/_crescent|crescent]] moons.**
+- **[[h/_having|Having]] an [[e/_edge|edge]] or [[b/_border|border]] [[i/_indented|indented]] with semicircles with points [[o/_outwards|outwards]]. Usually the saltire and the [[d/_dexter|dexter]] [[e/_edge|edge]] of the [[b/_border|border]] of the shield [[b/_both|both]] [[h/_have|have]] [[c/_cuts|cuts]] [[a/_along|along]] their [[e/_entire|entire]] [[l/_length|length]] the shape of [[c/_crescent|crescent]] [[m/_moons|moons]].**
 ---
 ---

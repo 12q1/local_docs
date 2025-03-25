@@ -1,10 +1,10 @@
 # Bushings
 ---
 #noun
-- **A type of [[b/_bearing|bearing]], a [[c/_cylindrical|cylindrical]] lining [[d/_designed|designed]] to reduce friction and wear inside a hole, often used as a [[c/_casing|casing]] for a shaft, pin or hinge.**
-- **An [[e/_elastic|elastic]] [[b/_bearing|bearing]] used as a type of vibration isolator, [[c/_commonly|commonly]] made of rubber. An interface [[b/_between|between]] two parts, [[d/_damping|damping]] the movement and the [[e/_energy|energy]] transmitted.**
-- **A threaded [[b/_bushing|bushing]], is a fastener [[e/_element|element]] that is inserted into an object, usually to [[a/_add|add]] a threaded hole in a softer or thin material.**
-- **A lining for an opening through which a [[c/_conductor|conductor]] passes, providing insulation and mechanical protection for the [[c/_conductor|conductor]].**
-- **An [[a/_adapter|adapter]] for joining pipes of [[d/_different|different]] size.**
+- **A type of [[b/_bearing|bearing]], a [[c/_cylindrical|cylindrical]] [[l/_lining|lining]] [[d/_designed|designed]] to reduce [[f/_friction|friction]] and wear [[i/_inside|inside]] a [[h/_hole|hole]], [[o/_often|often]] used as a [[c/_casing|casing]] for a shaft, pin or [[h/_hinge|hinge]].**
+- **An [[e/_elastic|elastic]] [[b/_bearing|bearing]] used as a type of vibration [[i/_isolator|isolator]], [[c/_commonly|commonly]] [[m/_made|made]] of rubber. An [[i/_interface|interface]] [[b/_between|between]] two parts, [[d/_damping|damping]] the [[m/_movement|movement]] and the [[e/_energy|energy]] transmitted.**
+- **A threaded [[b/_bushing|bushing]], is a [[f/_fastener|fastener]] [[e/_element|element]] that is [[i/_inserted|inserted]] [[i/_into|into]] an [[o/_object|object]], usually to [[a/_add|add]] a threaded [[h/_hole|hole]] in a softer or thin [[m/_material|material]].**
+- **A [[l/_lining|lining]] for an [[o/_opening|opening]] through which a [[c/_conductor|conductor]] passes, providing [[i/_insulation|insulation]] and [[m/_mechanical|mechanical]] protection for the [[c/_conductor|conductor]].**
+- **An [[a/_adapter|adapter]] for [[j/_joining|joining]] pipes of [[d/_different|different]] size.**
 ---
 ---

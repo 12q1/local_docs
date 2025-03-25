@@ -1,6 +1,6 @@
 # Caretaken
 ---
 #verb
-- **To look [[a/_after|after]] as a [[c/_caretaker|caretaker]].**
+- **To [[l/_look|look]] [[a/_after|after]] as a [[c/_caretaker|caretaker]].**
 ---
 ---

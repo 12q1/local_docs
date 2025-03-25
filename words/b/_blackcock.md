@@ -1,6 +1,6 @@
 # Blackcock
 ---
 #noun
-- **The male [[b/_black|black]] grouse (Lyrurus tetrix).**
+- **The [[m/_male|male]] [[b/_black|black]] [[g/_grouse|grouse]] ([[l/_lyrurus|Lyrurus]] tetrix).**
 ---
 ---

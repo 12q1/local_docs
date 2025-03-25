@@ -1,0 +1,11 @@
+# Fang
+---
+#noun
+- **A [[l/_long|long]], pointed [[c/_canine|canine]] tooth used for [[b/_biting|biting]] and tearing [[f/_flesh|flesh]]**
+- **(in snakes) a [[l/_long|long]] pointed tooth for [[i/_injecting|injecting]] venom**
+---
+#verb
+- **To strike or [[a/_attack|attack]] with the [[f/_fangs|fangs]].**
+- **To [[e/_enable|enable]] to [[c/_catch|catch]] or tear; to [[f/_furnish|furnish]] with [[f/_fangs|fangs]].**
+---
+---

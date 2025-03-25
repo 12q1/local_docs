@@ -1,17 +1,17 @@
 # Chaff
 ---
 #noun
-- **The inedible parts of a grain-producing plant.**
+- **The [[i/_inedible|inedible]] parts of a [[g/_grain|grain]]-producing plant.**
 	- _Example: To separate out the chaff, early cultures tossed baskets of grain into the air and let the wind blow away the lighter chaff._
-- **Straw or hay [[c/_cut|cut]] up fine for the food of [[c/_cattle|cattle]].**
-- **[[a/_any|Any]] excess or unwanted material, resource, or person; [[a/_anything|anything]] worthless.**
-- **Light jesting talk; [[b/_banter|banter]]; raillery.**
-- **Loose material, [[e/_e|e]].g. small strips of [[a/_aluminum|aluminum]] foil [[d/_dropped|dropped]] from [[a/_aircraft|aircraft]], intended to interfere with radar [[d/_detection|detection]].**
+- **Straw or [[h/_hay|hay]] [[c/_cut|cut]] up [[f/_fine|fine]] for the [[f/_food|food]] of [[c/_cattle|cattle]].**
+- **[[a/_any|Any]] [[e/_excess|excess]] or unwanted [[m/_material|material]], resource, or person; [[a/_anything|anything]] worthless.**
+- **[[l/_light|Light]] [[j/_jesting|jesting]] talk; [[b/_banter|banter]]; raillery.**
+- **[[l/_loose|Loose]] [[m/_material|material]], [[e/_e|e]].[[g/_g|g]]. small strips of [[a/_aluminum|aluminum]] [[f/_foil|foil]] [[d/_dropped|dropped]] from [[a/_aircraft|aircraft]], [[i/_intended|intended]] to [[i/_interfere|interfere]] with radar [[d/_detection|detection]].**
 ---
 ### Synonyms
 - [[w/_window|window]]
 #verb
-- **To use light, idle language by way of fun or ridicule; to [[b/_banter|banter]].**
-- **To make fun of; to turn into ridicule by [[a/_addressing|addressing]] in ironical or [[b/_bantering|bantering]] language; to quiz.**
+- **To use [[l/_light|light]], [[i/_idle|idle]] [[l/_language|language]] by way of [[f/_fun|fun]] or ridicule; to [[b/_banter|banter]].**
+- **To [[m/_make|make]] [[f/_fun|fun]] of; to turn [[i/_into|into]] ridicule by [[a/_addressing|addressing]] in [[i/_ironical|ironical]] or [[b/_bantering|bantering]] [[l/_language|language]]; to quiz.**
 ---
 ---

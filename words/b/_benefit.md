@@ -1,11 +1,11 @@
 # Benefit
 ---
 #noun
-- **An [[a/_advantage|advantage]]; help or [[a/_aid|aid]] from something.**
+- **An [[a/_advantage|advantage]]; [[h/_help|help]] or [[a/_aid|aid]] from something.**
 	- _Example: It was for her benefit.   His benefit was free beer._
-- **A payment made in [[a/_accordance|accordance]] with an insurance policy or a public [[a/_assistance|assistance]] scheme.**
-- **An event such as a performance, given to raise funds for some [[c/_cause|cause]].**
-- **[[b/_beneficence|Beneficence]]; liberality**
+- **A [[p/_payment|payment]] [[m/_made|made]] in [[a/_accordance|accordance]] with an [[i/_insurance|insurance]] policy or a public [[a/_assistance|assistance]] scheme.**
+- **An [[e/_event|event]] such as a performance, [[g/_given|given]] to raise [[f/_funds|funds]] for some [[c/_cause|cause]].**
+- **[[b/_beneficence|Beneficence]]; [[l/_liberality|liberality]]**
 ---
 ### Synonyms
 - [[a/_advantage|advantage]], [[a/_aid|aid]], [[a/_assistance|assistance]], [[b/_boon|boon]], [[f/_foredeal|foredeal]], [[h/_help|help]], [[s/_subsidy|subsidy]]

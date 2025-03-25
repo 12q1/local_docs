@@ -1,8 +1,8 @@
 # Bulkier
 ---
 #adjective
-- **[[b/_being|Being]] large in size, mass, or volume.**
+- **[[b/_being|Being]] [[l/_large|large]] in size, [[m/_mass|mass]], or volume.**
 - **Unwieldy.**
-- **Having excess [[b/_body|body]] mass, [[e/_especially|especially]] muscle.**
+- **[[h/_having|Having]] [[e/_excess|excess]] [[b/_body|body]] [[m/_mass|mass]], [[e/_especially|especially]] [[m/_muscle|muscle]].**
 ---
 ---

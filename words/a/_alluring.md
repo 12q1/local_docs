@@ -9,6 +9,6 @@
 - **The [[a/_action|action]] of the verb [[a/_allure|allure]].**
 ---
 #adjective
-- **Having the power to [[a/_allure|allure]].**
+- **[[h/_having|Having]] the power to [[a/_allure|allure]].**
 ---
 ---

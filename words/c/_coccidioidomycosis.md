@@ -1,7 +1,7 @@
 # Coccidioidomycosis
 ---
 #noun
-- **An infectious respiratory [[d/_disease|disease]] [[c/_caused|caused]] by inhalation of the fungus [[c/_coccidioides|Coccidioides]] immitis**
+- **An [[i/_infectious|infectious]] respiratory [[d/_disease|disease]] [[c/_caused|caused]] by [[i/_inhalation|inhalation]] of the [[f/_fungus|fungus]] [[c/_coccidioides|Coccidioides]] immitis**
 ---
 ### Synonyms
 - 

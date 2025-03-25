@@ -1,0 +1,52 @@
+# Outside
+---
+#noun
+- **The part of something that [[f/_faces|faces]] [[o/_out|out]]; the [[o/_outer|outer]] surface.**
+	- _Example: He's repainting the outside of his house._
+- **The [[e/_external|external]] [[a/_appearance|appearance]] of someone or something.**
+	- _Example: Her outside was stern, but inside was a heart of gold._
+- **The space [[b/_beyond|beyond]] some [[l/_limit|limit]] or [[b/_boundary|boundary]].**
+	- _Example: Viewed from the outside, the building seemed unremarkable._
+- **The [[f/_furthest|furthest]] [[l/_limit|limit]], as to [[n/_number|number]], quantity, [[e/_extent|extent]], [[e/_etc|etc]].**
+	- _Example: It may last a week at the outside._
+- **The part of a road towards the [[c/_central|central]] [[d/_division|division]]: towards the right [[i/_if|if]] [[o/_one|one]] [[d/_drives|drives]] on the [[l/_left|left]], or towards the [[l/_left|left]] [[i/_if|if]] [[o/_one|one]] [[d/_drives|drives]] on the right.**
+	- _Example: On a motorway, you should always overtake other vehicles on the outside._
+- **The side of a [[c/_curved|curved]] road, racetrack [[e/_etc|etc]]. that [[h/_has|has]] the [[l/_longer|longer]] [[a/_arc|arc]] [[l/_length|length]]; the side of a racetrack [[f/_furthest|furthest]] from the [[i/_interior|interior]] of the [[c/_course|course]] or some [[o/_other|other]] point of reference.**
+	- _Example: On the final bend, the second-place car tried to go around the outside of the leader but spun off into the barrier._
+- **A passenger riding on the [[o/_outside|outside]] of a [[c/_coach|coach]] or [[c/_carriage|carriage]].**
+---
+#adjective
+- **Of or pertaining to the [[o/_outer|outer]] surface, [[l/_limit|limit]] or [[b/_boundary|boundary]].**
+	- _Example: The outside surface looks good._
+- **Of, pertaining to or [[o/_originating|originating]] from [[b/_beyond|beyond]] the [[o/_outer|outer]] surface, [[l/_limit|limit]] or [[b/_boundary|boundary]].**
+- **[[a/_away|Away]] from the [[i/_interior|interior]] or [[c/_center|center]] of something.**
+- **[[o/_originating|Originating]] from, [[a/_arranged|arranged]] by, or [[b/_being|being]] someone [[o/_outside|outside]] an [[o/_organization|organization]], [[g/_group|group]], [[e/_etc|etc]].**
+	- _Example: The Board did not trust outside information about their rivals._
+- **[[e/_extending|Extending]] or [[g/_going|going]] [[b/_beyond|beyond]] the [[b/_borders|borders]] or scope of an [[o/_organization|organization]], [[g/_group|group]], [[e/_etc|etc]].**
+- **(of a pitch) [[a/_away|Away]] ([[f/_far|far]]) from the [[b/_batter|batter]] as it [[c/_crosses|crosses]] [[h/_home|home]] plate.**
+	- _Example: The first pitch is ... just a bit outside._
+- **Reaching the [[e/_extreme|extreme]] or [[f/_farthest|farthest]] [[l/_limit|limit]], as to [[e/_extent|extent]], quantity, [[e/_etc|etc]]; [[m/_maximum|maximum]].**
+	- _Example: an outside estimate_
+- **Positioned towards the [[c/_central|central]] [[d/_division|division]] of a road: towards the right-[[h/_hand|hand]] side [[i/_if|if]] [[o/_one|one]] [[d/_drives|drives]] on the [[l/_left|left]], or [[l/_left|left]]-[[h/_hand|hand]] side [[i/_if|if]] [[o/_one|one]] [[d/_drives|drives]] on the right.**
+	- _Example: the outside lane of the motorway_
+- **(of a person) Not [[l/_legally|legally]] [[m/_married|married]] to or related to ([[e/_e|e]].[[g/_g|g]]. not [[b/_born|born]] in wedlock to), and/or not residing with, a specified [[o/_other|other]] person (parent, [[c/_child|child]], or partner); (of a [[m/_marriage|marriage]], relationship, [[e/_etc|etc]]) [[e/_existing|existing]] [[b/_between|between]] two such people. ([[c/_compare|Compare]] [[o/_out|out]] of wedlock, [[n/_nonresidential|nonresidential]].)**
+---
+### Antonyms
+- [[i/_inside|inside]]
+#adverb
+- **To or in the [[o/_outdoors|outdoors]] or [[o/_outside|outside]]; to or in an [[a/_area|area]] that is [[b/_beyond|beyond]] the scope, [[l/_limits|limits]] or [[b/_borders|borders]] of a [[g/_given|given]] place.**
+	- _Example: I am going outside._
+- **[[o/_outdoors|Outdoors]].**
+	- _Example: I slept outside last night._
+---
+#preposition
+- **On the [[o/_outside|outside]] of, not [[i/_inside|inside]] (something, such as a [[b/_building|building]]).**
+- **[[b/_beyond|Beyond]] the scope, [[l/_limits|limits]] or [[b/_borders|borders]] of.**
+	- _Example: tourists from outside the country_
+- **[[n/_near|Near]], but not in.**
+- **(usually with “of”) [[e/_except|Except]], [[a/_apart|apart]] from.**
+	- _Example: Outside of winning the lottery, the only way to succeed is through many years of hard work._
+---
+### Antonyms
+- [[i/_inside|inside]]
+---

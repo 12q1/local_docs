@@ -4,7 +4,7 @@
 - **A [[c/_clathrate|clathrate]] [[c/_compound|compound]].**
 ---
 #adjective
-- **Having a lattice-like structure.**
-- **Of an inclusion [[c/_complex|complex]]: in which molecules of one [[c/_compound|compound]] are [[e/_enclosed|enclosed]] within the [[c/_crystal|crystal]] structure of [[a/_another|another]].**
+- **[[h/_having|Having]] a [[l/_lattice|lattice]]-[[l/_like|like]] structure.**
+- **Of an [[i/_inclusion|inclusion]] [[c/_complex|complex]]: in which [[m/_molecules|molecules]] of [[o/_one|one]] [[c/_compound|compound]] are [[e/_enclosed|enclosed]] within the [[c/_crystal|crystal]] structure of [[a/_another|another]].**
 ---
 ---

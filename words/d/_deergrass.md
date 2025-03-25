@@ -1,7 +1,7 @@
 # Deergrass
 ---
 #noun
-- **A species of grass native to the southwestern United States, Muhlenbergia rigens**
-- **[[a/_american|American]] perennial herbs with showy flowers in the genus Rhexia.**
+- **A species of [[g/_grass|grass]] [[n/_native|native]] to the southwestern United States, [[m/_muhlenbergia|Muhlenbergia]] rigens**
+- **[[a/_american|American]] perennial [[h/_herbs|herbs]] with showy [[f/_flowers|flowers]] in the [[g/_genus|genus]] Rhexia.**
 ---
 ---

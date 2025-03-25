@@ -1,22 +1,22 @@
 # Calling
 ---
 #verb
-- **(heading) To use one's voice.**
-- **(heading) To visit.**
-- **(heading) To name, identify or [[d/_describe|describe]].**
-- **(heading) [[d/_direct|Direct]] or indirect use of the voice.**
+- **([[h/_heading|heading]]) To use [[o/_one|one]]'s voice.**
+- **([[h/_heading|heading]]) To visit.**
+- **([[h/_heading|heading]]) To [[n/_name|name]], [[i/_identify|identify]] or [[d/_describe|describe]].**
+- **([[h/_heading|heading]]) [[d/_direct|Direct]] or [[i/_indirect|indirect]] use of the voice.**
 - **(sometimes with for) To require, [[d/_demand|demand]].**
 	- _Example: He felt called to help the old man._
-- **To [[a/_announce|announce]] the [[e/_early|early]] extinction of a [[d/_debt|debt]] by prepayment, usually at a premium.**
-- **To [[d/_demand|demand]] repayment of a loan.**
-- **To jump to ([[a/_another|another]] part of a program) to perform some operation, returning to the original point on [[c/_completion|completion]].**
+- **To [[a/_announce|announce]] the [[e/_early|early]] [[e/_extinction|extinction]] of a [[d/_debt|debt]] by prepayment, usually at a premium.**
+- **To [[d/_demand|demand]] repayment of a [[l/_loan|loan]].**
+- **To [[j/_jump|jump]] to ([[a/_another|another]] part of a program) to perform some [[o/_operation|operation]], returning to the [[o/_original|original]] point on [[c/_completion|completion]].**
 	- _Example: A recursive function is one that calls itself._
 ---
 ### Synonyms
 - [[r/_ring|ring]], [[h/_holler|holler]], [[y/_yell|yell]], [[d/_designate|designate]], [[d/_dub|dub]], [[n/_name|name]], [[a/_augur|augur]], [[f/_foretell|foretell]]
 #noun
 - **A strong urge to [[b/_become|become]] religious.**
-- **A job or occupation.**
+- **A [[j/_job|job]] or [[o/_occupation|occupation]].**
 ---
 ### Synonyms
 - [[v/_vocation|vocation]]

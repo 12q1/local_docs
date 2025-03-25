@@ -1,12 +1,12 @@
 # Disillusion
 ---
 #noun
-- **The [[a/_act|act]] or process of [[d/_disenchanting|disenchanting]] or freeing from a false [[b/_belief|belief]].**
-- **The state of having [[b/_been|been]] or process of [[b/_becoming|becoming]] freed of false [[b/_belief|belief]].**
+- **The [[a/_act|act]] or process of [[d/_disenchanting|disenchanting]] or [[f/_freeing|freeing]] from a [[f/_false|false]] [[b/_belief|belief]].**
+- **The state of [[h/_having|having]] [[b/_been|been]] or process of [[b/_becoming|becoming]] [[f/_freed|freed]] of [[f/_false|false]] [[b/_belief|belief]].**
 ---
 ### Synonyms
 - [[d/_disillusionment|disillusionment]]
 #verb
-- **To free or [[d/_deprive|deprive]] of illusion; to [[d/_disenchant|disenchant]].**
+- **To [[f/_free|free]] or [[d/_deprive|deprive]] of [[i/_illusion|illusion]]; to [[d/_disenchant|disenchant]].**
 ---
 ---

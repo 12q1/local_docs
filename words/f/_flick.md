@@ -1,0 +1,21 @@
+# Flick
+---
+#noun
+- **A short, quick [[m/_movement|movement]], [[e/_especially|especially]] a [[b/_brush|brush]], sweep, or [[f/_flip|flip]].**
+	- _Example: He removed the speck of dust with a flick of his finger._
+- **A [[m/_motion|motion]] picture; (in plural, usually preceded by "the") [[m/_movie|movie]] theater, [[c/_cinema|cinema]].**
+	- _Example: My all-time favorite flick is "Gone with the Wind."_
+- **A [[c/_cut|cut]] that [[l/_lands|lands]] with the point, [[o/_often|often]] [[i/_involving|involving]] a whip of the [[f/_foible|foible]] of the [[b/_blade|blade]] to strike at a [[c/_concealed|concealed]] target.**
+- **A powerful underarm volley shot.**
+- **The [[a/_act|act]] of pressing a place on a touch screen [[d/_device|device]].**
+- **A [[f/_flitch|flitch]].**
+	- _Example: a flick of bacon_
+- **A unit of time, [[e/_equal|equal]] to 1/705,600,000 of a second**
+---
+### Synonyms
+- [[f/_fillip|fillip]], [[p/_pictures|pictures]]
+#verb
+- **To [[m/_move|move]] or [[h/_hit|hit]] (something) with a short, quick [[m/_motion|motion]].**
+	- _Example: flick one's hair_
+---
+---

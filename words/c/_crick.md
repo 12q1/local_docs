@@ -1,8 +1,8 @@
 # Crick
 ---
 #noun
-- **A painful muscular [[c/_cramp|cramp]] or spasm of some part of the [[b/_body|body]], as of the neck or [[b/_back|back]], making it [[d/_difficult|difficult]] to move the part [[a/_affected|affected]]. ([[c/_compare|Compare]] [[c/_catch|catch]].)**
-- **A small jackscrew.**
+- **A [[p/_painful|painful]] [[m/_muscular|muscular]] [[c/_cramp|cramp]] or spasm of some part of the [[b/_body|body]], as of the [[n/_neck|neck]] or [[b/_back|back]], [[m/_making|making]] it [[d/_difficult|difficult]] to [[m/_move|move]] the part [[a/_affected|affected]]. ([[c/_compare|Compare]] [[c/_catch|catch]].)**
+- **A small [[j/_jackscrew|jackscrew]].**
 ---
 #verb
 - **To [[d/_develop|develop]] a [[c/_crick|crick]] ([[c/_cramp|cramp]], spasm).**

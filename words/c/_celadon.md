@@ -1,11 +1,11 @@
 # Celadon
 ---
 #noun
-- **A pale green [[c/_colour|colour]], possibly tinted with gray.**
-- **A pale green [[c/_chinese|Chinese]] glaze.**
-- **A [[c/_ceramic|ceramic]] ware with a pale green glaze.**
+- **A [[p/_pale|pale]] [[g/_green|green]] [[c/_colour|colour]], possibly tinted with [[g/_gray|gray]].**
+- **A [[p/_pale|pale]] [[g/_green|green]] [[c/_chinese|Chinese]] [[g/_glaze|glaze]].**
+- **A [[c/_ceramic|ceramic]] ware with a [[p/_pale|pale]] [[g/_green|green]] [[g/_glaze|glaze]].**
 ---
 #adjective
-- **Of a pale green [[c/_colour|colour]] tinted with gray.**
+- **Of a [[p/_pale|pale]] [[g/_green|green]] [[c/_colour|colour]] tinted with [[g/_gray|gray]].**
 ---
 ---

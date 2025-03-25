@@ -1,9 +1,9 @@
 # Cardboard
 ---
 #noun
-- **A wood-[[b/_based|based]] material resembling heavy paper, used in the manufacture of [[b/_boxes|boxes]], [[c/_cartons|cartons]] and signs.**
+- **A wood-[[b/_based|based]] [[m/_material|material]] resembling [[h/_heavy|heavy]] paper, used in the [[m/_manufacture|manufacture]] of [[b/_boxes|boxes]], [[c/_cartons|cartons]] and signs.**
 ---
 #adjective
-- **Made of or resembling [[c/_cardboard|cardboard]]; flat or flavorless.**
+- **[[m/_made|Made]] of or resembling [[c/_cardboard|cardboard]]; [[f/_flat|flat]] or [[f/_flavorless|flavorless]].**
 ---
 ---

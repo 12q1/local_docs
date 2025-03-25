@@ -1,6 +1,6 @@
 # Bogles
 ---
 #noun
-- **A goblin; a frightful spectre or phantom; a [[b/_bogy|bogy]] or [[b/_bugbear|bugbear]].**
+- **A [[g/_goblin|goblin]]; a [[f/_frightful|frightful]] spectre or phantom; a [[b/_bogy|bogy]] or [[b/_bugbear|bugbear]].**
 ---
 ---

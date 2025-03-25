@@ -1,11 +1,11 @@
 # Comparatives
 ---
 #noun
-- **(grammar) A [[c/_construction|construction]] showing a relative quality, in [[e/_english|English]] usually formed by [[a/_adding|adding]] more or [[a/_appending|appending]] -[[e/_er|er]]. For example, the [[c/_comparative|comparative]] of green is greener; of evil, more evil.**
-- **(grammar) A word in the [[c/_comparative|comparative]] form.**
-- **([[c/_chiefly|chiefly]] in the plural) [[d/_data|Data]] used to make a [[c/_comparison|comparison]].**
+- **([[g/_grammar|grammar]]) A [[c/_construction|construction]] showing a relative quality, in [[e/_english|English]] usually [[f/_formed|formed]] by [[a/_adding|adding]] [[m/_more|more]] or [[a/_appending|appending]] -[[e/_er|er]]. For [[e/_example|example]], the [[c/_comparative|comparative]] of [[g/_green|green]] is [[g/_greener|greener]]; of [[e/_evil|evil]], [[m/_more|more]] [[e/_evil|evil]].**
+- **([[g/_grammar|grammar]]) A word in the [[c/_comparative|comparative]] [[f/_form|form]].**
+- **([[c/_chiefly|chiefly]] in the plural) [[d/_data|Data]] used to [[m/_make|make]] a [[c/_comparison|comparison]].**
 - **An [[e/_equal|equal]]; a rival; a [[c/_compeer|compeer]].**
-- **One who makes [[c/_comparisons|comparisons]]; one who [[a/_affects|affects]] wit.**
+- **[[o/_one|One]] who [[m/_makes|makes]] [[c/_comparisons|comparisons]]; [[o/_one|one]] who [[a/_affects|affects]] wit.**
 ---
 ### Synonyms
 - 

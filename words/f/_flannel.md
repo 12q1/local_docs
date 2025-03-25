@@ -1,0 +1,19 @@
+# Flannel
+---
+#noun
+- **A soft [[c/_cloth|cloth]] [[m/_material|material]] woven from wool, possibly [[c/_combined|combined]] with [[c/_cotton|cotton]] or synthetic [[f/_fibers|fibers]].**
+	- _Example: With the weather turning colder, it was time to dig out our flannel sheets and nightclothes._
+- **A washcloth.**
+- **A [[f/_flannel|flannel]] shirt.**
+- **Soothing, plausible untruth or [[h/_half|half]]-truth; [[c/_claptrap|claptrap]].**
+	- _Example: Don't talk flannel!_
+---
+#verb
+- **To rub with a [[f/_flannel|flannel]].**
+- **To wrap in [[f/_flannel|flannel]].**
+- **To [[f/_flatter|flatter]]; to suck up to.**
+---
+#adjective
+- **[[m/_made|Made]] of [[f/_flannel|flannel]].**
+---
+---

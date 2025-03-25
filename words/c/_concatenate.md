@@ -1,11 +1,11 @@
 # Concatenate
 ---
 #verb
-- **To join or link together, as though in a [[c/_chain|chain]].**
-- **To join (text strings) together.**
+- **To [[j/_join|join]] or [[l/_link|link]] together, as though in a [[c/_chain|chain]].**
+- **To [[j/_join|join]] (text strings) together.**
 	- _Example: Concatenating "shoe" with "string" yields "shoestring"._
 ---
 #adjective
-- **Joined together as if in a [[c/_chain|chain]].**
+- **[[j/_joined|Joined]] together as [[i/_if|if]] in a [[c/_chain|chain]].**
 ---
 ---

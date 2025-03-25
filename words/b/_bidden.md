@@ -1,16 +1,16 @@
 # Bidden
 ---
 #verb
-- **To issue a [[c/_command|command]]; to tell.**
+- **To [[i/_issue|issue]] a [[c/_command|command]]; to tell.**
 	- _Example: He bade me come in._
-- **To invite; to summon.**
+- **To [[i/_invite|invite]]; to summon.**
 	- _Example: She was bidden to the wedding._
-- **To utter a greeting or salutation.**
+- **To utter a [[g/_greeting|greeting]] or salutation.**
 ---
 #verb
 - **To [[b/_bear|bear]]; to [[e/_endure|endure]]; to tolerate.**
-- **To [[d/_dwell|dwell]] or reside in a location; to [[a/_abide|abide]].**
-- **To wait; to be in expectation; to stay; to remain.**
+- **To [[d/_dwell|dwell]] or reside in a [[l/_location|location]]; to [[a/_abide|abide]].**
+- **To wait; to be in [[e/_expectation|expectation]]; to stay; to remain.**
 - **To wait for; to [[a/_await|await]].**
 ---
 ### Synonyms

@@ -1,14 +1,14 @@
 # Apropos
 ---
 #adjective
-- **Of an [[a/_appropriate|appropriate]] or pertinent nature.**
-- **By the way, incidental**
+- **Of an [[a/_appropriate|appropriate]] or pertinent [[n/_nature|nature]].**
+- **By the way, [[i/_incidental|incidental]]**
 ---
 ### Synonyms
 - [[i/_incidental|incidental]], [[i/_incidentally|incidentally]]
 #adverb
 - **By the way.**
-- **Timely; at a good time.**
+- **Timely; at a [[g/_good|good]] time.**
 - **To the purpose; [[a/_appropriately|appropriately]].**
 ---
 #preposition

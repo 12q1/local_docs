@@ -1,11 +1,11 @@
 # Creaking
 ---
 #verb
-- **To make a prolonged sharp grating or squeaking sound, as by the friction of hard substances.**
+- **To [[m/_make|make]] a prolonged sharp [[g/_grating|grating]] or squeaking sound, as by the [[f/_friction|friction]] of [[h/_hard|hard]] substances.**
 - **To produce a [[c/_creaking|creaking]] sound with.**
-- **To suffer from strain or old [[a/_age|age]].**
+- **To suffer from strain or [[o/_old|old]] [[a/_age|age]].**
 ---
 #noun
-- **A noise that [[c/_creaks|creaks]].**
+- **A [[n/_noise|noise]] that [[c/_creaks|creaks]].**
 ---
 ---

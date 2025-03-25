@@ -1,10 +1,10 @@
 # Anguished
 ---
 #verb
-- **To suffer pain.**
-- **To [[c/_cause|cause]] to suffer pain.**
+- **To suffer [[p/_pain|pain]].**
+- **To [[c/_cause|cause]] to suffer [[p/_pain|pain]].**
 ---
 #adjective
-- **Feeling [[a/_anguish|anguish]]; experiencing extreme [[d/_discomfort|discomfort]] or [[d/_discontent|discontent]].**
+- **[[f/_feeling|Feeling]] [[a/_anguish|anguish]]; [[e/_experiencing|experiencing]] [[e/_extreme|extreme]] [[d/_discomfort|discomfort]] or [[d/_discontent|discontent]].**
 ---
 ---

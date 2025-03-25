@@ -1,16 +1,16 @@
 # Apart
 ---
 #adjective
-- **(Used [[a/_after|after]] a noun or in the predicate) Exceptional, [[d/_distinct|distinct]].**
+- **(Used [[a/_after|after]] a [[n/_noun|noun]] or in the predicate) [[e/_exceptional|Exceptional]], [[d/_distinct|distinct]].**
 	- _Example: a world apart_
-- **Having [[b/_been|been]] taken [[a/_apart|apart]]; [[d/_disassembled|disassembled]], in pieces.**
+- **[[h/_having|Having]] [[b/_been|been]] taken [[a/_apart|apart]]; [[d/_disassembled|disassembled]], in pieces.**
 ---
 #adverb
 - **Placed separately (in regard to space or time).**
-- **Separately, exclusively, not together**
+- **Separately, [[e/_exclusively|exclusively]], not together**
 	- _Example: Consider the two propositions apart._
 - **[[a/_aside|Aside]]; [[a/_away|away]].**
-- **In or into two or more parts.**
+- **In or [[i/_into|into]] two or [[m/_more|more]] parts.**
 	- _Example: We took the computer apart and put it back together._
 ---
 ### Synonyms

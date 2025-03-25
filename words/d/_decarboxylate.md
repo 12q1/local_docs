@@ -1,6 +1,6 @@
 # Decarboxylate
 ---
 #verb
-- **To remove one or more [[c/_carboxyl|carboxyl]] groups from a molecule**
+- **To remove [[o/_one|one]] or [[m/_more|more]] [[c/_carboxyl|carboxyl]] [[g/_groups|groups]] from a [[m/_molecule|molecule]]**
 ---
 ---

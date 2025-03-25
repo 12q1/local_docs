@@ -1,10 +1,10 @@
 # Commode
 ---
 #noun
-- **A low [[c/_chest|chest]] of [[d/_drawers|drawers]] on short legs.**
-- **A stand for a washbowl and jug.**
+- **A [[l/_low|low]] [[c/_chest|chest]] of [[d/_drawers|drawers]] on short [[l/_legs|legs]].**
+- **A stand for a washbowl and [[j/_jug|jug]].**
 - **A [[c/_chair|chair]] [[c/_containing|containing]] a [[c/_chamber|chamber]] pot.**
 - **A toilet.**
-- **A kind of woman's headdress, raising the hair and fore part of the [[c/_cap|cap]] to a great height.**
+- **A [[k/_kind|kind]] of woman's [[h/_headdress|headdress]], raising the [[h/_hair|hair]] and [[f/_fore|fore]] part of the [[c/_cap|cap]] to a [[g/_great|great]] [[h/_height|height]].**
 ---
 ---

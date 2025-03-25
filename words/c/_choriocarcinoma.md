@@ -1,6 +1,6 @@
 # Choriocarcinoma
 ---
 #noun
-- **A malignant, trophoblastic [[c/_cancer|cancer]], usually of the placenta.**
+- **A [[m/_malignant|malignant]], trophoblastic [[c/_cancer|cancer]], usually of the placenta.**
 ---
 ---

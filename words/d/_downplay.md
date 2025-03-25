@@ -1,7 +1,7 @@
 # Downplay
 ---
 #verb
-- **To [[d/_de|de]]-[[e/_emphasize|emphasize]]; to present or portray as less important or [[c/_consequential|consequential]].**
+- **To [[d/_de|de]]-[[e/_emphasize|emphasize]]; to present or portray as [[l/_less|less]] [[i/_important|important]] or [[c/_consequential|consequential]].**
 	- _Example: He would sometimes downplay his Princeton education by saying simply that he went to school in New Jersey._
 ---
 ### Synonyms

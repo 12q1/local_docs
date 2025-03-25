@@ -1,15 +1,15 @@
 # Boldfaced
 ---
 #verb
-- **To print or write in a [[b/_boldfaced|boldfaced]] font.**
+- **To print or write in a [[b/_boldfaced|boldfaced]] [[f/_font|font]].**
 	- _Example: Boldface the due date so they are sure to see it._
 ---
 ### Synonyms
 - [[e/_embolden|embolden]]
 #adjective
-- **Impudent, [[b/_brazen|brazen]].**
+- **[[i/_impudent|Impudent]], [[b/_brazen|brazen]].**
 	- _Example: He had the bold-faced effrontery to ask for a raise._
-- **Of text [[e/_emphasized|emphasized]] by [[b/_being|being]] set in a font having thicker strokes, yielding a heavier or [[d/_darker|darker]] [[a/_appearance|appearance]].**
+- **Of text [[e/_emphasized|emphasized]] by [[b/_being|being]] set in a [[f/_font|font]] [[h/_having|having]] thicker strokes, [[y/_yielding|yielding]] a [[h/_heavier|heavier]] or [[d/_darker|darker]] [[a/_appearance|appearance]].**
 ---
 ### Synonyms
 - [[h/_heavy|heavy]], [[b/_bold|bold]], [[b/_boldface|boldface]]

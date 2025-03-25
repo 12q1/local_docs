@@ -1,6 +1,6 @@
 # Earbash
 ---
 #verb
-- **To scold or lecture verbally.**
+- **To scold or [[l/_lecture|lecture]] verbally.**
 ---
 ---

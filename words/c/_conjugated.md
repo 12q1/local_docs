@@ -1,14 +1,14 @@
 # Conjugated
 ---
 #verb
-- **(grammar) To inflect (a verb) for [[e/_each|each]] person, in order, for one or more tenses.**
+- **([[g/_grammar|grammar]]) To [[i/_inflect|inflect]] (a verb) for [[e/_each|each]] person, in [[o/_order|order]], for [[o/_one|one]] or [[m/_more|more]] tenses.**
 	- _Example: In English, the verb 'to be' is conjugated as follows: 'I am', 'you are', 'he/she/it is', 'we are', 'you are', 'they are'._
-- **To multiply on the left by one [[e/_element|element]] and on the right by its inverse.**
-- **To join together, unite; to juxtapose.**
-- **(of [[b/_bacteria|bacteria]] and [[a/_algae|algae]]) To temporarily fuse, exchanging or transferring DNA.**
+- **To [[m/_multiply|multiply]] on the [[l/_left|left]] by [[o/_one|one]] [[e/_element|element]] and on the right by [[i/_its|its]] [[i/_inverse|inverse]].**
+- **To [[j/_join|join]] together, unite; to [[j/_juxtapose|juxtapose]].**
+- **(of [[b/_bacteria|bacteria]] and [[a/_algae|algae]]) To temporarily [[f/_fuse|fuse]], [[e/_exchanging|exchanging]] or transferring DNA.**
 ---
 #adjective
-- **Joined together in pairs.**
-- **Of an organic [[c/_compound|compound]] or part of such a [[c/_compound|compound]], [[c/_containing|containing]] one or more pairs of [[d/_double|double]] [[b/_bonds|bonds]] and/or lone pairs, [[e/_each|each]] pair [[b/_being|being]] separated by a single [[b/_bond|bond]].**
+- **[[j/_joined|Joined]] together in [[p/_pairs|pairs]].**
+- **Of an [[o/_organic|organic]] [[c/_compound|compound]] or part of such a [[c/_compound|compound]], [[c/_containing|containing]] [[o/_one|one]] or [[m/_more|more]] [[p/_pairs|pairs]] of [[d/_double|double]] [[b/_bonds|bonds]] and/or [[l/_lone|lone]] [[p/_pairs|pairs]], [[e/_each|each]] [[p/_pair|pair]] [[b/_being|being]] separated by a single [[b/_bond|bond]].**
 ---
 ---

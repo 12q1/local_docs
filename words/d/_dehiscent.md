@@ -1,7 +1,7 @@
 # Dehiscent
 ---
 #adjective
-- **Of or pertaining to [[d/_dehiscence|dehiscence]], i.[[e/_e|e]]., a rupture, as with a surgical wound opening up, often with a flow of serous fluid**
+- **Of or pertaining to [[d/_dehiscence|dehiscence]], [[i/_i|i]].[[e/_e|e]]., a rupture, as with a surgical wound [[o/_opening|opening]] up, [[o/_often|often]] with a [[f/_flow|flow]] of serous [[f/_fluid|fluid]]**
 - **Which [[d/_dehisces|dehisces]] or presents [[d/_dehiscence|dehiscence]]**
 ---
 ---

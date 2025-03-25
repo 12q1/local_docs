@@ -1,16 +1,16 @@
 # Amended
 ---
 #verb
-- **To make [[b/_better|better]]; improve.**
+- **To [[m/_make|make]] [[b/_better|better]]; [[i/_improve|improve]].**
 - **To [[b/_become|become]] [[b/_better|better]].**
-- **To heal (someone sick); to [[c/_cure|cure]] (a [[d/_disease|disease]] [[e/_etc|etc]].).**
-- **To be healed, to be [[c/_cured|cured]], to recover (from an illness).**
-- **To make a formal [[a/_alteration|alteration]] (in legislation, a report, [[e/_etc|etc]].) by [[a/_adding|adding]], [[d/_deleting|deleting]], or rephrasing.**
+- **To [[h/_heal|heal]] (someone sick); to [[c/_cure|cure]] (a [[d/_disease|disease]] [[e/_etc|etc]].).**
+- **To be [[h/_healed|healed]], to be [[c/_cured|cured]], to recover (from an [[i/_illness|illness]]).**
+- **To [[m/_make|make]] a [[f/_formal|formal]] [[a/_alteration|alteration]] (in [[l/_legislation|legislation]], a report, [[e/_etc|etc]].) by [[a/_adding|adding]], [[d/_deleting|deleting]], or rephrasing.**
 ---
 ### Synonyms
 - [[a/_ameliorate|ameliorate]], [[c/_correct|correct]], [[i/_improve|improve]]
 #adjective
-- **That has [[b/_been|been]] modified from a previous form.**
+- **That [[h/_has|has]] [[b/_been|been]] [[m/_modified|modified]] from a previous [[f/_form|form]].**
 	- _Example: We voted on the amended bill, and it passed._
 ---
 ---

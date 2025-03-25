@@ -1,6 +1,6 @@
 # Christ
 ---
 #noun
-- **A figure or other [[a/_artistic|artistic]] [[d/_depiction|depiction]] of Jesus [[c/_christ|Christ]].**
+- **A [[f/_figure|figure]] or [[o/_other|other]] [[a/_artistic|artistic]] [[d/_depiction|depiction]] of [[j/_jesus|Jesus]] [[c/_christ|Christ]].**
 ---
 ---

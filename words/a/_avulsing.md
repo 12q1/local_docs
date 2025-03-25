@@ -1,6 +1,6 @@
 # Avulsing
 ---
 #verb
-- **To tear off forcibly.**
+- **To tear [[o/_off|off]] [[f/_forcibly|forcibly]].**
 ---
 ---

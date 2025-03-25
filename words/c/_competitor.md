@@ -1,7 +1,7 @@
 # Competitor
 ---
 #noun
-- **A person or organization [[a/_against|against]] whom one is [[c/_competing|competing]].**
+- **A person or [[o/_organization|organization]] [[a/_against|against]] whom [[o/_one|one]] is [[c/_competing|competing]].**
 - **A participant in a [[c/_competition|competition]], [[e/_especially|especially]] in [[a/_athletics|athletics]].**
 ---
 ### Synonyms

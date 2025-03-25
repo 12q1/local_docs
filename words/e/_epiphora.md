@@ -2,8 +2,8 @@
 ---
 #noun
 - **[[e/_epistrophe|Epistrophe]]**
-- **Excessive tear production usually a result from an irritation of the [[e/_eye|eye]].**
-- **Polystachya (a genus of orchids).**
+- **[[e/_excessive|Excessive]] tear production usually a result from an [[i/_irritation|irritation]] of the [[e/_eye|eye]].**
+- **Polystachya (a [[g/_genus|genus]] of [[o/_orchids|orchids]]).**
 ---
 ### Antonyms
 - [[a/_anaphora|anaphora]]

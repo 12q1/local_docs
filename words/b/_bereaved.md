@@ -1,15 +1,15 @@
 # Bereaved
 ---
 #verb
-- **To [[d/_deprive|deprive]] by or as if by violence; to rob; to strip; to [[b/_benim|benim]].**
-- **To take [[a/_away|away]] by [[d/_destroying|destroying]], impairing, or spoiling; take [[a/_away|away]] by violence.**
+- **To [[d/_deprive|deprive]] by or as [[i/_if|if]] by violence; to rob; to strip; to [[b/_benim|benim]].**
+- **To take [[a/_away|away]] by [[d/_destroying|destroying]], [[i/_impairing|impairing]], or spoiling; take [[a/_away|away]] by violence.**
 - **To [[d/_deprive|deprive]] of power; prevent.**
-- **To take [[a/_away|away]] someone or something that is important or [[c/_close|close]]; [[d/_deprive|deprive]].**
+- **To take [[a/_away|away]] someone or something that is [[i/_important|important]] or [[c/_close|close]]; [[d/_deprive|deprive]].**
 	- _Example: Death bereaved him of his wife._
-- **To [[d/_destroy|destroy]] life; [[c/_cut|cut]] off.**
+- **To [[d/_destroy|destroy]] [[l/_life|life]]; [[c/_cut|cut]] [[o/_off|off]].**
 ---
 #adjective
-- **Having suffered the [[d/_death|death]] of a loved one**
+- **[[h/_having|Having]] suffered the [[d/_death|death]] of a [[l/_loved|loved]] [[o/_one|one]]**
 	- _Example: bereaved relatives_
 ---
 ---

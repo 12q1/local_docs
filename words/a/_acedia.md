@@ -1,8 +1,8 @@
 # Acedia
 ---
 #noun
-- **Spiritual or mental sloth.**
-- **[[a/_apathy|Apathy]]; a lack of [[c/_care|care]] or interest; indifference.**
+- **Spiritual or [[m/_mental|mental]] sloth.**
+- **[[a/_apathy|Apathy]]; a [[l/_lack|lack]] of [[c/_care|care]] or [[i/_interest|interest]]; [[i/_indifference|indifference]].**
 - **[[b/_boredom|Boredom]].**
 ---
 ### Synonyms

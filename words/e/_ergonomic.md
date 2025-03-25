@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Of or relating to the science of [[e/_ergonomics|ergonomics]].**
-- **[[d/_designed|Designed]] for [[c/_comfort|comfort]] or to minimize fatigue.**
+- **[[d/_designed|Designed]] for [[c/_comfort|comfort]] or to [[m/_minimize|minimize]] [[f/_fatigue|fatigue]].**
 ---
 ### Synonyms
 - [[u/_user-friendly|user-friendly]]

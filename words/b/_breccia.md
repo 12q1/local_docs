@@ -1,6 +1,6 @@
 # Breccia
 ---
 #noun
-- **A rock [[c/_composed|composed]] of [[a/_angular|angular]] fragments in a matrix that may be of a similar or a [[d/_different|different]] material.**
+- **A rock [[c/_composed|composed]] of [[a/_angular|angular]] [[f/_fragments|fragments]] in a [[m/_matrix|matrix]] that [[m/_may|may]] be of a similar or a [[d/_different|different]] [[m/_material|material]].**
 ---
 ---

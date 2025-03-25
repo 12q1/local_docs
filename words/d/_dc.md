@@ -5,8 +5,8 @@
 - **[[d/_direct|Direct]] [[c/_current|current]]**
 - **([[d/_degree|degree]]) [[d/_doctor|doctor]] of [[c/_chiropractic|chiropractic]]**
 - **[[d/_debit|Debit]] [[c/_card|card]]**
-- **(law [[e/_enforcement|enforcement]]) [[d/_detective|detective]] [[c/_constable|constable]], a police rank used in [[c/_commonwealth|Commonwealth]] [[c/_countries|countries]]**
-- **Initialism of [[d/_defined|defined]] [[c/_contributions|contributions]].**
-- **Initialism of [[d/_device|device]] [[c/_context|context]].**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) [[d/_detective|detective]] [[c/_constable|constable]], a police rank used in [[c/_commonwealth|Commonwealth]] [[c/_countries|countries]]**
+- **[[i/_initialism|Initialism]] of [[d/_defined|defined]] [[c/_contributions|contributions]].**
+- **[[i/_initialism|Initialism]] of [[d/_device|device]] [[c/_context|context]].**
 ---
 ---

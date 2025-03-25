@@ -2,6 +2,6 @@
 ---
 #noun
 - **A toilet**
-- **An outhouse**
+- **An [[o/_outhouse|outhouse]]**
 ---
 ---

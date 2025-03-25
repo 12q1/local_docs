@@ -1,9 +1,9 @@
 # Binucleate
 ---
 #noun
-- **A [[c/_cell|cell]] that has two nuclei**
+- **A [[c/_cell|cell]] that [[h/_has|has]] two [[n/_nuclei|nuclei]]**
 ---
 #adjective
-- **Having two nuclei**
+- **[[h/_having|Having]] two [[n/_nuclei|nuclei]]**
 ---
 ---

@@ -4,11 +4,11 @@
 - **[[b/_beginning|Beginning]]; start.**
 ---
 #verb
-- **To start, to initiate or take the first step into something.**
+- **To start, to [[i/_initiate|initiate]] or take the [[f/_first|first]] step [[i/_into|into]] something.**
 	- _Example: I began playing the piano at the age of five.   Now that everyone is here, we should begin the presentation._
-- **To be in the first stage of some situation**
+- **To be in the [[f/_first|first]] stage of some situation**
 	- _Example: The program begins at 9 o'clock on the dot.    I rushed to get to class on time, but the lesson had already begun._
-- **To [[c/_come|come]] into existence.**
+- **To [[c/_come|come]] [[i/_into|into]] [[e/_existence|existence]].**
 ---
 ### Synonyms
 - [[c/_commence|commence]], [[i/_initiate|initiate]], [[s/_start|start]]

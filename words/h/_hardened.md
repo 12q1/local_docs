@@ -1,0 +1,20 @@
+# Hardened
+---
+#verb
+- **To [[b/_become|become]] [[h/_hard|hard]] (tough, resistant to pressure).**
+- **To [[m/_make|make]] something [[h/_hard|hard]] or [[h/_harder|harder]] (tough, resistant to pressure).**
+- **To strengthen.**
+- **To [[m/_modify|modify]] (a website or [[o/_other|other]] system) to [[m/_make|make]] it resistant to [[m/_malicious|malicious]] [[a/_attacks|attacks]].**
+- **To [[b/_become|become]] or [[m/_make|make]] (a person or thing) resistant or [[l/_less|less]] sensitive.**
+- **To [[b/_become|become]] or [[m/_make|make]] (a [[c/_consonant|consonant]]) [[m/_more|more]] [[f/_fortis|fortis]].**
+---
+### Synonyms
+- [[i/_inure|inure]]
+#adjective
+- **Unfeeling or [[l/_lacking|lacking]] [[e/_emotion|emotion]] [[d/_due|due]] to [[e/_experience|experience]]; [[c/_callous|callous]].**
+	- _Example: The bloody scene could reduce even the most hardened soldier to tears._
+- **[[f/_firmly|Firmly]] [[e/_established|established]] or unlikely to [[c/_change|change]]; [[i/_inveterate|inveterate]].**
+- **[[h/_having|Having]] [[e/_extra|extra]] [[d/_defences|defences]] [[a/_against|against]] [[a/_attack|attack]]; [[h/_highly|highly]] [[f/_fortified|fortified]].**
+	- _Example: a hardened air base_
+---
+---

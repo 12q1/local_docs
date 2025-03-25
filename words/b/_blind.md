@@ -1,50 +1,50 @@
 # Blind
 ---
 #noun
-- **A [[c/_covering|covering]] for a window to keep out light. The [[c/_covering|covering]] may be made of [[c/_cloth|cloth]] or of narrow slats that [[c/_can|can]] [[b/_block|block]] light or [[a/_allow|allow]] it to pass.**
-- **A [[d/_destination|destination]] sign mounted on a public transport vehicle [[d/_displaying|displaying]] the route [[d/_destination|destination]], number, name and/or via points, [[e/_etc|etc]].**
-- **[[a/_any|Any]] [[d/_device|device]] intended to [[c/_conceal|conceal]] or hide.**
+- **A [[c/_covering|covering]] for a window to [[k/_keep|keep]] [[o/_out|out]] [[l/_light|light]]. The [[c/_covering|covering]] [[m/_may|may]] be [[m/_made|made]] of [[c/_cloth|cloth]] or of [[n/_narrow|narrow]] slats that [[c/_can|can]] [[b/_block|block]] [[l/_light|light]] or [[a/_allow|allow]] it to pass.**
+- **A [[d/_destination|destination]] sign [[m/_mounted|mounted]] on a public transport vehicle [[d/_displaying|displaying]] the route [[d/_destination|destination]], [[n/_number|number]], [[n/_name|name]] and/or via points, [[e/_etc|etc]].**
+- **[[a/_any|Any]] [[d/_device|device]] [[i/_intended|intended]] to [[c/_conceal|conceal]] or [[h/_hide|hide]].**
 	- _Example: a duck blind_
-- **Something to mislead the [[e/_eye|eye]] or the understanding, or to [[c/_conceal|conceal]] some [[c/_covert|covert]] [[d/_deed|deed]] or [[d/_design|design]]; a subterfuge.**
+- **Something to [[m/_mislead|mislead]] the [[e/_eye|eye]] or the understanding, or to [[c/_conceal|conceal]] some [[c/_covert|covert]] [[d/_deed|deed]] or [[d/_design|design]]; a subterfuge.**
 - **A [[b/_blindage|blindage]].**
-- **A halting place.**
+- **A [[h/_halting|halting]] place.**
 - **The blindside.**
-- **(1800s) No score.**
-- **A forced [[b/_bet|bet]]: the small [[b/_blind|blind]] or the [[b/_big|big]] [[b/_blind|blind]].**
+- **(1800s) [[n/_no|No]] score.**
+- **A [[f/_forced|forced]] [[b/_bet|bet]]: the small [[b/_blind|blind]] or the [[b/_big|big]] [[b/_blind|blind]].**
 	- _Example: The blinds are $10/$20 and the ante is $1._
-- **A player who is forced to pay such a [[b/_bet|bet]].**
+- **A player who is [[f/_forced|forced]] to [[p/_pay|pay]] such a [[b/_bet|bet]].**
 	- _Example: The blinds immediately folded when I reraised._
-- **(as a plural) Those who are [[b/_blind|blind]], taken as a group.**
+- **(as a plural) Those who are [[b/_blind|blind]], taken as a [[g/_group|group]].**
 ---
 ### Synonyms
 - [[r/_rollsign|rollsign]]
 #verb
-- **To make temporarily or permanently [[b/_blind|blind]].**
+- **To [[m/_make|make]] temporarily or permanently [[b/_blind|blind]].**
 	- _Example: Don't wave that pencil in my face - do you want to blind me?_
 - **To [[c/_curse|curse]].**
-- **To [[d/_darken|darken]]; to obscure to the [[e/_eye|eye]] or understanding; to [[c/_conceal|conceal]].**
-- **To [[c/_cover|cover]] with a thin [[c/_coating|coating]] of sand and fine gravel, for example a road newly paved, in order that the joints [[b/_between|between]] the stones may be filled.**
+- **To [[d/_darken|darken]]; to [[o/_obscure|obscure]] to the [[e/_eye|eye]] or understanding; to [[c/_conceal|conceal]].**
+- **To [[c/_cover|cover]] with a thin [[c/_coating|coating]] of sand and [[f/_fine|fine]] [[g/_gravel|gravel]], for [[e/_example|example]] a road [[n/_newly|newly]] paved, in [[o/_order|order]] that the [[j/_joints|joints]] [[b/_between|between]] the stones [[m/_may|may]] be [[f/_filled|filled]].**
 ---
 #adjective
-- **(of a person or [[a/_animal|animal]]) Unable to see, [[d/_due|due]] to physiological or neurological factors.**
-- **(of an [[e/_eye|eye]]) Unable to be used to see, [[d/_due|due]] to physiological or neurological factors.**
-- **Failing to see, [[a/_acknowledge|acknowledge]], perceive.**
+- **(of a person or [[a/_animal|animal]]) Unable to see, [[d/_due|due]] to physiological or [[n/_neurological|neurological]] [[f/_factors|factors]].**
+- **(of an [[e/_eye|eye]]) Unable to be used to see, [[d/_due|due]] to physiological or [[n/_neurological|neurological]] [[f/_factors|factors]].**
+- **[[f/_failing|Failing]] to see, [[a/_acknowledge|acknowledge]], perceive.**
 	- _Example: Authors are blind to their own defects._
-- **Of a place, having little or no visibility.**
+- **Of a place, [[h/_having|having]] [[l/_little|little]] or [[n/_no|no]] visibility.**
 	- _Example: a blind corner_
-- **[[c/_closed|Closed]] at one [[e/_end|end]]; having a [[d/_dead|dead]] [[e/_end|end]]**
+- **[[c/_closed|Closed]] at [[o/_one|one]] [[e/_end|end]]; [[h/_having|having]] a [[d/_dead|dead]] [[e/_end|end]]**
 	- _Example: a blind gut_
-- **Having no openings for light or passage.**
+- **[[h/_having|Having]] [[n/_no|no]] [[o/_openings|openings]] for [[l/_light|light]] or passage.**
 	- _Example: a blind alley_
 - **(in [[c/_certain|certain]] phrases) Smallest or slightest.**
 	- _Example: I shouted, but he didn't take a blind bit of notice._
-- **Without [[a/_any|any]] prior knowledge.**
+- **Without [[a/_any|any]] prior [[k/_knowledge|knowledge]].**
 	- _Example: He took a blind guess at which fork in the road would take him to the airport._
-- **Unconditional; without regard to evidence, logic, reality, [[a/_accidental|accidental]] mistakes, extenuating [[c/_circumstances|circumstances]], [[e/_etc|etc]].**
+- **Unconditional; without regard to [[e/_evidence|evidence]], [[l/_logic|logic]], reality, [[a/_accidental|accidental]] [[m/_mistakes|mistakes]], [[e/_extenuating|extenuating]] [[c/_circumstances|circumstances]], [[e/_etc|etc]].**
 	- _Example: blind deference_
-- **Unintelligible or illegible.**
+- **Unintelligible or [[i/_illegible|illegible]].**
 	- _Example: a blind passage in a book; blind writing_
-- **[[a/_abortive|Abortive]]; failing to produce flowers or fruit.**
+- **[[a/_abortive|Abortive]]; [[f/_failing|failing]] to produce [[f/_flowers|flowers]] or [[f/_fruit|fruit]].**
 	- _Example: blind buds_
 ---
 ### Antonyms
@@ -53,6 +53,6 @@
 - **Without seeing; unseeingly.**
 - **[[a/_absolutely|Absolutely]], totally.**
 	- _Example: to swear blind_
-- **(three [[c/_card|card]] [[b/_brag|brag]]) Without looking at the [[c/_cards|cards]] [[d/_dealt|dealt]].**
+- **(three [[c/_card|card]] [[b/_brag|brag]]) Without [[l/_looking|looking]] at the [[c/_cards|cards]] [[d/_dealt|dealt]].**
 ---
 ---

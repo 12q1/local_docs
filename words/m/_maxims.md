@@ -1,0 +1,9 @@
+# Maxims
+---
+#noun
+- **A self-[[e/_evident|evident]] [[a/_axiom|axiom]] or premise; a pithy [[e/_expression|expression]] of a [[g/_general|general]] principle or rule.**
+- **A precept; a succinct statement or [[o/_observation|observation]] of a rule of [[c/_conduct|conduct]] or [[m/_moral|moral]] teaching.**
+---
+### Synonyms
+- [[a/_aphorism|aphorism]], [[c/_cliche|cliche]], [[e/_enthymeme|enthymeme]], [[p/_proverb|proverb]], [[s/_saying|saying]]
+---

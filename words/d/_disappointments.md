@@ -1,9 +1,9 @@
 # Disappointments
 ---
 #noun
-- **A feeling of sadness or frustration when a strongly held expectation is not met.**
-- **A [[c/_circumstance|circumstance]] in which a strongly held expectation is not met.**
-- **That which [[c/_causes|causes]] feelings of [[d/_disappointment|disappointment]].**
+- **A [[f/_feeling|feeling]] of sadness or [[f/_frustration|frustration]] when a strongly [[h/_held|held]] [[e/_expectation|expectation]] is not [[m/_met|met]].**
+- **A [[c/_circumstance|circumstance]] in which a strongly [[h/_held|held]] [[e/_expectation|expectation]] is not [[m/_met|met]].**
+- **That which [[c/_causes|causes]] [[f/_feelings|feelings]] of [[d/_disappointment|disappointment]].**
 	- _Example: Our trip to California was a disappointment._
 ---
 ### Synonyms

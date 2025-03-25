@@ -1,6 +1,6 @@
 # Agamic
 ---
 #adjective
-- **Occurring without the union of male and female gametes; [[a/_asexual|asexual]]**
+- **[[o/_occurring|Occurring]] without the union of [[m/_male|male]] and [[f/_female|female]] [[g/_gametes|gametes]]; [[a/_asexual|asexual]]**
 ---
 ---

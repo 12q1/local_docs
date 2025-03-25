@@ -1,8 +1,8 @@
 # Courtesan
 ---
 #noun
-- **A woman of a royal or noble [[c/_court|court]].**
-- **The mistress of a royal or noble.**
-- **A female prostitute, [[e/_especially|especially]] one with high-status or wealthy [[c/_clients|clients]].**
+- **A woman of a royal or [[n/_noble|noble]] [[c/_court|court]].**
+- **The [[m/_mistress|mistress]] of a royal or [[n/_noble|noble]].**
+- **A [[f/_female|female]] prostitute, [[e/_especially|especially]] [[o/_one|one]] with [[h/_high|high]]-status or wealthy [[c/_clients|clients]].**
 ---
 ---

@@ -1,0 +1,77 @@
+# Floats
+---
+#noun
+- **A [[b/_buoyant|buoyant]] [[d/_device|device]] used to support something in water or [[a/_another|another]] [[l/_liquid|liquid]].**
+	- _Example: Attach the float and the weight to the fishing line, above the hook._
+- **A [[m/_mass|mass]] of timber or [[b/_boards|boards]] [[f/_fastened|fastened]] together, and [[c/_conveyed|conveyed]] [[d/_down|down]] a stream by the [[c/_current|current]]; a raft.**
+- **A [[f/_float|float]] [[b/_board|board]].**
+- **A tool similar to a rasp, used in various trades.**
+- **A sort of trowel used for [[f/_finishing|finishing]] [[c/_concrete|concrete]] surfaces or smoothing plaster.**
+	- _Example: When pouring a new driveway, you can use a two-by-four as a float._
+- **An [[e/_elaborately|elaborately]] [[d/_decorated|decorated]] trailer or vehicle, [[i/_intended|intended]] for [[d/_display|display]] in a parade or [[p/_pageant|pageant]].**
+	- _Example: That float covered in roses is very pretty._
+- **A small vehicle used for [[l/_local|local]] [[d/_deliveries|deliveries]], [[e/_especially|especially]] in the term [[m/_milk|milk]] [[f/_float|float]].**
+- **[[f/_funds|Funds]] [[c/_committed|committed]] to be [[p/_paid|paid]] but not [[y/_yet|yet]] [[p/_paid|paid]].**
+	- _Example: Our bank does a nightly sweep of accounts, to adjust the float so we stay within our reserves limit._
+- **(and [[o/_other|other]] [[c/_commonwealth|Commonwealth]] [[c/_countries|countries]]?) An [[o/_offering|offering]] of shares in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the public, [[n/_normally|normally]] [[f/_followed|followed]] by a [[l/_listing|listing]] on a stock [[e/_exchange|exchange]].**
+- **The total [[a/_amount|amount]] of [[c/_checks|checks]]/[[c/_cheques|cheques]] or [[o/_other|other]] [[d/_drafts|drafts]] written [[a/_against|against]] a [[b/_bank|bank]] [[a/_account|account]] but not [[y/_yet|yet]] [[c/_cleared|cleared]] and [[c/_charged|charged]] [[a/_against|against]] the [[a/_account|account]].**
+	- _Example: No sir, your current float is not taken into account, when assets are legally garnished._
+- **Premiums taken in but not [[y/_yet|yet]] [[p/_paid|paid]] [[o/_out|out]].**
+	- _Example: We make a lot of interest from our nightly float._
+- **A [[f/_floating|floating]]-point [[n/_number|number]], [[e/_especially|especially]] [[o/_one|one]] that [[h/_has|has]] [[l/_lower|lower]] precision than a [[d/_double|double]].**
+	- _Example: That routine should not have used an int; it should be a float._
+- **A soft [[b/_beverage|beverage]] with a scoop of [[i/_ice|ice]]-[[c/_cream|cream]] [[f/_floating|floating]] in it.**
+	- _Example: It's true - I don't consider anything other than root-beer with vanilla ice-cream to be a "real" float._
+- **A small sum of [[m/_money|money]] put in a [[c/_cashier|cashier]]'s till at the start of [[b/_business|business]] to [[e/_enable|enable]] [[c/_change|change]] to be [[m/_made|made]].**
+- **A [[m/_maneuver|maneuver]] where a player [[c/_calls|calls]] on the [[f/_flop|flop]] or turn with a weak [[h/_hand|hand]], with the [[i/_intention|intention]] of [[b/_bluffing|bluffing]] [[a/_after|after]] a subsequent [[c/_community|community]] [[c/_card|card]].**
+- **[[o/_one|One]] of the [[l/_loose|loose]] [[e/_ends|ends]] of [[y/_yarn|yarn]] on an unfinished work.**
+- **A [[c/_car|car]] [[c/_carrier|carrier]] or [[c/_car|car]] transporter truck or truck-and-trailer [[c/_combination|combination]]**
+- **A [[l/_lowboy|lowboy]] trailer**
+- **(tempering) A [[d/_device|device]] sending a [[c/_copious|copious]] stream of water to the [[h/_heated|heated]] surface of a [[b/_bulky|bulky]] [[o/_object|object]], such as an [[a/_anvil|anvil]] or [[d/_die|die]].**
+- **The [[a/_act|act]] of [[f/_flowing|flowing]]; [[f/_flux|flux]]; [[f/_flow|flow]].**
+- **A quantity of [[e/_earth|earth]], [[e/_eighteen|eighteen]] [[f/_feet|feet]] square and [[o/_one|one]] [[f/_foot|foot]] [[d/_deep|deep]].**
+- **A polishing [[b/_block|block]] used in [[m/_marble|marble]] working; a runner.**
+- **A [[c/_coal|coal]] [[c/_cart|cart]].**
+- **A breakdancing [[m/_move|move]] in which the [[b/_body|body]] is [[h/_held|held]] parallel to the [[f/_floor|floor]] while [[b/_balancing|balancing]] on [[o/_one|one]] or [[b/_both|both]] [[h/_hands|hands]].**
+- **A visual style on a web [[p/_page|page]] that [[c/_causes|causes]] the styled [[e/_elements|elements]] to [[f/_float|float]] [[a/_above|above]] or [[b/_beside|beside]] [[o/_others|others]].**
+---
+### Synonyms
+- 
+#verb
+- **Of an [[o/_object|object]] or substance, to be supported by a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]] than the [[o/_object|object]] so as that part of the [[o/_object|object]] or substance remains [[a/_above|above]] the surface.**
+	- _Example: The boat floated on the water._
+- **To [[c/_cause|cause]] something to be suspended in a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]].**
+	- _Example: to float a boat_
+- **To be [[c/_capable|capable]] of [[f/_floating|floating]].**
+	- _Example: Oil floats on vinegar._
+- **To [[m/_move|move]] in a particular [[d/_direction|direction]] with the [[l/_liquid|liquid]] in which [[o/_one|one]] is [[f/_floating|floating]]**
+	- _Example: I’d love to just float downstream._
+- **To [[d/_drift|drift]] or wander [[a/_aimlessly|aimlessly]].**
+	- _Example: Images from my childhood floated through my mind._
+- **To [[d/_drift|drift]] [[g/_gently|gently]] through the [[a/_air|air]].**
+	- _Example: The balloon floated off into the distance._
+- **To [[m/_move|move]] in a [[f/_fluid|fluid]] [[m/_manner|manner]].**
+	- _Example: The dancer floated gracefully around the stage._
+- **To [[c/_circulate|circulate]].**
+	- _Example: There's a rumour floating around the office that Jan is pregnant._
+- **(of an [[i/_idea|idea]] or scheme) To be viable.**
+	- _Example: That’s a daft idea... it’ll never float._
+- **To propose (an [[i/_idea|idea]]) for [[c/_consideration|consideration]].**
+	- _Example: I floated the idea of free ice-cream on Fridays, but no one was interested._
+- **To [[a/_automatically|automatically]] [[a/_adjust|adjust]] a parameter as related parameters [[c/_change|change]].**
+- **(of [[c/_currencies|currencies]]) To [[h/_have|have]] an [[e/_exchange|exchange]] value [[d/_determined|determined]] by the [[m/_markets|markets]] as [[o/_opposed|opposed]] to by rule.**
+	- _Example: The yen floats against the dollar._
+- **To [[a/_allow|allow]] (the [[e/_exchange|exchange]] value of a [[c/_currency|currency]]) to be [[d/_determined|determined]] by the [[m/_markets|markets]].**
+	- _Example: Increased pressure on Thailand’s currency, the baht, in 1997 led to a crisis that forced the government to float the currency._
+- **To [[e/_extend|extend]] a short-term [[l/_loan|loan]] to.**
+	- _Example: Could you float me $50 until payday?_
+- **To [[i/_issue|issue]] or sell shares in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the public, [[f/_followed|followed]] by [[l/_listing|listing]] on a stock [[e/_exchange|exchange]].**
+	- _Example: 2007, Jonathan Reuvid, Floating Your Company: The Essential Guide to Going Public._
+- **To spread plaster [[o/_over|over]] (a surface), using the tool [[c/_called|called]] a [[f/_float|float]].**
+- **To use a [[f/_float|float]] (rasp-[[l/_like|like]] tool) upon.**
+	- _Example: It is time to float this horse's teeth._
+- **To transport by [[f/_float|float]] (vehicular trailer).**
+- **To perform a [[f/_float|float]].**
+- **To [[c/_cause|cause]] (an [[e/_element|element]] within a [[d/_document|document]]) to [[f/_float|float]] [[a/_above|above]] or [[b/_beside|beside]] [[o/_others|others]].**
+---
+---

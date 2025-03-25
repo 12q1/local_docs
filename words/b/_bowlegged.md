@@ -1,7 +1,7 @@
 # Bowlegged
 ---
 #adjective
-- **Having a [[b/_bowleg|bowleg]]**
+- **[[h/_having|Having]] a [[b/_bowleg|bowleg]]**
 ---
 ### Synonyms
 - 

@@ -1,25 +1,25 @@
 # Cabin
 ---
 #noun
-- **A small [[d/_dwelling|dwelling]] [[c/_characteristic|characteristic]] of the frontier, [[e/_especially|especially]] when [[b/_built|built]] from logs with simple tools and not [[c/_constructed|constructed]] by professional [[b/_builders|builders]], but by those who meant to live in it.**
+- **A small [[d/_dwelling|dwelling]] [[c/_characteristic|characteristic]] of the [[f/_frontier|frontier]], [[e/_especially|especially]] when [[b/_built|built]] from [[l/_logs|logs]] with simple tools and not [[c/_constructed|constructed]] by professional [[b/_builders|builders]], but by those who [[m/_meant|meant]] to [[l/_live|live]] in it.**
 	- _Example: Abraham Lincoln was born in a log cabin._
-- **A [[c/_chalet|chalet]] or lodge, [[e/_especially|especially]] one that [[c/_can|can]] hold large groups of people.**
+- **A [[c/_chalet|chalet]] or [[l/_lodge|lodge]], [[e/_especially|especially]] [[o/_one|one]] that [[c/_can|can]] [[h/_hold|hold]] [[l/_large|large]] [[g/_groups|groups]] of people.**
 - **A private room on a ship.**
 	- _Example: the captain's cabin:  Passengers shall remain in their cabins._
-- **The interior of a [[b/_boat|boat]], [[e/_enclosed|enclosed]] to [[c/_create|create]] a small room, particularly for sleeping.**
+- **The [[i/_interior|interior]] of a [[b/_boat|boat]], [[e/_enclosed|enclosed]] to [[c/_create|create]] a small room, particularly for sleeping.**
 - **The passenger [[a/_area|area]] of an [[a/_airplane|airplane]].**
-- **(travel) The section of a passenger plane having the same [[c/_class|class]] of service.**
+- **(travel) The section of a passenger plane [[h/_having|having]] the same [[c/_class|class]] of service.**
 - **A signal [[b/_box|box]].**
 - **A small room; an [[e/_enclosed|enclosed]] place.**
-- **(Indian [[e/_english|English]]) A private office; particularly of a [[d/_doctor|doctor]], [[b/_businessman|businessman]], lawyer, or other professional.**
+- **([[i/_indian|Indian]] [[e/_english|English]]) A private [[o/_office|office]]; particularly of a [[d/_doctor|doctor]], [[b/_businessman|businessman]], [[l/_lawyer|lawyer]], or [[o/_other|other]] professional.**
 ---
 ### Synonyms
 - [[c/_cell|cell]], [[c/_chamber|chamber]], [[h/_hut|hut]], [[p/_pod|pod]], [[s/_shack|shack]], [[s/_shed|shed]]
 ### Antonyms
 - [[h/_hall|hall]], [[p/_palace|palace]], [[v/_villa|villa]]
 #verb
-- **To place in a [[c/_cabin|cabin]] or other small space.**
-- **(by extension) To limit the scope of.**
-- **To live in, or as if in, a [[c/_cabin|cabin]]; to lodge.**
+- **To place in a [[c/_cabin|cabin]] or [[o/_other|other]] small space.**
+- **(by [[e/_extension|extension]]) To [[l/_limit|limit]] the scope of.**
+- **To [[l/_live|live]] in, or as [[i/_if|if]] in, a [[c/_cabin|cabin]]; to [[l/_lodge|lodge]].**
 ---
 ---

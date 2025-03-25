@@ -1,7 +1,7 @@
 # Chic
 ---
 #noun
-- **Good form; style.**
+- **[[g/_good|Good]] [[f/_form|form]]; style.**
 - **A person with (a particular type of) [[c/_chic|chic]].**
 ---
 ### Antonyms

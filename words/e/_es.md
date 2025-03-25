@@ -1,7 +1,7 @@
 # Es
 ---
 #noun
-- **The name of the Latin-script letter S.**
-- **Something shaped like the letter S.**
+- **The [[n/_name|name]] of the [[l/_latin|Latin]]-script [[l/_letter|letter]] S.**
+- **Something shaped [[l/_like|like]] the [[l/_letter|letter]] S.**
 ---
 ---

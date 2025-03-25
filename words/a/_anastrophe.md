@@ -1,7 +1,7 @@
 # Anastrophe
 ---
 #noun
-- **Unusual word order, often involving an inversion of the usual pattern of the sentence.**
+- **Unusual word [[o/_order|order]], [[o/_often|often]] [[i/_involving|involving]] an [[i/_inversion|inversion]] of the usual pattern of the sentence.**
 ---
 ### Synonyms
 - [[i/_inversion|inversion]]

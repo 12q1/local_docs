@@ -1,6 +1,6 @@
 # Balklines
 ---
 #noun
-- **[[b/_baulk|Baulk]] line**
+- **[[b/_baulk|Baulk]] [[l/_line|line]]**
 ---
 ---

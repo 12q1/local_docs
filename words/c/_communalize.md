@@ -1,6 +1,6 @@
 # Communalize
 ---
 #verb
-- **To take property into [[c/_communal|communal]] ownership**
+- **To take property [[i/_into|into]] [[c/_communal|communal]] [[o/_ownership|ownership]]**
 ---
 ---

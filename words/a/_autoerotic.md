@@ -1,6 +1,6 @@
 # Autoerotic
 ---
 #adjective
-- **Of or pertaining to sexual satisfaction obtained without a partner; masturbatory**
+- **Of or pertaining to sexual satisfaction [[o/_obtained|obtained]] without a partner; [[m/_masturbatory|masturbatory]]**
 ---
 ---

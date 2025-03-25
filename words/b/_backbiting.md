@@ -1,6 +1,6 @@
 # Backbiting
 ---
 #noun
-- **The [[a/_action|action]] of slandering a person without that person's knowledge.**
+- **The [[a/_action|action]] of slandering a person without that person's [[k/_knowledge|knowledge]].**
 ---
 ---

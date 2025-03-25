@@ -2,6 +2,6 @@
 ---
 #noun
 - **A woman who [[c/_can|can]] vote in an [[e/_election|election]].**
-- **The wife of a German [[e/_elector|elector]], often used as a title.**
+- **The wife of a [[g/_german|German]] [[e/_elector|elector]], [[o/_often|often]] used as a title.**
 ---
 ---

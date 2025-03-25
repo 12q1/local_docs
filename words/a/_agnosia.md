@@ -1,6 +1,6 @@
 # Agnosia
 ---
 #noun
-- **The inability to recognize objects by use of the senses.**
+- **The [[i/_inability|inability]] to recognize [[o/_objects|objects]] by use of the senses.**
 ---
 ---

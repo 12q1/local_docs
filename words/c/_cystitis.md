@@ -1,6 +1,6 @@
 # Cystitis
 ---
 #noun
-- **Inflammation of the urinary [[b/_bladder|bladder]].**
+- **[[i/_inflammation|Inflammation]] of the urinary [[b/_bladder|bladder]].**
 ---
 ---

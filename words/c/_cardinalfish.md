@@ -1,6 +1,6 @@
 # Cardinalfish
 ---
 #noun
-- **[[a/_any|Any]] of the family [[a/_apogonidae|Apogonidae]] of mostly marine ray-finned fishes.**
+- **[[a/_any|Any]] of the [[f/_family|family]] [[a/_apogonidae|Apogonidae]] of [[m/_mostly|mostly]] [[m/_marine|marine]] ray-[[f/_finned|finned]] [[f/_fishes|fishes]].**
 ---
 ---

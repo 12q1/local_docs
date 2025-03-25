@@ -1,6 +1,6 @@
 # Breviloquent
 ---
 #adjective
-- **Exhibiting [[b/_breviloquence|breviloquence]]; [[c/_concise|concise]].**
+- **[[e/_exhibiting|Exhibiting]] [[b/_breviloquence|breviloquence]]; [[c/_concise|concise]].**
 ---
 ---

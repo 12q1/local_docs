@@ -1,17 +1,17 @@
 # Conscious
 ---
 #noun
-- **The part of the mind that is [[a/_aware|aware]] of itself; the [[c/_consciousness|consciousness]].**
+- **The part of the [[m/_mind|mind]] that is [[a/_aware|aware]] of [[i/_itself|itself]]; the [[c/_consciousness|consciousness]].**
 ---
 #adjective
-- **[[a/_alert|Alert]], [[a/_awake|awake]]; with one's mental faculties [[a/_active|active]].**
+- **[[a/_alert|Alert]], [[a/_awake|awake]]; with [[o/_one|one]]'s [[m/_mental|mental]] [[f/_faculties|faculties]] [[a/_active|active]].**
 	- _Example: The noise woke me, but it was another few minutes before I was fully conscious._
-- **[[a/_aware|Aware]] of one's own existence; [[a/_aware|aware]] of one's own [[a/_awareness|awareness]].**
+- **[[a/_aware|Aware]] of [[o/_one|one]]'s [[o/_own|own]] [[e/_existence|existence]]; [[a/_aware|aware]] of [[o/_one|one]]'s [[o/_own|own]] [[a/_awareness|awareness]].**
 	- _Example: Only highly intelligent beings can be fully conscious._
-- **[[a/_aware|Aware]] of, sensitive to; observing and noticing, or [[b/_being|being]] strongly interested in or [[c/_concerned|concerned]] [[a/_about|about]].**
+- **[[a/_aware|Aware]] of, sensitive to; [[o/_observing|observing]] and [[n/_noticing|noticing]], or [[b/_being|being]] strongly [[i/_interested|interested]] in or [[c/_concerned|concerned]] [[a/_about|about]].**
 	- _Example: I was conscious of a noise behind me.   a very class-conscious analysis_
-- **[[d/_deliberate|Deliberate]], intentional, [[d/_done|done]] with [[a/_awareness|awareness]] of what one is [[d/_doing|doing]].**
-- **Known or felt personally, internally by a person.**
+- **[[d/_deliberate|Deliberate]], [[i/_intentional|intentional]], [[d/_done|done]] with [[a/_awareness|awareness]] of what [[o/_one|one]] is [[d/_doing|doing]].**
+- **[[k/_known|Known]] or [[f/_felt|felt]] personally, [[i/_internally|internally]] by a person.**
 	- _Example: conscious guilt_
 - **Self-[[c/_conscious|conscious]].**
 ---

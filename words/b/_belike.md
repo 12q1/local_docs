@@ -1,7 +1,7 @@
 # Belike
 ---
 #verb
-- **To make like; simulate.**
-- **To be like; resemble.**
+- **To [[m/_make|make]] [[l/_like|like]]; simulate.**
+- **To be [[l/_like|like]]; resemble.**
 ---
 ---

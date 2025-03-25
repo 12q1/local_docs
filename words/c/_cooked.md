@@ -1,37 +1,37 @@
 # Cooked
 ---
 #verb
-- **To prepare (food) for [[e/_eating|eating]] by heating it, often by [[c/_combining|combining]] it with other ingredients.**
+- **To prepare ([[f/_food|food]]) for [[e/_eating|eating]] by [[h/_heating|heating]] it, [[o/_often|often]] by [[c/_combining|combining]] it with [[o/_other|other]] [[i/_ingredients|ingredients]].**
 	- _Example: I'm cooking bangers and mash._
-- **To prepare (unspecified) food for [[e/_eating|eating]] by heating it, often by [[c/_combining|combining]] it with other ingredients.**
+- **To prepare (unspecified) [[f/_food|food]] for [[e/_eating|eating]] by [[h/_heating|heating]] it, [[o/_often|often]] by [[c/_combining|combining]] it with [[o/_other|other]] [[i/_ingredients|ingredients]].**
 	- _Example: He's in the kitchen, cooking._
 - **To be [[c/_cooked|cooked]].**
 	- _Example: The dinner is cooking on the stove._
-- **To be uncomfortably hot.**
+- **To be uncomfortably [[h/_hot|hot]].**
 	- _Example: Look at that poor dog shut up in that car on a day like today - it must be cooking in there._
-- **To execute by [[e/_electric|electric]] [[c/_chair|chair]].**
-- **To hold onto (a grenade) [[b/_briefly|briefly]] [[a/_after|after]] igniting the fuse, so that it explodes [[a/_almost|almost]] immediately [[a/_after|after]] [[b/_being|being]] thrown.**
+- **To [[e/_execute|execute]] by [[e/_electric|electric]] [[c/_chair|chair]].**
+- **To [[h/_hold|hold]] [[o/_onto|onto]] (a [[g/_grenade|grenade]]) [[b/_briefly|briefly]] [[a/_after|after]] [[i/_igniting|igniting]] the [[f/_fuse|fuse]], so that it [[e/_explodes|explodes]] [[a/_almost|almost]] [[i/_immediately|immediately]] [[a/_after|after]] [[b/_being|being]] thrown.**
 - **To [[c/_concoct|concoct]] or prepare.**
 - **To tamper with or [[a/_alter|alter]]; to [[c/_cook|cook]] up.**
-- **To play or improvise in an inspired and rhythmically exciting way. (From 1930s jive talk.)**
+- **To play or [[i/_improvise|improvise]] in an [[i/_inspired|inspired]] and rhythmically [[e/_exciting|exciting]] way. (From 1930s [[j/_jive|jive]] talk.)**
 	- _Example: Crank up the Coltrane and start cooking!_
-- **To play music vigorously.**
+- **To play [[m/_music|music]] vigorously.**
 	- _Example: On the Wagner piece, the orchestra was cooking!_
 ---
 ### Synonyms
 - [[b/_bake|bake]], [[s/_stew|stew]]
 #verb
-- **To make the noise of the [[c/_cuckoo|cuckoo]].**
+- **To [[m/_make|make]] the [[n/_noise|noise]] of the [[c/_cuckoo|cuckoo]].**
 ---
 #verb
 - **To throw.**
 ---
 #adjective
-- **Of food, that has [[b/_been|been]] prepared by [[c/_cooking|cooking]].**
-- **(of an MP3 [[a/_audio|audio]] file) [[c/_corrupted|Corrupted]] by [[c/_conversion|conversion]] through a text format, requiring uncooking to be properly listenable.**
-- **(of [[a/_accounting|accounting]] records, intelligence) Partially or wholly fabricated, falsified.**
-- **[[d/_done|Done]] in, exhausted, pooped.**
-- **[[d/_done|Done]] in, [[d/_defeated|defeated]], hopeless.**
+- **Of [[f/_food|food]], that [[h/_has|has]] [[b/_been|been]] prepared by [[c/_cooking|cooking]].**
+- **(of an MP3 [[a/_audio|audio]] [[f/_file|file]]) [[c/_corrupted|Corrupted]] by [[c/_conversion|conversion]] through a text [[f/_format|format]], requiring uncooking to be properly [[l/_listenable|listenable]].**
+- **(of [[a/_accounting|accounting]] records, [[i/_intelligence|intelligence]]) Partially or wholly [[f/_fabricated|fabricated]], [[f/_falsified|falsified]].**
+- **[[d/_done|Done]] in, [[e/_exhausted|exhausted]], pooped.**
+- **[[d/_done|Done]] in, [[d/_defeated|defeated]], [[h/_hopeless|hopeless]].**
 ---
 ### Antonyms
 - [[r/_raw|raw]], [[u/_uncooked|uncooked]]

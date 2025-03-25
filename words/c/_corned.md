@@ -1,16 +1,16 @@
 # Corned
 ---
 #verb
-- **To granulate; to form a substance into grains**
+- **To [[g/_granulate|granulate]]; to [[f/_form|form]] a substance [[i/_into|into]] [[g/_grains|grains]]**
 	- _Example: to corn gunpowder_
-- **To preserve using [[c/_coarse|coarse]] salt, [[e/_e|e]].g. [[c/_corned|corned]] [[b/_beef|beef]]**
-- **To provide with [[c/_corn|corn]] (typically maize; or, in Scotland, oats) for feed**
+- **To preserve using [[c/_coarse|coarse]] salt, [[e/_e|e]].[[g/_g|g]]. [[c/_corned|corned]] [[b/_beef|beef]]**
+- **To provide with [[c/_corn|corn]] (typically [[m/_maize|maize]]; or, in Scotland, [[o/_oats|oats]]) for [[f/_feed|feed]]**
 	- _Example: Corn the horses._
-- **To render intoxicated**
+- **To render [[i/_intoxicated|intoxicated]]**
 	- _Example: ale strong enough to corn one_
 ---
 #adjective
-- **[[c/_consisting|Consisting]] of grains; granulated**
-- **(of meat) preserved in salt**
+- **[[c/_consisting|Consisting]] of [[g/_grains|grains]]; [[g/_granulated|granulated]]**
+- **(of [[m/_meat|meat]]) preserved in salt**
 ---
 ---

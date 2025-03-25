@@ -1,23 +1,23 @@
 # Antiques
 ---
 #noun
-- **A grotesque representation of a figure; a gargoyle.**
+- **A [[g/_grotesque|grotesque]] representation of a [[f/_figure|figure]]; a [[g/_gargoyle|gargoyle]].**
 - **A [[c/_caricature|caricature]].**
-- **(often in plural) A ludicrous gesture or [[a/_act|act]]; ridiculous [[b/_behaviour|behaviour]]; [[c/_caper|caper]].**
-- **A grotesque performer or [[c/_clown|clown]], [[b/_buffoon|buffoon]].**
+- **([[o/_often|often]] in plural) A [[l/_ludicrous|ludicrous]] [[g/_gesture|gesture]] or [[a/_act|act]]; ridiculous [[b/_behaviour|behaviour]]; [[c/_caper|caper]].**
+- **A [[g/_grotesque|grotesque]] performer or [[c/_clown|clown]], [[b/_buffoon|buffoon]].**
 ---
 #noun
-- **A pose, often exaggerated, in [[a/_anticipation|anticipation]] of an [[a/_action|action]]; for example, a [[b/_brief|brief]] squat [[b/_before|before]] jumping**
+- **A pose, [[o/_often|often]] [[e/_exaggerated|exaggerated]], in [[a/_anticipation|anticipation]] of an [[a/_action|action]]; for [[e/_example|example]], a [[b/_brief|brief]] squat [[b/_before|before]] [[j/_jumping|jumping]]**
 ---
 #noun
-- **In general, [[a/_anything|anything]] very old; specifically:**
-- **A style of type of thick and [[b/_bold|bold]] face in which [[a/_all|all]] lines are of [[e/_equal|equal]] or nearly [[e/_equal|equal]] thickness.**
+- **In [[g/_general|general]], [[a/_anything|anything]] very [[o/_old|old]]; specifically:**
+- **A style of type of thick and [[b/_bold|bold]] [[f/_face|face]] in which [[a/_all|all]] [[l/_lines|lines]] are of [[e/_equal|equal]] or [[n/_nearly|nearly]] [[e/_equal|equal]] thickness.**
 ---
 ### Synonyms
 - [[a/_ancient|ancient]], [[g/_geriatric|geriatric]], [[o/_oldster|oldster]]
 #verb
 - **To search or shop for [[a/_antiques|antiques]].**
-- **To make an object [[a/_appear|appear]] to be an [[a/_antique|antique]] in some way.**
-- **To [[e/_emboss|emboss]] without gilding.**
+- **To [[m/_make|make]] an [[o/_object|object]] [[a/_appear|appear]] to be an [[a/_antique|antique]] in some way.**
+- **To [[e/_emboss|emboss]] without [[g/_gilding|gilding]].**
 ---
 ---

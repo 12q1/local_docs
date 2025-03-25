@@ -1,6 +1,6 @@
 # Batrachians
 ---
 #noun
-- **A frog or toad.**
+- **A [[f/_frog|frog]] or toad.**
 ---
 ---

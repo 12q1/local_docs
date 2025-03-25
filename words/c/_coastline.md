@@ -1,6 +1,6 @@
 # Coastline
 ---
 #noun
-- **The shape, outline, or [[b/_boundary|boundary]] of a [[c/_coast|coast]].**
+- **The shape, [[o/_outline|outline]], or [[b/_boundary|boundary]] of a [[c/_coast|coast]].**
 ---
 ---

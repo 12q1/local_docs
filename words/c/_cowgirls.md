@@ -1,8 +1,8 @@
 # Cowgirls
 ---
 #noun
-- **A woman who tends free-range [[c/_cattle|cattle]], [[e/_especially|especially]] in the [[a/_american|American]] West.**
-- **A woman who identifies with [[c/_cowboy|cowboy]] [[c/_culture|culture]], including [[c/_clothing|clothing]] such as the [[c/_cowboy|cowboy]] hat.**
+- **A woman who tends [[f/_free|free]]-range [[c/_cattle|cattle]], [[e/_especially|especially]] in the [[a/_american|American]] West.**
+- **A woman who [[i/_identifies|identifies]] with [[c/_cowboy|cowboy]] [[c/_culture|culture]], [[i/_including|including]] [[c/_clothing|clothing]] such as the [[c/_cowboy|cowboy]] [[h/_hat|hat]].**
 - **A playing [[c/_card|card]] of queen rank.**
 - **A sex position where the woman is on top; [[c/_cowgirl|cowgirl]] position.**
 ---

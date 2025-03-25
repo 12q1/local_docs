@@ -1,24 +1,24 @@
 # Cuffs
 ---
 #noun
-- **Glove; mitten**
+- **[[g/_glove|Glove]]; [[m/_mitten|mitten]]**
 - **The [[e/_end|end]] of a shirt sleeve that [[c/_covers|covers]] the wrist**
-- **The [[e/_end|end]] of a pants leg, folded up**
-- **Handcuffs**
+- **The [[e/_end|end]] of a pants [[l/_leg|leg]], [[f/_folded|folded]] up**
+- **[[h/_handcuffs|Handcuffs]]**
 ---
 #verb
-- **To furnish with [[c/_cuffs|cuffs]].**
-- **To handcuff.**
+- **To [[f/_furnish|furnish]] with [[c/_cuffs|cuffs]].**
+- **To [[h/_handcuff|handcuff]].**
 ---
 #noun
-- **A [[b/_blow|blow]], [[e/_especially|especially]] with the open hand; a [[b/_box|box]]; a slap.**
+- **A [[b/_blow|blow]], [[e/_especially|especially]] with the [[o/_open|open]] [[h/_hand|hand]]; a [[b/_box|box]]; a slap.**
 ---
 #verb
-- **To hit, as a reproach, particularly with the open palm to the head; to slap.**
-- **To fight; to scuffle; to [[b/_box|box]].**
+- **To [[h/_hit|hit]], as a reproach, particularly with the [[o/_open|open]] [[p/_palm|palm]] to the [[h/_head|head]]; to slap.**
+- **To [[f/_fight|fight]]; to scuffle; to [[b/_box|box]].**
 - **To [[b/_buffet|buffet]].**
 ---
 #noun
-- **The scruff of the neck.**
+- **The scruff of the [[n/_neck|neck]].**
 ---
 ---

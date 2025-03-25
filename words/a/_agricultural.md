@@ -6,6 +6,6 @@
 #adjective
 - **Of or pertaining to [[a/_agriculture|agriculture]]**
 	- _Example: An agricultural tool_
-- **As if played with a scythe**
+- **As [[i/_if|if]] played with a scythe**
 ---
 ---

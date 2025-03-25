@@ -1,6 +1,6 @@
 # Caoutchouc
 ---
 #noun
-- **Latex; natural rubber**
+- **[[l/_latex|Latex]]; [[n/_natural|natural]] rubber**
 ---
 ---

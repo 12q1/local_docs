@@ -1,9 +1,9 @@
 # Blouses
 ---
 #noun
-- **A shirt, typically loose and reaching from the neck to the waist.**
+- **A shirt, typically [[l/_loose|loose]] and reaching from the [[n/_neck|neck]] to the waist.**
 - **A shirt for women, particularly a shirt with [[b/_buttons|buttons]]; a [[d/_dress|dress]] shirt tailored for women.**
-- **A loose-fitting uniform jacket.**
+- **A [[l/_loose|loose]]-[[f/_fitting|fitting]] uniform [[j/_jacket|jacket]].**
 ---
 ### Synonyms
 - [[b/_bodice|bodice]]
@@ -16,6 +16,6 @@
 ### Synonyms
 - [[b/_blowen|blowen]]
 #noun
-- **A ruddy, fat-faced woman; a wench.**
+- **A ruddy, [[f/_fat|fat]]-[[f/_faced|faced]] woman; a wench.**
 ---
 ---

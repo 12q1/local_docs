@@ -1,6 +1,6 @@
 # Burnooses
 ---
 #noun
-- **A thick hooded [[c/_cloak|cloak]] worn by [[b/_berbers|Berbers]] and [[a/_arabs|Arabs]] in Northwest [[a/_africa|Africa]].**
+- **A thick [[h/_hooded|hooded]] [[c/_cloak|cloak]] worn by [[b/_berbers|Berbers]] and [[a/_arabs|Arabs]] in [[n/_northwest|Northwest]] [[a/_africa|Africa]].**
 ---
 ---

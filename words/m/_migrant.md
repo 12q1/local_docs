@@ -1,0 +1,12 @@
+# Migrant
+---
+#noun
+- **A [[m/_migratory|migratory]] [[b/_bird|bird]] or [[o/_other|other]] [[a/_animal|animal]].**
+- **Traveller or worker who [[m/_moves|moves]] from [[o/_one|one]] region or [[c/_country|country]] to [[a/_another|another]].**
+- **An [[i/_immigrant|immigrant]] or refugee.**
+- **[[a/_any|Any]] of various pierid [[b/_butterflies|butterflies]] of the [[g/_genus|genus]] Catopsilia. [[a/_also|Also]] [[c/_called|called]] an [[e/_emigrant|emigrant]].**
+---
+#adjective
+- **[[m/_migratory|Migratory]].**
+---
+---

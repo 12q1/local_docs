@@ -1,6 +1,6 @@
 # Ethicizes
 ---
 #verb
-- **To make [[e/_ethical|ethical]].**
+- **To [[m/_make|make]] [[e/_ethical|ethical]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Cargo
 ---
 #noun
-- **Freight [[c/_carried|carried]] by a ship, [[a/_aircraft|aircraft]], or motor vehicle.**
-- **(Papua New Guinea) Western material goods.**
+- **[[f/_freight|Freight]] [[c/_carried|carried]] by a ship, [[a/_aircraft|aircraft]], or [[m/_motor|motor]] vehicle.**
+- **(Papua [[n/_new|New]] [[g/_guinea|Guinea]]) Western [[m/_material|material]] [[g/_goods|goods]].**
 ---
 ---

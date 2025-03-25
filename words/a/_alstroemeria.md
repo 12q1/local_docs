@@ -1,6 +1,6 @@
 # Alstroemeria
 ---
 #noun
-- **[[a/_any|Any]] member of the genus [[a/_alstroemeria|Alstroemeria]] of South [[a/_american|American]] flowering plants, the Peruvian lilies.**
+- **[[a/_any|Any]] [[m/_member|member]] of the [[g/_genus|genus]] [[a/_alstroemeria|Alstroemeria]] of South [[a/_american|American]] [[f/_flowering|flowering]] plants, the Peruvian [[l/_lilies|lilies]].**
 ---
 ---

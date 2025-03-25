@@ -1,13 +1,13 @@
 # Bilingual
 ---
 #noun
-- **A person who is [[a/_able|able]] to use two languages.**
+- **A person who is [[a/_able|able]] to use two [[l/_languages|languages]].**
 ---
 #adjective
-- **Having the [[a/_ability|ability]] to speak two languages.**
-- **Spoken or written in two [[d/_different|different]] languages.**
+- **[[h/_having|Having]] the [[a/_ability|ability]] to speak two [[l/_languages|languages]].**
+- **Spoken or written in two [[d/_different|different]] [[l/_languages|languages]].**
 	- _Example: a bilingual dictionary_
-- **[[c/_characterized|Characterized]] by the use or presence of two languages.**
+- **[[c/_characterized|Characterized]] by the use or presence of two [[l/_languages|languages]].**
 	- _Example: bilingual education_
 ---
 ### Synonyms

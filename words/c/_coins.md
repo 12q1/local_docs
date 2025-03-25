@@ -1,25 +1,25 @@
 # Coins
 ---
 #noun
-- **(money) A piece of [[c/_currency|currency]], usually metallic and in the shape of a [[d/_disc|disc]], but sometimes polygonal, or with a hole in the middle.**
-- **A token used in a special [[e/_establishment|establishment]] like a [[c/_casino|casino]].**
-- **That which serves for payment or recompense.**
-- **Money in general, not limited to [[c/_coins|coins]].**
+- **([[m/_money|money]]) A piece of [[c/_currency|currency]], usually [[m/_metallic|metallic]] and in the shape of a [[d/_disc|disc]], but sometimes polygonal, or with a [[h/_hole|hole]] in the [[m/_middle|middle]].**
+- **A token used in a special [[e/_establishment|establishment]] [[l/_like|like]] a [[c/_casino|casino]].**
+- **That which serves for [[p/_payment|payment]] or recompense.**
+- **[[m/_money|Money]] in [[g/_general|general]], not [[l/_limited|limited]] to [[c/_coins|coins]].**
 	- _Example: She spent some serious coin on that car!_
-- **One of the suits of minor [[a/_arcana|arcana]] in tarot, or a [[c/_card|card]] of that suit.**
-- **A [[c/_corner|corner]] or external [[a/_angle|angle]].**
-- **A small [[c/_circular|circular]] slice of food.**
+- **[[o/_one|One]] of the suits of [[m/_minor|minor]] [[a/_arcana|arcana]] in tarot, or a [[c/_card|card]] of that suit.**
+- **A [[c/_corner|corner]] or [[e/_external|external]] [[a/_angle|angle]].**
+- **A small [[c/_circular|circular]] slice of [[f/_food|food]].**
 - **A cryptocurrency.**
 	- _Example: What's the best coin to buy right now?_
 ---
 ### Synonyms
 - [[c/_chip|chip]], [[m/_money|money]], [[q/_quoin|quoin]], [[w/_wedge|wedge]]
 #verb
-- **To make of a [[d/_definite|definite]] fineness, and [[c/_convert|convert]] into [[c/_coins|coins]], as a mass of metal.**
+- **To [[m/_make|make]] of a [[d/_definite|definite]] [[f/_fineness|fineness]], and [[c/_convert|convert]] [[i/_into|into]] [[c/_coins|coins]], as a [[m/_mass|mass]] of [[m/_metal|metal]].**
 	- _Example: to coin a medal_
-- **(by extension) To make or fabricate.**
+- **(by [[e/_extension|extension]]) To [[m/_make|make]] or [[f/_fabricate|fabricate]].**
 	- _Example: Over the last century the advance in science has led to many new words being coined._
-- **To [[a/_acquire|acquire]] rapidly, as money; to make.**
+- **To [[a/_acquire|acquire]] rapidly, as [[m/_money|money]]; to [[m/_make|make]].**
 ---
 ### Synonyms
 - [[i/_invent|invent]], [[o/_originate|originate]], [[m/_manufacture|manufacture]], [[m/_mint|mint]]

@@ -1,11 +1,11 @@
 # Deepwater
 ---
 #adjective
-- **Having a great [[d/_depth|depth]] of water.**
+- **[[h/_having|Having]] a [[g/_great|great]] [[d/_depth|depth]] of water.**
 	- _Example: a deep-water harbour_
-- **[[c/_carried|Carried]] out at great [[d/_depth|depth]].**
+- **[[c/_carried|Carried]] [[o/_out|out]] at [[g/_great|great]] [[d/_depth|depth]].**
 	- _Example: deep-water drilling_
-- **Located in or near [[d/_deep|deep]] ocean waters.**
+- **[[l/_located|Located]] in or [[n/_near|near]] [[d/_deep|deep]] [[o/_ocean|ocean]] waters.**
 	- _Example: a deep-water port_
 ---
 ---

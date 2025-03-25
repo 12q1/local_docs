@@ -1,6 +1,6 @@
 # Bhajan
 ---
 #noun
-- **A type of Indian [[d/_devotional|devotional]] song.**
+- **A type of [[i/_indian|Indian]] [[d/_devotional|devotional]] song.**
 ---
 ---

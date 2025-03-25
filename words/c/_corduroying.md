@@ -1,6 +1,6 @@
 # Corduroying
 ---
 #verb
-- **To make (a road) by laying [[d/_down|down]] split logs or tree-trunks over a marsh, swamp [[e/_etc|etc]].**
+- **To [[m/_make|make]] (a road) by [[l/_laying|laying]] [[d/_down|down]] split [[l/_logs|logs]] or tree-trunks [[o/_over|over]] a [[m/_marsh|marsh]], swamp [[e/_etc|etc]].**
 ---
 ---

@@ -1,15 +1,15 @@
 # Boding
 ---
 #verb
-- **To indicate by signs, as future events; to be an omen of; to portend or foretell.**
-- **(followed by "well", "ill", "no good", [[e/_etc|etc]].) To [[b/_betoken|betoken]] or [[a/_augur|augur]] something good or [[b/_bad|bad]] that will happen in the future.**
+- **To [[i/_indicate|indicate]] by signs, as [[f/_future|future]] [[e/_events|events]]; to be an [[o/_omen|omen]] of; to portend or [[f/_foretell|foretell]].**
+- **([[f/_followed|followed]] by "well", "[[i/_ill|ill]]", "[[n/_no|no]] [[g/_good|good]]", [[e/_etc|etc]].) To [[b/_betoken|betoken]] or [[a/_augur|augur]] something [[g/_good|good]] or [[b/_bad|bad]] that will [[h/_happen|happen]] in the [[f/_future|future]].**
 ---
 ### Synonyms
 - [[f/_foreshow|foreshow]], [[p/_portend|portend]], [[p/_presage|presage]]
 #noun
-- **An omen, a prediction of [[d/_disaster|disaster]], a portent.**
+- **An [[o/_omen|omen]], a prediction of [[d/_disaster|disaster]], a portent.**
 ---
 #adjective
-- **Portending, ominous.**
+- **Portending, [[o/_ominous|ominous]].**
 ---
 ---

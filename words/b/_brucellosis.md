@@ -1,7 +1,7 @@
 # Brucellosis
 ---
 #noun
-- **Infection by the [[b/_bacterium|bacterium]], [[b/_brucella|Brucella]], which is [[c/_carried|carried]] by ruminants and other mammals. Symptoms include recurring fevers, sweating, weakness, [[a/_anorexia|anorexia]], headaches, [[d/_depression|depression]] and generalized [[a/_aches|aches]] and pains.**
+- **[[i/_infection|Infection]] by the [[b/_bacterium|bacterium]], [[b/_brucella|Brucella]], which is [[c/_carried|carried]] by ruminants and [[o/_other|other]] [[m/_mammals|mammals]]. Symptoms [[i/_include|include]] recurring [[f/_fevers|fevers]], sweating, weakness, [[a/_anorexia|anorexia]], [[h/_headaches|headaches]], [[d/_depression|depression]] and [[g/_generalized|generalized]] [[a/_aches|aches]] and [[p/_pains|pains]].**
 ---
 ### Synonyms
 - 

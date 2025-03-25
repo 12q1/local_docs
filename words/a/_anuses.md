@@ -1,6 +1,6 @@
 # Anuses
 ---
 #noun
-- **The lower orifice of the [[a/_alimentary|alimentary]] [[c/_canal|canal]], through which feces and flatus are [[e/_ejected|ejected]].**
+- **The [[l/_lower|lower]] [[o/_orifice|orifice]] of the [[a/_alimentary|alimentary]] [[c/_canal|canal]], through which [[f/_feces|feces]] and [[f/_flatus|flatus]] are [[e/_ejected|ejected]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Brubru
 ---
 #noun
-- **[[a/_also|Also]] more fully as [[b/_brubru|brubru]] shrike: a [[b/_bird|bird]] in the bushshrike family found in sub-Saharan [[a/_africa|Africa]] (Nilaus [[a/_afer|afer]]).**
+- **[[a/_also|Also]] [[m/_more|more]] [[f/_fully|fully]] as [[b/_brubru|brubru]] shrike: a [[b/_bird|bird]] in the bushshrike [[f/_family|family]] [[f/_found|found]] in sub-Saharan [[a/_africa|Africa]] (Nilaus [[a/_afer|afer]]).**
 ---
 ---

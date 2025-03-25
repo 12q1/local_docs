@@ -4,7 +4,7 @@
 - **[[a/_any|Any]] snake of the subfamily [[c/_colubrinae|Colubrinae]]**
 ---
 #adjective
-- **Snake-like.**
+- **Snake-[[l/_like|like]].**
 - **Relating to snakes.**
 ---
 ---

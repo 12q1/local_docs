@@ -2,6 +2,6 @@
 ---
 #noun
 - **A person who [[a/_avoids|avoids]] waste**
-- **A heat exchange [[d/_device|device]] in a [[b/_boiler|boiler]] that improves [[e/_efficiency|efficiency]] and saves fuel**
+- **A [[h/_heat|heat]] [[e/_exchange|exchange]] [[d/_device|device]] in a [[b/_boiler|boiler]] that [[i/_improves|improves]] [[e/_efficiency|efficiency]] and saves [[f/_fuel|fuel]]**
 ---
 ---

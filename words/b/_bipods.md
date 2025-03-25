@@ -1,6 +1,6 @@
 # Bipods
 ---
 #noun
-- **A two-legged stand.**
+- **A two-[[l/_legged|legged]] stand.**
 ---
 ---

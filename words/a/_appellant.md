@@ -1,11 +1,11 @@
 # Appellant
 ---
 #noun
-- **A litigant or party that is making an [[a/_appeal|appeal]] in [[c/_court|court]]**
+- **A [[l/_litigant|litigant]] or party that is [[m/_making|making]] an [[a/_appeal|appeal]] in [[c/_court|court]]**
 	- _Example: The appellant made her submissions to the court._
-- **One who makes an [[e/_earnest|earnest]] [[e/_entreaty|entreaty]] of [[a/_any|any]] kind.**
-- **One who [[c/_challenges|challenges]] [[a/_another|another]] to single [[c/_combat|combat]].**
-- **One of the [[c/_clergy|clergy]] in the Jansenist [[c/_controversy|controversy]] who rejected the [[b/_bull|bull]] Unigenitus issued in 1713, [[a/_appealing|appealing]] to a pope "[[b/_better|better]] informed", or to a general [[c/_council|council]].**
+- **[[o/_one|One]] who [[m/_makes|makes]] an [[e/_earnest|earnest]] [[e/_entreaty|entreaty]] of [[a/_any|any]] [[k/_kind|kind]].**
+- **[[o/_one|One]] who [[c/_challenges|challenges]] [[a/_another|another]] to single [[c/_combat|combat]].**
+- **[[o/_one|One]] of the [[c/_clergy|clergy]] in the [[j/_jansenist|Jansenist]] [[c/_controversy|controversy]] who rejected the [[b/_bull|bull]] Unigenitus [[i/_issued|issued]] in 1713, [[a/_appealing|appealing]] to a pope "[[b/_better|better]] [[i/_informed|informed]]", or to a [[g/_general|general]] [[c/_council|council]].**
 ---
 ### Synonyms
 - 

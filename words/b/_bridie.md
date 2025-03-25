@@ -1,6 +1,6 @@
 # Bridie
 ---
 #noun
-- **A Scottish meat pastry, similar to a [[c/_cornish|Cornish]] pasty.**
+- **A Scottish [[m/_meat|meat]] pastry, similar to a [[c/_cornish|Cornish]] pasty.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Ars
 ---
 #noun
-- **The name of the Latin-script letter R.**
+- **The [[n/_name|name]] of the [[l/_latin|Latin]]-script [[l/_letter|letter]] R.**
 	- _Example: All the ars in the inscription._
 ---
 ---

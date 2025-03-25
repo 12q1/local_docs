@@ -1,15 +1,15 @@
 # Cluck
 ---
 #noun
-- **The sound made by a hen, [[e/_especially|especially]] when [[b/_brooding|brooding]], or [[c/_calling|calling]] her [[c/_chicks|chicks]].**
+- **The sound [[m/_made|made]] by a [[h/_hen|hen]], [[e/_especially|especially]] when [[b/_brooding|brooding]], or [[c/_calling|calling]] [[h/_her|her]] [[c/_chicks|chicks]].**
 - **[[a/_any|Any]] sound similar to this.**
-- **A kind of tongue [[c/_click|click]] used to urge on a horse.**
+- **A [[k/_kind|kind]] of tongue [[c/_click|click]] used to urge on a [[h/_horse|horse]].**
 ---
 #verb
-- **To make such a sound.**
-- **To [[c/_cause|cause]] (the tongue) to make a [[c/_clicking|clicking]] sound.**
+- **To [[m/_make|make]] such a sound.**
+- **To [[c/_cause|cause]] (the tongue) to [[m/_make|make]] a [[c/_clicking|clicking]] sound.**
 	- _Example: My mother clucked her tongue in disapproval._
-- **To [[c/_call|call]] together, or [[c/_call|call]] to follow, as a hen [[d/_does|does]] her [[c/_chickens|chickens]].**
-- **To suffer withdrawal from heroin.**
+- **To [[c/_call|call]] together, or [[c/_call|call]] to [[f/_follow|follow]], as a [[h/_hen|hen]] [[d/_does|does]] [[h/_her|her]] [[c/_chickens|chickens]].**
+- **To suffer withdrawal from [[h/_heroin|heroin]].**
 ---
 ---

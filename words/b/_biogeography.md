@@ -1,7 +1,7 @@
 # Biogeography
 ---
 #noun
-- **The study of the geographical [[d/_distribution|distribution]] of living things**
-- **The geographical [[d/_distribution|distribution]] of a particular living thing**
+- **The study of the [[g/_geographical|geographical]] [[d/_distribution|distribution]] of [[l/_living|living]] things**
+- **The [[g/_geographical|geographical]] [[d/_distribution|distribution]] of a particular [[l/_living|living]] thing**
 ---
 ---

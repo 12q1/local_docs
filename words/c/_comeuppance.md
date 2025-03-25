@@ -1,7 +1,7 @@
 # Comeuppance
 ---
 #noun
-- **Retribution which is justly [[d/_deserved|deserved]].**
+- **Retribution which is [[j/_justly|justly]] [[d/_deserved|deserved]].**
 ---
 ### Synonyms
 - 

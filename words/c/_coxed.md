@@ -5,6 +5,6 @@
 	- _Example: I coxed the lightweight 4+ yesterday._
 ---
 #adjective
-- **Having a [[c/_cox|cox]]**
+- **[[h/_having|Having]] a [[c/_cox|cox]]**
 ---
 ---

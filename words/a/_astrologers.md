@@ -1,7 +1,7 @@
 # Astrologers
 ---
 #noun
-- **One who studies or practices [[a/_astrology|astrology]].**
+- **[[o/_one|One]] who studies or practices [[a/_astrology|astrology]].**
 ---
 ### Synonyms
 - [[a/_astrologist|astrologist]]

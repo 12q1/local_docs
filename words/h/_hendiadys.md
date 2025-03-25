@@ -1,0 +1,6 @@
+# Hendiadys
+---
+#noun
+- **A [[f/_figure|figure]] of speech used for [[e/_emphasis|emphasis]], where two words [[j/_joined|joined]] by and are used to [[e/_express|express]] a single [[c/_complex|complex]] [[i/_idea|idea]].**
+---
+---

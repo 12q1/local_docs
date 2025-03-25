@@ -1,13 +1,13 @@
 # Demotic
 ---
 #noun
-- **Language as spoken or written by the [[c/_common|common]] people.**
+- **[[l/_language|Language]] as spoken or written by the [[c/_common|common]] people.**
 ---
 #adjective
 - **Of or for the [[c/_common|common]] people.**
 	- _Example: demotic writing style_
-- **Of, relating to, or written in the vulgar form of [[a/_ancient|ancient]] [[e/_egyptian|Egyptian]] hieratic writing, with simplified, [[c/_cursive|cursive]] hieroglyphs.**
-- **Of, relating to, or written in the form of modern vernacular Greek.**
+- **Of, relating to, or written in the vulgar [[f/_form|form]] of [[a/_ancient|ancient]] [[e/_egyptian|Egyptian]] [[h/_hieratic|hieratic]] writing, with simplified, [[c/_cursive|cursive]] hieroglyphs.**
+- **Of, relating to, or written in the [[f/_form|form]] of [[m/_modern|modern]] vernacular [[g/_greek|Greek]].**
 	- _Example: demotic Greek_
 ---
 ### Synonyms

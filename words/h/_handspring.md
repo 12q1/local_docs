@@ -1,0 +1,6 @@
+# Handspring
+---
+#noun
+- **A somersault [[m/_made|made]] with the [[a/_assistance|assistance]] of the [[h/_hands|hands]] placed upon the [[g/_ground|ground]].**
+---
+---

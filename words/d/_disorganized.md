@@ -1,10 +1,10 @@
 # Disorganized
 ---
 #verb
-- **To make less organized; to reduce to [[c/_chaos|chaos]].**
+- **To [[m/_make|make]] [[l/_less|less]] [[o/_organized|organized]]; to reduce to [[c/_chaos|chaos]].**
 	- _Example: The arrival of her new baby would inevitably disorganize her life._
 ---
 #adjective
-- **Lacking order or organization; [[c/_confused|confused]]; [[c/_chaotic|chaotic]].**
+- **[[l/_lacking|Lacking]] [[o/_order|order]] or [[o/_organization|organization]]; [[c/_confused|confused]]; [[c/_chaotic|chaotic]].**
 ---
 ---

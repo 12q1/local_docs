@@ -1,10 +1,10 @@
 # Daffodil
 ---
 #noun
-- **A [[b/_bulbous|bulbous]] plant of the genus Narcissus, with yellow flowers and a trumpet shaped [[c/_corona|corona]], [[e/_especially|especially]] Narcissus pseudonarcissus, the national flower of Wales.**
-- **A [[b/_brilliant|brilliant]] yellow [[c/_color|color]], like that of a [[d/_daffodil|daffodil]].**
+- **A [[b/_bulbous|bulbous]] plant of the [[g/_genus|genus]] [[n/_narcissus|Narcissus]], with [[y/_yellow|yellow]] [[f/_flowers|flowers]] and a trumpet shaped [[c/_corona|corona]], [[e/_especially|especially]] [[n/_narcissus|Narcissus]] pseudonarcissus, the [[n/_national|national]] [[f/_flower|flower]] of Wales.**
+- **A [[b/_brilliant|brilliant]] [[y/_yellow|yellow]] [[c/_color|color]], [[l/_like|like]] that of a [[d/_daffodil|daffodil]].**
 ---
 #adjective
-- **Of a [[b/_brilliant|brilliant]] yellow [[c/_color|color]], like that of a [[d/_daffodil|daffodil]].**
+- **Of a [[b/_brilliant|brilliant]] [[y/_yellow|yellow]] [[c/_color|color]], [[l/_like|like]] that of a [[d/_daffodil|daffodil]].**
 ---
 ---

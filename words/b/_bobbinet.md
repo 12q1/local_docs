@@ -1,6 +1,6 @@
 # Bobbinet
 ---
 #noun
-- **A net fabric, with hexagonal mesh, woven by machine.**
+- **A [[n/_net|net]] [[f/_fabric|fabric]], with [[h/_hexagonal|hexagonal]] [[m/_mesh|mesh]], woven by [[m/_machine|machine]].**
 ---
 ---

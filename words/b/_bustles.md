@@ -1,14 +1,14 @@
 # Bustles
 ---
 #noun
-- **An excited [[a/_activity|activity]]; a stir.**
-- **A [[c/_cover|cover]] to protect and hide the [[b/_back|back]] panel of a [[c/_computer|computer]] or other office machine.**
-- **A frame worn underneath a woman's skirt, typically only protruding from the rear as opposed to the [[e/_earlier|earlier]] more [[c/_circular|circular]] hoops.**
+- **An [[e/_excited|excited]] [[a/_activity|activity]]; a stir.**
+- **A [[c/_cover|cover]] to protect and [[h/_hide|hide]] the [[b/_back|back]] [[p/_panel|panel]] of a [[c/_computer|computer]] or [[o/_other|other]] [[o/_office|office]] [[m/_machine|machine]].**
+- **A [[f/_frame|frame]] worn underneath a woman's skirt, typically [[o/_only|only]] protruding from the rear as [[o/_opposed|opposed]] to the [[e/_earlier|earlier]] [[m/_more|more]] [[c/_circular|circular]] [[h/_hoops|hoops]].**
 ---
 #verb
-- **To move [[b/_busily|busily]] and [[e/_energetically|energetically]] with fussiness (often followed by [[a/_about|about]]).**
+- **To [[m/_move|move]] [[b/_busily|busily]] and [[e/_energetically|energetically]] with [[f/_fussiness|fussiness]] ([[o/_often|often]] [[f/_followed|followed]] by [[a/_about|about]]).**
 	- _Example: The commuters bustled about inside the train station._
-- **To teem or [[a/_abound|abound]] (usually followed by with); to exhibit an [[e/_energetic|energetic]] and [[a/_active|active]] [[a/_abundance|abundance]] (of a thing).**
+- **To teem or [[a/_abound|abound]] (usually [[f/_followed|followed]] by with); to [[e/_exhibit|exhibit]] an [[e/_energetic|energetic]] and [[a/_active|active]] [[a/_abundance|abundance]] (of a thing).**
 	- _Example: The train station was bustling with commuters._
 ---
 ### Synonyms

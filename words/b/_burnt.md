@@ -1,51 +1,51 @@
 # Burnt
 ---
 #verb
-- **To [[c/_cause|cause]] to be [[c/_consumed|consumed]] by fire.**
+- **To [[c/_cause|cause]] to be [[c/_consumed|consumed]] by [[f/_fire|fire]].**
 	- _Example: He burned his manuscript in the fireplace._
-- **To be [[c/_consumed|consumed]] by fire, or in flames.**
+- **To be [[c/_consumed|consumed]] by [[f/_fire|fire]], or in [[f/_flames|flames]].**
 	- _Example: He watched the house burn._
-- **To overheat so as to make unusable.**
+- **To [[o/_overheat|overheat]] so as to [[m/_make|make]] unusable.**
 	- _Example: He burned the toast. The blacksmith burned the steel._
-- **To [[b/_become|become]] overheated to the point of [[b/_being|being]] unusable.**
+- **To [[b/_become|become]] [[o/_overheated|overheated]] to the point of [[b/_being|being]] unusable.**
 	- _Example: The grill was too hot and the steak burned._
-- **To make or produce by the [[a/_application|application]] of fire or [[b/_burning|burning]] heat.**
+- **To [[m/_make|make]] or produce by the [[a/_application|application]] of [[f/_fire|fire]] or [[b/_burning|burning]] [[h/_heat|heat]].**
 	- _Example: to burn a hole;  to burn letters into a block_
-- **To injure (a person or [[a/_animal|animal]]) with heat or [[c/_chemicals|chemicals]] that produce similar [[d/_damage|damage]].**
+- **To [[i/_injure|injure]] (a person or [[a/_animal|animal]]) with [[h/_heat|heat]] or [[c/_chemicals|chemicals]] that produce similar [[d/_damage|damage]].**
 	- _Example: She burned the child with an iron, and was jailed for ten years._
 - **To [[c/_cauterize|cauterize]].**
 - **To sunburn.**
 	- _Example: She forgot to put on sunscreen and burned._
-- **To [[c/_consume|consume]], injure, or [[c/_change|change]] the [[c/_condition|condition]] of, as if by [[a/_action|action]] of fire or heat; to [[a/_affect|affect]] as fire or heat [[d/_does|does]].**
+- **To [[c/_consume|consume]], [[i/_injure|injure]], or [[c/_change|change]] the [[c/_condition|condition]] of, as [[i/_if|if]] by [[a/_action|action]] of [[f/_fire|fire]] or [[h/_heat|heat]]; to [[a/_affect|affect]] as [[f/_fire|fire]] or [[h/_heat|heat]] [[d/_does|does]].**
 	- _Example: to burn the mouth with pepper_
-- **To be hot, [[e/_e|e]].g. [[d/_due|due]] to [[e/_embarrassment|embarrassment]].**
+- **To be [[h/_hot|hot]], [[e/_e|e]].[[g/_g|g]]. [[d/_due|due]] to [[e/_embarrassment|embarrassment]].**
 	- _Example: The child's forehead was burning with fever.  Her cheeks burned with shame._
-- **To [[c/_cause|cause]] to [[c/_combine|combine]] with oxygen or other [[a/_active|active]] [[a/_agent|agent]], with evolution of heat; to [[c/_consume|consume]]; to oxidize.**
+- **To [[c/_cause|cause]] to [[c/_combine|combine]] with [[o/_oxygen|oxygen]] or [[o/_other|other]] [[a/_active|active]] [[a/_agent|agent]], with [[e/_evolution|evolution]] of [[h/_heat|heat]]; to [[c/_consume|consume]]; to [[o/_oxidize|oxidize]].**
 	- _Example: A human being burns a certain amount of carbon at each respiration.  to burn iron in oxygen_
-- **To [[c/_combine|combine]] [[e/_energetically|energetically]], with evolution of heat.**
+- **To [[c/_combine|combine]] [[e/_energetically|energetically]], with [[e/_evolution|evolution]] of [[h/_heat|heat]].**
 	- _Example: Copper burns in chlorine._
-- **To write [[d/_data|data]] to a permanent storage medium like a [[c/_compact|compact]] [[d/_disc|disc]] or a ROM [[c/_chip|chip]].**
+- **To write [[d/_data|data]] to a permanent storage [[m/_medium|medium]] [[l/_like|like]] a [[c/_compact|compact]] [[d/_disc|disc]] or a ROM [[c/_chip|chip]].**
 	- _Example: We’ll burn this program onto an EEPROM one hour before the demo begins._
 - **To [[b/_betray|betray]].**
 	- _Example: The informant burned him._
-- **To insult or [[d/_defeat|defeat]].**
+- **To [[i/_insult|insult]] or [[d/_defeat|defeat]].**
 	- _Example: I just burned you again._
-- **To waste (time); to waste money or other resources.**
+- **To waste (time); to waste [[m/_money|money]] or [[o/_other|other]] resources.**
 	- _Example: The company has burned more than a million dollars a month this year._
-- **In [[c/_certain|certain]] games, to [[a/_approach|approach]] near to a [[c/_concealed|concealed]] object which is sought.**
+- **In [[c/_certain|certain]] [[g/_games|games]], to [[a/_approach|approach]] [[n/_near|near]] to a [[c/_concealed|concealed]] [[o/_object|object]] which is sought.**
 	- _Example: You're cold... warm... hot... you're burning!_
-- **To [[a/_accidentally|accidentally]] touch a moving stone.**
-- **In pontoon, to swap a pair of [[c/_cards|cards]] for [[a/_another|another]] pair, or to [[d/_deal|deal]] a [[d/_dead|dead]] [[c/_card|card]].**
-- **To increase the exposure for [[c/_certain|certain]] [[a/_areas|areas]] of a print in order to make them lighter ([[c/_compare|compare]] [[d/_dodge|dodge]]).**
-- **(of an [[e/_element|element]]) To be [[c/_converted|converted]] to [[a/_another|another]] [[e/_element|element]] in a nuclear fusion reaction, [[e/_especially|especially]] in a star**
+- **To [[a/_accidentally|accidentally]] touch a [[m/_moving|moving]] stone.**
+- **In pontoon, to swap a [[p/_pair|pair]] of [[c/_cards|cards]] for [[a/_another|another]] [[p/_pair|pair]], or to [[d/_deal|deal]] a [[d/_dead|dead]] [[c/_card|card]].**
+- **To [[i/_increase|increase]] the [[e/_exposure|exposure]] for [[c/_certain|certain]] [[a/_areas|areas]] of a print in [[o/_order|order]] to [[m/_make|make]] them [[l/_lighter|lighter]] ([[c/_compare|compare]] [[d/_dodge|dodge]]).**
+- **(of an [[e/_element|element]]) To be [[c/_converted|converted]] to [[a/_another|another]] [[e/_element|element]] in a [[n/_nuclear|nuclear]] [[f/_fusion|fusion]] reaction, [[e/_especially|especially]] in a star**
 - **To [[d/_discard|discard]].**
-- **To shoot someone with a firearm.**
+- **To shoot someone with a [[f/_firearm|firearm]].**
 ---
 #adjective
-- **[[d/_damaged|Damaged]] or injured by fire or heat.**
-- **(of food) [[c/_carbonised|Carbonised]].**
+- **[[d/_damaged|Damaged]] or [[i/_injured|injured]] by [[f/_fire|fire]] or [[h/_heat|heat]].**
+- **(of [[f/_food|food]]) [[c/_carbonised|Carbonised]].**
 	- _Example: The toast was too burnt to eat._
-- **(of a person) Having a sunburn.**
+- **(of a person) [[h/_having|Having]] a sunburn.**
 - **(of a [[c/_colour|colour]]) [[b/_being|Being]] [[d/_darker|darker]] than standard, [[e/_especially|especially]] [[b/_browner|browner]].**
 ---
 ---

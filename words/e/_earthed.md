@@ -9,6 +9,6 @@
 ### Synonyms
 - [[g/_ground|ground]]
 #adjective
-- **Grounded, [[c/_connected|connected]] [[e/_electrically|electrically]] to the ground.**
+- **[[g/_grounded|Grounded]], [[c/_connected|connected]] [[e/_electrically|electrically]] to the [[g/_ground|ground]].**
 ---
 ---

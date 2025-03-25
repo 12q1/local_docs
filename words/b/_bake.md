@@ -1,27 +1,27 @@
 # Bake
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_cooking|cooking]] food by [[b/_baking|baking]].**
+- **The [[a/_act|act]] of [[c/_cooking|cooking]] [[f/_food|food]] by [[b/_baking|baking]].**
 - **[[a/_any|Any]] of various [[b/_baked|baked]] [[d/_dishes|dishes]] resembling [[c/_casserole|casserole]].**
-- **A social event at which food (such as seafood) is [[b/_baked|baked]], or at which [[b/_baked|baked]] food is served.**
-- **([[b/_barbadian|Barbadian]], sometimes US and UK) A small, flat (or [[b/_ball|ball]]-shaped) [[c/_cake|cake]] of [[d/_dough|dough]] [[e/_eaten|eaten]] in [[b/_barbados|Barbados]] and sometimes [[e/_elsewhere|elsewhere]], similar in [[a/_appearance|appearance]] and ingredients to a pancake but fried (or in some places sometimes roasted).**
-- **[[a/_any|Any]] item that is [[b/_baked|baked]].**
+- **A social [[e/_event|event]] at which [[f/_food|food]] (such as seafood) is [[b/_baked|baked]], or at which [[b/_baked|baked]] [[f/_food|food]] is served.**
+- **([[b/_barbadian|Barbadian]], sometimes US and UK) A small, [[f/_flat|flat]] (or [[b/_ball|ball]]-shaped) [[c/_cake|cake]] of [[d/_dough|dough]] [[e/_eaten|eaten]] in [[b/_barbados|Barbados]] and sometimes [[e/_elsewhere|elsewhere]], similar in [[a/_appearance|appearance]] and [[i/_ingredients|ingredients]] to a [[p/_pancake|pancake]] but [[f/_fried|fried]] (or in some places sometimes roasted).**
+- **[[a/_any|Any]] [[i/_item|item]] that is [[b/_baked|baked]].**
 ---
 #verb
-- **(with person as subject) To [[c/_cook|cook]] (something) in an oven.**
+- **(with person as subject) To [[c/_cook|cook]] (something) in an [[o/_oven|oven]].**
 	- _Example: I baked a delicious cherry pie._
-- **(with [[b/_baked|baked]] thing as subject) To be [[c/_cooked|cooked]] in an oven.**
+- **(with [[b/_baked|baked]] thing as subject) To be [[c/_cooked|cooked]] in an [[o/_oven|oven]].**
 	- _Example: The cake baked at 350°F._
-- **To be warmed to [[d/_drying|drying]] and hardening.**
+- **To be warmed to [[d/_drying|drying]] and [[h/_hardening|hardening]].**
 	- _Example: The clay baked in the sun._
-- **To [[d/_dry|dry]] by heat.**
+- **To [[d/_dry|dry]] by [[h/_heat|heat]].**
 	- _Example: They baked the electrical parts lightly to remove moisture._
-- **To be hot.**
+- **To be [[h/_hot|hot]].**
 	- _Example: I'm baking after that workout in the gym._
-- **To [[c/_cause|cause]] to be hot.**
-- **To smoke marijuana.**
-- **To harden by [[c/_cold|cold]].**
-- **To fix (lighting, reflections, [[e/_etc|etc]].) as part of the texture of an object to improve rendering performance.**
-- **(with "in" or "into") To incorporate into something greater.**
+- **To [[c/_cause|cause]] to be [[h/_hot|hot]].**
+- **To smoke [[m/_marijuana|marijuana]].**
+- **To [[h/_harden|harden]] by [[c/_cold|cold]].**
+- **To [[f/_fix|fix]] ([[l/_lighting|lighting]], reflections, [[e/_etc|etc]].) as part of the texture of an [[o/_object|object]] to [[i/_improve|improve]] rendering performance.**
+- **(with "in" or "[[i/_into|into]]") To [[i/_incorporate|incorporate]] [[i/_into|into]] something [[g/_greater|greater]].**
 ---
 ---

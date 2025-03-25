@@ -4,8 +4,8 @@
 - **An [[a/_alkaline|alkaline]] [[b/_battery|battery]].**
 ---
 #adjective
-- **Of, or relating to an [[a/_alkali|alkali]], one of a [[c/_class|class]] of [[c/_caustic|caustic]] [[b/_bases|bases]].**
-- **Having a pH greater than 7.**
+- **Of, or relating to an [[a/_alkali|alkali]], [[o/_one|one]] of a [[c/_class|class]] of [[c/_caustic|caustic]] [[b/_bases|bases]].**
+- **[[h/_having|Having]] a pH [[g/_greater|greater]] than 7.**
 ---
 ### Synonyms
 - [[b/_basic|basic]]

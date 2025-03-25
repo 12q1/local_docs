@@ -1,6 +1,6 @@
 # Demographics
 ---
 #noun
-- **The [[c/_characteristics|characteristics]] of human populations for purposes of social studies.**
+- **The [[c/_characteristics|characteristics]] of [[h/_human|human]] populations for purposes of social studies.**
 ---
 ---

@@ -5,7 +5,7 @@
 ---
 #noun
 - **A [[d/_dear|dear]]; a [[d/_darling|darling]].**
-- **A term of [[a/_address|address]] for a female.**
+- **A term of [[a/_address|address]] for a [[f/_female|female]].**
 	- _Example: Listen, deary: I'd appreciate your not talking about my son like that._
 ---
 ---

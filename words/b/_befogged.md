@@ -1,13 +1,13 @@
 # Befogged
 ---
 #verb
-- **To [[e/_envelop|envelop]] in fog or smoke.**
-- **To [[c/_confuse|confuse]], mystify (a person); to make less [[a/_acute|acute]] or perceptive, to [[c/_cloud|cloud]] (a person’s faculties).**
-- **To obscure, make less [[c/_clear|clear]] (a subject, issue, [[e/_etc|etc]].).**
+- **To [[e/_envelop|envelop]] in [[f/_fog|fog]] or smoke.**
+- **To [[c/_confuse|confuse]], [[m/_mystify|mystify]] (a person); to [[m/_make|make]] [[l/_less|less]] [[a/_acute|acute]] or perceptive, to [[c/_cloud|cloud]] (a person’s [[f/_faculties|faculties]]).**
+- **To [[o/_obscure|obscure]], [[m/_make|make]] [[l/_less|less]] [[c/_clear|clear]] (a subject, [[i/_issue|issue]], [[e/_etc|etc]].).**
 ---
 #adjective
-- **Obscured with fog or smoke, murky.**
-- **[[c/_caught|Caught]] in fog.**
-- **[[c/_confused|Confused]], muddled.**
+- **[[o/_obscured|Obscured]] with [[f/_fog|fog]] or smoke, [[m/_murky|murky]].**
+- **[[c/_caught|Caught]] in [[f/_fog|fog]].**
+- **[[c/_confused|Confused]], [[m/_muddled|muddled]].**
 ---
 ---

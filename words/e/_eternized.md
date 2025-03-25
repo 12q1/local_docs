@@ -1,6 +1,6 @@
 # Eternized
 ---
 #adjective
-- **Immortalized.**
+- **[[i/_immortalized|Immortalized]].**
 ---
 ---

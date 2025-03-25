@@ -1,6 +1,6 @@
 # Dod
 ---
 #noun
-- **Sulk, huff**
+- **Sulk, [[h/_huff|huff]]**
 ---
 ---

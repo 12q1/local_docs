@@ -1,7 +1,7 @@
 # Blurted
 ---
 #verb
-- **To utter suddenly and unadvisedly; to speak quickly or without thought; to [[d/_divulge|divulge]] inconsiderately — [[c/_commonly|commonly]] with out.**
+- **To utter suddenly and unadvisedly; to speak quickly or without thought; to [[d/_divulge|divulge]] [[i/_inconsiderately|inconsiderately]] — [[c/_commonly|commonly]] with [[o/_out|out]].**
 	- _Example: Please think about your reply and don't just blurt out the first thing that comes to mind._
 ---
 ---

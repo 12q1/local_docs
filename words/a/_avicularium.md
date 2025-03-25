@@ -1,6 +1,6 @@
 # Avicularium
 ---
 #noun
-- **A modified zooid, in some [[c/_colonial|colonial]] [[b/_bryozoans|bryozoans]], in the form of a [[b/_beak|beak]], that prevents other organisms from settling on the [[c/_colony|colony]]**
+- **A [[m/_modified|modified]] zooid, in some [[c/_colonial|colonial]] [[b/_bryozoans|bryozoans]], in the [[f/_form|form]] of a [[b/_beak|beak]], that prevents [[o/_other|other]] [[o/_organisms|organisms]] from settling on the [[c/_colony|colony]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Cruelties
 ---
 #noun
-- **An indifference to suffering or pleasure in inflicting suffering.**
+- **An [[i/_indifference|indifference]] to suffering or pleasure in [[i/_inflicting|inflicting]] suffering.**
 - **A [[c/_cruel|cruel]] [[a/_act|act]].**
 ---
 ### Synonyms

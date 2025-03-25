@@ -1,7 +1,7 @@
 # Centesimal
 ---
 #adjective
-- **[[d/_divided|Divided]] into a hundred parts**
-- **[[d/_describing|Describing]] a hundredth part**
+- **[[d/_divided|Divided]] [[i/_into|into]] a [[h/_hundred|hundred]] parts**
+- **[[d/_describing|Describing]] a [[h/_hundredth|hundredth]] part**
 ---
 ---

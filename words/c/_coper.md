@@ -1,6 +1,6 @@
 # Coper
 ---
 #noun
-- **One who [[c/_copes|copes]].**
+- **[[o/_one|One]] who [[c/_copes|copes]].**
 ---
 ---

@@ -1,0 +1,13 @@
+# Gasoline
+---
+#noun
+- **A [[f/_flammable|flammable]] [[l/_liquid|liquid]] [[c/_consisting|consisting]] of a [[m/_mixture|mixture]] of refined petroleum [[h/_hydrocarbons|hydrocarbons]], [[m/_mainly|mainly]] used as a [[m/_motor|motor]] [[f/_fuel|fuel]]; petrol.**
+- **[[a/_any|Any]] specific [[k/_kind|kind]] of [[g/_gasoline|gasoline]].**
+	- _Example: The refinery produces a wide range of gasolines._
+---
+### Synonyms
+- [[g/_gas|gas]], [[p/_petrol|petrol]]
+#adjective
+- **[[m/_made|Made]] from or using [[g/_gasoline|gasoline]].**
+---
+---

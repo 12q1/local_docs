@@ -1,15 +1,15 @@
 # Deems
 ---
 #noun
-- **An opinion, a judgment, a surmise.**
+- **An [[o/_opinion|opinion]], a [[j/_judgment|judgment]], a surmise.**
 ---
 #verb
-- **To judge, to pass judgment on; to [[d/_doom|doom]], to sentence.**
+- **To [[j/_judge|judge]], to pass [[j/_judgment|judgment]] on; to [[d/_doom|doom]], to sentence.**
 - **To [[a/_adjudge|adjudge]], to [[d/_decree|decree]].**
-- **To [[d/_dispense|dispense]] (justice); to [[a/_administer|administer]] (law).**
-- **(ditransitive) To hold in [[b/_belief|belief]] or [[e/_estimation|estimation]]; to [[a/_adjudge|adjudge]] as a [[c/_conclusion|conclusion]]; to regard as [[b/_being|being]]; to evaluate [[a/_according|according]] to one's [[b/_beliefs|beliefs]]; to [[a/_account|account]].**
+- **To [[d/_dispense|dispense]] ([[j/_justice|justice]]); to [[a/_administer|administer]] ([[l/_law|law]]).**
+- **(ditransitive) To [[h/_hold|hold]] in [[b/_belief|belief]] or [[e/_estimation|estimation]]; to [[a/_adjudge|adjudge]] as a [[c/_conclusion|conclusion]]; to regard as [[b/_being|being]]; to [[e/_evaluate|evaluate]] [[a/_according|according]] to [[o/_one|one]]'s [[b/_beliefs|beliefs]]; to [[a/_account|account]].**
 	- _Example: She deemed his efforts insufficient._
-- **To think, judge, or have or hold as an opinion; to [[d/_decide|decide]] or [[b/_believe|believe]] on [[c/_consideration|consideration]]; to suppose.**
+- **To think, [[j/_judge|judge]], or [[h/_have|have]] or [[h/_hold|hold]] as an [[o/_opinion|opinion]]; to [[d/_decide|decide]] or [[b/_believe|believe]] on [[c/_consideration|consideration]]; to suppose.**
 ---
 ### Synonyms
 - [[c/_consider|consider]], [[j/_judge|judge]], [[j/_judge|judge]], [[j/_judge|judge]]

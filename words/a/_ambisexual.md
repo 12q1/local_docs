@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[b/_bisexual|Bisexual]]: [[a/_attracted|attracted]] to persons of [[e/_either|either]] sex.**
-- **Unisex: fit for persons of [[e/_either|either]] sex.**
-- **Of [[a/_ambiguous|ambiguous]] sexual orientation.**
+- **Unisex: [[f/_fit|fit]] for persons of [[e/_either|either]] sex.**
+- **Of [[a/_ambiguous|ambiguous]] sexual [[o/_orientation|orientation]].**
 ---
 ---

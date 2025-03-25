@@ -1,6 +1,6 @@
 # Androcracy
 ---
 #noun
-- **Government or rule by men.**
+- **[[g/_government|Government]] or rule by [[m/_men|men]].**
 ---
 ---

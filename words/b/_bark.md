@@ -1,13 +1,13 @@
 # Bark
 ---
 #noun
-- **The short, loud, explosive sound uttered by a [[d/_dog|dog]], a fox, and some other [[a/_animals|animals]].**
-- **An [[a/_abrupt|abrupt]] loud vocal utterance.**
+- **The short, [[l/_loud|loud]], [[e/_explosive|explosive]] sound uttered by a [[d/_dog|dog]], a [[f/_fox|fox]], and some [[o/_other|other]] [[a/_animals|animals]].**
+- **An [[a/_abrupt|abrupt]] [[l/_loud|loud]] vocal utterance.**
 ---
 #verb
-- **To make a short, loud, explosive noise with the vocal organs (said of [[a/_animals|animals]], [[e/_especially|especially]] [[d/_dogs|dogs]]).**
+- **To [[m/_make|make]] a short, [[l/_loud|loud]], [[e/_explosive|explosive]] [[n/_noise|noise]] with the vocal [[o/_organs|organs]] (said of [[a/_animals|animals]], [[e/_especially|especially]] [[d/_dogs|dogs]]).**
 	- _Example: The neighbour's dog is always barking._
-- **To make a [[c/_clamor|clamor]]; to make importunate outcries.**
+- **To [[m/_make|make]] a [[c/_clamor|clamor]]; to [[m/_make|make]] [[i/_importunate|importunate]] [[o/_outcries|outcries]].**
 - **To speak sharply.**
 	- _Example: The sergeant barked an order._
 ---

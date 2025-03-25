@@ -1,7 +1,7 @@
 # Bitted
 ---
 #verb
-- **To put a [[b/_bridle|bridle]] upon; to put the [[b/_bit|bit]] in the mouth of (a horse).**
+- **To put a [[b/_bridle|bridle]] upon; to put the [[b/_bit|bit]] in the [[m/_mouth|mouth]] of (a [[h/_horse|horse]]).**
 ---
 #verb
 - **To put round the [[b/_bitts|bitts]].**

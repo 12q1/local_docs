@@ -1,6 +1,6 @@
 # Chasmic
 ---
 #adjective
-- **Like a [[c/_chasm|chasm]].**
+- **[[l/_like|Like]] a [[c/_chasm|chasm]].**
 ---
 ---

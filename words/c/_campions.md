@@ -1,7 +1,7 @@
 # Campions
 ---
 #noun
-- **Some flowering plants of the genus Lychnis.**
-- **[[a/_any|Any]] flowering plant of the genus Silene.**
+- **Some [[f/_flowering|flowering]] plants of the [[g/_genus|genus]] [[l/_lychnis|Lychnis]].**
+- **[[a/_any|Any]] [[f/_flowering|flowering]] plant of the [[g/_genus|genus]] Silene.**
 ---
 ---

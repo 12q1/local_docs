@@ -1,6 +1,6 @@
 # Contumely
 ---
 #noun
-- **Offensive and [[a/_abusive|abusive]] language or [[b/_behaviour|behaviour]]; scorn, insult.**
+- **[[o/_offensive|Offensive]] and [[a/_abusive|abusive]] [[l/_language|language]] or [[b/_behaviour|behaviour]]; scorn, [[i/_insult|insult]].**
 ---
 ---

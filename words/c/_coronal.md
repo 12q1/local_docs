@@ -2,15 +2,15 @@
 ---
 #noun
 - **A [[c/_crown|crown]] or [[c/_coronet|coronet]].**
-- **A wreath or garland of flowers.**
-- **The frontal [[b/_bone|bone]], over which the [[a/_ancients|ancients]] wore their [[c/_coronae|coronae]] or garlands.**
+- **A wreath or [[g/_garland|garland]] of [[f/_flowers|flowers]].**
+- **The [[f/_frontal|frontal]] [[b/_bone|bone]], [[o/_over|over]] which the [[a/_ancients|ancients]] wore their [[c/_coronae|coronae]] or [[g/_garlands|garlands]].**
 - **A [[c/_consonant|consonant]] produced with the tip or [[b/_blade|blade]] of the tongue.**
 ---
 #adjective
 - **Relating to a [[c/_crown|crown]] or [[c/_coronation|coronation]].**
 - **Relating to the [[c/_corona|corona]] of a star.**
-- **Relating to the [[c/_corona|corona]] of a flower.**
-- **Relating to a sound made with the tip or [[b/_blade|blade]] of the tongue.**
-- **Relating to the [[c/_coronal|coronal]] plane that [[d/_divides|divides]] a [[b/_body|body]] into [[d/_dorsal|dorsal]] ([[b/_back|back]]) and ventral (front).**
+- **Relating to the [[c/_corona|corona]] of a [[f/_flower|flower]].**
+- **Relating to a sound [[m/_made|made]] with the tip or [[b/_blade|blade]] of the tongue.**
+- **Relating to the [[c/_coronal|coronal]] plane that [[d/_divides|divides]] a [[b/_body|body]] [[i/_into|into]] [[d/_dorsal|dorsal]] ([[b/_back|back]]) and ventral ([[f/_front|front]]).**
 ---
 ---

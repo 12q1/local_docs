@@ -1,6 +1,6 @@
 # Abelia
 ---
 #noun
-- **[[a/_any|Any]] of the various honeysuckles of the genus [[a/_abelia|Abelia]].**
+- **[[a/_any|Any]] of the various [[h/_honeysuckles|honeysuckles]] of the [[g/_genus|genus]] [[a/_abelia|Abelia]].**
 ---
 ---

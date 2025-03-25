@@ -1,6 +1,6 @@
 # Cryolite
 ---
 #noun
-- **The mineral sodium [[a/_aluminium|aluminium]] fluoride (Na3AlF6).**
+- **The [[m/_mineral|mineral]] sodium [[a/_aluminium|aluminium]] [[f/_fluoride|fluoride]] (Na3AlF6).**
 ---
 ---

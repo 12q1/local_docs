@@ -1,12 +1,12 @@
 # Aorist
 ---
 #noun
-- **(grammar) A grammatical [[c/_category|category]] of verbs that is often a perfective past: that is, it expresses perfective [[a/_aspect|aspect]] ([[a/_also|also]] known as [[a/_aorist|aorist]] [[a/_aspect|aspect]]) and past tense. The nearest [[e/_equivalent|equivalent]] in [[e/_english|English]] is the simple past.**
-- **(grammar) This grammatical [[c/_category|category]] in a particular language, for instance, [[a/_albanian|Albanian]] and [[a/_ancient|Ancient]] and Modern Greek.**
-- **(grammar) A particular verb in the [[a/_aorist|aorist]].**
+- **([[g/_grammar|grammar]]) A [[g/_grammatical|grammatical]] [[c/_category|category]] of verbs that is [[o/_often|often]] a perfective past: that is, it [[e/_expresses|expresses]] perfective [[a/_aspect|aspect]] ([[a/_also|also]] [[k/_known|known]] as [[a/_aorist|aorist]] [[a/_aspect|aspect]]) and past tense. The [[n/_nearest|nearest]] [[e/_equivalent|equivalent]] in [[e/_english|English]] is the simple past.**
+- **([[g/_grammar|grammar]]) This [[g/_grammatical|grammatical]] [[c/_category|category]] in a particular [[l/_language|language]], for [[i/_instance|instance]], [[a/_albanian|Albanian]] and [[a/_ancient|Ancient]] and [[m/_modern|Modern]] [[g/_greek|Greek]].**
+- **([[g/_grammar|grammar]]) A particular verb in the [[a/_aorist|aorist]].**
 ---
 #adjective
-- **(grammar) Of or pertaining to a verb in the [[a/_aorist|aorist]] [[a/_aspect|aspect]].**
+- **([[g/_grammar|grammar]]) Of or pertaining to a verb in the [[a/_aorist|aorist]] [[a/_aspect|aspect]].**
 	- _Example: the aorist stem of a verb_
 ---
 ---

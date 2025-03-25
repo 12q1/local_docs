@@ -2,7 +2,7 @@
 ---
 #verb
 - **To pull up by the roots; to uproot.**
-- **To [[d/_destroy|destroy]] [[c/_completely|completely]]; to reduce to nothing radically; to put an [[e/_end|end]] to; to extirpate.**
+- **To [[d/_destroy|destroy]] [[c/_completely|completely]]; to reduce to [[n/_nothing|nothing]] radically; to put an [[e/_end|end]] to; to [[e/_extirpate|extirpate]].**
 	- _Example: Smallpox was globally eradicated in 1980._
 ---
 ### Synonyms
@@ -11,6 +11,6 @@
 - [[r/_radicate|radicate]]
 #adjective
 - **[[e/_eliminated|Eliminated]], utterly [[d/_destroyed|destroyed]]**
-- **Having the roots of a tree visible in the [[e/_emblazon|emblazon]].**
+- **[[h/_having|Having]] the roots of a tree visible in the [[e/_emblazon|emblazon]].**
 ---
 ---

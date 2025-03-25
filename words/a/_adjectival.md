@@ -4,7 +4,7 @@
 - **An [[a/_adjectival|adjectival]] phrase or [[c/_clause|clause]].**
 ---
 #adjective
-- **(grammar) Of or relating to or functioning as an [[a/_adjective|adjective]].**
+- **([[g/_grammar|grammar]]) Of or relating to or [[f/_functioning|functioning]] as an [[a/_adjective|adjective]].**
 	- _Example: adjectival noun_
 - **Of or relating to procedure, [[e/_especially|especially]] to technicalities thereof.**
 ---

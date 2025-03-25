@@ -1,6 +1,6 @@
 # Decomposers
 ---
 #noun
-- **[[a/_any|Any]] organism that feeds off [[d/_decomposing|decomposing]] organic material, [[e/_especially|especially]] such a [[b/_bacterium|bacterium]] or fungus**
+- **[[a/_any|Any]] [[o/_organism|organism]] that [[f/_feeds|feeds]] [[o/_off|off]] [[d/_decomposing|decomposing]] [[o/_organic|organic]] [[m/_material|material]], [[e/_especially|especially]] such a [[b/_bacterium|bacterium]] or [[f/_fungus|fungus]]**
 ---
 ---

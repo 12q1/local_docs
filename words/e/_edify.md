@@ -2,6 +2,6 @@
 ---
 #verb
 - **To [[b/_build|build]], [[c/_construct|construct]].**
-- **To instruct or improve morally or intellectually.**
+- **To [[i/_instruct|instruct]] or [[i/_improve|improve]] [[m/_morally|morally]] or [[i/_intellectually|intellectually]].**
 ---
 ---

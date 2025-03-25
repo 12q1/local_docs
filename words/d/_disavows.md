@@ -1,9 +1,9 @@
 # Disavows
 ---
 #verb
-- **To strongly and solemnly refuse to own or [[a/_acknowledge|acknowledge]]; to [[d/_deny|deny]] responsibility for, [[a/_approbation|approbation]] of, and the like.**
+- **To strongly and solemnly refuse to [[o/_own|own]] or [[a/_acknowledge|acknowledge]]; to [[d/_deny|deny]] responsibility for, [[a/_approbation|approbation]] of, and the [[l/_like|like]].**
 	- _Example: He was charged with embezzlement, but he disavows the crime._
-- **To [[d/_deny|deny]]; to show the [[c/_contrary|contrary]] of; to [[d/_deny|deny]] legitimacy or [[a/_achievement|achievement]] of [[a/_any|any]] kind.**
+- **To [[d/_deny|deny]]; to show the [[c/_contrary|contrary]] of; to [[d/_deny|deny]] [[l/_legitimacy|legitimacy]] or [[a/_achievement|achievement]] of [[a/_any|any]] [[k/_kind|kind]].**
 	- _Example: Because of her dissatisfaction, she now disavows the merits of fascism._
 ---
 ### Synonyms

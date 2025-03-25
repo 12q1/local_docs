@@ -1,8 +1,8 @@
 # Denominators
 ---
 #noun
-- **The number or expression written [[b/_below|below]] the line in a fraction (such as 2 in ½).**
-- **One who gives a name to something.**
+- **The [[n/_number|number]] or [[e/_expression|expression]] written [[b/_below|below]] the [[l/_line|line]] in a [[f/_fraction|fraction]] (such as 2 in ½).**
+- **[[o/_one|One]] who [[g/_gives|gives]] a [[n/_name|name]] to something.**
 ---
 ### Antonyms
 - [[n/_numerator|numerator]]

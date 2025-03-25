@@ -1,0 +1,48 @@
+# Loading
+---
+#verb
+- **To put a [[l/_load|load]] on or in (a [[m/_means|means]] of [[c/_conveyance|conveyance]] or a place of storage).**
+	- _Example: The dock workers refused to load the ship._
+- **To place in or on a [[c/_conveyance|conveyance]] or a place of storage.**
+	- _Example: He loaded his stuff into his storage locker._
+- **To put a [[l/_load|load]] on something.**
+	- _Example: The truck was supposed to leave at dawn, but in fact we spent all morning loading._
+- **To receive a [[l/_load|load]].**
+	- _Example: The truck is designed to load easily._
+- **To be placed [[i/_into|into]] storage or [[c/_conveyance|conveyance]].**
+	- _Example: The containers load quickly and easily._
+- **To [[f/_fill|fill]] (a [[f/_firearm|firearm]] or [[a/_artillery|artillery]]) with [[m/_munition|munition]].**
+	- _Example: I pulled the trigger, but nothing happened. I had forgotten to load the gun._
+- **To [[i/_insert|insert]] (an [[i/_item|item]] or [[i/_items|items]]) [[i/_into|into]] an [[a/_apparatus|apparatus]] so as to ready it for [[o/_operation|operation]], such as a reel of [[f/_film|film]] [[i/_into|into]] a [[c/_camera|camera]], sheets of paper [[i/_into|into]] a printer [[e/_etc|etc]].**
+	- _Example: Now that you've loaded the camera [with film], you're ready to start shooting._
+- **To [[f/_fill|fill]] (an [[a/_apparatus|apparatus]]) with raw [[m/_material|material]].**
+	- _Example: The workers loaded the blast furnace with coke and ore._
+- **To be put [[i/_into|into]] use in an [[a/_apparatus|apparatus]].**
+	- _Example: The cartridge was designed to load easily._
+- **To read ([[d/_data|data]] or a program) from a storage [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
+	- _Example: Click OK to load the selected data._
+- **To transfer from a storage [[m/_medium|medium]] [[i/_into|into]] [[c/_computer|computer]] [[m/_memory|memory]].**
+	- _Example: This program takes an age to load._
+- **To put runners on [[f/_first|first]], second and third [[b/_bases|bases]]**
+	- _Example: He walks to load the bases._
+- **To tamper with so as to produce a [[b/_biased|biased]] [[o/_outcome|outcome]].**
+	- _Example: The wording of the ballot paper loaded the vote in favour of the Conservative candidate._
+- **To [[a/_ask|ask]] or [[a/_adapt|adapt]] a question so that it will be [[m/_more|more]] [[l/_likely|likely]] to be [[a/_answered|answered]] in a [[c/_certain|certain]] way.**
+- **To [[e/_encumber|encumber]] with something [[n/_negative|negative]], to place as an [[e/_encumbrance|encumbrance]].**
+	- _Example: The new owners had loaded the company with debt._
+- **To provide in [[a/_abundance|abundance]].**
+	- _Example: He loaded carbs into his system before the marathon._
+- **To weight (a [[c/_cane|cane]], whip, [[e/_etc|etc]].) with [[l/_lead|lead]] or similar.**
+- **To [[a/_adulterate|adulterate]] or [[d/_drug|drug]].**
+	- _Example: to load wine_
+- **To [[m/_magnetize|magnetize]].**
+---
+#noun
+- **The process by which something is [[l/_loaded|loaded]].**
+	- _Example: The loading of hazardous cargoes is not permitted._
+- **A [[l/_load|load]], [[e/_especially|especially]] in the [[e/_engineering|engineering]] and [[e/_electrical|electrical]] [[e/_engineering|engineering]] senses of [[f/_force|force]] [[e/_exerted|exerted]], or [[e/_electrical|electrical]] [[c/_current|current]] or power supplied.**
+	- _Example: I need to recheck the loadings on the external walls._
+- **([[i/_industrial|industrial]] relations) A [[h/_hourly|hourly]] [[p/_pay|pay]] rate [[g/_given|given]] to a [[c/_casual|casual]] [[e/_employee|employee]] which is [[h/_higher|higher]] than the [[e/_equivalent|equivalent]] [[f/_full|full]]-time or part-time [[e/_employee|employee]]'s rate, usually [[p/_paid|paid]] to [[c/_compensate|compensate]] for a [[l/_lack|lack]] of [[b/_benefits|benefits]] such as sick [[l/_leave|leave]] or [[a/_annual|annual]] [[l/_leave|leave]].**
+- **A weighting or [[b/_bias|bias]].**
+---
+---

@@ -1,10 +1,10 @@
 # Climates
 ---
 #noun
-- **An [[a/_area|area]] of the [[e/_earth|earth]]'s surface [[b/_between|between]] two parallels of latitude.**
+- **An [[a/_area|area]] of the [[e/_earth|earth]]'s surface [[b/_between|between]] two parallels of [[l/_latitude|latitude]].**
 - **A region of the [[e/_earth|Earth]].**
-- **The long-term manifestations of weather and other [[a/_atmospheric|atmospheric]] [[c/_conditions|conditions]] in a given [[a/_area|area]] or [[c/_country|country]], now usually represented by the statistical summary of its weather [[c/_conditions|conditions]] [[d/_during|during]] a period long [[e/_enough|enough]] to [[e/_ensure|ensure]] that representative values are obtained (generally 30 years).**
-- **The [[c/_context|context]] in general of a particular political, moral [[e/_etc|etc]]. situation.**
+- **The [[l/_long|long]]-term [[m/_manifestations|manifestations]] of weather and [[o/_other|other]] [[a/_atmospheric|atmospheric]] [[c/_conditions|conditions]] in a [[g/_given|given]] [[a/_area|area]] or [[c/_country|country]], [[n/_now|now]] usually represented by the statistical summary of [[i/_its|its]] weather [[c/_conditions|conditions]] [[d/_during|during]] a period [[l/_long|long]] [[e/_enough|enough]] to [[e/_ensure|ensure]] that representative values are [[o/_obtained|obtained]] ([[g/_generally|generally]] 30 [[y/_years|years]]).**
+- **The [[c/_context|context]] in [[g/_general|general]] of a particular political, [[m/_moral|moral]] [[e/_etc|etc]]. situation.**
 	- _Example: Industries that require a lot of fossil fuels are unlikely to be popular in the current political climate._
 ---
 ---

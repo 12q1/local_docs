@@ -1,12 +1,12 @@
 # Banning
 ---
 #verb
-- **To summon; to [[c/_call|call]] out.**
+- **To summon; to [[c/_call|call]] [[o/_out|out]].**
 - **To [[a/_anathematize|anathematize]]; to pronounce an [[e/_ecclesiastical|ecclesiastical]] [[c/_curse|curse]] upon; to place under a [[b/_ban|ban]].**
-- **To [[c/_curse|curse]]; to execrate.**
-- **To prohibit; to interdict; to proscribe; to forbid or [[b/_block|block]] from participation.**
+- **To [[c/_curse|curse]]; to [[e/_execrate|execrate]].**
+- **To prohibit; to [[i/_interdict|interdict]]; to proscribe; to [[f/_forbid|forbid]] or [[b/_block|block]] from participation.**
 	- _Example: Bare feet are banned in this establishment._
-- **To [[c/_curse|curse]]; to utter [[c/_curses|curses]] or maledictions.**
+- **To [[c/_curse|curse]]; to utter [[c/_curses|curses]] or [[m/_maledictions|maledictions]].**
 ---
 ### Synonyms
 - [[d/_disallow|disallow]], [[f/_forbid|forbid]], [[p/_prohibit|prohibit]]

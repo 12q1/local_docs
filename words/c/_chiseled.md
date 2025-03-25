@@ -4,10 +4,10 @@
 - **To use a [[c/_chisel|chisel]].**
 - **To work something with a [[c/_chisel|chisel]].**
 	- _Example: She chiselled a sculpture out of the block of wood._
-- **To [[c/_cheat|cheat]], to get something by [[c/_cheating|cheating]].**
+- **To [[c/_cheat|cheat]], to [[g/_get|get]] something by [[c/_cheating|cheating]].**
 ---
 #adjective
-- **Having strongly [[d/_defined|defined]] facial features.**
-- **(of a physique) Having well-[[d/_developed|developed]] muscles with minimal bodyfat.**
+- **[[h/_having|Having]] strongly [[d/_defined|defined]] [[f/_facial|facial]] [[f/_features|features]].**
+- **(of a physique) [[h/_having|Having]] well-[[d/_developed|developed]] [[m/_muscles|muscles]] with [[m/_minimal|minimal]] bodyfat.**
 ---
 ---

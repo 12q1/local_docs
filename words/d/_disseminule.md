@@ -1,6 +1,6 @@
 # Disseminule
 ---
 #noun
-- **A seed fruit that has [[b/_been|been]] modified for migration.**
+- **A seed [[f/_fruit|fruit]] that [[h/_has|has]] [[b/_been|been]] [[m/_modified|modified]] for [[m/_migration|migration]].**
 ---
 ---

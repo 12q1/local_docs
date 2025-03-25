@@ -1,10 +1,10 @@
 # Calypsos
 ---
 #noun
-- **A type of music and [[d/_dance|dance]] that originated in the West Indies (perhaps Trinidad), [[c/_characterized|characterized]] by improvised lyrics on topical or [[b/_broadly|broadly]] humorous subjects, often [[c/_creating|creating]] satire of [[c/_current|current]] events.**
+- **A type of [[m/_music|music]] and [[d/_dance|dance]] that [[o/_originated|originated]] in the West [[i/_indies|Indies]] (perhaps Trinidad), [[c/_characterized|characterized]] by [[i/_improvised|improvised]] [[l/_lyrics|lyrics]] on topical or [[b/_broadly|broadly]] [[h/_humorous|humorous]] subjects, [[o/_often|often]] [[c/_creating|creating]] satire of [[c/_current|current]] [[e/_events|events]].**
 ---
 #noun
-- **A [[b/_bulbous|bulbous]] [[b/_bog|bog]] orchid of the genus [[c/_calypso|Calypso]], [[c/_calypso|Calypso]] bulbosa**
-- **A light [[b/_blue|blue]] [[c/_color|color]].**
+- **A [[b/_bulbous|bulbous]] [[b/_bog|bog]] [[o/_orchid|orchid]] of the [[g/_genus|genus]] [[c/_calypso|Calypso]], [[c/_calypso|Calypso]] bulbosa**
+- **A [[l/_light|light]] [[b/_blue|blue]] [[c/_color|color]].**
 ---
 ---

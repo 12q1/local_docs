@@ -1,6 +1,6 @@
 # Chi
 ---
 #noun
-- **The twenty-second letter of the [[c/_classical|Classical]] and Modern Greek [[a/_alphabets|alphabets]].**
+- **The twenty-second [[l/_letter|letter]] of the [[c/_classical|Classical]] and [[m/_modern|Modern]] [[g/_greek|Greek]] [[a/_alphabets|alphabets]].**
 ---
 ---

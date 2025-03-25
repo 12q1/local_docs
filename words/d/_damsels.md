@@ -1,10 +1,10 @@
 # Damsels
 ---
 #noun
-- **A young woman (of noble [[b/_birth|birth]]).**
-- **A girl; a maiden (without sexual experience).**
-- **A young woman who is not married.**
-- **An unmarried lady-in-waiting.**
-- **A [[c/_chattering|chattering]] [[d/_damsel|damsel]] ([[c/_component|component]] of a mill).**
+- **A [[y/_young|young]] woman (of [[n/_noble|noble]] [[b/_birth|birth]]).**
+- **A [[g/_girl|girl]]; a [[m/_maiden|maiden]] (without sexual [[e/_experience|experience]]).**
+- **A [[y/_young|young]] woman who is not [[m/_married|married]].**
+- **An unmarried [[l/_lady|lady]]-in-waiting.**
+- **A [[c/_chattering|chattering]] [[d/_damsel|damsel]] ([[c/_component|component]] of a [[m/_mill|mill]]).**
 ---
 ---

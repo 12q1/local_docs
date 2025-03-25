@@ -9,6 +9,6 @@
 ### Antonyms
 - [[c/_cover|cover]], [[h/_hide|hide]]
 #noun
-- **The [[a/_act|act]] by which something is laid [[b/_bare|bare]].**
+- **The [[a/_act|act]] by which something is [[l/_laid|laid]] [[b/_bare|bare]].**
 ---
 ---

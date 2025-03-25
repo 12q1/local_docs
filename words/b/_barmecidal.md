@@ -1,7 +1,7 @@
 # Barmecidal
 ---
 #adjective
-- **Unreal; illusory**
+- **Unreal; [[i/_illusory|illusory]]**
 	- _Example: a barmecidal meal_
 ---
 ---

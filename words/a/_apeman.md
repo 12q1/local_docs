@@ -1,6 +1,6 @@
 # Apeman
 ---
 #noun
-- **A prehistoric man resembling an [[a/_ape|ape]].**
+- **A prehistoric [[m/_man|man]] resembling an [[a/_ape|ape]].**
 ---
 ---

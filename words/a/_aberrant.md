@@ -1,15 +1,15 @@
 # Aberrant
 ---
 #noun
-- **A person or object that [[d/_deviates|deviates]] from the rest of a group.**
-- **A group, individual, or structure that [[d/_deviates|deviates]] from the usual or natural type, [[e/_especially|especially]] with an [[a/_atypical|atypical]] [[c/_chromosome|chromosome]] number.**
+- **A person or [[o/_object|object]] that [[d/_deviates|deviates]] from the rest of a [[g/_group|group]].**
+- **A [[g/_group|group]], [[i/_individual|individual]], or structure that [[d/_deviates|deviates]] from the usual or [[n/_natural|natural]] type, [[e/_especially|especially]] with an [[a/_atypical|atypical]] [[c/_chromosome|chromosome]] [[n/_number|number]].**
 ---
 ### Synonyms
 - [[d/_deviant|deviant]], [[f/_freak|freak]]
 #adjective
-- **[[d/_differing|Differing]] from the norm.**
-- **(sometimes figurative) Straying from the right way; [[d/_deviating|deviating]] from morality or truth.**
-- **[[d/_deviating|Deviating]] from the ordinary or natural type; exceptional; [[a/_abnormal|abnormal]].**
+- **[[d/_differing|Differing]] from the [[n/_norm|norm]].**
+- **(sometimes [[f/_figurative|figurative]]) Straying from the right way; [[d/_deviating|deviating]] from [[m/_morality|morality]] or truth.**
+- **[[d/_deviating|Deviating]] from the [[o/_ordinary|ordinary]] or [[n/_natural|natural]] type; [[e/_exceptional|exceptional]]; [[a/_abnormal|abnormal]].**
 ---
 ### Synonyms
 - [[a/_abnormal|abnormal]], [[e/_exceptional|exceptional]], [[u/_unusual|unusual]], [[d/_devious|devious]], [[e/_errant|errant]], [[i/_immoral|immoral]]

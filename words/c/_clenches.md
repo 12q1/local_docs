@@ -1,7 +1,7 @@
 # Clenches
 ---
 #verb
-- **To grip or hold fast.**
+- **To [[g/_grip|grip]] or [[h/_hold|hold]] [[f/_fast|fast]].**
 - **To [[c/_close|close]] tightly.**
 	- _Example: He clenched his fist in anger._
 ---

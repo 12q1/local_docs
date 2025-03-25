@@ -1,7 +1,7 @@
 # Assented
 ---
 #verb
-- **To [[a/_agree|agree]]; to give [[a/_approval|approval]].**
+- **To [[a/_agree|agree]]; to [[g/_give|give]] [[a/_approval|approval]].**
 - **To [[a/_admit|admit]] a thing as true.**
 ---
 ### Synonyms

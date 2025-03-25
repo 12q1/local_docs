@@ -1,7 +1,7 @@
 # Colossal
 ---
 #adjective
-- **Extremely large or on a great scale.**
+- **[[e/_extremely|Extremely]] [[l/_large|large]] or on a [[g/_great|great]] scale.**
 	- _Example: A single puppy can make a colossal mess._
 ---
 ### Synonyms

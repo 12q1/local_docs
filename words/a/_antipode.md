@@ -1,6 +1,6 @@
 # Antipode
 ---
 #noun
-- **Something [[d/_directly|directly]] opposite or [[d/_diametrically|diametrically]] opposed.**
+- **Something [[d/_directly|directly]] [[o/_opposite|opposite]] or [[d/_diametrically|diametrically]] [[o/_opposed|opposed]].**
 ---
 ---

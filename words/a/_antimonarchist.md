@@ -1,9 +1,9 @@
 # Antimonarchist
 ---
 #noun
-- **One who is opposed to monarchy.**
+- **[[o/_one|One]] who is [[o/_opposed|opposed]] to [[m/_monarchy|monarchy]].**
 ---
 #adjective
-- **Opposed to monarchy.**
+- **[[o/_opposed|Opposed]] to [[m/_monarchy|monarchy]].**
 ---
 ---

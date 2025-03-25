@@ -1,18 +1,18 @@
 # Commoner
 ---
 #adjective
-- **Mutual; shared by more than one.**
+- **[[m/_mutual|Mutual]]; shared by [[m/_more|more]] than [[o/_one|one]].**
 	- _Example: The two competitors have the common aim of winning the championship._
-- **Occurring or happening regularly or frequently; usual.**
+- **[[o/_occurring|Occurring]] or [[h/_happening|happening]] regularly or [[f/_frequently|frequently]]; usual.**
 	- _Example: It is common to find sharks off this coast._
-- **Found in large numbers or in a large quantity; usual.**
+- **[[f/_found|Found]] in [[l/_large|large]] [[n/_numbers|numbers]] or in a [[l/_large|large]] quantity; usual.**
 	- _Example: It differs from the common blackbird in the size of its beak._
-- **Simple, ordinary or vulgar.**
-- **(grammar) In some languages, particularly Germanic languages, of the gender originating from the [[c/_coalescence|coalescence]] of the masculine and feminine [[c/_categories|categories]] of nouns.**
-- **(grammar) Of or pertaining to [[c/_common|common]] nouns as opposed to proper nouns.**
-- **Vernacular, referring to the name of a kind of plant or [[a/_animal|animal]], i.[[e/_e|e]]., [[c/_common|common]] name vs. scientific name.**
+- **Simple, [[o/_ordinary|ordinary]] or vulgar.**
+- **([[g/_grammar|grammar]]) In some [[l/_languages|languages]], particularly [[g/_germanic|Germanic]] [[l/_languages|languages]], of the [[g/_gender|gender]] [[o/_originating|originating]] from the [[c/_coalescence|coalescence]] of the [[m/_masculine|masculine]] and [[f/_feminine|feminine]] [[c/_categories|categories]] of [[n/_nouns|nouns]].**
+- **([[g/_grammar|grammar]]) Of or pertaining to [[c/_common|common]] [[n/_nouns|nouns]] as [[o/_opposed|opposed]] to proper [[n/_nouns|nouns]].**
+- **Vernacular, referring to the [[n/_name|name]] of a [[k/_kind|kind]] of plant or [[a/_animal|animal]], [[i/_i|i]].[[e/_e|e]]., [[c/_common|common]] [[n/_name|name]] vs. scientific [[n/_name|name]].**
 - **Profane; polluted.**
-- **Given to lewd habits; prostitute.**
+- **[[g/_given|Given]] to [[l/_lewd|lewd]] [[h/_habits|habits]]; prostitute.**
 ---
 ### Synonyms
 - [[a/_appellative|appellative]], [[e/_epicene|epicene]], [[m/_mutual|mutual]], [[s/_shared|shared]], [[w/_widespread|widespread]], [[c/_common-or-garden|common-or-garden]], [[e/_everyday|everyday]], [[n/_normal|normal]], [[o/_ordinary|ordinary]], [[s/_standard|standard]], [[u/_usual|usual]]

@@ -1,9 +1,9 @@
 # Boulders
 ---
 #noun
-- **A large mass of stone [[d/_detached|detached]] from the surrounding land.**
-- **A particle greater than 256 mm in [[d/_diameter|diameter]], following the Wentworth scale**
-- **A large marble, in [[c/_children|children]]'s games.**
-- **A session of [[b/_bouldering|bouldering]]; involvement in [[b/_bouldering|bouldering]].**
+- **A [[l/_large|large]] [[m/_mass|mass]] of stone [[d/_detached|detached]] from the surrounding [[l/_land|land]].**
+- **A particle [[g/_greater|greater]] than 256 [[m/_mm|mm]] in [[d/_diameter|diameter]], [[f/_following|following]] the Wentworth scale**
+- **A [[l/_large|large]] [[m/_marble|marble]], in [[c/_children|children]]'s [[g/_games|games]].**
+- **A session of [[b/_bouldering|bouldering]]; [[i/_involvement|involvement]] in [[b/_bouldering|bouldering]].**
 ---
 ---

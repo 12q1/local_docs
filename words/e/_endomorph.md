@@ -1,8 +1,8 @@
 # Endomorph
 ---
 #noun
-- **A mineral, [[e/_especially|especially]] a [[c/_crystal|crystal]], [[e/_enclosed|enclosed]] within [[a/_another|another]]**
-- **A person of the [[e/_endomorphic|endomorphic]] physical type, [[c/_characterised|characterised]] by [[b/_big|big]] [[b/_bones|bones]], round face, large trunk and thighs and a naturally high [[d/_degree|degree]] of [[b/_body|body]] fat, [[e/_especially|especially]] [[a/_around|around]] the midsection.**
-- **A person having a theoretical [[b/_body|body]] type with slow metabolism in which weight is gained [[e/_easily|easily]], but fat levels are hard to reduce. [[e/_endomorphic|Endomorphic]] [[b/_bodybuilders|bodybuilders]] tend to be the most massive.**
+- **A [[m/_mineral|mineral]], [[e/_especially|especially]] a [[c/_crystal|crystal]], [[e/_enclosed|enclosed]] within [[a/_another|another]]**
+- **A person of the [[e/_endomorphic|endomorphic]] physical type, [[c/_characterised|characterised]] by [[b/_big|big]] [[b/_bones|bones]], round [[f/_face|face]], [[l/_large|large]] trunk and thighs and a [[n/_naturally|naturally]] [[h/_high|high]] [[d/_degree|degree]] of [[b/_body|body]] [[f/_fat|fat]], [[e/_especially|especially]] [[a/_around|around]] the [[m/_midsection|midsection]].**
+- **A person [[h/_having|having]] a theoretical [[b/_body|body]] type with slow [[m/_metabolism|metabolism]] in which weight is [[g/_gained|gained]] [[e/_easily|easily]], but [[f/_fat|fat]] [[l/_levels|levels]] are [[h/_hard|hard]] to reduce. [[e/_endomorphic|Endomorphic]] [[b/_bodybuilders|bodybuilders]] tend to be the [[m/_most|most]] [[m/_massive|massive]].**
 ---
 ---

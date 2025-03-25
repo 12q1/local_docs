@@ -1,6 +1,6 @@
 # Disparager
 ---
 #noun
-- **One who [[d/_disparages|disparages]].**
+- **[[o/_one|One]] who [[d/_disparages|disparages]].**
 ---
 ---

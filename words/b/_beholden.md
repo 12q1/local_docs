@@ -1,8 +1,8 @@
 # Beholden
 ---
 #adjective
-- **Obligated to provide, [[d/_display|display]], or [[d/_do|do]] something for [[a/_another|another]]; indebted, obliged.**
+- **[[o/_obligated|Obligated]] to provide, [[d/_display|display]], or [[d/_do|do]] something for [[a/_another|another]]; [[i/_indebted|indebted]], [[o/_obliged|obliged]].**
 	- _Example: From an early age, I had decided I wanted to be beholden to no one._
-- **[[b/_bound|Bound]] by external expectations, such as fashion or morality.**
+- **[[b/_bound|Bound]] by [[e/_external|external]] [[e/_expectations|expectations]], such as [[f/_fashion|fashion]] or [[m/_morality|morality]].**
 ---
 ---

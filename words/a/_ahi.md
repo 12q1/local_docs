@@ -1,6 +1,6 @@
 # Ahi
 ---
 #noun
-- **Yellowfin tuna**
+- **[[y/_yellowfin|Yellowfin]] tuna**
 ---
 ---

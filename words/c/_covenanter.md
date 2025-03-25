@@ -1,6 +1,6 @@
 # Covenanter
 ---
 #noun
-- **One who makes a [[c/_covenant|covenant]].**
+- **[[o/_one|One]] who [[m/_makes|makes]] a [[c/_covenant|covenant]].**
 ---
 ---

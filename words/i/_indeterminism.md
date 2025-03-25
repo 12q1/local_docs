@@ -1,0 +1,13 @@
+# Indeterminism
+---
+#noun
+- **The [[d/_doctrine|doctrine]] that [[a/_all|all]] [[h/_human|human]] [[a/_actions|actions]] are not so [[m/_much|much]] [[d/_determined|determined]] by the preceding [[e/_events|events]], [[c/_conditions|conditions]], [[c/_causes|causes]] or [[k/_karma|karma]] as by [[d/_deliberate|deliberate]] [[c/_choice|choice]] or [[f/_free|free]] will.**
+- **A [[c/_case|case]] in which the uncertainty principle [[a/_applies|applies]]; a [[c/_case|case]] in which [[c/_certain|certain]] [[p/_pairs|pairs]] of physical properties such as the position and [[m/_momentum|momentum]] of a particle [[c/_cannot|cannot]] be [[k/_known|known]] simultaneously.**
+- **[[a/_any|Any]] situation in which the [[o/_outcome|outcome]] [[c/_cannot|cannot]] be [[c/_completely|completely]] predicted in [[a/_advance|advance]].**
+- **A situation in which there are [[m/_multiple|multiple]] valid [[o/_options|options]] for [[n/_next|next]] step in a process.**
+---
+### Synonyms
+- [[l/_libertarianism|libertarianism]]
+### Antonyms
+- [[d/_determinism|determinism]], [[f/_fatalism|fatalism]], [[p/_predeterminism|predeterminism]], [[u/_uncertainty|uncertainty]]
+---

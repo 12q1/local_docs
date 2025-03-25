@@ -2,13 +2,13 @@
 ---
 #noun
 - **A [[d/_document|document]] [[c/_containing|containing]] a [[c/_certified|certified]] statement.**
-- **A [[d/_document|document]] evidencing ownership or [[d/_debt|debt]].**
-- **A [[d/_document|document]] serving as evidence as a person has [[c/_completed|completed]] an [[e/_educational|educational]] [[c/_course|course]], issued [[e/_either|either]] by an institution not [[a/_authorised|authorised]] to grant [[d/_diplomas|diplomas]], or to a student not qualifying for a [[d/_diploma|diploma]].**
-- **The information needed in order to verify a positive [[a/_answer|answer]] to a problem.**
-- **A motion picture [[a/_age|age]] rating.**
+- **A [[d/_document|document]] [[e/_evidencing|evidencing]] [[o/_ownership|ownership]] or [[d/_debt|debt]].**
+- **A [[d/_document|document]] serving as [[e/_evidence|evidence]] as a person [[h/_has|has]] [[c/_completed|completed]] an [[e/_educational|educational]] [[c/_course|course]], [[i/_issued|issued]] [[e/_either|either]] by an [[i/_institution|institution]] not [[a/_authorised|authorised]] to [[g/_grant|grant]] [[d/_diplomas|diplomas]], or to a student not qualifying for a [[d/_diploma|diploma]].**
+- **The [[i/_information|information]] [[n/_needed|needed]] in [[o/_order|order]] to verify a positive [[a/_answer|answer]] to a problem.**
+- **A [[m/_motion|motion]] picture [[a/_age|age]] rating.**
 	- _Example: The film is certificate 15._
 ---
 #verb
-- **To supply with a [[c/_certificate|certificate]], [[e/_especially|especially]] following [[c/_certification|certification]]**
+- **To supply with a [[c/_certificate|certificate]], [[e/_especially|especially]] [[f/_following|following]] [[c/_certification|certification]]**
 ---
 ---

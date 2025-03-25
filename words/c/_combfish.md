@@ -1,6 +1,6 @@
 # Combfish
 ---
 #noun
-- **An [[a/_australasian|Australasian]] wrasse, Coris picta, having a [[c/_comb|comb]]-like stripe**
+- **An [[a/_australasian|Australasian]] wrasse, Coris picta, [[h/_having|having]] a [[c/_comb|comb]]-[[l/_like|like]] stripe**
 ---
 ---

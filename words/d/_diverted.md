@@ -11,6 +11,6 @@
 ### Synonyms
 - [[o/_offlead|offlead]]
 #adjective
-- **That has [[b/_been|been]] subject to [[d/_diversion|diversion]]**
+- **That [[h/_has|has]] [[b/_been|been]] subject to [[d/_diversion|diversion]]**
 ---
 ---

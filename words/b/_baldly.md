@@ -1,6 +1,6 @@
 # Baldly
 ---
 #adverb
-- **In a [[b/_bald|bald]] manner.**
+- **In a [[b/_bald|bald]] [[m/_manner|manner]].**
 ---
 ---

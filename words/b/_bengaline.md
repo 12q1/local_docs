@@ -1,6 +1,6 @@
 # Bengaline
 ---
 #noun
-- **A fabric made from silk and worsted; poplin.**
+- **A [[f/_fabric|fabric]] [[m/_made|made]] from silk and worsted; poplin.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Essentialism
 ---
 #noun
-- **The view that objects have properties that are [[e/_essential|essential]] to them.**
-- **The view that [[a/_all|all]] members of [[c/_certain|certain]] groups of people (such as those with the same race, gender, [[a/_age|age]], or sexual orientation) have [[c/_common|common]], [[e/_essential|essential]] traits inherent to the [[d/_defining|defining]] feature of the group; [[b/_behavior|behavior]] or statement(s) that reflect such a view.**
+- **The view that [[o/_objects|objects]] [[h/_have|have]] properties that are [[e/_essential|essential]] to them.**
+- **The view that [[a/_all|all]] [[m/_members|members]] of [[c/_certain|certain]] [[g/_groups|groups]] of people (such as those with the same race, [[g/_gender|gender]], [[a/_age|age]], or sexual [[o/_orientation|orientation]]) [[h/_have|have]] [[c/_common|common]], [[e/_essential|essential]] traits [[i/_inherent|inherent]] to the [[d/_defining|defining]] [[f/_feature|feature]] of the [[g/_group|group]]; [[b/_behavior|behavior]] or statement(s) that reflect such a view.**
 - **The [[d/_doctrine|doctrine]] that there are [[c/_certain|certain]] traditional [[c/_concepts|concepts]], values, and skills that are [[e/_essential|essential]] to society and should be taught to [[a/_all|all]] students.**
-- **A lifestyle that seeks to minimize nonessentials in order to focus on what is important.**
-- **The theory that human [[b/_beings|beings]] are by nature (i.[[e/_e|e]]. [[e/_essentially|essentially]]) good and that evil is the product of society.**
+- **A [[l/_lifestyle|lifestyle]] that seeks to [[m/_minimize|minimize]] [[n/_nonessentials|nonessentials]] in [[o/_order|order]] to [[f/_focus|focus]] on what is [[i/_important|important]].**
+- **The theory that [[h/_human|human]] [[b/_beings|beings]] are by [[n/_nature|nature]] ([[i/_i|i]].[[e/_e|e]]. [[e/_essentially|essentially]]) [[g/_good|good]] and that [[e/_evil|evil]] is the product of society.**
 ---
 ---

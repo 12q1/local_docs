@@ -1,6 +1,6 @@
 # Cockerel
 ---
 #noun
-- **A young male [[c/_chicken|chicken]].**
+- **A [[y/_young|young]] [[m/_male|male]] [[c/_chicken|chicken]].**
 ---
 ---

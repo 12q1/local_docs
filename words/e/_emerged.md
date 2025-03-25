@@ -1,10 +1,10 @@
 # Emerged
 ---
 #verb
-- **To [[c/_come|come]] into view.**
-- **To [[c/_come|come]] out of a situation, object or a liquid.**
+- **To [[c/_come|come]] [[i/_into|into]] view.**
+- **To [[c/_come|come]] [[o/_out|out]] of a situation, [[o/_object|object]] or a [[l/_liquid|liquid]].**
 	- _Example: He emerged unscathed from the accident._
-- **To [[b/_become|become]] known.**
+- **To [[b/_become|become]] [[k/_known|known]].**
 	- _Example: Gradually the truth emerged._
 ---
 ### Synonyms

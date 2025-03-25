@@ -1,7 +1,7 @@
 # Dibs
 ---
 #noun
-- **The right to use or [[e/_enjoy|enjoy]] something exclusively or [[b/_before|before]] [[a/_anyone|anyone]] [[e/_else|else]].**
+- **The right to use or [[e/_enjoy|enjoy]] something [[e/_exclusively|exclusively]] or [[b/_before|before]] [[a/_anyone|anyone]] [[e/_else|else]].**
 	- _Example: Dibs means I get the hammock._
 ---
 ### Synonyms

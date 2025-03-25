@@ -1,0 +1,8 @@
+# Ornithology
+---
+#noun
+- **The [[b/_branch|branch]] of zoology that [[d/_deals|deals]] with the scientific study of [[b/_birds|birds]].**
+---
+### Synonyms
+- [[b/_birdlore|birdlore]], [[f/_fowl-lore|fowl-lore]]
+---

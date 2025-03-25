@@ -1,0 +1,17 @@
+# Organized
+---
+#verb
+- **To [[a/_arrange|arrange]] in working [[o/_order|order]].**
+- **To [[c/_constitute|constitute]] in parts, [[e/_each|each]] [[h/_having|having]] a special [[f/_function|function]], [[a/_act|act]], [[o/_office|office]], or relation; to systematize.**
+- **([[c/_chiefly|chiefly]] used in the past participle) To [[f/_furnish|furnish]] with [[o/_organs|organs]]; to [[g/_give|give]] an [[o/_organic|organic]] structure to; to [[e/_endow|endow]] with [[c/_capacity|capacity]] for the [[f/_functions|functions]] of [[l/_life|life]]**
+	- _Example: an organized being_
+- **To sing in parts.**
+	- _Example: to organize an anthem_
+- **To [[b/_band|band]] together [[i/_into|into]] a [[g/_group|group]] or union that [[c/_can|can]] [[b/_bargain|bargain]] and [[a/_act|act]] [[c/_collectively|collectively]]; to unionize.**
+	- _Example: the workers decided to organize; their next task was to organize the workers at the steel mill_
+---
+#adjective
+- **Of a person, [[c/_characterised|characterised]] by [[e/_efficient|efficient]] [[o/_organization|organization]].**
+	- _Example: Your work desk is so neat and tidy - I've never met someone so organized before!_
+---
+---

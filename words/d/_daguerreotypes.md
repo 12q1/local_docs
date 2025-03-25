@@ -1,6 +1,6 @@
 # Daguerreotypes
 ---
 #noun
-- **An [[e/_early|early]] type of photograph [[c/_created|created]] by exposing a silver surface which has previously [[b/_been|been]] exposed to [[e/_either|either]] iodine vapor or iodine and [[b/_bromine|bromine]] vapors.**
+- **An [[e/_early|early]] type of photograph [[c/_created|created]] by [[e/_exposing|exposing]] a silver surface which [[h/_has|has]] previously [[b/_been|been]] [[e/_exposed|exposed]] to [[e/_either|either]] [[i/_iodine|iodine]] vapor or [[i/_iodine|iodine]] and [[b/_bromine|bromine]] vapors.**
 ---
 ---

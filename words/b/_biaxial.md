@@ -1,7 +1,7 @@
 # Biaxial
 ---
 #adjective
-- **Having two [[a/_axes|axes]]**
-- **Having a value in two perpendicular [[d/_directions|directions]]. [In solid mechanics it generally means that normal stresses exist in two of the possible three [[d/_directions|directions]]. Note that they [[d/_do|do]] not have to be [[e/_equal|equal]] in sign or magnitude.]**
+- **[[h/_having|Having]] two [[a/_axes|axes]]**
+- **[[h/_having|Having]] a value in two perpendicular [[d/_directions|directions]]. [In solid [[m/_mechanics|mechanics]] it [[g/_generally|generally]] [[m/_means|means]] that [[n/_normal|normal]] stresses [[e/_exist|exist]] in two of the possible three [[d/_directions|directions]]. [[n/_note|Note]] that they [[d/_do|do]] not [[h/_have|have]] to be [[e/_equal|equal]] in sign or [[m/_magnitude|magnitude]].]**
 ---
 ---

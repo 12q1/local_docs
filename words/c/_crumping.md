@@ -4,6 +4,6 @@
 - **To produce such a sound.**
 ---
 #verb
-- **For one's health to [[d/_decline|decline]] rapidly (but not as rapidly as [[c/_crash|crash]]).**
+- **For [[o/_one|one]]'s [[h/_health|health]] to [[d/_decline|decline]] rapidly (but not as rapidly as [[c/_crash|crash]]).**
 ---
 ---

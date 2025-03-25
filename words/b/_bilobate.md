@@ -1,10 +1,10 @@
 # Bilobate
 ---
 #noun
-- **A grain that has two lobes**
+- **A [[g/_grain|grain]] that [[h/_has|has]] two [[l/_lobes|lobes]]**
 ---
 #adjective
-- **Having two lobes**
+- **[[h/_having|Having]] two [[l/_lobes|lobes]]**
 ---
 ### Synonyms
 - [[b/_bilobed|bilobed]]

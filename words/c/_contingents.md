@@ -1,8 +1,8 @@
 # Contingents
 ---
 #noun
-- **An event which may or may not happen; that which is unforeseen, undetermined, or [[d/_dependent|dependent]] on something future.**
-- **That which falls to one in a [[d/_division|division]] or [[a/_apportionment|apportionment]] [[a/_among|among]] a number; a suitable share.**
+- **An [[e/_event|event]] which [[m/_may|may]] or [[m/_may|may]] not [[h/_happen|happen]]; that which is unforeseen, undetermined, or [[d/_dependent|dependent]] on something [[f/_future|future]].**
+- **That which [[f/_falls|falls]] to [[o/_one|one]] in a [[d/_division|division]] or [[a/_apportionment|apportionment]] [[a/_among|among]] a [[n/_number|number]]; a suitable share.**
 - **A quota of troops.**
 ---
 ### Synonyms

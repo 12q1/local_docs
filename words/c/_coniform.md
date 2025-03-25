@@ -1,6 +1,6 @@
 # Coniform
 ---
 #adjective
-- **Having the form of a [[c/_cone|cone]]**
+- **[[h/_having|Having]] the [[f/_form|form]] of a [[c/_cone|cone]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bestiaries
 ---
 #noun
-- **A medieval treatise of various real or imaginary [[a/_animals|animals]].**
+- **A [[m/_medieval|medieval]] treatise of various real or [[i/_imaginary|imaginary]] [[a/_animals|animals]].**
 ---
 ---

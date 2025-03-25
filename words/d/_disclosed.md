@@ -1,15 +1,15 @@
 # Disclosed
 ---
 #verb
-- **To open up, unfasten.**
-- **To uncover, physically expose to view.**
-- **To expose to the knowledge of others; to make known, state openly, reveal.**
+- **To [[o/_open|open]] up, unfasten.**
+- **To uncover, physically [[e/_expose|expose]] to view.**
+- **To [[e/_expose|expose]] to the [[k/_knowledge|knowledge]] of [[o/_others|others]]; to [[m/_make|make]] [[k/_known|known]], state [[o/_openly|openly]], reveal.**
 ---
 ### Synonyms
 - [[e/_expose|expose]], [[r/_reveal|reveal]], [[i/_impart|impart]], [[p/_publish|publish]], [[d/_divulge|divulge]], [[i/_impart|impart]], [[p/_publish|publish]], [[r/_reveal|reveal]], [[u/_unveil|unveil]], [[r/_reveal|reveal]], [[u/_unveil|unveil]]
 ### Antonyms
 - [[w/_withhold|withhold]]
 #adjective
-- **(of wings) Expanded, spread; (of a winged [[c/_creature|creature]]) with its wings extended or spread.**
+- **(of wings) [[e/_expanded|Expanded]], spread; (of a winged [[c/_creature|creature]]) with [[i/_its|its]] wings [[e/_extended|extended]] or spread.**
 ---
 ---

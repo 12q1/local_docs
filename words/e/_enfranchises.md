@@ -1,6 +1,6 @@
 # Enfranchises
 ---
 #verb
-- **To grant the franchise to an [[e/_entity|entity]], specifically:**
+- **To [[g/_grant|grant]] the [[f/_franchise|franchise]] to an [[e/_entity|entity]], specifically:**
 ---
 ---

@@ -1,27 +1,27 @@
 # Articles
 ---
 #noun
-- **A piece of nonfictional writing such as a story, report, opinion piece, or [[e/_entry|entry]] in a newspaper, magazine, journal, [[d/_dictionary|dictionary]], [[e/_encyclopedia|encyclopedia]], [[e/_etc|etc]].**
-- **An object, a member of a group or [[c/_class|class]].**
+- **A piece of [[n/_nonfictional|nonfictional]] writing such as a story, report, [[o/_opinion|opinion]] piece, or [[e/_entry|entry]] in a [[n/_newspaper|newspaper]], [[m/_magazine|magazine]], [[j/_journal|journal]], [[d/_dictionary|dictionary]], [[e/_encyclopedia|encyclopedia]], [[e/_etc|etc]].**
+- **An [[o/_object|object]], a [[m/_member|member]] of a [[g/_group|group]] or [[c/_class|class]].**
 	- _Example: a sales article_
-- **(grammar) A part of speech that indicates, specifies and limits a noun (a, an, or the in [[e/_english|English]]). In some languages the [[a/_article|article]] may [[a/_appear|appear]] as an [[e/_ending|ending]] ([[e/_e|e]].g. [[d/_definite|definite]] [[a/_article|article]] in Swedish) or there may be none ([[e/_e|e]].g. Russian, Pashto).**
-- **A section of a legal [[d/_document|document]], [[b/_bylaws|bylaws]], [[e/_etc|etc]]. or, in the plural, the [[e/_entire|entire]] [[d/_document|document]] seen as a [[c/_collection|collection]] of these.**
+- **([[g/_grammar|grammar]]) A part of speech that [[i/_indicates|indicates]], specifies and [[l/_limits|limits]] a [[n/_noun|noun]] (a, an, or the in [[e/_english|English]]). In some [[l/_languages|languages]] the [[a/_article|article]] [[m/_may|may]] [[a/_appear|appear]] as an [[e/_ending|ending]] ([[e/_e|e]].[[g/_g|g]]. [[d/_definite|definite]] [[a/_article|article]] in Swedish) or there [[m/_may|may]] be [[n/_none|none]] ([[e/_e|e]].[[g/_g|g]]. Russian, Pashto).**
+- **A section of a [[l/_legal|legal]] [[d/_document|document]], [[b/_bylaws|bylaws]], [[e/_etc|etc]]. or, in the plural, the [[e/_entire|entire]] [[d/_document|document]] seen as a [[c/_collection|collection]] of these.**
 	- _Example: The Articles of War are a set of regulations [...] to govern the conduct of [...] military [...] forces_
-- **A genuine [[a/_article|article]].**
-- **A part or segment of something joined to other parts, or, in [[c/_combination|combination]], forming a structured set.**
+- **A [[g/_genuine|genuine]] [[a/_article|article]].**
+- **A part or segment of something [[j/_joined|joined]] to [[o/_other|other]] parts, or, in [[c/_combination|combination]], [[f/_forming|forming]] a structured set.**
 	- _Example: Each of the chelicerae is composed of two articles, forming a powerful pincer._
-- **A person; an individual.**
+- **A person; an [[i/_individual|individual]].**
 	- _Example: a shrewd article_
 - **A wench.**
 	- _Example: She's a prime article (whip slang), she's a devilish good piece, a hell of a goer._
-- **Subject matter; [[c/_concern|concern]].**
+- **Subject [[m/_matter|matter]]; [[c/_concern|concern]].**
 - **A [[d/_distinct|distinct]] part.**
-- **A precise point in time; a moment.**
+- **A precise point in time; a [[m/_moment|moment]].**
 ---
 #verb
 - **To [[b/_bind|bind]] by [[a/_articles|articles]] of [[a/_apprenticeship|apprenticeship]].**
 	- _Example: to article an apprentice to a mechanic_
-- **To [[a/_accuse|accuse]] or [[c/_charge|charge]] by an exhibition of [[a/_articles|articles]] or [[a/_accusations|accusations]].**
-- **To formulate in [[a/_articles|articles]]; to set forth in [[d/_distinct|distinct]] particulars.**
+- **To [[a/_accuse|accuse]] or [[c/_charge|charge]] by an [[e/_exhibition|exhibition]] of [[a/_articles|articles]] or [[a/_accusations|accusations]].**
+- **To [[f/_formulate|formulate]] in [[a/_articles|articles]]; to set [[f/_forth|forth]] in [[d/_distinct|distinct]] particulars.**
 ---
 ---

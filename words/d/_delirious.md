@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[b/_being|Being]] in the state of [[d/_delirium|delirium]].**
-- **Having uncontrolled excitement; [[e/_ecstatic|ecstatic]].**
+- **[[h/_having|Having]] uncontrolled [[e/_excitement|excitement]]; [[e/_ecstatic|ecstatic]].**
 ---
 ---

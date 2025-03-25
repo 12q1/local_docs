@@ -1,7 +1,7 @@
 # Crewcut
 ---
 #noun
-- **A [[c/_closely|closely]]-[[c/_cropped|cropped]] male haircut in which the hairs stick upward, like the short [[b/_bristles|bristles]] of a [[b/_brush|brush]].**
+- **A [[c/_closely|closely]]-[[c/_cropped|cropped]] [[m/_male|male]] [[h/_haircut|haircut]] in which the [[h/_hairs|hairs]] stick upward, [[l/_like|like]] the short [[b/_bristles|bristles]] of a [[b/_brush|brush]].**
 ---
 ### Synonyms
 - [[f/_flattop|flattop]]

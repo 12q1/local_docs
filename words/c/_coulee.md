@@ -2,7 +2,7 @@
 ---
 #noun
 - **A stream.**
-- **A lava flow.**
-- **A [[d/_deep|deep]] gulch or ravine, frequently [[d/_dry|dry]] in summer.**
+- **A [[l/_lava|lava]] [[f/_flow|flow]].**
+- **A [[d/_deep|deep]] [[g/_gulch|gulch]] or ravine, [[f/_frequently|frequently]] [[d/_dry|dry]] in summer.**
 ---
 ---

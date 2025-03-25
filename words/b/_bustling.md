@@ -1,9 +1,9 @@
 # Bustling
 ---
 #verb
-- **To move [[b/_busily|busily]] and [[e/_energetically|energetically]] with fussiness (often followed by [[a/_about|about]]).**
+- **To [[m/_move|move]] [[b/_busily|busily]] and [[e/_energetically|energetically]] with [[f/_fussiness|fussiness]] ([[o/_often|often]] [[f/_followed|followed]] by [[a/_about|about]]).**
 	- _Example: The commuters bustled about inside the train station._
-- **To teem or [[a/_abound|abound]] (usually followed by with); to exhibit an [[e/_energetic|energetic]] and [[a/_active|active]] [[a/_abundance|abundance]] (of a thing).**
+- **To teem or [[a/_abound|abound]] (usually [[f/_followed|followed]] by with); to [[e/_exhibit|exhibit]] an [[e/_energetic|energetic]] and [[a/_active|active]] [[a/_abundance|abundance]] (of a thing).**
 	- _Example: The train station was bustling with commuters._
 ---
 ### Synonyms
@@ -13,6 +13,6 @@
 	- _Example: the bustlings of waiters in the crowded restaurant_
 ---
 #adjective
-- **[[b/_busy|Busy]]; full of [[e/_energy|energy]] and noisy [[a/_activity|activity]].**
+- **[[b/_busy|Busy]]; [[f/_full|full]] of [[e/_energy|energy]] and [[n/_noisy|noisy]] [[a/_activity|activity]].**
 ---
 ---

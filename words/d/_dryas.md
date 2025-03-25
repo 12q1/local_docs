@@ -1,7 +1,7 @@
 # Dryas
 ---
 #noun
-- **[[a/_any|Any]] of several plants of the genus [[d/_dryas|Dryas]]; the mountain [[a/_avens|avens]].**
-- **One of two periods of [[c/_cold|cold]] and increased glaciation thousands of years [[b/_before|before]] the present (Younger [[d/_dryas|Dryas]] and Older [[d/_dryas|Dryas]]).**
+- **[[a/_any|Any]] of several plants of the [[g/_genus|genus]] [[d/_dryas|Dryas]]; the [[m/_mountain|mountain]] [[a/_avens|avens]].**
+- **[[o/_one|One]] of two periods of [[c/_cold|cold]] and [[i/_increased|increased]] [[g/_glaciation|glaciation]] thousands of [[y/_years|years]] [[b/_before|before]] the present ([[y/_younger|Younger]] [[d/_dryas|Dryas]] and [[o/_older|Older]] [[d/_dryas|Dryas]]).**
 ---
 ---

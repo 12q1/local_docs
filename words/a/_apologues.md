@@ -1,7 +1,7 @@
 # Apologues
 ---
 #noun
-- **A short story with a moral, often involving talking [[a/_animals|animals]] or objects; a fable**
-- **Use of fable to persuade the [[a/_audience|audience]]**
+- **A short story with a [[m/_moral|moral]], [[o/_often|often]] [[i/_involving|involving]] talking [[a/_animals|animals]] or [[o/_objects|objects]]; a [[f/_fable|fable]]**
+- **Use of [[f/_fable|fable]] to persuade the [[a/_audience|audience]]**
 ---
 ---

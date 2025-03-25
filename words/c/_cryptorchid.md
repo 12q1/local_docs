@@ -1,6 +1,6 @@
 # Cryptorchid
 ---
 #noun
-- **A male [[a/_animal|animal]] with one or two undescended testicles.**
+- **A [[m/_male|male]] [[a/_animal|animal]] with [[o/_one|one]] or two undescended testicles.**
 ---
 ---

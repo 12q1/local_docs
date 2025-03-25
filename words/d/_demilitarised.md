@@ -6,6 +6,6 @@
 - **To return an [[a/_area|area]] to [[c/_civilian|civilian]] [[c/_control|control]].**
 ---
 #adjective
-- **[[d/_declared|Declared]] free of [[a/_all|all]] military [[a/_activity|activity]].**
+- **[[d/_declared|Declared]] [[f/_free|free]] of [[a/_all|all]] [[m/_military|military]] [[a/_activity|activity]].**
 ---
 ---

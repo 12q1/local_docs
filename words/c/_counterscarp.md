@@ -1,6 +1,6 @@
 # Counterscarp
 ---
 #noun
-- **The outer slope of a [[d/_defensive|defensive]] or fortified [[d/_ditch|ditch]]**
+- **The [[o/_outer|outer]] slope of a [[d/_defensive|defensive]] or [[f/_fortified|fortified]] [[d/_ditch|ditch]]**
 ---
 ---

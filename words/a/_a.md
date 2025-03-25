@@ -1,6 +1,6 @@
 # A
 ---
 #noun
-- **The name of the Latin script letter A/a.**
+- **The [[n/_name|name]] of the [[l/_latin|Latin]] script [[l/_letter|letter]] A/a.**
 ---
 ---

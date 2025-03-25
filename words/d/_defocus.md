@@ -1,9 +1,9 @@
 # Defocus
 ---
 #noun
-- **The process of going out of focus.**
+- **The process of [[g/_going|going]] [[o/_out|out]] of [[f/_focus|focus]].**
 ---
 #verb
-- **To [[c/_cause|cause]] (a lens, or a [[b/_beam|beam]] of light or particles, [[e/_etc|etc]].) to be out of focus.**
+- **To [[c/_cause|cause]] (a [[l/_lens|lens]], or a [[b/_beam|beam]] of [[l/_light|light]] or particles, [[e/_etc|etc]].) to be [[o/_out|out]] of [[f/_focus|focus]].**
 ---
 ---

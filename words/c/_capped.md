@@ -2,21 +2,21 @@
 ---
 #verb
 - **To [[c/_cover|cover]] or seal with a [[c/_cap|cap]].**
-- **To [[a/_award|award]] a [[c/_cap|cap]] as a mark of [[d/_distinction|distinction]].**
-- **To lie over or on top of something.**
-- **To surpass or outdo.**
-- **To set an upper limit on something.**
+- **To [[a/_award|award]] a [[c/_cap|cap]] as a [[m/_mark|mark]] of [[d/_distinction|distinction]].**
+- **To [[l/_lie|lie]] [[o/_over|over]] or on top of something.**
+- **To surpass or [[o/_outdo|outdo]].**
+- **To set an upper [[l/_limit|limit]] on something.**
 	- _Example: cap wages._
-- **To make something even more wonderful at the [[e/_end|end]].**
+- **To [[m/_make|make]] something [[e/_even|even]] [[m/_more|more]] wonderful at the [[e/_end|end]].**
 	- _Example: That really capped my day._
 - **To select a player to play for a specified side.**
-- **To shoot (someone) with a firearm.**
+- **To shoot (someone) with a [[f/_firearm|firearm]].**
 	- _Example: In a school shooting, where some kid caps a bunch of other kids, where did he get the weapon? From a family member, probably their gun cabinet._
-- **To select to play for the national team.**
+- **To select to play for the [[n/_national|national]] team.**
 	- _Example: Peter Shilton is the most capped English footballer._
-- **To salute by uncovering the head respectfully.**
+- **To salute by uncovering the [[h/_head|head]] respectfully.**
 - **To [[d/_deprive|deprive]] of a [[c/_cap|cap]].**
-- **To tell a lie.**
+- **To tell a [[l/_lie|lie]].**
 ---
 #verb
 - **To [[c/_convert|convert]] text to uppercase.**

@@ -1,6 +1,6 @@
 # Alliterative
 ---
 #adjective
-- **In the form or style of [[a/_alliteration|alliteration]].**
+- **In the [[f/_form|form]] or style of [[a/_alliteration|alliteration]].**
 ---
 ---

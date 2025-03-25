@@ -1,6 +1,6 @@
 # Defenseless
 ---
 #adjective
-- **Lacking [[a/_any|any]] form of [[d/_defense|defense]]; vulnerable; open to [[a/_attack|attack]].**
+- **[[l/_lacking|Lacking]] [[a/_any|any]] [[f/_form|form]] of [[d/_defense|defense]]; vulnerable; [[o/_open|open]] to [[a/_attack|attack]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Concessioner
 ---
 #noun
-- **One who obtains or [[d/_desires|desires]] to obtain a [[c/_concession|concession]], as a grant of land, or a privilege or immunity of some kind; a [[c/_concessionary|concessionary]].**
+- **[[o/_one|One]] who [[o/_obtains|obtains]] or [[d/_desires|desires]] to [[o/_obtain|obtain]] a [[c/_concession|concession]], as a [[g/_grant|grant]] of [[l/_land|land]], or a privilege or [[i/_immunity|immunity]] of some [[k/_kind|kind]]; a [[c/_concessionary|concessionary]].**
 ---
 ---

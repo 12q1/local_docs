@@ -1,6 +1,6 @@
 # Blandishments
 ---
 #noun
-- **Flattering speech or [[a/_actions|actions]] [[d/_designed|designed]] to persuade or influence.**
+- **[[f/_flattering|Flattering]] speech or [[a/_actions|actions]] [[d/_designed|designed]] to persuade or [[i/_influence|influence]].**
 ---
 ---

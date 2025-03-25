@@ -1,0 +1,22 @@
+# Hatching
+---
+#verb
+- **To [[c/_close|close]] with a [[h/_hatch|hatch]] or [[h/_hatches|hatches]].**
+---
+#verb
+- **(of [[y/_young|young]] [[a/_animals|animals]]) To [[e/_emerge|emerge]] from an [[e/_egg|egg]].**
+- **(of [[e/_eggs|eggs]]) To [[b/_break|break]] [[o/_open|open]] when a [[y/_young|young]] [[a/_animal|animal]] [[e/_emerges|emerges]] from it.**
+- **To [[i/_incubate|incubate]] [[e/_eggs|eggs]]; to [[c/_cause|cause]] to [[h/_hatch|hatch]].**
+- **To [[d/_devise|devise]].**
+---
+#verb
+- **To shade an [[a/_area|area]] of (a [[d/_drawing|drawing]], [[d/_diagram|diagram]], [[e/_etc|etc]].) with [[f/_fine|fine]] parallel [[l/_lines|lines]], or with [[l/_lines|lines]] which [[c/_cross|cross]] [[e/_each|each]] [[o/_other|other]] ([[c/_cross|cross]]-[[h/_hatch|hatch]]).**
+- **To [[c/_cross|cross]]; to spot; to stain; to steep.**
+---
+#noun
+- **A [[m/_method|method]] of shading [[a/_areas|areas]] of a [[d/_drawing|drawing]] or [[d/_diagram|diagram]] with [[f/_fine|fine]] parallel [[l/_lines|lines]].**
+- **A [[g/_group|group]] of [[b/_birds|birds]], reptiles, [[f/_fish|fish]], [[i/_insects|insects]], [[e/_etc|etc]]., which [[e/_emerge|emerge]] from their [[e/_eggs|eggs]] at the same time.**
+	- _Example: We got a good hatching from the swallowtail eggs._
+- **The [[a/_act|act]] of an [[e/_egg|egg]] [[h/_hatching|hatching]], [[e/_eclosion|eclosion]]**
+---
+---

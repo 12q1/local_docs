@@ -1,9 +1,9 @@
 # Aba
 ---
 #noun
-- **A [[c/_coarse|coarse]], often striped, felted fabric from the Middle [[e/_east|East]], woven from goat or [[c/_camel|camel]] hair.**
-- **A loose-fitting sleeveless garment, made from [[a/_aba|aba]] or silk, worn by [[a/_arabs|Arabs]].**
-- **An outer garment made of the [[a/_above|above]], very simple in form, worn by the [[a/_arabs|Arabs]] of the [[d/_desert|desert]]. The illustration shows such an [[a/_aba|aba]], made of two [[b/_breadths|breadths]] of stuff sewed together to make an oblong [[a/_about|about]] four by nine feet.**
+- **A [[c/_coarse|coarse]], [[o/_often|often]] striped, [[f/_felted|felted]] [[f/_fabric|fabric]] from the [[m/_middle|Middle]] [[e/_east|East]], woven from [[g/_goat|goat]] or [[c/_camel|camel]] [[h/_hair|hair]].**
+- **A [[l/_loose|loose]]-[[f/_fitting|fitting]] sleeveless [[g/_garment|garment]], [[m/_made|made]] from [[a/_aba|aba]] or silk, worn by [[a/_arabs|Arabs]].**
+- **An [[o/_outer|outer]] [[g/_garment|garment]] [[m/_made|made]] of the [[a/_above|above]], very simple in [[f/_form|form]], worn by the [[a/_arabs|Arabs]] of the [[d/_desert|desert]]. The [[i/_illustration|illustration]] shows such an [[a/_aba|aba]], [[m/_made|made]] of two [[b/_breadths|breadths]] of stuff sewed together to [[m/_make|make]] an [[o/_oblong|oblong]] [[a/_about|about]] [[f/_four|four]] by [[n/_nine|nine]] [[f/_feet|feet]].**
 ---
 ### Synonyms
 - [[a/_abaya|abaya]]

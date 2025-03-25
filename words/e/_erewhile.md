@@ -1,7 +1,7 @@
 # Erewhile
 ---
 #adverb
-- **Some time [[a/_ago|ago]]; [[b/_beforehand|beforehand]]; formerly.**
+- **Some time [[a/_ago|ago]]; [[b/_beforehand|beforehand]]; [[f/_formerly|formerly]].**
 ---
 ### Synonyms
 - [[e/_erstwhile|erstwhile]], [[e/_erstwhiles|erstwhiles]]

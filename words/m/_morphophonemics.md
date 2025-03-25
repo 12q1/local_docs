@@ -1,0 +1,6 @@
+# Morphophonemics
+---
+#noun
+- **Morphophonology**
+---
+---

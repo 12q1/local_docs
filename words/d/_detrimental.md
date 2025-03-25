@@ -1,7 +1,7 @@
 # Detrimental
 ---
 #adjective
-- **[[c/_causing|Causing]] [[d/_damage|damage]] or harm.**
+- **[[c/_causing|Causing]] [[d/_damage|damage]] or [[h/_harm|harm]].**
 	- _Example: Smoking tobacco can be detrimental to your health._
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Dognapping
 ---
 #noun
-- **Kidnapping or stealing of a [[d/_dog|dog]] owned by someone [[e/_else|else]].**
+- **[[k/_kidnapping|Kidnapping]] or stealing of a [[d/_dog|dog]] [[o/_owned|owned]] by someone [[e/_else|else]].**
 ---
 ---

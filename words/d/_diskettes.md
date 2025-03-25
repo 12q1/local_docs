@@ -1,8 +1,8 @@
 # Diskettes
 ---
 #noun
-- **A small, flexible, magnetic [[d/_disk|disk]] for storage and retrieval of [[d/_data|data]].**
-- **An 8-inch floppy [[d/_disk|disk]].**
+- **A small, [[f/_flexible|flexible]], [[m/_magnetic|magnetic]] [[d/_disk|disk]] for storage and retrieval of [[d/_data|data]].**
+- **An 8-[[i/_inch|inch]] [[f/_floppy|floppy]] [[d/_disk|disk]].**
 ---
 ### Synonyms
 - [[d/_disk|disk]], [[f/_floppy|floppy]]

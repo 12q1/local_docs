@@ -9,7 +9,7 @@
 	- _Example: Anyone who has ever met her thought she was absolutely beautiful._
 - **(of the weather) Pleasant; [[c/_clear|clear]].**
 	- _Example: It's beautiful outside, let's go for a walk._
-- **Well executed.**
+- **Well [[e/_executed|executed]].**
 	- _Example: The skater performed a beautiful axel._
 ---
 ### Synonyms

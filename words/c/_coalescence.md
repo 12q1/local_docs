@@ -2,6 +2,6 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_coalescing|coalescing]].**
-- **The merging of two segments into one.**
+- **The [[m/_merging|merging]] of two segments [[i/_into|into]] [[o/_one|one]].**
 ---
 ---

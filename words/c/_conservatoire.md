@@ -1,7 +1,7 @@
 # Conservatoire
 ---
 #noun
-- **A music [[a/_academy|academy]].**
+- **A [[m/_music|music]] [[a/_academy|academy]].**
 ---
 ### Synonyms
 - [[c/_conservatory|conservatory]]

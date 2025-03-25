@@ -6,6 +6,6 @@
 ---
 #adjective
 - **[[c/_covered|Covered]] in [[d/_diamante|diamante]] [[d/_decorations|decorations]]**
-- **Shiny or iridescent, as if [[c/_covered|covered]] in or made of [[d/_diamonds|diamonds]]**
+- **Shiny or [[i/_iridescent|iridescent]], as [[i/_if|if]] [[c/_covered|covered]] in or [[m/_made|made]] of [[d/_diamonds|diamonds]]**
 ---
 ---

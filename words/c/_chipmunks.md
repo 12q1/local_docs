@@ -1,7 +1,7 @@
 # Chipmunks
 ---
 #noun
-- **A squirrel-like rodent of the genus Tamias, native mainly to North [[a/_america|America]].**
+- **A squirrel-[[l/_like|like]] rodent of the [[g/_genus|genus]] Tamias, [[n/_native|native]] [[m/_mainly|mainly]] to [[n/_north|North]] [[a/_america|America]].**
 ---
 ### Synonyms
 - 

@@ -2,11 +2,11 @@
 ---
 #verb
 - **To [[a/_attempt|attempt]] to [[e/_equal|equal]] or be the same as.**
-- **To [[c/_copy|copy]] or imitate, [[e/_especially|especially]] a person.**
-- **To feel a rivalry with; to be jealous of, to [[e/_envy|envy]].**
-- **Of a program or [[d/_device|device]]: to imitate [[a/_another|another]] program or [[d/_device|device]]**
+- **To [[c/_copy|copy]] or [[i/_imitate|imitate]], [[e/_especially|especially]] a person.**
+- **To [[f/_feel|feel]] a rivalry with; to be [[j/_jealous|jealous]] of, to [[e/_envy|envy]].**
+- **Of a program or [[d/_device|device]]: to [[i/_imitate|imitate]] [[a/_another|another]] program or [[d/_device|device]]**
 ---
 #adjective
-- **Striving to excel; [[a/_ambitious|ambitious]]; [[e/_emulous|emulous]].**
+- **Striving to [[e/_excel|excel]]; [[a/_ambitious|ambitious]]; [[e/_emulous|emulous]].**
 ---
 ---

@@ -1,0 +1,7 @@
+# Lambkins
+---
+#noun
+- **A [[y/_young|young]] [[l/_lamb|lamb]], a very [[y/_young|young]] sheep.**
+- **A term of [[e/_endearment|endearment]].**
+---
+---

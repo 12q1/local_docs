@@ -1,10 +1,10 @@
 # Crackled
 ---
 #verb
-- **To make a fizzing, popping sound.**
+- **To [[m/_make|make]] a [[f/_fizzing|fizzing]], popping sound.**
 	- _Example: a crackling fire_
 ---
 #adjective
-- **Having a [[c/_crackle|crackle]], or glaze resembling many small [[c/_cracks|cracks]].**
+- **[[h/_having|Having]] a [[c/_crackle|crackle]], or [[g/_glaze|glaze]] resembling [[m/_many|many]] small [[c/_cracks|cracks]].**
 ---
 ---

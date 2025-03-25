@@ -1,12 +1,12 @@
 # Empires
 ---
 #noun
-- **A political unit, typically having an extensive territory or [[c/_comprising|comprising]] a number of territories or nations ([[e/_especially|especially]] one [[c/_comprising|comprising]] one or more kingdoms) and ruled by a single supreme [[a/_authority|authority]].**
+- **A political unit, typically [[h/_having|having]] an [[e/_extensive|extensive]] territory or [[c/_comprising|comprising]] a [[n/_number|number]] of territories or [[n/_nations|nations]] ([[e/_especially|especially]] [[o/_one|one]] [[c/_comprising|comprising]] [[o/_one|one]] or [[m/_more|more]] [[k/_kingdoms|kingdoms]]) and ruled by a single supreme [[a/_authority|authority]].**
 	- _Example: the Russian empire_
 - **A political unit ruled by an [[e/_emperor|emperor]] or [[e/_empress|empress]].**
 	- _Example: The Empire of Vietnam was a short-lived client state of Japan governing Vietnam between March 11 and August 23, 1945._
-- **A group of states or other territories that owe [[a/_allegiance|allegiance]] to a foreign power.**
-- **An expansive and powerful [[e/_enterprise|enterprise]] under the [[c/_control|control]] of one person or group.**
+- **A [[g/_group|group]] of states or [[o/_other|other]] territories that [[o/_owe|owe]] [[a/_allegiance|allegiance]] to a [[f/_foreign|foreign]] power.**
+- **An [[e/_expansive|expansive]] and powerful [[e/_enterprise|enterprise]] under the [[c/_control|control]] of [[o/_one|one]] person or [[g/_group|group]].**
 	- _Example: the McDonald's fast food empire_
 - **([[a/_absolute|Absolute]]) [[c/_control|control]], [[d/_dominion|dominion]], sway.**
 ---

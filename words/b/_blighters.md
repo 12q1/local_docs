@@ -1,7 +1,7 @@
 # Blighters
 ---
 #noun
-- **One who [[b/_blights|blights]].**
-- **(often [[d/_disrespectful|disrespectful]]) A person, usually male, [[e/_especially|especially]] one who [[b/_behaves|behaves]] in an objectionable or pitiable manner.**
+- **[[o/_one|One]] who [[b/_blights|blights]].**
+- **([[o/_often|often]] [[d/_disrespectful|disrespectful]]) A person, usually [[m/_male|male]], [[e/_especially|especially]] [[o/_one|one]] who [[b/_behaves|behaves]] in an [[o/_objectionable|objectionable]] or pitiable [[m/_manner|manner]].**
 ---
 ---

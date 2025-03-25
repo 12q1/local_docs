@@ -1,12 +1,12 @@
 # Blarney
 ---
 #noun
-- **Mindless [[c/_chatter|chatter]].**
+- **[[m/_mindless|Mindless]] [[c/_chatter|chatter]].**
 	- _Example: He is full of blarney._
-- **[[a/_ability|Ability]] to talk [[c/_constantly|constantly]] and fluently.**
-- **Persuasive flattery or kind speech; smooth, wheedling talk.**
+- **[[a/_ability|Ability]] to talk [[c/_constantly|constantly]] and [[f/_fluently|fluently]].**
+- **Persuasive [[f/_flattery|flattery]] or [[k/_kind|kind]] speech; smooth, wheedling talk.**
 ---
 #verb
-- **To [[b/_beguile|beguile]] with flattery.**
+- **To [[b/_beguile|beguile]] with [[f/_flattery|flattery]].**
 ---
 ---

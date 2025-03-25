@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Of or pertaining to [[a/_ataxia|ataxia]].**
-- **[[d/_describing|Describing]] [[a/_any|any]] regular polymer or other macromolecule in which the orientation of the subunits is random.**
+- **[[d/_describing|Describing]] [[a/_any|any]] regular polymer or [[o/_other|other]] [[m/_macromolecule|macromolecule]] in which the [[o/_orientation|orientation]] of the subunits is random.**
 ---
 ---

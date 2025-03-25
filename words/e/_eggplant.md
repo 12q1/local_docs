@@ -1,11 +1,11 @@
 # Eggplant
 ---
 #noun
-- **The plant Solanum melongena.**
-- **The [[e/_edible|edible]] fruit of the Solanum melongena: an [[a/_aubergine|aubergine]].**
-- **A [[d/_dark|dark]] purple [[c/_color|color]], like that of the skin of this fruit.**
-- **A [[b/_black|black]] person (used mainly by Italian-[[a/_americans|Americans]]).**
-- **A 180 [[b/_backside|backside]] rotated invert in which the front hand is planted on the lip of the halfpipe wall**
+- **The plant Solanum [[m/_melongena|melongena]].**
+- **The [[e/_edible|edible]] [[f/_fruit|fruit]] of the Solanum [[m/_melongena|melongena]]: an [[a/_aubergine|aubergine]].**
+- **A [[d/_dark|dark]] purple [[c/_color|color]], [[l/_like|like]] that of the skin of this [[f/_fruit|fruit]].**
+- **A [[b/_black|black]] person (used [[m/_mainly|mainly]] by [[i/_italian|Italian]]-[[a/_americans|Americans]]).**
+- **A 180 [[b/_backside|backside]] rotated [[i/_invert|invert]] in which the [[f/_front|front]] [[h/_hand|hand]] is planted on the [[l/_lip|lip]] of the halfpipe wall**
 ---
 ### Synonyms
 - [[m/_melongene|melongene]], [[a/_aubergine|aubergine]], [[b/_baingan|baingan]], [[b/_brinjal|brinjal]]

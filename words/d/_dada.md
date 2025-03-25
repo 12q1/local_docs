@@ -1,6 +1,6 @@
 # Dada
 ---
 #noun
-- **Father, [[d/_dad|dad]].**
+- **[[f/_father|Father]], [[d/_dad|dad]].**
 ---
 ---

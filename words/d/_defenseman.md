@@ -1,6 +1,6 @@
 # Defenseman
 ---
 #noun
-- **In ice hockey and lacrosse, a player position with a primary responsibility to prevent the opposing team from scoring goals; same as [[d/_defender|defender]] in many other [[b/_ballgames|ballgames]].**
+- **In [[i/_ice|ice]] [[h/_hockey|hockey]] and [[l/_lacrosse|lacrosse]], a player position with a primary responsibility to prevent the [[o/_opposing|opposing]] team from scoring [[g/_goals|goals]]; same as [[d/_defender|defender]] in [[m/_many|many]] [[o/_other|other]] [[b/_ballgames|ballgames]].**
 ---
 ---

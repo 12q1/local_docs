@@ -1,6 +1,6 @@
 # Begob
 ---
 #interjection
-- **By God**
+- **By [[g/_god|God]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Calvados
 ---
 #noun
-- **An [[a/_apple|apple]] [[b/_brandy|brandy]] made in Normandy, France.**
-- **A glass of this spirit.**
+- **An [[a/_apple|apple]] [[b/_brandy|brandy]] [[m/_made|made]] in [[n/_normandy|Normandy]], [[f/_france|France]].**
+- **A [[g/_glass|glass]] of this spirit.**
 ---
 ---

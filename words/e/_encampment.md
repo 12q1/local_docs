@@ -2,6 +2,6 @@
 ---
 #noun
 - **A [[c/_campsite|campsite]].**
-- **A group of temporary living quarters and/or other temporary structures.**
+- **A [[g/_group|group]] of temporary [[l/_living|living]] quarters and/or [[o/_other|other]] temporary structures.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Certiorari
 ---
 #noun
-- **A grant of the right of an [[a/_appeal|appeal]] to be heard by an [[a/_appellate|appellate]] [[c/_court|court]] where that [[c/_court|court]] has [[d/_discretion|discretion]] to [[c/_choose|choose]] which [[a/_appeals|appeals]] it will hear.**
-- **A grant of review of a government [[a/_action|action]] by a [[c/_court|court]] with [[d/_discretion|discretion]] to make such a review.**
+- **A [[g/_grant|grant]] of the right of an [[a/_appeal|appeal]] to be [[h/_heard|heard]] by an [[a/_appellate|appellate]] [[c/_court|court]] where that [[c/_court|court]] [[h/_has|has]] [[d/_discretion|discretion]] to [[c/_choose|choose]] which [[a/_appeals|appeals]] it will [[h/_hear|hear]].**
+- **A [[g/_grant|grant]] of review of a [[g/_government|government]] [[a/_action|action]] by a [[c/_court|court]] with [[d/_discretion|discretion]] to [[m/_make|make]] such a review.**
 ---
 ---

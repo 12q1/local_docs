@@ -1,8 +1,8 @@
 # Bibliophile
 ---
 #noun
-- **One who loves [[b/_books|books]].**
-- **One who [[c/_collects|collects]] [[b/_books|books]], not necessarily [[d/_due|due]] to [[a/_any|any]] interest in reading them.**
+- **[[o/_one|One]] who [[l/_loves|loves]] [[b/_books|books]].**
+- **[[o/_one|One]] who [[c/_collects|collects]] [[b/_books|books]], not [[n/_necessarily|necessarily]] [[d/_due|due]] to [[a/_any|any]] [[i/_interest|interest]] in reading them.**
 ---
 ### Synonyms
 - [[b/_booklover|booklover]]

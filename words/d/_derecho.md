@@ -1,6 +1,6 @@
 # Derecho
 ---
 #noun
-- **A windstorm with strong straight-line winds.**
+- **A windstorm with strong straight-[[l/_line|line]] winds.**
 ---
 ---

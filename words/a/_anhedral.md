@@ -6,7 +6,7 @@
 ### Antonyms
 - [[d/_dihedral|dihedral]]
 #adjective
-- **Lacking sharp, recognisable [[c/_crystal|crystal]] faces.**
+- **[[l/_lacking|Lacking]] sharp, recognisable [[c/_crystal|crystal]] [[f/_faces|faces]].**
 ---
 ### Antonyms
 - [[e/_euhedral|euhedral]]

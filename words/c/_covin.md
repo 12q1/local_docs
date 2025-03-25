@@ -1,6 +1,6 @@
 # Covin
 ---
 #noun
-- **Fraud, [[d/_deception|deception]].**
+- **[[f/_fraud|Fraud]], [[d/_deception|deception]].**
 ---
 ---

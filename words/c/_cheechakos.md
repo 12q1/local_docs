@@ -1,7 +1,7 @@
 # Cheechakos
 ---
 #noun
-- **Someone new to [[a/_alaska|Alaska]] or the Yukon; originally, a gold rush newcomer.**
+- **Someone [[n/_new|new]] to [[a/_alaska|Alaska]] or the [[y/_yukon|Yukon]]; [[o/_originally|originally]], a [[g/_gold|gold]] rush [[n/_newcomer|newcomer]].**
 ---
 ### Synonyms
 - [[g/_greenhorn|greenhorn]], [[t/_tenderfoot|tenderfoot]]

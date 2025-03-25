@@ -1,9 +1,9 @@
 # Earwitness
 ---
 #noun
-- **A witness who gives evidence of what he or she has heard.**
+- **A witness who [[g/_gives|gives]] [[e/_evidence|evidence]] of what [[h/_he|he]] or she [[h/_has|has]] [[h/_heard|heard]].**
 ---
 #verb
-- **To hear an event [[d/_directly|directly]].**
+- **To [[h/_hear|hear]] an [[e/_event|event]] [[d/_directly|directly]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Ahistorical
 ---
 #adjective
-- **Lacking historical perspective or [[c/_context|context]].**
+- **[[l/_lacking|Lacking]] [[h/_historical|historical]] perspective or [[c/_context|context]].**
 ---
 ---

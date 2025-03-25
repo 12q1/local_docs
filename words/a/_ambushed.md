@@ -5,7 +5,7 @@
 - **To [[a/_attack|attack]] by [[a/_ambush|ambush]]; to waylay.**
 ---
 #adjective
-- **Having [[b/_been|been]] the target of an [[a/_ambush|ambush]].**
-- **Having [[b/_been|been]] subjected to a shock for which one is unprepared.**
+- **[[h/_having|Having]] [[b/_been|been]] the target of an [[a/_ambush|ambush]].**
+- **[[h/_having|Having]] [[b/_been|been]] subjected to a shock for which [[o/_one|one]] is unprepared.**
 ---
 ---

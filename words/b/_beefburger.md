@@ -1,6 +1,6 @@
 # Beefburger
 ---
 #noun
-- **A hamburger.**
+- **A [[h/_hamburger|hamburger]].**
 ---
 ---

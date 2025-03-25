@@ -1,7 +1,7 @@
 # Camelopards
 ---
 #noun
-- **A giraffe.**
+- **A [[g/_giraffe|giraffe]].**
 ---
 ### Synonyms
 - [[g/_giraffe|giraffe]]

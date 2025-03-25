@@ -1,9 +1,9 @@
 # Epaxial
 ---
 #noun
-- **Such a muscle**
+- **Such a [[m/_muscle|muscle]]**
 ---
 #adjective
-- **Located [[a/_above|above]] and [[b/_behind|behind]] an [[a/_axis|axis]] (typically a midline)**
+- **[[l/_located|Located]] [[a/_above|above]] and [[b/_behind|behind]] an [[a/_axis|axis]] (typically a [[m/_midline|midline]])**
 ---
 ---

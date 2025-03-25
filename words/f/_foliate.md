@@ -1,0 +1,14 @@
+# Foliate
+---
+#verb
+- **To [[f/_form|form]] [[i/_into|into]] [[l/_leaves|leaves]].**
+- **To [[b/_beat|beat]] [[i/_into|into]] a [[l/_leaf|leaf]], or thin plate.**
+- **To spread [[o/_over|over]] with a thin [[c/_coat|coat]] of tin and quicksilver.**
+	- _Example: to foliate a looking-glass_
+---
+#adjective
+- **Of or relating to [[l/_leaves|leaves]]**
+- **Shaped [[l/_like|like]] a [[l/_leaf|leaf]]**
+- **[[f/_foliated|Foliated]]**
+---
+---

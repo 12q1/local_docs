@@ -1,6 +1,6 @@
 # Bloodstream
 ---
 #noun
-- **The flow of [[b/_blood|blood]] through the [[c/_circulatory|circulatory]] system of an [[a/_animal|animal]]**
+- **The [[f/_flow|flow]] of [[b/_blood|blood]] through the [[c/_circulatory|circulatory]] system of an [[a/_animal|animal]]**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #noun
 - **A state of [[d/_disquiet|disquiet]], uneasiness, or [[a/_anxiety|anxiety]].**
-- **A fear or an instance of uneasiness.**
+- **A [[f/_fear|fear]] or an [[i/_instance|instance]] of uneasiness.**
 ---
 ---

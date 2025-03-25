@@ -1,7 +1,7 @@
 # Communists
 ---
 #noun
-- **An [[a/_advocate|advocate]] of a society [[b/_based|based]] on the [[c/_common|common]] ownership of property; a proponent of [[c/_communism|communism]].**
+- **An [[a/_advocate|advocate]] of a society [[b/_based|based]] on the [[c/_common|common]] [[o/_ownership|ownership]] of property; a proponent of [[c/_communism|communism]].**
 - **[[a/_any|Any]] revolutionary or subversive radical.**
 ---
 ---

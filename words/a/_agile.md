@@ -1,11 +1,11 @@
 # Agile
 ---
 #adjective
-- **Having the faculty of quick motion in the limbs; [[a/_apt|apt]] or ready to move**
+- **[[h/_having|Having]] the [[f/_faculty|faculty]] of quick [[m/_motion|motion]] in the [[l/_limbs|limbs]]; [[a/_apt|apt]] or ready to [[m/_move|move]]**
 	- _Example: an agile creature_
-- **[[c/_characterised|Characterised]] by quick motion**
+- **[[c/_characterised|Characterised]] by quick [[m/_motion|motion]]**
 	- _Example: agile movements_
-- **Of or relating to [[a/_agile|agile]] software [[d/_development|development]], a technique for iterative and incremental [[d/_development|development]] of software involving [[c/_collaboration|collaboration]] [[b/_between|between]] teams.**
+- **Of or relating to [[a/_agile|agile]] software [[d/_development|development]], a technique for [[i/_iterative|iterative]] and [[i/_incremental|incremental]] [[d/_development|development]] of software [[i/_involving|involving]] [[c/_collaboration|collaboration]] [[b/_between|between]] teams.**
 	- _Example: agile methods_
 ---
 ### Synonyms

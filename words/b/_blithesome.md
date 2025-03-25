@@ -1,6 +1,6 @@
 # Blithesome
 ---
 #adjective
-- **Happy or spriteful; [[c/_carefree|carefree]].**
+- **[[h/_happy|Happy]] or spriteful; [[c/_carefree|carefree]].**
 ---
 ---

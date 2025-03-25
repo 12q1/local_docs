@@ -1,6 +1,6 @@
 # Chambered
 ---
 #adjective
-- **(often in [[c/_combination|combination]]) Having [[c/_chambers|chambers]].**
+- **([[o/_often|often]] in [[c/_combination|combination]]) [[h/_having|Having]] [[c/_chambers|chambers]].**
 ---
 ---

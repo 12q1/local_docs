@@ -1,8 +1,8 @@
 # Demy
 ---
 #noun
-- **A printing paper size, 17½ inches by 22½ inches.**
-- **One holding a [[d/_demyship|demyship]], a kind of scholarship for Magdalen [[c/_college|College]], Oxford.**
-- **Junior scholar, specifically at Magdalen [[c/_college|College]], Oxford.**
+- **A printing paper size, 17½ [[i/_inches|inches]] by 22½ [[i/_inches|inches]].**
+- **[[o/_one|One]] [[h/_holding|holding]] a [[d/_demyship|demyship]], a [[k/_kind|kind]] of scholarship for [[m/_magdalen|Magdalen]] [[c/_college|College]], [[o/_oxford|Oxford]].**
+- **[[j/_junior|Junior]] scholar, specifically at [[m/_magdalen|Magdalen]] [[c/_college|College]], [[o/_oxford|Oxford]].**
 ---
 ---

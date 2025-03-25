@@ -1,18 +1,18 @@
 # Blacklead
 ---
 #noun
-- **The metal lead.**
+- **The [[m/_metal|metal]] [[l/_lead|lead]].**
 ---
 ### Antonyms
 - 
 #verb
-- **To [[c/_cover|cover]], treat or polish with graphite**
+- **To [[c/_cover|cover]], treat or polish with [[g/_graphite|graphite]]**
 ---
 #noun
-- **An [[a/_allotrope|allotrope]] of [[c/_carbon|carbon]], [[c/_consisting|consisting]] of planes of [[c/_carbon|carbon]] [[a/_atoms|atoms]] [[a/_arranged|arranged]] in hexagonal [[a/_arrays|arrays]] with the planes stacked loosely, that is used as a [[d/_dry|dry]] lubricant and in "lead" pencils.**
-- **Short for graphite-reinforced plastic, a [[c/_composite|composite]] plastic made with graphite fibers noted for light weight strength and stiffness.**
+- **An [[a/_allotrope|allotrope]] of [[c/_carbon|carbon]], [[c/_consisting|consisting]] of planes of [[c/_carbon|carbon]] [[a/_atoms|atoms]] [[a/_arranged|arranged]] in [[h/_hexagonal|hexagonal]] [[a/_arrays|arrays]] with the planes stacked [[l/_loosely|loosely]], that is used as a [[d/_dry|dry]] [[l/_lubricant|lubricant]] and in "[[l/_lead|lead]]" pencils.**
+- **Short for [[g/_graphite|graphite]]-reinforced plastic, a [[c/_composite|composite]] plastic [[m/_made|made]] with [[g/_graphite|graphite]] [[f/_fibers|fibers]] [[n/_noted|noted]] for [[l/_light|light]] weight strength and stiffness.**
 	- _Example: Modern tennis racquets are made of graphite, fibreglass and other man-made materials._
-- **A grey [[c/_colour|colour]].**
+- **A [[g/_grey|grey]] [[c/_colour|colour]].**
 ---
 ### Synonyms
 - [[p/_plumbago|plumbago]], [[C/_CFRP|CFRP]], [[C/_CRP|CRP]], [[c/_composite|composite]], [[p/_plastic|plastic]], [[p/_polymer|polymer]], [[r/_reinforced|reinforced]]

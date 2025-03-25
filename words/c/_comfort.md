@@ -3,7 +3,7 @@
 #noun
 - **[[c/_contentment|Contentment]], [[e/_ease|ease]].**
 	- _Example: Sleep in comfort with our new mattress._
-- **Something that offers [[c/_comfort|comfort]].**
+- **Something that [[o/_offers|offers]] [[c/_comfort|comfort]].**
 	- _Example: the comforts of home_
 - **A [[c/_consolation|consolation]]; something relieving suffering or worry.**
 	- _Example: We still have the spare tire? That's a comfort at least._
@@ -17,9 +17,9 @@
 #verb
 - **To relieve the [[d/_distress|distress]] or suffering of; to provide [[c/_comfort|comfort]] to.**
 	- _Example: Rob comforted Aaron because he was lost and very sad._
-- **To make [[c/_comfortable|comfortable]].**
-- **To make strong; to invigorate; to fortify; to [[c/_corroborate|corroborate]].**
-- **To [[a/_assist|assist]] or help; to [[a/_aid|aid]].**
+- **To [[m/_make|make]] [[c/_comfortable|comfortable]].**
+- **To [[m/_make|make]] strong; to [[i/_invigorate|invigorate]]; to [[f/_fortify|fortify]]; to [[c/_corroborate|corroborate]].**
+- **To [[a/_assist|assist]] or [[h/_help|help]]; to [[a/_aid|aid]].**
 ---
 ### Synonyms
 - [[b/_besoothe|besoothe]]

@@ -1,0 +1,21 @@
+# Overdone
+---
+#verb
+- **To [[d/_do|do]] too [[m/_much|much]]; to [[e/_exceed|exceed]] what is proper or true in [[d/_doing|doing]]; to [[c/_carry|carry]] too [[f/_far|far]].**
+	- _Example: I overdid the sweets during the holidays and put on some weight._
+- **To [[c/_cook|cook]] for too [[l/_long|long]].**
+	- _Example: to overdo the meat_
+- **To [[g/_give|give]] (someone or something) too [[m/_much|much]] work; to require too [[m/_much|much]] [[e/_effort|effort]] or strength of (someone); to use up too [[m/_much|much]] of (something).**
+	- _Example: to overdo one’s strength_
+- **To [[d/_do|do]] [[m/_more|more]] than (someone); to [[d/_do|do]] (something) to a [[g/_greater|greater]] [[e/_extent|extent]].**
+---
+### Synonyms
+- [[e/_exaggerate|exaggerate]], [[e/_excel|excel]], [[o/_outdo|outdo]], [[s/_surpass|surpass]], [[e/_exhaust|exhaust]], [[f/_fatigue|fatigue]], [[o/_overtask|overtask]], [[o/_overtax|overtax]], [[o/_overcook|overcook]]
+### Antonyms
+- [[u/_undercook|undercook]], [[u/_underdo|underdo]]
+#adjective
+- **[[c/_cooked|Cooked]] too [[m/_much|much]].**
+- **[[e/_exaggerated|Exaggerated]].**
+- **Repeated too [[o/_often|often]]; [[h/_hackneyed|hackneyed]].**
+---
+---

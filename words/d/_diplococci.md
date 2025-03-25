@@ -1,6 +1,6 @@
 # Diplococci
 ---
 #noun
-- **A [[c/_coccus|coccus]] that typically occurs in groups of two**
+- **A [[c/_coccus|coccus]] that typically [[o/_occurs|occurs]] in [[g/_groups|groups]] of two**
 ---
 ---

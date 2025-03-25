@@ -1,18 +1,18 @@
 # Alligators
 ---
 #noun
-- **[[e/_either|Either]] of two species of large [[a/_amphibious|amphibious]] reptile, [[a/_alligator|Alligator]] mississippiensis or [[a/_alligator|Alligator]] sinensis, in the genus [[a/_alligator|Alligator]] within order [[c/_crocodilia|Crocodilia]], which have sharp teeth and very strong jaws and are native to the [[a/_americas|Americas]] and [[c/_china|China]], respectively.**
+- **[[e/_either|Either]] of two species of [[l/_large|large]] [[a/_amphibious|amphibious]] reptile, [[a/_alligator|Alligator]] mississippiensis or [[a/_alligator|Alligator]] sinensis, in the [[g/_genus|genus]] [[a/_alligator|Alligator]] within [[o/_order|order]] [[c/_crocodilia|Crocodilia]], which [[h/_have|have]] sharp teeth and very strong [[j/_jaws|jaws]] and are [[n/_native|native]] to the [[a/_americas|Americas]] and [[c/_china|China]], respectively.**
 	- _Example: All you could see of the alligator were its two eyes above the water, and suddenly it snatched up and caught the poor bird with its strong jaws full of sharp teeth._
 - **[[d/_dwarf|Dwarf]] [[c/_crocodile|crocodile]] (Osteolaemus tetraspis)**
-- **[[a/_any|Any]] of various machines with strong jaws, one of which opens like the movable jaw of an [[a/_alligator|alligator]].**
-- **[[a/_any|Any]] of various vehicles that have relatively long, low noses in front of a [[c/_cab|cab]] or other, usually windowed, structure.**
+- **[[a/_any|Any]] of various [[m/_machines|machines]] with strong [[j/_jaws|jaws]], [[o/_one|one]] of which [[o/_opens|opens]] [[l/_like|like]] the [[m/_movable|movable]] [[j/_jaw|jaw]] of an [[a/_alligator|alligator]].**
+- **[[a/_any|Any]] of various vehicles that [[h/_have|have]] relatively [[l/_long|long]], [[l/_low|low]] [[n/_noses|noses]] in [[f/_front|front]] of a [[c/_cab|cab]] or [[o/_other|other]], usually windowed, structure.**
 ---
 ### Synonyms
 - [[g/_gator|gator]]
 #verb
-- **(of paint or other [[c/_coatings|coatings]]) To [[c/_crack|crack]] in a pattern resembling an [[a/_alligator|alligator]]'s skin.**
+- **(of [[p/_paint|paint]] or [[o/_other|other]] [[c/_coatings|coatings]]) To [[c/_crack|crack]] in a pattern resembling an [[a/_alligator|alligator]]'s skin.**
 ---
 #noun
-- **One who [[b/_binds|binds]] or ties.**
+- **[[o/_one|One]] who [[b/_binds|binds]] or ties.**
 ---
 ---

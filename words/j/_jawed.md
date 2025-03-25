@@ -1,0 +1,13 @@
+# Jawed
+---
+#verb
+- **To [[a/_assail|assail]] or [[a/_abuse|abuse]] by scolding.**
+- **To scold; to [[c/_clamor|clamor]].**
+- **To talk; to [[c/_converse|converse]].**
+- **(of a [[b/_ball|ball]]) To stick in the [[j/_jaws|jaws]] of a pocket.**
+---
+#adjective
+- **[[h/_having|Having]] [[j/_jaws|jaws]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified type of [[j/_jaw|jaw]].**
+---
+---

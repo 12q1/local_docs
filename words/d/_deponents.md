@@ -1,7 +1,7 @@
 # Deponents
 ---
 #noun
-- **A witness; [[e/_especially|especially]] one who gives information under oath, in a [[d/_deposition|deposition]] [[c/_concerning|concerning]] facts known to him or her.**
-- **(grammar) A [[d/_deponent|deponent]] verb.**
+- **A witness; [[e/_especially|especially]] [[o/_one|one]] who [[g/_gives|gives]] [[i/_information|information]] under [[o/_oath|oath]], in a [[d/_deposition|deposition]] [[c/_concerning|concerning]] [[f/_facts|facts]] [[k/_known|known]] to [[h/_him|him]] or [[h/_her|her]].**
+- **([[g/_grammar|grammar]]) A [[d/_deponent|deponent]] verb.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Batrachian
 ---
 #noun
-- **A frog or toad.**
+- **A [[f/_frog|frog]] or toad.**
 ---
 #adjective
-- **Pertaining to a frog or toad.**
+- **Pertaining to a [[f/_frog|frog]] or toad.**
 ---
 ### Synonyms
 - [[a/_anuran|anuran]]

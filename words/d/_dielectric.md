@@ -1,11 +1,11 @@
 # Dielectric
 ---
 #noun
-- **An [[e/_electrically|electrically]] insulating or nonconducting material [[c/_considered|considered]] for its [[e/_electric|electric]] susceptibility, i.[[e/_e|e]]. its property of polarization when exposed to an external [[e/_electric|electric]] field.**
+- **An [[e/_electrically|electrically]] [[i/_insulating|insulating]] or [[n/_nonconducting|nonconducting]] [[m/_material|material]] [[c/_considered|considered]] for [[i/_its|its]] [[e/_electric|electric]] susceptibility, [[i/_i|i]].[[e/_e|e]]. [[i/_its|its]] property of polarization when [[e/_exposed|exposed]] to an [[e/_external|external]] [[e/_electric|electric]] [[f/_field|field]].**
 ---
 ### Synonyms
 - [[i/_insulator|insulator]]
 #adjective
-- **([[e/_electrically|electrically]]) insulating**
+- **([[e/_electrically|electrically]]) [[i/_insulating|insulating]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Chapelry
 ---
 #noun
-- **The [[d/_district|district]] [[a/_attached|attached]] to a [[c/_chapel|chapel]]; a [[d/_division|division]] of a large parish which has its own [[d/_district|district]] [[c/_chapel|chapel]].**
+- **The [[d/_district|district]] [[a/_attached|attached]] to a [[c/_chapel|chapel]]; a [[d/_division|division]] of a [[l/_large|large]] parish which [[h/_has|has]] [[i/_its|its]] [[o/_own|own]] [[d/_district|district]] [[c/_chapel|chapel]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Chastened
 ---
 #verb
-- **To punish (in order to [[b/_bring|bring]] [[a/_about|about]] improvement in [[b/_behavior|behavior]], [[a/_attitude|attitude]], [[e/_etc|etc]].); to restrain, moderate.**
-- **To make [[c/_chaste|chaste]]; to purify.**
-- **To punish or reprimand for the sake of improvement; to [[d/_discipline|discipline]].**
-- **To render humble or restrained; to restrain or moderate.**
+- **To punish (in [[o/_order|order]] to [[b/_bring|bring]] [[a/_about|about]] [[i/_improvement|improvement]] in [[b/_behavior|behavior]], [[a/_attitude|attitude]], [[e/_etc|etc]].); to restrain, [[m/_moderate|moderate]].**
+- **To [[m/_make|make]] [[c/_chaste|chaste]]; to purify.**
+- **To punish or reprimand for the sake of [[i/_improvement|improvement]]; to [[d/_discipline|discipline]].**
+- **To render [[h/_humble|humble]] or restrained; to restrain or [[m/_moderate|moderate]].**
 ---
 #adjective
-- **Made [[c/_chaste|chaste]]; purified; modest.**
+- **[[m/_made|Made]] [[c/_chaste|chaste]]; purified; [[m/_modest|modest]].**
 - **[[c/_chastised|Chastised]].**
 ---
 ---

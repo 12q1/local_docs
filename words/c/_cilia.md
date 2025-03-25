@@ -1,8 +1,8 @@
 # Cilia
 ---
 #noun
-- **Hairs or similar protrusions [[a/_along|along]] the margin of a plant organ.**
-- **A hairlike organelle projecting from a eukaryotic [[c/_cell|cell]] (such as a unicellular organism or one [[c/_cell|cell]] of a multicelled organism). These structures serve [[e/_either|either]] for locomotion by moving or as sensors.**
-- **One of the fine hairs [[a/_along|along]] an insect's wing.**
+- **[[h/_hairs|Hairs]] or similar protrusions [[a/_along|along]] the [[m/_margin|margin]] of a plant [[o/_organ|organ]].**
+- **A [[h/_hairlike|hairlike]] [[o/_organelle|organelle]] projecting from a eukaryotic [[c/_cell|cell]] (such as a unicellular [[o/_organism|organism]] or [[o/_one|one]] [[c/_cell|cell]] of a [[m/_multicelled|multicelled]] [[o/_organism|organism]]). These structures serve [[e/_either|either]] for [[l/_locomotion|locomotion]] by [[m/_moving|moving]] or as sensors.**
+- **[[o/_one|One]] of the [[f/_fine|fine]] [[h/_hairs|hairs]] [[a/_along|along]] an [[i/_insect|insect]]'s wing.**
 ---
 ---

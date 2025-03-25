@@ -1,6 +1,6 @@
 # Darkling
 ---
 #noun
-- **A [[c/_creature|creature]] that lives in the [[d/_dark|dark]].**
+- **A [[c/_creature|creature]] that [[l/_lives|lives]] in the [[d/_dark|dark]].**
 ---
 ---

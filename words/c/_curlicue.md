@@ -1,9 +1,9 @@
 # Curlicue
 ---
 #noun
-- **A fancy twisting or [[c/_curling|curling]] shape usually made from a series of [[c/_concentric|concentric]] [[c/_circles|circles]].**
+- **A [[f/_fancy|fancy]] twisting or [[c/_curling|curling]] shape usually [[m/_made|made]] from a series of [[c/_concentric|concentric]] [[c/_circles|circles]].**
 ---
 #verb
-- **To make or [[a/_adorn|adorn]] (something) with [[c/_curlicues|curlicues]], or as if with [[c/_curlicues|curlicues]].**
+- **To [[m/_make|make]] or [[a/_adorn|adorn]] (something) with [[c/_curlicues|curlicues]], or as [[i/_if|if]] with [[c/_curlicues|curlicues]].**
 ---
 ---

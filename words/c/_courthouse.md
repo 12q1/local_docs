@@ -1,7 +1,7 @@
 # Courthouse
 ---
 #noun
-- **A public [[b/_building|building]] housing [[c/_courts|courts]] of law.**
-- **The public [[b/_building|building]] where most [[a/_american|American]] [[c/_counties|counties]] have their [[c/_county|county]] offices.**
+- **A public [[b/_building|building]] [[h/_housing|housing]] [[c/_courts|courts]] of [[l/_law|law]].**
+- **The public [[b/_building|building]] where [[m/_most|most]] [[a/_american|American]] [[c/_counties|counties]] [[h/_have|have]] their [[c/_county|county]] [[o/_offices|offices]].**
 ---
 ---

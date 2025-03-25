@@ -1,7 +1,7 @@
 # Boulle
 ---
 #noun
-- **A particularly [[d/_decorative|decorative]] piece of [[b/_brass|brass]] or other material, used as inlay in furniture or other works.**
-- **Furniture having ornamentation of this kind.**
+- **A particularly [[d/_decorative|decorative]] piece of [[b/_brass|brass]] or [[o/_other|other]] [[m/_material|material]], used as [[i/_inlay|inlay]] in [[f/_furniture|furniture]] or [[o/_other|other]] works.**
+- **[[f/_furniture|Furniture]] [[h/_having|having]] [[o/_ornamentation|ornamentation]] of this [[k/_kind|kind]].**
 ---
 ---

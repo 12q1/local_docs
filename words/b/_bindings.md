@@ -1,12 +1,12 @@
 # Bindings
 ---
 #noun
-- **An item (usually rope, tape, or string) used to hold two or more things together.**
-- **The spine of a [[b/_book|book]] where the pages are held together.**
-- **A finishing on a seam or hem of a garment.**
-- **The [[a/_association|association]] of a named item with an [[e/_element|element]] of a program.**
-- **The interface of a library with a programming language other than one it is written in.**
+- **An [[i/_item|item]] (usually rope, tape, or string) used to [[h/_hold|hold]] two or [[m/_more|more]] things together.**
+- **The spine of a [[b/_book|book]] where the [[p/_pages|pages]] are [[h/_held|held]] together.**
+- **A [[f/_finishing|finishing]] on a seam or [[h/_hem|hem]] of a [[g/_garment|garment]].**
+- **The [[a/_association|association]] of a [[n/_named|named]] [[i/_item|item]] with an [[e/_element|element]] of a program.**
+- **The [[i/_interface|interface]] of a [[l/_library|library]] with a programming [[l/_language|language]] [[o/_other|other]] than [[o/_one|one]] it is written in.**
 	- _Example: The Python binding is automatically generated._
-- **The [[a/_action|action]] or result of making two or more molecules stick together.**
+- **The [[a/_action|action]] or result of [[m/_making|making]] two or [[m/_more|more]] [[m/_molecules|molecules]] stick together.**
 ---
 ---

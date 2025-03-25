@@ -1,0 +1,7 @@
+# Hyperbaton
+---
+#noun
+- **([[g/_grammar|grammar]]) An [[i/_inversion|inversion]] of the usual or [[l/_logical|logical]] [[o/_order|order]] of words or phrases, for [[e/_emphasis|emphasis]] or poetic [[e/_effect|effect]].**
+- **[[a/_adding|Adding]] a word or thought to a sentence that is [[a/_already|already]] semantically [[c/_complete|complete]], thus [[d/_drawing|drawing]] [[e/_emphasis|emphasis]] to the [[a/_addition|addition]].**
+---
+---

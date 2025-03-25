@@ -1,9 +1,9 @@
 # Epitomes
 ---
 #noun
-- **The [[e/_embodiment|embodiment]] or [[e/_encapsulation|encapsulation]] of a [[c/_class|class]] of items.**
-- **A representative example.**
-- **The height; the [[b/_best|best]].**
+- **The [[e/_embodiment|embodiment]] or [[e/_encapsulation|encapsulation]] of a [[c/_class|class]] of [[i/_items|items]].**
+- **A representative [[e/_example|example]].**
+- **The [[h/_height|height]]; the [[b/_best|best]].**
 - **A [[b/_brief|brief]] summary of a text.**
 ---
 ### Synonyms

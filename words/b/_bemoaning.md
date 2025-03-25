@@ -1,13 +1,13 @@
 # Bemoaning
 ---
 #verb
-- **To moan or [[c/_complain|complain]] [[a/_about|about]] (something).**
+- **To [[m/_moan|moan]] or [[c/_complain|complain]] [[a/_about|about]] (something).**
 	- _Example: He bemoaned the drought but went on watering his lawn._
-- **To be [[d/_dismayed|dismayed]] or worried [[a/_about|about]] (someone), particularly [[b/_because|because]] of their situation or what has happened to them.**
+- **To be [[d/_dismayed|dismayed]] or worried [[a/_about|about]] (someone), particularly [[b/_because|because]] of their situation or what [[h/_has|has]] [[h/_happened|happened]] to them.**
 ---
 ### Synonyms
 - [[b/_bewail|bewail]], [[l/_lament|lament]], [[m/_mourn|mourn]]
 #noun
-- **The [[a/_act|act]] of one who [[b/_bemoans|bemoans]] something.**
+- **The [[a/_act|act]] of [[o/_one|one]] who [[b/_bemoans|bemoans]] something.**
 ---
 ---

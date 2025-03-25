@@ -1,0 +1,6 @@
+# Nontechnical
+---
+#adjective
+- **Not technical.**
+---
+---

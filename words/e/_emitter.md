@@ -2,6 +2,6 @@
 ---
 #noun
 - **That which [[e/_emits|emits]] something.**
-- **One terminal of a [[b/_bipolar|bipolar]] transistor (BJT).**
+- **[[o/_one|One]] terminal of a [[b/_bipolar|bipolar]] transistor (BJT).**
 ---
 ---

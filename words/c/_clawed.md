@@ -2,15 +2,15 @@
 ---
 #verb
 - **To scratch or to tear at.**
-- **To use the [[c/_claws|claws]] to seize, to grip.**
+- **To use the [[c/_claws|claws]] to seize, to [[g/_grip|grip]].**
 - **To use the [[c/_claws|claws]] to [[c/_climb|climb]].**
 - **To perform a [[c/_claw|claw]] [[c/_catch|catch]].**
-- **To move with one's fingertips.**
-- **To relieve uneasy feeling, such as an itch, by scratching; hence, to humor or flatter, to [[c/_court|court]] someone.**
+- **To [[m/_move|move]] with [[o/_one|one]]'s [[f/_fingertips|fingertips]].**
+- **To relieve uneasy [[f/_feeling|feeling]], such as an [[i/_itch|itch]], by scratching; [[h/_hence|hence]], to [[h/_humor|humor]] or [[f/_flatter|flatter]], to [[c/_court|court]] someone.**
 - **To rail at; to scold.**
-- **To flatter; to fawn on (a person).**
+- **To [[f/_flatter|flatter]]; to [[f/_fawn|fawn]] on (a person).**
 ---
 #adjective
-- **Having [[c/_claws|claws]] (of [[a/_animals|animals]])**
+- **[[h/_having|Having]] [[c/_claws|claws]] (of [[a/_animals|animals]])**
 ---
 ---

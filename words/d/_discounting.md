@@ -1,14 +1,14 @@
 # Discounting
 ---
 #verb
-- **To [[d/_deduct|deduct]] from an [[a/_account|account]], [[d/_debt|debt]], [[c/_charge|charge]], and the like.**
+- **To [[d/_deduct|deduct]] from an [[a/_account|account]], [[d/_debt|debt]], [[c/_charge|charge]], and the [[l/_like|like]].**
 	- _Example: Merchants sometimes discount five or six per cent for prompt payment of bills._
-- **To lend money upon, [[d/_deducting|deducting]] the [[d/_discount|discount]] or [[a/_allowance|allowance]] for interest**
+- **To [[l/_lend|lend]] [[m/_money|money]] upon, [[d/_deducting|deducting]] the [[d/_discount|discount]] or [[a/_allowance|allowance]] for [[i/_interest|interest]]**
 	- _Example: the banks discount notes and bills of exchange_
-- **To take into [[c/_consideration|consideration]] [[b/_beforehand|beforehand]]; to [[a/_anticipate|anticipate]] and form [[c/_conclusions|conclusions]] [[c/_concerning|concerning]] (an event).**
-- **To leave out of [[a/_account|account]] or regard as unimportant.**
+- **To take [[i/_into|into]] [[c/_consideration|consideration]] [[b/_beforehand|beforehand]]; to [[a/_anticipate|anticipate]] and [[f/_form|form]] [[c/_conclusions|conclusions]] [[c/_concerning|concerning]] (an [[e/_event|event]]).**
+- **To [[l/_leave|leave]] [[o/_out|out]] of [[a/_account|account]] or regard as unimportant.**
 	- _Example: They discounted his comments._
-- **To lend, or make a practice of lending, money, [[a/_abating|abating]] the [[d/_discount|discount]]**
-- **(transactional [[a/_analysis|analysis]]) To [[b/_believe|believe]], or [[a/_act|act]] as though one [[b/_believes|believes]], that one's own feelings are more important than the reality of a situation.**
+- **To [[l/_lend|lend]], or [[m/_make|make]] a practice of [[l/_lending|lending]], [[m/_money|money]], [[a/_abating|abating]] the [[d/_discount|discount]]**
+- **(transactional [[a/_analysis|analysis]]) To [[b/_believe|believe]], or [[a/_act|act]] as though [[o/_one|one]] [[b/_believes|believes]], that [[o/_one|one]]'s [[o/_own|own]] [[f/_feelings|feelings]] are [[m/_more|more]] [[i/_important|important]] than the reality of a situation.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Chanticleer
 ---
 #noun
-- **A [[d/_domestic|domestic]] rooster or [[c/_cock|cock]], [[e/_especially|especially]] in fables and fairy tales.**
+- **A [[d/_domestic|domestic]] rooster or [[c/_cock|cock]], [[e/_especially|especially]] in [[f/_fables|fables]] and [[f/_fairy|fairy]] tales.**
 ---
 #verb
-- **To make the [[c/_crowing|crowing]] sound of a [[c/_cock|cock]].**
-- **To [[c/_crow|crow]] in exultation.**
+- **To [[m/_make|make]] the [[c/_crowing|crowing]] sound of a [[c/_cock|cock]].**
+- **To [[c/_crow|crow]] in [[e/_exultation|exultation]].**
 ---
 ---

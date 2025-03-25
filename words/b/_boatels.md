@@ -1,6 +1,6 @@
 # Boatels
 ---
 #noun
-- **A ship, normally moored [[a/_alongside|alongside]] a quay, used as a hotel**
+- **A ship, [[n/_normally|normally]] [[m/_moored|moored]] [[a/_alongside|alongside]] a quay, used as a [[h/_hotel|hotel]]**
 ---
 ---

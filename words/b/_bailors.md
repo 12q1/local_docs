@@ -1,6 +1,6 @@
 # Bailors
 ---
 #noun
-- **One who [[b/_bails|bails]] property; one who places property in the hands of [[a/_another|another]] ([[c/_called|called]] a [[b/_bailee|bailee]]) for safekeeping.**
+- **[[o/_one|One]] who [[b/_bails|bails]] property; [[o/_one|one]] who places property in the [[h/_hands|hands]] of [[a/_another|another]] ([[c/_called|called]] a [[b/_bailee|bailee]]) for safekeeping.**
 ---
 ---

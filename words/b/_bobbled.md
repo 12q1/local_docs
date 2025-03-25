@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[b/_bob|bob]] up and [[d/_down|down]].**
-- **To make a mistake in.**
+- **To [[m/_make|make]] a [[m/_mistake|mistake]] in.**
 - **To roll slowly.**
 ---
 ---

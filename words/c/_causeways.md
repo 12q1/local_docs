@@ -1,6 +1,6 @@
 # Causeways
 ---
 #noun
-- **A road that is raised, so as to be [[a/_above|above]] water, marshland, and similar low-lying obstacles. Originally [[c/_causeways|causeways]] were much like [[d/_dykes|dykes]], generally pierced to let water through, whereas many modern [[c/_causeways|causeways]] are more like [[b/_bridges|bridges]] or viaducts.**
+- **A road that is raised, so as to be [[a/_above|above]] water, [[m/_marshland|marshland]], and similar [[l/_low|low]]-[[l/_lying|lying]] [[o/_obstacles|obstacles]]. [[o/_originally|Originally]] [[c/_causeways|causeways]] were [[m/_much|much]] [[l/_like|like]] [[d/_dykes|dykes]], [[g/_generally|generally]] pierced to [[l/_let|let]] water through, whereas [[m/_many|many]] [[m/_modern|modern]] [[c/_causeways|causeways]] are [[m/_more|more]] [[l/_like|like]] [[b/_bridges|bridges]] or viaducts.**
 ---
 ---

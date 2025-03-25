@@ -1,8 +1,8 @@
 # Durian
 ---
 #noun
-- **[[a/_any|Any]] of several trees, genus [[d/_durio|Durio]], of Southeast [[a/_asia|Asia]].**
-- **The spiky [[e/_edible|edible]] fruit of this tree, known for its strong taste and very strong, unpleasant odor.**
-- **A yellow [[c/_colour|colour]], like that of [[d/_durian|durian]] flesh ([[a/_also|also]] [[c/_called|called]] [[d/_durian|durian]] yellow).**
+- **[[a/_any|Any]] of several trees, [[g/_genus|genus]] [[d/_durio|Durio]], of Southeast [[a/_asia|Asia]].**
+- **The spiky [[e/_edible|edible]] [[f/_fruit|fruit]] of this tree, [[k/_known|known]] for [[i/_its|its]] strong taste and very strong, unpleasant [[o/_odor|odor]].**
+- **A [[y/_yellow|yellow]] [[c/_colour|colour]], [[l/_like|like]] that of [[d/_durian|durian]] [[f/_flesh|flesh]] ([[a/_also|also]] [[c/_called|called]] [[d/_durian|durian]] [[y/_yellow|yellow]]).**
 ---
 ---

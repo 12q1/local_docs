@@ -1,6 +1,6 @@
 # Cornea
 ---
 #noun
-- **The transparent layer making up the outermost front part of the [[e/_eye|eye]], [[c/_covering|covering]] the iris, pupil, and [[a/_anterior|anterior]] [[c/_chamber|chamber]].**
+- **The transparent [[l/_layer|layer]] [[m/_making|making]] up the [[o/_outermost|outermost]] [[f/_front|front]] part of the [[e/_eye|eye]], [[c/_covering|covering]] the [[i/_iris|iris]], pupil, and [[a/_anterior|anterior]] [[c/_chamber|chamber]].**
 ---
 ---

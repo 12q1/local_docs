@@ -1,9 +1,9 @@
 # Chancing
 ---
 #verb
-- **To happen by [[c/_chance|chance]], to occur.**
+- **To [[h/_happen|happen]] by [[c/_chance|chance]], to [[o/_occur|occur]].**
 	- _Example: It chanced that I found a solution the very next day._
-- **To [[b/_befall|befall]]; to happen to.**
+- **To [[b/_befall|befall]]; to [[h/_happen|happen]] to.**
 - **To try or risk.**
 	- _Example: Shall we carry the umbrella, or chance a rainstorm?_
 - **To [[d/_discover|discover]] something by [[c/_chance|chance]].**
@@ -14,6 +14,6 @@
 ### Synonyms
 - [[e/_encounter|encounter]], [[o/_occur|occur]], [[t/_transpire|transpire]], [[d/_deceive|deceive]], [[f/_fool|fool]], [[t/_trick|trick]], [[t/_test|test]]
 #noun
-- **Something that happens by [[c/_chance|chance]].**
+- **Something that [[h/_happens|happens]] by [[c/_chance|chance]].**
 ---
 ---

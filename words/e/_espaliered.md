@@ -1,6 +1,6 @@
 # Espaliered
 ---
 #verb
-- **To train a plant in this manner.**
+- **To train a plant in this [[m/_manner|manner]].**
 ---
 ---

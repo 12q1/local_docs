@@ -1,8 +1,8 @@
 # Eminently
 ---
 #adverb
-- **In an [[e/_eminent|eminent]] or prominent manner.**
-- **To a great [[d/_degree|degree]]; notably; highly.**
+- **In an [[e/_eminent|eminent]] or prominent [[m/_manner|manner]].**
+- **To a [[g/_great|great]] [[d/_degree|degree]]; [[n/_notably|notably]]; [[h/_highly|highly]].**
 	- _Example: Everyone supported the nominee because she was eminently qualified._
 ---
 ---

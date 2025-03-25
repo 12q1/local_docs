@@ -1,0 +1,13 @@
+# Ongoing
+---
+#verb
+- **To be [[o/_ongoing|ongoing]] ([[o/_occurring|occurring]], [[h/_happening|happening]]); to [[l/_last|last]], proceed or [[c/_continue|continue]].**
+---
+#noun
+- **Something that is [[g/_going|going]] on; a [[h/_happening|happening]].**
+---
+#adjective
+- **[[c/_continuing|Continuing]], permanent, [[l/_lasting|lasting]].**
+- **Presently or [[c/_currently|currently]] [[h/_happening|happening]]; [[b/_being|being]] in progress.**
+---
+---

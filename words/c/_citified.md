@@ -1,14 +1,14 @@
 # Citified
 ---
 #adjective
-- **[[c/_characteristic|Characteristic]] of the sophisticated [[c/_customs|customs]] or [[d/_dress|dress]] [[a/_associated|associated]] with [[c/_city|city]] life.**
+- **[[c/_characteristic|Characteristic]] of the sophisticated [[c/_customs|customs]] or [[d/_dress|dress]] [[a/_associated|associated]] with [[c/_city|city]] [[l/_life|life]].**
 ---
 ### Antonyms
 - [[c/_countrified|countrified]]
 #verb
-- **To [[b/_become|become]] more like or more in the [[c/_character|character]] of a [[c/_city|city]].**
-- **To make more like or more in the [[c/_character|character]] of a [[c/_city|city]].**
-- **To make more like a [[c/_city|city]] person.**
+- **To [[b/_become|become]] [[m/_more|more]] [[l/_like|like]] or [[m/_more|more]] in the [[c/_character|character]] of a [[c/_city|city]].**
+- **To [[m/_make|make]] [[m/_more|more]] [[l/_like|like]] or [[m/_more|more]] in the [[c/_character|character]] of a [[c/_city|city]].**
+- **To [[m/_make|make]] [[m/_more|more]] [[l/_like|like]] a [[c/_city|city]] person.**
 ---
 ### Synonyms
 - [[u/_urbanize|urbanize]]

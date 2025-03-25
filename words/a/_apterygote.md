@@ -1,6 +1,6 @@
 # Apterygote
 ---
 #noun
-- **[[a/_any|Any]] insect of the order [[a/_apterygota|Apterygota]].**
+- **[[a/_any|Any]] [[i/_insect|insect]] of the [[o/_order|order]] [[a/_apterygota|Apterygota]].**
 ---
 ---

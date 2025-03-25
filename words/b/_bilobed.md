@@ -1,7 +1,7 @@
 # Bilobed
 ---
 #adjective
-- **Having two lobes.**
+- **[[h/_having|Having]] two [[l/_lobes|lobes]].**
 ---
 ### Synonyms
 - [[b/_bilobate|bilobate]]

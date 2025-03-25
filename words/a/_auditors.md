@@ -1,10 +1,10 @@
 # Auditors
 ---
 #noun
-- **One who [[a/_audits|audits]] [[b/_bookkeeping|bookkeeping]] [[a/_accounts|accounts]].**
-- **In many jurisdictions, an [[e/_elected|elected]] or [[a/_appointed|appointed]] public official in [[c/_charge|charge]] of the public [[a/_accounts|accounts]]; a [[c/_comptroller|comptroller]].**
-- **One who [[a/_audits|audits]] an [[a/_academic|academic]] [[c/_course|course]]; who [[a/_attends|attends]] the lectures but [[d/_does|does]] not [[e/_earn|earn]] [[a/_academic|academic]] [[c/_credit|credit]].**
-- **One who listens, typically as a member of an [[a/_audience|audience]].**
-- **One trained to perform spiritual guidance procedures.**
+- **[[o/_one|One]] who [[a/_audits|audits]] [[b/_bookkeeping|bookkeeping]] [[a/_accounts|accounts]].**
+- **In [[m/_many|many]] [[j/_jurisdictions|jurisdictions]], an [[e/_elected|elected]] or [[a/_appointed|appointed]] public [[o/_official|official]] in [[c/_charge|charge]] of the public [[a/_accounts|accounts]]; a [[c/_comptroller|comptroller]].**
+- **[[o/_one|One]] who [[a/_audits|audits]] an [[a/_academic|academic]] [[c/_course|course]]; who [[a/_attends|attends]] the [[l/_lectures|lectures]] but [[d/_does|does]] not [[e/_earn|earn]] [[a/_academic|academic]] [[c/_credit|credit]].**
+- **[[o/_one|One]] who [[l/_listens|listens]], typically as a [[m/_member|member]] of an [[a/_audience|audience]].**
+- **[[o/_one|One]] trained to perform spiritual [[g/_guidance|guidance]] procedures.**
 ---
 ---

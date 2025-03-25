@@ -1,9 +1,9 @@
 # Disbound
 ---
 #verb
-- **To extend [[b/_beyond|beyond]] its normal [[b/_bounds|bounds]]**
+- **To [[e/_extend|extend]] [[b/_beyond|beyond]] [[i/_its|its]] [[n/_normal|normal]] [[b/_bounds|bounds]]**
 ---
 #adjective
-- **(of a page) removed from a [[b/_bound|bound]] volume**
+- **(of a [[p/_page|page]]) removed from a [[b/_bound|bound]] volume**
 ---
 ---

@@ -1,0 +1,6 @@
+# Odontalgia
+---
+#noun
+- **Toothache**
+---
+---

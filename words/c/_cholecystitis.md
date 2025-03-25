@@ -1,6 +1,6 @@
 # Cholecystitis
 ---
 #noun
-- **An inflammation of the gall [[b/_bladder|bladder]].**
+- **An [[i/_inflammation|inflammation]] of the [[g/_gall|gall]] [[b/_bladder|bladder]].**
 ---
 ---

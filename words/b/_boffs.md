@@ -1,9 +1,9 @@
 # Boffs
 ---
 #verb
-- **To have sexual intercourse (with someone)**
+- **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] (with someone)**
 ---
 #verb
-- **To hit; to strike.**
+- **To [[h/_hit|hit]]; to strike.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dura
 ---
 #noun
-- **The [[d/_dura|dura]] mater, the outer [[c/_covering|covering]] of the [[b/_brain|brain]] and spinal [[c/_cord|cord]].**
+- **The [[d/_dura|dura]] [[m/_mater|mater]], the [[o/_outer|outer]] [[c/_covering|covering]] of the [[b/_brain|brain]] and spinal [[c/_cord|cord]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bogong
 ---
 #noun
-- **[[a/_agrotis|Agrotis]] infusa, a large night-flying [[a/_australian|Australian]] moth.**
+- **[[a/_agrotis|Agrotis]] infusa, a [[l/_large|large]] [[n/_night|night]]-[[f/_flying|flying]] [[a/_australian|Australian]] [[m/_moth|moth]].**
 ---
 ---

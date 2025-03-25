@@ -1,6 +1,6 @@
 # Bo
 ---
 #interjection
-- **An exclamation used to startle or frighten.**
+- **An [[e/_exclamation|exclamation]] used to startle or [[f/_frighten|frighten]].**
 ---
 ---

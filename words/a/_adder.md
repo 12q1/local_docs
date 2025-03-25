@@ -2,6 +2,6 @@
 ---
 #noun
 - **[[a/_any|Any]] snake.**
-- **A name loosely [[a/_applied|applied]] to various snakes more or less resembling the viper; a viper.**
+- **A [[n/_name|name]] [[l/_loosely|loosely]] [[a/_applied|applied]] to various snakes [[m/_more|more]] or [[l/_less|less]] resembling the viper; a viper.**
 ---
 ---

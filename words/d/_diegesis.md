@@ -1,6 +1,6 @@
 # Diegesis
 ---
 #noun
-- **A narration or recitation.**
+- **A [[n/_narration|narration]] or recitation.**
 ---
 ---

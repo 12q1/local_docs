@@ -1,8 +1,8 @@
 # Cavalries
 ---
 #noun
-- **The military [[a/_arm|arm]] of service that fights while riding horses.**
-- **An individual unit of the [[c/_cavalry|cavalry]] [[a/_arm|arm]] of service.**
-- **The [[b/_branch|branch]] of the military transported by fast light vehicles, [[a/_also|also]] known as mechanized [[c/_cavalry|cavalry]].**
+- **The [[m/_military|military]] [[a/_arm|arm]] of service that [[f/_fights|fights]] while riding [[h/_horses|horses]].**
+- **An [[i/_individual|individual]] unit of the [[c/_cavalry|cavalry]] [[a/_arm|arm]] of service.**
+- **The [[b/_branch|branch]] of the [[m/_military|military]] transported by [[f/_fast|fast]] [[l/_light|light]] vehicles, [[a/_also|also]] [[k/_known|known]] as [[m/_mechanized|mechanized]] [[c/_cavalry|cavalry]].**
 ---
 ---

@@ -1,0 +1,21 @@
+# Handle
+---
+#noun
+- **The part of an [[o/_object|object]] which is ([[d/_designed|designed]] to be) [[h/_held|held]] in the [[h/_hand|hand]] when used or [[m/_moved|moved]].**
+- **An [[i/_instrument|instrument]] for [[e/_effecting|effecting]] a purpose ([[e/_either|either]] [[l/_literally|literally]] or [[f/_figuratively|figuratively]]); a tool, or an [[o/_opportunity|opportunity]] or pretext.**
+- **The [[g/_gross|gross]] [[a/_amount|amount]] of wagering within a [[g/_given|given]] period of time or for a [[g/_given|given]] [[e/_event|event]] at [[o/_one|one]] of [[m/_more|more]] [[e/_establishments|establishments]].**
+	- _Example: The daily handle of a Las Vegas casino is typically millions of dollars._
+- **The tactile qualities of a [[f/_fabric|fabric]], [[e/_e|e]].[[g/_g|g]]., softness, [[f/_firmness|firmness]], [[e/_elasticity|elasticity]], [[f/_fineness|fineness]], resilience, and [[o/_other|other]] qualities perceived by touch.**
+- **A [[n/_name|name]], [[n/_nickname|nickname]] or pseudonym.**
+- **A title [[a/_attached|attached]] to [[o/_one|one]]'s [[n/_name|name]], such as [[d/_doctor|Doctor]] or [[c/_colonel|Colonel]].**
+	- _Example: The successful businessman was knighted and acquired a handle to his name._
+- **A reference to an [[o/_object|object]] or structure that [[c/_can|can]] be stored in a variable.**
+	- _Example: This article describes how to find the module name from the window handle._
+- **A 10 [[f/_fl|fl]] [[o/_oz|oz]] (285 [[m/_ml|ml]]) [[g/_glass|glass]] of [[b/_beer|beer]] in the [[n/_northern|Northern]] Territory. (See [[a/_also|also]] pot and [[m/_middy|middy]] for [[o/_other|other]] regional variations.)**
+- **A [[h/_half|half]]-[[g/_gallon|gallon]] (1.75-[[l/_liter|liter]]) [[b/_bottle|bottle]] of [[a/_alcohol|alcohol]]. ([[c/_called|Called]] a sixty in [[c/_canada|Canada]].)**
+- **A point, an [[e/_extremity|extremity]] of [[l/_land|land]].**
+	- _Example: the Handle of the Sug in Newfoundland_
+- **A topological space [[h/_homeomorphic|homeomorphic]] to a [[b/_ball|ball]] but viewed as a product of two [[l/_lower|lower]]-[[d/_dimensional|dimensional]] [[b/_balls|balls]].**
+- **The smooth, [[i/_irreducible|irreducible]] subcurve of a [[c/_comb|comb]] which [[c/_connects|connects]] to [[e/_each|each]] of the [[o/_other|other]] [[c/_components|components]] in [[e/_exactly|exactly]] [[o/_one|one]] point.**
+---
+---

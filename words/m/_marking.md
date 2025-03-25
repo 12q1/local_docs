@@ -1,0 +1,49 @@
+# Marking
+---
+#verb
+- **To put a [[m/_mark|mark]] on (something); to [[m/_make|make]] (something) recognizable by a [[m/_mark|mark]]; to [[l/_label|label]] or write on (something).**
+	- _Example: to mark a box or bale of merchandise_
+- **To [[l/_leave|leave]] a [[m/_mark|mark]] ([[o/_often|often]] an undesirable or unwanted [[o/_one|one]]) on (something).**
+	- _Example: See where this pencil has marked the paper._
+- **To [[h/_have|have]] a [[l/_long|long]]-[[l/_lasting|lasting]] [[n/_negative|negative]] [[i/_impact|impact]] on (someone or something).**
+- **To [[c/_create|create]] an [[i/_indication|indication]] of (a [[l/_location|location]]).**
+	- _Example: She folded over the corner of the page to mark where she left off reading._
+- **To be an [[i/_indication|indication]] of (something); to show where (something) is [[l/_located|located]].**
+	- _Example: A bell marked the end of visiting hours._
+- **To [[i/_indicate|indicate]] (something) in writing or by [[o/_other|other]] symbols.**
+	- _Example: In her Bible, the words of Christ were marked in red._
+- **To [[c/_create|create]] (a [[m/_mark|mark]]) on a surface.**
+- **To [[c/_celebrate|celebrate]] or [[a/_acknowledge|acknowledge]] (an [[e/_event|event]]) through an [[a/_action|action]] of some [[k/_kind|kind]].**
+	- _Example: The national holiday is marked by fireworks._
+- **(of things) To [[i/_identify|identify]] (someone as a particular type of person or as [[h/_having|having]] a particular role).**
+	- _Example: His courage and energy marked him as a leader._
+- **(of people) To [[a/_assign|assign]] (someone) to a particular [[c/_category|category]] or [[c/_class|class]].**
+- **(of people) To [[c/_choose|choose]] or [[i/_intend|intend]] (someone) for a particular [[e/_end|end]] or purpose.**
+- **To be a point in time or space at which something takes place; to [[a/_accompany|accompany]] or be [[a/_accompanied|accompanied]] by (an [[e/_event|event]], [[a/_action|action]], [[e/_etc|etc]].); to [[c/_coincide|coincide]] with.**
+	- _Example: That summer marked the beginning of her obsession with cycling._
+- **To be typical or [[c/_characteristic|characteristic]] of (something).**
+- **To [[d/_distinguish|distinguish]] ([[o/_one|one]] person or thing from [[a/_another|another]]).**
+- **To [[f/_focus|focus]] [[o/_one|one]]'s [[a/_attention|attention]] on (something or someone); to [[p/_pay|pay]] [[a/_attention|attention]] to, to take [[n/_note|note]] of.**
+	- _Example: Mark my words: that boy’s up to no good._
+- **To [[b/_become|become]] [[a/_aware|aware]] of (something) through the physical senses.**
+- **To [[h/_hold|hold]] (someone) in [[o/_one|one]]'s [[l/_line|line]] of sight.**
+- **To [[i/_indicate|indicate]] the [[c/_correctness|correctness]] of and [[g/_give|give]] a score to (a school [[a/_assignment|assignment]], [[e/_exam|exam]] [[a/_answers|answers]], [[e/_etc|etc]].).**
+	- _Example: The teacher had to spend her weekend marking all the tests._
+- **To record that (someone) [[h/_has|has]] a particular status.**
+	- _Example: to mark a student absent._
+- **To [[k/_keep|keep]] [[a/_account|account]] of; to [[e/_enumerate|enumerate]] and register; to [[k/_keep|keep]] score.**
+	- _Example: to mark the points in a game of billiards or a card game_
+- **To [[f/_follow|follow]] a player not in possession of the [[b/_ball|ball]] when [[d/_defending|defending]], to prevent them receiving a pass [[e/_easily|easily]].**
+- **To [[c/_catch|catch]] the [[b/_ball|ball]] [[d/_directly|directly]] from a [[k/_kick|kick]] of 15 [[m/_metres|metres]] or [[m/_more|more]] without [[h/_having|having]] [[b/_been|been]] touched in transit, resulting in a [[f/_free|free]] [[k/_kick|kick]].**
+- **To put a [[m/_marker|marker]] in the place of [[o/_one|one]]'s [[b/_ball|ball]].**
+- **To sing softly, sometimes an [[o/_octave|octave]] [[l/_lower|lower]] than usual, in [[o/_order|order]] to protect [[o/_one|one]]'s voice [[d/_during|during]] a rehearsal.**
+---
+### Synonyms
+- [[b/_blemish|blemish]], [[s/_scar|scar]], [[s/_scratch|scratch]], [[s/_stain|stain]], [[c/_characterize|characterize]], [[t/_typify|typify]], [[c/_classify|classify]], [[c/_commemorate|commemorate]], [[s/_solemnize|solemnize]], [[d/_demonstrate|demonstrate]], [[i/_indicate|indicate]], [[m/_manifest|manifest]], [[r/_reveal|reveal]], [[s/_show|show]], [[s/_signal|signal]], [[d/_destine|destine]], [[t/_target|target]], [[d/_display|display]], [[s/_show|show]], [[w/_write|write]], [[d/_draw|draw]], [[t/_trace|trace]], [[g/_grade|grade]], [[s/_score|score]], [[h/_hear|hear]], [[n/_note|note]], [[n/_notice|notice]], [[o/_observe|observe]], [[p/_perceive|perceive]], [[s/_see|see]], [[h/_heed|heed]], [[o/_observe|observe]], [[w/_watch|watch]], [[r/_represent|represent]], [[s/_see|see]]
+#noun
+- **The [[a/_action|action]] of the verb to [[m/_mark|mark]].**
+- **A [[m/_mark|mark]].**
+- **The [[c/_characteristic|characteristic]] [[c/_colouration|colouration]] and patterning of an [[a/_animal|animal]].**
+- **[[a/_any|Any]] [[c/_configuration|configuration]] of a Petri [[n/_net|net]] with a [[n/_number|number]] of [[m/_marks|marks]] or tokens [[d/_distributed|distributed]] [[a/_across|across]] it.**
+---
+---

@@ -1,10 +1,10 @@
 # Cannibalizes
 ---
 #verb
-- **To [[e/_eat|eat]] (parts of) [[a/_another|another]] of one's own species.**
+- **To [[e/_eat|eat]] (parts of) [[a/_another|another]] of [[o/_one|one]]'s [[o/_own|own]] species.**
 	- _Example: The female black widow spider is known to cannibalise the male._
-- **To remove parts of (a machine, [[e/_etc|etc]]) for use in other similar machines.**
-- **To reduce sales or market share (for one of one's own products) by introducing [[a/_another|another]].**
-- **Rework old material; rehash.**
+- **To remove parts of (a [[m/_machine|machine]], [[e/_etc|etc]]) for use in [[o/_other|other]] similar [[m/_machines|machines]].**
+- **To reduce sales or [[m/_market|market]] share (for [[o/_one|one]] of [[o/_one|one]]'s [[o/_own|own]] products) by [[i/_introducing|introducing]] [[a/_another|another]].**
+- **Rework [[o/_old|old]] [[m/_material|material]]; rehash.**
 ---
 ---

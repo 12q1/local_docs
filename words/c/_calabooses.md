@@ -1,6 +1,6 @@
 # Calabooses
 ---
 #noun
-- **A prison or jail/gaol.**
+- **A prison or [[j/_jail|jail]]/[[g/_gaol|gaol]].**
 ---
 ---

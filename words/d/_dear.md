@@ -1,10 +1,10 @@
 # Dear
 ---
 #noun
-- **A very kind, loving person.**
+- **A very [[k/_kind|kind]], [[l/_loving|loving]] person.**
 	- _Example: My cousin is such a dear, always drawing me pictures._
 - **A [[b/_beloved|beloved]] person.**
-- **An [[a/_affectionate|affectionate]], familiar term of [[a/_address|address]], such as used [[b/_between|between]] husband and wife.**
+- **An [[a/_affectionate|affectionate]], [[f/_familiar|familiar]] term of [[a/_address|address]], such as used [[b/_between|between]] [[h/_husband|husband]] and wife.**
 	- _Example: Pass me the salt, would you dear?_
 ---
 ### Synonyms
@@ -13,22 +13,22 @@
 - **To [[e/_endear|endear]].**
 ---
 #adjective
-- **High in price; expensive.**
+- **[[h/_high|High]] in price; [[e/_expensive|expensive]].**
 	- _Example: The dearer the jewel, the greater the love expressed._
-- **Loved; lovable.**
-- **Loving, [[a/_affectionate|affectionate]], heartfelt**
+- **[[l/_loved|Loved]]; [[l/_lovable|lovable]].**
+- **[[l/_loving|Loving]], [[a/_affectionate|affectionate]], [[h/_heartfelt|heartfelt]]**
 	- _Example: Such dear embrace tenderly comforts even in this dear sorrow._
-- **Precious to or greatly valued by someone.**
+- **Precious to or [[g/_greatly|greatly]] valued by someone.**
 	- _Example: The dearer the giver, the dearer the trinket he brings!_
-- **A formal way to start (possibly [[a/_after|after]] my) [[a/_addressing|addressing]] somebody at the [[b/_beginning|beginning]] of a letter, memo [[e/_etc|etc]].**
+- **A [[f/_formal|formal]] way to start (possibly [[a/_after|after]] [[m/_my|my]]) [[a/_addressing|addressing]] somebody at the [[b/_beginning|beginning]] of a [[l/_letter|letter]], [[m/_memo|memo]] [[e/_etc|etc]].**
 	- _Example: Dear Sir/Madam/Miss, please notice our offices will be closed during the following bank holidays: [...]._
-- **A formal way to start (often [[a/_after|after]] my) [[a/_addressing|addressing]] somebody one likes or regards kindly.**
+- **A [[f/_formal|formal]] way to start ([[o/_often|often]] [[a/_after|after]] [[m/_my|my]]) [[a/_addressing|addressing]] somebody [[o/_one|one]] [[l/_likes|likes]] or regards [[k/_kindly|kindly]].**
 	- _Example: My dear friend, I feel better as soon as you come sit beside my sickbed!_
-- **An ironic way to start (often [[a/_after|after]] my) [[a/_addressing|addressing]] an inferior.**
+- **An [[i/_ironic|ironic]] way to start ([[o/_often|often]] [[a/_after|after]] [[m/_my|my]]) [[a/_addressing|addressing]] an [[i/_inferior|inferior]].**
 	- _Example: My dear boy, if your grades don't pick up I won't bounce you on but over my knee!_
-- **Noble.**
+- **[[n/_noble|Noble]].**
 ---
 #adverb
-- **[[d/_dearly|Dearly]]; at a high price**
+- **[[d/_dearly|Dearly]]; at a [[h/_high|high]] price**
 ---
 ---

@@ -1,0 +1,9 @@
+# Gelling
+---
+#verb
+- **To [[a/_apply|apply]] ([[c/_cosmetic|cosmetic]]) [[g/_gel|gel]] to (the [[h/_hair|hair]], [[e/_etc|etc]]).**
+- **To [[b/_become|become]] a [[g/_gel|gel]].**
+- **To [[d/_develop|develop]] a rapport.**
+	- _Example: He was a nice guy, and I got on OK with his friends, but the two of us never really gelled._
+---
+---

@@ -1,0 +1,69 @@
+# Having
+---
+#verb
+- **To possess, [[o/_own|own]].**
+	- _Example: I have a house and a car._
+- **To [[h/_hold|hold]], as something at someone's [[d/_disposal|disposal]].**
+	- _Example: Do you have the key? (not necessarily one's own key)_
+- **Used to state the [[e/_existence|existence]] or presence of someone in a specified relationship with the subject.**
+	- _Example: I have a really mean boss._
+- **To partake of (a particular substance, [[e/_especially|especially]] [[f/_food|food]] or [[d/_drink|drink]], or [[a/_action|action]] or [[a/_activity|activity]]).**
+	- _Example: Can I have a look at that?_
+- **To be scheduled to [[a/_attend|attend]], undertake or participate in.**
+	- _Example: Fred won't be able to come to the party; he has a meeting that day._
+- **To [[e/_experience|experience]], [[g/_go|go]] through, undergo.**
+	- _Example: He had surgery on his hip yesterday._
+- **To be [[a/_afflicted|afflicted]] with, suffer from.**
+	- _Example: He had a cold last week._
+- **([[a/_auxiliary|auxiliary]] verb, taking a past participle) Used in [[f/_forming|forming]] the perfect [[a/_aspect|aspect]].**
+	- _Example: I had already eaten._
+- **Used as an [[i/_interrogative|interrogative]] verb [[b/_before|before]] a pronoun to [[f/_form|form]] a tag question, [[e/_echoing|echoing]] a previous use of '[[h/_have|have]]' as an [[a/_auxiliary|auxiliary]] verb or, in [[c/_certain|certain]] [[c/_cases|cases]], [[m/_main|main]] verb. (For [[f/_further|further]] [[d/_discussion|discussion]], see the [[a/_appendix|appendix]] [[e/_english|English]] tag questions.)**
+	- _Example: They haven't eaten dinner yet, have they?_
+- **([[a/_auxiliary|auxiliary]] verb, taking a to-[[i/_infinitive|infinitive]]) See [[h/_have|have]] to.**
+	- _Example: I have to go._
+- **To [[g/_give|give]] [[b/_birth|birth]] to.**
+	- _Example: My mother had me when she was 25._
+- **To [[e/_engage|engage]] in sexual [[i/_intercourse|intercourse]] with.**
+	- _Example: He's always bragging about how many women he's had._
+- **To [[a/_accept|accept]] as a romantic partner.**
+	- _Example: Despite my protestations of love, she would not have me._
+- **(transitive with [[b/_bare|bare]] [[i/_infinitive|infinitive]]) To [[c/_cause|cause]] to, by a [[c/_command|command]], request or [[i/_invitation|invitation]].**
+	- _Example: They had me feed their dog while they were out of town._
+- **(transitive with [[a/_adjective|adjective]] or [[a/_adjective|adjective]]-phrase [[c/_complement|complement]]) To [[c/_cause|cause]] to be.**
+	- _Example: He had him arrested for trespassing._
+- **(transitive with [[b/_bare|bare]] [[i/_infinitive|infinitive]]) To be [[a/_affected|affected]] by an [[o/_occurrence|occurrence]]. (Used in supplying a topic that is not a verb [[a/_argument|argument]].)**
+	- _Example: I've had three people today tell me my hair looks nice._
+- **(transitive with [[a/_adjective|adjective]] or [[a/_adjective|adjective]]-phrase [[c/_complement|complement]]) To [[d/_depict|depict]] as [[b/_being|being]].**
+	- _Example: Their stories differed; he said he'd been at work when the incident occurred, but her statement had him at home that entire evening._
+- **To [[d/_defeat|defeat]] in a [[f/_fight|fight]]; take.**
+	- _Example: I could have him!_
+- **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[i/_ireland|Ireland]]) To be [[a/_able|able]] to speak (a [[l/_language|language]]).**
+	- _Example: I have no German._
+- **To [[f/_feel|feel]] or be ([[e/_especially|especially]] [[p/_painfully|painfully]]) [[a/_aware|aware]] of.**
+	- _Example: Dan certainly has arms today, probably from scraping paint off four columns the day before._
+- **To trick, to [[d/_deceive|deceive]].**
+	- _Example: You had me alright! I never would have thought that was just a joke._
+- **([[o/_often|often]] with present participle) To [[a/_allow|allow]]; to tolerate.**
+	- _Example: I asked my dad if I could go to the concert this Thursday, but he wouldn't have it since it's a school night._
+- **([[o/_often|often]] used in the [[n/_negative|negative]]) To [[b/_believe|believe]], [[b/_buy|buy]], be taken in by.**
+	- _Example: I made up an excuse as to why I was out so late, but my wife wasn't having any of it._
+- **To [[h/_host|host]] someone; to take in as a [[g/_guest|guest]].**
+	- _Example: Thank you for having me!_
+- **To [[g/_get|get]] a reading, [[m/_measurement|measurement]], or result from an [[i/_instrument|instrument]] or [[c/_calculation|calculation]].**
+	- _Example: I have two contacts on my scope._
+- **(of a [[j/_jury|jury]]) To [[c/_consider|consider]] a [[c/_court|court]] proceeding that [[h/_has|has]] [[b/_been|been]] [[c/_completed|completed]]; to [[b/_begin|begin]] [[d/_deliberations|deliberations]] on a [[c/_case|case]].**
+	- _Example: We'll schedule closing arguments for Thursday, and the jury will have the case by that afternoon._
+- **To [[m/_make|make]] an [[o/_observation|observation]] of (a [[b/_bird|bird]] species).**
+---
+### Synonyms
+- [[t/_take|take]]
+#noun
+- **The [[a/_act|act]] of possessing; [[o/_ownership|ownership]].**
+- **Something [[o/_owned|owned]]; possession; [[g/_goods|goods]]; [[e/_estate|estate]].**
+- **A person's [[b/_behaviour|behaviour]].**
+- **([[c/_chiefly|chiefly]] in the plural) [[g/_good|Good]] [[m/_manners|manners]].**
+---
+#adjective
+- **[[g/_grasping|Grasping]]; [[g/_greedy|greedy]].**
+---
+---

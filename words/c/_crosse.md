@@ -1,6 +1,6 @@
 # Crosse
 ---
 #noun
-- **A lacrosse stick.**
+- **A [[l/_lacrosse|lacrosse]] stick.**
 ---
 ---

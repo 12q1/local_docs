@@ -1,8 +1,8 @@
 # Confessor
 ---
 #noun
-- **One who [[c/_confesses|confesses]] faith in [[c/_christianity|Christianity]] in the face of persecution, but who is not martyred.**
-- **One who [[c/_confesses|confesses]] to having [[d/_done|done]] something wrong.**
-- **A priest who hears [[c/_confession|confession]] and then gives [[a/_absolution|absolution]]**
+- **[[o/_one|One]] who [[c/_confesses|confesses]] [[f/_faith|faith]] in [[c/_christianity|Christianity]] in the [[f/_face|face]] of persecution, but who is not [[m/_martyred|martyred]].**
+- **[[o/_one|One]] who [[c/_confesses|confesses]] to [[h/_having|having]] [[d/_done|done]] something wrong.**
+- **A priest who [[h/_hears|hears]] [[c/_confession|confession]] and then [[g/_gives|gives]] [[a/_absolution|absolution]]**
 ---
 ---

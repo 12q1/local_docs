@@ -1,19 +1,19 @@
 # Birrs
 ---
 #noun
-- **Force, vigor, [[e/_energy|energy]]**
+- **[[f/_force|Force]], vigor, [[e/_energy|energy]]**
 - **A strong wind.**
-- **The force of movement; rush, impetus, momentum, [[d/_driving|driving]] force**
+- **The [[f/_force|force]] of [[m/_movement|movement]]; rush, [[i/_impetus|impetus]], [[m/_momentum|momentum]], [[d/_driving|driving]] [[f/_force|force]]**
 - **A thrust or push.**
-- **A whirring noise**
+- **A whirring [[n/_noise|noise]]**
 - **A strong trilling.**
 ---
 #verb
-- **To make a whirring noise; make a noise like that of revolving wheels, or of millstones at work.**
-- **To lurch or set to spinning.**
+- **To [[m/_make|make]] a whirring [[n/_noise|noise]]; [[m/_make|make]] a [[n/_noise|noise]] [[l/_like|like]] that of revolving wheels, or of [[m/_millstones|millstones]] at work.**
+- **To [[l/_lurch|lurch]] or set to spinning.**
 ---
 #noun
-- **The [[c/_currency|currency]] of [[e/_ethiopia|Ethiopia]], [[d/_divided|divided]] into 100 santims.**
+- **The [[c/_currency|currency]] of [[e/_ethiopia|Ethiopia]], [[d/_divided|divided]] [[i/_into|into]] 100 santims.**
 ---
 ### Synonyms
 - [[E/_ETB|ETB]]

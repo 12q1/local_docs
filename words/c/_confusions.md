@@ -1,8 +1,8 @@
 # Confusions
 ---
 #noun
-- **A lack of [[c/_clarity|clarity]] or order.**
-- **The state of [[b/_being|being]] [[c/_confused|confused]]; misunderstanding.**
+- **A [[l/_lack|lack]] of [[c/_clarity|clarity]] or [[o/_order|order]].**
+- **The state of [[b/_being|being]] [[c/_confused|confused]]; [[m/_misunderstanding|misunderstanding]].**
 - **A state of shame or [[e/_embarrassment|embarrassment]].**
 ---
 ### Synonyms

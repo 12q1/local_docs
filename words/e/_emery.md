@@ -1,7 +1,7 @@
 # Emery
 ---
 #noun
-- **An impure type of [[c/_corundum|corundum]], often used for sanding or polishing.**
+- **An [[i/_impure|impure]] type of [[c/_corundum|corundum]], [[o/_often|often]] used for sanding or polishing.**
 ---
 #verb
 - **To sand or polish with [[e/_emery|emery]].**

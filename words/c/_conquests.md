@@ -1,15 +1,15 @@
 # Conquests
 ---
 #noun
-- **Victory gained through [[c/_combat|combat]]; the subjugation of an [[e/_enemy|enemy]].**
-- **(by extenstion) An [[a/_act|act]] or instance of overcoming an obstacle.**
-- **That which is [[c/_conquered|conquered]]; possession gained by force, physical or moral.**
-- **(feudal law) The [[a/_acquiring|acquiring]] of property by other means than by inheritance; [[a/_acquisition|acquisition]].**
-- **A person whose romantic [[a/_affections|affections]] one has gained, or with whom one has had sex.**
-- **A [[c/_competitive|competitive]] mode found in first-person shooter games in which [[c/_competing|competing]] teams (usually two) [[a/_attempt|attempt]] to take over predetermined spawn points labeled by flags.**
+- **Victory [[g/_gained|gained]] through [[c/_combat|combat]]; the subjugation of an [[e/_enemy|enemy]].**
+- **(by extenstion) An [[a/_act|act]] or [[i/_instance|instance]] of [[o/_overcoming|overcoming]] an [[o/_obstacle|obstacle]].**
+- **That which is [[c/_conquered|conquered]]; possession [[g/_gained|gained]] by [[f/_force|force]], physical or [[m/_moral|moral]].**
+- **([[f/_feudal|feudal]] [[l/_law|law]]) The [[a/_acquiring|acquiring]] of property by [[o/_other|other]] [[m/_means|means]] than by [[i/_inheritance|inheritance]]; [[a/_acquisition|acquisition]].**
+- **A person whose romantic [[a/_affections|affections]] [[o/_one|one]] [[h/_has|has]] [[g/_gained|gained]], or with whom [[o/_one|one]] [[h/_has|has]] [[h/_had|had]] sex.**
+- **A [[c/_competitive|competitive]] [[m/_mode|mode]] [[f/_found|found]] in [[f/_first|first]]-person shooter [[g/_games|games]] in which [[c/_competing|competing]] teams (usually two) [[a/_attempt|attempt]] to take [[o/_over|over]] predetermined spawn points [[l/_labeled|labeled]] by [[f/_flags|flags]].**
 ---
 #verb
 - **To [[c/_conquer|conquer]].**
-- **To [[c/_compete|compete]] with an [[e/_established|established]] [[c/_competitor|competitor]] by placing [[a/_advertisements|advertisements]] for one's own products [[a/_adjacent|adjacent]] to [[e/_editorial|editorial]] [[c/_content|content]] relating to the [[c/_competitor|competitor]] or by using terms and keywords for one's own products that are [[c/_currently|currently]] [[a/_associated|associated]] with the [[c/_competitor|competitor]].**
+- **To [[c/_compete|compete]] with an [[e/_established|established]] [[c/_competitor|competitor]] by placing [[a/_advertisements|advertisements]] for [[o/_one|one]]'s [[o/_own|own]] products [[a/_adjacent|adjacent]] to [[e/_editorial|editorial]] [[c/_content|content]] relating to the [[c/_competitor|competitor]] or by using terms and [[k/_keywords|keywords]] for [[o/_one|one]]'s [[o/_own|own]] products that are [[c/_currently|currently]] [[a/_associated|associated]] with the [[c/_competitor|competitor]].**
 ---
 ---

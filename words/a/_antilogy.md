@@ -1,6 +1,6 @@
 # Antilogy
 ---
 #noun
-- **A [[c/_contradiction|contradiction]] in related terms or ideas. Usually an inconsistency in syllogisms, of a person or group supposedly of one set of ideals.**
+- **A [[c/_contradiction|contradiction]] in related terms or [[i/_ideas|ideas]]. Usually an [[i/_inconsistency|inconsistency]] in syllogisms, of a person or [[g/_group|group]] supposedly of [[o/_one|one]] set of [[i/_ideals|ideals]].**
 ---
 ---

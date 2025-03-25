@@ -1,0 +1,22 @@
+# Mediums
+---
+#noun
+- **(plural [[m/_media|media]] or [[m/_mediums|mediums]]) The [[c/_chemistry|chemistry]] of the surrounding [[e/_environment|environment]], [[e/_e|e]].[[g/_g|g]]. solid, [[l/_liquid|liquid]], [[g/_gas|gas]], vacuum, or a specific substance such as a solvent.**
+- **(plural [[m/_media|media]] or [[m/_mediums|mediums]]) The [[m/_materials|materials]] or [[e/_empty|empty]] space through which signals, waves or [[f/_forces|forces]] pass.**
+- **(plural [[m/_media|media]] or [[m/_mediums|mediums]]) A [[f/_format|format]] for [[c/_communicating|communicating]] or presenting [[i/_information|information]].**
+- **(plural [[m/_media|media]] or [[m/_mediums|mediums]]) The [[m/_materials|materials]] used to [[f/_finish|finish]] a workpiece using a [[m/_mass|mass]] [[f/_finishing|finishing]] or [[a/_abrasive|abrasive]] [[b/_blasting|blasting]] process.**
+- **(plural [[m/_media|media]] or [[m/_mediums|mediums]]) A [[n/_nutrient|nutrient]] solution for the [[g/_growth|growth]] of [[c/_cells|cells]] in vitro.**
+- **(plural [[m/_media|media]] or [[m/_mediums|mediums]]) The [[m/_means|means]], [[c/_channel|channel]], or [[a/_agency|agency]] by which an [[a/_aim|aim]] is [[a/_achieved|achieved]].**
+- **(plural [[m/_mediums|mediums]] or [[m/_media|media]]) A [[l/_liquid|liquid]] [[b/_base|base]] which [[c/_carries|carries]] pigment in [[p/_paint|paint]].**
+- **(plural [[m/_mediums|mediums]] or [[m/_media|media]]) A tool used for [[p/_painting|painting]] or [[d/_drawing|drawing]].**
+	- _Example: Acrylics, oils, charcoal, and gouache are all mediums I used in my painting._
+- **(plural [[m/_mediums|mediums]]) Someone who supposedly [[c/_conveys|conveys]] [[i/_information|information]] from the spirit world.**
+- **(plural [[m/_mediums|mediums]]) [[a/_anything|Anything]] [[h/_having|having]] a [[m/_measurement|measurement]] [[i/_intermediate|intermediate]] [[b/_between|between]] [[e/_extremes|extremes]], such as a [[g/_garment|garment]] or [[c/_container|container]].**
+- **(plural [[m/_mediums|mediums]]) A person whom [[g/_garments|garments]] or [[a/_apparel|apparel]] of [[i/_intermediate|intermediate]] size [[f/_fit|fit]].**
+- **(plural [[m/_mediums|mediums]]) A [[h/_half|half]]-pint serving of [[g/_guinness|Guinness]] (or [[o/_other|other]] stout in some regions).**
+- **A [[m/_middle|middle]] place or [[d/_degree|degree]].**
+	- _Example: a happy medium_
+- **An [[a/_average|average]]; sometimes the [[m/_mathematical|mathematical]] [[m/_mean|mean]].**
+- **The [[m/_mean|mean]] or [[m/_middle|middle]] term of a syllogism, that by which the [[e/_extremes|extremes]] are [[b/_brought|brought]] [[i/_into|into]] [[c/_connection|connection]].**
+---
+---

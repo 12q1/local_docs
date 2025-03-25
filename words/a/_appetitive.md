@@ -1,6 +1,6 @@
 # Appetitive
 ---
 #adjective
-- **Having the quality of [[d/_desiring|desiring]] gratification.**
+- **[[h/_having|Having]] the quality of [[d/_desiring|desiring]] [[g/_gratification|gratification]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Currently
 ---
 #adverb
-- **At this moment, at present, now.**
+- **At this [[m/_moment|moment]], at present, [[n/_now|now]].**
 ---
 ---

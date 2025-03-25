@@ -4,6 +4,6 @@
 - **A [[c/_cleric|cleric]].**
 ---
 #noun
-- **The field of study of the [[c/_church|church]].**
+- **The [[f/_field|field]] of study of the [[c/_church|church]].**
 ---
 ---

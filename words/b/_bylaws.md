@@ -1,8 +1,8 @@
 # Bylaws
 ---
 #noun
-- **A local [[c/_custom|custom]] or law of a settlement or [[d/_district|district]].**
-- **A rule made by a local [[a/_authority|authority]] to regulate its own [[a/_affairs|affairs]].**
-- **A law or rule governing the internal [[a/_affairs|affairs]] of an organization ([[e/_e|e]].g., [[c/_corporation|corporation]] or [[b/_business|business]]).**
+- **A [[l/_local|local]] [[c/_custom|custom]] or [[l/_law|law]] of a settlement or [[d/_district|district]].**
+- **A rule [[m/_made|made]] by a [[l/_local|local]] [[a/_authority|authority]] to regulate [[i/_its|its]] [[o/_own|own]] [[a/_affairs|affairs]].**
+- **A [[l/_law|law]] or rule [[g/_governing|governing]] the [[i/_internal|internal]] [[a/_affairs|affairs]] of an [[o/_organization|organization]] ([[e/_e|e]].[[g/_g|g]]., [[c/_corporation|corporation]] or [[b/_business|business]]).**
 ---
 ---

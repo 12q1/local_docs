@@ -1,11 +1,11 @@
 # Cabals
 ---
 #noun
-- **# A putative, secret organization of individuals gathered for a political purpose.**
+- **# A putative, secret [[o/_organization|organization]] of [[i/_individuals|individuals]] [[g/_gathered|gathered]] for a political purpose.**
 	- _Example: The cabal is plotting to ruin the world._
 - **A secret plot.**
 	- _Example: The cabal to destroy the building was foiled by federal agents._
-- **An identifiable group within the tradition of Discordianism.**
+- **An [[i/_identifiable|identifiable]] [[g/_group|group]] within the tradition of Discordianism.**
 ---
 ### Synonyms
 - [[c/_camarilla|camarilla]], [[c/_conspiracy|conspiracy]]

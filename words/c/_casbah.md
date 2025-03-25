@@ -1,7 +1,7 @@
 # Casbah
 ---
 #noun
-- **The fortress in a [[c/_city|city]] in North [[a/_africa|Africa]] or the Middle [[e/_east|East]].**
-- **(by synecdoche) The medina, the older part of a [[c/_city|city]] in North [[a/_africa|Africa]] or the Middle [[e/_east|East]].**
+- **The [[f/_fortress|fortress]] in a [[c/_city|city]] in [[n/_north|North]] [[a/_africa|Africa]] or the [[m/_middle|Middle]] [[e/_east|East]].**
+- **(by synecdoche) The [[m/_medina|medina]], the [[o/_older|older]] part of a [[c/_city|city]] in [[n/_north|North]] [[a/_africa|Africa]] or the [[m/_middle|Middle]] [[e/_east|East]].**
 ---
 ---

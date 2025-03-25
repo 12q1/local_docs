@@ -1,6 +1,6 @@
 # Compadre
 ---
 #noun
-- **A friend or [[c/_companion|companion]].**
+- **A [[f/_friend|friend]] or [[c/_companion|companion]].**
 ---
 ---

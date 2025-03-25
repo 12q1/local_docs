@@ -1,18 +1,18 @@
 # Assisting
 ---
 #verb
-- **To help.**
+- **To [[h/_help|help]].**
 	- _Example: This book will assist you in getting your life in order._
-- **To make a pass that leads [[d/_directly|directly]] towards scoring.**
-- **To help [[c/_compensate|compensate]] for what is missing with the help of a medical technique or therapy.**
-- **To stand (at a place) or to (an opinion).**
+- **To [[m/_make|make]] a pass that [[l/_leads|leads]] [[d/_directly|directly]] towards scoring.**
+- **To [[h/_help|help]] [[c/_compensate|compensate]] for what is [[m/_missing|missing]] with the [[h/_help|help]] of a [[m/_medical|medical]] technique or therapy.**
+- **To stand (at a place) or to (an [[o/_opinion|opinion]]).**
 	- _Example: A great part of the nobility assisted to his opinion._
-- **To be present (at an event, occasion [[e/_etc|etc]].).**
+- **To be present (at an [[e/_event|event]], [[o/_occasion|occasion]] [[e/_etc|etc]].).**
 ---
 #noun
-- **[[a/_assistance|Assistance]]; help given**
+- **[[a/_assistance|Assistance]]; [[h/_help|help]] [[g/_given|given]]**
 ---
 #adjective
-- **Helpful; [[a/_auxiliary|auxiliary]] (to).**
+- **[[h/_helpful|Helpful]]; [[a/_auxiliary|auxiliary]] (to).**
 ---
 ---

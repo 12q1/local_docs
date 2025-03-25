@@ -4,6 +4,6 @@
 - **To remove [[c/_controls|controls]].**
 ---
 #adjective
-- **Released from a form of [[c/_control|control]].**
+- **Released from a [[f/_form|form]] of [[c/_control|control]].**
 ---
 ---

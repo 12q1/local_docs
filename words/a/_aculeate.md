@@ -1,11 +1,11 @@
 # Aculeate
 ---
 #noun
-- **[[a/_any|Any]] insect of the infraorder [[a/_aculeata|Aculeata]], which have ovipositors modified into stingers.**
+- **[[a/_any|Any]] [[i/_insect|insect]] of the infraorder [[a/_aculeata|Aculeata]], which [[h/_have|have]] ovipositors [[m/_modified|modified]] [[i/_into|into]] stingers.**
 ---
 #adjective
-- **Having a sting; sharp like a prickle.**
-- **Having prickles or sharp points.**
-- **Having a stinger; stinging.**
+- **[[h/_having|Having]] a sting; sharp [[l/_like|like]] a prickle.**
+- **[[h/_having|Having]] prickles or sharp points.**
+- **[[h/_having|Having]] a stinger; stinging.**
 ---
 ---

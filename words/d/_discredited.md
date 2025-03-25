@@ -1,7 +1,7 @@
 # Discredited
 ---
 #verb
-- **To harm the good reputation of a person; to [[c/_cause|cause]] an idea or piece of evidence to seem false or unreliable.**
+- **To [[h/_harm|harm]] the [[g/_good|good]] reputation of a person; to [[c/_cause|cause]] an [[i/_idea|idea]] or piece of [[e/_evidence|evidence]] to seem [[f/_false|false]] or unreliable.**
 	- _Example: The candidate tried to discredit his opponent._
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Biker
 ---
 #noun
-- **A person whose lifestyle is [[c/_centered|centered]] on motorcycles, sometimes a member of a motorcycle [[c/_club|club]].**
+- **A person whose [[l/_lifestyle|lifestyle]] is [[c/_centered|centered]] on [[m/_motorcycles|motorcycles]], sometimes a [[m/_member|member]] of a [[m/_motorcycle|motorcycle]] [[c/_club|club]].**
 - **[[c/_cyclist|Cyclist]]**
 ---
 ### Synonyms

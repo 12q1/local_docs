@@ -7,7 +7,7 @@
 ---
 #adjective
 - **Of or relating to [[c/_chemistry|chemistry]].**
-- **Of or relating to a material or processes not [[c/_commonly|commonly]] found in nature or in a particular product.**
+- **Of or relating to a [[m/_material|material]] or processes not [[c/_commonly|commonly]] [[f/_found|found]] in [[n/_nature|nature]] or in a particular product.**
 - **Of or relating to [[a/_alchemy|alchemy]].**
 ---
 ---

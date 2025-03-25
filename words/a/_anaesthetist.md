@@ -1,6 +1,6 @@
 # Anaesthetist
 ---
 #noun
-- **One who gives an [[a/_anesthetic|anesthetic]].**
+- **[[o/_one|One]] who [[g/_gives|gives]] an [[a/_anesthetic|anesthetic]].**
 ---
 ---

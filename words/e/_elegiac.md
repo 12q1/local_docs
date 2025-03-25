@@ -1,11 +1,11 @@
 # Elegiac
 ---
 #noun
-- **A poem [[c/_composed|composed]] in the [[c/_couplet|couplet]] style of [[c/_classical|classical]] [[e/_elegies|elegies]]: a line of [[d/_dactylic|dactylic]] hexameter followed by a line of [[d/_dactylic|dactylic]] pentameter.**
+- **A poem [[c/_composed|composed]] in the [[c/_couplet|couplet]] style of [[c/_classical|classical]] [[e/_elegies|elegies]]: a [[l/_line|line]] of [[d/_dactylic|dactylic]] [[h/_hexameter|hexameter]] [[f/_followed|followed]] by a [[l/_line|line]] of [[d/_dactylic|dactylic]] pentameter.**
 ---
 #adjective
 - **Of or relating to an [[e/_elegy|elegy]].**
 	- _Example: the elegiac distich or couplet, consisting of a dactylic hexameter and pentameter_
-- **Expressing sorrow or mourning.**
+- **[[e/_expressing|Expressing]] sorrow or [[m/_mourning|mourning]].**
 ---
 ---

@@ -1,55 +1,55 @@
 # China
 ---
 #noun
-- **The plant Smilax [[c/_china|china]], a liana of much of [[e/_eastern|eastern]] [[a/_asia|Asia]].**
+- **The plant Smilax [[c/_china|china]], a [[l/_liana|liana]] of [[m/_much|much]] of [[e/_eastern|eastern]] [[a/_asia|Asia]].**
 ---
 ### Synonyms
 - [[c/_china|china]]
 #noun
-- **A plant or flower of the repeat-[[b/_blooming|blooming]] [[c/_chinese|Chinese]] rose species Rosa chinensis.**
-- **A plant or flower of one of the [[c/_class|class]] of hybrids [[d/_developed|developed]] from Rosa chinensis.**
+- **A plant or [[f/_flower|flower]] of the repeat-[[b/_blooming|blooming]] [[c/_chinese|Chinese]] rose species Rosa chinensis.**
+- **A plant or [[f/_flower|flower]] of [[o/_one|one]] of the [[c/_class|class]] of [[h/_hybrids|hybrids]] [[d/_developed|developed]] from Rosa chinensis.**
 - **Synonym of elderflower rose, Rosa cymosa.**
 ---
 ### Synonyms
 - [[c/_china|china]]
 #noun
-- **Hibiscus rosa-sinensis, native to [[e/_east|east]] [[a/_asia|Asia]].**
+- **[[h/_hibiscus|Hibiscus]] rosa-sinensis, [[n/_native|native]] to [[e/_east|east]] [[a/_asia|Asia]].**
 ---
 ### Synonyms
 - 
 #noun
 - **[[c/_chinaware|Chinaware]]: porcelain tableware.**
 	- _Example: He set the table with china, cloth napkins, and crystal stemware._
-- **[[c/_cheaper|Cheaper]] and lower-quality [[c/_ceramic|ceramic]] and [[c/_ceramic|ceramic]] tableware, [[d/_distinguished|distinguished]] from porcelain.**
+- **[[c/_cheaper|Cheaper]] and [[l/_lower|lower]]-quality [[c/_ceramic|ceramic]] and [[c/_ceramic|ceramic]] tableware, [[d/_distinguished|distinguished]] from porcelain.**
 - **Synonym of [[c/_cheyney|cheyney]]: worsted or woolen stuff.**
-- **Tea from [[c/_china|China]], varieties [[c/_cured|cured]] by smoking or opposed to Indian [[c/_cultivars|cultivars]].**
-- **(games) A glazed [[c/_china|china]] marble.**
-- **A kind of [[d/_drum|drum]] [[c/_cymbal|cymbal]] [[a/_approximating|approximating]] a [[c/_chinese|Chinese]] style of [[c/_cymbal|cymbal]], but usually with Turkish influences.**
+- **Tea from [[c/_china|China]], varieties [[c/_cured|cured]] by smoking or [[o/_opposed|opposed]] to [[i/_indian|Indian]] [[c/_cultivars|cultivars]].**
+- **([[g/_games|games]]) A [[g/_glazed|glazed]] [[c/_china|china]] [[m/_marble|marble]].**
+- **A [[k/_kind|kind]] of [[d/_drum|drum]] [[c/_cymbal|cymbal]] [[a/_approximating|approximating]] a [[c/_chinese|Chinese]] style of [[c/_cymbal|cymbal]], but usually with Turkish [[i/_influences|influences]].**
 ---
 #noun
-- **A small gastropod (Monetaria moneta, syn. [[c/_cypraea|Cypraea]] moneta) [[c/_common|common]] in the Indian Ocean; its shell.**
-- **(by extension) [[a/_any|Any]] gastropod of the genus [[c/_cypraea|Cypraea]]; its shell.**
-- **(by extension) [[a/_any|Any]] gastropod of the family [[c/_cypraeidae|Cypraeidae]]; its shell.**
+- **A small [[g/_gastropod|gastropod]] (Monetaria moneta, syn. [[c/_cypraea|Cypraea]] moneta) [[c/_common|common]] in the [[i/_indian|Indian]] [[o/_ocean|Ocean]]; [[i/_its|its]] shell.**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[g/_gastropod|gastropod]] of the [[g/_genus|genus]] [[c/_cypraea|Cypraea]]; [[i/_its|its]] shell.**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[g/_gastropod|gastropod]] of the [[f/_family|family]] [[c/_cypraeidae|Cypraeidae]]; [[i/_its|its]] shell.**
 ---
 ### Synonyms
 - [[w/_wampum|wampum]]
 #noun
-- **A person other than a family member, spouse or lover whose [[c/_company|company]] one [[e/_enjoys|enjoys]] and towards whom one feels [[a/_affection|affection]].**
+- **A person [[o/_other|other]] than a [[f/_family|family]] [[m/_member|member]], spouse or [[l/_lover|lover]] whose [[c/_company|company]] [[o/_one|one]] [[e/_enjoys|enjoys]] and towards whom [[o/_one|one]] [[f/_feels|feels]] [[a/_affection|affection]].**
 	- _Example: John and I have been friends ever since we were roommates at college.   Trust is important between friends.   I used to find it hard to make friends when I was shy._
 - **An [[a/_associate|associate]] who provides [[a/_assistance|assistance]].**
 	- _Example: The Automobile Association is every motorist's friend.   The police is every law-abiding citizen's friend._
-- **A person with whom one is vaguely or indirectly [[a/_acquainted|acquainted]].**
+- **A person with whom [[o/_one|one]] is vaguely or [[i/_indirectly|indirectly]] [[a/_acquainted|acquainted]].**
 	- _Example: a friend of a friend;  I added him as a friend on Facebook, but I hardly know him._
 - **A person who [[b/_backs|backs]] or supports something.**
 	- _Example: I’m not a friend of cheap wine._
-- **An object or idea that [[c/_can|can]] be used for good.**
+- **An [[o/_object|object]] or [[i/_idea|idea]] that [[c/_can|can]] be used for [[g/_good|good]].**
 	- _Example: Wiktionary is your friend._
-- **(used only in the vocative) Used as a form of [[a/_address|address]] when warning someone.**
+- **(used [[o/_only|only]] in the vocative) Used as a [[f/_form|form]] of [[a/_address|address]] when warning someone.**
 	- _Example: You’d better watch it, friend._
-- **A function or [[c/_class|class]] granted special [[a/_access|access]] to the private and protected members of [[a/_another|another]] [[c/_class|class]].**
-- **A spring-loaded camming [[d/_device|device]].**
-- **A lover; a [[b/_boyfriend|boyfriend]] or girlfriend.**
-- **A relative, a relation by [[b/_blood|blood]] or marriage.**
+- **A [[f/_function|function]] or [[c/_class|class]] [[g/_granted|granted]] special [[a/_access|access]] to the private and protected [[m/_members|members]] of [[a/_another|another]] [[c/_class|class]].**
+- **A spring-[[l/_loaded|loaded]] camming [[d/_device|device]].**
+- **A [[l/_lover|lover]]; a [[b/_boyfriend|boyfriend]] or [[g/_girlfriend|girlfriend]].**
+- **A relative, a relation by [[b/_blood|blood]] or [[m/_marriage|marriage]].**
 	- _Example: Friends agree best at a distance._
 ---
 ### Synonyms
@@ -57,23 +57,23 @@
 ### Antonyms
 - [[e/_enemy|enemy]], [[f/_foe|foe]], [[s/_stranger|stranger]]
 #noun
-- **A fine [[c/_clay|clay]], rich in kaolinite, used in [[c/_ceramics|ceramics]], paper-making, [[e/_etc|etc]].**
+- **A [[f/_fine|fine]] [[c/_clay|clay]], rich in [[k/_kaolinite|kaolinite]], used in [[c/_ceramics|ceramics]], paper-[[m/_making|making]], [[e/_etc|etc]].**
 ---
 ### Synonyms
 - [[E/_E559|E559]]
 #noun
-- **(usually uncountable) A hard white translucent [[c/_ceramic|ceramic]], originally made by firing kaolin, quartz, and feldspar at high temperatures but now [[a/_also|also]] inclusive of similar [[a/_artificial|artificial]] materials; [[a/_also|also]] often such a material as a symbol of the fragility, [[e/_elegance|elegance]], [[e/_etc|etc]]. traditionally [[a/_associated|associated]] with porcelain goods.**
+- **(usually uncountable) A [[h/_hard|hard]] white translucent [[c/_ceramic|ceramic]], [[o/_originally|originally]] [[m/_made|made]] by [[f/_firing|firing]] [[k/_kaolin|kaolin]], quartz, and [[f/_feldspar|feldspar]] at [[h/_high|high]] temperatures but [[n/_now|now]] [[a/_also|also]] [[i/_inclusive|inclusive]] of similar [[a/_artificial|artificial]] [[m/_materials|materials]]; [[a/_also|also]] [[o/_often|often]] such a [[m/_material|material]] as a symbol of the [[f/_fragility|fragility]], [[e/_elegance|elegance]], [[e/_etc|etc]]. traditionally [[a/_associated|associated]] with porcelain [[g/_goods|goods]].**
 	- _Example: Tableware and toilets are both made of porcelain._
-- **(now usually plural) An object made of porcelain, [[a/_art|art]] objects or items of tableware.**
+- **([[n/_now|now]] usually plural) An [[o/_object|object]] [[m/_made|made]] of porcelain, [[a/_art|art]] [[o/_objects|objects]] or [[i/_items|items]] of tableware.**
 	- _Example: The museum has an extensive collection of rare Chinese porcelains._
-- **(often [[c/_capitalized|capitalized]]) A kind of pigeon with [[d/_deep|deep]] [[b/_brown|brown]] and off-white feathers.**
+- **([[o/_often|often]] [[c/_capitalized|capitalized]]) A [[k/_kind|kind]] of pigeon with [[d/_deep|deep]] [[b/_brown|brown]] and [[o/_off|off]]-white [[f/_feathers|feathers]].**
 ---
 ### Synonyms
 - [[c/_china|china]], [[c/_chinaware|chinaware]]
 #noun
-- **Small [[b/_beads|beads]] made from polished shells, [[e/_especially|especially]] white ones, formerly used as money and jewelry by [[c/_certain|certain]] Native [[a/_american|American]] peoples.**
+- **Small [[b/_beads|beads]] [[m/_made|made]] from polished shells, [[e/_especially|especially]] white [[o/_ones|ones]], [[f/_formerly|formerly]] used as [[m/_money|money]] and [[j/_jewelry|jewelry]] by [[c/_certain|certain]] [[n/_native|Native]] [[a/_american|American]] peoples.**
 - **A string of such [[b/_beads|beads]].**
-- **Money.**
+- **[[m/_money|Money]].**
 ---
 ### Synonyms
 - [[p/_peag|peag]], [[p/_porcelain|porcelain]], [[s/_seawan|seawan]]

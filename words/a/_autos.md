@@ -3,11 +3,11 @@
 #noun
 - **An [[a/_automobile|automobile]].**
 	- _Example: My brother is an auto mechanic._
-- **A setting for [[a/_automatic|automatic]] operation.**
+- **A setting for [[a/_automatic|automatic]] [[o/_operation|operation]].**
 	- _Example: Put it on auto._
-- **An [[a/_automatic|automatic]] gearbox / transmission.**
+- **An [[a/_automatic|automatic]] [[g/_gearbox|gearbox]] / transmission.**
 	- _Example: A body coloured centre pillar signalled the arrival of an electronic four-speed auto, slight suspension revisions and minor trim changes._
-- **A [[c/_car|car]] with an [[a/_automatic|automatic]] gearbox / transmission.**
+- **A [[c/_car|car]] with an [[a/_automatic|automatic]] [[g/_gearbox|gearbox]] / transmission.**
 	- _Example: It wasn't too bad but we did hire an auto (couldn't imagine changing gears with my right hand)._
 ---
 ### Synonyms

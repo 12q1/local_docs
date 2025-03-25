@@ -1,6 +1,6 @@
 # Copartners
 ---
 #noun
-- **A joint partner (in a [[b/_business|business]]).**
+- **A [[j/_joint|joint]] partner (in a [[b/_business|business]]).**
 ---
 ---

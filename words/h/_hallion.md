@@ -1,0 +1,6 @@
+# Hallion
+---
+#noun
+- **A rascal.**
+---
+---

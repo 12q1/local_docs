@@ -2,44 +2,44 @@
 ---
 #noun
 - **A rapper.**
-- **Initialism of main [[c/_colour|colour]].**
-- **Initialism of matching [[c/_colour|colour]].**
-- **Initialism of movie [[c/_clip|clip]].**
-- **Initialism of mail [[c/_code|code]].**
-- **Initialism of main [[c/_character|character]].**
-- **Initialism of military [[c/_cross|cross]].**
-- **Initialism of Member of [[c/_congress|Congress]].**
-- **Initialism of medical [[c/_college|college]].**
-- **Initialism of Mars-[[c/_crosser|crosser]].**
-- **Initialism of medium coeli, the midheaven or highest point in the sky. [[c/_contrasted|Contrasted]] to Imum Coeli.**
+- **[[i/_initialism|Initialism]] of [[m/_main|main]] [[c/_colour|colour]].**
+- **[[i/_initialism|Initialism]] of [[m/_matching|matching]] [[c/_colour|colour]].**
+- **[[i/_initialism|Initialism]] of [[m/_movie|movie]] [[c/_clip|clip]].**
+- **[[i/_initialism|Initialism]] of [[m/_mail|mail]] [[c/_code|code]].**
+- **[[i/_initialism|Initialism]] of [[m/_main|main]] [[c/_character|character]].**
+- **[[i/_initialism|Initialism]] of [[m/_military|military]] [[c/_cross|cross]].**
+- **[[i/_initialism|Initialism]] of [[m/_member|Member]] of [[c/_congress|Congress]].**
+- **[[i/_initialism|Initialism]] of [[m/_medical|medical]] [[c/_college|college]].**
+- **[[i/_initialism|Initialism]] of [[m/_mars|Mars]]-[[c/_crosser|crosser]].**
+- **[[i/_initialism|Initialism]] of [[m/_medium|medium]] coeli, the [[m/_midheaven|midheaven]] or [[h/_highest|highest]] point in the sky. [[c/_contrasted|Contrasted]] to Imum Coeli.**
 ---
 #noun
-- **A medical facility, such as a hospital, [[e/_especially|especially]] one for the treatment and [[d/_diagnosis|diagnosis]] of outpatients.**
-- **(by extension) A hospital session to [[d/_diagnose|diagnose]] or treat patients.**
-- **A school, or a session of a school or [[c/_class|class]], in which medicine or surgery is taught by the examination and treatment of patients in the presence of the pupils.**
-- **A group practice of several physicians.**
-- **A meeting for the [[d/_diagnosis|diagnosis]] of problems, or training, on a particular subject.**
-- **A temporary office [[a/_arranged|arranged]] on a regular [[b/_basis|basis]] to [[a/_allow|allow]] politicians to meet their [[c/_constituents|constituents]].**
+- **A [[m/_medical|medical]] [[f/_facility|facility]], such as a [[h/_hospital|hospital]], [[e/_especially|especially]] [[o/_one|one]] for the treatment and [[d/_diagnosis|diagnosis]] of [[o/_outpatients|outpatients]].**
+- **(by [[e/_extension|extension]]) A [[h/_hospital|hospital]] session to [[d/_diagnose|diagnose]] or treat patients.**
+- **A school, or a session of a school or [[c/_class|class]], in which [[m/_medicine|medicine]] or surgery is taught by the [[e/_examination|examination]] and treatment of patients in the presence of the pupils.**
+- **A [[g/_group|group]] practice of several physicians.**
+- **A [[m/_meeting|meeting]] for the [[d/_diagnosis|diagnosis]] of problems, or training, on a particular subject.**
+- **A temporary [[o/_office|office]] [[a/_arranged|arranged]] on a regular [[b/_basis|basis]] to [[a/_allow|allow]] politicians to [[m/_meet|meet]] their [[c/_constituents|constituents]].**
 - **A series of workouts used to [[b/_build|build]] skills of practitioners regardless of team [[a/_affiliation|affiliation]].**
-- **One [[c/_confined|confined]] to [[b/_bed|bed]] by sickness.**
-- **One who receives [[b/_baptism|baptism]] on a sickbed.**
+- **[[o/_one|One]] [[c/_confined|confined]] to [[b/_bed|bed]] by sickness.**
+- **[[o/_one|One]] who receives [[b/_baptism|baptism]] on a sickbed.**
 ---
 #verb
-- **To [[a/_act|act]] as the master of [[c/_ceremonies|ceremonies]] (for).**
-- **To rap as part of a hip-hop performance.**
+- **To [[a/_act|act]] as the [[m/_master|master]] of [[c/_ceremonies|ceremonies]] (for).**
+- **To rap as part of a [[h/_hip|hip]]-[[h/_hop|hop]] performance.**
 ---
 ### Synonyms
 - [[c/_compere|compere]], [[r/_rap|rap]]
 #noun
-- **A large medical facility, usually in a [[b/_building|building]] with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment.**
-- **A [[b/_building|building]] founded for the long-term [[c/_care|care]] of its residents, such as an [[a/_almshouse|almshouse]]. The residents may have no physical [[a/_ailments|ailments]], but simply need financial support.**
-- **A place of lodging.**
+- **A [[l/_large|large]] [[m/_medical|medical]] [[f/_facility|facility]], usually in a [[b/_building|building]] with [[m/_multiple|multiple]] [[f/_floors|floors]], where seriously [[i/_ill|ill]] or [[i/_injured|injured]] patients are [[g/_given|given]] [[e/_extensive|extensive]] [[m/_medical|medical]] and/or surgical treatment.**
+- **A [[b/_building|building]] [[f/_founded|founded]] for the [[l/_long|long]]-term [[c/_care|care]] of [[i/_its|its]] residents, such as an [[a/_almshouse|almshouse]]. The residents [[m/_may|may]] [[h/_have|have]] [[n/_no|no]] physical [[a/_ailments|ailments]], but simply [[n/_need|need]] [[f/_financial|financial]] support.**
+- **A place of [[l/_lodging|lodging]].**
 ---
 ### Synonyms
 - [[i/_infirmary|infirmary]], [[s/_sickhouse|sickhouse]]
 #noun
-- **Someone who [[a/_acts|acts]] as a host at a formal event.**
-- **Someone who [[c/_conducts|conducts]] a programme of varied [[e/_entertainment|entertainment]], for example by introducing performers to the [[a/_audience|audience]].**
+- **Someone who [[a/_acts|acts]] as a [[h/_host|host]] at a [[f/_formal|formal]] [[e/_event|event]].**
+- **Someone who [[c/_conducts|conducts]] a programme of varied [[e/_entertainment|entertainment]], for [[e/_example|example]] by [[i/_introducing|introducing]] performers to the [[a/_audience|audience]].**
 - **A rapper.**
 ---
 ### Synonyms
@@ -48,16 +48,16 @@
 - **[[d/_dichloromethane|Dichloromethane]]**
 ---
 #noun
-- **A viral infection of the skin or (occasionally) mucous membranes, [[c/_caused|caused]] by Molluscum contagiosum virus (MCV), a DNA poxvirus.**
+- **A viral [[i/_infection|infection]] of the skin or ([[o/_occasionally|occasionally]]) [[m/_mucous|mucous]] [[m/_membranes|membranes]], [[c/_caused|caused]] by [[m/_molluscum|Molluscum]] contagiosum virus (MCV), a DNA poxvirus.**
 ---
 ### Synonyms
 - [[M/_MC|MC]]
 #noun
-- **A group of individuals whose primary interests and [[a/_activities|activities]] involve motorcycles.**
+- **A [[g/_group|group]] of [[i/_individuals|individuals]] whose primary [[i/_interests|interests]] and [[a/_activities|activities]] [[i/_involve|involve]] [[m/_motorcycles|motorcycles]].**
 ---
 #noun
-- **A place used as a hospital on [[b/_board|board]] a ship, on a spaceship (in science fiction).**
-- **A room or [[a/_area|area]] for the treatment of the sick or injured in a school.**
+- **A place used as a [[h/_hospital|hospital]] on [[b/_board|board]] a ship, on a spaceship (in science [[f/_fiction|fiction]]).**
+- **A room or [[a/_area|area]] for the treatment of the sick or [[i/_injured|injured]] in a school.**
 ---
 ### Synonyms
 - [[i/_infirmary|infirmary]]

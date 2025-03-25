@@ -1,8 +1,8 @@
 # Blockish
 ---
 #adjective
-- **Like a [[b/_block|block]] in shape or nature; [[c/_coming|coming]] [[a/_across|across]] as a [[b/_block|block]].**
-- **Lacking understanding; stupid; obtuse; [[d/_dull|dull]].**
+- **[[l/_like|Like]] a [[b/_block|block]] in shape or [[n/_nature|nature]]; [[c/_coming|coming]] [[a/_across|across]] as a [[b/_block|block]].**
+- **[[l/_lacking|Lacking]] understanding; stupid; [[o/_obtuse|obtuse]]; [[d/_dull|dull]].**
 - **Rude; [[c/_clumsy|clumsy]]; rough.**
 ---
 ---

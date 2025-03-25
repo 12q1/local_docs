@@ -1,7 +1,7 @@
 # Derm
 ---
 #noun
-- **The integument of [[a/_animal|animal]]; the skin.**
+- **The [[i/_integument|integument]] of [[a/_animal|animal]]; the skin.**
 ---
 #noun
 - **The tissue of the skin underlying the [[e/_epidermis|epidermis]].**

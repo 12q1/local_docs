@@ -1,10 +1,10 @@
 # Countable
 ---
 #adjective
-- **[[c/_capable|Capable]] of [[b/_being|being]] [[c/_counted|counted]]; having a quantity.**
-- **(of a set) Finite or [[c/_countably|countably]] infinite; having a one-to-one [[c/_correspondence|correspondence]] ([[b/_bijection|bijection]]) with a subset of the natural numbers.**
-- **(of a set) [[c/_countably|Countably]] infinite; having a [[b/_bijection|bijection]] with the natural numbers.**
-- **(grammar, of a noun) Freely usable with the indefinite [[a/_article|article]] and with numbers, and therefore having a plural form.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[c/_counted|counted]]; [[h/_having|having]] a quantity.**
+- **(of a set) [[f/_finite|Finite]] or [[c/_countably|countably]] [[i/_infinite|infinite]]; [[h/_having|having]] a [[o/_one|one]]-to-[[o/_one|one]] [[c/_correspondence|correspondence]] ([[b/_bijection|bijection]]) with a subset of the [[n/_natural|natural]] [[n/_numbers|numbers]].**
+- **(of a set) [[c/_countably|Countably]] [[i/_infinite|infinite]]; [[h/_having|having]] a [[b/_bijection|bijection]] with the [[n/_natural|natural]] [[n/_numbers|numbers]].**
+- **([[g/_grammar|grammar]], of a [[n/_noun|noun]]) [[f/_freely|Freely]] usable with the [[i/_indefinite|indefinite]] [[a/_article|article]] and with [[n/_numbers|numbers]], and therefore [[h/_having|having]] a plural [[f/_form|form]].**
 ---
 ### Synonyms
 - [[d/_denumerable|denumerable]]

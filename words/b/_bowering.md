@@ -2,6 +2,6 @@
 ---
 #verb
 - **To [[e/_embower|embower]]; to [[e/_enclose|enclose]].**
-- **To lodge.**
+- **To [[l/_lodge|lodge]].**
 ---
 ---

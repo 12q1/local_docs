@@ -1,6 +1,6 @@
 # Dalesmen
 ---
 #noun
-- **A person from the Yorkshire [[d/_dales|Dales]], or sometimes a person from Lakeland.**
+- **A person from the [[y/_yorkshire|Yorkshire]] [[d/_dales|Dales]], or sometimes a person from [[l/_lakeland|Lakeland]].**
 ---
 ---

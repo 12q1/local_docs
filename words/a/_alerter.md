@@ -1,6 +1,6 @@
 # Alerter
 ---
 #noun
-- **One who or that which [[a/_alerts|alerts]].**
+- **[[o/_one|One]] who or that which [[a/_alerts|alerts]].**
 ---
 ---

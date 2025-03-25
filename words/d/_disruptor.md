@@ -2,6 +2,6 @@
 ---
 #noun
 - **Someone or something that [[d/_disrupts|disrupts]].**
-- **An [[e/_energy|energy]] weapon in the form of a pistol.**
+- **An [[e/_energy|energy]] weapon in the [[f/_form|form]] of a pistol.**
 ---
 ---

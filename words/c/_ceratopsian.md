@@ -1,7 +1,7 @@
 # Ceratopsian
 ---
 #noun
-- **[[a/_any|Any]] member of this suborder**
+- **[[a/_any|Any]] [[m/_member|member]] of this suborder**
 ---
 #adjective
 - **Of or [[b/_belonging|belonging]] to the [[c/_ceratopsia|Ceratopsia]] suborder of [[d/_dinosaurs|dinosaurs]].**

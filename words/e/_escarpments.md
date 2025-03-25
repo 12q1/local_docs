@@ -1,6 +1,6 @@
 # Escarpments
 ---
 #noun
-- **A steep [[d/_descent|descent]] or [[d/_declivity|declivity]]; steep face or [[e/_edge|edge]] of a ridge; ground [[a/_about|about]] a fortified place, [[c/_cut|cut]] [[a/_away|away]] nearly vertically to prevent hostile [[a/_approach|approach]].**
+- **A steep [[d/_descent|descent]] or [[d/_declivity|declivity]]; steep [[f/_face|face]] or [[e/_edge|edge]] of a ridge; [[g/_ground|ground]] [[a/_about|about]] a [[f/_fortified|fortified]] place, [[c/_cut|cut]] [[a/_away|away]] [[n/_nearly|nearly]] vertically to prevent [[h/_hostile|hostile]] [[a/_approach|approach]].**
 ---
 ---

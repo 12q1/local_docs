@@ -1,6 +1,6 @@
 # Drake
 ---
 #noun
-- **A male [[d/_duck|duck]].**
+- **A [[m/_male|male]] [[d/_duck|duck]].**
 ---
 ---

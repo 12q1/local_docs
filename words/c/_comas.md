@@ -1,6 +1,6 @@
 # Comas
 ---
 #noun
-- **A state of unconsciousness from which one may not wake up, usually induced by some form of trauma.**
+- **A state of unconsciousness from which [[o/_one|one]] [[m/_may|may]] not wake up, usually [[i/_induced|induced]] by some [[f/_form|form]] of trauma.**
 ---
 ---

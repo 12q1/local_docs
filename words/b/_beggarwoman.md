@@ -1,6 +1,6 @@
 # Beggarwoman
 ---
 #noun
-- **A female [[b/_beggar|beggar]].**
+- **A [[f/_female|female]] [[b/_beggar|beggar]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Chalones
 ---
 #noun
-- **[[a/_any|Any]] of several polypeptide hormones that reversibly inhibit mitosis in the tissues that produce them.**
+- **[[a/_any|Any]] of several polypeptide [[h/_hormones|hormones]] that reversibly [[i/_inhibit|inhibit]] [[m/_mitosis|mitosis]] in the tissues that produce them.**
 ---
 ---

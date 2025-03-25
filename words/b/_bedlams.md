@@ -2,7 +2,7 @@
 ---
 #noun
 - **A place or situation of [[c/_chaotic|chaotic]] uproar, and where [[c/_confusion|confusion]] prevails.**
-- **An insane person; a lunatic; a madman.**
-- **A lunatic [[a/_asylum|asylum]]; a madhouse.**
+- **An [[i/_insane|insane]] person; a [[l/_lunatic|lunatic]]; a [[m/_madman|madman]].**
+- **A [[l/_lunatic|lunatic]] [[a/_asylum|asylum]]; a [[m/_madhouse|madhouse]].**
 ---
 ---

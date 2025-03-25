@@ -1,9 +1,9 @@
 # Domesticity
 ---
 #noun
-- **Life at home with one's family.**
-- **(plural) [[d/_domestic|Domestic]] [[c/_chores|chores]]; housework.**
-- **[[a/_affection|Affection]] for the home and its material [[c/_comforts|comforts]].**
+- **[[l/_life|Life]] at [[h/_home|home]] with [[o/_one|one]]'s [[f/_family|family]].**
+- **(plural) [[d/_domestic|Domestic]] [[c/_chores|chores]]; [[h/_housework|housework]].**
+- **[[a/_affection|Affection]] for the [[h/_home|home]] and [[i/_its|its]] [[m/_material|material]] [[c/_comforts|comforts]].**
 ---
 ### Synonyms
 - [[c/_comfort|comfort]], [[f/_family|family]], [[m/_materialism|materialism]]

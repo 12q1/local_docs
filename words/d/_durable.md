@@ -1,12 +1,12 @@
 # Durable
 ---
 #noun
-- **A [[d/_durable|durable]] thing, one useful over more than one period, [[e/_especially|especially]] a year.**
+- **A [[d/_durable|durable]] thing, [[o/_one|one]] useful [[o/_over|over]] [[m/_more|more]] than [[o/_one|one]] period, [[e/_especially|especially]] a [[y/_year|year]].**
 ---
 ### Antonyms
 - [[n/_nondurable|nondurable]]
 #adjective
-- **[[a/_able|Able]] to resist wear, [[d/_decay|decay]]; lasting; [[e/_enduring|enduring]].**
+- **[[a/_able|Able]] to resist wear, [[d/_decay|decay]]; [[l/_lasting|lasting]]; [[e/_enduring|enduring]].**
 ---
 ### Synonyms
 - [[p/_permanent|permanent]]

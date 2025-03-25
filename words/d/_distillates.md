@@ -1,8 +1,8 @@
 # Distillates
 ---
 #noun
-- **The liquid that has [[b/_been|been]] [[c/_condensed|condensed]] from vapour [[d/_during|during]] [[d/_distillation|distillation]]; normally a purified form or a fraction of an original liquid.**
-- **(by extension) The [[e/_essence|essence]] of something.**
-- **[[d/_diesel|Diesel]] fuel.**
+- **The [[l/_liquid|liquid]] that [[h/_has|has]] [[b/_been|been]] [[c/_condensed|condensed]] from vapour [[d/_during|during]] [[d/_distillation|distillation]]; [[n/_normally|normally]] a purified [[f/_form|form]] or a [[f/_fraction|fraction]] of an [[o/_original|original]] [[l/_liquid|liquid]].**
+- **(by [[e/_extension|extension]]) The [[e/_essence|essence]] of something.**
+- **[[d/_diesel|Diesel]] [[f/_fuel|fuel]].**
 ---
 ---

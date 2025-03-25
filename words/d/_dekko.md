@@ -1,6 +1,6 @@
 # Dekko
 ---
 #noun
-- **A look; a glance.**
+- **A [[l/_look|look]]; a [[g/_glance|glance]].**
 ---
 ---

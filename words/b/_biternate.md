@@ -1,6 +1,6 @@
 # Biternate
 ---
 #adjective
-- **Having ternate leaves, [[e/_each|each]] [[d/_division|division]] of which is itself ternate**
+- **[[h/_having|Having]] ternate [[l/_leaves|leaves]], [[e/_each|each]] [[d/_division|division]] of which is [[i/_itself|itself]] ternate**
 ---
 ---

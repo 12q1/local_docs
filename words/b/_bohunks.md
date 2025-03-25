@@ -1,7 +1,7 @@
 # Bohunks
 ---
 #noun
-- **An immigrant from [[c/_central|Central]] Europe, [[e/_eastern|Eastern]] Europe, or the [[b/_balkans|Balkans]], [[e/_especially|especially]] one who is regarded as vain, [[a/_aggressively|aggressively]] masculine, and socially unsophisticated.**
+- **An [[i/_immigrant|immigrant]] from [[c/_central|Central]] [[e/_europe|Europe]], [[e/_eastern|Eastern]] [[e/_europe|Europe]], or the [[b/_balkans|Balkans]], [[e/_especially|especially]] [[o/_one|one]] who is regarded as vain, [[a/_aggressively|aggressively]] [[m/_masculine|masculine]], and socially unsophisticated.**
 - **A [[b/_brawny|brawny]] or [[c/_coarse|coarse]] person.**
 ---
 ---

@@ -1,0 +1,9 @@
+# Hightail
+---
+#verb
+- **(usually transitive) To [[m/_move|move]] at [[f/_full|full]] speed, [[e/_especially|especially]] in retreat.**
+	- _Example: As soon as she arrived, I hightailed out of there._
+---
+### Synonyms
+- [[s/_skedaddle|skedaddle]]
+---

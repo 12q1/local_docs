@@ -2,16 +2,16 @@
 ---
 #noun
 - **A sharp point or pointed [[e/_end|end]].**
-- **An important moment when a [[d/_decision|decision]] is made that will [[d/_determine|determine]] future events.**
-- **A point of a [[c/_curve|curve]] where the [[c/_curve|curve]] is [[c/_continuous|continuous]] but has no [[d/_derivative|derivative]], but such that it has a [[d/_derivative|derivative]] at every nearby point.**
-- **A point made by the intersection of two [[c/_curved|curved]] lines or [[c/_curved|curved]] structures, a [[c/_common|common]] motif in Gothic [[a/_architecture|architecture]].**
-- **A [[b/_boundary|boundary]] [[b/_between|between]] zodiacal signs and houses.**
-- **[[a/_any|Any]] of the pointed parts of a [[c/_canine|canine]] tooth or molar.**
-- **A flap of a valve of a heart or [[b/_blood|blood]] vessel.**
+- **An [[i/_important|important]] [[m/_moment|moment]] when a [[d/_decision|decision]] is [[m/_made|made]] that will [[d/_determine|determine]] [[f/_future|future]] [[e/_events|events]].**
+- **A point of a [[c/_curve|curve]] where the [[c/_curve|curve]] is [[c/_continuous|continuous]] but [[h/_has|has]] [[n/_no|no]] [[d/_derivative|derivative]], but such that it [[h/_has|has]] a [[d/_derivative|derivative]] at [[e/_every|every]] [[n/_nearby|nearby]] point.**
+- **A point [[m/_made|made]] by the [[i/_intersection|intersection]] of two [[c/_curved|curved]] [[l/_lines|lines]] or [[c/_curved|curved]] structures, a [[c/_common|common]] [[m/_motif|motif]] in [[g/_gothic|Gothic]] [[a/_architecture|architecture]].**
+- **A [[b/_boundary|boundary]] [[b/_between|between]] zodiacal signs and [[h/_houses|houses]].**
+- **[[a/_any|Any]] of the pointed parts of a [[c/_canine|canine]] tooth or [[m/_molar|molar]].**
+- **A [[f/_flap|flap]] of a valve of a [[h/_heart|heart]] or [[b/_blood|blood]] vessel.**
 ---
 ### Synonyms
 - [[o/_ord|ord]]
 #verb
-- **To [[b/_behave|behave]] in a reckless or [[d/_dangerous|dangerous]] manner.**
+- **To [[b/_behave|behave]] in a reckless or [[d/_dangerous|dangerous]] [[m/_manner|manner]].**
 ---
 ---

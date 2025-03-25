@@ -1,7 +1,7 @@
 # Bazoos
 ---
 #noun
-- **A simple wind instrument, such as a kazoo or tin horn.**
-- **A person's mouth.**
+- **A simple wind [[i/_instrument|instrument]], such as a [[k/_kazoo|kazoo]] or tin [[h/_horn|horn]].**
+- **A person's [[m/_mouth|mouth]].**
 ---
 ---

@@ -1,10 +1,10 @@
 # Backshift
 ---
 #noun
-- **(grammar) The [[c/_changing|changing]] of the tense of a verb from present to past in reported speech.**
-- **A function on a stochastic process whose value on [[a/_any|any]] random variable is the preceding random variable in the process.**
+- **([[g/_grammar|grammar]]) The [[c/_changing|changing]] of the tense of a verb from present to past in reported speech.**
+- **A [[f/_function|function]] on a stochastic process whose value on [[a/_any|any]] random variable is the preceding random variable in the process.**
 ---
 #verb
-- **(grammar) To [[c/_change|change]] the tense of a verb from present to past in reported speech.**
+- **([[g/_grammar|grammar]]) To [[c/_change|change]] the tense of a verb from present to past in reported speech.**
 ---
 ---

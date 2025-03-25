@@ -1,7 +1,7 @@
 # Biogenesis
 ---
 #noun
-- **The principle that living organisms are produced only from other living organisms.**
+- **The principle that [[l/_living|living]] [[o/_organisms|organisms]] are produced [[o/_only|only]] from [[o/_other|other]] [[l/_living|living]] [[o/_organisms|organisms]].**
 - **[[b/_biosynthesis|Biosynthesis]].**
 ---
 ### Antonyms

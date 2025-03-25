@@ -1,0 +1,12 @@
+# Greasers
+---
+#noun
+- **Someone or something that [[g/_greases|greases]] ([[a/_applies|applies]] [[g/_grease|grease]]).**
+- **A [[m/_mechanic|mechanic]].**
+- **A [[b/_biker|biker]], a tough.**
+- **A rocker or metalhead, [[e/_especially|especially]] [[o/_one|one]] who [[l/_listens|listens]] to 1950s rock and roll or 1980s thrash [[m/_metal|metal]].**
+- **A [[l/_latin|Latin]] [[a/_american|American]], [[e/_especially|especially]] a [[m/_mexican|Mexican]].**
+- **An [[i/_italian|Italian]].**
+- **A [[g/_greek|Greek]].**
+---
+---

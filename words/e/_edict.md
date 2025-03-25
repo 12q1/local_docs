@@ -1,6 +1,6 @@
 # Edict
 ---
 #noun
-- **A proclamation of law or other [[a/_authoritative|authoritative]] [[c/_command|command]].**
+- **A proclamation of [[l/_law|law]] or [[o/_other|other]] [[a/_authoritative|authoritative]] [[c/_command|command]].**
 ---
 ---

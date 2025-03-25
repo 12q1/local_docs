@@ -1,17 +1,17 @@
 # Battened
 ---
 #verb
-- **To [[b/_become|become]] [[b/_better|better]]; improve in [[c/_condition|condition]], [[e/_especially|especially]] by feeding.**
-- **To feed (on); to revel (in).**
-- **To thrive by feeding; grow fat; feed oneself gluttonously.**
-- **To thrive, prosper, or live in luxury, [[e/_especially|especially]] at the expense of others; fare sumptuously.**
+- **To [[b/_become|become]] [[b/_better|better]]; [[i/_improve|improve]] in [[c/_condition|condition]], [[e/_especially|especially]] by [[f/_feeding|feeding]].**
+- **To [[f/_feed|feed]] (on); to revel (in).**
+- **To thrive by [[f/_feeding|feeding]]; [[g/_grow|grow]] [[f/_fat|fat]]; [[f/_feed|feed]] [[o/_oneself|oneself]] [[g/_gluttonously|gluttonously]].**
+- **To thrive, prosper, or [[l/_live|live]] in [[l/_luxury|luxury]], [[e/_especially|especially]] at the [[e/_expense|expense]] of [[o/_others|others]]; [[f/_fare|fare]] sumptuously.**
 	- _Example: Robber barons who battened on the poor_
-- **To gratify a morbid [[a/_appetite|appetite]] or [[c/_craving|craving]]; gloat.**
-- **To improve by feeding; fatten; make fat or [[c/_cause|cause]] to thrive [[d/_due|due]] to plenteous feeding.**
-- **To fertilize or [[e/_enrich|enrich]], as land.**
+- **To [[g/_gratify|gratify]] a [[m/_morbid|morbid]] [[a/_appetite|appetite]] or [[c/_craving|craving]]; [[g/_gloat|gloat]].**
+- **To [[i/_improve|improve]] by [[f/_feeding|feeding]]; [[f/_fatten|fatten]]; [[m/_make|make]] [[f/_fat|fat]] or [[c/_cause|cause]] to thrive [[d/_due|due]] to plenteous [[f/_feeding|feeding]].**
+- **To [[f/_fertilize|fertilize]] or [[e/_enrich|enrich]], as [[l/_land|land]].**
 ---
 #verb
-- **To furnish with [[b/_battens|battens]].**
-- **To fasten or secure a hatch [[e/_etc|etc]] using [[b/_battens|battens]].**
+- **To [[f/_furnish|furnish]] with [[b/_battens|battens]].**
+- **To [[f/_fasten|fasten]] or secure a [[h/_hatch|hatch]] [[e/_etc|etc]] using [[b/_battens|battens]].**
 ---
 ---

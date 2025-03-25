@@ -1,7 +1,7 @@
 # Argali
 ---
 #noun
-- **Ovis ammon, the largest wild sheep, which roams the highlands of [[c/_central|Central]] [[a/_asia|Asia]].**
+- **[[o/_ovis|Ovis]] ammon, the [[l/_largest|largest]] wild sheep, which roams the [[h/_highlands|highlands]] of [[c/_central|Central]] [[a/_asia|Asia]].**
 ---
 ### Synonyms
 - 

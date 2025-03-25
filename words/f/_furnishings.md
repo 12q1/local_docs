@@ -1,0 +1,13 @@
+# Furnishings
+---
+#noun
+- **([[c/_chiefly|chiefly]] in the plural) [[f/_furniture|Furniture]], [[f/_fittings|fittings]], and [[o/_other|other]] [[d/_detachable|detachable]] [[a/_accessories|accessories]].**
+- **(of an [[a/_animal|animal]], in the plural) A portion of [[l/_longer|longer]] [[h/_hair|hair]] within the [[c/_coat|coat]] of a [[d/_dog|dog]], rabbit, [[e/_etc|etc]].**
+---
+#noun
+- **[[f/_furniture|Furniture]] [[g/_generally|generally]].**
+- **The [[o/_objects|objects]], [[o/_other|other]] than [[f/_furniture|furniture]], that [[o/_occupy|occupy]] an [[i/_interior|interior]] space.**
+- **[[a/_accessories|Accessories]] used with a [[d/_dress|dress]].**
+- **[[i/_items|Items]] of [[f/_furniture|furniture]] and/or [[a/_accessories|accessories]] by which something is [[e/_equipped|equipped]] so as to be [[m/_more|more]] useful, [[c/_convenient|convenient]], or [[c/_comfortable|comfortable]].**
+---
+---

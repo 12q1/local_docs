@@ -1,21 +1,21 @@
 # Barney
 ---
 #noun
-- **A lark, a romp, some fun.**
-- **A hoax, a humbug, something that is not genuine, a rigged or unfair sporting [[c/_contest|contest]].**
-- **(Harvard University slang) A poor recitation.**
-- **A noisy [[a/_argument|argument]].**
-- **A minor physical fight.**
-- **([[b/_boston|Boston]]) A student at Harvard University.**
+- **A [[l/_lark|lark]], a romp, some [[f/_fun|fun]].**
+- **A [[h/_hoax|hoax]], a [[h/_humbug|humbug]], something that is not [[g/_genuine|genuine]], a rigged or unfair sporting [[c/_contest|contest]].**
+- **([[h/_harvard|Harvard]] University slang) A poor recitation.**
+- **A [[n/_noisy|noisy]] [[a/_argument|argument]].**
+- **A [[m/_minor|minor]] physical [[f/_fight|fight]].**
+- **([[b/_boston|Boston]]) A student at [[h/_harvard|Harvard]] University.**
 ---
 #verb
-- **(Harvard University slang) To recite [[b/_badly|badly]]; to fail.**
+- **([[h/_harvard|Harvard]] University slang) To recite [[b/_badly|badly]]; to [[f/_fail|fail]].**
 - **To [[a/_argue|argue]], to quarrel.**
 ---
 ### Synonyms
 - [[b/_bicker|bicker]], [[r/_row|row]], [[s/_squabble|squabble]]
 #adjective
-- **Insane [[c/_crazy|crazy]], loony.**
+- **[[i/_insane|Insane]] [[c/_crazy|crazy]], [[l/_loony|loony]].**
 ---
 ### Synonyms
 - [[f/_fisticuffs|fisticuffs]], [[s/_scuffle|scuffle]], [[q/_quarrel|quarrel]], [[r/_row|row]]

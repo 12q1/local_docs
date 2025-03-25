@@ -1,7 +1,7 @@
 # Espressos
 ---
 #noun
-- **A [[c/_concentrated|concentrated]] [[c/_coffee|coffee]] [[b/_beverage|beverage]] [[b/_brewed|brewed]] by forcing hot water under high pressure through finely ground [[c/_coffee|coffee]].**
-- **A [[d/_drink|drink]] that includes [[e/_espresso|espresso]] as an ingredient.**
+- **A [[c/_concentrated|concentrated]] [[c/_coffee|coffee]] [[b/_beverage|beverage]] [[b/_brewed|brewed]] by [[f/_forcing|forcing]] [[h/_hot|hot]] water under [[h/_high|high]] pressure through [[f/_finely|finely]] [[g/_ground|ground]] [[c/_coffee|coffee]].**
+- **A [[d/_drink|drink]] that [[i/_includes|includes]] [[e/_espresso|espresso]] as an [[i/_ingredient|ingredient]].**
 ---
 ---

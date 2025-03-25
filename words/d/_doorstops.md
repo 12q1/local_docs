@@ -1,9 +1,9 @@
 # Doorstops
 ---
 #noun
-- **[[a/_any|Any]] [[d/_device|device]] or object used to halt the motion of a [[d/_door|door]], as a large or heavy object, a wedge, or some piece of hardware fixed to the floor, [[d/_door|door]] or wall.**
-- **A large [[b/_book|book]], which by implication [[c/_could|could]] be used to stop a [[d/_door|door]].**
+- **[[a/_any|Any]] [[d/_device|device]] or [[o/_object|object]] used to [[h/_halt|halt]] the [[m/_motion|motion]] of a [[d/_door|door]], as a [[l/_large|large]] or [[h/_heavy|heavy]] [[o/_object|object]], a wedge, or some piece of [[h/_hardware|hardware]] [[f/_fixed|fixed]] to the [[f/_floor|floor]], [[d/_door|door]] or wall.**
+- **A [[l/_large|large]] [[b/_book|book]], which by [[i/_implication|implication]] [[c/_could|could]] be used to stop a [[d/_door|door]].**
 - **(in [[e/_error|error]] for [[d/_doorstep|doorstep]]) A thick sandwich.**
-- **An interview with a politician or other public figure ([[a/_apparently|apparently]] informal or spontaneous but often planned), as they [[e/_enter|enter]] or leave a [[b/_building|building]].**
+- **An [[i/_interview|interview]] with a politician or [[o/_other|other]] public [[f/_figure|figure]] ([[a/_apparently|apparently]] [[i/_informal|informal]] or spontaneous but [[o/_often|often]] planned), as they [[e/_enter|enter]] or [[l/_leave|leave]] a [[b/_building|building]].**
 ---
 ---

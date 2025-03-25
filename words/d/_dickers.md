@@ -1,8 +1,8 @@
 # Dickers
 ---
 #noun
-- **A unit of measure, [[c/_consisting|consisting]] of 10 of some object, particularly hides and skins.**
-- **A [[c/_chaffering|chaffering]], [[b/_barter|barter]], or exchange, of small wares.**
+- **A unit of [[m/_measure|measure]], [[c/_consisting|consisting]] of 10 of some [[o/_object|object]], particularly [[h/_hides|hides]] and skins.**
+- **A [[c/_chaffering|chaffering]], [[b/_barter|barter]], or [[e/_exchange|exchange]], of small wares.**
 	- _Example: to make a dicker_
 ---
 ### Synonyms

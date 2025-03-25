@@ -1,6 +1,6 @@
 # Chai
 ---
 #noun
-- **A female gypsy.**
+- **A [[f/_female|female]] [[g/_gypsy|gypsy]].**
 ---
 ---

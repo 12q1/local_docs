@@ -1,6 +1,6 @@
 # Charmeuse
 ---
 #noun
-- **A fine semi-lustrous [[c/_crepe|crepe]] in satin weave.**
+- **A [[f/_fine|fine]] semi-[[l/_lustrous|lustrous]] [[c/_crepe|crepe]] in satin weave.**
 ---
 ---

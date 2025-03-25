@@ -1,6 +1,6 @@
 # Coloboma
 ---
 #noun
-- **An [[a/_abnormal|abnormal]] hole present from [[b/_birth|birth]] in one of the structures of the [[e/_eye|eye]], such as the lens, [[e/_eyelid|eyelid]], or retina.**
+- **An [[a/_abnormal|abnormal]] [[h/_hole|hole]] present from [[b/_birth|birth]] in [[o/_one|one]] of the structures of the [[e/_eye|eye]], such as the [[l/_lens|lens]], [[e/_eyelid|eyelid]], or retina.**
 ---
 ---

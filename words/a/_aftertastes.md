@@ -1,9 +1,9 @@
 # Aftertastes
 ---
 #noun
-- **A taste of something that persists when it is no longer present.**
-- **The persistence of the taste of something no longer present.**
+- **A taste of something that persists when it is [[n/_no|no]] [[l/_longer|longer]] present.**
+- **The persistence of the taste of something [[n/_no|no]] [[l/_longer|longer]] present.**
 	- _Example: Many people think certain artificial sweeteners have an unpleasant aftertaste._
-- **Of wine, finish.**
+- **Of wine, [[f/_finish|finish]].**
 ---
 ---

@@ -1,0 +1,11 @@
+# Luckiest
+---
+#adjective
+- **(of people) [[f/_favoured|Favoured]] by [[l/_luck|luck]]; [[f/_fortunate|fortunate]]; [[h/_having|having]] [[g/_good|good]] success or [[g/_good|good]] [[f/_fortune|fortune]]**
+	- _Example: The downed pilot is very lucky to be alive._
+- **Producing, or resulting in, [[g/_good|good]] [[f/_fortune|fortune]]**
+	- _Example: a lucky cast_
+---
+### Synonyms
+- [[f/_fortunate|fortunate]], [[s/_successful|successful]], [[a/_auspicious|auspicious]], [[f/_favorable|favorable]], [[f/_favourable|favourable]], [[f/_fortuitous|fortuitous]], [[f/_fortunate|fortunate]], [[a/_auspicious|auspicious]], [[f/_favorable|favorable]], [[f/_fortunate|fortunate]]
+---

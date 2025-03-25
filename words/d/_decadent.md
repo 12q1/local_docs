@@ -1,11 +1,11 @@
 # Decadent
 ---
 #noun
-- **A person [[a/_affected|affected]] by moral [[d/_decay|decay]].**
+- **A person [[a/_affected|affected]] by [[m/_moral|moral]] [[d/_decay|decay]].**
 ---
 #adjective
-- **[[c/_characterized|Characterized]] by moral or [[c/_cultural|cultural]] [[d/_decline|decline]].**
-- **Luxuriously self-indulgent.**
+- **[[c/_characterized|Characterized]] by [[m/_moral|moral]] or [[c/_cultural|cultural]] [[d/_decline|decline]].**
+- **[[l/_luxuriously|Luxuriously]] self-[[i/_indulgent|indulgent]].**
 ---
 ### Synonyms
 - [[s/_sinful|sinful]]

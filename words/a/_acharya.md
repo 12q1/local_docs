@@ -1,8 +1,8 @@
 # Acharya
 ---
 #noun
-- **A spiritual teacher, guru.**
-- **One of the five types of revered people in Jain religion, who are [[a/_above|above]] upadhyaya and [[b/_below|below]] siddha.**
-- **An influential mentor.**
+- **A spiritual teacher, [[g/_guru|guru]].**
+- **[[o/_one|One]] of the [[f/_five|five]] types of revered people in [[j/_jain|Jain]] religion, who are [[a/_above|above]] upadhyaya and [[b/_below|below]] siddha.**
+- **An [[i/_influential|influential]] [[m/_mentor|mentor]].**
 ---
 ---

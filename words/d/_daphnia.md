@@ -1,6 +1,6 @@
 # Daphnia
 ---
 #noun
-- **A water flea of the genus [[d/_daphnia|Daphnia]].**
+- **A water [[f/_flea|flea]] of the [[g/_genus|genus]] [[d/_daphnia|Daphnia]].**
 ---
 ---

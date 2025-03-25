@@ -1,6 +1,6 @@
 # Aponeurosis
 ---
 #noun
-- **A flattened fibrous membrane, similar to a tendon, that [[b/_binds|binds]] muscles together or [[c/_connects|connects]] them to other [[b/_body|body]] parts like skin or [[b/_bone|bone]].**
+- **A [[f/_flattened|flattened]] [[f/_fibrous|fibrous]] [[m/_membrane|membrane]], similar to a tendon, that [[b/_binds|binds]] [[m/_muscles|muscles]] together or [[c/_connects|connects]] them to [[o/_other|other]] [[b/_body|body]] parts [[l/_like|like]] skin or [[b/_bone|bone]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Bergamot
 ---
 #noun
-- **A tree of the orange family ([[c/_citrus|Citrus]] × limon, syn. [[c/_citrus|Citrus]] bergamia), having a roundish or pear-shaped fruit, from the rind of which an [[e/_essential|essential]] oil of [[d/_delicious|delicious]] odor is extracted, much prized as a perfume.**
-- **The fruit from the [[b/_bergamot|bergamot]] tree**
-- **The [[e/_essence|essence]] or perfume made from the fruit.**
+- **A tree of the [[o/_orange|orange]] [[f/_family|family]] ([[c/_citrus|Citrus]] × limon, syn. [[c/_citrus|Citrus]] bergamia), [[h/_having|having]] a roundish or pear-shaped [[f/_fruit|fruit]], from the rind of which an [[e/_essential|essential]] [[o/_oil|oil]] of [[d/_delicious|delicious]] [[o/_odor|odor]] is [[e/_extracted|extracted]], [[m/_much|much]] prized as a perfume.**
+- **The [[f/_fruit|fruit]] from the [[b/_bergamot|bergamot]] tree**
+- **The [[e/_essence|essence]] or perfume [[m/_made|made]] from the [[f/_fruit|fruit]].**
 - **A variety of snuff perfumed with [[b/_bergamot|bergamot]].**
-- **[[e/_either|Either]] of two plants of the mint family noted for their [[b/_bergamot|bergamot]]-like scent:**
+- **[[e/_either|Either]] of two plants of the [[m/_mint|mint]] [[f/_family|family]] [[n/_noted|noted]] for their [[b/_bergamot|bergamot]]-[[l/_like|like]] scent:**
 - **A variety of pear.**
 ---
 ---

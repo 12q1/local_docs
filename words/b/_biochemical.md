@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Of, or relating to [[b/_biochemistry|biochemistry]]**
-- **[[c/_characterized|Characterized]] by, produced by, or involving [[c/_chemical|chemical]] processes in living organisms**
+- **[[c/_characterized|Characterized]] by, produced by, or [[i/_involving|involving]] [[c/_chemical|chemical]] processes in [[l/_living|living]] [[o/_organisms|organisms]]**
 ---
 ---

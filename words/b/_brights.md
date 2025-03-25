@@ -1,10 +1,10 @@
 # Brights
 ---
 #noun
-- **An [[a/_artist|artist]]'s [[b/_brush|brush]] used in oil and [[a/_acrylic|acrylic]] painting with a long ferrule and a flat, somewhat tapering [[b/_bristle|bristle]] head.**
+- **An [[a/_artist|artist]]'s [[b/_brush|brush]] used in [[o/_oil|oil]] and [[a/_acrylic|acrylic]] [[p/_painting|painting]] with a [[l/_long|long]] [[f/_ferrule|ferrule]] and a [[f/_flat|flat]], somewhat tapering [[b/_bristle|bristle]] [[h/_head|head]].**
 - **Splendour; [[b/_brightness|brightness]]**
-- **A person with a naturalistic worldview with no supernatural or mystical [[e/_elements|elements]].**
-- **(in the plural) The high-[[b/_beam|beam]] intensity of motor vehicle headlamps.**
+- **A person with a [[n/_naturalistic|naturalistic]] worldview with [[n/_no|no]] supernatural or [[m/_mystical|mystical]] [[e/_elements|elements]].**
+- **(in the plural) The [[h/_high|high]]-[[b/_beam|beam]] [[i/_intensity|intensity]] of [[m/_motor|motor]] vehicle [[h/_headlamps|headlamps]].**
 	- _Example: Your brights are on._
 ---
 ### Antonyms

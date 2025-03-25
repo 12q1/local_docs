@@ -1,7 +1,7 @@
 # Conjunctives
 ---
 #noun
-- **(grammar) A [[c/_conjunction|conjunction]].**
+- **([[g/_grammar|grammar]]) A [[c/_conjunction|conjunction]].**
 - **A [[c/_conjunction|conjunction]].**
 ---
 ---

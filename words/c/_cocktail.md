@@ -1,21 +1,21 @@
 # Cocktail
 ---
 #noun
-- **A mixed [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]].**
-- **A mixture of other substances or things.**
+- **A [[m/_mixed|mixed]] [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]].**
+- **A [[m/_mixture|mixture]] of [[o/_other|other]] substances or things.**
 	- _Example: Scientists found a cocktail of pollutants in the river downstream from the chemical factory._
-- **A horse, not of pure [[b/_breed|breed]], but having only one [[e/_eighth|eighth]] or one sixteenth impure [[b/_blood|blood]] in its veins.**
-- **A mean, half-hearted fellow; a [[c/_coward|coward]].**
-- **A species of rove [[b/_beetle|beetle]], so [[c/_called|called]] from its habit of [[e/_elevating|elevating]] the tail.**
+- **A [[h/_horse|horse]], not of pure [[b/_breed|breed]], but [[h/_having|having]] [[o/_only|only]] [[o/_one|one]] [[e/_eighth|eighth]] or [[o/_one|one]] sixteenth [[i/_impure|impure]] [[b/_blood|blood]] in [[i/_its|its]] veins.**
+- **A [[m/_mean|mean]], [[h/_half|half]]-[[h/_hearted|hearted]] [[f/_fellow|fellow]]; a [[c/_coward|coward]].**
+- **A species of rove [[b/_beetle|beetle]], so [[c/_called|called]] from [[i/_its|its]] [[h/_habit|habit]] of [[e/_elevating|elevating]] the tail.**
 ---
 ### Synonyms
 - [[c/_ckt|ckt]]
 #verb
-- **To [[a/_adulterate|adulterate]] (fuel, [[e/_etc|etc]].) by mixing in other substances.**
+- **To [[a/_adulterate|adulterate]] ([[f/_fuel|fuel]], [[e/_etc|etc]].) by [[m/_mixing|mixing]] in [[o/_other|other]] substances.**
 - **To treat (a person) to [[c/_cocktails|cocktails]].**
 	- _Example: He dined and cocktailed her at the most exclusive bars and restaurants._
 ---
 #adjective
-- **Ostentatiously lacking in manners.**
+- **[[o/_ostentatiously|Ostentatiously]] [[l/_lacking|lacking]] in [[m/_manners|manners]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Cyborgs
 ---
 #noun
-- **A person who is part machine, a robot who is part organic.**
-- **A robot who has an organic past.**
-- **A human with [[e/_electronic|electronic]] or [[b/_bionic|bionic]] prostheses.**
+- **A person who is part [[m/_machine|machine]], a robot who is part [[o/_organic|organic]].**
+- **A robot who [[h/_has|has]] an [[o/_organic|organic]] past.**
+- **A [[h/_human|human]] with [[e/_electronic|electronic]] or [[b/_bionic|bionic]] prostheses.**
 ---
 ### Synonyms
 - [[b/_bion|bion]], [[c/_cyberman|cyberman]]

@@ -1,11 +1,11 @@
 # Endorses
 ---
 #noun
-- **A [[d/_diminutive|diminutive]] of the pale, usually [[a/_appearing|appearing]] in pairs on [[e/_either|either]] side of a pale.**
+- **A [[d/_diminutive|diminutive]] of the [[p/_pale|pale]], usually [[a/_appearing|appearing]] in [[p/_pairs|pairs]] on [[e/_either|either]] side of a [[p/_pale|pale]].**
 ---
 #verb
-- **To support, to [[b/_back|back]], to give one's [[a/_approval|approval]] to, [[e/_especially|especially]] officially or by signature.**
-- **To write one's signature on the [[b/_back|back]] of a [[c/_cheque|cheque]], or other negotiable instrument, when transferring it to a third party, or [[c/_cashing|cashing]] it.**
-- **To give an [[e/_endorsement|endorsement]].**
+- **To support, to [[b/_back|back]], to [[g/_give|give]] [[o/_one|one]]'s [[a/_approval|approval]] to, [[e/_especially|especially]] [[o/_officially|officially]] or by signature.**
+- **To write [[o/_one|one]]'s signature on the [[b/_back|back]] of a [[c/_cheque|cheque]], or [[o/_other|other]] [[n/_negotiable|negotiable]] [[i/_instrument|instrument]], when transferring it to a third party, or [[c/_cashing|cashing]] it.**
+- **To [[g/_give|give]] an [[e/_endorsement|endorsement]].**
 ---
 ---

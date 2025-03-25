@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Self-produced.**
-- **Independent of a medium.**
-- **(specifically, of a process of soldering) Performed by fusing the parts to be joined without [[a/_adding|adding]] solder.**
+- **[[i/_independent|Independent]] of a [[m/_medium|medium]].**
+- **(specifically, of a process of soldering) Performed by [[f/_fusing|fusing]] the parts to be [[j/_joined|joined]] without [[a/_adding|adding]] solder.**
 ---
 ---

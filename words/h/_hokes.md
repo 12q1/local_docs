@@ -1,0 +1,40 @@
+# Hokes
+---
+#noun
+- **Something [[c/_contrived|contrived]] or [[a/_artificial|artificial]].**
+---
+#verb
+- **To [[a/_ascribe|ascribe]] a [[f/_false|false]] or [[a/_artificial|artificial]] quality to; to pretend [[f/_falsely|falsely]] to [[h/_have|have]] some quality or to be [[d/_doing|doing]] something, [[e/_etc|etc]].**
+---
+#verb
+- **To scrounge, to [[g/_grub|grub]].**
+---
+#noun
+- **A rod [[b/_bent|bent]] [[i/_into|into]] a [[c/_curved|curved]] shape, typically with [[o/_one|one]] [[e/_end|end]] [[f/_free|free]] and the [[o/_other|other]] [[e/_end|end]] secured to a rope or [[o/_other|other]] [[a/_attachment|attachment]].**
+- **A [[b/_barbed|barbed]] [[m/_metal|metal]] [[h/_hook|hook]] used for [[f/_fishing|fishing]]; a [[f/_fishhook|fishhook]].**
+- **[[a/_any|Any]] of various [[h/_hook|hook]]-shaped [[a/_agricultural|agricultural]] [[i/_implements|implements]] such as a [[b/_billhook|billhook]].**
+- **The [[c/_curved|curved]] [[n/_needle|needle]] used in the [[a/_art|art]] of [[c/_crochet|crochet]].**
+- **The part of a [[h/_hinge|hinge]] which is [[f/_fixed|fixed]] to a post, and on which a [[d/_door|door]] or [[g/_gate|gate]] [[h/_hangs|hangs]] and turns.**
+- **A [[l/_loop|loop]] shaped [[l/_like|like]] a [[h/_hook|hook]] under [[c/_certain|certain]] written [[l/_letters|letters]], for [[e/_example|example]], [[g/_g|g]] and [[j/_j|j]].**
+- **A tie-in to a [[c/_current|current]] [[e/_event|event]] or trend that [[m/_makes|makes]] a [[n/_news|news]] story or [[e/_editorial|editorial]] relevant and timely.**
+- **A snare; a trap.**
+- **(in the plural) The projecting points of the thighbones of [[c/_cattle|cattle]]; [[c/_called|called]] [[a/_also|also]] [[h/_hook|hook]] [[b/_bones|bones]].**
+- **Removal or [[e/_expulsion|expulsion]] from a [[g/_group|group]] or [[a/_activity|activity]]**
+	- _Example: He is not handling this job, so we're giving him the hook._
+- **A [[f/_field|field]] sown two [[y/_years|years]] in succession.**
+- **([[a/_authorship|authorship]]) A [[b/_brief|brief]], punchy [[o/_opening|opening]] statement [[i/_intended|intended]] to [[g/_get|get]] [[a/_attention|attention]] from an [[a/_audience|audience]], reader, or viewer, and [[m/_make|make]] them want to [[c/_continue|continue]] to [[l/_listen|listen]] to a speech, read a [[b/_book|book]], or watch a play.**
+- **([[a/_authorship|authorship]]) A [[g/_gimmick|gimmick]] or [[e/_element|element]] of a [[c/_creative|creative]] work [[i/_intended|intended]] to be [[a/_attention|attention]]-[[g/_grabbing|grabbing]] for the [[a/_audience|audience]]; a [[c/_compelling|compelling]] [[i/_idea|idea]] for a story that will be sure to [[a/_attract|attract]] people's [[a/_attention|attention]].**
+- **A [[f/_finesse|finesse]].**
+- **A [[j/_jack|jack]] (the playing [[c/_card|card]]).**
+- **A spit or [[n/_narrow|narrow]] [[c/_cape|cape]] of sand or [[g/_gravel|gravel]] turned [[l/_landward|landward]] at the [[o/_outer|outer]] [[e/_end|end]], such as Sandy [[h/_hook|Hook]] in [[n/_new|New]] [[j/_jersey|Jersey]].**
+- **A [[c/_catchy|catchy]] [[m/_musical|musical]] phrase which [[f/_forms|forms]] the [[b/_basis|basis]] of a popular song.**
+	- _Example: The song's hook snared me._
+- **A ship's [[a/_anchor|anchor]].**
+- **Part of a system's [[o/_operation|operation]] that [[c/_can|can]] be [[i/_intercepted|intercepted]] to [[c/_change|change]] or [[a/_augment|augment]] [[i/_its|its]] [[b/_behaviour|behaviour]].**
+	- _Example: We've added hooks to allow undefined message types to be handled with custom code._
+- **(Scrabble) An [[i/_instance|instance]] of playing a word perpendicular to a word [[a/_already|already]] on the [[b/_board|board]], [[a/_adding|adding]] a [[l/_letter|letter]] to the start or the [[e/_end|end]] of the word to [[f/_form|form]] a [[n/_new|new]] word.**
+- **A [[d/_diacritical|diacritical]] [[m/_mark|mark]] shaped [[l/_like|like]] the upper part of a question [[m/_mark|mark]], as in ỏ.**
+- **A [[h/_h|h]]áček.**
+- **Senses relating to sports.**
+---
+---

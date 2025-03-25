@@ -1,13 +1,13 @@
 # Allophone
 ---
 #noun
-- **[[a/_any|Any]] of two or more [[a/_alternative|alternative]] pronunciations for a phoneme.**
+- **[[a/_any|Any]] of two or [[m/_more|more]] [[a/_alternative|alternative]] pronunciations for a phoneme.**
 	- _Example: [ʋ] is occasionally considered to be an allophone of /v/_
-- **A person whose mother tongue is neither [[e/_english|English]], French nor an Indigenous language of [[c/_canada|Canada]].**
-- **A person whose mother tongue is one other than that spoken by the majority.**
+- **A person whose [[m/_mother|mother]] tongue is [[n/_neither|neither]] [[e/_english|English]], [[f/_french|French]] [[n/_nor|nor]] an [[i/_indigenous|Indigenous]] [[l/_language|language]] of [[c/_canada|Canada]].**
+- **A person whose [[m/_mother|mother]] tongue is [[o/_one|one]] [[o/_other|other]] than that spoken by the [[m/_majority|majority]].**
 ---
 #adjective
-- **Of or relating to those whose mother tongue is neither [[e/_english|English]], French nor an Indigenous language of [[c/_canada|Canada]]**
-- **That which is of a language other than that spoken by the majority.**
+- **Of or relating to those whose [[m/_mother|mother]] tongue is [[n/_neither|neither]] [[e/_english|English]], [[f/_french|French]] [[n/_nor|nor]] an [[i/_indigenous|Indigenous]] [[l/_language|language]] of [[c/_canada|Canada]]**
+- **That which is of a [[l/_language|language]] [[o/_other|other]] than that spoken by the [[m/_majority|majority]].**
 ---
 ---

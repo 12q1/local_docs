@@ -2,9 +2,9 @@
 ---
 #noun
 - **A projecting [[c/_corner|corner]] or [[a/_angle|angle]]; a [[c/_cornerstone|cornerstone]].**
-- **The keystone of an [[a/_arch|arch]].**
+- **The [[k/_keystone|keystone]] of an [[a/_arch|arch]].**
 - **A wedge used in typesetting.**
-- **A a [[c/_corner|corner]] of a [[c/_crystal|crystal]] formed by the intersection of three or more faces at a point (in [[c/_crystallography|crystallography]])**
-- **An original [[a/_angular|angular]] [[e/_elevation|elevation]] of land [[a/_around|around]] which [[c/_continental|continental]] growth has taken place (in geology)**
+- **A a [[c/_corner|corner]] of a [[c/_crystal|crystal]] [[f/_formed|formed]] by the [[i/_intersection|intersection]] of three or [[m/_more|more]] [[f/_faces|faces]] at a point (in [[c/_crystallography|crystallography]])**
+- **An [[o/_original|original]] [[a/_angular|angular]] [[e/_elevation|elevation]] of [[l/_land|land]] [[a/_around|around]] which [[c/_continental|continental]] [[g/_growth|growth]] [[h/_has|has]] taken place (in [[g/_geology|geology]])**
 ---
 ---

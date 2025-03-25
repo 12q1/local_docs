@@ -1,7 +1,7 @@
 # Clowder
 ---
 #noun
-- **A group of [[c/_cats|cats]] or other small felines.**
+- **A [[g/_group|group]] of [[c/_cats|cats]] or [[o/_other|other]] small [[f/_felines|felines]].**
 ---
 ### Synonyms
 - [[g/_glaring|glaring]]

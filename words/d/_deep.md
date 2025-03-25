@@ -1,28 +1,28 @@
 # Deep
 ---
 #noun
-- **(with "the") The [[d/_deep|deep]] part of a lake, sea, [[e/_etc|etc]].**
+- **(with "the") The [[d/_deep|deep]] part of a [[l/_lake|lake]], sea, [[e/_etc|etc]].**
 	- _Example: creatures of the deep_
-- **(with "the") A silent time; quiet isolation.**
+- **(with "the") A silent time; quiet [[i/_isolation|isolation]].**
 	- _Example: the deep of night_
 - **A [[d/_deep|deep]] shade of [[c/_colour|colour]].**
 - **The profound part of a problem.**
-- **(with "the") The sea, the ocean.**
-- **A fielding position near the [[b/_boundary|boundary]].**
+- **(with "the") The sea, the [[o/_ocean|ocean]].**
+- **A [[f/_fielding|fielding]] position [[n/_near|near]] the [[b/_boundary|boundary]].**
 	- _Example: Russell is a safe pair of hands in the deep._
 ---
 #adjective
-- **(of a physical [[d/_distance|distance]]) Extending far [[a/_away|away]] from a point of reference, [[e/_especially|especially]] [[d/_downwards|downwards]].**
-- **(intellectual, social) [[c/_complex|Complex]], involved.**
-- **(sound, voice) Low in pitch.**
+- **(of a physical [[d/_distance|distance]]) [[e/_extending|Extending]] [[f/_far|far]] [[a/_away|away]] from a point of reference, [[e/_especially|especially]] [[d/_downwards|downwards]].**
+- **([[i/_intellectual|intellectual]], social) [[c/_complex|Complex]], [[i/_involved|involved]].**
+- **(sound, voice) [[l/_low|Low]] in pitch.**
 	- _Example: She has a very deep contralto voice._
-- **(of a [[c/_color|color]]) Highly saturated.**
+- **(of a [[c/_color|color]]) [[h/_highly|Highly]] saturated.**
 	- _Example: That's a very deep shade of blue._
-- **(sleep) Sound, heavy ([[d/_describing|describing]] a state of sleep from which one is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
+- **(sleep) Sound, [[h/_heavy|heavy]] ([[d/_describing|describing]] a state of sleep from which [[o/_one|one]] is not [[e/_easily|easily]] [[a/_awoken|awoken]]).**
 	- _Example: He was in a deep sleep._
-- **Immersed, submerged (in).**
+- **[[i/_immersed|Immersed]], submerged (in).**
 	- _Example: deep in debt_
-- **Muddy; [[b/_boggy|boggy]]; sandy; said of roads.**
+- **[[m/_muddy|Muddy]]; [[b/_boggy|boggy]]; sandy; said of roads.**
 - **(of time) [[d/_distant|Distant]] in the past, [[a/_ancient|ancient]].**
 	- _Example: deep time_
 ---

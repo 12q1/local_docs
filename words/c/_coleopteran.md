@@ -1,6 +1,6 @@
 # Coleopteran
 ---
 #noun
-- **[[a/_any|Any]] insect of the order [[c/_coleoptera|Coleoptera]]; includes the [[b/_beetles|beetles]], weevils and fireflies**
+- **[[a/_any|Any]] [[i/_insect|insect]] of the [[o/_order|order]] [[c/_coleoptera|Coleoptera]]; [[i/_includes|includes]] the [[b/_beetles|beetles]], weevils and [[f/_fireflies|fireflies]]**
 ---
 ---

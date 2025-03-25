@@ -2,8 +2,8 @@
 ---
 #noun
 - **A termination or [[c/_conclusion|conclusion]].**
-- **The last part of something.**
-- **(grammar) The last morpheme of a word, [[a/_added|added]] to some [[b/_base|base]] to make an inflected form (such as -ing in "[[e/_ending|ending]]").**
+- **The [[l/_last|last]] part of something.**
+- **([[g/_grammar|grammar]]) The [[l/_last|last]] [[m/_morpheme|morpheme]] of a word, [[a/_added|added]] to some [[b/_base|base]] to [[m/_make|make]] an [[i/_inflected|inflected]] [[f/_form|form]] (such as -[[i/_ing|ing]] in "[[e/_ending|ending]]").**
 ---
 ### Synonyms
 - [[c/_conclusion|conclusion]], [[e/_end|end]], [[t/_termination|termination]], [[e/_end|end]], [[f/_finale|finale]], [[s/_suffix|suffix]], [[t/_termination|termination]]

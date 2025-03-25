@@ -1,6 +1,6 @@
 # Ethnohistory
 ---
 #noun
-- **The history of an indigenous people**
+- **The [[h/_history|history]] of an [[i/_indigenous|indigenous]] people**
 ---
 ---

@@ -1,9 +1,9 @@
 # Buffered
 ---
 #verb
-- **To use a [[b/_buffer|buffer]] or [[b/_buffers|buffers]]; to isolate or minimize the [[e/_effects|effects]] of one thing on [[a/_another|another]].**
-- **To store [[d/_data|data]] in memory temporarily.**
-- **To maintain the [[a/_acidity|acidity]] of a solution near a [[c/_chosen|chosen]] value by [[a/_adding|adding]] an [[a/_acid|acid]] or a [[b/_base|base]].**
+- **To use a [[b/_buffer|buffer]] or [[b/_buffers|buffers]]; to [[i/_isolate|isolate]] or [[m/_minimize|minimize]] the [[e/_effects|effects]] of [[o/_one|one]] thing on [[a/_another|another]].**
+- **To store [[d/_data|data]] in [[m/_memory|memory]] temporarily.**
+- **To [[m/_maintain|maintain]] the [[a/_acidity|acidity]] of a solution [[n/_near|near]] a [[c/_chosen|chosen]] value by [[a/_adding|adding]] an [[a/_acid|acid]] or a [[b/_base|base]].**
 ---
 #adjective
 - **Using a [[b/_buffer|buffer]].**

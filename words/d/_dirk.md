@@ -1,9 +1,9 @@
 # Dirk
 ---
 #noun
-- **A long Scottish [[d/_dagger|dagger]] with a straight [[b/_blade|blade]].**
-- **(Midwest US) A penis; dork.**
-- **(Midwest US) A socially unacceptable person; an oddball.**
+- **A [[l/_long|long]] Scottish [[d/_dagger|dagger]] with a straight [[b/_blade|blade]].**
+- **([[m/_midwest|Midwest]] US) A penis; dork.**
+- **([[m/_midwest|Midwest]] US) A socially unacceptable person; an [[o/_oddball|oddball]].**
 ---
 #verb
 - **To stab with a [[d/_dirk|dirk]].**

@@ -1,7 +1,7 @@
 # Borrowers
 ---
 #noun
-- **One who [[b/_borrows|borrows]].**
+- **[[o/_one|One]] who [[b/_borrows|borrows]].**
 	- _Example: a library borrower's card_
 ---
 ### Antonyms

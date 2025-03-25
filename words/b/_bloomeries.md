@@ -1,6 +1,6 @@
 # Bloomeries
 ---
 #noun
-- **A forge in which wrought iron is made straight from ore.**
+- **A [[f/_forge|forge]] in which wrought [[i/_iron|iron]] is [[m/_made|made]] straight from [[o/_ore|ore]].**
 ---
 ---

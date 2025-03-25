@@ -1,0 +1,9 @@
+# Modernism
+---
+#noun
+- **[[m/_modern|Modern]] or [[c/_contemporary|contemporary]] [[i/_ideas|ideas]], thought, practices, [[e/_etc|etc]].**
+- **[[a/_anything|Anything]] that is [[c/_characteristic|characteristic]] of [[m/_modernity|modernity]].**
+- **[[a/_any|Any]] of several styles of [[a/_art|art]], [[a/_architecture|architecture]], [[l/_literature|literature]], philosophy, [[e/_etc|etc]]., that [[f/_flourished|flourished]] in the 20th [[c/_century|century]].**
+- **A religious [[m/_movement|movement]] in the [[e/_early|early]] 20th [[c/_century|century]] that tried to reconcile Roman [[c/_catholic|Catholic]] [[d/_dogma|dogma]] with [[m/_modern|modern]] science and philosophy.**
+---
+---

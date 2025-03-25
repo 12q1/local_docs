@@ -1,0 +1,11 @@
+# Mushier
+---
+#adjective
+- **Resembling or [[h/_having|having]] the [[c/_consistency|consistency]] of [[m/_mush|mush]]; semiliquid, pasty, or [[g/_granular|granular]].**
+	- _Example: I don't especially like mushy oatmeal._
+- **Soft; squishy.**
+	- _Example: The brake pedal is mushy sometimes when I step on it._
+- **[[o/_overly|Overly]] sappy, [[c/_corny|corny]], or [[c/_cheesy|cheesy]]; [[m/_maudlin|maudlin]].**
+	- _Example: Skip the mushy, romantic scenes and get to the action._
+---
+---

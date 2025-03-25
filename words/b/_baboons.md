@@ -1,7 +1,7 @@
 # Baboons
 ---
 #noun
-- **An Old World monkey of the genus Papio, having [[d/_dog|dog]]-like muzzles and large [[c/_canine|canine]] teeth, [[c/_cheek|cheek]] pouches, a short tail, and naked [[c/_callosities|callosities]] on the [[b/_buttocks|buttocks]].**
-- **A foolish or [[b/_boorish|boorish]] person.**
+- **An [[o/_old|Old]] World [[m/_monkey|monkey]] of the [[g/_genus|genus]] Papio, [[h/_having|having]] [[d/_dog|dog]]-[[l/_like|like]] [[m/_muzzles|muzzles]] and [[l/_large|large]] [[c/_canine|canine]] teeth, [[c/_cheek|cheek]] pouches, a short tail, and [[n/_naked|naked]] [[c/_callosities|callosities]] on the [[b/_buttocks|buttocks]].**
+- **A [[f/_foolish|foolish]] or [[b/_boorish|boorish]] person.**
 ---
 ---

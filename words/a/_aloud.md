@@ -1,12 +1,12 @@
 # Aloud
 ---
 #adjective
-- **Spoken out loud.**
+- **Spoken [[o/_out|out]] [[l/_loud|loud]].**
 ---
 #adverb
-- **With a loud voice, or great noise; loudly; [[a/_audibly|audibly]].**
+- **With a [[l/_loud|loud]] voice, or [[g/_great|great]] [[n/_noise|noise]]; [[l/_loudly|loudly]]; [[a/_audibly|audibly]].**
 	- _Example: Try speaking aloud rather than whispering._
-- **[[a/_audibly|Audibly]], as opposed to silently/quietly.**
+- **[[a/_audibly|Audibly]], as [[o/_opposed|opposed]] to silently/quietly.**
 	- _Example: speaking aloud rather than thinking thoughts privately_
 ---
 ---

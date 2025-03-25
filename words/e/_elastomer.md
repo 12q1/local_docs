@@ -1,6 +1,6 @@
 # Elastomer
 ---
 #noun
-- **[[a/_any|Any]] polymer having the [[e/_elastic|elastic]] properties of rubber**
+- **[[a/_any|Any]] polymer [[h/_having|having]] the [[e/_elastic|elastic]] properties of rubber**
 ---
 ---

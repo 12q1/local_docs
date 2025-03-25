@@ -1,0 +1,52 @@
+# Massy
+---
+#adjective
+- **[[h/_heavy|Heavy]]; [[m/_massive|massive]].**
+---
+#noun
+- **Someone who [[h/_has|has]] [[c/_control|control]] [[o/_over|over]] something or someone.**
+- **The [[o/_owner|owner]] of an [[a/_animal|animal]] or slave.**
+- **The [[c/_captain|captain]] of a [[m/_merchant|merchant]] ship; a [[m/_master|master]] [[m/_mariner|mariner]].**
+- **The [[h/_head|head]] of a [[h/_household|household]].**
+- **Someone who [[e/_employs|employs]] [[o/_others|others]].**
+- **An [[e/_expert|expert]] at something.**
+	- _Example: Mark Twain was a master of fiction._
+- **A tradesman who is qualified to teach [[a/_apprentices|apprentices]].**
+- **A schoolmaster.**
+- **A skilled [[a/_artist|artist]].**
+- **A [[m/_man|man]] or a [[b/_boy|boy]]; [[m/_mister|mister]]. See [[m/_master|Master]].**
+- **A [[m/_master|master]]'s [[d/_degree|degree]]; a type of postgraduate [[d/_degree|degree]], usually undertaken [[a/_after|after]] a [[b/_bachelor|bachelor]] [[d/_degree|degree]].**
+	- _Example: She has a master in psychology._
+- **A person [[h/_holding|holding]] such a [[d/_degree|degree]].**
+	- _Example: He is a master of marine biology._
+- **The [[o/_original|original]] of a [[d/_document|document]] or of a recording.**
+	- _Example: The band couldn't find the master, so they re-recorded their tracks._
+- **The primary wide shot of a scene, [[i/_into|into]] which the [[c/_closeups|closeups]] will be [[e/_edited|edited]] [[l/_later|later]].**
+- **A parajudicial [[o/_officer|officer]] (such as a referee, an [[a/_auditor|auditor]], an [[e/_examiner|examiner]], or an [[a/_assessor|assessor]]) specially [[a/_appointed|appointed]] to [[h/_help|help]] a [[c/_court|court]] with [[i/_its|its]] proceedings.**
+	- _Example: The case was tried by a master, who concluded that the plaintiffs were the equitable owners of the property. [...]_
+- **A [[d/_device|device]] that is [[c/_controlling|controlling]] [[o/_other|other]] [[d/_devices|devices]] or is an [[a/_authoritative|authoritative]] source.**
+	- _Example: a master database_
+- **A person [[h/_holding|holding]] an [[o/_office|office]] of [[a/_authority|authority]], [[e/_especially|especially]] the presiding [[o/_officer|officer]].**
+- **(by [[e/_extension|extension]]) A person [[h/_holding|holding]] a similar [[o/_office|office]] in [[o/_other|other]] [[c/_civic|civic]] societies.**
+---
+### Synonyms
+- [[m/_magistrate|magistrate]], [[m/_master's|master's]], [[m/_masters|masters]], [[c/_captain|captain]], [[s/_skipper|skipper]]
+#noun
+- **(in [[c/_combination|combination]]) A vessel [[h/_having|having]] a specified [[n/_number|number]] of [[m/_masts|masts]].**
+	- _Example: a two-master_
+---
+#noun
+- **Relenting; [[f/_forbearance|forbearance]] to [[c/_cause|cause]] or [[a/_allow|allow]] [[h/_harm|harm]] to [[a/_another|another]].**
+	- _Example: She took mercy on him and quit embarrassing him._
+- **[[f/_forgiveness|Forgiveness]] or [[c/_compassion|compassion]], [[e/_especially|especially]] toward those [[l/_less|less]] [[f/_fortunate|fortunate]].**
+	- _Example: Have mercy on the poor and assist them if you can._
+- **A tendency toward [[f/_forgiveness|forgiveness]], pity, or [[c/_compassion|compassion]].**
+	- _Example: Mercy is one of his many virtues._
+- **[[i/_instances|Instances]] of [[f/_forbearance|forbearance]] or [[f/_forgiveness|forgiveness]].**
+	- _Example: Psalms 40:11 Do not withhold Your tender mercies from me, O Lord_
+- **A [[b/_blessing|blessing]]; something to be thankful for.**
+	- _Example: It was a mercy that we were not inside when the roof collapsed_
+---
+### Antonyms
+- [[c/_cruelty|cruelty]], [[m/_mercilessness|mercilessness]], [[r/_ruthlessness|ruthlessness]]
+---

@@ -1,6 +1,6 @@
 # Chickaree
 ---
 #noun
-- **A small squirrel, one of the species of Tamiasciurus, that lives in evergreen forests of North [[a/_america|America]].**
+- **A small squirrel, [[o/_one|one]] of the species of Tamiasciurus, that [[l/_lives|lives]] in [[e/_evergreen|evergreen]] [[f/_forests|forests]] of [[n/_north|North]] [[a/_america|America]].**
 ---
 ---

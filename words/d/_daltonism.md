@@ -1,7 +1,7 @@
 # Daltonism
 ---
 #noun
-- **Inability or [[d/_defective|defective]] [[a/_ability|ability]] to perceive or [[d/_distinguish|distinguish]] [[c/_certain|certain]] [[c/_colors|colors]], [[e/_especially|especially]] red-green [[c/_color|color]] [[b/_blindness|blindness]].**
+- **[[i/_inability|Inability]] or [[d/_defective|defective]] [[a/_ability|ability]] to perceive or [[d/_distinguish|distinguish]] [[c/_certain|certain]] [[c/_colors|colors]], [[e/_especially|especially]] red-[[g/_green|green]] [[c/_color|color]] [[b/_blindness|blindness]].**
 - **[[a/_achromatopsia|Achromatopsia]].**
 ---
 ### Synonyms

@@ -1,11 +1,11 @@
 # Dinkum
 ---
 #noun
-- **Hard work.**
+- **[[h/_hard|Hard]] work.**
 - **Truth.**
 ---
 #adjective
-- **Genuine, true, honest, on the level.**
+- **[[g/_genuine|Genuine]], true, [[h/_honest|honest]], on the [[l/_level|level]].**
 ---
 ### Synonyms
 - [[d/_dinky-die|dinky-die]]

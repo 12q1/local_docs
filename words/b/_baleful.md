@@ -1,7 +1,7 @@
 # Baleful
 ---
 #adjective
-- **Portending evil; ominous.**
-- **Miserable, wretched, [[d/_distressed|distressed]], suffering.**
+- **Portending [[e/_evil|evil]]; [[o/_ominous|ominous]].**
+- **[[m/_miserable|Miserable]], wretched, [[d/_distressed|distressed]], suffering.**
 ---
 ---

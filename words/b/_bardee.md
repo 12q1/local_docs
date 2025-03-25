@@ -1,6 +1,6 @@
 # Bardee
 ---
 #noun
-- **The [[e/_edible|edible]] larva of an insect.**
+- **The [[e/_edible|edible]] [[l/_larva|larva]] of an [[i/_insect|insect]].**
 ---
 ---

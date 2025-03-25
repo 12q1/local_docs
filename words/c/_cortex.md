@@ -1,7 +1,7 @@
 # Cortex
 ---
 #noun
-- **The outer layer of an internal organ or [[b/_body|body]] structure, such as the kidney or the [[b/_brain|brain]].**
-- **The tissue of a stem or root that lies inward from the [[e/_epidermis|epidermis]], but exterior to the vascular tissue.**
+- **The [[o/_outer|outer]] [[l/_layer|layer]] of an [[i/_internal|internal]] [[o/_organ|organ]] or [[b/_body|body]] structure, such as the [[k/_kidney|kidney]] or the [[b/_brain|brain]].**
+- **The tissue of a stem or root that [[l/_lies|lies]] [[i/_inward|inward]] from the [[e/_epidermis|epidermis]], but [[e/_exterior|exterior]] to the vascular tissue.**
 ---
 ---

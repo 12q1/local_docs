@@ -1,16 +1,16 @@
 # Dole
 ---
 #noun
-- **Money or other goods given as [[c/_charity|charity]].**
+- **[[m/_money|Money]] or [[o/_other|other]] [[g/_goods|goods]] [[g/_given|given]] as [[c/_charity|charity]].**
 - **[[d/_distribution|Distribution]]; [[d/_dealing|dealing]]; [[a/_apportionment|apportionment]].**
-- **Payment by the state to the unemployed.**
+- **[[p/_payment|Payment]] by the state to the unemployed.**
 	- _Example: I get my dole paid twice a week._
-- **A [[b/_boundary|boundary]]; a landmark.**
-- **A void space left in tillage.**
+- **A [[b/_boundary|boundary]]; a [[l/_landmark|landmark]].**
+- **A void space [[l/_left|left]] in tillage.**
 ---
 ### Synonyms
 - [[p/_pancrack|pancrack]], [[p/_pogey|pogey]]
 #verb
-- **To [[d/_distribute|distribute]] in small [[a/_amounts|amounts]]; to share out small portions of a meager resource.**
+- **To [[d/_distribute|distribute]] in small [[a/_amounts|amounts]]; to share [[o/_out|out]] small portions of a [[m/_meager|meager]] resource.**
 ---
 ---

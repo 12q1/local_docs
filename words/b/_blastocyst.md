@@ -1,6 +1,6 @@
 # Blastocyst
 ---
 #noun
-- **The mammalian [[b/_blastula|blastula]]**
+- **The [[m/_mammalian|mammalian]] [[b/_blastula|blastula]]**
 ---
 ---

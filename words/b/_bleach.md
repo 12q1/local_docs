@@ -1,6 +1,6 @@
 # Bleach
 ---
 #adjective
-- **Pale; [[b/_bleak|bleak]].**
+- **[[p/_pale|Pale]]; [[b/_bleak|bleak]].**
 ---
 ---

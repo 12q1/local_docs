@@ -11,6 +11,6 @@
 - **To sodomize; to [[e/_engage|engage]] in [[a/_anal|anal]] sex.**
 ---
 #interjection
-- **An expression of [[a/_annoyance|annoyance]].**
+- **An [[e/_expression|expression]] of [[a/_annoyance|annoyance]].**
 ---
 ---

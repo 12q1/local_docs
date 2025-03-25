@@ -1,6 +1,6 @@
 # Berg
 ---
 #noun
-- **An iceberg.**
+- **An [[i/_iceberg|iceberg]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Cottars
 ---
 #noun
-- **A peasant who performed labour in exchange for the right to live in a [[c/_cottage|cottage]].**
+- **A peasant who performed [[l/_labour|labour]] in [[e/_exchange|exchange]] for the right to [[l/_live|live]] in a [[c/_cottage|cottage]].**
 ---
 ### Synonyms
 - [[c/_coscet|coscet]], [[c/_cottager|cottager]]

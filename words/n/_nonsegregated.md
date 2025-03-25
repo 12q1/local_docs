@@ -1,0 +1,6 @@
+# Nonsegregated
+---
+#adjective
+- **Not segregated.**
+---
+---

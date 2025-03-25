@@ -1,7 +1,7 @@
 # Enuresis
 ---
 #noun
-- **Involuntary urination, urinary incontinence**
-- **Nighttime [[e/_enuresis|enuresis]]; bedwetting**
+- **[[i/_involuntary|Involuntary]] urination, urinary [[i/_incontinence|incontinence]]**
+- **[[n/_nighttime|Nighttime]] [[e/_enuresis|enuresis]]; bedwetting**
 ---
 ---

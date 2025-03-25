@@ -1,16 +1,16 @@
 # Dolphin
 ---
 #noun
-- **A [[c/_carnivorous|carnivorous]] [[a/_aquatic|aquatic]] mammal in one of several families of order [[c/_cetacea|Cetacea]], famed for its intelligence and occasional willingness to [[a/_approach|approach]] humans.**
-- **A fish, the mahi-mahi or [[d/_dorado|dorado]], [[c/_coryphaena|Coryphaena]] hippurus, with a [[d/_dorsal|dorsal]] fin that runs the length of the [[b/_body|body]], [[a/_also|also]] known for iridescent [[c/_coloration|coloration]].**
-- **A [[d/_depiction|depiction]] of a fish, with a [[b/_broad|broad]] indented fin, usually [[e/_embowed|embowed]].**
-- **The [[d/_dauphin|dauphin]], [[e/_eldest|eldest]] son of the kings of France.**
-- **(history) A mass of iron or lead hung from the yardarm, in readiness to be [[d/_dropped|dropped]] through the [[d/_deck|deck]] and the hull of an [[e/_enemy|enemy]]'s vessel to sink it.**
-- **A kind of wreath or strap of plaited [[c/_cordage|cordage]].**
-- **A spar or [[b/_buoy|buoy]] held by an [[a/_anchor|anchor]] and furnished with a ring to which ships may fasten their [[c/_cables|cables]].**
-- **A mooring post on a wharf or [[b/_beach|beach]].**
-- **A permanent fender [[a/_around|around]] a heavy [[b/_boat|boat]] just [[b/_below|below]] the gunwale.**
-- **One of the handles [[a/_above|above]] the trunnions by which a gun was lifted.**
+- **A [[c/_carnivorous|carnivorous]] [[a/_aquatic|aquatic]] [[m/_mammal|mammal]] in [[o/_one|one]] of several [[f/_families|families]] of [[o/_order|order]] [[c/_cetacea|Cetacea]], [[f/_famed|famed]] for [[i/_its|its]] [[i/_intelligence|intelligence]] and [[o/_occasional|occasional]] willingness to [[a/_approach|approach]] [[h/_humans|humans]].**
+- **A [[f/_fish|fish]], the [[m/_mahi|mahi]]-[[m/_mahi|mahi]] or [[d/_dorado|dorado]], [[c/_coryphaena|Coryphaena]] hippurus, with a [[d/_dorsal|dorsal]] [[f/_fin|fin]] that runs the [[l/_length|length]] of the [[b/_body|body]], [[a/_also|also]] [[k/_known|known]] for [[i/_iridescent|iridescent]] [[c/_coloration|coloration]].**
+- **A [[d/_depiction|depiction]] of a [[f/_fish|fish]], with a [[b/_broad|broad]] [[i/_indented|indented]] [[f/_fin|fin]], usually [[e/_embowed|embowed]].**
+- **The [[d/_dauphin|dauphin]], [[e/_eldest|eldest]] son of the [[k/_kings|kings]] of [[f/_france|France]].**
+- **([[h/_history|history]]) A [[m/_mass|mass]] of [[i/_iron|iron]] or [[l/_lead|lead]] [[h/_hung|hung]] from the [[y/_yardarm|yardarm]], in readiness to be [[d/_dropped|dropped]] through the [[d/_deck|deck]] and the [[h/_hull|hull]] of an [[e/_enemy|enemy]]'s vessel to sink it.**
+- **A [[k/_kind|kind]] of wreath or strap of plaited [[c/_cordage|cordage]].**
+- **A spar or [[b/_buoy|buoy]] [[h/_held|held]] by an [[a/_anchor|anchor]] and [[f/_furnished|furnished]] with a ring to which ships [[m/_may|may]] [[f/_fasten|fasten]] their [[c/_cables|cables]].**
+- **A [[m/_mooring|mooring]] post on a wharf or [[b/_beach|beach]].**
+- **A permanent [[f/_fender|fender]] [[a/_around|around]] a [[h/_heavy|heavy]] [[b/_boat|boat]] [[j/_just|just]] [[b/_below|below]] the [[g/_gunwale|gunwale]].**
+- **[[o/_one|One]] of the [[h/_handles|handles]] [[a/_above|above]] the trunnions by which a [[g/_gun|gun]] was [[l/_lifted|lifted]].**
 ---
 ### Synonyms
 - [[m/_mereswine|mereswine]]

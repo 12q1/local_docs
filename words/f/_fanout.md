@@ -1,0 +1,7 @@
+# Fanout
+---
+#noun
+- **The [[d/_degree|degree]] to which something [[f/_fans|fans]] [[o/_out|out]], or splits [[i/_into|into]] separate sections.**
+	- _Example: B+ trees have very high fanout, which reduces the number of I/O operations required to find an element in the tree._
+---
+---

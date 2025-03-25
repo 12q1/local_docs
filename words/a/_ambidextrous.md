@@ -1,11 +1,11 @@
 # Ambidextrous
 ---
 #adjective
-- **Having [[e/_equal|equal]] [[a/_ability|ability]] in [[b/_both|both]] hands; in particular, [[a/_able|able]] to write [[e/_equally|equally]] well with [[b/_both|both]] hands.**
-- **[[e/_equally|Equally]] usable by left-handed and right-handed people (as a tool or instrument).**
+- **[[h/_having|Having]] [[e/_equal|equal]] [[a/_ability|ability]] in [[b/_both|both]] [[h/_hands|hands]]; in particular, [[a/_able|able]] to write [[e/_equally|equally]] well with [[b/_both|both]] [[h/_hands|hands]].**
+- **[[e/_equally|Equally]] usable by [[l/_left|left]]-[[h/_handed|handed]] and right-[[h/_handed|handed]] people (as a tool or [[i/_instrument|instrument]]).**
 - **Practising or siding with [[b/_both|both]] parties.**
 - **Of a person, [[b/_bisexual|bisexual]].**
-- **Exceptionally skillful; [[a/_adept|adept]] in more than one medium, genre, style, [[e/_etc|etc]].**
+- **[[e/_exceptionally|Exceptionally]] skillful; [[a/_adept|adept]] in [[m/_more|more]] than [[o/_one|one]] [[m/_medium|medium]], [[g/_genre|genre]], style, [[e/_etc|etc]].**
 	- _Example: Michelangelo was a very ambidextrous artist, producing sculptures and frescoes with equal ability._
 ---
 ### Synonyms

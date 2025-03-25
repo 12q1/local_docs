@@ -1,6 +1,6 @@
 # Drivelers
 ---
 #noun
-- **One who [[d/_drivels|drivels]].**
+- **[[o/_one|One]] who [[d/_drivels|drivels]].**
 ---
 ---

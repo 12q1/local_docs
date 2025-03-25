@@ -1,25 +1,25 @@
 # Declared
 ---
 #verb
-- **To make [[c/_clear|clear]], explain, interpret.**
-- **To make a [[d/_declaration|declaration]].**
-- **To show one's [[c/_cards|cards]] in order to score.**
-- **To [[a/_announce|announce]] one’s support, [[c/_choice|choice]], opinion, [[e/_etc|etc]].**
+- **To [[m/_make|make]] [[c/_clear|clear]], [[e/_explain|explain]], [[i/_interpret|interpret]].**
+- **To [[m/_make|make]] a [[d/_declaration|declaration]].**
+- **To show [[o/_one|one]]'s [[c/_cards|cards]] in [[o/_order|order]] to score.**
+- **To [[a/_announce|announce]] [[o/_one|one]]’s support, [[c/_choice|choice]], [[o/_opinion|opinion]], [[e/_etc|etc]].**
 	- _Example: He declared him innocent._
-- **For the [[c/_captain|captain]] of the [[b/_batting|batting]] side to [[a/_announce|announce]] the innings [[c/_complete|complete]] even though [[a/_all|all]] [[b/_batsmen|batsmen]] have not [[b/_been|been]] [[d/_dismissed|dismissed]].**
-- **To [[a/_announce|announce]] something formally or officially.**
+- **For the [[c/_captain|captain]] of the [[b/_batting|batting]] side to [[a/_announce|announce]] the [[i/_innings|innings]] [[c/_complete|complete]] [[e/_even|even]] though [[a/_all|all]] [[b/_batsmen|batsmen]] [[h/_have|have]] not [[b/_been|been]] [[d/_dismissed|dismissed]].**
+- **To [[a/_announce|announce]] something [[f/_formally|formally]] or [[o/_officially|officially]].**
 	- _Example: declare bankruptcy_
-- **For a [[c/_constituency|constituency]] in an [[e/_election|election]] to officially [[a/_announce|announce]] the result**
+- **For a [[c/_constituency|constituency]] in an [[e/_election|election]] to [[o/_officially|officially]] [[a/_announce|announce]] the result**
 	- _Example: Houghton and Sunderland South was the first constituency to declare in the 2015 general election._
 - **To [[a/_affirm|affirm]] or state something [[e/_emphatically|emphatically]].**
-- **To inform government [[c/_customs|customs]] or taxation officials of goods one is importing or of income, expenses, or other [[c/_circumstances|circumstances]] [[a/_affecting|affecting]] one's taxes.**
-- **To make outstanding [[d/_debts|debts]], [[e/_e|e]].g. taxes, payable.**
-- **To explicitly [[e/_establish|establish]] the existence of (a variable, function, [[e/_etc|etc]].) without necessarily [[d/_describing|describing]] its [[c/_content|content]].**
+- **To [[i/_inform|inform]] [[g/_government|government]] [[c/_customs|customs]] or taxation [[o/_officials|officials]] of [[g/_goods|goods]] [[o/_one|one]] is [[i/_importing|importing]] or of [[i/_income|income]], [[e/_expenses|expenses]], or [[o/_other|other]] [[c/_circumstances|circumstances]] [[a/_affecting|affecting]] [[o/_one|one]]'s taxes.**
+- **To [[m/_make|make]] [[o/_outstanding|outstanding]] [[d/_debts|debts]], [[e/_e|e]].[[g/_g|g]]. taxes, [[p/_payable|payable]].**
+- **To [[e/_explicitly|explicitly]] [[e/_establish|establish]] the [[e/_existence|existence]] of (a variable, [[f/_function|function]], [[e/_etc|etc]].) without [[n/_necessarily|necessarily]] [[d/_describing|describing]] [[i/_its|its]] [[c/_content|content]].**
 	- _Example: The counter "i" was declared as an integer._
 ---
 ### Synonyms
 - [[d/_disclose|disclose]]
 #adjective
-- **Openly [[a/_avowed|avowed]].**
+- **[[o/_openly|Openly]] [[a/_avowed|avowed]].**
 ---
 ---

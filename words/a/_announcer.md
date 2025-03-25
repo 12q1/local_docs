@@ -1,6 +1,6 @@
 # Announcer
 ---
 #noun
-- **One who makes [[a/_announcements|announcements]].**
+- **[[o/_one|One]] who [[m/_makes|makes]] [[a/_announcements|announcements]].**
 ---
 ---

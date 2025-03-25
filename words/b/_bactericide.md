@@ -1,7 +1,7 @@
 # Bactericide
 ---
 #noun
-- **[[a/_any|Any]] substance that kills [[b/_bacteria|bacteria]], [[e/_especially|especially]] one that is otherwise harmless.**
+- **[[a/_any|Any]] substance that [[k/_kills|kills]] [[b/_bacteria|bacteria]], [[e/_especially|especially]] [[o/_one|one]] that is [[o/_otherwise|otherwise]] [[h/_harmless|harmless]].**
 ---
 ### Synonyms
 - [[b/_bacteriocide|bacteriocide]]

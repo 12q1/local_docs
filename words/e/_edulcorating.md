@@ -2,7 +2,7 @@
 ---
 #verb
 - **To sweeten.**
-- **To make more [[a/_acceptable|acceptable]] or palatable.**
-- **To free from [[a/_acidity|acidity]].**
+- **To [[m/_make|make]] [[m/_more|more]] [[a/_acceptable|acceptable]] or [[p/_palatable|palatable]].**
+- **To [[f/_free|free]] from [[a/_acidity|acidity]].**
 ---
 ---

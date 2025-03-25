@@ -1,11 +1,11 @@
 # Crackerjack
 ---
 #noun
-- **An exceptionally fine or excellent thing or person.**
-- **An expert or top-rated individual ([[e/_e|e]].g., a marksman).**
+- **An [[e/_exceptionally|exceptionally]] [[f/_fine|fine]] or [[e/_excellent|excellent]] thing or person.**
+- **An [[e/_expert|expert]] or top-rated [[i/_individual|individual]] ([[e/_e|e]].[[g/_g|g]]., a [[m/_marksman|marksman]]).**
 ---
 #adjective
-- **Exceptionally fine or excellent; top-notch; high quality.**
-- **Expert, top-rated or high-performing.**
+- **[[e/_exceptionally|Exceptionally]] [[f/_fine|fine]] or [[e/_excellent|excellent]]; top-[[n/_notch|notch]]; [[h/_high|high]] quality.**
+- **[[e/_expert|Expert]], top-rated or [[h/_high|high]]-performing.**
 ---
 ---

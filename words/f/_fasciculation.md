@@ -1,0 +1,7 @@
+# Fasciculation
+---
+#noun
+- **([[m/_muscles|muscles]]) (venoms) An [[i/_involuntary|involuntary]] [[m/_muscle|muscle]] twitch, usually [[l/_localised|localised]] and temporary, but that [[m/_may|may]] be [[i/_intensified|intensified]] and prolonged [[f/_fatally|fatally]] by particular poisons and venoms such as [[a/_acetylcholinesterase|acetylcholinesterase]] [[i/_inhibitors|inhibitors]].**
+- **A [[c/_cluster|cluster]] of fascicules**
+---
+---

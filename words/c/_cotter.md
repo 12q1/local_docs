@@ -1,10 +1,10 @@
 # Cotter
 ---
 #noun
-- **A pin or wedge inserted through a slot to hold machine parts together.**
+- **A pin or wedge [[i/_inserted|inserted]] through a slot to [[h/_hold|hold]] [[m/_machine|machine]] parts together.**
 - **A [[c/_cotter|cotter]] pin.**
 ---
 #verb
-- **To fasten with a [[c/_cotter|cotter]].**
+- **To [[f/_fasten|fasten]] with a [[c/_cotter|cotter]].**
 ---
 ---

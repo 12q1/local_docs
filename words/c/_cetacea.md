@@ -1,6 +1,6 @@
 # Cetacea
 ---
 #noun
-- **Whale-like mammals.**
+- **Whale-[[l/_like|like]] [[m/_mammals|mammals]].**
 ---
 ---

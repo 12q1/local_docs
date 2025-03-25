@@ -1,7 +1,7 @@
 # Burgeoned
 ---
 #verb
-- **To grow or expand.**
+- **To [[g/_grow|grow]] or [[e/_expand|expand]].**
 	- _Example: Gradually, the town burgeoned into a thriving city._
 - **To swell to the point of [[b/_bursting|bursting]].**
 - **Of plants, to [[b/_bloom|bloom]], [[b/_bud|bud]].**

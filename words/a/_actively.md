@@ -1,9 +1,9 @@
 # Actively
 ---
 #adverb
-- **In an [[a/_active|active]] manner.**
+- **In an [[a/_active|active]] [[m/_manner|manner]].**
 	- _Example: He was actively listening._
-- **(grammar) In the [[a/_active|active]] form; not passive.**
+- **([[g/_grammar|grammar]]) In the [[a/_active|active]] [[f/_form|form]]; not passive.**
 	- _Example: a word used actively_
 ---
 ### Antonyms

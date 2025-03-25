@@ -1,6 +1,6 @@
 # Coiffeurs
 ---
 #noun
-- **A male hairdresser.**
+- **A [[m/_male|male]] [[h/_hairdresser|hairdresser]].**
 ---
 ---

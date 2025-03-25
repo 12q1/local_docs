@@ -1,7 +1,7 @@
 # Detectable
 ---
 #adjective
-- **That which [[c/_can|can]] be [[d/_detected|detected]], noticeable.**
+- **That which [[c/_can|can]] be [[d/_detected|detected]], [[n/_noticeable|noticeable]].**
 	- _Example: There was a detectable pause before he continued. We all noticed it but no one commented._
 ---
 ### Synonyms

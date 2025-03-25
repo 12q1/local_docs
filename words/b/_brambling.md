@@ -1,7 +1,7 @@
 # Brambling
 ---
 #noun
-- **A finch, Fringilla montifringilla of northern [[e/_eurasia|Eurasia]], the male having a [[b/_black|black]] head in summer and an orange [[b/_breast|breast]] with white [[b/_belly|belly]] and a long white rump.**
+- **A [[f/_finch|finch]], [[f/_fringilla|Fringilla]] montifringilla of [[n/_northern|northern]] [[e/_eurasia|Eurasia]], the [[m/_male|male]] [[h/_having|having]] a [[b/_black|black]] [[h/_head|head]] in summer and an [[o/_orange|orange]] [[b/_breast|breast]] with white [[b/_belly|belly]] and a [[l/_long|long]] white rump.**
 ---
 ### Synonyms
 - 

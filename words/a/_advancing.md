@@ -2,7 +2,7 @@
 ---
 #verb
 - **To promote or [[a/_advantage|advantage]].**
-- **To move forward in space or time.**
+- **To [[m/_move|move]] [[f/_forward|forward]] in space or time.**
 - **To raise, be raised.**
 ---
 ### Synonyms
@@ -10,6 +10,6 @@
 ### Antonyms
 - [[r/_regress|regress]], [[r/_retract|retract]]
 #noun
-- **The [[a/_act|act]] of proceeding forward; an [[a/_advance|advance]].**
+- **The [[a/_act|act]] of proceeding [[f/_forward|forward]]; an [[a/_advance|advance]].**
 ---
 ---

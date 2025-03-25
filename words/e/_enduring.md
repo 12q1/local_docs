@@ -1,15 +1,15 @@
 # Enduring
 ---
 #verb
-- **To [[c/_continue|continue]] or [[c/_carry|carry]] on, [[d/_despite|despite]] obstacles or hardships; to persist.**
+- **To [[c/_continue|continue]] or [[c/_carry|carry]] on, [[d/_despite|despite]] [[o/_obstacles|obstacles]] or [[h/_hardships|hardships]]; to persist.**
 	- _Example: The singer's popularity endured for decades._
 - **To tolerate or put up with something unpleasant.**
-- **To last.**
+- **To [[l/_last|last]].**
 	- _Example: Our love will endure forever._
-- **To remain firm, as under trial or suffering; to suffer patiently or without yielding; to [[b/_bear|bear]] up under [[a/_adversity|adversity]]; to hold out.**
+- **To remain [[f/_firm|firm]], as under trial or suffering; to suffer patiently or without [[y/_yielding|yielding]]; to [[b/_bear|bear]] up under [[a/_adversity|adversity]]; to [[h/_hold|hold]] [[o/_out|out]].**
 - **To suffer patiently.**
 	- _Example: He endured years of pain._
-- **To indurate.**
+- **To [[i/_indurate|indurate]].**
 ---
 ### Synonyms
 - [[p/_persist|persist]], [[r/_resist|resist]], [[s/_survive|survive]], [[w/_withstand|withstand]], [[a/_accept|accept]], [[t/_thole|thole]], [[w/_withstand|withstand]], [[b/_bear|bear]], [[t/_take|take]], [[t/_thole|thole]]
@@ -17,7 +17,7 @@
 - **[[e/_endurance|Endurance]]**
 ---
 #adjective
-- **Long-lasting without significant [[a/_alteration|alteration]]; [[c/_continuing|continuing]] through time in the same relative state.**
+- **[[l/_long|Long]]-[[l/_lasting|lasting]] without significant [[a/_alteration|alteration]]; [[c/_continuing|continuing]] through time in the same relative state.**
 	- _Example: an enduring belief in democracy_
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Berk
 ---
 #noun
-- **(sometimes [[a/_affectionate|affectionate]]) A fool, prat, twit.**
+- **(sometimes [[a/_affectionate|affectionate]]) A [[f/_fool|fool]], prat, twit.**
 - **[[c/_cunt|Cunt]].**
 ---
 ---

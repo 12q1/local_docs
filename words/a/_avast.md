@@ -1,8 +1,8 @@
 # Avast
 ---
 #interjection
-- **Hold fast!; [[d/_desist|desist]]!; stay!.**
-- **(in imitation of pirates) listen!; pay [[a/_attention|attention]]!**
+- **[[h/_hold|Hold]] [[f/_fast|fast]]!; [[d/_desist|desist]]!; stay!.**
+- **(in [[i/_imitation|imitation]] of pirates) [[l/_listen|listen]]!; [[p/_pay|pay]] [[a/_attention|attention]]!**
 	- _Example: Avast, ye landlubbers!_
 ---
 ---

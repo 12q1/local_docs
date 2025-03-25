@@ -1,6 +1,6 @@
 # Bliss
 ---
 #noun
-- **Perfect happiness**
+- **Perfect [[h/_happiness|happiness]]**
 ---
 ---

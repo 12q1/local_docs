@@ -1,6 +1,6 @@
 # Accidie
 ---
 #noun
-- **Sloth, slothfulness, [[e/_especially|especially]] as inducing general listlessness and [[a/_apathy|apathy]].**
+- **Sloth, slothfulness, [[e/_especially|especially]] as [[i/_inducing|inducing]] [[g/_general|general]] [[l/_listlessness|listlessness]] and [[a/_apathy|apathy]].**
 ---
 ---

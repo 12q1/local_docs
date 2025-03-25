@@ -1,6 +1,6 @@
 # Devoir
 ---
 #noun
-- **(often in plural) [[d/_duty|Duty]], [[b/_business|business]]; something that one must [[d/_do|do]].**
+- **([[o/_often|often]] in plural) [[d/_duty|Duty]], [[b/_business|business]]; something that [[o/_one|one]] [[m/_must|must]] [[d/_do|do]].**
 ---
 ---

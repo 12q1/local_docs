@@ -1,33 +1,33 @@
 # Butts
 ---
 #noun
-- **The larger or thicker [[e/_end|end]] of something; the [[b/_blunt|blunt]] [[e/_end|end]], in [[d/_distinction|distinction]] from the sharp or narrow [[e/_end|end]]**
+- **The [[l/_larger|larger]] or thicker [[e/_end|end]] of something; the [[b/_blunt|blunt]] [[e/_end|end]], in [[d/_distinction|distinction]] from the sharp or [[n/_narrow|narrow]] [[e/_end|end]]**
 - **The waste [[e/_end|end]] of [[a/_anything|anything]]**
-- **(generally) An [[e/_end|end]] of something, often [[d/_distinguished|distinguished]] in some way from the other [[e/_end|end]].**
-- **A limit; a [[b/_bound|bound]]; a goal; the extreme [[b/_bound|bound]]; the [[e/_end|end]].**
+- **([[g/_generally|generally]]) An [[e/_end|end]] of something, [[o/_often|often]] [[d/_distinguished|distinguished]] in some way from the [[o/_other|other]] [[e/_end|end]].**
+- **A [[l/_limit|limit]]; a [[b/_bound|bound]]; a [[g/_goal|goal]]; the [[e/_extreme|extreme]] [[b/_bound|bound]]; the [[e/_end|end]].**
 ---
 #verb
-- **To join at the [[b/_butt|butt]], [[e/_end|end]], or outward extremity; to terminate; to be [[b/_bounded|bounded]]; to [[a/_abut|abut]].**
+- **To [[j/_join|join]] at the [[b/_butt|butt]], [[e/_end|end]], or [[o/_outward|outward]] [[e/_extremity|extremity]]; to terminate; to be [[b/_bounded|bounded]]; to [[a/_abut|abut]].**
 ---
 #noun
-- **A push, thrust, or sudden [[b/_blow|blow]], given by the head; a head [[b/_butt|butt]].**
+- **A push, thrust, or sudden [[b/_blow|blow]], [[g/_given|given]] by the [[h/_head|head]]; a [[h/_head|head]] [[b/_butt|butt]].**
 	- _Example: Be careful in the pen, that ram can knock you down with a butt._
-- **A thrust in fencing.**
+- **A thrust in [[f/_fencing|fencing]].**
 ---
 #verb
-- **To strike [[b/_bluntly|bluntly]], particularly with the head.**
-- **To strike [[b/_bluntly|bluntly]] with the head.**
+- **To strike [[b/_bluntly|bluntly]], particularly with the [[h/_head|head]].**
+- **To strike [[b/_bluntly|bluntly]] with the [[h/_head|head]].**
 	- _Example: Rams butt at other males during mating season._
 ---
 #noun
-- **([[e/_english|English]] units) An [[e/_english|English]] measure of [[c/_capacity|capacity]] for liquids, [[c/_containing|containing]] 126 wine gallons which is one-half tun; [[e/_equivalent|equivalent]] to the pipe.**
-- **A wooden [[c/_cask|cask]] for storing wine, usually [[c/_containing|containing]] 126 gallons.**
+- **([[e/_english|English]] units) An [[e/_english|English]] [[m/_measure|measure]] of [[c/_capacity|capacity]] for [[l/_liquids|liquids]], [[c/_containing|containing]] 126 wine [[g/_gallons|gallons]] which is [[o/_one|one]]-[[h/_half|half]] tun; [[e/_equivalent|equivalent]] to the pipe.**
+- **A wooden [[c/_cask|cask]] for storing wine, usually [[c/_containing|containing]] 126 [[g/_gallons|gallons]].**
 ---
 #noun
-- **[[a/_any|Any]] of various flatfish such as sole, plaice or turbot**
+- **[[a/_any|Any]] of various [[f/_flatfish|flatfish]] such as sole, plaice or turbot**
 ---
 #noun
-- **A heavy two-wheeled [[c/_cart|cart]].**
+- **A [[h/_heavy|heavy]] two-wheeled [[c/_cart|cart]].**
 - **A three-wheeled [[c/_cart|cart]] resembling a wheelbarrow.**
 ---
 ---

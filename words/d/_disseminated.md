@@ -1,7 +1,7 @@
 # Disseminated
 ---
 #verb
-- **To sow and scatter principles, ideas, opinions, [[e/_etc|etc]], or [[c/_concrete|concrete]] things, for growth and propagation, like seeds.**
+- **To sow and scatter principles, [[i/_ideas|ideas]], [[o/_opinions|opinions]], [[e/_etc|etc]], or [[c/_concrete|concrete]] things, for [[g/_growth|growth]] and propagation, [[l/_like|like]] seeds.**
 - **To [[b/_become|become]] widespread.**
 	- _Example: The values of the human rights movement have disseminated throughout the world._
 ---
@@ -9,6 +9,6 @@
 - [[c/_circulate|circulate]], [[p/_propagate|propagate]], [[s/_spread|spread]]
 #adjective
 - **Spread [[a/_around|around]]; widespread**
-- **Spread over a wide [[a/_area|area]] of the [[b/_body|body]] or of an organ**
+- **Spread [[o/_over|over]] a wide [[a/_area|area]] of the [[b/_body|body]] or of an [[o/_organ|organ]]**
 ---
 ---

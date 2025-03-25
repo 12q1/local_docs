@@ -1,6 +1,6 @@
 # Codger
 ---
 #noun
-- **An [[a/_amusingly|amusingly]] [[e/_eccentric|eccentric]] or grumpy and usually [[e/_elderly|elderly]] man.**
+- **An [[a/_amusingly|amusingly]] [[e/_eccentric|eccentric]] or [[g/_grumpy|grumpy]] and usually [[e/_elderly|elderly]] [[m/_man|man]].**
 ---
 ---

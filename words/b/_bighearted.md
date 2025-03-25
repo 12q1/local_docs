@@ -1,6 +1,6 @@
 # Bighearted
 ---
 #adjective
-- **Noble, kind and generous**
+- **[[n/_noble|Noble]], [[k/_kind|kind]] and [[g/_generous|generous]]**
 ---
 ---

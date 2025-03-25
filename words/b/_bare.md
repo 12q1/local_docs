@@ -3,26 +3,26 @@
 #noun
 - **(‘the [[b/_bare|bare]]’) The surface, the ([[b/_bare|bare]]) skin.**
 - **Surface; [[b/_body|body]]; substance.**
-- **That part of a roofing slate, shingle, tile, or metal plate, which is exposed to the weather.**
+- **That part of a roofing slate, shingle, tile, or [[m/_metal|metal]] plate, which is [[e/_exposed|exposed]] to the weather.**
 ---
 #adjective
-- **Minimal; that is or are just sufficient.**
+- **[[m/_minimal|Minimal]]; that is or are [[j/_just|just]] sufficient.**
 	- _Example: a bare majority_
-- **Naked, uncovered.**
+- **[[n/_naked|Naked]], uncovered.**
 	- _Example: I do wonder why keeping my little breasts bare can be lewd even as none tells my brother anything for being bare-chested._
-- **Having no supplies.**
+- **[[h/_having|Having]] [[n/_no|no]] supplies.**
 	- _Example: The cupboard was bare._
-- **Having no [[d/_decoration|decoration]].**
+- **[[h/_having|Having]] [[n/_no|no]] [[d/_decoration|decoration]].**
 	- _Example: The walls of this room are bare — why not hang some paintings on them?_
-- **Having had what usually [[c/_covers|covers]] (something) removed.**
+- **[[h/_having|Having]] [[h/_had|had]] what usually [[c/_covers|covers]] (something) removed.**
 	- _Example: The trees were left bare after the swarm of locusts devoured all the leaves._
-- **(Toronto) A lot or lots of.**
+- **(Toronto) A [[l/_lot|lot]] or [[l/_lots|lots]] of.**
 	- _Example: It's bare money to get in the club each time, man._
-- **With head uncovered; [[b/_bareheaded|bareheaded]].**
-- **Without [[a/_anything|anything]] to [[c/_cover|cover]] up or [[c/_conceal|conceal]] one's thoughts or [[a/_actions|actions]]; open to view; exposed.**
-- **Mere; without [[e/_embellishment|embellishment]].**
+- **With [[h/_head|head]] uncovered; [[b/_bareheaded|bareheaded]].**
+- **Without [[a/_anything|anything]] to [[c/_cover|cover]] up or [[c/_conceal|conceal]] [[o/_one|one]]'s thoughts or [[a/_actions|actions]]; [[o/_open|open]] to view; [[e/_exposed|exposed]].**
+- **[[m/_mere|Mere]]; without [[e/_embellishment|embellishment]].**
 - **Threadbare, very worn.**
-- **Not insured.**
+- **Not [[i/_insured|insured]].**
 ---
 ### Synonyms
 - [[e/_empty|empty]], [[p/_plain|plain]], [[u/_unadorned|unadorned]], [[u/_undecorated|undecorated]], [[e/_empty|empty]], [[u/_unfurnished|unfurnished]], [[u/_unstocked|unstocked]], [[u/_unsupplied|unsupplied]], [[m/_mere|mere]], [[m/_minimal|minimal]], [[e/_exposed|exposed]], [[n/_naked|naked]], [[n/_nude|nude]], [[u/_uncovered|uncovered]], [[u/_undressed|undressed]], [[d/_despoiled|despoiled]], [[s/_stripped|stripped]], [[u/_uncovered|uncovered]]

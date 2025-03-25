@@ -1,26 +1,26 @@
 # Bingo
 ---
 #noun
-- **A game of [[c/_chance|chance]] for two or more players, who mark off numbers on a grid as they are [[a/_announced|announced]] by the [[c/_caller|caller]]; the game is won by the first person to [[c/_call|call]] out "[[b/_bingo|bingo]]!" or "house!" [[a/_after|after]] [[c/_crossing|crossing]] off [[a/_all|all]] numbers on the grid or in one line of the grid.**
-- **A win in such a game.**
+- **A [[g/_game|game]] of [[c/_chance|chance]] for two or [[m/_more|more]] players, who [[m/_mark|mark]] [[o/_off|off]] [[n/_numbers|numbers]] on a [[g/_grid|grid]] as they are [[a/_announced|announced]] by the [[c/_caller|caller]]; the [[g/_game|game]] is won by the [[f/_first|first]] person to [[c/_call|call]] [[o/_out|out]] "[[b/_bingo|bingo]]!" or "[[h/_house|house]]!" [[a/_after|after]] [[c/_crossing|crossing]] [[o/_off|off]] [[a/_all|all]] [[n/_numbers|numbers]] on the [[g/_grid|grid]] or in [[o/_one|one]] [[l/_line|line]] of the [[g/_grid|grid]].**
+- **A win in such a [[g/_game|game]].**
 	- _Example: There were two bingos in the last game, so the players split the prize money._
-- **(Scrabble) A play where [[a/_all|all]] seven of a player's letter tiles are played.**
+- **(Scrabble) A play where [[a/_all|all]] seven of a player's [[l/_letter|letter]] tiles are played.**
 ---
 ### Synonyms
 - [[h/_housey-housey|housey-housey]], [[l/_lotto|lotto]]
 #verb
-- **To play the game of [[b/_bingo|bingo]].**
-- **To give the winning [[c/_cry|cry]] of "[[b/_bingo|bingo]]!" in a game.**
-- **To play [[a/_all|all]] of one's seven tiles in one move in the game of Scrabble, [[e/_earning|earning]] a score [[b/_bonus|bonus]].**
+- **To play the [[g/_game|game]] of [[b/_bingo|bingo]].**
+- **To [[g/_give|give]] the winning [[c/_cry|cry]] of "[[b/_bingo|bingo]]!" in a [[g/_game|game]].**
+- **To play [[a/_all|all]] of [[o/_one|one]]'s seven tiles in [[o/_one|one]] [[m/_move|move]] in the [[g/_game|game]] of Scrabble, [[e/_earning|earning]] a score [[b/_bonus|bonus]].**
 - **To return to [[b/_base|base]].**
 ---
 #adjective
-- **Just sufficient to return to [[b/_base|base]] (or, [[a/_alternatively|alternatively]], to [[d/_divert|divert]] to an [[a/_alternative|alternative]] [[a/_airfield|airfield]]). ([[a/_also|also]] written [[b/_bingo|Bingo]] or [[b/_bingo|BINGO]])**
+- **[[j/_just|Just]] sufficient to return to [[b/_base|base]] (or, [[a/_alternatively|alternatively]], to [[d/_divert|divert]] to an [[a/_alternative|alternative]] [[a/_airfield|airfield]]). ([[a/_also|also]] written [[b/_bingo|Bingo]] or [[b/_bingo|BINGO]])**
 ---
 #interjection
 - **Used by players of [[b/_bingo|bingo]] to [[c/_claim|claim]] a win.**
-- **Used when finding what one has [[b/_been|been]] looking for or trying to recall, or on successful [[c/_completion|completion]] of a task.**
-- **Used to [[d/_declare|declare]] "You've just made my point!" or "My point exactly!"**
+- **Used when [[f/_finding|finding]] what [[o/_one|one]] [[h/_has|has]] [[b/_been|been]] [[l/_looking|looking]] for or trying to recall, or on successful [[c/_completion|completion]] of a task.**
+- **Used to [[d/_declare|declare]] "[[y/_you|You]]'ve [[j/_just|just]] [[m/_made|made]] [[m/_my|my]] point!" or "[[m/_my|My]] point [[e/_exactly|exactly]]!"**
 ---
 ### Synonyms
 - [[h/_house|house]], [[a/_aha|aha]], [[e/_eureka|eureka]], [[y/_yes|yes]]

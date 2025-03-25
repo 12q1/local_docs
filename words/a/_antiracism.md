@@ -1,7 +1,7 @@
 # Antiracism
 ---
 #noun
-- **Opposition to racism**
+- **[[o/_opposition|Opposition]] to racism**
 ---
 #adjective
 - **[[a/_acting|Acting]] to [[c/_combat|combat]] or prevent racism**

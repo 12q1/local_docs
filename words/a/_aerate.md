@@ -1,6 +1,6 @@
 # Aerate
 ---
 #verb
-- **To supply with oxygen or [[a/_air|air]].**
+- **To supply with [[o/_oxygen|oxygen]] or [[a/_air|air]].**
 ---
 ---

@@ -4,6 +4,6 @@
 - **A [[d/_dolichocephalic|dolichocephalic]] person.**
 ---
 #adjective
-- **(of a person or [[a/_animal|animal]]) Having a head that is long from front to [[b/_back|back]] (relative to its width from left to right).**
+- **(of a person or [[a/_animal|animal]]) [[h/_having|Having]] a [[h/_head|head]] that is [[l/_long|long]] from [[f/_front|front]] to [[b/_back|back]] (relative to [[i/_its|its]] width from [[l/_left|left]] to right).**
 ---
 ---

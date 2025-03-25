@@ -1,9 +1,9 @@
 # Esurient
 ---
 #noun
-- **One who is greedy or hungry.**
+- **[[o/_one|One]] who is [[g/_greedy|greedy]] or [[h/_hungry|hungry]].**
 ---
 #adjective
-- **Very greedy or hungry; ravenous; [[a/_avid|avid]], [[e/_eager|eager]].**
+- **Very [[g/_greedy|greedy]] or [[h/_hungry|hungry]]; ravenous; [[a/_avid|avid]], [[e/_eager|eager]].**
 ---
 ---

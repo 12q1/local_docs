@@ -1,8 +1,8 @@
 # Displeasures
 ---
 #noun
-- **A feeling of [[b/_being|being]] [[d/_displeased|displeased]] with something or someone; [[d/_dissatisfaction|dissatisfaction]]; [[d/_disapproval|disapproval]].**
-- **That which [[d/_displeases|displeases]]; [[c/_cause|cause]] of irritation or [[a/_annoyance|annoyance]]; offence; injury.**
+- **A [[f/_feeling|feeling]] of [[b/_being|being]] [[d/_displeased|displeased]] with something or someone; [[d/_dissatisfaction|dissatisfaction]]; [[d/_disapproval|disapproval]].**
+- **That which [[d/_displeases|displeases]]; [[c/_cause|cause]] of [[i/_irritation|irritation]] or [[a/_annoyance|annoyance]]; [[o/_offence|offence]]; [[i/_injury|injury]].**
 - **A state of [[d/_disgrace|disgrace]] or [[d/_disfavour|disfavour]].**
 ---
 ### Synonyms

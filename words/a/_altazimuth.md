@@ -1,6 +1,6 @@
 # Altazimuth
 ---
 #noun
-- **A telescope or surveying instrument that has a mount permitting [[b/_both|both]] horizontal and vertical rotation**
+- **A telescope or surveying [[i/_instrument|instrument]] that [[h/_has|has]] a [[m/_mount|mount]] permitting [[b/_both|both]] [[h/_horizontal|horizontal]] and vertical rotation**
 ---
 ---

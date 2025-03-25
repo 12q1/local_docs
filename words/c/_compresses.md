@@ -1,15 +1,15 @@
 # Compresses
 ---
 #verb
-- **To make smaller; to press or squeeze together, or to make something occupy a smaller space or volume.**
+- **To [[m/_make|make]] smaller; to press or squeeze together, or to [[m/_make|make]] something [[o/_occupy|occupy]] a smaller space or volume.**
 	- _Example: The force required to compress a spring varies linearly with the displacement._
-- **To be pressed together or folded by [[c/_compression|compression]] into a more [[e/_economic|economic]], [[e/_easier|easier]] format.**
+- **To be pressed together or [[f/_folded|folded]] by [[c/_compression|compression]] [[i/_into|into]] a [[m/_more|more]] [[e/_economic|economic]], [[e/_easier|easier]] [[f/_format|format]].**
 	- _Example: Our new model compresses easily, ideal for storage and travel_
-- **To [[c/_condense|condense]] into a more [[e/_economic|economic]], [[e/_easier|easier]] format.**
+- **To [[c/_condense|condense]] [[i/_into|into]] a [[m/_more|more]] [[e/_economic|economic]], [[e/_easier|easier]] [[f/_format|format]].**
 	- _Example: This chart compresses the entire audit report into a few lines on a single diagram._
 - **To [[a/_abridge|abridge]].**
 	- _Example: If you try to compress the entire book into a three-sentence summary, you will lose a lot of information._
-- **To make [[d/_digital|digital]] information smaller by [[e/_encoding|encoding]] it using fewer [[b/_bits|bits]].**
+- **To [[m/_make|make]] [[d/_digital|digital]] [[i/_information|information]] smaller by [[e/_encoding|encoding]] it using [[f/_fewer|fewer]] [[b/_bits|bits]].**
 - **To [[e/_embrace|embrace]] sexually.**
 ---
 ### Synonyms
@@ -17,8 +17,8 @@
 ### Antonyms
 - [[d/_decontract|decontract]], [[e/_expand|expand]], [[e/_expand|expand]], [[l/_lengthen|lengthen]], [[u/_uncompress|uncompress]]
 #noun
-- **A multiply folded piece of [[c/_cloth|cloth]], a pouch of ice [[e/_etc|etc]]., used to [[a/_apply|apply]] to a patient's skin, [[c/_cover|cover]] the [[d/_dressing|dressing]] of wounds, and placed with the [[a/_aid|aid]] of a [[b/_bandage|bandage]] to [[a/_apply|apply]] pressure on an injury.**
+- **A [[m/_multiply|multiply]] [[f/_folded|folded]] piece of [[c/_cloth|cloth]], a pouch of [[i/_ice|ice]] [[e/_etc|etc]]., used to [[a/_apply|apply]] to a patient's skin, [[c/_cover|cover]] the [[d/_dressing|dressing]] of wounds, and placed with the [[a/_aid|aid]] of a [[b/_bandage|bandage]] to [[a/_apply|apply]] pressure on an [[i/_injury|injury]].**
 	- _Example: He held a cold compress over the sprain._
-- **A machine for [[c/_compressing|compressing]]**
+- **A [[m/_machine|machine]] for [[c/_compressing|compressing]]**
 ---
 ---

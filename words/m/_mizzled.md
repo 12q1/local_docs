@@ -1,0 +1,13 @@
+# Mizzled
+---
+#verb
+- **To rain in very [[f/_fine|fine]] [[d/_drops|drops]].**
+---
+### Synonyms
+- [[d/_drizzle|drizzle]]
+#verb
+- **To [[a/_abscond|abscond]], scram, [[f/_flee|flee]].**
+- **To [[y/_yield|yield]].**
+- **To [[m/_muddle|muddle]] or [[c/_confuse|confuse]]. (Probably from a [[m/_misreading|misreading]] of past tense/participle [[m/_misled|misled]].)**
+---
+---

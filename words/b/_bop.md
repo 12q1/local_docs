@@ -1,10 +1,10 @@
 # Bop
 ---
 #noun
-- **A very light smack, [[b/_blow|blow]] or punch.**
+- **A very [[l/_light|light]] smack, [[b/_blow|blow]] or punch.**
 ---
 #verb
-- **To strike gently or playfully.**
+- **To strike [[g/_gently|gently]] or playfully.**
 ---
 ### Synonyms
 - [[b/_bip|bip]], [[b/_boop|boop]]

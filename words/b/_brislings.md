@@ -1,6 +1,6 @@
 # Brislings
 ---
 #noun
-- **A sprat (small herring)**
+- **A sprat (small [[h/_herring|herring]])**
 ---
 ---

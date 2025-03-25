@@ -3,10 +3,10 @@
 #verb
 - **To throw [[e/_eggs|eggs]] at.**
 - **To [[d/_dip|dip]] in or [[c/_coat|coat]] with [[b/_beaten|beaten]] [[e/_egg|egg]].**
-- **To [[d/_distort|distort]] a [[c/_circular|circular]] [[c/_cross|cross]]-section (as in a tube) to an [[e/_elliptical|elliptical]] or oval shape, [[e/_either|either]] inadvertently or intentionally.**
+- **To [[d/_distort|distort]] a [[c/_circular|circular]] [[c/_cross|cross]]-section (as in a tube) to an [[e/_elliptical|elliptical]] or [[o/_oval|oval]] shape, [[e/_either|either]] [[i/_inadvertently|inadvertently]] or [[i/_intentionally|intentionally]].**
 	- _Example: After I cut the tubing, I found that I had slightly egged it in the vise._
 ---
 #verb
-- **To [[e/_encourage|encourage]], incite.**
+- **To [[e/_encourage|encourage]], [[i/_incite|incite]].**
 ---
 ---

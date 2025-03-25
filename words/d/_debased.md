@@ -1,14 +1,14 @@
 # Debased
 ---
 #verb
-- **To lower in [[c/_character|character]], quality, or value; to [[d/_degrade|degrade]].**
-- **To lower in position or rank.**
-- **To lower the value of (a [[c/_currency|currency]]) by reducing the [[a/_amount|amount]] of valuable metal in the [[c/_coins|coins]].**
+- **To [[l/_lower|lower]] in [[c/_character|character]], quality, or value; to [[d/_degrade|degrade]].**
+- **To [[l/_lower|lower]] in position or rank.**
+- **To [[l/_lower|lower]] the value of (a [[c/_currency|currency]]) by reducing the [[a/_amount|amount]] of valuable [[m/_metal|metal]] in the [[c/_coins|coins]].**
 ---
 ### Synonyms
 - [[a/_abase|abase]], [[a/_adulterate|adulterate]], [[d/_degrade|degrade]], [[d/_demean|demean]]
 #adjective
-- **[[b/_brought|Brought]] low; [[d/_degraded|degraded]].**
+- **[[b/_brought|Brought]] [[l/_low|low]]; [[d/_degraded|degraded]].**
 - **Reversed.**
 ---
 ---

@@ -5,6 +5,6 @@
 - **To use a [[d/_douche|douche]].**
 ---
 #noun
-- **A washing or irrigation with a [[d/_douche|douche]].**
+- **A washing or [[i/_irrigation|irrigation]] with a [[d/_douche|douche]].**
 ---
 ---

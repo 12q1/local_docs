@@ -1,6 +1,6 @@
 # Bellybutton
 ---
 #noun
-- **The navel or umbilicus.**
+- **The [[n/_navel|navel]] or umbilicus.**
 ---
 ---

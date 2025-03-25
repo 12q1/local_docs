@@ -1,7 +1,7 @@
 # Eyestalks
 ---
 #noun
-- **A motile stalk having an [[e/_eye|eye]] at the tip.**
+- **A [[m/_motile|motile]] stalk [[h/_having|having]] an [[e/_eye|eye]] at the tip.**
 ---
 ### Synonyms
 - [[o/_ommatophore|ommatophore]]

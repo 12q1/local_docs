@@ -1,6 +1,6 @@
 # Drupe
 ---
 #noun
-- **A stone fruit.**
+- **A stone [[f/_fruit|fruit]].**
 ---
 ---

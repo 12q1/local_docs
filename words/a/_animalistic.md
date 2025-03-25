@@ -1,6 +1,6 @@
 # Animalistic
 ---
 #adjective
-- **In the manner of an [[a/_animal|animal]]; savage; untamed.**
+- **In the [[m/_manner|manner]] of an [[a/_animal|animal]]; savage; untamed.**
 ---
 ---

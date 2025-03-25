@@ -1,6 +1,6 @@
 # Bosey
 ---
 #noun
-- **A googly.**
+- **A [[g/_googly|googly]].**
 ---
 ---

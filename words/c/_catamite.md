@@ -1,7 +1,7 @@
 # Catamite
 ---
 #noun
-- **A [[b/_boy|boy]] or younger man in a homoerotic relationship with an older man.**
+- **A [[b/_boy|boy]] or [[y/_younger|younger]] [[m/_man|man]] in a [[h/_homoerotic|homoerotic]] relationship with an [[o/_older|older]] [[m/_man|man]].**
 ---
 ### Synonyms
 - [[g/_gunsel|gunsel]], [[p/_punk|punk]]

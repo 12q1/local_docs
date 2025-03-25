@@ -1,6 +1,6 @@
 # Bushido
 ---
 #noun
-- **An [[e/_ethical|ethical]] [[c/_code|code]] of the samurai that was prevalent in feudal Japan that [[a/_advocated|advocated]] unquestioning loyalty to the master at [[a/_all|all]] [[c/_costs|costs]] and obedience in [[a/_all|all]] [[d/_deeds|deeds]], valuing honor [[a/_above|above]] life.**
+- **An [[e/_ethical|ethical]] [[c/_code|code]] of the samurai that was prevalent in [[f/_feudal|feudal]] [[j/_japan|Japan]] that [[a/_advocated|advocated]] unquestioning [[l/_loyalty|loyalty]] to the [[m/_master|master]] at [[a/_all|all]] [[c/_costs|costs]] and [[o/_obedience|obedience]] in [[a/_all|all]] [[d/_deeds|deeds]], valuing [[h/_honor|honor]] [[a/_above|above]] [[l/_life|life]].**
 ---
 ---

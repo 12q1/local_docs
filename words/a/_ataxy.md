@@ -2,6 +2,6 @@
 ---
 #noun
 - **[[a/_ataxia|Ataxia]]**
-- **[[d/_disorder|Disorder]]; irregularity**
+- **[[d/_disorder|Disorder]]; [[i/_irregularity|irregularity]]**
 ---
 ---

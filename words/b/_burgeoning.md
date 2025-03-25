@@ -1,7 +1,7 @@
 # Burgeoning
 ---
 #verb
-- **To grow or expand.**
+- **To [[g/_grow|grow]] or [[e/_expand|expand]].**
 	- _Example: Gradually, the town burgeoned into a thriving city._
 - **To swell to the point of [[b/_bursting|bursting]].**
 - **Of plants, to [[b/_bloom|bloom]], [[b/_bud|bud]].**
@@ -11,9 +11,9 @@
 #noun
 - **The [[a/_act|act]] of [[b/_budding|budding]] or sprouting.**
 - **A [[b/_bud|bud]] or [[b/_branch|branch]].**
-- **(by extension) A new growth or expansion of something.**
+- **(by [[e/_extension|extension]]) A [[n/_new|new]] [[g/_growth|growth]] or [[e/_expansion|expansion]] of something.**
 ---
 #adjective
-- **That [[b/_buds|buds]], grows or expands; [[d/_developing|developing]].**
+- **That [[b/_buds|buds]], [[g/_grows|grows]] or [[e/_expands|expands]]; [[d/_developing|developing]].**
 ---
 ---

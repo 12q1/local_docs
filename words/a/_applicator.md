@@ -1,7 +1,7 @@
 # Applicator
 ---
 #noun
-- **A tool or [[d/_device|device]] used to [[a/_apply|apply]] a fluid or semi-fluid substance to a surface.**
-- **A tubular [[d/_device|device]] to insert a tampon into the vagina.**
+- **A tool or [[d/_device|device]] used to [[a/_apply|apply]] a [[f/_fluid|fluid]] or semi-[[f/_fluid|fluid]] substance to a surface.**
+- **A tubular [[d/_device|device]] to [[i/_insert|insert]] a tampon [[i/_into|into]] the vagina.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Dehiscence
 ---
 #noun
-- **Opening of an organ by its own means (such as an [[a/_anther|anther]] or a seed pod) to release its [[c/_contents|contents]].**
-- **A rupture, as with a surgical wound opening up, often with a flow of serous fluid.**
-- **Opening, gaping, in a general sense.**
+- **[[o/_opening|Opening]] of an [[o/_organ|organ]] by [[i/_its|its]] [[o/_own|own]] [[m/_means|means]] (such as an [[a/_anther|anther]] or a seed pod) to release [[i/_its|its]] [[c/_contents|contents]].**
+- **A rupture, as with a surgical wound [[o/_opening|opening]] up, [[o/_often|often]] with a [[f/_flow|flow]] of serous [[f/_fluid|fluid]].**
+- **[[o/_opening|Opening]], [[g/_gaping|gaping]], in a [[g/_general|general]] sense.**
 ---
 ---

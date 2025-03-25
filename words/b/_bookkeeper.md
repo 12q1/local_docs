@@ -1,7 +1,7 @@
 # Bookkeeper
 ---
 #noun
-- **A person responsible for keeping records or [[d/_documents|documents]], such as of a [[b/_business|business]].**
+- **A person responsible for [[k/_keeping|keeping]] records or [[d/_documents|documents]], such as of a [[b/_business|business]].**
 - **A [[b/_bookseller|bookseller]]**
 ---
 ### Synonyms

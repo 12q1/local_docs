@@ -1,7 +1,7 @@
 # Demonologies
 ---
 #noun
-- **The study of [[d/_demons|demons]], [[e/_especially|especially]] the incantations required to summon and [[c/_control|control]] them.**
+- **The study of [[d/_demons|demons]], [[e/_especially|especially]] the [[i/_incantations|incantations]] required to summon and [[c/_control|control]] them.**
 ---
 ### Synonyms
 - [[d/_demonlore|demonlore]]

@@ -1,8 +1,8 @@
 # Bayonet
 ---
 #noun
-- **A pointed instrument of the [[d/_dagger|dagger]] kind fitted on the muzzle of a musket or rifle, so as to give the soldier increased means of offence and [[d/_defence|defence]]. Originally, the [[b/_bayonet|bayonet]] was made with a handle, which needed to be fitted into the [[b/_bore|bore]] of the musket [[a/_after|after]] the soldier had fired.**
-- **A pin which plays in and out of holes made to receive it, and which thus serves to [[e/_engage|engage]] or [[d/_disengage|disengage]] parts of the machinery.**
+- **A pointed [[i/_instrument|instrument]] of the [[d/_dagger|dagger]] [[k/_kind|kind]] [[f/_fitted|fitted]] on the [[m/_muzzle|muzzle]] of a [[m/_musket|musket]] or rifle, so as to [[g/_give|give]] the soldier [[i/_increased|increased]] [[m/_means|means]] of [[o/_offence|offence]] and [[d/_defence|defence]]. [[o/_originally|Originally]], the [[b/_bayonet|bayonet]] was [[m/_made|made]] with a [[h/_handle|handle]], which [[n/_needed|needed]] to be [[f/_fitted|fitted]] [[i/_into|into]] the [[b/_bore|bore]] of the [[m/_musket|musket]] [[a/_after|after]] the soldier [[h/_had|had]] [[f/_fired|fired]].**
+- **A pin which plays in and [[o/_out|out]] of [[h/_holes|holes]] [[m/_made|made]] to receive it, and which thus serves to [[e/_engage|engage]] or [[d/_disengage|disengage]] parts of the [[m/_machinery|machinery]].**
 ---
 #verb
 - **To stab with a [[b/_bayonet|bayonet]].**

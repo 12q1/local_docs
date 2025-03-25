@@ -1,8 +1,8 @@
 # Corroborees
 ---
 #noun
-- **A nocturnal [[d/_dance|dance]] held by [[a/_australian|Australian]] [[a/_aborigines|Aborigines]], for social, [[c/_celebratory|celebratory]] or warlike purposes.**
-- **A song or [[c/_chant|chant]] made for such a festivity.**
-- **[[a/_any|Any]] noisy, late-night gathering or [[d/_disturbance|disturbance]].**
+- **A [[n/_nocturnal|nocturnal]] [[d/_dance|dance]] [[h/_held|held]] by [[a/_australian|Australian]] [[a/_aborigines|Aborigines]], for social, [[c/_celebratory|celebratory]] or warlike purposes.**
+- **A song or [[c/_chant|chant]] [[m/_made|made]] for such a [[f/_festivity|festivity]].**
+- **[[a/_any|Any]] [[n/_noisy|noisy]], [[l/_late|late]]-[[n/_night|night]] [[g/_gathering|gathering]] or [[d/_disturbance|disturbance]].**
 ---
 ---

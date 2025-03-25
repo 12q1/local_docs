@@ -1,0 +1,17 @@
+# Licences
+---
+#noun
+- **A [[l/_legal|legal]] [[d/_document|document]] [[g/_giving|giving]] [[o/_official|official]] permission to [[d/_do|do]] something; a permit.**
+- **The [[l/_legal|legal]] terms under which a person is [[a/_allowed|allowed]] to use a product, [[e/_especially|especially]] software.**
+- **[[f/_freedom|Freedom]] to [[d/_deviate|deviate]] [[d/_deliberately|deliberately]] from [[n/_normally|normally]] [[a/_applicable|applicable]] rules or practices ([[e/_especially|especially]] in [[b/_behaviour|behaviour]] or speech).**
+- **[[e/_excessive|Excessive]] [[f/_freedom|freedom]]; [[l/_lack|lack]] of [[d/_due|due]] restraint.**
+- **Short for [[d/_driver|driver]]'s [[l/_license|license]].**
+	- _Example: In order to enter the building, I need to show my license._
+---
+#verb
+- **To [[g/_give|give]] a [[f/_formal|formal]] (usually written) [[a/_authorization|authorization]].**
+	- _Example: It was decided to license Wikipedia under the GFDL._
+- **[[a/_authorize|Authorize]] [[o/_officially|officially]].**
+	- _Example: I am licensed to practice law in this state._
+---
+---

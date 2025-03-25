@@ -1,6 +1,6 @@
 # Avgas
 ---
 #noun
-- **Gasoline fuel for piston-[[e/_engined|engined]] [[a/_aircraft|aircraft]].**
+- **[[g/_gasoline|Gasoline]] [[f/_fuel|fuel]] for piston-[[e/_engined|engined]] [[a/_aircraft|aircraft]].**
 ---
 ---

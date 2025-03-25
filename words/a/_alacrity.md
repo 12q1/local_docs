@@ -1,7 +1,7 @@
 # Alacrity
 ---
 #noun
-- **[[e/_eagerness|Eagerness]]; liveliness; [[e/_enthusiasm|enthusiasm]].**
+- **[[e/_eagerness|Eagerness]]; [[l/_liveliness|liveliness]]; [[e/_enthusiasm|enthusiasm]].**
 - **Promptness; speed.**
 ---
 ### Synonyms

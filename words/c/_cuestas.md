@@ -1,6 +1,6 @@
 # Cuestas
 ---
 #noun
-- **A hill or ridge with a gentle slope on one side, and a steep slope on the other.**
+- **A [[h/_hill|hill]] or ridge with a [[g/_gentle|gentle]] slope on [[o/_one|one]] side, and a steep slope on the [[o/_other|other]].**
 ---
 ---

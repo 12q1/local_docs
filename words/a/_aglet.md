@@ -1,11 +1,11 @@
 # Aglet
 ---
 #noun
-- **The [[c/_cover|cover]] at the tip of a shoelace, to prevent it from fraying.**
+- **The [[c/_cover|cover]] at the tip of a shoelace, to prevent it from [[f/_fraying|fraying]].**
 - **A [[c/_catkin|catkin]].**
 ---
 #noun
-- **A tip, originally of metal and often [[d/_decorative|decorative]], on a ribbon or [[c/_cord|cord]] that makes lacing two parts of a garment or garments together [[e/_easier|easier]], as in [[c/_corset|corset]] lacings, "points" (lacing hose or trousers to jacket or [[d/_doublet|doublet]]) or sleeves to a [[b/_bodice|bodice]].**
-- **An ornament worn on [[c/_clothing|clothing]], [[c/_consisting|consisting]] of a metal tag on a fringe, or a small metallic plate or spangle.**
+- **A tip, [[o/_originally|originally]] of [[m/_metal|metal]] and [[o/_often|often]] [[d/_decorative|decorative]], on a ribbon or [[c/_cord|cord]] that [[m/_makes|makes]] [[l/_lacing|lacing]] two parts of a [[g/_garment|garment]] or [[g/_garments|garments]] together [[e/_easier|easier]], as in [[c/_corset|corset]] [[l/_lacings|lacings]], "points" ([[l/_lacing|lacing]] [[h/_hose|hose]] or trousers to [[j/_jacket|jacket]] or [[d/_doublet|doublet]]) or sleeves to a [[b/_bodice|bodice]].**
+- **An [[o/_ornament|ornament]] worn on [[c/_clothing|clothing]], [[c/_consisting|consisting]] of a [[m/_metal|metal]] tag on a [[f/_fringe|fringe]], or a small [[m/_metallic|metallic]] plate or spangle.**
 ---
 ---

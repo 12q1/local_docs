@@ -1,6 +1,6 @@
 # Dactyls
 ---
 #noun
-- **A poetical foot of three syllables (— ⏑ ⏑), one long followed by two short, or one [[a/_accented|accented]] followed by two unaccented.**
+- **A poetical [[f/_foot|foot]] of three syllables (— ⏑ ⏑), [[o/_one|one]] [[l/_long|long]] [[f/_followed|followed]] by two short, or [[o/_one|one]] [[a/_accented|accented]] [[f/_followed|followed]] by two unaccented.**
 ---
 ---

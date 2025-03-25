@@ -1,8 +1,8 @@
 # Cubbing
 ---
 #verb
-- **To give [[b/_birth|birth]] to [[c/_cubs|cubs]]**
-- **To hunt fox [[c/_cubs|cubs]]**
+- **To [[g/_give|give]] [[b/_birth|birth]] to [[c/_cubs|cubs]]**
+- **To [[h/_hunt|hunt]] [[f/_fox|fox]] [[c/_cubs|cubs]]**
 - **To shut up or [[c/_confine|confine]].**
 ---
 #noun

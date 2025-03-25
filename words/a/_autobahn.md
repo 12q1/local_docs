@@ -1,6 +1,6 @@
 # Autobahn
 ---
 #noun
-- **The high-speed intercity highways of Germany.**
+- **The [[h/_high|high]]-speed [[i/_intercity|intercity]] [[h/_highways|highways]] of [[g/_germany|Germany]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Chub
 ---
 #noun
-- **One of various species of freshwater fish of the [[c/_cyprinidae|Cyprinidae]] or [[c/_carp|carp]] family, [[e/_especially|especially]]:**
-- **(by extension) [[a/_any|Any]] of various vaguely related marine or freshwater fishes.**
+- **[[o/_one|One]] of various species of [[f/_freshwater|freshwater]] [[f/_fish|fish]] of the [[c/_cyprinidae|Cyprinidae]] or [[c/_carp|carp]] [[f/_family|family]], [[e/_especially|especially]]:**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] of various vaguely related [[m/_marine|marine]] or [[f/_freshwater|freshwater]] [[f/_fishes|fishes]].**
 ---
 ---

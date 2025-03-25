@@ -1,6 +1,6 @@
 # Brazenfaced
 ---
 #adjective
-- **Impudent; shameless**
+- **[[i/_impudent|Impudent]]; shameless**
 ---
 ---

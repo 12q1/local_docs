@@ -1,6 +1,6 @@
 # Antsier
 ---
 #adjective
-- **Restless, [[a/_apprehensive|apprehensive]] and fidgety**
+- **Restless, [[a/_apprehensive|apprehensive]] and [[f/_fidgety|fidgety]]**
 ---
 ---

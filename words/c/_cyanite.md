@@ -1,6 +1,6 @@
 # Cyanite
 ---
 #noun
-- **A [[b/_blue|blue]] neosilicate mineral, Al2SiO5, found in metamorphic rocks.**
+- **A [[b/_blue|blue]] neosilicate [[m/_mineral|mineral]], Al2SiO5, [[f/_found|found]] in [[m/_metamorphic|metamorphic]] rocks.**
 ---
 ---

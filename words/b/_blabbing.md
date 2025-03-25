@@ -1,9 +1,9 @@
 # Blabbing
 ---
 #verb
-- **To tell tales; to gossip without reserve or [[d/_discretion|discretion]].**
+- **To tell tales; to [[g/_gossip|gossip]] without reserve or [[d/_discretion|discretion]].**
 ---
 #noun
-- **Gossip; the telling of tales.**
+- **[[g/_gossip|Gossip]]; the telling of tales.**
 ---
 ---

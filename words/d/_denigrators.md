@@ -1,6 +1,6 @@
 # Denigrators
 ---
 #noun
-- **One who [[d/_denigrates|denigrates]].**
+- **[[o/_one|One]] who [[d/_denigrates|denigrates]].**
 ---
 ---

@@ -1,12 +1,12 @@
 # Aliments
 ---
 #noun
-- **Food.**
-- **Nourishment, sustenance.**
-- **An [[a/_allowance|allowance]] for maintenance; [[a/_alimony|alimony]].**
+- **[[f/_food|Food]].**
+- **[[n/_nourishment|Nourishment]], sustenance.**
+- **An [[a/_allowance|allowance]] for [[m/_maintenance|maintenance]]; [[a/_alimony|alimony]].**
 ---
 #verb
-- **To feed, nourish.**
+- **To [[f/_feed|feed]], [[n/_nourish|nourish]].**
 - **To sustain, support.**
 ---
 ---

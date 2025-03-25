@@ -3,10 +3,10 @@
 #verb
 - **To postpone.**
 	- _Example: The trial was adjourned for a week._
-- **To [[d/_defer|defer]]; to put off temporarily or indefinitely.**
-- **To [[e/_end|end]] or suspend an event.**
+- **To [[d/_defer|defer]]; to put [[o/_off|off]] temporarily or [[i/_indefinitely|indefinitely]].**
+- **To [[e/_end|end]] or suspend an [[e/_event|event]].**
 	- _Example: The court will adjourn for lunch._
-- **To move as a group from one place to [[a/_another|another]].**
+- **To [[m/_move|move]] as a [[g/_group|group]] from [[o/_one|one]] place to [[a/_another|another]].**
 	- _Example: After the dinner, we will adjourn to the bar._
 ---
 ---

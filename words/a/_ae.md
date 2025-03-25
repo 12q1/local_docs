@@ -1,6 +1,6 @@
 # Ae
 ---
 #adjective
-- **One**
+- **[[o/_one|One]]**
 ---
 ---

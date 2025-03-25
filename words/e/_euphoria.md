@@ -1,7 +1,7 @@
 # Euphoria
 ---
 #noun
-- **An excited state of joy; a feeling of intense happiness.**
+- **An [[e/_excited|excited]] state of [[j/_joy|joy]]; a [[f/_feeling|feeling]] of [[i/_intense|intense]] [[h/_happiness|happiness]].**
 	- _Example: The runner was in absolute euphoria after winning his first marathon._
 ---
 ### Antonyms

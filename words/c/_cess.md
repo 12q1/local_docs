@@ -1,11 +1,11 @@
 # Cess
 ---
 #noun
-- **An [[a/_assessed|assessed]] tax, [[d/_duty|duty]], or levy.**
-- **Usually preceded by good or (more [[c/_commonly|commonly]]) [[b/_bad|bad]]: luck or success.**
-- **[[b/_bound|Bound]]; measure.**
+- **An [[a/_assessed|assessed]] tax, [[d/_duty|duty]], or [[l/_levy|levy]].**
+- **Usually preceded by [[g/_good|good]] or ([[m/_more|more]] [[c/_commonly|commonly]]) [[b/_bad|bad]]: [[l/_luck|luck]] or success.**
+- **[[b/_bound|Bound]]; [[m/_measure|measure]].**
 ---
 #verb
-- **To levy a [[c/_cess|cess]].**
+- **To [[l/_levy|levy]] a [[c/_cess|cess]].**
 ---
 ---

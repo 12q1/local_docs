@@ -1,13 +1,13 @@
 # Decrescendo
 ---
 #noun
-- **An instruction to play gradually more softly.**
+- **An [[i/_instruction|instruction]] to play [[g/_gradually|gradually]] [[m/_more|more]] softly.**
 ---
 #verb
-- **To gradually [[b/_become|become]] quieter**
+- **To [[g/_gradually|gradually]] [[b/_become|become]] quieter**
 ---
 #adjective
-- **[[b/_becoming|Becoming]] quieter gradually.**
+- **[[b/_becoming|Becoming]] quieter [[g/_gradually|gradually]].**
 ---
 ### Synonyms
 - [[d/_diminuendo|diminuendo]]

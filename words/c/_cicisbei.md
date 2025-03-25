@@ -1,7 +1,7 @@
 # Cicisbei
 ---
 #noun
-- **(18th [[c/_century|century]] Italy) A knightly servant of a high-[[b/_born|born]] lady.**
-- **A married woman's lover; a kept man.**
+- **(18th [[c/_century|century]] [[i/_italy|Italy]]) A [[k/_knightly|knightly]] servant of a [[h/_high|high]]-[[b/_born|born]] [[l/_lady|lady]].**
+- **A [[m/_married|married]] woman's [[l/_lover|lover]]; a [[k/_kept|kept]] [[m/_man|man]].**
 ---
 ---

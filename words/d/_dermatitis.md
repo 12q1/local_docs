@@ -1,6 +1,6 @@
 # Dermatitis
 ---
 #noun
-- **Inflammation of the skin.**
+- **[[i/_inflammation|Inflammation]] of the skin.**
 ---
 ---

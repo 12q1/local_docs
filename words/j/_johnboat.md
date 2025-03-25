@@ -1,0 +1,7 @@
+# Johnboat
+---
+#noun
+- **A [[f/_flat|flat]]-[[b/_bottomed|bottomed]] [[b/_boat|boat]] with a very shallow [[d/_draft|draft]], whose [[b/_bow|bow]] and stern are [[b/_both|both]] squared [[o/_off|off]]**
+	- _Example: Eddie liked to take his johnboat into the shallow, reedy, sandbars that the out-of-town fishermen, with their big, expensive, fiberglass bassboats, couldn't reach._
+---
+---

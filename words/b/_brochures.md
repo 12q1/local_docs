@@ -1,6 +1,6 @@
 # Brochures
 ---
 #noun
-- **A [[b/_booklet|booklet]] of printed informational matter, like a pamphlet, often for promotional purposes.**
+- **A [[b/_booklet|booklet]] of printed [[i/_informational|informational]] [[m/_matter|matter]], [[l/_like|like]] a [[p/_pamphlet|pamphlet]], [[o/_often|often]] for promotional purposes.**
 ---
 ---

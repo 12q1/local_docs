@@ -1,8 +1,8 @@
 # Artisan
 ---
 #noun
-- **A skilled manual worker who uses tools and machinery in a particular [[c/_craft|craft]].**
-- **A person who [[d/_displays|displays]] great [[d/_dexterity|dexterity]].**
+- **A skilled [[m/_manual|manual]] worker who uses tools and [[m/_machinery|machinery]] in a particular [[c/_craft|craft]].**
+- **A person who [[d/_displays|displays]] [[g/_great|great]] [[d/_dexterity|dexterity]].**
 ---
 #adjective
 - **[[a/_artisanal|Artisanal]]**

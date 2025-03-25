@@ -1,12 +1,12 @@
 # Affronting
 ---
 #verb
-- **To insult intentionally, [[e/_especially|especially]] openly.**
-- **To meet [[d/_defiantly|defiantly]]; to [[c/_confront|confront]].**
+- **To [[i/_insult|insult]] [[i/_intentionally|intentionally]], [[e/_especially|especially]] [[o/_openly|openly]].**
+- **To [[m/_meet|meet]] [[d/_defiantly|defiantly]]; to [[c/_confront|confront]].**
 	- _Example: to affront death_
-- **To meet or [[e/_encounter|encounter]] face to face.**
+- **To [[m/_meet|meet]] or [[e/_encounter|encounter]] [[f/_face|face]] to [[f/_face|face]].**
 ---
 #noun
-- **The offering of an [[a/_affront|affront]].**
+- **The [[o/_offering|offering]] of an [[a/_affront|affront]].**
 ---
 ---

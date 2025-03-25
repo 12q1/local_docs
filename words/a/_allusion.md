@@ -1,6 +1,6 @@
 # Allusion
 ---
 #noun
-- **An indirect reference; a hint; a reference to something supposed to be known, but not explicitly mentioned**
+- **An [[i/_indirect|indirect]] reference; a [[h/_hint|hint]]; a reference to something supposed to be [[k/_known|known]], but not [[e/_explicitly|explicitly]] [[m/_mentioned|mentioned]]**
 ---
 ---

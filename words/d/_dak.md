@@ -1,6 +1,6 @@
 # Dak
 ---
 #noun
-- **A post system by means of transport relays of horses stationed at intervals [[a/_along|along]] a route or network, [[c/_carrying|carrying]] mail and passengers.**
+- **A post system by [[m/_means|means]] of transport relays of [[h/_horses|horses]] stationed at [[i/_intervals|intervals]] [[a/_along|along]] a route or [[n/_network|network]], [[c/_carrying|carrying]] [[m/_mail|mail]] and passengers.**
 ---
 ---

@@ -1,11 +1,11 @@
 # Adequate
 ---
 #verb
-- **To [[e/_equalize|equalize]]; to make [[a/_adequate|adequate]].**
+- **To [[e/_equalize|equalize]]; to [[m/_make|make]] [[a/_adequate|adequate]].**
 - **To [[e/_equal|equal]].**
 ---
 #adjective
-- **[[e/_equal|Equal]] to or fulfilling some requirement.**
+- **[[e/_equal|Equal]] to or [[f/_fulfilling|fulfilling]] some requirement.**
 	- _Example: an adequate definition_
 ---
 ### Synonyms

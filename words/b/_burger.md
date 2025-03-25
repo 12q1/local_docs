@@ -1,7 +1,7 @@
 # Burger
 ---
 #noun
-- **A hamburger.**
-- **([[c/_chiefly|chiefly]] as a [[c/_combining|combining]] form) A similar sandwich or patty.**
+- **A [[h/_hamburger|hamburger]].**
+- **([[c/_chiefly|chiefly]] as a [[c/_combining|combining]] [[f/_form|form]]) A similar sandwich or patty.**
 ---
 ---

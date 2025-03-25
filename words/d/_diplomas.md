@@ -1,6 +1,6 @@
 # Diplomas
 ---
 #noun
-- **A [[d/_document|document]] issued by an [[e/_educational|educational]] institution testifying that the recipient has [[e/_earned|earned]] a [[d/_degree|degree]] or has successfully [[c/_completed|completed]] a particular [[c/_course|course]] of study.**
+- **A [[d/_document|document]] [[i/_issued|issued]] by an [[e/_educational|educational]] [[i/_institution|institution]] testifying that the recipient [[h/_has|has]] [[e/_earned|earned]] a [[d/_degree|degree]] or [[h/_has|has]] successfully [[c/_completed|completed]] a particular [[c/_course|course]] of study.**
 ---
 ---

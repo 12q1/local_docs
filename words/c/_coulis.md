@@ -1,6 +1,6 @@
 # Coulis
 ---
 #noun
-- **A thick sauce made with pureed vegetable or fruit and often used as a garnish.**
+- **A thick sauce [[m/_made|made]] with pureed vegetable or [[f/_fruit|fruit]] and [[o/_often|often]] used as a [[g/_garnish|garnish]].**
 ---
 ---

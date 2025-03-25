@@ -1,9 +1,9 @@
 # Bugbears
 ---
 #noun
-- **An ongoing problem; a recurring obstacle or [[a/_adversity|adversity]].**
-- **A source of [[d/_dread|dread]]; resentment; or irritation.**
-- **An imaginary [[c/_creature|creature]] meant to inspire fear in [[c/_children|children]].**
+- **An [[o/_ongoing|ongoing]] problem; a recurring [[o/_obstacle|obstacle]] or [[a/_adversity|adversity]].**
+- **A source of [[d/_dread|dread]]; resentment; or [[i/_irritation|irritation]].**
+- **An [[i/_imaginary|imaginary]] [[c/_creature|creature]] [[m/_meant|meant]] to [[i/_inspire|inspire]] [[f/_fear|fear]] in [[c/_children|children]].**
 ---
 ### Synonyms
 - [[g/_goblin|goblin]]

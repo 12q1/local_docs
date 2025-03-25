@@ -10,7 +10,7 @@
 #noun
 - **The sport of riding a [[b/_bicycle|bicycle]].**
 	- _Example: Professional biking is plagued with controversies over drug use._
-- **The practice of riding a motorcycle.**
+- **The practice of riding a [[m/_motorcycle|motorcycle]].**
 ---
 ### Synonyms
 - [[c/_cycling|cycling]]

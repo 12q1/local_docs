@@ -1,6 +1,6 @@
 # Departmentalizes
 ---
 #verb
-- **To organize something into [[d/_departments|departments]]**
+- **To [[o/_organize|organize]] something [[i/_into|into]] [[d/_departments|departments]]**
 ---
 ---

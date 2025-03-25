@@ -3,8 +3,8 @@
 #noun
 - **An [[e/_erect|erect]] penis.**
 	- _Example: Why do guys get boners when they wake up in the morning?_
-- **One who or that which [[b/_bones|bones]] (removes [[b/_bones|bones]]).**
-- **A [[b/_blunder|blunder]]; a silly mistake.**
+- **[[o/_one|One]] who or that which [[b/_bones|bones]] (removes [[b/_bones|bones]]).**
+- **A [[b/_blunder|blunder]]; a silly [[m/_mistake|mistake]].**
 	- _Example: He really pulled a boner that time!_
 ---
 ### Synonyms

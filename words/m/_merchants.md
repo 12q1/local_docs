@@ -1,0 +1,11 @@
+# Merchants
+---
+#noun
+- **A person who traffics in [[c/_commodities|commodities]] for profit.**
+- **The [[o/_owner|owner]] or [[o/_operator|operator]] of a retail [[b/_business|business]].**
+- **A trading vessel; a [[m/_merchantman|merchantman]].**
+- **A supercargo.**
+---
+### Synonyms
+- [[t/_trader|trader]]
+---

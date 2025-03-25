@@ -1,15 +1,15 @@
 # Cosseted
 ---
 #verb
-- **To treat like a pet; to overly indulge.**
+- **To treat [[l/_like|like]] a pet; to [[o/_overly|overly]] [[i/_indulge|indulge]].**
 	- _Example: The car cossets its occupants in comfort._
-- **To fondle; to touch or stroke lovingly.**
+- **To [[f/_fondle|fondle]]; to touch or stroke [[l/_lovingly|lovingly]].**
 	- _Example: The foam cossets your skin._
 ---
 ### Synonyms
 - [[g/_grope|grope]], [[c/_coddle|coddle]], [[p/_posset|posset]]
 #adjective
-- **Pampered.**
+- **[[p/_pampered|Pampered]].**
 	- _Example: a cosseted childhood_
 ---
 ### Synonyms

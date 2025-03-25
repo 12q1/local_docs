@@ -1,6 +1,6 @@
 # Collenchyma
 ---
 #noun
-- **A living, [[e/_elongated|elongated]], mechanical and flexible ground tissue with [[a/_angular|angular]] pectin [[d/_depositions|depositions]]; present just under leaves, tendrils and stems of [[c/_climbers|climbers]]; formed [[b/_before|before]] vascular [[d/_differentiation|differentiation]].**
+- **A [[l/_living|living]], [[e/_elongated|elongated]], [[m/_mechanical|mechanical]] and [[f/_flexible|flexible]] [[g/_ground|ground]] tissue with [[a/_angular|angular]] pectin [[d/_depositions|depositions]]; present [[j/_just|just]] under [[l/_leaves|leaves]], tendrils and stems of [[c/_climbers|climbers]]; [[f/_formed|formed]] [[b/_before|before]] vascular [[d/_differentiation|differentiation]].**
 ---
 ---

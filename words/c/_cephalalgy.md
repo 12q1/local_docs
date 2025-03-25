@@ -1,7 +1,7 @@
 # Cephalalgy
 ---
 #noun
-- **A pain in the head; headache.**
+- **A [[p/_pain|pain]] in the [[h/_head|head]]; [[h/_headache|headache]].**
 ---
 ### Synonyms
 - [[h/_headache|headache]]

@@ -1,6 +1,6 @@
 # Beneficiating
 ---
 #verb
-- **To reduce (ores).**
+- **To reduce ([[o/_ores|ores]]).**
 ---
 ---

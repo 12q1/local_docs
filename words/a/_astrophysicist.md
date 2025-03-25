@@ -1,6 +1,6 @@
 # Astrophysicist
 ---
 #noun
-- **One who studies [[a/_astrophysics|astrophysics]].**
+- **[[o/_one|One]] who studies [[a/_astrophysics|astrophysics]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Antigun
 ---
 #adjective
-- **Opposed to the use or ownership of guns**
+- **[[o/_opposed|Opposed]] to the use or [[o/_ownership|ownership]] of [[g/_guns|guns]]**
 ---
 ---

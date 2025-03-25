@@ -1,7 +1,7 @@
 # Bunyip
 ---
 #noun
-- **A mythical [[a/_australian|Australian]] monster, said to inhabit swamps and lagoons.**
-- **An imposter or [[c/_con|con]]-man.**
+- **A [[m/_mythical|mythical]] [[a/_australian|Australian]] [[m/_monster|monster]], said to [[i/_inhabit|inhabit]] swamps and [[l/_lagoons|lagoons]].**
+- **An [[i/_imposter|imposter]] or [[c/_con|con]]-[[m/_man|man]].**
 ---
 ---

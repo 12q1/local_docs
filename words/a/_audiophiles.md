@@ -1,6 +1,6 @@
 # Audiophiles
 ---
 #noun
-- **A person with an interest in high fidelity music and/or sound reproduction and its [[a/_associated|associated]] technology.**
+- **A person with an [[i/_interest|interest]] in [[h/_high|high]] [[f/_fidelity|fidelity]] [[m/_music|music]] and/or sound reproduction and [[i/_its|its]] [[a/_associated|associated]] technology.**
 ---
 ---

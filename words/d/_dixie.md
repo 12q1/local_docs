@@ -1,6 +1,6 @@
 # Dixie
 ---
 #noun
-- **A large iron pot, used in the [[a/_army|army]].**
+- **A [[l/_large|large]] [[i/_iron|iron]] pot, used in the [[a/_army|army]].**
 ---
 ---

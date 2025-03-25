@@ -1,0 +1,19 @@
+# Overlap
+---
+#noun
+- **Something that [[o/_overlaps|overlaps]] or is [[o/_overlapped|overlapped]]**
+- **A situation in the [[g/_game|game]] where an [[a/_attacking|attacking]] [[l/_line|line]] [[h/_has|has]] [[m/_more|more]] players in it than the [[d/_defensive|defensive]] [[l/_line|line]] [[c/_coming|coming]] to [[m/_meet|meet]] it. The [[a/_attacking|attacking]] side [[m/_may|may]] [[e/_exploit|exploit]] the [[o/_overlap|overlap]] by using their superior [[n/_numbers|numbers]] to [[b/_break|break]] the [[o/_opposition|opposition]]'s [[d/_defensive|defensive]] [[l/_line|line]]. [[i/_if|If]] [[a/_attackers|attackers]] [[o/_outnumber|outnumber]] [[d/_defenders|defenders]] by [[m/_more|more]] than [[o/_one|one]] player this is [[o/_often|often]] termed a two [[m/_man|man]] [[o/_overlap|overlap]] or three [[m/_man|man]] [[o/_overlap|overlap]], [[e/_etc|etc]]. [[i/_if|If]] the [[a/_attacking|attacking]] side [[f/_fails|fails]] to [[b/_break|break]] through usually [[d/_due|due]] to poor [[e/_execution|execution]], they are said to waste an [[o/_overlap|overlap]].**
+- **The [[p/_payment|payment]] of a spouse's or [[o/_other|other]] [[d/_dependant|dependant]]'s [[a/_annuity|annuity]] [[b/_benefits|benefits]] [[c/_concurrently|concurrently]] with the [[m/_member|member]]'s [[b/_benefits|benefits]], on [[d/_death|death]] of the [[m/_member|member]] [[d/_during|during]] the [[g/_guarantee|guarantee]] period.**
+---
+#verb
+- **To [[e/_extend|extend]] [[o/_over|over]] and partly [[c/_cover|cover]] something.**
+	- _Example: The mouse-mat overlapped the edge of the desk._
+- **To [[h/_have|have]] an [[a/_area|area]], range, [[c/_character|character]] or [[f/_function|function]] in [[c/_common|common]].**
+	- _Example: The two maps overlapped at the east and west edges._
+- **Of sets: to [[h/_have|have]] some [[e/_elements|elements]] in [[c/_common|common]].**
+	- _Example: The set (all men) overlaps the set (vegetarians)._
+- **To [[h/_have|have]] some similar [[n/_nucleotide|nucleotide]] sequences.**
+---
+### Synonyms
+- [[i/_intersect|intersect]]
+---

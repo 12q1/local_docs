@@ -1,7 +1,7 @@
 # Ergotism
 ---
 #noun
-- **The [[e/_effect|effect]] of long-term [[e/_ergot|ergot]] poisoning, traditionally [[d/_due|due]] to the ingestion of the [[a/_alkaloids|alkaloids]] produced by the [[c/_claviceps|Claviceps]] purpurea fungus which infects rye and other [[c/_cereals|cereals]], and more recently by the [[a/_action|action]] of a number of ergoline-[[b/_based|based]] [[d/_drugs|drugs]].**
+- **The [[e/_effect|effect]] of [[l/_long|long]]-term [[e/_ergot|ergot]] poisoning, traditionally [[d/_due|due]] to the [[i/_ingestion|ingestion]] of the [[a/_alkaloids|alkaloids]] produced by the [[c/_claviceps|Claviceps]] purpurea [[f/_fungus|fungus]] which [[i/_infects|infects]] rye and [[o/_other|other]] [[c/_cereals|cereals]], and [[m/_more|more]] recently by the [[a/_action|action]] of a [[n/_number|number]] of ergoline-[[b/_based|based]] [[d/_drugs|drugs]].**
 ---
 ### Synonyms
 - [[e/_ergotoxicosis|ergotoxicosis]]

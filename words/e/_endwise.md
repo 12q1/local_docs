@@ -5,7 +5,7 @@
 ---
 #adverb
 - **Upright, or standing on [[e/_end|end]]**
-- **With the [[e/_end|end]] towards the front or towards the observer**
+- **With the [[e/_end|end]] towards the [[f/_front|front]] or towards the [[o/_observer|observer]]**
 - **Towards the [[e/_ends|ends]]**
 ---
 ### Synonyms

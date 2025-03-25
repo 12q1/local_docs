@@ -1,6 +1,6 @@
 # Defaulters
 ---
 #noun
-- **One who fails to fulfill an obligation or perform a task, [[e/_especially|especially]] a legal or financial one.**
+- **[[o/_one|One]] who [[f/_fails|fails]] to [[f/_fulfill|fulfill]] an [[o/_obligation|obligation]] or perform a task, [[e/_especially|especially]] a [[l/_legal|legal]] or [[f/_financial|financial]] [[o/_one|one]].**
 ---
 ---

@@ -1,0 +1,13 @@
+# Expectant
+---
+#noun
+- **A person who [[e/_expects|expects]] or [[a/_awaits|awaits]] something.**
+---
+#adjective
+- **[[m/_marked|Marked]] by [[e/_expectation|expectation]].**
+	- _Example: the expectant hush before the performance_
+- **Pregnant.**
+	- _Example: an expectant mother_
+- **[[a/_awaiting|Awaiting]] the [[e/_effects|effects]] of [[n/_nature|nature]], with [[l/_little|little]] [[a/_active|active]] treatment.**
+---
+---

@@ -1,6 +1,6 @@
 # Convector
 ---
 #noun
-- **A space heater that transfers heat by [[c/_convection|convection]]; a radiator**
+- **A space [[h/_heater|heater]] that transfers [[h/_heat|heat]] by [[c/_convection|convection]]; a radiator**
 ---
 ---

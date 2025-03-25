@@ -1,6 +1,6 @@
 # Araucaria
 ---
 #noun
-- **An individual plant (tree) of the genus [[a/_araucaria|Araucaria]].**
+- **An [[i/_individual|individual]] plant (tree) of the [[g/_genus|genus]] [[a/_araucaria|Araucaria]].**
 ---
 ---

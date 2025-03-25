@@ -1,0 +1,7 @@
+# Panopticon
+---
+#noun
+- **A type of prison where [[a/_all|all]] the [[c/_cells|cells]] are visible from the [[c/_center|center]], particularly [[i/_if|if]] it is not possible for someone in a [[c/_cell|cell]] to [[k/_know|know]] [[i/_if|if]] they are [[b/_being|being]] watched.**
+- **A room for the [[e/_exhibition|exhibition]] of [[n/_novelties|novelties]].**
+---
+---

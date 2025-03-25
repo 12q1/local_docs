@@ -1,8 +1,8 @@
 # Caddises
 ---
 #noun
-- **The larva of a [[c/_caddis|caddis]] fly. They generally live in [[c/_cylindrical|cylindrical]] [[c/_cases|cases]], open at [[e/_each|each]] [[e/_end|end]], and [[c/_covered|covered]] externally with [[d/_debris|debris]].**
+- **The [[l/_larva|larva]] of a [[c/_caddis|caddis]] [[f/_fly|fly]]. They [[g/_generally|generally]] [[l/_live|live]] in [[c/_cylindrical|cylindrical]] [[c/_cases|cases]], [[o/_open|open]] at [[e/_each|each]] [[e/_end|end]], and [[c/_covered|covered]] [[e/_externally|externally]] with [[d/_debris|debris]].**
 - **A rough woolen [[c/_cloth|cloth]]; [[c/_caddice|caddice]].**
-- **A kind of worsted lace or ribbon.**
+- **A [[k/_kind|kind]] of worsted [[l/_lace|lace]] or ribbon.**
 ---
 ---

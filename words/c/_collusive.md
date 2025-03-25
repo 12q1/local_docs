@@ -1,6 +1,6 @@
 # Collusive
 ---
 #adjective
-- **Secretly [[a/_acting|acting]] together for a fraudulent or illegal purpose**
+- **Secretly [[a/_acting|acting]] together for a [[f/_fraudulent|fraudulent]] or [[i/_illegal|illegal]] purpose**
 ---
 ---

@@ -1,7 +1,7 @@
 # Covariance
 ---
 #noun
-- **A statistical measure [[d/_defined|defined]] as \scriptstyle\operatorname{Cov}(X, Y) = \operatorname{[[e/_e|E]]}((X - \mu) (Y - \nu)) given two real-valued random variables X and Y, with expected values \scriptstyle [[e/_e|E]](X)\,=\,\mu and \scriptstyle [[e/_e|E]](Y)\,=\,\nu.**
-- **The [[c/_conversion|conversion]] of [[d/_data|data]] types from wider to narrower in [[c/_certain|certain]] situations.**
+- **A statistical [[m/_measure|measure]] [[d/_defined|defined]] as \scriptstyle\operatorname{Cov}(X, [[y/_y|Y]]) = \operatorname{[[e/_e|E]]}((X - \[[m/_mu|mu]]) ([[y/_y|Y]] - \[[n/_nu|nu]])) [[g/_given|given]] two real-valued random variables X and [[y/_y|Y]], with [[e/_expected|expected]] values \scriptstyle [[e/_e|E]](X)\,=\,\[[m/_mu|mu]] and \scriptstyle [[e/_e|E]]([[y/_y|Y]])\,=\,\[[n/_nu|nu]].**
+- **The [[c/_conversion|conversion]] of [[d/_data|data]] types from wider to [[n/_narrower|narrower]] in [[c/_certain|certain]] situations.**
 ---
 ---

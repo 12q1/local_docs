@@ -1,19 +1,19 @@
 # Divine
 ---
 #noun
-- **One skilled in [[d/_divinity|divinity]]; a theologian.**
-- **A minister of the gospel; a priest; a [[c/_clergyman|clergyman]].**
-- **(often [[c/_capitalized|capitalized]], with 'the') God or a god, particularly in its [[a/_aspect|aspect]] as a transcendental [[c/_concept|concept]].**
+- **[[o/_one|One]] skilled in [[d/_divinity|divinity]]; a theologian.**
+- **A [[m/_minister|minister]] of the [[g/_gospel|gospel]]; a priest; a [[c/_clergyman|clergyman]].**
+- **([[o/_often|often]] [[c/_capitalized|capitalized]], with 'the') [[g/_god|God]] or a [[g/_god|god]], particularly in [[i/_its|its]] [[a/_aspect|aspect]] as a transcendental [[c/_concept|concept]].**
 ---
 ### Synonyms
 - [[A/_Allah|Allah]], [[G/_God|God]], [[d/_deity|deity]], [[g/_god|god]], [[c/_clergyman|clergyman]], [[c/_cleric|cleric]], [[t/_theologian|theologian]]
 #adjective
-- **Of or pertaining to a god.**
-- **[[e/_eternal|Eternal]], holy, or otherwise godlike.**
-- **Of superhuman or surpassing excellence.**
-- **[[b/_beautiful|Beautiful]], heavenly.**
-- **Foreboding; prescient.**
-- **(of souls) immortal; [[e/_elect|elect]] or saved [[a/_after|after]] [[d/_death|death]]**
+- **Of or pertaining to a [[g/_god|god]].**
+- **[[e/_eternal|Eternal]], [[h/_holy|holy]], or [[o/_otherwise|otherwise]] [[g/_godlike|godlike]].**
+- **Of superhuman or surpassing [[e/_excellence|excellence]].**
+- **[[b/_beautiful|Beautiful]], [[h/_heavenly|heavenly]].**
+- **[[f/_foreboding|Foreboding]]; prescient.**
+- **(of souls) [[i/_immortal|immortal]]; [[e/_elect|elect]] or saved [[a/_after|after]] [[d/_death|death]]**
 - **Relating to [[d/_divinity|divinity]] or theology.**
 ---
 ### Synonyms

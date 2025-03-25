@@ -1,6 +1,6 @@
 # Antigen
 ---
 #noun
-- **A substance that induces an immune response, usually foreign.**
+- **A substance that [[i/_induces|induces]] an [[i/_immune|immune]] response, usually [[f/_foreign|foreign]].**
 ---
 ---

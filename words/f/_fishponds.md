@@ -1,0 +1,6 @@
+# Fishponds
+---
+#noun
+- **A [[f/_freshwater|freshwater]] pond stocked with [[f/_fish|fish]]; [[e/_especially|especially]] [[o/_one|one]] [[f/_formerly|formerly]] [[a/_attached|attached]] to a [[m/_monastery|monastery]] [[e/_etc|etc]] as a source of [[f/_food|food]]**
+---
+---

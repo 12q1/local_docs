@@ -1,7 +1,7 @@
 # Denier
 ---
 #noun
-- **An old French [[c/_coin|coin]] worth one-twelfth of a sou.**
-- **A unit of linear [[d/_density|density]] which indicates the fineness of fiber or yarn, [[e/_equal|equal]] to one gram per 9000 meters, used [[e/_especially|especially]] to measure or indicate the fineness of hosiery. Originally [[e/_equal|equal]] to the weight of a [[d/_denier|denier]] [[c/_coin|coin]] per 9600 aunes.**
+- **An [[o/_old|old]] [[f/_french|French]] [[c/_coin|coin]] worth [[o/_one|one]]-twelfth of a sou.**
+- **A unit of [[l/_linear|linear]] [[d/_density|density]] which [[i/_indicates|indicates]] the [[f/_fineness|fineness]] of [[f/_fiber|fiber]] or [[y/_yarn|yarn]], [[e/_equal|equal]] to [[o/_one|one]] [[g/_gram|gram]] per 9000 [[m/_meters|meters]], used [[e/_especially|especially]] to [[m/_measure|measure]] or [[i/_indicate|indicate]] the [[f/_fineness|fineness]] of [[h/_hosiery|hosiery]]. [[o/_originally|Originally]] [[e/_equal|equal]] to the weight of a [[d/_denier|denier]] [[c/_coin|coin]] per 9600 aunes.**
 ---
 ---

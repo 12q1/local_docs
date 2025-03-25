@@ -1,7 +1,7 @@
 # Cynanthropy
 ---
 #noun
-- **A [[d/_delusion|delusion]] in which a person [[b/_believes|believes]] he or she is transformed into a [[d/_dog|dog]].**
-- **A shape-shifting [[a/_ability|ability]] [[b/_between|between]] human and [[c/_canine|canine]] forms.**
+- **A [[d/_delusion|delusion]] in which a person [[b/_believes|believes]] [[h/_he|he]] or she is transformed [[i/_into|into]] a [[d/_dog|dog]].**
+- **A shape-shifting [[a/_ability|ability]] [[b/_between|between]] [[h/_human|human]] and [[c/_canine|canine]] [[f/_forms|forms]].**
 ---
 ---

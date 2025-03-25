@@ -1,8 +1,8 @@
 # Chitchats
 ---
 #noun
-- **Light [[c/_conversation|conversation]]; [[c/_casual|casual]] talk, usually [[a/_about|about]] trivial matters.**
-- **Gossip.**
+- **[[l/_light|Light]] [[c/_conversation|conversation]]; [[c/_casual|casual]] talk, usually [[a/_about|about]] trivial [[m/_matters|matters]].**
+- **[[g/_gossip|Gossip]].**
 ---
 ### Synonyms
 - [[c/_chinwag|chinwag]], [[c/_claver|claver]]

@@ -5,6 +5,6 @@
 	- _Example: A court decrees a restoration of property._
 ---
 #noun
-- **The giving out of a [[d/_decree|decree]].**
+- **The [[g/_giving|giving]] [[o/_out|out]] of a [[d/_decree|decree]].**
 ---
 ---

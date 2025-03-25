@@ -1,6 +1,6 @@
 # Benchmarked
 ---
 #verb
-- **To measure the performance or quality of (an item) relative to [[a/_another|another]] similar item in an impartial scientific manner.**
+- **To [[m/_measure|measure]] the performance or quality of (an [[i/_item|item]]) relative to [[a/_another|another]] similar [[i/_item|item]] in an [[i/_impartial|impartial]] scientific [[m/_manner|manner]].**
 ---
 ---

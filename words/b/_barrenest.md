@@ -3,10 +3,10 @@
 #adjective
 - **Unable to [[b/_bear|bear]] [[c/_children|children]]; sterile.**
 	- _Example: I silently wept as my daughter's husband rejected her. What would she do now that she was no longer a maiden but also barren?_
-- **Of poor fertility, infertile; not producing vegetation.**
+- **Of poor [[f/_fertility|fertility]], [[i/_infertile|infertile]]; not producing vegetation.**
 - **[[b/_bleak|Bleak]].**
-- **Unproductive; fruitless; unprofitable; [[e/_empty|empty]].**
-- **Mentally [[d/_dull|dull]]; stupid.**
+- **Unproductive; [[f/_fruitless|fruitless]]; unprofitable; [[e/_empty|empty]].**
+- **[[m/_mentally|Mentally]] [[d/_dull|dull]]; stupid.**
 ---
 ### Synonyms
 - [[s/_sterile|sterile]]

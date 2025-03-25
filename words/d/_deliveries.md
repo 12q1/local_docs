@@ -3,20 +3,20 @@
 #noun
 - **The [[a/_act|act]] of [[c/_conveying|conveying]] something.**
 	- _Example: The delivery was completed by four._
-- **The item which has [[b/_been|been]] [[c/_conveyed|conveyed]].**
+- **The [[i/_item|item]] which [[h/_has|has]] [[b/_been|been]] [[c/_conveyed|conveyed]].**
 	- _Example: Your delivery is on the table._
-- **The [[a/_act|act]] of giving [[b/_birth|birth]]**
+- **The [[a/_act|act]] of [[g/_giving|giving]] [[b/_birth|birth]]**
 	- _Example: The delivery was painful._
-- **A pitching motion.**
+- **A pitching [[m/_motion|motion]].**
 	- _Example: His delivery has a catch in it._
 - **A thrown pitch.**
 	- _Example: Here is the delivery; ... strike three!_
-- **The manner of speaking.**
+- **The [[m/_manner|manner]] of speaking.**
 	- _Example: The actor's delivery was flawless._
 - **The [[a/_administration|administration]] of a [[d/_drug|drug]].**
 	- _Example: Drug delivery system._
 - **A [[b/_ball|ball]] [[b/_bowled|bowled]].**
 - **The process of throwing a stone.**
-- **Process of introducing foreign DNA into host [[c/_cells|cells]].**
+- **Process of [[i/_introducing|introducing]] [[f/_foreign|foreign]] DNA [[i/_into|into]] [[h/_host|host]] [[c/_cells|cells]].**
 ---
 ---

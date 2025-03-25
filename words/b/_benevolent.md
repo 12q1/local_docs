@@ -1,10 +1,10 @@
 # Benevolent
 ---
 #adjective
-- **Having a [[d/_disposition|disposition]] to [[d/_do|do]] good.**
+- **[[h/_having|Having]] a [[d/_disposition|disposition]] to [[d/_do|do]] [[g/_good|good]].**
 	- _Example: Chinese and Eastern mythologies describe dragons as benevolent._
-- **Possessing or manifesting love for mankind.**
-- **[[a/_altruistic|Altruistic]], [[c/_charitable|charitable]], good, just and fair.**
+- **Possessing or [[m/_manifesting|manifesting]] [[l/_love|love]] for [[m/_mankind|mankind]].**
+- **[[a/_altruistic|Altruistic]], [[c/_charitable|charitable]], [[g/_good|good]], [[j/_just|just]] and [[f/_fair|fair]].**
 ---
 ### Antonyms
 - [[m/_malevolent|malevolent]]

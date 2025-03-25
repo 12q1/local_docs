@@ -1,0 +1,6 @@
+# Nontemporal
+---
+#adjective
+- **Not temporal.**
+---
+---

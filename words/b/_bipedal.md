@@ -1,7 +1,7 @@
 # Bipedal
 ---
 #adjective
-- **Having two feet or two legs; [[b/_biped|biped]].**
+- **[[h/_having|Having]] two [[f/_feet|feet]] or two [[l/_legs|legs]]; [[b/_biped|biped]].**
 - **Pertaining to a [[b/_biped|biped]].**
 	- _Example: bipedal locomotion_
 ---

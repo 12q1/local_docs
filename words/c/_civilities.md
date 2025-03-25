@@ -1,9 +1,9 @@
 # Civilities
 ---
 #noun
-- **Speech or [[b/_behaviour|behaviour]] that is fit for [[c/_civil|civil]] interactions; politeness, [[c/_courtesy|courtesy]].**
-- **([[c/_chiefly|chiefly]] in plural) An individual [[a/_act|act]] or expression of polite [[b/_behaviour|behaviour]]; a [[c/_courtesy|courtesy]].**
-- **The state or fact of [[b/_being|being]] [[c/_civilized|civilized]]; [[c/_civilization|civilization]].**
-- **A [[c/_civil|civil]] office; a [[c/_civil|civil]] [[c/_capacity|capacity]].**
+- **Speech or [[b/_behaviour|behaviour]] that is [[f/_fit|fit]] for [[c/_civil|civil]] [[i/_interactions|interactions]]; politeness, [[c/_courtesy|courtesy]].**
+- **([[c/_chiefly|chiefly]] in plural) An [[i/_individual|individual]] [[a/_act|act]] or [[e/_expression|expression]] of polite [[b/_behaviour|behaviour]]; a [[c/_courtesy|courtesy]].**
+- **The state or [[f/_fact|fact]] of [[b/_being|being]] [[c/_civilized|civilized]]; [[c/_civilization|civilization]].**
+- **A [[c/_civil|civil]] [[o/_office|office]]; a [[c/_civil|civil]] [[c/_capacity|capacity]].**
 ---
 ---

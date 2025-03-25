@@ -1,8 +1,8 @@
 # Egotist
 ---
 #noun
-- **A person who talks excessively [[a/_about|about]] himself or herself.**
-- **A person who [[b/_believes|believes]] in his or her own importance or superiority.**
+- **A person who talks [[e/_excessively|excessively]] [[a/_about|about]] [[h/_himself|himself]] or [[h/_herself|herself]].**
+- **A person who [[b/_believes|believes]] in [[h/_his|his]] or [[h/_her|her]] [[o/_own|own]] [[i/_importance|importance]] or superiority.**
 - **An [[e/_egoist|egoist]].**
 ---
 ---

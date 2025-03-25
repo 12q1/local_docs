@@ -1,0 +1,6 @@
+# Hoplites
+---
+#noun
+- **A [[h/_heavily|heavily]]-[[a/_armed|armed]] [[i/_infantry|infantry]] soldier of [[a/_ancient|Ancient]] [[g/_greece|Greece]], wielding a [[o/_one|one]]-[[h/_handed|handed]] spear and an [[a/_aspis|aspis]].**
+---
+---

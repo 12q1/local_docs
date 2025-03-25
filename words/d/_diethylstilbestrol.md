@@ -1,7 +1,7 @@
 # Diethylstilbestrol
 ---
 #noun
-- **An orally-[[a/_active|active]] synthetic nonsteroidal oestrogen, first synthesized in 1938 and withdrawn in the 1970s on [[b/_being|being]] identified as a teratogen.**
+- **An [[o/_orally|orally]]-[[a/_active|active]] synthetic [[n/_nonsteroidal|nonsteroidal]] [[o/_oestrogen|oestrogen]], [[f/_first|first]] synthesized in 1938 and withdrawn in the 1970s on [[b/_being|being]] [[i/_identified|identified]] as a teratogen.**
 ---
 ### Synonyms
 - [[D/_DES|DES]]

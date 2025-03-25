@@ -1,6 +1,6 @@
 # Confessant
 ---
 #noun
-- **One who [[c/_confesses|confesses]] to a priest.**
+- **[[o/_one|One]] who [[c/_confesses|confesses]] to a priest.**
 ---
 ---

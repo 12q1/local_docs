@@ -1,13 +1,13 @@
 # Ceramics
 ---
 #noun
-- **A hard, [[b/_brittle|brittle]], inorganic, nonmetallic material, usually made from a materal, such as [[c/_clay|clay]], then firing it at a high tempature.**
+- **A [[h/_hard|hard]], [[b/_brittle|brittle]], [[i/_inorganic|inorganic]], [[n/_nonmetallic|nonmetallic]] [[m/_material|material]], usually [[m/_made|made]] from a materal, such as [[c/_clay|clay]], then [[f/_firing|firing]] it at a [[h/_high|high]] tempature.**
 	- _Example: Joan made the dish from ceramic._
-- **An object made of this material**
+- **An [[o/_object|object]] [[m/_made|made]] of this [[m/_material|material]]**
 	- _Example: Joe had dozens of ceramics in his apartment._
 ---
 #noun
-- **The [[a/_art|art]] or science of making [[c/_ceramic|ceramic]] objects**
-- **[[c/_ceramic|Ceramic]] objects as a group**
+- **The [[a/_art|art]] or science of [[m/_making|making]] [[c/_ceramic|ceramic]] [[o/_objects|objects]]**
+- **[[c/_ceramic|Ceramic]] [[o/_objects|objects]] as a [[g/_group|group]]**
 ---
 ---

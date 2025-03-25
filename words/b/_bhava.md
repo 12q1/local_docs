@@ -1,6 +1,6 @@
 # Bhava
 ---
 #noun
-- **A feeling or mood, [[e/_especially|especially]] one of maturation that [[a/_arises|arises]] from understanding of the [[c/_continuity|continuity]] of life and [[d/_death|death]] (reincarnation).**
+- **A [[f/_feeling|feeling]] or [[m/_mood|mood]], [[e/_especially|especially]] [[o/_one|one]] of [[m/_maturation|maturation]] that [[a/_arises|arises]] from understanding of the [[c/_continuity|continuity]] of [[l/_life|life]] and [[d/_death|death]] (reincarnation).**
 ---
 ---

@@ -1,7 +1,7 @@
 # Chasm
 ---
 #noun
-- **A [[d/_deep|deep]], steep-sided rift, gap or fissure; a gorge or [[a/_abyss|abyss]].**
-- **(by extension) A large [[d/_difference|difference]] of opinion.**
+- **A [[d/_deep|deep]], steep-sided rift, [[g/_gap|gap]] or [[f/_fissure|fissure]]; a [[g/_gorge|gorge]] or [[a/_abyss|abyss]].**
+- **(by [[e/_extension|extension]]) A [[l/_large|large]] [[d/_difference|difference]] of [[o/_opinion|opinion]].**
 ---
 ---

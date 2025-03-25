@@ -1,22 +1,22 @@
 # Bled
 ---
 #verb
-- **(of a person or [[a/_animal|animal]]) To lose [[b/_blood|blood]] through an injured [[b/_blood|blood]] vessel.**
+- **(of a person or [[a/_animal|animal]]) To [[l/_lose|lose]] [[b/_blood|blood]] through an [[i/_injured|injured]] [[b/_blood|blood]] vessel.**
 	- _Example: If her nose bleeds, try to use ice._
-- **To let or [[d/_draw|draw]] [[b/_blood|blood]] from.**
-- **To take large [[a/_amounts|amounts]] of money from.**
-- **To steadily lose (something vital).**
+- **To [[l/_let|let]] or [[d/_draw|draw]] [[b/_blood|blood]] from.**
+- **To take [[l/_large|large]] [[a/_amounts|amounts]] of [[m/_money|money]] from.**
+- **To steadily [[l/_lose|lose]] (something vital).**
 	- _Example: The company was bleeding talent._
-- **(of an ink or [[d/_dye|dye]]) To spread from the intended location and stain the surrounding [[c/_cloth|cloth]] or paper.**
+- **(of an [[i/_ink|ink]] or [[d/_dye|dye]]) To spread from the [[i/_intended|intended]] [[l/_location|location]] and stain the surrounding [[c/_cloth|cloth]] or paper.**
 	- _Example: Ink traps counteract bleeding._
-- **To remove [[a/_air|air]] [[b/_bubbles|bubbles]] from a pipe [[c/_containing|containing]] other fluids.**
-- **To [[b/_bleed|bleed]] on; to make [[b/_bloody|bloody]].**
-- **To show one's group loyalty by showing (its [[a/_associated|associated]] [[c/_color|color]]) in one's [[b/_blood|blood]].**
+- **To remove [[a/_air|air]] [[b/_bubbles|bubbles]] from a pipe [[c/_containing|containing]] [[o/_other|other]] [[f/_fluids|fluids]].**
+- **To [[b/_bleed|bleed]] on; to [[m/_make|make]] [[b/_bloody|bloody]].**
+- **To show [[o/_one|one]]'s [[g/_group|group]] [[l/_loyalty|loyalty]] by showing ([[i/_its|its]] [[a/_associated|associated]] [[c/_color|color]]) in [[o/_one|one]]'s [[b/_blood|blood]].**
 	- _Example: He was a devoted Vikings fan: he bled purple._
-- **To lose sap, gum, or juice.**
+- **To [[l/_lose|lose]] sap, [[g/_gum|gum]], or [[j/_juice|juice]].**
 	- _Example: A tree or a vine bleeds when tapped or wounded._
-- **To issue forth, or [[d/_drop|drop]], like [[b/_blood|blood]] from an incision.**
-- **(of a phonological rule) To [[d/_destroy|destroy]] the [[e/_environment|environment]] where [[a/_another|another]] phonological rule would have [[a/_applied|applied]].**
+- **To [[i/_issue|issue]] [[f/_forth|forth]], or [[d/_drop|drop]], [[l/_like|like]] [[b/_blood|blood]] from an [[i/_incision|incision]].**
+- **(of a phonological rule) To [[d/_destroy|destroy]] the [[e/_environment|environment]] where [[a/_another|another]] phonological rule would [[h/_have|have]] [[a/_applied|applied]].**
 	- _Example: Labialization bleeds palatalization._
 ---
 ---

@@ -1,0 +1,6 @@
+# Nonstimulating
+---
+#adjective
+- **Not stimulating.**
+---
+---

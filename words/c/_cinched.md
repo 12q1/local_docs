@@ -5,6 +5,6 @@
 - **To tighten [[d/_down|down]].**
 ---
 #verb
-- **In the game of [[c/_cinch|cinch]], to protect (a trick) by playing a higher trump than the five.**
+- **In the [[g/_game|game]] of [[c/_cinch|cinch]], to protect (a trick) by playing a [[h/_higher|higher]] trump than the [[f/_five|five]].**
 ---
 ---

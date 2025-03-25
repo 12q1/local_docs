@@ -1,6 +1,6 @@
 # Centenarians
 ---
 #noun
-- **One who is at least 100 years old. One who is past their tenth [[d/_decade|decade]].**
+- **[[o/_one|One]] who is at [[l/_least|least]] 100 [[y/_years|years]] [[o/_old|old]]. [[o/_one|One]] who is past their tenth [[d/_decade|decade]].**
 ---
 ---

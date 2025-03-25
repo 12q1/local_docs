@@ -1,13 +1,13 @@
 # Adumbrated
 ---
 #verb
-- **To foreshadow vaguely.**
-- **To give a vague outline.**
-- **To obscure or overshadow.**
+- **To [[f/_foreshadow|foreshadow]] vaguely.**
+- **To [[g/_give|give]] a vague [[o/_outline|outline]].**
+- **To [[o/_obscure|obscure]] or [[o/_overshadow|overshadow]].**
 ---
 #adjective
-- **Obscured.**
-- **Foreshadowed.**
-- **[[d/_depicted|Depicted]] on a shield as an outline instead of a solid figure.**
+- **[[o/_obscured|Obscured]].**
+- **[[f/_foreshadowed|Foreshadowed]].**
+- **[[d/_depicted|Depicted]] on a shield as an [[o/_outline|outline]] [[i/_instead|instead]] of a solid [[f/_figure|figure]].**
 ---
 ---

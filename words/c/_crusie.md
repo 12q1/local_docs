@@ -1,6 +1,6 @@
 # Crusie
 ---
 #noun
-- **An oil-[[b/_burning|burning]] lamp.**
+- **An [[o/_oil|oil]]-[[b/_burning|burning]] [[l/_lamp|lamp]].**
 ---
 ---

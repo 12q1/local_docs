@@ -1,8 +1,8 @@
 # Dapperest
 ---
 #adjective
-- **Neat, trim.**
-- **Stylishly [[d/_dressed|dressed]], neatly [[d/_dressed|dressed]], spiffy.**
-- **Quick; little and [[a/_active|active]].**
+- **[[n/_neat|Neat]], trim.**
+- **Stylishly [[d/_dressed|dressed]], [[n/_neatly|neatly]] [[d/_dressed|dressed]], spiffy.**
+- **Quick; [[l/_little|little]] and [[a/_active|active]].**
 ---
 ---

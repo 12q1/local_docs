@@ -1,12 +1,12 @@
 # Anastomosed
 ---
 #verb
-- **(of streams and rivers, [[b/_blood|blood]] vessels, [[e/_etc|etc]]) To join (two or more things) by [[a/_anastomosis|anastomosis]], to interconnect forming a network.**
-- **(of rivers, [[b/_blood|blood]] vessels, [[e/_etc|etc]]) To join by [[a/_anastomosis|anastomosis]].**
+- **(of streams and rivers, [[b/_blood|blood]] vessels, [[e/_etc|etc]]) To [[j/_join|join]] (two or [[m/_more|more]] things) by [[a/_anastomosis|anastomosis]], to [[i/_interconnect|interconnect]] [[f/_forming|forming]] a [[n/_network|network]].**
+- **(of rivers, [[b/_blood|blood]] vessels, [[e/_etc|etc]]) To [[j/_join|join]] by [[a/_anastomosis|anastomosis]].**
 ---
 ### Synonyms
 - [[i/_interconnect|interconnect]], [[i/_interjoin|interjoin]]
 #adjective
-- **Joined by [[a/_anastomosis|anastomosis]]**
+- **[[j/_joined|Joined]] by [[a/_anastomosis|anastomosis]]**
 ---
 ---

@@ -1,9 +1,9 @@
 # Biology
 ---
 #noun
-- **The study of [[a/_all|all]] life or living matter.**
-- **The living organisms of a particular region.**
-- **The structure, function, and [[b/_behavior|behavior]] of an organism or type of organism.**
+- **The study of [[a/_all|all]] [[l/_life|life]] or [[l/_living|living]] [[m/_matter|matter]].**
+- **The [[l/_living|living]] [[o/_organisms|organisms]] of a particular region.**
+- **The structure, [[f/_function|function]], and [[b/_behavior|behavior]] of an [[o/_organism|organism]] or type of [[o/_organism|organism]].**
 	- _Example: the biology of the whale_
 ---
 ### Synonyms

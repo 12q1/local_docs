@@ -5,10 +5,10 @@
 ---
 #adjective
 - **Subject to, or [[c/_causing|causing]] [[d/_doubt|doubt]].**
-- **Experiencing or showing [[d/_doubt|doubt]], sceptical.**
-- **Undecided or of uncertain outcome.**
-- **Fearsome, [[d/_dreadful|dreadful]].**
-- **Improbable or unlikely.**
+- **[[e/_experiencing|Experiencing]] or showing [[d/_doubt|doubt]], sceptical.**
+- **Undecided or of uncertain [[o/_outcome|outcome]].**
+- **[[f/_fearsome|Fearsome]], [[d/_dreadful|dreadful]].**
+- **[[i/_improbable|Improbable]] or unlikely.**
 - **Suspicious, or of [[d/_dubious|dubious]] [[c/_character|character]].**
 - **Unclear or unreliable.**
 ---

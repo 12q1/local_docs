@@ -1,6 +1,6 @@
 # Crowbait
 ---
 #noun
-- **An old, [[e/_emaciated|emaciated]] horse.**
+- **An [[o/_old|old]], [[e/_emaciated|emaciated]] [[h/_horse|horse]].**
 ---
 ---

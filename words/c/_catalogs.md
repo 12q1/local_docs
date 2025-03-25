@@ -1,18 +1,18 @@
 # Catalogs
 ---
 #noun
-- **A systematic list of names, [[b/_books|books]], pictures [[e/_etc|etc]].**
-- **A [[c/_complete|complete]] (usually [[a/_alphabetical|alphabetical]]) list of items.**
-- **A list of [[a/_all|all]] the publications in a library.**
-- **A retailer's magazine [[d/_detailing|detailing]] the products they sell, [[a/_allowing|allowing]] the reader to order them for [[d/_delivery|delivery]].**
-- **A [[b/_book|book]] printed periodically by a [[c/_college|college]], university, or other institution that gives a [[d/_definitive|definitive]] [[d/_description|description]] of the institution, its history, [[c/_courses|courses]] and [[d/_degrees|degrees]] offered, [[e/_etc|etc]].**
-- **A [[d/_directory|directory]] listing.**
-- **A [[c/_complete|complete]] list of a recording [[a/_artist|artist]]'s or a [[c/_composer|composer]]'s songs.**
+- **A systematic [[l/_list|list]] of [[n/_names|names]], [[b/_books|books]], pictures [[e/_etc|etc]].**
+- **A [[c/_complete|complete]] (usually [[a/_alphabetical|alphabetical]]) [[l/_list|list]] of [[i/_items|items]].**
+- **A [[l/_list|list]] of [[a/_all|all]] the publications in a [[l/_library|library]].**
+- **A retailer's [[m/_magazine|magazine]] [[d/_detailing|detailing]] the products they sell, [[a/_allowing|allowing]] the reader to [[o/_order|order]] them for [[d/_delivery|delivery]].**
+- **A [[b/_book|book]] printed periodically by a [[c/_college|college]], university, or [[o/_other|other]] [[i/_institution|institution]] that [[g/_gives|gives]] a [[d/_definitive|definitive]] [[d/_description|description]] of the [[i/_institution|institution]], [[i/_its|its]] [[h/_history|history]], [[c/_courses|courses]] and [[d/_degrees|degrees]] [[o/_offered|offered]], [[e/_etc|etc]].**
+- **A [[d/_directory|directory]] [[l/_listing|listing]].**
+- **A [[c/_complete|complete]] [[l/_list|list]] of a recording [[a/_artist|artist]]'s or a [[c/_composer|composer]]'s songs.**
 ---
 #verb
-- **To put into a [[c/_catalogue|catalogue]].**
-- **To make a [[c/_catalogue|catalogue]] of.**
-- **To [[a/_add|add]] items ([[e/_e|e]].g. [[b/_books|books]]) to an existing [[c/_catalogue|catalogue]].**
+- **To put [[i/_into|into]] a [[c/_catalogue|catalogue]].**
+- **To [[m/_make|make]] a [[c/_catalogue|catalogue]] of.**
+- **To [[a/_add|add]] [[i/_items|items]] ([[e/_e|e]].[[g/_g|g]]. [[b/_books|books]]) to an [[e/_existing|existing]] [[c/_catalogue|catalogue]].**
 ---
 ### Synonyms
 - [[l/_list|list]]

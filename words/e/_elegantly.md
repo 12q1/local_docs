@@ -1,6 +1,6 @@
 # Elegantly
 ---
 #adverb
-- **Gracefully, smoothly, and swiftly; with supreme style.**
+- **[[g/_gracefully|Gracefully]], smoothly, and swiftly; with supreme style.**
 ---
 ---

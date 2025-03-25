@@ -1,8 +1,8 @@
 # Craned
 ---
 #verb
-- **To extend (one's neck).**
-- **To raise or lower with, or as if with, a [[c/_crane|crane]].**
-- **To pull up [[b/_before|before]] a jump.**
+- **To [[e/_extend|extend]] ([[o/_one|one]]'s [[n/_neck|neck]]).**
+- **To raise or [[l/_lower|lower]] with, or as [[i/_if|if]] with, a [[c/_crane|crane]].**
+- **To pull up [[b/_before|before]] a [[j/_jump|jump]].**
 ---
 ---

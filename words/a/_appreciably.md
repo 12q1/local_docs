@@ -1,6 +1,6 @@
 # Appreciably
 ---
 #adverb
-- **In an [[a/_appreciable|appreciable]] manner; to a large extent; [[c/_considerably|considerably]].**
+- **In an [[a/_appreciable|appreciable]] [[m/_manner|manner]]; to a [[l/_large|large]] [[e/_extent|extent]]; [[c/_considerably|considerably]].**
 ---
 ---

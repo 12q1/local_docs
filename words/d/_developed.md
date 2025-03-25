@@ -5,24 +5,24 @@
 	- _Example: Let's see how things develop and then make our decision._
 - **To progress through a sequence of stages.**
 	- _Example: Isabel developed from a tropical depression to a tropical storm to a hurricane.   An embryo develops into a fetus and then into an infant._
-- **To [[a/_advance|advance]]; to further; to promote the growth of.**
+- **To [[a/_advance|advance]]; to [[f/_further|further]]; to promote the [[g/_growth|growth]] of.**
 - **To [[c/_create|create]].**
 	- _Example: I need to develop a plan for the next three weeks._
-- **To [[b/_bring|bring]] out images latent in photographic film.**
+- **To [[b/_bring|bring]] [[o/_out|out]] [[i/_images|images]] [[l/_latent|latent]] in photographic [[f/_film|film]].**
 	- _Example: Please develop this roll of film._
-- **To [[a/_acquire|acquire]] something usually over a period of time.**
+- **To [[a/_acquire|acquire]] something usually [[o/_over|over]] a period of time.**
 	- _Example: I have been in England enough to develop a British accent._
-- **To place one's pieces [[a/_actively|actively]].**
+- **To place [[o/_one|one]]'s pieces [[a/_actively|actively]].**
 	- _Example: I need to develop my white-square bishop._
-- **To [[c/_cause|cause]] a [[b/_ball|ball]] to [[b/_become|become]] more open and [[a/_available|available]] to be played on later. Usually by moving it [[a/_away|away]] from the [[c/_cushion|cushion]], or by opening a pack.**
-- **To [[c/_change|change]] the form of (an [[a/_algebraic|algebraic]] expression, [[e/_etc|etc]].) by executing [[c/_certain|certain]] indicated operations without [[c/_changing|changing]] the value.**
+- **To [[c/_cause|cause]] a [[b/_ball|ball]] to [[b/_become|become]] [[m/_more|more]] [[o/_open|open]] and [[a/_available|available]] to be played on [[l/_later|later]]. Usually by [[m/_moving|moving]] it [[a/_away|away]] from the [[c/_cushion|cushion]], or by [[o/_opening|opening]] a [[p/_pack|pack]].**
+- **To [[c/_change|change]] the [[f/_form|form]] of (an [[a/_algebraic|algebraic]] [[e/_expression|expression]], [[e/_etc|etc]].) by [[e/_executing|executing]] [[c/_certain|certain]] [[i/_indicated|indicated]] [[o/_operations|operations]] without [[c/_changing|changing]] the value.**
 ---
 #adjective
 - **(said of a [[c/_country|country]]) Not primitive; not third-world.**
-- **Mature.**
-- **[[c/_containing|Containing]] man-made structures such as roads, sewers, [[e/_electric|electric]] lines, [[b/_buildings|buildings]], and so on.**
-- **Having useful or necessary infrastructure.**
-- **[[a/_advanced|Advanced]], fully formed.**
+- **[[m/_mature|Mature]].**
+- **[[c/_containing|Containing]] [[m/_man|man]]-[[m/_made|made]] structures such as roads, sewers, [[e/_electric|electric]] [[l/_lines|lines]], [[b/_buildings|buildings]], and so on.**
+- **[[h/_having|Having]] useful or [[n/_necessary|necessary]] [[i/_infrastructure|infrastructure]].**
+- **[[a/_advanced|Advanced]], [[f/_fully|fully]] [[f/_formed|formed]].**
 ---
 ### Synonyms
 - [[a/_adult|adult]], [[b/_big|big]], [[a/_advanced|advanced]], [[f/_first-world|first-world]], [[i/_industrialised|industrialised]]

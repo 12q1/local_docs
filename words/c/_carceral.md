@@ -1,6 +1,6 @@
 # Carceral
 ---
 #adjective
-- **Of or pertaining to imprisonment or a prison.**
+- **Of or pertaining to [[i/_imprisonment|imprisonment]] or a prison.**
 ---
 ---

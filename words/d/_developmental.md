@@ -1,7 +1,7 @@
 # Developmental
 ---
 #noun
-- **A trainee flight [[c/_controller|controller]].**
+- **A trainee [[f/_flight|flight]] [[c/_controller|controller]].**
 ---
 #adjective
 - **Related to [[d/_development|development]].**

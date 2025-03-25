@@ -1,6 +1,6 @@
 # Cembalos
 ---
 #noun
-- **A harpsichord.**
+- **A [[h/_harpsichord|harpsichord]].**
 ---
 ---

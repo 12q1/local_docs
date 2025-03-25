@@ -1,6 +1,6 @@
 # Dalasis
 ---
 #noun
-- **The [[c/_currency|currency]] of the Gambia, [[d/_divided|divided]] into 100 [[b/_bututs|bututs]].**
+- **The [[c/_currency|currency]] of the [[g/_gambia|Gambia]], [[d/_divided|divided]] [[i/_into|into]] 100 [[b/_bututs|bututs]].**
 ---
 ---

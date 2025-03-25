@@ -1,7 +1,7 @@
 # Asexually
 ---
 #adverb
-- **In an [[a/_asexual|asexual]] manner; without having sex.**
+- **In an [[a/_asexual|asexual]] [[m/_manner|manner]]; without [[h/_having|having]] sex.**
 	- _Example: Amoebas reproduce asexually._
 ---
 ---

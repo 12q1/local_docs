@@ -1,7 +1,7 @@
 # Bivalved
 ---
 #adjective
-- **Having two valves.**
+- **[[h/_having|Having]] two valves.**
 	- _Example: Oysters are bivalved._
 ---
 ### Synonyms

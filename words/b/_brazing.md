@@ -1,10 +1,10 @@
 # Brazing
 ---
 #verb
-- **To join two metal pieces, without melting them, using heat and [[d/_diffusion|diffusion]] of a jointing [[a/_alloy|alloy]] of [[c/_capillary|capillary]] thickness.**
-- **To [[b/_burn|burn]] or temper in fire.**
+- **To [[j/_join|join]] two [[m/_metal|metal]] pieces, without [[m/_melting|melting]] them, using [[h/_heat|heat]] and [[d/_diffusion|diffusion]] of a [[j/_jointing|jointing]] [[a/_alloy|alloy]] of [[c/_capillary|capillary]] thickness.**
+- **To [[b/_burn|burn]] or temper in [[f/_fire|fire]].**
 ---
 #noun
-- **A method of joining metals by using heat and a filler**
+- **A [[m/_method|method]] of [[j/_joining|joining]] [[m/_metals|metals]] by using [[h/_heat|heat]] and a [[f/_filler|filler]]**
 ---
 ---

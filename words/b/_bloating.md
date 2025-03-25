@@ -2,11 +2,11 @@
 ---
 #verb
 - **To [[c/_cause|cause]] to [[b/_become|become]] [[d/_distended|distended]].**
-- **(veterinary medicine) to get an overdistended rumen, talking of a ruminant.**
-- **To fill soft substance with gas, water, [[e/_etc|etc]].; to [[c/_cause|cause]] to swell.**
+- **(veterinary [[m/_medicine|medicine]]) to [[g/_get|get]] an overdistended rumen, talking of a ruminant.**
+- **To [[f/_fill|fill]] soft substance with [[g/_gas|gas]], water, [[e/_etc|etc]].; to [[c/_cause|cause]] to swell.**
 - **To [[b/_become|become]] [[d/_distended|distended]]; to swell up.**
-- **To fill with vanity or [[c/_conceit|conceit]].**
-- **To preserve by slightly salting and lightly smoking.**
+- **To [[f/_fill|fill]] with vanity or [[c/_conceit|conceit]].**
+- **To preserve by slightly salting and [[l/_lightly|lightly]] smoking.**
 	- _Example: bloated herring_
 ---
 #noun

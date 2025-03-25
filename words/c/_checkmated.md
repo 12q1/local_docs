@@ -1,12 +1,12 @@
 # Checkmated
 ---
 #verb
-- **To put the king of an opponent into [[c/_checkmate|checkmate]].**
+- **To put the [[k/_king|king]] of an [[o/_opponent|opponent]] [[i/_into|into]] [[c/_checkmate|checkmate]].**
 	- _Example: That jerk checkmated me in four moves!_
-- **(by extension) To place in a losing situation that has no [[e/_escape|escape]].**
+- **(by [[e/_extension|extension]]) To place in a [[l/_losing|losing]] situation that [[h/_has|has]] [[n/_no|no]] [[e/_escape|escape]].**
 ---
 #adjective
-- **Having a king in [[c/_check|check]] with no possible move to [[e/_escape|escape]] [[c/_check|check]], thus losing the game.**
-- **Suffering a personal loss with no obvious [[c/_chance|chance]] to [[e/_escape|escape]] the loss.**
+- **[[h/_having|Having]] a [[k/_king|king]] in [[c/_check|check]] with [[n/_no|no]] possible [[m/_move|move]] to [[e/_escape|escape]] [[c/_check|check]], thus [[l/_losing|losing]] the [[g/_game|game]].**
+- **Suffering a personal [[l/_loss|loss]] with [[n/_no|no]] [[o/_obvious|obvious]] [[c/_chance|chance]] to [[e/_escape|escape]] the [[l/_loss|loss]].**
 ---
 ---

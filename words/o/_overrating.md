@@ -1,0 +1,6 @@
+# Overrating
+---
+#verb
+- **To [[e/_esteem|esteem]] too [[h/_highly|highly]]; to [[g/_give|give]] [[g/_greater|greater]] praise than [[d/_due|due]].**
+---
+---

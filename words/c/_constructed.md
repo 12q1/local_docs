@@ -1,11 +1,11 @@
 # Constructed
 ---
 #verb
-- **To [[b/_build|build]] or form (something) by [[a/_assembling|assembling]] parts.**
+- **To [[b/_build|build]] or [[f/_form|form]] (something) by [[a/_assembling|assembling]] parts.**
 	- _Example: We constructed the radio from spares._
-- **To [[b/_build|build]] (a sentence, an [[a/_argument|argument]], [[e/_etc|etc]].) by [[a/_arranging|arranging]] words or ideas.**
+- **To [[b/_build|build]] (a sentence, an [[a/_argument|argument]], [[e/_etc|etc]].) by [[a/_arranging|arranging]] words or [[i/_ideas|ideas]].**
 	- _Example: A sentence may be constructed with a subject, verb and object._
-- **To [[d/_draw|draw]] (a geometric figure) by following precise specifications and using geometric tools and techniques.**
+- **To [[d/_draw|draw]] (a [[g/_geometric|geometric]] [[f/_figure|figure]]) by [[f/_following|following]] precise specifications and using [[g/_geometric|geometric]] tools and techniques.**
 	- _Example: Construct a circle that touches each vertex of the given triangle._
 ---
 ### Synonyms

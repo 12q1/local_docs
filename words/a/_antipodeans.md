@@ -1,6 +1,6 @@
 # Antipodeans
 ---
 #noun
-- **An inhabitant of the [[a/_antipodes|antipodes]].**
+- **An [[i/_inhabitant|inhabitant]] of the [[a/_antipodes|antipodes]].**
 ---
 ---

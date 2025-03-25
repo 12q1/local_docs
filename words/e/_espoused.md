@@ -1,7 +1,7 @@
 # Espoused
 ---
 #verb
-- **To [[b/_become|become]]/get married to.**
-- **To [[a/_accept|accept]], support, or take on as one’s own (an idea or a [[c/_cause|cause]]).**
+- **To [[b/_become|become]]/[[g/_get|get]] [[m/_married|married]] to.**
+- **To [[a/_accept|accept]], support, or take on as [[o/_one|one]]’s [[o/_own|own]] (an [[i/_idea|idea]] or a [[c/_cause|cause]]).**
 ---
 ---

@@ -1,6 +1,6 @@
 # Esophagitis
 ---
 #noun
-- **Inflammation of the oesophagus.**
+- **[[i/_inflammation|Inflammation]] of the [[o/_oesophagus|oesophagus]].**
 ---
 ---

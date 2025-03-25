@@ -1,7 +1,7 @@
 # Chattels
 ---
 #noun
-- **Tangible, movable property.**
+- **Tangible, [[m/_movable|movable]] property.**
 - **A slave.**
 ---
 ---

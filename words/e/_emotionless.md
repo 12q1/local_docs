@@ -1,6 +1,6 @@
 # Emotionless
 ---
 #adjective
-- **Lacking [[e/_emotion|emotion]].**
+- **[[l/_lacking|Lacking]] [[e/_emotion|emotion]].**
 ---
 ---

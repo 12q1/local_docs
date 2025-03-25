@@ -1,7 +1,7 @@
 # Charmers
 ---
 #noun
-- **A [[c/_charming|charming]] person; one who [[c/_charms|charms]] or seduces; a smoothie.**
-- **An [[e/_enchanter|enchanter]] or magician.**
+- **A [[c/_charming|charming]] person; [[o/_one|one]] who [[c/_charms|charms]] or seduces; a smoothie.**
+- **An [[e/_enchanter|enchanter]] or [[m/_magician|magician]].**
 ---
 ---

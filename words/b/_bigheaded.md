@@ -1,6 +1,6 @@
 # Bigheaded
 ---
 #adjective
-- **[[a/_arrogant|Arrogant]], having an exaggerated perception of one's positive qualities.**
+- **[[a/_arrogant|Arrogant]], [[h/_having|having]] an [[e/_exaggerated|exaggerated]] perception of [[o/_one|one]]'s positive qualities.**
 ---
 ---

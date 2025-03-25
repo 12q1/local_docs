@@ -2,6 +2,6 @@
 ---
 #noun
 - **An [[a/_airedale|Airedale]] terrier.**
-- **A member of [[a/_aviation|aviation]] personnel.**
+- **A [[m/_member|member]] of [[a/_aviation|aviation]] personnel.**
 ---
 ---

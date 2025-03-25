@@ -1,7 +1,7 @@
 # Alchemists
 ---
 #noun
-- **One who practices [[a/_alchemy|alchemy]].**
-- **One who [[b/_blends|blends]] material or substances in the nature or supposed nature of [[a/_alchemy|alchemy]].**
+- **[[o/_one|One]] who practices [[a/_alchemy|alchemy]].**
+- **[[o/_one|One]] who [[b/_blends|blends]] [[m/_material|material]] or substances in the [[n/_nature|nature]] or supposed [[n/_nature|nature]] of [[a/_alchemy|alchemy]].**
 ---
 ---

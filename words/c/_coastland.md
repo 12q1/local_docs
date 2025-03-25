@@ -1,6 +1,6 @@
 # Coastland
 ---
 #noun
-- **[[c/_coastal|Coastal]] land**
+- **[[c/_coastal|Coastal]] [[l/_land|land]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Civics
 ---
 #noun
-- **The study of good [[c/_citizenship|citizenship]] and proper membership in a [[c/_community|community]].**
+- **The study of [[g/_good|good]] [[c/_citizenship|citizenship]] and proper [[m/_membership|membership]] in a [[c/_community|community]].**
 ---
 ---

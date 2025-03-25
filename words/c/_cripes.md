@@ -1,6 +1,6 @@
 # Cripes
 ---
 #interjection
-- **A mild [[c/_curse|curse]] or expression of surprise.**
+- **A [[m/_mild|mild]] [[c/_curse|curse]] or [[e/_expression|expression]] of surprise.**
 ---
 ---

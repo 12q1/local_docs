@@ -1,6 +1,6 @@
 # Ethoxyethane
 ---
 #noun
-- **(systematic name) [[d/_diethyl|diethyl]] [[e/_ether|ether]].**
+- **(systematic [[n/_name|name]]) [[d/_diethyl|diethyl]] [[e/_ether|ether]].**
 ---
 ---

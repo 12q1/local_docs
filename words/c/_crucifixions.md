@@ -1,10 +1,10 @@
 # Crucifixions
 ---
 #noun
-- **An execution by [[b/_being|being]] nailed or tied to an upright [[c/_cross|cross]] and left to hang there until [[d/_dead|dead]].**
+- **An [[e/_execution|execution]] by [[b/_being|being]] [[n/_nailed|nailed]] or tied to an upright [[c/_cross|cross]] and [[l/_left|left]] to [[h/_hang|hang]] there until [[d/_dead|dead]].**
 	- _Example: Rome used crucifixions as a deterrent, and standard for the 'vilest' crimes, such as slave rebellion._
-- **The military punishment of [[b/_being|being]] tied to a fixed object, often with the limbs in a stretched position.**
-- **An ordeal, terrible, [[e/_especially|especially]] malicious treatment imposed upon someone.**
+- **The [[m/_military|military]] punishment of [[b/_being|being]] tied to a [[f/_fixed|fixed]] [[o/_object|object]], [[o/_often|often]] with the [[l/_limbs|limbs]] in a stretched position.**
+- **An [[o/_ordeal|ordeal]], terrible, [[e/_especially|especially]] [[m/_malicious|malicious]] treatment [[i/_imposed|imposed]] upon someone.**
 	- _Example: The suspects' hostile interrogation amounted to a public crucifixion._
 ---
 ---

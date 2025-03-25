@@ -1,0 +1,6 @@
+# Lactoflavin
+---
+#noun
+- **Riboflavin**
+---
+---

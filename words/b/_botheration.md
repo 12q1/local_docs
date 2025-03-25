@@ -6,6 +6,6 @@
 ### Synonyms
 - [[a/_annoyance|annoyance]], [[p/_perplexity|perplexity]], [[v/_vexation|vexation]]
 #interjection
-- **An expression of [[a/_annoyance|annoyance]].**
+- **An [[e/_expression|expression]] of [[a/_annoyance|annoyance]].**
 ---
 ---

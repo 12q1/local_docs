@@ -1,7 +1,7 @@
 # Crura
 ---
 #noun
-- **The shin (tibia and fibula)**
-- **A leglike part; shank**
+- **The shin (tibia and [[f/_fibula|fibula]])**
+- **A [[l/_leglike|leglike]] part; shank**
 ---
 ---

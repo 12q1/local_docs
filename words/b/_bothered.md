@@ -1,11 +1,11 @@
 # Bothered
 ---
 #verb
-- **To [[a/_annoy|annoy]], to [[d/_disturb|disturb]], to irritate.**
+- **To [[a/_annoy|annoy]], to [[d/_disturb|disturb]], to [[i/_irritate|irritate]].**
 	- _Example: Would it bother you if I smoked?_
-- **To feel [[c/_care|care]] or [[a/_anxiety|anxiety]]; to make or take trouble; to be troublesome.**
+- **To [[f/_feel|feel]] [[c/_care|care]] or [[a/_anxiety|anxiety]]; to [[m/_make|make]] or take trouble; to be troublesome.**
 	- _Example: Why do I even bother to try?_
-- **To [[d/_do|do]] something which is of negligible inconvenience.**
+- **To [[d/_do|do]] something which is of [[n/_negligible|negligible]] [[i/_inconvenience|inconvenience]].**
 	- _Example: You didn't even bother to close the door._
 ---
 ### Synonyms

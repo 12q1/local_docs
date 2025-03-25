@@ -1,10 +1,10 @@
 # Bunched
 ---
 #verb
-- **To gather into a [[b/_bunch|bunch]].**
-- **To gather fabric into folds.**
-- **To form a [[b/_bunch|bunch]].**
-- **To be gathered together in folds**
+- **To [[g/_gather|gather]] [[i/_into|into]] a [[b/_bunch|bunch]].**
+- **To [[g/_gather|gather]] [[f/_fabric|fabric]] [[i/_into|into]] [[f/_folds|folds]].**
+- **To [[f/_form|form]] a [[b/_bunch|bunch]].**
+- **To be [[g/_gathered|gathered]] together in [[f/_folds|folds]]**
 - **To protrude or swell**
 ---
 ### Synonyms

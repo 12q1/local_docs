@@ -1,6 +1,6 @@
 # Directoire
 ---
 #propernoun
-- **The ruling executive of revolutionary France, from 1795-1799, or the period governed by this [[b/_body|body]].**
+- **The ruling [[e/_executive|executive]] of revolutionary [[f/_france|France]], from 1795-1799, or the period [[g/_governed|governed]] by this [[b/_body|body]].**
 ---
 ---

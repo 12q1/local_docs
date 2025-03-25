@@ -1,0 +1,38 @@
+# Matches
+---
+#noun
+- **A [[c/_competitive|competitive]] sporting [[e/_event|event]] such as a [[b/_boxing|boxing]] [[m/_meet|meet]], a [[b/_baseball|baseball]] [[g/_game|game]], or a [[c/_cricket|cricket]] [[m/_match|match]].**
+	- _Example: My local team are playing in a match against their arch-rivals today._
+- **[[a/_any|Any]] [[c/_contest|contest]] or trial of strength or skill, or to [[d/_determine|determine]] superiority.**
+- **Someone with a [[m/_measure|measure]] of an [[a/_attribute|attribute]] [[e/_equaling|equaling]] or [[e/_exceeding|exceeding]] the [[o/_object|object]] of [[c/_comparison|comparison]].**
+	- _Example: He knew he had met his match._
+- **A [[m/_marriage|marriage]].**
+- **A [[c/_candidate|candidate]] for [[m/_matrimony|matrimony]]; [[o/_one|one]] to be [[g/_gained|gained]] in [[m/_marriage|marriage]].**
+- **Suitability.**
+- **[[e/_equivalence|Equivalence]]; a state of [[c/_correspondence|correspondence]].**
+- **[[e/_equality|Equality]] of [[c/_conditions|conditions]] in [[c/_contest|contest]] or [[c/_competition|competition]].**
+- **A [[p/_pair|pair]] of [[i/_items|items]] or [[e/_entities|entities]] with [[m/_mutually|mutually]] suitable [[c/_characteristics|characteristics]].**
+	- _Example: The carpet and curtains are a match._
+- **An [[a/_agreement|agreement]] or [[c/_compact|compact]].**
+- **A perforated [[b/_board|board]], [[b/_block|block]] of plaster, [[h/_hardened|hardened]] sand, [[e/_etc|etc]]., in which a pattern is partly [[e/_embedded|embedded]] when a [[m/_mould|mould]] is [[m/_made|made]], for [[g/_giving|giving]] shape to the surfaces of separation [[b/_between|between]] the parts of the [[m/_mould|mould]].**
+---
+#verb
+- **To [[a/_agree|agree]]; to be [[e/_equal|equal]]; to [[c/_correspond|correspond]].**
+	- _Example: Their interests didn't match, so it took a long time to agree what to do together._
+- **To [[a/_agree|agree]] with; to be [[e/_equal|equal]] to; to [[c/_correspond|correspond]] to.**
+	- _Example: His interests didn't match her interests._
+- **To [[m/_make|make]] a successful [[m/_match|match]] or [[p/_pairing|pairing]].**
+	- _Example: They found out about his color-blindness when he couldn't match socks properly._
+- **To [[e/_equal|equal]] or [[e/_exceed|exceed]] in [[a/_achievement|achievement]].**
+	- _Example: She matched him at every turn: anything he could do, she could do as well or better._
+- **To unite in [[m/_marriage|marriage]], to [[m/_mate|mate]].**
+- **To [[f/_fit|fit]] together, or [[m/_make|make]] suitable for [[f/_fitting|fitting]] together; specifically, to [[f/_furnish|furnish]] with a tongue and [[g/_groove|groove]] at the [[e/_edges|edges]].**
+	- _Example: to match boards_
+---
+#noun
+- **A [[d/_device|device]] [[m/_made|made]] of wood or paper, at the tip [[c/_coated|coated]] with [[c/_chemicals|chemicals]] that [[i/_ignite|ignite]] with the [[f/_friction|friction]] of [[b/_being|being]] [[d/_dragged|dragged]] (struck) [[a/_against|against]] a rough [[d/_dry|dry]] surface.**
+	- _Example: He struck a match and lit his cigarette._
+---
+### Synonyms
+- 
+---

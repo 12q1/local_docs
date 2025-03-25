@@ -1,6 +1,6 @@
 # Clerkess
 ---
 #noun
-- **A female [[c/_clerk|clerk]].**
+- **A [[f/_female|female]] [[c/_clerk|clerk]].**
 ---
 ---

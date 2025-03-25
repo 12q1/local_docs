@@ -1,11 +1,11 @@
 # Bonzer
 ---
 #noun
-- **An excellent person or thing.**
+- **An [[e/_excellent|excellent]] person or thing.**
 ---
 ### Synonyms
 - [[b/_bottler|bottler]], [[r/_ripper|ripper]]
 #adjective
-- **Remarkable; wonderful; excellent; terrific.**
+- **Remarkable; wonderful; [[e/_excellent|excellent]]; terrific.**
 ---
 ---

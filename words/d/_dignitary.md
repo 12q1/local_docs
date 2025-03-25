@@ -1,7 +1,7 @@
 # Dignitary
 ---
 #noun
-- **An important or influential person, or one of high rank or position.**
+- **An [[i/_important|important]] or [[i/_influential|influential]] person, or [[o/_one|one]] of [[h/_high|high]] rank or position.**
 ---
 #adjective
 - **Relating to [[d/_dignity|dignity]].**

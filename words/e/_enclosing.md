@@ -1,9 +1,9 @@
 # Enclosing
 ---
 #verb
-- **To surround with a wall, fence, [[e/_etc|etc]].**
+- **To surround with a wall, [[f/_fence|fence]], [[e/_etc|etc]].**
 	- _Example: to enclose lands_
-- **To insert into a [[c/_container|container]], usually an [[e/_envelope|envelope]] or package**
+- **To [[i/_insert|insert]] [[i/_into|into]] a [[c/_container|container]], usually an [[e/_envelope|envelope]] or [[p/_package|package]]**
 	- _Example: Please enclose a stamped self-addressed envelope if you require a reply._
 ---
 ### Synonyms

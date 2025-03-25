@@ -1,6 +1,6 @@
 # Anthropophagi
 ---
 #noun
-- **A man-[[e/_eater|eater]]; a [[c/_cannibal|cannibal]].**
+- **A [[m/_man|man]]-[[e/_eater|eater]]; a [[c/_cannibal|cannibal]].**
 ---
 ---

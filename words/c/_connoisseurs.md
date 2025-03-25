@@ -1,7 +1,7 @@
 # Connoisseurs
 ---
 #noun
-- **A specialist in a given field whose opinion is highly valued, [[e/_especially|especially]] in one of the fine [[a/_arts|arts]] or in matters of taste**
+- **A specialist in a [[g/_given|given]] [[f/_field|field]] whose [[o/_opinion|opinion]] is [[h/_highly|highly]] valued, [[e/_especially|especially]] in [[o/_one|one]] of the [[f/_fine|fine]] [[a/_arts|arts]] or in [[m/_matters|matters]] of taste**
 ---
 ### Synonyms
 - [[c/_cognoscente|cognoscente]]

@@ -2,8 +2,8 @@
 ---
 #verb
 - **To silence.**
-- **To make stupid.**
+- **To [[m/_make|make]] stupid.**
 - **To represent as stupid.**
-- **To reduce the intellectual [[d/_demands|demands]] of.**
+- **To reduce the [[i/_intellectual|intellectual]] [[d/_demands|demands]] of.**
 ---
 ---

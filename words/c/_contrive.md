@@ -1,9 +1,9 @@
 # Contrive
 ---
 #verb
-- **To invent by an exercise of ingenuity; to [[d/_devise|devise]]**
-- **To invent, to make [[d/_devices|devices]]; to form [[d/_designs|designs]] [[e/_especially|especially]] by improvisation.**
-- **To project, [[c/_cast|cast]], or set forth, as in a projection of light.**
+- **To [[i/_invent|invent]] by an [[e/_exercise|exercise]] of [[i/_ingenuity|ingenuity]]; to [[d/_devise|devise]]**
+- **To [[i/_invent|invent]], to [[m/_make|make]] [[d/_devices|devices]]; to [[f/_form|form]] [[d/_designs|designs]] [[e/_especially|especially]] by [[i/_improvisation|improvisation]].**
+- **To project, [[c/_cast|cast]], or set [[f/_forth|forth]], as in a projection of [[l/_light|light]].**
 - **To spend (time, or a period).**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Cenobium
 ---
 #noun
-- **A monastery, a monastic [[c/_community|community]].**
+- **A [[m/_monastery|monastery]], a [[m/_monastic|monastic]] [[c/_community|community]].**
 ---
 ---

@@ -1,18 +1,18 @@
 # Anointed
 ---
 #verb
-- **To smear or rub over with oil or an unctuous substance; [[a/_also|also]], to spread over, as oil.**
-- **To [[a/_apply|apply]] oil to or to pour oil upon, [[e/_etc|etc]]., as a sacred rite, [[e/_especially|especially]] for [[c/_consecration|consecration]].**
-- **To [[c/_choose|choose]] or nominate somebody for a leading or otherwise important position, [[e/_especially|especially]] formally or officially, or as an intended successor.**
-- **To mark somebody as an official ruler, [[e/_especially|especially]] a king or queen, as a part of a religious [[c/_ceremony|ceremony]].**
+- **To smear or rub [[o/_over|over]] with [[o/_oil|oil]] or an unctuous substance; [[a/_also|also]], to spread [[o/_over|over]], as [[o/_oil|oil]].**
+- **To [[a/_apply|apply]] [[o/_oil|oil]] to or to pour [[o/_oil|oil]] upon, [[e/_etc|etc]]., as a sacred rite, [[e/_especially|especially]] for [[c/_consecration|consecration]].**
+- **To [[c/_choose|choose]] or [[n/_nominate|nominate]] somebody for a [[l/_leading|leading]] or [[o/_otherwise|otherwise]] [[i/_important|important]] position, [[e/_especially|especially]] [[f/_formally|formally]] or [[o/_officially|officially]], or as an [[i/_intended|intended]] successor.**
+- **To [[m/_mark|mark]] somebody as an [[o/_official|official]] ruler, [[e/_especially|especially]] a [[k/_king|king]] or queen, as a part of a religious [[c/_ceremony|ceremony]].**
 ---
 ### Synonyms
 - [[s/_salve|salve]]
 #noun
-- **A person who has [[b/_been|been]] [[a/_anointed|anointed]], [[e/_especially|especially]] for religious reasons**
+- **A person who [[h/_has|has]] [[b/_been|been]] [[a/_anointed|anointed]], [[e/_especially|especially]] for religious reasons**
 ---
 #adjective
-- **Having undergone the process of [[a/_anointing|anointing]].**
+- **[[h/_having|Having]] undergone the process of [[a/_anointing|anointing]].**
 - **Utter; thorough; [[e/_eminent|eminent]].**
 ---
 ---

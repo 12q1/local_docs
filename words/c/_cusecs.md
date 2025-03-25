@@ -1,6 +1,6 @@
 # Cusecs
 ---
 #noun
-- **A measure of the rate of flow of fluid, [[e/_especially|especially]] through a pipeline, [[e/_equal|equal]] to one [[c/_cubic|cubic]] foot per second.**
+- **A [[m/_measure|measure]] of the rate of [[f/_flow|flow]] of [[f/_fluid|fluid]], [[e/_especially|especially]] through a pipeline, [[e/_equal|equal]] to [[o/_one|one]] [[c/_cubic|cubic]] [[f/_foot|foot]] per second.**
 ---
 ---

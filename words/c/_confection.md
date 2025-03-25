@@ -1,16 +1,16 @@
 # Confection
 ---
 #noun
-- **A food item prepared very sweet, frequently [[d/_decorated|decorated]] in fine [[d/_detail|detail]], and often preserved with sugar, such as a [[c/_candy|candy]], sweetmeat, fruit preserve, pastry, or [[c/_cake|cake]].**
+- **A [[f/_food|food]] [[i/_item|item]] prepared very sweet, [[f/_frequently|frequently]] [[d/_decorated|decorated]] in [[f/_fine|fine]] [[d/_detail|detail]], and [[o/_often|often]] preserved with sugar, such as a [[c/_candy|candy]], sweetmeat, [[f/_fruit|fruit]] preserve, pastry, or [[c/_cake|cake]].**
 	- _Example: The table was covered with all sorts of tempting confections._
-- **The [[a/_act|act]] or process of [[c/_confecting|confecting]]; the process of making, [[c/_compounding|compounding]], or preparing something.**
-- **The result of such a process; something made up or [[c/_confected|confected]]; a [[c/_concoction|concoction]].**
+- **The [[a/_act|act]] or process of [[c/_confecting|confecting]]; the process of [[m/_making|making]], [[c/_compounding|compounding]], or preparing something.**
+- **The result of such a process; something [[m/_made|made]] up or [[c/_confected|confected]]; a [[c/_concoction|concoction]].**
 	- _Example: The defense attorney maintained that the charges were a confection of the local police._
-- **An [[a/_artistic|artistic]], musical, or literary work taken as frivolous, [[a/_amusing|amusing]], or [[c/_contrived|contrived]]; a [[c/_composition|composition]] of a light nature.**
-- **Something, such as a garment or a [[d/_decoration|decoration]], seen as very [[e/_elaborate|elaborate]], [[d/_delicate|delicate]], or luxurious, usually [[a/_also|also]] seen as impractical or non-utilitarian.**
-- **A preparation of medicine sweetened with sugar, honey, syrup, or the like; an [[e/_electuary|electuary]].**
+- **An [[a/_artistic|artistic]], [[m/_musical|musical]], or [[l/_literary|literary]] work taken as [[f/_frivolous|frivolous]], [[a/_amusing|amusing]], or [[c/_contrived|contrived]]; a [[c/_composition|composition]] of a [[l/_light|light]] [[n/_nature|nature]].**
+- **Something, such as a [[g/_garment|garment]] or a [[d/_decoration|decoration]], seen as very [[e/_elaborate|elaborate]], [[d/_delicate|delicate]], or [[l/_luxurious|luxurious]], usually [[a/_also|also]] seen as [[i/_impractical|impractical]] or [[n/_non|non]]-utilitarian.**
+- **A preparation of [[m/_medicine|medicine]] sweetened with sugar, [[h/_honey|honey]], syrup, or the [[l/_like|like]]; an [[e/_electuary|electuary]].**
 ---
 #verb
-- **To make into a [[c/_confection|confection]], prepare as a [[c/_confection|confection]].**
+- **To [[m/_make|make]] [[i/_into|into]] a [[c/_confection|confection]], prepare as a [[c/_confection|confection]].**
 ---
 ---

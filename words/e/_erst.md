@@ -1,6 +1,6 @@
 # Erst
 ---
 #adjective
-- **First.**
+- **[[f/_first|First]].**
 ---
 ---

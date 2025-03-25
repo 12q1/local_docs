@@ -1,0 +1,6 @@
+# Paly
+---
+#adjective
+- **Vertically striped**
+---
+---

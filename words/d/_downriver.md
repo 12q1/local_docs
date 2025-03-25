@@ -1,7 +1,7 @@
 # Downriver
 ---
 #adjective
-- **[[c/_closer|Closer]] to the mouth of a river**
+- **[[c/_closer|Closer]] to the [[m/_mouth|mouth]] of a river**
 	- _Example: My house is downriver to his._
 ---
 #adverb

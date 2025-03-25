@@ -1,7 +1,7 @@
 # Argent
 ---
 #noun
-- **The metal silver.**
+- **The [[m/_metal|metal]] silver.**
 - **The white or silver tincture on a [[c/_coat|coat]] of [[a/_arms|arms]].**
 - **Whiteness; [[a/_anything|anything]] that is white.**
 ---

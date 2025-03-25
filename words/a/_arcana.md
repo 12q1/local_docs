@@ -1,10 +1,10 @@
 # Arcana
 ---
 #noun
-- **Specialized knowledge that is mysterious to the uninitiated.**
+- **Specialized [[k/_knowledge|knowledge]] that is [[m/_mysterious|mysterious]] to the uninitiated.**
 ---
 #noun
-- **A mystery or [[d/_deep|deep]] secret.**
+- **A [[m/_mystery|mystery]] or [[d/_deep|deep]] secret.**
 - **An [[e/_elixir|elixir]] or secret remedy.**
 ---
 ---

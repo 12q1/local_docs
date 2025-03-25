@@ -1,10 +1,10 @@
 # Aspersed
 ---
 #verb
-- **To sprinkle or scatter (liquid or [[d/_dust|dust]]).**
-- **To falsely or maliciously [[c/_charge|charge]] [[a/_another|another]]; to slander.**
+- **To sprinkle or scatter ([[l/_liquid|liquid]] or [[d/_dust|dust]]).**
+- **To [[f/_falsely|falsely]] or [[m/_maliciously|maliciously]] [[c/_charge|charge]] [[a/_another|another]]; to slander.**
 ---
 #adjective
-- **Having an indefinite number of small [[c/_charges|charges]] scattered over the surface.**
+- **[[h/_having|Having]] an [[i/_indefinite|indefinite]] [[n/_number|number]] of small [[c/_charges|charges]] scattered [[o/_over|over]] the surface.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Dissaving
 ---
 #verb
-- **To spend more than one [[e/_earns|earns]].**
+- **To spend [[m/_more|more]] than [[o/_one|one]] [[e/_earns|earns]].**
 ---
 ### Antonyms
 - [[s/_save|save]]

@@ -1,17 +1,17 @@
 # Arses
 ---
 #noun
-- **The [[b/_buttocks|buttocks]] or more specifically, the [[a/_anus|anus]].**
-- **A stupid, mean or [[d/_despicable|despicable]] person.**
+- **The [[b/_buttocks|buttocks]] or [[m/_more|more]] specifically, the [[a/_anus|anus]].**
+- **A stupid, [[m/_mean|mean]] or [[d/_despicable|despicable]] person.**
 ---
 #verb
-- **To be silly, [[a/_act|act]] stupid or mess [[a/_around|around]].**
+- **To be silly, [[a/_act|act]] stupid or [[m/_mess|mess]] [[a/_around|around]].**
 	- _Example: Stop arsing around!_
 ---
 #noun
-- **The stronger part of a musical measure: the part [[c/_containing|containing]] the [[b/_beat|beat]].**
-- **The stronger part of a metrical foot: the part [[c/_containing|containing]] the long (heavy) syllable in quantitative meter, or the stressed syllable in a qualitative meter.**
-- **The [[e/_elevation|elevation]] of the hand, or that part of the [[b/_bar|bar]] at which it is raised, in [[b/_beating|beating]] time; the weak or unaccented part of the [[b/_bar|bar]], opposed to the thesis.**
-- **The [[e/_elevation|elevation]] of the voice to a higher pitch in speaking.**
+- **The stronger part of a [[m/_musical|musical]] [[m/_measure|measure]]: the part [[c/_containing|containing]] the [[b/_beat|beat]].**
+- **The stronger part of a [[m/_metrical|metrical]] [[f/_foot|foot]]: the part [[c/_containing|containing]] the [[l/_long|long]] ([[h/_heavy|heavy]]) syllable in quantitative [[m/_meter|meter]], or the stressed syllable in a qualitative [[m/_meter|meter]].**
+- **The [[e/_elevation|elevation]] of the [[h/_hand|hand]], or that part of the [[b/_bar|bar]] at which it is raised, in [[b/_beating|beating]] time; the weak or unaccented part of the [[b/_bar|bar]], [[o/_opposed|opposed]] to the thesis.**
+- **The [[e/_elevation|elevation]] of the voice to a [[h/_higher|higher]] pitch in speaking.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Afterglow
 ---
 #noun
-- **The glow seen in the sky [[a/_after|after]] sunset.**
-- **The light [[e/_emitted|emitted]] by an incandescent object while [[c/_cooling|cooling]].**
-- **The light [[e/_emitted|emitted]] by a phosphor [[a/_after|after]] excitation.**
-- **The mildly [[e/_euphoric|euphoric]] feeling experienced [[a/_after|after]] a pleasurable experience, [[e/_especially|especially]] [[a/_after|after]] an orgasm or [[d/_drug|drug]]-induced high.**
+- **The [[g/_glow|glow]] seen in the sky [[a/_after|after]] sunset.**
+- **The [[l/_light|light]] [[e/_emitted|emitted]] by an [[i/_incandescent|incandescent]] [[o/_object|object]] while [[c/_cooling|cooling]].**
+- **The [[l/_light|light]] [[e/_emitted|emitted]] by a phosphor [[a/_after|after]] [[e/_excitation|excitation]].**
+- **The [[m/_mildly|mildly]] [[e/_euphoric|euphoric]] [[f/_feeling|feeling]] [[e/_experienced|experienced]] [[a/_after|after]] a pleasurable [[e/_experience|experience]], [[e/_especially|especially]] [[a/_after|after]] an [[o/_orgasm|orgasm]] or [[d/_drug|drug]]-[[i/_induced|induced]] [[h/_high|high]].**
 - **An afterparty.**
 ---
 ### Synonyms

@@ -1,0 +1,11 @@
+# Necropsy
+---
+#noun
+- **The pathological [[e/_examination|examination]] of a [[c/_corpse|corpse]], particularly to [[d/_determine|determine]] [[c/_cause|cause]] of [[d/_death|death]].**
+---
+### Synonyms
+- [[a/_autopsy|autopsy]], [[p/_post-mortem|post-mortem]]
+#verb
+- **The [[a/_act|act]] of performing a [[n/_necropsy|necropsy]].**
+---
+---

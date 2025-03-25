@@ -1,8 +1,8 @@
 # Adults
 ---
 #noun
-- **A fully grown human or [[a/_animal|animal]].**
-- **A person who has reached the legal [[a/_age|age]] of majority.**
+- **A [[f/_fully|fully]] [[g/_grown|grown]] [[h/_human|human]] or [[a/_animal|animal]].**
+- **A person who [[h/_has|has]] reached the [[l/_legal|legal]] [[a/_age|age]] of [[m/_majority|majority]].**
 ---
 ### Synonyms
 - 

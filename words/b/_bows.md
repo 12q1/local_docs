@@ -1,50 +1,50 @@
 # Bows
 ---
 #noun
-- **A firm [[b/_branch|branch]] of a tree.**
+- **A [[f/_firm|firm]] [[b/_branch|branch]] of a tree.**
 	- _Example: When the bough breaks, the cradle will fall._
-- **The gallows.**
+- **The [[g/_gallows|gallows]].**
 ---
 #noun
-- **A weapon made of a [[c/_curved|curved]] piece of wood or other flexible material whose [[e/_ends|ends]] are [[c/_connected|connected]] by a string, used for shooting [[a/_arrows|arrows]].**
-- **A [[c/_curved|curved]] [[b/_bend|bend]] in a rod or planar surface, or in a linear formation such as a river (see oxbow).**
-- **A rod with horsehair (or an [[a/_artificial|artificial]] substitute) stretched [[b/_between|between]] the [[e/_ends|ends]], used for playing various stringed musical instruments.**
-- **A stringed instrument ([[c/_chordophone|chordophone]]), [[c/_consisting|consisting]] of a stick with a single taut [[c/_cord|cord]] stretched [[b/_between|between]] the [[e/_ends|ends]], most often played by plucking.**
-- **A type of knot with two loops, used to tie together two [[c/_cords|cords]] such as shoelaces or [[a/_apron|apron]] strings, and frequently used as [[d/_decoration|decoration]], such as in gift-wrapping.**
+- **A weapon [[m/_made|made]] of a [[c/_curved|curved]] piece of wood or [[o/_other|other]] [[f/_flexible|flexible]] [[m/_material|material]] whose [[e/_ends|ends]] are [[c/_connected|connected]] by a string, used for shooting [[a/_arrows|arrows]].**
+- **A [[c/_curved|curved]] [[b/_bend|bend]] in a rod or planar surface, or in a [[l/_linear|linear]] [[f/_formation|formation]] such as a river (see [[o/_oxbow|oxbow]]).**
+- **A rod with [[h/_horsehair|horsehair]] (or an [[a/_artificial|artificial]] substitute) stretched [[b/_between|between]] the [[e/_ends|ends]], used for playing various stringed [[m/_musical|musical]] [[i/_instruments|instruments]].**
+- **A stringed [[i/_instrument|instrument]] ([[c/_chordophone|chordophone]]), [[c/_consisting|consisting]] of a stick with a single taut [[c/_cord|cord]] stretched [[b/_between|between]] the [[e/_ends|ends]], [[m/_most|most]] [[o/_often|often]] played by plucking.**
+- **A type of [[k/_knot|knot]] with two [[l/_loops|loops]], used to tie together two [[c/_cords|cords]] such as shoelaces or [[a/_apron|apron]] strings, and [[f/_frequently|frequently]] used as [[d/_decoration|decoration]], such as in [[g/_gift|gift]]-wrapping.**
 - **[[a/_anything|Anything]] [[b/_bent|bent]] or [[c/_curved|curved]], such as a rainbow.**
-- **The U-shaped piece which goes [[a/_around|around]] the neck of an ox and fastens it to the yoke.**
-- **[[e/_either|Either]] of the [[a/_arms|arms]] of a pair of spectacles, running from the side of the lens to [[b/_behind|behind]] the wearer's [[e/_ear|ear]].**
-- **[[a/_any|Any]] instrument [[c/_consisting|consisting]] of an [[e/_elastic|elastic]] rod, with [[e/_ends|ends]] [[c/_connected|connected]] by a string, [[e/_employed|employed]] for giving reciprocating motion to a [[d/_drill|drill]], or for preparing and [[a/_arranging|arranging]] hair, fur, [[e/_etc|etc]]., used by hatters.**
-- **A [[c/_crude|crude]] sort of quadrant formerly used for taking the sun's [[a/_altitude|altitude]] at sea.**
-- **(saddlery) Two pieces of wood which form the [[a/_arched|arched]] forward part of a saddletree.**
-- **The part of a key that is not inserted into the lock and that is used to turn the key.**
+- **The U-shaped piece which [[g/_goes|goes]] [[a/_around|around]] the [[n/_neck|neck]] of an [[o/_ox|ox]] and [[f/_fastens|fastens]] it to the [[y/_yoke|yoke]].**
+- **[[e/_either|Either]] of the [[a/_arms|arms]] of a [[p/_pair|pair]] of spectacles, running from the side of the [[l/_lens|lens]] to [[b/_behind|behind]] the wearer's [[e/_ear|ear]].**
+- **[[a/_any|Any]] [[i/_instrument|instrument]] [[c/_consisting|consisting]] of an [[e/_elastic|elastic]] rod, with [[e/_ends|ends]] [[c/_connected|connected]] by a string, [[e/_employed|employed]] for [[g/_giving|giving]] reciprocating [[m/_motion|motion]] to a [[d/_drill|drill]], or for preparing and [[a/_arranging|arranging]] [[h/_hair|hair]], [[f/_fur|fur]], [[e/_etc|etc]]., used by [[h/_hatters|hatters]].**
+- **A [[c/_crude|crude]] sort of quadrant [[f/_formerly|formerly]] used for taking the sun's [[a/_altitude|altitude]] at sea.**
+- **(saddlery) Two pieces of wood which [[f/_form|form]] the [[a/_arched|arched]] [[f/_forward|forward]] part of a saddletree.**
+- **The part of a [[k/_key|key]] that is not [[i/_inserted|inserted]] [[i/_into|into]] the [[l/_lock|lock]] and that is used to turn the [[k/_key|key]].**
 ---
 ### Synonyms
 - [[a/_arc|arc]], [[b/_bend|bend]], [[c/_curve|curve]], [[f/_fiddlestick|fiddlestick]]
 #verb
-- **To play music on (a stringed) instrument using a [[b/_bow|bow]].**
+- **To play [[m/_music|music]] on (a stringed) [[i/_instrument|instrument]] using a [[b/_bow|bow]].**
 	- _Example: The musician bowed his violin expertly._
 - **To [[b/_become|become]] [[b/_bent|bent]] or [[c/_curved|curved]].**
 	- _Example: The shelf bowed under the weight of the books._
-- **To make something [[b/_bend|bend]] or [[c/_curve|curve]].**
-- **To exercise powerful or [[c/_controlling|controlling]] influence over; to [[b/_bend|bend]], figuratively; to turn; to incline.**
+- **To [[m/_make|make]] something [[b/_bend|bend]] or [[c/_curve|curve]].**
+- **To [[e/_exercise|exercise]] powerful or [[c/_controlling|controlling]] [[i/_influence|influence]] [[o/_over|over]]; to [[b/_bend|bend]], [[f/_figuratively|figuratively]]; to turn; to [[i/_incline|incline]].**
 - **To premiere.**
 	- _Example: Cronenberg’s "Cosmopolis" bows in Cannes this week._
 ---
 #noun
-- **A gesture, usually showing respect, made by inclining the head or [[b/_bending|bending]] forward at the waist; a reverence**
+- **A [[g/_gesture|gesture]], usually showing respect, [[m/_made|made]] by [[i/_inclining|inclining]] the [[h/_head|head]] or [[b/_bending|bending]] [[f/_forward|forward]] at the waist; a reverence**
 	- _Example: He made a polite bow as he entered the room._
 ---
 #verb
-- **To [[b/_bend|bend]] oneself as a gesture of respect or [[d/_deference|deference]].**
+- **To [[b/_bend|bend]] [[o/_oneself|oneself]] as a [[g/_gesture|gesture]] of respect or [[d/_deference|deference]].**
 	- _Example: That singer always bows towards her audience for some reason._
 - **To [[d/_debut|debut]].**
 - **To [[d/_defer|defer]] (to something).**
 	- _Example: I bow to your better judgement in the matter._
-- **To give a [[d/_direction|direction]], indication, or [[c/_command|command]] to by [[b/_bowing|bowing]].**
+- **To [[g/_give|give]] a [[d/_direction|direction]], [[i/_indication|indication]], or [[c/_command|command]] to by [[b/_bowing|bowing]].**
 ---
 #noun
-- **The front of a [[b/_boat|boat]] or ship.**
+- **The [[f/_front|front]] of a [[b/_boat|boat]] or ship.**
 - **The rower that sits in the seat [[c/_closest|closest]] to the [[b/_bow|bow]] of the [[b/_boat|boat]].**
 ---
 ### Synonyms

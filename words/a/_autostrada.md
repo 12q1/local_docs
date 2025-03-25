@@ -1,6 +1,6 @@
 # Autostrada
 ---
 #noun
-- **A motorway in Italy (and some other [[c/_countries|countries]])**
+- **A [[m/_motorway|motorway]] in [[i/_italy|Italy]] (and some [[o/_other|other]] [[c/_countries|countries]])**
 ---
 ---

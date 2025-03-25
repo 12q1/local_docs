@@ -1,6 +1,6 @@
 # Afara
 ---
 #noun
-- **The limba tree.**
+- **The [[l/_limba|limba]] tree.**
 ---
 ---

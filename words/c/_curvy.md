@@ -1,7 +1,7 @@
 # Curvy
 ---
 #adjective
-- **Having [[c/_curves|curves]].**
+- **[[h/_having|Having]] [[c/_curves|curves]].**
 - **[[b/_buxom|Buxom]] or [[c/_curvaceous|curvaceous]].**
 	- _Example: I love this woman and her curvy body._
 ---

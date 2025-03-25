@@ -1,8 +1,8 @@
 # Astronavigation
 ---
 #noun
-- **Navigation by using the positions of the stars and other heavenly [[b/_bodies|bodies]]**
-- **Navigation through space**
+- **[[n/_navigation|Navigation]] by using the positions of the stars and [[o/_other|other]] [[h/_heavenly|heavenly]] [[b/_bodies|bodies]]**
+- **[[n/_navigation|Navigation]] through space**
 ---
 ### Synonyms
 - [[a/_astrogation|astrogation]]

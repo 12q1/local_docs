@@ -1,6 +1,6 @@
 # Bristletail
 ---
 #noun
-- **[[a/_any|Any]] of various small, [[a/_active|active]] six-legged [[a/_arthropods|arthropods]] that have two or three [[b/_bristles|bristles]] at the [[e/_ends|ends]] of their [[a/_abdomens|abdomens]] and that [[d/_do|do]] not have wings. These were formerly [[c/_classified|classified]] together in the insect subclass [[a/_apterygota|Apterygota]] or the order Thysanura but are no longer [[c/_considered|considered]] [[c/_closely|closely]] related:**
+- **[[a/_any|Any]] of various small, [[a/_active|active]] six-[[l/_legged|legged]] [[a/_arthropods|arthropods]] that [[h/_have|have]] two or three [[b/_bristles|bristles]] at the [[e/_ends|ends]] of their [[a/_abdomens|abdomens]] and that [[d/_do|do]] not [[h/_have|have]] wings. These were [[f/_formerly|formerly]] [[c/_classified|classified]] together in the [[i/_insect|insect]] subclass [[a/_apterygota|Apterygota]] or the [[o/_order|order]] Thysanura but are [[n/_no|no]] [[l/_longer|longer]] [[c/_considered|considered]] [[c/_closely|closely]] related:**
 ---
 ---

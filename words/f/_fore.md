@@ -1,0 +1,23 @@
+# Fore
+---
+#noun
+- **The [[f/_front|front]]; the [[f/_forward|forward]] part of something; the [[f/_foreground|foreground]].**
+	- _Example: The fore was painted white._
+---
+#adjective
+- **[[f/_former|Former]]; [[o/_occurring|occurring]] [[e/_earlier|earlier]] (in some [[o/_order|order]]); previous.**
+	- _Example: the fore part of the day_
+- **[[f/_forward|Forward]]; situated towards the [[f/_front|front]] (of something).**
+	- _Example: the fore end of a wagon_
+---
+### Antonyms
+- [[a/_aft|aft]], [[l/_latter|latter]]
+#adverb
+- **In the part that precedes or [[g/_goes|goes]] [[f/_first|first]]; [[o/_opposed|opposed]] to [[a/_aft|aft]], [[a/_after|after]], [[b/_back|back]], [[b/_behind|behind]], [[e/_etc|etc]].**
+- **[[f/_formerly|Formerly]]; previously; [[a/_afore|afore]].**
+- **In or towards the [[b/_bows|bows]] of a ship.**
+---
+#interjection
+- **An [[e/_exclamation|exclamation]] [[y/_yelled|yelled]] to [[i/_inform|inform]] players a [[b/_ball|ball]] is [[m/_moving|moving]] in their [[d/_direction|direction]].**
+---
+---

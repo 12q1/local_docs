@@ -1,17 +1,17 @@
 # Careers
 ---
 #noun
-- **One's [[c/_calling|calling]] in life; a person's occupation; one's profession.**
-- **General [[c/_course|course]] of [[a/_action|action]] or [[c/_conduct|conduct]] in life, or in a particular part of it.**
+- **[[o/_one|One]]'s [[c/_calling|calling]] in [[l/_life|life]]; a person's [[o/_occupation|occupation]]; [[o/_one|one]]'s profession.**
+- **[[g/_general|General]] [[c/_course|course]] of [[a/_action|action]] or [[c/_conduct|conduct]] in [[l/_life|life]], or in a particular part of it.**
 	- _Example: Washington's career as a soldier_
 - **Speed.**
-- **A jouster's path [[d/_during|during]] a joust.**
-- **A short gallop of a horse.**
-- **The flight of a hawk.**
-- **A racecourse; the ground run over.**
+- **A [[j/_jouster|jouster]]'s path [[d/_during|during]] a [[j/_joust|joust]].**
+- **A short [[g/_gallop|gallop]] of a [[h/_horse|horse]].**
+- **The [[f/_flight|flight]] of a [[h/_hawk|hawk]].**
+- **A racecourse; the [[g/_ground|ground]] run [[o/_over|over]].**
 ---
 #verb
-- **To move rapidly straight [[a/_ahead|ahead]], [[e/_especially|especially]] in an uncontrolled way.**
+- **To [[m/_move|move]] rapidly straight [[a/_ahead|ahead]], [[e/_especially|especially]] in an uncontrolled way.**
 	- _Example: The car careered down the road, missed the curve, and went through a hedge._
 ---
 ---

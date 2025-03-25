@@ -1,6 +1,6 @@
 # Barege
 ---
 #noun
-- **A type of gauzy fabric used for making [[d/_dresses|dresses]], originally made in [[b/_bar|Bar]]èges.**
+- **A type of [[g/_gauzy|gauzy]] [[f/_fabric|fabric]] used for [[m/_making|making]] [[d/_dresses|dresses]], [[o/_originally|originally]] [[m/_made|made]] in [[b/_bar|Bar]]è[[g/_ges|ges]].**
 ---
 ---

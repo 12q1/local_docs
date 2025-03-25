@@ -1,6 +1,6 @@
 # Agrestal
 ---
 #adjective
-- **That grows wild in [[c/_cultivated|cultivated]] fields**
+- **That [[g/_grows|grows]] wild in [[c/_cultivated|cultivated]] [[f/_fields|fields]]**
 ---
 ---

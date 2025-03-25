@@ -1,6 +1,6 @@
 # Colluviums
 ---
 #noun
-- **A loose [[a/_accumulation|accumulation]] of rock and soil [[d/_debris|debris]] at the foot of a slope**
+- **A [[l/_loose|loose]] [[a/_accumulation|accumulation]] of rock and soil [[d/_debris|debris]] at the [[f/_foot|foot]] of a slope**
 ---
 ---

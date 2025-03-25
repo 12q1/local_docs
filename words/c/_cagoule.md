@@ -1,6 +1,6 @@
 # Cagoule
 ---
 #noun
-- **A lightweight waterproof parka.**
+- **A [[l/_lightweight|lightweight]] waterproof parka.**
 ---
 ---

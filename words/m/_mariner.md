@@ -1,0 +1,6 @@
+# Mariner
+---
+#noun
+- **A sailor.**
+---
+---

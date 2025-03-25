@@ -1,7 +1,7 @@
 # Alleviated
 ---
 #verb
-- **To make less severe, as a pain or [[d/_difficulty|difficulty]].**
+- **To [[m/_make|make]] [[l/_less|less]] severe, as a [[p/_pain|pain]] or [[d/_difficulty|difficulty]].**
 	- _Example: Alcohol is often a cheap tool to alleviate the stress of a hard day._
 ---
 ### Synonyms
@@ -9,7 +9,7 @@
 ### Antonyms
 - [[a/_aggravate|aggravate]]
 #adjective
-- **Made more [[b/_bearable|bearable]].**
+- **[[m/_made|Made]] [[m/_more|more]] [[b/_bearable|bearable]].**
 	- _Example: My alleviated sorrow no longer crushes me._
 ---
 ---

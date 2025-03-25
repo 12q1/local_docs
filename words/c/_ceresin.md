@@ -1,6 +1,6 @@
 # Ceresin
 ---
 #noun
-- **A refined form of ozocerite that is used in polishes and to make [[c/_candles|candles]]**
+- **A refined [[f/_form|form]] of [[o/_ozocerite|ozocerite]] that is used in polishes and to [[m/_make|make]] [[c/_candles|candles]]**
 ---
 ---

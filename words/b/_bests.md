@@ -1,11 +1,11 @@
 # Bests
 ---
 #noun
-- **The supreme [[e/_effort|effort]] one [[c/_can|can]] make, or has made.**
+- **The supreme [[e/_effort|effort]] [[o/_one|one]] [[c/_can|can]] [[m/_make|make]], or [[h/_has|has]] [[m/_made|made]].**
 	- _Example: I did my best._
-- **One's [[b/_best|best]] [[b/_behavior|behavior]].**
+- **[[o/_one|One]]'s [[b/_best|best]] [[b/_behavior|behavior]].**
 	- _Example: I was somewhat distant lately, and my lady promised me head every Tuesday of the week when I'm nice to her, so I better be on my best._
-- **The person (or persons; or thing or things) that is (are) most excellent.**
+- **The person (or persons; or thing or things) that is (are) [[m/_most|most]] [[e/_excellent|excellent]].**
 ---
 #verb
 - **To surpass in skill or [[a/_achievement|achievement]].**

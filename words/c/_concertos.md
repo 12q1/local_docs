@@ -1,6 +1,6 @@
 # Concertos
 ---
 #noun
-- **A piece of music for one or more solo instruments and orchestra.**
+- **A piece of [[m/_music|music]] for [[o/_one|one]] or [[m/_more|more]] solo [[i/_instruments|instruments]] and [[o/_orchestra|orchestra]].**
 ---
 ---

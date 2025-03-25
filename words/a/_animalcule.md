@@ -2,7 +2,7 @@
 ---
 #noun
 - **A small [[a/_animal|animal]].**
-- **A microscopic [[a/_aquatic|aquatic]] [[a/_animal|animal]] or protozoan.**
+- **A [[m/_microscopic|microscopic]] [[a/_aquatic|aquatic]] [[a/_animal|animal]] or protozoan.**
 - **A spermatozoon.**
 ---
 ### Synonyms

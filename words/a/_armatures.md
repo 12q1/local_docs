@@ -1,15 +1,15 @@
 # Armatures
 ---
 #noun
-- **The rotating part of an [[e/_electric|electric]] motor or [[d/_dynamo|dynamo]], which mostly [[c/_consists|consists]] of [[c/_coils|coils]] of wire [[a/_around|around]] a metal [[c/_core|core]].**
-- **The moving part in an [[e/_electromechanical|electromechanical]] [[d/_device|device]] like a loudspeaker or a [[b/_buzzer|buzzer]].**
-- **A piece of soft steel or iron that [[c/_connects|connects]] the poles of a magnet**
-- **A supporting framework in a sculpture.**
-- **A kinematic [[c/_chain|chain]] (a system of [[b/_bones|bones]] or rigid [[b/_bodies|bodies]] [[c/_connected|connected]] by joints) that is used to pose and [[d/_deform|deform]] models, often [[c/_character|character]] models.**
-- **A protective organ, structure, or [[c/_covering|covering]] of an [[a/_animal|animal]] or plant, for [[d/_defense|defense]] or offense, like [[c/_claws|claws]], teeth, thorns, or the shell of a turtle.**
+- **The rotating part of an [[e/_electric|electric]] [[m/_motor|motor]] or [[d/_dynamo|dynamo]], which [[m/_mostly|mostly]] [[c/_consists|consists]] of [[c/_coils|coils]] of wire [[a/_around|around]] a [[m/_metal|metal]] [[c/_core|core]].**
+- **The [[m/_moving|moving]] part in an [[e/_electromechanical|electromechanical]] [[d/_device|device]] [[l/_like|like]] a [[l/_loudspeaker|loudspeaker]] or a [[b/_buzzer|buzzer]].**
+- **A piece of soft steel or [[i/_iron|iron]] that [[c/_connects|connects]] the poles of a [[m/_magnet|magnet]]**
+- **A supporting [[f/_framework|framework]] in a sculpture.**
+- **A [[k/_kinematic|kinematic]] [[c/_chain|chain]] (a system of [[b/_bones|bones]] or rigid [[b/_bodies|bodies]] [[c/_connected|connected]] by [[j/_joints|joints]]) that is used to pose and [[d/_deform|deform]] [[m/_models|models]], [[o/_often|often]] [[c/_character|character]] [[m/_models|models]].**
+- **A protective [[o/_organ|organ]], structure, or [[c/_covering|covering]] of an [[a/_animal|animal]] or plant, for [[d/_defense|defense]] or [[o/_offense|offense]], [[l/_like|like]] [[c/_claws|claws]], teeth, thorns, or the shell of a turtle.**
 - **[[a/_armor|Armor]], or a suit of [[a/_armor|armor]].**
 - **[[a/_any|Any]] [[a/_apparatus|apparatus]] for [[d/_defence|defence]].**
-- **The frame of a pair of glasses.**
+- **The [[f/_frame|frame]] of a [[p/_pair|pair]] of [[g/_glasses|glasses]].**
 ---
 #verb
 - **To provide with an [[a/_armature|armature]] ([[a/_any|any]] sense).**

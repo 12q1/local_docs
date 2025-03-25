@@ -1,0 +1,53 @@
+# Ground
+---
+#noun
+- **The surface of the [[e/_earth|Earth]], as [[o/_opposed|opposed]] to the sky or water or underground.**
+	- _Example: Look, I found a ten dollar bill on the ground!_
+- **Terrain.**
+- **Soil, [[e/_earth|earth]].**
+	- _Example: The fox escaped from the hounds by going to ground._
+- **The [[b/_bottom|bottom]] of a [[b/_body|body]] of water.**
+- **[[b/_basis|Basis]], [[f/_foundation|foundation]], [[g/_groundwork|groundwork]], [[l/_legwork|legwork]].**
+- **([[c/_chiefly|chiefly]] in the plural) Reason, ([[e/_epistemic|epistemic]]) [[j/_justification|justification]], [[c/_cause|cause]].**
+	- _Example: He could not come on grounds of health, or on health grounds._
+- **[[b/_background|Background]], [[c/_context|context]], [[f/_framework|framework]], surroundings.**
+- **The [[a/_area|area]] on which a [[b/_battle|battle]] is [[f/_fought|fought]], particularly as referring to the [[a/_area|area]] [[o/_occupied|occupied]] by [[o/_one|one]] side or the [[o/_other|other]]. [[o/_often|Often]], [[a/_according|according]] to the [[e/_eventualities|eventualities]], "to [[g/_give|give]] [[g/_ground|ground]]" or "to [[g/_gain|gain]] [[g/_ground|ground]]".**
+- **(by [[e/_extension|extension]]) [[a/_advantage|Advantage]] [[g/_given|given]] or [[g/_gained|gained]] in [[a/_any|any]] [[c/_contest|contest]]; [[e/_e|e]].[[g/_g|g]]. in [[f/_football|football]], [[c/_chess|chess]], [[d/_debate|debate]] or [[a/_academic|academic]] [[d/_discourse|discourse]].**
+- **The plain surface upon which the [[f/_figures|figures]] of an [[a/_artistic|artistic]] [[c/_composition|composition]] are set.**
+	- _Example: crimson flowers on a white ground_
+- **In sculpture, a [[f/_flat|flat]] surface upon which [[f/_figures|figures]] are raised in relief.**
+- **In point [[l/_lace|lace]], the [[n/_net|net]] of small [[m/_meshes|meshes]] upon which the [[e/_embroidered|embroidered]] pattern is [[a/_applied|applied]].**
+	- _Example: Brussels ground_
+- **In [[e/_etching|etching]], a [[g/_gummy|gummy]] substance spread [[o/_over|over]] the surface of a [[m/_metal|metal]] to be [[e/_etched|etched]], to prevent the [[a/_acid|acid]] from [[e/_eating|eating]] [[e/_except|except]] where an [[o/_opening|opening]] is [[m/_made|made]] by the [[n/_needle|needle]].**
+- **([[c/_chiefly|chiefly]] in the plural) [[o/_one|One]] of the pieces of wood, [[f/_flush|flush]] with the plastering, to which [[m/_mouldings|mouldings]] [[e/_etc|etc]]. are [[a/_attached|attached]].**
+	- _Example: Grounds are usually put up first and the plastering floated flush with them._
+- **A soccer stadium.**
+	- _Example: Manchester United's ground is known as Old Trafford._
+- **An [[e/_electrical|electrical]] [[c/_conductor|conductor]] [[c/_connected|connected]] to the [[e/_earth|earth]], or a [[l/_large|large]] [[c/_conductor|conductor]] whose [[e/_electrical|electrical]] potential is taken as zero (such as a steel [[c/_chassis|chassis]]).**
+- **The [[a/_area|area]] of [[g/_grass|grass]] on which a [[m/_match|match]] is played (a [[c/_cricket|cricket]] [[f/_field|field]]); the [[e/_entire|entire]] [[a/_arena|arena]] in which it is played; the part of the [[f/_field|field]] [[b/_behind|behind]] a [[b/_batsman|batsman]]'s popping [[c/_crease|crease]] where [[h/_he|he]] [[c/_can|can]] not be run [[o/_out|out]] ([[h/_hence|hence]] to [[m/_make|make]] [[o/_one|one]]'s [[g/_ground|ground]]).**
+- **A [[c/_composition|composition]] in which the [[b/_bass|bass]], [[c/_consisting|consisting]] of a [[f/_few|few]] [[b/_bars|bars]] of [[i/_independent|independent]] [[n/_notes|notes]], is [[c/_continually|continually]] repeated to a varying [[m/_melody|melody]].**
+- **The tune on which [[d/_descants|descants]] are raised; the plain song.**
+- **The pit of a theatre.**
+---
+### Synonyms
+- [[e/_earth|earth]]
+#verb
+- **To [[c/_connect|connect]] (an [[e/_electrical|electrical]] [[c/_conductor|conductor]] or [[d/_device|device]]) to a [[g/_ground|ground]].**
+- **To punish, [[e/_especially|especially]] a [[c/_child|child]] or teenager, by [[f/_forcing|forcing]] [[h/_him|him]]/[[h/_her|her]] to stay at [[h/_home|home]] and/or [[g/_give|give]] up [[c/_certain|certain]] privileges.**
+	- _Example: Eric, you are grounded until further notice for lying to us about where you were last night!_
+- **To [[f/_forbid|forbid]] (an [[a/_aircraft|aircraft]] or pilot) to [[f/_fly|fly]].**
+	- _Example: Because of the bad weather, all flights were grounded._
+- **To [[g/_give|give]] a [[b/_basic|basic]] [[e/_education|education]] in a particular subject; to [[i/_instruct|instruct]] in [[e/_elements|elements]] or [[f/_first|first]] principles.**
+	- _Example: Jim was grounded in maths._
+- **To [[h/_hit|hit]] a [[g/_ground|ground]] [[b/_ball|ball]]. [[c/_compare|Compare]] [[f/_fly|fly]] (verb(regular)) and [[l/_line|line]] (verb).**
+- **To place something on the [[g/_ground|ground]].**
+- **To run [[a/_aground|aground]]; to strike the [[b/_bottom|bottom]] and remain [[f/_fixed|fixed]].**
+	- _Example: The ship grounded on the bar._
+- **To [[f/_found|found]]; to [[f/_fix|fix]] or set, as on a [[f/_foundation|foundation]], reason, or principle; to [[f/_furnish|furnish]] a [[g/_ground|ground]] for; to [[f/_fix|fix]] [[f/_firmly|firmly]].**
+- **To [[c/_cover|cover]] with a [[g/_ground|ground]], as a [[c/_copper|copper]] plate for [[e/_etching|etching]], or as paper or [[o/_other|other]] [[m/_materials|materials]] with a uniform tint as a preparation for [[o/_ornament|ornament]].**
+- **To [[i/_improve|improve]] or [[f/_focus|focus]] the [[m/_mental|mental]] or [[e/_emotional|emotional]] state of.**
+	- _Example: I ground myself with meditation._
+---
+### Synonyms
+- [[e/_earth|earth]], [[g/_gate|gate]]
+---

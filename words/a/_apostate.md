@@ -1,13 +1,13 @@
 # Apostate
 ---
 #noun
-- **A person who has renounced a religion or faith.**
-- **One who, [[a/_after|after]] having received sacred orders, renounces his [[c/_clerical|clerical]] profession.**
+- **A person who [[h/_has|has]] renounced a religion or [[f/_faith|faith]].**
+- **[[o/_one|One]] who, [[a/_after|after]] [[h/_having|having]] received sacred [[o/_orders|orders]], renounces [[h/_his|his]] [[c/_clerical|clerical]] profession.**
 ---
 ### Synonyms
 - [[d/_deconvert|deconvert]], [[m/_murtad|murtad]], [[r/_recreant|recreant]], [[w/_withersake|withersake]]
 #adjective
-- **Guilty of [[a/_apostasy|apostasy]].**
+- **[[g/_guilty|Guilty]] of [[a/_apostasy|apostasy]].**
 	- _Example: We must punish this apostate priest._
 ---
 ---

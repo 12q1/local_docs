@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_art|art]] or trade of a [[c/_cooper|cooper]].**
-- **The price paid to a [[c/_cooper|cooper]] for work [[c/_carried|carried]] out.**
+- **The price [[p/_paid|paid]] to a [[c/_cooper|cooper]] for work [[c/_carried|carried]] [[o/_out|out]].**
 - **A [[c/_cooper|cooper]]'s workshop.**
 ---
 ---

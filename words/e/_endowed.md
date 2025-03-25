@@ -2,15 +2,15 @@
 ---
 #verb
 - **To provide with a [[d/_dower|dower]] or a [[d/_dowry|dowry]].**
-- **To give property to (someone) as a gift; specifically, to provide (a person or institution) with support in the form of a permanent fund of money or other [[b/_benefits|benefits]].**
-- **Followed by with, or rarely by of: to [[e/_enrich|enrich]] or furnish with some faculty or quality.**
-- **Usually in the passive: to naturally furnish (with something).**
+- **To [[g/_give|give]] property to (someone) as a [[g/_gift|gift]]; specifically, to provide (a person or [[i/_institution|institution]]) with support in the [[f/_form|form]] of a permanent [[f/_fund|fund]] of [[m/_money|money]] or [[o/_other|other]] [[b/_benefits|benefits]].**
+- **[[f/_followed|Followed]] by with, or rarely by of: to [[e/_enrich|enrich]] or [[f/_furnish|furnish]] with some [[f/_faculty|faculty]] or quality.**
+- **Usually in the passive: to [[n/_naturally|naturally]] [[f/_furnish|furnish]] (with something).**
 	- _Example: She was endowed with a beautiful voice._
 ---
 ### Synonyms
 - [[b/_begift|begift]], [[b/_bless|bless]], [[g/_gift|gift]]
 #adjective
-- **Provided or furnished with something.**
-- **Founded by an [[e/_endowment|endowment]].**
+- **Provided or [[f/_furnished|furnished]] with something.**
+- **[[f/_founded|Founded]] by an [[e/_endowment|endowment]].**
 ---
 ---

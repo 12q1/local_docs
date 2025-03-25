@@ -1,10 +1,10 @@
 # Ermine
 ---
 #noun
-- **A weasel, Mustela erminea, found in northern latitudes; its [[d/_dark|dark]] [[b/_brown|brown]] fur turns white in winter ([[a/_apart|apart]] from the [[b/_black|black]] tip of the tail).**
-- **The white fur of this [[a/_animal|animal]], traditionally seen as a symbol of purity and used for judges' robes.**
-- **(by extension) The office of a judge.**
-- **A white field with [[b/_black|black]] spots.**
+- **A weasel, [[m/_mustela|Mustela]] erminea, [[f/_found|found]] in [[n/_northern|northern]] [[l/_latitudes|latitudes]]; [[i/_its|its]] [[d/_dark|dark]] [[b/_brown|brown]] [[f/_fur|fur]] turns white in winter ([[a/_apart|apart]] from the [[b/_black|black]] tip of the tail).**
+- **The white [[f/_fur|fur]] of this [[a/_animal|animal]], traditionally seen as a symbol of purity and used for [[j/_judges|judges]]' robes.**
+- **(by [[e/_extension|extension]]) The [[o/_office|office]] of a [[j/_judge|judge]].**
+- **A white [[f/_field|field]] with [[b/_black|black]] spots.**
 ---
 ### Synonyms
 - [[s/_stoat|stoat]]

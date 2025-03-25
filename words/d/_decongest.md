@@ -1,6 +1,6 @@
 # Decongest
 ---
 #verb
-- **To free from [[c/_congestion|congestion]]**
+- **To [[f/_free|free]] from [[c/_congestion|congestion]]**
 ---
 ---

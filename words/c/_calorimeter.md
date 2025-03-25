@@ -1,6 +1,6 @@
 # Calorimeter
 ---
 #noun
-- **An [[a/_apparatus|apparatus]] for measuring the heat generated or [[a/_absorbed|absorbed]] by [[e/_either|either]] a [[c/_chemical|chemical]] reaction, [[c/_change|change]] of phase or some other physical [[c/_change|change]].**
+- **An [[a/_apparatus|apparatus]] for [[m/_measuring|measuring]] the [[h/_heat|heat]] [[g/_generated|generated]] or [[a/_absorbed|absorbed]] by [[e/_either|either]] a [[c/_chemical|chemical]] reaction, [[c/_change|change]] of phase or some [[o/_other|other]] physical [[c/_change|change]].**
 ---
 ---

@@ -1,10 +1,10 @@
 # Condensed
 ---
 #verb
-- **To [[c/_concentrate|concentrate]] toward the [[e/_essence|essence]] by making more [[c/_close|close]], [[c/_compact|compact]], or [[d/_dense|dense]], thereby [[d/_decreasing|decreasing]] size or volume.**
+- **To [[c/_concentrate|concentrate]] toward the [[e/_essence|essence]] by [[m/_making|making]] [[m/_more|more]] [[c/_close|close]], [[c/_compact|compact]], or [[d/_dense|dense]], thereby [[d/_decreasing|decreasing]] size or volume.**
 	- _Example: An abridged dictionary can be further condensed to pocket size._
-- **To transform from a gaseous state into a liquid state via [[c/_condensation|condensation]].**
-- **To be transformed from a gaseous state into a liquid state.**
+- **To transform from a [[g/_gaseous|gaseous]] state [[i/_into|into]] a [[l/_liquid|liquid]] state via [[c/_condensation|condensation]].**
+- **To be transformed from a [[g/_gaseous|gaseous]] state [[i/_into|into]] a [[l/_liquid|liquid]] state.**
 	- _Example: Water condenses on the window on cold days because of the warm air inside._
 ---
 ### Synonyms
@@ -12,7 +12,7 @@
 ### Antonyms
 - [[d/_dilute|dilute]]
 #adjective
-- **Highly [[c/_concentrated|concentrated]], or packed into a small space.**
+- **[[h/_highly|Highly]] [[c/_concentrated|concentrated]], or [[p/_packed|packed]] [[i/_into|into]] a small space.**
 	- _Example: a condensed typeface_
 ---
 ### Synonyms

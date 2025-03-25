@@ -1,6 +1,6 @@
 # Devilishly
 ---
 #adverb
-- **In a [[d/_devilish|devilish]] manner.**
+- **In a [[d/_devilish|devilish]] [[m/_manner|manner]].**
 ---
 ---

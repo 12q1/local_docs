@@ -1,6 +1,6 @@
 # Curlicued
 ---
 #verb
-- **To make or [[a/_adorn|adorn]] (something) with [[c/_curlicues|curlicues]], or as if with [[c/_curlicues|curlicues]].**
+- **To [[m/_make|make]] or [[a/_adorn|adorn]] (something) with [[c/_curlicues|curlicues]], or as [[i/_if|if]] with [[c/_curlicues|curlicues]].**
 ---
 ---

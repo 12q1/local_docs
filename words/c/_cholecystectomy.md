@@ -1,6 +1,6 @@
 # Cholecystectomy
 ---
 #noun
-- **The surgical procedure to remove the gall [[b/_bladder|bladder]]**
+- **The surgical procedure to remove the [[g/_gall|gall]] [[b/_bladder|bladder]]**
 ---
 ---

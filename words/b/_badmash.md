@@ -1,6 +1,6 @@
 # Badmash
 ---
 #noun
-- **A rogue, ruffian or miscreant.**
+- **A rogue, ruffian or [[m/_miscreant|miscreant]].**
 ---
 ---

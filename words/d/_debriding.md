@@ -1,9 +1,9 @@
 # Debriding
 ---
 #verb
-- **To remove necrotic tissue or foreign matter from (a wound or the like).**
+- **To remove [[n/_necrotic|necrotic]] tissue or [[f/_foreign|foreign]] [[m/_matter|matter]] from (a wound or the [[l/_like|like]]).**
 ---
 #noun
-- **The removal of necrotic tissue or foreign matter from a wound, [[e/_etc|etc]].**
+- **The removal of [[n/_necrotic|necrotic]] tissue or [[f/_foreign|foreign]] [[m/_matter|matter]] from a wound, [[e/_etc|etc]].**
 ---
 ---

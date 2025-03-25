@@ -1,6 +1,6 @@
 # Chal
 ---
 #noun
-- **A male gypsy.**
+- **A [[m/_male|male]] [[g/_gypsy|gypsy]].**
 ---
 ---

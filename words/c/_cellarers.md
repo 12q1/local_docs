@@ -1,6 +1,6 @@
 # Cellarers
 ---
 #noun
-- **The person, usually in a monastery, responsible for providing food and [[d/_drink|drink]].**
+- **The person, usually in a [[m/_monastery|monastery]], responsible for providing [[f/_food|food]] and [[d/_drink|drink]].**
 ---
 ---

@@ -4,7 +4,7 @@
 - **A [[d/_derisive|derisive]] remark.**
 ---
 #adjective
-- **Expressing or [[c/_characterized|characterized]] by [[d/_derision|derision]]; mocking; ridiculing.**
+- **[[e/_expressing|Expressing]] or [[c/_characterized|characterized]] by [[d/_derision|derision]]; [[m/_mocking|mocking]]; ridiculing.**
 	- _Example: The critic's review of the film was derisive._
 - **[[d/_deserving|Deserving]] or provoking [[d/_derision|derision]] or ridicule.**
 	- _Example: The plot of the film was so derisive that the audience began to jeer._

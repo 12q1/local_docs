@@ -1,0 +1,23 @@
+# Into
+---
+#preposition
+- **To or towards the [[i/_inside|inside]] of.**
+	- _Example: Mary danced into the house._
+- **To or towards the region of.**
+	- _Example: The eagle flew off into the wide blue sky._
+- **[[a/_against|Against]], [[e/_especially|especially]] with [[f/_force|force]] or violence.**
+	- _Example: I wasn't careful, and walked into a wall_
+- **[[i/_indicates|Indicates]] transition [[i/_into|into]] [[a/_another|another]] [[f/_form|form]] or substance.**
+	- _Example: I carved the piece of driftwood into a sculpture of a whale._
+- **[[a/_after|After]] the start of.**
+	- _Example: About 20 minutes into the flight, the pilot reported a fire on board._
+- **[[i/_interested|Interested]] in or [[a/_attracted|attracted]] to.**
+	- _Example: My date for tonight has black hair, and I'm into that._
+- **[[e/_expressing|Expressing]] the [[o/_operation|operation]] of [[m/_multiplication|multiplication]].**
+	- _Example: Five into three is fifteen._
+- **[[e/_expressing|Expressing]] the [[o/_operation|operation]] of [[d/_division|division]], with the [[d/_denominator|denominator]] [[g/_given|given]] [[f/_first|first]]. Usually with "[[g/_goes|goes]]".**
+	- _Example: 24 goes into 48 how many times?_
+- **[[i/_investigating|Investigating]] the subject (of).**
+	- _Example: There have been calls for research into the pesticides that are blamed for the decline in bee populations._
+---
+---

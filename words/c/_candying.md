@@ -2,8 +2,8 @@
 ---
 #verb
 - **To [[c/_cook|cook]] in, or [[c/_coat|coat]] with, sugar syrup.**
-- **To have sugar [[c/_crystals|crystals]] form in or on.**
+- **To [[h/_have|have]] sugar [[c/_crystals|crystals]] [[f/_form|form]] in or on.**
 	- _Example: Fruits preserved in sugar candy after a time._
-- **To be formed into [[c/_candy|candy]]; to solidify in a [[c/_candylike|candylike]] form or mass.**
+- **To be [[f/_formed|formed]] [[i/_into|into]] [[c/_candy|candy]]; to solidify in a [[c/_candylike|candylike]] [[f/_form|form]] or [[m/_mass|mass]].**
 ---
 ---

@@ -1,0 +1,103 @@
+# Go
+---
+#noun
+- **The [[a/_act|act]] of [[g/_going|going]].**
+- **A turn at something, or in something ([[e/_e|e]].[[g/_g|g]]. a [[g/_game|game]]).**
+	- _Example: It’s your go._
+- **An [[a/_attempt|attempt]], a try.**
+	- _Example: I’ll give it a go._
+- **An [[a/_approval|approval]] or permission to [[d/_do|do]] something, or that which [[h/_has|has]] [[b/_been|been]] [[a/_approved|approved]].**
+	- _Example: We will begin as soon as the boss says it's a go._
+- **An [[a/_act|act]]; the working or [[o/_operation|operation]].**
+- **A [[c/_circumstance|circumstance]] or [[o/_occurrence|occurrence]]; an [[i/_incident|incident]], [[o/_often|often]] unexpected.**
+- **The [[f/_fashion|fashion]] or [[m/_mode|mode]].**
+	- _Example: quite the go_
+- **[[n/_noisy|Noisy]] [[m/_merriment|merriment]].**
+	- _Example: a high go_
+- **A [[g/_glass|glass]] of spirits; a quantity of spirits.**
+- **Power of [[g/_going|going]] or [[d/_doing|doing]]; [[e/_energy|energy]]; vitality; perseverance.**
+	- _Example: There is no go in him._
+- **The situation where a player [[c/_cannot|cannot]] play a [[c/_card|card]] which will not [[c/_carry|carry]] the [[a/_aggregate|aggregate]] [[c/_count|count]] [[a/_above|above]] thirty-[[o/_one|one]].**
+- **A period of [[a/_activity|activity]].**
+	- _Example: ate it all in one go_
+- **([[b/_british|British]] slang) A [[d/_dandy|dandy]]; a [[f/_fashionable|fashionable]] person.**
+---
+### Synonyms
+- [[a/_attempt|attempt]], [[b/_bash|bash]], [[s/_shot|shot]], [[s/_stab|stab]], [[t/_try|try]], [[e/_energy|energy]], [[f/_flair|flair]], [[l/_liveliness|liveliness]], [[p/_perseverance|perseverance]], [[p/_pizzazz|pizzazz]], [[s/_spirit|spirit]], [[v/_verve|verve]], [[v/_vigour|vigour]], [[v/_vim|vim]], [[v/_vitality|vitality]], [[z/_zest|zest]], [[g/_gage|gage]], [[m/_measure|measure]], [[m/_mode|mode]], [[s/_style|style]], [[t/_trend|trend]], [[m/_move|move]], [[s/_stint|stint]], [[t/_turn|turn]]
+#verb
+- **To [[m/_move|move]]:**
+- **([[c/_chiefly|chiefly]] of a [[m/_machine|machine]]) To work or [[f/_function|function]] (properly); to [[m/_move|move]] or perform (as required).**
+	- _Example: The engine just won't go anymore._
+- **To start; to [[b/_begin|begin]] (an [[a/_action|action]] or process).**
+	- _Example: Get ready, get set, go!_
+- **To take a turn, [[e/_especially|especially]] in a [[g/_game|game]].**
+	- _Example: It’s your turn; go._
+- **To [[a/_attend|attend]].**
+	- _Example: I go to school at the schoolhouse._
+- **To proceed:**
+- **To [[f/_follow|follow]] or travel [[a/_along|along]] (a path):**
+- **To [[e/_extend|extend]] (from [[o/_one|one]] point in time or space to [[a/_another|another]]).**
+	- _Example: This property goes all the way to the state line._
+- **To [[l/_lead|lead]] (to a place); to [[g/_give|give]] [[a/_access|access]] to.**
+	- _Example: Does this road go to Fort Smith?_
+- **To [[b/_become|become]]. (The [[a/_adjective|adjective]] that [[f/_follows|follows]] usually [[d/_describes|describes]] a [[n/_negative|negative]] state.)**
+	- _Example: After failing as a criminal, he decided to go straight._
+- **To [[a/_assume|assume]] the [[o/_obligation|obligation]] or [[f/_function|function]] of; to be, to serve as.**
+- **To [[c/_continuously|continuously]] or [[h/_habitually|habitually]] be in a state.**
+	- _Example: I don't want my children to go hungry._
+- **To [[c/_come|come]] to (a [[c/_certain|certain]] [[c/_condition|condition]] or state).**
+	- _Example: They went into debt, she goes to sleep around 10 o'clock._
+- **To [[c/_change|change]] (from [[o/_one|one]] value to [[a/_another|another]]) in the [[m/_meaning|meaning]] of wend.**
+	- _Example: The traffic light went straight from green to red._
+- **To turn [[o/_out|out]], to result; to [[c/_come|come]] to (a [[c/_certain|certain]] result).**
+	- _Example: How did your meeting with Smith go?_
+- **To tend (toward a result).**
+	- _Example: These experiences go to make us stronger._
+- **To [[c/_contribute|contribute]] to a (specified) [[e/_end|end]] product or result.**
+	- _Example: qualities that go to make a lady / lip-reader / sharpshooter_
+- **To pass, to be used up:**
+- **To [[d/_die|die]].**
+- **To be [[d/_discarded|discarded]].**
+	- _Example: This chair has got to go._
+- **To be [[l/_lost|lost]] or [[o/_out|out]]:**
+- **To [[b/_break|break]] [[d/_down|down]] or [[a/_apart|apart]]:**
+- **To be sold.**
+	- _Example: Everything must go._
+- **To be [[g/_given|given]], [[e/_especially|especially]] to be [[a/_assigned|assigned]] or [[a/_allotted|allotted]].**
+	- _Example: The award went to Steven Spielberg._
+- **To survive or [[g/_get|get]] by; to [[l/_last|last]] or persist for a stated [[l/_length|length]] of time.**
+	- _Example: Can you two go twenty minutes without arguing?!_
+- **To [[h/_have|have]] a [[c/_certain|certain]] record.**
+	- _Example: The team is going five in a row._
+- **To be [[a/_authoritative|authoritative]], [[a/_accepted|accepted]], or valid:**
+- **To say (something), to [[m/_make|make]] a sound:**
+- **To be [[e/_expressed|expressed]] or [[c/_composed|composed]] (a [[c/_certain|certain]] way).**
+	- _Example: As the story goes, he got the idea for the song while sitting in traffic._
+- **To resort (to).**
+	- _Example: I'll go to court if I have to._
+- **To [[a/_apply|apply]] or subject [[o/_oneself|oneself]] to:**
+- **To [[f/_fit|fit]] (in a place, or together with something):**
+- **To [[d/_date|date]].**
+	- _Example: He's been going with her for two weeks._
+- **To [[a/_attack|attack]]:**
+- **To be in [[g/_general|general]]; to be usually.**
+	- _Example: As sentences go, this one is pretty boring._
+- **To take (a particular part or share); to participate in to the [[e/_extent|extent]] of.**
+	- _Example: Let's go halves on this._
+- **To [[y/_yield|yield]] or weigh.**
+	- _Example: Those babies go five tons apiece._
+- **To [[o/_offer|offer]], [[b/_bid|bid]] or [[b/_bet|bet]] an [[a/_amount|amount]]; to [[p/_pay|pay]].**
+	- _Example: I'll go a ten-spot._
+- **To [[e/_enjoy|enjoy]]. ([[c/_compare|Compare]] [[g/_go|go]] for.)**
+	- _Example: I could go a beer right about now._
+- **To urinate or [[d/_defecate|defecate]].**
+	- _Example: Have you managed to go today, Mrs. Miggins?_
+---
+### Synonyms
+- [[b/_become|become]], [[t/_turn|turn]], [[c/_cross|cross]], [[d/_draw|draw]], [[d/_drift|drift]], [[f/_fare|fare]], [[m/_move|move]], [[t/_tread|tread]], [[w/_wend|wend]], [[d/_date|date]], [[s/_see|see]], [[f/_function|function]], [[o/_operate|operate]], [[w/_work|work]], [[m/_move|move]]
+### Antonyms
+- [[f/_freeze|freeze]], [[h/_halt|halt]], [[r/_remain|remain]], [[s/_stay|stay]], [[s/_stop|stop]]
+#adjective
+- **Working [[c/_correctly|correctly]] and ready to [[c/_commence|commence]] [[o/_operation|operation]]; [[a/_approved|approved]] and [[a/_able|able]] to be put [[i/_into|into]] [[a/_action|action]].**
+---
+---

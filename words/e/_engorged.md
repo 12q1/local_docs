@@ -1,11 +1,11 @@
 # Engorged
 ---
 #verb
-- **To [[d/_devour|devour]] something greedily, gorge, glut.**
-- **To feed ravenously.**
-- **To fill excessively with a [[b/_body|body]] liquid, [[e/_especially|especially]] [[b/_blood|blood]].**
+- **To [[d/_devour|devour]] something [[g/_greedily|greedily]], [[g/_gorge|gorge]], [[g/_glut|glut]].**
+- **To [[f/_feed|feed]] ravenously.**
+- **To [[f/_fill|fill]] [[e/_excessively|excessively]] with a [[b/_body|body]] [[l/_liquid|liquid]], [[e/_especially|especially]] [[b/_blood|blood]].**
 ---
 #adjective
-- **Overly filled with fluid; used [[e/_especially|especially]] of [[b/_blood|blood]] vessels.**
+- **[[o/_overly|Overly]] [[f/_filled|filled]] with [[f/_fluid|fluid]]; used [[e/_especially|especially]] of [[b/_blood|blood]] vessels.**
 ---
 ---

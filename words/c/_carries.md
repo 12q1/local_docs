@@ -1,57 +1,57 @@
 # Carries
 ---
 #noun
-- **A manner of transporting or lifting something; the grip or position in which something is [[c/_carried|carried]].**
+- **A [[m/_manner|manner]] of transporting or [[l/_lifting|lifting]] something; the [[g/_grip|grip]] or position in which something is [[c/_carried|carried]].**
 	- _Example: Adjust your carry from time to time so that you don't tire too quickly._
-- **A tract of land over which [[b/_boats|boats]] or goods are [[c/_carried|carried]] [[b/_between|between]] two [[b/_bodies|bodies]] of navigable water; a portage.**
-- **The [[b/_bit|bit]] or [[d/_digit|digit]] that is [[c/_carried|carried]] in an [[a/_addition|addition]] operation.**
-- **The [[b/_benefit|benefit]] or [[c/_cost|cost]] of owning an [[a/_asset|asset]] over time.**
+- **A tract of [[l/_land|land]] [[o/_over|over]] which [[b/_boats|boats]] or [[g/_goods|goods]] are [[c/_carried|carried]] [[b/_between|between]] two [[b/_bodies|bodies]] of [[n/_navigable|navigable]] water; a portage.**
+- **The [[b/_bit|bit]] or [[d/_digit|digit]] that is [[c/_carried|carried]] in an [[a/_addition|addition]] [[o/_operation|operation]].**
+- **The [[b/_benefit|benefit]] or [[c/_cost|cost]] of [[o/_owning|owning]] an [[a/_asset|asset]] [[o/_over|over]] time.**
 	- _Example: The carry on this trade is 25 basis points per annum._
-- **The [[d/_distance|distance]] travelled by the [[b/_ball|ball]] when struck, until it hits the ground.**
-- **[[c/_carried|Carried]] interest.**
+- **The [[d/_distance|distance]] travelled by the [[b/_ball|ball]] when struck, until it [[h/_hits|hits]] the [[g/_ground|ground]].**
+- **[[c/_carried|Carried]] [[i/_interest|interest]].**
 - **The sky; [[c/_cloud|cloud]]-[[d/_drift|drift]].**
 ---
 #verb
-- **To lift (something) and take it to [[a/_another|another]] place; to transport (something) by lifting.**
-- **To transfer from one place (such as a [[c/_country|country]], [[b/_book|book]], or [[c/_column|column]]) to [[a/_another|another]].**
+- **To [[l/_lift|lift]] (something) and take it to [[a/_another|another]] place; to transport (something) by [[l/_lifting|lifting]].**
+- **To transfer from [[o/_one|one]] place (such as a [[c/_country|country]], [[b/_book|book]], or [[c/_column|column]]) to [[a/_another|another]].**
 	- _Example: to carry an account to the ledger_
-- **To [[c/_convey|convey]] by extension or [[c/_continuance|continuance]]; to extend.**
+- **To [[c/_convey|convey]] by [[e/_extension|extension]] or [[c/_continuance|continuance]]; to [[e/_extend|extend]].**
 	- _Example: The builders are going to carry the chimney through the roof.  They would have carried the road ten miles further, but ran out of materials._
-- **To move; to [[c/_convey|convey]] using force**
-- **To lead or guide.**
-- **To stock or supply (something); to have in store.**
+- **To [[m/_move|move]]; to [[c/_convey|convey]] using [[f/_force|force]]**
+- **To [[l/_lead|lead]] or [[g/_guide|guide]].**
+- **To stock or supply (something); to [[h/_have|have]] in store.**
 	- _Example: The corner drugstore doesn't carry his favorite brand of aspirin._
-- **To [[a/_adopt|adopt]] (something); take (something) over.**
+- **To [[a/_adopt|adopt]] (something); take (something) [[o/_over|over]].**
 	- _Example: I think I can carry Smith's work while she is out._
 - **To [[a/_adopt|adopt]] or resolve on, [[e/_especially|especially]] in a [[d/_deliberative|deliberative]] [[a/_assembly|assembly]]**
 	- _Example: The court carries that motion._
-- **In an [[a/_addition|addition]], to transfer the quantity in excess of what is [[c/_countable|countable]] in the units in a [[c/_column|column]] to the [[c/_column|column]] immediately to the left in order to be [[a/_added|added]] there.**
+- **In an [[a/_addition|addition]], to transfer the quantity in [[e/_excess|excess]] of what is [[c/_countable|countable]] in the units in a [[c/_column|column]] to the [[c/_column|column]] [[i/_immediately|immediately]] to the [[l/_left|left]] in [[o/_order|order]] to be [[a/_added|added]] there.**
 	- _Example: Five and nine are fourteen; carry the one to the tens place._
-- **To have, hold, possess or maintain (something).**
+- **To [[h/_have|have]], [[h/_hold|hold]], possess or [[m/_maintain|maintain]] (something).**
 	- _Example: Always carry sufficient insurance to protect against a loss._
 - **To be transmitted; to travel.**
 	- _Example: The sound of the bells carried for miles on the wind._
-- **To insult, to [[d/_diss|diss]].**
+- **To [[i/_insult|insult]], to [[d/_diss|diss]].**
 - **To [[c/_capture|capture]] a ship by [[c/_coming|coming]] [[a/_alongside|alongside]] and [[b/_boarding|boarding]].**
-- **To transport (the [[b/_ball|ball]]) whilst maintaining possession.**
-- **To have on one's person.**
+- **To transport (the [[b/_ball|ball]]) whilst [[m/_maintaining|maintaining]] possession.**
+- **To [[h/_have|have]] on [[o/_one|one]]'s person.**
 	- _Example: she always carries a purse;  marsupials carry their young in a pouch_
 - **To be pregnant (with).**
 	- _Example: The doctor said she's carrying twins._
-- **To have propulsive power; to propel.**
+- **To [[h/_have|have]] propulsive power; to propel.**
 	- _Example: A gun or mortar carries well._
-- **To hold the head; said of a horse.**
+- **To [[h/_hold|hold]] the [[h/_head|head]]; said of a [[h/_horse|horse]].**
 	- _Example: to carry well, i.e. to hold the head high, with arching neck_
-- **To have [[e/_earth|earth]] or frost stick to the feet when running, as a hare.**
-- **To [[b/_bear|bear]] or uphold successfully through [[c/_conflict|conflict]], for example a leader or principle**
-- **To succeed in ([[e/_e|e]].g. a [[c/_contest|contest]]); to succeed in; to win.**
+- **To [[h/_have|have]] [[e/_earth|earth]] or [[f/_frost|frost]] stick to the [[f/_feet|feet]] when running, as a [[h/_hare|hare]].**
+- **To [[b/_bear|bear]] or uphold successfully through [[c/_conflict|conflict]], for [[e/_example|example]] a [[l/_leader|leader]] or principle**
+- **To succeed in ([[e/_e|e]].[[g/_g|g]]. a [[c/_contest|contest]]); to succeed in; to win.**
 	- _Example: The Tories carried the election._
-- **To get possession of by force; to [[c/_capture|capture]].**
-- **To [[c/_contain|contain]]; to [[c/_comprise|comprise]]; have a particular [[a/_aspect|aspect]]; to show or exhibit**
-- **To [[b/_bear|bear]] (oneself); to [[b/_behave|behave]] or [[c/_conduct|conduct]].**
-- **To [[b/_bear|bear]] the [[c/_charges|charges]] or [[b/_burden|burden]] of holding or having, as stocks, merchandise, [[e/_etc|etc]]., from one time to [[a/_another|another]].**
+- **To [[g/_get|get]] possession of by [[f/_force|force]]; to [[c/_capture|capture]].**
+- **To [[c/_contain|contain]]; to [[c/_comprise|comprise]]; [[h/_have|have]] a particular [[a/_aspect|aspect]]; to show or [[e/_exhibit|exhibit]]**
+- **To [[b/_bear|bear]] ([[o/_oneself|oneself]]); to [[b/_behave|behave]] or [[c/_conduct|conduct]].**
+- **To [[b/_bear|bear]] the [[c/_charges|charges]] or [[b/_burden|burden]] of [[h/_holding|holding]] or [[h/_having|having]], as stocks, [[m/_merchandise|merchandise]], [[e/_etc|etc]]., from [[o/_one|one]] time to [[a/_another|another]].**
 	- _Example: A merchant is carrying a large stock;  a farm carries a mortgage;  a broker carries stock for a customer;  to carry a life insurance._
-- **To have a weapon on one's person; to be [[a/_armed|armed]].**
+- **To [[h/_have|have]] a weapon on [[o/_one|one]]'s person; to be [[a/_armed|armed]].**
 - **To be [[d/_disproportionately|disproportionately]] responsible for a team's success.**
 	- _Example: He absolutely carried the game, to the point of killing the entire enemy team by himself._
 ---

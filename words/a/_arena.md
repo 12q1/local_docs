@@ -1,13 +1,13 @@
 # Arena
 ---
 #noun
-- **An [[e/_enclosed|enclosed]] [[a/_area|area]], often outdoor, for the presentation of sporting events (sports [[a/_arena|arena]]) or other spectacular events; [[e/_earthen|earthen]] [[a/_area|area]], often oval, specifically for rodeos (North [[a/_america|America]]) or [[c/_circular|circular]] [[a/_area|area]] for [[b/_bullfights|bullfights]] ([[e/_especially|especially]] Hispanic [[a/_america|America]]).**
+- **An [[e/_enclosed|enclosed]] [[a/_area|area]], [[o/_often|often]] [[o/_outdoor|outdoor]], for the presentation of sporting [[e/_events|events]] (sports [[a/_arena|arena]]) or [[o/_other|other]] spectacular [[e/_events|events]]; [[e/_earthen|earthen]] [[a/_area|area]], [[o/_often|often]] [[o/_oval|oval]], specifically for rodeos ([[n/_north|North]] [[a/_america|America]]) or [[c/_circular|circular]] [[a/_area|area]] for [[b/_bullfights|bullfights]] ([[e/_especially|especially]] [[h/_hispanic|Hispanic]] [[a/_america|America]]).**
 	- _Example: A large crowd filled the seats of the arena._
-- **The [[b/_building|building]] housing such an [[a/_area|area]]; specifically, a very large, often round [[b/_building|building]], often topped with a [[d/_dome|dome]], [[d/_designated|designated]] for indoor sporting or other major events, such as [[c/_concerts|concerts]].**
+- **The [[b/_building|building]] [[h/_housing|housing]] such an [[a/_area|area]]; specifically, a very [[l/_large|large]], [[o/_often|often]] round [[b/_building|building]], [[o/_often|often]] topped with a [[d/_dome|dome]], [[d/_designated|designated]] for [[i/_indoor|indoor]] sporting or [[o/_other|other]] [[m/_major|major]] [[e/_events|events]], such as [[c/_concerts|concerts]].**
 	- _Example: The arena is grey with white beams._
-- **The sand-[[c/_covered|covered]] [[c/_centre|centre]] of an [[a/_amphitheatre|amphitheatre]] where [[c/_contests|contests]] were held in [[a/_ancient|Ancient]] Rome.**
+- **The sand-[[c/_covered|covered]] [[c/_centre|centre]] of an [[a/_amphitheatre|amphitheatre]] where [[c/_contests|contests]] were [[h/_held|held]] in [[a/_ancient|Ancient]] Rome.**
 	- _Example: The gladiators entered the arena._
-- **A realm in which events take place; an [[a/_area|area]] of interest, study, [[b/_behaviour|behaviour]], [[e/_etc|etc]].**
+- **A realm in which [[e/_events|events]] take place; an [[a/_area|area]] of [[i/_interest|interest]], study, [[b/_behaviour|behaviour]], [[e/_etc|etc]].**
 	- _Example: The company was a player in the maritime insurance arena._
 ---
 ---

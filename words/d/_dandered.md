@@ -2,6 +2,6 @@
 ---
 #verb
 - **To wander [[a/_about|about]].**
-- **To maunder, to talk incoherently.**
+- **To [[m/_maunder|maunder]], to talk [[i/_incoherently|incoherently]].**
 ---
 ---

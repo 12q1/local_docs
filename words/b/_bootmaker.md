@@ -1,6 +1,6 @@
 # Bootmaker
 ---
 #noun
-- **A maker of [[b/_boots|boots]]; a [[c/_cobbler|cobbler]].**
+- **A [[m/_maker|maker]] of [[b/_boots|boots]]; a [[c/_cobbler|cobbler]].**
 ---
 ---

@@ -1,12 +1,12 @@
 # Babas
 ---
 #noun
-- **A kind of sponge [[c/_cake|cake]] soaked in rum-flavoured syrup.**
-- **([[e/_esp|esp]]. [[a/_among|among]] people of [[e/_east|East]] European [[a/_ancestry|ancestry]]) A grandmother.**
-- **An old woman, [[e/_especially|especially]] a traditional old woman from an [[e/_eastern|eastern]] European [[c/_culture|culture]].**
-- **([[e/_esp|esp]]. [[a/_among|among]] people of Indian [[a/_ancestry|ancestry]]) A father.**
-- **(Hinduism, Islam, Sikhism) A holy man, a spiritual leader.**
+- **A [[k/_kind|kind]] of sponge [[c/_cake|cake]] soaked in rum-[[f/_flavoured|flavoured]] syrup.**
+- **([[e/_esp|esp]]. [[a/_among|among]] people of [[e/_east|East]] [[e/_european|European]] [[a/_ancestry|ancestry]]) A [[g/_grandmother|grandmother]].**
+- **An [[o/_old|old]] woman, [[e/_especially|especially]] a traditional [[o/_old|old]] woman from an [[e/_eastern|eastern]] [[e/_european|European]] [[c/_culture|culture]].**
+- **([[e/_esp|esp]]. [[a/_among|among]] people of [[i/_indian|Indian]] [[a/_ancestry|ancestry]]) A [[f/_father|father]].**
+- **([[h/_hinduism|Hinduism]], [[i/_islam|Islam]], Sikhism) A [[h/_holy|holy]] [[m/_man|man]], a spiritual [[l/_leader|leader]].**
 - **A [[b/_baby|baby]], [[c/_child|child]].**
-- **In [[b/_baby|baby]] talk, often used for a variety of words [[b/_beginning|beginning]] with [[b/_b|b]], such as [[b/_bottle|bottle]] or [[b/_blanket|blanket]].**
+- **In [[b/_baby|baby]] talk, [[o/_often|often]] used for a variety of words [[b/_beginning|beginning]] with [[b/_b|b]], such as [[b/_bottle|bottle]] or [[b/_blanket|blanket]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Disenthralled
 ---
 #verb
-- **To set free from thraldom or oppression.**
+- **To set [[f/_free|free]] from thraldom or [[o/_oppression|oppression]].**
 ---
 ---

@@ -1,0 +1,6 @@
+# Maffle
+---
+#verb
+- **To stammer.**
+---
+---

@@ -1,6 +1,6 @@
 # Achalasia
 ---
 #noun
-- **A neuromuscular problem where a ring of muscles is unable to fully relax.**
+- **A [[n/_neuromuscular|neuromuscular]] problem where a ring of [[m/_muscles|muscles]] is unable to [[f/_fully|fully]] relax.**
 ---
 ---

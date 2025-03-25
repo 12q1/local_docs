@@ -1,7 +1,7 @@
 # Consorting
 ---
 #verb
-- **To [[a/_associate|associate]] or keep [[c/_company|company]] (with).**
+- **To [[a/_associate|associate]] or [[k/_keep|keep]] [[c/_company|company]] (with).**
 - **To be in [[a/_agreement|agreement]].**
 ---
 ### Synonyms

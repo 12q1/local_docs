@@ -1,7 +1,7 @@
 # Cranesbill
 ---
 #noun
-- **[[a/_any|Any]] flowering plant of the genus Geranium found throughout the temperate zone.**
-- **A pair of long-[[b/_beaked|beaked]] forceps.**
+- **[[a/_any|Any]] [[f/_flowering|flowering]] plant of the [[g/_genus|genus]] [[g/_geranium|Geranium]] [[f/_found|found]] throughout the temperate zone.**
+- **A [[p/_pair|pair]] of [[l/_long|long]]-[[b/_beaked|beaked]] [[f/_forceps|forceps]].**
 ---
 ---

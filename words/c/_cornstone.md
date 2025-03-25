@@ -1,6 +1,6 @@
 # Cornstone
 ---
 #noun
-- **A kind of marly siliceous rock.**
+- **A [[k/_kind|kind]] of [[m/_marly|marly]] siliceous rock.**
 ---
 ---

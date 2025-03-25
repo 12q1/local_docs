@@ -1,7 +1,7 @@
 # Dissolute
 ---
 #adjective
-- **Unrestrained by morality.**
+- **Unrestrained by [[m/_morality|morality]].**
 - **Recklessly [[a/_abandoned|abandoned]] to sensual pleasures.**
 ---
 ### Synonyms

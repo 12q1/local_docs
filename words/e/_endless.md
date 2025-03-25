@@ -1,11 +1,11 @@
 # Endless
 ---
 #adjective
-- **Having no [[e/_end|end]].**
+- **[[h/_having|Having]] [[n/_no|no]] [[e/_end|end]].**
 	- _Example: endless time; endless praise_
-- **Extending indefinitely.**
+- **[[e/_extending|Extending]] [[i/_indefinitely|indefinitely]].**
 	- _Example: an endless line_
-- **Without profitable [[e/_end|end]]; fruitless; unsatisfying.**
+- **Without profitable [[e/_end|end]]; [[f/_fruitless|fruitless]]; unsatisfying.**
 ---
 ### Synonyms
 - [[e/_eternal|eternal]], [[i/_infinite|infinite]], [[u/_unlimited|unlimited]], [[u/_unending|unending]]

@@ -1,0 +1,10 @@
+# Hotplate
+---
+#noun
+- **A semi-portable stove.**
+- **The [[e/_element|element]] of a stove.**
+- **A [[l/_low|low]]-powered [[h/_heating|heating]] [[d/_device|device]] for [[k/_keeping|keeping]] [[f/_food|food]] warm.**
+---
+### Synonyms
+- 
+---

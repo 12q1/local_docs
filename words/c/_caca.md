@@ -1,7 +1,7 @@
 # Caca
 ---
 #noun
-- **Excrement**
+- **[[e/_excrement|Excrement]]**
 ---
 ### Synonyms
 - [[c/_cack|cack]]

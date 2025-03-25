@@ -1,9 +1,9 @@
 # Croons
 ---
 #verb
-- **To hum or sing softly or in a sentimental manner.**
-- **To say softly or gently**
+- **To [[h/_hum|hum]] or sing softly or in a sentimental [[m/_manner|manner]].**
+- **To say softly or [[g/_gently|gently]]**
 - **To soothe by singing softly.**
-- **To make a [[c/_continuous|continuous]] hollow moan, as [[c/_cattle|cattle]] [[d/_do|do]] when in pain.**
+- **To [[m/_make|make]] a [[c/_continuous|continuous]] [[h/_hollow|hollow]] [[m/_moan|moan]], as [[c/_cattle|cattle]] [[d/_do|do]] when in [[p/_pain|pain]].**
 ---
 ---

@@ -5,6 +5,6 @@
 	- _Example: He said you confused the bejesus out of him_
 ---
 #interjection
-- **Expressing surprise, [[a/_annoyance|annoyance]], [[d/_dismay|dismay]], or [[a/_anger|anger]].**
+- **[[e/_expressing|Expressing]] surprise, [[a/_annoyance|annoyance]], [[d/_dismay|dismay]], or [[a/_anger|anger]].**
 ---
 ---

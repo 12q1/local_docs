@@ -1,9 +1,9 @@
 # Bonkers
 ---
 #noun
-- **One who [[b/_bonks|bonks]].**
+- **[[o/_one|One]] who [[b/_bonks|bonks]].**
 ---
 #adjective
-- **Mad; [[c/_crazy|crazy]].**
+- **[[m/_mad|Mad]]; [[c/_crazy|crazy]].**
 ---
 ---

@@ -1,0 +1,12 @@
+# Furnishing
+---
+#verb
+- **To provide a place with [[f/_furniture|furniture]], or [[o/_other|other]] [[e/_equipment|equipment]].**
+- **To supply or [[g/_give|give]] (something).**
+- **To supply (somebody) with something.**
+---
+#noun
+- **([[c/_chiefly|chiefly]] in the plural) [[f/_furniture|Furniture]], [[f/_fittings|fittings]], and [[o/_other|other]] [[d/_detachable|detachable]] [[a/_accessories|accessories]].**
+- **(of an [[a/_animal|animal]], in the plural) A portion of [[l/_longer|longer]] [[h/_hair|hair]] within the [[c/_coat|coat]] of a [[d/_dog|dog]], rabbit, [[e/_etc|etc]].**
+---
+---

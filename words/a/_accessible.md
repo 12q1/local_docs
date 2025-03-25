@@ -5,9 +5,9 @@
 	- _Example: an accessible town or mountain_
 - **(specifically) [[b/_built|Built]] or [[d/_designed|designed]] as to be usable by people with [[d/_disabilities|disabilities]].**
 	- _Example: accessible public transport_
-- **(of a person) [[e/_easy|Easy]] to get [[a/_along|along]] with.**
-- **(followed by to) Open to the influence of.**
-- **Obtainable; to be got at.**
+- **(of a person) [[e/_easy|Easy]] to [[g/_get|get]] [[a/_along|along]] with.**
+- **([[f/_followed|followed]] by to) [[o/_open|Open]] to the [[i/_influence|influence]] of.**
+- **[[o/_obtainable|Obtainable]]; to be [[g/_got|got]] at.**
 - **[[e/_easily|Easily]] understood or [[a/_appreciated|appreciated]].**
 - **[[c/_capable|Capable]] of [[b/_being|being]] used or seen.**
 ---

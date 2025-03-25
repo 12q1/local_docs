@@ -2,9 +2,9 @@
 ---
 #noun
 - **The [[a/_act|act]] of revealing something.**
-- **The making known of a previously hidden fact or series of facts to [[a/_another|another]] party; the [[a/_act|act]] of [[d/_disclosing|disclosing]].**
+- **The [[m/_making|making]] [[k/_known|known]] of a previously [[h/_hidden|hidden]] [[f/_fact|fact]] or series of [[f/_facts|facts]] to [[a/_another|another]] party; the [[a/_act|act]] of [[d/_disclosing|disclosing]].**
 	- _Example: get full disclosure_
-- **A previously hidden fact or series of facts that is made known.**
+- **A previously [[h/_hidden|hidden]] [[f/_fact|fact]] or series of [[f/_facts|facts]] that is [[m/_made|made]] [[k/_known|known]].**
 ---
 ### Synonyms
 - [[r/_revelation|revelation]]

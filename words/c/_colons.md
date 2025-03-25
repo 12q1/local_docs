@@ -1,20 +1,20 @@
 # Colons
 ---
 #noun
-- **The punctuation mark ":".**
+- **The punctuation [[m/_mark|mark]] ":".**
 - **The triangular [[c/_colon|colon]] ([[e/_especially|especially]] in [[c/_context|context]] of not [[b/_being|being]] [[a/_able|able]] to type the [[a/_actual|actual]] triangular [[c/_colon|colon]]).**
-- **A rhetorical figure [[c/_consisting|consisting]] of a [[c/_clause|clause]] which is grammatically, but not logically, [[c/_complete|complete]].**
-- **A [[c/_clause|clause]] or group of [[c/_clauses|clauses]] written as a line, or taken as a standard of measure in [[a/_ancient|ancient]] manuscripts or texts.**
+- **A rhetorical [[f/_figure|figure]] [[c/_consisting|consisting]] of a [[c/_clause|clause]] which is [[g/_grammatically|grammatically]], but not [[l/_logically|logically]], [[c/_complete|complete]].**
+- **A [[c/_clause|clause]] or [[g/_group|group]] of [[c/_clauses|clauses]] written as a [[l/_line|line]], or taken as a standard of [[m/_measure|measure]] in [[a/_ancient|ancient]] [[m/_manuscripts|manuscripts]] or texts.**
 ---
 ### Synonyms
 - [[c/_colon-point|colon-point]]
 #noun
-- **Part of the large intestine; the final segment of the [[d/_digestive|digestive]] system, [[a/_after|after]] ([[d/_distal|distal]] to) the ileum and [[b/_before|before]] (proximal to) the [[a/_anus|anus]].**
+- **Part of the [[l/_large|large]] [[i/_intestine|intestine]]; the [[f/_final|final]] segment of the [[d/_digestive|digestive]] system, [[a/_after|after]] ([[d/_distal|distal]] to) the [[i/_ileum|ileum]] and [[b/_before|before]] (proximal to) the [[a/_anus|anus]].**
 ---
 ### Synonyms
 - 
 #noun
-- **A husbandman.**
-- **A European [[c/_colonial|colonial]] settler, [[e/_especially|especially]] in a French [[c/_colony|colony]].**
+- **A [[h/_husbandman|husbandman]].**
+- **A [[e/_european|European]] [[c/_colonial|colonial]] settler, [[e/_especially|especially]] in a [[f/_french|French]] [[c/_colony|colony]].**
 ---
 ---

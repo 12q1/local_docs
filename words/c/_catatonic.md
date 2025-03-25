@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Of, relating to, or suffering from [[c/_catatonia|catatonia]].**
-- **Motionless and unresponsive, as from shock; withdrawn.**
+- **[[m/_motionless|Motionless]] and unresponsive, as from shock; withdrawn.**
 ---
 ---

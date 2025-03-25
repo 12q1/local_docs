@@ -1,10 +1,10 @@
 # Drudge
 ---
 #noun
-- **A person who works in a low servile job.**
-- **Someone who works for (and may be taken [[a/_advantage|advantage]] of by) someone [[e/_else|else]].**
+- **A person who works in a [[l/_low|low]] servile [[j/_job|job]].**
+- **Someone who works for (and [[m/_may|may]] be taken [[a/_advantage|advantage]] of by) someone [[e/_else|else]].**
 ---
 #verb
-- **To labour in (or as in) a low servile job.**
+- **To [[l/_labour|labour]] in (or as in) a [[l/_low|low]] servile [[j/_job|job]].**
 ---
 ---

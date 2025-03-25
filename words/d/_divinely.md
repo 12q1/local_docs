@@ -1,6 +1,6 @@
 # Divinely
 ---
 #adverb
-- **In a [[d/_divine|divine]] manner.**
+- **In a [[d/_divine|divine]] [[m/_manner|manner]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Encash
 ---
 #verb
-- **To [[c/_convert|convert]] a financial instrument or funding source into [[c/_cash|cash]].**
+- **To [[c/_convert|convert]] a [[f/_financial|financial]] [[i/_instrument|instrument]] or [[f/_funding|funding]] source [[i/_into|into]] [[c/_cash|cash]].**
 ---
 ---

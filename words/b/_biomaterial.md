@@ -1,6 +1,6 @@
 # Biomaterial
 ---
 #noun
-- **A nonviable, biocompatible material used in a medical [[d/_device|device]], intended to interact with [[b/_biological|biological]] systems or to evaluate, treat, [[a/_augment|augment]], or replace [[a/_any|any]] tissue, organ, or function of the [[b/_body|body]].**
+- **A [[n/_nonviable|nonviable]], biocompatible [[m/_material|material]] used in a [[m/_medical|medical]] [[d/_device|device]], [[i/_intended|intended]] to [[i/_interact|interact]] with [[b/_biological|biological]] systems or to [[e/_evaluate|evaluate]], treat, [[a/_augment|augment]], or replace [[a/_any|any]] tissue, [[o/_organ|organ]], or [[f/_function|function]] of the [[b/_body|body]].**
 ---
 ---

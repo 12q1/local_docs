@@ -1,0 +1,21 @@
+# Learns
+---
+#verb
+- **To [[a/_acquire|acquire]], or [[a/_attempt|attempt]] to [[a/_acquire|acquire]] [[k/_knowledge|knowledge]] or an [[a/_ability|ability]] to [[d/_do|do]] something.**
+- **To [[a/_attend|attend]] a [[c/_course|course]] or [[o/_other|other]] [[e/_educational|educational]] [[a/_activity|activity]].**
+- **To [[g/_gain|gain]] [[k/_knowledge|knowledge]] from a [[b/_bad|bad]] [[e/_experience|experience]] so as to [[i/_improve|improve]].**
+	- _Example: learn from one's mistakes_
+- **To study.**
+	- _Example: I learn medicine._
+- **To [[c/_come|come]] to [[k/_know|know]]; to [[b/_become|become]] [[i/_informed|informed]] of; to [[f/_find|find]] [[o/_out|out]].**
+	- _Example: He just learned that he will be sacked._
+---
+### Synonyms
+- [[s/_study|study]]
+### Antonyms
+- [[f/_forget|forget]], [[t/_teach|teach]]
+#verb
+- **To teach.**
+	- _Example: Give him a clip round the ear. That'll learn him!_
+---
+---

@@ -1,0 +1,6 @@
+# Evanishing
+---
+#verb
+- **To vanish.**
+---
+---

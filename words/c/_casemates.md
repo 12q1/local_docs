@@ -1,7 +1,7 @@
 # Casemates
 ---
 #noun
-- **A [[b/_bombproof|bombproof]] [[c/_chamber|chamber]], usually of masonry, in which [[c/_cannon|cannon]] may be placed, to be fired through [[e/_embrasures|embrasures]]; or one [[c/_capable|capable]] of [[b/_being|being]] used as a magazine, or for quartering troops.**
-- **A hollow molding, [[c/_chiefly|chiefly]] in [[c/_cornices|cornices]].**
+- **A [[b/_bombproof|bombproof]] [[c/_chamber|chamber]], usually of [[m/_masonry|masonry]], in which [[c/_cannon|cannon]] [[m/_may|may]] be placed, to be [[f/_fired|fired]] through [[e/_embrasures|embrasures]]; or [[o/_one|one]] [[c/_capable|capable]] of [[b/_being|being]] used as a [[m/_magazine|magazine]], or for quartering troops.**
+- **A [[h/_hollow|hollow]] [[m/_molding|molding]], [[c/_chiefly|chiefly]] in [[c/_cornices|cornices]].**
 ---
 ---

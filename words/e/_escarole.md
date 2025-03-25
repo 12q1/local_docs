@@ -1,6 +1,6 @@
 # Escarole
 ---
 #noun
-- **A subspecies or variety of [[b/_broad|broad]]-leaved [[e/_endive|endive]] ([[c/_cichorium|Cichorium]] endivia subsp. endivia, syn. [[c/_cichorium|Cichorium]] endivia var. latifolium), which is [[e/_eaten|eaten]] as a vegetable.**
+- **A subspecies or variety of [[b/_broad|broad]]-[[l/_leaved|leaved]] [[e/_endive|endive]] ([[c/_cichorium|Cichorium]] endivia subsp. endivia, syn. [[c/_cichorium|Cichorium]] endivia var. latifolium), which is [[e/_eaten|eaten]] as a vegetable.**
 ---
 ---

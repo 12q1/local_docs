@@ -1,9 +1,9 @@
 # Autopilots
 ---
 #noun
-- **A mechanical, [[e/_electrical|electrical]], or hydraulic system used to guide a vehicle without [[a/_assistance|assistance]] from a human [[b/_being|being]].**
+- **A [[m/_mechanical|mechanical]], [[e/_electrical|electrical]], or [[h/_hydraulic|hydraulic]] system used to [[g/_guide|guide]] a vehicle without [[a/_assistance|assistance]] from a [[h/_human|human]] [[b/_being|being]].**
 	- _Example: I set the autopilot to due south, so I could get some rest._
-- **(by extension) A state of mind where one no longer thinks [[a/_about|about]] [[d/_doing|doing]] one's [[a/_actions|actions]], but [[a/_acts|acts]] mechanically**
+- **(by [[e/_extension|extension]]) A state of [[m/_mind|mind]] where [[o/_one|one]] [[n/_no|no]] [[l/_longer|longer]] thinks [[a/_about|about]] [[d/_doing|doing]] [[o/_one|one]]'s [[a/_actions|actions]], but [[a/_acts|acts]] [[m/_mechanically|mechanically]]**
 	- _Example: I've been doing this 12 hours non-stop, and am so hungry and tired that I've stopped thinking: I'm now on autopilot._
 ---
 ---

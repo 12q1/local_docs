@@ -3,17 +3,17 @@
 #verb
 - **To talk.**
 - **To talk to or with (someone).**
-- **To perform a [[c/_chin|chin]]-up (exercise in which one lifts one's own weight while hanging from a [[b/_bar|bar]]).**
-- **To punch or hit (someone)'s [[c/_chin|chin]] (part of the [[b/_body|body]]).**
-- **To put or hold (a musical instrument) up to one's [[c/_chin|chin]].**
-- **To turn on or operate (a [[d/_device|device]]) using one's [[c/_chin|chin]]; to select (a particular setting) using one's [[c/_chin|chin]].**
-- **To put one's [[c/_chin|chin]] on (something).**
-- **To indicate or point toward (someone or something) with one's [[c/_chin|chin]].**
+- **To perform a [[c/_chin|chin]]-up ([[e/_exercise|exercise]] in which [[o/_one|one]] [[l/_lifts|lifts]] [[o/_one|one]]'s [[o/_own|own]] weight while [[h/_hanging|hanging]] from a [[b/_bar|bar]]).**
+- **To punch or [[h/_hit|hit]] (someone)'s [[c/_chin|chin]] (part of the [[b/_body|body]]).**
+- **To put or [[h/_hold|hold]] (a [[m/_musical|musical]] [[i/_instrument|instrument]]) up to [[o/_one|one]]'s [[c/_chin|chin]].**
+- **To turn on or [[o/_operate|operate]] (a [[d/_device|device]]) using [[o/_one|one]]'s [[c/_chin|chin]]; to select (a particular setting) using [[o/_one|one]]'s [[c/_chin|chin]].**
+- **To put [[o/_one|one]]'s [[c/_chin|chin]] on (something).**
+- **To [[i/_indicate|indicate]] or point toward (someone or something) with [[o/_one|one]]'s [[c/_chin|chin]].**
 ---
 ### Synonyms
 - [[g/_gab|gab]]
 #adjective
-- **(in [[c/_combination|combination]]) Having some specific type of [[c/_chin|chin]] or number of [[c/_chins|chins]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] some specific type of [[c/_chin|chin]] or [[n/_number|number]] of [[c/_chins|chins]].**
 	- _Example: a double-chinned woman_
 ---
 ---

@@ -1,0 +1,17 @@
+# Laurel
+---
+#noun
+- **[[l/_laurus|Laurus]] nobilis, an [[e/_evergreen|evergreen]] shrub [[h/_having|having]] [[a/_aromatic|aromatic]] [[l/_leaves|leaves]] of a [[l/_lanceolate|lanceolate]] shape, with [[c/_clusters|clusters]] of small, [[y/_yellowish|yellowish]] white [[f/_flowers|flowers]] in their [[a/_axils|axils]].**
+- **A [[c/_crown|crown]] of [[l/_laurel|laurel]].**
+- **([[c/_chiefly|chiefly]] in the plural) [[h/_honor|Honor]], [[d/_distinction|distinction]], [[f/_fame|fame]].**
+	- _Example: to win laurels; to crown with laurels_
+- **[[a/_any|Any]] plant of the [[f/_family|family]] [[l/_lauraceae|Lauraceae]].**
+- **[[a/_any|Any]] of various plants of [[o/_other|other]] [[f/_families|families]] that resemble [[l/_laurels|laurels]].**
+- **An [[e/_english|English]] [[g/_gold|gold]] [[c/_coin|coin]] [[m/_made|made]] in 1619, and so [[c/_called|called]] [[b/_because|because]] the [[k/_king|king]]'s [[h/_head|head]] on it was [[c/_crowned|crowned]] with [[l/_laurel|laurel]].**
+---
+#verb
+- **To [[d/_decorate|decorate]] with [[l/_laurel|laurel]], [[e/_especially|especially]] with a [[l/_laurel|laurel]] wreath.**
+- **To [[e/_enwreathe|enwreathe]].**
+- **To [[a/_award|award]] top [[h/_honours|honours]] to.**
+---
+---

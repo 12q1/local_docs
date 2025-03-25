@@ -3,8 +3,8 @@
 #noun
 - **A [[c/_covering|covering]].**
 - **A [[d/_disguise|disguise]].**
-- **A hiding place.**
-- **[[a/_area|Area]] of thick undergrowth where [[a/_animals|animals]] hide.**
-- **A feather that [[c/_covers|covers]] the [[b/_bases|bases]] of flight feathers.**
+- **A [[h/_hiding|hiding]] place.**
+- **[[a/_area|Area]] of thick undergrowth where [[a/_animals|animals]] [[h/_hide|hide]].**
+- **A [[f/_feather|feather]] that [[c/_covers|covers]] the [[b/_bases|bases]] of [[f/_flight|flight]] [[f/_feathers|feathers]].**
 ---
 ---

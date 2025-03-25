@@ -1,6 +1,6 @@
 # Cassareep
 ---
 #noun
-- **A thick [[b/_black|black]] liquid made from [[c/_cassava|cassava]] root and spices, used medicinally and as a flavouring and preservative.**
+- **A thick [[b/_black|black]] [[l/_liquid|liquid]] [[m/_made|made]] from [[c/_cassava|cassava]] root and spices, used [[m/_medicinally|medicinally]] and as a [[f/_flavouring|flavouring]] and preservative.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dedifferentiating
 ---
 #verb
-- **To lose or reverse [[d/_differentiation|differentiation]]**
+- **To [[l/_lose|lose]] or reverse [[d/_differentiation|differentiation]]**
 ---
 ---

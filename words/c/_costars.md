@@ -3,7 +3,7 @@
 #noun
 - **A person who shares star [[b/_billing|billing]]**
 	- _Example: The once famous actor objected to his costar having a bigger dressing room._
-- **A person who slightly lacks the status to be [[c/_considered|considered]] a star**
+- **A person who slightly [[l/_lacks|lacks]] the status to be [[c/_considered|considered]] a star**
 	- _Example: Alas, always a costar but never a star._
 ---
 #verb

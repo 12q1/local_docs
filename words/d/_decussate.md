@@ -1,13 +1,13 @@
 # Decussate
 ---
 #verb
-- **To form an X or to [[c/_cross|cross]] or intersect.**
+- **To [[f/_form|form]] an X or to [[c/_cross|cross]] or [[i/_intersect|intersect]].**
 ---
 #adjective
-- **[[c/_crossed|Crossed]]; intersected; resembling a letter X.**
-- **Having [[a/_anatomical|anatomical]] structures or markings [[c/_crossing|crossing]] [[e/_each|each]] other, typically in an X shape or at right [[a/_angles|angles]].**
-- **Having opposite leaves [[a/_arranged|arranged]] [[a/_alternately|alternately]] at right [[a/_angles|angles]].**
-- **[[c/_consisting|Consisting]] of two rising and two falling [[c/_clauses|clauses]], placed in [[a/_alternate|alternate]] opposition to [[e/_each|each]] other.**
+- **[[c/_crossed|Crossed]]; [[i/_intersected|intersected]]; resembling a [[l/_letter|letter]] X.**
+- **[[h/_having|Having]] [[a/_anatomical|anatomical]] structures or [[m/_markings|markings]] [[c/_crossing|crossing]] [[e/_each|each]] [[o/_other|other]], typically in an X shape or at right [[a/_angles|angles]].**
+- **[[h/_having|Having]] [[o/_opposite|opposite]] [[l/_leaves|leaves]] [[a/_arranged|arranged]] [[a/_alternately|alternately]] at right [[a/_angles|angles]].**
+- **[[c/_consisting|Consisting]] of two rising and two [[f/_falling|falling]] [[c/_clauses|clauses]], placed in [[a/_alternate|alternate]] [[o/_opposition|opposition]] to [[e/_each|each]] [[o/_other|other]].**
 	- _Example: a decussated period_
 ---
 ### Synonyms

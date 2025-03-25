@@ -2,6 +2,6 @@
 ---
 #verb
 - **To remove the [[c/_color|color]] from.**
-- **To lose one’s [[c/_color|color]].**
+- **To [[l/_lose|lose]] [[o/_one|one]]’s [[c/_color|color]].**
 ---
 ---

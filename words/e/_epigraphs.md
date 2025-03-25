@@ -1,9 +1,9 @@
 # Epigraphs
 ---
 #noun
-- **An inscription, [[e/_especially|especially]] on a [[b/_building|building]].**
-- **A literary quotation placed at the [[b/_beginning|beginning]] of a [[b/_book|book]] or other text.**
-- **(of a function) The set of [[a/_all|all]] points lying on or [[a/_above|above]] the function's graph.**
+- **An [[i/_inscription|inscription]], [[e/_especially|especially]] on a [[b/_building|building]].**
+- **A [[l/_literary|literary]] quotation placed at the [[b/_beginning|beginning]] of a [[b/_book|book]] or [[o/_other|other]] text.**
+- **(of a [[f/_function|function]]) The set of [[a/_all|all]] points [[l/_lying|lying]] on or [[a/_above|above]] the [[f/_function|function]]'s [[g/_graph|graph]].**
 ---
 ### Antonyms
 - [[h/_hypograph|hypograph]]

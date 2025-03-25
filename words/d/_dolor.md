@@ -1,8 +1,8 @@
 # Dolor
 ---
 #noun
-- **Sorrow, grief, misery or [[a/_anguish|anguish]].**
-- **A unit of pain used to theoretically weigh people's outcomes.**
+- **Sorrow, [[g/_grief|grief]], [[m/_misery|misery]] or [[a/_anguish|anguish]].**
+- **A unit of [[p/_pain|pain]] used to theoretically weigh people's [[o/_outcomes|outcomes]].**
 ---
 ### Synonyms
 - [[d/_dol|dol]]

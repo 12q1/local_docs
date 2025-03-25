@@ -1,12 +1,12 @@
 # Consumer
 ---
 #noun
-- **One who, or that which, [[c/_consumes|consumes]].**
-- **Someone who trades money for goods or services as an individual.**
+- **[[o/_one|One]] who, or that which, [[c/_consumes|consumes]].**
+- **Someone who trades [[m/_money|money]] for [[g/_goods|goods]] or services as an [[i/_individual|individual]].**
 	- _Example: This new system favours the consumer over the producer._
-- **(by extension) The [[c/_consumer|consumer]] [[b/_base|base]] of a product, service or [[b/_business|business]].**
+- **(by [[e/_extension|extension]]) The [[c/_consumer|consumer]] [[b/_base|base]] of a product, service or [[b/_business|business]].**
 	- _Example: Our consumers are upwardly mobile and middle-class._
-- **An organism (heterotroph) that uses other organisms for food in order to gain [[e/_energy|energy]].**
+- **An [[o/_organism|organism]] ([[h/_heterotroph|heterotroph]]) that uses [[o/_other|other]] [[o/_organisms|organisms]] for [[f/_food|food]] in [[o/_order|order]] to [[g/_gain|gain]] [[e/_energy|energy]].**
 ---
 ### Antonyms
 - [[p/_producer|producer]], [[p/_producer|producer]]

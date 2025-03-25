@@ -5,6 +5,6 @@
 	- _Example: brotherly love_
 ---
 #adverb
-- **In the manner of a [[b/_brother|brother]], as a [[b/_brother|brother]], as [[b/_brothers|brothers]].**
+- **In the [[m/_manner|manner]] of a [[b/_brother|brother]], as a [[b/_brother|brother]], as [[b/_brothers|brothers]].**
 ---
 ---

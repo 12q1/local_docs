@@ -1,26 +1,26 @@
 # Blues
 ---
 #noun
-- **The [[c/_colour|colour]] of the [[c/_clear|clear]] sky or the [[d/_deep|deep]] sea, [[b/_between|between]] green and violet in the visible spectrum, and one of the primary [[a/_additive|additive]] [[c/_colours|colours]] for transmitted light; the [[c/_colour|colour]] obtained by subtracting red and green from white light using magenta and [[c/_cyan|cyan]] filters; or [[a/_any|any]] [[c/_colour|colour]] resembling this.**
+- **The [[c/_colour|colour]] of the [[c/_clear|clear]] sky or the [[d/_deep|deep]] sea, [[b/_between|between]] [[g/_green|green]] and violet in the visible spectrum, and [[o/_one|one]] of the primary [[a/_additive|additive]] [[c/_colours|colours]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting red and [[g/_green|green]] from white [[l/_light|light]] using [[m/_magenta|magenta]] and [[c/_cyan|cyan]] [[f/_filters|filters]]; or [[a/_any|any]] [[c/_colour|colour]] resembling this.**
 - **A [[b/_blue|blue]] [[d/_dye|dye]] or pigment.**
-- **[[a/_any|Any]] of several processes to protect metal [[a/_against|against]] rust.**
+- **[[a/_any|Any]] of several processes to protect [[m/_metal|metal]] [[a/_against|against]] rust.**
 - **[[b/_blue|Blue]] [[c/_clothing|clothing]]**
 	- _Example: The boys in blue marched to the pipers._
 - **(in the plural) A [[b/_blue|blue]] uniform. See [[b/_blues|blues]].**
-- **A member of law [[e/_enforcement|enforcement]]**
-- **The sky, literally or figuratively.**
+- **A [[m/_member|member]] of [[l/_law|law]] [[e/_enforcement|enforcement]]**
+- **The sky, [[l/_literally|literally]] or [[f/_figuratively|figuratively]].**
 	- _Example: His request for leave came out of the blue._
-- **The ocean; [[d/_deep|deep]] waters.**
-- **The far [[d/_distance|distance]]; a remote or [[d/_distant|distant]] place.**
-- **[[a/_anything|Anything]] [[b/_blue|blue]], [[e/_especially|especially]] to [[d/_distinguish|distinguish]] it from similar objects [[d/_differing|differing]] only in [[c/_color|color]].**
-- **A [[d/_dog|dog]] or [[c/_cat|cat]] with a slaty gray [[c/_coat|coat]].**
-- **One of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of five points.**
-- **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the subfamily Polyommatinae in the family Lycaenidae, most of which have [[b/_blue|blue]] on their wings.**
+- **The [[o/_ocean|ocean]]; [[d/_deep|deep]] waters.**
+- **The [[f/_far|far]] [[d/_distance|distance]]; a remote or [[d/_distant|distant]] place.**
+- **[[a/_anything|Anything]] [[b/_blue|blue]], [[e/_especially|especially]] to [[d/_distinguish|distinguish]] it from similar [[o/_objects|objects]] [[d/_differing|differing]] [[o/_only|only]] in [[c/_color|color]].**
+- **A [[d/_dog|dog]] or [[c/_cat|cat]] with a slaty [[g/_gray|gray]] [[c/_coat|coat]].**
+- **[[o/_one|One]] of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of [[f/_five|five]] points.**
+- **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the subfamily Polyommatinae in the [[f/_family|family]] [[l/_lycaenidae|Lycaenidae]], [[m/_most|most]] of which [[h/_have|have]] [[b/_blue|blue]] on their wings.**
 - **A [[b/_bluefish|bluefish]].**
 - **An [[a/_argument|argument]].**
-- **A liquid with an intense [[b/_blue|blue]] [[c/_colour|colour]], [[a/_added|added]] to a laundry wash to prevent yellowing of white [[c/_clothes|clothes]].**
-- **A type of firecracker.**
+- **A [[l/_liquid|liquid]] with an [[i/_intense|intense]] [[b/_blue|blue]] [[c/_colour|colour]], [[a/_added|added]] to a [[l/_laundry|laundry]] wash to prevent [[y/_yellowing|yellowing]] of white [[c/_clothes|clothes]].**
+- **A type of [[f/_firecracker|firecracker]].**
 - **A [[b/_bluestocking|bluestocking]].**
-- **One of the three [[c/_color|color]] [[c/_charges|charges]] for quarks.**
+- **[[o/_one|One]] of the three [[c/_color|color]] [[c/_charges|charges]] for quarks.**
 ---
 ---

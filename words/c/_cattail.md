@@ -1,7 +1,7 @@
 # Cattail
 ---
 #noun
-- **[[a/_any|Any]] of several perennial herbs, of the genus Typha, that have long flat leaves, and grow in marshy places**
+- **[[a/_any|Any]] of several perennial [[h/_herbs|herbs]], of the [[g/_genus|genus]] Typha, that [[h/_have|have]] [[l/_long|long]] [[f/_flat|flat]] [[l/_leaves|leaves]], and [[g/_grow|grow]] in [[m/_marshy|marshy]] places**
 ---
 ### Synonyms
 - [[b/_bulrush|bulrush]], [[r/_reedmace|reedmace]]

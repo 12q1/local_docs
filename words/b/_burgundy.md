@@ -7,9 +7,9 @@
 ### Synonyms
 - 
 #noun
-- **A [[d/_dark|dark]] red [[c/_colour|colour]] tinged with purple, like that of [[b/_burgundy|Burgundy]] (red) wine.**
+- **A [[d/_dark|dark]] red [[c/_colour|colour]] tinged with purple, [[l/_like|like]] that of [[b/_burgundy|Burgundy]] (red) wine.**
 ---
 #adjective
-- **Of a [[d/_deep|deep]] purple red [[c/_color|color]] like that of [[b/_burgundy|Burgundy]] wine.**
+- **Of a [[d/_deep|deep]] purple red [[c/_color|color]] [[l/_like|like]] that of [[b/_burgundy|Burgundy]] wine.**
 ---
 ---

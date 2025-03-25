@@ -2,9 +2,9 @@
 ---
 #verb
 - **To render unable; to take [[a/_away|away]] an [[a/_ability|ability]] of, as by [[c/_crippling|crippling]].**
-- **([[c/_chiefly|chiefly]] of a person) To impair the physical or mental [[a/_abilities|abilities]] of; to [[c/_cause|cause]] a serious, permanent injury.**
+- **([[c/_chiefly|chiefly]] of a person) To [[i/_impair|impair]] the physical or [[m/_mental|mental]] [[a/_abilities|abilities]] of; to [[c/_cause|cause]] a serious, permanent [[i/_injury|injury]].**
 	- _Example: Falling off the horse disabled him._
-- **To [[d/_deactivate|deactivate]], to make inoperational ([[e/_especially|especially]] of a function of an [[e/_electronic|electronic]] or mechanical [[d/_device|device]]).**
+- **To [[d/_deactivate|deactivate]], to [[m/_make|make]] [[i/_inoperational|inoperational]] ([[e/_especially|especially]] of a [[f/_function|function]] of an [[e/_electronic|electronic]] or [[m/_mechanical|mechanical]] [[d/_device|device]]).**
 	- _Example: The pilot had to disable the autopilot of his airplane._
 ---
 ### Synonyms
@@ -12,6 +12,6 @@
 ### Antonyms
 - [[e/_enable|enable]]
 #adjective
-- **Lacking [[a/_ability|ability]]; unable.**
+- **[[l/_lacking|Lacking]] [[a/_ability|ability]]; unable.**
 ---
 ---

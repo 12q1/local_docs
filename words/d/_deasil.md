@@ -1,7 +1,7 @@
 # Deasil
 ---
 #noun
-- **[[c/_clockwise|Clockwise]] motion.**
+- **[[c/_clockwise|Clockwise]] [[m/_motion|motion]].**
 ---
 #adverb
 - **[[c/_clockwise|Clockwise]].**

@@ -1,7 +1,7 @@
 # Coquettish
 ---
 #adjective
-- **Of or relating to a young, flirtatious girl.**
+- **Of or relating to a [[y/_young|young]], [[f/_flirtatious|flirtatious]] [[g/_girl|girl]].**
 - **[[c/_characteristic|Characteristic]] of a [[c/_coquet|coquet]].**
 ---
 ### Synonyms

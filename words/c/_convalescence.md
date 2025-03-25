@@ -1,7 +1,7 @@
 # Convalescence
 ---
 #noun
-- **A gradual healing [[a/_after|after]] illness or injury.**
-- **The period of time spent healing.**
+- **A [[g/_gradual|gradual]] [[h/_healing|healing]] [[a/_after|after]] [[i/_illness|illness]] or [[i/_injury|injury]].**
+- **The period of time spent [[h/_healing|healing]].**
 ---
 ---

@@ -1,28 +1,28 @@
 # Bleed
 ---
 #noun
-- **An incident of [[b/_bleeding|bleeding]], as in haemophilia.**
-- **A narrow [[e/_edge|edge]] [[a/_around|around]] a page layout, to be printed but [[c/_cut|cut]] off [[a/_afterwards|afterwards]] ([[a/_added|added]] to [[a/_allow|allow]] for slight misalignment, [[e/_especially|especially]] with pictures that should run to the [[e/_edge|edge]] of the finished sheet).**
-- **(sound recording) The situation where sound is picked up by a microphone from a source other than that which is intended.**
-- **The removal of [[a/_air|air]] [[b/_bubbles|bubbles]] from a pipe [[c/_containing|containing]] other fluids.**
+- **An [[i/_incident|incident]] of [[b/_bleeding|bleeding]], as in [[h/_haemophilia|haemophilia]].**
+- **A [[n/_narrow|narrow]] [[e/_edge|edge]] [[a/_around|around]] a [[p/_page|page]] [[l/_layout|layout]], to be printed but [[c/_cut|cut]] [[o/_off|off]] [[a/_afterwards|afterwards]] ([[a/_added|added]] to [[a/_allow|allow]] for slight [[m/_misalignment|misalignment]], [[e/_especially|especially]] with pictures that should run to the [[e/_edge|edge]] of the [[f/_finished|finished]] sheet).**
+- **(sound recording) The situation where sound is picked up by a [[m/_microphone|microphone]] from a source [[o/_other|other]] than that which is [[i/_intended|intended]].**
+- **The removal of [[a/_air|air]] [[b/_bubbles|bubbles]] from a pipe [[c/_containing|containing]] [[o/_other|other]] [[f/_fluids|fluids]].**
 ---
 #verb
-- **(of a person or [[a/_animal|animal]]) To lose [[b/_blood|blood]] through an injured [[b/_blood|blood]] vessel.**
+- **(of a person or [[a/_animal|animal]]) To [[l/_lose|lose]] [[b/_blood|blood]] through an [[i/_injured|injured]] [[b/_blood|blood]] vessel.**
 	- _Example: If her nose bleeds, try to use ice._
-- **To let or [[d/_draw|draw]] [[b/_blood|blood]] from.**
-- **To take large [[a/_amounts|amounts]] of money from.**
-- **To steadily lose (something vital).**
+- **To [[l/_let|let]] or [[d/_draw|draw]] [[b/_blood|blood]] from.**
+- **To take [[l/_large|large]] [[a/_amounts|amounts]] of [[m/_money|money]] from.**
+- **To steadily [[l/_lose|lose]] (something vital).**
 	- _Example: The company was bleeding talent._
-- **(of an ink or [[d/_dye|dye]]) To spread from the intended location and stain the surrounding [[c/_cloth|cloth]] or paper.**
+- **(of an [[i/_ink|ink]] or [[d/_dye|dye]]) To spread from the [[i/_intended|intended]] [[l/_location|location]] and stain the surrounding [[c/_cloth|cloth]] or paper.**
 	- _Example: Ink traps counteract bleeding._
-- **To remove [[a/_air|air]] [[b/_bubbles|bubbles]] from a pipe [[c/_containing|containing]] other fluids.**
-- **To [[b/_bleed|bleed]] on; to make [[b/_bloody|bloody]].**
-- **To show one's group loyalty by showing (its [[a/_associated|associated]] [[c/_color|color]]) in one's [[b/_blood|blood]].**
+- **To remove [[a/_air|air]] [[b/_bubbles|bubbles]] from a pipe [[c/_containing|containing]] [[o/_other|other]] [[f/_fluids|fluids]].**
+- **To [[b/_bleed|bleed]] on; to [[m/_make|make]] [[b/_bloody|bloody]].**
+- **To show [[o/_one|one]]'s [[g/_group|group]] [[l/_loyalty|loyalty]] by showing ([[i/_its|its]] [[a/_associated|associated]] [[c/_color|color]]) in [[o/_one|one]]'s [[b/_blood|blood]].**
 	- _Example: He was a devoted Vikings fan: he bled purple._
-- **To lose sap, gum, or juice.**
+- **To [[l/_lose|lose]] sap, [[g/_gum|gum]], or [[j/_juice|juice]].**
 	- _Example: A tree or a vine bleeds when tapped or wounded._
-- **To issue forth, or [[d/_drop|drop]], like [[b/_blood|blood]] from an incision.**
-- **(of a phonological rule) To [[d/_destroy|destroy]] the [[e/_environment|environment]] where [[a/_another|another]] phonological rule would have [[a/_applied|applied]].**
+- **To [[i/_issue|issue]] [[f/_forth|forth]], or [[d/_drop|drop]], [[l/_like|like]] [[b/_blood|blood]] from an [[i/_incision|incision]].**
+- **(of a phonological rule) To [[d/_destroy|destroy]] the [[e/_environment|environment]] where [[a/_another|another]] phonological rule would [[h/_have|have]] [[a/_applied|applied]].**
 	- _Example: Labialization bleeds palatalization._
 ---
 ---

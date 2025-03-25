@@ -1,6 +1,6 @@
 # Educationese
 ---
 #noun
-- **The jargon used by [[e/_educators|educators]].**
+- **The [[j/_jargon|jargon]] used by [[e/_educators|educators]].**
 ---
 ---

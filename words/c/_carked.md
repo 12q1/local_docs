@@ -1,13 +1,13 @@
 # Carked
 ---
 #verb
-- **To be filled with worry, solicitude, or troubles.**
+- **To be [[f/_filled|filled]] with worry, solicitude, or troubles.**
 - **To [[b/_bring|bring]] worry, vexation, or [[a/_anxiety|anxiety]].**
-- **To labor [[a/_anxiously|anxiously]].**
+- **To [[l/_labor|labor]] [[a/_anxiously|anxiously]].**
 ---
 #verb
-- **To [[d/_drive|drive]] oakum into the seams of a ship's wooden [[d/_deck|deck]] or hull to make it watertight.**
-- **To [[a/_apply|apply]] [[c/_caulking|caulking]] to joints, [[c/_cracks|cracks]], or a juncture of [[d/_different|different]] materials.**
-- **Fuck**
+- **To [[d/_drive|drive]] [[o/_oakum|oakum]] [[i/_into|into]] the seams of a ship's wooden [[d/_deck|deck]] or [[h/_hull|hull]] to [[m/_make|make]] it watertight.**
+- **To [[a/_apply|apply]] [[c/_caulking|caulking]] to [[j/_joints|joints]], [[c/_cracks|cracks]], or a [[j/_juncture|juncture]] of [[d/_different|different]] [[m/_materials|materials]].**
+- **[[f/_fuck|Fuck]]**
 ---
 ---

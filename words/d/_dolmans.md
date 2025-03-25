@@ -1,8 +1,8 @@
 # Dolmans
 ---
 #noun
-- **A long, loose garment with narrow sleeves and an opening in the front, generally worn by Turks.**
-- **A short, [[c/_close|close]]-fitting, heavily [[b/_braided|braided]] military jacket, usually worn under a pelisse, originally by hussars.**
-- **A woman's garment with wide capelike sleeves.**
+- **A [[l/_long|long]], [[l/_loose|loose]] [[g/_garment|garment]] with [[n/_narrow|narrow]] sleeves and an [[o/_opening|opening]] in the [[f/_front|front]], [[g/_generally|generally]] worn by Turks.**
+- **A short, [[c/_close|close]]-[[f/_fitting|fitting]], [[h/_heavily|heavily]] [[b/_braided|braided]] [[m/_military|military]] [[j/_jacket|jacket]], usually worn under a pelisse, [[o/_originally|originally]] by [[h/_hussars|hussars]].**
+- **A woman's [[g/_garment|garment]] with wide capelike sleeves.**
 ---
 ---

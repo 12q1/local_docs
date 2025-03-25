@@ -1,6 +1,6 @@
 # Ainhum
 ---
 #noun
-- **A painful [[c/_constriction|constriction]] of the [[b/_base|base]] of the fifth toe, frequently followed by autoamputation, occurring predominantly in [[b/_black|black]] [[a/_africans|Africans]] and their [[d/_descendants|descendants]].**
+- **A [[p/_painful|painful]] [[c/_constriction|constriction]] of the [[b/_base|base]] of the [[f/_fifth|fifth]] toe, [[f/_frequently|frequently]] [[f/_followed|followed]] by autoamputation, [[o/_occurring|occurring]] predominantly in [[b/_black|black]] [[a/_africans|Africans]] and their [[d/_descendants|descendants]].**
 ---
 ---

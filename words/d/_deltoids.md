@@ -1,8 +1,8 @@
 # Deltoids
 ---
 #noun
-- **The [[d/_deltoid|deltoid]] muscle, a triangular muscle on the human shoulder.**
-- **The [[d/_deltoid|deltoid]] ligament, a triangular ligament on the human [[a/_ankle|ankle]].**
+- **The [[d/_deltoid|deltoid]] [[m/_muscle|muscle]], a triangular [[m/_muscle|muscle]] on the [[h/_human|human]] shoulder.**
+- **The [[d/_deltoid|deltoid]] [[l/_ligament|ligament]], a triangular [[l/_ligament|ligament]] on the [[h/_human|human]] [[a/_ankle|ankle]].**
 ---
 ### Synonyms
 - [[d/_delt|delt]]

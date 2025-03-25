@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Pertaining to an [[a/_arcade|arcade]].**
-- **Furnished with [[a/_arcades|arcades]].**
-- **Ideally rustic or pastoral.**
+- **[[f/_furnished|Furnished]] with [[a/_arcades|arcades]].**
+- **[[i/_ideally|Ideally]] rustic or pastoral.**
 ---
 ---

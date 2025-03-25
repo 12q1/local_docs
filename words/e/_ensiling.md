@@ -1,6 +1,6 @@
 # Ensiling
 ---
 #verb
-- **To preserve (forage) in a silo.**
+- **To preserve ([[f/_forage|forage]]) in a silo.**
 ---
 ---

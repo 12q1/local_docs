@@ -1,6 +1,6 @@
 # Causalgia
 ---
 #noun
-- **An intense [[b/_burning|burning]] pain.**
+- **An [[i/_intense|intense]] [[b/_burning|burning]] [[p/_pain|pain]].**
 ---
 ---

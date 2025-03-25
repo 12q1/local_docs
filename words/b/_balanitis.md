@@ -1,6 +1,6 @@
 # Balanitis
 ---
 #noun
-- **(andrology) inflammation of the glans penis**
+- **(andrology) [[i/_inflammation|inflammation]] of the [[g/_glans|glans]] penis**
 ---
 ---

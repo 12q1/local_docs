@@ -4,51 +4,51 @@
 - **A stroke; a [[b/_blow|blow]].**
 - **A pulsation or throb.**
 	- _Example: a beat of the heart; the beat of the pulse_
-- **A pulse on the [[b/_beat|beat]] level, the metric level at which pulses are heard as the [[b/_basic|basic]] unit. Thus a [[b/_beat|beat]] is the [[b/_basic|basic]] time unit of a piece.**
+- **A pulse on the [[b/_beat|beat]] [[l/_level|level]], the [[m/_metric|metric]] [[l/_level|level]] at which pulses are [[h/_heard|heard]] as the [[b/_basic|basic]] unit. Thus a [[b/_beat|beat]] is the [[b/_basic|basic]] time unit of a piece.**
 - **A rhythm.**
-- **The interference [[b/_between|between]] two tones of [[a/_almost|almost]] [[e/_equal|equal]] frequency**
+- **The [[i/_interference|interference]] [[b/_between|between]] two tones of [[a/_almost|almost]] [[e/_equal|equal]] [[f/_frequency|frequency]]**
 - **([[a/_authorship|authorship]]) A short pause in a play, screenplay, or teleplay, for [[d/_dramatic|dramatic]] or [[c/_comedic|comedic]] [[e/_effect|effect]]; a plot point or story [[d/_development|development]].**
-- **The route patrolled by a police officer or a guard.**
-- **(by extension) An [[a/_area|area]] of a person's responsibility, [[e/_especially|especially]]**
-- **An [[a/_act|act]] of reporting news or scientific results [[b/_before|before]] a rival; a scoop.**
-- **That which [[b/_beats|beats]], or surpasses, [[a/_another|another]] or others.**
+- **The route patrolled by a police [[o/_officer|officer]] or a [[g/_guard|guard]].**
+- **(by [[e/_extension|extension]]) An [[a/_area|area]] of a person's responsibility, [[e/_especially|especially]]**
+- **An [[a/_act|act]] of reporting [[n/_news|news]] or scientific results [[b/_before|before]] a rival; a scoop.**
+- **That which [[b/_beats|beats]], or surpasses, [[a/_another|another]] or [[o/_others|others]].**
 	- _Example: the beat of him_
 - **A precinct.**
-- **A place of habitual or frequent resort.**
-- **A low [[c/_cheat|cheat]] or swindler.**
+- **A place of [[h/_habitual|habitual]] or [[f/_frequent|frequent]] resort.**
+- **A [[l/_low|low]] [[c/_cheat|cheat]] or swindler.**
 	- _Example: a dead beat_
-- **The instrumental portion of a piece of hip-hop music.**
-- **The [[a/_act|act]] of scouring, or ranging over, a tract of land to rouse or [[d/_drive|drive]] out game; [[a/_also|also]], those so [[e/_engaged|engaged]], [[c/_collectively|collectively]].**
+- **The [[i/_instrumental|instrumental]] portion of a piece of [[h/_hip|hip]]-[[h/_hop|hop]] [[m/_music|music]].**
+- **The [[a/_act|act]] of scouring, or ranging [[o/_over|over]], a tract of [[l/_land|land]] to rouse or [[d/_drive|drive]] [[o/_out|out]] [[g/_game|game]]; [[a/_also|also]], those so [[e/_engaged|engaged]], [[c/_collectively|collectively]].**
 - **A smart tap on the [[a/_adversary|adversary]]'s [[b/_blade|blade]].**
 ---
 #verb
-- **To hit; strike**
+- **To [[h/_hit|hit]]; strike**
 	- _Example: As soon as she heard that her father had died, she went into a rage and beat the wall with her fists until her knuckles bled._
 - **To strike or pound repeatedly, usually in some sort of rhythm.**
 	- _Example: He danced hypnotically while she beat the atabaque._
-- **To strike repeatedly; to inflict repeated [[b/_blows|blows]]; to knock vigorously or loudly.**
-- **To move with pulsation or throbbing.**
-- **To win [[a/_against|against]]; to [[d/_defeat|defeat]] or overcome; to [[d/_do|do]] [[b/_better|better]] than, outdo, or excel (someone) in a particular, [[c/_competitive|competitive]] event.**
+- **To strike repeatedly; to [[i/_inflict|inflict]] repeated [[b/_blows|blows]]; to [[k/_knock|knock]] vigorously or [[l/_loudly|loudly]].**
+- **To [[m/_move|move]] with pulsation or throbbing.**
+- **To win [[a/_against|against]]; to [[d/_defeat|defeat]] or [[o/_overcome|overcome]]; to [[d/_do|do]] [[b/_better|better]] than, [[o/_outdo|outdo]], or [[e/_excel|excel]] (someone) in a particular, [[c/_competitive|competitive]] [[e/_event|event]].**
 	- _Example: I just can't seem to beat the last level of this video game._
 - **To sail to windward using a series of [[a/_alternate|alternate]] tacks [[a/_across|across]] the wind.**
-- **To strike (water, foliage [[e/_etc|etc]].) in order to [[d/_drive|drive]] out game; to travel through (a forest [[e/_etc|etc]].) for hunting.**
-- **To mix food in a rapid fashion. [[c/_compare|Compare]] whip.**
+- **To strike (water, [[f/_foliage|foliage]] [[e/_etc|etc]].) in [[o/_order|order]] to [[d/_drive|drive]] [[o/_out|out]] [[g/_game|game]]; to travel through (a [[f/_forest|forest]] [[e/_etc|etc]].) for [[h/_hunting|hunting]].**
+- **To [[m/_mix|mix]] [[f/_food|food]] in a rapid [[f/_fashion|fashion]]. [[c/_compare|Compare]] whip.**
 	- _Example: Beat the eggs and whip the cream._
-- **(In haggling for a price) of a [[b/_buyer|buyer]], to persuade the seller to reduce a price**
+- **(In [[h/_haggling|haggling]] for a price) of a [[b/_buyer|buyer]], to persuade the seller to reduce a price**
 	- _Example: He wanted $50 for it, but I managed to beat him down to $35._
-- **To indicate by [[b/_beating|beating]] or [[d/_drumming|drumming]].**
+- **To [[i/_indicate|indicate]] by [[b/_beating|beating]] or [[d/_drumming|drumming]].**
 	- _Example: to beat a retreat; to beat to quarters_
 - **To tread, as a path.**
-- **To exercise severely; to perplex; to trouble.**
+- **To [[e/_exercise|exercise]] severely; to perplex; to trouble.**
 - **To be in [[a/_agitation|agitation]] or [[d/_doubt|doubt]].**
-- **To make a sound when struck.**
+- **To [[m/_make|make]] a sound when struck.**
 	- _Example: The drums beat._
-- **To make a succession of strokes on a [[d/_drum|drum]].**
+- **To [[m/_make|make]] a succession of strokes on a [[d/_drum|drum]].**
 	- _Example: The drummers beat to call soldiers to their quarters._
-- **To sound with more or less rapid [[a/_alternations|alternations]] of greater and less intensity, so as to produce a pulsating [[e/_effect|effect]]; said of instruments, tones, or vibrations, not perfectly in unison.**
+- **To sound with [[m/_more|more]] or [[l/_less|less]] rapid [[a/_alternations|alternations]] of [[g/_greater|greater]] and [[l/_less|less]] [[i/_intensity|intensity]], so as to produce a pulsating [[e/_effect|effect]]; said of [[i/_instruments|instruments]], tones, or vibrations, not perfectly in unison.**
 - **To [[a/_arrive|arrive]] at a place [[b/_before|before]] someone.**
 	- _Example: He beat me there._
-- **To have sexual intercourse.**
+- **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]].**
 	- _Example: Bruv, she came in just as we started to beat._
 - **To rob.**
 	- _Example: He beat me out of 12 bucks last night._

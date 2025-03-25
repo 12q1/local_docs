@@ -1,6 +1,6 @@
 # Conations
 ---
 #noun
-- **The power or [[a/_act|act]] which [[d/_directs|directs]] or impels to [[e/_effort|effort]] of [[a/_any|any]] kind, whether muscular or psychical.**
+- **The power or [[a/_act|act]] which [[d/_directs|directs]] or [[i/_impels|impels]] to [[e/_effort|effort]] of [[a/_any|any]] [[k/_kind|kind]], whether [[m/_muscular|muscular]] or psychical.**
 ---
 ---

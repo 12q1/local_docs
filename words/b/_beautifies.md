@@ -1,7 +1,7 @@
 # Beautifies
 ---
 #verb
-- **To make [[b/_beautiful|beautiful]], or to increase the [[b/_beauty|beauty]] of.**
+- **To [[m/_make|make]] [[b/_beautiful|beautiful]], or to [[i/_increase|increase]] the [[b/_beauty|beauty]] of.**
 - **To [[b/_become|become]] [[b/_beautiful|beautiful]].**
 ---
 ### Synonyms

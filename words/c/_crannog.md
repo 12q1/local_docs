@@ -1,6 +1,6 @@
 # Crannog
 ---
 #noun
-- **An [[a/_artificial|artificial]] island, used in prehistoric and medieval times in Scotland and Ireland for [[d/_dwelling|dwelling]].**
+- **An [[a/_artificial|artificial]] [[i/_island|island]], used in prehistoric and [[m/_medieval|medieval]] times in Scotland and [[i/_ireland|Ireland]] for [[d/_dwelling|dwelling]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Blotter
 ---
 #noun
-- **A piece of [[b/_blotting|blotting]] paper in a pad as a piece of [[d/_desk|desk]] furniture**
-- **(law [[e/_enforcement|enforcement]]) a [[d/_daily|daily]] register of [[a/_arrests|arrests]] and other events in a police station**
-- **A register of the related events made in the form of the list of times and [[b/_brief|brief]] [[d/_descriptions|descriptions]]**
+- **A piece of [[b/_blotting|blotting]] paper in a [[p/_pad|pad]] as a piece of [[d/_desk|desk]] [[f/_furniture|furniture]]**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) a [[d/_daily|daily]] register of [[a/_arrests|arrests]] and [[o/_other|other]] [[e/_events|events]] in a police station**
+- **A register of the related [[e/_events|events]] [[m/_made|made]] in the [[f/_form|form]] of the [[l/_list|list]] of times and [[b/_brief|brief]] [[d/_descriptions|descriptions]]**
 	- _Example: All transactions were entered in the cash blotter and agent's subsidiary ledger._
 - **A portion of [[b/_blotter|blotter]] [[a/_acid|acid]].**
 ---

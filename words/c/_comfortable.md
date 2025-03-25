@@ -12,7 +12,7 @@
 - **[[a/_amply|Amply]] sufficient, satisfactory.**
 	- _Example: A comfortable income should suffice to consider oneself rich._
 - **Strong; vigorous; valiant.**
-- **Serviceable; helpful.**
+- **Serviceable; [[h/_helpful|helpful]].**
 ---
 ### Synonyms
 - [[c/_comforting|comforting]], [[c/_comfy|comfy]], [[c/_cozy|cozy]], [[c/_cushy|cushy]], [[e/_eathful|eathful]], [[r/_restful|restful]], [[s/_snug|snug]], [[s/_safe|safe]]

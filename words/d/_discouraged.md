@@ -1,7 +1,7 @@
 # Discouraged
 ---
 #verb
-- **To extinguish the [[c/_courage|courage]] of; to [[d/_dishearten|dishearten]]; to [[d/_depress|depress]] the spirits of; to [[d/_deprive|deprive]] of [[c/_confidence|confidence]]; to [[d/_deject|deject]].**
+- **To [[e/_extinguish|extinguish]] the [[c/_courage|courage]] of; to [[d/_dishearten|dishearten]]; to [[d/_depress|depress]] the spirits of; to [[d/_deprive|deprive]] of [[c/_confidence|confidence]]; to [[d/_deject|deject]].**
 	- _Example: Don't be discouraged by the amount of work left to do: you'll finish it in good time._
 - **To persuade somebody not to [[d/_do|do]] (something).**
 ---
@@ -10,7 +10,7 @@
 ### Antonyms
 - [[e/_encourage|encourage]]
 #adjective
-- **Having lost [[c/_confidence|confidence]] or hope; [[d/_dejected|dejected]]; [[d/_disheartened|disheartened]].**
+- **[[h/_having|Having]] [[l/_lost|lost]] [[c/_confidence|confidence]] or [[h/_hope|hope]]; [[d/_dejected|dejected]]; [[d/_disheartened|disheartened]].**
 - **Unrecommended; unprescribed.**
 ---
 ---

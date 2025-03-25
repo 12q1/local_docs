@@ -1,15 +1,15 @@
 # Elves
 ---
 #noun
-- **A luminous spirit presiding over nature and fertility and [[d/_dwelling|dwelling]] in the world of Álfheim ([[e/_elfland|Elfland]]). [[c/_compare|Compare]] [[a/_angel|angel]], nymph, fairy.**
-- **[[a/_any|Any]] from a race of mythical, supernatural [[b/_beings|beings]] resembling but seen as [[d/_distinct|distinct]] from human [[b/_beings|beings]]. They are usually [[d/_delicate|delicate]]-featured and skilled in magic or spellcrafting; sometimes [[d/_depicted|depicted]] as [[c/_clashing|clashing]] with [[d/_dwarves|dwarves]], [[e/_especially|especially]] in modern fantasy literature.**
-- **[[a/_any|Any]] of the magical, typically forest-guarding races [[b/_bearing|bearing]] some similarities to the Norse álfar (through Tolkien's Eldar).**
+- **A [[l/_luminous|luminous]] spirit presiding [[o/_over|over]] [[n/_nature|nature]] and [[f/_fertility|fertility]] and [[d/_dwelling|dwelling]] in the world of Álfheim ([[e/_elfland|Elfland]]). [[c/_compare|Compare]] [[a/_angel|angel]], [[n/_nymph|nymph]], [[f/_fairy|fairy]].**
+- **[[a/_any|Any]] from a race of [[m/_mythical|mythical]], supernatural [[b/_beings|beings]] resembling but seen as [[d/_distinct|distinct]] from [[h/_human|human]] [[b/_beings|beings]]. They are usually [[d/_delicate|delicate]]-[[f/_featured|featured]] and skilled in [[m/_magic|magic]] or spellcrafting; sometimes [[d/_depicted|depicted]] as [[c/_clashing|clashing]] with [[d/_dwarves|dwarves]], [[e/_especially|especially]] in [[m/_modern|modern]] [[f/_fantasy|fantasy]] [[l/_literature|literature]].**
+- **[[a/_any|Any]] of the [[m/_magical|magical]], typically [[f/_forest|forest]]-[[g/_guarding|guarding]] races [[b/_bearing|bearing]] some similarities to the [[n/_norse|Norse]] álfar (through Tolkien's Eldar).**
 - **A very [[d/_diminutive|diminutive]] person; a [[d/_dwarf|dwarf]].**
 - **The [[b/_bluefish|bluefish]] (Pomatomus saltatrix).**
 ---
 ### Synonyms
 - [[f/_fairy|fairy]], [[g/_goblin|goblin]]
 #noun
-- **An upper [[a/_atmospheric|atmospheric]] optical phenomenon [[a/_associated|associated]] with thunderstorms, rapidly expanding [[d/_disk|disk]]-shaped regions of luminosity, lasting less than a thousandth of a second, which occur high [[a/_above|above]] [[e/_energetic|energetic]] [[c/_cloud|cloud]]-to-ground lightning of positive or negative polarity**
+- **An upper [[a/_atmospheric|atmospheric]] [[o/_optical|optical]] phenomenon [[a/_associated|associated]] with thunderstorms, rapidly [[e/_expanding|expanding]] [[d/_disk|disk]]-shaped regions of [[l/_luminosity|luminosity]], [[l/_lasting|lasting]] [[l/_less|less]] than a thousandth of a second, which [[o/_occur|occur]] [[h/_high|high]] [[a/_above|above]] [[e/_energetic|energetic]] [[c/_cloud|cloud]]-to-[[g/_ground|ground]] [[l/_lightning|lightning]] of positive or [[n/_negative|negative]] polarity**
 ---
 ---

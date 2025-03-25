@@ -1,6 +1,6 @@
 # Dissatisfy
 ---
 #verb
-- **To fail to satisfy; to [[d/_displease|displease]].**
+- **To [[f/_fail|fail]] to satisfy; to [[d/_displease|displease]].**
 ---
 ---

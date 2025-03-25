@@ -1,9 +1,9 @@
 # Bergs
 ---
 #noun
-- **An iceberg.**
+- **An [[i/_iceberg|iceberg]].**
 ---
 #noun
-- **Mountain**
+- **[[m/_mountain|Mountain]]**
 ---
 ---

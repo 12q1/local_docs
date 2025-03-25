@@ -1,7 +1,7 @@
 # Damaged
 ---
 #verb
-- **To impair the soundness, goodness, or value of; to harm or [[c/_cause|cause]] [[d/_destruction|destruction]].**
+- **To [[i/_impair|impair]] the soundness, [[g/_goodness|goodness]], or value of; to [[h/_harm|harm]] or [[c/_cause|cause]] [[d/_destruction|destruction]].**
 	- _Example: Be careful not to damage any of the fragile items while unpacking them._
 - **To undergo [[d/_damage|damage]].**
 ---

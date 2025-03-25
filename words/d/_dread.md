@@ -1,24 +1,24 @@
 # Dread
 ---
 #noun
-- **Great fear in view of impending evil; fearful [[a/_apprehension|apprehension]] of [[d/_danger|danger]]; [[a/_anticipatory|anticipatory]] terror.**
+- **[[g/_great|Great]] [[f/_fear|fear]] in view of [[i/_impending|impending]] [[e/_evil|evil]]; [[f/_fearful|fearful]] [[a/_apprehension|apprehension]] of [[d/_danger|danger]]; [[a/_anticipatory|anticipatory]] terror.**
 	- _Example: my visit to the doctor is filling me with dread_
-- **Reverential or respectful fear; [[a/_awe|awe]].**
+- **Reverential or respectful [[f/_fear|fear]]; [[a/_awe|awe]].**
 - **Somebody or something [[d/_dreaded|dreaded]].**
-- **A person highly revered.**
-- **Fury; [[d/_dreadfulness|dreadfulness]].**
+- **A person [[h/_highly|highly]] revered.**
+- **[[f/_fury|Fury]]; [[d/_dreadfulness|dreadfulness]].**
 - **A Rastafarian.**
 - **([[c/_chiefly|chiefly]] in the plural) dreadlock**
 ---
 #verb
-- **To fear greatly.**
-- **To [[a/_anticipate|anticipate]] with fear.**
+- **To [[f/_fear|fear]] [[g/_greatly|greatly]].**
+- **To [[a/_anticipate|anticipate]] with [[f/_fear|fear]].**
 	- _Example: I'm dreading getting the results of the test, as it could decide my whole life._
-- **To be in [[d/_dread|dread]], or great fear.**
-- **To style (the hair) into [[d/_dreadlocks|dreadlocks]].**
+- **To be in [[d/_dread|dread]], or [[g/_great|great]] [[f/_fear|fear]].**
+- **To style (the [[h/_hair|hair]]) [[i/_into|into]] [[d/_dreadlocks|dreadlocks]].**
 ---
 #adjective
-- **Terrible; greatly feared.**
-- **[[a/_awe|Awe]]-inspiring; held in fearful [[a/_awe|awe]].**
+- **Terrible; [[g/_greatly|greatly]] [[f/_feared|feared]].**
+- **[[a/_awe|Awe]]-[[i/_inspiring|inspiring]]; [[h/_held|held]] in [[f/_fearful|fearful]] [[a/_awe|awe]].**
 ---
 ---

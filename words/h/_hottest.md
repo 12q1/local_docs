@@ -1,0 +1,49 @@
+# Hottest
+---
+#adjective
+- **(of an [[o/_object|object]]) [[h/_having|Having]] a [[h/_high|high]] temperature.**
+	- _Example: He forgot that the frying pan was hot and burned his hand._
+- **(of the weather) [[c/_causing|Causing]] the [[a/_air|air]] to be [[h/_hot|hot]].**
+	- _Example: It is hotter in summer than in winter._
+- **(of a person or [[a/_animal|animal]]) [[f/_feeling|Feeling]] the sensation of [[h/_heat|heat]], [[e/_especially|especially]] to the point of [[d/_discomfort|discomfort]].**
+	- _Example: Aren't you hot with that thick coat on?_
+- **(of a temper) [[e/_easily|Easily]] provoked to [[a/_anger|anger]].**
+	- _Example: Be careful, he has a hot temper and may take it out on you._
+- **[[f/_feverish|Feverish]].**
+- **(of [[f/_food|food]]) Spicy.**
+	- _Example: Before moving to India, I never ate hot food. The Indians love spicy food._
+- **Very [[g/_good|good]], remarkable, [[e/_exciting|exciting]].**
+	- _Example: He's a hot young player, we should give him a trial._
+- **Stolen.**
+	- _Example: hot merchandise_
+- **[[e/_electrically|Electrically]] [[c/_charged|charged]].**
+	- _Example: a hot wire_
+- **Radioactive.**
+- **(of a person) Very physically and/or sexually [[a/_attractive|attractive]].**
+	- _Example: That stripper is hot!_
+- **Sexual or sexy; [[i/_involving|involving]] sexual [[i/_intercourse|intercourse]] or sexual [[e/_excitement|excitement]].**
+- **Sexually [[a/_aroused|aroused]]; randy.**
+	- _Example: Enough foreplay! You’ve gotten me so hot already!_
+- **(with for) [[a/_attracted|Attracted]] to.**
+	- _Example: hot for her English teacher_
+- **Popular; in [[d/_demand|demand]].**
+	- _Example: This new pickup is so hot we can't keep it in stock!_
+- **Of [[g/_great|great]] [[c/_current|current]] [[i/_interest|interest]]; provoking [[c/_current|current]] [[d/_debate|debate]] or [[c/_controversy|controversy]].**
+	- _Example: a hot topic_
+- **Very [[c/_close|close]] to [[f/_finding|finding]] or [[g/_guessing|guessing]] something to be [[f/_found|found]] or [[g/_guessed|guessed]].**
+	- _Example: Am I warm yet? — You're hot!_
+- **Performing strongly; [[h/_having|having]] repeated successes.**
+- **[[f/_fresh|Fresh]]; [[j/_just|just]] released.**
+- **Uncomfortable, [[d/_difficult|difficult]] to [[d/_deal|deal]] with; [[a/_awkward|awkward]], [[d/_dangerous|dangerous]], unpleasant.**
+- **Used to [[e/_emphasize|emphasize]] the short [[d/_duration|duration]] or small quantity of something**
+	- _Example: He was finished in a hot minute._
+- **[[c/_characterized|Characterized]] by police presence or [[a/_activity|activity]].**
+	- _Example: I wouldn't speed through here if I was you. This area is hot this time of night._
+- **(of a [[d/_draft|draft]]/[[c/_check|check]]) Not [[c/_covered|covered]] by [[f/_funds|funds]] on [[a/_account|account]].**
+	- _Example: I wouldn't trust him. He gave me a hot check last week._
+---
+### Synonyms
+- [[l/_live|live]], [[b/_baking|baking]], [[b/_boiling|boiling]], [[f/_feverish|feverish]], [[t/_temperature|temperature]], [[h/_heated|heated]], [[b/_bad|bad]], [[r/_rubber|rubber]], [[b/_baking|baking]], [[b/_boiling|boiling]], [[s/_sultry|sultry]], [[s/_sweltering|sweltering]], [[r/_radioactive|radioactive]], [[a/_attractive|attractive]], [[b/_beautiful|beautiful]], [[c/_cute|cute]], [[f/_fit|fit]], [[f/_foxy|foxy]], [[g/_gorgeous|gorgeous]], [[h/_handsome|handsome]], [[h/_hunky|hunky]], [[l/_lush|lush]], [[p/_pretty|pretty]], [[s/_sexy|sexy]], [[s/_studly|studly]], [[t/_tasty|tasty]], [[y/_yummy|yummy]], [[s/_stolen|stolen]], [[p/_piquant|piquant]], [[s/_spicy|spicy]], [[t/_tangy|tangy]]
+### Antonyms
+- [[d/_dead|dead]], [[n/_neutral|neutral]], [[f/_freezing|freezing]], [[c/_chilled|chilled]], [[c/_chilly|chilly]], [[c/_cold|cold]], [[f/_freezing|freezing]], [[f/_frigid|frigid]], [[g/_glacial|glacial]], [[i/_ice-cold|ice-cold]], [[i/_icy|icy]], [[c/_cold|cold]], [[f/_freezing|freezing]], [[i/_icy|icy]], [[l/_lifeless|lifeless]], [[b/_bland|bland]], [[m/_mild|mild]]
+---

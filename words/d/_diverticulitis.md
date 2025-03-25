@@ -1,6 +1,6 @@
 # Diverticulitis
 ---
 #noun
-- **An infection of the [[d/_diverticulum|diverticulum]].**
+- **An [[i/_infection|infection]] of the [[d/_diverticulum|diverticulum]].**
 ---
 ---

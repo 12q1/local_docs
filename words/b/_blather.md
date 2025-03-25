@@ -1,10 +1,10 @@
 # Blather
 ---
 #noun
-- **Nonsensical or foolish talk.**
+- **[[n/_nonsensical|Nonsensical]] or [[f/_foolish|foolish]] talk.**
 ---
 #verb
-- **To talk rapidly without making much sense.**
-- **To say (something foolish or nonsensical); to say (something) in a foolish or overly verbose way.**
+- **To talk rapidly without [[m/_making|making]] [[m/_much|much]] sense.**
+- **To say (something [[f/_foolish|foolish]] or [[n/_nonsensical|nonsensical]]); to say (something) in a [[f/_foolish|foolish]] or [[o/_overly|overly]] verbose way.**
 ---
 ---

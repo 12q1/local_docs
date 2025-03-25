@@ -1,6 +1,6 @@
 # Couscous
 ---
 #noun
-- **A pasta of North [[a/_african|African]] origin made of [[c/_crushed|crushed]] and steamed semolina.**
+- **A pasta of [[n/_north|North]] [[a/_african|African]] [[o/_origin|origin]] [[m/_made|made]] of [[c/_crushed|crushed]] and steamed semolina.**
 ---
 ---

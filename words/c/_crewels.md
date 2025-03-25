@@ -1,9 +1,9 @@
 # Crewels
 ---
 #noun
-- **Worsted yarn, slackly twisted, used for [[e/_embroidery|embroidery]].**
+- **Worsted [[y/_yarn|yarn]], slackly twisted, used for [[e/_embroidery|embroidery]].**
 ---
 #noun
-- **Glandular scrofulous swellings in the neck.**
+- **[[g/_glandular|Glandular]] scrofulous swellings in the [[n/_neck|neck]].**
 ---
 ---

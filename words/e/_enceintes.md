@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[e/_enclosure|enclosure]].**
-- **The line of works forming the main [[e/_enclosure|enclosure]] of a fortress.**
-- **The [[a/_area|area]] or town [[e/_enclosed|enclosed]] by a line of fortification.**
+- **The [[l/_line|line]] of works [[f/_forming|forming]] the [[m/_main|main]] [[e/_enclosure|enclosure]] of a [[f/_fortress|fortress]].**
+- **The [[a/_area|area]] or town [[e/_enclosed|enclosed]] by a [[l/_line|line]] of [[f/_fortification|fortification]].**
 ---
 ---

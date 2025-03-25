@@ -1,9 +1,9 @@
 # Corset
 ---
 #noun
-- **A woman's foundation garment, reinforced with stays, that supports the waistline, hips and [[b/_bust|bust]].**
-- **A tight-fitting gown or [[b/_basque|basque]] worn by [[b/_both|both]] men and women [[d/_during|during]] the Middle [[a/_ages|Ages]].**
-- **A regulation that limited the growth of [[b/_british|British]] [[b/_banks|banks]]' interest-[[b/_bearing|bearing]] [[d/_deposits|deposits]].**
+- **A woman's [[f/_foundation|foundation]] [[g/_garment|garment]], reinforced with stays, that supports the waistline, [[h/_hips|hips]] and [[b/_bust|bust]].**
+- **A tight-[[f/_fitting|fitting]] [[g/_gown|gown]] or [[b/_basque|basque]] worn by [[b/_both|both]] [[m/_men|men]] and women [[d/_during|during]] the [[m/_middle|Middle]] [[a/_ages|Ages]].**
+- **A regulation that [[l/_limited|limited]] the [[g/_growth|growth]] of [[b/_british|British]] [[b/_banks|banks]]' [[i/_interest|interest]]-[[b/_bearing|bearing]] [[d/_deposits|deposits]].**
 ---
 ### Synonyms
 - [[b/_bodice|bodice]], [[s/_stays|stays]], [[u/_underbodice|underbodice]]

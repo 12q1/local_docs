@@ -1,6 +1,6 @@
 # Conchie
 ---
 #noun
-- **A [[c/_conscientious|conscientious]] objector.**
+- **A [[c/_conscientious|conscientious]] [[o/_objector|objector]].**
 ---
 ---

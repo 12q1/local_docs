@@ -1,9 +1,9 @@
 # Continuant
 ---
 #noun
-- **A linguistic sound other than a stop.**
-- **A [[d/_determinant|determinant]] formed from a tridiagonal matrix.**
-- **(ontology) An [[e/_endurant|endurant]].**
+- **A [[l/_linguistic|linguistic]] sound [[o/_other|other]] than a stop.**
+- **A [[d/_determinant|determinant]] [[f/_formed|formed]] from a tridiagonal [[m/_matrix|matrix]].**
+- **([[o/_ontology|ontology]]) An [[e/_endurant|endurant]].**
 ---
 #adjective
 - **[[c/_continuing|Continuing]]; prolonged; sustained.**

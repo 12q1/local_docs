@@ -5,6 +5,6 @@
 - **An [[a/_animal|animal]] so [[c/_coloured|coloured]].**
 ---
 #verb
-- **To form streaks of a [[d/_different|different]] [[c/_color|color]].**
+- **To [[f/_form|form]] streaks of a [[d/_different|different]] [[c/_color|color]].**
 ---
 ---

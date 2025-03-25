@@ -1,0 +1,11 @@
+# Omission
+---
+#noun
+- **The [[a/_act|act]] of [[o/_omitting|omitting]].**
+- **The [[a/_act|act]] of [[n/_neglecting|neglecting]] to perform an [[a/_action|action]] [[o/_one|one]] [[h/_has|has]] an [[o/_obligation|obligation]] to [[d/_do|do]].**
+- **Something [[d/_deleted|deleted]] or [[l/_left|left]] [[o/_out|out]].**
+	- _Example: The suspicious omissions in the new edition of the book attracted claims of censorship._
+- **Something not [[d/_done|done]] or [[n/_neglected|neglected]].**
+- **([[g/_grammar|grammar]]) The shortening of a word or phrase, using an [[a/_apostrophe|apostrophe]] ( ' ) to replace the [[m/_missing|missing]] [[l/_letters|letters]], [[o/_often|often]] used to [[a/_approximate|approximate]] the sound of speech or a specific [[d/_dialect|dialect]].**
+---
+---

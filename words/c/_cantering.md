@@ -1,10 +1,10 @@
 # Cantering
 ---
 #verb
-- **To move at such pace.**
-- **To [[c/_cause|cause]] to move at a [[c/_canter|canter]]; to ride (a horse) at a [[c/_canter|canter]].**
+- **To [[m/_move|move]] at such [[p/_pace|pace]].**
+- **To [[c/_cause|cause]] to [[m/_move|move]] at a [[c/_canter|canter]]; to ride (a [[h/_horse|horse]]) at a [[c/_canter|canter]].**
 ---
 #noun
-- **Movement at a [[c/_canter|canter]].**
+- **[[m/_movement|Movement]] at a [[c/_canter|canter]].**
 ---
 ---

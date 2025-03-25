@@ -1,6 +1,6 @@
 # Chipper
 ---
 #adjective
-- **Exhibiting a lively optimism; in high spirits, [[c/_cheerful|cheerful]].**
+- **[[e/_exhibiting|Exhibiting]] a [[l/_lively|lively]] [[o/_optimism|optimism]]; in [[h/_high|high]] spirits, [[c/_cheerful|cheerful]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Danseuse
 ---
 #noun
-- **Female [[d/_dancer|dancer]]**
+- **[[f/_female|Female]] [[d/_dancer|dancer]]**
 ---
 ---

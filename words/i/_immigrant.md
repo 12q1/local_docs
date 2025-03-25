@@ -1,0 +1,12 @@
+# Immigrant
+---
+#noun
+- **A [[n/_non|non]]-[[n/_native|native]] person who [[c/_comes|comes]] to a [[c/_country|country]] from [[a/_another|another]] [[c/_country|country]] in [[o/_order|order]] to permanently settle there.**
+- **A plant or [[a/_animal|animal]] that [[e/_establishes|establishes]] [[i/_itself|itself]] in an [[a/_area|area]] where it previously [[d/_did|did]] not [[e/_exist|exist]].**
+---
+### Antonyms
+- [[e/_emigrant|emigrant]]
+#adjective
+- **Of or relating to [[i/_immigrants|immigrants]] or the [[a/_act|act]] of [[i/_immigrating|immigrating]].**
+---
+---

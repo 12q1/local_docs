@@ -1,6 +1,6 @@
 # Enterotomy
 ---
 #noun
-- **Incision into the intestine**
+- **[[i/_incision|Incision]] [[i/_into|into]] the [[i/_intestine|intestine]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cloisterer
 ---
 #noun
-- **One [[b/_belonging|belonging]] to, or living in, a [[c/_cloister|cloister]]; a recluse.**
+- **[[o/_one|One]] [[b/_belonging|belonging]] to, or [[l/_living|living]] in, a [[c/_cloister|cloister]]; a recluse.**
 ---
 ---

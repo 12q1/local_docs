@@ -1,27 +1,27 @@
 # Dissolved
 ---
 #verb
-- **To terminate a union of multiple members [[a/_actively|actively]], as by [[d/_disbanding|disbanding]].**
+- **To terminate a union of [[m/_multiple|multiple]] [[m/_members|members]] [[a/_actively|actively]], as by [[d/_disbanding|disbanding]].**
 	- _Example: The ruling party or coalition sometimes dissolves parliament early when the polls are favorable, hoping to reconvene with a larger majority._
-- **To [[d/_destroy|destroy]], make [[d/_disappear|disappear]].**
-- **To liquify, melt into a fluid.**
-- **To be melted, [[c/_changed|changed]] into a fluid.**
-- **To [[d/_disintegrate|disintegrate]] [[c/_chemically|chemically]] into a solution by immersion into a liquid or gas.**
-- **To be [[d/_disintegrated|disintegrated]] by such immersion.**
-- **To [[d/_disperse|disperse]], [[d/_drive|drive]] [[a/_apart|apart]] a group of persons.**
-- **To [[b/_break|break]] the [[c/_continuity|continuity]] of; to [[d/_disconnect|disconnect]]; to loosen; to undo; to separate.**
+- **To [[d/_destroy|destroy]], [[m/_make|make]] [[d/_disappear|disappear]].**
+- **To [[l/_liquify|liquify]], [[m/_melt|melt]] [[i/_into|into]] a [[f/_fluid|fluid]].**
+- **To be [[m/_melted|melted]], [[c/_changed|changed]] [[i/_into|into]] a [[f/_fluid|fluid]].**
+- **To [[d/_disintegrate|disintegrate]] [[c/_chemically|chemically]] [[i/_into|into]] a solution by [[i/_immersion|immersion]] [[i/_into|into]] a [[l/_liquid|liquid]] or [[g/_gas|gas]].**
+- **To be [[d/_disintegrated|disintegrated]] by such [[i/_immersion|immersion]].**
+- **To [[d/_disperse|disperse]], [[d/_drive|drive]] [[a/_apart|apart]] a [[g/_group|group]] of persons.**
+- **To [[b/_break|break]] the [[c/_continuity|continuity]] of; to [[d/_disconnect|disconnect]]; to [[l/_loosen|loosen]]; to undo; to separate.**
 - **To [[a/_annul|annul]]; to rescind; to [[d/_discharge|discharge]] or release.**
 	- _Example: to dissolve an injunction_
-- **To shift from one shot to [[a/_another|another]] by having the former fade out as the latter fades in.**
-- **To resolve itself as by [[d/_dissolution|dissolution]].**
+- **To shift from [[o/_one|one]] shot to [[a/_another|another]] by [[h/_having|having]] the [[f/_former|former]] [[f/_fade|fade]] [[o/_out|out]] as the [[l/_latter|latter]] [[f/_fades|fades]] in.**
+- **To resolve [[i/_itself|itself]] as by [[d/_dissolution|dissolution]].**
 - **To solve; to [[c/_clear|clear]] up; to resolve.**
-- **To relax by pleasure; to make powerless.**
+- **To relax by pleasure; to [[m/_make|make]] powerless.**
 ---
 ### Synonyms
 - [[f/_formelt|formelt]], [[m/_melt|melt]]
 ### Antonyms
 - [[e/_establish|establish]], [[f/_found|found]]
 #adjective
-- **That has [[b/_been|been]] [[d/_disintegrated|disintegrated]] in a solvent**
+- **That [[h/_has|has]] [[b/_been|been]] [[d/_disintegrated|disintegrated]] in a solvent**
 ---
 ---

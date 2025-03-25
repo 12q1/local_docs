@@ -1,15 +1,15 @@
 # Disguising
 ---
 #verb
-- **To [[c/_change|change]] the [[a/_appearance|appearance]] of (a person or thing) so as to hide, or to [[a/_assume|assume]] an identity.**
+- **To [[c/_change|change]] the [[a/_appearance|appearance]] of (a person or thing) so as to [[h/_hide|hide]], or to [[a/_assume|assume]] an [[i/_identity|identity]].**
 	- _Example: Spies often disguise themselves._
-- **To [[a/_avoid|avoid]] giving [[a/_away|away]] or revealing (something secret); to hide by a false [[a/_appearance|appearance]].**
+- **To [[a/_avoid|avoid]] [[g/_giving|giving]] [[a/_away|away]] or revealing (something secret); to [[h/_hide|hide]] by a [[f/_false|false]] [[a/_appearance|appearance]].**
 	- _Example: He disguised his true intentions._
-- **To [[a/_affect|affect]] or [[c/_change|change]] by liquor; to intoxicate.**
+- **To [[a/_affect|affect]] or [[c/_change|change]] by [[l/_liquor|liquor]]; to [[i/_intoxicate|intoxicate]].**
 ---
 ### Synonyms
 - [[c/_camouflage|camouflage]], [[c/_cloak|cloak]], [[h/_hide|hide]], [[m/_mask|mask]]
 #noun
-- **A masque or masquerade.**
+- **A [[m/_masque|masque]] or [[m/_masquerade|masquerade]].**
 ---
 ---

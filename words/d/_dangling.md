@@ -1,20 +1,20 @@
 # Dangling
 ---
 #verb
-- **To hang loosely with the [[a/_ability|ability]] to swing.**
+- **To [[h/_hang|hang]] [[l/_loosely|loosely]] with the [[a/_ability|ability]] to swing.**
 	- _Example: His feet would dangle in the water._
-- **The [[a/_action|action]] of performing a move or [[d/_deke|deke]] with the puck in order to get past a [[d/_defender|defender]] or goalie; perhaps [[b/_because|because]] of the resemblance to [[d/_dangling|dangling]] the puck on a string.**
+- **The [[a/_action|action]] of performing a [[m/_move|move]] or [[d/_deke|deke]] with the puck in [[o/_order|order]] to [[g/_get|get]] past a [[d/_defender|defender]] or [[g/_goalie|goalie]]; perhaps [[b/_because|because]] of the resemblance to [[d/_dangling|dangling]] the puck on a string.**
 	- _Example: He dangled around three players and the goalie to score._
-- **To hang or trail something loosely.**
+- **To [[h/_hang|hang]] or trail something [[l/_loosely|loosely]].**
 	- _Example: I like to sit on the edge and dangle my feet in the water._
-- **To trail or follow [[a/_around|around]].**
-- **Of a patient: to be positioned with the legs hanging over the [[e/_edge|edge]] of the [[b/_bed|bed]].**
+- **To trail or [[f/_follow|follow]] [[a/_around|around]].**
+- **Of a patient: to be positioned with the [[l/_legs|legs]] [[h/_hanging|hanging]] [[o/_over|over]] the [[e/_edge|edge]] of the [[b/_bed|bed]].**
 - **To position (a patient) in this way.**
 ---
 #noun
-- **The [[a/_act|act]] of hanging something so that it [[c/_can|can]] move freely; suspension.**
-- **The [[a/_act|act]] of following or trailing [[a/_around|around]].**
-- **[[a/_all|All]] out, open throttle, with [[a/_all|all]] you have.**
+- **The [[a/_act|act]] of [[h/_hanging|hanging]] something so that it [[c/_can|can]] [[m/_move|move]] [[f/_freely|freely]]; suspension.**
+- **The [[a/_act|act]] of [[f/_following|following]] or trailing [[a/_around|around]].**
+- **[[a/_all|All]] [[o/_out|out]], [[o/_open|open]] throttle, with [[a/_all|all]] [[y/_you|you]] [[h/_have|have]].**
 ---
 #adjective
 - **Suspended from [[a/_above|above]].**

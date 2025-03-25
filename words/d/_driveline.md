@@ -1,7 +1,7 @@
 # Driveline
 ---
 #noun
-- **The drivetrain minus the [[e/_engine|engine]] and transmission**
-- **The powertrain in general**
+- **The drivetrain [[m/_minus|minus]] the [[e/_engine|engine]] and transmission**
+- **The powertrain in [[g/_general|general]]**
 ---
 ---

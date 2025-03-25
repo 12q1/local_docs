@@ -1,0 +1,11 @@
+# Harkened
+---
+#verb
+- **To [[h/_hark|hark]] [[b/_back|back]], to return or revert (to a subject, [[e/_etc|etc]].), to [[a/_allude|allude]] to, to [[e/_evoke|evoke]], to [[l/_long|long]] or pine for (a past [[e/_event|event]] or [[e/_era|era]]).**
+---
+#verb
+- **([[o/_obsolete|obsolete]] [[e/_except|except]] poetic) To [[h/_hear|hear]] (something) with [[a/_attention|attention]]; to [[h/_have|have]] regard to (something).**
+- **To [[l/_listen|listen]]; to [[a/_attend|attend]] or [[g/_give|give]] [[h/_heed|heed]] to what is uttered; to [[h/_hear|hear]] with [[a/_attention|attention]], [[c/_compliance|compliance]], or [[o/_obedience|obedience]].**
+- **To [[e/_enquire|enquire]]; to seek [[i/_information|information]].**
+---
+---

@@ -5,13 +5,13 @@
 	- _Example: We have to get the report done. If the boss doesn't get his bimonthly he'll scream._
 ---
 #adjective
-- **Occurring once every two months; [[b/_bimestrial|bimestrial]]**
-- **Twice every month; semimonthly.**
+- **[[o/_occurring|Occurring]] [[o/_once|once]] [[e/_every|every]] two [[m/_months|months]]; [[b/_bimestrial|bimestrial]]**
+- **Twice [[e/_every|every]] [[m/_month|month]]; semimonthly.**
 	- _Example: His bimonthly appointment was almost due._
 ---
 #adverb
-- **Once every two months; bimestrially**
-- **Twice every month; semimonthly.**
+- **[[o/_once|Once]] [[e/_every|every]] two [[m/_months|months]]; bimestrially**
+- **Twice [[e/_every|every]] [[m/_month|month]]; semimonthly.**
 	- _Example: They checked on his progress bimonthly._
 ---
 ---

@@ -1,9 +1,9 @@
 # Butterball
 ---
 #noun
-- **A round lump of a [[c/_coagulated|coagulated]] fat used in [[c/_cooking|cooking]] such as [[b/_butter|butter]], margarine, or a spread**
-- **An overweight person.**
-- **A small North [[a/_american|American]] [[d/_duck|duck]], the [[b/_bufflehead|bufflehead]], [[b/_bucephala|Bucephala]] albeola**
+- **A round [[l/_lump|lump]] of a [[c/_coagulated|coagulated]] [[f/_fat|fat]] used in [[c/_cooking|cooking]] such as [[b/_butter|butter]], [[m/_margarine|margarine]], or a spread**
+- **An [[o/_overweight|overweight]] person.**
+- **A small [[n/_north|North]] [[a/_american|American]] [[d/_duck|duck]], the [[b/_bufflehead|bufflehead]], [[b/_bucephala|Bucephala]] albeola**
 - **A turkey.**
 ---
 ---

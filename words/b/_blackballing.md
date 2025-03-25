@@ -1,13 +1,13 @@
 # Blackballing
 ---
 #verb
-- **To vote [[a/_against|against]], [[e/_especially|especially]] in an exclusive organization.**
+- **To vote [[a/_against|against]], [[e/_especially|especially]] in an [[e/_exclusive|exclusive]] [[o/_organization|organization]].**
 	- _Example: If you're not from a moneyed, well-connected family, you can count on getting blackballed from the fraternity._
-- **To ostracize.**
+- **To [[o/_ostracize|ostracize]].**
 ---
 ### Synonyms
 - [[b/_blacklist|blacklist]]
 #noun
-- **An instance, or [[a/_action|action]], of a person [[b/_being|being]] [[b/_blackballed|blackballed]]**
+- **An [[i/_instance|instance]], or [[a/_action|action]], of a person [[b/_being|being]] [[b/_blackballed|blackballed]]**
 ---
 ---

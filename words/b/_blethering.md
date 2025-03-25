@@ -1,13 +1,13 @@
 # Blethering
 ---
 #verb
-- **To talk rapidly without making much sense.**
-- **To say (something foolish or nonsensical); to say (something) in a foolish or overly verbose way.**
+- **To talk rapidly without [[m/_making|making]] [[m/_much|much]] sense.**
+- **To say (something [[f/_foolish|foolish]] or [[n/_nonsensical|nonsensical]]); to say (something) in a [[f/_foolish|foolish]] or [[o/_overly|overly]] verbose way.**
 ---
 #noun
-- **Incoherent or foolish talk.**
+- **[[i/_incoherent|Incoherent]] or [[f/_foolish|foolish]] talk.**
 	- _Example: the blatherings of a madman_
-- **Meaningless nonsense.**
+- **[[m/_meaningless|Meaningless]] [[n/_nonsense|nonsense]].**
 	- _Example: The constant blathering of the TV_
 ---
 ---

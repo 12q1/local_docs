@@ -1,11 +1,11 @@
 # Encouraging
 ---
 #verb
-- **To mentally support; to motivate, give [[c/_courage|courage]], hope or spirit.**
+- **To [[m/_mentally|mentally]] support; to [[m/_motivate|motivate]], [[g/_give|give]] [[c/_courage|courage]], [[h/_hope|hope]] or spirit.**
 	- _Example: I encouraged him during his race._
 - **To spur on, strongly recommend.**
 	- _Example: We encourage the use of bicycles in the town centre._
-- **To foster, give help or patronage**
+- **To [[f/_foster|foster]], [[g/_give|give]] [[h/_help|help]] or patronage**
 	- _Example: The royal family has always encouraged the arts in word and deed_
 ---
 ### Synonyms
@@ -16,9 +16,9 @@
 - **[[e/_encouragement|Encouragement]]**
 ---
 #adjective
-- **Giving [[c/_courage|courage]], [[c/_confidence|confidence]] or hope**
+- **[[g/_giving|Giving]] [[c/_courage|courage]], [[c/_confidence|confidence]] or [[h/_hope|hope]]**
 	- _Example: Although there is no cure for the disease yet, the research results are encouraging._
-- **Supporting by giving [[e/_encouragement|encouragement]]**
-- **[[a/_auspicious|Auspicious]], or [[b/_bringing|bringing]] good luck**
+- **Supporting by [[g/_giving|giving]] [[e/_encouragement|encouragement]]**
+- **[[a/_auspicious|Auspicious]], or [[b/_bringing|bringing]] [[g/_good|good]] [[l/_luck|luck]]**
 ---
 ---

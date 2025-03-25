@@ -1,0 +1,29 @@
+# Helms
+---
+#noun
+- **The stems of various [[c/_cultivated|cultivated]] plants, [[l/_left|left]] [[a/_after|after]] [[h/_harvesting|harvesting]] the [[c/_crop|crop]] to be used as [[a/_animal|animal]] [[l/_litter|litter]] or for thatching.**
+- **An [[i/_individual|individual]] plant stem.**
+- **Part of a [[h/_harness|harness]]; a [[h/_hame|hame]].**
+---
+### Synonyms
+- [[s/_straw|straw]], [[t/_thatch|thatch]]
+#noun
+- **The steering [[a/_apparatus|apparatus]] of a ship, [[e/_especially|especially]] the tiller or wheel.**
+- **([[m/_maritime|maritime]]) The [[m/_member|member]] of the [[c/_crew|crew]] in [[c/_charge|charge]] of steering the [[b/_boat|boat]].**
+- **A position of [[l/_leadership|leadership]] or [[c/_control|control]].**
+	- _Example: the helm of the Commonwealth_
+- **[[o/_one|One]] at the place of [[d/_direction|direction]] or [[c/_control|control]]; a [[g/_guide|guide]]; a [[d/_director|director]].**
+- **A [[h/_helve|helve]].**
+---
+### Synonyms
+- [[h/_helmsman|helmsman]], [[t/_tiller|tiller]], [[w/_wheel|wheel]]
+#verb
+- **To be a [[h/_helmsman|helmsman]] or a [[m/_member|member]] of the [[h/_helm|helm]]; to be in [[c/_charge|charge]] of steering the [[b/_boat|boat]].**
+- **(by [[e/_extension|extension]]) To [[l/_lead|lead]] (a project, [[e/_etc|etc]].).**
+---
+#noun
+- **A [[h/_helmet|helmet]].**
+- **A [[h/_helmet|helmet]].**
+- **A [[h/_heavy|heavy]] [[c/_cloud|cloud]] [[l/_lying|lying]] on the [[b/_brow|brow]] of a [[m/_mountain|mountain]].**
+---
+---

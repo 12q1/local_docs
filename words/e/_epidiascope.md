@@ -1,6 +1,6 @@
 # Epidiascope
 ---
 #noun
-- **A machine that projects images onto a screen.**
+- **A [[m/_machine|machine]] that projects [[i/_images|images]] [[o/_onto|onto]] a screen.**
 ---
 ---

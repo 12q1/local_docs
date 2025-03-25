@@ -1,43 +1,43 @@
 # Cups
 ---
 #noun
-- **A [[c/_concave|concave]] vessel for [[d/_drinking|drinking]] from, usually made of opaque material (as opposed to a glass) and with a handle.**
+- **A [[c/_concave|concave]] vessel for [[d/_drinking|drinking]] from, usually [[m/_made|made]] of [[o/_opaque|opaque]] [[m/_material|material]] (as [[o/_opposed|opposed]] to a [[g/_glass|glass]]) and with a [[h/_handle|handle]].**
 	- _Example: Pour the tea into the cup._
 - **The [[c/_contents|contents]] of said vessel; a [[c/_cupful|cupful]].**
 	- _Example: I drank two cups of water but still felt thirsty._
-- **A [[c/_customary|customary]] unit of measure**
-- **A trophy in the shape of an oversized [[c/_cup|cup]].**
+- **A [[c/_customary|customary]] unit of [[m/_measure|measure]]**
+- **A trophy in the shape of an [[o/_oversized|oversized]] [[c/_cup|cup]].**
 	- _Example: The World Cup is awarded to the winner of a quadrennial football tournament._
 - **A [[c/_contest|contest]] for which a [[c/_cup|cup]] is [[a/_awarded|awarded]].**
 	- _Example: The World Cup is the world's most widely watched sporting event._
-- **The main knockout tournament in a [[c/_country|country]], organised [[a/_alongside|alongside]] the league.**
-- **A [[c/_cup|cup]]-shaped object placed in the target hole.**
+- **The [[m/_main|main]] [[k/_knockout|knockout]] tournament in a [[c/_country|country]], [[o/_organised|organised]] [[a/_alongside|alongside]] the [[l/_league|league]].**
+- **A [[c/_cup|cup]]-shaped [[o/_object|object]] placed in the target [[h/_hole|hole]].**
 	- _Example: The ball just misses the cup._
 - **(in [[c/_combination|combination]]) [[a/_any|Any]] of various sweetened [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]].**
 	- _Example: cider cup; gin cup; claret cup_
-- **A rigid [[c/_concave|concave]] protective [[c/_covering|covering]] for the male genitalia. (for UK usage see [[b/_box|box]])**
+- **A rigid [[c/_concave|concave]] protective [[c/_covering|covering]] for the [[m/_male|male]] [[g/_genitalia|genitalia]]. (for UK usage see [[b/_box|box]])**
 	- _Example: Players of contact sports are advised to wear a cup._
-- **One of the two parts of a [[b/_brassiere|brassiere]] which [[e/_each|each]] [[c/_cover|cover]] a [[b/_breast|breast]].**
+- **[[o/_one|One]] of the two parts of a [[b/_brassiere|brassiere]] which [[e/_each|each]] [[c/_cover|cover]] a [[b/_breast|breast]].**
 	- _Example: The cups are made of a particularly uncomfortable material._
-- **The symbol \[[c/_cup|cup]] [[d/_denoting|denoting]] union and similar operations ([[c/_confer|confer]] [[c/_cap|cap]]).**
-- **A suit of the minor [[a/_arcana|arcana]] in tarot, or one of the [[c/_cards|cards]] from the suit.**
-- **(ultimate frisbee) A [[d/_defensive|defensive]] style [[c/_characterized|characterized]] by a three player near [[d/_defense|defense]] [[c/_cupping|cupping]] the thrower; or those three players.**
-- **A flexible [[c/_concave|concave]] membrane used to temporarily [[a/_attach|attach]] a handle or hook to a flat surface by means of suction (suction [[c/_cup|cup]]).**
-- **[[a/_anything|Anything]] shaped like a [[c/_cup|cup]].**
+- **The symbol \[[c/_cup|cup]] [[d/_denoting|denoting]] union and similar [[o/_operations|operations]] ([[c/_confer|confer]] [[c/_cap|cap]]).**
+- **A suit of the [[m/_minor|minor]] [[a/_arcana|arcana]] in tarot, or [[o/_one|one]] of the [[c/_cards|cards]] from the suit.**
+- **(ultimate [[f/_frisbee|frisbee]]) A [[d/_defensive|defensive]] style [[c/_characterized|characterized]] by a three player [[n/_near|near]] [[d/_defense|defense]] [[c/_cupping|cupping]] the thrower; or those three players.**
+- **A [[f/_flexible|flexible]] [[c/_concave|concave]] [[m/_membrane|membrane]] used to temporarily [[a/_attach|attach]] a [[h/_handle|handle]] or [[h/_hook|hook]] to a [[f/_flat|flat]] surface by [[m/_means|means]] of suction (suction [[c/_cup|cup]]).**
+- **[[a/_anything|Anything]] shaped [[l/_like|like]] a [[c/_cup|cup]].**
 	- _Example: the cup of an acorn_
-- **A [[c/_cupping|cupping]] glass or other vessel or instrument used to produce the vacuum in [[c/_cupping|cupping]].**
-- **That which is to be received or indured; that which is [[a/_allotted|allotted]] to one; a portion of [[b/_blessings|blessings]] and [[a/_afflictions|afflictions]].**
+- **A [[c/_cupping|cupping]] [[g/_glass|glass]] or [[o/_other|other]] vessel or [[i/_instrument|instrument]] used to produce the vacuum in [[c/_cupping|cupping]].**
+- **That which is to be received or indured; that which is [[a/_allotted|allotted]] to [[o/_one|one]]; a portion of [[b/_blessings|blessings]] and [[a/_afflictions|afflictions]].**
 ---
 #verb
-- **To form into the shape of a [[c/_cup|cup]], particularly of the hands.**
+- **To [[f/_form|form]] [[i/_into|into]] the shape of a [[c/_cup|cup]], particularly of the [[h/_hands|hands]].**
 	- _Example: Cup your hands and I'll pour some rice into them._
-- **To hold something in [[c/_cupped|cupped]] hands.**
+- **To [[h/_hold|hold]] something in [[c/_cupped|cupped]] [[h/_hands|hands]].**
 	- _Example: He cupped the ball carefully in his hands._
-- **To pour (a liquid, [[d/_drink|drink]], [[e/_etc|etc]].) into a [[c/_cup|cup]].**
+- **To pour (a [[l/_liquid|liquid]], [[d/_drink|drink]], [[e/_etc|etc]].) [[i/_into|into]] a [[c/_cup|cup]].**
 	- _Example: We are cupping some new brands of coffee today._
 - **To supply with [[c/_cups|cups]] of wine.**
-- **To [[a/_apply|apply]] a [[c/_cupping|cupping]] [[a/_apparatus|apparatus]] to; to subject to the operation of [[c/_cupping|cupping]].**
-- **To make [[c/_concave|concave]] or in the form of a [[c/_cup|cup]].**
+- **To [[a/_apply|apply]] a [[c/_cupping|cupping]] [[a/_apparatus|apparatus]] to; to subject to the [[o/_operation|operation]] of [[c/_cupping|cupping]].**
+- **To [[m/_make|make]] [[c/_concave|concave]] or in the [[f/_form|form]] of a [[c/_cup|cup]].**
 	- _Example: to cup the end of a screw_
 ---
 ---

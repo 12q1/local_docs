@@ -1,7 +1,7 @@
 # Direful
 ---
 #adjective
-- **Fearful, terrible.**
+- **[[f/_fearful|Fearful]], terrible.**
 ---
 ### Synonyms
 - [[d/_dire|dire]]

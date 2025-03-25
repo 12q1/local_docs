@@ -1,6 +1,6 @@
 # Anthophilous
 ---
 #adjective
-- **Living or growing on flowers**
+- **[[l/_living|Living]] or [[g/_growing|growing]] on [[f/_flowers|flowers]]**
 ---
 ---

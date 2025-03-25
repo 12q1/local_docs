@@ -1,7 +1,7 @@
 # Cockamamy
 ---
 #adjective
-- **Foolish, silly**
+- **[[f/_foolish|Foolish]], silly**
 - **Trifling**
 ---
 ---

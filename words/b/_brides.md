@@ -1,13 +1,13 @@
 # Brides
 ---
 #noun
-- **A woman in the [[c/_context|context]] of her own wedding; one who is going to marry or has just [[b/_been|been]] married.**
-- **An object [[a/_ardently|ardently]] loved.**
+- **A woman in the [[c/_context|context]] of [[h/_her|her]] [[o/_own|own]] wedding; [[o/_one|one]] who is [[g/_going|going]] to [[m/_marry|marry]] or [[h/_has|has]] [[j/_just|just]] [[b/_been|been]] [[m/_married|married]].**
+- **An [[o/_object|object]] [[a/_ardently|ardently]] [[l/_loved|loved]].**
 ---
 #verb
-- **To make a [[b/_bride|bride]] of**
+- **To [[m/_make|make]] a [[b/_bride|bride]] of**
 ---
 #noun
-- **An individual loop or other [[d/_device|device]] [[c/_connecting|connecting]] the patterns in lacework**
+- **An [[i/_individual|individual]] [[l/_loop|loop]] or [[o/_other|other]] [[d/_device|device]] [[c/_connecting|connecting]] the patterns in [[l/_lacework|lacework]]**
 ---
 ---

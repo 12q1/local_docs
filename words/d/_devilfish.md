@@ -1,6 +1,6 @@
 # Devilfish
 ---
 #noun
-- **[[a/_any|Any]] of several unrelated marine [[a/_animals|animals]]**
+- **[[a/_any|Any]] of several unrelated [[m/_marine|marine]] [[a/_animals|animals]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Disambiguating
 ---
 #verb
-- **To remove [[a/_ambiguities|ambiguities]] from; to make less [[a/_ambiguous|ambiguous]]; to [[c/_clarify|clarify]] or specify which of multiple possibilities, [[e/_e|e]].g. possible meanings of an [[a/_ambiguous|ambiguous]] statement, [[a/_applies|applies]], or to invite or require this.**
-- **To [[d/_distinguish|distinguish]] one word or lexical unit (from a [[d/_different|different]] one which has a similar form).**
+- **To remove [[a/_ambiguities|ambiguities]] from; to [[m/_make|make]] [[l/_less|less]] [[a/_ambiguous|ambiguous]]; to [[c/_clarify|clarify]] or specify which of [[m/_multiple|multiple]] possibilities, [[e/_e|e]].[[g/_g|g]]. possible [[m/_meanings|meanings]] of an [[a/_ambiguous|ambiguous]] statement, [[a/_applies|applies]], or to [[i/_invite|invite]] or require this.**
+- **To [[d/_distinguish|distinguish]] [[o/_one|one]] word or [[l/_lexical|lexical]] unit (from a [[d/_different|different]] [[o/_one|one]] which [[h/_has|has]] a similar [[f/_form|form]]).**
 ---
 ---

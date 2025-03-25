@@ -1,0 +1,51 @@
+# Hold
+---
+#noun
+- **A [[g/_grasp|grasp]] or [[g/_grip|grip]].**
+	- _Example: Keep a firm hold on the handlebars._
+- **An [[a/_act|act]] or [[i/_instance|instance]] of [[h/_holding|holding]].**
+	- _Example: Can I have a hold of the baby?_
+- **A place where [[a/_animals|animals]] are [[h/_held|held]] for safety**
+- **An [[o/_order|order]] that something is to be reserved or [[d/_delayed|delayed]], [[l/_limiting|limiting]] or preventing [[h/_how|how]] it [[c/_can|can]] be [[d/_dealt|dealt]] with.**
+	- _Example: Senator X placed a hold on the bill, then went to the library and placed a hold on a book._
+- **Something reserved or [[k/_kept|kept]].**
+	- _Example: We have a hold here for you._
+- **Power [[o/_over|over]] someone or something.**
+- **The [[a/_ability|ability]] to persist.**
+- **The property of [[m/_maintaining|maintaining]] the shape of styled [[h/_hair|hair]].**
+- **A position or [[g/_grip|grip]] used to [[c/_control|control]] the [[o/_opponent|opponent]].**
+	- _Example: He got him in a tight hold and pinned him to the mat._
+- **([[e/_exercise|exercise]]) An [[e/_exercise|exercise]] [[i/_involving|involving]] [[h/_holding|holding]] a position for a set time**
+- **The percentage the [[h/_house|house]] wins on a [[g/_gamble|gamble]], the [[h/_house|house]] or [[b/_bookmaker|bookmaker]]'s [[h/_hold|hold]].**
+	- _Example: The House Hold on the game is 10,000, this is the amount of decision or risk the house wishes to assume._
+- **The wager [[a/_amount|amount]], the total [[h/_hold|hold]].**
+	- _Example: As of Monday night the total Melbourne Cup hold was $848,015_
+- **An [[i/_instance|instance]] of [[h/_holding|holding]] [[o/_one|one]]'s service [[g/_game|game]], as [[o/_opposed|opposed]] to [[b/_being|being]] [[b/_broken|broken]].**
+- **The part of an [[o/_object|object]] [[o/_one|one]] is [[i/_intended|intended]] to [[g/_grasp|grasp]], or [[a/_anything|anything]] [[o/_one|one]] [[c/_can|can]] use for [[g/_grasping|grasping]] with [[h/_hands|hands]] or [[f/_feet|feet]].**
+- **A [[f/_fruit|fruit]] [[m/_machine|machine]] [[f/_feature|feature]] [[a/_allowing|allowing]] [[o/_one|one]] or [[m/_more|more]] of the reels to remain [[f/_fixed|fixed]] while the [[o/_others|others]] spin.**
+- **A pause [[f/_facility|facility]].**
+- **The queueing system on telephones and similar [[c/_communication|communication]] systems which [[m/_maintains|maintains]] a [[c/_connection|connection]] when [[a/_all|all]] [[l/_lines|lines]] are [[b/_busy|busy]].**
+- **A statistic [[a/_awarded|awarded]] to a relief pitcher who is not still pitching at the [[e/_end|end]] of the [[g/_game|game]] and who records at [[l/_least|least]] [[o/_one|one]] [[o/_out|out]] and [[m/_maintains|maintains]] a [[l/_lead|lead]] for [[h/_his|his]] team.**
+- **A region of [[a/_airspace|airspace]] reserved for [[a/_aircraft|aircraft]] [[b/_being|being]] [[k/_kept|kept]] in a [[h/_holding|holding]] pattern.**
+---
+#verb
+- **To [[g/_grasp|grasp]] or [[g/_grip|grip]].**
+	- _Example: Hold the pencil like this._
+- **To [[c/_contain|contain]] or store.**
+	- _Example: This package holds six bottles._
+- **([[h/_heading|heading]]) To [[m/_maintain|maintain]] or [[k/_keep|keep]] to a position or state.**
+- **([[h/_heading|heading]]) To [[m/_maintain|maintain]] or [[k/_keep|keep]] to particular [[o/_opinions|opinions]], promises, [[a/_actions|actions]].**
+- **To win [[o/_one|one]]'s [[o/_own|own]] service [[g/_game|game]].**
+- **To take place, to [[o/_occur|occur]].**
+- **To [[o/_organise|organise]] an [[e/_event|event]] or [[m/_meeting|meeting]] (usually in passive voice).**
+	- _Example: Elections will be held on the first Sunday of next month._
+- **To [[d/_derive|derive]] right or title.**
+- **In a [[f/_food|food]] or [[d/_drink|drink]] [[o/_order|order]] at an [[i/_informal|informal]] restaurant [[e/_etc|etc]]., requesting that a [[c/_component|component]] [[n/_normally|normally]] [[i/_included|included]] in that [[o/_order|order]] be [[o/_omitted|omitted]].**
+	- _Example: A martini, please, and hold the olive._
+- **To be in possession of [[i/_illicit|illicit]] [[d/_drugs|drugs]] for sale.**
+---
+### Synonyms
+- [[c/_clasp|clasp]], [[g/_grasp|grasp]], [[g/_grip|grip]], [[o/_own|own]], [[h/_happen|happen]]
+### Antonyms
+- [[r/_release|release]]
+---

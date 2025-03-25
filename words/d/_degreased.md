@@ -1,6 +1,6 @@
 # Degreased
 ---
 #verb
-- **To remove grease from something.**
+- **To remove [[g/_grease|grease]] from something.**
 ---
 ---

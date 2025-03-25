@@ -1,0 +1,8 @@
+# Interpleader
+---
+#noun
+- **[[o/_one|One]] who [[m/_makes|makes]] an [[i/_interplea|interplea]].**
+- **[[m/_motion|Motion]] for a third party to [[e/_enter|enter]] [[i/_into|into]] a [[l/_lawsuit|lawsuit]] in process [[b/_because|because]] a [[m/_matter|matter]] is [[b/_being|being]] [[a/_adjudicated|adjudicated]] in which they [[h/_have|have]] an [[i/_interest|interest]].**
+- **Process by which a third party [[a/_asks|asks]] a [[c/_court|court]] to [[d/_determine|determine]] which of two rival [[c/_claims|claims]] is to be [[h/_honored|honored]] by the third party.**
+---
+---

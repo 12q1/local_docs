@@ -1,21 +1,21 @@
 # Canonical
 ---
 #noun
-- **The formal robes of a priest.**
-- **A URL presented in [[c/_canonical|canonical]] form.**
+- **The [[f/_formal|formal]] robes of a priest.**
+- **A URL presented in [[c/_canonical|canonical]] [[f/_form|form]].**
 ---
 #adjective
-- **Present in a [[c/_canon|canon]], religious or otherwise.**
-- **[[a/_according|According]] to recognised or orthodox rules.**
+- **Present in a [[c/_canon|canon]], religious or [[o/_otherwise|otherwise]].**
+- **[[a/_according|According]] to recognised or [[o/_orthodox|orthodox]] rules.**
 	- _Example: The men played golf in the most canonical way, with no local rules._
-- **Stated or used in the most [[b/_basic|basic]] and straightforwardly [[a/_applicable|applicable]] manner.**
+- **Stated or used in the [[m/_most|most]] [[b/_basic|basic]] and straightforwardly [[a/_applicable|applicable]] [[m/_manner|manner]].**
 	- _Example: the reduction of a linear substitution to its canonical form_
 - **Prototypical.**
-- **In [[c/_conformity|conformity]] with [[c/_canon|canon]] law.**
-- **In the form of a [[c/_canon|canon]].**
+- **In [[c/_conformity|conformity]] with [[c/_canon|canon]] [[l/_law|law]].**
+- **In the [[f/_form|form]] of a [[c/_canon|canon]].**
 - **Of or pertaining to an [[e/_ecclesiastical|ecclesiastical]] [[c/_chapter|chapter]]**
-- **In [[c/_canonical|canonical]] form.**
-- **[[d/_distinguished|Distinguished]] [[a/_among|among]] [[e/_entities|entities]] of its kind, so that it [[c/_can|can]] be picked out in a way that [[d/_does|does]] not [[d/_depend|depend]] on [[a/_any|any]] [[a/_arbitrary|arbitrary]] [[c/_choices|choices]].**
+- **In [[c/_canonical|canonical]] [[f/_form|form]].**
+- **[[d/_distinguished|Distinguished]] [[a/_among|among]] [[e/_entities|entities]] of [[i/_its|its]] [[k/_kind|kind]], so that it [[c/_can|can]] be picked [[o/_out|out]] in a way that [[d/_does|does]] not [[d/_depend|depend]] on [[a/_any|any]] [[a/_arbitrary|arbitrary]] [[c/_choices|choices]].**
 ---
 ### Synonyms
 - [[n/_natural|natural]]

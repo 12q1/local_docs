@@ -1,8 +1,8 @@
 # Creeks
 ---
 #noun
-- **A small inlet or [[b/_bay|bay]], often saltwater, narrower and extending farther into the land than a [[c/_cove|cove]]; a recess in the shore of the sea, or of a river; the inner part of a port that is used as a [[d/_dock|dock]] for small [[b/_boats|boats]].**
-- **A stream of water (often freshwater) smaller than a river and larger than a [[b/_brook|brook]].**
+- **A small [[i/_inlet|inlet]] or [[b/_bay|bay]], [[o/_often|often]] saltwater, [[n/_narrower|narrower]] and [[e/_extending|extending]] [[f/_farther|farther]] [[i/_into|into]] the [[l/_land|land]] than a [[c/_cove|cove]]; a recess in the shore of the sea, or of a river; the [[i/_inner|inner]] part of a port that is used as a [[d/_dock|dock]] for small [[b/_boats|boats]].**
+- **A stream of water ([[o/_often|often]] [[f/_freshwater|freshwater]]) smaller than a river and [[l/_larger|larger]] than a [[b/_brook|brook]].**
 - **[[a/_any|Any]] turn or winding.**
 ---
 ### Synonyms

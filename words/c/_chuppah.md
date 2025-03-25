@@ -1,7 +1,7 @@
 # Chuppah
 ---
 #noun
-- **The [[c/_canopy|canopy]] over a Jewish [[c/_couple|couple]] [[d/_during|during]] their marriage [[c/_ceremony|ceremony]].**
-- **A marriage [[c/_ceremony|ceremony]], wedding.**
+- **The [[c/_canopy|canopy]] [[o/_over|over]] a [[j/_jewish|Jewish]] [[c/_couple|couple]] [[d/_during|during]] their [[m/_marriage|marriage]] [[c/_ceremony|ceremony]].**
+- **A [[m/_marriage|marriage]] [[c/_ceremony|ceremony]], wedding.**
 ---
 ---

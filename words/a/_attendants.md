@@ -1,11 +1,11 @@
 # Attendants
 ---
 #noun
-- **One who [[a/_attends|attends]]; one who works with or watches over something.**
+- **[[o/_one|One]] who [[a/_attends|attends]]; [[o/_one|one]] who works with or watches [[o/_over|over]] something.**
 	- _Example: Give your keys to the parking attendants and they will park your car for you._
 - **A servant or valet.**
 - **A visitor or [[c/_caller|caller]].**
-- **That which [[a/_accompanies|accompanies]] or follows.**
-- **One who owes a [[d/_duty|duty]] or service to [[a/_another|another]].**
+- **That which [[a/_accompanies|accompanies]] or [[f/_follows|follows]].**
+- **[[o/_one|One]] who [[o/_owes|owes]] a [[d/_duty|duty]] or service to [[a/_another|another]].**
 ---
 ---

@@ -1,18 +1,18 @@
 # Chicks
 ---
 #noun
-- **A young [[b/_bird|bird]].**
-- **A young [[c/_chicken|chicken]].**
-- **(term of [[e/_endearment|endearment]]) A young [[c/_child|child]].**
-- **A young, [[e/_especially|especially]] [[a/_attractive|attractive]], woman or teenage girl.**
+- **A [[y/_young|young]] [[b/_bird|bird]].**
+- **A [[y/_young|young]] [[c/_chicken|chicken]].**
+- **(term of [[e/_endearment|endearment]]) A [[y/_young|young]] [[c/_child|child]].**
+- **A [[y/_young|young]], [[e/_especially|especially]] [[a/_attractive|attractive]], woman or teenage [[g/_girl|girl]].**
 ---
 ### Synonyms
 - [[f/_fledgling|fledgling]]
 #verb
-- **To sprout, as seed [[d/_does|does]] in the ground; to vegetate.**
+- **To sprout, as seed [[d/_does|does]] in the [[g/_ground|ground]]; to vegetate.**
 ---
 #noun
-- **A screen or [[b/_blind|blind]] made of finely slit [[b/_bamboo|bamboo]] and twine, hung in [[d/_doorways|doorways]] or windows.**
+- **A screen or [[b/_blind|blind]] [[m/_made|made]] of [[f/_finely|finely]] slit [[b/_bamboo|bamboo]] and twine, [[h/_hung|hung]] in [[d/_doorways|doorways]] or windows.**
 ---
 ### Synonyms
 - [[c/_chick-blinds|chick-blinds]]

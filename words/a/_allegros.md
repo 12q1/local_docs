@@ -1,8 +1,8 @@
 # Allegros
 ---
 #noun
-- **A tempo mark [[d/_directing|directing]] that a passage is to be played in a quick, lively tempo, faster than [[a/_allegretto|allegretto]] but slower than presto**
-- **In more traditional use, an expressive marking indicating lively or happily, not necessarily quick or fast.**
-- **A passage having this mark**
+- **A tempo [[m/_mark|mark]] [[d/_directing|directing]] that a passage is to be played in a quick, [[l/_lively|lively]] tempo, [[f/_faster|faster]] than [[a/_allegretto|allegretto]] but slower than presto**
+- **In [[m/_more|more]] traditional use, an [[e/_expressive|expressive]] [[m/_marking|marking]] [[i/_indicating|indicating]] [[l/_lively|lively]] or [[h/_happily|happily]], not [[n/_necessarily|necessarily]] quick or [[f/_fast|fast]].**
+- **A passage [[h/_having|having]] this [[m/_mark|mark]]**
 ---
 ---

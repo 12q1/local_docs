@@ -1,6 +1,6 @@
 # Accompanists
 ---
 #noun
-- **The performer in music who takes the [[a/_accompanying|accompanying]] part.**
+- **The performer in [[m/_music|music]] who takes the [[a/_accompanying|accompanying]] part.**
 ---
 ---

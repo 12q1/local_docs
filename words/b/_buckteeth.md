@@ -1,6 +1,6 @@
 # Buckteeth
 ---
 #noun
-- **An upper tooth that protrudes further than the [[b/_bottom|bottom]] teeth.**
+- **An upper tooth that protrudes [[f/_further|further]] than the [[b/_bottom|bottom]] teeth.**
 ---
 ---

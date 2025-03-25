@@ -1,11 +1,11 @@
 # Butler
 ---
 #noun
-- **A manservant having [[c/_charge|charge]] of wines and liquors.**
-- **The [[c/_chief|chief]] male servant of a household who has [[c/_charge|charge]] of other [[e/_employees|employees]], receives guests, [[d/_directs|directs]] the serving of meals, and performs various personal services.**
-- **A valet, a male personal [[a/_attendant|attendant]].**
+- **A [[m/_manservant|manservant]] [[h/_having|having]] [[c/_charge|charge]] of wines and [[l/_liquors|liquors]].**
+- **The [[c/_chief|chief]] [[m/_male|male]] servant of a [[h/_household|household]] who [[h/_has|has]] [[c/_charge|charge]] of [[o/_other|other]] [[e/_employees|employees]], receives [[g/_guests|guests]], [[d/_directs|directs]] the serving of [[m/_meals|meals]], and performs various personal services.**
+- **A valet, a [[m/_male|male]] personal [[a/_attendant|attendant]].**
 ---
 #verb
-- **To [[b/_buttle|buttle]], to [[d/_dispense|dispense]] wines or liquors; to take the place of a [[b/_butler|butler]].**
+- **To [[b/_buttle|buttle]], to [[d/_dispense|dispense]] wines or [[l/_liquors|liquors]]; to take the place of a [[b/_butler|butler]].**
 ---
 ---

@@ -1,10 +1,10 @@
 # Airplanes
 ---
 #noun
-- **A powered heavier-than-[[a/_air|air]] [[a/_aircraft|aircraft]] with fixed wings.**
+- **A powered [[h/_heavier|heavier]]-than-[[a/_air|air]] [[a/_aircraft|aircraft]] with [[f/_fixed|fixed]] wings.**
 ---
 #verb
-- **To fly in an [[a/_aeroplane|aeroplane]].**
+- **To [[f/_fly|fly]] in an [[a/_aeroplane|aeroplane]].**
 - **To transport by [[a/_aeroplane|aeroplane]].**
 ---
 ---

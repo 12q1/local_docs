@@ -1,6 +1,6 @@
 # Corticotrophin
 ---
 #noun
-- **[[a/_adrenocorticotropic|Adrenocorticotropic]] hormone.**
+- **[[a/_adrenocorticotropic|Adrenocorticotropic]] [[h/_hormone|hormone]].**
 ---
 ---

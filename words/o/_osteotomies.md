@@ -1,0 +1,6 @@
+# Osteotomies
+---
+#noun
+- **The surgical procedure of [[c/_cutting|cutting]] a [[b/_bone|bone]]. This is [[o/_often|often]] performed to [[e/_either|either]] [[l/_lengthen|lengthen]], shorten, or straighten a [[b/_bone|bone]].**
+---
+---

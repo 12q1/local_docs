@@ -3,11 +3,11 @@
 #noun
 - **A [[b/_bell|bell]] or [[c/_chime|chime]].**
 - **The suspended [[c/_clapper|clapper]] of a [[b/_bell|bell]].**
-- **One who rings a [[b/_bell|bell]].**
-- **A home run.**
+- **[[o/_one|One]] who rings a [[b/_bell|bell]].**
+- **A [[h/_home|home]] run.**
 	- _Example: The starting pitcher gave up three dingers._
 - **The penis.**
-- **Something outstanding or exceptional, a humdinger.**
+- **Something [[o/_outstanding|outstanding]] or [[e/_exceptional|exceptional]], a [[h/_humdinger|humdinger]].**
 - **A [[c/_condom|condom]].**
 - **The [[b/_buttocks|buttocks]], the [[a/_anus|anus]].**
 	- _Example: Let′s leave them to sit on their dingers for a while._

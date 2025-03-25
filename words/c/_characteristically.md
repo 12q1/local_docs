@@ -1,6 +1,6 @@
 # Characteristically
 ---
 #adverb
-- **In a usual or expected way; in [[c/_characteristic|characteristic]] manner.**
+- **In a usual or [[e/_expected|expected]] way; in [[c/_characteristic|characteristic]] [[m/_manner|manner]].**
 ---
 ---

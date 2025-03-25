@@ -1,7 +1,7 @@
 # Caloric
 ---
 #noun
-- **The hypothetical medium of heat.**
+- **The [[h/_hypothetical|hypothetical]] [[m/_medium|medium]] of [[h/_heat|heat]].**
 ---
 #adjective
 - **Relating to [[c/_calories|calories]].**
@@ -15,8 +15,8 @@
 - [[n/_noncaloric|noncaloric]]
 #adjective
 - **Relating to [[c/_calories|calories]].**
-- **Relating to or producing heat or other [[e/_energy|energy]].**
-- **(of food) High in [[c/_calories|calories]] and thus likely fattening.**
+- **Relating to or producing [[h/_heat|heat]] or [[o/_other|other]] [[e/_energy|energy]].**
+- **(of [[f/_food|food]]) [[h/_high|High]] in [[c/_calories|calories]] and thus [[l/_likely|likely]] [[f/_fattening|fattening]].**
 ---
 ### Synonyms
 - [[c/_caloric|caloric]]

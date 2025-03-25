@@ -1,7 +1,7 @@
 # Complicity
 ---
 #noun
-- **The state of [[b/_being|being]] complicit; involvement as a partner or [[a/_accomplice|accomplice]], [[e/_especially|especially]] in a [[c/_crime|crime]] or other wrongdoing.**
+- **The state of [[b/_being|being]] complicit; [[i/_involvement|involvement]] as a partner or [[a/_accomplice|accomplice]], [[e/_especially|especially]] in a [[c/_crime|crime]] or [[o/_other|other]] wrongdoing.**
 - **[[c/_complexity|Complexity]].**
 ---
 ### Synonyms

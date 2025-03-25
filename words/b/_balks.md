@@ -1,34 +1,34 @@
 # Balks
 ---
 #noun
-- **An uncultivated ridge formed in the open field system, [[c/_caused|caused]] by the [[a/_action|action]] of ploughing.**
-- **The wall of [[e/_earth|earth]] at the [[e/_edge|edge]] of an excavation.**
-- **[[b/_beam|Beam]], [[c/_crossbeam|crossbeam]]; squared timber; a tie [[b/_beam|beam]] of a house, stretching from wall to wall, [[e/_especially|especially]] when laid so as to form a loft, "the [[b/_balks|balks]]".**
-- **A hindrance or [[d/_disappointment|disappointment]]; a [[c/_check|check]].**
-- **A sudden and obstinate stop; a failure.**
-- **An omission.**
-- **A [[d/_deceptive|deceptive]] motion; a feint.**
-- **The [[a/_area|area]] of the table lying [[b/_behind|behind]] the line from which the [[c/_cue|cue]] [[b/_ball|ball]] is initially shot, and from which a [[b/_ball|ball]] in hand must be played.**
-- **The [[a/_area|area]] of the table lying [[b/_behind|behind]] the [[b/_baulk|baulk]] line.**
-- **The rope by which fishing nets are fastened together.**
+- **An uncultivated ridge [[f/_formed|formed]] in the [[o/_open|open]] [[f/_field|field]] system, [[c/_caused|caused]] by the [[a/_action|action]] of ploughing.**
+- **The wall of [[e/_earth|earth]] at the [[e/_edge|edge]] of an [[e/_excavation|excavation]].**
+- **[[b/_beam|Beam]], [[c/_crossbeam|crossbeam]]; squared timber; a tie [[b/_beam|beam]] of a [[h/_house|house]], stretching from wall to wall, [[e/_especially|especially]] when [[l/_laid|laid]] so as to [[f/_form|form]] a [[l/_loft|loft]], "the [[b/_balks|balks]]".**
+- **A [[h/_hindrance|hindrance]] or [[d/_disappointment|disappointment]]; a [[c/_check|check]].**
+- **A sudden and [[o/_obstinate|obstinate]] stop; a [[f/_failure|failure]].**
+- **An [[o/_omission|omission]].**
+- **A [[d/_deceptive|deceptive]] [[m/_motion|motion]]; a [[f/_feint|feint]].**
+- **The [[a/_area|area]] of the table [[l/_lying|lying]] [[b/_behind|behind]] the [[l/_line|line]] from which the [[c/_cue|cue]] [[b/_ball|ball]] is [[i/_initially|initially]] shot, and from which a [[b/_ball|ball]] in [[h/_hand|hand]] [[m/_must|must]] be played.**
+- **The [[a/_area|area]] of the table [[l/_lying|lying]] [[b/_behind|behind]] the [[b/_baulk|baulk]] [[l/_line|line]].**
+- **The rope by which [[f/_fishing|fishing]] [[n/_nets|nets]] are [[f/_fastened|fastened]] together.**
 ---
 #verb
-- **To pass over or by.**
-- **To omit, miss or overlook by [[c/_chance|chance]].**
-- **To miss intentionally; to [[a/_avoid|avoid]].**
+- **To pass [[o/_over|over]] or by.**
+- **To [[o/_omit|omit]], [[m/_miss|miss]] or [[o/_overlook|overlook]] by [[c/_chance|chance]].**
+- **To [[m/_miss|miss]] [[i/_intentionally|intentionally]]; to [[a/_avoid|avoid]].**
 - **To stop, [[c/_check|check]], [[b/_block|block]].**
-- **To stop short and refuse to go on.**
+- **To stop short and refuse to [[g/_go|go]] on.**
 	- _Example: The horse balked._
 - **To refuse suddenly.**
-- **To [[d/_disappoint|disappoint]]; to frustrate.**
+- **To [[d/_disappoint|disappoint]]; to [[f/_frustrate|frustrate]].**
 	- _Example: to balk expectation_
-- **To [[e/_engage|engage]] in [[c/_contradiction|contradiction]]; to be in opposition.**
-- **To leave or make [[b/_balks|balks]] in.**
-- **To leave heaped up; to heap up in piles.**
+- **To [[e/_engage|engage]] in [[c/_contradiction|contradiction]]; to be in [[o/_opposition|opposition]].**
+- **To [[l/_leave|leave]] or [[m/_make|make]] [[b/_balks|balks]] in.**
+- **To [[l/_leave|leave]] [[h/_heaped|heaped]] up; to [[h/_heap|heap]] up in piles.**
 ---
 ### Synonyms
 - [[a/_avoid|avoid]], [[r/_refuse|refuse]], [[s/_shirk|shirk]], [[s/_shun|shun]], [[b/_baffle|baffle]], [[f/_foil|foil]], [[f/_frustrate|frustrate]], [[t/_thwart|thwart]], [[m/_miss|miss]], [[o/_overlook|overlook]]
 #verb
-- **To indicate to fishermen, by shouts or signals from shore, the [[d/_direction|direction]] taken by the shoals of herring.**
+- **To [[i/_indicate|indicate]] to [[f/_fishermen|fishermen]], by shouts or signals from shore, the [[d/_direction|direction]] taken by the shoals of [[h/_herring|herring]].**
 ---
 ---

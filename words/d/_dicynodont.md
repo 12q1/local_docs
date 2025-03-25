@@ -1,6 +1,6 @@
 # Dicynodont
 ---
 #noun
-- **A member of the [[d/_dicynodontia|Dicynodontia]], an extinct group of therapsids.**
+- **A [[m/_member|member]] of the [[d/_dicynodontia|Dicynodontia]], an [[e/_extinct|extinct]] [[g/_group|group]] of therapsids.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bookmobile
 ---
 #noun
-- **A mobile library; [[e/_especially|especially]], a large van [[d/_designed|designed]] to transport a portion of some library's [[c/_collection|collection]].**
+- **A [[m/_mobile|mobile]] [[l/_library|library]]; [[e/_especially|especially]], a [[l/_large|large]] van [[d/_designed|designed]] to transport a portion of some [[l/_library|library]]'s [[c/_collection|collection]].**
 ---
 ---

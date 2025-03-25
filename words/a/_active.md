@@ -5,26 +5,26 @@
 - **[[a/_any|Any]] [[c/_component|component]] that is not passive. See Passivity ([[e/_engineering|engineering]]).**
 ---
 #adjective
-- **Having the power or quality of [[a/_acting|acting]]; [[c/_causing|causing]] [[c/_change|change]]; [[c/_communicating|communicating]] [[a/_action|action]] or motion; [[a/_acting|acting]];—opposed to passive, that receives.**
+- **[[h/_having|Having]] the power or quality of [[a/_acting|acting]]; [[c/_causing|causing]] [[c/_change|change]]; [[c/_communicating|communicating]] [[a/_action|action]] or [[m/_motion|motion]]; [[a/_acting|acting]];—[[o/_opposed|opposed]] to passive, that receives.**
 	- _Example: certain active principles_
-- **Quick in physical movement; of an [[a/_agile|agile]] and vigorous [[b/_body|body]]; nimble.**
+- **Quick in physical [[m/_movement|movement]]; of an [[a/_agile|agile]] and vigorous [[b/_body|body]]; [[n/_nimble|nimble]].**
 	- _Example: an active child or animal_
-- **In [[a/_action|action]]; [[a/_actually|actually]] proceeding; working; in force**
+- **In [[a/_action|action]]; [[a/_actually|actually]] proceeding; working; in [[f/_force|force]]**
 	- _Example: active hostilities_
-- **Given to [[a/_action|action]]; [[c/_constantly|constantly]] [[e/_engaged|engaged]] in [[a/_action|action]]; [[e/_energetic|energetic]]; [[d/_diligent|diligent]]; [[b/_busy|busy]]**
+- **[[g/_given|Given]] to [[a/_action|action]]; [[c/_constantly|constantly]] [[e/_engaged|engaged]] in [[a/_action|action]]; [[e/_energetic|energetic]]; [[d/_diligent|diligent]]; [[b/_busy|busy]]**
 	- _Example: active mind_
-- **Requiring or implying [[a/_action|action]] or exertion**
+- **Requiring or [[i/_implying|implying]] [[a/_action|action]] or [[e/_exertion|exertion]]**
 	- _Example: active employment or service_
-- **Given to [[a/_action|action]] rather than [[c/_contemplation|contemplation]]; practical; operative**
+- **[[g/_given|Given]] to [[a/_action|action]] rather than [[c/_contemplation|contemplation]]; practical; [[o/_operative|operative]]**
 	- _Example: an active rather than a speculative statesman_
-- **[[b/_brisk|Brisk]]; lively.**
+- **[[b/_brisk|Brisk]]; [[l/_lively|lively]].**
 	- _Example: an active demand for corn_
-- **Implying or producing rapid [[a/_action|action]].**
+- **[[i/_implying|Implying]] or producing rapid [[a/_action|action]].**
 	- _Example: an active disease_
-- **(heading, grammar) [[a/_about|About]] verbs.**
-- **(of source [[c/_code|code]]) [[e/_eligible|Eligible]] to be processed by a [[c/_compiler|compiler]] or interpreter.**
+- **([[h/_heading|heading]], [[g/_grammar|grammar]]) [[a/_about|About]] verbs.**
+- **(of source [[c/_code|code]]) [[e/_eligible|Eligible]] to be processed by a [[c/_compiler|compiler]] or [[i/_interpreter|interpreter]].**
 - **Not passive.**
-- **(gay sexual slang) (of a homosexual man) [[e/_enjoying|enjoying]] a role in [[a/_anal|anal]] sex in which he penetrates, rather than [[b/_being|being]] penetrated by his partner.**
+- **([[g/_gay|gay]] sexual slang) (of a [[h/_homosexual|homosexual]] [[m/_man|man]]) [[e/_enjoying|enjoying]] a role in [[a/_anal|anal]] sex in which [[h/_he|he]] penetrates, rather than [[b/_being|being]] penetrated by [[h/_his|his]] partner.**
 ---
 ### Synonyms
 - [[a/_acting|acting]], [[a/_agile|agile]], [[n/_nimble|nimble]], [[b/_busy|busy]], [[d/_deedful|deedful]], [[d/_diligent|diligent]], [[e/_energetic|energetic]], [[w/_working|working]], [[o/_operative|operative]], [[t/_top|top]]

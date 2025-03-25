@@ -1,9 +1,9 @@
 # Arsis
 ---
 #noun
-- **The stronger part of a musical measure: the part [[c/_containing|containing]] the [[b/_beat|beat]].**
-- **The stronger part of a metrical foot: the part [[c/_containing|containing]] the long (heavy) syllable in quantitative meter, or the stressed syllable in a qualitative meter.**
-- **The [[e/_elevation|elevation]] of the hand, or that part of the [[b/_bar|bar]] at which it is raised, in [[b/_beating|beating]] time; the weak or unaccented part of the [[b/_bar|bar]], opposed to the thesis.**
-- **The [[e/_elevation|elevation]] of the voice to a higher pitch in speaking.**
+- **The stronger part of a [[m/_musical|musical]] [[m/_measure|measure]]: the part [[c/_containing|containing]] the [[b/_beat|beat]].**
+- **The stronger part of a [[m/_metrical|metrical]] [[f/_foot|foot]]: the part [[c/_containing|containing]] the [[l/_long|long]] ([[h/_heavy|heavy]]) syllable in quantitative [[m/_meter|meter]], or the stressed syllable in a qualitative [[m/_meter|meter]].**
+- **The [[e/_elevation|elevation]] of the [[h/_hand|hand]], or that part of the [[b/_bar|bar]] at which it is raised, in [[b/_beating|beating]] time; the weak or unaccented part of the [[b/_bar|bar]], [[o/_opposed|opposed]] to the thesis.**
+- **The [[e/_elevation|elevation]] of the voice to a [[h/_higher|higher]] pitch in speaking.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Capitano
 ---
 #noun
-- **A head man.**
-- **One of the four stock [[c/_characters|characters]] of commedia [[d/_dell|dell]]'[[a/_arte|arte]] who typically [[a/_appropriated|appropriated]] the name "[[c/_captain|captain]]" for himself but was not one; he was often a [[b/_blowhard|blowhard]] and a swaggerer who [[c/_could|could]] maintain his self-important [[c/_claims|claims]] only if none of the locals know him**
+- **A [[h/_head|head]] [[m/_man|man]].**
+- **[[o/_one|One]] of the [[f/_four|four]] stock [[c/_characters|characters]] of commedia [[d/_dell|dell]]'[[a/_arte|arte]] who typically [[a/_appropriated|appropriated]] the [[n/_name|name]] "[[c/_captain|captain]]" for [[h/_himself|himself]] but was not [[o/_one|one]]; [[h/_he|he]] was [[o/_often|often]] a [[b/_blowhard|blowhard]] and a swaggerer who [[c/_could|could]] [[m/_maintain|maintain]] [[h/_his|his]] self-[[i/_important|important]] [[c/_claims|claims]] [[o/_only|only]] [[i/_if|if]] [[n/_none|none]] of the [[l/_locals|locals]] [[k/_know|know]] [[h/_him|him]]**
 ---
 ---

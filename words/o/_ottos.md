@@ -1,0 +1,7 @@
+# Ottos
+---
+#noun
+- **An [[e/_essential|essential]] [[o/_oil|oil]] [[e/_extracted|extracted]] from [[f/_flowers|flowers]].**
+- **A perfume [[m/_made|made]] from this [[o/_oil|oil]].**
+---
+---

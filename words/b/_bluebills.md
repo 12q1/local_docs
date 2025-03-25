@@ -1,7 +1,7 @@
 # Bluebills
 ---
 #noun
-- **The scaup (of genus [[a/_aythya|Aythya]]).**
-- **[[a/_any|Any]] of the genus Spermophaga of estrildid finches found in tropical [[a/_africa|Africa]].**
+- **The scaup (of [[g/_genus|genus]] [[a/_aythya|Aythya]]).**
+- **[[a/_any|Any]] of the [[g/_genus|genus]] Spermophaga of estrildid [[f/_finches|finches]] [[f/_found|found]] in tropical [[a/_africa|Africa]].**
 ---
 ---

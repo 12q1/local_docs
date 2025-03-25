@@ -1,7 +1,7 @@
 # Blatantly
 ---
 #adverb
-- **In a [[b/_blatant|blatant]] manner; so as to be highly visible or obvious.**
+- **In a [[b/_blatant|blatant]] [[m/_manner|manner]]; so as to be [[h/_highly|highly]] visible or [[o/_obvious|obvious]].**
 	- _Example: Although he was blatantly on drugs, the crowd still cheered him._
 ---
 ### Synonyms

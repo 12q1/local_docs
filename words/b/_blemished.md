@@ -5,6 +5,6 @@
 - **To tarnish (reputation, [[c/_character|character]], [[e/_etc|etc]].); to [[d/_defame|defame]].**
 ---
 #adjective
-- **Having [[b/_blemishes|blemishes]]; flawed.**
+- **[[h/_having|Having]] [[b/_blemishes|blemishes]]; [[f/_flawed|flawed]].**
 ---
 ---

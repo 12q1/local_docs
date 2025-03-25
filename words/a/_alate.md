@@ -1,10 +1,10 @@
 # Alate
 ---
 #noun
-- **A winged, reproductive form of several social insects.**
+- **A winged, reproductive [[f/_form|form]] of several social [[i/_insects|insects]].**
 ---
 #adjective
-- **Having winglike extensions or parts; winged.**
+- **[[h/_having|Having]] winglike [[e/_extensions|extensions]] or parts; winged.**
 ---
 ### Synonyms
 - [[a/_alated|alated]]

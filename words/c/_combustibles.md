@@ -1,6 +1,6 @@
 # Combustibles
 ---
 #noun
-- **A material that is [[c/_capable|capable]] of [[b/_burning|burning]].**
+- **A [[m/_material|material]] that is [[c/_capable|capable]] of [[b/_burning|burning]].**
 ---
 ---

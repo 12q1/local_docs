@@ -6,6 +6,6 @@
 ### Synonyms
 - [[p/_premolar|premolar]]
 #adjective
-- **Having two points or prominences; [[e/_ending|ending]] in two points; said of teeth, leaves, fruit, [[e/_etc|etc]].**
+- **[[h/_having|Having]] two points or prominences; [[e/_ending|ending]] in two points; said of teeth, [[l/_leaves|leaves]], [[f/_fruit|fruit]], [[e/_etc|etc]].**
 ---
 ---

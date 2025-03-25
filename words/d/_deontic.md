@@ -1,6 +1,6 @@
 # Deontic
 ---
 #adjective
-- **Pertaining to necessity, [[d/_duty|duty]] or obligation, or expressions [[c/_conveying|conveying]] this.**
+- **Pertaining to [[n/_necessity|necessity]], [[d/_duty|duty]] or [[o/_obligation|obligation]], or [[e/_expressions|expressions]] [[c/_conveying|conveying]] this.**
 ---
 ---

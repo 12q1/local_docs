@@ -1,0 +1,6 @@
+# Gandered
+---
+#verb
+- **Ramble, wander**
+---
+---

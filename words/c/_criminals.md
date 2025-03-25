@@ -1,7 +1,7 @@
 # Criminals
 ---
 #noun
-- **A person who is guilty of a [[c/_crime|crime]], notably [[b/_breaking|breaking]] the law.**
+- **A person who is [[g/_guilty|guilty]] of a [[c/_crime|crime]], [[n/_notably|notably]] [[b/_breaking|breaking]] the [[l/_law|law]].**
 ---
 ### Synonyms
 - [[l/_lawbreaker|lawbreaker]], [[o/_offender|offender]], [[p/_perpetrator|perpetrator]]

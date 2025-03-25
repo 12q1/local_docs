@@ -2,9 +2,9 @@
 ---
 #noun
 - **The wife or widow of a [[d/_duke|duke]].**
-- **The female ruler of a [[d/_duchy|duchy]].**
+- **The [[f/_female|female]] ruler of a [[d/_duchy|duchy]].**
 ---
 #verb
-- **To [[c/_court|court]] or [[c/_curry|curry]] favour for political or [[b/_business|business]] [[a/_advantage|advantage]]; to flatter obsequiously.**
+- **To [[c/_court|court]] or [[c/_curry|curry]] [[f/_favour|favour]] for political or [[b/_business|business]] [[a/_advantage|advantage]]; to [[f/_flatter|flatter]] [[o/_obsequiously|obsequiously]].**
 ---
 ---

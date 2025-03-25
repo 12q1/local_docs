@@ -1,7 +1,7 @@
 # Axiomatic
 ---
 #adjective
-- **Self-evident or unquestionable.**
+- **Self-[[e/_evident|evident]] or unquestionable.**
 - **Relating to or [[c/_containing|containing]] [[a/_axioms|axioms]].**
 ---
 ### Synonyms

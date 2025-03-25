@@ -1,6 +1,6 @@
 # Copyrighting
 ---
 #verb
-- **To obtain or secure a [[c/_copyright|copyright]] for some literary or other [[a/_artistic|artistic]] work.**
+- **To [[o/_obtain|obtain]] or secure a [[c/_copyright|copyright]] for some [[l/_literary|literary]] or [[o/_other|other]] [[a/_artistic|artistic]] work.**
 ---
 ---

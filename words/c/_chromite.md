@@ -1,8 +1,8 @@
 # Chromite
 ---
 #noun
-- **A [[d/_dark|dark]] [[b/_brown|brown]] mineral species with the formula FeCr2O4.**
-- **[[a/_any|Any]] member of the [[c/_chromite|chromite]]-magnesiochromite series that is a mixed oxide of iron, magnesium and [[c/_chromium|chromium]] with the formula (Fe,Mg)Cr2O4. It is a [[c/_commercial|commercial]] source of [[c/_chromium|chromium]].**
+- **A [[d/_dark|dark]] [[b/_brown|brown]] [[m/_mineral|mineral]] species with the [[f/_formula|formula]] FeCr2O4.**
+- **[[a/_any|Any]] [[m/_member|member]] of the [[c/_chromite|chromite]]-magnesiochromite series that is a [[m/_mixed|mixed]] [[o/_oxide|oxide]] of [[i/_iron|iron]], [[m/_magnesium|magnesium]] and [[c/_chromium|chromium]] with the [[f/_formula|formula]] ([[f/_fe|Fe]],[[m/_mg|Mg]])Cr2O4. It is a [[c/_commercial|commercial]] source of [[c/_chromium|chromium]].**
 ---
 ### Synonyms
 - [[f/_ferrochromite|ferrochromite]]

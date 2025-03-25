@@ -1,6 +1,6 @@
 # Bastnaesite
 ---
 #noun
-- **A yellow-[[b/_brown|brown]] mineral that is a source of several rare [[e/_earth|earth]] metals, [[e/_especially|especially]] gadolinium, samarium, and neodymium.**
+- **A [[y/_yellow|yellow]]-[[b/_brown|brown]] [[m/_mineral|mineral]] that is a source of several rare [[e/_earth|earth]] [[m/_metals|metals]], [[e/_especially|especially]] [[g/_gadolinium|gadolinium]], samarium, and [[n/_neodymium|neodymium]].**
 ---
 ---

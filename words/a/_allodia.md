@@ -1,6 +1,6 @@
 # Allodia
 ---
 #noun
-- **Freehold land or property**
+- **[[f/_freehold|Freehold]] [[l/_land|land]] or property**
 ---
 ---

@@ -1,7 +1,7 @@
 # Collaborative
 ---
 #noun
-- **An organized group of people or [[e/_entities|entities]] who [[c/_collaborate|collaborate]] towards a particular goal**
+- **An [[o/_organized|organized]] [[g/_group|group]] of people or [[e/_entities|entities]] who [[c/_collaborate|collaborate]] towards a particular [[g/_goal|goal]]**
 ---
 #adjective
 - **Of, relating to, or [[d/_done|done]] by [[c/_collaboration|collaboration]].**

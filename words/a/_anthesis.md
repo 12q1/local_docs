@@ -1,6 +1,6 @@
 # Anthesis
 ---
 #noun
-- **The event of a flower opening.**
+- **The [[e/_event|event]] of a [[f/_flower|flower]] [[o/_opening|opening]].**
 ---
 ---

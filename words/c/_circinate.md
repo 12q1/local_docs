@@ -1,7 +1,7 @@
 # Circinate
 ---
 #adjective
-- **Used of leaves or similar parts that are [[c/_coiled|coiled]] on themselves from the [[a/_apex|apex]] toward their [[b/_base|base]].**
-- **Round or ring-shaped, particularly with [[d/_distinct|distinct]] margins forming some sort of motive; [[a/_annular|annular]].**
+- **Used of [[l/_leaves|leaves]] or similar parts that are [[c/_coiled|coiled]] on themselves from the [[a/_apex|apex]] toward their [[b/_base|base]].**
+- **Round or ring-shaped, particularly with [[d/_distinct|distinct]] [[m/_margins|margins]] [[f/_forming|forming]] some sort of [[m/_motive|motive]]; [[a/_annular|annular]].**
 ---
 ---

@@ -1,20 +1,20 @@
 # Beamed
 ---
 #verb
-- **To [[e/_emit|emit]] [[b/_beams|beams]] of light; shine; radiate.**
+- **To [[e/_emit|emit]] [[b/_beams|beams]] of [[l/_light|light]]; shine; radiate.**
 	- _Example: to beam forth light_
 - **To smile [[b/_broadly|broadly]] or [[e/_especially|especially]] [[c/_cheerfully|cheerfully]].**
-- **To furnish or supply with [[b/_beams|beams]]**
-- **To give the [[a/_appearance|appearance]] of [[b/_beams|beams]] to.**
-- **To transmit matter or information via a high-tech wireless mechanism.**
+- **To [[f/_furnish|furnish]] or supply with [[b/_beams|beams]]**
+- **To [[g/_give|give]] the [[a/_appearance|appearance]] of [[b/_beams|beams]] to.**
+- **To transmit [[m/_matter|matter]] or [[i/_information|information]] via a [[h/_high|high]]-tech wireless [[m/_mechanism|mechanism]].**
 	- _Example: Beam me up, Scotty; there's no intelligent life down here._
-- **([[c/_currying|currying]]) To stretch something (for example an [[a/_animal|animal]] hide) on a [[b/_beam|beam]].**
+- **([[c/_currying|currying]]) To stretch something (for [[e/_example|example]] an [[a/_animal|animal]] [[h/_hide|hide]]) on a [[b/_beam|beam]].**
 - **To put (something) on a [[b/_beam|beam]]**
-- **To [[c/_connect|connect]] (musical notes) with a [[b/_beam|beam]], or thick line, in music notation.**
+- **To [[c/_connect|connect]] ([[m/_musical|musical]] [[n/_notes|notes]]) with a [[b/_beam|beam]], or thick [[l/_line|line]], in [[m/_music|music]] [[n/_notation|notation]].**
 ---
 #adjective
-- **Furnished with [[b/_beams|beams]] or timbers.**
+- **[[f/_furnished|Furnished]] with [[b/_beams|beams]] or timbers.**
 	- _Example: a beamed ceiling_
-- **Furnished with [[b/_beams|beams]], as the head of a stag.**
+- **[[f/_furnished|Furnished]] with [[b/_beams|beams]], as the [[h/_head|head]] of a stag.**
 ---
 ---

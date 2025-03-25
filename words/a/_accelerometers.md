@@ -1,7 +1,7 @@
 # Accelerometers
 ---
 #noun
-- **An instrument for measuring [[a/_acceleration|acceleration]].**
-- **An instrument made for [[d/_detecting|detecting]] and measuring vibrations.**
+- **An [[i/_instrument|instrument]] for [[m/_measuring|measuring]] [[a/_acceleration|acceleration]].**
+- **An [[i/_instrument|instrument]] [[m/_made|made]] for [[d/_detecting|detecting]] and [[m/_measuring|measuring]] vibrations.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Biconvex
 ---
 #adjective
-- **Having [[b/_both|both]] sides [[c/_convex|convex]].**
+- **[[h/_having|Having]] [[b/_both|both]] sides [[c/_convex|convex]].**
 ---
 ### Synonyms
 - [[c/_convex|convex]], [[c/_convexoconvex|convexoconvex]]

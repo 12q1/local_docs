@@ -1,0 +1,15 @@
+# Jewel
+---
+#noun
+- **A precious or semi-precious stone; [[g/_gem|gem]], [[g/_gemstone|gemstone]].**
+- **A valuable [[o/_object|object]] used for personal [[o/_ornamentation|ornamentation]], [[e/_especially|especially]] [[o/_one|one]] [[m/_made|made]] of precious [[m/_metals|metals]] and stones; a piece of [[j/_jewellery|jewellery]].**
+- **[[a/_anything|Anything]] precious or valuable.**
+	- _Example: Galveston was the jewel of Texas prior to the hurricane._
+- **A [[b/_bearing|bearing]] for a pivot in a watch, [[f/_formed|formed]] of a [[c/_crystal|crystal]] or precious stone.**
+- **[[a/_any|Any]] of various [[l/_lycaenid|lycaenid]] [[b/_butterflies|butterflies]] of the [[g/_genus|genus]] Hypochrysops.**
+- **The [[c/_clitoris|clitoris]].**
+---
+#verb
+- **To [[b/_bejewel|bejewel]]; to [[d/_decorate|decorate]] or [[b/_bedeck|bedeck]] with [[j/_jewels|jewels]] or [[g/_gems|gems]].**
+---
+---

@@ -1,6 +1,6 @@
 # Corydalis
 ---
 #noun
-- **[[a/_any|Any]] member of the genus [[c/_corydalis|Corydalis]] of [[a/_annual|annual]] and perennial herbaceous plants in the fumewort family.**
+- **[[a/_any|Any]] [[m/_member|member]] of the [[g/_genus|genus]] [[c/_corydalis|Corydalis]] of [[a/_annual|annual]] and perennial [[h/_herbaceous|herbaceous]] plants in the [[f/_fumewort|fumewort]] [[f/_family|family]].**
 ---
 ---

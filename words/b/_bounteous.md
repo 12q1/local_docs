@@ -1,7 +1,7 @@
 # Bounteous
 ---
 #adjective
-- **(of a person) Inclined to be generous.**
-- **(of a gift, [[e/_etc|etc]].) Liberal or [[a/_abundant|abundant]].**
+- **(of a person) [[i/_inclined|Inclined]] to be [[g/_generous|generous]].**
+- **(of a [[g/_gift|gift]], [[e/_etc|etc]].) [[l/_liberal|Liberal]] or [[a/_abundant|abundant]].**
 ---
 ---

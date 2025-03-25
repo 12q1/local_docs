@@ -1,6 +1,6 @@
 # Butterfat
 ---
 #noun
-- **The fatty [[c/_components|components]] of milk and other [[d/_dairy|dairy]] products.**
+- **The [[f/_fatty|fatty]] [[c/_components|components]] of [[m/_milk|milk]] and [[o/_other|other]] [[d/_dairy|dairy]] products.**
 ---
 ---

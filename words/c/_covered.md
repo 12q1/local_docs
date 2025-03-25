@@ -1,46 +1,46 @@
 # Covered
 ---
 #verb
-- **To place something over or upon, as to [[c/_conceal|conceal]] or protect.**
+- **To place something [[o/_over|over]] or upon, as to [[c/_conceal|conceal]] or protect.**
 	- _Example: He covered the baby with a blanket._
-- **To be over or upon, as to [[c/_conceal|conceal]] or protect.**
+- **To be [[o/_over|over]] or upon, as to [[c/_conceal|conceal]] or protect.**
 	- _Example: The blanket covered the baby._
 - **To be upon [[a/_all|all]] of, so as to [[c/_completely|completely]] [[c/_conceal|conceal]].**
 	- _Example: Regular hexagons can cover the plane._
 - **To set upon [[a/_all|all]] of, so as to [[c/_completely|completely]] [[c/_conceal|conceal]].**
 	- _Example: You can cover the plane with regular hexagons._
-- **To put on one's hat.**
-- **To invest (oneself with something); to [[b/_bring|bring]] upon (oneself).**
+- **To put on [[o/_one|one]]'s [[h/_hat|hat]].**
+- **To [[i/_invest|invest]] ([[o/_oneself|oneself]] with something); to [[b/_bring|bring]] upon ([[o/_oneself|oneself]]).**
 	- _Example: The heroic soldier covered himself with glory._
 - **(of a publication) To [[d/_discuss|discuss]] thoroughly; to provide [[c/_coverage|coverage]] of.**
 	- _Example: The magazine covers such diverse topics as politics, news from the world of science, and the economy._
-- **To [[d/_deal|deal]] with or include someone or something.**
-- **To be [[e/_enough|enough]] money for.**
+- **To [[d/_deal|deal]] with or [[i/_include|include]] someone or something.**
+- **To be [[e/_enough|enough]] [[m/_money|money]] for.**
 	- _Example: Ten dollars should cover lunch._
 - **To [[a/_act|act]] as a replacement.**
 	- _Example: I need to take off Tuesday. Can you cover for me?_
-- **To have as an [[a/_assignment|assignment]] or responsibility.**
+- **To [[h/_have|have]] as an [[a/_assignment|assignment]] or responsibility.**
 	- _Example: Can you cover the morning shift tomorrow? I'll give you off next Monday instead._
-- **To make a [[c/_cover|cover]] version of (a song that was originally recorded by [[a/_another|another]] [[a/_artist|artist]]).**
-- **(law [[e/_enforcement|enforcement]]) To protect using an [[a/_aimed|aimed]] firearm and the threat of firing; or to protect using [[c/_continuous|continuous]], heaving fire at or in the [[d/_direction|direction]] of the [[e/_enemy|enemy]] so as to force the [[e/_enemy|enemy]] to remain in [[c/_cover|cover]]; or to threaten using an [[a/_aimed|aimed]] firearm.**
-- **To provide insurance [[c/_coverage|coverage]] for.**
+- **To [[m/_make|make]] a [[c/_cover|cover]] version of (a song that was [[o/_originally|originally]] recorded by [[a/_another|another]] [[a/_artist|artist]]).**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) To protect using an [[a/_aimed|aimed]] [[f/_firearm|firearm]] and the threat of [[f/_firing|firing]]; or to protect using [[c/_continuous|continuous]], [[h/_heaving|heaving]] [[f/_fire|fire]] at or in the [[d/_direction|direction]] of the [[e/_enemy|enemy]] so as to [[f/_force|force]] the [[e/_enemy|enemy]] to remain in [[c/_cover|cover]]; or to threaten using an [[a/_aimed|aimed]] [[f/_firearm|firearm]].**
+- **To provide [[i/_insurance|insurance]] [[c/_coverage|coverage]] for.**
 	- _Example: Does my policy cover accidental loss?_
-- **To [[c/_copulate|copulate]] with (said of [[c/_certain|certain]] male [[a/_animals|animals]] such as [[d/_dogs|dogs]] and horses).**
+- **To [[c/_copulate|copulate]] with (said of [[c/_certain|certain]] [[m/_male|male]] [[a/_animals|animals]] such as [[d/_dogs|dogs]] and [[h/_horses|horses]]).**
 	- _Example: I would like to have my bitch covered next spring._
 - **To protect or [[c/_control|control]] (a piece or square).**
 	- _Example: In order to checkmate a king on the side of the board, the five squares adjacent to the king must all be covered._
-- **To extend over a given period of time or range, to occupy, to stretch over a given [[a/_area|area]].**
+- **To [[e/_extend|extend]] [[o/_over|over]] a [[g/_given|given]] period of time or range, to [[o/_occupy|occupy]], to stretch [[o/_over|over]] a [[g/_given|given]] [[a/_area|area]].**
 - **To [[d/_defend|defend]] a particular player or [[a/_area|area]].**
 ---
 ### Synonyms
 - [[i/_impregnate|impregnate]]
 #adjective
-- **Overlaid (with) or [[e/_enclosed|enclosed]] (within something).**
-- **Prepared for, or having [[d/_dealt|dealt]] with, some matter**
+- **[[o/_overlaid|Overlaid]] (with) or [[e/_enclosed|enclosed]] (within something).**
+- **Prepared for, or [[h/_having|having]] [[d/_dealt|dealt]] with, some [[m/_matter|matter]]**
 	- _Example: With my insurance, I am covered for earthquake damage._
-- **Than whom [[a/_another|another]] player has more money [[a/_available|available]] for [[b/_betting|betting]].**
+- **Than whom [[a/_another|another]] player [[h/_has|has]] [[m/_more|more]] [[m/_money|money]] [[a/_available|available]] for [[b/_betting|betting]].**
 	- _Example: John has $100 on the table, while Jill only has $75. John has Jill covered._
-- **Wearing one's hat.**
+- **Wearing [[o/_one|one]]'s [[h/_hat|hat]].**
 ---
 ### Antonyms
 - [[u/_uncovered|uncovered]]

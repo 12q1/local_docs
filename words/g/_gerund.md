@@ -1,0 +1,7 @@
+# Gerund
+---
+#noun
+- **([[g/_grammar|grammar]]) A verbal [[f/_form|form]] that [[f/_functions|functions]] as a verbal [[n/_noun|noun]]. (In [[e/_english|English]], a [[g/_gerund|gerund]] [[h/_has|has]] the same spelling as a present participle, but [[f/_functions|functions]] [[d/_differently|differently]]; [[h/_however|however]], this [[d/_distinction|distinction]] [[m/_may|may]] be [[a/_ambiguous|ambiguous]] or unclear and so is [[n/_no|no]] [[l/_longer|longer]] [[m/_made|made]] in some [[m/_modern|modern]] texts such as A [[c/_comprehensive|Comprehensive]] [[g/_grammar|Grammar]] of the [[e/_english|English]] [[l/_language|Language]] and The [[c/_cambridge|Cambridge]] [[g/_grammar|Grammar]] of the [[e/_english|English]] [[l/_language|Language]])**
+- **([[g/_grammar|grammar]]) In some [[l/_languages|languages]] such as [[d/_dutch|Dutch]], [[i/_italian|Italian]] or Russian, a verbal [[f/_form|form]] similar to a present participle, but [[f/_functioning|functioning]] as an [[a/_adverb|adverb]] to [[f/_form|form]] [[a/_adverbial|adverbial]] phrases or [[c/_continuous|continuous]] tense. These [[c/_constructions|constructions]] [[h/_have|have]] various [[n/_names|names]] [[b/_besides|besides]] [[g/_gerund|gerund]], [[d/_depending|depending]] on the [[l/_language|language]], such as [[c/_conjunctive|conjunctive]] participles, [[a/_active|active]] participles, [[a/_adverbial|adverbial]] participles, transgressives, [[e/_etc|etc]].**
+---
+---

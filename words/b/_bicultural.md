@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[a/_adapted|Adapted]] to two separate [[c/_cultures|cultures]].**
-- **Having working knowledge of two separate [[c/_cultures|cultures]].**
+- **[[h/_having|Having]] working [[k/_knowledge|knowledge]] of two separate [[c/_cultures|cultures]].**
 ---
 ---

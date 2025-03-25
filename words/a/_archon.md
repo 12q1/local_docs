@@ -1,9 +1,9 @@
 # Archon
 ---
 #noun
-- **A [[c/_chief|chief]] magistrate of [[a/_ancient|ancient]] [[a/_athens|Athens]].**
-- **A person who [[c/_claims|claims]] the right to rule, or to exercise power or sovereign [[a/_authority|authority]] over other human [[b/_beings|beings]].**
-- **A ruler, head of state or other leader.**
-- **(gnosticism) A supernatural [[b/_being|being]] subordinate to the [[d/_demiurge|Demiurge]].**
+- **A [[c/_chief|chief]] [[m/_magistrate|magistrate]] of [[a/_ancient|ancient]] [[a/_athens|Athens]].**
+- **A person who [[c/_claims|claims]] the right to rule, or to [[e/_exercise|exercise]] power or sovereign [[a/_authority|authority]] [[o/_over|over]] [[o/_other|other]] [[h/_human|human]] [[b/_beings|beings]].**
+- **A ruler, [[h/_head|head]] of state or [[o/_other|other]] [[l/_leader|leader]].**
+- **([[g/_gnosticism|gnosticism]]) A supernatural [[b/_being|being]] subordinate to the [[d/_demiurge|Demiurge]].**
 ---
 ---

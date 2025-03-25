@@ -1,26 +1,26 @@
 # Bright
 ---
 #noun
-- **An [[a/_artist|artist]]'s [[b/_brush|brush]] used in oil and [[a/_acrylic|acrylic]] painting with a long ferrule and a flat, somewhat tapering [[b/_bristle|bristle]] head.**
+- **An [[a/_artist|artist]]'s [[b/_brush|brush]] used in [[o/_oil|oil]] and [[a/_acrylic|acrylic]] [[p/_painting|painting]] with a [[l/_long|long]] [[f/_ferrule|ferrule]] and a [[f/_flat|flat]], somewhat tapering [[b/_bristle|bristle]] [[h/_head|head]].**
 - **Splendour; [[b/_brightness|brightness]]**
-- **A person with a naturalistic worldview with no supernatural or mystical [[e/_elements|elements]].**
-- **(in the plural) The high-[[b/_beam|beam]] intensity of motor vehicle headlamps.**
+- **A person with a [[n/_naturalistic|naturalistic]] worldview with [[n/_no|no]] supernatural or [[m/_mystical|mystical]] [[e/_elements|elements]].**
+- **(in the plural) The [[h/_high|high]]-[[b/_beam|beam]] [[i/_intensity|intensity]] of [[m/_motor|motor]] vehicle [[h/_headlamps|headlamps]].**
 	- _Example: Your brights are on._
 ---
 ### Antonyms
 - [[s/_super|super]], [[s/_supernaturalist|supernaturalist]]
 #adjective
-- **Visually [[d/_dazzling|dazzling]]; luminous, lucent, [[c/_clear|clear]], radiant; not [[d/_dark|dark]].**
+- **Visually [[d/_dazzling|dazzling]]; [[l/_luminous|luminous]], [[l/_lucent|lucent]], [[c/_clear|clear]], radiant; not [[d/_dark|dark]].**
 	- _Example: Could you please dim the light? It's far too bright._
-- **Having a [[c/_clear|clear]], quick intellect; intelligent.**
+- **[[h/_having|Having]] a [[c/_clear|clear]], quick [[i/_intellect|intellect]]; [[i/_intelligent|intelligent]].**
 	- _Example: He's very bright. He was able to solve the problem without my help._
 - **Vivid, [[c/_colourful|colourful]], [[b/_brilliant|brilliant]].**
 	- _Example: The orange and blue walls of the sitting room were much brighter than the dull grey walls of the kitchen._
-- **Happy, in good spirits.**
+- **[[h/_happy|Happy]], in [[g/_good|good]] spirits.**
 	- _Example: I woke up today feeling so bright that I decided to have a little dance._
-- **Sparkling with wit; lively; vivacious; [[c/_cheerful|cheerful]].**
-- **Illustrious; glorious.**
+- **Sparkling with wit; [[l/_lively|lively]]; vivacious; [[c/_cheerful|cheerful]].**
+- **[[i/_illustrious|Illustrious]]; [[g/_glorious|glorious]].**
 - **[[c/_clear|Clear]]; transparent.**
-- **Manifest to the mind, as light is to the [[e/_eyes|eyes]]; [[c/_clear|clear]]; evident; plain.**
+- **[[m/_manifest|Manifest]] to the [[m/_mind|mind]], as [[l/_light|light]] is to the [[e/_eyes|eyes]]; [[c/_clear|clear]]; [[e/_evident|evident]]; plain.**
 ---
 ---

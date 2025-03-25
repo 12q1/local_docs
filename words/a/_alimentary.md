@@ -1,7 +1,7 @@
 # Alimentary
 ---
 #adjective
-- **Of, or relating to food, nutrition or [[d/_digestion|digestion]].**
-- **Nourishing; nutritious.**
+- **Of, or relating to [[f/_food|food]], [[n/_nutrition|nutrition]] or [[d/_digestion|digestion]].**
+- **[[n/_nourishing|Nourishing]]; [[n/_nutritious|nutritious]].**
 ---
 ---

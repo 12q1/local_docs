@@ -1,0 +1,79 @@
+# Gets
+---
+#noun
+- **[[o/_offspring|Offspring]].**
+- **[[l/_lineage|Lineage]].**
+- **A [[d/_difficult|difficult]] return or [[b/_block|block]] of a shot.**
+- **Something [[g/_gained|gained]]; an [[a/_acquisition|acquisition]].**
+---
+#verb
+- **(ditransitive) To [[o/_obtain|obtain]]; to [[a/_acquire|acquire]].**
+	- _Example: I'm going to get a computer tomorrow from the discount store._
+- **To receive.**
+	- _Example: He got a severe reprimand for that._
+- **(in a perfect [[c/_construction|construction]], with present-tense [[m/_meaning|meaning]]) To [[h/_have|have]]. See usage [[n/_notes|notes]].**
+	- _Example: I've got a concert ticket for you._
+- **To [[f/_fetch|fetch]], [[b/_bring|bring]], take.**
+	- _Example: Can you get my bag from the living-room, please?_
+- **To [[b/_become|become]], or [[c/_cause|cause]] [[o/_oneself|oneself]] to [[b/_become|become]].**
+	- _Example: I'm getting hungry; how about you?_
+- **To [[c/_cause|cause]] to [[b/_become|become]]; to [[b/_bring|bring]] [[a/_about|about]].**
+	- _Example: I can't get these boots off (or on)._
+- **To [[c/_cause|cause]] to [[d/_do|do]].**
+	- _Example: I can't get it to work._
+- **To [[c/_cause|cause]] to [[c/_come|come]] or [[g/_go|go]] or [[m/_move|move]].**
+	- _Example: I got him to his room._
+- **To [[c/_cause|cause]] to be in a [[c/_certain|certain]] status or position.**
+	- _Example: Get him here at once._
+- **(with various prepositions, such as [[i/_into|into]], [[o/_over|over]], or [[b/_behind|behind]]; for specific [[i/_idiomatic|idiomatic]] senses see [[i/_individual|individual]] [[e/_entries|entries]] [[g/_get|get]] [[i/_into|into]], [[g/_get|get]] [[o/_over|over]], [[e/_etc|etc]].) To [[a/_adopt|adopt]], [[a/_assume|assume]], [[a/_arrive|arrive]] at, or progress towards (a [[c/_certain|certain]] position, [[l/_location|location]], state).**
+	- _Example: I'm getting into a muddle._
+- **To [[c/_cover|cover]] (a [[c/_certain|certain]] [[d/_distance|distance]]) while travelling.**
+	- _Example: to get a mile_
+- **To [[b/_begin|begin]] ([[d/_doing|doing]] something or to [[d/_do|do]] something).**
+	- _Example: After lunch we got chatting._
+- **To take or [[c/_catch|catch]] (a scheduled transportation service).**
+	- _Example: I normally get the 7:45 train._
+- **To respond to (a telephone [[c/_call|call]], a [[d/_doorbell|doorbell]], [[e/_etc|etc]]).**
+	- _Example: Can you get that call, please? I'm busy._
+- **([[f/_followed|followed]] by [[i/_infinitive|infinitive]]) To be [[a/_able|able]], be permitted, or [[h/_have|have]] the [[o/_opportunity|opportunity]] (to [[d/_do|do]] something [[d/_desirable|desirable]] or [[i/_ironically|ironically]] [[i/_implied|implied]] to be [[d/_desirable|desirable]]).**
+	- _Example: Great. I get to clean the toilets today._
+- **To understand. ([[c/_compare|compare]] [[g/_get|get]] it)**
+	- _Example: I don't get what you mean by "fun". This place sucks!_
+- **To be told; be the recipient of (a question, [[c/_comparison|comparison]], [[o/_opinion|opinion]], [[e/_etc|etc]].).**
+	- _Example: "You look just like Helen Mirren." / "I get that a lot."_
+- **To be. Used to [[f/_form|form]] the passive of verbs.**
+	- _Example: He got bitten by a dog._
+- **To [[b/_become|become]] [[i/_ill|ill]] with or [[c/_catch|catch]] (a [[d/_disease|disease]]).**
+	- _Example: I went on holiday and got malaria._
+- **To [[c/_catch|catch]] [[o/_out|out]], trick successfully.**
+	- _Example: He keeps calling pretending to be my boss—it gets me every time._
+- **To perplex, stump.**
+	- _Example: That question's really got me._
+- **To [[f/_find|find]] as an [[a/_answer|answer]].**
+	- _Example: What did you get for question four?_
+- **To [[b/_bring|bring]] to reckoning; to [[c/_catch|catch]] (as a [[c/_criminal|criminal]]); to [[e/_effect|effect]] retribution.**
+	- _Example: I'm gonna get him for that._
+- **To [[h/_hear|hear]] [[c/_completely|completely]]; [[c/_catch|catch]].**
+	- _Example: Sorry, I didn't get that. Could you repeat it?_
+- **To [[g/_getter|getter]].**
+	- _Example: I put the getter into the container to get the gases._
+- **To [[b/_beget|beget]] (of a [[f/_father|father]]).**
+- **To [[l/_learn|learn]]; to [[c/_commit|commit]] to [[m/_memory|memory]]; to [[m/_memorize|memorize]]; sometimes with [[o/_out|out]].**
+	- _Example: to get a lesson;  to get out one's Greek lesson_
+- **Used with a personal pronoun to [[i/_indicate|indicate]] that someone is [[b/_being|being]] pretentious or [[g/_grandiose|grandiose]].**
+	- _Example: Get her with her new hairdo._
+- **To [[g/_go|go]], to [[l/_leave|leave]]; to scram.**
+- **To [[k/_kill|kill]].**
+	- _Example: They’re coming to get you, Barbara._
+- **To [[m/_make|make]] [[a/_acquisitions|acquisitions]]; to [[g/_gain|gain]]; to profit.**
+- **To [[m/_measure|measure]].**
+	- _Example: Did you get her temperature?_
+---
+### Synonyms
+- [[a/_arrive|arrive]], [[r/_reach|reach]], [[b/_become|become]], [[b/_begin|begin]], [[c/_commence|commence]], [[s/_start|start]], [[c/_cause|cause]], [[m/_make|make]], [[m/_make|make]], [[b/_bring|bring]], [[f/_fetch|fetch]], [[r/_retrieve|retrieve]], [[o/_obtain|obtain]], [[g/_getter|getter]], [[g/_go|go]], [[l/_leave|leave]], [[s/_scram|scram]], [[c/_catch|catch]], [[h/_hear|hear]], [[c/_confuse|confuse]], [[p/_perplex|perplex]], [[s/_stump|stump]], [[c/_con|con]], [[d/_deceive|deceive]], [[d/_dupe|dupe]], [[h/_hoodwink|hoodwink]], [[t/_trick|trick]], [[d/_dig|dig]], [[f/_follow|follow]], [[u/_understand|understand]], [[a/_acquire|acquire]], [[h/_have|have]], [[a/_assault|assault]], [[b/_beat|beat]], [[g/_given|given]], [[r/_receive|receive]], [[a/_answer|answer]], [[b/_be|be]], [[c/_catch|catch]], [[c/_catch|catch]], [[n/_nab|nab]], [[n/_nobble|nobble]], [[c/_catch|catch]], [[t/_take|take]], [[g/_go|go]], [[m/_move|move]]
+### Antonyms
+- [[l/_lose|lose]]
+#noun
+- **A [[g/_git|git]].**
+---
+---

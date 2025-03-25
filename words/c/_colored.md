@@ -1,17 +1,17 @@
 # Colored
 ---
 #verb
-- **To give something [[c/_color|color]].**
+- **To [[g/_give|give]] something [[c/_color|color]].**
 	- _Example: We could color the walls red._
-- **To [[a/_apply|apply]] [[c/_colors|colors]] to the [[a/_areas|areas]] within the [[b/_boundaries|boundaries]] of a line [[d/_drawing|drawing]] using [[c/_colored|colored]] markers or [[c/_crayons|crayons]].**
+- **To [[a/_apply|apply]] [[c/_colors|colors]] to the [[a/_areas|areas]] within the [[b/_boundaries|boundaries]] of a [[l/_line|line]] [[d/_drawing|drawing]] using [[c/_colored|colored]] [[m/_markers|markers]] or [[c/_crayons|crayons]].**
 	- _Example: My kindergartener loves to color._
-- **(of a person or their face) To [[b/_become|become]] red through increased [[b/_blood|blood]] flow.**
+- **(of a person or their [[f/_face|face]]) To [[b/_become|become]] red through [[i/_increased|increased]] [[b/_blood|blood]] [[f/_flow|flow]].**
 	- _Example: Her face colored as she realized her mistake._
 - **To [[a/_affect|affect]] without [[c/_completely|completely]] [[c/_changing|changing]].**
 	- _Example: That interpretation certainly colors my perception of the book._
 - **To [[a/_attribute|attribute]] a quality to; to portray (as).**
 	- _Example: Color me confused._
-- **To [[a/_assign|assign]] [[c/_colors|colors]] to the vertices of a graph (or the regions of a map) so that no two vertices [[c/_connected|connected]] by an [[e/_edge|edge]] (regions sharing a [[b/_border|border]]) have the same [[c/_color|color]].**
+- **To [[a/_assign|assign]] [[c/_colors|colors]] to the vertices of a [[g/_graph|graph]] (or the regions of a [[m/_map|map]]) so that [[n/_no|no]] two vertices [[c/_connected|connected]] by an [[e/_edge|edge]] (regions sharing a [[b/_border|border]]) [[h/_have|have]] the same [[c/_color|color]].**
 	- _Example: Can this graph be 2-colored?_
 ---
 ### Synonyms
@@ -20,19 +20,19 @@
 - [[d/_decolor|decolor]]
 #noun
 - **A [[c/_colored|colored]] person.**
-- **(laundry) A [[c/_colored|colored]] [[a/_article|article]] of [[c/_clothing|clothing]].**
+- **([[l/_laundry|laundry]]) A [[c/_colored|colored]] [[a/_article|article]] of [[c/_clothing|clothing]].**
 ---
 #adjective
-- **Having a [[c/_color|color]].**
+- **[[h/_having|Having]] a [[c/_color|color]].**
 	- _Example: Wash colored items separately from whites and darks to prevent the colors from bleeding._
-- **Having a particular [[c/_color|color]] or kind of [[c/_color|color]].**
+- **[[h/_having|Having]] a particular [[c/_color|color]] or [[k/_kind|kind]] of [[c/_color|color]].**
 	- _Example: The room was red, with a dark-colored rug._
-- **Having prominent [[c/_colors|colors]]; [[c/_colorful|colorful]].**
+- **[[h/_having|Having]] prominent [[c/_colors|colors]]; [[c/_colorful|colorful]].**
 	- _Example: The singer wore a colored shirt._
-- **Influenced pervasively but subtly.**
+- **[[i/_influenced|Influenced]] pervasively but subtly.**
 	- _Example: My opinions are colored by my upbringing._
-- **Of skin [[c/_color|color]] other than white; in particular, [[b/_black|black]].**
-- **Of neither [[b/_black|black]] nor white skin [[c/_color|color]].**
+- **Of skin [[c/_color|color]] [[o/_other|other]] than white; in particular, [[b/_black|black]].**
+- **Of [[n/_neither|neither]] [[b/_black|black]] [[n/_nor|nor]] white skin [[c/_color|color]].**
 	- _Example: Most of the colored community speaks Afrikaans, whereas languages like Xhosa or Venda are typically spoken by blacks and English is spoken mostly by whites._
 - **[[d/_designated|Designated]] for use by [[c/_colored|colored]] people (in [[e/_either|either]] the US or South [[a/_african|African]] sense).**
 	- _Example: a colored drinking fountain_

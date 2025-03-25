@@ -1,12 +1,12 @@
 # Chaperons
 ---
 #noun
-- **An [[a/_adult|adult]] who [[a/_accompanies|accompanies]] or supervises one or more young, unmarried men or women [[d/_during|during]] social occasions, usually with the specific intent of preventing some types of social or sexual interactions or illegal [[b/_behavior|behavior]].**
-- **A hood, [[e/_especially|especially]], an ornamental or official hood.**
-- **A [[d/_device|device]] placed on the foreheads of horses which [[d/_draw|draw]] the hearse in pompous funerals.**
+- **An [[a/_adult|adult]] who [[a/_accompanies|accompanies]] or supervises [[o/_one|one]] or [[m/_more|more]] [[y/_young|young]], unmarried [[m/_men|men]] or women [[d/_during|during]] social [[o/_occasions|occasions]], usually with the specific [[i/_intent|intent]] of preventing some types of social or sexual [[i/_interactions|interactions]] or [[i/_illegal|illegal]] [[b/_behavior|behavior]].**
+- **A [[h/_hood|hood]], [[e/_especially|especially]], an [[o/_ornamental|ornamental]] or [[o/_official|official]] [[h/_hood|hood]].**
+- **A [[d/_device|device]] placed on the [[f/_foreheads|foreheads]] of [[h/_horses|horses]] which [[d/_draw|draw]] the [[h/_hearse|hearse]] in pompous [[f/_funerals|funerals]].**
 ---
 #verb
 - **To [[a/_accompany|accompany]], to [[e/_escort|escort]]**
-- **To mother**
+- **To [[m/_mother|mother]]**
 ---
 ---

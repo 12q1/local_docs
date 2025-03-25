@@ -1,7 +1,7 @@
 # Coleuses
 ---
 #noun
-- **A plant in the mint family, Plectranthus scutellarioides (formerly known as [[c/_coleus|Coleus]] blumei and Solenostemon scutellarioides), [[c/_cultivated|cultivated]] for its [[b/_bright|bright]]-[[c/_colored|colored]] or variegated leaves.**
-- **[[a/_any|Any]] other plant formerly [[c/_classified|classified]] in the genus [[c/_coleus|Coleus]], which is now [[c/_considered|considered]] to be a synonym of Plectranthus**
+- **A plant in the [[m/_mint|mint]] [[f/_family|family]], Plectranthus scutellarioides ([[f/_formerly|formerly]] [[k/_known|known]] as [[c/_coleus|Coleus]] blumei and Solenostemon scutellarioides), [[c/_cultivated|cultivated]] for [[i/_its|its]] [[b/_bright|bright]]-[[c/_colored|colored]] or variegated [[l/_leaves|leaves]].**
+- **[[a/_any|Any]] [[o/_other|other]] plant [[f/_formerly|formerly]] [[c/_classified|classified]] in the [[g/_genus|genus]] [[c/_coleus|Coleus]], which is [[n/_now|now]] [[c/_considered|considered]] to be a synonym of Plectranthus**
 ---
 ---

@@ -1,9 +1,9 @@
 # Disesteem
 ---
 #noun
-- **Lack of [[e/_esteem|esteem]]; [[d/_disregard|disregard]].**
+- **[[l/_lack|Lack]] of [[e/_esteem|esteem]]; [[d/_disregard|disregard]].**
 ---
 #verb
-- **To hold little or no [[e/_esteem|esteem]] for; to [[c/_consider|consider]] worthless.**
+- **To [[h/_hold|hold]] [[l/_little|little]] or [[n/_no|no]] [[e/_esteem|esteem]] for; to [[c/_consider|consider]] worthless.**
 ---
 ---

@@ -1,22 +1,22 @@
 # Crater
 ---
 #noun
-- **A hemispherical pit [[c/_created|created]] by the impact of a meteorite or other object.**
-- **The [[b/_basin|basin]]-like opening or mouth of a volcano, through which the [[c/_chief|chief]] [[e/_eruption|eruption]] [[c/_comes|comes]]; similarly, the mouth of a geyser, [[a/_about|about]] which a [[c/_cone|cone]] of silica is often [[b/_built|built]] up.**
-- **The pit left by the explosion of a mine or [[b/_bomb|bomb]].**
-- **(by extension) [[a/_any|Any]] large, roughly [[c/_circular|circular]] [[d/_depression|depression]] or hole.**
+- **A [[h/_hemispherical|hemispherical]] pit [[c/_created|created]] by the [[i/_impact|impact]] of a [[m/_meteorite|meteorite]] or [[o/_other|other]] [[o/_object|object]].**
+- **The [[b/_basin|basin]]-[[l/_like|like]] [[o/_opening|opening]] or [[m/_mouth|mouth]] of a volcano, through which the [[c/_chief|chief]] [[e/_eruption|eruption]] [[c/_comes|comes]]; similarly, the [[m/_mouth|mouth]] of a [[g/_geyser|geyser]], [[a/_about|about]] which a [[c/_cone|cone]] of silica is [[o/_often|often]] [[b/_built|built]] up.**
+- **The pit [[l/_left|left]] by the [[e/_explosion|explosion]] of a [[m/_mine|mine]] or [[b/_bomb|bomb]].**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[l/_large|large]], roughly [[c/_circular|circular]] [[d/_depression|depression]] or [[h/_hole|hole]].**
 ---
 ### Synonyms
 - [[a/_astrobleme|astrobleme]]
 #verb
-- **To form [[c/_craters|craters]] in a surface (of a planet or moon).**
+- **To [[f/_form|form]] [[c/_craters|craters]] in a surface (of a planet or [[m/_moon|moon]]).**
 - **To [[c/_collapse|collapse]] [[c/_catastrophically|catastrophically]]; to [[b/_become|become]] [[d/_devastated|devastated]] or [[c/_completely|completely]] [[d/_destroyed|destroyed]].**
-- **To [[c/_crash|crash]] or fall.**
+- **To [[c/_crash|crash]] or [[f/_fall|fall]].**
 	- _Example: He cratered into that snow bank about five seconds after his first lesson._
 ---
 ### Synonyms
 - [[i/_implode|implode]]
 #noun
-- **An [[a/_ancient|ancient]] Greek vessel for mixing water and wine.**
+- **An [[a/_ancient|ancient]] [[g/_greek|Greek]] vessel for [[m/_mixing|mixing]] water and wine.**
 ---
 ---

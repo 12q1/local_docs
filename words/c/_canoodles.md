@@ -1,10 +1,10 @@
 # Canoodles
 ---
 #noun
-- **A [[c/_cuddle|cuddle]], hug, or [[c/_caress|caress]]**
+- **A [[c/_cuddle|cuddle]], [[h/_hug|hug]], or [[c/_caress|caress]]**
 ---
 #verb
-- **To [[c/_caress|caress]], pet, feel up, or make love.**
+- **To [[c/_caress|caress]], pet, [[f/_feel|feel]] up, or [[m/_make|make]] [[l/_love|love]].**
 	- _Example: He’s got a big smile on his face; who’s he been canoodling recently?_
 - **To [[c/_cajole|cajole]] or persuade.**
 ---

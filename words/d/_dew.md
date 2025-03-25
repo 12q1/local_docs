@@ -1,12 +1,12 @@
 # Dew
 ---
 #noun
-- **[[a/_any|Any]] moisture from the [[a/_atmosphere|atmosphere]] [[c/_condensed|condensed]] by [[c/_cool|cool]] [[b/_bodies|bodies]] upon their surfaces.**
-- **Moisture in the [[a/_air|air]] that settles on plants, [[e/_etc|etc]] in the morning, resulting in [[d/_drops|drops]].**
-- **(but see usage notes) An instance of such moisture settling on plants, [[e/_etc|etc]].**
+- **[[a/_any|Any]] [[m/_moisture|moisture]] from the [[a/_atmosphere|atmosphere]] [[c/_condensed|condensed]] by [[c/_cool|cool]] [[b/_bodies|bodies]] upon their surfaces.**
+- **[[m/_moisture|Moisture]] in the [[a/_air|air]] that settles on plants, [[e/_etc|etc]] in the [[m/_morning|morning]], resulting in [[d/_drops|drops]].**
+- **(but see usage [[n/_notes|notes]]) An [[i/_instance|instance]] of such [[m/_moisture|moisture]] settling on plants, [[e/_etc|etc]].**
 	- _Example: There was a heavy dew this morning._
-- **[[a/_anything|Anything]] that falls lightly and in a refreshing manner.**
-- **An [[e/_emblem|emblem]] of morning, or fresh vigour.**
+- **[[a/_anything|Anything]] that [[f/_falls|falls]] [[l/_lightly|lightly]] and in a refreshing [[m/_manner|manner]].**
+- **An [[e/_emblem|emblem]] of [[m/_morning|morning]], or [[f/_fresh|fresh]] vigour.**
 ---
 ### Synonyms
 - [[r/_rore|rore]]

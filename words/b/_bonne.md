@@ -1,6 +1,6 @@
 # Bonne
 ---
 #noun
-- **A French nursemaid.**
+- **A [[f/_french|French]] [[n/_nursemaid|nursemaid]].**
 ---
 ---

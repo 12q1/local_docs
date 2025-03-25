@@ -1,12 +1,12 @@
 # Discordant
 ---
 #adjective
-- **Not in harmony or [[a/_accord|accord]]**
-- **Harsh or [[d/_dissonant|dissonant]]-sounding**
-- **(public health) serodiscordant**
-- **Of a [[d/_differing|differing]] type of rock [[c/_cutting|cutting]] [[a/_across|across]] a formation**
+- **Not in [[h/_harmony|harmony]] or [[a/_accord|accord]]**
+- **[[h/_harsh|Harsh]] or [[d/_dissonant|dissonant]]-sounding**
+- **(public [[h/_health|health]]) serodiscordant**
+- **Of a [[d/_differing|differing]] type of rock [[c/_cutting|cutting]] [[a/_across|across]] a [[f/_formation|formation]]**
 	- _Example: Dikes may be discordant to country rock if they intrude at a high angle to the bedding._
-- **Of opposite sign**
+- **Of [[o/_opposite|opposite]] sign**
 ---
 ### Antonyms
 - [[c/_concordant|concordant]]

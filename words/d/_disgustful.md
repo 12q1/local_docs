@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[d/_disgusting|Disgusting]], vile.**
-- **Full of [[d/_disgust|disgust]].**
+- **[[f/_full|Full]] of [[d/_disgust|disgust]].**
 ---
 ---

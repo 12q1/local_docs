@@ -2,11 +2,11 @@
 ---
 #noun
 - **[[a/_anything|Anything]] that [[b/_blinks|blinks]], such as the turn signal of an [[a/_automobile|automobile]].**
-- **[[e/_eye|Eye]] shields [[a/_attached|attached]] to a hood for horses, to prevent them from seeing [[b/_backwards|backwards]] and partially sideways.**
-- **Whatever obstructs sight or [[d/_discernment|discernment]].**
+- **[[e/_eye|Eye]] shields [[a/_attached|attached]] to a [[h/_hood|hood]] for [[h/_horses|horses]], to prevent them from seeing [[b/_backwards|backwards]] and partially sideways.**
+- **Whatever [[o/_obstructs|obstructs]] sight or [[d/_discernment|discernment]].**
 - **The [[e/_eyelid|eyelid]].**
 - **A [[b/_black|black]] [[e/_eye|eye]].**
-- **In Conway's Game of Life, an [[a/_arrangement|arrangement]] of three [[c/_cells|cells]] in a row that switches [[b/_between|between]] horizontal and vertical orientations in [[e/_each|each]] generation.**
+- **In Conway's [[g/_game|Game]] of [[l/_life|Life]], an [[a/_arrangement|arrangement]] of three [[c/_cells|cells]] in a row that switches [[b/_between|between]] [[h/_horizontal|horizontal]] and vertical [[o/_orientations|orientations]] in [[e/_each|each]] [[g/_generation|generation]].**
 ---
 ### Synonyms
 - [[b/_blinder|blinder]], [[w/_winker|winker]], [[d/_directional|directional]], [[i/_indicator|indicator]], [[t/_trafficator|trafficator]]

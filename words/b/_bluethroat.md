@@ -1,6 +1,6 @@
 # Bluethroat
 ---
 #noun
-- **A small Old World passerine [[b/_bird|bird]], Luscinia svecica, the male in spring having a [[b/_bright|bright]] [[b/_blue|blue]] throat.**
+- **A small [[o/_old|Old]] World passerine [[b/_bird|bird]], [[l/_luscinia|Luscinia]] svecica, the [[m/_male|male]] in spring [[h/_having|having]] a [[b/_bright|bright]] [[b/_blue|blue]] throat.**
 ---
 ---

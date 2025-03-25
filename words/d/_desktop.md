@@ -4,11 +4,11 @@
 - **The top surface of a [[d/_desk|desk]].**
 - **A [[d/_desktop|desktop]] [[c/_computer|computer]].**
 	- _Example: Laptops are often more expensive than desktops._
-- **The main graphical user interface of an operating system, usually [[d/_displaying|displaying]] icons, windows and [[b/_background|background]] wallpaper.**
+- **The [[m/_main|main]] [[g/_graphical|graphical]] user [[i/_interface|interface]] of an [[o/_operating|operating]] system, usually [[d/_displaying|displaying]] [[i/_icons|icons]], windows and [[b/_background|background]] wallpaper.**
 	- _Example: I installed a new application and it added its icon to my desktop._
 ---
 #adjective
-- **[[d/_designed|Designed]] for use on a [[d/_desk|desk]] or similar piece of furniture.**
+- **[[d/_designed|Designed]] for use on a [[d/_desk|desk]] or similar piece of [[f/_furniture|furniture]].**
 - **Of an [[a/_application|application]], [[d/_designed|designed]] to be run on a personal [[c/_computer|computer]].**
 ---
 ---

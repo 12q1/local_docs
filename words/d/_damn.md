@@ -3,31 +3,31 @@
 #noun
 - **The use of "[[d/_damn|damn]]" as a [[c/_curse|curse]].**
 	- _Example: He said a few damns and left._
-- **A small, negligible quantity, [[b/_being|being]] of little value; a whit or jot.**
+- **A small, [[n/_negligible|negligible]] quantity, [[b/_being|being]] of [[l/_little|little]] value; a whit or [[j/_jot|jot]].**
 	- _Example: The new hires aren't worth a damn._
 - **The smallest [[a/_amount|amount]] of [[c/_concern|concern]] or [[c/_consideration|consideration]].**
 	- _Example: I don't give a damn._
 ---
 #verb
-- **To [[c/_condemn|condemn]] to hell.**
+- **To [[c/_condemn|condemn]] to [[h/_hell|hell]].**
 	- _Example: I damn you eternally, fiend!_
-- **To [[c/_condemn|condemn]]; to [[d/_declare|declare]] guilty; to [[d/_doom|doom]]; to [[a/_adjudge|adjudge]] to punishment.**
-- **To put out of favor; to ruin; to label negatively.**
+- **To [[c/_condemn|condemn]]; to [[d/_declare|declare]] [[g/_guilty|guilty]]; to [[d/_doom|doom]]; to [[a/_adjudge|adjudge]] to punishment.**
+- **To put [[o/_out|out]] of [[f/_favor|favor]]; to ruin; to [[l/_label|label]] [[n/_negatively|negatively]].**
 	- _Example: I’m afraid that if I speak out on this, I’ll be damned as a troublemaker._
-- **To [[c/_condemn|condemn]] as unfit, harmful, invalid, immoral or illegal.**
+- **To [[c/_condemn|condemn]] as unfit, [[h/_harmful|harmful]], [[i/_invalid|invalid]], [[i/_immoral|immoral]] or [[i/_illegal|illegal]].**
 - **To [[c/_curse|curse]]; put a [[c/_curse|curse]] upon.**
 	- _Example: That man stole my wallet. Damn him!_
-- **To invoke [[d/_damnation|damnation]]; to [[c/_curse|curse]].**
+- **To [[i/_invoke|invoke]] [[d/_damnation|damnation]]; to [[c/_curse|curse]].**
 ---
 #adjective
-- **Generic intensifier. Fucking; [[b/_bloody|bloody]].**
+- **[[g/_generic|Generic]] [[i/_intensifier|intensifier]]. [[f/_fucking|Fucking]]; [[b/_bloody|bloody]].**
 	- _Example: Shut the damn door!_
 ---
 #adverb
-- **Very; extremely.**
+- **Very; [[e/_extremely|extremely]].**
 	- _Example: That car was going damn fast!_
 ---
 #interjection
-- **Used to express [[a/_anger|anger]], irritation, [[d/_disappointment|disappointment]], [[a/_annoyance|annoyance]], [[c/_contempt|contempt]] or suprise, [[e/_etc|etc]]. See [[a/_also|also]] [[d/_dammit|dammit]].**
+- **Used to [[e/_express|express]] [[a/_anger|anger]], [[i/_irritation|irritation]], [[d/_disappointment|disappointment]], [[a/_annoyance|annoyance]], [[c/_contempt|contempt]] or suprise, [[e/_etc|etc]]. See [[a/_also|also]] [[d/_dammit|dammit]].**
 ---
 ---

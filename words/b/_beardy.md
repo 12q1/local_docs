@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[b/_bearded|Bearded]].**
-- **Manly, masculine.**
+- **[[m/_manly|Manly]], [[m/_masculine|masculine]].**
 ---
 ---

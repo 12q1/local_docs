@@ -1,6 +1,6 @@
 # Centrally
 ---
 #adverb
-- **(location) In a [[c/_central|central]] manner or situation; at, to, through or from the [[c/_centre|centre]].**
+- **([[l/_location|location]]) In a [[c/_central|central]] [[m/_manner|manner]] or situation; at, to, through or from the [[c/_centre|centre]].**
 ---
 ---

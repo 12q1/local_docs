@@ -1,6 +1,6 @@
 # Antiwar
 ---
 #adjective
-- **Opposed to war, or to a specific war**
+- **[[o/_opposed|Opposed]] to war, or to a specific war**
 ---
 ---

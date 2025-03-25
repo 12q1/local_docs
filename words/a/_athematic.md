@@ -1,6 +1,6 @@
 # Athematic
 ---
 #adjective
-- **Of a root, not having a thematic vowel and thus [[a/_attaching|attaching]] inflections [[d/_directly|directly]] to the root.**
+- **Of a root, not [[h/_having|having]] a thematic vowel and thus [[a/_attaching|attaching]] [[i/_inflections|inflections]] [[d/_directly|directly]] to the root.**
 ---
 ---

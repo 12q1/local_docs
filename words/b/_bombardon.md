@@ -1,8 +1,8 @@
 # Bombardon
 ---
 #noun
-- **A [[b/_brass|brass]] instrument, the [[b/_bass|bass]] version of the tuba.**
-- **A [[b/_bass|bass]] instrument of the shawm family**
-- **A organ pedal stop at 32' pitch which imitates the sound of the [[a/_above|above]] mentioned instruments.**
+- **A [[b/_brass|brass]] [[i/_instrument|instrument]], the [[b/_bass|bass]] version of the tuba.**
+- **A [[b/_bass|bass]] [[i/_instrument|instrument]] of the shawm [[f/_family|family]]**
+- **A [[o/_organ|organ]] pedal stop at 32' pitch which [[i/_imitates|imitates]] the sound of the [[a/_above|above]] [[m/_mentioned|mentioned]] [[i/_instruments|instruments]].**
 ---
 ---

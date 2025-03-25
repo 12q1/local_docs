@@ -1,7 +1,7 @@
 # Bowyers
 ---
 #noun
-- **A person who makes or sells [[b/_bows|bows]] (for use with [[a/_arrows|arrows]]).**
+- **A person who [[m/_makes|makes]] or sells [[b/_bows|bows]] (for use with [[a/_arrows|arrows]]).**
 - **A person who uses the [[b/_bow|bow]], an [[a/_archer|archer]].**
 ---
 ### Synonyms

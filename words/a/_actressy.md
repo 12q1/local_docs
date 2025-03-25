@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[c/_characteristic|Characteristic]] of an [[a/_actress|actress]]**
-- **Histrionic or theatrical**
+- **[[h/_histrionic|Histrionic]] or theatrical**
 ---
 ---

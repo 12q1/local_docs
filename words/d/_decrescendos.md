@@ -1,9 +1,9 @@
 # Decrescendos
 ---
 #noun
-- **An instruction to play gradually more softly.**
+- **An [[i/_instruction|instruction]] to play [[g/_gradually|gradually]] [[m/_more|more]] softly.**
 ---
 #verb
-- **To gradually [[b/_become|become]] quieter**
+- **To [[g/_gradually|gradually]] [[b/_become|become]] quieter**
 ---
 ---

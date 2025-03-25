@@ -1,6 +1,6 @@
 # Cames
 ---
 #noun
-- **A grooved strip of lead used to hold panes of glass together.**
+- **A [[g/_grooved|grooved]] strip of [[l/_lead|lead]] used to [[h/_hold|hold]] [[p/_panes|panes]] of [[g/_glass|glass]] together.**
 ---
 ---

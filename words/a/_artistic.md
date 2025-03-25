@@ -1,7 +1,7 @@
 # Artistic
 ---
 #adjective
-- **Having or revealing [[c/_creative|creative]] skill.**
+- **[[h/_having|Having]] or revealing [[c/_creative|creative]] skill.**
 - **Relating to or [[c/_characteristic|characteristic]] of [[a/_art|art]] or [[a/_artists|artists]].**
 - **[[a/_aesthetically|Aesthetically]] pleasing.**
 ---

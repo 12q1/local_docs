@@ -1,6 +1,6 @@
 # Beautifully
 ---
 #adverb
-- **In a [[b/_beautiful|beautiful]] manner.**
+- **In a [[b/_beautiful|beautiful]] [[m/_manner|manner]].**
 ---
 ---

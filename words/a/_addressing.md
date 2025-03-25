@@ -1,31 +1,31 @@
 # Addressing
 ---
 #verb
-- **To prepare oneself.**
+- **To prepare [[o/_oneself|oneself]].**
 - **To [[d/_direct|direct]] speech.**
 - **To [[a/_aim|aim]]; to [[d/_direct|direct]].**
-- **To prepare or make ready.**
-- **To prepare oneself; to [[a/_apply|apply]] one's skill or [[e/_energies|energies]] (to some object); to [[b/_betake|betake]].**
-- **To [[d/_direct|direct]] one’s remarks (to someone).**
+- **To prepare or [[m/_make|make]] ready.**
+- **To prepare [[o/_oneself|oneself]]; to [[a/_apply|apply]] [[o/_one|one]]'s skill or [[e/_energies|energies]] (to some [[o/_object|object]]); to [[b/_betake|betake]].**
+- **To [[d/_direct|direct]] [[o/_one|one]]’s remarks (to someone).**
 - **To [[c/_clothe|clothe]] or [[a/_array|array]]; to [[d/_dress|dress]].**
-- **To [[d/_direct|direct]], as words (to [[a/_anyone|anyone]] or [[a/_anything|anything]]); to make, as a speech, petition, [[e/_etc|etc]]. (to [[a/_any|any]] [[a/_audience|audience]]).**
+- **To [[d/_direct|direct]], as words (to [[a/_anyone|anyone]] or [[a/_anything|anything]]); to [[m/_make|make]], as a speech, petition, [[e/_etc|etc]]. (to [[a/_any|any]] [[a/_audience|audience]]).**
 	- _Example: He addressed some portions of his remarks to his supporters, some to his opponents._
-- **To [[d/_direct|direct]] speech to; to make a [[c/_communication|communication]] to, whether spoken or written; to [[a/_apply|apply]] to by words, as by a speech, petition, [[e/_etc|etc]]., to speak to.**
-- **To [[d/_direct|direct]] in writing, as a letter; to superscribe, or to [[d/_direct|direct]] and transmit.**
+- **To [[d/_direct|direct]] speech to; to [[m/_make|make]] a [[c/_communication|communication]] to, whether spoken or written; to [[a/_apply|apply]] to by words, as by a speech, petition, [[e/_etc|etc]]., to speak to.**
+- **To [[d/_direct|direct]] in writing, as a [[l/_letter|letter]]; to superscribe, or to [[d/_direct|direct]] and transmit.**
 	- _Example: He addressed a letter._
-- **To make suit to as a lover; to [[c/_court|court]]; to woo.**
-- **To [[c/_consign|consign]] or [[e/_entrust|entrust]] to the [[c/_care|care]] of [[a/_another|another]], as [[a/_agent|agent]] or factor.**
+- **To [[m/_make|make]] suit to as a [[l/_lover|lover]]; to [[c/_court|court]]; to woo.**
+- **To [[c/_consign|consign]] or [[e/_entrust|entrust]] to the [[c/_care|care]] of [[a/_another|another]], as [[a/_agent|agent]] or [[f/_factor|factor]].**
 	- _Example: The ship was addressed to a merchant in Baltimore._
-- **To [[a/_address|address]] oneself to; to prepare oneself for; to [[a/_apply|apply]] oneself to; to [[d/_direct|direct]] one's speech or [[d/_discourse|discourse]] to.**
-- **To [[d/_direct|direct]] [[a/_attention|attention]] towards a problem or obstacle, in an [[a/_attempt|attempt]] to resolve it.**
-- **To refer to a location in [[c/_computer|computer]] memory.**
-- **To get ready to hit (the [[b/_ball|ball]] on the tee).**
+- **To [[a/_address|address]] [[o/_oneself|oneself]] to; to prepare [[o/_oneself|oneself]] for; to [[a/_apply|apply]] [[o/_oneself|oneself]] to; to [[d/_direct|direct]] [[o/_one|one]]'s speech or [[d/_discourse|discourse]] to.**
+- **To [[d/_direct|direct]] [[a/_attention|attention]] towards a problem or [[o/_obstacle|obstacle]], in an [[a/_attempt|attempt]] to resolve it.**
+- **To refer to a [[l/_location|location]] in [[c/_computer|computer]] [[m/_memory|memory]].**
+- **To [[g/_get|get]] ready to [[h/_hit|hit]] (the [[b/_ball|ball]] on the tee).**
 ---
 ### Synonyms
 - [[b/_beclothe|beclothe]], [[d/_dight|dight]], [[r/_romance|romance]]
 #noun
-- **A process of putting a person's name and [[a/_address|address]] on an item of mail**
-- **[[a/_any|Any]] of several methods of locating and [[a/_accessing|accessing]] information within storage**
-- **A mode, manner, or form of [[d/_direct|direct]] one's speech to an [[a/_audience|audience]].**
+- **A process of putting a person's [[n/_name|name]] and [[a/_address|address]] on an [[i/_item|item]] of [[m/_mail|mail]]**
+- **[[a/_any|Any]] of several [[m/_methods|methods]] of [[l/_locating|locating]] and [[a/_accessing|accessing]] [[i/_information|information]] within storage**
+- **A [[m/_mode|mode]], [[m/_manner|manner]], or [[f/_form|form]] of [[d/_direct|direct]] [[o/_one|one]]'s speech to an [[a/_audience|audience]].**
 ---
 ---

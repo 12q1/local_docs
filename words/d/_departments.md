@@ -2,11 +2,11 @@
 ---
 #noun
 - **A part, portion, or subdivision.**
-- **A [[d/_distinct|distinct]] [[c/_course|course]] of life, [[a/_action|action]], study, or the like.**
+- **A [[d/_distinct|distinct]] [[c/_course|course]] of [[l/_life|life]], [[a/_action|action]], study, or the [[l/_like|like]].**
 	- _Example: Technical things are not his department; he's a people person._
-- **A subdivision of an organization.**
-- **A territorial [[d/_division|division]]; a [[d/_district|district]]; [[e/_especially|especially]], in France, one of the [[d/_districts|districts]] into which the [[c/_country|country]] is [[d/_divided|divided]] for governmental purposes, similar to a [[c/_county|county]] in the UK and in the USA. France is [[c/_composed|composed]] of 101 [[d/_d|d]]épartements organized in 18 régions, [[e/_each|each]] [[d/_department|department]] is [[d/_divided|divided]] into [[a/_arrondissements|arrondissements]], in turn [[d/_divided|divided]] into [[c/_cantons|cantons]].**
-- **A military subdivision of a [[c/_country|country]]**
+- **A subdivision of an [[o/_organization|organization]].**
+- **A territorial [[d/_division|division]]; a [[d/_district|district]]; [[e/_especially|especially]], in [[f/_france|France]], [[o/_one|one]] of the [[d/_districts|districts]] [[i/_into|into]] which the [[c/_country|country]] is [[d/_divided|divided]] for [[g/_governmental|governmental]] purposes, similar to a [[c/_county|county]] in the UK and in the USA. [[f/_france|France]] is [[c/_composed|composed]] of 101 [[d/_d|d]]épartements [[o/_organized|organized]] in 18 régions, [[e/_each|each]] [[d/_department|department]] is [[d/_divided|divided]] [[i/_into|into]] [[a/_arrondissements|arrondissements]], in turn [[d/_divided|divided]] [[i/_into|into]] [[c/_cantons|cantons]].**
+- **A [[m/_military|military]] subdivision of a [[c/_country|country]]**
 	- _Example: the Department of the Potomac_
 - **[[a/_act|Act]] of [[d/_departing|departing]]; [[d/_departure|departure]].**
 ---

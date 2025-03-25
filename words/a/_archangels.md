@@ -1,6 +1,6 @@
 # Archangels
 ---
 #noun
-- **A powerful [[a/_angel|angel]] that leads many other [[a/_angels|angels]], but is still loyal to a [[d/_deity|deity]], and often seen as [[b/_belonging|belonging]] to a particular [[a/_archangelical|archangelical]] rank or order within a greater hierarchy of [[a/_angels|angels]]. (Judeo-[[c/_christian|Christian]] examples: Gabriel, Michael, Raphael, Uriel).**
+- **A powerful [[a/_angel|angel]] that [[l/_leads|leads]] [[m/_many|many]] [[o/_other|other]] [[a/_angels|angels]], but is still [[l/_loyal|loyal]] to a [[d/_deity|deity]], and [[o/_often|often]] seen as [[b/_belonging|belonging]] to a particular [[a/_archangelical|archangelical]] rank or [[o/_order|order]] within a [[g/_greater|greater]] [[h/_hierarchy|hierarchy]] of [[a/_angels|angels]]. (Judeo-[[c/_christian|Christian]] [[e/_examples|examples]]: [[g/_gabriel|Gabriel]], [[m/_michael|Michael]], Raphael, Uriel).**
 ---
 ---

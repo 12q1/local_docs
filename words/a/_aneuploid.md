@@ -1,9 +1,9 @@
 # Aneuploid
 ---
 #noun
-- **A [[c/_cell|cell]] or an organism having such a number of [[c/_chromosomes|chromosomes]].**
+- **A [[c/_cell|cell]] or an [[o/_organism|organism]] [[h/_having|having]] such a [[n/_number|number]] of [[c/_chromosomes|chromosomes]].**
 ---
 #adjective
-- **Having a number of [[c/_chromosomes|chromosomes]] that is not a multiple of the haploid number.**
+- **[[h/_having|Having]] a [[n/_number|number]] of [[c/_chromosomes|chromosomes]] that is not a [[m/_multiple|multiple]] of the [[h/_haploid|haploid]] [[n/_number|number]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Behaves
 ---
 #verb
-- **To [[c/_conduct|conduct]] (oneself) well, or in a given way.**
+- **To [[c/_conduct|conduct]] ([[o/_oneself|oneself]]) well, or in a [[g/_given|given]] way.**
 	- _Example: You need to behave yourself, young lady._
-- **To [[a/_act|act]], [[c/_conduct|conduct]] oneself in a specific manner; used with an [[a/_adverbial|adverbial]] of manner.**
+- **To [[a/_act|act]], [[c/_conduct|conduct]] [[o/_oneself|oneself]] in a specific [[m/_manner|manner]]; used with an [[a/_adverbial|adverbial]] of [[m/_manner|manner]].**
 	- _Example: He behaves like a child whenever she's around._
-- **To [[c/_conduct|conduct]], manage, regulate (something).**
+- **To [[c/_conduct|conduct]], [[m/_manage|manage]], regulate (something).**
 - **To [[a/_act|act]] in a polite or proper way.**
 	- _Example: His mother threatened to spank him if he didn't behave._
 ---

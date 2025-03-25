@@ -1,13 +1,13 @@
 # Constable
 ---
 #noun
-- **One holding the lowest rank in most [[c/_commonwealth|Commonwealth]] police forces. (See [[a/_also|also]] [[c/_chief|chief]] [[c/_constable|constable]].)**
-- **A police officer or an officer with [[e/_equivalent|equivalent]] powers.**
-- **An officer of a noble [[c/_court|court]] in the Middle [[a/_ages|Ages]], usually a senior [[a/_army|army]] [[c/_commander|commander]]. (See [[a/_also|also]] marshal).**
+- **[[o/_one|One]] [[h/_holding|holding]] the [[l/_lowest|lowest]] rank in [[m/_most|most]] [[c/_commonwealth|Commonwealth]] police [[f/_forces|forces]]. (See [[a/_also|also]] [[c/_chief|chief]] [[c/_constable|constable]].)**
+- **A police [[o/_officer|officer]] or an [[o/_officer|officer]] with [[e/_equivalent|equivalent]] powers.**
+- **An [[o/_officer|officer]] of a [[n/_noble|noble]] [[c/_court|court]] in the [[m/_middle|Middle]] [[a/_ages|Ages]], usually a senior [[a/_army|army]] [[c/_commander|commander]]. (See [[a/_also|also]] [[m/_marshal|marshal]]).**
 - **The warden of a [[c/_castle|castle]].**
-- **A public officer, usually at municipal level, responsible for maintaining order or serving writs and [[c/_court|court]] orders.**
-- **([[c/_channel|Channel]] Islands) An [[e/_elected|elected]] head of a parish ([[a/_also|also]] known as a [[c/_conn|conn]]étable)**
-- **A large [[b/_butterfly|butterfly]], Dichorragia nesimachus, family Nymphalidae, of [[a/_asia|Asia]].**
+- **A public [[o/_officer|officer]], usually at [[m/_municipal|municipal]] [[l/_level|level]], responsible for [[m/_maintaining|maintaining]] [[o/_order|order]] or serving writs and [[c/_court|court]] [[o/_orders|orders]].**
+- **([[c/_channel|Channel]] [[i/_islands|Islands]]) An [[e/_elected|elected]] [[h/_head|head]] of a parish ([[a/_also|also]] [[k/_known|known]] as a [[c/_conn|conn]]étable)**
+- **A [[l/_large|large]] [[b/_butterfly|butterfly]], Dichorragia nesimachus, [[f/_family|family]] [[n/_nymphalidae|Nymphalidae]], of [[a/_asia|Asia]].**
 ---
 #verb
 - **To [[a/_act|act]] as a [[c/_constable|constable]] or policeman.**

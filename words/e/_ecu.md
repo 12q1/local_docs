@@ -1,6 +1,6 @@
 # Ecu
 ---
 #noun
-- **The European [[c/_currency|Currency]] Unit (symbol ₠), a [[c/_currency|currency]] used in the European [[c/_community|Community]] [[b/_before|before]] the euro.**
+- **The [[e/_european|European]] [[c/_currency|Currency]] Unit (symbol ₠), a [[c/_currency|currency]] used in the [[e/_european|European]] [[c/_community|Community]] [[b/_before|before]] the [[e/_euro|euro]].**
 ---
 ---

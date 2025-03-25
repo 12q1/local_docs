@@ -1,10 +1,10 @@
 # Albas
 ---
 #noun
-- **A type of lyrical poetry, traditionally Provenç[[a/_al|al]], [[a/_about|about]] lovers who must part at [[d/_dawn|dawn]].**
+- **A type of [[l/_lyrical|lyrical]] poetry, traditionally Provenç[[a/_al|al]], [[a/_about|about]] [[l/_lovers|lovers]] who [[m/_must|must]] part at [[d/_dawn|dawn]].**
 ---
 #noun
-- **A white-flowered shrub rose of the hybrid Rosa × [[a/_alba|alba]].**
-- **A flower of the hybrid Rosa × [[a/_alba|alba]].**
+- **A white-[[f/_flowered|flowered]] shrub rose of the [[h/_hybrid|hybrid]] Rosa × [[a/_alba|alba]].**
+- **A [[f/_flower|flower]] of the [[h/_hybrid|hybrid]] Rosa × [[a/_alba|alba]].**
 ---
 ---

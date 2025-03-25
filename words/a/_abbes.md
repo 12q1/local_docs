@@ -1,7 +1,7 @@
 # Abbes
 ---
 #noun
-- **A French [[a/_abbot|abbot]], the (male) head of an [[a/_abbey|abbey]].**
-- **An honorific title for a member of the French [[c/_clergy|clergy]].**
+- **A [[f/_french|French]] [[a/_abbot|abbot]], the ([[m/_male|male]]) [[h/_head|head]] of an [[a/_abbey|abbey]].**
+- **An [[h/_honorific|honorific]] title for a [[m/_member|member]] of the [[f/_french|French]] [[c/_clergy|clergy]].**
 ---
 ---

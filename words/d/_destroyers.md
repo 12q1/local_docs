@@ -2,7 +2,7 @@
 ---
 #noun
 - **That which [[d/_destroys|destroys]] something.**
-- **A small, fast warship with light [[a/_armament|armament]], smaller than a [[c/_cruiser|cruiser]], but [[b/_bigger|bigger]] than a frigate.**
+- **A small, [[f/_fast|fast]] warship with [[l/_light|light]] [[a/_armament|armament]], smaller than a [[c/_cruiser|cruiser]], but [[b/_bigger|bigger]] than a [[f/_frigate|frigate]].**
 ---
 ### Synonyms
 - [[d/_decimator|decimator]], [[d/_devastator|devastator]]

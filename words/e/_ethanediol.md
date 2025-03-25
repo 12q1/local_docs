@@ -1,6 +1,6 @@
 # Ethanediol
 ---
 #noun
-- **[[e/_ethylene|Ethylene]] glycol**
+- **[[e/_ethylene|Ethylene]] [[g/_glycol|glycol]]**
 ---
 ---

@@ -1,13 +1,13 @@
 # Earned
 ---
 #verb
-- **To gain (success, reward, recognition) through [[a/_applied|applied]] [[e/_effort|effort]] or work.**
+- **To [[g/_gain|gain]] (success, reward, recognition) through [[a/_applied|applied]] [[e/_effort|effort]] or work.**
 	- _Example: You can have the s'mores: you earned them, clearing the walkway of snow so well._
-- **To receive payment for work.**
+- **To receive [[p/_payment|payment]] for work.**
 	- _Example: He earns seven million dollars a year as CEO.  My bank account is only earning one percent interest._
-- **To receive payment for work.**
+- **To receive [[p/_payment|payment]] for work.**
 	- _Example: Now that you are earning, you can start paying me rent._
-- **To [[c/_cause|cause]] (someone) to receive payment or reward.**
+- **To [[c/_cause|cause]] (someone) to receive [[p/_payment|payment]] or reward.**
 	- _Example: My CD earns me six percent!_
 - **To [[a/_achieve|achieve]] by [[b/_being|being]] worthy of.**
 	- _Example: to earn a spot in the top 20_
@@ -15,10 +15,10 @@
 ### Synonyms
 - [[g/_generate|generate]], [[m/_make|make]], [[r/_render|render]], [[y/_yield|yield]], [[d/_deserve|deserve]], [[g/_garner|garner]], [[m/_merit|merit]], [[w/_win|win]]
 #verb
-- **To [[c/_curdle|curdle]], as milk.**
+- **To [[c/_curdle|curdle]], as [[m/_milk|milk]].**
 ---
 #verb
-- **To long; to yearn.**
-- **To grieve.**
+- **To [[l/_long|long]]; to [[y/_yearn|yearn]].**
+- **To [[g/_grieve|grieve]].**
 ---
 ---

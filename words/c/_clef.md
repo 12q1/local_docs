@@ -1,6 +1,6 @@
 # Clef
 ---
 #noun
-- **A symbol found on a musical staff that indicates the pitches represented by the lines and the spaces on the staff**
+- **A symbol [[f/_found|found]] on a [[m/_musical|musical]] staff that [[i/_indicates|indicates]] the pitches represented by the [[l/_lines|lines]] and the spaces on the staff**
 ---
 ---

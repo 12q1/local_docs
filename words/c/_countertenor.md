@@ -1,8 +1,8 @@
 # Countertenor
 ---
 #noun
-- **[[a/_adult|Adult]] male singer who uses head tone or falsetto to sing far higher than the typical male vocal range**
-- **Male singing voice far higher than the typical male vocal range**
-- **(Older) a part or section performing a countermelody [[a/_against|against]] the tenor or main part**
+- **[[a/_adult|Adult]] [[m/_male|male]] singer who uses [[h/_head|head]] tone or [[f/_falsetto|falsetto]] to sing [[f/_far|far]] [[h/_higher|higher]] than the typical [[m/_male|male]] vocal range**
+- **[[m/_male|Male]] singing voice [[f/_far|far]] [[h/_higher|higher]] than the typical [[m/_male|male]] vocal range**
+- **([[o/_older|Older]]) a part or section performing a countermelody [[a/_against|against]] the tenor or [[m/_main|main]] part**
 ---
 ---

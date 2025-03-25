@@ -1,12 +1,12 @@
 # Conked
 ---
 #verb
-- **To hit, [[e/_especially|especially]] on the head.**
+- **To [[h/_hit|hit]], [[e/_especially|especially]] on the [[h/_head|head]].**
 ---
 #verb
-- **To [[c/_chemically|chemically]] straighten tightly [[c/_curled|curled]] hair.**
+- **To [[c/_chemically|chemically]] straighten tightly [[c/_curled|curled]] [[h/_hair|hair]].**
 ---
 #verb
-- **(often with out) To fail or show signs of failing, [[c/_cease|cease]] operating, [[b/_break|break]] [[d/_down|down]], [[b/_become|become]] unconscious.**
+- **([[o/_often|often]] with [[o/_out|out]]) To [[f/_fail|fail]] or show signs of [[f/_failing|failing]], [[c/_cease|cease]] [[o/_operating|operating]], [[b/_break|break]] [[d/_down|down]], [[b/_become|become]] unconscious.**
 ---
 ---

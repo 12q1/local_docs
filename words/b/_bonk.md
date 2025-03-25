@@ -1,16 +1,16 @@
 # Bonk
 ---
 #noun
-- **A [[b/_bump|bump]] on the head.**
-- **[[a/_any|Any]] minor [[c/_collision|collision]] or random meeting.**
-- **An [[a/_act|act]] of sexual intercourse.**
-- **A [[c/_condition|condition]] of sudden, severe fatigue in an [[e/_endurance|endurance]] sports event [[c/_caused|caused]] by glycogen [[d/_depletion|depletion]].**
+- **A [[b/_bump|bump]] on the [[h/_head|head]].**
+- **[[a/_any|Any]] [[m/_minor|minor]] [[c/_collision|collision]] or random [[m/_meeting|meeting]].**
+- **An [[a/_act|act]] of sexual [[i/_intercourse|intercourse]].**
+- **A [[c/_condition|condition]] of sudden, severe [[f/_fatigue|fatigue]] in an [[e/_endurance|endurance]] sports [[e/_event|event]] [[c/_caused|caused]] by [[g/_glycogen|glycogen]] [[d/_depletion|depletion]].**
 ---
 #verb
 - **To strike or [[c/_collide|collide]] with something.**
-- **To have sexual intercourse.**
-- **To hit something with the front of the [[b/_board|board]], [[e/_especially|especially]] in midair.**
-- **To experience sudden and severe fatigue in an [[e/_endurance|endurance]] sports event [[d/_due|due]] to glycogen [[d/_depletion|depletion]].**
+- **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]].**
+- **To [[h/_hit|hit]] something with the [[f/_front|front]] of the [[b/_board|board]], [[e/_especially|especially]] in [[m/_midair|midair]].**
+- **To [[e/_experience|experience]] sudden and severe [[f/_fatigue|fatigue]] in an [[e/_endurance|endurance]] sports [[e/_event|event]] [[d/_due|due]] to [[g/_glycogen|glycogen]] [[d/_depletion|depletion]].**
 ---
 ### Synonyms
 - [[b/_boink|boink]]

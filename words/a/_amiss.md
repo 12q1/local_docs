@@ -1,16 +1,16 @@
 # Amiss
 ---
 #noun
-- **Fault; wrong; an evil [[a/_act|act]], a [[b/_bad|bad]] [[d/_deed|deed]].**
+- **[[f/_fault|Fault]]; wrong; an [[e/_evil|evil]] [[a/_act|act]], a [[b/_bad|bad]] [[d/_deed|deed]].**
 ---
 #adjective
-- **Wrong; faulty; out of order; improper or otherwise incorrect.**
+- **Wrong; [[f/_faulty|faulty]]; [[o/_out|out]] of [[o/_order|order]]; [[i/_improper|improper]] or [[o/_otherwise|otherwise]] [[i/_incorrect|incorrect]].**
 	- _Example: He suspected something was amiss._
 ---
 #adverb
 - **Wrongly.**
-- **Mistakenly.**
+- **[[m/_mistakenly|Mistakenly]].**
 - **[[a/_astray|Astray]].**
-- **Imperfectly.**
+- **[[i/_imperfectly|Imperfectly]].**
 ---
 ---

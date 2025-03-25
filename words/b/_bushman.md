@@ -1,6 +1,6 @@
 # Bushman
 ---
 #noun
-- **A man who lives in or has extensive experience of the [[a/_australian|Australian]] [[b/_bush|bush]] or outback.**
+- **A [[m/_man|man]] who [[l/_lives|lives]] in or [[h/_has|has]] [[e/_extensive|extensive]] [[e/_experience|experience]] of the [[a/_australian|Australian]] [[b/_bush|bush]] or [[o/_outback|outback]].**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[c/_constipated|Constipated]]**
-- **Miserly, parsimonious**
+- **[[m/_miserly|Miserly]], parsimonious**
 ---
 ---

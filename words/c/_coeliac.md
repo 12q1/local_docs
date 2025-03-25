@@ -1,7 +1,7 @@
 # Coeliac
 ---
 #noun
-- **Someone who has [[c/_coeliac|coeliac]] [[d/_disease|disease]].**
+- **Someone who [[h/_has|has]] [[c/_coeliac|coeliac]] [[d/_disease|disease]].**
 ---
 #adjective
 - **Relating to the [[a/_abdomen|abdomen]], or to the [[c/_cavity|cavity]] of the [[a/_abdomen|abdomen]].**

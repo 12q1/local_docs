@@ -1,6 +1,6 @@
 # Ebonite
 ---
 #noun
-- **The relatively hard product of vulcanizing natural rubber with sulfur; vulcanite.**
+- **The relatively [[h/_hard|hard]] product of vulcanizing [[n/_natural|natural]] rubber with sulfur; vulcanite.**
 ---
 ---

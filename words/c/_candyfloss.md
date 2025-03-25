@@ -1,7 +1,7 @@
 # Candyfloss
 ---
 #noun
-- **Heated sugar spun into thin threads and [[c/_collected|collected]] into a mass, usually on a stick.**
+- **[[h/_heated|Heated]] sugar spun [[i/_into|into]] thin threads and [[c/_collected|collected]] [[i/_into|into]] a [[m/_mass|mass]], usually on a stick.**
 ---
 ### Synonyms
 - 

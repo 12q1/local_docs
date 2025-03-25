@@ -1,6 +1,6 @@
 # Caliphate
 ---
 #noun
-- **A unified Islamic government for the Muslim world, ruled by a [[c/_caliph|caliph]].**
+- **A unified [[i/_islamic|Islamic]] [[g/_government|government]] for the [[m/_muslim|Muslim]] world, ruled by a [[c/_caliph|caliph]].**
 ---
 ---

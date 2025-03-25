@@ -1,6 +1,6 @@
 # Agleam
 ---
 #adjective
-- **Glowing with subdued light.**
+- **[[g/_glowing|Glowing]] with subdued [[l/_light|light]].**
 ---
 ---

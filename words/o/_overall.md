@@ -1,0 +1,20 @@
+# Overall
+---
+#noun
+- **A [[g/_garment|garment]] worn [[o/_over|over]] [[o/_other|other]] [[c/_clothing|clothing]] to protect it; a [[c/_coverall|coverall]] or [[b/_boiler|boiler]] suit. A [[g/_garment|garment]], for [[m/_manual|manual]] [[l/_labor|labor]] or for [[c/_casual|casual]] wear, [[o/_often|often]] [[m/_made|made]] of a single piece of [[f/_fabric|fabric]], with [[l/_long|long]] [[l/_legs|legs]] and a [[b/_bib|bib]] upper, supported from the shoulders with straps, and [[h/_having|having]] several [[l/_large|large]] pockets and [[l/_loops|loops]] for [[c/_carrying|carrying]] tools.**
+- **(in the plural) A [[g/_garment|garment]], worn for [[m/_manual|manual]] [[l/_labor|labor]], with an [[i/_integral|integral]] [[c/_covering|covering]] [[e/_extending|extending]] to the [[c/_chest|chest]], supported by straps.**
+---
+### Synonyms
+- [[o/_overslop|overslop]], [[s/_slop|slop]]
+#adjective
+- **[[a/_all|All]]-[[e/_encompassing|encompassing]], [[a/_all|all]] [[a/_around|around]].**
+---
+### Synonyms
+- [[b/_big|big]], [[e/_entire|entire]], [[t/_total|total]], [[w/_whole|whole]], [[e/_exhaustive|exhaustive]], [[t/_thorough|thorough]]
+#adverb
+- **[[g/_generally|Generally]]; with [[e/_everything|everything]] [[c/_considered|considered]].**
+	- _Example: Overall, there is not enough evidence to form a clear conclusion._
+---
+### Synonyms
+- 
+---

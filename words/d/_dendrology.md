@@ -1,6 +1,6 @@
 # Dendrology
 ---
 #noun
-- **The study of trees and other woody plants**
+- **The study of trees and [[o/_other|other]] woody plants**
 ---
 ---

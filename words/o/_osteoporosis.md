@@ -1,0 +1,6 @@
+# Osteoporosis
+---
+#noun
+- **A [[d/_disease|disease]], [[o/_occurring|occurring]] [[e/_especially|especially]] in women [[f/_following|following]] [[m/_menopause|menopause]], in which the [[b/_bones|bones]] [[b/_become|become]] [[e/_extremely|extremely]] porous and are subject to [[f/_fracture|fracture]].**
+---
+---

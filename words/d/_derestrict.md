@@ -1,6 +1,6 @@
 # Derestrict
 ---
 #verb
-- **To free from restrictions**
+- **To [[f/_free|free]] from restrictions**
 ---
 ---

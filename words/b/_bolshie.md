@@ -1,7 +1,7 @@
 # Bolshie
 ---
 #noun
-- **A government leftist, [[e/_especially|especially]] a [[c/_communist|communist]], socialist, or labour union leader.**
+- **A [[g/_government|government]] [[l/_leftist|leftist]], [[e/_especially|especially]] a [[c/_communist|communist]], socialist, or [[l/_labour|labour]] union [[l/_leader|leader]].**
 ---
 #adjective
 - **[[d/_difficult|Difficult]] or rebellious.**

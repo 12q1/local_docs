@@ -1,18 +1,18 @@
 # Bob
 ---
 #noun
-- **A [[b/_bobbing|bobbing]] motion; a quick up and [[d/_down|down]] movement.**
+- **A [[b/_bobbing|bobbing]] [[m/_motion|motion]]; a quick up and [[d/_down|down]] [[m/_movement|movement]].**
 	- _Example: a bob of the head_
 - **A [[c/_curtsy|curtsy]].**
-- **A [[b/_bobber|bobber]] ([[b/_buoyant|buoyant]] fishing [[d/_device|device]]).**
-- **[[a/_any|Any]] of various hesperiid [[b/_butterflies|butterflies]].**
+- **A [[b/_bobber|bobber]] ([[b/_buoyant|buoyant]] [[f/_fishing|fishing]] [[d/_device|device]]).**
+- **[[a/_any|Any]] of various [[h/_hesperiid|hesperiid]] [[b/_butterflies|butterflies]].**
 ---
 #verb
-- **To move gently and vertically, in [[e/_either|either]] a single motion or repeatedly up and [[d/_down|down]], at or near the surface of a [[b/_body|body]] of water, or similar medium.**
+- **To [[m/_move|move]] [[g/_gently|gently]] and vertically, in [[e/_either|either]] a single [[m/_motion|motion]] or repeatedly up and [[d/_down|down]], at or [[n/_near|near]] the surface of a [[b/_body|body]] of water, or similar [[m/_medium|medium]].**
 	- _Example: The ball, which we had thought lost, suddenly bobbed up out of the water._
-- **To move (something) as though it were [[b/_bobbing|bobbing]] in water.**
+- **To [[m/_move|move]] (something) as though it were [[b/_bobbing|bobbing]] in water.**
 	- _Example: I bobbed my head under water and saw the goldfish._
 - **To [[c/_curtsy|curtsy]].**
-- **To strike with a quick, light [[b/_blow|blow]]; to tap.**
+- **To strike with a quick, [[l/_light|light]] [[b/_blow|blow]]; to tap.**
 ---
 ---

@@ -1,0 +1,12 @@
+# Overhauling
+---
+#verb
+- **To [[m/_modernize|modernize]], repair, renovate, or revise [[c/_completely|completely]].**
+- **To pass, [[o/_overtake|overtake]], or travel past.**
+- **To [[k/_keep|keep]] (running rigging) [[c/_clear|clear]], and see that [[n/_no|no]] [[h/_hitch|hitch]] [[o/_occurs|occurs]].**
+- **To search (a ship) for [[c/_contraband|contraband]] [[g/_goods|goods]].**
+---
+#noun
+- **The [[a/_act|act]] by which something is [[o/_overhauled|overhauled]].**
+---
+---

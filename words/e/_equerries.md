@@ -1,7 +1,7 @@
 # Equerries
 ---
 #noun
-- **An officer responsible for the [[c/_care|care]] and supervision of the horses of a person of rank.**
-- **A personal [[a/_attendant|attendant]] to a head of state, a member of a royal family, or a national representative.**
+- **An [[o/_officer|officer]] responsible for the [[c/_care|care]] and supervision of the [[h/_horses|horses]] of a person of rank.**
+- **A personal [[a/_attendant|attendant]] to a [[h/_head|head]] of state, a [[m/_member|member]] of a royal [[f/_family|family]], or a [[n/_national|national]] representative.**
 ---
 ---

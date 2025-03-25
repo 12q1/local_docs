@@ -1,8 +1,8 @@
 # Clubbers
 ---
 #noun
-- **One who partakes in [[c/_clubbing|clubbing]], who frequents nightclubs.**
-- **One who [[c/_clubs|clubs]], who hits objects with a [[c/_club|club]].**
+- **[[o/_one|One]] who partakes in [[c/_clubbing|clubbing]], who [[f/_frequents|frequents]] [[n/_nightclubs|nightclubs]].**
+- **[[o/_one|One]] who [[c/_clubs|clubs]], who [[h/_hits|hits]] [[o/_objects|objects]] with a [[c/_club|club]].**
 ---
 ### Synonyms
 - [[c/_clubgoer|clubgoer]]

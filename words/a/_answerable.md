@@ -1,7 +1,7 @@
 # Answerable
 ---
 #adjective
-- **Required to justify one's [[a/_actions|actions]] (to somebody); [[a/_accountable|accountable]], responsible.**
+- **Required to [[j/_justify|justify]] [[o/_one|one]]'s [[a/_actions|actions]] (to somebody); [[a/_accountable|accountable]], responsible.**
 - **(of a question) [[a/_able|Able]] to be [[a/_answered|answered]].**
 - **[[c/_correspondent|Correspondent]], in [[a/_accordance|accordance]]; [[c/_comparable|comparable]] (to).**
 - **Proportionate; [[c/_commensurate|commensurate]] in [[a/_amount|amount]]; suitable.**

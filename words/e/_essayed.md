@@ -2,6 +2,6 @@
 ---
 #verb
 - **To try.**
-- **To move forth, as into [[b/_battle|battle]].**
+- **To [[m/_move|move]] [[f/_forth|forth]], as [[i/_into|into]] [[b/_battle|battle]].**
 ---
 ---

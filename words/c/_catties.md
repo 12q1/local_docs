@@ -1,6 +1,6 @@
 # Catties
 ---
 #noun
-- **A (unit of) weight used in [[c/_china|China]], generally standardized as half a kilogram.**
+- **A (unit of) weight used in [[c/_china|China]], [[g/_generally|generally]] standardized as [[h/_half|half]] a [[k/_kilogram|kilogram]].**
 ---
 ---

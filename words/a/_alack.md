@@ -1,7 +1,7 @@
 # Alack
 ---
 #interjection
-- **An expression of sorrow or mourning.**
+- **An [[e/_expression|expression]] of sorrow or [[m/_mourning|mourning]].**
 ---
 ### Synonyms
 - [[a/_alackaday|alackaday]], [[a/_alas|alas]]

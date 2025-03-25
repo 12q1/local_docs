@@ -1,0 +1,6 @@
+# Fibrositis
+---
+#noun
+- **Fibromyalgia**
+---
+---

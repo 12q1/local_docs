@@ -1,6 +1,6 @@
 # Chenilles
 ---
 #noun
-- **An extremely soft and [[b/_bunchy|bunchy]] fabric often used to make sweaters.**
+- **An [[e/_extremely|extremely]] soft and [[b/_bunchy|bunchy]] [[f/_fabric|fabric]] [[o/_often|often]] used to [[m/_make|make]] sweaters.**
 ---
 ---

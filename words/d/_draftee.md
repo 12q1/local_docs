@@ -1,6 +1,6 @@
 # Draftee
 ---
 #noun
-- **One who is [[d/_drafted|drafted]] (into a military service, [[e/_etc|etc]])**
+- **[[o/_one|One]] who is [[d/_drafted|drafted]] ([[i/_into|into]] a [[m/_military|military]] service, [[e/_etc|etc]])**
 ---
 ---

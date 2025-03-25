@@ -2,10 +2,10 @@
 ---
 #noun
 - **A [[d/_drug|drug]] that [[c/_causes|causes]] an [[a/_addiction|addiction]].**
-- **[[a/_anything|Anything]] that is very habit-forming.**
+- **[[a/_anything|Anything]] that is very [[h/_habit|habit]]-[[f/_forming|forming]].**
 ---
 #adjective
-- **[[c/_causing|Causing]] or tending to [[c/_cause|cause]] [[a/_addiction|addiction]]; habit-forming.**
+- **[[c/_causing|Causing]] or tending to [[c/_cause|cause]] [[a/_addiction|addiction]]; [[h/_habit|habit]]-[[f/_forming|forming]].**
 	- _Example: These are addictive drugs._
 - **[[e/_enjoyable|Enjoyable]].**
 	- _Example: Have you seen that new TV show? It's so addictive._

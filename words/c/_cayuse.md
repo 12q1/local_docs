@@ -1,6 +1,6 @@
 # Cayuse
 ---
 #noun
-- **A small Indian horse or pony.**
+- **A small [[i/_indian|Indian]] [[h/_horse|horse]] or pony.**
 ---
 ---

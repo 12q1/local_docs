@@ -1,45 +1,45 @@
 # Came
 ---
 #preposition
-- **Used to indicate that the following event, period, or [[c/_change|change]] in state occurred in the past, [[a/_after|after]] a time of waiting, [[e/_enduring|enduring]], or [[a/_anticipation|anticipation]]**
+- **Used to [[i/_indicate|indicate]] that the [[f/_following|following]] [[e/_event|event]], period, or [[c/_change|change]] in state [[o/_occurred|occurred]] in the past, [[a/_after|after]] a time of waiting, [[e/_enduring|enduring]], or [[a/_anticipation|anticipation]]**
 ---
 ### Synonyms
 - [[a/_arrived|arrived]], [[b/_by|by]], [[c/_came|came]], [[w/_when|when]]
 #verb
-- **To move from further [[a/_away|away]] to nearer to.**
+- **To [[m/_move|move]] from [[f/_further|further]] [[a/_away|away]] to [[n/_nearer|nearer]] to.**
 	- _Example: She’ll be coming ’round the mountain when she comes [...]_
 - **To [[a/_arrive|arrive]].**
-- **To [[a/_appear|appear]], to manifest itself.**
+- **To [[a/_appear|appear]], to [[m/_manifest|manifest]] [[i/_itself|itself]].**
 	- _Example: The pain in his leg comes and goes._
-- **(with an infinitive) To [[b/_begin|begin]] to have an opinion or feeling.**
+- **(with an [[i/_infinitive|infinitive]]) To [[b/_begin|begin]] to [[h/_have|have]] an [[o/_opinion|opinion]] or [[f/_feeling|feeling]].**
 	- _Example: She came to think of that country as her home._
-- **(with an infinitive) To [[d/_do|do]] something by [[c/_chance|chance]], without intending to [[d/_do|do]] it.**
+- **(with an [[i/_infinitive|infinitive]]) To [[d/_do|do]] something by [[c/_chance|chance]], without [[i/_intending|intending]] to [[d/_do|do]] it.**
 	- _Example: Could you tell me how the document came to be discovered?_
 - **To take a position relative to something [[e/_else|else]] in a sequence.**
 	- _Example: Which letter comes before Y?   Winter comes after autumn._
-- **To [[a/_achieve|achieve]] orgasm; to [[c/_cum|cum]]; to [[e/_ejaculate|ejaculate]].**
+- **To [[a/_achieve|achieve]] [[o/_orgasm|orgasm]]; to [[c/_cum|cum]]; to [[e/_ejaculate|ejaculate]].**
 	- _Example: He came after a few minutes._
 - **(with [[c/_close|close]]) To [[a/_approach|approach]] a state of [[b/_being|being]] or [[a/_accomplishment|accomplishment]].**
 	- _Example: One of the screws came loose, and the skateboard fell apart._
 - **(with to) To take a particular [[a/_approach|approach]] or point of view in regard to something.**
 	- _Example: He came to SF literature a confirmed technophile, and nothing made him happier than to read a manuscript thick with imaginary gizmos and whatzits._
-- **(fossil word) To [[b/_become|become]], to turn out to be.**
+- **([[f/_fossil|fossil]] word) To [[b/_become|become]], to turn [[o/_out|out]] to be.**
 	- _Example: He was a dream come true._
-- **To be supplied, or made [[a/_available|available]]; to exist.**
+- **To be supplied, or [[m/_made|made]] [[a/_available|available]]; to [[e/_exist|exist]].**
 	- _Example: A new sports car doesn't come cheap._
 - **To [[c/_carry|carry]] through; to succeed in.**
 	- _Example: You can't come any tricks here._
-- **Happen.**
+- **[[h/_happen|Happen]].**
 	- _Example: This kind of accident comes when you are careless._
-- **(with from or sometimes of) To have as an origin, originate.**
-- **(of grain) To germinate.**
-- **To pretend to be; to [[b/_behave|behave]] in the manner of.**
+- **(with from or sometimes of) To [[h/_have|have]] as an [[o/_origin|origin]], [[o/_originate|originate]].**
+- **(of [[g/_grain|grain]]) To [[g/_germinate|germinate]].**
+- **To pretend to be; to [[b/_behave|behave]] in the [[m/_manner|manner]] of.**
 	- _Example: Don't come the innocent victim. We all know who's to blame here._
 ---
 ### Antonyms
 - [[d/_depart|depart]], [[e/_exit|exit]], [[f/_flee|flee]], [[g/_go|go]], [[l/_leave|leave]], [[r/_retreat|retreat]], [[w/_withdraw|withdraw]]
 #verb
-- **To have an orgasm, to feel the sensation of an orgasm.**
+- **To [[h/_have|have]] an [[o/_orgasm|orgasm]], to [[f/_feel|feel]] the sensation of an [[o/_orgasm|orgasm]].**
 - **To [[e/_ejaculate|ejaculate]].**
 ---
 ---

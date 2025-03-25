@@ -1,6 +1,6 @@
 # Caramba
 ---
 #interjection
-- **(non-vulgar) Exclamation of surprise or [[d/_dismay|dismay]].; golly!**
+- **([[n/_non|non]]-vulgar) [[e/_exclamation|Exclamation]] of surprise or [[d/_dismay|dismay]].; [[g/_golly|golly]]!**
 ---
 ---

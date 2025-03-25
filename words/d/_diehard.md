@@ -5,8 +5,8 @@
 ---
 #adjective
 - **Unreasonably or stubbornly resisting [[c/_change|change]].**
-- **Fanatically opposing progress or reform.**
-- **[[c/_complete|Complete]]; having no opposite opinion of [[a/_anything|anything]] in a particular topic of one's values; thorough of in one's [[b/_beliefs|beliefs]].**
+- **[[f/_fanatically|Fanatically]] [[o/_opposing|opposing]] progress or reform.**
+- **[[c/_complete|Complete]]; [[h/_having|having]] [[n/_no|no]] [[o/_opposite|opposite]] [[o/_opinion|opinion]] of [[a/_anything|anything]] in a particular topic of [[o/_one|one]]'s values; thorough of in [[o/_one|one]]'s [[b/_beliefs|beliefs]].**
 	- _Example: For a Roman Catholic teacher, he sure is a diehard fundamentalist._
 ---
 ---

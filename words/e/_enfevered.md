@@ -1,6 +1,6 @@
 # Enfevered
 ---
 #verb
-- **To excite fever in**
+- **To [[e/_excite|excite]] [[f/_fever|fever]] in**
 ---
 ---

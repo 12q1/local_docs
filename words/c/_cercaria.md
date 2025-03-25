@@ -1,6 +1,6 @@
 # Cercaria
 ---
 #noun
-- **The parasitic larva of trematodes that infect the final host generally.**
+- **The parasitic [[l/_larva|larva]] of trematodes that [[i/_infect|infect]] the [[f/_final|final]] [[h/_host|host]] [[g/_generally|generally]].**
 ---
 ---

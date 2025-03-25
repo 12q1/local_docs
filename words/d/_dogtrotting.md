@@ -1,6 +1,6 @@
 # Dogtrotting
 ---
 #verb
-- **To move at the pace of a [[d/_dogtrot|dogtrot]]**
+- **To [[m/_move|move]] at the [[p/_pace|pace]] of a [[d/_dogtrot|dogtrot]]**
 ---
 ---

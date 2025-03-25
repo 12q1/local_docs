@@ -1,7 +1,7 @@
 # Codling
 ---
 #noun
-- **A young small [[c/_cod|cod]].**
-- **A hake ([[c/_cod|cod]]-related food fish), notably from the genus Urophycis.**
+- **A [[y/_young|young]] small [[c/_cod|cod]].**
+- **A [[h/_hake|hake]] ([[c/_cod|cod]]-related [[f/_food|food]] [[f/_fish|fish]]), [[n/_notably|notably]] from the [[g/_genus|genus]] Urophycis.**
 ---
 ---

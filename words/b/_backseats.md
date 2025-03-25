@@ -2,6 +2,6 @@
 ---
 #noun
 - **[[a/_any|Any]] of the seats in the rear of a vehicle.**
-- **([[e/_especially|especially]] in the expression take a [[b/_back|back]] seat) A lesser or inferior position; a position of [[d/_deliberate|deliberate]] noninvolvement, in which [[d/_decision|decision]]-making or leadership is left to others.**
+- **([[e/_especially|especially]] in the [[e/_expression|expression]] take a [[b/_back|back]] seat) A [[l/_lesser|lesser]] or [[i/_inferior|inferior]] position; a position of [[d/_deliberate|deliberate]] [[n/_noninvolvement|noninvolvement]], in which [[d/_decision|decision]]-[[m/_making|making]] or [[l/_leadership|leadership]] is [[l/_left|left]] to [[o/_others|others]].**
 ---
 ---

@@ -1,0 +1,38 @@
+# Heading
+---
+#verb
+- **To be in [[c/_command|command]] of. (See [[a/_also|also]] [[h/_head|head]] up.)**
+	- _Example: Who heads the board of trustees?_
+- **To [[c/_come|come]] at the [[b/_beginning|beginning]] of; to [[c/_commence|commence]].**
+	- _Example: A group of clowns headed the procession._
+- **To strike with the [[h/_head|head]]; as in soccer, to [[h/_head|head]] the [[b/_ball|ball]]**
+- **To [[m/_move|move]] in a specified [[d/_direction|direction]].**
+	- _Example: How does the ship head?_
+- **To remove the [[h/_head|head]] from a [[f/_fish|fish]].**
+	- _Example: The salmon are first headed and then scaled._
+- **To [[o/_originate|originate]]; to spring; to [[h/_have|have]] [[i/_its|its]] [[c/_course|course]], as a river.**
+- **To [[f/_form|form]] a [[h/_head|head]].**
+	- _Example: This kind of cabbage heads early._
+- **To [[f/_form|form]] a [[h/_head|head]] to; to [[f/_fit|fit]] or [[f/_furnish|furnish]] with a [[h/_head|head]].**
+	- _Example: to head a nail_
+- **To [[c/_cut|cut]] [[o/_off|off]] the top of; to [[l/_lop|lop]] [[o/_off|off]].**
+	- _Example: to head trees_
+- **To [[b/_behead|behead]]; to [[d/_decapitate|decapitate]].**
+- **To [[g/_go|go]] in [[f/_front|front]] of.**
+	- _Example: to head a drove of cattle_
+- **To [[g/_get|get]] in the [[f/_front|front]] of, so as to [[h/_hinder|hinder]] or stop; to [[o/_oppose|oppose]].**
+	- _Example: The wind headed the ship and made progress difficult._
+- **(by [[e/_extension|extension]]) To [[c/_check|check]] or restrain.**
+- **To set on the [[h/_head|head]].**
+	- _Example: to head a cask_
+---
+#noun
+- **The title or topic of a [[d/_document|document]], [[a/_article|article]], [[c/_chapter|chapter]], or of a section thereof.**
+- **The [[d/_direction|direction]] [[i/_into|into]] which a seagoing or [[a/_airborne|airborne]] vessel's [[b/_bow|bow]] is pointing ([[a/_apparent|apparent]] [[h/_heading|heading]]) and/or the [[d/_direction|direction]] [[i/_into|into]] which it is [[a/_actually|actually]] [[m/_moving|moving]] relative to the [[g/_ground|ground]] (true [[h/_heading|heading]])**
+- **[[m/_material|Material]] for the [[h/_heads|heads]] of [[c/_casks|casks]], [[b/_barrels|barrels]], [[e/_etc|etc]].**
+- **A [[g/_gallery|gallery]], [[d/_drift|drift]], or [[a/_adit|adit]] in a [[m/_mine|mine]]; [[a/_also|also]], the [[e/_end|end]] of a [[d/_drift|drift]] or [[g/_gallery|gallery]]; the vein [[a/_above|above]] a [[d/_drift|drift]].**
+- **The [[e/_extension|extension]] of a [[l/_line|line]] ruffling [[a/_above|above]] the [[l/_line|line]] of stitch.**
+- **The [[e/_end|end]] of a stone or [[b/_brick|brick]] which is presented [[o/_outward|outward]].**
+- **([[f/_flags|flags]]) A strip of [[m/_material|material]] at the [[h/_hoist|hoist]] [[e/_end|end]] of a [[f/_flag|flag]], used for [[a/_attaching|attaching]] the [[f/_flag|flag]] to [[i/_its|its]] [[h/_halyard|halyard]].**
+---
+---

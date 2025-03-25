@@ -1,7 +1,7 @@
 # Aphesis
 ---
 #noun
-- **The loss of the initial unstressed vowel of a word.**
+- **The [[l/_loss|loss]] of the [[i/_initial|initial]] unstressed vowel of a word.**
 	- _Example: The word "scarp" is derived from "escarp" by aphesis._
 ---
 ### Synonyms

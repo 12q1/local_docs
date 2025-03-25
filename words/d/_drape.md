@@ -2,18 +2,18 @@
 ---
 #noun
 - **A [[c/_curtain|curtain]]; a [[d/_drapery|drapery]].**
-- **The way in which fabric falls or hangs.**
-- **A member of a youth subculture [[d/_distinguished|distinguished]] by its sharp [[d/_dress|dress]], [[e/_especially|especially]] peg-leg pants (1950s: [[e/_e|e]].g. [[b/_baltimore|Baltimore]], MD). [[a/_antonym|Antonym]]: square**
-- **A [[d/_dress|dress]] made from an [[e/_entire|entire]] piece of [[c/_cloth|cloth]], without having pieces [[c/_cut|cut]] [[a/_away|away]] as in a fitted garment.**
+- **The way in which [[f/_fabric|fabric]] [[f/_falls|falls]] or [[h/_hangs|hangs]].**
+- **A [[m/_member|member]] of a [[y/_youth|youth]] subculture [[d/_distinguished|distinguished]] by [[i/_its|its]] sharp [[d/_dress|dress]], [[e/_especially|especially]] peg-[[l/_leg|leg]] pants (1950s: [[e/_e|e]].[[g/_g|g]]. [[b/_baltimore|Baltimore]], [[m/_md|MD]]). [[a/_antonym|Antonym]]: square**
+- **A [[d/_dress|dress]] [[m/_made|made]] from an [[e/_entire|entire]] piece of [[c/_cloth|cloth]], without [[h/_having|having]] pieces [[c/_cut|cut]] [[a/_away|away]] as in a [[f/_fitted|fitted]] [[g/_garment|garment]].**
 ---
 #verb
-- **To [[c/_cover|cover]] or [[a/_adorn|adorn]] with [[d/_drapery|drapery]] or folds of [[c/_cloth|cloth]], or as with [[d/_drapery|drapery]]**
+- **To [[c/_cover|cover]] or [[a/_adorn|adorn]] with [[d/_drapery|drapery]] or [[f/_folds|folds]] of [[c/_cloth|cloth]], or as with [[d/_drapery|drapery]]**
 	- _Example: to drape a bust, a building, etc._
-- **To spread over, [[c/_cover|cover]].**
+- **To spread [[o/_over|over]], [[c/_cover|cover]].**
 	- _Example: I draped my towel over the radiator to dry._
 - **To rail at; to [[b/_banter|banter]].**
-- **To make [[c/_cloth|cloth]].**
-- **To [[d/_design|design]] [[d/_drapery|drapery]], [[a/_arrange|arrange]] its folds, [[e/_etc|etc]]., as for hangings, [[c/_costumes|costumes]], statues, [[e/_etc|etc]].**
-- **To hang or rest limply**
+- **To [[m/_make|make]] [[c/_cloth|cloth]].**
+- **To [[d/_design|design]] [[d/_drapery|drapery]], [[a/_arrange|arrange]] [[i/_its|its]] [[f/_folds|folds]], [[e/_etc|etc]]., as for [[h/_hangings|hangings]], [[c/_costumes|costumes]], statues, [[e/_etc|etc]].**
+- **To [[h/_hang|hang]] or rest [[l/_limply|limply]]**
 ---
 ---

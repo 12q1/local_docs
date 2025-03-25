@@ -1,6 +1,6 @@
 # Acaroid
 ---
 #adjective
-- **Shaped like or resembling a mite.**
+- **Shaped [[l/_like|like]] or resembling a [[m/_mite|mite]].**
 ---
 ---

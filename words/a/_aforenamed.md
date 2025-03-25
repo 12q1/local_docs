@@ -1,6 +1,6 @@
 # Aforenamed
 ---
 #adjective
-- **Named [[e/_earlier|earlier]] in a [[d/_document|document]].**
+- **[[n/_named|Named]] [[e/_earlier|earlier]] in a [[d/_document|document]].**
 ---
 ---

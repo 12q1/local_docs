@@ -1,6 +1,6 @@
 # Epicarps
 ---
 #noun
-- **Exocarp.**
+- **[[e/_exocarp|Exocarp]].**
 ---
 ---

@@ -1,67 +1,67 @@
 # Base
 ---
 #noun
-- **Something from which other things extend; a foundation.**
-- **The starting point of a logical [[d/_deduction|deduction]] or thought; [[b/_basis|basis]].**
-- **A permanent structure for housing military personnel and material.**
-- **The place where [[d/_decisions|decisions]] for an organization are made; headquarters.**
-- **A [[b/_basic|basic]] but [[e/_essential|essential]] [[c/_component|component]] or ingredient.**
-- **A substance used as a mordant in [[d/_dyeing|dyeing]].**
-- **Foundation: a [[c/_cosmetic|cosmetic]] [[c/_cream|cream]] to make the face [[a/_appear|appear]] uniform.**
-- **[[a/_any|Any]] of a [[c/_class|class]] of generally water-soluble [[c/_compounds|compounds]], having [[b/_bitter|bitter]] taste, that turn red litmus [[b/_blue|blue]], and react with [[a/_acids|acids]] to form salts.**
-- **Important [[a/_areas|areas]] in games and sports.**
-- **The lowermost part of a [[c/_column|column]], [[b/_between|between]] the shaft and the pedestal or pavement.**
-- **A nucleotide's nucleobase in the [[c/_context|context]] of a DNA or RNA biopolymer.**
-- **The [[e/_end|end]] of a leaf, petal or similar organ where it is [[a/_attached|attached]] to its support.**
-- **The name of the [[c/_controlling|controlling]] terminal of a [[b/_bipolar|bipolar]] transistor (BJT).**
-- **The lowest side of a in a triangle or other polygon, or the lowest face of a [[c/_cone|cone]], pyramid or other polyhedron laid flat.**
-- **The lowest third of a shield or [[e/_escutcheon|escutcheon]].**
-- **The lower part of the field. See [[e/_escutcheon|escutcheon]].**
-- **A number raised to the power of an exponent.**
+- **Something from which [[o/_other|other]] things [[e/_extend|extend]]; a [[f/_foundation|foundation]].**
+- **The starting point of a [[l/_logical|logical]] [[d/_deduction|deduction]] or thought; [[b/_basis|basis]].**
+- **A permanent structure for [[h/_housing|housing]] [[m/_military|military]] personnel and [[m/_material|material]].**
+- **The place where [[d/_decisions|decisions]] for an [[o/_organization|organization]] are [[m/_made|made]]; [[h/_headquarters|headquarters]].**
+- **A [[b/_basic|basic]] but [[e/_essential|essential]] [[c/_component|component]] or [[i/_ingredient|ingredient]].**
+- **A substance used as a [[m/_mordant|mordant]] in [[d/_dyeing|dyeing]].**
+- **[[f/_foundation|Foundation]]: a [[c/_cosmetic|cosmetic]] [[c/_cream|cream]] to [[m/_make|make]] the [[f/_face|face]] [[a/_appear|appear]] uniform.**
+- **[[a/_any|Any]] of a [[c/_class|class]] of [[g/_generally|generally]] water-soluble [[c/_compounds|compounds]], [[h/_having|having]] [[b/_bitter|bitter]] taste, that turn red [[l/_litmus|litmus]] [[b/_blue|blue]], and react with [[a/_acids|acids]] to [[f/_form|form]] salts.**
+- **[[i/_important|Important]] [[a/_areas|areas]] in [[g/_games|games]] and sports.**
+- **The [[l/_lowermost|lowermost]] part of a [[c/_column|column]], [[b/_between|between]] the shaft and the pedestal or pavement.**
+- **A [[n/_nucleotide|nucleotide]]'s nucleobase in the [[c/_context|context]] of a DNA or RNA biopolymer.**
+- **The [[e/_end|end]] of a [[l/_leaf|leaf]], petal or similar [[o/_organ|organ]] where it is [[a/_attached|attached]] to [[i/_its|its]] support.**
+- **The [[n/_name|name]] of the [[c/_controlling|controlling]] terminal of a [[b/_bipolar|bipolar]] transistor (BJT).**
+- **The [[l/_lowest|lowest]] side of a in a triangle or [[o/_other|other]] polygon, or the [[l/_lowest|lowest]] [[f/_face|face]] of a [[c/_cone|cone]], pyramid or [[o/_other|other]] polyhedron [[l/_laid|laid]] [[f/_flat|flat]].**
+- **The [[l/_lowest|lowest]] third of a shield or [[e/_escutcheon|escutcheon]].**
+- **The [[l/_lower|lower]] part of the [[f/_field|field]]. See [[e/_escutcheon|escutcheon]].**
+- **A [[n/_number|number]] raised to the power of an [[e/_exponent|exponent]].**
 	- _Example: The logarithm to base 2 of 8 is 3._
-- **The set of sets from which a topology is generated.**
-- **A topological space, looked at in relation to one of its [[c/_covering|covering]] spaces, fibrations, or [[b/_bundles|bundles]].**
-- **A sequence of [[e/_elements|elements]] not jointly stabilized by [[a/_any|any]] nontrivial group [[e/_element|element]].**
-- **([[a/_acrobatics|acrobatics]], [[c/_cheerleading|cheerleading]]) In hand-to-hand [[b/_balance|balance]], the person who supports the flyer; the person that remains in [[c/_contact|contact]] with the ground.**
-- **A morpheme (or morphemes) that serves as a [[b/_basic|basic]] foundation on which [[a/_affixes|affixes]] [[c/_can|can]] be [[a/_attached|attached]].**
-- **The smallest kind of [[c/_cannon|cannon]].**
-- **The housing of a horse.**
-- **(in the plural) A kind of skirt (often of velvet or [[b/_brocade|brocade]], but sometimes of mailed [[a/_armour|armour]]) which hung from the middle to [[a/_about|about]] the knees, or lower.**
-- **The lower part of a robe or petticoat.**
+- **The set of sets from which a topology is [[g/_generated|generated]].**
+- **A topological space, [[l/_looked|looked]] at in relation to [[o/_one|one]] of [[i/_its|its]] [[c/_covering|covering]] spaces, fibrations, or [[b/_bundles|bundles]].**
+- **A sequence of [[e/_elements|elements]] not [[j/_jointly|jointly]] stabilized by [[a/_any|any]] [[n/_nontrivial|nontrivial]] [[g/_group|group]] [[e/_element|element]].**
+- **([[a/_acrobatics|acrobatics]], [[c/_cheerleading|cheerleading]]) In [[h/_hand|hand]]-to-[[h/_hand|hand]] [[b/_balance|balance]], the person who supports the [[f/_flyer|flyer]]; the person that remains in [[c/_contact|contact]] with the [[g/_ground|ground]].**
+- **A [[m/_morpheme|morpheme]] (or [[m/_morphemes|morphemes]]) that serves as a [[b/_basic|basic]] [[f/_foundation|foundation]] on which [[a/_affixes|affixes]] [[c/_can|can]] be [[a/_attached|attached]].**
+- **The smallest [[k/_kind|kind]] of [[c/_cannon|cannon]].**
+- **The [[h/_housing|housing]] of a [[h/_horse|horse]].**
+- **(in the plural) A [[k/_kind|kind]] of skirt ([[o/_often|often]] of velvet or [[b/_brocade|brocade]], but sometimes of [[m/_mailed|mailed]] [[a/_armour|armour]]) which [[h/_hung|hung]] from the [[m/_middle|middle]] to [[a/_about|about]] the [[k/_knees|knees]], or [[l/_lower|lower]].**
+- **The [[l/_lower|lower]] part of a robe or petticoat.**
 - **An [[a/_apron|apron]].**
-- **A line in a survey which, [[b/_being|being]] [[a/_accurately|accurately]] [[d/_determined|determined]] in length and position, serves as the origin from which to [[c/_compute|compute]] the [[d/_distances|distances]] and positions of [[a/_any|any]] points or objects [[c/_connected|connected]] with it by a system of triangles.**
-- **A group of voters who [[a/_almost|almost]] [[a/_always|always]] support a single party's [[c/_candidates|candidates]] for [[e/_elected|elected]] office.**
-- **The forces and relations of production that produce the necessities and [[a/_amenities|amenities]] of life.**
-- **A material that holds paint or other materials together; a [[b/_binder|binder]].**
-- **Short for [[b/_base|base]] leg.**
+- **A [[l/_line|line]] in a survey which, [[b/_being|being]] [[a/_accurately|accurately]] [[d/_determined|determined]] in [[l/_length|length]] and position, serves as the [[o/_origin|origin]] from which to [[c/_compute|compute]] the [[d/_distances|distances]] and positions of [[a/_any|any]] points or [[o/_objects|objects]] [[c/_connected|connected]] with it by a system of triangles.**
+- **A [[g/_group|group]] of voters who [[a/_almost|almost]] [[a/_always|always]] support a single party's [[c/_candidates|candidates]] for [[e/_elected|elected]] [[o/_office|office]].**
+- **The [[f/_forces|forces]] and relations of production that produce the [[n/_necessities|necessities]] and [[a/_amenities|amenities]] of [[l/_life|life]].**
+- **A [[m/_material|material]] that [[h/_holds|holds]] [[p/_paint|paint]] or [[o/_other|other]] [[m/_materials|materials]] together; a [[b/_binder|binder]].**
+- **Short for [[b/_base|base]] [[l/_leg|leg]].**
 ---
 ### Synonyms
 - [[a/_alkali|alkali]]
 ### Antonyms
 - [[a/_acid|acid]], [[a/_apex|apex]]
 #verb
-- **To give as its foundation or starting point; to lay the foundation of.**
-- **To be located (at a particular place).**
-- **([[a/_acrobatics|acrobatics]], [[c/_cheerleading|cheerleading]]) To [[a/_act|act]] as a [[b/_base|base]]; to be the person supporting the flyer.**
+- **To [[g/_give|give]] as [[i/_its|its]] [[f/_foundation|foundation]] or starting point; to [[l/_lay|lay]] the [[f/_foundation|foundation]] of.**
+- **To be [[l/_located|located]] (at a particular place).**
+- **([[a/_acrobatics|acrobatics]], [[c/_cheerleading|cheerleading]]) To [[a/_act|act]] as a [[b/_base|base]]; to be the person supporting the [[f/_flyer|flyer]].**
 ---
 #noun
-- **A low spectrum of sound tones.**
+- **A [[l/_low|low]] spectrum of sound tones.**
 	- _Example: Peter adjusted the equalizer on his audio equipment to emphasize the bass._
-- **A section of musical group that produces low-pitched sound, lower than the [[b/_baritone|baritone]] and tenor.**
+- **A section of [[m/_musical|musical]] [[g/_group|group]] that produces [[l/_low|low]]-pitched sound, [[l/_lower|lower]] than the [[b/_baritone|baritone]] and tenor.**
 	- _Example: The conductor preferred to situate the bass in the middle rear, rather than to one side of the orchestra._
-- **One who sings in the [[b/_bass|bass]] range.**
+- **[[o/_one|One]] who sings in the [[b/_bass|bass]] range.**
 	- _Example: Halfway through middle school, Edgar morphed from a soprano to a bass, much to the amazement and amusement of his fellow choristers._
-- **An instrument that plays in the [[b/_bass|bass]] range, in particular a [[d/_double|double]] [[b/_bass|bass]], [[b/_bass|bass]] guitar, [[e/_electric|electric]] [[b/_bass|bass]] or [[b/_bass|bass]] synthesiser.**
+- **An [[i/_instrument|instrument]] that plays in the [[b/_bass|bass]] range, in particular a [[d/_double|double]] [[b/_bass|bass]], [[b/_bass|bass]] [[g/_guitar|guitar]], [[e/_electric|electric]] [[b/_bass|bass]] or [[b/_bass|bass]] synthesiser.**
 	- _Example: The musician swung the bass over his head like an axe and smashed it into the amplifier, creating a discordant howl of noise._
-- **The [[c/_clef|clef]] sign that indicates that the pitch of the notes is [[b/_below|below]] middle [[c/_c|C]]; a [[b/_bass|bass]] [[c/_clef|clef]].**
+- **The [[c/_clef|clef]] sign that [[i/_indicates|indicates]] that the pitch of the [[n/_notes|notes]] is [[b/_below|below]] [[m/_middle|middle]] [[c/_c|C]]; a [[b/_bass|bass]] [[c/_clef|clef]].**
 	- _Example: The score had been written without the treble and bass, but it was easy to pick out which was which based on the location of the notes on the staff._
 ---
 ### Synonyms
 - [[b/_basso|basso]]
 #noun
 - **A root.**
-- **A primitive word, from which other words may be [[d/_derived|derived]].**
-- **The number of [[d/_distinct|distinct]] symbols used to represent numbers in a particular [[b/_base|base]], as ten for [[d/_decimal|decimal]].**
+- **A primitive word, from which [[o/_other|other]] words [[m/_may|may]] be [[d/_derived|derived]].**
+- **The [[n/_number|number]] of [[d/_distinct|distinct]] symbols used to represent [[n/_numbers|numbers]] in a particular [[b/_base|base]], as ten for [[d/_decimal|decimal]].**
 ---
 ### Synonyms
 - [[p/_primitive|primitive]], [[r/_radical|radical]]

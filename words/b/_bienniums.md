@@ -1,6 +1,6 @@
 # Bienniums
 ---
 #noun
-- **A period of two years.**
+- **A period of two [[y/_years|years]].**
 ---
 ---

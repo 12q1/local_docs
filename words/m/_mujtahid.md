@@ -1,0 +1,6 @@
+# Mujtahid
+---
+#noun
+- **A qadi.**
+---
+---

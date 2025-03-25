@@ -1,6 +1,6 @@
 # Aglow
 ---
 #adjective
-- **(sometimes figurative) glowing; radiant**
+- **(sometimes [[f/_figurative|figurative]]) [[g/_glowing|glowing]]; radiant**
 ---
 ---

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[d/_dight|dight]], [[d/_don|don]], [[d/_dress|dress]]
 #noun
-- **Ornamentation**
+- **[[o/_ornamentation|Ornamentation]]**
 ---
 ---

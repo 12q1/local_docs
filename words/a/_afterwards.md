@@ -1,7 +1,7 @@
 # Afterwards
 ---
 #adverb
-- **(temporal location) At a later or succeeding time.**
+- **(temporal [[l/_location|location]]) At a [[l/_later|later]] or succeeding time.**
 ---
 ### Synonyms
 - [[a/_afterhand|afterhand]], [[a/_afterward|afterward]]

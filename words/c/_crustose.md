@@ -1,6 +1,6 @@
 # Crustose
 ---
 #adjective
-- **Of a lichen, growing tightly [[a/_appressed|appressed]] to the substrate.**
+- **Of a [[l/_lichen|lichen]], [[g/_growing|growing]] tightly [[a/_appressed|appressed]] to the substrate.**
 ---
 ---

@@ -4,7 +4,7 @@
 - **[[a/_ammunition|Ammunition]].**
 ---
 #verb
-- **To load up on [[a/_ammunition|ammunition]].**
+- **To [[l/_load|load]] up on [[a/_ammunition|ammunition]].**
 ---
 ### Synonyms
 - 

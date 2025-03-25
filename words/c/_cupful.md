@@ -1,8 +1,8 @@
 # Cupful
 ---
 #noun
-- **The [[a/_amount|amount]] necessary to make a [[c/_cup|cup]] full**
+- **The [[a/_amount|amount]] [[n/_necessary|necessary]] to [[m/_make|make]] a [[c/_cup|cup]] [[f/_full|full]]**
 	- _Example: Add a cupful of milk to the sauce._
-- **A half pint, i.[[e/_e|e]]. [[e/_eight|eight]] ounces**
+- **A [[h/_half|half]] pint, [[i/_i|i]].[[e/_e|e]]. [[e/_eight|eight]] [[o/_ounces|ounces]]**
 ---
 ---

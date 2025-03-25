@@ -1,7 +1,7 @@
 # Eosinophil
 ---
 #noun
-- **A white [[b/_blood|blood]] [[c/_cell|cell]] responsible for [[c/_combating|combating]] infection by parasites in the [[b/_body|body]].**
+- **A white [[b/_blood|blood]] [[c/_cell|cell]] responsible for [[c/_combating|combating]] [[i/_infection|infection]] by parasites in the [[b/_body|body]].**
 ---
 ### Synonyms
 - [[a/_acidophil|acidophil]], [[e/_eosinocyte|eosinocyte]]

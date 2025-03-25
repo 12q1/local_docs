@@ -1,11 +1,11 @@
 # Babbitt
 ---
 #noun
-- **Short for [[b/_babbitt|babbitt]] metal, [[b/_babbitt|Babbitt]] metal (“a soft white [[a/_alloy|alloy]] of variable [[c/_composition|composition]] (for example, nine parts of tin to one of [[c/_copper|copper]], or fifty parts of tin to five of [[a/_antimony|antimony]] and one of [[c/_copper|copper]]) used in [[b/_bearings|bearings]] to [[d/_diminish|diminish]] friction”).**
+- **Short for [[b/_babbitt|babbitt]] [[m/_metal|metal]], [[b/_babbitt|Babbitt]] [[m/_metal|metal]] (“a soft white [[a/_alloy|alloy]] of variable [[c/_composition|composition]] (for [[e/_example|example]], [[n/_nine|nine]] parts of tin to [[o/_one|one]] of [[c/_copper|copper]], or [[f/_fifty|fifty]] parts of tin to [[f/_five|five]] of [[a/_antimony|antimony]] and [[o/_one|one]] of [[c/_copper|copper]]) used in [[b/_bearings|bearings]] to [[d/_diminish|diminish]] [[f/_friction|friction]]”).**
 ---
 ### Synonyms
 - 
 #verb
-- **To line (something) with [[b/_babbitt|babbitt]] metal to reduce friction.**
+- **To [[l/_line|line]] (something) with [[b/_babbitt|babbitt]] [[m/_metal|metal]] to reduce [[f/_friction|friction]].**
 ---
 ---

@@ -2,9 +2,9 @@
 ---
 #noun
 - **The [[a/_anus|anus]].**
-- **A jerk; an inappropriately or objectionably mean, inconsiderate, [[c/_contemptible|contemptible]], obnoxious, intrusive, stupid, and/or rude person.**
+- **A [[j/_jerk|jerk]]; an [[i/_inappropriately|inappropriately]] or [[o/_objectionably|objectionably]] [[m/_mean|mean]], [[i/_inconsiderate|inconsiderate]], [[c/_contemptible|contemptible]], [[o/_obnoxious|obnoxious]], [[i/_intrusive|intrusive]], stupid, and/or rude person.**
 - **An unpleasant or uninviting place.**
-- **By extension, [[a/_anything|anything]] unpleasant or undesirable. Often used [[a/_appositionally|appositionally]].**
+- **By [[e/_extension|extension]], [[a/_anything|anything]] unpleasant or undesirable. [[o/_often|Often]] used [[a/_appositionally|appositionally]].**
 ---
 ### Synonyms
 - [[d/_dick|dick]], [[j/_jerk|jerk]]

@@ -1,6 +1,6 @@
 # Adenocarcinomata
 ---
 #noun
-- **[[a/_any|Any]] of several forms of [[c/_carcinoma|carcinoma]] that originate in glandular tissue**
+- **[[a/_any|Any]] of several [[f/_forms|forms]] of [[c/_carcinoma|carcinoma]] that [[o/_originate|originate]] in [[g/_glandular|glandular]] tissue**
 ---
 ---

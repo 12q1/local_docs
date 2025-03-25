@@ -1,6 +1,6 @@
 # Arrases
 ---
 #noun
-- **A tapestry or wall hanging.**
+- **A tapestry or wall [[h/_hanging|hanging]].**
 ---
 ---

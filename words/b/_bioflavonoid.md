@@ -1,6 +1,6 @@
 # Bioflavonoid
 ---
 #noun
-- **Flavonoid**
+- **[[f/_flavonoid|Flavonoid]]**
 ---
 ---

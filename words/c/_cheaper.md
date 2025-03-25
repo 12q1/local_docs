@@ -1,14 +1,14 @@
 # Cheaper
 ---
 #adjective
-- **Low and/or reduced in price.**
+- **[[l/_low|Low]] and/or reduced in price.**
 - **Of poor quality.**
-- **Of little worth.**
-- **(of an [[a/_action|action]] or tactic in a game of skill) Underhand or unfair.**
+- **Of [[l/_little|little]] worth.**
+- **(of an [[a/_action|action]] or tactic in a [[g/_game|game]] of skill) Underhand or unfair.**
 	- _Example: the cheap trick of hiding deadly lava under pushable blocks_
-- **Stingy; mean; excessively frugal.**
+- **Stingy; [[m/_mean|mean]]; [[e/_excessively|excessively]] [[f/_frugal|frugal]].**
 	- _Example: Insurance is expensive, but don't be so cheap that you risk losing your home because of a fire._
-- **Trading at a price level which is low relative to historical trends, a similar [[a/_asset|asset]], or (for [[d/_derivatives|derivatives]]) a theoretical value.**
+- **Trading at a price [[l/_level|level]] which is [[l/_low|low]] relative to [[h/_historical|historical]] trends, a similar [[a/_asset|asset]], or (for [[d/_derivatives|derivatives]]) a theoretical value.**
 ---
 ### Synonyms
 - [[b/_bargain|bargain]], [[f/_frugal|frugal]], [[i/_inexpensive|inexpensive]], [[n/_no-frills|no-frills]], [[p/_priced-off|priced-off]], [[f/_flimsy|flimsy]]

@@ -1,9 +1,9 @@
 # Atomizing
 ---
 #verb
-- **To separate or reduce into [[a/_atoms|atoms]]**
-- **To make into a fine spray**
-- **To fragment, [[b/_break|break]] into small pieces or [[c/_concepts|concepts]]**
-- **To [[b/_bomb|bomb]] with nuclear weapons**
+- **To separate or reduce [[i/_into|into]] [[a/_atoms|atoms]]**
+- **To [[m/_make|make]] [[i/_into|into]] a [[f/_fine|fine]] spray**
+- **To [[f/_fragment|fragment]], [[b/_break|break]] [[i/_into|into]] small pieces or [[c/_concepts|concepts]]**
+- **To [[b/_bomb|bomb]] with [[n/_nuclear|nuclear]] weapons**
 ---
 ---

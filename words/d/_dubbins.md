@@ -1,6 +1,6 @@
 # Dubbins
 ---
 #noun
-- **A mixture of tallow and oil used to soften leather, and make it waterproof.**
+- **A [[m/_mixture|mixture]] of tallow and [[o/_oil|oil]] used to soften [[l/_leather|leather]], and [[m/_make|make]] it waterproof.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Aliases
 ---
 #noun
-- **[[a/_another|Another]] name; an [[a/_assumed|assumed]] name.**
-- **A second or further writ which is issued [[a/_after|after]] a first writ has expired without [[e/_effect|effect]].**
+- **[[a/_another|Another]] [[n/_name|name]]; an [[a/_assumed|assumed]] [[n/_name|name]].**
+- **A second or [[f/_further|further]] writ which is [[i/_issued|issued]] [[a/_after|after]] a [[f/_first|first]] writ [[h/_has|has]] [[e/_expired|expired]] without [[e/_effect|effect]].**
 - **An [[a/_abbreviation|abbreviation]] that replaces a string of [[c/_commands|commands]] and thereby reduces typing when performing routine [[a/_actions|actions]] or tasks.**
-- **An spurious signal generated as a technological [[a/_artifact|artifact]].**
+- **An spurious signal [[g/_generated|generated]] as a technological [[a/_artifact|artifact]].**
 ---
 ### Synonyms
 - [[p/_pseudonym|pseudonym]]

@@ -1,6 +1,6 @@
 # Denazifies
 ---
 #verb
-- **To free from Nazi influence.**
+- **To [[f/_free|free]] from [[n/_nazi|Nazi]] [[i/_influence|influence]].**
 ---
 ---

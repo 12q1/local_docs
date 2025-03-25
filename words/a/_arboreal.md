@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Of, relating to, or resembling a tree.**
-- **Living in or [[a/_among|among]] trees.**
+- **[[l/_living|Living]] in or [[a/_among|among]] trees.**
 ---
 ---

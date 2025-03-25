@@ -1,6 +1,6 @@
 # Burgonet
 ---
 #noun
-- **A light helmet worn by infantrymen, [[b/_bearing|bearing]] a [[c/_crest|crest]] and hinged cheekpieces, but typically without a visor.**
+- **A [[l/_light|light]] [[h/_helmet|helmet]] worn by [[i/_infantrymen|infantrymen]], [[b/_bearing|bearing]] a [[c/_crest|crest]] and [[h/_hinged|hinged]] cheekpieces, but typically without a visor.**
 ---
 ---

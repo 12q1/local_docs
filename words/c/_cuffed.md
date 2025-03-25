@@ -1,16 +1,16 @@
 # Cuffed
 ---
 #verb
-- **To furnish with [[c/_cuffs|cuffs]].**
-- **To handcuff.**
+- **To [[f/_furnish|furnish]] with [[c/_cuffs|cuffs]].**
+- **To [[h/_handcuff|handcuff]].**
 ---
 #verb
-- **To hit, as a reproach, particularly with the open palm to the head; to slap.**
-- **To fight; to scuffle; to [[b/_box|box]].**
+- **To [[h/_hit|hit]], as a reproach, particularly with the [[o/_open|open]] [[p/_palm|palm]] to the [[h/_head|head]]; to slap.**
+- **To [[f/_fight|fight]]; to scuffle; to [[b/_box|box]].**
 - **To [[b/_buffet|buffet]].**
 ---
 #adjective
-- **Fitted with a [[c/_cuff|cuff]].**
+- **[[f/_fitted|Fitted]] with a [[c/_cuff|cuff]].**
 	- _Example: a cuffed catheter_
 ---
 ---

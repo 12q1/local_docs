@@ -1,6 +1,6 @@
 # Choliamb
 ---
 #noun
-- **A limping iamb.**
+- **A [[l/_limping|limping]] [[i/_iamb|iamb]].**
 ---
 ---

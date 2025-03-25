@@ -1,6 +1,6 @@
 # Bedside
 ---
 #noun
-- **A position at the side of one's [[b/_bed|bed]].**
+- **A position at the side of [[o/_one|one]]'s [[b/_bed|bed]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Cartooned
 ---
 #verb
-- **To [[d/_draw|draw]] a [[c/_cartoon|cartoon]], a humorous [[d/_drawing|drawing]].**
-- **To make a preliminary sketch.**
+- **To [[d/_draw|draw]] a [[c/_cartoon|cartoon]], a [[h/_humorous|humorous]] [[d/_drawing|drawing]].**
+- **To [[m/_make|make]] a preliminary sketch.**
 ---
 ---

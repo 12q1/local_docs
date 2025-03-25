@@ -2,13 +2,13 @@
 ---
 #noun
 - **A person who is running in an [[e/_election|election]].**
-- **A person who is [[a/_applying|applying]] for a job.**
-- **A participant in an examination.**
-- **Something or somebody that may be suitable.**
-- **A gene which may play a role in a given [[d/_disease|disease]].**
+- **A person who is [[a/_applying|applying]] for a [[j/_job|job]].**
+- **A participant in an [[e/_examination|examination]].**
+- **Something or somebody that [[m/_may|may]] be suitable.**
+- **A [[g/_gene|gene]] which [[m/_may|may]] play a role in a [[g/_given|given]] [[d/_disease|disease]].**
 ---
 #verb
-- **To stand as a [[c/_candidate|candidate]] for an office, [[e/_especially|especially]] a religious one.**
-- **([[c/_chiefly|chiefly]] in jargon and NNES) To make or name (something) a [[c/_candidate|candidate]] (for use, for study as a next project, for investigation as a possible [[c/_cause|cause]] of something, [[e/_etc|etc]]).**
+- **To stand as a [[c/_candidate|candidate]] for an [[o/_office|office]], [[e/_especially|especially]] a religious [[o/_one|one]].**
+- **([[c/_chiefly|chiefly]] in [[j/_jargon|jargon]] and NNES) To [[m/_make|make]] or [[n/_name|name]] (something) a [[c/_candidate|candidate]] (for use, for study as a [[n/_next|next]] project, for [[i/_investigation|investigation]] as a possible [[c/_cause|cause]] of something, [[e/_etc|etc]]).**
 ---
 ---

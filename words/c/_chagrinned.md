@@ -1,6 +1,6 @@
 # Chagrinned
 ---
 #adjective
-- **Having a feeling of [[c/_chagrin|chagrin]]**
+- **[[h/_having|Having]] a [[f/_feeling|feeling]] of [[c/_chagrin|chagrin]]**
 ---
 ---

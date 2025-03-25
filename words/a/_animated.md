@@ -1,17 +1,17 @@
 # Animated
 ---
 #verb
-- **To impart motion or the [[a/_appearance|appearance]] of motion to.**
+- **To [[i/_impart|impart]] [[m/_motion|motion]] or the [[a/_appearance|appearance]] of [[m/_motion|motion]] to.**
 	- _Example: If we animate the model, we can see the complexity of the action._
-- **To give spirit or vigour to; to stimulate or [[e/_enliven|enliven]]; to inspirit.**
+- **To [[g/_give|give]] spirit or vigour to; to stimulate or [[e/_enliven|enliven]]; to [[i/_inspirit|inspirit]].**
 ---
 ### Synonyms
 - [[e/_enliven|enliven]], [[v/_vitalise|vitalise]]
 #adjective
-- **Full of life or spirit; lively; vigorous; spritely.**
+- **[[f/_full|Full]] of [[l/_life|life]] or spirit; [[l/_lively|lively]]; vigorous; spritely.**
 	- _Example: an animated discussion_
-- **[[e/_endowed|Endowed]] with life.**
-- **[[c/_composed|Composed]] of inanimate objects or [[d/_drawings|drawings]] that [[a/_appear|appear]] to move thought the use of [[c/_computer|computer]] graphics or stop-[[a/_action|action]] filming.**
+- **[[e/_endowed|Endowed]] with [[l/_life|life]].**
+- **[[c/_composed|Composed]] of [[i/_inanimate|inanimate]] [[o/_objects|objects]] or [[d/_drawings|drawings]] that [[a/_appear|appear]] to [[m/_move|move]] thought the use of [[c/_computer|computer]] [[g/_graphics|graphics]] or stop-[[a/_action|action]] [[f/_filming|filming]].**
 	- _Example: an animated film_
 ---
 ### Synonyms

@@ -1,17 +1,17 @@
 # Bluffing
 ---
 #verb
-- **To make a [[b/_bluff|bluff]]; to give the impression that one's hand is stronger than it is.**
+- **To [[m/_make|make]] a [[b/_bluff|bluff]]; to [[g/_give|give]] the [[i/_impression|impression]] that [[o/_one|one]]'s [[h/_hand|hand]] is stronger than it is.**
 	- _Example: John bluffed by betting without even a pair._
-- **(by [[a/_analogy|analogy]]) To frighten or [[d/_deter|deter]] with a false show of strength or [[c/_confidence|confidence]]; to give a false impression of strength or temerity in order to intimidate and gain some [[a/_advantage|advantage]].**
+- **(by [[a/_analogy|analogy]]) To [[f/_frighten|frighten]] or [[d/_deter|deter]] with a [[f/_false|false]] show of strength or [[c/_confidence|confidence]]; to [[g/_give|give]] a [[f/_false|false]] [[i/_impression|impression]] of strength or temerity in [[o/_order|order]] to [[i/_intimidate|intimidate]] and [[g/_gain|gain]] some [[a/_advantage|advantage]].**
 	- _Example: The government claims it will call an election if this bill does not pass. Is it truly ready to do so, or is it bluffing?_
 - **To take [[a/_advantage|advantage]] by [[b/_bluffing|bluffing]].**
 	- _Example: We bluffed our way past the guards._
 ---
 #verb
-- **To fluff, puff or swell up.**
+- **To [[f/_fluff|fluff]], puff or swell up.**
 ---
 #noun
-- **A [[b/_bluff|bluff]]; a false expression of the strength of one's position in order to intimidate.**
+- **A [[b/_bluff|bluff]]; a [[f/_false|false]] [[e/_expression|expression]] of the strength of [[o/_one|one]]'s position in [[o/_order|order]] to [[i/_intimidate|intimidate]].**
 ---
 ---

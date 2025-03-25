@@ -1,8 +1,8 @@
 # Agitator
 ---
 #noun
-- **One who [[a/_agitates|agitates]]; one who stirs up or excites others, for example political reformers.**
-- **An implement for shaking or mixing.**
-- **One of a [[b/_body|body]] of men [[a/_appointed|appointed]] by the [[a/_army|army]], in [[c/_cromwell|Cromwell]]'s time, to look [[a/_after|after]] their interests; [[c/_called|called]] [[a/_also|also]] adjutators.**
+- **[[o/_one|One]] who [[a/_agitates|agitates]]; [[o/_one|one]] who stirs up or [[e/_excites|excites]] [[o/_others|others]], for [[e/_example|example]] political reformers.**
+- **An [[i/_implement|implement]] for shaking or [[m/_mixing|mixing]].**
+- **[[o/_one|One]] of a [[b/_body|body]] of [[m/_men|men]] [[a/_appointed|appointed]] by the [[a/_army|army]], in [[c/_cromwell|Cromwell]]'s time, to [[l/_look|look]] [[a/_after|after]] their [[i/_interests|interests]]; [[c/_called|called]] [[a/_also|also]] adjutators.**
 ---
 ---

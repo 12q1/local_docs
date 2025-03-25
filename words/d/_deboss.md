@@ -1,6 +1,6 @@
 # Deboss
 ---
 #verb
-- **To mark or [[d/_decorate|decorate]] with an indented [[d/_design|design]] or symbol.**
+- **To [[m/_mark|mark]] or [[d/_decorate|decorate]] with an [[i/_indented|indented]] [[d/_design|design]] or symbol.**
 ---
 ---

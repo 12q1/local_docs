@@ -3,10 +3,10 @@
 #noun
 - **The state of [[b/_being|being]] [[d/_dazed|dazed]]**
 	- _Example: He was in a daze._
-- **A glittering stone.**
+- **A [[g/_glittering|glittering]] stone.**
 ---
 #verb
-- **To stun or stupefy, for example with [[b/_bright|bright]] light, with a [[b/_blow|blow]], with [[c/_cold|cold]], or with fear**
+- **To stun or stupefy, for [[e/_example|example]] with [[b/_bright|bright]] [[l/_light|light]], with a [[b/_blow|blow]], with [[c/_cold|cold]], or with [[f/_fear|fear]]**
 ---
 ### Synonyms
 - [[b/_benumb|benumb]], [[c/_confuse|confuse]]

@@ -1,7 +1,7 @@
 # Cressets
 ---
 #noun
-- **A metal [[c/_cup|cup]], suspended from a pole and filled with [[b/_burning|burning]] pitch [[e/_etc|etc]]; once used as portable illumination.**
-- **([[c/_coopering|coopering]]) A small furnace or iron [[c/_cage|cage]] to hold fire for [[c/_charring|charring]] the inside of a [[c/_cask|cask]], and making the staves flexible.**
+- **A [[m/_metal|metal]] [[c/_cup|cup]], suspended from a pole and [[f/_filled|filled]] with [[b/_burning|burning]] pitch [[e/_etc|etc]]; [[o/_once|once]] used as portable [[i/_illumination|illumination]].**
+- **([[c/_coopering|coopering]]) A small [[f/_furnace|furnace]] or [[i/_iron|iron]] [[c/_cage|cage]] to [[h/_hold|hold]] [[f/_fire|fire]] for [[c/_charring|charring]] the [[i/_inside|inside]] of a [[c/_cask|cask]], and [[m/_making|making]] the staves [[f/_flexible|flexible]].**
 ---
 ---

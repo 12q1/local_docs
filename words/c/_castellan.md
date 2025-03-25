@@ -1,6 +1,6 @@
 # Castellan
 ---
 #noun
-- **The governor or [[c/_caretaker|caretaker]] of a [[c/_castle|castle]] or keep.**
+- **The [[g/_governor|governor]] or [[c/_caretaker|caretaker]] of a [[c/_castle|castle]] or [[k/_keep|keep]].**
 ---
 ---

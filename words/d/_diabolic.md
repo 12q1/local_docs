@@ -3,7 +3,7 @@
 #adjective
 - **Showing wickedness typical of a [[d/_devil|devil]].**
 	- _Example: a cunning and diabolic plot_
-- **Extremely evil or [[c/_cruel|cruel]].**
+- **[[e/_extremely|Extremely]] [[e/_evil|evil]] or [[c/_cruel|cruel]].**
 	- _Example: fires lit up a diabolic scene_
 ---
 ### Synonyms

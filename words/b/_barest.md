@@ -1,23 +1,23 @@
 # Barest
 ---
 #adjective
-- **Minimal; that is or are just sufficient.**
+- **[[m/_minimal|Minimal]]; that is or are [[j/_just|just]] sufficient.**
 	- _Example: a bare majority_
-- **Naked, uncovered.**
+- **[[n/_naked|Naked]], uncovered.**
 	- _Example: I do wonder why keeping my little breasts bare can be lewd even as none tells my brother anything for being bare-chested._
-- **Having no supplies.**
+- **[[h/_having|Having]] [[n/_no|no]] supplies.**
 	- _Example: The cupboard was bare._
-- **Having no [[d/_decoration|decoration]].**
+- **[[h/_having|Having]] [[n/_no|no]] [[d/_decoration|decoration]].**
 	- _Example: The walls of this room are bare — why not hang some paintings on them?_
-- **Having had what usually [[c/_covers|covers]] (something) removed.**
+- **[[h/_having|Having]] [[h/_had|had]] what usually [[c/_covers|covers]] (something) removed.**
 	- _Example: The trees were left bare after the swarm of locusts devoured all the leaves._
-- **(Toronto) A lot or lots of.**
+- **(Toronto) A [[l/_lot|lot]] or [[l/_lots|lots]] of.**
 	- _Example: It's bare money to get in the club each time, man._
-- **With head uncovered; [[b/_bareheaded|bareheaded]].**
-- **Without [[a/_anything|anything]] to [[c/_cover|cover]] up or [[c/_conceal|conceal]] one's thoughts or [[a/_actions|actions]]; open to view; exposed.**
-- **Mere; without [[e/_embellishment|embellishment]].**
+- **With [[h/_head|head]] uncovered; [[b/_bareheaded|bareheaded]].**
+- **Without [[a/_anything|anything]] to [[c/_cover|cover]] up or [[c/_conceal|conceal]] [[o/_one|one]]'s thoughts or [[a/_actions|actions]]; [[o/_open|open]] to view; [[e/_exposed|exposed]].**
+- **[[m/_mere|Mere]]; without [[e/_embellishment|embellishment]].**
 - **Threadbare, very worn.**
-- **Not insured.**
+- **Not [[i/_insured|insured]].**
 ---
 ### Synonyms
 - [[e/_empty|empty]], [[p/_plain|plain]], [[u/_unadorned|unadorned]], [[u/_undecorated|undecorated]], [[e/_empty|empty]], [[u/_unfurnished|unfurnished]], [[u/_unstocked|unstocked]], [[u/_unsupplied|unsupplied]], [[m/_mere|mere]], [[m/_minimal|minimal]], [[e/_exposed|exposed]], [[n/_naked|naked]], [[n/_nude|nude]], [[u/_uncovered|uncovered]], [[u/_undressed|undressed]], [[d/_despoiled|despoiled]], [[s/_stripped|stripped]], [[u/_uncovered|uncovered]]
@@ -36,15 +36,15 @@
 	- _Example: to bear a railroad stock_
 ---
 #verb
-- **To [[c/_carry|carry]] or [[c/_convey|convey]], literally or figuratively.**
+- **To [[c/_carry|carry]] or [[c/_convey|convey]], [[l/_literally|literally]] or [[f/_figuratively|figuratively]].**
 	- _Example: Judging from the look on his face, he wasn't bearing good news._
 - **To support, sustain, or [[e/_endure|endure]].**
-- **To support, keep up, or maintain.**
-- **To press or impinge upon.**
-- **To produce, yield, give [[b/_birth|birth]] to.**
-- **(originally nautical) To be, or head, in a specific [[d/_direction|direction]] or [[a/_azimuth|azimuth]] (from somewhere).**
+- **To support, [[k/_keep|keep]] up, or [[m/_maintain|maintain]].**
+- **To press or [[i/_impinge|impinge]] upon.**
+- **To produce, [[y/_yield|yield]], [[g/_give|give]] [[b/_birth|birth]] to.**
+- **([[o/_originally|originally]] [[n/_nautical|nautical]]) To be, or [[h/_head|head]], in a specific [[d/_direction|direction]] or [[a/_azimuth|azimuth]] (from somewhere).**
 	- _Example: By my readings, we're bearing due south, so we should turn about ten degrees east._
-- **To gain or win.**
+- **To [[g/_gain|gain]] or win.**
 ---
 ### Synonyms
 - [[b/_brook|brook]], [[e/_endure|endure]]

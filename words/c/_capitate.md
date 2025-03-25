@@ -4,10 +4,10 @@
 - **([[a/_anatomy|anatomy]]) The [[c/_capitate|capitate]] [[b/_bone|bone]] of the wrist.**
 ---
 #verb
-- **(health [[c/_care|care]]) To pay health-[[c/_care|care]] providers using a [[c/_capitation|capitation]] system.**
+- **([[h/_health|health]] [[c/_care|care]]) To [[p/_pay|pay]] [[h/_health|health]]-[[c/_care|care]] providers using a [[c/_capitation|capitation]] system.**
 ---
 #adjective
-- **Having a [[d/_distinct|distinct]] globular tip.**
-- **Forming a [[d/_dense|dense]], head-like [[c/_cluster|cluster]], such as the inflorescences of [[c/_composites|composites]].**
+- **[[h/_having|Having]] a [[d/_distinct|distinct]] [[g/_globular|globular]] tip.**
+- **[[f/_forming|Forming]] a [[d/_dense|dense]], [[h/_head|head]]-[[l/_like|like]] [[c/_cluster|cluster]], such as the inflorescences of [[c/_composites|composites]].**
 ---
 ---

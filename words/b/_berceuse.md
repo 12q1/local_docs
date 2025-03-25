@@ -1,6 +1,6 @@
 # Berceuse
 ---
 #noun
-- **A lullaby.**
+- **A [[l/_lullaby|lullaby]].**
 ---
 ---

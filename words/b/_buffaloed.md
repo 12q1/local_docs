@@ -1,8 +1,8 @@
 # Buffaloed
 ---
 #verb
-- **To hunt [[b/_buffalo|buffalo]].**
-- **To outwit, [[c/_confuse|confuse]], [[d/_deceive|deceive]], or intimidate.**
+- **To [[h/_hunt|hunt]] [[b/_buffalo|buffalo]].**
+- **To [[o/_outwit|outwit]], [[c/_confuse|confuse]], [[d/_deceive|deceive]], or [[i/_intimidate|intimidate]].**
 - **To pistol-whip.**
 ---
 ---

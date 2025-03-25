@@ -1,10 +1,10 @@
 # Dowries
 ---
 #noun
-- **Payment, such as property or money, paid by the [[b/_bride|bride]]'s family to the groom or his family at the time of marriage.**
-- **Payment by the groom or his family to the [[b/_bride|bride]]'s family: [[b/_bride|bride]] price.**
+- **[[p/_payment|Payment]], such as property or [[m/_money|money]], [[p/_paid|paid]] by the [[b/_bride|bride]]'s [[f/_family|family]] to the [[g/_groom|groom]] or [[h/_his|his]] [[f/_family|family]] at the time of [[m/_marriage|marriage]].**
+- **[[p/_payment|Payment]] by the [[g/_groom|groom]] or [[h/_his|his]] [[f/_family|family]] to the [[b/_bride|bride]]'s [[f/_family|family]]: [[b/_bride|bride]] price.**
 - **[[d/_dower|Dower]].**
-- **A natural gift or talent.**
+- **A [[n/_natural|natural]] [[g/_gift|gift]] or talent.**
 ---
 ### Antonyms
 - [[d/_dower|dower]]

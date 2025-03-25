@@ -1,9 +1,9 @@
 # Emulsion
 ---
 #noun
-- **A stable suspension of small [[d/_droplets|droplets]] of one liquid in [[a/_another|another]] with which it is immiscible.**
+- **A stable suspension of small [[d/_droplets|droplets]] of [[o/_one|one]] [[l/_liquid|liquid]] in [[a/_another|another]] with which it is [[i/_immiscible|immiscible]].**
 	- _Example: Mayonnaise is an emulsion where egg is used to keep oil and water mixed._
-- **A [[c/_colloid|colloid]] in which [[b/_both|both]] phases are liquid.**
-- **The [[c/_coating|coating]] of photosensitive silver halide grains in a thin gelatine layer on a photographic film.**
+- **A [[c/_colloid|colloid]] in which [[b/_both|both]] phases are [[l/_liquid|liquid]].**
+- **The [[c/_coating|coating]] of photosensitive silver [[h/_halide|halide]] [[g/_grains|grains]] in a thin [[g/_gelatine|gelatine]] [[l/_layer|layer]] on a photographic [[f/_film|film]].**
 ---
 ---

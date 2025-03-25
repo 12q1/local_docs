@@ -1,6 +1,6 @@
 # Discomfiture
 ---
 #noun
-- **A feeling of frustration, [[d/_disappointment|disappointment]], perplexity or [[e/_embarrassment|embarrassment]].**
+- **A [[f/_feeling|feeling]] of [[f/_frustration|frustration]], [[d/_disappointment|disappointment]], perplexity or [[e/_embarrassment|embarrassment]].**
 ---
 ---

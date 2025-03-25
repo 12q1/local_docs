@@ -1,8 +1,8 @@
 # Calligram
 ---
 #noun
-- **A word, phrase or longer text in which the typeface or the layout has some special significance.**
-- **A signature made from interwoven [[a/_arabic|Arabic]] words.**
+- **A word, phrase or [[l/_longer|longer]] text in which the typeface or the [[l/_layout|layout]] [[h/_has|has]] some special significance.**
+- **A signature [[m/_made|made]] from [[i/_interwoven|interwoven]] [[a/_arabic|Arabic]] words.**
 ---
 ### Synonyms
 - 

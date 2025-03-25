@@ -1,10 +1,10 @@
 # Assart
 ---
 #noun
-- **Forest land [[c/_cleared|cleared]] for [[a/_agriculture|agriculture]].**
-- **The [[a/_act|act]] or offence of grubbing up trees and [[b/_bushes|bushes]], and thus [[d/_destroying|destroying]] the thickets or [[c/_coverts|coverts]] of a forest.**
+- **[[f/_forest|Forest]] [[l/_land|land]] [[c/_cleared|cleared]] for [[a/_agriculture|agriculture]].**
+- **The [[a/_act|act]] or [[o/_offence|offence]] of [[g/_grubbing|grubbing]] up trees and [[b/_bushes|bushes]], and thus [[d/_destroying|destroying]] the thickets or [[c/_coverts|coverts]] of a [[f/_forest|forest]].**
 ---
 #verb
-- **To [[c/_clear|clear]] forest land for [[a/_agriculture|agriculture]]; remove stumps.**
+- **To [[c/_clear|clear]] [[f/_forest|forest]] [[l/_land|land]] for [[a/_agriculture|agriculture]]; remove stumps.**
 ---
 ---

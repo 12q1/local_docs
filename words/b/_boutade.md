@@ -1,6 +1,6 @@
 # Boutade
 ---
 #noun
-- **A sudden outbreak or outburst; a [[c/_caprice|caprice]], a whim.**
+- **A sudden [[o/_outbreak|outbreak]] or [[o/_outburst|outburst]]; a [[c/_caprice|caprice]], a whim.**
 ---
 ---

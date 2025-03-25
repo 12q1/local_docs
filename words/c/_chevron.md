@@ -1,16 +1,16 @@
 # Chevron
 ---
 #noun
-- **A V-shaped pattern; used in [[a/_architecture|architecture]], and as an insignia of military or police rank, on the sleeve**
-- **A wide inverted V placed on a shield.**
-- **One of the V-shaped markings on the surface of roads used to indicate minimum [[d/_distances|distances]] [[b/_between|between]] vehicles.**
-- **A guillemet, [[e/_either|either]] of the punctuation marks “«” or “»”, used in several languages to indicate passages of speech. Similar to typical quotation marks used in the [[e/_english|English]] language such as ““” and “””.**
+- **A V-shaped pattern; used in [[a/_architecture|architecture]], and as an [[i/_insignia|insignia]] of [[m/_military|military]] or police rank, on the sleeve**
+- **A wide [[i/_inverted|inverted]] V placed on a shield.**
+- **[[o/_one|One]] of the V-shaped [[m/_markings|markings]] on the surface of roads used to [[i/_indicate|indicate]] [[m/_minimum|minimum]] [[d/_distances|distances]] [[b/_between|between]] vehicles.**
+- **A [[g/_guillemet|guillemet]], [[e/_either|either]] of the punctuation [[m/_marks|marks]] “«” or “»”, used in several [[l/_languages|languages]] to [[i/_indicate|indicate]] passages of speech. Similar to typical quotation [[m/_marks|marks]] used in the [[e/_english|English]] [[l/_language|language]] such as ““” and “””.**
 - **An [[a/_angle|angle]] [[b/_bracket|bracket]], [[e/_either|either]] used as a typographic or a scientific symbol.**
-- **A háček, a [[d/_diacritical|diacritical]] mark that may resemble an inverted [[c/_circumflex|circumflex]].**
+- **A [[h/_h|h]]áček, a [[d/_diacritical|diacritical]] [[m/_mark|mark]] that [[m/_may|may]] resemble an [[i/_inverted|inverted]] [[c/_circumflex|circumflex]].**
 ---
 ### Synonyms
 - [[w/_wicket|wicket]]
 #verb
-- **To form or be formed into [[c/_chevrons|chevrons]]**
+- **To [[f/_form|form]] or be [[f/_formed|formed]] [[i/_into|into]] [[c/_chevrons|chevrons]]**
 ---
 ---

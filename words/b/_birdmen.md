@@ -1,8 +1,8 @@
 # Birdmen
 ---
 #noun
-- **A man who works with [[b/_birds|birds]].**
+- **A [[m/_man|man]] who works with [[b/_birds|birds]].**
 - **An [[a/_aviator|aviator]].**
-- **A mythological [[c/_creature|creature]] that is part man and part [[b/_bird|bird]].**
+- **A [[m/_mythological|mythological]] [[c/_creature|creature]] that is part [[m/_man|man]] and part [[b/_bird|bird]].**
 ---
 ---

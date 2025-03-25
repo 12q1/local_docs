@@ -6,14 +6,14 @@
 - **To [[d/_deliberately|deliberately]] withdraw from worldly things.**
 - **To provide with a [[c/_cloister|cloister]] or [[c/_cloisters|cloisters]].**
 	- _Example: The architect cloistered the college just like the monastery which founded it._
-- **To protect or isolate.**
+- **To protect or [[i/_isolate|isolate]].**
 ---
 ### Synonyms
 - 
 #adjective
-- **[[d/_dwelling|Dwelling]] or raised in, or as if in, [[c/_cloisters|cloisters]]; solitary.**
-- **Isolated, protected, hidden [[a/_away|away]] for the sake of maintaining innocence**
-- **Naive, lacking in worldliness**
-- **Furnished with [[c/_cloisters|cloisters]].**
+- **[[d/_dwelling|Dwelling]] or raised in, or as [[i/_if|if]] in, [[c/_cloisters|cloisters]]; solitary.**
+- **[[i/_isolated|Isolated]], protected, [[h/_hidden|hidden]] [[a/_away|away]] for the sake of [[m/_maintaining|maintaining]] [[i/_innocence|innocence]]**
+- **[[n/_naive|Naive]], [[l/_lacking|lacking]] in worldliness**
+- **[[f/_furnished|Furnished]] with [[c/_cloisters|cloisters]].**
 ---
 ---

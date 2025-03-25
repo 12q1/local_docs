@@ -1,7 +1,7 @@
 # Discommodes
 ---
 #verb
-- **To [[c/_cause|cause]] inconvenience to (someone).**
+- **To [[c/_cause|cause]] [[i/_inconvenience|inconvenience]] to (someone).**
 ---
 ### Synonyms
 - [[i/_incommode|incommode]], [[i/_inconvenience|inconvenience]]

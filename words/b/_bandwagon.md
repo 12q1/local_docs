@@ -1,7 +1,7 @@
 # Bandwagon
 ---
 #noun
-- **A large wagon used to [[c/_carry|carry]] a [[b/_band|band]] of musicians in a parade.**
-- **A [[c/_current|current]] movement that [[a/_attracts|attracts]] wide support.**
+- **A [[l/_large|large]] wagon used to [[c/_carry|carry]] a [[b/_band|band]] of [[m/_musicians|musicians]] in a parade.**
+- **A [[c/_current|current]] [[m/_movement|movement]] that [[a/_attracts|attracts]] wide support.**
 ---
 ---

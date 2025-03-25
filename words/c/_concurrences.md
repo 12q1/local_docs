@@ -2,6 +2,6 @@
 ---
 #noun
 - **[[a/_agreement|Agreement]]; [[c/_concurring|concurring]].**
-- **An instance of simultaneous occurrence.**
+- **An [[i/_instance|instance]] of simultaneous [[o/_occurrence|occurrence]].**
 ---
 ---

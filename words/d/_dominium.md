@@ -1,6 +1,6 @@
 # Dominium
 ---
 #noun
-- **The ownership of a thing.**
+- **The [[o/_ownership|ownership]] of a thing.**
 ---
 ---

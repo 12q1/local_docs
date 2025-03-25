@@ -1,6 +1,6 @@
 # Auberge
 ---
 #noun
-- **An inn or hostel.**
+- **An [[i/_inn|inn]] or [[h/_hostel|hostel]].**
 ---
 ---

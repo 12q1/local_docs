@@ -1,8 +1,8 @@
 # Bazaar
 ---
 #noun
-- **A marketplace, particularly in the Middle [[e/_east|East]] and South [[a/_asia|Asia]], and often [[c/_covered|covered]] with shops and stalls.**
-- **A shop selling [[a/_articles|articles]] that are [[e/_either|either]] exotic or [[e/_eclectic|eclectic]].**
-- **A fair or temporary market, often for [[c/_charity|charity]].**
+- **A [[m/_marketplace|marketplace]], particularly in the [[m/_middle|Middle]] [[e/_east|East]] and South [[a/_asia|Asia]], and [[o/_often|often]] [[c/_covered|covered]] with shops and stalls.**
+- **A shop selling [[a/_articles|articles]] that are [[e/_either|either]] [[e/_exotic|exotic]] or [[e/_eclectic|eclectic]].**
+- **A [[f/_fair|fair]] or temporary [[m/_market|market]], [[o/_often|often]] for [[c/_charity|charity]].**
 ---
 ---

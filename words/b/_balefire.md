@@ -1,6 +1,6 @@
 # Balefire
 ---
 #noun
-- **An outdoor fire used in witches' rituals.**
+- **An [[o/_outdoor|outdoor]] [[f/_fire|fire]] used in witches' rituals.**
 ---
 ---

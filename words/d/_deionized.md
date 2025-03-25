@@ -1,9 +1,9 @@
 # Deionized
 ---
 #verb
-- **To remove the ions from**
+- **To remove the [[i/_ions|ions]] from**
 ---
 #adjective
-- **That has [[b/_been|been]] prepared by [[d/_deionization|deionization]]**
+- **That [[h/_has|has]] [[b/_been|been]] prepared by [[d/_deionization|deionization]]**
 ---
 ---

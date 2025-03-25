@@ -1,8 +1,8 @@
 # Conglomeration
 ---
 #noun
-- **That which [[c/_consists|consists]] of many previously separate parts.**
-- **An instance of [[c/_conglomerating|conglomerating]], a [[c/_coming|coming]] together of separate parts.**
+- **That which [[c/_consists|consists]] of [[m/_many|many]] previously separate parts.**
+- **An [[i/_instance|instance]] of [[c/_conglomerating|conglomerating]], a [[c/_coming|coming]] together of separate parts.**
 ---
 ### Synonyms
 - [[c/_conglomerate|conglomerate]]

@@ -1,7 +1,7 @@
 # Barcarole
 ---
 #noun
-- **A Venetian folk song traditionally sung by gondoliers, often in 6/8 or 12/8 time with [[a/_alternating|alternating]] strong and weak [[b/_beats|beats]] imitating a rowing motion.**
-- **A piece of music [[c/_composed|composed]] in imitation of such a song.**
+- **A Venetian [[f/_folk|folk]] song traditionally sung by [[g/_gondoliers|gondoliers]], [[o/_often|often]] in 6/8 or 12/8 time with [[a/_alternating|alternating]] strong and weak [[b/_beats|beats]] [[i/_imitating|imitating]] a rowing [[m/_motion|motion]].**
+- **A piece of [[m/_music|music]] [[c/_composed|composed]] in [[i/_imitation|imitation]] of such a song.**
 ---
 ---

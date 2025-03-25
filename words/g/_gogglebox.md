@@ -1,0 +1,6 @@
+# Gogglebox
+---
+#noun
+- **Television set**
+---
+---

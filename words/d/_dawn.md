@@ -1,7 +1,7 @@
 # Dawn
 ---
 #noun
-- **The morning twilight period immediately [[b/_before|before]] sunrise.**
+- **The [[m/_morning|morning]] twilight period [[i/_immediately|immediately]] [[b/_before|before]] sunrise.**
 - **The rising of the sun.**
 - **The time when the sun rises.**
 	- _Example: She rose before dawn to meet the train._
@@ -17,6 +17,6 @@
 	- _Example: A new day dawns._
 - **To start to [[a/_appear|appear]] or be realized.**
 	- _Example: I don’t want to be there when the truth dawns on him._
-- **To [[b/_begin|begin]] to give promise; to [[b/_begin|begin]] to [[a/_appear|appear]] or to expand.**
+- **To [[b/_begin|begin]] to [[g/_give|give]] promise; to [[b/_begin|begin]] to [[a/_appear|appear]] or to [[e/_expand|expand]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Chignon
 ---
 #noun
-- **A roll or twist of hair worn at the nape of the neck; a [[b/_bun|bun]].**
-- **A temporary swelling on a neonate's head [[a/_after|after]] a ventouse-[[a/_assisted|assisted]] [[d/_delivery|delivery]].**
+- **A roll or twist of [[h/_hair|hair]] worn at the [[n/_nape|nape]] of the [[n/_neck|neck]]; a [[b/_bun|bun]].**
+- **A temporary swelling on a [[n/_neonate|neonate]]'s [[h/_head|head]] [[a/_after|after]] a ventouse-[[a/_assisted|assisted]] [[d/_delivery|delivery]].**
 ---
 ### Synonyms
 - [[b/_bun|bun]], [[c/_cock-up|cock-up]]

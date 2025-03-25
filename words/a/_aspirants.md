@@ -1,6 +1,6 @@
 # Aspirants
 ---
 #noun
-- **Someone who [[a/_aspires|aspires]] to high office, [[e/_etc|etc]].**
+- **Someone who [[a/_aspires|aspires]] to [[h/_high|high]] [[o/_office|office]], [[e/_etc|etc]].**
 ---
 ---

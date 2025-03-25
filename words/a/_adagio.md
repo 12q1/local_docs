@@ -1,12 +1,12 @@
 # Adagio
 ---
 #noun
-- **A tempo mark [[d/_directing|directing]] that a passage is to be played rather slowly, leisurely and gracefully.**
-- **A passage having this mark.**
-- **A male-female [[d/_duet|duet]] or mixed trio [[b/_ballet|ballet]] [[d/_displaying|displaying]] [[d/_demanding|demanding]] [[b/_balance|balance]], spins and/or lifts.**
+- **A tempo [[m/_mark|mark]] [[d/_directing|directing]] that a passage is to be played rather slowly, [[l/_leisurely|leisurely]] and [[g/_gracefully|gracefully]].**
+- **A passage [[h/_having|having]] this [[m/_mark|mark]].**
+- **A [[m/_male|male]]-[[f/_female|female]] [[d/_duet|duet]] or [[m/_mixed|mixed]] trio [[b/_ballet|ballet]] [[d/_displaying|displaying]] [[d/_demanding|demanding]] [[b/_balance|balance]], spins and/or [[l/_lifts|lifts]].**
 ---
 #adjective
-- **[[d/_describing|Describing]] a passage having this mark.**
+- **[[d/_describing|Describing]] a passage [[h/_having|having]] this [[m/_mark|mark]].**
 ---
 #adverb
 - **Played rather slowly.**

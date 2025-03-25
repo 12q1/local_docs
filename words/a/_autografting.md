@@ -1,6 +1,6 @@
 # Autografting
 ---
 #verb
-- **To graft in this manner.**
+- **To [[g/_graft|graft]] in this [[m/_manner|manner]].**
 ---
 ---

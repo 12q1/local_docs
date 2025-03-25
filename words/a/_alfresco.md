@@ -1,12 +1,12 @@
 # Alfresco
 ---
 #adjective
-- **Outdoors, open to the [[a/_atmosphere|atmosphere]].**
+- **[[o/_outdoors|Outdoors]], [[o/_open|open]] to the [[a/_atmosphere|atmosphere]].**
 	- _Example: The walking district features many alfresco cafés._
 ---
 #adverb
-- **Outdoors; in fresh [[a/_air|air]].**
+- **[[o/_outdoors|Outdoors]]; in [[f/_fresh|fresh]] [[a/_air|air]].**
 	- _Example: As it was a sunny afternoon, we decided to dine alfresco on the patio._
-- **Onto fresh plaster that is still moist.**
+- **[[o/_onto|Onto]] [[f/_fresh|fresh]] plaster that is still [[m/_moist|moist]].**
 ---
 ---

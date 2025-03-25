@@ -1,7 +1,7 @@
 # Crowberry
 ---
 #noun
-- **[[e/_empetrum|Empetrum]]; a small genus of [[d/_dwarf|dwarf]] evergreen shrubs that [[b/_bear|bear]] [[e/_edible|edible]] fruit.**
-- **A fruit of this plant.**
+- **[[e/_empetrum|Empetrum]]; a small [[g/_genus|genus]] of [[d/_dwarf|dwarf]] [[e/_evergreen|evergreen]] shrubs that [[b/_bear|bear]] [[e/_edible|edible]] [[f/_fruit|fruit]].**
+- **A [[f/_fruit|fruit]] of this plant.**
 ---
 ---

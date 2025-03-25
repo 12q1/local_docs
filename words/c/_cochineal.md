@@ -1,8 +1,8 @@
 # Cochineal
 ---
 #noun
-- **A species of insect ([[d/_dactylopius|Dactylopius]] [[c/_coccus|coccus]]).**
-- **A vivid red [[d/_dye|dye]] made from the [[b/_bodies|bodies]] of [[c/_cochineal|cochineal]] insects.**
+- **A species of [[i/_insect|insect]] ([[d/_dactylopius|Dactylopius]] [[c/_coccus|coccus]]).**
+- **A vivid red [[d/_dye|dye]] [[m/_made|made]] from the [[b/_bodies|bodies]] of [[c/_cochineal|cochineal]] [[i/_insects|insects]].**
 - **The vivid red [[c/_color|color]] of this [[d/_dye|dye]].**
 ---
 ### Synonyms

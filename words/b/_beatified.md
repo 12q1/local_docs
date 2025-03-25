@@ -1,11 +1,11 @@
 # Beatified
 ---
 #adjective
-- **Having [[b/_been|been]] recognized and [[d/_declared|declared]], by the [[c/_church|church]], that a [[d/_deceased|deceased]] has [[e/_entered|entered]] heaven; having [[a/_attained|attained]] this step in the process of [[c/_canonization|canonization]].**
+- **[[h/_having|Having]] [[b/_been|been]] recognized and [[d/_declared|declared]], by the [[c/_church|church]], that a [[d/_deceased|deceased]] [[h/_has|has]] [[e/_entered|entered]] [[h/_heaven|heaven]]; [[h/_having|having]] [[a/_attained|attained]] this step in the process of [[c/_canonization|canonization]].**
 ---
 #verb
-- **To make [[b/_blissful|blissful]].**
-- **To pronounce or regard as happy, or supremely [[b/_blessed|blessed]], or as [[c/_conferring|conferring]] happiness.**
-- **To [[c/_carry|carry]] out the third of four steps in [[c/_canonization|canonization]], making someone a [[b/_blessed|blessed]].**
+- **To [[m/_make|make]] [[b/_blissful|blissful]].**
+- **To pronounce or regard as [[h/_happy|happy]], or supremely [[b/_blessed|blessed]], or as [[c/_conferring|conferring]] [[h/_happiness|happiness]].**
+- **To [[c/_carry|carry]] [[o/_out|out]] the third of [[f/_four|four]] steps in [[c/_canonization|canonization]], [[m/_making|making]] someone a [[b/_blessed|blessed]].**
 ---
 ---

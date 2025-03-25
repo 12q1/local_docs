@@ -1,6 +1,6 @@
 # Dhobis
 ---
 #noun
-- **A laundryman or washerman, or laundrywoman or washerwoman, in India and Pakistan.**
+- **A [[l/_laundryman|laundryman]] or washerman, or [[l/_laundrywoman|laundrywoman]] or washerwoman, in [[i/_india|India]] and [[p/_pakistan|Pakistan]].**
 ---
 ---

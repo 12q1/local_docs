@@ -1,6 +1,6 @@
 # Concordats
 ---
 #noun
-- **A formal [[a/_agreement|agreement]] [[b/_between|between]] two parties, [[e/_especially|especially]] [[b/_between|between]] a [[c/_church|church]] and a state; specifically, an [[a/_agreement|agreement]] [[b/_between|between]] the Pope and a government.**
+- **A [[f/_formal|formal]] [[a/_agreement|agreement]] [[b/_between|between]] two parties, [[e/_especially|especially]] [[b/_between|between]] a [[c/_church|church]] and a state; specifically, an [[a/_agreement|agreement]] [[b/_between|between]] the Pope and a [[g/_government|government]].**
 ---
 ---

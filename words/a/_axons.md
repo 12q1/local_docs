@@ -1,6 +1,6 @@
 # Axons
 ---
 #noun
-- **A nerve fibre which is a long slender projection of a nerve [[c/_cell|cell]], and which [[c/_conducts|conducts]] nerve impulses [[a/_away|away]] from the [[b/_body|body]] of the [[c/_cell|cell]] to a synapse.**
+- **A [[n/_nerve|nerve]] [[f/_fibre|fibre]] which is a [[l/_long|long]] slender projection of a [[n/_nerve|nerve]] [[c/_cell|cell]], and which [[c/_conducts|conducts]] [[n/_nerve|nerve]] [[i/_impulses|impulses]] [[a/_away|away]] from the [[b/_body|body]] of the [[c/_cell|cell]] to a synapse.**
 ---
 ---

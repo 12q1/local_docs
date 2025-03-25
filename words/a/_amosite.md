@@ -1,6 +1,6 @@
 # Amosite
 ---
 #noun
-- **A variety of grunerite [[a/_asbestos|asbestos]], once used in insulation.**
+- **A variety of [[g/_grunerite|grunerite]] [[a/_asbestos|asbestos]], [[o/_once|once]] used in [[i/_insulation|insulation]].**
 ---
 ---

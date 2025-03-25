@@ -1,28 +1,28 @@
 # Crimps
 ---
 #noun
-- **A fastener or a fastening method that secures parts by [[b/_bending|bending]] metal [[a/_around|around]] a joint and squeezing it together, often with a tool that [[a/_adds|adds]] indentations to [[c/_capture|capture]] the parts.**
+- **A [[f/_fastener|fastener]] or a [[f/_fastening|fastening]] [[m/_method|method]] that secures parts by [[b/_bending|bending]] [[m/_metal|metal]] [[a/_around|around]] a [[j/_joint|joint]] and squeezing it together, [[o/_often|often]] with a tool that [[a/_adds|adds]] [[i/_indentations|indentations]] to [[c/_capture|capture]] the parts.**
 	- _Example: The strap was held together by a simple metal crimp._
-- **The natural [[c/_curliness|curliness]] of wool fibres.**
-- **(usually in the plural) Hair that is shaped so it [[b/_bends|bends]] [[b/_back|back]] and forth in many short kinks.**
-- **A [[c/_card|card]] game.**
+- **The [[n/_natural|natural]] [[c/_curliness|curliness]] of wool [[f/_fibres|fibres]].**
+- **(usually in the plural) [[h/_hair|Hair]] that is shaped so it [[b/_bends|bends]] [[b/_back|back]] and [[f/_forth|forth]] in [[m/_many|many]] short [[k/_kinks|kinks]].**
+- **A [[c/_card|card]] [[g/_game|game]].**
 ---
 #verb
-- **To press into small ridges or folds, to pleat, to [[c/_corrugate|corrugate]].**
+- **To press [[i/_into|into]] small ridges or [[f/_folds|folds]], to pleat, to [[c/_corrugate|corrugate]].**
 	- _Example: Cornish pasties are crimped during preparation._
-- **To fasten by [[b/_bending|bending]] metal so that it squeezes [[a/_around|around]] the parts to be fastened.**
+- **To [[f/_fasten|fasten]] by [[b/_bending|bending]] [[m/_metal|metal]] so that it squeezes [[a/_around|around]] the parts to be [[f/_fastened|fastened]].**
 	- _Example: He crimped the wire in place._
-- **To pinch and hold; to seize.**
-- **To style hair into a [[c/_crimp|crimp]], to form hair into tight [[c/_curls|curls]], to make it kinky.**
-- **To [[b/_bend|bend]] or mold leather into shape.**
-- **To gash the flesh, [[e/_e|e]].g. of a raw fish, to make it [[c/_crisper|crisper]] when [[c/_cooked|cooked]].**
+- **To pinch and [[h/_hold|hold]]; to seize.**
+- **To style [[h/_hair|hair]] [[i/_into|into]] a [[c/_crimp|crimp]], to [[f/_form|form]] [[h/_hair|hair]] [[i/_into|into]] tight [[c/_curls|curls]], to [[m/_make|make]] it [[k/_kinky|kinky]].**
+- **To [[b/_bend|bend]] or [[m/_mold|mold]] [[l/_leather|leather]] [[i/_into|into]] shape.**
+- **To [[g/_gash|gash]] the [[f/_flesh|flesh]], [[e/_e|e]].[[g/_g|g]]. of a raw [[f/_fish|fish]], to [[m/_make|make]] it [[c/_crisper|crisper]] when [[c/_cooked|cooked]].**
 ---
 #noun
-- **An [[a/_agent|agent]] who procures seamen, soldier, [[e/_etc|etc]]., [[e/_especially|especially]] by [[d/_decoying|decoying]], [[e/_entrapping|entrapping]], impressing, or seducing them.**
-- **(specifically) One who infringes sub-section 1 of the Merchant Shipping [[a/_act|Act]] of 1854, [[a/_applied|applied]] to a person other than the owner, master, [[e/_etc|etc]]., who [[e/_engages|engages]] seamen without a license from the [[b/_board|Board]] of Trade.**
-- **A keeper of a low lodging house where sailors and [[e/_emigrants|emigrants]] are [[e/_entrapped|entrapped]] and fleeced.**
+- **An [[a/_agent|agent]] who procures seamen, soldier, [[e/_etc|etc]]., [[e/_especially|especially]] by [[d/_decoying|decoying]], [[e/_entrapping|entrapping]], [[i/_impressing|impressing]], or seducing them.**
+- **(specifically) [[o/_one|One]] who [[i/_infringes|infringes]] sub-section 1 of the [[m/_merchant|Merchant]] Shipping [[a/_act|Act]] of 1854, [[a/_applied|applied]] to a person [[o/_other|other]] than the [[o/_owner|owner]], [[m/_master|master]], [[e/_etc|etc]]., who [[e/_engages|engages]] seamen without a [[l/_license|license]] from the [[b/_board|Board]] of Trade.**
+- **A [[k/_keeper|keeper]] of a [[l/_low|low]] [[l/_lodging|lodging]] [[h/_house|house]] where sailors and [[e/_emigrants|emigrants]] are [[e/_entrapped|entrapped]] and [[f/_fleeced|fleeced]].**
 ---
 #verb
-- **To impress (seamen or soldiers); to [[e/_entrap|entrap]], to [[d/_decoy|decoy]].**
+- **To [[i/_impress|impress]] (seamen or soldiers); to [[e/_entrap|entrap]], to [[d/_decoy|decoy]].**
 ---
 ---

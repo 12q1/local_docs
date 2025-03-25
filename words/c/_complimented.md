@@ -1,7 +1,7 @@
 # Complimented
 ---
 #verb
-- **To pay a [[c/_compliment|compliment]] (to); to express a favorable opinion (of).**
+- **To [[p/_pay|pay]] a [[c/_compliment|compliment]] (to); to [[e/_express|express]] a [[f/_favorable|favorable]] [[o/_opinion|opinion]] (of).**
 ---
 ### Antonyms
 - [[i/_insult|insult]]

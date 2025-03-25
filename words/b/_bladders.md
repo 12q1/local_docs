@@ -1,12 +1,12 @@
 # Bladders
 ---
 #noun
-- **A flexible sac that [[c/_can|can]] expand and [[c/_contract|contract]] and that holds liquids or gases.**
+- **A [[f/_flexible|flexible]] sac that [[c/_can|can]] [[e/_expand|expand]] and [[c/_contract|contract]] and that [[h/_holds|holds]] [[l/_liquids|liquids]] or [[g/_gases|gases]].**
 - **Specifically, the urinary [[b/_bladder|bladder]].**
-- **A hollow, inflatable organ of a plant.**
-- **The inflatable [[b/_bag|bag]] inside various [[b/_balls|balls]] used in sports, such as footballs and rugby [[b/_balls|balls]].**
-- **A sealed plastic [[b/_bag|bag]] that [[c/_contains|contains]] wine and is usually packaged in a [[c/_cask|cask]].**
-- **[[a/_anything|Anything]] inflated, [[e/_empty|empty]], or unsound.**
+- **A [[h/_hollow|hollow]], [[i/_inflatable|inflatable]] [[o/_organ|organ]] of a plant.**
+- **The [[i/_inflatable|inflatable]] [[b/_bag|bag]] [[i/_inside|inside]] various [[b/_balls|balls]] used in sports, such as [[f/_footballs|footballs]] and rugby [[b/_balls|balls]].**
+- **A sealed plastic [[b/_bag|bag]] that [[c/_contains|contains]] wine and is usually [[p/_packaged|packaged]] in a [[c/_cask|cask]].**
+- **[[a/_anything|Anything]] [[i/_inflated|inflated]], [[e/_empty|empty]], or unsound.**
 ---
 ### Synonyms
 - [[v/_vesica|vesica]]

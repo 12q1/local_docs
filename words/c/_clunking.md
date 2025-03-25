@@ -1,7 +1,7 @@
 # Clunking
 ---
 #verb
-- **To make such a sound**
+- **To [[m/_make|make]] such a sound**
 ---
 #noun
 - **A sound that [[c/_clunks|clunks]].**

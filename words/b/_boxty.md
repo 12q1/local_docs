@@ -1,6 +1,6 @@
 # Boxty
 ---
 #noun
-- **A traditional Irish potato pancake.**
+- **A traditional [[i/_irish|Irish]] potato [[p/_pancake|pancake]].**
 ---
 ---

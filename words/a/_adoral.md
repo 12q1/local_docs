@@ -1,6 +1,6 @@
 # Adoral
 ---
 #adjective
-- **Located near the mouth.**
+- **[[l/_located|Located]] [[n/_near|near]] the [[m/_mouth|mouth]].**
 ---
 ---

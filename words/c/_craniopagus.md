@@ -1,7 +1,7 @@
 # Craniopagus
 ---
 #noun
-- **A pair of [[c/_conjoined|conjoined]] twins joined at the head.**
-- **[[e/_either|Either]] of the individual twins of such a pair.**
+- **A [[p/_pair|pair]] of [[c/_conjoined|conjoined]] twins [[j/_joined|joined]] at the [[h/_head|head]].**
+- **[[e/_either|Either]] of the [[i/_individual|individual]] twins of such a [[p/_pair|pair]].**
 ---
 ---

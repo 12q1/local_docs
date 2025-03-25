@@ -1,0 +1,10 @@
+# Founder
+---
+#noun
+- **[[o/_one|One]] who [[f/_founds|founds]] or [[e/_establishes|establishes]] ([[e/_especially|especially]] said of a [[c/_company|company]], project, [[o/_organisation|organisation]], state)**
+	- _Example: the founder of Facebook, Mark Zuckerberg_
+- **Someone for whose parents [[o/_one|one]] [[h/_has|has]] [[n/_no|no]] [[d/_data|data]].**
+---
+### Antonyms
+- [[r/_ruiner|ruiner]]
+---

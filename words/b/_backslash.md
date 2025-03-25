@@ -1,14 +1,14 @@
 # Backslash
 ---
 #noun
-- **The punctuation mark \.**
-- **Used [[e/_erroneously|erroneously]] in reference to, or in reading out, the ordinary slash, that is, the punctuation mark /.**
+- **The punctuation [[m/_mark|mark]] \.**
+- **Used [[e/_erroneously|erroneously]] in reference to, or in reading [[o/_out|out]], the [[o/_ordinary|ordinary]] slash, that is, the punctuation [[m/_mark|mark]] /.**
 ---
 ### Synonyms
 - [[s/_slosh|slosh]], [[w/_whack|whack]]
 ### Antonyms
 - [[s/_slash|slash]]
 #verb
-- **To [[e/_escape|escape]] (a metacharacter) by prepending a [[b/_backslash|backslash]] that serves as an [[e/_escape|escape]] [[c/_character|character]], thereby forming an [[e/_escape|escape]] sequence.**
+- **To [[e/_escape|escape]] (a metacharacter) by prepending a [[b/_backslash|backslash]] that serves as an [[e/_escape|escape]] [[c/_character|character]], thereby [[f/_forming|forming]] an [[e/_escape|escape]] sequence.**
 ---
 ---

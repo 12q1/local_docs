@@ -1,8 +1,8 @@
 # Analepsis
 ---
 #noun
-- **A form of flashback in which [[e/_earlier|earlier]] parts of a narrative are related to others that have [[a/_already|already]] [[b/_been|been]] narrated**
+- **A [[f/_form|form]] of [[f/_flashback|flashback]] in which [[e/_earlier|earlier]] parts of a [[n/_narrative|narrative]] are related to [[o/_others|others]] that [[h/_have|have]] [[a/_already|already]] [[b/_been|been]] [[n/_narrated|narrated]]**
 - **Recovery of strength [[a/_after|after]] sickness.**
-- **A kind of [[e/_epileptic|epileptic]] [[a/_attack|attack]], originating from gastric [[d/_disorder|disorder]].**
+- **A [[k/_kind|kind]] of [[e/_epileptic|epileptic]] [[a/_attack|attack]], [[o/_originating|originating]] from [[g/_gastric|gastric]] [[d/_disorder|disorder]].**
 ---
 ---

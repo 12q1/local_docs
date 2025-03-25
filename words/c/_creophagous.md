@@ -1,6 +1,6 @@
 # Creophagous
 ---
 #adjective
-- **Flesh-[[e/_eating|eating]]**
+- **[[f/_flesh|Flesh]]-[[e/_eating|eating]]**
 ---
 ---

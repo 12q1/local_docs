@@ -1,6 +1,6 @@
 # Alerting
 ---
 #verb
-- **To give warning to.**
+- **To [[g/_give|give]] warning to.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Chaptalization
 ---
 #noun
-- **The [[a/_addition|addition]] of sugar to grape juice in the fermentation of wine. Usually [[d/_done|done]] if the grapes are thought to lack [[e/_enough|enough]] natural sugars for the [[d/_desired|desired]] [[a/_alcohol|alcohol]] [[c/_content|content]].**
+- **The [[a/_addition|addition]] of sugar to [[g/_grape|grape]] [[j/_juice|juice]] in the [[f/_fermentation|fermentation]] of wine. Usually [[d/_done|done]] [[i/_if|if]] the [[g/_grapes|grapes]] are thought to [[l/_lack|lack]] [[e/_enough|enough]] [[n/_natural|natural]] sugars for the [[d/_desired|desired]] [[a/_alcohol|alcohol]] [[c/_content|content]].**
 ---
 ---

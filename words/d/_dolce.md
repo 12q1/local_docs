@@ -1,6 +1,6 @@
 # Dolce
 ---
 #noun
-- **A soft-toned organ stop.**
+- **A soft-toned [[o/_organ|organ]] stop.**
 ---
 ---

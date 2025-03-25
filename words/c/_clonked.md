@@ -1,6 +1,6 @@
 # Clonked
 ---
 #verb
-- **To make such a sound.**
+- **To [[m/_make|make]] such a sound.**
 ---
 ---

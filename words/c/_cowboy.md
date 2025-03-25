@@ -1,13 +1,13 @@
 # Cowboy
 ---
 #noun
-- **A man who tends free-range [[c/_cattle|cattle]], [[e/_especially|especially]] in the [[a/_american|American]] West.**
-- **A man who identifies with [[c/_cowboy|cowboy]] [[c/_culture|culture]], including wearing a [[c/_cowboy|cowboy]] hat and [[b/_being|being]] a fan of [[c/_country|country]] and western music.**
-- **A person who [[e/_engages|engages]] in reckless [[b/_behavior|behavior]], [[e/_especially|especially]] for the purpose of showing off.**
-- **A [[d/_dishonest|dishonest]] and/or incompetent independent tradesman.**
-- **A playing [[c/_card|card]] of king rank.**
+- **A [[m/_man|man]] who tends [[f/_free|free]]-range [[c/_cattle|cattle]], [[e/_especially|especially]] in the [[a/_american|American]] West.**
+- **A [[m/_man|man]] who [[i/_identifies|identifies]] with [[c/_cowboy|cowboy]] [[c/_culture|culture]], [[i/_including|including]] wearing a [[c/_cowboy|cowboy]] [[h/_hat|hat]] and [[b/_being|being]] a [[f/_fan|fan]] of [[c/_country|country]] and western [[m/_music|music]].**
+- **A person who [[e/_engages|engages]] in reckless [[b/_behavior|behavior]], [[e/_especially|especially]] for the purpose of showing [[o/_off|off]].**
+- **A [[d/_dishonest|dishonest]] and/or [[i/_incompetent|incompetent]] [[i/_independent|independent]] tradesman.**
+- **A playing [[c/_card|card]] of [[k/_king|king]] rank.**
 ---
 #verb
-- **To work as a [[c/_cowboy|cowboy]], herding [[c/_cattle|cattle]].**
+- **To work as a [[c/_cowboy|cowboy]], [[h/_herding|herding]] [[c/_cattle|cattle]].**
 ---
 ---

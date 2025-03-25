@@ -1,6 +1,6 @@
 # Eluates
 ---
 #noun
-- **A liquid solution that results from [[e/_elution|elution]]**
+- **A [[l/_liquid|liquid]] solution that results from [[e/_elution|elution]]**
 ---
 ---

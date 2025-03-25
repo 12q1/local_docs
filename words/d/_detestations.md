@@ -1,7 +1,7 @@
 # Detestations
 ---
 #noun
-- **Hate [[c/_coupled|coupled]] with [[d/_disgust|disgust]]; [[a/_abhorrence|abhorrence]].**
+- **[[h/_hate|Hate]] [[c/_coupled|coupled]] with [[d/_disgust|disgust]]; [[a/_abhorrence|abhorrence]].**
 - **Something [[d/_detested|detested]].**
 ---
 ---

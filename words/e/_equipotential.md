@@ -1,11 +1,11 @@
 # Equipotential
 ---
 #noun
-- **A region whose every point has the same potential.**
+- **A region whose [[e/_every|every]] point [[h/_has|has]] the same potential.**
 ---
 ### Synonyms
 - [[i/_isopotential|isopotential]]
 #adjective
-- **Having [[e/_equal|equal]] potential.**
+- **[[h/_having|Having]] [[e/_equal|equal]] potential.**
 ---
 ---

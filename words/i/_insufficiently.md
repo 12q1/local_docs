@@ -1,0 +1,6 @@
+# Insufficiently
+---
+#adverb
+- **Not sufficiently**
+---
+---

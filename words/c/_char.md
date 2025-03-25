@@ -12,7 +12,7 @@
 ### Synonyms
 - [[b/_blacken|blacken]], [[s/_scorch|scorch]], [[s/_sear|sear]], [[s/_singe|singe]], [[c/_coal|coal]]
 #noun
-- **One of the several species of fishes of the genus Salvelinus.**
+- **[[o/_one|One]] of the several species of [[f/_fishes|fishes]] of the [[g/_genus|genus]] Salvelinus.**
 	- _Example: Among other native delicacies, they give you fresh char._
 ---
 ---

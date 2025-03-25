@@ -1,9 +1,9 @@
 # Catnapped
 ---
 #verb
-- **To take a [[c/_catnap|catnap]], to take a short sleep or nap.**
+- **To take a [[c/_catnap|catnap]], to take a short sleep or [[n/_nap|nap]].**
 ---
 #verb
-- **To kidnap a [[c/_cat|cat]].**
+- **To [[k/_kidnap|kidnap]] a [[c/_cat|cat]].**
 ---
 ---

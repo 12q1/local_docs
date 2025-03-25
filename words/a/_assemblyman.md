@@ -1,7 +1,7 @@
 # Assemblyman
 ---
 #noun
-- **A male member of an [[a/_assembly|assembly]].**
-- **A member of the lower house of [[c/_certain|certain]] US state legislatures.**
+- **A [[m/_male|male]] [[m/_member|member]] of an [[a/_assembly|assembly]].**
+- **A [[m/_member|member]] of the [[l/_lower|lower]] [[h/_house|house]] of [[c/_certain|certain]] US state [[l/_legislatures|legislatures]].**
 ---
 ---

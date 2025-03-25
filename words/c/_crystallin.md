@@ -1,6 +1,6 @@
 # Crystallin
 ---
 #noun
-- **A globulin found in the lens of the [[e/_eye|eye]].**
+- **A [[g/_globulin|globulin]] [[f/_found|found]] in the [[l/_lens|lens]] of the [[e/_eye|eye]].**
 ---
 ---

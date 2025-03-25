@@ -1,15 +1,15 @@
 # Continuous
 ---
 #adjective
-- **Without stopping; without a [[b/_break|break]], [[c/_cessation|cessation]], or interruption**
+- **Without stopping; without a [[b/_break|break]], [[c/_cessation|cessation]], or [[i/_interruption|interruption]]**
 	- _Example: a continuous current of electricity_
-- **Without intervening space; [[c/_continued|continued]]**
+- **Without [[i/_intervening|intervening]] space; [[c/_continued|continued]]**
 	- _Example: a continuous line of railroad_
-- **Not [[d/_deviating|deviating]] or varying from uniformity; not interrupted; not joined or [[a/_articulated|articulated]].**
-- **(of a function) Such that, for every x in the [[d/_domain|domain]], for [[e/_each|each]] small open interval [[d/_d|D]] [[a/_about|about]] f(x), there's an interval [[c/_containing|containing]] x whose image is in [[d/_d|D]].**
-- **(more generally, of a function [[b/_between|between]] two topological spaces) Such that [[e/_each|each]] open set in the target space has an open preimage (in the [[d/_domain|domain]] space, with respect to the given function).**
+- **Not [[d/_deviating|deviating]] or varying from uniformity; not [[i/_interrupted|interrupted]]; not [[j/_joined|joined]] or [[a/_articulated|articulated]].**
+- **(of a [[f/_function|function]]) Such that, for [[e/_every|every]] x in the [[d/_domain|domain]], for [[e/_each|each]] small [[o/_open|open]] [[i/_interval|interval]] [[d/_d|D]] [[a/_about|about]] [[f/_f|f]](x), there's an [[i/_interval|interval]] [[c/_containing|containing]] x whose [[i/_image|image]] is in [[d/_d|D]].**
+- **([[m/_more|more]] [[g/_generally|generally]], of a [[f/_function|function]] [[b/_between|between]] two topological spaces) Such that [[e/_each|each]] [[o/_open|open]] set in the target space [[h/_has|has]] an [[o/_open|open]] preimage (in the [[d/_domain|domain]] space, with respect to the [[g/_given|given]] [[f/_function|function]]).**
 	- _Example: Each continuous function from the real line to the rationals is constant, since the rationals are totally disconnected._
-- **(grammar) Expressing an ongoing [[a/_action|action]] or state.**
+- **([[g/_grammar|grammar]]) [[e/_expressing|Expressing]] an [[o/_ongoing|ongoing]] [[a/_action|action]] or state.**
 ---
 ### Synonyms
 - [[c/_connected|connected]], [[c/_continued|continued]], [[e/_extended|extended]], [[p/_protracted|protracted]], [[u/_unbroken|unbroken]], [[c/_constant|constant]], [[c/_continual|continual]], [[c/_continuous|continuous]], [[i/_incessant|incessant]], [[n/_never-ending|never-ending]], [[n/_nonstop|nonstop]], [[o/_ongoing|ongoing]], [[r/_relentless|relentless]], [[u/_unbroken|unbroken]], [[u/_unceasing|unceasing]], [[u/_unending|unending]], [[u/_uninterrupted|uninterrupted]], [[u/_unremitting|unremitting]], [[e/_extended|extended]], [[p/_protracted|protracted]], [[n/_nonstop|nonstop]], [[p/_perpetual|perpetual]]

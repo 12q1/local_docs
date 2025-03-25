@@ -1,9 +1,9 @@
 # Determiner
 ---
 #noun
-- **(grammar) A member of a [[c/_class|class]] of words functioning in a noun phrase to identify or [[d/_distinguish|distinguish]] a referent without [[d/_describing|describing]] or modifying it.**
-- **(grammar) A [[d/_dependent|dependent]] function in a noun phrase marking the NP as [[d/_definite|definite]] or indefinite. This function is usually filled by words in the [[d/_determinative|determinative]] [[c/_class|class]] but may be filled by other [[e/_elements|elements]] such as a genitive pronoun.**
-- **Something that [[d/_determines|determines]], or helps someone to [[d/_determine|determine]], something [[e/_else|else]].**
+- **([[g/_grammar|grammar]]) A [[m/_member|member]] of a [[c/_class|class]] of words [[f/_functioning|functioning]] in a [[n/_noun|noun]] phrase to [[i/_identify|identify]] or [[d/_distinguish|distinguish]] a referent without [[d/_describing|describing]] or [[m/_modifying|modifying]] it.**
+- **([[g/_grammar|grammar]]) A [[d/_dependent|dependent]] [[f/_function|function]] in a [[n/_noun|noun]] phrase [[m/_marking|marking]] the [[n/_np|NP]] as [[d/_definite|definite]] or [[i/_indefinite|indefinite]]. This [[f/_function|function]] is usually [[f/_filled|filled]] by words in the [[d/_determinative|determinative]] [[c/_class|class]] but [[m/_may|may]] be [[f/_filled|filled]] by [[o/_other|other]] [[e/_elements|elements]] such as a [[g/_genitive|genitive]] pronoun.**
+- **Something that [[d/_determines|determines]], or [[h/_helps|helps]] someone to [[d/_determine|determine]], something [[e/_else|else]].**
 ---
 ### Synonyms
 - [[d/_determinative|determinative]], [[d/_determinative|determinative]]

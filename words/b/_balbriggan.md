@@ -1,6 +1,6 @@
 # Balbriggan
 ---
 #noun
-- **An unbleached, knitted, [[c/_cotton|cotton]] fabric mostly used for underwear.**
+- **An unbleached, [[k/_knitted|knitted]], [[c/_cotton|cotton]] [[f/_fabric|fabric]] [[m/_mostly|mostly]] used for underwear.**
 ---
 ---

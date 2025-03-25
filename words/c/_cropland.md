@@ -1,6 +1,6 @@
 # Cropland
 ---
 #noun
-- **[[a/_arable|Arable]] land**
+- **[[a/_arable|Arable]] [[l/_land|land]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Aroused
 ---
 #verb
-- **To stimulate feelings.**
+- **To stimulate [[f/_feelings|feelings]].**
 	- _Example: The new building proposals in the village are arousing unneeded discomfort._
 - **To sexually stimulate.**
 	- _Example: I can't keep my eyes off the dancer; she arouses me greatly._

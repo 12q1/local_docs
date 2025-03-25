@@ -1,9 +1,9 @@
 # Antacid
 ---
 #noun
-- **An [[a/_agent|agent]] that [[c/_counteracts|counteracts]] or neutralizes [[a/_acidity|acidity]], [[e/_especially|especially]] in the stomach.**
+- **An [[a/_agent|agent]] that [[c/_counteracts|counteracts]] or [[n/_neutralizes|neutralizes]] [[a/_acidity|acidity]], [[e/_especially|especially]] in the stomach.**
 ---
 #adjective
-- **[[c/_counteracting|Counteracting]] or neutralizing [[a/_acidity|acidity]], [[e/_especially|especially]] in the stomach.**
+- **[[c/_counteracting|Counteracting]] or [[n/_neutralizing|neutralizing]] [[a/_acidity|acidity]], [[e/_especially|especially]] in the stomach.**
 ---
 ---
