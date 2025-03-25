@@ -1,7 +1,0 @@
-# Refloating
----
-#verb
-- **To [[c/_cause|cause]] to [[f/_float|float]] [[a/_again|again]].**
-	- _Example: Removing fuel from the sunken ship will make it easier to refloat it._
----
----

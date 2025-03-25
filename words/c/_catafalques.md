@@ -1,6 +1,0 @@
-# Catafalques
----
-#noun
-- **A [[p/_platform|platform]] used to [[d/_display|display]] or [[c/_convey|convey]] a [[c/_coffin|coffin]] [[d/_during|during]] a [[f/_funeral|funeral]], [[o/_often|often]] [[o/_ornate|ornate]].**
----
----

@@ -1,8 +1,0 @@
-# Crapulent
----
-#adjective
-- **[[e/_exhibiting|Exhibiting]] or [[r/_relating|relating]] to [[c/_crapulence|crapulence]].**
----
-### Synonyms
-- [[c/_crapulous|crapulous]]
----

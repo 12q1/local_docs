@@ -1,6 +1,0 @@
-# Awhirl
----
-#adjective
-- **Whirling.**
----
----

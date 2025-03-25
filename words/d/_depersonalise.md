@@ -1,9 +1,0 @@
-# Depersonalise
----
-#verb
-- **To [[r/_remove|remove]] a [[s/_sense|sense]] of [[p/_personal|personal]] [[i/_identity|identity]] or [[i/_individual|individual]] [[c/_character|character]] from [[s/_something|something]].**
-- **To [[p/_present|present]] ([[s/_something|something]]) as an [[i/_impersonal|impersonal]] [[o/_object|object]].**
-- **To [[s/_suffer|suffer]] an [[e/_episode|episode]] of [[d/_depersonalization|depersonalization]].**
-	- _Example: He's depersonalizing right now, so he's considering checking himself into the hospital._
----
----

@@ -1,6 +1,0 @@
-# Activism
----
-#noun
-- **The [[p/_practice|practice]] of using [[a/_action|action]] to [[a/_achieve|achieve]] a [[r/_result|result]], [[s/_such|such]] as [[p/_political|political]] [[d/_demonstration|demonstration]] or a [[s/_strike|strike]] in support of or in [[o/_opposition|opposition]] to an [[i/_issue|issue]].**
----
----

@@ -1,6 +1,0 @@
-# Picnicky
----
-#adjective
-- **Picniclike**
----
----

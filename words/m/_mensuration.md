@@ -1,9 +1,0 @@
-# Mensuration
----
-#noun
-- **The [[a/_act|act]] or [[p/_process|process]] of [[m/_measuring|measuring]]; [[m/_measurement|measurement]].**
-- **The [[s/_study|study]] of [[m/_measurement|measurement]], [[e/_especially|especially]] the [[d/_derivation|derivation]] and use of [[a/_algebraic|algebraic]] [[f/_formulae|formulae]] to [[m/_measure|measure]] the [[a/_areas|areas]], volumes and [[d/_different|different]] [[p/_parameters|parameters]] of [[g/_geometric|geometric]] [[f/_figures|figures]].**
-- **A 13th [[c/_century|century]] [[s/_system|system]] for [[g/_governing|governing]] [[r/_rhythmic|rhythmic]] [[r/_relationships|relationships]] in [[m/_music|music]] that was a [[p/_precursor|precursor]] to the [[m/_modern|modern]] use of time [[s/_signatures|signatures]]; The use of [[m/_mensural|mensural]] [[n/_notation|notation]].**
-- **The use of [[q/_quantitative|quantitative]] [[m/_measurements|measurements]] of [[f/_forest|forest]] [[s/_stand|stand]] to [[d/_determine|determine]] [[s/_stand|stand]] timber volume, [[p/_productivity|productivity]], and [[h/_health|health]].**
----
----

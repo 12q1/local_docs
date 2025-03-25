@@ -1,7 +1,0 @@
-# Outspends
----
-#verb
-- **To [[s/_spend|spend]] [[m/_more|more]] than [[s/_some|some]] [[l/_limit|limit]] or than [[a/_another|another]] [[e/_entity|entity]].**
-	- _Example: Statistics show that political candidates who greatly outspend their opponents win more frequently._
----
----

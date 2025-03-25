@@ -1,6 +1,0 @@
-# Confidently
----
-#adverb
-- **In a [[c/_confident|confident]] [[m/_manner|manner]]; with [[c/_confidence|confidence]]; with [[s/_strong|strong]] [[a/_assurance|assurance]]; [[p/_positively|positively]].**
----
----

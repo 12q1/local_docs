@@ -1,6 +1,0 @@
-# Hyperextend
----
-#verb
-- **To [[e/_extend|extend]] a [[j/_joint|joint]] [[b/_beyond|beyond]] [[i/_its|its]] [[n/_normal|normal]] [[p/_position|position]] in a way that [[s/_stresses|stresses]] the [[l/_ligaments|ligaments]], [[o/_often|often]] [[c/_causing|causing]] [[i/_injury|injury]]**
----
----

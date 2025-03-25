@@ -1,6 +1,0 @@
-# Patronne
----
-#noun
-- **(in [[f/_france|France]]) A woman who is the [[o/_owner|owner]] (or wife of an [[o/_owner|owner]]) of a [[b/_business|business]] [[s/_such|such]] as a [[b/_bar|bar]] or [[r/_restaurant|restaurant]]**
----
----

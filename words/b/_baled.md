@@ -1,6 +1,0 @@
-# Baled
----
-#verb
-- **To [[r/_remove|remove]] water from a [[b/_boat|boat]] with [[b/_buckets|buckets]] [[e/_etc|etc]].**
----
----

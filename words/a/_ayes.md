@@ -1,9 +1,0 @@
-# Ayes
----
-#noun
-- **An [[a/_affirmative|affirmative]] vote; [[o/_one|one]] who votes in the [[a/_affirmative|affirmative]].**
-	- _Example: "To call for the ayes and nays;" "The ayes have it."_
----
-### Synonyms
-- [[y/_yes|yes]]
----

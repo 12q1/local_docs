@@ -1,7 +1,0 @@
-# Hopsacks
----
-#noun
-- **A [[h/_hemp|hemp]] [[s/_sack|sack]] used for [[h/_holding|holding]] [[h/_hops|hops]].**
-- **A [[c/_coarse|coarse]], [[l/_loosely|loosely]]-woven [[c/_clothing|clothing]] [[f/_fabric|fabric]].**
----
----

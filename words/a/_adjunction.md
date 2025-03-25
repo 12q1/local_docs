@@ -1,8 +1,0 @@
-# Adjunction
----
-#noun
-- **The [[a/_act|act]] of [[j/_joining|joining]]; the thing [[j/_joined|joined]] or [[a/_added|added]].**
-- **The [[j/_joining|joining]] of [[p/_personal|personal]] [[p/_property|property]] [[o/_owned|owned]] by [[o/_one|one]] to that [[o/_owned|owned]] by [[a/_another|another]].**
-- **[[g/_given|Given]] a [[p/_pair|pair]] of [[c/_categories|categories]] \mathcal{[[c/_c|C]]} and \mathcal{[[d/_d|D]]}: an [[a/_anti|anti]]-[[p/_parallel|parallel]] [[p/_pair|pair]] of [[f/_functors|functors]] [[f/_f|F]]:\mathcal{[[c/_c|C]]}\rightarrow \mathcal{[[d/_d|D]]} and [[g/_g|G]]:\mathcal{[[d/_d|D]]}\rightarrow \mathcal{[[c/_c|C]]} and a [[n/_natural|natural]] transformation \[[e/_eta|eta]]:\mbox{[[i/_id|id]]}_C \rightarrow GF [[c/_called|called]] “unit” [[s/_such|such]] that for [[a/_any|any]] [[o/_object|object]] A \in \mathcal{[[c/_c|C]]}, for [[a/_any|any]] [[o/_object|object]] [[b/_b|B]] \in \mathcal{[[d/_d|D]]}, and for [[a/_any|any]] [[m/_morphism|morphism]] [[f/_f|f]]:A\rightarrow GB, there is a unique [[m/_morphism|morphism]] [[g/_g|g]]:[[f/_fa|FA]]\rightarrow [[b/_b|B]] [[s/_such|such]] that Gg \[[c/_circ|circ]] \eta_A = [[f/_f|f]]. ([[n/_note|Note]]: there is [[a/_another|another]] [[n/_natural|natural]] transformation [[c/_called|called]] “counit” as well but [[i/_its|its]] [[e/_existence|existence]] [[m/_may|may]] be [[d/_derived|derived]] by theorem.) The [[p/_pair|pair]] of [[f/_functors|functors]] [[e/_express|express]] a [[s/_similarity|similarity]] [[b/_between|between]] the [[p/_pair|pair]] of [[c/_categories|categories]] which is weaker than that of an [[e/_equivalence|equivalence]] of [[c/_categories|categories]].**
----
----

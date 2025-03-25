@@ -1,6 +1,0 @@
-# Revengeful
----
-#adjective
-- **Vengeful, vindictive.**
----
----

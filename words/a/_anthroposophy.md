@@ -1,7 +1,0 @@
-# Anthroposophy
----
-#noun
-- **(as used [[b/_before|before]] [[r/_rudolf|Rudolf]] Steiner) [[k/_knowledge|Knowledge]] or understanding of [[h/_human|human]] [[n/_nature|nature]].**
-- **A [[s/_spiritual|spiritual]] [[m/_movement|movement]] [[i/_inaugurated|inaugurated]] by [[r/_rudolf|Rudolf]] Steiner ([[a/_also|also]] [[c/_capitalized|capitalized]] as [[a/_anthroposophy|Anthroposophy]]), [[p/_postulating|postulating]] the [[e/_existence|existence]] of an [[o/_objective|objective]], [[i/_intellectually|intellectually]] [[c/_comprehensible|comprehensible]] [[s/_spiritual|spiritual]] world [[a/_accessible|accessible]] to [[d/_direct|direct]] [[e/_experience|experience]] through [[i/_inner|inner]] [[d/_development|development]].**
----
----

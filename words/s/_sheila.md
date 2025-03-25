@@ -1,6 +1,0 @@
-# Sheila
----
-#noun
-- **A woman.**
----
----

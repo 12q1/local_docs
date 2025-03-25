@@ -1,7 +1,0 @@
-# Lire
----
-#noun
-- **[[f/_flesh|Flesh]], [[b/_brawn|brawn]], or [[m/_muscle|muscle]]; the [[f/_fleshy|fleshy]] [[p/_part|part]] of a [[p/_person|person]] or [[a/_animal|animal]] in [[c/_contradistinction|contradistinction]] to the [[b/_bone|bone]] and [[s/_skin|skin]].**
-- **The [[f/_fleshy|fleshy]] [[p/_part|part]] of a [[r/_roast|roast]] [[c/_capon|capon]], [[e/_etc|etc]]. as [[d/_distinguished|distinguished]] from a [[l/_limb|limb]] or [[j/_joint|joint]].**
----
----

@@ -1,6 +1,0 @@
-# Monovalent
----
-#adjective
-- **Univalent.**
----
----

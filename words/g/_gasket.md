@@ -1,9 +1,0 @@
-# Gasket
----
-#noun
-- **A [[l/_length|length]] of [[r/_rope|rope]] used for [[r/_reefing|reefing]] a [[s/_sail|sail]], or [[h/_holding|holding]] a [[s/_stowed|stowed]] [[s/_sail|sail]] in [[p/_place|place]].**
-- **[[a/_any|Any]] [[m/_mechanical|mechanical]] [[s/_seal|seal]] that [[s/_serves|serves]] to [[f/_fill|fill]] the [[s/_space|space]] [[b/_between|between]] two [[o/_objects|objects]], [[g/_generally|generally]] to [[p/_prevent|prevent]] [[l/_leakage|leakage]] [[b/_between|between]] the two [[o/_objects|objects]] while under [[c/_compression|compression]].**
-- **A [[m/_material|material]] which [[m/_may|may]] be [[c/_clamped|clamped]] [[b/_between|between]] [[f/_faces|faces]] and [[a/_acts|acts]] as a [[s/_static|static]] [[s/_seal|seal]]. [[g/_gaskets|Gaskets]] [[m/_may|may]] be [[c/_cut|cut]], [[f/_formed|formed]], or [[m/_molded|molded]] to the [[d/_desired|desired]] [[c/_configuration|configuration]].**
-- **[[a/_any|Any]] of a wide variety of [[s/_seals|seals]] or [[p/_packings|packings]] used [[b/_between|between]] [[m/_matched|matched]] [[m/_machine|machine]] [[p/_parts|parts]] or [[a/_around|around]] [[p/_pipe|pipe]] [[j/_joints|joints]] to [[p/_prevent|prevent]] the [[e/_escape|escape]] of a [[g/_gas|gas]] or [[f/_fluid|fluid]].**
----
----

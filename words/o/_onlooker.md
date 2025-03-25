@@ -1,9 +1,0 @@
-# Onlooker
----
-#noun
-- **A [[s/_spectator|spectator]]; [[s/_someone|someone]] [[l/_looks|looks]] on or watches, without [[b/_becoming|becoming]] [[i/_involved|involved]] or [[p/_participating|participating]].**
-	- _Example: I wasn’t involved in the fight; I was only an onlooker._
----
-### Synonyms
-- [[b/_bystander|bystander]]
----

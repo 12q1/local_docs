@@ -1,6 +1,0 @@
-# Inconel
----
-#noun
-- **A [[c/_corrosion|corrosion]] and [[o/_oxidation|oxidation]] [[r/_resistant|resistant]] [[n/_nickel|nickel]]-[[c/_chromium|chromium]] [[s/_superalloy|superalloy]] [[f/_family|family]] which [[r/_retains|retains]] [[s/_strength|strength]] at [[h/_high|high]] temperatures**
----
----

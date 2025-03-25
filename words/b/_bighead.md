@@ -1,8 +1,0 @@
-# Bighead
----
-#noun
-- **([[e/_especially|especially]] used by [[c/_children|children]]) A [[p/_person|person]] [[h/_having|having]] an [[i/_inflated|inflated]] [[o/_opinion|opinion]] of [[h/_himself|himself]]; a [[c/_conceited|conceited]] or [[a/_arrogant|arrogant]] [[p/_person|person]].**
-- **[[o/_one|One]] of [[s/_several|several]] [[s/_species|species]] of [[f/_fish|fish]] [[h/_having|having]] a [[l/_large|large]] [[h/_head|head]].**
-- **[[o/_one|One]] of [[s/_several|several]] [[a/_animal|animal]] [[d/_diseases|diseases]] that [[c/_cause|cause]] swelling of the [[h/_head|head]].**
----
----

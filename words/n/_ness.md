@@ -1,6 +1,0 @@
-# Ness
----
-#noun
-- **A [[p/_promontory|promontory]]; a [[c/_cape|cape]] or [[h/_headland|headland]]. ([[f/_frequently|Frequently]] used as a [[s/_suffix|suffix]] in placenames.)**
----
----

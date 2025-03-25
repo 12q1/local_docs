@@ -1,9 +1,0 @@
-# Ceratobranchial
----
-#noun
-- **A [[c/_ceratobranchial|ceratobranchial]] [[b/_bone|bone]] or [[c/_cartilage|cartilage]].**
----
-#adjective
-- **[[r/_relating|Relating]] to the [[b/_bone|bone]] or [[c/_cartilage|cartilage]] [[b/_below|below]] the [[e/_epibranchial|epibranchial]] in a [[b/_branchial|branchial]] [[a/_arch|arch]].**
----
----

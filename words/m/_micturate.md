@@ -1,6 +1,0 @@
-# Micturate
----
-#verb
-- **To urinate.**
----
----

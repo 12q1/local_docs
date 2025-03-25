@@ -1,8 +1,0 @@
-# Chartering
----
-#verb
-- **To [[g/_grant|grant]] or [[e/_establish|establish]] a [[c/_charter|charter]].**
-- **To [[l/_lease|lease]] or [[h/_hire|hire]] [[s/_something|something]] by [[c/_charter|charter]].**
-- **(of a [[p/_peace|peace]] [[o/_officer|officer]]) To [[i/_inform|inform]] (an [[a/_arrestee|arrestee]]) of their [[c/_constitutional|constitutional]] [[r/_rights|rights]] under the [[c/_canadian|Canadian]] [[c/_charter|Charter]] of [[r/_rights|Rights]] and [[f/_freedoms|Freedoms]] upon [[a/_arrest|arrest]].**
----
----

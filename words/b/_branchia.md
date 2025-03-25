@@ -1,6 +1,0 @@
-# Branchia
----
-#noun
-- **A [[g/_gill|gill]] or [[o/_other|other]] [[o/_organ|organ]] [[h/_having|having]] the [[s/_same|same]] [[f/_function|function]].**
----
----

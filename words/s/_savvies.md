@@ -1,6 +1,0 @@
-# Savvies
----
-#verb
-- **To understand.**
----
----

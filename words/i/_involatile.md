@@ -1,6 +1,0 @@
-# Involatile
----
-#adjective
-- **Not volatile.**
----
----

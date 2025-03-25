@@ -1,9 +1,0 @@
-# Armaments
----
-#noun
-- **A [[b/_body|body]] of [[f/_forces|forces]] [[e/_equipped|equipped]] for war.**
-- **[[a/_all|All]] the [[c/_cannon|cannon]] and [[s/_small|small]] [[a/_arms|arms]] [[c/_collectively|collectively]], with their [[e/_equipments|equipments]], [[b/_belonging|belonging]] to a [[s/_ship|ship]] or a [[f/_fortification|fortification]].**
-- **[[a/_any|Any]] [[e/_equipment|equipment]] for [[r/_resistance|resistance]].**
-- **The [[p/_process|process]] of [[b/_building|building]] up [[m/_military|military]] [[c/_capacity|capacity]].**
----
----

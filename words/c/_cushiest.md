@@ -1,8 +1,0 @@
-# Cushiest
----
-#adjective
-- **[[e/_easy|Easy]], [[m/_making|making]] [[f/_few|few]] [[d/_demands|demands]], [[c/_comfortable|comfortable]].**
-	- _Example: This is a really cushy job. Mostly I just sit around drinking tea._
-- **[[c/_comfortable|Comfortable]]; [[o/_often|often]] in a way that will [[s/_suit|suit]] a [[p/_person|person]]'[[s/_s|s]] [[b/_body|body]].**
----
----

@@ -1,6 +1,0 @@
-# Platan
----
-#noun
-- **A planetree.**
----
----

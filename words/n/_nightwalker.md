@@ -1,6 +1,0 @@
-# Nightwalker
----
-#noun
-- **A vampire.**
----
----

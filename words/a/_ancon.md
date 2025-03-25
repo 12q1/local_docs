@@ -1,9 +1,0 @@
-# Ancon
----
-#noun
-- **The [[c/_corner|corner]] of a wall or [[r/_rafter|rafter]].**
-- **A [[c/_console|console]] that [[a/_appears|appears]] to support a [[c/_cornice|cornice]].**
-- **The [[e/_elbow|elbow]].**
-- **The [[o/_olecranon|olecranon]].**
----
----

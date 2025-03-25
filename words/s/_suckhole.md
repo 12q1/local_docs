@@ -1,6 +1,0 @@
-# Suckhole
----
-#noun
-- **A whirlpool**
----
----

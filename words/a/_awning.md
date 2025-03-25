@@ -1,7 +1,0 @@
-# Awning
----
-#noun
-- **A [[r/_rooflike|rooflike]] [[c/_cover|cover]], usually of [[c/_canvas|canvas]], [[e/_extended|extended]] [[o/_over|over]] or [[b/_before|before]] [[a/_any|any]] [[p/_place|place]] as a [[s/_shelter|shelter]] from the [[s/_sun|sun]], [[r/_rain|rain]], or wind.**
-- **That [[p/_part|part]] of the [[p/_poop|poop]] [[d/_deck|deck]] which is [[c/_continued|continued]] [[f/_forward|forward]] [[b/_beyond|beyond]] the [[b/_bulkhead|bulkhead]] of the [[c/_cabin|cabin]].**
----
----

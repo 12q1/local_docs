@@ -1,7 +1,0 @@
-# Schussed
----
-#verb
-- **To [[s/_ski|ski]] a [[s/_schuss|schuss]].**
-	- _Example: When, on his first time on skis, he just schussed down the mountain, we knew he was a natural._
----
----

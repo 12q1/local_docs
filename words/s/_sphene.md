@@ -1,6 +1,0 @@
-# Sphene
----
-#noun
-- **Titanite**
----
----

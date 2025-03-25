@@ -1,7 +1,0 @@
-# Disamenity
----
-#noun
-- **A [[d/_disadvantage|disadvantage]] or [[d/_drawback|drawback]], [[e/_especially|especially]] of a [[l/_location|location]]**
-	- _Example: The noise and dust from the steel works created substantial disamenity for the nearby retirement home._
----
----

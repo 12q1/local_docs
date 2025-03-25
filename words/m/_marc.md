@@ -1,7 +1,0 @@
-# Marc
----
-#noun
-- **The [[r/_refuse|refuse]] [[m/_matter|matter]] that [[r/_remains|remains]] [[a/_after|after]] [[f/_fruit|fruit]], [[p/_particularly|particularly]] [[g/_grapes|grapes]], [[h/_has|has]] [[b/_been|been]] [[p/_pressed|pressed]].**
-- **An [[a/_alcoholic|alcoholic]] [[s/_spirit|spirit]] [[d/_distilled|distilled]] from the [[m/_marc|marc]] of [[g/_grapes|grapes]].**
----
----

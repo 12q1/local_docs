@@ -1,6 +1,0 @@
-# Micturating
----
-#verb
-- **To urinate.**
----
----

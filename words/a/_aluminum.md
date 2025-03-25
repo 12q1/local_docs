@@ -1,8 +1,0 @@
-# Aluminum
----
-#noun
-- **A [[m/_metallic|metallic]] [[c/_chemical|chemical]] [[e/_element|element]] ([[s/_symbol|symbol]] [[a/_al|Al]]) with an [[a/_atomic|atomic]] [[n/_number|number]] of 13.**
-- **A [[s/_single|single]] [[a/_atom|atom]] of this [[e/_element|element]].**
-- **[[a/_aircraft|Aircraft]] or [[o/_other|other]] [[m/_machinery|machinery]] [[m/_made|made]] [[p/_partially|partially]] or wholly of [[a/_aluminum|aluminum]].**
----
----

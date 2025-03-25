@@ -1,6 +1,0 @@
-# Scungilli
----
-#noun
-- **Whelk**
----
----

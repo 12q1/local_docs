@@ -1,8 +1,0 @@
-# Buoyancy
----
-#noun
-- **The upward [[f/_force|force]] on a [[b/_body|body]] [[i/_immersed|immersed]] or [[p/_partly|partly]] [[i/_immersed|immersed]] in a [[f/_fluid|fluid]].**
-- **The [[a/_ability|ability]] of an [[o/_object|object]] to [[s/_stay|stay]] [[a/_afloat|afloat]] in a [[f/_fluid|fluid]].**
-- **(by [[e/_extension|extension]]) [[r/_resilience|Resilience]] or [[c/_cheerfulness|cheerfulness]].**
----
----

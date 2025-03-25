@@ -1,9 +1,0 @@
-# Equilibrates
----
-#verb
-- **To [[b/_balance|balance]], or [[b/_bring|bring]] [[i/_into|into]] [[e/_equilibrium|equilibrium]].**
-- **To [[b/_balance|balance]], to be in a [[s/_state|state]] of [[e/_equilibrium|equilibrium]].**
----
-### Synonyms
-- [[e/_equilibrize|equilibrize]]
----

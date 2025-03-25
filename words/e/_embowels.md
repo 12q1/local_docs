@@ -1,9 +1,0 @@
-# Embowels
----
-#verb
-- **To [[e/_enclose|enclose]] or [[b/_bury|bury]].**
-- **To [[r/_remove|remove]] the [[b/_bowels|bowels]]; [[d/_disembowel|disembowel]].**
----
-### Synonyms
-- [[b/_bury|bury]], [[e/_embed|embed]], [[e/_enclose|enclose]], [[i/_inclose|inclose]], [[d/_disembowel|disembowel]], [[e/_eviscerate|eviscerate]]
----

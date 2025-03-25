@@ -1,7 +1,0 @@
-# Assessment
----
-#noun
-- **The [[a/_act|act]] of [[a/_assessing|assessing]] or an [[a/_amount|amount]] (of tax, [[l/_levy|levy]] or [[d/_duty|duty]] [[e/_etc|etc]]) [[a/_assessed|assessed]].**
-- **An [[a/_appraisal|appraisal]] or [[e/_evaluation|evaluation]].**
----
----

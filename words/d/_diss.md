@@ -1,9 +1,0 @@
-# Diss
----
-#noun
-- **An [[i/_insult|insult]] or [[p/_put|put]]-[[d/_down|down]]; an [[e/_expression|expression]] of [[d/_disrespect|disrespect]].**
----
-#verb
-- **To [[p/_put|put]] ([[s/_someone|someone]]) [[d/_down|down]], or [[s/_show|show]] [[d/_disrespect|disrespect]] by the use of [[i/_insulting|insulting]] [[l/_language|language]] or [[d/_dismissive|dismissive]] [[b/_behaviour|behaviour]].**
----
----

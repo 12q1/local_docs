@@ -1,8 +1,0 @@
-# Crossbeams
----
-#noun
-- **A [[h/_horizontal|horizontal]] [[s/_structural|structural]] [[b/_beam|beam]] that [[r/_runs|runs]] [[p/_perpendicular|perpendicular]] to the [[p/_primary|primary]] support [[b/_beams|beams]]; a [[g/_girder|girder]].**
-	- _Example: The workman hung a light from a crossbeam between the main joists._
-- **A [[b/_beam|beam]] [[l/_laid|laid]] [[a/_across|across]] the [[b/_bitts|bitts]], to which the [[c/_cable|cable]] is [[f/_fastened|fastened]] when [[r/_riding|riding]] at [[a/_anchor|anchor]].**
----
----

@@ -1,6 +1,0 @@
-# Avirulent
----
-#adjective
-- **Not virulent.**
----
----

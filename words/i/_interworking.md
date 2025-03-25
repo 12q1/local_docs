@@ -1,6 +1,0 @@
-# Interworking
----
-#noun
-- **Interoperability.**
----
----

@@ -1,6 +1,0 @@
-# Siderostat
----
-#noun
-- **A [[h/_heliostat|heliostat]] that [[m/_may|may]] be used with [[s/_stars|stars]] as well as the [[s/_sun|sun]].**
----
----

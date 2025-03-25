@@ -1,7 +1,0 @@
-# Homophones
----
-#noun
-- **A word which is [[p/_pronounced|pronounced]] the [[s/_same|same]] as [[a/_another|another]] word but [[d/_differs|differs]] in [[s/_spelling|spelling]] or [[m/_meaning|meaning]] or [[o/_origin|origin]].**
-- **A [[l/_letter|letter]] or [[g/_group|group]] of [[l/_letters|letters]] which are [[p/_pronounced|pronounced]] the [[s/_same|same]] as [[a/_another|another]] [[l/_letter|letter]] or [[g/_group|group]] of [[l/_letters|letters]].**
----
----

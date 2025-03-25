@@ -1,9 +1,0 @@
-# Avouched
----
-#verb
-- **To [[d/_declare|declare]] [[f/_freely|freely]] and [[o/_openly|openly]]; to [[a/_assert|assert]].**
-- **To [[a/_acknowledge|acknowledge]] [[d/_deliberately|deliberately]]; to [[a/_admit|admit]]; to [[c/_confess|confess]]; to [[s/_sanction|sanction]].**
-- **To [[c/_confirm|confirm]] or verify, to [[a/_affirm|affirm]] the validity of.**
-- **To [[a/_appeal|appeal]] to; to [[c/_cite|cite]] or [[c/_claim|claim]] as [[a/_authority|authority]].**
----
----

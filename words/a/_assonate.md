@@ -1,7 +1,0 @@
-# Assonate
----
-#verb
-- **To [[c/_correspond|correspond]] in ([[p/_particularly|particularly]] vowel) [[s/_sounds|sounds]].**
-	- _Example: Part of the magic of her poetry was her ability to have her words assonate in the most propitious places._
----
----

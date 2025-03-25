@@ -1,7 +1,0 @@
-# Disbudding
----
-#noun
-- **[[r/_removal|Removal]] of [[s/_superfluous|superfluous]] [[b/_bud|bud]] [[g/_growths|growths]] from a [[p/_plant|plant]], [[d/_done|done]] to [[e/_encourage|encourage]] [[m/_more|more]] [[r/_robust|robust]] [[g/_growth|growth]] of the [[f/_fruit|fruit]].**
-- **In the [[r/_raising|raising]] of [[d/_domesticated|domesticated]] [[a/_animals|animals]] with [[h/_horns|horns]], [[s/_such|such]] as [[g/_goats|goats]], [[s/_sheep|sheep]], and [[c/_cows|cows]], the [[r/_removal|removal]] of the undeveloped [[h/_horns|horns]] from a [[y/_young|young]] [[a/_animal|animal]].**
----
----

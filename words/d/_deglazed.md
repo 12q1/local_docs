@@ -1,8 +1,0 @@
-# Deglazed
----
-#verb
-- **To [[r/_remove|remove]] [[g/_glaze|glaze]] from.**
-- **To [[a/_abrade|abrade]] the [[c/_cylinders|cylinders]] of an [[e/_engine|engine]] to [[e/_ensure|ensure]] a tight [[s/_seal|seal]].**
-- **To [[d/_detach|detach]] [[s/_small|small]] [[p/_pieces|pieces]] of [[c/_cooked|cooked]] [[f/_food|food]] from a [[p/_pan|pan]] by [[a/_adding|adding]] [[l/_liquid|liquid]], [[s/_so|so]] that they [[c/_can|can]] be used in [[f/_further|further]] [[c/_cooking|cooking]].**
----
----

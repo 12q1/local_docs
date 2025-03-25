@@ -1,9 +1,0 @@
-# Jaywalking
----
-#verb
-- **To [[b/_behave|behave]] as a [[j/_jaywalker|jaywalker]]; to violate [[p/_pedestrian|pedestrian]] traffic [[r/_regulations|regulations]] by [[c/_crossing|crossing]] a [[s/_street|street]] [[a/_away|away]] from a [[d/_designated|designated]] [[c/_crossing|crossing]] or to walk in the [[p/_part|part]] of the [[s/_street|street]] [[i/_intended|intended]] for vehicles [[r/_rather|rather]] than on the [[s/_sidewalk|sidewalk]].**
----
-#noun
-- **[[p/_present|Present]] [[p/_participle|participle]] of [[j/_jaywalk|jaywalk]].**
----
----

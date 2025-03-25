@@ -1,7 +1,0 @@
-# Itemize
----
-#verb
-- **To [[s/_state|state]] in [[i/_items|items]], or by [[p/_particulars|particulars]]**
-	- _Example: to itemize the cost of a railroad_
----
----

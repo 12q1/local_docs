@@ -1,6 +1,0 @@
-# Ralph
----
-#verb
-- **To vomit.**
----
----

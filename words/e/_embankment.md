@@ -1,6 +1,0 @@
-# Embankment
----
-#noun
-- **A [[l/_long|long]] [[m/_mound|mound]] of [[e/_earth|earth]], [[s/_stone|stone]], or [[s/_similar|similar]] [[m/_material|material]], usually [[b/_built|built]] for [[p/_purposes|purposes]] [[s/_such|such]] as to [[h/_hold|hold]] [[b/_back|back]] or [[s/_store|store]] water, for [[p/_protection|protection]] from weather or [[e/_enemies|enemies]], or to support a [[r/_road|road]] or [[r/_railway|railway]].**
----
----

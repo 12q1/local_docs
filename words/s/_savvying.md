@@ -1,6 +1,0 @@
-# Savvying
----
-#verb
-- **To understand.**
----
----

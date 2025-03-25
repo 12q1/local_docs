@@ -1,6 +1,0 @@
-# Hereunder
----
-#adverb
-- **Under this.**
----
----

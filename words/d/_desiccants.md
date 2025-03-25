@@ -1,6 +1,0 @@
-# Desiccants
----
-#noun
-- **A [[s/_substance|substance]] ([[s/_such|such]] as [[c/_calcium|calcium]] [[o/_oxide|oxide]] or [[s/_silica|silica]] [[g/_gel|gel]]) that is used as a [[d/_drying|drying]] [[a/_agent|agent]] [[b/_because|because]] of [[i/_its|its]] [[h/_high|high]] [[a/_affinity|affinity]] for water.**
----
----

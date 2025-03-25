@@ -1,6 +1,0 @@
-# Chelicera
----
-#noun
-- **[[e/_either|Either]] of the [[p/_prehensile|prehensile]] [[c/_claws|claws]] [[f/_found|found]] on the [[p/_proboscis|proboscis]] of chelicerates ([[h/_horseshoe|horseshoe]] [[c/_crabs|crabs]], [[s/_sea|sea]] [[s/_spiders|spiders]] and [[a/_arachnids|arachnids]]).**
----
----

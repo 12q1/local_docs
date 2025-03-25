@@ -1,6 +1,0 @@
-# Biocides
----
-#noun
-- **[[a/_any|Any]] [[a/_action|action]] or [[s/_substance|substance]] that [[c/_can|can]] [[d/_destroy|destroy]] [[l/_living|living]] [[o/_organisms|organisms]].**
----
----

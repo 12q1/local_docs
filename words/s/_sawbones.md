@@ -1,6 +1,0 @@
-# Sawbones
----
-#noun
-- **A surgeon.**
----
----

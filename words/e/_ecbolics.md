@@ -1,6 +1,0 @@
-# Ecbolics
----
-#noun
-- **An [[a/_agent|agent]] that [[p/_produces|produces]] [[a/_abortion|abortion]] of a [[f/_fetus|fetus]] or [[h/_hastens|hastens]] [[d/_delivery|delivery]] of the [[s/_same|same]].**
----
----

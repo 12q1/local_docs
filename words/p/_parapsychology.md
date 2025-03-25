@@ -1,6 +1,0 @@
-# Parapsychology
----
-#noun
-- **The [[s/_study|study]] of that which [[c/_cannot|cannot]] [[y/_yet|yet]] be [[e/_explained|explained]]; [[p/_psychic|psychic]] or [[o/_occult|occult]] [[p/_phenomena|phenomena]], [[s/_such|such]] as telepathy and [[g/_ghosts|ghosts]].**
----
----

@@ -1,6 +1,0 @@
-# Calzone
----
-#noun
-- **A [[b/_baked|baked]] [[i/_italian|Italian]] turnover [[m/_made|made]] of [[p/_pizza|pizza]] [[d/_dough|dough]] and [[s/_stuffed|stuffed]] with [[c/_cheese|cheese]] and [[o/_other|other]] toppings.**
----
----

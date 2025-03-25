@@ -1,7 +1,0 @@
-# Insurgencies
----
-#noun
-- **[[r/_rebellion|Rebellion]]; [[r/_revolt|revolt]]; the [[s/_state|state]] of [[b/_being|being]] [[i/_insurgent|insurgent]]**
-	- _Example: suppress the insurgency by isolating the rebels from the rest of the population_
----
----

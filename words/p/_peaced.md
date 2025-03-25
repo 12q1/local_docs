@@ -1,7 +1,0 @@
-# Peaced
----
-#verb
-- **To [[m/_make|make]] [[p/_peace|peace]]; to [[p/_put|put]] at [[p/_peace|peace]]; to be at [[p/_peace|peace]].**
-- **To [[p/_peace|peace]] [[o/_out|out]].**
----
----

@@ -1,8 +1,0 @@
-# Amiability
----
-#noun
-- **[[f/_friendliness|Friendliness]], [[e/_especially|especially]] [[e/_easy|easy]] [[a/_approachability|approachability]] [[o/_owing|owing]] to a [[c/_cheerful|cheerful]] and [[p/_pleasant|pleasant]] [[d/_disposition|disposition]].**
----
-### Synonyms
-- [[a/_affability|affability]], [[a/_amicability|amicability]], [[a/_approachability|approachability]], [[c/_cordiality|cordiality]], [[d/_douceur|douceur]], [[f/_friendliness|friendliness]]
----

@@ -1,7 +1,0 @@
-# Javelins
----
-#noun
-- **A [[l/_light|light]] [[s/_spear|spear]] thrown with the [[h/_hand|hand]] and used as a weapon.**
-- **A [[m/_metal|metal]]-tipped [[s/_spear|spear]] thrown for [[d/_distance|distance]] in an [[a/_athletic|athletic]] [[f/_field|field]] [[e/_event|event]].**
----
----

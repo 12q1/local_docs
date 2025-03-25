@@ -1,6 +1,0 @@
-# Honeysucker
----
-#noun
-- **A honeyeater.**
----
----

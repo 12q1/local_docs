@@ -1,6 +1,0 @@
-# Lithosols
----
-#noun
-- **Orthent**
----
----

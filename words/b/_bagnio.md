@@ -1,8 +1,0 @@
-# Bagnio
----
-#noun
-- **A [[b/_brothel|brothel]].**
-- **A [[b/_building|building]] for [[b/_bathing|bathing]], sweating.**
-- **In Turkey, a [[p/_prison|prison]] for [[s/_slaves|slaves]].**
----
----

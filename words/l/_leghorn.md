@@ -1,9 +1,0 @@
-# Leghorn
----
-#noun
-- **A type of [[d/_dried|dried]] [[p/_plaited|plaited]] wheat [[s/_straw|straw]] [[f/_fabric|fabric]].**
-- **A [[h/_hat|hat]] [[m/_made|made]] from that [[f/_fabric|fabric]].**
-- **A [[s/_small|small]] white [[c/_chicken|chicken]] of a [[h/_hardy|hardy]] [[b/_breed|breed]].**
-	- _Example: The cartoon character Foghorn Leghorn was obviously not actually a leghorn because he was much too big._
----
----

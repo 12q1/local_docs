@@ -1,8 +1,0 @@
-# Incurrent
----
-#adjective
-- **[[c/_carrying|Carrying]] [[i/_inward|inward]]; [[r/_relating|relating]] to an [[i/_inward|inward]] [[c/_current|current]].**
----
-### Antonyms
-- [[e/_excurrent|excurrent]]
----

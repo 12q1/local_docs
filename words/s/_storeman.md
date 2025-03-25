@@ -1,6 +1,0 @@
-# Storeman
----
-#noun
-- **A warehouseman.**
----
----

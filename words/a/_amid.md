@@ -1,8 +1,0 @@
-# Amid
----
-#preposition
-- **In the [[m/_middle|middle]] of; in the [[c/_center|center]] of; surrounded by.**
----
-### Synonyms
-- [[a/_among|among]], [[a/_amongst|amongst]]
----

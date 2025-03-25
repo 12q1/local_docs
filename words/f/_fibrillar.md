@@ -1,7 +1,0 @@
-# Fibrillar
----
-#adjective
-- **Of or [[p/_pertaining|pertaining]] to [[f/_fibrils|fibrils]].**
-- **[[h/_having|Having]] the [[c/_characteristics|characteristics]] of [[f/_fibrils|fibrils]].**
----
----

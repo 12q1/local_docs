@@ -1,6 +1,0 @@
-# Closeups
----
-#noun
-- **A video or [[f/_film|film]] [[r/_recording|recording]] [[m/_made|made]] with the [[c/_camera|camera]] [[p/_positioned|positioned]] [[c/_close|close]] to an [[a/_actor|actor]], [[o/_often|often]] [[s/_so|so]] that [[o/_only|only]] the [[h/_head|head]] or [[f/_face|face]] is visible.**
----
----

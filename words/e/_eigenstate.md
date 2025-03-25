@@ -1,6 +1,0 @@
-# Eigenstate
----
-#noun
-- **A [[d/_dynamic|dynamic]] [[q/_quantum|quantum]] [[m/_mechanical|mechanical]] [[s/_state|state]] whose wave [[f/_function|function]] is an [[e/_eigenvector|eigenvector]] that [[c/_corresponds|corresponds]] to a [[p/_physical|physical]] [[q/_quantity|quantity]]**
----
----

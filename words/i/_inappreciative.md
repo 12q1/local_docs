@@ -1,6 +1,0 @@
-# Inappreciative
----
-#adjective
-- **Unappreciative.**
----
----

@@ -1,7 +1,0 @@
-# Kecks
----
-#noun
-- **Trousers**
-- **Underpants**
----
----

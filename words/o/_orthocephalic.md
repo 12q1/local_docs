@@ -1,6 +1,0 @@
-# Orthocephalic
----
-#adjective
-- **Normocephalic**
----
----

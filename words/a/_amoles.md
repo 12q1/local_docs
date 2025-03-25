@@ -1,7 +1,0 @@
-# Amoles
----
-#noun
-- **[[a/_any|Any]] of various [[p/_parts|parts]] of the [[a/_agave|Agave]] (or [[s/_similar|similar]]) [[p/_plants|plants]], when used as [[s/_soap|soap]]**
-- **[[o/_other|Other]] [[m/_mexican|Mexican]] and [[n/_north|North]] [[a/_american|American]] [[p/_plants|plants]] used as [[s/_soap|soap]]**
----
----

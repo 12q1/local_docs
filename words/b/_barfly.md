@@ -1,6 +1,0 @@
-# Barfly
----
-#noun
-- **A [[p/_person|person]] who [[s/_spends|spends]] [[m/_much|much]] time in a [[b/_bar|bar]] or [[s/_similar|similar]] [[d/_drinking|drinking]] [[e/_establishment|establishment]]**
----
----

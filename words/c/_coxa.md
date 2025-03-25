@@ -1,6 +1,0 @@
-# Coxa
----
-#noun
-- **The [[b/_basal|basal]] [[s/_segment|segment]] of a [[l/_limb|limb]] of various [[a/_arthropods|arthropods]] ([[i/_insects|insects]] and [[s/_spiders|spiders]], for [[e/_example|example]]).**
----
----

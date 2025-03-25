@@ -1,6 +1,0 @@
-# Finalism
----
-#noun
-- **Teleology**
----
----

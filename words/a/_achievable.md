@@ -1,7 +1,0 @@
-# Achievable
----
-#adjective
-- **[[c/_capable|Capable]] of [[b/_being|being]] [[a/_achieved|achieved]], which [[e/_either|either]] [[m/_means|means]] [[p/_possible|possible]] or [[p/_probable|probable]].**
-- **Not [[l/_linked|linked]] to [[f/_fate|fate]] or [[o/_outside|outside]] [[i/_influences|influences]].**
----
----

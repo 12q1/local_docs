@@ -1,6 +1,0 @@
-# Polliwog
----
-#noun
-- **A tadpole.**
----
----

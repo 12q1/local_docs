@@ -1,8 +1,0 @@
-# Mullein
----
-#noun
-- **[[a/_any|Any]] of [[s/_several|several]] [[e/_european|European]] and [[a/_asian|Asian]] [[p/_plants|plants]], of the [[g/_genus|genus]] Verbascum, that [[h/_have|have]] [[y/_yellow|yellow]] [[f/_flowers|flowers]] and [[d/_downy|downy]] [[l/_leaves|leaves]]; the velvet [[p/_plant|plant]].**
----
-### Synonyms
-- [[f/_feltwort|feltwort]]
----

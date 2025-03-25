@@ -1,6 +1,0 @@
-# Holoenzyme
----
-#noun
-- **A haloenzyme.**
----
----

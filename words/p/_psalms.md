@@ -1,7 +1,0 @@
-# Psalms
----
-#noun
-- **A [[s/_sacred|sacred]] [[s/_song|song]]; a [[p/_poetical|poetical]] [[c/_composition|composition]] for use in the [[p/_praise|praise]] or worship of [[g/_god|God]].**
-- **[[o/_one|One]] of the [[h/_hymns|hymns]] by [[d/_david|David]] and [[o/_others|others]], [[c/_collected|collected]] [[i/_into|into]] [[o/_one|one]] [[b/_book|book]] of the [[o/_old|Old]] Testament, or a [[m/_modern|modern]] [[m/_metrical|metrical]] version of [[s/_such|such]] a [[h/_hymn|hymn]] for [[p/_public|public]] worship.**
----
----

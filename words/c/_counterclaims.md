@@ -1,6 +1,0 @@
-# Counterclaims
----
-#noun
-- **A [[s/_suit|suit]] [[f/_filed|filed]] by a [[d/_defendant|defendant]] [[a/_against|against]] a [[p/_plaintiff|plaintiff]] [[s/_secondary|secondary]] to the [[o/_original|original]] [[c/_complaint|complaint]].**
----
----

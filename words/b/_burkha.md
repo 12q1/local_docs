@@ -1,9 +1,0 @@
-# Burkha
----
-#noun
-- **An [[i/_islamic|Islamic]] [[g/_garment|garment]] that [[c/_covers|covers]] the whole [[b/_body|body]], which [[h/_has|has]] a [[n/_net|net]] [[s/_screen|screen]] [[c/_covering|covering]] the [[e/_eyes|eyes]] [[s/_so|so]] they [[c/_cannot|cannot]] be [[s/_seen|seen]], and is worn by women.**
-- **A [[d/_dress|dress]] [[m/_made|made]] from [[f/_felt|felt]] or [[k/_karakul|karakul]] (the [[s/_short|short]] [[c/_curly|curly]] [[f/_fur|fur]] of [[y/_young|young]] [[l/_lambs|lambs]] of the [[b/_breed|breed]] of that [[n/_name|name]]), traditionally worn by [[m/_men|men]] of the [[c/_caucasus|Caucasus]] [[r/_region|region]].**
----
-### Synonyms
-- [[c/_chadri|chadri]], [[p/_paranja|paranja]]
----

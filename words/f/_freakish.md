@@ -1,8 +1,0 @@
-# Freakish
----
-#adjective
-- **[[r/_resembling|Resembling]] a [[f/_freak|freak]].**
-- **[[s/_strange|Strange]], unusual, [[a/_abnormal|abnormal]] or [[b/_bizarre|bizarre]].**
-- **[[c/_capricious|Capricious]], unpredictable.**
----
----

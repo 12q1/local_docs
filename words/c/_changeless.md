@@ -1,6 +1,0 @@
-# Changeless
----
-#adjective
-- **Unchanging**
----
----

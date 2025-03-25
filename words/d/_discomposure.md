@@ -1,7 +1,0 @@
-# Discomposure
----
-#noun
-- **The [[s/_state|state]] of [[b/_being|being]] [[d/_discomposed|discomposed]].**
-- **[[d/_discordance|Discordance]]; [[d/_disagreement|disagreement]] of [[p/_parts|parts]].**
----
----

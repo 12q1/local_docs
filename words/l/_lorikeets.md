@@ -1,6 +1,0 @@
-# Lorikeets
----
-#noun
-- **[[a/_any|Any]] of various [[s/_small|small]], [[b/_brightly|brightly]] [[c/_coloured|coloured]] [[p/_parrots|parrots]] [[n/_native|native]] to Australasia. They are usually [[c/_classified|classified]] in the [[s/_subfamily|subfamily]] Loriinae.**
----
----

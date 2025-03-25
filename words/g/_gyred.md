@@ -1,6 +1,0 @@
-# Gyred
----
-#verb
-- **To whirl**
----
----

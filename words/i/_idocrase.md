@@ -1,6 +1,0 @@
-# Idocrase
----
-#noun
-- **Vesuvianite**
----
----

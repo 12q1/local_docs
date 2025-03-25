@@ -1,8 +1,0 @@
-# Dachshunds
----
-#noun
-- **A [[c/_certain|certain]] [[b/_breed|breed]] of [[d/_dog|dog]] [[h/_having|having]] [[s/_short|short]] [[l/_legs|legs]] and a [[l/_long|long]] trunk, [[i/_including|including]] [[m/_miniature|miniature]], [[l/_long|long]]-[[h/_haired|haired]], and [[s/_short|short]]-[[h/_haired|haired]] varieties.**
----
-### Synonyms
-- [[d/_dashhound|dashhound]]
----

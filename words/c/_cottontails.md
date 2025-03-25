@@ -1,7 +1,0 @@
-# Cottontails
----
-#noun
-- **A [[r/_rabbit|rabbit]] of [[a/_any|any]] of various [[s/_species|species]] in [[g/_genus|genus]] Sylvilagus.**
-- **([[n/_nudism|nudism]]) A [[p/_person|person]] with a tanned [[b/_body|body]] and untanned [[b/_buttocks|buttocks]], [[r/_resembling|resembling]] a [[c/_cottontail|cottontail]] [[r/_rabbit|rabbit]]'[[s/_s|s]] [[d/_dark|dark]] [[f/_fur|fur]] and [[l/_light|light]] tail.**
----
----

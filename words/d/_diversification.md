@@ -1,8 +1,0 @@
-# Diversification
----
-#noun
-- **The [[a/_act|act]], or the [[r/_result|result]], of [[d/_diversifying|diversifying]].**
-- **A [[c/_corporate|corporate]] [[s/_strategy|strategy]] in which a [[c/_company|company]] [[a/_acquires|acquires]] or [[e/_establishes|establishes]] a [[b/_business|business]] [[o/_other|other]] than that of [[i/_its|its]] [[c/_current|current]] [[p/_product|product]].**
-- **An [[i/_investment|investment]] [[s/_strategy|strategy]] [[i/_involving|involving]] [[i/_investing|investing]] in a [[r/_range|range]] of [[a/_assets|assets]] with [[d/_differing|differing]] [[f/_features|features]] in [[o/_order|order]] to [[r/_reduce|reduce]] [[s/_specific|specific]] [[r/_risk|risk]].**
----
----

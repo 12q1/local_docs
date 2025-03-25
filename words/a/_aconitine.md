@@ -1,6 +1,0 @@
-# Aconitine
----
-#noun
-- **An [[i/_intensely|intensely]] [[p/_poisonous|poisonous]] [[a/_alkaloid|alkaloid]], [[e/_extracted|extracted]] from [[a/_aconite|aconite]].**
----
----

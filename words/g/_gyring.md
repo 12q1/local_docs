@@ -1,6 +1,0 @@
-# Gyring
----
-#verb
-- **To whirl**
----
----

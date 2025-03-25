@@ -1,6 +1,0 @@
-# Nuncles
----
-#noun
-- **Uncle.**
----
----

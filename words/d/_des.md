@@ -1,6 +1,0 @@
-# Des
----
-#noun
-- **Desflurane.**
----
----

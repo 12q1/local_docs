@@ -1,9 +1,0 @@
-# Prattling
----
-#verb
-- **To [[s/_speak|speak]] [[i/_incessantly|incessantly]] and in a [[c/_childish|childish]] [[m/_manner|manner]]; to [[b/_babble|babble]].**
----
-#noun
-- **[[p/_prattle|Prattle]]; [[f/_foolish|foolish]] [[s/_speech|speech]].**
----
----

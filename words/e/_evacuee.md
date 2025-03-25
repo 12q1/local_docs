@@ -1,6 +1,0 @@
-# Evacuee
----
-#noun
-- **A [[p/_person|person]] who [[h/_has|has]] [[b/_been|been]] [[e/_evacuated|evacuated]], [[e/_especially|especially]] a [[c/_civilian|civilian]] [[e/_evacuated|evacuated]] from a [[d/_dangerous|dangerous]] [[p/_place|place]] in time of war**
----
----

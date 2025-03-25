@@ -1,8 +1,0 @@
-# Cityfied
----
-#adjective
-- **[[c/_characteristic|Characteristic]] of the [[s/_sophisticated|sophisticated]] [[c/_customs|customs]] or [[d/_dress|dress]] [[a/_associated|associated]] with [[c/_city|city]] [[l/_life|life]].**
----
-### Antonyms
-- [[c/_countrified|countrified]]
----

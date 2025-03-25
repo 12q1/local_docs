@@ -1,7 +1,0 @@
-# Cosigned
----
-#verb
-- **To [[s/_sign|sign]] a [[d/_document|document]] [[j/_jointly|jointly]] with [[a/_another|another]] [[p/_person|person]], [[s/_sometimes|sometimes]] as an [[e/_endorsement|endorsement]].**
-- **To [[a/_agree|agree]] with or [[e/_endorse|endorse]]**
----
----

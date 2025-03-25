@@ -1,6 +1,0 @@
-# Eisteddfodau
----
-#noun
-- **[[a/_any|Any]] of [[s/_several|several]] [[a/_annual|annual]] [[f/_festivals|festivals]] in which Welsh [[p/_poets|poets]], [[d/_dancers|dancers]], and [[m/_musicians|musicians]] [[c/_compete|compete]] for [[r/_recognition|recognition]].**
----
----

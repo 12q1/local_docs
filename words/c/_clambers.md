@@ -1,7 +1,0 @@
-# Clambers
----
-#verb
-- **To [[c/_climb|climb]] ([[s/_something|something]]) with [[s/_some|some]] [[d/_difficulty|difficulty]], or in a [[h/_haphazard|haphazard]] [[f/_fashion|fashion]].**
-	- _Example: The children clambered over the jungle gym._
----
----

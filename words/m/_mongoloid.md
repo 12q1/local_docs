@@ -1,8 +1,0 @@
-# Mongoloid
----
-#noun
-- **A [[m/_member|member]] of the [[r/_racial|racial]] [[c/_classification|classification]] of [[h/_humanity|humanity]] [[c/_composed|composed]] of [[p/_peoples|peoples]] [[n/_native|native]] to [[n/_north|North]] [[a/_asia|Asia]], [[e/_east|East]] [[a/_asia|Asia]], [[p/_pacific|Pacific]] [[o/_oceania|Oceania]], and the [[a/_americas|Americas]], as well as their [[d/_diaspora|diaspora]] in [[o/_other|other]] [[p/_parts|parts]] of the world.**
-- **A [[p/_person|person]] with [[d/_down|Down]] [[s/_syndrome|syndrome]].**
-- **[[i/_idiot|Idiot]], [[r/_retard|retard]]; a [[g/_general|general]] term of [[a/_abuse|abuse]], [[d/_due|due]] to [[a/_association|association]] with [[d/_down|Down]] [[s/_syndrome|syndrome]].**
----
----

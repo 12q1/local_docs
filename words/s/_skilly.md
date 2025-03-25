@@ -1,6 +1,0 @@
-# Skilly
----
-#noun
-- **Skillygalee.**
----
----

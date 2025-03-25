@@ -1,7 +1,0 @@
-# Crosshead
----
-#noun
-- **A [[m/_metal|metal]] [[b/_beam|beam]] that [[c/_connects|connects]] a [[p/_piston|piston]] to a [[c/_connecting|connecting]] [[r/_rod|rod]] in an [[e/_engine|engine]].**
-- **[[l/_large|Large]] text, [[l/_like|like]] a [[h/_headline|headline]] but typically [[d/_drawn|drawn]] from the [[a/_article|article]], [[p/_placed|placed]] [[p/_partway|partway]] through the [[a/_article|article]] to [[b/_break|break]] it up visually.**
----
----

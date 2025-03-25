@@ -1,6 +1,0 @@
-# Gammer
----
-#noun
-- **An [[o/_old|old]] woman.**
----
----

@@ -1,6 +1,0 @@
-# Irreparable
----
-#adjective
-- **[[i/_incapable|Incapable]] of [[b/_being|being]] [[r/_repaired|repaired]], [[a/_amended|amended]], [[c/_cured|cured]] or [[r/_rectified|rectified]]; unrepairable.**
----
----

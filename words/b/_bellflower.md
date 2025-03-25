@@ -1,7 +1,0 @@
-# Bellflower
----
-#noun
-- **[[a/_any|Any]] of [[m/_many|many]] [[p/_plants|plants]] that [[p/_produce|produce]] [[f/_flowers|flowers]] that are [[b/_bell|bell]]-[[l/_like|like]].**
-- **A [[f/_flower|flower]] of [[o/_one|one]] of these [[p/_plants|plants]], which is [[s/_shaped|shaped]] [[l/_like|like]] a [[b/_bell|bell]].**
----
----

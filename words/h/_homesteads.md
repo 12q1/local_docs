@@ -1,9 +1,0 @@
-# Homesteads
----
-#noun
-- **A [[h/_house|house]] together with surrounding [[l/_land|land]] and [[b/_buildings|buildings]], [[e/_especially|especially]] on a [[f/_farm|farm]]; the [[p/_property|property]] [[c/_comprising|comprising]] these.**
-- **The [[p/_place|place]] that is [[o/_one|one]]'[[s/_s|s]] [[h/_home|home]].**
-- **A [[c/_cluster|cluster]] of [[s/_several|several]] [[h/_houses|houses]] [[o/_occupied|occupied]] by an [[e/_extended|extended]] [[f/_family|family]].**
-- **The [[h/_home|home]] or [[s/_seat|seat]] of a [[f/_family|family]]; [[p/_place|place]] of [[o/_origin|origin]].**
----
----

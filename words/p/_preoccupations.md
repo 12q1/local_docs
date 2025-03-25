@@ -1,9 +1,0 @@
-# Preoccupations
----
-#noun
-- **The [[s/_state|state]] of [[b/_being|being]] [[p/_preoccupied|preoccupied]] or an [[i/_idea|idea]] that [[p/_preoccupies|preoccupies]] the [[m/_mind|mind]]; [[e/_enthrallment|enthrallment]].**
-- **The [[a/_act|act]] of [[o/_occupying|occupying]] [[s/_something|something]] [[b/_before|before]] [[s/_someone|someone]] [[e/_else|else]].**
----
-### Synonyms
-- [[p/_preoccupancy|preoccupancy]]
----

@@ -1,6 +1,0 @@
-# Otology
----
-#noun
-- **The [[b/_branch|branch]] of [[m/_medicine|medicine]] that [[d/_deals|deals]] with the [[e/_ear|ear]], [[i/_its|its]] [[s/_structure|structure]], [[f/_function|function]] and [[p/_pathology|pathology]].**
----
----

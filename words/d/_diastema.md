@@ -1,8 +1,0 @@
-# Diastema
----
-#noun
-- **A [[g/_gap|gap]] or [[s/_space|space]] [[b/_between|between]] two [[a/_adjacent|adjacent]] teeth, [[e/_especially|especially]] the upper [[f/_front|front]] [[i/_incisors|incisors]] (in [[h/_humans|humans]]).**
-- **[[a/_any|Any]] [[a/_abnormal|abnormal]] [[s/_space|space]], [[f/_fissure|fissure]], or [[c/_cleft|cleft]] in an [[o/_organ|organ]] or [[p/_part|part]] of the [[b/_body|body]].**
-- **The [[m/_modified|modified]] [[p/_protoplasm|protoplasm]] at the [[e/_equator|equator]] of a [[c/_cell|cell]], [[e/_existing|existing]] [[b/_before|before]] [[m/_mitotic|mitotic]] [[d/_division|division]].**
----
----

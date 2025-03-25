@@ -1,6 +1,0 @@
-# Housewares
----
-#noun
-- **Homeware.**
----
----

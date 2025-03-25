@@ -1,6 +1,0 @@
-# Gamp
----
-#noun
-- **An umbrella.**
----
----

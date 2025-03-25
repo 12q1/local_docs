@@ -1,6 +1,0 @@
-# Claypan
----
-#noun
-- **A [[c/_compact|compact]] [[s/_stratum|stratum]] of [[p/_partially|partially]] [[p/_permeable|permeable]] [[m/_material|material]] [[r/_rich|rich]] in [[c/_clay|clay]].**
----
----

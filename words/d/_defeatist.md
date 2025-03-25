@@ -1,9 +1,0 @@
-# Defeatist
----
-#noun
-- **[[s/_someone|Someone]] who [[a/_advocates|advocates]] [[d/_defeatism|defeatism]], or [[h/_has|has]] [[s/_such|such]] an [[a/_attitude|attitude]]**
----
-#adjective
-- **Of, or [[r/_relating|relating]] to [[d/_defeatism|defeatism]]**
----
----

@@ -1,8 +1,0 @@
-# Lees
----
-#noun
-- **The [[s/_sediment|sediment]] that [[s/_settles|settles]] [[d/_during|during]] [[f/_fermentation|fermentation]] of [[b/_beverages|beverages]], [[c/_consisting|consisting]] of [[d/_dead|dead]] [[y/_yeast|yeast]] and [[p/_precipitated|precipitated]] [[p/_parts|parts]] of the [[f/_fruit|fruit]].**
----
-### Synonyms
-- [[d/_dregs|dregs]]
----

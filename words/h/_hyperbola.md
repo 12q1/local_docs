@@ -1,6 +1,0 @@
-# Hyperbola
----
-#noun
-- **A [[c/_conic|conic]] [[s/_section|section]] [[f/_formed|formed]] by the [[i/_intersection|intersection]] of a [[c/_cone|cone]] with a [[p/_plane|plane]] that [[i/_intersects|intersects]] the [[b/_base|base]] of the [[c/_cone|cone]] and is not tangent to the [[c/_cone|cone]].**
----
----

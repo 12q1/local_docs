@@ -1,6 +1,0 @@
-# Governessy
----
-#adjective
-- **Governesslike**
----
----

@@ -1,8 +1,0 @@
-# Impolitic
----
-#adjective
-- **Not in [[a/_accordance|accordance]] with [[g/_good|good]] [[p/_policy|policy]].**
----
-### Synonyms
-- [[i/_inexpedient|inexpedient]], [[u/_unadvisable|unadvisable]], [[u/_unwise|unwise]]
----

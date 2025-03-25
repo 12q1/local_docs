@@ -1,7 +1,0 @@
-# Panada
----
-#noun
-- **A thick [[p/_paste|paste]] [[m/_made|made]] by [[m/_mixing|mixing]] breadcrumbs, [[f/_flour|flour]], [[e/_etc|etc]]. with water, [[m/_milk|milk]], [[s/_stock|stock]], [[b/_butter|butter]] or [[s/_sometimes|sometimes]] [[e/_egg|egg]] [[y/_yolks|yolks]]**
-- **[[a/_any|Any]] of [[s/_several|several]] [[s/_soups|soups]] [[m/_made|made]] using this [[p/_paste|paste]]**
----
----

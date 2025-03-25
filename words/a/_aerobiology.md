@@ -1,6 +1,0 @@
-# Aerobiology
----
-#noun
-- **The [[s/_study|study]] of the [[d/_dispersion|dispersion]] of [[a/_airborne|airborne]] [[b/_biological|biological]] [[m/_materials|materials]], as [[p/_pollen|pollen]], [[s/_spores|spores]], [[m/_microorganisms|microorganisms]], or viruses.**
----
----

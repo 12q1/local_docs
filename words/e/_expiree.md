@@ -1,6 +1,0 @@
-# Expiree
----
-#noun
-- **In [[p/_penal|penal]] [[c/_colonies|colonies]] of [[e/_early|early]] [[a/_australia|Australia]], a [[c/_convict|convict]] whose [[s/_sentence|sentence]] [[h/_had|had]] [[b/_been|been]] [[s/_served|served]].**
----
----

@@ -1,7 +1,0 @@
-# Gristle
----
-#noun
-- **[[c/_cartilage|Cartilage]]; [[n/_now|now]] [[e/_especially|especially]]: [[c/_cartilage|cartilage]] [[p/_present|present]], as a tough [[s/_substance|substance]], in [[m/_meat|meat]].**
-- **(from [[o/_obsolete|obsolete]] [[s/_scientific|scientific]] theory) [[b/_bone|Bone]] not [[y/_yet|yet]] [[h/_hardened|hardened]] by [[a/_age|age]] and [[h/_hard|hard]] work.**
----
----

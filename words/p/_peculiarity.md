@@ -1,9 +1,0 @@
-# Peculiarity
----
-#noun
-- **The [[q/_quality|quality]] or [[s/_state|state]] of [[b/_being|being]] [[p/_peculiar|peculiar]]; [[i/_individuality|individuality]]; [[s/_singularity|singularity]].**
-	- _Example: The peculiarity of meeting six people on a usually deserted trail only struck me later on._
-- **That which is [[p/_peculiar|peculiar]]; a [[s/_special|special]] and [[d/_distinctive|distinctive]] [[c/_characteristic|characteristic]] or [[h/_habit|habit]]; [[p/_particularity|particularity]].**
-- **[[e/_exclusive|Exclusive]] [[p/_possession|possession]] or [[r/_right|right]].**
----
----

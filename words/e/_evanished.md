@@ -1,6 +1,0 @@
-# Evanished
----
-#verb
-- **To vanish.**
----
----

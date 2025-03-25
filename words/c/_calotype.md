@@ -1,6 +1,0 @@
-# Calotype
----
-#noun
-- **A talbotype**
----
----

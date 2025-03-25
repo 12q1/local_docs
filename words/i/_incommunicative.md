@@ -1,6 +1,0 @@
-# Incommunicative
----
-#adjective
-- **Uncommunicative.**
----
----

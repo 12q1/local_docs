@@ -1,6 +1,0 @@
-# Evanishes
----
-#verb
-- **To vanish.**
----
----

@@ -1,6 +1,0 @@
-# Lamberts
----
-#noun
-- **A [[c/_cgs|cgs]] unit of [[l/_luminance|luminance]]; the [[b/_brightness|brightness]] of a surface that [[e/_emits|emits]] [[o/_one|one]] [[l/_lumen|lumen]] [[p/_per|per]] [[s/_square|square]] [[c/_centimetre|centimetre]]**
----
----

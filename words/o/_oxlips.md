@@ -1,6 +1,0 @@
-# Oxlips
----
-#noun
-- **The [[p/_plant|plant]] [[p/_primula|Primula]] elatior, [[s/_similar|similar]] to [[c/_cowslip|cowslip]] but with [[l/_larger|larger]], [[p/_pale|pale]] [[y/_yellow|yellow]] [[f/_flowers|flowers]].**
----
----

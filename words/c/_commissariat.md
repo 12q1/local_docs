@@ -1,9 +1,0 @@
-# Commissariat
----
-#noun
-- **A supply of [[f/_food|food]].**
-- **The [[d/_department|department]] of an [[a/_army|army]] that supplies [[p/_provisions|provisions]] for the troops.**
-- **A [[d/_department|department]] of the [[g/_government|government]] of the [[s/_soviet|Soviet]] Union in the [[e/_early|early]] [[p/_period|period]] of [[i/_its|its]] [[e/_existence|existence]].**
-- **A territorial and [[g/_governmental|governmental]] unit of [[c/_colombia|Colombia]] at [[s/_some|some]] [[p/_points|points]] in [[i/_its|its]] [[h/_history|history]].**
----
----
